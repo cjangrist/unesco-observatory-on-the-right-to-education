@@ -4,11 +4,72 @@
 
 # INDICE POR ARTICULOS
 
+DISPOSICIONES FUNDAMENTALES Artículos 1 a 12
+. Capítulo Unico 1 a 12
+LIBRO PRIMERO: DERECHOS Y DEBERES FUNDAMENTALES
+Artículos 13 a 157
+. TITULO I: DERECHO A LA VIDA Y A LA SALUD 13 a 26
+. Capítulo Unico 13 a 26
+. TITULO II: DERECHO A LA FAMILIA 27 a 93
+. Capítulo I: Disposiciones Generales 27 a 36
+. Capítulo II: Familia Sustituta 37 a 93
+- Sección I: Disposiciones Generales 37 a 41
+- Sección II: La Guarda 42 a 50
+- Sección III: La Tutela 51 a 56
+- Sección IV: La Adopción 57 a 93
+. Disposiciones Generales 57 a 78
+. Subsección I: Adopción Nacional 79 a 83
+. Subsección II: Adopción Internacional 84 a 93
+. TITULO III: DERECHO A LA NACIONALIDAD E IDENTIDAD 94 a 99
+. Capítulo I: Derecho a la Nacionalidad 94 a 95
+. Capítulo II: Derecho a la Identidad 96 a 99
+. TITULO IV: DERECHO A LA LIBERTAD, AL RESPETO Y A LA
+DIGNIDAD 100 a 111
+. Capítulo Unico: Derechos 100 a 111
+- Sección I: Derecho a la Libertad 100 a 104
+- Sección II: Derecho al Respeto y a la Dignidad 105 a 111
+. TITULO V: DERECHO A LA EDUCACION, A LA CULTURA Y AL
+ESPARCIMIENTO 112 a 123
+. Capítulo I: Derecho a la Educación 112 a 120
+. Capítulo II: Derecho a la Cultura y al Esparcimiento 121 a 123
+
 1
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+. TITULO VI: DERECHO A LA PROTECCION EN EL TRABAJO 124-156
+. Capítulo I: Disposiciones Generales 124 a 132
+. Capítulo II: Trabajos Prohibidos 133 a 135
+. Capítulo III: Trabajo de Adolescentes en Régimen de Dependencia
+136 a 148
+. Capítulo IV: Trabajadores por Cuenta Propia 149 a 152
+. Capítulo V: Régimen de Trabajo Familiar 153 a 156
+. TITULO VII: DEBERES FUNDAMENTALES 157
+LIBRO SEGUNDO: PREVENCION, ATENCION Y PROTECCION
+158 a 212
+. TITULO I: PREVENCION 158 a 188
+. Capítulo I: Disposiciones Generales 158 a 159
+. Capítulo II: Prevención Especial 160 a 168
+. Capítulo III: Autorización para Viajar 169 a 170
+. Capítulo IV: Entidades 171 a 188
+- Sección I: Entidad Normativa 171
+- Sección II: Consejo Nacional 172 a 175
+- Sección III: Comisiones de la Niñez y Adolescencia de los
+Consejos Departamentales de las Prefecturas 176 a 178
+- Sección IV: Instancias Técnicas Gubernamentales 179 a 180
+- Sección V: Instituciones Gubernamentales y Privadas de
+Atención a la Niñez y Adolescencia 181 a 188
+. TITULO II: POLITICAS DE PROTECCION 189 a 212
+. Capítulo I: Disposiciones Generales 189 a 191
+. Capítulo II: Entidades de Protección 192 a 203
+- Sección I: Comisiones Municipales de la Niñez
+y Adolescencia 192 a 193
+- Sección II: Defensorías Municipales de la Niñez
+y Adolescencia 194 a 203
+. Capítulo III: Fiscalización 204 a 206
+. Capítulo IV: Medidas de Protección Social 207 a 212
 
 2
 
@@ -17,6 +78,33 @@
 [[START OF PAGE 3]]
 
 LIBRO TERCERO: PROTECCION JURIDICA, RESPONSABILIDAD, JURISDICCION Y PROCEDIMIENTOS 213 a 319
+. TITULO I: PROTECCION JURIDICA 213 a 262
+. Capítulo I: Disposiciones Generales 213 a 218
+. Capítulo II: Medidas Correspondientes a Padres, Responsables o
+Terceros 219 a 220
+. Capítulo III: Responsabilidad en Infracciones 221 a 256
+- Sección I: Responsabilidad Social de
+Adolescentes 221 a 226
+- Sección II: Derechos Individuales 227 a 229
+- Sección III: Garantías Procesales 230
+- Sección IV: Medidas Cautelares 231 a 236
+- Sección V: Medidas Socio-Educativas 237 a 256
+. Subsección I: Disposiciones Generales 237 a 241
+. Subsección II: Alcance de las Medidas 242 a 252
+. Subsección III: Remisión 253 a 256
+. Capítulo IV: Infracciones Administrativas 257 a 262
+. TITULO II: JURISDICCION Y COMPETENCIA 263 a 273
+. Capítulo I: Disposiciones Generales 263 a 267
+. Capítulo II: Juzgados 268 a 271
+. Capítulo III: Ministerio Público 272 a 273
+. TITULO III: PROCEDIMIENTOS 274 a 319
+. Capítulo I: Procedimiento Común 274 a 296
+. Capítulo II: Procedimientos para Adopción Nacional e Internacional
+297 a 302
+. Capítulo III: Delitos Atribuidos al Adolescente 303 a 319
+DISPOSICIONES TRANSITORIAS
+DISPOSICIONES FINALES
+ABROGACIONES Y DEROGACIONES
 
 3
 
@@ -60,13 +148,15 @@ Además, es obligación del Estado asegurarles por Ley o por otros medios, todas
 Conc. (Art. 7°,9°,10°,11°,12°.13,14°,15°,16° C.P.E.)
 
 ### ARTICULO 6º (INTERPRETACION).
-Las normas del presente Código deben interpretarse velando por el interés superior del niño, niña y adolescente, de acuerdo con la Constitución Política del Estado, las Convenciones, Tratados Internacionales vigentes y las leyes de la República.
+Las normas del presente Código deben interpretarse velando por el interés superior del niño, niña y adolescente, de acuerdo
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+con la Constitución Política del Estado, las Convenciones, Tratados Internacionales vigentes y las leyes de la República.
 
 Conc. (Art. 3 C.D.N.)
 
@@ -206,13 +296,15 @@ Conc. (Art. 23 Inc.2, 25  C.D.N. - Art. 115° Inc. 3 C.N.N.A.)
 La protección y atención integral a  que se refiere los Artículos 20º, 21º, 22º, 23º y 24º de este Código, no impide ni afecta el cumplimiento de otras leyes o disposiciones específicas.
 
 #### ARTICULO 26º (PRIORIDAD PRESUPUESTARIA).
-El Estado a través de los Poderes Ejecutivo y Legislativo, así como los Gobiernos Municipales, otorgarán las partidas presupuestarias necesarias y suficientes para cubrir requerimientos del área de salud.
+El Estado a través de los Poderes Ejecutivo y Legislativo, así como los Gobiernos Municipales, otorgarán las
 
 9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+partidas presupuestarias necesarias y suficientes para cubrir requerimientos del área de salud.
 
 Conc. (Art. 4,  24 C.D.N.)
 
@@ -607,13 +699,15 @@ Todo  niño,  niña  o adolescente que haya sido adoptado, tiene derecho a conoc
 ##### SUB SECCION I ADOPCION NACIONAL
 
 ###### ARTICULO 79º (CONCEPTO).
-Se entiende por adopción nacional, cuando los adoptantes tienen nacionalidad boliviana y residen en el país o, siendo extranjeros tienen  residencia  permanente  en  el  territorio  nacional  por  más  de  dos  años  y  los adoptados son bolivianos de origen.
+Se entiende por adopción nacional, cuando los adoptantes tienen nacionalidad boliviana y residen en el país o, siendo extranjeros
 
 20
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+tienen residencia permanente en el territorio nacional por más de dos años y los adoptados son bolivianos de origen.
 
 Conc. (Art. 21° C.N.N.A.)
 
@@ -681,13 +775,15 @@ En dichos convenios o en adémdum posterior, cada Estado explicitará la Autorid
 
 Esta  Autoridad  Central  realizará  sus  actuaciones  directamente  o  por  medio  de organismos debidamente acreditados en su propio Estado y en el Estado Boliviano.
 
-La información sobre esta designación, el ámbito de sus funciones, así como el nombre y dirección de los organismos acreditados y de sus representantes en Bolivia, deberán ser comunicados oficialmente al Estado Boliviano por medio de la autoridad central correspondiente.
+La información sobre esta designación, el ámbito de sus funciones, así como el nombre y dirección de los organismos acreditados y de sus representantes en Bolivia, deberán
 
 22
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+ser comunicados oficialmente al Estado Boliviano por medio de la autoridad central correspondiente.
 
 Conc. (Art. 21 Inc. c) C.D.N.)
 
@@ -719,7 +815,7 @@ Se establecen los siguientes requisitos:
 
 - Tener un máximo de cincuenta años de edad;
 
-- Certificados médicos que acrediten que los adoptantes gozan de buena salud física  y  mental;  en  caso  de  duda,  el  Juez  de  la  Niñez  y  Adolescencia  podrá disponer su homologación por profesionales nacionales;
+- Certificados médicos que acrediten que los adoptantes gozan de buena salud física y mental; en caso de duda, el Juez de la Niñez y Adolescencia podrá
 
 23
 
@@ -727,7 +823,9 @@ Se establecen los siguientes requisitos:
 
 [[START OF PAGE 24]]
 
-- Certificado  otorgado  por  autoridad  competente  del  país  de  origen  que acredite  solvencia  económica;
+disponer su homologación por profesionales nacionales;
+
+- Certificado otorgado por autoridad competente del país de origen que acredite solvencia económica;
 
 - Informe psicosocial elaborado en el país de residencia;
 
@@ -876,13 +974,15 @@ Este derecho comprende:
 Conc. (Art. 210° C.N.N.A.)
 
 ##### ARTICULO 108º (MALTRATO).
-Constituye maltrato todo acto de violencia ejercido por padres, responsables, terceros y/o instituciones, mediante abuso, acción, omisión o supresión, en forma habitual u ocasional, que atente contra los derechos reconocidos a niños, niñas y adolescentes por este Código y otras leyes; violencia que les ocasione daños o perjuicios en su salud física, mental o emocional.
+Constituye maltrato todo acto de violencia ejercido por padres, responsables, terceros y/o instituciones, mediante abuso, acción,
 
 27
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+omisión o supresión, en forma habitual u ocasional, que atente contra los derechos reconocidos a niños, niñas y adolescentes por este Código y otras leyes; violencia que les ocasione daños o perjuicios en su salud física, mental o emocional.
 
 Los casos de maltrato que constituyan delito, pasarán a conocimiento de la justicia ordinaria conforme a Ley.
 
@@ -1003,13 +1103,15 @@ Conc. (Art. 177° C.P.E. - 28 C.D.N. - 20°, 208° Inc. 3 C.N.N.A.)
 
 #### ARTICULO 116º (DERECHO A LA EDUCACION EN EL AREA RURAL).- 
 
-El  Estado,  a  través  de  las  Prefecturas,  Municipalidades  y  otros  organismos correspondientes, está en la obligación de adoptar las medidas más eficaces para garantizar la escolarización de los niños, niñas y adolescentes de las áreas rurales y, entre otras:
+El Estado, a través de las Prefecturas, Municipalidades y otros organismos correspondientes, está en la obligación de adoptar las medidas más eficaces para
 
 30
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+garantizar la escolarización de los niños, niñas y adolescentes de las áreas rurales y, entre otras:
 
 - Crear  escuelas, con la dotación de ítems para el personal, material pedagógico y recursos necesarios para su funcionamiento;
 
@@ -1314,13 +1416,15 @@ Conc. (Art. 28 C.D.N. - Art. 115° C.N.N.A.)
 ### CAPITULO V REGIMEN DE TRABAJO FAMILIAR
 
 #### ARTICULO 153º (CONCEPTO).
-Se considera trabajador en régimen de trabajo familiar, al que desempeña actividades orientadas a la satisfacción de necesidades básicas que permitan la sobrevivencia individual y familiar, tanto en el área urbana como rural.
+Se considera trabajador en régimen de trabajo familiar, al que desempeña actividades orientadas a la satisfacción de necesidades
 
 38
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+básicas que permitan la sobrevivencia individual y familiar, tanto en el área urbana como rural.
 
 Por tratarse de actividades que se desarrollan en el seno de la propia familia, este régimen de trabajo no está sujeto a una remuneración económica ni implica una relación obrero- patronal.
 
@@ -1478,7 +1582,7 @@ Toda  autorización  de  viaje  está  exenta  de cualquier pago.
 
 ### CAPTULO IV ENTIDADES
 
-#### SECCION I ENTIDAD  NORMATIV A
+#### SECCION I ENTIDAD NORMATIVA
 
 ##### ARTICULO 171º (ENTIDAD NORMATIVA).
 La entidad normativa estatal de las políticas para la niñez y adolescencia es el Ministerio de Desarrollo Sostenible y Planificación, a través del Viceministerio de Asuntos de Género, Generacionales y Familia, y tiene las siguientes atribuciones, ademas de las definidas por Ley:
@@ -1672,7 +1776,7 @@ Las instituciones que desarrollen programas de acogimiento deberán cumplir los 
 Conc. (Art. 5 C.N.D. - 185° C.N.N.A.)
 
 ##### ARTICULO 186º (SERVICIOS SOCIO-EDUCATIVOS).
-Los Servicios Socioeducativos,  públicos  o  privados  brindarán  apoyo  interdisciplinario  en  las  áreas psicológica, pedagógica y social, bajo el sistema de puertas abiertas, para orientar al niño, niña y adolescente, en procura de lograr una mayor  vinculación  con su núcleo familiar y su comunidad.
+Los Servicios Socio-educativos, públicos o privados brindarán apoyo interdisciplinario en las áreas psicológica, pedagógica y social, bajo el sistema de puertas abiertas, para orientar al niño, niña y adolescente, en procura de lograr una mayor vinculación con su núcleo familiar y su comunidad.
 
 ##### ARTICULO 187º (ORDEN JUDICIAL).
 Las instituciones de atención no podrán acoger a niños, niñas y adolescentes sin previa orden judicial, tampoco podrán disponer su transferencia a terceros, a otras entidades gubernamentales o no gubernamentales sin orden del Juez de la Niñez y Adolescencia.
@@ -1718,13 +1822,15 @@ Se prohíbe que los adolescentes que presenten problemas de salud, físicos o me
 Las políticas de protección considerarán la situación de los niños, niñas o adolescentes en forma general y,  en  particular,  la  situación  de  riesgo  social  que  amenazare  a  éstos  por  el incumplimiento y violación a sus derechos.
 
 #### ARTICULO 190º  (REPRESENTACION DE FUNCIONES).
-Los Gobiernos Municipales cumplen  las    funciones    de  protección  a  la  niñez  y  adolescencia  en representación del Estado y la Sociedad a través de las Comisiones Municipales y las Defensorías de la Niñez y Adolescencia.
+Los Gobiernos Municipales cumplen las funciones de protección a la niñez y adolescencia en
 
 49
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+representación del Estado y la Sociedad a través de las Comisiones Municipales y las Defensorías de la Niñez y Adolescencia.
 
 #### ARTICULO 191º (ESTRATEGIAS DE LAS POLITICAS MUNICIPALES DE PROTECCION).
 Las políticas municipales de protección y defensa seguirán las siguientes estrategias:
@@ -2285,7 +2391,7 @@ Conc. (Art. 40 párrado 1° C.D.N. - Art. 18 R.B.)
 [[START OF PAGE 65]]
 
 ###### ARTICULO 243º (PRESTACION DE SERVICIOS A LA COMUNIDAD).- 
-Consiste  en  tareas  prestadas  gratuitamente  por  el  adolescente  en  beneficio  de  la community en entidades asistenciales, hospitales, escuelas u otros establecimientos similares, así como en programas comunitarios o estatales, por un período no mayor a seis meses.
+Consiste  en  tareas  prestadas  gratuitamente  por  el  adolescente  en  beneficio  de  la comunidad en entidades asistenciales, hospitales, escuelas u otros establecimientos similares, así como en programas comunitarios o estatales, por un período no mayor a seis meses.
 
 Las tareas serán asignadas de acuerdo con las aptitudes del adolescente y  deberán ser efectuadas en jornadas máximas de ocho horas semanales con las garantías establecidas por el presente Código.  Estas jornadas podrán cumplirse los días sábados, domingos y feriados o en días hábiles de la semana, de manera que no perjudiquen la asistencia a la escuela o jornada normal de trabajo.
 
@@ -2700,7 +2806,7 @@ El Juez o Tribunal ante quien se interponga los recursos no se pronunciará sobr
 
 Si  se  ha  ofrecido  prueba  en  segunda  instancia  el  recurso  no  podrá  resolverse  sin escuchar a las partes en audiencia.
 
-#### ARTICULO 285º (INCIDENTES Y EXCEPCIONES).
+#### ARTICULO 285º (INCIDENTES Y EXCEPCIONES).- 
 Toda excepción previa o incidente deberá ser planteado ante el Juez de la causa, quien dentro de las veinticuatro horas ordenará su traslado para que la contesten dentro las setenta y dos horas siguientes a su notificación.
 
 Vencido el plazo previsto, el Juez con contestación o sin ella, señalará día y hora de audiencia para resolver la excepción o el incidente.
@@ -2709,25 +2815,25 @@ En la audiencia, el Juez resolverá las cuestiones planteadas aplicando en lo pe
 
 Las excepciones perentorias serán resueltas en sentencia.
 
-Cuando la excepción o el incidente sea planteado en el curso de la audiencia del juicio, se formulará verbalmente y, oída la parte contraria, se decidirá  inmediatamente.
+Cuando la excepción o el incidente sea planteado en el curso de la audiencia del juicio, se formulará verbalmente y, oída la parte contraria, se decidirá inmediatamente.
 
-#### ARTICULO 286º (NOTIFICACIONES).
+#### ARTICULO 286º (NOTIFICACIONES).- 
 Las notificaciones se practicarán por cualquier medio legal de comunicación que el interesado expresamente haya aceptado, excepto las notificaciones personales.
 
 Deberá notificarse personalmente con la demanda, con los incidentes o excepciones, con la sentencia y con los recursos.
 
 Toda notificación en audiencia se la realizará en forma oral, debiendo constar en acta.
 
-#### ARTICULO 287º (PLAZOS PARA RESOLVER).
-Las  resoluciones  se pronunciarán dentro de los siguientes plazos:
+#### ARTICULO 287º (PLAZOS PARA RESOLVER).- 
+Las resoluciones se pronunciarán dentro de los siguientes plazos:
 
-- Las providencias de mero trámite se dictarán dentro de las veinticuatro horas de la presentación de los actos que las motivan;
+1. Las providencias de mero trámite se dictarán dentro de las veinticuatro horas de la presentación de los actos que las motivan;
 
-- Los autos interlocutorios, en el plazo de tres días cuando no requieran de la celebración de audiencia; y,
+2. Los autos interlocutorios, en el plazo de tres días cuando no requieran de la celebración de audiencia; y,
 
-- Las  sentencias  y  autos  interlocutorios  simples  o  definitivos  se  dictarán  en audiencia.
+3. Las sentencias y autos interlocutorios simples o definitivos se dictarán en audiencia.
 
-#### ARTICULO 288º (SUSPENSION, PERDIDA O EXTINCION DE LA AUTORIDAD DE PADRES.  LEGITIMACION).
+#### ARTICULO 288º (SUSPENSION, PERDIDA O EXTINCION DE LA AUTORIDAD DE PADRES. LEGITIMACION).-
 Los  familiares  dentro  del segundo grado de consanguinidad o afinidad y el Ministerio Público, a denuncia de
 
 76
@@ -2738,28 +2844,28 @@ Los  familiares  dentro  del segundo grado de consanguinidad o afinidad y el Min
 
 las Defensorías de la Niñez y Adolescencia podrán demandar la suspensión, pérdida o extinción de la autoridad de los padres del niño, niña o adolescente. Conc. (Art. 33°, 34°, 35° C.N.N.A.)
 
-#### ARTICULO 289º (RESOLUCION JUDICIAL).
-En los casos de suspensión, pérdida y extinción de la autoridad de  los padres, el Juez de la Niñez y Adolescencia, en  sentencia designará guardador o tutor legal en los términos de este Código.
+#### ARTICULO 289º (RESOLUCION JUDICIAL).- 
+En los casos de suspensión, pérdida y extinción de la autoridad de los padres, el Juez de la Niñez y Adolescencia, en sentencia designará guardador o tutor legal en los términos de este Código.
 
-#### ARTICULO 290º (INEXISTENCIA DE FILIACION, LEGITIMACION).
-En las  situaciones  previstas  en  este  Código,  el  Fiscal  o  las  instituciones  legalmente reconocidas de protección de niños, niñas y adolescentes podrán demandar ante el Juez de la Niñez y Adolescencia la inexistencia de filiación o desconocimiento del paradero de los padres.
+#### ARTICULO 290º (INEXISTENCIA DE FILIACION, LEGITIMACION).- 
+En las situaciones previstas en este Código, el Fiscal o las instituciones legalmente reconocidas de protección de niños, niñas y adolescentes podrán demandar ante el Juez de la Niñez y Adolescencia la inexistencia de filiación o desconocimiento del paradero de los padres.
 
 Conc. (Art. 36 ° C.N.N.A.)
 
-#### ARTICULO 291º (PUBLICACION).
+#### ARTICULO 291º (PUBLICACION).- 
 Admitida la demanda y con el dictamen fiscal, el Juez dispondrá la publicación de avisos por dos veces consecutivas, con intervalo de tres días en un órgano de prensa escrita de circulación nacional, dando a conocer la realización del trámite y mostrando la fotografía del niño, niña o adolescente, a efectos de ser reclamados por sus parientes.
 
-#### ARTICULO 292º (CONSTATACION EN JUICIO).
+#### ARTICULO 292º (CONSTATACION EN JUICIO).- 
 En caso de existir reclamo de padre o parientes, éstos adquirirán la calidad de demandados, debiendo en juicio constatarse el parentesco.
 
-#### ARTICULO 293º (SENTENCIA).
-De  no  existir  reclamo  alguno  o  de  no comprobarse en juicio el parentesco, en audiencia, mediante sentencia se establecerá la extinción por abandono comprobado o la inexistencia de filiación, disponiendo la inscripción    del  niño,  niña  o  adolescente  en  el  Registro  Civil,  con  nombres  y  dos apellidos  convencionales  y  otorgando  su  guarda  a  familia  sustituta  o  a  entidad  de acogimiento.
+#### ARTICULO 293º (SENTENCIA).- 
+De no existir reclamo alguno o de no comprobarse en juicio el parentesco, en audiencia, mediante sentencia se establecerá la extinción por abandono comprobado o la inexistencia de filiación, disponiendo la inscripción del niño, niña o adolescente en el Registro Civil, con nombres y dos apellidos convencionales y otorgando su guarda a familia sustituta o a entidad de acogimiento.
 
-Cuando  se  constate  el  parentesco,  el  Juez  podrá  disponer  la  reinserción  familiar tomando  las  medidas  necesarias  de  control  y  seguimiento  por  parte  del  Equipo Interdisciplinario  del  juzgado  o  de  otra  entidad  pública  o  privada  de  atención  y protección.
+Cuando se constate el parentesco, el Juez podrá disponer la reinserción familiar tomando las medidas necesarias de control y seguimiento por parte del Equipo Interdisciplinario del juzgado o de otra entidad pública o privada de atención y protección.
 
 Conc. (Art. 270° Inc. 3 C.N.N.A.)
 
-#### ARTICULO 294º (NORMA SUPLETORIA).
+#### ARTICULO 294º (NORMA SUPLETORIA).-
 Todas las cuestiones vinculadas en materias  de  contenido  civil  donde  intervengan  niños,  niñas  o  adolescentes, contemplados en el presente Código, se rigen supletoriamente por lo dispuesto en el Código  de  Procedimiento  Civil.
 
 77
@@ -2768,36 +2874,36 @@ Todas las cuestiones vinculadas en materias  de  contenido  civil  donde  interv
 
 [[START OF PAGE 78]]
 
-#### ARTICULO 295º (SUSPENSION DE LAS AUDIENCIAS).
-Las audiencias en las  que  se  resuelvan  incidentes  o  excepciones  y  la  del  juicio,  únicamente  se suspenderán:
+#### ARTICULO 295º (SUSPENSION DE LAS AUDIENCIAS).- 
+Las audiencias en las que se resuelvan incidentes o excepciones y la del juicio, únicamente se suspenderán:
 
-- Cuando sea necesario practicar algún acto fuera del lugar de la audiencia y no pueda cumplirse en el intervalo entre una y otra;
+1. Cuando sea necesario practicar algún acto fuera del lugar de la audiencia y no pueda cumplirse en el intervalo entre una y otra;
 
-- Cuando no comparezcan testigos, peritos o intérpretes cuya intervención sea indispensable, salvo que pueda continuarse con la recepción de otras pruebas hasta que el ausente sea conducido por la fuerza pública;
+2. Cuando no comparezcan testigos, peritos o intérpretes cuya intervención sea indispensable, salvo que pueda continuarse con la recepción de otras pruebas hasta que el ausente sea conducido por la fuerza pública;
 
-- Cuando el Juez se enferme en grado tal que no pueda continuar su actuación; o,
+3. Cuando el Juez se enferme en grado tal que no pueda continuar su actuación; o,
 
-- Cuando sea necesario realizar, a criterio del Juez, alguna prueba para proveer mejor.
+4. Cuando sea necesario realizar, a criterio del Juez, alguna prueba para proveer mejor.
 
-#### ARTICULO 296º (PROCED1IMIENTO POR IRREGULARIDADES, FALTAS E INFRACCIONES A NORMAS DE PREVENCION Y ATENCION).
+#### ARTICULO 296º (PROCEDIMIENTO POR IRREGULARIDADES, FALTAS E INFRACCIONES A NORMAS DE PREVENCION Y ATENCION).- 
 La denuncia por irregularidades, faltas e infracciones a normas de prevención, atención y protección de niños, niñas y adolescentes previstas en este Código, se regirán por el procedimiento previsto para los delitos.
 
 Durante la investigación podrá promoverse el compromiso de la entidad o persona infractora, el cual deberá ser homologado por el Juez de la Niñez y adolescencia.
 
 La sentencia podrá determinar:
 
-- La aplicación de las sanciones o medidas dispuestas por este Código;
+1. La aplicación de las sanciones o medidas dispuestas por este Código;
 
-- La remisión de antecedentes a conocimiento de la autoridad competente para la acción civil, penal o administrativa correspondientes.
+2. La remisión de antecedentes a conocimiento de la autoridad competente para la acción civil, penal o administrativa correspondientes.
 
 Conc. (Art. 257° y siguientes C.N.N.A.)
 
 ### CAPITULO II PROCEDIMIENTOS PARA ADOPCION NACIONAL E INTERNACIONAL
 
-#### ARTICULO 297º (ACTO PREPARATORIO DE LA DEMANDA).
-Los solicitantes nacionales, con orden del Fiscal de la Niñez y Adolescencia, solicitarán a la  entidad  técnica  correspondiente,  la  elaboración  de  los  certificados  a  que  hacen referencia los numerales 5, 6 y 8 del Artículo 83º del presente Código, quienes deberán elaborar los mismos en un plazo máximo de treinta días.
+#### ARTICULO 297º (ACTO PREPARATORIO DE LA DEMANDA).- 
+Los solicitantes nacionales, con orden del Fiscal de la Niñez y Adolescencia, solicitarán a la entidad técnica correspondiente, la elaboración de los certificados a que hacen referencia los numerales 5, 6 y 8 del Artículo 83º del presente Código, quienes deberán elaborar los mismos en un plazo máximo de treinta días.
 
-Los  ciudadanos  extranjeros  o  bolivianos  no  residentes  en  Bolivia  presentarán  su solicitud de adopción ante el Juez, mediante responsable acreditado por la autoridad central del país de residencia de los solicitantes, previo cumplimiento de los requisitos establecidos en el Capítulo II, Título II, Sección IV del Libro I del presente Código, pudiendo especificar en dicha solicitud el sexo y edad aproximada del niño, niña por adoptarse.
+Los ciudadanos extranjeros o bolivianos no residentes en Bolivia presentarán su solicitud de adopción ante el Juez, mediante responsable acreditado por la autoridad central del país de residencia de los solicitantes, previo cumplimiento de los requisitos
 
 78
 
@@ -2805,27 +2911,31 @@ Los  ciudadanos  extranjeros  o  bolivianos  no  residentes  en  Bolivia  presen
 
 [[START OF PAGE 79]]
 
-El responsable acreditado acompañará a los adoptantes en todo el proceso. Conc.(Art. 180° Inc. 4 C.N.N.A.)
+establecidos en el Capítulo II, Título II, Sección IV del Libro I del presente Código, pudiendo especificar en dicha solicitud el sexo y edad aproximada del niño, niña por adoptarse.
 
-#### ARTICULO 298º (DEMANDA Y ADMISION).
-La demanda será presentada ante el Juez  de la Niñez y Adolescencia del domicilio del adoptado exponiendo los motivos y cumpliendo los requisitos que señala este Código.
+El responsable acreditado acompañará a los adoptantes en todo el proceso.
 
-En caso de que se trate de niño, niña o adolescente sujeto a autoridad de uno o de ambos padres, será preciso adjuntar en forma escrita el consentimiento de éstos para la  adopción.
+Conc.(Art. 180° Inc. 4 C.N.N.A.)
+
+#### ARTICULO 298º (DEMANDA Y ADMISION).- 
+La demanda será presentada ante el Juez de la Niñez y Adolescencia del domicilio del adoptado exponiendo los motivos y cumpliendo los requisitos que señala este Código.
+
+En caso de que se trate de niño, niña o adolescente sujeto a autoridad de uno o de ambos padres, será preciso adjuntar en forma escrita el consentimiento de éstos para la adopción.
 
 Previa a la admisión de la demanda, el Juez pondrá en conocimiento del Ministerio Público, quien con la prueba documental, en el plazo de veinticuatro horas, emitirá el dictamen correspondiente.
 
 En los casos de niños, niñas y adolescentes con filiación conocida y/o que se encuentren en hogar sustituto, el Juez ordenará a la entidad técnica correspondiente eleve los informes técnicos, en un plazo no mayor de cinco días.
 
-Con  el  requerimiento  del  Fiscal  y  previo  informe  técnico  u  homologación  de  los mismos por  el  Equipo  Interdisciplinario  del  Juzgado,  el  Juez  admitirá  la  demanda, procederá a la apertura del término de prueba por un plazo de treinta días y señalará día y hora para la audiencia de asignación.
+Con el requerimiento del Fiscal y previo informe técnico u homologación de los mismos por el Equipo Interdisciplinario del Juzgado, el Juez admitirá la demanda, procederá a la apertura del término de prueba por un plazo de treinta días y señalará día y hora para la audiencia de asignación.
 
 Conc. (Art. 65°, 270° Inc. 2 C.N.N.A.)
 
-#### ARTICULO 299º (AUDIENCIA DE ASIGNACION).
+#### ARTICULO 299º (AUDIENCIA DE ASIGNACION).- 
 En audiencia, el Juez previa a la asignación del niño, niña o adolescente a los futuros padres adoptivos, dará lectura al informe que contenga datos sobre: condiciones para su adopción, evolución personal y familiar, historia médica, así como sus necesidades particulares.
 
-De no existir objeción por parte de los solicitantes, asignará al niño, niña o adolescente; dará a conocer su identidad y otorgará permiso a los solicitantes para que lo visiten en la entidad de acogimiento u hogar donde se encuentre, a su vez solicitará a esta entidad que realice el seguimiento de visitas por un lapso de tres días y  eleve el respectivo informe.
+De no existir objeción por parte de los solicitantes, asignará al niño, niña o adolescente; dará a conocer su identidad y otorgará permiso a los solicitantes para que lo visiten en la entidad de acogimiento u hogar donde se encuentre, a su vez solicitará a esta entidad que realice el seguimiento de visitas por un lapso de tres días y eleve el respectivo informe.
 
-En caso de existir objeción de los solicitantes, debidamente fundamentadas, el Juez previo  dictamen  fiscal,  asignará  por  única  vez  a  otro  niño,  niña  o  adolescente  y procediendo a lo señalado anteriormente.
+En caso de existir objeción de los solicitantes, debidamente fundamentadas, el Juez previo dictamen fiscal, asignará por única vez a otro niño, niña o adolescente y procediendo a lo señalado anteriormente.
 
 79
 
@@ -2835,24 +2945,28 @@ En caso de existir objeción de los solicitantes, debidamente fundamentadas, el 
 
 En  caso    de  no  existir  fundamentos  validos,  el  Juez  dispondrá  la  inhabilitación permanente de los solicitantes, para efectos de adopción en el territorio nacional Con. (Art. 62 Inc.4 C.N.N.A.)
 
-#### ARTICULO  300º  (AUDIENCIA  DE  ENTREGA  Y  PERIODO PREADOPTIVO).
-Con  el  informe  de  seguimiento,  y  luego  de  escuchar personalmente al niño, niña o adolescente en los términos previstos por el presente Código,  el  Juez  fijará  audiencia  en  el  plazo  de  veinticuatro  horas  para  conferir  la Guarda provisional como período preadoptivo de convivencia.
+#### ARTICULO 300º (AUDIENCIA DE ENTREGA Y PERIODO PREADOPTIVO).- 
+Con el informe de seguimiento, y luego de escuchar personalmente al niño, niña o adolescente en los términos previstos por el presente Código, el Juez fijará audiencia en el plazo de veinticuatro horas para conferir la Guarda provisional como período preadoptivo de convivencia.
 
-El tiempo de esta convivencia, será fijado por el Juez, tomando en cuenta los informes de seguimiento, la edad del niño, niña o adolescente y las circunstancias de la adopción. En  la  misma  resolución  que  autoriza  el  período  preadoptivo,  la  autoridad  judicial ordenará a la entidad técnica  o al Equipo Interdisciplinario,  realizar el seguimiento de la convivencia y presentar informe a los  tres días de vencido este período. Conc. (Art. 12 C.D.N. - Art. 65° C.N.N.A.)
+El tiempo de esta convivencia, será fijado por el Juez, tomando en cuenta los informes de seguimiento, la edad del niño, niña o adolescente y las circunstancias de la adopción.
 
-#### ARTICULO 301º (ASENTIMIENTO Y RATIFICACION).
+En la misma resolución que autoriza el período preadoptivo, la autoridad judicial ordenará a la entidad técnica o al Equipo Interdisciplinario, realizar el seguimiento de la convivencia y presentar informe a los tres días de vencido este período.
+
+Conc. (Art. 12 C.D.N. – Art. 65° C.N.N.A.)
+
+#### ARTICULO 301º (ASENTIMIENTO Y RATIFICACION).- 
 Cumplido el término probatorio, el Juez en audiencia, con la concurrencia del Fiscal, la entidad técnica correspondiente y los solicitantes, pedirá el asentimiento y la ratificación de quienes deban otorgarlos.
 
-Dependiendo de la edad y madurez, el Juez escuchará al niño, niña  y en todos los casos a los adolescentes.
+Dependiendo de la edad y madurez, el Juez escuchará al niño, niña y en todos los casos a los adolescentes.
 
 En la misma audiencia, el Juez deberá informar y prevenir al niño, niña o adolescente, a los adoptantes y a quienes den el consentimiento, sobre las consecuencias jurídicas de la adopción, dejando en el expediente constancia escrita en acta.
 
 El Juez a petición Fiscal o de oficio puede disponer las diligencias y esclarecimientos que crea oportunos.
 
-Conc. (Art. 60°, Art.62 Inc.4  C.N.N.A.)
+Conc. (Art. 60°, Art.62 Inc.4 C.N.N.A.)
 
-#### ARTICULO 302º (SENTENCIA).
-Con la notificación y previo  dictamen Fiscal, el Juez  pronunciará sentencia en el plazo de tres días.
+#### ARTICULO 302º (SENTENCIA).- 
+Con la notificación y previo dictamen Fiscal, el Juez pronunciará sentencia en el plazo de tres días.
 
 En la misma sentencia, el Juez ordenará la inscripción del adoptado en el Registro Civil, como hijo de los adoptantes, en los términos previstos por este Código.
 
@@ -2872,27 +2986,29 @@ Conc. (Art. 57°, 68°, 83°,89° C.N.N.A.)
 
 #### SECCION UNICA INVESTIGACION Y PROCESO
 
-##### ARTICULO 303º (INICIACION).
+##### ARTICULO 303º (INICIACION).- 
 La investigación de los delitos se iniciará de oficio o a denuncia ante el Fiscal de la Niñez y Adolescencia.
 
-Recibida la denuncia o información fehaciente sobre la comisión de un hecho delictivo, el Fiscal determinará la investigación e informará al Juez dentro de las ocho horas. Conc. ( Art. 10 R.B.)
+Recibida la denuncia o información fehaciente sobre la comisión de un hecho delictivo, el Fiscal determinará la investigación e informará al Juez dentro de las ocho horas.
 
-##### ARTICULO 304º (DELITO FLAGRANTE).
+Conc. ( Art. 10 R.B.)
+
+##### ARTICULO 304º (DELITO FLAGRANTE).- 
 El adolescente aprehendido en el momento de cometer un acto delictivo o dentro de las veinticuatro horas, será trasladado ante el Fiscal de la Niñez y Adolescencia e inmediatamente se comunicará a sus padres, responsables o persona señalada por aquél. El Fiscal solicitará del personal que lo aprehendió un informe circunstanciado de los hechos.
 
-Conc. (Art. 10° C.P.E. - 10 R.B.)
+Conc. (Art. 10° C.P.E. – 10 R.B.)
 
-##### ARTICULO 305º (INVESTIGACION).
-Formulada  por  cualquier  medio  la denuncia, el Fiscal deberá iniciar la investigación para determinar la existencia del hecho, establecer quiénes son los autores, y participes del hecho y verificar el daño causado por el delito.
+##### ARTICULO 305º (INVESTIGACION).- 
+Formulada por cualquier medio la denuncia, el Fiscal deberá iniciar la investigación para determinar la existencia del hecho, establecer quiénes son los autores, y participes del hecho y verificar el daño causado por el delito.
 
 Conc. (Art. 10.3 R.B.)
 
-##### ARTICULO 306º (ADOLESCENTE AUSENTE).
-En  caso  de  ausencia  del adolescente la investigación continuará hasta su conclusión.
+##### ARTICULO 306º (ADOLESCENTE AUSENTE).- 
+En caso de ausencia del adolescente la investigación continuará hasta su conclusión.
 
 Si el Fiscal considera procedente la apertura del juicio requerirá al Juez que ordene localizar al adolescente.
 
-##### ARTICULO 307º (PLAZO DE LA INVESTIGACION).
+##### ARTICULO 307º (PLAZO DE LA INVESTIGACION).- 
 El Fiscal deberá imprimir celeridad a la investigación, la que en ningún caso podrá exceder de siete días salvo que en caso de excepcional complejidad, el Fiscal o el querellante soliciten al Juez una ampliación del plazo, indicando las razones de la prórroga y el plazo solicitado para concluirla.
 
 81
@@ -2905,34 +3021,32 @@ La prórroga podrá solicitarse por única vez, hasta tres días antes de que se
 
 Conc. (Art. 273°  Inc. 2 C.N.N.A.)
 
-##### ARTICULO 308º (ORDEN JUDICIAL).
+##### ARTICULO 308º (ORDEN JUDICIAL).- 
 El Fiscal, ante la denuncia presentada y en base a suficientes indicios de responsabilidad, determinará la comparecencia del denunciado.
 
-Si el adolescente se encuentra aprehendido y el Fiscal considera que debe permanecer privado de libertad, solicitará al Juez la ratificación de la medida adoptada dentro de las  veinticuatro  horas de producida la aprehensión.
+Si el adolescente se encuentra aprehendido y el Fiscal considera que debe permanecer privado de libertad, solicitará al Juez la ratificación de la medida adoptada dentro de las veinticuatro horas de producida la aprehensión.
 
-Ante  la  inasistencia  del  adolescente  y  cuando  el  caso  revista  gravedad,  el  Fiscal solicitará al Juez la orden judicial de apremio.
+Ante la inasistencia del adolescente y cuando el caso revista gravedad, el Fiscal solicitará al Juez la orden judicial de apremio.
 
-Conc. (Art. 273°  Inc. 2 C.N.N.A.)
+Conc. (Art. 273° Inc. 2 C.N.N.A.)
 
-##### ARTICULO 309º (AUDIENCIA PRELIMINAR).
-Presentado el adolescente ante el  Fiscal    en  el  día  y,  una  vez  visto  el  informe  circunstanciado  o  informe  policial, entrevistará al adolescente y, si fuera posible, escuchará a sus padres o responsables, según el caso se determinará lo siguiente:
+##### ARTICULO 309º (AUDIENCIA PRELIMINAR).- 
+Presentado el adolescente ante el Fiscal en el día y, una vez visto el informe circunstanciado o informe policial, entrevistará al adolescente y, si fuera posible, escuchará a sus padres o responsables, según el caso se determinará lo siguiente:
 
-- Si el caso no reviste gravedad, confirmar la custodia del adolescente infractor a sus padres o responsables, bajo la responsabilidad de suscribir un compromiso de presentación del adolescente a todos los actos de investigación de los hechos;
+1. Si el caso no reviste gravedad, confirmar la custodia del adolescente infractor a sus padres o responsables, bajo la responsabilidad de suscribir un compromiso de presentación del adolescente a todos los actos de investigación de los hechos;
 
-- En caso de que no se presentarán los padres o responsables, o ante la no existencia de éstos y el hecho no revista gravedad, la incorporación del adolescente a una entidad de atención, cuyo representante acompañará en todos los actos de la investigación;
+2. En caso de que no se presentarán los padres o responsables, o ante la no existencia de éstos y el hecho no revista gravedad, la incorporación del adolescente a una entidad de atención, cuyo representante acompañará en todos los actos de la investigación;
 
 En ambos casos el Fiscal de la Niñez y Adolescencia, procederá conforme al Artículo 308º de este Código.
 
 Se levantará acta de todo lo actuado.
 
-##### ARTICULO 310º (CONCLUSIONES DE LA INVESTIGACION).
-Finalizada
+##### ARTICULO 310º (CONCLUSIONES DE LA INVESTIGACION).- 
+Finalizada la investigación el Fiscal, podrá requerir ante el Juez lo siguiente:
 
-la investigación el Fiscal, podrá requerir ante el Juez lo siguiente:
+1. El archivo de obrados;
 
-- El archivo de obrados;
-
-- Concertar la remisión y requerir su homologación al Juez;
+2. Concertar la remisión y requerir su homologación al Juez;
 
 82
 
@@ -2940,39 +3054,41 @@ la investigación el Fiscal, podrá requerir ante el Juez lo siguiente:
 
 [[START OF PAGE 83]]
 
-- Formular  la  acusación  y  requerir  la  apertura  del  proceso  fundamentando  la calificación  provisional  del  presunto  delito,  acompañando  la  prueba preconstituída de autoría y materialidad.
+3. Formular la acusación y requerir la apertura del proceso fundamentando la calificación provisional del presunto delito, acompañando la prueba preconstituída de autoría y materialidad.
 
-##### ARTICULO 311º (ARCHIVO).
-El  Fiscal,  de  acuerdo  con  el  resultado  de  la investigación y no encontrando suficientes indicios de responsabilidad, dispondrá el archivo de obrados.
+##### ARTICULO 311º (ARCHIVO).- 
+El Fiscal, de acuerdo con el resultado de la investigación y no encontrando suficientes indicios de responsabilidad, dispondrá el archivo de obrados.
 
-Requerimiento  que  podrá  ser  impugnado  ante  el  Fiscal  de  Distrito,  dentro  de  las cuarenta y ocho horas de la notificación.
+Requerimiento que podrá ser impugnado ante el Fiscal de Distrito, dentro de las cuarenta y ocho horas de la notificación.
 
-##### ARTICULO 312º (REMISION).
-Si procede, el Fiscal concertará la remisión con el adolescente mediante requerimiento fundamentado que comprenderá un resumen de los hechos.  Estos antecedentes serán remitidos al Juez para su homologación.
+##### ARTICULO 312º (REMISION).- 
+Si procede, el Fiscal concertará la remisión con el adolescente mediante requerimiento fundamentado que comprenderá un resumen de los hechos. Estos antecedentes serán remitidos al Juez para su homologación.
 
-La remisión no procede por delitos que en la Ley Penal sean sancionados con pena privativa de libertad mayor a cinco años. Conc. (Art. 253° C.N.N.A.)
+La remisión no procede por delitos que en la Ley Penal sean sancionados con pena privativa de libertad mayor a cinco años.
 
-##### ARTICULO 313º (CITACION).
-En  mérito  al  requerimiento  fiscal  y  los antecedentes, el Juez fijará audiencia, en el plazo no menor de tres días ni mayor de cinco, con citación de partes, notificación del Fiscal y ordenará se realicen los informes técnicos respectivos.
+Conc. (Art. 253° C.N.N.A.)
+
+##### ARTICULO 313º (CITACION).- 
+En mérito al requerimiento fiscal y los antecedentes, el Juez fijará audiencia, en el plazo no menor de tres días ni mayor de cinco, con citación de partes, notificación del Fiscal y ordenará se realicen los informes técnicos respectivos.
 
 Y en caso de:
 
-- No ser localizado el adolescente, el Juez expedirá citación de comparendo y, en su  caso,  mandamiento  de  aprehensión  suspendiendo  la  acción  hasta  que  se presente el adolescente;
+1. No ser localizado el adolescente, el Juez expedirá citación de comparendo y, en su caso, mandamiento de aprehensión suspendiendo la acción hasta que se presente el adolescente;
 
-- Estar el adolescente cumpliendo una medida cautelar, será requerida su presencia, sin perjuicio de la notificación a los padres o responsables;
+2. Estar el adolescente cumpliendo una medida cautelar, será requerida su presencia, sin perjuicio de la notificación a los padres o responsables;
 
-- Que el adolescente no cuente con abogado defensor, se le designará uno de oficio.
+3. Que el adolescente no cuente con abogado defensor, se le designará uno de oficio.
 
-##### ARTICULO 314º (AUDIENCIA Y MEDIDAS).
-Instalada la audiencia, cada una de  las  partes  fundamentará  su  demanda  y  producirá  la  prueba,  el  Juez  oirá  al adolescente, a sus padres o responsables y ordenará se emitan los informes del Equipo Interdisciplinario  del  Juzgado.
+##### ARTICULO 314º (AUDIENCIA Y MEDIDAS).- 
+Instalada la audiencia, cada una de las partes fundamentará su demanda y producirá la prueba, el Juez oirá al adolescente, a sus padres o responsables y ordenará se emitan los informes del Equipo Interdisciplinario del Juzgado.
 
 Finalizada la audiencia, el Juez resolverá en el acto todas las cuestiones planteadas y según corresponda determinará:
 
-- Homologar la remisión o concederla;
+1. Homologar la remisión o concederla;
 
-- Resolver las excepciones e incidentes ;
+2. Resolver las excepciones e incidentes;
 
-- Ratificar, sustituir o imponer una medida cautelar; o,
+3. Ratificar, sustituir o imponer una medida cautelar; o,
 
 83
 
@@ -2980,37 +3096,39 @@ Finalizada la audiencia, el Juez resolverá en el acto todas las cuestiones plan
 
 [[START OF PAGE 84]]
 
-- Disponer la apertura del juicio.
+4. Disponer la apertura del juicio.
 
 Las resoluciones se notificarán en la misma audiencia por su lectura.
 
-En caso de ser procedente  la apertura  a juicio se señalara día y hora para su realización.
+En caso de ser procedente la apertura a juicio se señalara día y hora para su realización.
 
-##### ARTICULO 315º (OPOSICION).
+##### ARTICULO 315º (OPOSICION).- 
 En vista del requerimiento fiscal y en caso de los incisos 1 y 2 del Art. 310º el Juez decidirá lo siguiente:
 
-- Cuando no exista oposición y estime que no concurren los presupuestos que habilitan la remisión o el archivo de obrados, remitirá las actuaciones ante el Fiscal del Distrito a objeto que se revoque o ratifique el requerimiento.  Si el Fiscal del Distrito ratifica el requerimiento, el Juez decretará de acuerdo  al mismo.
+1. Cuando no exista oposición y estime que no concurren los presupuestos que habilitan la remisión o el archivo de obrados, remitirá las actuaciones ante el Fiscal del Distrito a objeto que se revoque o ratifique el requerimiento. Si el Fiscal del Distrito ratifica el requerimiento, el Juez decretará de acuerdo al mismo.
 
-- Cuando la parte contraria se oponga al requerimiento porque considera que no se  ha  agotado  la  investigación,  ordenará  que  prosiga  la  investigación estableciendo un plazo no mayor a diez días.
+2. Cuando la parte contraria se oponga al requerimiento porque considera que no se ha agotado la investigación, ordenará que prosiga la investigación estableciendo un plazo no mayor a diez días.
 
 La Resolución del Juez podrá ser apelable en el término de tres días ante la Corte Superior de Distrito.
 
-##### ARTICULO 316º (INASISTENCIA).
-Si el adolescente, legalmente notificado no compareciese a los actos procesales dispuestos por el Juez, éste ordenará  su presencia bajo apercibimiento de Ley.
+##### ARTICULO 316º (INASISTENCIA).- 
+Si el adolescente, legalmente notificado no compareciese a los actos procesales dispuestos por el Juez, éste ordenará su presencia bajo apercibimiento de Ley.
 
-##### ARTICULO 317º (FUNDAMENTOS PARA DICTAR RESOLUCION).
+##### ARTICULO 317º (FUNDAMENTOS PARA DICTAR RESOLUCION).- 
 El Juez en el momento de dictar resolución tendrá presente los siguientes principios:
 
-- La  respuesta  que  se  dé  a  la  infracción  será  siempre  proporcional  a  las circunstancias y necesidades del adolescente y a la gravedad de la infracción. En todo caso se considerará preferentemente el interés superior del adolescente;
+1. La respuesta que se dé a la infracción será siempre proporcional a las circunstancias y necesidades del adolescente y a la gravedad de la infracción. En todo caso se considerará preferentemente el interés superior del adolescente;
 
-- Las restricciones a la libertad personal del adolescente se reducirán al mínimo posible;
+2. Las restricciones a la libertad personal del adolescente se reducirán al mínimo posible;
 
-- Solamente se impondrá la privación de libertad personal en los casos previstos por este Código y siempre que no haya otra medida más adecuada por aplicarse. Conc. (Art. 17 R.B.)
+3. Solamente se impondrá la privación de libertad personal en los casos previstos por este Código y siempre que no haya otra medida más adecuada por aplicarse.
 
-##### ARTICULO 318º (IMPROCEDENCIA).
-El  Juez  no  aplicará  ninguna  medida cuando el hecho no constituya acto infraccional o cuando no exista prueba de que el adolescente haya participado en la infracción.
+Conc. (Art. 17 R.B.)
 
-##### ARTICULO 319º (PLAZO).
+##### ARTICULO 318º (IMPROCEDENCIA).- 
+El Juez no aplicará ninguna medida cuando el hecho no constituya acto infraccional o cuando no exista prueba de que el adolescente haya participado en la infracción.
+
+##### ARTICULO 319º (PLAZO).- 
 El plazo máximo e improrrogable para la conclusión del proceso será de treinta días, estando el adolescente interno privado de su libertad y gozando de libertad será de sesenta días.
 
 84
@@ -3021,30 +3139,30 @@ El plazo máximo e improrrogable para la conclusión del proceso será de treint
 
 # DISPOSICIONES TRANSITORIAS
 
-## ARTICULO 1º.
+## ARTICULO 1º.-
 A partir de la vigencia del presente Código, todos los niños, niñas y adolescentes entre uno a dieciocho años que no se hallen inscritos en el Registro Civil, se beneficiarán por lo dispuesto en los Artículos 97º Y 98º de este Código.
 
 El Estado, a través de sus organismos correspondientes, nacionales y departamentales, dará a conocer esta disposición, a lo largo del período señalado en el párrafo anterior, a toda la población, por medio de campañas masivas de información y educación en torno a la obligatoriedad y gratuidad de este registro.
 
-## ARTICULO 2º.
-El  Estado,  a  través  de  las  instancias  correspondientes,  deberá implementar políticas públicas progresivas para erradicar el trabajo de niños y niñas y adolescentes menores de catorce años; entre tanto, se aplicarán a los trabajadores menores de catorce años, la protección y disposiciones previstas para los adolescentes trabajadores.
+## ARTICULO 2º.-
+El Estado, a través de las instancias correspondientes, deberá implementar políticas públicas progresivas para erradicar el trabajo de niños y niñas y adolescentes menores de catorce años; entre tanto, se aplicarán a los trabajadores menores de catorce años, la protección y disposiciones previstas para los adolescentes trabajadores.
 
-## ARTICULO 3º.
+## ARTICULO 3º.-
 El Estado, en el marco de la Tutela Superior, a través de las instancias correspondientes, reinsertará a niños, niñas y adolescentes que viven en las calles, al seno de su propia familia y, en caso de que ésta no exista o no se conozca su domicilio, en el seno de una familia sustituta.
 
 Asimismo, deberá desarrollar campañas de información y sensibilización para prevenir que niños, niñas y adolescentes hagan de la calle su habitat.
 
-## ARTICULO 4º.
-En  tanto  el  Consejo  de  la  Judicatura  organice  los  Equipos Interdisciplinarios a que se refieren los Artículos 268º, 269º, 270º y 271º, los Jueces de  la  Niñez  y  Adolescencia  acudirán  a  los  servicios  interdisciplinarios  de  otras instituciones del Estado .
+## ARTICULO 4º.-
+En tanto el Consejo de la Judicatura organice los Equipos Interdisciplinarios a que se refieren los Artículos 268º, 269º, 270º y 271º, los Jueces de la Niñez y Adolescencia acudirán a los servicios interdisciplinarios de otras instituciones del Estado.
 
-## ARTICULO 5º.
+## ARTICULO 5º.-
 En tanto la Fiscalía General de la República nombre a los Fiscales especializados en temas de la Niñez y la Adolescencia, cumplirán esas funciones los Agentes Fiscales en materia de familia.
 
-## ARTICULO 6º.
+## ARTICULO 6º.-
 Todos los procesos que se encuentren en pleno trámite al momento de la vigencia de este Código, se sustanciarán y resolverán conforme a las normas vigentes al momento de su inicio.
 
-## ARTICULO 7º.
-El presente Código entrará en vigencia plena, seis meses después de su publicación.  En este plazo el Poder Judicial implementará los Juzgados de la Niñez y Adolescencia.
+## ARTICULO 7º.-
+El presente Código entrará en vigencia plena, seis meses después de su publicación. En este plazo el Poder Judicial implementará los Juzgados de la Niñez y Adolescencia.
 
 85
 
@@ -3054,18 +3172,18 @@ El presente Código entrará en vigencia plena, seis meses después de su public
 
 # DISPOSICIONES FINALES
 
-## PRIMERA.
-Las  Instituciones  del  Estado  realizarán  cursos  de  capacitación, especialización y actualización que comprendan las ciencias relacionadas con el niño, niña y adolescente.
+## PRIMERA.-
+Las Instituciones del Estado realizarán cursos de capacitación, especialización y actualización que comprendan las ciencias relacionadas con el niño, niña y adolescente.
 
 # ABROGACIONES Y DEROGACIONES
 
-## PRIMERA.
+## PRIMERA.-
 A partir de la vigencia del presente Código, abrógase la Ley Nº 1403, Código del Menor de 18 de diciembre de 1992.
 
-## SEGUNDA.
+## SEGUNDA.-
 Se derogan los Artículos 32º y 33º de la Ley de Registro Civil de 26 de noviembre de 1898.
 
-## TERCERA.
+## TERCERA.-
 Se derogan los Artículos 215º al 243º y 276º al 281º de la Ley 996, Código de Familia, de 4 de abril de 1988 y todas las disposiciones contrarias al presente Código.
 
 Remítase al Poder Ejecutivo para fines constitucionales.
@@ -3182,19 +3300,19 @@ Los Estados Partes respetarán las responsabilidades, los derechos y los deberes
 
 #### ARTICULO 6 (Vida, supervivencia y desarrollo)
 
-- Los Estados Partes reconocen que todo niño tiene el derecho intrínseco a la vida.
+1. Los Estados Partes reconocen que todo niño tiene el derecho intrínseco a la vida.
 
-- Los Estados Partes garantizarán en la máxima medida posible la supervivencia y el desarrollo  del  niño.
+2. Los Estados Partes garantizarán en la máxima medida posible la supervivencia y el desarrollo del niño.
 
 #### ARTICULO 7 (Nombre y nacionalidad)
 
-- El niño será inscrito inmediatamente después de su nacimiento y obtendrá derecho desde que nace a un nombre, a adquirir una nacionalidad y, en la medida de lo posible, a conocer a sus padres y a ser cuidado por ellos.
+1. El niño será inscrito inmediatamente después de su nacimiento y obtendrá derecho desde que nace a un nombre, a adquirir una nacionalidad y, en la medida de lo posible, a conocer a sus padres y a ser cuidado por ellos.
 
-- Los Estados Partes velarán por la aplicación de estos derechos de conformidad con su  legislación  nacional  y  las  obligaciones  que  hayan  contraído  en  virtud  de  los instrumentos internacionales pertinentes en esta esfera, sobre todo cuando el niño resultara de otro modo apátrida.
+2. Los Estados Partes velarán por la aplicación de estos derechos de conformidad con su legislación nacional y las obligaciones que hayan contraído en virtud de los instrumentos internacionales pertinentes en esta esfera, sobre todo cuando el niño resultara de otro modo apátrida.
 
 #### ARTICULO 8 (Preservación de la identidad)
 
-- Los Estados Partes se comprometen a respetar el derecho del niño a preservar su identidad,  incluidos  la  nacionalidad,  el  nombre  y  las  relaciones  familiares  de conformidad con la ley, sin injerencias ilícitas.
+1. Los Estados Partes se comprometen a respetar el derecho del niño a preservar su identidad, incluidos la nacionalidad, el nombre y las relaciones familiares de conformidad con la ley, sin injerencias ilícitas.
 
 92
 
@@ -3202,21 +3320,21 @@ Los Estados Partes respetarán las responsabilidades, los derechos y los deberes
 
 [[START OF PAGE 93]]
 
-- Cuando un niño sea privado ilegalmente de alguno de los elementos de su identidad o de todos ellos, los Estados Partes deberán prestar la asistencia y protección apropiadas con miras a restablecer rápidamente su identidad.
+2. Cuando un niño sea privado ilegalmente de alguno de los elementos de su identidad o de todos ellos, los Estados Partes deberán prestar la asistencia y protección apropiadas con miras a restablecer rápidamente su identidad.
 
 #### ARTICULO 9 (Separación de padres y madres)
 
-- Los Estados Partes velarán por que el niño  no sea separado de sus padres contra la voluntad  de  éstos,  excepto  cuando,  a  reserva  de  revisión  judicial,  las  autoridades competentes determinen, de conformidad con la ley y los procedimientos aplicables, que tal separación es necesaria en el interés superior del niño.  Tal determinación puede ser necesaria en casos particulares, por ejemplo, en los casos en que el niño sea objeto de maltrato o descuido por parte de sus padres o cuando éstos viven separados y debe adoptarse una decisión acerca del lugar de residencia del niño.
+1. Los Estados Partes velarán por que el niño no sea separado de sus padres contra la voluntad de éstos, excepto cuando, a reserva de revisión judicial, las autoridades competentes determinen, de conformidad con la ley y los procedimientos aplicables, que tal separación es necesaria en el interés superior del niño. Tal determinación puede ser necesaria en casos particulares, por ejemplo, en los casos en que el niño sea objeto de maltrato o descuido por parte de sus padres o cuando éstos viven separados y debe adoptarse una decisión acerca del lugar de residencia del niño.
 
-- En cualquier procedimiento entablado de conformidad con el párrafo 1 del presente artículo, se ofrecerá a todas las partes interesadas la oportunidad de participar en él y de dar a conocer sus opiniones.
+2. En cualquier procedimiento entablado de conformidad con el párrafo 1 del presente artículo, se ofrecerá a todas las partes interesadas la oportunidad de participar en él y de dar a conocer sus opiniones.
 
-- Los Estados Partes respetarán el derecho del niño que esté separado de uno o de ambos padres a mantener relaciones personales y contacto directo con ambos padres de modo regular, salvo si ello es contrario al interés superior del niño.
+3. Los Estados Partes respetarán el derecho del niño que esté separado de uno o de ambos padres a mantener relaciones personales y contacto directo con ambos padres de modo regular, salvo si ello es contrario al interés superior del niño.
 
-- Cuando esta separación sea  resultado de una medida adoptada por un Estado Parte,  como la detención, el encarcelamiento, el exilio, la deportación o la muerte (incluido el fallecimiento debido a cualquier causa mientras la persona esté bajo la custodia del Estado) de uno de los padres del niño, o de ambos, o del niño, el Estado Parte proporcionará, cuando  se le pida, a los padres, al niño o si procede, a otro familiar, información básica acerca del paradero del familiar o familiares ausentes, a no ser que ello resultase perjudicial para el bienestar del niño.  Los Estados Partes se cerciorarán, además, de que la presentación de tal petición no entrañe por sí misma consecuencias desfavorables para la persona o personas interesadas.
+4. Cuando esta separación sea resultado de una medida adoptada por un Estado Parte, como la detención, el encarcelamiento, el exilio, la deportación o la muerte (incluido el fallecimiento debido a cualquier causa mientras la persona esté bajo la custodia del Estado) de uno de los padres del niño, o de ambos, o del niño, el Estado Parte proporcionará, cuando se le pida, a los padres, al niño o si procede, a otro familiar, información básica acerca del paradero del familiar o familiares ausentes, a no ser que ello resultase perjudicial para el bienestar del niño. Los Estados Partes se cerciorarán, además, de que la presentación de tal petición no entrañe por sí misma consecuencias desfavorables para la persona o personas interesadas.
 
 #### ARTICULO 10 (Reunificación familiar)
 
-- De conformidad con la obligación que incumbe a los Estados Partes a tenor de lo dispuesto en el párrafo 1 del artículo 9, toda solicitud hecha por un niño o por sus padres para entrar a un Estado Parte o para salir de él a los efectos de la reunión de la familia  será  atendida  por  los  Estados  Partes  de  manera  positiva,  humanitaria  y expeditiva. Los Estados Partes garantizarán, además, que la presentación de tal petición no traerá consecuencias desfavorables para los peticionarios ni para sus familiares.
+1. De conformidad con la obligación que incumbe a los Estados Partes a tenor de lo dispuesto en el párrafo 1 del artículo 9, toda solicitud hecha por un niño o por sus padres para entrar a un Estado Parte o para salir de él a los efectos de la reunión de la familia será atendida por los Estados Partes de manera positiva, humanitaria y expeditiva. Los Estados Partes garantizarán, además, que la presentación de tal petición no traerá consecuencias desfavorables para los peticionarios ni para sus familiares.
 
 93
 
@@ -3224,27 +3342,27 @@ Los Estados Partes respetarán las responsabilidades, los derechos y los deberes
 
 [[START OF PAGE 94]]
 
-- El  niño  cuyos  padres  residan  en  estados  diferentes  tendrá  derecho  a  mantener periódicamente,  salvo  en  circunstancias  excepcionales,  relaciones  personales  y contactos directos con ambos padres.  Con tal fin, y de conformidad con la obligación asumida por los Estados Partes en virtud del párrafo 1 del artículo 9, los Estados Partes respetarán el derecho del niño  y de sus padres a salir de cualquier país, incluido el propio, y de entrar en su propio país.  El derecho de salir de cualquier país estará sujeto solamente a las restricciones estipuladas por ley y que sean necesarias para proteger la seguridad nacional, el orden público, la salud o la moral públicas o los derechos y libertades de otras personas y que estén en consonancia con los demás derechos reconocidos por la presente Convención.
+2. El niño cuyos padres residan en estados diferentes tendrá derecho a mantener periódicamente, salvo en circunstancias excepcionales, relaciones personales y contactos directos con ambos padres. Con tal fin, y de conformidad con la obligación asumida por los Estados Partes en virtud del párrafo 1 del artículo 9, los Estados Partes respetarán el derecho del niño y de sus padres a salir de cualquier país, incluido el propio, y de entrar en su propio país. El derecho de salir de cualquier país estará sujeto solamente a las restricciones estipuladas por ley y que sean necesarias para proteger la seguridad nacional, el orden público, la salud o la moral públicas o los derechos y libertades de otras personas y que estén en consonancia con los demás derechos reconocidos por la presente Convención.
 
 #### ARTICULO 11 (Retenciones y traslados ilícitos)
 
-- Los Estados Partes adoptarán medidas para luchar contra los traslados ilícitos de niños al extranjero y la retención ilícita de niños en el extranjero.
+1. Los Estados Partes adoptarán medidas para luchar contra los traslados ilícitos de niños al extranjero y la retención ilícita de niños en el extranjero.
 
-- Para este fin, los Estados Partes promoverán la concertación de acuerdos bilaterales o multilaterales o la adhesión a acuerdos existentes.
+2. Para este fin, los Estados Partes promoverán la concertación de acuerdos bilaterales o multilaterales o la adhesión a acuerdos existentes.
 
 #### ARTICULO 12 (Opinión del niño)
 
-- Los Estados Partes garantizarán al niño que esté en condiciones de formarse un juicio propio el derecho de expresar su opinión libremente en todos los asuntos que le afectan, teniéndose debidamente en cuenta sus opiniones, en función de su edad y madurez.
+1. Los Estados Partes garantizarán al niño que esté en condiciones de formarse un juicio propio el derecho de expresar su opinión libremente en todos los asuntos que le afectan, teniéndose debidamente en cuenta sus opiniones, en función de su edad y madurez.
 
-- Con tal fin,  se dará en particular al niño la oportunidad de ser escuchado en todo procedimiento judicial o administrativo que le afecte, ya sea directamente o por medio de un representante o de un órgano apropiado, en consonancia con las normas de procedimiento de la ley nacional.
+2. Con tal fin, se dará en particular al niño la oportunidad de ser escuchado en todo procedimiento judicial o administrativo que le afecte, ya sea directamente o por medio de un representante o de un órgano apropiado, en consonancia con las normas de procedimiento de la ley nacional.
 
 #### ARTICULO 13 (Libertad de expresión)
 
-- El niño tendrá derecho a la libertad de expresión; ese derecho incluirá la libertad de buscar,  recibir  y  difundir  informaciones  e  ideas  de  todo  tipo,  sin  consideración  de fronteras, ya sea oralmente, o por escrito o impresas, en forma artística o por cualquier otro medio elegido por el niño.
+1. El niño tendrá derecho a la libertad de expresión; ese derecho incluirá la libertad de buscar, recibir y difundir informaciones e ideas de todo tipo, sin consideración de fronteras, ya sea oralmente, o por escrito o impresas, en forma artística o por cualquier otro medio elegido por el niño.
 
-- El  ejercicio  de  tal  derecho  podrá  estar  sujeto  a  ciertas  restricciones,  que  serán únicamente las que la ley prevea y sean necesarias:
+2. El ejercicio de tal derecho podrá estar sujeto a ciertas restricciones, que serán únicamente las que la ley prevea y sean necesarias:
 
-- Para el respeto de los derechos o la reputación de los demás; o
+a. Para el respeto de los derechos o la reputación de los demás; o
 
 94
 
@@ -3252,27 +3370,27 @@ Los Estados Partes respetarán las responsabilidades, los derechos y los deberes
 
 [[START OF PAGE 95]]
 
-- Para la protección de la seguridad nacional o el orden público o para proteger la salud o la moral públicas.
+b. Para la protección de la seguridad nacional o el orden público o para proteger la salud o la moral públicas.
 
 #### ARTICULO 14 (Libertad de pensamiento, conciencia y religión)
 
-- Los Estados Partes respetarán el derecho del niño a la libertad de pensamiento, de conciencia y de religión.
+1. Los Estados Partes respetarán el derecho del niño a la libertad de pensamiento, de conciencia y de religión.
 
-- Los Estados Partes respetarán los derechos y deberes de los padres y, en su caso, de los representantes legales, de guiar al niño en el ejercicio de su derecho de modo conforme a la evolución de sus facultades.
+2. Los Estados Partes respetarán los derechos y deberes de los padres y, en su caso, de los representantes legales, de guiar al niño en el ejercicio de su derecho de modo conforme a la evolución de sus facultades.
 
-- La  libertad  de  profesar  la  propia  religión  o  las  propias  creencias  estará  sujeta únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger la  seguridad,  el  orden,  la  moral  o  la  salud  públicos  o  los  derechos  y  libertades fundamentales de los demás.
+3. La libertad de profesar la propia religión o las propias creencias estará sujeta únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger la seguridad, el orden, la moral o la salud públicos o los derechos y libertades fundamentales de los demás.
 
 #### ARTICULO 15 (Libertad de asociación)
 
-- Los Estados Partes reconocen  los derechos del niño a la libertad de asociación y a la libertad de celebrar reuniones pacíficas.
+1. Los Estados Partes reconocen los derechos del niño a la libertad de asociación y a la libertad de celebrar reuniones pacíficas.
 
-- No  se  impondrán  restricciones  al  ejercicio  de  estos  derechos  distintos  de  los establecidos  de  conformidad  con  la  ley  y  que  sean  necesarias  en  una  sociedad democrática,  en  interés  de  la  seguridad  nacional  o  pública,  el  orden  público,  la protección de la salud y la moral públicas o la protección de los derechos y las libertades de los demás.
+2. No se impondrán restricciones al ejercicio de estos derechos distintos de los establecidos de conformidad con la ley y que sean necesarias en una sociedad democrática, en interés de la seguridad nacional o pública, el orden público, la protección de la salud y la moral públicas o la protección de los derechos y las libertades de los demás.
 
 #### ARTICULO 16 (Protección de la vida privada)
 
-- Ningún niño será objeto de injerencias arbitrarias o ilegales en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques ilegales a su honra o a su reputación.
+1. Ningún niño será objeto de injerencias arbitrarias o ilegales en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques ilegales a su honra o a su reputación.
 
-- El niño tiene derecho a la protección de la ley contra esas injerencias o ataques.
+2. El niño tiene derecho a la protección de la ley contra esas injerencias o ataques.
 
 #### ARTICULO 17 (Acceso a una información adecuada)
 
@@ -3284,15 +3402,15 @@ Los Estados Partes reconocen la importante función que desempeñan los medios d
 
 [[START OF PAGE 96]]
 
-- Alentarán a los medios de comunicación a difundir información y materiales de interés social y cultural para el niño, de conformidad con el espíritu del artículo  29;
+a. Alentarán a los medios de comunicación a difundir información y materiales de interés social y cultural para el niño, de conformidad con el espíritu del artículo 29;
 
-- Promoverán la cooperación internacional en la producción, el intercambio y la  difusión de esa información y esos materiales procedentes de diversas fuentes culturales, nacionales e internacionales;
+b. Promoverán la cooperación internacional en la producción, el intercambio y la difusión de esa información y esos materiales procedentes de diversas fuentes culturales, nacionales e internacionales;
 
-- Alentarán la producción y difusión de libros para niños;
+c. Alentarán la producción y difusión de libros para niños;
 
-- Alentarán a los medios de comunicación a que tengan particularmente en cuenta  las  necesidades  lingüísticas  del  niño  perteneciente  a  un  grupo minoritario o que sea indígena;
+d. Alentarán a los medios de comunicación a que tengan particularmente en cuenta las necesidades lingüísticas del niño perteneciente a un grupo minoritario o que sea indígena;
 
-- Promoverán la elaboración de directrices apropiadas para proteger al niño contra toda información y material perjudicial para su bienestar, teniendo en cuenta las disposiciones de los artículos 13 y 18.
+e. Promoverán la elaboración de directrices apropiadas para proteger al niño contra toda información y material perjudicial para su bienestar, teniendo en cuenta las disposiciones de los artículos 13 y 18.
 
 #### ARTICULO 18 (Responsabilidad de padres y madres)
 
@@ -3312,23 +3430,23 @@ Los Estados Partes reconocen la importante función que desempeñan los medios d
 
 [[START OF PAGE 97]]
 
-- Esas  medidas  de  protección  deberían  comprender,  según  corresponda, procedimientos eficaces para el establecimiento de programas sociales con objeto de proporcionar la asistencia necesaria al niño y a quienes cuidan de él, así como para otras  formas  de  prevención  y  para  la  identificación,  notificación,  remisión  a  una institución,  investigación,  tratamiento  y  observación  ulterior  de  los  casos  antes descritos de malos tratos al niño y, según corresponda, la intervención judicial.
+2. Esas medidas de protección deberían comprender, según corresponda, procedimientos eficaces para el establecimiento de programas sociales con objeto de proporcionar la asistencia necesaria al niño y a quienes cuidan de él, así como para otras formas de prevención y para la identificación, notificación, remisión a una institución, investigación, tratamiento y observación ulterior de los casos antes descritos de malos tratos al niño y, según corresponda, la intervención judicial.
 
 #### ARTICULO 20 (Protección de los niños privados de su medio familiar)
 
-- Los  niños  temporal  o  permanentemente  privados  de  su  medio  familiar,  o  cuyo superior interés exija que no permanezcan en ese medio, tendrán derecho a la protección y asistencia especiales del Estado.
+1. Los niños temporal o permanentemente privados de su medio familiar, o cuyo superior interés exija que no permanezcan en ese medio, tendrán derecho a la protección y asistencia especiales del Estado.
 
-- Los Estados Partes garantizarán, de conformidad con sus leyes nacionales, otros tipos de cuidados para esos niños.
+2. Los Estados Partes garantizarán, de conformidad con sus leyes nacionales, otros tipos de cuidados para esos niños.
 
-- Entre esos cuidados figurarán, entre otros, la colocación en hogares de guarda, la Kafala  del  derecho  islámico,  la  adopción,  o  de  ser  necesario  la  colocación  en instituciones adecuadas de protección de menores.  Al considerar las soluciones, se prestará particular atención a la conveniencia de que haya continuidad en la educación del niño y a su origen étnico, religioso, cultural y lingüístico.
+3. Entre esos cuidados figurarán, entre otros, la colocación en hogares de guarda, la Kafala del derecho islámico, la adopción, o de ser necesario la colocación en instituciones adecuadas de protección de menores. Al considerar las soluciones, se prestará particular atención a la conveniencia de que haya continuidad en la educación del niño y a su origen étnico, religioso, cultural y lingüístico.
 
 #### ARTICULO 21 (Adopción)
 
 Los Estados Partes que reconocen o permiten el sistema de adopción, cuidarán de que el interés superior del niño sea la consideración primordial y:
 
-- Velarán por que la adopción del niño sólo sea autorizada por las autoridades competentes,  las  que  determinarán,  con  arreglo  a  las  leyes  y  a  los procedimientos aplicables y sobre la base de toda la información pertinente y  fidedigna,  que  la  adopción  es  admisible  en  vista  de  la  situación  jurídica del niño en relación con sus padres, parientes y representantes legales y que, cuando así se requiera, las personas interesadas hayan dado con conocimiento de causa su consentimiento a la adopción sobre la base del asesoramiento que pueda ser necesario;
+a. Velarán por que la adopción del niño sólo sea autorizada por las autoridades competentes, las que determinarán, con arreglo a las leyes y a los procedimientos aplicables y sobre la base de toda la información pertinente y fidedigna, que la adopción es admisible en vista de la situación jurídica del niño en relación con sus padres, parientes y representantes legales y que, cuando así se requiera, las personas interesadas hayan dado con conocimiento de causa su consentimiento a la adopción sobre la base del asesoramiento que pueda ser necesario;
 
-- Reconocerán que la adopción en otro país puede ser considerada como otro medio de cuidar del niño, en el caso de que éste no pueda ser colocado en un
+b. Reconocerán que la adopción en otro país puede ser considerada como otro medio de cuidar del niño, en el caso de que éste no pueda ser colocado en un
 
 97
 
@@ -3338,11 +3456,11 @@ Los Estados Partes que reconocen o permiten el sistema de adopción, cuidarán d
 
 hogar de guarda o entregado a una familia adoptiva o no pueda ser atendido de manera adecuada en el país de origen;
 
-- Velarán  por  que  el  niño  que  haya  de  ser  adoptado  en  otro  país  goce  de salvaguardias y normas equivalentes a las existentes respecto de la adopción en el país de origen;
+c. Velarán por que el niño que haya de ser adoptado en otro país goce de salvaguardias y normas equivalentes a las existentes respecto de la adopción en el país de origen;
 
-- Adoptarán todas las medidas apropiadas para garantizar que, en el caso de adopción  en  otro  país,  la  colocación  no  dé  lugar  a  beneficios  financieros indebidos para quienes participan en ella;
+d. Adoptarán todas las medidas apropiadas para garantizar que, en el caso de adopción en otro país, la colocación no dé lugar a beneficios financieros indebidos para quienes participan en ella;
 
-- Promoverán, cuando corresponda, los objetivos del presente artículo mediante la  concertación  de  arreglos  o  acuerdos  bilaterales  o  multilaterales  y  se esforzarán, dentro de este marco, por garantizar que la colocación del niño en  otro  país  se  efectúe  por  medio  de  las  autoridades  u  organismos competentes.
+e. Promoverán, cuando corresponda, los objetivos del presente artículo mediante la concertación de arreglos o acuerdos bilaterales o multilaterales y se esforzarán, dentro de este marco, por garantizar que la colocación del niño en otro país se efectúe por medio de las autoridades u organismos competentes.
 
 #### ARTICULO 22 (Niños refugiados)
 
@@ -3362,19 +3480,19 @@ hogar de guarda o entregado a una familia adoptiva o no pueda ser atendido de ma
 
 2.  Los  Estados  Partes  reconocen  el  derecho  del  niño  impedido  a  recibir  cuidados especiales  y  alentarán  y  asegurarán,  con  sujeción  a  los  recursos  disponibles,  la prestación al niño que reúna las condiciones requeridas y a los responsables de su cuidado  la  asistencia  que  solicite  y  que  sea  adecuada  al  estado  del  niño  y  a  las circunstancias de sus padres o de otras personas que cuiden de él.
 
-- En atención a las necesidades especiales del niño impedido, la asistencia que se preste conforme al párrafo 2 del presente artículo será gratuita siempre que sea posible, habida cuenta de la situación económica de los padres o de las otras personas que cuiden del niño, y estará destinada a asegurar que el niño impedido tenga un acceso efectivo a la educación, la capacitación, los servicios de rehabilitación, la preparación para el empleo y las oportunidades de esparcimiento y reciba tales servicios con el objeto de que el niño logre la integración social y el desarrollo individual, incluido su desarrollo cultural y espiritual, en la máxima medida posible.
+3. En atención a las necesidades especiales del niño impedido, la asistencia que se preste conforme al párrafo 2 del presente artículo será gratuita siempre que sea posible, habida cuenta de la situación económica de los padres o de las otras personas que cuiden del niño, y estará destinada a asegurar que el niño impedido tenga un acceso efectivo a la educación, la capacitación, los servicios de rehabilitación, la preparación para el empleo y las oportunidades de esparcimiento y reciba tales servicios con el objeto de que el niño logre la integración social y el desarrollo individual, incluido su desarrollo cultural y espiritual, en la máxima medida posible.
 
-- Los  Estados  Partes  promoverán  con  espíritu  de  cooperación  internacional  el intercambio de información adecuada en la esfera de la atención sanitaria preventiva y del tratamiento médico, psicológico y funcional de los niños impedidos, incluida la difusión  de  información  sobre  los  métodos  de  rehabilitación  y  los  servicios  de enseñanza y formación profesional, así como el acceso a esa información a fin de que los  Estados  Partes  puedan  mejorar  su  capacidad    y  conocimientos  y  ampliar  su experiencia en estas esferas. A este respecto, se tendrán especialmente en cuanta las necesidades de los países en desarrollo.
+4. Los Estados Partes promoverán con espíritu de cooperación internacional el intercambio de información adecuada en la esfera de la atención sanitaria preventiva y del tratamiento médico, psicológico y funcional de los niños impedidos, incluida la difusión de información sobre los métodos de rehabilitación y los servicios de enseñanza y formación profesional, así como el acceso a esa información a fin de que los Estados Partes puedan mejorar su capacidad y conocimientos y ampliar su experiencia en estas esferas. A este respecto, se tendrán especialmente en cuanta las necesidades de los países en desarrollo.
 
 #### ARTICULO 24 (Salud y servicios médicos)
 
-- Los Estados Partes reconocen el derecho del niño al disfrute del más alto nivel posible de salud y a servicios para el tratamiento de las enfermedades y la rehabilitación de la salud.  Los Estados Partes se esforzarán por asegurar que ningún niño sea privado de su derecho al disfrute de esos servicios sanitarios.
+1. Los Estados Partes reconocen el derecho del niño al disfrute del más alto nivel posible de salud y a servicios para el tratamiento de las enfermedades y la rehabilitación de la salud. Los Estados Partes se esforzarán por asegurar que ningún niño sea privado de su derecho al disfrute de esos servicios sanitarios.
 
 2. Los Estados Partes asegurarán la plena aplicación de este derecho y, en particular, adoptarán las medidas apropiadas para:
 
-- Reducir la mortalidad infantil y en la niñez;
+a. Reducir la mortalidad infantil y en la niñez;
 
-- Asegurar la prestación de la asistencia médica y la atención sanitaria que sean necesarias a todos los niños, haciendo hincapié en el desarrollo de la atención primaria de la salud;
+b. Asegurar la prestación de la asistencia médica y la atención sanitaria que sean necesarias a todos los niños, haciendo hincapié en el desarrollo de la atención primaria de la salud;
 
 99
 
@@ -3382,17 +3500,17 @@ hogar de guarda o entregado a una familia adoptiva o no pueda ser atendido de ma
 
 [[START OF PAGE 100]]
 
-- Combatir las enfermedades y la malnutrición en el marco de la atención primaria de la salud mediante, entre otras cosas, la aplicación de la tecnología disponible y el suministro de alimentos nutritivos adecuados y agua potable salubre, teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente;
+c. Combatir las enfermedades y la malnutrición en el marco de la atención primaria de la salud mediante, entre otras cosas, la aplicación de la tecnología disponible y el suministro de alimentos nutritivos adecuados y agua potable salubre, teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente;
 
-- Asegurar atención sanitaria prenatal y postnatal apropiada a las madres;
+d. Asegurar atención sanitaria prenatal y postnatal apropiada a las madres;
 
-- Asegurar que todos los sectores de la sociedad, y en particular los padres y los niños, conozcan los principios básicos de la salud y la nutrición de los niños,  las  ventajas  de  la  lactancia  materna,  la  higiene  y  el  saneamiento ambiental y las medidas de prevención de accidentes,  tengan acceso a la educación pertinente y reciban apoyo en la aplicación de esos conocimientos;
+e. Asegurar que todos los sectores de la sociedad, y en particular los padres y los niños, conozcan los principios básicos de la salud y la nutrición de los niños, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes, tengan acceso a la educación pertinente y reciban apoyo en la aplicación de esos conocimientos;
 
-- Desarrollar la atención sanitaria preventiva, la orientación a los padres y la educación y servicios en materia de planificación de la familia.
+f. Desarrollar la atención sanitaria preventiva, la orientación a los padres y la educación y servicios en materia de planificación de la familia.
 
-- Los Estados Partes adoptarán todas las medidas eficaces y apropiadas posibles para abolir las prácticas tradicionales que sean perjudiciales para la salud de los niños.
+3. Los Estados Partes adoptarán todas las medidas eficaces y apropiadas posibles para abolir las prácticas tradicionales que sean perjudiciales para la salud de los niños.
 
-- Los  Estados  Partes  se  comprometen  a  promover  y  alentar  la  cooperación internacional  con  miras  a  lograr  progresivamente  la  plena  realización  del  derecho reconocido en el presente artículo.  A este respecto, se tendrán plenamente en cuenta las necesidades de los países en desarrollo.
+4. Los Estados Partes se comprometen a promover y alentar la cooperación internacional con miras a lograr progresivamente la plena realización del derecho reconocido en el presente artículo. A este respecto, se tendrán plenamente en cuenta las necesidades de los países en desarrollo.
 
 #### ARTICULO 25 (Evaluación periódica de la internación)
 
@@ -3400,9 +3518,9 @@ Los  Estados  Partes  reconocen  el  derecho  del  niño  que  ha  sido  interna
 
 #### ARTICULO 26 (Seguridad Social)
 
-- Los Estados Partes reconocerán a todos los niños el derecho a beneficiarse de la seguridad social, incluso del seguro social, y adoptarán las medidas necesarias para lograr la plena realización de este derecho de conformidad con su legislación nacional.
+1. Los Estados Partes reconocerán a todos los niños el derecho a beneficiarse de la seguridad social, incluso del seguro social, y adoptarán las medidas necesarias para lograr la plena realización de este derecho de conformidad con su legislación nacional.
 
-- Las prestaciones deberían concederse, cuando corresponda, teniendo en cuenta los recursos  y  la  situación  del  niño  y  de  las  personas  que  sean  responsables  del mantenimiento  del  niño,  así  como  cualquier  otra  consideración  pertinente  a  una solicitud de prestaciones hecha por el niño o en su nombre.
+2. Las prestaciones deberían concederse, cuando corresponda, teniendo en cuenta los recursos y la situación del niño y de las personas que sean responsables del mantenimiento del niño, así como cualquier otra consideración pertinente a una solicitud de prestaciones hecha por el niño o en su nombre.
 
 100
 
@@ -3412,23 +3530,23 @@ Los  Estados  Partes  reconocen  el  derecho  del  niño  que  ha  sido  interna
 
 #### ARTICULO 27 (Nivel de vida)
 
-- Los Estados Partes reconocen el derecho de todo niño a un nivel de vida adecuado para su desarrollo físico, mental, espiritual, moral y social.
+1. Los Estados Partes reconocen el derecho de todo niño a un nivel de vida adecuado para su desarrollo físico, mental, espiritual, moral y social.
 
-- A los padres u otras personas encargadas del niño les incumbe la responsabilidad primordial  de  proporcionar  dentro  de  sus  posibilidades  y  medios  económicos,  las condiciones de vida que sean necesarias para el desarrollo del niño.
+2. A los padres u otras personas encargadas del niño les incumbe la responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo del niño.
 
-- Los Estados Partes, de acuerdo con las condiciones nacionales y con arreglo a sus medios, adoptarán medidas apropiadas para ayudar a los padres y a otras personas responsables  del  niño  a  dar  efectividad  a  este  derecho  y,  en  caso  necesario, proporcionarán asistencia material y programas de apoyo, particularmente con respecto a la nutrición, el vestuario y la vivienda.
+3. Los Estados Partes, de acuerdo con las condiciones nacionales y con arreglo a sus medios, adoptarán medidas apropiadas para ayudar a los padres y a otras personas responsables del niño a dar efectividad a este derecho y, en caso necesario, proporcionarán asistencia material y programas de apoyo, particularmente con respecto a la nutrición, el vestuario y la vivienda.
 
-- Los Estados Partes tomarán todas las medidas apropiadas para asegurar el pago de la  pensión  alimenticia  por  parte  de  los  padres  u  otras  personas  que  tengan  la responsabilidad financiera del niño, tanto si viven en el Estado Parte como si viven en  el  extranjero.    En  particular,  cuando  la  persona  que  tenga  la  responsabilidad financiera del niño resida en un estado diferente de aquel en que resida el niño, los Estados  Partes  promoverán  la  adhesión  a  los  convenios  internacionales  o  la concertación de dichos convenios, así como la concertación de cualesquiera otros arreglos apropiados.
+4. Los Estados Partes tomarán todas las medidas apropiadas para asegurar el pago de la pensión alimenticia por parte de los padres u otras personas que tengan la responsabilidad financiera del niño, tanto si viven en el Estado Parte como si viven en el extranjero. En particular, cuando la persona que tenga la responsabilidad financiera del niño resida en un estado diferente de aquel en que resida el niño, los Estados Partes promoverán la adhesión a los convenios internacionales o la concertación de dichos convenios, así como la concertación de cualesquiera otros arreglos apropiados.
 
 #### ARTICULO 28 (Educación)
 
-- Los Estados Partes reconocen el derecho del niño a la educación y a fin de que se pueda ejercer progresivamente y en condiciones de igualdad de oportunidades ese derecho, deberán en particular:
+1. Los Estados Partes reconocen el derecho del niño a la educación y a fin de que se pueda ejercer progresivamente y en condiciones de igualdad de oportunidades ese derecho, deberán en particular:
 
-- Implantar la enseñanza primaria obligatoria y gratuita para todos;
+a. Implantar la enseñanza primaria obligatoria y gratuita para todos;
 
-- Fomentar el desarrollo, en sus distintas formas, de la enseñanza secundaria, incluida  la  enseñanza  general  y  profesional,  hacer  que  todos  los  niños dispongan de ella y tengan acceso a ella y adoptar medidas apropiadas tales como la implantación de la enseñanza gratuita y la concesión de asistencia financiera en caso de necesidad;
+b. Fomentar el desarrollo, en sus distintas formas, de la enseñanza secundaria, incluida la enseñanza general y profesional, hacer que todos los niños dispongan de ella y tengan acceso a ella y adoptar medidas apropiadas tales como la implantación de la enseñanza gratuita y la concesión de asistencia financiera en caso de necesidad;
 
-- Hacer la enseñanza superior accesible a todos, sobre la base de la capacidad, por cuantos medios sean apropiados;
+c. Hacer la enseñanza superior accesible a todos, sobre la base de la capacidad, por cuantos medios sean apropiados;
 
 101
 
@@ -3436,29 +3554,29 @@ Los  Estados  Partes  reconocen  el  derecho  del  niño  que  ha  sido  interna
 
 [[START OF PAGE 102]]
 
-- Hacer  que  todos  los  niños  dispongan  de  información  y  orientación  en cuestiones educativas y profesionales y tengan acceso a ellas;
+d. Hacer que todos los niños dispongan de información y orientación en cuestiones educativas y profesionales y tengan acceso a ellas;
 
-- Adoptar medidas para fomentar la asistencia regular a las escuelas y reducir las tasas de deserción escolar.
+e. Adoptar medidas para fomentar la asistencia regular a las escuelas y reducir las tasas de deserción escolar.
 
-- Los Estados Partes adoptarán cuantas medidas sean adecuadas para velar por que la disciplina escolar se administre de modo compatible con la dignidad humana del niño y de conformidad con la presente Convención
+2. Los Estados Partes adoptarán cuantas medidas sean adecuadas para velar por que la disciplina escolar se administre de modo compatible con la dignidad humana del niño y de conformidad con la presente Convención
 
 3. Los Estados Partes fomentarán y alentarán la cooperación internacional en cuestiones de educación, en particular a fin de contribuir a eliminar la ignorancia y el analfabetismo en todo el mundo y de facilitar el acceso a los conocimientos técnicos y a los métodos modernos de enseñanza.  A este respecto, se tendrán especialmente en cuenta las necesidades de los países en desarrollo.
 
 #### ARTICULO 29 (Objetivos de la educación)
 
-- Los Estados Partes convienen en que la educación del niño deberá estar encaminada a:
+1. Los Estados Partes convienen en que la educación del niño deberá estar encaminada a:
 
-- Desarrollar la personalidad, las aptitudes, la capacidad mental y física del niño hasta el máximo de sus posibilidades;
+a. Desarrollar la personalidad, las aptitudes, la capacidad mental y física del niño hasta el máximo de sus posibilidades;
 
-- Inculcar  al  niño  el  respeto  a  los  derechos  humanos  y  las  libertades fundamentales y a los principios consagrados en la Carta de las Naciones Unidas;
+b. Inculcar al niño el respeto a los derechos humanos y las libertades fundamentales y a los principios consagrados en la Carta de las Naciones Unidas;
 
-- Inculcar al niño el respeto a sus padres, a su propia identidad cultural, a su idioma y sus valores, a los valores nacionales del país en que vive, del país del que sea originario y de las civilizaciones distintas de la suya;
+c. Inculcar al niño el respeto a sus padres, a su propia identidad cultural, a su idioma y sus valores, a los valores nacionales del país en que vive, del país del que sea originario y de las civilizaciones distintas de la suya;
 
-- Preparar al niño para asumir una vida responsable en una sociedad libre, con espíritu  de  comprensión,  paz,  tolerancia,  igualdad  de  los  sexos  y  amistad entre todos los pueblos, grupos étnicos, nacionales y religiosos y personas de origen indígena;
+d. Preparar al niño para asumir una vida responsable en una sociedad libre, con espíritu de comprensión, paz, tolerancia, igualdad de los sexos y amistad entre todos los pueblos, grupos étnicos, nacionales y religiosos y personas de origen indígena;
 
-- Inculcar al niño el respeto al medio ambiente natural.
+e. Inculcar al niño el respeto al medio ambiente natural.
 
-- Nada de lo dispuesto en el presente artículo o en el artículo 28 se interpretará como una restricción a la libertad de los particulares y de las entidades para establecer y dirigir  instituciones  de  enseñanza,  a  condición  de  que  se  respeten  los  principios
+2. Nada de lo dispuesto en el presente artículo o en el artículo 28 se interpretará como una restricción a la libertad de los particulares y de las entidades para establecer y dirigir instituciones de enseñanza, a condición de que se respeten los principios
 
 102
 
@@ -3474,21 +3592,21 @@ En los Estados en que existan minorías étnicas, religiosas o lingüísticas o 
 
 #### ARTICULO 31 (Esparcimiento, juego y actividades culturales)
 
-- Los Estados Partes reconocen el derecho del niño al descanso y el esparcimiento, al juego y a las actividades recreativas propias de su edad y a participar libremente en la vida cultural y en las artes.
+1. Los Estados Partes reconocen el derecho del niño al descanso y el esparcimiento, al juego y a las actividades recreativas propias de su edad y a participar libremente en la vida cultural y en las artes.
 
-- Los  Estados  Partes  respetarán  y  promoverán  el  derecho  del  niño  a  participar plenamente en la vida cultural y artística y propiciarán oportunidades apropiadas, en condiciones de igualdad, de participar en la vida cultural.
+2. Los Estados Partes respetarán y promoverán el derecho del niño a participar plenamente en la vida cultural y artística y propiciarán oportunidades apropiadas, en condiciones de igualdad, de participar en la vida cultural.
 
 #### ARTICULO 32 (Trabajo infantil)
 
-- Los  Estados  Partes  reconocen  el  derecho  del  niño  a  estar  protegido  contra  la explotación económica y contra el desempeño de cualquier trabajo que pueda ser peligroso o entorpecer su educación o que sea nocivo para su salud o para su desarrollo físico,  mental,  espiritual,  moral  o  social.
+1. Los Estados Partes reconocen el derecho del niño a estar protegido contra la explotación económica y contra el desempeño de cualquier trabajo que pueda ser peligroso o entorpecer su educación o que sea nocivo para su salud o para su desarrollo físico, mental, espiritual, moral o social.
 
-- Los  Estados  Partes  adoptarán  medidas  legislativas,  administrativas,  sociales  y educativas para garantizar la aplicación del presente artículo.  Con ese propósito y teniendo cuenta las disposiciones pertinentes de otros instrumentos internacionales, los Estados Partes, en particular:
+2. Los Estados Partes adoptarán medidas legislativas, administrativas, sociales y educativas para garantizar la aplicación del presente artículo. Con ese propósito y teniendo cuenta las disposiciones pertinentes de otros instrumentos internacionales, los Estados Partes, en particular:
 
-- Fijarán una edad o edades mínimas para trabajar;
+a. Fijarán una edad o edades mínimas para trabajar;
 
-- Dispondrán la reglamentación apropiada de los horarios y condiciones de trabajo;
+b. Dispondrán la reglamentación apropiada de los horarios y condiciones de trabajo;
 
-- Estipularán las penalidades u otras sanciones apropiadas para asegurar la aplicación efectiva del presente artículo.
+c. Estipularán las penalidades u otras sanciones apropiadas para asegurar la aplicación efectiva del presente artículo.
 
 103
 
@@ -3504,11 +3622,11 @@ Los  Estados  Partes  adoptarán  todas  las  medidas  apropiadas,  incluidas  m
 
 Los Estados Partes se comprometen a proteger al niño contra todas las formas de explotación y abuso sexuales.  Con este fin, los Estados Partes tomarán, en particular, todas las medidas de carácter nacional, bilateral y multilateral que sean necesarias para  impedir:
 
-- La incitación o la coacción para que un niño se dedique a cualquier actividad sexual  ilegal;
+a. La incitación o la coacción para que un niño se dedique a cualquier actividad sexual ilegal;
 
-- La explotación del niño en la prostitución u otras prácticas sexuales ilegales;
+b. La explotación del niño en la prostitución u otras prácticas sexuales ilegales;
 
-- La explotación del niño en espectáculos o materiales pornográficos.
+c. La explotación del niño en espectáculos o materiales pornográficos.
 
 #### ARTICULO 35 (Venta, tráfico y trata de niños)
 
@@ -3522,7 +3640,7 @@ Los Estados Partes protegerán al niño contra todas las demás formas de explot
 
 Los Estados Partes velarán por que:
 
-- Ningún  niño  sea  sometido  a  torturas  ni  a  otros  tratos  o  penas  crueles, inhumanos o degradantes.  No se impondrán la pena capital ni la de prisión perpetua sin posibilidad de excarcelación por delitos cometidos por menores de 18 años de edad.
+a. Ningún niño sea sometido a torturas ni a otros tratos o penas crueles, inhumanos o degradantes. No se impondrán la pena capital ni la de prisión perpetua sin posibilidad de excarcelación por delitos cometidos por menores de 18 años de edad.
 
 104
 
@@ -3530,25 +3648,25 @@ Los Estados Partes velarán por que:
 
 [[START OF PAGE 105]]
 
-- Ningún niño será privado de su libertad ilegal o arbitrariamente.  La detención, el encarcelamiento o la prisión de un niño se llevará a cabo de conformidad con la ley y se utilizarán tan sólo como medida de último recurso y durante el período más breve que proceda.
+b. Ningún niño será privado de su libertad ilegal o arbitrariamente. La detención, el encarcelamiento o la prisión de un niño se llevará a cabo de conformidad con la ley y se utilizarán tan sólo como medida de último recurso y durante el período más breve que proceda.
 
-- Todo niño privado de libertad será tratado con la humanidad y el respeto que merece la dignidad inherente a la persona, y de manera que se tengan en cuenta las necesidades de las personas de su edad.  En particular, todo niño privado  de  libertad  estará  separado  de  los  adultos,  a  menos  que  ello  se considere contrario al interés superior del niño, y tendrá derecho a mantener contacto con su familia por medio de correspondencia y de visitas, salvo en circunstancias excepcionales;
+c. Todo niño privado de libertad será tratado con la humanidad y el respeto que merece la dignidad inherente a la persona, y de manera que se tengan en cuenta las necesidades de las personas de su edad. En particular, todo niño privado de libertad estará separado de los adultos, a menos que ello se considere contrario al interés superior del niño, y tendrá derecho a mantener contacto con su familia por medio de correspondencia y de visitas, salvo en circunstancias excepcionales;
 
-- Todo niño privado de su libertad tendrá derecho a un pronto acceso a la asistencia jurídica y otra asistencia adecuada, así como derecho a impugnar la legalidad de la privación de su libertad ante un tribunal u otra autoridad competente, independiente e imparcial y a una pronta decisión sobre dicha acción.
+d. Todo niño privado de su libertad tendrá derecho a un pronto acceso a la asistencia jurídica y otra asistencia adecuada, así como derecho a impugnar la legalidad de la privación de su libertad ante un tribunal u otra autoridad competente, independiente e imparcial y a una pronta decisión sobre dicha acción.
 
 #### ARTICULO 38 (Conflictos armados)
 
-- Los Estados Partes se comprometen a respetar y velar por que se respeten las normas del derecho internacional humanitario que les sean aplicables en los conflictos armados y que sean pertinentes para el niño.
+1. Los Estados Partes se comprometen a respetar y velar por que se respeten las normas del derecho internacional humanitario que les sean aplicables en los conflictos armados y que sean pertinentes para el niño.
 
-- Los Estados Partes adoptarán todas las medidas posibles para asegurar que las personas que aún no hayan cumplido los 15 años de edad no participen directamente en las hostilidades.
+2. Los Estados Partes adoptarán todas las medidas posibles para asegurar que las personas que aún no hayan cumplido los 15 años de edad no participen directamente en las hostilidades.
 
-- Los Estados Partes se abstendrán de reclutar en las fuerzas armadas a las personas que no hayan cumplido los 15 años de edad.  Si reclutan personas que hayan cumplido 15 años, pero que sean menores de 18, los Estados Partes procurarán dar prioridad a los de más edad.
+3. Los Estados Partes se abstendrán de reclutar en las fuerzas armadas a las personas que no hayan cumplido los 15 años de edad. Si reclutan personas que hayan cumplido 15 años, pero que sean menores de 18, los Estados Partes procurarán dar prioridad a los de más edad.
 
-- De  conformidad  con  las  obligaciones  dimanadas  del  derecho  internacional humanitario de proteger a la población civil durante los conflictos armados, los Estados Partes adoptarán todas las medidas posibles para asegurar la protección y el cuidado de los niños afectados por un conflicto armado.
+4. De conformidad con las obligaciones dimanadas del derecho internacional humanitario de proteger a la población civil durante los conflictos armados, los Estados Partes adoptarán todas las medidas posibles para asegurar la protección y el cuidado de los niños afectados por un conflicto armado.
 
 #### ARTICULO 39 (Recuperación y reintegración social)
 
-Los  Estados  Partes  adoptarán  todas  las  medidas  apropiadas  para  promover  la recuperación física  y  psicológica  y  la  reintegración  social  de  todo  niño  víctima  de cualquier forma de abandono, explotación o abuso; tortura u otra forma de tratos o penas crueles, inhumanos o degradantes; o conflictos armados.  Esa recuperación y reintegración se llevarán a cabo en un ambiente que fomente la salud, el respeto a sí mismo y la dignidad del niño.
+Los Estados Partes adoptarán todas las medidas apropiadas para promover la recuperación física y psicológica y la reintegración social de todo niño víctima de
 
 105
 
@@ -3556,21 +3674,23 @@ Los  Estados  Partes  adoptarán  todas  las  medidas  apropiadas  para  promove
 
 [[START OF PAGE 106]]
 
+cualquier forma de abandono, explotación o abuso; tortura u otra forma de tratos o penas crueles, inhumanos o degradantes; o conflictos armados. Esa recuperación y reintegración se llevarán a cabo en un ambiente que fomente la salud, el respeto a sí mismo y la dignidad del niño.
+
 #### ARTICULO 40 (Administración de la justicia infanto-juvenil)
 
-- Los Estados Partes reconocen el derecho de todo niño de quien se alegue que ha infringido las leyes penales o a quien se acuse o declare culpable de haber infringido esas leyes, a ser tratado de manera acorde con el fomento de su sentido de la dignidad y el valor, que fortalezca el respeto del niño por los derechos humanos y las libertades fundamentales de terceros y en la que se tengan en cuenta la edad del niño y la importancia de promover su reintegración y de que éste asuma una función constructiva en la sociedad.
+1. Los Estados Partes reconocen el derecho de todo niño de quien se alegue que ha infringido las leyes penales o a quien se acuse o declare culpable de haber infringido esas leyes, a ser tratado de manera acorde con el fomento de su sentido de la dignidad y el valor, que fortalezca el respeto del niño por los derechos humanos y las libertades fundamentales de terceros y en la que se tengan en cuenta la edad del niño y la importancia de promover su reintegración y de que éste asuma una función constructiva en la sociedad.
 
-- Con ese fin, y habida cuenta de las disposiciones pertinentes de los instrumentos internacionales, los Estados Partes garantizarán, en particular:
+2. Con ese fin, y habida cuenta de las disposiciones pertinentes de los instrumentos internacionales, los Estados Partes garantizarán, en particular:
 
-- Que  no  se  alegue  que  ningún  niño  ha  infringido  las  leyes  penales,  ni  se acuse o declare culpable a ningún niño de haber infringido esas leyes, por actos  u  omisiones  que  no  estaban  prohibidos  por  las  leyes  nacionales  o internacionales en el momento en que se cometieron.
+a. Que no se alegue que ningún niño ha infringido las leyes penales, ni se acuse o declare culpable a ningún niño de haber infringido esas leyes, por actos u omisiones que no estaban prohibidos por las leyes nacionales o internacionales en el momento en que se cometieron.
 
-- Que todo niño del que se alegue que ha infringido las leyes penales o a quien se  acuse  de  haber  infringido  esas  leyes  se  le  garantice,  por  lo  menos,  lo siguiente:
+b. Que todo niño del que se alegue que ha infringido las leyes penales o a quien se acuse de haber infringido esas leyes se le garantice, por lo menos, lo siguiente:
 
-- Que se lo presumirá inocente mientras no se pruebe su culpabilidad conforme a la ley;
+i) Que se lo presumirá inocente mientras no se pruebe su culpabilidad conforme a la ley;
 
-- ii) Que  será  informado  sin  demora  y  directamente  o,  cuando  sea procedente, por intermedio de sus padres o sus representantes legales, de los cargos que pesan contra él y que dispondrá de asistencia jurídica y otra asistencia apropiada en la preparación y presentación de su defensa.
+ii) Que será informado sin demora y directamente o, cuando sea procedente, por intermedio de sus padres o sus representantes legales, de los cargos que pesan contra él y que dispondrá de asistencia jurídica y otra asistencia apropiada en la preparación y presentación de su defensa.
 
-- iii) Que la causa será dirimida sin demora por una autoridad u órgano judicial  competente,  independiente  e  imparcial  en  una  audiencia equitativa  conforme a la ley,  en  presencia  de  un  asesor  jurídico  y otro tipo de asesor adecuado y, a menos que se considerare que ello
+iii) Que la causa será dirimida sin demora por una autoridad u órgano judicial competente, independiente e imparcial en una audiencia equitativa conforme a la ley, en presencia de un asesor jurídico y otro tipo de asesor adecuado y, a menos que se considerare que ello
 
 106
 
@@ -3578,21 +3698,21 @@ Los  Estados  Partes  adoptarán  todas  las  medidas  apropiadas  para  promove
 
 [[START OF PAGE 107]]
 
-- fuere  contrario  al  interés  superior  del  niño,  teniendo  en  cuenta  en particular su edad o situación y a sus padres o representantes legales;
+fuere contrario al interés superior del niño, teniendo en cuenta en particular su edad o situación y a sus padres o representantes legales;
 
-- iv) Que no será obligado a prestar testimonio o a declararse culpable, que podrá interrogar o hacer que se interrogue a testigos de cargo y obtener la participación y el interrogatorio de testigos de descargo en condiciones de igualdad;
+iv) Que no será obligado a prestar testimonio o a declararse culpable, que podrá interrogar o hacer que se interrogue a testigos de cargo y obtener la participación y el interrogatorio de testigos de descargo en condiciones de igualdad;
 
-- Si se considerare que ha infringido, en efecto, las leyes penales, que esta decisión y toda medida impuesta a consecuencia de ella, serán sometidas  a  una  autoridad  u  órgano  judicial  superior  competente, independiente e imparcial, conforme a la ley;
+v) Si se considerare que ha infringido, en efecto, las leyes penales, que esta decisión y toda medida impuesta a consecuencia de ella, serán sometidas a una autoridad u órgano judicial superior competente, independiente e imparcial, conforme a la ley;
 
-- vi) Que el niño contará con la asistencia gratuita de un intérprete si no comprende o no habla el idioma utilizado;
+vi) Que el niño contará con la asistencia gratuita de un intérprete si no comprende o no habla el idioma utilizado;
 
-- vii) Que se respetará plenamente su vida privada en todas las fases del procedimiento.
+vii) Que se respetará plenamente su vida privada en todas las fases del procedimiento.
 
-- Los  Estados  Partes  tomarán  todas  las  medidas  apropiadas  para  promover  el establecimiento de leyes, procedimientos, autoridades e instituciones específicas para los niños de quienes se alegue que han infringido las leyes penales o a quienes se acuse o declare culpables de haber infringido esas leyes, y en particular:
+3. Los Estados Partes tomarán todas las medidas apropiadas para promover el establecimiento de leyes, procedimientos, autoridades e instituciones específicas para los niños de quienes se alegue que han infringido las leyes penales o a quienes se acuse o declare culpables de haber infringido esas leyes, y en particular:
 
-- El establecimiento de una edad mínima antes de la cual se presumirá que los niños no tienen capacidad para infringir las leyes penales.
+a. El establecimiento de una edad mínima antes de la cual se presumirá que los niños no tienen capacidad para infringir las leyes penales.
 
-- Siempre que sea apropiado y deseable, la adopción de medidas para tratar a esos niños sin recurrir a procedimientos judiciales, en el entendimiento de que se respetarán plenamente los derechos humanos y las garantías legales.
+b. Siempre que sea apropiado y deseable, la adopción de medidas para tratar a esos niños sin recurrir a procedimientos judiciales, en el entendimiento de que se respetarán plenamente los derechos humanos y las garantías legales.
 
 4. Se dispondrá de diversas medidas, tales como el cuidado, las órdenes de orientación y  supervisión,    el  asesoramiento,  la  libertad  vigilada,  la  colocación  en  hogares  de guarda,  los  programas  de  enseñanza  y  formación  profesional,  así  como  otras posibilidades alternativas a la internación en instituciones, para asegurar que los niños sean tratados de manera apropiada para su bienestar y que guarde proporción tanto con sus circunstancias como con la infracción.
 
@@ -3606,9 +3726,9 @@ Nada de lo dispuesto en la presente Convención afectará a las disposiciones qu
 
 [[START OF PAGE 108]]
 
-- El derecho de un Estado Parte; o
+a. El derecho de un Estado Parte; o
 
-- El derecho internacional vigente con respecto a dicho Estado.
+b. El derecho internacional vigente con respecto a dicho Estado.
 
 ### PARTE II
 
@@ -3618,13 +3738,13 @@ Los Estados Partes se comprometen a dar a conocer ampliamente los principios y d
 
 #### ARTICULO 43 (Comité de los Derechos del Niño)
 
-- Con la finalidad de examinar los progresos realizados en el cumplimiento de las obligaciones  contraídas  por  los  Estados  Partes  en  la  presente  Convención,  se establecerá un Comité de los Derechos del Niño que desempeñará las funciones que a continuación se estipulan.
+1. Con la finalidad de examinar los progresos realizados en el cumplimiento de las obligaciones contraídas por los Estados Partes en la presente Convención, se establecerá un Comité de los Derechos del Niño que desempeñará las funciones que a continuación se estipulan.
 
-- El Comité estará integrado por diez expertos de gran integridad moral y reconocida competencia en las esferas reguladas por la presente Convención.  Los miembros del Comité serán elegidos por los Estados Partes entre sus nacionales y ejercerán sus funciones  a  título  personal,  teniéndose  debidamente  en  cuenta  la  distribución geográfica, así como las principales sistemas jurídicos.
+2. El Comité estará integrado por diez expertos de gran integridad moral y reconocida competencia en las esferas reguladas por la presente Convención. Los miembros del Comité serán elegidos por los Estados Partes entre sus nacionales y ejercerán sus funciones a título personal, teniéndose debidamente en cuenta la distribución geográfica, así como las principales sistemas jurídicos.
 
-- Los  miembros  del  Comité  serán  elegidos,  en  votación  secreta,  de  una  lista  de personas designadas por los Estados Partes.  Cada Estado Parte podrá designar una persona escogida entre sus propios nacionales.
+3. Los miembros del Comité serán elegidos, en votación secreta, de una lista de personas designadas por los Estados Partes. Cada Estado Parte podrá designar una persona escogida entre sus propios nacionales.
 
-- La elección inicial se celebrará a más tardar seis meses después de la entrada en vigor de la presente Convención y ulteriormente cada dos años.  Con cuatro meses, como mínimo, de antelación respecto de la fecha de cada elección, el Secretario General de las Naciones Unidas dirigirá una carta a los Estados Partes invitándolos a que presenten sus candidaturas en un plazo de dos meses.  El Secretario General preparará después  una  lista  en  la  que  figurarán  por  orden  alfabético  todos  los  candidatos propuestos,  con  indicación  de  los  Estados  Partes  que  los  hayan  designado  y  la comunicará a los Estados Partes en la presente Convención.
+4. La elección inicial se celebrará a más tardar seis meses después de la entrada en vigor de la presente Convención y ulteriormente cada dos años. Con cuatro meses, como mínimo, de antelación respecto de la fecha de cada elección, el Secretario General de las Naciones Unidas dirigirá una carta a los Estados Partes invitándolos a que presenten sus candidaturas en un plazo de dos meses. El Secretario General preparará después una lista en la que figurarán por orden alfabético todos los candidatos propuestos, con indicación de los Estados Partes que los hayan designado y la comunicará a los Estados Partes en la presente Convención.
 
 108
 
@@ -3632,25 +3752,25 @@ Los Estados Partes se comprometen a dar a conocer ampliamente los principios y d
 
 [[START OF PAGE 109]]
 
-- Las elecciones se celebrarán en una reunión de los Estados Partes convocada por el Secretario General en la Sede de las Naciones Unidas.  En esa reunión, en la que la presencia  de  dos  tercios  de  los  Estados  Partes  constituirá  quorum,  las  personas seleccionadas para tomar parte del comité serán aquellos candidatos que obtengan el mayor número de votos y una mayoría absoluta de los votos de los representantes de los Estados Partes presentes y votantes.
+5. Las elecciones se celebrarán en una reunión de los Estados Partes convocada por el Secretario General en la Sede de las Naciones Unidas. En esa reunión, en la que la presencia de dos tercios de los Estados Partes constituirá quorum, las personas seleccionadas para tomar parte del comité serán aquellos candidatos que obtengan el mayor número de votos y una mayoría absoluta de los votos de los representantes de los Estados Partes presentes y votantes.
 
-6. Los miembros del Comité serán elegidos por un período de cuatro años.  Podrán ser reelegidos si se presenta de nuevo su candidatura.  El mandato de cinco de los miembros elegidos en la primera elección expirará al cabo de dos años; inmediatamente después de efectuada la primera elección, el Presidente de la reunión en que ésta se celebre elegirá por sorteo los nombres de esos cinco miembros.
+6. Los miembros del Comité serán elegidos por un período de cuatro años. Podrán ser reelegidos si se presenta de nuevo su candidatura. El mandato de cinco de los miembros elegidos en la primera elección expirará al cabo de dos años; inmediatamente después de efectuada la primera elección, el Presidente de la reunión en que ésta se celebre elegirá por sorteo los nombres de esos cinco miembros.
 
-- Si un miembro del Comité fallece o dimite o declara que por cualquier otra causa no puede seguir desempeñando sus funciones en el Comité, el Estado Parte que propuso a ese miembro designará entre sus propios nacionales a otro experto para ejercer el mandato hasta su término, a reserva de la aprobación del Comité.
+7. Si un miembro del Comité fallece o dimite o declara que por cualquier otra causa no puede seguir desempeñando sus funciones en el Comité, el Estado Parte que propuso a ese miembro designará entre sus propios nacionales a otro experto para ejercer el mandato hasta su término, a reserva de la aprobación del Comité.
 
-- El Comité adoptará su propio reglamento.
+8. El Comité adoptará su propio reglamento.
 
-- El Comité elegirá su Mesa por un período de dos años.
+9. El Comité elegirá su Mesa por un período de dos años.
 
-- Las reuniones del Comité se celebrarán normalmente en la sede de las Naciones Unidas o en cualquier otro lugar conveniente que determine el Comité.  El Comité se reunirá normalmente todos los años.  La duración de las reuniones será determinada y  revisada,  si  procediera,  por  una  reunión  de  los  Estados  Partes  en  la  presente Convención, a reserva de la aprobación de la Asamblea General.
+10. Las reuniones del Comité se celebrarán normalmente en la sede de las Naciones Unidas o en cualquier otro lugar conveniente que determine el Comité. El Comité se reunirá normalmente todos los años. La duración de las reuniones será determinada y revisada, si procediera, por una reunión de los Estados Partes en la presente Convención, a reserva de la aprobación de la Asamblea General.
 
-- El  Secretario  General  de  las  Naciones  Unidas  proporcionará  el  personal  y  los servicios necesarios para el desempeño eficaz de las funciones del Comité establecido en virtud de la presente Convención.
+11. El Secretario General de las Naciones Unidas proporcionará el personal y los servicios necesarios para el desempeño eficaz de las funciones del Comité establecido en virtud de la presente Convención.
 
-- Previa aprobación de la Asamblea General, los miembros del Comité establecido en virtud de la presente Convención recibirán emolumentos con cargo a los fondos de las Naciones Unidas, según las condiciones que la Asamblea pueda establecer.
+12. Previa aprobación de la Asamblea General, los miembros del Comité establecido en virtud de la presente Convención recibirán emolumentos con cargo a los fondos de las Naciones Unidas, según las condiciones que la Asamblea pueda establecer.
 
 #### ARTICULO 44 (Informes al Comité)
 
-- Los  Estados  Partes  se  comprometen  a  presentar  al  Comité,  por  conducto  del Secretario General de las Naciones Unidas, informes sobre las medidas que hayan adoptado para dar efecto a los derechos reconocidos en la Convención y sobre el progreso que hayan realizado en cuanto al goce de esos derechos:
+1. Los Estados Partes se comprometen a presentar al Comité, por conducto del Secretario General de las Naciones Unidas, informes sobre las medidas que hayan adoptado para dar efecto a los derechos reconocidos en la Convención y sobre el progreso que hayan realizado en cuanto al goce de esos derechos:
 
 109
 
@@ -3658,25 +3778,25 @@ Los Estados Partes se comprometen a dar a conocer ampliamente los principios y d
 
 [[START OF PAGE 110]]
 
-- En el plazo de dos años a partir de la fecha en la que para cada Estado Parte haya entrado en vigor la presente Convención
+a. En el plazo de dos años a partir de la fecha en la que para cada Estado Parte haya entrado en vigor la presente Convención
 
-- En lo sucesivo, cada cinco años
+b. En lo sucesivo, cada cinco años
 
-- Los  informes  preparados  en  virtud  del  presente  artículo  deberán  indicar  las circunstancias y dificultades, si las hubiere, que afecten el grado de cumplimiento de las obligaciones derivadas de la presente Convención.  Deberán asimismo, contener información suficiente para que el Comité tenga cabal comprensión de la aplicación de la Convención en el país de que se trate.
+2. Los informes preparados en virtud del presente artículo deberán indicar las circunstancias y dificultades, si las hubiere, que afecten el grado de cumplimiento de las obligaciones derivadas de la presente Convención. Deberán asimismo, contener información suficiente para que el Comité tenga cabal comprensión de la aplicación de la Convención en el país de que se trate.
 
-- Los Estados partes que hayan presentado un informe inicial completo al Comité no necesitan repetir, en sucesivos informes presentados de conformidad con lo dispuesto en el inciso b) del párrafo 1 del presente artículo, la información básica presentada anteriormente.
+3. Los Estados partes que hayan presentado un informe inicial completo al Comité no necesitan repetir, en sucesivos informes presentados de conformidad con lo dispuesto en el inciso b) del párrafo 1 del presente artículo, la información básica presentada anteriormente.
 
-- El Comité podrá pedir a los Estados partes más información relativa a la aplicación de la Convención
+4. El Comité podrá pedir a los Estados partes más información relativa a la aplicación de la Convención
 
-- El Comité presentará cada dos años a la Asamblea General de las Naciones Unidas, por conducto del Consejo Económico y Social, informes sobre sus actividades.
+5. El Comité presentará cada dos años a la Asamblea General de las Naciones Unidas, por conducto del Consejo Económico y Social, informes sobre sus actividades.
 
-- Los Estados Partes darán a sus informes una amplia difusión entre el público de sus países respectivos.
+6. Los Estados Partes darán a sus informes una amplia difusión entre el público de sus países respectivos.
 
 #### ARTICULO 45 (Cooperación de organismos especializados)
 
 Con objeto de fomentar la aplicación efectiva de la Convención y de estimular la cooperación internacional, en la esfera regulada por la Convención:
 
-- Los organismos especializados, el Fondo de las Naciones Unidas para la Infancia-UNICEF y demás órganos de las Naciones Unidas tendrán derecho a estar representados en el examen de la aplicación de aquellas disposiciones de la presente Convención comprendidas en el ámbito de su mandato.  El Comité  podrá  invitar  a  los  organismos  especializados,  al  Fondo  de  las Naciones Unidas para la Infancia y a otros órganos competentes que considere apropiados  a  que  proporcionen  asesoramiento  especializado  sobre  la aplicación de la Convención en los sectores que son de incumbencia de sus respectivos  mandatos.    El  Comité  podrá  invitar  a  los  organismos especializados, al Fondo de las Naciones Unidas para la Infancia y demás órganos de las Naciones Unidas a que presenten informes sobre la aplicación de  aquellas  disposiciones  de  la  presente  Convención  comprendidas  en  el ámbito de sus actividades;
+a. Los organismos especializados, el Fondo de las Naciones Unidas para la Infancia-UNICEF y demás órganos de las Naciones Unidas tendrán derecho a estar representados en el examen de la aplicación de aquellas disposiciones de la presente Convención comprendidas en el ámbito de su mandato. El Comité podrá invitar a los organismos especializados, al Fondo de las Naciones Unidas para la Infancia y a otros órganos competentes que considere apropiados a que proporcionen asesoramiento especializado sobre la aplicación de la Convención en los sectores que son de incumbencia de sus respectivos mandatos. El Comité podrá invitar a los organismos especializados, al Fondo de las Naciones Unidas para la Infancia y demás órganos de las Naciones Unidas a que presenten informes sobre la aplicación de aquellas disposiciones de la presente Convención comprendidas en el ámbito de sus actividades;
 
 110
 
@@ -3684,11 +3804,11 @@ Con objeto de fomentar la aplicación efectiva de la Convención y de estimular 
 
 [[START OF PAGE 111]]
 
-- El  Comité  transmitirá,  según  estime  conveniente,  a  los  organismos especializados, al Fondo de las Naciones Unidas para la Infancia y a otros órganos competentes, los informes de los Estados partes que contengan una solicitud de asesoramiento o de asistencia técnica, o en los que se indique esa necesidad, junto con las observaciones y sugerencias del Comité, si las hubiere, acerca de esas solicitudes o indicaciones;
+b. El Comité transmitirá, según estime conveniente, a los organismos especializados, al Fondo de las Naciones Unidas para la Infancia y a otros órganos competentes, los informes de los Estados partes que contengan una solicitud de asesoramiento o de asistencia técnica, o en los que se indique esa necesidad, junto con las observaciones y sugerencias del Comité, si las hubiere, acerca de esas solicitudes o indicaciones;
 
-- El Comité podrá recomendar a la Asamblea General que pida al Secretario General  que  efectúe,  en  su  nombre,  estudios  sobre  cuestiones  concretas relativas a los derechos del niño;
+c. El Comité podrá recomendar a la Asamblea General que pida al Secretario General que efectúe, en su nombre, estudios sobre cuestiones concretas relativas a los derechos del niño;
 
-- El Comité podrá formular sugerencias y recomendaciones generales basadas en la información recibida en virtud de los artículos 44 y 45 de la presente Convención.    Dichas  sugerencias  y  recomendaciones  generales  deberán transmitirse a los Estados Partes interesados y notificarse a la Asamblea General, junto con los comentarios, si los hubiere, de los Estados Partes.
+d. El Comité podrá formular sugerencias y recomendaciones generales basadas en la información recibida en virtud de los artículos 44 y 45 de la presente Convención. Dichas sugerencias y recomendaciones generales deberán transmitirse a los Estados Partes interesados y notificarse a la Asamblea General, junto con los comentarios, si los hubiere, de los Estados Partes.
 
 ### PARTE III
 
@@ -3714,7 +3834,7 @@ La presente Convención permanecerá abierta a la adhesión de cualquier Estado.
 
 [[START OF PAGE 112]]
 
-- Para cada estado que ratifique la Convención o se adhiera a ella después de haber sido depositado al vigésimo instrumento de ratificación o de adhesión, la  Convención entrará  en  vigor  el  trigésimo  día  del  depósito  por  tal  Estado  de  su  instrumento  de ratificación o adhesión.
+2. Para cada estado que ratifique la Convención o se adhiera a ella después de haber sido depositado al vigésimo instrumento de ratificación o de adhesión, la Convención entrará en vigor el trigésimo día del depósito por tal Estado de su instrumento de ratificación o adhesión.
 
 #### ARTICULO 50 (Enmiendas)
 
@@ -3722,15 +3842,15 @@ La presente Convención permanecerá abierta a la adhesión de cualquier Estado.
 
 2. Toda enmienda adoptada de conformidad con el párrafo 1 del presente artículo entrará en vigor cuando haya sido aprobada por la Asamblea General de las Naciones Unidas y aceptada por una mayoría de dos tercios de los Estados Partes.
 
-- Cuando las enmiendas entren en vigor, serán obligatorias para los Estados Partes que las hayan aceptado, en tanto que los demás Estados Partes seguirán obligados por las disposiciones de la presente Convención y por las enmiendas anteriores que hayan aceptado.
+3. Cuando las enmiendas entren en vigor, serán obligatorias para los Estados Partes que las hayan aceptado, en tanto que los demás Estados Partes seguirán obligados por las disposiciones de la presente Convención y por las enmiendas anteriores que hayan aceptado.
 
 #### ARTICULO 51 (Reservas)
 
-- El Secretario General de las Naciones Unidas recibirá y comunicará a todos los Estados el texto de las reservas formuladas por los Estados en el momento de la ratificación o de la adhesión.
+1. El Secretario General de las Naciones Unidas recibirá y comunicará a todos los Estados el texto de las reservas formuladas por los Estados en el momento de la ratificación o de la adhesión.
 
-- No se aceptará ninguna reserva incompatible con el objeto y el propósito de la presente Convención.
+2. No se aceptará ninguna reserva incompatible con el objeto y el propósito de la presente Convención.
 
-- Toda reserva podrá ser retirada en cualquier momento por medio de una notificación hecha a ese efecto y dirigida al Secretario General de las Naciones Unidas quien informará a todos los Estados. Esa notificación surtirá efecto en la fecha de su recepción por el Secretario General.
+3. Toda reserva podrá ser retirada en cualquier momento por medio de una notificación hecha a ese efecto y dirigida al Secretario General de las Naciones Unidas quien informará a todos los Estados. Esa notificación surtirá efecto en la fecha de su recepción por el Secretario General.
 
 112
 
