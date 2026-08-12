@@ -24,6 +24,60 @@ Juin  07 ii
 
 ## TABLE DES MATIÈRES
 
+TABLE DES MATIÈRES  ii
+LISTE DES SIGLES ET ACRONYMES  v
+LISTE DES TABLEAUX  viii
+LISTE DES DIAGRAMME ET FIGURES  ix
+AVANT-PROPOS  x
+
+INTRODUCTION  1
+CHAPITRE PREMIER : PRÉSENTATION DU CONTEXTE GÉNÉRAL D'HAITI ET DU SECTEUR DE L'ÉDUCATION  4
+1. PRESENTATION GENERALE DU PAYS  5
+Un environnement de plus en plus fragilisé par l'action de l'homme et les catastrophes naturelles  5
+Une démographie caractérisée par une population jeune et un développement non maîtrisé de l'urbanisation  5
+Une instabilité institutionnelle générée par des crises sociopolitiques récurrentes  6
+Un environnement de récession économique et financier alimentant un appauvrissement de la population  7
+Un environnement social marqué par un déficit de protection des groupes vulnérables particulièrement des enfants en difficulté  9
+2. LE SECTEUR DE L'EDUCATION  11
+Une diversité de profils et d'appartenance  11
+Une offre éducative marquée par la prédominance du secteur non-public  12
+Une forte proportion d'écoles non accréditées  12
+Un système éducatif marqué par une réforme inachevée.  12
+Un sous-secteur de l'alphabétisation très préoccupant toujours en attente d'intégration au système éducatif  15
+CHAPITRE DEUXIÈME : ANALYSE DIAGNOSTIQUE DU SYSTEME ÉDUCATIF  17
+1. L'EDUCATION FORMELLE  18
+1.1. La couverture et l'offre  18
+Une couverture encore insuffisante, incomplète et inégalement étendue  18
+Un accès handicapé par des contraintes majeures  19
+1.2. L'efficacité interne et la pertinence  22
+Des rendements internes performés dans un environnement relativement lacunaire  22
+Des contenus d'enseignement lacunaires  23
+Des conditions d'apprentissage inappropriées  26
+Des conditions d'enseignement difficiles et inadéquates  31
+Un système d'évaluation des acquis des apprentissages très déficitaire  38
+Le VIH/Sida, une maladie encore préoccupante mais sous contrôle  39
+1.3. L'efficacité externe  41
+Une faible congruence des curricula avec les finalités de l'éducation et les réalités socio-économiques nationales  41
+Un faible impact de l'éducation sur le plan de l'insertion sur le marché de l'emploi  42
+2. L'EDUCATION NON FORMELLE  45
+Une approche limitative de la part des pouvoirs publics  45
+Des actions d'alphabétisation qui n'ont pas produit les résultats escomptés  45
+Un taux d'analphabétisme élevé chez les 31-55 ans  45
+Une dispersion des programmes et des efforts en matière d'éducation non formelle  47
+Une absence de programmes d'éducation de base non formelle pour certaines catégories d'enfants en situation difficile  47
+3. LA GOUVERNANCE DU SECTEUR  48
+Une inadéquation entre le cadre institutionnel en vigueur et les lois régissant le secteur  49
+Un déficit des outils et instruments de pilotage  49
+Une faible intégration des missions et attributions de certaines entités par les responsables  50
+Un dispositif d'information relativement lacunaire  50
+Un dispositif de communication relativement faible et désarticulé  51
+Un dispositif rudimentaire de planification et de suivi-évaluation  51
+Une insuffisance quantitative et qualitative des personnels  52
+Une faible capacité d'intervention liée à l'insuffisance des moyens logistiques et à la faiblesse des systèmes de gestion  52
+Un système de gestion marqué par une faible implication des partenaires  53
+4. LE FINANCEMENT DE L'ÉDUCATION  54
+CHAPITRE TROISIEME : LES CHOIX STRATEGIQUES NATIONAUX  58
+
 Stratégie Nationale d'Action / EPT
 
 Juin  07
@@ -34,6 +88,57 @@ ii
 
 [[START OF PAGE 4]]
 
+1. RAPPEL DES OBJECTIFS DE L'EPT ET DES STRATEGIES POUR Y PARVENIR  59
+2. LES CHOIX STRATEGIQUES NATIONAUX  62
+2.1 Premier Choix stratégique : Promouvoir une plus grande équité dans le développement et la protection de la petite enfance  62
+Objectif stratégique 1 : Accroître et améliorer l'offre d'éducation préscolaire pour les enfants de 0 à 5 ans  62
+Action 1: Accroissement des capacités d'accueil des structures d'encadrement de la petite enfance  62
+Action 2: Amélioration de la pertinence des programmes et des conditions d'encadrement de l'éducation de la petite enfance  63
+Objectif stratégique 2 : Améliorer l'état de Santé / Nutrition pour les enfants de 0-5 ans  64
+Action 1: Amélioration de l'état sanitaire de la petite enfance  64
+Action 2: Amélioration de l'état nutritionnel de la petite enfance  64
+Objectif stratégique 3 : Renforcer la protection juridique et sociale de la petite enfance  65
+Action 1: Renforcement de la protection légale et juridique de la petite enfance  65
+Action 2: Amélioration de la capacité d'intervention des structures de protection sociale et d'assistance à la petite enfance  66
+Présentation synoptique du premier choix stratégique  67
+2.2 Deuxième Choix stratégique : Promouvoir une plus grande équité dans l'accès à l'éducation formelle et non-formelle  68
+Objectif stratégique 1 : Accroître la couverture de l'éducation de base formelle et non formelle  68
+Action 1 : Augmentation/amélioration de l'offre publique d'éducation dans les zones rurales  68
+Action 2 : Amélioration de la qualité des infrastructures d'accueil  70
+Action 3 : Optimisation de l'utilisation des infrastructures existantes  70
+Action 4 : Généralisation de l'alphabétisation de base  71
+Action 5 : Extension et diversification des programmes de post alphabétisation  72
+Action 6 : Prise en charge des exclus du système formel à travers un programme d'éducation de base non formel  72
+Objectif stratégique 2 : Eradiquer le phénomène des surâgés  73
+Action 1 : Gestion des élèves surâgés  73
+Action 2 : Amélioration des flux des élèves au niveau de l'enseignement fondamental  74
+Action 3 : Régulation de l'admission en première année du fondamental  75
+Objectif stratégique 3 : Soutenir les familles dans la scolarisation de leurs enfants au niveau du fondamental  76
+Action 1 : Réduction des coûts de scolarisation pour les familles en difficulté  76
+Action 2 : Elimination des frais scolaires des élèves du secteur public  79
+Action 3 : Réduction des coûts de scolarisation pour toutes les familles  80
+Objectif stratégique 4 : Développer les niveaux d'enseignement subséquents à l'éducation de base  80
+Action 1 : Achèvement du processus de mise en place de l'enseignement fondamental  80
+Action 2 : Amélioration de l'offre publique d'enseignement secondaire  81
+Action 3 : Amélioration de l'offre publique d'enseignement supérieur  81
+Présentation synoptique du deuxième choix stratégique  83
+2.3 Troisième Choix stratégique : Promouvoir une plus grande efficacité interne du système d'éducation de base  84
+Objectif stratégique 1 : Améliorer les qualifications des nouveaux enseignants  84
+Action 1 : Mise en place d'un dispositif de Formation Initiale Accélérée (FIA)  84
+Action 2 : Mise en place d'un dispositif d'encadrement des nouveaux maîtres  85
+Action 3 : Renforcement du dispositif existant de formation initiale des enseignants  86
+Action 4 : Régulation du dispositif de formation initiale existant  87
+Objectif stratégique 2 : Améliorer les qualifications des enseignants en poste  88
+Action 1 : Extension/Généralisation de la démarche de mise en réseau des écoles  88
+Action 2 : Transformation graduelle des réseaux d'école en EFACAP  89
+Action 3 : Livraison de la formation professionnelle aux enseignants  91
+Action 4: Livraison de la formation disciplinaire aux enseignants en poste  92
+Objectif stratégique 3 : Améliorer la pertinence des curricula  93
+Action 1: Refonte et actualisation des curricula  93
+Action 2: Meilleure prise en charge de l'évaluation des performances par cycle  94
+Action 3: Prise en charge de l'évaluation des apprentissages fondamentaux  95
+Objectif stratégique 4 : Appliquer, au niveau du fondamental, une démarche de bilinguisme équilibré facilitant le développement des compétences linguistiques des élèves en créole et en français.  95
+
 Stratégie Nationale d'Action / EPT
 
 Juin  07
@@ -43,6 +148,55 @@ iii
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Action 1 : Elaboration d'un plan cohérent d'aménagement linguistique  95
+Action 2 : Création d'une académie de la langue créole  96
+Action 3 : Formation de tous les enseignants du fondamental aux méthodologies d'enseignement des deux langues  96
+Action 4 : Expérimentation de programmes pilotes d'éducation bilingue dans le système scolaire haïtien  97
+Action 5 : Incitation à la production d'ouvrages répondant à la politique linguistique pour l'école haïtienne  97
+Objectif stratégique 5 : Améliorer la motivation des enseignants  97
+Action 1 : Amélioration des conditions générales de travail des enseignants  97
+Action 2: Définition et mise en application d'un plan de carrière pour la fonction enseignante  98
+Action 3: Mise en place de mécanismes de valorisation des enseignants  98
+Objectif stratégique 6 : Améliorer l'encadrement pédagogique  98
+Action 1: Rénovation de la structure d'encadrement des écoles et des enseignants  98
+Action 2: Définition d'un cadre national de supervision pédagogique  100
+Action 3: Réaménagement de la structure de coordination et de gestion de l'éducation et de la formation à l'échelle du district scolaire  100
+Objectif stratégique 7 : Améliorer l'état sanitaire et nutritionnel au niveau de l'enseignement fondamental  101
+Action 1: Accès équitable aux services de santé- nutrition  102
+Action 2 : Fourniture d'un service de qualité au bénéfice de tous les enfants  103
+Action 3: Prise en charge effective de la gestion du sous-secteur par un renforcement institutionnel du PNCS  103
+Objectif stratégique 8: Sensibiliser et informer les jeunes des secteurs formel et non formel sur le VIH/SIDA  104
+Action 1: Campagne d'information et de sensibilisation de la population scolaire  105
+Présentation synoptique du troisième choix stratégique  106
+2.4 Quatrième Choix stratégique : Promouvoir une plus grande efficacité externe du système  107
+Objectif stratégique 1 : Adapter les curricula aux réalités socioéconomiques nationales  107
+Objectif stratégique 2:Répondre aux besoins de main-d'œuvre qualifiée des secteurs productifs de l'économie  108
+Action1: Détermination des besoins des différents segments du marché de l'emploi  108
+Action 2 : Développement d'une veille stratégique sur les opportunités des différents secteurs de l'économie  108
+Action 3 : Elaboration et développement de programmes de formation adaptés aux besoins  109
+Action 4 : Renforcement des capacités institutionnelles des structures de formation professionnelles  109
+Présentation synoptique du quatrième choix stratégique  110
+2.5 Cinquième Choix stratégique: Promouvoir un management efficace et performant  111
+Objectif stratégique 1 : Assurer le renforcement des structures centrales et déconcentrées du ministère  111
+Action 1: Actualisation du cadre légal et institutionnel du ministère  111
+Action 2: Recentrage des missions des DT, DDE et autres entités du secteur  112
+Action 3 : Renforcement de la compétence des personnels  112
+Action 4 : Amélioration de la capacité d'intervention des entités du ministère  113
+Action 5 : Renforcement du système de planification et de suivi-évaluation  113
+Action 6 : Amélioration du système d'information et de communication  114
+Objectif stratégique 2 : Renforcer le système de régulation du secteur non-public  114
+Action 1 : Amélioration du système d'accréditation des écoles  114
+Action 2 : Amélioration du contrôle et de l'encadrement des écoles non-publiques  115
+Objectif stratégique 3 : Assurer une plus grande implication des partenaires et acteurs dans les décisions éducatives et dans la gestion de l'école  116
+Action 1 : Renforcement de l'implication des principaux partenaires et acteurs dans les décisions éducatives  116
+Action 2 : Renforcement de la participation des acteurs éducatifs dans la gestion de l'école (gestion de proximité)  117
+Présentation synoptique du cinquième choix stratégique  119
+3. COUTS GLOBAUX DE LA STRATEGIE NATIONALE D'ACTION–EPT ET BESOINS DE FINANCEMENT  120
+BIBLIOGRAPHIE  123
+ANNEXES  127
+ANNEXE A: COUTS DE LA STRATEGIE NATIONALE D'ACTION - ÉDUCATION POUR TOUS SELON LES DIFFERENTS SOUS-SECTEURS  128
+ANNEXE B: TABLEAUX STATISTIQUES  150
 
 Stratégie Nationale d'Action / EPT
 
@@ -211,6 +365,48 @@ Juin  07 vii
 
 Pages
 
+Tableau 1 : Part du public et du non public, dans le réseau scolaire (en %)  12
+Tableau 2 : Répartition des surâgés dans les effectifs du préscolaire, du fondamental et du secondaire  21
+Tableau 3 : Taux de rendement en fin d'année scolaire des élèves aux deux premiers cycles du fondamental (Année 2003)  22
+Tableau 4 : Evolution des dotations budgétaires globales nationales en gourdes courantes pour le secteur de l'éducation de 2001-2002 à 2005-2006  55
+Tableau 5 : Répartition du budget du ministère de l'éducation, y compris l'UEH, de 2001-2002 à 2005-2006  55
+Tableau 6 : Etat des engagements et des décaissements des bailleurs entre juillet 2004 et décembre 2005  56
+Tableau 7 : Engagements des bailleurs au titre de l'année scolaire 2005-2006 (en US$) par composante  57
+Tableau 8 : Coûts globaux de la Stratégie Nationale – EPT ('000 USD)  121
+Tableau 9 : Ressources domestiques anticipées et besoins de financement extérieur  121
+Tableau A1 : Projection des indicateurs macro-économiques et financiers sélectionnés  137
+Tableau A2 : Priorité pour l'éducation et besoins de financements extérieurs  137
+Tableau A3 : Dépenses de fonctionnement dans l'enseignement Préscolaire  138
+Tableau A4 : Dépenses d'investissement dans l'enseignement Préscolaire public  139
+Tableau A5.1 : Coût du programme accéléré pour la prise en charge des enfants sur âgés  140
+Tableau A5.2 : Dépenses courantes dans l'enseignement de base (1er et 2e cycles du Fondamental)  141
+Tableau A6 : Dépenses d'investissement dans l'enseignement de base (1er et 2e cycles du Fondamental)  143
+Tableau A7 : Dépenses courantes du programme d'Alphabétisation et d'Éducation non formelle  143
+Tableau A8 : Les dépenses courantes de l'enseignement technique et professionnel  144
+Tableau A9 : Les dépenses courantes de la formation initiale des enseignants et de la formation continue des agents éducatifs du fondamental (cycle I et II)  144
+Tableau A10 : Les dépenses courantes du programme de santé nutrition (préscolaire, fondamental I, II et III)  145
+Tableau A11 : Les dépenses courantes dans le 3ème cycle du Fondamental et l'enseignement secondaire  145
+Tableau A12 : Les dépenses d'investissement dans le 3ème cycle du Fondamental et l'enseignement secondaire  148
+Tableau A13 : Les dépenses courantes de l'enseignement supérieur  149
+Tableau A13 : Les dépenses d'investissement de l'enseignement supérieur  149
+Tableau B1 : Répartition des écoles, classes et élèves au niveau du fondamental 1er et 2ème cycle selon le type  151
+Tableau B2 : Répartition des écoles, classes et élèves au niveau du 3ème cycle du fondamental et du Secondaire selon le type  152
+Tableau B3 : Répartition des effectifs dans les écoles fondamentales (1er et 2ème cycles), par secteur et par sexe, selon l'Année d'études  153
+Tableau B4 : Répartition des effectifs du 3ème Cycle du fondamental et de l'enseignement secondaire, par secteur et sexe, selon le milieu et l'année d'études  154
+Tableau B5 : Répartition des sur âgés de l'éducation préscolaire par sexe/An. Scol. : 2002-2003  155
+Tableau B6 : Répartition des sur âgés par année d'études et par sexe selon le secteur et le milieu / Niveau Fondamental 1er et 2ème cycles- Année 2002-2003  155
+Tableau B7 : Répartition des sur âgés par année d'études et par sexe selon le secteur et le milieu / 3e cycle Fondamental et Secondaire- Année 2002-2003  156
+Tableau B8 : Répartition des redoublants en pourcentage par rapport aux effectifs par année d'études et le sexe selon le secteur / Niveau Fondamental 1er et 2ème cycles (Année 2002-2003)  157
+Tableau B9 : Répartition des redoublants en pourcentage par rapport aux effectifs d'élèves du 3ème cycle fondamental et du secondaire par secteur et par sexe et selon l'année d'études (Année 2002-2003)  158
+Tableau B10 : Taux de réussite aux examens nationaux (6ème Année fondamentale et 9ème Année fondamentale) /Années 2003 à 2005  159
+Tableau B11 : Taux de réussite aux examens nationaux (Rhéto + Philo)/ Années 2002 à 2005  159
+Tableau B12 : Ratio élèves/classe par département aux niveaux préscolaire, fondamental et Secondaire  160
+Tableau B13 : Evolution du ratio élèves/maîtres aux deux premiers cycles de l'enseignement fondamental (entre 1993-94 et 2002-03)  160
+Tableau B14-A : Répartition des écoles logées dans des églises par département  161
+Tableau B14-B : Répartition des écoles logées sous des tonnelles par département  161
+Tableau B14-C : Répartition des écoles à cloisons en matériaux sommaires par département  161
+Tableau B14-D : Répartition des écoles à toits en paille ou sans toit par département  161
+
 Stratégie Nationale d'Action / EPT
 
 Juin  07 viii
@@ -218,6 +414,22 @@ Juin  07 viii
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+Tableau B15 : Répartition des enseignants du préscolaire par département selon leur formation  162
+Tableau B16 : Répartition des enseignants du fondamental (1er et 2ème cycles) par département selon leur formation  162
+Tableau B 17 : Répartition de la population analphabète par département géographique et par sexe  163
+
+## LISTE DES DIAGRAMME ET FIGURES
+
+Diagramme 1 : Schéma d'organisation du système éducatif haïtien  13
+Figure 1 : Répartition de la population par département  5
+Figure 2 : Répartition de la population par âge  5
+Figure 3 : L'activité par tranche d'âge quinquennale à l'échelle nationale et selon les milieux de résidence (1999-2000)  42
+Figure 4 : L'activité des jeunes à l'échelle nationale entre 1986-1987 et 1999-2000  43
+Figure 5 : Profil des taux de chômage par âge et selon le milieu de résidence  44
+Figure 6 : Répartition des analphabètes selon le sexe  46
+Figure 7 : Répartition des analphabètes selon le milieu de résidence  46
+Figure 8 : Évolution comparée des ressources nationales anticipées, des financements des familles et des dépenses pour tout le système éducatif, 2006-2015  122
 
 Stratégie Nationale d'Action / EPT
 
@@ -273,11 +485,11 @@ Juin  07 xi
 
 4. Le Forum de Dakar a par ailleurs mis en exergue certains éléments dont il convient de tenir compte dans l'élaboration de documents d'action :
 
-- la progression de la pauvreté est fortement corrélée avec la faiblesse des taux de scolarisation et de rétention, ainsi que la médiocrité des résultats scolaires ;
+a. la progression de la pauvreté est fortement corrélée avec la faiblesse des taux de scolarisation et de rétention, ainsi que la médiocrité des résultats scolaires ;
 
-- l'implication  des  partenaires  sociaux  (parents,  enseignants  notamment)  est  indispensable  pour l'atteinte des objectifs de l'EPT ;
+b. l'implication des partenaires sociaux (parents, enseignants notamment) est indispensable pour l'atteinte des objectifs de l'EPT ;
 
-- les langues locales sont importantes pour la première alphabétisation ;
+c. les langues locales sont importantes pour la première alphabétisation ;
 
 > 1 Le Roi Henry Christophe (1806-1820) entreprit d'importantes actions dans le domaine de l'éducation dans son royaume localisé dans le nord d'Haïti. - Source : www.haiticulture.ch
 
@@ -289,9 +501,9 @@ Juin  07 1
 
 [[START OF PAGE 14]]
 
-- La protection et l'éducation de la petite enfance contribuent à la réussite scolaire ultérieure ;
+d. La protection et l'éducation de la petite enfance contribuent à la réussite scolaire ultérieure ;
 
-- L'éducation en vue de l'EPT doit être considérée de façon sectorielle et établir des liens forts entre éducation de base, santé, nutrition, assainissement et environnement naturel.
+e. L'éducation en vue de l'EPT doit être considérée de façon sectorielle et établir des liens forts entre éducation de base, santé, nutrition, assainissement et environnement naturel.
 
 5. La rencontre de Dakar confirme en outre le caractère intégrateur du concept d'éducation pour tous qui «doit englober non seulement l'enseignement scolaire formel mais aussi l'éducation de la petite enfance et  les  programmes  d'alphabétisation  et  d'acquisition  des  savoir-faire  utiles  dans  la  vie  courante.»  Elle rappelle néanmoins les menaces qui pèsent sur l'EPT dont : le risque de sacrifier la qualité au profit du développement  de  l'accès  à  l'éducation,  la  persistance  de  l'inégalité  des  filles  devant  l'éducation,  les disparités entre les régions et les catégories sociales dues aux inégalités de revenus, le manque de moyens adéquats, équitables et durables à la disposition de l'EPT, la menace du VIH/sida et son impact sur les stratégies  nationales  d'EPT,  l'insuffisance  des  capacités  institutionnelles  et  la  faiblesse  des  processus politiques, la mondialisation avec ses possibilités et ses risques, l'augmentation des tensions conflits et guerres. C'est donc sur la base du bilan des dix premières années d'expérience d'éducation pour tous et en tenant compte des facteurs qui seraient défavorables à sa réalisation que le Cadre d'action de Dakar adopté par les participants au Forum, précise les six objectifs essentiels de l'EPT et identifie les stratégies à engager en vue de les atteindre.
 
@@ -313,21 +525,21 @@ Juin  07 2
 
 7.  C'est sur la base des recommandations du Cadre d'action de Dakar, des orientations définies par le PNEF ainsi que des leçons tirées de la mise en œuvre de ce Plan, mais aussi des propositions faites dans le cadre de la Stratégie Intérimaire de Réduction de la Pauvreté 5 , que le Gouvernement haïtien a élaboré cette  Stratégie  nationale  d'Action  pour  l'Education  pour  tous.  Elle  s'articule  autour  de  trois  chapitres principaux :
 
-- La présentation du contexte général d'Haïti et du secteur de l'éducation ;
+a) La présentation du contexte général d'Haïti et du secteur de l'éducation ;
 
-- L'analyse  diagnostique  du  système  éducatif  sous  les  aspects  suivants :  accès  et  couverture, efficacité interne et pertinence, efficacité externe, gouvernance et financement de l'éducation ;
+b) L'analyse diagnostique du système éducatif sous les aspects suivants : accès et couverture, efficacité interne et pertinence, efficacité externe, gouvernance et financement de l'éducation ;
 
-- La présentation des choix stratégiques fondamentaux ainsi que les objectifs y afférents. Il s'agit :
+c) La présentation des choix stratégiques fondamentaux ainsi que les objectifs y afférents. Il s'agit :
 
-- de la promotion d'une plus grande équité dans le développement et la protection de la petite enfance
+i. de la promotion d'une plus grande équité dans le développement et la protection de la petite enfance
 
-- du développement d'une politique d'équité dans l'accès à l'éducation de base formelle et non formelle ;
+ii. du développement d'une politique d'équité dans l'accès à l'éducation de base formelle et non formelle ;
 
-- de  la  promotion  d'une  politique  d'amélioration  de  l'efficacité  interne  et  de  la  pertinence  du système d'éducation de base ;
+iii. de la promotion d'une politique d'amélioration de l'efficacité interne et de la pertinence du système d'éducation de base ;
 
-- de la promotion d'une plus grande efficacité externe du système éducatif ;
+iv. de la promotion d'une plus grande efficacité externe du système éducatif ;
 
-- de la promotion d'un management plus efficace et plus performant du secteur éducatif.
+v. de la promotion d'un management plus efficace et plus performant du secteur éducatif.
 
 > 5 MPCE (2005). Document de Stratégie Intérimaire de Réduction de la Pauvreté
 
@@ -341,9 +553,9 @@ Juin  07 3
 
 ## CHAPITRE PREMIER : PRÉSENTATION DU CONTEXTE GENERAL D'HAITI ET DU SECTEUR DE L'ÉDUCATION
 
-4
+Stratégie Nationale d'Action / EPT
 
-Stratégie Nationale d'Action / EPT Juin  07
+Juin  07 4
 
 [[END OF PAGE 16]]
 
@@ -359,49 +571,30 @@ Stratégie Nationale d'Action / EPT Juin  07
 
 9.  La  population  est  estimée,  selon  le  4 ème Recensement  Général  de  la  Population  et  de  l'Habitat  de 2003 6 , à environ 8,373,750 d'habitants dont 51.8 % de femmes. Les trois derniers recensements, ceux de 1950, 1971 et 1982, ont respectivement enregistré une population de 3 097 220, 4 329 991 et 5 053 191 habitants. Le taux d'accroissement annuel moyen est de 2.2 %.  La densité moyenne est de 301 h/km² et peut atteindre 375 h/km² dans la zone métropolitaine de Port au Prince. La population est inégalement répartie  sur  l'ensemble  du  territoire.  Plus  du  tiers  de  la  population  (37  %)  habitent  le  Département  de l'Ouest  où  se  trouve  la  capitale.  L'Artibonite    (16%)  et  le  Nord  (10%)  représentent  après  l'Ouest  les départements les plus peuplés. Le poids de chacun des autres départements se situe entre 4 % et 7 % de l'ensemble (voir figure 1)
 
-Figure …  Répartition de la population par
-
-départements
+Figure 1 : Répartition de la population par départements
 
 Ouest
-
 Sud Est
-
-Nord
-
 Nord Est
-
+Nord
 Artibonite
-
 Centre
-
 Sud
-
 Grande Anse
-
 Nord Ouest
 
-> 6 Ministère de l'Économie et des Finances - Institut Haïtien de Statistique et d'Informatique (IHSI). Recensement général de la population et de l'Habitat 2006. Résultats définitifs.
-
-Figure … Répartition de la population
-
-par âges
+Figure 2 : Répartition de la population par âges
 
 0 - 4
-
 5 à 9
-
-1 0 à 1 4
-
-1 5 - 1 9
-
+10 à 14
+15 - 19
 20 - 24
-
 25 - 29
-
 30 - 59
-
 61 et +
+
+> 6 Ministère de l'Économie et des Finances - Institut Haïtien de Statistique et d'Informatique (IHSI). Recensement général de la population et de l'Habitat 2006. Résultats définitifs.
 
 Stratégie Nationale d'Action / EPT
 
@@ -437,9 +630,9 @@ Juin  07 6
 
 #### Un  environnement  de  récession  économique  et  financier  alimentant  un  appauvrissement  des populations .
 
-14.  Jusqu'à  la  fin  des  années  70,  Haïti  s'est  révélée  un  pays  à  économie  relativement  stable  dans l'environnement latino-américain caractérisé pourtant pendant de longues années par des déséquilibres importants sur le plan des finances publiques, de la balance commerciale et du niveau des prix (Montas, 1989 : 4) 7 . Cependant, après une décennie 70 prospère, l'économie haïtienne a vu sa situation s'aggraver considérablement  et  est  entrée  dans  une  ère  de  récession  et  de  contre-performances  généralisées  dès 1980-81 (Jacob, 200 : 4) 8 ; durant ce dernier exercice fiscal en effet, le PIB a décliné de 2,9% et en 198182  de  3,4%  (IHSI  rapporté  dans  BRH,  1999 9 ).  Dès  lors,  les  déséquilibres  macro-économiques  et financiers  (internes  et  externes)  se  sont  installés  et  poursuivis  durant  les  deux  décennies  qui  s'en  sont suivies. De la fin des années 70 à 2005, la croissance économique réelle a été de 0.34% l'an en moyenne tandis que la population a cru à un rythme annuel constant et non planifié d'environ 2% sur cette même période.
+14. Jusqu'à la fin des années 70, Haïti s'est révélée un pays à économie relativement stable dans l'environnement latino-américain caractérisé pourtant pendant de longues années par des déséquilibres importants sur le plan des finances publiques, de la balance commerciale et du niveau des prix (Montas, 1989 : 4) 7. Cependant, après une décennie 70 prospère, l'économie haïtienne a vu sa situation s'aggraver considérablement et est entrée dans une ère de récession et de contre-performances généralisées dès 1980-81 (Jacob, 2000 : 4) 8 ; durant ce dernier exercice fiscal en effet, le PIB a décliné de 2,9% et en 1981-82 de 3,4% (IHSI rapporté dans BRH, 1999 9). Dès lors, les déséquilibres macro-économiques et financiers (internes et externes) se sont installés et poursuivis durant les deux décennies qui s'en sont suivies. De la fin des années 70 à 2005, la croissance économique réelle a été de 0.34% l'an en moyenne tandis que la population a cru à un rythme annuel constant et non planifié d'environ 2% sur cette même période.
 
-15. L'année 1986 a été marquée par l'entrée en vigueur d'un accord de Facilité d'Ajustement Structurel d'une  durée  de  trois  ans  dont  l'une  des  conditionnalités  était  le  désengagement  de  l'État  de  certaines fonctions de production et de gestion directes. Mais les turbulences sociopolitiques avaient vite raison de ce programme dont l'application n'aura duré qu'une année. Les divers autres programmes successifs ont connu le même sort. Au début des années 2000, le pays s'est résolu à faire face au service de sa dette externe.  La  situation  financière  était  telle  que  le  financement  externe  net  est  devenu  négatif  depuis 1999 10 , et cette situation s'est aggravée avec les élections contestées de l'année 2000.
+15. L'année 1986 a été marquée par l'entrée en vigueur d'un accord de Facilité d'Ajustement Structurel d'une durée de trois ans dont l'une des conditionnalités était le désengagement de l'État de certaines fonctions de production et de gestion directes. Mais les turbulences sociopolitiques avaient vite raison de ce programme dont l'application n'aura duré qu'une année. Les divers autres programmes successifs ont connu le même sort. Au début des années 2000, le pays s'est résolu à faire face au service de sa dette
 
 > 7 MONTAS Rémy. (1989). Croissance, Stagnation et Déséquilibres : Une mise en perspective des programmes de stabilisation macro-économique en Haïti : 1982-1985. Port-au-Prince : Unité de Recherche du Centre de Techniques de Planification et d'Economie Appliquée (CTPEA).
 
@@ -455,7 +648,9 @@ Juin  07 7
 
 [[START OF PAGE 20]]
 
-16. En 2002-2003, le pays a exporté seulement 13% de son Produit Intérieur Brut (PNUD, 2005) pendant qu'il est de plus en plus dépendant des importations pour nourrir sa population. Le taux de couverture des importations  par  les  exportations  n'a  jamais  dépassé  30%  depuis  1994.  Le  déficit  commercial  est chronique  et  les  déséquilibres  de  la  balance  des  paiements  persistent  depuis  de  longues  années.  Le pouvoir d'achat international (mesuré par l'indice du pouvoir d'achat des exportations de biens) du pays diminue de plus en plus selon les statistiques de la CEPAL  (1997). Et, un processus de désindustrialisation s'accentue à la faveur de la situation sociopolitique agitée que connaît le pays (qui décourage tout effort d'investissement privé), des distorsions de concurrence dont est victime le secteur secondaire  suite  à  la  libéralisation  commerciale  mal  organisée,  mais  également  du  manque  de diversification  du  secteur  industriel  trop  axé  sur  l'assemblage,  et  de  la  trop  grande  dépendance  de  ce secteur  des  États-Unis  d'Amérique  (où  sont  destinés  90% 11 des  exportations  haïtiennes).  Le  secteur agricole (qui occupe le plus grand nombre d'actifs : 49,6% dans l'ensemble du pays et 93,3% dans le milieu rural) 12 , quant à lui, est mis à mal par le démantèlement des lignes tarifaires et la détérioration des termes  de  l'échange,  mais  aussi  par  le  manque  d'investissements  productifs  dans  le  secteur  depuis plusieurs décennies.
+externe. La situation financière était telle que le financement externe net est devenu négatif depuis 1999 10, et cette situation s'est aggravée avec les élections contestées de l'année 2000.
+
+16. En 2002-2003, le pays a exporté seulement 13% de son Produit Intérieur Brut (PNUD, 2005) pendant qu'il est de plus en plus dépendant des importations pour nourrir sa population. Le taux de couverture des importations par les exportations n'a jamais dépassé 30% depuis 1994. Le déficit commercial est chronique et les déséquilibres de la balance des paiements persistent depuis de longues années. Le pouvoir d'achat international (mesuré par l'indice du pouvoir d'achat des exportations de biens) du pays diminue de plus en plus selon les statistiques de la CEPAL (1997). Et, un processus de désindustrialisation s'accentue à la faveur de la situation sociopolitique agitée que connaît le pays (qui décourage tout effort d'investissement privé), des distorsions de concurrence dont est victime le secteur secondaire suite à la libéralisation commerciale mal organisée, mais également du manque de diversification du secteur industriel trop axé sur l'assemblage, et de la trop grande dépendance de ce secteur des États-Unis d'Amérique (où sont destinés 90% 11 des exportations haïtiennes). Le secteur agricole (qui occupe le plus grand nombre d'actifs : 49,6% dans l'ensemble du pays et 93,3% dans le milieu rural) 12, quant à lui, est mis à mal par le démantèlement des lignes tarifaires et la détérioration des termes de l'échange, mais aussi par le manque d'investissements productifs dans le secteur depuis plusieurs décennies.
 
 17.  Les  effets  cumulés  de  toutes  de  ces  crises  macro-économiques  ont  incontestablement  favorisé l'ampleur de la pauvreté en érodant, par l'inflation notamment, le pouvoir d'achat des ménages. Le taux de croissance du revenu par tête, témoin majeur de l'ampleur de la pauvreté au sein des familles, ne s'est pas orienté durablement dans le bon sens. En effet, Haïti présente une grande disparité en terme de PIB per capita (calculé en Parité de Pouvoir d'Achat / PPA) par rapport à ses voisins de la région et d'autres pays en voie de développement. Aujourd'hui seul PMA dans le continent américain, Haïti est considérée comme le pays le plus pauvre de la Caraïbe. Les résultats de l'ECVM, repris dans la Carte de pauvreté en Haïti, version 2004, que 55 % des ménages vivent dans l'extrême pauvreté, avec moins de 1 US$ par jour et 76 % en dessous du seuil de pauvreté avec moins de 2 US$ par jour et par personne (PPA).
 
@@ -477,7 +672,7 @@ Juin  07 8
 
 19. Il faut  également souligner que les indicateurs sociaux indiquent que le pays fait face à un accès très précaire en services sociaux de base tel que l'éducation, la santé, l'eau courante et l'assainissement. Par exemple, au niveau de l'éducation, L'Enquête 2001 sur les Conditions de Vie en Haïti (ECVH-2001), révèle que (i) pour 21.2 %  des enquêtés, le coût trop élevé de la scolarisation a constitué la principale contrainte à l'accès au savoir dispensé par l'école, (ii) pour 38.6 % des enquêtés,  l'impossibilité de payer les frais de scolarisation a été le motif majeur de l'arrêt de la scolarité.
 
-20. L'analyse spatiale de la pauvreté permet de mettre en relief une répartition très nettement inégale en fonction du milieu de résidence. En effet L'Enquête 2001 sur les Conditions de Vie en Haïti (ECVH2001)  a  démontré  que  la  pauvreté  est  d'abord  et  avant  tout  un  phénomène  rural  avec  82  %  de  la population  rurale  vivant  en  dessous  de  la  ligne  de  pauvreté  de  2  US$  par  jour.  Conséquemment,  la contribution à la pauvreté extrême du milieu rural est excessivement élevée, soit 77 % et la profondeur de la pauvreté est de 0.33. Dans l'aire métropolitaine, ces deux dernières mesures se situent respectivement à 9 % et 0.09. Le ratio d'écart de revenus de 0,56 % en milieu rural comparativement à 0,45 dans l'aire métropolitaine indique «qu'il y a plus de pauvres en milieu rural, et il ont un revenu encore plus faible que les pauvres de la zone métropolitaine » 13
+20. L'analyse spatiale de la pauvreté permet de mettre en relief une répartition très nettement inégale en fonction du milieu de résidence. En effet L'Enquête 2001 sur les Conditions de Vie en Haïti (ECVH-2001) a démontré que la pauvreté est d'abord et avant tout un phénomène rural avec 82 % de la population rurale vivant en dessous de la ligne de pauvreté de 2 US$ par jour. Conséquemment, la contribution à la pauvreté extrême du milieu rural est excessivement élevée, soit 77 % et la profondeur de la pauvreté est de 0.33. Dans l'aire métropolitaine, ces deux dernières mesures se situent respectivement à 9 % et 0.09. Le ratio d'écart de revenus de 0,56 % en milieu rural comparativement à 0,45 dans l'aire métropolitaine indique «qu'il y a plus de pauvres en milieu rural, et il ont un revenu encore plus faible que les pauvres de la zone métropolitaine » 13
 
 21.  La  situation  des  autres  milieux  urbains,  c'est-à-dire  toutes  les  autres  villes  des  provinces,  se rapproche plus de celle du milieu rural que de celle de l'aire métropolitaine. Leur modeste population (1 118 758) comparée au poids du milieu rural (5 136 695) ou de l'aire métropolitaine (2 100 000) explique la faible contribution à la pauvreté extrême (14 %). A la fois un taux d'incidence de la pauvreté de l'ordre de 50 % et une profondeur de la pauvreté de 0,29 permettent de situer la pauvreté des provinces dans la continuité de celle du milieu rural.
 
@@ -503,7 +698,7 @@ Juin  07 9
 
 25. La validation récente d'un Plan national de Protection de l'enfance vulnérable ou en difficulté qui entend d'une part œuvrer à la « construction/consolidation d'un cadre institutionnel et légal de promotion et  de garantie des droits des enfants en situation difficile, et d'autre part, fixer le cadre d'intervention, les responsabilités,  les  orientations  stratégiques  et  le  contenu  d'un  paquet  minimum  de  services  pour  la protection et la prise en charge des enfants en situation difficile ou de vulnérabilité» est un signe évident d'espoir dans ce domaine.
 
-26.  La  situation  des  personnes  handicapées,  estimées  à  124  534 16 dont  51  %  de  femmes  et  49  % d'hommes  est  aussi  critique.  En  faveur  de  cette  catégorie  de  la  population  vulnérable  comportant également  des  enfants,  il  est  noté  une  quasi-inexistence  des  services  de  réadaptation  et  de  structures d'intégration. C'est en quelque sorte une frange importante de la population qui vit quasiment en marge de  la  société  avec  un  accès  très  réduit  aux  services  sociaux  de  base.  En  l'absence  d'une  législation haïtienne appropriée, en la matière, la Convention interaméricaine pour l'élimination de toutes les formes de discrimination contre les personnes handicapées, signée par Haïti, attend encore d'être ratifiée par le Parlement Haïtien et d'être appliquée à la réalité haïtienne.
+26. La situation des personnes handicapées, estimées à 124 534 16 dont 51 % de femmes et 49 % d'hommes est aussi critique. En faveur de cette catégorie de la population vulnérable comportant
 
 > 14 Ministère  des  Affaires  Sociales  et  du  Travail  (2007).  Plan  National  de  Protection  de  l'enfance  haïtienne vulnérable ou en difficulté.
 
@@ -518,6 +713,8 @@ Juin  07  10
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+également des enfants, il est noté une quasi-inexistence des services de réadaptation et de structures d'intégration. C'est en quelque sorte une frange importante de la population qui vit quasiment en marge de la société avec un accès très réduit aux services sociaux de base. En l'absence d'une législation haïtienne appropriée, en la matière, la Convention interaméricaine pour l'élimination de toutes les formes de discrimination contre les personnes handicapées, signée par Haïti, attend encore d'être ratifiée par le Parlement Haïtien et d'être appliquée à la réalité haïtienne.
 
 ### II . LE SECTEUR DE L'ÉDUCATION
 
@@ -545,13 +742,14 @@ Juin  07  11
 
 30.  Le  secteur  éducatif  est  marqué,  à  tous  les  niveaux  du  système,  par  un  important  déséquilibre numérique en faveur du secteur non public (cf Annexe B-Tableaux B1, B2). Au niveau du préscolaire, seulement 5.5% des centres sont publics et leur effectif ne représente que 4.67% du total des effectifs de ce niveau d'éducation. Au fondamental 1 er et  2 ème cycles, 92% des écoles fondamentales des 1 er et  2 ème cycles  sont  non  publiques  et  81%    environ  du  nombre  total  d'élèves  inscrits  (83%  en  milieu  rural  et 76,5%  en  milieu  urbain)  sont  dans  le  privé.  L'importance  du  secteur  non  public  de  l'éducation  (cf. tableau 1) est encore prouvée au niveau du 3 ème cycle du fondamental et du secondaire (91% des écoles sont non-publiques et 75% des élèves environ).
 
-Secteur Ecoles | public Elèves | Secteur Ecoles | non-public Elèves
+Tableau 1 : Part du public et du non public, dans le réseau scolaire (en %)
+
+ | Secteur public |  | Secteur non-public | 
+ | Ecoles | Elèves | Ecoles | Elèves
 --- | --- | --- | --- | ---
 Préscolaire | 5.5 | 4.67 | 94.5 | 95.33
-Fondamental 1 er et 2 e cycles | 8 | 18.54 | 92 | 81.46
-Fond. 3 e cycle et Secondaire | 9 | 25.36 | 91 | 74.64
-
-Tableau 1 : Part du public et du non public, dans le réseau scolaire (en %)
+Fondamental 1er et 2e cycles | 8 | 18.54 | 92 | 81.46
+Fond. 3e cycle et Secondaire | 9 | 25.36 | 91 | 74.64
 
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
@@ -573,113 +771,46 @@ Juin  07  12
 
 [[START OF PAGE 25]]
 
-- Les différents documents officiels qui définissent la politique éducative haïtienne, notamment la loi de 1901 sur l'instruction publique, le décret de décembre 1960 portant création de l'Université d'Etat et celui de mars 1978 portant création de l'enseignement primaire haïtien, le Plan National d'éducation et de  Formation  (PNEF,  1998)  et  le  projet  de  loi  d'orientation  de  l'éducation  (Juillet  1998),  assignent  à l'école les finalités suivantes : «favoriser l'épanouissement de la personne dans toutes ses dimensions… former des citoyens responsables, agents de développement économique, social et culturel du pays, … promouvoir  l'identité  et  la  culture  nationales  et  s'ouvrir  aux  valeurs  universelles,  régionales  ou caribéennes…. Elle est centrée sur l'être humain, l'apprenant, et doit répondre au triple impératif de la consolidation  des  institutions  démocratiques,  de  la  modernisation  de  l'économie  nationale  et  du relèvement du standard de vie de la population.»
+33. Les différents documents officiels qui définissent la politique éducative haïtienne, notamment la loi de 1901 sur l'instruction publique, le décret de décembre 1960 portant création de l'Université d'Etat et celui de mars 1978 portant création de l'enseignement primaire haïtien, le Plan National d'éducation et de Formation (PNEF, 1998) et le projet de loi d'orientation de l'éducation (Juillet 1998), assignent à l'école les finalités suivantes : «favoriser l'épanouissement de la personne dans toutes ses dimensions… former des citoyens responsables, agents de développement économique, social et culturel du pays, … promouvoir l'identité et la culture nationales et s'ouvrir aux valeurs universelles, régionales ou caribéennes…. Elle est centrée sur l'être humain, l'apprenant, et doit répondre au triple impératif de la consolidation des institutions démocratiques, de la modernisation de l'économie nationale et du relèvement du standard de vie de la population.»
 
-- La mise en œuvre de ces finalités s'est faite à travers maintes réformes et innovations dont la plus importante  est  celle  initiée  par  le  Ministre  Bernard  et  consacrée  par  le  décret  du  30  mars  1982  et poursuivie à travers le PNEF (1997).  Selon cette réforme et les documents de politique qui ont suivi, le système éducatif  formel  comporte, comme l'indique le schéma d'organisation présenté  ci-dessous  (cf. Diagramme  1)  :  (i)  l'éducation  préscolaire,  (ii)  l'enseignement  fondamental,  (iii)  l'enseignement secondaire (iv) l'enseignement technique et professionnel (v) l'enseignement supérieur. Le système non formel comprend quant à lui l'alphabétisation et l'éducation non formelle.
+34. La mise en œuvre de ces finalités s'est faite à travers maintes réformes et innovations dont la plus importante est celle initiée par le Ministre Bernard et consacrée par le décret du 30 mars 1982 et poursuivie à travers le PNEF (1997). Selon cette réforme et les documents de politique qui ont suivi, le système éducatif formel comporte, comme l'indique le schéma d'organisation présenté ci-dessous (cf. Diagramme 1) : (i) l'éducation préscolaire, (ii) l'enseignement fondamental, (iii) l'enseignement secondaire (iv) l'enseignement technique et professionnel (v) l'enseignement supérieur. Le système non formel comprend quant à lui l'alphabétisation et l'éducation non formelle.
 
-Diagramme 1.  Schéma d'organisation du système éducatif haïtien
-
-18 ans
-
-17 ans
-
-16 ans
-
-15 ans
-
-14 ans
-
-3ème cycle
-
-13 ans
-
-12 ans
-
-11 ans
-
-2ème cycle
-
-10 ans
-
-9ans
-
-1er cycle
-
-8 ans
-
-7 ans
-
-6 ans
-
-5 ans
-
-section
-
-4 ans
-
-3 ans
-
-EDUCATION PRESCOLAIRE
-
-ENSEIGNEMENT FONDAMENTAL
-
-Terminale
-
-1ère
-
-2ème
-
-3ème
-
-7ème AF
-
-ENSEIGNEMENT SECONDAIRE
-
-ENSEIGNEMENT SUPERIEUR
-
-Petit
-
-Moyen
-
-3ème AF
-
-1ère AF
-
-2ème AF
-
-6ème AF
-
-5ème AF
-
-4ème AF
-
-UNIVERSITE
-
-Grand
-
-9ème AF
-
-8ème AF
-
-Ecole Normale
-
-d'Instituteurs
-
-Enseignement
-
-Professionnel et Technique
-
-Education non
-
-formelle
+Diagramme 1. Schéma d'organisation du système éducatif haïtien
 
 Marché du travail
 
+Ecole Normale d'Instituteurs
+
+UNIVERSITE
+ENSEIGNEMENT SUPERIEUR
+
+Enseignement Professionnel et Technique
 Niveau 3
-
 Niveau 2
-
 Niveau 1
+
+ENSEIGNEMENT SECONDAIRE
+Terminale | 18 ans
+1ère | 17 ans
+2ème | 16 ans
+3ème | 15 ans
+
+ENSEIGNEMENT FONDAMENTAL
+Education non formelle
+3ème cycle | 9ème AF | 14 ans
+ | 8ème AF | 13 ans
+ | 7ème AF | 12 ans
+2ème cycle | 6ème AF | 11 ans
+ | 5ème AF | 10 ans
+1er cycle | 4ème AF | 9ans
+ | 3ème AF | 8 ans
+ | 2ème AF | 7 ans
+ | 1ère AF | 6 ans
+
+EDUCATION PRESCOLAIRE
+section | Grand | 5 ans
+ | Moyen | 4 ans
+ | Petit | 3 ans
 
 Stratégie Nationale d'Action / EPT
 
@@ -697,7 +828,7 @@ Juin  07  13
 
 38.  La  formation  professionnelle  est  dispensée  dans des  centres  regroupés  en  trois  catégories  :  (i)  les établissements  d'éducation  technique  (EET)  qui  offrent  en  au  moins  neuf  (9)  années  accomplies  une formation à la fois pratique et théorique ; (ii) les établissements d'Education Professionnelle (EEP) qui nécessitent,  à  l'entrée,  au  moins  sept  ans  d'études  fondamentale  et  qui  dispensent  principalement  une formation  pratique ;  (iii)  les  Centres  Ménagers  (CM)  ou  Centres  de  Formation  Professionnelle  (CFP), requièrent  un  niveau  d'alphabétisation  de  base  et  offrent  plutôt  une  formation  de  niveau  technique moyen.  Les  établissements  publics  de  formation  professionnelle  sont,  soit  placés  sous  la  tutelle  du Ministère  de  l'éducation  soit  sous  celle  d'autres  Ministères.  Un  projet  est  actuellement  en  cours  avec l'appui financier de la Banque Interaméricaine de Développement et de l'Union Européenne visant entre autres l'amélioration de la régulation, la normalisation et la rationalisation de l'organisation du secteur de formation professionnelle.
 
-39. L'enseignement supérieur comprend l'enseignement universitaire et l'enseignement non universitaire. L'enseignement universitaire, de portée générale, est dispensé dans une université ou autre établissement assimilé reconnu par l'Etat. Pour le moment, les enseignements vont de la 3 ème jusqu'à la 6 ème année après le Bac II et sont sanctionnées par la délivrance de la licence (en 3 ou 4 ans selon les cas après  le  Bac  II).    Des  efforts  sont  développés  par  l'Université  d'Etat  d'Haïti  (UEH)  et  d'autres Universités  pour  l'organisation  de  l'encadrement  des  étudiants  afin  de  les  préparer  à  l'obtention  de  la maîtrise puis du Ph.D/ Doctorat. L'enseignement supérieur non universitaire est d'orientation essentiellement pratique et a pour but de développer la capacité de l'étudiant à se placer sur le marché du travail.    L'accès  à  l'enseignement  supérieur  universitaire  et  non  universitaire  est  subordonné  à  la possession du Bac II ou équivalent. Selon l'établissement sollicité, l'élève peut en plus être amené à subir un test ou un concours.
+39. L'enseignement supérieur comprend l'enseignement universitaire et l'enseignement non universitaire. L'enseignement universitaire, de portée générale, est dispensé dans une université ou autre établissement assimilé reconnu par l'Etat. Pour le moment, les enseignements vont de la 3 ème jusqu'à la 6 ème année après le Bac II et sont sanctionnées par la délivrance de la licence (en 3 ou 4 ans selon les cas après le Bac II). Des efforts sont développés par l'Université d'Etat d'Haïti (UEH) et d'autres Universités pour l'organisation de l'encadrement des étudiants afin de les préparer à l'obtention de la
 
 > 19 MENJS (juillet 1998). Projet de loi d'orientation de l'éducation .
 
@@ -709,7 +840,9 @@ Juin  07  14
 
 [[START OF PAGE 27]]
 
-40. L'alphabétisation comporte, pour ce qui concerne le système non formel, le niveau d'alphabétisation de  base  et  la  post-alphabétisation.  L'alphabétisation  de  base  vise  à  donner  aux  apprenants  des compétences en lecture, écriture et calcul. La post-alpha centre les actions d'apprentissage sur un métier exercé  par  les  apprenants.  Les  campagnes  d'alphabétisation  sont  menées  tant  par  l'entité  publique  en charge du sous-secteur, savoir présentement la Secrétairerie d'Etat à l'Alphabétisation (SEA) que par des opérateurs non publics ou privés (ONG). Les formations sont  dispensées généralement en créole par des moniteurs, souvent bénévoles, dans des locaux de fortune divers, savoir écoles, églises, etc., soit de façon présentielle, soit à travers la radio.
+maîtrise puis du Ph.D/ Doctorat. L'enseignement supérieur non universitaire est d'orientation essentiellement pratique et a pour but de développer la capacité de l'étudiant à se placer sur le marché du travail. L'accès à l'enseignement supérieur universitaire et non universitaire est subordonné à la possession du Bac II ou équivalent. Selon l'établissement sollicité, l'élève peut en plus être amené à subir un test ou un concours.
+
+40. L'alphabétisation comporte, pour ce qui concerne le système non formel, le niveau d'alphabétisation de base et la post-alphabétisation. L'alphabétisation de base vise à donner aux apprenants des compétences en lecture, écriture et calcul. La post-alpha centre les actions d'apprentissage sur un métier exercé par les apprenants. Les campagnes d'alphabétisation sont menées tant par l'entité publique en charge du sous-secteur, savoir présentement la Secrétairerie d'Etat à l'Alphabétisation (SEA) que par des opérateurs non publics ou privés (ONG). Les formations sont dispensées généralement en créole par des moniteurs, souvent bénévoles, dans des locaux de fortune divers, savoir écoles, églises, etc., soit de façon présentielle, soit à travers la radio.
 
 41.  L'éducation  non  formelle  fonctionne,  quant  à  elle,  sous  forme  de  cours  du  soir  s'adressant  aux enfants déscolarisés ou  non  scolarisés,  le  plus  souvent  en  difficulté  ou  socio  économiquement marginalisés,  paradoxalement  sur  la  base  des  programmes  du  système  formel.  Elle  est  gérée  par  une entité relevant de la Direction de l'Enseignement Fondamental du MENFP.
 
@@ -717,7 +850,7 @@ Juin  07  14
 
 #### Un sous-secteur de l'alphabétisation très préoccupant toujours en attente d'intégration au système éducatif
 
-43.  On  l'aura  remarqué,  le  schéma  d'organisation  du  système  éducatif  haïtien  ne  fait  pas  mention strictement  de  l'alphabétisation.  Pourtant  le  nombre  d'adultes  à  alphabétiser  est  nettement  supérieur  à celui des enfants à scolariser. Ce fait qui est révélateur de la ténuité, voire de l'inexistence, du lien entre le système formel et le système non formel a, à terme, donné lieu à une tendance, pour la structure en charge de ce sous-secteur, à évoluer dans un cadre de semi autonomie avec les risques d'une absence d'intégration de l'un à l'autre sous-secteur. Cela, sans doute parce que les textes organiques régissant et le Ministère en charge de l'éducation et la Secrétairerie d'Etat à l'Alphabétisation n'ont pas toujours été explicites quant à la définition des liens organiques entre les deux Institutions.
+43. On l'aura remarqué, le schéma d'organisation du système éducatif haïtien ne fait pas mention strictement de l'alphabétisation. Pourtant le nombre d'adultes à alphabétiser est nettement supérieur à celui des enfants à scolariser. Ce fait qui est révélateur de la ténuité, voire de l'inexistence, du lien entre
 
 Stratégie Nationale d'Action / EPT
 
@@ -726,6 +859,8 @@ Juin  07  15
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+le système formel et le système non formel a, à terme, donné lieu à une tendance, pour la structure en charge de ce sous-secteur, à évoluer dans un cadre de semi autonomie avec les risques d'une absence d'intégration de l'un à l'autre sous-secteur. Cela, sans doute parce que les textes organiques régissant et le Ministère en charge de l'éducation et la Secrétairerie d'Etat à l'Alphabétisation n'ont pas toujours été explicites quant à la définition des liens organiques entre les deux Institutions.
 
 Stratégie Nationale d'Action / EPT
 
@@ -749,9 +884,9 @@ Stratégie Nationale d'Action / EPT Juin  07  17
 
 ##### Une couverture encore insuffisante, incomplète et inégalement étendue
 
-44. Les efforts déployés dans le cadre de la mise en œuvre du PNEF à travers les projets financés tant sur les  ressources  budgétaires  nationales  (PIENASECO,  PSU)  que  par  les  partenaires  bi  et  multilatéraux n'ont pas permis, à date, à l'offre éducative d'atteindre tous les enfants haïtiens en âge scolaire, toutes catégories confondues. En effet, entre les deux seuls recensements scolaires que le pays a connus ces dix dernières années, à savoir ceux qui ont concerné les années scolaires 1996-1997 et 2002-2003, le nombre des établissements et les effectifs ont connu un accroissement se situant entre  23 % et 25 %, selon le niveau d'enseignement 20 . Malgré ces accroissements, les taux nets de scolarisation (TNS) restent encore inférieurs à 100 % à tous les niveaux du système éducatif. En 2002-2003, ils sont estimés à  56.37%  au préscolaire,  76  %  dans  l'enseignement  fondamental  1 er et  2 ème cycles,  22  %  dans  l'enseignement fondamental 3 ème cycle et secondaire 21 .  On estime de ce fait à près de 400,000 22 le nombre d'enfants (611  ans)  non  scolarisés  au  niveau  de  l'enseignement  fondamental.  Par  ailleurs,  si  l'accès  à  l'école haïtienne est ouvert de manière presque égalitaire aux garçons et aux filles (51% de garçons et 49% de filles sont recensés dans les effectifs du fondamental et du secondaire ; au niveau préscolaire, l'égalité est renforcée avec une légère inclinaison en faveur des filles, cf. Annexe B-Tableaux B3, B4, B5),  l'offre éducative à l'endroit des personnes handicapées est relativement déficitaire. On note une insuffisance des structures à même de leur permettre d'accéder à un système d'enseignement qui tienne compte de leur handicap. Le recensement général de la population de 2003 en dénombre 19 477 au sein de la population de 0 à 20 ans dont 8 546 pour les 6-14 ans.
+44. Les efforts déployés dans le cadre de la mise en œuvre du PNEF à travers les projets financés tant sur les ressources budgétaires nationales (PIENASECO, PSU) que par les partenaires bi et multilatéraux n'ont pas permis, à date, à l'offre éducative d'atteindre tous les enfants haïtiens en âge scolaire, toutes catégories confondues. En effet, entre les deux seuls recensements scolaires que le pays a connus ces dix dernières années, à savoir ceux qui ont concerné les années scolaires 1996-1997 et 2002-2003, le nombre des établissements et les effectifs ont connu un accroissement se situant entre 23 % et 25 %, selon le niveau d'enseignement 20 . Malgré ces accroissements, les taux nets de scolarisation (TNS) restent encore inférieurs à 100 % à tous les niveaux du système éducatif. En 2002-2003, ils sont estimés à 56.37% au préscolaire, 76 % dans l'enseignement fondamental 1 er et 2 ème cycles, 22 % dans l'enseignement fondamental 3 ème cycle et secondaire 21 . On estime de ce fait à près de 400,000 22 le nombre d'enfants (6-11 ans) non scolarisés au niveau de l'enseignement fondamental. Par ailleurs, si l'accès à l'école haïtienne est ouvert de manière presque égalitaire aux garçons et aux filles (51% de garçons et 49% de filles sont recensés dans les effectifs du fondamental et du secondaire ; au niveau préscolaire, l'égalité est renforcée avec une légère inclinaison en faveur des filles, cf. Annexe B-Tableaux B3, B4, B5), l'offre éducative à l'endroit des personnes handicapées est relativement déficitaire. On note une insuffisance des structures à même de leur permettre d'accéder à un système d'enseignement qui tienne compte de leur handicap. Le recensement général de la population de 2003 en dénombre 19 477 au sein de la population de 0 à 20 ans dont 8 546 pour les 6-14 ans.
 
-45.  À  ces  faiblesses,  vient  s'ajouter  une  inégale  répartition  géographique  de  l'offre  éducative.  La répartition  des  établissements  et  des  classes,  fait  apparaître,  à  tous  les  niveaux  du  système,  une prédominance du département de l'Ouest, suivi de l'Artibonite et du Nord (cf Annexe B-Tableaux B1, B2). Le poids de ces trois départements dans les infrastructures d'accueil (écoles et classes) se situe entre 65 % et 74 %  au préscolaire, 53 % et 65 % dans l'enseignement fondamental et 69 % et 72 % dans l'enseignement secondaire et plus de 90 % dans l'enseignement supérieur. Cela s'explique sans doute par le poids de ces départements sur le plan démographique, mais, le ratio élèves/classe qui est l'indicateur d'une distribution équitable de l'offre éducative laisse percevoir un certain déséquilibre dans la réponse à la  demande  d'éducation.  En  effet,  alors  que  dans  l'Ouest,  celui-ci  est  de  31  au  préscolaire  37  au fondamental, il est dans le Centre et le Sud Est respectivement de 79 et 78 et de 69 et 70 (cf Annexe BTableau B12). Et selon les résultats de l'enquête menée dans le cadre de l'établissement de la carte de pauvreté  d'Haïti,  le  Département  du  Centre  vient  en  tête  du  classement  en  fonction  du  niveau  de déficience  d'accès  à  l'éducation  de  base,  avec  un  taux  de  91.6  %,  avec  11  communes  sur  12  dont  le niveau  d'accès  à  l'éducation  de  base  se  situe  à  faible  (1  commune),  très  faible  (2  communes)  et extrêmement faible (8 communes). 23
+45. À ces faiblesses, vient s'ajouter une inégale répartition géographique de l'offre éducative. La répartition des établissements et des classes, fait apparaître, à tous les niveaux du système, une prédominance du département de l'Ouest, suivi de l'Artibonite et du Nord (cf Annexe B-Tableaux B1, B2). Le poids de ces trois départements dans les infrastructures d'accueil (écoles et classes) se situe entre 65 % et 74 % au préscolaire, 53 % et 65 % dans l'enseignement fondamental et 69 % et 72 % dans l'enseignement secondaire et plus de 90 % dans l'enseignement supérieur. Cela s'explique sans doute par le poids de ces départements sur le plan démographique, mais, le ratio élèves/classe qui est l'indicateur d'une distribution équitable de l'offre éducative laisse percevoir un certain déséquilibre dans la réponse à la demande d'éducation. En effet, alors que dans l'Ouest, celui-ci est de 31 au préscolaire 37 au
 
 > 20 Annuaires statistiques et répertoire des écoles des recensements scolaires 1996-1997 et 2002-2003
 
@@ -767,6 +902,8 @@ Juin  07  18
 
 [[START OF PAGE 31]]
 
+fondamental, il est dans le Centre et le Sud Est respectivement de 79 et 78 et de 69 et 70 (cf Annexe B-Tableau B12). Et selon les résultats de l'enquête menée dans le cadre de l'établissement de la carte de pauvreté d'Haïti, le Département du Centre vient en tête du classement en fonction du niveau de déficience d'accès à l'éducation de base, avec un taux de 91.6 %, avec 11 communes sur 12 dont le niveau d'accès à l'éducation de base se situe à faible (1 commune), très faible (2 communes) et extrêmement faible (8 communes). 23
+
 ##### Un accès handicapé par des contraintes majeures
 
 ###### Des coûts de scolarisation très élevés pour les familles
@@ -775,7 +912,7 @@ Juin  07  18
 
 47. Du fait de cette situation, scolariser un enfant représente une charge énorme pour les familles dont on sait que 55 % vivent dans l'extrême pauvreté, avec moins de 1 US$ par pour et par personne et 76 % dans la pauvreté avec moins de 2 US$ par jour et par personne. 26 Et pour 20 % de la population la plus pauvre, les frais de scolarité représentent, par enfant, environ 15 à 25 % des revenus annuels totaux ou 45 % à 60 % des revenus annuels d'une famille moyenne avec trois enfants en âge scolaire. 27
 
-48. Le coût moyen de scolarisation d'un élève variait de 1296 HTG en 1 ère année de l'enseignement fondamental à 1600 HTG en 6 ème année au cours de l'année scolaire 2000-2001 28 .  Pour sa part, le PARQE a montré que ces valeurs ont largement accru et demeurent très variables d'un département à l'autre et d'un type d'école à l'autre 29 . En effet, trois ans plus tard, en 2003-2004 30 , le coût de d'un élève a connu une augmentation non négligeable atteignant ainsi la valeur de 1441 HTG en 1 ère année et 2506 HTG en 2 ème année dans les départements du Nord, du Sud, de la Grande Anse,  du  Centre  et  de  l'Ouest.    Le  coût  d'un  élève  a  encore  connu  une  hausse  importante  au  cours  de  l'année académique 2004-2005 par rapport aux années précédentes, dans les départements considérés. Ils sont passés à 2173 HTG en 1 ère année à 2976 HTG en 6 ème année.  Par ailleurs, quel que soit le type d'établissement dans lequel l'enfant est scolarisé, les familles doivent s'acquitter de frais dont la nature et le montant varient selon l'établissement.
+48. Le coût moyen de scolarisation d'un élève variait de 1296 HTG en 1 ère année de l'enseignement fondamental à 1600 HTG en 6 ème année au cours de l'année scolaire 2000-2001 28 . Pour sa part, le PARQE a montré que ces valeurs ont largement accru et demeurent très variables d'un département à l'autre et d'un type d'école à l'autre 29 . En effet, trois ans plus tard, en 2003-2004 30 , le coût de d'un élève a connu une augmentation non négligeable atteignant ainsi la
 
 > 23 Ministère de la Planification et de la Coopération externe. Carte de Pauvreté d'Haïti version 2004 p. 39
 
@@ -801,13 +938,15 @@ Juin  07  19
 
 [[START OF PAGE 32]]
 
+valeur de 1441 HTG en 1 ère année et 2506 HTG en 2 ème année dans les départements du Nord, du Sud, de la Grande Anse, du Centre et de l'Ouest. Le coût d'un élève a encore connu une hausse importante au cours de l'année académique 2004-2005 par rapport aux années précédentes, dans les départements considérés. Ils sont passés à 2173 HTG en 1 ère année à 2976 HTG en 6 ème année. Par ailleurs, quel que soit le type d'établissement dans lequel l'enfant est scolarisé, les familles doivent s'acquitter de frais dont la nature et le montant varient selon l'établissement.
+
 49. Du fait qu'elles ne reçoivent de l'Etat que le salaire des enseignants, les écoles publiques sont autorisées à percevoir des frais de scolarité d'un montant de cent (100) HTG, directement payables à l'école, dont 60% sont gardés à l'école pour couvrir les coûts de fonctionnement et 40 % transmis aux entités de gestion départementale du ministère pour assurer le suivi et la supervision aux plans administratifs et pédagogiques.
 
 50. Au niveau des écoles non publiques les frais d'inscription et les frais d'écolages (frais d'entrée annuels et frais mensuels) 31 sont  payables  directement  à  l'école.  Selon  des  informations  fournies  par  différents  partenaires  de l'éducation, ils sont très variables et s'élevaient en moyenne à 2751 Gourdes en 2005. Néanmoins, cette moyenne cache la réalité des charges scolaires dans de nombreux établissements du sous-secteur privé où les frais requis des parents  sont  très  variables  et  peuvent  atteindre  des  plafonds  difficiles  à  déterminer.  A  tous  ces  frais,  il  convient d'ajouter les coûts liés  au transport, à l'uniforme scolaire, aux manuels et aux fournitures. De ce fait, l'effort financier des familles en éducation est estimé à US$ 109 en moyenne par année, destinés prioritairement aux frais de scolarité, d'uniformes, de manuels et de fournitures scolaires.
 
 ###### Une  admission limitée par le phénomène des surâgés et l'importance des redoublements.
 
-51.  Outre le facteur « coût de la scolarité »,  la demande d'éducation en Haïti est par ailleurs inassouvie en raison de la présence, dans les effectifs scolaires, à tous les niveaux du système éducatif  des élèves surâgés 32 .  Le phénomène semble être un trait caractéristique du système éducatif d'Haïti. Celui-ci en est affecté depuis l'année scolaire 19931994 où ils constituaient 51 % des effectifs. 33 Ce pourcentage  n'a cessé d'évoluer au fil des années  pour  atteindre, en 2002-2003, un niveau tel que l'on n'hésiterait pas à avancer que les effectifs scolaires  ne  sont  constitués que de surâgés. En effet, les données du recensement  de 2002-2003 révèlent que la proportion moyenne des surâgés était de 38.% pour le préscolaire (cf Annexe B-Tableau B5) , de 72 % pour l'enseignement fondamental 1 er et 2 ème cycles (cf Annexe B-Tableau B6) , avec des pics graduels en 4 ème année (79 %), 5 ème année (81 %) et 6 ème année (85 %), et de 78 %  pour le 3 ème cycle fondamental et secondaire (cf Annexe B-Tableau B7), avec des pics de l'ordre de 80% chez les garçons dans les classes d'examen (9 ème AF, Rétho, Philo).  Le phénomène semble affecter plus les garçons que les filles à tous les niveaux du système; il est plus fréquent  au sein des effectifs des établissements publics situés en zone rurale plutôt que dans ceux des établissements non publics et situés en zone urbaine, comme l'atteste le tableau suivant :
+51. Outre le facteur « coût de la scolarité », la demande d'éducation en Haïti est par ailleurs inassouvie en raison de la présence, dans les effectifs scolaires, à tous les niveaux du système éducatif des élèves surâgés 32 . Le phénomène semble être un trait caractéristique du système éducatif d'Haïti. Celui-ci en est affecté depuis l'année scolaire 1993-1994 où ils constituaient 51 % des effectifs. 33 Ce pourcentage n'a cessé d'évoluer au fil des années pour atteindre, en 2002-2003, un niveau tel que l'on n'hésiterait pas à avancer que les effectifs scolaires ne sont constitués que de surâgés. En effet, les données du recensement de 2002-2003 révèlent que la proportion moyenne des surâgés était de 38.% pour le préscolaire (cf Annexe B-Tableau B5) , de 72 % pour l'enseignement fondamental 1 er et 2 ème cycles (cf Annexe B-Tableau B6) , avec des pics graduels en 4 ème année (79 %), 5 ème année (81 %) et 6 ème année (85 %), et de 78 % pour le 3 ème cycle fondamental et secondaire (cf Annexe B-Tableau B7), avec des pics de l'ordre de 80% chez les garçons dans les classes d'examen (9 ème AF, Rétho, Philo). Le phénomène semble affecter plus les garçons que les filles à tous les niveaux du système; il est plus fréquent au sein des effectifs des établissements publics situés en
 
 > 31 Pour certaines écoles, particulièrement, les écoles non publiques à but lucratif, les frais d'écolage comprennent les frais d'entrée et les frais mensuels.
 
@@ -823,20 +962,22 @@ Juin  07  20
 
 [[START OF PAGE 33]]
 
-Niveaux | Sexe | Surâgés par milieu | Surâgés par secteur | Ensemble
---- | --- | --- | --- | --- | --- | ---
-Urbain | Rural | Public | Non public
-Garçons | 39%
-Filles | 37%
-Moyenne | 38%
-Fondamental 1 eer et 2 ème cycles | Garçons | 65% | 77% | 73% | 72% | 72%
-Filles | 64% | 76% | 73% | 71% | 71%
-Moyenne | 65% | 77% | 73% | 71% | 72%
-Garçons | 77% | 90% | 82% | 78% | 79%
-Fondamental 3 ème cycle | Filles | 75% | 87% | 79% | 76% | 77%
-Moyenne | 76% | 89% | 81% | 77% | 78%
+zone rurale plutôt que dans ceux des établissements non publics et situés en zone urbaine, comme l'atteste le tableau suivant :
 
 Tableau 2 : Répartition des surâgés en % dans les effectifs du préscolaire, du fondamental et du secondaire
+
+Niveaux | Sexe | Surâgés par milieu |  | Surâgés par secteur |  | Ensemble
+--- | --- | --- | --- | --- | --- | ---
+ |  | Urbain | Rural | Public | Non public |
+Préscolaire | Garçons |  |  |  |  | 39%
+ | Filles |  |  |  |  | 37%
+ | Moyenne |  |  |  |  | 38%
+Fondamental 1er et 2ème cycles | Garçons | 65% | 77% | 73% | 72% | 72%
+ | Filles | 64% | 76% | 73% | 71% | 71%
+ | Moyenne | 65% | 77% | 73% | 71% | 72%
+Fondamental 3ème cycle et Secondaire | Garçons | 77% | 90% | 82% | 78% | 79%
+ | Filles | 75% | 87% | 79% | 76% | 77%
+ | Moyenne | 76% | 89% | 81% | 77% | 78%
 
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
@@ -858,14 +999,14 @@ Juin  07  21
 
 54. Le manque d'efficacité interne du système éducatif haïtien se traduit par des redoublements et des abandons  importants 34 .  En  1997,  le  taux  de  redoublement  pour  le  fondamental  1 er et  2 ème cycles  était estimé  à  17%,  alors  qu'en  2003,  ce  taux  moyen  a  connu  une  diminution  de  3% 35 .  Les  taux  de redoublement sont les plus élevés en 1 ère , 2 ème et 3 ème années estimés respectivement à 15%, 16% et 15% (cf.  Tableau 3). Le taux d'abandon avant la fin du premier cycle fondamental, estimé à 13% en 1997, passe à 12% en 2003. Par contre, le taux d'abandon en 5 ème année est le plus faible (1%) ; en 6 ème année, ce taux est le plus élevé (26%). Ce dernier taux s'explique par le fait que beaucoup d'élèves décrochent après  avoir  été  aux  examens  officiels  de  6 ème année.  Une  certaine  stabilité  du  taux  de  promotion  des élèves  s'observe  cependant  en  2 ème ,  3 ème et  4 ème année  du  fondamental  (en  moyenne  75%)  et  un accroissement important de ce taux (87%) en 5 ème année.
 
+Tableau 3. Taux de rendement en fin d'année scolaire des élèves aux deux premiers cycles du fondamental (Année 2003)
+
 Taux de rendement | 1ère Année | 2 ème Année | 3 ème Année | 4 ème Année | 5 ème Année | 6 ème Année | Moyen
 --- | --- | --- | --- | --- | --- | --- | ---
 Promotion | 70% | 76% | 75% | 76% | 87% | 63% | 74%
 Redoublement | 15% | 16% | 15% | 13% | 12% | 11% | 14%
 Abandon | 15% | 8% | 10% | 11% | 1% | 26% | 12%
 Total | 100% | 100% | 100% | 100% | 100% | 100% | 100%
-
-Tableau 3. Taux de rendement en fin d'année scolaire des élèves aux deux premiers cycles du fondamental (Année 2003)
 
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
@@ -939,7 +1080,7 @@ Juin  07  24
 
 68. La planification de l'enseignement pour les classes reflète beaucoup plus l'utilisation progressive des manuels scolaires que la poursuite des objectifs des programmes.
 
-La présentation des contenus de programmes,  quoique ordonnée pour chaque thème, ne suggère pas la chronologie d'enseignement de ces thèmes pour une utilisation efficiente des programmes. Cette  absence de  proposition  de  progression  par  matière  ainsi  que  des  regroupements  transdisciplinaires  possibles  a encouragé  l'encyclopédisme  dénoncé  dans  les  diagnostics  et  non  un  développement  d'habiletés  et  de compétences. La publication de propositions de progression par plusieurs organismes privés témoigne  de l'importance de cette lacune pour la mise en œuvre cohérente  des  curricula par les enseignants.
+La présentation des contenus de programmes, quoique ordonnée pour chaque thème, ne suggère pas la chronologie d'enseignement de ces thèmes pour une utilisation efficiente des programmes. Cette absence
 
 Stratégie Nationale d'Action / EPT
 
@@ -949,7 +1090,9 @@ Juin  07  25
 
 [[START OF PAGE 38]]
 
-En résumé, peu d'enseignants démontrent  la maîtrise des programmes au point de pouvoir en agencer créativement les apports et en compenser adéquatement les failles par l'utilisation d'autres supports.
+de proposition de progression par matière ainsi que des regroupements transdisciplinaires possibles a encouragé l'encyclopédisme dénoncé dans les diagnostics et non un développement d'habiletés et de compétences. La publication de propositions de progression par plusieurs organismes privés témoigne de l'importance de cette lacune pour la mise en œuvre cohérente des curricula par les enseignants.
+
+En résumé, peu d'enseignants démontrent la maîtrise des programmes au point de pouvoir en agencer créativement les apports et en compenser adéquatement les failles par l'utilisation d'autres supports.
 
 ###### Absence d'un dispositif de suivi et d'évaluation de l'application des programmes
 
@@ -985,7 +1128,7 @@ Juin  07  26
 
 76.  Les  établissements  ne  contiennent  que  rarement  des  bibliothèques  ne  contenant  pas  toujours  les documents qui permettraient aux élèves de réaliser la recherche documentaire. Elles sont, dans la plupart des cas, logées dans des espaces inappropriés. Quant aux laboratoires de langues, ils sont très rares dans les écoles et souvent mal équipés.
 
-77. Au niveau de l'enseignement Technique et Professionnel, la déficience en matériels didactiques peut être qualifiée de totale. En effet, l'absence des supports pédagogiques nécessaires pour l'apprentissage des étudiants influence la qualité de la formation. D'autant que la désuétude des outillages paralyse le bon fonctionnement des ateliers.  Les  équipements,  quand  ils  existent,  sont  sans  dispositifs  de  sécurité ayant été amortis depuis longtemps, en mauvais état, obsolètes.
+77. Au niveau de l'enseignement Technique et Professionnel, la déficience en matériels didactiques peut être qualifiée de totale. En effet, l'absence des supports pédagogiques nécessaires pour l'apprentissage des étudiants influence la qualité de la formation. D'autant que la désuétude des outillages paralyse le
 
 Stratégie Nationale d'Action / EPT
 
@@ -995,7 +1138,9 @@ Juin  07  27
 
 [[START OF PAGE 40]]
 
-78.  Au  niveau  de  l'enseignement  supérieur,  il  convient  de  souligner  qu'aucune  des  institutions  ne possède une vraie bibliothèque de niveau universitaire, les manuels d'enseignement et la documentation font  sévèrement  défaut.  La  consultation  en  ligne  de  document  n'est  pas  offerte  aux  étudiants,  c'est  le Campus numérique de l'AUF qui permet à la population étudiante de la Capitale de pouvoir accéder à cette  possibilité.  Dans  quelques  rares  exceptions,  il  y  a  des  laboratoires  d'enseignement,  mais  on  ne dispose pas d'informations précises quant à leur état.
+bon fonctionnement des ateliers. Les équipements, quand ils existent, sont sans dispositifs de sécurité ayant été amortis depuis longtemps, en mauvais état, obsolètes.
+
+78. Au niveau de l'enseignement supérieur, il convient de souligner qu'aucune des institutions ne possède une vraie bibliothèque de niveau universitaire, les manuels d'enseignement et la documentation font sévèrement défaut. La consultation en ligne de document n'est pas offerte aux étudiants, c'est le Campus numérique de l'AUF qui permet à la population étudiante de la Capitale de pouvoir accéder à cette possibilité. Dans quelques rares exceptions, il y a des laboratoires d'enseignement, mais on ne dispose pas d'informations précises quant à leur état.
 
 79. Les nouvelles technologies de l'information et de la communication sont très faiblement exploitées à tous les niveaux du système
 
@@ -1043,7 +1188,7 @@ Juin  07  29
 
 87. La situation nutritionnelle des enfants est plus alarmante dans le Centre (33 %) et le Sud (29 %).  Elle s'améliore  avec  le  niveau  d'instruction  de  la  mère.  Les  infections  parasitaires  sont  souvent  liées  à  la malnutrition de l'enfance. Des études conduites en 1991 révèlent que 97% des enfants de 12 à 59 mois ont des infestations parasitaires 39 .
 
-88. En ce qui concerne l a carence en micronutriments, l es troubles dus aux carences en Iode affectent le rendement scolaire et la performance physique. Les départements les plus affectés sont l'Artibonite, le Plateau  Central  et  l'Ouest  -  à  l'exclusion  de  Port  au  Prince.  L'anémie  par  carence  en  fer  affaiblit également  les  capacités  physiques  et  intellectuelles  des  enfants  et  augmente  leur  vulnérabilité  aux infections. En Haïti, près des deux tiers (65,3 %) des enfants de moins de cinq ans sont anémiés (taux d'hémoglobine inférieur à 11 g/dl).  L'anémie sévère est observée chez 1,6% des enfants de moins de cinq ans (hémoglobine sanguine inférieure à 7,0 g/dl) [EMMUS III]. Cette anémie ferriprive est deux fois plus fréquente en milieu urbain qu'en milieu rural. Selon EMMUS III, seulement 31% des enfants de 659 mois auraient reçu des suppléments de vitamine A, étant entendu que la carence en vitamine A, cause de xérophtalmie, entraîne la cécité, et diminue les capacités immunitaires pour lutter contre les infections.
+88. En ce qui concerne la carence en micronutriments, les troubles dus aux carences en Iode affectent le rendement scolaire et la performance physique. Les départements les plus affectés sont l'Artibonite, le Plateau Central et l'Ouest - à l'exclusion de Port au Prince. L'anémie par carence en fer affaiblit également les capacités physiques et intellectuelles des enfants et augmente leur vulnérabilité aux infections. En Haïti, près des deux tiers (65,3 %) des enfants de moins de cinq ans sont anémiés (taux d'hémoglobine inférieur à 11 g/dl). L'anémie sévère est observée chez 1,6% des enfants de moins de cinq ans (hémoglobine sanguine inférieure à 7,0 g/dl) [EMMUS III]. Cette anémie ferriprive est deux fois plus fréquente en milieu urbain qu'en milieu rural. Selon EMMUS III, seulement 31% des enfants de 6-59 mois auraient reçu des suppléments de vitamine A, étant entendu que la carence en vitamine A, cause de xérophtalmie, entraîne la cécité, et diminue les capacités immunitaires pour lutter contre les infections.
 
 89. A coté des faiblesses notées en matière d'accès et de couverture de santé, sur le plan national, des facteurs  comportementaux  liés  à  l'adoption  ou  non  de  pratiques  favorables  à  la  santé,  tel  l'hygiène (seulement 23,2% des mères en milieu rural et 28,4% en milieu urbain se lavaient les mains avant de donner  à  manger  aux  enfants) 40 d'une  part,  et  des  facteurs  environnementaux  liés  aux  conditions précaires d'accès à l'eau potable et au manque de système pour l'évacuation des excrétas d'autre part, favorisent  le  développement  de  maladies  chez  les  enfants  d'âge  préscolaire  et  influencent  en  quelque sorte la survie et le développement de la petite enfance.
 
@@ -1051,7 +1196,7 @@ Juin  07  29
 
 91. Les besoins en iodation du sel sont élevés, notamment dans l'Artibonite et l'Ouest où 94,4% de la population n'a pas d'accès au sel iodé [EMMUS III].
 
-92.  En  ce  qui  concerne  la  fourniture  de  suppléments  alimentaires,  certains  efforts  ont  été  initiés  .Des programmes de distribution de denrées alimentaires ciblant particulièrement les enfants de moins de cinq ans, les femmes enceintes et allaitantes, certaines couches vulnérables (personnes infectées ou affectées par  le  VIH/SIDA),  certains  patients  tuberculeux,  ont  été  mis  en  route  à  l'initiative  du  Programme National de Nutrition, des programmes de l'USAID, du PAM, contribuant à apporter aux populations éloignées  et  défavorisées  économiquement,  des  suppléments  alimentaires  constitués  de  rations  sèches définies généralement pour une famille.
+92. En ce qui concerne la fourniture de suppléments alimentaires, certains efforts ont été initiés .Des programmes de distribution de denrées alimentaires ciblant particulièrement les enfants de moins de cinq ans, les femmes enceintes et allaitantes, certaines couches vulnérables (personnes infectées ou affectées
 
 > 39 C. Vilgrain, La Santé des Enfants d'âge préscolaire en Haïti. Un état des lieux  (draft). UNICEF, déc.2006
 
@@ -1065,7 +1210,9 @@ Juin  07  30
 
 [[START OF PAGE 43]]
 
-93.  A  l'adresse  des  élèves  du  fondamental  et  du  secondaire,  au  titre  des  cantines  scolaires,  une  ration alimentaire,  sous  forme  d'un  plat  chaud  (90%  des  bénéficiaires)  ou  d'un  snack  (environ  10%  des bénéficiaires)  est  offerte  à  un  effectif  de  464 361  élèves  de  ces  deux  niveaux  d'enseignement, inégalement répartis dans les départements d'éducation. Ainsi 20% environ des effectifs du fondamental (17,25% des effectifs du fondamental et du secondaire) sont desservis, pendant 150 jours de classe en moyenne par année, par cinq opérateurs dont le PNCS (24,67 %), le PAM (31,19 %), le BND (30,68%), le CRS (9,47%), et la CARE (3,98 %). En tenant compte des effectifs scolaires des départements, le taux de couverture est de moins de 20% dans le département de l'Ouest Il est  de moins de 25% dans le Nord, autour de 21% dans l'Artibonite, autour de 14% dans le Centre et le Sud, et de 49% dans le Nord'Est. Dans trois départements (Les Nippes, le Nord Ouest et le Sud Est), le taux de couverture tourne autour de 3%, ce qui donne une idée de l'état des besoins en termes de cantines scolaires quand on connaît les conditions de pauvreté d'un large secteur de la population.
+par le VIH/SIDA), certains patients tuberculeux, ont été mis en route à l'initiative du Programme National de Nutrition, des programmes de l'USAID, du PAM, contribuant à apporter aux populations éloignées et défavorisées économiquement, des suppléments alimentaires constitués de rations sèches définies généralement pour une famille.
+
+93. A l'adresse des élèves du fondamental et du secondaire, au titre des cantines scolaires, une ration alimentaire, sous forme d'un plat chaud (90% des bénéficiaires) ou d'un snack (environ 10% des bénéficiaires) est offerte à un effectif de 464 361 élèves de ces deux niveaux d'enseignement, inégalement répartis dans les départements d'éducation. Ainsi 20% environ des effectifs du fondamental (17,25% des effectifs du fondamental et du secondaire) sont desservis, pendant 150 jours de classe en moyenne par année, par cinq opérateurs dont le PNCS (24,67 %), le PAM (31,19 %), le BND (30,68%), le CRS (9,47%), et la CARE (3,98 %). En tenant compte des effectifs scolaires des départements, le taux de couverture est de moins de 20% dans le département de l'Ouest Il est de moins de 25% dans le Nord, autour de 21% dans l'Artibonite, autour de 14% dans le Centre et le Sud, et de 49% dans le Nord'Est. Dans trois départements (Les Nippes, le Nord Ouest et le Sud Est), le taux de couverture tourne autour de 3%, ce qui donne une idée de l'état des besoins en termes de cantines scolaires quand on connaît les conditions de pauvreté d'un large secteur de la population.
 
 94.  Les  rations  apportent,  dans  le  cas  du  plat  chaud,  entre  984  et  1055  kilocalories,  et  seulement  623 kilocalories dans le cas du snack. En ce sens, elles comblent très peu les besoins énergétiques des élèves estimés, journalièrement à 1700 - 2000 Kilocalories par jour, de l'avis des experts. Ces données montrent les  déficiences  présentées  par  les  rations  appliquées  si  l'on  considère  que  bon  nombre  d'enfants  ne disposent journalièrement que de l'alimentation donnée à l'école. En outre, selon les nutritionnistes, les repas offerts ne sont pas équilibrés, étant donné leur carence en aliments protecteurs représentés par les fruits et les légumes.
 
@@ -1077,7 +1224,7 @@ A part le fait que le rôle de la nutrition sur l'assimilation des élèves est 
 
 ###### Un ratio élèves/maître hors norme
 
-96. Les données du recensement de 2003 révèlent une nette détérioration des conditions d'encadrement avec des classes beaucoup plus surchargées qu'elles ne l'étaient au cours des années 90 (cf. Annexe BTableau  B13).  La  situation  est  beaucoup  plus  critique  dans  l'Ouest,  le  Nord  et  l'Artibonite  qui  sont passés respectivement des ratios de 32, 35 et 32 en l'année 1997-98 à des ratios de 48, 51 et 48 en 20022003. Il n'y a que les Nippes dont le ratio 39 élèves/maître est en dessous de la norme définie par le MENFP (40 élèves par maître).
+96. Les données du recensement de 2003 révèlent une nette détérioration des conditions d'encadrement avec des classes beaucoup plus surchargées qu'elles ne l'étaient au cours des années 90 (cf. Annexe B-Tableau B13). La situation est beaucoup plus critique dans l'Ouest, le Nord et l'Artibonite qui sont
 
 Stratégie Nationale d'Action / EPT
 
@@ -1087,11 +1234,13 @@ Juin  07  31
 
 [[START OF PAGE 44]]
 
+passés respectivement des ratios de 32, 35 et 32 en l'année 1997-98 à des ratios de 48, 51 et 48 en 2002-2003. Il n'y a que les Nippes dont le ratio 39 élèves/maître est en dessous de la norme définie par le MENFP (40 élèves par maître).
+
 ###### Des compétences très faibles de la majorité des enseignants et des niveaux de formations multiples
 
 97.  Les  dernières  informations  sur  le  profil,  l'état  de  la  formation  et  les  conditions  de  travail  des enseignants révèlent une situation en déclin qui ne peut garantir la qualité du processus d'enseignement/apprentissage.  En  effet,  au  niveau  préscolaire,  sur  les  19893  enseignants,  65%  (soient 13099 enseignants) n'ont reçu aucune formation spécifique dans le domaine, dont 32% environ (4219) n'ont  pas  le  niveau  académique  équivalent  à  la  classe  de  9 ème AF  (cf.  Annexe  B  -  Tableau  B15).  Au niveau  des  deux  premiers  cycles  de  l'enseignement  fondamental,  la  situation  n'est  guère  brillante  (cf. Annexe B - Tableau B16). Sur les 60261 enseignants évoluant dans le sous-secteur, 79% (soient 47678) n'ont reçu aucune formation initiale de base. Environ 10% de ces 79% n'ont pas le niveau académique de 9 ème AF.  Les  autres  sont  des  universitaires  (2789  ou  4.84%),  normaliens  (6136  ou10.64%)  et  capistes (3658  soit  6.34%).  Le  département  de  l'Ouest,  en  plus  d'avoir  le  plus  grand  nombre  d'enseignants, possède un pourcentage plus élevé d'enseignants qualifiés 41 53% (universitaires, normaliens, jardinières, aides  jardinières).  Par  contre  les  Nippes  ont  le  pourcentage  le  plus  faible  d'enseignants  qualifiés,  soit 4.8%.
 
-98. Au niveau de l'enseignement Technique et Professionnel, les formateurs sont en grande partie sousqualifiés au point de vue technique et n'ont pas de formation pédagogique. L'absence d'un système de formation initiale pour les enseignants du secteur de la formation professionnelle et technique, fait que la majorité  des  formateurs  ont  acquis  leurs  expériences  sur  le  tas.  Le  faible  niveau  de  qualification  des enseignants explique en partie l'inefficacité des centres.
+98. Au niveau de l'enseignement Technique et Professionnel, les formateurs sont en grande partie sous-qualifiés au point de vue technique et n'ont pas de formation pédagogique. L'absence d'un système de formation initiale pour les enseignants du secteur de la formation professionnelle et technique, fait que la majorité des formateurs ont acquis leurs expériences sur le tas. Le faible niveau de qualification des enseignants explique en partie l'inefficacité des centres.
 
 99. Au niveau de l'enseignement supérieur, la qualification académique des professeurs varie grandement d'une institution à l'autre. La majorité des enseignants ont le niveau de licence et de maîtrise. Ils n'ont pas reçu de formation à la pédagogie universitaire. Bien que ces dernières années, des initiatives ont été entreprises  en  vue  de  familiariser  les  professeurs  à  l'importance  de  la  pédagogie  de  l'enseignement supérieur,  mais  cela  reste  marginal  par  rapport  aux  besoins  en  cette  matière  si  déterminante  pour  la qualité de l'enseignement dispensé.
 
@@ -1117,7 +1266,7 @@ Cette transformation de la FIM s'est manifestée à travers l'évolution des str
 
 104.  En  dépit  de  cette  diversité  des  lieux  de  formation  initiale  impliquant  nécessairement    une augmentation de l'offre de formation, le défi quantitatif en terme de maîtres dépositaires d'une formation initiale  reste  à  relever  dans  le  système  éducatif.  En  effet,  sur  les  60261  maîtres  évoluant  aux  deux premiers cycles du fondamental, environ seulement 17% ont eu accès à une formation initiale.
 
-105. Les opérateurs développent leurs propres programmes de formation, différents les uns des autres et répondant à des logiques et visions différentes de la FIM. Face à cette évolution accélérée, le MENFP à travers  sa  structure  de  coordination  de  la  formation,  la  DFP,  s'efforce  de  s'ajuster  et  de  redéfinir  les standards ainsi que les normes de qualité en vue d'éviter que ces initiatives, pour le moins, heureuses, ne se développent dans l'anarchie, en dehors de tout contrôle, et délivrent sur le marché des enseignants peu qualifiés.
+105. Les opérateurs développent leurs propres programmes de formation, différents les uns des autres et répondant à des logiques et visions différentes de la FIM. Face à cette évolution accélérée, le MENFP à travers sa structure de coordination de la formation, la DFP, s'efforce de s'ajuster et de redéfinir les standards ainsi que les normes de qualité en vue d'éviter que ces initiatives, pour le moins, heureuses, ne
 
 Stratégie Nationale d'Action / EPT
 
@@ -1127,7 +1276,9 @@ Juin  07  33
 
 [[START OF PAGE 46]]
 
-106. Même si d'autres dispositifs de formation initiale prennent progressivement place dans le système éducatif, les ENI restent encore, compte tenu de leur nombre, le lieu le plus important d'accueil d'élèvesmaîtres. Les autres structures de FIM sont encore en nombre très limité et la majorité d'entre elles se trouve circonscrite dans la zone métropolitaine de Port-au-Prince même quand elles ont pour la plupart des annexes dans des villes de province.
+se développent dans l'anarchie, en dehors de tout contrôle, et délivrent sur le marché des enseignants peu qualifiés.
+
+106. Même si d'autres dispositifs de formation initiale prennent progressivement place dans le système éducatif, les ENI restent encore, compte tenu de leur nombre, le lieu le plus important d'accueil d'élèves-maîtres. Les autres structures de FIM sont encore en nombre très limité et la majorité d'entre elles se trouve circonscrite dans la zone métropolitaine de Port-au-Prince même quand elles ont pour la plupart des annexes dans des villes de province.
 
 ###### Des programmes de formation très diversifiés
 
@@ -1159,7 +1310,7 @@ Juin  07  34
 
 ###### Des enseignants peu motivés
 
-113.  Au  niveau  de  l'enseignement  fondamental,  secondaire  et  professionnel,  la  précarité  du  travail  de l'enseignant  ainsi  que  l'absence  de  perspective  d'un  plan  de  carrière  sont  à  l'origine  du  départ  de nombreux  enseignants,  devenus  peu  motivés,  du  système.  En  effet,  des  mesures  incitatives  pouvant prendre  la  forme  d'avantages  financiers  (salaires  décents,  allocations  et  prestations  supplémentaires, formation professionnelle, subventions de logement, de nourriture ou de transport) aux divers stades de leur carrière ne sont pas mises en place en vue de leur offrir une satisfaction professionnelle et par voie de conséquence d'améliorer l'enseignement qu'ils dispensent. D'autres avantages non financiers ne sont pas  non  plus  appliquées  ni  même  envisagées  pour  inciter  leur  motivation  :  statut  professionnel  et reconnaissance des rendements fournis par exemple. Bien que la liberté d'association professionnelle soit reconnue par la constitution, les formes de négociation salariale n'existent pas.
+113. Au niveau de l'enseignement fondamental, secondaire et professionnel, la précarité du travail de l'enseignant ainsi que l'absence de perspective d'un plan de carrière sont à l'origine du départ de
 
 > 42 Ils  sont  connus  sous  des  appellations  différentes  et  ont  des  niveaux  de  formations  différentes:  inspecteurs, superviseurs, conseillers pédagogiques, moniteurs
 
@@ -1171,13 +1322,15 @@ Juin  07  35
 
 [[START OF PAGE 48]]
 
-Ces  problèmes  se  posent  avec  beaucoup  plus  d'acuité  dans  le  secteur  non  public.  Les  conditions  de travail  des  enseignants  dans  ce  secteur  laissent  en  effet  à  désirer.  Contrairement  aux  établissements scolaires  publics  où  les  enseignants  bénéficient  de  certains  avantages  sociaux  (assurance  et  prêt  sous forme d'avance de salaire), rares sont les écoles non publiques à leur octroyer certains privilèges.
+nombreux enseignants, devenus peu motivés, du système. En effet, des mesures incitatives pouvant prendre la forme d'avantages financiers (salaires décents, allocations et prestations supplémentaires, formation professionnelle, subventions de logement, de nourriture ou de transport) aux divers stades de leur carrière ne sont pas mises en place en vue de leur offrir une satisfaction professionnelle et par voie de conséquence d'améliorer l'enseignement qu'ils dispensent. D'autres avantages non financiers ne sont pas non plus appliquées ni même envisagées pour inciter leur motivation : statut professionnel et reconnaissance des rendements fournis par exemple. Bien que la liberté d'association professionnelle soit reconnue par la constitution, les formes de négociation salariale n'existent pas.
+
+Ces problèmes se posent avec beaucoup plus d'acuité dans le secteur non public. Les conditions de travail des enseignants dans ce secteur laissent en effet à désirer. Contrairement aux établissements scolaires publics où les enseignants bénéficient de certains avantages sociaux (assurance et prêt sous forme d'avance de salaire), rares sont les écoles non publiques à leur octroyer certains privilèges.
 
 114. L'insécurité et les perturbations sociopolitiques qui frappent sévèrement le secteur de l'éducation depuis 1986 concourent également à la démotivation des enseignants et à leur sortie du système pour s'adonner à d'autres activités génératrices de revenus stables et à l'abri des incertitudes. Cette situation, ne permet pas, non seulement de garder les enseignants déjà en exercice dans le secteur, n'y attirent pas non plus de nouveaux massivement.
 
 115. En somme, la précarité du travail de l'enseignant marquée par des salles de classe pléthoriques et hors  normes,  des  espaces  physiques  inadéquats,  la  sous-alimentation,  la  rémunération  dérisoire,  les distorsions  qui  existent  entre  les  directives  des  plans  et  lois  d'éducation  et  la  réalité  des  conditions  de travail constituent des entraves majeures à sa motivation et à l'efficacité de son acte pédagogique.
 
-116. Au niveau de l'enseignement supérieur, le statut des professeurs en fait un corps tout à fait disparate. La  très  grande  majorité  des  enseignants  sont  des  vacataires,  c'est-à-dire  des  chargés  d'enseignement payés en fonction du nombre d'heures de cours dispensés. Dans certaines institutions, il existe un petit noyau d'enseignants à temps plein, mais les limites financières des établissements ne leur permettent pas de les fidéliser sans qu'ils aient besoin d'offrir leurs services ailleurs. Par exemple, L'Université d'État d'Haïti  (UEH),  avec  ses  700  enseignants,  a  le  corps  professoral  le  plus  grand  de  l'ensemble  des  IES. Mais  pour  la  plus  grande  partie  d'entre  eux,  l'enseignement  universitaire  n'est  pas  la  seule  forme d'exercice  professionnel  capable  de  leur  assurer  les  moyens  nécessaires  d'une  vie  décente,  ce  qui expliquerait parfois l'ampleur du phénomène d'absentéisme constaté chez les enseignants du supérieur. L'idée  d'un  petit  noyau  d'enseignants  à  temps  plein  semble  tout  à  fait  insuffisante,  à  elle  seule,  pour dynamiser  la  vie  institutionnelle.  Cette  situation  a  des  conséquences  néfastes  sur  la  qualité  de  la formation supérieure  en  général :  il  y  a  de  toute  évidence  un  manque  de  disponibilité  des  professeurs pour encadrer les étudiants, pour participer à la vie de l'institution, pour contribuer au développement d'une expertise sur les problèmes de la société haïtienne et à la production du savoir qui, en retour, aide à enrichir l'enseignement dispensé.
+116. Au niveau de l'enseignement supérieur, le statut des professeurs en fait un corps tout à fait disparate. La très grande majorité des enseignants sont des vacataires, c'est-à-dire des chargés d'enseignement payés en fonction du nombre d'heures de cours dispensés. Dans certaines institutions, il existe un petit noyau d'enseignants à temps plein, mais les limites financières des établissements ne leur permettent pas de les fidéliser sans qu'ils aient besoin d'offrir leurs services ailleurs. Par exemple, L'Université d'État d'Haïti (UEH), avec ses 700 enseignants, a le corps professoral le plus grand de l'ensemble des IES. Mais pour la plus grande partie d'entre eux, l'enseignement universitaire n'est pas la seule forme d'exercice professionnel capable de leur assurer les moyens nécessaires d'une vie décente, ce qui expliquerait parfois l'ampleur du phénomène d'absentéisme constaté chez les enseignants du supérieur. L'idée d'un petit noyau d'enseignants à temps plein semble tout à fait insuffisante, à elle seule, pour dynamiser la vie institutionnelle. Cette situation a des conséquences néfastes sur la qualité de la formation supérieure en général : il y a de toute évidence un manque de disponibilité des professeurs pour encadrer les étudiants, pour participer à la vie de l'institution, pour contribuer au développement d'une expertise sur les problèmes de la société haïtienne et à la production du savoir qui, en retour, aide à
 
 Stratégie Nationale d'Action / EPT
 
@@ -1186,6 +1339,8 @@ Juin  07  36
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
+
+enrichir l'enseignement dispensé.
 
 ###### Absence de cadre de référence d'encadrement et de suivi pédagogiques
 
@@ -1201,7 +1356,7 @@ En définitive, l'absence de cadre de référence, la diversité des acteurs et 
 
 ###### Des pratiques pédagogiques désuètes
 
-121. Au niveau de l'enseignement fondamental et secondaire, les pratiques pédagogiques sont fondées sur une dynamique verticale, faite de violence physique, psychologique et verbale.  Elles sont sclérosées et ne répondent plus aux mutations sociales qu'a connues la société haïtienne depuis les vingt dernières années.  Les  relations  verticales  tissées  entre  le  maître  et  les  élèves  ne  garantissent  nullement  le développement  des  valeurs  démocratiques  chez  ces  derniers.  Favorisant  fortement  la  mémoire  et  le mimétisme,  ces  pratiques  ne  peuvent  en  aucun  cas  rendre  possible  leur  épanouissement  personnel, servant plutôt à former des automates.
+121. Au niveau de l'enseignement fondamental et secondaire, les pratiques pédagogiques sont fondées sur une dynamique verticale, faite de violence physique, psychologique et verbale. Elles sont sclérosées et ne répondent plus aux mutations sociales qu'a connues la société haïtienne depuis les vingt dernières années. Les relations verticales tissées entre le maître et les élèves ne garantissent nullement le développement des valeurs démocratiques chez ces derniers. Favorisant fortement la mémoire et le
 
 Stratégie Nationale d'Action / EPT
 
@@ -1211,7 +1366,9 @@ Juin  07  37
 
 [[START OF PAGE 50]]
 
-122.  Au  niveau  de  l'enseignement  supérieur,  l'enseignement  est  dispensé  généralement  sous  le  mode présentiel, à partir de cours magistraux le plus souvent, ou en ligne grâce à l'appui du bureau régional de l'Agence  universitaire  de  la  francophonie  (AUF),  à  travers  son  Campus  numérique.  La  recherche scientifique  n'est  pas  complètement  absente.  Il  s'en  fait  dans  quelques  rares  institutions  au  gré  de  la volonté et du dynamisme de certains professeurs. Mais, comme elle ne fait pas partie formellement de la fonction enseignante, le petit programme d'appui aux activités à caractère scientifique du Ministère de l'Éducation nationale qui a durée de 1998 à 2000, de même que  les programmes actuels de l'AUF en cette matière sont très insuffisantes pour arriver à ancrer la recherche dans la pratique de l'enseignement supérieur en Haïti. Cette dimension  de  la  fonction professorale  demeure  à  un  stade  tellement embryonnaire qu'elle ne peut avoir vraiment d'effet sur la qualité de l'enseignement comme tel.
+mimétisme, ces pratiques ne peuvent en aucun cas rendre possible leur épanouissement personnel, servant plutôt à former des automates.
+
+122. Au niveau de l'enseignement supérieur, l'enseignement est dispensé généralement sous le mode présentiel, à partir de cours magistraux le plus souvent, ou en ligne grâce à l'appui du bureau régional de l'Agence universitaire de la francophonie (AUF), à travers son Campus numérique. La recherche scientifique n'est pas complètement absente. Il s'en fait dans quelques rares institutions au gré de la volonté et du dynamisme de certains professeurs. Mais, comme elle ne fait pas partie formellement de la fonction enseignante, le petit programme d'appui aux activités à caractère scientifique du Ministère de l'Éducation nationale qui a durée de 1998 à 2000, de même que les programmes actuels de l'AUF en cette matière sont très insuffisantes pour arriver à ancrer la recherche dans la pratique de l'enseignement supérieur en Haïti. Cette dimension de la fonction professorale demeure à un stade tellement embryonnaire qu'elle ne peut avoir vraiment d'effet sur la qualité de l'enseignement comme tel.
 
 ##### Un système d'évaluation des acquis des apprentissages très déficitaire
 
@@ -1225,7 +1382,7 @@ Plusieurs constats autorisent la mise en doute de la fiabilité de ces opératio
 
 ###### Des procédures peu rigoureuses et des résultats manquant de fiabilité
 
-125. Les courroies de transmission d'information et de prise de responsabilités entre les instances dans la conduite  des  différentes  étapes  de  l'opération  d'évaluation  des  acquis  ne  semblent  pas  imperméables. L'insuffisance  de  ressources  humaines  qualifiées  pour  conduire  professionnellement  les  différentes opérations  liées  à  l'administration  des  tests,  à  la  correction  normalisée,  à  la  saisie  des  performances individuelles  et  au  traitement  des  données  jusqu'à  la  publication  des  résultats  affecte  également  la fiabilité des résultats.
+125. Les courroies de transmission d'information et de prise de responsabilités entre les instances dans la conduite des différentes étapes de l'opération d'évaluation des acquis ne semblent pas imperméables. L'insuffisance de ressources humaines qualifiées pour conduire professionnellement les différentes
 
 Stratégie Nationale d'Action / EPT
 
@@ -1234,8 +1391,9 @@ Juin  07  38
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+opérations liées à l'administration des tests, à la correction normalisée, à la saisie des performances individuelles et au traitement des données jusqu'à la publication des résultats affecte également la fiabilité des résultats.
 
-126. Même en utilisant des instruments équivalents mais différents pour réduire les tentatives de fuite et autres fraudes, la diversité des conditions de passation des tests d'un département géographique à l'autre rend  inadéquates  les  comparaisons  des  performances  à  travers  les  départements  géographiques.  La signification des résultats dans l'ensemble du système est aussi biaisée.
+126. Même en utilisant des instruments équivalents mais différents pour réduire les tentatives de fuite et autres fraudes, la diversité des conditions de passation des tests d'un département géographique à l'autre rend inadéquates les comparaisons des performances à travers les départements géographiques. La signification des résultats dans l'ensemble du système est aussi biaisée.
 
 127. La rigueur du processus n'est nullement assurée (inexistence de Manuel de procédures). Il en est de même du contrôle de l'étanchéité des canaux de transmission tout au long de la chaîne des opérations ; élaboration,  administration  des  épreuves,  correction,  saisie,  analyse  et  interprétation  des  résultats nationaux.
 
@@ -1243,15 +1401,15 @@ Juin  07  38
 
 128.  En  l'absence  d'études  spécifiques  récentes  sur  la  question,  plusieurs  facteurs  démontrent  que  les jeunes haïtiens, de la période adolescente (11 à 18 ans), sont à fort risque de contracter les IST/SIDA. Au titre de ces facteurs, citons :
 
-- 9 La  précocité  de  l'initiation  sexuelle.  En  effet,  selon  l'Emmus  III,  34%  des  filles  et  52%  des garçons de 15 à 19 ans ont déjà eu leurs premiers rapports sexuels.
+- La précocité de l'initiation sexuelle. En effet, selon l'Emmus III, 34% des filles et 52% des garçons de 15 à 19 ans ont déjà eu leurs premiers rapports sexuels.
 
-- 9 La  faible  utilisation  du  condom  chez  les  adolescents  des  deux  sexes.  Seulement  15%  des adolescents et 25% des adolescents de 15 à 19 ans ont utilisé un condom au cours de leur dernier rapport sexuel. Enseignants et enseignantes ne sont pas mieux lotis : respectivement 12% et 19% (Emmus III).
+- La faible utilisation du condom chez les adolescents des deux sexes. Seulement 15% des adolescents et 25% des adolescents de 15 à 19 ans ont utilisé un condom au cours de leur dernier rapport sexuel. Enseignants et enseignantes ne sont pas mieux lotis : respectivement 12% et 19% (Emmus III).
 
-- 9 La faible perception du risque. Toujours selon la même source, 93% des jeunes de 15 à 19 ans ne s'estiment point à risque de contracter le VIH/sida. La situation n'est pas plus brillante du côté du corps professoral ou moins de 5% s'estime exposé au VIH.
+- La faible perception du risque. Toujours selon la même source, 93% des jeunes de 15 à 19 ans ne s'estiment point à risque de contracter le VIH/sida. La situation n'est pas plus brillante du côté du corps professoral ou moins de 5% s'estime exposé au VIH.
 
-- 9 La méconnaissance du statut sérologique. A 15 - 19 ans, moins de 2% des adolescentes et moins de  1%  des  adolescents  ont  effectué  un  test  de  dépistage  du  VIH.  Chez  les  enseignants,  les statistiques se chiffrent à 7% quel que soit le sexe.
+- La méconnaissance du statut sérologique. A 15 - 19 ans, moins de 2% des adolescentes et moins de 1% des adolescents ont effectué un test de dépistage du VIH. Chez les enseignants, les statistiques se chiffrent à 7% quel que soit le sexe.
 
-- 9 L'absence  d'éducation  sexuelle  dans  les  familles,  la  faible  prise  de  conscience  dans  la propagation  des  modes  de  contamination  du  VIH/sida,  le  brassage  sexuel  entre  élèves  et professeurs  et  entre  élèves  d'âge  différent  appartenant  à  une  même  classe  (phénomène  des surâgés) sont autant d'autres facteurs contribuant à la vulnérabilité des adolescents.
+- L'absence d'éducation sexuelle dans les familles, la faible prise de conscience dans la propagation des modes de contamination du VIH/sida, le brassage sexuel entre élèves et professeurs et entre élèves d'âge différent appartenant à une même classe (phénomène des surâgés) sont autant d'autres facteurs contribuant à la vulnérabilité des adolescents.
 
 129.  Par  ailleurs,  pendant  de  longues  années,  l'image  d'Haïti  a  été  associée  fortement  au  VIH-Sida. Jusqu'à la fin des années 90, la République Dominicaine et Haïti regroupaient 90% des quelques 440.000 cas de personnes vivant avec le VIH dans la zone Caraïbe. S'agissant d'Haïti, les statistiques publiées en
 
@@ -1275,9 +1433,9 @@ Juin  07  40
 
 [[START OF PAGE 53]]
 
-#### 2.3 . L'EFFICACITE EXTERNE
+#### 2.3. L'EFFICACITE EXTERNE
 
-##### Une  faible  congruence  des  curricula  avec  les  finalités  de  l'éducation  et  les  réalités  socioéconomiques nationales
+##### Une faible congruence des curricula avec les finalités de l'éducation et les réalités socio-économiques nationales
 
 130. La mise en œuvre des programmes nationaux devrait contribuer à la réalisation du profil de sortie des élèves non seulement en termes des savoirs scolaires académiques et des connaissances accumulés au bout de chacun des cycles, dans le temps prévu mais aussi de leur capacité à mobiliser spontanément ces savoirs et savoir-faire et à utiliser adéquatement leurs connaissances de la vie courante et les acquis dans les circonstances de la vie quotidienne.
 
@@ -1285,7 +1443,7 @@ Juin  07  40
 
 132. Cette efficacité, également indiquée par le nombre d'années que mettent les élèves à compléter la durée  de  chacun  des  cycles  ainsi  que  leur  habileté  à  suivre  avec  succès  l'enseignement  des  classes supérieures est mise en  question par le grand nombre de redoublants et de surâgés : le profil des jeunes issus  de  l'école  fondamentale  semble  encore  très  éloigné  des  attentes  formulées  dans  les  finalités  de l'éducation  énoncées au début de la Réforme éducative et qui servent encore de référence au système.
 
-133. Par ailleurs, l'option démocratique prise par Haïti, la nécessité de revoir les options fondamentales de l'éducation à la lumière de l'insertion d'Haïti dans l'ensemble caraïbéen et latino américain, la perte de valeurs constatée, le déficit de citoyenneté qu'a provoqué la persistance de la crise de société,  les orientations    économiques  à prendre, etc. devraient réalimenter la réflexion sur le rôle que doit jouer l'éducation et sur les efforts à fournir pour que l'école réponde aux aspirations profondes de  toutes les couches  de  la  société  haïtienne.  La  non-prise  en  charge  par  les  curricula  scolaires  de  toutes  les préoccupations  de la vie débattues  dans les médias  et dans le quotidien  par tous les haïtiens (violence, sexualité responsable, spiritualité, prévention de maladie, protection de l'environnement, promotion de la culture nationale, préservation du patrimoine, santé mentale, inclusion des handicapés, inclusion sociale, citoyenneté, justice sociale,  justice, sécurité, valeurs morales, etc.) entraîne chez l'haïtien éduqué, étant donné la faible internalisation  des  valeurs  de  tolérance,  de  règlement  des  divergences  par  le  dialogue, etc., une faible capacité à résoudre certains problèmes fondamentaux. Un tel vide n'est pas de nature à contribuer à mettre Haïti sur la voie de l'épanouissement  auquel aspire sa population.
+133. Par ailleurs, l'option démocratique prise par Haïti, la nécessité de revoir les options fondamentales de l'éducation à la lumière de l'insertion d'Haïti dans l'ensemble caraïbéen et latino américain, la perte de valeurs constatée, le déficit de citoyenneté qu'a provoqué la persistance de la crise de société, les orientations économiques à prendre, etc. devraient réalimenter la réflexion sur le rôle que doit jouer l'éducation et sur les efforts à fournir pour que l'école réponde aux aspirations profondes de toutes les couches de la société haïtienne. La non-prise en charge par les curricula scolaires de toutes les préoccupations de la vie débattues dans les médias et dans le quotidien par tous les haïtiens (violence,
 
 Stratégie Nationale d'Action / EPT
 
@@ -1294,6 +1452,8 @@ Juin  07  41
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
+
+sexualité responsable, spiritualité, prévention de maladie, protection de l'environnement, promotion de la culture nationale, préservation du patrimoine, santé mentale, inclusion des handicapés, inclusion sociale, citoyenneté, justice sociale, justice, sécurité, valeurs morales, etc.) entraîne chez l'haïtien éduqué, étant donné la faible internalisation des valeurs de tolérance, de règlement des divergences par le dialogue, etc., une faible capacité à résoudre certains problèmes fondamentaux. Un tel vide n'est pas de nature à contribuer à mettre Haïti sur la voie de l'épanouissement auquel aspire sa population.
 
 ##### Un faible impact de l'éducation sur le plan de l'insertion sur le marché de l'emploi
 
@@ -1331,7 +1491,7 @@ Ensemble du pays
 
 74.6
 
-Aire metropolit aine
+Aire métropolitaine
 
 9.3
 
@@ -1487,8 +1647,6 @@ Autre urbain
 
 Rural
 
-\
-
 Source : Extrait de IHSI, 2000, p.112
 
 137. Mais la distribution de la population des chômeurs selon le niveau d'études atteint reste inquiétante : « 50% des chômeurs en milieu rural n'ont pas ne sont pas allés à l'école au-delà du cycle primaire alors qu'en milieu urbain - tant dans la capitale que dans les autres villes du système urbain - 60% au moins des chômeurs ont achevé avec succès au moins une année du cycle secondaire ... En deçà du supérieur, l'éducation ne protège pas contre le chômage… Mais la détention du niveau universitaire ne suffit pas à éviter le chômage …» constate l'IHSI (op. cit. : 115-116).
@@ -1515,7 +1673,7 @@ Juin  07  44
 
 ##### Un taux d'analphabétisme élevé chez les 31-55 ans
 
-141.  L'examen  de  la  structuration  de  cette  population  d'analphabètes  laisse  apparaître  les  constats suivants :  (i)    l'existence  d'une  proportion  relativement  importante  des  enfants  d'âge  de  la  scolarité obligatoire  (6-12  ans)  et  dont  le  taux  d'analphabétisme  est  de  37.7  %.  Cette  situation  trouve  son explication  dans  les  abandons  scolaires  précoces  liées  soit  aux  difficultés  d'apprentissage  soit  à  des raisons d'ordre économique ; (ii) l'accroissement du niveau d'analphabétisme à partir de 31 ans : 55.8 % pour les 31-22 ans et 81.8 % pour les 56 ans et plus ; (iii)  les femmes en sont plus affectées que les hommes, 41.1 % contre 35.4 % et surtout à partir de 31 ans (62.5 % pour les 31-55 ans contre 48.5 % chez les hommes) ; la prédominance du phénomène dans les zones rurales, 52.9 % contre 19 % en zone urbaine.
+141. L'examen de la structuration de cette population d'analphabètes laisse apparaître les constats suivants : (i) l'existence d'une proportion relativement importante des enfants d'âge de la scolarité obligatoire (6-12 ans) et dont le taux d'analphabétisme est de 37.7 %. Cette situation trouve son explication dans les abandons scolaires précoces liées soit aux difficultés d'apprentissage soit à des
 
 > 46 La  première  remonte  à  1947  avec  l'expérimentation,  dans  la  Vallée  de  Marbial,  de  méthodes  nouvelles d'alphabétisation décidée par la 1 ère Conférence générale de l'UNESCO
 
@@ -1531,83 +1689,47 @@ Juin  07  45
 
 [[START OF PAGE 58]]
 
-Fig. 6 :  Répartition des analphabètes selon le sexe            Fig. 7: Répartition des analphabètes selon le milieu de résidence
+raisons d'ordre économique ; (ii) l'accroissement du niveau d'analphabétisme à partir de 31 ans : 55.8 % pour les 31-22 ans et 81.8 % pour les 56 ans et plus ; (iii) les femmes en sont plus affectées que les hommes, 41.1 % contre 35.4 % et surtout à partir de 31 ans (62.5 % pour les 31-55 ans contre 48.5 % chez les hommes) ; la prédominance du phénomène dans les zones rurales, 52.9 % contre 19 % en zone urbaine.
 
+Fig. 6 : Répartition des analphabètes selon le sexe
 0
-
 100000
-
 200000
-
 300000
-
 400000
-
 500000
-
 600000
-
 700000
-
 6-12 ans
-
 13-18 ans
-
 19-30
-
 31-55
-
-56 ans et
-
-plus
-
+56 ans et plus
 Hommes
-
 Femmes
+Source : Merisier Rapport préliminaire d'évaluation
+des besoins - Octobre 2006
 
+Fig. 7: Répartition des analphabètes selon le milieu de résidence
 0
-
 100000
-
 200000
-
 300000
-
 400000
-
 500000
-
 600000
-
 700000
-
 800000
-
 900000
-
-6-12
-
-ans
-
-13-18
-
-ans
-
+6-12 ans
+13-18 ans
 19-30
-
 31-55
-
-56 ans
-
-et plus
-
+56 ans et plus
 Urbain
-
 Rural
-
-Source : Merisier Rapport préliminaire d'évaluation                 Source : Merisier Rapport préliminaire d'évaluation des besoins
-
-des besoins - Octobre 2006                                                                Octobre 2006
+Source : Merisier Rapport préliminaire d'évaluation des besoins
+Octobre 2006
 
 142. Les modestes résultats obtenus par les diverses campagnes tiennent à plusieurs facteurs. On peut tout  d'abord  signaler  les  difficultés  d'accès  aux  centres  d'alphabétisation.  Dans  les  zones  rurales  les conditions  d'accès  sont  assez  difficiles  tant  pour  les  apprenants  que  pour  les  moniteurs  et  les superviseurs,  car  les  obstacles  physiques  ne  manquent  pas :  pistes  en  très  mauvais  état  devenant impraticables en cas de crue de la rivière qu'ils empruntent, montagnes aux pentes abruptes etc. Même les matériels didactiques et de formation élaborés par la SEA parviennent difficilement aux apprenants et aux  moniteurs.  Quand  on  ajoute  à  ce  facteur  le  caractère  bénévole  de  la  fonction  de  moniteur  et  de superviseur,  on  ne  peut  s'attendre  qu'à  une  fréquentation  irrégulière  des  centres  et  par  voie  de conséquence à des performances relativement faibles qui ne peuvent maintenir haut et de manière durable le niveau d'alphabétisation.
 
@@ -1689,7 +1811,7 @@ Juin  07  49
 
 ##### Une faible intégration des  missions et attributions de certaines entités par les responsables
 
-158. A part le fait que les missions et attributions de certaines entités ne sont pas toujours clairement définies,  quand  elles  le  sont,  elles  ne  sont  pas  toujours  bien  intégrées  par  les  responsables.  Si  les directions  d'enseignement  (DEF,  BUGEP,  DES  et  DFP)  ont  pour  mission  de  concevoir,  d'élaborer  et d'organiser,  à  l'échelle  nationale,  un  système  de  gestion  et  d'administration  rationnel  de  leur  soussystème respectif, dans quelle mesure ces fonctions sont-elles assumées par les entités concernées? Si, dans une perspective de déconcentration et dans un cadre de micro planification, le Ministère a décidé de déléguer  une  partie  des  pouvoirs  des  directions  de  niveaux  aux  structures  déconcentrées,  savoir les Directions Départementales du MENJS qui sont au nombre de 10 et qui ont pour mandat d'assurer la gestion  locale  de  l'éducation  dans  tous  ses  aspects,  entre  autres  la  supervision  et  l'encadrement  de l'ensemble  des écoles tant publiques que  privées du département  par le biais des inspecteurs départementaux, dans quelle mesure ces fonctions sont-elles assumées par les directions départementales ?
+158. A part le fait que les missions et attributions de certaines entités ne sont pas toujours clairement définies, quand elles le sont, elles ne sont pas toujours bien intégrées par les responsables. Si les directions d'enseignement (DEF, BUGEP, DES et DFP) ont pour mission de concevoir, d'élaborer et d'organiser, à l'échelle nationale, un système de gestion et d'administration rationnel de leur sous-système respectif, dans quelle mesure ces fonctions sont-elles assumées par les entités concernées? Si, dans une perspective de déconcentration et dans un cadre de micro planification, le Ministère a décidé de déléguer une partie des pouvoirs des directions de niveaux aux structures déconcentrées, savoir les Directions Départementales du MENJS qui sont au nombre de 10 et qui ont pour mandat d'assurer la gestion locale de l'éducation dans tous ses aspects, entre autres la supervision et l'encadrement de l'ensemble des écoles tant publiques que privées du département par le biais des inspecteurs départementaux, dans quelle mesure ces fonctions sont-elles assumées par les directions départementales ?
 
 159. En effet si depuis 1991, les Directions d'enseignement ont perdu leur statut de direction exécutive ou gestionnaire au profit des Directions Départementales à l'exception de la DFP qui gère toujours les écoles  Normales d'Instituteurs,  elles  peuvent  être  considérées,  vu  leur  faible  influence  sur  le  système, comme étant encore à la recherche de leur  équilibre  dans  leur  nouveau  rôle  de  direction  technique  et d'appui.
 
@@ -1763,15 +1885,15 @@ Juin  07  53
 
 [[START OF PAGE 66]]
 
-### 4. LE FINANCEMENT DE LÉDUCATION
+### 4. LE FINANCEMENT DE L'ÉDUCATION
 
 172.  Comme il a été rappelé précédemment, l'éducation est un service très  coûteux en Haïti au point d'expliquer 59.1% des cas de non scolarisation des enfants de 6-11 ans et 63.5% des cas d'abandon en 2000. 49 Dans leur étude, Moisset et Merisier (2001), après analyse des résultats des données d'enquêtes avaient déjà affirmé que : « l'éducation en Haïti coûte très cher, particulièrement pour les parents, cela aussi  bien  dans  le  secteur  public  que  dans  le  secteur  privé » 50 .  Dans  ce  pays  où  le  PNB  par  tête  est d'environ 9 000 gourdes, les coûts moyens annuels par élève sont de 3 000 gdes pour le préscolaire, 1 600 gdes pour le fondamental et de 3 070 gdes pour le secondaire. Les données de l'Enquête sur les conditions de vie et des ménages publiées par l'IHSI (2003 : 101) montrent déjà une nette augmentation des dépenses moyennes des ménages par enfant et par an, soit de 2514, 3605, 7224 Gdes respectivement dans le préscolaire, le primaire (1 er et second cycles du fondamental) et le secondaire.
 
 173.  Moisset  et  Mérisier  ont  fait  remarquer  que  les  chiffres  cachent  des  disparités  entre  les  diverses catégories d'appartenance de l'école fréquentée se situant, au préscolaire par exemple, dans un rapport pouvant aller de 1 à plus de 10. Bien entendu, les coûts moyens les plus élevés se rencontrent dans les villes et dans les écoles privées indépendantes (sans néanmoins la garantie de meilleures performances). Les  coûts  moins  élevés  concernent  les  établissements  publics  dans  les  zones  rurales  Au  nombre  des éléments constitutifs des coûts, les salaires des enseignants en sont les principaux. Ils déterminent pour une grande part les  coûts  dans  le  public  car  les  enseignants  y  sont  mieux  traités.  Les  autres  éléments constitutifs  sont,  par  ordre  d'importance  décroissante,  les  frais  de  transport,  les  droits  de  scolarité,  les uniformes et le matériel didactique.
 
-174. On notera que les familles assurent l'essentiel du financement de l'éducation compte tenu du fait que la majorité des établissements du réseau scolaire (92%), ainsi que des effectifs (plus de 80%), sont de statut  non  public.  Mais,  l'Etat  demeure  un  agent  majeur  de  financement,  notamment  dans  le  secteur public à travers les salaires des personnels enseignants et non enseignants dont il assure plus de 90% du financement  selon  Moisset  et  Mérisier  (2001 :  201).  Dans  le  budget  de  l'exercice 2004-2005,  ils représentaient 80% du budget total du MENJS 51 . Mais sur la période 2001-2002 à 2005-2006, le volume du  budget  alloué  au  ministère  de  l'éducation,  y  compris  l'Université  d'Etat  d'Haïti  (UEH),  a  presque doublé entre 2001-2002 à 2005-2006, ce qui traduit sans nul doute l'importance que les pouvoirs publics veulent  accorder  au  développement  de  l'éducation  (tableau  4).  Toutefois,  en  termes  de  pourcentages, c'est, en moyenne, 13.6 % du budget global de la République qui était alloué au ministère de l'éducation, durant la période considérée, ce qui, au demeurant restait encore insuffisant au regard des divers défis à relever 52 .
+174. On notera que les familles assurent l'essentiel du financement de l'éducation compte tenu du fait que la majorité des établissements du réseau scolaire (92%), ainsi que des effectifs (plus de 80%), sont de statut non public. Mais, l'Etat demeure un agent majeur de financement, notamment dans le secteur public à travers les salaires des personnels enseignants et non enseignants dont il assure plus de 90% du financement selon Moisset et Mérisier (2001 : 201). Dans le budget de l'exercice 2004-2005, ils représentaient 80% du budget total du MENJS 51. Mais sur la période 2001-2002 à 2005-2006, le volume du budget alloué au ministère de l'éducation, y compris l'Université d'Etat d'Haïti (UEH), a presque doublé entre 2001-2002 à 2005-2006, ce qui traduit sans nul doute l'importance que les pouvoirs publics veulent accorder au développement de l'éducation (tableau 4). Toutefois, en termes de pourcentages, c'est, en moyenne, 13.6 % du budget global de la République qui était alloué au ministère de l'éducation,
 
-> 49 Voir  IHSI.  2005. Enquête sur les conditions de vie des ménages en Haïti (ECVM-2001). Volume II. Port-auPrince : Ministère de l'Économie et des Finances. p. 145-146.
+> 49 Voir IHSI. 2005. Enquête sur les conditions de vie des ménages en Haïti (ECVM-2001). Volume II. Port-au-Prince : Ministère de l'Économie et des Finances. p. 145-146.
 
 > 50 Moisset et Mérisier (juin 2001).ibid. p. 115
 
@@ -1785,28 +1907,32 @@ Juin  07  54
 
 [[START OF PAGE 67]]
 
-2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Montant | % | Montant | % | Montant | % | Montant | % | Montant | %
-Toutes | 13,278,432,336 | 15,333,250,787 | 18,853,450,000 | 21,493,200,000 | 36,523,661,643
-Secteur social (2) | 4,014,091,296 | 30% | 2,781,687,745 | 18% | 2,666,769,332 | 14% | 4,109,135,600 | 19% | 5,506,347,891 | 15%
-MENJS et UEH (3) | 2,215,250,073 | 17% | 1,990,079,342 | 13% | 2,006,912,784 | 11% | 3,315,091,000 | 15% | 4,323,128,203 | 12%
-UEH (4) | 177,405,596 | 1% | 250,000,000 | 2% | 184,578,736 | 1% | 277,345,000 | 1% | 327,345,000 | 1%
+durant la période considérée, ce qui, au demeurant restait encore insuffisant au regard des divers défis à relever52.
 
-Tableau 4 Evolution des dotations budgétaires globales nationales en gourdes courantes pour le secteur de l'éducation de 2001-2002 à 2005-2006.
+Tableau 4
+Evolution des dotations budgétaires globales nationales en gourdes courantes pour le secteur de l'éducation de 2001-2002 à 2005-2006.
+
+| | 2001-2002 | | 2002-2003 | | 2003-2004 | | 2004-2005 | | 2005-2006 | |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| | Montant | % | Montant | % | Montant | % | Montant | % | Montant | % |
+| Toutes institutions (1) | 13,278,432,336 | | 15,333,250,787 | | 18,853,450,000 | | 21,493,200,000 | | 36,523,661,643 | |
+| Secteur social (2) | 4,014,091,296 | 30% | 2,781,687,745 | 18% | 2,666,769,332 | 14% | 4,109,135,600 | 19% | 5,506,347,891 | 15% |
+| MENJS et UEH (3) | 2,215,250,073 | 17% | 1,990,079,342 | 13% | 2,006,912,784 | 11% | 3,315,091,000 | 15% | 4,323,128,203 | 12% |
+| UEH (4) | 177,405,596 | 1% | 250,000,000 | 2% | 184,578,736 | 1% | 277,345,000 | 1% | 327,345,000 | 1% |
 
 Source : Le Moniteur, numéros spéciaux
 
 175.  Par  ailleurs,  comme  le  montre  le  tableau  5  ci-après,  on  constate  que  sur  la  même  période,  en moyenne 85 % des ressources budgétaires du Ministère de l'éducation sont consacrés au fonctionnement. Les charges d'investissement sont en grande partie assurées par la communauté des bailleurs de fonds bi et multilatéraux, sous forme de prêt, de subventions ou d'appuis budgétaires.
 
-2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Montant | % | Montant | % | Montant | % | Montant | % | Montant | %
-Fonctionnement | 1,348,540,437 | 64% | 1,380,140,720 | 79% | 1,734,328,669 | 100 | 3,037,746,000 | 100 | 3,345,783,203 | 82%
-Investissement | 752,204,040 | 36% | 375,938,622 | 21% | 0 | 0 | 0 | 0 | 750,000,000 | 18%
-Total | 2,100,744,477 | 1,756,079,342 | 1,734,328,669 | 3,037,746,000 | 4,095,783,203
+Tableau 5
+Répartition du budget du ministère de l'éducation, y compris l'UEH, DE 2001-2002 à 2005-2006
 
-T ableau 5 Répartition du budget du ministère de l'éducation, y compris l'UEH, DE 2001-2002 à 2005-2006
+| | 2001-2002 | | 2002-2003 | | 2003-2004 | | 2004-2005 | | 2005-2006 | |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| | Montant | % | Montant | % | Montant | % | Montant | % | Montant | % |
+| Fonctionnement | 1,348,540,437 | 64% | 1,380,140,720 | 79% | 1,734,328,669 | 100 | 3,037,746,000 | 100 | 3,345,783,203 | 82% |
+| Investissement | 752,204,040 | 36% | 375,938,622 | 21% | 0 | 0 | 0 | 0 | 750,000,000 | 18% |
+| Total | 2,100,744,477 | | 1,756,079,342 | | 1,734,328,669 | | 3,037,746,000 | | 4,095,783,203 | |
 
 Source : Le Moniteur, numéros spéciaux
 
@@ -1824,16 +1950,17 @@ Juin  07  55
 
 [[START OF PAGE 68]]
 
-Axe d'Intervention | Total des engagements | % | Total des décaissements | % | Décaissement (% des Engagements)
---- | --- | --- | --- | --- | ---
-Gouvernance | 15 917 725,00 | 18,47% | 6 581 058,78 | 29,80% | 41,34%
-Qualité | 29 949 969,59 | 34,75% | 8 894 089,75 | 40,28% | 29,70%
-Accès | 35 391 617,27 | 41,06% | 6 607 738,61 | 29,92% | 18,67%
-Efficacité externe | 4 886 265,00 | 5,67% | 0 | 0,00% | 0,00%
-Jeunesse, Sports et Éducation Civ. | 50 000,00 | 0,06% | 0 | 0,00% | 0,00%
-Totaux | 86 195 576,86 | 100,00% | 22 082 887,14 | 100,00% | 25,62%
+Tableau 6
+Etat des engagements et des décaissements des bailleurs entre juillet 2004 et décembre 2005
 
-Tableau 6 Etat des engagements et des décaissements des bailleurs entre juillet 2004 et décembre 2005
+| Axe d'Intervention | Total des engagements | % | Total des décaissements | % | Décaissement (% des Engagements) |
+|---|---:|---:|---:|---:|---:|
+| Gouvernance | 15 917 725,00 | 18,47% | 6 581 058,78 | 29,80% | 41,34% |
+| Qualité | 29 949 969,59 | 34,75% | 8 894 089,75 | 40,28% | 29,70% |
+| Accès | 35 391 617,27 | 41,06% | 6 607 738,61 | 29,92% | 18,67% |
+| Efficacité externe | 4 886 265,00 | 5,67% | 0 | 0,00% | 0,00% |
+| Jeunesse, Sports et Éducation Civ. | 50 000,00 | 0,06% | 0 | 0,00% | 0,00% |
+| Totaux | 86 195 576,86 | 100,00% | 22 082 887,14 | 100,00% | 25,62% |
 
 Source : Bilan des financements et des réalisations - Période : juin 2004-decembre 2005 ; mars 2006
 
@@ -1847,22 +1974,23 @@ Juin  07  56
 
 [[START OF PAGE 69]]
 
-Composante | Apport des bailleurs au titre du CCI et d'autres projets de Coopération | Total | % de la Composante
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-UE/PARQE | BID/PEB | ACDI | USAID | UNESCO | BM | OIM/UNICEF | UNICEF
-1a. Construction d'écoles ou salles de classe | 1 696 000 | 405 146 | 162 066 | 2 263 212 | 8,49%
-1b. Réhabilitation d'écoles ou de salles de classes | 1 780 000 | 1 854 800 | 405 146 | 900 000 | 4 939 946 | 18,54%
-2. Acquisition et distribution de mobilier scolaire | 405 146 | 10 000 | 365 360 | 64 359 | 844 865 | 3,17%
-3. Support a la scolarité (Frais scol.(2), manuels, kits et uniformes) | 2 142 857 | 810 292 | 5 840 000 | 333 386 | 9 126 535 | 34,25%
-4. Cantine scolaire (1) | 1 458 526 | 4 900 000 | 1 089 000 | 7 447 526 | 27,95%
-5a. Distribution de documents administratifs dans les écoles | 810 292 | 810 292 | 3,04%
-5b. Distribution de Programmes pédagogiques dans les écoles | 0 | 0,00%
-6. Paiement d'arriérés de salaires des contractuels du fond. | 1 053 380 | 1 053 380 | 3,95%
-Logistique & Frais de gestion | 162 058 | 162 058 | 0,61%
-Total | 3 922 857 | 3 550 800 | 5 509 988 | 10 740 000 | 10 000 | 1 089 000 | 698 746 | 1 126 424 | 26 647 816 | 100,00%
-Poids des contributions (% enveloppe globale) | 14,72% | 13,32% | 20,68% | 40,30% | 0,04% | 4,09% | 2,62% | 4,23% | 100,00%
+Tableau 7
+Engagements des bailleurs au titre de l'année scolaire 2005-2006 (en US$) par composante
 
-Tableau 7 Engagements des bailleurs au titre de l'année scolaire 2005-2006 (en US$) par composante
+| Composante | Apport des bailleurs au titre du CCI et d'autres projets de Coopération | | | | | | | | Total | % de la Composante |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| | UE/PARQE | BID/PEB | ACDI | USAID | UNESCO | BM | OIM/UNICEF | UNICEF | | |
+| 1a. Construction d'écoles ou salles de classe | | 1 696 000 | 405 146 | | | | | 162 066 | 2 263 212 | 8,49% |
+| 1b. Réhabilitation d'écoles ou de salles de classes | 1 780 000 | 1 854 800 | 405 146 | | | | | 900 000 | 4 939 946 | 18,54% |
+| 2. Acquisition et distribution de mobilier scolaire | | | 405 146 | | 10 000 | | 365 360 | 64 359 | 844 865 | 3,17% |
+| 3. Support a la scolarité (Frais scol.(2), manuels, kits et uniformes) | 2 142 857 | | 810 292 | 5 840 000 | | | 333 386 | | 9 126 535 | 34,25% |
+| 4. Cantine scolaire (1) | | | 1 458 526 | 4 900 000 | | 1 089 000 | | | 7 447 526 | 27,95% |
+| 5a. Distribution de documents administratifs dans les écoles | | | 810 292 | | | | | | 810 292 | 3,04% |
+| 5b. Distribution de Programmes pédagogiques dans les écoles | | | | | | | | | 0 | 0,00% |
+| 6. Paiement d'arriérés de salaires des contractuels du fond. | | | 1 053 380 | | | | | | 1 053 380 | 3,95% |
+| Logistique & Frais de gestion | | | 162 058 | | | | | | 162 058 | 0,61% |
+| Total | 3 922 857 | 3 550 800 | 5 509 988 | 10 740 000 | 10 000 | 1 089 000 | 698 746 | 1 126 424 | 26 647 816 | 100,00% |
+| Poids des contributions (% enveloppe globale) | 14,72% | 13,32% | 20,68% | 40,30% | 0,04% | 4,09% | 2,62% | 4,23% | 100,00% | |
 
 Source : Bilan des financements et des réalisations - Période : juin 2004-decembre 2005 ; mars 2006
 
@@ -1922,19 +2050,19 @@ Améliorer sous tous ses aspects la qualité de l'éducation dans un souci d'exc
 
 183.  L'ensemble  des  stratégies  proposées  à  Dakar  montre  la  nécessité  d'une  approche  diversifiée  qui  ne  se limite pas au «cadre des systèmes formels d'éducation» à savoir :
 
-- Susciter, au niveau national et international, un puissant engagement politique en faveur de l'éducation pour tous, définir des plans d'action nationaux et augmenter sensiblement l'investissement dans l'éducation de base.
+1. Susciter, au niveau national et international, un puissant engagement politique en faveur de l'éducation pour tous, définir des plans d'action nationaux et augmenter sensiblement l'investissement dans l'éducation de base.
 
-- Promouvoir  des  politiques  d'EPT  dans  le  cadre  d'une  action  sectorielle  durable  et  bien  intégrée, clairement articulée avec les stratégies d'élimination de la pauvreté et de développement.
+2. Promouvoir des politiques d'EPT dans le cadre d'une action sectorielle durable et bien intégrée, clairement articulée avec les stratégies d'élimination de la pauvreté et de développement.
 
-- Faire  en  sorte  que  la  société  civile  s'investisse  activement  dans  l'élaboration,  la  mise  en  œuvre  et  le suivi de stratégies de développement de l'éducation.
+3. Faire en sorte que la société civile s'investisse activement dans l'élaboration, la mise en œuvre et le suivi de stratégies de développement de l'éducation.
 
-- Mettre  en  place  des  systèmes  de  gestion  et  de  gouvernance  éducatives  réactifs,  participatifs  et responsables.
+4. Mettre en place des systèmes de gestion et de gouvernance éducatives réactifs, participatifs et responsables.
 
-- Répondre  aux  besoins  des  systèmes  éducatifs  touchés  par  les  conflits,  les  catastrophes  naturelles  et l'instabilité  et  conduire  des  programmes  d'éducation  qui  soient  de  nature  à  promouvoir  la  compréhension mutuelle, la paix et la tolérance et à contribuer à prévenir les violences et les conflits.
+5. Répondre aux besoins des systèmes éducatifs touchés par les conflits, les catastrophes naturelles et l'instabilité et conduire des programmes d'éducation qui soient de nature à promouvoir la compréhension mutuelle, la paix et la tolérance et à contribuer à prévenir les violences et les conflits.
 
-- Mettre en œuvre des stratégies intégrées pour l'égalité des sexes dans l'éducation, qui reconnaissent la nécessité d'une évolution des attitudes, des valeurs et des pratiques.
+6. Mettre en œuvre des stratégies intégrées pour l'égalité des sexes dans l'éducation, qui reconnaissent la nécessité d'une évolution des attitudes, des valeurs et des pratiques.
 
-- Mettre en œuvre d'urgence des activités et des programmes d'éducation pour lutter contre la pandémie de VIH/sida.
+7. Mettre en œuvre d'urgence des activités et des programmes d'éducation pour lutter contre la pandémie de VIH/sida.
 
 Stratégie Nationale d'Action / EPT
 
@@ -1946,7 +2074,7 @@ Juin 07
 
 [[START OF PAGE 73]]
 
-- Créer  un  environnement  éducatif  sain  et  sûr  qui  favorise  un  apprentissage  efficace,  notamment  en fournissant des matériels didactiques de qualité qui permettront à tous les apprenants d'atteindre et de dépasser des niveaux d'acquisition bien définis.
+8. Créer un environnement éducatif sain et sûr qui favorise un apprentissage efficace, notamment en fournissant des matériels didactiques de qualité qui permettront à tous les apprenants d'atteindre et de dépasser des niveaux d'acquisition bien définis.
 
 9. Améliorer le statut, le moral et le professionnalisme des enseignants.
 
@@ -1968,7 +2096,7 @@ Juin 07
 
 #### 2.1. PREMIER CHOIX STRATÉGIQUE : PROMOUVOIR UNE PLUS GRANDE ÉQUITÉ DANS LE DÉVELOPPEMENT ET LA PROTECTION DE LA PETITE ENFANCE
 
-184.  La  situation  de  la  petite  enfance  haïtienne  est  tributaire  d'un  certain  nombre  de  facteurs  historiques, sociologiques et économiques qui sont autant d'obstacles au respect de ses droits les plus élémentaires tels le droit à une identité, à une famille etc. De plus, ce sont les enfants qui payent le plus lourd tribut de toutes ces crises sociopolitiques que le pays vit de façon récurrente depuis deux décennies. Tenant compte du fait que la construction d'une société solidaire et ouverte au dialogue prend racine dès le plus bas âge, la stratégie nationale d'action pour l'Education pour tous, en vue de réaliser l'objectif 1 du Cadre d'Action de Daka r, oeuvrera pour un développement équitable de la petite enfance de manière à ce que, le petit enfant issu d'une famille à faibles revenus résidant en milieu rural ait les  mêmes chances que son camarade issu d'une famille à hauts revenus résidant en milieu urbain au plan de l'éducation, de la santé/nutrition et de la protection juridique et sociale. La priorité sera accordée dans cette démarche aux départements où la pauvreté est la plus perceptible au regard de la Carte de pauvreté.
+184. La situation de la petite enfance haïtienne est tributaire d'un certain nombre de facteurs historiques, sociologiques et économiques qui sont autant d'obstacles au respect de ses droits les plus élémentaires tels le droit à une identité, à une famille etc. De plus, ce sont les enfants qui payent le plus lourd tribut de toutes ces crises sociopolitiques que le pays vit de façon récurrente depuis deux décennies. Tenant compte du fait que la construction d'une société solidaire et ouverte au dialogue prend racine dès le plus bas âge, la stratégie nationale d'action pour l'Education pour tous, en vue de réaliser l'objectif 1 du Cadre d'Action de Dakar, oeuvrera pour un développement équitable de la petite enfance de manière à ce que, le petit enfant issu d'une famille à faibles revenus résidant en milieu rural ait les mêmes chances que son camarade issu d'une famille à hauts revenus résidant en milieu urbain au plan de l'éducation, de la santé/nutrition et de la protection juridique et sociale. La priorité sera accordée dans cette démarche aux départements où la pauvreté est la plus perceptible au regard de la Carte de pauvreté.
 
 185.  3  objectifs  stratégiques  se  rattachent à  ce  premier  choix  stratégique  et  un  certain  nombre  d'actions stratégiques se trouvent associées à la réalisation de chaque objectif stratégique
 
@@ -1976,13 +2104,13 @@ Juin 07
 
 ###### Résultats attendus
 
-- Le taux net de fréquentation au préscolaire est passé de 56,37% à 75% en 2015.
+a) Le taux net de fréquentation au préscolaire est passé de 56,37% à 75% en 2015.
 
-- les centres d'éducation préscolaire sont équipés de matériels didactiques adéquats
+b) les centres d'éducation préscolaire sont équipés de matériels didactiques adéquats
 
-- les programmes d'éducation centrés sur le développement intégral de l'enfant sont révisés et largement diffusés ;
+c) les programmes d'éducation centrés sur le développement intégral de l'enfant sont révisés et largement diffusés ;
 
-- Les conditions d'encadrement de l'éducation préscolaire sont améliorées
+d) Les conditions d'encadrement de l'éducation préscolaire sont améliorées
 
 ###### Actions et stratégies
 
@@ -1990,13 +2118,14 @@ Juin 07
 
 ###### Stratégie de mise en œuvre :
 
-186. La  stratégie envisagée passe par la réhabilitation, la construction et l'équipement de structures d'encadrement  préscolaire,  notamment  de  structures  publiques  d'éducation  préscolaire  Le  nombre  de  places assises dans les structures publiques est augmenté de 35% d'ici à 2015. Les salles devraient être adaptées au besoin des handicapés.
+186. La stratégie envisagée passe par la réhabilitation, la construction et l'équipement de structures d'encadrement préscolaire, notamment de structures publiques d'éducation préscolaire Le nombre de places
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
+assises dans les structures publiques est augmenté de 35% d'ici à 2015. Les salles devraient être adaptées au besoin des handicapés.
 
-187.  Au  profit  des  sections  communales,  et  particulièrement  des  zones  très  reculées  et  non  pourvues  de structures d'encadrement préscolaire, l'approche définie vise à intégrer dans un même environnement les centres d'éducation  préscolaire  et  les  structures  de  l'enseignement  fondamental,  dans  le  cadre  de  la  mise  en  place d'écoles fondamentales de premier cycle assorties de structures préscolaires (ref : Deuxième choix stratégique : promouvoir une plus grande équité dans l'accès à l'éducation formelle et non formelle / Objectif stratégique 1 : Accroître la couverture de l'éducation de base formelle et non formelle / Action 1 : Augmentation/amélioration de l'offre publique d'éducation dans les zones rurales).
+187. Au profit des sections communales, et particulièrement des zones très reculées et non pourvues de structures d'encadrement préscolaire, l'approche définie vise à intégrer dans un même environnement les centres d'éducation préscolaire et les structures de l'enseignement fondamental, dans le cadre de la mise en place d'écoles fondamentales de premier cycle assorties de structures préscolaires (ref : Deuxième choix stratégique : promouvoir une plus grande équité dans l'accès à l'éducation formelle et non formelle / Objectif stratégique 1 : Accroître la couverture de l'éducation de base formelle et non formelle / Action 1 : Augmentation/amélioration de l'offre publique d'éducation dans les zones rurales).
 
 188. La stimulation de l'offre privée d'éducation préscolaire est également envisagée par un appui, en termes de prise  en  charge  des  frais  scolaires,  au  bénéfice  des  familles  nécessiteuses.  L'aménagement  et  l'équipement d'espaces pour le préscolaire non formel sont fortement encouragés.
 
@@ -2117,7 +2246,7 @@ Objectifs stratégiques | Résultats attendus | Actions
 2.Améliorer l'état de santé nutrition des 0-5ans | 1. 20% des enfants de 0-5 ans au moins accèdent à une meilleure couverture sanitaire 2. L'état nutritionnel des enfants nécessiteux est renforcé par une alimentation saine et équilibrée | 1. Amélioration de l'état sanitaire de la petite enfance 2. Amélioration de l'état nutritionnel de la petite enfance
 3.Renforcer la protection juridique et sociale de la petite enfance | 1. Les droits de tous les enfants, sans discrimination aucune sont connus et respectés à tous les niveaux de la société 2. Les facteurs socioculturels de violation des droits de l'enfant sont éliminés progressivement de l'environnement social et culturel 3. Les enfants bénéficient d'une meilleure assistance sociale | 1. Révision et large diffusion de la législation en la matière 2. Élaboration d'un référentiel sur la petite enfance 3. Mise en place de bureaux d'état civil dans toutes les sections communales et d'une structure de concertation interministérielle pour la promotion et le respect des droits de l'enfant 4. Amélioration des capacités d'intervention des structures de protection sociale et d'assistance à la petite enfance
 
-6
+67
 
 [[END OF PAGE 79]]
 
@@ -2147,13 +2276,15 @@ Objectifs stratégiques | Résultats attendus | Actions
 ###### Stratégie de mise en oeuvre :
 mise en place d'écoles fondamentales de premier cycle en réseau avec des écoles fondamentales complètes existantes.
 
-204. Une des principales caractéristiques du secteur éducatif haïtien est la prédominance du secteur non public dont on sait, surtout pour ce qui concerne le sous-secteur à but lucratif, que les zones privilégiées d'intervention sont celles où le souci d'offrir un service social de base va de pair avec la rentabilité financière. L'analyse de la problématique de l'accès révèle une certaine disparité dans la distribution géographique des écoles de telle sorte que  l'offre  publique  d'éducation  n'existe  pas  dans  plusieurs  sections  communales.  Ceci  est  dû  à  une combinaison  de  facteurs  dont  les  plus  importants  sont :  i)  les  limitations  budgétaires  du  MENFP ;  ii)  la dispersion de l'habitat en milieu rural;  iii) le relief très accidenté du pays ; iv) les faibles effectifs scolaires de certaines  localités  ne  nécessitant  pas  la  construction  d'une  école.  Il  en  résulte  l'éloignement  des  écoles  par rapport aux habitations, obligeant ainsi les élèves à parcourir plusieurs kilomètres de route pour s'y rendre. Cette situation contraint souvent les parents à garder beaucoup plus longtemps les enfants d'âge scolaire (souvent 6-12 ans)  à  la  maison,  éloignés  des  salles    de  classe,  attendant  qu'ils  deviennent  plus  âgés  et  qu'ils  possèdent l'énergie nécessaire pour parcourir tous les jours une longue distance.
+204. Une des principales caractéristiques du secteur éducatif haïtien est la prédominance du secteur non public dont on sait, surtout pour ce qui concerne le sous-secteur à but lucratif, que les zones privilégiées d'intervention
 
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
 
-205.  Dans  le  but  d'apporter  une  réponse  appropriée  à  ce  problème,  le  Gouvernement  entend  intervenir  en mettant  en  place  exceptionnellement  des  écoles  fondamentales  de  premier  cycle  assorties  de  structures préscolaires,  comportant  trois  (3)  salles  de  classes,  une  salle  pour  le  préscolaire,  et  pour  l'enseignement fondamental, une (1) salle pour les 1 ère et 2 ème années, une (1) autre pour les 3 ème et 4 ème années. Pour ce qui est de  leur  fonctionnement,  ces  écoles  seront  astreintes  aux  mêmes  normes  et  règles  appliquées  aux  écoles comportant les deux ou les trois cycles du fondamental. Elles seront associées à des réseaux ou à des sousréseaux d'écoles des EFACAP. Elles seront soumises à un mode de gestion partenariale entre les 3 enseignants de l'école (la monitrice du préscolaire, les deux enseignants du fondamental dont l'un fera office de directeur de l'école)  et  le  comité  de  gestion  de  l'école.  Au  plan  pédagogique,  elles  développeront  le  système  des  classes multigrades tant pour le préscolaire que pour le fondamental. Les élèves qui  fréquentent ces  écoles pourront retrouver  plus  tard,  après  leur  4 ème année,  une  école  fondamentale  complète  un  peu  éloignée  de  leur  lieu  de résidence  pour  compléter  le  2 ème cycle  du  fondamental,  suivant  une  formule  préalablement  établie  par  le ministère.
+sont celles où le souci d'offrir un service social de base va de pair avec la rentabilité financière. L'analyse de la problématique de l'accès révèle une certaine disparité dans la distribution géographique des écoles de telle sorte que l'offre publique d'éducation n'existe pas dans plusieurs sections communales. Ceci est dû à une combinaison de facteurs dont les plus importants sont : i) les limitations budgétaires du MENFP ; ii) la dispersion de l'habitat en milieu rural; iii) le relief très accidenté du pays ; iv) les faibles effectifs scolaires de certaines localités ne nécessitant pas la construction d'une école. Il en résulte l'éloignement des écoles par rapport aux habitations, obligeant ainsi les élèves à parcourir plusieurs kilomètres de route pour s'y rendre. Cette situation contraint souvent les parents à garder beaucoup plus longtemps les enfants d'âge scolaire (souvent 6-12 ans) à la maison, éloignés des salles de classe, attendant qu'ils deviennent plus âgés et qu'ils possèdent l'énergie nécessaire pour parcourir tous les jours une longue distance.
+
+205. Dans le but d'apporter une réponse appropriée à ce problème, le Gouvernement entend intervenir en mettant en place exceptionnellement des écoles fondamentales de premier cycle assorties de structures préscolaires, comportant trois (3) salles de classes, une salle pour le préscolaire, et pour l'enseignement fondamental, une (1) salle pour les 1ère et 2ème années, une (1) autre pour les 3ème et 4ème années. Pour ce qui est de leur fonctionnement, ces écoles seront astreintes aux mêmes normes et règles appliquées aux écoles comportant les deux ou les trois cycles du fondamental. Elles seront associées à des réseaux ou à des sous–réseaux d'écoles des EFACAP. Elles seront soumises à un mode de gestion partenariale entre les 3 enseignants de l'école (la monitrice du préscolaire, les deux enseignants du fondamental dont l'un fera office de directeur de l'école) et le comité de gestion de l'école. Au plan pédagogique, elles développeront le système des classes multigrades tant pour le préscolaire que pour le fondamental. Les élèves qui fréquentent ces écoles pourront retrouver plus tard, après leur 4ème année, une école fondamentale complète un peu éloignée de leur lieu de résidence pour compléter le 2ème cycle du fondamental, suivant une formule préalablement établie par le ministère.
 
 206. Ces écoles de premier cycle, sur la base de la proximité géographique ou en fonction des données de la future Carte scolaire, devront en effet être associées formellement à d'autres écoles fondamentales existantes de 2 ou 3 cycles, de manière à former des « grappes » de 5 à 7 écoles susceptibles de se transformer plus tard en réseaux d'écoles selon la nouvelle organisation pédagogique (EFACAP) prônée par le MENFP.  La formation des grappes présente un double avantage : elle permettra i) d'initier une démarche de qualité dans ces écoles par la  valorisation  du  concept  d'équipe-école  et  l'institutionnalisation  de  la  formation  continue  des  maîtres ;  ii) d'associer  les  écoles  de  premier  cycle  à  des  écoles  fondamentales  complètes  (de  deux  ou  de  trois  cycles) destinées à accueillir dans le futur, et suivant un mécanisme automatique, les élèves provenant des écoles de premier  cycle  de  telle  sorte  que  l'inscription  de  ces  derniers  dans  une  école  complète  pourra  être  prévue  et garantie dès leur première année de fréquentation scolaire.
 
@@ -2181,7 +2312,7 @@ Juin 07
 
 ###### Stratégie de mise en œuvre : extension du système de la double vacation
 
-210. La demande scolaire s'exprime de manière forte en milieu urbain, dans la zone métropolitaine notamment, et on devrait s'attendre à ce qu'elle augmente sous l'effet conjugué de l'urbanisation, en plein essor dans le pays et de l'accroissement de la population scolarisable dont le taux d'accroissement se situe à 2.6 %. De ce fait, le recours  à  la  double  vacation  se  présente  déjà,  dans  certains  urbains,  comme  une  solution  alternative,  dans certaines  écoles,  14  %  selon  le  dernier  recensement  scolaire,  pour  répondre  à  demande  d'éducation.  Compte tenu, des difficultés objectives à construire de nouvelles salles de classes pour accueillir les élèves, notamment dans les villes,  le gouvernement va privilégier cette approche en l'étendant à davantage d'écoles. Le nombre de celles-ci devrait être d'environ 4 025, soit 25.7 % du réseau scolaire actuel, à l'horizon 2011. Cette proportion devrait  passer  à  35  %  en  2015.  L'approche  visera  prioritairement  les  écoles  localisées  dans  les  villes  et réunissant les conditions nécessaires, plutôt que celles des zones rurales pour les raisons évidentes suivantes : : i) l'éloignement des écoles par rapport aux lieux d'habitation ; ii) la tombée très tôt de la nuit en certaines périodes de l'année ; du fait de l'éloignement des écoles, les élèves rentreraient à  la maison fort tard dans la nuit ; iii) dans  certaines  régions  du  pays,  les  élèves  doivent  traverser  des  rivières  pour  se  rendre  à  l'école ;  en  saison pluvieuse, le retour à la maison peut s'avérer problématique ; iv) les familles des campagnes ont pris l'habitude d'occuper les enfants le soir, après le retour  de l'école ; ces derniers participent à la vie économique de leur famille pour laquelle des responsabilités leur sont confiées (le jardinage, la préparation de la nourriture, la garde d'enfants plus petits, les courses au marché, la vente des produits du jardin, la lessive, la  conduite du bétail à la rivière,  etc.).  Elle  sera  bien  entendu  assortie  de  mesures  d'accompagnement  à  savoir,  des  campagnes  de sensibilisation  en  l'endroit  des  partenaires  sociaux  en  éducation  (parents,  enseignants,  responsables  des collectivités  etc.)  et  la  formation  des  enseignants  à  la  gestion  des  classes  à  double  vacation.  Des  mesures incitatrices seront également prises à l'endroit de ces derniers.
+210. La demande scolaire s'exprime de manière forte en milieu urbain, dans la zone métropolitaine notamment, et on devrait s'attendre à ce qu'elle augmente sous l'effet conjugué de l'urbanisation, en plein essor dans le pays et de l'accroissement de la population scolarisable dont le taux d'accroissement se situe à 2.6 %. De ce fait, le recours à la double vacation se présente déjà, dans certains urbains, comme une solution alternative, dans certaines écoles, 14 % selon le dernier recensement scolaire, pour répondre à demande d'éducation. Compte tenu, des difficultés objectives à construire de nouvelles salles de classes pour accueillir les élèves, notamment dans les villes, le gouvernement va privilégier cette approche en l'étendant à davantage d'écoles. Le nombre de celles-ci devrait être d'environ 4 025, soit 25.7 % du réseau scolaire actuel, à l'horizon 2011. Cette proportion
 
 Stratégie Nationale d'Action / EPT
 
@@ -2192,6 +2323,8 @@ Juin 07
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
+
+devrait passer à 35 % en 2015. L'approche visera prioritairement les écoles localisées dans les villes et réunissant les conditions nécessaires, plutôt que celles des zones rurales pour les raisons évidentes suivantes : : i) l'éloignement des écoles par rapport aux lieux d'habitation ; ii) la tombée très tôt de la nuit en certaines périodes de l'année ; du fait de l'éloignement des écoles, les élèves rentreraient à la maison fort tard dans la nuit ; iii) dans certaines régions du pays, les élèves doivent traverser des rivières pour se rendre à l'école ; en saison pluvieuse, le retour à la maison peut s'avérer problématique ; iv) les familles des campagnes ont pris l'habitude d'occuper les enfants le soir, après le retour de l'école ; ces derniers participent à la vie économique de leur famille pour laquelle des responsabilités leur sont confiées (le jardinage, la préparation de la nourriture, la garde d'enfants plus petits, les courses au marché, la vente des produits du jardin, la lessive, la conduite du bétail à la rivière, etc.). Elle sera bien entendu assortie de mesures d'accompagnement à savoir, des campagnes de sensibilisation en l'endroit des partenaires sociaux en éducation (parents, enseignants, responsables des collectivités etc.) et la formation des enseignants à la gestion des classes à double vacation. Des mesures incitatrices seront également prises à l'endroit de ces derniers.
 
 ###### Action 4 : généralisation de l'alphabétisation de base
 
@@ -2255,7 +2388,7 @@ Les effectifs de l'enseignement fondamental ne comptent plus d'élèves surâgé
 
 218. Les projections de la DPCE pour l'année académique 2006-2007 font état d'un pourcentage de 72% de surâgés  dans  les  effectifs  des  1 er et  2 ème cycles  du  fondamental  (première  à  la  sixième  année).  La  stratégie d'intervention  qui sera mise en œuvre consistera à :
 
-1) Rendre l'offre des programmes d'études accélérés disponibles à travers des classes multigrades. La mise en  place  se  fera  de  la  manière  suivante  i)  1000  écoles  en  l'année  2008-2009  dont  2  classes  multigrades par école;  ii)  2500  écoles  en  l'année  2009-2010    y  compris  les  mille  de  l'année  précédente ;  5000  écoles  en l'année 2010-2011 y compris les 2500 de l'année précédente ; 10000 écoles en l'année 2011-2012 y compris les 5000 de l'année précédente.  Au moins quatre cent cinquante mille (450000) élèves surâgés seront accueillis dans des  programmes accélérés d'études dans des classes multigrades pour un ratio de trente cinq (35) élèves par maître.
+1) Rendre l'offre des programmes d'études accélérés disponibles à travers des classes multigrades. La mise en place se fera de la manière suivante i) 1000 écoles en l'année 2008-2009 dont 2 classes multigrades par école; ii) 2500 écoles en l'année 2009-2010 y compris les mille de l'année précédente ; 5000 écoles en l'année 2010-2011 y compris les 2500 de l'année précédente ; 10000 écoles en l'année 2011-2012 y compris les 5000 de l'année précédente. Au moins quatre cent cinquante mille (450000) élèves surâgés seront accueillis
 
 Stratégie Nationale d'Action / EPT
 
@@ -2267,7 +2400,9 @@ Juin 07
 
 [[START OF PAGE 86]]
 
-2) Mettre en place, parallèlement aux programmes accélérés d'études académiques un programme d'initiation professionnelle  à  l'intention  des  surâgés  de  15  ans  et  plus.  Ce  programme  de  formation  professionnelle  sera coordonné au niveau national par l'INFP.
+dans des programmes accélérés d'études dans des classes multigrades pour un ratio de trente cinq (35) élèves par maître.
+
+2) Mettre en place, parallèlement aux programmes accélérés d'études académiques un programme d'initiation professionnelle à l'intention des surâgés de 15 ans et plus. Ce programme de formation professionnelle sera coordonné au niveau national par l'INFP.
 
 3)  Mettre  en  application,    à  partir  de  septembre  2008  dans  les  1000  écoles  offrant  le  programme    accéléré d'études à travers des classes multigrades, des mesures de régulation des flux scolaires, notamment le respect de l'âge prescrit par le MENFP d'inscription en 1 ère année. Ces mesures de gestion de flux scolaires s'étendront au fur  et  à  mesure  à  toutes  les  autres  écoles  appliquant  le  programme  accéléré  d'études.  En  2012-2013,  elles s'étendront à toutes les écoles fondamentales (1 er et 2 ème cycles) du pays.
 
@@ -2305,7 +2440,7 @@ Juin 07
 
 Dans le but de faciliter une meilleure compréhension du phénomène des surâgés par les acteurs et usagers du système éducatif et ses conséquences sur l'accès et la qualité de l'éducation, une campagne d'information et de sensibilisation sera menée, dans un premier temps par la DEF et la DCQ, auprès des agents d'encadrement et de démultiplication (inspecteurs, conseillers pédagogiques, cadres des DDE, ….) au cours du troisième trimestre de l'année  académique  2006-2007,  pour  améliorer  leurs  connaissances  de  la  problématique  des  surâgés.  A  leur tour,  ils  démultiplieront,  au  cours  de  ce  même  trimestre,  l'information  et  mèneront    une  campagne  de sensibilisation  auprès  des  directions  d'écoles,  des  équipes-écoles,  des  comités  de  parents  et  des  collectivités territoriales. Ces quatre entités, sur la base d'une planification concertée sur deux ans, tâcheront de sensibiliser les familles et la communauté des parents sur l'ampleur et les conséquences de ce phénomène.
 
-2) implanter des centres d'éducation préscolaire dans l'environnement immédiat d'écoles fondamentales Au cours des dix dernières années, les centres d'éducation préscolaire ont connu une expansion significative dans  le  système  éducatif.  Toutefois,  en  dépit  de  cette  évolution,  l'offre  d'éducation  préscolaire  demeure  très limitée,  et,  dans  les  régions  rurales,  elle  est  le  plus  souvent  inexistante.  Le  développement  d'une  stratégie  de prise  en  charge  de  la  petite  enfance  à  travers  une  structure  préscolaire  mise  en  place  dans  l'environnement immédiat d'une école fondamentale amènera à un changement de mentalité des familles, surtout  celles vivant en milieu rural. Ces dernières, généralement,  initient très tôt leurs enfants à leurs activités économiques. Ainsi, les enfants deviennent des agents économiques et, au fil des années, se voient de plus en plus impliqués dans cette dynamique et sont très peu disponibles pour se rendre à l'école. En augmentant l'offre préscolaire et en accueillant tous les enfants de 3 à 5ans dans ces structures, le MENFP parviendra d'une part à les soustraire des activités domestiques ou économiques de leurs familles et, d'autre part, à créer chez les parents cette habitude d'envoyer les enfants à l'école à l'âge prescrit par le Ministère de l'Education Nationale.
+2) implanter des centres d'éducation préscolaire dans l'environnement immédiat d'écoles fondamentales
 
 Stratégie Nationale d'Action / EPT
 
@@ -2317,7 +2452,9 @@ Juin 07
 
 [[START OF PAGE 88]]
 
-##### Objectif  stratégique  3 :  Soutenir  les  familles  dans  la  scolarisation  de  leurs  enfants  au  niveau  du fondamental
+Au cours des dix dernières années, les centres d'éducation préscolaire ont connu une expansion significative dans le système éducatif. Toutefois, en dépit de cette évolution, l'offre d'éducation préscolaire demeure très limitée, et, dans les régions rurales, elle est le plus souvent inexistante. Le développement d'une stratégie de prise en charge de la petite enfance à travers une structure préscolaire mise en place dans l'environnement immédiat d'une école fondamentale amènera à un changement de mentalité des familles, surtout celles vivant en milieu rural. Ces dernières, généralement, initient très tôt leurs enfants à leurs activités économiques. Ainsi, les enfants deviennent des agents économiques et, au fil des années, se voient de plus en plus impliqués dans cette dynamique et sont très peu disponibles pour se rendre à l'école. En augmentant l'offre préscolaire et en accueillant tous les enfants de 3 à 5ans dans ces structures, le MENFP parviendra d'une part à les soustraire des activités domestiques ou économiques de leurs familles et, d'autre part, à créer chez les parents cette habitude d'envoyer les enfants à l'école à l'âge prescrit par le Ministère de l'Education Nationale.
+
+##### Objectif stratégique 3 : Soutenir les familles dans la scolarisation de leurs enfants au niveau du fondamental
 
 ###### Résultat attendu :
 
@@ -2349,7 +2486,7 @@ Juin 07
 
 229. Les éléments de politique à mettre en place viseraient à favoriser l'entrée de tous les enfants de 6 ans en première  année,  tout  en  ciblant  ceux  des  autres  années  issus  des  familles  les  plus  démunies  pour  combattre l'abandon scolaire.
 
-230. La diversité des écoles non publiques se traduit par une grande variabilité des services offerts, des frais exigés  et  des  modes  de  financement.  Cette  variabilité  requiert  une  pluralité  d'approches  qui  doivent  être adaptées aux différents contextes ou une uniformisation des structures de coûts de scolarité. Il est opportun que le MENFP procède à la définition d'un paquet minimum de services comme un des éléments fondamentaux de l'accréditation et que toutes les écoles, aussi bien publiques que non publiques, devraient offrir. Cela permettrait non seulement d'améliorer la qualité en s'assurant que tous les services essentiels sont fournis mais aussi de réduire la charge financière des parents en leur indiquant les dépenses minimales incompressibles. L'opportunité de  la  fourniture  de  tout  autre  service  complémentaire  dans  une  école  serait  discutée  entre  la  Direction  et l'APE/CGE. Elle devrait aussi impliquer une évaluation de l'offre existante tant dans le secteur public que non public et une estimation des besoins qui se créeront suite au saut brusque de la demande qui accompagne habituellement l'abolition ou la réduction des frais.  Toute stratégie de réduction des coûts encourus par les parents  devrait  aussi  prendre  en  compte  le  renforcement  des  capacités  de  gestion,  suivi,  supervision  et contrôle du MENFP.
+230. La diversité des écoles non publiques se traduit par une grande variabilité des services offerts, des frais exigés et des modes de financement. Cette variabilité requiert une pluralité d'approches qui doivent être adaptées aux différents contextes ou une uniformisation des structures de coûts de scolarité. Il est opportun que le MENFP procède à la définition d'un paquet minimum de services comme un des éléments fondamentaux de l'accréditation et que toutes les écoles, aussi bien publiques que non publiques, devraient offrir. Cela permettrait non seulement d'améliorer la qualité en s'assurant que tous les services essentiels sont fournis mais aussi de réduire la charge financière des parents en leur indiquant les dépenses minimales incompressibles. L'opportunité de la fourniture de tout autre service complémentaire dans une école serait discutée entre la Direction et l'APE/CGE. Elle devrait aussi impliquer une évaluation de l'offre existante tant dans le secteur public que non public et une estimation des besoins qui se créeront suite au saut brusque de la demande qui accompagne habituellement l'abolition ou la réduction des frais. Toute stratégie de réduction des coûts encourus par les
 
 Stratégie Nationale d'Action / EPT
 
@@ -2361,7 +2498,9 @@ Juin 07
 
 [[START OF PAGE 90]]
 
-231.  Si,  pour  les  écoles  publiques,  il  est  possible  d'envisager  une  suppression  des  frais  d'écolage  assortie d'une allocation budgétaire conséquente pour leur fonctionnement, les revenus générés par les frais payés par les parents aux écoles non publiques doivent nécessairement être compensés pour permettre à ces dernières de fonctionner.  Dans  cet  ordre  d'idées,  des  écoles  non  publiques  sélectionnées    pourraient,  pour  chaque  élève inscrit,  bénéficier  d'une  compensation  couvrant  les  coûts  des  services  compris  dans  le  paquet  minimum,  en référence  aux  exigences  d'accréditation.  Les  frais,  directement  payables  à  l'école,  pour  d'autres  services,  ne devraient  être  envisagés  qu'exceptionnellement  et  de  manière  facultative  (non  obligatoires) et devraient  faire l'objet de négociations avec le comité de gestion de l'école (conseil d'école) ou le comité de parents.
+parents devrait aussi prendre en compte le renforcement des capacités de gestion, suivi, supervision et contrôle du MENFP.
+
+231. Si, pour les écoles publiques, il est possible d'envisager une suppression des frais d'écolage assortie d'une allocation budgétaire conséquente pour leur fonctionnement, les revenus générés par les frais payés par les parents aux écoles non publiques doivent nécessairement être compensés pour permettre à ces dernières de fonctionner. Dans cet ordre d'idées, des écoles non publiques sélectionnées pourraient, pour chaque élève inscrit, bénéficier d'une compensation couvrant les coûts des services compris dans le paquet minimum, en référence aux exigences d'accréditation. Les frais, directement payables à l'école, pour d'autres services, ne devraient être envisagés qu'exceptionnellement et de manière facultative (non obligatoires) et devraient faire l'objet de négociations avec le comité de gestion de l'école (conseil d'école) ou le comité de parents.
 
 232. Parmi les critères d'éligibilité pour les subventions devraient figurer, l'acceptation du paquet minimum de services en plus de l'accréditation et de la mise en place d'un comité de gestion de l'école. Pour les frais non directement payables à l'école, des mesures d'atténuation de la charge des parents pourraient être prises : (i) la dotation gratuite de tous les élèves, dont les parents sont en dessous d'un certain seuil de revenus, en kits de fournitures,  (ii)  la  dotation  ou  la  location  des  manuels  à  tous  les  enfants ;  et  (iii)  l'application  de  tarifs  de transport  préférentiels  pour  les  élèves  sur  présentation  de  la  carte  d'identité  scolaire.  Cette  dernière  mesure pourrait, par exemple, faire l'objet de négociations avec les compagnies de transport publics et les syndicats des transporteurs privés.
 
@@ -2425,7 +2564,7 @@ Juin 07
 
 ###### Stratégie d'intervention : opérationnalisation du 3 ème cycle fondamental
 
-242.  Les  différentes  actions  qui  seront  développées  en  vue  d'atteindre  « l'éducation  primaire  universelle » recommandée  par le Cadre d'Action de Dakar entraînera, à n'en pas douter, une massification des effectifs au niveau  de  la  6 ème année  du  fondamental.  Pour  absorber  ceux-ci  et  donner  au  système  éducatif  sa  cohérence nécessaire, le gouvernement entend, d'une part, accroître les capacités d'accueil à ce niveau d'enseignement, particulièrement  dans    les  périphéries  des  zones  urbaines  et  des  zones  rurales,  encourageant  ainsi  le développement  d'écoles  fondamentales  complètes,  et  d'autre  part,  assurer  l'opérationnalisation  du  3 ème cycle fondamental  à  travers  la  mise  en  place  des  filières  professionnelles  conformément  à  l'esprit  de  la  réforme Bernard.  La  priorité  sera  donnée  aux  établissements  du  secteur  public  implantés  dans  les  zones  à  flux  élevé d'effectifs.
+242. Les différentes actions qui seront développées en vue d'atteindre « l'éducation primaire universelle » recommandée par le Cadre d'Action de Dakar entraînera, à n'en pas douter, une massification des effectifs au
 
 Stratégie Nationale d'Action / EPT
 
@@ -2436,6 +2575,8 @@ Juin 07
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
+
+niveau de la 6ème année du fondamental. Pour absorber ceux-ci et donner au système éducatif sa cohérence nécessaire, le gouvernement entend, d'une part, accroître les capacités d'accueil à ce niveau d'enseignement, particulièrement dans les périphéries des zones urbaines et des zones rurales, encourageant ainsi le développement d'écoles fondamentales complètes, et d'autre part, assurer l'opérationnalisation du 3ème cycle fondamental à travers la mise en place des filières professionnelles conformément à l'esprit de la réforme Bernard. La priorité sera donnée aux établissements du secteur public implantés dans les zones à flux élevé d'effectifs.
 
 ###### Action 2. Amélioration de l'offre publique d'enseignement secondaire
 
@@ -2473,71 +2614,16 @@ Juin 07
 
 [[START OF PAGE 95]]
 
-##### Présentation synoptique du deuxième choix stratégique :  Promouvoir une plus grande équité d'accès à  l'éducation formelle et non formelle
+##### Présentation synoptique du deuxième choix stratégique : Promouvoir une plus grande équité d'accès à l'éducation formelle et non formelle
 
-Objectifs stratégiques
+Objectifs stratégiques | Résultats attendus | Actions
+--- | --- | ---
+1.Accroître la couverture de l'offre d'éducation formelle et non formelle | 1. Le TNS de l'enseignement fondamental est 100 % en 2015 2..Le taux d'admission dans l'enseignement fondamental est de 100% en 2015 3. Les taux de transition au niveau des enseignements fondamental, secondaire et supérieur sont améliorés 4. Le taux d'analphabétisme est réduit à 0 % | 1. Augmentation de l'offre publique d'éducation prioritairement dans les zones rurales à travers la mise en places d'écoles fondamentales de 1er cycle 2. Amélioration de la qualité des infrastructures par des réhabilitations /normalisations 3. Optimisation de l'utilisation des infrastructures par l'extension de la double vacation 4. Généralisation de l'alphabétisation de base (alpha télévisuelle et radiale) 5. Extension et diversification des programmes de post alphabétisation 6. Prise en charge des exclus du système formel à travers un programme non formel d'éducation de base
+2.Éradiquer le phénomène des surâgés | Les effectifs de l'enseignement fondamental ne comptent plus d'élèves surâgés | 1. Gestion des élèves surâgés (programmes d'éducation accélérée et de formation professionnelle 2. Amélioration du flux des cohortes (promotion automatiques) 3. Régulation de l'admission en 1ère année Fondamentale
+3.Soutenir les familles dans la scolarisation de leurs enfants au niveau fondamental | Le paiement des frais scolaires ne constitue plus pour les enfants des ménages pauvres une contrainte d'accès à l'école et de fréquentation régulière de celle-ci | 1. Réduction des coûts de scolarité pour les familles en difficulté (prise en charge des frais d'inscription dans le non public) 2. Élimination des frais scolaires pour les élèves du public (versement d'une compensation) 3. Réduction des coûts de scolarisation pour toutes les familles (subvention pour les manuels, fournitures et uniformes)
+4.Développer les niveaux d'enseignement subséquents à l'éducation de base | 1. Les taux de transition à la 9ème année du fondamental, au secondaire et au supérieur connaissent une amélioration 2. La participation des filles à l'enseignement secondaire est améliorée | 1. Achèvement du processus de mise en place de l'enseignement fondamental (opérationnalisation du 3è cycle) 2. Augmentation de l'offre publique d'enseignement secondaire (renforcement des capacités des établissements publics) 3. Amélioration de l'offre publique d'enseignement supérieur (mise en place de centres régionaux d'enseignement supérieur)
 
-- 1.Accroître  la  couverture  de l'offre d'éducation formelle et non formelle
-
-- 2.Éradiquer le des surâgés
-
-phénomène
-
-- 3.Soutenir  les  familles  dans la scolarisation de leurs enfants au niveau fondamental
-
-- 4.Développer les niveaux d'enseignement  subséquents à l'éducation de base
-
-Résultats attendus
-
-- Le  TNS  de  l'enseignement  fondamental est 100 % en 2015
-
-- 2..Le taux d'admission dans l'enseignement fondamental est de 100% en 2015
-
-- Les taux de transition au niveau des enseignements fondamental, secondaire et supérieur sont améliorés
-
-- Le taux d'analphabétisme est réduit à  0 %
-
-- Les effectifs de l'enseignement fondamental ne comptent plus d'élèves surâgés
-
-- Le paiement des frais scolaires ne constitue plus  pour  les  enfants  des  ménages  pauvres une contrainte d'accès à l'école et de fréquentation régulière de celle-ci
-
-- Les taux de transition à la 9 ème année du fondamental, au secondaire et au supérieur connaissent une amélioration
-
-- La participation des filles à l'enseignement secondaire est améliorée
-
-Actions
-
-- Augmentation  de  l'offre  publique  d'éducation  prioritairement  dans  les  zones rurales à travers la mise en places d'écoles fondamentales de 1 er cycle
-
-- Amélioration de la qualité des infrastructures par des réhabilitations /normalisations
-
-- Optimisation  de  l'utilisation  des  infrastructures  par  l'extension  de  la  double vacation
-
-- Généralisation de l'alphabétisation de base (alpha télévisuelle et radiale)
-
-- Extension et diversification des programmes de post alphabétisation
-
-- Prise en charge des exclus du système formel à travers un programme non formel d'éducation de base
-
-- Gestion  des  élèves  surâgés  (programmes  d'éducation  accélérée  et    de  formation professionnelle
-
-- Amélioration du flux des cohortes (promotion automatiques)
-
-- Régulation de l'admission en 1ère année Fondamentale
-
-- Réduction des coûts de scolarité pour les familles en difficulté (prise en charge des frais d'inscription dans le non public)
-
-- Élimination  des  frais  scolaires  pour  les  élèves  du  public  (versement  d'une compensation)
-
-- Réduction des coûts de scolarisation pour toutes les familles (subvention pour les manuels, fournitures et uniformes)
-
-- Achèvement  du  processus  de  mise  en  place  de  l'enseignement  fondamental (opérationnalisation du 3è cycle)
-
-- Augmentation  de  l'offre  publique  d'enseignement  secondaire  (renforcement  des capacités des établissements publics)
-
-- Amélioration  de  l'offre  publique  d'enseignement  supérieur  (mise  en  place  de centres régionaux d'enseignement supérieur)
-
-8
+83
 
 [[END OF PAGE 95]]
 
@@ -2589,27 +2675,15 @@ stratégiques se trouvent associées à la réalisation de chaque objectif strat
 
 ###### Stratégie de mise en œuvre :
 
-249.  Selon  les  données  recueillies  à  la  Direction  de  la  Formation  et  du  Perfectionnement,  le  système  de
-
-l'enseignement  fondamental  (1
-
-er et  2
-
-ème
-
-cycles)  connaît  actuellement  un  déficit  de  3000  enseignants.  En
-
-considérant aussi, d'une part, les nouveaux besoins du système en maîtres estimés à 4000 par année, dus à la
-
-mobilité  des  enseignants,  au  départ  à  la  retraite,  à  la  progression  des  effectifs  scolaires  conséquemment  à
-
-l'accroissement de la population et à la mise en œuvre de l'EPT, et, d'autre part, les limites des dispositifs de FIM existants à répondre adéquatement à ces nouveaux besoins, il s'avère une nécessité de mettre en place un dispositif de Formation Initiale Accélérée (FIA) d'une année qui permettrait de former 10500 maîtres au cours des 5 prochaines années.
+249. Selon les données recueillies à la Direction de la Formation et du Perfectionnement, le système de l'enseignement fondamental (1er et 2ème cycles) connaît actuellement un déficit de 3000 enseignants. En considérant aussi, d'une part, les nouveaux besoins du système en maîtres estimés à 4000 par année, dus à la mobilité des enseignants, au départ à la retraite, à la progression des effectifs scolaires conséquemment à l'accroissement de la population et à la mise en œuvre de l'EPT, et, d'autre part, les limites des dispositifs de
 
 [[END OF PAGE 96]]
 
 [[START OF PAGE 97]]
 
-250. Cette formation sera donnée par les structures de formation initiale et continue existantes, notamment le CFEF,  les  FSE,  les  ENI,  les  CAP.  Ces  structures  seront  sélectionnées  après  évaluation  de  leur  capacité opérationnelle (structure d'accueil, profils et disponibilité de leurs formateurs, …) à recevoir un ou plusieurs groupes d'élèves- maîtres.
+FIM existants à répondre adéquatement à ces nouveaux besoins, il s'avère une nécessité de mettre en place un dispositif de Formation Initiale Accélérée (FIA) d'une année qui permettrait de former 10500 maîtres au cours des 5 prochaines années.
+
+250. Cette formation sera donnée par les structures de formation initiale et continue existantes, notamment le CFEF, les FSE, les ENI, les CAP. Ces structures seront sélectionnées après évaluation de leur capacité opérationnelle (structure d'accueil, profils et disponibilité de leurs formateurs, …) à recevoir un ou plusieurs groupes d'élèves- maîtres.
 
 251. A partir de l'année académique 2007-2008, et cela jusqu'en 2010-2011, la FIA s'adressera, chaque année, à une cohorte de 2625 élèves- maîtres qui seront répartis en des  groupes de 35 à 40 participants. Au total, un effectif  de  67  groupes  sera  en  formation  à  tous  les  ans.  L'étude  des  besoins  en  maîtres  par  département déterminera  le  nombre  de  maîtres  à  former  par  année  dans  chaque  département.  Toutefois,  la  priorité  sera accordée aux régions les plus défavorisées où les besoins sont généralement les plus importants.
 
@@ -2731,7 +2805,7 @@ La DFP pilotera le processus de transformation en :
 
 262.  L'amélioration  du  processus  d'enseignement  et  d'apprentissage  dans  l'ensemble  des  établissements scolaires  existants  nécessite  la  mise  en  place  d'un  système  de  formation  capable  de  toucher  l'ensemble  du personnel  enseignant  et  d'un  système  d'organisation  pédagogique  facilitant  la  transformation  du  directeur d'école en leader pédagogique dans son école. D'où le concept d'équipe -école qui organise les enseignants et le directeur d'une même école en groupe de réflexion sur l'école dans tous les aspects liés à son développement et qui les engage dans un processus de formation professionnelle continue.
 
-263. La mise en réseau des écoles représente un dispositif stratégique susceptible de favoriser la transformation des pratiques pédagogiques des équipes- écoles et de faciliter le fonctionnement des écoles suivant le modèle <<d'organisation apprenante>>, c'est-à-dire que  les équipes-écoles sont capables d'identifier les problèmes de l'école à travers un processus participatif et de mettre en œuvre des stratégies en vue de leur résolution. Il s'agit aussi,  d'initier,  par  le  biais  de  ce  dispositif,  la  démarche    formative  de  la  <<  pratique  réflexive>>  et    de l'<<analyse  des  pratiques  professionnelles>>  génératrice  de    développement  professionnel.  Cette  dynamique pédagogique créée au sein d'une école s'étendra à un ensemble d'écoles regroupées sur  la base de proximité de manière  à  faciliter  les  déplacements,  lors  des  formations  ou  des  rencontres  d'échanges,  des  enseignants  et directeurs  d'école  du  réseau.  Un  réseau  d'écoles  est  constitué  d'un  noyau  central  de  21  écoles  (une  école  de référence  et  20  écoles  associées)  et  de  20  sous-réseaux  comprenant    chacun  au  plus  4  écoles.  Chaque  sousréseau est en correspondance avec une école associée.  Ainsi, un réseau complet comportera au plus 101 écoles.
+263. La mise en réseau des écoles représente un dispositif stratégique susceptible de favoriser la transformation des pratiques pédagogiques des équipes- écoles et de faciliter le fonctionnement des écoles suivant le modèle <<d'organisation apprenante>>, c'est-à-dire que les équipes-écoles sont capables d'identifier les problèmes de l'école à travers un processus participatif et de mettre en œuvre des stratégies en vue de leur résolution. Il s'agit aussi, d'initier, par le biais de ce dispositif, la démarche formative de la << pratique réflexive>> et de l'<<analyse des pratiques professionnelles>> génératrice de développement professionnel. Cette dynamique pédagogique créée au sein d'une école s'étendra à un ensemble d'écoles regroupées sur la base de proximité de
 
 Stratégie Nationale d'Action / EPT
 
@@ -2742,7 +2816,7 @@ Juin 07
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
-
+manière à faciliter les déplacements, lors des formations ou des rencontres d'échanges, des enseignants et directeurs d'école du réseau. Un réseau d'écoles est constitué d'un noyau central de 21 écoles (une école de référence et 20 écoles associées) et de 20 sous-réseaux comprenant chacun au plus 4 écoles. Chaque sous-réseau est en correspondance avec une école associée. Ainsi, un réseau complet comportera au plus 101 écoles.
 264. La mise en réseau des écoles fondamentales dans les différentes DDE nécessitera l'encadrement  par la DCQ,  la DEF et la DFP des équipes SAP,  des conseillers pédagogiques et des Inspecteurs des BDS. En effet, ces directions techniques devront vulgariser le modèle en organisant des sessions d'information/formation sur la compréhension  du  modèle  par  les  acteurs  régionaux  d'éducation.  La  mise  en  réseau  des  écoles  se  réalisera d'abord,  à  titre  pilote,  dans  le  département  de  l'Artibonite  de  septembre  à  novembre  2007.  A  la  lumière  de l'expérience de l'Artibonite, les neuf (9) autres départements scolaires feront la mise en réseau de leurs écoles de janvier à mars 2008, tout en ayant soin d'identifier l'école de référence, les écoles associées et la composition des différents sous-réseaux possibles. Chaque département devra préparer une carte de leurs réseaux d'écoles indiquant ces différents éléments.
 
 ###### Action 2 : Transformation graduelle des réseaux d'école en EFACAP
@@ -2759,7 +2833,7 @@ Juin 07
 
 -l'amélioration continue comme outil de contrôle et de soutien des innovations introduites. 53
 
-266.  Défini  par  le  PNEF  comme  une  école  fondamentale  de  qualité,  appartenant  au  secteur  public  ou  privé, devant non seulement offrir un enseignement performant à ses élèves mais aussi servir de relais aux DDE en matière  d'encadrement  pédagogique  des  écoles  fondamentales  tant  publiques  que  non  publiques,  l'EFACAP doit notamment jouer le rôle à la fois d'Ecole Fondamentale d'Application (EFA) pour les sortants des CFEF et de Centre d'Appui Pédagogique (CAP) pour assurer la formation continue des enseignants et des directeurs en cours d'emploi. Par son mode de fonctionnement et ses résultats, l'EFACAP constitue un modèle d'école de référence,  d'encadrement  déconcentré  et  de  gestion  de  proximité.  Actuellement,  le  MENFP  dispose  d'un document de référence et des textes d'application de l'EFACAP à partir desquels plusieurs projets d'éducation expérimentent le modèle. Ces derniers ont mis en place 35 EFACAP à travers les dix départements scolaires du pays.
+266. Défini par le PNEF comme une école fondamentale de qualité, appartenant au secteur public ou privé, devant non seulement offrir un enseignement performant à ses élèves mais aussi servir de relais aux DDE en matière d'encadrement pédagogique des écoles fondamentales tant publiques que non publiques, l'EFACAP doit notamment jouer le rôle à la fois d'Ecole Fondamentale d'Application (EFA) pour les sortants des CFEF et de Centre d'Appui Pédagogique (CAP) pour assurer la formation continue des enseignants et des directeurs en cours d'emploi. Par son mode de fonctionnement et ses résultats, l'EFACAP constitue un modèle d'école de référence, d'encadrement déconcentré et de gestion de proximité. Actuellement, le MENFP dispose d'un
 
 > 53 PNEF - partie II - p 97-99
 
@@ -2773,11 +2847,13 @@ Juin 07
 
 [[START OF PAGE 102]]
 
-267.  Compte  tenu  des  difficultés  économiques  auxquelles  fait  face  le  pays  et  de  la  pénurie  de  ressources humaines qualifiées et compétentes, il serait tout à fait illusoire de vouloir généraliser, à plus ou moins long terme, le modèle EFACAP dans sa structure première tel qu'il est défini dans le document de référence 54 . Cela aurait nécessité, pour le pays, la mise en place de 800 EFACAP/Réseaux de 21 écoles et le recrutement de 800 directeurs d'EFACAP et de 2400 conseillers pédagogiques et aurait coûté beaucoup trop au système en terme de construction de bâtiments, d'acquisition  d'équipements et d'engagement de nouveaux personnels.
+document de référence et des textes d'application de l'EFACAP à partir desquels plusieurs projets d'éducation expérimentent le modèle. Ces derniers ont mis en place 35 EFACAP à travers les dix départements scolaires du pays.
+
+267. Compte tenu des difficultés économiques auxquelles fait face le pays et de la pénurie de ressources humaines qualifiées et compétentes, il serait tout à fait illusoire de vouloir généraliser, à plus ou moins long terme, le modèle EFACAP dans sa structure première tel qu'il est défini dans le document de référence 54 . Cela aurait nécessité, pour le pays, la mise en place de 800 EFACAP/Réseaux de 21 écoles et le recrutement de 800 directeurs d'EFACAP et de 2400 conseillers pédagogiques et aurait coûté beaucoup trop au système en terme de construction de bâtiments, d'acquisition d'équipements et d'engagement de nouveaux personnels.
 
 268. Ce qui importe le plus dans ce modèle, c'est d'abord la nouvelle démarche pédagogique, génératrice de compétences professionnelles, instaurée à travers la mise en place des équipes-écoles, des réseaux d'écoles et des  communautés  scolaires  dynamiques,  mais  aussi  la    structuration  des  lieux  de  formation  continue  des enseignants  (CAP)  selon  une  stratégie  déconcentrée  et  décentralisée.  En  ce  sens,  le  redimensionnement  du réseau, (par rapport au nombre d'écoles le constituant) élargi à des sous réseaux comprenant au plus 4 écoles pour lesquelles les équipes-écoles forment un groupe de formation, n'affectera guère la qualité tant recherchée. Au contraire cette stratégie facilitera l'extension rapide de la démarche pédagogique et la réduction des coûts d'implantation et permettra, en fin de compte, de résoudre le problème lié à la difficulté de pouvoir toujours regrouper 21 écoles sur une base de proximité.
 
-269.  Chaque  sous-réseau  est  encadré  par  une  école  associée  du  réseau  qui,  elle-même,  pourrait  à  la  longue, devenir  l'école-étoile (EFA) d'un nouveau réseau d'écoles (d'une nouvelle EFACAP). Ainsi, dans le modèle théorique d'une EFACAP, il y a, d'une part, l'école-étoile et ses 20 écoles associées et, d'autre part, 20 sousréseaux de plus de 4 écoles chacun. Cela laisse comprendre qu'une EFACAP complète pourrait avoir jusqu'à 101 écoles. Sur l'ensemble du pays, en tenant compte du nombre d'écoles fondamentales existantes (15664), il sera question de mettre en place environ 156 réseaux d'EFACAP.
+269. Chaque sous-réseau est encadré par une école associée du réseau qui, elle-même, pourrait à la longue, devenir l'école-étoile (EFA) d'un nouveau réseau d'écoles (d'une nouvelle EFACAP). Ainsi, dans le modèle théorique d'une EFACAP, il y a, d'une part, l'école-étoile et ses 20 écoles associées et, d'autre part, 20 sous-réseaux de plus de 4 écoles chacun. Cela laisse comprendre qu'une EFACAP complète pourrait avoir jusqu'à 101 écoles. Sur l'ensemble du pays, en tenant compte du nombre d'écoles fondamentales existantes (15664), il sera question de mettre en place environ 156 réseaux d'EFACAP.
 
 270. Chaque EFACAP est  gérée par une équipe composée du directeur d'EFACAP, du directeur du CAP, du directeur  de  l'EFA  et  de    3  conseillers  pédagogiques  qui  assurent  l'encadrement  des  enseignants  et  leur formation  continue.  Cela  nécessitera,  pour  l'ensemble  du  pays,  le  recrutement  progressif  des  personnels suivants : 156 directeurs d'EFACAP, 156 directeurs de CAP, 468 conseillers pédagogiques.
 
@@ -2793,9 +2869,9 @@ Juin 07
 
 [[START OF PAGE 103]]
 
-- La  transformation  des  réseaux  d'école  en  EFACAP  sera  réalisée  suivant  un  processus  comportant :  i) l'identification/confirmation de l'EFA,  ii)  normalisation de l'EFA en terme de profil des personnels ; iii) le recrutement et la formation des personnels de l'EFACAP (CP, directeurs d'EFACAP et d'EFA, enseignants de l'EFA;  iv) mise en place du troisième cycle fondamental dans l'EFA ; v) mise en place du CAP.
+271. La transformation des réseaux d'école en EFACAP sera réalisée suivant un processus comportant : i) l'identification/confirmation de l'EFA, ii) normalisation de l'EFA en terme de profil des personnels ; iii) le recrutement et la formation des personnels de l'EFACAP (CP, directeurs d'EFACAP et d'EFA, enseignants de l'EFA; iv) mise en place du troisième cycle fondamental dans l'EFA ; v) mise en place du CAP.
 
-- Etant donné que 156 EFACAP seront nécessaires pour mettre en réseau les 15664 écoles du fondamental à raison  de  101  écoles  par  réseau  et  considérant  que  des  projets  ont  déjà  mis  en  place  35  EFACAP  suivant  le modèle initial de 21 écoles, il s'agira maintenant de normaliser les 35 qui existent au cours de l'année 2008 et de compléter ce qui reste entre 2009 et 2011.
+272. Etant donné que 156 EFACAP seront nécessaires pour mettre en réseau les 15664 écoles du fondamental à raison de 101 écoles par réseau et considérant que des projets ont déjà mis en place 35 EFACAP suivant le modèle initial de 21 écoles, il s'agira maintenant de normaliser les 35 qui existent au cours de l'année 2008 et de compléter ce qui reste entre 2009 et 2011.
 
 Ainsi, la transformation des réseaux d'écoles en EFACAP se fera au rythme suivant :
 
@@ -2809,7 +2885,7 @@ Nombre d'EFACAP installées | 35 | 41 | 40 | 40 | 156
 
 273.  La  formation  professionnelle  sera  livrée  à  tous  les  enseignants  à  partir  des  équipes  -  écoles.  En  vue d'alimenter  les  réseaux  constitués,  avant  même  leur  transformation  en  EFACAP,  immédiatement  après  leur constitution, ces derniers, seront en tout premier lieu, initiés, à travers des journées pédagogiques, à la démarche d'implantation  des  bases  d'une  école  de  qualité  résultant  de  la  fusion  de  quatre  modules :  école  de  qualité, équipe-école,  diagnostic  participatif  de  l'école,  projet  pédagogique  d'école.  Quant  aux  autres  modules  du programme de formation professionnelle, ils seront dispensés  aux équipes-écoles suivant des modalités définies au  point  suivant.  Les  directeurs  d'école,  appelés  à  gérer  les  équipes  -  écoles  devront  en  plus  recevoir  une formation complémentaire en leadership pédagogique et administratif.
 
-- La  formation  professionnelle  sera  animée  par  les  conseillers  pédagogiques  des  réseaux  EFACAP  et coordonnée par les équipes SAP au niveau départemental et par la DFP au niveau national. Elle s'étend sur 50 heures, comporte des modules dont les contenus sont définis dans le plan de formation continue de la DFP et représente un socle minimal de compétences professionnelles que tout agent du fondamental devra maîtriser.  La formation professionnelle sera réalisée sur un  mode itératif,  en  ce  sens  que  les  contenus  de  formation  feront toujours  l'objet  de  renforcement  et  d'approfondissement  au  sein  des  réseaux  d'écoles  et  alimenteront  les échanges et débats  au sein des équipes - écoles sur la problématique de leur application et de leur transfert.
+274. La formation professionnelle sera animée par les conseillers pédagogiques des réseaux EFACAP et coordonnée par les équipes SAP au niveau départemental et par la DFP au niveau national. Elle s'étend sur 50 heures, comporte des modules dont les contenus sont définis dans le plan de formation continue de la DFP et représente un socle minimal de compétences professionnelles que tout agent du fondamental devra maîtriser. La formation professionnelle sera réalisée sur un mode itératif, en ce sens que les contenus de formation feront toujours l'objet de renforcement et d'approfondissement au sein des réseaux d'écoles et alimenteront les échanges et débats au sein des équipes - écoles sur la problématique de leur application et de leur transfert.
 
 Stratégie Nationale d'Action / EPT
 
@@ -2847,14 +2923,14 @@ Juin 07
 
 [[START OF PAGE 105]]
 
+278. Suivant le rythme de transformation des réseaux d'écoles en EFACAP, la formation continue des 30 000 enseignants sera réalisée d'après le calendrier suivant :
+
 Années | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
 --- | --- | --- | --- | --- | ---
-1 ère cohorte | 4000 | 4000 | 4000 | 4000 | 4000
-2 ème cohorte | 10000 | 10000 | 10000 | 10000
-3 ème cohorte | 16000 | 16000 | 16000
+1ère cohorte | 4000 | 4000 | 4000 | 4000 | 4000
+2ème cohorte |  | 10000 | 10000 | 10000 | 10000
+3ème cohorte |  |  | 16000 | 16000 | 16000
 TOTAL | 4000 | 14000 | 30000 | 30000 | 30000
-
-278. Suivant le rythme de transformation des réseaux d'écoles en EFACAP, la formation continue des 30 000 enseignants sera réalisée d'après le calendrier suivant :
 
 ##### Objectif stratégique 3 :    Améliorer la pertinence des curricula
 
@@ -2916,7 +2992,7 @@ Juin 07
 
 ###### Stratégie de mise en œuvre :
 
-285.  L'analyse  de  la  fonction  d'évaluation  au  sein  du  système  éducatif  a  fait  ressortir  la  nécessité,  pour  le système,  de  se  renseigner  sur  la  maîtrise  par  les  élèves  des  apprentissages  fondamentaux  après  la  quatrième année : lecture, écriture  et mathématiques. Cette évaluation qui devra se faire de manière continue par l'instance du MENFP chargée de l'évaluation nécessitera : i) la mise en place des normes de performances en lecture dans les deux langues ; ii) la promotion des activités de promotion des habiletés en lecture/écriture ; iii) la mise au point  d'une  banque  d'items  pour  les  apprentissages  fondamentaux  du  premier  cycle ;  iv)  la  conduite d'évaluations des compétences de base des élèves par des équipes mobiles ; v) la mise qu point d'un classement national  des  écoles  sur  la  base  des  performances  de  leurs  élèves  du  premier  cycle  dans  les  apprentissages fondamentaux.
+285. L'analyse de la fonction d'évaluation au sein du système éducatif a fait ressortir la nécessité, pour le système, de se renseigner sur la maîtrise par les élèves des apprentissages fondamentaux après la quatrième année : lecture, écriture et mathématiques. Cette évaluation qui devra se faire de manière continue par l'instance du MENFP chargée de l'évaluation nécessitera : i) la mise en place des normes de performances en lecture dans les deux langues ; ii) la promotion des activités de promotion des habiletés en lecture/écriture ; iii) la mise au point d'une banque d'items pour les apprentissages fondamentaux du premier cycle ; iv) la conduite d'évaluations des compétences de base des élèves par des équipes mobiles ; v) la mise au point d'un classement national des écoles sur la base des performances de leurs élèves du premier cycle dans les apprentissages fondamentaux.
 
 ##### Objectif  stratégique  4 :  Appliquer,  au  niveau  du  fondamental,  une  démarche  de  bilinguisme  équilibré facilitant le développement des compétences linguistiques des élèves en créole et en  français.
 
@@ -3046,11 +3122,11 @@ Juin 07
 
 [[START OF PAGE 111]]
 
-296.  L'analyse  de  la  problématique  de  l'encadrement  pédagogique  a  fait  ressortir  les  difficultés  liées  à  ce domaine. La diversification des corps d'encadrement, le taux d'encadrement, l'absence de cadre de référence d'encadrement  et  de  suivi  pédagogiques,  le  manque  de  formation  des  encadreurs,  le  manque  de  moyens techniques et logistiques ont été les principales faiblesses analysées. S'il est vrai que l'inspection scolaire jouit actuellement d'une certaine reconnaissance sociale, il faut quand même reconnaître qu'elle a très peu d'ancrage institutionnel :  pas  de  lieu  de  formation  des  inspecteurs,  pas  de  remontée  des  rapports  d'inspection,  peu  de relations  pédagogiques  de  l'inspection  avec  les  écoles.  Tenant  compte  du  faible  niveau  de  qualification  des maîtres  et  de  la  nécessité  de  les  encadrer  en  vue  de  l'amélioration  continue  du  processus  d'enseignement  apprentissage, il s'avère  urgent  de rénover  l'encadrement  pédagogique  dans  ses  aspects  structurels  et organisationnels.
+296. L'analyse de la problématique de l'encadrement pédagogique a fait ressortir les difficultés liées à ce domaine. La diversification des corps d'encadrement, le taux d'encadrement, l'absence de cadre de référence d'encadrement et de suivi pédagogiques, le manque de formation des encadreurs, le manque de moyens techniques et logistiques ont été les principales faiblesses analysées. S'il est vrai que l'inspection scolaire jouit actuellement d'une certaine reconnaissance sociale, il faut quand même reconnaître qu'elle a très peu d'ancrage institutionnel : pas de lieu de formation des inspecteurs, pas de remontée des rapports d'inspection, peu de relations pédagogiques de l'inspection avec les écoles. Tenant compte du faible niveau de qualification des maîtres et de la nécessité de les encadrer en vue de l'amélioration continue du processus d'enseignement – apprentissage, il s'avère urgent de rénover l'encadrement pédagogique dans ses aspects structurels et organisationnels.
 
 297. Les réseaux des EFACAP viennent avec une structure d'encadrement pédagogique des écoles associées et des  écoles  des  sous  -  réseaux.  Au  moins  trois  conseillers  pédagogiques  seront  affectés  à  chaque  EFACAP regroupant  environ  cent  une  (101)  écoles,  dépendamment  de  la  proximité  géographique  des  écoles.  Le  taux d'encadrement sera au plus de 34 écoles pour un conseiller pédagogique. Cette nouvelle structure d'encadrement  pédagogique  met en valeur une double démarche : une première démarche consistant pour les équipes - écoles à s'<<auto - encadrer>>  à travers  les rencontres d'analyses de pratiques  et à se constituer en <<communautés d'apprentissage>> ;  une deuxième démarche concerne l'intervention planifiée du conseiller pédagogique auprès d'un enseignant ou d'une équipe - école qui en fait la demande, sur un problème vécu par l'ensemble des  enseignants et du directeur d'école de l'équipe.
 
-298. Les conseillers pédagogiques seront installés dans le système au rythme d'implantation des EFACAP. Ils recevront leur formation initiale au CFEF et constitueront plus tard un corps dynamique capable d'accompagner le  renouveau pédagogique des écoles. Ainsi, en tenant compte du calendrier d'implantation des EFACAP cidevant présenté, le calendrier de recrutement des CP se présente de la manière suivante :
+298. Les conseillers pédagogiques seront installés dans le système au rythme d'implantation des EFACAP. Ils recevront leur formation initiale au CFEF et constitueront plus tard un corps dynamique capable d'accompagner le renouveau pédagogique des écoles. Ainsi, en tenant compte du calendrier d'implantation des EFACAP ci-devant présenté, le calendrier de recrutement des CP se présente de la manière suivante :
 
 Années | 2008 | 2009 | 2010 | 2011 | TOTAL
 --- | --- | --- | --- | --- | ---
@@ -3209,11 +3285,11 @@ Juin 07
 
 [[START OF PAGE 117]]
 
-###### Action 1: Campagne d'information et de sensibilisation de la population scolaire et des jeunes du secteur nonformel
+###### Action 1: Campagne d'information et de sensibilisation de la population scolaire et des jeunes du secteur non-formel
 
 ###### Stratégie d'intervention :
 
-319.  De  nombreuses  actions  visant  la  sensibilisation  de  la  population  scolaire  et  des  jeunes  du  secteur  nonformel  sur  les  méfaits  des  IST,  en  particulier  le  VIH/SIDA  ont  été  réalisées  par  le  MENFP  au  cours  des dernières années. Des fascicules d'information ont été préparés pour les élèves et des modules de formation pour les  enseignants ;  des  journées  d'information  à  l'adresse  des  jeunes  du  secteur  non  formel  et  des  sessions  de formation ont été également organisées. Il s'agira d'intensifier ces différentes interventions tout en ayant soin de mieux les systématiser. En ce sens, un module sur la santé de la reproduction sera élaboré par le MENFP et ses partenaires  à  l'intention  des  enseignants  et  sera  dispensé  dans  le  cadre  des  actions  de  formation  continue animées par les BDS ou par les CAP. Les enseignants, quant à eux feront le transfert du module à leurs élèves dans les salles de classe.
+319. De nombreuses actions visant la sensibilisation de la population scolaire et des jeunes du secteur non-formel sur les méfaits des IST, en particulier le VIH/SIDA ont été réalisées par le MENFP au cours des dernières années. Des fascicules d'information ont été préparés pour les élèves et des modules de formation pour les enseignants ; des journées d'information à l'adresse des jeunes du secteur non formel et des sessions de formation ont été également organisées. Il s'agira d'intensifier ces différentes interventions tout en ayant soin de mieux les systématiser. En ce sens, un module sur la santé de la reproduction sera élaboré par le MENFP et ses partenaires à l'intention des enseignants et sera dispensé dans le cadre des actions de formation continue animées par les BDS ou par les CAP. Les enseignants, quant à eux feront le transfert du module à leurs élèves dans les salles de classe.
 
 Stratégie Nationale d'Action / EPT
 
@@ -3260,11 +3336,13 @@ La congruence des curricula est améliorée
 
 Les  action  et  stratégie  relatives  à  cet  objectif  sont  prises  en  charge  de  façon  concomitante  au  titre  de  la « Refonte et actualisation des curricula » envisagée dans le développement du troisième choix stratégique (ref Objectif 3).
 
-322. De manière plus spécifique, il convient d'insister sur le fait que la révision curriculaire envisagée ici, au titre  de  l'amélioration de l'efficacité externe, devra notamment viser à adapter les programmes aux nouvelles réalités socio-économiques nationales. En effet, il a été clairement exprimé au chapitre précédent que « l'option démocratique prise par Haïti, la nécessité de revoir les options fondamentales  de l'éducation à la lumière de l'insertion  d'Haïti  dans  l'ensemble  caraïbéen  et  latino  américain,  la  perte  de  valeurs  constatée,  le  déficit  de citoyenneté qu'a provoqué la persistance de la crise de société,  les orientations  économiques  à prendre, etc. devraient  réalimenter  la  réflexion  sur  le  rôle  que  doit  jouer  l'éducation  et  sur  les  efforts  à  fournir  pour  que l'école  réponde  aux  aspirations  profondes  de    toutes  les  couches  de  la  société  haïtienne ».  Les  activités  de révision des curricula devront donc s'attacher à intégrer dans les nouveaux programmes  toutes les préoccupations  de  la  vie  quotidienne,  au  titre  notamment  de  l'exercice  de  la  démocratie,  de  la  protection  de l'environnement,  de  la  promotion  de  la  culture  nationale,  de  la  préservation  du  patrimoine,  de  la  sécurité nationale,  de  l'inclusion  sociale,  de  l'inclusion  des  handicapés,  de  la  justice  sociale,  etc.  en  vue  de  mieux développer  chez  l'haïtien,  le  profil  de « citoyen »,  tel  que  défini  dans  le  cadre  des  finalités  actuellement assignées à l'éducation en Haïti.
+322. De manière plus spécifique, il convient d'insister sur le fait que la révision curriculaire envisagée ici, au titre de l'amélioration de l'efficacité externe, devra notamment viser à adapter les programmes aux nouvelles réalités socio-économiques nationales. En effet, il a été clairement exprimé au chapitre précédent que « l'option démocratique prise par Haïti, la nécessité de revoir les options fondamentales de l'éducation à la lumière de l'insertion d'Haïti dans l'ensemble caraïbéen et latino américain, la perte de valeurs constatée, le déficit de citoyenneté qu'a provoqué la persistance de la crise de société, les orientations économiques à prendre, etc. devraient réalimenter la réflexion sur le rôle que doit jouer l'éducation et sur les efforts à fournir pour que l'école réponde aux aspirations profondes de toutes les couches de la société haïtienne ». Les activités de révision des curricula devront donc s'attacher à intégrer dans les nouveaux programmes toutes les préoccupations de la vie quotidienne, au titre notamment de l'exercice de la démocratie, de la protection de l'environnement, de la promotion de la culture nationale, de la préservation du patrimoine, de la sécurité nationale, de l'inclusion sociale, de l'inclusion des handicapés, de la justice sociale, etc. en vue de mieux
 
 [[END OF PAGE 119]]
 
 [[START OF PAGE 120]]
+
+développer chez l'haïtien, le profil de « citoyen », tel que défini dans le cadre des finalités actuellement assignées à l'éducation en Haïti.
 
 ##### Objectif  stratégique  2 :  Répondre  aux  besoins  de  main  -d'œuvre  qualifiée  des  secteurs  productifs  de l'économie
 
@@ -3326,10 +3404,10 @@ Juin 07
 
 ##### Présentation synoptique du quatrième choix stratégique : Promouvoir une plus grande efficacité externe du système
 
-ctifs stratégiques | Résultats attendus | Actions
+ectifs stratégiques | Résultats attendus | Actions
 --- | --- | ---
-ter les curricula aux és socio- miques nationales | Améliorer la congruence des curricula | Refonte et actualisation des curricula
-ndre aux besoins de d'œuvre qualifiée ecteurs productifs de nomie | 1.Le système de formation professionnelle offre une masse suffisante de main d'œuvre qualifiée en phase avec les objectifs de croissance du pays 2.Un observatoire renseigne sur les opportunités du marché de l'emploi 3.Une offre diversifiée de formation professionnelle stimule la productivité des différents secteurs de l'économie 4.Les capacités institutionnelles des structures de formation professionnelles sont améliorées | 1. Détermination des différents segments du marché de l'emploi 2.Détermination d'une veille stratégique sur les opportunités des différents secteurs de l'économie 3. Élaboration de modules de formation adaptés aux besoins 4. Renforcement des capacités institutionnelles des structures de formation professionnelles
+pter les curricula aux tés socio-omiques nationales | Améliorer la congruence des curricula | Refonte et actualisation des curricula
+ondre aux besoins de n d'œuvre qualifiée secteurs productifs de onomie | 1.Le système de formation professionnelle offre une masse suffisante de main d'œuvre qualifiée en phase avec les objectifs de croissance du pays 2.Un observatoire renseigne sur les opportunités du marché de l'emploi 3.Une offre diversifiée de formation professionnelle stimule la productivité des différents secteurs de l'économie 4.Les capacités institutionnelles des structures de formation professionnelles sont améliorées | 1. Détermination des différents segments du marché de l'emploi 2.Détermination d'une veille stratégique sur les opportunités des différents secteurs de l'économie 3. Élaboration de modules de formation adaptés aux besoins 4. Renforcement des capacités institutionnelles des structures de formation professionnelles
 
 [[END OF PAGE 122]]
 
@@ -3366,7 +3444,7 @@ ndre aux besoins de d'œuvre qualifiée ecteurs productifs de nomie | 1.Le syst�
 
 ###### Stratégie de mise en œuvre :
 
-329. La prise en charge par le ministère de tous les niveaux du système éducatif depuis le préscolaire jusqu'à l'enseignement  supérieur  doit ê tre  convenablement  appuyée  des  textes  légaux  établissant  les  missions  et attributions du ministère et des entités qui le composent, en tant que puissance publique, chargée de la régulation et du pilotage du système éducatif. Dans cette perspective, un certain nombre d'instruments légaux portant, entre autres, sur l'orientation de l'éducation, sur la structure et le fonctionnement du ministère, sur la régulation du secteur  non-public  (accréditation  des  écoles,  contrôle  du  secteur),  sur  l'implication  des  partenaires  dans  les décisions éducatives, sur la gestion de l'enseignement supérieur notamment, doivent être précisés, définis ou actualisés et validés par les instances législatives concernées.
+329. La prise en charge par le ministère de tous les niveaux du système éducatif depuis le préscolaire jusqu'à l'enseignement supérieur doit être convenablement appuyée des textes légaux établissant les missions et attributions du ministère et des entités qui le composent, en tant que puissance publique, chargée de la régulation et du pilotage du système éducatif. Dans cette perspective, un certain nombre d'instruments légaux portant, entre autres, sur l'orientation de l'éducation, sur la structure et le fonctionnement du ministère, sur la régulation du secteur non-public (accréditation des écoles, contrôle du secteur), sur l'implication des partenaires dans les décisions éducatives, sur la gestion de l'enseignement supérieur notamment, doivent être précisés, définis ou actualisés et validés par les instances législatives concernées.
 
 Une  meilleure  articulation  de  l'éducation  non  formelle  au  système  formel  d'éducation  doit  par  ailleurs  être recherchée et consacrée formellement dans des textes légaux.
 
@@ -3382,7 +3460,7 @@ Les missions des organes de gestion de l'éducation non formelle devraient par a
 
 ###### Stratégie de mise en œuvre :
 
-331. Une des grandes préoccupations du ministère doit être de renforcer son pôle technique, au niveau de ses entités dites techniques, compte tenu de son mandat d'assumer les fonctions de conception et de pilotage des sous-systèmes d'enseignement.  Ainsi, la structure de personnel des entités techniques en particulier devra être revue  pour  accorder  une  plus  grande  place  aux  cadres  techniques  de  haut  niveau  et  réduire  le  poids  des personnels  auxiliaires  et  d'appui.  Dans  cette  perspective,  s'imposent  une  réorientation  de  la  politique  de recrutement ainsi que de la politique de développement des ressources humaines. Une meilleure exploitation du CFCE devra être envisagé en vue du relèvement de la qualification des personnels existants. Parallèlement, un plan de motivation des cadres articulé autour de l'application transparente des critères de promotion d'une part, et de l'établissement d'un plan de carrière d'autre part, devrait permettre de stimuler les besoins de formation des cadres et de mieux les fidéliser.
+331. Une des grandes préoccupations du ministère doit être de renforcer son pôle technique, au niveau de ses entités dites techniques, compte tenu de son mandat d'assumer les fonctions de conception et de pilotage des sous-systèmes d'enseignement. Ainsi, la structure de personnel des entités techniques en particulier devra être revue pour accorder une plus grande place aux cadres techniques de haut niveau et réduire le poids des personnels auxiliaires et d'appui. Dans cette perspective, s'imposent une réorientation de la politique de recrutement ainsi que de la politique de développement des ressources humaines. Une meilleure exploitation du
 
 Stratégie Nationale d'Action / EPT
 
@@ -3393,6 +3471,8 @@ Juin 07
 [[END OF PAGE 124]]
 
 [[START OF PAGE 125]]
+
+CFCE devra être envisagé en vue du relèvement de la qualification des personnels existants. Parallèlement, un plan de motivation des cadres articulé autour de l'application transparente des critères de promotion d'une part, et de l'établissement d'un plan de carrière d'autre part, devrait permettre de stimuler les besoins de formation des cadres et de mieux les fidéliser.
 
 ###### Action 4 : Amélioration de la capacité d'intervention des entités du ministère
 
@@ -3442,7 +3522,7 @@ Juin 07
 
 ###### Stratégie de mise en œuvre :
 
-338. Dans la foulée des dispositions à prendre pour que le ministère exerce sa pleine autorité sur tout le système éducatif,  l'un  des  premiers  jalons  à  poser  concerne  l'accréditation  de  tous  les  établissements  scolaires  nonpublics. Des dispositions spéciales doivent être prises au niveau de l'État en ce qui concerne le fonctionnement des écoles qui suivent un curriculum établi pour des systèmes éducatifs étrangers (écoles internationales).
+338. Dans la foulée des dispositions à prendre pour que le ministère exerce sa pleine autorité sur tout le système éducatif, l'un des premiers jalons à poser concerne l'accréditation de tous les établissements scolaires non-publics. Des dispositions spéciales doivent être prises au niveau de l'État en ce qui concerne le fonctionnement des écoles qui suivent un curriculum établi pour des systèmes éducatifs étrangers (écoles internationales).
 
 339. A cette date, étant donné le faible pourcentage d'écoles accréditées, il importe, à coté du renforcement des capacités d'intervention des instances responsables des activités liées à l'accréditation, de mieux comprendre, au moyen d'études exploratoires, les facteurs particuliers qui entravent le processus d'accréditation des écoles. Il est un fait  que la localisation ou les conditions d'accès à l'école sont susceptibles d'agir sur son accréditation.
 
@@ -3470,7 +3550,7 @@ Juin 07
 
 344. Le système de taxation des écoles non publiques accréditées devrait être revisité avec le MEF et une étude réalisée  en  vue  de  l'élaboration  d'un  cadre  fiscal  plus  adapté.  Une  meilleure  politique  de  taxation  des  écoles devrait servir d'incitations à l'amélioration de la qualité, étant entendu que tout investissement dans la qualité pouvant faire l'objet de dégrèvement fiscal.
 
-345. Le renouvellement périodique des licences constitue également une autre stratégie importante de prise en charge. Le MENFP, ayant la charge de garantir l'éducation à travers le pays, la situation et le fonctionnement des écoles doivent être constamment questionnés et analysés.  Parallèlement, au processus d'accréditation qui facilite l'inventaire de toutes les écoles du pays, le processus de renouvellement devrait permettre le classement des écoles du pays à partir des services offerts, en fonction de la formation du personnel et selon leur niveau de performance aux examens officiels, afin d'avoir une vue d'ensemble sur la qualité des écoles non publiques du pays. Cette catégorisation devrait servir d'incitation à la qualité et de critère-clé à l'octroi d'avantages financiers aux écoles non publiques (subventions aux élèves).
+345. Le renouvellement périodique des licences constitue également une autre stratégie importante de prise en charge. Le MENFP, ayant la charge de garantir l'éducation à travers le pays, la situation et le fonctionnement des écoles doivent être constamment questionnés et analysés. Parallèlement, au processus d'accréditation qui
 
 Stratégie Nationale d'Action / EPT
 
@@ -3482,7 +3562,9 @@ Juin 07
 
 [[START OF PAGE 128]]
 
-346. Par ailleurs, le développement d'un pays, présupposant un système d'éducation qui répond à la politique et aux objectifs de développement du pays, la prise en charge responsable du système nécessite un contrôle strict pour qu'íl y ait une seule école avec une seule philosophie pour tous les enfants du pays. Le contrôle par l'Etat des écoles pratiquant un autre curriculum (école internationale) s'avère donc nécessaire en vue de garantir une éducation qui satisfait aux besoins de développement du pays.
+facilite l'inventaire de toutes les écoles du pays, le processus de renouvellement devrait permettre le classement des écoles du pays à partir des services offerts, en fonction de la formation du personnel et selon leur niveau de performance aux examens officiels, afin d'avoir une vue d'ensemble sur la qualité des écoles non publiques du pays. Cette catégorisation devrait servir d'incitation à la qualité et de critère-clé à l'octroi d'avantages financiers aux écoles non publiques (subventions aux élèves).
+
+346. Par ailleurs, le développement d'un pays, présupposant un système d'éducation qui répond à la politique et aux objectifs de développement du pays, la prise en charge responsable du système nécessite un contrôle strict pour qu'il y ait une seule école avec une seule philosophie pour tous les enfants du pays. Le contrôle par l'Etat des écoles pratiquant un autre curriculum (école internationale) s'avère donc nécessaire en vue de garantir une éducation qui satisfait aux besoins de développement du pays.
 
 ##### Objectif stratégique  3 : Assurer une plus grande implication des partenaires et acteurs dans les décisions éducatives et dans la gestion de l'école
 
@@ -3522,7 +3604,7 @@ Juin 07
 
 351. Des activités d'animation et de formation devraient être envisagées pour permettre aux conseils d'être plus fonctionnels et opérationnels. Des outils de gestion appropriés devraient être mis à leur disposition en vue de renforcer leur efficacité sur le plan de la gestion, d'autant qu'ils sont appelés à gérer éventuellement des projets d'écoles..
 
-352. Des campagnes de relations publiques devraient permettre d'informer la communauté sur les avantages de la  participation  de  tous  les  partenaires  à  la  gestion  de  l'école  et  d'encourager  les  directeurs  des  écoles  non publiques  à  implanter  ces  comités,  étant  entendu  que  toute  aide  financière  de  l'Etat  aux  écoles  doit nécessairement  passer  par  les  comités  de  gestion.  Il  faudra  s'assurer  de  la  participation  des  collectivités territoriales qui, en référence à l'article 32,2 de la Constitution en vigueur, se doivent d'assurer, de concert avec le MENFP, la prise en charge de l'éducation au niveau de leur zone
+352. Des campagnes de relations publiques devraient permettre d'informer la communauté sur les avantages de la participation de tous les partenaires à la gestion de l'école et d'encourager les directeurs des écoles non publiques à implanter ces comités, étant entendu que toute aide financière de l'Etat aux écoles doit nécessairement passer par les comités de gestion. Il faudra s'assurer de la participation des collectivités
 
 Stratégie Nationale d'Action / EPT
 
@@ -3534,7 +3616,9 @@ Juin 07
 
 [[START OF PAGE 130]]
 
-353. La démocratie étant une culture, un apprentissage, il est essentiel que le suivi et l'encadrement des activités de  gestion  participative  dans  les  écoles,  soient  assurés  par  les  instances  d'appui,  à  travers  l'ONAPE  par exemple, jusqu'à ce qu'une culture de participation communautaire soit établie dans toutes les écoles du pays.
+territoriales qui, en référence à l'article 32,2 de la Constitution en vigueur, se doivent d'assurer, de concert avec le MENFP, la prise en charge de l'éducation au niveau de leur zone
+
+353. La démocratie étant une culture, un apprentissage, il est essentiel que le suivi et l'encadrement des activités de gestion participative dans les écoles, soient assurés par les instances d'appui, à travers l'ONAPE par exemple, jusqu'à ce qu'une culture de participation communautaire soit établie dans toutes les écoles du pays.
 
 Stratégie Nationale d'Action / EPT
 
@@ -3562,30 +3646,32 @@ Objectifs stratégiques | Résultats attendus | Actions
 
 354.  Le  modèle  de  simulation  financière  développé  par  l'équipe  de  l'EPT-IMOA  (Banque  Mondiale)  a  été adapté à la réalité éducative haïtienne et utilisé en vue d'estimer les coûts des différentes composantes de la Stratégie Nationale d'Action - EPT. Le Cadre des Dépenses à Moyen Terme (CDMT) du Gouvernement a été respecté  ainsi  que  ses  projections  de  croissance  économique  faites  par  le  Ministère  de  l'Économie  et  des Finances  de  concert  avec  les  services  du  Fonds  Monétaire  International  (FMI).  Les  projections  de  certains indicateurs macro-économiques et des indicateurs liés aux arbitrages en faveur du secteur éducatif ont permis notamment  d'apprécier  l'évolution  des  ressources  publiques  qui  seront  consacrées  au  secteur  éducatif.  La comparaison  de  ces  ressources  domestiques  avec  les  coûts  des  interventions  nécessaires,  eux-mêmes déterminés  notamment  par  la  croissance  des  effectifs  à  scolariser  ciblés  et  de  l'étendue  des  problèmes  à résoudre,  à  l'horizon  2015,  permettent  de  mesurer  les  « gaps »  financiers  qu'il  conviendrait  de  rechercher auprès  de  la  communauté  internationale.  Les  coûts  globaux,  répartis  en  dépenses  courantes  et  dépenses  de capital, pour les différents niveaux d'enseignement du système éducatif sont estimés dans le tableau 3.1. Dans chacun des cas, l'envergure de ces coûts est  directement  fonction  des  cibles  retenues  -  de  concert  avec  les Directions techniques du Ministère de l'Éducation - en vue de corriger la situation diagnostiquée en référence à l'année de base 2005-2006. Plusieurs scénarii ayant permis d'apprécier l'impact de plusieurs futurs probables ont été effectués en vue d'éclairer les autorités tant du secteur de l'éducation que des finances et des autres secteurs. La présentation au Conseil de Gouvernement du 13 avril 2007 de ces différents scénarii a constitué le premier pas vers le processus de validation politique des choix et des arbitrages qui sont proposés. Un scénario médian, qui a eu l'aval des autorités du secteur de l'éducation et validé au Forum National du 22 mai 2007, fait l'objet  d'une  présentation  détaillée  dans  l'Annexe  A  qui  couvre  les  aspects  à  la  fois  financier,  physique  et numérique.  Il  allie  les  objectifs  de  croissance  économique  et  d'une  plus  forte  mobilisation  de  ressources domestiques (qu'il faut désormais mieux arbitrer en faveur du secteur éducatif) à une politique de contrôle de la croissance démographique et permet ainsi de mieux baliser l'ampleur de l'effort financier nécessaire selon les hypothèses de travail retenues.
 
-355. Il est évident en effet que le rythme de croissance de la population haïtienne - qui reste une population très jeune - combiné avec les problèmes diagnostiqués dans le système éducatif lui-même (voir Chapitres I et II) rendra difficile la réalisation des objectifs de la SNA-EPT. Or, si on devait se baser sur le passé pour prédire l'avenir, il n'est pas tout à fait certain que l'économie puisse croître au rythme anticipé. Les différents scénarii montrent en effet très clairement que la croissance économique est nécessaire et indispensable, mais ne suffit guère à elle seule pour supporter une pression fiscale suffisante en vue de faire face aux coûts de la Stratégie EPT. La mise en œuvre parallèlement d'une politique de planning familial en même temps qu'une démarche d'accroissement et de rationalisation de l'effort fiscal, doublé d'un arbitrage qui va même au-delà des cibles recommandées  par  l'IMOA,  est  le  scénario  qui  permettrait  au  pays  de  garantir  une  meilleure  soutenabilité budgétaire.  En  tout  état  de  cause,  l'atteinte  des  objectifs  de  l'EPT  suggère  une  plus  grande  mobilisation  de ressources tant nationales que de la communauté internationale.
+355. Il est évident en effet que le rythme de croissance de la population haïtienne - qui reste une population très jeune - combiné avec les problèmes diagnostiqués dans le système éducatif lui-même (voir Chapitres I et II) rendra difficile la réalisation des objectifs de la SNA-EPT. Or, si on devait se baser sur le passé pour prédire l'avenir, il n'est pas tout à fait certain que l'économie puisse croître au rythme anticipé. Les différents scénarii montrent en effet très clairement que la croissance économique est nécessaire et indispensable, mais ne suffit guère à elle seule pour supporter une pression fiscale suffisante en vue de faire face aux coûts de la Stratégie EPT. La mise en œuvre parallèlement d'une politique de planning familial en même temps qu'une démarche
 
 [[END OF PAGE 132]]
 
 [[START OF PAGE 133]]
 
-2007-2010 | 2011-2015 | 2007-2015 | %
+d'accroissement et de rationalisation de l'effort fiscal, doublé d'un arbitrage qui va même au-delà des cibles recommandées par l'IMOA, est le scénario qui permettrait au pays de garantir une meilleure soutenabilité budgétaire. En tout état de cause, l'atteinte des objectifs de l'EPT suggère une plus grande mobilisation de ressources tant nationales que de la communauté internationale.
+
+Tableau 8
+Coût agrégé de la Stratégie Nationale - EPT ('000 USD de 2006)
+ | 2007-2010 | 2011-2015 | 2007-2015 | %
 --- | --- | --- | --- | ---
 Dépenses courantes | 899 107 | 2 147 821 | 3 046 928 | 84%
 Dépenses de Capital | 226 031 | 354 845 | 580 876 | 16%
 TOTAL | 1 125 139 | 2 502 666 | 3 627 804 | 100%
 
-Tableau  8 Coût agrégé de la Stratégie Nationale - EPT ('000 USD de 2006)
-
 356. Sous les différentes hypothèses et cibles retenues, la mise en œuvre de la SNA-EPT entre 2007 et 2015 coûtera  en  effet  quelque  3.6  milliards  de  dollars,  dont  84%  en  dépenses  courantes  et  16%  en  dépenses d'investissement (Tableau 8). Les ressources nationales anticipées, provenant des recettes fiscales et parafiscales sous les hypothèses officielles de croissance du Gouvernement 55 , sont estimées à 1 758 836 milliers de dollars de 2006 (Tableau 9), ce qui correspond à 48% du coût global de la Stratégie. En y ajoutant les crédits déjà programmés par les Agences de coopération qui totalisent (pour ce que l'on connaît déjà) 461,92 millions de USD, soit 13% des coûts estimés, il est possible d'anticiper par conséquent une soutenabilité financière de quelque 61% des crédits nécessaires. Dans ces conditions, les besoins de financement extérieur sur la même période seront de 1 407 049 milliers de dollars pour tout le système (Tableau 9), soit 39% du coût global de la SNA-EPT.
 
-2007-2010 | 2011-2015 | 2007-2015 | % des coûts de la SNA-EPT
+Tableau 9
+Ressources anticipées et besoins de financement ('000 USD de 2006)
+ | 2007-2010 | 2011-2015 | 2007-2015 | % des coûts de la SNA-EPT
 --- | --- | --- | --- | ---
 Ressources nationales anticipées | 516 140 | 1 242 696 | 1 758 836 | 48%
 Promesses de Crédits non - budgétaire des bailleurs | 308 920 | 153 000 | 461 920 | 13%
 TOTAL DES RESSOURCES ANTICIPÉÉS | 825 060 | 1 395 696 | 2 220 756 | 61%
 Besoin de financement | 300 079 | 1 106 969 | 1 407 049 | 39%
-
-Tableau  9 Ressources anticipées et besoins de financement ('000 USD de 2006)
 
 > 55 La prévision de la croissance et de la situation économique est un exercice particulièrement délicat dans le cas d'Haïti (se référer au Chapitre I pour un aperçu des performances passées). Un choix a dû être fait en fonction de ce qui est officiel, discuté et retenu pour pouvoir  établir  des  prévisions  chiffrées.  Évidemment,  dans  tout  effort  de  prospective,  la  prudence  est  de  rigueur.  Les  projections  de croissance économique du Gouvernement sont faites par le Ministère de l'Économie et des Finances en concertation avec le FMI. Le document du FMI (IMF. 2006. Haiti : Enhanced Initiative for Heavily Indebted Poor Countries. Washington DC : IMF. September. IMF Country  Report  No.06/338)  contient  (p.  38)  les  projections  officielles  de  croissance  du  Gouvernement  entre  2005  et  2025.  Celles-ci anticipent une croissance moyenne de 4.2% l'an en termes réels entre 2005 et 2015, contre 5% entre 20016 et 2025. Pour tenir compte cependant de quelques effets cycliques liés à l'environnement sociopolitique haïtien, ces projections ont été réajustées pour certaines années (dont 2010, 2011, 2012 et 2015).
 
@@ -3599,25 +3685,25 @@ Juin 07
 
 [[START OF PAGE 134]]
 
-357. Le tableau 9 montre, pour les deux sous-périodes retenues, les besoins de financement nécessaires, tandis que la figure 8 illustre l'évolution des principaux flux financiers liés aux différentes composantes de la SNAEPT et le « gap » annuel à combler entre 2007 et 2015 pour tout le système éducatif et pour l'enseignement de base  respectivement.  Les  besoins  annuels  de  financement  selon  les  différents  ordres  d'enseignement  sont présentés dans le tableau A2 (Annexe A).
+357. Le tableau 9 montre, pour les deux sous-périodes retenues, les besoins de financement nécessaires, tandis que la figure 8 illustre l'évolution des principaux flux financiers liés aux différentes composantes de la SNA-EPT et le « gap » annuel à combler entre 2007 et 2015 pour tout le système éducatif et pour l'enseignement de base respectivement. Les besoins annuels de financement selon les différents ordres d'enseignement sont présentés dans le tableau A2 (Annexe A).
 
 Figure  8 Évolution comparée des ressources anticipées et des dépenses nécessaires, 2007-2015 ('000 USD de 2006)
 
 0
 
-1 0 0
+100
 
-2 0 0
+200
 
-3 0 0
+300
 
-4 0 0
+400
 
-5 0 0
+500
 
-6 0 0
+600
 
-7 0 0
+700
 
 2006
 
@@ -3651,27 +3737,27 @@ Figure  8 Évolution comparée des ressources anticipées et des dépenses néce
 
 US$ Million
 
-Prog ram m e de S ante-Nutrition (US $  397 M)
+Programme de Sante-Nutrition (US$ 397 M)
 
-Alphabetisation et E ducation non form elle (US $  188 M)
+Alphabetisation et Education non formelle (US$ 188 M)
 
-Enseig nem ent technique et professionnel (US $  153 M)
+Enseignement technique et professionnel (US$ 153 M)
 
-Supérieur (US $  136 M)
+Supérieur (US$ 136 M)
 
-Fond. III et S econdaire (US $  545 M)
+Fond. III et Secondaire (US$ 545 M)
 
-Fondamental 1 et 2 (US $ 1 802 M)
+Fondamental 1 et 2 (US$ 1 802 M)
 
-Préscolaire (US $  361 M)
+Préscolaire (US$ 361 M)
 
-Projection des financem ents ex terieurs
+Projection des financements exterieurs
 
 Total des ressources publiques pour les dépenses courantes
 
-d'éducation (m illiers de US $)
+d'éducation (milliers de US$)
 
-dont ressources publiques pour l'education prim aire
+dont ressources publiques pour l'education primaire
 
 Stratégie Nationale d'Action / EPT
 
@@ -3719,7 +3805,7 @@ LABOSSIÈRE, E. N.,( 2005). Le secteur réel, l'économie réelle et les perspec
 
 LAFORTUNE L. et DEAUDELIN C. (2001). La formation continue - De la réflexion à l'action. Presses de l'Université du Québec
 
-LAGUERRE, P. M (2005). Le phénomène de l'exclusion dans le système formel d'éducation en Haïti. Constats et recommandations. Rapport d'étude UNESCO, LANGLOIS L. et LAPOINTE C. (2002). Le leadership en éducation, Les Editions de la Chenelière Inc.
+LAGUERRE, P. M (2005). Le phénomène de l'exclusion dans le système formel d'éducation en Haïti. Constats et recommandations. Rapport d'étude UNESCO,
 
 Stratégie Nationale d'Action / EPT
 
@@ -3730,6 +3816,8 @@ Juin 07
 [[END OF PAGE 135]]
 
 [[START OF PAGE 136]]
+
+LANGLOIS L. et LAPOINTE C. (2002). Le leadership en éducation, Les Editions de la Chenelière Inc.
 
 LEGAULT J-P. (2004). Former des enseignants réflexifs, Les Editions logiques
 
@@ -3775,7 +3863,7 @@ MENJS (mars 2006). Cadre de coopération intérimaire : Bilan des financements e
 
 MENJS / BUGEP Novembre 2001 Education Préscolaire, objectifs et programme, Réédition MENJS / IPN
 
-MENJS/DAEPP (février 2005). Contrat pédagogique d'école MENJS/DAEPP (1997). Politique de subvention des écoles.
+MENJS/DAEPP (février 2005). Contrat pédagogique d'école
 
 Stratégie Nationale d'Action / EPT
 
@@ -3787,7 +3875,9 @@ Juin 07
 
 [[START OF PAGE 137]]
 
-MENJS/DAEPP (Mai 2004).  Processus d'octroi du certificat d'accréditation aux écoles non publiques.
+MENJS/DAEPP (1997). Politique de subvention des écoles.
+
+MENJS/DAEPP (Mai 2004). Processus d'octroi du certificat d'accréditation aux écoles non publiques.
 
 MENJS/DAEPP (juin 2004). Extrait du guide informatif de l'accréditation des écoles non publiques.
 
@@ -3917,7 +4007,7 @@ La  population  globale  d'Haïti  estimée  à  la  faveur  du  RGPH-2003  est 
 
 Le modèle simulation financière, suggéré par la Banque Mondiale, a été profondément modifié et utilisé pour calculer les coûts de la Stratégie Nationale d'Action - Éducation Pour Tous (SNA-EPT). Il comporte trois  parties  essentielles :  (A)  les  ressources  nationales,  (B)  les  dépenses  courantes,  et  (C)  les  dépenses d'investissements. Les ressources nationales anticipées sont définies par l'effort fiscal du Gouvernement et ses arbitrages en faveur du secteur de l'éducation. La différence A - (B+C) permet de déterminer les écarts de  financement  pour  la  mise  en  œuvre  de  la  SNA-EPT,  et  par  conséquent  les  besoins  de  financement extérieurs. L'année de base retenue dans les projections est l'exercice fiscal 2005-2006. Les données de cette année proviennent des différentes sources officielles nationales ou internationales dont le Ministère de l'Économie et des Finances, le MENFP (DPCE, DRH, DFP, PNCS, DGS, BUGEP, Cellule de Pilotage), l'IHSI et les Agences de Coopération (la Banque Mondiale, l'ACDI, l'UNICEF, l'USAID, la Banque de Développement de la Caraïbe, l'UNESCO, et la Banque Interaméricaine de Développement).
 
-Les effectifs scolarisés dans le préscolaire, le fondamental I, II et III, et le secondaire ont été projetés à partir des effectifs du recensement scolaire 2002-2003 de la DPCE-MENFP. Pour ce faire, trois indicateurs (le taux d'accès, le taux d'achèvement et le taux de redoublement) ont été combinés pour calculer un taux brut de scolarisation qui a permis de projeter les effectifs à partir de la population scolarisable. L'horizoncible  retenu  est  l'année  2015  (sauf  indication  contraire),  date  à  laquelle  devront  être  atteint  les  objectifs arrêtés au titre de l'Éducation Pour Tous dans la perspective de l'Initiative de Mise en Œuvre Accélérée IMOA (Fast Track Initiative). Un taux de change nominal, constant en moyenne, équivalent à celui observé en 2005-2006, soit de 40 HTG/dollar américain, a été adopté pour les calculs financiers et les projections. Dans ces dernières également, le phénomène de l'inflation est ignoré. En tout état de cause, l'incertitude qui entoure l'environnement général du pays s'ajoute aux marges d'erreur qu'impliquent toutes projections.
+Les effectifs scolarisés dans le préscolaire, le fondamental I, II et III, et le secondaire ont été projetés à partir des effectifs du recensement scolaire 2002-2003 de la DPCE-MENFP. Pour ce faire, trois indicateurs (le taux d'accès, le taux d'achèvement et le taux de redoublement) ont été combinés pour calculer un taux brut de scolarisation qui a permis de projeter les effectifs à partir de la population scolarisable. L'horizon-cible retenu est l'année 2015 (sauf indication contraire), date à laquelle devront être atteint les objectifs arrêtés au titre de l'Éducation Pour Tous dans la perspective de l'Initiative de Mise en Œuvre Accélérée - IMOA (Fast Track Initiative). Un taux de change nominal, constant en moyenne, équivalent à celui observé en 2005-2006, soit de 40 HTG/dollar américain, a été adopté pour les calculs financiers et les projections. Dans ces dernières également, le phénomène de l'inflation est ignoré. En tout état de cause, l'incertitude qui entoure l'environnement général du pays s'ajoute aux marges d'erreur qu'impliquent toutes projections.
 
 Les conventions et abréviations suivantes sont adoptées pour la présente annexe :
 
@@ -3947,11 +4037,11 @@ Juin 07
 
 ### 2. Le secteur de l'éducation et le cadre macro-économique : situation et perspectives
 
-Le taux de croissance réel de l'économie haïtienne a été de 1.8% et de 2.3% respectivement en 2004-2005 et  en  2005-2006.  Pour  l'année  2006-2007,  le  Gouvernement  table  sur  un  taux  une  croissance  de  4%  en termes réels, validé par le Fonds Monétaire International qui approuve la politique macro-économique du Gouvernement. 58 Comme le montre le tableau A1, la population globale continuera de croître à un rythme rapide de 2% l'an environ. Et le PIB per capita ne devrait pas dépasser, en 2015, quelque 500 dollars de 2006 des Etats-Unis, son niveau actuel étant de 414 dollars. Tandis que l'effort fiscal anticipé sur la base des calculs effectués à partir du modèle des coûts, qui pour l'heure est de 10.2% du PIB pour l'exercice 2005-2006, devrait augmenter à quelques 18% d'ici à 2015, ce qui aurait comme implication de rendre disponibles  davantage  de  ressources  domestiques  pour  les  dépenses  courantes  de  l'État,  mais  aussi  et surtout pour le secteur de l'éducation. Les dépenses courantes d'éducation sont estimées pour l'année 20052006 à 18.5% des dépenses publiques courantes (soit 82 859 milliers de dollars) et devraient augmenter à 28% à l'horizon 2015 dépassant ainsi les 22% recommandés par l'IMOA dans les pays pauvres. Exprimées en % du PIB, ces dépenses courantes qui sont estimées pour 2005-2006 à 1.97%, niveau qui est encore faible  comparé  aux  pays  qui  ont  réalisé  la  scolarisation  universelle  où  la  part  des  dépenses  publiques d'éducation dans le PIB est comprise entre 5 et 6%, 59 mais qui pourrait atteindre de telles performances vers  l'horizon  2015.  Toutefois,  la  Dépense  Intérieure  d'Éducation,  qui  donne  une  idée  plus  précise  de toutes  les  dépenses  engagées  par  tous  les  acteurs  dans  le  pays,  est  de  8.54% 60 pour  l'année  2005-2006 (Tableau A1).
+Le taux de croissance réel de l'économie haïtienne a été de 1.8% et de 2.3% respectivement en 2004-2005 et en 2005-2006. Pour l'année 2006-2007, le Gouvernement table sur un taux une croissance de 4% en termes réels, validé par le Fonds Monétaire International qui approuve la politique macro-économique du Gouvernement. 58 Comme le montre le tableau A1, la population globale continuera de croître à un rythme rapide de 2% l'an environ. Et le PIB per capita ne devrait pas dépasser, en 2015, quelque 500 dollars de 2006 des Etats-Unis, son niveau actuel étant de 414 dollars. Tandis que l'effort fiscal anticipé sur la base des calculs effectués à partir du modèle des coûts, qui pour l'heure est de 10.2% du PIB pour l'exercice 2005-2006, devrait augmenter à quelques 18% d'ici à 2015, ce qui aurait comme implication de rendre disponibles davantage de ressources domestiques pour les dépenses courantes de l'État, mais aussi et surtout pour le secteur de l'éducation. Les dépenses courantes d'éducation sont estimées pour l'année 2005-2006 à 18.5% des dépenses publiques courantes (soit 82 859 milliers de dollars) et devraient augmenter à 28% à l'horizon 2015 dépassant ainsi les 22% recommandés par l'IMOA dans les pays pauvres. Exprimées en % du PIB, ces dépenses courantes qui sont estimées pour 2005-2006 à 1.97%, niveau qui est encore faible comparé aux pays qui ont réalisé la scolarisation universelle où la part des dépenses publiques d'éducation dans le PIB est comprise entre 5 et 6%, 59 mais qui pourrait atteindre de telles performances vers l'horizon 2015. Toutefois, la Dépense Intérieure d'Éducation, qui donne une idée plus précise de toutes les dépenses engagées par tous les acteurs dans le pays, est de 8.54% 60 pour l'année 2005-2006 (Tableau A1).
 
 ### 3. Les ressources publiques anticipées pour l'éducation
 
-L'éducation  fondamentale  I  et  II  absorbent  actuellement  38%  de  l'ensemble  des  ressources  publiques consacrées au secteur éducatif. Mais ce ratio doit passer 60% d'ici à 2015 (soit 5 points de pourcentage en plus de ce que recommande l'IMOA habituellement dans les pays qu'elle appuie financièrement dans la voie  de  l'éducation  pour  tous).  Cela  est  nécessaire  pour  que  l'État  puisse  dégager  un  flux  croissant  de ressources  pour  cet  ordre  d'enseignement  (Tableau  A2).  Malgré  tout,  les  besoins  de  financements extérieurs restent élevés par rapport aux ressources nationales. Il en ressort des taux de dépendance 61 par rapport  aux  financements  extérieurs  relativement  élevés  (27%  dans  le  fondamental  I  et  II  et  52%  en moyenne dans l'ensemble du système entre 2007 et 2015) pour les dépenses totales, mais moins élevés que dans les autres scénarii (qui ne sont pas présentés ici). Ce niveau de dépendance à moyen et long termes est corrélé  à  l'accroissement  de  la  population  qu'il  faudra  scolariser  dans  le  fondamental  I  et  II  et  dans  les autres  niveaux  d'enseignement,  mais  aussi  à  la  volonté  de  l'État  de  réduire  la  charge  financière  des familles. Dans le même temps, l'insuffisance des ressources nationales, alors même qu'elles sont appelées à augmenter,  détermine  aussi  l'ampleur  de  cette  dépendance  aux  financements  externes.  Mais  cette dépendance se réduira au rythme d'un meilleur arbitrage en faveur du secteur de l'éducation recommandé par  le  présent  scénario.  Les  besoins  de  financements  extérieurs  pour  les  dépenses  totales  pour  tout  le secteur éducatif iront par conséquent croissant jusqu'à 2015 (Tableau A2).
+L'éducation fondamentale I et II absorbent actuellement 38% de l'ensemble des ressources publiques consacrées au secteur éducatif. Mais ce ratio doit passer 60% d'ici à 2015 (soit 5 points de pourcentage en plus de ce que recommande l'IMOA habituellement dans les pays qu'elle appuie financièrement dans la voie de l'éducation pour tous). Cela est nécessaire pour que l'État puisse dégager un flux croissant de ressources pour cet ordre d'enseignement (Tableau A2). Malgré tout, les besoins de financements
 
 > 58 Voir : Ministère de l'Économie et des Finances. 2006. Loi de Finances 2006-2007. Il faut reconnaître néanmoins qu'il s'agit là pour  certains observateurs  d'une  hypothèse  optimiste  dans  l'état actuel  de  l'économie  du  pays  et  de l'environnement sociopolitique, ce non seulement pour 2006-2007 mais aussi à moyen terme. Cela étant, si ces prévisions devaient  s'avérer  inexactes,  les  besoins  de  financement  extérieur  du  pays  seront  encore  plus  grands  car  les  ressources domestiques qu'il faudra dégager sont directement corrélées au processus de création de richesses (croissance économique) et  à  la  pression  fiscale.  Dans  de  telles  conditions,  il  sera  aussi  plus  difficile  pour  le  pays  de  faire  face  aux  enjeux  de l'éducation à court terme et de l'EPT à l'horizon 2015.
 
@@ -3968,6 +4058,8 @@ Juin 07
 [[END OF PAGE 142]]
 
 [[START OF PAGE 143]]
+
+extérieurs restent élevés par rapport aux ressources nationales. Il en ressort des taux de dépendance 61 par rapport aux financements extérieurs relativement élevés (27% dans le fondamental I et II et 52% en moyenne dans l'ensemble du système entre 2007 et 2015) pour les dépenses totales, mais moins élevés que dans les autres scénarii (qui ne sont pas présentés ici). Ce niveau de dépendance à moyen et long termes est corrélé à l'accroissement de la population qu'il faudra scolariser dans le fondamental I et II et dans les autres niveaux d'enseignement, mais aussi à la volonté de l'État de réduire la charge financière des familles. Dans le même temps, l'insuffisance des ressources nationales, alors même qu'elles sont appelées à augmenter, détermine aussi l'ampleur de cette dépendance aux financements externes. Mais cette dépendance se réduira au rythme d'un meilleur arbitrage en faveur du secteur de l'éducation recommandé par le présent scénario. Les besoins de financements extérieurs pour les dépenses totales pour tout le secteur éducatif iront par conséquent croissant jusqu'à 2015 (Tableau A2).
 
 ### 4. Les coûts des interventions par sous-secteur et par composante
 
@@ -4005,7 +4097,7 @@ Il  existe  actuellement  1421 écoles fondamentales publiques dont 443 ont une 
 
 L'éducation de base compte en 2005-2006 un effectif de 2 106 805. Cet effectif atteindra en 2015 quelque 2 256 146 enfants âgés de 6-11 ans car les sur-âgés seront canalisés vers le cycle accéléré dès 2007 (voir infra et Tableau A5.1). En 2005-2006, le fondamental non-public totalise, 81.5% des effectifs scolarisés. Il est  prévu  de  réduire  ce  pourcentage  à  70%  d'ici  à  2015  conséquemment  à  l'augmentation  de  l'offre publique dans les zones où cette offre est insuffisante ou inexistante. Dans le sous-secteur public, quelque 10 158 enseignants sont en classe en 2005-2006, mais aucun d'entre eux ne travaille en double vacation et seulement 34% sont des normaliens. Il est  prévu  d'augmenter  à  5%  le  nombre  d'enseignants  en  double vacation  et  à  50%  le  nombre  d'enseignants  normaliens  à  l'horizon  2015.  Par  ailleurs,  face  au  taux  de déperdition  de  2%,  il  sera  nécessaire  de  recruter  en  moyenne  810  enseignants  par  an  jusqu'à  2015.  Les enseignants  du  fondamental  I  et  II  ont  reçu  en  2006-2007  une  augmentation  salariale  de  17%.  Pour contribuer  à  une  amélioration  de  leur  qualité  de  vie,  le  MENFP  envisagera  en  leur  faveur  2  vagues d'augmentation  successive  de  20%  en  2009  et  2012  respectivement.  Dans  cette  perspective,  la  masse salariale enseignante sera en 2007 de plus de 21 millions de dollars et va plus que doubler en 2015. Les dépenses  hors  salaires  sont  estimées  à  50%  des  dépenses  courantes  totales  pour  l'année  2006  et  sont appelées à augmenter à hauteur de 70% à l'horizon 2015. Mais en valeur absolue, ces dépenses qui sont actuellement estimées à 15 905 625 dollars américains progresseront de manière constante jusqu'à atteindre 100 055 321 dollars américains en 2015. Le Ministère envisage par ailleurs de subventionner les frais de scolarisation des élèves des écoles publiques à hauteur de 42.5 dollars par élève. En 2015, 100% de ces élèves seront subventionnés. Dans le sous-secteur public, les dépenses courantes de l'État qui sont estimées à 31 621 669 en 2006 et seront alors 142 723 782 de dollars étant donné les ambitions de l'État (Tableau A5.2.).
 
-Dans  le  sous-secteur  non  public,  l'État  entend  soutenir  la  demande  d'éducation  en  subventionnant  une proportion  de  plus  en  plus  croissante  des  effectifs.  Actuellement,  l'équivalent  de  0.4%  des  effectifs  est subventionné par l'État au coût unitaire de 109 dollars américains, et ce pourcentage sera ramené à 70% en 2015. La finalité  de  la  démarche  est  de  réduire  les  coûts  de  scolarisation  supportés  par  les  familles.  Ce faisant,  les  dépenses  familiales  devront  diminuer  passant  de  78%  des  dépenses  courantes  totales d'éducation fondamental I et II actuellement (soit 186 483 129 dollars) à 17% en 2015 (soit 50 745 058 de dollars). Dans ces conditions, les dépenses publiques courantes pour le fondamental I et II (y compris le cycle accéléré développé plus bas) devront passer au total des 53 228 616 de dollars qu'elles sont en 20052006 à 248 667 578 de dollars, soit une augmentation de 367%.
+Dans le sous-secteur non public, l'État entend soutenir la demande d'éducation en subventionnant une proportion de plus en plus croissante des effectifs. Actuellement, l'équivalent de 0.4% des effectifs est subventionné par l'État au coût unitaire de 109 dollars américains, et ce pourcentage sera ramené à 70% en 2015. La finalité de la démarche est de réduire les coûts de scolarisation supportés par les familles. Ce faisant, les dépenses familiales devront diminuer passant de 78% des dépenses courantes totales d'éducation fondamental I et II actuellement (soit 186 483 129 dollars) à 17% en 2015 (soit 50 745 058 de dollars). Dans ces conditions, les dépenses publiques courantes pour le fondamental I et II (y compris le cycle accéléré développé plus bas) devront passer au total des 53 228 616 de dollars qu'elles sont en 2005-2006 à 248 667 578 de dollars, soit une augmentation de 367%.
 
 Stratégie Nationale d'Action / EPT
 
@@ -4025,7 +4117,7 @@ Les coûts récurrents  annuels  de  ce  programme  accéléré tant  en  termes
 
 ##### 4.2.3. Le coût du programme de formation initiale et continue des maîtres
 
-La formation initiale des maîtres et la formation continue de tous les agents éducatifs du fondamental I et II ont été ciblées par le MENFP comme moyen pour soutenir la qualité de l'éducation dans ce cycle. Dans cette perspective, la DFP bénéficie d'une dotation budgétaire unitaire annuelle équivalent à 829 HTG qui a permis  de  soutenir  la  formation  continue  des  agents  des  deux  premiers  cycles  du  fondamental.  A  ce montant, devrait s'ajouter un coût unitaire additionnel de 48 USD qui reste à mobiliser dans le souci de former tous les enseignants non qualifiés jusqu'à une certification équivalente au niveau d'un enseignant normalien. Pour cela, un volume total de 325 heures sera nécessaire par enseignant non qualifié en termes de  formation  professionnelle  et  disciplinaire  continue.  La  mise  en  place  des  réseaux  et  sous-réseaux d'EFACAP devrait permettre de réduire énormément les coûts de la formation continue de ces enseignants. Ainsi, entre 2007 et 2015, un peu plus de 424 000 dollars seront nécessaires annuellement en vue de faire face aux besoins de formation continue des agents éducatifs du fondamental tant public que non public, mais aussi des nouveaux gradués de la formation initiale (Tableau A9). Parallèlement, il faudra recruter annuellement dans le fondamental public un peu plus d'un millier de nouveaux enseignants pour faire face aux besoins d'enseignants alimentés par un taux de déperdition annuel de 2% de ce personnel, et compte tenu  également  du  ratio  élèves-maître  fixé  à  40  et  de  l'objectif  de  la  double  vacation  (Tableau  A6).  Le programme de formation initiale coûtera annuellement en moyenne quelques 232 503  dollars l'an au coût unitaire  annuel  de  300  USD  (Tableau  A9).  Au  final,  les  dépenses  courantes  pour  la  formation  des enseignants et des agents éducatifs s'élèveront à 657 011 dollars en moyenne l'an et totalisera quelque 6 millions  de  dollars  pour  les  8  prochaines  années.  Le  tableau  A9  montre  l'évolution  des  différentes grandeurs numériques et de leurs implications financières.
+La formation initiale des maîtres et la formation continue de tous les agents éducatifs du fondamental I et II ont été ciblées par le MENFP comme moyen pour soutenir la qualité de l'éducation dans ce cycle. Dans cette perspective, la DFP bénéficie d'une dotation budgétaire unitaire annuelle équivalent à 829 HTG qui a permis de soutenir la formation continue des agents des deux premiers cycles du fondamental. A ce montant, devrait s'ajouter un coût unitaire additionnel de 48 USD qui reste à mobiliser dans le souci de former tous les enseignants non qualifiés jusqu'à une certification équivalente au niveau d'un enseignant normalien. Pour cela, un volume total de 325 heures sera nécessaire par enseignant non qualifié en termes de formation professionnelle et disciplinaire continue. La mise en place des réseaux et sous-réseaux d'EFACAP devrait permettre de réduire énormément les coûts de la formation continue de ces enseignants. Ainsi, entre 2007 et 2015, un peu plus de 424 000 dollars seront nécessaires annuellement en vue de faire face aux besoins de formation continue des agents éducatifs du fondamental tant public que non public, mais aussi des nouveaux gradués de la formation initiale (Tableau A9). Parallèlement, il faudra recruter annuellement dans le fondamental public un peu plus d'un millier de nouveaux enseignants pour faire face aux besoins d'enseignants alimentés par un taux de déperdition annuel de 2% de ce personnel, et compte tenu également du ratio élèves-maître fixé à 40 et de l'objectif de la double vacation (Tableau A6). Le
 
 > 62 Pour calculer ce nombre, la structure par âge de la population selon le DHS 2000 (EMMUS IV) a été appliquée par un consultant de la Banque Mondiale aux données, car, il a été établi par la Banque Mondiale que si le RGPH-2003 donne une meilleure évaluation du stock de la population, il reste que l'EMMUS-2000 offre une meilleure estimation de la structure par  âge  de  la  population.  Ainsi  les  effectifs  scolarisés  ont  retranchés  des  populations  de  différents  groupes  d'âge spécifiques.
 
@@ -4042,6 +4134,8 @@ Juin 07
 [[END OF PAGE 145]]
 
 [[START OF PAGE 146]]
+
+programme de formation initiale coûtera annuellement en moyenne quelques 232 503 dollars l'an au coût unitaire annuel de 300 USD (Tableau A9). Au final, les dépenses courantes pour la formation des enseignants et des agents éducatifs s'élèveront à 657 011 dollars en moyenne l'an et totalisera quelque 6 millions de dollars pour les 8 prochaines années. Le tableau A9 montre l'évolution des différentes grandeurs numériques et de leurs implications financières.
 
 ##### 4.2.4. Les dépenses d'investissement dans le fondamental public I et II
 
@@ -4140,9 +4234,9 @@ Taux de dépendance aux financements ext. pour les dépenses totales d'éducatio
 Nota Bene : Les montants négatifs représentent des besoins de financement tandis que les montants positifs représentent des surplus.
 
 Tableau A3
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Dépenses de fonctionnement dans l'éducation préscolaire
 Année cible | Valeur cible | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Population scolarisable 3-5 ans | 2015 | 893 693 | 911 567 | 929 799 | 948 394 | 967 362 | 986 710 | 1 006 444 | 1 026 573 | 1 047 104 | 1 068 046
 Accroissement annuel de la population scolarisable | 2.0%
 Taux brut de fréquentation préscolaire | 2015 | 78.0% | 67% | 68% | 69% | 70% | 72% | 73% | 74% | 75% | 77% | 78%
@@ -4154,8 +4248,8 @@ Coût unitaire en % du PIB/tête | 2007 | 20% | 20% | 20% | 20% | 20% | 20% | 20
 Coût unitaire en USD (hors subventions) | 81.00 | 82.54 | 84.13 | 85.76 | 88.28 | 89.17 | 90.95 | 93.68 | 96.51 | 97.55
 Coût préscolaire public hors subventions(USD) | 1,951,024 | 4,030,154 | 6,272,069 | 8,688,217 | 11,399,410 | 14,091,746 | 17,107,266 | 20,547,040 | 24,300,720 | 27 853 255
 Coût de la subvention par élève dans le préscolaire public (USD) | 2007 | 30.0 | 0.0 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30
-Pourcentage des effectifs publics subventionnés par l'Etat Dépenses totales en Subvention aux élèves du préscolaire | 2015 | 100% | 0 | 11% | 22% | 33% | 44% | 56% | 67% | 78% | 89% | 100%
-public (USD) | 0 | 162 739 | 496 914 | 1 012 617 | 1 720 340 | 2 630 988 | 3 755 896 | 5 106 841 | 6 696 055 | 8 536 245
+Pourcentage des effectifs publics subventionnés par l'Etat | 2015 | 100% | 0 | 11% | 22% | 33% | 44% | 56% | 67% | 78% | 89% | 100%
+Dépenses totales en Subvention aux élèves du préscolaire public (USD) | 0 | 162 739 | 496 914 | 1 012 617 | 1 720 340 | 2 630 988 | 3 755 896 | 5 106 841 | 6 696 055 | 8 536 245
 Coût total préscolaire public (USD) | 1 951 024 | 4 192 893 | 6 768 983 | 9 700 834 | 13 119 749 | 16 722 734 | 20 863 162 | 25 653 880 | 30 996 776 | 36 389 500
 Préscolaire non-public
 Effectif enfants dans le préscolaire non-public | 571 143 | 558 312 | 544 739 | 530 400 | 515 270 | 499 322 | 482 530 | 464 866 | 446 304 | 426 812
@@ -4224,8 +4318,8 @@ pour durée de 2 ans | 26 192 | 26 192 | 26 192 | 26 192
 Effectif cumule | 52 242 | 104 484 | 131 843 | 157 893 | 106 954 | 54 712 | 27 352 | 1 302 | 0
 Non-Public
 pour une durée de 4 ans | 134 715 | 134 715 | 134 715 | 134 715
-pour une durée de 2 ans Effectif cumule | 100 447 | 100 447 | 100 447 | 100 447
-235 162 | 470 324 | 610 060 | 616 796 | 381 634 | 146 473 | 6 736 | 0 | 0
+pour une durée de 2 ans | 100 447 | 100 447 | 100 447 | 100 447
+Effectif cumule | 235 162 | 470 324 | 610 060 | 616 796 | 381 634 | 146 473 | 6 736 | 0 | 0
 Total effectifs dans le public | 106 851 | 213 702 | 295 671 | 270 934 | 164 293 | 57 442 | 30 083 | 1 302 | 0
 Rapport élève-maître dans le public | 2015 | 40 | 50 | 48.9 | 47.8 | 46.7 | 45.6 | 44.4 | 43.3 | 42.2 | 41.1 | 40.0
 Nombre d'enseignants dans le public | 2 186 | 4 473 | 6 336 | 5 947 | 3 697 | 1 326 | 712 | 32 | 0
@@ -4253,9 +4347,8 @@ Juin 07
 
 [[START OF PAGE 153]]
 
-Tableau A5.2 Dépenses courantes dans l'enseignement de base (1 er
-
-Dépenses courantes dans l'enseignement de base (1 et 2cycles du fondamental)
+Tableau A5.2
+Dépenses courantes dans l'enseignement de base (1er et 2cycles du fondamental)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Année cible | Valeur cible | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 Population scolarisable 6-11 ans | 1 686 385 | 1 728 545 | 1 771 758 | 1 816 052 | 1 861 454 | 1 907 990 | 1 955 690 | 2 004 582 | 2 054 697 | 2 106 064
@@ -4281,11 +4374,11 @@ Nombre d'élèves moyen par enseignant dans le public | 2015 | 40.0 | 38.5 | 38.
 Nombre total d'enseignants en classe dans le public | 10 158 | 11 655 | 11 784 | 12 168 | 12 492 | 12 905 | 13 637 | 14 370 | 15 103 | 15 835
 % d'enseignants normaliens | 2015 | 50% | 34% | 36% | 38% | 39% | 41% | 43% | 45% | 46% | 48% | 50%
 Besoins en recrutement | 1 700 | 362 | 619 | 568 | 663 | 990 | 1 006 | 1 021 | 1 034 | 713
-Taux de déperdition | 2% 3.74 | 4.32 | 3.51 | 4.10 | 3.96 | 3.90 | 3.80 | 4.40 | 4.24 | 4.17
-Coût moyen par enseignant (annuel en multiple du PIB/hab.) | 21 539 212 | 28 594 115 | 30 316 221 | 38 462 822 | 40 560 170 | 42 668 461
-Masse salariale enseignante totale du fondamental I et II public (USD) | 15 716 044 | 21 230 435 | 26 778 790 58 019 292 | 27 585 341 70 658 692 | 73 528 583 | 78 260 284 | 89 550 799 | 100
-Dépenses totales hors salaires enseignants (USD) | 15 905 625 | 31 163 998 | 41 564 453 | 72% | 94 772 605 | 055 321
-Dépenses totales hors salaires enseignants (en % dépenses courantes totales) | 2015 | 70% | 50% | 59% | 66% | 68% | 72% | 72% | 70% | 70% | 70%
+Taux de déperdition | 2%
+Coût moyen par enseignant (annuel en multiple du PIB/hab.) | 3.74 | 4.32 | 3.51 | 4.10 | 3.96 | 3.90 | 3.80 | 4.40 | 4.24 | 4.17
+Masse salariale enseignante totale du fondamental I et II public (USD) | 15 716 044 | 21 230 435 | 21 539 212 | 26 778 790 | 27 585 341 | 28 594 115 | 30 316 221 | 38 462 822 | 40 560 170 | 42 668 461
+Dépenses totales hors salaires enseignants (USD) | 15 905 625 | 31 163 998 | 41 564 453 | 58 019 292 | 70 658 692 | 73 528 583 | 78 260 284 | 89 550 799 | 94 772 605 | 100 055 321
+Dépenses totales hors salaires enseignants (en % dépenses courantes totales) | 2015 | 70% | 50% | 59% | 66% | 68% | 72% | 72% | 72% | 70% | 70% | 70%
 Dépenses totales hors salaires enseignants par élève (USD) | 41 | 69 | 90 | 120 | 141 | 141 | 141 | 151 | 151 | 150
 Coût de la subvention par élève dans le public (USD) | 2015 | 42.5 | 42.5 | 42.5 | 42.5 | 42.5 | 42.5 | 42.5 | 42.5 | 42.5 | 42.5 | 42.5
 
@@ -4301,8 +4394,7 @@ Juin 07
 
 Pourcentage des effectifs publics subventionnes par l'Etat | 2010 | 100% | 0% | 25% | 50% | 75% | 100% | 100% | 100% | 100% | 100% | 100%
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Dépenses totales en Subvention aux élèves du | 0
-fondamental public (USD) | 4 809 723 | 9 823 459 | 15 366 057 | 21 242 176 | 22 161 108 | 23 646 559 | 25 160 251 | 26 700 540 | 28 265 596
+Dépenses totales en Subvention aux élèves du fondamental public (USD) | 0 | 4 809 723 | 9 823 459 | 15 366 057 | 21 242 176 | 22 161 108 | 23 646 559 | 25 160 251 | 26 700 540 | 28 265 596
 Total des dépenses pour l'enseignement fondamental I et II public (USD) | 31 621 669 | 52 394 433 | 63 103 665 | 84 798 082 | 98 244 033 | 102 122 698 | 108 576 505 | 128 013 621 | 135 332 775 | 142 723 782
 Coût unitaire total public | 81 | 116 | 137 | 176 | 197 | 196 | 195 | 216 | 215 | 215
 Ecoles Non Publiques
@@ -4320,10 +4412,9 @@ Nombres total d'élèves dans le secteur non-public finance par les familles (% 
 Total financement des familles (USD) | 186 483 129 | 192 006 793 | 172 528 251 | 156 256 783 | 138 367 360 | 120 578 003 | 104 206 612 | 87 300 147 | 68 826 304 | 50 745 058
 Total financement des familles (%dépenses courantes d'éducation fondamental I et II) | 78% | 72% | 60% | 51% | 45% | 41% | 35% | 29% | 23% | 17%
 Dépenses courantes publiques totales pour l'enseignement fondamental I et II (USD) | 53 126 383 | 77 128 752 | 118 564 967 | 154 703 689 | 174 532 945 | 181 683 564 | 198 673 614 | 210 037 202 | 228 272 857 | 244 057 585
-Coût unitaire de l'enseignement fondamental I et
-II public (dépenses totales/élève/an, USD) | 135 | 140 | 184 | 204 | 205 | 209 | 231 | 229 | 228 | 220
-Coût unitaire de l'enseignement fondamental I et II non-public (dépenses totales/élève/an, USD) Total dépenses courantes publiques + Dépenses | 109 | 102 | 100 | 99 | 97 | 96 | 94 | 93 | 91 | 90
-Familles pour l'enseignement fondamental I et II (USD) | 239 609 512 | 269 135 546 | 291 093 218 | 310 960 472 | 312 900 306 | 302 261 567 | 302 880 226 | 297 337 349 | 297 099 160 | 294 802 644
+Coût unitaire de l'enseignement fondamental I et II public (dépenses totales/élève/an, USD) | 135 | 140 | 184 | 204 | 205 | 209 | 231 | 229 | 228 | 220
+Coût unitaire de l'enseignement fondamental I et II non-public (dépenses totales/élève/an, USD) | 109 | 102 | 100 | 99 | 97 | 96 | 94 | 93 | 91 | 90
+Total dépenses courantes publiques + Dépenses Familles pour l'enseignement fondamental I et II (USD) | 239 609 512 | 269 135 546 | 291 093 218 | 310 960 472 | 312 900 306 | 302 261 567 | 302 880 226 | 297 337 349 | 297 099 160 | 294 802 644
 
 Stratégie Nationale d'Action / EPT
 
@@ -4335,129 +4426,33 @@ Juin 07
 
 [[START OF PAGE 155]]
 
-Tableau A6 Dépenses d'investissement dans l'enseignement fondamental (1 er et 2cycles)
-
+Tableau A6
+Dépenses d'investissement dans l'enseignement fondamental (1er et 2cycles)
 Année cible | Valeur cible | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Coût par salle équipée y compris le coût des sanitaires (HTG) | 492 860 | 492860 | 492860 | 492860 | 492860 | 492860 | 492860 | 492860 | 492860 | 492860 | 492860
 Pourcentage de classes en double flux | 2015 | 35.0% | 14.0% | 16.3% | 18.7% | 21.0% | 23.3% | 25.7% | 28.0% | 30.3% | 32.7% | 35.0%
 Nombre de salles nécessaires dans le public | 8 911 | 10 475 | 10 824 | 11 370 | 11 126 | 10 938 | 11 027 | 11 471 | 11 890 | 12 316
 Constructions de nouvelles classes par an | 4 529 | 349 | 546 | 89 | 445 | 418 | 426
-Coût annuel total pour la construction des salles de classe (milliers de HTG) Nombre total de salles de classe dans le | 0 | 2 232 249 | 171 770 | 269 306 | 43 814 | 219 217 | 206 257 | 210 090
-public | 5 946 | 15 004 | 11 172 | 11 917 | 10 883 | 10 749 | 11 116 | 11 916 | 12 308 | 12 742
-% de salles de classes réhabilitées Coût unitaire de réhabilitation (% coût salle | 2015 | 50% | 10% | 14.4% | 18.9% | 23.3% | 27.8% | 32.2% | 36.7% | 41.1% | 45.6% | 50.0%
-neuve) | 2015 | 30% | 30% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0%
+Coût annuel total pour la construction des salles de classe (milliers de HTG) | 0 | 2 232 249 | 171 770 | 269 306 | 43 814 | 219 217 | 206 257 | 210 090
+Nombre total de salles de classe dans le public | 5 946 | 15 004 | 11 172 | 11 917 | 10 883 | 10 749 | 11 116 | 11 916 | 12 308 | 12 742
+% de salles de classes réhabilitées | 2015 | 50% | 10% | 14.4% | 18.9% | 23.3% | 27.8% | 32.2% | 36.7% | 41.1% | 45.6% | 50.0%
+Coût unitaire de réhabilitation (% coût salle neuve) | 2015 | 30% | 30% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0% | 30.0%
 Coût annuel total pour la réhabilitation des salles de classe (milliers de HTG) | 87 916 | 320 452 | 312 026 | 411 122 | 446 973 | 512 117 | 602 624 | 724 339 | 829 063 | 942 035
 Coût annuel total pour la construction et la réhabilitation (milliers de HTG) | 87 916 | 2 552 701 | 483 796 | 680 428 | 326 875 | 419 111 | 646 438 | 943 555 | 1 035 319 | 1 152 125
 Nombre d'écoles publiques | 1 241 | 1 459 | 1 507 | 1 584 | 1 550 | 1 523 | 1 536 | 1 598 | 1 656 | 1 715
 % d'écoles dotées d'infrastructures de cantine | 2015 | 50% | 35% | 37% | 39% | 40% | 42% | 44% | 45% | 47% | 48% | 50%
 Coût unitaires de construction (et équipement) des cantines (HTG) | 2015 | 295 716 | 295 716 | 295716 | 295716 | 295716 | 295716 | 295716 | 295716 | 295716 | 295716 | 295716
 Coût de construction des cantines (milliers de HTG) | 29 816 | 12 535 | 16 283 | 3 375 | 4 036 | 8 946 | 15 918 | 15 987 | 16 706 | 6 341
-Coût annuel total pour la construction
+Coût annuel total pour la construction de bâtiments (milliers de HTG) | 117 732 | 2 565 236 | 500 079 | 683 804 | 330 911 | 428 056 | 662 356 | 959 543 | 1 052 025 | 1 158 466
 
 Tableau A7
-
-Dépenses courantes du programme d'Alphabétisation et d'Éducation non formelle Année Valeur cible 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
-
-cible
-
-2010
-
-2015
-
-Coût unitaire ou subvention par personne alphabétisée (USD)
-
-Nombre cumule de personnes de 13 ans et + du programme
-
-d'alphabétisation et d'enseignement non formel
-
-Nombre de personnes de 13 ans et + a alphabétiser par an
-
-Total dépenses courantes publiques pour l'alphabétisation
-
-en l'enseignement non formel (USD)
-
-63
-
-3 000 000
-
-25
-
-17 160
-
-435 057
-
-34.9
-
-34 320
-
-17 160
-
-598 203
-
-44.4
-
-54 060
-
-19 740
-
-875 806
-
-53.9
-
-95 952
-
-41 892
-
-2 256 925
-
-63.4
-
-170 306
-
-74 355
-
-4 712 771
-
-63.4
-
-302 279
-
-131 973
-
-8 364 781
-
-63.4
-
-536 521
-
-234 242
-
-14 846 799
-
-63.4
-
-952 280
-
-415 759
-
-26 351 846
-
-63.4
-
-1 690 219
-
-737 939
-
-46 772 357
-
-63.4
-
-3 000 000
-
-1 309 781
-
-83 017 084
+Dépenses courantes du programme d'Alphabétisation et d'Éducation non formelle
+Année cible | Valeur cible | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+Coût unitaire ou subvention par personne alphabétisée (USD) | 2010 | 63 | 25 | 34.9 | 44.4 | 53.9 | 63.4 | 63.4 | 63.4 | 63.4 | 63.4 | 63.4
+Nombre cumule de personnes de 13 ans et + du programme d'alphabétisation et d'enseignement non formel | 2015 | 3 000 000 | 17 160 | 34 320 | 54 060 | 95 952 | 170 306 | 302 279 | 536 521 | 952 280 | 1 690 219 | 3 000 000
+Nombre de personnes de 13 ans et + a alphabétiser par an | 17 160 | 19 740 | 41 892 | 74 355 | 131 973 | 234 242 | 415 759 | 737 939 | 1 309 781
+Total dépenses courantes publiques pour l'alphabétisation en l'enseignement non formel (USD) | 435 057 | 598 203 | 875 806 | 2 256 925 | 4 712 771 | 8 364 781 | 14 846 799 | 26 351 846 | 46 772 357 | 83 017 084
 
 Stratégie Nationale d'Action / EPT
 
@@ -4469,43 +4464,35 @@ Juin 07
 
 [[START OF PAGE 156]]
 
+Tableau A8
+Les dépenses courantes et de capital pour l'enseignement technique et professionnel
+Année cible | Valeur cible | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+Coût unitaire ou subvention par étudiant en formation professionnelle (USD) | 2015 | 150 | 150 | 150.0 | 150.0 | 150.0 | 150.0 | 150.0 | 150.0 | 150.0 | 150.0 | 150.0
+Nombre d'étudiants du programme formation professionnelle | 2009 | 101 685 | 16 948 | 45 194 | 73 440 | 101 685 | 118 445 | 118 805 | 118 805 | 104 143 | 101 685 | 101 685
+Total dépenses courantes publiques pour l'enseignement professionnel (USD) | 2 542 137 | 6 779 033 | 11 015 929 | 15 252 825 | 17 766 760 | 17 820 823 | 17 820 823 | 15 621 437 | 15 252 825 | 15 252 825
+Total des dépenses d'investissement (milliers de USD) | 3 390 | 5 508 | 7 626 | 8 883 | 8 910 | 8 910 | 7 811 | 7 626 | 7 626
+
+Tableau A9
+Les dépenses courantes de la formation initiale des enseignants
+et de la formation continue des agents éducatifs du fondamental (cycles I et II)
+Année cible | Valeur cible | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 Formation continue
-
-Dépenses  publiques  courantes  de  formation  par  enseignant  du fondamental (1et 2 C) (en HTG) 2015 829 82 828.9 828.9 828.9 828.9 828.9 828.9 828.9 828.9 Effectifs cumule d'agents éducatifs a former (en % des effectifs totaux) 2015 100% 7% 17% 28% 38% 48% 59% 69% 79% 90% % d'agents a former par an 7% 10% 10% 10% 10% 10% 10% 10% 10% Nombre total cumule d'agents éducatifs à former 6 198 15 099 24 000 32 901 41 802 50 704 59 605 68 506 77 407 Nombre d'agents à former par an 6 198 8 901 8 901 8 901 8 901 8 901 8 901 8 901 8 901 Nombre  d'agents  éducatifs  à  former  (y  compris  les  nouveaux diplômes de la formation initiale) 6 198 9 264 9 520 9 469 9 564 9 891 9 907 9 922 9 936 Coût  horaire  de  la  formation  continue  d'un  agent  éducatif  (en USD) 0.991 Nombre d'heures de formation nécessaire jusqu'a la certification d'un enseignant non qualifié du fondamental 325 Nombre d'heures annuelles cumulées de formation continue par agent éducatif non qualifié 2015 325 80.0 107.2 134.4 161.7 188.9 216.1 243.3 270.6 297.8 Nombre d'heures annuelles de formation continue par enseignant 27.2 27.2 27.2 27.2 27.2 27.2 27.2 27.2
-
-non qualifié 80.0 Coût annuel total de la formation continue (en USD) 619,676 424,508 424,508 424,508 424,508 424,508 424,508 424,508 424,508 Coût unitaire de la formation continue (en USD) 100 48 48 48 48 48 48 48 48 48 Formation initiale Coût unitaire de la formation initiale (en USD) 300.0 300.0 300.0 300.0 300.0 300.0 300.0 300.0 300.0 300.0 Coût annuel total de la formation initiale (en USD) 509 994 108 745 185 758 170 277 198 949 296 859 301 670 306 167 310 327 213 773 Coût  annuel  total  de  la  formation  initiale  et  continue  des enseignants (en USD) 1,129,670 533,252 610,266 594,784 623,457 721,367 726,177 730,675 734,834 638,281
-
-Tableau A8 Les dépenses courantes et de capital pour l'enseignement technique et professionnel
-
-Année cible Valeur cible 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 Coût unitaire ou subvention par étudiant en formation professionnelle (USD) 2015 150 150 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 Nombre d'étudiants du programme formation professionnelle 2009 101 685 16 948 45 194 73 440 101 685 118 445 118 805 118 805 104 143 101 685 101 685 Total dépenses courantes publiques pour l'enseignement professionnel (USD) 2 542 137 6 779 033 11 015 929 15 252 825 17 766 760 17 820 823 17 820 823 15 621 437 15 252 825 15 252 825 Total des dépenses d'investissement (milliers de USD) 3 390 5 508 7 626 8 883 8 910 8 910 7 811 7 626 7 626
-
-Tableau A9 Les dépenses courantes de la formation initiale des enseignants et de la formation continue des agents éducatifs du fondamental (cycles I et II)
-
-Année
-
-cible Valeu r cible
-
-2006
-
-2007
-
-2008
-
-2009
-
-2010
-
-2011
-
-2012
-
-2013
-
-2014
-
-2015
-
-828.9 100% 10% 86 308 8 901 9 614 325.0 27.2 424,508
+Dépenses publiques courantes de formation par enseignant du fondamental (1et 2 C) (en HTG) | 2015 | 829 | 82 | 828.9 | 828.9 | 828.9 | 828.9 | 828.9 | 828.9 | 828.9 | 828.9 | 828.9
+Effectifs cumule d'agents éducatifs a former (en % des effectifs totaux) | 2015 | 100% | 7% | 17% | 28% | 38% | 48% | 59% | 69% | 79% | 90% | 100%
+% d'agents a former par an | 7% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10%
+Nombre total cumule d'agents éducatifs à former | 6 198 | 15 099 | 24 000 | 32 901 | 41 802 | 50 704 | 59 605 | 68 506 | 77 407 | 86 308
+Nombre d'agents à former par an | 6 198 | 8 901 | 8 901 | 8 901 | 8 901 | 8 901 | 8 901 | 8 901 | 8 901 | 8 901
+Nombre d'agents éducatifs à former (y compris les nouveaux diplômes de la formation initiale) | 6 198 | 9 264 | 9 520 | 9 469 | 9 564 | 9 891 | 9 907 | 9 922 | 9 936 | 9 614
+Coût horaire de la formation continue d'un agent éducatif (en USD) | 0.991
+Nombre d'heures de formation nécessaire jusqu'a la certification d'un enseignant non qualifié du fondamental | 325
+Nombre d'heures annuelles cumulées de formation continue par agent éducatif non qualifié | 2015 | 325 | 80.0 | 107.2 | 134.4 | 161.7 | 188.9 | 216.1 | 243.3 | 270.6 | 297.8 | 325.0
+Nombre d'heures annuelles de formation continue par enseignant non qualifié | 80.0 | 27.2 | 27.2 | 27.2 | 27.2 | 27.2 | 27.2 | 27.2 | 27.2 | 27.2
+Coût annuel total de la formation continue (en USD) | 619,676 | 424,508 | 424,508 | 424,508 | 424,508 | 424,508 | 424,508 | 424,508 | 424,508 | 424,508
+Coût unitaire de la formation continue (en USD) | 100 | 48 | 48 | 48 | 48 | 48 | 48 | 48 | 48 | 48
+Formation initiale
+Coût unitaire de la formation initiale (en USD) | 300.0 | 300.0 | 300.0 | 300.0 | 300.0 | 300.0 | 300.0 | 300.0 | 300.0 | 300.0
+Coût annuel total de la formation initiale (en USD) | 509 994 | 108 745 | 185 758 | 170 277 | 198 949 | 296 859 | 301 670 | 306 167 | 310 327 | 213 773
+Coût annuel total de la formation initiale et continue des enseignants (en USD) | 1,129,670 | 533,252 | 610,266 | 594,784 | 623,457 | 721,367 | 726,177 | 730,675 | 734,834 | 638,281
 
 Stratégie Nationale d'Action / EPT Juin 07 144
 
@@ -4531,21 +4518,22 @@ Stratégie Nationale d'Action / EPT Juin 07 145
 
 Taux de déperdition | 2%
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Coût moyen par enseignant Salaire moyen mensuel enseignant (en HTG) (salaire+primes) | 8 138 | 8 293 | 8 453 | 8 619 | 8 876 | 8 968 | 9 151 | 9 431 | 9 722 | 9 834
-Salaire annuel moyen en multiple du PIB/Tête | 2015 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 385 972 | 6.4 | 6.4 597 182 | 6.4 706 412 | 6.4 841 197 | 6.4 999 083 | 6.4 1161 285
-Masse salariale enseignante totale publique (HTG) Autres dépenses courantes publiques pour le Fond. 3 | 189 210 217 | 245 691 137 | 309 029 388 | 558 | 486 120 297 | 069 152 613 | 814 | 168 233 665 | 595 288 624 | 208 348 385
-public (HTG) | 37 842 043 | 51 868 129 | 68 673 197 | 90 060 264 | 118 829 406 | 195 | 188 376 751 | 880 | 150 | 562
+Coût moyen par enseignant
+Salaire moyen mensuel enseignant (en HTG) (salaire+primes) | 8 138 | 8 293 | 8 453 | 8 619 | 8 876 | 8 968 | 9 151 | 9 431 | 9 722 | 9 834
+Salaire annuel moyen en multiple du PIB/Tête | 2015 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4
+Masse salariale enseignante totale publique (HTG) | 189 210 217 | 245 691 137 | 309 029 388 | 385 972 558 | 486 120 297 | 597 182 069 | 706 412 814 | 841 197 168 | 999 083 595 | 1 161 285 208
+Autres dépenses courantes publiques pour le Fond. 3 public (HTG) | 37 842 043 | 51 868 129 | 68 673 197 | 90 060 264 | 118 829 406 | 152 613 195 | 188 376 751 | 233 665 880 | 288 624 150 | 348 385 562
 Autres dépenses courantes pour le 2ndaire public (en % de la masse salariale) | 2015 | 30.0% | 20% | 21% | 22% | 23% | 24% | 26% | 27% | 28% | 29% | 30%
 Dépenses courantes publiques totales dans le Fond. 3 public (milliers de HTG) | 227 052 | 297 559 | 377 703 | 476 033 | 604 950 | 749 795 | 894 790 | 1 074 863 | 1 287 708 | 1 509 671
 Dépenses courantes publiques totales dans le Fond. 3 public (milliers de USD) | 5 676 | 7 439 | 9 443 | 11 901 | 15 124 | 18 745 | 22 370 | 26 872 | 32 193 | 37 742
-Appui à l'enseignement Fondamental 3 non-public Nombre d'élèves du Fondamental 3 non-public finances par
-l'Etat | 0 | 7 973 | 17 847 | 29 804 | 44 247 | 61 299 | 77 810 | 95 800 | 115 281 | 136 258
+Appui à l'enseignement Fondamental 3 non-public
+Nombre d'élèves du Fondamental 3 non-public finances par l'Etat | 0 | 7 973 | 17 847 | 29 804 | 44 247 | 61 299 | 77 810 | 95 800 | 115 281 | 136 258
 Subvention par enfant en école secondaire accréditée (USD) | 2015 | 90 | 90 | 90 | 90 | 90 | 90 | 90 | 90 | 90 | 90 | 90
 Nombre d'élèves du Fondamental 3 non-public finances par l'Etat (en % du non-public) | 2015 | 25% | 0% | 3% | 6% | 8% | 11% | 14% | 17% | 19% | 22% | 25%
 Total subventions aux écoles du Fond. 3 non-publiques (USD) | 0 | 718 | 1 607 | 2 685 | 3 988 | 5 527 | 7 018 | 8 644 | 10 406 | 12 304
 Total dépenses Fondamental 3 (public et non-public) (en milliers de USD) | 5 676 | 8 157 | 11 050 | 14 586 | 19 112 | 24 272 | 29 388 | 35 516 | 42 599 | 50 046
-Financement par les familles Dépense moyenne annuelle par famille et par élève USD)
-(en | 2015 | 181 | 181 | 181 | 181 | 181 | 181 | 181 | 181 | 181 | 181 | 181
+Financement par les familles
+Dépense moyenne annuelle par famille et par élève (en USD) | 2015 | 181 | 181 | 181 | 181 | 181 | 181 | 181 | 181 | 181 | 181 | 181
 Nombres total d'élèves dans le secteur non-public finance par les familles | 248 904 | 279 047 | 303 405 | 327 844 | 353 976 | 380 055 | 389 052 | 396 886 | 403 484 | 408 775
 Nombres total d'élèves dans le secteur non-public finance par les familles (% du total non-public) | 2015 | 70.0% | 100.0% | 97% | 93% | 90% | 87% | 83% | 80% | 77% | 73% | 70%
 Total financement des familles (USD) | 44 952 062 | 50 395 109 | 54 793 329 | 59 205 935 | 63 924 121 | 68 632 325 | 70 255 772 | 71 668 945 | 72 858 750 | 73 812 516
@@ -4587,9 +4575,9 @@ Besoins en recrutement | 293 | 563 | 732 | 943 | 1 205 | 1 088 | 1 277 | 1 493 |
 Taux de déperdition | 2015 | 2%
 Coût moyen par enseignant
 Salaire moyen mensuel enseignant (en HTG) (salaire+primes) | 8 138 | 8 293 | 8 453 | 8 619 | 8 876 | 8 968 | 9 151 | 9 431 | 9 722 | 9 834
-Salaire annuel moyen en multiple du PIB/Tête | 2015 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 302 795 | 6.4 | 6.4 550 810 | 6.4 680 317 | 6.4 843 694 | 6.4 1041 080 | 6.4 1254 433
-Masse salariale enseignante totale publique (HTG) Autres dépenses courantes publiques pour le | 127 848 810 | 159 275 461 | 220 950 582 | 711 | 414 383 621 | 710 140 762 | 950 181 418 | 821 234 359 | 467 300 756 | 789 376 330
-secondaire public (HTG) | 25 569 762 | 33 624 820 | 49 100 129 | 70 652 333 | 101 293 774 | 737 | 120 | 673 | 579 | 137
+Salaire annuel moyen en multiple du PIB/Tête | 2015 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4
+Masse salariale enseignante totale publique (HTG) | 127 848 810 | 159 275 461 | 220 950 582 | 302 795 711 | 414 383 621 | 550 810 710 | 680 317 950 | 843 694 821 | 1 041 080 467 | 1 254 433 789
+Autres dépenses courantes publiques pour le secondaire public (HTG) | 25 569 762 | 33 624 820 | 49 100 129 | 70 652 333 | 101 293 774 | 140 762 737 | 181 418 120 | 234 359 673 | 300 756 579 | 376 330 137
 Autres dépenses courantes pour le 2ndaire public (en % de la masse salariale) | 2015 | 30.0% | 20% | 21% | 22% | 23% | 24% | 26% | 27% | 28% | 29% | 30%
 Dépenses courantes publiques totales dans le secondaire public (milliers de USD) | 3 835 | 4 823 | 6 751 | 9 336 | 12 892 | 17 289 | 21 543 | 26 951 | 33 546 | 40 769
 Total dépenses courantes publiques pour l'enseignement Fond. 3 et secondaire (milliers de USD) | 9 512 | 12 979 | 17 801 | 23 922 | 32 004 | 41 561 | 50 932 | 62 467 | 76 145 | 90 815
@@ -4635,24 +4623,28 @@ Stratégie Nationale d'Action / EPT
 [[START OF PAGE 161]]
 
 Tableau A13
+Les dépenses courantes de l'enseignement supérieur
+Année cible | Valeur cible | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+Nombre total d'étudiants | 2015 | 40 000 | 47 624 | 55 530 | 63 718 | 72 192 | 80 953 | 90 002 | 91 699 | 93 402 | 95 112
+Nombre d'étudiants pour 100 000 habitants | 2012 | 788 | 394 | 460 | 525 | 591 | 657 | 722 | 788 | 788 | 788 | 788
+Enseignement supérieur public | 2015
+Nombre d'étudiants dans le supérieur public | 2015 | 28 000 | 32 808 | 37 637 | 42 479 | 47 326 | 52 169 | 57 001 | 57 057 | 57 079 | 57 067
+% d'étudiants dans le supérieur non-public | 2015 | 40.0% | 30.0% | 31% | 32% | 33% | 34% | 36% | 37% | 38% | 39% | 40%
+Nombre d'étudiants dans le supérieur non-public | 2015 | 12 000 | 14 816 | 17 893 | 21 239 | 24 866 | 28 783 | 33 001 | 34 642 | 36 323 | 38 045
+Coût unitaire | 2015 | 247.63 | 247.63 | 248 | 248 | 248 | 248 | 248 | 248 | 248 | 248 | 248
+Dépenses courantes publiques totales dans le supérieur public (milliers de USD) | 6 934 | 8 124 | 9 320 | 10 519 | 11 719 | 12 919 | 14 115 | 14 129 | 14 134 | 14 131
+Financement par les familles et les étudiants
+Dépense moyenne annuelle par famille et par étudiant dans le supérieur public (en USD) | 2015 | 722 | 722 | 722 | 722 | 722 | 722 | 722 | 722 | 722 | 722 | 722
+Nombres total d'étudiants dans le secteur non-public finance par les familles | 2015 | 12 000 | 14 816 | 17 893 | 21 239 | 24 866 | 28 783 | 33 001 | 34 642 | 36 323 | 38 045
+Nombres total d'élèves dans le secteur non-public finance par les familles (% du total non-public) | 2015 | 100.0% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+Total financement des familles (USD) | 2015 | 8 668 800 | 10 703 418 | 12 925 837 | 15 343 358 | 17 963 296 | 20 792 962 | 23 839 651 | 25 025 196 | 26 239 818 | 27 483 435
+Coût unitaire de l'enseignement supérieur public (dépenses totales/étudiant/an, USD) | 2015 | 248 | 248 | 248 | 248 | 248 | 248 | 248 | 248 | 248 | 248
+Total dépenses courantes publiques + Dépenses Familles pour l'enseignement supérieur (USD) | 2015 | 15 602 425 | 18 827 621 | 22 245 819 | 25 862 371 | 29 682 576 | 33 711 667 | 37 954 798 | 39 154 188 | 40 374 304 | 41 614 889
 
-Les dépenses courantes de l'enseignement supérieur Année cible Valeur cible 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
-
-Nombre total d'étudiants 2015 40 000 47 624 55 530 63 718 72 192 80 953 90 002 91 699 93 402 95 112 Nombre d'étudiants pour 100 000 habitants 2012 788 394 460 525 591 657 722 788 788 788 788 Enseignement supérieur public 2015 Nombre d'étudiants dans le supérieur public 2015 28 000 32 808 37 637 42 479 47 326 52 169 57 001 57 057 57 079 57 067 % d'étudiants dans le supérieur non-public 2015 40.0% 30.0% 31% 32% 33% 34% 36% 37% 38% 39% 40% Nombre d'étudiants dans le supérieur non-public 2015 12 000 14 816 17 893 21 239 24 866 28 783 33 001 34 642 36 323 38 045 Coût unitaire 2015 247.63 247.63 248 248 248 248 248 248 248 248 248 Dépenses  courantes  publiques  totales  dans  le  supérieur  public (milliers de USD) 6 934 8 124 9 320 10 519 11 719 12 919 14 115 14 129 14 134 14 131 Financement par les familles et les étudiants Dépense moyenne annuelle par famille et par étudiant dans le supérieur public (en USD) 2015 722 722 722 722 722 722 722 722 722 722 722 Nombres  total  d'étudiants  dans  le  secteur  non-public  finance  par  les familles 2015 12 000 14 816 17 893 21 239 24 866 28 783 33 001 34 642 36 323 38 045 Nombres  total  d'élèves  dans  le  secteur  non-public  finance  par  les familles (% du total non-public) 2015 100.0% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% Total financement des familles (USD) 2015 8 668 800 10 703 418 12 925 837 15 343 358 17 963 296 20 792 962 23 839 651 25 025 196 26 239 818 27 483 435
-
-2015
-
-Coût unitaire de l'enseignement supérieur public (dépenses totales/étudiant/an, USD) 2015 248 248 248 248 248 248 248 248 248 248
-
-2015
-
-Total  dépenses  courantes  publiques  +  Dépenses  Familles  pour l'enseignement supérieur (USD) 2015 15 602 425 18 827 621 22 245 819 25 862 371 29 682 576 33 711 667 37 954 798 39 154 188 40 374 304 41 614 889
-
-Tableau A14 Les dépenses d'investissement de l'enseignement supérieur
-
-2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
-
-Coût annuel total pour la construction et la réhabilitation des bâtiments (millions HTG) 69 81 93 105 117 129 141 141 141 141
+Tableau A14
+Les dépenses d'investissement de l'enseignement supérieur
+2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+Coût annuel total pour la construction et la réhabilitation des bâtiments (millions HTG) | 69 | 81 | 93 | 105 | 117 | 129 | 141 | 141 | 141 | 141
 
 Stratégie Nationale d'Action / EPT Juin 07 149
 
@@ -4660,7 +4652,7 @@ Stratégie Nationale d'Action / EPT Juin 07 149
 
 [[START OF PAGE 162]]
 
-# A NNEXE B
+# ANNEXE B
 
 ## TABLEAUX STATISTIQUES
 
@@ -4672,9 +4664,9 @@ Stratégie Nationale d'Action / EPT Juin 07
 
 [[START OF PAGE 163]]
 
-Tableau B 1 Répartition des écoles, classes et élèves au niveau du fondamental 1 er et 2 ème par département, selon le secteur
-
-cycles,
+Tableau B 1
+Répartition des écoles, classes et élèves au niveau du fondamental 1er et 2ème cycles,
+par département, selon le secteur
 
 Public | % | Privé | % | Total
 --- | --- | --- | --- | --- | --- | ---
@@ -4724,7 +4716,9 @@ Juin 07
 
 [[START OF PAGE 164]]
 
-cycle du fondamental et du Secondaire
+Tableau B 2
+Répartition des écoles et des effectifs au niveau du 3ème cycle du fondamental et du Secondaire
+par département, selon le secteur
 
 Public | % | Privé | % | Total
 --- | --- | --- | --- | --- | --- | ---
@@ -4761,8 +4755,6 @@ Elèves | 6806 | 54.80 | 5612 | 45.20 | 12418
 TOTAL | Ecoles | 207 | 9.44 | 1985 | 90.56 | 2192
 Classes
 Elèves | 148345 | 25.36 | 436609 | 74.64 | 584954
-
-Tableau B 2 Répartition des écoles et des effectifs au niveau du 3 ème par département, selon le secteur
 
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
@@ -4851,6 +4843,9 @@ Juin 07
 
 [[START OF PAGE 167]]
 
+Tableau B 5
+Répartition des suragés de l'éducation préscolaire par département et par sexe
+Année Scolaire : 2002-2003
 Département | Effectifs Élèves | Effectifs Suragés | % Suragés
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Garçons | Filles | Total | Garçons | Filles | Total | Garçons | Filles | Total
@@ -4865,40 +4860,33 @@ Grande-Anse | 5 114 | 5 252 | 10 366 | 1 770 | 1 713 | 3 483 | 35% | 33% | 34%
 Nord-Ouest | 13 346 | 13 468 | 26 814 | 4 572 | 4 469 | 9 041 | 34% | 33% | 34%
 Nippes | 10 320 | 9 670 | 19 990 | 4 806 | 4 368 | 9 174 | 47% | 45% | 46%
 TOTAL | 297 590 | 297 639 | 595 229 | 115 536 | 111 597 | 227 133 | 39% | 37% | 38%
-
-Tableau B 5 Répartition des suragés de l'éducation préscolaire par département et par sexe Année Scolaire : 2002-2003
-
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
-Répartition des surâgés par année d'études  et leur pourcentage par rapport aux effectifs
-
-Année d'études | Sexe | Surâgés par milieu | Surâgés par secteur | Ensemble
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Urbain | Rural | Public | privé
-Garçons | 48493 | 50% | 126553 | 64% | 25969 | 56% | 149077 60% | 175046 | 59%
-Filles | 48291 | 49% | 112256 | 62% | 23846 | 54% | 136701 58% | 160547 | 58%
-Total | 96784 | 50% | 238809 | 63% | 49815 | 55% | 285778 59% | 335593 | 58%
-Garçons | 50632 | 59% | 108269 | 76% | 27801 | 69% | 131100 70% | 158901 | 70%
-Filles | 51122 | 58% | 97441 | 75% | 26583 | 68% | 121980 69% | 148563 | 68%
-Total | 101754 | 59% | 205710 | 76% | 54384 | 69% | 253080 69% | 307464 | 69%
-Garçons | 51316 | 67% | 90239 | 84% | 27853 | 77% | 113702 77% | 141555 | 77%
-Filles | 53093 | 66% | 83606 | 83% | 27330 | 77% | 109369 75% | 136699 | 76%
-Total | 104409 | 67% | 173845 | 83% | 55183 | 77% | 223071 76% | 278254 | 76%
-Garçons | 47014 | 71% | 68392 | 86% | 24898 | 81% | 90508 79% | 115406 | 79%
-Filles | 49387 | 70% | 63511 | 86% | 24688 | 81% | 88210 77% | 112898 | 78%
-Total | 96401 | 70% | 131903 | 86% | 49586 | 81% | 178718 78% | 228304 | 79%
-Garçons | 43484 | 75% | 50308 | 90% | 21249 | 85% | 72543 81% | 93792 | 41%
-Filles | 45368 | 74% | 46746 | 89% | 20695 | 85% | 71419 80% | 92114 | 44%
-Total | 88852 | 74% | 97054 | 89% | 41944 | 85% | 143962 80% | 185906 | 81%
-Garçons | 46389 | 81% | 42185 | 93% | 18308 | 89% | 70266 85% | 88574 | 86%
-Filles | 47448 | 79% | 37854 | 91% | 16553 | 89% | 68749 83% | 85302 | 84%
-Total | 93837 | 80% | 80039 | 92% | 34861 | 89% | 139015 84% | 173876 | 85%
-Garçons | 287328 | 65% | 485946 | 77% | 146078 | 73% | 627196 72% | 773274 | 72%
-Filles | 294709 | 64% | 441414 | 76% | 139695 | 73% | 596428 71% | 736123 | 71%
-Total | 582037 | 65% | 927360 | 77% | 285773 | 73% | 1223624 71% | 1509397 | 72%
-
-Tableau B 6 Niveau Fondamental 1 er et 2 ème cycles / Année 2002-2003
-
+Tableau B 6
+Répartition des surâgés par année d'études et leur pourcentage par rapport aux effectifs
+Niveau Fondamental 1er et 2ème cycles / Année 2002-2003
+Année d'études | Sexe | Urbain | % | Rural | % | Public | % | privé | % | Ensemble | %
+1ère année | Garçons | 48493 | 50% | 126553 | 64% | 25969 | 56% | 149077 | 60% | 175046 | 59%
+ | Filles | 48291 | 49% | 112256 | 62% | 23846 | 54% | 136701 | 58% | 160547 | 58%
+ | Total | 96784 | 50% | 238809 | 63% | 49815 | 55% | 285778 | 59% | 335593 | 58%
+2ème année | Garçons | 50632 | 59% | 108269 | 76% | 27801 | 69% | 131100 | 70% | 158901 | 70%
+ | Filles | 51122 | 58% | 97441 | 75% | 26583 | 68% | 121980 | 69% | 148563 | 68%
+ | Total | 101754 | 59% | 205710 | 76% | 54384 | 69% | 253080 | 69% | 307464 | 69%
+3ème année | Garçons | 51316 | 67% | 90239 | 84% | 27853 | 77% | 113702 | 77% | 141555 | 77%
+ | Filles | 53093 | 66% | 83606 | 83% | 27330 | 77% | 109369 | 75% | 136699 | 76%
+ | Total | 104409 | 67% | 173845 | 83% | 55183 | 77% | 223071 | 76% | 278254 | 76%
+4ème année | Garçons | 47014 | 71% | 68392 | 86% | 24898 | 81% | 90508 | 79% | 115406 | 79%
+ | Filles | 49387 | 70% | 63511 | 86% | 24688 | 81% | 88210 | 77% | 112898 | 78%
+ | Total | 96401 | 70% | 131903 | 86% | 49586 | 81% | 178718 | 78% | 228304 | 79%
+5ème année | Garçons | 43484 | 75% | 50308 | 90% | 21249 | 85% | 72543 | 81% | 93792 | 41%
+ | Filles | 45368 | 74% | 46746 | 89% | 20695 | 85% | 71419 | 80% | 92114 | 44%
+ | Total | 88852 | 74% | 97054 | 89% | 41944 | 85% | 143962 | 80% | 185906 | 81%
+6ème année | Garçons | 46389 | 81% | 42185 | 93% | 18308 | 89% | 70266 | 85% | 88574 | 86%
+ | Filles | 47448 | 79% | 37854 | 91% | 16553 | 89% | 68749 | 83% | 85302 | 84%
+ | Total | 93837 | 80% | 80039 | 92% | 34861 | 89% | 139015 | 84% | 173876 | 85%
+Total/Moyenne | Garçons | 287328 | 65% | 485946 | 77% | 146078 | 73% | 627196 | 72% | 773274 | 72%
+ | Filles | 294709 | 64% | 441414 | 76% | 139695 | 73% | 596428 | 71% | 736123 | 71%
+ | Total | 582037 | 65% | 927360 | 77% | 285773 | 73% | 1223624 | 71% | 1509397 | 72%
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
 Stratégie Nationale d'Action / EPT
@@ -4915,33 +4903,31 @@ Répartition des surâgés  par année d'étude  et leur pourcentage par rapport
 
 3ème cycle fondamental et secondaire - Année scolaire: 2002-2003
 
-Année d'études | Sexe | Surâgés par milieu | Surâgés par secteur | Ensemble
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Urbain | Rural | Public | Non Public
-Garçons | 46066 | 77% | 11784 | 89% | 19983 | 83% | 37867 | 77% | 57850 | 79%
-Filles | 44765 | 75% | 10556 | 87% | 17025 | 82% | 38296 | 75% | 55321 | 77%
-Total | 90831 | 76% | 22340 | 88% | 37008 | 82% | 76163 | 76% | 113171 | 78%
-Garçons | 33046 | 75% | 7769 | 90% | 12196 | 82% | 28619 | 76% | 40815 | 78%
-Filles | 31414 | 74% | 6722 | 87% | 9036 | 79% | 29100 | 75% | 38136 | 76%
-Total | 64460 | 75% | 14491 | 88% | 21232 | 81% | 57719 | 75% | 78951 | 77%
-Garçons | 32127 | 78% | 7132 | 94% | 9676 | 84% | 29583 | 79% | 39259 | 80%
-Filles | 30696 | 76% | 6173 | 92% | 6802 | 79% | 30067 | 78% | 36869 | 78%
-Total | 62823 | 77% | 13305 | 93% | 16478 | 82% | 59650 | 79% | 76128 | 79%
-Garçons | 26416 | 77% | 3604 | 90% | 8861 | 82% | 21159 | 77% | 30020 | 78%
-Filles | 25350 | 76% | 3016 | 88% | 6202 | 77% | 22164 | 77% | 28366 | 77%
-Total | 51766 | 76% | 6620 | 89% | 15063 | 80% | 43323 | 77% | 58386 | 78%
-Garçons | 21172 | 77% | 2327 | 87% | 5783 | 79% | 17716 | 77% | 23499 | 77%
-Filles | 19518 | 75% | 1964 | 82% | 3617 | 75% | 17865 | 76% | 21482 | 76%
-Total | 40690 | 76% | 4291 | 85% | 9400 | 78% | 35581 | 76% | 44981 | 77%
-Garçons | 24973 | 80% | 2215 | 89% | 5167 | 79% | 22021 | 81% | 27188 | 81%
-Filles | 23141 | 78% | 1615 | 86% | 3212 | 76% | 21544 | 79% | 24756 | 78%
-Total | 48114 | 79% | 3830 | 88% | 8379 | 78% | 43565 | 80% | 51944 | 79%
-Garçons | 16752 | 80% | 766 | 87% | 7327 | 86% | 10191 | 77% | 17518 | 80%
-Filles | 14266 | 75% | 547 | 82% | 5415 | 82% | 9398 | 73% | 14813 | 76%
-Total | 31018 | 78% | 1313 | 85% | 12742 | 84% | 19589 | 75% | 32331 | 78%
-Garçons | 200552 | 77% | 35597 | 90% | 68993 | 82% | 167156 | 78% | 236149 | 79%
-Filles | 189150 | 75% | 30593 | 87% | 51309 | 79% | 168434 | 76% | 219743 | 77%
-Total/ Moyenne | 389702 | 76% | 66190 | 89% | 120302 | 81% | 335590 | 77% | 455892 | 78%
+Année d'études | Sexe | Urbain | % | Rural | % | Public | % | Non Public | % | Ensemble | %
+7 AF | Garçons | 46066 | 77% | 11784 | 89% | 19983 | 83% | 37867 | 77% | 57850 | 79%
+ | Filles | 44765 | 75% | 10556 | 87% | 17025 | 82% | 38296 | 75% | 55321 | 77%
+ | Total | 90831 | 76% | 22340 | 88% | 37008 | 82% | 76163 | 76% | 113171 | 78%
+8 AF | Garçons | 33046 | 75% | 7769 | 90% | 12196 | 82% | 28619 | 76% | 40815 | 78%
+ | Filles | 31414 | 74% | 6722 | 87% | 9036 | 79% | 29100 | 75% | 38136 | 76%
+ | Total | 64460 | 75% | 14491 | 88% | 21232 | 81% | 57719 | 75% | 78951 | 77%
+9 AF | Garçons | 32127 | 78% | 7132 | 94% | 9676 | 84% | 29583 | 79% | 39259 | 80%
+ | Filles | 30696 | 76% | 6173 | 92% | 6802 | 79% | 30067 | 78% | 36869 | 78%
+ | Total | 62823 | 77% | 13305 | 93% | 16478 | 82% | 59650 | 79% | 76128 | 79%
+3ème | Garçons | 26416 | 77% | 3604 | 90% | 8861 | 82% | 21159 | 77% | 30020 | 78%
+ | Filles | 25350 | 76% | 3016 | 88% | 6202 | 77% | 22164 | 77% | 28366 | 77%
+ | Total | 51766 | 76% | 6620 | 89% | 15063 | 80% | 43323 | 77% | 58386 | 78%
+2nd | Garçons | 21172 | 77% | 2327 | 87% | 5783 | 79% | 17716 | 77% | 23499 | 77%
+ | Filles | 19518 | 75% | 1964 | 82% | 3617 | 75% | 17865 | 76% | 21482 | 76%
+ | Total | 40690 | 76% | 4291 | 85% | 9400 | 78% | 35581 | 76% | 44981 | 77%
+Rhéto | Garçons | 24973 | 80% | 2215 | 89% | 5167 | 79% | 22021 | 81% | 27188 | 81%
+ | Filles | 23141 | 78% | 1615 | 86% | 3212 | 76% | 21544 | 79% | 24756 | 78%
+ | Total | 48114 | 79% | 3830 | 88% | 8379 | 78% | 43565 | 80% | 51944 | 79%
+Philo | Garçons | 16752 | 80% | 766 | 87% | 7327 | 86% | 10191 | 77% | 17518 | 80%
+ | Filles | 14266 | 75% | 547 | 82% | 5415 | 82% | 9398 | 73% | 14813 | 76%
+ | Total | 31018 | 78% | 1313 | 85% | 12742 | 84% | 19589 | 75% | 32331 | 78%
+Total | Garçons | 200552 | 77% | 35597 | 90% | 68993 | 82% | 167156 | 78% | 236149 | 79%
+ | Filles | 189150 | 75% | 30593 | 87% | 51309 | 79% | 168434 | 76% | 219743 | 77%
+ | Total/ Moyenne | 389702 | 76% | 66190 | 89% | 120302 | 81% | 335590 | 77% | 455892 | 78%
 
 NB: Les pourcentages sont calculés par rapport aux effectifs d'élèves
 
@@ -4962,22 +4948,20 @@ Tableau B 8
 Répartition des redoublants en pourcentage par rapport aux effectifs du Fondamental 1 er et 2 ème cycles, par secteur et par sexe et selon l'année d'études (Année 2002-2003)
 
 Secteur | PUBLIC | PRIVE | ENSEMBLE
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Sexe | Garçon | % | Fille | Total | % | Garçon | % | Fille | % | Total | % | Garçon | % | Fille | Total | %
-Année d'études | % | %
-9108 1ère Année | 20% | 8068 | 18% | 17176 | 19% | 34217 | 14% | 30183 | 13% | 64400 | 13% | 43325 | 15% | 38251 | 14% | 81576 | 14%
+Sexe | Garçon | % | Fille | % | Total | % | Garçon | % | Fille | % | Total | % | Garçon | % | Fille | % | Total | %
+1ère Année | 9108 | 20% | 8068 | 18% | 17176 | 19% | 34217 | 14% | 30183 | 13% | 64400 | 13% | 43325 | 15% | 38251 | 14% | 81576 | 14%
 25% | 23% | 24% | 31% | 30% | 31% | 30% | 28% | 29%
-8449 2ème | 21% | 7846 | 20% | 16295 | 21% | 25248 | 14% | 23270 | 13% | 48518 | 13% | 33697 | 15% | 31116 | 14% | 64813 | Année
+2ème Année | 8449 | 21% | 7846 | 20% | 16295 | 21% | 25248 | 14% | 23270 | 13% | 48518 | 13% | 33697 | 15% | 31116 | 14% | 64813 | 15%
 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23%
-7409 | 21% | 7085 | 20% | 14494 | 20% | 19399 | 13% | 18052 | 12% | 37451 | 13% | 26808 | 15% | 25137 | 14% | 51945 | 3ème Année
+3ème Année | 7409 | 21% | 7085 | 20% | 14494 | 20% | 19399 | 13% | 18052 | 12% | 37451 | 13% | 26808 | 15% | 25137 | 14% | 51945 | 14%
 20% | 21% | 20% | 18% | 18% | 18% | 18% | 19% | 18%
-5688 | 19% | 5562 | 18% | 11250 | 18% | 12893 | 11% | 12274 | 11% | 25167 | 11% | 18581 | 13% | 17836 | 12% | 36417 | 4ème Année
+4ème Année | 5688 | 19% | 5562 | 18% | 11250 | 18% | 12893 | 11% | 12274 | 11% | 25167 | 11% | 18581 | 13% | 17836 | 12% | 36417 | 13%
 16% | 16% | 16% | 12% | 12% | 12% | 13% | 13% | 13%
-3841 | 15% | 3967 | 16% | 7808 | 16% | 8934 | 10% | 8798 | 10% | 17732 | 10% | 12775 | 11% | 12765 | 11% | 25540 | 5ème Année
+5ème Année | 3841 | 15% | 3967 | 16% | 7808 | 16% | 8934 | 10% | 8798 | 10% | 17732 | 10% | 12775 | 11% | 12765 | 11% | 25540 | 11%
 11% | 12% | 11% | 8% | 9% | 8% | 9% | 9% | 9%
-2044 6ème Année | 10% | 1871 | 10% | 3915 | 10% | 9020 | 11% | 8400 | 10% | 17420 | 11% | 11064 | 11% | 10271 | 10% | 21335
+6ème Année | 2044 | 10% | 1871 | 10% | 3915 | 10% | 9020 | 11% | 8400 | 10% | 17420 | 11% | 11064 | 11% | 10271 | 10% | 21335 | 10%
 6% | 5% | 6% | 8% | 8% | 8% | 8% | 8% | 8%
-36539 TOTAL | 18% | 34399 | 18% | 70938 | 18% | 109711 | 13% | 100977 | 12% | 210688 | 12% | 146250 | 14% | 135376 | 13% | 281626 | 13%
+TOTAL | 36539 | 18% | 34399 | 18% | 70938 | 18% | 109711 | 13% | 100977 | 12% | 210688 | 12% | 146250 | 14% | 135376 | 13% | 281626 | 13%
 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
@@ -4996,10 +4980,8 @@ Tableau B 9
 
 Répartition des redoublants en pourcentage par rapport aux effectifs d'élèves du 3ème cycle fondamental et du secondaire par secteur et par sexe et selon l'année d'études (Année 2002-2003)
 
-Secteur | PUBLIC | NON- PUBLIC | ENSEMBLE
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Sexe Année | Garçons | % | Filles | % | Total | % | Garçons | % | Filles | % | Total | % | Garçons | % | Filles | % | Total | %
-d'études
+Secteur | PUBLIC | NON-PUBLIC | ENSEMBLE
+Sexe | Garçons | % | Filles | % | Total | % | Garçons | % | Filles | % | Total | % | Garçons | % | Filles | % | Total | %
 7AF | 752 | 3% | 911 | 4% | 1663 | 4% | 2082 | 4% | 2325 | 5% | 4407 | 4% | 2834 | 4% | 3236 | 4% | 6070 | 4%
 21% | 24% | 23% | 5% | 6% | 6% | 7% | 8% | 7%
 8AF | 518 | 4% | 551 | 5% | 1069 | 4% | 1579 | 4% | 1631 | 4% | 3210 | 4% | 2097 | 4% | 2182 | 4% | 4279 | 4%
@@ -5009,10 +4991,10 @@ d'études
 3ème | 347 | 3% | 362 | 4% | 709 | 4% | 1082 | 4% | 1212 | 4% | 2294 | 4% | 1429 | 4% | 1574 | 4% | 3003 | 4%
 10% | 10% | 10% | 3% | 3% | 3% | 3% | 4% | 4%
 2nd | 284 | 4% | 283 | 6% | 567 | 5% | 975 | 4% | 1099 | 5% | 2074 | 4% | 1259 | 4% | 1382 | 5% | 2641 | 4%
-Rhéto * | 8% | 8% | 8% | 2% | 3% | 3% | 3% | 3% | 3%
-936 | 12% | 904 | 21% | 1840 | 15% | 24204 | 50% | 23140 | 49% | 47344 | 49% | 25140 | 45% | 24044 | 47% | 49184 | 46%
+8% | 8% | 8% | 2% | 3% | 3% | 3% | 3% | 3%
+Rhéto* | 936 | 12% | 904 | 21% | 1840 | 15% | 24204 | 50% | 23140 | 49% | 47344 | 49% | 25140 | 45% | 24044 | 47% | 49184 | 46%
 26% | 24% | 25% | 61% | 62% | 61% | 58% | 59% | 58%
-Philo * | 265 | 2% | 206 | 3% | 471 | 2% | 7674 | 29% | 5728 | 26% | 13402 | 28% | 7939 | 21% | 5934 | 20% | 13873 | 20%
+Philo* | 265 | 2% | 206 | 3% | 471 | 2% | 7674 | 29% | 5728 | 26% | 13402 | 28% | 7939 | 21% | 5934 | 20% | 13873 | 20%
 7% | 5% | 6% | 19% | 15% | 17% | 18% | 14% | 16%
 TOTAL | 3567 | 4% | 3746 | 6% | 7313 | 5% | 39712 | 16% | 37346 | 15% | 77058 | 15% | 43279 | 13% | 41092 | 13% | 84371 | 13%
 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
@@ -5048,7 +5030,7 @@ Sud | 55 | 60 | 0 | 59 | 78 | 54
 Nippes | 49 | 85 | 55 | 62 | 71 | 63
 Grande Anse | 84 | 79 | 59 | 64 | 75 | -
 Ouest | 61 | 68 | 63 | 66 | 65 | 56
-Moyenne nationale | 65,9 % | 62,5 % | 66,5 % | 57,44%
+Moyenne nationale | 65,9 % | 62,5 % |  |  | 66,5 % | 57,44%
 
 Source : Statistique de réussite par département .Juin 2006. BUNEXE. MENFP.
 
@@ -5074,14 +5056,13 @@ Juin 07
 
 [[START OF PAGE 172]]
 
-Départements | Ouest | Sud-Est | Nord | Nord-Est | Artibonite | Centre | Sud | Grand'Anse | Nord- Ouest | Nippes
+Tableau B 12
+Ratio élèves/classe par département aux niveaux préscolaire, fondamental et secondaire
+Départements | Ouest | Sud-Est | Nord | Nord-Est | Artibonite | Centre | Sud | Grand'Anse | Nord-Ouest | Nippes
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Ratios Préscolaire | 31 | 78 | 52 | 50 | 61 | 79 | 48 | 54 | 58 | 59
-Fondamental 1 er et 2 ème cycles | 37 | 70 | 50 | 51 | 54 | 69 | 40 | 72 | 64 | 51
-3 ème cycle et Secondaire | 48 | 46 | 51 | 51 | 48 | 43 | 46 | 43 | 45 | 39
-
-Tableau B 12 Ratio élèves/classe par département aux niveaux  préscolaire, fondamental et secondaire
-
+Fondamental 1er et 2ème cycles | 37 | 70 | 50 | 51 | 54 | 69 | 40 | 72 | 64 | 51
+3ème cycle et Secondaire | 48 | 46 | 51 | 51 | 48 | 43 | 46 | 43 | 45 | 39
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
 Tableau B 13
@@ -5114,9 +5095,9 @@ Juin 07
 
 [[START OF PAGE 173]]
 
-Tableaux B-14 :    Répartition des écoles (1 er & 2 e cycles Fondamental)  selon le milieu d'accueil
+Tableaux B-14 : Répartition des écoles (1er & 2e cycles Fondamental) selon le milieu d'accueil
 
-- Répartition des écoles logées dans des églises par département
+A. Répartition des écoles logées dans des églises par département
 
 Secteurs Département | Public | Dont Pourcentage en milieu rural (public) | Privé | Dont Pourcentage en milieu rural (privé) | Total
 --- | --- | --- | --- | --- | ---
@@ -5134,7 +5115,7 @@ Total | 36 | 94% | 3511 | 84% | 3547
 
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
-- Répartition des écoles logées sous des tonnelles par département
+B. Répartition des écoles logées sous des tonnelles par département
 
 Secteurs Département | Effectif Public | Pourcent. en milieu rural (public) | Pourcent. en milieu urbain (public) | Effectif Privé | Pourcent. en milieu rural (privé) | Pourcent. en milieu urbain (privé) | Total
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -5152,7 +5133,7 @@ Total | 249 | 88% | 22% | 3608 | 84% | 16% | 3857
 
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
-- C.Répartition des écoles à cloisons en matériaux sommaires par départ
+C.Répartition des écoles à cloisons en matériaux sommaires par département
 
 Secteurs Département | Public | Dont Pourcentage en milieu rural (public) | Privé | Dont Pourcentage en milieu rural (privé) | Total
 --- | --- | --- | --- | --- | ---
@@ -5170,11 +5151,11 @@ Total | 865 | 55% | 5321 | 64% | 6306
 
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
-- Répartition des écoles à toits en paille ou sans toit par département
+D. Répartition des écoles à toits en paille ou sans toit par département
 
-Secteurs Département | Public | Dont Pourcentage en milieu rural (public) | Privé | Dont Pourcentage en milieu rural (privé) | Tot
+Secteurs Département | Public | Dont Pourcentage en milieu rural (public) | Privé | Dont Pourcentage en milieu rural (privé) | Total
 --- | --- | --- | --- | --- | ---
-Ouest | 137 | 26% | 905 | 40% | 104
+Ouest | 137 | 26% | 905 | 40% | 1042
 Sud Est | 36 | 42% | 109 | 82% | 145
 Nord | 84 | 77% | 439 | 47% | 523
 Nord Est | 29 | 48% | 135 | 41% | 164
@@ -5184,7 +5165,7 @@ Sud | 41 | 71% | 169 | 70% | 210
 Grande Anse | 41 | 34% | 143 | 81% | 184
 Nord Ouest | 25 | 52% | 280 | 84% | 305
 Nippes | 17 | 100% | 166 | 93% | 183
-Total | 546 | 53% | 3018 | 59% | 366
+Total | 546 | 53% | 3018 | 59% | 3664
 
 Source : MENFP/DPCE, Données du Recensement scolaire 2002-2003
 
@@ -5200,7 +5181,7 @@ Répartition des enseignants du préscolaire par département selon leur formati
 
 Département Niveau de Formation | Ouest | Sud Est | Nord | Nord Est | Art | Centre | Sud | Grande Anse | Nord Ouest | Nippes | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Universitaire | 232 | 3 19 | 1 | 36 | 1 | 4 | 3 | 7 | 2 | 308
+Universitaire | 232 | 3 | 19 | 1 | 36 | 1 | 4 | 3 | 7 | 2 | 308
 Normalien | 409 | 9 | 46 | 17 | 80 | 24 | 22 | 25 | 20 | 6 | 658
 Jardinière | 3816 | 84 | 285 | 20 | 125 | 22 | 299 | 18 | 8 | 13 | 4690
 Aide Jard. | 866 | 1 | 29 | 10 | 38 | 15 | 164 | 2 | 8 | 5 | 1138
@@ -5246,6 +5227,8 @@ Juin 07
 
 [[START OF PAGE 175]]
 
+Tableau B 17
+Répartition de la population analphabète par département géographique et par sexe
 Population recensée de 13 ans et plus | Population analphabète (13 ans et plus) | % Analphabètes
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Département | Garçon | Fille | Total | Garçon | Fille | Total | Garçon | Fille | Total
@@ -5259,9 +5242,6 @@ Ouest | 918115 | 1023342 | 1941457 | 596775 | 665173 | 1261948 | 47.29% | 52.71%
 Sud | 295328 | 267184 | 562512 | 135547 | 131408 | 266955 | 50.78% | 49.22% | 47.46%
 Grand'Anse | 254180 | 231436 | 485616 | 131926 | 134543 | 266469 | 49.51% | 50.49% | 54.87%
 Total | 2507530 | 2611961 | 5119491 | 1385919 | 1544778 | 2930697 | 47.29% | 52.71% | 57.24%
-
-Tableau B 17 Répartition de la population analphabète par département géographique et par sexe
-
 Source : SEA (2000), Résultats du recensement de la population d'analphabètes
 
 Stratégie Nationale d'Action / EPT
