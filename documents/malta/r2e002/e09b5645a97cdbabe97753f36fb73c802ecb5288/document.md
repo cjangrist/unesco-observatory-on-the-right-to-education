@@ -1,5 +1,9 @@
 [[START OF PAGE 1]]
 
+# MALTA NATIONAL LIFELONG LEARNING STRATEGY 2020
+
+MINISTRY FOR EDUCATION AND EMPLOYMENT
+
 01
 
 [[END OF PAGE 1]]
@@ -30,11 +34,11 @@ Forward / 05 Introduction / 07 Structure of this document / 13 Vision / 17 Strat
 
 # Forward
 
-The development of our Lifelong Learning Strategy 2020 has been an opportunity to take stock of the state of adult learning in Malta, and challenge what we mean by the very notion of 'learning'.  School is merely the first building block of our Lifelong Learning system.  As policy-makers, we have the duty to provide and facilitate tangible opportunities for relevant education beyond compulsory schooling age.  We need to address the ongoing and often unique education requirements of people in different stages of their life from those who are in employment and seek self-fulfilment in learning to those in phases of 'non-paid' work, those who wish to use education to re-engineer their lives and their careers to people in their third age.
+The development of our Lifelong Learning Strategy 2020 has been an opportunity to take stock of the state of adult learning in Malta, and challenge what we mean by the very notion of ‘learning’. School is merely the first building block of our Lifelong Learning system. As policy-makers, we have the duty to provide and facilitate tangible opportunities for relevant education beyond compulsory schooling age. We need to address the ongoing and often unique education requirements of people in different stages of their life – from those who are in employment and seek self-fulfilment in learning to those in phases of ‘non-paid’ work, those who wish to use education to re-engineer their lives and their careers to people in their third age.
 
-Like many of our European counterparts, we are aware that we need to accelerate our reform agenda for education and training and invest in efficient, high quality education and training.  We need to make better use of education as a driver for growth, jobs, global competitiveness and social change.  Access to relevant learning throughout life is a fundamental cornerstone in our aspirations to have a sustainable knowledge-based society and economy.
+Like many of our European counterparts, we are aware that we need to accelerate our reform agenda for education and training and invest in efficient, high quality education and training. We need to make better use of education as a driver for growth, jobs, global competitiveness and social change. Access to relevant learning throughout life is a fundamental cornerstone in our aspirations to have a sustainable knowledge-based society and economy.
 
-Our vision is for Malta to become a learning nation - a society in which learning plays its full role in personal growth and emancipation, prosperity, solidarity and local and global responsibility.  Equally important is our determination to lever on this strategy to empower citizens through more personalised and innovative approaches to adult education.
+Our vision is for Malta to become a learning nation – a society in which learning plays its full role in personal growth and emancipation, prosperity, solidarity and local and global responsibility. Equally important is our determination to lever on this strategy to empower citizens through more personalised and innovative approaches to adult education.
 
 EVARIST BARTOLO Minister for Education and Employment
 
@@ -72,7 +76,7 @@ This strategy should also not be considered as a stand-alone strategy.  It needs
 
 > 1 Lifelong Learning (as defined by the European Commission (2001: 33) is an all learning activity undertaken throughout life, with the aim of improving knowledge, skills and competences within a personal, civic, social and/or employment-related perspective. Lifelong Learning encompasses the whole spectrum of formal, non-formal and informal learning. The objectives of learning include active citizenship, personal fulfilment and social inclusion, as well as employment related aspects. The principles which underpin Lifelong Learning and guide its effective implementation emphasise the centrality of the learner, the importance of equal opportunities and the quality and relevance of learning opportunities (European Commission 2001: 3-4).
 
-> 2 Source: European Commission, Guidance on Ex ante Conditionalities Part 11
+> 2 Source: European Commission, Guidance on Ex ante Conditionalities Part II
 
 07
 
@@ -86,7 +90,7 @@ This strategy should also not be considered as a stand-alone strategy.  It needs
 
 - National Literacy Strategy (2014)
 
-- Malta's National Reform Programme under the Europe 2020 Strategy (201 3)
+- Malta's National Reform Programme under the Europe 2020 Strategy (2013)
 
 - A Strategic Plan for the Prevention of Early School Leaving Strategy for Malta (2012)  3
 
@@ -118,13 +122,13 @@ This strategy also builds on the recommendation of recent and seminal studies 5 
 
 ## Designing an Enabling Framework for Lifelong Learning
 
-For a Lifelong Learning framework to be sustainable, it must be designed to cover learning in all contexts: formal, nonformal or informal education, including education in the workplace; and at all levels: from early childhood education and schools through to higher education, vocational education and training and adult learning.
+For a Lifelong Learning framework to be sustainable, it must be designed to cover learning in all contexts: formal, non-formal or informal education, including education in the workplace; and at all levels: from early childhood education and schools through to higher education, vocational education and training and adult learning.
 
 In line with the primary goals of EU 2020, an enabling framework for Lifelong Learning must recognise a number of prerequisites:
 
-- Lifelong Learning presupposes opportunities for learning at any age.
+1. Lifelong Learning presupposes opportunities for learning at any age.
 
-- Learning can occur in traditional education and training institutions, but also at the work place (on or off the job), at home and during one's free time. Learning may occur in the family, and in many different cultural and community settings, including virtual settings.
+2. Learning can occur in traditional education and training institutions, but also at the work place (on or off the job), at home and during one's free time. Learning may occur in the family, and in many different cultural and community settings, including virtual settings.
 
 > 3 The Early School-leaving Strategy is currently being revised and an updated version was published later in 2014.
 
@@ -144,25 +148,25 @@ In line with the primary goals of EU 2020, an enabling framework for Lifelong Le
 
 [[START OF PAGE 9]]
 
-- Learning relates to a process of constant intentional acquisition of knowledge.  Lifelong Learning spans the acquisition of life skills to adaptability to active ageing.
+3. Learning relates to a process of constant intentional acquisition of knowledge. Lifelong Learning spans the acquisition of life skills to adaptability to active ageing.
 
-- We use 'learning' to refer to all kinds of formal education and training, irrespective of whether these are associated with certification.
+4. We use 'learning' to refer to all kinds of formal education and training, irrespective of whether these are associated with certification.
 
-- Lifelong Learning is synonymous with personal fulfilment, critical thinking and active citizenship.
+5. Lifelong Learning is synonymous with personal fulfilment, critical thinking and active citizenship.
 
-- Much of our learning takes place once we have completed our formal compulsary education.  Informal modes of learning nevertheless tend to reflect a degree of personal organisation.
+6. Much of our learning takes place once we have completed our formal compulsary education. Informal modes of learning nevertheless tend to reflect a degree of personal organisation.
 
-- 7 .	 	 The skills, knowledge, attitudes and behaviours that people acquire in day-to-day experiences outside formal education are valued by employers, and yet are not necessarily recognised as 'valuable' since they often lack accreditation in the form of acquired, legally-regulated certificates.
+7. The skills, knowledge, attitudes and behaviours that people acquire in day-to-day experiences outside formal education are valued by employers, and yet are not necessarily recognised as 'valuable' since they often lack accreditation in the form of acquired, legally-regulated certificates.
 
-- Adult learning is increasingly associated with entrepreneurship, human skills development and the processes that enhance people's skills and make them more employable, including continuing professional development (CPD) and the acquisition of soft and communications skills.
+8. Adult learning is increasingly associated with entrepreneurship, human skills development and the processes that enhance people's skills and make them more employable, including continuing professional development (CPD) and the acquisition of soft and communications skills.
 
-- Lifelong Learning is increasingly associated with the empowerment of vulnerable and marginalised groups and fundamental in contributing to social inclusion and integration.
+9. Lifelong Learning is increasingly associated with the empowerment of vulnerable and marginalised groups and fundamental in contributing to social inclusion and integration.
 
-- Lifelong Learning skills need to be transferable within an EU-wide learning framework.  The recent European Memorandum on Lifelong Learning called for the establishment of a pan-European area of Lifelong Learning within which there should be freedom of movement for citizens to travel between learning settings, mirroring the freedoms of movement between jobs that exist in the European system.
+10. Lifelong Learning skills need to be transferable within an EU-wide learning framework. The recent European Memorandum on Lifelong Learning called for the establishment of a pan-European area of Lifelong Learning within which there should be freedom of movement for citizens to travel between learning settings, mirroring the freedoms of movement between jobs that exist in the European system.
 
-- The Europe 2020 Strategy, and in particular the 2014 Annual Growth Survey, requests that member states protect or promote longer term investment in education and training, and pursue the modernisation of education and training systems, including Lifelong Learning, vocational training and work-based learning schemes, with a view to enhancing skills performance.
+11. The Europe 2020 Strategy, and in particular the 2014 Annual Growth Survey, requests that member states protect or promote longer term investment in education and training, and pursue the modernisation of education and training systems, including Lifelong Learning, vocational training and work-based learning schemes, with a view to enhancing skills performance.
 
-- While investing public money in knowledge and skills brings direct economic benefits both to individuals and to Maltese society, this strategy recognises Lifelong Learning as a fundamental right of all citizens living in a modern democracy that believes in social cohesion, active citizenship, social justice and intercultural dialogue. There must be equal opportunities and room for all. Lifelong Learning helps people to achieve goals other than those aimed at increasing earnings, such as taking an active part in civic life, leading a more sustainable lifestyle, improving health and wellbeing and active ageing. Lifelong Learning has the potential to benefit society by reducing crime and encouraging community activities.
+12. While investing public money in knowledge and skills brings direct economic benefits both to individuals and to Maltese society, this strategy recognises Lifelong Learning as a fundamental right of all citizens living in a modern democracy that believes in social cohesion, active citizenship, social justice and intercultural dialogue. There must be equal opportunities and room for all. Lifelong Learning helps people to achieve goals other than those aimed at increasing earnings, such as taking an active part in civic life, leading a more sustainable lifestyle, improving health and wellbeing and active ageing. Lifelong Learning has the potential to benefit society by reducing crime and encouraging community activities.
 
 ## Addressing the Immediate Challenges
 
@@ -192,7 +196,7 @@ Despite relatively low overall and youth unemployment rates 12 , the skills issu
 
 ### 3) LOW NUMBER OF WOMEN ACTIVELY AT WORK OR ENGAGED IN Lifelong Learning
 
-Gender issues remain a priority area for any initiatives related to Lifelong Learning. According to the Labour Force Survey for Q4 2013, only 50.4% of women aged 20 to 64 years are in employment.  For 2020, the Commission's target is an overall employment ratio of 75%.  Figures for women aged 25-64 participating in education and Lifelong Learning are similarly low: according to the Adult Education Survey (AES), only 46.8 per cent of women aged 20 to 64 years were engaged in adult learning during 201 1. In the same survey, 53 per cent of participants engaged in education and Lifelong Learning (formal, nonformal and informal learning) were men, while 47 per cent were women. The results also indicated a declining participation rate as persons grow older. This trend was observed for both sexes, with the 25-34 age groups accounting for the largest participation rate and the 55-64 age groups for the lowest. (NSO, 2013)
+Gender issues remain a priority area for any initiatives related to Lifelong Learning. According to the Labour Force Survey for Q4 2013, only 50.4% of women aged 20 to 64 years are in employment. For 2020, the Commission's target is an overall employment ratio of 75%. Figures for women aged 25-64 participating in education and Lifelong Learning are similarly low: according to the Adult Education Survey (AES), only 46.8 per cent of women aged 20 to 64 years were engaged in adult learning during 2011. In the same survey, 53 per cent of participants engaged in education and Lifelong Learning (formal, non-formal and informal learning) were men, while 47 per cent were women. The results also indicated a declining participation rate as persons grow older. This trend was observed for both sexes, with the 25-34 age groups accounting for the largest participation rate and the 55-64 age groups for the lowest. (NSO, 2013)
 
 ### 4) PERSISTENCE OF LOW EDUCATION PASSED ON FROM GENERATION TO GENERATION
 
@@ -406,15 +410,15 @@ In the process, this strategy will ensure that adult education delivers economic
 
 The Lifelong Strategy has five strategic objectives:
 
-- STIMULATE PARTICIPATION IN Lifelong Learning by Maltese adults by creating a demand and a desire for learning. This latent demand does not lie solely among those with low-skills and at risk of poverty and social exclusion, but also among people in employment who wish to further their skills set and job mobility.
+1. STIMULATE PARTICIPATION IN Lifelong Learning by Maltese adults by creating a demand and a desire for learning. This latent demand does not lie solely among those with low-skills and at risk of poverty and social exclusion, but also among people in employment who wish to further their skills set and job mobility.
 
-- PLACE THE 'LEARNER' AT THE CENTRE by optimising all possible types of innovative learning methods and environments to make learning flexible, personal, accessible and relevant.  This implies a commitment to alternative pathways, beyond those defined by formal learning.
+2. PLACE THE 'LEARNER' AT THE CENTRE by optimising all possible types of innovative learning methods and environments to make learning flexible, personal, accessible and relevant. This implies a commitment to alternative pathways, beyond those defined by formal learning.
 
-- IMPROVE SKILLS SETS that contribute to professional development, employment mobility and active citizenship.
+3. IMPROVE SKILLS SETS that contribute to professional development, employment mobility and active citizenship.
 
-- DEVELOP SUPPORT STRUCTURES for adult learning.
+4. DEVELOP SUPPORT STRUCTURES for adult learning.
 
-- IMPROVE GOVERNANCE in the Lifelong Learning sector, exploring structural, institutional, fiscal, legal, political and administrative measures available.
+5. IMPROVE GOVERNANCE in the Lifelong Learning sector, exploring structural, institutional, fiscal, legal, political and administrative measures available.
 
 ## STRATEGIC BENCHMARKS
 
@@ -422,40 +426,22 @@ Malta has set the following quantitative and qualitative targets for Lifelong Le
 
 ### KEY PERFORMANCE INDICATORS
 
-- Early leavers from education and training
-
-- Level of participation of adults aged 25-64 in Lifelong Learning
-
-- Share of Students in Vocational Education and Training at ISCED 3
-
-- 30-35 year olds completing tertiary or equivalent education (MQF Level 6)
-
-- Women in employment aged 20-64 (note 1)
-
-- Literacy skills in men aged 25-64
-
-- Digital Technology skills in adults aged 25-64
-
-- MQF level 5 for working age adults
-
-- MQF level 6 for people aged 18 to 29
+KEY PERFORMANCE INDICATORS | Malta 2012 (base value) | Malta 2020 (target) | EU 2020 (target)
+--- | --- | --- | ---
+1. Early leavers from education and training | 22.60% | 10% | 10%
+2. Level of participation of adults aged 25-64 in Lifelong Learning | 7% | 15% | 15%
+3. Share of Students in Vocational Education and Training at ISCED 3 | 38.90% | 45% | N/A
+4. 30-35 year olds completing tertiary or equivalent education (MQF Level 6) | 21.10% | 33% | 40%
+5. Women in employment aged 20-64 (note 1) | 46.9% | 70% | 75%
+6. Literacy skills in men aged 25-64 | 96.70% | 98% | N/A
+7. Digital Technology skills in adults aged 25-64 – MQF level 5 for working age adults | N/A | Level 5 | N/A
+– MQF level 6 for people aged 18 to 29 | N/A | Level 6 | N/A
 
 ### NON-QUANTITATIVE BENCHMARKS
 
 10. Implement a transparent and sustainable system within NCFHE to validate and recognise non-formal and informal learning by end 2016
 
-Note 1:  Women in employment figure for Malta (Q4, 2013) refers to women aged 15-64).  The comparable figure for Males is 74.8%.
-
-Malta 2012 (base value) | Malta 2020 (target) | EU 2020 (target)
---- | --- | ---
-22.60% | 10% | 10%
-7% | 15% | 15%
-38.90% | 45% | N/A
-21.10% | 33% | 40%
-46.9% | 70% | 75%
-96.70% | 98% | N/A
-N/A | Level 5 | N/A
-N/A | Level 6 | N/A
+Note 1: Women in employment figure for Malta (Q4, 2013) refers to women aged 15-64). The comparable figure for Males is 74.8%.
 
 19
 
@@ -497,9 +483,10 @@ PUBLIC INSTITUTIONS ENGAGED IN ADULT LEARNING | OTHER ORGANISATIONS ENGAGED IN F
 • MCAST (self-accrediting, post secondary and tertiary level courses up to MQF Level 6) | • Private Training Organisations
 • Higher Education Institutions, mainly representing foreign universities (post secondary and tertiary level courses, accredited by NCFHE) | • NGOs and NVOs
 • The Directorate for Lifelong Learning (courses up to MQF Level 5, accredited by NCFHE) | • Prison Education Association at Corradino Correctional Facility
-• The Employment and Training Corporation • Institute of Tourism Studies (self-accrediting, courses up to MQF Level 5) | • The Catholic Church • Trade Unions
+• The Employment and Training Corporation | • The Catholic Church
+• Institute of Tourism Studies (self-accrediting, courses up to MQF Level 5) | • Trade Unions
 • Foundation for Education Services 18 | • Political Parties
-• A enzjia g a ag | • Sports and Cultural organisations
+• Aġenzija Żgħażagħ | • Sports and Cultural organisations
 • Local Councils | • Private Museums and Libraries
 • Museums and Public Libraries | • Correction Institutions
 
@@ -543,19 +530,17 @@ PUBLIC INSTITUTIONS ENGAGED IN ADULT LEARNING | OTHER ORGANISATIONS ENGAGED IN F
 
 - 1.6 Facilitate structured coordination and partnerships between public adult learning institutions in the Lifelong Learning sector and private teaching institutions when such coordination and partnerships provide tangible benefits to learners and improved returns on public investment in adult learning.
 
-- 1.7 Introduce incentive and audit frameworks to ensure that public adult learning institutions actively cooperate in the field of basic adult education
+- 1.7 Introduce incentive and audit frameworks to ensure that public adult learning institutions actively cooperate in the field of basic adult education and competencies in order to jointly carry out necessary development work, mutually benefit from experiences and promptly disseminate good practice models.
+
+- 1.8 Improve the content and delivery of community-based learning by developing a closer working relationship between the Directorate for Lifelong Learning and the Local Government Department.
+
+- 1.9 Ensure all public learning organisations commit to partnering and consulting with recognised social partners 22 when planning and delivering VET courses. VET system development and provision within a Lifelong Learning perspective requires effective horizontal and vertical pathways with other components of education and training, in line with the needs of the labour market. The successful collaboration between learning organisations and social partners should include forecasting, adaptation of curricula, improving individuals' access to further education and training and raising public awareness of the benefits of Lifelong Learning.
 
 > 20 See www.myscholarship.gov.mt.
 
 > 21 The undergraduate scheme was introduced in 2007 and aims at increasing student participation at undergraduate level studies in Malta and abroad, promotes academic excellence in the private tuition sector and increase student choice of degrees and institutions. The postgraduate scheme was introduced in 2006 and offers opportunities for students to specialise at higher levels of education at Masters or Doctorate level, particularly in those areas of national interest. MGSS allows students to read for their doctoral degrees on a part-time basis, thereby further encouraging students to further their education at this level. The stated objectives of the postgraduate scheme are to: assist exceptional applicants to pursue further levels of academic research; encourage and promote further participation at a postgraduate level of academic research, both locally and internationally; contribute towards research in identified areas of national priority; increase the capacity and level of research, innovation and development activity in Malta.
 
 > 22 Social partners mean trade unions and employers' associations and representatives.
-
-and competencies in order to jointly carry out necessary development work, mutually benefit from experiences and promptly disseminate good practice models.
-
-- 1.8 Improve the content and delivery of communitybased learning by developing a closer working relationship between the Directorate for Lifelong Learning and the Local Government Department.
-
-- 1.9 Ensure all public learning organisations commit to partnering and consulting with recognised social partners 22  when planning and delivering VET courses. VET system development and provision within a Lifelong Learning perspective requires effective horizontal and vertical pathways with other components of education and training, in line with the needs of the labour market.  The successful collaboration between learning organisations and social partners should include forecasting, adaptation of curricula, improving individuals' access to further education and training and raising public awareness of the benefits of Lifelong Learning.
 
 23
 
@@ -567,7 +552,7 @@ and competencies in order to jointly carry out necessary development work, mutua
 
 ### Promote Adult Skills and VET as the optimum, flexible route to employability, personalised professional development and economic well-being
 
-Strategic Objectives Supported:  Objectives, 3, 4 and 5
+Strategic Objectives Supported: Objectives 1, 3, 4 and 5
 
 In recent years, Lifelong Learning and adult education in particular have become increasingly associated with jobs, employment and employability 23 . The central message emerging from both PISA and the PIAAC Survey of Adult Skills 24  is that skills transform lives, drive economies and have a major impact on an individual's life chances.
 
@@ -587,21 +572,21 @@ The actual proportion of learning that takes place in a real workplace can vary 
 
 - 23 The EU's policy interpretation of 'Lifelong Learning' is frequently criticised as being narrower than UNESCO's master concept of education. The association of the term with 'employability' and the 'knowledge economy', and a narrowly defined notion of active citizenship have been interpreted as a conscious oversight of the collective dimension of education for social change, and even given rise to accusations of a neo-liberal agenda (see Fleming, 2010; Holford and Spolar, in Riddell et. al, 2012; and Mayo, 2014).
 
-- 24 There are seven key findings of the OECD 2013 Survey of Adult Skills (Programme for the International Assessment of Adult Competences or PIAAC), which are all specifically relevant for EU education and training policies:
+> 24 There are seven key findings of the OECD 2013 Survey of Adult Skills (Programme for the International Assessment of Adult Competences or PIAAC), which are all specifically relevant for EU education and training policies:
 
-- 20% of the EU working age population has low literacy and low numeracy skills;
+> 1. 20% of the EU working age population has low literacy and low numeracy skills;
 
-- Education and skills increase employability: this represents a challenge for the one in four unemployed who has low literacy and numeracy skills;
+> 2. Education and skills increase employability: this represents a challenge for the one in four unemployed who has low literacy and numeracy skills;
 
-- The high-skilled are progressing well through adult learning, but people with low proficiency are easily caught in a 'low skills trap' as they are less likely to participate in learning activities;
+> 3. The high-skilled are progressing well through adult learning, but people with low proficiency are easily caught in a 'low skills trap' as they are less likely to participate in learning activities;
 
-- There are significant differences between individuals with similar qualifications across the EU17 member countries: upper secondary graduates in some Member States score similar or better than higher education graduates in others;
+> 4. There are significant differences between individuals with similar qualifications across the EU17 member countries: upper secondary graduates in some Member States score similar or better than higher education graduates in others;
 
-- 25% of adults lack the skills to effectively make use of ICTs;
+> 5. 25% of adults lack the skills to effectively make use of ICTs;
 
-- The skills of a person tend to deteriorate over time if they are not used frequently. The gap in literacy proficiency skills between generations is more than two thirds of a proficiency level (equivalent to five years of education);
+> 6. The skills of a person tend to deteriorate over time if they are not used frequently. The gap in literacy proficiency skills between generations is more than two thirds of a proficiency level (equivalent to five years of education);
 
-- Sustaining skills brings significant positive economic and social outcomes
+> 7. Sustaining skills brings significant positive economic and social outcomes
 
 - 25 Data according to PIAAC and the 2012 PISA Survey of ability in reading, maths and science among 15-year-olds (Programme for International Student Assessment).
 
@@ -617,7 +602,7 @@ The actual proportion of learning that takes place in a real workplace can vary 
 
 disconnect in the perceptions of employers, education providers and young people.  One-third of employers say they never communicate with education providers; of those that do, fewer than half say it proved effective. Meanwhile, more than a third of education providers report that they are unable to estimate the job-placement rates of their graduates. Of those who say they can, 20 percent overestimated this rate compared with what was reported by youth themselves. Nor are young people better informed: fewer than half say that when they chose what to study they had a good understanding of which disciplines lead to professions with job openings and good wage levels.
 
-- Available education and courses for adults with poor basic skills are not sufficiently motivating, so we need relevant courses that motivate and boost self-confidence. Many adults need to strengthen their basic skills without necessarily taking a full primary and lower secondary education.  Many cannot leave work and can only learn after working-hours. There are few goal-oriented courses for basic skills; the same applies for adapted courses in the workplace or in connect in with vocational training or other job-related training.
+- Available education and courses for adults with poor basic skills are not sufficiently motivating, so we need relevant courses that motivate and boost self-confidence. Many adults need to strengthen their basic skills without necessarily taking a full primary and lower secondary education. Many cannot leave work and can only learn after working-hours. There are few goal-oriented courses for basic skills; the same applies for adapted courses in the workplace or in connection with vocational training or other job-related training.
 
 - There is an overall lack of knowledge and updated research about the learning needs of adults. We need to have better charting of adults' needs for either basic skills or for completion of primary / secondary education.  We need to ask learners what knowledge and skills they want to learn, and how they want to acquire these.  Both learning objectives and pedagogy have to consider the individual's starting level and needs.
 
@@ -671,27 +656,25 @@ labour market, changes to employment patterns reflect the skills required, and p
 
 - 2.10 Develop the current guidance system into a comprehensive educational counselling and career guidance system implemented by multi-professional teams (teachers, school psychologists, external experts) in all state and private schools from year 6 onwards, and with binding regulations concerning scope and structure of courses.  The system must be an integrated component of the entire education framework:  an overall qualitative and quantitative system that helps young people and adults make the right choices, find the right offers and design a lifelong project for themselves.
 
-- 2.1 1 Consult learners, parents and enterprise to make adult learning relevant.  We need to move from topdown approaches to more inclusive and permeable approaches to adult education. Specifically, we need to develop convincing arguments for each of the three critical intersections of VET: enrolling in postsecondary education; building skills, and finding a job.
+- 2.11 Consult learners, parents and enterprise to make adult learning relevant. We need to move from top-down approaches to more inclusive and permeable approaches to adult education. Specifically, we need to develop convincing arguments for each of the three critical intersections of VET: enrolling in postsecondary education; building skills, and finding a job.
 
-- 2.12 Ensure that public organisations engage competent personnel who are familiar with information relating to the labour market, VET and EU guidelines 29  such that they may guide individuals to the learning programmes that would be best for their prospective careers. Public employment services can also play a crucial role in facilitating skill matching especially at local levels by working closely with local employers as well as education and training providers.
+- 2.12 Ensure that public organisations engage competent personnel who are familiar with information relating to the labour market, VET and EU guidelines 29 such that they may guide individuals to the learning programmes that would be best for their prospective careers. Public employment services can also play a crucial role in facilitating skill matching especially at local levels by working closely with local employers as well as education and training providers.
 
-- 2.13 Use digital technologies to enable decisionmakers to be more responsive to the adult learning requirements of the labour market.
-
-> 29 See http://ec.europa.eu/education/policy/vocational-policy/index_en.htm
-
-30
-
-> A learning activity is considered to be flexible when: a) it is the users themselves who decide time, place, progression and educational / practical methods (including the use of ICT) for the learning; b) the actual learning objectives are adapted to the learning needs of the users; and c) as many people as possible are motivated and have a reasonable opportunity to participate.
+- 2.13 Use digital technologies to enable decision-makers to be more responsive to the adult learning requirements of the labour market.
 
 - 2.14 Encourage SMEs, social partners and civil society to articulate training needs and resource public organisations to provide pragmatic support in the development of concrete learning opportunities for adults.
 
-- 2.15 Develop programmes in conjunction with trade unions and employers' associations to promote learning at the workplace, adapting learning activities to workers' learning needs and abilities.  This is particularly important for adults since learning must often be combined with other activities.  The opportunity and motivation to participate in learning activities is largely dependent on whether education and training are perceived as relevant to the rest of the learner's working and social life; when a practical combination of such activities with work and family life is possible; and when the activities are affordable. Flexibility remains important for organised learning in the workplace 30 .
+- 2.15 Develop programmes in conjunction with trade unions and employers' associations to promote learning at the workplace, adapting learning activities to workers' learning needs and abilities. This is particularly important for adults since learning must often be combined with other activities. The opportunity and motivation to participate in learning activities is largely dependent on whether education and training are perceived as relevant to the rest of the learner's working and social life; when a practical combination of such activities with work and family life is possible; and when the activities are affordable. Flexibility remains important for organised learning in the workplace 30.
 
 - 2.16 Provide education and training opportunities and Lifelong Learning support structures for young people who are not in employment, education and training, targeting those 'distant' from formal learning or who are early school leavers.
 
-- 2.17 Develop the concept of 'key competences' - a generic set of skills and attitudes which can be useful in all work situations - as a means of keeping education and training relevant in a fast-changing environment and equipping people to adapt to changing circumstances and deal with unknown situations.  As well as instilling specific knowledge and skills, today's education and training systems must encourage motivation, reflection, self-evaluation, self-guidance, critical and cross-disciplinary thinking, teamwork and problem-solving skills. They should train people to respond to complex demands, communicate with and understand others, plan ahead, make innovative choices and take risks and accept the consequences. These kinds of competences cannot be taught or assessed in isolation nor can they simply be bolted onto existing programmes designed to produce narrow trade-related knowledge and skills. They call for a much more holistic approach to organising education and training in which both course content and the roles of teachers and learners will change dramatically.
+- 2.17 Develop the concept of 'key competences' - a generic set of skills and attitudes which can be useful in all work situations - as a means of keeping education and training relevant in a fast-changing environment and equipping people to adapt to changing circumstances and deal with unknown situations. As well as instilling specific knowledge and skills, today's education and training systems must encourage motivation, reflection, self-evaluation, self-guidance, critical and cross-disciplinary thinking, teamwork and problem-solving skills. They should train people to respond to complex demands, communicate with and understand others, plan ahead, make innovative choices and take risks and accept the consequences. These kinds of competences cannot be taught or assessed in isolation nor can they simply be bolted onto existing programmes designed to produce narrow trade-related knowledge and skills. They call for a much more holistic approach to organising education and training in which both course content and the roles of teachers and learners will change dramatically.
 
 - 2.18 Focus on evidence-based analysis of vocational education and training (VET) policies.
+
+> 29 See http://ec.europa.eu/education/policy/vocational-policy/index_en.htm
+
+> 30 A learning activity is considered to be flexible when: a) it is the users themselves who decide time, place, progression and educational / practical methods (including the use of ICT) for the learning; b) the actual learning objectives are adapted to the learning needs of the users; and c) as many people as possible are motivated and have a reasonable opportunity to participate.
 
 26
 
@@ -701,13 +684,25 @@ labour market, changes to employment patterns reflect the skills required, and p
 
 - 2.19 Promote the adoption of re-skilling and up-skilling measures through strengthened Lifelong Learning and adult learning with a focus on the very low-skilled.
 
-- 2.20 Integrate formal training and learning with informal learning processes in the workplace, accommodating training around work demands and minimising time spent off-site.  Nevertheless, despite the best efforts to encourage employees to pursue accredited academic education, the workplace demands skills that are more often acquired from informal learning experiences than from formal higher education.
+- 2.20 Integrate formal training and learning with informal learning processes in the workplace, accommodating training around work demands and minimising time spent off-site. Nevertheless, despite the best efforts to encourage employees to pursue accredited academic education, the workplace demands skills that are more often acquired from informal learning experiences than from formal higher education.
 
-- 2.21 Present 'the business case' to small firms, to change prevailing perceptions/culture, including the desirability of skills-intensive production and workplace development strategies.  Public learning organisations should explore outreach mechanisms for small business owner-managers, providing them with information and support (including HR support and management training) and identifying ongoing training appropriate to their evolving business needs.
+- 2.21 Present 'the business case' to small firms, to change prevailing perceptions/culture, including the desirability of skills-intensive production and workplace development strategies. Public learning organisations should explore outreach mechanisms for small business owner-managers, providing them with information and support (including HR support and management training) and identifying ongoing training appropriate to their evolving business needs.
 
 - 2.22 Reduce training costs through financial incentives, e.g. through subsidies and tax concessions, targeted on small firms and existing workers.
 
 - 2.23 Encourage training partnerships between larger firms and small businesses, and facilitate collaboration between small businesses through pooling resources and networking. There may be opportunities for small businesses to share skills, knowledge and experience with other business people.
+
+- 2.24 Fund a wide range of VET measures, ranging from placements abroad to cooperation projects between training organisations in different countries.
+
+- 2.25 Recognise that Maltese society is increasingly multi cultural, and encourage the teaching of other languages beyond the core languages of Maltese and English.
+
+- 2.26 Ensure people have access to apprenticeships at all age groups and not just in their youth. Where possible, apprenticeship-style training should be accredited.
+
+- 2.27 Facilitate courses that lead to a transition from agriculture, industry and service to a knowledge based society moving from the hyperlocal context and culture to the global context.
+
+- 2.28 Raise public awareness of the close relationships between adult education and entrepreneurship and of the opportunities for hybrid solutions, as opposed to entrenched approaches when it comes to policy leadership.
+
+- 2.29 Monitor progress in the European Commission's EU2020 initiative 'Grand Coalition for Digital Jobs 31' which aims to tackle the lack of ICT skills and unfilled ICT-related vacancies in Europe by creating awareness about ICT services and careers, increasing access to ICT training, sharing and replicating best practices, and celebrating ICT and web entrepreneurship.
 
 > 31 The Grand Coalition for Digital Jobs has the following objectives:
 
@@ -722,18 +717,6 @@ labour market, changes to employment patterns reflect the skills required, and p
 > 5) Reduce labour market mismatches by stimulating mobility;
 
 > 6) Stimulate digital entrepreneurship by liaising with Startup Europe, a single platform for tools and programmes supporting people wanting to set up and grow web start-ups in Europe.
-
-- 2.24 Fund a wide range of VET measures, ranging from placements abroad to cooperation projects between training organisations in different countries.
-
-- 2.25 Recognise that Maltese society is increasingly multi cultural, and encourage the teaching of other languages beyond the core languages of Maltese and English.
-
-- 2.26 Ensure people have access to apprenticeships at all age groups and not just in their youth.  Where possible, apprenticeship-style training should be accredited.
-
-- 2.27 Facilitate courses that lead to a transition from agriculture, industry and service to a knowledge based society moving from the hyperlocal context and culture to the global context.
-
-- 2.28 Raise public awareness of the close relationships between adult education and entrepreneurship and of the opportunities for hybrid solutions, as opposed to entrenched approaches when it comes to policy leadership.
-
-- 2.29 Monitor progress in the European Commission's EU2020 initiative 'Grand Coalition for Digital Jobs 31 ' which aims to tackle the lack of ICT skills and unfilled ICT-related vacancies in Europe by creating awareness about ICT services and careers, increasing access to ICT training, sharing and replicating best practices, and celebrating ICT and web entrepreneurship.
 
 27
 
@@ -765,7 +748,7 @@ Further to the publication of the PIAAC report, the Commission has again reinfor
 
 - 3.1 Implement a modern, transparent, equitable qualification system for Lifelong Learning nationwide that may facilitate access to education and the transition to work by establishing uniform quality standards for supported programmes. The improved comparability of qualifications, independent of where and how these qualifications have been acquired, is a cornerstone of this Lifelong Learning strategy.
 
-- 3.2 Ensure adult courses are regularly reviewed and benchmarked against the Mita Qualifications Framework (MQF).  This includes courses offered by University of Malta, MCAST, the Directorate for Lifelong Learning and ETC.
+- 3.2 Ensure adult courses are regularly reviewed and benchmarked against the Malta Qualifications Framework (MQF). This includes courses offered by University of Malta, MCAST, the Directorate for Lifelong Learning and ETC.
 
 - 3.3 Develop and extend the current accreditation system managed by NCFHE to ensure that transparency and recognition instruments in formal education also cater for new forms of learning in line with the Council Recommendation on the Validation of Non-Formal and Informal Learning 33 .
 
@@ -775,9 +758,9 @@ acquired during working life by people looking at up-skilling and re-skilling sh
 
 - 3.5 Consider the implementation of trade testing and occupational standards in order to validate informal learning. Standardise procedures to validate informally or non-formally acquired knowledge, skills and competence, irrespective of where and how these have been acquired.  The procedures need to be transparent and easily-understood by learners, parents and employers.
 
-- 3.6 Encourage mutual, cross-institutional and crosssectorial recognition for qualifications are incorporated as a principle in the entire educational and vocational qualification system.  This would be an important step in establishing an open, motivating Lifelong Learning culture.
+- 3.6 Encourage mutual, cross-institutional and cross-sectorial recognition for qualifications are incorporated as a principle in the entire educational and vocational qualification system. This would be an important step in establishing an open, motivating Lifelong Learning culture.
 
-> 32 See European Commission, The Survey of Adult Skills (PIAAC). Implications for education and training policies in Europe. Available at: http://ec.europa.eu/education/policy/strategicframework/doc/piaac_en.pdf
+> 32 See European Commission, The Survey of Adult Skills (PIAAC). Implications for education and training policies in Europe. Available at: http://ec.europa.eu/education/policy/strategic-framework/doc/piaac_en.pdf
 
 > 33 OJ C 398, 22.12.2012, pp. 1-5.
 
@@ -787,21 +770,25 @@ acquired during working life by people looking at up-skilling and re-skilling sh
 
 [[START OF PAGE 29]]
 
-- 3.7 Monitor developments in European common methodological frameworks such as ECTS, ECVET  34 and Europass  35   to ensure citizens benefit from mutual recognition and transfer of skills and foster a culture whereby learning outcomes do become the new defining perspective in qualifications.
+- 3.7 Monitor developments in European common methodological frameworks such as ECTS, ECVET 34 and Europass 35 to ensure citizens benefit from mutual recognition and transfer of skills and foster a culture whereby learning outcomes do become the new defining perspective in qualifications.
 
-- 3.8 Develop comprehensive validation systems for skills acquired through accredited digital and blended learning, including skills acquired by completing an online course from a virtual teaching institution, such as a digital media school 36.   To adhere to high quality standards, online courses need rigorous structures and
+- 3.8 Develop comprehensive validation systems for skills acquired through accredited digital and blended learning, including skills acquired by completing an online course from a virtual teaching institution, such as a digital media school 36. To adhere to high quality standards, online courses need rigorous structures and processes combined with peer reviews throughout the life cycle of courses: this should apply to both online and distance teaching and learning 37.
+
+- 3.9 Ensure that NCFHE is adequately resourced to manage the accreditation of Lifelong Learning courses within prescribed timeframes.
+
+- 3.10 Further develop curricula at schools and higher education establishments in line with learning outcome orientation. This should also apply to the curricula at VET institutions whose courses are accredited within the NQF framework.
 
 ## Strategy 4
 
 ### Improve the overall quality of adult learning in Malta and Gozo
 
-Strategic Objectives Supported:  Objectives 2, 3, 4 and 5
+Strategic Objectives Supported: Objectives 2, 3, 4 and 5
 
 NCFHE currently has formal responsibility for both accreditation and quality assurance of Lifelong Learning courses for adults aged 25-64.
 
 #### CURRENT CHALLENGES
 
-- The teaching of basic literacy classes requires high quality adult educators. Resourcing issues also come into play:  literacy, numeracy and computer awareness courses are coordinated by two, part-time coordinators who are also responsible for recruiting and training adult educators and making classroom support visits as part of quality assurance procedures.
+- The teaching of basic literacy classes requires high quality adult educators. Resourcing issues also come into play: literacy, numeracy and computer awareness courses are coordinated by two, part-time coordinators who are also responsible for recruiting and training adult educators and making classroom support visits as part of quality assurance procedures.
 
 - Citizens have a right to request and providers an obligation to deliver a high quality adult learning experience.
 
@@ -809,11 +796,9 @@ NCFHE currently has formal responsibility for both accreditation and quality ass
 
 #### STRATEGIC MEASURES
 
-- 4.1 Secure support from key public learning institutions to implement a comprehensive quality assurance system based on regular inspections and audits of adult education courses in line with transparent, quality management criteria.  The performance and effectiveness of the education, economic and labour markets are increasingly determined by the quality of processes between systems, functioning competition and the individual's sense of responsibility.
+- 4.1 Secure support from key public learning institutions to implement a comprehensive quality assurance system based on regular inspections and audits of adult education courses in line with transparent, quality management criteria. The performance and effectiveness of the education, economic and labour markets are increasingly determined by the quality of processes between systems, functioning competition and the individual's sense of responsibility.
 
-- 4.2 Coordinate the requisite efforts to improve standards and quality in the adult education sector by engaging core stakeholders and social partners. It is fundamental
-
-- that the rationale for any change programme related to improving the quality of adult learning is supported by a clear and inclusive communications programme.
+- 4.2 Coordinate the requisite efforts to improve standards and quality in the adult education sector by engaging core stakeholders and social partners. It is fundamental that the rationale for any change programme related to improving the quality of adult learning is supported by a clear and inclusive communications programme.
 
 - 4.3 Switch the perspective of adult education from supply-orientation towards needs-orientation, taking into account different life-cycles and educational careers and facilitating the acquisition of qualifications independent of age and socio-economic background.
 
@@ -826,12 +811,6 @@ NCFHE currently has formal responsibility for both accreditation and quality ass
 > 36 Also see Strategy 5 - Connected Learning
 
 > 37 Within this context, the quality benchmarks for online and distance learning developed by EADTU are to be monitored, at the level of the institutional management, curriculum and course development, course delivery, tutoring and staff support. EADTU is continuing to share its work with universities and quality and accreditation agencies in order to jointly establish a European framework for quality assurance and accreditation for online and distance education.
-
-- processes combined with peer reviews throughout the life cycle of courses:  this should apply to both online and distance teaching and learning  37 .
-
-- 3.9 Ensure that NCFHE is adequately resourced to manage the accreditation of Lifelong Learning courses within prescribed timeframes.
-
-- 3.10 Further develop curricula at schools and higher education establishments in line with learning outcome orientation.  This should also apply to the curricula at VET institutions whose courses are accredited within the NQF framework.
 
 29
 
@@ -853,7 +832,7 @@ interdisciplinary teaching models which focus on the acquisition of key competen
 
 - 4.10 Ensure that Lifelong Learning is available throughout the year.
 
-- 4.1 1 Invest proportionately in teaching resources for adult educators.  It should be mandatory in future community building to have a learning zone for adults with appropriate resources that facilitate learning.
+- 4.11 Invest proportionately in teaching resources for adult educators. It should be mandatory in future community building to have a learning zone for adults with appropriate resources that facilitate learning.
 
 - 4.12 Encourage peer learning and peer review schemes.
 
@@ -897,7 +876,7 @@ The recent initiative of the European Commission 'Opening Up Education' is posit
 
 - There is a need to examine these new approaches through a critical lens to ensure they are effective and evolve past the traditional lecture-style pedagogies.  There are concerns within some higher education institutions about the quality of OER that need to be addressed and overcome:  specifically, some OER and MOOCs have been associated with poor quality materials on the basis that they are 'free'. The corollary is that educators are starting to realise that content is no longer a valuable commodity because of its abundance on the Internet:  'ownership' is taking an alternative definition, reflecting owning by participation and contribution rather than possession and control of the education commodity.
 
-- The great majority of schools in Europe are not digitally equipped and their students are not taught by digitallyliterate teachers; teachers who mainly use ICT to prepare their teaching but not as a skill for students to develop in the classroom.
+- The great majority of schools in Europe are not digitally equipped and their students are not taught by digitally-literate teachers; teachers who mainly use ICT to prepare their teaching but not as a skill for students to develop in the classroom.
 
 - There is a danger of a new digital divide, between those who have access to innovative, tech-based education and the digitally excluded.  25% of adults lack the skills to use digital technology and therefore to exploit the opportunities available in technology-rich environments. Education in Europe runs the risk of failing to meet the challenge to keep pace with these developments and harness the possibilities offered by innovative teaching and learning methods, such as massive open online courses in higher education.
 
@@ -913,23 +892,25 @@ The recent initiative of the European Commission 'Opening Up Education' is posit
 
 #### STRATEGIC MEASURES
 
-- 5.1 Embrace potential of ICT, digital content and the availability of OER as a tangible opportunity to explore new, flexible and alternative learning methods and routes to adult learning and secure participation from all social strata.  The fact that OER uptake has now spread to the secondary level of education in other countries can greatly help address gaps in education delivery and provide flexible and adaptable means of continuing education beyond primary and secondary year.  It offers significant potential to those who have left mainstream education and wish to have access as adult or lifelong learners.
+- 5.1 Embrace potential of ICT, digital content and the availability of OER as a tangible opportunity to explore new, flexible and alternative learning methods and routes to adult learning and secure participation from all social strata. The fact that OER uptake has now spread to the secondary level of education in other countries can greatly help address gaps in education delivery and provide flexible and adaptable means of continuing education beyond primary and secondary year. It offers significant potential to those who have left mainstream education and wish to have access as adult or lifelong learners.
 
-- 5.2 Use the European Commission's call for EU-level cooperation on OER as the platform from which to push reforms towards the adoption of open learning environments within adult education.  This will involve the development of a sound policy framework for the introduction of innovative learning and teaching practices through technologies in schools, universities, VET and adult learning institutions.  There is a significant opportunity to re-think the role of digital technologies within adult learning institutions.
+- 5.2 Use the European Commission's call for EU-level cooperation on OER as the platform from which to push reforms towards the adoption of open learning environments within adult education. This will involve the development of a sound policy framework for the introduction of innovative learning and teaching practices through technologies in schools, universities, VET and adult learning institutions. There is a significant opportunity to re-think the role of digital technologies within adult learning institutions.
 
-- 5.3 Embrace the potential of connected learning 40  to explore and develop new models of adult education rooted in the principles of human social activity. These models are based on the key assumption that knowledge is a three-fold dynamic process of cognition, communication and co-operation 41 .
+- 5.3 Embrace the potential of connected learning 40 to explore and develop new models of adult education rooted in the principles of human social activity. These models are based on the key assumption that knowledge is a three-fold dynamic process of cognition, communication and co-operation 41.
 
 - 5.4 Encourage the use of OER in vocational education and in other informal learning settings, where student-centred learning combined with ICT also carries huge potential.
 
-rights of the creators.  A lack of understanding copyright and open licensing issues at senior levels in academic institutions and public organisations may be a roadblock for OER development.  Our intention is to develop a framework for connected learning in Malta that will eventually be considered as an example of best practice for the regulation of the pan-European digital media schools of the future.  This process is likely to include:  the adaptation of validation and recognition instruments used in formal education to recognise the emergence of a much more diversified educational offer brought about by new education providers; new forms of learning made possible by technology; new tools to support the accreditation of technology-supported learning taking place outside the immediate remit of formal education institutions.
+- 5.5 Address OER policy advocacy from the outset, including issues relating to online course accreditation, licensing, quality assurance, intellectual property rights (IPR), data protection and privacy. OER require open licensing and extended copyrights 42 for wider use without compromising the moral and intellectual rights of the creators. A lack of understanding copyright and open licensing issues at senior levels in academic institutions and public organisations may be a roadblock for OER development. Our intention is to develop a framework for connected learning in Malta that will eventually be considered as an example of best practice for the regulation of the pan-European digital media schools of the future. This process is likely to include: the adaptation of validation and recognition instruments used in formal education to recognise the emergence of a much more diversified educational offer brought about by new education providers; new forms of learning made possible by technology; new tools to support the accreditation of technology-supported learning taking place outside the immediate remit of formal education institutions.
 
-- 5.6 Lever on the mass take-up of OER in other countries to mobilise support from stakeholders including teachers, learners, parents and social partners and drive muchneeded change within the adult education sector.
+- 5.6 Lever on the mass take-up of OER in other countries to mobilise support from stakeholders including teachers, learners, parents and social partners and drive much-needed change within the adult education sector.
 
-- 5.7 Lever on current research and best practices on OER to improve delivery methods of adult education and challenge long-standing positions on pedagogy, context and social interactions.  Connected learning reinforces a number of principles that may appear to challenge traditional approaches to Lifelong Learning and adult education in particular:
+- 5.7 Lever on current research and best practices on OER to improve delivery methods of adult education and challenge long-standing positions on pedagogy, context and social interactions. Connected learning reinforces a number of principles that may appear to challenge traditional approaches to Lifelong Learning and adult education in particular:
 
 - 5.7.1 A stronger use of learning experiences can be created by combining face-to-face tuition with and online learning through blended learning.
 
-- 5.5 Address OER policy advocacy from the outset, including issues relating to online course accreditation, licensing, quality assurance, intellectual property rights (IPR), data protection and privacy.  OER require open licensing and extended copyrights  42   for wider use without compromising the moral and intellectual
+- 5.7.2 OER can be used to stimulate and increase students' motivation for learning, as well as the overall effectiveness of learning.
+
+- 5.7.3 Students are expected to build knowledge from open and free sources other than their teachers and institutions, and with different methods.
 
 > 40 Claims for the benefits of connected learning include: a) It is equitable, social, and participatory.
 
@@ -937,7 +918,9 @@ rights of the creators.  A lack of understanding copyright and open licensing is
 
 > c) It involves hands-on production, open networks, and shared purpose as part of the learning process.
 
-> d) It encourages active experimentation/design/production/creation. e) It leverages interests of each student to keep them engaged.
+> d) It encourages active experimentation/design/production/creation.
+
+> e) It leverages interests of each student to keep them engaged.
 
 > f) Extensive ongoing participation by members of the communities which in turn helps encourage participation, feedback and engagement.
 
@@ -948,10 +931,6 @@ rights of the creators.  A lack of understanding copyright and open licensing is
 > 41 See Hofkirchner (2013) in Fuchs (2014).
 
 > 42 Creative Commons Licenses provide the means through which OER may be developed and shared along a spectrum of openness. Traditional copyright ensures that materials may not be used in any way without permission.
-
-- 5.7.2 OER can be used to stimulate and increase students' motivation for learning, as well as the overall effectiveness of learning.
-
-- 5.7.3 Students are expected to build knowledge from open and free sources other than their teachers and institutions, and with different methods.
 
 32
 
@@ -973,13 +952,13 @@ rights of the creators.  A lack of understanding copyright and open licensing is
 
 - 5.10 Develop incentives for teachers, learners and organisations who wish to use programmes delivered through the use of OER and ideally in blended learning format.  These incentives could include: funding and research grants; scholarships for promising educators; and the nurturing of international specialist networks for educators interested in OER and connected learning, levering on formal EU networks where possible.
 
-- 5.1 1 Explore new, flexible and alternative learning methods for both structured and personalised and informal learning facilitated by OER. The provision of multiple pathways should encourage people from all backgrounds to follow and build on their interests to become 'creative learners'.  School subjects tend
+- 5.11 Explore new, flexible and alternative learning methods for both structured and personalised and informal learning facilitated by OER. The provision of multiple pathways should encourage people from all backgrounds to follow and build on their interests to become 'creative learners'. School subjects tend
 
 to be taught in a uniform, structured manner which cannot appeal to all students:  technology can be used to alert educators of students' individual needs and shortcomings, with computer algorithms sifting through masses of information to continually assess students and tailor lessons to their needs.
 
 - 5.12 Explore mobile learning for adult learning across multiple contexts through social and content interactions.  The diffusion and growing widespread availability of OER together with the extended reach of smart phones, tablets and netbooks have opened up opportunities for ubiquitous learning.
 
-- 5.13 Promote awareness of the various interpretations of 'open licensing'  43  and its implications to Maltese society.  OER need to be positioned as teaching, learning and research resources that reside in the public domain or have been released under an intellectual property licence that permits their free use or repurposing by others.  The widespread use of social technologies by Maltese citizens can also be used strategically to raise awareness of the benefits of online and blended learning as new approaches to adult learning, and the possibility of OER actually increasing students' motivation to learn.
+- 5.13 Promote awareness of the various interpretations of 'open licensing' 43 and its implications to Maltese society. OER need to be positioned as teaching, learning and research resources that reside in the public domain or have been released under an intellectual property licence that permits their free use or re-purposing by others. The widespread use of social technologies by Maltese citizens can also be used strategically to raise awareness of the benefits of online and blended learning as new approaches to adult learning, and the possibility of OER actually increasing students' motivation to learn.
 
 - 5.14 Use OER to facilitate the connection and networking of learning communities in Malta and Gozo, and more importantly within the global learning community.
 
@@ -1005,7 +984,7 @@ to be taught in a uniform, structured manner which cannot appeal to all students
 
 Strategic Objectives Supported:  Objectives 1 and 4
 
-Malta needs to continue to take measures to address skills gaps and facilitate the integration of women in the labour market. According to the Labour Force Survey (Q4 2013) female participation in the labour force increased from 41.1% in 201 1 to 46.9% in 2013.
+Malta needs to continue to take measures to address skills gaps and facilitate the integration of women in the labour market. According to the Labour Force Survey (Q4 2013) female participation in the labour force increased from 41.1% in 2011 to 46.9% in 2013.
 
 The PIAAC Survey of Adult Skills provides several insights into issues relating to gender equality in the workplace and women's empowerment:
 
@@ -1015,11 +994,11 @@ The PIAAC Survey of Adult Skills provides several insights into issues relating 
 
 - While women tend to be concentrated in certain occupations, they use their skills more intensively than do the relatively few men who are employed in similar jobs.
 
-- The use of problem-solving skills at work explains about half of the gender gap in wages.  About half of the crosscountry differences in the gender gap in wages can be predicted by differences in the use of problem-solving skills at work. However, this relationship is no longer apparent once gender differences in a number of other factors, namely proficiency in literacy and numeracy skills, educational qualifications, occupation, and the industry of the jobs, are taken into account.
+- The use of problem-solving skills at work explains about half of the gender gap in wages. About half of the cross-country differences in the gender gap in wages can be predicted by differences in the use of problem-solving skills at work. However, this relationship is no longer apparent once gender differences in a number of other factors, namely proficiency in literacy and numeracy skills, educational qualifications, occupation, and the industry of the jobs, are taken into account.
 
 #### CURRENT CHALLENGES
 
-- Parenthoodhas a significant effect on the participation of women on the labour market. Despite higher rates of female graduates from tertiary education, the employment rate of women in Malta remains low, with the gender employment gap the highest in the EU - a coverage rate of 10% or less  45 .
+- Parenthood has a significant effect on the participation of women on the labour market. Despite higher rates of female graduates from tertiary education, the employment rate of women in Malta remains low, with the gender employment gap the highest in the EU - a coverage rate of 10% or less 45.
 
 - Based on data published by the National Statistics Office (NSO), the share of women and men in the general population in Malta in 2009 was that of 50.23% and 49.77% respectively.  Considering that women make up 55% of all students in Higher Education, they are, therefore, very well represented amongst tertiary level students. However, while females make-up the majority of University students, in non-University Higher Education settings (where in Malta this mostly represents vocational oriented Higher Education Institutions) the majority of students are males with a share of 56%.  Therefore although females form the majority of students in Higher Education, they are underrepresented in non-University settings. Females make up the majority of Bachelor students (57%), whereas at Master level the share of female students declines slightly (54%). This suggests that with advanced levels of higher education the gender distribution becomes more balanced. At the same time it suggests that participation of women at advanced levels of higher education tends to decrease, while a larger share of males tends to continue their education.
 
@@ -1039,7 +1018,7 @@ The PIAAC Survey of Adult Skills provides several insights into issues relating 
 
 #### STRATEGIC MEASURES
 
-- 6.1 Reiterate the fundamental principles that there must be equality of opportunity for women and men in education and training, work and career as ell as in family work. Gender equality is a crosscutting goal that needs to take into consideration both women's and men's views and needs if Lifelong Learning programmes and organisational policies and processes are to address long-standing gender equality issues.
+- 6.1 Reiterate the fundamental principles that there must be equality of opportunity for women and men in education and training, work and career as well as in family work. Gender equality is a cross-cutting goal that needs to take into consideration both women's and men's views and needs if Lifelong Learning programmes and organisational policies and processes are to address long-standing gender equality issues.
 
 - 6.2 Provide women with parental or care obligations with pragmatic assistance and comprehensive schemes as well as flexible career change models.
 
@@ -1049,11 +1028,9 @@ The PIAAC Survey of Adult Skills provides several insights into issues relating 
 
 - 6.5 Provide financial and fiscal incentives for training and adult education aimed at women who wish to return to the workplace.
 
-- 6.6 Stimulate women's entrepreneurship by improving legal and economic protection.  Incentives for women starting up businesses can be in the form of guidance, training in businesses-related issues and leadership, mentoring and financial grants 48 . Training programmes and grants aimed at assisting women who already have a small business or wish to move up the value chain by improving their
+- 6.6 Stimulate women's entrepreneurship by improving legal and economic protection. Incentives for women starting up businesses can be in the form of guidance, training in businesses-related issues and leadership, mentoring and financial grants 48. Training programmes and grants aimed at assisting women who already have a small business or wish to move up the value chain by improving their business skills will also be actively supported.
 
-- business skills will also be actively supported.
-
-- 6.7 Introduce fiscal incentives for employers who engage women in specific sectors where women are underrepresented.
+- 6.7 Introduce fiscal incentives for employers who engage women in specific sectors where women are under-represented.
 
 - 6.8 Introduce fiscal incentives for employers who sponsor VET and CPD training in sectors where women are under-represented.
 
@@ -1061,9 +1038,9 @@ The PIAAC Survey of Adult Skills provides several insights into issues relating 
 
 - 6.10	 Ensure Lifelong Learning is made available during times that are suitable for women with young children.  Within this context alone, open and distance learning (ODL) and the increasing availability of OER represent significant opportunities for personalised learning for both female learners and educational and training providers.
 
-- 6.1 1	 Develop more flexible regimes for maternity and adoption leave  49 .  It is important that women are not obliged to work overtime, either from the birth or from the effective date of the adoption of their child (current set for a 12-month period).  Moreover, mothers on maternity leave may wish to ease back into the working routine during the last few weeks of maternity leave. Flexibility of working hours and tasks allocated could make this possible.
+- 6.11 Develop more flexible regimes for maternity and adoption leave 49. It is important that women are not obliged to work overtime, either from the birth or from the effective date of the adoption of their child (current set for a 12-month period). Moreover, mothers on maternity leave may wish to ease back into the working routine during the last few weeks of maternity leave. Flexibility of working hours and tasks allocated could make this possible.
 
-- 6.12	 Use targeted offline and online media to promote financial independence for women and the need for greater involvement of men in the sharing of nonremunerated family work.
+- 6.12 Use targeted offline and online media to promote financial independence for women and the need for greater involvement of men in the sharing of non-remunerated family work.
 
 - 6.13	 Provide grants and other financial help for VET for women.  Develop special training for women based on formal education (such as technical schools running special programs for women who start to go back to school.)
 
@@ -1075,7 +1052,7 @@ The PIAAC Survey of Adult Skills provides several insights into issues relating 
 
 > 47 The attributes of 'leadership in women' is linked to the growing body of research that demonstrates that: women bring the 'softer' skills and attributes of leadership into organisations; much more so than men; and that organisations are starting to recognise the great value of these skills. These leadership skills include: integrity, orientation to service, optimism, decisiveness, courage, resilience, self-reflection, discipline and a sense of humour (see Gourle, 2013 in Commonwealth of Learning, 2013).
 
-> 48 A current example of such an incentive is the ETC INT scheme ('Ibda Negozju Tieg ħ ek') targeting people interested in starting their own business. On completing the training programme and presented a viable business plan, participants are awarded an enterprise grant of €5,000.
+> 48 A current example of such an incentive is the ETC INT scheme ('Ibda Negozju Tiegħek') targeting people interested in starting their own business. On completing the training programme and presented a viable business plan, participants are awarded an enterprise grant of €5,000.
 
 > 49 Maternity and adoption leave is currently at 18 weeks. Adoption leave is available to both men and women. Adoptive parents may also utilise 1 year unpaid parental leave for each adopted child and a once only career break of 5 years unpaid leave for the same purpose.
 
@@ -1103,25 +1080,23 @@ Education, training systems and employment need to be permeable and support soci
 
 #### STRATEGIC MEASURES
 
-- 7 .1 Position Lifelong Learning as a primary means of addressing social inequalities, resisting and eliminating discrimination and prejudice in our society and securing equal opportunities for all citizens.
+- 7.1 Position Lifelong Learning as a primary means of addressing social inequalities, resisting and eliminating discrimination and prejudice in our society and securing equal opportunities for all citizens.
 
-- 7.2	 Promote the mainstreaming of equality in the development of adult learning policy and the shaping of education legislation.  People need to be given fair opportunities to discover and further develop their talents.  Equality of opportunity for learners is a core component of democratic politics and enables fair opportunities for social advancement:  it is also an economic necessity. Learning must be made available and accessible to all citizens of all ages in a transparent manner.
+- 7.2 Promote the mainstreaming of equality in the development of adult learning policy and the shaping of education legislation. People need to be given fair opportunities to discover and further develop their talents. Equality of opportunity for learners is a core component of democratic politics and enables fair opportunities for social advancement: it is also an economic necessity. Learning must be made available and accessible to all citizens of all ages in a transparent manner.
 
-- 7 .3	 Develop 'education safety net systems' in collaboration with state and private schools that can accurately identify possible dropouts.  The early identification of such students would activate targeted, personalised, motivational programmes that provide the necessary assistance until students have obtained their respective qualification; can be motivated to enrol in the next higher level of education and training; and / or supported in their integration in the labour market.
+- 7.3 Develop 'education safety net systems' in collaboration with state and private schools that can accurately identify possible dropouts. The early identification of such students would activate targeted, personalised, motivational programmes that provide the necessary assistance until students have obtained their respective qualification; can be motivated to enrol in the next higher level of education and training; and / or supported in their integration in the labour market.
 
-- 7 .4	 Raise awareness among marginalised groups that adult learning reduces the chances of poverty and social
+- 7.4 Raise awareness among marginalised groups that adult learning reduces the chances of poverty and social exclusion, and can both improve people's skills and help them achieve active citizenship and personal autonomy.
 
-- exclusion, and can both improve people's skills and help them achieve active citizenship and personal autonomy.
+- 7.5 Actively engage people from marginalised communities as stakeholders in working groups developing and evaluating Lifelong Learning programmes to ensure that Lifelong Learning is both accessible and relevant to the most marginalised.
 
-- 7 .5	 Actively engage people from marginalised communities as stakeholders in working groups developing and evaluating Lifelong Learning programmes to ensure that Lifelong Learning is both accessible and relevant to the most marginalised.
+- 7.6 Lever on the opportunities provided by ODL and OER to help overcome problems of access, equity, distance and time.
 
-- 7.6	 Lever on the opportunities provided by ODL and OER to help overcome problems of access, equity, distance and time.
-
-- 7 .7 Focus on the integration of migrants in society and labour markets through adult learning.  Tailor-made courses, including language learning, are vital in this process.
+- 7.7 Focus on the integration of migrants in society and labour markets through adult learning. Tailor-made courses, including language learning, are vital in this process.
 
 - 7.8 Provide clear advice and support systems to help migrants secure quick validation and recognition of academic and professional qualifications obtained in other countries, including non-EU countries. The validation of such qualifications is currently a significant barrier to the integration of migrants into the Maltese workforce.
 
-- 7 .9	 Provide clear advice and support systems to help migrants conduct relevant VET that may facilitate their entry in the work place.
+- 7.9 Provide clear advice and support systems to help migrants conduct relevant VET that may facilitate their entry in the work place.
 
 36
 
@@ -1129,13 +1104,17 @@ Education, training systems and employment need to be permeable and support soci
 
 [[START OF PAGE 37]]
 
-- 7.10	 Support people with low access to education in their efforts to secure qualifications.  Such people include those rebuilding their lives (such as former prisoners); long-term unemployed and those living on public benefits.
+- 7.10 Support people with low access to education in their efforts to secure qualifications. Such people include those rebuilding their lives (such as former prisoners); long-term unemployed and those living on public benefits.
 
-- 7.1 1 Expand needs-oriented support schemes for groups at risk, and strengthen preventive approaches by making more flexible use of available resources and introducing specific schemes to benefit the education of highly talented young people from disadvantaged backgrounds.
+- 7.11 Expand needs-oriented support schemes for groups at risk, and strengthen preventive approaches by making more flexible use of available resources and introducing specific schemes to benefit the education of highly talented young people from disadvantaged backgrounds.
 
-- 7.12	 Identify a set of educational processes that promote active family, community and school engagement, specifically targeting to interrupt structural cycles of marginalisation.
+- 7.12 Identify a set of educational processes that promote active family, community and school engagement, specifically targeting to interrupt structural cycles of marginalisation.
 
-- 7.13	 Enhance social inclusion by developing programmes that identify reluctant learners such that they may be reengaged in educational and training experiences.
+- 7.13 Enhance social inclusion by developing programmes that identify reluctant learners such that they may be reengaged in educational and training experiences.
+
+- 7.14 Develop courses on the principles of popular education to engage with people who for various reasons are marginalised from education. Within this context, state schools are to be considered sites of social justice, and the platform for learning which is both socially permeable and leads to personal development.
+
+- 7.15 Develop Lifelong Learning benchmarks for categories of the population most likely to be marginalised and discriminated against. This process must be pursued with increasing levels of granularity. For instance, with regard to persons with disability there must not be one benchmark for all, but benchmarks for the broad categories of disability - intellectual, blind, deaf, mental illness, physical etc.
 
 ## Strategy 8
 
@@ -1147,17 +1126,13 @@ As a result of the post-war baby boom and increased life expectancy, the number 
 
 #### CURRENT CHALLENGES
 
-- The labour market has a greater supply of older workers than younger workers and the demographic trends indicate that this will continue. Maintaining a sufficient supply of labour that is able to respond quickly to changes in demand will require older workers to stay in the labour market for longer.  As the demographic changes continue, employers will increasingly need a workforce of all ages and with the right skills for the 21st century. At the same time, many older people are likely to wish to continue working.
+- The labour market has a greater supply of older workers than younger workers and the demographic trends indicate that this will continue. Maintaining a sufficient supply of labour that is able to respond quickly to changes in demand will require older workers to stay in the labour market for longer. As the demographic changes continue, employers will increasingly need a workforce of all ages and with the right skills for the 21st century. At the same time, many older people are likely to wish to continue working.
 
-- Older workers receive too little stimulation and support for learning, adaptation or career changes at later stages in their lives.  The PIAAC report has identified that Europe will not be able to realise the vision of smart growth, set out in the Europe 2020 Strategy, if its workers lose employability as they grow older. The prevailing emphasis of co-operation between EU Member States on education and training is based on the fundamental concept that people need to continue to learn throughout their entire life if the current skills deficit is to be addressed, and the skill decline of its workforce through ageing reversed.
+- Older workers receive too little stimulation and support for learning, adaptation or career changes at later stages in their lives. The PIAAC report has identified that Europe will not be able to realise the vision of smart growth, set out in the Europe 2020 Strategy, if its workers lose employability as they grow older. The prevailing emphasis of co-operation between EU Member States on education and training is based on the fundamental concept that people need to continue to learn throughout their entire life if the current skills deficit is to be addressed, and the skill decline of its workforce through ageing reversed.
 
-- Older adults in Malta are underrepresented as far as educational policy is concerned:  older adult education practice ignores the larger structural issues that affect people's ability to participate in learning activities (Formosa, 2012). Training for older workers is virtually non-existent.
+- Older adults in Malta are underrepresented as far as educational policy is concerned: older adult education practice ignores the larger structural issues that affect people's ability to participate in learning activities (Formosa, 2012). Training for older workers is virtually non-existent.
 
 - At present, learning and CET are largely oriented to the world of work. Learning in the period after retirement is limited, and educational counselling for elderly people is virtually non-existent.
-
-- 7.14	 Develop courses on the principles of popular education to engage with people who for various reasons are marginalised from education.  Within this context, state schools are to be considered sites of social justice, and the platform for learning which is both socially permeable and leads to personal development.
-
-- 7.15	 Develop Lifelong Learning benchmarks for categories of the population most likely to be marginalised and discriminated against. This process must be pursued with increasing levels of granularity.  For instance, with regard to persons with disability there must not be one benchmark for all, but benchmarks for the broad categories of disability - intellectual, blind, deaf, mental illness, physical etc.
 
 37
 
@@ -1187,7 +1162,7 @@ As a result of the post-war baby boom and increased life expectancy, the number 
 
 - 8.10.	 Develop late-life learning initiatives to attract older adults with working-class backgrounds, older men, elderly people living in rural regions, housebound seniors, low-skilled people and socio-economically disadvantaged groups. Lifelong Learning must contribute tangibly to wider participation in adult education, particularly in response to older adults who are still educationally excluded and socially disadvantaged.  There must be widespread and free access to second chance education and training aimed at getting older people to complete basic competence education.
 
-- 8.1 1. Develop a scheme for Lifelong Learning Ambassadors as a means of encouraging intergenerational learning. This scheme could include incentives and systems to encourage older people to transfer acquired knowledge to younger people.  The scheme would inculcate the core elements of social justice and social equity in an intergenerational pact, whereby the ambassadors are valued within the community as opposed to being isolated in senior citizens' homes.  Active ageing also includes volunteering and pursuing initiatives to exploit the knowledge, skills, and competencies of older people for the benefit of society as a whole. Intergenerational learning provides a valuable opportunity to build on learning that brings different generations and different cultural backgrounds together and exploits the knowledge, skills and competencies of older people for the benefit of society as a whole.
+- 8.11. Develop a scheme for Lifelong Learning Ambassadors as a means of encouraging intergenerational learning. This scheme could include incentives and systems to encourage older people to transfer acquired knowledge to younger people. The scheme would inculcate the core elements of social justice and social equity in an intergenerational pact, whereby the ambassadors are valued within the community as opposed to being isolated in senior citizens' homes. Active ageing also includes volunteering and pursuing initiatives to exploit the knowledge, skills, and competencies of older people for the benefit of society as a whole. Intergenerational learning provides a valuable opportunity to build on learning that brings different generations and different cultural backgrounds together and exploits the knowledge, skills and competencies of older people for the benefit of society as a whole.
 
 38
 
@@ -1197,13 +1172,13 @@ As a result of the post-war baby boom and increased life expectancy, the number 
 
 - 8.12. Develop ICT, e-learning and digital literacy courses for older people, with a particular emphasis on vulnerable older people with the objective of bringing about improved levels of personal transformation.
 
-- 8.13.	 Develop programmes at community and higher education levels, targeting the 'fourth age' when people are much more likely to become dependent on others for part or the entire day.  Educational opportunities must be directed at frail persons as well as their carers:  programmes must be made available, free of charge, to relatives and volunteers involved in the care of older persons and courses should address issues about identity, health, social engagement and wellbeing during the final stages of life.  Older people who continue to engage in cognitively-stimulating activities have been found to be in a better position to adopt strategies assisting them to augment their wellbeing and independence.  The higher education sector in particular needs to play a key role in encouraging new types of adult learning through all phases of the course of life by embracing its clear obligations towards older learners.
+- 8.13. Develop programmes at community and higher education levels, targeting the 'fourth age' when people are much more likely to become dependent on others for part or the entire day. Educational opportunities must be directed at frail persons as well as their carers: programmes must be made available, free of charge, to relatives and volunteers involved in the care of older persons and courses should address issues about identity, health, social engagement and wellbeing during the final stages of life. Older people who continue to engage in cognitively-stimulating activities have been found to be in a better position to adopt strategies assisting them to augment their well-being and independence. The higher education sector in particular needs to play a key role in encouraging new types of adult learning through all phases of the course of life by embracing its clear obligations towards older learners.
 
 - 8.14.	 Provide training for prospective educators of both active and frail elderly people residing in the community and residential homes respectively.  The University of Malta, especially through the auspices of the European Centre of Gerontology, provides specific training for this purpose.
 
 - 8.15.	 Provide 'personal development' programmes which identify new types of courses and markets among a diverse and segmented post-50s market, and ''health and social care'' programmes orientated towards professionals working with older people that vary from foundation degrees through to modules for continuing professional development.
 
-- 8.16.	 Ensure that the results of research conducted by the European Centre of Gerontology at the University of Malta relating to the educational participation by people in the period after retirement and in the postfamily stage of life is rapidly diffused to entities that are engaged in Lifelong Learning in the field, including the Directorate for Lifelong Learning and NGOs. Basic research on the linkage between Lifelong Learning and older people needs to be intensified and the data material improved.
+- 8.16. Ensure that the results of research conducted by the European Centre of Gerontology at the University of Malta relating to the educational participation by people in the period after retirement and in the post-family stage of life is rapidly diffused to entities that are engaged in Lifelong Learning in the field, including the Directorate for Lifelong Learning and NGOs. Basic research on the linkage between Lifelong Learning and older people needs to be intensified and the data material improved.
 
 - 8.17. Support and promote innovative geragogical projects through public programmes.
 
@@ -1407,7 +1382,7 @@ Supports: All Strategies
 
 > 52 Since human capital is crucial to achieve economic growth, employment and social cohesion, Government is implementing other incentives such as:  Zero rated VAT on educational material; VAT exemption on private teaching; Deduction of up to €10,000 against one's income for tuition fees paid, on successful completion of a tertiary education course (L.N. 427 of 2010); and Stipends to post-secondary students up to the first cycle degree.
 
-> 53 The Ċ avetta project, led by Paulo Freire Institute is an excellent example of such an initiative.
+> 53 The Ċavetta project, led by Paulo Freire Institute is an excellent example of such an initiative.
 
 47
 
@@ -1473,7 +1448,7 @@ Supports: Strategies 2, 4, 6, 7 and 10
 
 - Audit the provision of services provided by ETC and DLL and other state financed adult learning services, so as to harmonise the learning provision, maximise on their resources, assess, and better respond to the needs of new skills required.  The audit can also be a catalyst for closer collaboration between public learning organisations when exploring learning opportunities.
 
-- Focus on training programmes for key skills which improve young people's career prospects, and enable employers to have competent and motivated staff.  These key skills are also vital for the success of most organisations and include:  soft skills and oral and written communication skills in particular; teamwork and entrepreneurship; digital literacy; problemsolving, planning and organising; and the ability to think critically and creatively.
+- Focus on training programmes for key skills which improve young people's career prospects, and enable employers to have competent and motivated staff. These key skills are also vital for the success of most organisations and include: soft skills and oral and written communication skills in particular; teamwork and entrepreneurship; digital literacy; problem-solving, planning and organising; and the ability to think critically and creatively.
 
 > 54 The Malta Council for Economic and Social Development (MCESD) is an advisory council that issues opinions and recommendations to the Maltese government on matters of economic and social relevance.  A sub-committee of MCESD brings together as one forum adult learning providers and interested parties, with the stated objective of developing a coordinated action plan on second chance education and skills for life and supporting better-skilled, more competitive Maltese workers.
 
@@ -1539,7 +1514,7 @@ Supports: All Strategies
 
 - Plan and adapt provision of adult education to be relevant to Malta's social and economic needs.
 
-- Explore partnerships and synergies with enterprise to match students with the right employers, and to explore multiemployer placements.
+- Explore partnerships and synergies with enterprise to match students with the right employers, and to explore multi-employer placements.
 
 - Recognise and accredit the experiences of learners engaged in apprenticeships and internship programmes.
 
@@ -1641,7 +1616,7 @@ Supports: Strategies 1, 7 and 9
 
 - Explore the Lifelong Learning village concept within the context of a second, alternative evening public university which combines face to face teaching and / learning with online teaching and blended learning.  Some of the vacant industrial and manufacturing sites could be put to good use within this context.
 
-## Programme 1 1
+## Programme 11
 
 ### Set up working group to identify tangible measures to help people with disability engage in Lifelong Learning
 
@@ -1649,7 +1624,7 @@ Type: Structure
 
 Supports: Strategy 7
 
-- Set up a working group to develop a Lifelong Learning Action Plan for people with Disability.  The group should be coordinated by the Directorate for Lifelong Learning and requires the direct input of KNPD, A ġ enzija Sapport, Heads of ETC Resource Centres, specialist NGOs and expertise from the University of Malta and other foreign partners on a needs basis.  The Action Plan needs to incorporate vocational profiling of each person with a disability, ideally to be initiated while the person is still attending the Resource Centre.  Vocational Profiling for current older adults may be carried out at the Day Centres.
+- Set up a working group to develop a Lifelong Learning Action Plan for people with Disability.  The group should be coordinated by the Directorate for Lifelong Learning and requires the direct input of KNPD, Aġenzija Sapport, Heads of ETC Resource Centres, specialist NGOs and expertise from the University of Malta and other foreign partners on a needs basis.  The Action Plan needs to incorporate vocational profiling of each person with a disability, ideally to be initiated while the person is still attending the Resource Centre.  Vocational Profiling for current older adults may be carried out at the Day Centres.
 
 - Use Vocational Profiling to develop the persons' own awareness and understanding of opportunities and obstacles in the labour market.  Work experience placements and job tasters are possible tools to be utilised in the vocational profiling process. The aim of the placements should always be clearly defined as part of the individual planning process and should be strictly time limited.  Placements should always be a means to develop skills and opportunities for work and should not be seen as an aim in their own right.  The process should always lead to a support strategy that is owned and understood by the person, regardless of the disability.  Being a person-centred approach, vocational profiling is an individual, flexible and ongoing process with detailed information gathered relating to the job seekers' abilities, motivation, skills and knowledge.  The Plan should also clearly define the support strategies and resources that are required to meet the individuals' support needs.  These have to be provided by the tailored-made responses to be offered by the Lifelong Learning service providers.  The main focus should be on specific learning skills for work, enjoying leisure activities, improving the communication skills, developing self-confidence and self-advocacy, and to help participants become an integral part of their local community.
 
@@ -1683,7 +1658,7 @@ Supports: Strategy 7
 
 - Train persons with a disability to become trainers and provide solid measures for their inclusion in mainstream facilities and to teach others.
 
-- Build on fora such as KK16+, which brings together several stakeholders together, including ETC, FES, KNPD, A ġ enzija Sapport, the Student Services Department (which is administratively responsible for Resource Centres), MCAST and the University of Malta.
+- Build on fora such as KK16+, which brings together several stakeholders together, including ETC, FES, KNPD, Aġenzija Sapport, the Student Services Department (which is administratively responsible for Resource Centres), MCAST and the University of Malta.
 
 - Develop a database of adult educators who can be engaged to help persons with a disability in specific areas of learning while attending day centres.  Adult educators are currently trained by the Directorate for Lifelong Learning and run a basic programme of learning which is personalised and continuously adapted and upgraded to meet job requirements when these are identified by ETC.   The programme includes:  basic literacy and numeracy skills; basic ICT skills; basic general knowledge; basic social skills; basic community skills; basic budgeting skills; basic sports and leisure activities.
 
@@ -1963,7 +1938,7 @@ Supports: Strategies 2 and 7
 
 - Extend the Council declaration on a European Alliance for Apprenticeships adopted on 15th October 2013 beyond the narrow scope of 'youths', such that high quality apprenticeships and other work-based learning schemes are particularly effective instruments to improve sustainable transitions from school to work, notably by fostering skills that are relevant to the labour market and improving skill matches.
 
-- Explore flexi-learning at the shop-floor.  In times of economic crises, ETC responded by re-training, re-skilling and upskilling workers who were temporarily on a reduced working week.  While these workers continued to receive their pay of their five-day-week, workers were expected to attend such courses.  ETC has an extensive programme which needs to be sustained further (exploring all possibilities of ESF funding) and respond instantaneously to the needs of the job market.
+- Explore flexi-learning at the shop-floor.  In times of economic crises, ETC responded by re-training, re-skilling and up-skilling workers who were temporarily on a reduced working week.  While these workers continued to receive their pay of their five-day-week, workers were expected to attend such courses.  ETC has an extensive programme which needs to be sustained further (exploring all possibilities of ESF funding) and respond instantaneously to the needs of the job market.
 
 - Explore how flexi-learning can be offered to workers at their place of work, such as the use of mobile classrooms visiting industrial areas during workers' breaks.  This flexi-learning could assist local businesses in reaching new markets, assist workers to acquire new skills for new technologies, provide language teaching, and other demands synonymous with new skills.
 
@@ -2133,7 +2108,7 @@ Supports: Strategies 1, 2, 6, 7, 8, 9 and 10
 
 - Consolidate the training of career guidance teachers through the Career Guidance Capacity Building Scholarship scheme which allows persons in career guidance to invest in post-secondary studies.  The University of Malta's Post Graduate Diploma in Lifelong Career Guidance and Development is funded through this scheme and enables career guidance teachers in secondary schools and the ETC to pursue further studies in the area.  Government continues to provide sponsorships to professionals wanting to carry out career guidance studies at foreign universities at Masters level.
 
-- Review the guidance services currently being provided at the ETC Job Centres in Malta and Gozo.  Staff in these centres need to be adequately trained and supported to give personalised careers guidance, perform individual skills analysis and provide independent information to adults about courses offered by all providers on how to improve skills through reskilling and up-skilling.
+- Review the guidance services currently being provided at the ETC Job Centres in Malta and Gozo.  Staff in these centres need to be adequately trained and supported to give personalised careers guidance, perform individual skills analysis and provide independent information to adults about courses offered by all providers on how to improve skills through re-skilling and up-skilling.
 
 65
 
@@ -2467,9 +2442,9 @@ Type: Community
 
 Supports: Strategies, 3, 7 and 8
 
-- Support the operations of the 'Universita Tat-Tielet Eta' (U3E).  Universities of the Third Age can be loosely defined as sociocultural centres where older persons acquire new knowledge of significant issues, or validate the knowledge which they already possess, in an agreeable milieu and in accordance with acceptable methods.  U3E should have a presence on the University campus and aim at providing educational and social activities to all those interested, with no age restrictions.
+- Support the operations of the 'Universita Tat-Tielet Eta' (U3E).  Universities of the Third Age can be loosely defined as socio-cultural centres where older persons acquire new knowledge of significant issues, or validate the knowledge which they already possess, in an agreeable milieu and in accordance with acceptable methods.  U3E should have a presence on the University campus and aim at providing educational and social activities to all those interested, with no age restrictions.
 
-- Reposition the U3E from its current peripheral and even elitist status within society associated with 'positive ageing' into a fullyfledged, inclusive institution.
+- Reposition the U3E from its current peripheral and even elitist status within society associated with 'positive ageing' into a fully-fledged, inclusive institution.
 
 ## Programme 37
 
@@ -2511,7 +2486,7 @@ Type: Community
 
 Supports: Strategies 3 and 7
 
-- Set up a working group to develop adult learning opportunities for people in rehabilitation institutions.  The working group should include the Directorate for Lifelong Learning, national and social partners including: the Corradino Correctional Facility (CCF) at the main prison compound in Malta; the Substance Abuse Therapeutic Unit in Mta ħ leb; the Valletta Lock-Up below the Malta Law Courts; the Forensic Unit (Mount Carmel Hospital) in Attard; and NGOs offering rehabilitation programmes in Malta and Gozo.
+- Set up a working group to develop adult learning opportunities for people in rehabilitation institutions.  The working group should include the Directorate for Lifelong Learning, national and social partners including: the Corradino Correctional Facility (CCF) at the main prison compound in Malta; the Substance Abuse Therapeutic Unit in Mtaħleb; the Valletta Lock-Up below the Malta Law Courts; the Forensic Unit (Mount Carmel Hospital) in Attard; and NGOs offering rehabilitation programmes in Malta and Gozo.
 
 - Lever on the Inmates' Education Programme at the Corradino Correctional Facility to develop education programmes for inmates based on personal interests and needs.  It is vital that former offenders are also equipped with skills for self-employment, in view of cultural issues and challenges (such as prejudice and social stigma) which are prevalent in a small island state like Malta.  The Directorate for Lifelong Learning will foster closer channels of cooperation with the Prison School, especially in the areas of Literacy, Numeracy and ICT where the Adult Education Unit is building important expertise.  It will work in conjunction with the Prison School and ETC to address the high drop-out rate in courses organised at the prison school and bolster attendance not through any form of constriction but through more positive, coordinated reinforcement methods - possibly linked to the parole system and through cooperation with ETC in view of possible working possibilities beyond prison.
 
@@ -2565,6 +2540,36 @@ Supports: Strategy 10
 
 # Acronyms
 
+CVET	Continuing Vocational Education and Training
+CEDEFOP	European Centre for the Development of Vocational Training
+DQSE	Directorate for Quality and Standards in Education
+EACEA	Education, Audiovisual and Culture Executive Agency
+ECTS	European Credit Transfer and Accumulation System
+ECVET	European Credit Transfer System for Vocational Education and Training
+EQF	European Qualifications Framework for Lifelong Learning
+ESCO	European Skills / Competencies Qualifications and Occupations
+ETC	Employment and Training Corporation
+ETF	European Training Foundation
+EU	European Union
+EUCIS-LLL	European Civil Society Platform on Lifelong Learning
+EUPA	European Union Programmes Agency
+FES	Foundation for Educational Services
+ICT	Information and Communication Technologies
+IL	Intergenerational Learning
+IVET	Initial Vocational Education and Training
+LLL	Lifelong Learning
+MCESD	Malta Council for Economic and Social Development
+MGSS	Malta Government Scholarship Scheme
+MOOC	Massive Open Online Course
+MQRIC	Malta Qualifications Recognition Information Centre
+NCFHE	National Commission for Further & Higher Education
+ODL	Open and Distance Learning
+OER	Open Educational Resources
+PIAAC	Programme for the International Assessment of Adult Competencies
+PISA	The Programme for International Student Assessment
+SEC	Secondary Education Certificate
+VET	Vocational Education and Training
+
 77
 
 [[END OF PAGE 77]]
@@ -2597,13 +2602,15 @@ Digital Literacy means having the knowledge and ability to effectively and criti
 
 Early School-Leaver means somebody who does not pursue education after secondary school.
 
-European Credit Transfer and Accumulation System or ECTS means a system developed by the European Commission in order to provide generally valid and accepted procedures for the recognition of study qualifications gained by students on courses outside their home country.  It is also intended to provide more binding conditions, more flexibility and a greater degree of clarity in the organizing and running of courses for foreign students. ECTS gives students the opportunity to clarify definitively with their home university how many courses or classes they should attend while they are abroad and under what conditions the qualifications they obtain will be recognized by the home university on their return.
+European Credit Transfer and Accumulation System or ECTS means a system developed by the European Commission in order to provide generally valid and accepted procedures for the recognition of study qualifications gained by students on courses outside their home country. It is also intended to provide more binding conditions, more flexibility and a greater degree of clarity in the organizing and running of courses for foreign students. ECTS gives students the opportunity to clarify
 
 79
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
+
+definitively with their home university how many courses or classes they should attend while they are abroad and under what conditions the qualifications they obtain will be recognized by the home university on their return.
 
 European Credit Transfer System for Vocational Education and Training or ECVET means a common methodological framework that facilitates the accumulation and transfer of credits for learning outcomes from one qualifications system to another. It aims to promote transnational mobility and access to Lifelong Learning. It is not intended to replace national qualification systems, but to achieve better comparability and compatibility among them. ECVET applies to all outcomes obtained by an individual from various education and training pathways that are then transferred, recognised and accumulated in view of achieving a qualification. This initiative makes it easier for European citizens to gain recognition of their training, skills and knowledge in another Member State.
 
@@ -2649,7 +2656,7 @@ Open educational resources (OER) means materials used to support education that 
 
 Open Education (OE) means practices and organisations aiming at removing barriers to entry to education, often through the use of ICT.
 
-PIAAC means the Programme for the International Assessment of Adult Competencies. The Survey of Adult Skills directly assesses the skills of about 5,000 individuals per participating country, representing the countries' working age population (16-65 year olds). The skills tested are literacy, numeracy and problem solving in technology-rich environments (solving problems in a computer environment). The survey also asks about the use of ICT at work and in everyday life, generic skills required at work, whether the skills and qualification match the work requirements and questions about e.g. education, work and the socio-economic background. The first round was carried out in 201 1/2012 in 24 countries, among them 17 EU Member States, representing about 83% of the EU28 population. The proficiency that respondents showed in the test is reported on a scale from 0 to 500 points, which is divided into 'Skills levels' ('below 1' to '5' for literacy and numeracy; 'below 1' to '3' for problem solving.
+PIAAC means the Programme for the International Assessment of Adult Competencies. The Survey of Adult Skills directly assesses the skills of about 5,000 individuals per participating country, representing the countries' working age population (16-65 year olds). The skills tested are literacy, numeracy and problem solving in technology-rich environments (solving problems in a computer environment). The survey also asks about the use of ICT at work and in everyday life, generic skills required at work, whether the skills and qualification match the work requirements and questions about e.g. education, work and the socio-economic background. The first round was carried out in 2011/2012 in 24 countries, among them 17 EU Member States, representing about 83% of the EU28 population. The proficiency that respondents showed in the test is reported on a scale from 0 to 500 points, which is divided into 'Skills levels' ('below 1' to '5' for literacy and numeracy; 'below 1' to '3' for problem solving.
 
 PISA means The Programme for International Student Assessment, a triennial international survey which aims to evaluate education systems worldwide by testing the skills and knowledge of 15-year-old students. To date, students representing more than 70 economies have participated in the assessment.
 
@@ -2669,7 +2676,7 @@ Sector means a grouping of professional activities on the basis of their main ec
 
 Skills mean the ability to apply knowledge and use know-how to complete tasks and solve problems. In the context of the European Qualifications Framework, skills are described as cognitive (involving the use of logical, intuitive and creative thinking) or practical (involving manual dexterity and the use of methods, materials, tools and instruments).
 
-Skills Audit means a process aimed at identifying and analysing the knowledge, skills and competences of an individual, including his or her aptitudes and motivations in order to define a career project and/or plan a professional reorientation or training project; the aim of a skills audit is to help the individual analyse his/her career background, to self-assess his/ her position in the labour environment and to plan a career pathway, or in some cases to prepare for the validation of nonformal or informal learning outcomes;
+Skills Audit means a process aimed at identifying and analysing the knowledge, skills and competences of an individual, including his or her aptitudes and motivations in order to define a career project and/or plan a professional reorientation or training project; the aim of a skills audit is to help the individual analyse his/her career background, to self-assess his/her position in the labour environment and to plan a career pathway, or in some cases to prepare for the validation of non-formal or informal learning outcomes;
 
 Validation means a process of confirmation by an authorised body that an individual has acquired learning outcomes measured against a relevant standard and typically consists of the following four distinct phases: 1) Identification through dialogue of particular experiences of an individual; 2) Documentation to make visible the individual's experiences; 3) A formal Assessment of these experiences; and 4) Certification of the results of the assessment which may lead to a partial or full qualification.  Recognition of prior learning means the validation of learning outcomes, whether from formal education or non-formal or informal learning, acquired before requesting validation.
 
@@ -2701,17 +2708,17 @@ Borg, C. and Mayo, P. (2005). 'The EU Memorandum on Lifelong Learning. Old Wine 
 
 Borg, C. and Mayo P. (2010). 'Museums Adult Education as Cultural Politics' New Directions for Adult and Continuing Education (n. 127 p. 44).
 
-Borg, C. (2014). Stipends won't solve Malta's problem with low achievers. Available at: http://www.maltatoday.com.mt/en/ newsdetails/news/national/Stipends-won-t-solve-Malta-s-problem-with-low-achievers-expert-says-20131223.
+Borg, C. (2014). Stipends won't solve Malta's problem with low achievers. Available at: http://www.maltatoday.com.mt/en/newsdetails/news/national/Stipends-won-t-solve-Malta-s-problem-with-low-achievers-expert-says-20131223.
 
-Cedefop (2014). Malta. On the way to 2020: data for vocational education and training policies. Available at: http://www. cedefop.europa.eu/EN/Files/3066_en_VetCountryOverview_MT.pdf.
+Cedefop (2014). Malta. On the way to 2020: data for vocational education and training policies. Available at: http://www.cedefop.europa.eu/EN/Files/3066_en_VetCountryOverview_MT.pdf.
 
-Cedefop (2012). Malta. VET in Europe - Country Report.  Available at: http://libserver.cedefop.europa.eu/vetelib/2012/2012_ CR_MT.pdf.
+Cedefop (2012). Malta. VET in Europe - Country Report. Available at: http://libserver.cedefop.europa.eu/vetelib/2012/2012_CR_MT.pdf.
 
 Cedefop (2010). Changing Qualifications, Cedefop Reference series: 84, Publications Office of the European Union, Luxembourg, 2010. Available at:  http://www.cedefop.europa.eu/EN/publications/17429.aspx.
 
-Council of the European Union (2008). Draft 2008 joint progress report of the Council and the Commission on the implementation of the 'Education & Training 2010' work programme 'Delivering Lifelong Learning for knowledge, creativity and innovation' Adoption  [Online] Available: http://ec.europa.eu/ education/pdf/doc66_en.pdf.
+Council of the European Union (2008). Draft 2008 joint progress report of the Council and the Commission on the implementation of the 'Education & Training 2010' work programme “Delivering Lifelong Learning for knowledge, creativity and innovation” - Adoption [Online] Available: http://ec.europa.eu/education/pdf/doc66_en.pdf.
 
-Council of the European Union (2011). Draft Council Resolution on a renewed European agenda for adult learning Adoption, EDUC 40 SOC 981: Brussels.
+Council of the European Union (2011). Draft Council Resolution on a renewed European agenda for adult learning – Adoption, EDUC 40 SOC 981: Brussels.
 
 Commonwealth of Learning (2013). Open Schooling with Open Educational Resources:  Opening doors, creating opportunities. Eds. Ferreira, F. and Gauthier, C., Vancouver: COM.
 
@@ -2719,11 +2726,11 @@ Commonwealth of Learning (2013). Women and Leadership in Open and Distance Learn
 
 Commonwealth of Learning (2013). Increasing Access through Mobile Learning. Eds. Ally, M. and Tsinakos, A., Vancouver: COM.
 
-ETF (2014). Quality Assurance in Vocational Education and Training.  A collection of Articles. Available at: http://www.etf. europa.eu/webatt.nsf/0/270970490A6E9327C1257CA800407038/$file/Quality%20assurance%20in%20VET.pdf.
+ETF (2014). Quality Assurance in Vocational Education and Training. A collection of Articles. Available at: http://www.etf.europa.eu/webatt.nsf/0/270970490A6E9327C1257CA800407038/$file/Quality%20assurance%20in%20VET.pdf.
 
-ETF (2014). Making Better Vocational Qualifications.  Vocational Qualification System Reforms in ETF Partner Countries. Available at: http://www.etf.europa.eu/webatt.nsf/0/3AE7DF5686200FCEC1257CA00047FD58/$file/Making%20better%20 vocational%20qualifications.pdf.
+ETF (2014). Making Better Vocational Qualifications. Vocational Qualification System Reforms in ETF Partner Countries. Available at: http://www.etf.europa.eu/webatt.nsf/0/3AE7DF5686200FCEC1257CA00047FD58/$file/Making%20better%20vocational%20qualifications.pdf.
 
-ETF (2013). Work-Based Learning:  Benefits and Obstacles.  A literature review for policy makers and social partners in ETF Partner countries. Available at:  http://www.etf.europa.eu/webatt.nsf/0/576199725ED683BBC1257BE8005DCF99/$file/Workbased%20learning_Literature%20review.pdf.
+ETF (2013). Work-Based Learning: Benefits and Obstacles. A literature review for policy makers and social partners in ETF Partner countries. Available at: http://www.etf.europa.eu/webatt.nsf/0/576199725ED683BBC1257BE8005DCF99/$file/Work-based%20learning_Literature%20review.pdf.
 
 84
 
@@ -2731,13 +2738,13 @@ ETF (2013). Work-Based Learning:  Benefits and Obstacles.  A literature review f
 
 [[START OF PAGE 85]]
 
-European Commission (2014). Erasmus+. A Programme Guide. Available at: http://ec.europa.eu/programmes/erasmus-plus/ documents/erasmus-plus-programme-guide_en.pdf.
+European Commission (2014). Erasmus+. A Programme Guide. Available at: http://ec.europa.eu/programmes/erasmus-plus/documents/erasmus-plus-programme-guide_en.pdf.
 
-European Commission (2003). Implementing Lifelong Learning strategies in Europe: Progress report on the follow-up to the Council resolution of 2002 - EU and EFTA/EEA countries, Brussels available on http:// ec.europa.eu/education/policies/2010/ doc/synthesis_efta_eea_en.pdf.
+European Commission (2003). Implementing Lifelong Learning strategies in Europe: Progress report on the follow-up to the Council resolution of 2002 - EU and EFTA/EEA countries, Brussels available on http://ec.europa.eu/education/policies/2010/doc/synthesis_efta_eea_en.pdf.
 
 European Commission (2008). Progress towards the Lisbon Objectives in Education and Training, Indicators and Benchmarks, Brussels: Commission Staff Working Document.
 
-European Commission (2009). Making Lifelong Learning and Mobility a Reality, Brussels. |Available at http://ec.europa.eu/ education/lifelong-learning-policy/doc/report09/chapter1_en.pdf.
+European Commission (2009). Making Lifelong Learning and Mobility a Reality, Brussels. |Available at http://ec.europa.eu/education/lifelong-learning-policy/doc/report09/chapter1_en.pdf.
 
 European Commission (2010). Europe 2020: A European Strategy for smart, sustainable and inclusive growth, Brussels.
 
@@ -2745,15 +2752,15 @@ European Commission (2011). Draft Council Resolution on a renewed European Agend
 
 European Commission / EACEA/ Eurydice (2013). Education and Training in Europe 2020: Responses from the EU Member States. Eurydice Report. Brussels: Eurydice.
 
-European Union (2013).  Council Recommendation on Malta's 2013 national reform programme and delivering a Council opinion on Malta's stability programme for 2012-2016.  Available at:  http://ec.europa.eu/europe2020/pdf/nd/csr2013_ malta_en.pdf .
+European Union (2013). Council Recommendation on Malta's 2013 national reform programme and delivering a Council opinion on Malta's stability programme for 2012-2016. Available at: http://ec.europa.eu/europe2020/pdf/nd/csr2013_malta_en.pdf .
 
-Eurostat (2013). Key figures on Europe. 2013 digest of the online Eurostat yearbook.  Available at: http://epp.eurostat. ec.europa.eu/cache/ITY_OFFPUB/KS-EI-13-001/EN/KS-EI-13-001-EN.PDF.
+Eurostat (2013). Key figures on Europe. 2013 digest of the online Eurostat yearbook. Available at: http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-EI-13-001/EN/KS-EI-13-001-EN.PDF.
 
 Eurydice (2002). Key Competencies: a Developing Concept in General Compulsory Education, Brussels: EURYDICE.
 
 Fleming, T. (2010). Neoliberalism: The Implications for Lifelong Learning and Adult Education. Position Paper for EdD Module NUI Maynooth. URL: http://www.tedfleming.net/publications_2.html.
 
-Formosa, M. (2012).  Education and Older Adults at the University of the Third Age, Educational Gerontology, 38:2, pp.1 14-126.
+Formosa, M. (2012). Education and Older Adults at the University of the Third Age, Educational Gerontology, 38:2, pp.114-126.
 
 Formosa, M. (2012). Lifelong education for older adults in Malta: Current trends and future visions, International Review of Education, 58, pp. 271-292.
 
@@ -2761,7 +2768,7 @@ Fuchs, C. (2014). Social Media: a critical introduction , London: Sage.
 
 Jarvis. P. (2004). Adult Education and Lifelong Learning, London: RoutledgeFalmer.
 
-Johnson, L., Adams Becker, S., Cummins, M., Estrada, V., Freeman, A., and Ludgate, H. (2013). NMC Horizon Report: 2013 Higher Education Edition. Austin, Texas: The New Media Consortium.  Available at:  http://www.nmc.org/pdf/2013-horizonreport-HE.pdf.
+Johnson, L., Adams Becker, S., Cummins, M., Estrada, V., Freeman, A., and Ludgate, H. (2013). NMC Horizon Report: 2013 Higher Education Edition. Austin, Texas: The New Media Consortium. Available at: http://www.nmc.org/pdf/2013-horizon-report-HE.pdf.
 
 Knowles, M.S. (1968). Andragogy, not pedagogy!, New York: Association Press.
 
@@ -2769,7 +2776,7 @@ Knowles, M.S. (1984). The adult learner: A neglected species , Houston: Gulf Pub
 
 Ledwith, M. (2005). Community Development: A Critical Approach, Birmingham: Venture Press.
 
-Malta National Reform Programme under the Europe 2020 Strategy (2013).  Available at: http://ec.europa.eu/europe2020/ pdf/nd/nrp2013_malta_en.pdf.
+Malta National Reform Programme under the Europe 2020 Strategy (2013). Available at: http://ec.europa.eu/europe2020/pdf/nd/nrp2013_malta_en.pdf.
 
 85
 
@@ -2785,7 +2792,7 @@ Mayo, P., Pace, P.J. and Zammit, E.(2008). 'Adult education in small states: the
 
 Mayo, P. (2007). 'Adult Education in Malta,' International Perspectives in Adult Education Series (no. 56) DVV-International: Bonn.
 
-McKinsey Center for Government (2013). Education to Employment:  Designing a System that Works.  Available at: http:// mckinseyonsociety.com/downloads/reports/Education/Education-to-Employment_FINAL.pdf
+McKinsey Center for Government (2013). Education to Employment: Designing a System that Works. Available at: http://mckinseyonsociety.com/downloads/reports/Education/Education-to-Employment_FINAL.pdf
 
 McLaren, P. (1997). Revolutionary Multiculturalism: Pedagogies of Dissent for the New Millennium (The Edge, Critical Studies in Educational Theory), Boulder, Colorado: Westview Press.
 
@@ -2797,7 +2804,7 @@ Merriam, S.B. et al. (Ed.) (2006). Global Issues and Adult Education, San Franci
 
 Mezirow, J. (2000). Learning as Transformation, San Francisco: Jossey Bass.
 
-Mourshed, M., Farrell, D., Barton, D. (2013). Education to Employment. Designing a system that works. McKinsey & Company. Available at:  http://mckinseyonsociety.com/downloads/reports/Education/Education-to-Employment-exec-summary_ FINAL.pdf.
+Mourshed, M., Farrell, D., Barton, D. (2013). Education to Employment. Designing a system that works. McKinsey & Company. Available at: http://mckinseyonsociety.com/downloads/reports/Education/Education-to-Employment-exec-summary_FINAL.pdf.
 
 MQC - Malta Qualifications Council (2007). Descriptors of Key Competences in the National Qualifications Framework, Sliema: Salpress.
 
@@ -2825,17 +2832,17 @@ Wain, K. (2004). The Learning Society In A Postmodern World - The Education Cris
 
 Vancell, J. (1997). 'Night Schools and Basic English: Adult Literacy Education in Malta (1946-1973) in Beyond Schooling - Adult Education in Malta' ed. Baldacchino, G., and Mayo, P. Mireva Publications.
 
-UNESCO (1997a). Adult Education: The Hamburg Declaration - The Agenda For The Future, Hamburg: UNESCO [On-line]. Available: http://www.education. unesco.org/confintea.
+UNESCO (1997a). Adult Education: The Hamburg Declaration - The Agenda For The Future, Hamburg: UNESCO [On-line]. Available: http://www.education.unesco.org/confintea.
 
 UNESCO (1997b). The politics and policies of the education of adults in a globally transforming society, Germany: UNESCO Institute of Education [On-line]. Available: http://www.education.unesco.org/uie.
 
-UNESCO (2005). Towards Knowledge Societies, France: UNESCO [On-line]. Available: http://unesdoc.unesco.org/ images/0014/001418/141843e.pdf.
+UNESCO (2005). Towards Knowledge Societies, France: UNESCO [On-line]. Available: http://unesdoc.unesco.org/images/0014/001418/141843e.pdf.
 
 Walters, S., ed. (1997). Globalization, Adult Education and Training: Impacts and Issues, Leicester: National Institute for Adult and Continuing Education.
 
 Wedemeyer, C. (1981). Learning at the Back Door, Madison: The University of Wisconsin Press.
 
-Welton, M. (1993). Social revolutionary learning: The new social movements as learning sites. Adult Education Quarterly, 43(3), p. 1 52-164.
+Welton, M. (1993). Social revolutionary learning: The new social movements as learning sites. Adult Education Quarterly, 43(3), p.152-164.
 
 87
 
@@ -2848,6 +2855,8 @@ Welton, M. (1993). Social revolutionary learning: The new social movements as le
 [[END OF PAGE 88]]
 
 [[START OF PAGE 89]]
+
+# Annexes
 
 ## Annex 1
 
@@ -2876,8 +2885,6 @@ For more information, visit www.lifelonglearning.gov.mt.
 > 80 A list of adult courses managed by the DLL is available at: https://lifelonglearning.gov.mt/Home.aspx
 
 > 81 Currently €34.95 per course
-
-# Annexes
 
 89
 
@@ -2962,13 +2969,41 @@ European Qualifications Framework
 
 Award | MQF Level | Workload
 --- | --- | ---
-Academic Higher Education Award Including VET Awards | Level 8 Level 7 Level 6 Level 5 | Doctoral degree 60 - 120 ECTS/ECVET 180-240 ECTS/ECVET 30-90 ECTS /ECVET
-VET Awards | Level 4 Level 3 Level 2 Level 1 | 60-120 ECVET 60-120ECVET 60-120 ECVET Minimum 40 ECVET
-Continuing Profession la Development | Level 6 Level 5 Level 4 | Min of 4 ECTS/ECVET Min of 4 ECTS/ECVET Min of 4 ECTS/ECVET
-Customised Awards | Level 6 Level 5 Level 4 Level 3 Level 2 Level 1 | Min of 4 ECTS/ECVET Min of 4 ECVET Min of 4 ECVET Min of 4 ECVET Min of 4 ECVET Min of 4 ECVET
-Work-based Learning Awards | Level 6 Level 5 Level 4 Level 3 Level 2 Level 1 | Award based on Supervised on- the -job training with a minimum of 5 ECVET OR the validation of prior learning and a minimum of 5 years of professional experience in a recognised sector.
-Legacy Award ( General Education MQF L1 to L8 or VET-related MQF L1 to L5) | Level 8 Level 7 Level 6 Level 5 Level 4 Level 2 Level 1 | Award conferred to individuals prior to 2010 and which have relevance to the labour market and employment. VET awards are classified up to MQF Level 5.
-School Awards | Level 4 Level 3 Level 2 Level 1 | Matriculation Crtificate 6 SEC Grades 1-5 4 Sec Grades 6-7 Secondary School Certificate and Profile
+Academic Higher Education Award Including VET Awards | Level 8 | Doctoral degree
+ | Level 7 | 60 – 120 ECTS/ECVET
+ | Level 6 | 180-240 ECTS/ECVET
+ | Level 5 | 30-90 ECTS /ECVET
+VET Awards | Level 4 | 60-120 ECVET
+ | Level 3 | 60-120 ECVET
+ | Level 2 | 60-120 ECVET
+ | Level 1 | Minimum 40 ECVET
+Continuing Professional Development | Level 6 | Min of 4 ECTS/ECVET
+ | Level 5 | Min of 4 ECTS/ECVET
+ | Level 4 | Min of 4 ECTS/ECVET
+Customised Awards | Level 6 | Min of 4 ECTS/ECVET
+ | Level 5 | Min of 4 ECVET
+ | Level 4 | Min of 4 ECVET
+ | Level 3 | Min of 4 ECVET
+ | Level 2 | Min of 4 ECVET
+ | Level 1 | Min of 4 ECVET
+Work-based Learning Awards | Level 6 | Award based on Supervised on-the-job training with a minimum of 5 ECVET OR the validation of prior learning and a minimum of 5 years of professional experience in a recognised sector.
+ | Level 5 |
+ | Level 4 |
+ | Level 3 |
+ | Level 2 |
+ | Level 1 |
+Legacy Award (General Education MQF L1 to L8 or VET-related MQF L1 to L5) | Level 8 | Award conferred to individuals prior to 2010 and which have relevance to the labour market and employment. VET awards are classified up to MQF Level 5.
+ | Level 7 |
+ | Level 6 |
+ | Level 5 |
+ | Level 4 |
+ | Level 3 |
+ | Level 2 |
+ | Level 1 |
+School Awards | Level 4 | Matriculation Certificate
+ | Level 3 | 6 SEC Grades 1-5
+ | Level 2 | 4 Sec Grades 6-7
+ | Level 1 | Secondary School Certificate and Profile
 
 See http://ec.europa.eu/eqf/compare/mt_en.htm#comparison
 
@@ -3060,7 +3095,7 @@ They include knowledge, skills and attitudes:
 
 ### PIAAC Key Performance Indicators
 
-Brief description of proficiency levels, score point ranges and 'can do'- statements for literacy, numeracy and problemsolving  in technology- rich environments 88
+Brief description of proficiency levels, score point ranges and 'can do'- statements for literacy, numeracy and problem-solving in technology- rich environments 88
 
 Level | Score | Literacy | Numeracy
 --- | --- | --- | ---
@@ -3079,9 +3114,9 @@ below 1 | below 176 | Individuals can read brief texts on familiar topics and lo
 
 [[START OF PAGE 96]]
 
-Level | Score | Problem solving in technology rich envirnments
+Level | Score | Problem solving in technology rich environments
 --- | --- | ---
-3 | 5000 to 340 | Adults complete tasks involving multiple applications, a large number of steps, impasses, and the discovery and use of ad hoc commands in a novel environment.
+3 | 500 to 341 | Adults complete tasks involving multiple applications, a large number of steps, impasses, and the discovery and use of ad hoc commands in a novel environment.
 2 | 340 to 291 | Adults can complete problems that explicit criteria for success, a small number of applications, and several steps and operators. They can handle unexpected outcomes or impasses.
 1 | 290 to 241 | Adults can complete tasks in which the goal is explicitly stated and for which the necessary operations and performed in a familiar environment. They can solve problems whose solutions involve a small number of steps.
 below 1 | below 241 | Tasks are based on well - defined problems involving the use of only one function within a generic interface to meet one explicit criterion. Few steps are required and no sub-goal has to be generated.
@@ -3132,199 +3167,48 @@ Total | 50,672 | 100.0 | 231,881 | 100.0 | 68,191 | 100.0 | 350,744 | 100.0
 
 #### VET Indicators for Malta (Cedefop, 2014) 89
 
-0
-
-50
-
-100
-
-150
-
-200
-
-250
-
-300
+0 | 50 | 100 | 150 | 200 | 250 | 300
 
 ACCESS, ATTRACTIVENESS AND FLEXIBILITY
 
-1010
-
-IVET- students of all upper secondary students (%)
-
-1020
-
-IVET work-based students in upper secondary IVET (%)
-
-1030
-
-Employees participating in CVT courses (%)
-
-1040
-
-Employees participating in on-the job training(%)
-
-1050
-
-adults in Lifelong Learning (%)
-
-1060
-
-Enterprises providing training (%)
-
-1070
-
-Female IVET students of all female upper secondary students(%)
-
-1080
-
-Young VET graduates in further education and training (%)
-
-1090
-
-Older adults in Lifelong Learning(%)
-
-1100
-
-Low educated adults in Lifelong Learning (%)
-
-1110 Unemployed adults in Lifelong Learning (%)
-
-1120
-
-Individuals who wanted to participate in training but did not (%)
-
-1130
-
-Job-related non-formal education and training (%)
+1010 | IVET- students of all upper secondary students (%) | 77
+1020 | IVET work-based students in upper secondary IVET (%) |
+1030 | Employees participating in CVT courses (%) | 95
+1040 | Employees participating in on-the job training(%) | 71
+1050 | adults in Lifelong Learning (%) | 78
+1060 | Enterprises providing training (%) |
+1070 | Female IVET students of all female upper secondary students(%) | 61
+1080 | Young VET graduates in further education and training (%) |
+1090 | Older adults in Lifelong Learning(%) | 63
+1100 | Low educated adults in Lifelong Learning (%) | 67
+1110 | Unemployed adults in Lifelong Learning (%) |
+1120 | Individuals who wanted to participate in training but did not (%) | 217
+1130 | Job-related non-formal education and training (%) | 122
 
 SKILL DEVELOPMENT AND LABOUR MARKET RELEVANCE
 
-2010
+2010 | IVET Public expenditure (% of GDP) | 66
+2020 | IVET Public expenditure (EUR per student) |
+2030 | Enterprise expenditure on CVT courses (%of total labour cost) | 175
+2040 | Average number of foreign languages learned in IVET | 83
+2050 | STEM graduates from upper secondary IVET (%of total) |
+2060 | 30-34 year-olds with tertiary attainment(%) |
+2070 | Innovative enterprises with supportive training practices (%) | 89
+2080 | Employment rate for IVET graduates (20-34 year olds) | 113
+2090 | Employment premium for IVET graduates ( over general stream) |
+2100 | Employment premium for IVET graduates ( over low-educated) | 123
+2110 | Workers helped to improve their work by training (%) | 108
+2120 | Workers with skills matched to their duties(%) | 100
 
-IVET Public expenditure (% of GDP)
+OVERALL TRANSITION AND EMPLOYMENT TRENDS
 
-2020
-
-IVET Public expenditure (EUR per student)
-
-2030
-
-Enterprise expenditure on CVT courses 95of total labour cost)
-
-2040
-
-Average number of foreign languages learned in IVET
-
-2050
-
-STEM graduates from upper secondary IVET (%of total)
-
-2060
-
-30-34 year-olds with tertiary attainment(%)
-
-2070
-
-Innovative enterprises with supportive training practices (%)
-
-2080
-
-Employment rate for IVET graduates (20-34 year olds)
-
-2090
-
-Employment premium for IVET graduates ( over general stream)
-
-2100
-
-Employment premium for IVET graduates ( over low-educated)
-
-2110
-
-Workers helped to improve their work by training (%)
-
-2120
-
-Workers with skills matched  to their duties(%)
-
-OVERALL TRANSITION AND EMPLOYMENT TRENSDS
-
-3010
-
-Early leavers from education and training (%)
-
-3020
-
-30-40 year olds with tertiary attainment (%)
-
-3030
-
-NEET rate for 18-24 year-olds (%)
-
-3040
-
-Unemployment rate for 20-34 year-olds(%)
-
-3050
-
-Adults with lower level of educational attainment (%)
-
-3060
-
-Employment rate for 20-64 year olds (%)
-
-3070
-
-Medium/high - qualified employment in 2020 (%of total)
-
-77
-
-95
-
-71
-
-78
-
-61
-
-63
-
-67
-
-217
-
-122
-
-66
-
-175
-
-83
-
-89
-
-113
-
-123
-
-108
-
-100
-
-177
-
-63
-
-69
-
-43
-
-240
-
-92
-
-74
+3010 | Early leavers from education and training (%) | 177
+3020 | 30-40 year olds with tertiary attainment (%) | 63
+3030 | NEET rate for 18-24 year-olds (%) | 69
+3040 | Unemployment rate for 20-34 year-olds(%) | 43
+3050 | Adults with lower level of educational attainment (%) | 240
+3060 | Employment rate for 20-64 year olds (%) | 92
+3070 | Medium/high - qualified employment in 2020 (%of total) | 74
 
 NB: the index numbers are derived from data summarised in the table but which have not been rounded. All data in the table have been rounded.
 
@@ -3338,22 +3222,22 @@ NB: the index numbers are derived from data summarised in the table but which ha
 
 #### Score on VET indicators in Malta and in the EU, 2006, 2010 and 2011/12 (where available)
 
-Indicator label | 2006 | 2010 | Change 2006-10 | 2011/12 updates
+Indicator label | 2006 MT | 2006 EU | 2010 MT | 2010 EU | Change 2006-10 MT | Change 2006-10 EU | 2011/12 updates MT | 2011/12 updates EU
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-MT | EU | MT | EU | MT | EU | MT | EU
+ACCESS, ATTRACTIVENESS AND FLEXIBILITY
 1010 IVET-students as % of all upper secondary students | 46.9 | 51.7 | 49.3 | 49.9 | 2.4 | -1.8 | 38.9 | 50.3
-1020 IVET work-based students as % of upper secondary IVET | 27.7 | 27.9 | 0.2 | 27.0
-1030 Employees participating in CVT courses (%) | 32 | 33 | 36 | 38 | 4 | 5
-1040 Employees participating in on-the-job traning (%) | 17 | 16 | 15 | 21 | -2 | 5
+1020 IVET work-based students as % of upper secondary IVET |  | 27.7 |  | 27.9 |  | 0.2 |  | 27.0
+1030 Employees participating in CVT courses (%) | 32 | 33 | 36 | 38 | 4 | 5 |  |
+1040 Employees participating in on-the-job traning (%) | 17 | 16 | 15 | 21 | -2 | 5 |  |
 1050 Adults in Lifelong Learning (%) | 5.4 | 9.5 | 6.2 | 9.1 | 0.8 | -0.4 | 7.0 | 9.0
-1060 Enterprises providing traning (%) | 4.6 | 60 | 54 | 66 | 8 | 6
+1060 Enterprises providing traning (%) | 4.6 | 60 | 54 | 66 | 8 | 6 |  |
 1070 Female IVET students as % of all female upper secondary students | 36.6 | 46.3 | 39.8 | 44.2 | 3.2 | -2.1 | 27.3 | 44.7
-1080 Young VET graduates in further education and training (%) | 30.7
-1090 Older adults in Lifelong Learning (%) | 5.1 | 3.3 | 5.3 | 0.2 | 3.3 | 5.3
+1080 Young VET graduates in further education and training (%) |  |  |  | 30.7 |  |  |  |
+1090 Older adults in Lifelong Learning (%) |  | 5.1 | 3.3 | 5.3 |  | 0.2 | 3.3 | 5.3
 1100 Low-educated adults in Lifelong Learning (%) | 2.8 | 3.7 | 3.4 | 3.9 | 0.6 | 0.2 | 2.6 | 3.9
 1110 Unemployed adults in Lifelong Learning (%) | 11.0 | 7.7 | 14.9 | 9.2 | 3.9 | 1.5 | 8.8 | 9.0
-1120 Individuals who wanted to participate in training but did not (%) | 27.4 | 14.5 | 23.6 | 10.9 | -3.8 | -3.6
-1130 Job-related non-formal education and training (%) | 71.0 | 84.5 | 99.3 | 81.4 | 28.3 | -3.1
+1120 Individuals who wanted to participate in training but did not (%) | 27.4 | 14.5 | 23.6 | 10.9 | -3.8 | -3.6 |  |
+1130 Job-related non-formal education and training (%) | 71.0 | 84.5 | 99.3 | 81.4 | 28.3 | -3.1 |  |
 
 > NB : b = break in series. Where the break in series occurs in 2011/12, data for 2006 and 2010 are not presented. If break in series occurs between 2006 and 2010, neither data for 2006 nor the change in 2006-10 are shown; d=definition. Date are treated in a similar way to breaks in series. When the change in definition is in 2008 or 2010, these data are also not presented because comparability over time is affected; u=unreliable; p=provisional.
 
@@ -3363,29 +3247,29 @@ MT | EU | MT | EU | MT | EU | MT | EU
 
 [[START OF PAGE 100]]
 
-Indicator label | 2006 | 2010 | Change 2006-10 | 2011/12 updates
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-MT | EU | MT | EU | MT | EU | MT | EU
-2010 | IVET public expenditure (% of GDP) | 0.38 | 0.67 | 0.47 | 0.71 | 0.09 | 0.04
-2020 | IVET public expenditure (EUR per student) | 5.481 | 7.089 | 8.549 | 1.460
-2030 | Enterprise expenditure on CVT courses as % of total labour cost | 1.0 | 0.9 | 1.4 | 0.8 | 0.4 | -0.1
-2040 | Average number of foreign languages learned in IVET | 1.2 | 1.0 | 1.2 | 0.0 | 1.0 | 1.2
-2050 | STEM graduates from upper secondary VET (% of total) | 26.5 | 32.0 | 28.7 | -3.3 | 29.4
-2060 | 30-34 year-olds with tertiary VET attainment(%) | 7.3 | 7.3 | 0.0 | 8.6
-2070 | Innovative enterprises with supportive training practices(%) | 38.1 | 42.8 | 36.9 | 41.5 | -1.2 | -1.3
-2080 | Employment rate for IVET graduates (20-34 year old) | 89.7 | 79.1
-2090 | Employment premium for IVET graduates ( over general stream) | -3.6 | 5.6
-2100 | Employment premium for IVET graduates ( over low- educated ) | 21.4 | 17.4
-2110 | Workers helped to improve their work by training (%) | 96.7 | 89.7
-2120 | Workers with skills matched to their duties (%) | 55.3 | 55.3
+Indicator label | 2006 MT | 2006 EU | 2010 MT | 2010 EU | Change 2006-10 MT | Change 2006-10 EU | 2011/12 updates MT | 2011/12 updates EU
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+SKILL DEVELOPMENT AND LABOUR MARKET RELEVANCE
+2010 IVET public expenditure (% of GDP) | 0.38 | 0.67 | 0.47 | 0.71 | 0.09 | 0.04 |  |
+2020 IVET public expenditure (EUR per student) | 5.481 | 7.089 |  | 8.549 |  | 1.460 |  |
+2030 Enterprise expenditure on CVT courses as % of total labour cost | 1.0 | 0.9 | 1.4 | 0.8 | 0.4 | -0.1 |  |
+2040 Average number of foreign languages learned in IVET |  | 1.2 | 1.0 | 1.2 |  | 0.0 | 1.0 | 1.2
+2050 STEM graduates from upper secondary VET (% of total) | 26.5 | 32.0 |  | 28.7 |  | -3.3 |  | 29.4
+2060 30-34 year-olds with tertiary VET attainment(%) |  | 7.3 |  | 7.3 |  | 0.0 |  | 8.6
+2070 Innovative enterprises with supportive training practices(%) | 38.1 | 42.8 | 36.9 | 41.5 | -1.2 | -1.3 |  |
+2080 Employment rate for IVET graduates (20-34 year old) |  |  | 89.7 | 79.1 |  |  |  |
+2090 Employment premium for IVET graduates ( over general stream) |  |  | -3.6 | 5.6 |  |  |  |
+2100 Employment premium for IVET graduates ( over low- educated ) |  |  | 21.4 | 17.4 |  |  |  |
+2110 Workers helped to improve their work by training (%) |  |  | 96.7 | 89.7 |  |  |  |
+2120 Workers with skills matched to their duties (%) |  |  | 55.3 | 55.3 |  |  |  |
 OVERALL TRANSITIONS AND LABOUR MARKET TRENDS
-3010 | Early leavers from education and training (%) | 15.5 | 24.8 | 14.0 | (B0 | -1.51 | 22.6 | 12.8 (P)
-3020 | 30 -40 years old with tertiary attainment (%) | 21.6 | 28.9 | 21.5 | 33.5 | -0.1 | 4.6 | 22.4 | 35.8
-3030 | NEET rate from 18-24 years olds(%) | 15.1 | 10.6 | 16.5 | (B) | 1.4 | 11.7 | 17.0(B)
-3040 | Unemployment rate for 20-34 year olds (%) | 7.0 | 10.6 | 6.3 | 13.1 | -0.7 | 2.5 | 6.3 | 14.5
-3050 | Adults with lower level of educational attainment(%) | 30.1 | 64.8 | 27.3 | (B) | -2.8 | 61.9 | 25.8
-3060 | Employment rate for 20-64 year -olds(%) | 57.8 | 69.0 | 60.1 | 68.5 | 2.5 | -0.5 | 63.1 | 68.5
-3070 | Medium/ high -qualified employment in 2020 (%of total) | 61.0 | 82.3
+3010 Early leavers from education and training (%) |  | 15.5 | 24.8 | 14.0 | (B) | -1.5 | 22.6 | 12.8 (P)
+3020 30 -40 years old with tertiary attainment (%) | 21.6 | 28.9 | 21.5 | 33.5 | -0.1 | 4.6 | 22.4 | 35.8
+3030 NEET rate from 18-24 years olds(%) |  | 15.1 | 10.6 | 16.5 | (B) | 1.4 | 11.7 | 17.0(B)
+3040 Unemployment rate for 20-34 year olds (%) | 7.0 | 10.6 | 6.3 | 13.1 | -0.7 | 2.5 | 6.3 | 14.5
+3050 Adults with lower level of educational attainment(%) |  | 30.1 | 64.8 | 27.3 | (B) | -2.8 | 61.9 | 25.8
+3060 Employment rate for 20-64 year -olds(%) | 57.8 | 69.0 | 60.1 | 68.5 | 2.5 | -0.5 | 63.1 | 68.5
+3070 Medium/ high -qualified employment in 2020 (%of total) |  |  | 61.0 | 82.3 |  |  |  |
 
 100
 
@@ -3397,7 +3281,7 @@ OVERALL TRANSITIONS AND LABOUR MARKET TRENDS
 
 ### Scholarships and other Adult Education Funding Schemes
 
-The Directorate for Lifelong Learning managed various scholarship schemes aimed at providing opportunities to promote further specialisation at higher levels of education particularly at a Masters and Doctoral level thus increasing the availability and employment of high-level graduates in the priority sectors of the knowledge-based economy in Malta.  In the three preceding years before the Directorate was set up (between 2006 and 2008), 31 1 scholarships were awarded, of which 39 were for Doctoral studies.  In the period from June 2009 till March 2012), 1,160 scholarships were awarded, of which 163 lead to Doctoral studies. Currently, the scholarship schemes are managed by the directorate for programme implementation within the ministry for education and employment.
+The Directorate for Lifelong Learning managed various scholarship schemes aimed at providing opportunities to promote further specialisation at higher levels of education particularly at a Masters and Doctoral level thus increasing the availability and employment of high-level graduates in the priority sectors of the knowledge-based economy in Malta.  In the three preceding years before the Directorate was set up (between 2006 and 2008), 311 scholarships were awarded, of which 39 were for Doctoral studies.  In the period from June 2009 till March 2012), 1,160 scholarships were awarded, of which 163 lead to Doctoral studies. Currently, the scholarship schemes are managed by the directorate for programme implementation within the ministry for education and employment.
 
 Incentives and stipends to people attending tertiary education in Malta amounted to €23 million in 2012. During the past few years Government has undertaken several initiatives to support citizens in specialisation in higher levels of education. Government is making use of ESF funds to sponsor Academic Courses in Developing Core Skills in the Public Service. There is the Get Qualified scheme by Malta Enterprise which is an initiative that supports the personal development of individuals for the achievement of qualifications and certifications required by industry. ETC offers the Training Aid Framework (TAF) where local companies can invest in their human resources. The training can even lead to a PhD.  Self-employed persons are also eligible.  Some Ministries have introduced initiatives of sponsorships in specialized fields. One example is the Ministry of Resources and Rural Affairs which is sponsoring potential students studying to become veterinarians. Through the Youth Specialisation Studies Scheme (YSSS), Aġenzija Żgħażagħ and APS Bank are offering the opportunity for young people, aged between 18 and 30 years, to apply for a soft loan at a subsidised rate of interest to further their studies or follow distance learning courses, provided that such courses of study are not available in Malta.
 
@@ -3417,7 +3301,7 @@ Our University traces its origins to the founding of the Collegium Melitense whi
 
 In mid-19th century, Rev. Paolo Pullicino (then Director of Primary Education) is credited with the setting up of adult education schools on the lines established in Italy.  In 1850 he set up the Scuola Serale at Zabbar.  At least two other evening schools were opened, one at Floriana and the other at Valletta.
 
-The British had encouraged prospective Drydocks workers and potential emigrants to attend evening classes in spoken and written English during the mid-twentieth century.  Throughout the years, we consistently recognized that to survive under various rules, and later as an independent state, the sensible response to obsolescence was to learn throughout life. Therefore, we immediately saw relevance of the conclusions of UNESCO's 1960 Montreal Conference.  These conclusions highlighted the priority to eradicate illiteracy, pronounced that adult learning should henceforth be accepted by people everywhere as normal and encouraged all governments to treat such learning as a necessary component of educational provision. The Conference also focused on the emerging educational needs of women and families 90 .
+The British had encouraged prospective Drydocks workers and potential emigrants to attend evening classes in spoken and written English during the mid-twentieth century.  Throughout the years, we consistently recognized that to survive under various rulers, and later as an independent state, the sensible response to obsolescence was to learn throughout life. Therefore, we immediately saw relevance of the conclusions of UNESCO's 1960 Montreal Conference.  These conclusions highlighted the priority to eradicate illiteracy, pronounced that adult learning should henceforth be accepted by people everywhere as normal and encouraged all governments to treat such learning as a necessary component of educational provision. The Conference also focused on the emerging educational needs of women and families 90 .
 
 Adult education continues to mean different things to different people in Malta.  As Mayo (2012) observes, it was traditionally associated with adult literacy and basic education in the late 19th and first half of the 20th century at a time when there was no mass public education. It was linked, for the most part, with emigration and involved literacy especially in English. The main purpose was to assist emigrants in settling in former British colonies of settlement such as the USA, Canada and Australia. Vocational education, often with a strong agricultural bias, was also instrumental in this regard (these receiving countries preferred country to city dwellers).  Adult education was also associated with religious instruction and with social development. Social development was initially often promoted by institutions that followed the social teachings of the Catholic Church.
 
@@ -3443,6 +3327,8 @@ Throughout the past two decades, the concept of education from the cradle to the
 
 education.gov.mt
 
-104
+MINISTRY FOR EDUCATION AND EMPLOYMENT
+
+
 
 [[END OF PAGE 104]]
