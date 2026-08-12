@@ -3015,7 +3015,7 @@ after  that  date  to  reflect  the  provisions  of  this section;
 
 ''(ii)  children  who  are  not  yet  at  a  grade  level at  which  the  local  educational  agency  provides  a  free public education.
 
-''(B) ELIGIBLE CHILDREN FROM ELIGIBLE POPULATION.From the population described in subparagraph (A), eligible children  are  children  identified  by  the  school  as  failing, or  most  at  risk  of  failing,  to  meet  the  State's  challenging student  academic  achievement  standards  on  the  basis  of multiple,  educationally  related,  objective  criteria  established  by  the  local  educational  agency  and  supplemented by the school, except that children from preschool through grade 2 shall be selected solely on the basis of such criteria as teacher judgment, interviews with parents, and developmentally appropriate measures.
+''(B) ELIGIBLE CHILDREN FROM ELIGIBLE POPULATION.-From the population described in subparagraph (A), eligible children  are  children  identified  by  the  school  as  failing, or  most  at  risk  of  failing,  to  meet  the  State's  challenging student  academic  achievement  standards  on  the  basis  of multiple,  educationally  related,  objective  criteria  established  by  the  local  educational  agency  and  supplemented by the school, except that children from preschool through grade 2 shall be selected solely on the basis of such criteria as teacher judgment, interviews with parents, and developmentally appropriate measures.
 
 14:55 Mar 26, 2002
 
@@ -3563,7 +3563,7 @@ to  the  extent  practicable,  provided  in  a  language  that the parents can u
 
 ''(8) RESTRUCTURING.-
 
-''(A)  FAILURE TO MAKE ADEQUATE YEARLY PROGRESS.If,  after  1  full  school  year  of  corrective  action  under  paragraph  (7),  a  school  subject  to  such  corrective  action  continues  to  fail  to  make  adequate  yearly  progress,  then  the local educational agency shall-
+''(A)  FAILURE TO MAKE ADEQUATE YEARLY PROGRESS.-If,  after  1  full  school  year  of  corrective  action  under  paragraph  (7),  a  school  subject  to  such  corrective  action  continues  to  fail  to  make  adequate  yearly  progress,  then  the local educational agency shall-
 
 ''(i)  continue  to  provide  all  students  enrolled  in the school with the option to transfer to another public school served by the local educational agency, in accordance with paragraph (1)(E) and (F);
 
@@ -4029,7 +4029,7 @@ VerDate 11-MAY-2000
 
 ''(B)  the  actual  costs  of  the  supplemental  educational services received by the child.
 
-''(7)  FUNDS PROVIDED BY STATE EDUCATIONAL AGENCY.Each State educational agency may use funds that the agency reserves  under  this  part,  and  part  A  of  title  V,  to  assist  local educational agencies that do not have sufficient funds to provide services under this subsection for all eligible students requesting such services.
+''(7)  FUNDS PROVIDED BY STATE EDUCATIONAL AGENCY.-Each State educational agency may use funds that the agency reserves  under  this  part,  and  part  A  of  title  V,  to  assist  local educational agencies that do not have sufficient funds to provide services under this subsection for all eligible students requesting such services.
 
 ''(8)  DURATION.-The  local  educational  agency  shall  continue  to  provide  supplemental  educational  services  to  a  child receiving  such  services  under  this  subsection  until  the  end of  the  school  year  in  which  such  services  were  first  received.
 
@@ -4237,9 +4237,9 @@ of such school shall be responsible for meeting the requirements of subsection (
 
 ''(B) BUREAU OPERATED SCHOOLS.-For schools operated by  the  Bureau  of  Indian  Affairs,  the  Bureau  shall  be responsible for meeting the requirements of subsection (b) relating to development and implementation of any school improvement plan as described in subsections (b)(1) through (b)(5), other than subsection (b)(1)(E).
 
-''(4)  CORRECTIVE ACTION AND RESTRUCTURING FOR BUREAUFUNDED SCHOOLS.-
+''(4)  CORRECTIVE ACTION AND RESTRUCTURING FOR BUREAU-FUNDED SCHOOLS.-
 
-''(A)  CONTRACT AND GRANT SCHOOLS.-For  a  school funded by the Bureau of Indian Affairs which is operated under  a  contract  issued  by  the  Secretary  of  the  Interior pursuant  to  the  Indian  Self-Determination  Act  (25  U.S.C. 450  et  seq.)  or  under  a  grant  issued  by  the  Secretary of the Interior pursuant to the Tribally Controlled Schools Act  of  1988  (25  U.S.C.  2501  et  seq.),  the  school  board of such school shall be responsible for meeting the requirements  of  subsection  (b)  relating  to  corrective  action  and restructuring  as  described  in  subsection  (b)(7)  and  (b)(8). Any  action  taken  by  such  school  board  under  subsection (b)(7)  or  (b)(8)  shall  take  into  account  the  unique  circumstances and structure of the Bureau of Indian Affairsfunded school system and the laws governing that system.
+''(A)  CONTRACT AND GRANT SCHOOLS.-For  a  school funded by the Bureau of Indian Affairs which is operated under  a  contract  issued  by  the  Secretary  of  the  Interior pursuant  to  the  Indian  Self-Determination  Act  (25  U.S.C. 450  et  seq.)  or  under  a  grant  issued  by  the  Secretary of the Interior pursuant to the Tribally Controlled Schools Act  of  1988  (25  U.S.C.  2501  et  seq.),  the  school  board of such school shall be responsible for meeting the requirements  of  subsection  (b)  relating  to  corrective  action  and restructuring  as  described  in  subsection  (b)(7)  and  (b)(8). Any  action  taken  by  such  school  board  under  subsection (b)(7)  or  (b)(8)  shall  take  into  account  the  unique  circumstances and structure of the Bureau of Indian Affairs-funded school system and the laws governing that system.
 
 ''(B) BUREAU OPERATED SCHOOLS.-For schools operated by  the  Bureau  of  Indian  Affairs,  the  Bureau  shall  be responsible for meeting the requirements of subsection (b) relating to corrective action and restructuring as described in  subsection  (b)(7)  and  (b)(8).  Any  action  taken  by  the Bureau  under  subsection  (b)(7)  or  (b)(8)  shall  take  into account  the  unique  circumstances  and  structure  of  the Bureau  of  Indian  Affairs-funded  school  system  and  the laws governing that system.
 
@@ -4465,7 +4465,7 @@ VerDate 11-MAY-2000
 
 ''(B)  TEACHER AWARDS.-For  the  purpose  of  carrying out  subsection  (b)(3),  a  State  educational  agency  may reserve such funds as necessary from funds made available under section 2113.
 
-''(3)  USE WITHIN 3 YEARS.-Notwithstanding  any  other provision  of  law,  the  amount  reserved  under  subparagraph (A)  by  a  State  for  each  fiscal  year  shall  remain  available  to the  State  until  expended  for  a  period  not  exceeding  3  years receipt of funds.
+''(3)  USE WITHIN 3 YEARS.-Notwithstanding  any  other provision  of  law,  the  amount  reserved  under  subparagraph (A)  by  a  State  for  each  fiscal  year  shall  remain  available  to the  State  until  expended  for  a  period  not  exceeding  3  years after receipt of funds.
 
 ''(4)  SPECIAL ALLOCATION RULE FOR SCHOOLS IN HIGH-POVERTY AREAS.-
 
@@ -4521,10 +4521,6 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-Notification.
-
-Public information.
-
 14:55 Mar 26, 2002
 
 quality  of  the  schools  served  under  this  part,  including identifying  barriers  to  greater  participation  by  parents  in activities authorized by this section (with particular attention  to  parents  who  are  economically  disadvantaged,  are disabled,  have  limited  English  proficiency,  have  limited literacy, or are of any racial or ethnic minority background), and use the findings of such evaluation to design strategies for  more  effective  parental  involvement,  and  to  revise,  if necessary,  the  parental  involvement  policies  described  in this section; and
@@ -4542,6 +4538,10 @@ quality  of  the  schools  served  under  this  part,  including identifying  ba
 ''(b) SCHOOL PARENTAL INVOLVEMENT POLICY.-
 
 ''(1) IN GENERAL.-Each school served under this part shall jointly develop with, and distribute to, parents of participating children  a  written  parental  involvement  policy,  agreed  on  by such  parents,  that  shall  describe  the  means  for  carrying  out the  requirements  of  subsections  (c)  through  (f).  Parents  shall be  notified  of  the  policy  in  an  understandable  and  uniform format  and,  to  the  extent  practicable,  provided  in  a  language the parents can understand. Such policy shall be made available to  the  local  community  and  updated  periodically  to  meet  the changing needs of parents and the school.
+
+Notification.
+
+Public information.
 
 ''(2)  SPECIAL RULE.-If  the  school  has  a  parental  involvement policy that applies to all parents, such school may amend that policy, if necessary, to meet the requirements of this subsection.
 
@@ -4597,7 +4597,7 @@ participation  under  this  part  and  to  explain  the  requirements of this pa
 
 ''(d)  SHARED RESPONSIBILITIES FOR HIGH STUDENT ACADEMIC ACHIEVEMENT.-As a component of the school-level parental involvement  policy  developed  under  subsection  (b),  each  school  served under  this  part  shall  jointly  develop  with  parents  for  all  children served  under  this  part  a  school-parent  compact  that  outlines  how parents, the entire school staff, and students will share the responsibility  for  improved  student  academic  achievement  and  the  means by which the school and parents will build and develop a partnership  to  help  children  achieve  the  State's  high  standards.  Such compact shall-
 
-''(1)  describe  the  school's  responsibility  to  provide  highquality curriculum and instruction in a supportive and effective learning  environment  that  enables  the  children  served  under this  part  to  meet  the  State's  student  academic  achievement standards, and the ways in which each parent will be responsible for supporting their children's learning, such as monitoring attendance, homework completion, and television watching; volunteering in their child's classroom; and participating, as appropriate,  in  decisions  relating  to  the  education  of  their  children and positive use of extracurricular time; and
+''(1)  describe  the  school's  responsibility  to  provide  high-quality curriculum and instruction in a supportive and effective learning  environment  that  enables  the  children  served  under this  part  to  meet  the  State's  student  academic  achievement standards, and the ways in which each parent will be responsible for supporting their children's learning, such as monitoring attendance, homework completion, and television watching; volunteering in their child's classroom; and participating, as appropriate,  in  decisions  relating  to  the  education  of  their  children and positive use of extracurricular time; and
 
 ''(2)  address  the  importance  of  communication  between teachers and  parents on an ongoing basis through, at  a minimum-
 
@@ -4741,10 +4741,6 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-Deadline.
-
-Deadlines.
-
 14:55 Mar 26, 2002
 
 Jkt 099139
@@ -4755,7 +4751,11 @@ academic  subjects  in  each  public  elementary  school  and secondary  school 
 
 ''(C)  may  include  such  other  measures  as  the  State educational agency determines to be appropriate to increase teacher qualifications.
 
-''(3)  LOCAL PLAN.-As part of the plan described in section 1112, each local educational agency receiving assistance under this  part  shall  develop  a  plan  to  ensure  that  all  teachers teaching  within  the  school  district  served  by  the  local  educational  agency  are  highly  qualified  not  later  than  the  end of the 2005-2006 school year. ''(b) REPORTS.-
+''(3)  LOCAL PLAN.-As part of the plan described in section 1112, each local educational agency receiving assistance under this  part  shall  develop  a  plan  to  ensure  that  all  teachers teaching  within  the  school  district  served  by  the  local  educational  agency  are  highly  qualified  not  later  than  the  end of the 2005-2006 school year.
+
+Deadline.
+
+''(b) REPORTS.-
 
 ''(1) ANNUAL STATE AND LOCAL REPORTS.-
 
@@ -4766,6 +4766,8 @@ academic  subjects  in  each  public  elementary  school  and secondary  school 
 ''(C) INFORMATION FROM OTHER REPORTS.-A State educational  agency  or  local  educational  agency  may  submit information  from  the  reports  described  in  section  1111(h) for  the  purposes of this subsection, if such report is modified,  as  may  be  necessary,  to  contain  the  information required by this subsection, and may submit such information as a part of the reports required under section 1111(h).
 
 ''(2)  ANNUAL REPORTS BY THE SECRETARY.-Each  year, beginning with the 2002-2003 school year, the Secretary shall publicly  report  the  annual  progress  of  State  educational  agencies,  local  educational  agencies,  and  schools,  in  meeting  the measurable objectives described in subsection (a)(2).
+
+Deadlines.
 
 ''(c) NEW PARAPROFESSIONALS.-
 
@@ -4815,7 +4817,7 @@ VerDate 11-MAY-2000
 
 ''(2)  whose  duties  consist  solely  of  conducting  parental involvement activities consistent with section 1118.
 
-''(f)  GENERAL REQUIREMENT FOR ALL PARAPROFESSIONALS.Each local educational agency receiving assistance under this part shall  ensure  that  all  paraprofessionals  working  in  a  program  supported  with  funds  under  this  part,  regardless  of  the  paraprofessionals'  hiring  date,  have  earned  a  secondary  school  diploma  or its recognized equivalent.
+''(f)  GENERAL REQUIREMENT FOR ALL PARAPROFESSIONALS.-Each local educational agency receiving assistance under this part shall  ensure  that  all  paraprofessionals  working  in  a  program  supported  with  funds  under  this  part,  regardless  of  the  paraprofessionals'  hiring  date,  have  earned  a  secondary  school  diploma  or its recognized equivalent.
 
 ''(g) DUTIES OF PARAPROFESSIONALS.-
 
@@ -4873,10 +4875,6 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-Deadline.
-
-20 USC 6320.
-
 14:55 Mar 26, 2002
 
 Jkt 099139
@@ -4901,7 +4899,11 @@ classroom  instruction  or  that  do  not  benefit  participating children,  so 
 
 ''(l)  MINIMUM EXPENDITURES.-Each  local  educational  agency that receives funds under this part shall use not less than 5 percent, or  more  than  10  percent,  of  such  funds  for  each  of  fiscal  years 2002  and  2003,  and  not  less  than  5  percent  of  the  funds  for  each subsequent  fiscal  year,  for  professional  development  activities  to ensure  that  teachers  who  are  not  highly  qualified  become  highly qualified  not  later  than  the  end  of  the  2005-2006  school  year.
 
+Deadline.
+
 ###### ''SEC.  1120.  PARTICIPATION  OF  CHILDREN  ENROLLED  IN  PRIVATE SCHOOLS.
+
+20 USC 6320.
 
 ''(a) GENERAL REQUIREMENT.-
 
@@ -4935,7 +4937,7 @@ VerDate 11-MAY-2000
 
 ''(3)  EQUITY.-Educational  services  and  other  benefits  for such  private  school  children  shall  be  equitable  in  comparison to services and other benefits for public school children participating  under  this  part,  and  shall  be  provided  in  a  timely manner.
 
-''(4) EXPENDITURES.-Expenditures for educational services and  other  benefits  to  eligible  private  school  children  shall  be equal to the proportion of funds allocated to participating school attendance  areas  based  on  the  number  of  children  from  lowincome  families  who  attend  private  schools,  which  the  local educational agency may determine each year or every 2 years.
+''(4) EXPENDITURES.-Expenditures for educational services and  other  benefits  to  eligible  private  school  children  shall  be equal to the proportion of funds allocated to participating school attendance  areas  based  on  the  number  of  children  from  low-income  families  who  attend  private  schools,  which  the  local educational agency may determine each year or every 2 years.
 
 ''(5) PROVISION OF SERVICES.-The local educational agency may  provide  services  under  this  section  directly  or  through contracts  with  public  and  private  agencies,  organizations,  and institutions.
 
@@ -5015,7 +5017,7 @@ Jkt 099139
 
 ''(D) using an equated measure of low income correlated with the measure of low income used to count public school children.
 
-''(2)  COMPLAINT PROCESS.-Any  dispute  regarding lowincome  data  for  private  school  students  shall  be  subject  to the complaint process authorized in section 9505.
+''(2)  COMPLAINT PROCESS.-Any  dispute  regarding low-income  data  for  private  school  students  shall  be  subject  to the complaint process authorized in section 9505.
 
 ''(d) PUBLIC CONTROL OF FUNDS.-
 
@@ -5067,7 +5069,7 @@ VerDate 11-MAY-2000
 
 ''(a) MAINTENANCE OF EFFORT.-A local educational agency may receive  funds  under  this  part  for  any  fiscal  year  only  if  the  State educational agency involved finds that the local educational agency has maintained the agency's fiscal effort in accordance with section 9521.
 
-''(b)  FEDERAL FUNDS TO SUPPLEMENT,  NOT SUPPLANT,  NONFEDERAL FUNDS.-
+''(b)  FEDERAL FUNDS TO SUPPLEMENT,  NOT SUPPLANT,  NON-FEDERAL FUNDS.-
 
 ''(1) IN GENERAL.-A State educational agency or local educational  agency  shall  use  Federal  funds  received  under  this part  only  to  supplement  the  funds  that  would,  in  the  absence of  such  Federal  funds,  be  made  available  from  non-Federal sources  for  the  education  of  pupils  participating  in  programs assisted under this part, and not to supplant such funds.
 
@@ -5111,13 +5113,11 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-20 USC 6322.
-
 14:55 Mar 26, 2002
 
 local  funds  to  provide  services  that,  taken  as  a  whole, are substantially comparable in each school.
 
-''(C)  BASIS.-A local educational agency may meet the requirements  of  subparagraphs  (A)  and  (B)  on  a  gradespan by grade-span basis or a school-by-school basis.
+''(C)  BASIS.-A local educational agency may meet the requirements  of  subparagraphs  (A)  and  (B)  on  a  grade-span by grade-span basis or a school-by-school basis.
 
 ''(2) WRITTEN ASSURANCE.-
 
@@ -5150,6 +5150,8 @@ local  funds  to  provide  services  that,  taken  as  a  whole, are substantial
 ''(d) EXCLUSION OF FUNDS.-For the purpose of complying with subsections  (b)  and  (c),  a  State  educational  agency  or  local  educational  agency  may  exclude  supplemental  State  or  local  funds expended  in  any  school  attendance  area  or  school  for  programs that meet the intent and purposes of this part.
 
 ###### ''SEC. 1120B. COORDINATION REQUIREMENTS.
+
+20 USC 6322.
 
 ''(a)  IN GENERAL.-Each  local  educational  agency  receiving assistance  under  this  part  shall  carry  out  the  activities  described in  subsection  (b)  with  Head  Start  agencies  and,  if  feasible,  other entities  carrying  out  early  childhood  development  programs  such as the Early Reading First program.
 
@@ -5309,7 +5311,7 @@ amount of such payment may not exceed, for each such child, the greater of-
 
 ###### ''SEC. 1122. ALLOCATIONS TO STATES.
 
-''(a) ALLOCATION FORMULA.-Of the amount appropriated under section 1002(a) to carry out this part for each of fiscal years 20022007  (referred  to  in  this  subsection  as  the  current  fiscal  year)-
+''(a) ALLOCATION FORMULA.-Of the amount appropriated under section 1002(a) to carry out this part for each of fiscal years 2002-2007  (referred  to  in  this  subsection  as  the  current  fiscal  year)-
 
 ''(1)  an  amount  equal  to  the  amount  made  available  to carry  out  section  1124  for  fiscal  year  2001  shall  be  allocated in accordance with section 1124;
 
@@ -5365,10 +5367,6 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-Applicability.
-
-20 USC 6333.
-
 14:55 Mar 26, 2002
 
 Jkt 099139
@@ -5389,6 +5387,8 @@ educational  agency  meets  the  minimum  eligibility  criteria  for that fiscal
 
 ###### ''SEC. 1124. BASIC GRANTS TO LOCAL EDUCATIONAL AGENCIES.
 
+20 USC 6333.
+
 ''(a) AMOUNT OF GRANTS.-
 
 ''(1) GRANTS FOR LOCAL EDUCATIONAL AGENCIES AND PUERTO RICO.-Except as provided in paragraph (4) and in section 1126, the  grant  that  a  local  educational  agency  is  eligible  to  receive under  this  section  for  a  fiscal  year  is  the  amount  determined by multiplying-
@@ -5399,7 +5399,9 @@ educational  agency  meets  the  minimum  eligibility  criteria  for that fiscal
 
 ''(2) CALCULATION OF GRANTS.-
 
-''(A) ALLOCATIONS TO LOCAL EDUCATIONAL AGENCIES.The  Secretary  shall  calculate  grants  under  this  section on  the  basis  of  the  number  of  children  counted  under subsection  (c)  for  local  educational  agencies,  unless  the
+''(A) ALLOCATIONS TO LOCAL EDUCATIONAL AGENCIES.-The  Secretary  shall  calculate  grants  under  this  section on  the  basis  of  the  number  of  children  counted  under subsection  (c)  for  local  educational  agencies,  unless  the
+
+Applicability.
 
 PO 00110
 
@@ -5495,7 +5497,7 @@ VerDate 11-MAY-2000
 
 Jkt 099139
 
-''(C) ALLOCATIONS TO LOCAL EDUCATIONAL AGENCIES.If  the  Secretary  approves  the  State  educational  agency's application under subparagraph (B), the State educational agency shall provide the Secretary an assurance that such allocations shall be made-
+''(C) ALLOCATIONS TO LOCAL EDUCATIONAL AGENCIES.-If  the  Secretary  approves  the  State  educational  agency's application under subparagraph (B), the State educational agency shall provide the Secretary an assurance that such allocations shall be made-
 
 ''(i)  using  precisely  the  same  factors  for  determining  a  grant  as  are  used  under  this  subpart;  or
 
@@ -5507,7 +5509,7 @@ Jkt 099139
 
 ''(A) IN GENERAL.-For each fiscal year, the grant that the  Commonwealth  of  Puerto  Rico  shall  be  eligible  to receive under this section shall be the amount determined by multiplying the number of children counted under subsection  (c)  for  the  Commonwealth  of  Puerto  Rico  by  the product of-
 
-''(i)  subject  to  subparagraph  (B),  the  percentage that the average per-pupil expenditure in the Commonwealth  of  Puerto  Rico  is  of  the  lowest  average  perpupil expenditure of any of the 50 States; and
+''(i)  subject  to  subparagraph  (B),  the  percentage that the average per-pupil expenditure in the Commonwealth  of  Puerto  Rico  is  of  the  lowest  average  per-pupil expenditure of any of the 50 States; and
 
 ''(ii)  32  percent  of  the  average  per-pupil  expenditure in the United States.
 
@@ -5613,8 +5615,6 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-Deadline.
-
 14:55 Mar 26, 2002
 
 as  the  criteria  have  been  updated  by  increases  in  the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics.
@@ -5626,6 +5626,8 @@ as  the  criteria  have  been  updated  by  increases  in  the Consumer Price In
 ''(B) The Secretary shall determine the number of such children  and  the  number  of  children  aged  5  through  17 living  in  institutions  for  neglected  or  delinquent  children, or  being  supported  in  foster  homes  with  public  funds,  on the  basis  of  the  caseload  data  for  the  month  of  October of  the  preceding  fiscal  year  (using,  in  the  case  of  children described in the preceding sentence, the criteria of poverty and  the  form  of  such  criteria  required  by  such  sentence which  were  determined  for  the  calendar  year  preceding such  month  of  October)  or,  to  the  extent  that  such  data are  not  available  to  the  Secretary  before  January  of  the calendar  year  in  which  the  Secretary's  determination  is made,  then  on  the  basis  of  the  most  recent  reliable  data available  to  the  Secretary  at  the  time  of  such  determination.
 
 ''(C)  Except  for  the  data  on  children  living  in  institutions  for  neglected  or  delinquent  children,  the  Secretary of  Health  and  Human  Services  shall  collect  and  transmit the information required by this subparagraph to the Secretary not later than January 1 of each year.
+
+Deadline.
 
 ''(D)  For  the  purpose  of  this  section,  the  Secretary shall  consider  all  children  who  are  in  correctional  institutions  to  be  living  in  institutions  for  delinquent  children.
 
@@ -5729,8 +5731,6 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-20 USC 6335.
-
 14:55 Mar 26, 2002
 
 Jkt 099139
@@ -5744,6 +5744,8 @@ Jkt 099139
 ''(2)  based  on  their  respective  concentrations and numbers of  children  counted  under  section  1124(c),  except  that  only those local educational agencies with concentrations or numbers of children counted under section 1124(c) that exceed the statewide  average  percentage  of  such  children  or  the  statewide average  number  of  such  children  shall  receive  any  funds  on the basis of this paragraph.
 
 ###### ''SEC.  1125.  TARGETED  GRANTS  TO  LOCAL  EDUCATIONAL  AGENCIES.
+
+20 USC 6335.
 
 ''(a) ELIGIBILITY OF LOCAL EDUCATIONAL AGENCIES.-
 
@@ -5949,7 +5951,9 @@ VerDate 11-MAY-2000
 
 ''(a)  GRANTS.-From  funds  appropriated  under  subsection  (f) the  Secretary  is  authorized  to  make  grants  to  States,  from  allotments under subsection (b), to carry out the programs and activities of this part.
 
-''(b)  DISTRIBUTION BASED UPON FISCAL EFFORT AND EQUITY.''(1) IN GENERAL.-
+''(b)  DISTRIBUTION BASED UPON FISCAL EFFORT AND EQUITY.-
+
+''(1) IN GENERAL.-
 
 ''(A) IN GENERAL.-Except as provided in subparagraph (B),  funds  appropriated  pursuant  to  subsection  (f)  shall
 
@@ -6595,7 +6599,7 @@ Jkt 099139
 
 ''(B) shall reserve one-half of 1 percent for the Secretary of  the  Interior  for  programs  under  this  subpart  in  schools operated or funded by the Bureau of Indian Affairs;
 
-''(C) may  reserve not more than 2 1 /2 percent or $25,000,000,  whichever  is  less,  to  carry  out  section  1205 (relating to external evaluation) and section 1206 (relating to national activities);
+''(C) may  reserve not more than 2½ percent or $25,000,000,  whichever  is  less,  to  carry  out  section  1205 (relating to external evaluation) and section 1206 (relating to national activities);
 
 ''(D) shall reserve $5,000,000 to carry out sections 1207 and 1224 (relating to information dissemination); and
 
@@ -6893,7 +6897,7 @@ not  more  than  25  percent  of  the  amount  of  the  funds  made available un
 
 ''(i)  selecting  and  implementing a program or programs  of  reading  instruction  based  on  scientifically based reading research;
 
-''(ii) selecting screening, diagnostic, and classroombased instructional reading assessments; and
+''(ii) selecting screening, diagnostic, and classroom-based instructional reading assessments; and
 
 ''(iii)  identifying  eligible  professional  development providers  to  help  prepare  reading  teachers  to  teach students using the programs and assessments described in clauses (i) and (ii).
 
@@ -7467,7 +7471,7 @@ Jkt 099139
 
 ''(2) ELIGIBLE PROFESSIONAL DEVELOPMENT PROVIDER.-The term 'eligible  professional  development  provider'  means  a  provider  of  professional  development  in  reading  instruction  to teachers,  including  special  education  teachers,  that  is  based on scientifically based reading research.
 
-''(3)  ESSENTIAL COMPONENTS OF READING INSTRUCTION.The  term  'essential  components  of  reading  instruction'  means explicit and systematic instruction in-
+''(3)  ESSENTIAL COMPONENTS OF READING INSTRUCTION.-The  term  'essential  components  of  reading  instruction'  means explicit and systematic instruction in-
 
 ''(A) phonemic awareness;
 
@@ -7611,9 +7615,9 @@ Jkt 099139
 
 ''(1) To support local efforts to enhance the early language, literacy, and prereading development of preschool age children, particularly those from low-income families, through strategies and  professional  development  that  are  based  on  scientifically based reading research.
 
-''(2) To provide preschool age children with cognitive learning opportunities in high-quality language and literaturerich  environments,  so  that  the  children  can  attain  the  fundamental  knowledge  and  skills  necessary  for  optimal  reading development in kindergarten and beyond.
+''(2) To provide preschool age children with cognitive learning opportunities in high-quality language and literature-rich  environments,  so  that  the  children  can  attain  the  fundamental  knowledge  and  skills  necessary  for  optimal  reading development in kindergarten and beyond.
 
-''(3)  To  demonstrate language and literacy activities based on scientifically based reading research that supports the ageappropriate development of-
+''(3)  To  demonstrate language and literacy activities based on scientifically based reading research that supports the age-appropriate development of-
 
 ''(A)  recognition,  leading  to  automatic  recognition,  of letters of the alphabet;
 
@@ -7899,7 +7903,7 @@ Jkt 099139
 
 ''(2) SPECIAL RULE.-After December 21, 2000, the Secretary shall  award  a  grant,  on  a  competitive  basis,  of  sufficient  size and  for  a  period  of  sufficient  duration  to  demonstrate  the effectiveness  of  a  family  literacy  program  in  a  prison  that houses  women  and  their  preschool  age  children  and  that  has the capability of developing a program of high quality.
 
-''(3) COORDINATION OF PROGRAMS FOR AMERICAN INDIANS.The  Secretary  shall  ensure  that  programs  under  paragraph (1)(C)  are  coordinated  with  family  literacy  programs  operated by  the  Bureau  of  Indian  Affairs  in  order  to  avoid  duplication and  to  encourage  the  dissemination  of  information  on  highquality family literacy programs serving American Indians.
+''(3) COORDINATION OF PROGRAMS FOR AMERICAN INDIANS.-The  Secretary  shall  ensure  that  programs  under  paragraph (1)(C)  are  coordinated  with  family  literacy  programs  operated by  the  Bureau  of  Indian  Affairs  in  order  to  avoid  duplication and  to  encourage  the  dissemination  of  information  on  high-quality family literacy programs serving American Indians.
 
 ''(b) RESERVATION FOR FEDERAL ACTIVITIES.-
 
@@ -8075,7 +8079,7 @@ VerDate 11-MAY-2000
 
 ''(A)  IN GENERAL.-Except  as  provided  in  subparagraphs (B) and (C), no State educational agency shall award a  subgrant  under  paragraph  (1)  in  an  amount  less  than $75,000.
 
-''(B) SUBGRANTEES IN NINTH AND SUCCEEDING YEARS.No State educational agency shall award a subgrant under paragraph (1) in an amount less than $52,500 to an eligible entity for a fiscal year to carry out an Even Start program that is receiving assistance under this subpart or its predecessor  authority  for  the  ninth  (or  any  subsequent)  fiscal year.
+''(B) SUBGRANTEES IN NINTH AND SUCCEEDING YEARS.-No State educational agency shall award a subgrant under paragraph (1) in an amount less than $52,500 to an eligible entity for a fiscal year to carry out an Even Start program that is receiving assistance under this subpart or its predecessor  authority  for  the  ninth  (or  any  subsequent)  fiscal year.
 
 ''(C)  EXCEPTION FOR SINGLE SUBGRANT.-A  State  educational  agency  may  award  one  subgrant  in  each  fiscal year  of  sufficient  size,  scope,  and  quality  to  be  effective in an amount less than $75,000 if, after awarding subgrants under paragraph (1) for that fiscal year in accordance with subparagraphs (A) and (B),  less  than  $75,000  is  available to the State educational agency to award those subgrants.
 
@@ -8597,7 +8601,7 @@ VerDate 11-MAY-2000
 
 ''(2)  develop  models  for  new  programs  to  be  carried  out under  this  Act  or  the  Adult  Education  and  Family  Literacy Act.
 
-''(b)  SCIENTIFICALLY BASED RESEARCH ON FAMILY LITERACY.''(1)  IN GENERAL.-From  amounts  reserved  under  section 1232(b)(2),  the  National  Institute  for  Literacy,  in  consultation with the Secretary, shall carry out research that-
+''(b)  SCIENTIFICALLY BASED RESEARCH ON FAMILY LITERACY.-''(1)  IN GENERAL.-From  amounts  reserved  under  section 1232(b)(2),  the  National  Institute  for  Literacy,  in  consultation with the Secretary, shall carry out research that-
 
 ''(A) is scientifically based reading research; and
 
@@ -8671,7 +8675,7 @@ Jkt 099139
 
 ''(2)  FORMULA GRANTS TO STATES.-If the amount of funds appropriated  under  section  1002(b)(4)  for  a  fiscal  year  equals or exceeds $100,000,000, then the Secretary shall award grants to State educational agencies from allotments under subsection (d).
 
-''(3) DEFINITION OF ELIGIBLE LOCAL EDUCATIONAL AGENCY.In  this  section  the  term  'eligible  local  educational  agency' means-
+''(3) DEFINITION OF ELIGIBLE LOCAL EDUCATIONAL AGENCY.-In  this  section  the  term  'eligible  local  educational  agency' means-
 
 ''(A) in the case of a local educational agency receiving assistance  made  available  under  paragraph  (1),  a  local educational  agency  in  which  20  percent  of  the  students served  by  the  local  educational  agency  are  from  families with incomes below the poverty line; and
 
@@ -9185,7 +9189,7 @@ Jkt 099139
 
 ''(b)  PEER REVIEW.-The  Secretary may  review any such application  with  the  assistance  and  advice  of  State  officials  and other individuals with relevant expertise.
 
-###### ''SEC.  1306.  COMPREHENSIVE  NEEDS  ASSESSMENT  AND  SERVICEDELIVERY PLAN; AUTHORIZED ACTIVITIES.
+###### ''SEC.  1306.  COMPREHENSIVE  NEEDS  ASSESSMENT  AND  SERVICE-DELIVERY PLAN; AUTHORIZED ACTIVITIES.
 
 ''(a) COMPREHENSIVE PLAN.-
 
@@ -9431,7 +9435,7 @@ VerDate 11-MAY-2000
 
 ''(C)  resides  in  a  school  district  of  more  than  15,000 square miles, and migrates a distance of 20 miles or more to  a  temporary  residence  to  engage  in  a  fishing  activity.
 
-### ''PART  D-PREVENTION  AND  INTERVENTION PROGRAMS FOR CHILDREN AND  YOUTH WHO ARE NEGLECTED, DELINQUENT, OR ATRISK
+### ''PART  D-PREVENTION  AND  INTERVENTION PROGRAMS FOR CHILDREN AND  YOUTH WHO ARE NEGLECTED, DELINQUENT, OR AT-RISK
 
 ###### ''SEC. 1401. PURPOSE AND PROGRAM AUTHORIZATION.
 
@@ -9755,7 +9759,7 @@ VerDate 11-MAY-2000
 
 ''(A)  are  consistent  with  the  State  plan  under  section 1414(a); and
 
-''(B)  concentrate  on  providing  participants  with  the knowledge andskills needed to make a successful transition to  secondary  school  completion,  vocational  or  technical training, further education, or employment.
+''(B)  concentrate  on  providing  participants  with  the knowledge and skills needed to make a successful transition to  secondary  school  completion,  vocational  or  technical training, further education, or employment.
 
 ''(2) PROGRAMS AND PROJECTS.-Such programs and projects-
 
@@ -9835,7 +9839,7 @@ with  the  opportunity  to  meet  challenging  State  academic  content  standar
 
 used to assess student progress;
 
-''(7) describes how the agency has planned, and will implement and evaluate, the institution-wide or program-wide project in  consultation  with  personnel  providing  direct  instructional services  and  support  services  in  institutions  or  communityday  programs  for  neglected  or  delinquent  children  and  youth, and  with  personnel  from  the  State  educational  agency;  and
+''(7) describes how the agency has planned, and will implement and evaluate, the institution-wide or program-wide project in  consultation  with  personnel  providing  direct  instructional services  and  support  services  in  institutions  or  community-day  programs  for  neglected  or  delinquent  children  and  youth, and  with  personnel  from  the  State  educational  agency;  and
 
 ''(8)  includes  an  assurance  that  the  State  agency  has  provided  for  appropriate  training  for  teachers  and  other  instructional  and  administrative  personnel  to  enable  such  teachers and personnel to carry out the project effectively.
 
@@ -10015,7 +10019,7 @@ VerDate 11-MAY-2000
 
 ''(8)  as  appropriate,  a  description  of  how  the  program  will involve  parents  in  efforts  to  improve  the  educational  achievement of  their  children,  assist  in  dropout  prevention  activities, and  prevent  the  involvement  of  their  children  in  delinquent activities;
 
-''(9)  a  description  of  how  the  program  under  this  subpart will  be  coordinated  with  other  Federal,  State,  and  local  programs,  such  as  programs  under  title  I  of  Public  Law  105220  and  vocational  and  technical  education  programs  serving at-risk children and youth;
+''(9)  a  description  of  how  the  program  under  this  subpart will  be  coordinated  with  other  Federal,  State,  and  local  programs,  such  as  programs  under  title  I  of  Public  Law  105-220  and  vocational  and  technical  education  programs  serving at-risk children and youth;
 
 ''(10)  a  description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 and other comparable programs, if applicable;
 
@@ -10411,7 +10415,7 @@ of  2001,  the  Secretary  shall  transmit  to  the  President, the  Committee  
 
 ''(2)  ISSUES TO BE EXAMINED.-In  carrying  out  this  subsection,  the  Secretary  shall  ensure  that  the  study  referred to in paragraph (1) provides Congress and educators with each of the following:
 
-''(A) An accurate description and analysis of the shortand long-term effect of the assistance made available under this title on academic achievement.
+''(A) An accurate description and analysis of the short- and long-term effect of the assistance made available under this title on academic achievement.
 
 ''(B)  Information  that  can  be  used  to  improve  the effectiveness  of  the  assistance  made  available  under  this title  in  enabling  students  to  meet  challenging  academic achievement standards.
 
@@ -12505,7 +12509,7 @@ and recent college or university graduates with records of academic  distinction
 
 ''(11)  Encouraging and supporting the training of teachers and administrators to effectively integrate technology into curricula and instruction, including training to improve the ability to  collect,  manage,  and  analyze  data  to  improve  teaching, decisionmaking, school improvement efforts, and accountability.
 
-''(12)  Developing,  or  assisting  local  educational  agencies in developing, merit-based performance systems, and strategies that  provide  differential  and  bonus  pay  for  teachers  in  highneed  academic  subjects  such  as  reading,  mathematics,  and science and teachers in high-poverty schools and districts.
+''(12)  Developing,  or  assisting  local  educational  agencies in developing, merit-based performance systems, and strategies that  provide  differential  and  bonus  pay  for  teachers  in  high-need  academic  subjects  such  as  reading,  mathematics,  and science and teachers in high-poverty schools and districts.
 
 PO 00110
 
@@ -12843,7 +12847,7 @@ especially  parents  of  limited  English  proficient  and immigrant children; a
 
 ''(B)  induction and support for teachers and principals during  their  first  3  years  of  employment  as  teachers  or principals, respectively;
 
-''(C) incentives, including financial incentives, to retain teachers  who  have  a  record  of  success  in  helping  lowachieving  students  improve  their  academic  achievement; or
+''(C) incentives, including financial incentives, to retain teachers  who  have  a  record  of  success  in  helping  low-achieving  students  improve  their  academic  achievement; or
 
 ''(D)  incentives,  including financial incentives, to principals who  have  a record of  improving  the  academic achievement of all students, but particularly students from economically  disadvantaged  families,  students  from  racial and ethnic minority groups, and students with disabilities. ''(5) Carrying out programs and activities that are designed
 
@@ -13167,7 +13171,7 @@ VerDate 11-MAY-2000
 
 ''(A)  GRANTS TO PARTNERSHIPS.-The Secretary is authorized  to  carry  out  the  purpose  of  this  subsection  by awarding  grants,  on  a  competitive  basis,  to  partnerships consisting of-
 
-''(i)(I)  one  or  more institutions of higher education that  provide  professional  development  for  early  childhood  educators  who  work  with  children  from  lowincome families in high-need communities; or
+''(i)(I)  one  or  more institutions of higher education that  provide  professional  development  for  early  childhood  educators  who  work  with  children  from  low-income families in high-need communities; or
 
 ''(II) another public or private entity that provides such professional development;
 
@@ -13707,7 +13711,9 @@ Jkt 099139
 
 standards  for  mathematics  and  science  and  to  select appropriate curricula; and
 
-''(iii)  train  teachers  to  use  curricula  that  are''(I) based on scientific research;
+''(iii)  train  teachers  to  use  curricula  that  are-
+
+''(I) based on scientific research;
 
 ''(II)  aligned  with  challenging  State  academic content standards; and
 
@@ -13849,7 +13855,7 @@ Jkt 099139
 
 ''(2)  MEMBER OF THE ARMED FORCES.-The  term  'member of  the  Armed  Forces'  includes  a  former  member  of  the  Armed Forces.
 
-''(3)  PROGRAM.-The  term  'Program'  means  the  Troops-toTeachers Program authorized by this chapter.
+''(3)  PROGRAM.-The  term  'Program'  means  the  Troops-to-Teachers Program authorized by this chapter.
 
 ''(4)  RESERVE COMPONENT.-The  term  'reserve  component' means-
 
@@ -13877,7 +13883,7 @@ Jkt 099139
 
 ###### ''SEC. 2302. AUTHORIZATION OF TROOPS-TO-TEACHERS PROGRAM.
 
-''(a)  PURPOSE.-The  purpose  of  this  section  is  to  authorize  a mechanism  for  the  funding  and  administration  of  the  Troops-toTeachers Program, which was originally established by the Troopsto-Teachers Program Act of 1999 (title XVII of the National Defense Authorization  Act  for  Fiscal  Year  2000)  (20  U.S.C.  9301  et  seq.).
+''(a)  PURPOSE.-The  purpose  of  this  section  is  to  authorize  a mechanism  for  the  funding  and  administration  of  the  Troops-to-Teachers Program, which was originally established by the Troops-to-Teachers Program Act of 1999 (title XVII of the National Defense Authorization  Act  for  Fiscal  Year  2000)  (20  U.S.C.  9301  et  seq.).
 
 ''(b)  PROGRAM AUTHORIZED.-The  Secretary  may  carry  out  a program (to be known as the 'Troops-to-Teachers Program')-
 
@@ -14001,11 +14007,11 @@ Jkt 099139
 
 ''(2) EDUCATIONAL BACKGROUND.-
 
-''(A)  ELEMENTARY OR SECONDARY SCHOOL TEACHER.If  a  member  of  the  Armed  Forces  described  in  paragraph (1),  (2),  or  (3)  of  subsection  (a)  is  applying  for  assistance for placement as an elementary school or secondary school teacher,  the  Secretary  shall  require  the  member  to  have received  a  baccalaureate  or  advanced  degree  from  an accredited institution of higher education.
+''(A)  ELEMENTARY OR SECONDARY SCHOOL TEACHER.-If  a  member  of  the  Armed  Forces  described  in  paragraph (1),  (2),  or  (3)  of  subsection  (a)  is  applying  for  assistance for placement as an elementary school or secondary school teacher,  the  Secretary  shall  require  the  member  to  have received  a  baccalaureate  or  advanced  degree  from  an accredited institution of higher education.
 
 ''(B) VOCATIONAL OR TECHNICAL TEACHER.-If a member  of  the  Armed  Forces  described  in  paragraph  (1), (2),  or  (3)  of  subsection  (a)  is  applying  for  assistance  for placement  as  a  vocational  or  technical  teacher,  the  Secretary shall require the member-
 
-ave  received  the  equivalent  of  1  year  of  college from an accredited institution of higher education and have 6 or more years of military experience in a vocational or technical field; or
+''(i)  to  have  received  the  equivalent  of  1  year  of  college from an accredited institution of higher education and have 6 or more years of military experience in a vocational or technical field; or
 
 ''(ii) to otherwise meet the certification or licensing requirements  for  a  vocational  or  technical  teacher  in the  State  in  which  the  member  seeks  assistance  for placement under the Program.
 
@@ -14095,7 +14101,7 @@ Jkt 099139
 
 ''(2) WAIVER.-The Secretary may waive the 3-year commitment  described  in  paragraph  (1)(B)  for  a  participant  if  the Secretary  determines  such  waiver  to  be  appropriate.  If  the Secretary  provides  the  waiver,  the  participant  shall  not  be considered  to  be  in  violation  of  the  agreement  and  shall  not be  required  to  provide  reimbursement  under  subsection  (f), for failure to meet the 3-year commitment.
 
-''(b)  VIOLATION OF PARTICIPATION AGREEMENT;  EXCEPTIONS.A  participant  in  the  Program  shall  not  be  considered  to  be  in violation  of  the  participation  agreement  entered  into  under  subsection (a) during any period in which the participant-
+''(b)  VIOLATION OF PARTICIPATION AGREEMENT;  EXCEPTIONS.-A  participant  in  the  Program  shall  not  be  considered  to  be  in violation  of  the  participation  agreement  entered  into  under  subsection (a) during any period in which the participant-
 
 ''(1)  is  pursuing  a  full-time  course  of  study  related  to  the field of teaching at an institution of higher education;
 
@@ -14223,7 +14229,7 @@ of  a  stipend  or  bonus  under  this  section  shall  not  reduce  or  otherwi
 
 ''(a) PURPOSE.-The purpose of this section is to provide funding to  develop,  implement,  and  demonstrate  teacher  certification  programs.
 
-''(b)  DEVELOPMENT,  IMPLEMENTATION AND DEMONSTRATION.The  Secretary  may  enter  into  a  memorandum  of  agreement  with a  State  educational  agency,  an  institution  of  higher  education, or a consortia of State educational agencies or institutions of higher education,  to  develop,  implement,  and  demonstrate  teacher  certification  programs  for  members  of  the  Armed  Forces  described  in section  2303(a)(1)(B)  for  the  purpose  of  assisting  such  members to consider and prepare for a career as a highly qualified elementary school teacher, secondary school teacher, or vocational or technical teacher upon retirement from the Armed Forces.
+''(b)  DEVELOPMENT,  IMPLEMENTATION AND DEMONSTRATION.-The  Secretary  may  enter  into  a  memorandum  of  agreement  with a  State  educational  agency,  an  institution  of  higher  education, or a consortia of State educational agencies or institutions of higher education,  to  develop,  implement,  and  demonstrate  teacher  certification  programs  for  members  of  the  Armed  Forces  described  in section  2303(a)(1)(B)  for  the  purpose  of  assisting  such  members to consider and prepare for a career as a highly qualified elementary school teacher, secondary school teacher, or vocational or technical teacher upon retirement from the Armed Forces.
 
 ''(c)  PROGRAM ELEMENTS.-A  teacher  certification  program under subsection (b) shall-
 
@@ -14417,7 +14423,7 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-''(c)  PRIORITY.-In  making  such  a  grant,  the  Secretary  shall give  priority  to  a  partnership  or  consortium  that  includes  a  highneed State educational agency or local educational agency.
+''(c)  PRIORITY.-In  making  such  a  grant,  the  Secretary  shall give  priority  to  a  partnership  or  consortium  that  includes  a  high-need State educational agency or local educational agency.
 
 ''(d) APPLICATION.-
 
@@ -14433,7 +14439,7 @@ VerDate 11-MAY-2000
 
 ''(ii)  demonstrate  that  the  members  are  eligible to achieve the objectives of this section;
 
-''(C) describe how the applicant will use funds received under  this  section  to  develop  a  teacher  corps  or  other program  to  recruit  and  retain  highly  qualified  midcareer professionals  (which  may  include  highly  qualified  paraprofessionals),  recent  college  graduates,  and  recent  graduate school graduates, as highly qualified teachers in highneed schools operated by high-need local educational agencies;
+''(C) describe how the applicant will use funds received under  this  section  to  develop  a  teacher  corps  or  other program  to  recruit  and  retain  highly  qualified  midcareer professionals  (which  may  include  highly  qualified  paraprofessionals),  recent  college  graduates,  and  recent  graduate school graduates, as highly qualified teachers in high-need schools operated by high-need local educational agencies;
 
 ''(D)  explain  how  the  program  carried  out  under  the grant will meet the relevant State laws (including regulations) related to teacher certification or licensing and facilitate the certification or licensing of such teachers;
 
@@ -14441,7 +14447,7 @@ VerDate 11-MAY-2000
 
 ''(F)  describe  how  the  applicant  will  collaborate,  as needed,  with  other  institutions,  agencies,  or  organizations to recruit (particularly through activities that have proven effective in retaining highly qualified teachers), train, place, support,  and  provide  teacher  induction  programs  to  program participants  under  this  chapter,  including  providing evidence  of  the  commitment  of  the  institutions,  agencies, or organizations to the applicant's programs.
 
-''(e)  DURATION OF GRANTS.-The  Secretary  may  make  grants under  this  section  for  periods  of  5  years.  At  the  end  of  the  5year  period  for  such  a  grant,  the  grant  recipient  may  apply  for an additional grant under this section.
+''(e)  DURATION OF GRANTS.-The  Secretary  may  make  grants under  this  section  for  periods  of  5  years.  At  the  end  of  the  5-year  period  for  such  a  grant,  the  grant  recipient  may  apply  for an additional grant under this section.
 
 ''(f)  EQUITABLE DISTRIBUTION.-To  the  extent  practicable,  the Secretary  shall  ensure  an  equitable  geographic  distribution  of grants  under  this  section  among  the  regions  of  the  United  States.
 
@@ -15267,11 +15273,11 @@ expel,  or  suspend  a  student  or  maintain  order  or  control  in the classr
 
 ''(2)  A  State  law  that  makes  the  school  or  governmental entity  liable  for  the  acts  or  omissions  of  its  teachers  to  the same extent as an employer is liable for the acts or omissions of its employees.
 
-ate  law  that  makes  a  limitation  of  liability  inapplicable if  the  civil  action  was  brought  by  an  officer  of  a  State  or local government pursuant to State or local law.
+''(3)  A  State  law  that  makes  a  limitation  of  liability  inapplicable if  the  civil  action  was  brought  by  an  officer  of  a  State  or local government pursuant to State or local law.
 
 ''(c) LIMITATION ON PUNITIVE DAMAGES BASED ON THE ACTIONS OF TEACHERS.-
 
-''(1) GENERAL RULE.-Punitive damages may not be awarded against a teacher in an action brought for harm based on  the  act  or  omission  of  a  teacher  acting  within  the  scope of  the  teacher's  employment  or  responsibilities  to  a  school  or governmental  entityunless  the  claimant  establishes  by  clear and convincing evidence that the harm was proximately caused by  an  act  or  omission  of  such  teacher  that  constitutes  willful or  criminal  misconduct,  or  a  conscious,  flagrant  indifference to the rights or safety of the individual harmed.
+''(1) GENERAL RULE.-Punitive damages may not be awarded against a teacher in an action brought for harm based on  the  act  or  omission  of  a  teacher  acting  within  the  scope of  the  teacher's  employment  or  responsibilities  to  a  school  or governmental  entity unless  the  claimant  establishes  by  clear and convincing evidence that the harm was proximately caused by  an  act  or  omission  of  such  teacher  that  constitutes  willful or  criminal  misconduct,  or  a  conscious,  flagrant  indifference to the rights or safety of the individual harmed.
 
 ''(2) CONSTRUCTION.-Paragraph (1) does not create a cause of action for punitive damages and does not preempt or supersede  any  Federal  or  State  law  to  the  extent  that  such  law would further limit the award of punitive damages.
 
@@ -15393,7 +15399,7 @@ on  or  after  the  effective  date  of  the  No  Child  Left  Behind  Act of  2
 
 ''(3) To  assist States  and  localities in the  acquisition, development,  interconnection,  implementation,  improvement, and  maintenance  of  an  effective  educational  technology  infrastructure  in  a  manner  that  expands  access  to  technology  for students (particularly for disadvantaged students) and teachers.
 
-''(4)  To  promote  initiatives  that  provide  school  teachers, principals,  and  administrators  with  the  capacity  to  integrate technology  effectively  into  curricula  and  instruction  that  are aligned  with  challenging  State  academic  content  and  student academic achievement standards, through such means as highquality professional development programs.
+''(4)  To  promote  initiatives  that  provide  school  teachers, principals,  and  administrators  with  the  capacity  to  integrate technology  effectively  into  curricula  and  instruction  that  are aligned  with  challenging  State  academic  content  and  student academic achievement standards, through such means as high-quality professional development programs.
 
 ''(5)  To  enhance  the  ongoing  professional  development  of teachers,  principals,  and  administrators  by  providing  constant access to training and  updated  research  in  teaching  and learning through electronic means.
 
@@ -15775,7 +15781,7 @@ VerDate 11-MAY-2000
 
 ###### ''SEC. 2414. LOCAL APPLICATIONS.
 
-''(a)  IN GENERAL.-To  be  eligible  to  receive  a  subgrant  from a  State  educational agency under this subpart, a local educational agency or eligible local entity shall submit to the State educational agency  an  application  containing  a  new  or  updated  local  longrange strategic educational technology plan that is consistent with the objectives of the statewide educational technology plan described in  section  2413(a),  and  such  other  information  as  the  State  educational  agency  may  reasonably  require,  at  such  time  and  in  such manner as the State educational agency may require.
+''(a)  IN GENERAL.-To  be  eligible  to  receive  a  subgrant  from a  State  educational agency under this subpart, a local educational agency or eligible local entity shall submit to the State educational agency  an  application  containing  a  new  or  updated  local  long-range strategic educational technology plan that is consistent with the objectives of the statewide educational technology plan described in  section  2413(a),  and  such  other  information  as  the  State  educational  agency  may  reasonably  require,  at  such  time  and  in  such manner as the State educational agency may require.
 
 ''(b)  CONTENTS.-The  application  shall  include  each  of  the  following:
 
@@ -17667,7 +17673,7 @@ VerDate 11-MAY-2000
 
 Jkt 099139
 
-''(1) to develop and enhance their capacity to provide highquality  instruction  through  language  instruction  educational programs or special alternative instruction programs to limited English proficient children; and
+''(1) to develop and enhance their capacity to provide high-quality  instruction  through  language  instruction  educational programs or special alternative instruction programs to limited English proficient children; and
 
 ''(2) to help such children-
 
@@ -18287,7 +18293,7 @@ are meeting the challenging State academic content and student academic achievem
 
 ''(4)  include  information  on  the  extent  that  professional development  activities  carried  out  through  the  program  have resulted in improved classroom practices and improved student academic achievement;
 
-lude a description of how the activities carried out through the  program  are  coordinated  and  integrated  with  the  other Federal,  State,  or  local  programs  serving  limited  English  proficient children; and
+''(5) include a description of how the activities carried out through the  program  are  coordinated  and  integrated  with  the  other Federal,  State,  or  local  programs  serving  limited  English  proficient children; and
 
 ''(6)  include  such  other  information  as  the  Secretary  may require.
 
@@ -18777,7 +18783,7 @@ and opportunity for a hearing to the affected State educational agency, that suc
 
 ''(1)  IN GENERAL.-Notwithstanding any other provision of this  subpart,  if  the  amount  appropriated  to  carry  out  this subpart  exceeds  $50,000,000  for  a  fiscal  year,  a  State  educational agency may reserve not more than 20 percent of such agency's  payment  under  this  subpart  for  such  year  to  award grants,  on  a  competitive  basis,  to  local  educational  agencies within the State as follows:
 
-''(A) AGENCIES WITH IMMIGRANT CHILDREN AND YOUTH.-At least  1 /2 of the funds reserved under this paragraph shall be made available to eligible local educational agencies (as described in subsection (b)(2)) within the State with  the  highest  numbers  and  percentages  of  immigrant children and youth.
+''(A) AGENCIES WITH IMMIGRANT CHILDREN AND YOUTH.-At least  1⁄2 of the funds reserved under this paragraph shall be made available to eligible local educational agencies (as described in subsection (b)(2)) within the State with  the  highest  numbers  and  percentages  of  immigrant children and youth.
 
 ''(B)  AGENCIES WITH A SUDDEN INFLUX OF CHILDREN AND YOUTH.-Funds  reserved  under  this  paragraph  and not made available under subparagraph (A) may be distributed  to  local  educational  agencies  within  the  State  that are  experiencing  a  sudden  influx  of  immigrant  children and youth and that are otherwise not eligible for assistance under this subpart.
 
@@ -19125,7 +19131,7 @@ VerDate 11-MAY-2000
 
 designed  to  enable  all  participating  children  to  become proficient in English and a second language.
 
-''(9)  NATIVE AMERICAN AND NATIVE AMERICAN LANGUAGE.The  terms  'Native  American'  and  'Native  American  language' shall  have  the  meanings  given  such  terms  in  section  103  of the Native American Languages Act.
+''(9)  NATIVE AMERICAN AND NATIVE AMERICAN LANGUAGE.-The  terms  'Native  American'  and  'Native  American  language' shall  have  the  meanings  given  such  terms  in  section  103  of the Native American Languages Act.
 
 ''(10) NATIVE HAWAIIAN OR NATIVE AMERICAN PACIFIC ISLANDER NATIVE LANGUAGE EDUCATIONAL ORGANIZATION.-The term  'Native  Hawaiian  or  Native  American  Pacific  Islander native  language  educational  organization'  means  a  nonprofit organization with-
 
@@ -19325,7 +19331,7 @@ Publication.
 
 20 USC 7014.
 
-20 USC 7101. Safe and DrugFree Schools and Communities Act. Grants.
+20 USC 7101. Safe and Drug-Free Schools and Communities Act. Grants.
 
 20 USC 7102.
 
@@ -19361,7 +19367,7 @@ Title IV (20 U.S.C. 7101 et seq.) is amended to read as follows:
 
 ''(1)  States  for  grants  to  local  educational  agencies  and consortia  of  such  agencies  to  establish,  operate,  and  improve local  programs  of  school  drug  and  violence  prevention  and early intervention;
 
-''(2)  States  for  grants  to,  and  contracts  with,  communitybased  organizations  and  public  and  private  entities  for  programs of drug and violence prevention and early intervention, including  community-wide  drug  and  violence  prevention  planning and organizing activities;
+''(2)  States  for  grants  to,  and  contracts  with,  community-based  organizations  and  public  and  private  entities  for  programs of drug and violence prevention and early intervention, including  community-wide  drug  and  violence  prevention  planning and organizing activities;
 
 ''(3)  States  for  development,  training,  technical  assistance, and coordination activities; and
 
@@ -19477,7 +19483,7 @@ Jkt 099139
 
 ''(c)  LIMITATION.-Amounts appropriated under section 4003(2) for  a  fiscal  year  may  not  be  increased  above  the  amounts  appropriated  under  such  section  for  the  previous  fiscal  year  unless  the amounts  appropriated  under  section  4003(1)  for  the  fiscal  year involved  are  at  least  10  percent  greater  that  the  amounts  appropriated  under  such  section  4003(1)  for  the  previous  fiscal  year.
 
-###### ''SEC.  4112.  RESERVATION  OF  STATE  FUNDS  FOR  SAFE  AND  DRUGFREE SCHOOLS.
+###### ''SEC.  4112.  RESERVATION  OF  STATE  FUNDS  FOR  SAFE  AND  DRUG-FREE SCHOOLS.
 
 ''(a)  STATE RESERVATION FOR THE CHIEF EXECUTIVE OFFICER OF A STATE.-
 
@@ -19529,7 +19535,7 @@ drug and violence prevention that includes providing and incorporating  mental  
 
 ''(B) dissemination of information  about  drug  and violence prevention; and
 
-''(C)  development  and  implementation  of  communitywide drug and violence prevention planning and organizing.
+''(C)  development  and  implementation  of  community-wide drug and violence prevention planning and organizing.
 
 ''(6)  ADMINISTRATIVE COSTS.-The chief executive officer of a  State  may  use  not  more  than  3  percent  of  the  amount described in paragraph (1) for the administrative costs incurred in  carrying  out  the  duties  of  such  officer  under  this  section. ''(b) IN STATE DISTRIBUTION.-
 
@@ -19755,7 +19761,7 @@ VerDate 11-MAY-2000
 
 ''(b) INTERIM APPLICATION.-
 
-''(1)  AUTHORITY.-Notwithstanding  any  other  provision  of this  section,  a  State  may  submit  for  fiscal  year  2002  a  1year  interim  application  and  plan  for  the  use  of  funds  under this  subpart  that  is  consistent  with  the  requirements  of  this section  and  contains  such  information  as  the  Secretary  may specify in regulations.
+''(1)  AUTHORITY.-Notwithstanding  any  other  provision  of this  section,  a  State  may  submit  for  fiscal  year  2002  a  1-year  interim  application  and  plan  for  the  use  of  funds  under this  subpart  that  is  consistent  with  the  requirements  of  this section  and  contains  such  information  as  the  Secretary  may specify in regulations.
 
 ''(2)  PURPOSE.-The  purpose  of  such  interim  application and  plan  shall  be  to  afford  the  State  the  opportunity  to  fully develop and review such State's application and comprehensive plan otherwise required by this section.
 
@@ -19873,7 +19879,7 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-submit an application to the State educational agency in accordance with  subsection  (d).  Such  an  application  shall  be  amended,  as necessary,  to  reflect  changesin  the  activities  and  programs  of  the local educational agency.
+submit an application to the State educational agency in accordance with  subsection  (d).  Such  an  application  shall  be  amended,  as necessary,  to  reflect  changes in  the  activities  and  programs  of  the local educational agency.
 
 ''(c) DEVELOPMENT.-
 
@@ -19949,7 +19955,7 @@ Jkt 099139
 
 ''(6)  an  assurance  that  drug  and  violence  prevention  programs  supported  under  this  subpart  convey  a  clear  and  consistent  message  that  acts  of  violence  and  the  illegal  use  of drugs are wrong and harmful;
 
-''(7)  an  assurance  that  the  applicant  has,  or  the  schools to  be  served  have,  a  plan  for  keeping  schools  safe  and  drugfree that includes-
+''(7)  an  assurance  that  the  applicant  has,  or  the  schools to  be  served  have,  a  plan  for  keeping  schools  safe  and  drug-free that includes-
 
 ''(A) appropriate and effective school discipline policies that  prohibit  disorderly  conduct,  the  illegal  possession  of weapons, and the illegal use, possession, distribution, and sale of tobacco, alcohol, and other drugs by students;
 
@@ -20093,7 +20099,7 @@ of the current conditions and consequences regarding violence  and  illegal  dru
 
 ''(b) LOCAL EDUCATIONAL AGENCY ACTIVITIES.-
 
-''(1)  PROGRAM REQUIREMENTS.-A local educational agency shall  use  funds  made available under section 4114 to develop, implement,  and  evaluate  comprehensive  programs  and  activities,  which  are  coordinated  with  other  school  and  communitybased services and programs, that shall-
+''(1)  PROGRAM REQUIREMENTS.-A local educational agency shall  use  funds  made available under section 4114 to develop, implement,  and  evaluate  comprehensive  programs  and  activities,  which  are  coordinated  with  other  school  and  community-based services and programs, that shall-
 
 ''(A)  foster  a  safe  and  drug-free  learning  environment that supports academic achievement;
 
@@ -20261,11 +20267,11 @@ a student's locker for weapons or illegal drugs or drug paraphernalia, including
 
 education  programs,  as  a  component  of  drug  and violence  prevention  programs,  that  take  into  account the  views  of  parents  of  the  students  for  whom  the program  is  intended  and  such  students,  such  as  a program  described  in  subpart  3  of  part  D  of  title  V. ''(xviii) Establishing and maintaining a school safety hotline.
 
-''(xix)  Community  service,  including  community service  performed  by  expelled  students,  and  servicelearning projects.
+''(xix)  Community  service,  including  community service  performed  by  expelled  students,  and  service-learning projects.
 
 ''(xx)  Conducting  a  nationwide  background  check of  each  local  educational  agency  employee,  regardless of  when hired, and prospective employees for the purpose of determining whether the employee or prospective employee has been convicted of a crime that bears upon the employee's fitness-
 
-''(I)  to  be  responsible  for  the  safety  or  wellbeing of children;
+''(I)  to  be  responsible  for  the  safety  or  well-being of children;
 
 ''(II)  to  serve  in  the  particular  capacity  in which  the  employee  or  prospective  employee  is or will be employed; or
 
@@ -20519,7 +20525,7 @@ make  grants  to  local  educational  agencies  and  community-based organizatio
 
 ''(D) professional training and development for teachers and  administrators  on  the  causes,  effects,  and  resolutions of hate crimes or hate-based conflicts.
 
-''(2) APPLICATION.-In order to be eligible to receive a grant under this section for any fiscal year, a local educational agency, or a local educational agency in conjunction with a communitybased organization, shall submit an application to the Secretary in such form and containing such information as the Secretary may reasonably require.
+''(2) APPLICATION.-In order to be eligible to receive a grant under this section for any fiscal year, a local educational agency, or a local educational agency in conjunction with a community-based organization, shall submit an application to the Secretary in such form and containing such information as the Secretary may reasonably require.
 
 ''(3) REQUIREMENTS.-Each application under paragraph (2) shall include-
 
@@ -20655,7 +20661,7 @@ VerDate 11-MAY-2000
 
 consultation with the Advisory Committee, shall carry out scientifically based research programs to strengthen the accountability  and  effectiveness  of  the  State,  chief  executive  officer's, and national programs under this part.
 
-''(2)  GRANTS,  CONTRACTS OR COOPERATIVE AGREEMENTS.The Secretary shall carry out paragraph (1) directly or through grants,  contracts,  or  cooperative  agreements  with  public  and private  entities  and  individuals  or  through  agreements  with other Federal agencies.
+''(2)  GRANTS,  CONTRACTS OR COOPERATIVE AGREEMENTS.-The Secretary shall carry out paragraph (1) directly or through grants,  contracts,  or  cooperative  agreements  with  public  and private  entities  and  individuals  or  through  agreements  with other Federal agencies.
 
 ''(3)  COORDINATION.-The  Secretary  shall  coordinate  programs under this section with other appropriate Federal activities.
 
@@ -20735,7 +20741,7 @@ crime  problems  at  their  schools,  and  administering  the  safe  and drug-fr
 
 ''(b)  ALLOCATION.-From  the  amount  described  in  subsection (a), the Secretary shall allocate among the States-
 
-''(1)  one-half  according  to  the  ratio  between  the  schoolaged  population  of  each  State  and  the  school-aged  population of all the States; and
+''(1)  one-half  according  to  the  ratio  between  the  school-aged  population  of  each  State  and  the  school-aged  population of all the States; and
 
 ''(2)  one-half  according  to  the  ratio  between  the  amount each  State  received  under  section  1124A  for  the  preceding year  and  the  sum  of  such  amounts  received  by  all  the  States.
 
@@ -20787,9 +20793,9 @@ General  shall  jointly  appoint  a  Director  of  the  Center  to  oversee the 
 
 ''(b)  DUTIES.-The  Center  shall  carry  out  emergency  response, anonymous student hotline, consultation, and information and outreach  activities  with  respect  to  elementary  and  secondary  school safety, including the following:
 
-''(1)  EMERGENCY RESPONSE.-The  staff  of  the  Center,  and such  temporary  contract  employees  as  the  Director  of  the Center shall determine necessary, shall offer emergency assistance  to  local  communities  to  respond  to  school  safety  crises. Such  assistance  shall  include  counseling  for  victims  and  the community,  assistance  to  law  enforcement  to  address  shortterm  security  concerns,  and  advice  on  how  to  enhance  school safety, prevent future incidents, and respond to future incidents.
+''(1)  EMERGENCY RESPONSE.-The  staff  of  the  Center,  and such  temporary  contract  employees  as  the  Director  of  the Center shall determine necessary, shall offer emergency assistance  to  local  communities  to  respond  to  school  safety  crises. Such  assistance  shall  include  counseling  for  victims  and  the community,  assistance  to  law  enforcement  to  address  short-term  security  concerns,  and  advice  on  how  to  enhance  school safety, prevent future incidents, and respond to future incidents.
 
-''(2)  ANONYMOUS STUDENT HOTLINE.-The  Center  shall establish  a  toll-free  telephone  number  for  students  to  report criminal  activity,  threats  of  criminal  activity,  and  other  highrisk behaviors such as substance abuse, gang or cult affiliation, depression, or other warning signs of potentially violent behavior.  The  Center  shall  relay  the  reports,  without  attribution,  to  local  law  enforcement  or  appropriate  school  hotlines. The Director of the Center shall work with the Attorney General to establish guidelines for Center staff to work with law enforcement around the Nation to relay information reported through the hotline.
+''(2)  ANONYMOUS STUDENT HOTLINE.-The  Center  shall establish  a  toll-free  telephone  number  for  students  to  report criminal  activity,  threats  of  criminal  activity,  and  other  high-risk behaviors such as substance abuse, gang or cult affiliation, depression, or other warning signs of potentially violent behavior.  The  Center  shall  relay  the  reports,  without  attribution,  to  local  law  enforcement  or  appropriate  school  hotlines. The Director of the Center shall work with the Attorney General to establish guidelines for Center staff to work with law enforcement around the Nation to relay information reported through the hotline.
 
 ''(3)  CONSULTATION.-The Center shall establish a toll-free number for the public to contact staff of the Center for consultation  regarding  school  safety.  The  Director  of  the  Center  shall hire  administrative  staff  and  individuals  with  expertise  in enhancing school safety, including individuals with backgrounds in  counseling  and  psychology,  education,  law  enforcement  and  criminal  justice,  and  community  development  to assist in the consultation.
 
@@ -21143,11 +21149,11 @@ VerDate 11-MAY-2000
 
 ###### ''SEC. 4141. GUN-FREE REQUIREMENTS.
 
-''(a)  SHORT TITLE.-This  subpart  may  be  cited  as  the  'GunFree Schools Act'.
+''(a)  SHORT TITLE.-This  subpart  may  be  cited  as  the  'Gun-Free Schools Act'.
 
 ''(b) REQUIREMENTS.-
 
-''(1)  IN GENERAL.-Each  State  receiving  Federal  funds under  any  title  of  this  Act  shall  have  in  effect  a  State  law requiring  local  educational  agencies  to  expel  from  school  for a  period  of  not  less  than  1  year  a  student  who  is  determined to  have  brought  a  firearm  to  a  school,  or  to  have  possessed a firearm at a school, under the jurisdiction of local educational agencies  in  that  State,  except  that  such  State  law  shall  allow the  chief  administering  officer  of  a  local  educational  agency to  modify such expulsion requirement for a student on a caseby-case basis if such modification is in writing.
+''(1)  IN GENERAL.-Each  State  receiving  Federal  funds under  any  title  of  this  Act  shall  have  in  effect  a  State  law requiring  local  educational  agencies  to  expel  from  school  for a  period  of  not  less  than  1  year  a  student  who  is  determined to  have  brought  a  firearm  to  a  school,  or  to  have  possessed a firearm at a school, under the jurisdiction of local educational agencies  in  that  State,  except  that  such  State  law  shall  allow the  chief  administering  officer  of  a  local  educational  agency to  modify such expulsion requirement for a student on a case-by-case basis if such modification is in writing.
 
 ''(2) CONSTRUCTION.-Nothing in this subpart shall be construed  to  prevent  a  State  from  allowing  a  local  educational agency that has expelled a student from such a student's regular school setting from providing educational services to such student in an alternative setting.
 
@@ -21265,7 +21271,7 @@ VerDate 11-MAY-2000
 
 ''(8)  SCHOOL-AGED POPULATION.-The term 'school-aged population'  means  the  population  aged  five  through  17,  as determined  by  the  Secretary  on  the  basis  of  the  most  recent satisfactory data available from the Department of Commerce.
 
-''(9)  SCHOOL BASED MENTAL HEALTH SERVICES PROVIDER.The term 'school based mental health services provider' includes a  State  licensed  or  State  certified  school  counselor,  school psychologist,  school  social  worker,  or  other  State  licensed  or certified  mental  health  professional  qualified  under  State  law to provide such services to children and adolescents.
+''(9)  SCHOOL BASED MENTAL HEALTH SERVICES PROVIDER.-The term 'school based mental health services provider' includes a  State  licensed  or  State  certified  school  counselor,  school psychologist,  school  social  worker,  or  other  State  licensed  or certified  mental  health  professional  qualified  under  State  law to provide such services to children and adolescents.
 
 ''(10)  SCHOOL PERSONNEL.-The  term  'school  personnel' includes teachers, principals, administrators, counselors, social workers,  psychologists,  nurses,  librarians,  and  other  support staff  who  are  employed  by  a  school  or  who  perform  services for the school on a contractual basis.
 
@@ -21387,7 +21393,7 @@ Jkt 099139
 
 ''(1) COMMUNITY LEARNING CENTER.-The term 'community learning center' means an entity that-
 
-''(A)  assists  students  in  meeting  State  and  local  academic  achievement  standards  in  core  academic  subjects, such  as  reading  and  mathematics,  by  providing  the  students with opportunities for academic enrichment activities and  a  broad  array  of  other  activities  (such  as  drug  and violence prevention, counseling, art, music, recreation, technology,  and  character  education  programs)  during  nonschool hours or periods when school is not in session (such as  before  and  after  school  or  during  summer  recess)  that reinforce  and  complement  the  regular  academic  programs of the schools attended by the students served; and
+''(A)  assists  students  in  meeting  State  and  local  academic  achievement  standards  in  core  academic  subjects, such  as  reading  and  mathematics,  by  providing  the  students with opportunities for academic enrichment activities and  a  broad  array  of  other  activities  (such  as  drug  and violence prevention, counseling, art, music, recreation, technology,  and  character  education  programs)  during  non-school hours or periods when school is not in session (such as  before  and  after  school  or  during  summer  recess)  that reinforce  and  complement  the  regular  academic  programs of the schools attended by the students served; and
 
 ''(B)  offers  families  of  students  served  by  such  center opportunities  for  literacy  and  related  educational  development.
 
@@ -21453,7 +21459,7 @@ no  State  shall  receive  less  than  an  amount  equal  to  one-half of  1  pe
 
 ''(B)  establishing  and  implementing  a  peer  review process  for  grant  applications  described  in  section  4204(b) (including consultation with the Governor and other State agencies  responsible  for  administering  youth  development programs and adult learning activities); and
 
-supervising  the  awarding  of  funds  to  eligible  entities (in consultation with the Governor and other State agencies responsible for administering youth development programs and adult learning activities).
+''(C) supervising  the  awarding  of  funds  to  eligible  entities (in consultation with the Governor and other State agencies responsible for administering youth development programs and adult learning activities).
 
 ''(3)  STATE ACTIVITIES.-A  State  educational  agency  may use  not  more  than  3  percent  of  the  amount  made  available to  the  State  under  subsection  (b)  for  the  following  activities:
 
@@ -21513,7 +21519,9 @@ VerDate 11-MAY-2000
 
 Jkt 099139
 
-(A);
+''(ii)  schools  that  serve  a  high  percentage  of  students from low-income families; and
+
+''(B) the families of students described in subparagraph (A);
 
 ''(4)  describes  the  procedures  and  criteria  the  State  educational agency will use for reviewing applications and awarding funds to eligible entities on a competitive basis, which shall  include  procedures  and  criteria  that  take  into  consideration the likelihood that a proposed community learning center will help participating students meet local content and student academic achievement standards;
 
@@ -21556,10 +21564,6 @@ E:\PUBLAW\PUBL110.107
 APPS24
 
 PsN: PUBL110
-
-''(ii)  schools  that  serve  a  high  percentage  of  students from low-income families; and
-
-''(B) the families of students described in subparagraph VerDate 11-MAY-2000
 
 [[END OF PAGE 344]]
 
@@ -21659,7 +21663,7 @@ Jkt 099139
 
 ''(F) an assurance that the program will primarily target  students  who  attend  schools  eligible  for  schoolwide programs under section 1114 and the families of such students;
 
-''(G)  an  assurance  that  funds  under  this  part  will  be used  to  increase  the  level  of  State,  local,  and  other  nonFederal  funds  that  would,  in  the  absence  of  funds  under this  part,  be  made  available  for  programs  and  activities authorized  under  this  part,  and  in  no  case  supplant  Federal, State, local, or non-Federal funds;
+''(G)  an  assurance  that  funds  under  this  part  will  be used  to  increase  the  level  of  State,  local,  and  other  non-Federal  funds  that  would,  in  the  absence  of  funds  under this  part,  be  made  available  for  programs  and  activities authorized  under  this  part,  and  in  no  case  supplant  Federal, State, local, or non-Federal funds;
 
 ''(H)  a  description  of  the  partnership  between  a  local educational  agency,  a  community-based  organization,  and another public entity or private entity, if appropriate;
 
@@ -21775,15 +21779,7 @@ Jkt 099139
 
 ###### ''SEC. 4205. LOCAL ACTIVITIES.
 
-''(a) AUTHORIZED ACTIVITIES.-Each eligible entity that receives
-
-an  award  under  this  part  may  use  the  award  funds  to  carry  out
-
-a broad array of before and after school activities (including during
-
-summer  recess  periods)  that  advance  student  academic  achieve-
-
-ment, including-
+''(a) AUTHORIZED ACTIVITIES.-Each eligible entity that receives an  award  under  this  part  may  use  the  award  funds  to  carry  out a broad array of before and after school activities (including during summer  recess  periods)  that  advance  student  academic achievement, including-
 
 ''(1) remedial education activities and academic enrichment learning  programs,  including  providing  additional  assistance to  students  to  allow  the  students  to  improve  their  academic achievement;
 
@@ -22008,7 +22004,7 @@ VerDate 11-MAY-2000
 
 ''(B) with respect to the violator, any good faith efforts to comply, the importance of achieving early and permanent compliance,  the  ability  to  pay  or  comply,  the  effect  of  the penalty  or  order  on  the  ability  to  continue  operation,  any prior  history  of  the  same  kind  of  violation,  the  degree of  culpability,  and  any  demonstration  of  willingness  to comply  with  the  prohibitions  of  this  section  in  a  timely manner; and
 
-C) such other matters as justice may require.
+''(C) such other matters as justice may require.
 
 ''(4)  MODIFICATION.-The  Secretary  may,  as  appropriate, compromise, modify, or remit, with or without conditions, any civil  penalty  or  administrative  compliance  order.  In  the  case of  a  civil  penalty,  the  amount,  as  finally  determined  by  the Secretary  or  agreed  upon  in  compromise,  may  be  deducted
 
@@ -22116,7 +22112,7 @@ VerDate 11-MAY-2000
 
 ###### ''SEC. 5111. ALLOTMENT TO STATES.
 
-''(a)  IN GENERAL.-From  the  sums  appropriated  to  carry  out this  part  for  each  fiscal  year  and  not  reserved  under  subsection (b),  the  Secretary  shall  allot,  and  make  available  in  accordance with  this  part,  to  each  State  educational  agency  an  amount  that bears  the  same  ratio  to  such  sums  as  the  school-age  population of the State bears to the school-age population of all States, except that  no  State  shall  receive  less  than  an  amount  equal  to  onehalf of 1 percent of such sums.
+''(a)  IN GENERAL.-From  the  sums  appropriated  to  carry  out this  part  for  each  fiscal  year  and  not  reserved  under  subsection (b),  the  Secretary  shall  allot,  and  make  available  in  accordance with  this  part,  to  each  State  educational  agency  an  amount  that bears  the  same  ratio  to  such  sums  as  the  school-age  population of the State bears to the school-age population of all States, except that  no  State  shall  receive  less  than  an  amount  equal  to  one-half of 1 percent of such sums.
 
 ''(b)  RESERVATION.-From  the  sums  appropriated  to  carry  out this part for each fiscal year, the Secretary shall reserve not more than  1  percent  for  payments  to  the  outlying  areas,  to  be  allotted in accordance with their respective needs for assistance under this part.
 
@@ -22228,7 +22224,7 @@ local  educational  agencies  based  on  the  factors  set  forth in subparagrap
 
 ''(2) ADDITIONAL FUNDS.-
 
-''(A) USE.-Additional funds resulting from higher perpupil  allocations  provided  to  a  local  educational  agency on  the  basis  of  adjusted  enrollments  of  children  described in  subsection  (a)(1)  may,  in  the  discretion  of  the  local educational agency, be allocated for expenditures to provide services for children enrolled in public schools and private nonprofit  schools  in  direct  proportion  to  the  number  of children described in subsection (a)(1) and enrolled in such schools  within  the  area  served  by  the  local  educational agency.
+''(A) USE.-Additional funds resulting from higher per-pupil  allocations  provided  to  a  local  educational  agency on  the  basis  of  adjusted  enrollments  of  children  described in  subsection  (a)(1)  may,  in  the  discretion  of  the  local educational agency, be allocated for expenditures to provide services for children enrolled in public schools and private nonprofit  schools  in  direct  proportion  to  the  number  of children described in subsection (a)(1) and enrolled in such schools  within  the  area  served  by  the  local  educational agency.
 
 ''(B)  ALLOCATION.-In  any  fiscal  year,  any  local  educational agency that elects to allocate such additional funds in the manner described in subparagraph (A) shall allocate all  additional  funds  to  schools  within  the  area  served  by the local educational agency in such manner.
 
@@ -22252,7 +22248,7 @@ local  educational  agencies  based  on  the  factors  set  forth in subparagrap
 
 ''(3)  Statewide  education  reform,  school  improvement  programs and technical assistance and direct grants to local educational  agencies,  which  assist  such  agencies  under  section 5131.
 
-''(4)  Support  for  the  design  and  implementation  of  highquality yearly student assessments.
+''(4)  Support  for  the  design  and  implementation  of  high-quality yearly student assessments.
 
 ''(5)  Support  for  implementation  of  challenging  State  and local academic achievement standards.
 
@@ -22436,7 +22432,7 @@ Deadline.
 
 ''(25) School safety programs, including programs to implement  the  policy  described  in  section  9507  and  which  may include payment of reasonable transportation costs and tuition costs for such students.
 
-''(26)  Programs  that  employ  research-based  cognitive  and perceptual  development  approaches  and  rely  on  a  diagnosticprescriptive  model  to  improve  students'  learning  of  academic content  at  the  preschool,  elementary,  and  secondary  levels.
+''(26)  Programs  that  employ  research-based  cognitive  and perceptual  development  approaches  and  rely  on  a  diagnostic-prescriptive  model  to  improve  students'  learning  of  academic content  at  the  preschool,  elementary,  and  secondary  levels.
 
 ''(27) Supplemental educational services, as defined in section 1116(e).
 
@@ -22546,7 +22542,7 @@ include,  at  a  minimum,  information  and  data  on  the  use of  funds, the t
 
 ''(D)  the  evaluation  will  be  submitted  to  the  State educational agency at the time and in the  manner requested by the State educational agency.
 
-''(9)  If  the  local  educational  agency seeks funds under section  5131(a)(23),  a  description  of  how  the  agency  will  comply with  the  guidelines  issued  by  the  Secretary  regarding  samegender schools and classrooms under section 5131(c).
+''(9)  If  the  local  educational  agency seeks funds under section  5131(a)(23),  a  description  of  how  the  agency  will  comply with  the  guidelines  issued  by  the  Secretary  regarding  same-gender schools and classrooms under section 5131(c).
 
 ''(c)  PERIOD OF APPLICATION.-An  application  submitted  by  a local  educational agency under subsection (a) may seek allocations under  this  part  for  a  period  not  to  exceed  3  fiscal  years.  The agency may amend the application annually, as may be necessary to reflect changes, without the filing of a new application.
 
@@ -23053,7 +23049,7 @@ Jkt 099139
 
 ###### ''SEC. 5204. ADMINISTRATION.
 
-''(a) SELECTION CRITERIA FOR STATE EDUCATIONAL AGENCIES.The  Secretary  shall  award  grants  to  State  educational  agencies under  this  subpart  on  the  basis  of  the  quality  of  the  applications submitted  under  section  5203(b),  after  taking  into  consideration such factors as-
+''(a) SELECTION CRITERIA FOR STATE EDUCATIONAL AGENCIES.-The  Secretary  shall  award  grants  to  State  educational  agencies under  this  subpart  on  the  basis  of  the  quality  of  the  applications submitted  under  section  5203(b),  after  taking  into  consideration such factors as-
 
 ''(1) the contribution that the charter schools grant program will  make  to  assisting  educationally  disadvantaged  and  other students  in  meeting  State  academic  content  standards  and State student academic achievement standards;
 
@@ -23131,7 +23127,7 @@ VerDate 11-MAY-2000
 
 ''(3) ALLOWABLE ACTIVITIES.-An eligible applicant receiving  a  grant  or  subgrant  under  this  subpart  may  use the grant or subgrant funds only for-
 
-(A) post-award planning and design of the educational program, which may include-
+''(A) post-award planning and design of the educational program, which may include-
 
 ''(i)  refinement  of  the  desired  educational  results and  of  the  methods  for  measuring  progress  toward achieving those results; and
 
@@ -23317,7 +23313,7 @@ Jkt 099139
 
 ''(b) PER-PUPIL FACILITIES AID PROGRAMS.-
 
-''(1)  DEFINITION OF PER-PUPIL FACILITIES AID PROGRAM.In  this  subsection,  the  term  'per-pupil  facilities  aid  program' means  a  program  in  which  a  State  makes  payments,  on  a per-pupil  basis,  to  charter  schools  to  provide  the  schools  with financing-
+''(1)  DEFINITION OF PER-PUPIL FACILITIES AID PROGRAM.-In  this  subsection,  the  term  'per-pupil  facilities  aid  program' means  a  program  in  which  a  State  makes  payments,  on  a per-pupil  basis,  to  charter  schools  to  provide  the  schools  with financing-
 
 ''(A) that is dedicated solely for funding charter school facilities; or
 
@@ -23369,7 +23365,7 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-the  grant  to  establish  or  enhance,  and  administer,  a  perpupil facilities aid program for charter schools in the State.
+the  grant  to  establish  or  enhance,  and  administer,  a  per-pupil facilities aid program for charter schools in the State.
 
 ''(B)  EVALUATIONS; TECHNICAL ASSISTANCE; DISSEMINATION.-From the amount made available to a State through a  grant  under  this  subsection  for  a  fiscal  year,  the  State may reserve not more than 5 percent to carry out evaluations,  to  provide  technical  assistance,  and  to  disseminate information.
 
@@ -24049,7 +24045,7 @@ VerDate 11-MAY-2000
 
 ''(4) It is in the best interests of the United States-
 
-''(A)  to  continue  the  Federal  Government's  support  of local  educational  agencies  that  are  implementing  courtordered desegregation plans and local educational agencies that  are  voluntarily  seeking  to  foster  meaningful  interaction among students of different racial and ethnic backgrounds,  beginning  at  the  earliest  stage  of  such  students' education;
+''(A)  to  continue  the  Federal  Government's  support  of local  educational  agencies  that  are  implementing  court-ordered desegregation plans and local educational agencies that  are  voluntarily  seeking  to  foster  meaningful  interaction among students of different racial and ethnic backgrounds,  beginning  at  the  earliest  stage  of  such  students' education;
 
 ''(B)  to  ensure  that  all  students  have  equitable  access to  a  high  quality  education  that  will  prepare  all  students to  function  well  in  a  technologically  oriented  and  a  highly competitive  economy  comprised  of  people  from  many  different racial and ethnic backgrounds; and
 
@@ -24113,7 +24109,7 @@ VerDate 11-MAY-2000
 
 ''A  local  educational  agency,  or  consortium  of  such  agencies where  appropriate,  is  eligible  to  receive  a  grant  under  this  part to carry out the purpose of this part if such agency or consortium-
 
-''(1)  is  implementing  a  plan  undertaken  pursuant  to  a final  order  issued  by  a  court  of  the  United  States,  or  a  court of any State, or any other State agency or official of competent jurisdiction, that requires the desegregation of minority-groupsegregated  children  or  faculty  in  the  elementary  schools  and secondary schools of such agency; or
+''(1)  is  implementing  a  plan  undertaken  pursuant  to  a final  order  issued  by  a  court  of  the  United  States,  or  a  court of any State, or any other State agency or official of competent jurisdiction, that requires the desegregation of minority-group-segregated  children  or  faculty  in  the  elementary  schools  and secondary schools of such agency; or
 
 ''(2)  without  having  been  required  to  do  so,  has  adopted and  is  implementing,  or  will,  if  a  grant  is  awarded  to  such local educational agency, or consortium of such agencies, under this part, adopt and implement a plan that has been approved
 
@@ -24523,7 +24519,7 @@ VerDate 11-MAY-2000
 
 ''(b)  DISSEMINATION OF EVALUATION RESULTS.-The  Secretary shall  provide  for  the  dissemination  of  the  evaluations  of  programs funded under this subpart by making the evaluations publicly available upon request, and shall provide public notice that the evaluations are so available.
 
-''(c)  MATCHING FUNDS.-The  Secretary  may  require  recipients of awards under this subpart to provide matching funds from nonFederal  sources,  and  shall  permit  the  recipients  to  match  funds in whole or in part with in-kind contributions.
+''(c)  MATCHING FUNDS.-The  Secretary  may  require  recipients of awards under this subpart to provide matching funds from non-Federal  sources,  and  shall  permit  the  recipients  to  match  funds in whole or in part with in-kind contributions.
 
 ''(d)  SPECIAL RULE FOR RECOGNITION PROGRAMS.-The application  requirements  of  section  5412(b),  and  the  evaluation  requirements  of  subsections  (a)  and  (b)  of  this  section,  do  not  apply  to recognition programs under section 5411(b)(3).
 
@@ -25187,7 +25183,7 @@ Jkt 099139
 
 ''(i) PERMISSIVE MATCH.-
 
-''(1) IN GENERAL.-The Secretary may require eligible entities  to  match  funds  awarded  under  this  section  with  nonFederal  funds,  except  that  the  amount  of  the  match  may  not exceed the amount of the grant award.
+''(1) IN GENERAL.-The Secretary may require eligible entities  to  match  funds  awarded  under  this  section  with  non-Federal  funds,  except  that  the  amount  of  the  match  may  not exceed the amount of the grant award.
 
 PO 00110
 
@@ -25219,7 +25215,7 @@ VerDate 11-MAY-2000
 
 ''(B)  the  ability  of  the  eligible  entity  to  obtain  funding for the match.
 
-''(3)  IN-KIND CONTRIBUTIONS.-The  Secretary  shall  permit eligible  entities  to  match  funds  in  whole  or  in  part  with  inkind contributions.
+''(3)  IN-KIND CONTRIBUTIONS.-The  Secretary  shall  permit eligible  entities  to  match  funds  in  whole  or  in  part  with  in-kind contributions.
 
 ''(4) CONSIDERATION.-Notwithstanding this subsection, the Secretary  in  making  awards  under  this  section  shall  not  consider the ability of an eligible entity to match funds.
 
@@ -25313,7 +25309,7 @@ VerDate 11-MAY-2000
 
 ''(4)  To  develop  and  implement  strategies  to  include  parents, business representatives, local institutions of higher education,  community-based  organizations,  and  other  community members  in  the  smaller  learning  communities  as  facilitators of  activities  that  enable  teachers  to  participate  in  professional development activities and provide links between students and their community.
 
-#### ''Subpart 5-Reading Is FundamentalInexpensive Book Distribution Program
+#### ''Subpart 5-Reading Is Fundamental-Inexpensive Book Distribution Program
 
 ###### ''SEC. 5451. INEXPENSIVE BOOK DISTRIBUTION PROGRAM FOR READING MOTIVATION.
 
@@ -25369,7 +25365,7 @@ literacy  resources  and  shall  assign  the  highest  priority  to  serving the
 
 ''(F) Migrant children.
 
-ildren without access to libraries.
+''(G) Children without access to libraries.
 
 ''(H) Institutionalized or incarcerated children.
 
@@ -25763,7 +25759,7 @@ VerDate 11-MAY-2000
 
 ''(2)  REDUCTION OR WAIVER.-The  Secretary  may  reduce or waive the corresponding non-Federal share under paragraph (1) upon a showing of financial hardship.
 
-''(f)  REQUIRED LOCAL EDUCATIONAL AGENCY PARTICIPATION.The  Secretary  is  authorized  to  make  a  grant  under  this  section to  any  eligible  entity,  if  at  least  one  local  educational  agency  is participating in the proposed program.
+''(f)  REQUIRED LOCAL EDUCATIONAL AGENCY PARTICIPATION.-The  Secretary  is  authorized  to  make  a  grant  under  this  section to  any  eligible  entity,  if  at  least  one  local  educational  agency  is participating in the proposed program.
 
 ''(g)  ASSISTANCE OBTAINING SATELLITE TIME.-The  Secretary may assist recipients of grants made under this section in acquiring satellite time, where appropriate, as economically as possible.
 
@@ -26375,9 +26371,9 @@ VerDate 11-MAY-2000
 
 ''(3)  promote  the  sequential  study  of  a  foreign  language for students, beginning in elementary schools;
 
-''(4)  make  effective  use  of  technology,  such  as  computerassisted instruction, language laboratories, or distance learning, to promote foreign language study;
+''(4)  make  effective  use  of  technology,  such  as  computer-assisted instruction, language laboratories, or distance learning, to promote foreign language study;
 
-''(5) promote innovative activities, such as foreign language immersion,  partial  foreign  language  immersion,  or  contentbased instruction; and
+''(5) promote innovative activities, such as foreign language immersion,  partial  foreign  language  immersion,  or  content-based instruction; and
 
 ''(6)  are  carried  out  through  a  consortium  comprised  of the  agency  receiving  the  grant  and  an  elementary  school  or secondary school.
 
@@ -26455,7 +26451,7 @@ such  students  at  all  such  schools  in  the  United  States  for  such year.
 
 ###### ''SEC. 5504. APPLICATIONS.
 
-''(a) SUBMISSION.-Each local educational agency or communitybased organization desiring a grant or contract under this subpart
+''(a) SUBMISSION.-Each local educational agency or community-based organization desiring a grant or contract under this subpart
 
 18:24 Jan 29, 2002
 
@@ -26527,7 +26523,7 @@ shall  submit  to  the  Secretary  an  application  that  contains  a  plan to  
 
 ''(2) 75 percent of such cost for the second and each subsequent such year.
 
-''(b) PROPORTIONALITY.-To the extent practicable, the Secretary shall ensure that grants awarded under this subpart shall be equitably distributed among local educational agencies and communitybased organizations serving urban and rural areas.
+''(b) PROPORTIONALITY.-To the extent practicable, the Secretary shall ensure that grants awarded under this subpart shall be equitably distributed among local educational agencies and community-based organizations serving urban and rural areas.
 
 ''(c)  REPORT TO CONGRESS.-Not  later  than  June  1,  2003,  the Secretary shall submit a report to Congress that-
 
@@ -26785,7 +26781,7 @@ Jkt 099139
 
 Alaska  with  children  and  families  of  Massachusetts  to  learn about their historical ties and about each other's contemporary cultures.
 
-''(9)  Within  the  fast-growing  cultural  sector,  meaningful educational and career opportunities based on traditional relationships exist for Alaska Natives, Native Hawaiians, and lowincome youth in Massachusetts.
+''(9)  Within  the  fast-growing  cultural  sector,  meaningful educational and career opportunities based on traditional relationships exist for Alaska Natives, Native Hawaiians, and low-income youth in Massachusetts.
 
 ''(10)  Cultural institutions can provide practical, culturally relevant, education-related internship and apprentice programs, such  as  the  Museum  Action  Corps  at  the  Peabody-Essex Museum and similar programs at the New Bedford Oceanarium and  other  institutions,  to  prepare  youths  and  their  families for careers in the cultural sector.
 
@@ -27099,7 +27095,7 @@ application  at  such  time,  in  such  manner,  and  accompanied  by such infor
 
 ''(2)  work  with  private  businesses  to  obtain  matching  contributions  for  Federal  funds  and  assist  recipients  in  working toward self-sufficiency.
 
-''(d) ADDITIONAL REQUIREMENTS AND TECHNICAL ASSISTANCE.The grantee shall-
+''(d) ADDITIONAL REQUIREMENTS AND TECHNICAL ASSISTANCE.-The grantee shall-
 
 ''(1)  meet  such  other  requirements  as  the  Secretary  determines  to  be  necessary  to  assure  compliance  with  this  section; and
 
@@ -27277,7 +27273,7 @@ VerDate 11-MAY-2000
 
 ''(a)  AUTHORIZATION.-The  Secretary,  in  consultation  with  the Secretary  of  Health  and  Human  Services,  may  award  grants  (to be known as 'Foundations for Learning Grants') to local educational agencies,  local  councils,  community-based  organizations,  and  other public  or  nonprofit  private  entities  to  assist  eligible  children  to become ready for school.
 
-''(b)  APPLICATIONS.-To  be  eligible  to  receive  a  grant  under this  section,  a  local  educational  agency,  local  council,  communitybased  organization,  or  other  public  or  nonprofit  private  entity,  or a  combination  of  such  entities,  shall  submit  an  application  to  the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require. The application shall include each of the following:
+''(b)  APPLICATIONS.-To  be  eligible  to  receive  a  grant  under this  section,  a  local  educational  agency,  local  council,  community-based  organization,  or  other  public  or  nonprofit  private  entity,  or a  combination  of  such  entities,  shall  submit  an  application  to  the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require. The application shall include each of the following:
 
 ''(1)  A  description  of  the  population  that  the  applicant intends to serve and the types of services to be provided under the grant.
 
@@ -27641,7 +27637,7 @@ Jkt 099139
 
 ''(10)  use  at  least  30  percent  of  the  funds  received  under this subpart in each fiscal year to establish, expand, or operate Parents as Teachers programs, Home Instruction for Preschool Youngsters programs, or other early childhood parent education programs;
 
-''(11) provide assistance to parents in areas such as understandingState  and  local  standards  and  measures  of  student and school academic achievement;
+''(11) provide assistance to parents in areas such as understanding State  and  local  standards  and  measures  of  student and school academic achievement;
 
 ''(12)  work  with  State  educational  agencies  and  local  educational  agencies  to  determine  parental  needs  and  the  best means for delivery of services;
 
@@ -27769,7 +27765,7 @@ fiscal year, that a portion of the services provided by the organization or cons
 
 ''(C)  The  strategies  used  to  reach  and  serve  parents of minority and limited English proficient children, parents with  limited  literacy  skills,  and  other  parents  in  need  of the services provided under this subpart.
 
-''(D)  The  parental  involvement  policies  and  practices used  by  the  center  and  an  evaluation  of  whether  such policies  and  practices  are  effective  in  improving  homeschool communication, student academic achievement, student and school academic achievement, and parental involvement in school planning, review, and improvement.
+''(D)  The  parental  involvement  policies  and  practices used  by  the  center  and  an  evaluation  of  whether  such policies  and  practices  are  effective  in  improving  home-school communication, student academic achievement, student and school academic achievement, and parental involvement in school planning, review, and improvement.
 
 ''(E)  The  effectiveness  of  the  activities  that  local  educational agencies and schools are carrying out, with regard to parental involvement and other activities assisted under this  Act,  that  lead  to  improved  student  academic  achievement and improved student and school  academic  achievement.
 
@@ -27837,7 +27833,7 @@ enactment of the No Child Left Behind Act of 2001) for the duration of the grant
 
 ''(a) DEFINITIONS.-In this section:
 
-''(1) DOMESTIC VIOLENCE.-The term 'domestic violence' has the  meaning  given  that  term  in  section  2003  of  the  Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg2).
+''(1) DOMESTIC VIOLENCE.-The term 'domestic violence' has the  meaning  given  that  term  in  section  2003  of  the  Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg-2).
 
 ''(2) EXPERT.-The term 'expert' means-
 
@@ -28087,7 +28083,7 @@ VerDate 11-MAY-2000
 
 assistance in planning and designing healthy, high-performance
 
-school buildings, including
+school buildings, including developing a timeline for
 
 implementation of such plans.
 
@@ -28140,12 +28136,6 @@ Fmt 6580
 Sfmt 6581
 
 E:\PUBLAW\PUBL110.107
-
-developing
-
-a
-
-timeline for
 
 20 USC 7277c.
 
@@ -28533,7 +28523,7 @@ VerDate 11-MAY-2000
 
 ''(B)  meet  locally  defined  and  documented  educational equity needs and priorities, including compliance with title IX of the Education Amendments of 1972;
 
-''(C)  are  a  significant  component  of  a  comprehensive plan  for  educational  equity  and  compliance  with  title  IX of  the  Education  Amendments  of  1972  in  the  particular school  district,  institution  of  higher  education,  vocationaltechnical institution, or other educational agency or institution; and
+''(C)  are  a  significant  component  of  a  comprehensive plan  for  educational  equity  and  compliance  with  title  IX of  the  Education  Amendments  of  1972  in  the  particular school  district,  institution  of  higher  education,  vocational-technical institution, or other educational agency or institution; and
 
 ''(D)  implement  an  institutional  change  strategy  with long-term  impact  that  will  continue  as  a  central  activity of  the  applicant  after  the  grant  under  this  subpart  has terminated.
 
@@ -28782,7 +28772,7 @@ instruments,  such  as  performance  and  technology-based  academic assessments
 
 ''(a) AUTHORIZATION OF APPROPRIATIONS.-
 
-''(1)  NATIONAL ASSESSMENT OF EDUCATIONAL PROGRESS.For the purpose of administering the State assessments under the  National  Assessment  of  Educational  Progress,  there  are authorized to be appropriated $72,000,000 for fiscal year 2002, and such sums as may be necessary for each of the 5 succeeding fiscal years.
+''(1)  NATIONAL ASSESSMENT OF EDUCATIONAL PROGRESS.-For the purpose of administering the State assessments under the  National  Assessment  of  Educational  Progress,  there  are authorized to be appropriated $72,000,000 for fiscal year 2002, and such sums as may be necessary for each of the 5 succeeding fiscal years.
 
 ''(2) STATE ASSESSMENTS AND RELATED ACTIVITIES.-For the purpose  of  carrying  out  this  subpart,  there  are  authorized  to be  appropriated  $490,000,000  for  fiscal  year  2002,  and  such sums  as  may  be  necessary  for  each  of  the  5  succeeding  fiscal years.
 
@@ -29496,7 +29486,7 @@ such  period  of  time  as  the  Secretary  may  establish, is  provided  with  
 
 ''(3) LIST OF PROGRAMS.-The local flexibility demonstration agreement shall list which of the programs described in section 6152 are included in the scope of the agreement.
 
-''(4)  USE OF FUNDS TO IMPROVE STUDENT ACHIEVEMENT.The  local  flexibility  demonstration  agreement  shall  contain  a 5-year plan describing how the local educational agency intends to  consolidate  and  use  the  funds  from  programs  included  in the scope of the agreement for any educational purpose authorized  under  this  Act  to  advance  the  education  priorities  of  the local  educational  agency,  meet  the  general  purposes  of  the included  programs,  improve  student  achievement,  and  narrow achievement gaps in accordance with section 1111(b).
+''(4)  USE OF FUNDS TO IMPROVE STUDENT ACHIEVEMENT.-The  local  flexibility  demonstration  agreement  shall  contain  a 5-year plan describing how the local educational agency intends to  consolidate  and  use  the  funds  from  programs  included  in the scope of the agreement for any educational purpose authorized  under  this  Act  to  advance  the  education  priorities  of  the local  educational  agency,  meet  the  general  purposes  of  the included  programs,  improve  student  achievement,  and  narrow achievement gaps in accordance with section 1111(b).
 
 ''(5)  LOCAL INPUT.-The local flexibility demonstration agreement shall contain an assurance that the local educational agency  will  provide  parents,  teachers,  and  representatives  of schools  with  notice  and  an  opportunity  to  comment  on  the proposed terms of the local flexibility demonstration agreement.
 
@@ -29782,7 +29772,7 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-''(2)  ANNUAL MEASURABLE ACHIEVEMENT OBJECTIVES.Based on the reviews described in section 6161(2), the Secretary may  provide  technical  assistance  to  a  State  that  has  failed to  meet  its  annual  measurable  achievement  objectives  under section  3122(a)  for  2  consecutive  years.  The  Secretary  shall provide  such  assistance  not  later  than  the  beginning  of  the first school year that begins after such determination is made.
+''(2)  ANNUAL MEASURABLE ACHIEVEMENT OBJECTIVES.-Based on the reviews described in section 6161(2), the Secretary may  provide  technical  assistance  to  a  State  that  has  failed to  meet  its  annual  measurable  achievement  objectives  under section  3122(a)  for  2  consecutive  years.  The  Secretary  shall provide  such  assistance  not  later  than  the  beginning  of  the first school year that begins after such determination is made.
 
 ''(b)  CHARACTERISTICS.-The  technical  assistance  described  in subsection (a) shall-
 
@@ -29962,7 +29952,7 @@ VerDate 11-MAY-2000
 
 ''(a)  ACADEMIC ACHIEVEMENT ASSESSMENT.-Each  local  educational  agency  that  uses  or  receives  funds  under  this  subpart for  a  fiscal  year  shall  administer  an  assessment  that  is  consistent with section 1111(b)(3).
 
-''(b) DETERMINATION REGARDING CONTINUING PARTICIPATION.Each  State  educational  agency  that  receives  funding  under  the provisions of law described in section 6211(c) shall-
+''(b) DETERMINATION REGARDING CONTINUING PARTICIPATION.-Each  State  educational  agency  that  receives  funding  under  the provisions of law described in section 6211(c) shall-
 
 ''(1)  after  the  third  year  that  a  local  educational  agency in  the  State  participates  in  a  program  under  this  subpart and  on  the  basis  of  the  results  of  the  assessments  described in  subsection  (a),  determine  whether  the  local  educational agency  participating  in  the  program  made  adequate  yearly progress, as described in section 1111(b)(2);
 
@@ -30158,13 +30148,13 @@ VerDate 11-MAY-2000
 
 ''(1)  the  methods  the  State  educational  agencies  used  to award grants to eligible local educational agencies, and to provide assistance to schools, under this subpart;
 
-local educational agencies and schools used funds provided under this subpart; and
+''(2) how local educational agencies and schools used funds provided under this subpart; and
 
 ''(3)  the  degree  to  which  progress  has  been  made  toward meeting the  goals  and  objectives  described  in  the  applications submitted under section 6223.
 
 ''(d)  ACADEMIC ACHIEVEMENT ASSESSMENT.-Each  local  educational  agency  or  specially  qualified  agency  that  receives  a  grant under this subpart for a fiscal year shall administer an assessment that is consistent with section 1111(b)(3).
 
-''(e)  DETERMINATION REGARDING CONTINUING PARTICIPATION.Each  State  educational  agency  or  specially  qualified  agency  that receives a grant under this subpart shall-
+''(e)  DETERMINATION REGARDING CONTINUING PARTICIPATION.-Each  State  educational  agency  or  specially  qualified  agency  that receives a grant under this subpart shall-
 
 ''(1)  after  the  third  year  that  a  local  educational  agency or specially qualified agency in the State receives funds under this subpart, and on the basis of the results of the assessments described in subsection (d)-
 
@@ -30694,7 +30684,7 @@ VerDate 11-MAY-2000
 
 ''(N)  Two additional members who are representatives of  the  general  public,  and  who  may  be  parents,  but  who are not employed by a local, State, or Federal educational agency.
 
-''(2)  ASSISTANT SECRETARY FOR EDUCATIONAL RESEARCH.The Assistant Secretary for Educational Research and Improvement  shall  serve  as  an  ex  officio,  nonvoting  member  of  the Board.
+''(2)  ASSISTANT SECRETARY FOR EDUCATIONAL RESEARCH.-The Assistant Secretary for Educational Research and Improvement  shall  serve  as  an  ex  officio,  nonvoting  member  of  the Board.
 
 ''(3) BALANCE AND DIVERSITY.-The Secretary and the Board shall  ensure  at  all  times  that  the  membership  of  the  Board reflects regional, racial, gender, and cultural balance and diversity  and  that  the  Board  exercises  its  independent  judgment, free from inappropriate influences and special interests. ''(c) TERMS.-
 
@@ -30884,7 +30874,7 @@ VerDate 11-MAY-2000
 
 20 USC 7422.
 
-20 USC 2423.
+20 USC 7423.
 
 18:24 Jan 29, 2002
 
@@ -30920,7 +30910,7 @@ Jkt 099139
 
 ''(c) INDIAN TRIBES.-
 
-''(1)  IN GENERAL.-If  a  local  educational  agency  that  is otherwise  eligible  for  a  grant  under  this  subpart  does  not establish  a  committee  under  section  7114(c)(4)  for  such  grant, an Indian tribe that represents not less than  1 /2 of the eligible Indian children who are served by such local educational agency may apply for such grant.
+''(1)  IN GENERAL.-If  a  local  educational  agency  that  is otherwise  eligible  for  a  grant  under  this  subpart  does  not establish  a  committee  under  section  7114(c)(4)  for  such  grant, an Indian tribe that represents not less than 1⁄2 of the eligible Indian children who are served by such local educational agency may apply for such grant.
 
 ''(2)  SPECIAL RULE.-The Secretary shall treat each Indian tribe  applying  for  a  grant  pursuant  to  paragraph  (1)  as  if such Indian tribe were a local educational agency for purposes of  this  subpart,  except  that  any  such  tribe  is  not  subject  to section 7114(c)(4), section 7118(c), or section 7119.
 
@@ -32208,7 +32198,7 @@ the  Secretary  shall  make  such  grants,  or  enter  into  such contracts,  as
 
 ''(3)  provide  support  services  and  technical  assistance  to schools serving children of the tribe; and
 
-''(4) perform child-find screening services for the preschoolaged children of the tribe to-
+''(4) perform child-find screening services for the preschool-aged children of the tribe to-
 
 ''(A) ensure placement in appropriate educational facilities; and
 
@@ -32478,11 +32468,9 @@ VerDate 11-MAY-2000
 
 Jkt 099139
 
-is-
-
 ''(B)  provided  as  elementary  or  secondary  education in the applicable State or to preschool children.
 
-''(3)  INDIAN.-The  term  'Indian'  means  an  individual  who
+''(3)  INDIAN.-The  term  'Indian'  means  an  individual  who is-
 
 ''(A) a member of an Indian tribe or band, as membership is defined by the tribe or band, including-
 
@@ -32556,7 +32544,7 @@ VerDate 11-MAY-2000
 
 ''(8) Through the enactment of the  Hawaiian  Homes Commission Act, 1920, Congress affirmed the special relationship  between  the  United  States  and  the  Native  Hawaiians, which was described by then Secretary of the Interior Franklin K.  Lane,  who  said:  'One  thing  that  impressed  me  .  .  .  was the  fact  that  the  natives  of  the  island  who  are  our  wards, I  should  say,  and  for  whom  in  a  sense  we  are  trustees,  are falling off rapidly in numbers and many of them are in poverty.'.
 
-''(9)  In  1938,  Congress  again  acknowledged  the  unique status of the Hawaiian people by including in the Act of June 20,  1938  (52  Stat.  781,  chapter  530;  16  U.S.C.  391b,  391b1,  392b,  392c,  396,  396a),  a  provision  to  lease  lands  within the  National  Parks  extension  to  Native  Hawaiians  and  to permit  fishing  in  the  area  'only  by  native  Hawaiian  residents of  said  area  or  of  adjacent  villages  and by visitors under their guidance.'.
+''(9)  In  1938,  Congress  again  acknowledged  the  unique status of the Hawaiian people by including in the Act of June 20,  1938  (52  Stat.  781,  chapter  530;  16  U.S.C.  391b,  391b–1,  392b,  392c,  396,  396a),  a  provision  to  lease  lands  within the  National  Parks  extension  to  Native  Hawaiians  and  to permit  fishing  in  the  area  'only  by  native  Hawaiian  residents of  said  area  or  of  adjacent  villages  and by visitors under their guidance.'.
 
 ''(10)  Under  the  Act  entitled  'An  Act  to  provide  for  the admission  of  the  State  of  Hawaii  into  the  Union',  approved March  18,  1959  (73  Stat.  4),  the  United  States  transferred responsibility  for  the  administration  of  the  Hawaiian  Home Lands to the State of Hawaii but reaffirmed the trust relationship  between  the  United  States  and  the  Hawaiian  people  by retaining  the  exclusive  power  to  enforce  the  trust,  including the power to approve land exchanges and amendments to such Act affecting the rights of beneficiaries under such Act.
 
@@ -32726,9 +32714,9 @@ Jkt 099139
 
 ''(17)  In  the  1998  National  Assessment  of  Educational Progress,  Hawaiian  fourth-graders  ranked  39th  among  groups of  students  from  39  States  in  reading.  Given  that  Hawaiian students rank among the lowest groups of students nationally in reading, and that Native Hawaiian students rank the lowest among  Hawaiian  students  in  reading,  it  is  imperative  that greater  focus  be  placed  on  beginning  reading  and  early  education and literacy in Hawaii.
 
-''(18)  The  findings  described  in  paragraphs  (16)  and  (17) are inconsistent with the high rates of literacy and integration of traditional culture and Western education historically achieved  by  Native  Hawaiians  through  a  Hawaiian  languagebased public school system established in 1840 by Kamehameha III.
+''(18)  The  findings  described  in  paragraphs  (16)  and  (17) are inconsistent with the high rates of literacy and integration of traditional culture and Western education historically achieved  by  Native  Hawaiians  through  a  Hawaiian  language-based public school system established in 1840 by Kamehameha III.
 
-''(19)  Following  the  overthrow  of  the  Kingdom  of  Hawaii in  1893,  Hawaiian medium schools were banned. After annexation, throughout the territorial and statehood period of Hawaii, and  until  1986,  use  of  the  Hawaiian  language  as  an  instructional  medium  in  education  in  public  schools  was  declared unlawful. The declaration caused incalculable harm to a culture that  placed  a  very  high  value  on  the  power  of  language,  as exemplified  in  the  traditional  saying:  'I  ka  'o ¯lelo  no ¯ ke  ola; I  ka  'o ¯lelo  no ¯ ka  make.  In  the  language  rests  life;  In  the language rests death.'.
+''(19)  Following  the  overthrow  of  the  Kingdom  of  Hawaii in  1893,  Hawaiian medium schools were banned. After annexation, throughout the territorial and statehood period of Hawaii, and  until  1986,  use  of  the  Hawaiian  language  as  an  instructional  medium  in  education  in  public  schools  was  declared unlawful. The declaration caused incalculable harm to a culture that  placed  a  very  high  value  on  the  power  of  language,  as exemplified  in  the  traditional  saying:  ‘I  ka  ‘ōlelo  nō  ke  ola; I  ka  ‘ōlelo  nō  ka  make.  In  the  language  rests  life;  In  the language rests death.’.
 
 ''(20)  Despite  the  consequences  of  over  100  years  of  nonindigenous  influence,  the  Native  Hawaiian  people  are  determined to preserve, develop, and transmit to future generations their  ancestral  territory  and  their  cultural  identity  in  accordance with their own spiritual and traditional beliefs,  customs, practices, language, and social institutions.
 
@@ -33040,9 +33028,9 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-''(v) faculty development activities designed to pro-
+''(v) faculty development activities designed to promote the matriculation of Native Hawaiian students;
 
-mote  the  matriculation  of  Native  Hawaiian  students; ''(J) research and data collection activities to determine the educational status and needs of Native Hawaiian children and adults;
+''(J) research and data collection activities to determine the educational status and needs of Native Hawaiian children and adults;
 
 ''(K)  other  research  and  evaluation  activities  related to programs carried out under this part; and
 
@@ -33124,7 +33112,7 @@ VerDate 11-MAY-2000
 
 ''(iii) certified birth records.
 
-''(2)  NATIVE HAWAIIAN COMMUNITY-BASED ORGANIZATION.The  term  'Native  Hawaiian  community-based  organization' means  any  organization  that  is  composed  primarily  of  Native Hawaiians  from  a  specific  community  and  that  assists  in  the social, cultural, and educational development of Native Hawaiians in that community.
+''(2)  NATIVE HAWAIIAN COMMUNITY-BASED ORGANIZATION.-The  term  'Native  Hawaiian  community-based  organization' means  any  organization  that  is  composed  primarily  of  Native Hawaiians  from  a  specific  community  and  that  assists  in  the social, cultural, and educational development of Native Hawaiians in that community.
 
 ''(3)  NATIVE HAWAIIAN EDUCATIONAL ORGANIZATION.-The term  'Native  Hawaiian  educational  organization'  means  a  private nonprofit organization that-
 
@@ -33578,7 +33566,7 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-of  the  transfer  of  the  Federal  property  involved  to  a  nonFederal entity.''.
+of  the  transfer  of  the  Federal  property  involved  to  a  non-Federal entity.''.
 
 (f)  APPLICATION FOR PAYMENT.-Notwithstanding  any  other provision of law, the Secretary shall treat as timely filed an application  under  section  8002  (20  U.S.C.  7702)  from  Academy  School District 20, Colorado, for a payment for fiscal year 1999, and shall process  that  application  from  funds  appropriated  for  that  section for fiscal year 2001.
 
@@ -33606,7 +33594,7 @@ of  the  transfer  of  the  Federal  property  involved  to  a  nonFederal entit
 
 (1)  WARNER PUBLIC SCHOOLS,  MUSKOGEE COUNTY,  OKLAHOMA.-Notwithstanding  any  other  provision  of  law,  the  Secretary  of  Education  shall  treat  as  timely  filed  an  application under  section  8003  (20  U.S.C.  7703)  from  Warner  Public Schools, Muskogee County, Oklahoma, for a payment for fiscal year  2002,  and  shall  process  that  application  for  payment, if  the  Secretary  has  received  the  fiscal  year  2002  application not  later  than  30  days  after  the  date  of  enactment  of  this Act.
 
-(2) PINE POINT SCHOOL, SCHOOL DISTRICT 25, MINNESOTA.Notwithstanding any other provision of law, the Secretary shall treat  as  timely  filed  an  application  under  section  8003  (20 U.S.C.  7703)  from  Pine  Point  School,  School  District  25,  Minnesota,  for  a  payment  for  fiscal  year  2002,  and  shall  process that  application  for  payment,  if  the  Secretary  has  received
+(2) PINE POINT SCHOOL, SCHOOL DISTRICT 25, MINNESOTA.-Notwithstanding any other provision of law, the Secretary shall treat  as  timely  filed  an  application  under  section  8003  (20 U.S.C.  7703)  from  Pine  Point  School,  School  District  25,  Minnesota,  for  a  payment  for  fiscal  year  2002,  and  shall  process that  application  for  payment,  if  the  Secretary  has  received
 
 18:24 Jan 29, 2002
 
@@ -34393,7 +34381,7 @@ Jkt 099139
 
 ''(27) MENTORING.-The term 'mentoring', except when used to  refer  to  teacher  mentoring,  means  a  process  by  which  a responsible  adult,  postsecondary  student,  or  secondary  school student  works  with  a  child  to  provide  a  positive  role  model for  the  child,  to  establish  a  supportive  relationship  with  the child,  and  to  provide  the  child  with  academic  assistance  and exposure to new experiences and examples of opportunity that enhance the ability of the child to become a responsible adult.
 
-''(28) NATIVE AMERICAN AND NATIVE AMERICAN LANGUAGE.The  terms  'Native  American'  and  'Native  American  language' have  the  same  meaning  given  those  terms  in  section  103  of the Native American Languages Act of 1990.
+''(28) NATIVE AMERICAN AND NATIVE AMERICAN LANGUAGE.-The  terms  'Native  American'  and  'Native  American  language' have  the  same  meaning  given  those  terms  in  section  103  of the Native American Languages Act of 1990.
 
 ''(29)  OTHER STAFF.-The  term  'other  staff'  means  pupil services  personnel,  librarians,  career  guidance  and  counseling personnel, education aides, and other instructional and administrative personnel.
 
@@ -34517,7 +34505,7 @@ PO 00110
 
 ''(B) may include activities that-
 
-''(i) involve the forming of partnerships with institutions  of  higher  education  to  establish  schoolbased teacher training programs that provide prospective  teachers  and  beginning  teachers  with  an  opportunity  to  work  under  the  guidance  of  experienced teachers and college faculty;
+''(i) involve the forming of partnerships with institutions  of  higher  education  to  establish  school-based teacher training programs that provide prospective  teachers  and  beginning  teachers  with  an  opportunity  to  work  under  the  guidance  of  experienced teachers and college faculty;
 
 ''(ii)  create  programs  to  enable  paraprofessionals (assisting  teachers  employed  by  a  local  educational agency  receiving  assistance  under  part  A  of  title  I) to obtain the education necessary for those paraprofessionals  to  become  certified  and  licensed  teachers;  and
 
@@ -34565,7 +34553,7 @@ VerDate 11-MAY-2000
 
 ''(iii) relies on measurements or observational methods  that  provide  reliable  and  valid  data  across evaluators  and  observers,  across  multiple  measurements  and  observations,  and  across  studies  by  the same or different investigators;
 
-''(iv)  is  evaluated  using  experimental  or  quasiexperimental  designs  in  which  individuals,  entities, programs, or activities are assigned to different conditions  and  with  appropriate  controls  to  evaluate  the effects  of  the  condition  of  interest,  with  a  preference for  random-assignment  experiments,  or  other  designs to  the  extent  that  those  designs  contain  within-condition or across-condition controls;
+''(iv)  is  evaluated  using  experimental  or  quasi-experimental  designs  in  which  individuals,  entities, programs, or activities are assigned to different conditions  and  with  appropriate  controls  to  evaluate  the effects  of  the  condition  of  interest,  with  a  preference for  random-assignment  experiments,  or  other  designs to  the  extent  that  those  designs  contain  within-condition or across-condition controls;
 
 ''(v)  ensures  that  experimental  studies  are  presented in sufficient detail and clarity to allow for replication  or,  at  a  minimum,  offer  the  opportunity  to build systematically on their findings; and
 
@@ -34575,7 +34563,7 @@ VerDate 11-MAY-2000
 
 ''(39)  SECRETARY.-The  term  'Secretary'  means  the  Secretary of Education.
 
-STATE.-The  term  'State'  means  each  of  the  50  States,  the District  of  Columbia,  the  Commonwealth  of  Puerto  Rico,  and each of the outlying areas.
+''(40) STATE.-The  term  'State'  means  each  of  the  50  States,  the District  of  Columbia,  the  Commonwealth  of  Puerto  Rico,  and each of the outlying areas.
 
 ''(41)  STATE EDUCATIONAL AGENCY.-The  term  'State  educational  agency'  means  the  agency  primarily  responsible  for the  State  supervision  of  public  elementary  schools  and  secondary schools.
 
@@ -34585,7 +34573,7 @@ STATE.-The  term  'State'  means  each  of  the  50  States,  the District  of  
 
 ''(i)  are  designed  to  help  the  teachers  continue to  improve  their  practice  of  teaching  and  to  develop their instructional skills; and
 
-part of an ongoing developmental induction process-
+''(ii) are part of an ongoing developmental induction process that-
 
 ''(I)  involve  the  assistance  of  an  exemplary teacher  and  other  appropriate  individuals  from  a school,  local  educational  agency,  or  institution  of higher education; and
 
@@ -34633,7 +34621,7 @@ Jkt 099139
 
 education,  another  local  educational  agency,  a  teacher organization, or another organization.
 
-''(43)  TECHNOLOGY.-The  term  'technology'  means  stateof-the-art technology products and services.
+''(43)  TECHNOLOGY.-The  term  'technology'  means  state-of-the-art technology products and services.
 
 ###### ''SEC. 9102. APPLICABILITY OF TITLE.
 
@@ -35185,7 +35173,7 @@ the  school  attendance  area  or  who  attend  the  school  is  not more  than 
 
 ''(A) the waiver has been effective in enabling the State or  affected  recipient  to  carry  out  the  activities  for  which the  waiver  was  requested  and  the  waiver  has  contributed to improved student achievement; and
 
-'(B) the extension is in the public interest.
+''(B) the extension is in the public interest.
 
 ''(e) REPORTS.-
 
@@ -35255,7 +35243,7 @@ and  an  opportunity  for  a  hearing,  that  the  performance  of  the State or
 
 ''(a) PRIVATE SCHOOL PARTICIPATION.-
 
-''(1)  IN GENERAL.-Except  as  otherwise  provided  in  this Act, to the extent consistent with the number of eligible children in areas served by a State educational agency, local educational agency,  educational  service  agency,  consortium  of  those  agencies,  or  another  entity  receiving  financial  assistance  under  a program specified in subsection (b), who are enrolled in private elementary  schools  and  secondary  schools  in  areas  served  by such  agency,  consortium,  or  entity,  the  agency,  consortium, or  entity  shall,  after  timely  and  meaningful  consultation  with appropriate  private  school  officials  provide  to  those  children and their teachers or other educational personnel, on an equitable  basis,  special  educational  services  or  other  benefits  that address their needs under the program.
+''(1)  IN GENERAL.-Except  as  otherwise  provided  in  this Act, to the extent consistent with the number of eligible children in areas served by a State educational agency, local educational agency,  educational  service  agency,  consortium  of  those  agencies,  or  another  entity  receiving  financial  assistance  under  a program specified in subsection (b), who are enrolled in private elementary  schools  and  secondary  schools  in  areas  served  by such  agency,  consortium,  or  entity,  the  agency,  consortium, or  entity  shall,  after  timely  and  meaningful  consultation  with appropriate  private  school  officials,  provide  to  those  children and their teachers or other educational personnel, on an equitable  basis,  special  educational  services  or  other  benefits  that address their needs under the program.
 
 ''(2) SECULAR, NEUTRAL, AND NONIDEOLOGICAL SERVICES OR BENEFITS.-Educational  services  or  other  benefits,  including materials  and  equipment,  provided  under  this  section,  shall be secular, neutral, and nonideological.
 
@@ -35517,7 +35505,7 @@ VerDate 11-MAY-2000
 
 ###### ''SEC. 9506. PRIVATE, RELIGIOUS, AND HOME SCHOOLS.
 
-''(a) APPLICABILITY TO NONRECIPIENT PRIVATE SCHOOLS.Nothing in this Act shall be construed to affect any private school that  does  not  receive  funds  or  services  under  this  Act,  nor  shall any  student  who  attends  a  private  school  that  does  not  receive funds  or  services  under  this  Act  be  required  to  participate  in  any assessment referenced in this Act.
+''(a) APPLICABILITY TO NONRECIPIENT PRIVATE SCHOOLS.-Nothing in this Act shall be construed to affect any private school that  does  not  receive  funds  or  services  under  this  Act,  nor  shall any  student  who  attends  a  private  school  that  does  not  receive funds  or  services  under  this  Act  be  required  to  participate  in  any assessment referenced in this Act.
 
 ''(b)  APPLICABILITY TO HOME SCHOOLS.-Nothing  in  this  Act shall be construed to affect a home school, whether or not a home school is  treated  as  a  home  school  or  a  private  school  under  State law, nor shall any student schooled at home be required to participate in any assessment referenced in this Act.
 
@@ -35567,7 +35555,7 @@ Deadline.
 
 18:24 Jan 29, 2002
 
-''(d)  RULE OF CONSTRUCTION ON STATE AND LOCAL EDUCATIONAL AGENCY MANDATES.-Nothing  in  this  Act  shall  be  construed to require any State educational agency or local educational agency  that  receives  funds  under  this  Act  to  mandate,  direct,  or control  the  curriculum  of  a  private  or  home  school,  regardless or  whether  or  not  a  home  school  is  treated  as  a  private  school under  state  law,  nor  shall  any  funds  under  this  Act  be  used  for this purpose.
+''(d)  RULE OF CONSTRUCTION ON STATE AND LOCAL EDUCATIONAL AGENCY MANDATES.-Nothing  in  this  Act  shall  be  construed to require any State educational agency or local educational agency  that  receives  funds  under  this  Act  to  mandate,  direct,  or control  the  curriculum  of  a  private  or  home  school,  regardless of  whether  or  not  a  home  school  is  treated  as  a  private  school under  state  law,  nor  shall  any  funds  under  this  Act  be  used  for this purpose.
 
 #### ''Subpart 2-Other Provisions
 
@@ -35597,7 +35585,7 @@ Deadline.
 
 ###### ''SEC. 9524. SCHOOL PRAYER.
 
-''(a)  GUIDANCE.-The  Secretary  shall  provide  and  revise  guidance,  not  later  than  September  1,  2002,  and  of  every  second  year thereafter, to State educational agencies, local educational agencies, and  the public on constitutionally protected prayer in public
+''(a)  GUIDANCE.-The  Secretary  shall  provide  and  revise  guidance,  not  later  than  September  1,  2002,  and  every  second  year thereafter, to State educational agencies, local educational agencies, and  the public on constitutionally protected prayer in public
 
 Jkt 099139
 
@@ -35752,7 +35740,7 @@ VerDate 11-MAY-2000
 
 ''(2)  RULE OF CONSTRUCTION.-Nothing  in  this  subsection shall  be  construed  to  affect  requirements  under  title  I  or  part A of title VI.
 
-''(d)  RULE OF CONSTRUCTION ON BUILDING STANDARDS.Nothing in this Act shall be construed to mandate national school building standards for a State, local educational agency, or school.
+''(d)  RULE OF CONSTRUCTION ON BUILDING STANDARDS.-Nothing in this Act shall be construed to mandate national school building standards for a State, local educational agency, or school.
 
 ###### ''SEC.  9528.  ARMED  FORCES  RECRUITER  ACCESS  TO  STUDENTS  AND STUDENT RECRUITING INFORMATION.
 
@@ -36026,7 +36014,7 @@ VerDate 11-MAY-2000
 
 (a)  IN GENERAL.-Part  B  of  title  XIII  of  the  Elementary  and Secondary Education Act of 1965 (20 U.S.C. 8651 et seq.) is transferred  to  and  redesignated  as  part  L  of  the  Educational  Research, Development, Dissemination, and Improvement Act of 1994.
 
-(b)  SECTIONS.-Sections  13201  and  13102  of  such  part  are redesignated as sections 1011 and 1012, respectively.
+(b)  SECTIONS.-Sections  13201  and  13202  of  such  part  are redesignated as sections 1011 and 1012, respectively.
 
 (c)  DEFINED TERMS.-Part  L  of  the  Educational  Research, Development,  Dissemination,  and  Improvement  Act  of  1994  (as transferred and redesignated by this section) is amended by adding at the end the following new section:
 
@@ -36038,7 +36026,7 @@ VerDate 11-MAY-2000
 
 (a)  IN GENERAL.-Part  C  of  title  XIII  of  the  Elementary  and Secondary Education Act of 1965 (20 U.S.C. 8671 et seq.) is transferred to and redesignated as part M of the Educational Research, Development, Dissemination, and Improvement Act of 1994.
 
-(b)  SECTIONS.-Sections 13301 through 13108 of such part are redesignated as sections 1021 through 1028, respectively.
+(b)  SECTIONS.-Sections 13301 through 13308 of such part are redesignated as sections 1021 through 1028, respectively.
 
 (c)  DEFINED TERMS.-Part  M  of  the  Educational  Research, Development,  Dissemination,  and  Improvement  Act  of  1994  (as transferred and redesignated by this section) is amended by adding at the end the following new section:
 
@@ -36064,9 +36052,9 @@ Sfmt 6581
 
 E:\PUBLAW\PUBL110.107
 
-20 USC 60536053d.
+20 USC 6053-6053d.
 
-20 USC 60536053d.
+20 USC 6053-6053d.
 
 20 USC 6053e.
 
@@ -36076,9 +36064,9 @@ E:\PUBLAW\PUBL110.107
 
 20 USC 6054b.
 
-20 USC 60556055g.
+20 USC 6055-6055g.
 
-20 USC 60556055g.
+20 USC 6055-6055g.
 
 20 USC 6055h.
 
@@ -36548,7 +36536,7 @@ Deadline.
 
 ''(III)  the  progress  the  separate  schools  are making in integrating homeless children and youths  into  the  mainstream  school  environment, including the average length of student enrollment in such schools.
 
-''(ii)  COMPLIANCE WITH INFORMATION REQUESTS.For purposes of enabling the Secretary to prepare the report, the separate schools and local educational agencies  shall  cooperate  with  the  Secretary  and  the  State Coordinator  for  Education  of  Homeless  Children  and Youths established in the State under subsection (d)(3), and  shall  comply  with  any  requests  for  information by the Secretary and State Coordinator for such State.
+''(ii)  COMPLIANCE WITH INFORMATION REQUESTS.-For purposes of enabling the Secretary to prepare the report, the separate schools and local educational agencies  shall  cooperate  with  the  Secretary  and  the  State Coordinator  for  Education  of  Homeless  Children  and Youths established in the State under subsection (d)(3), and  shall  comply  with  any  requests  for  information by the Secretary and State Coordinator for such State.
 
 ''(iii)  SUBMISSION.-Not  later  than  2  years  after the date of enactment of the McKinney-Vento Homeless Education  Assistance  Improvements  Act  of  2001,  the Secretary  shall  submit  the  report  described  in  clause (i) to-
 
@@ -37388,7 +37376,7 @@ E:\PUBLAW\PUBL110.107
 
 25 USC 2000 note. Native American Education Improvement Act of 2001.
 
-25 USC 20222026.
+25 USC 2022-2026.
 
 25 USC 2000.
 
@@ -37432,7 +37420,7 @@ Improvement Act of 2001, each Bureau-funded school shall, to  the  extent that n
 
 ''(ii) establish accreditation procedures to facilitate the  application,  review  of  the  standards  and  review processes,  and  recognition  of  qualified  and  credible tribal  departments  of  education  as  accrediting  bodies serving tribal schools.
 
-''(2)  DETERMINATION OF ACCREDITATION TO BE APPLIED.The  accreditation  type  applied  for  each  school  shall  be  determined  by  the  tribal  governing  body,  or  the  school  board,  if authorized by the tribal governing body.
+''(2)  DETERMINATION OF ACCREDITATION TO BE APPLIED.-The  accreditation  type  applied  for  each  school  shall  be  determined  by  the  tribal  governing  body,  or  the  school  board,  if authorized by the tribal governing body.
 
 ''(3) ASSISTANCE TO SCHOOL BOARDS.-
 
@@ -37532,7 +37520,7 @@ Deadline.
 
 Jkt 099139
 
-under  paragraph  (5),  the  school  shall  develop  a  school plan, in consultation with interested parties including parents,  school  staff,  the  school  board,  and  other  outside experts  (if  appropriate),  that  shall  be  submitted  to  the Secretary  for  approval.  The  school  plan  shall  cover  a  3year period and shall-
+under  paragraph  (5),  the  school  shall  develop  a  school plan, in consultation with interested parties including parents,  school  staff,  the  school  board,  and  other  outside experts  (if  appropriate),  that  shall  be  submitted  to  the Secretary  for  approval.  The  school  plan  shall  cover  a  3-year period and shall-
 
 ''(i) incorporate strategies that address the specific issues  that  caused  the  school  to  fail  to  be  accredited or fail to be a candidate for accreditation;
 
@@ -37744,7 +37732,7 @@ Jkt 099139
 
 applicable law (including applicable regulations or court orders) or  under  the  terms  of  any  collective  bargaining  agreement, memorandum  of  understanding,  or  other  agreement  between such employees and their employers.
 
-''(10) FISCAL CONTROL AND FUND ACCOUNTING STANDARDS.The  Bureau  shall,  either  directly  or  through  contract  with an Indian organization, establish a consistent system of reporting  standards  for  fiscal  control  and  fund  accounting  for all  contract  and  grant  schools.  Such  standards  shall  provide data  comparable  to  those  used  by  Bureau-operated  schools. ''(c) ANNUAL PLAN.-
+''(10) FISCAL CONTROL AND FUND ACCOUNTING STANDARDS.-The  Bureau  shall,  either  directly  or  through  contract  with an Indian organization, establish a consistent system of reporting  standards  for  fiscal  control  and  fund  accounting  for all  contract  and  grant  schools.  Such  standards  shall  provide data  comparable  to  those  used  by  Bureau-operated  schools. ''(c) ANNUAL PLAN.-
 
 ''(1)  IN GENERAL.-Except  as  provided  in  subsection  (b), the  Secretary  shall  implement  the  standards  in  effect  under this  section  on  the  day  before  the  date  of  enactment  of  the Native American Education Improvement Act of 2001.
 
@@ -37820,7 +37808,7 @@ Interior, the affected tribe, tribal governing body, and designated  local  scho
 
 ''(B)  any  program  of  such  a  school  that  is  operated on or after January 1, 1999; or
 
-''(C)  any  school  board  of  a  school  operated  under  a grant  under  the  Tribally  Controlled  Schools  Act  of  1988. ''(e) APPLICATION FOR CONTRACTS OR GRANTS FOR NON-BUREAUFUNDED SCHOOLS OR EXPANSION OF BUREAU-FUNDED SCHOOLS.-
+''(C)  any  school  board  of  a  school  operated  under  a grant  under  the  Tribally  Controlled  Schools  Act  of  1988. ''(e) APPLICATION FOR CONTRACTS OR GRANTS FOR NON-BUREAU-FUNDED SCHOOLS OR EXPANSION OF BUREAU-FUNDED SCHOOLS.-
 
 ''(1) REVIEW BY SECRETARY.-
 
@@ -37870,7 +37858,7 @@ Jkt 099139
 
 ''(II) applications from  any  tribe or  school board of any Bureau-funded school for-
 
-''(aa)  a  school  which  is  not  a  Bureaufunded school; or
+''(aa)  a  school  which  is  not  a  Bureau-funded school; or
 
 ''(bb)  the  expansion  of  a  Bureau-funded school  which  would  increase  the  amount  of funds  received  by  the  Indian  tribe  or  school board under section 1127.
 
@@ -37958,7 +37946,7 @@ VerDate 11-MAY-2000
 
 ''(ii) at an earlier date determined by the Secretary.
 
-''(6)  STATUTORY CONSTRUCTION.-Nothing  in  this  section or  any  other  provision  of  law,  shall  be  construed  to  preclude the  expansion  of  grades  and  related  facilities  at  a  Bureaufunded  school,  if  such  expansion  is  paid  for  with  non-Bureau funds.  Subject  to  the  availability  of  appropriated  funds  the Secretary is authorized to provide the necessary funds needed to  supplement the cost of operations and maintenance of such expansion.
+''(6)  STATUTORY CONSTRUCTION.-Nothing  in  this  section or  any  other  provision  of  law,  shall  be  construed  to  preclude the  expansion  of  grades  and  related  facilities  at  a  Bureau-funded  school,  if  such  expansion  is  paid  for  with  non-Bureau funds.  Subject  to  the  availability  of  appropriated  funds  the Secretary is authorized to provide the necessary funds needed to  supplement the cost of operations and maintenance of such expansion.
 
 ''(f)  JOINT ADMINISTRATION.-Administrative,  transportation, and  program  cost  funds  received  by  Bureau-funded  schools,  and any program from the Department of Education or any other Federal agency for the purpose of providing education or related services, and other funds received for such education and related services  from  nonfederally  funded  programs,  shall  be  apportioned  and the funds shall be retained at the school.
 
@@ -38000,7 +37988,7 @@ Federal Register, publication.
 
 Jkt 099139
 
-''(g)  GENERAL USE OF FUNDS.-Funds  received  by  Bureaufunded  schools  from  the  Bureau  of  Indian  Affairs,  and  under  any program  from  the  Department  of  Education  or  any  other  Federal agency,  for  the  purpose  of  providing  education  or  related  services may  be  used  for  schoolwide  projects  to  improve  the  educational program for all Indian students.
+''(g)  GENERAL USE OF FUNDS.-Funds  received  by  Bureau-funded  schools  from  the  Bureau  of  Indian  Affairs,  and  under  any program  from  the  Department  of  Education  or  any  other  Federal agency,  for  the  purpose  of  providing  education  or  related  services may  be  used  for  schoolwide  projects  to  improve  the  educational program for all Indian students.
 
 ''(h) STUDY ON ADEQUACY OF FUNDS AND FORMULAS.-
 
@@ -38012,7 +38000,7 @@ Jkt 099139
 
 ''(a) REVISION OF STANDARDS.-
 
-''(1)  IN GENERAL.-The Secretary, in consultation with the Secretary  of  Education,  Indian  organizations  and  tribes,  and Bureau-funded schools, shall revise the national standards for home-living  (dormitory)  situations  to  include  such  factors  as heating,  lighting,  cooling,  adult-child  ratios,  needs  for  counselors (including special needs related to off-reservation homeliving (dormitory) situations), therapeutic programs, space, and privacy.
+''(1)  IN GENERAL.-The Secretary, in consultation with the Secretary  of  Education,  Indian  organizations  and  tribes,  and Bureau-funded schools, shall revise the national standards for home-living  (dormitory)  situations  to  include  such  factors  as heating,  lighting,  cooling,  adult-child  ratios,  needs  for  counselors (including special needs related to off-reservation home-living (dormitory) situations), therapeutic programs, space, and privacy.
 
 ''(2)  IMPLEMENTATION.-Such  standards  shall  be  implemented  in  Bureau-operated  schools,  and  shall  serve  as  minimum standards for contract or grant schools.
 
@@ -38026,7 +38014,7 @@ Jkt 099139
 
 ''(2)  COMPONENTS OF PLAN.-The  plan  described  in  paragraph (1) shall include-
 
-''(A) a statement of the relative needs of each Bureaufunded home-living (dormitory) school;
+''(A) a statement of the relative needs of each Bureau-funded home-living (dormitory) school;
 
 ''(B)  projected  future  needs  of  each  Bureau-funded home-living (dormitory) school;
 
@@ -38072,11 +38060,11 @@ VerDate 11-MAY-2000
 
 ''(B)  ALTERNATIVE STANDARDS.-The  tribal  governing body  or  school  board  involved  shall,  not  later  than  60 days after  providing  a  waiver  under  subparagraph  (A)  for a  school,  submit  to  the  Director  a  proposal  for  alternative standards that take into  account  the  specific  needs  of  the tribe's children. Such alternative standards shall be established by the Director for the school involved unless specifically rejected by the Director for good cause and in writing provided to the affected tribes or local school board.
 
-''(e) CLOSURE FOR FAILURE TO MEET STANDARDS PROHIBITED.No  school  in  operation  on  or  before  July  1,  1999  (regardless  of compliance or noncompliance with the standards established under this  section),  may  be  closed,  transferred  to  another  authority,  or consolidated, and no program of such a school may be substantially curtailed, because the school failed to meet such standards.
+''(e) CLOSURE FOR FAILURE TO MEET STANDARDS PROHIBITED.-No  school  in  operation  on  or  before  July  1,  1999  (regardless  of compliance or noncompliance with the standards established under this  section),  may  be  closed,  transferred  to  another  authority,  or consolidated, and no program of such a school may be substantially curtailed, because the school failed to meet such standards.
 
 ###### ''SEC. 1123. CODIFICATION OF REGULATIONS.
 
-''(a)  PART 32  OF TITLE 25,  CODE OF FEDERAL REGULATIONS.The provisions of  part  32  of  title  25,  Code  of  Federal  Regulations, as  in  effect  on  January  1,  1987,  are  incorporated  into  this  Act and  shall  be  treated  as  though  such  provisions  are  set  forth  in this  subsection.  Such  provisions  may  be  altered  only  by  means of  an  Act  of  Congress.  To  the  extent  that  such  provisions  of  part 32  do  not  conform  with  this  Act  or  any  statutory  provision  of law  enacted  before  November  1,  1978,  the  provisions  of  this  Act and the provisions of such other statutory law shall govern.
+''(a)  PART 32  OF TITLE 25,  CODE OF FEDERAL REGULATIONS.-The provisions of  part  32  of  title  25,  Code  of  Federal  Regulations, as  in  effect  on  January  1,  1987,  are  incorporated  into  this  Act and  shall  be  treated  as  though  such  provisions  are  set  forth  in this  subsection.  Such  provisions  may  be  altered  only  by  means of  an  Act  of  Congress.  To  the  extent  that  such  provisions  of  part 32  do  not  conform  with  this  Act  or  any  statutory  provision  of law  enacted  before  November  1,  1978,  the  provisions  of  this  Act and the provisions of such other statutory law shall govern.
 
 ''(b)  DEFINITION OF REGULATION.-In  this  section,  the  term 'regulation'  means  any  rule,  regulation,  guideline,  interpretation, order,  or  requirement  of  general  applicability  prescribed  by  any officer or employee of the executive branch.
 
@@ -38150,7 +38138,9 @@ Bureau-funded program located on an Indian reservation-
 
 ''(2) those students residing near the reservation shall also receive services from such program.
 
-''(f)  OFF-RESERVATION HOME-LIVING (DORMITORY)  SCHOOLS.''(1) IN GENERAL.-Notwithstanding any geographical attendance  areas,  attendance  at  off-reservation  home-living (dormitory)  schools  shall  include  students  requiring  special emphasis  programs  to  be  implemented  at  each  off-reservation home-living (dormitory) school.
+''(f)  OFF-RESERVATION HOME-LIVING (DORMITORY)  SCHOOLS.-
+
+''(1) IN GENERAL.-Notwithstanding any geographical attendance  areas,  attendance  at  off-reservation  home-living (dormitory)  schools  shall  include  students  requiring  special emphasis  programs  to  be  implemented  at  each  off-reservation home-living (dormitory) school.
 
 ''(2) COORDINATION.-Such attendance shall be coordinated between  education  line  officers,  the  family,  and  the  referring and receiving programs.
 
@@ -38332,11 +38322,11 @@ related  facilities  operated  by  the  Bureau  or  under  contract or grant wit
 
 ''(1) SYSTEM TO ESTABLISH PRIORITIES.-On an annual basis, the  Secretary  shall  submit  to  the  appropriate  committees  of Congress  and  cause  to  be  published  in  the  Federal  Register, the  system  used  to  establish  priorities  for  replacement  and construction projects for Bureau-funded schools and home-living schools,  including  boarding  schools  and  dormitories.  At  the time  any  budget  request  for  education  is  presented,  the  Secretary  shall  publish  in  the  Federal  Register  and  submit  with the budget request the current list of all Bureau-funded school construction priorities.
 
-''(2)  LONG-TERM CONSTRUCTION AND REPLACEMENT LIST.In  addition  to  the  plan  submitted  under  subsection  (c),  the Secretary shall-
+''(2)  LONG-TERM CONSTRUCTION AND REPLACEMENT LIST.-In  addition  to  the  plan  submitted  under  subsection  (c),  the Secretary shall-
 
 ''(A)  not  later  than  18  months  after  the  date  of  enactment of the Native American Education Improvement Act of 2001, establish a long-term construction and replacement list for all Bureau-funded schools;
 
-''(B)  using  the  list  prepared  under  subparagraph  (A), propose  a  list  for  the  orderly  replacement  of  all  Bureaufunded education-related facilities over a period of 40 years to enable planning and scheduling of budget requests;
+''(B)  using  the  list  prepared  under  subparagraph  (A), propose  a  list  for  the  orderly  replacement  of  all  Bureau-funded education-related facilities over a period of 40 years to enable planning and scheduling of budget requests;
 
 ''(C)  cause  the  list  prepared  under  subparagraph  (B) to be published in the Federal Register and allow a period of not less than 120 days for public comment;
 
@@ -38390,7 +38380,7 @@ Jkt 099139
 
 ''(1) CLOSURE, CONSOLIDATION, OR CURTAILMENT.-
 
-''(A)  IN GENERAL.-A  Bureau-funded  school  may  be closed or consolidated, or the programs of a Bureau-funded school may be substantially curtailed, by reason of facility conditions  that  constitute  an  immediate  hazard  to  health and safety only if a health and safety officer of the Bureau and an individual designated at the beginning of the school year  by  the  tribe  involved  under  subparagraph  (B)  determine that such conditions exist at a facility of the Bureaufunded school.
+''(A)  IN GENERAL.-A  Bureau-funded  school  may  be closed or consolidated, or the programs of a Bureau-funded school may be substantially curtailed, by reason of facility conditions  that  constitute  an  immediate  hazard  to  health and safety only if a health and safety officer of the Bureau and an individual designated at the beginning of the school year  by  the  tribe  involved  under  subparagraph  (B)  determine that such conditions exist at a facility of the Bureau-funded school.
 
 ''(B) DESIGNATION OF INDIVIDUAL BY TRIBE.-To be designated  by  a  tribe  for  purposes  of  subparagraph  (A),  an individual shall-
 
@@ -38496,9 +38486,9 @@ Jkt 099139
 
 ''(ii)  with  respect  to  a  school  that  is  to  be  closed for  not  less  than  1  year,  a  time  period  determined appropriate by the Bureau.
 
-''(3)  TREATMENT OF CLOSURE.-Any  closure  of  a  Bureaufunded  school  under  this  subsection  for  a  period  that  exceeds 30 days but is less than 1 year, shall be treated by the Bureau as an emergency facility improvement and repair project.
+''(3)  TREATMENT OF CLOSURE.-Any  closure  of  a  Bureau-funded  school  under  this  subsection  for  a  period  that  exceeds 30 days but is less than 1 year, shall be treated by the Bureau as an emergency facility improvement and repair project.
 
-''(4)  USE OF FUNDS.-With  respect  to  a  Bureau-funded school that is closed under this subsection, the tribal governing body,  or  the  designated  local  school  board  of  each  Bureaufunded school, involved may authorize the use of funds allocated pursuant  to  section  1127,  to  abate  the  hazardous  conditions without further action by Congress.
+''(4)  USE OF FUNDS.-With  respect  to  a  Bureau-funded school that is closed under this subsection, the tribal governing body,  or  the  designated  local  school  board  of  each  Bureau-funded school, involved may authorize the use of funds allocated pursuant  to  section  1127,  to  abate  the  hazardous  conditions without further action by Congress.
 
 ''(f) FUNDING REQUIREMENT.-
 
@@ -38552,9 +38542,9 @@ procurement, and finance functions connected with school operation programs.
 
 ''(2) provide all services and support functions for education programs with respect  to  personnel  matters  involving  staffing actions and functions; and
 
-''(3)  provide technical and coordinating assistance in areas such  as  procurement,  contracting,  budgeting,  personnel,  curriculum,  and  operation  and  maintenance  of  school  facilities. ''(e)  CONSTRUCTION,  IMPROVEMENT,  OPERATION,  AND MAINTE-
+''(3)  provide technical and coordinating assistance in areas such  as  procurement,  contracting,  budgeting,  personnel,  curriculum,  and  operation  and  maintenance  of  school  facilities.
 
-NANCE OF FACILITIES.-
+''(e)  CONSTRUCTION,  IMPROVEMENT,  OPERATION,  AND  MAINTENANCE OF FACILITIES.-
 
 ''(1)  PLAN FOR CONSTRUCTION.-The  Assistant  Secretary shall submit as part of the annual budget a plan-
 
@@ -38874,11 +38864,11 @@ Jkt 099139
 
 ''(3)  ATTENDANCE OF NON-INDIAN STUDENTS AT CONTRACT AND GRANT SCHOOLS.-The school board of a contract or grant school may permit students who are not eligible Indian students under  this  subsection  to  attend  its  contract  school  or  grant school.  Any  tuition  collected  for  those  students  shall  be  in addition to funding received under this section.
 
-''(h)  FUNDS AVAILABLE WITHOUT FISCAL YEAR LIMITATION.Notwithstanding  any  other  provision  of  law,  at  the  election  of the  school  board  of  a  Bureau  school  made  at  any  time  during the  fiscal  year,  a  portion  equal  to  not  more  than  15  percent  of the  funds  allocated  with  respect  to  a  school  under  this  section for any fiscal year shall remain available to the school for expenditure  without  fiscal  year  limitation.  The  Assistant  Secretary  shall take  such  steps  as  are  necessary  to  implement  this  subsection.
+''(h)  FUNDS AVAILABLE WITHOUT FISCAL YEAR LIMITATION.-Notwithstanding  any  other  provision  of  law,  at  the  election  of the  school  board  of  a  Bureau  school  made  at  any  time  during the  fiscal  year,  a  portion  equal  to  not  more  than  15  percent  of the  funds  allocated  with  respect  to  a  school  under  this  section for any fiscal year shall remain available to the school for expenditure  without  fiscal  year  limitation.  The  Assistant  Secretary  shall take  such  steps  as  are  necessary  to  implement  this  subsection.
 
 ''(i)  STUDENTS AT RICHFIELD DORMITORY,  RICHFIELD,  UTAH.-
 
-''(1)  IN GENERAL.-Tuition  for  the  instruction  of  each  outof-State Indian student in a home-living situation at the Richfield  dormitory  in  Richfield,  Utah,  who  attends  Sevier  County high  schools  in  Richfield,  Utah,  for  an  academic  year,  shall be paid from Indian school equalization program funds authorized  in  this  section  and  section  1129,  at  a  rate  not  to  exceed the  weighted  amount  provided  for  under  subsection  (b)  for a student for that year.
+''(1)  IN GENERAL.-Tuition  for  the  instruction  of  each  out-of-State Indian student in a home-living situation at the Richfield  dormitory  in  Richfield,  Utah,  who  attends  Sevier  County high  schools  in  Richfield,  Utah,  for  an  academic  year,  shall be paid from Indian school equalization program funds authorized  in  this  section  and  section  1129,  at  a  rate  not  to  exceed the  weighted  amount  provided  for  under  subsection  (b)  for a student for that year.
 
 ''(2)  NO ADMINISTRATIVE COST FUNDS.-No additional administrative  cost  funds  shall  be  provided  under  this  part to  pay  for  administrative  costs  relating  to  the  instruction  of the students.
 
@@ -38938,7 +38928,7 @@ VerDate 11-MAY-2000
 
 ''(vi)  costs  of  necessary  insurance,  auditing,  legal, safety and security services.
 
-''(2)  BUREAU ELEMENTARY AND SECONDARY FUNCTIONS.The term 'Bureau elementary and secondary functions' means-
+''(2)  BUREAU ELEMENTARY AND SECONDARY FUNCTIONS.-The term 'Bureau elementary and secondary functions' means-
 
 ''(A)  all  functions  funded  at  Bureau  schools  by  the Office;
 
@@ -39006,7 +38996,7 @@ of programs (excluding funds for social services that are appropriated  to  agen
 
 ''(A)  enable  tribes  and  tribal  organizations  operating such  schools,  without  reducing  direct  program  services  to the  beneficiaries  of  the  program,  to  provide  all  related administrative overhead services and operations necessary to meet the requirements of law and prudent management practice; and
 
-''(B) carry out other necessary support functions which would  otherwise  be  provided  by  the  Secretary  or  other Federal  officers  or  employees,  from  resources  other  than direct  program  funds,  in  support  of  comparable  Bureauoperated programs.
+''(B) carry out other necessary support functions which would  otherwise  be  provided  by  the  Secretary  or  other Federal  officers  or  employees,  from  resources  other  than direct  program  funds,  in  support  of  comparable  Bureau-operated programs.
 
 ''(2) EFFECT UPON APPROPRIATED AMOUNTS.-Amounts appropriated  to  fund  the  grants  provided  under  this  section shall  be  in  addition  to,  and  shall  not  reduce,  the  amounts appropriated  for  the  program  being  administered  by  the  contract or grant school.
 
@@ -39068,7 +39058,7 @@ VerDate 11-MAY-2000
 
 ''(ii) the standard direct cost base.
 
-''(2)  ROUNDING.-The  administrative  cost  percentage  rate shall be determined to the  1 /100 of a decimal point.
+''(2)  ROUNDING.-The  administrative  cost  percentage  rate shall be determined to the 1⁄100 of a decimal point.
 
 ''(3)  APPLICABILITY.-The  administrative  cost  percentage rate determined under this subsection shall not apply to other programs operated by the tribe or tribal organization.
 
@@ -39082,7 +39072,7 @@ VerDate 11-MAY-2000
 
 ''(g)  TREATMENT OF FUNDS.-Funds  received  as  grants  under this  section  for  Bureau-funded  programs  operated  by  a  tribe  or tribal  organization  under  a  contract  or  agreement  shall  not  be taken into consideration for purposes of indirect cost underrecovery and  overrecovery  determinations  by  any  Federal  agency  for  any other funds, from whatever source derived.
 
-''(h)  TREATMENT OF ENTITY OPERATING OTHER PROGRAMS.In  applying  this  section  and  section  106  of  the  Indian  Self-Determination  and  Education  Assistance  Act  with  respect  to  an  Indian tribe or tribal organization that-
+''(h)  TREATMENT OF ENTITY OPERATING OTHER PROGRAMS.-In  applying  this  section  and  section  106  of  the  Indian  Self-Determination  and  Education  Assistance  Act  with  respect  to  an  Indian tribe or tribal organization that-
 
 ''(1)  receives  funds  under  this  section  for  administrative costs  incurred  in  operating  a  contract  or  grant  school  or  a school  operated  under  the  Tribally  Controlled  Schools  Act  of 1988; and
 
@@ -39276,9 +39266,9 @@ VerDate 11-MAY-2000
 
 the  Division,  shall  conduct  studies,  surveys,  or  other  activities  to gather  demographic  information  on  Bureau-funded  schools  and project  the  amount  necessary  to  provide  Indian  students  in  such schools the educational program set forth in this part.
 
-''(c)  ANNUAL REPORTS.-Not later  than  the  date  on  which  the Assistant  Secretary  for  Indian  Affairs  makes  the  annual  budget submission,  for  each  fiscal  year  after  the  date  of  enactment  of the  Native  American  Education  Improvement  Act  of  2001,  the Director  of  the  Office  shall  submit  to  the  appropriate  committees of Congress (including the Appropriations committees), all Bureaufunded  schools,  and  the  tribal  governing  bodies  of  such  schools, a report that contains-
+''(c)  ANNUAL REPORTS.-Not later  than  the  date  on  which  the Assistant  Secretary  for  Indian  Affairs  makes  the  annual  budget submission,  for  each  fiscal  year  after  the  date  of  enactment  of the  Native  American  Education  Improvement  Act  of  2001,  the Director  of  the  Office  shall  submit  to  the  appropriate  committees of Congress (including the Appropriations committees), all Bureau-funded  schools,  and  the  tribal  governing  bodies  of  such  schools, a report that contains-
 
-''(1) projections, based upon the information gathered pursuant to subsection (b) and any other relevant information, of  amounts  necessary  to  provide  Indian  students  in  Bureaufunded schools the educational program set forth in this part;
+''(1) projections, based upon the information gathered pursuant to subsection (b) and any other relevant information, of  amounts  necessary  to  provide  Indian  students  in  Bureau-funded schools the educational program set forth in this part;
 
 ''(2)  a  description  of  the  methods  and  formulas  used  to calculate  the  amounts  projected  pursuant  to  paragraph  (1); and
 
@@ -39476,7 +39466,9 @@ Jkt 099139
 
 ''(d)  TECHNICAL ASSISTANCE AND TRAINING.-In  carrying  out this  section,  a  local  school  board  may  request  technical  assistance and  training  from  the  Secretary,  and  the  Secretary  shall,  to  the maximum  extent  practicable,  provide  those  services  and  make appropriate provisions in the budget of the Office for the provision of those services.
 
-''(e) SUMMER PROGRAM OF ACADEMIC AND SUPPORT SERVICES.''(1) PLAN.-
+''(e) SUMMER PROGRAM OF ACADEMIC AND SUPPORT SERVICES.-
+
+''(1) PLAN.-
 
 ''(A)  IN GENERAL.-A  financial  plan  under  subsection (b)  for  a  school  may  include,  at  the  discretion  of  the  local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
 
@@ -39486,7 +39478,7 @@ Jkt 099139
 
 ''(2)  USE OF OTHER FUNDS.-Notwithstanding  any  other provision  of  law,  funds  authorized  under  the  Act  of  April  16, 1934,  and  this  Act  may  be  used  to  augment  the  services  provided  in  each  summer  program  at  the  option,  and  under  the control,  of  the  tribe  or  Indian  controlled  school  receiving  such funds.
 
-''(3) TECHNICAL ASSISTANCE AND PROGRAM COORDINATION.The Assistant Secretary for Indian Affairs, acting through the Director of the Office, shall-
+''(3) TECHNICAL ASSISTANCE AND PROGRAM COORDINATION.-The Assistant Secretary for Indian Affairs, acting through the Director of the Office, shall-
 
 ''(A)  provide  technical  assistance  and  coordination  for any program described in paragraph (1); and
 
@@ -39674,7 +39666,7 @@ VerDate 11-MAY-2000
 
 ''(ii)  such  individual  have  applied  at  the  national level for an education position.
 
-''(2)  EXCEPTION FOR CERTAIN TEMPORARY EMPLOYMENT.The  Secretary  may  authorize  the  temporary  employment  in an  education  position  of  an  individual  who  has  not  met  the certification  standards  established  pursuant  to  regulations  if the  Secretary  determines  that  failure  to  do  so  would  result in that position remaining vacant.
+''(2)  EXCEPTION FOR CERTAIN TEMPORARY EMPLOYMENT.-The  Secretary  may  authorize  the  temporary  employment  in an  education  position  of  an  individual  who  has  not  met  the certification  standards  established  pursuant  to  regulations  if the  Secretary  determines  that  failure  to  do  so  would  result in that position remaining vacant.
 
 ''(d) HIRING OF EDUCATORS.-
 
@@ -39906,7 +39898,7 @@ VerDate 11-MAY-2000
 
 ''(i)  IN GENERAL.-The  term  'Indian  preference laws'  means  section  12  of  the  Act  of  June  18,  1934 (48  Stat.  986,  chapter  576)  or  any  other  provision  of law  granting  a  preference  to  Indians  in  promotions and other personnel actions.
 
-''(ii) EXCLUSION.-The term 'Indian preference laws'  does  not  include  section  7(b)  of  the  Indian  SelfDetermination and Education Assistance Act.
+''(ii) EXCLUSION.-The term 'Indian preference laws'  does  not  include  section  7(b)  of  the  Indian  Self-Determination and Education Assistance Act.
 
 ''(B) TRIBAL ORGANIZATION.-The term 'tribal organization' means-
 
@@ -40068,7 +40060,7 @@ Jkt 099139
 
 ''(v)  REPORTS.-On  or  before  February  1  of  each year,  the  Secretary  shall  submit  to  Congress  a  report describing the requests and approvals of authorization made  under  this  paragraph  during  the  previous  year and  listing  the  positions  receiving  post  differential rates under contracts entered into under those authorizations.
 
-''(h)  LIQUIDATION OF REMAINING LEAVE UPON TERMINATION.Upon  termination  of  employment  with  the  Bureau,  any  annual leave  remaining  to  the  credit  of  an  individual  covered  by  this section shall be liquidated in accordance with sections 5551(a) and 6306  of  title  5,  United  States  Code,  except  that  leave  earned  or accrued  under  regulations  promulgated  pursuant  to  subsection (b)(10) shall not be so liquidated.
+''(h)  LIQUIDATION OF REMAINING LEAVE UPON TERMINATION.-Upon  termination  of  employment  with  the  Bureau,  any  annual leave  remaining  to  the  credit  of  an  individual  covered  by  this section shall be liquidated in accordance with sections 5551(a) and 6306  of  title  5,  United  States  Code,  except  that  leave  earned  or accrued  under  regulations  promulgated  pursuant  to  subsection (b)(10) shall not be so liquidated.
 
 ''(i) TRANSFER OF REMAINING SICK LEAVE UPON TRANSFER, PROMOTION,  OR REEMPLOYMENT.-In  the  case  of  any  educator  who is  transferred,  promoted,  or  reappointed,  without  break  in  service, to  a  position  in  the  Federal  Government  under  a  different  leave system,  any  remaining  leave  to  the  credit  of  such  person  earned or  credited  under  the  regulations  promulgated  pursuant  to  subsection  (b)(10)  shall  be  transferred  to  such  person's  credit  in  the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
 
@@ -40622,9 +40614,9 @@ VerDate 11-MAY-2000
 
 ''(i)  the  assumption,  by  the  tribal  department  of education,  of  all  assets  and  functions  of  the  Bureau agency  office  associated  with  the  tribe,  to  the  extent the assets and functions relate to education; and
 
-''(ii)  the  termination  by  the  Bureau  of  such  func-
+''(ii)  the  termination  by  the  Bureau  of  such  functions  and  office  at  the  time  of  such  assumption;  and
 
-tions  and  office  at  the  time  of  such  assumption;  and ''(B)  provides  that  the  assumption  shall  occur  over the  term  of  the  grant  made  under  this  section,  except that, when mutually agreeable to the tribal governing body and  the  Assistant  Secretary,  the  period  in  which  such assumption  is to occur may  be  modified, reduced, or extended after the initial year of the grant.
+''(B)  provides  that  the  assumption  shall  occur  over the  term  of  the  grant  made  under  this  section,  except that, when mutually agreeable to the tribal governing body and  the  Assistant  Secretary,  the  period  in  which  such assumption  is to occur may  be  modified, reduced, or extended after the initial year of the grant.
 
 ''(f)  TIME PERIOD OF GRANT.-Subject  to  the  availability  of appropriated  funds,  a  grant  provided  under  this  section  shall  be provided  for  a  period  of  3  years.  If  the  performance  of  the  grant recipient is satisfactory to the Secretary, the grant may be renewed for additional 3-year terms.
 
@@ -40656,7 +40648,7 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-relating  to  grants  made  under  section  103(a)  of  the  Indian  SelfDetermination  and  Education  Assistance  Act  that  are  in  effect on the date that the tribal governing body submits the application for  the  grant  under  subsection (b). The Secretary shall not impose any  terms,  conditions,  or  requirements  on  the  provision  of  grants under this section that are not specified in this section.
+relating  to  grants  made  under  section  103(a)  of  the  Indian  Self-Determination  and  Education  Assistance  Act  that  are  in  effect on the date that the tribal governing body submits the application for  the  grant  under  subsection (b). The Secretary shall not impose any  terms,  conditions,  or  requirements  on  the  provision  of  grants under this section that are not specified in this section.
 
 ''(h) AUTHORIZATION OF APPROPRIATIONS.-There are authorized to be appropriated to carry out this section $2,000,000.
 
@@ -40810,7 +40802,7 @@ The  Tribally  Controlled  Schools  Act  of  1988  (25  U.S.C.  2501 et  seq.)  
 
 ###### ''SEC. 5202. DECLARATION OF POLICY.
 
-''(a)  RECOGNITION.-Congress  recognizes  that  the  Indian  SelfDetermination and Education Assistance Act, which was a product of  the  legitimate  aspirations  and  a  recognition  of  the  inherent authority  of  Indian  nations,  was  and  is  a  crucial  positive  step toward  tribal  and  community  control  and  that  the  United  States has  an  obligation  to  assure  maximum  Indian  participation  in  the direction of educational services so as to render the persons administering such services and the services themselves more responsive to the needs and desires of Indian communities.
+''(a)  RECOGNITION.-Congress  recognizes  that  the  Indian  Self-Determination and Education Assistance Act, which was a product of  the  legitimate  aspirations  and  a  recognition  of  the  inherent authority  of  Indian  nations,  was  and  is  a  crucial  positive  step toward  tribal  and  community  control  and  that  the  United  States has  an  obligation  to  assure  maximum  Indian  participation  in  the direction of educational services so as to render the persons administering such services and the services themselves more responsive to the needs and desires of Indian communities.
 
 ''(b)  COMMITMENT.-Congress  declares  its  commitment  to  the maintenance  of  the  Federal  Government's  unique  and  continuing trust  relationship  with  and  responsibility  to  the  Indian  people  for the  education  of  Indian  children  through  the  establishment  of  a meaningful Indian self-determination policy for education that will deter  further  perpetuation  of  Federal  bureaucratic  domination  of programs.
 
@@ -41126,7 +41118,7 @@ Cost  Principles  for  Assistance  Programs  contained  in part 12 of title 43, 
 
 ''(i)  be  deemed  to  have  approved  such  request; and
 
-''(ii)  immediately upon the expiration of such 180day period amend the grant accordingly.
+''(ii)  immediately upon the expiration of such 180-day period amend the grant accordingly.
 
 ''(B)  RIGHTS.-A  tribe  or  organization  described  in subparagraph (A) may enforce its  rights  under  subsection (a)(2)  and  this  paragraph,  including  rights  relating  to  any denial  or  failure  to  act  on  such  tribe's  or  organization's request,  pursuant  to  the  dispute  authority  described  in section 5209(e).
 
@@ -41548,7 +41540,7 @@ of  the  amount  which  the  grantee  was  entitled  to  receive during the prec
 
 ''(b) INVESTMENT OF FUNDS.-
 
-''(1)  TREATMENT OF INTEREST AND INVESTMENT INCOME.Notwithstanding  any  other  provision  of  law,  any  interest  or investment  income  that  accrues  to  any  funds  provided  under this  part  after  such  funds  are  paid  to  the  Indian  tribe  or tribal  organization  and  before  such  funds  are  expended  for the  purpose  for  which  such  funds  were  provided  under  this part shall be the property of the Indian tribe or tribal organization  and  shall  not  be  taken  into  account  by  any  officer  or employee  of  the  Federal  Government  in  determining  whether to  provide  assistance,  or  the  amount  of  assistance,  under  any provision  of  Federal  law.  Such  interest  income  shall  be  spent on behalf of the school.
+''(1)  TREATMENT OF INTEREST AND INVESTMENT INCOME.-Notwithstanding  any  other  provision  of  law,  any  interest  or investment  income  that  accrues  to  any  funds  provided  under this  part  after  such  funds  are  paid  to  the  Indian  tribe  or tribal  organization  and  before  such  funds  are  expended  for the  purpose  for  which  such  funds  were  provided  under  this part shall be the property of the Indian tribe or tribal organization  and  shall  not  be  taken  into  account  by  any  officer  or employee  of  the  Federal  Government  in  determining  whether to  provide  assistance,  or  the  amount  of  assistance,  under  any provision  of  Federal  law.  Such  interest  income  shall  be  spent on behalf of the school.
 
 ''(2)  PERMISSIBLE INVESTMENTS.-Funds  provided  under this part may be invested by the Indian tribe or tribal organization  before  such  funds  are  expended  for  the  purposes  of  this part so long as such funds are-
 
@@ -41732,7 +41724,7 @@ VerDate 11-MAY-2000
 
 ''(B)  for  deposit  into  the  trust  fund,  any  earnings  on funds deposited in the fund; and
 
-''(C)  for  the  sole  use  of  the  school  any  noncash,  inkind contributions of real or personal property, which may at any time be used, sold, or otherwise disposed of.
+''(C)  for  the  sole  use  of  the  school  any  noncash,  in-kind contributions of real or personal property, which may at any time be used, sold, or otherwise disposed of.
 
 ''(b)  INTEREST.-Interest  from  the  fund  established  under  subsection (a) may periodically be withdrawn and used, at the discretion  of  the  school,  to  defray  any  expenses  associated  with  the operation  of  the  school  consistent  with  the  purposes  of  this  Act.
 
@@ -41846,7 +41838,7 @@ PUBLIC LAW 107-110-JAN. 8, 2002
 
 VerDate 11-MAY-2000
 
-20 USC 10211030.
+20 USC 1021-1030.
 
 18:24 Jan 29, 2002
 
@@ -41942,7 +41934,7 @@ VerDate 11-MAY-2000
 
 ''(C) A school or college of arts and sciences (as defined in  section  201(b))  at  an  institution  of  higher  education.
 
-''(D)  A  professional  association,  foundation,  museum, library, for-profit business, public or private nonprofit organization, community-based organization, or other entity,  with  the  capacity  to  contribute  to  the  technologyrelated reform of teacher preparation programs.
+''(D)  A  professional  association,  foundation,  museum, library, for-profit business, public or private nonprofit organization, community-based organization, or other entity,  with  the  capacity  to  contribute  to  the  technology-related reform of teacher preparation programs.
 
 ''(b)  APPLICATION REQUIREMENTS.-In order to receive  a  grant or  enter  into  a  contract  or  cooperative  agreement  under  this  part, an  eligible  applicant  shall  submit  an  application  to  the  Secretary at  such  time,  in  such  manner,  and  containing  such  information as  the  Secretary  may  require.  Such  application  shall  include  the following:
 
@@ -42058,7 +42050,7 @@ VerDate 11-MAY-2000
 
 ''(E)  to  use  technology  to  collect,  manage,  and  analyze data to improve teaching and decisionmaking.
 
-''(2) Developing alternative teacher development paths that provide  elementary  schools  and  secondary  schools  with  wellprepared, technology-proficient educators.
+''(2) Developing alternative teacher development paths that provide  elementary  schools  and  secondary  schools  with  well-prepared, technology-proficient educators.
 
 ''(3)  Developing  achievement-based  standards  and  assessments  aligned  with  the  standards  to  measure  the  capacity of  prospective  teachers  to  use  technology  effectively  in  their classrooms.
 
@@ -42142,7 +42134,7 @@ Jkt 099139
 
 ''(c)  DEVELOPMENT OF LOCAL POLICIES CONCERNING STUDENT PRIVACY, PARENTAL ACCESS TO INFORMATION, AND ADMINISTRATION OF CERTAIN PHYSICAL EXAMINATIONS TO MINORS.-
 
-''(1)  DEVELOPMENT AND ADOPTION OF LOCAL POLICIES.Except as provided in subsections (a) and (b), a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
+''(1)  DEVELOPMENT AND ADOPTION OF LOCAL POLICIES.-Except as provided in subsections (a) and (b), a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
 
 ''(A)(i)  The  right  of  a  parent  of  a  student  to  inspect, upon  the  request  of  the  parent,  a  survey  created  by  a third party before the survey is administered or distributed by a school to a student; and
 
@@ -42202,7 +42194,9 @@ within  a  reasonable  period  of  time  after  the  request  is received.
 
 ''(F)(i)  The  right  of  a  parent  of  a  student  to  inspect, upon  the  request  of  the  parent,  any  instrument  used  in the collection of personal information under subparagraph (E)  before  the  instrument  is  administered  or  distributed to a student; and
 
-''(ii)  any  applicable  procedures  for  granting  a  request by a parent for reasonable access to such instrument within a  reasonable  period  of  time  after  the  request  is  received. ''(2) PARENTAL NOTIFICATION.-
+''(ii)  any  applicable  procedures  for  granting  a  request by a parent for reasonable access to such instrument within a  reasonable  period  of  time  after  the  request  is  received.
+
+''(2) PARENTAL NOTIFICATION.-
 
 ''(A)  NOTIFICATION OF POLICIES.-The  policies  developed  by  a  local  educational  agency  under  paragraph  (1) shall provide for reasonable notice of the adoption or continued use of such policies directly to the parents of students enrolled in schools served by that agency. At a minimum, the agency shall-
 
@@ -42618,7 +42612,7 @@ VerDate 11-MAY-2000
 
 (2) by striking ''(20 U.S.C. 8801)''.
 
-(b)  LEGISLATIVE BRANCH APPROPRIATIONS ACT,  1987.-Section 104(3)(B)(ii)  of  the  Legislative  Branch  Appropriations  Act,  1987 (as  incorporated  by  reference  in  section  101(j)  of  Public  Law  99500  and  Public  Law  99-591)  (2  U.S.C.  117e(3)(B)(ii))  is  amended by striking ''14101'' and inserting ''9101''.
+(b)  LEGISLATIVE BRANCH APPROPRIATIONS ACT,  1987.-Section 104(3)(B)(ii)  of  the  Legislative  Branch  Appropriations  Act,  1987 (as  incorporated  by  reference  in  section  101(j)  of  Public  Law  99-500  and  Public  Law  99-591)  (2  U.S.C.  117e(3)(B)(ii))  is  amended by striking ''14101'' and inserting ''9101''.
 
 (c) NATIONAL AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING POLICY ACT OF 1977.-Section 1417(j)(1)(B) of the National  Agricultural  Research,  Extension,  and  Teaching  Policy Act of 1977 (7 U.S.C. 3152(j)(1)(B)) is amended-
 
@@ -42724,7 +42718,7 @@ Jkt 099139
 
 (o) EDUCATION FLEXIBILITY PARTNERSHIP ACT OF 1999.-Section 3(1) of the Education Flexibility Partnership Act of 1999 (20 U.S.C. 5891a(1))  is  amended  by  striking  ''14101''  and  inserting  ''9101''.
 
-(p)  DISTRICT OF COLUMBIA COLLEGE ACCESS ACT OF 1999.Section  3(c)(5)  of  the  District  of  Columbia  College  Access  Act  of 1999 (Public Law 106-98; 113 Stat. 1323) is amended-
+(p)  DISTRICT OF COLUMBIA COLLEGE ACCESS ACT OF 1999.-Section  3(c)(5)  of  the  District  of  Columbia  College  Access  Act  of 1999 (Public Law 106-98; 113 Stat. 1323) is amended-
 
 (1) by striking ''14101'' and inserting ''9101''; and
 
@@ -42786,13 +42780,13 @@ VerDate 11-MAY-2000
 
 (2) by striking ''(20 U.S.C. 8801)''.
 
-(x)  SAFE DRINKING WATER ACT.-Paragraphs  (3)(A)  and  (6) of  section  1461  of  the  Safe  Drinking  Water  Act  (42  U.S.C.  300j21) are amended by striking ''14101'' and inserting ''9101''.
+(x)  SAFE DRINKING WATER ACT.-Paragraphs  (3)(A)  and  (6) of  section  1461  of  the  Safe  Drinking  Water  Act  (42  U.S.C.  300j-21) are amended by striking ''14101'' and inserting ''9101''.
 
 (y)  CIVIL RIGHTS ACT OF 1964.-Section 606(2)(B) of  the  Civil Rights  Act  of  1964  (42  U.S.C.  2000d-4a(2)(B))  is  amended  by striking ''14101'' and inserting ''9101''.
 
 (z)  AGE DISCRIMINATION ACT OF 1975.-Section  309(4)(B)(ii) of  the  Age  Discrimination  Act  of  1975  (42  U.S.C.  6107(4)(B)(ii)) is amended by striking ''14101'' and inserting ''9101''.
 
-(aa)  HAZARDOUS AND SOLID WASTE AMENDMENTS OF 1989.Section  221(f)(3)(B)(i)  of  the  Hazardous  and  Solid  Waste  Amendments  of  1984  (42  U.S.C.  6921  note)  is  amended  by  striking ''198(a)(7)'' and inserting ''9101''.
+(aa)  HAZARDOUS AND SOLID WASTE AMENDMENTS OF 1989.-Section  221(f)(3)(B)(i)  of  the  Hazardous  and  Solid  Waste  Amendments  of  1984  (42  U.S.C.  6921  note)  is  amended  by  striking ''198(a)(7)'' and inserting ''9101''.
 
 (bb)  ALBERT EINSTEIN DISTINGUISHED EDUCATOR FELLOWSHIP ACT OF 1994.-Paragraphs  (1),  (2),  and  (3)  of  section  514  of  the Albert  Einstein  Distinguished  Educator  Fellowship  Act  of  1994 (42  U.S.C.  7382b)  are  amended  by  striking  ''14101''  and  inserting ''9101''.
 
@@ -42802,7 +42796,7 @@ VerDate 11-MAY-2000
 
 (2) by striking ''(20 U.S.C. 8801)''.
 
-(dd)  STATE DEPENDENT CARE DEVELOPMENT GRANTS ACT.Paragraphs  (6)  and  (11)  of  section  670G  of  the  State  Dependent Care  Development  Grants  Act  (42  U.S.C.  9877)  are  amended  by striking ''14101'' and inserting ''9101''.
+(dd)  STATE DEPENDENT CARE DEVELOPMENT GRANTS ACT.-Paragraphs  (6)  and  (11)  of  section  670G  of  the  State  Dependent Care  Development  Grants  Act  (42  U.S.C.  9877)  are  amended  by striking ''14101'' and inserting ''9101''.
 
 (ee) COMMUNITY SERVICES BLOCK GRANT ACT.-Section 682(b)(4)  of  the  Community  Services  Block  Grant  Act  (42  U.S.C. 9923(b)(4)) is amended-
 
@@ -42856,7 +42850,7 @@ Jkt 099139
 
 (2) by striking ''(20 U.S.C. 8801)''.
 
-(ii)  TRANSPORTATION EQUITY ACT FOR THE 21ST CENTURY.Section 4024 of the Transportation Equity Act for the 21st Century (49 U.S.C. 31136 note) is amended by striking ''14101'' and inserting ''9101''.
+(ii)  TRANSPORTATION EQUITY ACT FOR THE 21ST CENTURY.-Section 4024 of the Transportation Equity Act for the 21st Century (49 U.S.C. 31136 note) is amended by striking ''14101'' and inserting ''9101''.
 
 Approved January 8, 2002.
 
