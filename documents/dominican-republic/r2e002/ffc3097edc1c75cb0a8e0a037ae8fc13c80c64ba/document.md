@@ -1,6 +1,30 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+# Metas Educativas 2021
+
+La educación que queremos
+para la generación de los Bicentenarios
+
+Un compromiso de todos
+
+## Consulta Nacional
+
+Ministerio de Educación
+REPÚBLICA DOMINICANA
+
+Ministerio de Educación Superior,
+Ciencia y Tecnología
+
+MINISTERIO DE CULTURA
+República Dominicana
+
+INFOTEP
+CERTIFICACIÓN ISO 9001:2000
+
+Organização dos Estados Ibero-americanos
+Organización de Estados Iberoamericanos
+
+Editorial Santillana
 
 [[END OF PAGE 1]]
 
@@ -10,6 +34,65 @@ Metas Educativas 2021
 
 # Índice
 
+Presentación ................................................................ 4
+
+1. Alfabetización y Educación Básica
+de Personas Jóvenes y Adultas ........................................... 7
+
+Una mirada a la visión de la educación
+de personas jóvenes y adultas ............................................ 7
+
+El contexto nacional ..................................................... 11
+
+Articulación de las Metas 2021 con las “Metas nacionales del Plan Decenal
+de Educación 2008-2018” ................................................ 23
+
+Líneas de proyectos a ejecutar por la Dirección General
+de Educación de Adultos Metas 20021 OEI ............................... 26
+
+2. Lectura y bibliotecas escolares: La cultura escrita .................. 31
+
+La cultura escrita ...................................................... 31
+
+La cultura escrita en la República Dominicana .......................... 36
+
+Metas propuestas ........................................................ 47
+
+Perfiles de proyectos ................................................... 55
+
+3. Educación artística, cultura y ciudadanía ............................ 63
+
+Conceptos relacionados con la Educación Artística
+en la República Dominicana .............................................. 64
+
+Contextualización ........................................................ 66
+
+Otras instituciones descentralizadas, entidades y organizaciones
+vinculadas a la sociedad civil .......................................... 80
+
+Metas Propuestas ......................................................... 82
+
+4. Retos actuales de la Educación Técnico-Profesional ................... 89
+
+Marco conceptual de la Educación y la Formación Técnico-Profesional ..... 89
+
+Las Metas Educativas 2021 en el subsector
+de la Educación/Formación para el trabajo (EPT) .......................... 99
+
+Metas Educativas 2021 ................................................... 106
+
+5. La evaluación educativa en la República Dominicana .................. 111
+
+La evaluación educativa en la República Dominicana ..................... 111
+
+La evaluación de la calidad de la educación ............................. 113
+
+Metas 2021 y Plan de la Educación Dominicana ............................ 116
+
+Definición de las metas específicas, indicadores y niveles de logro ..... 128
+
+Perfiles de Proyectos vinculados con programas de acción compartida ..... 131
+
 2
 
 [[END OF PAGE 2]]
@@ -17,6 +100,61 @@ Metas Educativas 2021
 [[START OF PAGE 3]]
 
 Índice
+
+6. La primera infancia en la República Dominicana ....................... 133
+
+Contextuación de la primera infancia en Republica Dominicana ............ 133
+
+Atención a la primera infancia en República Dominicana .................. 137
+
+Conceptuaciones básica de primera infancia ............................... 140
+
+Modalidades de atención y educación en la primera infancia .............. 141
+
+El enfoque pedagógico asumido para la Educación Inicial ................. 142
+
+Articulación de las metas educativas generales 2021 con los planes
+educativos nacionales: plan decenal de educación 2008-2018
+y plan estratégico de la gestión educativa 2008-2012 .................... 144
+
+7. Fortalecimiento de la profesión docente: concepto,
+contexto y propuestas .................................................... 151
+
+Introducción ............................................................. 151
+
+La profesionalización docente ........................................... 152
+
+El contexto: desarrollo de la formación docente
+en la República Dominicana .............................................. 157
+
+Perfiles de proyectos ................................................... 160
+
+8. Calidad y equidad de la educación ..................................... 169
+
+La calidad y equidad en educación ........................................ 169
+
+Contextualización nacional de la temática de calidad
+y equidad en educación ................................................... 174
+
+Articulación con las Metas Generales.
+Concreción a las metas específicas y de los niveles de logro ............ 184
+
+Perfiles de los proyectos vinculados con los programas
+de acción compartidos .................................................... 186
+
+9. Las TIC en la República Dominicana ................................... 189
+
+Contextualizando la ciencia, la tecnología y las TIC
+en la República Dominicana .............................................. 189
+
+El Plan Decenal de Educación 2008-2018
+y su relación con las Metas 2021 ......................................... 209
+
+Las TIC en el contexto del Plan Decenal
+de Educación Superior 2008-20018 y su relación con las Metas 2021 ....... 216
+
+Metas 2021 y el Plan Estratégico de Ciencia,
+Tecnología e Innovación 2008-2018 (PECYT+I) .............................. 219
 
 3
 
@@ -52,7 +190,7 @@ Para la realización del trabajo, los coordinadores consensuaron un esquema para
 
 El documento que presentamos, pues, es una recopilación de los trabajos de las Mesas Consultivas. Con el fin de dar una mayor coherencia a las opiniones expresadas en cada una de las Mesas, todos los capítulos mantienen la misma estructura interna. Una primera parte que corresponde a la conceptualización de la temática y su contextualización en el país y una segunda parte sobre las Metas y los Perfiles de Proyectos.
 
-Los trabajos presentados, aunque parten de una diversidad de temáticas, muestran una visión compartida y una necesidad de articulación. Una propuesta innovadora de las Mesas Consultivas han sido los perfiles de Proyectos vinculados a los Programas de Acción Compartidos. El aporte de las Mesas Consultivas a la concreción de las Metas se expresa en la definición de 34 metas específicas y 55 indicadores, ampliándose así, las metas e indicadores propuestos en el documento para el Debate.
+Los trabajos presentados, aunque parten de una diversidad de temáticas, muestran una visión compartida y una necesidad de articulación. Una propuesta innovadora de las Mesas Consultivas han sido los perfiles de Proyectos vinculados a los Programas de Acción Comparti-
 
 5
 
@@ -62,7 +200,9 @@ Los trabajos presentados, aunque parten de una diversidad de temáticas, muestra
 
 Metas Educativas 2021
 
-Finalmente, queremos agradecer a todos los integrantes de las Mesas Consultivas, que hicieron un alto en sus agendas para incorporarse al DEBATE. Nuestro agradecimiento especial a Melanio Paredes, Ministro de Educación, Ligia A. Melo de Cardona, Ministra de Educación Superior, Ciencia y Tecnología y Josefina Pimentel, Directora del Instituto de Formación Técnico-Profesional, por su apoyo, participación y compromiso de acoger las propuestas emanadas de estas Mesas; así como a la Editorial Santillana, en las personas de su Gerente General  Pedro  Ayuso  y  de  su  Directora  Editorial  Obdulia  García, quienes han apoyado esta iniciativa desde sus inicios.
+dos. El aporte de las Mesas Consultivas a la concreción de las Metas se expresa en la definición de 34 metas específicas y 55 indicadores, ampliándose así, las metas e indicadores propuestos en el documento para el Debate.
+
+Finalmente, queremos agradecer a todos los integrantes de las Mesas Consultivas, que hicieron un alto en sus agendas para incorporarse al DEBATE. Nuestro agradecimiento especial a Melanio Paredes, Ministro de Educación, Ligia A. Melo de Cardona, Ministra de Educación Superior, Ciencia y Tecnología y Josefina Pimentel, Directora del Instituto de Formación Técnico-Profesional, por su apoyo, participación y compromiso de acoger las propuestas emanadas de estas Mesas; así como a la Editorial Santillana, en las personas de su Gerente General Pedro Ayuso y de su Directora Editorial Obdulia García, quienes han apoyado esta iniciativa desde sus inicios.
 
 Estamos seguros que este aporte de la comunidad educativa, de entidades vinculadas al sector Educación y de la sociedad civil dominicana, servirá para enriquecer las metas inicialmente propuestas y será acogido en el Documento País que recoge las Metas e Indicadores que finalmente serán aprobados en la XX Cumbre de Jefes de Estado y de Gobierno de Iberoamérica.
 
@@ -82,7 +222,7 @@ Hoy, en pleno siglo XXI, la apuesta por la educación de personas jóvenes y adu
 
 Hay que reconocer que aunque son millones los que en la región de América Latina y el Caribe no han tenido acceso a la cultura letrada, en los últimos años ha habido un impulso significativo a partir de las diversas iniciativas locales generadas en los países de la región, y también a partir de las redes de solidaridad internacional gestadas entre los Estados, la cooperación internacional y los diferentes estamentos sociales organizados como sociedad civil.
 
-Hay consenso sobre la importancia del aprendizaje y de la educación de personas jóvenes y adultas (EDPJA) para la superación de la pobreza y para abordar la crisis mundial alimentaria, energética, ambiental y financiera… que afecta a la humanidad para construir sociedades equitativas tolerantes, sostenibles y basadas en el conocimiento. De ahí que la igualdad de oportunidades debe ser una respuesta de urgencia en la reorientación de la educación y del aprendizaje de la indicada población. La violencia silenciosa de la desigualdad económica, social y cultural es inaceptable y una vergüenza ética, razón por la cual los gobiernos de la región están llamados a actuar antes de que sea tarde. No hay que esperar las grandes tragedias para responder a las necesidades de los más pobres.
+Hay consenso sobre la importancia del aprendizaje y de la educación de personas jóvenes y adultas (EDPJA) para la superación de la pobreza y para abordar la crisis mundial alimentaria, energética, am-
 
 7
 
@@ -92,11 +232,13 @@ Hay consenso sobre la importancia del aprendizaje y de la educación de personas
 
 Metas Educativas 2021
 
-Las  personas  analfabetas  y  todos  aquellos  jóvenes  y  adultos  y adultas que no han completado una educación básica común, y de calidad, que garantice su desarrollo personal, social y su inserción laboral, constituyen el más evidente testimonio de la situación de inequidad existente en nuestra región y pone de manifiesto la deuda social que tienen los poderes públicos y el resto de la sociedad con una parte importante de ella. Por ello, las personas jóvenes y adultas, excluidas del sistema educativo, que no se han alfabetizado o no han concluido un nivel de escolaridad correspondiente al Nivel Básico o su equivalente, son sujetos prioritarios para el ejercicio del derecho a la educación, por tratarse de una población que es un puntal fundamental para el desarrollo nacional del presente.
+biental y financiera… que afecta a la humanidad para construir sociedades equitativas tolerantes, sostenibles y basadas en el conocimiento. De ahí que la igualdad de oportunidades debe ser una respuesta de urgencia en la reorientación de la educación y del aprendizaje de la indicada población. La violencia silenciosa de la desigualdad económica, social y cultural es inaceptable y una vergüenza ética, razón por la cual los gobiernos de la región están llamados a actuar antes de que sea tarde. No hay que esperar las grandes tragedias para responder a las necesidades de los más pobres.
+
+Las personas analfabetas y todos aquellos jóvenes y adultos y adultas que no han completado una educación básica común, y de calidad, que garantice su desarrollo personal, social y su inserción laboral, constituyen el más evidente testimonio de la situación de inequidad existente en nuestra región y pone de manifiesto la deuda social que tienen los poderes públicos y el resto de la sociedad con una parte importante de ella. Por ello, las personas jóvenes y adultas, excluidas del sistema educativo, que no se han alfabetizado o no han concluido un nivel de escolaridad correspondiente al Nivel Básico o su equivalente, son sujetos prioritarios para el ejercicio del derecho a la educación, por tratarse de una población que es un puntal fundamental para el desarrollo nacional del presente.
 
 En la República Dominicana, se tiene plena claridad de que hay que  superar  la  continuada  desvinculación  del  analfabetismo  de  sus condiciones estructurales de reproducción, principalmente de la pobreza y de la negación del derecho a una educación pública gratuita y de calidad para toda la población al margen de la edad, derecho y calidad sin los cuales es impensable resolver de manera sustentable la problemática del analfabetismo, la exclusión y la pobreza.
 
-El país ha venido participando ampliamente en el proceso de debate que en los últimos 15 años se ha generado en la región y en el ámbito internacional, y ha ido reconociendo y asumiendo la educación de personas jóvenes y adultas como un factor prioritario de igualdad educativa y desarrollo humano. En el marco de los compromisos de la Conferencia de Educación Para Todos (EPT) celebrada en Dakar (2000), particularmente en los objetivos 3 y 4 de Educación Para Todos (EPT) concernientes al aprendizaje de personas jóvenes y adultas, se reconoce el compromiso de promover un aprendizaje para todos como un derecho durante toda la vida así como con una educación de calidad. Estos compromisos han sido consignados en el marco jurídico de la educación dominicana, en la Ley general de Educación 66/97, en las normativas posteriores, en la diversidad de iniciativas que se han desarrollado en alfabetización, en Educación Básica y Media así como en los últimos planes decenales formulados, particularmente en el Plan 2008/2018 .
+El país ha venido participando ampliamente en el proceso de debate que en los últimos 15 años se ha generado en la región y en el ámbito internacional, y ha ido reconociendo y asumiendo la educación de personas jóvenes y adultas como un factor prioritario de igualdad educativa y desarrollo humano. En el marco de los compromisos de la Conferencia de Educación Para Todos (EPT) celebrada en Dakar (2000), particularmente en los objetivos 3 y 4 de Educación Para Todos (EPT) concernientes al aprendizaje de personas jóvenes y adultas,
 
 8
 
@@ -106,7 +248,9 @@ El país ha venido participando ampliamente en el proceso de debate que en los �
 
 Alfabetización y Educación Básica de Personas Jóvenes y Adultas
 
-El referente mínimo de la EDPJA es la educación básica teniendo en cuenta el nivel de desarrollo de la información, el conocimiento de la sociedad actual y las expectativas para el año 2021. Bajo esta perspectiva, la alfabetización es el punto de partida para avanzar en el acceso a la educación, entendiendo que esta y la Educación Básica no están una a continuación de la otra, sino que la primera es el eslabón inicial y fundamental para avanzar hacia un acceso sostenido y de calidad de los participantes en los procesos correspondientes, como dice  Rivero,  'visualizarlas  separadas  trae  como  consecuencia  problemas de abordaje y de planificación' (Rivero, 2009).
+se reconoce el compromiso de promover un aprendizaje para todos como un derecho durante toda la vida así como con una educación de calidad. Estos compromisos han sido consignados en el marco jurídico de la educación dominicana, en la Ley general de Educación 66/97, en las normativas posteriores, en la diversidad de iniciativas que se han desarrollado en alfabetización, en Educación Básica y Media así como en los últimos planes decenales formulados, particularmente en el Plan 2008/2018.
+
+El referente mínimo de la EDPJA es la educación básica teniendo en cuenta el nivel de desarrollo de la información, el conocimiento de la sociedad actual y las expectativas para el año 2021. Bajo esta perspectiva, la alfabetización es el punto de partida para avanzar en el acceso a la educación, entendiendo que esta y la Educación Básica no están una a continuación de la otra, sino que la primera es el eslabón inicial y fundamental para avanzar hacia un acceso sostenido y de calidad de los participantes en los procesos correspondientes, como dice Rivero, “visualizarlas separadas trae como consecuencia problemas de abordaje y de planificación” (Rivero, 2009).
 
 Todo lo expuesto representa la visión de la EDPJA de la cual se parte en este documento, para la formulación de los proyectos que aquí se proponen. Dicha visión es coincidente con los planteamientos de las Metas 2021 para alfabetización y EDPJA formuladas por la OEI.
 
@@ -114,7 +258,7 @@ Todo lo expuesto representa la visión de la EDPJA de la cual se parte en este d
 
 La alfabetización y la Educación Básica, en la actual sociedad de la información y el conocimiento, son requisitos indispensables para lograr la integración de la población joven y adulta en los procesos que supone la creación de capacidades para el ejercicio de ciudadanía. También son una herramienta eficaz para promover la autonomía de las personas y para propiciar la participación en todos los órdenes de la vida personal y social. En la declaración del Día Internacional de la Alfabetización del año 2009, establece: que 'es hora de que el derecho a la educación de todas las personas cualquiera que sea su edad, se haga realidad.'
 
-Por otra parte, se considera imprescindible abordar la alfabetización de personas jóvenes y adultas desde una perspectiva integral que incluya la educación básica de niños y niñas. En efecto, el término alfabetización no tiene edad, ya que se aplica por igual a niños y a personas adultas. La propia UNESCO abogó siempre por la alfabetización a dos puntas, es decir, al mismo tiempo con los niños y con las personas adultas, de modo que hoy se destaca la necesidad de 'volver a juntar lo que jamás debió separarse: la educación de los niños; la que se hace en la familia (padres/ madres,…); la educación formal y la que tiene lugar en la comunidad' a través de sus diferentes instancias.
+Por otra parte, se considera imprescindible abordar la alfabetización de personas jóvenes y adultas desde una perspectiva integral que
 
 9
 
@@ -123,6 +267,8 @@ Por otra parte, se considera imprescindible abordar la alfabetización de person
 [[START OF PAGE 10]]
 
 Metas Educativas 2021
+
+incluya la educación básica de niños y niñas. En efecto, el término alfabetización no tiene edad, ya que se aplica por igual a niños y a personas adultas. La propia UNESCO abogó siempre por la alfabetización a dos puntas, es decir, al mismo tiempo con los niños y con las personas adultas, de modo que hoy se destaca la necesidad de “volver a juntar lo que jamás debió separarse: la educación de los niños; la que se hace en la familia (padres/ madres,…); la educación formal y la que tiene lugar en la comunidad” a través de sus diferentes instancias.
 
 En este contexto, el analfabetismo y la alfabetización son dos procesos que se complementan y adquieren identidades propias en la medida en que se entiende que el primer término es un problema socioeducativo y el segundo una práctica social orientada a proveer de resignificado comunicativo y expresivo a los sujetos que participan en dicho proceso. De ahí que la alfabetización sea una herramienta prioritaria que facilita a las personas jóvenes y adultas, no solo el acceso a los códigos de la cultura letrada, sino también y fundamentalmente, a una integración crítica a la sociedad. El ejercicio de un derecho fundamental como es la educación, les sirve de base para el ejercicio de otros derechos ciudadanos como son el derecho a la salud, a un trabajo decente, entre otros.
 
@@ -164,14 +310,19 @@ Sin insistir en la importancia de la educación como factor de desarrollo de los
 
 Metas Educativas 2021
 
-En la República Dominicana, de acuedo con el censo del 2002, la población  general  era  de 8,562,541  habitantes,  de  los  cuales 4,265,000 son hombres y 4,297,000 son mujeres . La población urbano  5,446,704.  y  la  rural  3,115,837.  El  Censo  2002  reporta  que 762,000 jóvenes de 15 a 19 años, 'no han finalizado la educación básica, lo que constituye el 33% de la población y 913,000 jóvenes entre 20 y 29 años (62%) no han concluido su educación media.'
+En la República Dominicana, de acuerdo con el censo del 2002, la población general era de 8,562,541 habitantes, de los cuales 4,265,000 son hombres y 4,297,000 son mujeres. La población urbano 5,446,704. y la rural 3,115,837. El Censo 2002 reporta que 762,000 jóvenes de 15 a 19 años, “no han finalizado la educación básica, lo que constituye el 33% de la población y 913,000 jóvenes entre 20 y 29 años (62%) no han concluido su educación media.”
 
 El cuadro siguiente da cuenta de cómo se distribuye la población analfabeta según grupos de edad en el año 2007. Se puede apreciar un porcentaje significativo de población joven, aunque la mayor concentración está ubicada en los mayores de sesenta y cinco años.
 
-República Dominicana Total absoluto y distribución porcentual de la población de 15 y más años, por condición de alfabetismo, según grupos de edad. ENIGH 2007 Condición de alfabetismo
+República Dominicana
+Total absoluto y distribución porcentual de la población de 15 y más años,
+por condición de alfabetismo, según grupos de edad. ENIGH 2007
+
+Condición de alfabetismo
+
+Grupos quinquenales de edad | Total |  | Sabe leer y escribir |  | No sabe leer y escribir |
+ | Absoluto | Relativo | Absoluto | Relativo | Absoluto | Relativo
 --- | --- | --- | --- | --- | --- | ---
-Grupos | Total | Sabe leer y escribir | No | sabe
-quinquenales de edad | Absoluto | Relativo | Absoluto | Relativo | Absoluto | Relativo y escribir
 Total | 6,292,785 | 100.0 | 5,572,826 | 88.6 | 719,959 | 11.4
 15 - 24 | 1,830,571 | 100.0 | 1,761,511 | 96.2 | 69,060 | 3.8
 25 - 34 | 1,386,258 | 100.0 | 1,277,219 | 92.1 | 109,039 | 7.9
@@ -182,7 +333,7 @@ Total | 6,292,785 | 100.0 | 5,572,826 | 88.6 | 719,959 | 11.4
 75 - 84 | 187,254 | 100.0 | 119,038 | 63.6 | 68,216 | 36.4
 85 y más años | 73,760 | 100.0 | 38,921 | 52.8 | 34,839 | 47.2
 
-Contribuyen a generar personas analfabetas, entre otros factores, la extrema pobreza, la inequidad social, la baja calidad de la educación, causante esta última de los índices de repitencia: 6.9%, y de deserción escolar: 3.3%, ambos de educación básica (Dpto. de Indicadores e Investigación, Ministerio de Educación (ME) 2008-09); el trabajo infantil y el embarazo en las adolescentes. Dicho embarazo asciende al 23%, del cual el 64% se da en adolescentes analfabetas (ENDESA 2007). Esta población se convierte en el potencial de la EDPJA. 'Ahí se gestan los tipos del analfabetismo,' como decía Emilia Ferreira.
+Contribuyen a generar personas analfabetas, entre otros factores, la extrema pobreza, la inequidad social, la baja calidad de la educación, causante esta última de los índices de repitencia: 6.9%, y de deserción escolar: 3.3%, ambos de educación básica (Dpto. de Indicadores e Investigación, Ministerio de Educación (ME) 2008-09); el trabajo infantil y el embarazo en las adolescentes. Dicho embarazo asciende al 23%, del cual el 64% se da en adolescentes analfabetas (ENDESA 2007). Es-
 
 12
 
@@ -191,6 +342,8 @@ Contribuyen a generar personas analfabetas, entre otros factores, la extrema pob
 [[START OF PAGE 13]]
 
 Alfabetización y Educación Básica de Personas Jóvenes y Adultas
+
+ta población se convierte en el potencial de la EDPJA. “Ahí se gestan los tipos del analfabetismo,” como decía Emilia Ferreira.
 
 Los mapas siguientes muestran los Índices de pobreza según la Oficina Nacional de Planificación (ONAPLAN) y la Tasa de analfabetismo por provincia según el censo de 2002.
 
@@ -214,7 +367,7 @@ Se indica en el referido informe que según ENDESA 2007, la mediana  de  escolar
 
 Aunque hay significativas diferencias entre las provincias, por zona de residencia y por estrato socioeconómico, según la Encuesta Nacional de Fuerza de Trabajo se registra un aumento paulatino en el nivel de escolaridad promedio en la población de 15 años y más, y una disminución del analfabetismo. 'La escolaridad de las personas con 15  años  o  más  ha  aumentado  de  7.3  a  8.1  años  entre  el  2000  y  el 2007,' aumento limitado si se compara el ritmo de exigencia de la sociedad actual.
 
-El nivel de escolaridad de las personas jóvenes ha aumentado. Según la Encuesta de Fuerza de Trabajo, una persona de 18 años tenía una escolaridad promedio de 8.4 años en el 2000, nivel que aumenta en el 2007 a 8.9 años a la vez que la distancia entre los niveles rural y urbano se reduce: una persona joven que vivía en la zona rural tenía una escolaridad de un 28% menor a la escolaridad urbana al inicio de la década, sin embargo, en el 2007 era apenas de un 10%.
+El nivel de escolaridad de las personas jóvenes ha aumentado. Según la Encuesta de Fuerza de Trabajo, una persona de 18 años tenía una escolaridad promedio de 8.4 años en el 2000, nivel que aumenta en el 2007 a 8.9 años a la vez que la distancia entre los niveles rural y
 
 14
 
@@ -224,7 +377,9 @@ El nivel de escolaridad de las personas jóvenes ha aumentado. Según la Encuest
 
 Alfabetización y Educación Básica de Personas Jóvenes y Adultas
 
-Si bien la Encuesta citada no fue una investigación del campo específico de la EDPJA, es importante señalar los hallazgos de investigaciones cualitativas citadas en el informe del PNUD, realizadas en comunidades rurales y en sectores urbano marginales, las cuales señalan que 'los padres, las madres y los estudiantes ven la educación como un factor de progreso social y económico y valoran la oportunidad de educarse'. También precisa que "la educación es vista como una manera de acceder a un trabajo estable con menor nivel de precariedad, que permite asegurar un mayor bienestar a la familia. En el caso de las zonas rurales, la educación es vista como una manera de salir del campo y de no depender de la agricultura para la subsistencia'. Se destaca, según los resultados de los citados estudios, que 'la educación no representa generalmente en la percepción de la población, una herramienta para lograr una mayor eficiencia de las tareas agrícolas, sino que implica el desarrollo de carreras profesionales'. Por otro lado, 'los estudios dan cuenta de la existencia de grupos de personas jóvenes y adultas comprometidas con sus comunidades y dispuestos a trabajar para el desarrollo de las mismas".
+urbano se reduce: una persona joven que vivía en la zona rural tenía una escolaridad de un 28% menor a la escolaridad urbana al inicio de la década, sin embargo, en el 2007 era apenas de un 10%.
+
+Si bien la Encuesta citada no fue una investigación del campo específico de la EDPJA, es importante señalar los hallazgos de investigaciones cualitativas citadas en el informe del PNUD, realizadas en comunidades rurales y en sectores urbano marginales, las cuales señalan que “los padres, las madres y los estudiantes ven la educación como un factor de progreso social y económico y valoran la oportunidad de educarse”. También precisa que “la educación es vista como una manera de acceder a un trabajo estable con menor nivel de precariedad, que permite asegurar un mayor bienestar a la familia. En el caso de las zonas rurales, la educación es vista como una manera de salir del campo y de no depender de la agricultura para la subsistencia”. Se destaca, según los resultados de los citados estudios, que “la educación no representa generalmente en la percepción de la población, una herramienta para lograr una mayor eficiencia de las tareas agrícolas, sino que implica el desarrollo de carreras profesionales”. Por otro lado, “los estudios dan cuenta de la existencia de grupos de personas jóvenes y adultas comprometidas con sus comunidades y dispuestos a trabajar para el desarrollo de las mismas”.
 
 Dichas  investigaciones  plantean,  además,  que  no  se  desarrollan competencias relacionadas con la formación para la vida y la formación para el trabajo. Si bien la formación laboral implica una capacitación en ciertas habilidades específicas y que son de responsabilidad de las instituciones educativas que tienen ese objetivo, también existe un conjunto de competencias generales que son fundamentales para una adecuada inserción en el mercado laboral actual. Estas competencias generales son las que permiten al joven participante desenvolverse  adecuadamente  en  los  diferentes  ámbitos  laborales,  trabajar cooperativamente en grupo, tener buenas relaciones humanas, tomar decisiones, solucionar problemas utilizando creativamente los conocimientos,  plantear  objetivos  y  planificar  acciones  para  lograrlos, adaptarse a contextos cambiantes, evaluar sus necesidades de información y formación y buscar las estrategias para dar respuesta a esas necesidades.
 
@@ -242,7 +397,7 @@ Estas competencias son las competencias que se vinculan con aprender a aprender,
 
 El gobierno y la sociedad civil, por su parte, según estudios hechos en los últimos años (Camilo, 2008) han desarrollado novedosas iniciativas en alfabetización de personas jóvenes y adultas. A nivel gubernamental, se pueden destacar, por orden cronológico, las experiencias siguientes:
 
-- Programa de Alfabetización y Educación Básica (PRALEB) 19942004
+- Programa de Alfabetización y Educación Básica (PRALEB) 1994-2004
 
 - Jornada Nacional de Alfabetización (JNA), 1997-2000
 
@@ -258,7 +413,7 @@ Hay que destacar igualmente, las iniciativas que se han llevado a cabo con apoyo
 
 Estas últimas vienen desarrollando procesos y proyectos de alfabetización en todo el país, especialmente en el marco de la educación popular, donde se han involucrado ONGs, Iglesias, medios de comunicación, universidades, empresas,…
 
-A lo  largo  de  todas  estas  experiencias  se  han  ido  produciendo avances en el campo de la EDPJA. Estos avances están asociados a los esfuerzos combinados entre el ME y la sociedad civil, una estrategia de trabajo en alianza dirigida a promover la construcción y el fortalecimiento de un espacio amplio y plural de coordinación y cooperación entre los diferentes sectores de la sociedad dominicana, que en los últimos quince años han asumido el compromiso ciudadano de contribuir de manera sostenida, aunque en condiciones muy precarias, a reducir el actual índice de analfabetismo.
+A lo largo de todas estas experiencias se han ido produciendo avances en el campo de la EDPJA. Estos avances están asociados a los esfuerzos combinados entre el ME y la sociedad civil, una estrategia de trabajo en alianza dirigida a promover la construcción y el fortale-
 
 16
 
@@ -268,13 +423,15 @@ A lo  largo  de  todas  estas  experiencias  se  han  ido  produciendo avances e
 
 Alfabetización y Educación Básica de Personas Jóvenes y Adultas
 
-En efecto, la articulación entre el ME y la sociedad civil se ha expresado ampliamente desde 1997 y se ha ampliado en el marco de la Red Nacional de Alfabetización (Informe CONFINTEAVI, 2008), haciéndose concreta a través de diferentes estrategias tales como: acuerdos  interinstitucionales,  incentivos  para  facilitadores  y  facilitadoras, capacitación, entrega de libros de textos, etc. En la actualidad se plantea como desafío la necesidad de fortalecer y ampliar esta alianza, para las tareas de alfabetización en particular, propiciando la creación de un espacio autogestionario que trascienda las coyunturas gubernamentales y se asuma en el marco de un proyecto de país que contribuya de manera  autosostenida  con  la  superación  del  analfabetismo  y  la  elevación del nivel educativo de la población joven y adulta.
+cimiento de un espacio amplio y plural de coordinación y cooperación entre los diferentes sectores de la sociedad dominicana, que en los últimos quince años han asumido el compromiso ciudadano de contribuir de manera sostenida, aunque en condiciones muy precarias, a reducir el actual índice de analfabetismo.
+
+En efecto, la articulación entre el ME y la sociedad civil se ha expresado ampliamente desde 1997 y se ha ampliado en el marco de la Red Nacional de Alfabetización (Informe CONFINTEA VI, 2008), haciéndose concreta a través de diferentes estrategias tales como: acuerdos interinstitucionales, incentivos para facilitadores y facilitadoras, capacitación, entrega de libros de textos, etc. En la actualidad se plantea como desafío la necesidad de fortalecer y ampliar esta alianza, para las tareas de alfabetización en particular, propiciando la creación de un espacio autogestionario que trascienda las coyunturas gubernamentales y se asuma en el marco de un proyecto de país que contribuya de manera autosostenida con la superación del analfabetismo y la elevación del nivel educativo de la población joven y adulta.
 
 En Educación Básica de personas jóvenes y adultas, también se ha ido realizando un proceso de reorganización acorde con la visión del currículum que se ha ido construyendo, flexible, abierta, que responda a las condiciones y necesidades de la población participante. En ese orden se ha introducido la semipresencialidad como estrategia de organización y desarrollo, la cual responde a una estructura modular que precisa de los textos adecuados a ese tipo de organización. En la actualidad el énfasis está puesto en la revisión del currículum de Educación Básica, que es el único definido para la población de referencia.
 
 ### 2.3 Docentes y facilitadores formados, garantía de calidad en los procesos de EDPJA
 
-El Ministerio de Educación y sus organismos especializados, como la Dirección General de Educación de Adultos (DGEA) y el Instituto  Nacional  de  Formación  y  Capacitación  Magisterial  (INAFOCAM) reconocen  la  necesidad  de  formar  formadores,  docentes  de EDPJA, así como a los alfabetizadores. En general, la formación del personal de la EDPJA en el país no ha sido una prioridad, limitada fundamentalmente, por falta de recursos para formar de manera especializada este personal. Es, por tanto, indispensable una mayor inversión de recursos técnicos y financieros para responder al impostergable desafío de formar docentes para trabajar con poblaciones de jóvenes y adultos, que sin duda representan los más pobres del país.
+El Ministerio de Educación y sus organismos especializados, como la Dirección General de Educación de Adultos (DGEA) y el Instituto Nacional de Formación y Capacitación Magisterial (INAFOCAM) reconocen la necesidad de formar formadores, docentes de EDPJA, así como a los alfabetizadores. En general, la formación del personal de la EDPJA en el país no ha sido una prioridad, limitada fundamentalmente, por falta de recursos para formar de manera espe-
 
 17
 
@@ -284,7 +441,9 @@ El Ministerio de Educación y sus organismos especializados, como la Dirección 
 
 Metas Educativas 2021
 
-Según información suministrada por el Departamento de Estadísticas  del  ME,  hay  una  población  de  4,791  docentes  de  los  cuales 4,077son del sector público, 524 privados y 190 semioficiales. De los oficiales, 2,470 son del programa PREPARA (Camilo, 2008).
+cializada este personal. Es, por tanto, indispensable una mayor inversión de recursos técnicos y financieros para responder al impostergable desafío de formar docentes para trabajar con poblaciones de jóvenes y adultos, que sin duda representan los más pobres del país.
+
+Según información suministrada por el Departamento de Estadísticas del ME, hay una población de 4,791 docentes de los cuales 4,077 son del sector público, 524 privados y 190 semioficiales. De los oficiales, 2,470 son del programa PREPARA (Camilo, 2008).
 
 En  cuanto  a  la  formación  de  alfabetizadores,  existe  el  reto  de avanzar en el diseño de un modelo que aporte a una sólida formación de los mismos, superando las prácticas de "entrenamiento" que caracterizan la capacitación que se realiza hasta el presente: al vapor, masiva, sin profundización y sin seguimiento de los procesos que se desarrollan en esta primera etapa fundamental, de la Educación Básica.
 
@@ -292,7 +451,7 @@ Hay que resaltar, sin embargo, que en los últimos cinco años se cuenta con una
 
 En la actual coyuntura se cuenta con la posibilidad de facilitar espacios de formación a nivel de diplomados con recursos provenientes del Banco Mundial, tanto para docentes de Educación Básica de adultos, como para docentes del Nivel Medio, del Programa PREPARA.
 
-En las instituciones no gubernamentales o de la sociedad civil se desarrollan múltiples experiencias de formación de facilitadores, aunque un tanto dispersas. Un desafío de cara al futuro para responder a la necesidad de formación, es la sistematización de las experiencias existentes tanto gubernamentales como no gubernamentales. También es importante hacer un levantamiento de la situación de la formación de los docentes de EDPJA participantes en los programas que desarrolla el ME.
+En las instituciones no gubernamentales o de la sociedad civil se desarrollan múltiples experiencias de formación de facilitadores, aunque un tanto dispersas. Un desafío de cara al futuro para responder a la necesidad de formación, es la sistematización de las experiencias
 
 18
 
@@ -302,6 +461,8 @@ En las instituciones no gubernamentales o de la sociedad civil se desarrollan m�
 
 Alfabetización y Educación Básica de Personas Jóvenes y Adultas
 
+existentes tanto gubernamentales como no gubernamentales. También es importante hacer un levantamiento de la situación de la formación de los docentes de EDPJA participantes en los programas que desarrolla el ME.
+
 ### 2.4 Investigación y producción bibliográfica en EDPJA
 
 'Sin duda que la mayor riqueza documental se encuentra a nivel gubernamental, en el Ministerio de Educación, en la Dirección General de Educación de Adultos, DGEA. Se ha ido desarrollando, aunque de manera incipiente, la práctica de documentar las acciones que se realizan. La participación de la DGEA en espacios internacionales ha facilitado la organización la información, a producir documentos que dan cuenta de lo que se ha ido avanzando en la práctica y en las definiciones de políticas. Hay una amplia producción de textos para el Nivel Básico, incluida la Alfabetización y para el Nivel Medio de EDPJA' (Camilo, 2008).
@@ -310,7 +471,7 @@ La producción en el marco de los programas PRALEB y PREPARA, por un lado, y en 
 
 En la sociedad civil hay una rica producción a nivel temático. Esta producción se enmarca en una línea de educación crítica y de formación  para  la  ciudadanía.  Se  destacan  temas  tales  como:  género, participación ciudadana, educación y justicia, identidad cultural, educación política, salud, educación laboral, entre otros. Son producciones que se realizan en paralelo, por lo que no se aprovecha el potencial  que una y otro pueden aportar. La sociedad civil podría ser un buen soporte para el ME en la formación en valores: Educación para la vida y ciudadanía, entre otros.
 
-Anivel internacional hay una gran riqueza bibliográfica en EDPJA, la cual sirve de referencia.
+A nivel internacional hay una gran riqueza bibliográfica en EDPJA, la cual sirve de referencia.
 
 19
 
@@ -328,7 +489,7 @@ La Ley general de educación establece en su artículo 197 que a partir del año
 
 El presupuesto de la Dirección General de Educación de Adultos para el 2008 fue de US$ 7,519,656.70, lo cual representa el 2.72% del presupuesto general de Educación (Informe CONFINTEA VI, 2008). A este presupuesto hay que agregarle los de la cooperación internacional: el del la Agencia Española de Cooperación Internacional para el Desarrollo (AECID), el del Banco Mundial (BM), el del Convenio Andrés Bello (CAB), además de la ejecución del proyecto de las Manos con sus Hijas/os, DELAMNH, con el apoyo económico del Ministerio de Educación y Cultura de España (MEC).
 
-Apesar del aporte de la cooperación internacional, la insuficiente inversión en educación coloca al país muy por debajo de los estándares internacionales y del promedio latinoamericano y el Caribe.
+A pesar del aporte de la cooperación internacional, la insuficiente inversión en educación coloca al país muy por debajo de los estándares internacionales y del promedio latinoamericano y el Caribe.
 
 ### 2.6 Análisis prospectivo de la educación de personas jóvenes y adultas
 
@@ -380,11 +541,11 @@ Metas Educativas 2021
 
 Alfabetización y Educación Básica de Personas Jóvenes y Adultas
 
-## 3. Articulación de las Metas 2021 con las 'Metas nacionales del Plan Decenal de Educación 2008-2018'
+## 3. Articulación de las Metas 2021 con las “Metas nacionales del Plan Decenal de Educación 2008-2018”
 
 Metas generales OEI | Plan Decenal de Educación
 --- | ---
-Meta general segunda Incrementar las oportunidades y la aten- ción educativa a la diversidad de necesida- des del alumnado (jóvenes y adultos). Metas específicas 4. Prestar apoyo especial a las minorías étnicas, poblaciones originarias y afro- descendientes, al alumnado que vive en zonas urbanas marginales y en zo- nas rurales para lograr la igualdad en la educación. 5. Garantizar una educación bilingüe y multicultural de calidad a los alumnos pertenecientes a minorías étnicas. 6. Apoyar la inclusión educativa del alumnado con necesidades educativas especiales con los apoyos especializa- dos necesarios. | • Diagnóstico socio-económico por Centro Educati- vo identificando los estudiantes de los sectores más vulnerables y registrado en una base de datos (7.1.1 PDE). • Aplicación del principio de discriminación positi- va, para que los estudiantes más vulnerables sean los primeros en recibir apoyo económico, a fin de lograr una verdadera equidad en las condiciones y oportunidades (7.1.2 PDE). • Refocalización, ampliación y fortalecimiento de los programas sociales dirigidos a las familias y co- munidades (7.1.3 PDE). • Fortalecimiento de los programas y acciones orien- tadas a la educación preventiva en salud, riesgos sociales y desastres naturales (7.1.4 PDE). • Creación de programas de incentivo al ahorro y estí- mulo a la superación personal (7.1.5 PDE). • Creación de programas de fomento de innovacio- nes sociales y económicas (7.1.6 PDE). • Apoyo al transporte de los estudiantes de los secto- res sociales más vulnerables que deben desplazarse
+Meta general segunda Incrementar las oportunidades y la atención educativa a la diversidad de necesidades del alumnado (jóvenes y adultos). Metas específicas 4. Prestar apoyo especial a las minorías étnicas, poblaciones originarias y afrodescendientes, al alumnado que vive en zonas urbanas marginales y en zonas rurales para lograr la igualdad en la educación. 5. Garantizar una educación bilingüe y multicultural de calidad a los alumnos pertenecientes a minorías étnicas. 6. Apoyar la inclusión educativa del alumnado con necesidades educativas especiales con los apoyos especializados necesarios. | • Diagnóstico socio-económico por Centro Educativo identificando los estudiantes de los sectores más vulnerables y registrado en una base de datos (7.1.1 PDE). • Aplicación del principio de discriminación positiva, para que los estudiantes más vulnerables sean los primeros en recibir apoyo económico, a fin de lograr una verdadera equidad en las condiciones y oportunidades (7.1.2 PDE). • Refocalización, ampliación y fortalecimiento de los programas sociales dirigidos a las familias y comunidades (7.1.3 PDE). • Fortalecimiento de los programas y acciones orientadas a la educación preventiva en salud, riesgos sociales y desastres naturales (7.1.4 PDE). • Creación de programas de incentivo al ahorro y estímulo a la superación personal (7.1.5 PDE). • Creación de programas de fomento de innovaciones sociales y económicas (7.1.6 PDE). • Apoyo al transporte de los estudiantes de los sectores sociales más vulnerables que deben desplazarse para asistir a los Centros Educativos (7.2.4 PDE).
 Meta general cuarta Universalizar la educación primaria y la secundaria básica y mejorar su calidad. Metas específicas 9. Asegurar la escolarización de todos los niños y niñas en la educación primaria y en la educación secundaria básica en condiciones satisfactorias. 10. Mejorar la dotación de bibliotecas y computadoras en las escuelas. 11. Ampliar el número de las escuelas de tiempo completo en primaria. 12. Extender la evaluación integral de los centros escolares. | • Lograr que toda la población tenga la oportunidad de acceder a la educación básica y media de calidad, a fin de reducir el incremento de personas iletradas, a través de un fortalecimiento de la Educación Básica y Media (Política 1, PDE).
 
 23
@@ -397,9 +558,9 @@ Metas Educativas 2021
 
 Metas generales OEI | Plan Decenal de Educación
 --- | ---
-Meta general quinta Ofrecer un currículo significativo que ase- gure la adquisición de las competencias bá- sicas para el desarrollo personal y el ejerci- cio de la ciudadanía democrática. Metas específicas 13.Mejorar el nivel de adquisición de las competencias básicas y de los conoci- mientos fundamentales por parte del alumnado. 14. Potenciar la educación en valores para una ciudadanía democrática activa, tanto en el currículo como en la organización y gestión de las escuelas. 15. Ofrecer un currículo que incorpore la lectura y el uso del computador en el proceso de enseñanza y de aprendizaje y que la educación artística tenga un papel relevante y que estimule el interés por la | • Depuración, identificación y priorización según ejes curriculares articulados, graduados y alineados de contenidos, competencias e indicadores de logros básicos y deseables (3.1.2 PDE). • Actualizar, difundir y aplicar el Currículo de la Edu- cación Básica inclusiva, privilegiando la formación de valores, la lecto-escritura y la matemática, como áreas fundamentales del currículo y enfatizando el uso de las TIC como recurso para el aprendizaje y como fuente de acceso a la información y al conoci- miento (3.1.4 PDE). • Conocimiento y aplicación de manera eficiente Ofi- cial en el Nivel y Modalidad correspondiente, desa- rrollando estrategias propias de una curricular ade- cuada, articulada, graduada en los centros educati- vos (3.1.4 PDE).
-Meta general sexta Incrementar la participación de los jóvenes en la educación secundaria superior, en la técnico profesional y la universitaria. Metas específicas 16. Incrementar el número de jóvenes que finalizan la Educación Secundaria Su- perior. 17. Aumentar el acceso a la Educación Téc- | • La consolidación, expansión, diversificación y cali- dad del nivel de Educación Media y la modalidad de Educación de Adultos como paso a la inserción en la economía, a la continuidad en la vida universitaria (Política No. 2 del PDE). • La calidad de la Educación Media se consolida, se expande y diversifica en plena articulación con la Educación Técnico Profesional y con la Educación de personas jóvenes y adultas (2.1 PDE).
-Meta general séptima Favorecer la conexión entre la educación y el empleo a través de la Educación Técni- co-Profesional. Metas específicas 18. Mejorar y adaptar el diseño de la Educa- ción Técnico-Profesional de acuerdo con las demandas laborales. 19. Aumentar los niveles de inserción labo- ral de los jóvenes egresados de la Educa- ción Técnico-Profesional. | • Realización de estudios e investigaciones sobre la demanda del mercado laboral y efectuar las ade- cuaciones curriculares pertinentes para responder a estas necesidades (2.1.7 PDE).
+Meta general quinta Ofrecer un currículo significativo que asegure la adquisición de las competencias básicas para el desarrollo personal y el ejercicio de la ciudadanía democrática. Metas específicas 13.Mejorar el nivel de adquisición de las competencias básicas y de los conocimientos fundamentales por parte del alumnado. 14. Potenciar la educación en valores para una ciudadanía democrática activa, tanto en el currículo como en la organización y gestión de las escuelas. 15. Ofrecer un currículo que incorpore la lectura y el uso del computador en el proceso de enseñanza y de aprendizaje y que la educación artística tenga un papel relevante y que estimule el interés por la ciencia entre alumnos y alumnas. | • Depuración, identificación y priorización según ejes curriculares articulados, graduados y alineados de contenidos, competencias e indicadores de logros básicos y deseables (3.1.2 PDE). • Actualizar, difundir y aplicar el Currículo de la Educación Básica inclusiva, privilegiando la formación de valores, la lecto-escritura y la matemática, como áreas fundamentales del currículo y enfatizando el uso de las TIC como recurso para el aprendizaje y como fuente de acceso a la información y al conocimiento (3.1.4 PDE). • Conocimiento y aplicación de manera eficiente Oficial en el Nivel y Modalidad correspondiente, desarrollando estrategias propias de una curricular adecuada, articulada, graduada en los centros educativos (3.1.4 PDE).
+Meta general sexta Incrementar la participación de los jóvenes en la educación secundaria superior, en la técnico profesional y la universitaria. Metas específicas 16. Incrementar el número de jóvenes que finalizan la Educación Secundaria Superior. 17. Aumentar el acceso a la Educación Técnico-Profesional y a la Universidad. | • La consolidación, expansión, diversificación y calidad del nivel de Educación Media y la modalidad de Educación de Adultos como paso a la inserción en la economía, a la continuidad en la vida universitaria (Política No. 2 del PDE). • La calidad de la Educación Media se consolida, se expande y diversifica en plena articulación con la Educación Técnico Profesional y con la Educación de personas jóvenes y adultas (2.1 PDE).
+Meta general séptima Favorecer la conexión entre la educación y el empleo a través de la Educación Técnico-Profesional. Metas específicas 18. Mejorar y adaptar el diseño de la Educación Técnico-Profesional de acuerdo con las demandas laborales. 19. Aumentar los niveles de inserción laboral de los jóvenes egresados de la Educación Técnico-Profesional. | • Realización de estudios e investigaciones sobre la demanda del mercado laboral y efectuar las adecuaciones curriculares pertinentes para responder a estas necesidades (2.1.7 PDE).
 
 24
 
@@ -411,9 +572,9 @@ Alfabetización y Educación Básica de Personas Jóvenes y Adultas
 
 Metas generales OEI | Plan Decenal de Educación
 --- | ---
-Meta general octava Ofrecer a todas las personas oportunidades de educación a lo largo de toda la vida. Metas específicas 20. Garantizar el acceso a la educación a las personas jóvenes y adultos con ma- yores desventajas y necesidades. 21. Incrementar la participación de los jó- venes y los adultos en programas de formación continua presenciales y a distancia. | • Creación de centros del primer ciclo y del segun- do ciclo de Educación de Adultos, además de Cen- tros de Educación Básica y de Educación Media. (2.19). • Desarrollo del subsistema de Educación de perso- nas jóvenes y adultas en colaboración con organi- zaciones gubernamentales y no gubernamentales que promuevan la educación permanente en los entornos de aprendizaje (Plan Estratégico de la Gestión Educativa 2008-2012). • La calidad de la Educación de Adultos se consoli- de, se expanda y se diversifique en articulación con la Educación Básica, la Educación Media y la Educación Técnico-Profesional, así como con or- ganismos del Estado y de la amplia gama de orga- nizaciones de la sociedad dominicana (2.2 PDE).
-Meta general novena Fortalecer la profesión docente. Metas específicas 22. Mejorar la formación inicial del profe- sorado de primaria y secundaria. 23. Favorecer la capacitación continua y el desarrollo de la carrera profesional docente. | • Formación de docentes con las competencias pe- dagógicas necesarias para impulsar, desarrollar, gestionar y facilitar procesos socioeducativos de niños, jóvenes y adultos con atención a la diversi- dad (6.1.12. del PDE) (Desde diplomados, espe- cialidad y maestría para docentes en educación de adultos). • Fortalecimiento de la habilitación profesional pa- ra atraer personal idóneo al sistema educativo. (6.1.6 PDE). • Diseñar y desarrollar programas de formación que conciban el acompañamiento de la práctica docen- te en jóvenes y adultos como eje principal y arti- culador (Política No. 2 del PDE).
-Meta general décima Ampliar el espacio iberoamericano del co- nocimiento y fortalecer la investigación científica. Metas específicas 24. Apoyar la creación de redes universita- rias para la oferta de postgrados. 25. Reforzar la investigación científica y tecnológica así como la innovación en la región. | • Coordinación con las universidades, para el dise- ño y ejecución de programas y proyectos de for- mación e investigación para el personal docente en el área de Educación para personas jóvenes y adultas.
+Meta general octava Ofrecer a todas las personas oportunidades de educación a lo largo de toda la vida. Metas específicas 20. Garantizar el acceso a la educación a las personas jóvenes y adultos con mayores desventajas y necesidades. 21. Incrementar la participación de los jóvenes y los adultos en programas de formación continua presenciales y a distancia. | • Creación de centros del primer ciclo y del segundo ciclo de Educación de Adultos, además de Centros de Educación Básica y de Educación Media. (2.19). • Desarrollo del subsistema de Educación de personas jóvenes y adultas en colaboración con organizaciones gubernamentales y no gubernamentales que promuevan la educación permanente en los entornos de aprendizaje (Plan Estratégico de la Gestión Educativa 2008-2012). • La calidad de la Educación de Adultos se consolide, se expanda y se diversifique en articulación con la Educación Básica, la Educación Media y la Educación Técnico-Profesional, así como con organismos del Estado y de la amplia gama de organizaciones de la sociedad dominicana (2.2 PDE).
+Meta general novena Fortalecer la profesión docente. Metas específicas 22. Mejorar la formación inicial del profesorado de primaria y secundaria. 23. Favorecer la capacitación continua y el desarrollo de la carrera profesional docente. | • Formación de docentes con las competencias pedagógicas necesarias para impulsar, desarrollar, gestionar y facilitar procesos socioeducativos de niños, jóvenes y adultos con atención a la diversidad (6.1.12. del PDE) (Desde diplomados, especialidad y maestría para docentes en educación de adultos). • Fortalecimiento de la habilitación profesional para atraer personal idóneo al sistema educativo. (6.1.6 PDE). • Diseñar y desarrollar programas de formación que conciban el acompañamiento de la práctica docente en jóvenes y adultos como eje principal y articulador (Política No. 2 del PDE).
+Meta general décima Ampliar el espacio iberoamericano del conocimiento y fortalecer la investigación científica. Metas específicas 24. Apoyar la creación de redes universitarias para la oferta de postgrados. 25. Reforzar la investigación científica y tecnológica así como la innovación en la región. | • Coordinación con las universidades, para el diseño y ejecución de programas y proyectos de formación e investigación para el personal docente en el área de Educación para personas jóvenes y adultas.
 
 25
 
@@ -425,15 +586,15 @@ Metas Educativas 2021
 
 ## 4. Líneas de proyectos a ejecutar por la Dirección General de Educación de Adultos Metas 2021 OEI
 
-- Alfabetización: Patria Letrada.
+1. Alfabetización: Patria Letrada.
 
 - Revisión y producción de materiales de jóvenes y adultos.
 
 - Diseño e implementación de un modelo de formación de alfabetizadores y alfabetizadoras.
 
-- Ampliación,  fortalecimiento  e  institucionalización  de  la  Red Nacional de Alfabetización.
+- Ampliación, fortalecimiento e institucionalización de la Red Nacional de Alfabetización.
 
-- Educación Básica, Media de personas jóvenes y adultas.
+2. Educación Básica, Media de personas jóvenes y adultas.
 
 - Creación de un sistema de evaluación de los aprendizajes, de monitoreo y seguimiento.
 
@@ -443,15 +604,15 @@ Metas Educativas 2021
 
 - Ampliación de la cobertura de la modalidad semipresencial en la Educación Básica y Media de jóvenes y adultos.
 
-- Creación de una línea de investigación y sistematización de buenas prácticas de alfabetización, de Educación Básica y Media de adultos.
+3. Creación de una línea de investigación y sistematización de buenas prácticas de alfabetización, de Educación Básica y Media de adultos.
 
-- Educación para el trabajo.
+4. Educación para el trabajo.
 
 - Fortalecimiento de alianzas con INFOTEP y otros organismos de formación para el trabajo.
 
 - Acuerdos con empresas para la ubicación externa de adultos que hayan terminado su formación.
 
-- Fortalecimiento institucional y visibilización de la EDPJA.
+5. Fortalecimiento institucional y visibilización de la EDPJA.
 
 - Creación del subsistema de Educación de adultos.
 
@@ -511,7 +672,7 @@ Secretaría de Estado de Educación y Cultura (1997). Ley General de Educación 
 
 Secretaría de Estado de Educación (2008). Plan Decenal de Educación 2008/2018. Santo Domingo, República Dominicana.
 
-Secretaría de Estado de Educación (2008). Informe Nacional para CONFINTEAVI 2008. Julio 2008. Santo Domingo, República Dominicana.
+Secretaría de Estado de Educación (2008). Informe Nacional para CONFINTEA VI 2008. Julio 2008. Santo Domingo, República Dominicana.
 
 Secretaría de Estado de Educación (2008). Plan Estratégico de la Gestión Educativa 2008/2012. Santo Domingo, República Dominicana.
 
@@ -533,13 +694,16 @@ UNESCO.  Conferencia  Internacional  de  Educación  de  Adultos,  V. (1997). De
 
 UNESCO. (2009) Sexta Conferencia Internacional de Educación de Adultos (CONFINTEA VI). Vivir y aprender para un futuro viable: el poder del aprendizaje adulto. Belem, Brasil.
 
-## Integrantes de la mesa :
+## Integrantes de la mesa:
 
-Coordinadora
-
-: Miriam Camilo Recio
-
-Aníbal Paula Celeste González Deolegario Tapia Luis Eduardo Holguín Nicomedes Castro Obdulia García Onavis Cabrera
+Coordinadora: Miriam Camilo Recio
+Aníbal Paula
+Celeste González
+Deolegario Tapia
+Luis Eduardo Holguín
+Nicomedes Castro
+Obdulia García
+Onavis Cabrera
 
 29
 
@@ -733,7 +897,7 @@ Metas Educativas 2021
 
 lectura, análisis de obras y redacción de ensayos, cuentos y trabajos científicos.
 
-Entre las experiencias de instituciones universitarias que han colaborado con el desarrollo de la cultura escrita, cabe señalar los programas de Postgrado de la Universidad Autónoma de Santo Domingo (UASD), del Instituto Tecnológico de Santo Domingo (INTEC) y de la  Pontificia  Universidad  Católica  Madre  y  Madre  (PUCMM),  que han formado varias generaciones de profesionales en el campo de la Lingüística Aplicada a la Enseñanza de la Lengua Materna. Estas instituciones han colaborado asimismo con la reformulación del currículo de enseñanza de la lengua materna, a través de una participación activa  de  profesionales  especializados  en  los  Planes  Decenales  de Educación y en Congresos y Seminarios que se han celebrado en el país sobre el tema del desarrollo de la cultura escrita en la escuela básica, media y en instituciones de educación superior.
+Entre las experiencias de instituciones universitarias que han colaborado con el desarrollo de la cultura escrita, cabe señalar los programas de Postgrado de la Universidad Autónoma de Santo Domingo (UASD), del Instituto Tecnológico de Santo Domingo (INTEC) y de la Pontificia Universidad Católica Madre y Maestra (PUCMM), que han formado varias generaciones de profesionales en el campo de la Lingüística Aplicada a la Enseñanza de la Lengua Materna. Estas instituciones han colaborado asimismo con la reformulación del currículo de enseñanza de la lengua materna, a través de una participación activa de profesionales especializados en los Planes Decenales de Educación y en Congresos y Seminarios que se han celebrado en el país sobre el tema del desarrollo de la cultura escrita en la escuela básica, media y en instituciones de educación superior.
 
 Cabe resaltar, en este último aspecto, el 1er Congreso Nacional de la Lectura, realizado durante el mes de marzo de 2010 por la Universidad Autónoma de Santo Domingo (UASD), cuyo lema fue "Leer es construir nuevos mundos" y cuyo objetivo consistió en abrir un proceso de discusión a nivel nacional en torno a los problemas, retos y expectativas del proceso lector en el ámbito académico, docente e intelectual, a fin de crear un nuevo marco de trabajo en el aula, fundamentado en la presencia directa de la lectura como parte esencial de la actividad docente. El Congreso se organizó a través de sesiones de trabajo simultáneas en distintos Centros Regionales de la UASD, lo que ofreció la posibilidad de integrar las redes comunitarias a nivel regional y provincial, al incluir en cada sesión de trabajo centros culturales, asociaciones de escritores y experiencias de comunidades educativas de las distintas localidades y provincias dominicanas.
 
@@ -817,9 +981,9 @@ Costa Rica
 
 Cuba
 
-El Salvador
-
 Ecuador
+
+El Salvador
 
 Guatemala
 
@@ -840,118 +1004,63 @@ Uruguay
 Nuevo León
 
 Argentina
-
-No existen diferencias entre el puntaje de los estudiantes de los países comparados.
-
-Puntaje significativamente superior entre los estudiantes de los países comparados.
-
-Puntaje significativamente inferior entre los estudiantes de los países comparados.
-
+Brasil
+Chile
+Colombia
+Costa Rica
+Cuba
+Ecuador
+El Salvador
+Guatemala
+México
+Nicaragua
+Panamá
+Paraguay
+Perú
+R. Dominicana
+Uruguay
+Nuevo León
+— No existen diferencias entre el puntaje de los estudiantes de los países comparados.
+▲ Puntaje significativamente superior entre los estudiantes de los países comparados.
+▼ Puntaje significativamente inferior entre los estudiantes de los países comparados.
 Diferencias significativas con 5% de error de acuerdo con una prueba t de comparación de medias.
 
-Brasil
-
-Chile
-
-Colombia
-
-Costa Rica
-
-Cuba
-
-El Salvador
-
-Ecuador
-
-Guatemala
-
-México
-
-Nicaragua
-
-Panamá
-
-Paraguay
-
-Perú
-
-R. Dominicana
-
-Uruguay
-
-Nuevo León
-
 Porcentaje de estudiantes de 3er grado de primaria por nivel de desempeño en lectura en cada país
-
 Argentina
-
 Brasil
-
 Chile
-
 Colombia
-
 Costa Rica
-
 Cuba
-
-El Salvador
-
 Ecuador
-
+El Salvador
 Guatemala
-
 México
-
 Nicaragua
-
 Panamá
-
 Paraguay
-
 Perú
-
 R. Dominicana
-
 Uruguay
-
 Nuevo León
-
 Promedio países
-
 Total AL y C
-
 0%
-
-Debajo I
-
-I
-
-II
-
-III
-
-IV
-
 10%
-
 20%
-
 30%
-
 40%
-
 50%
-
 60%
-
 70%
-
 80%
-
 90%
-
 100%
+Debajo I
+I
+II
+III
+IV
 
 45
 
@@ -977,9 +1086,9 @@ Costa Rica
 
 Cuba
 
-El Salvador
-
 Ecuador
+
+El Salvador
 
 Guatemala
 
@@ -1000,118 +1109,63 @@ Uruguay
 Nuevo León
 
 Argentina
-
-No existen diferencias entre el puntaje de los estudiantes de los países comparados.
-
-Puntaje significativamente superior entre los estudiantes de los países comparados.
-
-Puntaje significativamente inferior entre los estudiantes de los países comparados.
-
+Brasil
+Chile
+Colombia
+Costa Rica
+Cuba
+Ecuador
+El Salvador
+Guatemala
+México
+Nicaragua
+Panamá
+Paraguay
+Perú
+R. Dominicana
+Uruguay
+Nuevo León
+— No existen diferencias entre el puntaje de los estudiantes de los países comparados.
+▲ Puntaje significativamente superior entre los estudiantes de los países comparados.
+▼ Puntaje significativamente inferior entre los estudiantes de los países comparados.
 Diferencias significativas con 5% de error de acuerdo con una prueba t de comparación de medias.
 
-Brasil
-
-Chile
-
-Colombia
-
-Costa Rica
-
-Cuba
-
-El Salvador
-
-Ecuador
-
-Guatemala
-
-México
-
-Nicaragua
-
-Panamá
-
-Paraguay
-
-Perú
-
-R. Dominicana
-
-Uruguay
-
-Nuevo León
-
 Porcentaje de estudiantes de 3er grado de primaria por nivel de desempeño en lectura en cada país
-
 Argentina
-
 Brasil
-
 Chile
-
 Colombia
-
 Costa Rica
-
 Cuba
-
-El Salvador
-
 Ecuador
-
+El Salvador
 Guatemala
-
 México
-
 Nicaragua
-
 Panamá
-
 Paraguay
-
 Perú
-
 R. Dominicana
-
 Uruguay
-
 Nuevo León
-
 Promedio países
-
 Total AL y C
-
 0%
-
-Debajo I
-
-I
-
-II
-
-III
-
-IV
-
 10%
-
 20%
-
 30%
-
 40%
-
 50%
-
 60%
-
 70%
-
 80%
-
 90%
-
 100%
+Debajo I
+I
+II
+III
+IV
 
 46
 
@@ -1125,7 +1179,7 @@ Pese a los esfuerzos presentados anteriormente y ante la situación descrita en 
 
 ## 3. Metas propuestas
 
-Apartir de la conceptualización de la cultura escrita, de la problemática de la cultura escrita a nivel nacional y de la revisión de las acciones que se han venido realizando en el país para contribuir con su desarrollo, a continuación se presenta la adecuación de las metas específicas y niveles de logro establecidos para Iberoamérica de acuerdo con la realidad dominicana.
+A partir de la conceptualización de la cultura escrita, de la problemática de la cultura escrita a nivel nacional y de la revisión de las acciones que se han venido realizando en el país para contribuir con su desarrollo, a continuación se presenta la adecuación de las metas específicas y niveles de logro establecidos para Iberoamérica de acuerdo con la realidad dominicana.
 
 ### Meta General Primera : Reforzar y ampliar la participación de la sociedad en la acción educadora
 
@@ -1203,7 +1257,7 @@ Nivel de logro : En el 2012, el 60% de los docentes secundarios conocen y aplica
 
 Metas Educativas 2021
 
-IndicadorA : Incremento del porcentaje de bibliotecarios que participan en programas de bibliotecas escolares.
+Indicador A: Incremento del porcentaje de bibliotecarios que participan en programas de bibliotecas escolares.
 
 Nivel de logro :  Conseguir que el 25% de los bibliotecarios que funcionan en bibliotecas escolares de todo el país, sean capacitados al año 2021.
 
@@ -1223,7 +1277,7 @@ Nivel de logro : 10% de crecimiento en las competencias de lectura y escritura e
 
 #### Meta específica 4.4 Apoyar la creación de un Sistema Nacional de Bibliotecas Escolares de carácter público en la República Dominicana.
 
-Indicado r: Incremento y realización de un repertorio de bibliotecas escolares por cada provincia del país.
+Indicador: Incremento y realización de un repertorio de bibliotecas escolares por cada provincia del país.
 
 Nivel de logro : A partir del año 2011 se inicia el proceso de conformación de este sistema nacional; en el 2015, se incrementa en un 20% el número de bibliotecas instaladas.
 
@@ -1383,7 +1437,7 @@ Capacitar a docentes en servicio de la escuela básica y a técnicos del Ministe
 
 #### Descripción del Proyecto :
 
-Revisar las experiencias previas de bibliobuses y de otras alternativas para la constitución de bibliotecas en aquellos sectores que concentren mayor cantidad de escuelas. Este proyecto pretende poner a la disposición de un gran número de estudiantes recursos bibliográficos variados en cuanto a la tipología textual, que permitan apoyar la labor de la escuela, esencialmente en el nivel básico. El proyecto conlleva la formación de animadores culturales, que estimulen en las poblaciones meta el uso de las bibliotecas y que ofrezcan talleres a los docentes para facilitarles el conocimiento de los recursos y la metodología para su uso.
+Revisar las experiencias previas de bibliobuses y de otras alternativas para la constitución de bibliotecas en aquellos sectores que concentren mayor cantidad de escuelas. Este proyecto pretende poner a la disposición de un gran número de estudiantes recursos bibliográficos variados en cuanto a la tipología textual, que permitan apoyar la labor de
 
 55
 
@@ -1392,6 +1446,8 @@ Revisar las experiencias previas de bibliobuses y de otras alternativas para la 
 [[START OF PAGE 56]]
 
 Metas Educativas 2021
+
+la escuela, esencialmente en el nivel básico. El proyecto conlleva la formación de animadores culturales, que estimulen en las poblaciones meta el uso de las bibliotecas y que ofrezcan talleres a los docentes para facilitarles el conocimiento de los recursos y la metodología para su uso.
 
 ### Ferias de lectura y escritura
 
@@ -1409,7 +1465,7 @@ Este proyecto pretende promover el intercambio de material escrito, libros, revi
 
 #### Descripción del Proyecto :
 
-Este proyecto permite el acceso a material escrito que ha sido seleccionado por los estudiantes de un grado específico de la escuela básica o media, con aportes de textos de diversa índole, llevados por los estudiantes a la escuela desde sus hogares o aportados por la comunidad. La selección pretende que la mochila contenga una selección motivante y atractiva. Una vez conformada la mochila lectora, ésta es llevada por cada estudiante del curso a su hogar durante una semana completa y, cuando la devuelve, tiene el compromiso de reportar lo que ha leído, a través de un escrito que se publica en el aula o de otros mecanismos. La mochila se va renovando a lo largo del año escolar, para que siempre conserve la característica de ser motivante.
+Este proyecto permite el acceso a material escrito que ha sido seleccionado por los estudiantes de un grado específico de la escuela básica o media, con aportes de textos de diversa índole, llevados por los estudiantes a la escuela desde sus hogares o aportados por la comunidad. La selección pretende que la mochila contenga una selección motivante y atractiva. Una vez conformada la mochila lectora, ésta es llevada por
 
 56
 
@@ -1418,6 +1474,8 @@ Este proyecto permite el acceso a material escrito que ha sido seleccionado por 
 [[START OF PAGE 57]]
 
 Lectura y bibliotecas escolares: La cultura escrita
+
+cada estudiante del curso a su hogar durante una semana completa y, cuando la devuelve, tiene el compromiso de reportar lo que ha leído, a través de un escrito que se publica en el aula o de otros mecanismos. La mochila se va renovando a lo largo del año escolar, para que siempre conserve la característica de ser motivante.
 
 ### Programas "Leyendo con papá o mamá"
 
@@ -1451,7 +1509,7 @@ Metas Educativas 2021
 
 Este proyecto pretende desarrollar las habilidades de expresión oral de los estudiantes con el propósito de que puedan convertirse en cuenta cuentos fluidos, motivantes y que despierten el interés por la lectura en otros estudiantes, a través de preguntas que promuevan retos cognitivos y que desarrollen la fantasía.
 
-Acontinuación listamos otros proyectos:
+A continuación listamos otros proyectos:
 
 -Círculos de lectores.
 
@@ -1473,8 +1531,7 @@ Acontinuación listamos otros proyectos:
 
 ## Integrantes de la mesa:
 
-Coordinadoras : Ana Margarita Haché de Yunén
----
+Coordinadoras: Ana Margarita Haché de Yunén
 David Capellán
 Eleanor Grimaldi
 Liliana Montenegro
@@ -1630,7 +1687,7 @@ La educación juega un rol protagónico en la posibilidad de producir, transmiti
 
 Educación y cultura forman un binomio inseparable: trabajan el mismo sujeto de estudio en la búsqueda de formar y estimular su potencial hacia la construcción de su personalidad individual y su cultura. La educación es un elemento de la cultura y, al mismo tiempo, la contiene. En su naturaleza, como proceso de transformación del ser humano, transmite la cultura de acuerdo con los niveles de la educación y cánones sociales. Por ello, la Educación Artística, necesariamente se integra o debe integrarse al marco general de la cultura, pues el arte es otra de las dimensiones de la cultura.
 
-En otro ángulo, la Educación Artística es considerada uno de los medios más importantes que tiene la Educación Estética para que el alumno/a sea capaz de comprender, valorar y crear una relación de apreciación con el mundo que le rodea. La Educación Estética abarca la Educación Artística, siendo esta última, parte esencial de la primera. Ahora bien, el deleite estético no es exclusivamente producido por las obras de arte. También se produce al observar o al ser impresionados, por ejemplo, por un paisaje de la naturaleza, una innovación tecnológica o apreciar el nivel de orden, paz y coherencia reflejados en los diferentes estilos de vida.
+En otro ángulo, la Educación Artística es considerada uno de los medios más importantes que tiene la Educación Estética para que el alumno/a sea capaz de comprender, valorar y crear una relación de apreciación con el mundo que le rodea. La Educación Estética abarca la Educación Artística, siendo esta última, parte esencial de la primera. Ahora bien, el deleite estético no es exclusivamente producido por las obras de arte. También se produce al observar o al ser impresiona-
 
 64
 
@@ -1640,7 +1697,9 @@ En otro ángulo, la Educación Artística es considerada uno de los medios más 
 
 Educación artística, cultura y ciudadanía
 
-El término Educación Artística , desde el momento en que se introdujo en el currículum escolar, describe la asignatura que se imparte en todos los niveles de la escolaridad formal, y que se ofrece -al igual  que  todas  las  demás  asignaturas  del  currículum-,  a  todos  los alumnos/as sin excepción y sin importar sus aptitudes artísticas.
+dos, por ejemplo, por un paisaje de la naturaleza, una innovación tecnológica o apreciar el nivel de orden, paz y coherencia reflejados en los diferentes estilos de vida.
+
+El término Educación Artística, desde el momento en que se introdujo en el currículum escolar, describe la asignatura que se imparte en todos los niveles de la escolaridad formal, y que se ofrece –al igual que todas las demás asignaturas del currículum–, a todos los alumnos/as sin excepción y sin importar sus aptitudes artísticas.
 
 Con el nombre de Educación/Formación Artística Especializada , se identifican las enseñanzas impartidas a estudiantes en los que se evidencian determinadas aptitudes y destrezas para el arte, en academias,  escuelas,  institutos  y  conservatorios.  Tradicionalmente  se  ha utilizado la denominación Enseñanza Artística, aun vigente en muchos países.
 
@@ -1648,7 +1707,7 @@ Como Educación Artística Especializada se reconoce el proceso sistemático de 
 
 Desde hace algunas décadas, se llama Educación Artística a ambos procesos formativos, el escolar y el especializado, que presentan particularidades bien marcadas en cuanto a objetivos, metodologías y estrategias didácticas, pero que poseen una finalidad común y cumplen tres funciones básicas: comunicativa, formativa y terapéutica.
 
-La finalidad de la Educación Artística, tanto de la Especializada como de la Escolar, es la de favorecer el desarrollo de las capacidades cognoscitivas, psicomotoras, expresivas, emocionales, afectivas y creativas; de las aptitudes para las distintas expresiones artísticas tanto de los futuros profesionales del arte como de aquellos que nutrirán las filas del público sensible y crítico o que cultivarán la música o las artes sin pretensiones profesionales.
+La finalidad de la Educación Artística, tanto de la Especializada como de la Escolar, es la de favorecer el desarrollo de las capacidades cognoscitivas, psicomotoras, expresivas, emocionales, afectivas y creativas; de las aptitudes para las distintas expresiones artísticas tan-
 
 65
 
@@ -1657,6 +1716,8 @@ La finalidad de la Educación Artística, tanto de la Especializada como de la E
 [[START OF PAGE 66]]
 
 Metas Educativas 2021
+
+to de los futuros profesionales del arte como de aquellos que nutrirán las filas del público sensible y crítico o que cultivarán la música o las artes sin pretensiones profesionales.
 
 Los beneficios de las artes, como estrategia pedagógica, han sido reconocidos en múltiples escenarios y en los más consistentes estudios sobre la personalidad humana, la educación, las ciencias sociales y biológicas. Por su parte, la teoría y las prácticas de las propias disciplinas artísticas lo ponen de manifiesto.
 
@@ -1688,7 +1749,7 @@ El Plan Estratégico de la Gestión 2008-2012 establece que "La educación const
 
 La Misión del Ministerio de Educación es de regular el sistema educativo dominicano de conformidad con la Ley General de Educación 66-97, garantizando el derecho de todos los dominicanos y todas las dominicanas a una educación de calidad, mediante la formación de hombres y mujeres libres, críticos y creativos; capaces de participar y construir una sociedad libre, democrática y participativa, justa y solidaria, aptos para cuestionarla en forma permanente; que combinen el trabajo productivo, el servicio comunitario y la formación humanística, científica y tecnológica, con el disfrute del acervo cultural de la humanidad y con la participación e integración de los distintos sectores de la sociedad, a fin de contribuir al desarrollo nacional y al suyo propio.
 
-La Visión , como aspiración y futuro deseable, establece: Lograr que todos los dominicanos y todas las dominicanas tengan acceso a una educación pertinente y de calidad, asumiendo como principio el respeto a la diversidad, fortaleciendo la identidad cultural; formando seres humanos para el ejercicio de una vida activa y democrática, generando actitudes innovadoras y cambios en la sociedad y garantizando una calidad educativa que asegure el desarrollo sostenible y la cultura de paz. Los valores que deben inspirar las creencias y costumbres de las prácticas educativas ciudadanas son, entre otros:
+La Visión, como aspiración y futuro deseable, establece: Lograr que todos los dominicanos y todas las dominicanas tengan acceso a una educación pertinente y de calidad, asumiendo como principio el respeto a la diversidad, fortaleciendo la identidad cultural; formando seres humanos para el ejercicio de una vida activa y democrática, generando actitudes innovadoras y cambios en la sociedad y garantizando una calidad educativa que asegure el desarrollo sostenible y la cul-
 
 67
 
@@ -1697,6 +1758,8 @@ La Visión , como aspiración y futuro deseable, establece: Lograr que todos los
 [[START OF PAGE 68]]
 
 Metas Educativas 2021
+
+tura de paz. Los valores que deben inspirar las creencias y costumbres de las prácticas educativas ciudadanas son, entre otros:
 
 - Respeto a la vida.
 
@@ -1804,7 +1867,7 @@ El  portal  EDUCANDO  del  Ministerio  de  Educación  www.educando.edu.do dispo
 
 ### 2.2 Ministerio de Cultura
 
-El Ministerio de Cultura tiene como campos de acción la formación y capacitación para el desarrollo de talentos artísticos y en disciplinas artesanales, aplicadas y técnicas que posibiliten la inserción de individuos a la vida productiva, así como formación y capacitación en procesos de animación sociocultural como estrategia para desarrollar conductas positivas en comunidades de alta vulnerabilidad por la presencia de la violencia.
+El Ministerio de Cultura tiene como campos de acción la formación y capacitación para el desarrollo de talentos artísticos y en disci-
 
 71
 
@@ -1813,6 +1876,8 @@ El Ministerio de Cultura tiene como campos de acción la formación y capacitaci
 [[START OF PAGE 72]]
 
 Metas Educativas 2021
+
+plinas artesanales, aplicadas y técnicas que posibiliten la inserción de individuos a la vida productiva, así como formación y capacitación en procesos de animación sociocultural como estrategia para desarrollar conductas positivas en comunidades de alta vulnerabilidad por la presencia de la violencia.
 
 #### La Ley de Cultura 41-00
 
@@ -1920,7 +1985,7 @@ El Plan Estratégico de Ministerio de Cultura se plantea los siguientes indicado
 
 - Que el programa de inversión en la infraestructura cultural ha llegado al 70% de las provincias del país.
 
-En la República Dominicana, la política pública en materia de formación artística especializada parte del reconocimiento de las artes como instrumento pedagógico, de la creatividad como eje transversal del currículo, la identidad y diversidad cultural, la coherencia con los objetivos del milenio y la calidad de la enseñanza artística. Para su implementación, el MC cuenta con dos instancias fundamentales:
+En la República Dominicana, la política pública en materia de formación artística especializada parte del reconocimiento de las artes como instrumento pedagógico, de la creatividad como eje transversal
 
 75
 
@@ -1929,6 +1994,8 @@ En la República Dominicana, la política pública en materia de formación art�
 [[START OF PAGE 76]]
 
 Metas Educativas 2021
+
+del currículo, la identidad y diversidad cultural, la coherencia con los objetivos del milenio y la calidad de la enseñanza artística. Para su implementación, el MC cuenta con dos instancias fundamentales:
 
 - El  Sistema  Nacional  de  Formación  Artística  Especializada (SINFAE) ,  dependiente de la Dirección General de Bellas Artes, que tiene a su cargo las instituciones oficiales o subvencionadas por el Estado dedicadas a la enseñanza de las Bellas Artes. Lo integran 5 escuelas nacionales y 14 escuelas provinciales llamadas oficialmente Escuelas de Bellas Artes, donde se imparten Teatro, Música, Artes Plásticas y Danza. Cuenta además con 23 academias de música, ubicadas en su mayoría en la zona fronteriza, en comunidades muy pobres, donde se da espacio a la interculturalidad.
 
@@ -1990,7 +2057,7 @@ Entre estas modalidades están:
 
 Educación artística, cultura y ciudadanía
 
-Alo largo de sus doce años, mediante diversas modalidades de entrenamiento técnico, ha institucionalizado la Orquesta Juvenil Nacional, con centenares de niños y jóvenes de diferentes comunidades.  Ha  realizado  numerosas  presentaciones  dentro  y  fuera  del país, mantiene un programa anual de verano con ADASEC, una ONG española y su proyecto Areito en comunidades vulnerables de la RD.
+A lo largo de sus doce años, mediante diversas modalidades de entrenamiento técnico, ha institucionalizado la Orquesta Juvenil Nacional, con centenares de niños y jóvenes de diferentes comunidades. Ha realizado numerosas presentaciones dentro y fuera del país, mantiene un programa anual de verano con ADASEC, una ONG española y su proyecto Areito en comunidades vulnerables de la RD.
 
 En los momentos actuales enrumba su dinamización en la perspectiva de establecimiento de tres orquestas regionales, estrechando vínculos con las escuelas de música provinciales para hacer realidad la práctica orquestal en cada una y se instalen 14 sinfónicas provinciales entre fines del 2009 y mediados del 2012.
 
@@ -2142,7 +2209,7 @@ Metas Educativas 2021
 
 ### Propuestas emanadas del taller de consulta sobre las metas 2021 de las instituciones nacionales oficiales, privadas y de la sociedad civil
 
-Ala luz de las metas y propósitos de los organismos e instituciones dominicanas vinculadas o responsables de la Educación Artística, tomando en cuenta los programas y proyectos particulares o comunes encaminados a la construcción de ciudadanía y armonizándolas con las Metas Educativas 2021, los participantes se permiten hacer las siguientes propuestas :
+A la luz de las metas y propósitos de los organismos e instituciones dominicanas vinculadas o responsables de la Educación Artística, tomando en cuenta los programas y proyectos particulares o comunes encaminados a la construcción de ciudadanía y armonizándolas con las Metas Educativas 2021, los participantes se permiten hacer las siguientes propuestas:
 
 84
 
@@ -2200,7 +2267,18 @@ Coordinadoras:
 
 Bernarda Jorge y Guadalupe Valdez
 
-Alberto Valenzuela Elvira Taveras Claudio Rivera Cruz María Dotel Gilda Matos Dustin Muñoz Domingo De los Santos Andreína Jiménez Cheila Valera. Marilí Gallardo. Senia Rodríguez María Ligia Grullón.
+Alberto Valenzuela
+Elvira Taveras
+Claudio Rivera
+Cruz María Dotel
+Gilda Matos
+Dustin Muñoz
+Domingo De los Santos
+Andreína Jiménez
+Cheila Valera.
+Marilí Gallardo.
+Senia Rodríguez
+María Ligia Grullón.
 
 87
 
@@ -2226,7 +2304,7 @@ DGBA,  Santo  Domingo,  2005  "Foro  Nacional  sobre  Enseñanza Artística".
 
 ## 1. Marco conceptual de la Educación y la Formación Técnico-Profesional
 
-Según el Acuerdo Interinstitucional sobre la Educación-Técnico Profesional, la Formación Profesional y las Competencias Institucionales, firmado en 1991 por las entidades rectoras, financiadoras y ejecutoras de la Educación Técnico-Profesional y la Formación TécnicoProfesional, así como instituciones representativas del sector empresarial y laboral, las modalidades de la Educación para el trabajo fueron definidas (recogidas por el Glosario de Términos de la Educación Técnica  y  la  Formación  Profesional, editado  por  PRO-ETP en  el 2005), de la siguiente manera:
+Según el Acuerdo Interinstitucional sobre la Educación-Técnico Profesional, la Formación Profesional y las Competencias Institucionales, firmado en 1991 por las entidades rectoras, financiadoras y ejecutoras de la Educación Técnico-Profesional y la Formación Técnico-Profesional, así como instituciones representativas del sector empresarial y laboral, las modalidades de la Educación para el trabajo fueron definidas (recogidas por el Glosario de Términos de la Educación Técnica y la Formación Profesional, editado por PRO-ETP en el 2005), de la siguiente manera:
 
 ### 1.1 Educación Técnico-Profesional (ETP)
 
@@ -2300,7 +2378,7 @@ Por tanto las instituciones de formación para el trabajo (Politécnicos, Instit
 
 La formación debe estar dirigida a formar técnicos calificados en las áreas de desarrollo potencial y al desarrollo de las capacidades para el autoempleo y el emprendedurismo.
 
-Por otro lado, hay que considerar que además de mejorar la calidad de la educación/formación de los jóvenes y adultos, se entiende también que la eficacia de la fuerza de trabajo está relacionada con la capacidad del sistema educativo de ampliar la cobertura escolar, y de propiciar  las  competencias  de  los  individuos.  Adicionalmente,  se plantea que la capacidad de las instituciones de educación técnica y de formación profesional para atender a la demanda de la fuerza de trabajo que requieren las empresas, en cantidad y calidad, es un elemento vital  en  estos  tiempos  de  internacionalización  de  las  economías. De ahí que la propuesta sobre lo que debe ser el desempeño de la educación técnica y de la formación profesional hacia el futuro, se enmarca en un análisis de pertinencia y en una perspectiva global, integral y de conjunto.
+Por otro lado, hay que considerar que además de mejorar la calidad de la educación/formación de los jóvenes y adultos, se entiende
 
 92
 
@@ -2310,11 +2388,13 @@ Por otro lado, hay que considerar que además de mejorar la calidad de la educac
 
 Retos actuales de la Educación Técnico-Profesional
 
+también que la eficacia de la fuerza de trabajo está relacionada con la capacidad del sistema educativo de ampliar la cobertura escolar, y de propiciar las competencias de los individuos. Adicionalmente, se plantea que la capacidad de las instituciones de educación técnica y de formación profesional para atender a la demanda de la fuerza de trabajo que requieren las empresas, en cantidad y calidad, es un elemento vital en estos tiempos de internacionalización de las economías. De ahí que la propuesta sobre lo que debe ser el desempeño de la educación técnica y de la formación profesional hacia el futuro, se enmarca en un análisis de pertinencia y en una perspectiva global, integral y de conjunto.
+
 En este escenario, es obvio que la educación técnica, la formación profesional y la educación tecnológica deben concebirse, hacia el futuro, a partir de esquemas globalizantes, desarrollados en un nuevo contexto, sin menoscabo de los esquemas locales, con participación activa de los principales actores, y en donde el centro de atención no sean los medios con los cuales se ofrece la capacitación, sino el conocimiento como fuente generadora de nuevas ideas, y como instrumento que aporta elementos para la aplicación práctica de conceptos y razonamientos.
 
 Para  que  llene  su  cometido,  se  recomienda  que  el  proceso  de aprendizaje en el subsector de educación para el trabajo se estructure en base a competencias, privilegiando la práctica en las empresas, a través de diferentes mecanismos, fomentando la innovación tecnológica y vinculando a las instituciones estatales y privadas; facilitando, asimismo, que el aprendizaje sea continuo, sistemático, progresivo e integral, de acuerdo con las realidades y las necesidades de cada región. Se debe asumir el proceso de aprendizaje desde un modelo educativo centrado en el que aprende, orientado hacia el autoaprendizaje, en base a la motivación de la creatividad y el emprendedurismo, en el que el aprendizaje debe ser un proceso teórico-práctico, cooperativo y participativo, que responda a las necesidades del sector productivo, de los individuos y de las comunidades.
 
-Según la OIT, la persistencia del desempleo puede ser un problema general de crecimiento y desarrollo o bien un problema estructural de desigualdad en el mercado de trabajo y en los mismos sistemas educativos. A poco crecimiento y desarrollo, poca generación de empleo y mucho desempleo. Las desigualdades estructurales incluyen a unos y excluyen a otros. Los trabajadores con competencias y calificaciones tienen mayores posibilidades de conseguir puestos de trabajos productivos y bien remunerados, mientras que otros trabajadores constatan que los puestos de trabajo interesantes están fuera de su alcance. Propiciar un trabajo decente necesariamente implica atenuar las desigualdades estructurales, permitiéndoles a aquellos menos calificados desarrollar las competencias y alcanzar las cualificaciones que les garanticen igualdad de oportunidades para acceder al mercado de trabajo.
+Según la OIT, la persistencia del desempleo puede ser un problema general de crecimiento y desarrollo o bien un problema estructural de desigualdad en el mercado de trabajo y en los mismos sistemas
 
 93
 
@@ -2324,11 +2404,13 @@ Según la OIT, la persistencia del desempleo puede ser un problema general de cr
 
 Metas Educativas 2021
 
+educativos. A poco crecimiento y desarrollo, poca generación de empleo y mucho desempleo. Las desigualdades estructurales incluyen a unos y excluyen a otros. Los trabajadores con competencias y calificaciones tienen mayores posibilidades de conseguir puestos de trabajos productivos y bien remunerados, mientras que otros trabajadores constatan que los puestos de trabajo interesantes están fuera de su alcance. Propiciar un trabajo decente necesariamente implica atenuar las desigualdades estructurales, permitiéndoles a aquellos menos calificados desarrollar las competencias y alcanzar las cualificaciones que les garanticen igualdad de oportunidades para acceder al mercado de trabajo.
+
 El sistema debe contribuir a disminuir la inequidad social propiciando oportunidades de capacitación de nuestros recursos humanos, así como, de conformidad con la Recomendación 195 de la OIT: reconocer que la educación y la formación son un derecho para todos y, en colaboración con los interlocutores sociales, tratar de asegurar el acceso de todos al aprendizaje permanente; promover la igualdad de oportunidades entre mujeres y hombres, en materia de educación, formación y aprendizaje permanentes; fomentar el acceso a la educación, a la formación y al aprendizaje permanente de las personas con necesidades específicas, tales como los jóvenes, las personas poco cualificadas para el ejercicio laboral, las personas con discapacidad, los migrantes, los trabajadores de edad, los grupos étnicos minoritarios y las personas socialmente excluidas, así como de los trabajadores de las pequeñas y medianas empresas, de la economía informal, del sector rural y de los trabajadores independientes.
 
 Para brindar una educación para el trabajo de calidad, el sistema de formación debe estar comprometido a formar más y mejor a los docentes del sistema, mejorar la infraestructura física y tecnológica existente, integrar a trabajadores y empresarios en el desarrollo curricular y en los procesos de gestión de la formación para el trabajo, así como definir y aplicar indicadores claves de gestión de la formación, desarrollar estrategias para ampliar la cobertura que permita una mayor integración de las IFP al establecimiento de sistemas de gestión de calidad en sus procesos y servicios de formación.
 
-En el marco de una época que avanza a pasos agigantados en lo relativo a la innovación tecnológica, convirtiendo a la sociedad no solo en una sociedad del conocimiento, sino en un conjunto social atado indisolublemente a la ciencia y a la tecnología, se precisa que los instrumentos y mecanismos que facilitan los nuevos aprendizajes estén también estrechamente vinculados con esta nueva realidad. El sistema debe, pues, contribuir con la formación de un egresado capaz de utilizar estrategias de aprendizaje que hacen uso de las tecnologías de la información y la comunicación.
+En el marco de una época que avanza a pasos agigantados en lo relativo a la innovación tecnológica, convirtiendo a la sociedad no so-
 
 94
 
@@ -2337,6 +2419,8 @@ En el marco de una época que avanza a pasos agigantados en lo relativo a la inn
 [[START OF PAGE 95]]
 
 Retos actuales de la Educación Técnico-Profesional
+
+lo en una sociedad del conocimiento, sino en un conjunto social atado indisolublemente a la ciencia y a la tecnología, se precisa que los instrumentos y mecanismos que facilitan los nuevos aprendizajes estén también estrechamente vinculados con esta nueva realidad. El sistema debe, pues, contribuir con la formación de un egresado capaz de utilizar estrategias de aprendizaje que hacen uso de las tecnologías de la información y la comunicación.
 
 Las instituciones que componen el subsistema de educación para el trabajo no solo son un espacio de innovación constante en las actividades que se refieren a su campo de acción más específico, sino que actualmente son parte integral de los sistemas nacionales de innovación. A través de su oferta de formación contribuyen a consolidar la cadena de innovación, al aplicar a la producción y los servicios nuevos equipos y materiales, así como nuevos enfoques en la gestión y administración del trabajo. Avanzar en la adopción de innovaciones, como la formación por competencias y el desarrollo de nuevos tipos de aprendizaje, solo es posible si simultáneamente se realiza un sostenido y riguroso esfuerzo de innovación en las modalidades de gestión de la formación.
 
@@ -2374,7 +2458,7 @@ El financiamiento de la educación en la República Dominicana es un tema recurr
 
 Estos sistemas deben estructurarse de forma tal "que sus planes de estudios y sus programas estén orientados -lo señala la UNESCO desde 1962-, al desarrollo de aptitudes básicas en los educandos, de modo que les permitan adaptarse más fácilmente, con adiestramiento específico, cuando decidan o se vean compelidos a cambiar de empleo, por su propia voluntad, o porque hayan cambiado las funciones del puesto de trabajo como resultado de los avances tecnológicos".
 
-También señalaba la UNESCO desde esa época que "la enseñanza técnica y profesional debe organizarse de forma que cada persona pueda continuar su educación hasta desarrollar plenamente su potencial. Debe asegurase la transferencia entre las distintas ramas de enseñanza técnica y mantener abierto a toda persona capacitada, el acceso a todos los niveles, tanto de Educación Técnico-Profesional, como de la enseñanza general".
+También señalaba la UNESCO desde esa época que "la enseñanza técnica y profesional debe organizarse de forma que cada persona pueda continuar su educación hasta desarrollar plenamente su potencial. Debe asegurase la transferencia entre las distintas ramas de en-
 
 97
 
@@ -2383,6 +2467,8 @@ También señalaba la UNESCO desde esa época que "la enseñanza técnica y prof
 [[START OF PAGE 98]]
 
 Metas Educativas 2021
+
+señanza técnica y mantener abierto a toda persona capacitada, el acceso a todos los niveles, tanto de Educación Técnico-Profesional, como de la enseñanza general".
 
 Más  reciente,  en  el  Seminario  Interamericano  Tripartito  sobre Formación Profesional, Productividad y Trabajo Docente, celebrado en el año 2002 en Río de Janeiro, se definieron las principales líneas de acción que deberían ser tomadas en cuenta como retos de los sistemas  de  educación/formación  para  responder  eficiente  y  efectivamente a las necesidades de recursos humanos que reclama el mercado de trabajo en el cambiante mundo de hoy.
 
@@ -2472,7 +2558,7 @@ Por ello es que se hace necesario y urgente mejorar el servicio de educación qu
 
 Dentro del Sistema Educativo Dominicano se perfilan dos grandes subsistemas  que  aunque  sus  fronteras  se  van  desdibujando  cada  vez más, conservan todavía características propias que los diferencian: subsistema formal y subsistema no formal. El formal es un sistema graduado y estructurado que comprende la Educación Inicial, Básica, Media y Superior;  la  educación  no  formal  se  refiere  a  aquellos  procesos  de aprendizaje organizados no necesariamente de acuerdo con grados y niveles de educación, ofrecidos generalmente a adultos y jóvenes.
 
-Tanto en la educación formal como en la no formal se pueden distinguir dos grandes líneas de formación, una, que puede considerarse como de contenido 'académico' o de contenido orientado a satisfacer necesidades de carácter socio-espirituales del individuo y, otra, cuyo objetivo inmediato 'in fine' es preparar a la persona, para el trabajo, para el empleo asalariado o el autoempleo.
+Tanto en la educación formal como en la no formal se pueden distinguir dos grandes líneas de formación, una, que puede considerarse como de contenido “académico” o de contenido orientado a satisfacer necesidades de carácter socio-espirituales del individuo y, otra, cuyo objetivo inmediato “in fine” es preparar a la persona, para el trabajo, para el empleo asalariado o el autoempleo.
 
 Con frecuencia se ha asociado a la Educación para el Trabajo con la educación no formal. Sin embargo, este tipo de educación comparte modalidades tanto formales como no formales.
 
@@ -2536,7 +2622,7 @@ Ahora bien, las principales disfunciones que se advierten en la oferta formativa
 
 - Las bases legales de los organismos rectores (especialmente entre la Ley Orgánica de Educación, 66-97 y la Ley Orgánica del INFOTEP,  116-80)  contienen  disposiciones  que  superponen  los  roles respectivos, contribuyendo con ello a la confusión y limitando los mecanismos de control, seguimiento y supervisión.
 
-Ciertamente, existe una confusión de roles entre las entidades que intervienen en la regulación, supervisión, control y operación de ambas  modalidades.  La  diversidad  de  leyes,  ordenanzas,  resoluciones, órdenes departamentales y decretos relacionados con el tema, contribuyen a profundizar la confusión existente, destacándose una serie de incongruencias entre las competencias institucionales.
+Ciertamente, existe una confusión de roles entre las entidades que intervienen en la regulación, supervisión, control y operación de ambas modalidades. La diversidad de leyes, ordenanzas, resoluciones,
 
 104
 
@@ -2546,7 +2632,9 @@ Ciertamente, existe una confusión de roles entre las entidades que intervienen 
 
 Retos actuales de la Educación Técnico-Profesional
 
-- Por ello las entidades que intervienen en la preparación de los recursos  humanos  de  los  niveles  de  base  y  medio  de  la  pirámide ocupacional, actúan con diferentes niveles de coordinación, y no están integradas en un plan nacional que vaya dirigido a satisfacer las demandas de personal que requieren los sectores productivos de la economía nacional, esto ha traído estas consecuencias :
+órdenes departamentales y decretos relacionados con el tema, contribuyen a profundizar la confusión existente, destacándose una serie de incongruencias entre las competencias institucionales.
+
+- Por ello las entidades que intervienen en la preparación de los recursos humanos de los niveles de base y medio de la pirámide ocupacional, actúan con diferentes niveles de coordinación, y no están integradas en un plan nacional que vaya dirigido a satisfacer las demandas de personal que requieren los sectores productivos de la economía nacional, esto ha traído estas consecuencias:
 
 - La actual infraestructura para la capacitación técnica, además de ser insuficiente, está siendo subutilizada.
 
@@ -2560,7 +2648,7 @@ Retos actuales de la Educación Técnico-Profesional
 
 - No se hayan establecido mecanismos que permitan la entrada y salida al mundo del trabajo del sujeto objeto de formación, así como de un sistema a otro.
 
-A fin  de  cambiar  esa  realidad,  en  la  República  Dominicana,  de manera particular, los agentes y actores que intervienen en la oferta de educación técnica y formación profesional han venido haciendo algunos esfuerzos en la línea de establecer mecanismos más apropiados de vinculación, coordinación y articulación curricular que permitan, entre otras mejoras, la validación y reconocimiento de las competencias laborales así como la movilidad horizontal y vertical de las personas sujetos de la formación/educación.
+A fin de cambiar esa realidad, en la República Dominicana, de manera particular, los agentes y actores que intervienen en la oferta de educación técnica y formación profesional han venido haciendo algunos esfuerzos en la línea de establecer mecanismos más apropiados de vinculación, coordinación y articulación curricular que permitan, entre otras mejoras, la validación y reconocimiento de las competencias
 
 105
 
@@ -2569,6 +2657,8 @@ A fin  de  cambiar  esa  realidad,  en  la  República  Dominicana,  de manera p
 [[START OF PAGE 106]]
 
 Metas Educativas 2021
+
+laborales así como la movilidad horizontal y vertical de las personas sujetos de la formación/educación.
 
 Como se puede evidenciar, por sus conexidades e implicaciones en el quehacer de las poblaciones y de las personas en particular, existe bastante preocupación, a nivel nacional e internacional, alrededor de la educación técnica y de la formación profesional, en particular sobre los elementos que definen su pertinencia, su buen desempeño y sus tendencias (ENDECA y Estudio de INFOTEP), que no solo acusa problemas de cobertura y acceso, de equidad e inclusión, de calidad, sino la incapacidad mostrada hasta ahora para cohesionar el sistema en torno a líneas de acción integradas, que permitan una articulación efectiva entre los tres subsistemas que lo conforman, fenómeno que tiene como consecuencia significativas disfunciones que limitan su capacidad para una atención apropiada a las necesidades de formación/educación de la población.
 
@@ -2610,7 +2700,7 @@ Nivel de logro . Se incrementa en un 5% anual el número de estudiantes y docent
 
 Incrementar la participación de los jóvenes y adultos en la educación Secundaria, Superior, en la Técnico-Profesional y Formación Profesional en la universitaria.
 
-#### Meta específica 17 : Aumentar el acceso a la Educación TécnicoProfesional y a la Formación Profesional.
+#### Meta específica 17 : Aumentar el acceso a la Educación Técnico-Profesional y a la Formación Profesional.
 
 Indicador 1 . Porcentaje de alumnos y alumnas que siguen formación técnica en los estudios post obligatorios.
 
@@ -2694,9 +2784,7 @@ Metas Educativas 2021
 
 ## Integrantes de la mesa :
 
-Coordinadora
-
-: Idionis Pérez
+Coordinadora: Idionis Pérez
 
 Ailin Lockward
 
@@ -2758,7 +2846,7 @@ Durante las últimas dos décadas el tema de la evaluación ha concitado la aten
 
 Desde el 1991, antes de formularse el Plan Decenal de Educación, se diseñó y puso en vigencia en el país el sistema de Pruebas Nacionales , para medir el aprendizaje de los alumnos. Este hecho constituye el primer paso hacia el establecimiento de un Sistema Nacional de Evaluación de la Calidad, con el propósito de obtener informaciones sobre algunos indicadores relativos al logro de los estudiantes. Las pruebas están vinculadas con la certificación de finalización del nivel y se realizan en octavo grado del nivel básico, tercer ciclo de adultos y cuarto grado del nivel medio, en las áreas de Matemática, Lengua Española, Ciencias de la Naturaleza y Ciencias Sociales. Esta política de evaluación se ha mantenido hasta la actualidad.
 
-Apesar de las valiosas informaciones producto de las Pruebas Nacionales, el uso de sus resultados ha sido limitado como medio para el fortalecimiento del sistema educativo. La discusión de los resultados de las evaluaciones entre las diferentes audiencias interesadas en la calidad de la educación, el uso para las investigaciones educativas, y para extraer conclusiones y medidas pertinentes para mejorar la gestión  institucional  y  pedagógica,  prácticamente  están  ausentes.  Por consiguiente, si bien existe una contribución paulatina al desarrollo de una cultura de evaluación, aún persisten desafíos para lograr que las Pruebas Nacionales se constituyan en un instrumento-guía en la búsqueda de la calidad de los aprendizajes.
+A pesar de las valiosas informaciones producto de las Pruebas Nacionales, el uso de sus resultados ha sido limitado como medio para el fortalecimiento del sistema educativo. La discusión de los resultados de las evaluaciones entre las diferentes audiencias interesadas en la calidad de la educación, el uso para las investigaciones educativas, y para extraer conclusiones y medidas pertinentes para mejorar la gestión institucional y pedagógica, prácticamente están ausentes. Por
 
 111
 
@@ -2768,13 +2856,15 @@ Apesar de las valiosas informaciones producto de las Pruebas Nacionales, el uso 
 
 Metas Educativas 2021
 
-Asimismo, se ha entendido que la calidad de los aprendizajes de los estudiantes depende, en gran medida, de la calidad de la enseñanza. Es por ello que, en el marco del Plan Decenal de Educación, se inicia también la evaluación del desempeño docente . La evaluaciones desarrolladas son procesos que corresponden a diferentes momentos (1992, 1999, 2002 y 2008); sin embargo conservan características similares: masivos, puntuales, obligatorios y atados a incentivos económicos, no ligados a la promoción dentro de la carrera docente, como tampoco al diagnóstico y mejoramiento de la gestión pedagógica e institucional. Más bien, corresponden a acciones aisladas, no dentro de un sistema de evaluación integral, siguiendo parámetros de desempeño objetivos y comparables entre docentes de diferentes centros.
+consiguiente, si bien existe una contribución paulatina al desarrollo de una cultura de evaluación, aún persisten desafíos para lograr que las Pruebas Nacionales se constituyan en un instrumento-guía en la búsqueda de la calidad de los aprendizajes.
+
+Asimismo, se ha entendido que la calidad de los aprendizajes de los estudiantes depende, en gran medida, de la calidad de la enseñanza. Es por ello que, en el marco del Plan Decenal de Educación, se inicia también la evaluación del desempeño docente. La evaluaciones desarrolladas son procesos que corresponden a diferentes momentos (1992, 1999, 2002 y 2008); sin embargo conservan características similares: masivos, puntuales, obligatorios y atados a incentivos económicos, no ligados a la promoción dentro de la carrera docente, como tampoco al diagnóstico y mejoramiento de la gestión pedagógica e institucional. Más bien, corresponden a acciones aisladas, no dentro de un sistema de evaluación integral, siguiendo parámetros de desempeño objetivos y comparables entre docentes de diferentes centros.
 
 La evaluación del desempeño docente no se ha institucionalizado. Hace falta desarrollar un sistema de evaluación del desempeño, tomando en cuenta los estándares de desempeño docente definidos por el Instituto Dominicano de Evaluación e Investigación de la Calidad de la Educación (IDEICE), como un mecanismo para asegurar la calidad de la enseñanza, el fortalecimiento de la profesión y como parte de una estrategia de rendición de cuentas.
 
 Por otro lado, se viene implementando de manera sistemática el ingreso a la carrera docente, mediante "concurso por oposición", amparado en el Reglamento del Estatuto Docente (2002), en el que se definen también los aspectos a evaluar y procedimientos a seguir. En el año 2008, se establece el régimen de concurso en las demás instancias del sistema educativo, además del centro educativo, al tiempo que se hace una revisión del sistema de evaluación vigente. Con el perfeccionamiento de estos procesos de selección se contribuirá con el fortalecimiento de la profesión docente, y con ello, con el mejoramiento de la calidad de la educación.
 
-Durante el período 2004-2008, se incorpora el Modelo de Gestión para la Calidad de los Centros Educativos, concebido como un instrumento de autogestión y desarrollo de planes de mejora en los centros educativos. En este marco, en el año 2007-08 se inició un proceso de autoevaluación de los centros educativos , el cual en ese momento se vinculó al proceso de evaluación del desempeño docente a fin de aplicar los incentivos correspondientes. Este modelo parte del supuesto de que la mejora permanente es el requisito fundamental para avanzar hacia mayores niveles de excelencia y que, si se introduce de manera explícita la evaluación de la gestión pedagógica y la gestión institucional como un mecanismo de mejoramiento de las mismas, este proceso  deberá  impactar  los  aprendizajes  de  los  estudiantes,  razón principal de la función de la escuela (De los Santos y Valeirón, 2007).
+Durante el período 2004-2008, se incorpora el Modelo de Gestión para la Calidad de los Centros Educativos, concebido como un instrumento de autogestión y desarrollo de planes de mejora en los centros
 
 112
 
@@ -2784,7 +2874,9 @@ Durante el período 2004-2008, se incorpora el Modelo de Gestión para la Calida
 
 La evaluación educativa en la República Dominicana
 
-Otro aspecto que es considerado de suma importancia dentro de las acciones evaluativas en los diferentes planes del sector, es la rendición de cuentas . Sin embargo, no se han creado espacios ni mecanismos para la rendición de cuentas desde la escuela hacia la comunidad, ni para que los padres y madres den seguimiento a la calidad de la enseñanza que reciben sus hijos e hijas. En las demás instancias del sistema educativo, especialmente en la sede central, se han establecido las "Memorias Anuales" y "Memorias de Gestión" que podrían servir como herramientas en la rendición de cuentas. Sin embargo, estos informes, aunque sistemáticos, solo se han considerado como exhibición de una gestión determinada y no como evaluación o reporte del nivel alcanzado de las metas propuestas.
+educativos. En este marco, en el año 2007-08 se inició un proceso de autoevaluación de los centros educativos, el cual en ese momento se vinculó al proceso de evaluación del desempeño docente a fin de aplicar los incentivos correspondientes. Este modelo parte del supuesto de que la mejora permanente es el requisito fundamental para avanzar hacia mayores niveles de excelencia y que, si se introduce de manera explícita la evaluación de la gestión pedagógica y la gestión institucional como un mecanismo de mejoramiento de las mismas, este proceso deberá impactar los aprendizajes de los estudiantes, razón principal de la función de la escuela (De los Santos y Valeirón, 2007).
+
+Otro aspecto que es considerado de suma importancia dentro de las acciones evaluativas en los diferentes planes del sector, es la rendición de cuentas. Sin embargo, no se han creado espacios ni mecanismos para la rendición de cuentas desde la escuela hacia la comunidad, ni para que los padres y madres den seguimiento a la calidad de la enseñanza que reciben sus hijos e hijas. En las demás instancias del sistema educativo, especialmente en la sede central, se han establecido las "Memorias Anuales" y "Memorias de Gestión" que podrían servir como herramientas en la rendición de cuentas. Sin embargo, estos informes, aunque sistemáticos, solo se han considerado como exhibición de una gestión determinada y no como evaluación o reporte del nivel alcanzado de las metas propuestas.
 
 En síntesis, se puede decir que las Pruebas Nacionales son el antecedente de mayor permanencia y sistematicidad realizado al interior del Sistema Educativo Dominicano dirigido a la evaluación de la calidad de la educación. Sin embargo, han sido concebidas y focalizadas a un aspecto de la eficacia de la educación (aspecto curricular), sin  considerar  lo  referente  a  la  pertinencia,  relevancia,  eficiencia  y equidad del servicio educativo que se le ofrece a la población destinataria del mismo, y en referencia al contexto nacional.
 
@@ -2883,9 +2975,9 @@ La evaluación educativa en la República Dominicana
 
 Metas 2021 | Plan Decenal de Educación 2008-2018
 --- | ---
-Meta general cuarta Universalizar la Educación Primaria y la Secundaria Básica y mejorar su calidad. | Política educativa No. 1 Movilizar las voluntades públicas y privadas con el objetivo de asegurar que la población de 5 años reciba un año de educación inicial y 8 años de educación básica inclusiva y de calidad. Política 4. Establecer claros estándares de calidad y un sistema de evaluación que permita monitorear el desempeño del sistema educativo, que estimule la movilización de la escuela, la familia y la comuni- dad a favor de una mejor educación y garantice al país que los certificados y títulos otorgados estén avalados por los aprendizajes previstos.
-Meta general quinta: Ofrecer un currículo significativo que ase- gure la adquisición de las competencias bá- sicas para el desarrollo personal y el ejerci- cio de la ciudadanía democrática. | Política 3. Revisar periódicamente, difundir y apli- car el currículo garantizando la comprensión lecto- ra y el desarrollo lógico matemático en el nivel bá- sico y promover una cultura de su cumplimiento desde una perspectiva de formación en valores que oriente el desarrollo humano integral, consolidando todas las demás dimensiones de la ciencia en los ni- veles educativos, así como la integración de las TICS a los procesos educativos.
-Meta general novena: Fortalecer la profesión docente. | Política 6. Priorizar la formación de recursos huma- nos de altas calificaciones para el sector educativo y promover la permanencia y crecimiento profesional del personal ya contratado.
+Meta general cuarta Universalizar la Educación Primaria y la Secundaria Básica y mejorar su calidad. | Política educativa No. 1 Movilizar las voluntades públicas y privadas con el objetivo de asegurar que la población de 5 años reciba un año de educación inicial y 8 años de educación básica inclusiva y de calidad. Política 4. Establecer claros estándares de calidad y un sistema de evaluación que permita monitorear el desempeño del sistema educativo, que estimule la movilización de la escuela, la familia y la comunidad a favor de una mejor educación y garantice al país que los certificados y títulos otorgados estén avalados por los aprendizajes previstos.
+Meta general quinta: Ofrecer un currículo significativo que asegure la adquisición de las competencias básicas para el desarrollo personal y el ejercicio de la ciudadanía democrática. | Política 3. Revisar periódicamente, difundir y aplicar el currículo garantizando la comprensión lectora y el desarrollo lógico matemático en el nivel básico y promover una cultura de su cumplimiento desde una perspectiva de formación en valores que oriente el desarrollo humano integral, consolidando todas las demás dimensiones de la ciencia en los niveles educativos, así como la integración de las TICS a los procesos educativos.
+Meta general novena: Fortalecer la profesión docente. | Política 6. Priorizar la formación de recursos humanos de altas calificaciones para el sector educativo y promover la permanencia y crecimiento profesional del personal ya contratado.
 
 Para poder responder a estas grandes metas desde una visión integral y sistémica, se asume un modelo de evaluación que abarque los aspectos principales vinculados con la calidad educativa. Un modelo integral debe incluir el contexto, los insumos, los procesos y los productos. Para ello debe considerar las siguientes evaluaciones :
 
@@ -2987,7 +3079,7 @@ Metas Educativas 2021
 
 ### 3.2 Evaluación docente
 
-Los maestros, pieza clave en el desarrollo de una educación de calidad, son los que apegados a lo establecido en el sistema educativo dominicano propician "la construcción de saberes o conocimientos; valores y actitudes adecuados para un desarrollo de sujetos libres, activos, críticos y conscientes". Son los que, con su capacidad, contribuyen al mejoramiento de la calidad de vida de sus estudiantes, la de su comunidad y la del conjunto de la sociedad.
+Los maestros, pieza clave en el desarrollo de una educación de calidad, son los que apegados a lo establecido en el sistema educativo dominicano propician "la construcción de saberes o conocimientos; valores y actitudes adecuados para un desarrollo de sujetos libres, activos, críticos y conscientes". Son los que, con su capacidad, contribu-
 
 120
 
@@ -2997,13 +3089,15 @@ Los maestros, pieza clave en el desarrollo de una educación de calidad, son los
 
 La evaluación educativa en la República Dominicana
 
-En este sentido, el desempeño docente es una práctica social, humana, que es necesario valorar y reconocer, para lo cual la evaluación juega un papel importante. La evaluación se fundamenta en las capacidades de la persona y en su posibilidad de superación y perfeccionamiento. Así,  teniendo  definidos  los  criterios  que  caracterizan  un buen desempeño docente, a partir del conocimiento didáctico y el conocimiento científico de lo que enseña, se puede realizar una evaluación de su trabajo. Los criterios bajo los cuales se deben evaluar los docentes abarcan los criterios referidos a lo que estos deben conocer, saber hacer, la forma en que lo realizan y la manera cómo establecen relaciones entre los sujetos. La evaluación, análisis y ponderación de cada criterio permitirá emitir juicios de valor acerca de lo que hace cada maestro en el aula y en la escuela.
+yen al mejoramiento de la calidad de vida de sus estudiantes, la de su comunidad y la del conjunto de la sociedad.
+
+En este sentido, el desempeño docente es una práctica social, humana, que es necesario valorar y reconocer, para lo cual la evaluación juega un papel importante. La evaluación se fundamenta en las capacidades de la persona y en su posibilidad de superación y perfeccionamiento. Así, teniendo definidos los criterios que caracterizan un buen desempeño docente, a partir del conocimiento didáctico y el conocimiento científico de lo que enseña, se puede realizar una evaluación de su trabajo. Los criterios bajo los cuales se deben evaluar los docentes abarcan los criterios referidos a lo que estos deben conocer, saber hacer, la forma en que lo realizan y la manera cómo establecen relaciones entre los sujetos. La evaluación, análisis y ponderación de cada criterio permitirá emitir juicios de valor acerca de lo que hace cada maestro en el aula y en la escuela.
 
 El  proceso  de  evaluación  docente  tiene  como  objetivo  fundamental apoyar y valorar el papel del maestro en nuestra sociedad. En tal sentido es necesario reunir información confiable para emitir juicios de valor en base a los criterios y parámetros establecidos que permitan tomar las decisiones que nos lleven a estimar y reconocer la labor de los docentes.
 
 Diferentes investigaciones muestran que la calidad de un sistema educativo está determinada por la calidad de sus docentes (Ravela 2007). Dicho de otra manera, la calidad de un sistema educativo nunca estará  por  encima  de  la  calidad  de  sus  docentes  (Informe  McKinsey, 2007). Uno de los indicadores de calidad docente más importantes es el dominio de los contenidos que se enseña. Esto lo confirman diferentes estudios que muestran que el dominio de dichos contenidos está asociado con resultados positivos en el aprendizaje de los estudiantes. Esto implica que el dominio por parte de los docentes de los contenidos que deben enseñar, así como de las estrategias más adecuadas para desarrollar la docencia en un área específica, repercute directamente en los niveles de logros de los estudiantes.
 
-Los procesos de evaluación docente, además de valorar la calidad del desempeño, deben estimular el compromiso del docente con su rendimiento, con los objetivos de su centro educativo y con su desarrollo profesional con miras a mejorar la calidad de los aprendizajes de sus estudiantes.  Por  ello,  se  propone  un  sistema  de  evaluación  docente que articule la evaluación del desempeño y la carrera docente.
+Los procesos de evaluación docente, además de valorar la calidad del desempeño, deben estimular el compromiso del docente con su rendimiento, con los objetivos de su centro educativo y con su desarrollo
 
 121
 
@@ -3012,6 +3106,8 @@ Los procesos de evaluación docente, además de valorar la calidad del desempeñ
 [[START OF PAGE 122]]
 
 Metas Educativas 2021
+
+profesional con miras a mejorar la calidad de los aprendizajes de sus estudiantes. Por ello, se propone un sistema de evaluación docente que articule la evaluación del desempeño y la carrera docente.
 
 #### Propósitos
 
@@ -3043,10 +3139,10 @@ Nivel o posición | Funciones (varias o una exclusiva) | Requisitos de acceso
 --- | --- | ---
 Ingreso | • Ingreso al registro de elegibles. | • Título docente. • Pruebas de conocimientos disciplinares y de didáctica.
 Etapa inicial | • Enseñanza de carácter interino. | • Puntaje mínimo necesario establecido para el ingreso.
-Etapa profesional Categoría 1 de la carrera docente (nombrada según el tipo de cargo) | • Enseñanza con carác- ter titular. • Orientación a pares. | • Tres años en el nivel anterior. • Informe favorable de desempeño de sus di- rectores y/o acompañantes. • Participar en los procesos de formación reco- mendados por las evaluaciones realizadas. • Pruebas de conocimientos disciplinares y de didáctica.
-Etapa profesional Categoría 2 | • Enseñanza con carác- ter titular. • Orientación o tutoría de estudiantes de edu- cación. | • Cinco años en el nivel anterior. • Informe favorable de desempeño de sus di- rectores. • Participar en los procesos de formación reco- mendados por las evaluaciones realizadas. • Portafolio de los materiales de enseñanza empleados en sus clases. • Pruebas de conocimientos disciplinares y de didáctica.
-Etapa profesional Categoría 3 | • Enseñanza. • Tutor de práctica docente. • Seguimiento y orien- tación a nuevos docentes. • Elaboración de mate- riales curriculares y guías para la enseñanza. | • Cinco años en el nivel anterior. • Informe favorable de desempeño de sus di- rectores. • Pruebas de didáctica. • Portafolio de materiales de enseñanza emplea- dos en sus clases. Reflexión escrita sobre la pertinencia de los mismos. • Certificación docente. • Curso de capacitación para orientación de docentes.
-Etapa profesional Categoría 4 | • Enseñanza. • Coordinador de departamento o asesor pedagógico. • Acompañante al desarrollo curricular. • Formador de docentes en servicio. • Evaluador de pares. | • Cinco años en el nivel anterior. • Informe favorable de desempeño de sus directores. • Pruebas de conocimientos avanzados en su disciplina. • Presentación de carpeta que recoja su traba- jo como orientador de docentes. • Presentación de carpeta de materiales curriculares elaborados. • Certificación docente. • Curso de capacitación para evaluación de docentes.
+Etapa profesional Categoría 1 de la carrera docente (nombrada según el tipo de cargo) | • Enseñanza con carácter titular. • Orientación a pares. | • Tres años en el nivel anterior. • Informe favorable de desempeño de sus directores y/o acompañantes. • Participar en los procesos de formación recomendados por las evaluaciones realizadas. • Pruebas de conocimientos disciplinares y de didáctica.
+Etapa profesional Categoría 2 | • Enseñanza con carácter titular. • Orientación o tutoría de estudiantes de educación. | • Cinco años en el nivel anterior. • Informe favorable de desempeño de sus directores. • Participar en los procesos de formación recomendados por las evaluaciones realizadas. • Portafolio de los materiales de enseñanza empleados en sus clases. • Pruebas de conocimientos disciplinares y de didáctica.
+Etapa profesional Categoría 3 | • Enseñanza. • Tutor de práctica docente. • Seguimiento y orientación a nuevos docentes. • Elaboración de materiales curriculares y guías para la enseñanza. | • Cinco años en el nivel anterior. • Informe favorable de desempeño de sus directores. • Pruebas de didáctica. • Portafolio de materiales de enseñanza empleados en sus clases. Reflexión escrita sobre la pertinencia de los mismos. • Certificación docente. • Curso de capacitación para orientación de docentes.
+Etapa profesional Categoría 4 | • Enseñanza. • Coordinador de departamento o asesor pedagógico. • Acompañante al desarrollo curricular. • Formador de docentes en servicio. • Evaluador de pares. | • Cinco años en el nivel anterior. • Informe favorable de desempeño de sus directores. • Pruebas de conocimientos avanzados en su disciplina. • Presentación de carpeta que recoja su trabajo como orientador de docentes. • Presentación de carpeta de materiales curriculares elaborados. • Certificación docente. • Curso de capacitación para evaluación de docentes.
 
 123
 
@@ -3090,7 +3186,7 @@ Como parte de este proceso de construcción de un sistema de evaluación deberá
 
 ### 3.3 Evaluación de centros educativos
 
-De la misma manera que es importante valorar los procesos y logros de aprendizaje de los estudiantes, así como el desempeño de los docentes, también es importante hacerlo con los procesos que se gestan en la organización escolar. La escuela, es el espacio en el cual los sistemas educativos organizan un conjunto de insumos y procesos, con el propósito de alcanzar los fines fundamentales de la educación, de ahí que valorar la gestión institucional y pedagógica se constituye en una tarea importante.
+De la misma manera que es importante valorar los procesos y logros de aprendizaje de los estudiantes, así como el desempeño de los docentes, también es importante hacerlo con los procesos que se gestan en la organización escolar. La escuela, es el espacio en el cual los sistemas educativos organizan un conjunto de insumos y procesos, con
 
 125
 
@@ -3099,6 +3195,8 @@ De la misma manera que es importante valorar los procesos y logros de aprendizaj
 [[START OF PAGE 126]]
 
 Metas Educativas 2021
+
+el propósito de alcanzar los fines fundamentales de la educación, de ahí que valorar la gestión institucional y pedagógica se constituye en una tarea importante.
 
 La gestión educativa se puede entender como el conjunto de procesos y acciones que se desarrollan en el marco de los sistemas educativos con el propósito de satisfacer las necesidades de los diferentes actores del mismo, de manera especial, los estudiantes y sus familiares, que depositan en los sistemas educativos las expectativas referidas a los aprendizajes.
 
@@ -3312,7 +3410,7 @@ Como sugieren Gómez y Pumarol (PLAN, 2005), "los desafíos de la atención a la
 
 ### 1.1 Situación actual de la primera infancia en República Dominicana
 
-Según la Oficina Nacional de Estadística (ONE), al censo 2002, la población infantil a nivel nacional, en edades de 0 a 5 años, era de 1, 164,101 niños y niñas. Según los cálculos basados en la tasa de crecimiento, a julio 2007, contaríamos con un aproximado de 1,834,438 niños y niñas en edades de 0 a 5 años. La primera infancia (0 a 5 años) constituye el 14% de la población en la República Dominicana.
+Según la Oficina Nacional de Estadística (ONE), al censo 2002, la población infantil a nivel nacional, en edades de 0 a 5 años, era de 1,164,101 niños y niñas. Según los cálculos basados en la tasa de crecimiento, a julio 2007, contaríamos con un aproximado de 1,834,438 niños y niñas en edades de 0 a 5 años. La primera infancia (0 a 5 años) constituye el 14% de la población en la República Dominicana.
 
 133
 
@@ -3332,7 +3430,7 @@ La República Dominicana continúa ocupando los primeros lugares de Latinoaméri
 
 La población de niños y niñas entre 0 y 5 años de edad no está ajena a la situación general de pobreza e inequidad que caracteriza la vida en la República Dominicana. Ante esta situación, son los niños y las niñas el grupo más vulnerable, ya que su "invisibilidad" social depende de los adultos a cargo, también excluidos.
 
-Como explican Gómez y Pumarol (PLAN, 2005), "Es posible concluir que la Niñez es el último eslabón de la pobreza, como grupo social, con características y necesidades propias, pero con una estrecha interrelación con los adultos responsables de su desarrollo; familias, escuela, comunidad y Estado."
+Como explican Gómez y Pumarol (PLAN, 2005), "Es posible concluir que la Niñez es el último eslabón de la pobreza, como grupo social, con características y necesidades propias, pero con una estrecha
 
 134
 
@@ -3342,7 +3440,9 @@ Como explican Gómez y Pumarol (PLAN, 2005), "Es posible concluir que la Niñez 
 
 La primera infancia en la República Dominicana
 
-Esta misma situación de pobreza es la que aleja a la mayoría de los niños dominicanos y las niñas dominicanas de gozar plenamente de los derechos universales de la niñez. Y es que la falta de políticas públicas a favor de la inversión en la primera infancia es lo que mantiene tan arraigado el círculo vicioso de la pobreza en la Republica Dominicana.
+interrelación con los adultos responsables de su desarrollo; familias, escuela, comunidad y Estado."
+
+Esta misma situación de pobreza es la que aleja a la mayoría de los niños dominicanos y las niñas dominicanas de gozar plenamente de los derechos universales de la niñez. Y es que la falta de políticas públicas a favor de la inversión en la primera infancia es lo que mantiene tan arraigado el círculo vicioso de la pobreza en la República Dominicana.
 
 Por ejemplo, la condición de pobreza, y en muchos de los casos de extrema pobreza, bajo la cual viven la mayoría de los niños y las niñas en el país condiciona el acceso a servicios de salud, educación, registro de nacimiento, protección y asistencia social.
 
@@ -3364,9 +3464,9 @@ Metas Educativas 2021
 
 Instancia | Función/ley
 --- | ---
-Consejo Nacional para la Niñez y Adolescencia (CONANI) | Ente rector del Sistema Nacional de Protección de Derechos Fun- damentales de los Niños, Niñas y Adolescentes (SNPNNA), según la Ley 136-03, que amplía la obligatoriedad de la educación desde los tres años.
-Ministerio de Educación | Ley de Educación 66-97, que establece la obligatoriedad del último año del Nivel Inicial, ofrecida a niños y niñas desde los cinco años de edad, y que le otorga funciones de rectoría del Sistema Educati- vo, comprometido con el desarrollo integral de los sujetos. Acoge al Consejo Nacional de Educación.
-Seguridad Social en sus artículos 127- 128,134-139 determina que el Seguro Familiar de Salud(SFS) consta de dos prestaciones: a)PBS b)SEI-SS | La ley 87-01 crea el Sistema Dominicano de Seguridad Social(SDSS) el cualdelimita funciones (Art. 137) para regular y normar la atención y cuidado brindados en los centros de atención de 0 a 5 años (desde 45 días de nacido/a). La función reguladora del CONDEI integra al IDSS (Instituto Dominicano del Seguro Social), como prestador de servicios de estancias infantiles (guarderías) en el país, y, bajo otro ré- gimen de relación, a las estancias de SESPAS (Secretaría de Estado de Salud Pública y Asistencia Social), y de la DAPI (Dirección de Atención de la Primera Infancia). Ministerio de Educación y CONA- NI están representados en el Consejo del CONDEI.
+Consejo Nacional para la Niñez y Adolescencia (CONANI) | Ente rector del Sistema Nacional de Protección de Derechos Fundamentales de los Niños, Niñas y Adolescentes (SNPNNA), según la Ley 136-03, que amplía la obligatoriedad de la educación desde los tres años.
+Ministerio de Educación | Ley de Educación 66-97, que establece la obligatoriedad del último año del Nivel Inicial, ofrecida a niños y niñas desde los cinco años de edad, y que le otorga funciones de rectoría del Sistema Educativo, comprometido con el desarrollo integral de los sujetos. Acoge al Consejo Nacional de Educación.
+Seguridad Social en sus artículos 127-128,134-139 determina que el Seguro Familiar de Salud(SFS) consta de dos prestaciones: a)PBS b)SEI-SS | La ley 87-01 crea el Sistema Dominicano de Seguridad Social(SDSS) el cualdelimita funciones (Art. 137) para regular y normar la atención y cuidado brindados en los centros de atención de 0 a 5 años (desde 45 días de nacido/a). La función reguladora del CONDEI integra al IDSS (Instituto Dominicano del Seguro Social), como prestador de servicios de estancias infantiles (guarderías) en el país, y, bajo otro régimen de relación, a las estancias de SESPAS (Secretaría de Estado de Salud Pública y Asistencia Social), y de la DAPI (Dirección de Atención de la Primera Infancia). Ministerio de Educación y CONANI están representados en el Consejo del CONDEI.
 
 (Plan, 2005)
 
@@ -3424,7 +3524,7 @@ Las capacidades, tanto del espacio físico y los materiales como de la capacitac
 
 #### Población atendida por el Consejo Nacional de Estancias Infantiles
 
-El  Sistema  Dominicano  de  Seguridad  Social  (SDSS)  desarrolla servicios en 54 Prestadoras de Servicios de Estancias Infantiles Salud Segura (PSEI-SS), para atender a los hijos de los trabajadores, desde los cuarenta y cinco (45) días de nacidos hasta cumplir los cinco (5) años de edad. Estos servicios están a cargo de personal especializado, bajo  la  supervisión  de  la  Superintendencia  de  Salud  y  Riesgos  del Trabajo y CONDEI. Estos servicios son ofrecidos en locales habilitados para tales fines en las grandes concentraciones humanas. En adición, entidades públicas y privadas pueden financiar, instalar y administrar Estancias Infantiles para fortalecer y complementar estos servicios  sociales.  Las  Estancias  Infantiles  se  encargan  de  otorgar  de atención física, educativa y afectiva.A través de estos centros distribuidos a lo largo y ancho del país, se atiende a una población de 5,378 niños y niñas a nivel nacional.
+El Sistema Dominicano de Seguridad Social (SDSS) desarrolla servicios en 54 Prestadoras de Servicios de Estancias Infantiles Salud Segura (PSEI-SS), para atender a los hijos de los trabajadores, desde los cuarenta y cinco (45) días de nacidos hasta cumplir los cinco (5) años de edad. Estos servicios están a cargo de personal especializado, bajo la supervisión de la Superintendencia de Salud y Riesgos del Trabajo y CONDEI. Estos servicios son ofrecidos en locales habilitados para tales fines en las grandes concentraciones humanas. En adición, entidades públicas y privadas pueden financiar, instalar y administrar Estancias Infantiles para fortalecer y complementar estos servicios sociales. Las Estancias Infantiles se encargan de otorgar de
 
 138
 
@@ -3433,6 +3533,8 @@ El  Sistema  Dominicano  de  Seguridad  Social  (SDSS)  desarrolla servicios en 
 [[START OF PAGE 139]]
 
 La primera infancia en la República Dominicana
+
+atención física, educativa y afectiva.A través de estos centros distribuidos a lo largo y ancho del país, se atiende a una población de 5,378 niños y niñas a nivel nacional.
 
 #### Población atendida por el Consejo Nacional para la Niñez y la Adolescencia (CONANI)
 
@@ -3448,7 +3550,7 @@ En la República Dominicana existen múltiples iniciativas no formales, impulsad
 
 Lamentablemente, actualmente no contamos con datos estadísticos que permitan conocer cuántos niñas y niños están recibiendo atención integral y cuántos se están quedando fuera. Esto representa un reto que ocupa a la mayoría de las instituciones vinculadas a la infancia.
 
-Apesar de los esfuerzos de instituciones gubernamentales y no gubernamentales para ofrecer atención mediante la modalidad no formal, la cobertura en relación al segmento poblacional sigue siendo baja.
+A pesar de los esfuerzos de instituciones gubernamentales y no gubernamentales para ofrecer atención mediante la modalidad no formal, la cobertura en relación al segmento poblacional sigue siendo baja.
 
 139
 
@@ -3540,7 +3642,7 @@ En el Diseño Curricular, el Nivel Inicial se concibe como un espacio que, en in
 
 ### Participación interinstitucional y multisectorial en la atención integral de la primera infancia
 
-Tal como se señalara anteriormente, las necesidades básicas en la Primera Infancia son múltiples, y se debe garantizar satisfacerlas. Esto implica aunar esfuerzos y fortalecer el sentido de la corresponsabilidad de todos los sectores del país, la ley 136-03, en su Principio IX, el cual establece que "La sociedad y sus organizaciones deben y tienen derecho a participar activamente en el logro de la vigencia plena y efectiva de los derechos de todos los niños, niñas y adolescentes. El Estado debe crear formas para la participación directa y activa de las instituciones  gubernamentales  y  no  gubernamentales,  en  la  definición, ejecución y control de las políticas de protección dirigidas a los niños, niñas y adolescentes".
+Tal como se señalara anteriormente, las necesidades básicas en la Primera Infancia son múltiples, y se debe garantizar satisfacerlas. Esto implica aunar esfuerzos y fortalecer el sentido de la corresponsabilidad de todos los sectores del país, la ley 136-03, en su Principio IX, el cual establece que "La sociedad y sus organizaciones deben y tienen derecho a participar activamente en el logro de la vigencia plena
 
 143
 
@@ -3550,14 +3652,16 @@ Tal como se señalara anteriormente, las necesidades básicas en la Primera Infa
 
 Metas Educativas 2021
 
+y efectiva de los derechos de todos los niños, niñas y adolescentes. El Estado debe crear formas para la participación directa y activa de las instituciones gubernamentales y no gubernamentales, en la definición, ejecución y control de las políticas de protección dirigidas a los niños, niñas y adolescentes".
+
 En este sentido, la construcción de la Política de Atención Integral de las niñas y los niños de 0 a 6 años se hace necesaria. Para garantizar el desarrollo de este importante segmento poblacional debe hacerse con un enfoque  participativo, interinstitucional y multisectorial.
 
 ## 6. Articulación de las metas educativas generales 2021 con los planes educativos nacionales: Plan Decenal de Educación 2008-2018 y Plan Estratégico de la Gestión Educativa 2008-2012
 
 Metas 2021 | Plan Decenal de Educación 2008-2018 | Plan Estratégico de la Gestión Educativa 2008-2012
 --- | --- | ---
-Meta general primera: Reforzar y ampliar la par- ticipación de la sociedad en la acción educadora. | Meta general primera: Reforzar y ampliar la participa- ción de la sociedad en la acción educadora. | Participación de padres, madres y comunidades en las escuelas.
-Meta general tercera: Aumentar la oferta de edu- cación inicial y potenciar su carácter educativo. | Política No.1: Movilizar las vo- luntades públicas y privadas con el objetivo de asegurar que la po- blación de 5 años reciba un año de educación inicial y 8 años de educación básica inclusiva y de calidad. Política No. 8: Estimular la parti- cipación de la familia, la comuni- dad e instituciones no guberna- mentales en el desarrollo de las políticas, los programas y los proyectos educativos. | Componente 2: Magisterio com- prometido: Formación y aten- ción permanentes.
+Meta general primera: Reforzar y ampliar la participación de la sociedad en la acción educadora. | Meta general primera: Reforzar y ampliar la participación de la sociedad en la acción educadora. | Participación de padres, madres y comunidades en las escuelas.
+Meta general tercera: Aumentar la oferta de educación inicial y potenciar su carácter educativo. | Política No.1: Movilizar las voluntades públicas y privadas con el objetivo de asegurar que la población de 5 años reciba un año de educación inicial y 8 años de educación básica inclusiva y de calidad. Política No. 8: Estimular la participación de la familia, la comunidad e instituciones no gubernamentales en el desarrollo de las políticas, los programas y los proyectos educativos. | Componente 2: Magisterio comprometido: Formación y atención permanentes.
 
 ### 6.1 Metas propuestas
 
@@ -3673,7 +3777,7 @@ Apoyo técnico y financiero a los programas de primera infancia
 
 Formales | No formales
 --- | ---
-Formación docente | Orientación a familias: • Programas radiales y televisivos. • Encuentros periódicos de formación. • Formación en salud preventiva y nu- trición. • Información en espacios públicos (salas de espera en hospitales, centros de va- cunación, parques, plazas, entre otros. • Visita a las familias.
+Formación docente | Orientación a familias: • Programas radiales y televisivos. • Encuentros periódicos de formación. • Formación en salud preventiva y nutrición. • Información en espacios públicos (salas de espera en hospitales, centros de vacunación, parques, plazas, entre otros. • Visita a las familias.
 Ambiente escolar (Infraestructuras, equipamiento, dotación de recursos, prevención de violencia, prevención de riesgos). | Atención directa: • Centros de atención • Ludotecas • Talleres diversos (literatura infantil, arte, deporte y expresiones culturales) • Espacios recreativos • Programas itinerantes • Centros de cuidado • Hospitales infantiles
 Desarrollo curricular. • Fortalecimiento del modelo pedagógico. • Elaboración de guías y manuales que orienten la práctica pedagógica.
 Escuelas de padres y madres. • Fortalecimiento de la estrategia de formación. • Programas de expansión de la estrategia a nivel nacional. • Elaboración de guías fascículos, brochures, manuales, etc.
@@ -3696,7 +3800,7 @@ Los programas de sensibilización a las familias acerca de la importancia de la 
 
 #### Relación metas y perfiles de proyectos
 
-Acontinuación se presenta el cuadro resumen de la relación entre las metas y los posibles proyectos para su concreción:
+A continuación se presenta el cuadro resumen de la relación entre las metas y los posibles proyectos para su concreción:
 
 Metas | Perfiles de proyectos
 --- | ---
@@ -3761,7 +3865,7 @@ UNICEF.  Infancia en República Dominicana. http://www.unicef.org/republicadomin
 
 La centralidad de la figura del maestro ha sido reconocida desde el momento mismo de la creación de la institución escolar. En el presente esta valoración ha sido resignificada a nivel mundial, ante el papel que desempeña el conocimiento y el desarrollo científico y tecnólogico en un mundo interconectado que funciona en el marco de una economía global.
 
-Alvaro Marchesi, en el preámbulo al documento 'Aprendizaje y desarrollo profesional docente', puesto a circular en el marco de las Metas 2021 formuladas por la Organización de Estados Iberoamericanos, OEI, con motivo de la celebración de los Bicentenarios, expresa esa relevancia al declarar que la calidad de la educación de un país no es superior a la calidad de su profesorado. El abordaje conceptual de la profesión docente se realiza desde este amplio y comprometedor planteamiento.
+Alvaro Marchesi, en el preámbulo al documento "Aprendizaje y desarrollo profesional docente", puesto a circular en el marco de las Metas 2021 formuladas por la Organización de Estados Iberoamericanos, OEI, con motivo de la celebración de los Bicentenarios, expresa esa relevancia al declarar que la calidad de la educación de un país no es superior a la calidad de su profesorado. El abordaje conceptual de la profesión docente se realiza desde este amplio y comprometedor planteamiento.
 
 La Mesa Consultiva responsable de recoger la mirada dominicana al tema "Aprendizaje y desarrollo profesional docente" ha venido analizando las diversas y complejas variables involucradas, entre las que se han destacado el aprendizaje continuo, la identidad y la innovación. Como ejes articuladores se han considerado la pertinencia y calidad de la formación inicial, las condiciones de acceso, los procesos de iniciación, la actualización y certificación de los docentes, así como la acreditación de los programas de formación que ofertan las instituciones de educación superior.
 
@@ -3801,7 +3905,7 @@ Estos autores vienen planteando que para la transformación de un buen conocimie
 
 ### 2.2 Inducción profesional
 
-Aunque la normativa que regula el Sistema de Formación Docente del país hace referencia a procesos de inducción, estos no han sido incorporados al modelo de formación presente. El tránsito de una formación inicial, recibida regularmente alejada de las prácticas de aula, puede constituir muchas veces un proceso traumático (Velaz y Vaillant, 2009). Los programas de inducción están, precisamente, dirigidos al apoyo de las condiciones de ingreso de los nuevos docentes. Se desarrollan en los primeros años del ejercicio profesional, en contextos que favorezcan la apropiación y puesta en práctica de los principios teóricos y metodológicos que sustentan el modelo educativo asumido por el país, grupo específico o institución en particular.
+Aunque la normativa que regula el Sistema de Formación Docente del país hace referencia a procesos de inducción, estos no han sido
 
 153
 
@@ -3811,7 +3915,9 @@ Aunque la normativa que regula el Sistema de Formación Docente del país hace r
 
 Metas Educativas 2021
 
-En la actualidad el acompañamiento constituye la estrategia privilegiada para llevar a cabo el proceso de inducción por muchos países de la región, los cuales han incorporado la figura del "mentor" o "profesor  guía",  como  modelo  de  buenas  prácticas  y  facilitador  de  un aprendizaje colaborativo.
+incorporados al modelo de formación presente. El tránsito de una formación inicial, recibida regularmente alejada de las prácticas de aula, puede constituir muchas veces un proceso traumático (Velaz y Vaillant, 2009). Los programas de inducción están, precisamente, dirigidos al apoyo de las condiciones de ingreso de los nuevos docentes. Se desarrollan en los primeros años del ejercicio profesional, en contextos que favorezcan la apropiación y puesta en práctica de los principios teóricos y metodológicos que sustentan el modelo educativo asumido por el país, grupo específico o institución en particular.
+
+En la actualidad el acompañamiento constituye la estrategia privilegiada para llevar a cabo el proceso de inducción por muchos países de la región, los cuales han incorporado la figura del "mentor" o "profesor guía", como modelo de buenas prácticas y facilitador de un aprendizaje colaborativo.
 
 ### 2.3 Formación continua
 
@@ -3819,7 +3925,7 @@ La formación del docente también es concebida en la normativa vigente como un 
 
 La formación continua ha sido estudiada en su vinculación al concepto de cualificación, entendida como la puesta en marcha de procesos en los que participan maestros a través de distintos proyectos, entre ellos la "investigación sobre la propia enseñanza", para apropiarse de su trabajo, documentarlo, pensarlo y pensarse a sí mismos en relación con su oficio, con la sociedad, el conocimiento y la cultura.
 
-La investigación-acción, desarrollada en redes de maestros y con el debido acompañamiento, podría resultar altamente efectiva. Redes, como  las  que  constituyen  los  grupos  pedagógicos,  microcentros  y equipos de gestión, propuestos en el marco del modelo de escuelas efectivas que se ensaya en la actualidad, constituyen valiosos escenarios que podrían servir de plataforma para el desarrollo de la estrategia propuesta.
+La investigación-acción, desarrollada en redes de maestros y con el debido acompañamiento, podría resultar altamente efectiva. Redes, como las que constituyen los grupos pedagógicos, microcentros y
 
 154
 
@@ -3828,6 +3934,8 @@ La investigación-acción, desarrollada en redes de maestros y con el debido aco
 [[START OF PAGE 155]]
 
 Fortalecimiento de la profesión docente: concepto, contexto y propuestas
+
+equipos de gestión, propuestos en el marco del modelo de escuelas efectivas que se ensaya en la actualidad, constituyen valiosos escenarios que podrían servir de plataforma para el desarrollo de la estrategia propuesta.
 
 De otra parte, asumir la formación continua de esta manera contribuye a superar un modelo sustentado en actividades formales de capacitación, altamente demandadas por su vinculación perversa a ascensos en la carrera docente en la mayoría de los países de la región. La República Dominicana no escapa a esta situación, la cual es fomentada por políticas credencialistas que vinculan la aplicación de incentivos a la titulación y a la participación en diplomados, cursos, seminarios y talleres.
 
@@ -3839,7 +3947,7 @@ La innovación constituye otro elemento a ser atendido en el desarrollo de la pr
 
 En el ámbito educativo se trata de la integración de estrategias diversas de aprendizaje, que utilicen las tecnologías en beneficio del talento humano, que propicien la indagación y la reflexión sobre la práctica.
 
-La utilización de las nuevas tecnologías podría resultar fértil para facilitar el cambio de énfasis operado en la profesión docente, el cual ha pasado de un enfoque centrado en el profesor y basado en una enseñanza frontal hacia una formación centrada principalmente en el estudiante en un entorno interactivo de aprendizaje. La UNESCO, al igual que otras organizaciones, plantea que para avanzar en esa dirección se hace necesario un cambio cultural en las instituciones y en los sistemas educativos, que posibilite la integración efectiva de las TICs a la formación docente. Este desafío obliga a prácticas innovadoras en los llamados nuevos escenarios de aprendizaje, aulas y comunidades virtuales, portales educativos, entre otros.
+La utilización de las nuevas tecnologías podría resultar fértil para facilitar el cambio de énfasis operado en la profesión docente, el cual
 
 155
 
@@ -3848,6 +3956,8 @@ La utilización de las nuevas tecnologías podría resultar fértil para facilit
 [[START OF PAGE 156]]
 
 Metas Educativas 2021
+
+ha pasado de un enfoque centrado en el profesor y basado en una enseñanza frontal hacia una formación centrada principalmente en el estudiante en un entorno interactivo de aprendizaje. La UNESCO, al igual que otras organizaciones, plantea que para avanzar en esa dirección se hace necesario un cambio cultural en las instituciones y en los sistemas educativos, que posibilite la integración efectiva de las TICs a la formación docente. Este desafío obliga a prácticas innovadoras en los llamados nuevos escenarios de aprendizaje, aulas y comunidades virtuales, portales educativos, entre otros.
 
 ### 2.5 Finalmente, el tema de la identidad.
 
@@ -3897,16 +4007,16 @@ Los Planes Decenales, 2008-2018, formulados por el Ministerio de Educación y la
 
 Fortalecimiento de la profesión docente: concepto, contexto y propuestas
 
-### 3.2 Metas 2021 - Planes Nacionales de Educación
+### 3.2 Metas 2021 – Planes Nacionales de Educación
 
 Metas Concordantes de los Planes Decenales de Educación de la República Dominicana con la Meta General Novena de la Conferencia Iberoamericana de Ministros de Educación
 
 Programa Estratégico 2 | Objetivo Nº 1
 --- | ---
-Establecimiento de un Sistema Nacional de Acreditación de Profesores y Carrera Académica en la Educación Superior | Fortalecer la calidad de la educación superior y de la docencia, así como de la profesionalización del cuerpo académico, por medio de un reglamento de carrera aca- démica y un sistema de acreditación de profesores, para un desempeño profesional con la estabilidad y condicio- nes de trabajo adecuadas durante el ejercicio, así como asegurándole un retiro digno.
-Programa Estratégico Nº 3 Formación, Capacitación y Actualización del Personal de la Educación Superior | Objetivo Nº 1 Implementar políticas, establecer métodos y procedi- mientos y desarrollar una cultura de formación, capaci- tación y actualización continua y permanente de los académicos y personal administrativo y logístico de la educación superior, para su aplicación en forma unifica- da y proporcionada en todas las IES.
-Programa Estratégico Nº 6 Programa Estratégico Nº 6 Transformación Curricular en la Educación Superior | Objetivo Nº 3 Diseñar o rediseñar el currículo de las IES, de manera participativa, basado en las necesidades actuales del país, con visión de futuro, atendiendo a los requeri- mientos de desarrollo del mismo y desde una perspecti- va de formación humanista, tanto local como global, e incorporando el pensamiento crítico y la apertura hacia la diversidad, en su más amplio sentido.
-Objetivo Nº 5 Desarrollar un plan nacional de formación curricular con las IES del sistema, para fomentar una mejora sus- tantiva de la docencia y su correspondiente práctica, al aplicar y desarrollar una visión curricular coherente con los nuevos momentos de la realidad del contexto en que aquella se ejerce, como con los avances científicos, téc- nicos, económicos y culturales.
+Establecimiento de un Sistema Nacional de Acreditación de Profesores y Carrera Académica en la Educación Superior | Fortalecer la calidad de la educación superior y de la docencia, así como de la profesionalización del cuerpo académico, por medio de un reglamento de carrera académica y un sistema de acreditación de profesores, para un desempeño profesional con la estabilidad y condiciones de trabajo adecuadas durante el ejercicio, así como asegurándole un retiro digno.
+Programa Estratégico Nº 3 Formación, Capacitación y Actualización del Personal de la Educación Superior | Objetivo Nº 1 Implementar políticas, establecer métodos y procedimientos y desarrollar una cultura de formación, capacitación y actualización continua y permanente de los académicos y personal administrativo y logístico de la educación superior, para su aplicación en forma unificada y proporcionada en todas las IES.
+Programa Estratégico Nº 6 Programa Estratégico Nº 6 Transformación Curricular en la Educación Superior | Objetivo Nº 3 Diseñar o rediseñar el currículo de las IES, de manera participativa, basado en las necesidades actuales del país, con visión de futuro, atendiendo a los requerimientos de desarrollo del mismo y desde una perspectiva de formación humanista, tanto local como global, e incorporando el pensamiento crítico y la apertura hacia la diversidad, en su más amplio sentido.
+| Objetivo Nº 5 Desarrollar un plan nacional de formación curricular con las IES del sistema, para fomentar una mejora sustantiva de la docencia y su correspondiente práctica, al aplicar y desarrollar una visión curricular coherente con los nuevos momentos de la realidad del contexto en que aquella se ejerce, como con los avances científicos, técnicos, económicos y culturales.
 
 159
 
@@ -3918,7 +4028,7 @@ Metas Educativas 2021
 
 Plan Estratégico de la Gestión Educativa 2008-2012 Ministerio de Educación, ME | Metas Educativas 2021: La Educación que Queremos para la Generación del Bicentenario
 --- | ---
-Priorizar la formación de recursos humanos de altas calificaciones para el sector educativo y promover la permanencia y el crecimiento profesional del personal ya contratado. | Mejorar la formación inicial del profesorado de primaria y secundaria. Favorecer la capa- citación continua y el desarrollo de la carre- ra profesional docente.
+Priorizar la formación de recursos humanos de altas calificaciones para el sector educativo y promover la permanencia y el crecimiento profesional del personal ya contratado. | Mejorar la formación inicial del profesorado de primaria y secundaria. Favorecer la capacitación continua y el desarrollo de la carrera profesional docente.
 
 ## 4. Perfiles de proyectos
 
@@ -4267,10 +4377,9 @@ Metas Educativas 2021
 
 Los perfiles de proyectos descritos, así como las políticas y programas requeridos, constituyen un planteamiento de carácter sistémico que puede dar inicio a estrategias que apunten a la mejora de un aspecto fundamental de la calidad educativa, el desarrollo continuo de los profesionales al servicio del Sistema Educativo Dominicano.
 
-## Integrantes de la mesa :
+## Integrantes de la mesa:
 
-Coordinadora : Minerva Vincent
----
+Coordinadora: Minerva Vincent
 Radhamés Mejía
 Teresa Peña
 Fidencio Fabián
@@ -4310,7 +4419,7 @@ La calidad en la educación es un tema complejo, multifactorial y pluridimension
 
 En diferentes tiempos y bajo diferentes condiciones se ha discutido sobre la calidad educativa centrando la responsabilidad de esta en los insumos o en el proceso educativo, enfatizando la determinación que sobre ésta ejerce el currículo, el estudiantado, el profesorado, el centro educativo, el contexto, el propio sistema en general. Asi, se han determinado factores, ámbitos, aspectos, atributos que distinguen una educación de calidad.
 
-En  este  sentido,  en  el  texto  Plan  Decenal  de  Educación  20082018, elaborado por el Ministerio de Educación (ME) de la República Dominicana, la comisión redactora de las políticas educativas enfatizó en la No. 4 el establecimiento de " claros estándares de calidad " (p.69) y estableció como indicadores:
+En este sentido, en el texto Plan Decenal de Educación 2008-2018, elaborado por el Ministerio de Educación (ME) de la República Dominicana, la comisión redactora de las políticas educativas enfatizó en la No. 4 el establecimiento de "claros estándares de calidad" (p.69) y estableció como indicadores:
 
 - Coherencia entre los fines, las estrategias y los resultados de políticas, programas y proyectos.
 
@@ -4378,7 +4487,7 @@ Inés Aguerrondo (1993) plantea unas características  del  concepto calidad que
 
 Después de considerar estas características, se hace obvia la pertinencia de ligar los conceptos calidad y equidad. Es decir, la posibilidad y el reto de que en una educación de masas puedan llevarse a cabo acciones y estrategias educativas tendentes a lograr calidad en la experiencia y los aprendizajes, ya que la educación es un derecho humano. La calidad surge en esa capacidad, donde el sujeto puede asumir su vida, donde se le dé una formación completa e integral, que le apoye para desarrollarse, para ser ciudadano/a y participar en el destino de su país.
 
-Afirmamos, junto al Resumen 2008 elaborado por UNESCO, que es posible promover, a la vez, mayor cobertura escolar y mayor equidad y calidad. Creemos que nuestro sistema educativo tiene que aplicarse a fondo para, con creatividad, energía e inteligencia integrar estas metas. Reconocemos, sin embargo que esto es un gran desafío para cualquier sistema educativo y que frente a la duda y al escepticismo respecto al logro de la mutual equidad y calidad, creemos con Cecilia Braslavsky (2004), que la salida es la acción en función de estos objetivos y la identificación de los indicios alentadores en el avance de la marcha hacia los mismos, así como de sus procesos de construcción y fortalecimiento.
+Afirmamos, junto al Resumen 2008 elaborado por UNESCO, que es posible promover, a la vez, mayor cobertura escolar y mayor equidad y calidad. Creemos que nuestro sistema educativo tiene que aplicarse a fondo para, con creatividad, energía e inteligencia integrar estas metas. Reconocemos, sin embargo que esto es un gran desafío para cualquier sistema educativo y que frente a la duda y al escepticis-
 
 171
 
@@ -4388,13 +4497,15 @@ Afirmamos, junto al Resumen 2008 elaborado por UNESCO, que es posible promover, 
 
 Metas Educativas 2021
 
-Un sistema educativo de calidad es accesible a todos/as los/as ciudadanos/as; facilita los recursos personales y materiales; ajusta las necesidades de cada alumno/a para que todos/as puedan tener las oportunidades  que  promuevan  lo  más  posible  su  progreso  académico  y personal y fomenta la innovación escolar en las aulas. Además, promueve la participación activa del alumnado tanto en el aprendizaje, como en la vida de la institución en un marco de valores donde todos/as se sientan respetados/as y valorados/as. Un sistema educativo de calidad se inserta en la comunidad y logra la participación de la familia, y estimula el bienestar y el desarrollo del profesorado.
+mo respecto al logro de la mutual equidad y calidad, creemos con Cecilia Braslavsky (2004), que la salida es la acción en función de estos objetivos y la identificación de los indicios alentadores en el avance de la marcha hacia los mismos, así como de sus procesos de construcción y fortalecimiento.
+
+Un sistema educativo de calidad es accesible a todos/as los/as ciudadanos/as; facilita los recursos personales y materiales; ajusta las necesidades de cada alumno/a para que todos/as puedan tener las oportunidades que promuevan lo más posible su progreso académico y personal y fomenta la innovación escolar en las aulas. Además, promueve la participación activa del alumnado tanto en el aprendizaje, como en la vida de la institución en un marco de valores donde todos/as se sientan respetados/as y valorados/as. Un sistema educativo de calidad se inserta en la comunidad y logra la participación de la familia, y estimula el bienestar y el desarrollo del profesorado.
 
 Lo que permite sostener los esfuerzos educativos de alta calidad, es que todos esos factores arriba mencionados estén bien articulados y alineados al servicio de unos propósitos educativos claros y compartidos. Esta es una concepción de calidad institucional y sistémica, que incluye como un componente importante al profesorado. Los/las docentes conocedores/as de la asignatura que enseñan así como del saber pedagógico específico son un factor esencial de calidad.
 
 Reimers (2009) señala que ningún sistema educativo puede ofrecer una calidad superior a la de sus maestros, pero que la calidad de la educación va más allá de los buenos profesores; que incluye sus condiciones laborales, el currículo que enseñan, los materiales que apoyan su tarea, el liderazgo pedagógico de sus directores de centros o supervisores de sistema, la forma en que se evalúa el aprendizaje y los regímenes de administración, control y rendición de cuentas de la organización para la cual laboran. Según este autor, las características comunes de los mejores sistemas educativos son: la selección de jóvenes con talento a la carrera docente, una excelente preparación inicial y sistemas de identificación y apoyo oportuno a aquellos alumnos y maestros que no alcanzan el nivel de rendimiento esperado.
 
-En el documento Plan Estratégico de Desarrollo de la Educación Dominicana 2003-2012 se plantea que calidad en la educación se logra cuando los individuos logran la construcción de saberes o conocimientos y valores y actitudes adecuados para un desarrollo de sujetos libres, activos, críticos y conscientes; con capacidad de contribuir al mejoramiento de la calidad de vida, la de su comunidad y la del conjunto de la sociedad. La OCDE nos había dicho en el 1995 que la educación de calidad asegura a todos los jóvenes la adquisición de los conocimientos, la capacidad de destrezas y actitudes necesarias para llevarle a la vía adulta.
+En el documento Plan Estratégico de Desarrollo de la Educación Dominicana 2003-2012 se plantea que calidad en la educación se lo-
 
 172
 
@@ -4404,13 +4515,15 @@ En el documento Plan Estratégico de Desarrollo de la Educación Dominicana 2003
 
 Calidad y equidad de la educación
 
+gra cuando los individuos logran la construcción de saberes o conocimientos y valores y actitudes adecuados para un desarrollo de sujetos libres, activos, críticos y conscientes; con capacidad de contribuir al mejoramiento de la calidad de vida, la de su comunidad y la del conjunto de la sociedad. La OCDE nos había dicho en el 1995 que la educación de calidad asegura a todos los jóvenes la adquisición de los conocimientos, la capacidad de destrezas y actitudes necesarias para llevarle a la vía adulta.
+
 Por eso, la preocupación por la calidad nos lleva a relevar la significatividad de lo que se aprende según el grupo de pertenencia, sobre todo cuando se trate de poblaciones vulnerables, o estudiantes con necesidades especiales o estudiantes en sobreedad. La escuela no ha reconocido la importancia de ofrecer a sus estudiantes lo que Francesco Tonucci (1996) denomina como "experiencias culturales primarias" (p. 9), lo que provoca, además de desmotivación, que las acciones que se realicen no resulten significativas, alejando toda posibilidad de lograr los aprendizajes y produciendo abandono escolar.
 
 "En efecto,  y  como  sabemos,  tradicionalmente  la  escuela  se  ha ocupado principalmente, y hasta de forma casi exclusiva, de transmitir los contenidos instruccionales. Sin embargo, la escuela es un agente primario, y el más importante junto con la familia, de socialización, tanto  a  nivel  de  currículum  abierto  como  de  currículum  oculto." (Ovejero Bernal, 1996, p. 323).
 
 El concepto de calidad involucra tanto los resultados como los procesos; tiene en cuenta las necesidades sociales y la satisfacción de las expectativas de los diversos actores y hace un uso eficiente de los recursos humanos y materiales disponibles. Una educación de calidad debe ser capaz de producir aprendizajes útiles para la vida actual y futura en las esferas cívica, familiar y personal. La calidad tiene que ver con cuánto aprenden los/las niños/as y si aprenden bien. También en qué medida su aprendizaje se plasma en una serie de beneficios para ellos/as mismos/as, la sociedad y el desarrollo. La calidad lo abarca todo: los/las docentes, las condiciones de trabajo, los recursos.
 
-Alejandro Tiana (2006) resume estas dimensiones de calidad como: eficacia, pertinencia, satisfacción y eficiencia. Queda entendido que la equidad, que demanda de la educación un trabajo para suprimir la desigualdad en las oportunidades educativas y ofrecer a cada persona las ayudas y los recursos que requiere para aprovecharlas, tiene que ir ligada indefectiblemente a la calidad.
+Alejandro Tiana (2006) resume estas dimensiones de calidad como: eficacia, pertinencia, satisfacción y eficiencia. Queda entendido que la equidad, que demanda de la educación un trabajo para supri-
 
 173
 
@@ -4419,6 +4532,8 @@ Alejandro Tiana (2006) resume estas dimensiones de calidad como: eficacia, perti
 [[START OF PAGE 174]]
 
 Metas Educativas 2021
+
+mir la desigualdad en las oportunidades educativas y ofrecer a cada persona las ayudas y los recursos que requiere para aprovecharlas, tiene que ir ligada indefectiblemente a la calidad.
 
 ## 2. Contextualización nacional de la temática de calidad y equidad en educación
 
@@ -4478,9 +4593,9 @@ Metas Educativas 2021
 
 Según estudio de Urquiola M. Calderón V., "Manzanas y naranjas: matrícula  y  escolaridad  en  países  de  América  Latina  y  el  Caribe" BID-2005; entre las naciones latinoamericanas, la República Dominicana tiene la mayor cobertura escolar para la población entre 6 y 18 años de edad con un 91%. En los últimos años el país ha alcanzado un 98% de asistencia escolar en el rango de 6-13 años de edad. De igual modo, al alcanzar los 18 años de edad, un joven dominicano ha estado inscrito en la escuela un promedio de 11.8 años, una cifra que solo  es  superada  en América  Latina  por Argentina  y  Chile,  con  12.1 años de escolaridad.
 
-Durante el año escolar 2003-2004, la cobertura del Nivel Inicial (niñas y niños de cinco años) alcanzó el 75.5%, mientras que en América Latina y el Caribe, para el año 2007, la cobertura neta para niños y niñas de la misma edad alcanza el 67.3%. Para el año escolar 20082009 en nuestro país se alcanza la cobertura de un 82% de niños y niñas de cinco años inscritos en los centros educativos. La cobertura neta  del  Nivel  Básico  (6  a  13  años),  al  2004  alcanza  91.7%,  para  el 2008-2009 a un 93.8%. Para el Nivel Medio, la cobertura neta alcanza al 2004 el 36.5%, y al 2008-2009 es de 51.54%.
+Durante el año escolar 2003-2004, la cobertura del Nivel Inicial (niñas y niños de cinco años) alcanzó el 75.5%, mientras que en América Latina y el Caribe, para el año 2007, la cobertura neta para niños y niñas de la misma edad alcanza el 67.3%. Para el año escolar 2008-2009 en nuestro país se alcanza la cobertura de un 82% de niños y niñas de cinco años inscritos en los centros educativos. La cobertura neta del Nivel Básico (6 a 13 años), al 2004 alcanza 91.7%, para el 2008-2009 a un 93.8%. Para el Nivel Medio, la cobertura neta alcanza al 2004 el 36.5%, y al 2008-2009 es de 51.54%.
 
-Según datos de la Comisión Económica Para América Latina y el Caribe (CEPAL), registrados en el estudio "Deserción escolar, un obstáculo para el logro de los Objetivos de Desarrollo para el Milenio". Realizado en 1999, las tasas de deserción en Argentina, Chile y Panamá fueron de 8.2 para el Nivel Básico y 11.2 para el Nivel Medio. Para El Salvador, Guatemala y Nicaragua fue de 11.9 para el Nivel Básico y 11.1 para el Nivel Medio. Para Brasil, Colombia y Perú fue de 16.1 para el Nivel Básico y 11.5 para el Nivel Medio. México, Bolivia y Honduras obtuvieron un 30.7 en el Nivel Básico y 31.2 en el Nivel Medio. Para los cuatro grupos de países señalados la tasa de deserción global fue de 20.7, 34.7, 42.1 y 67.1, respectivamente. Para la República Dominicana, dicho estudio señala que la deserción a Nivel Básico en el segmento urbano es de 4% y de 2% a nivel rural. La tasa global de deserción fue de 19% en el segmento urbano, solo por encima de Perú, Chile y Bolivia. A nivel rural fue la más baja de América Latina con 28%. En el año lectivo 2000-2001 la deserción para el Nivel Básico y medio fue de 6.90% y de 11.20%, respectivamente; ya en el período 2005-2006 se ubicaba en un 6.40% para el nivel básico y 8.80% para el nivel medio. En el caso de la educación rural, en donde los problemas de equidad son más complejos, para el rango entre 6 y 18 años, el país tiene el nivel de cobertura más alto de América Latina.
+Según datos de la Comisión Económica Para América Latina y el Caribe (CEPAL), registrados en el estudio "Deserción escolar, un obstáculo para el logro de los Objetivos de Desarrollo para el Milenio". Realizado en 1999, las tasas de deserción en Argentina, Chile y Panamá fueron de 8.2 para el Nivel Básico y 11.2 para el Nivel Medio. Para El Salvador, Guatemala y Nicaragua fue de 11.9 para el Nivel Básico y 11.1 para el Nivel Medio. Para Brasil, Colombia y Perú fue de 16.1 para el Nivel Básico y 11.5 para el Nivel Medio. México, Bolivia y Honduras obtuvieron un 30.7 en el Nivel Básico y 31.2 en el Nivel Medio. Para los cuatro grupos de países señalados la tasa de deserción global fue de 20.7, 34.7, 42.1 y 67.1, respectivamente. Para la República Dominicana, dicho estudio señala que la deserción a Nivel Básico en el segmento urbano es de 4% y de 2% a nivel rural. La tasa global de deserción fue de 19% en el segmento urbano, solo por encima de Perú, Chile y Bolivia. A nivel rural fue la más baja de América Latina con 28%. En el año lectivo 2000-2001 la deserción para el Nivel Básico y medio fue de 6.90% y de 11.20%, respectivamente; ya
 
 176
 
@@ -4489,6 +4604,8 @@ Según datos de la Comisión Económica Para América Latina y el Caribe (CEPAL)
 [[START OF PAGE 177]]
 
 Calidad y equidad de la educación
+
+en el período 2005-2006 se ubicaba en un 6.40% para el nivel básico y 8.80% para el nivel medio. En el caso de la educación rural, en donde los problemas de equidad son más complejos, para el rango entre 6 y 18 años, el país tiene el nivel de cobertura más alto de América Latina.
 
 Conforme a los datos de la ENDESA de 2007, más del 40% de los estudiantes en 1ro. de primaria tenían más de 6 años. Asimismo, más del 40% de los estudiantes de primaria tenían más de 10 años, y un 45% de los estudiantes en 8vo. de primaria tenían 16 años o más, aunque en la última década ha bajado sobre todo en las zonas rurales.
 
@@ -4714,7 +4831,7 @@ América Latina: Gasto per cápita
 
 en educación primaria. 2006
 
-Fuentes : Comisión Económica para América Latina (CEPAL). Panorama Social de América Latina 2008. UNESCO Institute for Statistics.
+Fuentes: Comisión Económica para América Latina (CEPAL). Panorama Social de América Latina 2008. UNESCO Institute for Statistics.
 
 179
 
@@ -4730,7 +4847,7 @@ Al alto fracaso en la promoción oportuna se une la baja calidad del primer cicl
 
 En el 2005 el Consorcio de Evaluación e Investigación Educativa (CEIE) realizó pruebas de español y matemática a una muestra de estudiantes para evaluar el dominio del currículo del primer ciclo y encontró que solo respondieron correctamente un tercio de las preguntas.
 
-Los resultados insatisfactorios, tanto en calidad como en años de escolaridad, son la preocupación central del Ministerio de Educación y su solución es el centro del Plan Decenal de Educación (PDE) 20082018 y del Plan Estratégico de Gestión Educativa (PEGE) 2008-2012. En ambos planes se formulan intervenciones para movilizar a la población y a los diferentes actores del sistema educativo a fin de lograr una educación con mejor calidad y equidad. Las intervenciones en estas áreas son clave para resolver los problemas sistémicos de la educación dominicana.
+Los resultados insatisfactorios, tanto en calidad como en años de escolaridad, son la preocupación central del Ministerio de Educación y su solución es el centro del Plan Decenal de Educación (PDE) 2008-2018 y del Plan Estratégico de Gestión Educativa (PEGE) 2008-2012. En ambos planes se formulan intervenciones para movilizar a la población y a los diferentes actores del sistema educativo a fin de lograr una educación con mejor calidad y equidad. Las intervenciones en estas áreas son clave para resolver los problemas sistémicos de la educación dominicana.
 
 180
 
@@ -4788,7 +4905,7 @@ Para avanzar hacia esos objetivos de mediano plazo, la presente gestión  diseñ
 
 - Ambientes de aprendizaje limpios y acogedores.
 
-El Plan Estratégico de la Gestión Educativa-PEGE (2008-2012) establece dos medidas para lograr mejores resultados en el aprendizaje: aumentar el número de horas de clase (cantidad) de 2,5 que se tiene en el 2008 a 4 horas mínimo, y mejorar la docencia que se ofrece en  el  aula  para  que  efectivamente  propicie  el  aprendizaje  esperado (calidad). A fin de reducir las tandas nocturnas y vespertinas, reducir el número de alumnos por sección y posibilitar una jornada diaria de 5 horas, el PEGE formula un Plan Maestro de Infraestructura Escolar, en el que se establece el diagnóstico de la infraestructura escolar considerando ubicación, utilización en tandas y matrícula, condiciones físicas  y  proyección  de  la  demanda.  Centrar  la  gestión  escolar  en  el aprendizaje de los alumnos y mejorar el apoyo que el sistema educativo brinde a las escuelas, otros objetivos del PEGE son factores fundamentales para el mejoramiento de la calidad y el cumplimiento del horario y el calendario.
+El Plan Estratégico de la Gestión Educativa-PEGE (2008-2012) establece dos medidas para lograr mejores resultados en el aprendizaje: aumentar el número de horas de clase (cantidad) de 2,5 que se tie-
 
 182
 
@@ -4797,6 +4914,8 @@ El Plan Estratégico de la Gestión Educativa-PEGE (2008-2012) establece dos med
 [[START OF PAGE 183]]
 
 Calidad y equidad de la educación
+
+ne en el 2008 a 4 horas mínimo, y mejorar la docencia que se ofrece en el aula para que efectivamente propicie el aprendizaje esperado (calidad). A fin de reducir las tandas nocturnas y vespertinas, reducir el número de alumnos por sección y posibilitar una jornada diaria de 5 horas, el PEGE formula un Plan Maestro de Infraestructura Escolar, en el que se establece el diagnóstico de la infraestructura escolar considerando ubicación, utilización en tandas y matrícula, condiciones físicas y proyección de la demanda. Centrar la gestión escolar en el aprendizaje de los alumnos y mejorar el apoyo que el sistema educativo brinde a las escuelas, otros objetivos del PEGE son factores fundamentales para el mejoramiento de la calidad y el cumplimiento del horario y el calendario.
 
 Por último, el PEGE también postula la necesidad de mejorar el sistema de evaluación de los aprendizajes y la formación de los docentes.
 
@@ -4813,20 +4932,20 @@ Tasa de asistencia Primaria | 95.00% | 96.60% | 98.00%
 Tasa neta de matrícula Secundaria | 49.50% | 51.54% | 53.60%
 Tasa global de asistencia 14 a 17 años | 82.20% | 81.90% | 88.10%
 Repitencia Primaria (*) | 4.10% | En proceso de captura | 3.80%
-Deserción Primaria (*) | 10.80% | 6.80%
-Depitencia Secundaria (*) | 2.20% | 1.90%
-Deserción Secundaria (*) | 8.20% | 5.70%
+Deserción Primaria (*) | 10.80% |  | 6.80%
+Depitencia Secundaria (*) | 2.20% |  | 1.90%
+Deserción Secundaria (*) | 8.20% |  | 5.70%
 Sobre-edad Primaria | 17.60% | 16.54% | 12.30%
 Sobre-edad Secundaria | 26.90% | 25.14% | 18.80%
 Escolaridad promedio | 8.1 | 8.2% | 9%
 Tasa de analfabetismo global | 10.80 | 11.00% | 7.00%
 % del PIB | 1.80 | 2.03% | 4.10%
 % del Presupuesto | 8.50 | 10.16% | 15.00%
-Rendimiento Matemáticas en 3 er grado | 396 | 2011
-Rango + 450
-Rendimiento Matemáticas en 6 to grado | 416 | Rango + 450
-Rendimiento Lectura en 3 er grado | 395 | Rango + 450
-Rendimiento Lectura 6 to grado | 421 | Rango + 450
+Rendimiento Matemáticas en 3er grado | 396 |  | 2011
+ |  |  | Rango + 450
+Rendimiento Matemáticas en 6to grado | 416 |  | Rango + 450
+Rendimiento Lectura en 3er grado | 395 |  | Rango + 450
+Rendimiento Lectura 6to grado | 421 |  | Rango + 450
 
 183
 
@@ -4840,17 +4959,9 @@ Metas Educativas 2021
 
 En  sentido  general,  las  Metas  Educativas  2021  coinciden  con  lo Planteado por el Gobierno Dominicano en su Plan Decenal de Educación-PDE y en su Plan Estratégico de la Gestión Educativa. Hay que indicar que nuestras metas se plantean como horizonte el año 2018. Con respecto a la calidad y equidad educativa, las Metas Educativas 2021 y el Plan Decenal de Educación 2008-2018 plantean lo siguiente:
 
-Meta General Segunda . | Política 7 .
+Meta General Segunda. | Política 7.
 --- | ---
-Incrementar las oportunidades y la atención educativa a la diversidad de necesidades del alumnado. | Promover la equidad educativa con apoyo a los estudiantes provenientes de los sectores sociales más vulnerables.
-Meta específica 4 . Prestar apoyo especial a las minorías étnicas, a las alumnas y al alum- nado que vive en zonas urbanas marginales y en zonas rurales para lograr la igualdad en la educación. Indicador 4 . Porcentaje de niños y niñas de estos colectivos escolarizados en la Educa- ción Inicial, Primaria y Secundaria Básica. Nivel de logro . Conseguir que el porcentaje de niños y de niñas de minorías étnicas resi- dentes en zonas urbanas marginales y zonas rurales, y de género femenino, sea al menos igual a la media del alumnado escolarizado en la Educación Inicial, Primaria y Secunda- ria Básica. Meta específica 6 . Apoyar la inclusión edu- cativa del alumnado con necesidades educa- tivas especiales con los apoyos especializa- dos necesarios. Indicador 7 . Porcentaje de alumnos y de alumnas con necesidades educativas especia- les escolarizados en la escuela ordinaria. Nivel de logro . Conseguir que en 2015 entre el 30% y el 60% del alumnado con necesida- des educativas especiales esté integrado en | Objetivo Estratégico 7 Lograr que los y las estudiantes de los secto- res sociales más vulnerables cuenten con apoyos para que puedan acceder y progresar en la educación. Política 8 . Estimular la participación de la familia, la comunidad e instituciones no gubernamen- tales en el desarrollo de las políticas, los pro-
-gramas y los proyectos educativos.
-Objetivo Estratégico 7 Lograr que los padres y madres de familia
-la escuela ordinaria y que entre el 50% y el | amigos de escuela sean actores dos en la construcción de una eduación clusiva de calidad con equidad en el
-80% lo esté en 2021.
-escolar.
-comprometi- in- espacio
-y
+Incrementar las oportunidades y la atención educativa a la diversidad de necesidades del alumnado. Meta específica 4. Prestar apoyo especial a las minorías étnicas, a las alumnas y al alumnado que vive en zonas urbanas marginales y en zonas rurales para lograr la igualdad en la educación. Indicador 4. Porcentaje de niños y niñas de estos colectivos escolarizados en la Educación Inicial, Primaria y Secundaria Básica. Nivel de logro. Conseguir que el porcentaje de niños y de niñas de minorías étnicas residentes en zonas urbanas marginales y zonas rurales, y de género femenino, sea al menos igual a la media del alumnado escolarizado en la Educación Inicial, Primaria y Secundaria Básica. Meta específica 6. Apoyar la inclusión educativa del alumnado con necesidades educativas especiales con los apoyos especializados necesarios. Indicador 7. Porcentaje de alumnos y de alumnas con necesidades educativas especiales escolarizados en la escuela ordinaria. Nivel de logro. Conseguir que en 2015 entre el 30% y el 60% del alumnado con necesidades educativas especiales esté integrado en la escuela ordinaria y que entre el 50% y el 80% lo esté en 2021. | Promover la equidad educativa con apoyo a los estudiantes provenientes de los sectores sociales más vulnerables. Objetivo Estratégico 7 Lograr que los y las estudiantes de los sectores sociales más vulnerables cuenten con apoyos para que puedan acceder y progresar en la educación. Política 8. Estimular la participación de la familia, la comunidad e instituciones no gubernamentales en el desarrollo de las políticas, los programas y los proyectos educativos. Objetivo Estratégico 7 Lograr que los padres y madres de familia y amigos de escuela sean actores comprometidos en la construcción de una educación inclusiva de calidad con equidad en el espacio escolar.
 
 184
 
@@ -4860,8 +4971,9 @@ y
 
 Calidad y equidad de la educación
 
-Meta General Cuarta . Universalizar la Educación Primaria y la Secundaria Básica y mejorar su calidad Meta específica 9 . Asegurar la escolarización de to- dos los niños y niñas en la educación Primaria y en la Educación Secundaria Básica en condiciones satis- factorias. Indicador 10 . Porcentaje de escolarización y de fina- lización de la Educación Primaria. Nivel de logro . En 2015, el 100% del alumnado está escolarizado en Educación Primaria y entre el 80% y el 100% la terminan a la edad correspondiente. En 2021, más del 90% de los alumnos terminan la Educación Primaria a la edad establecida. Indicador 11 . Porcentaje de escolarización y de fina- lización de la Educación Secundaria Básica. Nivel de logro . Alcanzar entre el 60% y el 95% de alumnos escolarizados en 2015 en Educación Secun- daria Básica y entre el 70% y el 100% en 2021. Entre el 40% y el 80% del alumnado terminan la Educación Secundaria Básica en 2015, y en 2021 en- tre el 60% y el 90%. Meta específica 10 . Mejorar la dotación de bibliote- cas y computadores en las escuelas. Indicador 12 . Porcentaje de escuelas con bibliotecas. Nivel de logro . Conseguir que al menos el 40% de las escuelas dispongan de bibliotecas escolares en 2015 y el 100% en 2021. Indicador 13 . Razón de alumnos por computador. Nivel de logro . Conseguir que la proporción entre computador y alumno se encuentre entre 1/8 y 1/40 en 2015 y entre 1/1 y 1/10 en 2021. Meta específica 11 . Ampliar el número de las escue- las de tiempo completo en Primaria. Indicador 14 . Porcentaje de escuelas públicas de Primaria de tiempo completo. Nivel de logro . Conseguir que al menos el 10% de las escuelas públicas de Educación Primaria sea de tiempo completo en 2015 y que al menos entre el 20% y 50% lo sea en 2021. Meta específica 12 . Extender la evaluación integral de los centros escolares. Indicador 15 . Porcentaje de escuelas que participan en programas de evaluación. Nivel de logro . Al menos entre el 10% y el 50% de los centros escolares participan en programas de eva- luación en 2015 y al menos entre el 40% y el 80% de las escuelas lo hacen en 2021. | Política 1 . Movilizar las voluntades públicas y privadas con el objetivo de asegurar que la población de 5 años reciba un año de Educación Inicial y 8 años de Educación Básica inclusiva y de cali- dad. Objetivo Estratégico 1 Lograr la universalidad del último curso del Nivel Inicial de calidad para la población de cinco años, y una Educación Básica Inclusiva de Cali- dad para los niños y niñas de quince años en un ambiente rico en estímu- los, con currículo nacional estandari- zado, flexible, con docentes que ten- gan una adecuada formación y con la activa participación de padres, madres y tutores.
+Meta General Cuarta. | Política 1.
 --- | ---
+Universalizar la Educación Primaria y la Secundaria Básica y mejorar su calidad. Meta específica 9. Asegurar la escolarización de todos los niños y niñas en la educación Primaria y en la Educación Secundaria Básica en condiciones satisfactorias. Indicador 10. Porcentaje de escolarización y de finalización de la Educación Primaria. Nivel de logro. En 2015, el 100% del alumnado está escolarizado en Educación Primaria y entre el 80% y el 100% la terminan a la edad correspondiente. En 2021, más del 90% de los alumnos terminan la Educación Primaria a la edad establecida. Indicador 11. Porcentaje de escolarización y de finalización de la Educación Secundaria Básica. Nivel de logro. Alcanzar entre el 60% y el 95% de alumnos escolarizados en 2015 en Educación Secundaria Básica y entre el 70% y el 100% en 2021. Entre el 40% y el 80% del alumnado terminan la Educación Secundaria Básica en 2015, y en 2021 entre el 60% y el 90%. Meta específica 10. Mejorar la dotación de bibliotecas y computadores en las escuelas. Indicador 12. Porcentaje de escuelas con bibliotecas. Nivel de logro. Conseguir que al menos el 40% de las escuelas dispongan de bibliotecas escolares en 2015 y el 100% en 2021. Indicador 13. Razón de alumnos por computador. Nivel de logro. Conseguir que la proporción entre computador y alumno se encuentre entre 1/8 y 1/40 en 2015 y entre 1/1 y 1/10 en 2021. Meta específica 11. Ampliar el número de las escuelas de tiempo completo en Primaria. Indicador 14. Porcentaje de escuelas públicas de Primaria de tiempo completo. Nivel de logro. Conseguir que al menos el 10% de las escuelas públicas de Educación Primaria sea de tiempo completo en 2015 y que al menos entre el 20% y 50% lo sea en 2021. Meta específica 12. Extender la evaluación integral de los centros escolares. Indicador 15. Porcentaje de escuelas que participan en programas de evaluación. Nivel de logro. Al menos entre el 10% y el 50% de los centros escolares participan en programas de evaluación en 2015 y al menos entre el 40% y el 80% de las escuelas lo hacen en 2021. | Movilizar las voluntades públicas y privadas con el objetivo de asegurar que la población de 5 años reciba un año de Educación Inicial y 8 años de Educación Básica inclusiva y de calidad. Objetivo Estratégico 1 Lograr la universalidad del último curso del Nivel Inicial de calidad para la población de cinco años, y una Educación Básica Inclusiva de Calidad para los niños y niñas de quince años en un ambiente rico en estímulos, con currículo nacional estandarizado, flexible, con docentes que tengan una adecuada formación y con la activa participación de padres, madres y tutores.
 
 185
 
@@ -4909,11 +5021,9 @@ Garantizar  el  acceso  y  la  permanencia  de  todos  los  niños  y  las niña
 
 Calidad y equidad de la educación
 
-## Integrantes de la mesa :
+## Integrantes de la mesa:
 
-Coordinador
-
-: Fernando Ogando
+Coordinador: Fernando Ogando
 
 Aida Consuelo Hernández
 
@@ -4945,13 +5055,13 @@ Rosalina Perdomo
 
 ## BIBLIOGRAGÍA
 
-- Aguerrondo, Inés: 'La calidad de la educación: ejes para su definición y evaluación'. En La Educación. Revista Interamericana de Desarrollo , No. 116. III. 1993.
+- Aguerrondo, Inés: “La calidad de la educación: ejes para su definición y evaluación”. En La Educación. Revista Interamericana de Desarrollo, No. 116. III. 1993.
 
-- Banco  Mundial. World  Development  Indicators.  https://publications.worldbank.org/register/WDI?return%5furl=%2fextop%2fsu bscriptions%2fWDI%2f. Extraído el 2 de marzo 2009.
+- Banco Mundial. World Development Indicators. https://publications.worldbank.org/register/WDI?return%5furl=%2fextop%2fsubscriptions%2fWDI%2f. Extraído el 2 de marzo 2009.
 
 - Braslavsky, Cecilia: Diez factores para una educación de calidad para todos en el siglo XXI, Fundación Santillana, Madrid, España, 2004.
 
-- Flores,  Ramón  y  Lapaix,  David.  2008.  'Diagnóstico  de  la Realidad  Educativa  Dominicana'.  En: Camino  a  la  Segunda Reforma del Sector Educación en la RD. Proyecto de Asistencia Técnica Institucional (ATI) Unión Europea. Santo Domingo. http://odh.pnud.org.do/sites/odh.pnud.org.do/files/Informes_Situa-cion_Social_RD/3_educacion.pdf
+- Flores, Ramón y Lapaix, David. 2008. “Diagnóstico de la Realidad Educativa Dominicana”. En: Camino a la Segunda Reforma del Sector Educación en la RD. Proyecto de Asistencia Técnica Institucional (ATI) Unión Europea. Santo Domingo. http://odh.pnud.org.do/sites/odh.pnud.org.do/files/Informes_Situacion_Social_RD/3_educacion.pdf
 
 187
 
@@ -4973,7 +5083,7 @@ Metas Educativas 2021
 
 - PREAL. EDUCA. Plan. 2006. Pasando Balance 2006. Informe de Progreso  Educativo  República  Dominicana.  Santo  Domingo: Mediabyte.
 
-- Reimers, Fernando 'Educar para la paz y la ciudadanía en América Latina, incluido en Calidad, equidad y reformas en la enseñanza, Págs. 125-142, Fundación Santillana, Madrid, España, 2009
+- Reimers, Fernando “Educar para la paz y la ciudadanía en América Latina, incluido en Calidad, equidad y reformas en la enseñanza, Págs. 125-142, Fundación Santillana, Madrid, España, 2009
 
 - SEE.  2008.  Plan  Decenal  de  Educación  2008-2018.  Un  instrumento de trabajo en procura de la excelencia educativa. Gestión educativa 2004-1008. Santo Domingo.
 
@@ -5026,8 +5136,6 @@ Metas Educativas 2021
 Para la consolidación de las iniciativas de integración de tecnología en la gestión pedagógica se está desarrollando el Programa Integral de Multimedia para el Aprendizaje, PIM APRENDE, como apoyo a las Comunidades de Aprendizaje y que procura llegar a más personas, en cualquier lugar del territorio nacional, todo el tiempo, usando todos los medios tecnológicos (radio educativa, televisión educativa, informática educativa, Internet, otros medios digitales, medios integrados como Web TV, entre otros), para así contribuir a ampliar la cobertura y a mejorar la calidad de la educación en todos sus niveles y modalidades.
 
 Programa integral de multimedia para el aprendizaje en contextos 1000 x 1000
-
-190
 
 Interconectividad
 
@@ -5107,6 +5215,8 @@ con RCTV, canal 17.
 
 Otros posibles convenios
 
+190
+
 [[END OF PAGE 190]]
 
 [[START OF PAGE 191]]
@@ -5155,7 +5265,7 @@ Las instituciones de educación superior (IES) son supervisadas y evaluadas por 
 
 Actualmente, el MESCyT cuenta con un portal Web que ofrece, tanto a las IES como al público en general, algunas facilidades: formularios y planillas para la recopilación de datos, informaciones y noticias de interés para las IES, interacción con cualquier entidad que lo requiera por medio de las diferentes herramientas de comunicación, documentos digitales  y  publicaciones  de  interés  para  la  comunidad educativa, entre otras. Esta útil herramienta podrá ser fortalecida para enriquecer el sistema educativo superior dominicano.
 
-De igual manera, el MESCyT instaló un nuevo edificio de cuatro niveles, previamente acondicionado en su infraestructura física y tecnológica; 13 salas digitales para estudiantes y profesorado universitarios, en la sede central y centros regionales de la UASD; diseñó el proyecto para la instalación de Internet 2 en el país para el fomento de la investigación universitaria y capacitó doscientas personas del profesorado universitario en el uso de plataformas informáticas para el diseño y desarrollo de cursos en línea y uso de Internet en el proceso de enseñanza.
+De igual manera, el MESCyT instaló un nuevo edificio de cuatro niveles, previamente acondicionado en su infraestructura física y tecnológica; 13 salas digitales para estudiantes y profesorado universitarios, en la sede central y centros regionales de la UASD; diseñó el proyecto para la instalación de Internet 2 en el país para el fomento de la investigación universitaria y capacitó doscientas personas del profesorado universitario en el uso de plataformas informáticas para el di-
 
 192
 
@@ -5164,6 +5274,8 @@ De igual manera, el MESCyT instaló un nuevo edificio de cuatro niveles, previam
 [[START OF PAGE 193]]
 
 Las TIC en la República Dominicana
+
+seño y desarrollo de cursos en línea y uso de Internet en el proceso de enseñanza.
 
 Por otro lado, tenemos las IES las cuales, en su mayoría, cuentan con su sitio Web y con una plataforma virtual (propia o adquirida) que soportan algunas de las actividades y servicios que ofrecen. El estudiantado, no obstante lo anterior, muchas veces no cuenta con los servicios requeridos y cuando se ve precisado a desplazarse de una universidad a otra, movilidad que es muy común en el entorno educativo, requiere que se le provea de un servicio oportuno, para asegurar de mejor manera su aprendizaje.
 
@@ -5175,7 +5287,7 @@ Dentro de los esfuerzos que se han estado realizando en los últimos años, se h
 
 Hoy en día, es difícil imaginarse el mundo sin red; miles de universidades de todo el mundo ya aprovechan este medio para apoyarse mutuamente; por ello se hace imperativo que la República Dominicana se inserte lo antes posible en este gran proyecto de red Internet avanzada.
 
-Otro aspecto a considerar, es la evidente determinación de las autoridades de buscar alternativas que permitan disminuir la brecha de formación a nivel terciario, para ello se ha estado trabajando en lo que es la educación media a distancia. Decenas de congresos y actividades promueven este escenario como una vía a tomar en cuenta para llegar a muchos que por otro medio se hace muy difícil y costoso.
+Otro aspecto a considerar, es la evidente determinación de las autoridades de buscar alternativas que permitan disminuir la brecha de formación a nivel terciario, para ello se ha estado trabajando en lo que
 
 193
 
@@ -5185,6 +5297,8 @@ Otro aspecto a considerar, es la evidente determinación de las autoridades de b
 
 Metas Educativas 2021
 
+es la educación media a distancia. Decenas de congresos y actividades promueven este escenario como una vía a tomar en cuenta para llegar a muchos que por otro medio se hace muy difícil y costoso.
+
 El sistema de las IES debe liberar al personal docente de la producción técnica de medios para el manejo de contenidos, y enfocarlos en la producción de nuevos conocimientos mediante el fortalecimiento de la I+D+I, y el reconocimiento de sus derechos de autoría. La modelación técnica de esos contenidos y los servicios necesarios para accederlos y administrarlos por la Web, sin que el personal docente posea obligatoriamente el conocimiento técnico informático para hacerlo, es uno de los retos para que el personal profesional en TIC deba considerarlo en el desarrollo de herramientas en software en educación.
 
 Una situación preocupante es la falta de recursos humanos que den soporte y aprovechen las aplicaciones de código libre que están disponibles en el mercado a nivel mundial y que son ampliamente utilizadas en muchas otras IES. De allí que sería recomendable que se pueda establecer una estrategia específica que permita llenar ese vacío.
@@ -5193,7 +5307,7 @@ En el contexto de la República Dominicana, el impacto de las TIC en las IES se 
 
 En el marco del Foro Presidencial, las informaciones recogidas en torno al uso que las IES les están dando a las TIC, indican que una muestra del 25% de las IES (11 de 43), se encontró que se utilizan, en primer lugar, como canal de comunicación (63.6%), instrumento para procesar informaciones (54.5%), fuente de información (54.5%), medio  de  expresión  (45.5%),  organización  y  gestión  de  la  institución (36.4%). Otros usos son: como recurso interactivo para el aprendizaje, como instrumento cognitivo y todas las anteriores. En adición, el 18% de las IES agregaron que otro uso que se les da es la formación en línea.
 
-Entre los servicios o herramientas que brindan las TIC, los más utilizados  por  las  IES,  a  nivel  general,  son  el  correo  electrónico (100%), buscadores (81.8%), noticias (72.7%), mensajería instantánea (45.5%), videoconferencia (45.5%), anuncios (45.5%); de ellos los cinco más utilizados son el correo electrónico, los buscadores, la mensajería instantánea y las transferencias vía "File Transfer Protocol" (FTP).
+Entre los servicios o herramientas que brindan las TIC, los más utilizados por las IES, a nivel general, son el correo electrónico (100%), buscadores (81.8%), noticias (72.7%), mensajería instantá-
 
 194
 
@@ -5203,11 +5317,13 @@ Entre los servicios o herramientas que brindan las TIC, los más utilizados  por
 
 Las TIC en la República Dominicana
 
-En lo relativo a la formación docente en las TIC, se puede decir que estas no solo suponen más tiempo de dedicación para el profesorado, sino que también traen consigo nuevas necesidades de formación, que a su vez van a exigir nuevas inversiones de tiempo y un cambio de actitud. Al respecto, el 81.82% de las IES consultadas afirmó que desarrollan programas de formación docente para el proceso de enseñanza y  aprendizaje.  Dicha formación engloba cursos cortos para preparación  de  materiales  multimedia,  cursos  para  el  uso  de  aplicativos  de presentación (PowerPoint, por ejemplo) y Producer, recursos de Internet, uso y manejo de equipos audiovisuales, manejo de aplicativos de ofimática (MS Office, por ejemplo), charlas sobre el rol de las TIC en los procesos docentes además, las TIC en la gestión administrativa, alfabetización digital, integración de las TIC en el aula, capacitación y desarrollo de investigaciones, gestión y administración de la docencia.
+nea (45.5%), videoconferencia (45.5%), anuncios (45.5%); de ellos los cinco más utilizados son el correo electrónico, los buscadores, la mensajería instantánea y las transferencias vía "File Transfer Protocol" (FTP).
+
+En lo relativo a la formación docente en las TIC, se puede decir que estas no solo suponen más tiempo de dedicación para el profesorado, sino que también traen consigo nuevas necesidades de formación, que a su vez van a exigir nuevas inversiones de tiempo y un cambio de actitud. Al respecto, el 81.82% de las IES consultadas afirmó que desarrollan programas de formación docente para el proceso de enseñanza y aprendizaje. Dicha formación engloba cursos cortos para preparación de materiales multimedia, cursos para el uso de aplicativos de presentación (PowerPoint, por ejemplo) y Producer, recursos de Internet, uso y manejo de equipos audiovisuales, manejo de aplicativos de ofimática (MS Office, por ejemplo), charlas sobre el rol de las TIC en los procesos docentes además, las TIC en la gestión administrativa, alfabetización digital, integración de las TIC en el aula, capacitación y desarrollo de investigaciones, gestión y administración de la docencia.
 
 Entre los planes y proyectos relativos a las TIC, las IES destacan el acceso a material preparado para el proceso de enseñanza y aprendizaje,  la  elaboración  y  administración  de  contenidos  multimedia, proyectos de aulas virtuales, educación virtual, proyectos de educación a distancia, edificios tecnológicos, mejoramiento continuo de la infraestructura  tecnológica  y  la  implementación  de  firmas  digitales para los documentos institucionales, entre otros (MESCyT, 2006).
 
-Con base en un sondeo de las IES dominicanas, se pudo constatar que el 100% de las instituciones que respondieron (el 30% del total) cuentan con un departamento o unidad de TIC, el cual tiene como responsabilidades: desarrollo de aplicaciones, administración de servicios electrónicos, desarrollo de soluciones y sistemas, administración de  infraestructura  de  comunicaciones,  representación  de  la  Institución, apoyo a cualquier actividad, evaluación de soluciones, soporte al personal usuario, administración de infraestructura, sistema de estudiantado, sistema de cómputos, página Web informativa, elaboración de proyectos de TIC y capacitación docente a profesionales. Entre las más solicitadas están: soporte a usuarios y usuarias y administración de infraestructura. En este sentido, el 90.9% de las IES que respondieron cuenta con una plataforma tecnológica, donde el 40 % de estas la considera excelente, el 20% como muy buena, y el 40% como buena, mientras que el 0.9% de las IES no cuenta con plataforma.
+Con base en un sondeo de las IES dominicanas, se pudo constatar que el 100% de las instituciones que respondieron (el 30% del total) cuentan con un departamento o unidad de TIC, el cual tiene como responsabilidades: desarrollo de aplicaciones, administración de servicios electrónicos, desarrollo de soluciones y sistemas, administración de infraestructura de comunicaciones, representación de la Institución, apoyo a cualquier actividad, evaluación de soluciones, soporte al personal usuario, administración de infraestructura, sistema de estudiantado, sistema de cómputos, página Web informativa, elaboración de proyectos de TIC y capacitación docente a profesionales. Entre las más solicitadas están: soporte a usuarios y usuarias y adminis-
 
 195
 
@@ -5217,11 +5333,13 @@ Con base en un sondeo de las IES dominicanas, se pudo constatar que el 100% de l
 
 Metas Educativas 2021
 
-En relación con la cantidad de computadoras, las instituciones que contestaron  el  sondeo  evidencian  una  buena  infraestructura  en  las áreas administrativas y en los laboratorios; a nivel de tecnología audiovisual, las IES priorizan la adquisición de proyectores multimedia, laptops, retroproyectores, TV y reproductores de video (VHS), y radios. Con relación a los principales softwares que utilizan en su gestión administrativa y académica se encuentran: Microsoft Windows (100%), Microsoft Office (90.91%), Linux (18.18%), Microsoft SQL (72.73%),  ASP (90.91%),  MacIntosh  (27.27%),  UNIX  (27.27%), otros (18.18%) como ORACLE, PHP, MYSQL, NET, APACHE, VISUAL BASIC SKYBASE, OPEN SOURCE SOFTWARE, MS ISA SERVICE,  JAVA,  SOLARIS,  DELPHI,  entre  otros.  Es  importante aclarar que estos softwares normalmente son utilizados tanto para la gestión administrativa, como para la gestión académica.
+tración de infraestructura. En este sentido, el 90.9% de las IES que respondieron cuenta con una plataforma tecnológica, donde el 40 % de estas la considera excelente, el 20% como muy buena, y el 40% como buena, mientras que el 0.9% de las IES no cuenta con plataforma.
+
+En relación con la cantidad de computadoras, las instituciones que contestaron el sondeo evidencian una buena infraestructura en las áreas administrativas y en los laboratorios; a nivel de tecnología audiovisual, las IES priorizan la adquisición de proyectores multimedia, laptops, retroproyectores, TV y reproductores de video (VHS), y radios. Con relación a los principales softwares que utilizan en su gestión administrativa y académica se encuentran: Microsoft Windows (100%), Microsoft Office (90.91%), Linux (18.18%), Microsoft SQL (72.73%), ASP (90.91%), MacIntosh (27.27%), UNIX (27.27%), otros (18.18%) como ORACLE, PHP, MYSQL, NET, APACHE, VISUAL BASIC SKYBASE, OPEN SOURCE SOFTWARE, MS ISA SERVICE, JAVA, SOLARIS, DELPHI, entre otros. Es importante aclarar que estos softwares normalmente son utilizados tanto para la gestión administrativa, como para la gestión académica.
 
 En cuanto a los sistemas informáticos para la gestión de los procesos universitarios, la situación actual es que la necesidad de recibir, tratar y difundir información de una manera cada vez más masiva, hace inconcebible el funcionamiento de una Institución de Educación Superior (IES) sin la automatización de procesos como la gestión de personal, la gestión académica o la gestión económica, por hacer solo mención de algunos de los hitos tradicionales.
 
-En un diagnóstico sobre la utilización de las TIC en la gestión administrativa de las IES dominicanas se encontró también que hay algunas buenas aplicaciones, sin embargo hay un gran trabajo por hacer. Esto se debe a que, por ejemplo, en el área de organización y recursos no se aprecia una organización clara de sus funciones que permita obtener ciertas ventajas (economías de escala), o llevar a cabo una planificación adecuada y coordinada en estos ámbitos. Con respecto a los recursos, se evidencia un desarrollo muy disímil en las universidades estudiadas en cuanto al número de computadoras, servidores, redes, aulas, servicios, etc., y así otras deficiencias y limitaciones que es indispensable superar, porque el desafío con estas tecnologías para contemporizar con las demandas del entorno nacional e internacional y la competitividad, debe asumirse no solo en el campo educativo sino también en el de la administración y la gestión, para involucrar a la institución en tal propósito como una totalidad.
+En un diagnóstico sobre la utilización de las TIC en la gestión administrativa de las IES dominicanas se encontró también que hay algunas buenas aplicaciones, sin embargo hay un gran trabajo por hacer. Esto se debe a que, por ejemplo, en el área de organización y recursos no se aprecia una organización clara de sus funciones que permita obtener ciertas ventajas (economías de escala), o llevar a cabo una planificación adecuada y coordinada en estos ámbitos. Con respecto a los recursos, se evidencia un desarrollo muy disímil en las universidades estudiadas en cuanto al número de computadoras, servidores, redes, aulas, servicios, etc., y así otras deficiencias y limitaciones que es indispensable superar, porque el desafío con estas tec-
 
 196
 
@@ -5231,6 +5349,8 @@ En un diagnóstico sobre la utilización de las TIC en la gestión administrativ
 
 Las TIC en la República Dominicana
 
+nologías para contemporizar con las demandas del entorno nacional e internacional y la competitividad, debe asumirse no solo en el campo educativo sino también en el de la administración y la gestión, para involucrar a la institución en tal propósito como una totalidad.
+
 Un aspecto, entre otros, muy relevante, es que en el área de formación en TIC se observa que las universidades no invierten suficientes recursos económicos (menos del 2% del presupuesto anual). Consecuentemente, los recursos materiales y la oferta de cursos de formación no son abundantes. Las universidades imparten cursos de formación a su personal, normalmente con personal propio y en las mismas universidades, con suficiente libertad de horarios. Por último, los contenidos más demandados han sido ofimática y seguridad y manejo de plataformas para la docencia online.
 
 Las perspectivas que tienen las IES sobre el uso de las TIC durante los próximos cinco años y más adelante, se orientan a que estas se conviertan en una herramienta fundamental del proceso de enseñanza y  aprendizaje,  permitiendo  que  se  popularice  el  acceso  de  recursos académicos para la enseñanza; al mismo tiempo se considera prioritario el establecimiento de controles de calidad a través de las TIC, adecuándolas a dichos procesos.
@@ -5239,7 +5359,7 @@ En el contexto de la República Dominicana, el impacto de las TIC en las IES se 
 
 El diagnóstico, a que hemos aludido, señala también que en cuanto a impedimentos para el uso, el costo de las TIC (81.8%), la problemática energética (63.6%), la resistencia al cambio (63.6%), los cambios tecnológicos (9.1%) y el analfabetismo tecnológico (63.6%) son los principales obstáculos existentes para la implementación y uso generalizado de las TIC en los procesos educativos.
 
-Otro aspecto relevante en la descripción de esta situación es que con el advenimiento de la Internet y su masificación a partir de la década del 1990, en la República Dominicana surgieron iniciativas que procuraron incorporar organizaciones, tanto públicas como privadas, en redes para el intercambio de información científica y tecnológica. Se tienen, como ejemplo, los casos de la Red Dominicana de Intercambio para el Desarrollo (REDID) y la RUDAC (Red Universitaria Dominicana Académica y Científica), de lo cual se ha derivado una muy valiosa experiencia que permitirá tomar decisiones en la actualidad y hacia el futuro con suficiente fundamentación y factibilidad.
+Otro aspecto relevante en la descripción de esta situación es que con el advenimiento de la Internet y su masificación a partir de la década del 1990, en la República Dominicana surgieron iniciativas que procuraron incorporar organizaciones, tanto públicas como privadas,
 
 197
 
@@ -5248,6 +5368,8 @@ Otro aspecto relevante en la descripción de esta situación es que con el adven
 [[START OF PAGE 198]]
 
 Metas Educativas 2021
+
+en redes para el intercambio de información científica y tecnológica. Se tienen, como ejemplo, los casos de la Red Dominicana de Intercambio para el Desarrollo (REDID) y la RUDAC (Red Universitaria Dominicana Académica y Científica), de lo cual se ha derivado una muy valiosa experiencia que permitirá tomar decisiones en la actualidad y hacia el futuro con suficiente fundamentación y factibilidad.
 
 Un último estudio llevado a cabo por la SEESCyT (hoy día Ministerio de Educación Superior, Ciencia y Tecnología) en el año 2009, nos presenta una situación más actualizada. El mismo tenía por objetivo determinar el grado de inserción de las IES dominicanas en la sociedad de la información y el conocimiento, atendiendo las funciones de administración académica y servicios académicos ofrecidos a estudiantes.
 
@@ -5265,7 +5387,7 @@ Un último estudio llevado a cabo por la SEESCyT (hoy día Ministerio de Educaci
 
 ### 1.3 La política de ciencia y tecnología: Plan Estratégico de Ciencia, Tecnología e Innovación 2008-2018 (PECYT+I)
 
-La ciencia y tecnología constituyen una prioridad en el modelo de desarrollo de la República Dominicana y en su sistema de educación superior. El país dispone de un plan estratégico de ciencia, tecnología e innovación 2008-2018 (PECYT+I), y constituye la herramienta de articulación  política  e  institucional  del  sistema  nacional  de  ciencia, tecnología e innovación cuyo objetivo final es el de orientar el desarrollo dominicano basado en el conocimiento y en la innovación y poder enfrentar los desafíos que el país encara en cuanto a lograr desarrollar una economía competitiva en el contexto regional e internacional en base a la innovación y el desarrollo tecnológico.
+La ciencia y tecnología constituyen una prioridad en el modelo de desarrollo de la República Dominicana y en su sistema de educación superior. El país dispone de un plan estratégico de ciencia, tecnología e innovación 2008-2018 (PECYT+I), y constituye la herramienta de articulación política e institucional del sistema nacional de ciencia, tecnología e innovación cuyo objetivo final es el de orientar el desarrollo dominicano basado en el conocimiento y en la innovación y poder enfrentar los desafíos que el país encara en cuanto a lograr desa-
 
 198
 
@@ -5275,11 +5397,13 @@ La ciencia y tecnología constituyen una prioridad en el modelo de desarrollo de
 
 Las TIC en la República Dominicana
 
-De acuerdo al PECYT+I 2008-2018, el modelo de crecimiento de República Dominicana ha tenido un bajo componente de actividades con contenido tecnológico, predominando el modelo de zonas francas exportadoras  fundamentalmente  de  textiles,  bajo  la  modalidad  del aprovechamiento de acceso preferencial al  mercado  de  los  Estados Unidos. Esta actividad está basada en el uso de una fuerza de trabajo con niveles de calificación medios. El segundo pilar de la actividad económica es el turismo, el cual tradicionalmente se ha basado en una oferta de sol, mar y arena, con bajo nivel de incorporación de tecnología y uso de mano de obra más orientada a los servicios.
+rrollar una economía competitiva en el contexto regional e internacional en base a la innovación y el desarrollo tecnológico.
+
+De acuerdo al PECYT+I 2008-2018, el modelo de crecimiento de República Dominicana ha tenido un bajo componente de actividades con contenido tecnológico, predominando el modelo de zonas francas exportadoras fundamentalmente de textiles, bajo la modalidad del aprovechamiento de acceso preferencial al mercado de los Estados Unidos. Esta actividad está basada en el uso de una fuerza de trabajo con niveles de calificación medios. El segundo pilar de la actividad económica es el turismo, el cual tradicionalmente se ha basado en una oferta de sol, mar y arena, con bajo nivel de incorporación de tecnología y uso de mano de obra más orientada a los servicios.
 
 Si bien, de acuerdo al propio PECYT+I, en los últimos años el país ha incrementado su oferta exportadora, dominicana sigue siendo un país con una producción de bienes con bajo contenido tecnológico, como así lo demuestra esta cita del plan:
 
-'…si se adopta como criterio una clasificación desarrollada por la CEPAL, se encuentra que en el 2006 solo alrededor de 5% de las exportaciones dominicanas de bienes podía ser considerada de alta tecnología, en contraste con alrededor de 20% de las exportaciones en el caso de Costa Rica (Fanelli y Guzmán, 2008). Alternativamente, si se adopta como criterio el nivel de "sofisticación" de las exportaciones desarrollado en Hausmann y Klinger (2006, 2007), se observa que la producción del país ha venido experimentando una cierta profundización tecnológica a lo largo del tiempo, pero todavía muestra una brecha considerable con respecto a las exportaciones de los países más avanzados en la región centroamericana:' ( ibíd ).
+“…si se adopta como criterio una clasificación desarrollada por la CEPAL, se encuentra que en el 2006 solo alrededor de 5% de las exportaciones dominicanas de bienes podía ser considerada de alta tecnología, en contraste con alrededor de 20% de las exportaciones en el caso de Costa Rica (Fanelli y Guzmán, 2008). Alternativamente, si se adopta como criterio el nivel de "sofisticación" de las exportaciones desarrollado en Hausmann y Klinger (2006, 2007), se observa que la producción del país ha venido experimentando una cierta profundización tecnológica a lo largo del tiempo, pero todavía muestra una brecha considerable con respecto a las exportaciones de los países más avanzados en la región centroamericana:” (ibíd).
 
 ### 1.4 Posicionamiento de la RD en el índice de competitividad global
 
@@ -5303,7 +5427,7 @@ Indica el informe que lo importante es que estas tecnologías estén a la dispos
 
 De los 8 indicadores del subíndice de preparación tecnológica, el país solo tiene ventajas competitivas en cuanto a la inversión directa extranjera y transferencia de tecnología, en cuyo ítem el país ocupa el lugar No.49. En los demás indicadores la posición que ocupa el país está en una escala alejada de lo que se considera son ventajas competitivas.
 
-Comparando el lugar ocupado por el país en los indicadores de este componente, se observa que, no obstante no tener el puntaje para ser competitivos en comparación con otros países, el lugar ocupado en estos indicadores es mucho mejor que en los demás pilares. Los indicadores de mejor desempeño son el marco legal relativo a las TIC y el nivel de absorción de tecnología por las empresas y los suscriptores de internet de banda ancha. En este pilar lo que más afecta al país es el número reportado (como dato duro) de computadores, ocupando el puesto 99, luego la disponibilidad de últimas tecnologías y los suscriptores de telefonía móvil.
+Comparando el lugar ocupado por el país en los indicadores de este componente, se observa que, no obstante no tener el puntaje para
 
 200
 
@@ -5312,6 +5436,8 @@ Comparando el lugar ocupado por el país en los indicadores de este componente, 
 [[START OF PAGE 201]]
 
 Las TIC en la República Dominicana
+
+ser competitivos en comparación con otros países, el lugar ocupado en estos indicadores es mucho mejor que en los demás pilares. Los indicadores de mejor desempeño son el marco legal relativo a las TIC y el nivel de absorción de tecnología por las empresas y los suscriptores de internet de banda ancha. En este pilar lo que más afecta al país es el número reportado (como dato duro) de computadores, ocupando el puesto 99, luego la disponibilidad de últimas tecnologías y los suscriptores de telefonía móvil.
 
 ### 1.5 Posicionamiento de la RD en el Índice de e-preparación, foro global
 
@@ -5369,7 +5495,7 @@ Estas líneas telefónicas han sido reportadas al INDOTEL por las siguientes con
 
 Desglosando la evolución de la telefonía dentro de un contexto año a año, podemos mostrar que durante el año 2004 el crecimiento fue de 14.5%, para el 2005 fue de 31.5%, para el año 2006 la telefonía creció a un ritmo de 21.8%, para el 2007 fue de 16.7%, para el año 2008 fue de 27.7%, finalmente, durante el año 2009 podemos exhibir un crecimiento de 17.1%, con respecto al cierre del año anterior.
 
-Este crecimiento en las líneas telefónicas fijas y móviles se traduce en beneficios para el subsector telefonía, el cual alcanzó niveles nunca antes vistos en el índice de teledensidad total, es decir el número de líneas telefónicas (fijas y móviles incluidas) por cada 100 habitantes. El país está próximo a alcanzar el cien por ciento, pasando de un índice de 37.8% exhibido para el año 2004 hasta 98.5% al cierre del 2009.
+Este crecimiento en las líneas telefónicas fijas y móviles se traduce en beneficios para el subsector telefonía, el cual alcanzó niveles nunca antes vistos en el índice de teledensidad total, es decir el número de lí-
 
 202
 
@@ -5378,6 +5504,8 @@ Este crecimiento en las líneas telefónicas fijas y móviles se traduce en bene
 [[START OF PAGE 203]]
 
 Las TIC en la República Dominicana
+
+neas telefónicas (fijas y móviles incluidas) por cada 100 habitantes. El país está próximo a alcanzar el cien por ciento, pasando de un índice de 37.8% exhibido para el año 2004 hasta 98.5% al cierre del 2009.
 
 La notable expansión del mercado de la telefonía se debe al auge de las líneas móviles, creciendo a una tasa anual media de 22.4% durante el período 2004-2009.
 
@@ -5521,61 +5649,25 @@ De acuerdo a la Encuesta Nacional de Hogares de Propósitos Múltiples 2007 real
 
 Hogares dominicanos con acceso a TIC: 2005-2007
 
+Proporción de hogares
 90
-
 80
-
 70
-
 60
-
 50
-
 40
-
 30
-
 20
-
 10
-
 0
 
-9
-
-13
-
-3
-
-6
-
-20
-
-26
-
-83
-
-48
-
-Año 2005
-
-Año 2007
-
-62
-
-76
-
-Proporción de hogares
-
-Computador
-
-Internet
-
-Telecable
-
-TV
-
-Radio
+| | Año 2005 | Año 2007 |
+|---|---:|---:|
+| Computador | 9 | 13 |
+| Internet | 3 | 6 |
+| Telecable | 20 | 26 |
+| TV | 76 | 83 |
+| Radio | 62 | 48 |
 
 Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR 2005)
 
@@ -5593,11 +5685,11 @@ Metas Educativas 2021
 
 De  acuerdo  al  informe  anual  Telecomunicaciones  y  TIC  en República Dominicana de la CNSIC sobre la base de la ENHOGAR 2007 hay un crecimiento del uso de la internet en la población dominicana. Del año 2005 al 2007 se registra un aumento de un 55% en el número de usuarios, estimándose que para el año 2007 el 25% de la población encuestada había usado la internet en el último año.
 
-Apartir de las iniciativas de acceso colectivo a las TIC promovidas  por  instituciones  gubernamentales  en  el  país  se  puede  concluir que se han incrementado las oportunidades de acceso a computadora e internet para la población dominicana y los hogares en los últimos cuatro años. En efecto, al 31 de diciembre del año 2009 había en el país 920 centros de acceso público a las TIC (CAPT) por iniciativa gubernamental con un promedio nacional de 30 CAPT por provincia (Cuadro 7), beneficiándose de estas iniciativas las 32 provincias del país, según la Unidad de Apoyo del INDOTEL.
+A partir de las iniciativas de acceso colectivo a las TIC promovidas por instituciones gubernamentales en el país se puede concluir que se han incrementado las oportunidades de acceso a computadora e internet para la población dominicana y los hogares en los últimos cuatro años. En efecto, al 31 de diciembre del año 2009 había en el país 920 centros de acceso público a las TIC (CAPT) por iniciativa gubernamental con un promedio nacional de 30 CAPT por provincia (Cuadro 7), beneficiándose de estas iniciativas las 32 provincias del país, según la Unidad de Apoyo del INDOTEL.
 
 Este masivo despliegue de CAPT está incentivando el acceso y uso de las TIC, en especial de la computadora y la internet de la población educativa infantil. Este dato se confirma con los datos de la ENHOGAR 2007, la cual confirma que el 50% de los cibernautas tiene una frecuencia de uso de la red de varias veces por semana y el 19% de al menos una vez por semana, y sumadas estas tres alternativas nos arrojan que prácticamente dos tercios de los usuarios usan e internet con regularidad, observándose de igual manera un aumento en la frecuencia de uso semanal entre el 2005 y el 2007.
 
-Del año 2005 al 2007 se incrementa de manera significativa por parte de la población dominicana el uso de los centros de acceso público a las TIC, sea por la vía privada (cibercafés, centros de llamadas) o por las iniciativas gubernamentales de los centros de Capacitación en Informática Básica o los denominados centros tecnológicos (71%), seguido del hogar, sea propio o de un conocido (515) y en tercer lugar, desde un establecimiento educativo (29%), aunque este canal de acceso disminuye del 2005 al 2007, al igual que los centros de trabajo.
+Del año 2005 al 2007 se incrementa de manera significativa por parte de la población dominicana el uso de los centros de acceso público a las TIC, sea por la vía privada (cibercafés, centros de llamadas) o por las iniciativas gubernamentales de los centros de Capacitación en Informática Básica o los denominados centros tecnológicos (71%), seguido del hogar, sea propio o de un conocido (51%) y en tercer lugar, desde un establecimiento educativo (29%), aunque este canal de acceso disminuye del 2005 al 2007, al igual que los centros de trabajo.
 
 208
 
@@ -5611,7 +5703,7 @@ Las TIC en la República Dominicana
 
 Metas 2021 | Plan Decenal de Educación 2008-2018
 --- | ---
-Meta general tercera "Aumentar la oferta de educación inicial y potenciar su carácter educativo." | Política Educativa No. 1 Movilizar las voluntades públicas y privadas con el objetivo de asegurar que la población de 5 años reciba un año de educación inicial y 8 años de educación básica inclusiva y de calidad. Una de las consideraciones generales de la Política Educativa No. 1 hace referencia a: "…Un aspecto importante en la revisión curricular es el fortalecimiento de las áreas para que generen acciones que desarrollen la lecto-escritura y la matemática, así como la integración de las TICs como un elemento de apoyo fundamental en el desar- rollo del currículo." En el marco del Objetivo estratégico 1 que establece : "Lograr la universalidad del último curso del Nivel Inicial de calidad para la población de cinco años, y una Educación Básica Inclusiva de Calidad para los niños y niñas de quince años en un ambiente rico en estímulos, con currículo nacional estandarizado, flexible, con docentes que tengan una adecuada formación y con la activa participación de padres, madres y tutores." Para el Resultado 1.1 : "Al año 2012 se cuenta con una cobertura del 100% de la población de niños y niñas de cinco años que cursan obligatoriamente el último curso del Nivel Inicial. Al 2018 el Nivel Inicial cuenta con 5 horas diarias de docencia impartidas con calidad." Se propone como parte de las medidas y acciones: 1.1.3 Uso de las tecnologías de la información y de la comunicación por los estudiantes en el último curso del Nivel Inicial. Para el Resultado 1.2 que dice: "Al año 2018 todos los niños y niñas de quince años alcanzan una Educación Básica inclusiva y de calidad, siendo el primer ciclo de dicho nivel una educación de calidad a nivel internacional. Se propone como parte de las MEDIDAS YACCIONES 1.2.5 Promoción del uso de las TICs como recursos para el aprendizaje.
+Meta general tercera "Aumentar la oferta de educación inicial y potenciar su carácter educativo." | Política Educativa No. 1 Movilizar las voluntades públicas y privadas con el objetivo de asegurar que la población de 5 años reciba un año de educación inicial y 8 años de educación básica inclusiva y de calidad. Una de las consideraciones generales de la Política Educativa No. 1 hace referencia a: "…Un aspecto importante en la revisión curricular es el fortalecimiento de las áreas para que generen acciones que desarrollen la lecto-escritura y la matemática, así como la integración de las TICs como un elemento de apoyo fundamental en el desarrollo del currículo." En el marco del Objetivo estratégico 1 que establece: "Lograr la universalidad del último curso del Nivel Inicial de calidad para la población de cinco años, y una Educación Básica Inclusiva de Calidad para los niños y niñas de quince años en un ambiente rico en estímulos, con currículo nacional estandarizado, flexible, con docentes que tengan una adecuada formación y con la activa participación de padres, madres y tutores." Para el Resultado 1.1: "Al año 2012 se cuenta con una cobertura del 100% de la población de niños y niñas de cinco años que cursan obligatoriamente el último curso del Nivel Inicial. Al 2018 el Nivel Inicial cuenta con 5 horas diarias de docencia impartidas con calidad." Se propone como parte de las medidas y acciones: 1.1.3 Uso de las tecnologías de la información y de la comunicación por los estudiantes en el último curso del Nivel Inicial. Para el Resultado 1.2 que dice: "Al año 2018 todos los niños y niñas de quince años alcanzan una Educación Básica inclusiva y de calidad, siendo el primer ciclo de dicho nivel una educación de calidad a nivel internacional. Se propone como parte de las MEDIDAS Y ACCIONES 1.2.5 Promoción del uso de las TICs como recursos para el aprendizaje.
 
 209
 
@@ -5623,7 +5715,7 @@ Metas Educativas 2021
 
 Metas 2021 | Plan Decenal de Educación 2008-2018
 --- | ---
-"Universalizar la educación primaria y la secundaria básica y mejorar su calidad." Meta específica 10. Mejorar la dotación de bibliotecas y computadoras en las escuelas. | Política Educativa No. 2 . Consolidar, expandir y di- versificar el Nivel de Educación Media y la modali- dad de Educación de Adultos de calidad, con el ob- jetivo de crear ciudadanía y como paso al mercado laboral y/o a la educación superior. El Plan Decenal remarca que es una política orien- tada al fortalecimiento de la Educación Media de Calidad, a través del diseño y puesta en marcha de una dinámica gestión de calidad de la educación de este Nivel, de estrategias innovadoras y de una in- versión sustantiva en infraestructura, equipamiento y uso de las tecnologías de la información y de la comunicación. Como una de las medidas para lograr el Resultado 2.1 "La calidad de la Educación Media se consolida, se expande y diversifica en plena articulación con la Educación Técnico Profesional y con la Educación de Adultos." Se propone: 2.1.6 Organización, iniciación y desarrollo del BA- CHINET en articulación con el Despacho de la Pri- mera Dama, Informática Educativa, Currículo y Adultos. 2.1.13 Expansión del Sistema Informatizado de Su- pervisión Educativa (SISE). 2.1.14 Desarrollo y expansión de la Web de Educa- ción Media. Para lograr el Resultado 2.2 . La calidad de la Edu- cación de Adultos se consolida, se expande y se diver- sifica en articulación con la Educación Básica, la Edu- cación Media y la Educación Técnico Profesional, así como con organismos del Estado y de la amplia gama de organizaciones de la sociedad dominicana. Se propone como parte de las medidas y acciones para lograr el resultado 2.2 2.2.3 Apoyo con recursos tecnológicos para el proce- so de la enseñanza-aprendizaje de la población joven y adulta.
+"Universalizar la educación primaria y la secundaria básica y mejorar su calidad." Meta específica 10. Mejorar la dotación de bibliotecas y computadoras en las escuelas. | Política Educativa No. 2. Consolidar, expandir y diversificar el Nivel de Educación Media y la modalidad de Educación de Adultos de calidad, con el objetivo de crear ciudadanía y como paso al mercado laboral y/o a la educación superior. El Plan Decenal remarca que es una política orientada al fortalecimiento de la Educación Media de Calidad, a través del diseño y puesta en marcha de una dinámica gestión de calidad de la educación de este Nivel, de estrategias innovadoras y de una inversión sustantiva en infraestructura, equipamiento y uso de las tecnologías de la información y de la comunicación. Como una de las medidas para lograr el Resultado 2.1 "La calidad de la Educación Media se consolida, se expande y diversifica en plena articulación con la Educación Técnico Profesional y con la Educación de Adultos." Se propone: 2.1.6 Organización, iniciación y desarrollo del BACHINET en articulación con el Despacho de la Primera Dama, Informática Educativa, Currículo y Adultos. 2.1.13 Expansión del Sistema Informatizado de Supervisión Educativa (SISE). 2.1.14 Desarrollo y expansión de la Web de Educación Media. Para lograr el Resultado 2.2. La calidad de la Educación de Adultos se consolida, se expande y se diversifica en articulación con la Educación Básica, la Educación Media y la Educación Técnico Profesional, así como con organismos del Estado y de la amplia gama de organizaciones de la sociedad dominicana. Se propone como parte de las medidas y acciones para lograr el resultado 2.2 2.2.3 Apoyo con recursos tecnológicos para el proceso de la enseñanza-aprendizaje de la población joven y adulta.
 
 210
 
@@ -5635,7 +5727,7 @@ Las TIC en la República Dominicana
 
 Metas 2021 | Plan Decenal de Educación 2008-2018
 --- | ---
-Meta general quinta 'Ofrecer un currículo significativo que asegure la adquisición de las competen- cias básicas para el desarrollo personal y el ejercicio de la ciudadanía democrática." Meta específica 15. Ofrecer un currículo que incorpore la lectura y el uso del com- putador en el proceso de enseñanza y de aprendizaje, en el que la educación artísti- ca tenga un papel relevante y que estimu- le el interés por la ciencia entre alumnas y alumnos.' | Política Educativa No. 3: "Revisar periódicamente, difundir y aplicar el currículo garantizando la com- prensión lectora y el desarrollo lógico matemático en el nivel básico y promover una cultura de su cumpli- miento desde una perspectiva de formación en valo- res que oriente el desarrollo humano integral, conso- lidando todas las demás dimensiones de la ciencia en los niveles educativos, así como la integración de las Tecnologías de la Información y la Comunicación (TIC) a los procesos educativos. En esta política, el Plan Decenal define de forma cla- ra la relación entre las tecnologías y el desarrollo de nuevos aprendizajes y la experimentación científica: "Los recursos para la enseñanza de las ciencias y la tecnología procuran que los estudiantes utilicen y aprovechen el tiempo de práctica frente al computa- dor y accedan a la Internet para que fortalezcan y desarrollen nuevos aprendizajes y tengan las opor- tunidades de hacer una experimentación científica rigurosa." "En el caso de la tecnología de la información y de la comunicación, la experiencia va demostrando que la estrategia más apropiada para involucrar al personal docente y los estudiantes en las TIC es dotarlos de la infraestructura que les permita su uso ilimitado. En ese sentido, la estrategia propuesta es continuar desa- rrollando centros tecnológicos de libre acceso, dentro y fuera de la escuela, hasta que el rápido y amplio de- sarrollo de la tecnología permita tener computadoras que posibiliten a cada estudiante disponer de una." El Objetivo Estratégico 3: Revisar, difundir y aplicar el currículo, en forma in- tegral, en todo el sistema educativo y lograr su perti- nencia permanente integrando las TIC y estimulando la apropiación de una cultura curricular en el sistema y en la sociedad dominicana. Resultado 3.1: Currículo Nacional actualizado, vali- dado y aplicado, incorporando las tecnologías de la información, la comunicación y demás recursos de aprendizaje pertinentes. Se establece como una de las MEDIDAS YACCIO- NES PARA LOGRAR EL RESULTADO 3.1 en el corto plazo: 3.1.4 Actualización, difusión y aplicación del Currí- culo de la Educación Básica inclusiva, privilegiando la formación en valores, la lecto-escritura y la mate- mática, como áreas fundamentales del currículo y en- fatizando el uso de las TICs como recurso para el
+Meta general quinta "Ofrecer un currículo significativo que asegure la adquisición de las competencias básicas para el desarrollo personal y el ejercicio de la ciudadanía democrática." Meta específica 15. Ofrecer un currículo que incorpore la lectura y el uso del computador en el proceso de enseñanza y de aprendizaje, en el que la educación artística tenga un papel relevante y que estimule el interés por la ciencia entre alumnas y alumnos." | Política Educativa No. 3: "Revisar periódicamente, difundir y aplicar el currículo garantizando la comprensión lectora y el desarrollo lógico matemático en el nivel básico y promover una cultura de su cumplimiento desde una perspectiva de formación en valores que oriente el desarrollo humano integral, consolidando todas las demás dimensiones de la ciencia en los niveles educativos, así como la integración de las Tecnologías de la Información y la Comunicación (TIC) a los procesos educativos. En esta política, el Plan Decenal define de forma clara la relación entre las tecnologías y el desarrollo de nuevos aprendizajes y la experimentación científica: "Los recursos para la enseñanza de las ciencias y la tecnología procuran que los estudiantes utilicen y aprovechen el tiempo de práctica frente al computador y accedan a la Internet para que fortalezcan y desarrollen nuevos aprendizajes y tengan las oportunidades de hacer una experimentación científica rigurosa." "En el caso de la tecnología de la información y de la comunicación, la experiencia va demostrando que la estrategia más apropiada para involucrar al personal docente y los estudiantes en las TIC es dotarlos de la infraestructura que les permita su uso ilimitado. En ese sentido, la estrategia propuesta es continuar desarrollando centros tecnológicos de libre acceso, dentro y fuera de la escuela, hasta que el rápido y amplio desarrollo de la tecnología permita tener computadoras que posibiliten a cada estudiante disponer de una." El Objetivo Estratégico 3: Revisar, difundir y aplicar el currículo, en forma integral, en todo el sistema educativo y lograr su pertinencia permanente integrando las TIC y estimulando la apropiación de una cultura curricular en el sistema y en la sociedad dominicana. Resultado 3.1: Currículo Nacional actualizado, validado y aplicado, incorporando las tecnologías de la información, la comunicación y demás recursos de aprendizaje pertinentes. Se establece como una de las MEDIDAS Y ACCIONES PARA LOGRAR EL RESULTADO 3.1 en el corto plazo: 3.1.4 Actualización, difusión y aplicación del Currículo de la Educación Básica inclusiva, privilegiando la formación en valores, la lecto-escritura y la matemática, como áreas fundamentales del currículo y enfatizando el uso de las TICs como recurso para el
 
 211
 
@@ -5647,7 +5739,7 @@ Metas Educativas 2021
 
 Metas 2021 | Plan Decenal de Educación 2008-2018
 --- | ---
-aprendizaje y como fuente de acceso a la información y al conocimiento. 3.1.6 Actualización, difusión y aplicación del Currí- culo del Nivel Medio, privilegiando la formación en valores, ciencias y artes, como áreas fundamentales del currículo, y enfatizando el uso de las TIC como recurso para el aprendizaje y como fuente de acceso a la información y al conocimiento." Para lograr el Resultado 3.2, "Centros Educativos co- nocen y aplican de manera eficiente el Currículo Ofi- cial en el Nivel y Modalidad correspondiente, desa- rrollando estrategias propias de una gestión curricu- lar adecuada, articulada, graduada y alineada. Se han identificado como MEDIDAS YACCIONES PARALOGRAR EL RESULTADO 3.2 "3.2.8 Aplicación de un currículo actualizado que in- tegra las TIC y la contextualización, como recursos potenciadores de aprendizajes eficientes, significati- vos y pertinentes." 3.2.13 Capacitación del 25% de los maestros y maes- tras de Ciencias de la Naturaleza en el uso de labora- torios de ciencias al 2012. 3.2.16 Capacitación del 50% de los maestros y maes- tras de Ciencias de la Naturaleza en el uso de labora- torios de ciencias al 2018. 3.2.17 Capacitación del 100% de maestras y maes- tros en el uso de las TIC como recursos para el apren- dizaje al 2017. En el Plan estratégico de la Gestión Educativa 2008- 2012: vincula estratégicamente las TIC al desarrollo de currículo activo en los componentes del modelo de intervención definido por el ME, en el componen- te I (Política 3 PDE) sobre currículo actualizado y aplicado se identifican dos metas operativas vincula- das a las TIC: a) la creación de la red dominicana de Aprendizaje y capacitación presencial y a distancia presencial y a distancia en el uso de los materiales y b) el aprendizaje activo con la televisión y el video. El componente 7: innovaciones educativas (PIM APRENDE) Es el componente por excelencia que hace un com- promiso específico con las TIC y una apuesta al de- sarrollo de un currículo significativo: estableciéndo- se la meta general de: "El o la docente dominicano (a) debe estar preparado (a) para asumir este nuevo reto pedagógico: incorporar en sus prácticas las TICs, para que nuestros estudiantes estén preparados para el futuro."
+aprendizaje y como fuente de acceso a la información y al conocimiento. 3.1.6 Actualización, difusión y aplicación del Currículo del Nivel Medio, privilegiando la formación en valores, ciencias y artes, como áreas fundamentales del currículo, y enfatizando el uso de las TIC como recurso para el aprendizaje y como fuente de acceso a la información y al conocimiento." Para lograr el Resultado 3.2, "Centros Educativos conocen y aplican de manera eficiente el Currículo Oficial en el Nivel y Modalidad correspondiente, desarrollando estrategias propias de una gestión curricular adecuada, articulada, graduada y alineada. Se han identificado como MEDIDAS Y ACCIONES PARA LOGRAR EL RESULTADO 3.2 "3.2.8 Aplicación de un currículo actualizado que integra las TIC y la contextualización, como recursos potenciadores de aprendizajes eficientes, significativos y pertinentes." 3.2.13 Capacitación del 25% de los maestros y maestras de Ciencias de la Naturaleza en el uso de laboratorios de ciencias al 2012. 3.2.16 Capacitación del 50% de los maestros y maestras de Ciencias de la Naturaleza en el uso de laboratorios de ciencias al 2018. 3.2.17 Capacitación del 100% de maestras y maestros en el uso de las TIC como recursos para el aprendizaje al 2017. En el Plan estratégico de la Gestión Educativa 2008-2012: vincula estratégicamente las TIC al desarrollo de currículo activo en los componentes del modelo de intervención definido por el ME, en el componente I (Política 3 PDE) sobre currículo actualizado y aplicado se identifican dos metas operativas vinculadas a las TIC: a) la creación de la red dominicana de Aprendizaje y capacitación presencial y a distancia presencial y a distancia en el uso de los materiales y b) el aprendizaje activo con la televisión y el video. El componente 7: innovaciones educativas (PIM APRENDE) Es el componente por excelencia que hace un compromiso específico con las TIC y una apuesta al desarrollo de un currículo significativo: estableciéndose la meta general de: "El o la docente dominicano (a) debe estar preparado (a) para asumir este nuevo reto pedagógico: incorporar en sus prácticas las TICs, para que nuestros estudiantes estén preparados para el futuro."
 
 212
 
@@ -5659,8 +5751,8 @@ Las TIC en la República Dominicana
 
 Metas 2021 | Plan Decenal de Educación 2008-2018
 --- | ---
-Para cumplir esta meta general este componente se propone las siguientes metas operativas: • Dotación de equipo informático, software educati- vo e Internet a los centros educativos. Esta dota- ción estará vinculada a las herramientas de ense- ñanza aprendizaje. • Programa de formación para el desarrollo de com- petencias tecnológicas docentes. • Uso de TV como herramienta de apoyo al proceso de enseñanza-aprendizaje. • Informática educativa al servicio de lo pedagógico, por medio de la generación de contenidos y el uso de portales para el trabajo docente y de estudiantes. • Implementación del Portal multimedial, que tiene 3,000 videos. • Implementación de la Televisión Educativa del ME • Implementación del Software del Sistema de Ges- tión de Centros (SGCE). • Implementación del Sistema de Información delME (SI-ME). • Implementación de programas de software Educa- tiva para alumnos y profesores. • Implementación de una Red de Comunicación pa- ra los Distritos Educativos, Regionales y AVES, así como de un Contact Center y el OCS.
-Meta general novena . "Fortalecer la profesión docente." | Política Educativa No. 3: "Revisar periódicamente, difundir y aplicar el currículo garantizando la com- prensión lectora y el desarrollo lógico matemático en el nivel básico y promover una cultura de su cumpli- miento desde una perspectiva de formación en valo- res que oriente el desarrollo humano integral, conso- lidando todas las demás dimensiones de la ciencia en los niveles educativos, así como la integración de las tecnologías de la Información y la Comunicación (TIC) a los procesos educativos. En esta política, en la sección "Formación docente para la educación científica con el apoyo de las TIC" se hace una mención específica a la necesidad de una "revisión curricular que reivindique la ciencia y la tecnología en los programas de formación docente, obliga a revisar el contenido de ciencia y tecnología en los programas de formación de maestros. El maes- tro es protagonista principal de la ciencia y la tecno-
+Para cumplir esta meta general este componente se propone las siguientes metas operativas: • Dotación de equipo informático, software educativo e Internet a los centros educativos. Esta dotación estará vinculada a las herramientas de enseñanza aprendizaje. • Programa de formación para el desarrollo de competencias tecnológicas docentes. • Uso de TV como herramienta de apoyo al proceso de enseñanza-aprendizaje. • Informática educativa al servicio de lo pedagógico, por medio de la generación de contenidos y el uso de portales para el trabajo docente y de estudiantes. • Implementación del Portal multimedial, que tiene 3,000 videos. • Implementación de la Televisión Educativa del ME • Implementación del Software del Sistema de Gestión de Centros (SGCE). • Implementación del Sistema de Información delME (SI-ME). • Implementación de programas de software Educativa para alumnos y profesores. • Implementación de una Red de Comunicación para los Distritos Educativos, Regionales y AVES, así como de un Contact Center y el OCS. • Implementación de un Sistema de capacitación.
+Meta general novena. "Fortalecer la profesión docente." | Política Educativa No. 3: "Revisar periódicamente, difundir y aplicar el currículo garantizando la comprensión lectora y el desarrollo lógico matemático en el nivel básico y promover una cultura de su cumplimiento desde una perspectiva de formación en valores que oriente el desarrollo humano integral, consolidando todas las demás dimensiones de la ciencia en los niveles educativos, así como la integración de las tecnologías de la Información y la Comunicación (TIC) a los procesos educativos. En esta política, en la sección "Formación docente para la educación científica con el apoyo de las TIC" se hace una mención específica a la necesidad de una "revisión curricular que reivindique la ciencia y la tecnología en los programas de formación docente, obliga a revisar el contenido de ciencia y tecnología en los programas de formación de maestros. El maestro es protagonista principal de la ciencia y la tecno-
 
 213
 
@@ -5672,8 +5764,8 @@ Metas Educativas 2021
 
 Metas 2021 | Plan Decenal de Educación 2008-2018
 --- | ---
-logía en el aula, por tanto los programas de formación de maestros se convierten en los espacios más idóneos para desarrollar al maestro en aquellas competencias esenciales para el trabajo con sus estudiantes." "En el caso de las TIC, cuyo uso es más transversal, el ME viene desarrollando programas especiales pa- ra su personal docente. Esos programas serán conso- lidados para asegurar que cada profesor maneje las TIC, tanto en el aula como en las tareas administrati- vas asociadas al aula. Además, se continuará apoyan- do a los maestros y maestras del sistema para adqui- rir computadoras y acceder a las redes de la internet." El logro del Resultado 3.2: "Centros Educativos co- nocen y aplican de manera eficiente el Currículo Ofi- cial en el Nivel y Modalidad correspondiente, desa- rrollando estrategias propias de una gestión curricu- lar adecuada, articulada, graduada y alineada. (aso- ciado al objetivo estratégico 3)". Propone como MEDIDAS YACCIONES PARALO- GRAR EL RESULTADO 3.2 3.2.17 Capacitación del 100% de maestras y maes- tros en el uso de las TIC como recursos para el apren- dizaje al 2017." En el Plan estratégico de la Gestión Educativa 2008- 2012 se compromete en el componente 2: sobre ma- gisterio comprometido: formación y atención perma- nentes (Política 6 PDE), define como su primera me- ta operativa es: "promover y apoyar de manera per- manente la revisión y adecuación curricular en todos los niveles y modalidades del sistema, garantizando su pertinencia e integrando las TIC como herramien- tas de apoyo y fortaleciendo la cultura del desarrollo curricular en el sistema educativo dominicano.'
-Meta general décimoprimera | En el componente 3 modelo de gestión de los centros educativos (Política No. 1 PDE): establece como una de las metas operativas: "HACER USO DEL SISTEMA DE INFORMA- CION para la toma de decisiones y el monitoreo de los principales indicadores de la escuela y el cumpli- miento del calendario escolar y las horas dedicadas al aprendizaje. • Desarrollar una Relación de Puestos (número y ti- po de personal por centro educativo y por depen- dencia).
+logía en el aula, por tanto los programas de formación de maestros se convierten en los espacios más idóneos para desarrollar al maestro en aquellas competencias esenciales para el trabajo con sus estudiantes." "En el caso de las TIC, cuyo uso es más transversal, el ME viene desarrollando programas especiales para su personal docente. Esos programas serán consolidados para asegurar que cada profesor maneje las TIC, tanto en el aula como en las tareas administrativas asociadas al aula. Además, se continuará apoyando a los maestros y maestras del sistema para adquirir computadoras y acceder a las redes de la internet." El logro del Resultado 3.2: "Centros Educativos conocen y aplican de manera eficiente el Currículo Oficial en el Nivel y Modalidad correspondiente, desarrollando estrategias propias de una gestión curricular adecuada, articulada, graduada y alineada. (asociado al objetivo estratégico 3)". Propone como MEDIDAS Y ACCIONES PARA LOGRAR EL RESULTADO 3.2 3.2.17 Capacitación del 100% de maestras y maestros en el uso de las TIC como recursos para el aprendizaje al 2017." En el Plan estratégico de la Gestión Educativa 2008-2012 se compromete en el componente 2: sobre magisterio comprometido: formación y atención permanentes (Política 6 PDE), define como su primera meta operativa es: "promover y apoyar de manera permanente la revisión y adecuación curricular en todos los niveles y modalidades del sistema, garantizando su pertinencia e integrando las TIC como herramientas de apoyo y fortaleciendo la cultura del desarrollo curricular en el sistema educativo dominicano.”
+Meta general décimoprimera | En el componente 3 modelo de gestión de los centros educativos (Política No. 1 PDE): establece como una de las metas operativas: "HACER USO DEL SISTEMA DE INFORMACION para la toma de decisiones y el monitoreo de los principales indicadores de la escuela y el cumplimiento del calendario escolar y las horas dedicadas al aprendizaje. • Desarrollar una Relación de Puestos (número y tipo de personal por centro educativo y por dependencia).
 
 214
 
@@ -5685,7 +5777,7 @@ Las TIC en la República Dominicana
 
 Metas 2021 | Plan Decenal de Educación 2008-2018
 --- | ---
-• Desarrollar un nuevo sistema de administración de recursos humanos que permita transparentar el personal, que es uno de los mayores porcentajes del presupuesto de educación. El componente 10: rendición y supervisión y control- /sistema de información (Política 4 PDE) define co- mo elemento clave para la gestión del ME la infor- mación, la rendición de cuentas y el uso de los recur- sos con eficiencia y productividad, en este sentido define como metas operativas: El Sistema de Información del Ministerio de Educa- ción (antes SEE-Ministerio de Educación) se define como el esquema organizativo y tecnológico que adopta el ME para cumplimiento de sus funciones educativas, teniendo al Centro Educativo (CE) como punto central de la estrategia de diseño del sistema. Es decir, a partir de la información generada en el CE, el SI-ME debe permitir administrar apropiada- mente información a nivel distrital, regional y nacio- nal. Para este fin, el SI-ME debe proveer una plata- forma tecnológica común para estos niveles, que in- cluye aspectos de infraestructura de redes (interco- nectividad), comunicaciones y colaboración, y siste- mas de información. El Sistema de Información del Ministerio de Educación (SI-ME) se construye sobre tres pilares tecnológicos: i) interconectividad y data center; ii) sistemas de información; y iii) comunica- ciones unificadas y colaboración. Las capacidades internas de estos pilares deben estar siempre orienta- das a satisfacer y apoyar las funciones sustantivas del ME y sus dependencias. Alcance operativo: • Apoyar de manera eficaz la gestión de estadísticas y el manejo de información necesaria en las diver- sas instancias y centros educativos del ME, para garantizar la toma de decisiones y una gerencia más efectiva de los centros educativos. • Apoyar la interconectividad entre el ME y sus de- pendencias y la creación de la Infraestructura Tec- nológica requerida (redes, telefonía, Data Center, Finca de Servidores, seguridad, NOC, SOC), con el propósito de prestar un servicio más efectivo a los centros escolares y a los procesos administrati- vos y académicos que allí se desarrollan. • Facilitar el modelaje y análisis de información de apoyo a la gestión del ME mediante herramientas modernas de administración de bases de datos),
+• Desarrollar un nuevo sistema de administración de recursos humanos que permita transparentar el personal, que es uno de los mayores porcentajes del presupuesto de educación. El componente 10: rendición y supervisión y control-/sistema de información (Política 4 PDE) define como elemento clave para la gestión del ME la información, la rendición de cuentas y el uso de los recursos con eficiencia y productividad, en este sentido define como metas operativas: El Sistema de Información del Ministerio de Educación (antes SEE-Ministerio de Educación) se define como el esquema organizativo y tecnológico que adopta el ME para cumplimiento de sus funciones educativas, teniendo al Centro Educativo (CE) como punto central de la estrategia de diseño del sistema. Es decir, a partir de la información generada en el CE, el SI-ME debe permitir administrar apropiadamente información a nivel distrital, regional y nacional. Para este fin, el SI-ME debe proveer una plataforma tecnológica común para estos niveles, que incluye aspectos de infraestructura de redes (interconectividad), comunicaciones y colaboración, y sistemas de información. El Sistema de Información del Ministerio de Educación (SI-ME) se construye sobre tres pilares tecnológicos: i) interconectividad y data center; ii) sistemas de información; y iii) comunicaciones unificadas y colaboración. Las capacidades internas de estos pilares deben estar siempre orientadas a satisfacer y apoyar las funciones sustantivas del ME y sus dependencias. Alcance operativo: • Apoyar de manera eficaz la gestión de estadísticas y el manejo de información necesaria en las diversas instancias y centros educativos del ME, para garantizar la toma de decisiones y una gerencia más efectiva de los centros educativos. • Apoyar la interconectividad entre el ME y sus dependencias y la creación de la Infraestructura Tecnológica requerida (redes, telefonía, Data Center, Finca de Servidores, seguridad, NOC, SOC), con el propósito de prestar un servicio más efectivo a los centros escolares y a los procesos administrativos y académicos que allí se desarrollan. • Facilitar el modelaje y análisis de información de apoyo a la gestión del ME mediante herramientas modernas de administración de bases de datos),
 
 215
 
@@ -5697,7 +5789,7 @@ Metas Educativas 2021
 
 Metas 2021 | Plan Decenal de Educación 2008-2018
 --- | ---
-procurando una rendición de cuentas permanente en los aspectos académicos, de recursos humanos, administrativos y financieros. • Facilitar el cumplimiento eficiente de las labores del personal del Ministerio de Educación me- diante herramientas modernas de colaboración y de comunicación unificada.
+procurando una rendición de cuentas permanente en los aspectos académicos, de recursos humanos, administrativos y financieros. • Facilitar el cumplimiento eficiente de las labores del personal del Ministerio de Educación mediante herramientas modernas de colaboración y de comunicación unificada.
 
 ## 3. Las TIC en el contexto del Plan Decenal de Educación Superior 2008-2018 y su relación con las Metas 2021.
 
@@ -5729,8 +5821,8 @@ La producción de conocimiento, mediante la inversión para la innovación, la i
 
 Meta general | Plan Decenal de Educación 2008-2018
 --- | ---
-Meta General Quinta "Ofrecer un currículo significativo que ase- gure la adquisición de las competencias bá- sicas para el desarrollo personal y el ejerci- cio de la ciudadanía democrática." | - Utilización de las TIC, por lo menos en el 25% de las IES para fortalecer la creación de nuevos entor- nos de aprendizaje. - Diseño y ejecución de una estrategia que permita a todas las IES producir un mínimo de 300 objetos de aprendizaje por año, en el área de ciencias bási- cas o ciclo general. - Fomentar la implementación de soluciones basadas en la Web 2.0 y sus mejoras a fin de propiciar el tra- bajo colaborativo. - Implementación de los recursos de las TIC de ma- nera actualizada en los procesos de enseñanza- aprendizaje, tanto en las modalidades presenciales, como semipresenciales y a distancia, del 100% de
-Meta general novena. "Fortalecer la profesión docente." Meta específica 22. Mejorar la formación inicial del profesorado de primaria y se- cundaria. Meta específica 23. Favorecer la capacita- ción continua y el desarrollo de la carrera profesional docente. "Ofrecer un currículo significativo que ase- gure la adquisición de las competencias bá- sicas para el desarrollo personal y el ejerci- cio de la ciudadanía democrática." | - Todo profesor, todo investigador, todo estudiante de posgrado, en la fase de emergencia, tendrá acce- so a una computadora portátil y a una conexión de internet. Igualmente, el 40% de estudiantes y el 50% del pro- fesorado de grado tendrán esta facilidad.
+Meta General Quinta "Ofrecer un currículo significativo que asegure la adquisición de las competencias básicas para el desarrollo personal y el ejercicio de la ciudadanía democrática." | - Utilización de las TIC, por lo menos en el 25% de las IES para fortalecer la creación de nuevos entornos de aprendizaje. - Diseño y ejecución de una estrategia que permita a todas las IES producir un mínimo de 300 objetos de aprendizaje por año, en el área de ciencias básicas o ciclo general. - Fomentar la implementación de soluciones basadas en la Web 2.0 y sus mejoras a fin de propiciar el trabajo colaborativo. - Implementación de los recursos de las TIC de manera actualizada en los procesos de enseñanza-aprendizaje, tanto en las modalidades presenciales, como semipresenciales y a distancia, del 100% de las IES.
+Meta general novena. "Fortalecer la profesión docente." Meta específica 22. Mejorar la formación inicial del profesorado de primaria y secundaria. Meta específica 23. Favorecer la capacitación continua y el desarrollo de la carrera profesional docente. "Ofrecer un currículo significativo que asegure la adquisición de las competencias básicas para el desarrollo personal y el ejercicio de la ciudadanía democrática." | - Todo profesor, todo investigador, todo estudiante de posgrado, en la fase de emergencia, tendrá acceso a una computadora portátil y a una conexión de internet. Igualmente, el 40% de estudiantes y el 50% del profesorado de grado tendrán esta facilidad.
 
 217
 
@@ -5742,8 +5834,8 @@ Metas Educativas 2021
 
 Meta general | Plan Decenal de Educación 2008-2018
 --- | ---
-Meta general décima . "Ampliar el espacio iberoamericano del conocimiento y fortalecer la investigación científica." Meta específica 24. Apoyar la creación de redes universitarias para la oferta de post- grados, la movilidad de estudiantes e in- vestigadores y la colaboración de investi- gadores iberoamericanos que trabajan fue- ra de la región. Meta específica 25. Reforzar la investiga- ción científica y tecnológica y la innova- ción en la región. | - Aumento en un 25% del alcance del Fondo de Fi- nanciamiento, FONDOCYT y del Fondo de Fi- nanciamiento para la Innovación y Desarrollo, pa- ra dotar de mejor contenido económico los pro- gramas y proyectos de investigación y desarrollo. - Generación e implementación de una política públi- ca de innovación tecnológica, con ayuda de las IES para impulsar el desarrollo competitivo de la educa- ción superior y del 100% de las IES, tanto a nivel de docencia como de extensión e investigación. - Elaboración, por medio de un comité representati- vo del 100% de las IES, de un mecanismo diagnós- tico que permita obtener información completa so- bre la situación y perspectivas de las TIC en las IES, así como la solución a los problemas o dificul- tades de diferente índole que ellas registren. - Mejorar la conectividad y fortalecer el intercambio de información entre MESCYT y las IES a través de RADEI y la internet comercial, a fin de agilizar y mejorar los servicios ofrecidos así como también de que se usen de manera intensiva las tecnologías de comunicación disponibles. - Fortalecer la producción de contenidos inéditos fruto de acciones investigativas en las IES y mejo- rar la oferta de estos contenidos aprovechando la integración de nuestro país a las redes avanzadas disponibles hoy día. - Fortalecimiento de la infraestructura de comunica- ción, desde el punto de vista de la conectividad y adopción de estándares comunes mínimos, del 50% de las IES. - Utilización de las redes avanzadas para la investi- gación, la educación, el desarrollo científico y la in- novación en por lo menos el 10% de las IES, para aprovechar los avances en aquellas.
-Meta general 11 . | - Fortalecer la automatización de los procesos de gestión (administrativo-financiera) del 100% de las IES, tanto en los procesos de docencia como de ex- tensión e investigación.
+Meta general décima. "Ampliar el espacio iberoamericano del conocimiento y fortalecer la investigación científica." Meta específica 24. Apoyar la creación de redes universitarias para la oferta de postgrados, la movilidad de estudiantes e investigadores y la colaboración de investigadores iberoamericanos que trabajan fuera de la región. Meta específica 25. Reforzar la investigación científica y tecnológica y la innovación en la región. | - Aumento en un 25% del alcance del Fondo de Financiamiento, FONDOCYT y del Fondo de Financiamiento para la Innovación y Desarrollo, para dotar de mejor contenido económico los programas y proyectos de investigación y desarrollo. - Generación e implementación de una política pública de innovación tecnológica, con ayuda de las IES para impulsar el desarrollo competitivo de la educación superior y del 100% de las IES, tanto a nivel de docencia como de extensión e investigación. - Elaboración, por medio de un comité representativo del 100% de las IES, de un mecanismo diagnóstico que permita obtener información completa sobre la situación y perspectivas de las TIC en las IES, así como la solución a los problemas o dificultades de diferente índole que ellas registren. - Mejorar la conectividad y fortalecer el intercambio de información entre MESCYT y las IES a través de RADEI y la internet comercial, a fin de agilizar y mejorar los servicios ofrecidos así como también de que se usen de manera intensiva las tecnologías de comunicación disponibles. - Fortalecer la producción de contenidos inéditos fruto de acciones investigativas en las IES y mejorar la oferta de estos contenidos aprovechando la integración de nuestro país a las redes avanzadas disponibles hoy día. - Fortalecimiento de la infraestructura de comunicación, desde el punto de vista de la conectividad y adopción de estándares comunes mínimos, del 50% de las IES. - Utilización de las redes avanzadas para la investigación, la educación, el desarrollo científico y la innovación en por lo menos el 10% de las IES, para aprovechar los avances en aquellas.
+Meta general 11. | - Fortalecer la automatización de los procesos de gestión (administrativo-financiera) del 100% de las IES, tanto en los procesos de docencia como de extensión e investigación.
 
 218
 
@@ -5757,7 +5849,7 @@ Las TIC en la República Dominicana
 
 Metas 2021 | PECYT+I 2008-2018
 --- | ---
-Meta general quinta "Ofrecer un currículo significativo que asegure la adquisición de las competencias básicas para el desarrollo personal y el ejercicio de la ciudadanía democrática." Meta específica 15. Ofrecer un currículo que incorpore la lectura y el uso del com- putador en el proceso de enseñanza y de aprendizaje, en el que la educación artísti- ca tenga un papel relevante y que estimule el interés por la ciencia entre alumnas y alumnos. | Este plan ha definido como componente estratégico la "3.2.2.4 Divulgación y Apropiación Social de la Ciencia y la Tecnología." Este componente incluye los siguientes lineamientos: a. Plan nacional de divulgación y apropiación social de la ciencia y la tecnología. b. Red museográfica nacional de apoyo a la divulga- ción de la ciencia y la tecnología. c. Consolidación de la sociedad de la información en la República Dominicana. d. La Ciencia y la Tecnología en la Escuela. e. Diálogo de saberes para la inclusión y el desarrollo. f. Jóvenes Talentos para la Ciencia y la Tecnología. g. Investigación social sobre la ciencia, la tecnología y la innovación. D. La Ciencia y la Tecnología en la Escuela . Este lineamiento iniciará con el apoyo a una reforma curricular de la enseñanza de las ciencias y las mate- máticas en las escuelas dominicanas. Como se ha visto previamente, en lo que respecta a la calidad de la enseñanza en estos campos, el país ha salido muy mal parado en las evaluaciones interna- cionales (Global Technology Report 2007), por lo que una de los lineamientos que recibirá atención es- pecial dentro de este campo de la política pública se- rá precisamente fortalecer y mejorar significativa- mente la enseñanza de las ciencias y las matemáticas en todos los niveles del sistema educativo dominica- no. En consecuencia, algunos de los aspectos claves a ser tocados en el marco de este lineamiento particu- lar serán los siguientes: • Crear una atmósfera de estímulo a la curiosidad por la ciencia y su método. • Ayudar a despertar la imaginación de las estudian- tes y los estudiantes. • Cultivar el espíritu de investigación. • Desarrollar la capacidad de observación, la clari- dad de pensamiento y la creatividad. • Contribuir a descubrir vocaciones científicas.
+Meta general quinta "Ofrecer un currículo significativo que asegure la adquisición de las competencias básicas para el desarrollo personal y el ejercicio de la ciudadanía democrática." Meta específica 15. Ofrecer un currículo que incorpore la lectura y el uso del computador en el proceso de enseñanza y de aprendizaje, en el que la educación artística tenga un papel relevante y que estimule el interés por la ciencia entre alumnas y alumnos. | Este plan ha definido como componente estratégico la "3.2.2.4 Divulgación y Apropiación Social de la Ciencia y la Tecnología." Este componente incluye los siguientes lineamientos: a. Plan nacional de divulgación y apropiación social de la ciencia y la tecnología. b. Red museográfica nacional de apoyo a la divulgación de la ciencia y la tecnología. c. Consolidación de la sociedad de la información en la República Dominicana. d. La Ciencia y la Tecnología en la Escuela. e. Diálogo de saberes para la inclusión y el desarrollo. f. Jóvenes Talentos para la Ciencia y la Tecnología. g. Investigación social sobre la ciencia, la tecnología y la innovación. D. La Ciencia y la Tecnología en la Escuela. Este lineamiento iniciará con el apoyo a una reforma curricular de la enseñanza de las ciencias y las matemáticas en las escuelas dominicanas. Como se ha visto previamente, en lo que respecta a la calidad de la enseñanza en estos campos, el país ha salido muy mal parado en las evaluaciones internacionales (Global Technology Report 2007), por lo que una de los lineamientos que recibirá atención especial dentro de este campo de la política pública será precisamente fortalecer y mejorar significativamente la enseñanza de las ciencias y las matemáticas en todos los niveles del sistema educativo dominicano. En consecuencia, algunos de los aspectos claves a ser tocados en el marco de este lineamiento particular serán los siguientes: • Crear una atmósfera de estímulo a la curiosidad por la ciencia y su método. • Ayudar a despertar la imaginación de las estudiantes y los estudiantes. • Cultivar el espíritu de investigación. • Desarrollar la capacidad de observación, la claridad de pensamiento y la creatividad. • Contribuir a descubrir vocaciones científicas.
 
 219
 
@@ -5769,7 +5861,7 @@ Metas Educativas 2021
 
 Metas 2021 | PECYT+I 2008-2018
 --- | ---
-• Propiciar una relación más humana con la naturaleza. • Erradicar mitos infundados mostrando la ciencia tras la cotidianidad. • Cultivar la valoración social por la ciencia y la cul- tura universal. No será posible contar con buenos ingenieros ni con una población educada y entrenada que sepa obtener los mayores beneficios posibles del conocimiento si no se enseña apropiadamente los fundamentos del lenguaje científico que parte de las formalizaciones matemáticas básicas. El equipamiento de los laborato- rios en las escuela públicas, la formación docente, la promoción del aprendizaje basado en las experiencias y en la experimentación, serán parte de los elementos a ser reforzados en el marco de este lineamiento. Otro programa es: F. Jóvenes Talentos para la Ciencia y la Tecnología. El Estado Dominicano tiene la responsabilidad y el deber de apoyar en forma sostenible y estimulante, aquellos jóvenes que desde los niveles de la educa- ción básica muestren un interés y una vocación espe- cial por la ciencia y la tecnología. Para ello, el Estado se encargará de crear las condiciones sociales y eco- nómicas para que estos jóvenes y sus familias se vean comprometidos con su formación. Las iniciativas ba- jo este lineamiento partirán de la identificación de es- tos jóvenes en etapas tempranas de su educación para luego ser objeto de un seguimiento particular por las autoridades del sistema de educación pública. Entre los aspectos sociales a ser cubiertos por el programa se pueden mencionar los siguientes: Incentivos económicos adicionales para las familias de tal manera que no se descuide la educación y forma- ción de las y los jóvenes identificados en el programa. Subvención académica para la realización de sus es- tudios, la adquisición de libros y computadoras. Descuentos especiales para la participación en even- tos deportivos, culturales, científicos y artísticos. Programas especiales de aprendizaje del inglés desde etapas tempranas. Acompañamiento psicológico a las familias y a las y los estudiantes. Programa de becas de grado y postgrado en centros académicos de excelencia tanto a nivel nacional como internacional.
+• Propiciar una relación más humana con la naturaleza. • Erradicar mitos infundados mostrando la ciencia tras la cotidianidad. • Cultivar la valoración social por la ciencia y la cultura universal. No será posible contar con buenos ingenieros ni con una población educada y entrenada que sepa obtener los mayores beneficios posibles del conocimiento si no se enseña apropiadamente los fundamentos del lenguaje científico que parte de las formalizaciones matemáticas básicas. El equipamiento de los laboratorios en las escuela públicas, la formación docente, la promoción del aprendizaje basado en las experiencias y en la experimentación, serán parte de los elementos a ser reforzados en el marco de este lineamiento. Otro programa es: F. Jóvenes Talentos para la Ciencia y la Tecnología. El Estado Dominicano tiene la responsabilidad y el deber de apoyar en forma sostenible y estimulante, aquellos jóvenes que desde los niveles de la educación básica muestren un interés y una vocación especial por la ciencia y la tecnología. Para ello, el Estado se encargará de crear las condiciones sociales y económicas para que estos jóvenes y sus familias se vean comprometidos con su formación. Las iniciativas bajo este lineamiento partirán de la identificación de estos jóvenes en etapas tempranas de su educación para luego ser objeto de un seguimiento particular por las autoridades del sistema de educación pública. Entre los aspectos sociales a ser cubiertos por el programa se pueden mencionar los siguientes: Incentivos económicos adicionales para las familias de tal manera que no se descuide la educación y formación de las y los jóvenes identificados en el programa. Subvención académica para la realización de sus estudios, la adquisición de libros y computadoras. Descuentos especiales para la participación en eventos deportivos, culturales, científicos y artísticos. Programas especiales de aprendizaje del inglés desde etapas tempranas. Acompañamiento psicológico a las familias y a las y los estudiantes. Programa de becas de grado y postgrado en centros académicos de excelencia tanto a nivel nacional como internacional.
 
 220
 
@@ -5781,8 +5873,8 @@ Las TIC en la República Dominicana
 
 Metas 2021 | PECYT+I 2008-2018
 --- | ---
-Este lineamiento dentro del componente de Divulga- ción y Apropiación Social de la Ciencia, supone un compromiso clave del Estado con las y los jóvenes que teniendo el potencial de constituirse en agentes de cambio e innovación, son tragados por la pobreza y la exclusión social, perdiéndose la oportunidad de incorporar recursos humanos de alto potencial de cambio a la dinámica del desarrollo nacional. Se pre- tende optimizar mecanismos y estructuras institucio- nales existentes en el Estado Dominicano tales como: (i) el sistema de evaluación y rendimiento de los estu- diantes de la educación básica y media; (ii) el sistema de bienestar estudiantil del Ministerio de Educación y (iii) el Programa Solidaridad, de lucha contra la po- breza y la exclusión social.
-Meta general décima . "Ampliar el espacio iberoamericano del conocimiento y fortalecer la investigación científica." Meta específica 24. Apoyar la creación de redes universitarias para la oferta de post- grados, la movilidad de estudiantes e investigadores y la colaboración de inves- tigadores iberoamericanos que trabajan fuera de la región. Meta específica 25. Reforzar la investi- gación científica y tecnológica y la inno- vación en la región. | Las actividades de investigación, desarrollo e inno- vación (I+D+I) constituyen grandes retos para las empresas y el tejido industrial de la República Domi- nicana. Con la promulgación del Decreto No. 190- 07, del 3 de abril 2007, se ha intentado impulsar al Sistema Dominicano de Innovación y Desarrollo Tecnológico cuyo objetivo general es articular de manera funcional la red de instituciones (académicas, públicas y privadas) con las políticas e iniciativas pú- blicas en materia de ciencia, tecnología e innovación, para mejorar las capacidades nacionales en materia de competitividad y desarrollo de nuevos sectores económicos-productivos intensivos en el uso del co- nocimiento. En los sectores productivos (empresas) existe una li- mitada capacidad de incorporar la investigación (bá- sica o aplicada) como la base para la innovación y la competitividad. En consecuencia, dentro de este eje del Plan Estratégico, se han definido los siguientes li- neamientos: 1. Consolidar las capacidades de investigación básica e I+D. 2. Consolidar la oferta científica-tecnológica de so- porte a la innovación en las empresas. 3. Fomentar la vinculación universidad-empresa me- diante mecanismos como los programas especiali- zados y oficinas de transferencia tecnológica. 4. Desarrollar nuevos sectores económicos basados en el conocimiento.
+Este lineamiento dentro del componente de Divulgación y Apropiación Social de la Ciencia, supone un compromiso clave del Estado con las y los jóvenes que teniendo el potencial de constituirse en agentes de cambio e innovación, son tragados por la pobreza y la exclusión social, perdiéndose la oportunidad de incorporar recursos humanos de alto potencial de cambio a la dinámica del desarrollo nacional. Se pretende optimizar mecanismos y estructuras institucionales existentes en el Estado Dominicano tales como: (i) el sistema de evaluación y rendimiento de los estudiantes de la educación básica y media; (ii) el sistema de bienestar estudiantil del Ministerio de Educación y (iii) el Programa Solidaridad, de lucha contra la pobreza y la exclusión social.
+Meta general décima. "Ampliar el espacio iberoamericano del conocimiento y fortalecer la investigación científica." Meta específica 24. Apoyar la creación de redes universitarias para la oferta de postgrados, la movilidad de estudiantes e investigadores y la colaboración de investigadores iberoamericanos que trabajan fuera de la región. Meta específica 25. Reforzar la investigación científica y tecnológica y la innovación en la región. | Las actividades de investigación, desarrollo e innovación (I+D+I) constituyen grandes retos para las empresas y el tejido industrial de la República Dominicana. Con la promulgación del Decreto No. 190-07, del 3 de abril 2007, se ha intentado impulsar al Sistema Dominicano de Innovación y Desarrollo Tecnológico cuyo objetivo general es articular de manera funcional la red de instituciones (académicas, públicas y privadas) con las políticas e iniciativas públicas en materia de ciencia, tecnología e innovación, para mejorar las capacidades nacionales en materia de competitividad y desarrollo de nuevos sectores económicos-productivos intensivos en el uso del conocimiento. En los sectores productivos (empresas) existe una limitada capacidad de incorporar la investigación (básica o aplicada) como la base para la innovación y la competitividad. En consecuencia, dentro de este eje del Plan Estratégico, se han definido los siguientes lineamientos: 1. Consolidar las capacidades de investigación básica e I+D. 2. Consolidar la oferta científica-tecnológica de soporte a la innovación en las empresas. 3. Fomentar la vinculación universidad-empresa mediante mecanismos como los programas especializados y oficinas de transferencia tecnológica. 4. Desarrollar nuevos sectores económicos basados en el conocimiento.
 
 221
 
@@ -5794,11 +5886,11 @@ Metas Educativas 2021
 
 Metas 2021 | PECYT+I 2008-2018
 --- | ---
-5. Fomentar redes de investigación y desarrollo. 6. Crear grupos y cluster tecnológicos. Como parte del eje estratégico "Formación Avanzada de recursos humanos" se ha definido la "formación avanzada en ciencia y tecnología", como uno de los seis lineamientos generales en Ciencia y Tecnología. Este lineamiento será el centro de gravedad para el desarrollo de los recursos humanos avanzados en ciencia, tecnología e innovación. Abarcará tanto el ámbito nacional como internacional. En el ámbito na- cional se pondrá énfasis en la creación de los progra- mas nacionales de postgrados (maestrías, doctorados, postdoctorados) en los campos de ciencia y tecnolo- gía, lo cual conllevará una profunda revisión y ade- cuación de la estructura universitaria de formación de postgrado. En la formación avanzada deberán tomar- se en cuenta tres aspectos: El aprovechamiento de las capacidades existentes del sistema de educación superior para la creación de programas interinstitucionales de maestrías y docto- rados.
+5. Fomentar redes de investigación y desarrollo. 6. Crear grupos y cluster tecnológicos. Como parte del eje estratégico "Formación Avanzada de recursos humanos" se ha definido la "formación avanzada en ciencia y tecnología", como uno de los seis lineamientos generales en Ciencia y Tecnología. Este lineamiento será el centro de gravedad para el desarrollo de los recursos humanos avanzados en ciencia, tecnología e innovación. Abarcará tanto el ámbito nacional como internacional. En el ámbito nacional se pondrá énfasis en la creación de los programas nacionales de postgrados (maestrías, doctorados, postdoctorados) en los campos de ciencia y tecnología, lo cual conllevará una profunda revisión y adecuación de la estructura universitaria de formación de postgrado. En la formación avanzada deberán tomarse en cuenta tres aspectos: El aprovechamiento de las capacidades existentes del sistema de educación superior para la creación de programas interinstitucionales de maestrías y doctorados.
 
 ### Definición de las metas específicas, indicadores y niveles de logro
 
-Apartir de la revisión de los planes decenales de educación, educación  superior,  ciencia  y  tecnología  y  su  vinculación  a  las  Metas Educativas 2021, se presenta la adecuación de las metas específicas y niveles de logro establecidos para Iberoamérica de acuerdo a la realidad dominicana.
+A partir de la revisión de los planes decenales de educación, educación superior, ciencia y tecnología y su vinculación a las Metas Educativas 2021, se presenta la adecuación de las metas específicas y niveles de logro establecidos para Iberoamérica de acuerdo a la realidad dominicana.
 
 #### Meta general cuarta :
 
@@ -5808,7 +5900,7 @@ Apartir de la revisión de los planes decenales de educación, educación  super
 
 Meta específica 10 . Mejorar la dotación de bibliotecas y computadoras en las escuelas.
 
-Esta meta la reformularíamos incluyendo la conexión a banda ancha, la cual se convierte en un recurso crítico, dado el nivel de avance en la convergencia y los desarrollos avanzados de contenidos digitales multimedia para la educación dominicana, el ancho de banda se convierte en un recurso crítico para incorporar de manera innovara el uso de TIC en el currículo.
+Esta meta la reformularíamos incluyendo la conexión a banda ancha, la cual se convierte en un recurso crítico, dado el nivel de avance en la convergencia y los desarrollos avanzados de contenidos digitales multimedia para la educación dominicana, el ancho de banda se
 
 222
 
@@ -5817,6 +5909,8 @@ Esta meta la reformularíamos incluyendo la conexión a banda ancha, la cual se 
 [[START OF PAGE 223]]
 
 Las TIC en la República Dominicana
+
+convierte en un recurso crítico para incorporar de manera innovara el uso de TIC en el currículo.
 
 Meta específica 10 (sugerida). Mejorar la dotación de bibliotecas, computadoras y otros recursos audiovisuales en las escuelas y conectarlas a internet de banda ancha.
 
@@ -5848,9 +5942,9 @@ Nivel de logro . Conseguir que los estudiantes de los cursos comprendidos entre 
 
 Metas Educativas 2021
 
-## Integrantes de la mesa :
----
-Coordinadores : Paul Goris y Rafael González
+## Integrantes de la mesa:
+
+Coordinadores: Paul Goris y Rafael González
 Amparo Arango
 William Ortiz
 Hidekel Morrison
