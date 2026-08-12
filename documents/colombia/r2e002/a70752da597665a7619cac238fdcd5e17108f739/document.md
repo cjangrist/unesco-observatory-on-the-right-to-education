@@ -14,6 +14,8 @@ www.plandecenal.edu.co 1
 
 [[START OF PAGE 2]]
 
+## CONTENIDO
+
 PRESENTACIÓN
 
 ALCANCE
@@ -22,35 +24,37 @@ VISIÓN
 
 PROPÓSITOS
 
-CAPÍTULO I DESAFÍOS DE LA EDUCACIÓN EN COLOMBIA
+CAPÍTULO I
+DESAFÍOS DE LA EDUCACIÓN EN COLOMBIA
 
-I. Fines de la educación y su calidad en el siglo XXI. (globalización y autonomía) II. Educación en y para la paz la convivencia y la ciudadanía III. Renovación pedagógica y uso de las TIC en la educación IV. Ciencia y tecnología integradas a la  educación
+I. Fines de la educación y su calidad en el siglo XXI. (globalización y autonomía)
+II. Educación en y para la paz la convivencia y la ciudadanía
+III. Renovación pedagógica y uso de las TIC en la educación
+IV. Ciencia y tecnología integradas a la educación
 
-CAPÍTULO II GARANTÍAS PARA EL CUMPLIMIENTO PLENO DEL DERECHO A LA EDUCACIÓN EN COLOMBIA
+CAPÍTULO II
+GARANTÍAS PARA EL CUMPLIMIENTO PLENO DEL DERECHO A LA EDUCACIÓN EN COLOMBIA
 
-V. Más y mejor inversión en educación VI. Desarrollo infantil y educación inicial VII. Equidad, acceso, permanencia y calidad VIII. Liderazgo, gestión, transparencia y rendición de cuentas en el sistema educativo
+V. Más y mejor inversión en educación
+VI. Desarrollo infantil y educación inicial
+VII. Equidad, acceso, permanencia y calidad
+VIII. Liderazgo, gestión, transparencia y rendición de cuentas en el sistema educativo
 
-CAPÍTULO III AGENTES EDUCATIVOS
+CAPÍTULO III
+AGENTES EDUCATIVOS
 
 IX. Desarrollo profesional, dignificación y formación de docentes y directivos docentes.
+X. Otros actores en y más allá del sistema educativo
 
-- Otros actores en y más allá del sistema educativo
+CAPÍTULO IV
+MECANISMOS DE SEGUIMIENTO, EVALUACIÓN Y PARTICIPACIÓN DEL PNDE
 
-CAPÍTULO IV MECANISMOS DE SEGUIMIENTO, EVALUACIÓN Y PARTICIPACIÓN DEL PNDE
-
-- Plataforma virtual del PNDE
-
-- Comisión nacional de seguimiento
-
-- Instancias nacional y territorial permanente de coordinación del PNDE
-
-- Red nacional de seguimiento
-
-- Observatorio sel PNDE
-
-- Otros mecanismos
-
-## CONTENIDO
+1. Plataforma virtual del PNDE
+2. Comisión nacional de seguimiento
+3. Instancias nacional y territorial permanente de coordinación del PNDE
+4. Red nacional de seguimiento
+5. Observatorio sel PNDE
+6. Otros mecanismos
 
 www.plandecenal.edu.co 2
 
@@ -82,22 +86,22 @@ La  movilización  social  impulsada  entre  1994  y  1996  por  organizaciones 
 
 ### 1. CONSTRUCCIÓN COLECTIVA DEL PLAN NACIONAL DECENAL DE EDUCACIÓN 2006 -2016
 
-Como  respuesta  al  primer  reto,  para  la  formulación  del  presente  Plan  Decenal,  se  aplicó  la metodología del Modelo General de Comunicación Pública 1 para diseñar un imaginativo y ambicioso proceso de movilización social que el país conoció como -Construcción colectiva del Plan Nacional Decenal de Educación 2006 -2016 (PNDE) ‖ 2
+Como respuesta al primer reto, para la formulación del presente Plan Decenal, se aplicó la metodología del Modelo General de Comunicación Pública¹ para diseñar un imaginativo y ambicioso proceso de movilización social que el país conoció como “Construcción colectiva del Plan Nacional Decenal de Educación 2006 -2016 (PNDE)”²
 
 #### Planteamiento  estratégico:
 la  movilización  se  diseñó  con  base  en  el  siguiente  planteamiento estratégico:
 
 MATRIZ DE DISEÑO ESTRATÉGICO
---- | --- | --- | ---
 CAMPOS | CATEGORÍAS | EJES TEMÁTICOS | TEMAS CRÍTICOS
+--- | --- | --- | ---
 CORPORATIVO | ORDENAMIENTO DEL PROCESO | ALINEAMIENTO ESTRATÉGICO DEL SECTOR | VISIÓN COMPARTIDA EN TORNO AL PNDE
-ORGANIZACIONAL | CLARIDAD Y FLEXIBILIDAD DE LA METODOLOGÍA | DISEÑO METODOLÓGICO
-COHERENCIA DE LA MOVILIZACIÓN | COMUNICACIÓN INTERNA
+ORGANIZACIONAL |  | CLARIDAD Y FLEXIBILIDAD DE LA METODOLOGÍA | DISEÑO METODOLÓGICO
+ |  | COHERENCIA DE LA MOVILIZACIÓN | COMUNICACIÓN INTERNA
 MOVILIZADOR | PARTICIPACIÓN EFECTIVA | SEGUIMIENTO A COMPROMISOS | CONSTRUCCIÓN DE CONFIANZA Y CALIDAD DE LA MOVILIZACIÓN
-ESCENARIOS DE DELIBERACIÓN
-VISIBILIZACIÓN DE ACTORES Y CAMPOS DE ACTUACIÓN
+ |  | ESCENARIOS DE DELIBERACIÓN | 
+ |  | VISIBILIZACIÓN DE ACTORES Y CAMPOS DE ACTUACIÓN | 
 INFORMATIVO | INFORMACIÓN DE CALIDAD | SISTEMATIZACIÓN CUALIFICADA DEL PROCESO | SISTEMATIZACIÓN DEL PROCESO, PRODUCCIÓN Y SOCIALIZACIÓN DE INFORMACIÓN
-SOCIALIZACIÓN DE LA INFORMACIÓN
+ |  | SOCIALIZACIÓN DE LA INFORMACIÓN | 
 
 > 1 JARAMILLO  L.,  Juan  Camilo  y  otros,  Modelo  de  comunicación  pública  organizacional  e  informativa  para entidades del Estado MCPOI, USAID - Casals & Associates Inc., Bogotá, 2004.
 
@@ -115,43 +119,43 @@ se  decidió  trabajar  en  los  cuatro  campos  propuestos  por  el  Modelo  Ge
 ##### Categorías:
 los  problemas  de  comunicación  que  debían  ser  resueltos  por  la  metodología  fueron identificados  primero  en  un  Diagnóstico  Rápido  Participativo  (DRP) 3 y  luego  clasificados  en  tres grandes categorías:
 
-- Ordenamiento del proceso (problemas relacionados con la necesidad de estructurar y organizar la movilización).
+1. Ordenamiento del proceso (problemas relacionados con la necesidad de estructurar y organizar la movilización).
 
-- Participación  efectiva (problemas  relacionados  con  garantizar  una  participación  amplia  e incluyente de la sociedad )
+2. Participación efectiva (problemas relacionados con garantizar una participación amplia e incluyente de la sociedad )
 
-- Información  de  calidad (problemas  relacionados  con  la  necesidad  de  garantizar  información oportuna, suficiente y cualificada sobre su desarrollo y evolución).
+3. Información de calidad (problemas relacionados con la necesidad de garantizar información oportuna, suficiente y cualificada sobre su desarrollo y evolución).
 
-Estas  categorías  determinaron,  a  la  vez,  el  imaginario  a  partir  del  cual  se  convocó  a  la movilización: el país iba a emprender un proceso ordenado , participado e informado, para definir el horizonte deseado para la educación durante los siguientes diez años.
+Estas categorías determinaron, a la vez, el imaginario a partir del cual se convocó a la movilización: el país iba a emprender un proceso ordenado, participado e informado, para definir el horizonte deseado para la educación durante los siguientes diez años.
 
 ##### Ejes temáticos:
 a partir de las categorías, fue posible identificar ocho ejes temáticos en los cuales había que trabajar:
 
--En relación con el ordenamiento del proceso:
+- En relación con el ordenamiento del proceso:
 
-- Alineamiento del sector educativo con respecto a la metodología escogida y a la importancia de construir el Plan en forma colectiva.
+1. Alineamiento del sector educativo con respecto a la metodología escogida y a la importancia de construir el Plan en forma colectiva.
 
-- Claridad y flexibilidad de la metodología.
+2. Claridad y flexibilidad de la metodología.
 
-- Coherencia en todas las etapas y acciones de la movilización.
+3. Coherencia en todas las etapas y acciones de la movilización.
 
--En relación con la participación efectiva:
+- En relación con la participación efectiva:
 
-- Seguimiento y verificación del cumplimiento de compromisos.
+4. Seguimiento y verificación del cumplimiento de compromisos.
 
-- Creación de escenarios accesibles e incluyentes para la deliberación.
+5. Creación de escenarios accesibles e incluyentes para la deliberación.
 
-- Visibilidad de los actores participantes en el debate público y reconocimiento de sus campos de actuación.
+6. Visibilidad de los actores participantes en el debate público y reconocimiento de sus campos de actuación.
 
--En relación con la información de calidad:
+- En relación con la información de calidad:
 
-- Sistematización cualificada de la información.
+7. Sistematización cualificada de la información.
 
-- Socialización amplia, oportuna y suficiente de la información.
+8. Socialización amplia, oportuna y suficiente de la información.
 
-##### Temas  críticos:
-una  vez  definidos,  los  ejes  temáticos  fueron  reagrupados  para  establecer  los temas  críticos  en  los  que  había  que  focalizar  la  planeación  de  la  movilización.  Se  identificaron cinco temas críticos, a partir de los cuales se formularon objetivos, para cuyo logro se trazaron las estrategias de las cuales se desprende el plan de acción que se implementó:
+##### Temas críticos:
+una vez definidos, los ejes temáticos fueron reagrupados para establecer los temas críticos en los que había que focalizar la planeación de la movilización. Se identificaron cinco temas críticos, a partir de los cuales se formularon objetivos, para cuyo logro se trazaron las estrategias de las cuales se desprende el plan de acción que se implementó:
 
-- Construir visión compartida en torno al PNDE.
+1. Construir visión compartida en torno al PNDE.
 
 > 3 Para  el  Diagnóstico  Rápido  Participativo  (DRP),  se  hicieron  dos  conversatorios  con  carácter  de  grupos focales, ambos el 10 de octubre de 2006, con expertos en movilización y en educación.
 
@@ -163,13 +167,13 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 6]]
 
-- Implementar un plan de comunicación interna.
+2. Implementar un plan de comunicación interna.
 
-- Utilizar un diseño metodológico especialmente concebido para el proceso.
+3. Utilizar un diseño metodológico especialmente concebido para el proceso.
 
-- Construir confianza y garantizar calidad de la movilización.
+4. Construir confianza y garantizar calidad de la movilización.
 
-- Sistematizar el proceso, producir y socializar información.
+5. Sistematizar el proceso, producir y socializar información.
 
 Con estos elementos fue posible identificar nueve grupos de interés para los cuales se diseñaron estrategias y acciones comunicativas 4 y, finalmente, se formularon tres grandes ideas reguladoras 5 a  partir  de  las  cuales  se  construyeron  los  mensajes  que  se  comunicaron  a  través  de  piezas  y acciones comunicativas:
 
@@ -185,14 +189,14 @@ El  diseño  operativo  de  la  Construcción  Colectiva  del  PNDE  requirió  
 
 ##### Primer momento: documentación
 
-Comprende el periodo que va desde noviembre de 2005 hasta el 18 de octubre de 2006. En esta etapa  se  realizó  el  balance  del  Plan  1996-2005  -La  Educación  un  compromiso  de  todos‖ 6 y  se hicieron reuniones de difusión en diferentes lugares del país.
+Comprende el periodo que va desde noviembre de 2005 hasta el 18 de octubre de 2006. En esta etapa se realizó el balance del Plan 1996-2005 “La Educación un compromiso de todos”⁶ y se hicieron reuniones de difusión en diferentes lugares del país.
 
 ##### Segundo momento: construcción de la agenda para el debate público
 
-Los temas a partir de los cuales se realizó el debate público, fueron definidos en una dinámica que partió de una agenda propuesta por un grupo de personalidades -quienes, además, actuaron como garantes de la transparencia de la  construcción colectiva del  Plan- y culminó con  una  consulta institucional en línea en la que se puso a consideración del país esta agenda punto de partida.
+Los temas a partir de los cuales se realizó el debate público, fueron definidos en una dinámica que partió de una agenda propuesta por un grupo de personalidades —quienes, además, actuaron como garantes de la transparencia de la construcción colectiva del Plan— y culminó con una consulta institucional en línea en la que se puso a consideración del país esta agenda punto de partida.
 
-###### Agenda  de  las  personalidades:
-el  18  de  octubre  de  2006,  en  Medellín,  el  Presidente  de  la República convocó a un grupo de personalidades provenientes de diversos sectores, representantes de diversas ideologías y maneras de pensar el país y especialistas de amplio reconocimiento, cada una  en  su  actividad  y  en  su  sector,  y  les  encomendó  la  tarea  de  proponer  una  agenda  que estableciera los temas y las prioridades alrededor de las cuales organizar el debate público. Ellos fueron  los  doctores:  Antanas  Mockus  Sivickas,  Carlos  Eduardo  Vasco  Uribe,  Vicky  Colbert  de Arboleda, Abadio Green Stocel, Jairo Clopatofsky Ghisays, Eduardo García Vega, Víctor Raúl Castro Neira,  Jaime  Abello  Banfi,  Francisco  Piedrahita  Plata,  Vera  Grabe  Loewenherz  y  Rafael  Serrano Sarmiento.
+###### Agenda de las personalidades:
+el 18 de octubre de 2006, en Medellín, el Presidente de la República convocó a un grupo de personalidades provenientes de diversos sectores, representantes de diversas ideologías y maneras de pensar el país y especialistas de amplio reconocimiento, cada una en su actividad y en su sector, y les encomendó la tarea de proponer una agenda que estableciera los temas y las prioridades alrededor de las cuales organizar el debate público. Ellos fueron los doctores: Antanas Mockus Sivickas, Carlos Eduardo Vasco Uribe, Vicky Colbert de Arboleda, Abadio Green Stocel, Jairo Clopatofsky Ghisays, Eduardo García Vega, Víctor Raúl Castro
 
 > 4 Estos grupos de interés, que corresponden a los públicos a los cuales se propuso llegar, fueron clasificados siguiendo la metodología del Modelo General de Comunicación Pública, de acuerdo con su cercanía o distancia con  el  equipo  coordinador  Plan,  de  la  siguiente  manera:  MEN,  equipo  coordinador  territorial,  entidades territoriales,  sector  educativo,  mesas  de  trabajo  intersectoriales,  ciudadanía  participante  en  la  consulta, líderes de opinión, medios de comunicación y opinión pública.
 
@@ -208,56 +212,58 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 7]]
 
+Neira, Jaime Abello Banfi, Francisco Piedrahita Plata, Vera Grabe Loewenherz y Rafael Serrano Sarmiento.
+
 La agenda de las personalidades propuso 10 temas para el debate:
 
-- Educación para la paz, la convivencia y la ciudadanía
+1. Educación para la paz, la convivencia y la ciudadanía
 
-- Cobertura articulada con calidad y equidad
+2. Cobertura articulada con calidad y equidad
 
-- Multiplicación de la atención y educación a la primera infancia
+3. Multiplicación de la atención y educación a la primera infancia
 
-- Educación para la autonomía en un entorno de creciente interdependencia
+4. Educación para la autonomía en un entorno de creciente interdependencia
 
-- Renovación pedagógica para mejorar el aprendizaje
+5. Renovación pedagógica para mejorar el aprendizaje
 
-- Educación con apoyo en los medios masivos de comunicación y para la apropiación crítica de sus mensajes.
+6. Educación con apoyo en los medios masivos de comunicación y para la apropiación crítica de sus mensajes.
 
-- Más y mejor inversión en educación
+7. Más y mejor inversión en educación
 
-- Potenciación de la gestión y de la transparencia del sistema educativo
+8. Potenciación de la gestión y de la transparencia del sistema educativo
 
-- Educación para la competitividad y ampliación de los horizontes educativos a todos los contextos sociales
+9. Educación para la competitividad y ampliación de los horizontes educativos a todos los contextos sociales
 
-- Ciencia y tecnología articuladas al sistema educativo
+10. Ciencia y tecnología articuladas al sistema educativo
 
 ###### Consulta institucional  en  línea:
 una vez  establecida  la  agenda  punto  de  partida,  era  necesario validar  sus  temas  y  enunciados  y  establecer  un  orden  de  prioridades.    Para  ello,  se  recurrió  al diseño de una plataforma informática que permitió hacer una consulta en línea, en la que, además de aplicar una encuesta para determinar la preferencia de los temas, los participantes pudieron exponer sus argumentos, desagregar los temas propuestos, plantear nuevas formas de formularlos y proponer nuevos temas. La plataforma, construida por el equipo de la Oficina de Tecnología del Ministerio  de  Educación  Nacional,  recibió  el  premio  ExcelGOB  2007  de  la  OEA  en  la  categoría Participación  Ciudadana  y  fue  la  herramienta  utilizada  para  realizar  la  consulta  entre  el  20  de diciembre de 2006 y el 20 de enero de 2007, con la participación de 1.632 instituciones de todos los departamentos del país.
 
 La Consulta, que registró un alto nivel de aportes vía Internet desde los rincones más apartados del país en una época considerada tradicionalmente inactiva para cualquier proceso de esta naturaleza arrojó  como  resultado  una  nueva  agenda,  construida  a  partir  de la que  propusieron  las personalidades, pero concertada con una amplia participación institucional 7
 
-- Ciencia y tecnología integradas a la educación
+1. Ciencia y tecnología integradas a la educación
 
-- Renovación pedagógica y uso de las TIC en la educación
+2. Renovación pedagógica y uso de las TIC en la educación
 
-- Profesionalización, dignificación y formación de los docentes
+3. Profesionalización, dignificación y formación de los docentes
 
-- Más y mejor inversión en educación
+4. Más y mejor inversión en educación
 
-- Educación en y para la paz, la convivencia y la ciudadanía
+5. Educación en y para la paz, la convivencia y la ciudadanía
 
-- Equidad: acceso, permanencia y calidad
+6. Equidad: acceso, permanencia y calidad
 
-- La educación más allá del sistema educativo
+7. La educación más allá del sistema educativo
 
-- Desarrollo infantil y educación inicial
+8. Desarrollo infantil y educación inicial
 
-- Liderazgo, gestión, transparencia y rendición de cuentas en el sistema educativo
+9. Liderazgo, gestión, transparencia y rendición de cuentas en el sistema educativo
 
-- Fines y calidad de la educación en el siglo XXI (globalización y autonomía)
+10. Fines y calidad de la educación en el siglo XXI (globalización y autonomía)
 
 ##### Tercer momento: debate público
 
-Para ordenar el debate y sistematizar los resultados, el equipo coordinador definió la estructura que tendría el Plan, de manera que se pudieran cruzar y sistematizar los documentos aportados por  los  diferentes  niveles  del  debate  utilizando  la  misma    plataforma  que  se  utilizó  para  el procesamiento de los resultados de la Consulta. Esta estructura determinó que el PNDE 2006-2016 tendría: una visión, unos propósitos y unos mecanismos de seguimiento; y, para cada uno de los diez temas de la agenda concertada, objetivos, metas y acciones posibles para el cumplimiento de esos objetivos y metas.
+Para ordenar el debate y sistematizar los resultados, el equipo coordinador definió la estructura que tendría el Plan, de manera que se pudieran cruzar y sistematizar los documentos aportados
 
 > 7 El  procesamiento  de  los  resultados  de  la  consulta  fue  realizado,  utilizando  el  programa  para  análisis  de contenido Atlas ti, por un equipo investigador perteneciente al CIFE de la Universidad de los Andes.
 
@@ -269,10 +275,17 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 8]]
 
-El  siguiente  cuadro  comparativo,  presenta  la  estructura  adoptada  para  el  PNDE  2006-2016  en relación con la que se utilizó en la formulación del PNDE 1996-2005:
+por los diferentes niveles del debate utilizando la misma plataforma que se utilizó para el procesamiento de los resultados de la Consulta. Esta estructura determinó que el PNDE 2006-2016 tendría: una visión, unos propósitos y unos mecanismos de seguimiento; y, para cada uno de los diez temas de la agenda concertada, objetivos, metas y acciones posibles para el cumplimiento de esos objetivos y metas.
+
+El siguiente cuadro comparativo, presenta la estructura adoptada para el PNDE 2006-2016 en relación con la que se utilizó en la formulación del PNDE 1996-2005:
 
 Estructura del PNDE 1996 - 2005 | Estructura del PNDE 2006 - 2016
 --- | ---
+EL PROYECTO DE NACIÓN Y LA EDUCACIÓN | VISIÓN
+PROPÓSITOS GENERALES | PROPÓSITOS GENERALES
+Objetivos y metas del PNDE | Objetivos y metas de cada uno de los temas de la agenda
+Estrategias; programas de acción; Financiación; Compromisos | Acciones posibles en cada uno de los temas de la agenda
+Seguimiento, evaluación y difusión del PNDE | Seguimiento, evaluación y difusión del PNDE
 
 El  debate público, realizado entre el 20 de enero y el 30 de mayo de 2007, se organizó en tres niveles: 1) presencial, orientado a instituciones a través de mesas de trabajo; 2) virtual, orientado a especialistas, a través de foros en internet; y 3) mediático, orientado a ciudadanos, a través de los medios masivos de comunicación.
 
@@ -309,7 +322,7 @@ La  Asamblea  se  reunió  en  el  Instituto  Pedagógico  Nacional  en  Bogotá
 
 En una primera fase, que duró dos días, la discusión se realizó por grupos de asambleístas que se preinscribieron en cada uno de los ONCE temas de la agenda, de tal manera que, para cada uno de los diez temas, hubo tres grupos de deliberación, cuya tarea consistió en plantear cuáles deberían ser  sus  objetivos,  metas  y  acciones  posibles.  La  discusión  sobre  la  visión,  los  propósitos  y  los mecanismos de seguimiento, se concentró en un solo grupo, dada la poca cantidad de asambleístas preinscritos en el tema.
 
-En cada uno de estos grupos hubo un moderador capacitado previamente por la Secretaría Técnica de  la  Asamblea  y  tres  relatores,  uno  con  experiencia  en  la  elaboración  de  mapas  conceptuales, otro en la elaboración de relatorías escritas y el tercero elegido por los asambleístas. La regla de oro, en todo este proceso, fue la no imposición de consensos o unanimidades a través de ningún mecanismo de eliminación, votación o anulación de puntos de vista, y la adopción, en todos los casos,  del  disenso,  así  fuera  de  una  persona,  como  aporte  válido  que  debía  quedar  registrado  y consignado en la relatoría de la deliberación.
+En cada uno de estos grupos hubo un moderador capacitado previamente por la Secretaría Técnica de la Asamblea y tres relatores, uno con experiencia en la elaboración de mapas conceptuales,
 
 > 8 Las tres preguntas, difundidas y promovidas a través de medios masivos y cuyas respuestas podían ser dadas por  cualquier  ciudadano  a  través  de  una  línea  01-8000,    fueron:  ¿Usted  qué  propone  para  mejorar  la educación en Colombia? ¿Para usted qué es lo más importante en la educación de los jóvenes hoy?, ¿Y usted qué cree que necesitamos aprender los colombianos en los próximos diez años?
 
@@ -323,7 +336,9 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 10]]
 
-En la segunda fase los grupos que trabajaron cada tema se reunieron durante un día en plenarias temáticas,  en  las  que  hubo  un  moderador  y  dos  relatores,  asignados  por  la  Secretaría  Técnica, trabajando en forma coordinada con los relatores elegidos por los asambleístas en cada uno de los grupos de trabajo.
+otro en la elaboración de relatorías escritas y el tercero elegido por los asambleístas. La regla de oro, en todo este proceso, fue la no imposición de consensos o unanimidades a través de ningún mecanismo de eliminación, votación o anulación de puntos de vista, y la adopción, en todos los casos, del disenso, así fuera de una persona, como aporte válido que debía quedar registrado y consignado en la relatoría de la deliberación.
+
+En la segunda fase los grupos que trabajaron cada tema se reunieron durante un día en plenarias temáticas, en las que hubo un moderador y dos relatores, asignados por la Secretaría Técnica, trabajando en forma coordinada con los relatores elegidos por los asambleístas en cada uno de los grupos de trabajo.
 
 Siguiendo la regla de oro de acoger los disensos, las plenarias temáticas consolidaron las relatorías de los grupos y concertaron los contenidos del Plan; de esta manera, el cuarto día, se pudo realizar una Gran Plenaria en la que las relatarías fueron leídas y aprobadas por los asambleístas, quienes determinaron el nombramiento de una comisión redactora que se encargara de organizar, depurar, sintetizar y darle forma definitiva al documento del Plan.
 
@@ -331,15 +346,15 @@ Siguiendo la regla de oro de acoger los disensos, las plenarias temáticas conso
 
 La  Comisión  Redactora  del  Plan  se  reunió  en  Bogotá  del  18  al  20  de  septiembre  y  estuvo conformada por los 31 relatores elegidos por los asambleístas en cada uno de los grupos de trabajo que deliberaron durante la primera fase, con el acompañamiento del grupo de las personalidades quienes  cumplieron  a  lo  largo  del  proceso  su  función  como  garantes  de  transparencia  y cumplimiento de las reglas del juego y la participación de funcionarios del MEN expertos en cada uno de los temas.
 
-La  Comisión,  acogiendo  la  arquitectura  del  Plan  diseñada  por  el  equipo  coordinador,  agrupó  los objetivos,  metas  y  acciones  posibles  propuestos  por  los  asambleístas,  en  Macro-Objetivos  y Objeteivos,  Macro-Metas  y  Metas,  y  categorías  de  acciones  posibles  y  estableció  la  tabla  de contenidos del documento, así: alcance; visión; propósitos; capitulo I -Desafíos de la Educación en Colombia‖; capítulo II -Garantías para el derecho pleno de la educación en Colombia‖; capítulo III -Agentes Educativos‖; y capítulo IV -Mecanismos de seguimiento, evaluación y participación del PNDE‖ .
+La Comisión, acogiendo la arquitectura del Plan diseñada por el equipo coordinador, agrupó los objetivos, metas y acciones posibles propuestos por los asambleístas, en Macro-Objetivos y Objeteivos, Macro-Metas y Metas, y categorías de acciones posibles y estableció la tabla de contenidos del documento, así: alcance; visión; propósitos; capitulo I “Desafíos de la Educación en Colombia”; capítulo II “Garantías para el derecho pleno de la educación en Colombia”; capítulo III “Agentes Educativos”; y capítulo IV “Mecanismos de seguimiento, evaluación y participación del PNDE”.
 
 ### 2. ARQUITECTURA DEL PLAN NACIONAL DECENAL DE EDUCACIÓN 2006 -2016
 
 El  segundo  reto  planteado  por  el  PNDE  1996-2005,  está  relacionado  con  la  naturaleza  del  Plan como herramienta de planificación y con  la  necesidad  de  afinar  su  arquitectura,  de  tal  manera que,  además  de  su  valor  como  proceso  movilizador  que  contribuye  a  que  el  país  realice  una reflexión  ordenada,  participada  e  informada  sobre  el  horizonte  que  espera  para  la  educación durante  una  década,  cumpla  a  cabalidad  su  función  como  marco  contextual  de  obligatoria referencia  en  ese  periodo  para  las  decisiones  de  los  gobiernos  nacional  y  territoriales  y  las actuaciones  de  las  organizaciones  sociales  y  las  comunidades  interesadas  en  el  desarrollo educativo.
 
-El Plan 1996-2005, estableció que adoptaba -un conjunto de estrategias y programas, dirigidos a configurar las herramientas necesarias para su ejecución‖ 10 con la intención de -hacer realidad los propósitos  y  objetivos‖ 11 ,  lo  que  significa  que  fue  concebido  para  que  el  país  adoptara  sus propósitos, implementara las ocho estrategias con sus objetivos y metas y ejecutara los programas, a  pesar  de  que  reconocía,  en  su  parte  emotiva,  que  no  pretendía  entrar  -en  detalles  ni especificidades que son propios de la autonomía de las entidades territoriales, las comunidades y las instituciones educativas, que son las autorizadas para determinar las acciones y prioridades a seguir para alcanzar los propósitos y metas del Plan‖ 12
+El Plan 1996-2005, estableció que adoptaba “un conjunto de estrategias y programas, dirigidos a configurar las herramientas necesarias para su ejecución”¹⁰ con la intención de “hacer realidad los propósitos y objetivos”¹¹, lo que significa que fue concebido para que el país adoptara sus propósitos, implementara las ocho estrategias con sus objetivos y metas y ejecutara los programas,
 
-> 10 Plan Nacional Decenal de Educación 1996-2005 -La Educación Compromiso de Todos‖, pág 20
+> 10 Plan Nacional Decenal de Educación 1996-2005 “La Educación Compromiso de Todos”, pág 20
 
 > 11 Ídem
 
@@ -351,7 +366,9 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 11]]
 
-Sin embargo, es claro que buena parte de la sensación de malestar que se pudo haber generado en algunos sectores por el hecho de que los gobiernos posteriores al que lo promulgó no lo hubieran asumido en la forma explicita, juiciosa y sistemática que se esperaba (a pesar de que los temas y las preocupaciones que se plantearon en ese momento marcaron en forma definitiva el rumbo del desarrollo  educativo hasta hoy), tuvo que ver, probablemente, con el hecho de que fue concebido y construido como un marco lógico que estableció ocho estrategias, para las cuales se definieron programas concretos con objetivos, metas y en algunos casos acciones que debían realizarse para el logro de esos objetivos y metas.
+a pesar de que reconocía, en su parte emotiva, que no pretendía entrar “en detalles ni especificidades que son propios de la autonomía de las entidades territoriales, las comunidades y las instituciones educativas, que son las autorizadas para determinar las acciones y prioridades a seguir para alcanzar los propósitos y metas del Plan”¹²
+
+Sin embargo, es claro que buena parte de la sensación de malestar que se pudo haber generado en algunos sectores por el hecho de que los gobiernos posteriores al que lo promulgó no lo hubieran asumido en la forma explicita, juiciosa y sistemática que se esperaba (a pesar de que los temas y las preocupaciones que se plantearon en ese momento marcaron en forma definitiva el rumbo del desarrollo educativo hasta hoy), tuvo que ver, probablemente, con el hecho de que fue concebido y construido como un marco lógico que estableció ocho estrategias, para las cuales se definieron programas concretos con objetivos, metas y en algunos casos acciones que debían realizarse para el logro de esos objetivos y metas.
 
 Es clara, entonces, la pertinencia de la pregunta acerca de cuál debe ser la estructura de un plan indicativo, como establece la Ley 115 que debe ser el Plan Nacional Decenal de Educación y cómo se diferencia esta estructura de la de un plan vinculante.
 
@@ -359,11 +376,11 @@ El  PNDE  2006-2016  asume  la  planeación  indicativa  como  aquella  que  est
 
 De esta manera, la arquitectura propuesta para este Plan, busca potenciar su función indicativa:
 
-- Trazando el horizonte hacia donde debe encaminarse el desarrollo educativo en el decenio de su vigencia, mediante el establecimiento de una visión que resulta de un amplio e incluyente pacto social por la educación.
+1. Trazando el horizonte hacia donde debe encaminarse el desarrollo educativo en el decenio de su vigencia, mediante el establecimiento de una visión que resulta de un amplio e incluyente pacto social por la educación.
 
-- Fijando los derroteros que debe seguir la educación mediante la adopción de un conjunto de propósitos.
+2. Fijando los derroteros que debe seguir la educación mediante la adopción de un conjunto de propósitos.
 
-- Ofreciéndole  a  cada  gobierno  nacional  o  territorial,  institución  educativa  o  comunidad,  un conjunto  de  opciones,  susceptibles  de  ser  adoptadas  y  ajustadas  en  concordancia  con  sus propios planes y proyectos políticos y operativos, tanto en el nivel de los objetivos, como de las metas y las acciones.
+3. Ofreciéndole a cada gobierno nacional o territorial, institución educativa o comunidad, un conjunto de opciones, susceptibles de ser adoptadas y ajustadas en concordancia con sus propios planes y proyectos políticos y operativos, tanto en el nivel de los objetivos, como de las metas y las acciones.
 
 Se espera que al buscar la concreción de los propósitos, cada operador del orden gubernamental, institucional  o  comunitario  pueda  elegir  aquellos  Macro-Objetivos  que  coincidan  con  su  propio proyecto y dentro de ellos los objetivos específicos que considere pertinentes, para cuyo logro, en sus planes operativos, podrá asumir las Macro-Metas correspondientes y dentro de ellas sus metas especificas.
 
@@ -378,16 +395,32 @@ www.plandecenal.edu.co
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+Visión
+
+Propósito 1 | Propósito 2 | Propósito 3 | Propósito n
+
+Tema...
+
+Macro objetivo 1 | Macro objetivo 2 | Macro objetivo n
+Objetivo 1; Objetivo 2; Objetivo n | Objetivo 1; Objetivo 2; Objetivo 3; Objetivo n | Objetivo 1; Objetivo 2; Objetivo 3
+Disensos | Disensos | Disensos
+Macro meta 1 | Macro meta 2 | Macro meta n
+Meta 1; Meta 2; Meta n | Meta 1; Meta 2; Meta 3; Meta n | Meta 1; Meta 2; Meta n
+Disensos | Disensos | Disensos
+Categoría de agrupamiento 1 | Categoría de agrupamiento 1 | Categoría de agrupamiento 1
+Acción 1; Acción 2; Acción n | Acción 1; Acción 2; Acción 3; Acción n | Acción 1; Acción 2; Acción 3
+
+Mecanismos de seguimiento
 
 #### Lectura  y  aplicabilidad  de  las  herramientas  que  proporciona  el  Plan  Nacional  Decenal  de Educación 2006 -2016
 
-- La visión, los propósitos y los temas del PNDE comprometen a todas las entidades del orden central, seccional y local, al sector público y privado, a la sociedad civil y la familia, a orientar las transformaciones que el país necesita en materia de educación.
+1. La visión, los propósitos y los temas del PNDE comprometen a todas las entidades del orden central, seccional y local, al sector público y privado, a la sociedad civil y la familia, a orientar las transformaciones que el país necesita en materia de educación.
 
-- Con el fin de concretar la redacción final del documento del PNDE a partir de la información producida en la Asamblea Nacional, se realizó un ejercicio de ordenamiento y clasificación de los  objetivos,  metas  y  acciones  para  cada  uno  de  los  temas.  Como  resultado,  el  presente documento,  está  estructurado  de  la  siguiente  manera:  un  conjunto  de  macro-objetivos  y objetivos, y macro-metas y metas, es decir, las grandes categorías temáticas y una serie de objetivos y metas particulares consecuentes a los enunciados macros.
+2. Con el fin de concretar la redacción final del documento del PNDE a partir de la información producida en la Asamblea Nacional, se realizó un ejercicio de ordenamiento y clasificación de los objetivos, metas y acciones para cada uno de los temas. Como resultado, el presente documento, está estructurado de la siguiente manera: un conjunto de macro-objetivos y objetivos, y macro-metas y metas, es decir, las grandes categorías temáticas y una serie de objetivos y metas particulares consecuentes a los enunciados macros.
 
-- Igualmente, se elaboraron categorías de agrupamiento para las acciones como herramienta de clasificación  y  ordenamiento  del  numeroso  conjunto  de  acciones  propuestas  por  el  país.  En este  sentido,  constituyen  un  rico  inventario  de  posibilidades  que  deberá  ser  consultado  y tenido en cuenta para los diseños de planes operativos.
+3. Igualmente, se elaboraron categorías de agrupamiento para las acciones como herramienta de clasificación y ordenamiento del numeroso conjunto de acciones propuestas por el país. En este sentido, constituyen un rico inventario de posibilidades que deberá ser consultado y tenido en cuenta para los diseños de planes operativos.
 
-- La Asamblea determinó las instancias y los procedimientos para hacer posibles los mecanismos de  seguimiento  al  Plan.  Estos  mecanismos  fundan  su  solidez  en  la  fuerza  de  la  movilización social  que  le  dio  origen  a  este  Plan  y,  por  tanto,  son  responsabilidad  de  la  sociedad  en  su conjunto. Se espera que la sociedad movilizada permanentemente en torno a la educación, a través de los mecanismos de seguimiento y evaluación y difusión adoptados por la Asamblea, sea la encargada de velar porque se cumpla la vocación indicativa de este Plan Nacional del Desarrollo Educativo 2006-2016.
+4. La Asamblea determinó las instancias y los procedimientos para hacer posibles los mecanismos de seguimiento al Plan. Estos mecanismos fundan su solidez en la fuerza de la movilización social que le dio origen a este Plan y, por tanto, son responsabilidad de la sociedad en su conjunto. Se espera que la sociedad movilizada permanentemente en torno a la educación, a través de los mecanismos de seguimiento y evaluación y difusión adoptados por la Asamblea, sea la encargada de velar porque se cumpla la vocación indicativa de este Plan Nacional del Desarrollo Educativo 2006-2016.
 
 www.plandecenal.edu.co
 
@@ -397,29 +430,29 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 13]]
 
+# PLAN NACIONAL DECENAL DE EDUCACIÓN 2006 -2016
+
 ## ALCANCE
 
-El  Plan  Nacional  Decenal  de  Educación  2006-2016,  PNDE,  se  define  como  un  pacto  social  por  el derecho  a  la  educación,  y  tiene  como  finalidad  servir  de  ruta  y  horizonte  para  el  desarrollo educativo del país en el próximo decenio, de referente obligatorio de planeación para todos los gobiernos e instituciones educativas y de instrumento de movilización social y política en torno a la defensa de la educación, entendida ésta como un derecho fundamental de la persona y como un servicio público que, en consecuencia, cumple una función social.
+El Plan Nacional Decenal de Educación 2006-2016, PNDE, se define como un pacto social por el derecho a la educación, y tiene como finalidad servir de ruta y horizonte para el desarrollo educativo del país en el próximo decenio, de referente obligatorio de planeación para todos los gobiernos e instituciones educativas y de instrumento de movilización social y política en torno a la defensa de la educación, entendida ésta como un derecho fundamental de la persona y como un servicio público que, en consecuencia, cumple una función social.
 
 El PNDE será un pacto social en la medida en que su formulación y ejecución comprometa a todos los agentes responsables de la educación, representados en el Estado, la sociedad y la familia.
 
 ## VISIÓN
 
-En  Colombia,  en  2016,  dentro  del  marco  del  Estado  social  y  democrático  de  derecho  y  de  su reconocimiento  constitucional  como  un  país  multicultural,  pluriétnico,  diverso  y  biodiverso,  la educación es un derecho cumplido para toda la población y un bien público de calidad, garantizado en condiciones de equidad e inclusión social por el Estado, con la participación co-responsable de la sociedad y la familia en el sistema educativo. La educación es un proceso de formación integral, pertinente  y  articulado  con  los  contextos  local,  regional,  nacional  e  internacional  que  desde  la cultura, los saberes, la investigación, la ciencia, la tecnología y la producción, contribuye al justo desarrollo  humano,  sostenible  y  solidario,  con  el  fin  de  mejorar  la  calidad  de  vida  de  los colombianos, y alcanzar la paz, la reconciliación y la superación de la pobreza y la exclusión.
+En Colombia, en 2016, dentro del marco del Estado social y democrático de derecho y de su reconocimiento constitucional como un país multicultural, pluriétnico, diverso y biodiverso, la educación es un derecho cumplido para toda la población y un bien público de calidad, garantizado en condiciones de equidad e inclusión social por el Estado, con la participación co-responsable de la sociedad y la familia en el sistema educativo. La educación es un proceso de formación integral, pertinente y articulado con los contextos local, regional, nacional e internacional que desde la cultura, los saberes, la investigación, la ciencia, la tecnología y la producción, contribuye al justo desarrollo humano, sostenible y solidario, con el fin de mejorar la calidad de vida de los colombianos, y alcanzar la paz, la reconciliación y la superación de la pobreza y la exclusión.
 
 ## PROPÓSITOS
 
-- El Estado debe garantizar el pleno cumplimiento del derecho a la educación en condiciones de equidad para toda la población y la permanencia en el sistema educativo desde la educación inicial hasta su articulación con la educación superior.
+1. El Estado debe garantizar el pleno cumplimiento del derecho a la educación en condiciones de equidad para toda la población y la permanencia en el sistema educativo desde la educación inicial hasta su articulación con la educación superior.
 
-- La educación en su función social, reconoce a los estudiantes como seres humanos y sujetos activos de derechos y atiende a las particularidades de los contextos local, regional, nacional e internacional, debe contribuir a la transformación de la realidad social, política y económica del país, al logro de la paz, a la superación de la pobreza y la exclusión, a la reconstrucción del  tejido  social  y  al  fomento  de  los  valores  democráticos,  y  a  la  formación  de  ciudadanos libres, solidarios y autónomos.
+2. La educación en su función social, reconoce a los estudiantes como seres humanos y sujetos activos de derechos y atiende a las particularidades de los contextos local, regional, nacional e internacional, debe contribuir a la transformación de la realidad social, política y económica del país, al logro de la paz, a la superación de la pobreza y la exclusión, a la reconstrucción del tejido social y al fomento de los valores democráticos, y a la formación de ciudadanos libres, solidarios y autónomos.
 
-- Fortalecer  la  educación  pública  en  todos  sus  niveles,  como  tema  prioritario  en  las  agendas nacionales y territoriales, en los planes de desarrollo e inversión de las entidades municipales, departamentales y nacionales, para asegurar a todos, condiciones de disponibilidad, acceso, permanencia y calidad en términos  de igualdad, equidad e inclusión.
+3. Fortalecer la educación pública en todos sus niveles, como tema prioritario en las agendas nacionales y territoriales, en los planes de desarrollo e inversión de las entidades municipales, departamentales y nacionales, para asegurar a todos, condiciones de disponibilidad, acceso, permanencia y calidad en términos de igualdad, equidad e inclusión.
 
-- El  Estado  colombiano,  a  través  de  políticas  públicas  sostenidas,  garantizará  la  asignación, inversión y gestión de los recursos adecuados, suficientes y progresivos para la educación, y
+4. El Estado colombiano, a través de políticas públicas sostenidas, garantizará la asignación, inversión y gestión de los recursos adecuados, suficientes y progresivos para la educación, y
 
  Documento revisado por la Comisión Redactora elegida en la Asamblea Nacional por la Educación reunida en Bogotá entre el 18 y el 20 de septiembre de 2007.
-
-# PLAN NACIONAL DECENAL DE EDUCACIÓN 2006 -2016 
 
 www.plandecenal.edu.co
 
@@ -431,19 +464,19 @@ www.plandecenal.edu.co
 
 fortalecerá  la  descentralización,  la  autonomía  de  las  regiones  y  la  gestión  educativa  con criterios de eficacia, eficiencia, transparencia, calidad y bien común.
 
-- La educación como  política de Estado debe materializarse en políticas, planes, programas, proyectos y acciones que promuevan la cultura, la investigación, la innovación, el conocimiento,  la  ciencia,  la  tecnología  y  la  técnica,  que  contribuyan  al  desarrollo  humano integral, sostenible y sustentable, a través de la ampliación de las oportunidades de progreso de los individuos, las comunidades, las regiones y la nación.
+5. La educación como política de Estado debe materializarse en políticas, planes, programas, proyectos y acciones que promuevan la cultura, la investigación, la innovación, el conocimiento, la ciencia, la tecnología y la técnica, que contribuyan al desarrollo humano integral, sostenible y sustentable, a través de la ampliación de las oportunidades de progreso de los individuos, las comunidades, las regiones y la nación.
 
-- Impulsar  la  actualización  curricular,  la  articulación  de  los  niveles  escolares  y  las  funciones básicas de la educación, así como la investigación, las innovaciones y el establecimiento de contenidos, prácticas y evaluaciones que propicien el aprendizaje y la construcción social del conocimiento,  de  acuerdo  con  las  etapas  de  desarrollo,  las  expectativas  y  las  necesidades individuales y colectivas de los estudiantes, propias de su contexto y del mundo actual.
+6. Impulsar la actualización curricular, la articulación de los niveles escolares y las funciones básicas de la educación, así como la investigación, las innovaciones y el establecimiento de contenidos, prácticas y evaluaciones que propicien el aprendizaje y la construcción social del conocimiento, de acuerdo con las etapas de desarrollo, las expectativas y las necesidades individuales y colectivas de los estudiantes, propias de su contexto y del mundo actual.
 
-- El sistema educativo colombiano debe tener su fundamento en la pedagogía, y estar basado en el respeto y en el reconocimiento social de la acción de los maestros, como sujetos esenciales del  proceso  educativo  de  calidad.  El  Estado  garantizará  a  los  maestros  condiciones  de  vida dignas para su desarrollo profesional, personal y ético.
+7. El sistema educativo colombiano debe tener su fundamento en la pedagogía, y estar basado en el respeto y en el reconocimiento social de la acción de los maestros, como sujetos esenciales del proceso educativo de calidad. El Estado garantizará a los maestros condiciones de vida dignas para su desarrollo profesional, personal y ético.
 
-- En  el  marco  de  la  Constitución  Política  de  Colombia,  y  de  las  normas  reglamentarias especiales que regulan la educación para la diversidad étnica y cultural, se debe construir, en concertación con las diferentes etnias, un sistema de educación propio que integre distintos modelos, que responda a sus concepciones y particularidades, y que se articule a un propósito común de nación.
+8. En el marco de la Constitución Política de Colombia, y de las normas reglamentarias especiales que regulan la educación para la diversidad étnica y cultural, se debe construir, en concertación con las diferentes etnias, un sistema de educación propio que integre distintos modelos, que responda a sus concepciones y particularidades, y que se articule a un propósito común de nación.
 
-- El  sistema  educativo  debe  diseñar  propuestas  pedagógicas,  y  crear  condiciones  materiales, psicosociales  y  de  seguridad,  que  respondan  a  las  necesidades  educativas  de  todas  las comunidades víctimas del conflicto armado.
+9. El sistema educativo debe diseñar propuestas pedagógicas, y crear condiciones materiales, psicosociales y de seguridad, que respondan a las necesidades educativas de todas las comunidades víctimas del conflicto armado.
 
-- El  sistema  educativo  debe  garantizar  a  niñas,  niños,  jóvenes  y  adultos,  el  respeto  a  la diversidad  de  su  etnia,  género,  opción  sexual,  discapacidad,  excepcionalidad,  edad,  credo, desplazamiento,  reclusión,  reinserción  o  desvinculación  social  y  generar  condiciones  de atención especial a las poblaciones que lo requieran.
+10. El sistema educativo debe garantizar a niñas, niños, jóvenes y adultos, el respeto a la diversidad de su etnia, género, opción sexual, discapacidad, excepcionalidad, edad, credo, desplazamiento, reclusión, reinserción o desvinculación social y generar condiciones de atención especial a las poblaciones que lo requieran.
 
-- La  educación  debe  ser  objeto  de  una  política  de  Estado,  expresada  en  una  ley  estatutaria concertada  con  la  sociedad,  para  fortalecer  su  carácter  público,  gratuito,  incluyente  y  de calidad.
+11. La educación debe ser objeto de una política de Estado, expresada en una ley estatutaria concertada con la sociedad, para fortalecer su carácter público, gratuito, incluyente y de calidad.
 
 ### Disenso
 
@@ -459,13 +492,13 @@ www.plandecenal.edu.co
 
 ## CAPÍTULO I DESAFÍOS DE LA EDUCACIÓN EN COLOMBIA
 
-- Fines de la educación y su calidad en el siglo XXI. (globalización y autonomía)
+I. Fines de la educación y su calidad en el siglo XXI. (globalización y autonomía)
 
-- Educación en y para la paz la convivencia y la ciudadanía
+II. Educación en y para la paz la convivencia y la ciudadanía
 
-- III. Renovación pedagógica y uso de las TIC en la educación
+III. Renovación pedagógica y uso de las TIC en la educación
 
-- Ciencia y tecnología integradas a la educación
+IV. Ciencia y tecnología integradas a la educación
 
 www.plandecenal.edu.co
 
@@ -485,13 +518,13 @@ Lograr un sistema educativo articulado, coherente y contextualizado en los difer
 
 ###### Objetivos
 
-- Asegurar  que  el  sistema  educativo  responda  a  los  requerimientos  de  la  biodiversidad,  la pluriculturalidad y la multietnia.
+1. Asegurar que el sistema educativo responda a los requerimientos de la biodiversidad, la pluriculturalidad y la multietnia.
 
-- Garantizar la articulación entre los proyectos educativos institucionales, PEI, y los planes de desarrollo  municipal,  departamental  y  nacional  que  permitan  asegurar  los  recursos  en infraestructura, dotación, investigación y formación necesarios para avanzar en la calidad de la educación.
+2. Garantizar la articulación entre los proyectos educativos institucionales, PEI, y los planes de desarrollo municipal, departamental y nacional que permitan asegurar los recursos en infraestructura, dotación, investigación y formación necesarios para avanzar en la calidad de la educación.
 
-- Disponer condiciones políticas, normativas, financieras, administrativas y pedagógicas para que los  estudiantes  de  educación  media  accedan  a  programas  bajo  el  enfoque  de  formación  por competencias laborales generales y específicas, que permitan la articulación con la educación superior, el SENA, la educación para el trabajo y el desarrollo humano y el sector productivo.
+3. Disponer condiciones políticas, normativas, financieras, administrativas y pedagógicas para que los estudiantes de educación media accedan a programas bajo el enfoque de formación por competencias laborales generales y específicas, que permitan la articulación con la educación superior, el SENA, la educación para el trabajo y el desarrollo humano y el sector productivo.
 
-- Adoptar, consolidar y poner en marcha una política de Estado que articule el sistema educativo incluyente,  coherente  y  con  flexibilidad  pedagógica  en  sus  diferentes  niveles  de  educación inicial, básica, media, superior y de formacion para el trabajo y el desarrollo humano, y entre los distintos contextos y entornos de aprendizaje, alrededor del desarrollo de las capacidades de aprender a aprender, aprender a ser, aprender a hacer, para lograr una formación integral ciudadana, democrática y de convivencia pacífica.
+4. Adoptar, consolidar y poner en marcha una política de Estado que articule el sistema educativo incluyente, coherente y con flexibilidad pedagógica en sus diferentes niveles de educación inicial, básica, media, superior y de formacion para el trabajo y el desarrollo humano, y entre los distintos contextos y entornos de aprendizaje, alrededor del desarrollo de las capacidades de aprender a aprender, aprender a ser, aprender a hacer, para lograr una formación integral ciudadana, democrática y de convivencia pacífica.
 
 ###### Disenso:
 
@@ -503,7 +536,7 @@ Organizar, implementar y consolidar un sistema de seguimiento y evaluación del 
 
 ###### Objetivo
 
-- Conformar e implementar un sistema  de seguimiento, un sistema de evaluación para la calidad de  la  educación  de  manera  continua,  permanente, integral, integrada,  contextualizada  para
+1. Conformar e implementar un sistema de seguimiento, un sistema de evaluación para la calidad de la educación de manera continua, permanente, integral, integrada, contextualizada para
 
 www.plandecenal.edu.co
 
@@ -525,7 +558,7 @@ Desarrollar y fortalecer la cultura  de la investigación, con el propósito de 
 
 ###### Objetivo
 
-- Generar, desarrollar y fortalecer una cultura de investigación, ciencia, tecnología, humanidades  y  arte,  pertinente,  articulada  con  los  contextos  y  acorde  con  los  objetivos específicos  de  los  diferentes  niveles  del  sistema  educativo,  con  la  finalidad  de  lograr  un pensamiento crítico e innovador y un desarrollo humano sostenible, con la participación y el apoyo de los sectores productivo y social.
+1. Generar, desarrollar y fortalecer una cultura de investigación, ciencia, tecnología, humanidades y arte, pertinente, articulada con los contextos y acorde con los objetivos específicos de los diferentes niveles del sistema educativo, con la finalidad de lograr un pensamiento crítico e innovador y un desarrollo humano sostenible, con la participación y el apoyo de los sectores productivo y social.
 
 ###### Disenso:
 
@@ -537,9 +570,9 @@ Garantizar el acceso, uso y apropiación crítica de las TIC, como herramientas 
 
 ###### Objetivos
 
-- Asegurar la incorporación, actualización, utilización y apropiación crítica y reflexiva de las TIC en el proceso formativo, por parte de todos los actores y de los diferentes niveles del sistema educativo,  que  además  favorezca  la  divulgación  del  conocimiento,  teniendo  en  cuenta  la superación de las desigualdades económicas,  regionales, étnicas, de género  y de las condiciones de vulnerabilidad.
+1. Asegurar la incorporación, actualización, utilización y apropiación crítica y reflexiva de las TIC en el proceso formativo, por parte de todos los actores y de los diferentes niveles del sistema educativo, que además favorezca la divulgación del conocimiento, teniendo en cuenta la superación de las desigualdades económicas, regionales, étnicas, de género y de las condiciones de vulnerabilidad.
 
-- Promover  los  aprendizajes  autónomos  y  colaborativos  que  desarrollen  las  oportunidades  y capacidades mediante la utilizacion crítica y reflexiva de las TIC, cerrando la brecha digital en todo el territorio nacional y haciendo posible la participación activa en la sociedad global.
+2. Promover los aprendizajes autónomos y colaborativos que desarrollen las oportunidades y capacidades mediante la utilizacion crítica y reflexiva de las TIC, cerrando la brecha digital en todo el territorio nacional y haciendo posible la participación activa en la sociedad global.
 
 ###### Disenso :
 
@@ -559,9 +592,9 @@ Diseñar currículos que garanticen el desarrollo de competencias,  orientados a
 
 ###### Objetivos
 
-- Desarrollar las competencias comunicativas en lengua materna y por lo menos en una segunda lengua.
+1. Desarrollar las competencias comunicativas en lengua materna y por lo menos en una segunda lengua.
 
-- Impartir  y  fortalecer  la  formación  en  competencias  laborales,  generales  y  específicas  para lograr una educación pertinente y articulada al mundo productivo, que genere una cultura de emprendimiento,  liderazgo,  innovación  para  la  asociación,  solidaridad  y  creatividad  para  el desarrollo humano sostenible y el mundo laboral.
+2. Impartir y fortalecer la formación en competencias laborales, generales y específicas para lograr una educación pertinente y articulada al mundo productivo, que genere una cultura de emprendimiento, liderazgo, innovación para la asociación, solidaridad y creatividad para el desarrollo humano sostenible y el mundo laboral.
 
 #### MACRO METAS Y METAS
 
@@ -571,9 +604,9 @@ Se tiene un docente con fortalezas en lo pedagógico y disciplinar, sensible a l
 
 ###### Metas
 
-- Se  desarrollarán  procesos  formativos  que  fortalezcan  el  ejercicio  docente  desde  una  visión autónoma y crítica de la interculturalidad, promoviendo el conocimiento y la comprensión de todas las culturas.
+1. Se desarrollarán procesos formativos que fortalezcan el ejercicio docente desde una visión autónoma y crítica de la interculturalidad, promoviendo el conocimiento y la comprensión de todas las culturas.
 
-- Los  docentes  estarán  formados  en  estrategias  pedagógicas  que  les  permita  manejar  la diversidad, la inclusión y las necesidades educativas especiales.
+2. Los docentes estarán formados en estrategias pedagógicas que les permita manejar la diversidad, la inclusión y las necesidades educativas especiales.
 
 ##### 2. Currículos pertinentes
 
@@ -581,9 +614,9 @@ En el 2016 se han fortalecido y contextualizado los currículos desde la educaci
 
 ###### Metas
 
-- En  el  2016  se  contará  con  estructuras  curriculares  flexibles  y  pertinentes  articuladas  al desarrollo de las capacidades de aprender a ser, aprender a aprender y aprender a hacer y de las dimensiones científicas, técnicas, tecnológicas, humanísticas y artísticas, y a las competencias  en  una  segunda  lengua  en  ambientes  de  aprendizaje,  contextualizados  e incluyentes, que privilegien el uso y la apropiación de las TIC.
+1. En el 2016 se contará con estructuras curriculares flexibles y pertinentes articuladas al desarrollo de las capacidades de aprender a ser, aprender a aprender y aprender a hacer y de las dimensiones científicas, técnicas, tecnológicas, humanísticas y artísticas, y a las competencias en una segunda lengua en ambientes de aprendizaje, contextualizados e incluyentes, que privilegien el uso y la apropiación de las TIC.
 
-- Tendremos un país  que  ha  rediseñado  el  currículo  en  todos  los  niveles,  contextualizando  lo local y lo regional en los ámbitos nacional e internacional.
+2. Tendremos un país que ha rediseñado el currículo en todos los niveles, contextualizando lo local y lo regional en los ámbitos nacional e internacional.
 
 www.plandecenal.edu.co
 
@@ -593,17 +626,17 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 19]]
 
-- En  el  2016  se  logrará  la  articulación  e  incorporación  de  las  competencias  laborales  en  el currículo, en todos los niveles de la educación, en busca de la formación integral del individuo.
+3. En el 2016 se logrará la articulación e incorporación de las competencias laborales en el currículo, en todos los niveles de la educación, en busca de la formación integral del individuo.
 
-- En  el  2016  deberán  construirse  paquetes  educativos  institucionales  dentro  de  planes  tutor, curriculares,  centrados  en  el  desarrollo  humano,  en  el  desarrollo  del  pensamiento,  del emprendimiento, de la economía solidaria, con cohesión de contenidos pertinentes al ámbito laboral, y en concordancia con las comunidades y los contextos.
+4. En el 2016 deberán construirse paquetes educativos institucionales dentro de planes tutor, curriculares, centrados en el desarrollo humano, en el desarrollo del pensamiento, del emprendimiento, de la economía solidaria, con cohesión de contenidos pertinentes al ámbito laboral, y en concordancia con las comunidades y los contextos.
 
-- Tendremos  un  país  que  ha  fortalecido  las  políticas  para  el  desarrollo  social  y  humano sostenible.
+5. Tendremos un país que ha fortalecido las políticas para el desarrollo social y humano sostenible.
 
-- En  el  2016  todos  los  proyectos  educativos  institucionales  tendrán  una  clara  perspectiva ambiental.
+6. En el 2016 todos los proyectos educativos institucionales tendrán una clara perspectiva ambiental.
 
-- La educación implementará procesos pedagógicos innovadores que incentiven el aprendizaje y la permanencia en la escuela.
+7. La educación implementará procesos pedagógicos innovadores que incentiven el aprendizaje y la permanencia en la escuela.
 
-- En el 2016 todas las instituciones educativas habrán incluido en sus PEI estrategias metodologías claras e intencionadas para desarrollar la dimensión estética.
+8. En el 2016 todas las instituciones educativas habrán incluido en sus PEI estrategias metodologías claras e intencionadas para desarrollar la dimensión estética.
 
 ##### 3. Calidad del sistema
 
@@ -611,21 +644,21 @@ Se  tiene  un  sistema  educativo  articulado  y  coherente  en  sus  diferentes
 
 ###### Metas
 
-- En diez años, el Estado colombiano habrá implementado las políticas necesarias para asegurar la articulación del sistema educativo.
+1. En diez años, el Estado colombiano habrá implementado las políticas necesarias para asegurar la articulación del sistema educativo.
 
-- El  Estado  garantizará  que  los  niveles  de  educación  preescolar,  básica  y  media,  estén articulados en los contextos local y regional.
+2. El Estado garantizará que los niveles de educación preescolar, básica y media, estén articulados en los contextos local y regional.
 
-- El  Estado  garantizará  una  educación  para  el  trabajo  y  el  desarrollo  humano,  articulando  la educación media y superior.
+3. El Estado garantizará una educación para el trabajo y el desarrollo humano, articulando la educación media y superior.
 
-- El  Estado  garantizará  la  articulación  de  los  programas  y  procesos  de  la  educación  media  y superior.
+4. El Estado garantizará la articulación de los programas y procesos de la educación media y superior.
 
-- Tendremos un país que ha fortalecido el sistema educativo, como  herramienta fundamental para el desarrollo de la nación.
+5. Tendremos un país que ha fortalecido el sistema educativo, como herramienta fundamental para el desarrollo de la nación.
 
-- En diez años se contará con un sistema de investigación científica y tecnológica articulado en todos  los  niveles  como  eje  transversal  y  orientado  a  la  formación  y  desarrollo  de  la investigación.
+6. En diez años se contará con un sistema de investigación científica y tecnológica articulado en todos los niveles como eje transversal y orientado a la formación y desarrollo de la investigación.
 
-- Los gobiernos locales y territoriales insertan en sus planes de desarrollo los objetivos, metas y acciones del Plan Nacional Nacional Decenal de Educación que le sean pertinentes.
+7. Los gobiernos locales y territoriales insertan en sus planes de desarrollo los objetivos, metas y acciones del Plan Nacional Nacional Decenal de Educación que le sean pertinentes.
 
-- Lograr  que  las  diferentes  instituciones  educativas  del  país  cuenten  con  la  infraestructura adecuada y desarrollen las tecnologías de la información.
+8. Lograr que las diferentes instituciones educativas del país cuenten con la infraestructura adecuada y desarrollen las tecnologías de la información.
 
 www.plandecenal.edu.co
 
@@ -635,19 +668,19 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 20]]
 
-- Todos  los  municipios  deben  disponer  de  una  biblioteca  con  las  condiciones  necesarias  de dotación y calidad conectada a la red local, nacional y mundial.
+9. Todos los municipios deben disponer de una biblioteca con las condiciones necesarias de dotación y calidad conectada a la red local, nacional y mundial.
 
-- Se tendrá una legislación educativa pertinente consolidada y unificada.
+10. Se tendrá una legislación educativa pertinente consolidada y unificada.
 
-- Debe darse una revisión y fortalecimiento del Sistema Nacional de Acreditación de acuerdo con los  resultados  de  la  aplicación  del  sistema  para  la  articulación  del  sistema  educativo colombiano.
+11. Debe darse una revisión y fortalecimiento del Sistema Nacional de Acreditación de acuerdo con los resultados de la aplicación del sistema para la articulación del sistema educativo colombiano.
 
-- En el 2016 se habrá garantizado la puesta en marcha de estrategias que articulen los diferentes niveles  y  tipos  de  educación  mediante  modelos  que  conserven  la  permanencia,  el  arraigo territorial e identidad étnica y cultural.
+12. En el 2016 se habrá garantizado la puesta en marcha de estrategias que articulen los diferentes niveles y tipos de educación mediante modelos que conserven la permanencia, el arraigo territorial e identidad étnica y cultural.
 
-- En el 2016 las instituciones de educación media estarán articuladas, mediante programas de financiación en competencias laborales específicas pertinentes a contextos locales, regionales, nacionales  e  internacionales  con:  instituciones  de  educación  superior,  técnica  profesional  y tecnológica;  con  el  SENA,  el  sector  productivo,  y  con  la  educación  para  el  trabajo  y  el desarrollo humano.
+13. En el 2016 las instituciones de educación media estarán articuladas, mediante programas de financiación en competencias laborales específicas pertinentes a contextos locales, regionales, nacionales e internacionales con: instituciones de educación superior, técnica profesional y tecnológica; con el SENA, el sector productivo, y con la educación para el trabajo y el desarrollo humano.
 
-- En  el  2016,  un  50%  de  las  instituciones  de  educación  superior  realiza  articulación  de  sus programas con los de la educación media, la educación técnica y tecnológica, y la formación para el trabajo y el desarrollo humano.
+14. En el 2016, un 50% de las instituciones de educación superior realiza articulación de sus programas con los de la educación media, la educación técnica y tecnológica, y la formación para el trabajo y el desarrollo humano.
 
-- En  el  2016,  el  100%  de  las  instituciones  educativas  del  país  ofertarán  a  sus  estudiantes formación en competencias básicas, generales, laborales y específicas.
+15. En el 2016, el 100% de las instituciones educativas del país ofertarán a sus estudiantes formación en competencias básicas, generales, laborales y específicas.
 
 ##### 4. Desarrollo humano
 
@@ -655,13 +688,13 @@ Se  tiene  el  desarrollo  humano  como  eje  fundamental  de  los  procesos  ed
 
 ###### Metas
 
-- Las  instituciones  educativas  habrán  incorporado  el  componente de  desarrollo humano, como eje transversal de los procesos institucionales.
+1. Las instituciones educativas habrán incorporado el componente de desarrollo humano, como eje transversal de los procesos institucionales.
 
-- Tendremos un país que ha fortalecido el sistema educativo, como  herramienta fundamental para el desarrollo de la nación.
+2. Tendremos un país que ha fortalecido el sistema educativo, como herramienta fundamental para el desarrollo de la nación.
 
-- Tendremos  un  país  que  ha  fortalecido  las  políticas  para  el  desarrollo  social  y  humano sostenible.
+3. Tendremos un país que ha fortalecido las políticas para el desarrollo social y humano sostenible.
 
-- Las instituciones educativas ofrecerán educación de calidad para que los seres humanos sean competentes y puedan ser incluidos en el mundo laboral, en concordancia con las exigencias de la globalización.
+4. Las instituciones educativas ofrecerán educación de calidad para que los seres humanos sean competentes y puedan ser incluidos en el mundo laboral, en concordancia con las exigencias de la globalización.
 
 ##### 5. Sistema de evaluación y seguimiento
 
@@ -677,17 +710,17 @@ www.plandecenal.edu.co
 
 ###### Metas
 
-- Las instituciones educativas del país tendrán acceso a evaluaciones internas y externas como mecanismo para mejorar la calidad de la educación.
+1. Las instituciones educativas del país tendrán acceso a evaluaciones internas y externas como mecanismo para mejorar la calidad de la educación.
 
-- El  país  contará  con  un  sistema de seguimiento y un sitema de evaluación de calidad para la educación  en  los  niveles preescolar, básico, medio  y  superior, técnico, tecnológico y agropecuario.
+2. El país contará con un sistema de seguimiento y un sitema de evaluación de calidad para la educación en los niveles preescolar, básico, medio y superior, técnico, tecnológico y agropecuario.
 
-- En  el  2016  se  tendrá  un  sistema  de  evaluación  articulado  y  transversal  con  referentes  en parámetros internacionales.
+3. En el 2016 se tendrá un sistema de evaluación articulado y transversal con referentes en parámetros internacionales.
 
-- En  el  2016  habrá  un  incremento  constante  y  progresivo  de  los  resultados  de  las  pruebas nacionales e internacionales.
+4. En el 2016 habrá un incremento constante y progresivo de los resultados de las pruebas nacionales e internacionales.
 
-- En  el  2016  el  país  contará  con  un  sistema  de  evaluación  integral  de  procesos  y  resultados educativos,  elaborados  con  base  en  lineamientos,  indicadores  y  estándares  de  calidad, pertinentes y acreditados en los ámbitos nacional e internacional, y con un marco jurídico y conceptual claramente establecido.
+5. En el 2016 el país contará con un sistema de evaluación integral de procesos y resultados educativos, elaborados con base en lineamientos, indicadores y estándares de calidad, pertinentes y acreditados en los ámbitos nacional e internacional, y con un marco jurídico y conceptual claramente establecido.
 
-- Adopción  de  mecanismos  de  evaluación,  de  tal  manera  que  los  estudiantes,  desde  la  edad inicial,  puedan identificar problemas que afectan la comunidad local y buscar conocimientos científicos para dar soluciones a los problemas de su entorno.
+6. Adopción de mecanismos de evaluación, de tal manera que los estudiantes, desde la edad inicial, puedan identificar problemas que afectan la comunidad local y buscar conocimientos científicos para dar soluciones a los problemas de su entorno.
 
 ##### 6. Perfil del estudiante
 
@@ -695,17 +728,17 @@ Se cuenta con un ciudadano en ejercicio del pleno desarrollo de la personalidad,
 
 ###### Metas
 
-- Fortalecer e implementar el programa de bilingüismo para asegurar el manejo de una segunda lengua en el país.
+1. Fortalecer e implementar el programa de bilingüismo para asegurar el manejo de una segunda lengua en el país.
 
-- El  país tendrá una concepción de calidad de la educación centrada en el niño, el joven y el adulto como sujetos de derechos y en desarrollo de sus dimensiones humanas.
+2. El país tendrá una concepción de calidad de la educación centrada en el niño, el joven y el adulto como sujetos de derechos y en desarrollo de sus dimensiones humanas.
 
-- Las instituciones educativas ofrecerán educación de calidad para que los seres humanos sean competentes y puedan ser incluidos en el mundo laboral, en concordancia con las exigencias de la globalización.
+3. Las instituciones educativas ofrecerán educación de calidad para que los seres humanos sean competentes y puedan ser incluidos en el mundo laboral, en concordancia con las exigencias de la globalización.
 
-- Se  logrará  la  articulación  e  incorporación  de  las  competencias  laborales  en  el  currículo,  en todos los niveles de la educación, y buscará la formación integral del individuo.
+5. Se logrará la articulación e incorporación de las competencias laborales en el currículo, en todos los niveles de la educación, y buscará la formación integral del individuo.
 
-- El sistema educativo desarrolla una cultura de formación en deberes ciudadanos, convivencia y seguridad ciudadana, el respeto a los derechos humanos, reconocimiento y valoración de las diferencias de género, etnia y religión.
+6. El sistema educativo desarrolla una cultura de formación en deberes ciudadanos, convivencia y seguridad ciudadana, el respeto a los derechos humanos, reconocimiento y valoración de las diferencias de género, etnia y religión.
 
-- Tenemos un país  que  ha  fortalecido  los  procesos  de  formación  en  solidaridad,  cooperación, participación y cultura democrática.
+7. Tenemos un país que ha fortalecido los procesos de formación en solidaridad, cooperación, participación y cultura democrática.
 
 www.plandecenal.edu.co
 
@@ -715,43 +748,43 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 22]]
 
+8. Tenemos un país que ha desarrollado una cultura de lo ético, valores cívicos y derechos humanos.
+
+#### ACCIONES
+
 ##### Autonomía en las instituciones educativas
 
-- Ajustar  la  normatividad  vigente  para  eliminar  las  brechas  de  desigualdad  legislativa  y reglamentaria, materia de autonomía de las instituciones de educación.
+1. Ajustar la normatividad vigente para eliminar las brechas de desigualdad legislativa y reglamentaria, materia de autonomía de las instituciones de educación.
 
-- Reconocer  efectivamente  la  autonomía  de  las  instituciones  de  educación  en  sus  áreas administrativa, académica y presupuestal que les posibilite direccionar, planificar, organizar, ejecutar,  controlar  y  evaluar  la  prestación  del  servicio  público  educativo  que  cumple  una función  social  en  armonía  con  su  doble  condición  de  derecho  fundamental,  la  libertad  de enseñanza, de aprendizaje, de investigación y cátedra.
+2. Reconocer efectivamente la autonomía de las instituciones de educación en sus áreas administrativa, académica y presupuestal que les posibilite direccionar, planificar, organizar, ejecutar, controlar y evaluar la prestación del servicio público educativo que cumple una función social en armonía con su doble condición de derecho fundamental, la libertad de enseñanza, de aprendizaje, de investigación y cátedra.
 
 ##### Competencias
 
-- Intensificar  en  todos  los  niveles  del  sistema  educativo  la  enseñanza  del  inglés  o  de  otros idiomas, así mismo, la formación estética y artística.
+1. Intensificar en todos los niveles del sistema educativo la enseñanza del inglés o de otros idiomas, así mismo, la formación estética y artística.
 
-- Revisar las escuelas normales y las facultades de educación con respecto a la formación en la lengua extranjera.
+2. Revisar las escuelas normales y las facultades de educación con respecto a la formación en la lengua extranjera.
 
-- Construir  proyectos  educativos  institucionales  (PEI)  y  planes  curriculares  centrados  en  el desarrollo  de  emprendimiento  cooperativo  y  solidario,  y  la  articulación  de  los  contenidos educativos al ámbito laboral, con base en los contextos de los estudiantes.
+3. Construir proyectos educativos institucionales (PEI) y planes curriculares centrados en el desarrollo de emprendimiento cooperativo y solidario, y la articulación de los contenidos educativos al ámbito laboral, con base en los contextos de los estudiantes.
 
-- Asegurar la actualización, comunicación y divulgación del conocimiento a través de las TIC.
+4. Asegurar la actualización, comunicación y divulgación del conocimiento a través de las TIC.
 
-- Implementar proyectos integradores que permitan desarrollar las capacidades de aprender a aprender, aprender a ser y aprender a hacer desde una perspectiva interdisciplinaria.
+5. Implementar proyectos integradores que permitan desarrollar las capacidades de aprender a aprender, aprender a ser y aprender a hacer desde una perspectiva interdisciplinaria.
 
-- Implementar ambientes de aprendizaje que posibiliten los procesos de bilingüismo, la ciencia, la tecnología, la investigación y el uso de las TIC.
+6. Implementar ambientes de aprendizaje que posibiliten los procesos de bilingüismo, la ciencia, la tecnología, la investigación y el uso de las TIC.
 
 ##### Currículos pertinentes
 
-- Diseñar y aplicar estructuras educativas adecuadas y suficientes a las condiciones y necesidades de los contextos y características de los grupos étnicos.
+1. Diseñar y aplicar estructuras educativas adecuadas y suficientes a las condiciones y necesidades de los contextos y características de los grupos étnicos.
 
-- Matricular y sistematizar los proyectos ecológicos en las secretarías de educación municipales.
+2. Matricular y sistematizar los proyectos ecológicos en las secretarías de educación municipales.
 
-- Ubicar la educación en el contexto nacional, en particular fortalecer la enseñanza en historia nacional y contexto político.
+3. Ubicar la educación en el contexto nacional, en particular fortalecer la enseñanza en historia nacional y contexto político.
 
-- Diseñar un plan de arte que garantice el desarrollo creativo y emocional de los niños, niñas y jóvenes.
+4. Diseñar un plan de arte que garantice el desarrollo creativo y emocional de los niños, niñas y jóvenes.
 
-- Integración del arte como una herramienta para la educación.
+5. Integración del arte como una herramienta para la educación.
 
-- Garantizar la formación política en todos los niveles del sistema educativo.
-
-- Tenemos  un  país  que  ha  desarrollado  una  cultura  de  lo  ético,  valores  cívicos  y  derechos humanos.
-
-#### ACCIONES
+6. Garantizar la formación política en todos los niveles del sistema educativo.
 
 www.plandecenal.edu.co
 
@@ -761,37 +794,37 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 23]]
 
-- Los PEI deberán desarrollar todo tipo de competencias en escenarios interculturales, que nos lleven a humanizar al hombre y a la educación en medio de y a través de la tecnología, las TIC y la sociedad globalizante, y que fomente el arraigo e identidad cultural como nación, como latinoamericanos y como ciudadanos del mundo.
+7. Los PEI deberán desarrollar todo tipo de competencias en escenarios interculturales, que nos lleven a humanizar al hombre y a la educación en medio de y a través de la tecnología, las TIC y la sociedad globalizante, y que fomente el arraigo e identidad cultural como nación, como latinoamericanos y como ciudadanos del mundo.
 
-- Planificar y desarrollar una oferta amplia de alternativas educativas para la formación técnica, humanística,  social,  artística  y  científica,  de  acuerdo  con  las  necesidades  de  los  sujetos educativos y de sus contextos local, regional y nacional.
+8. Planificar y desarrollar una oferta amplia de alternativas educativas para la formación técnica, humanística, social, artística y científica, de acuerdo con las necesidades de los sujetos educativos y de sus contextos local, regional y nacional.
 
-- Incluir en el currículo de todas las áreas del saber el enfoque de derechos y el respeto a todas las diferencias de clase, edad, etnia, género, orientación sexual, discapacidad, origen regional rural, desplazamiento y otras.
+9. Incluir en el currículo de todas las áreas del saber el enfoque de derechos y el respeto a todas las diferencias de clase, edad, etnia, género, orientación sexual, discapacidad, origen regional rural, desplazamiento y otras.
 
-- Rediseñar currículos a partir de la investigación pertinente a los contextos.
+10. Rediseñar currículos a partir de la investigación pertinente a los contextos.
 
-- Incorporar las perspectivas de género, diversidad étnica y sexual en los PEI.
+11. Incorporar las perspectivas de género, diversidad étnica y sexual en los PEI.
 
-- Incluir en los PEI espacios que posibiliten a la comunidad educativa llevar a cabo procesos de investigación pertinentes, para resolver los problemas de su entorno.
+12. Incluir en los PEI espacios que posibiliten a la comunidad educativa llevar a cabo procesos de investigación pertinentes, para resolver los problemas de su entorno.
 
-- Implementar,  a  través  de  los  planes  y  programas  institucionales,  la  formación  en  liderazgo como categoría que dimensione el proyecto de vida de los estudiantes hacia la capacidad de gestión en el mundo productivo.
+13. Implementar, a través de los planes y programas institucionales, la formación en liderazgo como categoría que dimensione el proyecto de vida de los estudiantes hacia la capacidad de gestión en el mundo productivo.
 
-- Reformular manuales de convivencia y establecer procedimientos que posibiliten la conciliación.
+14. Reformular manuales de convivencia y establecer procedimientos que posibiliten la conciliación.
 
-- Establecer,  como  actividades  obligatorias  y  fundamentales  comunes  en  todo  el  proceso escolar,  la  apropiación  de  la  lengua  materna  (oral  y  escrita),  como  base  de  la  cultura,  el ejercicio de la libertad de expresión y el camino esencial para la construcción de conocimiento y la aproximación a otras culturas.
+15. Establecer, como actividades obligatorias y fundamentales comunes en todo el proceso escolar, la apropiación de la lengua materna (oral y escrita), como base de la cultura, el ejercicio de la libertad de expresión y el camino esencial para la construcción de conocimiento y la aproximación a otras culturas.
 
-- Producir  los  lineamientos  curriculares,  pedagógicos  y  didácticos,  que  permita  fomentar procesos para una educación intercultural.
+16. Producir los lineamientos curriculares, pedagógicos y didácticos, que permita fomentar procesos para una educación intercultural.
 
-- Desarrollo  de  ambientes  de  aprendizaje  adecuados  para  las  aplicaciones  del  arte,  las humanidades, las lenguas, la ciencia, la técnica, la tecnología y los deportes.
+17. Desarrollo de ambientes de aprendizaje adecuados para las aplicaciones del arte, las humanidades, las lenguas, la ciencia, la técnica, la tecnología y los deportes.
 
-- Garantizar  el  cumplimiento  dentro  de  los  programas  de  formación  de  las  instituciones educativas del país, de la cátedra etnoeducativa como elemento que fortalece el sentido de identidad colombiana.
+18. Garantizar el cumplimiento dentro de los programas de formación de las instituciones educativas del país, de la cátedra etnoeducativa como elemento que fortalece el sentido de identidad colombiana.
 
-- Elaborar estudios sobre la forma como se utiliza el arte en la educación para poder elaborar mecanismos  que  optimicen  su  uso  en  el  desarrollo  de  la  creatividad  y  en  el  desarrollo emocional.
+19. Elaborar estudios sobre la forma como se utiliza el arte en la educación para poder elaborar mecanismos que optimicen su uso en el desarrollo de la creatividad y en el desarrollo emocional.
 
 ##### Infraestructura y dotación
 
-- Dotación en infraestructura y desarrollo tecnológico para todas las instituciones educativas del país.
+1. Dotación en infraestructura y desarrollo tecnológico para todas las instituciones educativas del país.
 
-- Dotar a todos los municipios de una biblioteca pública con niveles básicos de calidad, así como de un parque o centro de cultura, ciencia y tecnología.
+2. Dotar a todos los municipios de una biblioteca pública con niveles básicos de calidad, así como de un parque o centro de cultura, ciencia y tecnología.
 
 www.plandecenal.edu.co
 
@@ -801,39 +834,39 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 24]]
 
-- Disponer  espacios  y  herramientas  para  actividades  de  comunicación,  cultura,  deporte  y recreación dentro y fuera de las instituciones educativas.
+3. Disponer espacios y herramientas para actividades de comunicación, cultura, deporte y recreación dentro y fuera de las instituciones educativas.
 
-- Inclusión en el plan de desarrollo de cada municipio certificado y de los entes territoriales, con apoyo  del  sector  privado,  del  presupuesto  para  la  construcción  y  dotación  de  laboratorios, aulas  y,  en  general,  un  ambiente  escolar  que  apoye  los  procesos  de  bilingüismo,  ciencia, tecnología y uso de las TIC.
+4. Inclusión en el plan de desarrollo de cada municipio certificado y de los entes territoriales, con apoyo del sector privado, del presupuesto para la construcción y dotación de laboratorios, aulas y, en general, un ambiente escolar que apoye los procesos de bilingüismo, ciencia, tecnología y uso de las TIC.
 
 ##### Investigación
 
-- Involucrar al sector productivo y la comunidad en general en los procesos de investigación.
+1. Involucrar al sector productivo y la comunidad en general en los procesos de investigación.
 
-- Explorar,  a  través  de  la  investigación  educativa,  otros  espacios  donde  se  construyan  las diferentes  formas  que  tienen  los  grupos  humanos  de  concebir  el  mundo,  de  interpretar  la realidad y de producir los conocimientos.
+2. Explorar, a través de la investigación educativa, otros espacios donde se construyan las diferentes formas que tienen los grupos humanos de concebir el mundo, de interpretar la realidad y de producir los conocimientos.
 
 ##### Articulación y flexibilidad del sistema
 
-- Construir mecanismos de movilidad académica de estudiantes, docentes e investigadores en el ámbito nacional e internacional.
+1. Construir mecanismos de movilidad académica de estudiantes, docentes e investigadores en el ámbito nacional e internacional.
 
-- Elaboración de las políticas: en articulación del sistema educativo y en investigación a la luz de la estrategia utilizado para la construcción del Plan Nacional Decenal de Educación 2006-2016.
+2. Elaboración de las políticas: en articulación del sistema educativo y en investigación a la luz de la estrategia utilizado para la construcción del Plan Nacional Decenal de Educación 2006-2016.
 
-- Encuentros deliberatorios municipales, departamentales, regionales y nacionales de docentes, líderes, organizaciones y experiencias etnoeducativas.
+3. Encuentros deliberatorios municipales, departamentales, regionales y nacionales de docentes, líderes, organizaciones y experiencias etnoeducativas.
 
-- Resignificar y articular los PEI a los planes educativos municipales a los planes de desarrollo y a los planes educativos departamentales.
+4. Resignificar y articular los PEI a los planes educativos municipales a los planes de desarrollo y a los planes educativos departamentales.
 
-- Implementar  y  fortalecer  la  educación  media  técnica  en  sus  diferentes  profundizaciones, pertinentes a las necesidades locales y regionales.
+5. Implementar y fortalecer la educación media técnica en sus diferentes profundizaciones, pertinentes a las necesidades locales y regionales.
 
-- Establecer convenios entre universidades, instituciones de educación superior e instituciones de educación media.
+6. Establecer convenios entre universidades, instituciones de educación superior e instituciones de educación media.
 
-- Establecimiento de compromisos por parte del sector productivo, para que se articule con las necesidades de los contextos locales de los estudiantes.
+7. Establecimiento de compromisos por parte del sector productivo, para que se articule con las necesidades de los contextos locales de los estudiantes.
 
-- Establecer alianzas internacionales e interinstitucionales para reconocer y apropiar diferentes pruebas evaluativas para el mejoramiento de las competencias.
+8. Establecer alianzas internacionales e interinstitucionales para reconocer y apropiar diferentes pruebas evaluativas para el mejoramiento de las competencias.
 
 ##### Proyecto de nación
 
-- Formar en los niños, niñas y jóvenes el sentimiento de amor patrio, el respeto por los símbolos nacionales y las instituciones, el conocimiento de la historia y la geografía nacional, y rescatar comportamientos cívicos y de sana convivencia pacífica y ciudadana.
+1. Formar en los niños, niñas y jóvenes el sentimiento de amor patrio, el respeto por los símbolos nacionales y las instituciones, el conocimiento de la historia y la geografía nacional, y rescatar comportamientos cívicos y de sana convivencia pacífica y ciudadana.
 
-- Lograr una educación que contribuya a la construcción de un país productivamente competitivo, pero más equitativo en términos de la redistribución de las riquezas, democrático e inclusivo, con justicia, solidaridad social, amor y convivencia; una cultura de respeto hacia el otro y cooperación hacia los demás, con miras a la construcción de un proyecto de sociedad y de un sujeto más integral, conocedor de sus derechos y políticamente más activo.
+2. Lograr una educación que contribuya a la construcción de un país productivamente competitivo, pero más equitativo en términos de la redistribución de las riquezas, democrático e inclusivo, con justicia, solidaridad social, amor y convivencia; una cultura de respeto hacia el otro y cooperación hacia los demás, con miras a la construcción de un proyecto de sociedad y de un sujeto más integral, conocedor de sus derechos y políticamente más activo.
 
 www.plandecenal.edu.co
 
@@ -845,37 +878,37 @@ www.plandecenal.edu.co
 
 ##### Seguimiento y evaluación
 
-- Fomento de la evaluación como sistema integrador desde el aula hasta las organizaciones.
+1. Fomento de la evaluación como sistema integrador desde el aula hasta las organizaciones.
 
-- Revisión, análisis y modificación pertinente al Decreto 230.
+2. Revisión, análisis y modificación pertinente al Decreto 230.
 
-- Definir los parámetros e indicadores que conformarán el sistema de seguimiento permanente y evaluación de los resultados relativos a la inclusión, movilidad y calidad de la educación.
+3. Definir los parámetros e indicadores que conformarán el sistema de seguimiento permanente y evaluación de los resultados relativos a la inclusión, movilidad y calidad de la educación.
 
-- Diseñar planes de mejoramiento a partir de los resultados de la evaluación.
+4. Diseñar planes de mejoramiento a partir de los resultados de la evaluación.
 
-- Llevar  a  cabo  el  seguimiento  a  los  procesos  y  evaluación  de  los  resultados  relativos  a  la inclusión, movilidad y calidad de la educación, garantizando su comparabilidad.
+5. Llevar a cabo el seguimiento a los procesos y evaluación de los resultados relativos a la inclusión, movilidad y calidad de la educación, garantizando su comparabilidad.
 
-- Generar  espacios  de  participación  para  llegar  a  acuerdos  que  posibiliten  la  construcción  de parámetros indicativos para la elaboración del sistema de seguimiento y evaluación.
+6. Generar espacios de participación para llegar a acuerdos que posibiliten la construcción de parámetros indicativos para la elaboración del sistema de seguimiento y evaluación.
 
-- Constitución,  por  parte  del  MEN,  de  un  comité  que  defina  los  indicadores  y  estándares  de calidad pertinentes y acreditados, nacional e internacionalmente.
+7. Constitución, por parte del MEN, de un comité que defina los indicadores y estándares de calidad pertinentes y acreditados, nacional e internacionalmente.
 
 ##### Perfil del docente
 
-- Capacitar a los docentes en la innovación pedagógica.
+1. Capacitar a los docentes en la innovación pedagógica.
 
-- Plan de formación, actualización y capacitación docente para desarrollar las capacidades de aprender  a  aprender,  aprender  a  ser  y  aprender  a  hacer,  en  las  dimensiones  científicas, técnicas, tecnológicas, humanísticas, artísticas y ambientales.
+2. Plan de formación, actualización y capacitación docente para desarrollar las capacidades de aprender a aprender, aprender a ser y aprender a hacer, en las dimensiones científicas, técnicas, tecnológicas, humanísticas, artísticas y ambientales.
 
-- Realizar encuentros regionales, nacionales e internacionales para intercambiar conocimiento, saberes y experiencias que coayuden en el desarrollo de la práctica pedagógica.
+3. Realizar encuentros regionales, nacionales e internacionales para intercambiar conocimiento, saberes y experiencias que coayuden en el desarrollo de la práctica pedagógica.
 
-- Creación de redes académicas e investigativas entre instituciones que comparten temas afines.
+4. Creación de redes académicas e investigativas entre instituciones que comparten temas afines.
 
-- Implementar  programas  de  formación  continua  para  docentes  en  estrategias  pedagógicas  y metodológicas, coherentes con el enfoque y los propósitos institucionales y territoriales.
+5. Implementar programas de formación continua para docentes en estrategias pedagógicas y metodológicas, coherentes con el enfoque y los propósitos institucionales y territoriales.
 
-- Formación, capacitación y sensibilización permanente de la comunidad educativa en metodologías flexibles y activas para la inclusión con calidad.
+6. Formación, capacitación y sensibilización permanente de la comunidad educativa en metodologías flexibles y activas para la inclusión con calidad.
 
-- Formar maestros en una segunda lengua que no necesariamente sea  el inglés, que se le dé fuerza a nivel local y municipal.
+7. Formar maestros en una segunda lengua que no necesariamente sea el inglés, que se le dé fuerza a nivel local y municipal.
 
-- Capacitar a los docentes en la utilización del arte como herramienta de enriquecimiento de su labor pedagógica en todas las áreas.
+8. Capacitar a los docentes en la utilización del arte como herramienta de enriquecimiento de su labor pedagógica en todas las áreas.
 
 www.plandecenal.edu.co
 
@@ -903,21 +936,21 @@ Diseñar y aplicar políticas públicas articuladas intra e intersectorialmente 
 
 ###### Objetivos
 
-- Garantizar  la  construcción  de  cultura  de  paz,  basada  en  una  educación  que  trabaje  en conocimientos, actitudes, habilidades,  emociones y  competencias, que desarrollen,  en todos los  actores  educativos,  la  autonomía  moral  y  ética,  a  partir  de  la  reflexión  sobre  la  acción, haciendo realidad la equidad, la legalidad, la inclusión social, el respeto y la valoración de la diversidad étnica, económica, cultural, religiosa, política, sexual y de género.
+1. Garantizar la construcción de cultura de paz, basada en una educación que trabaje en conocimientos, actitudes, habilidades, emociones y competencias, que desarrollen, en todos los actores educativos, la autonomía moral y ética, a partir de la reflexión sobre la acción, haciendo realidad la equidad, la legalidad, la inclusión social, el respeto y la valoración de la diversidad étnica, económica, cultural, religiosa, política, sexual y de género.
 
-- Fomentar la inclusión y el reconocimiento de la diferencia mediante la tolerancia, el respeto, el  civismo, la comprensión, el pluralismo y la cultura ciudadana, desde la práctica reflexiva con estudiantes y comunidad educativa.
+2. Fomentar la inclusión y el reconocimiento de la diferencia mediante la tolerancia, el respeto, el civismo, la comprensión, el pluralismo y la cultura ciudadana, desde la práctica reflexiva con estudiantes y comunidad educativa.
 
-- Desarrollar  una  educación  humanizante  y  de  calidad  que  garantice  la  inclusión  social,  el reconocimiento,  el  respeto  y  la  valoración  de  la  diversidad  étnica,  cultural,  ideológica, religiosa,  política y económica.
+3. Desarrollar una educación humanizante y de calidad que garantice la inclusión social, el reconocimiento, el respeto y la valoración de la diversidad étnica, cultural, ideológica, religiosa, política y económica.
 
-###### Disenso :
+###### Disenso:
 la espiritualidad no se contempla en el Plan. No se involucra activamente el concepto de Dios quien conduce a la paz espiritual e interior. Se plantea un miedo para introducir la Biblia como texto guía en la educación.
 
-- Desarrollar un sistema educativo con una política de ciudadanía y convivencia que garantice la inclusión social, el respeto, la aceptación y la valoración de la diversidad étnica, económica, cultural, política, sexual y religiosa.
+4. Desarrollar un sistema educativo con una política de ciudadanía y convivencia que garantice la inclusión social, el respeto, la aceptación y la valoración de la diversidad étnica, económica, cultural, política, sexual y religiosa.
 
-###### Disenso :
-se discutió sobre la pertinencia de dejar la categoría -diversidad económica‖, en la redacción del objetivo, en tanto podría sugerirse que se está afirmando como objetivo del eje temático -Garantizar (…) la diversidad (…) económica‖. Por otro lado, no es claro el sentido que se le otorga a  dicha  categoría, es  decir,  si  ésta  hace  referencia  a  la  desigualdad  social (injusticia) o a la diferencia económica entre los seres humanos. Algunos sugirieron acoger el segundo sentido y hablar de -diferencia socio-económica‖.
+###### Disenso:
+se discutió sobre la pertinencia de dejar la categoría “diversidad económica”, en la redacción del objetivo, en tanto podría sugerirse que se está afirmando como objetivo del eje temático “Garantizar (…) la diversidad (…) económica”. Por otro lado, no es claro el sentido que se le otorga a dicha categoría, es decir, si ésta hace referencia a la desigualdad social (injusticia) o a la diferencia económica entre los seres humanos. Algunos sugirieron acoger el segundo sentido y hablar de “diferencia socio-económica”.
 
-- Fomentar una educación que garantice el desarrollo humano integral a través de la inclusión social,  el  respeto  y  valoración  a  la  diversidad  étnica,  económica,  cultural,  política,  sexual, bioambiental y religiosa, desde lo cognitivo, axiológico, procedimental y convivencial.
+5. Fomentar una educación que garantice el desarrollo humano integral a través de la inclusión social, el respeto y valoración a la diversidad étnica, económica, cultural, política, sexual, bioambiental y religiosa, desde lo cognitivo, axiológico, procedimental y convivencial.
 
 www.plandecenal.edu.co
 
@@ -927,35 +960,35 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 27]]
 
-- Garantizar  desde  la  educación  el  reconocimiento  de  la  diversidad  cultural  y  étnica  y  el reconocimiento de las diferencias como alternativa para convivencia pacífica.
+6. Garantizar desde la educación el reconocimiento de la diversidad cultural y étnica y el reconocimiento de las diferencias como alternativa para convivencia pacífica.
 
-- Propender  para  que  la  política  pública  en  todos  los  entes  oficiales,  privados  y  ONG,  estén orientados al fortalecimiento de las competencias básicas de convivencia, que evidencien la transformación  y  el  aporte  de  los  actores  del  proceso,  dentro  de  principios  de  equidad  y transparencia.
+7. Propender para que la política pública en todos los entes oficiales, privados y ONG, estén orientados al fortalecimiento de las competencias básicas de convivencia, que evidencien la transformación y el aporte de los actores del proceso, dentro de principios de equidad y transparencia.
 
-- Garantizar con un enfoque de derechos culturales el fortalecimiento de identidades de género diversas que resignifiquen la memoria histórica del país y la ciudadanía.
+8. Garantizar con un enfoque de derechos culturales el fortalecimiento de identidades de género diversas que resignifiquen la memoria histórica del país y la ciudadanía.
 
-- Generar  en  el  sistema  educativo  y  en  la  escuela  reflexiones  y  acciones  que  promuevan  el reconocimiento de las personas con orientaciones sexuales e identidades de género diversas.
+9. Generar en el sistema educativo y en la escuela reflexiones y acciones que promuevan el reconocimiento de las personas con orientaciones sexuales e identidades de género diversas.
 
-- Generar  en  el  sistema  educativo  y  en  la  escuela  reflexiones  y  acciones  que  promuevan  la equidad de género, con el fin de prevenir y erradicar las desigualdades y violencias de género y promover una cultura de paz y no-violencia.
+10. Generar en el sistema educativo y en la escuela reflexiones y acciones que promuevan la equidad de género, con el fin de prevenir y erradicar las desigualdades y violencias de género y promover una cultura de paz y no-violencia.
 
-- Generar  en  el  sistema  educativo  y  en  la  escuela  reflexiones  y  acciones  que  promuevan  la inclusión de la educación para la sexualidad con un enfoque de derechos constitucionales que incluya  los  derechos  sexuales  y  reproductivos,  que  garanticen  la  formación  integral  del  ser humano.
+11. Generar en el sistema educativo y en la escuela reflexiones y acciones que promuevan la inclusión de la educación para la sexualidad con un enfoque de derechos constitucionales que incluya los derechos sexuales y reproductivos, que garanticen la formación integral del ser humano.
 
-- Generar  en  el  sistema  educativo  y  en  la  escuela,  reflexiones  y  acciones  que  promuevan  la preparación  de  las  personas,  de  acuerdo  con  su  ciclo  vital,  para  un  ejercicio  autónomo, saludable, responsable y placentero de la sexualidad.
+12. Generar en el sistema educativo y en la escuela, reflexiones y acciones que promuevan la preparación de las personas, de acuerdo con su ciclo vital, para un ejercicio autónomo, saludable, responsable y placentero de la sexualidad.
 
-- Contribuir  a  la  formación  de  personas  y  comunidades  afrocolombianas  autónomas,  con capacidad  de  construir  y  desarrollar  un  proyecto  de  vida,  conforme  a  su  realidad  en  el contexto de la interculturalidad.
+13. Contribuir a la formación de personas y comunidades afrocolombianas autónomas, con capacidad de construir y desarrollar un proyecto de vida, conforme a su realidad en el contexto de la interculturalidad.
 
-- Aportar  a  la  construcción  de  la  identidad  nacional,  basada  en  la  valoración  y  respeto  de  la diversidad étnica y cultural del país.
+14. Aportar a la construcción de la identidad nacional, basada en la valoración y respeto de la diversidad étnica y cultural del país.
 
 ##### 2. Otros agentes educativos y relaciones con el entorno
 
-Comprometer al Estado, la sociedad civil, los medios de comunicación, el sector productivo, las ONG, las  comunidades  educativas  y  las  familias,  en  la  corresponsabilidad  intra  e  intersectorial, hacia una educación en y para la paz, la convivencia y la ciudadanía democrática.
+Comprometer al Estado, la sociedad civil, los medios de comunicación, el sector productivo, las ONG, las comunidades educativas y las familias, en la corresponsabilidad intra e intersectorial, hacia una educación en y para la paz, la convivencia y la ciudadanía democrática.
 
 ###### Objetivos
 
-- Integrar y comprometer con responsabilidad social, los medios de comunicación a los procesos formativos,  respetando  los  procesos  educativos  en  el  conocimiento  y  en  la  práctica  de  los DDHH - DIH, prevención, manejo y solución de conflictos, valores y con la consolidación de una cultura ciudadana, la convivencia, la no-violencia y la vivencia de valores.
+1. Integrar y comprometer con responsabilidad social, los medios de comunicación a los procesos formativos, respetando los procesos educativos en el conocimiento y en la práctica de los DDHH - DIH, prevención, manejo y solución de conflictos, valores y con la consolidación de una cultura ciudadana, la convivencia, la no-violencia y la vivencia de valores.
 
-- Aprovechar el potencial de los medios de comunicación en los procesos de aprendizaje, para fortalecer  la cultura de la paz, la  no-violencia y la  capacidad crítica de  los estudiantes y  la comunidad,  la  práctica  de  los  DDHH-DIH,  la  prevención,  manejo  y  solución  de  conflictos,  la consolidación de una cultura ciudadana, la convivencia y la vivencia de valores.
+2. Aprovechar el potencial de los medios de comunicación en los procesos de aprendizaje, para fortalecer la cultura de la paz, la no-violencia y la capacidad crítica de los estudiantes y la comunidad, la práctica de los DDHH-DIH, la prevención, manejo y solución de conflictos, la consolidación de una cultura ciudadana, la convivencia y la vivencia de valores.
 
-- Aprovechar  el  potencial  de  los  medios  de  comunicación  para  desarrollar  y    fortalecer  la capacidad crítica de los estudiantes, promover la formación en valores, el respeto por el otro y
+3. Aprovechar el potencial de los medios de comunicación para desarrollar y fortalecer la capacidad crítica de los estudiantes, promover la formación en valores, el respeto por el otro y
 
 www.plandecenal.edu.co
 
@@ -967,33 +1000,33 @@ www.plandecenal.edu.co
 
 desarrollar  una  cultura  democrática  en  las  que  participen  las  instituciones  de  educación,  la familia y su entorno.
 
-- Comprometer a padres y madres de familia, docentes, niños, niñas y jóvenes en acciones que les  permitan,  a  partir  de  casos  concretos,  manejar  conflictos  y  proponer  alternativas  de solución a los problemas cotidianos de la escuela y la familia.
+4. Comprometer a padres y madres de familia, docentes, niños, niñas y jóvenes en acciones que les permitan, a partir de casos concretos, manejar conflictos y proponer alternativas de solución a los problemas cotidianos de la escuela y la familia.
 
-- Educar a la familia, para  que asuma con responsabilidad su compromiso en la formación de valores,  derechos humanos, convivencia pacifica y resolución  de conflictos, tarea en la  cual deben coadyuvar el Estado, la empresa y la sociedad civil, con un compromiso particular de los medios de comunicación.
+5. Educar a la familia, para que asuma con responsabilidad su compromiso en la formación de valores, derechos humanos, convivencia pacífica y resolución de conflictos, tarea en la cual deben coadyuvar el Estado, la empresa y la sociedad civil, con un compromiso particular de los medios de comunicación.
 
-- Fortalecer  a  la  familia  como  espacio  privilegiado  para  la  formación  en  valores  y  derechos humanos, tarea en la cual deben coadyuvar el Estado, la empresa y la sociedad civil, con un compromiso particular de los medios de comunicación.
+6. Fortalecer a la familia como espacio privilegiado para la formación en valores y derechos humanos, tarea en la cual deben coadyuvar el Estado, la empresa y la sociedad civil, con un compromiso particular de los medios de comunicación.
 
-- Fortalecer la construcción de entornos protectores que garanticen y restituyan los derechos de niños,  niñas,  adolescentes  y  jóvenes  para  prevenir  toda  forma  de  violencia,  maltrato, explotación económica, abuso y explotación sexual, incluido su reclutamiento o vinculación a grupos armados ilegales.
+7. Fortalecer la construcción de entornos protectores que garanticen y restituyan los derechos de niños, niñas, adolescentes y jóvenes para prevenir toda forma de violencia, maltrato, explotación económica, abuso y explotación sexual, incluido su reclutamiento o vinculación a grupos armados ilegales.
 
-- Garantizar la corresponsabilidad intra e intersectorial para el fortalecimiento de una educación para la convivencia pacífica y democrática.
+8. Garantizar la corresponsabilidad intra e intersectorial para el fortalecimiento de una educación para la convivencia pacífica y democrática.
 
 ##### 3. Educación en valores, participación y convivencia democrática
 
-Aplicar políticas públicas intra e intersectoriales que promuevan en toda la sociedad la formación e interiorización  de  valores  humanos  pertinentes  a  las  necesidades  del  siglo  XXI,  y  garanticen  la participación democrática y la convivencia.
+Aplicar políticas públicas intra e intersectoriales que promuevan en toda la sociedad la formación e interiorización de valores humanos pertinentes a las necesidades del siglo XXI, y garanticen la participación democrática y la convivencia.
 
 ###### Objetivos
 
-- Fortalecer  los  valores  ciudadanos,  los  principios  éticos  y  de  la  democracia  participativa  y representativa, desde el accionar de cada uno de los componentes del Estado en niños, niñas, jóvenes y adultos para que a la vez éstos los fomenten en sus distintos entornos.
+1. Fortalecer los valores ciudadanos, los principios éticos y de la democracia participativa y representativa, desde el accionar de cada uno de los componentes del Estado en niños, niñas, jóvenes y adultos para que a la vez éstos los fomenten en sus distintos entornos.
 
-- Fortalecer  los  valores  ciudadanos  en  niños,  niñas  y  jóvenes,  para  que  a  su  vez  éstos  los fomenten en sus familias y demás espacios de interacción social.
+2. Fortalecer los valores ciudadanos en niños, niñas y jóvenes, para que a su vez éstos los fomenten en sus familias y demás espacios de interacción social.
 
-- Promover en toda la sociedad la formación e interiorización de valores humanos, psicoafectivos, contextuados y pertinentes con las necesidades del siglo XXI.
+3. Promover en toda la sociedad la formación e interiorización de valores humanos, psicoafectivos, contextuados y pertinentes con las necesidades del siglo XXI.
 
-- Construir en las instituciones de educación una cultura de autonomía que propicie procesos de empoderamiento comunitarios.
+4. Construir en las instituciones de educación una cultura de autonomía que propicie procesos de empoderamiento comunitarios.
 
-- Promover, desde las instituciones de educación, ambientes de confianza basados en relaciones de afecto, amor fraternal, de pareja y de familia.
+5. Promover, desde las instituciones de educación, ambientes de confianza basados en relaciones de afecto, amor fraternal, de pareja y de familia.
 
-- Educar  para  una  participación  democrática,  crítica,  constructiva  y  solidaria  acorde  con  los derechos humanos, civiles, sociales, económicos, culturales, ambientales, el derecho internacional humanitario y la práctica de los valores, manejo y resolución de conflictos, noviolencia y ejercicio de la ciudadanía.
+6. Educar para una participación democrática, crítica, constructiva y solidaria acorde con los derechos humanos, civiles, sociales, económicos, culturales, ambientales, el derecho internacional humanitario y la práctica de los valores, manejo y resolución de conflictos, no-violencia y ejercicio de la ciudadanía.
 
 www.plandecenal.edu.co
 
@@ -1003,33 +1036,33 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 29]]
 
-- Promover  la  educación  en  el  manejo  y  solución  pacífica  de  conflictos,  la  ciudadanía,  la participación, la democracia, la no-violencia y el análisis de los diferentes contextos.
+7. Promover la educación en el manejo y solución pacífica de conflictos, la ciudadanía, la participación, la democracia, la no-violencia y el análisis de los diferentes contextos.
 
-- Educar  para  la  participación  responsable  y  crítica,  constructiva  y  solidaria,  acorde  con  los derechos  humanos  y  el  derecho  internacional  humanitario,  apropiada  para  los  diferentes actores según su contexto.
+8. Educar para la participación responsable y crítica, constructiva y solidaria, acorde con los derechos humanos y el derecho internacional humanitario, apropiada para los diferentes actores según su contexto.
 
-- Ofrecer medios y estrategias pedagógicas que le permitan al ciudadano colombiano, identificar su rol y responsabilidad dentro de la comunidad como gestor de paz, promotor y defensor de los derechos humanos,  y del derecho internacional humanitario, de los valores y la convivencia.
+9. Ofrecer medios y estrategias pedagógicas que le permitan al ciudadano colombiano, identificar su rol y responsabilidad dentro de la comunidad como gestor de paz, promotor y defensor de los derechos humanos, y del derecho internacional humanitario, de los valores y la convivencia.
 
-- Convertir las vivencias cotidianas y la realidad social en espacios y ambientes mediados por la reflexión y el análisis crítico para la práctica permanente de valores y convivencia pacífica.
+10. Convertir las vivencias cotidianas y la realidad social en espacios y ambientes mediados por la reflexión y el análisis crítico para la práctica permanente de valores y convivencia pacífica.
 
-- Facilitar los medios y escenarios para que niños, niñas y jóvenes desarrollen sus capacidades y talentos artísticos, deportivos y demás.
+11. Facilitar los medios y escenarios para que niños, niñas y jóvenes desarrollen sus capacidades y talentos artísticos, deportivos y demás.
 
-- Incluir la dimensión cultural desde una perspectiva étnica en los lineamientos curriculares de las áreas obligatorias y fundamentales, de acuerdo con la legislación educativa.
+12. Incluir la dimensión cultural desde una perspectiva étnica en los lineamientos curriculares de las áreas obligatorias y fundamentales, de acuerdo con la legislación educativa.
 
 ##### 4. Estructura y organización escolar
 
-Articular las instancias involucradas en los programas de organización escolar, de manera que los proyectos  educativos  institucionales  consoliden    culturas  en  y  para  la  paz,  la  convivencia  y  la ciudadanía, con énfasis en la igualdad de oportunidades, la tolerancia, el respeto, la participación y la solidaridad.
+Articular las instancias involucradas en los programas de organización escolar, de manera que los proyectos educativos institucionales consoliden culturas en y para la paz, la convivencia y la ciudadanía, con énfasis en la igualdad de oportunidades, la tolerancia, el respeto, la participación y la solidaridad.
 
 ###### Objetivos:
 
-- Resignificar los proyectos educativos institucionales, articulados por  principios democráticos de calidad, que garanticen el respeto y la valoración por el ambiente, los derechos humanos y el  derecho  internacional  humanitario,  la  práctica  permanente  de  valores,  la  convivencia pacífica, la prevención, manejo y resolución concertada de conflictos para formar ciudadanos tolerantes, defensores del patrimonio cultural, cumplidores de sus deberes y exigentes de sus derechos.
+1. Resignificar los proyectos educativos institucionales, articulados por principios democráticos de calidad, que garanticen el respeto y la valoración por el ambiente, los derechos humanos y el derecho internacional humanitario, la práctica permanente de valores, la convivencia pacífica, la prevención, manejo y resolución concertada de conflictos para formar ciudadanos tolerantes, defensores del patrimonio cultural, cumplidores de sus deberes y exigentes de sus derechos.
 
-- Garantizar  que  los  proyectos  educativos  institucionales  estén  orientados  por  la  práctica permanente de valores,  los  principios  ciudadanos,  la  convivencia  pacífica,  el  respeto  por  la pluralidad,  el  manejo  y  la  resolución  de  los  conflictos,  la  cultura  de  la  legalidad  y  la  noviolencia.
+2. Garantizar que los proyectos educativos institucionales estén orientados por la práctica permanente de valores, los principios ciudadanos, la convivencia pacífica, el respeto por la pluralidad, el manejo y la resolución de los conflictos, la cultura de la legalidad y la no-violencia.
 
-- Garantizar  que  los  PEI  articulen  en  sus  currículos  y  planes  de  estudio,  prácticas  y  procesos pedagógicos tendientes a fortalecer la participación crítica, constructiva y solidaria acorde con los derechos humanos, la convivencia, el derecho internacional humanitario y el manejo y la resolución de conflictos.
+3. Garantizar que los PEI articulen en sus currículos y planes de estudio, prácticas y procesos pedagógicos tendientes a fortalecer la participación crítica, constructiva y solidaria acorde con los derechos humanos, la convivencia, el derecho internacional humanitario y el manejo y la resolución de conflictos.
 
-- Dinamizar  un  currículo  globalizado  que  profundice  en  la  formación  académica  y  axiológica, para el desarrollo de la personalidad moral de los niños, niñas y jóvenes, con una perspectiva ética,  que  contrarreste  las  creencias  que  validan  las  acciones  colectivas  contrarias  a  los principios y valores morales.
+4. Dinamizar un currículo globalizado que profundice en la formación académica y axiológica, para el desarrollo de la personalidad moral de los niños, niñas y jóvenes, con una perspectiva ética, que contrarreste las creencias que validan las acciones colectivas contrarias a los principios y valores morales.
 
-- Implementar  competencias  afectivas  desde  el  currículo  de  manera  que  posibilite  a  padres, madres,  estudiantes, profesores  y  comunidad  en  general,  construir  ambientes  sanos  y
+5. Implementar competencias afectivas desde el currículo de manera que posibilite a padres, madres, estudiantes, profesores y comunidad en general, construir ambientes sanos y
 
 www.plandecenal.edu.co
 
@@ -1041,25 +1074,25 @@ www.plandecenal.edu.co
 
 armoniosos a través del desarrollo de competencias ciudadanas y el uso adecuado del tiempo libre.
 
-- Adecuar el currículo en todos los niveles de educación, los planes de estudio y las prácticas pedagógicas  en  una  perspectiva  democrática,  teniendo  como  base  el  desarrollo  humano integral  sostenible  y  la  educación  en  valores  para  una  cultura  del  ejercicio,  promoción  y defensa de los derechos humanos, la ciudadanía y la convivencia.
+6. Adecuar el currículo en todos los niveles de educación, los planes de estudio y las prácticas pedagógicas en una perspectiva democrática, teniendo como base el desarrollo humano integral sostenible y la educación en valores para una cultura del ejercicio, promoción y defensa de los derechos humanos, la ciudadanía y la convivencia.
 
-- Revisar  y  ajustar  las  propuestas  de  educación  para  la  convivencia  de  las  instituciones  de educación con la participación de todos los estamentos de la comunidad educativa respetando la  pluralidad  de  los  actores  que  hacen  parte  del  proceso,  siempre  en  el  marco  de  la Constitución y de la ley.
+7. Revisar y ajustar las propuestas de educación para la convivencia de las instituciones de educación con la participación de todos los estamentos de la comunidad educativa respetando la pluralidad de los actores que hacen parte del proceso, siempre en el marco de la Constitución y de la ley.
 
-- Involucrar a la comunidad educativa en acciones que le permitan, a partir de casos concretos, manejar conflictos y proponer alternativas a los problemas cotidianos de las instituciones de educación, la familia y la sociedad en general.
+8. Involucrar a la comunidad educativa en acciones que le permitan, a partir de casos concretos, manejar conflictos y proponer alternativas a los problemas cotidianos de las instituciones de educación, la familia y la sociedad en general.
 
-- Contribuir  desde  todos  los  niveles  de  educación,  al  reconocimiento  y  reflexión  de  los problemas sociales y de la realidad local, regional nacional e internacional.
+9. Contribuir desde todos los niveles de educación, al reconocimiento y reflexión de los problemas sociales y de la realidad local, regional nacional e internacional.
 
-- Educar en los principios de la Constitución Política de Colombia, sobre todo en lo referente a la solidaridad y la mutualidad.
+10. Educar en los principios de la Constitución Política de Colombia, sobre todo en lo referente a la solidaridad y la mutualidad.
 
-- Promover  desde  las  diferentes  instancias  sociales  y  desde  cada  uno  de  los  componentes  y agentes del Estado, nuevas experiencias de aprendizaje que fomenten la práctica de valores universales,  étnicos,  culturales  y  corporativos,  a  través  del  ejercicio  diario  de  la  ciudadanía mediante la práctica de derechos asociados al cumplimiento de deberes.
+11. Promover desde las diferentes instancias sociales y desde cada uno de los componentes y agentes del Estado, nuevas experiencias de aprendizaje que fomenten la práctica de valores universales, étnicos, culturales y corporativos, a través del ejercicio diario de la ciudadanía mediante la práctica de derechos asociados al cumplimiento de deberes.
 
-##### 5.  Derechos,  protección,  promoción  y  población  vulnerable  con  necesidades  educativas especiales
+##### 5. Derechos, protección, promoción y población vulnerable con necesidades educativas especiales
 
-Aplicar  políticas  intra  e  intersectoriales  para  el  respeto  y  la  restitución  del  derecho  a  una educación  con  calidad  de  todos  los  grupos  poblacionales  vulnerables,  mediante  la  adopción  de programas flexibles con enfoques diferenciales de derechos.
+Aplicar políticas intra e intersectoriales para el respeto y la restitución del derecho a una educación con calidad de todos los grupos poblacionales vulnerables, mediante la adopción de programas flexibles con enfoques diferenciales de derechos.
 
 ###### Objetivo
 
-- Brindar atención especializada a través de programas individuales y grupales a niños, niñas, jóvenes y adultos que han vivido violencias, otras poblaciones vulnerables, con necesidades educativas especiales y con limitaciones en su salud física  y mental.
+1. Brindar atención especializada a través de programas individuales y grupales a niños, niñas, jóvenes y adultos que han vivido violencias, otras poblaciones vulnerables, con necesidades educativas especiales y con limitaciones en su salud física y mental.
 
 #### MACRO METAS Y METAS
 
@@ -1077,27 +1110,27 @@ www.plandecenal.edu.co
 
 ###### Metas
 
-- Los tipos de educación formal, no formal (educación para el trabajo y el desarrollo humano) e informal educan para el ejercicio de los derechos humanos y la ciudadanía.
+1. Los tipos de educación formal, no formal (educación para el trabajo y el desarrollo humano) e informal educan para el ejercicio de los derechos humanos y la ciudadanía.
 
-- Todas las instituciones de educación desarrollan prácticas pedagógicas para el reconocimiento de  las  diferencias,  la  sexualidad,  equidad  de  género,  el  afecto,  la  ternura,  el  amor,  la convivencia y la ciudadanía.
+2. Todas las instituciones de educación desarrollan prácticas pedagógicas para el reconocimiento de las diferencias, la sexualidad, equidad de género, el afecto, la ternura, el amor, la convivencia y la ciudadanía.
 
-- Se  verifica  el  aumento  progresivo  en  el  número  de  instituciones  de  educación,  entes territoriales  y  organizaciones  de  la  sociedad  civil  que  establecen  tiempos  y  espacios  de reflexión crítica sobre patrones y comportamientos asociados a las feminidades y masculinidades, y favorecen la equidad de género.
+3. Se verifica el aumento progresivo en el número de instituciones de educación, entes territoriales y organizaciones de la sociedad civil que establecen tiempos y espacios de reflexión crítica sobre patrones y comportamientos asociados a las feminidades y masculinidades, y favorecen la equidad de género.
 
-- Se  verifica  el  aumento  progresivo  en  el  número  de  instituciones  de  educación,  entes territoriales  y  organizaciones  de  la  sociedad  civil  que  diseñan  e  implementan  proyectos institucionales y pedagógicos, orientados a prevenir y erradicar desigualdades y violencias de género.
+4. Se verifica el aumento progresivo en el número de instituciones de educación, entes territoriales y organizaciones de la sociedad civil que diseñan e implementan proyectos institucionales y pedagógicos, orientados a prevenir y erradicar desigualdades y violencias de género.
 
-- Se verifica el aumento progresivo en el número de instituciones educativas, entes territoriales y  organizaciones  de  la  sociedad  civil  que  diseñan  e  implementan  proyectos  pedagógicos  de educación para la sexualidad con un enfoque de derechos.
+5. Se verifica el aumento progresivo en el número de instituciones educativas, entes territoriales y organizaciones de la sociedad civil que diseñan e implementan proyectos pedagógicos de educación para la sexualidad con un enfoque de derechos.
 
-- Se verifica el aumento progresivo en el número de instituciones educativas, entes territoriales y organizaciones de la sociedad civil que desarrollan programas de formación docente inicial y permanente en educación para la sexualidad, con un enfoque de derechos, e inscritos en sus programas de gobierno.
+6. Se verifica el aumento progresivo en el número de instituciones educativas, entes territoriales y organizaciones de la sociedad civil que desarrollan programas de formación docente inicial y permanente en educación para la sexualidad, con un enfoque de derechos, e inscritos en sus programas de gobierno.
 
-- A  partir  de  la  aprobación  del  Plan  Decenal  2006-2016,  el  Estado  colombiano  en  sus  niveles local, departamental y nacional deberá iniciar el cumplimiento de la normatividad vigente en relación  con  el  desarrollo  humano  integral  a  través  de  la  misión  social,  el  respeto  y  la valoración  a  la  diversidad  étnica,  económica,  cultural,  política,  sexual,  bioambiental  y religiosa;  desde  lo  cognitivo,  axiológico,  procedimental  y  convivencial,  en  todo  el  territorio nacional, el cual debería consolidarse en el 2016.
+7. A partir de la aprobación del Plan Decenal 2006-2016, el Estado colombiano en sus niveles local, departamental y nacional deberá iniciar el cumplimiento de la normatividad vigente en relación con el desarrollo humano integral a través de la misión social, el respeto y la valoración a la diversidad étnica, económica, cultural, política, sexual, bioambiental y religiosa; desde lo cognitivo, axiológico, procedimental y convivencial, en todo el territorio nacional, el cual debería consolidarse en el 2016.
 
-- En  el  2016  el  100%  de  la  población  colombiana  cuenta  con  una  educación  humanizada, incluyente, de calidad y respetuosa de los derechos humanos.
+8. En el 2016 el 100% de la población colombiana cuenta con una educación humanizada, incluyente, de calidad y respetuosa de los derechos humanos.
 
-- El 100% de las instituciones de educación del país en el 2016, cuenta con servicio de asesoría, promoción, atención psicológica y de orientación, en la relación de un profesional por cada 500 estudiantes.
+9. El 100% de las instituciones de educación del país en el 2016, cuenta con servicio de asesoría, promoción, atención psicológica y de orientación, en la relación de un profesional por cada 500 estudiantes.
 
-- El Ministerio de Educación, las secretarías de educación y las instituciones de educativas darán cumplimiento a las normas vigentes sobre educación para grupos étnicos, cátedras de estudios afrocolombianos,  de  diversidad  sexual,  religiosa,  cultural  y  políticas  de  manera  vivencial  y experimental con toda la comunidad educativa, y hará seguimiento y acompañamiento a las directivas y orientaciones diseñadas para que se cumpla este propósito.
+10. El Ministerio de Educación, las secretarías de educación y las instituciones de educativas darán cumplimiento a las normas vigentes sobre educación para grupos étnicos, cátedras de estudios afrocolombianos, de diversidad sexual, religiosa, cultural y políticas de manera vivencial y experimental con toda la comunidad educativa, y hará seguimiento y acompañamiento a las directivas y orientaciones diseñadas para que se cumpla este propósito.
 
-- En  2016,  el  sistema  educativo  desarrolla  una  cultura  de  formación  en  valores  ciudadanos, convivencia y seguridad ciudadana, el respeto a los derechos humanos, y el conocimiento y la valoración de las diferencias de género, de etnia y de religiones.
+11. En 2016, el sistema educativo desarrolla una cultura de formación en valores ciudadanos, convivencia y seguridad ciudadana, el respeto a los derechos humanos, y el conocimiento y la valoración de las diferencias de género, de etnia y de religiones.
 
 www.plandecenal.edu.co
 
@@ -1107,7 +1140,7 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 32]]
 
-- Los contenidos curriculares de todos los niveles educativos abordarán los derechos humanos y el respeto por todas las diferencias que han sido objeto de exclusión.  En las 70 facultades de educación,  en  las  138  escuelas  normales  y  en  los  programas  de  formación  permanente  de docentes se incorporarán los enfoques de derechos y de género.
+12. Los contenidos curriculares de todos los niveles educativos abordarán los derechos humanos y el respeto por todas las diferencias que han sido objeto de exclusión. En las 70 facultades de educación, en las 138 escuelas normales y en los programas de formación permanente de docentes se incorporarán los enfoques de derechos y de género.
 
 ##### 2. Otros agentes educativos y relaciones con el entorno
 
@@ -1127,25 +1160,25 @@ Para fortalecer la educación en y para la paz, la convivencia y la ciudadanía,
 
 ###### Metas
 
-- En  el  2010,  el  Estado  y  los  medios  de  comunicación  masivos  y  comunitarios  han  llegado  a acuerdos para la creación de mayores espacios que favorecen los procesos de aprendizaje y las prácticas educativas para el fomento de la cultura de la paz, la no-violencia y la vivencia de los  valores.
+1. En el 2010, el Estado y los medios de comunicación masivos y comunitarios han llegado a acuerdos para la creación de mayores espacios que favorecen los procesos de aprendizaje y las prácticas educativas para el fomento de la cultura de la paz, la no-violencia y la vivencia de los valores.
 
-- En  el  2010  el  100%  de  los  medios  de  comunicación  asumen  con  responsabilidad  social  su compromiso con el respeto a los fines de la educación y en los procesos formativos.
+2. En el 2010 el 100% de los medios de comunicación asumen con responsabilidad social su compromiso con el respeto a los fines de la educación y en los procesos formativos.
 
-- En  el  2016  el  100%  de  las  familias  responde  a  su  rol  como  formadores  en  valores y constructores de paz.
+3. En el 2016 el 100% de las familias responde a su rol como formadores en valores y constructores de paz.
 
-- La responsabilidad social  empresarial  contempla  condiciones  que  favorezcan  la unidad familiar.
+4. La responsabilidad social empresarial contempla condiciones que favorezcan la unidad familiar.
 
-- En el 2016 se cumplen las funciones y responsabilidades dentro del sector educativo y los entes intersectoriales para la convivencia pacífica y democrática de la comunidad y la sociedad.
+5. En el 2016 se cumplen las funciones y responsabilidades dentro del sector educativo y los entes intersectoriales para la convivencia pacífica y democrática de la comunidad y la sociedad.
 
-- Los medios de comunicación con la sociedad civil y las entidades del Estado competentes han llegado a acuerdos para su autorregulación.
+6. Los medios de comunicación con la sociedad civil y las entidades del Estado competentes han llegado a acuerdos para su autorregulación.
 
-- Se emiten programas en los medios de comunicación nacional, regional y local con contenidos que promuevan la paz, la convivencia y la cultura de la legalidad y la no-violencia.
+7. Se emiten programas en los medios de comunicación nacional, regional y local con contenidos que promuevan la paz, la convivencia y la cultura de la legalidad y la no-violencia.
 
-- El Estado, las empresas y los medios de comunicación promueven ambientes sanos al interior de la familia.
+8. El Estado, las empresas y los medios de comunicación promueven ambientes sanos al interior de la familia.
 
-- La sociedad civil se articula en torno a redes de sensibilización, promoción, difusión y apoyo de programas de formación para la construcción de cultura de paz en el marco de los derechos humanos.
+9. La sociedad civil se articula en torno a redes de sensibilización, promoción, difusión y apoyo de programas de formación para la construcción de cultura de paz en el marco de los derechos humanos.
 
-- La  sociedad  civil  fortalece  programas  de  formación  para  el  ejercicio  de  los  mecanismos  de convivencia,  participación  y  control  social,  así  como  de  los  recursos  jurídicos  para  la exigibilidad de los derechos ante las instancias y organizaciones responsables.
+10. La sociedad civil fortalece programas de formación para el ejercicio de los mecanismos de convivencia, participación y control social, así como de los recursos jurídicos para la exigibilidad de los derechos ante las instancias y organizaciones responsables.
 
 www.plandecenal.edu.co
 
@@ -1155,35 +1188,35 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 33]]
 
-- La sociedad civil promueve estrategias de articulación entre sus actores y los actores, propios de las comunidades educativas, para la construcción de cultura de paz.
+11. La sociedad civil promueve estrategias de articulación entre sus actores y los actores, propios de las comunidades educativas, para la construcción de cultura de paz.
 
-- El gobierno nacional establecerá, a partir de la vigencia del PNDE 2006-2016, el fortalecimiento de  los principios éticos y de la democracia participativa y representativa en niños,  jóvenes  y  adultos,  los  cuales  deberán  fomentarlo  en  sus  respectivos  entornos.  Esto deberá  desarrollarse  en  todo  el  país  durante  los  próximos  diez  años,  con  el  apoyo  de  las organizaciones gubernamentales y no gubernamentales nacionales y extranjeras.
+12. El gobierno nacional establecerá, a partir de la vigencia del PNDE 2006-2016, el fortalecimiento de los principios éticos y de la democracia participativa y representativa en niños, jóvenes y adultos, los cuales deberán fomentarlo en sus respectivos entornos. Esto deberá desarrollarse en todo el país durante los próximos diez años, con el apoyo de las organizaciones gubernamentales y no gubernamentales nacionales y extranjeras.
 
-- En  el  2010  los  gobiernos  locales  y  territoriales  desarrollan  programas  interinstitucionales relacionados  con  la  convivencia  pacífica  y  la  participación  democrática  y  la  solidaridad apoyados por redes de la sociedad civil.
+13. En el 2010 los gobiernos locales y territoriales desarrollan programas interinstitucionales relacionados con la convivencia pacífica y la participación democrática y la solidaridad apoyados por redes de la sociedad civil.
 
-- El  Estado  implementará  mecanismos  y  funciones  que  incluyan  a  todos  los  sectores  en  el compromiso para la educación de la convivencia, de la paz y la justicia social.
+14. El Estado implementará mecanismos y funciones que incluyan a todos los sectores en el compromiso para la educación de la convivencia, de la paz y la justicia social.
 
 ##### 3. Educación en valores, participación y convivencia democrática
 
 Se han implementado e incorporado en los planes de desarrollo territoriales programas, estrategias y proyectos específicos para el desarrollo de valores y competencias para la paz, la convivencia y la ciudadanía que incluyan:
 
- Sistematización  y  evaluación  de  su  impacto  en  la  vida  escolar,  la  comunidad  educativa  y  la sociedad en su conjunto.
+ Sistematización y evaluación de su impacto en la vida escolar, la comunidad educativa y la sociedad en su conjunto.
 
- La  resignificación  de  los  proyectos  educativos  institucionales  (PEI)  hacia  la  construcción  de culturas de paz y democracia.
+ La resignificación de los proyectos educativos institucionales (PEI) hacia la construcción de culturas de paz y democracia.
 
 ###### Metas
 
-- En el 2016 los entes oficiales, privados y ONG, tienen políticas orientadas al fortalecimiento de las competencias ciudadanas.
+1. En el 2016 los entes oficiales, privados y ONG, tienen políticas orientadas al fortalecimiento de las competencias ciudadanas.
 
-- En el 2010, las organizaciones e instituciones de educación cuentan con proyectos, herramientas didácticas, conceptuales, pedagógicas y organizativas innovadoras para fortalecer el proceso de aprendizaje y vivencia de valores ciudadanos en familia y sociedad.
+2. En el 2010, las organizaciones e instituciones de educación cuentan con proyectos, herramientas didácticas, conceptuales, pedagógicas y organizativas innovadoras para fortalecer el proceso de aprendizaje y vivencia de valores ciudadanos en familia y sociedad.
 
-- En el 2012, las instituciones de educación construyen e implementan, de manera participativa, proyectos, acciones y escenarios de manejo y solución pacífica de conflictos, y realizan  intercambios  de  experiencias  significativas  donde  se  fortalece  la  construcción  de comunidades de paz y no-violencia, involucrando diferentes actores de la comunidad.
+3. En el 2012, las instituciones de educación construyen e implementan, de manera participativa, proyectos, acciones y escenarios de manejo y solución pacífica de conflictos, y realizan intercambios de experiencias significativas donde se fortalece la construcción de comunidades de paz y no-violencia, involucrando diferentes actores de la comunidad.
 
-- En el 2012, las instituciones de educación reconstruyen participativamente sus PEI, basados en principios ciudadanos y democráticos que respetan las diferencias, dan prioridad al manejo y resolución pacífica de los conflictos y promueven la dignidad humana.
+4. En el 2012, las instituciones de educación reconstruyen participativamente sus PEI, basados en principios ciudadanos y democráticos que respetan las diferencias, dan prioridad al manejo y resolución pacífica de los conflictos y promueven la dignidad humana.
 
-- En  el  2010,  las  instituciones  de  educación  son  espacios  donde  se  fomenta  la  participación democrática, el debate, la deliberación y la concertación como principios reguladores, basados en la Constitución Política, la convivencia y la cultura de la no-violencia.
+5. En el 2010, las instituciones de educación son espacios donde se fomenta la participación democrática, el debate, la deliberación y la concertación como principios reguladores, basados en la Constitución Política, la convivencia y la cultura de la no-violencia.
 
-- Durante  la  vigencia  del  Plan,  en  todos  los  niveles  de  educación  se  desarrollan  procesos  de formación política que propician el reconocimiento y la reflexión de realidades en contextos locales, regionales, nacionales e internacionales.
+6. Durante la vigencia del Plan, en todos los niveles de educación se desarrollan procesos de formación política que propician el reconocimiento y la reflexión de realidades en contextos locales, regionales, nacionales e internacionales.
 
 www.plandecenal.edu.co
 
@@ -1193,21 +1226,21 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 34]]
 
-- Las instituciones de  educación  cuentan  con herramientas conceptuales, pedagógicas y organizativas  para  fortalecer  el  proceso  de  enseñanza  y  aprendizaje  de  los  valores,    la convivencia y la cultura de la no-violencia.
+7. Las instituciones de educación cuentan con herramientas conceptuales, pedagógicas y organizativas para fortalecer el proceso de enseñanza y aprendizaje de los valores, la convivencia y la cultura de la no-violencia.
 
-- Las  instituciones  de  educación  han  construido  sus  proyectos  educativos  institucionales, manuales y pactos de convivencia, con todos los actores de la escuela, basados en principios democráticos, que respetan la diferencia, dan prioridad al manejo y resolución pacífica de los conflictos, en el marco de los derechos humanos.
+8. Las instituciones de educación han construido sus proyectos educativos institucionales, manuales y pactos de convivencia, con todos los actores de la escuela, basados en principios democráticos, que respetan la diferencia, dan prioridad al manejo y resolución pacífica de los conflictos, en el marco de los derechos humanos.
 
-- En el 2016 todas las instituciones de educación cuentan con personal capacitado y programas de formación continuada en ámbitos relacionados con la paz, la convivencia, la no-violencia y la ciudadanía para directivos, docentes, estudiantes, padres y madres de familia.
+9. En el 2016 todas las instituciones de educación cuentan con personal capacitado y programas de formación continuada en ámbitos relacionados con la paz, la convivencia, la no-violencia y la ciudadanía para directivos, docentes, estudiantes, padres y madres de familia.
 
-- Tendremos un país que ha fortalecido los procesos de formación en solidaridad, cooperación, participación y cultura democrática.
+10. Tendremos un país que ha fortalecido los procesos de formación en solidaridad, cooperación, participación y cultura democrática.
 
-- Tendremos  un  país  que  ha  desarrollado  una  cultura  de  lo  ético,  valores  cívicos  y  derechos humanos.
+11. Tendremos un país que ha desarrollado una cultura de lo ético, valores cívicos y derechos humanos.
 
-- Las instituciones educativas del país habrán formulado e implementado pactos de convivencia pertinentes,  que  incluyan  procesos  de  participación  democrática,  reconocimiento  de  los derechos humanos y la solidaridad en la cultura escolar.
+12. Las instituciones educativas del país habrán formulado e implementado pactos de convivencia pertinentes, que incluyan procesos de participación democrática, reconocimiento de los derechos humanos y la solidaridad en la cultura escolar.
 
-- En  el  2016  se  habrán  creado  e  implementado  en  Colombia  políticas  claras  para  asegurar  la formación ética de los niños, las niñas y los jóvenes colombianos.
+13. En el 2016 se habrán creado e implementado en Colombia políticas claras para asegurar la formación ética de los niños, las niñas y los jóvenes colombianos.
 
-- En  el  2016,  las  instituciones  educativas  deberán  tener  evidencias  de  procesos  de  formación política en cada uno de los niveles educativos.
+14. En el 2016, las instituciones educativas deberán tener evidencias de procesos de formación política en cada uno de los niveles educativos.
 
 ##### 4. Educación en valores, participación , convivencia democrática y medio ambiente
 
@@ -1221,7 +1254,7 @@ Los programas, estrategias y proyectos de educación ambiental han respondido a 
 
 ###### Meta
 
-- Formar  a  todos  los  actores  sociales  de  la  comunidad  educativa  para  que,  mediante  la educación  ambiental,  promuevan  actividades  específicas  para  la  valoración,  conservación, cuidado, recuperación y defensa de nuestros recursos naturales, desde una perspectiva crítica y hacia el desarrollo sostenible y el consumo responsable.
+1. Formar a todos los actores sociales de la comunidad educativa para que, mediante la educación ambiental, promuevan actividades específicas para la valoración, conservación, cuidado, recuperación y defensa de nuestros recursos naturales, desde una perspectiva crítica y hacia el desarrollo sostenible y el consumo responsable.
 
 ##### 5. Estructura y organización escolar
 
@@ -1237,33 +1270,33 @@ www.plandecenal.edu.co
 
 ###### Metas
 
-- Todas  las  instituciones  de  educación  cuentan  con  herramientas  conceptuales,  pedagógicas, económicas  y  organizativas  para  asegurar  el  desarrollo  humano  integral  sostenible  y  la formación en valores para la paz, la convivencia, la no-violencia y la ciudadanía.
+1. Todas las instituciones de educación cuentan con herramientas conceptuales, pedagógicas, económicas y organizativas para asegurar el desarrollo humano integral sostenible y la formación en valores para la paz, la convivencia, la no-violencia y la ciudadanía.
 
-- Todas  las  instituciones  de  educación  han  actualizado  los  currículos  realizando  innovaciones pedagógicas  para  vivenciar,  a  partir  de  diferentes  proyectos,  el  desarrollo  humano  integral sostenible y la promoción y defensa de valores para la paz, la convivencia y la ciudadanía.
+2. Todas las instituciones de educación han actualizado los currículos realizando innovaciones pedagógicas para vivenciar, a partir de diferentes proyectos, el desarrollo humano integral sostenible y la promoción y defensa de valores para la paz, la convivencia y la ciudadanía.
 
-- Todas las instituciones de educación ejecutan proyectos, planes y programas desde todas las disciplinas, con las cuales se propicie el aprendizaje integral para el ejercicio del respeto por los derechos humanos, la práctica de valores para una vida digna de todos los ciudadanos.
+3. Todas las instituciones de educación ejecutan proyectos, planes y programas desde todas las disciplinas, con las cuales se propicie el aprendizaje integral para el ejercicio del respeto por los derechos humanos, la práctica de valores para una vida digna de todos los ciudadanos.
 
-- Todas  las  instituciones  de  educación  generan  acciones  que  contribuyen  a  la  solución  de problemáticas  personales,  familiares,  grupales,  locales  y  nacionales,  específicas  en  aras  del bienestar común.
+4. Todas las instituciones de educación generan acciones que contribuyen a la solución de problemáticas personales, familiares, grupales, locales y nacionales, específicas en aras del bienestar común.
 
-- Se encontrarán articulados a los PEI del país, los derechos humanos y el derecho internacional humanitario, como parte integral y relevante de su componente teleológico.
+5. Se encontrarán articulados a los PEI del país, los derechos humanos y el derecho internacional humanitario, como parte integral y relevante de su componente teleológico.
 
-- En el 2016 se habrán implementado diversas experiencias de aprendizaje y articuladas con el PEI  que  permiten  el  conocimiento  y  el  reconocimiento  cotidiano  como  sujeto  de  derechos  y deberes basados en valores.
+6. En el 2016 se habrán implementado diversas experiencias de aprendizaje y articuladas con el PEI que permiten el conocimiento y el reconocimiento cotidiano como sujeto de derechos y deberes basados en valores.
 
-- Las instituciones de educación construyen PEI y manuales de convivencia teniendo en cuenta como ejes fundamentales la equidad, la legalidad, la inclusión social, el respeto y la valoración de la diversidad étnica, económica, cultural, religiosa, política, sexual y de género.
+7. Las instituciones de educación construyen PEI y manuales de convivencia teniendo en cuenta como ejes fundamentales la equidad, la legalidad, la inclusión social, el respeto y la valoración de la diversidad étnica, económica, cultural, religiosa, política, sexual y de género.
 
-- Las  instituciones  de  educación  construyen  modelos  pedagógicos  que  se  fundamentan  en  el cuerpo de  valores planteados por el PNDE.
+8. Las instituciones de educación construyen modelos pedagógicos que se fundamentan en el cuerpo de valores planteados por el PNDE.
 
-- Las instituciones de educación evalúan el área de ética y valores teniendo en cuenta los actos de los miembros de la comunidad educativa.
+9. Las instituciones de educación evalúan el área de ética y valores teniendo en cuenta los actos de los miembros de la comunidad educativa.
 
-- Las instituciones de  educación  cuentan  con herramientas conceptuales, pedagógicas y organizativas  para  fortalecer  la  práctica  autónoma  de  los  valores  en  la  vida  cotidiana  de  la comunidad educativa.
+10. Las instituciones de educación cuentan con herramientas conceptuales, pedagógicas y organizativas para fortalecer la práctica autónoma de los valores en la vida cotidiana de la comunidad educativa.
 
-- Las instituciones de educación reformulan sus PEI, e involucran como un eje fundamental los aspectos axiológicos pertinentes a su contexto.
+11. Las instituciones de educación reformulan sus PEI, e involucran como un eje fundamental los aspectos axiológicos pertinentes a su contexto.
 
-- Las  instituciones  de  educación  actualizan  los  currículos  y  las  prácticas  pedagógicas,  realizan innovaciones para fortalecer la formación en valores democráticos, solidarios y mutualistas.
+12. Las instituciones de educación actualizan los currículos y las prácticas pedagógicas, realizan innovaciones para fortalecer la formación en valores democráticos, solidarios y mutualistas.
 
-- En el 2016, el país ha desarrollado un sistema educativo que garantiza la construcción de una política pública que permite el ejercicio de la ciudadanía y la convivencia.
+13. En el 2016, el país ha desarrollado un sistema educativo que garantiza la construcción de una política pública que permite el ejercicio de la ciudadanía y la convivencia.
 
-- En el 2010 el sistema educativo incorpora y desarrolla como política pública la educación desde y para la solidaridad como programa de formación con sentido humano y desarrollo social que contribuye al logro de la paz, la convivencia y las prácticas ciudadanas.
+14. En el 2010 el sistema educativo incorpora y desarrolla como política pública la educación desde y para la solidaridad como programa de formación con sentido humano y desarrollo social que contribuye al logro de la paz, la convivencia y las prácticas ciudadanas.
 
 www.plandecenal.edu.co
 
@@ -1273,7 +1306,7 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 36]]
 
-- Las secretarías de educación y el Ministerio de Educación Nacional prestarán acompañamiento y asesoría a las instituciones de educación para el cumplimiento de la adecuación curricular y de la revisión de las propuestas de convivencia propuestas por el Plan hacia las instituciones de educación.
+15. Las secretarías de educación y el Ministerio de Educación Nacional prestarán acompañamiento y asesoría a las instituciones de educación para el cumplimiento de la adecuación curricular y de la revisión de las propuestas de convivencia propuestas por el Plan hacia las instituciones de educación.
 
 ##### 6. Derechos, protección, promoción y población vulnerable y con necesidades especiales
 
@@ -1289,25 +1322,25 @@ El  país  ha  desarrollado  un  sistema  especial  de  atención  educativa  pa
 
 ###### Metas
 
-- Se verifica el aumento progresivo en el número de instituciones educativas, entes territoriales y  organizaciones  de  la  sociedad  civil  que  atienden,  de  manera  especial,  la  recuperación psicoafectiva de niñas, niños, jóvenes y adultos que así lo requieran.
+1. Se verifica el aumento progresivo en el número de instituciones educativas, entes territoriales y organizaciones de la sociedad civil que atienden, de manera especial, la recuperación psicoafectiva de niñas, niños, jóvenes y adultos que así lo requieran.
 
-- Las  instituciones  de  educación  cuentan  con  maestros  especializados,  espacios  y  dotaciones necesarias para el desarrollo de los talentos artísticos y deportivos de niños, niñas y jóvenes en la edad iniciada.
+2. Las instituciones de educación cuentan con maestros especializados, espacios y dotaciones necesarias para el desarrollo de los talentos artísticos y deportivos de niños, niñas y jóvenes en la edad iniciada.
 
-- Se  cuenta  con  atención  especializada,  a  través  de  programas  individuales  y  grupales,  para niños,  niñas,  jóvenes  y  adultos  que  han  vivido  situaciones  de  violencia;  lo  mismo  otras poblaciones vulnerables, con necesidades educativas especiales y con limitaciones de su salud física  y mental.
+3. Se cuenta con atención especializada, a través de programas individuales y grupales, para niños, niñas, jóvenes y adultos que han vivido situaciones de violencia; lo mismo otras poblaciones vulnerables, con necesidades educativas especiales y con limitaciones de su salud física y mental.
 
 #### ACCIONES
 
 ##### Inclusión, diversidad, diferencia, identidad y equidad
 
-- Capacitar a la comunidad educativa en general y a la sociedad misma en el desarrollo humano integral sostenible.
+1. Capacitar a la comunidad educativa en general y a la sociedad misma en el desarrollo humano integral sostenible.
 
-- Realización  de  proyectos  que  tengan  como  tema  central  la  educación  para  el  amor,  la felicidad, el uso de la sexualidad y la perspectiva de género.
+2. Realización de proyectos que tengan como tema central la educación para el amor, la felicidad, el uso de la sexualidad y la perspectiva de género.
 
-- Capacitación a los docentes y comunidad en general para llevar a cabo programas encaminados al  fortalecimiento  de  la  paz,  convivencia  y  ciudadanía,  y  el  uso  adecuado  del  tiempo  libre dentro de su localidad o entorno.
+3. Capacitación a los docentes y comunidad en general para llevar a cabo programas encaminados al fortalecimiento de la paz, convivencia y ciudadanía, y el uso adecuado del tiempo libre dentro de su localidad o entorno.
 
-- Creación  de  espacios  y  escenarios  en  todas  las  instituciones  y/o  entes  territoriales  para  el desarrollo de programas que buscan el fortalecimiento de la paz, convivencia y ciudadanía y el uso adecuado del tiempo libre.
+4. Creación de espacios y escenarios en todas las instituciones y/o entes territoriales para el desarrollo de programas que buscan el fortalecimiento de la paz, convivencia y ciudadanía y el uso adecuado del tiempo libre.
 
-- Desarrollo de proyectos pedagógicos de educación para la sexualidad con enfoque de derechos y de transectorialidad, que se articulen a la misión, visión, filosofía de la institución, al perfil de los estudiantes y a los contextos regionales.
+5. Desarrollo de proyectos pedagógicos de educación para la sexualidad con enfoque de derechos y de transectorialidad, que se articulen a la misión, visión, filosofía de la institución, al perfil de los estudiantes y a los contextos regionales.
 
 www.plandecenal.edu.co
 
@@ -1317,43 +1350,43 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 37]]
 
-- Programas de formación inicial y en ejercicio de docentes, a partir de la reflexión personal y pedagógica sobre patrones culturales  asociados  a  las  feminidades  y  las  masculinidades,  y  su relación con las desigualdades y violencias del país.
+6. Programas de formación inicial y en ejercicio de docentes, a partir de la reflexión personal y pedagógica sobre patrones culturales asociados a las feminidades y las masculinidades, y su relación con las desigualdades y violencias del país.
 
-- Desarrollo  de  planes  de  formación  en  derechos  humanos,  convivencia  pacífica,  solidaridad  y democracia  en  escuela  de  docentes,  madres,  padres,  familias  y  otros  miembros  de  la comunidad en los que se tenga en cuenta la armonía con el medio ambiente.
+7. Desarrollo de planes de formación en derechos humanos, convivencia pacífica, solidaridad y democracia en escuela de docentes, madres, padres, familias y otros miembros de la comunidad en los que se tenga en cuenta la armonía con el medio ambiente.
 
-- Desarrollar planes de formación en derechos humanos, equidad de género, convivencia pacífica y democracia en escuelas de padres, madres de familia.
+8. Desarrollar planes de formación en derechos humanos, equidad de género, convivencia pacífica y democracia en escuelas de padres, madres de familia.
 
-- Generar encuentros y espacios de diálogo intercultural para mejorar el comportamiento social.
+9. Generar encuentros y espacios de diálogo intercultural para mejorar el comportamiento social.
 
 ##### Otros agentes educativos y relaciones con el entorno
 
-- Establecer convenios interinstitucionales para la utilización de los medios de comunicación.
+1. Establecer convenios interinstitucionales para la utilización de los medios de comunicación.
 
-- Fortalecer los programas de escuelas de  familias en las instituciones y centros educativos del país.
+2. Fortalecer los programas de escuelas de familias en las instituciones y centros educativos del país.
 
-- Formar a la familia en la prevención integral.
+3. Formar a la familia en la prevención integral.
 
-- Crear programas de estudio que contribuyan a la educación de la familia.
+4. Crear programas de estudio que contribuyan a la educación de la familia.
 
-- Matricular a los padres de familia, para que asistan a prepararse, cuatro veces al mes y asuman su compromiso con la educación de sus hijos.
+5. Matricular a los padres de familia, para que asistan a prepararse, cuatro veces al mes y asuman su compromiso con la educación de sus hijos.
 
-- Incluir la educación para la lectura crítica de los medios de comunicación en las instituciones educativas.
+6. Incluir la educación para la lectura crítica de los medios de comunicación en las instituciones educativas.
 
-- Fortalecer  las  veedurías  que  garanticen  el  cumplimiento  de  los  compromisos  adquiridos respecto a la emisión de programas de los medios de comunicación.
+7. Fortalecer las veedurías que garanticen el cumplimiento de los compromisos adquiridos respecto a la emisión de programas de los medios de comunicación.
 
-- Programas de formación en orientación  para padres y acudientes.
+8. Programas de formación en orientación para padres y acudientes.
 
-- Fortalecimiento de las escuelas de padres de familia.
+9. Fortalecimiento de las escuelas de padres de familia.
 
-- Que  las  instituciones  de  educación    y  centros  educativos  cuenten  con  apoyo  de  equipos interdisciplinarios, financiados por el Estado.
+10. Que las instituciones de educación y centros educativos cuenten con apoyo de equipos interdisciplinarios, financiados por el Estado.
 
-- Campañas de promoción de valores familiares articulados con procesos ejecutados a través de la televisión, la radio, la prensa, vallas publicitarias y otros.
+11. Campañas de promoción de valores familiares articulados con procesos ejecutados a través de la televisión, la radio, la prensa, vallas publicitarias y otros.
 
-- Conformar grupos locales e institucionales de gestión, veedurías y ejecución de los programas y proyectos  encaminados  al  fortalecimiento  de  la  paz,  convivencia  y  ciudadanía  y  el  uso adecuado del tiempo libre.
+12. Conformar grupos locales e institucionales de gestión, veedurías y ejecución de los programas y proyectos encaminados al fortalecimiento de la paz, convivencia y ciudadanía y el uso adecuado del tiempo libre.
 
-- Mecanismos  de  seguimiento,  veedurías  conjuntas  entre  el  Ministerio  de  Educación  y  las entidades de educación.
+13. Mecanismos de seguimiento, veedurías conjuntas entre el Ministerio de Educación y las entidades de educación.
 
-- Concertar  alianzas  estratégicas  con  las  diferentes  instancias  sociales  como  componentes  y agentes de apoyo a la propuesta educativa.
+14. Concertar alianzas estratégicas con las diferentes instancias sociales como componentes y agentes de apoyo a la propuesta educativa.
 
 www.plandecenal.edu.co
 
@@ -1363,37 +1396,37 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 38]]
 
-- Involucrar a padres y madres de familia, docentes, niños, niñas y jóvenes en acciones que les permitan,  desde  casos  concretos,  manejar  conflictos  y  proponer  alternativas  de  solución concretas a los problemas cotidianos de la escuela y la familia.
+15. Involucrar a padres y madres de familia, docentes, niños, niñas y jóvenes en acciones que les permitan, desde casos concretos, manejar conflictos y proponer alternativas de solución concretas a los problemas cotidianos de la escuela y la familia.
 
-- Crear estímulos a nivel municipal, departamental y nacional para instituciones y organizaciones sociales que promuevan ambientes de paz y convivencia pacífica, en aras de fortalecer dichas iniciativas.
+16. Crear estímulos a nivel municipal, departamental y nacional para instituciones y organizaciones sociales que promuevan ambientes de paz y convivencia pacífica, en aras de fortalecer dichas iniciativas.
 
-- Implementar alianzas estratégicas y convenios de cooperación entre el Estado, las instituciones educativas, las facultades de educación y comunicación social, los medios de comunicación y otras organizaciones nacionales e internacionales para fortalecer la convivencia, la cultura de manejo  y  resolución  de  conflictos,  la  paz,  la  no-violencia,  la  formación  en  valores,  la capacidad crítica de la comunidad y el respeto por lo público y lo privado.
+17. Implementar alianzas estratégicas y convenios de cooperación entre el Estado, las instituciones educativas, las facultades de educación y comunicación social, los medios de comunicación y otras organizaciones nacionales e internacionales para fortalecer la convivencia, la cultura de manejo y resolución de conflictos, la paz, la no-violencia, la formación en valores, la capacidad crítica de la comunidad y el respeto por lo público y lo privado.
 
-- Dinamizar  las  redes  de  paz,  de  derechos  humanos  y  otras  iniciativas  que  coadyuvan  a  la educación en y para la paz, la no-violencia, la convivencia y la ciudadanía.
+18. Dinamizar las redes de paz, de derechos humanos y otras iniciativas que coadyuvan a la educación en y para la paz, la no-violencia, la convivencia y la ciudadanía.
 
-- Creación de redes de articulación entre la sociedad civil y el Estado para promover el ejercicio de la ciudadanía y la educación en y para la paz y la convivencia.
+19. Creación de redes de articulación entre la sociedad civil y el Estado para promover el ejercicio de la ciudadanía y la educación en y para la paz y la convivencia.
 
-- Revisar y ajustar el marco legal para la regulación de los programas emitidos por los medios de comunicación.
+20. Revisar y ajustar el marco legal para la regulación de los programas emitidos por los medios de comunicación.
 
-- Establecer mecanismos de difusión sobre las competencias ciudadanas.
+21. Establecer mecanismos de difusión sobre las competencias ciudadanas.
 
 ##### Educación en valores, participación y convivencia democrática
 
-- Crear  comités  de  mediación  escolar  de  conflictos  con  tiempos  y  espacios  definidos  a  nivel institucional.
+1. Crear comités de mediación escolar de conflictos con tiempos y espacios definidos a nivel institucional.
 
-- Formar grupos para el liderazgo de la convivencia y la cultura de la no violencia.
+2. Formar grupos para el liderazgo de la convivencia y la cultura de la no violencia.
 
-- Sistematizar experiencias significativas y estudios de caso sobre conflictos presentados dentro de la comunidad que permitan fortalecer la convivencia pacífica y la recomposición del tejido social.
+3. Sistematizar experiencias significativas y estudios de caso sobre conflictos presentados dentro de la comunidad que permitan fortalecer la convivencia pacífica y la recomposición del tejido social.
 
-- Profundización  en  la  capacitación  a  niños,  jóvenes  y  adultos  en  procesos  de  democracia participativa, representativa y directa, así como de principios éticos.
+4. Profundización en la capacitación a niños, jóvenes y adultos en procesos de democracia participativa, representativa y directa, así como de principios éticos.
 
-- Crear comités de resolución pacífica de conflictos.
+5. Crear comités de resolución pacífica de conflictos.
 
-- Crear programas  y  proyectos  de  comportamiento  social,  cívicos, lúdicos, científicos y culturales.
+6. Crear programas y proyectos de comportamiento social, cívicos, lúdicos, científicos y culturales.
 
-- Diseñar programas de formación permanente para la comunidad educativa y la sociedad, que incluyan procesos, estrategias, núcleos temáticos y socialización de experiencias significativas para fortalecer la ciudadanía, la convivencia, la participación, la democracia, la no-violencia, la diversidad y la paz, con seguimiento y evaluación permanentes.
+7. Diseñar programas de formación permanente para la comunidad educativa y la sociedad, que incluyan procesos, estrategias, núcleos temáticos y socialización de experiencias significativas para fortalecer la ciudadanía, la convivencia, la participación, la democracia, la no-violencia, la diversidad y la paz, con seguimiento y evaluación permanentes.
 
-- Apropiación práctica por los estudiantes de todos los niveles educativos de los conocimientos en materia de constitución política, derechos humanos, mecanismos de participación ciudadana, organismos de control y resolución pacífica de conflictos. NOTA: esta acción vino
+8. Apropiación práctica por los estudiantes de todos los niveles educativos de los conocimientos en materia de constitución política, derechos humanos, mecanismos de participación ciudadana, organismos de control y resolución pacífica de conflictos. NOTA: esta acción vino
 
 www.plandecenal.edu.co
 
@@ -1403,37 +1436,37 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 39]]
 
-de la categoría -estructura y organización escolar (PEI, manuales-pactos, currículo, pedagogía).
+de la categoría “estructura y organización escolar (PEI, manuales-pactos, currículo, pedagogía).
 
-- El respeto y cumplimiento de normas constitucionales, partiendo de las más altas esferas del poder estatal hasta llegar a las diferentes instancias de las instituciones de educación.
+9. El respeto y cumplimiento de normas constitucionales, partiendo de las más altas esferas del poder estatal hasta llegar a las diferentes instancias de las instituciones de educación.
 
-- Formulación de planes educativos de las entidades territoriales y los PEI desde una perspectiva democrática que valore el respeto por las diferencias, la práctica de valores, la convivencia y la resolución pacífica de los conflictos.
+10. Formulación de planes educativos de las entidades territoriales y los PEI desde una perspectiva democrática que valore el respeto por las diferencias, la práctica de valores, la convivencia y la resolución pacífica de los conflictos.
 
-- Promover  el  respeto  por  la  diferencia  y  el  desarrollo  de  valores  que  nos  permitan  vivir  en comunidad.
+11. Promover el respeto por la diferencia y el desarrollo de valores que nos permitan vivir en comunidad.
 
 ##### Estructura y organización escolar
 
-- Lograr que las comunidades interrelacionen sus planes de vida con sus proyectos educativos.
+1. Lograr que las comunidades interrelacionen sus planes de vida con sus proyectos educativos.
 
-- Desarrollo  de  procesos  formativos  con  todos  los  estamentos  de  la  comunidad  educativa  en relación con marcos legales y mecanismos jurídicos sobre organización, gestión, participación, seguimiento y evaluación de la vida escolar.
+2. Desarrollo de procesos formativos con todos los estamentos de la comunidad educativa en relación con marcos legales y mecanismos jurídicos sobre organización, gestión, participación, seguimiento y evaluación de la vida escolar.
 
-- Incentivar  programas  de  investigación,  sistematización,  innovación  y  producción  de  saber pedagógico en y para la paz, la convivencia y la ciudadanía.
+3. Incentivar programas de investigación, sistematización, innovación y producción de saber pedagógico en y para la paz, la convivencia y la ciudadanía.
 
-- Realización de proyectos de investigación y gestión de conocimiento sobre el impacto de los conflictos y las violencias en la vida escolar.
+4. Realización de proyectos de investigación y gestión de conocimiento sobre el impacto de los conflictos y las violencias en la vida escolar.
 
-- Desde  las  instituciones  educativas  desarrollar  programas  de  formación  para  las  comunidades educativas sobre temáticas relacionadas con la paz, la convivencia y la ciudadanía.
+5. Desde las instituciones educativas desarrollar programas de formación para las comunidades educativas sobre temáticas relacionadas con la paz, la convivencia y la ciudadanía.
 
-- Implementar la salas de conciliadores estudiantiles integradas de manera interdisciplinaria con representantes  de  los  diferentes  estamentos  educativos  y  dotarlas  con  recursos  legales, administrativos, metodológicos, pedagógicos y tecnológicos para resolver en primera instancia los conflictos institucionales.
+6. Implementar la salas de conciliadores estudiantiles integradas de manera interdisciplinaria con representantes de los diferentes estamentos educativos y dotarlas con recursos legales, administrativos, metodológicos, pedagógicos y tecnológicos para resolver en primera instancia los conflictos institucionales.
 
-- Promover el desarrollo de proyectos de investigación e implementación en torno a la educación para la paz, la convivencia y la ciudadanía que apunten al alcance de todos y cada uno de los objetivos propuestos.
+7. Promover el desarrollo de proyectos de investigación e implementación en torno a la educación para la paz, la convivencia y la ciudadanía que apunten al alcance de todos y cada uno de los objetivos propuestos.
 
-- Revisar y ajustar las propuestas de convivencia, manual de convivencia y otros instrumentos e instancias de las instituciones educativas para garantizar que éstas respondan a los requerimientos  de  la  educación,  basada  en  valores  para  el  desarrollo  humano,  la  paz,  la convivencia y la ciudadanía.
+8. Revisar y ajustar las propuestas de convivencia, manual de convivencia y otros instrumentos e instancias de las instituciones educativas para garantizar que éstas respondan a los requerimientos de la educación, basada en valores para el desarrollo humano, la paz, la convivencia y la ciudadanía.
 
-- Desarrollar programas de formación para la solución de problemáticas personales, familiares, grupales, locales y nacionales.
+9. Desarrollar programas de formación para la solución de problemáticas personales, familiares, grupales, locales y nacionales.
 
-- Capacitar  a  todos  los  estamentos  de  la  comunidad  educativa  en  las  metodologías  de investigación social cualitativa.
+10. Capacitar a todos los estamentos de la comunidad educativa en las metodologías de investigación social cualitativa.
 
-- Revisión y ajuste de currículos de formación de adultos para que incorporen la formación para la paz, la convivencia, la equidad y los derechos humanos.
+11. Revisión y ajuste de currículos de formación de adultos para que incorporen la formación para la paz, la convivencia, la equidad y los derechos humanos.
 
 www.plandecenal.edu.co
 
@@ -1443,37 +1476,37 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 40]]
 
-- Direccionar  con  carácter  obligatorio  el  servicio  social  del  estudiantado  en  los  niveles  de educación media y superior, proporcionándoles los medios requeridos para el mejoramiento de la participación y el ejercicio de los principios éticos, tanto al interior como al exterior de la institución educativa.
+12. Direccionar con carácter obligatorio el servicio social del estudiantado en los niveles de educación media y superior, proporcionándoles los medios requeridos para el mejoramiento de la participación y el ejercicio de los principios éticos, tanto al interior como al exterior de la institución educativa.
 
-- Diseñar  estrategias  pedagógicas  y  contenidos  pertinentes  que  permitan  el  conocimiento  y reconocimiento  cotidiano  como  sujeto  de  derechos  y  deberes  basados  en  valores  para implementar su aplicación de acuerdo con los diferentes niveles de desarrollo del sujeto.
+13. Diseñar estrategias pedagógicas y contenidos pertinentes que permitan el conocimiento y reconocimiento cotidiano como sujeto de derechos y deberes basados en valores para implementar su aplicación de acuerdo con los diferentes niveles de desarrollo del sujeto.
 
-- Resignificar el término manuales, por pactos de convivencia.
+14. Resignificar el término manuales, por pactos de convivencia.
 
-- Operacionalizar  y  dinamizar  la  estructura  administrativa  de  las  instituciones y  centros educativos, a partir del gobierno escolar.
+15. Operacionalizar y dinamizar la estructura administrativa de las instituciones y centros educativos, a partir del gobierno escolar.
 
-- Reestructurar el gobierno escolar atendiendo a la normatividad.
+16. Reestructurar el gobierno escolar atendiendo a la normatividad.
 
-- Crear comités de derechos humanos.
+17. Crear comités de derechos humanos.
 
-- Crear cátedras de derechos humanos.
+18. Crear cátedras de derechos humanos.
 
-- Crear espacios en la escuela para el desarrollo de procesos de pensamiento crítico, frente a los medios de comunicación.
+19. Crear espacios en la escuela para el desarrollo de procesos de pensamiento crítico, frente a los medios de comunicación.
 
-- Fomento de formas elaboradas de convivencia y gobierno escolar que permitan progresos en la autonomía,  en  la  formación  ciudadana,  en  el  control  social  y  en  el  reconocimiento  de  la legitimidad de las instituciones.
+20. Fomento de formas elaboradas de convivencia y gobierno escolar que permitan progresos en la autonomía, en la formación ciudadana, en el control social y en el reconocimiento de la legitimidad de las instituciones.
 
-- Ambientes  pedagógicos  de  confianza  que  promuevan  el  ejercicio  de  la  ciudadanía  en  la comunidad educativa.
+21. Ambientes pedagógicos de confianza que promuevan el ejercicio de la ciudadanía en la comunidad educativa.
 
-- Elaboración de modelos  pedagógicos para escuelas inclusivas y escuelas coeducativas, manuales de convivencia y planes de estudio a partir de la observación y la lectura colectiva de desigualdades y violencias en general y, en particular, de aquellas asociadas a la apariencia y  los  lenguajes  corporales,  las  subjetividades  masculinas  y  femeninas,    la  orientación,  la equidad y la diversas identidades de género.
+22. Elaboración de modelos pedagógicos para escuelas inclusivas y escuelas coeducativas, manuales de convivencia y planes de estudio a partir de la observación y la lectura colectiva de desigualdades y violencias en general y, en particular, de aquellas asociadas a la apariencia y los lenguajes corporales, las subjetividades masculinas y femeninas, la orientación, la equidad y la diversas identidades de género.
 
-- Revisión, ajuste y análisis de los manuales de convivencia con el fin de lograr una conciencia crítica de sus fundamentos, principios e implicaciones jurídicas.
+23. Revisión, ajuste y análisis de los manuales de convivencia con el fin de lograr una conciencia crítica de sus fundamentos, principios e implicaciones jurídicas.
 
-- Aplicación  de  criterios  de  contextualización  y  pertinencia  en  los  currículos  acordes  con  las condiciones específicas de las instituciones educativas.
+24. Aplicación de criterios de contextualización y pertinencia en los currículos acordes con las condiciones específicas de las instituciones educativas.
 
-- Desarrollo de pedagogías, currículos y didácticas lúdicas, de participación y creación.
+25. Desarrollo de pedagogías, currículos y didácticas lúdicas, de participación y creación.
 
-- Aplicación de la visión sistémica, con perspectiva poblacional y con enfoque diferencial sobre procedimientos y herramientas de la vida escolar.
+26. Aplicación de la visión sistémica, con perspectiva poblacional y con enfoque diferencial sobre procedimientos y herramientas de la vida escolar.
 
-- Las secretarías de educación y el Ministerio de Educación Nacional prestarán acompañamiento y asesoría a las instituciones de educación para el cumplimiento de la adecuación curricular, y de la revisión de las propuestas de convivencia de las instituciones de educación.
+27. Las secretarías de educación y el Ministerio de Educación Nacional prestarán acompañamiento y asesoría a las instituciones de educación para el cumplimiento de la adecuación curricular, y de la revisión de las propuestas de convivencia de las instituciones de educación.
 
 www.plandecenal.edu.co
 
@@ -1483,41 +1516,41 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 41]]
 
-- Realización de  acciones  interinstitucionales, intersectoriales e internas a la institución educativa  de  apoyo,  seguimiento  y  vigilancia  a  las  formas  en  que  éstas  hacen  efectivos  los mecanismos de participación escolar.
+28. Realización de acciones interinstitucionales, intersectoriales e internas a la institución educativa de apoyo, seguimiento y vigilancia a las formas en que éstas hacen efectivos los mecanismos de participación escolar.
 
-- Garantizar en los manuales de convivencia la participación activa, comprometida y equitativa de los estudiantes y la comunidad en general.
+29. Garantizar en los manuales de convivencia la participación activa, comprometida y equitativa de los estudiantes y la comunidad en general.
 
-- Incluir en los manuales de convivencia la ética en el uso de las TIC.
+30. Incluir en los manuales de convivencia la ética en el uso de las TIC.
 
-- Capacitar a la comunidad educativa en la aplicación de la ley de niñez y adolescencia para resignificar los manuales y/o pactos de convivencia.
+31. Capacitar a la comunidad educativa en la aplicación de la ley de niñez y adolescencia para resignificar los manuales y/o pactos de convivencia.
 
-- Implementar  en  las  instituciones  educativas  centros  de  conciliación  para  la  resolución  de conflictos con veeduría permanente.
+32. Implementar en las instituciones educativas centros de conciliación para la resolución de conflictos con veeduría permanente.
 
-##### Derechos, protección, promoción y  población vulnerable y con necesidades especiales
+##### Derechos, protección, promoción y población vulnerable y con necesidades especiales
 
-- Cumplimiento de las normas existentes sobre condiciones de educabilidad.
+1. Cumplimiento de las normas existentes sobre condiciones de educabilidad.
 
-- Sensibilizar  a  la  comunidad  educativa  frente  a  la  necesidad  de  reorientar  los  procesos  de formación en derechos humanos y el derecho internacional humanitario.
+2. Sensibilizar a la comunidad educativa frente a la necesidad de reorientar los procesos de formación en derechos humanos y el derecho internacional humanitario.
 
-- Atención  a  la  salud  mental  y  fortalecimiento  de  la  resiliencia  de  estudiantes  y  maestros,  y nombramiento de personal especializado en atención psicoafectiva.
+3. Atención a la salud mental y fortalecimiento de la resiliencia de estudiantes y maestros, y nombramiento de personal especializado en atención psicoafectiva.
 
-- Nombramiento de personal idóneo y especializado para atender problemas de carácter sexual, de identidad y de transformación de conflictos.
+4. Nombramiento de personal idóneo y especializado para atender problemas de carácter sexual, de identidad y de transformación de conflictos.
 
-- Inclusión en las secretarías de educación de programas de alfabetización de la población adulta afrocolombiana  y  acceso  a  la  población  afro  con  necesidades  educativas  especiales  y discapacidades, para que puedan desarrollar procesos de aprendizaje significativo de acuerdo con sus características y potencialidades.
+5. Inclusión en las secretarías de educación de programas de alfabetización de la población adulta afrocolombiana y acceso a la población afro con necesidades educativas especiales y discapacidades, para que puedan desarrollar procesos de aprendizaje significativo de acuerdo con sus características y potencialidades.
 
 ##### Políticas públicas
 
-- Regular la televisión colombiana, a través de ley y mediante la concertación entre la Comisión Nacional  de  Televisión  y  los  medios  de  comunicación,  para  la  creación  de  mayores  espacios educativos, dirigidos a la formación de valores y la convivencia pacífica.
+1. Regular la televisión colombiana, a través de ley y mediante la concertación entre la Comisión Nacional de Televisión y los medios de comunicación, para la creación de mayores espacios educativos, dirigidos a la formación de valores y la convivencia pacífica.
 
-- Proponer  la  modificación  de  los  decretos  3020  y  1850  para  reestablecer  los  cargos  de psicorientación, psicología, trabajo social, profesor de educación física y artística en educación preescolar y básica primaria.
+2. Proponer la modificación de los decretos 3020 y 1850 para reestablecer los cargos de psicorientación, psicología, trabajo social, profesor de educación física y artística en educación preescolar y básica primaria.
 
-- Impulso  y  apoyo  económico  y  técnico  del  Estado,  a  medios  de  comunicación  comunitarios  y estudiantiles.
+3. Impulso y apoyo económico y técnico del Estado, a medios de comunicación comunitarios y estudiantiles.
 
-- Nombrar personal especializado en materia de psicorientación, psicología y trabajo social.
+4. Nombrar personal especializado en materia de psicorientación, psicología y trabajo social.
 
-- Crear estímulos tributarios para las empresas que desarrollen campañas que contribuyan a la formación integral del ser humano.
+5. Crear estímulos tributarios para las empresas que desarrollen campañas que contribuyan a la formación integral del ser humano.
 
-- Creación de una ley estatutaria del derecho a la educación.
+6. Creación de una ley estatutaria del derecho a la educación.
 
 www.plandecenal.edu.co
 
@@ -1527,31 +1560,31 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 42]]
 
-- Implementación de mecanismos de integración interinstitucional y de los entes gubernamentales.
+7. Implementación de mecanismos de integración interinstitucional y de los entes gubernamentales.
 
-- El  Estado  implementará  mecanismos  y  funciones  que  incluyan  a  todos  los  sectores  en  el compromiso para la educación de la convivencia, de la paz y la justicia social.
+8. El Estado implementará mecanismos y funciones que incluyan a todos los sectores en el compromiso para la educación de la convivencia, de la paz y la justicia social.
 
-- Todos  los  entes  territoriales  designan  recursos  de  calidad  educativa  para  el  apoyo  de  los proyectos de educación para la paz, la convivencia y la ciudadanía, además del aprovechamiento del tiempo libre.
+9. Todos los entes territoriales designan recursos de calidad educativa para el apoyo de los proyectos de educación para la paz, la convivencia y la ciudadanía, además del aprovechamiento del tiempo libre.
 
-- El  Ministerio  de  Educación,  las  secretarías  de  educación  y  las  instituciones  educativas  darán cumplimiento a las normas vigentes sobre educación para grupos étnicos, cátedras de estudios afrocolombianos,  de  diversidad  sexual,  religiosa,  cultural  y  políticas  de  manera  vivencial  y experimental con toda la comunidad educativa, y hará seguimiento y acompañamiento a las directivas y orientaciones diseñadas para que se cumpla este propósito.
+10. El Ministerio de Educación, las secretarías de educación y las instituciones educativas darán cumplimiento a las normas vigentes sobre educación para grupos étnicos, cátedras de estudios afrocolombianos, de diversidad sexual, religiosa, cultural y políticas de manera vivencial y experimental con toda la comunidad educativa, y hará seguimiento y acompañamiento a las directivas y orientaciones diseñadas para que se cumpla este propósito.
 
-- Legislar sobre la base de la participación democrática.
+11. Legislar sobre la base de la participación democrática.
 
-- Asignación  de  recursos  a  instituciones  y  organizaciones  para  la  ejecución  de  proyectos  que promuevan la cultura y educación en y para la paz, la convivencia y la ciudadanía.
+12. Asignación de recursos a instituciones y organizaciones para la ejecución de proyectos que promuevan la cultura y educación en y para la paz, la convivencia y la ciudadanía.
 
-- Formular  y  ejecutar  programas,  proyectos  y  otras  acciones  locales,  departamentales  y nacionales que promuevan la educación para la paz, la no-violencia, la convivencia pacífica y el análisis de las realidades en diversos contextos.
+13. Formular y ejecutar programas, proyectos y otras acciones locales, departamentales y nacionales que promuevan la educación para la paz, la no-violencia, la convivencia pacífica y el análisis de las realidades en diversos contextos.
 
-- Crear la Unidad de Etnoeducación Afrocolombiana y Raizal con participación idónea de afros dentro del MEN, avalado por la Comisión Pedagógica.
+14. Crear la Unidad de Etnoeducación Afrocolombiana y Raizal con participación idónea de afros dentro del MEN, avalado por la Comisión Pedagógica.
 
-- Crear  la  Coordinación  de  Etnoeducación  Afrocolombiana  y  Raizal  en  los  entes  territoriales asumidos por los comisionados pedagógicos nacionales y los que ellos designen.
+15. Crear la Coordinación de Etnoeducación Afrocolombiana y Raizal en los entes territoriales asumidos por los comisionados pedagógicos nacionales y los que ellos designen.
 
-- Sensibilización  de  los  funcionarios  públicos  para  asumir  como  compromiso  responsable  la implementación de la etnoeducación afrocolombiana y raizal.
+16. Sensibilización de los funcionarios públicos para asumir como compromiso responsable la implementación de la etnoeducación afrocolombiana y raizal.
 
-- El  Estado  garantizará  el  nombramiento  de  personal  idóneo  para  la  atención  y  resolución  de conflictos  en  todas  las  instituciones  educativas  al  igual  que  para  las  diferentes  áreas  del conocimiento.
+17. El Estado garantizará el nombramiento de personal idóneo para la atención y resolución de conflictos en todas las instituciones educativas al igual que para las diferentes áreas del conocimiento.
 
-- Formular  proyectos  municipales  que  promocionen  y  formen  el  reconocimiento  y  la  solución justa y pacífica de conflictos con la participación estudiantil y ciudadana.
+18. Formular proyectos municipales que promocionen y formen el reconocimiento y la solución justa y pacífica de conflictos con la participación estudiantil y ciudadana.
 
-- Fortalecer  las  escuelas  de  padres  como  espacios  de  formación  en  derechos  humanos, convivencia pacífica, solidaridad y democracia, con el apoyo de las JAC y otras organizaciones.
+19. Fortalecer las escuelas de padres como espacios de formación en derechos humanos, convivencia pacífica, solidaridad y democracia, con el apoyo de las JAC y otras organizaciones.
 
 www.plandecenal.edu.co
 
@@ -1561,13 +1594,17 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 43]]
 
+### III. RENOVACIÓN PEDAGÓGICA DESDE Y USO DE LAS TIC EN LA EDUCACIÓN
+
+#### MACRO OBJETIVOS Y OBJETIVOS
+
 ##### 1. Dotación e infraestructura
 
-Dotar y mantener en todas las instituciones y centros educativos una infraestructura tecnológica informática  y de  conectividad,  con  criterios  de  calidad  y  equidad,  para  apoyar  procesos pedagógicos y de gestión.
+Dotar y mantener en todas las instituciones y centros educativos una infraestructura tecnológica informática y de conectividad, con criterios de calidad y equidad, para apoyar procesos pedagógicos y de gestión.
 
 ###### Objetivos
 
-- Dotar,  fortalecer  y  mantener  en  las  instituciones  y  centros  educativos  infraestructuras tecnológicas  de calidad orientadas al desarrollo y utilización de  redes  informáticas  y conocimiento pedagógico de alta calidad en condiciones de equidad.
+1. Dotar, fortalecer y mantener en las instituciones y centros educativos infraestructuras tecnológicas de calidad orientadas al desarrollo y utilización de redes informáticas y conocimiento pedagógico de alta calidad en condiciones de equidad.
 
 ###### Disensos:
 
@@ -1575,7 +1612,7 @@ Dotar y mantener en todas las instituciones y centros educativos una infraestruc
 
 - La palabra institución educativa incluye todos los tipos de centros educativos.
 
-- Fortalecer  en  las  instituciones  y  centros  educativos  rurales  y  urbanos,  la  infraestructura tecnológica  y  la  conectividad  con  calidad  y  equidad  para  apoyar  procesos  pedagógicos  y  de gestión académica.
+2. Fortalecer en las instituciones y centros educativos rurales y urbanos, la infraestructura tecnológica y la conectividad con calidad y equidad para apoyar procesos pedagógicos y de gestión académica.
 
 ##### 2. Evaluación y estándares de calidad
 
@@ -1591,15 +1628,11 @@ Fortalecer procesos pedagógicos que reconozcan la transversalidad curricular de
 
 ###### Objetivos
 
-- Promover procesos investigativos que propendan por la innovación educativa para darle sentido a las TIC desde una constante construcción de las nuevas formas de ser y de estar del aprendiz.
+1. Promover procesos investigativos que propendan por la innovación educativa para darle sentido a las TIC desde una constante construcción de las nuevas formas de ser y de estar del aprendiz.
 
-- Fortalecer los procesos pedagógicos a través de la mediación de las TIC, en aras de desarrollar las competencias básicas, laborales y profesionales para mejorar la calidad de vida.
+2. Fortalecer los procesos pedagógicos a través de la mediación de las TIC, en aras de desarrollar las competencias básicas, laborales y profesionales para mejorar la calidad de vida.
 
-- Incorporar el uso de las TIC como eje transversal para fortalecer los procesos de enseñanza y aprendizaje en todos los niveles educativos.
-
-### III. RENOVACIÓN PEDAGÓGICA DESDE Y USO DE LAS TIC EN LA EDUCACIÓN
-
-#### MACRO OBJETIVOS Y OBJETIVOS
+3. Incorporar el uso de las TIC como eje transversal para fortalecer los procesos de enseñanza y aprendizaje en todos los niveles educativos.
 
 www.plandecenal.edu.co
 
@@ -1613,7 +1646,7 @@ www.plandecenal.edu.co
 
 Las  TIC  no  se  pueden  usar  como  eje  transversal  que  fortalezca  procesos  de  enseñanza  y aprendizaje, porque son un apoyo para los métodos pedagógicos con los cuales se desarrollan planes y programas dentro de los cuales las TIC simplemente serían un recurso.  Se presentó un debate sobre la inclusión del concepto de transversalidad de las TIC.
 
-- Desarrollar a nivel nacional y territorial programas de apoyo para la aplicación de las TIC que den respuesta a las necesidades institucionales de cada región.
+4. Desarrollar a nivel nacional y territorial programas de apoyo para la aplicación de las TIC que den respuesta a las necesidades institucionales de cada región.
 
 ##### 5. Innovación pedagógica e interacción de los actores educativos
 
@@ -1621,15 +1654,15 @@ Construir  e  implementar  modelos  educativos  y  pedagógicos  innovadores  qu
 
 ###### Objetivos
 
-- Comprender  las  necesidades,  la  diversidad  y  las  características  de  los  actores  educativos haciendo  énfasis  en  el  estudiante  como  punto  de  partida,  fortaleciendo  los  procesos  de aprendizaje y la relación entre estudiantes, familia, docentes y comunidad en general.
+1. Comprender las necesidades, la diversidad y las características de los actores educativos haciendo énfasis en el estudiante como punto de partida, fortaleciendo los procesos de aprendizaje y la relación entre estudiantes, familia, docentes y comunidad en general.
 
-- Impulsar modelos pedagógicos y educativos que respondan de forma dinámica y flexible a las exigencias del ciudadano del siglo XXI, con calidad, inclusivos, contextualizados y articulados con otros modelos y sistemas del país.
+2. Impulsar modelos pedagógicos y educativos que respondan de forma dinámica y flexible a las exigencias del ciudadano del siglo XXI, con calidad, inclusivos, contextualizados y articulados con otros modelos y sistemas del país.
 
-- Promover la construcción de modelos pedagógicos mediados por las TIC en el marco de la etnoeducación  y  las poblaciones vulnerables, respetando  las diversidades culturales y la conservación del medio ambiente.
+3. Promover la construcción de modelos pedagógicos mediados por las TIC en el marco de la etno-educación y las poblaciones vulnerables, respetando las diversidades culturales y la conservación del medio ambiente.
 
-- Potenciar las capacidades creativas de los estudiantes y el uso del tiempo libre, para que sean protagonistas de su propio desarrollo y de su entorno, en y más allá del sistema educativo.
+4. Potenciar las capacidades creativas de los estudiantes y el uso del tiempo libre, para que sean protagonistas de su propio desarrollo y de su entorno, en y más allá del sistema educativo.
 
-- Garantizar una renovación pedagógica fundamentada en  las necesidades, la diversidad y las características del estudiante como sujeto activo, para fortalecer los procesos de aprendizaje y la relación entre estudiantes y docentes.
+5. Garantizar una renovación pedagógica fundamentada en las necesidades, la diversidad y las características del estudiante como sujeto activo, para fortalecer los procesos de aprendizaje y la relación entre estudiantes y docentes.
 
 ##### 6. Fortalecimiento de los proyectos educativos y mecanismos de seguimiento
 
@@ -1637,9 +1670,9 @@ Renovar continuamente y hacer seguimiento a los proyectos educativos institucion
 
 ###### Objetivos
 
-- Implementar procesos de acompañamiento, vigilancia y control para los planes regionales de renovación pedagógica y las TIC, nacionales e institucionales de educación.
+1. Implementar procesos de acompañamiento, vigilancia y control para los planes regionales de renovación pedagógica y las TIC, nacionales e institucionales de educación.
 
-- Rediseñar proyectos educativos institucionales (PEI) y planes educativos municipales (PEM) que incluyan el uso ético y pedagógico de las TIC, permitiendo mejorar los currículos orientados hacia    los  procesos  investigativos,  informativos  y  al  desarrollo  de  inteligencias  cognitivas, sociales y prácticas.
+2. Rediseñar proyectos educativos institucionales (PEI) y planes educativos municipales (PEM) que incluyan el uso ético y pedagógico de las TIC, permitiendo mejorar los currículos orientados hacia los procesos investigativos, informativos y al desarrollo de inteligencias cognitivas, sociales y prácticas.
 
 www.plandecenal.edu.co
 
@@ -1651,11 +1684,11 @@ www.plandecenal.edu.co
 
 ###### Disensos:
 
-Modificar  en  la  redacción  del  anterior  objetivo  los  verbos  al  comienzo,  por  -Rediseñar  e impulsar‖.
+Modificar en la redacción del anterior objetivo los verbos al comienzo, por “Rediseñar e impulsar”.
 
-- Impulsar el mejoramiento continuo de los PEI y los PEM, propiciando el uso de  las TIC como apoyo  a  los  procesos  de  enseñanza  y  aprendizaje  de  manera  transversal,  con  criterios  de calidad, equidad, innovación, pertinencia y emprendimiento para fortalecer la ciudadanía y la competitividad.
+3. Impulsar el mejoramiento continuo de los PEI y los PEM, propiciando el uso de las TIC como apoyo a los procesos de enseñanza y aprendizaje de manera transversal, con criterios de calidad, equidad, innovación, pertinencia y emprendimiento para fortalecer la ciudadanía y la competitividad.
 
-- Desarrollar sentido de comunidad educativa en ambientes presenciales, virtuales o mixtos.
+4. Desarrollar sentido de comunidad educativa en ambientes presenciales, virtuales o mixtos.
 
 ##### 7. Formación inicial y permanente de docentes en el uso de las TIC
 
@@ -1663,11 +1696,11 @@ Transformar la formación inicial y permanente de docentes y directivos para que
 
 ###### Objetivos
 
-- Fortalecer la formación pedagógica de las escuelas normales y facultades de educación para que direccionen el quehacer educativo centrando su labor en el estudiante como sujeto activo, la investigación educativa y el uso de las TIC.
+1. Fortalecer la formación pedagógica de las escuelas normales y facultades de educación para que direccionen el quehacer educativo centrando su labor en el estudiante como sujeto activo, la investigación educativa y el uso de las TIC.
 
-- Implementar programas de formación permanente para el uso apropiado y responsable de las TIC  desde  la  perspectiva  del  desarrollo  humano  en  el  marco  de  la  globalización  para  los docentes y demás actores del sistema educativo.
+2. Implementar programas de formación permanente para el uso apropiado y responsable de las TIC desde la perspectiva del desarrollo humano en el marco de la globalización para los docentes y demás actores del sistema educativo.
 
-- Promover la formación permanente de docentes mediante modelos, planes y programas que desarrollen  la  investigación  y  el  uso  crítico  y  reflexivo  de  las  TIC  para  la  transformación continua de sus prácticas.
+3. Promover la formación permanente de docentes mediante modelos, planes y programas que desarrollen la investigación y el uso crítico y reflexivo de las TIC para la transformación continua de sus prácticas.
 
 #### MACRO METAS Y METAS
 
@@ -1677,11 +1710,11 @@ En  el  2010,  las  instituciones  educativas  han  diseñado  currículos  cole
 
 ###### Metas
 
-- Todas  las  instituciones  educativas  en  su  diseño  curricular  mediado  por  las  TIC  deberán fortalecer  el  arraigo  hacia  su  lugar  de  origen  y  las  estrategias  para  su  retorno  en  mejores condiciones de la población desplazada.
+1. Todas las instituciones educativas en su diseño curricular mediado por las TIC deberán fortalecer el arraigo hacia su lugar de origen y las estrategias para su retorno en mejores condiciones de la población desplazada.
 
-- A partir del 2008 los entes educativos habrán diseñado colectivamente currículos pertinentes, a través de procesos de investigación y la sistematización de experiencias significativas.
+2. A partir del 2008 los entes educativos habrán diseñado colectivamente currículos pertinentes, a través de procesos de investigación y la sistematización de experiencias significativas.
 
-- Rediseñar planes de estudio por núcleos de interés y proyectos que promuevan la calidad de los procesos educativos y la permanencia del estudiante en el sistema.
+3. Rediseñar planes de estudio por núcleos de interés y proyectos que promuevan la calidad de los procesos educativos y la permanencia del estudiante en el sistema.
 
 ##### 2. Innovación pedagógica a partir del estudiante
 
@@ -1697,29 +1730,29 @@ www.plandecenal.edu.co
 
 ###### Metas
 
-- En el 2011, los modelos educativos privilegian el aprendizaje activo de los estudiantes.
+1. En el 2011, los modelos educativos privilegian el aprendizaje activo de los estudiantes.
 
-- Realizar a partir de 2008 innovaciones pedagógicas que tengan en cuenta las características de los estudiantes.
+2. Realizar a partir de 2008 innovaciones pedagógicas que tengan en cuenta las características de los estudiantes.
 
-- En  el  2009,  se  garantiza  la  participación  equitativa  del  estudiante  como  sujeto  activo  y comprometido  en  la  construcción  de  los  procesos  educativos  que  se  desarrollan  en  las instituciones.
+3. En el 2009, se garantiza la participación equitativa del estudiante como sujeto activo y comprometido en la construcción de los procesos educativos que se desarrollan en las instituciones.
 
-- A partir  de  la  promulgación  del  PNDE  se  garantiza  la  participación  equitativa  del  estudiante como sujeto activo y decisivo en la construcción de los procesos educativos que se desarrollan en las instituciones.
+4. A partir de la promulgación del PNDE se garantiza la participación equitativa del estudiante como sujeto activo y decisivo en la construcción de los procesos educativos que se desarrollan en las instituciones.
 
-- Constantemente,  el  país  promueve  innovaciones  pedagógicas  con  el  apoyo  de  las  nuevas tecnologías y teniendo como punto de referencia los contextos específicos para los cuales son diseñadas dichas innovaciones.
+5. Constantemente, el país promueve innovaciones pedagógicas con el apoyo de las nuevas tecnologías y teniendo como punto de referencia los contextos específicos para los cuales son diseñadas dichas innovaciones.
 
 ##### 3. Innovación pedagógica a partir de la investigación
 
-En  el  2010,  todas  las  entidades  territoriales  y  las  institucioneseducativas  conforman  grupos  de investigación para la innovación educativa y pedagógica e incentivan experiencias significativas y redes colaborativas virtuales.
+En el 2010, todas las entidades territoriales y las institucioneseducativas conforman grupos de investigación para la innovación educativa y pedagógica e incentivan experiencias significativas y redes colaborativas virtuales.
 
 ###### Metas
 
-- Incluir  en  los  planes  de  mejoramiento  del  sector  educativo  la  conformación  de  grupos  de investigación  con  la  participación  de  la  comunidad  educativa  sobre  el  conocimiento  de  los intereses, necesidades y diversidades de los estudiantes y su contexto.
+1. Incluir en los planes de mejoramiento del sector educativo la conformación de grupos de investigación con la participación de la comunidad educativa sobre el conocimiento de los intereses, necesidades y diversidades de los estudiantes y su contexto.
 
-- Construir centros pilotos de investigación para la innovación educativa.
+2. Construir centros pilotos de investigación para la innovación educativa.
 
-- En  el  2012  las  entidades  territoriales  habrán  creado  su  semillero  en  investigación  con  la participación de la comunidad educativa, incentivando anualmente las experiencias significativas en el ámbito nacional e internacional.
+3. En el 2012 las entidades territoriales habrán creado su semillero en investigación con la participación de la comunidad educativa, incentivando anualmente las experiencias significativas en el ámbito nacional e internacional.
 
-- En  dos  años  se  integrarán  las  instituciones  locales,  regionales  y  nacionales  en  las  redes colaborativas virtuales que se hayan creado a partir de la participación de toda la comunidad educativa.
+4. En dos años se integrarán las instituciones locales, regionales y nacionales en las redes colaborativas virtuales que se hayan creado a partir de la participación de toda la comunidad educativa.
 
 ##### 4. Fortalecimiento de los procesos lectores y escritores
 
@@ -1727,9 +1760,9 @@ En el 2008, el país cuenta con una política pública de lectura y escritura di
 
 ###### Metas
 
-- En  el  2016  todos  los  municipios,  en  asocio  con  las  instituciones  educativas,  disponen  de  un sistema  de  bibliotecas  con  dotación  de  calidad  y  medios  interactivos  al  servicio  de  su comunidad.
+1. En el 2016 todos los municipios, en asocio con las instituciones educativas, disponen de un sistema de bibliotecas con dotación de calidad y medios interactivos al servicio de su comunidad.
 
-- En el 2008 el MEN ha definido un marco global que reglamenta la formulación de los planes de lectura y escritura integrados a los PEI y a los PEM.
+2. En el 2008 el MEN ha definido un marco global que reglamenta la formulación de los planes de lectura y escritura integrados a los PEI y a los PEM.
 
 www.plandecenal.edu.co
 
@@ -1739,29 +1772,29 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 47]]
 
-- En el 2016 se ha erradicado totalmente el analfabetismo en zonas urbanas y se ha reducido al 2% en las rurales.
+3. En el 2016 se ha erradicado totalmente el analfabetismo en zonas urbanas y se ha reducido al 2% en las rurales.
 
 ##### 5. Fortalecimiento de procesos pedagógicos a través de las TIC
 
-En el 2010 el MEN ha promulgado políticas nacionales tendientes al uso de estrategias didácticas activas  que  faciliten  el  aprendizaje  autónomo,  colaborativo  y  el  pensamiento  crítico  y  creativo mediante el uso de las TIC.
+En el 2010 el MEN ha promulgado políticas nacionales tendientes al uso de estrategias didácticas activas que faciliten el aprendizaje autónomo, colaborativo y el pensamiento crítico y creativo mediante el uso de las TIC.
 
 ###### Metas
 
-- En el 2010 el MEN ha promulgado políticas nacionales tendientes al uso de estrategias didácticas activas que faciliten el aprendizaje autónomo, colaborativo y el pensamiento crítico y creativo mediante  el  uso  de  las  TIC  como  alternativa  pedagógica  de  los  procesos  de  enseñanza  y aprendizaje.
+1. En el 2010 el MEN ha promulgado políticas nacionales tendientes al uso de estrategias didácticas activas que faciliten el aprendizaje autónomo, colaborativo y el pensamiento crítico y creativo mediante el uso de las TIC como alternativa pedagógica de los procesos de enseñanza y aprendizaje.
 
-Todas  las  Instituciones  educativas  han  renovado  sus  proyectos  educativos  en  torno  a  la transformación  de  sus  ambientes  de  aprendizaje  con  el  apoyo  de  las  TIC,  los  cuales  son presentados en redes virtuales educativas.
+Todas las Instituciones educativas han renovado sus proyectos educativos en torno a la transformación de sus ambientes de aprendizaje con el apoyo de las TIC, los cuales son presentados en redes virtuales educativas.
 
-- En  el  2016,  los  distintos  grupos  étnicos  y  poblaciones  vulnerables  cuentan  con  modelos pedagógicos  propios  mediados  por  las  TIC  que  garantizan  la  preservación  de  su  diversidad cultural y la conservación de su medio ambiente.
+2. En el 2016, los distintos grupos étnicos y poblaciones vulnerables cuentan con modelos pedagógicos propios mediados por las TIC que garantizan la preservación de su diversidad cultural y la conservación de su medio ambiente.
 
-- En  el  2016,  el  100%  de  las  instituciones  educativas  y  municipios  han  renovado  sus  proyectos educativos en torno a la transformación de sus ambientes de aprendizaje con apoyo de las TIC, y tendrán bases para hacer uso ético y responsable de las mismas.
+3. En el 2016, el 100% de las instituciones educativas y municipios han renovado sus proyectos educativos en torno a la transformación de sus ambientes de aprendizaje con apoyo de las TIC, y tendrán bases para hacer uso ético y responsable de las mismas.
 
-- Incentivar  e  implementar  el  uso  de  las  TIC  como  estrategia  básica  para  el  desarrollo  de competencias tecnológicas e informáticas aplicables en los diferentes ámbitos educativos.
+4. Incentivar e implementar el uso de las TIC como estrategia básica para el desarrollo de competencias tecnológicas e informáticas aplicables en los diferentes ámbitos educativos.
 
-- En  el  2012,  las  TIC  son  una  herramienta  natural  de  mediación  en  los  procesos  pedagógicos dentro y fuera del aula en la educación.
+5. En el 2012, las TIC son una herramienta natural de mediación en los procesos pedagógicos dentro y fuera del aula en la educación.
 
-- Caracterizar de forma contextualizada para el 2008, en un 100%, las necesidades de renovación pedagógica y uso de las TIC en cada institución educativa.
+6. Caracterizar de forma contextualizada para el 2008, en un 100%, las necesidades de renovación pedagógica y uso de las TIC en cada institución educativa.
 
-- Anualmente  las  instituciones  presentarán  en  redes  educativas  los  proyectos  construidos,  que evidencian el uso transversal de las TIC.
+7. Anualmente las instituciones presentarán en redes educativas los proyectos construidos, que evidencian el uso transversal de las TIC.
 
 ##### 6. Formación inicial y permanente de docentes en el uso de las TIC
 
@@ -1769,9 +1802,9 @@ En las escuelas normales y en las facultades de educación, los programas de for
 
 ###### Metas
 
-- En  el  2012,  el  80%  de  las  escuelas  normales  y  facultades  de  educación  han  implementado ambientes de aprendizaje que promuevan la investigación pedagógica.
+1. En el 2012, el 80% de las escuelas normales y facultades de educación han implementado ambientes de aprendizaje que promuevan la investigación pedagógica.
 
-- En  el  2016,  por  lo  menos  el  80%  de  los  docentes  y  directivos  docentes  están  formados  en enfoques pedagógicos y son competentes en estrategias interactivas, cooperativas y flexibles que permiten un aprendizaje significativo y pertinente.
+2. En el 2016, por lo menos el 80% de los docentes y directivos docentes están formados en enfoques pedagógicos y son competentes en estrategias interactivas, cooperativas y flexibles que permiten un aprendizaje significativo y pertinente.
 
 www.plandecenal.edu.co
 
@@ -1781,37 +1814,37 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 48]]
 
-- En  el  2010,  se  han  caracterizado  las  metas  de  desempeño  docente  (cambio  de  actitud  del docente en torno a la transformación pedagógica con las TIC).
+3. En el 2010, se han caracterizado las metas de desempeño docente (cambio de actitud del docente en torno a la transformación pedagógica con las TIC).
 
-- En el 2008, el MEN ha reglamentado en las escuelas normales y las facultades de educación, en su formación pedagógica, el uso de las TIC como estrategia de educación pedagógica.
+4. En el 2008, el MEN ha reglamentado en las escuelas normales y las facultades de educación, en su formación pedagógica, el uso de las TIC como estrategia de educación pedagógica.
 
 ##### 7. Dotación e infraestructura
 
-Se  ha  facilitado  el  acceso  a  internet  para  toda  la  población  colombiana,  todas  las  instituciones educativas  tienen    acceso  de  calidad,  los  docentes  y  directivos  cuentan  con  sus  computadores personales y existe un computador disponible por cada dos estudiantes.
+Se ha facilitado el acceso a internet para toda la población colombiana, todas las instituciones educativas tienen acceso de calidad, los docentes y directivos cuentan con sus computadores personales y existe un computador disponible por cada dos estudiantes.
 
 ###### Metas
 
-- En el 2016, el 100% de los actores educativos tendrá acceso a los recursos tecnológicos.
+1. En el 2016, el 100% de los actores educativos tendrá acceso a los recursos tecnológicos.
 
-- En el 2012 el personal directivo y docente tiene un computador con acceso a Internet a bajo costo para uso personal.
+2. En el 2012 el personal directivo y docente tiene un computador con acceso a Internet a bajo costo para uso personal.
 
-- En el 2010 se garantiza la facilidad de acceso a Internet para toda la población colombiana.
+3. En el 2010 se garantiza la facilidad de acceso a Internet para toda la población colombiana.
 
-- Garantizar  un  computador  por  cada  dos  estudiantes  con  acceso  a  internet.  y  redes  de  alto rendimiento.
+4. Garantizar un computador por cada dos estudiantes con acceso a internet. y redes de alto rendimiento.
 
-- Para  el  2016,  todas  las  instituciones  y  centros  de  educación  estarán  dotadas  con  equipos, programas y docentes formados para las personas con necesidades educativas especiales.
+5. Para el 2016, todas las instituciones y centros de educación estarán dotadas con equipos, programas y docentes formados para las personas con necesidades educativas especiales.
 
-- A  partir  del  año  2008,  en  cada  período  de  gobierno,  los  planes  educativos  municipales, departamentales y nacionales han aumentado las partidas presupuestales para la dotación de medios tecnológicos en las instituciones y centros de educación, con el fin de desarrollar los proyectos educativos institucionales (PEI).
+6. A partir del año 2008, en cada período de gobierno, los planes educativos municipales, departamentales y nacionales han aumentado las partidas presupuestales para la dotación de medios tecnológicos en las instituciones y centros de educación, con el fin de desarrollar los proyectos educativos institucionales (PEI).
 
-- Se  fomentará  la  participación  en  comunidades  educativas  de  diversa  índole  (sociales,  de aprendizaje, de práctica y de conocimiento) en ambientes presenciales, virtuales o mixtos.
+7. Se fomentará la participación en comunidades educativas de diversa índole (sociales, de aprendizaje, de práctica y de conocimiento) en ambientes presenciales, virtuales o mixtos.
 
 ##### 8. Fortalecimiento de los proyectos educativos y mecanismos de seguimiento
 
-Los  entes  territoriales  desarrollan  programas  de  acompañamiento  y  divulgación  a  la  renovación pedagógica  y uso de las TIC.
+Los entes territoriales desarrollan programas de acompañamiento y divulgación a la renovación pedagógica y uso de las TIC.
 
 ###### Meta
 
-- En  el  2016,  el  100%  de  los  entes  territoriales  desarrollan  programas  de  acompañamiento  y divulgación a la renovación pedagógica  y uso de las TIC.
+1. En el 2016, el 100% de los entes territoriales desarrollan programas de acompañamiento y divulgación a la renovación pedagógica y uso de las TIC.
 
 ##### 9. Estándares y competencias
 
@@ -1827,41 +1860,41 @@ www.plandecenal.edu.co
 
 ###### Metas
 
-- En  el  2008  el  MEN  ha  definido  estándares  y  competencias  básicas  pedagógicas,  didácticas  y técnicas de los docentes frente a las TIC.
+1. En el 2008 el MEN ha definido estándares y competencias básicas pedagógicas, didácticas y técnicas de los docentes frente a las TIC.
 
-- En  el  2009  el  sistema  educativo  nacional  cuenta  con  criterios,  indicadores  y  políticas  que regulen  los  programas  que  incorporan  las  TIC  (modalidad  presencial,  modalidad  virtual  o  su combinación).
+2. En el 2009 el sistema educativo nacional cuenta con criterios, indicadores y políticas que regulen los programas que incorporan las TIC (modalidad presencial, modalidad virtual o su combinación).
 
-- En el 2009 el Ministerio de Educación Nacional ha promulgado los estándares de competencia en uso de las TIC para todos los niveles de educación.
+3. En el 2009 el Ministerio de Educación Nacional ha promulgado los estándares de competencia en uso de las TIC para todos los niveles de educación.
 
 ##### 10. Evaluación
 
-En  el  2009,  se  ha  reglamentado  el  sistema  de  evaluación  y  promoción  de  estudiantes,  para  que responda a metas de calidad, permanencia y cobertura.
+En el 2009, se ha reglamentado el sistema de evaluación y promoción de estudiantes, para que responda a metas de calidad, permanencia y cobertura.
 
 ###### Metas
 
-- En el 2009, se ha reglamentado el sistema de evaluación y promoción de estudiantes, para que responda a metas de calidad, permanencia y cobertura.
+1. En el 2009, se ha reglamentado el sistema de evaluación y promoción de estudiantes, para que responda a metas de calidad, permanencia y cobertura.
 
-Desde  el  2010,  se  aplica  una  prueba  que  evalúa  el  nivel  de  logro  de  los  estándares  de competencias a estudiantes, docentes y directivos docentes en el uso de las TIC.
+Desde el 2010, se aplica una prueba que evalúa el nivel de logro de los estándares de competencias a estudiantes, docentes y directivos docentes en el uso de las TIC.
 
 #### ACCIONES
 
 ##### Innovación pedagógica y currículo
 
-- Fortalecer  el  crecimiento  de  comunidades  de  aprendizaje,  de  práctica  y  de  conocimiento mediante el desarrollo, adecuación o localización de contenidos.
+1. Fortalecer el crecimiento de comunidades de aprendizaje, de práctica y de conocimiento mediante el desarrollo, adecuación o localización de contenidos.
 
-- Definición  de  los  fundamentos  conceptuales  y  epistemológicos  en  los  que  se  enmarca  la inclusión de las TIC como recurso didáctico en los procesos pedagógicos.
+2. Definición de los fundamentos conceptuales y epistemológicos en los que se enmarca la inclusión de las TIC como recurso didáctico en los procesos pedagógicos.
 
 ##### Innovación pedagógica e investigación
 
-- Desarrollo, por parte de los entes territoriales, de investigación de  necesidades  de micro y macro contexto, que transformen los problemas regionales en soluciones reales e implementen procesos de acompañamiento a las instituciones de educación, de acuerdo con los resultados de estas investigaciones.
+1. Desarrollo, por parte de los entes territoriales, de investigación de necesidades de micro y macro contexto, que transformen los problemas regionales en soluciones reales e implementen procesos de acompañamiento a las instituciones de educación, de acuerdo con los resultados de estas investigaciones.
 
-- Crear grupos de investigación articulados en todos los niveles y modalidades de la educación para fomentar los procesos de innovación educativa en la aplicación de las TIC.
+2. Crear grupos de investigación articulados en todos los niveles y modalidades de la educación para fomentar los procesos de innovación educativa en la aplicación de las TIC.
 
-- Crear  los  semilleros  investigativos  en  el  municipio  con  participación  de    las  comunidades educativas con el apoyo del sector productivo.
+3. Crear los semilleros investigativos en el municipio con participación de las comunidades educativas con el apoyo del sector productivo.
 
-- Realizar  y  socializar  los  resultados  de  la  segunda  expedición  pedagógica  y  promover  la sistematización y divulgación de las prácticas pedagógicas de docentes y alumnos.
+4. Realizar y socializar los resultados de la segunda expedición pedagógica y promover la sistematización y divulgación de las prácticas pedagógicas de docentes y alumnos.
 
-- Realizar  innovaciones  pedagógicas  con  el  apoyo  de  las  nuevas  tecnologías,  teniendo  como punto de referencia los contextos específicos para los cuales son diseñados dichas innovaciones.
+5. Realizar innovaciones pedagógicas con el apoyo de las nuevas tecnologías, teniendo como punto de referencia los contextos específicos para los cuales son diseñados dichas innovaciones.
 
 www.plandecenal.edu.co
 
@@ -1873,37 +1906,37 @@ www.plandecenal.edu.co
 
 ##### Innovación pedagógica a partir del estudiante
 
-- Apoyar los eventos e iniciativas propuestos por los estudiantes como una innovación educativa.
+1. Apoyar los eventos e iniciativas propuestos por los estudiantes como una innovación educativa.
 
-- Socializar experiencias innovadoras en el uso de TIC que evidencien la participación activa del estudiante mediante foros educativos presénciales o virtuales de orden local departamental y nacional.
+2. Socializar experiencias innovadoras en el uso de TIC que evidencien la participación activa del estudiante mediante foros educativos presénciales o virtuales de orden local departamental y nacional.
 
-- Se incorporará a los procesos pedagógicos, de forma innovadora, objetos y ambientes virtuales de aprendizaje.
+3. Se incorporará a los procesos pedagógicos, de forma innovadora, objetos y ambientes virtuales de aprendizaje.
 
-- Realizar diagnostico que permita identificar situaciones problemáticas necesidades, intereses, características de la comunidad educativa  con énfasis en los estudiantes
+4. Realizar diagnostico que permita identificar situaciones problemáticas necesidades, intereses, características de la comunidad educativa con énfasis en los estudiantes
 
 ##### Fortalecimiento de los procesos lectores y escritores
 
-- Convocatoria  y  organización  de  la  participación  que  aporte  a  la  elaboración  de  los  marcos legales que reglamentan la formulación de planes de lectura y escritura integrados a los PEI y PEM.
+1. Convocatoria y organización de la participación que aporte a la elaboración de los marcos legales que reglamentan la formulación de planes de lectura y escritura integrados a los PEI y PEM.
 
 ##### Fortalecimiento de procesos pedagógicos a través de las TIC
 
-- Creación de bancos de objetos de aprendizaje virtuales y repositorios de actividades de aula y aprendizajes  altamente  interactivos,  con  una  oferta  de  contenidos  para  todos  los  niveles  y áreas del conocimiento, vinculados al portal educativo de Colombia.
+1. Creación de bancos de objetos de aprendizaje virtuales y repositorios de actividades de aula y aprendizajes altamente interactivos, con una oferta de contenidos para todos los niveles y áreas del conocimiento, vinculados al portal educativo de Colombia.
 
-- Elaboración de un diagnóstico permanente a nivel nacional relacionado con las necesidades de renovación pedagógica y las TIC.
+2. Elaboración de un diagnóstico permanente a nivel nacional relacionado con las necesidades de renovación pedagógica y las TIC.
 
-- Hacer  uso  de  diversidad  de  medios  de  última  generación  para  el  aprendizaje  incluyendo  las TIC.
+3. Hacer uso de diversidad de medios de última generación para el aprendizaje incluyendo las TIC.
 
-- Respetar el derecho de autor en el uso de las TIC que se realiza al interior de las instituciones y centros educativos.
+4. Respetar el derecho de autor en el uso de las TIC que se realiza al interior de las instituciones y centros educativos.
 
-- Implementación y socialización de proyectos colaborativos en todas las instituciones y centros educativos, en las instituciones de educación superior con sus diferentes opciones y modalidades que generen experiencias significativas.
+5. Implementación y socialización de proyectos colaborativos en todas las instituciones y centros educativos, en las instituciones de educación superior con sus diferentes opciones y modalidades que generen experiencias significativas.
 
-- Sistematización y difusión de las experiencias significativas identificadas en la línea de base construida.
+6. Sistematización y difusión de las experiencias significativas identificadas en la línea de base construida.
 
-- Socializar  experiencias  innovadoras  en  el  uso  de  TIC  que  retroalimenten  y  evidencien  la participación activa del docente mediante foros educativos presenciales o virtuales de orden local departamental y nacional.
+7. Socializar experiencias innovadoras en el uso de TIC que retroalimenten y evidencien la participación activa del docente mediante foros educativos presenciales o virtuales de orden local departamental y nacional.
 
-- Promover  encuentros periódicos  presénciales  y  virtuales  a  nivel  regional  y  nacional    para  la divulgación de actividades del uso de la TIC y la innovación educativa.
+8. Promover encuentros periódicos presénciales y virtuales a nivel regional y nacional para la divulgación de actividades del uso de la TIC y la innovación educativa.
 
-- Implementación de mecanismos de acompañamiento para apoyar los procesos de  renovación pedagógica y uso de TIC con calidad y pertinencia, por parte de las entidades de vigilancia de orden  municipal, departamental y nacional.
+9. Implementación de mecanismos de acompañamiento para apoyar los procesos de renovación pedagógica y uso de TIC con calidad y pertinencia, por parte de las entidades de vigilancia de orden municipal, departamental y nacional.
 
 www.plandecenal.edu.co
 
@@ -2013,6 +2046,10 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 54]]
 
+### IV. CIENCIA Y TECNOLOGÍA INTEGRADAS A LA EDUCACIÓN
+
+#### MACRO OBJETIVOS Y OBJETIVOS
+
 ##### 1. Política pública
 
 Implementar  una  política  pública  que  fomente  el  desarrollo  de  la  ciencia,  la  tecnología  y  la innovación entre las diferentes instituciones, niveles educativos y sectores.
@@ -2041,11 +2078,7 @@ Fomentar,  desarrollar  y  fortalecer  de  manera  permanente  una  cultura  de 
 
 - Desarrollar y fortalecer una cultura ciudadana de apropiación, generación y uso del conocimiento, en todos los niveles y formas de la educación, reconociendo su carácter ético y la diversidad de saberes y contextos.
 
-- Fomentar el conocimiento científico y el desarrollo tecnológico, que permita generar, adaptar, transferir  e  innovar  tecnologías  que  impacten  significativamente  sobre  el  desarrollo  social  y
-
-### IV. CIENCIA Y TECNOLOGÍA INTEGRADAS A LA EDUCACIÓN
-
-#### MACRO OBJETIVOS Y OBJETIVOS
+- Fomentar el conocimiento científico y el desarrollo tecnológico, que permita generar, adaptar, transferir e innovar tecnologías que impacten significativamente sobre el desarrollo social y
 
 www.plandecenal.edu.co
 
@@ -2055,19 +2088,11 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 55]]
 
-##### 1. Política pública
-
-Las entidades territoriales cuentan con programas y proyectos que desarrollan la política pública en ciencia, tecnología e innovación.
-
-###### Meta
-
-En  el  2016  el  100%  de  las  entidades  territoriales  contarán  con  programas  y  proyectos  que desarrollen la política pública en ciencia, tecnología e innovación, articuladas al sector educativo, pertinentes al contexto.
-
 económico, como medio para el mejoramiento de la calidad de vida y desarrollo sostenible de las comunidades.
 
 - Construir comunidades de investigación científica, tecnológica y de innovación, a partir de los saberes y la cosmovisión afro colombiana e indígena.
 
-- Preparar al ser humano desde la gestación hacia la construcción de un conocimiento integrad o artístico-científico, tecnológico y de innovación en el contexto de la transculturalidad.
+- Preparar al ser humano desde la gestación hacia la construcción de un conocimiento integrado artístico-científico, tecnológico y de innovación en el contexto de la transculturalidad.
 
 ##### 3. Talento humano
 
@@ -2092,6 +2117,14 @@ Fortalecer la educación técnica y tecnológica.
 - Mejorar el posicionamiento social y laboral de la educación técnica y tecnológica.
 
 #### MACRO METAS Y METAS
+
+##### 1. Política pública
+
+Las entidades territoriales cuentan con programas y proyectos que desarrollan la política pública en ciencia, tecnología e innovación.
+
+###### Meta
+
+En el 2016 el 100% de las entidades territoriales contarán con programas y proyectos que desarrollen la política pública en ciencia, tecnología e innovación, articuladas al sector educativo, pertinentes al contexto.
 
 www.plandecenal.edu.co
 
@@ -2521,11 +2554,11 @@ www.plandecenal.edu.co
 
 ## CAPÍTULO II GARANTÍAS PARA EL CUMPLIMIENTO PLENO DEL DERECHO A LA EDUCACIÓN EN COLOMBIA
 
-- Más y mejor inversión en educación
+V. Más y mejor inversión en educación
 
-- Desarrollo infantil y educación inicial
+VI. Desarrollo infantil y educación inicial
 
-- Equidad, acceso, permanencia y calidad
+VII. Equidad, acceso, permanencia y calidad
 
 VIII. Liderazgo, gestión, transparencia y rendición de cuentas en el sistema educativo
 
@@ -2615,6 +2648,8 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 69]]
 
+#### MACRO METAS Y METAS
+
 ##### 1. Inversión y gestión
 
 En el 2016  los recursos destinados al sector educativo  de  fuentes estatales, privadas e internacionales han crecido progresivamente hasta el 7% del PIB.
@@ -2651,9 +2686,7 @@ En  2016  se  ha  garantizado  el  acceso,  permanencia  y  gratuidad  de  la  e
 
 ###### Metas
 
-- En el 2016 se ha garantizado el acceso, permanencia y gratuidad para los niveles 1, 2 y 3 del Sisben  y  se  ha  fortalecido  la  oferta  pública,  desconcentrándola  y  ofreciendo  programas  de
-
-#### MACRO METAS Y METAS
+- En el 2016 se ha garantizado el acceso, permanencia y gratuidad para los niveles 1, 2 y 3 del Sisben y se ha fortalecido la oferta pública, desconcentrándola y ofreciendo programas de
 
 www.plandecenal.edu.co
 
@@ -2667,11 +2700,11 @@ educación  superior  pertinente  para  las  poblaciones  marginales  urbanas,  
 
 ###### Disenso:
 
--Disenso con la gratuidad total.
+- Disenso con la gratuidad total.
 
--Cambiar -estratos por  niveles‖ del Sisbén.
+- Cambiar “estratos por niveles” del Sisbén.
 
--Con -fortalecido y garantizado‖ (-Garantizado‖ 34 a favor y en contra 7).
+- Con “fortalecido y garantizado” (“Garantizado” 34 a favor y en contra 7).
 
 - En el 2016 la inversión logró una educación más equitativa, incluyente y de calidad, lo cual influye en el mejoramiento de la calidad de vida de los colombianos.
 
@@ -2711,37 +2744,37 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 71]]
 
+- En el 2016 se habrá establecido un sistema que incremente, en términos reales, las transferencias con base en una canasta educativa básica y una complementaria de acuerdo con las necesidades de las poblaciones atendidas.
+
+#### ACCIONES
+
 ##### Inversión y gestión
 
-- Establecer  la  coorresponsabilidad  entre  el  Estado  y  la  empresa  privada,  para  garantizar  el derecho a la educacion en todos los niveles y modalidades.
+- Establecer la coorresponsabilidad entre el Estado y la empresa privada, para garantizar el derecho a la educacion en todos los niveles y modalidades.
 
-- Establecer que la parafiscabilidad del sector educativo se reinvierta en el mismo (las cajas de compensacion familiar invertirán  los  recursos  procedentes  del  sector  educativo  en  el  mismo sector).
+- Establecer que la parafiscabilidad del sector educativo se reinvierta en el mismo (las cajas de compensacion familiar invertirán los recursos procedentes del sector educativo en el mismo sector).
 
 - Explorar nuevas fuentes de crédito con destinación específica para inversión de las universidades estatales con tasas blandas, a través de entidades como Findeter e Icetex.
 
 - Crear las fuentes de financiación con destinación específica, para la atención de poblaciones vulnerables y étnicas.
 
-- Establecer incentivos para el sector productivo y las entidades territoriales para que inviertan en  la  educación  superior,  a  través  de  alianzas  estratégicas,  como  las  relacionadas  en  los centros  regionales  de  educación  CERES  o  directamente  en  las  instituciones  de  educación superior, en particular, las oficiales.
+- Establecer incentivos para el sector productivo y las entidades territoriales para que inviertan en la educación superior, a través de alianzas estratégicas, como las relacionadas en los centros regionales de educación CERES o directamente en las instituciones de educación superior, en particular, las oficiales.
 
 - Asegurar recursos para el acceso y la permanencia, en el sistema escolar, a todos los niños y niñas y jóvenes que lo necesiten, estableciendo programas de gratuidad (alimentación escolar, transporte escolar, distribución gratuita de útiles, textos escolares y subsidios) condicionados a la asistencia y desarrollo educativo.
 
 - Determinar mecanismos y procedimientos para asegurar que el sector productivo retribuya al sector educativo las ayudas que el Estado le ha entregado en periodos de crisis.
 
-- Destinar  un  porcentaje  de  los  excedentes  del  sector  financiero  a  programas  de  calidad educativa de las entidades territoriales.
+- Destinar un porcentaje de los excedentes del sector financiero a programas de calidad educativa de las entidades territoriales.
 
-- Reestructurar las actuales fuentes de financiación nacionales y territoriales para incrementar la  inversión  en  educación  (IVA,  regalías,  entre  otros)  para  programas  de  acceso,  calidad  y cobertura en niveles de preescolar, básica, media y superior.
+- Reestructurar las actuales fuentes de financiación nacionales y territoriales para incrementar la inversión en educación (IVA, regalías, entre otros) para programas de acceso, calidad y cobertura en niveles de preescolar, básica, media y superior.
 
 ##### Inversión en infraestructura, ciencia, tecnología y emprendimiento
 
-- Fortalecer  la  política  de  investigación,  ciencia  y  tecnología  a  través  de  la  asignación  de mayores  recursos, en condiciones de equidad, para las entidades que realicen estas actividades.
+- Fortalecer la política de investigación, ciencia y tecnología a través de la asignación de mayores recursos, en condiciones de equidad, para las entidades que realicen estas actividades.
 
 - Asignar recursos para el desarrollo de competencias investigativas desde la formación básica.
 
 - Fortalecer las alianzas, convenios y procesos de articulación entre el Sena, universidades y las redes de instituciones de educación laboral, para financiar la integración de los establecimientos educativos de educación media académica y técnica al mundo laboral.
-
-- En  el  2016  se  habrá  establecido  un  sistema  que  incremente,  en  términos  reales,  las transferencias con base en una canasta educativa básica y una complementaria de acuerdo con las necesidades de las poblaciones atendidas.
-
-#### ACCIONES
 
 www.plandecenal.edu.co
 
@@ -2916,7 +2949,7 @@ www.plandecenal.edu.co
 
 - Propiciar  una  dinámica  social  con  sentido  de  valoración  por  lo  humano,  necesaria  para reconocer y atender a niños en la primera infancia con necesidades educativas especiales.
 
-##### Calidad:  formación  de  agentes  educativos.  Infraestructura,  dotación,  modalidades  de atención, modelos pedagógicos
+##### 3. Calidad:  formación  de  agentes  educativos.  Infraestructura,  dotación,  modalidades  de atención, modelos pedagógicos
 
 Garantizar  el  cumplimiento  de    requerimientos  básicos  para  la  atención  integral  y  la  educación inicial, en diferentes modalidades de acuerdo con sus contextos y características particulares.
 
@@ -2954,10 +2987,6 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 77]]
 
-##### 1. Universalidad
-
-Al  finalizar  la  legislatura  del  2009  está  reformado  el  inciso  3  del  artículo  67  de  la  Constitución Política:    -El  Estado,  la  sociedad  y  la  familia  son  corresponsables  de  la  educación  que  será
-
 - Diseñar  e  implementar  un  sistema  intersectorial  de  formación,  investigación  pedagógica  y cualificación de docentes y agentes educativos para la educación y la atención integral de la primera infancia, con el fin de posibilitar una educación que contribuya al desarrollo de todas las dimensiones del ser humano.
 
 - Reestructurar  y  fortalecer,  en  las  escuelas  normales  superiores  y  en  las  facultades  de educación, los programas de formación de docentes relacionados con la atención a poblaciones con NEE y a poblaciones vulnerables y con la educación inicial.
@@ -2986,6 +3015,10 @@ La Ley 1098 de 2006 señala la obligatoriedad de asignación de recursos necesar
 
 #### MACRO METAS Y METAS
 
+##### 1. Universalidad
+
+Al  finalizar  la  legislatura  del  2009  está  reformado  el  inciso  3  del  artículo  67  de  la  Constitución Política: “El  Estado,  la  sociedad  y  la  familia  son  corresponsables  de  la  educación  que  será
+
 www.plandecenal.edu.co
 
 77
@@ -2994,9 +3027,9 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 78]]
 
-obligatoria hasta los 17 años  de edad y que comprenderá la educación inicial (0 a 6 años) y 11 grados de la educación básica y media‖.
+obligatoria hasta los 17 años  de edad y que comprenderá la educación inicial (0 a 6 años) y 11 grados de la educación básica y media”.
 
-El articulo 67 de la Constitución, es contradictorio con el artículo 44 de la misma Carta Política y con la Ley 1098 de 2006, pues la educación de los niños y las niñas inicia desde el momento de la gestación.    A  su  vez  el  cumplimiento  de  esta  meta  es  la  que  posibilita  el  cumplimiento  de  los MACRO OBJETIVOS Y OBJETIVOS.
+El artículo 67 de la Constitución, es contradictorio con el artículo 44 de la misma Carta Política y con la Ley 1098 de 2006, pues la educación de los niños y las niñas inicia desde el momento de la gestación.    A  su  vez  el  cumplimiento  de  esta  meta  es  la  que  posibilita  el  cumplimiento  de  los MACRO OBJETIVOS Y OBJETIVOS.
 
 ###### Metas
 
@@ -3154,17 +3187,21 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 82]]
 
+- Los  programa  de  educación  y  atención  integral  para  la  primera  infancia  financiados  por  el Estado  de  manera  oportuna  y  suficiente  de  acuerdo  con  las  condiciones  y  características socioeconómicas territoriales.
+
+#### ACCIONES
+
 ##### Universalidad
 
 - Aumentar la oferta de programas de educación inicial, tanto en la zona urbana como rural. En esta última zona con diversos modelos pertinentes.
 
-###### Disenso :
+###### Disenso:
 
 Se aclara que en la primera acción se debe incluir la atención integral.
 
 - Implementar modalidades de atención integral en entornos familiar, comunitario e institucional,  para  la  atención  de  los  niños  menores  de  cinco  años  de  acuerdo  con  sus características y necesidades.
 
-###### Disenso :
+###### Disenso:
 
 Se aclara que esta acción se debe ampliar hasta los seis años.
 
@@ -3174,9 +3211,9 @@ Se aclara que esta acción se debe ampliar hasta los seis años.
 
 - Elaborar un documento que recoja marco jurídico de todos los sectores, relacionados con la primera infancia.
 
-- Promoción  de  propuestas  ciudadanas  y  gubernamentales  para  incluir  la  obligatoriedad  y gratuidad  de  la  educación  inicial  en  la  Constitución  Política  Colombiana,  la  Ley  General  de Educación, y demás leyes relacionadas‖.
+- Promoción  de  propuestas  ciudadanas  y  gubernamentales  para  incluir  la  obligatoriedad  y gratuidad  de  la  educación  inicial  en  la  Constitución  Política  Colombiana,  la  Ley  General  de Educación, y demás leyes relacionadas”.
 
-- Reformar la Constitución Política, Artículo 67, inciso 3: -El Estado, la sociedad y la familia son corresponsales  de  la  educación  que  será  obligatoria  hasta  los  17  años  de  edad  y  que comprenderá la educación inicial de 0 a 6 años, como parte del desarrollo integral, y 11 grados de la educación básica y media‖.
+- Reformar la Constitución Política, Artículo 67, inciso 3: “El Estado, la sociedad y la familia son corresponsales  de  la  educación  que  será  obligatoria  hasta  los  17  años  de  edad  y  que comprenderá la educación inicial de 0 a 6 años, como parte del desarrollo integral, y 11 grados de la educación básica y media”.
 
 - Contar  con  un  sistema  de  información,  seguimiento  y  evaluación  que  permita  levantar  y actualizar  la  base  de  datos  de  los  niños  de  0  a  6  años  y  que  de  cuenta  de  los  índices  de vulnerabilidad de derechos de los niños de la educación inicial.
 
@@ -3185,10 +3222,6 @@ Se aclara que esta acción se debe ampliar hasta los seis años.
 ##### Corresponsabilidad / Intersectorialidad / Articulación
 
 - Los consejos de política social de cada ente territorial, serán el escenario válido para coordinar la  política  intersectorial  de  inversión,  y  para  la  gestión  de  planes  y  programas  tendientes  a garantizar el pleno desarrollo de los derechos de los niños y las niñas. Tendrán la obligación de conformar las mesas de trabajo por la infancia, como comité técnico con funciones de asesoría
-
-- Los  programa  de  educación  y  atención  integral  para  la  primera  infancia  financiados  por  el Estado  de  manera  oportuna  y  suficiente  de  acuerdo  con  las  condiciones  y  características socioeconómicas territoriales.
-
-#### ACCIONES
 
 www.plandecenal.edu.co
 
@@ -3434,24 +3467,6 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 89]]
 
-##### 1. Sistema educativo
-
-Garantizar  el  100%  de  acceso  a  la  educación  inicial,  básica  y  media  y  por  lo  menos  el  50%  en educación  superior  y  el  20%    de  la  educación  posgradual,  en  términos  de  equidad,  pertinencia, permanencia y calidad.
-
-###### Metas
-
-- Para el 2009, disminuirá la relación técnica  de  los  diferentes  niveles  educativos  así:-  Básica primaria:  25  alumnos/grupo.  Básica  primaria  rural  20  alumnos/grupo.-  Básica  secundaria  y media  académica  urbana:  25  estudiantes/docente.  Básica  secundaria  y  media  rural:  20 estudiantes/grupo.-  Media  técnica  urbana:  20  estudiantes/docente.  Media  técnica  rural:  15 estudiantes/grupo.- Orientadores: 1 por cada 500 estudiantes.- Coordinadores: 1 por cada 400 estudiantes  fracción.  Lo  anterior  teniendo  en  cuenta  el  número  de  los  estudiantes  y  de habitantes de las poblaciones.
-
-- Para  el  2016  el  país  contará  con  un  sistema  de  educación  incluyente  y  articulado  en  sus niveles, ciclos y modalidades de la educación formal, para el trabajo y el desarrollo humano, con actualización permanente mediante un sistema de equivalencias debidamente certificado.
-
-- Para  el  2016  el  sistema  educativo  habrá  incluido  la  formación  en  valores  que  permita  el respeto  por  la  diferencia,  la  convivencia  pacífica  y  la  transformación  de  las  actitudes  ante fenómenos sociales como el desplazamiento.
-
-###### Disenso :
-
-Propongo que se cambie el término valores marcados por elementos religiosos y/o productivos por virtudes.
-
-- Para  el  2010  el  100%  de  las  entidades  territoriales  organizarán  una  oferta  educativa  plural, sustentada en principios de pertinencia, relevancia y flexibilidad.
-
 - Reformular los criterios que establece la actual relación técnica en la educación pública para mejorar la calidad.
 
 ##### 7. Necesidades educativas especiales
@@ -3467,6 +3482,24 @@ Garantizar los apoyos pedagógicos, terapéuticos y tecnológicos para minimizar
 No se evidencia la atención a las personas en extraedad y que constituyen un gran número, sobre todo en el sector rural.
 
 #### MACRO METAS Y METAS
+
+##### 1. Sistema educativo
+
+Garantizar  el  100%  de  acceso  a  la  educación  inicial,  básica  y  media  y  por  lo  menos  el  50%  en educación  superior  y  el  20%    de  la  educación  posgradual,  en  términos  de  equidad,  pertinencia, permanencia y calidad.
+
+###### Metas
+
+- Para el 2009, disminuirá la relación técnica  de  los  diferentes  niveles  educativos  así:-  Básica primaria:  25  alumnos/grupo.  Básica  primaria  rural  20  alumnos/grupo.-  Básica  secundaria  y media  académica  urbana:  25  estudiantes/docente.  Básica  secundaria  y  media  rural:  20 estudiantes/grupo.-  Media  técnica  urbana:  20  estudiantes/docente.  Media  técnica  rural:  15 estudiantes/grupo.- Orientadores: 1 por cada 500 estudiantes.- Coordinadores: 1 por cada 400 estudiantes  fracción.  Lo  anterior  teniendo  en  cuenta  el  número  de  los  estudiantes  y  de habitantes de las poblaciones.
+
+- Para  el  2016  el  país  contará  con  un  sistema  de  educación  incluyente  y  articulado  en  sus niveles, ciclos y modalidades de la educación formal, para el trabajo y el desarrollo humano, con actualización permanente mediante un sistema de equivalencias debidamente certificado.
+
+- Para  el  2016  el  sistema  educativo  habrá  incluido  la  formación  en  valores  que  permita  el respeto  por  la  diferencia,  la  convivencia  pacífica  y  la  transformación  de  las  actitudes  ante fenómenos sociales como el desplazamiento.
+
+###### Disenso:
+
+Propongo que se cambie el término valores marcados por elementos religiosos y/o productivos por virtudes.
+
+- Para  el  2010  el  100%  de  las  entidades  territoriales  organizarán  una  oferta  educativa  plural, sustentada en principios de pertinencia, relevancia y flexibilidad.
 
 www.plandecenal.edu.co
 
@@ -3592,20 +3625,6 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 93]]
 
-##### Acceso, cobertura y permanencia
-
-- Ampliar  la  cobertura    y  subsidios    para  estratos  1,  2  y  3  condicionados  a  la  asistencia  y desempeño    educativo  que  garantice  el  acceso  y  permanencia  de  todos  los  niños,  niñas  y jóvenes al sistema educativo.
-
-- Establecer  los  parámetros  legales  para  la  creación  y  ejecución  de  un  sistema  de  créditos condonables en un 100% y subsidios entre el ICETEX y las instituciones de educación superior, dirigido a las poblaciones vulnerables.
-
-- Establecer  los  parámetros  legales  para  la  creación  y  ejecución  de  un  sistema  de  créditos condonables en un 100% y subsidios entre el ICETEX y las instituciones de educación superior, dirigido a la población con necesidades educativas.
-
-- Ampliar la cobertura, gratuidad y obligatoriedad hasta la educación media para los niveles del Sisben 1, 2, 3 condicionados a la asistencia y el desempeño educativo.
-
-- Ampliar  los  subsidios,  becas,  incentivos  y    convenios  con  el  sector  productivo,  que  estén condicionados al desempeño escolar; dirigidos a estratos 1, 2, y 3 en zonas rurales y urbanas, a minorías étnicas, desplazados y personas con necesidades educativas especiales para su acceso y permanencia en la educación superior; garantizando su divulgación e información oportuna.
-
-- Aumentar la oferta y la calidad de la educación superior a zonas rurales y regiones apartadas mediante  alianzas  inter-institucionales  como  los  centros  regionales  de  educación  superior CERES.
-
 - El  sistema  público  educativo  contará  con  programas  de  formación  permanente  para  que  los docentes en ejercicio, y quienes ingresen al sistema, cuenten con los conocimientos necesarios para  la  atención  de  las  personas  con  necesidades  especiales  en  todas  los  niveles  de  la educación, generen y participen en procesos investigativos que beneficien la atención a esta población.
 
 - Las personas con multidéficit contarán con programas especiales en los que serán atendidas, en coordinación con las entidades del sector de la salud y los demás sectores, en la medida de sus condiciones y características particulares.
@@ -3619,6 +3638,20 @@ www.plandecenal.edu.co
 - Durante los próximos diez años se fortalecerán los  currículos de etnoeducación en todas  las instituciones  educativas,  para  tener  presentes  los  aportes  de  los  grupos  étnicos  y  dar cumplimiento constitucional a la cátedra de estudios afrocolombianos, en aras del reconocimiento a la diversidad cultural y étnica.
 
 #### ACCIONES
+
+##### Acceso, cobertura y permanencia
+
+- Ampliar  la  cobertura    y  subsidios    para  estratos  1,  2  y  3  condicionados  a  la  asistencia  y desempeño    educativo  que  garantice  el  acceso  y  permanencia  de  todos  los  niños,  niñas  y jóvenes al sistema educativo.
+
+- Establecer  los  parámetros  legales  para  la  creación  y  ejecución  de  un  sistema  de  créditos condonables en un 100% y subsidios entre el ICETEX y las instituciones de educación superior, dirigido a las poblaciones vulnerables.
+
+- Establecer  los  parámetros  legales  para  la  creación  y  ejecución  de  un  sistema  de  créditos condonables en un 100% y subsidios entre el ICETEX y las instituciones de educación superior, dirigido a la población con necesidades educativas.
+
+- Ampliar la cobertura, gratuidad y obligatoriedad hasta la educación media para los niveles del Sisben 1, 2, 3 condicionados a la asistencia y el desempeño educativo.
+
+- Ampliar  los  subsidios,  becas,  incentivos  y    convenios  con  el  sector  productivo,  que  estén condicionados al desempeño escolar; dirigidos a estratos 1, 2, y 3 en zonas rurales y urbanas, a minorías étnicas, desplazados y personas con necesidades educativas especiales para su acceso y permanencia en la educación superior; garantizando su divulgación e información oportuna.
+
+- Aumentar la oferta y la calidad de la educación superior a zonas rurales y regiones apartadas mediante  alianzas  inter-institucionales  como  los  centros  regionales  de  educación  superior CERES.
 
 www.plandecenal.edu.co
 
@@ -3870,6 +3903,10 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 100]]
 
+### VIII LIDERAZGO, GESTIÓN, TRANSPARENCIA Y RENDICIÓN DE CUENTAS EN EL SISTEMA EDUCATIVO
+
+#### MACRO OBJETIVOS Y OBJETIVOS
+
 ##### 1. Liderazgo
 
 Garantizar procesos de formación para la gestión, el liderazgo y la participación en la construcción de políticas públicas educativas.
@@ -3897,10 +3934,6 @@ No se establecen quiénes son los responsables de planear, no solo los docentes,
 ##### 2. Gestión
 
 Desarrollar procesos para el fortalecimiento de la articulación intersectorial, aseguramiento de la calidad y consolidación de la gestión educativa.
-
-### VIII LIDERAZGO, GESTIÓN, TRANSPARENCIA Y RENDICIÓN DE CUENTAS EN EL SISTEMA EDUCATIVO
-
-#### MACRO OBJETIVOS Y OBJETIVOS
 
 www.plandecenal.edu.co
 
@@ -3950,10 +3983,6 @@ www.plandecenal.edu.co
 
 [[START OF PAGE 102]]
 
-##### 1. Liderazgo
-
-En el sistema educativo, al 2016, se ha incrementado porcentual y significativamente la formación en gestión, liderazgo y participación, así como la construcción de políticas educativas.
-
 - Implementar  mecanismos  institucionales  adecuados  de  inducción,  selección,  formación  y evaluación del desempeño de los responsables de la educación.
 
 - Desarrollar  la  cultura  de  la  investigación  evaluativa,  como  forma  de  conocer,  realizar  y controlar la gestión del sector y de las instituciones educativas, con sentido de pertinencia y de inclusión para los diferentes sectores sociales.
@@ -3983,6 +4012,10 @@ Desarrollar  procesos  de  transparencia  que incrementen mecanismos de control,
 - Lograr  que  el  sector  educativo  se  mantenga  por  fuera  de  la  manipulación  política  y  de  la injerencia de intereses particulares.
 
 #### MACRO METAS Y METAS
+
+##### 1. Liderazgo
+
+En el sistema educativo, al 2016, se ha incrementado porcentual y significativamente la formación en gestión, liderazgo y participación, así como la construcción de políticas educativas.
 
 www.plandecenal.edu.co
 
@@ -4432,9 +4465,9 @@ www.plandecenal.edu.co
 
 ## CAPÍTULO III AGENTES EDUCATIVOS
 
-- Desarrollo profesional, dignificación y formación de docentes y directivos docentes.
+IX. Desarrollo profesional, dignificación y formación de docentes y directivos docentes.
 
-- Otros  actores  en  y  más  allá  del  sistema educativo
+X. Otros  actores  en  y  más  allá  del  sistema educativo
 
 www.plandecenal.edu.co
 
@@ -4443,6 +4476,10 @@ www.plandecenal.edu.co
 [[END OF PAGE 114]]
 
 [[START OF PAGE 115]]
+
+### IX FORMACIÓN, DESARROLLO PROFESIONAL Y DIGNIFICACIÓN DE LOS Y LAS DOCENTES Y DIRECTIVOS DOCENTES
+
+#### MACRO OBJETIVOS Y OBJETIVOS
 
 ##### 1. Identidad
 
@@ -4469,10 +4506,6 @@ Articular  los  niveles  de  formación  inicial,  pregrado,  posgrado  y  la  f
 ###### Objetivo
 
 - Crear  concertadamente  un  sistema  nacional  de  formación,  cualificación  y  promoción  de estímulos para docentes y directivos docentes,  que  articule  los niveles de formación inicial, pregrado y posgrado, cuyos ejes esenciales sean la investigación, la innovación, la pedagogía y la didáctica.
-
-### IX FORMACIÓN, DESARROLLO PROFESIONAL Y DIGNIFICACIÓN DE LOS Y LAS DOCENTES Y DIRECTIVOS DOCENTES
-
-#### MACRO OBJETIVOS Y OBJETIVOS
 
 www.plandecenal.edu.co
 
@@ -4666,11 +4699,11 @@ www.plandecenal.edu.co
 
 ###### Disensos:
 
-No debe redactarse en términos de -crear un estatuto único‖ por las siguientes razones:
+No debe redactarse en términos de ―crear un estatuto único‖ por las siguientes razones:
 
 La Corte Constitucional se ha pronunciado en el sentido del señalar que los indígenas deberán tener un estatuto específico que atienda sus particularidades culturales.
 
-Los  docentes  cobijados  por  el  Decreto  2277  no  pueden  verse  afectados  por  la  pérdida  de derechos. Un cambio en el estatuto plantearía una -diferencia‖ con estos docentes, luego no podría, por un tiempo, ser estatuto único.
+Los  docentes  cobijados  por  el  Decreto  2277  no  pueden  verse  afectados  por  la  pérdida  de derechos. Un cambio en el estatuto plantearía una ―diferencia‖ con estos docentes, luego no podría, por un tiempo, ser estatuto único.
 
 Puede  plantearse  el  objetivo  en  términos  de  revisar  y  ajustar  el  Decreto  Ley  1278/2002  de manera que defina un sistema de estímulos e incentivos para los educadores, revisar el sistema salarial y brindar posibilidades de apoyar el desarrollo profesional docente.
 
@@ -4880,7 +4913,7 @@ Diseñar e implementar estrategias y mecanismos que garanticen el cumplimiento d
 
 - Desarrollar e implementar mecanismos de cooperación con los sectores y actores sociales para el fomento, producción y difusión de contenidos científicos, culturales, educativos, ambientales,  entre  otros,  que  permitan  el  uso  y  apropiación  pedagógica  y  educativa  de  los medios de comunicación y las TIC.
 
-##### Fortalecimiento de la educación en y desde de los espacios culturales, sociales, políticos y naturales
+##### 5. Fortalecimiento de la educación en y desde de los espacios culturales, sociales, políticos y naturales
 
 Diseñar  estrategias  que  articulen  y  fortalezcan  los  espacios  culturales,  sociales,  políticos  y naturales para que incidan en la educación de los colombianos y colombianas.
 
@@ -4930,7 +4963,7 @@ La  familia  se  ha  constituido  en  el  actor  prioritario  del  desarrollo  p
 
 ##### 2. Mecanismos de participación del sector productivo y solidario
 
-Se  ha  garantizado  el  acceso  a  una  formación  técnica,  tecnológica,  profesional,  con  calidad  y pertinencia,  que  propenda  por  el  desarrollo  humano  y  la  formación  para  el  trabajo,  donde  se articulen las necesidades y expectativas de los sectores educativo, productivo, solidario y los entes territoriales.
+Se  ha  garantizado  el  acceso  a  una  formación  técnica,  tecnológica,  profesional,  con  calidad  y pertinencia,  que  propenda  por  el  desarrollo  humano  y  la  formación  para  el  trabajo,  donde  se
 
 www.plandecenal.edu.co
 
@@ -4939,6 +4972,8 @@ www.plandecenal.edu.co
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
+
+articulen las necesidades y expectativas de los sectores educativo, productivo, solidario y los entes territoriales.
 
 Los  establecimientos  educativos  fomentan  un  pensamiento  empresarial  individual  y  cooperativo que se integra a la realidad local, regional, nacional y global.
 
@@ -5068,7 +5103,7 @@ www.plandecenal.edu.co
 
 ###### Disenso :
 
-Las  variadas  menciones  en  singular  que  se  hacen  en  el  Plan  Decenal  a  -la  familia‖,  pueden hacer pensar que la articulación entre las instituciones de educación y ésta se dirige solamente a un módulo de familia nuclear. Esto desconoce la variedad de sistemas familiares que existen en el país, por lo que resultaría pertinente sustituir la expresión -la familia‖ por -las familias‖ o hablar, en cambio, de núcleos familiares.
+Las  variadas  menciones  en  singular  que  se  hacen  en  el  Plan  Decenal  a  “la  familia”,  pueden hacer pensar que la articulación entre las instituciones de educación y ésta se dirige solamente a un módulo de familia nuclear. Esto desconoce la variedad de sistemas familiares que existen en el país, por lo que resultaría pertinente sustituir la expresión “la familia” por “las familias” o hablar, en cambio, de núcleos familiares.
 
 ##### Mecanismos de participación del sector productivo y solidario
 
@@ -5076,7 +5111,7 @@ Las  variadas  menciones  en  singular  que  se  hacen  en  el  Plan  Decenal  a
 
 - Construir  propuestas  educativas  que  permitan  el  trabajo  colaborativo  y  cooperativo  y  que ayuden a construir y fortalecer circuitos empresariales.
 
-- Lograr  el  compromiso  de  los  diferentes  actores  (sector  educativo,    sector  productivo,  entre otros)  para  complementar  las  herramientas,  -Observatorio  Laboral‖,  con  la  información  que demanda, convirtiéndose en un sistema dinámico de información y planeación.
+- Lograr  el  compromiso  de  los  diferentes  actores  (sector  educativo,    sector  productivo,  entre otros)  para  complementar  las  herramientas,  “Observatorio  Laboral”,  con  la  información  que demanda, convirtiéndose en un sistema dinámico de información y planeación.
 
 - Ofertar a los otros sectores los espacios del sector productivo para las prácticas educativas, ambientales y culturales.
 
@@ -5272,7 +5307,7 @@ Los elegidos serán las dos (2) personas de mayor votación y en ningún caso co
 
 En caso de renuncia o retiro forzoso de alguno de los comisionados, éste será  reemplazado por quien  le  haya  seguido  en  número  de  votos  de  la  respectiva  mesa,  respetándose  el  criterio enfatizado.
 
-La  constitución de la Comisión Nacional tiene como límite el día viernes 3O de noviembre de 2007.
+La  constitución de la Comisión Nacional tiene como límite el día viernes 30 de noviembre de 2007.
 
 Las  personas  de  cada  mesa,  que  aspiren  a  ser  elegidas  a  participar  activamente  en  la  Comisión Nacional  de  Seguimiento  al  PNDE,  deben  de  postularse  e  inscribirse  personalmente  en  la plataforma virtual del PNDE.
 
