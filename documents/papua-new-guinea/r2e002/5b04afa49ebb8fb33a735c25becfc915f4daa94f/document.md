@@ -2,7 +2,11 @@
 
 # Achieving a better future
 
-A NATIONAL PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION
+2005 - 2014
+
+Papua New Guinea
+Department of Education
 
 [[END OF PAGE 1]]
 
@@ -18,7 +22,14 @@ ISBN 9980 - 85 - 448 - 0 National Library Service of Papua New Guinea
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+# Achieving a Better Future
+
+A National Plan For Education
+
+2005 to 2014
+
+Papua New Guinea
+Department of Education
 
 [[END OF PAGE 3]]
 
@@ -34,23 +45,23 @@ ISBN 9980 - 85 - 448 - 0 National Library Service of Papua New Guinea
 
 The National Education Plan, 2005 to 2014, was formulated with the support and commitment of many individuals.
 
-The National Education Plan Steering Committee is acknowledged for the efforts that it has made in discussing the outcomes, strategies and activities required to achieve government objectives in education. The Committee, under the chairmanship of Sir Barry Holloway, consisted of the following: Dr. William T agis - Deputy Chairman (Office of Higher Education), Dr. Isaac Ake, ISO, (Department of Health), Mr. David Conn, MBE, (Port Moresby Chamber of Commerce), Mr. Wayne Golding (Manufacturers Association), Mr. Martin Kase (Department of Labour and Industrial Relations), Mr. Andrew Kavana (UPNG), Mr. Jerry Kuhena (T eaching Services Commission), Mr. Mathias Lasia (Department of National Planning and Rural Development), Rev. Samson Lowa (Churches representative), Mr. John Maru (Department of Community Development), Mr. Peter Mays (Private Education), Mr. Alfred Mokae and Ms. Nancy Lelang (Department of Treasury), Mr. Paul Namono (Department of Oro), Mr. Damien Rapese and Mr. Luke Taita (Department of Education), and Mr. Chris Warrillow (Community).
+The National Education Plan Steering Committee is acknowledged for the efforts that it has made in discussing the outcomes, strategies and activities required to achieve government objectives in education. The Committee, under the chairmanship of Sir Barry Holloway, consisted of the following: Dr. William Tagis – Deputy Chairman (Office of Higher Education), Dr. Isaac Ake, ISO, (Department of Health), Mr. David Conn, MBE, (Port Moresby Chamber of Commerce), Mr. Wayne Golding (Manufacturers Association), Mr. Martin Kase (Department of Labour and Industrial Relations), Mr. Andrew Kavana (UPNG), Mr. Jerry Kuhena (Teaching Services Commission), Mr. Mathias Lasia (Department of National Planning and Rural Development), Rev. Samson Lowa (Churches representative), Mr. John Maru (Department of Community Development), Mr. Peter Mays (Private Education), Mr. Alfred Mokae and Ms. Nancy Lelang (Department of Treasury), Mr. Paul Namono (Department of Oro), Mr. Damien Rapese and Mr. Luke Taita (Department of Education), and Mr. Chris Warrillow (Community).
 
 Two sub committees were formed to support the working of the Steering Committee. The Vocational Education sub committee was chaired by Mr. Martin Kase and consisted of the following: Mr. David Conn, Mr. John Maru, Mr. Wolfgang Kubitzki (Employment Orientated Skills Development Project), Dr. Rob Crittenden (Community Development Scheme), Messrs. Lasa Karepa and Wini Leka, and Ms. Wali Bai (Department of Education). The Distance Education sub committee was chaired Dr. William Tagis and comprised the following: Mr. Jerry Kuhena, Mr. Paraka Pena (University of Papua New Guinea Open College), Messrs. John Paul, Demas Tongogo and William Gari (College of Distance Education), Mr. Ouka Lavaki and Mr. Uke Kombra (Department of Education).
 
-The contributions of the late Mr. Geno Roaikeina, OBE, and the late Mr. T amarua Miria are especially acknowledged. These two men played an important role in the early stages of the development of the Plan.
+The contributions of the late Mr. Geno Roaikeina, OBE, and the late Mr. Tamarua Miria are especially acknowledged. These two men played an important role in the early stages of the development of the Plan.
 
-The Steering Committee has been supported in its work by the Planning T eam from the Department of Education. This team was led by Mr. Pala Wari and consisted of Mr. Uke Kombra, Mr. John Josephs, Mr. Conrad Esoke, Ms. Wali Bai and Mr. Simon Cholai. The Planning T eam has been supported throughout by Ms. Christine T omokita, Mr. Agi Tavu and Mr. Kasi Kakaito.
+The Steering Committee has been supported in its work by the Planning Team from the Department of Education. This team was led by Mr. Pala Wari and consisted of Mr. Uke Kombra, Mr. John Josephs, Mr. Conrad Esoke, Ms. Wali Bai and Mr. Simon Cholai. The Planning Team has been supported throughout by Ms. Christine Tomokita, Mr. Agi Tavu and Mr. Kasi Kakaito.
 
 Many others have contributed during what has been an extensive consultative process. More than 800 people participated in the provincial consultations and the other forums that have been held. All provincial education advisers and education chairmen are thanked for their contributions at the combined conference held in Madang in July, 2004.
 
-The National Education Board, under the Chairmanship of Mr. Peter Baki, CBE, is recognised for the leadership that it has shown at all stages during the preparation of this plan. The Department of Education, the T op Management T eam and the Secretary's Staff Meeting members are acknowledged for the regular inputs that they have made.
+The National Education Board, under the Chairmanship of Mr. Peter Baki, CBE, is recognised for the leadership that it has shown at all stages during the preparation of this plan. The Department of Education, the Top Management Team and the Secretary’s Staff Meeting members are acknowledged for the regular inputs that they have made.
 
 The preparation of this Plan was supported by the Australian Government through the Education Capacity Building Program and the Advisory Support Facility.
 
 To the many individuals and organisations who have been involved in one way or another, you are thanked for your support and cooperation.
 
-ANATIONALPLAN FOR EDUCATION
+A NATIONAL PLAN FOR EDUCATION
 
 i
 
@@ -60,7 +71,46 @@ i
 
 ## NATIONAL EDUCATION PLAN - 2005 TO 2014
 
-ANATIONALPLAN FOR EDUCATION
+Acknowledgments i
+Contents ii
+List of Tables iii
+Minister’s Message v
+Foreword vi
+Section 1: Introduction 1
+The Context of the Plan 3
+Overview of the Plan 9
+Organisation of the Plan 12
+Section 2: Our vision 2005-2014 15
+Section 3: Situational analysis 21
+Summary 23
+Basic Education
+Elementary education 27
+Primary education 28
+Post-Primary Education
+Secondary education 31
+Flexible, open and distance education 33
+Vocational education 34
+Technical education and training 36
+Administration of Education
+Administration of education 37
+Section 4: The plan for education 2005-2014 41
+Basic Education
+Elementary education 45
+Primary education 51
+Post-Primary Education
+Secondary education 63
+Flexible, open and distance education 70
+Vocational education 74
+Technical education and training 82
+Administration of Education
+Administration of education 89
+Section 5: Implementing the plan 97
+Implementation timeline 99
+Section 6: Financing the plan 111
+Section 7: Monitoring and evaluating the plan 121
+References 132
+
+A NATIONAL PLAN FOR EDUCATION
 
 ii
 
@@ -70,7 +120,40 @@ ii
 
 ## LIST OF TABLES
 
-ANATIONALPLAN FOR EDUCATION
+Table 1: School age population by age, 2005 to 2014, selected years 9
+Table 2: Lower and upper primary teaching subjects 30
+Table 3: Projected elementary school enrolments, 2005 to 2014, selected years 45
+Table 4: New elementary preparatory classes required, 2005 to 2014, selected years 45
+Table 5: Preparatory enrolment and 6-year old population, 2005 to 2014, selected years 45
+Table 6: Elementary school teacher requirements, 2005 to 2014, selected years 46
+Table 7: Elementary enrolment rates, 2005 to 2014, selected years 46
+Table 8: Projected number of new elementary teachers required for training, 2005 to 2014, selected years 48
+Table 9: Elementary school subsidies (K’000s), 2005 to 2014, selected years 49
+Table 10: Elementary school teacher salaries and emoluments (K’000s), 2005 to 2014, selected years 49
+Table 11: Projected primary school enrolments, 2005 to 2014, selected years 52
+Table 12: Primary school retention rates, 2005 to 2014, selected years 52
+Table 13: Primary school enrolment rates, 2005 to 2014, selected years 52
+Table 14: Grade 8 enrolment and the 14-year old population, 2005 to 2014, selected years 52
+Table 15: New Grade 7 classes required to meet targets, 2005 to 2014, selected years 53
+Table 16: Primary school teacher requirements, 2005 to 2014, selected years 53
+Table 17: Primary school teacher college intakes, 2005 to 2014, selected years 56
+Table 18: Primary school subsidies by grade (K’000s), 2005 to 2014, selected years 58
+Table 19: Primary school teacher salaries and emoluments (K’000s), 2005 to 2014, selected years 58
+Table 20: Projected secondary school enrolments, 2005 to 2014, selected years 64
+Table 21: Grade 9 enrolment and the 15-year old population, 2005 to 2014, selected years 64
+Table 22: Grade 11 enrolment and the 17-year old population, 2005 to 2014, selected years 64
+Table 23: New secondary school classes required, 2005 to 2014, selected years 64
+Table 24: Secondary transition rates, 2005 to 2014, selected years 65
+Table 25: Secondary enrolment rates, 2005 to 2014, selected years 65
+Table 26: Secondary school staffing requirements, 2005 to 2014, selected years 65
+Table 27: Projected secondary school teacher training requirements, 2005 to 2014, selected years 68
+Table 28: Secondary school subsidies (K’000s), 2005 to 2014, selected years 68
+Table 29: Secondary school teacher salary and emolument costs (K’000s), 2005 to 2014, selected years 69
+Table 30: Projected distance education college enrolment, 2005 to 2014, selected years 70
+Table 31: Range of programs offered by vocational centres 75
+Table 32: Projected full-time equivalent vocational centre enrolments, 2005 to 2014, selected years 76
+
+A NATIONAL PLAN FOR EDUCATION
 
 iii
 
@@ -78,7 +161,33 @@ iii
 
 [[START OF PAGE 8]]
 
-ANATIONALPLAN FOR EDUCATION
+Table 33: Projected transition rates from primary school to vocational institutions and enrolment rates, 2005 to 2014, selected years 76
+Table 34: Vocational centre staffing requirements, 2005 to 2014, selected years 78
+Table 35: Vocational centre subsidies (K’000s), 2005 to 2014, selected years 80
+Table 36: Vocational centre instructor salaries and emoluments (K’000s), 2005 .. to 2014, selected years 80
+Table 37: Projected full-time equivalent enrolments, 2005 to 2014, selected years 82
+Table 38: Projected Technical College staffing by status, 2005 to 2014, selected years 84
+Table 39: Teacher deployment cost-effectiveness savings by sector (K’000s), 2005 to 2014, selected years 114
+Table 40: Total projected teacher emoluments by level (K’000s), 2005 to 2014, selected years 114
+Table 41: Projected teacher emolument cost per student by level, 2005 to 2014, selected years (K) 115
+Table 42: Total projected teacher emoluments by sector (K’000s), 2005 to 2014, selected years 115
+Table 43: Projected subsidy requirements by type, 2005 to 2014, selected years 116
+Table 44: Percentage subsidy allocations by type (K’000s), 2005 to 2014, selected years 116
+Table 45: Percentage subsidy allocations by sector, 2005 to 2014, selected years 116
+Table 46: Department of Education divisional costs by expenditure category (K’000s), 2005 to 2014, selected years 117
+Table 47: Percentage Department of Education costs by expenditure category, 2005 to 2014, selected years 117
+Table 48: Department of Education costs by sector (K’000s), 2005 to 2014, selected years 117
+Table 49: National Government costs (K’000s), 2005 to 2014, selected years 117
+Table 50: Percentage National Government costs, 2005 to 2014, selected years 118
+Table 51: Total National Government costs by sector (K’000s), 2005 to 2014, selected years 118
+Table 52: National Government percentage costs by sector, 2005 to 2014, selected years 118
+Table 53: Provincial government costs by sector (K’000s), 2005 to 2014, selected years 118
+Table 54: Local level government costs by sector (K’000s), 2005 to 2014, selected years 119
+Table 55: Total costs to government (K’000s), 2005 to 2014, selected years 119
+Table 56: Total costs to government by sector (K’000s), 2005 to 2014, selected years 119
+Table 57: Projected parental contributions by sector (K’000s), 2005 to 2014, selected years 120
+
+A NATIONAL PLAN FOR EDUCATION
 
 iv
 
@@ -90,15 +199,15 @@ iv
 
 It gives me great pleasure to introduce this Plan to you. Children are the focus of our work in the education system. Parents with the support of the community, teachers and agencies strive to provide a better future for our children. From the outset I commend all those parents, communities, teachers and agencies who have contributed so much to the education system in our country. Without your continued support this Plan will not succeed.
 
-The National Education Plan, 2005 to 2014, serves as a road map for education in Papua New Guinea and, as the title suggests, it points the way towards Achieving a Better Future . The prime objective of this Plan is to provide a basic education for all. This will mean that all of our people will be literate and numerate and be able to contribute towards an improved quality of life in their communities. This will lead to a better future for all. The Plan will also give the opportunity of further education or training for all completing nine years of basic education.
+The National Education Plan, 2005 to 2014, serves as a road map for education in Papua New Guinea and, as the title suggests, it points the way towards Achieving a Better Future. The prime objective of this Plan is to provide a basic education for all. This will mean that all of our people will be literate and numerate and be able to contribute towards an improved quality of life in their communities. This will lead to a better future for all. The Plan will also give the opportunity of further education or training for all completing nine years of basic education.
 
-Since independence our country has made enormous progress in achieving government education objectives. Much has been achieved as a consequence of the National Education Plan 1995-2004 . However, there is still much to be done to reach our targets, many of which we are obligated to achieve internationally. I believe that this Plan will help us to do this. The implementation of this Plan is achievable but will be demanding and will require the support and the commitment of all stakeholders. Traditionally, parents and communities have had the responsibility for the maintenance and upkeep of their schools. This must continue with the support of their elected representatives. It is critical that local-level governments are adequately funded in order to discharge their responsibilities in relation to basic education infrastructure and maintenance. Individual members of parliament must understand the priorities of government with respect to education. All of us must commit ourselves to providing a basic education for all of the children in our electorates.
+Since independence our country has made enormous progress in achieving government education objectives. Much has been achieved as a consequence of the National Education Plan 1995-2004. However, there is still much to be done to reach our targets, many of which we are obligated to achieve internationally. I believe that this Plan will help us to do this. The implementation of this Plan is achievable but will be demanding and will require the support and the commitment of all stakeholders. Traditionally, parents and communities have had the responsibility for the maintenance and upkeep of their schools. This must continue with the support of their elected representatives. It is critical that local-level governments are adequately funded in order to discharge their responsibilities in relation to basic education infrastructure and maintenance. Individual members of parliament must understand the priorities of government with respect to education. All of us must commit ourselves to providing a basic education for all of the children in our electorates.
 
 Many representatives of all stakeholders have worked together to develop this Plan. This spirit of partnership and cooperation is commendable and has to be continued. I must thank Sir Barry Holloway for the leadership that he has shown as Chairman of the National Education Plan Steering Committee and the members of the planning team, ably led by Mr. Pala Wari, and the overall direction provided by the Secretary for Education, Mr. Peter Baki, CBE.
 
 Hon Michael Laimo, CBE, MP Minister for Education December, 2004
 
-ANATIONALPLAN FOR EDUCATION
+A NATIONAL PLAN FOR EDUCATION
 
 v
 
@@ -116,13 +225,13 @@ In this troubled world our children will receive the type of education that will
 
 The work of the vocational centres will be strengthened through stronger linkages with other Departments and building on the work of other projects. Initiatives currently being undertaken by the Department of Community Development are consistent with this Plan and will be followed with great interest. In addition, the private sector will be encouraged to take a more active role in the provision of vocational education.
 
-When our young people have completed their education, from whatever type of institution, it is important that greater numbers of opportunities are available for them. Government is currently looking at a number of new initiatives to provide extra training, employment and income generating opportunities for our young people. These will include possible work visas overseas, to be related to training, for 18 to 30 year old Papua New Guineans and a reintroduction of a cadet ship program, as proposed in the Medium T erm Development Strategy, to strengthen and support local level administration.
+When our young people have completed their education, from whatever type of institution, it is important that greater numbers of opportunities are available for them. Government is currently looking at a number of new initiatives to provide extra training, employment and income generating opportunities for our young people. These will include possible work visas overseas, to be related to training, for 18 to 30 year old Papua New Guineans and a reintroduction of a cadet ship program, as proposed in the Medium Term Development Strategy, to strengthen and support local level administration.
 
 To be successful this plan needs the support of those people who we trust in our public service to do what is right and not capitulate to internal and external pressures. Our senior education officers will need to be strong in their pursuit of the admirable objectives set out in this plan. Community ownership of this plan is also essential for its success. The community must 'adopt' their teachers and assist in their appraisal and more importantly in how they develop in their career. The curriculum must be integrated with practical self-reliant teaching initiatives that utilise community support and participation.
 
-This plan is affordable but national and local-level governments will be required to make the major input to costs. Our young people deserve the opportunity to take their place in the global community. T o this end, the State will meet the expenses of teachers, curriculum and school materials, and support the establishment and maintenance of infrastructure. Our elected representatives, parents and communities have an essential contribution to make to our education system. This Plan recognises that parents will always have to make some cash or in kind contribution and more particularly a commitment to their children's education through their own efforts. T o be most effective this contribution should be reasonable, predictable and sustainable.
+This plan is affordable but national and local-level governments will be required to make the major input to costs. Our young people deserve the opportunity to take their place in the global community. To this end, the State will meet the expenses of teachers, curriculum and
 
-ANATIONALPLAN FOR EDUCATION
+A NATIONAL PLAN FOR EDUCATION
 
 vi
 
@@ -130,7 +239,9 @@ vi
 
 [[START OF PAGE 11]]
 
-Parents must also contribute to the education of their children by assisting teachers with discipline. Parents must instil in their children self-discipline. They must develop their children's values and attitudes from an early age based on sound religious and Christian principles. They must assist in developing respect for the community and their heritage. Parental participation means more than just a casual involvement. It is the conscious act of sharing responsibilities with teachers for the development of the younger generation in order that they become a vibrant force in our nation's development.
+school materials, and support the establishment and maintenance of infrastructure. Our elected representatives, parents and communities have an essential contribution to make to our education system. This Plan recognises that parents will always have to make some cash or in kind contribution and more particularly a commitment to their children’s education through their own efforts. To be most effective this contribution should be reasonable, predictable and sustainable.
+
+Parents must also contribute to the education of their children by assisting teachers with discipline. Parents must instil in their children self-discipline. They must develop their children’s values and attitudes from an early age based on sound religious and Christian principles. They must assist in developing respect for the community and their heritage. Parental participation means more than just a casual involvement. It is the conscious act of sharing responsibilities with teachers for the development of the younger generation in order that they become a vibrant force in our nation’s development.
 
 Let no one say that this plan is neither achievable nor affordable. It is achievable and affordable if we give more responsibility to our communities and they will take up this challenge. Communities must see that the elected government and their leaders are playing their part to support them. Our nation's success is reliant upon recent Constitutional laws that empower local-level governments and the community to become self-reliant and contribute toward the nation's development. This plan is affordable and our Constitution grants every local-level government K20 per head of population. This Constitutional law provides for the basic necessities of life including infrastructure for education and health in rural areas. This money should be allocated directly to the community on the principle that if you give people responsibility they will respond and this will result in a valuable multiplier effect. Local governments must be allowed to account for themselves. We must build on the strengths of transparency and accountability in the rural community. Urban dwellers in our own country and those from other lands do not always understand the strength of this principle.
 
@@ -142,7 +253,7 @@ I commend this plan to all as a way forward to achieving a better future for Pap
 
 Barry Holloway, KBE Chairman, National Education Plan Steering Committee
 
-ANATIONALPLAN FOR EDUCATION
+A NATIONAL PLAN FOR EDUCATION
 
 vii
 
@@ -156,7 +267,7 @@ vii
 
 [[START OF PAGE 13]]
 
-## Secti n 1
+## Section 1
 
 ### INTRODUCTION
 
@@ -180,21 +291,21 @@ vii
 
 Papua New Guinea occupies the eastern half of the island of New Guinea, which is just south of the equator and 150 kilometres north of the tip of Australia. Papua New Guinea comprises over 600 islands but 85 per cent of its land area of 463,840 sq km is on the mainland. This is mostly covered by tropical rain forests and divided by massive mountain ranges. Sustainable use and protection of its natural resources, which are of global significance, have attracted worldwide interest in recent years particularly its large gold and copper deposits, oil and natural gas reserves, large areas of arable land for potential agricultural production, an abundant supply of fresh water, large tropical forests, and extensive maritime fisheries.
 
-Papua New Guinea's population is about 5.2 million and 85 per cent live in rural areas. Over 800 different languages are spoken throughout the 20 provinces. As demonstrated by the heterogeneity of languages spoken, there is a diversity of physical characteristics and culture depending on the province of origin. The population that is growing at the rate of 2.7 per cent per annum is predicted to reach 7 .5 million by 2020.
+Papua New Guinea’s population is about 5.2 million and 85 per cent live in rural areas. Over 800 different languages are spoken throughout the 20 provinces. As demonstrated by the heterogeneity of languages spoken, there is a diversity of physical characteristics and culture depending on the province of origin. The population that is growing at the rate of 2.7 per cent per annum is predicted to reach 7.5 million by 2020.
 
 According to the 2000 census, 45 per cent of the population is estimated to be below the age of 15 years. The Papua New Guinea Human Development Report, 1998 (Office of National Planning, 1999) has projected that by 2010 the school age population and the economically active population will have grown by 45 percent and 67 percent respectively.
 
-Papua New Guinea has had a constitutional monarchy with a parliamentary democracy since it gained independence from Australia in 1975. The 1975 Constitution vests executive power in the National Executive Council, which is headed by a Prime Minister. A major postindependence political development was the creation in 1978 and reformation in 1995 of 19 provincial governments and the National Capital District and their associated bureaucracies.
+Papua New Guinea has had a constitutional monarchy with a parliamentary democracy since it gained independence from Australia in 1975. The 1975 Constitution vests executive power in the National Executive Council, which is headed by a Prime Minister. A major post-independence political development was the creation in 1978 and reformation in 1995 of 19 provincial governments and the National Capital District and their associated bureaucracies.
 
 ##### Papua New Guinea - its education system
 
 The colonial administration education system and a number of church run systems that started in the 1940s ran independently until the early 1970s when the current national education system was established.
 
-In 1973 the Papua New Guinea education system had approximately 1,050 institutions, 9,060 teachers, and 254,000 students. By 2003, the system had grown to one employing around 33,000 teachers, and almost one million students in 4000 elementary schools, 3300 primary schools, 170 secondary schools and 140 vocational schools. T oday there are six prominent church agencies apart from the government operating the schools, which are governed by 20 provincial education boards and managed by 20 provincial education divisions. There is also a small yet growing number of privately run autonomous schools throughout the country.
+In 1973 the Papua New Guinea education system had approximately 1,050 institutions, 9,060 teachers, and 254,000 students. By 2003, the system had grown to one employing around 33,000 teachers, and almost one million students in 4000 elementary schools, 3300 primary schools, 170 secondary schools and 140 vocational schools. Today there are six prominent church agencies apart from the government operating the schools, which are governed by 20 provincial education boards and managed by 20 provincial education divisions. There is also a small yet growing number of privately run autonomous schools throughout the country.
 
 Papua New Guinea has a highly decentralised education system following the establishment of the provincial government system in 1978. The decentralization laws have given the provinces responsibilities including planning, financing, staffing and maintaining general education institutions up to Grade 12. This includes pre-school, elementary, primary, secondary and vocational schools.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 3
 
@@ -205,6 +316,25 @@ ANATIONALPLAN FOR EDUCATION INTRODUCTION
 The structure of the education system in this Plan is illustrated by the diagram below.
 
 ##### The Education Structure
+
+Flexible, Open and Distance Education
+
+Basic Education
+
+P 1 2 3 4 5 6 7 8
+Elementary
+Primary
+
+9 10 11 12
+Secondary
+
+Tertiary Education
+
+Technical
+
+Vocational
+
+Community and Employment
 
 #### Foundations for the Plan
 
@@ -222,7 +352,7 @@ The overall objectives of the Plan are consistent with:
 
 - community demands as determined during provincial consultations.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 4
 
@@ -243,7 +373,7 @@ We declare our second goal to be for all citizens to have an equal opportunity t
 
 ###### 3 National sovereignty and self-reliance
 
-- We declare our third goal to be for Papua New Guinea to be politically and economically independent, and our economy basically self reliant.
+We declare our third goal to be for Papua New Guinea to be politically and economically independent, and our economy basically self reliant.
 
 ###### 4 Natural resources and environment
 
@@ -291,7 +421,7 @@ The six Education For All goals that were agreed to by all nations at Jomtien, T
 
 - Improving all aspects of the quality and excellence of education with measurable learning outcomes.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 5
 
@@ -305,9 +435,9 @@ In the current economic climate it is difficult to see how the second of these E
 
 This Plan is in accord with the core development strategy of the Medium Term Development Strategy, 2005 to 2010 (Department of National Planning and Rural Development, 2004) and consistent with the requirement to empower Papua New Guineans to mobilise their own resources for higher living standards. The Medium Term Development Strategy is the government's policy document for development and is a critical policy reference point.
 
-The education sector is part of the mutually supporting sectoral expenditure priorities of the Medium Term Development Strategy . In the education sector basic education is the first priority, vocational and technical training is the second priority, with secondary and tertiary education as third and fourth priorities, respectively. The Strategy states that:
+The education sector is part of the mutually supporting sectoral expenditure priorities of the Medium Term Development Strategy. In the education sector basic education is the first priority, vocational and technical training is the second priority, with secondary and tertiary education as third and fourth priorities, respectively. The Strategy states that:
 
-In Education, the focus of the Medium T erm Development Strategy will be to support the implementation of reform aimed at achieving Universal Primary Education. Under the goal of Universal Primary Education all children will be able to complete nine years of basic education.
+In Education, the focus of the Medium Term Development Strategy will be to support the implementation of reform aimed at achieving Universal Primary Education. Under the goal of Universal Primary Education all children will be able to complete nine years of basic education.
 
 At the national level, priority resources will be directed towards basic education, including curriculum reforms, teacher training, infrastructure and rural education facilities, while also ensuring adequate funds are available to pay for the planned and managed increase in teachers salaries.
 
@@ -333,7 +463,7 @@ Deliberations on the Plan have been in a number of distinct phases. The first of
 
 Initial deliberations were followed by a round of provincial consultations. All provinces were visited during a period of six weeks and views elicited from groups of public servants and stakeholders on identified issues. These consultations were followed by a further series of Steering Committee meetings to discuss and analyse the findings. A final report was then presented to the National Education Board. The initial draft of the Plan was based upon this report to the National Education Board.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 6
 
@@ -353,11 +483,11 @@ Citizens have a right to a healthy life which includes such aspects as clean wat
 
 The reform curriculum will provide students with the opportunity to take responsibility for their health using various preventative measures. Formal health education begins at the elementary level where children learn about such things as washing hands, cleaning teeth, healthy foods and safe behaviours. At the primary level the personal development curriculum enables students to consider personal and community health and concerns such as the effects of family size, use of drugs and making informed choices. Personal development is an essential aspect of the secondary school curriculum and students are engaged in a more in-depth study of health matters.
 
-Currently, one of the greatest challenges to the health of the nation is HIV/AIDS. HIV/AIDS, first identified in Papua New Guinea in 1987 , is rapidly spreading and is a major cause of admissions and deaths at the Port Moresby General Hospital. HIV/AIDS has major social and economic implications for our nation.  It is mainly affecting young, sexually active adults of both sexes who belong to the most economically productive age groups. The prevention, control and treatment of HIV/AIDS are inadequate. The World Bank has estimated that there may be up to 50,000 people infected with HIV. The Health Department says more than 16,000 people in Papua New Guinea have been diagnosed with HIV/AIDS since 1987 . There has been an eight per cent increase in HIV prevalence among people aged 15-24, and approximately one percent of women in the same age group who visited the antenatal clinic at the Port Moresby General Hospital were HIV positive. Port Moresby had the highest number of HIV/AIDS patients between 1987 and September last year with 4,983. There were 700 reported cases in the Western Highlands Province followed by several hundred in Morobe, Eastern Highlands and Enga Provinces.
+Currently, one of the greatest challenges to the health of the nation is HIV/AIDS. HIV/AIDS, first identified in Papua New Guinea in 1987, is rapidly spreading and is a major cause of admissions and deaths at the Port Moresby General Hospital. HIV/AIDS has major social and economic implications for our nation. It is mainly affecting young, sexually active adults of both sexes who belong to the most economically productive age groups. The prevention, control and treatment of HIV/AIDS are inadequate. The World Bank has estimated that there may be up to 50,000 people infected with HIV. The Health Department says more than 16,000 people in Papua New Guinea have been diagnosed with HIV/AIDS since 1987. There has been an eight per cent increase in HIV prevalence among people aged 15-24, and approximately one percent of women in the same age group who visited the antenatal clinic at the Port Moresby General Hospital were HIV positive. Port Moresby had the highest number of HIV/AIDS patients between 1987 and September last year with 4,983. There were 700 reported cases in the Western Highlands Province followed by several hundred in Morobe, Eastern Highlands and Enga Provinces.
 
 An HIV/AIDS policy for education is an essential way of demonstrating the commitment education has to educating its employees and young people about this disease. This policy will be developed in the immediate future and implemented as a matter of urgency.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 7
 
@@ -379,7 +509,7 @@ At the elementary level the curriculum encourages children to learn about good a
 
 At every level of education more males are represented than females. In major studies, cultural factors have been found to be the major obstruction to increasing participation of females at all levels of education ( Gender Analysis in Papua New Guinea , World Bank, 1998). Access to informal education and training programs is even more difficult for women who are illiterate and the illiteracy rate among women is estimated at around 60 per cent. Regional variations reflect differences in historical experience. Higher enrolments of girls exist in regions where single sex education was provided in the past by missions. The Gender Equity in Education Policy (Department of Education, 2003) provides a framework of principles and practices to improve the lives of all children and promotes gender equity between girls and boys. Implementation of this policy has been slow-moving with little or no resources being allocated to support it.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 8
 
@@ -399,6 +529,22 @@ The population projections for this Plan have been based upon the National Censu
 
 Table 1 School age population by age, selected years, 2005 to 2014
 
+Age 2005 2008 2011 2014
+6 years 165,185 179,196 194,460 211,033
+7 years 160,775 174,391 189,230 205,357
+8 years 156,489 169,722 184,141 199,834
+9 years 152,324 165,185 179,196 194,460
+10 years 153,224 160,775 174,391 189,230
+11 years 149,116 156,489 169,722 184,141
+12 years 145,123 152,324 165,185 179,196
+13 years 141,244 153,224 160,775 174,391
+14 years 137,474 149,116 156,489 169,722
+15 years 130,941 145,123 152,324 165,185
+16 years 127,407 141,244 153,224 160,775
+17 years 123,974 137,474 149,116 156,489
+18 years 120,639 130,941 145,123 152,324
+Total 1,863,916 2,015,205 2,173,378 2,342,139
+
 The rapid growth in our country's population is making demands on our finances and services which are difficult to satisfy. The role of education is to develop and acknowledge an understanding of the issues relating to this concern.
 
 #### Overview of the Plan
@@ -409,7 +555,7 @@ In line with the need to provide education for all, the principal objective in t
 
 In primary education there will be space available for all children to complete an education through to Grade 8. By 2010 all primary schools will have phased out Grade 1 and 2 classes and all secondary schools will have phased out Grade 7 and 8 classes. Strategies to improve retention will be put in place in order to increase the retention rate to approaching 70 per cent between Grades 1 and 6 by 2014.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 9
 
@@ -437,7 +583,7 @@ Issues of curriculum and teacher education and training are critical to the qual
 
 In the post primary sector, the secondary curriculum will be revised to build on the reform basic education curriculum. This will be completed by 2006. There will be much greater cooperation between curriculum developers in the vocational and secondary sectors to ensure that there is a greater skills component in the reform secondary curriculum. A standards monitoring instrument has been developed for primary schools and will be modified to help the Department monitor standards at the secondary level.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 10
 
@@ -471,9 +617,9 @@ The financing of the Plan will come from the different levels of government, par
 
 The payment of teacher salaries is the largest component of the education budget. The Plan includes major cost-effectiveness measures to ensure the most efficient use of staffing resources. Criteria will be determined for the equitable allocation of teachers to provinces.
 
-Teachers will be allocated at a rate of one per class in the upper primary grades, with a corresponding increase in student teacher ratios, and the teacher-to-class allocation will be revised at the upper secondary level. There will also be a considerable improvement in localisation in the technical sector. These three measures will result in savings of about K300m over the Plan period. Vocational institution staffing will be based on a studentinstructor ratio of 1 to 18. In technical education the student-lecturer ratio will rise and there will be renewed efforts to improve localisation.
+Teachers will be allocated at a rate of one per class in the upper primary grades, with a corresponding increase in student teacher ratios, and the teacher-to-class allocation will be revised at the upper secondary level. There will also be a considerable improvement in localisation in the technical sector. These three measures will result in savings of about K300m over the Plan period. Vocational institution staffing will be based on a student-instructor ratio of 1 to 18. In technical education the student-lecturer ratio will rise and there will be renewed efforts to improve localisation.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 11
 
@@ -507,7 +653,7 @@ This section outlines the progress made since the first National Education Plan 
 
 This is the main section of the Plan. The sectors - elementary education, primary education, secondary education, flexible, open and distance education, vocational education and training and technical education and training - are described using the same four components. These components are access, quality curriculum and monitoring, quality teacher education and training, and management. Each sector has its own vision and its own major outcome. Each of the components has its own minor outcome, and the key strategies and activities for achieving these outcomes. In the text, the minor outcomes are referred to using the first letter of the sector (E for Elementary, P for Primary and so on) and the minor outcomes are numbered in sequence. E3, then, refers to Elementary Quality Teacher Education and Training, minor outcome number 3.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 12
 
@@ -543,7 +689,7 @@ This section describes the monitoring and evaluation framework for the Plan. It 
 
 Other support documents and awareness materials will supplement this Plan.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 13
 
@@ -557,7 +703,7 @@ ANATIONALPLAN FOR EDUCATION INTRODUCTION
 
 [[START OF PAGE 27]]
 
-## Secti n 2
+## Section 2
 
 ### OUR VISION 2005 - 2014
 
@@ -577,7 +723,7 @@ ANATIONALPLAN FOR EDUCATION INTRODUCTION
 
 Our vision is integral human development achieved through an affordable education system that appreciates Christian and traditional values, and that prepares literate, skilled and healthy citizens by concentrating on the growth and development of each individual's personal viability and character formation, while ensuring all can contribute to the peace and prosperity of the nation.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 17
 
@@ -591,7 +737,7 @@ At 6 years of age all children begin their basic education in an elementary scho
 
 At 9 years of age children continue their basic education in a primary school. After six years of primary education that begins with a bilingual program, children have the skills to live happily and productively, contribute to their traditional communities and use English to understand basic social, scientific, technological, and personal concepts and value learning after Grade 8.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 18
 
@@ -617,7 +763,7 @@ The education and training needs of the immediate community are catered for by v
 
 A system of self-sustaining institutions, under an independent regulatory authority designed to train an appropriate workforce for employment in the formal and informal sectors, including self employment, with linkages to National Apprenticeship and Trade Testing Board and other recognised training providers.
 
-ANATIONALPLAN FOR EDUCATION INTRODUCTION
+A NATIONAL PLAN FOR EDUCATION - INTRODUCTION
 
 19
 
@@ -631,7 +777,7 @@ ANATIONALPLAN FOR EDUCATION INTRODUCTION
 
 [[START OF PAGE 33]]
 
-## Secti n 3
+## Section 3
 
 ### SITUATIONAL ANALYSIS
 
@@ -665,9 +811,9 @@ The rapid expansion of the education system since 1995 has also created new prob
 
 In addition, this Plan has to confront the issue that financing the expansion of the education system has become increasing difficult because of the economic turbulence in Papua New Guinea's recent past. Schools are under-resourced, there is poor management of resources provided centrally by provincial governments and the Department relies on donor assistance to fund some of its core activities.
 
-Nevertheless, over the period of the last Plan overall National Government expenditure on education increased in real terms, broadly in line with the increase in the government's total budget. That increase in public spending was underpinned by excessive borrowing and was not sustainable. The present government's fiscal strategy aims to bring the budget back into balance over the medium term. The strategy required prioritisation and control of spending on public services, including education. It is already delivering benefits in terms of lower interest rates and inflation, so creating conditions more favourable to economic growth. Economic growth will make spending on education more affordable and more necessary over the medium term; Papua New Guinea needs a better educated workforce to succeed in export markets. That is the basic scenario which underlies the present Plan. It will need strong management to get the best value from every kina spent on education.
+Nevertheless, over the period of the last Plan overall National Government expenditure on education increased in real terms, broadly in line with the increase in the government's total budget. That increase in public spending was underpinned by excessive borrowing and was not sustainable. The present government's fiscal strategy aims to bring the budget back into
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 23
 
@@ -675,7 +821,9 @@ ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
 
 [[START OF PAGE 36]]
 
-The Public Expenditure Review and Rationalisation exercise was carried out in 2003. This was a collaborative effort between the Government of Papua New Guinea and a multi-donor team led and coordinated by the World Bank. This Review resulted in six discussion papers. One of the discussion papers was entitled 'Improved Education Spending' . It is instructive, when considering the financial implications of the Plan, to look at the specific recommendations in this paper that have been acted upon. The following highlights the strategic responses made to each of the recommendations.
+balance over the medium term. The strategy required prioritisation and control of spending on public services, including education. It is already delivering benefits in terms of lower interest rates and inflation, so creating conditions more favourable to economic growth. Economic growth will make spending on education more affordable and more necessary over the medium term; Papua New Guinea needs a better educated workforce to succeed in export markets. That is the basic scenario which underlies the present Plan. It will need strong management to get the best value from every kina spent on education.
+
+The Public Expenditure Review and Rationalisation exercise was carried out in 2003. This was a collaborative effort between the Government of Papua New Guinea and a multi-donor team led and coordinated by the World Bank. This Review resulted in six discussion papers. One of the discussion papers was entitled 'Improved Education Spending'. It is instructive, when considering the financial implications of the Plan, to look at the specific recommendations in this paper that have been acted upon. The following highlights the strategic responses made to each of the recommendations.
 
 ##### Public Expenditure Review and Rationalisation - Recasting Goals
 
@@ -709,9 +857,9 @@ The Public Expenditure Review and Rationalisation exercise was carried out in 20
 
 - Increase student teacher ratios and mandate greater use of multi-grade classes.
 
-- Strategic response T eacher class ratios have been adapted for the upper primary and upper secondary sectors - see P4 and S4. Recommended average class sizes have been set at the highest level deemed possible whilst bearing in mind the demography of Papua New Guinea and the need not to compromise standards.
+- Strategic response Teacher class ratios have been adapted for the upper primary and upper secondary sectors - see P4 and S4. Recommended average class sizes have been set at the highest level deemed possible whilst bearing in mind the demography of Papua New Guinea and the need not to compromise standards.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 24
 
@@ -721,7 +869,7 @@ ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
 
 - Examine the scope for and implications of converting national high schools to secondary schools under provincial management.
 
-- Strategic response A review of the national high schools will be carried out see S1.
+- Strategic response A review of the national high schools will be carried out - see S1.
 
 ###### School subsidies
 
@@ -773,7 +921,7 @@ These recommendations relate to higher education.
 
 - Strategic response This is a higher education issue.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 25
 
@@ -787,7 +935,7 @@ ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
 
 - Strategic response Mechanisms will be investigated and training provided for provincial education officials to link the budget and planning processes - see A2.
 
-- Enable and require Department of Education and the T eaching Services Commission to condition the approval of new schools and creation of new teaching positions on meeting the centrally prescribed guidelines for budgetary allocations to and within the education sector.
+- Enable and require Department of Education and the Teaching Services Commission to condition the approval of new schools and creation of new teaching positions on meeting the centrally prescribed guidelines for budgetary allocations to and within the education sector.
 
 - Strategic response The opening of new schools is a provincial government responsibility. Provincial governments will need to ensure that the recent rapid expansion of secondary education is contained and affordable. See notes on the proposed committee for allocating teaching positions.
 
@@ -799,7 +947,7 @@ The Organic Law on Provincial Governments and Local-level Governments, 1995, has
 
 ##### Gender
 
-In 2002 the Department of Education introduced a Gender Equity in Education Policy . This policy recognises that, for historical and cultural reasons, females in Papua New Guinea have been disadvantaged in education.  This Plan endorses the policy and acknowledges the need for strategies for implementation. Within the Plan appropriate strategies and activities for achieving education for all are identified.
+In 2002 the Department of Education introduced a Gender Equity in Education Policy. This policy recognises that, for historical and cultural reasons, females in Papua New Guinea have been disadvantaged in education. This Plan endorses the policy and acknowledges the need for strategies for implementation. Within the Plan appropriate strategies and activities for achieving education for all are identified.
 
 A Gender Mainstreaming Policy for the Department of Education needs to be formulated and adopted to ensure that equal opportunities are provided for women and men at all levels of education including the executive level.
 
@@ -807,7 +955,7 @@ A Gender Mainstreaming Policy for the Department of Education needs to be formul
 
 Finally, this Plan sees itself commencing at a time when Papua New Guinea faces a major health crisis in managing and preventing the transmission of HIV/AIDS. The spread of HIV/AIDS is uncontrolled across Papua New Guinea. This is particularly so in rural areas and in young active adults in the most economically productive years, which if not contained, will have major socio-economic implications for the nation. Prevention and management requires a multi-sectoral approach. Education has an important role to play in responding to the HIV/AIDS crisis through its curriculum and teacher education and training responsibilities.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 26
 
@@ -833,15 +981,15 @@ Special education and the education of girls are integral parts of the teacher t
 
 ##### Quality
 
-A mixed mode teacher training program has been designed and implemented. This program leads to the Certificate in Elementary T eaching awarded by the Papua New Guinea Education Institute. The three year program has three distinct components: trainer-directed training in residential workshops; home study with self-instructional units; and supervised teaching.
+A mixed mode teacher training program has been designed and implemented. This program leads to the Certificate in Elementary Teaching awarded by the Papua New Guinea Education Institute. The three year program has three distinct components: trainer-directed training in residential workshops; home study with self-instructional units; and supervised teaching.
 
 One hundred and seventy district-based elementary trainers, with a Certificate of Elementary Teacher Training from the Papua New Guinea Education Institute, deliver this training program.
 
 Communities have taken up the responsibility for selecting the teacher, using guidelines established by the Department of Education. This has resulted in a large number of very young teachers being selected in some areas.
 
-A vernacular language chosen by the community is the language of instruction. Orthographies have been developed in about 400 language groups. A reformed curriculum has replaced the Elementary Scope and Sequence with approved new syllabuses and teacher guides for culture and community, cultural mathematics and language. Three teacher guides and an implementation support booklet for head teachers support these syllabuses. The reform curriculum is inclusive and has taken account of the gender policy. The community calendar is an essential focus for the curriculum and teachers develop programs with their school communities to ensure relevance. Elementary teachers use self-paced, inservice units that give them background knowledge and strategies to support their teaching. Elementary teachers are being in-serviced about the reform curriculum.
+A vernacular language chosen by the community is the language of instruction. Orthographies have been developed in about 400 language groups. A reformed curriculum has replaced the Elementary Scope and Sequence with approved new syllabuses and teacher guides for culture and community, cultural mathematics and language. Three teacher guides and an implementation support booklet for head teachers support these syllabuses. The reform curriculum is inclusive and has taken account of the gender policy. The community calendar is an essential focus for the curriculum and teachers develop programs with their school communities to ensure relevance. Elementary teachers use self-paced, in-service units that give them background knowledge and strategies to support their teaching. Elementary teachers are being in-serviced about the reform curriculum.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 27
 
@@ -871,9 +1019,9 @@ Primary education begins at Grade 3 and finishes in Grade 8 and caters for the 9
 
 Developments at the primary level have focused on the restructuring of the primary cycle. This has involved the relocation of Grade 1 and 2 classes from community schools to elementary schools, and the establishment of Grade 7 and 8 classes in primary schools. The effective introduction of Grades 7 and 8 is dependent upon the establishment of elementary schools in order to make the most efficient use of scarce teaching and infrastructure resources. Grade 1 and 2 enrolments in the community schools did not decline as rapidly as expected following the introduction of elementary schools. This has led, in part, to shortages of teachers in some parts of the country.
 
-Overall enrolments in the primary sector have risen by 16 per cent between 1995 and 2003. The relocation of Grades 7 and 8 started in 1993 and all provinces had upper primary school classes by 1995. Only about ten per cent of Grade 7 students are now in the secondary school system. As a consequence of the reform the percentage of children passing from Grade 6 to Grade 7 has risen from 48 per cent in 1995 to 79.5 per cent in 2003. The rate for boys and girls was exactly the same. These rises in enrolment have seen slight increases in access for girls in the upper primary who now make up some 45 per cent of enrolments in primary schools compared to 43 in 1995. This improvement in access has not been reflected evenly around the country. There is still considerable inequity both between provinces and between districts within provinces. Gulf Province, for example, has a transition rate of only just over 50 per cent compared with figures well above 90 per cent in the National Capital District and West New Britain Province.
+Overall enrolments in the primary sector have risen by 16 per cent between 1995 and 2003. The relocation of Grades 7 and 8 started in 1993 and all provinces had upper primary school classes by 1995. Only about ten per cent of Grade 7 students are now in the secondary school system. As a consequence of the reform the percentage of children passing from Grade 6 to Grade 7 has risen from 48 per cent in 1995 to 79.5 per cent in 2003. The rate for boys and girls was exactly the same. These rises in enrolment have seen slight increases in access for girls in the upper primary who now make up some 45 per cent of enrolments in primary schools compared to 43 in 1995. This improvement in access has not been reflected evenly around the country. There is still considerable inequity both between provinces and between districts within provinces. Gulf Province, for example,
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 28
 
@@ -881,21 +1029,23 @@ ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
 
 [[START OF PAGE 41]]
 
+has a transition rate of only just over 50 per cent compared with figures well above 90 per cent in the National Capital District and West New Britain Province.
+
 Provision has been made for children with special needs through the establishment of Special Education Resource Centres. There are currently 14 of these catering for around 2,500 clients.
 
 The retention of children between Grades 1 and 6 has not improved and this is a major area of concern that needs to be addressed. Indeed, it has got considerably worse. Only 53 per cent of children who enrolled in Grade 1 in 1998 completed Grade 6 in 2003. This compares with a figure of 61 per cent for those who completed Grade 6 in 1995. In addition to those who have dropped out of school there is also the large group who have never had the opportunity to enrol in school. These problems are complex and there are many contributing factors, some of which have been investigated.
 
-Findings from the National Research Institute study, Mi Lusim Skul, (National Research Institute, 2003), confirm these figures. Equally disturbing, and probably a key contributing factor to the poor retention statistics, is the very high rates of teacher absenteeism reported. This is of particular concern in remote, rural schools. The Public Expenditure and Service Delivery Report (World Bank, 2004) suggests that schools in the sample closed for an average of 15 days a year during 2001 due to a variety of problems. The major reasons were a shortage of water and sewage and toilet problems which, between them, accounted for almost half the closures. T eacher absenteeism and shortages were also cited as key issues. This affected the rural and remote schools to a much greater extent than it did urban schools. More intensive research is still required.
+Findings from the National Research Institute study, Mi Lusim Skul, (National Research Institute, 2003), confirm these figures. Equally disturbing, and probably a key contributing factor to the poor retention statistics, is the very high rates of teacher absenteeism reported. This is of particular concern in remote, rural schools. The Public Expenditure and Service Delivery Report (World Bank, 2004) suggests that schools in the sample closed for an average of 15 days a year during 2001 due to a variety of problems. The major reasons were a shortage of water and sewage and toilet problems which, between them, accounted for almost half the closures. Teacher absenteeism and shortages were also cited as key issues. This affected the rural and remote schools to a much greater extent than it did urban schools. More intensive research is still required.
 
 Teachers should have been allocated to Grade 7 and 8 classes at the rate of 1.5 teachers per class. However, more teachers have been appointed in many cases and this is one of the causes of the teacher shortages reported in some parts of the country. This is an example of provinces disregarding national policy.
 
 Small, remote schools face considerable hardship and the children from these areas are severely disadvantaged in their access to education services. Attracting teachers to remote areas is a continual problem. Consultations revealed that a lack of teacher housing and incentives are considered primary reasons for teachers not wishing to serve in such areas. Broader issues include the declining law and order situation in some parts of the country, declining provision of basic services and the deteriorating infrastructure in many rural areas.
 
-Infrastructure development in this sector has been characterised by a substantial degree of support from local communities. There have been mixed degrees of support from local-level governments following passage of the Organic Law on Provincial Government and LocalLevel Governments . The problem in recent years has been one of a lack of funding received by local-level governments to allow them to properly maintain and develop new infrastructure for their schools. Prior to this, the Department of Education provided grants, called Establishment Grants, to all new primary schools offering upper primary grades. These funds were allocated based upon the number of streams and the money sent directly to the Boards of Management on approval by the Department of the proposed work program.
+Infrastructure development in this sector has been characterised by a substantial degree of support from local communities. There have been mixed degrees of support from local-level governments following passage of the Organic Law on Provincial Government and Local-Level Governments. The problem in recent years has been one of a lack of funding received by local-level governments to allow them to properly maintain and develop new infrastructure for their schools. Prior to this, the Department of Education provided grants, called Establishment Grants, to all new primary schools offering upper primary grades. These funds were allocated based upon the number of streams and the money sent directly to the Boards of Management on approval by the Department of the proposed work program.
 
 The Public Expenditure and Service Delivery Report (World Bank, 2004) found that many schools do not have an adequate number of classrooms in a satisfactory condition. Less than two thirds of classrooms covered in the study were of permanent materials. Of possibly greater concern was the finding that almost 40 per cent of these were in need of maintenance. In addition, classroom furniture and secure storage areas were at a premium in many schools. The schools in the rural and remote categories were found to be worse off than those in the urban areas in all measures. The report also pointed to other deficiencies in that few schools had an administration block, a multi-purpose building for the the teaching of science and basic technology or a library facility.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 29
 
@@ -917,6 +1067,8 @@ Serving teachers have been given the opportunity to upgrade their qualifications
 
 The upper primary curriculum has been reformed and seven new syllabuses, seven teacher guides and an implementation support booklet for head teachers were distributed to schools in 2003 for implementation in 2004. Self-paced, in-service units give teachers background knowledge and strategies to support them to teach the new syllabuses. The reform curriculum is inclusive and has taken account of the gender policy. The subjects taught in primary schools are shown in the table below. Lower primary refers to Grades 3, 4 and 5 and upper primary Grades 6, 7 and 8. These are extracted from the National Curriculum Statement (Department of Education, 2002).
 
+Table 2: Lower and upper primary teaching subjects
+
 Lower primary | Upper primary
 --- | ---
 Language | Language
@@ -927,13 +1079,11 @@ Physical Education | Making a Living
 Environmental Studies | Science
 Arts | Arts
 
-Table 2: Lower and upper primary teaching subjects
-
 The social science component includes aspects of civics, nation building, ethics and values. The health and personal development components consider discipline, relationships, nutrition and personal and community health.
 
 All teachers in the country have received an in-service package consisting of self-paced modules. Participants, on successful completion of the in-service units, gain accreditation toward qualifications awarded by the Papua New Guinea Education Institute.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 30
 
@@ -949,13 +1099,13 @@ A lack of funds, as well as geographical isolation, has made it difficult for in
 
 A national Certificate of Basic Education Examination is conducted for all Grade 8 students in primary and secondary schools. This examination is set nationally and administered provincially. Results are used by provinces for determining entry into Grade 9.
 
-A Curriculum Standards Monitoring T est, which will sample performance for literacy and numeracy, is being piloted in Grades 3, 5 and 8. Results will be used to monitor national levels of literacy and numeracy every two years.
+A Curriculum Standards Monitoring Test, which will sample performance for literacy and numeracy, is being piloted in Grades 3, 5 and 8. Results will be used to monitor national levels of literacy and numeracy every two years.
 
 ##### Management
 
 Planning for the primary grades has been a complex operation undertaken by the provincial education authorities with technical assistance from the Department of Education. Implementation schedules have been developed to manage the introduction of Grade 7 and 8 classes. This is planned to happen at the same time as the removal of the Grade 1 and 2 classes.
 
-Management at the school level is proving to be an increasing concern during the recent period of rapid change. Particular challenges have been faced in the area of financial management, largely as a result of the school fee subsidy program and the management of the reform curriculum implementation. The P ublic Expenditure and Service Delivery Report (World Bank, 2004) found that only about thirty per cent of primary schools could provide records of both income and expenditure for the years under consideration, suggesting that many school Boards of Management and administrators do not have the capacity to adequately administer funds.
+Management at the school level is proving to be an increasing concern during the recent period of rapid change. Particular challenges have been faced in the area of financial management, largely as a result of the school fee subsidy program and the management of the reform curriculum implementation. The Public Expenditure and Service Delivery Report (World Bank, 2004) found that only about thirty per cent of primary schools could provide records of both income and expenditure for the years under consideration, suggesting that many school Boards of Management and administrators do not have the capacity to adequately administer funds.
 
 #### Secondary education
 
@@ -969,7 +1119,7 @@ The process of phasing Grade 7 and 8 classes out of the secondary schools has me
 
 The transition rate from Grade 8 to Grade 9 has dropped due to the increasing number of children completing Grade 8 in the primary schools. However, this still remains above the national objective of 50 per cent. The actual national figure for 2003 was 73 per cent.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 31
 
@@ -995,13 +1145,13 @@ The University of Goroka continues to be the major source for the supply of seco
 
 A number of secondary schools have received donor assistance for maintenance and new infrastructure development when establishing Grade 11 and 12 classes. Much of this support came in the early years of the implementation of the education reform and was consistent with targets set. Provincial government support for maintenance and new buildings has been inconsistent. This has led to a number of schools not being adequately prepared for teaching Grade 11 and 12 classes. Urgent maintenance work is required in many schools around the country.
 
-The Department of Education is implementing the recommendations of the Tololo Report (Department of Education, 1997), carried out by an Inspection Review Committee chaired by the late Sir Alkan T ololo, and is moving towards a greater reliance on school-based teacher appraisal. The Department has also put in place initiatives to train teacher counsellors to provide counselling services in every school.
+The Department of Education is implementing the recommendations of the Tololo Report (Department of Education, 1997), carried out by an Inspection Review Committee chaired by the late Sir Alkan Tololo, and is moving towards a greater reliance on school-based teacher appraisal. The Department has also put in place initiatives to train teacher counsellors to provide counselling services in every school.
 
 ##### Management
 
 The unplanned expansion of secondary schooling has created problems in teacher supply, provision of textbooks and infrastructure. This is particularly pronounced in the upper grades. The costs of upgrading a school in preparation for accepting upper secondary grades, including infrastructure and school materials, is approximately six to eight million kina. This figure is beyond the capacity of most provincial governments.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 32
 
@@ -1041,7 +1191,7 @@ The current curriculum of the College of Distance Education is limited to genera
 
 A Certificate of Business Studies was developed as a part of the Education Development Project. This was designed for Grade 10 and 12 graduates and for those already in the work place. It has not proved particularly successful and few students have completed the certificate.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 33
 
@@ -1073,17 +1223,19 @@ The education reform process has resulted in a growing number of students exitin
 
 There are a number of different types of vocational centres operating in the country. These range from large institutions to small centres catering to just a few students. A number of vocational secondary schools have been established but these have proved difficult to implement in a cost and educationally effective manner.
 
-Vocational education has only seen gradual growth in enrolment during recent years, and any rises in enrolment are often related to the level of subsidy. The number of students in vocational centres rose by 43 per cent between 1995 and 2003. Of those enrolled, 60 per cent were in Year 1 , 30 per cent in Year 2 and the remainder in Year 3 or beyond. There has been little significant increase in female enrolment, which was only 26 per cent of the total in 2003. There is no set length of course and not all students enter in Year 1.
+Vocational education has only seen gradual growth in enrolment during recent years, and any rises in enrolment are often related to the level of subsidy. The number of students in vocational centres rose by 43 per cent between 1995 and 2003. Of those enrolled, 60 per cent were in Year 1, 30 per cent in Year 2 and the remainder in Year 3 or beyond. There has been little significant increase in female enrolment, which was only 26 per cent of the total in 2003. There is no set length of course and not all students enter in Year 1.
 
-Students entering vocational centres are largely Grade 8 graduates, but there are also those who have graduated from Grades 6 and 10. Enrolments in relevant short courses - those with a duration of one day to four weeks, designed for the community - are very low. There are increasing numbers of private providers, largely in the urban areas, who are offering programs that are attractive to many students.
+Students entering vocational centres are largely Grade 8 graduates, but there are also those who have graduated from Grades 6 and 10. Enrolments in relevant short courses - those
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 34
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+
+with a duration of one day to four weeks, designed for the community - are very low. There are increasing numbers of private providers, largely in the urban areas, who are offering programs that are attractive to many students.
 
 The instructor-student ratio has remained at about 1 to 15 overall, but this hides a wide range of differences. Some of the smaller centres only have a few students for every instructor, while others have unmanageably large numbers of students for each instructor.
 
@@ -1099,11 +1251,11 @@ The curriculum has been revised in seven core trade areas based on a competency-
 
 In addition to the trade courses, a number of centres also offer the opportunity for students to take up College of Distance Education courses to upgrade their academic qualifications.
 
-A large number of vocational centre instructors do not have formal teaching qualifications. There is little pre-service teacher education offered aside from a three year diploma program in Hospitality and T ourism offered at the Papua New Guinea Education Institute. In addition, there is the Post Vocational T echnical Clerical and Secretarial course offered at the University of Goroka.
+A large number of vocational centre instructors do not have formal teaching qualifications. There is little pre-service teacher education offered aside from a three year diploma program in Hospitality and Tourism offered at the Papua New Guinea Education Institute. In addition, there is the Post Vocational Technical Clerical and Secretarial course offered at the University of Goroka.
 
 Trade instructors are required to have five years of trade experience before becoming an instructor. A Diploma in Vocational Education and Training has been designed to allow those instructors already working in the field to be able to get a teaching qualification through mixed mode delivery. Unfortunately, there are very few instructors enrolling in the course due to the costs of the residential component at the Papua New Guinea Education Institute. The other components are an agriculture course and further work in their trade areas leading to trade testing qualifications.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 35
 
@@ -1111,7 +1263,7 @@ ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
 
 [[START OF PAGE 48]]
 
-Vocational centre inspectors are part of the T echnical and Vocational Education Training Division, but have not had adequate resources to visit centres. It remains unclear whether vocational or secondary school inspectors are responsible for inspecting the newly established vocational secondary schools.
+Vocational centre inspectors are part of the Technical and Vocational Education Training Division, but have not had adequate resources to visit centres. It remains unclear whether vocational or secondary school inspectors are responsible for inspecting the newly established vocational secondary schools.
 
 ##### Management
 
@@ -1133,13 +1285,13 @@ Technical education is provided by four technical and three business colleges ar
 
 Courses are offered at both certificate and diploma levels. In addition, extension courses are offered that provide advanced skills training, required by industry, to obtain trade certification issued by the Department of Labour and Industrial Relations. Steps are being taken towards the accreditation of the diploma programs to institutions of higher education.
 
-Full-time enrolments at technical institutions have doubled over the last ten years. Approximately half of the students are sponsored by the Office of Higher Education through its T ertiary Education Student Assistance Scholarship program. The majority of the remainder are self-sponsored with about ten per cent company sponsored.  Part-time enrolments have risen, but not to the same degree as full-time enrolments. There is still poor gender equity with approximately 30 per cent of students being female. This figure is only as high as 30 per cent because of the large number of females enrolled at the business colleges.
+Full-time enrolments at technical institutions have doubled over the last ten years. Approximately half of the students are sponsored by the Office of Higher Education through its Tertiary Education Student Assistance Scholarship program. The majority of the remainder are self-sponsored with about ten per cent company sponsored. Part-time enrolments have risen, but not to the same degree as full-time enrolments. There is still poor gender equity with approximately 30 per cent of students being female. This figure is only as high as 30 per cent because of the large number of females enrolled at the business colleges.
 
-A number of colleges are now running short courses out of college hours, but there have been problems with the payment of lecturers who teach these courses. Currently the teachers of these courses are being paid by the governing councils from fees collected because of the inflexibility of T eaching Service Commission regulations.
+A number of colleges are now running short courses out of college hours, but there have been problems with the payment of lecturers who teach these courses. Currently the teachers of these courses are being paid by the governing councils from fees collected because of the inflexibility of Teaching Service Commission regulations.
 
 Since 1995 there has also been a rapid expansion in the number of private providers offering technical courses. These are largely in the urban areas and predominantly in the computer training and business studies sectors.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 36
 
@@ -1151,11 +1303,11 @@ There continues to be very low student-lecturer ratios and little progress has b
 
 ##### Quality
 
-Current staffing problems are, in part, related to changes made to the curriculum since the late 1990s.  There have been significant advances in the development of much broaderbased Technical Training Certificate courses in twelve trade areas. These are two year courses, introduced gradually since 1994, and have been designed to replace the one year Pre-Employment Technical Training courses. They were introduced as a means of allaying employer concerns and provide a much greater degree of multi-skilling. While they were initially designed for Grade 10 students, increasingly Grade 12 graduates have taken up places. The mix of courses offered has been hindered by the lack of any labour market forecasting for many years.
+Current staffing problems are, in part, related to changes made to the curriculum since the late 1990s. There have been significant advances in the development of much broader-based Technical Training Certificate courses in twelve trade areas. These are two year courses, introduced gradually since 1994, and have been designed to replace the one year Pre-Employment Technical Training courses. They were introduced as a means of allaying employer concerns and provide a much greater degree of multi-skilling. While they were initially designed for Grade 10 students, increasingly Grade 12 graduates have taken up places. The mix of courses offered has been hindered by the lack of any labour market forecasting for many years.
 
-Problems with the T echnical Training Certificates have revolved around the lack of time spent on trade specialisation. There have been concerns that too much time has been allocated to general studies, much of which is repetition for Grade 12 students. The lack of specialist laboratories, computer facilities and the funds to purchase adequate teaching materials, as well as a shortage of general studies teachers, have all impeded progress.
+Problems with the Technical Training Certificates have revolved around the lack of time spent on trade specialisation. There have been concerns that too much time has been allocated to general studies, much of which is repetition for Grade 12 students. The lack of specialist laboratories, computer facilities and the funds to purchase adequate teaching materials, as well as a shortage of general studies teachers, have all impeded progress.
 
-In addition to the T echnical Training Certificates, there have been a number of diploma courses designed for those already in the workforce. All colleges are now recognised as trade testing centres to assist the National Apprenticeship and Trade T esting Board in assessing industry competency standards in seven core trade areas and work is underway to extend this initiative to further curriculum areas.
+In addition to the Technical Training Certificates, there have been a number of diploma courses designed for those already in the workforce. All colleges are now recognised as trade testing centres to assist the National Apprenticeship and Trade Testing Board in assessing industry competency standards in seven core trade areas and work is underway to extend this initiative to further curriculum areas.
 
 The bulk of teacher training continues to be offered by the University of Goroka, although there are not enough students graduating to satisfy demand and to localise the teaching force.
 
@@ -1163,13 +1315,13 @@ A number of technical college lecturers have achieved their teacher training qua
 
 ##### Management
 
-The technical colleges are administered from the Department of Education in Port Moresby. Lecturers are appointed under T eaching Service Commission terms and conditions, which make it difficult to attract suitably qualified Papua New Guinean candidates.
+The technical colleges are administered from the Department of Education in Port Moresby. Lecturers are appointed under Teaching Service Commission terms and conditions, which make it difficult to attract suitably qualified Papua New Guinean candidates.
 
 Standardised financial management systems have been put in place in all colleges.
 
 Funding for both college and divisional operations has been dropping in real terms. There is little funding available beyond that for the payment of salaries. This is severely affecting further development of curriculum and the inspection of the institutions.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 37
 
@@ -1201,11 +1353,11 @@ A number of management challenges facing the education sector in this Plan perio
 
 - Strengthening the capacity of the national and sub-national levels to conduct, monitor and evaluate the reform in order to inform strategic planning.
 
-The Department of Education underwent a restructure in mid 1999 to comply with government policy to rationalise the public service. The structure was designed to reflect the needs of the Organic Law on Provincial Governments and Local-level Governments , as well as that of the education reform agenda. Five years later, there is general recognition of the need for a review and further restructure of the functions and structure of the Department to strengthen its capacity for organisational self-improvement.
+The Department of Education underwent a restructure in mid 1999 to comply with government policy to rationalise the public service. The structure was designed to reflect the needs of the Organic Law on Provincial Governments and Local-level Governments, as well as that of the education reform agenda. Five years later, there is general recognition of the need for a review and further restructure of the functions and structure of the Department to strengthen its capacity for organisational self-improvement.
 
 Passage of the Organic Law on Provincial Governments and Local-level Governments has caused a number of problems for the Department of Education in the implementation of the reform agenda. In particular, the provincial education advisers are responsible to the Provincial Administrator rather than to the Secretary for Education. This has resulted in provinces being able to establish schools without necessarily gaining approval from the Department of Education.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 38
 
@@ -1233,13 +1385,13 @@ Financial management processes within the Department of Education are well estab
 
 Provincial and local-level government budgets are approved by the Department of Treasury. The Department of Education has little involvement in the preparation of these budgets.
 
-The procurement of goods and services, varying from office supplies to large volume materials for schools, is carried out at the divisional level. Major procurements have to go through the Central Supply and T enders Board. A number of provinces have their own supply and tenders boards. There is no central printing, production or distribution system to cater for the needs of education institutions or for the Department of Education.
+The procurement of goods and services, varying from office supplies to large volume materials for schools, is carried out at the divisional level. Major procurements have to go through the Central Supply and Tenders Board. A number of provinces have their own supply and tenders boards. There is no central printing, production or distribution system to cater for the needs of education institutions or for the Department of Education.
 
 ##### Information communications technology
 
 The Corporate Data Unit in the Department was established to improve data collection which was deemed critical to the planning and management of the education system.  An Education Management Information System has been developed but, to date has not proved a success. The collection of data continues to be a problem and, unless resolved, will continue to be an impediment to planning and the effective monitoring and implementation of this Plan.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 39
 
@@ -1257,7 +1409,7 @@ The extent of education awareness has been severely limited by inadequate financ
 
 Communication between the national, provincial, district and school levels is poor not only because of lack of resources, but also because of lack of systems. Improvements will need to be made in this area during this Plan period.
 
-ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
+A NATIONAL PLAN FOR EDUCATION - SITUATIONAL ANALYSIS
 
 40
 
@@ -1265,7 +1417,7 @@ ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
 
 [[START OF PAGE 53]]
 
-## Secti n 4
+## Section 4
 
 ### THE PLAN FOR EDUCATION 2005 - 2014
 
@@ -1283,7 +1435,7 @@ ANATIONALPLAN FOR EDUCATION SITUATIONAL ANALYSIS
 
 ### BASIC EDUCATION
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 43
 
@@ -1319,17 +1471,33 @@ Table 3 shows projected enrolment figures. These figures assume that all 6-year 
 
 Table 3: Projected elementary school enrolments, 2005 to 2014, selected years
 
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Preparatory | 123,522 | 156,228 | 188,933 | 211,033 |
+| Elementary 1 | 110,368 | 142,419 | 174,470 | 201,250 |
+| Elementary 2 | 97,691 | 129,101 | 160,511 | 191,921 |
+| Total | 331,582 | 427,748 | 523,914 | 604,204 |
+
 The number of new Elementary Preparatory classes required will be determined by the Department of Education and a quota allocated each year to provinces in accordance with approved plans. The number of new classes to be established each year in order to achieve full enrolment by 2012 is set out below.
 
 Table 4: New elementary preparatory classes required, 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| New preparatory classes | 363 | 363 | 330 | 172 |
 
 The following table shows the number of 6-year old children and the projected number of children enrolled in the preparatory grade.
 
 Table 5: Preparatory enrolment and 6-year old population, 2005 to 2014, selected years
 
-Staffing projections are shown in T able 6. They are based on an average pupil-teacher ratio of 30. This will rise to 33 by 2014. Enrolment increases due to population growth will be accommodated in existing classes rather than through the formation of new classes.
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Preparatory enrolment | 123,522 | 156,228 | 188,933 | 211,033 |
+| 6-yr old population | 165,185 | 179,196 | 194,460 | 211,033 |
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+Staffing projections are shown in Table 6. They are based on an average pupil-teacher ratio of 30. This will rise to 33 by 2014. Enrolment increases due to population growth will be accommodated in existing classes rather than through the formation of new classes.
+
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 45
 
@@ -1343,17 +1511,29 @@ An elementary enrolment rate of 98% by 2014.
 
 All elementary schools have classrooms constructed in accord with guidelines by 2014.
 
-Except under exceptional circumstances, class sizes should not exceed 45 children. Multigrade classes will become institutionalised and techniques for multi-grade teaching will continue to be a key part of teacher training programs.
+Except under exceptional circumstances, class sizes should not exceed 45 children. Multi-grade classes will become institutionalised and techniques for multi-grade teaching will continue to be a key part of teacher training programs.
 
 Table 6: Elementary school teacher requirements, 2005 to 2014, selected years
 
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Preparatory | 4,117 | 5,208 | 5,725 | 6,395 |
+| Elementary 1 | 3,754 | 4,844 | 5,563 | 6,223 |
+| Elementary 2 | 3,391 | 4,481 | 5,391 | 6,056 |
+| Total | 11,262 | 14,533 | 16,680 | 18,673 |
+| Pupil teacher ratio | 29.4 | 29.4 | 31.4 | 32.4 |
+
 To ensure that all children complete three years of education with desired outcomes, they must first be enrolled and then problems of attrition addressed. Different strategies will be researched and explored with particular emphasis being placed on areas that suffer from high drop out rates. It is hoped that strategies to increase community involvement in the schools and the strengthening of the Boards of Management will have a positive impact on enrolments and retention. In particular, issues regarding the value of schooling will be included in the community awareness program at the elementary level of education.
 
-Table 7: Elementary enrolment rates , 2005 to 2014, selected years 1
+Table 7: Elementary enrolment rates¹, 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Elementary enrolment rate | 89.4% | 93.0% | 95.8% | 98.0% |
 
 A major planning exercise will need to be undertaken at all levels. The Department of Education will be responsible for ensuring that suitable numbers of teachers are prepared and that there is equity between provinces. The provincial and district authorities will prepare plans and implementation schedules, while the schools themselves, with the support of the District Education Administrator, will complete individual school plans.
 
-The building of schools, and the provision and acquisition of suitable blocks of land, are the responsibility of individual communities with support from local-level governments. The locallevel governments will budget for and then provide grants to support communities in providing suitable school buildings. Guidelines will be developed for all elementary school buildings, in particular classrooms, which will include minimum recommended dimensions and take into account lighting and other health and safety related considerations.
+The building of schools, and the provision and acquisition of suitable blocks of land, are the responsibility of individual communities with support from local-level governments. The local-level governments will budget for and then provide grants to support communities in providing suitable school buildings. Guidelines will be developed for all elementary school buildings, in particular classrooms, which will include minimum recommended dimensions and take into account lighting and other health and safety related considerations.
 
 The structure of elementary schools and the process for the registration of schools and teachers will be reviewed.
 
@@ -1367,9 +1547,9 @@ The structure of elementary schools and the process for the registration of scho
 
 - Develop guidelines for communities and local-level governments to use for the establishment of elementary schools.
 
-> Calculated as the number in the first three years of schooling as a percentage of the 6 to 8 year old population. Figures include Grades 1 and 2 in the primary sector. 1
+> ¹ Calculated as the number in the first three years of schooling as a percentage of the 6 to 8 year old population. Figures include Grades 1 and 2 in the primary sector.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 46
 
@@ -1411,7 +1591,7 @@ The language of instruction will remain as the language of the community and wil
 
 The Department of Education will provide supervisory services to all elementary schools. The role of the supervisors will be reviewed to allow it to become more advisory in nature as community and school-based teacher appraisal is extended. A monitoring and evaluation mechanism will be put in place to ensure that standards are maintained and enhanced.
 
-Communities, through Boards of Management, will be provided with the opportunity to have a greater say in the appraisal of the teachers working in their schools. T eacher attendance, acceptability to and relationships with the community will be monitored by representatives of the community.
+Communities, through Boards of Management, will be provided with the opportunity to have a greater say in the appraisal of the teachers working in their schools. Teacher attendance, acceptability to and relationships with the community will be monitored by representatives of the community.
 
 ###### Strategies and Activities
 
@@ -1429,7 +1609,7 @@ Communities, through Boards of Management, will be provided with the opportunity
 
 - Develop locally based materials in the vernacular.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 47
 
@@ -1437,7 +1617,7 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 60]]
 
-An average of 1 100 teachers enrol in elementary teacher courses each year.
+An average of 1100 teachers enrol in elementary teacher courses each year.
 
 A flexible system of delivering teacher in-service is implemented by 2006.
 
@@ -1445,7 +1625,7 @@ A flexible system of delivering teacher in-service is implemented by 2006.
 
 - Determine criteria and identify orthographies to be developed.
 
-- Establish an implementation process for orthography development. ·
+- Establish an implementation process for orthography development.
 
 - Monitor and evaluate teaching and learning to enhance standards.
 
@@ -1475,11 +1655,15 @@ Table 8 shows the number of teacher trainees required.
 
 Table 8: Projected number of new elementary teachers required for training, 2005 to 2014, selected years
 
-The selection of a teacher is the responsibility of the community and the school Board of Management. Continued efforts will be made to encourage the selection of female trainees. The criteria used to make this selection will be reviewed. The existing guidelines will be reviewed to include the proviso that selected trainees should have lived for at least three years, following completion of their schooling, in the community that they are going to serve. They should be able to speak the language of instruction selected by the community. In addition, they should be knowledgeable about the customs, values and traditions of the community. At the discretion of the Secretary for Education, trainee teachers without a Grade 10 education will be able to enrol in the Certificate of Elementary T eaching program. This will continue to allow for the establishment of schools in remote areas.
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| New teachers | 1,153 | 1,359 | 841 | 1,030 |
+
+The selection of a teacher is the responsibility of the community and the school Board of Management. Continued efforts will be made to encourage the selection of female trainees. The criteria used to make this selection will be reviewed. The existing guidelines will be reviewed to include the proviso that selected trainees should have lived for at least three years, following completion of their schooling, in the community that they are going to serve. They should be able to speak the language of instruction selected by the community. In addition, they should be knowledgeable about the customs, values and traditions of the community. At the discretion of the Secretary for Education, trainee teachers without a Grade 10 education will be able to enrol in the Certificate of Elementary Teaching program. This will continue to allow for the establishment of schools in remote areas.
 
 Opportunities will be provided for serving teachers, both women and men, to further increase their professional knowledge and skills. In particular, teachers-in-charge will receive support to enhance their school leadership in areas of curriculum, professional learning and financial management. Women teachers will be given the opportunity to develop their leadership skills.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 48
 
@@ -1521,19 +1705,30 @@ In order to achieve the major outcome of making elementary education available f
 
 The table below shows elementary school subsidy costs. The very large increase in costs over the period of the Plan reflects both the rapid rise in enrolments to reach targets and the rise in the subsidy allocation per child required to provide all basic school supplies.
 
-Table 9: Elementary school subsidies (K'000s), 2005 to 2014, selected years
+Table 9: Elementary school subsidies (K’000s), 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Elementary subsidies | 11,605.4 | 21,387.4 | 39,293.5 | 54,378.3 |
 
 Some contribution will still be expected from parents for the education of their children. Schools will continue to be able to levy fees, where appropriate, in accordance with National and Provincial Education Board directives.
 
 The major cost of elementary education is teacher salaries as shown by Table 10 below. The number of teachers allocated to each province will be based on the number of children enrolled and approved plans.
 
-The number of teachers allocated to each province will be overseen by the Department of Education and the T eaching Service Commission following the formation of a Position Allocation Committee to determine the allocation of positions. This group will determine criteria for the deployment of teachers to be based primarily on enrolments.
+The number of teachers allocated to each province will be overseen by the Department of Education and the Teaching Service Commission following the formation of a Position Allocation Committee to determine the allocation of positions. This group will determine criteria for the deployment of teachers to be based primarily on enrolments.
 
-Table 10: Elementary school teacher salaries and emoluments (K'000s), 2005 to 2014, selected years 2
+Table 10: Elementary school teacher salaries and emoluments (K’000s), 2005 to 2014, selected years²
 
-> Allowances are calculated at 5% of salary 2
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Salaries | 67,286.6 | 90,281.3 | 109,931.4 | 123,727.6 |
+| Allowances | 3,364.3 | 4,514.1 | 5,496.6 | 6,186.4 |
+| Leave fares | 0.0 | 0.0 | 0.0 | 0.0 |
+| Total | 70,650.9 | 94,795.4 | 115,427.9 | 129,914.0 |
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+> ² Allowances are calculated at 5% of salary
+
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 49
 
@@ -1611,7 +1806,7 @@ The National Government will be responsible for:
 
 - providing technical assistance in areas of planning, management and legal matters.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 50
 
@@ -1637,13 +1832,13 @@ Sufficient primary school classes established to achieve access and retention ta
 
 Grade 1 and 2 classes will be phased out of primary schools by 2012. Facilities that become available will be used to accommodate the newly established Grade 7 and 8 classes. All children completing Grade 6 will be given the opportunity to enter Grade 7 from 2012.
 
-It is anticipated that the majority of primary school-aged children will complete primary education without imposing compulsion. Attrition remains a priority issue. Programs such as child-friendly schools, improved community awareness, the training of Board of Management members and further solutions will be tested out. For example, a further trigger for this improvement will be the replacement of subsidies by an incentives scheme for all Grade 8 graduates. Almost 70 per cent of both boys and girls enrolled in Grade 1 , either in the elementary or the primary sectors, will complete Grade 6 by the end of the Plan period. A review will be undertaken of the policy relating to enrolment to include issues of enrolment, attendance and repetition. The Special Education Resource Centres will continue to provide an opportunity for education for those children who cannot be accommodated in the main stream schools.
+It is anticipated that the majority of primary school-aged children will complete primary education without imposing compulsion. Attrition remains a priority issue. Programs such as child-friendly schools, improved community awareness, the training of Board of Management members and further solutions will be tested out. For example, a further trigger for this improvement will be the replacement of subsidies by an incentives scheme for all Grade 8 graduates. Almost 70 per cent of both boys and girls enrolled in Grade 1, either in the elementary or the primary sectors, will complete Grade 6 by the end of the Plan period. A review will be undertaken of the policy relating to enrolment to include issues of enrolment, attendance and repetition. The Special Education Resource Centres will continue to provide an opportunity for education for those children who cannot be accommodated in the main stream schools.
 
 In order to move closer to achieving universal education at this level, the problems of attrition, particularly that of girls, will have to be addressed. Initially, the introduction of the Grade 8 Graduate Incentive Scheme to replace post primary education subsidies should encourage students to complete Grade 8. Other strategies in the Plan will look to increase community involvement, provide Board of Management training and to provide better counselling of students. Recent studies have indicated that the degree of community support and the strength of the Board of Management impacts positively on teacher and student attendance, which will also have a positive impact on the retention of students.
 
 In addition, the awareness program will include elements to demonstrate the value of schooling, for both boys and girls, to be delivered at the district and local levels. There will be trials conducted at targeted schools to determine the effectiveness of a number of initiatives. Included among these will be a school lunch program. Consideration should be given to enhancing the Health Promoting Schools program.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 51
 
@@ -1655,17 +1850,43 @@ An average 150 new Grade 7 classes established each year.
 
 Table 11 shows projected enrolments and Table 12 projected goals for rises in retention.
 
-Table 11: Projected primary school enrolments - 2005 to 2014, selected years
+Table 11: Projected primary school enrolments – 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Grade 1 | 50,407 | 28,279 | 7,646 | 0 |
+| Grade 2 | 49,224 | 30,780 | 12,523 | 0 |
+| Grade 3 | 125,345 | 139,968 | 152,113 | 168,301 |
+| Grade 4 | 110,292 | 124,837 | 137,984 | 154,197 |
+| Grade 5 | 93,792 | 106,607 | 119,692 | 133,793 |
+| Grade 6 | 82,005 | 91,799 | 103,787 | 114,585 |
+| Grade 7 | 62,618 | 78,235 | 93,853 | 104,078 |
+| Grade 8 | 52,048 | 66,152 | 80,265 | 90,703 |
+| Total | 625,731 | 666,658 | 707,863 | 765,657 |
 
 Table 12: Primary school retention rates, 2005 to 2014, selected years
 
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Grade 1 to 6 | 56.2% | 61.1% | 62.8% | 66.0% |
+| Grade 1 to 8 | 38.8% | 52.2% | 52.1% | 54.3% |
+
 It is anticipated that the primary school Grades 3 to 8 enrolment rate will rise as shown in Table 13 below.
 
-Table 13: Primary school enrolment rates , 2005 to 2014, selected years 3
+Table 13: Primary school enrolment rates³, 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Primary enrolment rate | 61.2% | 65.6% | 68.6% | 70.2% |
 
 Table 14 shows the number of 14-year old children and the projected number of children enrolled in Grade 8.
 
 Table 14: Grade 8 enrolment and the 14-year old population, 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Grade 8 enrolment | 57,966 | 69,743 | 81,694 | 90,703 |
+| 14-yr old population | 137,474 | 149,116 | 156,489 | 169,722 |
 
 Achieving this projected enrolment rate will require the establishment of approximately 150 new primary school Grade 7 classes each year, as shown in Table 15.
 
@@ -1673,9 +1894,9 @@ The Department of Education will determine the number of new Grade 7 classes tha
 
 Individual schools will produce their own development plans, with support from the District Education Administrator, to allow for medium-term planning for staffing and infrastructure needs. School plans will also include measures to improve the quality of education provided.
 
-> Calculated as the enrolment in Grades 3 to 8 as a percentage of the 9 to 14-year old population. 3
+> ³ Calculated as the enrolment in Grades 3 to 8 as a percentage of the 9 to 14-year old population.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 52
 
@@ -1695,35 +1916,53 @@ This should include the provision of library facilities and resources. Schools s
 
 Table 15: New Grade 7 classes required to meet targets, 2005 to 2014, selected years
 
-Staffing projections for the primary sector during the Plan period are shown in T able 16 below. They have been based upon the following assumptions regarding average class size:
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| New Grade 7 classes | 149 | 149 | 141 | 105 |
 
-- 40 in Grade 3 based upon historical data rising to 42 after 2012.
+Staffing projections for the primary sector during the Plan period are shown in Table 16 below. They have been based upon the following assumptions regarding average class size:
 
 - 45 in Grade 1 classes, based upon recent historical data.
 
+- 40 in Grade 3 based upon historical data rising to 42 after 2012.
+
 - 35 in Grade 7 rising to 37 after 2012.
 
-Multi-grade teaching will become institutionalised using set criteria. The criteria for multigrade classes will be determined by the group formed to allocate teaching positions and be consistent with the performance based duty statements approved in 2002.
+Multi-grade teaching will become institutionalised using set criteria. The criteria for multi-grade classes will be determined by the group formed to allocate teaching positions and be consistent with the performance based duty statements approved in 2002.
 
 Teacher-to-class ratios in Grades 7 to 8 will be reduced from 1.5 to 1 by 2009 due to the implementation of the reform primary curriculum. This will result in a reduction of about 3,000 in the demand for teachers and salary savings will be in the region of K240m over the Plan period. Larger schools requiring an administrative head with only a minor teaching role will be determined by the group allocating positions. The structure of schools with large enrolments will also be reviewed.
 
-The effect of these changes will result in a teacher-pupil ratio of 1:37 by the end of the Plan period. T eacher requirements for the Plan period are shown in T able 16.
+The effect of these changes will result in a teacher-pupil ratio of 1:37 by the end of the Plan period. Teacher requirements for the Plan period are shown in Table 16.
 
 Table 16: Primary school teacher requirements, 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Grade 1 | 1,120 | 628 | 170 | 0 |
+| Grade 2 | 1,269 | 782 | 320 | 0 |
+| Grade 3 | 3,134 | 3,499 | 3,622 | 4,007 |
+| Grade 4 | 3,028 | 3,390 | 3,604 | 3,867 |
+| Grade 5 | 2,920 | 3,239 | 3,576 | 3,745 |
+| Grade 6 | 2,800 | 3,134 | 3,499 | 3,622 |
+| Grade 7/8 | 4,587 | 4,538 | 4,975 | 5,565 |
+| Total | 18,858 | 19,211 | 19,765 | 20,805 |
+| Pupil teacher ratio | 33.2 | 34.7 | 35.8 | 36.8 |
 
 The problems being faced by remote rural communities will be addressed and all schools will be staffed according to an agreed formula. There will be enhanced incentives to attract teachers to serve in remote areas. A determination will be made as to what constitutes a remote and disadvantaged school for the purposes of attracting a disadvantaged school allowance. In addition, there will be a package of non-monetary inducements.
 
 It is not unreasonable for a teacher to expect a minimum standard of housing, to be determined on the basis of agreed criteria, if required to teach in a remote community. This standard of housing should be used as a basis for a teacher taking up a position. Communities and Boards of Management will be made aware of their obligations regarding the provision of teacher housing.
 
-At the upper primary level the problem of access for children from remote communities will be addressed through a variety of strategies. Both boys and girls in remote areas will be given the opportunity to remain in their local schools for Grades 7 and 8. This can be achieved through the use of multi-grade teaching and the provision of additional teacher resource materials that would include the newly developed flexible, open and distance A system of return of service applied by 2007.
+At the upper primary level the problem of access for children from remote communities will be addressed through a variety of strategies. Both boys and girls in remote areas will be given the opportunity to remain in their local schools for Grades 7 and 8. This can be achieved through the use of multi-grade teaching and the provision of additional teacher resource materials that would include the newly developed flexible, open and distance
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 53
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
+
+A system of return of service applied by 2007.
 
 A curriculum completed and distributed to all schools by 2005.
 
@@ -1777,9 +2016,9 @@ Local-level governments are required to contribute to the maintenance of schools
 
 A relevant primary curriculum is developed, implemented and monitored.
 
-The lower primary reform curriculum will be completed and distributed to schools. There will be a regular review of all syllabuses and teachers guides prepared for the primary curriculum on a five year cycle. Updated syllabuses and teachers guides will be provided for all primary schools as necessary. T ext books will be supplied at the approved ratio of 1 to 2 students in lower primary and 1 to 1 in upper primary as outlined in the National Policy for the Procurement, Distribution and Storage of Curriculum Materials (Department of Education, 2003) to support the reform curriculum. This will be the responsibility of the Department of Education with support from donor agencies. The National Policy for the Procurement, Literacy and numeracy standards reported biennially from 2007.
+The lower primary reform curriculum will be completed and distributed to schools. There will be a regular review of all syllabuses and teachers guides prepared for the primary curriculum on a five year cycle. Updated syllabuses and teachers guides will be provided for all primary schools as necessary. Text books will be supplied at the approved ratio of 1 to 2 students in lower primary and 1 to 1 in upper primary as outlined in the National Policy for the Procurement, Distribution and Storage of Curriculum Materials (Department of Education, 2003) to support the reform curriculum. This will be the responsibility of the Department of Education with support from donor agencies. The National Policy for the Procurement,
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 54
 
@@ -1787,17 +2026,19 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 67]]
 
+Literacy and numeracy standards reported biennially from 2007.
+
 Head teachers contribute to the appraisal of teachers by 2008.
 
 All Boards of Management contribute to appraisal by 2008.
 
-Distribution and Storage of Curriculum Materials will be implemented as the basis for major curriculum materials distribution and will be reviewed in 2007 .
+Distribution and Storage of Curriculum Materials will be implemented as the basis for major curriculum materials distribution and will be reviewed in 2007.
 
 The Department will support the development of locally-based programs and support materials, which will include school journals, linked to the reform curriculum. This support will include the provision of training. Schools will also be given access to distance education materials to support their teaching in the upper primary grades. The Department will ensure that appropriate student and teacher materials are produced and supplied to support the HIV/AIDS policy.
 
 The Department acknowledges the critical role that libraries have to play in education. Schools will be encouraged to develop their libraries and to stock them with materials that both support and complement the school curriculum.
 
-Standards monitoring will be strengthened and at Grades 3, 5 and 8 a Curriculum Standards Monitoring T est will be administered by the Department. Literacy and numeracy performance at these grades will be reported on biennially. The Grade 8 Certificate of Basic Education Examination will be reviewed to ensure that it remains consistent with the reform curriculum.
+Standards monitoring will be strengthened and at Grades 3, 5 and 8 a Curriculum Standards Monitoring Test will be administered by the Department. Literacy and numeracy performance at these grades will be reported on biennially. The Grade 8 Certificate of Basic Education Examination will be reviewed to ensure that it remains consistent with the reform curriculum.
 
 Inspectors will visit and provide written reports on schools visited in order to monitor the implementation of the curriculum, teaching standards and other aspects of schooling such as head teacher and student performance. There will be greater community and head teacher involvement in the appraisal of teachers. This will allow inspectors to take on a much greater advisory role.
 
@@ -1827,7 +2068,7 @@ Local communities, through the Board of Management, will be given greater author
 
 - Review the Certificate of Basic Education Examination to ensure consistency with the reform curriculum.
 
-- Implement the Curriculum Standards Monitoring T est.
+- Implement the Curriculum Standards Monitoring Test.
 
 - Develop and trial a qualitative means of monitoring and evaluating teaching and learning.
 
@@ -1843,7 +2084,7 @@ Local communities, through the Board of Management, will be given greater author
 
 - Endeavour to achieve a more equal representation of genders on Boards of Management.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 55
 
@@ -1865,21 +2106,25 @@ All schools will have access to a trained teacher counsellor by 2007.
 
 Sufficient appropriately trained and qualified teachers prepared for primary schooling.
 
-Pre-service teacher education is a two year trimester diploma program suitable for Grade 12 graduates. The demand for teachers will rise following the relocation of all the Grade 1 and 2 classes to the elementary schools. This will necessitate the establishment of further places for teacher trainees which should be preceded by a teacher supply and demand study to be carried out in 2009. Table 17 below shows the number of graduates expected from the teachers colleges. T aking into account historical rates of attrition, currently at around 4 per cent, and anticipated needs, about 1200 new students will need to be enrolled in the colleges each year.
+Pre-service teacher education is a two year trimester diploma program suitable for Grade 12 graduates. The demand for teachers will rise following the relocation of all the Grade 1 and 2 classes to the elementary schools. This will necessitate the establishment of further places for teacher trainees which should be preceded by a teacher supply and demand study to be carried out in 2009. Table 17 below shows the number of graduates expected from the teachers colleges. Taking into account historical rates of attrition, currently at around 4 per cent, and anticipated needs, about 1200 new students will need to be enrolled in the colleges each year.
 
 Table 17: Primary school teacher college intakes, 2005 to 2014, selected years
 
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Teachers College intake | 1,200 | 1,200 | 1,200 | 1,200 |
+
 The Department of Education will identify the number of teachers required on an annual basis. Grade 10 graduates from areas with a demonstrated teacher shortage will be allowed access to colleges at the discretion of the Secretary for Education. A specified percentage of these places will be made available for women. Foundation courses will be required for those students who have not upgraded their qualifications through distance education.
 
-The work of teachers has changed as a result of the reform process. The demands of the curriculum in terms of relevant content, the resources required, teaching approaches and levels of training are impacting on the teacher education curriculum. The curriculum and pedagogy practiced at the Primary T eachers Colleges will continually be reviewed to take into account these and other issues, such as outcomes-based curriculum, inclusive teaching practice and cultural relevance, to ensure consistency with the reform curriculum. Due consideration will be given to issues related to gender and children with special needs.
+The work of teachers has changed as a result of the reform process. The demands of the curriculum in terms of relevant content, the resources required, teaching approaches and levels of training are impacting on the teacher education curriculum. The curriculum and pedagogy practiced at the Primary Teachers Colleges will continually be reviewed to take into account these and other issues, such as outcomes-based curriculum, inclusive teaching practice and cultural relevance, to ensure consistency with the reform curriculum. Due consideration will be given to issues related to gender and children with special needs.
 
 Professional development programs for primary school teachers will be conducted at regional and provincial levels by the Department of Education and the provincial divisions. Teachers will be encouraged to have a greater input in decisions regarding the implementation of curriculum at the school level. In particular, teachers will be encouraged to solve common problems through the establishment of professional learning teams in schools. Provision of information about HIV/AIDS will be made available to all participants at professional development workshops.
 
-Current programs and the role of the Papua New Guinea Education Institute will be reviewed and strengthened with a view to putting in place a more flexible delivery mechanism for teacher in-service programs. T eacher education programs will concentrate on the preparation of all teachers to teach the new primary school curriculum and to deal with the acknowledged problems being faced in Grade 3 and beyond. This will include multi-grade teaching and bridging at Grade 3. T eachers will be provided with opportunities to increase their proficiency in dealing with learning areas concerned with children with special needs. There will also be an increasing emphasis on school leadership training for all head teachers and Boards of Management, including school, financial and asset management training.
+Current programs and the role of the Papua New Guinea Education Institute will be reviewed and strengthened with a view to putting in place a more flexible delivery mechanism for teacher in-service programs. Teacher education programs will concentrate on the preparation of all teachers to teach the new primary school curriculum and to deal with the acknowledged problems being faced in Grade 3 and beyond. This will include multi-grade teaching and bridging at Grade 3. Teachers will be provided with opportunities to increase their proficiency in dealing with learning areas concerned with children with special needs. There will also be an increasing emphasis on school leadership training for all head teachers and Boards of Management, including school, financial and asset management training.
 
 The increasing importance of guidance and counselling at primary schools, particularly in the upper grades, will be provided through the continuing training of teacher counsellors. This training will be facilitated by the Guidance Officers from the Department.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 56
 
@@ -1889,9 +2134,9 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 A national framework of standards established by 2008.
 
-Increasing linkages between the teachers colleges and the universities will require the establishment of a national framework for standards in teacher training. This will ensure that standards of teacher training are maintained, the curriculum supports the reform curriculum and changes to teaching approaches, such as multi-grade teaching, are taught. The responsibilities of the T eacher Education Board of Studies that deals with standards and practises in the colleges will be reviewed having particular regard to how this role can be taken over by institutions and be monitored by the National Framework.
+Increasing linkages between the teachers colleges and the universities will require the establishment of a national framework for standards in teacher training. This will ensure that standards of teacher training are maintained, the curriculum supports the reform curriculum and changes to teaching approaches, such as multi-grade teaching, are taught. The responsibilities of the Teacher Education Board of Studies that deals with standards and practises in the colleges will be reviewed having particular regard to how this role can be taken over by institutions and be monitored by the National Framework.
 
-The administrative practices within the Primary T eachers Colleges will be standardised and training opportunities will be available for both the teaching staff and the managers of the colleges. The training of staff will include the introduction of an institutionally-based system of professional appraisal. The upgrading of qualifications will be encouraged for all teacher educators.
+The administrative practices within the Primary Teachers Colleges will be standardised and training opportunities will be available for both the teaching staff and the managers of the colleges. The training of staff will include the introduction of an institutionally-based system of professional appraisal. The upgrading of qualifications will be encouraged for all teacher educators.
 
 Individual college plans will be developed, which will be integrated into the divisional annual plans. This will help improve the coordination of the colleges by the Department of Education.
 
@@ -1903,7 +2148,7 @@ Individual college plans will be developed, which will be integrated into the di
 
 - Conduct teacher supply and demand study in 2009.
 
-- Continually review and update the Primary T eachers College curriculum.
+- Continually review and update the Primary Teachers College curriculum.
 
 - Review and strengthen inclusive teaching practices in the colleges and in the curriculum.
 
@@ -1925,19 +2170,19 @@ Individual college plans will be developed, which will be integrated into the di
 
 - Provide training for school asset management to include the storage and care of textbooks and procurement of basic school materials.
 
-- Provide professional development opportunities for male and female Primary T eachers College staff.
+- Provide professional development opportunities for male and female Primary Teachers College staff.
 
 - Increase teacher educators' knowledge of gender equity and children with special needs, bilingual teaching and assessment processes.
 
 - Provide teacher educators with professional development in targeted areas.
 
-- Improve linkages and coordination between the Primary T eachers Colleges and the divisions in the Department responsible for curriculum development and inspections.
+- Improve linkages and coordination between the Primary Teachers Colleges and the divisions in the Department responsible for curriculum development and inspections.
 
-- Support the effective operation of Primary T eachers Colleges.
+- Support the effective operation of Primary Teachers Colleges.
 
 - Establish a national framework for standards in teacher training.
 
-- Review the role of the T eacher Education Board of Studies
+- Review the role of the Teacher Education Board of Studies
 
 - Develop and implement individual college plans.
 
@@ -1947,7 +2192,7 @@ Individual college plans will be developed, which will be integrated into the di
 
 - Introduce college-based staff appraisal.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 57
 
@@ -1967,7 +2212,14 @@ Primary education is cost-effective and affordable for parents and government.
 
 Consistent with government objectives there will be increases in the level of subsidy to the primary grades. The total subsidies in this sector will rise in accord with the rise in enrolments. There will be a need for parental contributions, in cash or kind, for all children in Grades 3 to 8. Boards of Management will determine the level of these contributions in line with guidelines set by the National and Provincial Education Boards. Parental contributions will be reviewed on an annual basis taking into account the levels of subsidies provided by government. Table 18 shows the subsidy requirements for primary education.
 
-Table 18: Primary school subsidies by grade (K'000s), 2005 to 2014, selected years
+Table 18: Primary school subsidies by grade (K’000s), 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Grade 1 to 2 | 3,487.1 | 2,067.1 | 705.9 | 0.0 |
+| Grade 3 to 5 | 16,471.5 | 18,570.6 | 20,489.5 | 22,814.6 |
+| Grade 6 to 8 | 11,800.3 | 14,171.2 | 16,674.3 | 18,561.9 |
+| Total | 31,758.8 | 34,808.9 | 37,869.7 | 41,376.5 |
 
 Schools will be encouraged to embark on self-reliance initiatives in order to reduce the burden on parents. Wherever possible these activities should be linked to the national curriculum.
 
@@ -1975,7 +2227,14 @@ The major cost of primary education is in teacher salaries as shown in Table 19 
 
 Vernacular language speakers and writers will be appointed to teach the bridging classes in Grade 3 and training will be provided for them. Multi-grade teaching will be institutionalised.
 
-Table 19: Primary school teacher salaries and emoluments (K'000s), 2005 to 2014, selected years 4
+Table 19: Primary school teacher salaries and emoluments (K’000s), 2005 to 2014, selected years⁴
+
+|  | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Salaries | 231,218.5 | 235,543.0 | 242,344.7 | 255,095.3 |
+| Allowances | 11,560.9 | 11,777.2 | 12,117.2 | 12,754.8 |
+| Leave fares | 9,248.7 | 9,421.7 | 9,693.8 | 10,203.8 |
+| Total | 252,028.2 | 256,741.9 | 264,155.8 | 278,053.9 |
 
 ###### Strategies and Activities
 
@@ -1985,11 +2244,11 @@ Table 19: Primary school teacher salaries and emoluments (K'000s), 2005 to 2014,
 
 - Ascertain realistic and affordable levels of parental contributions.
 
-- Reduce the burden of school fees on parents through schools undertaking selfreliance activities.
+- Reduce the burden of school fees on parents through schools undertaking self-reliance activities.
 
-> Allowances are calculated at 5% and leave fares at 4% of salary. 4
+> ⁴ Allowances are calculated at 5% and leave fares at 4% of salary.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 58
 
@@ -2059,7 +2318,7 @@ The National Government will be responsible for:
 
 - providing technical assistance in areas of planning and management.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 59
 
@@ -2075,7 +2334,7 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 ### POST PRIMARY EDUCATION
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 61
 
@@ -2092,6 +2351,8 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 The transition rate between Grades 8 and 9 reduced to no less than 50% by 2014.
 
 The transition rate between Grades 10 and 11 maintained at 25%.
+
+Girls occupy 48% of places in lower secondary and 45% in upper secondary by 2014.
 
 #### SECONDARY EDUCATION
 
@@ -2115,9 +2376,9 @@ The rapid and largely ad hoc expansion in the number of schools offering Grade 1
 
 Secondary schools offering Grade 11 and 12 classes must be properly planned and have all necessary buildings, equipment and teaching materials in place before teachers are allocated and Grade 11 classes enrolled.
 
-A review into the role of the national high schools will be conducted in late 2004. This review will consider aspects of funding, responsibility, and look at options for specialisation Girls occupy 48% of places in lower secondary and 45% in upper secondary by 2014.
+A review into the role of the national high schools will be conducted in late 2004. This review will consider aspects of funding, responsibility, and look at options for specialisation
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 63
 
@@ -2125,29 +2386,56 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 76]]
 
-An average of eight new Grade 11 classes established each year.
-
 and schools of excellence. The findings of this review will be considered and then implemented in the early years of the Plan.
 
 The school boards of governors, provincial education authorities and the provincial governments will be responsible for the maintenance of school buildings and grounds. The maintenance and the upgrading of existing schools, rather than the construction of new schools, will be the priority of provincial and school boards.
 
-On this basis, T able 20 shows the projected student enrolments in secondary education over the Plan period. These figures include those for the national high schools. The percentage of girls in lower secondary will rise from the present 41 percent to 48 percent and in upper secondary from 37 percent to 45 percent over the Plan period.
+Girls occupy 48% of places in lower secondary and 45% in upper secondary by 2014.
+
+On this basis, Table 20 shows the projected student enrolments in secondary education over the Plan period. These figures include those for the national high schools. The percentage of girls in lower secondary will rise from the present 41 percent to 48 percent and in upper secondary from 37 percent to 45 percent over the Plan period.
 
 Table 20: Projected secondary school enrolments, 2005 to 2014, selected years
 
-Tables 21 and 22 show the number of 15 and 17 -year old students and the projected numbers enrolled in Grades 9 and 11 respectively.
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Grade 7 | 5,621 | 3,212 | 803 | 0 |
+| Grade 8 | 5,918 | 3,590 | 1,429 | 0 |
+| Grade 9 | 31,080 | 33,489 | 38,830 | 44,837 |
+| Grade 10 | 27,071 | 29,186 | 32,893 | 38,247 |
+| Grade 11 | 8,345 | 9,065 | 9,786 | 10,509 |
+| Grade 12 | 7,715 | 8,415 | 9,095 | 9,777 |
+| Total | 85,750 | 86,958 | 92,837 | 103,370 |
+
+Tables 21 and 22 show the number of 15 and 17-year old students and the projected numbers enrolled in Grades 9 and 11 respectively.
 
 Table 21: Grade 9 enrolment and the 15-year old population, 2005 to 2014, selected years
 
-Table 22: Grade 11 enrolment and the 17 -year old population, 2005 to 2014, selected years
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Grade 9 enrolment | 31,080 | 33,489 | 38,830 | 44,837 |
+| 15-yr old population | 130,941 | 145,123 | 152,324 | 165,185 |
+
+Table 22: Grade 11 enrolment and the 17-year old population, 2005 to 2014, selected years
+
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Grade 11 enrolment | 8,345 | 9,065 | 9,786 | 10,509 |
+| 17-yr old population | 123,974 | 137,474 | 149,116 | 156,489 |
 
 The number of new Grade 9 and Grade 11 classes to be established is shown in Table 23 below.
 
 Table 23: New secondary school classes required, 2005 to 2014, selected years
 
-Despite an increase of more than 40 per cent in the number of Grade 9 and 10 students during the Plan period, the lower secondary enrolment rate will only rise to 26.2 per cent. This is due to the very high rate of population growth and the government objective of focusing on the provision of basic education. The enrolment rate in the upper secondary grades will remain constant at about 6.6 per cent as a result of the minimal expansion Teachers allocated at a rate of 1.5 per class by 2009.
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| New Grade 9 classes | 19 | 19 | 47 | 48 |
+| New Grade 11 classes | 8 | 8 | 8 | 8 |
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+An average of eight new Grade 11 classes established each year.
+
+Despite an increase of more than 40 per cent in the number of Grade 9 and 10 students during the Plan period, the lower secondary enrolment rate will only rise to 26.2 per cent. This is due to the very high rate of population growth and the government objective of focusing on the provision of basic education. The enrolment rate in the upper secondary grades will remain constant at about 6.6 per cent as a result of the minimal expansion
+
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 64
 
@@ -2155,25 +2443,34 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 77]]
 
-planned in the sector. The expansion planned in the sector is eight new classes per year. Alternative pathways will be provided in distance education and vocational education. T ables 24 and 25 show the transition and enrolment rates.
+planned in the sector. The expansion planned in the sector is eight new classes per year. Alternative pathways will be provided in distance education and vocational education. Tables 24 and 25 show the transition and enrolment rates.
 
 Table 24: Secondary transition rates, 2005 to 2014, selected years
 
-5
----
-6
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Grade 8 to 9 | 60.7% | 51.1% | 50.0% | 50.0% |
+| Grade 10 to 11 | 29.4% | 31.8% | 31.4% | 28.8% |
 
 Table 25: Secondary enrolment rates, 2005 to 2014, selected years
 
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Lower secondary enrolment rate⁵ | 22.5% | 21.9% | 23.5% | 25.5% |
+| Upper secondary enrolment rate⁶ | 6.6% | 6.5% | 6.4% | 6.6% |
+
+Teachers allocated at a rate of 1.5 per class by 2009.
+
 Staffing at the secondary level will be based upon 1.5 teachers per class in both upper and lower secondary classes. This is a reduction from 1.75 teachers per class currently allocated in the higher grades. It will result in salary savings of more than K20 million over the Plan period. It is further assumed that expatriate contract officers will be phased out by 2008.
 
-Lower secondary
----
-Upper secondary
-Total
-Pupil teacher ratio
+Table 26: Secondary school staffing requirements, 2005 to 2014, selected years
 
-T able 26: Secondary school staffing requirements, 2005 to 2014, selected years
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Lower secondary | 2,489 | 2,481 | 2,641 | 2,967 |
+| Upper secondary | 803 | 874 | 944 | 1,014 |
+| Total | 3,292 | 3,355 | 3,585 | 3,982 |
+| Pupil teacher ratio | 26.0 | 25.9 | 25.9 | 26.0 |
 
 ###### Strategies and Activities
 
@@ -2193,27 +2490,17 @@ T able 26: Secondary school staffing requirements, 2005 to 2014, selected years
 
 - Establish and enforce agreements with provincial governments concerning guidelines for the expansion of secondary schools.
 
-> Calculated as enrolment in Grades 9 and 10 as a percentage of the 15 and 16-year age groups. 5
+⁵ Calculated as enrolment in Grades 9 and 10 as a percentage of the 15 and 16-year age groups.
 
-> Calculated as enrolment in Grades 11 and 12 as a percentage of the 17 and 18-year age groups. 6
+⁶ Calculated as enrolment in Grades 11 and 12 as a percentage of the 17 and 18-year age groups.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 65
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
-
-All lower secondary reform curriculum materials distributed to schools by 2007.
-
-Curriculum materials reviewed, developed and distributed annually.
-
-Locally based projects developed at all schools by 2014.
-
-Inspectors will report on schools annually.
-
-All secondary schools have a trained teacher counsellor by 2007.
 
 ##### Quality curriculum and monitoring
 
@@ -2223,33 +2510,37 @@ A relevant secondary curriculum is developed, implemented and monitored.
 
 The reform curriculum will be developed in consultation with all stakeholders and with reference to the government's export-driven economic strategy. Advances in technology will be harnessed to increase access to teacher support materials.
 
+Curriculum materials reviewed, developed and distributed annually.
+
 The Department of Education will develop, publish and distribute new reform curriculum materials for secondary schools. It will be the responsibility of the Department of Education to procure and distribute any new curriculum materials in accordance with the National Policy for the Procurement, Distribution and Storage of Curriculum Materials (Department of Education, 2003). Books will be distributed to students in the approved ratio of one to one.
 
-The development of locally-based projects linked to the national curriculum will be encouraged. The Department of Education will provide technical assistance and advice to schools taking this initiative and monitor school-based curriculum development to ensure consistency. There will be increased emphasis on skills development in the development of the lower secondary curriculum, taking into account the National Skills Plan - Enhancing our Futures, (Department of Education and National Research Institute, 2000) and the work being carried out in the vocational sector. This change in emphasis will cater for the existing and proposed institutions currently designated as Vocational Secondary Schools.
+All lower secondary reform curriculum materials distributed to schools by 2007.
+
+The development of locally-based projects linked to the national curriculum will be encouraged. The Department of Education will provide technical assistance and advice to schools taking this initiative and monitor school-based curriculum development to ensure consistency. There will be increased emphasis on skills development in the development of the lower secondary curriculum, taking into account the National Skills Plan – Enhancing our Futures, (Department of Education and National Research Institute, 2000) and the work being carried out in the vocational sector. This change in emphasis will cater for the existing and proposed institutions currently designated as Vocational Secondary Schools.
+
+Locally based projects developed at all schools by 2014.
 
 Assessment, reporting and examinations will be reviewed and new procedures implemented to support the reform curriculum.
 
 Secondary school inspectors will visit schools on a regular basis for advisory and inspection purposes. An increased reliance on school-based teacher appraisal will mean that inspectors will be able to place a greater emphasis on their advisory functions and concentrate on financial and management issues.
 
+Inspectors will report on schools annually.
+
 Guidance officers will visit all schools on a regular basis to advise students on future opportunities and to conduct academic aptitude tests for Grade 9 students and differential aptitude tests for those in Grade 11.
 
-The Department of Education acknowledges the growing importance of counselling for secondary students. Of particular importance is the countering of more recent problems such as that of drug taking. The training of trainers for school-based teacher counselling will be a key strategy. T eacher counsellors will provide counselling services to students while performing teaching duties. Every secondary school will have a teacher counsellor by the end of 2007 and school Boards of Governors will be encouraged to engage locally available expertise to support teachers in the counselling of students. It is expected that these initiatives will have a significant impact on both student retention and student attendance at schools.
+The Department of Education acknowledges the growing importance of counselling for secondary students. Of particular importance is the countering of more recent problems such as that of drug taking. The training of trainers for school-based teacher counselling will be a key strategy. Teacher counsellors will provide counselling services to students while performing teaching duties. Every secondary school will have a teacher counsellor by the end of 2007 and school Boards of Governors will be encouraged to engage locally available expertise to support teachers in the counselling of students. It is expected that these initiatives will have a significant impact on both student retention and student attendance at schools.
+
+All secondary schools have a trained teacher counsellor by 2007.
 
 The deterioration in the standards of discipline of students is causing concern across the whole system, but is particularly felt in the secondary sector. There is an increasing awareness that discipline should begin at home and that parents should participate more fully in their children's education. They should be encouraged to become more involved in the school. This should be achieved through structured, regular activities such as parent teacher consultations. Schools in rural areas will be expected to develop innovative solutions as to how to involve the parents of those students who are boarders.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 66
 
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
-
-An average of 150 graduate secondary teachers trained each year from 2005.
-
-All schools have access to fully qualified teachers.
-
-In-service available on the reform curriculum by 2006.
 
 ###### Strategies and Activities
 
@@ -2295,15 +2586,21 @@ In-service available on the reform curriculum by 2006.
 
 A sufficient number of appropriately trained and qualified teachers and guidance officers prepared for secondary schooling.
 
+An average of 150 graduate secondary teachers trained each year from 2005.
+
 While the University of Goroka will continue to be the major institution for training secondary teachers, other institutions may also contribute towards these numbers.
 
 Upper secondary teachers will be degree holders who have gained a Postgraduate Diploma of Education. Provided that targets regarding access can be adhered to, the demand for lower secondary teachers will increase markedly in the latter years of the Plan period. This is because the increase in Grade 9 enrolment will be through the establishment of extra classes, rather than through replacing Grade 7 and 8 classes relocated to the primary schools.
 
-The major avenue for teachers wishing to upgrade their qualifications will be through inservice courses using a mixed delivery mode. In-service training will be focused on the implementation of the new curriculum. Self-paced, in-service units will be developed to support this process. There will continue to be opportunities available for serving teachers without a teaching qualification to gain a Post Graduate Diploma of Education. This will be offered by a mixed mode of delivery.
+All schools have access to fully qualified teachers.
 
-School and financial management is a concern and school managers will be provided with training to strengthen, in particular, financial management and leadership. T able 27 shows the requirements for the number of new secondary school teachers.
+The major avenue for teachers wishing to upgrade their qualifications will be through in-service courses using a mixed delivery mode. In-service training will be focused on the implementation of the new curriculum. Self-paced, in-service units will be developed to support this process. There will continue to be opportunities available for serving teachers without a teaching qualification to gain a Post Graduate Diploma of Education. This will be offered by a mixed mode of delivery.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+In-service available on the reform curriculum by 2006.
+
+School and financial management is a concern and school managers will be provided with training to strengthen, in particular, financial management and leadership. Table 27 shows the requirements for the number of new secondary school teachers.
+
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 67
 
@@ -2311,17 +2608,13 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 80]]
 
-Grade 8 Graduate Incentives Scheme introduced by 2009.
-
-All schools have self-reliance projects by 2014.
-
-A scholarship system implemented by 2008.
-
-A cost recovery mechanism for school examinations in place by 2006.
-
-All schools staffed according to an agreed formula by 2014.
-
 Table 27: Projected secondary school teacher training requirements, 2005 to 2014, selected years
+
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Lower secondary | 102 | 98 | 182 | 248 |
+| Upper secondary | 53 | 58 | 60 | 63 |
+| Total | 156 | 157 | 242 | 311 |
 
 ###### Strategies and Activities
 
@@ -2347,17 +2640,34 @@ Table 27: Projected secondary school teacher training requirements, 2005 to 2014
 
 Secondary education is cost-effective and affordable for parents and government.
 
+Grade 8 Graduate Incentives Scheme introduced by 2009.
+
+All schools have self-reliance projects by 2014.
+
 Parents will continue to pay a significant percentage of the school fees, while government will support secondary schools with small cash subsidies in the form of the Grade 8 Graduate Incentive Scheme. These will take the place of the school subsidies and be of the same value, although there will be no increase in real terms. In light of this, secondary schools will be encouraged to become more self-reliant and undertake activities to reduce the burden on parents. These activities should be integrated into the school curriculum wherever possible.
 
-A scholarship scheme will be developed to ensure that no talented, disadvantaged students miss out on further education. This will be administered by provinces following guidelines established by the Department of Education. These guidelines should ensure that there is positive discrimination in favour of those students from the remote areas. T able 28 shows subsidy costs over the Plan period. Students in Grade 9 will not attract a subsidy. They will, instead, benefit from the Grade 8 Incentive Scheme.
+A scholarship system implemented by 2008.
+
+A scholarship scheme will be developed to ensure that no talented, disadvantaged students miss out on further education. This will be administered by provinces following guidelines established by the Department of Education. These guidelines should ensure that there is positive discrimination in favour of those students from the remote areas. Table 28 shows subsidy costs over the Plan period. Students in Grade 9 will not attract a subsidy. They will, instead, benefit from the Grade 8 Incentive Scheme.
 
 Table 28: Secondary school subsidies (K'000s), 2005 to 2014, selected years
 
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Lower secondary | 8,362.7 | 4,318.6 | 4,215.0 | 4,589.7 |
+| Upper secondary | 1,927.3 | 2,097.6 | 2,265.8 | 2,434.3 |
+| Scholarships | 0.0 | 2,193.6 | 2,510.3 | 2,907.9 |
+| Total | 10,290.0 | 8,609.9 | 8,991.0 | 9,931.9 |
+
+A cost recovery mechanism for school examinations in place by 2006.
+
 The cost of the development, printing and distribution of the School Certificate and Higher School Certificate examinations will be largely borne by those who benefit from it. These costs will be deducted at source from school fee subsidies.
 
-A more equitable deployment of teachers will be achieved through an annual teacher audit. A group will be established that will allocate teachers to schools based upon agreed criteria determined by the number of classes and number of students. 1.5 teachers per class will be allocated throughout the secondary school system. Table 29 shows secondary school teacher emoluments for the Plan period.
+All schools staffed according to an agreed formula by 2014.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A more equitable deployment of teachers will be achieved through an annual teacher audit. A group will be established that will allocate teachers to schools based upon agreed criteria determined by the number of classes and number of students. 1.5 teachers per class will
+
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 68
 
@@ -2365,7 +2675,16 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 81]]
 
+be allocated throughout the secondary school system. Table 29 shows secondary school teacher emoluments for the Plan period.
+
 Table 29: Secondary school teacher salary and emolument costs (K'000s), 2005 to 2014, selected years
+
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Salaries | 51,665.4 | 51,159.0 | 54,710.2 | 60,886.2 |
+| Allowances | 2,583.3 | 2,557.9 | 2,735.5 | 3,044.3 |
+| Leave fares | 2,066.6 | 2,046.4 | 2,188.4 | 2,435.4 |
+| Total | 56,315.3 | 55,763.3 | 59,634.1 | 66,365.9 |
 
 ###### Strategies and Activities
 
@@ -2373,7 +2692,7 @@ Table 29: Secondary school teacher salary and emolument costs (K'000s), 2005 to 
 
 - Establish a scholarship scheme for talented students.
 
-- Reduce the burden of school fees on parents through schools undertaking selfreliance activities.
+- Reduce the burden of school fees on parents through schools undertaking self-reliance activities.
 
 - Deduct the cost of examinations from school fee subsidy allocations.
 
@@ -2437,17 +2756,13 @@ The National Government will be responsible for:
 
 - the development of policy relating to school subsidies and the scholarship program.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 69
 
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
-
-Review of the college completed by 2005.
-
-Twenty five per cent of Grade 8 and 10% of Grade 10 graduates choose to enrol in distance education by 2014.
 
 #### FLEXIBLE, OPEN AND DISTANCE EDUCATION
 
@@ -2461,6 +2776,8 @@ The provision of a flexible, open and distance education gives alternative oppor
 
 A significant growth in enrolment achieved by offering a number of demand driven programs.
 
+Review of the college completed by 2005.
+
 Distance education has the potential to reach a broader audience at lower cost to the client. In addition, it has the potential to address the difficulties of distance and terrain in the delivery of education services to all Papua New Guineans. This will be achieved by reviewing and revitalising the existing college, its provincial centres and accredited study centres, such as those operating in the vocational centres and by private providers. Remote rural primary schools will also benefit from the development of distance programs.
 
 The principal target groups will be:
@@ -2473,9 +2790,16 @@ The principal target groups will be:
 
 - people undertaking technical and vocational training courses.
 
+Twenty five per cent of Grade 8 and 10% of Grade 10 graduates choose to enrol in distance education by 2014.
+
 The restructured college will initially target Grade 6 to 8 students, although this group will decrease over the Plan period. Enrolment in Grades 9 to 10 will cater for 25 per cent of the students who are not offered a place or do not wish to take up a place in a secondary school. The college also aims to attract ten percent of the students who complete Grade 10 and are not offered a place in Grade 11. The number of Grade 10 graduates who currently enrol to upgrade their qualifications is expected to drop once the Grades 11 and 12 matriculation program is developed. Projected enrolment is shown in Table 30 for those who exit the formal system following Grade 8 and Grade 10.
 
 Table 30: Projected distance education college enrolment, selected years, 2005 to 2014
+
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| New Grade 9 | 1,559 | 2,871 | 3,377 | 3,880 |
+| New Grade 11 | 2,006 | 1,941 | 2,135 | 2,596 |
 
 ###### Strategies and Activities
 
@@ -2485,7 +2809,7 @@ Table 30: Projected distance education college enrolment, selected years, 2005 t
 
 - Prepare a plan to progressively implement changes to facilities.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 70
 
@@ -2493,11 +2817,9 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 83]]
 
-Appropriate assessment, examination and certification system established by 2008.
-
 - Increase the number of distance education providers.
 
-- Provide flexible, open and distance modes of deliver using vocational centres and private providers.
+- Provide flexible, open and distance modes of delivery using vocational centres and private providers.
 
 ##### Quality curriculum and monitoring
 
@@ -2521,7 +2843,7 @@ The institution will provide relevant demand driven options for students. Recogn
 
 The institution will also develop further adult education, adult literacy and short technical and vocationally oriented courses. These will take advantage of advances currently being made in the field of information communications technology.
 
-Materials production and distribution systems will be included in the review of the CODE and take into account the National Policy for the Procurement, Distribution and Storage of Curriculum Materials .
+Materials production and distribution systems will be included in the review of the CODE and take into account the National Policy for the Procurement, Distribution and Storage of Curriculum Materials.
 
 ###### Strategies and Activities
 
@@ -2537,6 +2859,8 @@ Materials production and distribution systems will be included in the review of 
 
 - Utilise information communications technology as it becomes feasible.
 
+Appropriate assessment, examination and certification system established by 2008.
+
 - Develop an appropriate assessment, examination and certification system.
 
 - Review the current examination and assessment policies in light of the reform curriculum in secondary education.
@@ -2545,7 +2869,7 @@ Materials production and distribution systems will be included in the review of 
 
 - Rationalise the central academic records system to be linked to all provincial distance education centres.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 71
 
@@ -2553,21 +2877,19 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 84]]
 
-College staffed by appropriately trained staff by 2009.
-
-College to be restructured by 2006.
-
 - Establish a materials production and procurement system that is cost-effective and efficient.
 
 - Review current materials production and distribution systems for distance education.
 
-- Rationalise the production and distribution systems consistent with the National Policy for the Procurement, Distribution and Storage of Curriculum Materials .
+- Rationalise the production and distribution systems consistent with the National Policy for the Procurement, Distribution and Storage of Curriculum Materials.
 
 ##### Quality teacher education and training
 
 ###### Minor Outcome F3:
 
 The provision of well-trained and qualified staff and support personnel.
+
+College staffed by appropriately trained staff by 2009.
 
 The employment of national staff will be accelerated through enhanced training opportunities. Sufficient incentives will be needed to attract qualified Papua New Guineans, while large provincial centres will require additional teaching and guidance staff to provide special support to students.
 
@@ -2591,6 +2913,8 @@ The reformed curriculum and assessment procedures will necessitate training for 
 
 An institution offering flexible, open and distance education.
 
+College to be restructured by 2006.
+
 The concept of distance education will be changed to flexible, open and distance education reflecting current and expected future trends and technological advances. The College of Distance Education will be reviewed and restructured. This will take place in 2005.
 
 A flexible, open and distance education curriculum has to be one that is relevant and innovative and one that students will wish to enrol in because they see it as being useful and relevant.
@@ -2599,7 +2923,7 @@ The new institution will offer educational programs that maximise choice and fle
 
 Students will be able to access nationally recognised qualifications regardless of their geographical location or situation. The quality of the programs will be achieved through a continuous monitoring process and improvements in management processes consistent with the national education system.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 72
 
@@ -2619,17 +2943,13 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 - Strengthen the capacity of the Board of Studies for flexible, open and distance education.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 73
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
-
-Re-register all vocational centres by 2007.
-
-Vocational education components of provincial plans developed by 2007.
 
 #### VOCATIONAL EDUCATION
 
@@ -2647,13 +2967,17 @@ Vocational courses will be conducted in different types of institutions. These w
 
 The status of all centres will be reviewed by provinces, a process that will be overseen by the Department of Education, with a view to the closure of some uneconomic institutions and the rationalisation of others. Vocational centres that are no longer considered viable will be offered to interested groups or individuals to manage and maintain. In the process of these changes, all vocational centres will need to be re-registered.
 
+Re-register all vocational centres by 2007.
+
 Provinces will be required to prepare their own plans for the development of vocational education. These plans should include provision for required new infrastructure, where appropriate, and the maintenance of existing assets. Each institution will also produce plans for their own development. Provinces will be provided with support from the Department of Education in this task.
+
+Vocational education components of provincial plans developed by 2007.
 
 The 'average' centre will be one offering a core course of up to one year in duration targeted primarily, although not exclusively, at Grade 8 graduates. Adult enrolment will be permissible so long as they meet all entry requirements. A significant portion of a centre's resources will be used for providing short courses for adults and youth in the community. Some programs will be targeted at Grade 10 school leavers. The responsibility for the enrolment of students in full-time courses will rest with the provincial governments in close consultation with the individual Boards of Management.
 
 The range of programs offered by vocational centres is shown in Table 31. All institutions will be registered as vocational centres although provinces themselves may choose to call them by other names to denote their special emphasis. Such names could include Skills Developments and Community Development Centres.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 74
 
@@ -2661,18 +2985,14 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 87]]
 
-All vocational centres offer short term community orientated programs by 2009.
-
-Gr 8 Graduate Incentive Scheme introduced in 2008.
-
-Length and type of program | Intake/ Target group | Accreditation possible | Articulation possible
---- | --- | --- | ---
-One year full-time vocational skills development course. | Grade 8 up to two years out of school. | Yes | Yes
-One week to one month individual and industry driven Modular Block Courses. | Individual and industry | Yes | Yes
-One day to three months community demand driven short courses offered in the institutions. | Local community | No | No
-One day to four weeks community demand driven short courses offered through outreach and community extension activities. | Out of school youth in communities | No | No
-
 Table 31: Range of programs offered by vocational centres
+
+| Length and type of program | Intake/ Target group | Accreditation possible | Articulation possible |
+|---|---|---|---|
+| One year full-time vocational skills development course. | Grade 8 up to two years out of school. | Yes | Yes |
+| One week to one month individual and industry driven Modular Block Courses. | Individual and industry | Yes | Yes |
+| One day to three months community demand driven short courses offered in the institutions. | Local community | No | No |
+| One day to four weeks community demand driven short courses offered through outreach and community extension activities. | Out of school youth in communities | No | No |
 
 Closer linkages with the Department of Community Development will be developed to support the vocational centres that are specialising in the provision of courses for the community. In particular, the concept of communities themselves being the principal agents for change will be supported through the establishment of community learning centres by the Department of Community Development.
 
@@ -2680,13 +3000,17 @@ The Department of Community Development envisages that these will not be stand a
 
 Some community development programs offered by the vocational centres will be delivered in the communities themselves rather than in the centres. Courses such as these will be coordinated and conducted by staff from vocational centres. The potential for strong linkages with the Community Development Scheme will be fully explored in this regard.
 
+All vocational centres offer short term community orientated programs by 2009.
+
 All vocational centres, including those specialising in the one year program, will be expected to offer short-term community oriented programs. These will be of varying lengths and offered at a time and venue appropriate to the communities and the availability of instructors. These may run alongside longer courses, be offered as stand alone modules and credit given to students who complete accredited courses.
 
 Private providers will be encouraged to provide skills training both in the field of business and trade areas. Their involvement will encourage competition between themselves and government administered institutions.
 
+Gr 8 Graduate Incentive Scheme introduced in 2008.
+
 A major shift in subsidy policy through the provision of an incentive scheme for all Grade 8 graduates will help to encourage such competition. This will commence in 2008 and be preceded by a study to determine guidelines and ensure that it is consistent with local needs.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 75
 
@@ -2694,15 +3018,25 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 88]]
 
-Vocational curriculum reviewed by 2006.
-
 Table 32 below shows projected enrolments assuming that there will be small rises in overall enrolment. The enrolment patterns will alter, over a period of four years, to reflect the one year maximum length courses. The percentage of girls in vocational centres will rise from about 30 per cent to 45 per cent by 2014.
 
 Table 32: Projected full-time equivalent vocational centre enrolments, 2005 to 2014, selected years
 
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Year 1 | 13,857 | 20,615 | 25,324 | 29,315 |
+| Year 2 | 3,418 | 855 | 0 | 0 |
+| Year 3 | 1,622 | 405 | 0 | 0 |
+| Total | 18,897 | 21,875 | 25,324 | 29,315 |
+
 It is assumed that a very high proportion of all full-time places will be taken up by Grade 8 graduates and vocational institutions will need to provide places for more than 25 per cent of Grade 8 graduates.
 
 Table 33: Projected transition rates from primary school to vocational institutions and enrolment rates, 2005 to 2014, selected years
+
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Vocational transition rate | 27.1% | 31.4% | 32.6% | 32.7% |
+| Vocational enrolment rate | 10.6% | 14.2% | 16.6% | 17.7% |
 
 ###### Strategies and Activities
 
@@ -2736,9 +3070,11 @@ Table 33: Projected transition rates from primary school to vocational instituti
 
 A quality vocational skills training program provides clients with skills that are relevant and required by the community.
 
-Changes to the curriculum must reflect the reclassification and redesignation of vocational institutions. T o this end, the curriculum will be reviewed by 2006 and developed in such a way that both the formal and informal sector development needs of individual provinces and districts are reflected in the programs offered. The major thrust will be to redirect the curriculum towards providing appropriate and broadly based skills and knowledge, while preparing students to continue on to further training where such opportunities exist.
+Vocational curriculum reviewed by 2006.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+Changes to the curriculum must reflect the reclassification and redesignation of vocational institutions. To this end, the curriculum will be reviewed by 2006 and developed in such a way that both the formal and informal sector development needs of individual provinces and districts are reflected in the programs offered. The major thrust will be to redirect the curriculum towards providing appropriate and broadly based skills and knowledge, while preparing students to continue on to further training where such opportunities exist.
+
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 76
 
@@ -2746,19 +3082,19 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 89]]
 
-Short course materials distributed to all vocational centres by 2007.
-
-Awareness campaign in place by 2006.
-
 The curriculum development process will be streamlined to respond to different needs. The content of all vocational education and training courses, regardless of the nature of the institutions, will be competency-based and enterprise-driven.
 
-The type of programs offered will be determined during the rationalisation process. The fulltime programs offered in vocational centres will be for a maximum one year duration. These courses will be modularised to allow students to attend and complete modules at a time of their choosing. New courses that are developed will be in response to needs identified in particular communities. Recognition of prior learning will be available once the appropriate policy is developed.
+The type of programs offered will be determined during the rationalisation process. The full-time programs offered in vocational centres will be for a maximum one year duration. These courses will be modularised to allow students to attend and complete modules at a time of their choosing. New courses that are developed will be in response to needs identified in particular communities. Recognition of prior learning will be available once the appropriate policy is developed.
 
-It is anticipated that these courses will be appropriate for Grade 8 and Grade 10 graduates. Some of these courses will be accredited through established National Apprentice and Trade T esting Board guidelines. All full-time courses will be required to include further development of literacy and numeracy skills. Where appropriate, these could be accredited distance education courses.
+It is anticipated that these courses will be appropriate for Grade 8 and Grade 10 graduates. Some of these courses will be accredited through established National Apprentice and Trade Testing Board guidelines. All full-time courses will be required to include further development of literacy and numeracy skills. Where appropriate, these could be accredited distance education courses.
 
 In many centres, there will be a shift towards short-term community development programs. These will be offered alongside the one year modularised courses in some vocational centres. The programs produced by the Skills Training Resource Unit will be distributed to all centres and used as a basis for these short courses. They will be offered both in the centres themselves and as outreach, or extension, activities. They will target skills that are of immediate need by the community. Locally-based curriculum development will be supported by the Department of Education. Where appropriate, credit will be available for short courses within the parameters of the yet to be established National Qualifications Framework.
 
+Short course materials distributed to all vocational centres by 2007.
+
 The target groups for these courses will be, primarily, the local communities. There will be a well publicised, and widely available, bank of short courses available for centres to access. These courses will be written in such a form that they can be used for groups with varying academic and work backgrounds. The course content will be such that it can be delivered by people with no formal teaching qualifications.
+
+Awareness campaign in place by 2006.
 
 The main catalysts for change will be the initiation of the Grade 8 Graduate Incentive Scheme to replace the existing school subsidy arrangement and incentives for centres through the provision of 'incentives fund' type awards for those meeting strict criteria. There will be increased cooperation between the Department of Education and the Department of Community Development at all levels. An awareness campaign will be put in place by 2006 in order to change the public perception of vocational education.
 
@@ -2768,15 +3104,13 @@ In addition to greater linkages with other government departments and non-govern
 
 There will be a review of the role of the vocational education inspectors to include greater monitoring of the management and operation of the centres and their finances. The inspectors will be trained to deal with the changing role of the centres.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 77
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
-
-Convert Diploma of Vocational Education and Training into distance mode by 2007.
 
 ###### Strategies and Activities
 
@@ -2826,11 +3160,18 @@ The provision of a sufficient number of appropriately trained and qualified voca
 
 The successful implementation of a much wider range of vocational courses will require programs to prepare appropriately qualified teachers and supervisors, as well as proactive and entrepreneurial management.
 
-The residential component of the Diploma of Vocational Education and Training, currently offered by the Papua New Guinea Education Institute, will be turned into distance mode using a similar model to that of the elementary teacher education program. This will allow greater numbers of instructors to graduate from the program. The University of Goroka will be approached to provide accreditation for this course. Further opportunities for vocational staff may be made available through the Don Bosco Institute of T echnology in Port Moresby with management training at the Institute of Public Administration. Further opportunities may also be available through bilateral arrangements. The table below shows vocational centre staffing requirements.
+Convert Diploma of Vocational Education and Training into distance mode by 2007.
+
+The residential component of the Diploma of Vocational Education and Training, currently offered by the Papua New Guinea Education Institute, will be turned into distance mode using a similar model to that of the elementary teacher education program. This will allow greater numbers of instructors to graduate from the program. The University of Goroka will be approached to provide accreditation for this course. Further opportunities for vocational staff may be made available through the Don Bosco Institute of Technology in Port Moresby with management training at the Institute of Public Administration. Further opportunities may also be available through bilateral arrangements. The table below shows vocational centre staffing requirements.
 
 Table 34: Vocational centre staffing requirements, 2005 to 2014, selected years
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Vocational instructors | 1,050 | 1,215 | 1,407 | 1,629 |
+| Student instructor ratio | 18.0 | 18.0 | 18.0 | 18.0 |
+
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 78
 
@@ -2838,15 +3179,11 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 91]]
 
-Conduct skills audit for vocational centre staff by 2006.
-
-Develop a process to grant increased autonomy to church and other agencies by 2009.
-
-Review the role of the vocational centre coordinators by 2008.
-
 The capacity of short course centre managers and teachers will be enhanced through further entrepreneurial and management training. This training program will build upon initiatives already undertaken.
 
 The shift towards the provision of short courses directed at the community means that instructors are going to have to be re-skilled to prepare them to teach adults. There will also be courses that can be taught by local people with demonstrated skills. A skills audit will be carried out for all institutional staff and in the communities to identify the resources available to deliver a wide range of courses.
+
+Conduct skills audit for vocational centre staff by 2006.
 
 ###### Strategies and Activities
 
@@ -2854,7 +3191,7 @@ The shift towards the provision of short courses directed at the community means
 
 - Review delivery mode and accreditation of the Diploma in Vocational Education and Training.
 
-- Articulate this to the Diploma in T echnical Education and Training
+- Articulate this to the Diploma in Technical Education and Training
 
 - Adapt the residential program into distance mode.
 
@@ -2880,11 +3217,15 @@ A vocational education system that is both cost-effective for government and aff
 
 Principles of good governance will be critical if the directional shifts proposed are to be realised. The transparent management of finances and assets is an essential component of this. Board of Management guidelines will be reviewed to effect the sound management of institutions.
 
+Develop a process to grant increased autonomy to church and other agencies by 2009.
+
+Review the role of the vocational centre coordinators by 2008.
+
 A greater autonomy will be granted to major church agencies and other capable organisations. This could include the appointment, management and discipline of vocational education instructors. It is expected that this will provide a further catalyst for the shift towards a more community orientated role for the vocational institutions. The role of the vocational centre coordinator will be reviewed in order that this office can play a greater role in the promotion of vocational education.
 
-The system of subsidies for the vocational institutions will be reviewed and the feasibility of introducing the Grade 8 Graduate Incentives Scheme investigated. This scheme is designed to encourage competition and a shift towards a needs driven system. This support would only be available for Grade 8 graduates. All these graduates will be provided with an incentive for them to enrol at an institution of their choice. This could be an approved private provider. This will act as a major catalyst to encourage the vocational centres to make the shift towards offering one year modularised courses and to offer relevant courses for the local communities. T able 35 below shows the subsidies that are expected to go to the vocational centres either from subsidies or from the Grade 8 Graduate Incentive Scheme system that will be introduced from 2008. This will be preceded by a study to establish guidelines, to consider all implications, financial and otherwise, and to ensure consistency with individual provincial needs.
+The system of subsidies for the vocational institutions will be reviewed and the feasibility of introducing the Grade 8 Graduate Incentives Scheme investigated. This scheme is designed to encourage competition and a shift towards a needs driven system. This support would only be available for Grade 8 graduates. All these graduates will be provided with an incentive for them to enrol at an institution of their choice. This could be an approved private provider. This will act as a major catalyst to encourage the vocational centres to make the shift towards offering one year modularised courses and to offer relevant courses for the local communities. Table 35 below shows the subsidies that are expected to go to the vocational centres either from subsidies or from the Grade 8 Graduate Incentive Scheme system that will be introduced from 2008. This will be preceded by a study to establish guidelines, to consider all implications, financial and otherwise, and to ensure consistency with individual provincial needs.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 79
 
@@ -2892,15 +3233,27 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 92]]
 
-Review duty statements by 2007.
-
 Table 35: Vocational centre subsidies (K'000s), 2005 to 2014, selected years
+
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Voc subsidies | 2,834.5 | 0.0 | 0.0 | 0.0 |
+| Gr 8 Inc Scheme | 0.0 | 3,092.3 | 3,798.5 | 4,397.3 |
+
+Review duty statements by 2007.
 
 The duty statements of the vocational centre staff will be amended to reflect the need for innovative, business minded leadership, as well as enterprise education.
 
 The number of full-time permanent teachers in vocational centres will be based upon the number of full-time equivalent students at a rate of one instructor for 18 students. Further positions will only be approved in accordance with strict criteria as determined by a Position Allocation Committee. Table 36 shows vocational centre teacher emoluments for the Plan period.
 
-T able 36: Vocational centre instructor salaries and emoluments (K'000s), 2005 to 20 1 4, selected years
+Table 36: Vocational centre instructor salaries and emoluments (K'000s), 2005 to 2014, selected years
+
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Salaries | 12,223.1 | 14,149.8 | 16,380.1 | 18,962.1 |
+| Allowances | 611.2 | 707.5 | 819.0 | 948.1 |
+| Leave fares | 488.9 | 566.0 | 655.2 | 758.5 |
+| Total | 13,323.2 | 15,423.3 | 17,854.4 | 20,668.6 |
 
 Provision will be made for the employment of sessional staff, where appropriate, to allow centres the flexibility to be able to offer a wide range of courses. Provincial governments will be expected to support the infrastructural development and maintenance of the centres. Centres will be required to play a major role in this by undertaking self-reliance activities, the nature of which will be determined during the rationalisation process.
 
@@ -2938,7 +3291,7 @@ Provision will be made for the employment of sessional staff, where appropriate,
 
 - Develop institution plans.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 80
 
@@ -2996,15 +3349,13 @@ The National Government will be responsible for:
 
 - the development of policy relating to school subsidies.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 81
 
 [[END OF PAGE 93]]
 
 [[START OF PAGE 94]]
-
-A regulatory system established by 2007.
 
 #### TECHNICAL EDUCATION AND TRAINING
 
@@ -3020,7 +3371,9 @@ A technical and business education and training system which will increase oppor
 
 Access, to include the disabled and increased opportunities for women, will be broadened through the establishment of a national system encompassing both public and private providers. Better access for persons from disadvantaged groups, specially designed programs and more flexible delivery will ensure that the institutions more readily meet the needs of all. A priority will be given to the further development of distance education initiatives.
 
-The three key players in the provision of technical education and training are the National Apprentice and Trade T esting Board and the National Training Council, both of the Department of Labour and Industrial Relations, and the Department of Education through the Division of T echnical Vocational Education and Training. It is the responsibility of the Department of Labour and Industrial Relations to ensure that there are no duplication of functions and that all regulatory functions are carried out. This will be achieved through improving coordination, either by strengthening the capacity of existing bodies or by forming an overall regulatory body. Advice will be taken from industry, business and community leaders in order to provide a policy framework. The Department of Labour and Industrial Relations would be responsible for policy, planning, curriculum and regulation across the system. It would produce a National Training Plan in order to establish and prioritise training needs. A National Qualifications Framework will be established for both public and private institutions that will define and monitor curriculum content and standards.
+A regulatory system established by 2007.
+
+The three key players in the provision of technical education and training are the National Apprentice and Trade Testing Board and the National Training Council, both of the Department of Labour and Industrial Relations, and the Department of Education through the Division of Technical Vocational Education and Training. It is the responsibility of the Department of Labour and Industrial Relations to ensure that there are no duplication of functions and that all regulatory functions are carried out. This will be achieved through improving coordination, either by strengthening the capacity of existing bodies or by forming an overall regulatory body. Advice will be taken from industry, business and community leaders in order to provide a policy framework. The Department of Labour and Industrial Relations would be responsible for policy, planning, curriculum and regulation across the system. It would produce a National Training Plan in order to establish and prioritise training needs. A National Qualifications Framework will be established for both public and private institutions that will define and monitor curriculum content and standards.
 
 The body will require the registration and licensing of all providers. It will establish the process, criteria and standards for the registration of providers that seek to offer approved qualifications as defined in the National Qualifications Framework. Providers will be registered for a range of training products and services within defined areas of expertise. The process of registration will commence with the authority conducting a compliance audit prior to registration being awarded.
 
@@ -3028,17 +3381,17 @@ Table 37 shows projected full-time equivalent enrolment assuming a conservative 
 
 Table 37: Projected full-time equivalent enrolments, 2005 to 2014, selected years.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Enrolment | 2,605 | 3,015 | 3,490 | 4,041 |
+
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 82
 
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
-
-All courses modularised by 2007.
-
-National Qualifications framework established by 2007.
 
 ###### Strategies and Activities
 
@@ -3062,13 +3415,17 @@ National Qualifications framework established by 2007.
 
 ###### Minor outcome T2:
 
-High quality technical and business education and training programs that are costeffective, flexible and responsive to changing trends.
+High quality technical and business education and training programs that are cost-effective, flexible and responsive to changing trends.
 
-Programs will be developed which are driven by industry and business with support from other stakeholders including teachers, education policy makers, non-government organisations and the community. It is important that as well as being suitable for industry and business needs, courses should also be orientated to rural and village development. All courses should be modularised with flexible entry and exit points and, where possible, recognition of prior learning should be available. The T echnical Training Certificate courses will be reviewed to ensure that they meet industry and business needs.
+All courses modularised by 2007.
+
+Programs will be developed which are driven by industry and business with support from other stakeholders including teachers, education policy makers, non-government organisations and the community. It is important that as well as being suitable for industry and business needs, courses should also be orientated to rural and village development. All courses should be modularised with flexible entry and exit points and, where possible, recognition of prior learning should be available. The Technical Training Certificate courses will be reviewed to ensure that they meet industry and business needs.
 
 In order for the courses offered in public vocational education and training colleges to be able to meet technological and industry trends there will be a significant upgrading of existing tools, equipment and facilities.
 
-The curriculum section of the T echnical Vocational and Education Training Division will establish a National Qualifications Framework. This framework will recognise that the schools, including the vocational centres and the higher education sector, have different industry and institutional linkages to those of technical education and training. The framework will link schools and initial skills qualifications through to those of higher education. The vocational and education training qualifications are based upon competency-based training in the seven core trade training areas, which will be extended to other areas.
+National Qualifications framework established by 2007.
+
+The curriculum section of the Technical Vocational and Education Training Division will establish a National Qualifications Framework. This framework will recognise that the schools, including the vocational centres and the higher education sector, have different industry and institutional linkages to those of technical education and training. The framework will link schools and initial skills qualifications through to those of higher education. The vocational and education training qualifications are based upon competency-based training in the seven core trade training areas, which will be extended to other areas.
 
 The framework will recognise and support the need for specialised curriculum orientated towards rural and village development. These curricula will be underpinned by short courses in relevant areas such as building, conservation and maintenance.
 
@@ -3086,15 +3443,13 @@ There will be a review of the role of the technical education inspectors. The in
 
 - Accredit courses
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 83
 
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
-
-Ninety five percent localisation by 2014.
 
 - Develop relevant teaching programs.
 
@@ -3118,6 +3473,8 @@ Ninety five percent localisation by 2014.
 
 A sufficient number of appropriately trained and qualified technical education and training lecturers and managers are provided.
 
+Ninety five percent localisation by 2014.
+
 The present, very high dependence upon expatriate contract lecturers will be reduced by the development of a meaningful staff development program both for college lecturers and headquarter staff. A localisation program will produce significant savings. Industry will be involved in providing opportunities for lecturers to gain experience with changes in technology. The establishment of a provision for specialist sessional staff would further enhance the capacity of an institution to provide more relevant and up-to-date courses.
 
 Increased priority will be given to staff development in both headquarters and institutions with the updating of lecturer knowledge and skills of critical importance. Lecturers will be encouraged and supported to spend time in business or industry so as to further develop their capacities. The development of partnerships with business or industry will further extend staff. The technical colleges will increasingly provide professional development opportunities for vocational centre instructors to broaden their teaching capacity.
@@ -3126,7 +3483,15 @@ The University of Goroka will provide a flexible, mixed mode pre-service course 
 
 Table 38 shows the staffing required to reach targets of 95 per cent localisation and a lecturer-student ratio of 1:15 during the Plan period.
 
-Table 38: Projected T echnical College staffing by status, 2005 to 2014, selected years
+Table 38: Projected Technical College staffing by status, 2005 to 2014, selected years
+
+| | 2005 | 2008 | 2011 | 2014 |
+|---|---:|---:|---:|---:|
+| Staffing | 211 | 201 | 233 | 269 |
+| Student lecturer ratio | 12.3 | 13.2 | 14.1 | 15.0 |
+| PNG lecturers | 181 | 184 | 221 | 256 |
+| Non PNG lecturers | 30 | 18 | 12 | 13 |
+| Localisation rate | 85.7% | 91.3% | 95.0% | 95.0% |
 
 If these targets can be achieved they will result in savings of about K65 million over the Plan period in lecturer salaries.
 
@@ -3144,15 +3509,13 @@ If these targets can be achieved they will result in savings of about K65 millio
 
 - Develop flexible courses suitable for vocational centre instructors.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 84
 
 [[END OF PAGE 96]]
 
 [[START OF PAGE 97]]
-
-A lecturer student ratio of 1:15 by 2014.
 
 ##### Management
 
@@ -3162,11 +3525,13 @@ A technical education training system that is cost-effective for government.
 
 An increased role for business, industry and community will result in increased effectiveness at the institutional and program levels. Directions from the national training plan will ensure that program activity more readily meets the country's needs and, in particular, its economic directions. A range of approaches will be developed so as to measure student and employer satisfaction with the programs.
 
+A lecturer student ratio of 1:15 by 2014.
+
 There is a very wide range of student lecturer ratios and many lecturers do not have full teaching loads. Benchmark class sizes will be determined and teaching resources allocated accordingly. The target is a ratio of 15 to 1.
 
-The Office of Higher Education will continue to support the colleges through the provision of scholarships to vocational education and training institutions. Colleges will, however, still be required to generate a considerable amount of income themselves through attracting selfsponsored students and undertaking other self-reliance activities. Over the period the possibilities of further cooperation between technical and business colleges and the universities will be explored.
+The Office of Higher Education will continue to support the colleges through the provision of scholarships to vocational education and training institutions. Colleges will, however, still be required to generate a considerable amount of income themselves through attracting self-sponsored students and undertaking other self-reliance activities. Over the period the possibilities of further cooperation between technical and business colleges and the universities will be explored.
 
-The Department of Education will remain responsible for the operations of the T echnical Vocational Education and Training colleges. This will include the deployment and management of all human, physical and financial resources in the colleges and the development of college infrastructure.
+The Department of Education will remain responsible for the operations of the Technical Vocational Education and Training colleges. This will include the deployment and management of all human, physical and financial resources in the colleges and the development of college infrastructure.
 
 Efficiencies will be gained by greater accountability at the institutional level. Principals, with advice from their governing councils, will have greater responsibility for performance and output. This level of responsibility will include planning, and the leadership and management of staff and resources. Each of the colleges will have a philosophy and policy of continuous improvement and strategies for this will be built into college plans.
 
@@ -3190,7 +3555,7 @@ Principals will also encourage entrepreneurial activities that are related to th
 
 - Provide financial and management training to vocational education and training leaders.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 85
 
@@ -3206,7 +3571,7 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 #### ADMINISTRATION OF EDUCATION
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 87
 
@@ -3242,13 +3607,13 @@ The Department will be restructured to better reflect its core responsibilities 
 
 Links with provinces will be strengthened during the restructure with further staff being allocated to provide support to provincial and district officers. Further work will be consistent with the Services Improvement Program. This program has identified education as being one of the core government functions that requires improvements in service delivery.
 
-The Education Act, the T eaching Services Act and provincial education acts will be reviewed where appropriate to reflect changes in the organisations functions and structure.
+The Education Act, the Teaching Services Act and provincial education acts will be reviewed where appropriate to reflect changes in the organisations functions and structure.
 
 Private education institutions will be encouraged at all levels of the system. The process of registering permitted schools and their ability to access school fee subsidy and funds from a Grade 8 Graduate Incentive Scheme will be reviewed. All private education institutions will be monitored by the respective inspectors on a regular basis to ensure that standards are being upheld.
 
 The Department of Education will look to more effectively implement the Organic Law on Provincial Governments and Local-level Governments with a view to making the delivery of education services more efficient. It is proposed that provincial education advisers become directly answerable to the Secretary for Education.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 89
 
@@ -3272,7 +3637,7 @@ The major stakeholders in education will be consulted by the Department on a reg
 
 The Department will take a proactive role towards the sensitive issue of HIV/AIDS. A Department wide policy will be developed following consultation with relevant agencies.
 
-Being able to read and write and to have basic numeracy skills is a fundamental educational requirement for all. T o this end, the Department will continue to support the work of the National Literacy and Awareness Secretariat and to improve linkages with the Department of Community Development and non-government organisations to raise literacy and numeracy levels from the present 56 per cent to 70 per cent.
+Being able to read and write and to have basic numeracy skills is a fundamental educational requirement for all. To this end, the Department will continue to support the work of the National Literacy and Awareness Secretariat and to improve linkages with the Department of Community Development and non-government organisations to raise literacy and numeracy levels from the present 56 per cent to 70 per cent.
 
 ###### Strategies and Activities
 
@@ -3310,7 +3675,7 @@ Being able to read and write and to have basic numeracy skills is a fundamental 
 
 - Provide advice on policy development.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 90
 
@@ -3382,7 +3747,7 @@ Human resource systems and programs established for all levels of staff in the n
 
 A Human Resources Development Policy will be developed following a review of existing practices in the Department. Linked to this will be a Human Resources Development Plan for the Department. The policy and plan will include strategies for succession planning and targeted career development to identify talented officers, female and male, and provide them with support for accelerated progress. Particular emphasis will be placed on identifying women capable of taking up senior positions with the Department of Education and to ensure that they are given consideration in appointment to executive positions at Grade 16 and above in order to address the current gender imbalance. An equal opportunities policy will be developed.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 91
 
@@ -3428,9 +3793,7 @@ Teacher absenteeism is acknowledged as being a major problem that impacts on stu
 
 - Develop an implementation plan for the policy.
 
-- Identify and support officers and teachers from disadvantaged groups suitably
-
-- qualified for rapid promotion.
+- Identify and support officers and teachers from disadvantaged groups suitably qualified for rapid promotion.
 
 - Improve the payroll system.
 
@@ -3442,7 +3805,7 @@ Teacher absenteeism is acknowledged as being a major problem that impacts on stu
 
 - Review the decentralisation of the salaries function.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 92
 
@@ -3512,7 +3875,7 @@ Cost recovery and income generating activities will be encouraged and systems pu
 
 - Review of current practices and policies.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 93
 
@@ -3552,7 +3915,7 @@ The timely collection of data will be supported by a strong research capacity th
 
 - Use appropriate information communications technology for flexible and effective dialogue between all levels of administration and stakeholders.
 
-- Develop an Information T echnology Plan and Policy for the Department.
+- Develop an Information Technology Plan and Policy for the Department.
 
 - Liaise with appropriate authorities regarding future opportunities in communications technology to strengthen links between the national, provincial and local levels of education.
 
@@ -3562,7 +3925,7 @@ The timely collection of data will be supported by a strong research capacity th
 
 - Support the national media centre and distance education modes using information communications technology as it becomes available and is affordable and sustainable.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 94
 
@@ -3612,7 +3975,7 @@ A Department website will be established that will carry official Department not
 
 There will be a complete review of the publication, printing and distribution functions and capacity within the Department. This will be carried out with a view to rationalising the entire process and increasing capacity to realistic and sustainable levels.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 95
 
@@ -3670,7 +4033,7 @@ Library and information services will be developed to support and complement the
 
 - Develop guidelines for plans.
 
-ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
+A NATIONAL PLAN FOR EDUCATION - THE PLAN FOR EDUCATION 2005 - 2014
 
 96
 
@@ -3678,7 +4041,7 @@ ANATIONALPLAN FOR EDUCATION THE PLAN FOR EDUCATION 2005 - 2014
 
 [[START OF PAGE 109]]
 
-## Secti n 5
+## Section 5
 
 ### IMPLEMENTING THE PLAN
 
@@ -3700,10 +4063,12 @@ This section provides a timeline for the implementation of the Plan. Specific st
 
 ##### Key:
 
-indicates full implementation indicates preparatory activities and reviews Secti n 6
+indicates full implementation
 
-2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2012 | 2013 | 2014
---- | --- | --- | --- | --- | --- | --- | --- | ---
+indicates preparatory activities and reviews
+
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 #### Elementary education
 ###### Minor Outcome E1
 Establish and maintain a sufficient number of schools.
@@ -3739,7 +4104,7 @@ Review the system for the funding of elementary teacher training fees.
 Review guidelines for communities to use for the selection of teachers.
 Provide professional development opportunities for elementary school teacher and trainers
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 99
 
@@ -3747,47 +4112,50 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 
 [[START OF PAGE 112]]
 
-2005 | 2007 | 2009 2008 | 2010 | 2012 | 2014 2013
---- | --- | --- | --- | --- | ---
-Review the roles and provide support for those associated with elementary teacher training. Enhance teachers' knowledge of the reform curriculum and | 2006
-multi-grade teaching and improve their ability to monitor and assess pupils learning.
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Review the roles and provide support for those associated with elementary teacher training.
+Enhance teachers' knowledge of the reform curriculum and multi-grade teaching and improve their ability to monitor and assess pupils learning.
 Provide leadership, management and finance training for teachers-in-charge.
 Provide leadership training opportunities for women teachers.
 ###### Minor Outcome E4
 Develop and implement a sustainable, affordable and appropriate school fee subsidy policy.
-Determine minimum basic supplies for elementary school needs. Review and administer the system of procurement and distribution of basic school supplies.
-efficient and rational use of teachers.
-Make Establish Position Allocation Committee. Apply agreed criteria, including multi-grade teaching, for the allocation of
-teachers to each province.
+Determine minimum basic supplies for elementary school needs.
+Review and administer the system of procurement and distribution of basic school supplies.
+Make efficient and rational use of teachers.
+Establish Position Allocation Committee.
+Apply agreed criteria, including multi-grade teaching, for the allocation of teachers to each province.
 #### Primary education
 ###### Minor Outcome P1
-Provide and maintain a sufficient Completion and implementation education.
-number of schools. of provincial and district plans for primary Completion of school plans to include both infrastructure and quality components. Determine quotas for the number of Grade 7 classes to be established annually in each province. Local-level governments to budget grants for infrastructure and maintenance. Develop guidelines, to include building dimensions, for primary school Review the structure of primary schools..
-classrooms and other buildings.
+Provide and maintain a sufficient number of schools.
+Completion and implementation of provincial and district plans for primary education.
+Completion of school plans to include both infrastructure and quality components.
+Determine quotas for the number of Grade 7 classes to be established annually in each province.
+Local-level governments to budget grants for infrastructure and maintenance.
+Review the structure of primary schools..
+Develop guidelines, to include building dimensions, for primary school classrooms and other buildings.
 Provide support to remote schools.
-Encourage teachers to take up positions in remote schools by Review the criteria for a disadvantaged school and classify primary schools accordingly.
-providing agreed allowances and non-financial incentives, such as minimum standards of housing.
-Develop and implement a system of return of service for teachers college
-students.
-retention.
-Improve Conduct an awareness program on the value of schooling. Develop guidelines, with specific strategies, to improve retention.
-Conduct trials at selected, targeted schools building on existing Review the enrolment policy to include issues of enrolment, attendance and repetition.
-initiatives. Commission further research as necessary.
+Review the criteria for a disadvantaged school and classify primary schools accordingly.
+Encourage teachers to take up positions in remote schools by providing agreed allowances and non-financial incentives, such as minimum standards of housing.
+Develop and implement a system of return of service for teachers college students.
+Improve retention.
+Conduct an awareness program on the value of schooling.
+Develop guidelines, with specific strategies, to improve retention.
+Review the enrolment policy to include issues of enrolment, attendance and repetition.
+Conduct trials at selected, targeted schools building on existing initiatives.
+Commission further research as necessary.
 ###### Minor Outcome P2
-Review and produce curriculum and support materials for all subjects
-at the primary level on a regular basis.
-Develop student materials and resources. Develop teacher materials and resources.
+Review and produce curriculum and support materials for all subjects at the primary level on a regular basis.
+Develop student materials and resources.
+Develop teacher materials and resources.
 Support the implementation of the primary reform curriculum.
 Train district and school officials.
 Develop, produce and distribute locally-based curriculum support materials in the vernacular.
-Improve access to quality distance education materials in the primary grades.
-and monitor education standards at the primary level of
-Review the Certificate of Basic Education Examination to ensure
-consistency with the reform curriculum.
-Measure education.
-upper
+Improve access to quality distance education materials in the upper primary grades.
+Measure and monitor education standards at the primary level of education.
+Review the Certificate of Basic Education Examination to ensure consistency with the reform curriculum.
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 100
 
@@ -3795,45 +4163,53 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 
 [[START OF PAGE 113]]
 
-2005 | 2006 | 2008 2007 | 2009 | 2010 | 2012 | 2013 | 2014
---- | --- | --- | --- | --- | --- | --- | ---
-Develop and trial a qualitative means of monitoring and evaluating teaching and learning. Implement the Curriculum Standards Monitoring Test.
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Implement the Curriculum Standards Monitoring Test.
+Develop and trial a qualitative means of monitoring and evaluating teaching and learning.
 Support the implementation of the HIV/AIDS policy.
-Provide Develop and provide appropriate teacher and student materials.
-advisory and appraisal services to all primary schools.
-community involvement in the management of schools. Ensure all schools are visited on a regular basis by inspectors. Train, and then monitor, head teachers in teacher appraisal techniques.
-Greater Determine a system of community involvement in the appraisal of teachers. Endeavour to achieve a more equal representation of genders on Boards of Management.
+Develop and provide appropriate teacher and student materials.
+Provide advisory and appraisal services to all primary schools.
+Ensure all schools are visited on a regular basis by inspectors.
+Train, and then monitor, head teachers in teacher appraisal techniques.
+Greater community involvement in the management of schools.
+Determine a system of community involvement in the appraisal of teachers.
+Endeavour to achieve a more equal representation of genders on Boards of Management.
 ###### Minor Outcome P3
-Provide the required number of appropriately trained teachers. Identify teacher demand on an annual basis, particularly from areas demonstrated teacher shortages, and establish further places as | with required.
-Continually review and update the Primary Teachers College curriculum. Conduct teacher supply and demand study in 2009. Review and strengthen inclusive teaching practices in the colleges and
-the curriculum. | in
-Train teachers as curriculum developers. Develop and provide appropriate HIV/AIDS, substance abuse and
-gender
-Provide professional development opportunities for primary school teachers. equity materials for trainee teachers.
+Provide the required number of appropriately trained teachers.
+Identify teacher demand on an annual basis, particularly from areas with demonstrated teacher shortages, and establish further places as required.
+Conduct teacher supply and demand study in 2009.
+Continually review and update the Primary Teachers College curriculum.
+Review and strengthen inclusive teaching practices in the colleges and in the curriculum.
+Train teachers as curriculum developers.
+Develop and provide appropriate HIV/AIDS, substance abuse and gender equity materials for trainee teachers.
+Provide professional development opportunities for primary school teachers.
 Review and strengthen the role of the Papua New Guinea Education Institute.
-Develop suitable staff development programs to include student leadership training opportunities for women teachers. | counselling.
-Provide professional development opportunities for primary school managers. Provide
-teachers and senior teachers. Provide training for school asset management to include the storage care of textbooks and procurement of basic school materials. | head
-professional development opportunities for male and female | and
-Provide Primary Teachers College staff. Provide teacher educators with professional development in targeted Increase teacher educators' knowledge of gender equity and children with special needs, bilingual teaching and assessment processes.
-Improve linkages and coordination between the Primary Teachers Colleges and the divisions in the Department responsible for curriculum | areas.
-development and inspections.
-the effective operation of Primary Teachers Colleges.
-Establish a national framework for standards in teacher training. Review the role of the Teacher Education Board of Studies.
-Support Develop and implement individual college plans.
-Standardise administrative and financial practices across all Improve coordination between the Department of Education
-colleges. and | the
-Introduce college-based staff appraisal. Primary Teachers Colleges.
+Develop suitable staff development programs to include student counselling.
+Provide leadership training opportunities for women teachers.
+Provide professional development opportunities for primary school managers.
+Provide supervision, planning and management workshops for head teachers and senior teachers.
+Provide training for school asset management to include the storage and care of textbooks and procurement of basic school materials.
+Provide professional development opportunities for male and female Primary Teachers College staff.
+Increase teacher educators' knowledge of gender equity and children with special needs, bilingual teaching and assessment processes.
+Provide teacher educators with professional development in targeted areas.
+Improve linkages and coordination between the Primary Teachers Colleges and the divisions in the Department responsible for curriculum development and inspections.
+Support the effective operation of Primary Teachers Colleges.
+Establish a national framework for standards in teacher training.
+Review the role of the Teacher Education Board of Studies.
+Develop and implement individual college plans.
+Standardise administrative and financial practices across all colleges.
+Improve coordination between the Department of Education and the Primary Teachers Colleges.
+Introduce college-based staff appraisal.
 ###### Minor Outcome P4
-and implement a sustainable, affordable and appropriate school
-Develop a formula to redistribute subsidies from post primary to basic subsidy policy.
-Ascertain realistic and affordable levels of parental contributions. education.
-Reduce the burden of school fees on parents through schools
-undertaking self-reliance activities.
+Develop and implement a sustainable, affordable and appropriate school fee subsidy policy.
+Develop a formula to redistribute subsidies from post primary to basic education.
+Ascertain realistic and affordable levels of parental contributions.
+Reduce the burden of school fees on parents through schools undertaking self-reliance activities.
 Make efficient and rational use of teachers.
-Develop fee
+Establish a Position Allocation Committee.
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 101
 
@@ -3841,33 +4217,51 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 
 [[START OF PAGE 114]]
 
-Develop and apply a set of criteria for teacher deployment and allocation to provinces. Ensure that local language teachers are appointed to Grade 3 classes. | 2005 | 2006 | 2008 2007 | 2009 | 2010 | 2011 | 2012 | 2014
---- | --- | --- | --- | --- | --- | --- | --- | ---
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Develop and apply a set of criteria for teacher deployment and allocation to provinces.
+Ensure that local language teachers are appointed to Grade 3 classes.
 #### Secondary education
 ###### Minor Outcome S1
-Establish and maintain a Complete provincial and elementary education.
-sufficient number of schools. Review procedures for approving the expansion of secondary schools. district plans for the implementation of Redesignate existing vocational institutions offering a lower secondary education as secondary schools. Maintain and rehabilitate all schools rather than construct new schools. Consider and implement the findings of the review of the national high schools. Establish and enforce agreements with provincial governments concerning guidelines for the expansion of secondary schools. Determine the number of new classes required on an annual basis and allocate these classes to provinces.
+Establish and maintain a sufficient number of schools.
+Complete provincial and district plans for the implementation of elementary education.
+Redesignate existing vocational institutions offering a lower secondary education as secondary schools.
+Maintain and rehabilitate all schools rather than construct new schools.
+Consider and implement the findings of the review of the national high schools.
+Review procedures for approving the expansion of secondary schools.
+Determine the number of new classes required on an annual basis and allocate these classes to provinces.
+Establish and enforce agreements with provincial governments concerning guidelines for the expansion of secondary schools.
 ###### Minor Outcome S2
-Design, develop and produce inclusive curriculum and assessment
-support materials for all subjects at the secondary level. Review all current secondary curriculum and assessment materials. Develop curriculum and assessment materials. Liaise with vocational curriculum officers in the development of units for the lower secondary curriculum.
-Revise assessment and reporting procedures and examinations to match the reform curriculum. Design and develop multimedia support materials for students and teachers. practical
-Provide inspectoral services to all secondary schools. Monitor and evaluate teaching and learning to enhance standards. Visit schools on a regular basis. Develop a relevant and effective training program for secondary inspectors. Train and then monitor principals in teacher appraisal techniques. Review assessment and examination procedures for the School Certificate and Higher School Certificate Examinations.
-Develop and trial a qualitative means of monitoring and evaluating
-Support counselling and guidance services for secondary school teaching and learning. Train school-based counsellors and guidance officers. Consult with the social welfare division of the Department of Community
-students. Development. Support the provision of counselling services by consulting outside
-agencies and by engaging local personnel and parents. Schools involve parents to a much greater degree in the education of
+Design, develop and produce inclusive curriculum and assessment support materials for all subjects at the secondary level.
+Review all current secondary curriculum and assessment materials.
+Liaise with vocational curriculum officers in the development of practical units for the lower secondary curriculum.
+Develop curriculum and assessment materials.
+Design and develop multimedia support materials for students and teachers.
+Revise assessment and reporting procedures and examinations to match the reform curriculum.
+Review assessment and examination procedures for the School Certificate and Higher School Certificate Examinations.
+Provide inspectoral services to all secondary schools.
+Visit schools on a regular basis.
+Develop a relevant and effective training program for secondary inspectors.
+Train and then monitor principals in teacher appraisal techniques.
+Monitor and evaluate teaching and learning to enhance standards.
+Develop and trial a qualitative means of monitoring and evaluating teaching and learning.
+Support counselling and guidance services for secondary school students.
+Train school-based counsellors and guidance officers.
+Consult with the social welfare division of the Department of Community Development.
+Support the provision of counselling services by consulting outside agencies and by engaging local personnel and parents.
+Schools involve parents to a much greater degree in the education of their children.
 ###### Minor Outcome S3
-Provide the required number of appropriately trained teachers. their children. Review and update the pre-service curriculum to be consistent with
-the secondary reform curriculum. Establish required further places for teacher trainees. Provide opportunities for serving teachers without a teaching qualification
-to gain a Post Graduate Diploma in Education.
-a program of professional development for all teachers.
-Develop courses using mixed modes of delivery. Conduct in-service training courses to develop knowledge and understanding of the reform curriculum and new assessment and examination requirements. Develop
-school management training.
-Develop courses on key issues such as planning, financial and asset
-management.
-Provide
+Provide the required number of appropriately trained teachers.
+Review and update the pre-service curriculum to be consistent with the secondary reform curriculum.
+Establish required further places for teacher trainees.
+Provide opportunities for serving teachers without a teaching qualification to gain a Post Graduate Diploma in Education.
+Develop a program of professional development for all teachers.
+Conduct in-service training courses to develop knowledge and understanding of the reform curriculum and new assessment and examination requirements.
+Develop courses using mixed modes of delivery.
+Provide school management training.
+Develop courses on key issues such as planning, financial and asset management.
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 102
 
@@ -3875,40 +4269,47 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 
 [[START OF PAGE 115]]
 
-2005 | 2006 | 2008 2007 | 2009 | 2010 | 2013 2012 | 2014
---- | --- | --- | --- | --- | --- | ---
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 ###### Minor Outcome S4
 Develop and implement a sustainable, appropriate school fee subsidy policy.
-Make efficient and rational use of teachers. Establish a scholarship scheme for talented students. Reduce the burden of school fees on parents through schools undertaking self-reliance activities. Deduct the cost of examinations from school fee subsidy allocations. Establish a Position Allocation Committee.
+Establish a scholarship scheme for talented students.
+Reduce the burden of school fees on parents through schools undertaking self-reliance activities.
+Deduct the cost of examinations from school fee subsidy allocations.
+Make efficient and rational use of teachers.
+Establish a Position Allocation Committee.
+Establish criteria for the allocation of teachers to achieve a more equitable distribution of teachers.
 #### Flexible, Open and Distance education
 ###### Minor Outcome F1
 Provide an institution with flexible, open and distance modes of delivery that has the facilities to enrol 25 per cent of Grade 10 graduates and ten per cent of Grade 12 graduates who are unable, or do not wish, to continue in the formal education system.
-Conduct a needs assessment of the current college facilities. open
-Prepare a plan to progressively implement changes to flexible, and distance education facilities.
+Conduct a needs assessment of the current college facilities.
+Prepare a plan to progressively implement changes to flexible, open and distance education facilities.
 Increase the number of providers of distance education.
 Provide flexible, open and distance modes of delivery using vocational centres and private providers.
 ###### Minor Outcome F2
 Review and redesign current curriculum and college practices.
-Identify points of articulation between the college and the school system and develop an appropriate policy. Adapt the reform curriculum in the upper primary, lower secondary and upper secondary grades for use in distance education mode. Develop and deliver other programs such as adult literacy and other short modular courses.
-Develop an appropriate assessment, examination and certification system. Review the current examination and assessment policies in light of the reform curriculum in secondary education. Review assessment processes to be consistent with national Rationalise the central academic records system to be linked to all provincial distance education centres. Utilise information communications technology as it becomes feasible.
-Establish a materials production and procurement system that is cost-effective and efficient. requirements. Review current materials production and distribution systems for distance
-education. Rationalise the production and distribution systems consistent with the
-National Policy for the Procurement, Distribution and Storage of
-National Policy for the Procurement, Distribution and Storage of
+Review the current curriculum.
+Identify points of articulation between the college and the school system and develop an appropriate policy.
+Adapt the reform curriculum in the upper primary, lower secondary and upper secondary grades for use in distance education mode.
+Develop and deliver other programs such as adult literacy and other short modular courses.
+Utilise information communications technology as it becomes feasible.
+Develop an appropriate assessment, examination and certification system.
+Review the current examination and assessment policies in light of the reform curriculum in secondary education.
+Review assessment processes to be consistent with national requirements.
+Rationalise the central academic records system to be linked to all provincial distance education centres.
+Establish a materials production and procurement system that is cost-effective and efficient.
+Review current materials production and distribution systems for distance education.
+Rationalise the production and distribution systems consistent with the National Policy for the Procurement, Distribution and Storage of Curriculum Materials.
 ###### Minor Outcome F3
-the rate of localisation. Curriculum Materials.
-Increase
-Improve the capacity of college staff to produce curriculum and Upgrade the technical capacity of Papua New Guinean staff through training programs.
-materials for distance education. Upgrade the skills of college staff in curriculum design and
-assessment
-assessment.
+Increase the rate of localisation.
+Upgrade the technical capacity of Papua New Guinean staff through training programs.
+Improve the capacity of college staff to produce curriculum and assessment materials for distance education.
+Upgrade the skills of college staff in curriculum design and assessment.
+Train college staff in specialist areas such as the design, preparation and production of non-print distance education materials.
 ###### Minor Outcome F4
-Restructure the College of Distance
-Education.
-production of non-print distance education materials.
-Train college staff in specialist areas such as the design, preparation and
+Restructure the College of Distance Education.
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 103
 
@@ -3916,41 +4317,52 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 
 [[START OF PAGE 116]]
 
-2005 | 2006 | 2008 | 2009 | 2010 | 2012 | 2013 | 2014
---- | --- | --- | --- | --- | --- | --- | ---
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Review the College of Distance Education to enhance the capacity to meet projected enrolment targets.
 Monitor improvements consistent with national education system prerequisites.
-Establish a standards and monitoring system. Strengthen the capacity of the Board of Studies for flexible, open and
-distance education.
+Establish a standards and monitoring system.
+Strengthen the capacity of the Board of Studies for flexible, open and distance education.
 #### Vocational education and training
 ###### Minor Outcome V1
-Establish and maintain a sufficient number of
-vocational training institutions. Facilitate and monitor the implementation of provincial vocational education system reform. Determine criteria for the registration of vocational centres. Rationalise provincial vocational training centres. Develop institution plans. Liaise with other providers and the Department of Community Development. Complete vocational education component of provincial education plans.
+Establish and maintain a sufficient number of vocational training institutions.
+Determine criteria for the registration of vocational centres.
+Complete vocational education component of provincial education plans.
+Develop institution plans.
+Liaise with other providers and the Department of Community Development.
+Facilitate and monitor the implementation of provincial vocational education system reform.
+Rationalise provincial vocational training centres.
 Develop criteria for the registration of centres.
-Provide infrastructure to meet training program needs. Provide new infrastructure as required by vocational program Upgrade and renovate existing infrastructure based on training program specifications.
-Provide opportunities for private providers to become registered. specifications.
+Provide infrastructure to meet training program needs.
+Upgrade and renovate existing infrastructure based on training program specifications.
+Provide new infrastructure as required by vocational program specifications.
+Provide opportunities for private providers to become registered.
+Establish and strengthen linkages with other training providers and establishments.
 ###### Minor Outcome V2
-Review and develop appropriate competency-based training
-programs for centres based on the economic and employment needs of provinces, districts and individual communities.
-Adapt existing full-time courses for maximum one year duration. Identify, develop and modularise new courses. Review and adapt existing short courses including Skills Training
-Provide adequate tools and equipment to service training programs. Procure relevant tools and equipment for conducting training based on course specifications. Establish skills units in all provinces. Support the production of locally based curriculum. Conduct community development programs in and out of schools. Resource Unit materials.
-Provide advisory and appraisal services to all vocational institutions. programs Conduct a review of the vocational education inspections system.
+Review and develop appropriate competency-based training programs for centres based on the economic and employment needs of provinces, districts and individual communities.
+Adapt existing full-time courses for maximum one year duration.
+Identify, develop and modularise new courses.
+Review and adapt existing short courses including Skills Training Resource Unit materials.
+Establish skills units in all provinces.
+Support the production of locally based curriculum.
+Conduct community development programs in and out of schools.
+Provide adequate tools and equipment to service training programs.
+Procure relevant tools and equipment for conducting training programs based on course specifications.
+Provide advisory and appraisal services to all vocational institutions.
+Conduct a review of the vocational education inspections system.
 Strengthen the operational functions of the inspectors.
-Develop a greater understanding between the vocational and
-institutions other departments and agencies. Conduct inter-departmental meetings at the national, provincial and
-district levels to foster greater understanding of, and strengthen links with, the vocational centres.
-Increase and strengthen links between community and industry. Establish a database of courses, providers and instructors from various
-Develop an awareness program to change public perception of agencies, communities and other departments.
-vocational education.
-incentives for institutions to offer short courses for the
-Provide
-community at large. Allocate start up capital for institutions meeting agreed criteria.
+Develop a greater understanding between the vocational institutions and other departments and agencies.
+Conduct inter-departmental meetings at the national, provincial and district levels to foster greater understanding of, and strengthen links with, the vocational centres.
+Increase and strengthen links between community and industry.
+Establish a database of courses, providers and instructors from various agencies, communities and other departments.
+Develop an awareness program to change public perception of vocational education.
+Provide incentives for institutions to offer short courses for the community at large.
+Allocate start up capital for institutions meeting agreed criteria.
 ###### Minor Outcome V3
 Provide the required number of appropriately trained instructors.
-Review delivery mode and accreditation of the Diploma in Vocational
-Education and Training.
+Review delivery mode and accreditation of the Diploma in Vocational Education and Training.
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 104
 
@@ -3958,12 +4370,13 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 
 [[START OF PAGE 117]]
 
-2005 | 2006 | 2007 | 2009 2008 | 2010 | 2011 | 2012 | 2013
---- | --- | --- | --- | --- | --- | --- | ---
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Articulate this to the Diploma in Technical Education and Training.
 Adapt the residential program into distance mode.
 Provide professional development opportunities for vocational centre instructors.
-Conduct skills audit of instructors. Identify, develop and deliver courses to include entrepreneurial and adult education skills.
+Conduct skills audit of instructors.
+Identify, develop and deliver courses to include entrepreneurial and adult education skills.
 Develop bilateral training arrangements.
 Provide professional development opportunities for vocational centre managers.
 Conduct skills audits of managers.
@@ -3975,33 +4388,39 @@ Develop and implement a sustainable, affordable and appropriate school fee polic
 Conduct a review to ascertain the viability of a Grade 8 Graduate Incentive Scheme allowing them to enrol at any approved institution.
 Determine, on an annual basis, the cost of delivering vocational education programs.
 Make efficient and rational use of vocational institution staff.
-Establish a Position Allocation Committee. Conduct an annual teacher audit.
+Establish a Position Allocation Committee.
+Conduct an annual teacher audit.
 Develop a culture of self-reliance in vocational centres.
-Include entrepreneurial skills in all training programs. Ensure programs in all vocational instituations enterprise driven.
-Promote the principles of good governance in the administration of vocational institutions. Develop appropriate systems for financial, inventory and asset management.
-Review guidelines for vocational centre Boards of Management. Strengthen the role of the vocational centre coordinator in provinces. Develop institution plans.
+Include entrepreneurial skills in all training programs.
+Ensure programs in all vocational instituations enterprise driven.
+Promote the principles of good governance in the administration of vocational institutions.
+Develop appropriate systems for financial, inventory and asset management.
+Review guidelines for vocational centre Boards of Management.
+Strengthen the role of the vocational centre coordinator in provinces.
+Develop institution plans.
 #### Technical education and training
 ###### Minor Outcome T1
 Develop National Training Plan.
 Conduct workforce needs analysis.
-Ensure a suitable number of student places at registered providers to satisfy the needs of industry and business. Relate the training places at registered providers to the National
-Training Plan.
-Enrol students from disadvantaged groups. Provide adequate infrastructure and materials.
-public and private providers.
-Register Develop criteria for the registration of providers.
+Ensure a suitable number of student places at registered providers to satisfy the needs of industry and business.
+Relate the training places at registered providers to the National Training Plan.
+Enrol students from disadvantaged groups.
+Provide adequate infrastructure and materials.
+Register public and private providers.
+Develop criteria for the registration of providers.
 ###### Minor Outcome T2
 Develop relevant teaching programs.
 Review the Technical Training Certificate courses.
-Develop new courses as prioritised in the National Training Plan. Modularise all courses.
+Develop new courses as prioritised in the National Training Plan.
+Modularise all courses.
 Liaise closely with industry and business.
 Provide suitable tools and equipment.
-Establish a National Qualifications Framework. Discuss articulation with other education sectors.
-and approve curriculum.
-courses.
-Accredit
-Develop
+Establish a National Qualifications Framework.
+Discuss articulation with other education sectors.
+Develop and approve curriculum.
+Accredit courses.
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 105
 
@@ -4009,41 +4428,56 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 
 [[START OF PAGE 118]]
 
-Provide advisory and appraisal services to all vocational education and | 2005 | 2006 | 2007 | 2009 | 2010 | 2011 | 2013 2012 | 2014
---- | --- | --- | --- | --- | --- | --- | --- | ---
-training providers. Conduct a review of the technical education inspections system.
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Provide advisory and appraisal services to all vocational education and training providers.
+Conduct a review of the technical education inspections system.
 ###### Minor Outcome T3
 Reduce dependence on overseas contract labour.
 Provide training for Papua New Guineans.
-Provide opportunities for vocational centre instructors to broaden their Provide opportunities for specialist sessional staff. Provide opportunities for staff to gain further industrial experience.
+Provide opportunities for specialist sessional staff.
+Provide opportunities for staff to gain further industrial experience.
+Provide opportunities for vocational centre instructors to broaden their skills base.
+Develop flexible courses suitable for vocational centre instructors.
 ###### Minor Outcome T4
-Technical Education and Training providers to become more self-sustaining. Establish partnerships with businesses and other organisations.
+Technical Education and Training providers to become more self-sustaining.
+Establish partnerships with businesses and other organisations.
+Provide entrepreneurial training for college managers.
+Improve student lecturer ratios.
 Establish a group to determine the allocation of positions.
-Give Determine benchmark class sizes.
-greater accountability to college managers.
+Determine benchmark class sizes.
+Give greater accountability to college managers.
 Monitor the performance and output of all colleges.
 #### Administration of education
 ###### Minor Outcome A1
-Restructure the Department and improve its systems to make it more efficient and effective in the delivery of its core functions. Conduct a review of the organisational capacity of the Department,
-including its structure. Build the capacity of the Department by improving its key organisational systems and practices. Establish and appoint regional curriculum officers.
-Amend all education related legislations. Review the Education and Teaching Service Acts.
-annual Department of Education plans. Review the status of provincial education acts.
-Develop Develop annual divisional plans. Provide training opportunities for divisional planning staff.
+Restructure the Department and improve its systems to make it more efficient and effective in the delivery of its core functions.
+Conduct a review of the organisational capacity of the Department, including its structure.
+Build the capacity of the Department by improving its key organisational systems and practices.
+Establish and appoint regional curriculum officers.
+Amend all education related legislations.
+Review the Education and Teaching Service Acts.
+Review the status of provincial education acts.
+Develop annual Department of Education plans.
+Develop annual divisional plans.
+Provide training opportunities for divisional planning staff.
 Provide an efficient system for the registration and monitoring of private education institutions.
-Review the guidelines and processes to ensure Review existing process and practices. Monitor all private education institutions.
-research-driven policy development.
-Establish a well-resourced and equipped policy capacity. Provide training opportunities for Departmental policy staff.
-Establish a well-resourced and equipped planning and research capacity. Provide advice on policy development. Conduct long and short studies to support policy development
-Provide training opportunities for Departmental research staff. and monitoring and evaluation of the Plan.
-the
-Cooperate with outside research organisations in the undertaking of
-a coordinated approach to donor assistance. major studies.
-Develop
-Develop an effective system for the monitoring and reporting donor-funded projects.
-of
-Support effective implementation of the Organic Law on Provincial Provide support to provincial and district authorities in the development of project proposals.
+Review existing process and practices.
+Monitor all private education institutions.
+Review the guidelines and processes to ensure research-driven policy development.
+Establish a well-resourced and equipped policy capacity.
+Provide training opportunities for Departmental policy staff.
+Establish a well-resourced and equipped planning and research capacity.
+Provide advice on policy development.
+Conduct long and short studies to support policy development and the monitoring and evaluation of the Plan.
+Provide training opportunities for Departmental research staff.
+Cooperate with outside research organisations in the undertaking of major studies.
+Develop a coordinated approach to donor assistance.
+Develop an effective system for the monitoring and reporting of donor-funded projects.
+Provide support to provincial and district authorities in the development of project proposals.
+Support effective implementation of the Organic Law on Provincial Governments and Local-level Governments by strengthening the integration of administrative processes.
+Regularly review service delivery processes in the provinces and districts.
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 106
 
@@ -4051,48 +4485,53 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 
 [[START OF PAGE 119]]
 
-2005 | 2006 | 2008 | 2009 | 2010 | 2012 | 2013 | 2014
---- | --- | --- | --- | --- | --- | --- | ---
-Provide guidelines for the establishment of district education boards. Monitor and evaluate the implementation of delivery of services at
-the district level.
-Develop provincial and district education plans consistent with National Enforce procedures for the appointment of provincial education advisers.
-Government policies and priorities. Adopt and adapt the Affordability Study financing model as a planning
-Develop, communicate and implement an HIV/AIDS policy for the tool for the development of plans at all levels. Conduct planning workshops and training for provincial and district leader managers.
-Department of Education. Liaise with other appropriate government bodies and organisations in developing and implementing a plan.
-non-government Provide awareness to all education officials at the national, provincial and district levels.
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Provide guidelines for the establishment of district education boards.
+Monitor and evaluate the implementation of delivery of services at the district level.
+Enforce procedures for the appointment of provincial education advisers.
+Develop provincial and district education plans consistent with National Government policies and priorities.
+Adopt and adapt the Affordability Study financing model as a planning tool for the development of plans at all levels.
+Conduct planning workshops and training for provincial and district leader managers.
+Develop, communicate and implement an HIV/AIDS policy for the Department of Education.
+Liaise with other appropriate government bodies and non-government organisations in developing and implementing a plan.
+Provide awareness to all education officials at the national, provincial and district levels.
 Monitor implementation of the policy.
-Strengthen
-relationships with major stakeholders. Facilitate regular forums with relevant government bodies, church agencies and non-government organisations.
+Strengthen relationships with major stakeholders.
+Facilitate regular forums with relevant government bodies, church agencies and non-government organisations.
 Develop an implementation plan at all levels for the Gender Equity in Education Policy.
-Provide training for officers at all levels. Monitor the implementation of the policy.
+Provide training for officers at all levels.
+Monitor the implementation of the policy.
 Support improved literacy and numeracy.
-Manage the delivery of literacy and numeracy services through NLAS. Support program delivery in collaboration with other government departments and agencies.
+Manage the delivery of literacy and numeracy services through NLAS.
+Support program delivery in collaboration with other government departments and agencies.
 ###### Minor Outcome A2
-Develop and implement an appropriate Human Resource Development Policy and Plan for the Department. Provide work-based training for all public servants in the Department.
-Provide senior managers of the Department with targeted training in order to improve their capacity to lead the organisation. Develop a National Accreditation Policy to be articulated throughout all institutions and agencies.
+Develop and implement an appropriate Human Resource Development Policy and Plan for the Department.
+Provide work-based training for all public servants in the Department.
+Provide senior managers of the Department with targeted training in order to improve their capacity to lead the organisation.
+Develop a National Accreditation Policy to be articulated throughout all institutions and agencies.
 Carry out regular assessments of training needs.
-the sub-national level. Provide training for district and provincial staff.
-Carry out regular assessments of training needs at the national, provincial
-and local levels.
-Implement and monitor the Department's Gender Policy. Develop an implementation plan for the policy.
+Develop and implement a program for the training of education staff at the sub-national level.
+Provide training for district and provincial staff.
+Carry out regular assessments of training needs at the national, provincial and local levels.
+Implement and monitor the Department's Gender Policy.
+Develop an implementation plan for the policy.
 Identify and support female officers and teachers suitably qualified for rapid promotion.
-an equal opportunities policy.
-Develop Develop an implementation plan for the policy.
-Identify and support officers and teachers from disadvantaged
-groups suitable for rapid promotion.
+Develop an equal opportunities policy.
+Develop an implementation plan for the policy.
+Identify and support officers and teachers from disadvantaged groups suitable for rapid promotion.
 Improve the payroll system.
 Conduct annual teacher audits.
 Continue to develop the Human Resource Management payroll system.
 Develop procedures manuals by 2006.
 Review the decentralisation of the salaries function.
 Improve the appointments system.
-Improve the data management system. Review existing procedures and processes.
-procedures for monitoring student, teacher and attendance.
+Review existing procedures and processes.
+Improve the data management system.
+Improve procedures for monitoring student, teacher and education official attendance.
 Review current processes and practices.
-education
-Improve official
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 107
 
@@ -4100,41 +4539,51 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 
 [[START OF PAGE 120]]
 
-2005 | 2006 | 2008 2007 | 2009 | 2010 | 2012 2011 | 2013 | 2014
---- | --- | --- | --- | --- | --- | --- | ---
+2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 ###### Minor Outcome A3
 Integrate planning and budgeting processes at all levels of education.
-Review of procedures manuals and budget reporting systems. Provide a relevant training program for finance and budgeting officers. Establish a budget forecasting section within the Department.
-Strengthen control systems to ensure disbursement and receipts of Provide support to provinces and district officials in the formulation of education budgets.
-funds are as stipulated in the Public Finance Management Act. Review financial processes.
+Review of procedures manuals and budget reporting systems.
+Provide a relevant training program for finance and budgeting officers.
+Establish a budget forecasting section within the Department.
+Provide support to provinces and district officials in the formulation of education budgets.
+Strengthen control systems to ensure disbursement and receipts of funds are as stipulated in the Public Finance Management Act.
+Review financial processes.
 Improve the effective management of trust accounts.
 Strengthen the capacity of the accounts branch.
 Generate revenue from cost recovery activities.
-Establish sales outlets for Department of Education publications. Establish a process for income generation and cost recovery consistent with financial regulations and service delivery obligations.
-Establish an effective procurement, printing and distribution system for all equipment and materials. Review of current practices and policies.
-Establish a system of coordinated centralised procurement and
-printing. Develop a master assets register.
+Establish a process for income generation and cost recovery consistent with financial regulations and service delivery obligations.
+Establish sales outlets for Department of Education publications.
+Establish an effective procurement, printing and distribution system for all equipment and materials.
+Review of current practices and policies.
+Establish a system of coordinated centralised procurement and printing.
+Develop a master assets register.
 ###### Minor Outcome A4
-Use appropriate information communications technology for flexible and effective dialogue between all
-levels of administration and stakeholders. Develop an Information Technology Plan and Policy for the Department. Liaise with appropriate authorities regarding future opportunities in communications technology to strengthen links between the national and sub-national education levels.
-Strengthen all forms of electronic communication such as email and
+Use appropriate information communications technology for flexible and effective dialogue between all levels of administration and stakeholders.
+Develop an Information Technology Plan and Policy for the Department.
+Liaise with appropriate authorities regarding future opportunities in communications technology to strengthen links between the national and sub-national education levels.
+Strengthen all forms of electronic communication such as email and worldwide web access and for district, provincial and national education offices.
 Investigate the use of ICT for delivering teaching programs and supporting learning and assessment in schools.
 Support the national media centre and distance education modes using information communications technology as it becomes available and is affordable and sustainable.
-Establish a broadcasting system to support curriculum and more effective
-communications. Train media centre personnel.
-records management and archiving of Establish broadcasting system and equipment.
-Enhance information. Review and enhance current practices and procedures.
-Establish a fully developed Education Management Information System unit at the national and sub-national levels. Review procedures and census forms for the accurate and timely
-Centralise data storage and access within the Department. Rationalise the collection of data by the Department from schools, collection of data disaggregated by gender and age.
-districts and provinces.
+Establish a broadcasting system to support curriculum and more effective communications.
+Train media centre personnel.
+Establish broadcasting system and equipment.
+Enhance records management and archiving of information.
+Review and enhance current practices and procedures.
+Establish a fully developed Education Management Information System unit at the national and sub-national levels.
+Review procedures and census forms for the accurate and timely collection of data disaggregated by gender and age.
+Centralise data storage and access within the Department.
+Rationalise the collection of data by the Department from schools, districts and provinces.
 ###### Minor Outcome A5
-and implement an awareness policy for the
-Develop Department. Develop and implement an awareness strategy to support the implementation of the National Education Plan. Identify target groups and appropriate strategies to cater for these.
-Review existing awareness and information materials. Expand the scope of the community awareness program. Increase the capacity of the Department to undertake an effective awareness program.
-Increase the capacity of education officers, teachers and
-community organisations at the provincial and district levels to deliver effective awareness.
+Develop and implement an awareness policy for the Department.
+Develop and implement an awareness strategy to support the implementation of the National Education Plan.
+Identify target groups and appropriate strategies to cater for these.
+Review existing awareness and information materials.
+Expand the scope of the community awareness program.
+Increase the capacity of the Department to undertake an effective awareness program.
+Increase the capacity of education officers, teachers and community organisations at the provincial and district levels to deliver effective awareness.
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 108
 
@@ -4161,7 +4610,7 @@ Incorporate library and archive plans into provincial education plans.
 Review existing situation.
 Develop guidelines for plans.
 
-ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - IMPLEMENTING THE PLAN
 
 109
 
@@ -4174,6 +4623,8 @@ ANATIONALPLAN FOR EDUCATION IMPLEMENTING THE PLAN
 [[END OF PAGE 122]]
 
 [[START OF PAGE 123]]
+
+## Section 6
 
 ### FINANCING THE PLAN
 
@@ -4207,9 +4658,9 @@ There is a need to rebalance Departmental administration by reducing the number 
 
 A number of cost-effectiveness and cost recovery measures have been put in place in recent years. These include:
 
-- The switch from a three to two year primary teacher education program. This has resulted in an increase in output of 50 per cent and been achieved through moving to a trimester year within the Primary T eachers Colleges.
+- The switch from a three to two year primary teacher education program. This has resulted in an increase in output of 50 per cent and been achieved through moving to a trimester year within the Primary Teachers Colleges.
 
-- The increasing use of multi-grade teaching in elementary and primary schools. Multigrade teaching is now a key part of all pre-service teacher training programs.
+- The increasing use of multi-grade teaching in elementary and primary schools. Multi-grade teaching is now a key part of all pre-service teacher training programs.
 
 - The imposition of in-service fees for teachers attending residential programs.
 
@@ -4233,17 +4684,16 @@ The financing of the Plan will come from a variety of sources:
 
 Donor funding will be used to complement the funding provided by these sources.
 
-ANATIONALPLAN FOR EDUCATION FINANCING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - FINANCING THE PLAN
 
 113
 
 [[END OF PAGE 125]]
 
 [[START OF PAGE 126]]
-
 ##### National Government costs
 
-The National Government will have to fund three main areas - teacher salaries, school subsidies and the costs of administering the system by the Department of Education.
+The National Government will have to fund three main areas – teacher salaries, school subsidies and the costs of administering the system by the Department of Education.
 
 ##### Cost-effectiveness measures
 
@@ -4255,33 +4705,64 @@ Significant cost-effectiveness measures will be implemented in this Plan period 
 
 - the raising of both the lecturer-student ratios and the localisation rate in the technical sector.
 
-Average class sizes have been set at 30 for Elementary, 45 for Grade 1 , 40 for Grade 3, 35 for Grade 7 , 42 for Grade 9 and 30 for Grade 11. This takes account of costeffectiveness, the feasibility of achieving such targets and concerns about compromising quality. The overall effect of these cost saving measures and the imposition of criteria for the allocation of teachers will be a reduction in unit salary costs of some ten per cent over the Plan period in the general education sector.
+Average class sizes have been set at 30 for Elementary, 45 for Grade 1, 40 for Grade 3, 35 for Grade 7, 42 for Grade 9 and 30 for Grade 11. This takes account of cost-effectiveness, the feasibility of achieving such targets and concerns about compromising quality. The overall effect of these cost saving measures and the imposition of criteria for the allocation of teachers will be a reduction in unit salary costs of some ten per cent over the Plan period in the general education sector.
 
 Collectively, these measures will result in savings of more than K300 million over the Plan period. The table below shows savings by sector for selected years in comparison with the existing situation:
 
-Table 39: T eacher deployment cost- effectiveness savings by sector (K'000s), 2005 to 2014, selected years.
+Table 39: Teacher deployment cost- effectiveness savings by sector (K’000s), 2005 to 2014, selected years.
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Upper primary | 4,017 | 20,232 | 30,498 | 34,117 |
+| Upper secondary | 2040.6 | 2107.9 | 2159.1 | 2221.0 |
+| Technical | 319.5 | 1189.5 | 2033.4 | 2861.8 |
+| Total | 6377.0 | 12032.6 | 18305.7 | 25315.2 |
 
 ##### Teacher salaries
 
 The largest part of the education budget is devoted to the payment of teacher salaries and emoluments.
 
-Table 40 shows total teacher emoluments that include provision for allowances and leave fares where appropriate. T ables 41 and 42 show teacher emoluments by unit cost and sector respectively.
+Table 40 shows total teacher emoluments that include provision for allowances and leave fares where appropriate. Tables 41 and 42 show teacher emoluments by unit cost and sector respectively.
 
-Table 40: T otal projected teacher emoluments by level (K'000s), 2005 to 2014, selected years
+Table 40: Total projected teacher emoluments by level (K’000s), 2005 to 2014, selected years
 
-ANATIONALPLAN FOR EDUCATION FINANCING THE PLAN
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Elementary | 70,650.9 | 94,795.4 | 115,427.9 | 129,914.0 |
+| Primary | 252,028.2 | 256,741.9 | 264,155.8 | 278,053.9 |
+| Secondary | 56,315.3 | 55,763.3 | 59,634.1 | 66,365.9 |
+| Vocational | 13,323.2 | 15,423.3 | 17,854.4 | 20,668.6 |
+| Technical | 7,318.4 | 5,980.0 | 6,154.9 | 7,125.1 |
+| Teacher Colleges | 4,767.1 | 4,767.1 | 4,767.1 | 4,767.1 |
+| Distance Education | 1,004.9 | 1,004.9 | 1,004.9 | 1,004.9 |
+| Special Education | 637.5 | 637.5 | 637.5 | 637.5 |
+| Elementary teacher training | 3,648.0 | 3,648.0 | 3,648.0 | 3,648.0 |
+| Total | 409,693.5 | 438,761.3 | 473,284.5 | 512,185.0 |
+
+A NATIONAL PLAN FOR EDUCATION - FINANCING THE PLAN
 
 114
-
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
-
 Table 41: Projected teacher emolument cost per student by level, 2005 to 2014, selected years (Kina)
 
-Table 42: T otal projected teacher emoluments by sector (K'000s), 2005 to 201 , selected years
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Elementary | 213.1 | 221.6 | 220.3 | 215.0 |
+| Primary | 402.8 | 385.1 | 373.2 | 363.2 |
+| Secondary | 656.7 | 641.3 | 642.4 | 642.0 |
+| Vocational | 705.0 | 705.0 | 705.0 | 705.0 |
+| Technical | 2809.7 | 1983.3 | 1763.3 | 1763.3 |
 
-The average elementary school salary will continue to rise as a greater proportion of teachers become registered. The Department of Education will impose greater control over the allocation of teaching resources through the formation of a Position Allocation Committee, with representation from the Department of Education, Department of Treasury, the T eaching Services Commission and the provinces. This group will be responsible for:
+Table 42: Total projected teacher emoluments by sector (K’000s), 2005 to 201, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Basic education | 322,679.1 | 351,537.2 | 379,583.7 | 407,967.9 |
+| Post primary education | 87,014.4 | 87,224.1 | 93,700.9 | 104,217.1 |
+
+The average elementary school salary will continue to rise as a greater proportion of teachers become registered. The Department of Education will impose greater control over the allocation of teaching resources through the formation of a Position Allocation Committee, with representation from the Department of Education, Department of Treasury, the Teaching Services Commission and the provinces. This group will be responsible for:
 
 - determining criteria for the allocation of teachers
 
@@ -4289,7 +4770,7 @@ The average elementary school salary will continue to rise as a greater proporti
 
 ##### School subsidies
 
-The allocation of school subsidies will reflect the government's priority for basic education. All subsidy allocations will be included in the Department of Education budget and the total provided will rise in accord with rises in enrolment. Accordingly, the figures in the tables below show fund currently available through the education function as well as those under Department of Education control.
+The allocation of school subsidies will reflect the government’s priority for basic education. All subsidy allocations will be included in the Department of Education budget and the total provided will rise in accord with rises in enrolment. Accordingly, the figures in the tables below show fund currently available through the education function as well as those under Department of Education control.
 
 There will be much greater support for children in the elementary schools. Parents will be required to make greater contributions for the education of their children in the secondary schools. The following summarises the shifts that will take place in this Plan period:
 
@@ -4305,25 +4786,53 @@ There will be much greater support for children in the elementary schools. Paren
 
 - The introduction of scholarships for ten per cent of students in lower secondary education.
 
-ANATIONALPLAN FOR EDUCATION FINANCING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - FINANCING THE PLAN
 
 115
 
 [[END OF PAGE 127]]
 
 [[START OF PAGE 128]]
-
 Tables 43 to 45 below show the amounts required for school subsidies and percentage allocations by sector in order to achieve targets. These figures will be reviewed in light of developments during the period of the Plan.
 
-Table 43: Projected subsidy requirements by type (K'000s), 2005 to 2014, selected years
+Table 43: Projected subsidy requirements by type (K’000s), 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Prep to Grade 2 | 15,092.4 | 23,454.5 | 39,999.4 | 54,378.3 |
+| Grade 3 to 5 | 16,471.5 | 18,570.6 | 20,489.5 | 22,814.6 |
+| Grade 6 to 8 | 11,800.3 | 14,171.2 | 16,674.3 | 18,561.9 |
+| Secondary | 10,290.0 | 6,416.2 | 6,480.7 | 7,024.0 |
+| Vocational | 2,834.5 | 0.0 | 0.0 | 0.0 |
+| Grade 8 Graduate Incentive Scheme | 0.0 | 10,461.4 | 12,254.2 | 13,605.5 |
+| Scholarships | 0.0 | 2,193.6 | 2,510.3 | 2,907.9 |
+| Distance Education | 1,000.0 | 0.0 | 0.0 | 0.0 |
+| Total | 57,488.7 | 75,267.5 | 98,408.4 | 119,292.3 |
 
 Table 44: Percentage subsidy allocations by type, 2005 to 2014, selected years
 
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Prep to Grade 2 | 26.3% | 31.2% | 40.6% | 45.6% |
+| Grade 3 to 5 | 28.7% | 24.7% | 20.8% | 19.1% |
+| Grade 6 to 8 | 20.5% | 18.8% | 16.9% | 15.6% |
+| Secondary | 17.9% | 8.5% | 6.6% | 5.9% |
+| Vocational | 4.9% | 0.0% | 0.0% | 0.0% |
+| Grade 8 Graduate Incentive Scheme | 0.0% | 13.9% | 12.5% | 11.4% |
+| Scholarships | 0.0% | 2.9% | 2.6% | 2.4% |
+| Distance Education | 1.7% | 0.0% | 0.0% | 0.0% |
+| Total | 100.0% | 100.0% | 100.0% | 100.0% |
+
 Table 45: Percentage subsidy allocations by sector, 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Basic education | 75.4% | 74.7% | 78.4% | 80.3% |
+| Post primary education | 24.6% | 25.3% | 21.6% | 19.7% |
 
 ##### Department of Education administration
 
-The costs shown in Table 46 are for the recurrent divisional requirements. These are shown in percentage terms in Table 47 . All costs are based upon 2003 values and on the current Department structure. Rises in goods and services are related to enrolment and staffing increases. These are in the areas of curriculum, inspections and examinations.
+The costs shown in Table 46 are for the recurrent divisional requirements. These are shown in percentage terms in Table 47. All costs are based upon 2003 values and on the current Department structure. Rises in goods and services are related to enrolment and staffing increases. These are in the areas of curriculum, inspections and examinations.
 
 Further to the significant cost-effectiveness measures taken in the area of teacher salaries, other economies in administration will be investigated. These include:
 
@@ -4331,45 +4840,84 @@ Further to the significant cost-effectiveness measures taken in the area of teac
 
 - the charging of fees, to be deducted at source from the school fee subsidies, for the School Certificate and Higher School Certificate Examinations
 
-ANATIONALPLAN FOR EDUCATION FINANCING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - FINANCING THE PLAN
 
 116
 
 [[END OF PAGE 128]]
 
 [[START OF PAGE 129]]
+Table 46: Department of Education divisional costs by expenditure category (K’000s), 2005 to 2014, selected years.
 
-Table 46: Department of Education divisional costs by expenditure category (K'000s), 2005 to 2014, selected years.
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Salaries | 15,475.8 | 14,411.5 | 14,411.5 | 14,411.5 |
+| Goods and Services | 9,378.9 | 9,848.9 | 10,303.3 | 10,778.9 |
+| Total | 24,854.7 | 24,260.3 | 24,714.7 | 25,190.4 |
 
 Table 47: Percentage Department of Education costs by expenditure category, 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Salaries | 62.3% | 59.4% | 58.3% | 57.2% |
+| Goods and Services | 37.7% | 40.6% | 41.7% | 42.8% |
 
 The figures for goods and services include both rental of property, which is largely housing for expatriate contract officers, and utilities. The recurrent budget appropriation in recent years has been significantly short of that required to enable the Department to carry out a number of its core activities. These include the development, production, distribution and marking of national examinations, the conducting of the National In-Service Training Week and the ability of inspectors to be able to visit schools. These shortfalls have been alleviated by use of the Quality Initiatives in Education Project, which is donor funded, and by redirecting some of the funds allocated to the national component of the education subsidies.
 
 Table 48 shows how these costs are distributed between basic and post primary education.
 
-Table 48: Department of Education costs by sector (K'000s), 2005 to 2014, selected years
+Table 48: Department of Education costs by sector (K’000s), 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Basic education | 19,883.8 | 19,408.3 | 19,771.8 | 20,152.3 |
+| Post primary education | 4,970.9 | 4,852.1 | 4,942.9 | 5,038.1 |
+| Total | 24,854.7 | 24,260.3 | 24,714.7 | 25,190.4 |
 
 ##### Total National Government costs
 
 Table 49 provides the estimated total of costs to the National Government over the Plan period based on projected budget allocations.
 
-Table 49: National Government costs (K'000s), 2005 to 2014 - selected years
+Table 49: National Government costs (K’000s), 2005 to 2014 – selected years
 
-Table 50 to 52 shows total National Government costs, by type of education and also by sector - basic education and post primary. These figures are also shown as percentages.
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Teacher emoluments | 409,693.5 | 438,761.3 | 473,284.5 | 512,185.0 |
+| School subsidies | 57,488.7 | 75,267.5 | 98,408.4 | 119,292.3 |
+| Administration | 24,854.7 | 24,260.3 | 24,714.7 | 25,190.4 |
+| Total | 492,036.9 | 538,289.2 | 596,407.7 | 656,667.7 |
 
-ANATIONALPLAN FOR EDUCATION FINANCING THE PLAN
+Table 50 to 52 shows total National Government costs, by type of education and also by sector – basic education and post primary. These figures are also shown as percentages.
+
+A NATIONAL PLAN FOR EDUCATION - FINANCING THE PLAN
 
 117
 
 [[END OF PAGE 129]]
 
 [[START OF PAGE 130]]
-
 Table 50: Percentage National Government costs, 2005 to 2014, selected years
 
-Table 51: T otal National Government costs by sector (K'000s), 2005 to 2014, selected years
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Teacher emoluments | 83.3% | 81.5% | 79.4% | 78.0% |
+| School subsidies | 11.7% | 14.0% | 16.5% | 18.2% |
+| Administration | 5.1% | 4.5% | 4.1% | 3.8% |
+
+Table 51: Total National Government costs by sector (K’000s), 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Basic education | 394,979.6 | 436,194.4 | 485,571.3 | 532,927.6 |
+| Post primary education | 97,057.2 | 102,094.8 | 110,836.4 | 123,740.0 |
+| Total | 492,036.9 | 538,289.2 | 596,407.7 | 656,667.7 |
 
 Table 52: National Government percentage costs by sector, 2005 to 2014, selected years
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Basic education | 80.3% | 81.0% | 81.4% | 81.2% |
+| Post primary education | 19.7% | 19.0% | 18.6% | 18.8% |
 
 The trend in costs over time as shown in Table 51 approximates to an increase of three per cent a year in National Government expenditure on education, at constant prices. That represents a very substantial commitment. The National Government will regularly review the costs of the Plan, and the resources available to fund it, in order to ensure affordability over the ten year period.
 
@@ -4383,73 +4931,107 @@ Provincial governments are responsible for all aspects of post primary education
 
 Table 53 below shows financial requirements for provincial governments to adequately maintain and develop their schools. The annual indicative cost of maintaining classrooms is about K5000 per class. The cost of establishing new Grade 9 and Grade 11 classes has been estimated at K0.5 million and K0.75 million respectively.
 
-Table 53 Provincial government costs by sector (K'000s), 2005 to 2014, selected years
+Table 53 Provincial government costs by sector (K’000s), 2005 to 2014, selected years
 
-Provinces' resources are growing. Over time provinces should be able to make a greater commitment to education in their areas. When the National Government reviews the affordability of the Plan against its own resources, it will also consider the scope for assigning to provinces increased responsibility for the funding of education.
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| New Grade 9 classes | 9,559.5 | 9,559.5 | 23,665.1 | 23,763.1 |
+| New Grade 11 classes | 6,000.0 | 6,000.0 | 6,000.0 | 6,000.0 |
+| Secondary school maintenance | 10,973.1 | 11,184.5 | 11,951.1 | 13,271.9 |
+| Total | 26,532.6 | 26,744.0 | 41,616.1 | 43,035.1 |
 
-ANATIONALPLAN FOR EDUCATION FINANCING THE PLAN
+Provinces’ resources are growing. Over time provinces should be able to make a greater commitment to education in their areas. When the National Government reviews the affordability of the Plan against its own resources, it will also consider the scope for assigning to provinces increased responsibility for the funding of education.
+
+A NATIONAL PLAN FOR EDUCATION - FINANCING THE PLAN
 
 118
 
 [[END OF PAGE 130]]
 
 [[START OF PAGE 131]]
-
 ##### Local-level government costs
 
-The local-level governments are responsible for supporting communities in the infrastructure and maintenance costs of elementary and primary schools. Infrastructure support will be in the form of establishment grants. Indicative figures are shown below in T able 54 and are based upon the following assumptions about costs:
+The local-level governments are responsible for supporting communities in the infrastructure and maintenance costs of elementary and primary schools. Infrastructure support will be in the form of establishment grants. Indicative figures are shown below in Table 54 and are based upon the following assumptions about costs:
 
-- Elementary school establishment grant - K5000 per class
+- Elementary school establishment grant – K5000 per class
 
-- Upper primary school establishment grant - K20000 per class
+- Upper primary school establishment grant – K20000 per class
 
-- Elementary school maintenance - K250 per class
+- Elementary school maintenance – K250 per class
 
-- Primary school maintenance - K1000 per class
+- Primary school maintenance – K1000 per class
 
-Table 54: Local-level government costs by sector (K'000s), 2005 to 2014, selected years
+Table 54: Local-level government costs by sector (K’000s), 2005 to 2014, selected years
 
-It is important that per capita funding, as legislated for under Section 93(2) of the Organic Law on Provincial Government and Local-level Governments , be provided direct to the locallevel governments. The local-level governments will be assisted by both local members of parliament and the churches. Members of parliament will also be expected to support the establishment and maintenance of basic education facilities through the use of district support grants administered through the Joint District Budget and Planning Priorities Committee.
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Elementary school establishment | 1,817.0 | 1,817.0 | 1,817.0 | 945.9 |
+| Primary school establishment | 2,974.8 | 2,974.8 | 2,974.8 | 644.5 |
+| Elementary school maintenance | 2,815.5 | 3,633.1 | 4,170.0 | 4,668.4 |
+| Primary school maintenance | 18,858.0 | 19,210.8 | 19,765.5 | 20,805.4 |
+| Total | 26,465.3 | 27,635.6 | 28,727.2 | 27,064.2 |
+
+It is important that per capita funding, as legislated for under Section 93(2) of the Organic Law on Provincial Government and Local-level Governments, be provided direct to the local-level governments. The local-level governments will be assisted by both local members of parliament and the churches. Members of parliament will also be expected to support the establishment and maintenance of basic education facilities through the use of district support grants administered through the Joint District Budget and Planning Priorities Committee.
 
 ##### Summary costs to government
 
-The total estimated costs to all sources of government funding of the Plan are in T able 55. These have been made on the assumptions and projections made in this chapter.
+The total estimated costs to all sources of government funding of the Plan are in Table 55. These have been made on the assumptions and projections made in this chapter.
 
-Table 55 Total costs to government (K'000s), selected years, 2005 to 2014
+Table 55 Total costs to government (K’000s), selected years, 2005 to 2014
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| National Government | 492,036.9 | 538,289.2 | 596,407.7 | 656,667.7 |
+| Provincial Governments | 26,532.6 | 26,744.0 | 41,616.1 | 43,035.1 |
+| Local-level Governments | 26,465.3 | 27,635.6 | 28,727.2 | 27,064.2 |
+| Total | 545,034.8 | 592,668.8 | 666,751.0 | 726,766.9 |
 
 These costs are divided between basic and post primary education as shown below:
 
-Table 56 Total costs to government by sector (K'000s), selected years, 2005 to 2014
+Table 56 Total costs to government by sector (K’000s), selected years, 2005 to 2014
+
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Basic education | 421,444.9 | 463,830.0 | 514,298.5 | 559,991.8 |
+| Post primary education | 123,589.9 | 128,838.8 | 152,452.5 | 166,775.1 |
+| Total | 545,034.8 | 592,668.8 | 666,751.0 | 726,766.9 |
 
 ##### Agency contributions
 
 This Plan recognises the significant contributions that have been made by the church agencies in the delivery of education services to the people of Papua New Guinea. It is expected that they will continue to provide support, both pastoral and otherwise, to the communities within which they work.
 
-ANATIONALPLAN FOR EDUCATION FINANCING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - FINANCING THE PLAN
 
 119
 
 [[END OF PAGE 131]]
 
 [[START OF PAGE 132]]
-
 ##### Community contributions
 
 The contribution that communities make will largely be in the form of the construction and maintenance of infrastructure in the elementary and primary schools. This will be in kind rather than cash.
 
 ##### Parental contributions
 
-Parents will continue to make significant cash contributions towards the education of their children. T able 57 shows indicative figures for the total cash parental contributions required. They are based on projected enrolments and findings from the Papua New Guinea Education Sector Affordability Studies (AusAID, 2003) for the fees actually paid in the different sectors of education. The Studies found that a proportion of fees remain unpaid each year and so these figures will not accurately reflect the needs of the schools.
+Parents will continue to make significant cash contributions towards the education of their children. Table 57 shows indicative figures for the total cash parental contributions required. They are based on projected enrolments and findings from the Papua New Guinea Education Sector Affordability Studies (AusAID, 2003) for the fees actually paid in the different sectors of education. The Studies found that a proportion of fees remain unpaid each year and so these figures will not accurately reflect the needs of the schools.
 
 Table 57: Projected parental contributions by sector, 2005 to 2014, selected years, (K000s)
 
+|  | 2005 | 2008 | 2011 | 2014 |
+| --- | ---: | ---: | ---: | ---: |
+| Elementary | 8,468.6 | 10,924.7 | 0.0 | 0.0 |
+| Primary | 33,057.4 | 35,219.5 | 37,396.4 | 40,449.7 |
+| Secondary | 34,128.5 | 34,609.1 | 36,948.9 | 41,141.2 |
+| Vocational | 4,913.2 | 5,687.6 | 6,584.1 | 7,622.0 |
+| Total | 80,567.6 | 86,441.0 | 80,929.5 | 89,212.8 |
+
 ##### Donor agency contributions
 
-These estimated costs only cover the elements described in this section - i.e. teacher salaries, school subsidies and recurrent administration expenses of the Department; provincial, district and local-level governments costs; and parent and community contributions.
+These estimated costs only cover the elements described in this section – i.e. teacher salaries, school subsidies and recurrent administration expenses of the Department; provincial, district and local-level governments costs; and parent and community contributions.
 
-Despite serious cost saving measures in the Plan, it cannot be implemented in full without support from donor agencies. Some of the activities in the Plan, for which the national budget allocation cannot cover, will need to be supported by donor agencies.  This funding cannot be seen as a replacement for the Government's recurrent and development budgets but should provide additional funds and be a catalyst to further development. If this is not the case, then sustainability becomes a major issue. The Department of Education will work hard over the Plan period to strengthen its coordination of donor contributions to ensure they better link to the priorities of the Plan.
+Despite serious cost saving measures in the Plan, it cannot be implemented in full without support from donor agencies. Some of the activities in the Plan, for which the national budget allocation cannot cover, will need to be supported by donor agencies. This funding cannot be seen as a replacement for the Government’s recurrent and development budgets but should provide additional funds and be a catalyst to further development. If this is not the case, then sustainability becomes a major issue. The Department of Education will work hard over the Plan period to strengthen its coordination of donor contributions to ensure they better link to the priorities of the Plan.
 
-ANATIONALPLAN FOR EDUCATION FINANCING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - FINANCING THE PLAN
 
 120
 
@@ -4457,7 +5039,7 @@ ANATIONALPLAN FOR EDUCATION FINANCING THE PLAN
 
 [[START OF PAGE 133]]
 
-## Secti n 7
+## Section 7
 
 ### MONITORING AND EVALUATING THE PLAN
 
@@ -4509,9 +5091,9 @@ The monitoring of the Plan's implementation will be aimed at two areas:
 
 Data collected from 2005 will provide benchmarks against which future progress can be measured and a data set to assist in the five year review of the Plan.
 
-On the following pages, the targets and measures are shown for each minor outcome. As well as these, the qualitative indicators collected from teachers and students in primary schools as part of the Curriculum Standards Monitoring T est will be extended to elementary and secondary levels.
+On the following pages, the targets and measures are shown for each minor outcome. As well as these, the qualitative indicators collected from teachers and students in primary schools as part of the Curriculum Standards Monitoring Test will be extended to elementary and secondary levels.
 
-ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - MONITORING AND EVALUATING THE PLAN
 
 123
 
@@ -4522,6 +5104,28 @@ ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
 The diagram below illustrates how the components of monitoring and evaluation combine to assess the overall performance of the Plan.
 
 Monitoring and Evaluating Framework for the National Education Plan.
+
+National Education Plan 2005 - 2014
+
+Performance Indicators
+
+Data Collection
+
+Data Analysis
+
+Annual Research and Program Evaluation Agenda
+
+Annual Divisional Reports
+
+DoE Annual report
+
+Planning: DoE Annual Plan, Divisional Plans, Provincial Plans, District Plans and School Plans
+
+Annual Cycle
+
+National Plan Outcomes
+
+Five year Evaluation and Update of National Education Plan
 
 Analysis and feedback about the data to those collecting it is necessary if data accuracy is to be enhanced. Data collectors will give more attention to their input if they see a use for the final product. Providing useful information to persons collecting data assists with generating more reliable data in future. Careful analysis is essential if accurate reporting against the Plan is to be achieved by divisions and nationally.
 
@@ -4537,7 +5141,7 @@ Data is gathered as part of the reporting process and should influence the creat
 
 The five year review of this Plan will produce an updated Plan and as such it might be necessary to modify the set of indicators used for reporting processes.
 
-ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - MONITORING AND EVALUATING THE PLAN
 
 124
 
@@ -4572,12 +5176,12 @@ A flexible system of delivering teacher in-service implemented by 2006. | • No
 
 ##### Performance Area: Quality Management
 --- | --- | ---
-Minor Outcome E4 Elementary education is and affordable for parents and | Target | Measure(s)
-cost-effective government. | Minimum basic school supply needs for elementary schools are determined by 2006. | • Minimum basic school supplies determined.
-A formula for an equitable supply of teachers determined by 2006. | • Formula developed for equitable supply of teachers.
-All schools staffed according to an agreed formula by 2009. | • No. of elementary schools staffed according to formula.
+Minor Outcome | Target | Measure(s)
+E4 Elementary education is cost-effective and affordable for parents and government. | Minimum basic school supply needs for elementary schools are determined by 2006. | • Minimum basic school supplies determined.
+ | A formula for an equitable supply of teachers determined by 2006. | • Formula developed for equitable supply of teachers.
+ | All schools staffed according to an agreed formula by 2009. | • No. of elementary schools staffed according to formula.
 
-ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - MONITORING AND EVALUATING THE PLAN
 
 125
 
@@ -4590,40 +5194,40 @@ ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
 ##### Performance Area: Access
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
-P1 Sufficient primary school classes established to achieve access and retention targets. | All children completing Grade 6 can be accommodated Grade 7 by 2012. | • Total no. of children entering Grade 7 . • Total no. of children completing Grade 6.
-A 70% Grades 1 to 6 retention rate achieved by 2014. | • No. of children completing Grade 6 as a % of same cohort of children that enrolled in Grade 1.
-An average 150 new Grade 7 classes established each year. | • Total no. of new Grade 7 classes established each year.
-Teachers allocated at a rate of one per class by 2009. | • No. of teachers teaching Grade 7 and 8 classes each year.
-A teacher pupil ratio of 1:37 by 2014. | • No. of primary school teachers. • No. of primary school children.
-A formula for an equitable supply of teachers determined by 2006. | • Formula developed for equitable supply of teachers.
-All schools staffed according to an agreed formula by 2009. | • No. of primary schools staffed according to formula.
-A system of return of service applied by 2007 . | • Return service program operating.
+P1 Sufficient primary school classes established to achieve access and retention targets. | All children completing Grade 6 can be accommodated Grade 7 by 2012. | • Total no. of children entering Grade 7. • Total no. of children completing Grade 6.
+ | A 70% Grades 1 to 6 retention rate achieved by 2014. | • No. of children completing Grade 6 as a % of same cohort of children that enrolled in Grade 1.
+ | An average 150 new Grade 7 classes established each year. | • Total no. of new Grade 7 classes established each year.
+ | Teachers allocated at a rate of one per class by 2009. | • No. of teachers teaching Grade 7 and 8 classes each year.
+ | A teacher pupil ratio of 1:37 by 2014. | • No. of primary school teachers. • No. of primary school children.
+ | A formula for an equitable supply of teachers determined by 2006. | • Formula developed for equitable supply of teachers.
+ | All schools staffed according to an agreed formula by 2009. | • No. of primary schools staffed according to formula.
+ | A system of return of service applied by 2007. | • Return service program operating.
 
 ##### Performance Area: Quality Curriculum and Monitoring
-| Measure(s)
 --- | --- | ---
+Minor Outcome | Target | Measure(s)
 P2 A relevant primary curriculum is developed, implemented and monitored. | A curriculum completed and distributed to all schools by 2005. | • No. of schools using reformed curriculum.
-Curriculum materials reviewed, developed and distributed annually. | • No. of materials reviewed. • No. of materials developed. • No. of materials distributed.
-Literacy and numeracy standards reported biennially from 2007 . | • Literacy and numeracy standards reported biennially or sample of students Grades 3, 5 and 8.
-Head teachers contribute to the appraisal of teachers by 2008. | • No. of head teachers trained in teacher appraisals. • No. of head teachers contributing to teacher appraisal reports.
-All Boards of Management contribute to teacher appraisal by 2008. | • No. of Boards of Management trained in teacher appraisals. • No. of BOMs contributing to teacher appraisal reports.
+ | Curriculum materials reviewed, developed and distributed annually. | • No. of materials reviewed. • No. of materials developed. • No. of materials distributed.
+ | Literacy and numeracy standards reported biennially from 2007. | • Literacy and numeracy standards reported biennially or sample of students Grades 3, 5 and 8.
+ | Head teachers contribute to the appraisal of teachers by 2008. | • No. of head teachers trained in teacher appraisals. • No. of head teachers contributing to teacher appraisal reports.
+ | All Boards of Management contribute to teacher appraisal by 2008. | • No. of Boards of Management trained in teacher appraisals. • No. of BOMs contributing to teacher appraisal reports.
 
 ##### Performance Area: Quality Teacher Education and Training
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
 P3 Sufficient appropriately trained and qualified teachers prepared for primary schooling. | An average of 1200 students enrol each year from 2005. | • No. of enrolments at teachers colleges.
-All schools will have access to fully qualified teachers. | • No. of teachers with a certificate. • No. of teachers with a diploma • No. of teachers with a degree.
-A flexible system for delivering teacher in-service implemented by 2006. | • Flexible system used.
-All schools have access to a trained teacher counsellor by 2007 . | • No. of trained teacher counsellors in primary schools. • No. of schools with counsellors.
-A national framework of standards established by 2008. | • National standards framework published.
+ | All schools will have access to fully qualified teachers. | • No. of teachers with a certificate. • No. of teachers with a diploma. • No. of teachers with a degree.
+ | A flexible system for delivering teacher in-service implemented by 2006. | • Flexible system used.
+ | All schools have access to a trained teacher counsellor by 2007. | • No. of trained teacher counsellors in primary schools. • No. of schools with counsellors.
+ | A national framework of standards established by 2008. | • National standards framework published.
 
 ##### Performance Area: Quality Management
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
 P4 Primary education is cost-effective and affordable for parents and government. | The level of parental contributions to primary education determined on an annual basis. | • Parental contributions determined annually.
-A teacher pupil ratio of 1:35 achieved in the upper primary grades by 2009. | • No. of upper primary school teachers. • No. of upper primary school children.
+ | A teacher pupil ratio of 1:35 achieved in the upper primary grades by 2009. | • No. of upper primary school teachers. • No. of upper primary school children.
 
-ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - MONITORING AND EVALUATING THE PLAN
 
 126
 
@@ -4637,37 +5241,37 @@ ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
 S1 An appropriate number of well-equipped and resourced secondary schools established within budget to provide a quality education. | The transition rate between Grades 8 and 9 reduced to no less than 50% by 2014. | • No. of children completing Grade 8. • No. of Grade 9 students.
-The transition rate between Grades 10 and 11 maintained at 25%. | • No. of students completing Grade 10. • No. of Grade 11 students.
-Girls occupy 48% of places in lower secondary and 45% in upper secondary by 2014. | • No. of girls enrolled in Grades 9 and 10 as a % of total students in Grades 9 and 10. • No. of girls enrolled in Grades 11 and 12 as a % of total students in Grades 11and 12.
-An average of eight new Grade 11 classes established each year. | • No. of new Grade 11 classes established each year.
-Teachers allocated at a rate of 1.5 per class by 2009. | • No. of secondary school teachers.
+ | The transition rate between Grades 10 and 11 maintained at 25%. | • No. of students completing Grade 10. • No. of Grade 11 students.
+ | Girls occupy 48% of places in lower secondary and 45% in upper secondary by 2014. | • No. of girls enrolled in Grades 9 and 10 as a % of total students in Grades 9 and 10. • No. of girls enrolled in Grades 11 and 12 as a % of total students in Grades 11 and 12.
+ | An average of eight new Grade 11 classes established each year. | • No. of new Grade 11 classes established each year.
+ | Teachers allocated at a rate of 1.5 per class by 2009. | • No. of secondary school teachers.
 
 ##### Performance Area: Quality Curriculum and Monitoring
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
-S2 A relevant secondary curriculum is developed, implemented and monitored. | All lower secondary reform curriculum materials distributed to schools by 2007 . | • No. of lower secondary schools using reformed curriculum.
-Curriculum materials reviewed, developed and distributed annually. | • No. of materials reviewed. • No. of materials developed. • No. of materials distributed.
-Locally based projects developed at all schools by 2014. | • No. of locally based projects developed at school level.
-Inspectors report on schools annually. | • No. of school inspectors reports.
-All secondary schools have a trained teacher counsellor by 2007 . | • No. of trained counsellor teachers in schools • No. of schools with trained counsellors.
+S2 A relevant secondary curriculum is developed, implemented and monitored. | All lower secondary reform curriculum materials distributed to schools by 2007. | • No. of lower secondary schools using reformed curriculum.
+ | Curriculum materials reviewed, developed and distributed annually. | • No. of materials reviewed. • No. of materials developed. • No. of materials distributed.
+ | Locally based projects developed at all schools by 2014. | • No. of locally based projects developed at school level.
+ | Inspectors report on schools annually. | • No. of school inspectors reports.
+ | All secondary schools have a trained teacher counsellor by 2007. | • No. of trained counsellor teachers in schools • No. of schools with trained counsellors.
 
 ##### Performance Area: Quality Teacher Education and Training
 --- | --- | ---
-Minor Outcome S3 A sufficient number of appropriately trained and qualified teachers and guidance officers prepared for secondary schooling. | Target | Measure(s)
-An average of 150 graduate secondary teachers trained each year from 2005. | • No. of graduate secondary teachers trained.
-All schools have access to fully qualified teachers | • No. of teachers with no qualifications. • No. of teachers with a diploma. • No. of teachers with a degree and teaching qualification. • No. of teachers with a post graduate qualification.
-In service available on the reform curriculum by 2006. | • No. of reformed curriculum in-services conducted annually.
+Minor Outcome | Target | Measure(s)
+S3 A sufficient number of appropriately trained and qualified teachers and guidance officers prepared for secondary schooling. | An average of 150 graduate secondary teachers trained each year from 2005. | • No. of graduate secondary teachers trained.
+ | All schools have access to fully qualified teachers | • No. of teachers with no qualifications. • No. of teachers with a diploma. • No. of teachers with a degree and teaching qualification. • No. of teachers with a post graduate qualification.
+ | In service available on the reform curriculum by 2006. | • No. of reformed curriculum in-services conducted annually.
 
 ##### Performance Area: Quality Management
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
 S4 Secondary education is cost-effective and affordable for parents and government. | Grade 8 Graduates Incentive Scheme introduced by 2009. | • No. of Grade 8 graduates benefiting from the incentive scheme.
-All schools have self-reliance projects by 2014. | • No. of schools initiating self-reliance projects.
-A scholarship system implemented by 2008. | • No. of Grade 8 graduates assisted with scholarship.
-A cost recovery mechanism for school examinations in place by 2006. | • Total cost of examination. • Total cost recovered.
-All schools staffed according to an agreed formula by 2014. | • No. of secondary schools staffed according to formula.
+ | All schools have self-reliance projects by 2014. | • No. of schools initiating self-reliance projects.
+ | A scholarship system implemented by 2008. | • No. of Grade 8 graduates assisted with scholarship.
+ | A cost recovery mechanism for school examinations in place by 2006. | • Total cost of examination. • Total cost recovered.
+ | All schools staffed according to an agreed formula by 2014. | • No. of secondary schools staffed according to formula.
 
-ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - MONITORING AND EVALUATING THE PLAN
 
 127
 
@@ -4681,18 +5285,24 @@ ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
 F1 A significant growth in enrolment achieved by offering a number of demand driven programs. | Review of the college completed by 2005. | • Review completed.
-Twenty five percent of Grade 8 and 10% of Grade 10 graduates choose to enrol in distance education by 2014. | • No. of students completing Grade 10. • No. of Grade 11 students.
+ | Twenty five percent of Grade 8 and 10% of Grade 10 graduates choose to enrol in distance education by 2014. | • No. of students completing Grade 10. • No. of Grade 11 students.
+
 ##### Performance Area: Quality Curriculum and Monitoring
+--- | --- | ---
 Minor Outcome | Target | Measure(s)
 F2 The curriculum and assessment programs offered will be based on and articulate with the mainstream education system. | Appropriate assessment, examination and certification system established by 2008. | • Systems approved by appropriate Boards of Studies.
+
 ##### Performance Area: Quality Teacher Education and Training
+--- | --- | ---
 Minor Outcome | Target | Measure(s)
 F3 The provision of well-trained and qualified staff and support personnel. | College staffed by appropriately trained staff by 2009. | • No. of staff with distance education qualifications. • Total no. of staff.
+
 ##### Performance Area: Quality Management
+--- | --- | ---
 Minor Outcome | Target | Measure(s)
 F4 A An institution offering flexible, open and distance education. | College to be restructured by 2006. | • College restructure approved by 2006.
 
-ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - MONITORING AND EVALUATING THE PLAN
 
 128
 
@@ -4705,32 +5315,32 @@ ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
 ##### Performance Area: Access
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
-V1 An appropriate number of vocational centres provided in public and private sectors. | Re-register all vocational centres by 2007 . | • No. of vocational centres re-registered.
-Vocational education components of provincial plans developed by 2007 . | • No. of provincial education plans completed with vocational education components.
-All vocational centres offer short term community orientated programs by 2009. | • No. of vocational centres offering short term community orientated courses.
-Gr 8 Graduate Incentive Scheme introduced in 2009. | • No. of Grade 8 graduates accessing incentive scheme funding.
+V1 An appropriate number of vocational centres provided in public and private sectors. | Re-register all vocational centres by 2007. | • No. of vocational centres re-registered.
+ | Vocational education components of provincial plans developed by 2007. | • No. of provincial education plans completed with vocational education components.
+ | All vocational centres offer short term community orientated programs by 2009. | • No. of vocational centres offering short term community orientated courses.
+ | Gr 8 Graduate Incentive Scheme introduced in 2009. | • No. of Grade 8 graduates accessing incentive scheme funding.
 
 ##### Performance Area: Quality Curriculum and Monitoring
-| Measure(s)
 --- | --- | ---
-Minor Outcome V2 A quality vocational skills training program provides clients with skills that are relevant and required by the community. | Target Vocational curriculum reviewed by 2006. | • No. of vocational centres using reviewed curriculum.
-Short course materials distributed to all vocational centres by 2007 . | • No. of vocational centres using short course materials.
-Awareness campaign in place by 2006. | • Awareness campaign plan and activities.
+Minor Outcome | Target | Measure(s)
+V2 A quality vocational skills training program provides clients with skills that are relevant and required by the community. | Vocational curriculum reviewed by 2006. | • No. of vocational centres using reviewed curriculum.
+ | Short course materials distributed to all vocational centres by 2007. | • No. of vocational centres using short course materials.
+ | Awareness campaign in place by 2006. | • Awareness campaign plan and activities.
 
 ##### Performance Area: Quality Teacher Education and Training
-| Measure(s)
 --- | --- | ---
-V3 The provision of a sufficient number of appropriately trained and committed vocational centre instructors and managers. | Convert Diploma of Vocational Education and Training into distance mode by 2007 . | No. of Diploma of Vocational Education and Training students enrolling through distance mode. Vocational centre skills audit reported.
-Conduct skills audit for Vocational Centre staff by 2006. | • •
+Minor Outcome | Target | Measure(s)
+V3 The provision of a sufficient number of appropriately trained and committed vocational centre instructors and managers. | Convert Diploma of Vocational Education and Training into distance mode by 2007. | • No. of Diploma of Vocational Education and Training students enrolling through distance mode.
+ | Conduct skills audit for Vocational Centre staff by 2006. | • Vocational centre skills audit reported.
 
 ##### Performance Area: Quality Management
 --- | --- | ---
-Minor Outcome | Target | Measure(s) • No. of vocational centres granted increased autonomy to
-V4 A vocational education system that is both cost-effective for government and affordable for all. | Develop a process to grant increased autonomy to church and other agencies by 2009. | church agencies.
-Review the role of the vocational centre coordinators by 2008. | • Role of vocational centre coordinators reviewed
-Review duty statements by 2007 . | • Duty statements of vocational centre instructors reviewed.
+Minor Outcome | Target | Measure(s)
+V4 A vocational education system that is both cost-effective for government and affordable for all. | Develop a process to grant increased autonomy to church and other agencies by 2009. | • No. of vocational centres granted increased autonomy to church agencies.
+ | Review the role of the vocational centre coordinators by 2008. | • Role of vocational centre coordinators reviewed
+ | Review duty statements by 2007. | • Duty statements of vocational centre instructors reviewed.
 
-ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - MONITORING AND EVALUATING THE PLAN
 
 129
 
@@ -4741,38 +5351,15 @@ ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
 #### Technical Education and Training
 
 ##### Performance Area: Access
-
-Minor Outcome
-
-T1 A technical and business education
-
-and training system which will increase
-
-opportunities for all.
+--- | --- | ---
+Minor Outcome | Target | Measure(s)
+T1 A technical and business education and training system which will increase opportunities for all. | A regulatory system established by 2006. | • Regulatory systems established.
 
 ##### Performance Area: Quality Curriculum and Monitoring
-
-Minor Outcome
-
-T2 High quality technical and business
-
-education and training programs that are
-
-cost-effective, flexible and responsive to
-
-changing trends.
-
-Target
-
-A regulatory system established by 2006.
-
-Target
-
-All courses modularised by 2007 .
-
-National Qualifications Framework established
-
-by 2007 .
+--- | --- | ---
+Minor Outcome | Target | Measure(s)
+T2 High quality technical and business education and training programs that are cost-effective, flexible and responsive to changing trends. | All courses modularised by 2007. | • No. of modularised courses approved. • No. of courses.
+ | National Qualifications Framework established by 2007. | • National Qualifications Framework established.
 
 ##### Performance Area: Quality Teacher Education and Training
 --- | --- | ---
@@ -4780,50 +5367,11 @@ Minor Outcome | Target | Measure(s)
 T3 A sufficient number of appropriately trained and qualified technical education and training lecturers and managers are provided. | Ninety five per cent localisation by 2014. | • No. of Papua New Guinean and expatriate lecturers.
 
 ##### Performance Area: Quality Management
+--- | --- | ---
+Minor Outcome | Target | Measure(s)
+T4 A technical and business education training system that is cost-effective for government. | A lecturer student ratio of 1:15 by 2014. | • No. of students. • No. of staff.
 
-Minor Outcome
-
-T4 A technical and business education
-
-training system that is cost-effective for
-
-government.
-
-Target
-
-A lecturer student ratio of 1:15 by 2014.
-
-Measure(s)
-
-·
-
-Regulatory systems established.
-
-Measure(s)
-
-·
-
-No. of modularised courses approved.
-
-·
-
-No. of courses.
-
-·
-
-National Qualifications Framework established.
-
-Measure(s)
-
-·
-
-No. of students.
-
-·
-
-No. of staff.
-
-ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - MONITORING AND EVALUATING THE PLAN
 
 130
 
@@ -4837,41 +5385,41 @@ ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
 A1 The Department of Education has the capacity to respond strategically to changing conditions and government priorities. | The Department structure and functions reviewed by 2005. | • Report and recommendations approved by Secretary for Education.
-Provincial education plans produced and endorsed by end of 2006. | • Endorsement of plans.
-Annual forums established with churches, donors and NGOs by 2005. | • Forums conducted.
-HIV/AIDS policy and plan completed and implemented by 2007 . | • Plan implemented.
+ | Provincial education plans produced and endorsed by end of 2006. | • Endorsement of plans.
+ | Annual forums established with churches, donors and NGOs by 2005. | • Forums conducted.
+ | HIV/AIDS policy and plan completed and implemented by 2007. | • Plan implemented.
 
 ##### Performance Area: Human resources management
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
 A2 Human resource systems and programs established for all levels of staff in the national education system. | Human Resource Development Policy completed by 2005. | • HRD Policy published. • HRD Policy implemented.
-Increase the percentage of executive positions at Grade 16 and above occupied by women. | • No. of executive positions. • No. of executive positions occupied by women.
-Human Resource Development plan completed by 2005. | • HRD plan published. • No of development programs available for officers at all levels. • No of officers at all levels (women and men) attending development programs. • Total funds committed to development training.
-Human Resources procedures manuals in place by 2006. | • Procedures applied.
-Annual teacher audits conducted from 2006. | • Teacher audit reports received.
+ | Increase the percentage of executive positions at Grade 16 and above occupied by women. | • No. of executive positions. • No. of executive positions occupied by women.
+ | Human Resource Development plan completed by 2005. | • HRD plan published. • No of development programs available for officers at all levels. • No of officers at all levels (women and men) attending development programs. • Total funds committed to development training.
+ | Human Resources procedures manuals in place by 2006. | • Procedures applied.
+ | Annual teacher audits conducted from 2006. | • Teacher audit reports received.
 
 ##### Performance Area: Financial Management
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
-A3 Budgeting and financial systems and processes are managed competently and are sustainable. | Effective budget and planning processes integrated and implemented at national and local levels by 2007 . | • No. of integrated budget planning schedules at local levels. • Integrated budget and planning schedule at national level. • Planning and budgeting calendar implemented.
-Financial and procurement systems reviewed and strengthened by end of 2005. | • Acquittal reports available and completed. • Internal audit reports annually as stipulated in the Public Finance Management Act.
-Master assets and management register designed and in place by 2006. | • Register completed.
+A3 Budgeting and financial systems and processes are managed competently and are sustainable. | Effective budget and planning processes integrated and implemented at national and local levels by 2007. | • No. of integrated budget planning schedules at local levels. • Integrated budget and planning schedule at national level. • Planning and budgeting calendar implemented.
+ | Financial and procurement systems reviewed and strengthened by end of 2005. | • Acquittal reports available and completed. • Internal audit reports annually as stipulated in the Public Finance Management Act.
+ | Master assets and management register designed and in place by 2006. | • Register completed.
 
 ##### Performance Area: Information communications technology
 --- | --- | ---
-Minor Outcome A4 Information communications technology systems and processes developed to support the management of educational programs. | Target | Measure(s)
-Information communications technology policy finalised by 2005. | • Information communications technology policy published 2005.
-Information communications technology plan finalised and implementation begun by end of 2006. | • Information communications technology plan published 2006.
-A centralised system for collection and storage of data in place by 2006. | • Centralised system in place and operational by 2008.
+Minor Outcome | Target | Measure(s)
+A4 Information communications technology systems and processes developed to support the management of educational programs. | Information communications technology policy finalised by 2005. | • Information communications technology policy published 2005.
+ | Information communications technology plan finalised and implementation begun by end of 2006. | • Information communications technology plan published 2006.
+ | A centralised system for collection and storage of data in place by 2006. | • Centralised system in place and operational by 2008.
 
 ##### Performance Area: Communications systems
 --- | --- | ---
 Minor Outcome | Target | Measure(s)
 A5 Communication systems and processes are effective in the dissemination of information and the raising of awareness. | Media and Communications Policy and Plan finalised and implemented by end of 2005. | • Media and Communications Policy published 2005.
-Review of publication, printing and distribution functions completed by end of 2005. | • Review completed.
-Awareness strategy developed and implementation commenced by beginning of 2005. | • Awareness strategy published 2005. • Evidence of changes to increased level of awareness over time.
+ | Review of publication, printing and distribution functions completed by end of 2005. | • Review completed.
+ | Awareness strategy developed and implementation commenced by beginning of 2005. | • Awareness strategy published 2005. • Evidence of changes to increased level of awareness over time.
 
-ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
+A NATIONAL PLAN FOR EDUCATION - MONITORING AND EVALUATING THE PLAN
 
 131
 
@@ -4881,11 +5429,27 @@ ANATIONALPLAN FOR EDUCATION MONITORING AND EVALUATING THE PLAN
 
 ### REFERENCES
 
-AusAID, 2003, PNG Education Sector Affordability Studies Department of Education and National Research Institute, 2000, National Skills Plan Enhancing our Futures Department of Education, 1996, National Education Plan, 1995-2004, volume a Department of Education, 1997 , Tololo Report Department of Education, 1999, National Education Plan, 1995-2004: Update 1s Department of Education, 2002 and 2003 (update), The State of Education in Papua New Guinea Department of Education, 2002, Education For All: National Action Plan, 2004-2015 Department of Education, 2002, National Curriculum Statement Department of Education, 2003, Gender Equity in Education Policy Department of Education, 2003, National Policy for the Procurement, Distribution and Storage of Curriculum Materials Department of Education, 2003, Special Education Plan Department of National Planning and Rural Development, 1999, National Population Policy, 2000 to 2010. Department of National Planning and Rural Development, 2004, Medium Term Development Strategy, 2003 to 2007 . Gender Analysis in Papua New Guinea, World Bank, 1998 Government of Papua New Guinea, 1995, Organic Law on Provincial Governments and Local-level Governments National Research Institute, 2003, Mi Lusim Skul Office of National Planning, 1999, Papua New Guinea Human Development Report, 1998 Public Expenditure Review and Rationalisation, 2003, Improved Education Spending: discussion paper no. 6
-
+AusAID, 2003, PNG Education Sector Affordability Studies
+Department of Education and National Research Institute, 2000, National Skills Plan – Enhancing our Futures
+Department of Education, 1996, National Education Plan, 1995-2004, volume a
+Department of Education, 1997, Tololo Report
+Department of Education, 1999, National Education Plan, 1995-2004: Update 1s
+Department of Education, 2002 and 2003 (update), The State of Education in Papua New Guinea
+Department of Education, 2002, Education For All: National Action Plan, 2004-2015
+Department of Education, 2002, National Curriculum Statement
+Department of Education, 2003, Gender Equity in Education Policy
+Department of Education, 2003, National Policy for the Procurement, Distribution and Storage of Curriculum Materials
+Department of Education, 2003, Special Education Plan
+Department of National Planning and Rural Development, 1999, National Population Policy, 2000 to 2010.
+Department of National Planning and Rural Development, 2004, Medium Term Development Strategy, 2003 to 2007.
+Gender Analysis in Papua New Guinea, World Bank, 1998
+Government of Papua New Guinea, 1995, Organic Law on Provincial Governments and Local-level Governments
+National Research Institute, 2003, Mi Lusim Skul
+Office of National Planning, 1999, Papua New Guinea Human Development Report, 1998
+Public Expenditure Review and Rationalisation, 2003, Improved Education Spending: discussion paper no. 6
 World Bank, 2004, Papua New Guinea: Public Expenditure and Service Delivery
 
-ANATIONALPLAN FOR EDUCATION REFERENCES
+A NATIONAL PLAN FOR EDUCATION - REFERENCES
 
 132
 
