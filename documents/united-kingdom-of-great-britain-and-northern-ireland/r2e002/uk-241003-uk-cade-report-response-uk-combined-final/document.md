@@ -12,7 +12,7 @@ Name of contact person: Tracy Sans
 
 Email and telephone number of contact person: tracy.sans@education.gov.uk
 
-# Ratification and applicability of the Convention against Discrimination in Education 1
+# I. Ratification and applicability of the Convention against Discrimination in Education 1
 
 ## Scotland, Wales and Northern Ireland
 
@@ -194,7 +194,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 > 4 See: Article/Paragraph 1(1).
 
-> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programm es'.
+> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 6 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -288,7 +288,7 @@ To support the department deliver on our wider equality and diversity objectives
 
 The DfE ensures that it abides by its obligation to comply with the Equality Act 2010 and Public Sector Equality Duty. By putting processes and capability materials and products in place for policy teams to use, this supports teams to demonstrate compliance with the Act. This includes Equality Impact Assessments (EIA) undertaken at the beginning of the policy life cycle, these assessments are designed to mitigate against any discriminatory practice whilst policy and decision making.
 
-##### The Equality Act 2010 -Positive Action
+##### The Equality Act 2010 – Positive Action
 
 The Equality Act 2010 allows service providers to take action that may involve treating one group more favourably who share a protected characteristic where this is a proportionate way to help members of that group overcome a disadvantage or participate more fully, or in order to meet needs they have that are different from the population as a whole. This is called 'positive action' . Where this is a proportionate way to enable or encourage members of that group to:
 
@@ -326,7 +326,7 @@ This is where people treat you in a way that violates your dignity, or creates a
 This is when someone is treated less favourably as a result of being involved with discrimination or harassment complaint.
 
 ###### Discrimination arising from disability
-A person is a disabled person (that is, someone who has the protected characteristic of disability) if he or she has, or has had, a physical and/or mental impairment that has what the law calls 'a substantial and long -term adverse effect on [his or her] ability to carry out normal day-today activities' .
+A person is a disabled person (that is, someone who has the protected characteristic of disability) if he or she has, or has had, a physical and/or mental impairment that has what the law calls 'a substantial and long-term adverse effect on [his or her] ability to carry out normal day-to-day activities'.
 
 ###### Failure to make reasonable adjustments (for disabled people)
 
@@ -353,7 +353,7 @@ Allegations of disability discrimination against schools can be appealed to the 
 [[START OF PAGE 9]]
 
 ##### The Education Act 1998
-An education provider will need to deliver its education suitable to a child's age, ability and aptitude and any special educational needs they might have as specified in the Education Act 1998.
+An education provider will need to deliver its education suitable to a child's age, ability and aptitude and any special educational needs they might have – as specified in the Education Act 1998.
 
 ##### Higher Education and Research Act (HERA)
 
@@ -385,7 +385,7 @@ Since November 2021, a fund was set up to improve outcomes for victims of discri
 
 The fund has helped employers, service providers and educational establishments to understand their responsibilities and what the consequences of not following the law are. This fund forms part of the Legal Support Scheme.
 
-Northern Ireland, Scotland and Wales both have a devolved education system.  We have detailed where both countries have enacted legislation that supports the delivery of a nondiscriminatory and inclusive education system.
+Northern Ireland, Scotland and Wales both have a devolved education system.  We have detailed where both countries have enacted legislation that supports the delivery of a non-discriminatory and inclusive education system.
 
 #### Wales
 
@@ -451,7 +451,7 @@ The below legislative provision relates to the delivery of early years and schoo
 
 It is unlawful for a school to discriminate against an applicant or pupil in relation to:
 
-- Admissions -The Equality Act 2010 does permit schools with a religious designation to prioritise children with a faith for admission above those with no faith. This is lawful discrimination in admissions within the Equality Act.
+- Admissions – The Equality Act 2010 does permit schools with a religious designation to prioritise children with a faith for admission above those with no faith. This is lawful discrimination in admissions within the Equality Act.
 
 - The provision of education
 
@@ -513,7 +513,7 @@ In response, the previous UK Government published its Inclusive Britain strategy
 
 ##### Pre-Primary education:
 
-In England, the Early Years Foundation Stage statutory framework (EYFS) sets the standards and requirements that early years providers must follow to ensure every child aged 0 -5 has the best start in life and is prepared for school. The EYFS requirements, including the learning and development requirements, promote diversity and inclusion across a range of characteristics such as culture, family structures, disabilities, ethnicity, gender, religion and sexual orientation. The Office for Standards in Education, Children's Services and Skills (Ofsted) is primarily responsible for the registration and regulation of early years provision in England, including ensuring compliance with the requirements set out in the EYFS. Childminder agencies are directly responsible for the registration, regulation and quality assurance of early years providers registered with them, although Ofsted is responsible for the registration, regulation and inspection of childminder agencies.
+In England, the Early Years Foundation Stage statutory framework (EYFS) sets the standards and requirements that early years providers must follow to ensure every child aged 0 – 5 has the best start in life and is prepared for school. The EYFS requirements, including the learning and development requirements, promote diversity and inclusion across a range of characteristics such as culture, family structures, disabilities, ethnicity, gender, religion and sexual orientation. The Office for Standards in Education, Children's Services and Skills (Ofsted) is primarily responsible for the registration and regulation of early years provision in England, including ensuring compliance with the requirements set out in the EYFS. Childminder agencies are directly responsible for the registration, regulation and quality assurance of early years providers registered with them, although Ofsted is responsible for the registration, regulation and inspection of childminder agencies.
 
 ##### School Admissions
 
@@ -536,7 +536,7 @@ In England, DfE's Understanding your data: a guide for school governors and acad
 
 All schools in England are legally required to have a behaviour policy with measures to prevent all forms of bullying. They have the freedom to develop their own anti-bullying strategies appropriate to their environment and are held to account by Ofsted. In England, the UK Government provides advice for schools, which outlines schools' responsibilities . This guidance is available here: Preventing and Tackling Bullying (GOV.UK).
 
-Over £3 million of funding was provided between August 2021 and March 2024 to five antibullying organisations to support schools to tackle bullying. This included projects targeting bullying of particular groups, such as those who are victims of hate related bullying and HBT based bullying.
+Over £3 million of funding was provided between August 2021 and March 2024 to five anti-bullying organisations to support schools to tackle bullying. This included projects targeting bullying of particular groups, such as those who are victims of hate related bullying and HBT based bullying.
 
 The UK Government has also published Respectful School Communities on its website Educate Against Hate . This resource is a self-review and signposting tool to support schools to develop a whole-school approach which promotes respect and discipline.
 
@@ -552,7 +552,7 @@ See section above about the Higher Education and Research Act (HERA) 2017.
 
 The Adult Education Budget (AEB) (known as the Adult Skills Fund (ASF) from 1 August 2024) is available to all adult learners (aged 19+) who meet the residency eligibility criteria and funding criteria. Currently, approximately 60% of the AEB is devolved to 9 Mayoral Combined Authorities (MCAs) and delegated to the Mayor of London acting through the Greater London Authority (GLA). These authorities are responsible for the provision of adult education and allocation of the AEB in their local areas allowing them to meet specific local demands.
 
-The Education and Skills Funding Agency (ESFA) is responsible for the remaining AEB in nondevolved areas where colleges and training providers have the freedom and flexibility to determine how they use their AEB to meet the needs of their communities. In ESFA funded areas, to enable those on lower wages to access ASF qualifications, any learner who earns below the low wage threshold (£25,000 from 1 August 2024) or are unemployed can be fully funded for their qualification.
+The Education and Skills Funding Agency (ESFA) is responsible for the remaining AEB in non-devolved areas where colleges and training providers have the freedom and flexibility to determine how they use their AEB to meet the needs of their communities. In ESFA funded areas, to enable those on lower wages to access ASF qualifications, any learner who earns below the low wage threshold (£25,000 from 1 August 2024) or are unemployed can be fully funded for their qualification.
 
 13
 
@@ -582,7 +582,7 @@ The 2021 Cynefin' report was pivotal to the development of the Curriculum for Wa
 
 [[START OF PAGE 15]]
 
-DARPL is led by Cardiff Metropolitan University, with a coalition of partners with lived and professional experience, including Show Racism the Red Card Wales, I'm Representing, and the Black Curriculum. Building on the success of antiracist provision for the schools' sector in 2023, DARPL extended to childcare, playwork and early years and further education. Antiracist resources, training, and guidance for education, childcare and playwork are available in one place through the DARPL virtual campus.
+DARPL is led by Cardiff Metropolitan University, with a coalition of partners with lived and professional experience, including Show Racism the Red Card Wales, I'm Representing, and the Black Curriculum. Building on the success of anti-racist provision for the schools' sector in 2023, DARPL extended to childcare, playwork and early years and further education. Anti-racist resources, training, and guidance for education, childcare and playwork are available in one place through the DARPL virtual campus.
 
 #### Wales
 ##### Early years
@@ -637,7 +637,7 @@ The Anti-Racism in Education Programme aims to create an education system that i
 
 As part of the work of the AREP, the Scottish Government are committed to increasing the ethnic diversity of Scotland's education workforce to ensure that it is representative of the communities that it serves. A number of actions are underway that aim to address this vital issue. These include:
 
-- Supporting the delivery of the Scottish Council of Deans' National Anti -Racism Framework for Initial Teacher Education;
+- Supporting the delivery of the Scottish Council of Deans' National Anti-Racism Framework for Initial Teacher Education;
 
 - Introduction of new Action Guide for Local Authorities, due to publish in September 2024. This guide will empower local authorities to take an anti-racist approach to their recruitment, retention and progression policies and procedures with regards to teachers;
 
@@ -673,7 +673,7 @@ In addition there is guidance in place to support:
 
 - improved outcomes for children and young people who are from Gypsy/Traveller families Educational outcomes for Gypsy/Traveller children - Gypsy/Travellers - gov.scot (www.gov.scot)
 
-- Supporting children and young people with healthcare needs in schools: guidance gov.scot (www.gov.scot)
+- Supporting children and young people with healthcare needs in schools: guidance - gov.scot (www.gov.scot)
 
 - Education of children unable to attend school due to ill health: guidance - gov.scot (www.gov.scot)
 
@@ -695,19 +695,19 @@ In addition, the Scottish Government funds the Scottish Traveller Education Prog
 
 ##### Gypsy/Traveller Children and Young People
 
-The joint Scottish Government and COSLA Action Plan, Improving the Lives of Scotland's Gypsy/Travellers: 2019-2021 , aimed to improve outcomes for Scotland's Gypsy/Travellers in the areas like accommodation, education and health. The actions in the Plan were developed with members of Gypsy/Traveller communities and stakeholders. The Plan was extended until spring 2023 due to the effects of the Covid pandemic. It was then refreshed for the period June to September 2023, to ensure it remained relevant to the needs of Gypsy/Traveller communities. It expired in September 2023 but the Scottish government are still working on some of the actions of the Plan and are making sure the needs of Gypsy/Traveller communities can be addressed in this interim phase as well.
+The joint Scottish Government and COSLA Action Plan, Improving the Lives of Scotland's Gypsy/Travellers: 2019-2021, aimed to improve outcomes for Scotland's Gypsy/Travellers in the areas like accommodation, education and health. The actions in the Plan were developed with members of Gypsy/Traveller communities and stakeholders. The Plan was extended until spring 2023 due to the effects of the Covid pandemic. It was then refreshed for the period June to September 2023, to ensure it remained relevant to the needs of Gypsy/Traveller communities. It expired in September 2023 but the Scottish government are still working on some of the actions of the Plan and are making sure the needs of Gypsy/Traveller communities can be addressed in this interim phase as well.
 
 The Scottish Government are currently gathering data on successes and challenges with policy colleagues across the Scottish Government to review progress against the previous Action Plan.
 
 In partnership with COSLA, the Scottish Government are also currently undertaking a listening exercise with Gypsy/Traveller communities to inform the development of a new Action Plan.
 
-This exercise commenced in July 2023 and will conclude at the end of summer 2024. The Scottish Government aim to publish the new plan, which will focus on smaller, deliverable, and concrete actions. Partner organisations receive funding to support young people in education, celebrate the culture of Gypsy/Travellers and support the Scottish Government in its decisionmaking processes to meet the needs of Gypsy/Traveller communities.
+This exercise commenced in July 2023 and will conclude at the end of summer 2024. The Scottish Government aim to publish the new plan, which will focus on smaller, deliverable, and concrete actions. Partner organisations receive funding to support young people in education, celebrate the culture of Gypsy/Travellers and support the Scottish Government in its decision-making processes to meet the needs of Gypsy/Traveller communities.
 
 ##### LGBT inclusive education
 
 LGBT inclusive education is a core part of relationships, sexual health and parenthood learning within the health and wellbeing area of the curriculum. Scotland will be the first country in the world to have LGBT inclusive education embedded across the curriculum. Inclusive education needs to start early so all children and young people begin to learn and understand tolerance, respect, and equality. This will support our children and young people to build healthy relationships and prevent prejudice occurring in any form.
 
-In partnership with the Convention of Scottish Local Authorities (COSLA), the Scottish Government has promoted effective delivery of LGBT inclusive education in all Scottish schools and engaged with young people to seek their views and experiences. The lgbteducation.scot website, which was funded by the Scottish Government, is also an important resource that contains a toolkit of inclusive education resources and a basic awareness elearning course for education staff on LGBT inclusive education.
+In partnership with the Convention of Scottish Local Authorities (COSLA), the Scottish Government has promoted effective delivery of LGBT inclusive education in all Scottish schools and engaged with young people to seek their views and experiences. The lgbteducation.scot website, which was funded by the Scottish Government, is also an important resource that contains a toolkit of inclusive education resources and a basic awareness e-learning course for education staff on LGBT inclusive education.
 
 [[END OF PAGE 18]]
 
@@ -735,7 +735,7 @@ The Scottish government also look to the Scottish Funding Council, through the c
 
 Gaelic speakers can fall to be protected under the Equality Act 2010. Since the 1980s Gaelic medium education has been reintroduced to Scotland by some local authorities and it has developed into a successful minority language sector which is growing and is popular with parents. Access to Gaelic medium education at primary 1 entry, once established, is open to all pupils and there is no requirement for pupils to be from a Gaelic speaking home or family.
 
-The Gaelic Language (Scotland) Act 2005 established Bòrd na Gàidhlig which has functions in relation to education, the Education (Scotland) Act 2016 established a process whereby parents can make a request to a local authority for the establishment of Gaelic medium provision. The Scottish Languages Bill which was introduced to Scottish Parliament in November 2023 contains legislative provisions to strengthen access and requirements for Gaelic medium education -this is currently being considered by the Scottish Parliament. While the bill as introduced stops short of providing a right to Gaelic medium education many of the provisions pursue the aim of improving access and certainty for families who choose Gaelic medium education as to what they can expect and what should be provided in the sector.
+The Gaelic Language (Scotland) Act 2005 established Bòrd na Gàidhlig which has functions in relation to education, the Education (Scotland) Act 2016 established a process whereby parents can make a request to a local authority for the establishment of Gaelic medium provision. The Scottish Languages Bill which was introduced to Scottish Parliament in November 2023 contains legislative provisions to strengthen access and requirements for Gaelic medium education – this is currently being considered by the Scottish Parliament. While the bill as introduced stops short of providing a right to Gaelic medium education many of the provisions pursue the aim of improving access and certainty for families who choose Gaelic medium education as to what they can expect and what should be provided in the sector.
 
 - o Combatting discrimination in terms of curriculum:
 
@@ -777,7 +777,7 @@ The new UK  Government in England announced an independent Curriculum and Assess
 
 As part of its core aim of breaking down the barriers to opportunity, the review will seek to make sure children benefit from a curriculum that represents them and their families, regardless of background, and equips young people to shape our response to the challenges of our changing world.
 
-Following the review, all state schools -including academies who currently do not have to follow the national curriculum -will be required by law to teach the national curriculum up to age 16, giving parents certainty over their children's education.
+Following the review, all state schools – including academies who currently do not have to follow the national curriculum – will be required by law to teach the national curriculum up to age 16, giving parents certainty over their children's education.
 
 The national curriculum inclusion statement states that teachers should set high expectations for every pupil, whatever their prior attainment. Teachers should use appropriate assessment to set targets which are deliberately ambitious and potential areas of difficulty should be identified and addressed at the outset. Lessons should be planned to address potential areas of difficulty and to remove barriers to pupil achievement.
 
@@ -795,21 +795,21 @@ Teachers must also take account of the needs of pupils whose first language is n
 
 The current RSHE statutory guidance is clear that under the provisions of the Equality Act, schools must not unlawfully discriminate against pupils because of their protected characteristics. As part of Relationships Education, all primary school pupils will be taught the importance of respecting others, even when they are very different from them, or make different choices or have different preferences or beliefs. Pupils will also be taught what a stereotype is, and how stereotypes can be unfair, negative, or destructive.
 
-This content is built on at secondary school to cover how stereotypes based on sex, gender, race, religion, sexual orientation, or disability, can cause damage by normalising nonconsensual behaviour or encouraging prejudice.
+This content is built on at secondary school to cover how stereotypes based on sex, gender, race, religion, sexual orientation, or disability, can cause damage by normalising non-consensual behaviour or encouraging prejudice.
 
 The statutory guidance advises schools to be alive to issues such as sexism, misogyny, homophobia, and gender stereotypes, and to take positive action to tackle these issues. Schools should consider what they can do to foster healthy and respectful peer-to-peer communication and behaviour between boys and girls, and provide an environment, which challenges perceived limits on pupils based on their gender or any other characteristic, including through these subjects and as part of a whole-school approach.
 
 ##### Adult education and alternative learning
 
-Provider funding agreements state that ' In providing the Services, the Contractor must comply with the general duty on specified authorities in section 26 of the Counter-Terrorism and EDSK Version 1 (April 2024) Security Act 2015 (the Prevent duty) and must have regard to statutory guidance issued under section 29 of the CounterTerrorism and Security Act 2015.'
+Provider funding agreements state that 'In providing the Services, the Contractor must comply with the general duty on specified authorities in section 26 of the Counter-Terrorism and EDSK Version 1 (April 2024) Security Act 2015 (the Prevent duty) and must have regard to statutory guidance issued under section 29 of the Counter-Terrorism and Security Act 2015.'
 
 ###### Counter Terrorism and Security Act 2015
 
-The Counter-Terrorism and Security Act 2015 places a duty on certain bodies to have due regard to the need to prevent people from being drawn into terrorism and safeguarding against extremist ideologies and radicalisation. This includes further education. In addition, further education providers must exemplify British values of 'democracy, the rules of law, individual liberty and mutual respect and tolerance for those with different faiths and beliefs' in their practice. Curriculum-based strategies to comba t discrimination are part of 'PREVENT' and include challenging prejudices and racist comments and behaviours.
+The Counter-Terrorism and Security Act 2015 places a duty on certain bodies to have due regard to the need to prevent people from being drawn into terrorism and safeguarding against extremist ideologies and radicalisation. This includes further education. In addition, further education providers must exemplify British values of 'democracy, the rules of law, individual liberty and mutual respect and tolerance for those with different faiths and beliefs' in their practice. Curriculum-based strategies to combat discrimination are part of 'PREVENT' and include challenging prejudices and racist comments and behaviours.
 
 #### Wales
 
-The Curriculum for Wales has been developed in Wales, by practitioners for practitioners, bringing together educational expertise and wider research and evidence. It has been developed to be inclusive and accessible to all and is a clear statement of what is important in delivering a broad and balanced education for all learners -regardless of children's background or learning needs.
+The Curriculum for Wales has been developed in Wales, by practitioners for practitioners, bringing together educational expertise and wider research and evidence. It has been developed to be inclusive and accessible to all and is a clear statement of what is important in delivering a broad and balanced education for all learners – regardless of children's background or learning needs.
 
 21
 
@@ -819,7 +819,7 @@ The Curriculum for Wales has been developed in Wales, by practitioners for pract
 
 The 'Enabling learning' section of Curriculum for Wales guidance has been developed to support practitioners in planning, designing and implementing a pedagogically appropriate curriculum for all learners. It provides the firm foundation that all learners need to support development, at their own pace, towards realising the four purposes of the curriculum.
 
-Recognising that childcare settings funded to deliver nursery education were unlikely to have the capacity, expertise, or resources to develop their individual curriculum (reflecting the legal requirement placed on schools) the legal requirement to produce a curriculum for settings was placed on Welsh Ministers (s13 of the Curriculum and Assessment Act (Wales) 2021). The Welsh Government worked with experts and practitioners from education and childcare to coconstruct a curriculum for funded non-maintained nursery settings, which draws on the principles set out in the enabling learning guidance and develops them further to form a quality assured, inclusive curriculum that can support all learners aged 3-4, or those with similar developmental needs.
+Recognising that childcare settings funded to deliver nursery education were unlikely to have the capacity, expertise, or resources to develop their individual curriculum (reflecting the legal requirement placed on schools) the legal requirement to produce a curriculum for settings was placed on Welsh Ministers (s13 of the Curriculum and Assessment Act (Wales) 2021). The Welsh Government worked with experts and practitioners from education and childcare to co-construct a curriculum for funded non-maintained nursery settings, which draws on the principles set out in the enabling learning guidance and develops them further to form a quality assured, inclusive curriculum that can support all learners aged 3-4, or those with similar developmental needs.
 
 ##### Schools
 
@@ -889,6 +889,12 @@ All approved providers who are intending to charge fees above the basic amount a
 
  Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
+ Multiple and flexible learning pathways 9 are provided for
+
+ Curricula and teaching methods are inclusive in design 10
+
+ Multilingual and intercultural education is supported
+
  Other:
 
 ##### Northern Ireland
@@ -921,21 +927,15 @@ Advancing equality of opportunity means having due regard, in particular, to the
 
 > 8  Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge,values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 9 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and co mpetencies acquired through nonformal and informal education' ( Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 9 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 10    In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
- Multiple and flexible learning pathways 9 are provided for
-
- Curricula and teaching methods are inclusive in design 10
-
- Multilingual and intercultural education is supported
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-Advancing equality of opportunity encourages schools to consider how to increase the participation of their pupils with different protected characteristics in areas of school life where it is disproportionately low. This extends beyond the curriculum to ar eas of the school's activities such as organising work experience opportunities. E.g. a school identified that boys are much less likely to participate in arts classes compared with girls. It decides it will make plans to actively encourage more boys to join those classes.
+Advancing equality of opportunity encourages schools to consider how to increase the participation of their pupils with different protected characteristics in areas of school life where it is disproportionately low. This extends beyond the curriculum to areas of the school's activities such as organising work experience opportunities. E.g. a school identified that boys are much less likely to participate in arts classes compared with girls. It decides it will make plans to actively encourage more boys to join those classes.
 
 ###### School Admissions (England)
 
@@ -943,17 +943,17 @@ State-funded schools in England must ensure their admission criteria do not unfa
 
 State-funded schools are required by the School Admissions Code and regulations to prioritise the admission of children who are in or who have left public care and may also prioritise the admission of children with social or medical needs.
 
-Section 13 of the Education Act 1996 requires LAs in England to secure the availability of primary, secondary, and further education to meet the needs of people in their areas, and section 14 specifically requires them to secure the availability of sufficient schools to provide appropriate education for all pupils in their areas. The Code also requires mainstream schools to admit applicants in the normal admissions round where they have places available. These duties are blind to nationality and immigration status -whilst they are in the country, foreign national children have the same right to access a school in England as UK nationals.
+Section 13 of the Education Act 1996 requires LAs in England to secure the availability of primary, secondary, and further education to meet the needs of people in their areas, and section 14 specifically requires them to secure the availability of sufficient schools to provide appropriate education for all pupils in their areas. The Code also requires mainstream schools to admit applicants in the normal admissions round where they have places available. These duties are blind to nationality and immigration status – whilst they are in the country, foreign national children have the same right to access a school in England as UK nationals.
 
 In England, guidance is provided to parents, schools and LAs on the rights of foreign nationals to access schools: School applications for foreign national children and children resident outside England.
 
 Also, as the separate education systems in England, Scotland, Wales and Northern Ireland will be unfamiliar to many migrants, within published Welcome Packs, the UK Government has also provided specific guidance for families coming to the UK under the various immigration schemes (Ukraine, Afghanistan, and Hong Kong BN(O)) on how to obtain a school place and their broader education access rights. The UK Government has translated these guides into relevant languages on the relevant webpages.
 
-In addition, under section 86(1A) of the School Standards and Framework Act 1998, each LA in England is under a duty to provide parents in their area with advice and assistance in connection with their preferences of school -which should include helping parents navigate the system and apply for a school.
+In addition, under section 86(1A) of the School Standards and Framework Act 1998, each LA in England is under a duty to provide parents in their area with advice and assistance in connection with their preferences of school – which should include helping parents navigate the system and apply for a school.
 
 The UK Government made changes to the school admissions system in England in 2021 to make it easier for children to obtain a school place during the school year (i.e. when most places are already full).
 
-Refugees and asylum seekers often arrive in the UK after the school year has begun. Each LA in England must have what is called an 'in -year fair-access protocol ' agreed with its schools to enable it to quickly place children when there is a lack of school places near their place of residence. Asylum seeker and refugee children are specifically named as priority groups for in-year placement under the protocol in the statutory School Admissions Code.
+Refugees and asylum seekers often arrive in the UK after the school year has begun. Each LA in England must have what is called an 'in-year fair-access protocol' agreed with its schools to enable it to quickly place children when there is a lack of school places near their place of residence. Asylum seeker and refugee children are specifically named as priority groups for in-year placement under the protocol in the statutory School Admissions Code.
 
 25
 
@@ -969,7 +969,7 @@ Teachers' Standards state that teachers must uphold public trust in the professi
 
 - treating pupils with dignity, building relationships rooted in mutual respect, and at all times observing proper boundaries appropriate to a teacher's professional position
 
-- having regard for the need to safeguard pupils' well -being, in accordance with statutory provisions
+- having regard for the need to safeguard pupils' well-being, in accordance with statutory provisions
 
 - showing tolerance of and respect for the rights of others
 
@@ -987,7 +987,7 @@ See section 1.1 for details on primary and secondary education curriculum.
 
 ###### Support for pupils aged 5-16 with a first language other than English
 
-English is the formal language of instruction in state-funded schools in England. Schools are responsible for ensuring that all of their pupils -including those who are classed as having a first language other than English -can access the full curriculum and have opportunity to achieve their potential.
+English is the formal language of instruction in state-funded schools in England. Schools are responsible for ensuring that all of their pupils – including those who are classed as having a first language other than English – can access the full curriculum and have opportunity to achieve their potential.
 
 Through the English as an additional language (EAL) factor in the national funding formula (NFF) in England, schools are allocated funding for pupils who are classed as having EAL and who have started in the state-funded education system in England within the last 3 years. This equates to an additional £590 per eligible primary pupil and £1585 per eligible secondary pupil in 2024-25. Schools have flexibility over how they use their overall funding budget to support their EAL pupils, as they are best placed to understand and respond to the particular needs of their pupils. The UK Government does not routinely monitor the provision that schools put in place, or advocate any particular approaches that schools should adopt in order to improve the English language proficiency of EAL pupils.
 
@@ -1009,7 +1009,7 @@ Details about this can be found in Section 1.1 - Other measures.
 
 The Curriculum for Wales creates new curriculum requirements for all learners aged 3 to 16 in maintained or funded non-maintained nursery education. It replaces the current national curriculum and basic curriculum; replacing phases and stages and focussing instead on progression in learning along a continuum from age 3-16.  The new Curriculum for Wales is being taught in all primary schools in Wales from Sept 2022. It is being extended year by year in secondary schools so by 2026 it will be fully rolled out.
 
-The Curriculum for Wales is designed for the needs of each learner: ensuring each is seen as an individual, with specific strengths and areas for support.  This means identifying each learners' achievements, as well as any barriers to their learning, ensur ing every learner is supported to make progress to progress to their full potential.  It aims to help each school develop its own curriculum, enabling their learners to develop towards the four purposes of the curriculum -the starting point and aspiration for every child and young person in Wales.
+The Curriculum for Wales is designed for the needs of each learner: ensuring each is seen as an individual, with specific strengths and areas for support. This means identifying each learners' achievements, as well as any barriers to their learning, ensuring every learner is supported to make progress to progress to their full potential. It aims to help each school develop its own curriculum, enabling their learners to develop towards the four purposes of the curriculum – the starting point and aspiration for every child and young person in Wales.
 
 Curriculum for Wales -and particularly the opportunity to take a more individualised approach to learning -is supporting school leaders to increase equity and inclusivity for all our learners. Curriculum development should be at the heart of practitioner, school and national efforts to raise standards for all, tackling the equity gap and enabling progression for every child.
 
@@ -1021,7 +1021,7 @@ Work is also ongoing to create an anti-racist education workforce, by developing
 
 ###### Additional Learning Needs
 
-The Additional Learning Needs and Education Tribunal Act 2018 and the accompanying ALN Code and regulations, provides the statutory system for meeting the additional learning needs (ALN) of learners aged 0-25 in Wales. The ALN Act delivers a more inclusive, person-centred approach to learner support which places the learners' views, wishes and f eelings at the heart of the process of planning the support required to enable them to learn effectively and achieve their full potential. The Act was drafted with children's rights at its core and inclusive education is a key principle underpinning the ALN system. All children are being moved to the new ALN system in groups between September 2021 and September 2025.
+The Additional Learning Needs and Education Tribunal Act 2018 and the accompanying ALN Code and regulations, provides the statutory system for meeting the additional learning needs (ALN) of learners aged 0-25 in Wales. The ALN Act delivers a more inclusive, person-centred approach to learner support which places the learners' views, wishes and feelings at the heart of the process of planning the support required to enable them to learn effectively and achieve their full potential. The Act was drafted with children's rights at its core and inclusive education is a key principle underpinning the ALN system. All children are being moved to the new ALN system in groups between September 2021 and September 2025.
 
 As well as changing legislation the Welsh Government is on a journey to change practice.  It is investing in developing the skills of the education workforce through initial teacher education and a national approach to professional learning so all teachers can develop the skills they need to deliver the new Curriculum for Wales, promote person-centred practice and differentiated learning, close learning gaps and respond to learners' needs.
 
@@ -1043,19 +1043,19 @@ Over £1.6m has been committed for financial year 2024/25 to support delivery of
 
 ###### Health and Well-being in the Curriculum for Wales
 
-One of the mandatory statements of learning within this Area of the curriculum relates to the fundamental importance of 'healthy relationships' education with the aim of protecting and safeguarding learners through their life -'Healthy relationships are f undamental to our wellbeing'. Health and Well-being: Statements of what matters - Hwb (gov.wales)
+One of the mandatory statements of learning within this Area of the curriculum relates to the fundamental importance of 'healthy relationships' education with the aim of protecting and safeguarding learners through their life – 'Healthy relationships are fundamental to our well-being'. Health and Well-being: Statements of what matters - Hwb (gov.wales)
 
 In addition, the mandatory Relationships and sexuality education (RSE) Code has the same aim of supporting learners to have the skills, knowledge and understanding of healthy relationships, gender equality, how to stay safe to protect and safeguard them throughout their lives, this includes LGBTQ+ lives.
 
 ###### Initial Teacher Education
 
-All programmes of Initial Teacher Education (ITE) in Wales must be accredited against the Criteria for accreditation of ITE programmes Initial teacher education programmes: accreditation criteria. These criteria require all students in ITE to develop an understanding of, inter alia, Wales' commitment to the United Nations Convention on the Rights of the Child (UNCRC) and the United Nations Convention on the rights of Persons with Disabilities (UNC RPD) and its implications for learners' rights.
+All programmes of Initial Teacher Education (ITE) in Wales must be accredited against the Criteria for accreditation of ITE programmes Initial teacher education programmes: accreditation criteria. These criteria require all students in ITE to develop an understanding of, inter alia, Wales' commitment to the United Nations Convention on the Rights of the Child (UNCRC) and the United Nations Convention on the rights of Persons with Disabilities (UNCRPD) and its implications for learners' rights.
 
 All programmes require ITE students to develop the ways they teach and build relationships with their learners and wider school communities to facilitate effective learning environments that are anti-racist and non-discriminatory for all learners. They are also required to develop the ways they teach and build relationships with their learners and wider school communities to facilitate effective learning environments that are anti-racist and non-discriminatory for all learners. In addition to understanding safeguarding issues they must also understand and learn to manage the diverse barriers which learners' face at school affecting educational attainment and impacting equity. This should include: meeting the needs of learners from diverse cultural, linguistic, and religious backgrounds; meeting the needs of learners from diverse socio-economic backgrounds and meeting the needs of learners with ALN.
 
 ###### National Music Service
 
-The National Music Service, fully funded by the Welsh Government with a significant investment totalling £13 million over the period 2022-2025 aims to help make access to music education fairer and more consistent across Wales. Established in line with a Programme for Government commitment, the Service has a particular focus on supporting learners from lowincome households and those with ALN. The work programme includes bespoke provision to support ALN learners to engage in music activities.
+The National Music Service, fully funded by the Welsh Government with a significant investment totalling £13 million over the period 2022-2025 aims to help make access to music education fairer and more consistent across Wales. Established in line with a Programme for Government commitment, the Service has a particular focus on supporting learners from low-income households and those with ALN. The work programme includes bespoke provision to support ALN learners to engage in music activities.
 
 ###### Higher Education and Further Education
 
@@ -1115,7 +1115,7 @@ The findings from the 15-24 Learner Journey Review were taken into account in th
 
 More broadly, In Scotland, under the Education (Scotland) Act 1980, the delivery of education is the statutory responsibility of local authorities, who have considerable freedom to determine how they deliver education in their area. This provides local authorities with flexibility to tailor provision to best meet the needs of their pupils and local circumstances.
 
-Scottish Higher Education Institutions are supported by Scottish Funding Council and Quality Assurance Agency (Scotland) to adhere to UK Quality Code, which expects courses to be 'well -designed, provide a high quality academic experience for all students and enable a student's achievement to be reliably assessed.'
+Scottish Higher Education Institutions are supported by Scottish Funding Council and Quality Assurance Agency (Scotland) to adhere to UK Quality Code, which expects courses to be "well-designed, provide a high quality academic experience for all students and enable a student's achievement to be reliably assessed."
 
 The Scottish Funding Council (SFC) and the Equality and Human Rights Commission published a report in 2023 which outlines the most pressing persistent inequalities in the tertiary education system and asks institutions to address them by contributing to a set of National Equality Outcomes (NEOs).
 
@@ -1161,15 +1161,19 @@ As reported in Research with schools and learners on the early implementation of
 
 #### Other relevant general measures, including gender equality
 
- Legislation provides for gender equality in education  Policy measures aim to enhance gender equality
+ Legislation provides for gender equality in education
 
- Gender-responsive  education sector planning is undertaken
+ Policy measures aim to enhance gender equality
 
- All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education  Re-entry programmes for young mothers are provided for  Ensuring safe and adequate gender12
+ Gender-responsive education sector planning is undertaken
 
-sensitive sanitation facilities
+ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
-> 12 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+ Re-entry programmes for young mothers are provided for
+
+ Ensuring safe and adequate gender-sensitive sanitation facilities12
+
+> 12 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 31
 
@@ -1183,13 +1187,19 @@ sensitive sanitation facilities
 
  Teachers are trained (initial and in-service) on gender equality
 
- Teachers are trained to combat stigmatisation 11
+ Teachers are trained to combat stigmatisation11
 
  Other:
 
+ Curricula are rid of all stereotypes13 and bias
+
+ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
+
+- o Ensuring gender parity in technical and vocational training education and training (TVET)
+
 ##### Northern Ireland
 
-The Department for the Economy 's student support measures include childcare support for those under 18, this is available under the Further Education Care to Learn scheme.
+The Department for the Economy's student support measures include childcare support for those under 18, this is available under the Further Education Care to Learn scheme.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -1199,7 +1209,7 @@ The Department for the Economy 's student support measures include childcare sup
 
 The Equality Act 2010 legally protects people from discrimination in the workplace and in wider society.
 
-###### The Equality Act 2010 -Positive Action
+###### The Equality Act 2010 – Positive Action
 
 Please see section 1.1
 
@@ -1225,19 +1235,13 @@ Detail on the curriculum can be found in Section 1.1.
 
 > 13 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
- Curricula are rid of all stereotypes 13  and bias
-
- Ensuring gender parity in science, technology, engineering and mathematics (STEM)
-
-- o Ensuring gender parity in technical and vocational training education and training (TVET)
-
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
 ###### Science and Maths Programmes
 
-In England, an area where girls are typically underrepresented is in physics where they make up just 23% of A level entries. DfE funded the Institute of Physics's Improving Gender Balance project , which ran from 2014-16 and embedded the lessons learned from the project into the Stimulating Physics Network programme. This programme is aimed at improving progression from physics GCSE to A level, particularly for students from typically underrepresented backgrounds. The network is delivered through 50 lead schools offering specialist support to around 350 partner schools.
+In England, an area where girls are typically underrepresented is in physics where they make up just 23% of A level entries. DfE funded the Institute of Physics's Improving Gender Balance project, which ran from 2014-16 and embedded the lessons learned from the project into the Stimulating Physics Network programme. This programme is aimed at improving progression from physics GCSE to A level, particularly for students from typically underrepresented backgrounds. The network is delivered through 50 lead schools offering specialist support to around 350 partner schools.
 
 DfE also funds the Advanced Mathematics Support Programme (AMSP) which provides support for teachers and students in state-funded schools and colleges in England. Additional support is offered in areas of low social mobility so that students can choose their best post-16 maths pathway and access high-quality teaching. The AMSP has a particular focus on supporting girls into mathematics and runs a variety of enrichment and engagement sessions specifically for girls.
 
@@ -1293,7 +1297,7 @@ DfE in England are also reviewing the RSHE statutory guidance. The consultation 
 
 ##### Scotland
 
-The Gender Equality Taskforce in Education and Learning has experienced a number of barriers in terms of establishing systemic change. A number of discrete ambitions have endeavoured to address gender inequality including STEM initiatives and Education Sco tland's Improving Gender Balance and Equalities Programme. However, the Taskforce has recently changed its approach in order to become a streamlined, core group which offers strategic direction, oversight and supplies the rhetoric and context for specific policy frameworks, including the draft Behaviour in Schools Action Plan. The Scottish Government have introduced new guidance Preventing and responding to gender based violence: a whole school framework - gov.scot (www.gov.scot) to support schools in tackling these issues.
+The Gender Equality Taskforce in Education and Learning has experienced a number of barriers in terms of establishing systemic change. A number of discrete ambitions have endeavoured to address gender inequality including STEM initiatives and Education Scotland's Improving Gender Balance and Equalities Programme. However, the Taskforce has recently changed its approach in order to become a streamlined, core group which offers strategic direction, oversight and supplies the rhetoric and context for specific policy frameworks, including the draft Behaviour in Schools Action Plan. The Scottish Government have introduced new guidance Preventing and responding to gender based violence: a whole school framework - gov.scot (www.gov.scot) to support schools in tackling these issues.
 
 [[END OF PAGE 34]]
 
@@ -1327,11 +1331,9 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 - o Teachers are trained to combat stigmatisation 16
 
-> 14    Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mat ure, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
+> 14 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
 
-16
-
-> Supra note 15.
+> 16 Supra note 15.
 
 35
 
@@ -1345,9 +1347,19 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 - o Educational standards are established for educational institutions run by national minorities
 
- Positive or affirmative action measures are provided for national minorities o Financial incentives and fellowships are provided for national minorities
+ Positive or affirmative action measures are provided for national minorities
 
-- o Other 15 :
+- o Financial incentives and fellowships are provided for national minorities
+
+- o Other15:
+
+ Multilingual and intercultural education are supported
+
+ Native language instruction is ensured for national minorities
+
+ Adapting curricula and teaching and learning methods to their needs for national minorities
+
+ Curricula are rid of all stereotypes17 and bias
 
 ##### Northern Ireland
 
@@ -1361,13 +1373,13 @@ See section 1.2 above regarding FE Equal Opportunities policy for students.
 
 The Equality Act 2010 legally protects people from discrimination in the workplace and in wider society, including education institutions.
 
-###### The Equality Act 2010 -Positive Action
+###### The Equality Act 2010 – Positive Action
 
 Please see section 1.1
 
 ###### Curriculum
 
-The National Curriculum requires the teaching of any ancient or modern foreign language at key stage 2 and any modern foreign language at key stage 3. Schools cannot teach Cornish in the place of 'any modern foreign language' because it is not a foreign la nguage, however schools are welcome to teach Cornish, or any other regional minority language, in addition to their statutory languages offer in order to meet the needs of the pupils within their communities.
+The National Curriculum requires the teaching of any ancient or modern foreign language at key stage 2 and any modern foreign language at key stage 3. Schools cannot teach Cornish in the place of 'any modern foreign language' because it is not a foreign language, however schools are welcome to teach Cornish, or any other regional minority language, in addition to their statutory languages offer in order to meet the needs of the pupils within their communities.
 
 Further detail on the curriculum can be found in Section 1.1.
 
@@ -1383,14 +1395,6 @@ Youth work provision is inclusive of all young people, including national minori
 
 > 17 Supra note 16.
 
- Multilingual and intercultural education are supported
-
- Native language instruction is ensured for national minorities
-
- Adapting curricula and teaching and learning methods to their needs for national minorities
-
- Curricula are rid of all stereotypes 17 and bias
-
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
@@ -1399,7 +1403,7 @@ mainstream provision, where required specific youth work programmes are provided
 
 ##### Scotland
 
-All children and young people are entitled to education in Scotland regardless of their background.  As indicated in the sections above and elsewhere the legislative and curriculum framework in Scotland promotes equality and inclusion for all pupils.
+All children and young people are entitled to education in Scotland regardless of their background. As indicated in the sections above and elsewhere the legislative and curriculum framework in Scotland promotes equality and inclusion for all pupils.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
@@ -1419,6 +1423,20 @@ All children and young people are entitled to education in Scotland regardless o
 
 - o Other:
 
+- o Financial incentives and fellowships are provided for indigenous people
+
+ Teachers are trained on intercultural education
+
+- o Teachers are trained to combat stigmatisation18
+
+- o Multilingual and intercultural education are supported
+
+- o Native language instruction is ensured
+
+- o Adapting curricula and teaching and learning methods to their needs for indigenous people
+
+ Curricula are rid of all stereotypes19 and bias
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 ##### UK Government
@@ -1427,7 +1445,7 @@ All children and young people are entitled to education in Scotland regardless o
 
 The Equality Act 2010 legally protects people from discrimination in the workplace and in wider society.
 
-###### The Equality Act 2010 -Positive Action
+###### The Equality Act 2010 – Positive Action
 
 Please see section 1.1
 
@@ -1435,29 +1453,11 @@ Please see section 1.1
 
 See section 1.2 general measures.
 
-> Supra note 15.
+> 18 Supra note 15.
 
-- o Financial incentives and fellowships are provided for indigenous people
-
- Teachers are trained on intercultural education
-
-- o Teachers are trained to combat stigmatisation 18
-
-- o Multilingual and intercultural education are supported
-
-- o Native language instruction is ensured
-
-- o Adapting curricula and teaching and learning methods to their needs for indigenous people
-
- Curricula are rid of all stereotypes 19  and bias
-
-18
-
-19
+> 19 Supra note 16.
 
 37
-
-Supra note 16.
 
 [[END OF PAGE 37]]
 
@@ -1513,7 +1513,7 @@ The Equality Act 2010 legally protects people from discrimination in the workpla
 
 The recent Independent Review of Education highlighted Irish Travellers as facing challenges in education. The final report highlighted that there was evidence of relative poverty among ethnic minorities (including Irish Travellers) with rates of free school meal entitlement highest amongst Irish Travellers (65%). Furthermore, Irish Travellers were under-represented in grammar schools and almost half of Irish Travellers (495) were recorded as having special educational needs. There are also gaps in attainment and school attendance. This will be addressed in the upcoming review of the Traveller Child in Education Framework.
 
-#### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 20 :
+#### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations20:
 
  Legislation provides for their right to education
 
@@ -1525,41 +1525,21 @@ The recent Independent Review of Education highlighted Irish Travellers as facin
 
  All administrative barriers to access education are removed
 
-- o Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 21  are provided for
+- o Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers21 are provided for
 
  Teachers are specifically trained to ensure their inclusion
 
-- o Teachers are trained to combat stigmatisation 22
+- o Teachers are trained to combat stigmatisation22
 
 - o Other:
-
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-##### UK Government
-
-###### School Admissions
-
-See section 1.2 general measures.
-
-> 20 'Trapped  populations  are  those  who  are  unable  to  migrate  to  safe  locations  and  remain  trapped  in  locations vulnerable to the impacts of climate hazards' ( UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
-
-> 21 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
-
-> 22 Supra note 15.
-
-> 23 Supra note 13
-
-24
-
-> Supra note 16.
 
  Financial incentives and fellowships are provided for
 
  Auxiliary assistance is provided
 
- Multiple and flexible learning pathways 23 are provided
+ Multiple and flexible learning pathways23 are provided
 
- Curricula are rid of all stereotypes 24  and bias
+ Curricula are rid of all stereotypes24 and bias
 
 - o Accelerated learning programmes are provided
 
@@ -1569,6 +1549,24 @@ See section 1.2 general measures.
 
 - o Multilingualism and intercultural education are encouraged
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+##### UK Government
+
+###### School Admissions
+
+See section 1.2 general measures.
+
+> 20 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
+
+> 21 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
+
+> 22 Supra note 15.
+
+> 23 Supra note 13
+
+> 24 Supra note 16.
+
 39
 
 [[END OF PAGE 39]]
@@ -1577,7 +1575,7 @@ See section 1.2 general measures.
 
 ###### Warm Welcome Scholarship Scheme:
 
-The Warm Welcome Scholarship scheme supports those affected by the change of regime in Afghanistan to access undergraduate and postgraduate scholarships in the UK. The Scheme supports a total of 102 scholarships for the duration of the programme, which can be broken down into 31 'in -year' scholarships for those enrolled in the 2021/22 academic year and 71 'full -year' scholarships for those who commenced study in the 2022/23 academic year.
+The Warm Welcome Scholarship scheme supports those affected by the change of regime in Afghanistan to access undergraduate and postgraduate scholarships in the UK. The Scheme supports a total of 102 scholarships for the duration of the programme, which can be broken down into 31 'in-year' scholarships for those enrolled in the 2021/22 academic year and 71 'full-year' scholarships for those who commenced study in the 2022/23 academic year.
 
 The scheme is co-funded with the sector: participating HE providers are waiving tuition fees and DfE in England is providing funding for a maintenance stipend to scholars for the duration of their course. The stipend amount will vary depending on geographical location in the UK and on level of study. The application window for the Warm Welcome Scholarship Scheme has closed. There will be no further intake of scholars and the programme will conclude in July 2027 at the latest.
 
@@ -1587,7 +1585,7 @@ In England, unaccompanied asylum-seeking children invariably become looked after
 
 Social workers, Virtual School Heads and Independent Reviewing Officers, school admission officers and special educational needs departments should work together to ensure that appropriate education provision for the child is arranged at the same time as a placement.
 
-Some unaccompanied children who have recently arrived in the country may have never had access to education before. Appropriate education for unaccompanied children may therefore include a period of time in a setting where their full educational needs can be assessed and integrated into the PEP. They may need time to be prepared for and then acclimatise to formal education, and their initial educational outcomes may include cultural orientation and life skills appropriate to their age 25 .
+Some unaccompanied children who have recently arrived in the country may have never had access to education before. Appropriate education for unaccompanied children may therefore include a period of time in a setting where their full educational needs can be assessed and integrated into the PEP. They may need time to be prepared for and then acclimatise to formal education, and their initial educational outcomes may include cultural orientation and life skills appropriate to their age25.
 
 ###### 15-hour free entitlement and 2-year-old entitlement for disadvantaged children
 
@@ -1609,7 +1607,7 @@ See section 2.4. Adult education and alternative learning for details about this
 
 ##### Wales
 
-In Wales the Nation of Sanctuary: Refugee and Asylum Seeker Plan identifies crossGovernment approaches to support positive inclusion for people to have the opportunities to learn, thrive and contribute to the economic, environmental, social and cultural life of Wales. A key commitment within the Welsh Government's Programme for Government 2021 - 2026 is to continue to support and uphold the rights of unaccompanied asylum-seeking children and young people.
+In Wales the Nation of Sanctuary: Refugee and Asylum Seeker Plan identifies cross-Government approaches to support positive inclusion for people to have the opportunities to learn, thrive and contribute to the economic, environmental, social and cultural life of Wales. A key commitment within the Welsh Government's Programme for Government 2021 - 2026 is to continue to support and uphold the rights of unaccompanied asylum-seeking children and young people.
 
 The School Essentials Grant is auxiliary assistance available to children and young people from low income families, including refugees and asylum seekers.
 
@@ -1617,7 +1615,7 @@ The School Essentials Grant is auxiliary assistance available to children and yo
 
 The DE in Northern Ireland has put in place various measures to support the inclusion of Asylum Seekers and Refugee (ASR) pupils in mainstream school and the removal of administrative barriers to access education.
 
-DE works alongside t he Education Authority's (EA) Intercultural Education Service (IES) to provide funding and support to Newcomer pupils. The funding covers costs that will remove barriers to education for these children and schools can apply for a share of funding to help meet the needs of ASR pupils as they arise.
+DE works alongside the Education Authority's (EA) Intercultural Education Service (IES) to provide funding and support to Newcomer pupils. The funding covers costs that will remove barriers to education for these children and schools can apply for a share of funding to help meet the needs of ASR pupils as they arise.
 
 In partnership with the EA's Educational Psychology Service, IES operate the pilot 'Schools Trauma Advisory and Referral Service' (STARS) which is open to any school with Newcomer pupils who are concerned about trauma as the main presenting barrier to learning and integration in school.
 
@@ -1625,7 +1623,7 @@ The IES also has a specific ASR webpage listing support currently available.  Th
 
 To address the education needs of ASR children accommodated in hotels, the DE has provided additional funding for temporary primary and post-primary Welcome Hubs (formerly known as Welcome Clubs) at two schools in the Greater Belfast area.  This enables the children to access education until they are housed and have a school place.
 
-Another barrier to education is limited English language ability.  In support of school staff working with Newcomer children with English as an Additional Language (EAL) the IES codelivers an intercultural education course in partnership with Queens University Belfast (QUB) for both teachers and teaching assistants, accredited at OCN Level 1. Over 350 school-based staff have completed the course since 2017 and it will run again in September 2024.
+Another barrier to education is limited English language ability. In support of school staff working with Newcomer children with English as an Additional Language (EAL) the IES co-delivers an intercultural education course in partnership with Queens University Belfast (QUB) for both teachers and teaching assistants, accredited at OCN Level 1. Over 350 school-based staff have completed the course since 2017 and it will run again in September 2024.
 
 DE continues to work alongside the IES to provide specific Newcomer support to schools and families around the school placement process including welfare supports such as Free School Meals, Uniform Grants and School Transport. This includes advice and guidance to families for children with Special Educational Needs and Disability.
 
@@ -1639,17 +1637,11 @@ Funding to support newcomer pupils is allocated directly to schools through the 
 
 [[START OF PAGE 42]]
 
-1.
+1. Under the DE in Northern Ireland Every School a Good School - Supporting Newcomer Pupils policy and common funding scheme, schools receive an additional allocation of funding on a per pupil per annum basis for newcomer children registered under the annual school census, amounting to ½ of the Average Weighted Pupil Unit (currently circa £1,200 per child). A newcomer child is defined within the policy as a child who does not share a common language (i.e. English, or Irish for those being educated within Irish Medium schools) in common with their teacher or peers.
 
-2.
+2. In response to the growing number and increasing diversity of newcomer pupils arriving in Northern Ireland the DE is undertaking a review of its Supporting Newcomer Pupils Policy to ensure it is fit for purpose and takes account of the educational needs of children arriving in Northern Ireland seeking asylum or refuge. Revised policy proposals will eventually be presented to the Northern Ireland Minister for Education for consideration.
 
-3.
-
-Under the DE in Northern Ireland Every School a Good School - Supporting Newcomer Pupils policy and common funding scheme, schools receive an additional allocation of funding on a per pupil per annum basis for newcomer children registered under the annual school census, amounting to ½ of the Average Weighted Pupil Unit (currently circa £1,200 per child).  A newcomer child is defined within the policy as a child who does not share a common language (i.e. English, or Irish for those being educated within Irish Medium schools) in common with their teacher or peers.
-
-In response to the growing number and increasing diversity of newcomer pupils arriving in Northern Ireland the DE is undertaking a review of its Supporting Newcomer Pupils Policy to ensure it is fit for purpose and takes account of the educational needs of children arriving in Northern Ireland seeking asylum or refuge.  Revised policy proposals will eventually be presented to the Northern Ireland Minister for Education for consideration.
-
-Creating inclusive, welcoming environments for all young people is a key feature of youth service provision. While the principle is to include national minorities though mainstream provision, where needs are identified specific youth work programmes are provided at a local level to meet needs, including newcomer and asylum seeking young people.
+3. Creating inclusive, welcoming environments for all young people is a key feature of youth service provision. While the principle is to include national minorities though mainstream provision, where needs are identified specific youth work programmes are provided at a local level to meet needs, including newcomer and asylum seeking young people.
 
 ###### Further Education
 
@@ -1723,6 +1715,16 @@ Language barriers and cultural differences can present challenges to delivery of
 
  Other
 
+ Teachers are trained to combat stigmatisation26
+
+ Auxiliary assistance is provided
+
+ Curricula and teaching and learning methods are adapted
+
+ Curricula are rid of all stereotypes27 and bias
+
+ Education infrastructure and learning materials are adapted
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 ##### UK Government
@@ -1745,16 +1747,6 @@ Schools are also prohibited from treating disabled students unfavourably because
 
 > 27 Supra note 16.
 
- Teachers are trained to combat stigmatisation 26
-
- Auxiliary assistance is provided
-
- Curricula and teaching and learning methods are adapted
-
- Curricula are rid of all stereotypes 27  and bias
-
- Education infrastructure and learning materials are adapted
-
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
@@ -1767,7 +1759,7 @@ Further Education (FE) providers also operate under the Equality Act 2010 and pr
 
 ###### Higher Education
 
-Higher education providers are required under the Equality Act 2010 to make reasonable adjustments for disabled students. Disabled Students' Allowance, a non -means-tested grant for disabled students who incur additional study-related costs in higher education due to a disability, is available to eligible students in addition to these reasonable adjustments for the provision of more specialist support
+Higher education providers are required under the Equality Act 2010 to make reasonable adjustments for disabled students. Disabled Students' Allowance, a non-means-tested grant for disabled students who incur additional study-related costs in higher education due to a disability, is available to eligible students in addition to these reasonable adjustments for the provision of more specialist support
 
 The DfE has worked closely with the Department for Work and Pensions (DWP) to pilot and rollout a Student Adjustments Planner that will help to smooth the transition from Higher Education into employment for students with a disability or health condition. The Adjustments Planner captures the support needs of the individual and empowers them to have confident discussions about any adjustments they require with their university and with employers. Grant funding is also made available to providers to enable them to support successful outcomes for disabled students, and to support providers move towards inclusive models of support. The OfS' providers allocation was £40m for AY2021-22, £41m for AY2022-23 and £41m for AY2023-24.
 
@@ -1779,7 +1771,7 @@ Please see section 1.1.
 
 ###### Inclusion in mainstream schools is ensured
 
-The Welsh Government has worked with education consortia and regional partnerships, with support from the Children's Commissioner for Wales, to create an online professional learning package on the United Nations Convention on the Rights of the Child (UNCRC) and the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD).   This national professional learning resource is supporting practitioners, head teachers, governing bodies and LAs to develop an awareness and understanding of the UNCRC and UNCRPD.  A consistent professional learning offer was required to support schools to meet the requirements of Section 64 of the Curriculum and Assessment (Wales) Act 2021.  The first two modules were made available during the summer term 2023 via the Welsh Government's online learning platform 'Hwb' . A third module is currently under development.
+The Welsh Government has worked with education consortia and regional partnerships, with support from the Children's Commissioner for Wales, to create an online professional learning package on the United Nations Convention on the Rights of the Child (UNCRC) and the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD). This national professional learning resource is supporting practitioners, head teachers, governing bodies and LAs to develop an awareness and understanding of the UNCRC and UNCRPD. A consistent professional learning offer was required to support schools to meet the requirements of Section 64 of the Curriculum and Assessment (Wales) Act 2021. The first two modules were made available during the summer term 2023 via the Welsh Government's online learning platform 'Hwb'. A third module is currently under development.
 
 The ALN Education and Tribunal (Wales) Act at Chapter 3 (sections 47 to 67) makes provision for and in connection with functions related to meeting additional learning needs, including (a) a duty on LAs to favour education in mainstream maintained schools for children with additional learning needs (section 51).
 
@@ -1841,13 +1833,13 @@ The Disabled Students Allowance (DSA) is non-repayable support for disabled stud
 
 ###### Attendance
 
-In England, pupils with SEND continue to have higher levels of absence compared to pupils with no identified SEND -a trend that was exacerbated over the pandemic. The overall absence rate for pupils with an EHC plan was 12.3% in 2022/23, an increase from 12.1% in 2021/22. This compares to 10.2% for pupils with SEN support (increase from 10.0%) and 6.6% with no identified SEND (decrease from 6.9%). Although the overall absence rates have increased for those with SEN, persistent absence has decreased across each cohort: 36.0% of pupils with an EHC plan were persistently absent in this period, a reduction from 36.9% in 2021/22. This compares to 31.1% for pupils with SEN support (decrease from 32.0%) and 18.4% for pupils with no identified SEND (decrease from 20.0%).
+In England, pupils with SEND continue to have higher levels of absence compared to pupils with no identified SEND – a trend that was exacerbated over the pandemic. The overall absence rate for pupils with an EHC plan was 12.3% in 2022/23, an increase from 12.1% in 2021/22. This compares to 10.2% for pupils with SEN support (increase from 10.0%) and 6.6% with no identified SEND (decrease from 6.9%). Although the overall absence rates have increased for those with SEN, persistent absence has decreased across each cohort: 36.0% of pupils with an EHC plan were persistently absent in this period, a reduction from 36.9% in 2021/22. This compares to 31.1% for pupils with SEN support (decrease from 32.0%) and 18.4% for pupils with no identified SEND (decrease from 20.0%).
 
 All children have the same right to suitable full-time education. The UK Government has issued updated guidance on expectations of schools and local authorities in England around attendance that will become statutory from August 2024. Schools and local authorities are expected to work supportively with families and provide tailored support to pupils with SEND, including through reasonable adjustments, to enable them to attend school.
 
-###### Suspension and permanent exclusion :
+###### Suspension and permanent exclusion:
 
-In England, pupils with SEND continue to experience higher levels of suspensions and permanent exclusions (including instances of informal exclusions and 'off -rolling' ) than those with no identified SEND. The rate of suspensions among those pupils who have an education, health and care (EHC) plan is 21.60 which is lower than for those with SEN without an EHC plan (SEN support) at 24.42. This compares to 6.38 for pupils with no SEN. The rate of permanent exclusions among those pupils who have an EHC plan is 0.20, which, like suspensions, is lower than for those with SEN without an EHC plan (SEN support) at 0.37. This compares to 0.07 for pupils with no SEN.
+In England, pupils with SEND continue to experience higher levels of suspensions and permanent exclusions (including instances of informal exclusions and 'off-rolling') than those with no identified SEND. The rate of suspensions among those pupils who have an education, health and care (EHC) plan is 21.60 which is lower than for those with SEN without an EHC plan (SEN support) at 24.42. This compares to 6.38 for pupils with no SEN. The rate of permanent exclusions among those pupils who have an EHC plan is 0.20, which, like suspensions, is lower than for those with SEN without an EHC plan (SEN support) at 0.37. This compares to 0.07 for pupils with no SEN.
 
 47
 
@@ -1863,7 +1855,7 @@ For too long the education and care system has not meet the needs of all childre
 
 This government's ambition is that all children and young people with SEND or in alternative provision receive the right support to succeed in their education and as they move into adult life. We are committed to improving inclusivity and expertise in mainstream schools, as well as ensuring special schools cater to those with the most complex needs, restoring parents' trust that their child will get the support they need.
 
-Allegations of disability discrimination can be appealed to the First-tier Tribunal (Special Educational Needs and Disability). Disability discrimination appeals have increased significantly over recent years: in the 2022/23 academic year, there were 330 registered SEND Tribunal appeals in relation to disability discrimination -71% more than in the previous academic year. Of these, 20 were in relation to a child's temporary exclusion from school, with 310 claims registered uncategorised. To increase awarene ss of schools' duties under the Equality Act, the previous UK Government:
+Allegations of disability discrimination can be appealed to the First-tier Tribunal (Special Educational Needs and Disability). Disability discrimination appeals have increased significantly over recent years: in the 2022/23 academic year, there were 330 registered SEND Tribunal appeals in relation to disability discrimination -71% more than in the previous academic year. Of these, 20 were in relation to a child's temporary exclusion from school, with 310 claims registered uncategorised. To increase awareness of schools' duties under the Equality Act, the previous UK Government:
 
 - Published a blog on ON.GOV.UK importance of reasonable adjustments for disabled pupils
 
@@ -1883,11 +1875,17 @@ COVID-19 pandemic: disabled children were disproportionately impacted by the pan
 
 #### Students from poor households:
 
- Financial incentives and fellowships for school enrolment are provided  Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
+ Financial incentives and fellowships for school enrolment are provided
+
+ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
  Positive or affirmative action measures are provided
 
  Other: Northern Ireland: Common Funding Formula (CFF)
+
+- o Teachers are trained to combat stigmatisation28
+
+ Curricula are rid of all stereotypes29 and bias
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -1897,7 +1895,7 @@ The UK government in England is focused on supporting the most vulnerable and di
 
 The new government committed in July 2024 to introducing legislation for free breakfast clubs in every primary school and to limit the number of branded items of uniform and PE kits that a school can require, to bring down costs for parents and remove barriers from children accessing sport and other school activities.
 
-Also, the new UK Prime Minister announced, on 17 July 2024, the appointment of the Work & Pension Secretary and the Education Secretary to be the joint leads of a new ministerial taskforce to begin work on a Child Poverty Strategy. Further details can be found here: https://www.gov.uk/government/news/ministerial-taskforce-launched-to-kickstart-work-on-childpoverty-strategy The taskforce will harness all available levers to drive forward short-term and long-term actions across government to reduce child poverty, with a Child Poverty Strategy published in Spring next year. Further details on the taskforce can be found here: https://www.gov.uk/government/news/child-poverty-taskforce-kicks-off-urgent-work-to-publishstrategy-in-spring
+Also, the new UK Prime Minister announced, on 17 July 2024, the appointment of the Work & Pension Secretary and the Education Secretary to be the joint leads of a new ministerial taskforce to begin work on a Child Poverty Strategy. Further details can be found here: https://www.gov.uk/government/news/ministerial-taskforce-launched-to-kickstart-work-on-child-poverty-strategy The taskforce will harness all available levers to drive forward short-term and long-term actions across government to reduce child poverty, with a Child Poverty Strategy published in Spring next year. Further details on the taskforce can be found here: https://www.gov.uk/government/news/child-poverty-taskforce-kicks-off-urgent-work-to-publish-strategy-in-spring
 
 DfE in England have a range of support in place for pupils, families, and schools:
 
@@ -1909,21 +1907,19 @@ In England over £1bn is spent per annum delivering free lunches, this includes 
 
 > 29 Supra note 16.
 
-- o Teachers are trained to combat stigmatisation 28
-
- Curricula are rid of all stereotypes 29  and bias protections policy in place, which means that eligible pupils currently keep their FSM entitlement even if their circumstances change.
-
 49
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
+protections policy in place, which means that eligible pupils currently keep their FSM entitlement even if their circumstances change.
+
 Since the Education Act 1996, maintained schools and academy sixth forms have been required to provide free meals to disadvantaged students who are aged over 16. Since 1 September 2014, all FE institutions funded by ESFA have had to offer free meals to their eligible students as part of their funding agreements. Funding at a rate equivalent to £2.53 per student per meal is being provided to institutions in the academic year 2023 to 2024. The amount of funding provided to individual institutions depends on the estimated number of free meals that will be taken at each institution. Approximately 90,000 disadvantaged 16 to 18 year old students attending FE institutions claim free meals each year. This provides all students in FE with the same support, regardless of where they choose to study. Institutions are able to make use of cashless systems and other methods to ensure that those who are eligible for a free meal are not identified separately, removing any stigma for receiving the benefit.
 
 Since 2021, DfE has provided more than £200 million of funding every year to LAs across England for holiday provision for school-aged children from reception to year 11 (inclusive) who receive benefits-related free school meals, and other families that most need it. The National School Breakfast Programme (NSBP) has been operating since 2018 to set up or improve breakfast clubs in deprived areas. Currently up to £35m is being invested until July 2025. This funding is reaching up to 2,700 primary and secondary schools in disadvantaged areas.
 
-In addition, the Early Years Pupil Premium (EYPP) in England which is additional funding given to early years providers to improve the education they provide to eligible three and four-yearolds has increased up to £388 per eligible child per year in 2024-25 up from up to £353 in 2023-24 to give young disadvantaged children a good start in life.
+In addition, the Early Years Pupil Premium (EYPP) in England which is additional funding given to early years providers to improve the education they provide to eligible three and four-year-olds has increased up to £388 per eligible child per year in 2024-25 up from up to £353 in 2023-24 to give young disadvantaged children a good start in life.
 
 The 16 to 19 Bursary Fund in England targets support at young people who most need help with the costs of staying on in post-16 education and training. The Fund has two elements: bursaries for defined vulnerable groups of up to £1,200 a year where they need financial support to participate in their education; and bursaries which institutions award to meet individual needs.  Both elements provide funding to young people aged between 16 and 19 who need financial support with costs to stay in FE.
 
@@ -1935,11 +1931,11 @@ The student finance system supports around 1.3 million undergraduate students in
 
 - Higher rates of loan for living costs for undergraduate students eligible for benefits such as lone parents on low incomes.
 
-£8.7 billion of loans for living costs were issued to undergraduate students in financial year 2023-24.
+- £8.7 billion of loans for living costs were issued to undergraduate students in financial year 2023-24.
 
 - Additional means-tested grant support for full-time undergraduate students with adult and child dependants with the most support for students from low income households.
 
-- Disabled Students' Allowance, a grant for students obliged to incur additional study -related costs in higher education due to a disability (this is not means-tested).
+- Disabled Students' Allowance, a grant for students obliged to incur additional study-related costs in higher education due to a disability (this is not means-tested).
 
 - Maximum loans and grants for living costs for undergraduate students are set each year through amendments to the Education (Student Support) Regulations 2011. Maximum loans and grants increased by 3.1% for 2021/22 academic year; 2.3% for 2022/23; 2.8% for 2023/24; 2.5% for 2024/25.
 
@@ -1953,11 +1949,11 @@ has provided funding for access and participation of £313m in AY2021/22, £325m
 
 ##### Wales
 
-The Pupil Development Grant in Wales is funding for schools and settings to raise the attainment of children and young people from low-income households and those who are careexperienced. It does this by reducing the barriers that they often face to achieving their full potential.
+The Pupil Development Grant in Wales is funding for schools and settings to raise the attainment of children and young people from low-income households and those who are care-experienced. It does this by reducing the barriers that they often face to achieving their full potential.
 
 The Tackling the Impact of Poverty on Education Programme in Wales supports schools to reduce the cost of the school day and mitigate the impact of poverty upon learner wellbeing and attainment.
 
-Community Focused Schools is a key part of the Welsh Gove rnment's policy to tackle the impact of poverty on attainment. Our ambition is for all schools in Wales to be Community Focused Schools - responding to the needs of their community, building a strong partnership with families and collaborating effectively with other services. The Programme for Government 2021-2026 commits the Welsh Government to: Invest in the learning environment of Community Focused Schools, co-locating key services, and securing stronger engagement with parents and carers outside traditional hours.
+Community Focused Schools is a key part of the Welsh Government's policy to tackle the impact of poverty on attainment. Our ambition is for all schools in Wales to be Community Focused Schools - responding to the needs of their community, building a strong partnership with families and collaborating effectively with other services. The Programme for Government 2021-2026 commits the Welsh Government to: Invest in the learning environment of Community Focused Schools, co-locating key services, and securing stronger engagement with parents and carers outside traditional hours.
 
 ###### Higher Education
 
@@ -1969,9 +1965,9 @@ The Welsh Government provides generous HE student maintenance support, including
 
 ##### Northern Ireland
 
-'A Fair Start' report compiled by an Expert Panel on educational underachievement in June 2021, delivers on a commitment within the 'New Decade, New Approach' agreement which set out the requirement for an expert group 'to examine and address links between persistent educational underachievement and socio-economic background, including the long-standing issues facing workingclass, Protestant boys'. The original report identified 8 Key Areas and 47 actions spread across 6 years and beyond. Work is progressing despite significant funding pressures with 46 actions being progressed in 2024/25.
+'A Fair Start' report compiled by an Expert Panel on educational underachievement in June 2021, delivers on a commitment within the 'New Decade, New Approach' agreement which set out the requirement for an expert group 'to examine and address links between persistent educational underachievement and socio-economic background, including the long-standing issues facing working-class, Protestant boys'. The original report identified 8 Key Areas and 47 actions spread across 6 years and beyond. Work is progressing despite significant funding pressures with 46 actions being progressed in 2024/25.
 
-Northern Ireland will introduce a significant new programme to deliver on the mission, set by the report 'A Fair Start ', to ensure all children and young people regardless of background are given the best start in life. Addressing Key Area 4 of that report, DE will introduce a whole community place-based approach in a large number of geographical areas of socio-economic disadvantage across Northern Ireland to support the DE 's vision that 'every child is happy, learning and succeeding'
+Northern Ireland will introduce a significant new programme to deliver on the mission, set by the report 'A Fair Start', to ensure all children and young people regardless of background are given the best start in life. Addressing Key Area 4 of that report, DE will introduce a whole community place-based approach in a large number of geographical areas of socio-economic disadvantage across Northern Ireland to support the DE's vision that 'every child is happy, learning and succeeding'
 
 Creating inclusive, welcoming environments for all young people, including those from deprived background, is a key feature of youth service provision which is available free of charge to all young people who voluntarily engage.
 
@@ -1999,7 +1995,7 @@ Free school meals are available for all children in primaries 1 to 5, as well as
 
 Since 2021 the Scottish Government has provided funding to ensure the removal of curriculum charges for all public primary and secondary pupils, with £8m being committed for 2024-25. This ensures that pupils and their families do not have to meet the costs of resources and materials for practical lessons, and also removes cost as a factor when young people are making choices about their education. This includes the removal of costs associated with preparation for courses or qualifications which form part of a school's 'core offer' in public secondary schools.
 
-Additionally, Section 11(1) of the Education (Scotland) Act 1980 ('the 1980 Act') stipulates that education authorities are to provide free of charge for all pupils belonging to their area who are given free education books, writing materials, stationery, mathematical instruments, practice material and other articles which are necessary to enable the pupils to take full advantage of the education provided .
+Additionally, Section 11(1) of the Education (Scotland) Act 1980 ('the 1980 Act') stipulates that education authorities are to provide free of charge for all pupils belonging to their area who are given free education books, writing materials, stationery, mathematical instruments, practice material and other articles which are necessary to enable the pupils to take full advantage of the education provided.
 
 There are a number of Scottish Government policies which aim to widening access to higher education for students from socio-economically deprived backgrounds. This includes the target that by 2030, 20% of all full-time first degree entrants to higher education should come from the 20% most deprived areas in Scotland. Additionally, all universities in Scotland have minimum entry requirements in place for students with experience of disadvantage (including deprivation), meaning they can be made offers of entry with lower grade requirements than is typically the case.
 
@@ -2017,13 +2013,13 @@ Disadvantaged pupils and those with additional needs are more likely to fall beh
 
 Before the pandemic, in England the primary and secondary school attainment gaps between disadvantaged pupils and their peers had grown between 2019 and 2022, having broadly narrowed over the previous 8 years. In 2023 the disadvantage gap index at secondary has continued to increase to its highest level since 2011, however at primary the disadvantage gap index remains stable between 2022 and 2023. This suggests that disruption to learning during the COVID-19 pandemic continues to have a greater impact on disadvantaged pupils than other pupils, but that this impact has stabilised at primary and is just starting to recover in some subjects.
 
-We also know that for too many children, living in poverty robs them of the opportunity to learn and to prosper. Child poverty has gone up by 700,000 since 2010, with over four million children now growing up in a lowincome family. This not only harms children's lives now, but it also damages their future prospects, and holds back our economic potential as a country. That is why, as outlined in the section above, the Prime Minister has announced a Child Poverty Taskforce.
+We also know that for too many children, living in poverty robs them of the opportunity to learn and to prosper. Child poverty has gone up by 700,000 since 2010, with over four million children now growing up in a low-income family. This not only harms children's lives now, but it also damages their future prospects, and holds back our economic potential as a country. That is why, as outlined in the section above, the Prime Minister has announced a Child Poverty Taskforce.
 
 # 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 ## 2.1 Early childhood care and education
 
-For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 30 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 31 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 30 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 31. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -2031,15 +2027,13 @@ For reference: Early childhood care and education (ECCE) is not explicitly provi
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services are accessible on a non-discriminatory basis
+
+ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 > 30 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
-> Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes
-
-> 31 ECCE'
-
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+> 31 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
 
 53
 
@@ -2051,7 +2045,7 @@ For reference: Early childhood care and education (ECCE) is not explicitly provi
 
 ##### UK Government
 
-Registered providers of early years provision in England are required to meet the requirements set out in the EYFS framework. The EYFS is made up of three sections: learning and development requirements (Section 1) assessment requirements (Section 2) and safeguarding and welfare requirements (Section 3). These sections include requirements around early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play. The DfE also has an online servic e ' Help for Early Years Providers ' which features information and resources to support childminders and staff in PVI settings to understand and implement the EYFS.
+Registered providers of early years provision in England are required to meet the requirements set out in the EYFS framework. The EYFS is made up of three sections: learning and development requirements (Section 1) assessment requirements (Section 2) and safeguarding and welfare requirements (Section 3). These sections include requirements around early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play. The DfE also has an online service 'Help for Early Years Providers' which features information and resources to support childminders and staff in PVI settings to understand and implement the EYFS.
 
 Ofsted is primarily responsible for the registration and regulation of early years provision in England, including ensuring compliance with the requirements set out in the EYFS. Childminder agencies are directly responsible for the registration, regulation and quality assurance of early years providers registered with them, although Ofsted is responsible for the registration, regulation and inspection of childminder agencies.
 
@@ -2081,29 +2075,31 @@ The plan places the child and child development at the heart of everything and h
 
 The Welsh Government are committed to enabling all babies and young children to benefit from accessible, inclusive, high-quality play, learning and care experiences in Welsh, English or bilingually.
 
-On 30 June 2023 as part of our ECPLC approach for 0 -5-year-olds in Wales, a number of documents were published, to support practitioners in providing quality early childhood play, learning and care:
+On 30 June 2023 as part of our ECPLC approach for 0–5-year-olds in Wales, a number of documents were published, to support practitioners in providing quality early childhood play, learning and care:
 
-- A Quality Framework for Early Childhood Play, Learning and Care in Wales.
+1. A Quality Framework for Early Childhood Play, Learning and Care in Wales.
 
-- Early Childhood Play, Learning and Care in Wales: A Reflective Practice Toolkit
+2. Early Childhood Play, Learning and Care in Wales: A Reflective Practice Toolkit
 
-- Early Childhood Play, Learning and Care: Developmental Pathways for 0-3
+3. Early Childhood Play, Learning and Care: Developmental Pathways for 0-3
 
 The aim of the Quality Framework is to ensure that no matter which setting a child attends, be it a school, day care or a childminder, expectations of their experience, of how they are supported and nurtured are the same and quality ECPLC is provided, which meets the requirements of the Curriculum for Wales, and the National Minimum Standards for Regulated Childcare in Wales, for all children.
 
-Flying Start provides fully funded quality childcare which is offered to parents/carers of all eligible 2-3 year olds for 2 and a half hours a day, 5 days a week for 39 weeks a year. Children living in Flying Start areas become eligible for free childcare the term after their 2nd birthday until the term after their 3rd birthday. Flying Start childcare helps to prepare children for entry to learning within the Curriculum for Wales at age 3.  The provision of high quality, part-time childcare is integral to the Flying Start programme. The Welsh Governments' programme commits them to continue the Flying Start programme and, in line with the Co-operation Agreement with Plaid Cymru, they have extended this commitment to deliver a phased expansion of early years provision to include all two-yearolds, with a particular emphasis on strengthening Welsh-medium provision .
+Flying Start provides fully funded quality childcare which is offered to parents/carers of all eligible 2-3 year olds for 2 and a half hours a day, 5 days a week for 39 weeks a year. Children living in Flying Start areas become eligible for free childcare the term after their 2nd birthday until the term after their 3rd birthday. Flying Start childcare helps to prepare children for entry to learning within the Curriculum for Wales at age 3. The provision of high quality, part-time childcare is integral to the Flying Start programme. The Welsh Governments' programme commits them to continue the Flying Start programme and, in line with the Co-operation Agreement with Plaid Cymru, they have extended this commitment to deliver a phased expansion of early years provision to include all two-year-olds, with a particular emphasis on strengthening Welsh-medium provision.
 
 ##### Northern Ireland
 
 On 23 May 2024, the Minister of Education made a Written Ministerial Statement  setting out a package of measures for early learning and childcare in the 2024/25 financial year. It represents the most significant enhancement of early years investment within Northern Ireland in decades and demonstrates that the Northern Ireland Executive is committed to making support for young children, their families and the services they rely on, a top priority.
 
-The package of measures is designed to; stabilise and support expansion of the early learning and childcare sector, over time, offer all children in the target age group 22.5 hours per week funded pre-school provision, reduce the costs of childcare for working parents and build the evidence base necessary to inform development of a longer-term strategy. It is an ambitious programme which will ease current pressures on parents and providers and lay a firm foundation for the future.
+The package of measures is designed to; stabilise and support expansion of the early learning and childcare sector, over time, offer all children in the target age group 22.5 hours per week funded pre-school provision, reduce the costs of childcare for working parents and build the evidence base necessary to inform development of a longer-term
 
 55
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
+
+strategy. It is an ambitious programme which will ease current pressures on parents and providers and lay a firm foundation for the future.
 
 The current pre-school education programme has 40% of children receiving 22.5 funded hours per week and 60% receiving a minimum of 12.5 hours.
 
@@ -2121,7 +2117,7 @@ The Early Level in Scotland's Curriculum for Excellence deliberately spans from 
 
 Setting the Table, nutritional guidance, supports settings to provide healthy snacks and meals that meet individual cultural and dietary needs. It notes that parents and carers should be consulted about how other dietary preferences might be accommodated.
 
-The Scottish Governments early years practice guidance, ' Realising the Ambition: Being Me ,' (published in 2020) gives teachers and practitioners clear information and guidance on early childhood development and how they can most effectively meet babies and children's needs, working in partnership with families and taking account of their cultu ral and socio-economic circumstances. It advocates for relationship-centred, responsive care and early education underpinned by what children tell us through their 'actions, emotions and words'.
+The Scottish Governments early years practice guidance, 'Realising the Ambition: Being Me,' (published in 2020) gives teachers and practitioners clear information and guidance on early childhood development and how they can most effectively meet babies and children's needs, working in partnership with families and taking account of their cultural and socio-economic circumstances. It advocates for relationship-centred, responsive care and early education underpinned by what children tell us through their 'actions, emotions and words'.
 
 The Scottish Government is responsible for child protection in Scotland. Policy, legislation and statutory guidance are in place for all those working with children.
 
@@ -2155,7 +2151,7 @@ These are statutory entitlements under section 1(1) and (1A) of the Education (S
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
-- What challenges were encountered in realizing early childhood care and education and preprimary education?
+- What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
 - o Limited access
 
@@ -2181,13 +2177,13 @@ These are statutory entitlements under section 1(1) and (1A) of the Education (S
 
 ##### Scotland
 
-Scotland is the only part of the UK to offer 1,140 hours a year of funded ELC to all three and four-year-olds and eligible two-yearolds regardless of their parents' working status. Uptake of funded ELC remains high - according to the ELC Census the estimated uptake rate for ages three and four was 97% in 2023.
+Scotland is the only part of the UK to offer 1,140 hours a year of funded ELC to all three and four-year-olds and eligible two-year-olds regardless of their parents' working status. Uptake of funded ELC remains high - according to the ELC Census the estimated uptake rate for ages three and four was 97% in 2023.
 
 Latest Care Inspectorate ELC data for 2022 (published on 31 October 2023) show that the quality of funded early learning and childcare services remains high overall, with 90.1% of funded providers found to be good or better in all quality key questions.  The proportion of services evaluated as weak or unsatisfactory across all quality key questions remains very low.  Independent research (ELC Parent Survey 2022) showed that 97% of parents and carers who had a 3-5 year-old child in funded ELC were satisfied with the quality of provision.
 
 ## 2.2 Primary and secondary education
 
-For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ### Primary education
 
@@ -2195,7 +2191,7 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
 ##### UK Government
 
-Mandatory full-time education begins from the 31 August, 31 December, or 31 March after a child' s 5 th birthday (or on their birthday if it falls on one of those days) but parents also have the option of enrolling their children in school, full time, from the September following their 4 th  birthday (or even earlier if the school agrees), and most do. Compulsory education ends on the last Friday in June of the school year in which the child reaches the age of 16.
+Mandatory full-time education begins from the 31 August, 31 December, or 31 March after a child's 5th birthday (or on their birthday if it falls on one of those days) but parents also have the option of enrolling their children in school, full time, from the September following their 4th birthday (or even earlier if the school agrees), and most do. Compulsory education ends on the last Friday in June of the school year in which the child reaches the age of 16.
 
 Section 2 of the Education Act 1996 defines primary education as education suitable for children aged from 2 years up to (but not including) 10 years and 6 months plus such older children (up to but not including the age of 12) as it is expedient to educate with them.
 
@@ -2203,7 +2199,7 @@ Primary education is typically provided in primary schools but there are also mi
 
 ##### Wales
 
-Age 4 -11 years.
+Age 4 – 11 years.
 
 ##### Northern Ireland
 
@@ -2231,7 +2227,7 @@ School starting age is normally five. Primary education lasts 7 years.
 
 ##### UK Government
 
-In England education is compulsory for all children from approximately the age of 5 (see above). All children of compulsory school age (roughly 5 to 16 -see above) are entitled to free state education suitable to their needs' .
+In England education is compulsory for all children from approximately the age of 5 (see above). All children of compulsory school age (roughly 5 to 16 – see above) are entitled to free state education suitable to their needs'.
 
 State primary schools receive funding through their LA or directly from the government. Local authorities have a statutory duty under section 14 of the Education Act 1996 to ensure that there are sufficient schools for providing primary education for all children living in their area, with a view to securing diversity of provision and increasing opportunities for parental choice and having particular regard to the need for special educational provision for pupils who have special educational needs. The Department provides capital funding to support LAs to meet their statutory duty to provide sufficient schools.
 
@@ -2249,9 +2245,9 @@ Section 444 of the Education Act 1996 sets out the situations in which an absent
 
 ###### School Transport
 
-In England DfE 's school travel policy aims to make sure that no child is prevented from accessing education by a lack of transport. LAs must make travel arrangements, free of charge, for eligible children. A child is eligible if they are of compulsory school age (5-16), attend their nearest suitable school and:
+In England DfE's school travel policy aims to make sure that no child is prevented from accessing education by a lack of transport. LAs must make travel arrangements, free of charge, for eligible children. A child is eligible if they are of compulsory school age (5-16), attend their nearest suitable school and:
 
-- It is beyond the statutory walking distance -2 miles for pupils under 8 and 3 miles for those aged 8-16; or
+- It is beyond the statutory walking distance – 2 miles for pupils under 8 and 3 miles for those aged 8-16; or
 
 - They cannot reasonably be expected to walk to school because of their special educational needs (SEN), disability or mobility problems; or
 
@@ -2309,7 +2305,7 @@ The Scottish Government will also be publishing school uniform guidance for loca
 
 - o  Poor learning outcomes in:
 
-Foundation literacy o Poor quality programmes o High dropout rates o Other:
+Foundation literacy
 
 61
 
@@ -2317,13 +2313,21 @@ Foundation literacy o Poor quality programmes o High dropout rates o Other:
 
 [[START OF PAGE 62]]
 
-Numeracy Social and emotional learning
+- o High dropout rates
+
+- o Poor quality programmes
+
+- o Other:
+
+Numeracy
+
+Social and emotional learning
 
 Others
 
- Disparity in learning outcomes o Low number of professionally trained
+ Disparity in learning outcomes
 
-- teachers
+- o Low number of professionally trained teachers
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -2345,19 +2349,21 @@ See explanation in primary education section.
 
 In England Section 2 of the Education Act 1996 defines secondary education as education suitable for children of compulsory school age who are at least 12 years old, plus children aged at least 10 years and 6 months who it is expedient to educate together with them; education for people over compulsory school age but under 19 also counts as secondary education if it is provided in a school alongside education for the 12+ age-group just mentioned. In some circumstances education for other age-groups may also count as secondary education.
 
-Further education (as defined in section 2) is education suitable to anyone over compulsory school age that is not secondary or higher education (and organised leisuretime occupation provided in association with it).
+Further education (as defined in section 2) is education suitable to anyone over compulsory school age that is not secondary or higher education (and organised leisure-time occupation provided in association with it).
 
 ##### Wales
 
-Statutory education is from age 4 -16 and available across all of Wales.
+Statutory education is from age 4 – 16 and available across all of Wales.
 
 ##### Northern Ireland
 
-When a child reaches the age of four on or between 1 September and 1 July, the child will usually begin their education at the beginning of the next school year (September).  Where a child reaches the age of four on or between 2 July and 31 August in the same calendar year, the child will start school in the September following their fifth birthday.  Children complete seven years of primary education before transferring to secondary education. Secondary education covers seven years, the first five of which are compulsory.
+When a child reaches the age of four on or between 1 September and 1 July, the child will usually begin their education at the beginning of the next school year (September). Where a child reaches the age of four on or between 2 July and 31 August in the same calendar year, the child will start school in the September following their fifth birthday. Children
 
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
+
+complete seven years of primary education before transferring to secondary education. Secondary education covers seven years, the first five of which are compulsory.
 
 ##### Scotland
 
@@ -2381,8 +2387,6 @@ Scotland doesn't have separate lower and upper secondary education.
 
 - Is lower and upper secondary education compulsory and free of charge?
 
-- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
-
  Lower secondary education is compulsory.
 
  Lower secondary education is not compulsory.
@@ -2399,9 +2403,11 @@ Scotland doesn't have separate lower and upper secondary education.
 
  Upper secondary education is not free of charge.
 
+- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
+
 ##### UK Government
 
-All children of compulsory school age in England (approximately 5 to 16 -see above) are entitled to free state education suitable to their needs.
+All children of compulsory school age in England (approximately 5 to 16 – see above) are entitled to free state education suitable to their needs.
 
 In England state secondary schools receive funding through their LA or directly from the government. LAs have a statutory duty under section 14 of the Education Act 1996 to ensure that there are sufficient schools for providing secondary education for all children living in their area, with a view to securing diversity of provision and increasing opportunities for parental choice and having particular regard to the need for special educational provision for pupils who have special educational needs. DfE provides capital funding to support LAs meet their statutory duty to provide sufficient schools and also capital funding to address condition needs of schools buildings.
 
@@ -2427,9 +2433,9 @@ See details on school transport in the primary education section above.
 
 The Education and Skills Act 2008 requires all young people in England who have not attained a level 3 qualification, to continue in education or training until at least their 18th birthday. The Education and Skills Act 2008 placed two Raising the Participation Age related duties on LAs with regard to 16- and 17-year-olds:
 
-- LAs must promote the effective participation in education and training of 16- and 17year-olds in their area with a view to ensuring that those persons fulfil the duty to participate in education or training. A key element of this is identifying the young people in their area who are covered by the duty to participate and encouraging them to find a suitable education or training place.
+- LAs must promote the effective participation in education and training of 16- and 17-year-olds in their area with a view to ensuring that those persons fulfil the duty to participate in education or training. A key element of this is identifying the young people in their area who are covered by the duty to participate and encouraging them to find a suitable education or training place.
 
-- LAs must make arrangements -that is, maintain a tracking system - to identify 16- and 17-year-olds who are not participating in education or training. Putting in place robust arrangements to identify young people who are not engaged in education or training or who have left provision enables LAs to offer support as soon as possible.
+- LAs must make arrangements – that is, maintain a tracking system – to identify 16- and 17-year-olds who are not participating in education or training. Putting in place robust arrangements to identify young people who are not engaged in education or training or who have left provision enables LAs to offer support as soon as possible.
 
 - LAs should also pay particular attention to young people with special educational needs and disabilities (SEND), who are significantly less likely to participate than their peers without SEND, and provide targeted support where needed to enable them to participate.
 
@@ -2445,7 +2451,7 @@ In England, the Education Act 1996 sets out relevant statutory provisions in rel
 
 issues statutory guidance to LAs who must have regard to it when carrying out their duties in developing their transport policy and publishing their transport policy statements for young people of sixth form age and adults aged 19 and over (including those with an Education, Health and Care (EHC) plan) in education and training.
 
-The statutory responsibility for transport for 16 -19-year-olds (who have started a course before their 19th birthday) rests with LAs. LAs have a duty to prepare and publish an annual transport policy statement specifying the arrangements for the provision of transport, or otherwise that the authority considers necessary, to make to facilitate the attendance of all persons of sixth form age receiving education or training.
+The statutory responsibility for transport for 16–19-year-olds (who have started a course before their 19th birthday) rests with LAs. LAs have a duty to prepare and publish an annual transport policy statement specifying the arrangements for the provision of transport, or otherwise that the authority considers necessary, to make to facilitate the attendance of all persons of sixth form age receiving education or training.
 
 The sixth form age duty applies to young people of sixth form age and young people with EHC plans up to age 25 where they are continuing on a course started before their 19th birthday. The transport needs of young people with special educational needs and disabilities must be reassessed when a young person moves from compulsory schooling to post-16 education.
 
@@ -2463,13 +2469,13 @@ School education in Scotland is free and the entitlement of all children and you
 
 For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yes (UK -England)  No  (Scotland)
+Yes (UK – England)  No  (Scotland)
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
 ##### UK Government
 
-Section 18 of the Children and Young Persons Act 1933 sets out the age limits and restrictions on the hours that children can work, along with the type of work in which they can be involved. Subject to certain exceptions, children under the age of 14 may not be employed (LAs may authorise the employment of 13-year-old children in certain limited circumstances). Children aged 14 and over and not over compulsory school age may only be employed in 'light work', subject to restrictions on hours and type of work . The relevant restrictions ensure that children do not engage in work that is likely to be harmful to their school attendance or during school hours.
+Section 18 of the Children and Young Persons Act 1933 sets out the age limits and restrictions on the hours that children can work, along with the type of work in which they can be involved. Subject to certain exceptions, children under the age of 14 may not be employed (LAs may authorise the employment of 13-year-old children in certain limited circumstances). Children aged 14 and over and not over compulsory school age may only be employed in 'light work', subject to restrictions on hours and type of work. The relevant restrictions ensure that children do not engage in work that is likely to be harmful to their school attendance or during school hours.
 
 65
 
@@ -2495,6 +2501,12 @@ Minimum age for employment is 13.  Minimum age for full time employment is 16 (e
 
 - Disparity in learning outcomes
 
+- o Poor learning outcomes
+
+- o Low readiness of primary graduates
+
+ Low number of professionally trained teachers
+
 - Please elaborate. Brief quantitative information may be added.
 
 ##### UK Government
@@ -2517,12 +2529,6 @@ The proportion of school leavers from the most deprived areas in Scotland that a
 
 ## 2.3 Higher education
 
-- o Poor learning outcomes
-
-- o Low readiness of primary graduates
-
- Low number of professionally trained teachers
-
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
@@ -2541,7 +2547,7 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
 - o   Higher education is accessible through credit transfer system between states
 
- Higher education allows for multiple and flexible learning pathways (flexible entry and re- entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
+ Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
 - o Other:
 
@@ -2585,7 +2591,7 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
 ##### Northern Ireland
 
-The Department for the Economy makes available some mean-tested grant support for eligible full-time higher education students undertaking degree or equivalent level qualifications. This includes a maintenance grant or special support grant to help with living costs. There is also targe ted grant support in the form of Disabled Students' Allowances, the Childcare Grant, Adult Dependants Grant and Parents Learning Allowance. Eligible part-time higher education students can also access grant support through the Fee Grant to help towards their fees and the Course Grant to help with things such as books.
+The Department for the Economy makes available some mean-tested grant support for eligible full-time higher education students undertaking degree or equivalent level qualifications. This includes a maintenance grant or special support grant to help with living costs. There is also targeted grant support in the form of Disabled Students' Allowances, the Childcare Grant, Adult Dependants Grant and Parents Learning Allowance. Eligible part-time higher education students can also access grant support through the Fee Grant to help towards their fees and the Course Grant to help with things such as books.
 
 ##### Scotland
 
@@ -2617,6 +2623,10 @@ Higher Education Governance (Scotland) Act 2016: Made provision about the compos
 
 - o Other:
 
+- o Low number of professionally trained professors
+
+ Insufficient mechanisms to ensure smooth transition from secondary to tertiary
+
 - Please elaborate. Brief quantitative information may be added.
 
 ##### UK Government
@@ -2633,11 +2643,7 @@ The OfS will conduct a quality assessment before reaching a decision about wheth
 
 The OfS also opened eight separate investigations into business and management courses, three into computing courses and three into concerns around grade inflation, and is in the process of publishing the reports.
 
-The OfS is also subject to the PSED and has a public law obligation to consider wider factors which could include student characteristics. It must act proportionately and will consider a range of different contextual factors that may explain the reasons for a provider's performance before r eaching any final judgement. The OfS explained how it will take contextual factors into account in the regulatory advice it published in September
-
-- o Low number of professionally trained professors
-
- Insufficient mechanisms to ensure smooth transition from secondary to tertiary
+The OfS is also subject to the PSED and has a public law obligation to consider wider factors which could include student characteristics. It must act proportionately and will consider a range of different contextual factors that may explain the reasons for a provider's performance before reaching any final judgement. The OfS explained how it will take contextual factors into account in the regulatory advice it published in September
 
 69
 
@@ -2693,11 +2699,11 @@ Youth Service provision covers ages 4-25 (with 18-25 year olds regarded as adult
 
 ###### Provision of education for persons who have not received or completed the whole period of their primary education
 
-In England all adults are entitled to be fully funded for GCSE maths and English, or functional skills qualifications, if they are assessed as not having grade 4. Additionally, 19 -23-year-old learners have the following statutory entitlements which are designed to enable them to catch up on learning they may have missed in compulsory education:
+In England all adults are entitled to be fully funded for GCSE maths and English, or functional skills qualifications, if they are assessed as not having grade 4. Additionally, 19–23-year-old learners have the following statutory entitlements which are designed to enable them to catch up on learning they may have missed in compulsory education:
 
-- Essential digital skills for those learners assessed as being at below level
+1. Essential digital skills for those learners assessed as being at below level
 
-- First full level 2 and level 3 qualification.
+2. First full level 2 and level 3 qualification.
 
 ###### Provision of literacy programmes
 
@@ -2713,9 +2719,9 @@ The Adult Education Budget in England, now known as the Adult Skills Fund (ASF),
 
 In England, the provision of free learning depends on the age of the learner. All adults are entitled to:
 
-- be fully funded to achieve up to and including level 2 in English and maths.
+1. be fully funded to achieve up to and including level 2 in English and maths.
 
-- be fully funded to achieve an essential digital skills qualification up to and including level 1.
+2. be fully funded to achieve an essential digital skills qualification up to and including level 1.
 
 Learners aged 19 to 23 have a legal entitlement to be fully funded for their first full level 2 and level 3 qualification.
 
@@ -2739,7 +2745,7 @@ Tailored Learning within the ASF includes non-formal and informal learning and i
 
 Through careers education, information, advice and guidance, the UK Government helps people to develop the knowledge and skills they need to make successful choices, manage transitions in learning and move into work.
 
-Funding of circa £50m is being provided during the 20224-25 financial year for the National Careers Service to provide free, up to date, impartial information, advice and guidance on careers, skills and the labour market in England. It helps customers make informed choices about their career options, whatever their age, ethnic group and background.  The Service is built around identifying and supporting those who face significant barriers to making progress into work or learning and offers in-depth, tailored support to customers who fall into one or more of 6 priority groups: adults aged 50 and over and who are unemployed, or at demonstrable risk of unemployment; low skilled adults without a qualification at level 3 and below;  people with learning difficulties and disabilities; adults who have been unemployed over 12 months; 18 -24-year-olds not in education, employment or training (NEET); single parents with at least one dependent child living in the same household.
+Funding of circa £50m is being provided during the 20224-25 financial year for the National Careers Service to provide free, up to date, impartial information, advice and guidance on careers, skills and the labour market in England. It helps customers make informed choices about their career options, whatever their age, ethnic group and background. The Service is built around identifying and supporting those who face significant barriers to making progress into work or learning and offers in-depth, tailored support to customers who fall into one or more of 6 priority groups: adults aged 50 and over and who are unemployed, or at demonstrable risk of unemployment; low skilled adults without a qualification at level 3 and below; people with learning difficulties and disabilities; adults who have been unemployed over 12 months; 18–24-year-olds not in education, employment or training (NEET); single parents with at least one dependent child living in the same household.
 
 In England, schools and colleges are legally required to provide independent careers guidance to all 11- to- 18-year-olds. Funding of circa £30m is being provided during the 2024-25 financial year for The Careers & Enterprise Company (CEC) to support schools and colleges to improve their careers offer. High-quality careers programmes boost the work readiness of young people, enabling them to acquire the skills they need to progress into sustainable jobs and careers in the future. This includes providing young people with information on the full range of education and training options, opportunities to meet employers and education and training providers, experiences of workplaces and a personal guidance interview.
 
@@ -2753,7 +2759,7 @@ Essential Skills qualifications, funded by the Department for the Economy, are f
 
 [[START OF PAGE 73]]
 
-Essential Skills deliver accredited, recognised qualifications for three key subject areas -Communication, Application of Number and Information, and Communications Technology. Essential Skills Communication and Application of Number are available from Entry Level 1 through to Level 2, and ICT is available at Levels 1 and 2.
+Essential Skills deliver accredited, recognised qualifications for three key subject areas – Communication, Application of Number and Information, and Communications Technology. Essential Skills Communication and Application of Number are available from Entry Level 1 through to Level 2, and ICT is available at Levels 1 and 2.
 
 DE is currently undertaking a review of Essential Skills to ensure that the qualifications remain relevant and retain academic currency. A key element of this review is an update of the Information and Communication Technology Qualification which ensures that the qualification is updated to reflect developments in technology to meet evolving needs and to support a high-quality vocational education system.
 
@@ -2810,19 +2816,19 @@ An independent review of Community Learning & Development, which includes adult 
 
 The FE sector plays an important role in providing the skills that UK needs, and we know that FE teachers are critical to securing good outcomes for young people and adults.
 
-In England there are vacancy rates of 5.5% across all subjects but reaching 12.9% (Construction, Planning and the Built Environment); 12.6% (Electronics); 12.1% (Agriculture and Horticulture); 11% (Design, Engineering and Manufacturing); and 10.1% (Accounting and Finance) 34 . The FE teacher retention rate has fallen for more recent cohorts especially after the first few years of teaching, with just over half (51 per cent) of teachers who started in 2016 still teaching after 3 years.
+In England there are vacancy rates of 5.5% across all subjects but reaching 12.9% (Construction, Planning and the Built Environment); 12.6% (Electronics); 12.1% (Agriculture and Horticulture); 11% (Design, Engineering and Manufacturing); and 10.1% (Accounting and Finance)34. The FE teacher retention rate has fallen for more recent cohorts especially after the first few years of teaching, with just over half (51 per cent) of teachers who started in 2016 still teaching after 3 years.
 
 In England, the previous UK Government increased the level of overall investment in the FE sector, so that providers could recruit, retain, and develop the staff they need to deliver high-quality education and training. This funding is helping FE colleges, sixth form colleges, and other FE providers to address key priorities, including the recruitment and retention of staff.
 
 ##### Northern Ireland
 
-For a variety of reasons, including a dip in the 16 -19 year old population (the main age group taking Essential Skills qualifications) and improvements in GCSE grades, annual enrolments in Essential Skills have been decreasing from a peak of 59,994 in 2010/11 to a low of 26,768 in 2019/20.
+For a variety of reasons, including a dip in the 16–19 year old population (the main age group taking Essential Skills qualifications) and improvements in GCSE grades, annual enrolments in Essential Skills have been decreasing from a peak of 59,994 in 2010/11 to a low of 26,768 in 2019/20.
 
 Essential Skills have a lower success rate. FE College statistics in 2022/23 showed a 56% success rate compared to 81% in other FE courses. This was not due to learner retention (which was 83% compared to 91%). While a free to access course aimed to help people who have historically faced barriers achieving a Level 2 qualification will have a lower success rate, the Department for the Economy keeps Essential Skills under review to ensure it remains an accessible and achievable qualification. The latest review has commissioned Stranmillis University College to make recommendations on how Essential Skills is assessed. It will also be refreshing the ICT curriculum. The literacy and numeracy curriculum was refreshed in 2016 which brought learning more into line with the learner's actual experience and needs.
 
 # 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, nonviolent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 > 34  https://explore-education-statistics.service.gov.uk/find-statistics/further-education-workforce/2021-22
 
@@ -2838,7 +2844,7 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
  Health and sanitation
 
- Safety (children learn in a safe environment free from violence or harassment, including schoolrelated gender-based violence (in and around schools))
+ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
 - o Infrastructure
 
@@ -2856,13 +2862,13 @@ Article 102 of the Education and Libraries (Northern Ireland) Order 1986 sets ou
 
 The Education (School Development Plans) Regulations (Northern Ireland) 2010 specify that every school must develop a Plan every three years and submit a copy to the school authorities.
 
-The Education (Curriculum Minimum Content) Order (Northern Ireland) 2007 sets out the statutory minimum curriculum requirements for primary and post primary education in Northern Ireland and defines the essential subjects and Areas of Learning that must be included in the curriculum throughout all Key Stages. School leaders and teachers are provided with flexibility to deliver a curriculum which is best suited to the needs of all their pupils .
+The Education (Curriculum Minimum Content) Order (Northern Ireland) 2007 sets out the statutory minimum curriculum requirements for primary and post primary education in Northern Ireland and defines the essential subjects and Areas of Learning that must be included in the curriculum throughout all Key Stages. School leaders and teachers are provided with flexibility to deliver a curriculum which is best suited to the needs of all their pupils.
 
 Education (Northern Ireland) Order 2006 specifies such assessment arrangements it considers appropriate for pupils in relation to (a) an area of learning (b) the cross-curricular skills; and (c) any other skill specified.
 
 ##### Scotland
 
-The framework for the provision of inspection functions is laid out in primary legislation -Education (Scotland) Act 1980. The legal framework provides for powers of inspection and where necessary follow up and improvement where there is insufficient improvement.
+The framework for the provision of inspection functions is laid out in primary legislation – Education (Scotland) Act 1980. The legal framework provides for powers of inspection and where necessary follow up and improvement where there is insufficient improvement.
 
 The School Premises (General Requirements and Standards) (Scotland) Regulations 1967 prescribe the broad minimum standards that school buildings must meet, including sanitation.
 
@@ -2888,13 +2894,13 @@ You may include information on policies, protocols or codes of conduct.
 
 ###### Monitoring and Inspections
 
-In England Ofsted is a nonministerial department of His Majesty's government and an independent inspectorate. Its responsibilities include the regular inspection of all state-funded schools. These inspections are undertaken under section 5 and section 8 of the Education Act 2005. Ofsted publishes an education inspection framework setting out inspection principles and the main judgments inspectors make and a school inspection handbook  setting out details of the inspections, including the timing, inspection approach, judgements made and reporting. Ofsted's school inspection reports are published on its website  Find an Ofsted inspection report.
+In England Ofsted is a non-ministerial department of His Majesty’s government and an independent inspectorate. Its responsibilities include the regular inspection of all state-funded schools. These inspections are undertaken under section 5 and section 8 of the Education Act 2005. Ofsted publishes an education inspection framework setting out inspection principles and the main judgments inspectors make and a school inspection handbook setting out details of the inspections, including the timing, inspection approach, judgements made and reporting. Ofsted’s school inspection reports are published on its website Find an Ofsted inspection report.
 
 Intervention or support action is carried out by DfE, as the regulator for schools, based on these judgements. Further detail on monitoring and inspections is set out in Section 4.
 
 ###### Health and Sanitation
 
-Please see information on sanitation in Section 1.2 Other relevant general measures .
+Please see information on sanitation in Section 1.2 - Other relevant general measures.
 
 ###### Safeguarding
 
@@ -2918,7 +2924,7 @@ The EYFS statutory framework for Group and School Based providers outlines the s
 
 Safeguarding, Child and Adult Protection arrangements are in place across state funded youth work provision. Groups need to provide evidence of meeting DE in Northern Ireland guidance in order to access funding.
 
-Inspection provides an independent evaluation of the quality of teaching and learning in all grantaided schools, providing assurance around education provision and safeguarding.
+Inspection provides an independent evaluation of the quality of teaching and learning in all grant-aided schools, providing assurance around education provision and safeguarding.
 
 School Development plans ensure that every school undertakes a process of self-evaluation and considers their priorities for the period ahead based on their own context and data with a focus on literacy, numeracy and ICT and ensured that schools set challenging but realistic targets to raise standards.
 
@@ -2928,25 +2934,25 @@ Also see Section 1 above regarding the Period Products (Free Provision) Act (Nor
 
 - What challenges were encountered in realizing quality education?
 
-- o Non-supportive or inadequate learning environments
+o Non-supportive or inadequate learning environments
 
  Violence in schools
 
-- o Cost of education
+o Cost of education
 
-- o Conflicts or crises
+o Conflicts or crises
 
  Other:
+
+o Low quality educational infrastructure and materials
+
+o Inadequate parental support to education
+
+o Long distances to schools
 
 ##### Northern Ireland
 
 Prolonged periods of industrial action in Northern Ireland dating back as far as 2011 and only recently ceasing in spring 2024, have resulted in non-compliance with Statutory Assessment returns and other data or information returns such as submission of School Development Plans and proposals for use of School Development Days that inform school improvement policy and identify trends and risks regarding around quality education.
-
-- o Low quality educational infrastructure and materials
-
-- o Inadequate parental support to education
-
-- o Long distances to schools
 
 77
 
@@ -2964,11 +2970,11 @@ Disruption to studies in further and higher education as a result of Covid-19 pa
 
 ##### Northern Ireland
 
-Industrial action in Northern Ireland resulted in school submission of end of key stage assessment data from high level of returns (77% of primary and 94% of post primary) in 2012/13 to very low levels in 2017/18 (14% of primary and 32% of post primary) calling into question the reliability of the data. Statutory Assessment has been disapplied since 2019/20 pending a review in line with the Teacher's Pay and Workload Agreement 2017 -19.
+Industrial action in Northern Ireland resulted in school submission of end of key stage assessment data from high level of returns (77% of primary and 94% of post primary) in 2012/13 to very low levels in 2017/18 (14% of primary and 32% of post primary) calling into question the reliability of the data. Statutory Assessment has been disapplied since 2019/20 pending a review in line with the Teacher’s Pay and Workload Agreement 2017-19.
 
-Compliance around submission of School Development Plans fell to around 50% pre-COVID due to industrial action. '
+Compliance around submission of School Development Plans fell to around 50% pre-COVID due to industrial action.’
 
-A significant number of inspections have been impacted by Action Short of Strike both before and after inspections were suspended due to COVID.  At least 20 schools have been in the follow-up process well in excess of agreed timelines for improvement due to an inability to demonstrate improvement due to non-engagement with inspection .
+A significant number of inspections have been impacted by Action Short of Strike both before and after inspections were suspended due to COVID. At least 20 schools have been in the follow-up process well in excess of agreed timelines for improvement due to an inability to demonstrate improvement due to non-engagement with inspection.
 
 ##### Scotland
 
@@ -3011,9 +3017,9 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 ###### Continuous Professional Development from initial teacher training to leadership
 In England, DfE have created an entitlement to at least three years of structured training, support and professional development for all new teachers underpinned by the Initial Teacher Training (ITT) Core Content Framework (CCF) and the Early Career Framework (ECF). The ITT CCF sets out a minimum entitlement of knowledge, skills and experiences that trainees need to enter the profession. Following on from their initial training, early career teachers (ECTs) will continue their journey by completing a new 2-year induction, underpinned by the ECF. The offer for ECTs includes time off timetable to undertake induction activities, high quality teaching materials and a dedicated mentor with support for mentors.
 
-In England, DfE have launched an updated suite of National Professional Qualifications (NPQs). These are for teachers and school leaders at all levels. There are five specialist NPQs, for those who want to broaden their existing knowledge, expertise, and skills in specialist areas of an e ducation professionals' practice, and five leadership NPQs to help boost leaders' existing knowledge and confidence as they progress into more senior roles.
+In England, DfE have launched an updated suite of National Professional Qualifications (NPQs). These are for teachers and school leaders at all levels. There are five specialist NPQs, for those who want to broaden their existing knowledge, expertise, and skills in specialist areas of an education professionals’ practice, and five leadership NPQs to help boost leaders’ existing knowledge and confidence as they progress into more senior roles.
 
-###### Initial Teacher Training -focus on quality
+###### Initial Teacher Training – focus on quality
 
 For recruitment of trainees for Initial Teacher Training (ITT) in England, ITT providers should consider the full range of applicants' knowledge, skills, academic background and prior experience to judge whether they have the capability to undertake an ITT course and meet the Teachers' Standards by the end of their training.
 
@@ -3029,7 +3035,7 @@ The work that is reserved to qualified teachers in maintained schools in accorda
 
 ###### Teacher Recruitment
 
-In England, DfE's reforms are aimed not only at increasing teacher recruitment in key subjects and areas -through an attractive pay offer and financial incentives such as bursaries -but also at ensuring teachers stay and thrive in the profession.
+In England, DfE’s reforms are aimed not only at increasing teacher recruitment in key subjects and areas – through an attractive pay offer and financial incentives such as bursaries – but also at ensuring teachers stay and thrive in the profession.
 
 The November 2022 average classroom teacher pay of over £40,000 remains significantly above the national average for full-time employees, sitting within the top 40% of earners. Last year, DfE accepted in full the School Teachers' Review Body's recommendations for the 2023/24 pay award for teachers and leaders. This means that teachers and leaders in maintained schools received a pay award of 6.5% - the highest pay award for teachers in over thirty years.
 
@@ -3043,11 +3049,11 @@ DfE are taking action to support teachers to stay in the profession. DfE has pub
 
 - The Education Staff Wellbeing Charter to build a shared commitment to promoting staff wellbeing.
 
-- The DfE School Workload Reduction Toolkit , a resource developed by school leaders for school leaders to review and reduce workload was recently updated to improve speed and navigability with the launch of our new 'improve workload and wellbeing for school staff' service.
+- The DfE School Workload Reduction Toolkit, a resource developed by school leaders for school leaders to review and reduce workload was recently updated to improve speed and navigability with the launch of our new ‘improve workload and wellbeing for school staff’ service.
 
 - A flexible working toolkit, providing practical resources to help school leaders implement flexible working and to support school staff to request it.
 
-DfE is funding a programme focused on embedding flexible working in schools, and multi academy trusts (MATs). This includes the delivery of supportive webinars and the appointment of flexible working ambassador schools and MATs. These schools and MATs champion flexible working and provide bespoke peer support, building on the work of the ambassador schools DfE funded from March 2021 -December 2022.
+DfE is funding a programme focused on embedding flexible working in schools, and multi academy trusts (MATs). This includes the delivery of supportive webinars and the appointment of flexible working ambassador schools and MATs. These schools and MATs champion flexible working and provide bespoke peer support, building on the work of the ambassador schools DfE funded from March 2021 – December 2022.
 
 The DfE has been improving the quality of the data it holds on teachers with protected characteristics and the barriers these teachers face in the profession. The Working Lives of Teachers and Leaders longitudinal study, for instance, looks specifically at teacher experience, broken down by particular characteristics.
 
@@ -3055,19 +3061,19 @@ The DfE has been improving the quality of the data it holds on teachers with pro
 
 [[START OF PAGE 81]]
 
-In July 2023, under the previous Government, the DfE published Trust Quality Descriptors. The trust quality descriptions define what DfE want trusts to deliver, and for the first time have set expectations for trusts as employers to train and develop high-quality teachers and leaders, manage workload, prioritise wellbeing of their staff, and recognise their contribution to teacher and leader retention. On Equality, Diversity and Inclusion, DfE ' s expectation is that a highquality trust 'ensures inclusive working environments, supports flexible working and take action to promote equality and diversity'.
+In July 2023, under the previous Government, the DfE published Trust Quality Descriptors. The trust quality descriptions define what DfE want trusts to deliver, and for the first time have set expectations for trusts as employers to train and develop high-quality teachers and leaders, manage workload, prioritise wellbeing of their staff, and recognise their contribution to teacher and leader retention. On Equality, Diversity and Inclusion, DfE’s expectation is that a high-quality trust ‘ensures inclusive working environments, supports flexible working and take action to promote equality and diversity’.
 
 ###### Ensuring diversity within the teaching workforce, including overseas teachers
 
 The DfE wants to ensure that all services and programmes are inclusive and supportive of all teachers across their career journeys. Recruitment campaigns for initial teacher training are targeted at audiences of students, recent graduates and potential career changers regardless of their identity or background. Every effort is made to ensure that their advertising and marketing materials fully reflects this
 
-In England, the teaching profession is becoming more ethnically diverse. However, challenges still exist. In 2023/24, 16.2% of teacher identify as belonging to an ethnic minority group (up from 11.2% in 201011) compared to 29.2% of the working age population. In 2023/24, only 10.0% of Black or Black British teachers and 8.3% of Asian or Asian British teachers were in leadership positions compared to 15.9% of White British teachers.
+In England, the teaching profession is becoming more ethnically diverse. However, challenges still exist. In 2023/24, 16.2% of teacher identify as belonging to an ethnic minority group (up from 11.2% in 2010/11) compared to 29.2% of the working age population. In 2023/24, only 10.0% of Black or Black British teachers and 8.3% of Asian or Asian British teachers were in leadership positions compared to 15.9% of White British teachers.
 
 In 2021, Apply for Teacher Training , DfE's new application service for ITT in England, was rolled out nationally. Apply has been designed to be user-friendly including testing with a diverse range of potential applicants, to ensure it helps remove barriers to great teachers of all background applying for ITT courses.
 
 From the 2023/24 academic year, DfE extended bursary and scholarship eligibility to all non-UK national trainees in physics and languages. This means international physics trainees are eligible for scholarships worth £30,000 and bursaries worth £28,000. International languages trainees are eligible for bursaries worth £25,000 and scholarships of £27,000.
 
-In England, DfE also offer the international relocation payment (IRP) pilot payment worth up to £10,000, available to non-UK teachers of languages and physics starting in the 2023/24 and 2024/25 academic years. The payment is a contribution towards the costs they face in moving to England to teach -these include visas, the immigration health surcharge and other relocation expenses.
+In England, DfE also offer the international relocation payment (IRP) pilot payment worth up to £10,000, available to non-UK teachers of languages and physics starting in the 2023/24 and 2024/25 academic years. The payment is a contribution towards the costs they face in moving to England to teach – these include visas, the immigration health surcharge and other relocation expenses.
 
 In February 2023 DfE launched a new approach to awarding Qualified Teacher Status (QTS) to highly qualified overseas teachers, allowing teachers with qualifications from an increased number of countries and regions to gain QTS. Eligible teachers can now use the new digital service to apply for QTS in England, if their qualifications, skills, and experience meet the new criteria.
 
@@ -3075,7 +3081,7 @@ DfE also launched a new International Teaching Qualification-IQTS in September 2
 
 ##### Wales
 
-All accredited programmes of ITE in Wales are available to eligible applicants without discrimination. These programmes provide initial training to student teachers leading to the award of QTS which is a legal requirement to undertake the duties of a school teacher in a maintained setting. The requirements of QTS are part of the wider Professional standards for the teaching workforce. Marketing and advocacy programmes are in place to promote teaching as an attractive profession.
+All accredited programmes of ITE in Wales are available to eligible applicants without discrimination. These programmes provide initial training to student teachers leading to the award of QTS which is a legal requirement to undertake the duties of a school teacher in a
 
 81
 
@@ -3083,7 +3089,9 @@ All accredited programmes of ITE in Wales are available to eligible applicants w
 
 [[START OF PAGE 82]]
 
-Ensuring all practitioners have access to guaranteed career-long professional learning is central to the realisation of the vision for education in Wales and one of the enabling objectives in their 'Our national mission.' The national SLO survey, the school improvement framework and the professional standards, provide a firm foundation for schools and settings to identify professional learning priorities and develop a collaborative culture to support curriculum implementation and school improvement.
+maintained setting. The requirements of QTS are part of the wider Professional standards for the teaching workforce. Marketing and advocacy programmes are in place to promote teaching as an attractive profession.
+
+Ensuring all practitioners have access to guaranteed career-long professional learning is central to the realisation of the vision for education in Wales and one of the enabling objectives in their ‘Our national mission.’ The national SLO survey, the school improvement framework and the professional standards, provide a firm foundation for schools and settings to identify professional learning priorities and develop a collaborative culture to support curriculum implementation and school improvement.
 
 The National Professional Learning Entitlement (NPLE), which launched in 2022 ensures all practitioners in Wales have access to quality professional learning to enable high standards and aspirations for all. To fully implement the entitlement and ensure practitioners can access a range of high-quality professional learning programmes and experiences, a new rigorous and robust professional learning endorsement process launched in March 2024.
 
@@ -3123,25 +3131,25 @@ As part of the work of the AREP, the Scottish Government is committed to increas
 
  Shortages of teaching staff
 
-- o Lack of qualified, trained and motivated teaching staff
+o Lack of qualified, trained and motivated teaching staff
 
-- o Lack of training centres
+o Lack of training centres
 
-- o Other:
+o Other:
+
+ Low quality educational infrastructure and materials
+
+ High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
 ##### UK Government
 
-In England, the number of teachers in post is historically high, up 27,000 (6%) on 2010/11 and up over 14,500 in the three years since 2019/20. There were 468,400 full-time equivalent (FTE) teachers working in state funded schools across England in November 2022. However, secondary pupil numbers have been increasing, causing secondary pupilteacher ratios (PTRs) to rise and are contributing to difficulties recruiting enough secondary teachers, particularly in STEM subjects.
+In England, the number of teachers in post is historically high, up 27,000 (6%) on 2010/11 and up over 14,500 in the three years since 2019/20. There were 468,400 full-time equivalent (FTE) teachers working in state funded schools across England in November 2022. However, secondary pupil numbers have been increasing, causing secondary pupil-teacher ratios (PTRs) to rise and are contributing to difficulties recruiting enough secondary teachers, particularly in STEM subjects.
 
 Each year, in England DfE estimate the number of postgraduate initial teacher training (PGITT) entrants the sector will need in order to have the ideal number of teachers the following year. This is done using the Teacher Workforce Model, which considers a broad range of factors. Targets are calculated on an annual basis, and if retention and entrants from non-PGITT routes are higher than expected during the time that trainees are applying for and completing their course, this can offset the need to meet the PGITT targets in full.
 
 The percentage of the PGITT target achieved for all subjects (primary and secondary) in 2023/24 was 62%. In 2023/24, 50% of the overall secondary PGITT target was achieved (13,102 new postgraduate entrants), down from 57% in 2022/23 (12,033 new postgraduate entrants). The PGITT secondary target has not been met since 2012/13, except in 2020/21.
-
- Low quality educational infrastructure and materials
-
- High student -teacher ratio
 
 83
 
@@ -3155,7 +3163,7 @@ As there is further to go to improve recruitment in some subjects. That is why t
 
 ##### Northern Ireland
 
-The Department for the Economy has noted there are challenges around low quality educational infrastructure and materials, and high student -teacher ratio's.
+The Department for the Economy has noted there are challenges around low quality educational infrastructure and materials, and high student – teacher ratio’s.
 
 ##### Scotland
 
@@ -3163,7 +3171,7 @@ Recruitment challenges in certain subjects, STEM in particular, and in remote an
 
 ## 3.3 Respect for human rights and fundamental freedoms
 
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 35 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.35 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
@@ -3209,13 +3217,15 @@ The new UK government has established an independent Curriculum and Assessment r
 
 The review will seek to refresh the curriculum to ensure it is cutting edge, fit for purpose and meeting the needs of children and young people to support their future life and work. The review will ensure that the curriculum appropriately balances ambition, excellence, relevance, flexibility and inclusivity for all our children and young people.
 
-As part of its core aim of breaking down the barriers to opportunity, the review will seek to make sure children benefit from a curriculum that represents them and their families, regardless of background, and equips young people to shape our response to the challenges of our changing world.
+As part of its core aim of breaking down the barriers to opportunity, the review will seek to make sure children benefit from a curriculum that represents them and their families,
 
 85
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
+
+regardless of background, and equips young people to shape our response to the challenges of our changing world.
 
 The views of the sector, including teachers, lecturers, leaders, students and parents, will be pivotal to the recommendations and there will be extensive engagement throughout the entire review. A call for evidence will be launched in September, which will set out the areas where the review group would particularly welcome input from, and will direct the focus of engagement with, the sector and stakeholders over the autumn term.
 
@@ -3227,7 +3237,7 @@ The UK is a signatory of the United Nations Convention on the Rights of the Chil
 
 ###### Higher Education (Freedom of Speech) Act 2023
 
-The Secretary of State for Education announced on 26 th  July 2024 that she is stopping further commencement of the Higher Education (Freedom of Speech) Act 2023, in order to consider options, including its repeal.
+The Secretary of State for Education announced on 26th July 2024 that she is stopping further commencement of the Higher Education (Freedom of Speech) Act 2023, in order to consider options, including its repeal.
 
 While the government is clear it is absolutely committed to freedom of speech and academic freedom, and it recognises that many in the higher education sector feel that the Act is disproportionate, burdensome and damaging to the welfare of students. Ministers are also concerned that the Act will expose higher education providers to costly legal action and have listened to Jewish groups and others who are concerned that fear of sanction will push providers to overlook the safety and wellbeing of minority groups.
 
@@ -3236,7 +3246,7 @@ The government recognise and support the existing duty on higher education provi
 ##### Wales
 ###### Child Rights
 
-The Welsh Government has worked with education consortia and regional partnerships, with support from the Children's Commissioner for Wales, to create an online professional learning package on the United Nations Convention on the Rights of the Child (UNCRC) and the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD). This national professional learning resource is supporting practitioners, head teachers, governing bodies and LAs to develop an awareness and understanding of the UNCRC and UNCRPD. A consistent professional learning offer was required to support schools to meet the requirements of Section 64 of the Curriculum and Assessment (Wales) Act 2021. The first two modules were made available during the summer term 2023 via the Welsh Government's online learning platform ' Hwb '. A third module is currently under development.
+The Welsh Government has worked with education consortia and regional partnerships, with support from the Children’s Commissioner for Wales, to create an online professional learning package on the United Nations Convention on the Rights of the Child (UNCRC) and the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD). This national professional learning resource is supporting practitioners, head teachers, governing bodies and LAs to develop an awareness and understanding of the UNCRC and UNCRPD. A consistent professional learning offer was required to support schools to meet the requirements of Section 64 of the Curriculum and Assessment (Wales) Act 2021. The first two modules were made available during the summer term 2023 via the Welsh Government’s online learning platform ‘Hwb’. A third module is currently under development.
 
 [[END OF PAGE 86]]
 
@@ -3258,29 +3268,27 @@ In Northern Ireland, specifically at Key Stage 3 through the Local and Global Ci
 
 ##### Scotland
 
-Through Learning for Sustainability (LfS) the Scottish Government are supporting wholesetting approaches that enable learners, educators and their wider community to build a socially-just, sustainable and equitable society. LfS weaves together cross-curricular themes on global citizenship, sustainable development and c hildren's rights, recognising the importance of climate and social justice, equality and outdoor learning for their future life and work in the 21st century.
+Through Learning for Sustainability (LfS) the Scottish Government are supporting whole-setting approaches that enable learners, educators and their wider community to build a socially-just, sustainable and equitable society. LfS weaves together cross-curricular themes on global citizenship, sustainable development and children’s rights, recognising the importance of climate and social justice, equality and outdoor learning for their future life and work in the 21st century.
 
-The refreshed Learning for Sustainability Action Plan, published in 2023, contains a centrepiece 'Target 2030' commitment to ensure that by 2030 every school and early learning setting will be a Sustainable Learning Setting.
+The refreshed Learning for Sustainability Action Plan, published in 2023, contains a centrepiece “Target 2030” commitment to ensure that by 2030 every school and early learning setting will be a Sustainable Learning Setting.
 
-Connected to this our Anti-Racism in Education Programme (AREP) will continue to embed anti-racist practice and principles in initial and ongoing professional development for teachers and educators, including the promotion of a decolonised curriculum which reflects diversity, social justice and Scotland's role in trans -Atlantic enslavement, as well as the development of robust measures for tackling racist incidents in schools.
+Connected to this our Anti-Racism in Education Programme (AREP) will continue to embed anti-racist practice and principles in initial and ongoing professional development for teachers and educators, including the promotion of a decolonised curriculum which reflects diversity, social justice and Scotland’s role in trans-Atlantic enslavement, as well as the development of robust measures for tackling racist incidents in schools.
 
-The Scottish Government's anti-racism curriculum principles, Breaking the Mould , articulate what that entails and work is under way, led by the Scottish Government and in partnership with a range of others, to support their implementation.
+The Scottish Government’s anti-racism curriculum principles, Breaking the Mould, articulate what that entails and work is under way, led by the Scottish Government and in partnership with a range of others, to support their implementation.
 
-The Scottish Government's work on LfS and anti -racism in education is further underpinned by Article 29 of the UNCRC, providing a right to an education that develops every child's personality, talents and abilities to the full, encouraging the child's resp ect for human rights, as well as respect for their parents, their own and other cultures, and the environment.
+The Scottish Government’s work on LfS and anti-racism in education is further underpinned by Article 29 of the UNCRC, providing a right to an education that develops every child’s personality, talents and abilities to the full, encouraging the child’s respect for human rights, as well as respect for their parents, their own and other cultures, and the environment.
 
 ## 3.4 Non-state actors in education
 
-For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision 36 .
+For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision36.
 
 - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked):
 
- Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 37  explicitly apply to non-state educational institutions.
+ Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation37 explicitly apply to non-state educational institutions.
 
 > 36 Private, faith-based, NGOs, community actors.
 
-37
-
-> See: Article/Paragraph 1(1).
+> 37 See: Article/Paragraph 1(1).
 
 87
 
@@ -3324,7 +3332,7 @@ In addition to provisions in Part 6 of the Equality Act 2010 applying in relatio
 
 And then an obligation which requires as follows:
 
-- The standard in this paragraph is met if the proprietor ensures that the teaching at the school -,,,,,,,,,,
+3. The standard in this paragraph is met if the proprietor ensures that the teaching at the school—,,,,,,,,,,
 
 [[END OF PAGE 88]]
 
@@ -3336,15 +3344,15 @@ And another which requires that principles are actively promoted that
 
 (vi)encourage respect for other people, paying particular regard to the protected characteristics set out in the 2010 Act;
 
-All independent schools must have regard to Keeping children safe in education (KCSIE). This is the same guidance all schools in England m ust follow.
+All independent schools must have regard to Keeping children safe in education (KCSIE). This is the same guidance all schools in England must follow.
 
 ##### Scotland
 
 ###### Independent Schools
 
-With regard to independent schools, these are subject, as noted elsewhere, to the Equality Act 2010. Beyond this, all independent schools are inspected by HM Inspectors using How Good Is Our School? (4 th Edn.), of note this framework for self-evaluation (which also details the Quality Indicators used by HM Inspectors) includes a specific expectation that all schools promote equality and challenge discrimination (pg. 33, 48, and 56).
+With regard to independent schools, these are subject, as noted elsewhere, to the Equality Act 2010. Beyond this, all independent schools are inspected by HM Inspectors using How Good Is Our School? (4th Edn.), of note this framework for self-evaluation (which also details the Quality Indicators used by HM Inspectors) includes a specific expectation that all schools promote equality and challenge discrimination (pg. 33, 48, and 56).
 
-Beyond this, the Scottish Government changed the law around the registration of teachers to mandate that all teachers in the independent sector be registered with the General Teaching Council for Scotland ('GTC Scotland', the body which sets standards and regulates the teaching profession). The standards, which all teachers must uphold, includes 'social justice' and explicitly expects that all teachers understand and challenge discrimination and specifically references the Equality Act 2010 (pg. 4 of The Standard for Full Registration , GTC Scotland).
+Beyond this, the Scottish Government changed the law around the registration of teachers to mandate that all teachers in the independent sector be registered with the General Teaching Council for Scotland (“GTC Scotland”, the body which sets standards and regulates the teaching profession). The standards, which all teachers must uphold, includes “social justice” and explicitly expects that all teachers understand and challenge discrimination and specifically references the Equality Act 2010 (pg. 4 of The Standard for Full Registration, GTC Scotland).
 
 ###### Home Education
 
@@ -3356,13 +3364,15 @@ o Legal provisions provide for the rights of the parents /legal guardians for pr
 
 Section 9 of the Education Act 1996 (pupils to be educated in accordance with parents' wishes) states that: In exercising or performing all their respective powers and duties under the Education Acts, the Secretary of State and local authorities shall have regard to the general principle that pupils are to be educated in accordance with the wishes of their parents, so far as that is compatible with the provision of efficient instruction and training and the avoidance of unreasonable public expenditure.
 
-Article 2 of the First Protocol to the ECHR provides: No person shall be denied the right to education. In the exercise of any functions which it assumes in relation to education and teaching, the State shall respect the right of parents to ensure such education and teaching in conformity with their own religious and philosophical convictions. On ratifying the First Protocol, the UK entered a reservation in respect of the second sentence of Article 2: … in view of certain provisions of the Education Acts in force in the United Kingdom, the principle affirmed in the second sentence of Article 2 is accepted by the United Kingdom only so far as it is compatible with the provision of efficient instruction and training and the avoidance of unreasonable public expenditure.
+Article 2 of the First Protocol to the ECHR provides: No person shall be denied the right to education. In the exercise of any functions which it assumes in relation to education and teaching, the State shall respect the right of parents to ensure such education and teaching in conformity with their own religious and philosophical convictions. On ratifying the First Protocol, the UK entered a reservation in respect of the second sentence of Article 2: … in view of certain provisions of the Education Acts in force in the United Kingdom, the principle affirmed in the second sentence of Article 2 is accepted by the
 
 89
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
+
+United Kingdom only so far as it is compatible with the provision of efficient instruction and training and the avoidance of unreasonable public expenditure.
 
 This reservation was entered to reflect the principle originally contained in the Education Act 1944 and now re-enacted in section 9 of the Education Act 1996.
 
@@ -3378,7 +3388,7 @@ A prospective proprietor may apply to register (i.e. have permission to operate)
 
 ###### Home Education
 
-In terms of home education, local authorities should acknowledge that potential home educators come from all social, economic, racial and religious backgrounds, and that these factors should not bear upon the authority's decision to give consent to withdra w a child from school. Parents do not have to give a reason for choosing home education when requesting to withdraw their child from school. It is recognised that religious or cultural beliefs, and the wish to follow a particular educational or ideological philosophy, are common reasons for parents choosing home education. Any reason given should have no bearing on whether or not consent is given, as the authority's interest lies in how the parents intend to educate their children not their reason for doing so.
+In terms of home education, local authorities should acknowledge that potential home educators come from all social, economic, racial and religious backgrounds, and that these factors should not bear upon the authority’s decision to give consent to withdraw a child from school. Parents do not have to give a reason for choosing home education when requesting to withdraw their child from school. It is recognised that religious or cultural beliefs, and the wish to follow a particular educational or ideological philosophy, are common reasons for parents choosing home education. Any reason given should have no bearing on whether or not consent is given, as the authority’s interest lies in how the parents intend to educate their children not their reason for doing so.
 
 o Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
@@ -3418,7 +3428,7 @@ See section above.
 
 ###### Registration
 
-Secretary of State must be satisfied a school is likely to meet the standards to register a school. Ofsted will carry out an inspection to help inform this judgement. Guidance is here Independent school registration.
+Secretary of State must be satisfied a school is likely to meet the standards to register a school. Ofsted will carry out an inspection to help inform this judgement. Guidance is here - Independent school registration.
 
 ###### State Monitoring and Inspection
 
@@ -3436,7 +3446,7 @@ There are no qualification requirements to teach in an independent school. Howev
 
 Most health and safety laws that apply to state schools apply to independent schools. In addition the standards set out requirements for quality of accommodations (Part 5). this includes the following on toilets and water-
 
-28. -(1) The standard in this paragraph is met if the proprietor ensures that -
+28.—(1) The standard in this paragraph is met if the proprietor ensures that—
 
 (a)suitable drinking water facilities are provided;
 
@@ -3447,13 +3457,14 @@ Most health and safety laws that apply to state schools apply to independent sch
 (d)the temperature of hot water at the point of use does not pose a scalding risk to users
 
 ###### Safety
-As described above the standards set out requirements for schools to safeguard their pupils and have regard to statutory safeguarding guidance. KCSIE provides advice to schools on gender based violence, including detailed advice on preventing and dealing with reports of child on child abuse. As well as KCSIE, schools must have regard to Working together to safeguard children which sets out their role in multi agency safeguarding arrangements.
 
 91
 
 [[END OF PAGE 91]]
 
 [[START OF PAGE 92]]
+
+As described above the standards set out requirements for schools to safeguard their pupils and have regard to statutory safeguarding guidance. KCSIE provides advice to schools on gender based violence, including detailed advice on preventing and dealing with reports of child on child abuse. As well as KCSIE, schools must have regard to Working together to safeguard children which sets out their role in multi agency safeguarding arrangements.
 
 ###### Curriculum
 
@@ -3475,19 +3486,21 @@ The Education and Libraries (NI) Order 1986 sets out a number of relevant powers
 
 ##### Scotland
 
-###### Registration -independent schools
+###### Registration – independent schools
 
 In accordance with Part V of the Education (Scotland) Act 1980 ('the 1980 Act'), all independent schools (i.e. schools which are not grant-aided schools or schools operated by a local authority) must be registered by the Scottish Ministers prior to opening. Before being registered, proposed independent schools must be visited by HM Inspectors and the Scottish Ministers must be satisfied that the proposed school will provide an appropriate education and safeguard the welfare of pupils among other things as set out in section 98A(3) of the 1980 Act.
 
 Once registered, the school will be inspected by HM Inspectors. An additional registration and regulatory scheme applies to independent schools which offer a boarding or residential service (known as a school care accommodation service), this is part of the Care Inspectorate's locus.
 
-###### Registration -home education
+###### Registration – home education
 
-Under Section 35 of the Education (Scotland) Act 1980, parents of a child who has been attending a public school must seek the local authority's consent before withdrawing their child from that school, and the authority must not unreasonably withhold consent. It should be noted that while consent is needed for withdrawal from school, consent is not needed to home educate in itself.
+Under Section 35 of the Education (Scotland) Act 1980, parents of a child who has been attending a public school must seek the local authority’s consent before withdrawing their child from that school, and the authority must not unreasonably withhold consent. It should
 
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
+
+be noted that while consent is needed for withdrawal from school, consent is not needed to home educate in itself.
 
 Consent to withdraw a child from school is not needed in the following situations:
 
@@ -3515,7 +3528,7 @@ If the local authority has reason to believe that an efficient education is not 
 
 ###### Qualifications of teachers -independent schools
 
-Every teacher in the independent sector must be registered with GTC Scotland (the regulatory body for all teachers in Scotland). GTC Scotland, a body independent of government, sets the requirements for registration and this includes appropriate universitylevel qualification.
+Every teacher in the independent sector must be registered with GTC Scotland (the regulatory body for all teachers in Scotland). GTC Scotland, a body independent of government, sets the requirements for registration and this includes appropriate university-level qualification.
 
 ###### Qualifications of teachers -home education
 
@@ -3592,13 +3605,17 @@ Not applicable.
 
 - What challenges were encountered in non-state education provision?
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-- o Low number of professionally trained teachers
+o Low number of professionally trained teachers
 
-- o High student -teacher ratio
+o High student – teacher ratio
 
-- o Other:
+o Other:
+
+ Issues in terms of equity and inclusion
+
+ Weak government regulatory and monitoring capacity
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -3622,17 +3639,13 @@ In terms of home education, it is recognised that children and young people with
 
 ## 3.5 Digital education
 
- Issues in terms of equity and inclusion
-
- Weak government regulatory and monitoring capacity
-
 95
 
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
 
-Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 38 .
+Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion38.
 
 - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked):
 
@@ -3644,7 +3657,7 @@ Please indicate the relevant text and provisions:
 
 - o Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 39 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content39, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
@@ -3674,7 +3687,7 @@ teachers to improve curriculum delivery, reduce workload and support improved pu
 
 ###### Sharing of education data Internally and externally
 
-In England, the u se of children's personal data is subject to complying with legislation set primarily by the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018 (DPA). As well as the Statutory Age-Appropriate Design Code (AADC) which applies to technology suppliers who provide 'direct -toconsumer' services to support online learning. The AADC does not apply to technology used to support education in schools.
+In England, the use of children’s personal data is subject to complying with legislation set primarily by the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018 (DPA). As well as the Statutory Age-Appropriate Design Code (AADC) which applies to technology suppliers who provide ‘direct-to-consumer’ services to support online learning. The AADC does not apply to technology used to support education in schools.
 
 For most of the personal data collected, stored and used, the education institution or its owner is the 'data controller'. The DfE has a dedicated project working with schools to develop contextualised data protection guidance to help them make informed data protection decisions to ensure compliance with legislation.
 
@@ -3692,13 +3705,15 @@ Through computing, pupils are taught how to use technology safely, securely, res
 
 Through RSHE, pupils should be taught how to recognise risks, harmful content and contact, and how and to whom to report issues. Pupils should have a strong understanding of how data is generated, collected, shared and used online, e.g., how personal data is captured or understanding the way that businesses may exploit the data available to them.
 
-The computer science GCSE (ages 14-16) is designed to equip pupils with the knowledge needed for the technological jobs of the future and supports progression into further education or employment. Students are taught, for example, to understand and apply the principles of computer science and to study the impacts of digital technology to the individual and to wider society.
+The computer science GCSE (ages 14-16) is designed to equip pupils with the knowledge needed for the technological jobs of the future and supports progression into further education
 
 97
 
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
+
+or employment. Students are taught, for example, to understand and apply the principles of computer science and to study the impacts of digital technology to the individual and to wider society.
 
 The computer science A level (ages 16-18) provides students with a broad range of knowledge, skills and understanding in computer science, as a basis for progression into further learning and/or employment. Students are taught, for example, to develop their capacity for thinking creatively, logically, and critically, and to articulate the opportunities and risks of digital technology.
 
@@ -3728,10 +3743,6 @@ The Welsh Government has invested over £200 million to deliver dedicated ultraf
 
 [[START OF PAGE 99]]
 
-4
-
-5
-
 265,000 end user devices, while work has begun on refreshing the teaching and learning tools and peripherals across Wales to help deliver the Curriculum for Wales.
 
 Schools across Wales can also benefit from the Hwb digital learning platform, which is helping to improve the use of digital technology for teaching and learning.  Hwb provides all pupils and teachers in maintained schools, as well as other education stakeholders, such as trainee and supply teachers, with access to a range of bilingual digital infrastructure, tools and resources including an all-Wales Microsoft Education licensing agreement that is helping to transform digital teaching and learning in Wales.
@@ -3750,9 +3761,9 @@ In Scotland, local authorities are legally responsible for delivery of education
 
 To support local authorities, the government are developing a new national digital strategy for education which will outline the fundamental underpinning components needed to enable digital learning and coordinate our actions with local government to maximise impact. Supporting authorities to lay a digital foundation in education will enable greater use of technologies to enhance teaching and learning experiences.
 
-Work is currently underway to develop a 'Curriculum Review Cycle' whereby each area of the curriculum will be reviewed periodically to ensure it remains relevant and up to date.  This is especially important in the 'Technologies' as advancements (such as t he advent of publicly available generative AI) occur at pace.
+Work is currently underway to develop a ‘Curriculum Review Cycle’ whereby each area of the curriculum will be reviewed periodically to ensure it remains relevant and up to date. This is especially important in the ‘Technologies’ as advancements (such as the advent of publicly available generative AI) occur at pace.
 
-Since 2008, the Scottish Government has funded (and delivered via Education Scotland) the Glow national digital learning platform which offers all learners and teachers free and secure access to a range of digital tools and services for use in education -the core service offer currently includes Microsoft Office 365, Google Workspace and Wordpress Blogs.  This provision aims to ensure that all learners have equal access to digital tools for learning, regardless of local investment.
+Since 2008, the Scottish Government has funded (and delivered via Education Scotland) the Glow national digital learning platform which offers all learners and teachers free and secure access to a range of digital tools and services for use in education – the core service offer currently includes Microsoft Office 365, Google Workspace and Wordpress Blogs. This provision aims to ensure that all learners have equal access to digital tools for learning, regardless of local investment.
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
@@ -3766,21 +3777,21 @@ Since 2008, the Scottish Government has funded (and delivered via Education Scot
 
  Lack of equity and inclusion in digital learning solutions
 
- inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
-- risks
+o Other:
 
-- o Other:
+ Limited access to internet and/or electricity
 
- Limited access to internet and/or electricity  Limited access to hardware (devices, chargers,
-
-- etc.)
+ Limited access to hardware (devices, chargers, etc.)
 
  Difficulty in regulating the use of digital education solutions
 
  Difficulty in sustainably financing digital education solutions at national scale
 
- Lack of digital skills development for meaningful use of digital technology in teaching practice  Disjointed or fragmented solutions that are not centrally systematized or regulated
+ Lack of digital skills development for meaningful use of digital technology in teaching practice
+
+ Disjointed or fragmented solutions that are not centrally systematized or regulated
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -3828,7 +3839,7 @@ Local authorities are responsible for the digital infrastructure of schools and 
 
 The Scottish Government's forthcoming digital education strategy will seek to support all local authorities and tackle the inconsistencies that currently exist across the education system.
 
-In terms of teacher skills, their professional standards require teachers to have the 'skills and competencies which comprise digital literacy' in order that they are able to apply the use of technology to pedagogy. However, there is no formal reporting mechanism in place centrally to help understand the extent to which all educators are confident in this area and the impact which meaningful use of digital technology may have on the delivery of education. They are considering how further guidance may better support the profession to understand the stages and spectrum of digital skills which comprise digital literacy for educators in order to support improved professional learning and development.
+In terms of teacher skills, their professional standards require teachers to have the "skills and competencies which comprise digital literacy" in order that they are able to apply the use of technology to pedagogy. However, there is no formal reporting mechanism in place centrally to help understand the extent to which all educators are confident in this area and the impact which meaningful use of digital technology may have on the delivery of education. They are considering how further guidance may better support the profession to understand the stages and spectrum of digital skills which comprise digital literacy for educators in order to support improved professional learning and development.
 
 > 40  Technology in Schools Survey 2023
 
@@ -3842,7 +3853,7 @@ In terms of teacher skills, their professional standards require teachers to hav
 
 # 4. Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data a re available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available" (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -3898,7 +3909,7 @@ HM Inspection reports  - HM Chief Inspector reports and guidance | Inspection an
 
 ###### School Landscape in England
 
-State-funded schools in England comprise of schools maintained by local authorities (LAs) and academies controlled by academy trusts, who are independent charitable companies. LA-maintained schools and academies are held to account differently and have different governance systems. Today, 49.3% of state-funded schools open in England are an LAmaintained school and 50.7% are an academy or free school.
+State-funded schools in England comprise of schools maintained by local authorities (LAs) and academies controlled by academy trusts, who are independent charitable companies. LA-maintained schools and academies are held to account differently and have different governance systems. Today, 49.3% of state-funded schools open in England are an LA-maintained school and 50.7% are an academy or free school.
 
 LA-maintained schools include: maintained special schools, maintained nursery schools, community, foundation and voluntary schools, and pupil referral units. These schools receive their funding from their LA and are held to account by their LA. However, where such a school is judged 'Inadequate' by Ofsted, the Secretary of State has a legal duty to issue an Academy Order to convert the school into a sponsored academy. Each school is assessed on a case-by-case basis and the DfE works with academy trusts, sponsors, LAs, and dioceses to find the best plan for the school.
 
@@ -3917,24 +3928,25 @@ The new UK  government has committed to remove barriers to opportunity and raise
 ###### Governance and Trustee compliance
 
 ###### Academy Trusts
-All academy trusts have a single board of trustees. The board of trustees has collective accountability and responsibility for the academy trust and ensuring compliance with regulatory, contractual and statutory requirements. Trustees must apply the highest standards of conduct and should consider the features of high quality governance as described in the published trust quality descriptions. Trustees can choose to delegate powers to the board's sub -committees, including local committees, also known as local governing bodies (LGBs). In all cases, trustees remain legally responsible and accountable for the conduct of the school(s). DfE sets clear standards and expectations for governing boards. The board is responsible for ensuring legal and regulatory compliance across a range of areas, including but not limited to: general principles of charity law and education law; health and safety; information management; employment law; and conditions and obligations imposed by funding or regulatory bodies. Responsibilities on how boards of trusts must operate will be set out in: their articles of association, their funding agreement, and the Academy Trust Handbook (ATH).
 
 [[END OF PAGE 104]]
 
 [[START OF PAGE 105]]
 
-A trust's articles of association set out a framework for establishing academy trust governance structures, including: appointing and removing trust members and trustees; and establishing committees. Trusts must comply with the requirements set out in their articles as a condition of their funding agreement with the Secretary of State and as required by charity and company law. Effective trusts review their articles regularly to keep them up-todate and reflective of the trust's development and growth. DfE' s model articles reflect requirements in charity and company law and DfE governance policy. There are specific model articles and other guidance for trusts with church academies, which capture differences in governance arrangements.
+All academy trusts have a single board of trustees. The board of trustees has collective accountability and responsibility for the academy trust and ensuring compliance with regulatory, contractual and statutory requirements. Trustees must apply the highest standards of conduct and should consider the features of high quality governance as described in the published trust quality descriptions. Trustees can choose to delegate powers to the board's sub-committees, including local committees, also known as local governing bodies (LGBs). In all cases, trustees remain legally responsible and accountable for the conduct of the school(s). DfE sets clear standards and expectations for governing boards. The board is responsible for ensuring legal and regulatory compliance across a range of areas, including but not limited to: general principles of charity law and education law; health and safety; information management; employment law; and conditions and obligations imposed by funding or regulatory bodies. Responsibilities on how boards of trusts must operate will be set out in: their articles of association, their funding agreement, and the Academy Trust Handbook (ATH).
+
+A trust's articles of association set out a framework for establishing academy trust governance structures, including: appointing and removing trust members and trustees; and establishing committees. Trusts must comply with the requirements set out in their articles as a condition of their funding agreement with the Secretary of State and as required by charity and company law. Effective trusts review their articles regularly to keep them up-to-date and reflective of the trust's development and growth. DfE's model articles reflect requirements in charity and company law and DfE governance policy. There are specific model articles and other guidance for trusts with church academies, which capture differences in governance arrangements.
 
 ###### LA-maintained schools
 
-The governing body is a statutory corporation and is the main holder of the school's rights, liabilities, functions, duties, and powers under contract, tort, public law, and statute. The governing body's principal duty is to have conduct of the school. Gov erning bodies are the accountable body for a maintained school (including federations of maintained schools) that operate at a strategic level. The governing body has legislative responsibility and strategic oversight for the school's safeguarding arrangem ents and performance. The governing body is also responsible for ensuring legal and regulatory compliance across a range of areas, including but not limited to: general principles of education law; responsibilities as operators of an educational institution; and conditions and obligations imposed by funding or regulatory bodies. The constitution, procedures, terms of reference and allowances of the governing body are set out in the School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 and the School Governance (Constitution) (England) Regulations 2012.
+The governing body is a statutory corporation and is the main holder of the school's rights, liabilities, functions, duties, and powers under contract, tort, public law, and statute. The governing body's principal duty is to have conduct of the school. Governing bodies are the accountable body for a maintained school (including federations of maintained schools) that operate at a strategic level. The governing body has legislative responsibility and strategic oversight for the school's safeguarding arrangements and performance. The governing body is also responsible for ensuring legal and regulatory compliance across a range of areas, including but not limited to: general principles of education law; responsibilities as operators of an educational institution; and conditions and obligations imposed by funding or regulatory bodies. The constitution, procedures, terms of reference and allowances of the governing body are set out in the School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 and the School Governance (Constitution) (England) Regulations 2012.
 
 ###### Pupil referral units (PRUs)
 
-Governance of PRUs is slightly different, being largely the responsibility of a statutory subcommittee of the LA called the 'management committee'. But the duties, powers, and constitution of management committees are similar to those of governing bodies of maintained schools (Education (Pupil Referral Units) (Management Committees etc.) (England) Regulations 2007).
+Governance of PRUs is slightly different, being largely the responsibility of a statutory sub-committee of the LA called the 'management committee'. But the duties, powers, and constitution of management committees are similar to those of governing bodies of maintained schools (Education (Pupil Referral Units) (Management Committees etc.) (England) Regulations 2007).
 ###### External Reviews of Governance (ERGs)
 
-DfE recommends that ERGs are conducted routinely as part of a wider programme of selfassessment and improvement. It is particularly important that they are conducted before a governing body undertakes any significant change, such as converting to an academy. The Department, as well as LAs, can also recommend an ERG is conducted. As set out in the schools causing concern guidance, LAs should note the recommendations made to maintained schools as part of ERGs. These reviews may include recommendations that may reveal a failure of governance that is prejudicing standards of school performance, and this in turn could warrant the LA, or the Secretary of State, to use statutory powers to intervene and issue a warning notice to improve. If it fails to improve this could result in the appointment of additional governors or trustees; replacement of the existing board with interim executive members to assume control of the board, or the suspension of the board's right to a delegated budget.
+DfE recommends that ERGs are conducted routinely as part of a wider programme of self-assessment and improvement. It is particularly important that they are conducted before a governing body undertakes any significant change, such as converting to an academy. The Department, as well as LAs, can also recommend an ERG is conducted. As set out in the schools causing concern guidance, LAs should note the recommendations made to
 
 105
 
@@ -3942,13 +3954,15 @@ DfE recommends that ERGs are conducted routinely as part of a wider programme of
 
 [[START OF PAGE 106]]
 
+maintained schools as part of ERGs. These reviews may include recommendations that may reveal a failure of governance that is prejudicing standards of school performance, and this in turn could warrant the LA, or the Secretary of State, to use statutory powers to intervene and issue a warning notice to improve. If it fails to improve this could result in the appointment of additional governors or trustees; replacement of the existing board with interim executive members to assume control of the board, or the suspension of the board's right to a delegated budget.
+
 ###### Ofsted Inspections
 
-Ofsted is the education inspectorate in England. As part of school inspections of statefunded schools, Ofsted review the leadership and management of the school. Details of the inspection process and the areas assessed are set out in Ofsted's published school inspection handbook.
+Ofsted is the education inspectorate in England. As part of school inspections of state-funded schools, Ofsted review the leadership and management of the school. Details of the inspection process and the areas assessed are set out in Ofsted's published school inspection handbook.
 
-The  DfE's Maintained Schools Governance Guide and Academy Trust Governance Guide sets out the features and structures  of effective governance, which is to provide  strategic leadership and to create robust accountability, oversight and assurance for educational and financial performance.
+The DfE's Maintained Schools Governance Guide and Academy Trust Governance Guide sets out the features and structures of effective governance, which is to provide strategic leadership and to create robust accountability, oversight and assurance for educational and financial performance.
 
-In addition, the board of governors or the board of trustees are responsible for ensuring that the school fulfils its statutory duties, for example under the Equality Act 2010, and other duties, for example in relation to the 'Prevent' duty. The board of g overnors or the board of trustees are also expected to exercise strategic oversight of all aspects of safeguarding.
+In addition, the board of governors or the board of trustees are responsible for ensuring that the school fulfils its statutory duties, for example under the Equality Act 2010, and other duties, for example in relation to the 'Prevent' duty. The board of governors or the board of trustees are also expected to exercise strategic oversight of all aspects of safeguarding.
 
 This government has committed to remove barriers to opportunity and raise school standards to ensure the school system is fair for every child, no matter their background, where accountability is non-negotiable. To achieve this, this government has committed to enhance the inspection regime by replacing a single headline grade with a new report card system telling parents clearly how schools are performing; and bring Multi-Academy Trusts into the inspection system
 
@@ -3969,7 +3983,7 @@ Ofsted inspectors look at the work of principals, chief executives, senior leade
 
 ###### Education governance
 
-In academy trusts, the purpose of governance is to provide: strategic leadership; accountability and assurance; and strategic engagement. The board has collective accountability and strategic responsibility for the trust. It has a focus on ensuring the trust delivers an excellent education to pupils while maintaining effective financial management and must ensure compl iance with: the trust's charitable objects; regulatory, contractual and statutory requirements; their funding agreement. The board also has: strategic and statutory responsibility for safeguarding and special educational needs and disabilities (SEND) arrangements within (and across) the academy trust ensuring the promotion of pupil welfare and for keeping their estates safe and well-maintained; and a role in making sure that it delivers its commitment to other schools and academies, however it is done.
+In academy trusts, the purpose of governance is to provide: strategic leadership; accountability and assurance; and strategic engagement. The board has collective accountability and strategic responsibility for the trust. It has a focus on ensuring the trust delivers an excellent education to pupils while maintaining effective financial management and must ensure compliance with: the trust's charitable objects; regulatory, contractual and statutory requirements; their funding agreement. The board also has: strategic and statutory responsibility for safeguarding and special educational needs and disabilities (SEND) arrangements within (and across) the academy trust ensuring the promotion of pupil welfare and for keeping their estates safe and well-maintained; and a role in making sure that it delivers its commitment to other schools and academies, however it is done.
 
 A governing body of an LA maintained school and its governors must, as required by The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013, regulation 6(2): act with integrity, objectivity and honesty and in the best interests of the school; and be open about the decisions they make and the actions they take and shall be prepared to explain their decisions and actions to interested parties. The core functions of the governing body are as set out in regulations include, but are not limited to, ensuring: that the vision, ethos and strategic direction of the school are clearly defined; that the headteacher performs their responsibilities for the educational performance of the school; and the sound, proper and effective use of the school's financial resources.
 
@@ -3979,13 +3993,13 @@ A governing body of an LA maintained school and its governors must, as required 
 
 The core schools budget, which includes the core revenue funding for schools and high needs, is almost £61.8 billion in financial year 2024-25. This includes almost £1.1 billion in 2024-25 through the new Core Schools Budget Grant (CSBG), to support schools with overall costs.
 
-Special and Alternative Provision schools are receiving over £140m in 2024-25 through the CSBG. The additional funding through the CSBG comes alongside the high needs budget -for children and young people with complex special educational needs and disabilitieswhich totals £10.75 billion in 2024-25. This is included in the core schools budget.
+Special and Alternative Provision schools are receiving over £140m in 2024-25 through the CSBG. The additional funding through the CSBG comes alongside the high needs budget – for children and young people with complex special educational needs and disabilities-which totals £10.75 billion in 2024-25. This is included in the core schools budget.
 
 Every year DfE uses the National Funding Formula to distribute core funding for 5-16 year old pupils (Reception to Year 11) in mainstream state-funded schools and 0-25 in high needs settings in England.
 
-This year DfE are targeting -over £4.4 billion (10.2%) of the formula according to deprivation, part of over £7.8 billion (17.8%) allocated for additional needs overall.
+This year DfE are targeting – over £4.4 billion (10.2%) of the formula according to deprivation, part of over £7.8 billion (17.8%) allocated for additional needs overall.
 
-The Department also provided over £2.9 billion in Pupil Premium this year .
+The Department also provided over £2.9 billion in Pupil Premium this year.
 
 ###### Capital funding
 
@@ -3999,9 +4013,9 @@ On improving the condition of school buildings, DfE have allocated £1.8 billion
 
 [[START OF PAGE 108]]
 
-£1.15 billion in School Condition Allocations (SCA) for LAs, large multi-academy trusts and academy sponsors, and dioceses, and other large voluntary aided school groups, to invest in maintaining and improving the condition of their schools.
+- £1.15 billion in School Condition Allocations (SCA) for LAs, large multi-academy trusts and academy sponsors, and dioceses, and other large voluntary aided school groups, to invest in maintaining and improving the condition of their schools.
 
-£450 million available through the Condition Improvement Fund programme (CIF). CIF is a bid-based fund for projects to address condition issues with buildings at small and stand-alone academy trusts, voluntary aided schools and sixth-form colleges.
+- £450 million available through the Condition Improvement Fund programme (CIF). CIF is a bid-based fund for projects to address condition issues with buildings at small and stand-alone academy trusts, voluntary aided schools and sixth-form colleges.
 
 - Over £200 million of Devolved Formula Capital (DFC) allocated directly for schools to spend on capital projects to meet their own priorities.
 
@@ -4033,7 +4047,7 @@ DfE takes a risk-based approach, using this data and working with the sector to 
 
 [[START OF PAGE 109]]
 
-The DfE works with academy trusts and with maintained schools, through their LA, providing support to help them build capacity and strengthen their financial position. DfE 's support offer helps all schools to manage their resources through an established suite of tools, services, and guidance. The offer has been designed and developed in partnership with schools and trusts to help them make informed decisions about how to manage their budg ets and prioritise resources to have the greatest positive impact on their pupils' education.
+The DfE works with academy trusts and with maintained schools, through their LA, providing support to help them build capacity and strengthen their financial position. DfE's support offer helps all schools to manage their resources through an established suite of tools, services, and guidance. The offer has been designed and developed in partnership with schools and trusts to help them make informed decisions about how to manage their budgets and prioritise resources to have the greatest positive impact on their pupils' education.
 
 ##### Wales
 
@@ -4041,7 +4055,7 @@ In Wales all LAs have a duty to ensure that all children are in receipt of a sui
 
 ###### Social Partnership in Wales
 
-In the spirit of social partnership, the purpose of the Schools Social Partnership Forum, currently chaired by the Cabinet Secretary for Education, Wales, provides a sustainable mechanism which enables any school' s workforce matter which might benefit from a national approach to be discussed by employer and trade union representatives as equal partners and a positive outcome agreed if at all possible.
+In the spirit of social partnership, the purpose of the Schools Social Partnership Forum, currently chaired by the Cabinet Secretary for Education, Wales, provides a sustainable mechanism which enables any school's workforce matter which might benefit from a national approach to be discussed by employer and trade union representatives as equal partners and a positive outcome agreed if at all possible.
 
 The Forum does not replace existing local or regional social partnership arrangements between employers and recognised trade unions nor existing regional or national arrangements involving for example, trade unions, the Association of Directors of Education Wales (ADEW) and/or Welsh Government.
 
@@ -4067,13 +4081,15 @@ The partnership aims to:
 
 The Welsh Government provides funding to LAs to support their funding of pre-16 provision in schools in Wales mainly through the local government revenue settlement. The settlement is not ring-fenced; the funding allocated to each authority is available to the authority to spend as it sees fit across the range of services for which it is responsible, including schools. This is in line with the Welsh Government's policy that LAs are best placed to judge local needs and circumstances and to fund schools accordingly.
 
-Once the annual local government settlement has been distributed to LAs, it is the responsibility of individual authorities to set budgets for their schools which are determined by a local funding formula. The School Funding (Wales) Regulations 2010 require 70% of funding for schools' budgets to be distributed on the basis of pupil numbers. Local authorities have discretion to distribute the remaining 30% on the basis of a range of factors so that they can take account of individual school circumstances.
+Once the annual local government settlement has been distributed to LAs, it is the responsibility of individual authorities to set budgets for their schools which are determined by a local funding formula. The School Funding (Wales) Regulations 2010 require 70% of funding for schools' budgets to be distributed on the basis of pupil numbers. Local
 
 109
 
 [[END OF PAGE 109]]
 
 [[START OF PAGE 110]]
+
+authorities have discretion to distribute the remaining 30% on the basis of a range of factors so that they can take account of individual school circumstances.
 
 LAs, when carrying out their duty to ensure the availability of suitable education provision in their area, should work with their maintained schools to evaluate the effectiveness of their school funding arrangements in supporting and raising the achievement of all learners. Schools have the opportunity to influence their LAs decisions on school budgets by engaging in dialogue with authorities including through their budget forum, which is required in law. Once LAs set budgets for their schools, management of those budgets is the responsibility of the school's governing body.
 
@@ -4109,7 +4125,7 @@ Under the governance arrangements the Board of Governors of grant aided schools 
 
 Funding for the provision of further education is provided through a budget allocation from the overall budget assigned to Northern Ireland.
 
-Demonstration of effective governance through Youthwork Management Committees is a prerequisite to accessing state funding for youth work.   Funding is provided to Regional Voluntary Youth Work organisations to support local groups in strengthening governance.
+Demonstration of effective governance through Youthwork Management Committees is a pre-requisite to accessing state funding for youth work. Funding is provided to Regional Voluntary Youth Work organisations to support local groups in strengthening governance.
 
 Towards Inclusive Education Policy - see section 1 above.
 
@@ -4121,9 +4137,9 @@ The Scottish Curriculum is set out in terms of the experiences and outcomes to b
 
 ###### Independent inspection
 
-The recently Education (Scotland) Bill, which was recently introduced in Parliament, will bring greater independence for the new education inspectorate by moving the power to set the frequency and focus for inspections from Scottish Ministers to His Majest y's Chief Inspector of Education in Scoland. This is a significant change and will increase confidence in inspection's independent role in assessing and identifying strengths and areas for improvement across our education system.
+The recently Education (Scotland) Bill, which was recently introduced in Parliament, will bring greater independence for the new education inspectorate by moving the power to set the frequency and focus for inspections from Scottish Ministers to His Majesty's Chief Inspector of Education in Scoland. This is a significant change and will increase confidence in inspection's independent role in assessing and identifying strengths and areas for improvement across our education system.
 
-The Bill places a number of reporting requirements on the Chief Inspector, including to publish individual establishment or service inspection reports, reinforcing the important role of inspection findings in supporting assurance and improvement and the expected transparency of the inspection process. Further, it includes a requirement for the Chief Inspector to report annually on the carrying out of their functions, which it is anticipated will include information about activities carried out during the reporting period, the approach taken and evidence to support the chosen approach; additionally, to report annually on the performance of Scottish education, as far as it falls into the Chief Inspector's remit -providing a regular, independent statement to the Scottish Parliament and other stakeholders on the functioning of the education system at a national level, supporting accountability and improvement.
+The Bill places a number of reporting requirements on the Chief Inspector, including to publish individual establishment or service inspection reports, reinforcing the important role of inspection findings in supporting assurance and improvement and the expected transparency of the inspection process. Further, it includes a requirement for the Chief Inspector to report annually on the carrying out of their functions, which it is anticipated will include information about activities carried out during the reporting period, the approach taken and evidence to support the chosen approach; additionally, to report annually on the performance of Scottish education, as far as it falls into the Chief Inspector's remit - providing a regular, independent statement to the Scottish Parliament and other stakeholders on the functioning of the education system at a national level, supporting accountability and improvement.
 
 The establishment of the office of Chief Inspector presents an important opportunity to strengthen learner and parent/carer voices in the governance arrangements, alongside other important perspectives, such as those of teachers and other education professionals. The Bill therefore includes a requirement for the Chief Inspector to establish an Advisory Council, which will provide advice on the strategic direction of the organisation. As an independent office-holder, membership of the council is to be decided by the Chief Inspector, but there is a duty on them to have regard to the council being representative of the interests of those who will be affected by the Chief Inspector's functions. Importantly, the legislation will place a duty on the Chief Inspector to have regard to any advice provided by the council and, where decisions taken diverge from this advice, to set out the reasons why.
 
@@ -4151,11 +4167,15 @@ The Scottish Funding Council (SFC) has a statutory obligation under section 13 o
 
  Budgetary constraints
 
-- o Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
+o Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
-- o Poor dialogue with teachers' trade unions
+o Absence of supportive/inconsistent/obsolete legal and policy environment
 
-- o Other:
+o Poor dialogue with teachers' trade unions
+
+ Lack or weakness of monitoring systems – including the lack of reliable data
+
+o Other:
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -4168,10 +4188,6 @@ One of the most common challenges cited by governors and trustees is managing an
 ###### Lack or weakness of monitoring systems
 
 Governor and trustee recruitment is a challenge. We have a significant number of vacancies for these volunteer roles and attracting and retaining people with the right skills and experience is a challenge in some areas.
-
-- o Absence of supportive/ inconsistent/obsolete legal and policy environment
-
- Lack or weakness of monitoring systems -including the lack of reliable data
 
 [[END OF PAGE 112]]
 
@@ -4195,9 +4211,9 @@ For reference: UNESCO governing bodies have underlined the need for awareness ra
 
  Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education including through appropriate materials and resources
 
- Activities undertaken or supported by the National Commission to promote nondiscrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
+ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
-- o Other:
+o Other:
 
 113
 
