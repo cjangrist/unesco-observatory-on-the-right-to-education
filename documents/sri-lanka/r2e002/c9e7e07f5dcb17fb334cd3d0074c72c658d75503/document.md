@@ -6,9 +6,9 @@
 
 (As amended up to 15th May 2015)
 
-Revised Edition - 2015
+Revised Edition – 2015
 
-Published by the Parliament Secretariat Revised Edition - 2015
+Published by the Parliament Secretariat
 
 Printed at the Department of Government Printing
 
@@ -16,6 +16,7 @@ Printed at the Department of Government Printing
 
 [[START OF PAGE 2]]
 
+Revised Edition – 2015
 Published by the Parliament Secretariat
 
 [[END OF PAGE 2]]
@@ -40,6 +41,50 @@ v
 
 ## CONTENTS
 
+Article Page
+
+Preamble xvii
+
+### CHAPTER - I
+
+#### THE PEOPLE, THE STATE AND SOVEREIGNTY
+
+1 The State 1
+2 Unitary State 1
+3 Sovereignty of the People 1
+4 Exercise of Sovereignty 1
+5 Territory of the Republic 2
+6 The National Flag 2
+7 The National Anthem 2
+8 The National Day 2
+
+### CHAPTER - II
+
+#### BUDDHISM
+
+9 Buddhism 3
+
+### CHAPTER - III
+
+#### FUNDAMENTAL RIGHTS
+
+10 Freedom of thought, conscience and religion 4
+11 Freedom from torture 4
+12 Right to equality 4
+13 Freedom from arbitrary arrest, detention and punishment and prohibition of retrospective penal legislation 4
+14 Freedom of speech, assembly, association, occupation, movement, &c 6
+14A Right of access to information 6
+15 Restrictions on fundamental rights 7
+16 Existing written law and unwritten law to continue in force 8
+17 Remedy for the infringement of fundamental rights by executive action 9
+
+### CHAPTER - IV
+
+#### LANGUAGE
+
+18 Official language 10
+19 National languages 10
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
@@ -47,6 +92,48 @@ v
 vi
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
+
+20 Use of National languages in Parliament, Provincial Councils, and Local Authorities 10
+21 Medium of instruction 10
+22 Languages of administration 11
+23 Language of legislation 13
+24 Languages of the courts 13
+25 Provision for adequate facilities for use of languages provided for in this Chapter 15
+25A Provision of any law inconsistent with this Chapter deemed to be repealed 15
+
+### CHAPTER - V
+
+#### CITIZENSHIP
+
+26 Citizenship of Sri Lanka 16
+
+### CHAPTER - VI
+
+#### DIRECTIVE PRINCIPLES OF STATE POLICY AND FUNDAMENTAL DUTIES
+
+27 Directive Principles of State Policy 17
+28 Fundamental duties 19
+29 Principles of State Policy and fundamental duties not justiciable 19
+
+### CHAPTER - VII
+
+#### THE EXECUTIVE
+
+#### THE PRESIDENT OF THE REPUBLIC
+
+30 The President of the Republic 20
+31 The election and the term of office of the President 20
+32 Assumption of office 23
+33 Duties, powers and functions of the President 24
+33A President to be responsible to Parliament 25
+34 Grant of pardon 25
+35 Immunity of President from suit 26
+36 Salary and pension 27
+37 Exercise, performance and discharge of powers, duties and functions of the President by the Prime Minister 27
+38 Vacation of office by President 28
+39 Determination by the Supreme Court that the President was not duly elected or the election of the President was void 30
+40 Vacation of office by President and election of succeeding President 31
+41 President’s staff 32
 
 [[END OF PAGE 6]]
 
@@ -60,6 +147,48 @@ vii
 
 #### THE CONSTITUTIONAL COUNCIL
 
+41A Constitution of the Constitutional Council 33
+41B Council to recommend appointments 35
+41C Council to approve appointments 36
+41D Secretary-General and other officers of the Council 37
+41E Meetings of the Council 37
+41F Continuation in office of the members of the Council 38
+41G Powers and duties of the Council 39
+41H Expenses to be charged on the Consolidated Fund 39
+41I Finality of decisions of the Council 39
+
+### CHAPTER - VIII
+
+#### THE EXECUTIVE
+
+#### THE CABINET OF MINISTERS
+
+42 Prime Minister and the Cabinet of Ministers 40
+43 Ministers and their subjects and functions 40
+44 Ministers who are not members of the Cabinet of Ministers 40
+45 Deputy Ministers 41
+46 Tenure of office of the Prime Minister, and the limitation of numbers and tenure of office of Ministers and Deputy Ministers 41
+47 Cabinet of Ministers after dissolution of Parliament 42
+48 Dissolution of the Cabinet of Ministers 43
+49 Acting Ministers and Deputy Ministers 43
+50 Secretary to the Cabinet of Ministers 44
+51 Secretary to the Prime Minister 44
+52 Secretaries to Ministries 44
+53 Official oath and affirmation 44
+
+### CHAPTER - IX
+
+#### THE EXECUTIVE
+
+#### THE PUBLIC SERVICE
+
+54 Public Service Commission 45
+55 Powers and Functions of Cabinet of Ministers and of the Commission 47
+56 Committees of the Commission 47
+57 Delegation of Powers to a Public officer 47
+58 Right of Appeal 48
+59 Administrative Appeals Tribunal 48
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
@@ -67,6 +196,49 @@ vii
 viii
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
+
+60 Commission not to Exercise Power where there is Delegation 48
+61 Procedure at Meetings 49
+61A Immunity from legal proceedings 49
+61B Savings of Rules and Regulations in force 49
+61C Interference with the Commission 49
+61D Oath or Affirmation of office 50
+61E Appointments by the President 50
+61F Interpretation 50
+
+### CHAPTER - X
+
+#### THE LEGISLATURE
+
+#### PARLIAMENT
+
+62 Parliament 51
+63 Official oath or affirmation 51
+64 Speaker, Deputy Speaker and Deputy Chairman of Committees 51
+65 Secretary-General of Parliament 52
+66 Vacation of seats 53
+67 Privileges, immunities and powers of Parliament and Members 53
+68 Allowances of Members 53
+69 Powers of Parliament to act notwithstanding vacancies 54
+
+### CHAPTER - XI
+
+#### THE LEGISLATURE
+
+#### PROCEDURE AND POWERS
+
+70 Sessions of Parliament 55
+71 Adjournment 56
+72 Voting 56
+73 Quorum 56
+74 Standing Orders 57
+75 Legislative power 57
+76 Delegation of legislative power 57
+77 Duties of Attorney-General in regard to published Bills 58
+78 Publication of Bills and passing of Bills and resolutions 58
+79 Certificate of Speaker 58
+80 When Bill becomes law 59
+81 Expulsion of Members and imposition of civic disability 60
 
 [[END OF PAGE 8]]
 
@@ -82,6 +254,40 @@ ix
 
 #### AMENDMENT OF THE CONSTITUTION
 
+82 Amendment or repeal of the Constitution must be expressed 62
+83 Approval of certain Bills at a Referendum 63
+84 Bills inconsistent with the Constitution 63
+
+### CHAPTER - XIII
+
+#### THE REFERENDUM
+
+85 Submission of Bills to People by Referendum 64
+86 Submission of matters of national importance to People by Referendum 64
+87 Parliament to provide for procedure 64
+
+### CHAPTER - XIV
+
+#### THE FRANCHISE AND ELECTIONS
+
+88 Right to be an elector 65
+89 Disqualification to be an elector 65
+90 Qualification for election as a Member of Parliament 68
+91 Disqualification for election as a Member of Parliament 68
+92 Disqualification for election as President 71
+93 Election to be free, equal and secret 71
+94 Election of the President 72
+95 Delimitation Commission 73
+96 Electoral Districts 73
+96A (Repealed) 74
+97 Proclamation of names, &c. of electoral districts 74
+98 Number of Members to be returned by the several electoral districts and their apportionment among such electoral districts 74
+99 Proportional representation 75
+99A Election of Members of Parliament on the basis of the total number of votes polled at a General Election 78
+100 Penalty for sitting and voting in Parliament when disqualified 80
+101 Parliament may make provision in respect of elections 80
+102 Public officer or an officer of a public corporation not to function during period of election 81
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
@@ -94,6 +300,46 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### ELECTION COMMISSION
 
+103 Election Commission 82
+104 Meetings of the Commission 83
+104A Finality of decisions and immunity from suit 83
+104B Powers, functions and duties of the Commission 84
+104C Deployment of Police by the Commission 86
+104D Deployment of Armed Forces 86
+104E Commissioner General of Elections and Other Officers of the Commission 87
+104F Returning Officers 88
+104G Public Officers 88
+104GG Failure to comply with directions to be an offence 88
+104H Power of Supreme Court to issue Writs 89
+104J Interpretation 89
+
+### CHAPTER - XV
+
+#### THE JUDICIARY
+
+105 Establishment of Courts, &c 90
+106 Public sittings 91
+
+#### INDEPENDENCE OF THE JUDICIARY
+
+107 Appointment and removal of Judges of the Supreme Court and Court of Appeal 91
+108 Salaries of Judges of the Supreme Court and Court of Appeal 92
+109 Acting appointments 92
+110 Performance or discharge of other duties or functions by Judges 93
+111 Appointment, removal and disciplinary control of Judges of the High Court 93
+111A Commissioners of the High Court 94
+111B Fiscal for the Whole Island 94
+111C Interference with Judiciary an Offence 94
+
+### CHAPTER - XV A
+
+#### JUDICIAL SERVICE COMMISSION
+
+111D Constitution of the Judicial Service Commission 96
+111E Meetings of the Commission 96
+111F Allowances of Members of the Commission 97
+111G Secretary to the Commission 97
+
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
@@ -101,6 +347,48 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 xi
+
+111H Powers of the Commission 97
+111J Judicial officers and scheduled public officers may resign 98
+111K Immunity from legal proceedings 98
+111L Interference with the Commission an offence 98
+111M Interpretation 98
+112-117 [ Repealed ]
+
+### CHAPTER - XVI
+
+#### THE SUPERIOR COURTS
+
+#### The Supreme Court
+
+118 General jurisdiction of Supreme Court 100
+119 Constitution of Supreme Court 100
+120 Constitutional Jurisdiction of the Supreme Court 101
+121 Ordinary exercise of constitutional jurisdiction in respect of Bills 101
+122 [ Repealed ]
+123 Determination of Supreme Court in respect of Bills 101
+124 Validity of Bills and legislative process not to be questioned 103
+125 Constitutional jurisdiction in the interpretation of the Constitution 103
+126 Fundamental rights jurisdiction and its exercise 103
+127 Appellate jurisdiction 104
+128 Right of appeal 104
+129 Consultative jurisdiction 105
+130 Jurisdiction in election and referendum petitions 106
+131 Jurisdiction in respect of the breaches of Parliamentary privileges 106
+132 Sittings of the Supreme Court 106
+133 Appointment of ad hoc judges 107
+134 Right to be heard by the Supreme court 107
+135 Registry of the Supreme Court and office of Registrar 107
+136 Rules of the Supreme Court 108
+
+#### THE COURT OF APPEAL
+
+137 The Court of Appeal 109
+138 Jurisdiction of the Court of Appeal 109
+139 Powers in appeal 110
+140 Power to issue writs other than writs of habeas corpus 110
+141 Power to issue writs of habeas corpus 110
+142 Power to bring up and remove prisoners 111
 
 [[END OF PAGE 11]]
 
@@ -110,6 +398,47 @@ xii
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+143 Power to grant injunctions 111
+144 Parliamentary election petitions 112
+145 Inspection of records 112
+146 Sittings of the Court of Appeal 113
+147 Registry of the Court of Appeal and office of Registrar 113
+
+### CHAPTER - XVII
+
+#### FINANCE
+
+148 Control of Parliament over public finance 114
+149 Consolidated Fund 114
+150 Withdrawal of sums from Consolidated Fund 114
+151 Contingencies Fund 115
+152 Special provisions as to Bills affecting public revenue 115
+153 Auditor-General 115
+153A Constitution of the Audit Service Commission 116
+153B Meeting of the Commission 117
+153C Powers and Functions of the Commission 117
+153D Influencing or attempting to influence decision of the Commission or any officer of the Sri Lanka State Audit Service, to be an offence 118
+153E Immunity from legal proceedings 118
+153F Costs and expenses 118
+153G Appeals to the Administrative Appeals Tribunal 118
+153H Commission to be answerable to Parliament 118
+154 Duties and functions of Auditor-General 118
+
+### CHAPTER - XVII A
+
+154A Establishment of Provincial Councils 122
+154B Governor 122
+154C Exercise of executive powers by the Governor 124
+154D Membership of Provincial Council 125
+154E Term of office 125
+154F Board of Ministers 125
+154G Statutes of Provincial Councils 126
+154H Assent 128
+154J Public Security 129
+154K Failure to comply with directions 130
+154L Failure of administrative machinery 130
+154M Parliament to confer powers of Provincial Council to President 132
+
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
@@ -117,6 +446,55 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 xiii
+
+154N Financial Instability 132
+154P High Court 133
+154Q Functions, powers, election &c. of Provincial Councils 134
+154R Finance Commission 135
+154S Special Provision enabling Provincial Councils not to Exercise powers under this Chapter 136
+154T Transitional measures 136
+
+### CHAPTER - XVIII
+
+#### PUBLIC SECURITY
+
+155 Public Security 137
+
+### CHAPTER - XVIII A
+
+#### NATIONAL POLICE COMMISSION
+
+155A Constitution of the National Police Commission 140
+155B Meetings of the Commission 141
+155C Immunity from legal proceedings 142
+155D Secretary to the Commission 142
+155E Costs and Expenses 142
+155F Interference with the Commission 142
+155FF [ Repealed ]
+155FFF Commission to make Rules 143
+155G Powers of the Commission 144
+155H Delegation of certain powers of the Commission to a Committee 144
+155J Delegation of certain functions by the Commission 144
+155K Right of Appeal 145
+155L Appeals to the Administrative Appeals Tribunal 145
+155M Saving of Existing Rules and Regulations 145
+155N Commission Answerable to Parliament 145
+
+### CHAPTER - XIX
+
+#### THE PARLIAMENTARY COMMISSIONER FOR ADMINISTRATION
+
+156 Parliamentary Commissioner for Administration 146
+
+### CHAPTER - XIXA
+
+#### COMMISSION TO INVESTIGATE ALLEGATIONS OF BRIBERY OR CORRUPTION
+
+156A Commission to Investigate Allegations of Bribery or Corruption 147
+
+### CHAPTER - XIXB
+
+#### NATIONAL PROCUREMENT COMMISSION
 
 [[END OF PAGE 13]]
 
@@ -126,6 +504,51 @@ xiv
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+156B National Procurement Commission 148
+156C Functions of the Commission 148
+156D Powers of the Commission 149
+156E Meetings of the Commission 150
+156F Staff of the Commission 150
+156G Expenses of the Commission to be charged on the Consolidated Fund 151
+156H Interpretation 151
+
+### CHAPTER - XX
+
+#### GENERAL
+
+157 International Treaties and Agreements 152
+157A Prohibition against violation of territorial integrity of Sri Lanka 152
+158 Delegation 156
+159 Deputy Speaker to act for Speaker 156
+
+### CHAPTER - XXI
+
+#### TRANSITIONAL PROVISIONS
+
+160 First President 157
+161 First Parliament 157
+162 Application of certain provisions 163
+163 Judges of Supreme court and High court to cease to hold office 163
+164 Continuation in office of Judges, public officers and others 164
+165 Oath or affirmation to be taken or made by public officers and others 164
+166 Powers, privileges, immunities and rights of the Republic 165
+167 Rights, duties and obligations of the Republic 165
+168 Past operation of laws, previous acts, offences and pending actions &c. 165
+169 Provisions relating to judiciary 166
+169A Provision relating to Queen’s Counsel and Senior Attorneys-at-Law 172
+
+### CHAPTER - XXII
+
+#### INTERPRETATION
+
+170 Interpretation 173
+
+### CHAPTER - XXIII
+
+#### REPEAL
+
+171 Repeal 176
+
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
@@ -133,6 +556,32 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 xv
+
+### CHAPTER - XXIV
+
+#### PROMULGATION OF THE CONSTITUTION
+
+172 Promulgation of the Constitution 177
+
+Other Consequential Amendments in the Nineteenth Amendment to the Constitution 178
+
+### SCHEDULES
+
+First Schedule 182
+Second Schedule 183
+Third Schedule 185
+Fourth Schedule 189
+Fifth Schedule 190
+Sixth Schedule 191
+Seventh Schedule 192
+Eighth Schedule 193
+Ninth Schedule 194
+
+### APPENDIXES
+
+Appendix I 200
+Appendix II 206
+Appendix III 209
 
 [[END OF PAGE 15]]
 
@@ -150,7 +599,7 @@ xvii
 
 ## SVASTI
 
-The PEOPLE OF SRI LANKA having, by their Mandate freely expressed and granted on the Sixth day of the waxing moon in the month of Adhi Nikini in the year Two Thousand Five Hundred and Twenty one of the Buddhist Era (being Thursday the Twenty first day of the month of July in the year One Thousand Nine Hundred and Seventy seven), entrusted to and empowered their Representatives elected on that day to draft, adopt and operate a new Republican Constitution in order to achieve the goals of a DEMOCRATIC SOCIALIST REPUBLIC, and having solemnly resolved by the grant of such Mandate and the confidence reposed in their said Representatives who were elected by an overwhelming majority, to constitute SRI LANKA into a DEMOCRATIC SOCIALIST REPUBLIC whilst ratifying the immutable republican principles  of  REPRESENTATIVE  DEMOCRACY  and  assuring  to  all  People  s FREEDOM, EQUALITY, JUSTICE , FUNDAMENTAL HUMAN RIGHTS and the INDEPENDENCE OF THE JUDICIARY as the intangible heritage that guarantees the dignity and well-being of succeeding generations of the People of SRI LANKA and of all the People of the World, who come to share with those generations the effort of working for the creation and preservation of a JUST AND FREE SOCIETY :
+The PEOPLE OF SRI LANKA having, by their Mandate freely expressed and granted on the Sixth day of the waxing moon in the month of Adhi Nikini in the year Two Thousand Five Hundred and Twenty one of the Buddhist Era (being Thursday the Twenty first day of the month of July in the year One Thousand Nine Hundred and Seventy seven), entrusted to and empowered their Representatives elected on that day to draft, adopt and operate a new Republican Constitution in order to achieve the goals of a DEMOCRATIC SOCIALIST REPUBLIC, and having solemnly resolved by the grant of such Mandate and the confidence reposed in their said Representatives who were elected by an overwhelming majority, to constitute SRI LANKA into a DEMOCRATIC SOCIALIST REPUBLIC whilst ratifying the immutable republican principles of REPRESENTATIVE DEMOCRACY and assuring to all People’s FREEDOM, EQUALITY, JUSTICE, FUNDAMENTAL HUMAN RIGHTS and the INDEPENDENCE OF THE JUDICIARY as the intangible heritage that guarantees the dignity and well-being of succeeding generations of the People of SRI LANKA and of all the People of the World, who come to share with those generations the effort of working for the creation and preservation of a JUST AND FREE SOCIETY :
 
 WE, THE FREELY ELECTED REPRESENTATIVES OF THE PEOPLE OF SRI LANKA, in pursuance of such Mandate, humbly acknowledging our obligations to  our  People  and  gratefully  remembering their heroic and unremitting struggle to regain and preserve their rights and privileges so that the Dignity and Freedom of the Individual may be assured, Just, Social, Economic and Cultural Order attained, the Unity of the Country restored, and Concord established with other Nations,
 
@@ -186,23 +635,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### THE PEOPLE, THE STATE AND SOVEREIGNTY
 
-- Sri  Lanka  (Ceylon)  is  a  Free,  Sovereign,  Independent and Democratic Socialist Republic and shall be known as the Democratic Socialist Republic of Sri Lanka.
+1. Sri Lanka (Ceylon) is a Free, Sovereign, Independent and Democratic Socialist Republic and shall be known as the Democratic Socialist Republic of Sri Lanka.
 
-- The Republic of Sri Lanka is a Unitary State.
+2. The Republic of Sri Lanka is a Unitary State.
 
-- In  the  Republic  of  Sri  Lanka  sovereignty  is  in  the People and is inalienable. Sovereignty includes the powers of government, fundamental rights and the franchise.
+3. In the Republic of Sri Lanka sovereignty is in the People and is inalienable. Sovereignty includes the powers of government, fundamental rights and the franchise.
 
-- The  Sovereignty  of  the  People  shall  be  exercised  and enjoyed in the following manner :-
+4. The Sovereignty of the People shall be exercised and enjoyed in the following manner :–
 
 (a) the legislative power of the People shall be exercised by Parliament, consisting of elected representatives of the People and by the People at a Referendum ;
 
-(b) the  executive  power  of  the  People,  including  the defence  of  Sri  Lanka,  shall  be  exercised  by  the President of the Republic elected by the People ;
+(b) the executive power of the People, including the defence of Sri Lanka, shall be exercised by the President of the Republic elected by the People ;
 
-(c) the judicial power of the People shall be exercised by Parliament  through  courts,  tribunals  and  institutions created and established, or recognized, by the Constitution, or created and established by law, except in  regard  to  matters  relating  to  the  privileges,  immunities and powers of Parliament and of its Members, wherein the  judicial  power  of  the  People  may  be  exercised directly by Parliament according to law ;
+(c) the judicial power of the People shall be exercised by Parliament through courts, tribunals and institutions created and established, or recognized, by the Constitution, or created and established by law, except in regard to matters relating to the privileges, immunities and powers of Parliament and of its Members, wherein the judicial power of the People may be exercised directly by Parliament according to law ;
 
 (d) the fundamental rights which are by the Constitution declared and recognized shall be respected, secured and advanced by all the organs of government and shall not be abridged, restricted or denied, save in the manner and to the extent hereinafter provided; and
 
-(e) the franchise shall be exercisable at the election of the President of the Republic and of the Members of Parliament and at every Referendum by every citizen who  has  attained  the  age  of  eighteen  years  and who, being qualified to be an elector as hereinafter provided,  has  his  name  entered  in  the  register  of electors.
+(e) the franchise shall be exercisable at the election of the President of the Republic and of the Members of Parliament and at every Referendum by every citizen who has attained the age of eighteen years and who, being qualified to be an elector as hereinafter provided, has his name entered in the register of electors.
 
 #### The State.
 
@@ -228,19 +677,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### The National Day.
 
-- The territory of the Republic of Sri Lanka shall consist of the 1 [twenty- five] administrative districts, the names of which are set out in the First Schedule and its 2 [territorial waters:
+5. The territory of the Republic of Sri Lanka shall consist of the 1[twenty-five] administrative districts, the names of which are set out in the First Schedule and its 2[territorial waters:
 
-Provided  that  such  administrative  districts  may  be  subdivided or  amalgamated  so  as  to  constitute  different  administrative districts, as Parliament may by resolution determine].
+Provided that such administrative districts may be subdivided or amalgamated so as to constitute different administrative districts, as Parliament may by resolution determine].
 
-- The National Flag of the Republic of Sri Lanka shall be the Lion Flag depicted in the Second Schedule.
+6. The National Flag of the Republic of Sri Lanka shall be the Lion Flag depicted in the Second Schedule.
 
-- The National Anthem of the Republic of Sri Lanka shall be 'Sri Lanka Matha', the words and music of which are set out in the Third Schedule.
+7. The National Anthem of the Republic of Sri Lanka shall be “Sri Lanka Matha”, the words and music of which are set out in the Third Schedule.
 
-- The National Day of the Republic of Sri Lanka shall be the fourth day of February.
+8. The National Day of the Republic of Sri Lanka shall be the fourth day of February.
 
-> 1 Substituted by Seventh Amendment to the Constitution Sec. 2(a) for 'twenty four'.
+1 - Substituted by Seventh Amendment to the Constitution Sec. 2(a) for “twenty four”.
 
-> 2 Substituted by Seventh Amendment to the Constitution Sec. 2(b) for 'territorial waters'.
+2 - Substituted by Seventh Amendment to the Constitution Sec. 2(b) for “territorial waters”.
 
 [[END OF PAGE 20]]
 
@@ -254,7 +703,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### BUDDHISM
 
-- The  Republic  of  Sri  Lanka  shall  give  to  Buddhism  the foremost place and accordingly it shall be the duty of the State to protect and foster the Buddha Sasana, while assuring to all religions the rights granted by Articles 10 and 14(1)( e ).
+9. The Republic of Sri Lanka shall give to Buddhism the foremost place and accordingly it shall be the duty of the State to protect and foster the Buddha Sasana, while assuring to all religions the rights granted by Articles 10 and 14(1)(e).
 
 #### Buddhism
 
@@ -278,25 +727,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### FUNDAMENTAL RIGHTS
 
-- Every person is entitled to freedom of thought, conscience and religion, including the freedom to have or to adopt a religion or belief of his choice.
+10. Every person is entitled to freedom of thought, conscience and religion, including the freedom to have or to adopt a religion or belief of his choice.
 
-- No  person  shall  be  subjected  to  torture  or  to  cruel, inhuman or degrading treatment or punishment.
+11. No person shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
 
-(1) All persons are equal before the law and are entitled to the equal protection of the law.
+12. (1) All persons are equal before the law and are entitled to the equal protection of the law.
 
-- No citizen shall be discriminated against on the grounds of race, religion, language, caste, sex, political opinion, place of birth or any one of such grounds :
+(2) No citizen shall be discriminated against on the grounds of race, religion, language, caste, sex, political opinion, place of birth or any one of such grounds :
 
-Provided  that  it  shall  be  lawful  to  require  a  person  to acquire  within  a  reasonable  time  sufficient  knowledge  of  any language as a qualification for any employment or office in the Public, Judicial or Local Government Service or in the service of any Public Corporation, where such knowledge is reasonably necessary for the discharge of the duties of such employment or office :
+Provided that it shall be lawful to require a person to acquire within a reasonable time sufficient knowledge of any language as a qualification for any employment or office in the Public, Judicial or Local Government Service or in the service of any Public Corporation, where such knowledge is reasonably necessary for the discharge of the duties of such employment or office :
 
-Provided further that it shall be lawful to require a person to have a sufficient knowledge of any language as a qualification for  any  such  employment or  office  where  no  function  of  that employment or office can be discharged otherwise than with a knowledge of that language.
+Provided further that it shall be lawful to require a person to have a sufficient knowledge of any language as a qualification for any such employment or office where no function of that employment or office can be discharged otherwise than with a knowledge of that language.
 
-- No  person  shall,  on  the  grounds  of  race,  religion, language,  caste,  sex  or  any  one  of  such  grounds,  be  subject to  any  disability,  liability,  restriction  or  condition  with  regard to  access  to  shops,  public  restaurants,  hotels,  places  of  public entertainment and places of public worship of his own religion.
+(3) No person shall, on the grounds of race, religion, language, caste, sex or any one of such grounds, be subject to any disability, liability, restriction or condition with regard to access to shops, public restaurants, hotels, places of public entertainment and places of public worship of his own religion.
 
-- Nothing  in  this Article  shall  prevent  special  provision being made, by law, subordinate legislation or executive action, for the advancement of women, children or disabled persons.
+(4) Nothing in this Article shall prevent special provision being made, by law, subordinate legislation or executive action, for the advancement of women, children or disabled persons.
 
-(1)  No  person  shall  be  arrested  except  according  to procedure  established  by  law.  Any  person  arrested  shall  be informed of the reason for his arrest.
+13. (1) No person shall be arrested except according to procedure established by law. Any person arrested shall be informed of the reason for his arrest.
 
-- Every  person  held  in  custody,  detained  or  otherwise deprived of personal liberty shall be brought before the judge of
+(2) Every person held in custody, detained or otherwise deprived of personal liberty shall be brought before the judge of
 
 [[END OF PAGE 22]]
 
@@ -320,7 +769,7 @@ Provided that the burden of proving particular facts may, by law, be placed on a
 
 Nothing in this  Article  shall  prejudice  the  trial  and  punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognized by the community of nations.
 
-It  shall  not  be  contravention  of  this Article  to  require  the imposition of a minimum penalty for an offence provided that such penalty does not exceed the maximum penalty prescribed for such offence at the time such offence was committed.
+It shall not be a contravention of this Article to require the imposition of a minimum penalty for an offence provided that such penalty does not exceed the maximum penalty prescribed for such offence at the time such offence was committed.
 
 (7)  The  arrest,  holding  in  custody,  detention  or  other deprivation of personal liberty of a person, by reason of a removal order or a deportation order made under the provisions of the Immigrants and Emigrants Act or the Indo-Ceylon Agreement (Implementation) Act, No. 14 of 1967, or such other law as may be enacted in substitution therefor, shall not be a contravention of this Article.
 
@@ -336,7 +785,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### Right of access to information.
 
-(1) Every citizen is entitled to -
+14. (1) Every citizen is entitled to –
 
 (a) the  freedom  of  speech  and  expression  including publication ;
 
@@ -358,13 +807,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (2)  A person who, not being a citizen of any other country, has been permanently and legally resident in Sri Lanka immediately prior to the commencement of the Constitution and continues to be so resident shall be entitled, for a period of ten years from the commencement of the Constitution, to the rights declared and recognized by paragraph (1) of this Article.
 
-- 3 [ 14A. (1)  Every citizen shall have the right of access to any information as provided for by law, being information that is required for the exercise or protection of a citizen's right held by:-
+3[14A. (1) Every citizen shall have the right of access to any information as provided for by law, being information that is required for the exercise or protection of a citizen’s right held by:–
 
 (a) the State, a Ministry or any Government Department or  any  statutory  body  established  or  created  by  or under any law;
 
-(b) any Ministry of a Minster of the Board of Ministers of a Province or any Department or any statutory body established  or  created  by  a  statute  of  a  Provincial Council;
+(b) any Ministry of a Minister of the Board of Ministers of a Province or any Department or any statutory body established or created by a statute of a Provincial Council;
 
-3 Inserted by Sec. 2 of the Nineteenth Amendment to the Constitution
+3 - Inserted by Sec. 2 of the Nineteenth Amendment to the Constitution
 
 [[END OF PAGE 24]]
 
@@ -380,7 +829,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (2) No restrictions shall be placed on the right declared and recognized by this Article, other than such restrictions prescribed by law as are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals  and  of  the  reputation  or  the  rights  of  others,  privacy, prevention  of  contempt  of  court,  protection  of  parliamentary privilege, for preventing the disclosure of information communicated in confidence, or for maintaining the authority and impartiality of the judiciary.
 
-(3)  In  this  Article,  'citizen'  includes  a  body  whether incorporated or unincorporated, if not less than three-fourths of the members of such body are citizens.
+(3) In this Article, “citizen” includes a body whether incorporated or unincorporated, if not less than three-fourths of the members of such body are citizens.]
 
 15. (1) The exercise and operation of the fundamental rights declared  and  recognized  by Articles  13(5)  and  13(6)  shall  be subject only to such restrictions as may be prescribed by law in  the  interests  of  national  security.  For  the  purposes  of  this paragraph 'law' includes regulations made under the law for the time being relating to public security.
 
@@ -392,7 +841,6 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (5)  The  exercise  and  operation  of  the  fundamental  right declared and recognized by Article 14(1)(g) shall be subject to
 #### Restrictions on fundamental rights
-#### Existing written law and unwritten law to continue in force.
 
 [[END OF PAGE 25]]
 
@@ -402,21 +850,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-such restrictions as may be prescribed by law in the interests of national economy or in relation to -
+such restrictions as may be prescribed by law in the interests of national economy or in relation to –
 
-(a) the professional, technical, academic, financial and  other  qualifications  necessary  for  practising any profession or carrying on any occupation, trade,  business  or  enterprise  and  the  licensing  and disciplinary  control  of  the  person  entitled  to  such fundamental right; and
+(a) the professional, technical, academic, financial and other qualifications necessary for practising any profession or carrying on any occupation, trade, business or enterprise and the licensing and disciplinary control of the person entitled to such fundamental right; and
 
 (b) the carrying on by the State, a State agency or a public corporation of any trade, business, industry, service or enterprise whether to the exclusion, complete or partial, of citizens or otherwise.
 
-- The  exercise  and  operation  of  the  fundamental  right declared and recognized by Article 14(1)(h) shall be subject to such restrictions as may be prescribed by law in the interests of national economy.
+(6) The exercise and operation of the fundamental right declared and recognized by Article 14(1)(h) shall be subject to such restrictions as may be prescribed by law in the interests of national economy.
 
-- The exercise and operation of all the fundamental rights declared and recognized by Articles 12, 13(1), 13(2) and 14 shall be subject to such restrictions as may be prescribed by law in the interests of national security, public order and the protection of public health or morality, or for the purpose of securing due recognition and respect for the rights and freedoms of others, or  of  meeting  the  just  requirements  of  the  general  welfare  of a democratic society. For the purposes of this paragraph 'law' includes  regulations  made  under  the  law  for  the  time  being relating to public security.
+(7) The exercise and operation of all the fundamental rights declared and recognized by Articles 12, 13(1), 13(2) and 14 shall be subject to such restrictions as may be prescribed by law in the interests of national security, public order and the protection of public health or morality, or for the purpose of securing due recognition and respect for the rights and freedoms of others, or of meeting the just requirements of the general welfare of a democratic society. For the purposes of this paragraph “law” includes regulations made under the law for the time being relating to public security.
 
-- The  exercise  and  operation  of  the  fundamental  rights declared and recognized by Articles 12(1), 13 and 14 shall, in their  application  to  the  members  of  the Armed  Forces,  Police Force and other Forces charged with the maintenance of public order, be subject to such restrictions as may be prescribed by law in the interests of the proper discharge of their duties and the maintenance of discipline among them.
+(8) The exercise and operation of the fundamental rights declared and recognized by Articles 12(1), 13 and 14 shall, in their application to the members of the Armed Forces, Police Force and other Forces charged with the maintenance of public order, be subject to such restrictions as may be prescribed by law in the interests of the proper discharge of their duties and the maintenance of discipline among them.
 
-(1) All existing written law and unwritten law shall be valid and operative notwithstanding any inconsistency with the preceding provisions of this Chapter.
+16. (1) All existing written law and unwritten law shall be valid and operative notwithstanding any inconsistency with the preceding provisions of this Chapter.
 
-- The subjection of any person on the order of a competent court  to  any  form  of  punishment  recognized  by  any  existing written law shall not be a contravention of the provisions of this Chapter.
+(2) The subjection of any person on the order of a competent court to any form of punishment recognized by any existing written law shall not be a contravention of the provisions of this Chapter.
+
+#### Existing written law and unwritten law to continue in force.
 
 [[END OF PAGE 26]]
 
@@ -426,7 +876,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 9
 
-- Every person shall be entitled to apply to the Supreme Court, as provided by Article 126, in respect of the infringement or imminent infringement, by executive or administrative action, of a fundamental right to which such person is entitled under the provisions of this Chapter.
+17. Every person shall be entitled to apply to the Supreme Court, as provided by Article 126, in respect of the infringement or imminent infringement, by executive or administrative action, of a fundamental right to which such person is entitled under the provisions of this Chapter.
 
 #### Remedy for the infringement of fundamental rights by executive action.
 
@@ -450,33 +900,33 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### LANGUAGE
 
-- 4 [(1)]  The  Official  Language  of  Sri  Lanka  shall  be Sinhala.
+18. 4 [(1)] The Official Language of Sri Lanka shall be Sinhala.
 
-- 5 [(2)	Tamil shall also be an official language.
+5 [(2) Tamil shall also be an official language.
 
-- English shall be the link language.
+(3) English shall be the link language.
 
-- Parliament  shall  by  law  provide  for  the  implementation of the provisions of this Chapter].
+(4) Parliament shall by law provide for the implementation of the provisions of this Chapter].
 
-- The National Languages of Sri Lanka shall be Sinhala and Tamil.
+19. The National Languages of Sri Lanka shall be Sinhala and Tamil.
 
-- A Member of Parliament or 6 [a member of a Provincial Council or a Local Authority] shall be entitled to perform his duties  and  discharge  his  functions  in  Parliament 7 [or  in  such Provincial Council or Local Authority] in either of the National Languages.
+20. A Member of Parliament or 6 [a member of a Provincial Council or a Local Authority] shall be entitled to perform his duties and discharge his functions in Parliament 7 [or in such Provincial Council or Local Authority] in either of the National Languages.
 
-(1) A person shall be entitled to be educated through the medium of either of the National Languages :
+21. (1) A person shall be entitled to be educated through the medium of either of the National Languages :
 
-Provided  that  the  provisions  of  this  paragraph  shall  not apply to an institution of higher education where the medium of instruction is a language other than a National Language.
+Provided that the provisions of this paragraph shall not apply to an institution of higher education where the medium of instruction is a language other than a National Language.
 
-- Where one National Language is a medium of instruction for  or  in  any  course,  department  or  faculty  of  any  University directly or indirectly financed by the State, the other National Language shall also be made a medium of instruction for or in such  course,  department  or  faculty  for  students  who  prior  to their admission to such University, were educated through the medium of such other National Language :
+(2) Where one National Language is a medium of instruction for or in any course, department or faculty of any University directly or indirectly financed by the State, the other National Language shall also be made a medium of instruction for or in such course, department or faculty for students who prior to their admission to such University, were educated through the medium of such other National Language :
 
 Provided  that  compliance  with  the  preceding  provisions of this paragraph shall not be obligatory if such other National Language is the medium of instruction for or in any like course, department or faculty either at any other campus or branch of such University or of any other like University.
 
-> 4 Renumbered as paragraph (1) of Article 18 by Section 2(a) of the Thirteenth Amendment to the Constitution.
+> 4 - Renumbered as paragraph (1) of Article 18 by Section 2(a) of the Thirteenth Amendment to the Constitution.
 
-> 5 Added by Section 2(b) of the Thirteenth Amendment to the Constitution.
+> 5 - Added by Section 2(b) of the Thirteenth Amendment to the Constitution.
 
-> 6 Substituted by Section 2(1) of the Sixteenth Amendment to the Constitution for 'or a Member of a Local Authority'.
+> 6 - Substituted by Section 2(1) of the Sixteenth Amendment to the Constitution for “or a Member of a Local Authority”.
 
-> 7 Substituted by Section 2(2) of the Sixteenth Amendment to the Constitution for 'or in such Local Authority'.
+> 7 - Substituted by Section 2(2) of the Sixteenth Amendment to the Constitution for “or in such Local Authority”.
 
 [[END OF PAGE 28]]
 
@@ -486,7 +936,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 11
 
-(3)  In  this Article  'University' includes any institution of higher education.
+(3) In this Article “University” includes any institution of higher education.
 
 8 [ 22. (1)  Sinhala  and  Tamil  shall  be  the  languages  of administration  throughout  Sri  Lanka  and  Sinhala  shall  be  the language  of  administration  and  be  used  for  the  maintenance of public records and the transaction of all business by public institutions  of  all  the  Provinces  of  Sri  Lanka  other  than  the Northern and Eastern Provinces where Tamil shall be so used :
 
@@ -502,7 +952,7 @@ Provided  that  the  President  may,  having  regard  to  the proportion  which 
 
 (3)  In  any  area  where  Tamil  is  used  as  the  language  of administration,  a  person  other  than  an  official  acting  in  his official capacity, shall be entitled to exercise the rights and to obtain the services, referred to in sub paragraphs (a), (b) and (c) of paragraph (2) of this Article, in Sinhala or English.
 
-> 8 Original Article 22 replaced by Section 3 of the Sixteenth Amendment to the Constitution.
+> 8 - Original Article 22 replaced by Section 3 of the Sixteenth Amendment to the Constitution.
 
 #### Languages of Administration.
 
@@ -516,17 +966,17 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (4)  A  Provincial  Council  or  a  Local  Authority  which conducts  its  business  in  Sinhala  shall  be  entitled  to  receive communications from and to communicate  and transact business with, any official in his official capacity, in Sinhala and a Provincial Council or a Local Authority which conducts its business in Tamil shall be entitled to receive communications from  and  to  communicate  and  transact  business  with,  any official in his official capacity, in Tamil :
 
-Provided,  however,  that  a  Provincial  Council,  Local  Authority, Public Institution or any official receiving communications from transacting business with any other or Provincial Council, Local Authority,  Public  Institution  or  an  official  functioning  in  an area in which a different language is used as the Language of administration shall be entitled to receive communications from and to communicate and transact business in English.
+Provided, however, that a Provincial Council, Local Authority, Public Institution or any official receiving communications from or transacting business with any other Provincial Council, Local Authority, Public Institution or an official functioning in an area in which a different language is used as the Language of administration shall be entitled to receive communications from and to communicate and transact business in English.
 
 (5) A person shall be entitled to be examined through the medium of either Sinhala or Tamil or a language of his choice at any examination for the admission of persons to the Public Service,  Judicial  Service,  Provincial  Public  Service,  Local Government  Service  or any public institution, subject to the  condition  that  he  may  be  required  to  acquire  a  sufficient knowledge of Tamil or Sinhala, as the case may be, within a reasonable  time  after  admission  to  such  service  or  public institution  where  such  knowledge  is  reasonably  necessary  for the discharge of his duties :
 
 Provided that a person may be required to have a sufficient knowledge of Sinhala or Tamil, as a condition for admission to  any  such  service  or  public  institution  where  no  function of the office or employment for which he is recruited can be discharged otherwise than with a sufficient knowledge of such language.
 
-(6) In this Article -
+(6) In this Article –
 
-'Official' means  the President, any Minister,  Deputy Minister, Governor, Chief Minister or Minister of the Board of Ministers of a Province, or any officer of a public institution ; local authority or Provincial Council ; and
+“Official” means the President, any Minister, Deputy Minister, Governor, Chief Minister or Minister of the Board of Ministers of a Province, or any officer of a public institution ; local authority or Provincial Council ; and
 
-'Public Institution' means a department or institution of the Government, a public corporation or statutory institution.]
+“Public Institution” means a department or institution of the Government, a public corporation or statutory institution.]
 
 [[END OF PAGE 30]]
 
@@ -554,7 +1004,7 @@ Provided further that in respect of all other written laws and the text in which
 
 #### Languages of the courts.
 
-Provided that the Minister in charge of the subject of Justice may,  with  the  concurrence  of  the  Cabinet  of  Ministers  direct that  the  record  of  any  court  shall  also  be  maintained  and  the proceedings conducted in a language other than the language of the court ; ]
+Provided that the Minister in charge of the subject of Justice may, with the concurrence of the Cabinet of Ministers direct
 
 > 9 Original Article 23 replaced by the Sixteenth Amendment to the Constitution Sec. 3.
 
@@ -568,25 +1018,27 @@ Provided that the Minister in charge of the subject of Justice may,  with  the  
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+that the record of any court shall also be maintained and the proceedings conducted in a language other than the language of the court ; ]
+
 (2) Any party or applicant or any person legally entitled to represent such party or applicant may initiate proceedings and submit to court pleadings and other documents and participate in the proceedings in courts, 11 [in either Sinhala or Tamil.]
 
 (3)  Any  judge,  juror,  party  or  applicant  or  any  person legally entitled to represent such party or applicant, who is not conversant with the language used in a court, shall be entitled to  interpretation  and  to  translation  into 11 [Sinhala  or  Tamil] provided by the State, to enable him to understand and participate in the proceedings before such court and shall also be entitled to obtain in 12 [such language] any such part of the record or a translation thereof, as the case may be, as he may be entitled to obtain according to law.
 
 (4)  The  Minister  in  charge  of  the  subject  of  Justice  may, with the concurrence  of the Cabinet  of Ministers, issue, directions permitting 13 [the use of English] in or in relation to the records and proceedings in any court for all purposes or for such purposes as may be specified therein. Every judge shall be bound to implement such directions.
 
-(5) In this Article -
+(5) In this Article –
 
-'Court' means any court or tribunal created and established for the administration of justice including the adjudication and settlement of industrial and other disputes, or any other tribunal or  institution  exercising  judicial  or  quasi-judicial  functions or  any  tribunal  or  institution  created  and  established  for  the conciliation and settlement of disputes ;
+“Court” means any court or tribunal created and established for the administration of justice including the adjudication and settlement of industrial and other disputes, or any other tribunal or institution exercising judicial or quasi-judicial functions or any tribunal or institution created and established for the conciliation and settlement of disputes ;
 
-"Judge' includes the President, Chairman, Presiding Officer and member of any court ; and
+“Judge” includes the President, Chairman, Presiding Officer and member of any court ; and
 
-'Record' includes Pleadings, Judgments, Orders and Other judicial and Ministerial acts.
+“Record” includes Pleadings, Judgments, Orders and Other judicial and Ministerial acts.
 
-> 11 -	 Substituted  by  the  Sixteenth  Amendment  to  the  Constitution  Sec.  4(2)  for  'in  either  of  the  National Languages'.
+> 11 - Substituted by the Sixteenth Amendment to the Constitution Sec. 4(2) for “in either of the National Languages”.
 
-> 12 -	 Substituted  by  the  Sixteenth Amendment to the Constitution Sec. 4(3)(a) for 'the appropriate National Language.'
+> 12 - Substituted by the Sixteenth Amendment to the Constitution Sec. 4(3)(a) for “the appropriate National Language.”
 
-> 13 -	 Substituted  by  the  Sixteenth  Amendment  to  the  Constitution  Sec.  4(3)(b)  for  'either  of  the  National Languages.'
+> 13 - Substituted by the Sixteenth Amendment to the Constitution Sec. 4(3)(b) for “either of the National Languages.”
 
 [[END OF PAGE 32]]
 
@@ -596,9 +1048,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 15
 
-- The State shall provide adequate facilities for the use of the languages provided for in this Chapter.
+25. The State shall provide adequate facilities for the use of the languages provided for in this Chapter.
 
-- 14 [ 25A. In  the  event  of  any  inconsistency  between  the provisions  of  any  law  and  the  provisions  of  this  Chapter,  the provisions of this Chapter shall prevail.]
+14 [25A. In the event of any inconsistency between the provisions of any law and the provisions of this Chapter, the provisions of this Chapter shall prevail.]
 
 #### Provision for adequate facilities for use of languages provided for in this Chapter.
 
@@ -620,19 +1072,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### CITIZENSHIP
 
-(1) There shall be one status of citizenship known as 'the status of a citizen of Sri Lanka'.
+26. (1) There shall be one status of citizenship known as “the status of a citizen of Sri Lanka”.
 
-- A citizen of Sri Lanka shall for all purposes be described only as a 'citizen of Sri Lanka', whether such person became entitled to citizenship by descent or by virtue of registration in accordance with the law relating to citizenship.
+(2) A citizen of Sri Lanka shall for all purposes be described only as a “citizen of Sri Lanka”, whether such person became entitled to citizenship by descent or by virtue of registration in accordance with the law relating to citizenship.
 
-- No  distinction  shall  be  drawn  between  citizens  of  Sri Lanka for any purpose by reference to the mode of acquisition of such status, as to whether acquired by descent or by virtue of registration.
+(3) No distinction shall be drawn between citizens of Sri Lanka for any purpose by reference to the mode of acquisition of such status, as to whether acquired by descent or by virtue of registration.
 
-- No citizen of Sri Lanka shall be deprived of his status of a citizen of Sri Lanka, except under and by virtue of the provisions of sections 19, 20, 21 and 22 of the Citizenship Act :
+(4) No citizen of Sri Lanka shall be deprived of his status of a citizen of Sri Lanka, except under and by virtue of the provisions of sections 19, 20, 21 and 22 of the Citizenship Act :
 
 Provided that the provisions of sections 23 and 24 of that Act shall also be applicable to a person who became entitled to the status of a citizen of Sri Lanka by virtue of registration under the provisions of section 11, 12 or 13 of that Act.
 
-- Every person who immediately prior to the commencement of the Constitution was a citizen of Sri Lanka, whether by descent or by virtue of registration  in  accordance with any law relating to citizenship, shall be entitled to the status and to the rights  of  a  citizen  of  Sri  Lanka  as  provided  in  the preceding provisions of this Article.
+(5) Every person who immediately prior to the commencement of the Constitution was a citizen of Sri Lanka, whether by descent or by virtue of registration in accordance with any law relating to citizenship, shall be entitled to the status and to the rights of a citizen of Sri Lanka as provided in the preceding provisions of this Article.
 
-- The  provisions  of  all  existing  written  laws  relating  to citizenship and all other existing written laws wherein reference is  made  to  citizenship  shall  be  read  subject  to  the  preceding provisions of this Article.
+(6) The provisions of all existing written laws relating to citizenship and all other existing written laws wherein reference is made to citizenship shall be read subject to the preceding provisions of this Article.
 
 [[END OF PAGE 34]]
 
@@ -648,7 +1100,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 27. (1)  The  Directive  Principles  of  State  Policy  herein contained shall guide Parliament, the President and the Cabinet of Ministers in the enactment of laws and the governance of Sri Lanka for the establishment of a just and free society.
 
-(2)  The State is  pledged to establish in Sri Lanka a Democratic Socialist Society, the objectives of which include -
+(2) The State is pledged to establish in Sri Lanka a Democratic Socialist Society, the objectives of which include –
 
 (a) the  full  realization  of  the  fundamental  rights  and freedoms of all persons ;
 
@@ -676,25 +1128,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (h) the complete eradication of illiteracy and the assurance to all persons of the right to universal and equal access to education at all levels.
 
-- The State shall safeguard the independence, sovereignty, unity and the territorial integrity of Sri Lanka.
+(3) The State shall safeguard the independence, sovereignty, unity and the territorial integrity of Sri Lanka.
 
-- The State shall strengthen and broaden the democratic structure of government and the democratic rights of the People by decentralizing the administration  and by affording all possible opportunities to the People to participate at every level in national life and in government.
+(4) The State shall strengthen and broaden the democratic structure of government and the democratic rights of the People by decentralizing the administration and by affording all possible opportunities to the People to participate at every level in national life and in government.
 
-- The State shall strengthen national unity by promoting co-operation and mutual confidence among all sections of the People of  Sri  Lanka,  including  the  racial,  religious,  linguistic and  other  groups  and  shall  take  effective  steps  in  the  fields of  teaching,  education  and  information  in  order  to  eliminate discrimination and prejudice.
+(5) The State shall strengthen national unity by promoting co-operation and mutual confidence among all sections of the People of Sri Lanka, including the racial, religious, linguistic and other groups and shall take effective steps in the fields of teaching, education and information in order to eliminate discrimination and prejudice.
 
-- The State shall ensure equality of opportunity to citizens, so that no citizen shall suffer any disability on the ground of race, religion, language, caste, sex, political opinion or occupation.
+(6) The State shall ensure equality of opportunity to citizens, so that no citizen shall suffer any disability on the ground of race, religion, language, caste, sex, political opinion or occupation.
 
-- The State shall eliminate economic and social privilege and disparity and the exploitation of man by man or by the State.
+(7) The State shall eliminate economic and social privilege and disparity and the exploitation of man by man or by the State.
 
-- The State shall ensure that the operation of the economic system does not result in the concentration of wealth and the means of production to the common detriment.
+(8) The State shall ensure that the operation of the economic system does not result in the concentration of wealth and the means of production to the common detriment.
 
-- The State shall ensure social security and welfare.
+(9) The State shall ensure social security and welfare.
 
-- The State shall assist the development of the cultures and the languages of the People.
+(10) The State shall assist the development of the cultures and the languages of the People.
 
-- The State shall create the necessary economic and social environment to enable people of all religious faiths to make a reality of their religious principles.
+(11) The State shall create the necessary economic and social environment to enable people of all religious faiths to make a reality of their religious principles.
 
-- The State shall recognize and protect the family as the basic unit of society.
+(12) The State shall recognize and protect the family as the basic unit of society.
 
 [[END OF PAGE 36]]
 
@@ -704,13 +1156,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 19
 
-- The State shall promote with special care the interests of  children and youth, so as to ensure their full development, physical, mental, moral, religious and social, and to protect them from exploitation and discrimination.
+(13) The State shall promote with special care the interests of children and youth, so as to ensure their full development, physical, mental, moral, religious and social, and to protect them from exploitation and discrimination.
 
-- The  State  shall  protect,  preserve  and  improve  the environment for the benefit of the community.
+(14) The State shall protect, preserve and improve the environment for the benefit of the community.
 
-- The State  shall  promote  international  peace,  security and co-operation, and the establishment of a just and equitable international  economic  and  social  order  and  shall  endeavour to foster respect for international law and treaty obligations in dealings among nations.
+(15) The State shall promote international peace, security and co-operation, and the establishment of a just and equitable international economic and social order and shall endeavour to foster respect for international law and treaty obligations in dealings among nations.
 
-- The exercise and enjoyment of rights and freedoms are inseparable from the performance of duties and obligations and accordingly it is the duty of every person in Sri Lanka -
+28. The exercise and enjoyment of rights and freedoms are inseparable from the performance of duties and obligations and accordingly it is the duty of every person in Sri Lanka –
 
 (a) to uphold and defend the Constitution and the law ;
 
@@ -724,11 +1176,11 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (f) to protect nature and conserve its riches.
 
-- The provisions of this Chapter do not confer or impose legal rights or obligations and are not enforceable in any court or tribunal. No question of inconsistency with such provisions shall be raised in any court or tribunal.
+29. The provisions of this Chapter do not confer or impose legal rights or obligations and are not enforceable in any court or tribunal. No question of inconsistency with such provisions shall be raised in any court or tribunal.
 
 #### Fundamental duties
 
-#### Principles of State Policy and fundamental duties not justifiable.
+#### Principles of State Policy and fundamental duties not justiciable.
 
 [[END OF PAGE 37]]
 
@@ -748,23 +1200,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### The President of the Republic
 
-- 15 [ 30. (1) There shall be a President of the Republic of Sri Lanka, who is the Head of the State, the Head of the Executive and  of  the  Government,  and  the  Commander-in-Chief  of  the Armed Forces.
+15 [30. (1) There shall be a President of the Republic of Sri Lanka, who is the Head of the State, the Head of the Executive and of the Government, and the Commander-in-Chief of the Armed Forces.
 
-- The  President  of  the  Republic  shall  be  elected  by  the People, and shall hold office for a term of five years. ]
+(2) The President of the Republic shall be elected by the People, and shall hold office for a term of five years. ]
 
-(1)  Any citizen who is qualified to be elected to the office of President may be nominated as a candidate for such office -
+31. (1) Any citizen who is qualified to be elected to the office of President may be nominated as a candidate for such office –
 
 (a) by a recognized political party ; or
 
-(b) if  he  is  or  has  been  an  elected  member  of  the legislature,  by  any  other  political  party  or  by  an elector whose name has been entered in any register of electors.
+(b) if he is or has been an elected member of the legislature, by any other political party or by an elector whose name has been entered in any register of electors.
 
-- 16 [ (2) No person who has been twice elected to the office of President by the People, shall be qualified thereafter to be elected to such office by the People.]
+16 [(2) No person who has been twice elected to the office of President by the People, shall be qualified thereafter to be elected to such office by the People.]
 
-- The poll for the election of the President shall be taken not less than one month and not more than two months before the expiration of the term of office of the President in office.
+(3) The poll for the election of the President shall be taken not less than one month and not more than two months before the expiration of the term of office of the President in office.
 
-- 17 [(3A)  (a)  (i)  Notwithstanding  anything  to  the  contrary in the preceding provisions of this Chapter, the President may, 18 [at  any  time  after  the  expiration  of  four  years 19 [from  the commencement  of  his  first  term  of  office,  by  Proclamation, declare his intention]] of appealing to the People for a mandate to hold office, 20 [by election, for a further term.]
+17 [(3A) (a) (i) Notwithstanding anything to the contrary in the preceding provisions of this Chapter, the President may, 18 [at any time after the expiration of four years 19 [from the commencement of his first term of office, by Proclamation, declare his intention]] of appealing to the People for a mandate to hold office, 20 [by election, for a further term.]
 
-- 21 [Repealed]
+21 [Repealed]
 
 (ii) Upon the making of a Proclamation under sub-paragraph (i) the Commissioner of Elections shall be required to take a poll for the election of the President.
 
@@ -780,7 +1232,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 > 20 -	 Amended by the Eighteenth Amendment to the Constitution Sec. 2(2)(b)
 
-> 21 - 	Proviso to Article 3A (a) (i) was repealed by the Nineteenth Amendment to the Constitution Sec.4
+> 21 - Proviso to Article 31(3A) (a) (i) was repealed by the Nineteenth Amendment to the Constitution Sec.4
 
 [[END OF PAGE 38]]
 
@@ -800,7 +1252,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Provided that if the office of Prime Minister be then vacant or the Prime Minister is unable to act, the Speaker shall act in the office of President.
 
-(d) The person declared elected as President at an election held under this paragraph shall, if such person -
+(d) The person declared elected as President at an election held under this paragraph shall, if such person –
 
 (i) is the President in office, hold office 22 [for a term of five years] commencing on such date in the year in which that election is held (being a date after such election) or in the succeeding year, as corresponds to the date on which his first term of office commenced, whichever date is earlier ; or
 
@@ -820,15 +1272,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (f) For the purposes of this paragraph, the first term of office of the first President referred to in Article 160 shall be deemed to have commenced on February 4, 1978.]
 
-- 23 (4) [(Where a poll for the election of a President is taken, the  term  of  office  of  the  person  elected  as  President  at  such election shall commence on the expiration of the term of office of the President in office :
+23 [(4) Where a poll for the election of a President is taken, the term of office of the person elected as President at such election shall commence on the expiration of the term of office of the President in office :
 
-Provided that  notwithstanding  anything  to  the  contrary  in Article 40 -
+Provided that notwithstanding anything to the contrary in Article 40 –
 
 (a) if any person declared elected as President at a poll for the election of a President dies at any time after his  being  declared  elected  as  President  and  before the date on which his term of office would, but for his  death,  have  commenced,  the  Commissioner  of Elections, shall take a fresh poll for the election of a  President.  If  the  date  fixed  for  such  fresh  poll  is a date later than such first-mentioned date, the term of office of the person declared elected at such poll shall, notwithstanding the preceding provisions of  this Article,  be  deemed  to  have  commenced  on such first-mentioned date.  For the purposes only of Article 38(1)(d), the date of commencement of the term of office of the new President shall be the date of his election ;
 
 (b) where the President in office is not a candidate or is not re-elected, at a poll for the election of a President, his  term of office shall be deemed to have expired on the date on which the result of such election is declared.  The  person  elected  as  President  at  such election shall assume office forthwith, but not later than two weeks from such date:
 
-Provided that the President in office, notwithstanding anything to the contrary in Article 30, shall continue to exercise, perform and discharge the powers, duties and  functions  of  the  office  of  President  until  the assumption of office by the person declared elected as  President.  If  the  office  of  President  becomes vacant,  by  reason  of  the  person  declared  elected as  President  failing  to  assume  office,  the  President in  office  shall  continue  to  exercise,  perform  and discharge  the  powers,  duties  and  functions  of  the office of President, until the Prime Minister or if the office of Prime Minister be then vacant or if the Prime Minister be unable to act, the Speaker commences to act in the office of President in terms of Article 40 ;
+Provided that the President in office, notwithstanding anything to the contrary in Article 30, shall continue to exercise, perform and discharge the powers, duties and functions of the office of President until the assumption of office by the person declared elected
 
 23 -	 Original para (4) repealed and substituted by the Third Amendment to the Constitution Sec. 2(2).
 
@@ -840,25 +1292,27 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 23
 
-(c) if by reason of the death referred to in sub-paragraph (a) there is a vacancy in the office of President, the Prime  Minister  shall  act  in  the  office  of  President during  the  period  between  the  occurrence  of  such vacancy  and  the  assumption  of  office  by  the  new President and shall appoint one of the other Ministers of the Cabinet to act as Prime Minister :
+as President. If the office of President becomes vacant, by reason of the person declared elected as President failing to assume office, the President in office shall continue to exercise, perform and discharge the powers, duties and functions of the office of President, until the Prime Minister or if the office of Prime Minister be then vacant or if the Prime Minister be unable to act, the Speaker commences to act in the office of President in terms of Article 40 ;
+
+(c) if by reason of the death referred to in sub-paragraph (a) there is a vacancy in the office of President, the Prime Minister shall act in the office of President during the period between the occurrence of such vacancy and the assumption of office by the new President and shall appoint one of the other Ministers of the Cabinet to act as Prime Minister :
 
 Provided that if the office of Prime Minister be then vacant  or  the  Prime  Minister  is  unable  to  act,  the Speaker shall act in the office of President.]
 
-- The  election  of  the  President  shall  be  conducted  by the  Commissioner  of  Elections  who  shall  fix  the  date  for  the nomination of candidates for such election and the date on which the poll shall be taken.
+(5) The election of the President shall be conducted by the Commissioner of Elections who shall fix the date for the nomination of candidates for such election and the date on which the poll shall be taken.
 
-- Parliament shall by law make provision for -
+(6) Parliament shall by law make provision for –
 
-(a) the  nomination  of  candidates  for  the  election  of President;
+(a) the nomination of candidates for the election of President;
 
 (b) the register of electors to be used at and the procedure for the election of the President ;
 
 (c) the creation of offences relating to such election and the punishment therefor ;
 
-(d) the  grounds  and  manner  of  avoiding  such  election and of determining any disputed election ; and
+(d) the grounds and manner of avoiding such election and of determining any disputed election ; and
 
 (e) all other matters necessary or incidental thereto.
 
-(1)  The  person  elected  or  succeeding  to  the  office  of President shall assume office upon taking and subscribing the oath or making and subscribing the affirmation, set out in the Fourth Schedule, in Sri Lanka before the Chief Justice or any other Judge of the Supreme Court.
+32. (1) The person elected or succeeding to the office of President shall assume office upon taking and subscribing the oath or making and subscribing the affirmation, set out in the Fourth Schedule, in Sri Lanka before the Chief Justice or any other Judge of the Supreme Court.
 
 #### Assumption of office
 
@@ -872,23 +1326,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### Duties, powers and functions of the President.
 
-- Upon such assumption of office the President shall cease to hold any other office created or recognized by the Constitution and if  he  is  a  Member  of  Parliament,  shall  vacate  his  seat  in Parliament.  The  President  shall  not  hold  any  other  office  or place of profit whatsoever.
+(2) Upon such assumption of office the President shall cease to hold any other office created or recognized by the Constitution and if he is a Member of Parliament, shall vacate his seat in Parliament. The President shall not hold any other office or place of profit whatsoever.
 
-- 24 (3)  The  President  shall,  by  virtue  of  his  office  attend Parliament once in every three months. In the discharge of this function  the  President  shall  be  entitled  to  all  the  privileges, immunities and powers of a Member of Parliament, other than the entitlement to vote, and shall not be liable for any breach of the privileges of Parliament or of its members.
+24 (3) The President shall, by virtue of his office attend Parliament once in every three months. In the discharge of this function the President shall be entitled to all the privileges, immunities and powers of a Member of Parliament, other than the entitlement to vote, and shall not be liable for any breach of the privileges of Parliament or of its members.
 
-- 25 (4) The President shall by virtue of his office, also have the right to address and send messages to Parliament.
+25 (4) The President shall by virtue of his office, also have the right to address and send messages to Parliament.
 
-- 26 [ 33. (1) It shall be the duty of the President to -
+26 [33. (1) It shall be the duty of the President to -
 
 (a) ensure that the Constitution is respected and upheld;
 
 (b) promote national reconciliation and integration;
 
-(c) ensure  and  facilitate  the  proper  functioning  of  the Constitutional  Council  and  the  institutions  referred to in Chapter VIIA; and
+(c) ensure and facilitate the proper functioning of the Constitutional Council and the institutions referred to in Chapter VIIA; and
 
 (d) on the advice of the Election Commission, ensure the creation of proper conditions for the conduct of free and fair elections and referenda.
 
-- In addition to the powers, duties and functions expressly conferred  or  imposed  on,  or  assigned  to  the  President  by  the Constitution or other written law, the President shall have the power -
+(2) In addition to the powers, duties and functions expressly conferred or imposed on, or assigned to the President by the Constitution or other written law, the President shall have the power -
 
 (a) to  make  the  Statement  of  Government  Policy  in Parliament at the commencement of each session of Parliament;
 
@@ -920,9 +1374,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (h) to do all such acts and things, not inconsistent with the provisions of the Constitution or written law, as by international law, custom or usage the President is authorized or required to do. ]
 
-- 27 [ 33A. The President shall be responsible to Parliament for the due exercise, performance and discharge of his powers, duties and functions under the Constitution and any written law, including the law for the time being relating to public security.]
+27 [33A. The President shall be responsible to Parliament for the due exercise, performance and discharge of his powers, duties and functions under the Constitution and any written law, including the law for the time being relating to public security.]
 
-(1)  The  President  may  in  the  case  of  any  offender convicted of any offence in any court within the Republic of Sri Lanka -
+34. (1) The President may in the case of any offender convicted of any offence in any court within the Republic of Sri Lanka –
 
 (a) grant  a  pardon,  either  free  or  subject  to  lawful conditions;
 
@@ -950,15 +1404,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Provided that where any offender shall have been condemned to suffer death by the sentence of any court, the President shall cause a report to be made to him by the Judge who tried the case and shall forward such report to the Attorney-General with instructions that after the Attorney-General has advised thereon, the  report  shall  be  sent  together  with  the  Attorney-General's advice  to  the  Minister  in  charge  of  the  subject  of  Justice, who shall forward the report with his recommendation to the President.
 
-- The President may in the case of any person who is or has become subject to  any  disqualification  specified  in  paragraph (d),  (e),  (f),  (g)  or  (h)  of  Article  89  or  sub-paragraph  (g)  of Paragraph (1) of Article 91-
+(2) The President may in the case of any person who is or has become subject to any disqualification specified in paragraph (d), (e), (f), (g) or (h) of Article 89 or sub-paragraph (g) of Paragraph (1) of Article 91-
 
-(a) grant  a  pardon,  either  free  or  subject  to  lawful conditions; or
+(a) grant a pardon, either free or subject to lawful conditions; or
 
 (b) reduce the period of such disqualification.
 
-- When  any  offence  has  been  committed  for  which  the offender  may  be  tried  within  the  Republic  of  Sri  Lanka,  the President may grant a pardon to any accomplice in such offence who shall give such information as shall lead to the conviction of the principal offender or of any one of such principal offenders, if more than one.
+(3) When any offence has been committed for which the offender may be tried within the Republic of Sri Lanka, the President may grant a pardon to any accomplice in such offence who shall give such information as shall lead to the conviction of the principal offender or of any one of such principal offenders, if more than one.
 
-- 28 [ 35. (1) While any person holds office as President of the Republic of Sri  Lanka,  no  civil  or  criminal  proceedings  shall be  instituted  or  continued  against  the  President  in  respect  of anything done or omitted to be done by the President, either in his official or private capacity:
+28 [35. (1) While any person holds office as President of the Republic of Sri Lanka, no civil or criminal proceedings shall be instituted or continued against the President in respect of anything done or omitted to be done by the President, either in his official or private capacity:
 
 Provided that  nothing  in  this  paragraph  shall  be  read  and construed  as  restricting  the  right  of  any  person  to  make  an application under Article 126 against the Attorney-General, in respect of anything done or omitted to be done by the President, in his official capacity:
 
@@ -974,19 +1428,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 27
 
-- Where provision is made by law limiting the time within which proceedings of any description may be instituted against any person, a period of time during which such person holds the office of President of the Republic of Sri Lanka shall not be taken into account in calculating any period of time prescribed by that law.
+(2) Where provision is made by law limiting the time within which proceedings of any description may be instituted against any person, a period of time during which such person holds the office of President of the Republic of Sri Lanka shall not be taken into account in calculating any period of time prescribed by that law.
 
-- The immunity conferred by the provisions of paragraph (1) shall not apply to proceedings in the Supreme Court under paragraph (2) of Article 129 and to proceedings under Article 130 (a) relating to the election of the President or the validity of a referendum. ]
+(3) The immunity conferred by the provisions of paragraph (1) shall not apply to proceedings in the Supreme Court under paragraph (2) of Article 129 and to proceedings under Article 130 (a) relating to the election of the President or the validity of a referendum. ]
 
-(1)  Within  one  month  of  the  commencement  of  the Constitution,  Parliament  shall  by  resolution  determine  the salary,  allowances  and  pension  entitlement  of  the  holders  of the office of President. Such pension shall be in addition to any other pension to which such person is entitled by virtue of any prior service.
+36. (1) Within one month of the commencement of the Constitution, Parliament shall by resolution determine the salary, allowances and pension entitlement of the holders of the office of President. Such pension shall be in addition to any other pension to which such person is entitled by virtue of any prior service.
 
-- Upon  the  assumption  of  the  office  of  President  the holder of such office shall become entitled to the receipt of such salary and allowances and thereafter, of such pension as may be determined by Parliament. Any subsequent amendment, repeal or  replacement of this Article and any subsequent law or any provision  thereof  inconsistent  with  this Article  shall  not  have retrospective operation.
+(2) Upon the assumption of the office of President the holder of such office shall become entitled to the receipt of such salary and allowances and thereafter, of such pension as may be determined by Parliament. Any subsequent amendment, repeal or replacement of this Article and any subsequent law or any provision thereof inconsistent with this Article shall not have retrospective operation.
 
-- The salary, allowances and pension of the President shall be charged on the Consolidated Fund.
+(3) The salary, allowances and pension of the President shall be charged on the Consolidated Fund.
 
-- Parliament  may  by  resolution  increase,  but  shall  not reduce,  the  salary,  allowances  or  pension  entitlement  of  the holders of the office of President.
+(4) Parliament may by resolution increase, but shall not reduce, the salary, allowances or pension entitlement of the holders of the office of President.
 
-(1) If the President is of the opinion that by reason of illness, absence from Sri Lanka or any other cause he will be unable to exercise, perform and discharge the powers, duties and functions of his office,  he  may  appoint  the  Prime  Minister  to exercise, perform and discharge the powers, duties and functions of  the  office  of  President  during  such  period  and  may  also appoint one of the other Ministers of the Cabinet to act in the office of Prime Minister during such period :
+37. (1) If the President is of the opinion that by reason of illness, absence from Sri Lanka or any other cause he will be unable to exercise, perform and discharge the powers, duties and functions of his office, he may appoint the Prime Minister to exercise, perform and discharge the powers, duties and functions of the office of President during such period and may also appoint one of the other Ministers of the Cabinet to act in the office of Prime Minister during such period :
 
 Provided that if the office of Prime Minister be then vacant or the Prime Minister is unable to act, the President may appoint the Speaker to exercise, perform and discharge the powers, duties and functions of the office of president during such period.
 
@@ -1004,15 +1458,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### Vacation of office by President
 
-- If  the  Chief  Justice  in  consultation  with  the  Speaker is  of  the  opinion  that  the  President  is  temporarily  unable  to exercise, perform and discharge the powers, duties and functions of his office and is unable to make an appointment in terms of paragraph (1) of this Article, he shall communicate in writing his  opinion  to  the  Speaker  and  thereupon  the  Prime  Minister shall  exercise,  perform  and  discharge  the  powers,  duties  and functions of the office of President during such period and shall appoint one of the Ministers of the Cabinet to act in the office of Prime Minister during such period, notwithstanding the absence of such appointment as is provided for in paragraph (1) of this Article :
+(2) If the Chief Justice in consultation with the Speaker is of the opinion that the President is temporarily unable to exercise, perform and discharge the powers, duties and functions of his office and is unable to make an appointment in terms of paragraph (1) of this Article, he shall communicate in writing his opinion to the Speaker and thereupon the Prime Minister shall exercise, perform and discharge the powers, duties and functions of the office of President during such period and shall appoint one of the Ministers of the Cabinet to act in the office of Prime Minister during such period, notwithstanding the absence of such appointment as is provided for in paragraph (1) of this Article :
 
 Provided that if the office of Prime Minister be then vacant or the Prime Minister is unable to act, the Speaker shall exercise, perform and discharge the powers, duties and functions of the office of President during such period.
 
-- The  provisions  of  the  Constitution  relating  to  the President (other than the provisions of paragraph (2) of Article 32) shall apply, in so far as they can be applied, to the person so exercising, performing and discharging the powers, duties and functions of the office of President.
+(3) The provisions of the Constitution relating to the President (other than the provisions of paragraph (2) of Article 32) shall apply, in so far as they can be applied, to the person so exercising, performing and discharging the powers, duties and functions of the office of President.
 
-- In this Article and in Articles 38(1)(b) and 40(1), 'the Speaker'  includes,  during  any  period  when  Parliament  is dissolved, the person who held the office of Speaker immediately before the dissolution of Parliament.
+(4) In this Article and in Articles 38(1)(b) and 40(1), “the Speaker” includes, during any period when Parliament is dissolved, the person who held the office of Speaker immediately before the dissolution of Parliament.
 
-(1) The office of President shall become vacant -
+38. (1) The office of President shall become vacant –
 
 (a) upon his death ;
 
@@ -1026,7 +1480,7 @@ Provided that if the office of Prime Minister be then vacant or the Prime Minist
 
 (f) if  the  Supreme  Court  in  the  exercise  of  its  powers under Article 130(a) determines that his election as
 
-29 -	 Substituted by the Third Amendment to the Constitution Sec(3) for '"one month".
+29 - Substituted by the Third Amendment to the Constitution Sec(3) for “one month”.
 
 [[END OF PAGE 46]]
 
@@ -1038,7 +1492,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 President was void and does not determine that any other person was duly elected as President.
 
-(2)  (a)  Any  Member  of  Parliament  may,  by  a  writing addressed to  the  Speaker,  give  notice  of  a  resolution  alleging that the President is permanently incapable of discharging the functions of his office by reason of mental or physical infirmity or that the President has been guilty of -
+(2) (a) Any Member of Parliament may, by a writing addressed to the Speaker, give notice of a resolution alleging that the President is permanently incapable of discharging the functions of his office by reason of mental or physical infirmity or that the President has been guilty of –
 
 (i) intentional violation of the Constitution,
 
@@ -1056,13 +1510,11 @@ President was void and does not determine that any other person was duly elected
 
 (ii) such  notice  of  resolution  is  signed  by  not  less than one-half of the whole number of Members of Parliament  and  the  Speaker  is  satisfied  that  such allegation or allegations merit inquiry and report by the Supreme Court.
 
-(c) Where such resolution is passed by not less than twothirds  of  the  whole  number  of  Members  (including  those  not present)  voting  in  its  favour,  the  allegation  or  allegations contained in such resolution shall be referred by the Speaker to the Supreme Court for inquiry and report.
+(c) Where such resolution is passed by not less than two-thirds of the whole number of Members (including those not present) voting in its favour, the allegation or allegations contained in such resolution shall be referred by the Speaker to the Supreme Court for inquiry and report.
 
 (d) The Supreme Court shall, after due inquiry at which the President shall have the right to appear and to be heard, in person or by an attorney-at-law, make a report of its determination to Parliament together with the reasons therefor.
 
 (e) Where the Supreme Court reports to Parliament that in its opinion the President is permanently incapable of discharging
-#### Determination by the Supreme Court that the President was not duly elected or the election of the President was void
-the  functions  of  his  office  by  reason  of  mental  or  physical infirmity  or  that  the  President  has  been  guilty  of  any  of  the other allegations contained in such resolution, as the case may be, Parliament may by a resolution passed by not less than twothirds  of  the  whole  number  of  Members  (including  those  not present) voting in its favour remove the President from office.
 
 [[END OF PAGE 47]]
 
@@ -1072,7 +1524,9 @@ the  functions  of  his  office  by  reason  of  mental  or  physical infirmity 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-39. (1)  Where  the  Supreme  Court  in  the  exercise  of  its jurisdiction under Article 130 determines -
+the functions of his office by reason of mental or physical infirmity or that the President has been guilty of any of the other allegations contained in such resolution, as the case may be, Parliament may by a resolution passed by not less than two-thirds of the whole number of Members (including those not present) voting in its favour remove the President from office.
+
+39. (1) Where the Supreme Court in the exercise of its jurisdiction under Article 130 determines –
 
 (a) that the election of the President was void and does not determine that any other person was duly elected, then, a poll for the election of the President shall be taken not later than three months from the date of the determination ; or
 
@@ -1084,7 +1538,9 @@ For the purposes of Article 38(1)(d), the date of commencement of the term of of
 
 Provided that if the office of Prime Minister be then vacant or the Prime Minister is unable to act, the Speaker shall act in the office of the President.
 
-(3)  For  the  purposes of Article 30(2) and notwithstanding the  provisions  of Article  31(4),  the  term  of  office  of  the  new President  shall  be  deemed  to  have  commenced  on  the  date on which the term of office of the person whose election was determined  to  have  been  void  or  undue  would,  but  for  such determination, have commenced.
+(3) For the purposes of Article 30(2) and notwithstanding the provisions of Article 31(4), the term of office of the new President shall be deemed to have commenced on the date on which the term of office of the person whose election was determined to have been void or undue would, but for such determination, have commenced.
+
+#### Determination by the Supreme Court that the President was not duly elected or the election of the President was void
 
 [[END OF PAGE 48]]
 
@@ -1094,23 +1550,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 31
 
-- The exercise, performance and discharge by any person of  the  powers,  duties  and  functions  of  the  office  of  President shall not be invalid by reason only of the fact that the Supreme Court subsequently determines that the election of such person as President was void or undue.
+(4) The exercise, performance and discharge by any person of the powers, duties and functions of the office of President shall not be invalid by reason only of the fact that the Supreme Court subsequently determines that the election of such person as President was void or undue.
 
-- The provisions of this Article shall apply notwithstanding anything to the contrary in Article 40.
+(5) The provisions of this Article shall apply notwithstanding anything to the contrary in Article 40.
 
-(1) (a) If the office of President shall become vacant prior to the expiration of his term of office, Parliament shall elect as President one of its Members who is qualified to be elected to the office of President. Any person so succeeding to the office of President shall hold office only for the unexpired period of the term of office of the President vacating office.
+40. (1) (a) If the office of President shall become vacant prior to the expiration of his term of office, Parliament shall elect as President one of its Members who is qualified to be elected to the office of President. Any person so succeeding to the office of President shall hold office only for the unexpired period of the term of office of the President vacating office.
 
 (b) Such election shall be held as soon as possible after, and in no case later than one month from, the date of, occurrence of the vacancy. Such election shall be by secret ballot and by an absolute majority of the votes cast in accordance with such procedure as Parliament may by law provide :
 
 Provided that if such vacancy occurs after the dissolution of Parliament, the President shall be elected by the new Parliament within one month of its first meeting.
 
-(c)  During  the  period  between  the  occurrence  of  such vacancy  and  the  assumption  of  office  by  the  new  President, the Prime Minister shall act in the office of President and shall appoint one of the other Ministers of the Cabinet to act in the office of Prime Minister :
+(c) During the period between the occurrence of such vacancy and the assumption of office by the new President, the Prime Minister shall act in the office of President and shall appoint one of the other Ministers of the Cabinet to act in the office of Prime Minister :
 
 Provided that if the office of Prime Minister be then vacant or the Prime Minister is unable to act, the Speaker shall act in the office of President.
 
-- The  provisions  of  the  Constitution  relating  to  the President (other than the provisions of paragraph (2) of Article 32) shall apply, in so far as they can be applied, to an acting President.
+(2) The provisions of the Constitution relating to the President (other than the provisions of paragraph (2) of Article 32) shall apply, in so far as they can be applied, to an acting President.
 
-- Parliament shall by law provide for all matters relating to the procedure for the election of the President by Parliament and all other matters necessary or incidental thereto.
+(3) Parliament shall by law provide for all matters relating to the procedure for the election of the President by Parliament and all other matters necessary or incidental thereto.
 
 #### Vacation of office by President and election of succeeding President
 
@@ -1124,7 +1580,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### President's staff
 
-(1) The President shall have the power to appoint such Secretaries, and, in consultation with the Cabinet of Ministers, such other officers and staff as are in his opinion necessary to assist  him  in  the  exercise,  performance  and  discharge  of  the powers, duties and functions of his office, and to determine their terms and conditions of service.
+41. (1) The President shall have the power to appoint such Secretaries, and, in consultation with the Cabinet of Ministers, such other officers and staff as are in his opinion necessary to assist him in the exercise, performance and discharge of the powers, duties and functions of his office, and to determine their terms and conditions of service.
 
 (2) The salaries of such Secretaries, officers and staff shall be charged on the Consolidated Fund.
 
@@ -1136,7 +1592,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Provided that any such Secretary, officer or member of the staff  who  immediately  prior  to  his  appointment  as  Secretary, officer  or  member  of  the  staff  was  in  the  Public  or  Local Government Service or in the service of a public corporation shall be entitled to revert to such service without loss of seniority upon a new President assuming office.
 
-- The proviso to paragraph (5) of this Article shall, mutatis mutandis , apply to any person referred to in that proviso upon-
+(6) The proviso to paragraph (5) of this Article shall, mutatis mutandis, apply to any person referred to in that proviso upon–
 
 (a) the President terminating the services of such person, otherwise than by dismissal on disciplinary ground; or
 
@@ -1152,11 +1608,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 33
 
-## 30 [CHAPTER VII A
+## 30[CHAPTER VII A
 
 ### The Constitutional Council
 
-- 41A. (1)  There  shall  be  a  Constitutional  Council  (in  this Chapter referred to as the 'Council') which shall consist of the following members:-
+#### Constitution of the Constitutional Council
+
+41A. (1) There shall be a Constitutional Council (in this Chapter referred to as the “Council”) which shall consist of the following members:–
 
 (a) the Prime Minister;
 
@@ -1166,23 +1624,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (d) one Member of Parliament appointed by the President;
 
-(e) five  persons  appointed  by  the  President,  on  the nomination  of  both  the  Prime  Minister  and  the Leader of the Opposition of whom two persons shall be Members of Parliament; and
+(e) five persons appointed by the President, on the nomination of both the Prime Minister and the Leader of the Opposition of whom two persons shall be Members of Parliament; and
 
-(f) one Member of Parliament nominated by agreement of the majority of the Members of Parliament belonging to political parties or independent groups, other than the respective political parties or independent groups to  which the Prime Minister and the Leader of the Opposition belong, and appointed by the President.
+(f) one Member of Parliament nominated by agreement of the majority of the Members of Parliament belonging to political parties or independent groups, other than the respective political parties or independent groups to which the Prime Minister and the Leader of the Opposition belong, and appointed by the President.
 
-- The Speaker shall be the Chairman of the Council.
+(2) The Speaker shall be the Chairman of the Council.
 
-- It  shall  be  the  duty  of  the  Speaker  to  ensure  that nominations for appointments under sub-paragraph (e) or subparagraph (f) of paragraph (1) are made, whenever an occasion for such nominations arises.
+(3) It shall be the duty of the Speaker to ensure that nominations for appointments under sub-paragraph (e) or sub-paragraph (f) of paragraph (1) are made, whenever an occasion for such nominations arises.
 
-- In  nominating  the  five  persons  referred  to  in  subparagraph  (e)  of  paragraph  (1),  the  Prime  Minister  and  the Leader of the Opposition shall consult the leaders of political parties and independent groups represented in Parliament so as to ensure that the Constitutional Council reflects the pluralistic character  of  Sri  Lankan  society,  including  professional  and social diversity.
+(4) In nominating the five persons referred to in sub-paragraph (e) of paragraph (1), the Prime Minister and the Leader of the Opposition shall consult the leaders of political parties and independent groups represented in Parliament so as to ensure that the Constitutional Council reflects the pluralistic character of Sri Lankan society, including professional and social diversity.
 
-- The  persons  who  are  not  Members  of  Parliament  to be  appointed  under  sub-paragraph  (e)  of  paragraph  (1)  shall be  persons  of  eminence  and  integrity  who  have  distinguished
+(5) The persons who are not Members of Parliament to be appointed under sub-paragraph (e) of paragraph (1) shall be persons of eminence and integrity who have distinguished
 
-#### Constitution of the Constitutional Council
-themselves  in  public  or  professional  life  and  who  are  not members  of  any  political  party  whose  nomination  shall  be approved by Parliament.
-
-30 -	 Chapter VII A was substituted by the Nineteenth Amendment to the Constitution Sec. 8
-
+30 - Chapter VII A was substituted by the Nineteenth Amendment to the Constitution Sec. 8
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
@@ -1191,16 +1645,17 @@ themselves  in  public  or  professional  life  and  who  are  not members  of  
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-(6) The President shall, within fourteen days of the receipt of  a  written  communication  specifying  the  nominations  made under  sub-paragraphs  (e)  and  (f)  of  paragraph  (1),  make  the necessary appointments. In the event of the President failing to make the necessary appointments within such period of fourteen days,  the  persons  nominated  shall  be  deemed  to  have  been appointed as members of the Council, with effect from the date of expiry of such period.
+themselves in public or professional life and who are not members of any political party whose nomination shall be approved by Parliament.
 
-(7)  (a)  On  the  dissolution  of  Parliament,  notwithstanding the  provisions  of  paragraph  (2)  of  Article  64,  the  Speaker shall continue to hold office as a member of the Council, until a  Member  of  Parliament  is  elected  to  be  the  Speaker  under paragraph (1) of the aforesaid Article;
+(6) The President shall, within fourteen days of the receipt of a written communication specifying the nominations made under sub-paragraphs (e) and (f) of paragraph (1), make the necessary appointments. In the event of the President failing to make the necessary appointments within such period of fourteen days, the persons nominated shall be deemed to have been appointed as members of the Council, with effect from the date of expiry of such period.
 
-(b)  Notwithstanding  the  dissolution  of  Parliament,  the Prime Minister, the Leader of the Opposition and the Members of Parliament who are members of the Constitutional Council, shall continue to hold office as members of such Council, until such time after a General Election following such dissolution, a  Member  of  Parliament  is  appointed  as  the  Prime  Minister or recognized as the Leader of the Opposition or such number of  Members  of  Parliament  are  appointed  as  Members  of  the Constitutional Council under sub-paragraphs (d), (e) and (f) of paragraph (1), as the case may be.
+(7) (a) On the dissolution of Parliament, notwithstanding the provisions of paragraph (2) of Article 64, the Speaker shall continue to hold office as a member of the Council, until a Member of Parliament is elected to be the Speaker under paragraph (1) of the aforesaid Article;
 
-(8)  Every  member  of  the  Council  appointed  under  subparagraphs  (d),  (e)  and  (f)  of  paragraph  (1),  shall  hold  office for a period of three years from the date of appointment unless the  member  earlier  resigns  his  office  by  writing  addressed  to the President, is removed from office by the President on both the Prime Minister and the Leader of the Opposition forming an opinion that such member is physically or mentally incapacitated and is unable to function further in office or is convicted by a court  of  law  for  any  offence  involving  moral  turpitude  or  if  a resolution for the imposition of civic disability upon him has been passed in terms of Article 81 of the Constitution or is deemed to have vacated his office under paragraph (7) of Article 41e.
+(b) Notwithstanding the dissolution of Parliament, the Prime Minister, the Leader of the Opposition and the Members of Parliament who are members of the Constitutional Council, shall continue to hold office as members of such Council, until such time after a General Election following such dissolution, a Member of Parliament is appointed as the Prime Minister or recognized as the Leader of the Opposition or such number of Members of Parliament are appointed as Members of the Constitutional Council under sub-paragraphs (d), (e) and (f) of paragraph (1), as the case may be.
 
-(9)  In  the  event  of  there  being  a  vacancy  among  the members  appointed  under  sub-paragraphs  (d),  (e)  or  (f))  of paragraph (1), the President shall, within fourteen days of the occurrence of such vacancy and having regard to the provisions of the aforementioned sub-paragraphs, appoint another person to succeed such member. Any person so appointed, shall hold office during the unexpired part of the period of office of the member whom he succeeds.
+(8) Every member of the Council appointed under sub-paragraphs (d), (e) and (f) of paragraph (1), shall hold office for a period of three years from the date of appointment unless the member earlier resigns his office by writing addressed to the President, is removed from office by the President on both the Prime Minister and the Leader of the Opposition forming an opinion that such member is physically or mentally incapacitated and is unable to function further in office or is convicted by a court of law for any offence involving moral turpitude or if a resolution for the imposition of civic disability upon him has been passed in terms of Article 81 of the Constitution or is deemed to have vacated his office under paragraph (7) of Article 41e.
 
+(9) In the event of there being a vacancy among the members appointed under sub-paragraphs (d), (e) or (f)) of paragraph (1), the President shall, within fourteen days of the
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
@@ -1209,26 +1664,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 35
 
+occurrence of such vacancy and having regard to the provisions of the aforementioned sub-paragraphs, appoint another person to succeed such member. Any person so appointed, shall hold office during the unexpired part of the period of office of the member whom he succeeds.
+
 (10) A member appointed under sub-paragraphs (d), (e) or (f) of paragraph (1), shall not be eligible for re-appointment.
 
-(11)  The appointments made  by  the President under sub-paragraphs  (d),  (e)  and  (f)  of  paragraph  (1),  shall  be communicated to the Speaker.
+(11) The appointments made by the President under sub-paragraphs (d), (e) and (f) of paragraph (1), shall be communicated to the Speaker.
+
+#### Council to recommend appointments
 
 41B. (1) No person shall be appointed by the President as the Chairman or a member of any of the Commissions specified in the Schedule to this Article, except on a recommendation of the Council.
 
-(2)  The  provisions  of  paragraph  (1)  of  this  Article  shall apply in respect of any person appointed to act as the Chairman or as a member of any such Commission.
+(2) The provisions of paragraph (1) of this Article shall apply in respect of any person appointed to act as the Chairman or as a member of any such Commission.
 
-(3) It shall be the duty of the Council to recommend to the President fit and proper persons for appointment as Chairmen or members of the Commissions specified in the Schedule to this Article,  whenever  the  occasion  for  such  appointments  arises, and such recommendations shall endeavour to ensure that such recommendations reflect the pluralistic character of Sri Lankan society, including gender. In the case of the Chairmen of such Commissions, the Council shall recommend three persons for appointment, and the President shall appoint one of the persons recommended as Chairman.
+(3) It shall be the duty of the Council to recommend to the President fit and proper persons for appointment as Chairmen or members of the Commissions specified in the Schedule to this Article, whenever the occasion for such appointments arises, and such recommendations shall endeavour to ensure that such recommendations reflect the pluralistic character of Sri Lankan society, including gender. In the case of the Chairmen of such Commissions, the Council shall recommend three persons for appointment, and the President shall appoint one of the persons recommended as Chairman.
 
-(4)  The  President  shall  appoint  the  Chairman  and  the members of the Commissions specified in the Schedule to this Article, within fourteen days of receiving the recommendations of  the  Council  for  such  appointments.  In  the  event  of  the President  failing  to  make  the  necessary  appointments  within such period of fourteen days-
+(4) The President shall appoint the Chairman and the members of the Commissions specified in the Schedule to this Article, within fourteen days of receiving the recommendations of the Council for such appointments. In the event of the President failing to make the necessary appointments within such period of fourteen days–
 
-(a) the  persons  recommended  under  paragraph  (3),  to be appointed as members of a Commission, shall be deemed to have been appointed as the members of the Commissions; and
+(a) the persons recommended under paragraph (3), to be appointed as members of a Commission, shall be deemed to have been appointed as the members of the Commissions; and
 
-(b) the  person  whose  name  appears  first  in  the  list  of names  recommended  under  paragraph  (3),  to  be
-
-#### Council to recommend appointments
-#### Council to approve appointments
-appointed as the Chairman of a Commission, shall be deemed to have been appointed the Chairman of the respective Commission, with effect from the date of expiry of such period.
-
+(b) the person whose name appears first in the list of names recommended under paragraph (3), to be
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
@@ -1237,9 +1691,13 @@ appointed as the Chairman of a Commission, shall be deemed to have been appointe
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- No  person  appointed  under  paragraph  (1)  or  a  person appointed  to  act  as  the  Chairman  or  a  member  of  any  such Commission,  shall  be  removed  except  as  provided  for  in  the Constitution or in any written law, and where there is no such provision, such person shall be removed by the President only with the prior approval of the Council.
+appointed as the Chairman of a Commission, shall be deemed to have been appointed the Chairman of the respective Commission,
 
-- All the Commissions referred to in the Schedule to this Article, other than the Election Commission, shall be responsible and answerable to Parliament.
+with effect from the date of expiry of such period.
+
+(5) No person appointed under paragraph (1) or a person appointed to act as the Chairman or a member of any such Commission, shall be removed except as provided for in the Constitution or in any written law, and where there is no such provision, such person shall be removed by the President only with the prior approval of the Council.
+
+(6) All the Commissions referred to in the Schedule to this Article, other than the Election Commission, shall be responsible and answerable to Parliament.
 
 ##### SCHEDULE
 
@@ -1261,12 +1719,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (i) The National Procurement Commission.
 
-- 41C. (1)  No  person  shall  be  appointed  by  the  President to any of the Offices specified in the Schedule to this Article, unless such appointment has been approved by the Council upon a recommendation made to the Council by the President.
+#### Council to approve appointments
 
-- The provisions of paragraph (1) of this Article shall apply in respect of any person appointed to act for a period exceeding fourteen  days,  in  any  Office  specified  in  the  Schedule  to  this Article:
+41C. (1) No person shall be appointed by the President to any of the Offices specified in the Schedule to this Article, unless such appointment has been approved by the Council upon a recommendation made to the Council by the President.
+
+(2) The provisions of paragraph (1) of this Article shall apply in respect of any person appointed to act for a period exceeding fourteen days, in any Office specified in the Schedule to this Article:
 
 Provided that no person shall be appointed to act in any such office for successive periods not exceeding fourteen days, unless such acting appointment has been approved by the Council on a recommendation by the President.
-
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
@@ -1275,15 +1734,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 37
 
-- No  person  appointed  to  any  Office  specified  in  the Schedule  to  this  Article  or  to  act  in  any  such  Office,  shall be  removed  from  such  Office  except  as  provided  for  in  the Constitution or in any law.
+(3) No person appointed to any Office specified in the Schedule to this Article or to act in any such Office, shall be removed from such Office except as provided for in the Constitution or in any law.
 
-- In the discharge of its function relating to the appointment of Judges of the Supreme Court and the President and Judges of the Court of Appeal, the Council shall obtain the views of the Chief Justice.
+(4) In the discharge of its function relating to the appointment of Judges of the Supreme Court and the President and Judges of the Court of Appeal, the Council shall obtain the views of the Chief Justice.
 
 ##### SCHEDULE
 
 ###### PART I
 
-(a) The  Chief  Justice  and  the  Judges  of  the  Supreme Court.
+(a) The Chief Justice and the Judges of the Supreme Court.
 
 (b) The President and the Judges of the Court of Appeal.
 
@@ -1301,16 +1760,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (e) The Secretary-General of Parliament.
 
-- 41D. (1) There shall be a Secretary-General to the Council who shall be appointed by the Council for a term of five years. Upon the expiration of his term of office, the Secretary-General shall be eligible for reappointment.
-
-- The Council may appoint such officers as it considers necessary for the discharge of its functions, on such terms and conditions as shall be determined by the Council.
-
-- 41E. (1) The Council shall meet at least twice every month, and  as  often  as  may  be  necessary  to  discharge  the  functions assigned to the Council by the provisions of this Chapter or by any law, and such meetings shall be summoned by the SecretaryGeneral to the Council on the direction of the Chairman of the Council.
-
 #### Secretary-General and other officers of the Council
+
+41D. (1) There shall be a Secretary-General to the Council who shall be appointed by the Council for a term of five years. Upon the expiration of his term of office, the Secretary-General shall be eligible for reappointment.
+
+(2) The Council may appoint such officers as it considers necessary for the discharge of its functions, on such terms and conditions as shall be determined by the Council.
 
 #### Meetings of the Council
 
+41E. (1) The Council shall meet at least twice every month, and as often as may be necessary to discharge the functions assigned to the Council by the provisions of this Chapter or by any law, and such meetings shall be summoned by the Secretary-General to the Council on the direction of the Chairman of the Council.
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
@@ -1319,24 +1777,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- The Chairman shall preside at all meetings of the Council and in the absence of the Chairman, the Prime Minister, and in the absence of the Prime Minister, the Leader of the Opposition shall preside at the meetings of the Council.
+(2) The Chairman shall preside at all meetings of the Council and in the absence of the Chairman, the Prime Minister, and in the absence of the Prime Minister, the Leader of the Opposition shall preside at the meetings of the Council.
 
-- The quorum for any meeting of the Council shall be five members.
+(3) The quorum for any meeting of the Council shall be five members.
 
-- The Council shall endeavour to make every recommendation,  approval  or  decision  it  is  required  to  make by  unanimous  decision  and  in  the  absence  of  an  unanimous decision, no recommendation, approval or decision made by the Council shall be valid, unless supported by not less than five members of the Council present at such meeting.
+(4) The Council shall endeavour to make every recommendation, approval or decision it is required to make by unanimous decision and in the absence of an unanimous decision, no recommendation, approval or decision made by the Council shall be valid, unless supported by not less than five members of the Council present at such meeting.
 
-- The Chairman or the other member presiding shall not have an original vote, but in the event of an equality of votes on any question for decision at any meeting of the Council, the Chairman or other member presiding at such meeting, shall have a casting vote.
+(5) The Chairman or the other member presiding shall not have an original vote, but in the event of an equality of votes on any question for decision at any meeting of the Council, the Chairman or other member presiding at such meeting, shall have a casting vote.
 
-- The procedure in regard to meetings of the Council and the transaction of business at such meetings shall be determined by the Council, including procedures to be followed in regard to the recommendation or approval of persons suitable for any appointment under Article 41B or Article 41C.
+(6) The procedure in regard to meetings of the Council and the transaction of business at such meetings shall be determined by the Council, including procedures to be followed in regard to the recommendation or approval of persons suitable for any appointment under Article 41B or Article 41C.
 
-- Any  member  of  the  Council  appointed  under  subparagraphs (d), (e), or (f) of paragraph (1) of Article 41A, who without  obtaining  prior  leave  of  the  Council  absents  himself from three consecutive meetings of the Council, shall be deemed to have vacated office with effect from the date of the third of such meetings.
+(7) Any member of the Council appointed under sub-paragraphs (d), (e), or (f) of paragraph (1) of Article 41A, who without obtaining prior leave of the Council absents himself from three consecutive meetings of the Council, shall be deemed to have vacated office with effect from the date of the third of such meetings.
 
-- The Council shall have the power to act notwithstanding the fact that it has not been fully constituted or that there is a vacancy in its membership, and no act, proceeding or decision of the Council shall be or deemed to be invalid by reason only of the fact that the Council has not been fully constituted or that there  has  been  a  vacancy  in  its  membership  or  that  there  has been any defect in the appointment of a member.
-
-- 41F. Notwithstanding the expiration of the term of office of the members of the Council or of the members of any Commission specified  in  the  Schedule  to Article  41B,  the  members  of  the Council or of such other Commission shall continue in office
+(8) The Council shall have the power to act notwithstanding the fact that it has not been fully constituted or that there is a vacancy in its membership, and no act, proceeding or decision of the Council shall be or deemed to be invalid by reason only of the fact that the Council has not been fully constituted or that there has been a vacancy in its membership or that there has been any defect in the appointment of a member.
 
 #### Continuation in office of the members of the Council
 
+41F. Notwithstanding the expiration of the term of office of the members of the Council or of the members of any Commission specified in the Schedule to Article 41B, the members of the Council or of such other Commission shall continue in office
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
@@ -1347,25 +1804,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 until the assumption of office by the new members of the Council or of such other Commission.
 
-- 41G. (1)  The  Council  shall,  once  in  every  three  months, submit  to  the  President  a  report  of  its  activities  during  the preceding three months.
-
-- The  Council  shall  perform  and  discharge  such  other duties  and  functions  as  may  be  imposed  or  assigned  to  the Council by the Constitution, or by any other written law.
-
-- The Council shall have the power to make rules relating to the performance and discharge of its duties and function. All such rules shall be published in the Gazette and be placed before Parliament within three months of such publication.
-
-- 41H. The expenses incurred by the Council shall be charged on the Consolidated Fund.
-
-- 41I. Subject to the provisions of Article 126, no court shall have  the  power  or  jurisdiction  to  entertain,  hear  or  decide  or call in question, on any ground whatsoever, or in any manner whatsoever,  any  decision  of  the  Council  or  any  approval  or recommendation made by the Council, which decision, approval or recommendation shall be final and conclusive for all purposes.
-
 #### Powers and duties of the Council
+
+41G. (1) The Council shall, once in every three months, submit to the President a report of its activities during the preceding three months.
+
+(2) The Council shall perform and discharge such other duties and functions as may be imposed or assigned to the Council by the Constitution, or by any other written law.
+
+(3) The Council shall have the power to make rules relating to the performance and discharge of its duties and function. All such rules shall be published in the Gazette and be placed before Parliament within three months of such publication.
 
 #### Expenses to be charged on the Consolidated Fund
 
-#### Finality of decisions of the Council
-#### Prime Minister and the Cabinet of Ministers
-#### Ministers and their subjects and functions
-#### Ministers who are not members of the Cabinet of Ministers
+41H. The expenses incurred by the Council shall be charged on the Consolidated Fund.
 
+#### Finality of decisions of the Council
+
+41I. Subject to the provisions of Article 126, no court shall have the power or jurisdiction to entertain, hear or decide or call in question, on any ground whatsoever, or in any manner whatsoever, any decision of the Council or any approval or recommendation made by the Council, which decision, approval or recommendation shall be final and conclusive for all purposes.
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
@@ -1380,28 +1833,33 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### The Cabinet of Ministers
 
-(1) There shall be a Cabinet of Ministers charged with the direction and control of the Government of the Republic.
+#### Prime Minister and the Cabinet of Ministers
 
-- The Cabinet of Ministers shall be collectively responsible and answerable to Parliament.
+42. (1) There shall be a Cabinet of Ministers charged with the direction and control of the Government of the Republic.
 
-- The  President  shall  be  a  member  of  the  Cabinet  of Ministers and shall be the Head of the Cabinet of Ministers.
+(2) The Cabinet of Ministers shall be collectively responsible and answerable to Parliament.
 
-- The  President  shall  appoint  as  Prime  Minister  the Member of Parliament, who, in the President's opinion, is most likely to command the confidence of Parliament.
+(3) The President shall be a member of the Cabinet of Ministers and shall be the Head of the Cabinet of Ministers.
 
-(1) The President shall, in consultation with the Prime Minister, where he considers such consultation to be necessary, determine the number of Ministers of the Cabinet of Ministers and the Ministries and the assignment of subjects and functions to such Ministers.
+(4) The President shall appoint as Prime Minister the Member of Parliament, who, in the President’s opinion, is most likely to command the confidence of Parliament.
 
-- The President shall, on the advice of the Prime Minister, appoint from among Members of Parliament, Ministers, to be in charge of the Ministries so determined.
+#### Ministers and their subjects and functions
 
-- The President may at any time change the assignment of  subjects  and  functions  and  the  composition  of  the  Cabinet of Ministers. Such changes shall not affect the continuity of the Cabinet of Ministers and the continuity of its responsibility to Parliament.
+43. (1) The President shall, in consultation with the Prime Minister, where he considers such consultation to be necessary, determine the number of Ministers of the Cabinet of Ministers and the Ministries and the assignment of subjects and functions to such Ministers.
 
-(1)  The  President  may,  on  the  advice  of  the  Prime Minister, appoint from among Members of Parliament, Ministers who shall not be members of the Cabinet of Ministers.
+(2) The President shall, on the advice of the Prime Minister, appoint from among Members of Parliament, Ministers, to be in charge of the Ministries so determined.
 
-- The  President  may,  in  consultation  with  the  Prime Minister where he considers such consultation to be necessary, determine the assignment of subjects and functions to Ministers appointed under paragraph (1) of this Article and the Ministries, if any, which are to be in charge of, such Ministers.
+(3) The President may at any time change the assignment of subjects and functions and the composition of the Cabinet of Ministers. Such changes shall not affect the continuity of the Cabinet of Ministers and the continuity of its responsibility to Parliament.
 
-- The President  may at any time change any assignment made under paragraph (2).
+#### Ministers who are not members of the Cabinet of Ministers
 
-31 -	 Chapter VIII was substituted by the Nineteenth Amendment to the Constitution Sec. 9
+44. (1) The President may, on the advice of the Prime Minister, appoint from among Members of Parliament, Ministers who shall not be members of the Cabinet of Ministers.
 
+(2) The President may, in consultation with the Prime Minister where he considers such consultation to be necessary, determine the assignment of subjects and functions to Ministers appointed under paragraph (1) of this Article and the Ministries, if any, which are to be in charge of, such Ministers.
+
+(3) The President may at any time change any assignment made under paragraph (2).
+
+31 - Chapter VIII was substituted by the Nineteenth Amendment to the Constitution Sec. 9
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
@@ -1412,29 +1870,27 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (4) Every Minister appointed under paragraph (1) shall be responsible to the Cabinet of Ministers and to Parliament.
 
-(5)  Any  Minister  of  the  Cabinet  of  Ministers  may,  by Notification published in the Gazette, delegate to any Minister who is not a member of the Cabinet of Ministers, any power or duty pertaining to any subject or function assigned to such cabinet Minister,  or any power or duty conferred or imposed on him by any written law, and it shall be lawful for such other Minister to exercise and perform any power or duty delegated notwithstanding  anything  to  the  contrary  in  the  written  law by which that power or duty is conferred or imposed on such Minister of the Cabinet of Ministers.
-
-45. (1)The  President  may,  on  the  advice  of  the  Prime Minister, appoint from among Members of Parliament, Deputy Ministers to assist Ministers of the Cabinet of Ministers in the performance of their duties.
-
-(2)  Any  Minister  of  the  Cabinet  of  Ministers  may  by Notification  published  in  the  Gazette,  delegate  to  his  Deputy Minister, any power or duty pertaining to any subject or function assigned to him or any power or duty conferred or imposed on him by any written law, and it shall be lawful for such Deputy Minister to exercise and perform any power or duty delegated notwithstanding  anything  to  the  contrary  in  the  written  law by which that power or duty is conferred or imposed on such Minister.
-
-46. (1) The total number of-
-
-(a) Ministers of the Cabinet of Ministers shall not exceed thirty; and
-
-(b) Ministers  who  are  not  members  of  the  Cabinet  of Ministers  and  Deputy  Ministers  shall  not,  in  the aggregate, exceed forty.
-
-(2)  The  Prime  Minister  shall  continue  to  hold  office throughout  the  period  during  which  the  Cabinet  of  Ministers continues to function under the provisions of the Constitution unless he -
-
-(a) resigns  his  office  by  a  writing  under  his  hand addressed to the President; or
-
-(b) ceases to be a Member of Parliament.
+(5) Any Minister of the Cabinet of Ministers may, by Notification published in the Gazette, delegate to any Minister who is not a member of the Cabinet of Ministers, any power or duty pertaining to any subject or function assigned to such cabinet Minister, or any power or duty conferred or imposed on him by any written law, and it shall be lawful for such other Minister to exercise and perform any power or duty delegated notwithstanding anything to the contrary in the written law by which that power or duty is conferred or imposed on such Minister of the Cabinet of Ministers.
 
 #### Deputy Ministers
 
-#### Tenure of office of the Prime Minister, and the limitation of numbers and tenure of office of Ministers and Deputy Ministers
-#### Cabinet of Ministers after dissolution of Parliament
+45. (1)The President may, on the advice of the Prime Minister, appoint from among Members of Parliament, Deputy Ministers to assist Ministers of the Cabinet of Ministers in the performance of their duties.
 
+(2) Any Minister of the Cabinet of Ministers may by Notification published in the Gazette, delegate to his Deputy Minister, any power or duty pertaining to any subject or function assigned to him or any power or duty conferred or imposed on him by any written law, and it shall be lawful for such Deputy Minister to exercise and perform any power or duty delegated notwithstanding anything to the contrary in the written law by which that power or duty is conferred or imposed on such Minister.
+
+#### Tenure of office of the Prime Minister, and the limitation of numbers and tenure of office of Ministers and Deputy Ministers
+
+46. (1) The total number of–
+
+(a) Ministers of the Cabinet of Ministers shall not exceed thirty; and
+
+(b) Ministers who are not members of the Cabinet of Ministers and Deputy Ministers shall not, in the aggregate, exceed forty.
+
+(2) The Prime Minister shall continue to hold office throughout the period during which the Cabinet of Ministers continues to function under the provisions of the Constitution unless he -
+
+(a) resigns his office by a writing under his hand addressed to the President; or
+
+(b) ceases to be a Member of Parliament.
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
@@ -1443,22 +1899,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- A Minister of the Cabinet of Ministers,  a Minister who is  not  a  member  of  the  Cabinet  of  Ministers  and  a    Deputy Minister,  shall  continue  to  hold  office  throughout  the  period during  which  the  Cabinet  of  Ministers  continues  to  function under the provisions of the Constitution unless he-
+(3) A Minister of the Cabinet of Ministers, a Minister who is not a member of the Cabinet of Ministers and a Deputy Minister, shall continue to hold office throughout the period during which the Cabinet of Ministers continues to function under the provisions of the Constitution unless he–
 
 (a) is removed from office under the hand of the President on the advice of the Prime Minister;
 
-(b) resigns  from  office  by  a  writing  under  his  hand addressed to the President; or
+(b) resigns from office by a writing under his hand addressed to the President; or
 
 (c) ceases to be a Member of Parliament.
 
-- Notwithstanding anything contained in paragraph (1)  of  this Article,  where  the  recognized political party or the independent  group  which  obtains  highest  number  of  seats in  Parliament  forms  a  National  Government,  the  number  of Ministers in the Cabinet of Ministers, the number of Ministers who are  not  Cabinet  of  Ministers  and  the  number  of  Deputy Ministers shall be determined by Parliament.
+(4) Notwithstanding anything contained in paragraph (1) of this Article, where the recognized political party or the independent group which obtains highest number of seats in Parliament forms a National Government, the number of Ministers in the Cabinet of Ministers, the number of Ministers who are not Cabinet of Ministers and the number of Deputy Ministers shall be determined by Parliament.
 
-- For the purpose of paragraph (4), National Government means, a Government formed by the recognized political party or the independent group which obtains the highest  number of seats in Parliament together with the other recognized political parties or the independent groups.
+(5) For the purpose of paragraph (4), National Government means, a Government formed by the recognized political party or the independent group which obtains the highest number of seats in Parliament together with the other recognized political parties or the independent groups.
 
-(1)  The  Cabinet  of  Ministers  functioning  immediately prior  to  the  dissolution  of  Parliament  shall,  notwithstanding such dissolution, continue to function and shall cease to function upon the conclusion of the General Election and accordingly, the Prime Minister and the Ministers of the Cabinet of Ministers, shall  continue  to  function  unless  they  cease  to  hold  office  as provided in sub paragraph (a) of paragraph (2) or sub paragraph (a) or (b) of paragraph (3) of Article 46 and shall comply with the criteria set out by the Commissioner of Elections and shall not cause any undue influence on the General Election.
+#### Cabinet of Ministers after dissolution of Parliament
 
-- Notwithstanding  the  death,  removal  from  office  or resignation of the Prime Minister, during the period intervening between  the  dissolution  of  Parliament  and  the  conclusion  of the General Election, the Cabinet of Ministers shall continue to function with the other Ministers of the Cabinet of Ministers as its  members,  until  the  conclusion  of  the  General  Election. The President may appoint one such Minister to exercise, perform and discharge the powers, duties and functions of the Prime Minister.
+47. (1) The Cabinet of Ministers functioning immediately prior to the dissolution of Parliament shall, notwithstanding such dissolution, continue to function and shall cease to function upon the conclusion of the General Election and accordingly, the Prime Minister and the Ministers of the Cabinet of Ministers, shall continue to function unless they cease to hold office as provided in sub paragraph (a) of paragraph (2) or sub paragraph (a) or (b) of paragraph (3) of Article 46 and shall comply with the criteria set out by the Commissioner of Elections and shall not cause any undue influence on the General Election.
 
+(2) Notwithstanding the death, removal from office or resignation of the Prime Minister, during the period intervening between the dissolution of Parliament and the conclusion of the General Election, the Cabinet of Ministers shall continue to function with the other Ministers of the Cabinet of Ministers as its members, until the conclusion of the General Election. The President may appoint one such Minister to exercise, perform and discharge the powers, duties and functions of the Prime Minister.
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
@@ -1467,20 +1924,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 43
 
-- On  the  death,  removal  from  office  or  resignation, during  the  period  intervening  between  the  dissolution  of Parliament and the conclusion of the General Election, of a Minister  of  the  Cabinet  of  Ministers,  the  President  may,  on the advice of the Prime Minister, appoint any other Minister to be the Minister in charge of the Ministry of such Minister or to exercise, perform and discharge the powers, duties and functions of such Minister.
-
-(1) On the Prime Minister ceasing to hold office by death, resignation or otherwise, except during the period intervening between  the  dissolution  of  Parliament  and  the  conclusion  of the General Election, the Cabinet of Ministers shall, unless the President  has  in  the  exercise  of  his  powers  under Article  70, dissolved  Parliament,  stand  dissolved  and  the  President  shall appoint a Prime Minister, Ministers of the Cabinet of Ministers, Ministers who are not members of the Cabinet of Ministers and Deputy Ministers in terms of Articles 42, 43, 44 and 45:
-
-Provided that if after the Prime Minister so ceases to hold office,  Parliament  is  dissolved,  the  Cabinet  of  Ministers  shall continue to function with the other Ministers of the Cabinet as its members, until the conclusion of the General Election. The President may appoint one such Minister to exercise, perform and discharge the powers, duties and functions of the Prime Minister, and the provisions of Article 47 shall, mutatis mutandis , apply.
-
-- If Parliament rejects the Statement of Government Policy or the Appropriation Bill or passes a vote of no-confidence in the Government, the Cabinet of Ministers shall stand dissolved, and the President shall, unless he has in the exercise of his powers under Article 70, dissolved Parliament, appoint a Prime Minister, Ministers  of  the  Cabinet  of  Ministers,  Ministers  who  are  not members of the Cabinet of Ministers and Deputy Ministers in terms of Articles 42, 43, 44 and 45.
-
-- Whenever  a  Minister  of  the  Cabinet  of  Ministers,  a Minister who is not a members of the Cabinet of Ministers or a Deputy Minister  is unable to discharge the functions of his office, the President may, on the advice of the Prime Minister, appoint any Member of Parliament to act in the place of such Minister  of  the  Cabinet  of  Ministers,  Minister  who  is  not  a member of the Cabinet of Ministers or a Deputy Minister.
+(3) On the death, removal from office or resignation, during the period intervening between the dissolution of Parliament and the conclusion of the General Election, of a Minister of the Cabinet of Ministers, the President may, on the advice of the Prime Minister, appoint any other Minister to be the Minister in charge of the Ministry of such Minister or to exercise, perform and discharge the powers, duties and functions of such Minister.
 
 #### Dissolution of the Cabinet of Ministers
 
+48. (1) On the Prime Minister ceasing to hold office by death, resignation or otherwise, except during the period intervening between the dissolution of Parliament and the conclusion of the General Election, the Cabinet of Ministers shall, unless the President has in the exercise of his powers under Article 70, dissolved Parliament, stand dissolved and the President shall appoint a Prime Minister, Ministers of the Cabinet of Ministers, Ministers who are not members of the Cabinet of Ministers and Deputy Ministers in terms of Articles 42, 43, 44 and 45:
+
+Provided that if after the Prime Minister so ceases to hold office, Parliament is dissolved, the Cabinet of Ministers shall continue to function with the other Ministers of the Cabinet as its members, until the conclusion of the General Election. The President may appoint one such Minister to exercise, perform and discharge the powers, duties and functions of the Prime Minister, and the provisions of Article 47 shall, mutatis mutandis, apply.
+
+(2) If Parliament rejects the Statement of Government Policy or the Appropriation Bill or passes a vote of no-confidence in the Government, the Cabinet of Ministers shall stand dissolved, and the President shall, unless he has in the exercise of his powers under Article 70, dissolved Parliament, appoint a Prime Minister, Ministers of the Cabinet of Ministers, Ministers who are not members of the Cabinet of Ministers and Deputy Ministers in terms of Articles 42, 43, 44 and 45.
+
 #### Acting Ministers and Deputy Ministers
 
+49. Whenever a Minister of the Cabinet of Ministers, a Minister who is not a members of the Cabinet of Ministers or a Deputy Minister is unable to discharge the functions of his office, the President may, on the advice of the Prime Minister, appoint any Member of Parliament to act in the place of such Minister of the Cabinet of Ministers, Minister who is not a member of the Cabinet of Ministers or a Deputy Minister.
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
@@ -1491,30 +1947,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### Secretary to the Cabinet of Ministers
 
+50. (1) There shall be a Secretary to the Cabinet of Ministers who shall be appointed by the President.
+
+(2) The Secretary shall, subject to the direction of the President, have charge of the office of the Cabinet of Ministers, and shall discharge and perform such other functions and duties as may be assigned to him by the President or the Cabinet of Ministers.
+
 #### Secretary to the Prime Minister
+
+51.(1) There shall be a Secretary to the Prime Minister who shall be appointed by the President.
+
+(2) The Secretary shall have charge of the office of the Prime Minister and shall perform and discharge the duties and functions of his office, subject to the directions of the Prime Minister.
 
 #### Secretaries to Ministries
 
+52. (1) There shall be a Secretary for every Ministry of a Minister of the Cabinet of Ministers, who shall be appointed by the President.
+
+(2) The Secretary to a Ministry shall, subject to the direction and control of his Minister, exercise supervision over the departments of government and other institutions in charge of the Minister.
+
+(3) The Secretary to a Ministry shall cease to hold office upon the dissolution of the Cabinet of Ministers under the provisions of the Constitution or upon a determination by the President under Article 43 or 44 which results in the Ministry ceasing to exist.
+
+(4) For the purposes of this Article, the office of the Secretary to the President, the office of the Secretary to the Cabinet of Ministers, the office of the Auditor-General, the office of the Parliamentary Commissioner for Administration (Ombudsman), the office of the Secretary-General of Parliament, the Constitutional Council, and the Commissions referred to in the Schedule to Article 41B shall be deemed not to be departments of Government.
+
 #### Official oath and affirmation
 
-(1) There shall be a Secretary to the Cabinet of Ministers who shall be appointed by the President.
-
-- The  Secretary  shall,  subject  to  the  direction  of  the President, have charge of the office of the Cabinet of Ministers, and shall discharge and perform such other functions and duties as may be assigned to him by the President or the Cabinet of Ministers.
-
-(1) There shall be a Secretary to the Prime Minister who shall be appointed by the President.
-
-- The  Secretary  shall  have  charge  of  the  office  of  the Prime Minister and shall perform and discharge the duties and functions  of  his  office,  subject  to  the  directions  of  the  Prime Minister.
-
-(1) There shall be a Secretary for every Ministry of a Minister of the Cabinet of Ministers, who shall be appointed by the President.
-
-- The Secretary to a Ministry shall, subject to the direction and  control  of  his  Minister,  exercise  supervision  over  the departments of government and other institutions in charge of the Minister.
-
-- The Secretary to a Ministry shall cease to hold office upon  the  dissolution  of  the  Cabinet  of  Ministers  under  the provisions of the Constitution or upon a determination by the President under Article 43 or 44 which results in the Ministry ceasing to exist.
-
-- For the purposes of this  Article, the office of the Secretary to  the  President,  the  office  of  the  Secretary  to  the  Cabinet  of Ministers,  the  office  of  the Auditor-General,  the  office  of  the Parliamentary Commissioner for Administration (Ombudsman), the office of the Secretary-General of Parliament, the Constitutional Council, and the Commissions referred to in the Schedule to Article 41B shall be deemed not to be departments of Government.
-
-- Every person appointed to any office referred to in this Chapter shall not enter upon the duties of his office until he takes and subscribes the oath, or makes and subscribes the affirmation, set out in the Fourth Schedule and Seventh Schedule.
-
+53. Every person appointed to any office referred to in this Chapter shall not enter upon the duties of his office until he takes and subscribes the oath, or makes and subscribes the affirmation, set out in the Fourth Schedule and Seventh Schedule.
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
@@ -1523,30 +1978,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 45
 
-## 32 [ CHAPTER IX
+## 32[ CHAPTER IX
 
 ### THE EXECUTIVE
 
 ### The Public Service
 
-54. 33 [  (1)  There  shall  be  a  Public  Service  Commission (in this Chapter referred to as the 'Commission') which shall consist  of  nine  members  appointed  by  the  President  on  the recommendation  of  the  Constitutional  Council,  of  whom  not less  than  three  members  shall  be  persons  who  have  had  over fifteen years experience as a public officer. The President on the recommendation of the Constitutional Council shall appoint one member as its Chairman.]
+#### Public Service Commission
 
-(2)  No  person  shall  be  appointed  as  a  member  of  the Commission or continue to hold office as such member if he is or becomes a member of Parliament, a Provincial Council or a local authority.
+54. 33[ (1) There shall be a Public Service Commission (in this Chapter referred to as the “Commission”) which shall consist of nine members appointed by the President on the recommendation of the Constitutional Council, of whom not less than three members shall be persons who have had over fifteen years experience as a public officer. The President on the recommendation of the Constitutional Council shall appoint one member as its Chairman.]
 
-(3) Every person who immediately before his appointment as  a  member  of  the  Commission  was  a  public  officer  in the  service  of  the  State  or  a  judicial  officer,  shall,  upon  such appointment taking effect ceases to hold such office and shall be ineligible for further appointment as a public officer or a judicial officer:
+(2) No person shall be appointed as a member of the Commission or continue to hold office as such member if he is or becomes a member of Parliament, a Provincial Council or a local authority.
+
+(3) Every person who immediately before his appointment as a member of the Commission was a public officer in the service of the State or a judicial officer, shall, upon such appointment taking effect ceases to hold such office and shall be ineligible for further appointment as a public officer or a judicial officer:
 
 provided that any such person shall, until he ceases to be a member of the Public Service Commission, or while continuing to be a member, attains the age at which he would, if he were a public officer or a judicial officer, as the case may be, be required to retire, be deemed to be a public officer or a judicial officer and to hold a pensionable office in the service of the State, for the purpose of any provision relating to the grant of pensions, gratuities and other allowances in respect of such service.
 
-34 [ (4) Every member of the Commission shall hold office for a period of three years from the date of appointment, unless the member becomes subject to any disqualification under paragraph (2) or earlier resigns from his office by writing addressed to the President or is removed from office by the President with the
-#### Public Service Commission
-approval of the Constitutional Council or is convicted by a court of law of any offence involving moral turpitude or if a resolution for the imposition of civic disability upon the member has been passed in terms of Article 81 or is deemed to have vacated his office under paragraph (6). ]
+34[ (4) Every member of the Commission shall hold office for a period of three years from the date of appointment, unless the member becomes subject to any disqualification under paragraph (2) or earlier resigns from his office by writing addressed to the President or is removed from office by the President with the
 
-> 32 -	 original Chapter IX repealed and substituted by the Seventeenth Amendment to the Constitution Sec.4
+32 - original Chapter IX repealed and substituted by the Seventeenth Amendment to the Constitution Sec.4
 
-> 33 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.10
+33 - Substituted by the Nineteenth Amendment to the Constitution Sec.10
 
-> 34 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.10
-
+34 - Substituted by the Nineteenth Amendment to the Constitution Sec.10
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
@@ -1555,22 +2009,23 @@ approval of the Constitutional Council or is convicted by a court of law of any 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-(5)  A  member  of  the  Commission  shall  be  eligible  for reappointment  as  a  member,  but  shall  not  be  eligible  for appointment  as  a  public  officer  or  a  judicial  officer  after  the expiry of his term of office as a member. No member shall be eligible to hold office as a member of the Commission for more than two terms.
+approval of the Constitutional Council or is convicted by a court of law of any offence involving moral turpitude or if a resolution for the imposition of civic disability upon the member has been passed in terms of Article 81 or is deemed to have vacated his office under paragraph (6). ]
 
-(6) A  member  of  the  Commission  who  without  obtaining prior  leave  of  the  Commission  absents  himself  from  three consecutive  meetings  of  the  commission,  shall  be  deemed  to have vacated office with effect from the date of the third of such meetings, and shall not be eligible thereafter to be reappointed as a member of the Commission.
+(5) A member of the Commission shall be eligible for reappointment as a member, but shall not be eligible for appointment as a public officer or a judicial officer after the expiry of his term of office as a member. No member shall be eligible to hold office as a member of the Commission for more than two terms.
 
-35 [  (7) The President may grant a member leave from the performance of his duties relating to the Commission for a period not  exceeding two months and shall, for the duration of such period,  on  the  recommendation of the Constitutional Council, appoint a person qualified to be a member of the Commission, to be a temporary member for the period of such leave. ]
+(6) A member of the Commission who without obtaining prior leave of the Commission absents himself from three consecutive meetings of the commission, shall be deemed to have vacated office with effect from the date of the third of such meetings, and shall not be eligible thereafter to be reappointed as a member of the Commission.
 
-(8)  A  member  of  the  Commission  shall  be  paid  such emoluments as may be determined by Parliament. The emoluments  paid  to  a  member  of  the  Commission  shall  be charged on the Consolidated Fund and shall not be diminished during the term of office of such member.
+35[ (7) The President may grant a member leave from the performance of his duties relating to the Commission for a period not exceeding two months and shall, for the duration of such period, on the recommendation of the Constitutional Council, appoint a person qualified to be a member of the Commission, to be a temporary member for the period of such leave. ]
 
-(9) The Commission shall have the power to act notwithstanding  any  vacancy  in  its  membership,  and  no  act, proceeding or decision of the Commission shall be or be deemed to be invalid by reason only of such vacancy or any defect in the appointment of a member.
+(8) A member of the Commission shall be paid such emoluments as may be determined by Parliament. The emoluments paid to a member of the Commission shall be charged on the Consolidated Fund and shall not be diminished during the term of office of such member.
+
+(9) The Commission shall have the power to act notwithstanding any vacancy in its membership, and no act, proceeding or decision of the Commission shall be or be deemed to be invalid by reason only of such vacancy or any defect in the appointment of a member.
 
 (10) There shall be a Secretary to the Commission who shall be appointed by the Commission.
 
 (11) The members of the Commission shall be deemed to be public servants, within the meaning and for the purposes of Chapter IX of the Penal Code.
 
-35 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.10
-
+35 - Substituted by the Nineteenth Amendment to the Constitution Sec.10
 [[END OF PAGE 64]]
 
 [[START OF PAGE 65]]
@@ -1579,37 +2034,35 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 47
 
-- 36 [ 55. (1) The Cabinet of Ministers shall provide for and determine  all  matters  of  policy  relating  to  public  officers, including policy relating to appointments, promotions, transfers, disciplinary control and dismissal.
-
-- The appointment, promotion, transfer, disciplinary control and dismissal of all Heads of Department shall, vest in the Cabinet of Ministers.
-
-- Subject  to  the  provisions  of  the  Constitution,  the appointment, promotion, transfer, disciplinary control and dismissal of public officers shall be vested in the Public Service Commission.
-
-- The Commission shall not derogate from the powers and functions of the Provincial Public Service Commissions as are established by law.
-
-- The Commission shall be responsible and answerable to Parliament  in  accordance  with  the  provisions  of  the  Standing Orders of Parliament for the exercise and discharge of its powers and functions. The Commission shall also forward to Parliament in each calendar year, a report of its activities in respect of such year.
-
-(1)  The  Commission  may  delegate  to  a  Committee consisting of three persons (not being members of the Commission)  appointed  by  the  Commission,  the  powers  of appointment, promotion, transfer, disciplinary control and dismissal of such categories of public officers 37 [as are specified by the Commission.]
-
-- The  Commission  shall  cause  the  appointment  of  any such Committee to be published in the Gazette.
-
-- The  procedure  and  quorum  for  meetings  of  any  such Committee shall be as determined by the Commission by rules made in that behalf. The Commission shall cause such rules to be published in the Gazette.
-
-- There shall be a Secretary to each Committee, who shall be appointed by the Commission.
-
-(1) The Commission may delegate to a public officer, subject to such conditions and procedure as may be determined
-
 #### Powers and functions of the Cabinet of Ministers and of the Commission
+
+36[ 55. (1) The Cabinet of Ministers shall provide for and determine all matters of policy relating to public officers, including policy relating to appointments, promotions, transfers, disciplinary control and dismissal.
+
+(2) The appointment, promotion, transfer, disciplinary control and dismissal of all Heads of Department shall, vest in the Cabinet of Ministers.
+
+(3) Subject to the provisions of the Constitution, the appointment, promotion, transfer, disciplinary control and dismissal of public officers shall be vested in the Public Service Commission.
+
+(4) The Commission shall not derogate from the powers and functions of the Provincial Public Service Commissions as are established by law.
+
+(5) The Commission shall be responsible and answerable to Parliament in accordance with the provisions of the Standing Orders of Parliament for the exercise and discharge of its powers and functions. The Commission shall also forward to Parliament in each calendar year, a report of its activities in respect of such year.
 
 #### Committees of the Commission
 
+56. (1) The Commission may delegate to a Committee consisting of three persons (not being members of the Commission) appointed by the Commission, the powers of appointment, promotion, transfer, disciplinary control and dismissal of such categories of public officers 37[as are specified by the Commission.]
+
+(2) The Commission shall cause the appointment of any such Committee to be published in the Gazette.
+
+(3) The procedure and quorum for meetings of any such Committee shall be as determined by the Commission by rules made in that behalf. The Commission shall cause such rules to be published in the Gazette.
+
+(4) There shall be a Secretary to each Committee, who shall be appointed by the Commission.
+
 #### Delegation of powers to a public officer
-#### Right of appeal
 
-> 36 -	 Original Article 55 repealed and substituted by the Eighteenth Amendment to the Constitution Sec.8
+57. (1) The Commission may delegate to a public officer, subject to such conditions and procedure as may be determined
 
-> 37 -	 substituted by the Eighteenth Amendment to the Constitution Sec.11 for "as are specified by the Cabinet of Ministers
+36 - Original Article 55 repealed and substituted by the Eighteenth Amendment to the Constitution Sec.8
 
+37 - substituted by the Eighteenth Amendment to the Constitution Sec.11 for "as are specified by the Cabinet of Ministers
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
@@ -1618,29 +2071,31 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+by the Commission, its powers of appointment, promotion, transfer, disciplinary control and dismissal of such category of public officers 38[as are specified by the Commission.]
+
+(2) The Commission shall cause any such delegation to be published in the Gazette, including the conditions and procedure determined by the Commission for such purpose.
+
+#### Right of appeal
+
+58. (1) Any public officer aggrieved by an order relating to a promotion, transfer, dismissal or an order on a disciplinary matter made by a Committee or any public officer under Article 56 or Article 57, in respect of the officer so aggrieved, may appeal to the Commission against such order in accordance with such rules made by the Commission from time to time, relating to the procedure to be followed in the making, hearing and determination of an appeal made to the Commission and the period fixed within which an appeal should be heard and concluded.
+
+(2) The Commission shall have the power upon such appeal to alter, vary, rescind or confirm an order against which an appeal is made, or to give directions in relation thereto, or to order such further or other inquiry as to the Commission shall seem fit.
+
+(3) The Commission shall cause to be published in the Gazette the rules made by it under paragraph (1) of this Article.
+
 #### Administrative Appeals Tribunal
 
+59. (1) There shall be an Administrative Appeals Tribunal appointed by the Judicial Service Commission.
+
+(2) The Administrative Appeals Tribunal shall have the power to alter, vary or rescind any order or decision made by the Commission.
+
+(3) The constitution, powers and procedure of such Tribunal, including the time limits for the preferring of appeals, shall be provided for by law.
+
 #### Commission not to exercise power where there is delegation
-by  the  Commission,  its  powers  of  appointment,  promotion, transfer, disciplinary control and dismissal of such category of public officers 38 [as are specified by the Commission.]
 
-- The Commission shall cause any such delegation to be published in the Gazette, including the conditions and procedure determined by the Commission for such purpose.
+60. Upon delegation of any of its powers to a Committee or a public officer appointed under Article 56 or Article 57 as the case may be, the Commission shall not, while such delegation is in force, exercise or perform its functions or duties in regard to the categories of public officers in respect of which such delegation is made, subject to the provisions contained in paragraphs (1) and (2) of Article 58.
 
-(1) Any  public  officer  aggrieved  by  an  order  relating to a promotion, transfer, dismissal or an order on a disciplinary matter made by a Committee or any public officer under Article 56  or Article  57,  in  respect  of  the  officer  so  aggrieved,  may appeal  to  the  Commission  against  such  order  in  accordance with  such  rules  made  by  the  Commission  from  time  to  time, relating to the procedure to be followed in the making, hearing and determination of an appeal made to the Commission and the  period  fixed  within  which  an  appeal  should  be  heard  and concluded.
-
-- The Commission shall have the power upon such appeal to alter, vary, rescind or confirm an order against which an appeal is made, or to give directions in relation thereto, or to order such further or other inquiry as to the Commission shall seem fit.
-
-- The  Commission  shall  cause  to  be  published  in  the Gazette the rules made by it under paragraph (1) of this Article.
-
-(1) There shall be an Administrative Appeals Tribunal appointed by the Judicial Service Commission.
-
-- The  Administrative  Appeals  Tribunal  shall  have  the power to alter, vary or rescind any order or decision made by the Commission.
-
-- The constitution, powers and procedure of such Tribunal, including the time limits for the preferring of appeals, shall be provided for by law.
-
-- Upon delegation of any of its powers to a Committee or a public officer appointed under Article 56 or Article 57 as the case may be, the Commission shall not, while such delegation is in force, exercise or perform its functions or duties in regard to the categories of public officers in respect of which such delegation is  made, subject to the provisions contained in paragraphs (1) and (2) of Article 58.
-
-> 38 -	 substituted by the Eighteenth Amendment to the Constitution Sec.11 for "as are specified by the Cabinet of Ministers
-
+38 - substituted by the Eighteenth Amendment to the Constitution Sec.11 for "as are specified by the Cabinet of Ministers
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
@@ -1649,33 +2104,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 49
 
+#### Procedure at meetings
+
 61. (1) The quorum for a meeting of the Commission shall be five members.
 
-(2)  All  decisions  of  the  Commission  shall  be  made  by  a majority  of  votes  of  the  members  present  at  the  meeting.  In the event of an equality of votes, the member presiding at the meeting shall have a casting vote.
+(2) All decisions of the Commission shall be made by a majority of votes of the members present at the meeting. In the event of an equality of votes, the member presiding at the meeting shall have a casting vote.
 
-(3)  The  Chairman  of  the  Commission  shall  preside  at  all meetings  of  the  Commission  and  in  his  absence,  a  member elected by the members present from amongst themselves, shall preside at such meeting.
-
-61A. 39 [Subject to the provisions of Article 59 and of Article 126],  no  court  or  tribunal  shall  have  power  or  jurisdiction  to inquire into, or pronounce upon or in any manner call in question any order or decision made by the Commission, a Committee, or any public officer, in pursuance of any power or duty conferred or imposed on such Commission, or delegated to a Committee or public officer, under this Chapter or under any other law.
-
-61B. Until  the  Commission  otherwise  provides,  all  rules, regulations and procedures relating to the public service as are in force on the date of the coming into operation of this Chapter, shall, mutatis mutandis , be deemed to continue in force as rules, regulations and procedures relating to the public service, as if they had been made or provided for under this Chapter.
-
-61C . (1) Every person who, otherwise than in the course of such person's lawful duty, directly or indirectly by himself or by or with any other person, in any manner whatsoever influences or attempts to influence or interferes with any decision of the Commission, or a Committee or a public officer to whom the Commission has delegated any power under this Chapter, or to so influence any member of the Commission or a Committee, shall be guilty of an offence and shall on conviction be liable to  a  fine  not  exceeding  one  hundred  thousand  Rupees  or  to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
-
-(2) Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1) of this Article.
-
-> 39 -	 substituted  by  the  Nineteenth Amendment  to  the  Constitution  Sec.13  for  "Subject  to  the  provisions  of paragraphs (1), (2), (3), (4) and (5) of Article 126,
-
-#### Procedure at meetings
+(3) The Chairman of the Commission shall preside at all meetings of the Commission and in his absence, a member elected by the members present from amongst themselves, shall preside at such meeting.
 
 #### Immunity from legal proceedings
 
+61A. 39[Subject to the provisions of Article 59 and of Article 126], no court or tribunal shall have power or jurisdiction to inquire into, or pronounce upon or in any manner call in question any order or decision made by the Commission, a Committee, or any public officer, in pursuance of any power or duty conferred or imposed on such Commission, or delegated to a Committee or public officer, under this Chapter or under any other law.
+
 #### Savings of rules and regulations in force
 
-#### Interference with the Commission
-#### Oath or affirmation of office
-#### Appointments by the President
-#### Interpretation
+61B. Until the Commission otherwise provides, all rules, regulations and procedures relating to the public service as are in force on the date of the coming into operation of this Chapter, shall, mutatis mutandis, be deemed to continue in force as rules, regulations and procedures relating to the public service, as if they had been made or provided for under this Chapter.
 
+#### Interference with the Commission
+
+61C. (1) Every person who, otherwise than in the course of such person’s lawful duty, directly or indirectly by himself or by or with any other person, in any manner whatsoever influences or attempts to influence or interferes with any decision of the Commission, or a Committee or a public officer to whom the Commission has delegated any power under this Chapter, or to so influence any member of the Commission or a Committee, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand Rupees or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
+
+(2) Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1) of this Article.
+
+39 - substituted by the Nineteenth Amendment to the Constitution Sec.13 for "Subject to the provisions of paragraphs (1), (2), (3), (4) and (5) of Article 126,
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
@@ -1684,20 +2135,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-61D. A  person  appointed  to  any  office  referred  to  in  this Chapter shall not enter upon the duties of his office until he takes and subscribes the oath or makes and subscribes the affirmation set out in the Fourth Schedule to the Constitution.
+#### Oath or affirmation of office
 
-- 40 [ 61E . (1) The President shall appoint:-
+61D. A person appointed to any office referred to in this Chapter shall not enter upon the duties of his office until he takes and subscribes the oath or makes and subscribes the affirmation set out in the Fourth Schedule to the Constitution.
+
+#### Appointments by the President
+
+40[61E. (1) The President shall appoint:-
 
 (a) the Heads of the Army, the Navy and the Air Force;
 
-(b) subject to the approval of the Constitutional Council, the Attorney-General  and  the  Inspector-General  of Police,
+(b) subject to the approval of the Constitutional Council, the Attorney-General and the Inspector-General of Police,
 
-- The holders of the Offices of Attorney-General and the Inspector-General  of  Police  shall  retire  from  their  respective Office, upon their attaining the age of sixty years.
+(2) The holders of the Offices of Attorney-General and the Inspector-General of Police shall retire from their respective Office, upon their attaining the age of sixty years.
 
-61F. For the purposes of this Chapter 'public officer' does not include a member of the Army, Navy, or Air Force, an officer of the Election Commission appointed by such Commission, a police  officer  appointed  by  the  National  Police  Commission, a  scheduled  public  officer  appointed  by  the  Judicial  Service Commission or a member of the Sri Lanka State Audit Service appointed by the Audit Service Commission. ]
+#### Interpretation
 
-40 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.14
+61F. For the purposes of this Chapter “public officer” does not include a member of the Army, Navy, or Air Force, an officer of the Election Commission appointed by such Commission, a police officer appointed by the National Police Commission, a scheduled public officer appointed by the Judicial Service Commission or a member of the Sri Lanka State Audit Service appointed by the Audit Service Commission. ]
 
+40 - Substituted by the Nineteenth Amendment to the Constitution Sec.14
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
@@ -1712,36 +2168,33 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### Parliament
 
-- 41 [(1) There shall be a Parliament which shall consist of two hundred and twenty-five Members elected in accordance with the provisions of the Constitution].
-
-- 42 [(2) Unless Parliament is sooner dissolved, every Parliament shall continue for five years from the date appointed for  its  first  meeting  and  no  longer,  and  the  expiry  of  the  said period of five years shall operate as a dissolution of Parliament. ]
-
-- Except  for  the  purpose  of  electing  the  Speaker,  no Member shall sit or vote in parliament until he has taken and subscribed  the  following  oath,  or  made  and  subscribed  the following affirmation, before Parliament :-
-
-solemnly
-
-declare and affirm
-
-'I …… do ------------------------- that I will uphold swear
-
-and  defend  the  Constitution  of  the  Democratic  Socialist Republic of Sri Lanka.'
-
-(1) Parliament shall, at its first meeting after a General Election,  elect  three  Members  to  be  respectively  the  Speaker, the Deputy Speaker and Chairman of Committees (hereinafter referred to as the 'Deputy Speaker') and the Deputy Chairman of Committees thereof.
-
-- A member holding office as the Speaker or the Deputy Speaker or the Deputy Chairman of Committees shall, unless he earlier resigns his office by a writing under his hand addressed to the President or ceases to be a Member, vacate his office on the dissolution of Parliament.
-
-- Whenever the office of Speaker, Deputy Speaker or Deputy Chairman of Committees becomes vacant otherwise than as a result of a dissolution of Parliament, Parliament shall at its first meeting after the occurrence of the vacancy elect another Member to be the  Speaker,  the  Deputy  Speaker  or  the  Deputy  Chairman  of Committees, as the case may be.
-
 #### Parliament
+
+62. 41[(1) There shall be a Parliament which shall consist of two hundred and twenty-five Members elected in accordance with the provisions of the Constitution].
+
+42[(2) Unless Parliament is sooner dissolved, every Parliament shall continue for five years from the date appointed for its first meeting and no longer, and the expiry of the said period of five years shall operate as a dissolution of Parliament. ]
 
 #### Official oath or affirmation
 
+63. Except for the purpose of electing the Speaker, no Member shall sit or vote in Parliament until he has taken and subscribed the following oath, or made and subscribed the following affirmation, before Parliament :–
+
+                  solemnly
+                  declare and affirm
+“I …… do ––––––––––––––––––––––––– that I will uphold
+                  swear
+and defend the Constitution of the Democratic Socialist Republic of Sri Lanka.”
+
 #### Speaker, Deputy Speaker and Deputy Chairman of Committees
 
-> 41 -	 Article 62(1) repealed and substituted by the Fourteenth Amendment to the Constitution Sec.3.
+64. (1) Parliament shall, at its first meeting after a General Election, elect three Members to be respectively the Speaker, the Deputy Speaker and Chairman of Committees (hereinafter referred to as the “Deputy Speaker”) and the Deputy Chairman of Committees thereof.
 
-> 42 -	 Article 62(2) repealed and substituted by the Nineteenth Amendment to the Constitution Sec.15
+(2) A member holding office as the Speaker or the Deputy Speaker or the Deputy Chairman of Committees shall, unless he earlier resigns his office by a writing under his hand addressed to the President or ceases to be a Member, vacate his office on the dissolution of Parliament.
 
+(3) Whenever the office of Speaker, Deputy Speaker or Deputy Chairman of Committees becomes vacant otherwise than as a result of a dissolution of Parliament, Parliament shall at its first meeting after the occurrence of the vacancy elect another Member to be the Speaker, the Deputy Speaker or the Deputy Chairman of Committees, as the case may be.
+
+41 - Article 62(1) repealed and substituted by the Fourteenth Amendment to the Constitution Sec.3.
+
+42 - Article 62(2) repealed and substituted by the Nineteenth Amendment to the Constitution Sec.15
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
@@ -1750,38 +2203,37 @@ and  defend  the  Constitution  of  the  Democratic  Socialist Republic of Sri L
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+(4) If Parliament, after having been dissolved, is summoned under paragraph (7) of Article 70, each of the Members mentioned in paragraph (2) of this Article shall, notwithstanding anything therein, resume and continue to hold his office while that Parliament is kept in session.
+
+(5) The Speaker, or in his absence the Deputy Speaker, or in their absence the Deputy Chairman of Committees, shall preside at sittings of Parliament. If none of them is present, a Member elected by Parliament for the sitting shall preside at the sitting of Parliament.
+
 #### Secretary-General of Parliament
 
-- If Parliament, after having been dissolved, is summoned under  paragraph  (7)  of  Article  70,  each  of  the  Members mentioned in paragraph (2) of this Article shall, notwithstanding anything therein, resume and continue to hold his office while that Parliament is kept in session.
+43[65. (1) There shall be a Secretary-General of Parliament who shall, subject to the approval of the Constitutional Council, be appointed by the President and who shall hold office during good behaviour. ]
 
-- The Speaker, or in his absence the Deputy Speaker, or in their absence the Deputy Chairman of Committees, shall preside at sittings of Parliament. If none of them is present, a Member elected by Parliament for the sitting shall preside at the sitting of Parliament.
+(2) The salary of the Secretary-General shall be determined by Parliament, shall be charged on the Consolidated Fund and shall not be diminished during his term of office.
 
-- 43 [ 65. (1) There shall be a Secretary-General of Parliament who shall, subject to the approval of the Constitutional Council, be appointed by the President and who shall hold office during good behaviour. ]
+(3) The members of the staff of the Secretary-General shall be appointed by him with the approval of the Speaker.
 
-- The salary of the Secretary-General shall be determined by Parliament, shall be charged on the Consolidated Fund and shall not be diminished during his term of office.
+(4) The salaries of the members of the staff of the Secretary-General shall be charged on the Consolidated Fund.
 
-- The members of the staff of the Secretary-General shall be appointed by him with the approval of the Speaker.
-
-- The salaries of the members of the staff of the SecretaryGeneral shall be charged on the Consolidated Fund.
-
-- The office of the Secretary-General shall become vacant  -
+(5) The office of the Secretary-General shall become vacant -
 
 (a) upon his death ;
 
 (b) on his resignation in writing addressed to the President ;
 
-(c) on  his attaining the age  of sixty years,  unless Parliament otherwise provides by law ;
+(c) on his attaining the age of sixty years, unless Parliament otherwise provides by law ;
 
-(d) on  his  removal  by  the  President  on  account  of  ill health or physical or mental infirmity ; or
+(d) on his removal by the President on account of ill health or physical or mental infirmity ; or
 
 (e) on his removal by the President upon an address of Parliament.
 
-- 44 [(6)  Whenever the Secretary-General is unable to discharge the functions of his office, the President may, subject to to the approval of the Constitutional Council, appoint a person to act in the place of the Secretary-General. ]
+44[(6) Whenever the Secretary-General is unable to discharge the functions of his office, the President may, subject to to the approval of the Constitutional Council, appoint a person to act in the place of the Secretary-General. ]
 
-> 43 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.16 (1)
+43 - Substituted by the Nineteenth Amendment to the Constitution Sec.16 (1)
 
-> 44 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.16 (2)
-
+44 - Substituted by the Nineteenth Amendment to the Constitution Sec.16 (2)
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
@@ -1790,19 +2242,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 53
 
-66. The seat of a Member shall become vacant -
+#### vacation of seats
+
+66. The seat of a Member shall become vacant –
 
 (a) upon his death ;
 
-(b) If,  by  a  writing  under  his  hand  addressed  to  the Secretary-General of Parliament, he resigns his seat ;
+(b) If, by a writing under his hand addressed to the Secretary-General of Parliament, he resigns his seat ;
 
 (c) upon his assuming the office of President consequent to his election to such office, either by the People or by Parliament ;
 
 (d) if he becomes subject to any disqualification specified in Article 89 or 91 ;
 
-(e) if he becomes a member of the Public Service or an employee of a public corporation or, being a member of  the  Public  Service  or  an  employee  of  a  public corporation, does not cease to be a member of such Service or an employee of such corporation, before he sits in Parliament ;
+(e) if he becomes a member of the Public Service or an employee of a public corporation or, being a member of the Public Service or an employee of a public corporation, does not cease to be a member of such Service or an employee of such corporation, before he sits in Parliament ;
 
-(f) if,  without  the  leave  of  Parliament  first  obtained, he  absents  himself  from  the  sittings  of  Parliament during a continuous period of three months ;
+(f) if, without the leave of Parliament first obtained, he absents himself from the sittings of Parliament during a continuous period of three months ;
 
 (g) if his election as a Member is declared void under the law in force for the time being ;
 
@@ -1810,20 +2264,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (i) upon a resolution for his expulsion being passed in terms of Article 81.
 
-- The privileges, immunities and powers of Parliament and of its Members may be determined and regulated by Parliament by  law  and  until  so  determined  and  regulated,  the  provisions of  the  Parliament  (Powers  and  Privileges) Act,  shall, mutatis mutandis , apply.
-
-(1) Ministers, Deputy Ministers and Members, including the Speaker, the Deputy Speaker and the Deputy Chairman of committees,  shall  be  paid  such  remuneration  or  allowance  as may be provided by Parliament, by law or by resolution, and the receipt thereof shall not disqualify the recipient from sitting or voting in Parliament.
-
-- Until Parliament so provides, the remuneration payable to  Ministers,  Deputy  Ministers  and  Members,  including  the Speaker,  the  Deputy  Speaker  and  the  Deputy  Chairman  of
-
-#### vacation of seats
-
 #### Privileges, immunities and powers of Parliament and Members
 
-#### Allowances of Members
-#### Powers of Parliament to act notwithstanding vacancies
-Committees,  shall  be  the  same  as  the  remuneration  paid  to Ministers, Deputy Ministers and Members including the Speaker,  the  Deputy  Speaker  and  the  Deputy  Chairman  of Committees of the National State Assembly immediately prior to the commencement of the Constitution.
+67. The privileges, immunities and powers of Parliament and of its Members may be determined and regulated by Parliament by law and until so determined and regulated, the provisions of the Parliament (Powers and Privileges) Act, shall, mutatis mutandis, apply.
 
+#### Allowances of Members
+
+68. (1) Ministers, Deputy Ministers and Members, including the Speaker, the Deputy Speaker and the Deputy Chairman of committees, shall be paid such remuneration or allowance as may be provided by Parliament, by law or by resolution, and the receipt thereof shall not disqualify the recipient from sitting or voting in Parliament.
+
+(2) Until Parliament so provides, the remuneration payable to Ministers, Deputy Ministers and Members, including the Speaker, the Deputy Speaker and the Deputy Chairman of
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
@@ -1832,8 +2281,11 @@ Committees,  shall  be  the  same  as  the  remuneration  paid  to Ministers, De
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- Parliament shall have power to act notwithstanding any vacancy in  its  membership  and  its  proceedings  shall  be  valid notwithstanding that it is discovered subsequently that a person who was not entitled so to do sat or voted or otherwise took part in the proceedings.
+Committees, shall be the same as the remuneration paid to Ministers, Deputy Ministers and Members including the Speaker, the Deputy Speaker and the Deputy Chairman of Committees of the National State Assembly immediately prior to the commencement of the Constitution.
 
+#### Powers of Parliament to act notwithstanding vacancies
+
+69. Parliament shall have power to act notwithstanding any vacancy in its membership and its proceedings shall be valid notwithstanding that it is discovered subsequently that a person who was not entitled so to do sat or voted or otherwise took part in the proceedings.
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
@@ -1848,33 +2300,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### Procedure and Powers
 
-70. 45 [  (1)  The  President  may  by  Proclamation,  summon, prorogue and dissolve Parliament:
+#### Sessions of Parliament
 
-Provided  that  the  President  shall  not  dissolve  Parliament until the expiration of a period of not less than four years and six months from the date appointed for its first meeting, unless Parliament requests the President to do so by a resolution passed by not less than two-thirds of the whole number of Members (including those not present), voting in its favour .]
+70. 45[ (1) The President may by Proclamation, summon, prorogue and dissolve Parliament:
+
+Provided that the President shall not dissolve Parliament until the expiration of a period of not less than four years and six months from the date appointed for its first meeting, unless Parliament requests the President to do so by a resolution passed by not less than two-thirds of the whole number of Members (including those not present), voting in its favour .]
 
 (2) Parliament shall be summoned to meet once at least in every year.
 
 (3) A Proclamation proroguing Parliament shall fix a date for the next session, not being more than two months after the date of the Proclamation :
 
-Provided that at any time while Parliament stands prorogued the President may by Proclamation -
+Provided that at any time while Parliament stands prorogued the President may by Proclamation –
 
 (i) summon Parliament for an earlier date, not being less than three days from the date of such Proclamation, or
 
-(ii) subject  to  the  provisions  of  this  Article,  dissolve Parliament.
+(ii) subject to the provisions of this Article, dissolve Parliament.
 
-(4)  All  matters  which,  having  been  duly  brought  before Parliament,  have  not  been  disposed  of  at  the  time  of  the prorogation of Parliament, may be proceeded with during the next session.
+(4) All matters which, having been duly brought before Parliament, have not been disposed of at the time of the prorogation of Parliament, may be proceeded with during the next session.
 
-(5) (a) A Proclamation dissolving Parliament shall fix a date or  dates  for  the  election  of  Members  of  Parliament,  and  shall summon the new Parliament to meet on a date not later than three months after the date of such Proclamation.
+(5) (a) A Proclamation dissolving Parliament shall fix a date or dates for the election of Members of Parliament, and shall summon the new Parliament to meet on a date not later than three months after the date of such Proclamation.
 
-(b)  Upon  the  dissolution  of  Parliament  by  virtue  of  the provisions  of  paragraph  (2)  of Article  62,  the  President  shall forthwith by Proclamation fix a date or dates for the election of
-#### Sessions of Parliament
-#### Adjournment
-#### Voting
-#### Quorum
-Members of Parliament, and shall summon the new Parliament to meet on a date not later than three months after the date of such Proclamation.
+(b) Upon the dissolution of Parliament by virtue of the provisions of paragraph (2) of Article 62, the President shall forthwith by Proclamation fix a date or dates for the election of
 
-45 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.17
-
+45 - Substituted by the Nineteenth Amendment to the Constitution Sec.17
 [[END OF PAGE 73]]
 
 [[START OF PAGE 74]]
@@ -1883,20 +2331,27 @@ Members of Parliament, and shall summon the new Parliament to meet on a date not
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+Members of Parliament, and shall summon the new Parliament to meet on a date not later than three months after the date of such Proclamation.
+
 (c) The date fixed for the first meeting of Parliament by a Proclamation under sub-paragraph (a) or sub-paragraph (b) may be varied by a subsequent Proclamation, provided that the date so fixed by the subsequent Proclamation shall be a date not later than three months after the date of the original Proclamation.
 
-- Where the poll for the election of the President is to be taken on a date which falls between the date of dissolution of Parliament and the date before which Parliament is required by paragraph (5) of this Article to be summoned to meet, Parliament shall, notwithstanding anything in that paragraph, be summoned to  meet on a date not later than four months after the date of dissolution of Parliament.
+(6) Where the poll for the election of the President is to be taken on a date which falls between the date of dissolution of Parliament and the date before which Parliament is required by paragraph (5) of this Article to be summoned to meet, Parliament shall, notwithstanding anything in that paragraph, be summoned to meet on a date not later than four months after the date of dissolution of Parliament.
 
-- If  at  any  time  after  the  dissolution  of  Parliament,  the President  is  satisfied  that  an  emergency  has  arisen  of  such  a nature  that  an  earlier  meeting  of  Parliament  is  necessary,  he may by Proclamation summon the Parliament which has been dissolved to meet on a date not less than three days from the date of such Proclamation and such Parliament shall stand dissolved upon the termination of the emergency or the conclusion of the General Election, whichever is earlier.
+(7) If at any time after the dissolution of Parliament, the President is satisfied that an emergency has arisen of such a nature that an earlier meeting of Parliament is necessary, he may by Proclamation summon the Parliament which has been dissolved to meet on a date not less than three days from the date of such Proclamation and such Parliament shall stand dissolved upon the termination of the emergency or the conclusion of the General Election, whichever is earlier.
 
-- Parliament  may  adjourn  from  time  to  time  as  it  may determine by resolution or Standing Order, until it is prorogued or dissolved.
+#### Adjournment
 
-(1) Save as otherwise provided in the Constitution any question proposed for decision by Parliament shall be decided by the majority of votes of the Members present and voting.
+71. Parliament may adjourn from time to time as it may determine by resolution or Standing Order, until it is prorogued or dissolved.
 
-- The  person  presiding  shall  not  vote  in  the  first instance but shall have and exercise a casting vote in the event of an equality of votes.
+#### Voting
 
-- If  at  any  time  during  a  meeting  of  Parliament  the attention of the person presiding is drawn to the fact that there are  fewer  than  twenty  Members  present,  the  person  presiding shall, subject to any Standing Order, adjourn the sitting without question put.
+72. (1) Save as otherwise provided in the Constitution any question proposed for decision by Parliament shall be decided by the majority of votes of the Members present and voting.
 
+(2) The person presiding shall not vote in the first instance but shall have and exercise a casting vote in the event of an equality of votes.
+
+#### Quorum
+
+73. If at any time during a meeting of Parliament the attention of the person presiding is drawn to the fact that there are fewer than twenty Members present, the person presiding shall, subject to any Standing Order, adjourn the sitting without question put.
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
@@ -1905,39 +2360,35 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 57
 
-(1)  Subject  to  the  provisions  of  the  Constitution, Parliament may by resolution or Standing Order provide for -
+#### Standing Orders
+
+74. (1) Subject to the provisions of the Constitution, Parliament may by resolution or Standing Order provide for –
 
 (i) the election and retirement of the Speaker, the Deputy Speaker and the Deputy Chairman of Committees, and
 
-(ii) the  regulation  of  its  business,  the  preservation  of order at its sittings and any other matter for which provision is required or authorized to be so made by the Constitution.
+(ii) the regulation of its business, the preservation of order at its sittings and any other matter for which provision is required or authorized to be so made by the Constitution.
 
-- Until  Parliament  otherwise  provides  by  law  or  by resolution, the Standing Order of the National State Assembly, operative  immediately  prior  to  the  commencement  of  the Constitution, shall, mutatis mutandis , be the Standing Orders of Parliament.
+(2) Until Parliament otherwise provides by law or by resolution, the Standing Order of the National State Assembly, operative immediately prior to the commencement of the Constitution, shall, mutatis mutandis, be the Standing Orders of Parliament.
 
-- Parliament  shall  have  power  to  make  laws,  including laws having retrospective effect and repealing or amending any provision  of  the  Constitution,  or  adding  any  provision  to  the Constitution :
+#### Legislative power
 
-Provided that Parliament shall not make any law -
+75. Parliament shall have power to make laws, including laws having retrospective effect and repealing or amending any provision of the Constitution, or adding any provision to the Constitution :
+
+Provided that Parliament shall not make any law –
 
 (a) suspending the operation of the Constitution or any part thereof, or
 
 (b) repealing the Constitution as a whole unless such law also enacts a new Constitution to replace it.
 
-(1)  Parliament  shall  not  abdicate  or  in  any  manner alienate its legislative power and shall not set up any authority with any legislative power.
+#### Delegation of legislative power
 
-- It  shall  not  be  a  contravention  of  the  provisions  of paragraph (1) of this Article for Parliament to make, in any law relating to public security, provision empowering the President to make emergency regulations in accordance with such law.
+76. (1) Parliament shall not abdicate or in any manner alienate its legislative power and shall not set up any authority with any legislative power.
 
-- It  shall  not  be  a  contravention  of  the  provisions  of paragraph  (1)  of  this Article  for  Parliament  to  make  any  law containing  any  provision  empowering  any  person  or  body  to make subordinate legislation for prescribed purposes, including the power -
+(2) It shall not be a contravention of the provisions of paragraph (1) of this Article for Parliament to make, in any law relating to public security, provision empowering the President to make emergency regulations in accordance with such law.
+
+(3) It shall not be a contravention of the provisions of paragraph (1) of this Article for Parliament to make any law containing any provision empowering any person or body to make subordinate legislation for prescribed purposes, including the power –
 
 (a) to appoint a date on which any law or any part thereof shall come into effect or cease to have effect ;
-
-#### Standing Orders
-
-#### Legislative power
-
-#### Delegation of legislative power
-#### Duties of AttorneyGeneral in regard to published Bills
-#### Publication of Bills and passing of Bills and resolutions
-#### Certificate of Speaker
-
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
@@ -1950,23 +2401,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (c) to create a legal person, by an order or an Act.
 
-in  sub-paragraphs  (a)  and  (b)  of  this  paragraph,  'law' includes existing law.
+in sub-paragraphs (a) and (b) of this paragraph, “law” includes existing law.
 
-- Any  existing  law  containing  any  such  provision  as aforesaid shall be valid and operative.
+(4) Any existing law containing any such provision as aforesaid shall be valid and operative.
 
-(1)  It  shall  be  the  duty  of  the  Attorney-General  to examine every Bill for any contravention of the requirements of  paragraphs (1) and (2) of Article 82 and for any provision which cannot be validly passed except by the special majority prescribed by the Constitution ; and the Attorney-General or any officer assisting the Attorney-General in the performance of his duties under this Article shall be afforded all facilities necessary for the performance of such duties.
+#### Duties of Attorney-General in regard to published Bills
 
-- If  the  Attorney-General  is  of  the  opinion  that  a  Bill contravenes any of the requirements of paragraphs (1) and (2) of Article 82 or that any provision in a Bill cannot be validly passed except by the special majority prescribed by the Constitution, he shall communicate such opinion to the President :
+77. (1) It shall be the duty of the Attorney-General to examine every Bill for any contravention of the requirements of paragraphs (1) and (2) of Article 82 and for any provision which cannot be validly passed except by the special majority prescribed by the Constitution ; and the Attorney-General or any officer assisting the Attorney-General in the performance of his duties under this Article shall be afforded all facilities necessary for the performance of such duties.
+
+(2) If the Attorney-General is of the opinion that a Bill contravenes any of the requirements of paragraphs (1) and (2) of Article 82 or that any provision in a Bill cannot be validly passed except by the special majority prescribed by the Constitution, he shall communicate such opinion to the President :
 
 Provided that in the case of an amendment proposed to a Bill in Parliament, the Attorney-General shall communicate his opinion to the Speaker at the stage when the Bill is ready to be put to Parliament for its acceptance.
 
-- 46 [  (1)  Every Bill shall be published in the Gazette at least  fourteen  days  before  it  is  placed  on  the  Order  Paper  of Parliament. ]
+#### Publication of Bills and passing of Bills and resolutions
 
-- The passing of a Bill or a resolution by Parliament shall be in accordance with the Constitution and the Standing Orders of Parliament. Any one or more of the Standing Orders may be suspended by Parliament in the circumstance and in the manner prescribed by the Standing Orders.
+78. 46[ (1) Every Bill shall be published in the Gazette at least fourteen days before it is placed on the Order Paper of Parliament. ]
 
-- The  Speaker  shall  endorse  on  every  Bill  passed  by Parliament a certificate in the following form :-
+(2) The passing of a Bill or a resolution by Parliament shall be in accordance with the Constitution and the Standing Orders of Parliament. Any one or more of the Standing Orders may be suspended by Parliament in the circumstance and in the manner prescribed by the Standing Orders.
 
-'This Bill (here state the short title of the Bill) has been duly passed by Parliament.'
+#### Certificate of Speaker
+
+79. The Speaker shall endorse on every Bill passed by Parliament a certificate in the following form :–
+
+“This Bill (here state the short title of the Bill) has been duly passed by Parliament.”
 
 46 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.18
 
@@ -1984,20 +2441,19 @@ Provided that where by virtue of the provisions of Article 82 or Article 83 or A
 
 Provided further that where by virtue of Article 83, the Bill or any provision thereof requires the approval of the People at a  Referendum, such certificate shall further state that the Bill or such provision shall not become law until approved by the People at a Referendum.
 
-(1)  Subject  to  the  provisions  of  paragraph  (2)  of  this Article, a Bill passed by Parliament shall become law when the certificate of the Speaker is endorsed thereon.
+#### When Bill becomes law
 
-- Where the Cabinet of Ministers has certified that any Bill or any provision thereof is intended to be submitted for approval by  the  People  at  a  Referendum  or  where  the  Supreme  Court has determined that a Bill or any provision thereof required the approval of  the  People  at  a  Referendum  or  where  any  Bill  is submitted to the People by Referendum under paragraph (2) of Article 85, such Bill or such provision shall become law upon being approved by the People at a Referendum in accordance with paragraph (3) of Article 85 only when the President certifies that  the  Bill  or  provision  thereof  has  been  so  approved.  The President shall endorse on every Bill so approved a certificate in the following form:
+80. (1) Subject to the provisions of paragraph (2) of this Article, a Bill passed by Parliament shall become law when the certificate of the Speaker is endorsed thereon.
 
-'This  Bill/provision  has  been 47 [  duly  approved  by  the People at a Referendum.'
+(2) Where the Cabinet of Ministers has certified that any Bill or any provision thereof is intended to be submitted for approval by the People at a Referendum or where the Supreme Court has determined that a Bill or any provision thereof required the approval of the People at a Referendum or where any Bill is submitted to the People by Referendum under paragraph (2) of Article 85, such Bill or such provision shall become law upon being approved by the People at a Referendum in accordance with paragraph (3) of Article 85 only when the President certifies that the Bill or provision thereof has been so approved. The President shall endorse on every Bill so approved a certificate in the following form:
 
-No such certificate shall be endorsed by the President on a Bill -
+“This Bill/provision has been 47[ duly approved by the People at a Referendum.”
+
+No such certificate shall be endorsed by the President on a Bill –
 
 (a) in any case where no petition is filed challenging the validity of the Referendum at which such Bill was approved  by  the  People,  until  after  the  expiration of the period within which a petition may be filed, under the law applicable in that behalf, challenging the validity of such referendum ;
 
-> 47 -	 Substituted by the Fourteenth Amendment to the Constitution Sec.4 for "duly approved by the People at a Referendum".
-
-#### When Bill becomes law
-#### Expulsion of Members and imposition of civic disability
+> 47 - Substituted by the Fourteenth Amendment to the Constitution Sec.4 for "duly approved by the People at a Referendum".
 
 [[END OF PAGE 77]]
 
@@ -2011,17 +2467,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Every such certificate shall be final and conclusive and shall not be called in question in any court.
 
-- Where  a  Bill  becomes  law  upon  the  certificate  of  the President  or  the  Speaker,  as  the  case  may  be  being  endorsed thereon, no court or tribunal shall inquire into, pronounce upon or in any manner call in question, the validity of such Act on any ground whatsoever.
+(3) Where a Bill becomes law upon the certificate of the President or the Speaker, as the case may be being endorsed thereon, no court or tribunal shall inquire into, pronounce upon or in any manner call in question, the validity of such Act on any ground whatsoever.
 
-(1) Where a Special Presidential Commission of Inquiry established  under  the  Special  Presidential  Commissions  of Inquiry Law, No. 07 of 1978 and consisting of a member each of  whom  is  a  Judge  of  the  Supreme  Court,  Court  of Appeal, High Court or the District Court recommends that any person should  be  made  subject  to  civic  disability  by  reason  of  any act done or omitted to be done by such person before or after the  commencement  of  the  Constitution,  Parliament  may  by resolution pass by not less than two-thirds of the whole number of Members (including those not present) voting in its favour -
+#### Expulsion of Members and imposition of civic disability
+
+81. (1) Where a Special Presidential Commission of Inquiry established under the Special Presidential Commissions of Inquiry Law, No. 07 of 1978 and consisting of a member each of whom is a Judge of the Supreme Court, Court of Appeal, High Court or the District Court recommends that any person should be made subject to civic disability by reason of any act done or omitted to be done by such person before or after the commencement of the Constitution, Parliament may by resolution pass by not less than two-thirds of the whole number of Members (including those not present) voting in its favour –
 
 (a) impose civic disability on such person for a period not exceeding seven years, and
 
 (b) expel such person from Parliament, if he is a Member of Parliament.
 
-Where  a Special Presidential Commission  of Inquiry consists  of  more  than  one  member,  a  recommendation  made by the majority of such members, in case of any difference of opinion, shall be, and shall be deemed for all purposes to be, the recommendation of such Commission of Inquiry.
+Where a Special Presidential Commission of Inquiry consists of more than one member, a recommendation made by the majority of such members, in case of any difference of opinion, shall be, and shall be deemed for all purposes to be, the recommendation of such Commission of Inquiry.
 
-- No such resolution shall be entertained by the Speaker or placed on the Order Paper of Parliament unless introduced by the Prime Minister with the approval of the Cabinet of Ministers.
+(2) No such resolution shall be entertained by the Speaker or placed on the Order Paper of Parliament unless introduced by the Prime Minister with the approval of the Cabinet of Ministers.
 
 [[END OF PAGE 78]]
 
@@ -2031,13 +2489,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 61
 
-(3)  The  Speaker  shall  endorse  on  every  resolution  passed in  accordance  with  the  preceding  provisions  of  this Article  a certificate in the following form :-
+(3) The Speaker shall endorse on every resolution passed in accordance with the preceding provisions of this Article a certificate in the following form :–
 
-'This  resolution  has  been  duly  passed  by  Parliament in  accordance  with  the  provisions  of  Article  81  of  the Constitution.'
+“This resolution has been duly passed by Parliament in accordance with the provisions of Article 81 of the Constitution.”
 
 Every such Certificate shall be conclusive for all purposes and  shall  not  be  questioned  in  any  court,  and  no  court  or tribunal shall inquire into, or pronounce upon or in any manner call in question, the validity of such resolution on any ground whatsoever.
 
-(4) In this Article, 'District Court' means a District Court created and established by existing law and includes a Court that may be created by Parliament to exercise and perform powers and  functions  corresponding  or  substantially  similar  to  the powers and functions exercised and performed by the District Court.
+(4) In this Article, “District Court” means a District Court created and established by existing law and includes a Court that may be created by Parliament to exercise and perform powers and functions corresponding or substantially similar to the powers and functions exercised and performed by the District Court.
 
 [[END OF PAGE 79]]
 
@@ -2047,27 +2505,27 @@ Every such Certificate shall be conclusive for all purposes and  shall  not  be 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Amendment or repeal of the Constitution must be expressed
-
 ## CHAPTER XII
 
 ### THE LEGISLATURE
 
 ### AMENDMENT OF THE CONSTITUTION
 
-(1) No Bill for the amendment of any provision of the Constitution shall be placed on the Order Paper of Parliament, unless  the  provision  to  be  repealed,  altered  or  added,  and consequential amendments, if any, are expressly specified in the Bill and is described in the long title thereof as being an Act for the amendment of the Constitution.
+#### Amendment or repeal of the Constitution must be expressed
 
-- No Bill for the repeal of the Constitution shall be placed on  the  Order  Paper  of  Parliament  unless  the  Bill  contains provisions  replacing  the  Constitution  and  is  described  in  the long title thereof as being an Act for the repeal and replacement of the Constitution.
+82. (1) No Bill for the amendment of any provision of the Constitution shall be placed on the Order Paper of Parliament, unless the provision to be repealed, altered or added, and consequential amendments, if any, are expressly specified in the Bill and is described in the long title thereof as being an Act for the amendment of the Constitution.
 
-- If in the opinion of the Speaker, a Bill does not comply with the requirements of paragraph (1) or paragraph (2) of this Article,  he  shall  direct  that  such  Bill  be  not  proceeded  with unless it is amended so as to comply with those requirements.
+(2) No Bill for the repeal of the Constitution shall be placed on the Order Paper of Parliament unless the Bill contains provisions replacing the Constitution and is described in the long title thereof as being an Act for the repeal and replacement of the Constitution.
 
-- Notwithstanding anything in the preceding provisions of this Article, it shall be lawful for a Bill which complies with the requirements of paragraph (1) or paragraph (2) of this Article to be amended by Parliament provided that the Bill as so amended shall comply with those requirements.
+(3) If in the opinion of the Speaker, a Bill does not comply with the requirements of paragraph (1) or paragraph (2) of this Article, he shall direct that such Bill be not proceeded with unless it is amended so as to comply with those requirements.
 
-- A  Bill  for  the  amendment  of  any  provision  of  the Constitution or for the repeal and replacement of the Constitution, shall become law if the number of votes cast in favour thereof amounts  to  not  less  than  two-thirds  of  the  whole  number  of Members (including those not present) and upon a certificate by the President or the Speaker, as the case may be, being endorsed thereon in accordance with the provisions of Article 80 or 79.
+(4) Notwithstanding anything in the preceding provisions of this Article, it shall be lawful for a Bill which complies with the requirements of paragraph (1) or paragraph (2) of this Article to be amended by Parliament provided that the Bill as so amended shall comply with those requirements.
 
-- No provision in any law shall, or shall be deemed to, amend,  repeal  or  replace  the  Constitution  or  any  provision thereof,  or  be  so  interpreted  or  construed,  unless  enacted  in accordance with the requirements of the preceding provisions of this Article.
+(5) A Bill for the amendment of any provision of the Constitution or for the repeal and replacement of the Constitution, shall become law if the number of votes cast in favour thereof amounts to not less than two-thirds of the whole number of Members (including those not present) and upon a certificate by the President or the Speaker, as the case may be, being endorsed thereon in accordance with the provisions of Article 80 or 79.
 
-- In this Chapter, 'amendment' includes repeal, alteration and addition.
+(6) No provision in any law shall, or shall be deemed to, amend, repeal or replace the Constitution or any provision thereof, or be so interpreted or construed, unless enacted in accordance with the requirements of the preceding provisions of this Article.
+
+(7) In this Chapter, “amendment” includes repeal, alteration and addition.
 
 [[END OF PAGE 80]]
 
@@ -2077,25 +2535,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 63
 
-- Notwithstanding anything to the contrary in the provisions of Article 82 -
-
-(a) a  Bill  for  the  amendment  or  for  the  repeal  and replacement of or which is inconsistent with any of the provisions of Articles 1, 2, 3, 6, 7, 8, 9, 10 and 11 or of this Article ; and
-
-(b) a  Bill  for  the  amendment  or  for  the  repeal  and replacement  of  or  which  is  inconsistent  with  the provisions  of  paragraph  (2)  of  Article  30  or  of, paragraph (2) of Article 62 which would extend the term  of  office  of  the  President,  or  the  duration  of Parliament, as the case may be, to over six years,
-
-shall  become  law  if  the  number  of  votes  cast  in  favour thereof amounts to not less than two-thirds of the whole number of  Members (including those not present), is approved by the People at a Referendum and a certificate is endorsed thereon by the President in accordance with Article 80.
-
-(1)  A  Bill  which  is  not  for  the  amendment  of  any provision of the Constitution or for the repeal and replacement of the Constitution, but which is inconsistent with any provision of the Constitution may be placed on the Order paper of Parliament without  complying  with  the  requirements  of  paragraph  (1)  or paragraph (2) of Article 82.
-
-- Where the Cabinet of Ministers has certified that a Bill is intended to be passed by the special majority required by this Article or where the Supreme Court has determined that a Bill requires to be passed by such special majority, such Bill shall become law only if the number of votes cast in favour thereof amounts  to  not  less  than  two-thirds  of  the  whole  number  of Members (including those not present) and a certificate by the President or the Speaker, as the case may be, is endorsed thereon in accordance with the provisions of Article 80 or 79.
-
-(3) Such a Bill when enacted into law shall not, and shall not be deemed to, amend, repeal or replace the Constitution or any provision thereof, and shall not be so interpreted or construed, and may thereafter be repealed by a majority of the votes of the Members present and voting.
-
 #### Approval of certain Bills at a Referendum
 
+83. Notwithstanding anything to the contrary in the provisions of Article 82 –
+
+(a) a Bill for the amendment or for the repeal and replacement of or which is inconsistent with any of the provisions of Articles 1, 2, 3, 6, 7, 8, 9, 10 and 11 or of this Article ; and
+
+(b) a Bill for the amendment or for the repeal and replacement of or which is inconsistent with the provisions of paragraph (2) of Article 30 or of, paragraph (2) of Article 62 which would extend the term of office of the President, or the duration of Parliament, as the case may be, to over six years,
+
+shall become law if the number of votes cast in favour thereof amounts to not less than two-thirds of the whole number of Members (including those not present), is approved by the People at a Referendum and a certificate is endorsed thereon by the President in accordance with Article 80.
+
 #### Bills inconsistent with the Constitution
-#### Submission of Bills to People by Referendum
-#### Submission of matters with national importance to People by Referendum.
+
+84. (1) A Bill which is not for the amendment of any provision of the Constitution or for the repeal and replacement of the Constitution, but which is inconsistent with any provision of the Constitution may be placed on the Order paper of Parliament without complying with the requirements of paragraph (1) or paragraph (2) of Article 82.
+
+(2) Where the Cabinet of Ministers has certified that a Bill is intended to be passed by the special majority required by this Article or where the Supreme Court has determined that a Bill requires to be passed by such special majority, such Bill shall become law only if the number of votes cast in favour thereof amounts to not less than two-thirds of the whole number of Members (including those not present) and a certificate by the President or the Speaker, as the case may be, is endorsed thereon in accordance with the provisions of Article 80 or 79.
+
+(3) Such a Bill when enacted into law shall not, and shall not be deemed to, amend, repeal or replace the Constitution or any provision thereof, and shall not be so interpreted or construed, and may thereafter be repealed by a majority of the votes of the Members present and voting.
 
 [[END OF PAGE 81]]
 
@@ -2105,25 +2561,29 @@ shall  become  law  if  the  number  of  votes  cast  in  favour thereof amounts
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Parliament to provide for procedure.
-
 ## CHAPTER XIII
 
 ### THE REFERENDUM
 
-(1)  The  President  shall submit  to  the  People  by Referendum  every  Bill  or  any  provision  in  any  Bill  which the Cabinet of Ministers has certified as being intended to be submitted to the People by Referendum, or which the Supreme Court has determined as requiring the approval of the People at a Referendum if the number of votes cast in favour of such Bill amounts to not less than two-thirds of the whole number of Members (including those not present).
+#### Submission of Bills to People by Referendum
 
-- 48 [ (2) Repealed ].
+85. (1) The President shall submit to the People by Referendum every Bill or any provision in any Bill which the Cabinet of Ministers has certified as being intended to be submitted to the People by Referendum, or which the Supreme Court has determined as requiring the approval of the People at a Referendum if the number of votes cast in favour of such Bill amounts to not less than two-thirds of the whole number of Members (including those not present).
 
-- Any Bill or any provision in any Bill submitted to the People by Referendum shall be deemed to be approved by the People if approved by an absolute majority of the valid votes cast at such Referendum :
+48[ (2) Repealed ].
+
+(3) Any Bill or any provision in any Bill submitted to the People by Referendum shall be deemed to be approved by the People if approved by an absolute majority of the valid votes cast at such Referendum :
 
 Provided that when the total number of valid votes cast does not exceed two-thirds of the whole number of electors entered in the register of electors, such Bill shall be deemed to be approved only if approved by not less than one-third of the whole number of such electors.
 
-- The President may, subject to the provisions of Article 85, submit to the People by Referendum any matter which in the opinion of the President is of national importance.
+#### Submission of matters with national importance to People by Referendum.
 
-(1)  Every  Referendum  shall  be  conducted  by  the Commissioner of Elections who shall communicate the result thereof to the President.
+86. The President may, subject to the provisions of Article 85, submit to the People by Referendum any matter which in the opinion of the President is of national importance.
 
-- Parliament shall by law provide for all matters relating to the procedure for the submission of Bills and of matters of national importance to the People by Referenda, the register of electors  to  be  used  at  a  Referendum,  the  creation  of  offences relating  thereto  and  the  punishment  therefor  and,  all  other matters necessary or incidental thereto.
+#### Parliament to provide for procedure.
+
+87. (1) Every Referendum shall be conducted by the Commissioner of Elections who shall communicate the result thereof to the President.
+
+(2) Parliament shall by law provide for all matters relating to the procedure for the submission of Bills and of matters of national importance to the People by Referenda, the register of electors to be used at a Referendum, the creation of offences relating thereto and the punishment therefor and, all other matters necessary or incidental thereto.
 
 48 -	 Article 85(2) was repealed by the Nineteenth Amendment to the Constitution Sec.19
 
@@ -2139,11 +2599,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### THE FRANCHISE AND ELECTIONS
 
-- Every  person  shall,  unless  disqualified  as  hereinafter provided,  be  qualified  to  be  an  elector  at  the  election  of  the President and of the Members of Parliament or to vote at any Referendum:
+#### Right to be an elector
+
+88. Every person shall, unless disqualified as hereinafter provided, be qualified to be an elector at the election of the President and of the Members of Parliament or to vote at any Referendum:
 
 Provided that no such person shall be entitled to vote unless his name is entered in the appropriate register of electors.
 
-- No  person  shall  be  qualified  to  be  an  elector  at  an election of the President, or of the Members of Parliament or to vote at any Referendum, if he is subject to any of the following disqualifications, namely -
+#### Disqualification to be an elector
+
+89. No person shall be qualified to be an elector at an election of the President, or of the Members of Parliament or to vote at any Referendum, if he is subject to any of the following disqualifications, namely –
 
 (a) if he is not a citizen of Sri Lanka ;
 
@@ -2151,18 +2615,13 @@ Provided that no such person shall be entitled to vote unless his name is entere
 
 (c) if he is under any law in force in Sri Lanka found or declared to be of unsound mind ;
 
-(d) if  he  is  serving  or  has  during  the  period  of  seven years immediately preceding completed serving of a sentence of imprisonment (by whatever name called) for  a  term  not  less  than  six  months  imposed  after conviction  by  any  court  for  an  offence  punishable with  imprisonment  for  a  term  not  less  than  two years or is under sentence of death or is serving or has  during  the  period  of  seven  years  immediately preceding  completed  the  serving  of  a  sentence  of imprisonment  for  a  term  not  less  than  six  months awarded in lieu of execution of such sentence :
+(d) if he is serving or has during the period of seven years immediately preceding completed serving of a sentence of imprisonment (by whatever name called) for a term not less than six months imposed after conviction by any court for an offence punishable with imprisonment for a term not less than two years or is under sentence of death or is serving or has during the period of seven years immediately preceding completed the serving of a sentence of imprisonment for a term not less than six months awarded in lieu of execution of such sentence :
 
-Provided  that  if  any  person  disqualified  under this paragraph is granted a free pardon such disqualification shall cease from the date on which the pardon is granted ;
+Provided that if any person disqualified under this paragraph is granted a free pardon such disqualification shall cease from the date on which the pardon is granted ;
 
-(e) if a period of seven years has not elapsed since -
+(e) if a period of seven years has not elapsed since –
 
 (i) the last of the dates, if any, of his being convicted of any offence under section 52(1) or 53 of the Ceylon (Parliamentary Elections) Order in
-
-#### Right to be an elector
-
-#### Disqualification to be an elector
-Council, 1946, or of such offence under the law for  the  time  being  relating  to  Referenda  or  to the election of the President or of Members of Parliament as would correspond to an offence under either of the said two sections ;
 
 [[END OF PAGE 83]]
 
@@ -2172,7 +2631,9 @@ Council, 1946, or of such offence under the law for  the  time  being  relating 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-(ii) the  last of the  dates,  if  any,  of  his  being convicted of a corrupt practice under the Ceylon (Parliamentary Elections) Order in Council,  1946,  or  of  such  offence  under  the law for the time being relating to Referenda or to the election of the President or of Members of Parliament as would correspond to the said corrupt practice ;
+Council, 1946, or of such offence under the law for the time being relating to Referenda or to the election of the President or of Members of Parliament as would correspond to an offence under either of the said two sections ;
+
+(ii) the last of the dates, if any, of his being convicted of a corrupt practice under the Ceylon (Parliamentary Elections) Order in Council, 1946, or of such offence under the law for the time being relating to Referenda or to the election of the President or of Members of Parliament as would correspond to the said corrupt practice ;
 
 (iii) the last of the dates, if any, being a date after the  commencement  of  the  Constitution,  of a  report  made  by  a  Judge  finding  him  guilty of any corrupt practice under the Ceylon (Parliamentary  Elections)  Order  in  Council, 1946,  or  under  any  law  for  the  time  being relating  to  Referenda  or  to  the  election  of  the President or of Members of Parliament ;
 
@@ -2206,7 +2667,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (ii) the  date  of  his  being  convicted  of  an  offence of contempt against, or in disrespect of, the authority of any Special Presidential Commission  of  Inquiry  consisting of such member or members specified in Article 81 by reason of -
 
-- the  failure  of  such  person,  without  cause which in the opinion of such Commission is reasonable, to appear before such Commission at the time and place  mentioned in any summons which such Commission is empowered by law to issue, or
+(1) the failure of such person, without cause which in the opinion of such Commission is reasonable, to appear before such Commission at the time and place mentioned in any summons which such Commission is empowered by law to issue, or
 
 [[END OF PAGE 85]]
 
@@ -2216,29 +2677,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+(2) the refusal of such person to be sworn or affirmed, or the refusal or failure of such person, without cause which in the opinion of such Commission is reasonable, to answer any question put to such person touching the matters directed to be inquired into by such Commission, or
+
+(3) the refusal or failure of such person, without cause which in the opinion of such Commission is reasonable, to produce and show to such Commission any document or thing which is in the possession or power of such person and which in the opinion of such Commission is necessary for arriving at the truth of the matters to be inquired into by such Commission.
+
+(j) if the period of his disqualification imposed under 49[Article 116 or Article 111C, as the case may be] has not elapsed.
+
 #### Qualification for election as a Member of Parliament
+
+90. Every person who is qualified to be an elector shall be qualified to be elected as a Member of Parliament unless he is disqualified under the provisions of Article 91.
 
 #### Disqualification for election as a Member of Parliament
 
-- the  refusal  of  such  person  to  be  sworn or affirmed, or the refusal or failure of such person, without cause  which in  the  opinion  of  such  Commission  is reasonable, to answer any question put to such person touching the matters directed to be inquired into by such Commission, or
-
-- the  refusal  or  failure  of  such  person, without cause which in the opinion of such Commission is reasonable, to produce and show to such Commission any document or  thing  which  is  in  the  possession  or power  of  such  person  and  which  in  the opinion of such Commission is necessary for arriving at the truth of the matters to be inquired into by such Commission.
-
-(j) if  the  period  of  his  disqualification  imposed  under 49 [Article 116 or Article 111C, as the case may be] has not elapsed.
-
-- Every person who is qualified to be an elector shall be qualified to be elected as a Member of Parliament unless he is disqualified under the provisions of Article 91.
-
-(1)  No  person  shall  be  qualified  to  be  elected  as  a Member of Parliament or to sit and vote in Parliament -
+91. (1) No person shall be qualified to be elected as a Member of Parliament or to sit and vote in Parliament –
 
 (a) if he is or becomes subject to any of the disqualifications specified in Article 89 ;
 
-(b) if he -
+(b) if he –
 
-(i) stands  nominated  as  a  candidate  for  election for more than one electoral district at a General Election,
+(i) stands nominated as a candidate for election for more than one electoral district at a General Election,
 
-(ii) stands  nominated  as  a  candidate  for  election by more than one recognized political party or independent  group  in  respect  of  any  electoral district,
+(ii) stands nominated as a candidate for election by more than one recognized political party or independent group in respect of any electoral district,
 
-(iii) 	 stands nominated as a candidate for election for an electoral district and before the conclusion of
+(iii) stands nominated as a candidate for election for an electoral district and before the conclusion of
 
 49 -	 Substituted by the Seventeenth Amendment to the Constitution Sec.6 for "Article 116".
 
@@ -2266,9 +2727,9 @@ the election for that electoral district he stands nominated as a candidate for 
 
 (iv) 	 a member of the Public Service Commission,
 
-- 50 [(iva)  a  member  of  a  Provincial  Public  Service Commission, ]
+50[(iva) a member of a Provincial Public Service Commission, ]
 
-- 51 [(v) a member  of  the  Constitutional Council, referred  to  in  sub-paragraph(e)  of  paragraph (1)  of Article  41A  other  than  any  Member  of Parliament;
+51[(v) a member of the Constitutional Council, referred to in sub-paragraph(e) of paragraph (1) of Article 41A other than any Member of Parliament;
 
 (va) 	a member of any Commission  specified in  the Schedule to Article 41B;
 
@@ -2276,7 +2737,7 @@ the election for that electoral district he stands nominated as a candidate for 
 
 (vi) 	 the Auditor-General,
 
-- 52 [(vii) 53 [a  public  officer  or  a  member  of  the  Sri Lanka State Audit Service holding any office] created prior to November 18, 1970, the initial of the salary scale of which was, on November 18,  1970,  not  less  than  Rs.  6,720  per  annum, or  such  other  amount  per  annum  as  would, under any subsequent revision of salary scales, correspond to such initial,
+52[(vii) 53[a public officer or a member of the Sri Lanka State Audit Service holding any office] created prior to November 18, 1970, the initial of the salary scale of which was, on November 18, 1970, not less than Rs. 6,720 per annum, or such other amount per annum as would, under any subsequent revision of salary scales, correspond to such initial,
 
 > 50 -	 Inserted by the Seventeenth Amendment to the Constitution Sec.7(1)
 
@@ -2296,9 +2757,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (viii) 54 [a  public  officer  or  a  member  of  the  Sri Lanka State Audit Service holding any office] created after November 18, 1970, the initial of the salary scale of which is, on the date of the creation of that office, not less than the initial of  the  salary  scale  applicable,  on  that  date, to  an  office  referred  to  in  item  (vii)  or  such other amount per annum as would, under any subsequent revision of salary scales, correspond to the first-mentioned initial,]
 
-- 55 [(viiia)  an  officer  of  a  Provincial  Public  Service holding  any  office  created  after  February  01, 1988, the initial of the salary scale of which is, on the date of the creation of that office, not less than such amount as determined by resolution of Parliament, or such other amount per annum as  would,  under  any  subsequent  revision  of such salary scales, correspond to such initial,]
+55[(viiia) an officer of a Provincial Public Service holding any office created after February 01, 1988, the initial of the salary scale of which is, on the date of the creation of that office, not less than such amount as determined by resolution of Parliament, or such other amount per annum as would, under any subsequent revision of such salary scales, correspond to such initial,]
 
-- 56 [(ix)  an  officer  in  any  public  corporation  holding any office created prior to November 18, 1970, the initial of the salary scale of which was, on November  18,  1970,  not  less  than  Rs.  7,200 per annum or such other amount per annum as would, under any subsequent revision of salary scales, correspond to such initial,
+56[(ix) an officer in any public corporation holding any office created prior to November 18, 1970, the initial of the salary scale of which was, on November 18, 1970, not less than Rs. 7,200 per annum or such other amount per annum as would, under any subsequent revision of salary scales, correspond to such initial,
 
 (x) an  officer  in  any  public  corporation  holding any  office  created  after  November  18,  1970, the  initial  of  the  salary  scale  of  which  is,  on the date of creation of that office, not less than the initial of the salary scale applicable on that date to an office referred to in item (ix) or such other amount per annum as would, under any subsequent revision of salary scales, correspond to the first mentioned initial,
 
@@ -2320,37 +2781,37 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 71
 
-- 57 [(xiii) a citizen of Sri Lanka who is also a citizen of any other country;
+57[(xiii) a citizen of Sri Lanka who is also a citizen of any other country;
 
 (e) if he has any such interest in any such contract made by or on behalf of the State or a public corporation as Parliament shall by law prescribe ;
 
 (f) if he is an undischarged bankrupt or insolvent, having been declared bankrupt or insolvent;
 
-(g) if  during  the  preceding  seven  years  he  has  been adjudged  by  a  competent  court  or  by  a  Special Presidential Commission of Inquiry to have accepted a  bribe  or  gratification  offered  with  a  view  to influencing his judgment as a Member of Parliament or  as  a  member  of  the  legislature  prior  to  the commencement of the Constitution.
+(g) if during the preceding seven years he has been adjudged by a competent court or by a Special Presidential Commission of Inquiry to have accepted a bribe or gratification offered with a view to influencing his judgment as a Member of Parliament or as a member of the legislature prior to the commencement of the Constitution.
 
-- For the purposes of sub-paragraph (g) of paragraph (1) of this Article, the acceptance by a Member of Parliament of any allowance or other payment made to him by any trade union or other organization solely for the purpose of his maintenance shall be deemed not to be the acceptance of a bribe or gratification.
-
-- Every person who is qualified to be an elector shall be qualified  to  be  elected  to  the  office  of  President  unless  he  is subject to any of the following disqualifications -
-
-(a) if he has not attained the age of 58 [thirty five] years ;
-
-(b) if  he  is  not  qualified  to  be  elected  as  a  Member of Parliament under sub-paragraph (d), (e), (f) or (g) of paragraph (1) of Article 91 ; and
-
-- 59 [(c) if he has been twice elected to the office of President by the People. ]
-
-(d) if he has been removed from the office of President under the provisions of sub-paragraph (e) of paragraph (2) of Article 38.
-
-- The voting for the election of the President of the Republic and of the Members of Parliament and at any Referendum shall be free, equal and by secret ballot.
-
-> 57 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.20
-
-> 58 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.20 for "thirty"
-
-> 59 -	 Article  92(c)  repealed  by  the  Eighteenth Amendment  to  the  Constitution  Sec  15;  and  inserted  by  the Nineteenth Amendment to the Constitution Sec.20.
+(2) For the purposes of sub-paragraph (g) of paragraph (1) of this Article, the acceptance by a Member of Parliament of any allowance or other payment made to him by any trade union or other organization solely for the purpose of his maintenance shall be deemed not to be the acceptance of a bribe or gratification.
 
 #### Disqualification for election as President
 
+92. Every person who is qualified to be an elector shall be qualified to be elected to the office of President unless he is subject to any of the following disqualifications –
+
+(a) if he has not attained the age of 58[thirty five] years ;
+
+(b) if he is not qualified to be elected as a Member of Parliament under sub-paragraph (d), (e), (f) or (g) of paragraph (1) of Article 91 ; and
+
+59[(c) if he has been twice elected to the office of President by the People. ]
+
+(d) if he has been removed from the office of President under the provisions of sub-paragraph (e) of paragraph (2) of Article 38.
+
 #### Election to be free, equal and secret.
+
+93. The voting for the election of the President of the Republic and of the Members of Parliament and at any Referendum shall be free, equal and by secret ballot.
+
+> 57 - Substituted by the Nineteenth Amendment to the Constitution Sec.20
+
+> 58 - Substituted by the Nineteenth Amendment to the Constitution Sec.20 for "thirty"
+
+> 59 - Article 92(c) repealed by the Eighteenth Amendment to the Constitution Sec 15; and inserted by the Nineteenth Amendment to the Constitution Sec.20.
 
 [[END OF PAGE 89]]
 
@@ -2362,29 +2823,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### Election of the President
 
-(1) At  the  election  of  the  President  every  voter  while casting his vote for any candidate may -
+94. (1) At the election of the President every voter while casting his vote for any candidate may –
 
 (a) where there are three candidates for election, specify his second preference; and
 
-(b) where  there  are  more  than  three  candidates  for election, specify his second and third preferences.
+(b) where there are more than three candidates for election, specify his second and third preferences.
 
-- The candidate, if any, who receives more than one-half of the valid votes cast shall be declared elected as President.
+(2) The candidate, if any, who receives more than one-half of the valid votes cast shall be declared elected as President.
 
-- Where no candidate is declared elected under paragraph (2)  of  this Article,  the  candidate  or  candidates,  other  than  the candidates who received the highest and second highest number of such votes, shall be eliminated from the contest, and -
+(3) Where no candidate is declared elected under paragraph (2) of this Article, the candidate or candidates, other than the candidates who received the highest and second highest number of such votes, shall be eliminated from the contest, and –
 
-(a) the second preference of each voter whose vote had been  for  a  candidate  eliminated  from  the  contest, shall, if it is for one or the other of the remaining two candidates, be counted as a vote for such candidate and be added to the votes counted in his favour under paragraph (2) ; and
+(a) the second preference of each voter whose vote had been for a candidate eliminated from the contest, shall, if it is for one or the other of the remaining two candidates, be counted as a vote for such candidate and be added to the votes counted in his favour under paragraph (2) ; and
 
-(b) the third preference of each voter referred to in subparagraph (a) whose second preference is not counted under that sub paragraph shall, if it is for one or the other of the remaining two candidates, be counted as a vote for such candidate and be added to the votes counted  in  his  favour  under  sub-paragraph  (a)  and paragraph (2),
+(b) the third preference of each voter referred to in sub-paragraph (a) whose second preference is not counted under that sub paragraph shall, if it is for one or the other of the remaining two candidates, be counted as a vote for such candidate and be added to the votes counted in his favour under sub-paragraph (a) and paragraph (2),
 
 and the candidate who receives the majority of the votes so counted shall be declared elected as President.
 
-- Where an equality is found to exist between the votes received by two or more candidates and the addition of one vote would determine -
+(4) Where an equality is found to exist between the votes received by two or more candidates and the addition of one vote would determine –
 
 (a) which candidate is to be declared elected under this Article ; or
 
-(b) which candidate is  not  to  be  eliminated  under  this Article,
+(b) which candidate is not to be eliminated under this Article,
 
-then  the  determination  of  the  candidate  to  whom  such additional  vote  shall  be  deemed  to  have  been  given  for  the purpose of such determination shall be made by lot.
+then the determination of the candidate to whom such additional vote shall be deemed to have been given for the purpose of such determination shall be made by lot.
 
 [[END OF PAGE 90]]
 
@@ -2394,27 +2855,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 73
 
-95. (1)  Within  three  months  of  the  commencement of the Constitution the President shall for the delimitation of Electoral Districts, establish a Delimitation Commission consisting of three persons appointed by him who he is satisfied are not actively engaged in politics. The President shall appoint one of such persons to be the Chairman.
+#### Delimitation Commission
+
+95. (1) Within three months of the commencement of the Constitution the President shall for the delimitation of Electoral Districts, establish a Delimitation Commission consisting of three persons appointed by him who he is satisfied are not actively engaged in politics. The President shall appoint one of such persons to be the Chairman.
 
 (2) If any member of the Delimitation Commission shall die or resign or if the President is satisfied that any such member has become incapable of discharging his functions as such, the President shall, in accordance with the provisions of paragraph (1) of this Article, appoint another person in his place.
 
-96. (1) The Delimitation Commission shall divide Sri Lanka into  not  less  than  twenty  and  not  more  than 60 [twenty-five] Electoral Districts and shall assign names thereto.
-
-(2)  Each  Province  of  Sri  Lanka  may  itself  constitute  an electoral district or may be divided into two or more electoral districts.
-
-(3) Where a Province is divided into a number of electoral districts  the  Delimitation  Commission  shall  have  regard  to the existing administrative districts so as to ensure as far as is practicable that each electoral district shall be an administrative district or a combination of two or more  administrative districts or two or more electoral districts together constitute an administrative district.
-
-(4) The electoral districts of each Province shall together be entitled to return four members, (independently of the number of  members  which  they  are  entitled  to  return  by  reference  to the  number  of  electors  whose  names  appear  in  the  registers of  electors  of  such  electoral  districts)  and  the  Delimitation Commission shall apportion such entitlement equitably among such electoral districts.
-
-(5) In the event of a difference of opinion among the members of  the  Delimitation  Commission,  the  opinion  of  the  majority thereof shall prevail and shall be deemed to be the decision of the Commission. Where each member of the Commission is of a different opinion, the opinion of the Chairman shall be deemed to be the decision of the Commission. Any dissentient member may state his reasons for such dissent.
-
-#### Delimitation Commission
-
 #### Electoral Districts
-#### Proclamation of Names &c. of Electoral Districts
-#### Number of members to be returned by the several electoral districts and their apportionment among such electoral districts
 
-60 -	 Substituted by the Seventh Amendment to the Constitution Sec.3 for "Twenty Four"'
+96. (1) The Delimitation Commission shall divide Sri Lanka into not less than twenty and not more than 60[twenty-five] Electoral Districts and shall assign names thereto.
+
+(2) Each Province of Sri Lanka may itself constitute an electoral district or may be divided into two or more electoral districts.
+
+(3) Where a Province is divided into a number of electoral districts the Delimitation Commission shall have regard to the existing administrative districts so as to ensure as far as is practicable that each electoral district shall be an administrative district or a combination of two or more administrative districts or two or more electoral districts together constitute an administrative district.
+
+(4) The electoral districts of each Province shall together be entitled to return four members, (independently of the number of members which they are entitled to return by reference to the number of electors whose names appear in the registers of electors of such electoral districts) and the Delimitation Commission shall apportion such entitlement equitably among such electoral districts.
+
+(5) In the event of a difference of opinion among the members of the Delimitation Commission, the opinion of the majority thereof shall prevail and shall be deemed to be the decision of the Commission. Where each member of the Commission is of a different opinion, the opinion of the Chairman shall be deemed to be the decision of the Commission. Any dissentient member may state his reasons for such dissent.
+
+60 - Substituted by the Seventh Amendment to the Constitution Sec.3 for "Twenty Four"'
 
 [[END OF PAGE 91]]
 
@@ -2424,21 +2883,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- The  Chairman  of  the  Delimitation  Commission  shall communicate the decisions of the Commission together with the reasons, if any, stated by a dissentient member to the President.
+(6) The Chairman of the Delimitation Commission shall communicate the decisions of the Commission together with the reasons, if any, stated by a dissentient member to the President.
 
-61 [ 96A repealed ]
+61[ 96A repealed ]
 
-- The  President shall by proclamation publish the names and boundaries of the electoral districts and the number of members, which each such electoral district is entitled to return by virtue of  the  provisions  of  paragraph  (4)  of Article  96  in  accordance with the decision of the Delimitation Commission. The electoral districts specified in the Proclamation shall come into operation at the next ensuing General Election of Members of Parliament and shall thereafter be the electoral districts of Sri Lanka for all the purposes of the Constitution and of any law for the time being in force relating to the election of Members of Parliament.
+#### Proclamation of Names &c. of Electoral Districts
 
-(1)  The  several  electoral  districts  shall  together  be entitled to return one hundred and ninety-six members.
+97. The President shall by proclamation publish the names and boundaries of the electoral districts and the number of members, which each such electoral district is entitled to return by virtue of the provisions of paragraph (4) of Article 96 in accordance with the decision of the Delimitation Commission. The electoral districts specified in the Proclamation shall come into operation at the next ensuing General Election of Members of Parliament and shall thereafter be the electoral districts of Sri Lanka for all the purposes of the Constitution and of any law for the time being in force relating to the election of Members of Parliament.
 
-- The apportionment of the number of members that each electoral  district  shall  be  entitled  to  return  shall,  in  the  case of  thirty-six  members,  be  determined  in  accordance  with  the provisions of paragraph (4) of Article 96.
+#### Number of members to be returned by the several electoral districts and their apportionment among such electoral districts
 
-- The apportionment of the number of members that each electoral  district  shall  be  entitled  to  return  out  of  the  balance number of one hundred and sixty members shall be determined in accordance with the succeeding provisions of this Article.
+98. (1) The several electoral districts shall together be entitled to return one hundred and ninety-six members.
 
-- The total number of electors whose names appear in the registers of electors of all the electoral districts shall be divided by  one  hundred  and  sixty.  The  whole  number,  resulting  from such  division  (any  fraction  not  being  taken  into  account)  is hereinafter referred to as the 'qualifying number'.
+(2) The apportionment of the number of members that each electoral district shall be entitled to return shall, in the case of thirty-six members, be determined in accordance with the provisions of paragraph (4) of Article 96.
 
-- The total number of electors whose names appear in the register of electors of each electoral district shall be divided by the qualifying number and each electoral district shall be entitled to return such number of members as is equivalent to the whole number resulting from the division of the total number of such electors in that electoral district by the qualifying number and the balance number of such electors, if any, after such division shall be dealt with, if necessary, in accordance with paragraph (6) of this Article.
+(3) The apportionment of the number of members that each electoral district shall be entitled to return out of the balance number of one hundred and sixty members shall be determined in accordance with the succeeding provisions of this Article.
+
+(4) The total number of electors whose names appear in the registers of electors of all the electoral districts shall be divided by one hundred and sixty. The whole number, resulting from such division (any fraction not being taken into account) is hereinafter referred to as the “qualifying number”.
+
+(5) The total number of electors whose names appear in the register of electors of each electoral district shall be divided by the qualifying number and each electoral district shall be entitled to return such number of members as is equivalent to the whole number resulting from the division of the total number of such electors in that electoral district by the qualifying number and the balance number of such electors, if any, after such division shall be dealt with, if necessary, in accordance with paragraph (6) of this Article.
 
 61 -	 Inserted  by  the  Fourteenth  Amendment  to  the  Constitution  Sec.5;  and  repealed  by  the  Fourteenth Amendment to the Constitution Sec.2
 
@@ -2450,24 +2913,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 75
 
-- Where the total number of members to be returned by all the electoral districts ascertained by reference to the qualifying number in accordance with paragraph (5) of this Article is less than one hundred and sixty members, the apportionment of the entitlement among the electoral districts of the balance number of members shall be by reference to the balance number of such electors and in the case of any electoral district not entitled to return  a  single  member  according  to  the  determination  made under paragraph (5), the total number of electors whose names appear in the register of electors of such electoral district, the electoral district having the highest of such balance number of such electors or such total number of such electors, being entitled to return one more member and so on until the total number of members to be returned number one hundred and sixty.
+(6) Where the total number of members to be returned by all the electoral districts ascertained by reference to the qualifying number in accordance with paragraph (5) of this Article is less than one hundred and sixty members, the apportionment of the entitlement among the electoral districts of the balance number of members shall be by reference to the balance number of such electors and in the case of any electoral district not entitled to return a single member according to the determination made under paragraph (5), the total number of electors whose names appear in the register of electors of such electoral district, the electoral district having the highest of such balance number of such electors or such total number of such electors, being entitled to return one more member and so on until the total number of members to be returned number one hundred and sixty.
 
-- Where in making an apportionment under paragraph (6) of this Article an equality is found to exist between two or more balance number of such electors or two or more total number of  such electors or any combination of them and the addition of one such elector would entitle one electoral district to return an additional member, the determination of the electoral district to which one such elector shall be deemed to be added shall be determined by lot.
+(7) Where in making an apportionment under paragraph (6) of this Article an equality is found to exist between two or more balance number of such electors or two or more total number of such electors or any combination of them and the addition of one such elector would entitle one electoral district to return an additional member, the determination of the electoral district to which one such elector shall be deemed to be added shall be determined by lot.
 
-- 62 (8) [The Commissioner of Elections, as soon as possible after  the  certification  of  the  registers  of  electors  for  all  the electoral  districts,  shall  by  Order  published  in  the  Gazette, certify the number of members which each electoral district is entitled to return by virtue of the Proclamation under Article 97 and this Article.]
+62(8) [The Commissioner of Elections, as soon as possible after the certification of the registers of electors for all the electoral districts, shall by Order published in the Gazette, certify the number of members which each electoral district is entitled to return by virtue of the Proclamation under Article 97 and this Article.]
 
-- For the purposes of this Article 'the register of electors' means the register of electors for the time being in operation on the basis of which an election is being held.
-
-- 63 [( 99. ) (1) At any election of Members of Parliament, the total number of members which an electoral district is entitled to  return  shall  be  the  number  specified  by  the  Commissioner of  Elections  in  the  Order  published  in  accordance  with  the provisions of paragraph (8) of Article 98.
-
-- Every elector at an election of Members of Parliament shall, in addition  to his vote, be  entitled to indicate his
-
-> 62 -	 Amended by the Fourteenth Amendment to the Constitution Sec. (b) and by the Fifteenth Amendment to the Constitution Sec. (3).
-
-> 63 -	 Original Article 99 repealed and replaced by the Fourteenth Amendment to the Constitution Sec. (7).
+(9) For the purposes of this Article “the register of electors” means the register of electors for the time being in operation on the basis of which an election is being held.
 
 #### Proportional Representation
-preferences for not more than three candidates nominated by the same recognized political party or independent group.
+
+63[(99.) (1) At any election of Members of Parliament, the total number of members which an electoral district is entitled to return shall be the number specified by the Commissioner of Elections in the Order published in accordance with the provisions of paragraph (8) of Article 98.
+
+(2) Every elector at an election of Members of Parliament shall, in addition to his vote, be entitled to indicate his
+
+> 62 - Amended by the Fourteenth Amendment to the Constitution Sec. (b) and by the Fifteenth Amendment to the Constitution Sec. (3).
+
+> 63 - Original Article 99 repealed and replaced by the Fourteenth Amendment to the Constitution Sec. (7).
 
 [[END OF PAGE 93]]
 
@@ -2477,7 +2939,9 @@ preferences for not more than three candidates nominated by the same recognized 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-(3) Any recognized political party or any group of persons contesting as independent candidates (hereinafter referred to as an 'independent group') may for the purpose of any election of  Members  of  Parliament  for  any  electoral  district,  submit one  nomination  paper  setting  out  the  names  of  such  number of candidates as is equivalent to the number of members to be elected for that electoral district, increased by three.
+preferences for not more than three candidates nominated by the same recognized political party or independent group.
+
+(3) Any recognized political party or any group of persons contesting as independent candidates (hereinafter referred to as an “independent group”) may for the purpose of any election of Members of Parliament for any electoral district, submit one nomination paper setting out the names of such number of candidates as is equivalent to the number of members to be elected for that electoral district, increased by three.
 
 (4)  Each  elector  whose  name  appears  in  the  register  of electors shall be entitled to only one vote notwithstanding that his  name  appears  in  the  electoral  register  in  more  than  one electoral district.
 
@@ -2485,9 +2949,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (6)  (a)  Every  recognized  political  party  and  independent group polling 64 [less than one twentieth of the total votes] polled at any election in any electoral district shall be disqualified from having any candidates of such party or group being elected for that electoral district.
 
-(b) The  votes polled by the disqualified parties and independent groups, if any, shall be deducted from the total votes polled at the election in that electoral district and the number of votes resulting from such deduction is hereinafter referred to as the 'relevant numbers of votes.'
+(b) The votes polled by the disqualified parties and independent groups, if any, shall be deducted from the total votes polled at the election in that electoral district and the number of votes resulting from such deduction is hereinafter referred to as the “relevant numbers of votes.”
 
-(7)  The  relevant  number  of  votes  shall  be  divided  by  the number  of  members  to  be  elected  for  that  electoral  district reduced by one, if the number resulting from such division is an integer, that integer, or if that number is an integer and fraction, the  integer  immediately  higher  to  that  integer  and  fraction  is hereinafter referred to as the 'resulting number.'
+(7) The relevant number of votes shall be divided by the number of members to be elected for that electoral district reduced by one, if the number resulting from such division is an integer, that integer, or if that number is an integer and fraction, the integer immediately higher to that integer and fraction is hereinafter referred to as the “resulting number.”
 
 (8) The number of votes polled by each recognized political party and independent group (other than those parties or groups disqualified under paragraph (6) of this Article) beginning with the  party  or  group  which  polled  the  highest  number  of  votes shall then be divided by the resulting number and the returning officer shall declare elected from each such party or group, in accordance with the preferences secured by each of the candidates nominated by such party or group (the candidate securing the highest number of preferences being declared elected first, the candidate securing the next highest number of preferences being declared  elected  next  and  so  on)  such  number  of  candidates (excluding the candidate declared elected under paragraph (5) of this Article) as is equivalent to the whole number resulting from the division by the resulting number of the votes polled by such party or group. The remainder of the votes, if any, after such division, shall be dealt with if necessary, under paragraph (9) of this Article.
 
@@ -2505,7 +2969,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (10) (a) Where the number of votes polled by each recognized political  party  or  independent  group  is  less  than  the  resulting number referred to in paragraph (7) of this Article the party or group  which  has  polled  the  highest  number  of  votes  shall  be entitled to have the candidate, nominated by that party or group (excluding the candidate declared elected under paragraph (5) of this Article) who has secured the highest number of preferences declared elected and if there are one or more members yet to be declared elected, the party or group having the next highest number of votes polled shall be entitled to have the candidate nominated by that party or group who has secured the highest number of preferences declared elected and so on, until all the members  to  be  elected  for  that  electoral  district  are  declared elected under the provisions of this paragraph.
 
-(b)  After  the  determination  under  paragraph  (a)  if  there are one or more members yet to be declared elected in respect, of  that  electoral  district  the  provisions  of  that  paragraph  shall mutatis mutandis , apply to the election of such members.
+(b) After the determination under paragraph (a) if there are one or more members yet to be declared elected in respect, of that electoral district the provisions of that paragraph shall mutatis mutandis, apply to the election of such members.
 
 [[END OF PAGE 95]]
 
@@ -2515,21 +2979,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+(11) Where under paragraph (5) or (9) or (10) of this Article an equality is found to exist between the votes polled by two or more recognized political parties or two or more independent groups or any combination of them and the addition of a vote would entitle the candidate of one such party or group to be elected, the determination of the party or group to which such additional vote shall be deemed to have been given shall be made by lot.
+
+(12) For the purposes of this Article the number of votes polled shall deemed to be the number of votes counted other than rejected votes.
+
+(13) (a) Where a Member of Parliament ceases, by resignation, expulsion or otherwise, to be a member of a recognized political party or independent group on whose nomination paper (hereinafter referred to as the “relevant nomination paper”) his name appeared at the time of his becoming such Member of Parliament, his seat shall become vacant upon the expiration of a period of one month from the date of his ceasing to be such member :
+
+Provided that in the case of the expulsion of a Member of Parliament his seat shall not become vacant if prior to the expiration of the said period of one month he applies to the Supreme Court by petition in writing, and the Supreme Court upon such application determines that such expulsion was invalid. Such petition shall be inquired into by three Judges of the Supreme Court who shall make their determination within two months of the filing of such petition. Where the Supreme Court determines that the expulsion was valid the vacancy shall occur from the date of such determination.
+
+(b) Where the seat of a Member of Parliament becomes vacant as provided in Article 66 (other than paragraph (g) of that Article) or by virtue of the preceding provisions of this paragraph the candidate from the relevant recognized political party or independent group who has secured the next highest number of preferences shall be declared elected to fill such vacancy.]
+
+65[(14) repealed]
+
 #### Election of Members of Parliament on the basis of the total number of votes polled at a General Election
 
-- Where under paragraph (5) or (9) or (10) of this Article an equality is found to exist between the votes polled by two or more recognized political parties or two or more independent groups or any combination of them and the addition of a vote would  entitle  the  candidate  of  one  such  party  or  group  to  be elected, the determination of the party or group to which such additional  vote  shall  be  deemed  to  have  been  given  shall  be made by lot.
-
-(12)  For  the  purposes  of  this Article  the  number  of  votes polled  shall  deemed  to  be  the  number  of  votes  counted  other than rejected votes.
-
-(13) (a) Where a Member of Parliament ceases, by resignation, expulsion or otherwise, to be a member of a recognized political party  or  independent  group  on  whose  nomination  paper  (hereinafter referred to as the 'relevant nomination paper') his name appeared at the time of his becoming such Member of Parliament, his seat shall become vacant upon the expiration of a period of one month from the date of his ceasing to be such member :
-
-Provided  that  in  the  case  of  the  expulsion  of  a  Member of  Parliament  his  seat  shall  not  become  vacant  if  prior  to  the expiration  of  the  said  period  of  one  month  he  applies  to  the Supreme Court by petition in writing, and the Supreme Court upon  such  application  determines  that  such  expulsion  was invalid. Such petition shall be inquired into by three Judges of the Supreme Court who shall make their determination within two months of the filing of such petition. Where the Supreme Court determines that the expulsion was valid the vacancy shall occur from the date of such determination.
-
-(b)  Where  the  seat  of  a  Member  of  Parliament  becomes vacant as provided in Article 66 (other than paragraph (g) of that Article) or by virtue of the preceding provisions of this paragraph the  candidate  from  the  relevant  recognized  political  party  or independent group who has secured the next highest number of preferences shall be declared elected to fill such vacancy.]
-
-65 [(14) repealed]
-
-- 66 [ 99A. After  the  one  hundred  and  ninety  six  members referred to in Article 98 have been declared elected at a General Election  of  Members  of  Parliament,  the  Commissioner  of Elections shall forthwith apportion the balance twenty nine seats
+66[99A. After the one hundred and ninety six members referred to in Article 98 have been declared elected at a General Election of Members of Parliament, the Commissioner of Elections shall forthwith apportion the balance twenty nine seats
 
 > 65 -	 99(14) Repealed by the Fifteenth Amendment to the Constitution Sec. 4(2).
 
@@ -2543,18 +3007,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 79
 
-among the recognized political parties and independent groups contesting such General Election in the same proportion as the proportion which the number of votes polled by each such party or group at such General Election bears to the total number of votes polled at such General Election and for the purposes of such apportionment, the provisions of paragraph (4), (5), (6) and (7) of Article 98 shall, mutatis mutandis , apply.
+among the recognized political parties and independent groups contesting such General Election in the same proportion as the proportion which the number of votes polled by each such party or group at such General Election bears to the total number of votes polled at such General Election and for the purposes of such apportionment, the provisions of paragraph (4), (5), (6) and (7) of Article 98 shall, mutatis mutandis, apply.
 
-Every  recognized  political  party  or  independent  group contesting a General Election shall submit to the Commissioner of  Elections  within  the  nomination  period  specified  for  such election  a  list  of  persons  qualified  to  be  elected  as  Members of Parliament, from which it may nominate persons to fill the seats, if any, which such party or group will be entitled to, on such apportionment. The Commissioner of Elections shall cause every list  submitted to him under this Article to be published forthwith in the Gazette and in one Sinhala, Tamil and English newspaper upon the expiry of the nomination period.
+Every recognized political party or independent group contesting a General Election shall submit to the Commissioner of Elections within the nomination period specified for such election a list of persons qualified to be elected as Members of Parliament, from which it may nominate persons to fill the seats, if any, which such party or group will be entitled to, on such apportionment. The Commissioner of Elections shall cause every list submitted to him under this Article to be published forthwith in the Gazette and in one Sinhala, Tamil and English newspaper upon the expiry of the nomination period.
 
-Where  a  recognized  political  party  or  independent  group is entitled to a seat under the apportionment referred to above, the  Commissioner  of  Elections  shall  by  a  notice,  require  the secretary of such recognized political party or group leader of such independent group to nominate within one week of such notice, persons qualified to be elected as Members of Parliament (being persons whose names are included in the list submitted to  the  Commissioner of Elections under this Article or in any nomination paper submitted in respect of any electoral district by such party of group at that election) to fill  such  seats  and shall declare elected as Members of Parliament, the persons so nominated.
+Where a recognized political party or independent group is entitled to a seat under the apportionment referred to above, the Commissioner of Elections shall by a notice, require the secretary of such recognized political party or group leader of such independent group to nominate within one week of such notice, persons qualified to be elected as Members of Parliament (being persons whose names are included in the list submitted to the Commissioner of Elections under this Article or in any nomination paper submitted in respect of any electoral district by such party or group at that election) to fill such seats and shall declare elected as Members of Parliament, the persons so nominated.
 
-67 [The Commissioner of Elections shall before issuing the aforesaid  notice  determine  whether  the  number  of  members belonging  to  any  community,  ethnic  or  otherwise,  elected  to Parliament under Article 98 is commensurate with the national population ratio and request the Secretary of such recognized political party or group leader of such independent group in so nominating  persons  to  be  elected  as  Members  of  Parliament to  ensure  as  far  as  practicable,  that  the  representation  of  all communities is commensurate with its national population ratio.
+67[The Commissioner of Elections shall before issuing the aforesaid notice determine whether the number of members belonging to any community, ethnic or otherwise, elected to Parliament under Article 98 is commensurate with the national population ratio and request the Secretary of such recognized political party or group leader of such independent group in so nominating persons to be elected as Members of Parliament to ensure as far as practicable, that the representation of all communities is commensurate with its national population ratio.
 
-For the purposes of this Article the number of votes polled at a General Election shall be deemed to be the number of votes
-#### Penalty for sitting and voting in Parliament when disqualified
-#### Parliament may make provision in respect of elections
-actually  counted  and  shall  not  include  any  votes  rejected  as void.]
+For the purposes of this Article the number of votes polled at a General Election shall be deemed to be the number of votes actually counted and shall not include any votes rejected as void.]
 
 > 67 -	 Inserted by the Fifteenth Amendment to the Constitution Sec. 5.
 
@@ -2566,31 +3027,35 @@ actually  counted  and  shall  not  include  any  votes  rejected  as void.]
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-100. Any person who -
+#### Penalty for sitting and voting in Parliament when disqualified
+
+100. Any person who –
 
 (a) having been elected a Member of Parliament but not having been at the time of such election qualified to be so elected, shall sit or vote in Parliament ; or
 
-(b) shall sit or vote in Parliament after his seat therein has  become  vacant  or  he  has  become  disqualified from sitting or voting therein;
+(b) shall sit or vote in Parliament after his seat therein has become vacant or he has become disqualified from sitting or voting therein;
 
-knowing or having reasonable grounds for knowing that he was so disqualified or that his seat has become vacant, as the case may be, shall be liable to a penalty of Five Hundred Rupees for every day upon which he so sits or votes to be recovered as a debt due to the Republic by an action instituted by the AttorneyGeneral in the District Court of Colombo.
+knowing or having reasonable grounds for knowing that he was so disqualified or that his seat has become vacant, as the case may be, shall be liable to a penalty of Five Hundred Rupees for every day upon which he so sits or votes to be recovered as a debt due to the Republic by an action instituted by the Attorney-General in the District Court of Colombo.
 
-(1) Parliament may by law make provision for -
+#### Parliament may make provision in respect of elections
+
+101. (1) Parliament may by law make provision for –
 
 (a) the registration of electors ;
 
 (b) the prescribing of a qualifying date on which a person should be resident in any Electoral District to be entered in the register of electors of that Electoral District ;
 
-(c) the prescribing of a qualifying date on which a person should  have  attained  the  age  of  eighteen  years  to qualify for the purposes of registration as an elector ;
+(c) the prescribing of a qualifying date on which a person should have attained the age of eighteen years to qualify for the purposes of registration as an elector ;
 
 (d) the preparation and revision of registers of electors ;
 
-(e) the procedure for the election  of  Members  of Parliament;
+(e) the procedure for the election of Members of Parliament;
 
 (f) the creation of offences relating to such elections and the punishment therefor ;
 
-(g) the ground for avoiding such elections, and where an election  has  been  held  void  the  manner  of  holding fresh elections ;
+(g) the ground for avoiding such elections, and where an election has been held void the manner of holding fresh elections ;
 
-(h) the form and manner in which vacancies shall be filled when all the candidates whose names appearing in the nomination paper of a recognized political party or  independent  group  have  been  exhausted 68 [by election or otherwise or where a recognized political
+(h) the form and manner in which vacancies shall be filled when all the candidates whose names appearing in the nomination paper of a recognized political party or independent group have been exhausted 68[by election or otherwise or where a recognized political
 
 68 -	 Substituted by the Sixth Amendment to the Constitution Sec. 2 for "by election or otherwise".
 
@@ -2602,24 +3067,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 81
 
-party  or  independent  group  has  been  proscribed under Article 157A ;] and
+party or independent group has been proscribed under Article 157A ;] and
 
-(i) 	 the manner of determination of disputed elections and such other matters as are necessary or incidental to the election of Members of Parliament :
+(i) the manner of determination of disputed elections and such other matters as are necessary or incidental to the election of Members of Parliament :
 
 Provided that no such law shall add to the disqualifications specified in Articles 89 and 91.
 
-- Until Parliament by law makes provision for such matters the Ceylon (Parliamentary Elections) Order in Council, 1946 as amended from time to time, shall subject to the provisions of the Constitution, mutatis mutandis , apply.
+(2) Until Parliament by law makes provision for such matters the Ceylon (Parliamentary Elections) Order in Council, 1946 as amended from time to time, shall subject to the provisions of the Constitution, mutatis mutandis, apply.
 
-- When  a  public  officer  or  an  officer  of  a  public corporation is a candidate at any election, he shall be deemed to be on leave from the date on which he stands nominated as a candidate until the conclusion of the election. Such a public officer or an officer of a public corporation shall not during such period exercise, perform or discharge any of the powers, duties or functions of his office.
+#### Public officer or an officer of a public corporation not to function during period of election
 
-> 69 [ 103. Repealed
+102. When a public officer or an officer of a public corporation is a candidate at any election, he shall be deemed to be on leave from the date on which he stands nominated as a candidate until the conclusion of the election. Such a public officer or an officer of a public corporation shall not during such period exercise, perform or discharge any of the powers, duties or functions of his office.
+
+69[103. Repealed
 
 104. Repealed ]
 
-> 69 -	 Repealed by the Seventeenth Amendment to the Constitution Sec. 8 and a new Chapter XIVA containing Article Nos. 103 and 104 in respect of "Election Commission" is inserted by the Seventeenth Amendment to the Constitution Sec. 9.
-
-#### Public officer or an officer of a public corporation not to function during period of election
-#### Election Commission
+> 69 - Repealed by the Seventeenth Amendment to the Constitution Sec. 8 and a new Chapter XIVA containing Article Nos. 103 and 104 in respect of "Election Commission" is inserted by the Seventeenth Amendment to the Constitution Sec. 9.
 
 [[END OF PAGE 99]]
 
@@ -2633,17 +3097,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### ELECTION COMMISSION
 
-- 71 [(1) There shall be an Election Commission (in this Chapter  referred  to  as  the  'Commission')  consisting  of  three members  appointed  by  the  President  on  the  recommendation of the Constitutional Council, from amongst persons who have distinguished  themselves  in  any  profession  or  in  the  fields  of administration or education. One of the members so appointed shall be a retired officer of the Department of Elections, who has held office  as  a  Deputy  Commissioner of Elections or above. The President shall on the recommendation of the Constitutional Council, appoint one member as its Chairman. ]
+#### Election Commission
 
-- The object of the Commission shall be to conduct free and fair elections and Referenda.
+103. 71[(1) There shall be an Election Commission (in this Chapter referred to as the “Commission”) consisting of three members appointed by the President on the recommendation of the Constitutional Council, from amongst persons who have distinguished themselves in any profession or in the fields of administration or education. One of the members so appointed shall be a retired officer of the Department of Elections, who has held office as a Deputy Commissioner of Elections or above. The President shall on the recommendation of the Constitutional Council, appoint one member as its Chairman. ]
 
-- No  person  shall  be  appointed  as  a  member  of  the Commission or continue to hold office as such member if he is or becomes a member of Parliament, a Provincial Council or a Local Authority, or is or appointed a judicial officer or public officer, or is or enters into the employment of the State in any capacity whatsoever.
+(2) The object of the Commission shall be to conduct free and fair elections and Referenda.
 
-- The  provisions  of  the  Constitution  and  any  other  law relating to the removal of judges of the Supreme Court and the Court of Appeal from office shall, mutatis mutandis , apply to the removal of a member of the Commission from office.
+(3) No person shall be appointed as a member of the Commission or continue to hold office as such member if he is or becomes a member of Parliament, a Provincial Council or a Local Authority, or is or appointed a judicial officer or public officer, or is or enters into the employment of the State in any capacity whatsoever.
 
-- A  member  of  the  Commission  who  without  obtaining prior  leave  of  the  Commission,  absents  himself  from  three consecutive  meetings  of  the  Commission,  shall  be  deemed  to have vacated office with effect from the date of the third of such meetings.
+(4) The provisions of the Constitution and any other law relating to the removal of judges of the Supreme Court and the Court of Appeal from office shall, mutatis mutandis, apply to the removal of a member of the Commission from office.
 
-- A  member  of  the  Commission  shall  hold  office  for  a period  of  five  years  from  the  date  of  appointment,  unless  he becomes subject to any disqualification under paragraph (3) of this Article or earlier resigns from office by writing addressed to the President or is removed from office under paragraph (4) of this Article, or is convicted by a court of law of any offence involving moral turpitude, or if a resolution for the imposition
+(5) A member of the Commission who without obtaining prior leave of the Commission, absents himself from three consecutive meetings of the Commission, shall be deemed to have vacated office with effect from the date of the third of such meetings.
+
+(6) A member of the Commission shall hold office for a period of five years from the date of appointment, unless he becomes subject to any disqualification under paragraph (3) of this Article or earlier resigns from office by writing addressed to the President or is removed from office under paragraph (4) of this Article, or is convicted by a court of law of any offence involving moral turpitude, or if a resolution for the imposition
 
 > 70 -	 New Chapter XIVA inserted by the Seventeenth Amendment to the Constitution Sec. 9.
 
@@ -2659,27 +3125,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 of civic disability upon him has been passed in terms of Article 81 or is deemed to have vacated office under paragraph (5) of this Article.
 
-- 72 [  (7) The President may grant a member leave from the performance of his duties relating to the Commission for a period not exceeding two months, and may appoint a person qualified to be a member of the Commission to be a temporary member for the period of such leave. Every such appointment shall be made on the recommendation of the Constitutional Council.]
+72[ (7) The President may grant a member leave from the performance of his duties relating to the Commission for a period not exceeding two months, and may appoint a person qualified to be a member of the Commission to be a temporary member for the period of such leave. Every such appointment shall be made on the recommendation of the Constitutional Council.]
 
-- A  member  of  the  Commission  shall  be  paid  such emoluments as may be determined by Parliament. The emoluments  paid  to  a  member  of  the  Commission  shall  be charged on the Consolidated Fund and shall not be diminished during the term of office of the member.
+(8) A member of the Commission shall be paid such emoluments as may be determined by Parliament. The emoluments paid to a member of the Commission shall be charged on the Consolidated Fund and shall not be diminished during the term of office of the member.
 
-- All  members  of  the  Commission  shall  be  deemed  to be public servants within the meaning and for the purposes of Chapter IX of the Penal Code.
-
-(1) The quorum for any meetings of the Commission shall be three members.
-
-(a) The Chairman of the Commission shall preside at all meetings of the Commission and in the absence of the Chairman from any meeting of the Commission, a member elected by the members present from amongst themselves shall preside at such meeting.
-
-(b) Decisions of the Commission shall be by a majority of the  members  present  and  voting  at  the  meeting  at  which  the decision is taken, and in the event of an equality of votes, the Chairman or the member presiding at the meeting shall have a casting vote.
-
-- The Commission shall have power to act notwithstanding any vacancy in the membership of the Commission, and no act or proceeding or decision of the Commission shall be invalid or be deemed to be invalid by reason only of such vacancy or any defect in the appointment of a member.
-
-- 104A. Subject to the jurisdiction conferred on the Supreme Court  under  paragraph  (1)  of  Article  126,  Article  104H  and Article  130  and  on  the  Court  of  Appeal  by  Article  144  and
+(9) All members of the Commission shall be deemed to be public servants within the meaning and for the purposes of Chapter IX of the Penal Code.
 
 #### Meetings of the Commission
 
+104. (1) The quorum for any meetings of the Commission shall be three members.
+
+(2) (a) The Chairman of the Commission shall preside at all meetings of the Commission and in the absence of the Chairman from any meeting of the Commission, a member elected by the members present from amongst themselves shall preside at such meeting.
+
+(b) Decisions of the Commission shall be by a majority of the members present and voting at the meeting at which the decision is taken, and in the event of an equality of votes, the Chairman or the member presiding at the meeting shall have a casting vote.
+
+(3) The Commission shall have power to act notwithstanding any vacancy in the membership of the Commission, and no act or proceeding or decision of the Commission shall be invalid or be deemed to be invalid by reason only of such vacancy or any defect in the appointment of a member.
+
 #### Finality of decisions and immunity from suit
-#### Powers, functions and duties of the Commission
-the jurisdiction conferred on any court by any law to hear and determine election petitions or Referendum petitions -
+
+104A. Subject to the jurisdiction conferred on the Supreme Court under paragraph (1) of Article 126, Article 104H and Article 130 and on the Court of Appeal by Article 144 and
 
 72 -	 substituted by the Nineteenth Amendment to the Constitution Sec. 22
 
@@ -2691,11 +3155,15 @@ the jurisdiction conferred on any court by any law to hear and determine electio
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-(a) no  court  shall  have  the  power  or  jurisdiction  to entertain or hear or decide or call in question on any ground and in any manner whatsoever, any decision, direction  or  act  of  the  Commission,  made  or  done or purported to have been made or done under the Constitution or under any law relating to the holding of an election or the conduct of a Referendum as the case may be, which decisions, directions or acts shall be final and conclusive ; and
+the jurisdiction conferred on any court by any law to hear and determine election petitions or Referendum petitions -
 
-(b) no suit or prosecution or other proceeding shall lie against  any  member  or  officer  of  the  Commission for any act or thing which in good faith is done or purported to be done by him in the performance of his duties or the discharge of his functions under the Constitution or under any law relating to the holding of an election or the conduct of a Referendum as the case may be.
+(a) no court shall have the power or jurisdiction to entertain or hear or decide or call in question on any ground and in any manner whatsoever, any decision, direction or act of the Commission, made or done or purported to have been made or done under the Constitution or under any law relating to the holding of an election or the conduct of a Referendum as the case may be, which decisions, directions or acts shall be final and conclusive ; and
 
-104B. (1)  The  Commission  shall  exercise,  perform  and discharge  all  such  powers,  duties  and  functions  conferred  or imposed on or assigned to -
+(b) no suit or prosecution or other proceeding shall lie against any member or officer of the Commission for any act or thing which in good faith is done or purported to be done by him in the performance of his duties or the discharge of his functions under the Constitution or under any law relating to the holding of an election or the conduct of a Referendum as the case may be.
+
+#### Powers, functions and duties of the Commission
+
+104B. (1) The Commission shall exercise, perform and discharge all such powers, duties and functions conferred or imposed on or assigned to -
 
 (a) the Commission ; or
 
@@ -2705,7 +3173,7 @@ by  the  Constitution,  and  by  the  law  for  the  time  being relating to the
 
 (2)  It  shall  be  the  duty  of  the  Commission  to  secure  the enforcement  of  all  laws  relating  to  the  holding  of  any  such election  or  the  conduct  of  Referenda  and  it  shall  be  the  duty of all authorities of the State charged with the enforcement of such laws, to co-operate with the Commission to secure such enforcement.
 
-(3) The Commission shall be responsible and answerable to Parliament  in  accordance  with  the  provisions  of  the  Standing Orders of Parliament for the exercise, performance and discharge of its powers, duties and functions and shall forward to Parliament for each calendar year a report of its activities for such year.
+(3) The Commission shall be responsible and answerable to Parliament in accordance with the provisions of the Standing
 
 [[END OF PAGE 102]]
 
@@ -2715,7 +3183,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 85
 
-73 [  (4)  (a)  The  Commission  shall  have  the  power  during the  period  of  an  election,  to  prohibit  the  use  of  any  movable or  immovable    property  belonging  to  the  State  or  any  public corporation -
+Orders of Parliament for the exercise, performance and discharge of its powers, duties and functions and shall forward to Parliament for each calendar year a report of its activities for such year.
+
+73[ (4) (a) The Commission shall have the power during the period of an election, to prohibit the use of any movable or immovable property belonging to the State or any public corporation -
 
 (i) for  the  purpose  of  promoting  or  preventing  the election  or  any  candidate  of  any  political  party  or independent group contesting at such election;
 
@@ -2741,25 +3211,25 @@ by a direction in writing by the Chairman of the Commission or of the Commission
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+(ii) Every direction and guideline shall be published in the Gazette and shall come into operation on the date of such publication or on such later date as may be specified in such direction and guideline.
+
+(iii) Every such direction and guideline shall, within three months from the date of publication in the Gazette, be brought before Parliament for approval. Any direction or guideline which is not so approved shall be deemed to be rescinded as from the date of such disapproval, but without prejudice to anything previously done thereunder. ]
+
 #### Deployment of Police by the Commission
+
+104C. (1) Upon the making of an Order for the holding of an election or the making of a Proclamation requiring the conduct of a Referendum, as the case may be, the Commission shall notify the Inspector-General of Police of the facilities and the number of police officers required by the Commission for the holding or conduct of such election or Referendum, as the case may be.
+
+(2) The Inspector-General of Police shall make available to the Commission the facilities and police officers specified in any notification made under paragraph (1) of this Article.
+
+(3) The Commission may deploy the police officers and facilities made available to the Commission in such manner as is calculated to promote the conduct of a free and fair election or referendum, as the case may be.
+
+(4) Every police officer made available to the Commission under paragraph (2) of this Article, shall be responsible to and act under the direction and control of the Commission during the period of an election.
+
+(5) No suit, prosecution or other proceeding, shall lie against any police officer made available to the Commission under this Article for any lawful act or thing in good faith done by such police officer, in pursuance of a direction of the Commission or his functioning under the Commission.
 
 #### Deployment of Armed Forces
 
-(ii) Every direction and guideline shall be published in the Gazette and shall come into operation on the  date  of  such  publication  or  on  such  later date as may be specified in such direction and guideline.
-
-(iii) Every such direction and guideline shall, within three  months  from  the  date  of  publication  in the  Gazette,  be  brought  before  Parliament  for approval.  Any  direction  or  guideline  which is  not  so  approved  shall  be  deemed  to  be rescinded as from the date of such disapproval, but  without  prejudice  to  anything  previously done thereunder. ]
-
-- 104C. (1) Upon the making of an Order for the holding of an election or the making of a Proclamation requiring the conduct of  a  Referendum,  as  the  case  may  be,  the  Commission  shall notify the Inspector-General of Police of the facilities and the number of police officers required by the Commission for the holding or conduct of such election or Referendum, as the case may be.
-
-- The Inspector-General of Police shall make available to the Commission the facilities and police officers specified in any notification made under paragraph (1) of this Article.
-
-- The  Commission  may  deploy  the  police  officers  and facilities made available to the Commission in such manner as is calculated to promote the conduct of a free and fair election or referendum, as the case may be.
-
-- Every police officer made available to the Commission under paragraph (2) of this Article, shall be responsible to and act under the direction and control of the Commission during the period of an election.
-
-- No suit, prosecution or other proceeding, shall lie against any police officer made available to the Commission under this Article for any lawful act or thing in good faith done by such police officer, in pursuance of a direction of the Commission or his functioning under the Commission.
-
-104D. It  shall  be  lawful  for  the  Commission,  upon  the making of an Order for the holding of an election or the making of  a  Proclamation  requiring  the  conduct  of  a  Referendum,  as the  case  may  be,  to  make  recommendations  to  the  President regarding the deployment of the armed forces of the Republic for the prevention or control of any actions or incidents which may be prejudicial to the holding or conducting of a free and fair election or Referendum, as the case may be.
+104D. It shall be lawful for the Commission, upon the making of an Order for the holding of an election or the making of a Proclamation requiring the conduct of a Referendum, as the case may be, to make recommendations to the President
 
 [[END OF PAGE 104]]
 
@@ -2769,19 +3239,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 87
 
-104E. 74 [(1)  There  shall  be  a  Commissioner  General  of Elections who shall, subject to the approval of the Constitutional Council, be appointed by the Commission on such terms and conditions as may be determined by the Commission.]
+regarding the deployment of the armed forces of the Republic for the prevention or control of any actions or incidents which may be prejudicial to the holding or conducting of a free and fair election or Referendum, as the case may be.
 
-- The Commissioner-General of Elections shall be entitled to be present at meetings of the Commission, except where any matter relating to him is being considered by the Commission. He shall have no right to vote at such meetings.
+#### Commissioner-General of Elections and other officers of the Commission
 
-- The Commission may appoint such other officers to the Commission on such terms and conditions as may be determined by the Commission.
+104E. 74[(1) There shall be a Commissioner General of Elections who shall, subject to the approval of the Constitutional Council, be appointed by the Commission on such terms and conditions as may be determined by the Commission.]
 
-- The salaries of the Commissioner-General of Elections and the other officers of the Commission, shall be determined by the Commission and shall be charged on the Consolidated Fund.
+(2) The Commissioner-General of Elections shall be entitled to be present at meetings of the Commission, except where any matter relating to him is being considered by the Commission. He shall have no right to vote at such meetings.
 
-- The  Commissioner-General  of  Elections  shall,  subject to the direction and control of the Commission, implement the decisions of the Commission and exercise supervision over the officers of the Commission.
+(3) The Commission may appoint such other officers to the Commission on such terms and conditions as may be determined by the Commission.
 
-- The  Commission  may  delegate  to  the  CommissionerGeneral of Elections or other officer  of  the  Commission,  any power,  duty  or  function  of  the  Commission  and  the  CommissionerGeneral of Elections or such officer shall exercise, perform and discharge such power, duty or function, subject to the direction and control of the Commission.
+(4) The salaries of the Commissioner-General of Elections and the other officers of the Commission, shall be determined by the Commission and shall be charged on the Consolidated Fund.
 
-- The  office  of  the  Commissioner-General  of  Elections shall become vacant -
+(5) The Commissioner-General of Elections shall, subject to the direction and control of the Commission, implement the decisions of the Commission and exercise supervision over the officers of the Commission.
+
+(6) The Commission may delegate to the Commissioner-General of Elections or other officer of the Commission, any power, duty or function of the Commission and the Commissioner-General of Elections or such officer shall exercise, perform and discharge such power, duty or function, subject to the direction and control of the Commission.
+
+(7) The office of the Commissioner-General of Elections shall become vacant -
 
 (a) upon his death ;
 
@@ -2790,8 +3264,6 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 (c) on his attaining the age of Sixty Five years ;
 
 (d) on his removal by the Commission on account of ill health or physical or mental infirmity ; or
-
-#### CommissionerGeneral of Elections and other officers of the Commission
 
 74 -	 substituted by the Nineteenth Amendment to the Constitution Sec. 24
 
@@ -2803,25 +3275,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Returning Officers
-
-#### Public Officers
-
-#### Failure to comply with directions to be an offence
-
 (e) on his removal by the Commission on the presentation of an address of Parliament in compliance with the provisions of paragraph (8), for such removal on the ground of proved misbehaviour or incapacity.
 
-(a)  The  address  referred  to  in  sub-paragraph  (e)  of paragraph (7) of this Article shall be required to be supported by  a  majority  of  the  total  number  of  Members  of  Parliament (including those not present) and no resolution for the presentation  of  such  an  address  shall  be  entertained  by  the Speaker  or  placed  on  the  Order  Paper  of  Parliament,  unless notice  of  such  resolution  is  signed  by  not  less  than  one-third of the total number of Members of Parliament and sets out full particulars of the alleged misbehaviour or incapacity.
+(8) (a) The address referred to in sub-paragraph (e) of paragraph (7) of this Article shall be required to be supported by a majority of the total number of Members of Parliament (including those not present) and no resolution for the presentation of such an address shall be entertained by the Speaker or placed on the Order Paper of Parliament, unless notice of such resolution is signed by not less than one-third of the total number of Members of Parliament and sets out full particulars of the alleged misbehaviour or incapacity.
 
 (b) Parliament shall by law or by Standing Orders, provide for all matters relating to the presentation of such an address, including the procedure for the passing of such resolution, the investigation and proof of the alleged misbehaviour or incapacity and the right of the Commissioner-General of Elections to appear and to be heard in person or by representatives.
 
-- 104F. (1) The Commission shall from time to time by notice published in the Gazette appoint by name or by office a person to be a Returning Officer to each electoral district, and may appoint by name or by office one or more persons to assist the Returning Officer in the performance of his duties.
+#### Returning Officers
 
-- Every Officer appointed under paragraph (1) shall in the performance and discharge of such duties and functions as are assigned to him, be subject to such directions as may be issued by the Commission and shall be responsible and answerable to the Commission therefor.
+104F. (1) The Commission shall from time to time by notice published in the Gazette appoint by name or by office a person to be a Returning Officer to each electoral district, and may appoint by name or by office one or more persons to assist the Returning Officer in the performance of his duties.
 
-- 104G. All public officers performing duties and functions at  any  election  or  Referenda shall act in the performance and discharge of such duties and functions under the directions of the Commission and shall be responsible and answerable to the Commission therefor.
+(2) Every Officer appointed under paragraph (1) shall in the performance and discharge of such duties and functions as are assigned to him, be subject to such directions as may be issued by the Commission and shall be responsible and answerable to the Commission therefor.
 
-- 75 [ 104GG. (1)   Any public officer, any employee of any public corporation, business or other undertaking vested in the Government  under  any  other  written  law  and  any  company registered  or  deemed  to  be  registered  under  the  Companies
+#### Public Officers
+
+104G. All public officers performing duties and functions at any election or Referenda shall act in the performance and discharge of such duties and functions under the directions of the Commission and shall be responsible and answerable to the Commission therefor.
+
+#### Failure to comply with directions to be an offence
+
+75[ 104GG. (1) Any public officer, any employee of any public corporation, business or other undertaking vested in the Government under any other written law and any company registered or deemed to be registered under the Companies
 
 75 -	 Inserted by the Nineteenth Amendment to the Constitution Sec. 25
 
@@ -2837,22 +3309,21 @@ Act,  No.  7  of  2007,  in  which  the  Government  or  any  public corporation
 
 (a) refuses or fails without a reasonable cause to co-operate  with  the  Commission,  to  secure  the enforcement of any law relating to the holding of an election or the conduct of a Referendum; or
 
-(b) fails without a reasonable cause to comply with any directions  or  guidelines  issued  by  the  Commission under  sub-paragraph  (a)  of  paragraph  (4)  or  subparagraph  (a)  of  paragraph  (5),  respectively,  of Article 104B,
+(b) fails without a reasonable cause to comply with any directions or guidelines issued by the Commission under sub-paragraph (a) of paragraph (4) or sub-paragraph (a) of paragraph (5), respectively, of Article 104B,
 
 shall  be  guilty  of  an  offence  and  shall  on  conviction  be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding three years or to both such fine and imprisonment.
 
-- Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).]
-
-- 104H. (1) The jurisdiction conferred on the Court of Appeal under Article  140  of  the  Constitution  shall,  in  relation  to  any matter that may arise in the exercise by the Commission of the powers conferred on it by the Constitution or by any other law, be exercised by the Supreme Court.
-
-- Every application invoking the jurisdiction referred to in paragraph (1), shall be made within one month of the date of the commission of the act to which the application relates. The Supreme Court shall hear and finally dispose of the application within two months of the filing of the same.
-
-- 104J. In this Chapter 'during the period of an election' shall mean the period commencing on the making of a Proclamation or Order for the conduct of a Referendum or for the holding of an election, as the case may be, and ending on the date on which the result of poll taken at such Referendum or election, as the case may be, is declared.]
+(2) Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).]
 
 #### Powers of Supreme Court to issue writs
 
+104H. (1) The jurisdiction conferred on the Court of Appeal under Article 140 of the Constitution shall, in relation to any matter that may arise in the exercise by the Commission of the powers conferred on it by the Constitution or by any other law, be exercised by the Supreme Court.
+
+(2) Every application invoking the jurisdiction referred to in paragraph (1), shall be made within one month of the date of the commission of the act to which the application relates. The Supreme Court shall hear and finally dispose of the application within two months of the filing of the same.
+
 #### Interpretation
-#### Establishment of Courts &c.
+
+104J. In this Chapter “during the period of an election” shall mean the period commencing on the making of a Proclamation or Order for the conduct of a Referendum or for the holding of an election, as the case may be, and ending on the date on which the result of poll taken at such Referendum or election, as the case may be, is declared.]
 
 [[END OF PAGE 107]]
 
@@ -2866,21 +3337,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### THE JUDICIARY
 
-(1)  Subject  to  the  provisions  of  the  Constitution,  the institutions  for  the  administration  of  justice  which  protect, vindicate and enforce the rights of the People shall be -
+#### Establishment of Courts &c.
+
+105. (1) Subject to the provisions of the Constitution, the institutions for the administration of justice which protect, vindicate and enforce the rights of the People shall be -
 
 (a) the Supreme Court of the Republic of Sri Lanka,
 
 (b) the Court of Appeal of the Republic of Sri Lanka,
 
-(c) the  High  Court  of  the  Republic  of  Sri  Lanka  and such other Courts of First Instance, tribunals or such institutions  as  Parliament  may  from  time  to  time ordain and establish.
+(c) the High Court of the Republic of Sri Lanka and such other Courts of First Instance, tribunals or such institutions as Parliament may from time to time ordain and establish.
 
-- All courts, tribunals  and  institutions  created  and established  by  existing  written  law  for  the  administration  of justice and for the adjudication and settlement of industrial and other disputes, other than the Supreme Court, shall be deemed to  be  courts,  tribunals  and  institutions  created  and  established by  Parliament.  Parliament  may  replace  or  abolish,  or  amend the powers, duties, jurisdiction and procedure of, such courts, tribunals and institutions.
+(2) All courts, tribunals and institutions created and established by existing written law for the administration of justice and for the adjudication and settlement of industrial and other disputes, other than the Supreme Court, shall be deemed to be courts, tribunals and institutions created and established by Parliament. Parliament may replace or abolish, or amend the powers, duties, jurisdiction and procedure of, such courts, tribunals and institutions.
 
-- The Supreme Court of the Republic of Sri Lanka and the  Court  of Appeal  of  the  Republic  of  Sri  Lanka  shall  each be  a  superior  court  of  record  and  shall  have  all  the  powers of  such  court  including  the  power  to  punish  for  contempt  of itself, whether committed in the court itself or elsewhere, with imprisonment or fine or  both  as  the  court  may  deem  fit. The power of the Court of Appeal shall include the power to punish for contempt of any other court, tribunal or institution referred to in paragraph (1)(c) of this Article, whether committed in the presence of such court or elsewhere :
+(3) The Supreme Court of the Republic of Sri Lanka and the Court of Appeal of the Republic of Sri Lanka shall each be a superior court of record and shall have all the powers of such court including the power to punish for contempt of itself, whether committed in the court itself or elsewhere, with imprisonment or fine or both as the court may deem fit. The power of the Court of Appeal shall include the power to punish for contempt of any other court, tribunal or institution referred to in paragraph (1)(c) of this Article, whether committed in the presence of such court or elsewhere :
 
-Provided that the preceding provisions of this Article shall not  prejudice  or  affect  the  rights  now  or  hereafter  vested  by any law in such other court, tribunal or institution to punish for contempt of itself.
+Provided that the preceding provisions of this Article shall not prejudice or affect the rights now or hereafter vested by any law in such other court, tribunal or institution to punish for contempt of itself.
 
-- Parliament may  by  law  provide for the creation and  establishment  of  courts,  tribunals  or  institutions  for  the adjudication and settlement of matters relating to the discipline of bhikkus or any dispute between bhikkus or any other dispute relating  to  the  performance  of  services,  in,  or  in  relation  to,
+(4) Parliament may by law provide for the creation and establishment of courts, tribunals or institutions for the adjudication and settlement of matters relating to the discipline of bhikkus or any dispute between bhikkus or any other dispute relating to the performance of services, in, or in relation to,
 
 [[END OF PAGE 108]]
 
@@ -2898,9 +3371,11 @@ temples. Such law may, notwithstanding anything to the contrary in this Chapter 
 
 In  this  paragraph  the  expressions  'bhikku'  and  'temple' shall have the same meanings as in the Buddhist Temporalities Ordinance, as at the commencement of the Constitution.
 
-(1)  The  sittings  of  every  court,  tribunal  or  other institution, established under the Constitution or ordained and established by Parliament shall subject to the provisions of the Constitution be held in public, and all persons shall be entitled freely to attend such sittings.
+#### Public sittings
 
-- A judge or presiding officer of any such court, tribunal or other institution may, in his discretion, whenever he considers it desirable -
+106. (1) The sittings of every court, tribunal or other institution, established under the Constitution or ordained and established by Parliament shall subject to the provisions of the Constitution be held in public, and all persons shall be entitled freely to attend such sittings.
+
+(2) A judge or presiding officer of any such court, tribunal or other institution may, in his discretion, whenever he considers it desirable -
 
 (a) in proceedings relating to family relations,
 
@@ -2908,19 +3383,15 @@ In  this  paragraph  the  expressions  'bhikku'  and  'temple' shall have the sa
 
 (c) in the interests of national security or public safety, or
 
-(d) in  the  interests  of  order  and  security  within  the precincts of such court, tribunal or other institution,
+(d) in the interests of order and security within the precincts of such court, tribunal or other institution,
 
 exclude therefrom such persons as are not directly interested in the proceedings therein.
 
 ### Independence of the Judiciary
 
-- 76 [  (1)  The  Chief  Justice,  the  President  of  the  Court of  Appeal  and  every  other  judge  of  the  Supreme  Court  and of  the  Court  of  Appeal  shall,  subject  to  the  approval  of  the Constitutional Council, be appointed by the President by warrant under his hand. ]
-
-#### Public sittings
-
 #### Appointment and removal of Judges of the Supreme Court and Court of Appeal
-#### Salaries of the Judges of the Supreme Court and Court of Appeal
-#### Acting appointments
+
+107. 76[ (1) The Chief Justice, the President of the Court of Appeal and every other judge of the Supreme Court and of the Court of Appeal shall, subject to the approval of the Constitutional Council, be appointed by the President by warrant under his hand. ]
 
 76 -	 Substituted by the Nineteenth Amendment to the Constitution Sec. 26
 
@@ -2936,17 +3407,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Provided that no resolution for the presentation of such an address  shall  be  entertained  by  the  Speaker  or  placed  on  the Order Paper of Parliament, unless notice of such resolution is signed by not less than one-third of the total number of Members of  Parliament  and  sets  out  full  particulars  of  the  alleged misbehaviour or incapacity.
 
-- Parliament shall by law or by Standing Orders provide for all matters relating to the presentation of such an address, including the procedure for the passing of such resolution, the investigation and proof of the alleged misbehaviour or incapacity and the right of such Judge to appear and to be heard in person or by representative.
+(3) Parliament shall by law or by Standing Orders provide for all matters relating to the presentation of such an address, including the procedure for the passing of such resolution, the investigation and proof of the alleged misbehaviour or incapacity and the right of such Judge to appear and to be heard in person or by representative.
 
-- Every person appointed to be or to act as Chief Justice, President of the Court of Appeal or a Judge of the Supreme Court or Court of Appeal shall not enter upon the duties of his office until  he  takes  and  subscribes  or  makes  and  subscribes  before the President, the oath or the affirmation set out in the Fourth Schedule.
+(4) Every person appointed to be or to act as Chief Justice, President of the Court of Appeal or a Judge of the Supreme Court or Court of Appeal shall not enter upon the duties of his office until he takes and subscribes or makes and subscribes before the President, the oath or the affirmation set out in the Fourth Schedule.
 
-- The age of retirement of Judges of the Supreme Court shall be Sixty-five years and of Judges of the Court of Appeal shall be Sixty-three years.
+(5) The age of retirement of Judges of the Supreme Court shall be Sixty-five years and of Judges of the Court of Appeal shall be Sixty-three years.
 
-- 1) The salaries of the Judges of the Supreme Court and of the Court of Appeal shall be determined by Parliament and shall be charged on the Consolidated Fund.
+#### Salaries of the Judges of the Supreme Court and Court of Appeal
 
-- The salary payable to, and the pension entitlement of a Judge of the Supreme Court and a Judge of the Court of Appeal shall not be reduced after his appointment.
+108. (1) The salaries of the Judges of the Supreme Court and of the Court of Appeal shall be determined by Parliament and shall be charged on the Consolidated Fund.
 
-- 77 [ 109. (1)  If  the  Chief  Justice  or  the  President  of  the Court of Appeal is temporarily unable to exercise, perform and discharge  the  powers,  duties  and  functions  of  his  office,  by reason of illness, absence from Sri Lanka or any other cause, the President shall, subject to the approval of the Constitutional
+(2) The salary payable to, and the pension entitlement of a Judge of the Supreme Court and a Judge of the Court of Appeal shall not be reduced after his appointment.
+
+#### Acting appointments
+
+77[ 109. (1) If the Chief Justice or the President of the Court of Appeal is temporarily unable to exercise, perform and discharge the powers, duties and functions of his office, by reason of illness, absence from Sri Lanka or any other cause, the President shall, subject to the approval of the Constitutional
 
 77 -	 Substituted by the Nineteenth Amendment to the Constitution Sec. 27
 
@@ -2960,31 +3435,31 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Council, appoint another Judge of the Supreme Court, or of the Court of Appeal, as the case may be, to act in the office of Chief Justice, or President of the Court of Appeal, during such period.
 
-- If  any Judge of the Supreme Court or of the Court of Appeal is temporarily unable to exercise, perform and discharge the powers, duties and functions of his office, by reason of illness, absence from Sri Lanka or any other cause, the President may, subject  to  the  approval  of  the  Constitutional  Council,  appoint another Judge to act as a Judge of the Supreme Court or Court of Appeal, during such period. ]
-
-(1) A Judge of the Supreme Court or Court of Appeal may be required by the President of the Republic to perform or discharge any other appropriate duties or functions under any written law.
-
-- No  Judge  of  the  Supreme  Court  or  Court  of  Appeal shall perform any other office (whether paid or not) or accept any place of profit or emolument, except as authorized by the Constitution or by written law or with the written consent of the President.
-
-- No person who has held office as a permanent Judge of the Supreme Court or of the Court of Appeal may appear, plead, act or practise in any court, tribunal or institution as an Attorneyat-law at any time without the written consent of the President.
-
-- 78 [(1) There shall be a High Court of Sri Lanka, which shall exercise such jurisdiction and powers as Parliament may by law vest or ordain.]
-
-- 79 [(2) The Judges of the High Court shall -
-
-(a) on  the  recommendation  of  the  Judicial  Service Commission,  be  appointed  by  the  President  by warrant  under  his  hand  and  such  recommendation shall be made after consultation with the AttorneyGeneral ;
-
-(b) be  removable  and  be  subject  to  the  disciplinary control  of  the  president  on  the  recommendation  of the Judicial Service Commission.] ;
-
-- Subject to the provisions of paragraph (2) of this Article, Parliament  may  by  law  provide  for  matters  relating  to  the retirement of the Judge of such High Court.
-
-> 78 -	 Original para. (1)  substituted by Sec. 2 of  the Eleventh Amendment to the  Constitution.
-
-> 79 -	 Original para. (2)  substituted by Sec 12(1) of the Seventeenth Amendment to the Constitution.
+(2) If any Judge of the Supreme Court or of the Court of Appeal is temporarily unable to exercise, perform and discharge the powers, duties and functions of his office, by reason of illness, absence from Sri Lanka or any other cause, the President may, subject to the approval of the Constitutional Council, appoint another Judge to act as a Judge of the Supreme Court or Court of Appeal, during such period. ]
 
 #### Performance or discharge of other duties or functions by Judges
 
+110. (1) A Judge of the Supreme Court or Court of Appeal may be required by the President of the Republic to perform or discharge any other appropriate duties or functions under any written law.
+
+(2) No Judge of the Supreme Court or Court of Appeal shall perform any other office (whether paid or not) or accept any place of profit or emolument, except as authorized by the Constitution or by written law or with the written consent of the President.
+
+(3) No person who has held office as a permanent Judge of the Supreme Court or of the Court of Appeal may appear, plead, act or practise in any court, tribunal or institution as an Attorney-at-law at any time without the written consent of the President.
+
 #### Appointment, removal and disciplinary control of Judges of the High Court.
+
+111. 78[(1) There shall be a High Court of Sri Lanka, which shall exercise such jurisdiction and powers as Parliament may by law vest or ordain.]
+
+79[(2) The Judges of the High Court shall -
+
+(a) on the recommendation of the Judicial Service Commission, be appointed by the President by warrant under his hand and such recommendation shall be made after consultation with the Attorney-General ;
+
+(b) be removable and be subject to the disciplinary control of the president on the recommendation of the Judicial Service Commission.] ;
+
+(3) Subject to the provisions of paragraph (2) of this Article, Parliament may by law provide for matters relating to the retirement of the Judge of such High Court.
+
+> 78 -	 Original para. (1) substituted by Sec. 2 of the Eleventh Amendment to the Constitution.
+
+> 79 -	 Original para. (2) substituted by Sec 12(1) of the Seventeenth Amendment to the Constitution.
 
 [[END OF PAGE 111]]
 
@@ -2994,23 +3469,23 @@ Council, appoint another Judge of the Supreme Court, or of the Court of Appeal, 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+80[(4) Any Judge of the High Court may resign his office by writing under his hand addressed to the President.]
+
 #### Commissioners of the High Court
+
+81[111A. (1) Where the Minister in charge of the subject of Justice represents to the President that it is expedient that the number of the Judges exercising the jurisdiction and powers of the High Court in any judicial zone should be temporarily increased 82[the President may, on the recommendation of the Judicial Service Commission, by warrant, appoint], one or more Commissioners of the High Court to exercise the jurisdiction and powers of the High Court within such judicial zone as is specified in the warrant of appointment of such Commissioner of the High Court.
+
+(2) Every Commissioner of the High Court appointed under paragraph (1) shall hold office for the period specified in his warrant of appointment and shall be removable, and be subject to disciplinary control, by the President, on the recommendation of the Judicial Service Commission.
+
+(3) Every Commissioner of the High Court appointed under paragraph (1) may, during his tenure of office, exercise, according to law, such jurisdiction and powers as is, or are, vested or ordained in the High Court by Parliament and shall be invested with all the rights, powers privileges and immunities (except such rights and privileges as relate to tenure of office) of a Judge of the High Court, and for this purpose, a reference to a “Judge of the High Court” in the Constitution or other written law shall, unless the context otherwise requires, be deemed to include a reference to a “Commissioner of the High Court”.]
 
 #### Fiscal for the whole Island
 
+83[111B. There shall be a Fiscal, who shall be the Fiscal for the whole Island and who shall exercise supervision and control over Deputy Fiscals attached to all Courts of First Instance.]
+
 #### Interference with judiciary an offence
 
-- 80 [(4) Any Judge of the High Court may resign his office by writing under his hand addressed to the President.]
-
-- 81 [ 111A. (1) Where the Minister in charge of the subject of Justice represents to the President that it is expedient that the number  of  the  Judges  exercising  the  jurisdiction  and  powers of  the  High  Court  in  any  judicial  zone  should  be  temporarily increased 82 [the President may, on the recommendation of the Judicial Service Commission, by warrant, appoint], one or more Commissioners of the High Court to exercise the jurisdiction and powers of the High Court within such judicial zone as is specified in the warrant of appointment of such Commissioner of the High Court.
-
-- Every Commissioner of the High Court appointed under paragraph (1)  shall  hold  office  for  the  period  specified  in  his warrant of appointment and shall be removable, and be subject to disciplinary control, by the President, on the recommendation of the Judicial Service Commission.
-
-- Every  Commissioner  of  the  High  Court  appointed under paragraph (1) may, during his tenure of office, exercise, according  to  law,  such  jurisdiction  and  powers  as  is,  or  are, vested or ordained in the High Court by Parliament and shall be invested with all the rights, powers privileges and immunities (except such rights and privileges as relate to tenure of office) of a Judge of the High Court, and for this purpose, a reference to a 'Judge of the High Court' in the Constitution or other written law shall, unless the context otherwise requires, be deemed to include a reference to a 'Commissioner of the High Court'.]
-
-- 83 [ 111B. There shall be a Fiscal, who shall be the Fiscal for the whole Island and who shall exercise supervision and control over Deputy Fiscals attached to all Courts of First Instance.]
-
-- 84 [ 111C. ] (1) Every judge, presiding officer, public officer or other person entrusted by law with judicial powers or functions or with functions under this Chapter or with similar functions under any law enacted by Parliament shall exercise and perform such powers and functions without being subject to any direction
+84[111C.] (1) Every judge, presiding officer, public officer or other person entrusted by law with judicial powers or functions or with functions under this Chapter or with similar functions under any law enacted by Parliament shall exercise and perform such powers and functions without being subject to any direction
 
 > 80 -	 Inserted by the Seventeenth Amendment to the Constitution Sec  12(2)
 
@@ -3042,29 +3517,29 @@ or other interference proceeding from any other person except a superior court, 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Constitution of the Judicial Service Commission
-
-#### Meetings of the Commission
-
-## 85 [ CHAPTER XV A
+## 85[ CHAPTER XV A
 
 ### JUDICIAL SERVICE COMMISSION
 
-- 86 [ 111D. (1) There shall be a Judicial Service Commission (in this Chapter referred to as the 'Commission') consisting of the Chief Justice and the two most senior Judges of the Supreme Court appointed by the President, subject to the  approval of the Constitutional Council.
+#### Constitution of the Judicial Service Commission
 
-- Where the Chief Justice and the two most senior Judges of the Supreme Court are Judges who have not had any judicial experience serving as a Judge of a Court of First Instance, the Commission shall consist of the Chief Justice, the senior most Judge of the Supreme Court and the next most senior Judge of such Court, who has had  experience as a Judge of a Court of First Instance.
+86[111D. (1) There shall be a Judicial Service Commission (in this Chapter referred to as the “Commission”) consisting of the Chief Justice and the two most senior Judges of the Supreme Court appointed by the President, subject to the approval of the Constitutional Council.
 
-- The  Chief Justice shall be the Chairman  of  the Commission. ]
+(2) Where the Chief Justice and the two most senior Judges of the Supreme Court are Judges who have not had any judicial experience serving as a Judge of a Court of First Instance, the Commission shall consist of the Chief Justice, the senior most Judge of the Supreme Court and the next most senior Judge of such Court, who has had experience as a Judge of a Court of First Instance.
 
-- 111E. (1) The quorum for any meeting of the Commission shall be two members of the Commission.
+(3) The Chief Justice shall be the Chairman of the Commission. ]
 
-- A Judge of the Supreme Court appointed as a member of the Commission shall, unless he earlier resigns his office or is removed therefrom as hereinafter provided or ceases to be a Judge of the Supreme Court, hold office for a period of three years from the date of his appointment, but shall be eligible for re-appointment.
+#### Meetings of the Commission
 
-- All  decisions  of  the  Commission  shall  be  made  by  a majority of the members present, and in the event of an equality of votes, the Chairman of the meeting shall have a casting vote.
+111E. (1) The quorum for any meeting of the Commission shall be two members of the Commission.
 
-- The Commission shall have power to act notwithstanding any vacancy in its membership and no act or proceeding of the Commission shall be, or be deemed to be invalid by reason only of such vacancy or any defect in the appointment of a member.
+(2) A Judge of the Supreme Court appointed as a member of the Commission shall, unless he earlier resigns his office or is removed therefrom as hereinafter provided or ceases to be a Judge of the Supreme Court, hold office for a period of three years from the date of his appointment, but shall be eligible for re-appointment.
 
-- 87 [  (5)  The  President  may  grant  to  any  member  of  the Commission leave from duties and may appoint subject to the approval of the Constitutional Council, a person qualified to be a member of the Commission to be a temporary member for the period of such leave.
+(3) All decisions of the Commission shall be made by a majority of the members present, and in the event of an equality of votes, the Chairman of the meeting shall have a casting vote.
+
+(4) The Commission shall have power to act notwithstanding any vacancy in its membership and no act or proceeding of the Commission shall be, or be deemed to be invalid by reason only of such vacancy or any defect in the appointment of a member.
+
+87[ (5) The President may grant to any member of the Commission leave from duties and may appoint subject to the approval of the Constitutional Council, a person qualified to be a member of the Commission to be a temporary member for the period of such leave.
 
 > 85 -	 Chapter XVA, Articles 111D to 111M, inserted by the Seventeenth Amendment to the Constitution Sec.16
 
@@ -3080,37 +3555,33 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 97
 
-- The President may, with the approval of the Constitutional Council, and for cause assigned, remove from office any member of the Commission. ]
-
-111F. A  member  of  the  Commission  shall  be  paid  such allowances as may be determined by Parliament. Such allowances shall be charged on the Consolidated Fund and shall not be reduced during the period of office of a member and shall be in addition to the salary and other allowances attached to and received from, the substantive appointment :
-
-Provided that until the amount to be paid as allowances is determined under the provisions of this Article, the members of the Commission shall continue to receive as allowances, such amount as they were receiving on the day immediately preceding the date on which this Chapter comes into operation.
-
-- 111G. There shall be a Secretary to the Commission who shall  be  appointed  by  the  Commission  from  among  senior judicial officers of the Courts of First Instance.
-
-- 111H. (1) The Judicial Service Commission is hereby vested with the Power to -
-
-(a) transfer judges of the High Court ;
-
-(b) appoint, promote, transfer, exercise disciplinary control  and  dismiss  judicial  officers  and  scheduled pubilc officers.
-
-- The Commission may make -
-
-(a) rules  regarding  training  of  Judges  of  the  High Court,  the  schemes  for  recruitment  and  training, appointment,  promotion  and  transfer  of  judicial officers and scheduled public officers ;
-
-(b) provision  for such  matters  as are  necessary  or expedient for the exercise, performance and discharge of the powers, duties and functions of the Commission.
-
-- The Chairman of the Commission or any Judge of the Supreme  Court  or  Judge  of  the  Court  of  Appeal  as  the  case may be, authorized by the Commission shall have power and authority to inspect any Court of First Instance, or the records, registers and other documents maintained in such Court, or hold such inquiry as may be necessary.
+(6) The President may, with the approval of the Constitutional Council, and for cause assigned, remove from office any member of the Commission. ]
 
 #### Allowances of members of the Commission
 
+111F. A member of the Commission shall be paid such allowances as may be determined by Parliament. Such allowances shall be charged on the Consolidated Fund and shall not be reduced during the period of office of a member and shall be in addition to the salary and other allowances attached to and received from, the substantive appointment :
+
+Provided that until the amount to be paid as allowances is determined under the provisions of this Article, the members of the Commission shall continue to receive as allowances, such amount as they were receiving on the day immediately preceding the date on which this Chapter comes into operation.
+
 #### Secretary to the Commission
 
+111G. There shall be a Secretary to the Commission who shall be appointed by the Commission from among senior judicial officers of the Courts of First Instance.
+
 #### Powers of the Commission
-#### Judicial officers and scheduled public officers may resign
-#### Immunity from legal proceedings
-#### Interference with the Commission an offence
-#### Interpretation
+
+111H. (1) The Judicial Service Commission is hereby vested with the Power to -
+
+(a) transfer judges of the High Court ;
+
+(b) appoint, promote, transfer, exercise disciplinary control and dismiss judicial officers and scheduled pubilc officers.
+
+(2) The Commission may make -
+
+(a) rules regarding training of Judges of the High Court, the schemes for recruitment and training, appointment, promotion and transfer of judicial officers and scheduled public officers ;
+
+(b) provision for such matters as are necessary or expedient for the exercise, performance and discharge of the powers, duties and functions of the Commission.
+
+(3) The Chairman of the Commission or any Judge of the Supreme Court or Judge of the Court of Appeal as the case may be, authorized by the Commission shall have power and authority to inspect any Court of First Instance, or the records, registers and other documents maintained in such Court, or hold such inquiry as may be necessary.
 
 [[END OF PAGE 115]]
 
@@ -3120,17 +3591,25 @@ Provided that until the amount to be paid as allowances is determined under the 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- The Commission may by Order published in the Gazette delegate  to  the  Secretary  to  the  Commission  the  power  to make  transfers  in  respect  of  scheduled  public  officers,  other than  transfers  involving  increase  of  salary,  or  to  make  acting appointments in such cases and subject to such limitations as may be specified in the Order.
+(4) The Commission may by Order published in the Gazette delegate to the Secretary to the Commission the power to make transfers in respect of scheduled public officers, other than transfers involving increase of salary, or to make acting appointments in such cases and subject to such limitations as may be specified in the Order.
 
-- 111J. Any judicial officer or scheduled public officer may resign  his  office  by  writing  under  his  hand  addressed  to  the Chairman of the Commission.
+#### Judicial officers and scheduled public officers may resign
 
-- 111K. No suit or proceeding shall lie against the Chairman, Member  or  Secretary  or  Officer  of  the  Commission  for  any lawful  act  which  in  good  faith  is  done  in  the  performance  of his duties or functions as such Chairman, Member, Secretary or Officer of the Commission.
+111J. Any judicial officer or scheduled public officer may resign his office by writing under his hand addressed to the Chairman of the Commission.
 
-- 111L. (1)  Every person who otherwise than in the course of such persons lawful duty, directly or indirectly, alone or by or with any other person, in any manner whatsoever, influences or  attempts  to  influence  any  decision  or  order  made  by  the Commission or to  so  influence  any  member  thereof,  shall  be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for  a  term  not  exceeding three years or to both such fine and imprisonment :
+#### Immunity from legal proceedings
 
-Provided however  that the giving of a certificate or testimonial to any applicant or candidate for any judicial office or scheduled public office shall not be an offence.
+111K. No suit or proceeding shall lie against the Chairman, Member or Secretary or Officer of the Commission for any lawful act which in good faith is done in the performance of his duties or functions as such Chairman, Member, Secretary or Officer of the Commission.
 
-- Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
+#### Interference with the Commission an offence
+
+111L. (1) Every person who otherwise than in the course of such persons lawful duty, directly or indirectly, alone or by or with any other person, in any manner whatsoever, influences or attempts to influence any decision or order made by the Commission or to so influence any member thereof, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding three years or to both such fine and imprisonment :
+
+Provided however that the giving of a certificate or testimonial to any applicant or candidate for any judicial office or scheduled public office shall not be an offence.
+
+(2) Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
+
+#### Interpretation
 
 111M. (a) In this Chapter -
 
@@ -3152,11 +3631,15 @@ performs arbitral functions or a public officer whose principal duty is not the 
 
 (b)  No court, tribunal or institution shall have jurisdiction to entertain or to determine the question whether or not a person is a judicial officer within the meaning of the Constitution, but such question shall be determined solely by the Commission, whose decision thereon shall be final and conclusive.
 
-(c)  No act of such person or proceeding held before such person,  prior  to  such  determination  as  is  referred  to  in  subparagraph (b), shall be deemed to be invalid by reason of such determination.]
+(c) No act of such person or proceeding held before such person, prior to such determination as is referred to in sub-paragraph (b), shall be deemed to be invalid by reason of such determination.]
 
-- 88 [ 112.
-
-- Repealed 113. Repealed 113 A. Repealed 114. Repealed 115. Repealed ] 89 [ 116. Renumbered as Article 111C ] 88 [ 117. Repealed  ]
+88[ 112. Repealed
+113. Repealed
+113 A. Repealed
+114. Repealed
+115. Repealed ]
+89[116. Renumbered as Article 111C ]
+88[117. Repealed ]
 
 > 88 -	 Repealed by the Seventeenth Amendment to the Constitution Sec.17
 
@@ -3170,17 +3653,13 @@ performs arbitral functions or a public officer whose principal duty is not the 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### General jurisdiction of Supreme Court
-
-#### Constitution of Supreme Court
-
-#### Constitutional Jurisdiction of the Supreme Court
-
 ## CHAPTER XVI
 
 ### THE SUPERIOR COURTS
 
 ### The Supreme Court
+
+#### General jurisdiction of Supreme Court
 
 118. The Supreme Court of the Republic of Sri Lanka shall be the highest and final superior Court of record in the Republic and shall subject to the provisions of the Constitution exercise -
 
@@ -3196,17 +3675,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (f) jurisdiction in respect of any breach of the privileges of Parliament ; and
 
-(g) jurisdiction  in  respect  of  such  other  matters  which Parliament may by law vest or ordain.
+(g) jurisdiction in respect of such other matters which Parliament may by law vest or ordain.
 
-(1) The Supreme Court shall consist of the Chief Justice and of not less than six and not more than ten other Judges who shall be appointed as provided in Article 107.
+#### Constitution of Supreme Court
 
-- The Supreme Court shall have power to act notwithstanding  any  vacancy  in  its  membership  and  no  act or proceeding of the Court shall be, or shall be deemed to be, invalid by reason only of any such vacancy or any defect in the appointment of a Judge.
+119. (1) The Supreme Court shall consist of the Chief Justice and of not less than six and not more than ten other Judges who shall be appointed as provided in Article 107.
 
-- The  Supreme  Court  shall  have  sole  and  exclusive jurisdiction to determine any question as to whether any Bill or any provision thereof is inconsistent with the Constitution :
+(2) The Supreme Court shall have power to act notwithstanding any vacancy in its membership and no act or proceeding of the Court shall be, or shall be deemed to be, invalid by reason only of any such vacancy or any defect in the appointment of a Judge.
+
+#### Constitutional Jurisdiction of the Supreme Court
+
+120. The Supreme Court shall have sole and exclusive jurisdiction to determine any question as to whether any Bill or any provision thereof is inconsistent with the Constitution :
 
 Provided that -
 
-(a) in  the  case  of  a  Bill  described  in  its  long  title  as being  for  the  amendment  of  any  provision  of  the Constitution, or for the repeal and replacement of the Constitution, the only question which the Supreme Court may determine is whether such Bill requires approval by the People at a Referendum by virtue of the provisions of Article 83;
+(a) in the case of a Bill described in its long title as being for the amendment of any provision of the Constitution, or for the repeal and replacement of the Constitution, the only question which the Supreme Court may determine is whether such Bill requires approval by the People at a Referendum by virtue of the provisions of Article 83;
 
 [[END OF PAGE 118]]
 
@@ -3222,8 +3705,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (d) where  the  Cabinet  of  Ministers  certifies  that  any provision of any Bill which is not described in its long title as being for the amendment of any provision of the  Constitution  or  for  the  repeal  and  replacement of the constitution is intended to be passed with the special  majority  required  by  Article  84,  the  only question  which  the  Supreme  Court  may  determine is whether any other provision of such Bill requires to  be  passed  with  the  special  majority  required  by Article  84  or  whether  any  provision  of  such  Bill requires the approval by the People at a Referendum by virtue of the provisions of Article 83 or whether such Bill is required to comply with the provisions of paragraphs (1); and (2) of Article 82.
 
-121. (1) The jurisdiction of the Supreme Court to ordinarily determine any such question as aforesaid may be invoked by the President by a written reference addressed to the Chief Justice, or by any citizen by a petition in writing addressed to the Supreme Court. Such reference shall be made, or such petition shall be filed,  within  one  week  of  the  Bill  being  placed  on  the  Order Paper of the Parliament and a copy thereof shall at the same time be delivered to the Speaker. In this paragraph 'citizen' includes a body, whether incorporated or unincorporated, if not less than
 #### Ordinary exercise of constitutional jurisdiction in respect of Bills
+
+121. (1) The jurisdiction of the Supreme Court to ordinarily determine any such question as aforesaid may be invoked by the President by a written reference addressed to the Chief Justice, or by any citizen by a petition in writing addressed to the Supreme Court. Such reference shall be made, or such petition shall be filed, within one week of the Bill being placed on the Order Paper of the Parliament and a copy thereof shall at the same time be delivered to the Speaker. In this paragraph “citizen” includes a body, whether incorporated or unincorporated, if not less than
 
 [[END OF PAGE 119]]
 
@@ -3233,29 +3717,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Determination of Supreme Court in respect of Bills
-
 three-fourths of the members of such body are citizens.
 
-- Where the jurisdiction of the Supreme Court has been so invoked no proceedings shall be had in Parliament in relation to such Bill until the determination of the Supreme Court has been made, or the expiration of a period of three weeks from the date of such reference or petition, whichever occurs first.
+(2) Where the jurisdiction of the Supreme Court has been so invoked no proceedings shall be had in Parliament in relation to such Bill until the determination of the Supreme Court has been made, or the expiration of a period of three weeks from the date of such reference or petition, whichever occurs first.
 
-- The  Supreme  Court  shall  make  and  communicate  its determination to the President and to the Speaker within three weeks of the making of the reference or the filing of the petition, as the case may be.
+(3) The Supreme Court shall make and communicate its determination to the President and to the Speaker within three weeks of the making of the reference or the filing of the petition, as the case may be.
 
-90 [ 122. Repealed ]
+90[122. Repealed ]
 
-(1) The determination of the Supreme Court shall be accompanied by the reasons therefor and shall state whether the Bill or any provision thereof is inconsistent with the Constitution and if so, which provision or provisions of the Constitution.
+#### Determination of Supreme Court in respect of Bills
 
-- Where the Supreme Court determines that the Bill or any provision thereof is inconsistent with the Constitution, it shall also state -
+123. (1) The determination of the Supreme Court shall be accompanied by the reasons therefor and shall state whether the Bill or any provision thereof is inconsistent with the Constitution and if so, which provision or provisions of the Constitution.
 
-(a) whether  such  Bill  is  required  to  comply  with  the provisions of paragraphs (1) and (2) of Article 82 ; or
+(2) Where the Supreme Court determines that the Bill or any provision thereof is inconsistent with the Constitution, it shall also state -
+
+(a) whether such Bill is required to comply with the provisions of paragraphs (1) and (2) of Article 82 ; or
 
 (b) whether such Bill or any provision thereof may only be passed by the special majority required under the provisions of paragraph (2) of Article 84 ; or
 
-(c) whether such Bill or any provision thereof requires to be passed by the special majority required under the  provisions  of  paragraph  (2)  of  Article  84  and approved by the People at a Referendum by virtue of the provisions of Article 83, and may specify the nature  of  the  amendments  which  would  make  the Bill or such provision cease to be inconsistent.
+(c) whether such Bill or any provision thereof requires to be passed by the special majority required under the provisions of paragraph (2) of Article 84 and approved by the People at a Referendum by virtue of the provisions of Article 83, and may specify the nature of the amendments which would make the Bill or such provision cease to be inconsistent.
 
-- 91 [ (3) Repealed ]
+91[(3) Repealed ]
 
-- Where  any  Bill,  or  the  provision  of  any  Bill,  has been  determined  or  is  deemed  to  have  been  determined, to  be  inconsistent  with  the  Constitution,  such  Bill  or  such provision shall not be passed except in the manner stated in the determination of the Supreme Court :
+(4) Where any Bill, or the provision of any Bill, has been determined or is deemed to have been determined, to be inconsistent with the Constitution, such Bill or such provision shall not be passed except in the manner stated in the determination of the Supreme Court :
 
 > 90 -	 Article 122 repealed by the Nineteenth Amendment to the Constitution Sec.30
 
@@ -3271,25 +3755,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Provided that it shall be lawful for such Bill to be passed after such amendment as would make the Bill cease to be inconsistent with the Constitution.
 
-124. Save  as  otherwise 92 [provided  in  Articles  120  and 121],  no  court  or  tribunal  created  and  established  for  the administration of justice or other institution, person or body of persons shall in relation to any Bill, have power or jurisdiction to inquire into, or pronounce upon, the constitutionality of such Bill or its due compliance with the legislative process, on any ground whatsoever.
-
-125. (1)  The Supreme Court shall have sole and exclusive jurisdiction to hear and determine any question relating to the interpretation  of  the  Constitution  and  accordingly,  whenever any  such  question  arises  in  the  course  of  any  proceedings  in any other court or tribunal or other institution empowered by law to administer justice or to exercise judicial or quasi-judicial functions,  such  question  shall  forthwith  be  referred  to  the Supreme Court for determination. The Supreme Court may direct that further proceedings be stayed pending the determination of such question.
-
-(2)  The  Supreme  Court  shall  determine  such  question within two months of the date of reference and make any such consequential order as the circumstances of the case may require.
-
-126. (1) The Supreme Court shall have sole and exclusive jurisdiction  to  hear  and  determine  any  question  relating  to the  infringement  or  imminent  infringement  by  executive  or administrative action of any fundamental right or language right declared and recognized by Chapter III or Chapter IV.
-
-(2)  Where  any  person  alleges  that  any  such  fundamental right or language right relating to such person has been infringed or is about to be infringed by executive or administrative action, he may himself or by an attorney-at-law on his behalf, within one month thereof, in accordance with such rules of court  as may be in force, apply to the Supreme Court by way of petition in writing addressed to such Court praying for relief or redress in respect of such infringement. Such application may be proceeded with only with leave to proceed first had and obtained from the Supreme Court, which leave may be granted or refused, as the case may be, by not less than two judges.
-
-> 92 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.32 for the words "provided in Articles 120, 121 and 122"
-
 #### Validity of Bills and legislative process not to be questioned
+
+124. Save as otherwise 92[provided in Articles 120 and 121], no court or tribunal created and established for the administration of justice or other institution, person or body of persons shall in relation to any Bill, have power or jurisdiction to inquire into, or pronounce upon, the constitutionality of such Bill or its due compliance with the legislative process, on any ground whatsoever.
 
 #### Constitutional jurisdiction in the interpretation of the Constitution
 
+125. (1) The Supreme Court shall have sole and exclusive jurisdiction to hear and determine any question relating to the interpretation of the Constitution and accordingly, whenever any such question arises in the course of any proceedings in any other court or tribunal or other institution empowered by law to administer justice or to exercise judicial or quasi-judicial functions, such question shall forthwith be referred to the Supreme Court for determination. The Supreme Court may direct that further proceedings be stayed pending the determination of such question.
+
+(2) The Supreme Court shall determine such question within two months of the date of reference and make any such consequential order as the circumstances of the case may require.
+
 #### Fundamental rights jurisdiction and its exercise
-#### Appellate jurisdiction
-#### Right of appeal
+
+126. (1) The Supreme Court shall have sole and exclusive jurisdiction to hear and determine any question relating to the infringement or imminent infringement by executive or administrative action of any fundamental right or language right declared and recognized by Chapter III or Chapter IV.
+
+(2) Where any person alleges that any such fundamental right or language right relating to such person has been infringed or is about to be infringed by executive or administrative action, he may himself or by an attorney-at-law on his behalf, within one month thereof, in accordance with such rules of court as may be in force, apply to the Supreme Court by way of petition in writing addressed to such Court praying for relief or redress in respect of such infringement. Such application may be proceeded with only with leave to proceed first had and obtained from the Supreme Court, which leave may be granted or refused, as the case may be, by not less than two judges.
+
+> 92 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.32 for the words "provided in Articles 120, 121 and 122"
 
 [[END OF PAGE 121]]
 
@@ -3299,17 +3781,21 @@ Provided that it shall be lawful for such Bill to be passed after such amendment
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- Where in the course of hearing in the Court of  Appeal into an application for orders in the nature of a writ of habeas corpus, certiorari, prohibition, procedendo, mandamus or quo warranto , it  appears  to  such  Court  that  there  is  prima  facie  evidence  of an infringement or imminent infringement of the provisions of Chapter III or Chapter IV by a party to such application, such Court shall forthwith refer such matter for determination by the Supreme Court.
+(3) Where in the course of hearing in the Court of Appeal into an application for orders in the nature of a writ of habeas corpus, certiorari, prohibition, procedendo, mandamus or quo warranto, it appears to such Court that there is prima facie evidence of an infringement or imminent infringement of the provisions of Chapter III or Chapter IV by a party to such application, such Court shall forthwith refer such matter for determination by the Supreme Court.
 
-- The Supreme Court shall have power to grant such relief or make such directions as it may deem just and equitable in the circumstance in respect of any petition or reference referred to in paragraphs (2) and (3) of this Article or refer the matter back to the Court of Appeal if in its opinion there is no infringement of a fundamental right or language right.
+(4) The Supreme Court shall have power to grant such relief or make such directions as it may deem just and equitable in the circumstance in respect of any petition or reference referred to in paragraphs (2) and (3) of this Article or refer the matter back to the Court of Appeal if in its opinion there is no infringement of a fundamental right or language right.
 
-- The Supreme Court shall hear and finally dispose of any petition or reference under this Article within two months of the filing of such petition or the making of such reference.
+(5) The Supreme Court shall hear and finally dispose of any petition or reference under this Article within two months of the filing of such petition or the making of such reference.
 
-(1)  The Supreme Court shall, subject to the Constitution, be the final Court of civil and criminal appellate jurisdiction for and within the Republic of Sri Lanka for the correction of all errors in fact or in law which shall be committed by the Court of Appeal or any Court of First Instance, tribunal or other institution and the judgements and orders of the Supreme Court shall in all cases be final and conclusive in all such matters.
+#### Appellate jurisdiction
 
-- The  Supreme Court shall, in the exercise of its jurisdiction, have sole and exclusive cognizance by way of appeal from any order,  judgement,  decree,  or  sentence  made  by  the  Court  of Appeal, where any appeal lies in law to the Supreme Court and it may affirm, reverse or vary any such order, judgement, decree or sentence of the Court of Appeal and may issue such directions to any Court of First Instance or order a new trial or further hearing in  any proceedings as the justice of the case may require and may also call for and admit fresh or additional evidence if the interests of justice so demands and may in such event, direct that such evidence be recorded by the Court of Appeal or any Court of First Instance.
+127. (1) The Supreme Court shall, subject to the Constitution, be the final Court of civil and criminal appellate jurisdiction for and within the Republic of Sri Lanka for the correction of all errors in fact or in law which shall be committed by the Court of Appeal or any Court of First Instance, tribunal or other institution and the judgements and orders of the Supreme Court shall in all cases be final and conclusive in all such matters.
 
-- l28. (1) An appeal shall lie to the Supreme Court from any final order, judgement, decree or sentence of the Court of Appeal in any matter or proceedings, whether civil or criminal, which involves a substantial question of law, if the Court of Appeal
+(2) The Supreme Court shall, in the exercise of its jurisdiction, have sole and exclusive cognizance by way of appeal from any order, judgement, decree, or sentence made by the Court of Appeal, where any appeal lies in law to the Supreme Court and it may affirm, reverse or vary any such order, judgement, decree or sentence of the Court of Appeal and may issue such directions to any Court of First Instance or order a new trial or further hearing in any proceedings as the justice of the case may require and may also call for and admit fresh or additional evidence if the interests of justice so demands and may in such event, direct that such evidence be recorded by the Court of Appeal or any Court of First Instance.
+
+#### Right of appeal
+
+128. (1) An appeal shall lie to the Supreme Court from any final order, judgement, decree or sentence of the Court of Appeal in any matter or proceedings, whether civil or criminal, which involves a substantial question of law, if the Court of Appeal
 
 [[END OF PAGE 122]]
 
@@ -3327,14 +3813,13 @@ grants leave to appeal to the Supreme Court ex mero motu or at the instance of a
 
 (4) An appeal shall lie directly to the Supreme Court on any matter and in the manner specifically provided for by any other law passed by Parliament.
 
-129. (1)  If  at  any  time  it  appears  to  the  President  of  the Republic that a question of law or fact has arisen or is likely to arise which is of such nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court upon it, he may refer that question to that Court for consideration and the Court may, after such hearing as it thinks fit, within the period specified in such reference or within such time as may be extended by the President, report to the President its opinion thereon.
+#### Consultative jurisdiction
 
-(2)  Where  the  Speaker  refers  to  the  Supreme  Court  for inquiry and report all or any of the allegation or allegations, as the case may be, contained in any such resolution as is referred to  in Article  38(2)(a),  the  Supreme  Court  shall  in  accordance with Article 38(2)(d) inquire into such allegation or allegations and  shall  report  its  determination  to  the  Speaker  within  two months of the date of reference.
+129. (1) If at any time it appears to the President of the Republic that a question of law or fact has arisen or is likely to arise which is of such nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court upon it, he may refer that question to that Court for consideration and the Court may, after such hearing as it thinks fit, within the period specified in such reference or within such time as may be extended by the President, report to the President its opinion thereon.
+
+(2) Where the Speaker refers to the Supreme Court for inquiry and report all or any of the allegation or allegations, as the case may be, contained in any such resolution as is referred to in Article 38(2)(a), the Supreme Court shall in accordance with Article 38(2)(d) inquire into such allegation or allegations and shall report its determination to the Speaker within two months of the date of reference.
 
 (3) Such opinion, determination and report shall be expressed after consideration by at least five Judges of the Supreme Court, of whom, unless he otherwise directs, the Chief Justice shall be one.
-
-#### Consultative jurisdiction
-#### Jurisdiction in 93 [election and referendum petitions]
 
 [[END OF PAGE 123]]
 
@@ -3344,34 +3829,37 @@ grants leave to appeal to the Supreme Court ex mero motu or at the instance of a
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Jurisdiction in respect of the breaches of Parliamentary privileges
-#### Sittings of the Supreme Court
+(4) Every proceeding under paragraph (1) of this Article shall be held in private unless the Court for special reasons otherwise directs.
 
-- Every  proceeding  under  paragraph  (1)  of  this  Article shall  be  held  in  private  unless  the  Court  for  special  reasons otherwise directs.
+#### Jurisdiction in 93 [election and referendum petitions]
 
-- The Supreme Court shall have the power to hear and determine and make such orders as provided for by law on -
+130. The Supreme Court shall have the power to hear and determine and make such orders as provided for by law on -
 
-(a) any  legal  proceeding  relating  to 94 [election  of  the President or the validity of a referendum];
+(a) any legal proceeding relating to 94[election of the President or the validity of a referendum];
 
 (b) any appeal from an order or judgement of the Court of Appeal in an election petition case :
 
-Provided that the hearing and determination of a proceeding relating to the 95 [election of the President or the validity of a referendum  shall  be]  by  at  least  five  Judges  of  the  Supreme Court of whom, unless he otherwise directs, the Chief Justice shall be one.
+Provided that the hearing and determination of a proceeding relating to the 95[election of the President or the validity of a referendum shall be] by at least five Judges of the Supreme Court of whom, unless he otherwise directs, the Chief Justice shall be one.
 
-- The  Supreme  Court  shall  have  according  to  law  the power  to  take  cognizance  of  and  punish  any  person  for  the breach of the privileges of Parliament.
+#### Jurisdiction in respect of the breaches of Parliamentary privileges
 
-(1) The several jurisdictions of the Supreme Court shall be  ordinarily  exercised  at  Colombo  unless  the  Chief  Justice otherwise directs.
+131. The Supreme Court shall have according to law the power to take cognizance of and punish any person for the breach of the privileges of Parliament.
 
-- The jurisdiction of the Supreme Court may be exercised in different matters at the same time by the several Judges of that Court sitting apart :
+#### Sittings of the Supreme Court
 
-Provided that its jurisdiction shall, subject to the provisions of  the  Constitution,  be  ordinarily  exercised  at  all  times  by not  less  than  three  Judges  of  the  Court  sitting  together  as  the Supreme Court.
+132. (1) The several jurisdictions of the Supreme Court shall be ordinarily exercised at Colombo unless the Chief Justice otherwise directs.
 
-- The Chief Justice may -
+(2) The jurisdiction of the Supreme Court may be exercised in different matters at the same time by the several Judges of that Court sitting apart :
+
+Provided that its jurisdiction shall, subject to the provisions of the Constitution, be ordinarily exercised at all times by not less than three Judges of the Court sitting together as the Supreme Court.
+
+(3) The Chief Justice may -
 
 (i) of his own motion ; or
 
 (ii) at the request of two or more Judges hearing any matter ; or
 
-(iii) on  the  application  of  a  party  to  any  appeal,
+(iii) on the application of a party to any appeal,
 
 > 93 -	 Substituted by the Fourteenth Amendment to the Constitution Sec.9(3) for "election petitions"
 
@@ -3387,28 +3875,27 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 107
 
-proceeding  or  matter  if  the  question  involved is  in  the  opinion  of  the  Chief  Justice  one  of general and public importance, direct that such appeal,  proceeding  or  matter  be  heard  by  a Bench comprising five  or  more  Judges  of  the Supreme Court.
+proceeding or matter if the question involved is in the opinion of the Chief Justice one of general and public importance, direct that such appeal, proceeding or matter be heard by a Bench comprising five or more Judges of the Supreme Court.
 
 (4) The judgement of the Supreme Court shall, when it is not an unanimous decision, be the decision of the majority.
 
-133. (1) If at any time there should not be a quorum of the Judges of the Supreme Court available to hold or continue any sittings  of  the  Court,  the  Chief  Justice  may  with  the  previous consent of the President request in writing the attendance at the sittings of the Court as an ad hoc Judge, for such period as may be  necessary,  of  the  President  of  the  Court  of Appeal  or  any Judge of the Court of Appeal.
-
-- It  shall  be  the  duty  of  such  a  Judge  who  had  been  so requested, in priority to other duties of his office, to attend the sittings  of  the  Supreme  Court  at  the  time  and  for  the  period for which his attendance is required and while so attending he shall have all the jurisdictions, powers and privileges and shall perform the duties of a Judge of the Supreme Court.
-
-(1) The Attorney-General shall be noticed and have the right to be heard in all proceedings in the Supreme Court in the exercise of its jurisdiction under Articles 120, 96 [121, 125], 126, 129(1) and 131.
-
-- Any party to any proceedings in the Supreme Court in the exercise of its jurisdiction shall have the right to be heard in such proceedings either in person or by representation by an attorney-at-law.
-
-- The Supreme Court may in its discretion grant to any other person or his legal representative such hearing as may appear to the Court to be necessary in the exercise of its jurisdiction under this Chapter.
-
-- The Registry of the Supreme Court shall be in charge of an officer designated the Registrar of the Supreme Court who shall be subject to the supervision, direction and control of the Chief Justice.
-
 #### Appointment of ad hoc Judges
+
+133. (1) If at any time there should not be a quorum of the Judges of the Supreme Court available to hold or continue any sittings of the Court, the Chief Justice may with the previous consent of the President request in writing the attendance at the sittings of the Court as an ad hoc Judge, for such period as may be necessary, of the President of the Court of Appeal or any Judge of the Court of Appeal.
+
+(2) It shall be the duty of such a Judge who had been so requested, in priority to other duties of his office, to attend the sittings of the Supreme Court at the time and for the period for which his attendance is required and while so attending he shall have all the jurisdictions, powers and privileges and shall perform the duties of a Judge of the Supreme Court.
 
 #### Right to be heard by the Supreme Court
 
+134. (1) The Attorney-General shall be noticed and have the right to be heard in all proceedings in the Supreme Court in the exercise of its jurisdiction under Articles 120, 96[121, 125], 126, 129(1) and 131.
+
+(2) Any party to any proceedings in the Supreme Court in the exercise of its jurisdiction shall have the right to be heard in such proceedings either in person or by representation by an attorney-at-law.
+
+(3) The Supreme Court may in its discretion grant to any other person or his legal representative such hearing as may appear to the Court to be necessary in the exercise of its jurisdiction under this Chapter.
+
 #### Registry of the Supreme Court and office of Registrar
-#### Rules of the Supreme Court
+
+135. The Registry of the Supreme Court shall be in charge of an officer designated the Registrar of the Supreme Court who shall be subject to the supervision, direction and control of the Chief Justice.
 
 96 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.9(3) for " 121, 122, 125"
 
@@ -3420,7 +3907,9 @@ proceeding  or  matter  if  the  question  involved is  in  the  opinion  of  th
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-(1) Subject to the provisions of the Constitution and of any law the Chief Justice with any three Judges of the Supreme Court nominated by him, may, from time to time, make rules regulating  generally  the  practice  and  procedure  of  the  Court including -
+#### Rules of the Supreme Court
+
+136. (1) Subject to the provisions of the Constitution and of any law the Chief Justice with any three Judges of the Supreme Court nominated by him, may, from time to time, make rules regulating generally the practice and procedure of the Court including -
 
 (a) rules as to the procedure for hearing appeals and other matters  pertaining  to  appeals  including  the  terms under which appeals to the Supreme Court and the Court of Appeal are to be entertained and provision for the dismissal of such appeals for non-compliance with such rules ;
 
@@ -3464,11 +3953,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### The Court of Appeal
 
+#### The Court of Appeal
+
 137. The Court of Appeal shall consist of the President of the Court of Appeal and not less than six and not more than eleven other Judges who shall be appointed as provided in Article 107.
 
-138. (1)  The  Court  of  Appeal  shall  have  and  exercise subject to the provisions of the Constitution or of any law, an appellate jurisdiction for the correction of all errors in fact or in law which shall be 98 [committed by the High Court, in the exercise of its appellate or original jurisdiction or by any Court of  First  Instance],  tribunal  or  other  institution  and  sole  and exclusive cognizance, by way of appeal, revision and restitutio in integrum ,  of  all  causes, suits, actions, prosecutions, matters
-#### The Court of Appeal
 #### Jurisdiction of Court of Appeal
+
+138. (1) The Court of Appeal shall have and exercise subject to the provisions of the Constitution or of any law, an appellate jurisdiction for the correction of all errors in fact or in law which shall be 98[committed by the High Court, in the exercise of its appellate or original jurisdiction or by any Court of First Instance], tribunal or other institution and sole and exclusive cognizance, by way of appeal, revision and restitutio in integrum, of all causes, suits, actions, prosecutions, matters
 
 > 98 -	 Substituted by the Thirteenth Amendment to the Constitution Sec.3(a) for "committed by any Court of First Instance."
 
@@ -3480,30 +3971,32 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+and things 99[of which such High Court, Court of First Instance] tribunal or other institution may have taken cognizance :
+
+Provided that no judgement, decree or order of any court shall be reversed or varied on account of any error, defect or irregularity, which has not prejudiced the substantial rights of the parties or occasioned a failure of justice.
+
+(2) The Court of Appeal shall also have and exercise all such powers and jurisdiction, appellate and original, as Parliament may by law vest or ordain.
+
 #### Powers in appeal
+
+139. (1) The Court of Appeal may in the exercise of its jurisdiction, affirm, reverse, correct or modify any order, judgement, decree or sentence according to law or it may give directions to such Court of First Instance, tribunal or other institution or order a new trial or further hearing upon such terms as the Court of Appeal shall think fit.
+
+(2) The Court of Appeal may further receive and admit new evidence additional to, or supplementary of, the evidence already taken in the Court of First Instance touching the matters at issue in any original case, suit, prosecution or action, as the justice of the case may require.
 
 #### Power to issue writs, other than writs of habeas corpus
 
+140. Subject to the provisions of the Constitution, the Court of Appeal shall have full power and authority to inspect and examine the records of any Court of First Instance or tribunal or other institution and grant and issue, according to law, orders in the nature of writs of certiorari, prohibition, procedendo, mandamus and quo warranto against the judge of any Court of First Instance or tribunal or other institution or any other person :
+
+100[provided that Parliament may by law provide that in any such category of cases as may be specified in such law, the jurisdiction conferred on the Court of Appeal by the preceding provisions of this Article shall be exercised by the Supreme Court and not by the Court of Appeal].
+
 #### Power to issue writs of habeas corpus
-and things 99 [of which such High Court, Court of First Instance] tribunal or other institution may have taken cognizance :
 
-Provided that no judgement, decree or order of any court shall  be  reversed  or  varied  on  account  of  any  error,  defect  or irregularity,  which has not prejudiced the substantial rights of the parties or occasioned a failure of justice.
-
-- The Court of Appeal shall also have and exercise all such powers  and  jurisdiction,  appellate  and  original,  as  Parliament may by law vest or ordain.
-
-(1)  The  Court  of  Appeal  may  in  the  exercise  of  its jurisdiction, affirm, reverse, correct or  modify  any  order, judgement, decree or sentence according to law or it may give directions  to  such  Court  of  First  Instance,  tribunal  or  other institution or order a new trial or further hearing upon such terms as the Court of Appeal shall think fit.
-
-- The  Court  of  Appeal  may  further  receive  and  admit new evidence additional to, or supplementary of, the evidence already taken in the Court of First Instance touching the matters at issue in any original case, suit, prosecution or action, as the justice of the case may require.
-
-- Subject to the provisions of the Constitution, the Court of Appeal  shall  have  full  power  and  authority  to  inspect  and examine the records of any Court of First Instance or tribunal or other institution and grant and issue, according to law, orders in  the  nature  of  writs  of certiorari,  prohibition,  procedendo, mandamus and quo warranto against the judge of any Court of First Instance or tribunal or other institution or any other person :
-
-- 100 [provided  that  Parliament  may  by  law  provide  that  in any such category of cases as may be specified in such law, the jurisdiction conferred on the Court of Appeal by the preceding provisions  of  this  Article  shall  be  exercised  by  the  Supreme Court and not by the Court of Appeal].
-
-- The Court of Appeal may grant and issue orders in the nature of writs of habeas corpus to bring up before such Court -
+141. The Court of Appeal may grant and issue orders in the nature of writs of habeas corpus to bring up before such Court –
 
 (a) the body of any person to be dealt with according to law ; or
 
-99 -	 Substituted by the Thirteenth Amendment to the Constitution Sec.3(b) for "of which such Court of First Instance" 100 -	 Inserted by the First Amendment to the Constitution Sec.2 w.e.f. 7th September 1978.
+99 - Substituted by the Thirteenth Amendment to the Constitution Sec.3(b) for "of which such Court of First Instance"
+100 - Inserted by the First Amendment to the Constitution Sec.2 w.e.f. 7th September 1978.
 
 [[END OF PAGE 128]]
 
@@ -3513,28 +4006,27 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 111
 
-(b) the  body  of  any  person  illegally  or  improperly detained in public or private custody,
+(b) the body of any person illegally or improperly detained in public or private custody,
 
-and  to  discharge  or  remand  and  person  so  brought  up  or otherwise deal with such person according to law :
+and to discharge or remand any person so brought up or otherwise deal with such person according to law :
 
-Provided that it shall be lawful for the Court of Appeal to require the body of such person to be brought up before the most convenient  Court  of  First  Instance  and  to  direct  the  judge  of such court to inquire into and report upon the acts of the alleged imprisonment or detention and to make such provision for the interim custody of the body produced as to such court shall seem right ; and the Court of Appeal shall upon the receipt of such report, make order to discharge or remand the person so alleged to be imprisoned or detained or otherwise deal with such person according to law and the Court of First Instance shall conform to and carry into immediate effect, the order so pronounced or made by the Court of Appeal :
+Provided that it shall be lawful for the Court of Appeal to require the body of such person to be brought up before the most convenient Court of First Instance and to direct the judge of such court to inquire into and report upon the facts of the alleged imprisonment or detention and to make such provision for the interim custody of the body produced as to such court shall seem right ; and the Court of Appeal shall upon the receipt of such report, make order to discharge or remand the person so alleged to be imprisoned or detained or otherwise deal with such person according to law and the Court of First Instance shall conform to and carry into immediate effect, the order so pronounced or made by the Court of Appeal :
 
-Provided further that if provision be made by law for the exercise by any court, of jurisdiction in respect of the custody and control of minor children, then the Court of Appeal, if satisfied that any dispute regarding the custody of any such minor child may more properly be dealt with by such court, direct the parties to  make  application  in  that  court  in  respect  of  the  custody  of such minor child.
+Provided further that if provision be made by law for the exercise by any court, of jurisdiction in respect of the custody and control of minor children, then the Court of Appeal, if satisfied that any dispute regarding the custody of any such minor child may more properly be dealt with by such court, direct the parties to make application in that court in respect of the custody of such minor child.
 
-142. The Court of Appeal may direct -
-
-(i) 	 that a prisoner detained in any prison be brought before a court-martial or any Commissioners acting under the authority of any Commission from the President of the Republic for trial or to be examined relating to any matters pending before any such court-martial or Commissioners respectively ; or
-
-(ii)	 that a prisoner detained in prison be removed from one custody to another for purposes of trial.
-
-- The Court of Appeal shall have the power to grant and issue  injunctions  to  prevent  any  irremediable  mischief  which might  ensure  before  a  party  making  an  application  for  such injunction could prevent the same by bringing an action in any Court of First Instance :
-
-Provided that it shall not be lawful for the Court of Appeal to  grant  an  injunction  to  prevent  a  party  to  any  action  in  any court from appealing to or prosecuting an appeal to the Court of Appeal  or  to  prevent  any  party  to  any  action  in  any  court from insisting upon any ground of action, defence or appeal, or to prevent any person from suing or prosecuting in any court, except  where  such  person  has  instituted  two  separate  actions in two different courts for and in respect of the same cause of action, in which case the Court of Appeal shall have the power to intervene by restraining him from prosecuting one or other of such actions as to it may seem fit.
 #### Power to bring up and remove prisoners
+
+142. The Court of Appeal may direct –
+
+(i) that a prisoner detained in any prison be brought before a court-martial or any Commissioners acting under the authority of any Commission from the President of the Republic for trial or to be examined relating to any matters pending before any such court-martial or Commissioners respectively ; or
+
+(ii) that a prisoner detained in prison be removed from one custody to another for purposes of trial.
+
 #### Power to grant injunction
-#### Parliamentary election petitions
-#### Inspection of records
-#### Sittings of the Court of Appeal
+
+143. The Court of Appeal shall have the power to grant and issue injunctions to prevent any irremediable mischief which might ensue before a party making an application for such injunction could prevent the same by bringing an action in any Court of First Instance :
+
+Provided that it shall not be lawful for the Court of Appeal to grant an injunction to prevent a party to any action in any court from appealing to or prosecuting an appeal to the Court
 
 [[END OF PAGE 129]]
 
@@ -3544,25 +4036,33 @@ Provided that it shall not be lawful for the Court of Appeal to  grant  an  inju
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- The Court of Appeal shall have and exercise jurisdiction to try election petitions in respect of the election to the membership of Parliament in terms of any law for the time being applicable in that behalf.
+of Appeal or to prevent any party to any action in any court from insisting upon any ground of action, defence or appeal, or to prevent any person from suing or prosecuting in any court, except where such person has instituted two separate actions in two different courts for and in respect of the same cause of action, in which case the Court of Appeal shall have the power to intervene by restraining him from prosecuting one or other of such actions as to it may seem fit.
 
-- 145 .  The  Court  of Appeal  may, ex  mero  motu or  on  any application made, call for, inspect and examine any record of any Court of First Instance and in the exercise of its revisionary powers may make any order thereon as the interests of justice may require.
+#### Parliamentary election petitions
 
-(1)  The  Court  of Appeal  shall  ordinarily  exercise  its jurisdiction at Colombo :
+144. The Court of Appeal shall have and exercise jurisdiction to try election petitions in respect of the election to the membership of Parliament in terms of any law for the time being applicable in that behalf.
 
-Provided  however  that  the  Chief  Justice  may  from  time to time when he deems it so expedient direct that the Court of Appeal shall hold its sittings and exercise its jurisdiction in any judicial zone or district, specified in the direction.
+#### Inspection of records
 
-- 101 [(2)  The  jurisdiction  of  the  Court  of  Appeal  may  be exercised in different matters at the same time by the several judges of the Court sitting apart :
+145. The Court of Appeal may, ex mero motu or on any application made, call for, inspect and examine any record of any Court of First Instance and in the exercise of its revisionary powers may make any order thereon as the interests of justice may require.
 
-Provided that -
+#### Sittings of the Court of Appeal
 
-(i)	its jurisdiction in respect of -
+146. (1) The Court of Appeal shall ordinarily exercise its jurisdiction at Colombo :
 
-(a) judgements  and  orders of the  High  Court pronounced at a trial at Bar, shall be exercised by at least three Judges of the Court ; and
+Provided however that the Chief Justice may from time to time when he deems it so expedient direct that the Court of Appeal shall hold its sittings and exercise its jurisdiction in any judicial zone or district, specified in the direction.
+
+101[(2) The jurisdiction of the Court of Appeal may be exercised in different matters at the same time by the several judges of the Court sitting apart :
+
+Provided that –
+
+(i) its jurisdiction in respect of –
+
+(a) judgements and orders of the High Court pronounced at a trial at Bar, shall be exercised by at least three Judges of the Court ; and
 
 (b) other judgement and orders of the High Court, shall be exercised by at least two Judges of the Court ;
 
-101 -	 Original para (2) repealed and substituted by the Eleventh Amendment to the Constitution Sec.6
+101 - Original para (2) repealed and substituted by the Eleventh Amendment to the Constitution Sec.6
 
 [[END OF PAGE 130]]
 
@@ -3574,18 +4074,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (ii) its jurisdiction in respect of its powers under Article 144 shall be exercised by the President of the Court of Appeal or any judge of that Court nominated by the President or one or more of such Judges nominated by the President of whom such President may be one;
 
-(iii) its  jurisdiction  in  respect  of  other  matters,  shall  be exercised by a single Judge of the Court, unless the President of the Court of Appeal by general or special order otherwise directs.]
+(iii) its jurisdiction in respect of other matters, shall be exercised by a single Judge of the Court, unless the President of the Court of Appeal by general or special order otherwise directs.]
 
-- In the event of any difference of opinion between two Judges constituting the Bench, the decision of the Court shall be suspended until three Judges shall be present to review such matter.
+(3) In the event of any difference of opinion between two Judges constituting the Bench, the decision of the Court shall be suspended until three Judges shall be present to review such matter.
 
-- The judgment of the Court of Appeal, shall when it is not an unanimous decision, be the decision of the majority.
-
-- The Registry of the Court of Appeal shall be in charge of an Officer designated as the Registrar of the Court of Appeal who shall be subject to the supervision, direction and control of the President of the Court of Appeal.
+(4) The judgment of the Court of Appeal, shall when it is not an unanimous decision, be the decision of the majority.
 
 #### Registry of the Court of Appeal and office of Registrar
-#### Control of Parliament over public finance
-#### Consolidated Fund
-#### Withdrawal of sums from Consolidated Fund
+
+147. The Registry of the Court of Appeal shall be in charge of an Officer designated as the Registrar of the Court of Appeal who shall be subject to the supervision, direction and control of the President of the Court of Appeal.
 
 [[END OF PAGE 131]]
 
@@ -3599,19 +4096,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### FINANCE
 
-- Parliament shall have full control over public finance. No tax,  rate  or  any  other  levy  shall  be  imposed  by  any  local authority or any other public authority, except by or under the authority of a law passed by Parliament or of any existing law.
+#### Control of Parliament over public finance
 
-(1) The funds of the Republic not allocated by law to specific purposes shall form one Consolidated Fund into which shall be paid the produce of all taxes, imposts, rates and duties and all other revenues and receipts of the Republic not allocated to specific purposes.
+148. Parliament shall have full control over public finance. No tax, rate or any other levy shall be imposed by any local authority or any other public authority, except by or under the authority of a law passed by Parliament or of any existing law.
 
-- The interest on the public debt, sinking fund payments, the  costs,  charges  and  expenses  incidental  to  the  collection, management  and  receipt  of  the  Consolidated  Fund  and  such other expenditure as Parliament may determine shall be charged on the Consolidated Fund.
+#### Consolidated Fund
 
-(1) Save as otherwise expressly provided in paragraphs (3) and (4) of this Article, no sum shall be withdrawn from the Consolidated Fund except under the authority of a warrant under the hand of the Minister in charge of the subject of Finance.
+149. (1) The funds of the Republic not allocated by law to specific purposes shall form one Consolidated Fund into which shall be paid the produce of all taxes, imposts, rates and duties and all other revenues and receipts of the Republic not allocated to specific purposes.
 
-- No  such  warrant  shall  be  issued  unless  the  sum  has by  resolution  of  Parliament  or  by  any  law  been  granted  for specified public services for the financial year during which the withdrawal is to take place or is otherwise lawfully, charged on the Consolidated Fund.
+(2) The interest on the public debt, sinking fund payments, the costs, charges and expenses incidental to the collection, management and receipt of the Consolidated Fund and such other expenditure as Parliament may determine shall be charged on the Consolidated Fund.
 
-- Where  the  President  dissolves  Parliament  before  the Appropriation  Bill  for  the  financial  year  has  passed  into  law, he may, unless Parliament shall have already made provision, authorize the issue from  the Consolidated Fund  and  the expenditure of such sums as he may consider necessary for the public services until the expiry of a period of three months from the date on which the new Parliament is summoned to meet.
+#### Withdrawal of sums from Consolidated Fund
 
-- Where  the  President  dissolves  Parliament  and  fixes  a date or dates for a General Election the President may, unless Parliament has already made provision in that behalf, authorize the  issue  from  the  Consolidated  Fund  and  the  expenditure  of such sums as he may, after consultation with the Commissioner of Elections, consider necessary for such elections.
+150. (1) Save as otherwise expressly provided in paragraphs (3) and (4) of this Article, no sum shall be withdrawn from the Consolidated Fund except under the authority of a warrant under the hand of the Minister in charge of the subject of Finance.
+
+(2) No such warrant shall be issued unless the sum has by resolution of Parliament or by any law been granted for specified public services for the financial year during which the withdrawal is to take place or is otherwise lawfully, charged on the Consolidated Fund.
+
+(3) Where the President dissolves Parliament before the Appropriation Bill for the financial year has passed into law, he may, unless Parliament shall have already made provision, authorize the issue from the Consolidated Fund and the expenditure of such sums as he may consider necessary for the public services until the expiry of a period of three months from the date on which the new Parliament is summoned to meet.
+
+(4) Where the President dissolves Parliament and fixes a date or dates for a General Election the President may, unless Parliament has already made provision in that behalf, authorize the issue from the Consolidated Fund and the expenditure of such sums as he may, after consultation with the Commissioner of Elections, consider necessary for such elections.
 
 [[END OF PAGE 132]]
 
@@ -3621,9 +4124,11 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 115
 
-(1)  Notwithstanding  any  of  the  provisions  of Article 149,  Parliament  may  by  law  create  a  Contingencies  Fund  for the purpose of providing for urgent and unforeseen expenditure.
+#### Contingencies Fund
 
-- The  Minister  in  charge  of  the  subject  of  Finance,  if satisfied -
+151. (1) Notwithstanding any of the provisions of Article 149, Parliament may by law create a Contingencies Fund for the purpose of providing for urgent and unforeseen expenditure.
+
+(2) The Minister in charge of the subject of Finance, if satisfied –
 
 (a) that there is need for any such expenditure ; and
 
@@ -3631,15 +4136,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 may, with the consent of the President, authorize provision to be made therefor by an advance from the Contingencies Fund.
 
-- As  soon  as  possible  after  every  such  advance,  a Supplementary Estimate shall be presented to Parliament for the purpose of replacing the amount so advanced.
+(3) As soon as possible after every such advance, a Supplementary Estimate shall be presented to Parliament for the purpose of replacing the amount so advanced.
 
-- No Bill or motion, authorizing the disposal of, or the imposition  of  charges  upon,  the  Consolidated  Fund  or  other funds of the Republic, or the imposition of any tax or the repeal, augmentation or reduction of any tax for the time being in force shall be introduced in Parliament except by a Minister, and unless such Bill or motion has been approved either by the Cabinet of Ministers or in such manner as the Cabinet of Ministers may authorize.
+#### Special provisions as to Bills affecting public revenue
 
-- 102 [(1)  There  shall  be  an Auditor-General  who  shall be  a  qualified  Auditor,  and  subject  to  the  approval  of  the Constitutional Council, be appointed by the President and  shall hold office during good behaviour. ]
+152. No Bill or motion, authorizing the disposal of, or the imposition of charges upon, the Consolidated Fund or other funds of the Republic, or the imposition of any tax or the repeal, augmentation or reduction of any tax for the time being in force shall be introduced in Parliament except by a Minister, and unless such Bill or motion has been approved either by the Cabinet of Ministers or in such manner as the Cabinet of Ministers may authorize.
 
-- The salary of the Auditor-General shall be determined by Parliament, shall be charged on the Consolidated Fund and shall not be diminished during his term of office.
+#### Auditor-General
 
-- The office of the Auditor-General shall become vacant -
+153. 102[(1) There shall be an Auditor-General who shall be a qualified Auditor, and subject to the approval of the Constitutional Council, be appointed by the President and shall hold office during good behaviour. ]
+
+(2) The salary of the Auditor-General shall be determined by Parliament, shall be charged on the Consolidated Fund and shall not be diminished during his term of office.
+
+(3) The office of the Auditor-General shall become vacant -
 
 (a) upon his death ;
 
@@ -3647,18 +4156,11 @@ may, with the consent of the President, authorize provision to be made therefor 
 
 (c) on his attaining the age of sixty years ;
 
-(d) on  his  removal  by  the  President  on  account  of  ill health or physical or mental infirmity ; or
+(d) on his removal by the President on account of ill health or physical or mental infirmity ; or
 
 (e) on his removal by the President upon an address of Parliament.
 
-#### Contingencies Fund
-
-#### Special provisions as to Bills affecting public revenue
-
-#### Auditor-General
-#### Constitution of the Audit Service Commission
-
-102 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.34
+102 - Substituted by the Nineteenth Amendment to the Constitution Sec.34
 
 [[END OF PAGE 133]]
 
@@ -3668,31 +4170,34 @@ may, with the consent of the President, authorize provision to be made therefor 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- 103 [(4) Whenever the Auditor-General is unable to discharge functions of his office, the President may, subject to the approval of the Constitutional Council, appoint a person to act in the place of the Auditor-General. ]
+103[(4) Whenever the Auditor-General is unable to discharge functions of his office, the President may, subject to the approval of the Constitutional Council, appoint a person to act in the place of the Auditor-General. ]
 
-- 104 [ 153A .(1) There shall be an Audit Service Commission (in  this  Chapter  referred  to  as  'Commission'),  which  shall consist  of  the Auditor-General  who  shall  be  the  Chairman  of the Commission, and the following members appointed by the President on the recommendation of the Constitutional Council:-
+#### Constitution of the Audit Service Commission
 
-(a) two retired officers of the Auditor-General's Department,  who  have  held    office  as  a  Deputy Auditor- General or above;
+104[ 153A. (1) There shall be an Audit Service Commission (in this Chapter referred to as “Commission”), which shall consist of the Auditor-General who shall be the Chairman of the Commission, and the following members appointed by the President on the recommendation of the Constitutional Council:-
+
+(a) two retired officers of the Auditor-General’s Department, who have held office as a Deputy Auditor-General or above;
 
 (b) a retired judge of the Supreme Court, Court of Appeal or the High Court of Sri Lanka; and
 
-(c) a  retired  Class  I  officer  of  the  Sri  Lanka  Administrative Service.
+(c) a retired Class I officer of the Sri Lanka Administrative Service.
 
-(a) A person appointed as a member of the Commission shall hold office for three years, unless he,-
+(2) (a) A person appointed as a member of the Commission shall hold office for three years, unless he,–
 
 (i) earlier resigns from his office, by letter addressed to the President;
 
 (ii) is removed from office as hereinafter provided; or
 
-(iii)	 becomes a Member of Parliament or a member of a Provincial Council or any local authority.
+(iii) becomes a Member of Parliament or a member of a Provincial Council or any local authority.
 
-(b)  A  person  appointed  as  a  member  of  the  Commission shall be eligible to be appointed for a further term of office, on the recommendation of the Constitutional Council.
+(b) A person appointed as a member of the Commission shall be eligible to be appointed for a further term of office, on the recommendation of the Constitutional Council.
 
-- The  President  may  for  cause  assigned  and  with  the approval  of  the  Constitutional  Council,  remove  from  office any  person  appointed  as  a  member  of  the  Commission  under paragraph (1).
+(3) The President may for cause assigned and with the approval of the Constitutional Council, remove from office any person appointed as a member of the Commission under paragraph (1).
 
-- The Chairman and the members of the commission shall be paid such allowances as are determined by Parliament. Such allowances shall be charged on the Consolidated Fund and shall not be diminished during the term of office of the Chairman or members.
+(4) The Chairman and the members of the commission shall be paid such allowances as are determined by Parliament. Such allowances shall be charged on the Consolidated Fund and shall not be diminished during the term of office of the Chairman or members.
 
-103 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.34 104 -	 New Articles 153A to 153H inserted by the Nineteenth Amendment to the Constitution Sec.35
+103 - Substituted by the Nineteenth Amendment to the Constitution Sec.34
+104 - New Articles 153A to 153H inserted by the Nineteenth Amendment to the Constitution Sec.35
 
 [[END OF PAGE 134]]
 
@@ -3704,32 +4209,31 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (5) The Chairman and the members of the Commission shall be deemed to be public servants within the meaning and for the purposes of Chapter IX of the Penal Code.
 
-- There shall be a Secretary to the Commission who shall be appointed by the Commission.
+(6) There shall be a Secretary to the Commission who shall be appointed by the Commission.
+
+#### Meeting of the Commission
 
 153B. (1) The quorum for any meeting of the Commission shall be three members of the Commission.
 
-(2)  Parliament  shall,  subject  to  paragraph  (1),  provide  by law for meetings of the Commission, the establishment of the Sri Lanka State Audit Service and such other matters connected with and incidental thereto.
+(2) Parliament shall, subject to paragraph (1), provide by law for meetings of the Commission, the establishment of the Sri Lanka State Audit Service and such other matters connected with and incidental thereto.
 
-153C. (1) The power of appointment, promotion, transfer, disciplinary  control  and  dismissal  of  the  members  belonging to  the  Sri  Lanka  State  Audit  Service,  shall  be  vested  in  the Commission.
+#### Powers and functions of the Commission
 
-- The  Commission  shall  also  exercise,  perform  and discharge the following powers, duties and functions:-
+153C. (1) The power of appointment, promotion, transfer, disciplinary control and dismissal of the members belonging to the Sri Lanka State Audit Service, shall be vested in the Commission.
 
-(a) make  rules  pertaining  to  schemes  of  recruitment, the  appointment,  transfer,  disciplinary  control  and dismissal of the members belonging to the Sri Lanka State Audit Service, subject to any policy determined by the Cabinet of Ministers pertaining to the same;
+(2) The Commission shall also exercise, perform and discharge the following powers, duties and functions:-
+
+(a) make rules pertaining to schemes of recruitment, the appointment, transfer, disciplinary control and dismissal of the members belonging to the Sri Lanka State Audit Service, subject to any policy determined by the Cabinet of Ministers pertaining to the same;
 
 (b) prepare annual estimates of the National Audit Office established by law; and
 
 (c) exercise, perform and discharge such other powers, duties and functions as may be provided for by law.
 
-(3)  The  Commission  shall  cause  the  rules  made  under paragraph (2) to be published in the Gazette.
+(3) The Commission shall cause the rules made under paragraph (2) to be published in the Gazette.
 
-(4)  Every such rule shall come into operation on the date of such publication or on such later date as may be specified in such rules.
+(4) Every such rule shall come into operation on the date of such publication or on such later date as may be specified in such rules.
 
-(5)  Every  such  rule  shall,  within  three  months  of  such publication  in  the  Gazette  be  brought  before  Parliament  for approval. Any rule which is not so approved shall be deemed to be rescinded as from the date of such disapproval, but without prejudice to anything previously done thereunder.
-
-#### Meeting of the Commission
-
-#### Powers and functions of the Commission
-#### Influencing or attempting to influence decision of the Commission or any officer of the Sri Lanka State Audit Service, to be an offence.
+(5) Every such rule shall, within three months of such publication in the Gazette be brought before Parliament for approval. Any rule which is not so approved shall be deemed to be rescinded as from the date of such disapproval, but without prejudice to anything previously done thereunder.
 
 [[END OF PAGE 135]]
 
@@ -3739,31 +4243,33 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+#### Influencing or attempting to influence decision of the Commission or any officer of the Sri Lanka State Audit Service, to be an offence.
+
+153D. (1) A person who otherwise than in the course of his duty, directly or indirectly, by himself or through any other person, in any manner whatsoever, influences or attempts to influence any decision of the Commission, any member thereof or any officer of the Sri Lanka State Audit Service, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding three years or to both such fine and imprisonment.
+
+(2) Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
+
 #### Immunity from legal proceedings.
+
+153E. Subject to the jurisdiction conferred on the Supreme Court under Article 126 and to the powers granted to the Administrative Appeals Tribunal under Article 153g, no court or tribunal shall have the power or jurisdiction to inquire into, pronounce upon or in any manner whatsoever call in question any order or decision made by the Commission, in pursuance of any function assigned on such Commission under this Chapter or under any law.
 
 #### Costs and expenses.
 
+153F. The costs and expenses of the Commission shall be a charge on the Consolidated Fund.
+
 #### Appeals to the Administrative Appeals Tribunal.
 
-#### Commission to be  answerable to Parliament.
+153G. Any officer of the Sri Lanka State Audit Service who is aggrieved by any order relating to the appointment, promotion or transfer of such officer or any order on a disciplinary matter or dismissal made by the Commission, in respect of such officer, may appeal therefrom to the Administrative Appeals Tribunal established under Article 59, which shall have the power to alter, vary, rescind or confirm any order or decision made by the Commission.
+
+#### Commission to be answerable to Parliament.
+
+153H. The Commission shall be responsible and answerable to Parliament in accordance with the provisions of the Standing Orders of Parliament for the discharge of its functions and shall forward to Parliament in each calendar year a report of its activities in such year. ]
 
 #### Duties and functions of Auditor-General
 
-- 153D. (1)  A  person  who  otherwise  than  in  the  course  of his duty, directly or indirectly, by himself or through any other person,  in  any  manner  whatsoever,  influences  or  attempts  to influence any decision of the Commission, any member thereof or  any  officer  of  the  Sri  Lanka  State Audit  Service,  shall  be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for  a  term  not  exceeding three years or to both such fine and imprisonment.
+154. 105[(1) The Auditor-General shall audit all departments of the Government, the Office of the Secretary to the President, the Office of the Secretary to the Prime Minister, the Offices of the Cabinet of Ministers, the Judicial Services Commission,
 
-- Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
-
-- 153E . Subject to the jurisdiction conferred on the Supreme Court  under  Article  126  and  to  the  powers  granted  to  the Administrative Appeals Tribunal under Article 153g, no court or tribunal shall have the power or jurisdiction to inquire into, pronounce upon or in any manner whatsoever call in question any order or decision made by the Commission, in pursuance of any function assigned on such Commission under this Chapter or under any law.
-
-- 153F. The costs and expenses of the Commission shall be a charge on the Consolidated Fund.
-
-- 153G. Any officer of the Sri Lanka State Audit Service who is aggrieved by any order relating to the appointment, promotion or transfer of  such officer or any order on a disciplinary matter or dismissal made by the Commission, in respect of such officer, may appeal therefrom to the Administrative Appeals Tribunal established  under  Article  59,  which  shall  have  the  power  to alter, vary,  rescind or confirm any order or decision made by the Commission.
-
-- 153H. The Commission shall be responsible and answerable to Parliament in accordance with the provisions of the Standing Orders  of  Parliament  for  the  discharge  of  its  functions  and shall forward to Parliament in each calendar year a report of its activities in such year. ]
-
-- 105 [(1) The Auditor-General shall audit all departments of the Government, the  Office of the Secretary to the President, the  Office  of  the  Secretary  to  the  Prime  Minister,  the  Offices of the Cabinet of Ministers, the Judicial Services Commission,
-
-105 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.36
+105 - Substituted by the Nineteenth Amendment to the Constitution Sec.36
 
 [[END OF PAGE 136]]
 
@@ -3775,7 +4281,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 the Constitutional Council, the Commissions referred to in the Schedule to Article 41B, the Parliamentary Commissioner for Administration, the Secretary-General of Parliament, local authorities, public corporations, business and other undertakings vested in the Government under any written law and companies registered or deemed to be registered under the Companies Act, No. 7 of 2007 in which the Government or a public corporation or local authority holds fifty per centum or more of the shares of that company including the accounts thereof. ]
 
-(2)  Notwithstanding  the  provisions  of  paragraph  (1)  of this  Article,  the  Minister  in  charge  of  any  such 106 [  public corporation, business or other undertaking or a company referred to in paragraph (1)] may, with the concurrence of the Minister in charge of the subject of Finance and in consultation with the Auditor-General, appoint a qualified auditor or auditors to audit the accounts of such 106 [public corporation, business or other undertaking or a company referred to in paragraph (1)]. Where such appointment has been made by the Minister, the AuditorGeneral  may,  in  writing,  inform  such  auditor  or  auditors  that he proposes to utilize his or their services for the performance and  discharge  of  the  Auditor-General's  duties  and  functions in  relation  to  such 106 [  public  corporation,  business  or  other undertaking  or  a  company  referred  to  in  paragraph  (1)]  and thereupon such auditor or auditors shall act under the direction and control of the Auditor-General.
+(2) Notwithstanding the provisions of paragraph (1) of this Article, the Minister in charge of any such 106[ public corporation, business or other undertaking or a company referred to in paragraph (1)] may, with the concurrence of the Minister in charge of the subject of Finance and in consultation with the Auditor-General, appoint a qualified auditor or auditors to audit the accounts of such 106[public corporation, business or other undertaking or a company referred to in paragraph (1)]. Where such appointment has been made by the Minister, the Auditor-General may, in writing, inform such auditor or auditors that he proposes to utilize his or their services for the performance and discharge of the Auditor-General’s duties and functions in relation to such 106[ public corporation, business or other undertaking or a company referred to in paragraph (1)] and thereupon such auditor or auditors shall act under the direction and control of the Auditor-General.
 
 (3) The Auditor-General shall also perform and discharge such duties and functions as may be prescribed by Parliament by law.
 
@@ -3799,7 +4305,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 and such person or institution shall act under his direction and control.
 
-(a)  The  Auditor-General  or  any  person  authorized  by him shall  in  the  performance  and  discharge  of  his  duties  and functions be entitled -
+(5) (a) The Auditor-General or any person authorized by him shall in the performance and discharge of his duties and functions be entitled –
 
 (i) to have access to all books, records, returns and other documents ;
 
@@ -3807,13 +4313,13 @@ and such person or institution shall act under his direction and control.
 
 (iii) to be furnished with such information and explanations as may be necessary for the performance of such duties and functions.
 
-(b) Every qualified auditor appointed to audit the accounts of 107 [any public corporation, business or other undertaking or a company referred to in paragraph (1)], or any person authorized by such auditor shall be entitled to like access, information and explanations in relation to such public corporation, or business or other undertaking.
+(b) Every qualified auditor appointed to audit the accounts of 107[any public corporation, business or other undertaking or a company referred to in paragraph (1)], or any person authorized by such auditor shall be entitled to like access, information and explanations in relation to such public corporation, or business or other undertaking.
 
-- The Auditor-General shall within ten months after the close of each financial year and as and when he deems it necessary report to Parliament on the performance and, discharge of his duties and functions under the Constitution.
+(6) The Auditor-General shall within ten months after the close of each financial year and as and when he deems it necessary report to Parliament on the performance and, discharge of his duties and functions under the Constitution.
 
-- Every qualified auditor appointed under the provisions of  paragraph  (2)  of  this Article  shall  submit  his  report  to  the Minister and also submit a copy thereof to the Auditor-General.
+(7) Every qualified auditor appointed under the provisions of paragraph (2) of this Article shall submit his report to the Minister and also submit a copy thereof to the Auditor-General.
 
-- In this Article, 'qualified auditor' means -
+(8) In this Article, “qualified auditor” means –
 
 (a) an individual who, being a member of the Institute of Chartered Accountants of Sri Lanka, or of any other Institute established by law, possesses a certificate to practise as an Accountant issued by the Council of such Institute ; or
 
@@ -3829,7 +4335,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (b) a firm of Accountants each of the resident partners of which, being a member of the Institute of Chartered Accountants of Sri Lanka or of any other Institute established by law, possesses a certificate to practise as  an  Accountant  issued  by  the  Council  of  such Institute.
 
-- 108 [  (9)  The  provisions  of  sub-paragraph (a) of paragraph (8) shall apply to the Auditor-General appointed under Article 153(1).]
+108[(9) The provisions of sub-paragraph (a) of paragraph (8) shall apply to the Auditor-General appointed under Article 153(1).]
 
 108 -	 Inserted by the Nineteenth Amendment to the Constitution Sec.36
 
@@ -3841,33 +4347,33 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+## 109[ CHAPTER XVII A
+
 #### Establishment of Provincial Councils
+
+154A. (1) Subject to the provisions of the Constitution, a Provincial Council shall be established for every Province specified in the Eighth Schedule with effect from such date or dates as the President may appoint by Order published in the Gazette. Different dates may be appointed in respect of different Provinces.
+
+(2) Every Provincial Council established under paragraph (1) shall be constituted upon the election of the members of such Council in accordance with the law relating to Provincial Council elections.
+
+(3) Notwithstanding anything in the preceding provisions of this Article, Parliament may by, or under, any law provide for two or three adjoining Provinces to form one administrative unit with one elected Provincial Council, one Governor, one Chief Minister and one Board of Ministers and for the manner of determining whether such Provinces should continue to be administered as one administrative unit or whether each such Province should constitute a separate administrative unit with its own Provincial Council, and a separate Governor, Chief Minister and Board of Ministers.
 
 #### Governor
 
-## 109 [ CHAPTER XVII A
+154B. (1) There shall be a Governor for each Province for which a Provincial Council has been established in accordance with Article 154A.
 
-- 154A. (1)  Subject  to  the  provisions  of  the  Constitution,  a Provincial Council shall be established for every Province specified in the Eighth Schedule with effect from such date or dates as the President may appoint by Order published in the Gazette. Different dates may be appointed in respect of different Provinces.
+(2) The Governor shall be appointed by the President by warrant under his hand and shall hold office, in accordance with Article 4(b), during the pleasure of the President.
 
-- Every  Provincial  Council  established  under  paragraph (1)  shall  be  constituted  upon  the  election  of  the  members  of such Council in accordance with the law relating to Provincial Council elections.
+(3) The Governor may, by writing addressed to the President, resign his office.
 
-- Notwithstanding  anything  in  the  preceding  provisions of  this Article,  Parliament  may  by,  or  under,  any  law  provide for two or three adjoining Provinces to form one administrative unit  with  one  elected  Provincial  Council,  one  Governor,  one Chief Minister and one Board of Ministers and for the manner of  determining whether such Provinces should continue to be administered as one administrative unit or whether each such Province should constitute a separate administrative unit with its  own  Provincial  Council,  and  a  separate  Governor,  Chief Minister and Board of Ministers.
-
-- 154B. (1) There shall be a Governor for each Province for which a Provincial Council has been established in accordance with Article 154A.
-
-- The  Governor  shall  be  appointed  by  the  President  by warrant under his hand and shall hold office, in accordance with Article 4(b), during the pleasure of the President.
-
-- The Governor may, by writing addressed to the President, resign his office.
-
-(a) The Provincial Council may, subject to sub-paragraph (b), present an address to the President advising the removal of the Governor on the ground that the Governor -
+(4) (a) The Provincial Council may, subject to sub-paragraph (b), present an address to the President advising the removal of the Governor on the ground that the Governor –
 
 (i) has intentionally violated the provisions of the Constitution ;
 
-(ii) is  guilty  of  misconduct or corruption involving the abuse of the powers of his office ; or
+(ii) is guilty of misconduct or corruption involving the abuse of the powers of his office ; or
 
-(iii) is  guilty  of  bribery  or  an  offence  involving  moral turpitude,
+(iii) is guilty of bribery or an offence involving moral turpitude,
 
-109 -	 Chapter XVIIA Articles 154A to 154T inserted by the Thirteenth Amendment to the Constitution Sec.4
+109 - Chapter XVIIA Articles 154A to 154T inserted by the Thirteenth Amendment to the Constitution Sec.4
 
 [[END OF PAGE 140]]
 
@@ -3879,24 +4385,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 if a resolution for the presentation of such address is passed by not less than two-thirds of the whole number of members of the Council (including those not present).
 
-(b) No resolution for the presentation of an address to the President advising the removal of the Governor on the grounds referred  to  in  sub-paragraph  (a)  shall  be  entertained  by  the Chairman of the Provincial Council or discussed at the Council, unless notice of such resolution is signed by not less than onehalf of the whole number of members present.
+(b) No resolution for the presentation of an address to the President advising the removal of the Governor on the grounds referred to in sub-paragraph (a) shall be entertained by the Chairman of the Provincial Council or discussed at the Council, unless notice of such resolution is signed by not less than one-half of the whole number of members present.
 
 (5) Subject to the preceding provisions of this Article, the Governor shall hold office for a period of five years from the date he assumes office.
 
 (6) Every person appointed as Governor shall assume office upon taking or subscribing, the oath or making or subscribing the affirmation, set out in the Fourth Schedule, before the President.
 
-(7) Upon such assumption of office a Governor shall cease to hold any other office created or recognized by the Constitution, and if  he  is  a  Member  of  Parliament,  shall  vacate  his  seat  in Parliament.  The  Governor  shall  not  hold  any  other  office  or place of profit.
+(7) Upon such assumption of office a Governor shall cease to hold any other office created or recognized by the Constitution, and if he is a Member of Parliament, shall vacate his seat in Parliament. The Governor shall not hold any other office or place of profit.
 
-(a) The Governor may, from time to time, summon the Provincial Council to meet at such time and place as he thinks fit, but two months shall not intervene between the last sitting in one session and the date appointed for the first sitting in the next session.
+(8) (a) The Governor may, from time to time, summon the Provincial Council to meet at such time and place as he thinks fit, but two months shall not intervene between the last sitting in one session and the date appointed for the first sitting in the next session.
 
 (b) The Governor may, from time to time, prorogue the Provincial Council.
 
-(c) The  Governor  may  dissolve  the  Provincial Council.
+(c) The Governor may dissolve the Provincial Council.
 
-(d) The Governor shall exercise his powers under this  paragraph  in  accordance  with  the  advice of  the  Chief  Minister,  so  long  as  the  Board of  Ministers  commands, in the opinion of the Governor,  the  support  of  the  majority  of  the Provincial Council.
+(d) The Governor shall exercise his powers under this paragraph in accordance with the advice of the Chief Minister, so long as the Board of Ministers commands, in the opinion of the Governor, the support of the majority of the Provincial Council.
 
 (9) Without prejudice to the powers of the President under Article 34 and subject to his directions the Governor of a Province shall have the power to grant a pardon to every person convicted of an offence against a statute made by the Provincial Council of that Province or a law made by Parliament on a matter in respect of which the Provincial Council has power to make statutes and to grant a respite or remission of punishment imposed by Court on any such person :
-#### Exercise of executive powers by the Governor
 
 [[END OF PAGE 141]]
 
@@ -3908,21 +4413,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Provided that where the Governor does not agree with the advice of the Board of Ministers in any case and he considers it necessary to do so in the public interest, he may refer that case to the President for orders.
 
-(a) The Governor may address the Provincial Council and may for that purpose require the attendance of members.
+(10) (a) The Governor may address the Provincial Council and may for that purpose require the attendance of members.
 
 (b) The Governor may also send messages to the Council either with respect to a statute then pending with the Council, or otherwise and when a message is so sent the Council shall with all convenient despatch consider any matter required by the message to be taken into consideration.
 
-- It  shall  be  the  duty  of  the  Chief  Minister  of  every Province -
+(11) It shall be the duty of the Chief Minister of every Province –
 
-(a) to communicate to the Governor of the Province all decisions  of  the  Board  of  Ministers  relating  to  the administration of the affairs of the Province and the proposals for legislation ;
+(a) to communicate to the Governor of the Province all decisions of the Board of Ministers relating to the administration of the affairs of the Province and the proposals for legislation ;
 
-(b) to furnish such information relating to the administration  of  the  affairs  of  the  Province  and proposals  for  legislation  as  the  Governor  may  call for ; and
+(b) to furnish such information relating to the administration of the affairs of the Province and proposals for legislation as the Governor may call for ; and
 
 (c) if the Governor so requires, to submit for consideration of the Board of Ministers any matter on which a decision has been taken by a Minister but which has not been considered by the Board.
 
-- Parliament shall by law or resolution make provision for the salary, allowances, age of retirement and pension entitlement of holders of the office of Governor.
+(12) Parliament shall by law or resolution make provision for the salary, allowances, age of retirement and pension entitlement of holders of the office of Governor.
 
-- 154C. Executive  power  extending  to  the  matters  with respect  to  which  a  Provincial  Council  has  power  to  make statutes shall be exercised by the Governor of the Province for which that Provincial Council is established, either directly or through Ministers of the Board of Ministers, or through officers subordinate to him, in accordance with Article 154F.
+#### Exercise of executive powers by the Governor
+
+154C. Executive power extending to the matters with respect to which a Provincial Council has power to make statutes shall be exercised by the Governor of the Province for which that Provincial Council is established, either directly or through Ministers of the Board of Ministers, or through officers subordinate to him, in accordance with Article 154F.
 
 [[END OF PAGE 142]]
 
@@ -3932,25 +4439,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 125
 
-- 154D. (1) A Provincial Council shall consist of such number of  members  as  may  be  determined  by  or  under  law,  having regard to the area and population of the Province for which that Provincial Council is established.
+#### Membership of Provincial Council
 
-(a)  A  Provincial  Council  may  at  the  commencement of the term of office of its members, decide, by resolution, to grant Members of Parliament elected for electoral districts, the limits of which fall within the Province for which that Provincial Council is established, the right to participate in proceedings of that Council.
+154D. (1) A Provincial Council shall consist of such number of members as may be determined by or under law, having regard to the area and population of the Province for which that Provincial Council is established.
 
-(b) So long as a resolution passed under sub-paragraph (a) is in force, a Member of Parliament elected for an electoral district, the limits of which fall within the Province for which that provincial Council  is  established,  shall  have  the  right,  during  the  term  of office of that Council, to speak in and otherwise take part in, the proceedings of the Provincial Council and to speak in and otherwise take part in, any committee of the Provincial Council of which he may be named a member but shall be entitled to vote thereat only if the resolution passed under sub-paragraph (a) so provides.
+(2) (a) A Provincial Council may at the commencement of the term of office of its members, decide, by resolution, to grant Members of Parliament elected for electoral districts, the limits of which fall within the Province for which that Provincial Council is established, the right to participate in proceedings of that Council.
+
+(b) So long as a resolution passed under sub-paragraph (a) is in force, a Member of Parliament elected for an electoral district, the limits of which fall within the Province for which that provincial Council is established, shall have the right, during the term of office of that Council, to speak in and otherwise take part in, the proceedings of the Provincial Council and to speak in and otherwise take part in, any committee of the Provincial Council of which he may be named a member but shall be entitled to vote thereat only if the resolution passed under sub-paragraph (a) so provides.
 
 (c) The provisions of this paragraph shall cease to operate on the date of dissolution of the first Parliament.
 
-- 154E. A Provincial Council shall, unless sooner dissolved, continue for a period of five years from the date appointed for its first meeting and the expiration of the said period of five years shall operate as a dissolution of the Council.
-
-- 154F. (1) There shall be a Board of Ministers with the Chief Minister at the head and not more than four other Ministers to aid and advise the Governor of a Province in the exercise of his functions. The Governor shall, in the exercise of his functions, act in accordance with such advice, except in so far as he is by or under the Constitution required to exercise his functions or any of them in his discretion.
-
-- If  any  question  arises  whether  any  matter  is  or  is  not a  matter  as  respects  which  the  Governor  is  by  or  under  this Constitution  required  to  act  in  his  discretion,  the  decision  of the Governor in his discretion shall be final and the validity of anything done by the Governor shall not be called in question in any Court on the ground that he ought or ought not have acted on his discretion. The exercise of the Governor's discretion shall be on the President's directions.
-
-#### Membership of Provincial Council
-
 #### Term of office
 
+154E. A Provincial Council shall, unless sooner dissolved, continue for a period of five years from the date appointed for its first meeting and the expiration of the said period of five years shall operate as a dissolution of the Council.
+
 #### Board of Ministers
+
+154F. (1) There shall be a Board of Ministers with the Chief Minister at the head and not more than four other Ministers to aid and advise the Governor of a Province in the exercise of his functions. The Governor shall, in the exercise of his functions, act in accordance with such advice, except in so far as he is by or under the Constitution required to exercise his functions or any of them in his discretion.
+
+(2) If any question arises whether any matter is or is not a matter as respects which the Governor is by or under this Constitution required to act in his discretion, the decision of the Governor in his discretion shall be final and the validity of anything done by the Governor shall not be called in question in any Court on the ground that he ought or ought not have acted on his discretion. The exercise of the Governor’s discretion shall be on the President’s directions.
 
 [[END OF PAGE 143]]
 
@@ -3960,27 +4467,27 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+(3) The question whether any, and if so what, advice was tendered by the Ministers to the Governor shall not be, inquired into in any Court.
+
+(4) The Governor shall appoint as Chief Minister, the member of the Provincial Council constituted for that Province, who, in his opinion, is best able to command the support of a majority of the members of that Council :
+
+Provided that where more than one-half of the members elected to a Provincial Council are members of one political party, the Governor shall appoint the leader of that political party in the Council, as Chief Minister.
+
+(5) The Governor shall, on the advice of the Chief Minister, appoint from among the members of the Provincial Council constituted for that Province, the other Ministers.
+
+(6) The Board of Ministers shall be collectively responsible and answerable to the Provincial Council.
+
+(7) A person appointed to the office of Chief Minister or member of the Board of Ministers shall not enter upon the duties of his office until he takes and subscribes the oath, or makes and subscribes the affirmation, set out in the Fourth Schedule.
+
 #### Statutes of Provincial Councils
 
-- The question whether any, and if so what, advice was tendered by the Ministers to the Governor shall not be, inquired into in any Court.
+154G. (1) Every Provincial Council may, subject to the provisions of the Constitution, make statutes applicable to the Province for which it is established, with respect to any matter set out in List I of the Ninth Schedule (hereinafter referred to as “the Provincial Council List”).
 
-- The  Governor  shall  appoint  as  Chief  Minister,  the member of the Provincial Council constituted for that Province, who, in his opinion, is best able to command the support of a majority of the members of that Council :
+(2) No Bill for the amendment or repeal of the provisions of this Chapter or the Ninth Schedule shall become law unless such Bill has been referred by the president, after its publication in the Gazette and before it is placed on the Order Paper of Parliament, to every Provincial Council for the expression of its views thereon, within such period as may be specified in the reference, and -
 
-Provided  that  where  more  than  one-half  of  the  members elected  to  a  Provincial  Council  are  members  of  one  political party, the Governor shall appoint the leader of that political party in the Council, as Chief Minister.
+(a) where every such Council agrees to the amendment or repeal, such Bill is passed by a majority of the Members of Parliament present and voting ; or
 
-- The Governor shall, on the advice of the Chief Minister, appoint  from  among  the  members  of  the  Provincial  Council constituted for that Province, the other Ministers.
-
-- The Board of Ministers shall be collectively responsible and answerable to the Provincial Council.
-
-- A  person  appointed  to  the  office  of  Chief  Minister  or member of the Board of Ministers shall not enter upon the duties of his office until he takes and subscribes the oath, or makes and subscribes the affirmation, set out in the Fourth Schedule.
-
-- 154G. (1)  Every  Provincial  Council  may,  subject  to  the provisions of the Constitution, make statutes applicable to the Province for which it is established, with respect to any matter set out in List I of the Ninth Schedule (hereinafter referred to as 'the Provincial Council List').
-
-- No Bill for the amendment or repeal of the provisions of this Chapter or the Ninth Schedule shall become law unless such Bill has been referred by the president, after its publication in  the  Gazette  and  before  it  is  placed  on  the  Order  Paper  of Parliament,  to  every  Provincial  Council  for  the  expression  of its views thereon, within such period as may be specified in the reference, and -
-
-(a) where every such Council agrees to the amendment or  repeal,  such  Bill  is  passed  by  a  majority  of  the Members of Parliament present and voting ; or
-
-(b) where  one  or  more  Councils  do  not  agree  to  the amendment  or  repeal  such  Bill  is  passed  by  the special majority required by Article 82.
+(b) where one or more Councils do not agree to the amendment or repeal such Bill is passed by the special majority required by Article 82.
 
 [[END OF PAGE 144]]
 
@@ -4000,7 +4507,7 @@ Provided  that  where  on  such  reference,  some  but  not  all the Provincial 
 
 (4)  Where one or more Provincial Councils request Parliament,  by  resolution,  to  make  law  on  any  matter  set  out in  the  Provincial  Council  List,  Parliament  may  make  law  on that  matter,  applicable  only  to  the  Provinces  for  which  those Provincial Councils are established, by a majority of Members of Parliament present and voting.
 
-(5) (a) Parliament may make laws with respect to any matter set  out  in  List  III  of  the  Ninth  Schedule  (hereinafter  referred to  as  'the  Concurrent  List')  after  such  consultation  with  all Provincial Councils as Parliament may consider appropriate in the circumstances of each case.
+(5) (a) Parliament may make laws with respect to any matter set out in List III of the Ninth Schedule (hereinafter referred to as “the Concurrent List”) after such consultation with all Provincial Councils as Parliament may consider appropriate in the circumstances of each case.
 
 (b) Every Provincial Council may, subject to the provisions of  the  Constitution,  make  statutes  applicable  to  the  Province for  which  it  is  established,  with  respect  to  any  matter  on  the Concurrent  List,  after  such  consultation  with  Parliament  as  it may consider appropriate in the circumstances of each case.
 
@@ -4014,21 +4521,21 @@ Provided  that  where  on  such  reference,  some  but  not  all the Provincial 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+(7) A Provincial Council shall have no power to make statutes on any matter set out in List II of the Ninth Schedule (hereinafter referred to as “the Reserved List”).
+
+(8) Where there is a law with respect to any matter on the Provincial Council List in force on the date on which this Chapter comes into force and a Provincial Council established for a Province subsequently makes a statute on the same matter and which is described in its long title as being inconsistent with that law, then, the provisions of the law shall, with effect from the date on which that statute receives assent and so long only as that statute is in force, remain suspended and be inoperative within that Province.
+
+(9) Where there is a law with respect to a matter on the Concurrent List on the date on which this Chapter comes into force and a Provincial Council established for a Province subsequently makes a statute on the same matter inconsistent with that law, the provisions of that law shall, unless Parliament, by resolution, decides to the contrary, remain suspended and be inoperative within that Province, with effect from the date on which that statute receives assent and so long only as that statute is in force.
+
+(10) Nothing in this Article shall be read or construed as derogating from the powers conferred on Parliament by the Constitution to make laws, in accordance with the Provisions of the Constitution (inclusive of this Chapter), with respect to any matter, for the whole of Sri Lanka or any part thereof.
+
+(11) Notwithstanding anything in paragraph (3) of this Article, Parliament may make laws, otherwise than in accordance with the procedure set out in that paragraph, in respect of any matter set out in the Provincial Council List for implementing any treaty, agreement or convention with any other country or countries or any decisions made at an international conference, association, or other body.
+
 #### Assent
-
-(7)  A  Provincial  Council  shall  have  no  power  to  make statutes on any matter set out in List II of the Ninth Schedule (hereinafter referred to as 'the Reserved List').
-
-(8)  Where  there  is  a  law  with  respect  to  any  matter  on the Provincial Council List in force on the date on which this Chapter comes into force and a Provincial Council established for a Province subsequently makes a statute on the same matter and which is described in its long title as being inconsistent with that law, then, the provisions of the law shall, with effect from the date on which that statute receives assent and so long only as that statute is in force, remain suspended and be inoperative within that Province.
-
-(9)  Where  there  is  a  law  with  respect  to  a  matter  on  the Concurrent List on the date on which this Chapter comes into force  and  a  Provincial  Council  established  for  a  Province subsequently makes a statute on the same matter inconsistent with that law, the provisions of that law shall, unless Parliament, by resolution, decides to the contrary, remain suspended and be inoperative within that Province, with effect from the date on which that statute receives assent and so long only as that statute is in force.
-
-(10)  Nothing  in  this Article  shall  be  read  or  construed  as derogating  from  the  powers  conferred  on  Parliament  by  the Constitution to make laws, in accordance with the Provisions of the Constitution (inclusive of this Chapter), with respect to any matter, for the whole of Sri Lanka or any part thereof.
-
-(11)  Notwithstanding  anything  in  paragraph  (3)  of  this Article, Parliament may make laws, otherwise than in accordance with the procedure set out in that paragraph, in respect of any matter set out in the Provincial Council List for implementing any treaty, agreement or convention with any other country or countries or any decisions made at an international conference, association, or other body.
 
 154H. (1) Every statute made by a Provincial Council shall come into force upon such statute receiving assent as hereinafter provided.
 
-(2)  Every  statute  made  by  a  Provincial  Council  shall  be presented  to  the  Governor  for  his  assent,  forthwith  upon  the making thereof and the Governor shall either assent to the statute or he may as soon as possible after the statute is presented to him for assent return it to the Provincial Council together with a  message  requesting  the  Council  to  reconsider  the  statute  or any specified provision thereof and in particular, requesting it to consider the desirability of introducing such amendments as may be recommended in the message.
+(2) Every statute made by a Provincial Council shall be presented to the Governor for his assent, forthwith upon the making thereof and the Governor shall either assent to the statute or he may as soon as possible after the statute is presented to him for assent return it to the Provincial Council together with a message requesting the Council to reconsider the statute or any specified provision thereof and in particular, requesting it to consider the desirability of introducing such amendments as may be recommended in the message.
 
 [[END OF PAGE 146]]
 
@@ -4038,18 +4545,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 129
 
-(3) Where a statute is returned to a Provincial Council by the Governor under paragraph (2), the Provincial Council shall reconsider the statute having regard to the Governor's message and  may  pass  such  statute  with  or  without  amendment  and present it to the Governor for his assent.
+(3) Where a statute is returned to a Provincial Council by the Governor under paragraph (2), the Provincial Council shall reconsider the statute having regard to the Governor’s message and may pass such statute with or without amendment and present it to the Governor for his assent.
 
-(4)  Upon  presentation  of  a  statute  to  the  Governor  under paragraph (3), the Governor may assent to the statute or reserve it  for  reference by the President to the Supreme Court, within one month of the passing of the statute for the second time, for a determination that it is not inconsistent with the provisions of the Constitution. Where upon such reference, the Supreme Court determines that the statute is consistent with the provisions of the Constitution, the Governor shall, on receipt by him of the Court's determination, assent to the statute. Where upon such reference, the  Supreme  Court  determines  that  the  statute  is  inconsistent with  the  provisions  of  the  Constitution,  the  Governor  shall withhold assent to the statute.
-
-154J. (1)  Upon  the  making  of  a  proclamation  under  the Public  Security  Ordinance  or  the  law  for  the  time  being  in force  relating  to  public  security,  bringing  the  provisions  of such  Ordinance  or  law  into  operation  on  the  ground  that  the maintenance of essential supplies and services is, threatened or that the security of Sri Lanka is threatened by war or external aggression or armed rebellion, the President may give directions to any Governor as to the manner in which the executive power exercisable by the Governor is to be exercised. The directions so  given  shall  be  in  relation  to  the  grounds  specified  in  such Proclamation for the making thereof.
-
-Explanation :  A  Proclamation  under  the  Public  Security Ordinance declaring that the maintenance of essential supplies and services is threatened or that the security of Sri Lanka or any part of the territory thereof is threatened by war, or by external aggression, or by armed rebellion may be made before the actual breakdown of supplies and services, or the actual occurrence of war, or of any such aggression or rebellion, if the President is satisfied that there is imminent danger thereof :
+(4) Upon presentation of a statute to the Governor under paragraph (3), the Governor may assent to the statute or reserve it for reference by the President to the Supreme Court, within one month of the passing of the statute for the second time, for a determination that it is not inconsistent with the provisions of the Constitution. Where upon such reference, the Supreme Court determines that the statute is consistent with the provisions of the Constitution, the Governor shall, on receipt by him of the Court’s determination, assent to the statute. Where upon such reference, the Supreme Court determines that the statute is inconsistent with the provisions of the Constitution, the Governor shall withhold assent to the statute.
 
 #### Public Security
-#### Failure to comply with directions
-#### Failure of administrative machinery
-Provided  that  where  such  Proclamation  is  in  operation only  in  any  part  of  Sri  Lanka,  the  power  of  the  President  to give  directions  under  this  Article,  shall  also  extend  to  any Province other than the Province in which the Proclamation is in operation if, and in so far as it is expedient so to do for ensuring the maintenance of essential supplies and services or the security of Sri Lanka.
+
+154J. (1) Upon the making of a proclamation under the Public Security Ordinance or the law for the time being in force relating to public security, bringing the provisions of such Ordinance or law into operation on the ground that the maintenance of essential supplies and services is, threatened or that the security of Sri Lanka is threatened by war or external aggression or armed rebellion, the President may give directions to any Governor as to the manner in which the executive power exercisable by the Governor is to be exercised. The directions so given shall be in relation to the grounds specified in such Proclamation for the making thereof.
+
+Explanation : A Proclamation under the Public Security Ordinance declaring that the maintenance of essential supplies and services is threatened or that the security of Sri Lanka or any part of the territory thereof is threatened by war, or by external aggression, or by armed rebellion may be made before the actual breakdown of supplies and services, or the actual occurrence of war, or of any such aggression or rebellion, if the President is satisfied that there is imminent danger thereof :
 
 [[END OF PAGE 147]]
 
@@ -4059,15 +4563,21 @@ Provided  that  where  such  Proclamation  is  in  operation only  in  any  part
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- A Proclamation under the Public Security Ordinance or the law for the time being relating to public security, shall be conclusive for all purposes and shall not be questioned in any Court, and no Court or Tribunal shall inquire into, or pronounce on, or in any manner call in question, such Proclamation, the grounds for the making thereof, or the existence of those grounds or any direction given under this Article.
+Provided that where such Proclamation is in operation only in any part of Sri Lanka, the power of the President to give directions under this Article, shall also extend to any Province other than the Province in which the Proclamation is in operation if, and in so far as it is expedient so to do for ensuring the maintenance of essential supplies and services or the security of Sri Lanka.
 
-154K. Where the Governor or any Provincial Council has failed  to  comply  with,  or  give  effect  to  any  directions  given to  such  Governor  or  such  Council  under  this  Chapter  of  the Constitution, it shall be lawful for the President to hold that a situation has arisen in which the administration of the Province cannot  carried  on  in  accordance  with  the  provisions  of  the Constitution.
+(2) A Proclamation under the Public Security Ordinance or the law for the time being relating to public security, shall be conclusive for all purposes and shall not be questioned in any Court, and no Court or Tribunal shall inquire into, or pronounce on, or in any manner call in question, such Proclamation, the grounds for the making thereof, or the existence of those grounds or any direction given under this Article.
 
-154L. (1)  If  the  President, on receipt of a report from the Governor of the Province or otherwise, is satisfied that a situation has arisen in which the administration of the Province cannot be carried on in accordance with the provisions of the Constitution, the President may by Proclamation -
+#### Failure to comply with directions
+
+154K. Where the Governor or any Provincial Council has failed to comply with, or give effect to any directions given to such Governor or such Council under this Chapter of the Constitution, it shall be lawful for the President to hold that a situation has arisen in which the administration of the Province cannot carried on in accordance with the provisions of the Constitution.
+
+#### Failure of administrative machinery
+
+154L. (1) If the President, on receipt of a report from the Governor of the Province or otherwise, is satisfied that a situation has arisen in which the administration of the Province cannot be carried on in accordance with the provisions of the Constitution, the President may by Proclamation –
 
 (a) assume to himself all or any of the functions of the administration of the Province and all or any of the powers vested in, or exercisable by, the Governor or any body or authority in the Province other than the Provincial Council;
 
-(b) declare  that  the  powers  of  the  Provincial  Council shall  be  exercisable  by,  or  under  the  authority  of Parliament;
+(b) declare that the powers of the Provincial Council shall be exercisable by, or under the authority of Parliament;
 
 (c) make such incidental and consequential provisions as appear to the President to be necessary or desirable for giving effect to the objects of the Proclamation :
 
@@ -4083,19 +4593,17 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (2) Any such Proclamation may be revoked or varied by a subsequent Proclamation.
 
-(3) Every Proclamation under this Article shall be laid before Parliament and shall, except where it is a Proclamation revoking a  previous Proclamation, cease to operate at the expiration of fourteen days unless before expiration of that period it has been approved by a resolution of Parliament :
+(3) Every Proclamation under this Article shall be laid before Parliament and shall, except where it is a Proclamation revoking a previous Proclamation, cease to operate at the expiration of fourteen days unless before expiration of that period it has been approved by a resolution of Parliament :
 
-Provided  that if  any  such  Proclamation  (not  being  a Proclamation revoking a previous Proclamation) is issued at a time when Parliament is dissolved or the dissolution of Parliament takes place during the period of fourteen days referred to in this paragraph but no resolution with respect to such proclamation has  been  passed  by  Parliament  before  the  expiration  of  that period, the proclamation shall cease to operate at the expiration of  fourteen  days  from  the  date  on  which  Parliament  first  sits after its reconstitution, unless before the expiration of the said period of fourteen days a resolution approving the Proclamation has been passed by Parliament.
+Provided that if any such Proclamation (not being a Proclamation revoking a previous Proclamation) is issued at a time when Parliament is dissolved or the dissolution of Parliament takes place during the period of fourteen days referred to in this paragraph but no resolution with respect to such proclamation has been passed by Parliament before the expiration of that period, the proclamation shall cease to operate at the expiration of fourteen days from the date on which Parliament first sits after its reconstitution, unless before the expiration of the said period of fourteen days a resolution approving the Proclamation has been passed by Parliament.
 
-(4)  A Proclamation so approved shall, unless earlier revoked, cease  to  operate  on  the  expiration  of  a  period  of  two  months from the date of issue of the Proclamation :
+(4) A Proclamation so approved shall, unless earlier revoked, cease to operate on the expiration of a period of two months from the date of issue of the Proclamation :
 
-Provided  that  if  and  so  often  as  a  resolution  approving the  continuance  in  force  of  such  a  Proclamation  is  passed  by Parliament, the Proclamation shall, unless revoked continue in force for a further period of two months from the date on which under this paragraph is, would otherwise have ceased to operate, but no such Proclamation shall in any case remain in force for more than one year:
+Provided that if and so often as a resolution approving the continuance in force of such a Proclamation is passed by Parliament, the Proclamation shall, unless revoked, continue in force for a further period of two months from the date on which under this paragraph it would otherwise have ceased to operate, but no such Proclamation shall in any case remain in force for more than one year:
 
-Provided further that if the dissolution of Parliament takes place during any such period of two months but no resolution with respect to the continuance in force of such Proclamation has  been  passed  by  Parliament  during  the  said  period,  the Proclamation shall cease to operate at the expiration of fourteen days  from  the  date  on  which  Parliament  first  sits  after  its reconstitution unless before the expiration of the said period of fourteen days a Proclamation approving the continuance in force of the Proclamation has been passed by Parliament.
+Provided further that if the dissolution of Parliament takes place during any such period of two months but no resolution with respect to the continuance in force of such Proclamation has been passed by Parliament during the said period, the Proclamation shall cease to operate at the expiration of fourteen days from the date on which Parliament first sits after its reconstitution unless before the expiration of the said period of fourteen days a resolution approving the continuance in force of the Proclamation has been passed by Parliament.
 
-(5) Notwithstanding anything in this Article, the President may within fourteen days of his making a Proclamation under paragraph  (1)  and  for  the  purpose  of  satisfying  himself  with regard to any of the matters referred to in that paragraph, appoint a retired Judge of the Supreme Court to inquire into and report upon  such  matters  within  a  period  of  sixty  days. A  Judge  so appointed shall in relation to such inquiry have the powers of a  Commissioner appointed under the Commissions of Inquiry Act. Upon receipt of the report of such Judge, the President may revoke the Proclamation made under paragraph (1).
-#### Parliament to confer powers of Provincial Council to President
-#### Financial instability
+(5) Notwithstanding anything in this Article, the President may within fourteen days of his making a Proclamation under paragraph (1) and for the purpose of satisfying himself with
 
 [[END OF PAGE 149]]
 
@@ -4105,19 +4613,25 @@ Provided further that if the dissolution of Parliament takes place during any su
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- A Proclamation under this Article shall be conclusive for all purposes and shall not be questioned in any Court, and no Court or Tribunal shall inquire into, or pronounce on, or in any manner call in question, such Proclamation or the grounds for making thereof.
+regard to any of the matters referred to in that paragraph, appoint a retired Judge of the Supreme Court to inquire into and report upon such matters within a period of sixty days. A Judge so appointed shall in relation to such inquiry have the powers of a Commissioner appointed under the Commissions of Inquiry Act. Upon receipt of the report of such Judge, the President may revoke the Proclamation made under paragraph (1).
 
-- 154M. (1) Where by a Proclamation issued under paragraph (1) of Article 154L, it has been declared that the powers of the Provincial Council shall be exercisable by or under the authority, of Parliament, it shall be competent -
+(6) A Proclamation under this Article shall be conclusive for all purposes and shall not be questioned in any Court, and no Court or Tribunal shall inquire into, or pronounce on, or in any manner call in question, such Proclamation or the grounds for making thereof.
 
-(a) for Parliament to confer on the President, the power of  the  Provincial  Council  to  make  statutes  and  to authorize the President to delegate, subject to such conditions as he may think fit to impose, the power so conferred, on any other authority specified by him in that behalf ;
+#### Parliament to confer powers of Provincial Council to President
 
-(b) for the President to authorize, when Parliament is not in session, expenditure from the Provincial Fund of the  Province  pending  sanction  of  such  expenditure by Parliament.
+154M. (1) Where by a Proclamation issued under paragraph (1) of Article 154L, it has been declared that the powers of the Provincial Council shall be exercisable by or under the authority, of Parliament, it shall be competent –
 
-- A statute made by Parliament or the President or other authority  referred  to  in  sub-paragraph  (a)  of  paragraph  (1), during the continuance in force of a Proclamation issued under paragraph  (1)  of  Article  154L,  shall  continue  in  force  until amended or repealed by the Provincial Council.
+(a) for Parliament to confer on the President, the power of the Provincial Council to make statutes and to authorize the President to delegate, subject to such conditions as he may think fit to impose, the power so conferred, on any other authority specified by him in that behalf ;
 
-- 154N. (1)  If  the  President  is  satisfied  that  a  situation  has arisen  whereby  the  financial  stability  or  credit  of  Sri  Lanka or of any part of the territory thereof is threatened, he may by Proclamation make a declaration to that effect.
+(b) for the President to authorize, when Parliament is not in session, expenditure from the Provincial Fund of the Province pending sanction of such expenditure by Parliament.
 
-- A Proclamation issued under paragraph (1) -
+(2) A statute made by Parliament or the President or other authority referred to in sub-paragraph (a) of paragraph (1), during the continuance in force of a Proclamation issued under paragraph (1) of Article 154L, shall continue in force until amended or repealed by the Provincial Council.
+
+#### Financial instability
+
+154N. (1) If the President is satisfied that a situation has arisen whereby the financial stability or credit of Sri Lanka or of any part of the territory thereof is threatened, he may by Proclamation make a declaration to that effect.
+
+(1) A Proclamation issued under paragraph (1) –
 
 (a) may be revoked or varied by a subsequent Proclamation;
 
@@ -4143,15 +4657,15 @@ Provided  that  if  any  such  Proclamation  is  issued  at  a time  when  Parli
 
 (b) a provision requiring all statutes providing for payments  into  or  out  of,  a  Provincial  Fund  to  be reserved for the consideration of the President after they are passed by the Provincial Council.
 
-154P. (1) There shall be a High Court for each Province with effect  from  the  date  on  which  this  Chapter  comes  into  force. Each such High Court shall be designated as the High Court of the relevant Province.
+#### High Court
+
+154P. (1) There shall be a High Court for each Province with effect from the date on which this Chapter comes into force. Each such High Court shall be designated as the High Court of the relevant Province.
 
 (2) The Chief Justice shall nominate, from among Judges of the High Court of Sri Lanka, such number of Judges as may be necessary to each such High Court. Every such Judge shall be transferable by the Chief Justice.
 
-(3) Every such High Court shall -
+(3) Every such High Court shall –
 
-(a) exercise  according  to  law,  the  original  criminal jurisdiction of the High Court of Sri Lanka in respect of offences committed within the Province ;
-
-#### High Court
+(a) exercise according to law, the original criminal jurisdiction of the High Court of Sri Lanka in respect of offences committed within the Province ;
 
 [[END OF PAGE 151]]
 
@@ -4161,29 +4675,29 @@ Provided  that  if  any  such  Proclamation  is  issued  at  a time  when  Parli
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Functions, powers, election &c. of Provincial Councils
-
 (b) notwithstanding anything in Article 138 and subject to any law, exercise, appellate and revisionary jurisdiction in respect of convictions, sentences and orders entered or imposed by Magistrates Courts and Primary Courts within the Province ;
 
-(c) exercise such other jurisdiction and powers  as Parliament may, by law, provide.
+(c) exercise such other jurisdiction and powers as Parliament may, by law, provide.
 
-- Every such High Court shall have jurisdiction to issue, according to law -
+(4) Every such High Court shall have jurisdiction to issue, according to law –
 
 (a) orders in the nature of habeas corpus, in respect of persons illegally detained within the Province ; and
 
-(b) order in the nature of writs of certiorari, prohibition, procedendo,  mandamus and quo  warranto against any  person  exercising,  within  the  Province,  any power under -
+(b) order in the nature of writs of certiorari, prohibition, procedendo, mandamus and quo warranto against any person exercising, within the Province, any power under –
 
 (i) any law ; or
 
-(ii) any  statutes  made  by  the  Provincial  Council established for that Province,
+(ii) any statutes made by the Provincial Council established for that Province,
 
 in respect of any matter set out in the Provincial Council List.
 
-- The Judicial Service Commission may delegate to such High Court, the power to inspect and report on, the administration of any Court of First Instance within the Province.
+(5) The Judicial Service Commission may delegate to such High Court, the power to inspect and report on, the administration of any Court of First Instance within the Province.
 
-- subject to the provisions of the Constitution and any law, any person aggrieved by a final order, judgement or sentence of  any  such  Court,  in  the  exercise  of  its  jurisdiction  under paragraphs (3)(b) or (3)(c) or (4) may appeal there from to the Court of Appeal in accordance with Article 138.
+(6) subject to the provisions of the Constitution and any law, any person aggrieved by a final order, judgement or sentence of any such Court, in the exercise of its jurisdiction under paragraphs (3)(b) or (3)(c) or (4) may appeal there from to the Court of Appeal in accordance with Article 138.
 
-154Q. Parliament shall by law provide for -
+#### Functions, powers, election &c. of Provincial Councils
+
+154Q. Parliament shall by law provide for –
 
 (a) the election of members of Provincial Councils and the qualifications for membership of such Councils ;
 
@@ -4201,26 +4715,27 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 135
 
-- 154R. (1) There shall be a Finance Commission consisting of -
 #### Finance Commission
+
+154R. (1) There shall be a Finance Commission consisting of –
 
 (a) the Governor of the Central Bank of Sri Lanka ;
 
 (b) the Secretary to the Treasury ; and
 
-- 110 [(c) three other members appointed by the President on the  recommendation of the Constitutional  Council, to  represent  the  three  major  communities,  each of  whom  shall  be  a  person  who  has  distinguished himself or held high office, in the field of finance, law, administration, business or learning. ]
+110[(c) three other members appointed by the President on the recommendation of the Constitutional Council, to represent the three major communities, each of whom shall be a person who has distinguished himself or held high office, in the field of finance, law, administration, business or learning. ]
 
-- Every member of the Commission shall, unless he earlier dies, resigns or is removed from office, hold office for a period of three years.
+(2) Every member of the Commission shall, unless he earlier dies, resigns or is removed from office, hold office for a period of three years.
 
-- The Government shall, on the recommendation of, and in consultation with, the Commission, allocate from the Annual Budget, such funds as are adequate for the purpose of meeting the needs of the Provinces.
+(3) The Government shall, on the recommendation of, and in consultation with, the Commission, allocate from the Annual Budget, such funds as are adequate for the purpose of meeting the needs of the Provinces.
 
-- It  shall  be  the  duty  of  the  Commission  to  make recommendations to the President as to -
+(4) It shall be the duty of the Commission to make recommendations to the President as to –
 
-(a) the  principles  on  which  such  funds  as  are  granted annually by the Government for the use of Provinces, should be apportioned between the various Provinces; and
+(a) the principles on which such funds as are granted annually by the Government for the use of Provinces, should be apportioned between the various Provinces; and
 
 (b) any other matter referred to the Commission by the President relating to Provincial Finance.
 
-- The  Commission  shall  formulate  such  principles  with the objective of achieving balanced regional development in the country, and shall accordingly take into account -
+(5) The Commission shall formulate such principles with the objective of achieving balanced regional development in the country, and shall accordingly take into account –
 
 (a) the population of each Province ;
 
@@ -4240,21 +4755,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+(6) The Commission shall determine its own procedure and shall have such powers in the performance of its duties as Parliament may, by law, confer on it.
+
+(7) The President shall cause every recommendation made by the Finance Commission under this Article to be laid before Parliament, and shall notify Parliament as to the action taken thereon.
+
+(8) No Court or Tribunal shall inquire into, or pronounce on, or in any manner entertain, determine or rule upon, any question relating to the adequacy of such funds, or any recommendation made, or principle formulated by, the Commission.
+
 #### Special provision enabling Provincial Councils not to exercise powers under this Chapter
+
+154S. (1) A Provincial Council may, by resolution, decide not to exercise its powers under Article 154G with respect to any matter or part thereof set out in the Provincial Council List or the Concurrent List of the Ninth Schedule.
+
+(2) Where a resolution has been passed by a Provincial Council under paragraph (1) and the terms of such resolution have been accepted by Parliament, by resolution, the powers of such Provincial Council under Article 154G shall be deemed not to extend to the matter specified in such resolution and Parliament may make law, with respect to that matter, applicable to the province for which that Provincial Council is established, otherwise than in accordance with the provisions of Article 154G.
 
 #### Transitional measures
 
-- The  Commission  shall  determine  its  own  procedure and shall have such powers in the performance of its duties as Parliament may, by law, confer on it.
-
-- The President shall cause every recommendation made by the Finance Commission under this Article to be laid before Parliament, and shall notify Parliament as to the action taken thereon.
-
-- No Court or Tribunal shall inquire into, or pronounce on, or in any manner entertain, determine or rule upon, any question relating to the adequacy of such funds, or any recommendation made, or principle formulated by, the Commission.
-
-- 154S. (1) A Provincial Council may, by resolution, decide not to exercise its powers under Article 154G with respect to any matter or part thereof set out in the Provincial Council List or the Concurrent List of the Ninth Schedule.
-
-- Where  a  resolution  has  been  passed  by  a  Provincial Council under paragraph (1) and the terms of such resolution have been accepted by Parliament, by resolution, the powers of such  Provincial  Council  under Article  154G  shall  be  deemed not  to  extend  to  the  matter  specified  in  such  resolution  and Parliament may make law, with respect to that matter, applicable to the province for which that Provincial Council is established, otherwise  than  in  accordance  with  the  provisions  of  Article 154G.
-
-- 154T. The President may by Order published in the Gazette, take such action, or give such directions, not inconsistent with the provisions of the Constitution, as appears to him to be necessary or expedient, for the purpose of giving effect to the provisions of  this  Chapter,  or  for  the  administrative  changes  necessary therefor, or for the purpose of removing any difficulties.]
+154T. The President may by Order published in the Gazette, take such action, or give such directions, not inconsistent with the provisions of the Constitution, as appears to him to be necessary or expedient, for the purpose of giving effect to the provisions of this Chapter, or for the administrative changes necessary therefor, or for the purpose of removing any difficulties.]
 
 [[END OF PAGE 154]]
 
@@ -4268,19 +4783,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### PUBLIC SECURITY
 
+#### Public Security
+
 155. (1) The Public Security Ordinance as amended and in force immediately prior to the commencement of the Constitution shall be deemed to be a law enacted by Parliament.
 
-(2)  The  power  to  make  emergency  regulations  under  the Public  Security  Ordinance  or  the  law  for  the  time  being  in force relating to public security shall include the power to make regulations having the legal effect of over-riding, amending or suspending the operation of the provisions of any law, except the provisions of the Constitution.
+(2) The power to make emergency regulations under the Public Security Ordinance or the law for the time being in force relating to public security shall include the power to make regulations having the legal effect of over-riding, amending or suspending the operation of the provisions of any law, except the provisions of the Constitution.
 
-(3)  The  provisions  of  any  law  relating  to  public  security, empowering the President to make emergency regulations which have  the  legal  effect  of  over-riding,  amending  or  suspending the operation of the provisions of any law, shall not come into operation, except upon the making of a Proclamation under such law, bringing such provisions into operation.
+(3) The provisions of any law relating to public security, empowering the President to make emergency regulations which have the legal effect of over-riding, amending or suspending the operation of the provisions of any law, shall not come into operation, except upon the making of a Proclamation under such law, bringing such provisions into operation.
 
-111 [(3A) Nothing in the preceding provisions of this Constitution shall be deemed to prohibit the making of emergency regulations, under the Public Security Ordinance or the law for the time being in force relating to public security, with respect to any matter set out in the Ninth Schedule or having the effect of over-riding amending or suspending the operation of a statute made by a Provincial Council.]
+111[(3A) Nothing in the preceding provisions of this Constitution shall be deemed to prohibit the making of emergency regulations, under the Public Security Ordinance or the law for the time being in force relating to public security, with respect to any matter set out in the Ninth Schedule or having the effect of over-riding amending or suspending the operation of a statute made by a Provincial Council.]
 
-(4) Upon the making of such a Proclamation, the occasion thereof shall, subject to the other provisions of this Article, be forthwith communicated to Parliament and accordingly -
+(4) Upon the making of such a Proclamation, the occasion thereof shall, subject to the other provisions of this Article, be forthwith communicated to Parliament and accordingly –
 
-(i) if  such  Proclamation  is  issued  after  the  dissolution of  Parliament such Proclamation shall operate as a summoning of Parliament to meet on the tenth day after  such  Proclamation,  unless  the  Proclamation appoints an earlier date for the meeting which shall not  be  less  than  three  days  from  the  date  of  the Proclamation;  and  the  Parliament  so  summoned shall be kept in session until the expiry or revocation of  such  or  any  further  Proclamation  or  until  the
-
-#### Public Security
+(i) if such Proclamation is issued after the dissolution of Parliament such Proclamation shall operate as a summoning of Parliament to meet on the tenth day after such Proclamation, unless the Proclamation appoints an earlier date for the meeting which shall not be less than three days from the date of the Proclamation; and the Parliament so summoned shall be kept in session until the expiry or revocation of such or any further Proclamation or until the
 
 111 -	Inserted by the Thirteenth Amendment to the Constitution Sec.5
 
@@ -4292,25 +4807,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- conclusion of the General Election whichever event occurs earlier and shall thereupon stand dissolved ;
+conclusion of the General Election whichever event occurs earlier and shall thereupon stand dissolved ;
 
-(ii) if  Parliament  is  at  the  date  of  the  making  of  such Proclamation,  separated  by  any  such  adjournment or  prorogation  as  will  not  expire  within  ten  days, a  Proclamation  shall  be  issued  for  the  meeting  of Parliament within ten days.
+(ii) if Parliament is at the date of the making of such Proclamation, separated by any such adjournment or prorogation as will not expire within ten days, a Proclamation shall be issued for the meeting of Parliament within ten days.
 
-- Where  the  provisions  of  any  law  relating  to  public security have been brought into operation by the making of a Proclamation under such law, such Proclamation shall, subject to the succeeding provisions of this Article, be in operation for a period of one month from the date of the making thereof, but without prejudice to the earlier revocation of such Proclamation or to the making of a further Proclamation at or before the end of that period.
+(5) Where the provisions of any law relating to public security have been brought into operation by the making of a Proclamation under such law, such Proclamation shall, subject to the succeeding provisions of this Article, be in operation for a period of one month from the date of the making thereof, but without prejudice to the earlier revocation of such Proclamation or to the making of a further Proclamation at or before the end of that period.
 
-- Where such provisions as are referred to in paragraph (3) of this Article, of any law relating to public security, have been brought into operation by the making of a Proclamation under such law, such Proclamation shall expire after a period of fourteen days from the date on which such provisions shall have come into operation, unless such Proclamation is approved by a resolution of Parliament:
+(6) Where such provisions as are referred to in paragraph (3) of this Article, of any law relating to public security, have been brought into operation by the making of a Proclamation under such law, such Proclamation shall expire after a period of fourteen days from the date on which such provisions shall have come into operation, unless such Proclamation is approved by a resolution of Parliament:
 
-Provided that if -
+Provided that if –
 
 (a) Parliament stands dissolved at the date of the making of such Proclamation ; or
 
-(b) Parliament  is  at  such  date  separated  by  any  such adjournment  or  prorogation  as  is  referred  to  in paragraph (4)(ii) of this Article ; or
+(b) Parliament is at such date separated by any such adjournment or prorogation as is referred to in paragraph (4)(ii) of this Article ; or
 
-(c) Parliament does not meet when summoned to meet as  provided  in  paragraphs  (4)(i)  and  (4)(ii)  of  this Article,
+(c) Parliament does not meet when summoned to meet as provided in paragraphs (4)(i) and (4)(ii) of this Article,
 
 then such Proclamation shall expire at the end of ten days after the date on which Parliament shall next meet and sit, unless approved by a resolution at such meeting of Parliament.
 
-- Upon  the  revocation  of  a  Proclamation  referred  to  in paragraph (6) of this Article within a period of fourteen days from the  date  on  which  the  provisions  of  any  law  relating  to public  security  shall  have  come  into  operation  or  upon  the expiry of such a Proclamation in accordance with the provisions
+(7) Upon the revocation of a Proclamation referred to in paragraph (6) of this Article within a period of fourteen days from the date on which the provisions of any law relating to public security shall have come into operation or upon the expiry of such a Proclamation in accordance with the provisions
 
 [[END OF PAGE 156]]
 
@@ -4320,11 +4835,11 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 139
 
-of paragraph (6), no Proclamation made within thirty days next ensuring shall come into operation until the making thereof shall have been approved by a resolution of Parliament.
+of paragraph (6), no Proclamation made within thirty days next ensuing shall come into operation until the making thereof shall have been approved by a resolution of Parliament.
 
 112 [  Repealed  ]
 
-- 113 (8)  If  Parliament  does  not  approve  any  Proclamation bringing such provisions as are referred to in paragraph (3) of this Article into operation, such Proclamation shall, immediately upon such disapproval, cease to be valid and of any force in law but without prejudice to anything lawfully done thereunder.
+113(8) If Parliament does not approve any Proclamation bringing such provisions as are referred to in paragraph (3) of this Article into operation, such Proclamation shall, immediately upon such disapproval, cease to be valid and of any force in law but without prejudice to anything lawfully done thereunder.
 
 (9) If the making of a Proclamation cannot be communicated to  and  approved  by  Parliament  by  reason  of  the  fact  that Parliament does not meet when summoned, nothing 114 [contained in paragraph (6) or (7), of this Article], shall affect the validity or operation of such Proclamation :
 
@@ -4334,7 +4849,7 @@ Provided  that  in  such  event,  Parliament  shall  again  be summoned to meet 
 
 > 113 -	 Paras (10) and (11) renumbered as (8) and (9) by the Tenth Amendment to the Constitution Sec. 2(2).
 
-> 114 -	 Substituted by the Tenth Amendment to the Constitution Sec. 2(3) for'contained in paragraph (6), (7), (8) or (9) of this Article.'
+> 114 - Substituted by the Tenth Amendment to the Constitution Sec. 2(3) for “contained in paragraph (6), (7), (8) or (9) of this Article.”
 
 [[END OF PAGE 157]]
 
@@ -4344,23 +4859,23 @@ Provided  that  in  such  event,  Parliament  shall  again  be summoned to meet 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Constitution of the National Police Commission
-
-## 115 [CHAPTER XVIII A
+## 115[CHAPTER XVIII A
 
 ### NATIONAL POLICE COMMISSION
 
-155A. 116 [(1) There shall be a National Police Commission (in  this  Chapter  referred  to  as  the  'Commission')  consisting of seven members appointed by the President on the recommendation  of  the  Constitutional  Council,  of  whom  at least one member shall be a retired police officer who has held office  as  a  Deputy  Inspector-General  of  Police  or  above. The Constitutional  Council  may  in  making  its  recommendation, consult the Public Service Commission. The President shall on the recommendation of the Constitutional Council appoint one member as the Chairman.]
+#### Constitution of the National Police Commission
 
-- No  person  shall  be  appointed  as  a  member  of  the Commission or continue to hold office as such member if he is or becomes a member of Parliament, a Provincial Council or a local authority.
+155A. 116[(1) There shall be a National Police Commission (in this Chapter referred to as the “Commission”) consisting of seven members appointed by the President on the recommendation of the Constitutional Council, of whom at least one member shall be a retired police officer who has held office as a Deputy Inspector-General of Police or above. The Constitutional Council may in making its recommendation, consult the Public Service Commission. The President shall on the recommendation of the Constitutional Council appoint one member as the Chairman.]
 
-- Every person who immediately before his appointment as a member of the Commission, was a public officer in the service of the State or a judicial officer, shall upon such appointment taking effect, cease to hold such office and shall be ineligible for further appointment as a public officer or a judicial officer :
+(2) No person shall be appointed as a member of the Commission or continue to hold office as such member if he is or becomes a member of Parliament, a Provincial Council or a local authority.
+
+(3) Every person who immediately before his appointment as a member of the Commission, was a public officer in the service of the State or a judicial officer, shall upon such appointment taking effect, cease to hold such office and shall be ineligible for further appointment as a public officer or a judicial officer :
 
 Provided that any such person shall, until he ceases to be a member of the Commission, or while continuing to be a member, attains the age at which he would, if he were a public officer or a judicial officer, as the case may be, be required to retire, be deemed to be a public officer or a judicial officer and to hold a pensionable office in the service of the State, for the purpose of any provision relating to the grant of pensions, gratuities and other allowances in respect of such service.
 
-- 117 [ (4) Every member of the Commission shall hold office for a period of three years from the date of appointment, unless such  member  becomes  subject  to  any  disqualification  under paragraph (2) or earlier resigns from office by writing addressed to the President or is removed from office by the President for reasons  assigned  and  with  the  approval  of  the  Constitutional Council  or  is  convicted  by  a  Court  of  law  of  any  offence
+117[(4) Every member of the Commission shall hold office for a period of three years from the date of appointment, unless such member becomes subject to any disqualification under paragraph (2) or earlier resigns from office by writing addressed to the President or is removed from office by the President for reasons assigned and with the approval of the Constitutional Council or is convicted by a Court of law of any offence
 
-> 115 -	 New Chapter XVIIIA inserted by the Seventeenth Amendment to theConstitution Sec. 20.
+> 115 - New Chapter XVIIIA inserted by the Seventeenth Amendment to the Constitution Sec. 20.
 
 > 116 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.38(1)
 
@@ -4384,15 +4899,15 @@ involving moral turpitude or if a resolution for the imposition of civic disabil
 
 (8)  The  Chairman  and  members  of  the  Commission  shall be deemed to be public servants within the meaning and for the purposes of Chapter IX of the Penal Code.
 
-155B. (1)  The  quorum  for  a  meeting  of  the  Commission shall be four members.
+#### Meetings of the Commission
 
-(2)  The  Chairman  shall  preside  at  all  meetings  of  the Commission  and  in  his  absence  a  member  elected  by  the members present  from  amongst  the  members  shall  preside  at such meeting.
+155B. (1) The quorum for a meeting of the Commission shall be four members.
+
+(2) The Chairman shall preside at all meetings of the Commission and in his absence a member elected by the members present from amongst the members shall preside at such meeting.
 
 (3) Decisions of the Commission shall be by a majority of members present and voting at the meeting at which the decision is taken and in the event of an equality of votes the Chairman or the person presiding shall have a casting vote.
 
 (4) The Commission shall have power to act notwithstanding any vacancy in its membership, and any act or proceeding or decision of the Commission shall not be invalid or deemed to be invalid by reason only of such vacancy or any defect in the appointment of the Chairman or member.
-
-#### Meetings of the Commission
 
 [[END OF PAGE 159]]
 
@@ -4402,25 +4917,25 @@ involving moral turpitude or if a resolution for the imposition of civic disabil
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+118[(5) The Inspector-General of Police shall be entitled to be present at meetings of the Commission, except where any matter relating to him is being considered. He shall have no right to vote at such meetings.]
+
 #### Immunity from Legal Proceedings
+
+155C. Subject to the jurisdiction conferred on the Supreme Court 119[under Article 126 and the powers granted to the Administrative Appeals Tribunal under Article 155L ], no court or tribunal shall have the power or jurisdiction to inquire into, or pronounce upon or in any manner call in question any order or decision made by the Commission or a Committee, in pursuance of any power or duty, conferred or imposed on such Commission or Committee under this Chapter or under any other law.
 
 #### Secretary to the Commission
 
+155D. There shall be a Secretary to the Commission and such other officers appointed by the Commission on such terms and conditions as may be determined by the Commission.
+
 #### Costs and expenses
+
+155E. The costs and expenses of the Commission shall be a charge on the Consolidated Fund.
 
 #### Interference with the Commission
 
-118 [ (5) The Inspector-General of Police shall be entitled to be  present  at  meetings  of  the  Commission,  except  where  any matter relating  to  him  is  being  considered.    He  shall  have  no right to vote at such meetings.]
+155F. (1) Every person who, otherwise than in the course of such person’s lawful duty, directly or indirectly by himself or by or with any other person, in any manner whatsoever influences or attempts to influence or interferes with 120[any decision of the Commission or a Committee or any police officer to whom the Commission has delegated any power under this Chapter or to so influence any member of the Commission or a Committee or any police officer to whom any power has been delegated], shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
 
-155C. Subject to the jurisdiction conferred on the Supreme Court 119 [under  Article  126  and  the  powers  granted  to  the Administrative Appeals Tribunal under Article 155L ], no court or tribunal shall have the power or jurisdiction to inquire into, or pronounce upon or in any manner call in question any order or decision made by the Commission or a Committee, in pursuance of any power or duty, conferred or imposed on such Commission or Committee under this Chapter or under any other law.
-
-- 155D. There  shall  be  a  Secretary  to  the  Commission  and such other officers appointed by the Commission on such terms and conditions as may be determined by the Commission.
-
-- 155E. The costs and expenses of the Commission shall be a charge on the Consolidated Fund.
-
-155F. (1) Every person who, otherwise than in the course of such person's lawful duty, directly or indirectly by himself or by or with any other person, in any manner whatsoever influences or attempts to influence or interferes with 120 [any decision of the Commission or a Committee or any police officer to whom the Commission has delegated any power under this Chapter or to so influence any member of the Commission or a  Committee or any police officer to whom any  power has been delegated], shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
-
-(2)  A  High  Court  established  under  Article  154P  of  the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
+(2) A High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
 
 > 118 -	 Inserted by the Nineteenth Amendment to the Constitution Sec.39
 
@@ -4436,38 +4951,35 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 143
 
-121 [ 155FF Repealed  ]
+121[ 155FF Repealed ]
 
-155FFF. The  Commission  shall  from  time  to  time,  make rules  for  such  matters  which  require  rules  to  be  made.  Every such rule shall be published in the Gazette.]
+#### Commission to make rules
 
-122 [ 155G. (1)  (a)  The  appointment,  promotion,  transfer, disciplinary control and dismissal of police officers other than the Inspector-General of Police, shall be vested in the Commission. The  Commission  shall  exercise  its  powers  of  promotion, transfer, disciplinary control and dismissal in consultation with the Inspector-General of Police.
+155FFF. The Commission shall from time to time, make rules for such matters which require rules to be made. Every such rule shall be published in the Gazette.]
 
-(b) The Commission shall not in the exercise of its powers under  this  Article,  derogate  from  the  powers  and  functions assigned to the Provincial Police Service Commissions as and when such Commissions are established under Chapter XVlIA of the Constitution.
+#### Powers of the Commission
 
-- The Commission shall establish procedures to entertain and investigate public complaints and complaints of any aggrieved  person  made  against  a  police  officer  or  the  police service,  and  provide  redress  as  provided  by  law.  In  the  event of  the  Commission  providing  redress,  the  Commission  shall forthwith inform the Inspector-General of Police.
+122[155G. (1) (a) The appointment, promotion, transfer, disciplinary control and dismissal of police officers other than the Inspector-General of Police, shall be vested in the Commission. The Commission shall exercise its powers of promotion, transfer, disciplinary control and dismissal in consultation with the Inspector-General of Police.
 
-- The Commission shall, in consultation with the Inspector-General  of  Police,  provide  for  and  determine  all matters regarding police officers, including:-
+(b) The Commission shall not in the exercise of its powers under this Article, derogate from the powers and functions assigned to the Provincial Police Service Commissions as and when such Commissions are established under Chapter XVIIA of the Constitution.
+
+(2) The Commission shall establish procedures to entertain and investigate public complaints and complaints of any aggrieved person made against a police officer or the police service, and provide redress as provided by law. In the event of the Commission providing redress, the Commission shall forthwith inform the Inspector-General of Police.
+
+(3) The Commission shall, in consultation with the Inspector-General of Police, provide for and determine all matters regarding police officers, including:-
 
 (a) the formulation of schemes of recruitment, promotion and transfers, subject to any policy determined by the Cabinet of Ministers pertaining to the same;
 
 (b) training and the improvement of the efficiency and independence of the police service;
 
-(c) the  nature  and  type  of  the  arms,  ammunition  and other equipment necessary for the use of the National Division and the Provincial Divisions; and
+(c) the nature and type of the arms, ammunition and other equipment necessary for the use of the National Division and the Provincial Divisions; and
 
 (d) codes of conduct and disciplinary procedures.
 
-- The  Commission  shall  exercise  all  such  powers  and discharge and perform all such functions and duties as are vested in it under Appendix I of List I contained in the Ninth Schedule to the Constitution.
+(4) The Commission shall exercise all such powers and discharge and perform all such functions and duties as are vested in it under Appendix I of List I contained in the Ninth Schedule to the Constitution.
 
-> 121 -	 Repealed by the Nineteenth Amendment to the Constitution Sec.42
+> 121 - Repealed by the Nineteenth Amendment to the Constitution Sec.42
 
-> 122 -	 Inserted by the Nineteenth Amendment to the Constitution Sec.43
-
-#### Commission to make rules
-
-#### Powers of the Commission
-#### Delegation of certain powers of the Commission to a Committee
-#### Delegation of certain functions by the Commission
-#### Right of Appeal
+> 122 - Inserted by the Nineteenth Amendment to the Constitution Sec.43
 
 [[END OF PAGE 161]]
 
@@ -4477,21 +4989,27 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- 155H. (1) The Commission may delegate to a Committee of the Commission (not   consisting of members of the Commission) as  shall  be  nominated  by  the  Commission,  the  powers  of appointment, promotion, transfer, disciplinary control and dismissal of such categories of police officers as are specified by the Commission.
+#### Delegation of certain powers of the Commission to a Committee
 
-- The  Commission  shall  cause  to  be  published  in  the Gazette, the appointment of any such Committee.
+155H. (1) The Commission may delegate to a Committee of the Commission (not consisting of members of the Commission) as shall be nominated by the Commission, the powers of appointment, promotion, transfer, disciplinary control and dismissal of such categories of police officers as are specified by the Commission.
 
-- The procedure and quorum for meetings of a Committee nominated under paragraph (1) shall be according to rules made by the Commission. The Commission shall cause such rules to be published in the Gazette.
+(2) The Commission shall cause to be published in the Gazette, the appointment of any such Committee.
 
-- 155J. (1) The Commission may, subject to such conditions and  procedures  as  may  be  prescribed  by  the  Commission, delegate  to  the  Inspector-General  of  Police  or  in  consultation with the Inspector-General of Police to any Police Officer, its powers of appointment, promotion, transfer, disciplinary control and dismissal of any category of police officers.
+(3) The procedure and quorum for meetings of a Committee nominated under paragraph (1) shall be according to rules made by the Commission. The Commission shall cause such rules to be published in the Gazette.
 
-- The Commission shall cause any such delegation to be published in the Gazette.
+#### Delegation of certain functions by the Commission
 
-- 155K. (1)Where  the  Commission  has  delegated  under Article  155J  to  any  police  officer  its  powers  of  appointment, promotion,  transfer,  disciplinary  control  and  dismissal  of  any category of police officers, the Inspector-General of Police shall have a right of appeal to the Commission against any order made by such Police officer in the exercise of his  delegated powers.
+155J. (1) The Commission may, subject to such conditions and procedures as may be prescribed by the Commission, delegate to the Inspector-General of Police or in consultation with the Inspector-General of Police to any Police Officer, its powers of appointment, promotion, transfer, disciplinary control and dismissal of any category of police officers.
 
-- A  police  officer  aggrieved  by  any  order  relating  to promotion,  transfer  or  any  order  on  a  disciplinary  matter  or dismissal made by the Inspector-General of Police or a Committee or  a  Police  Officer  referred  to  in  Article  155H  and  155J  in respect of such officer may, appeal to the Commission against such order in accordance with rules made by the Commission from time to time regulating the procedure and the period fixed for the making and hearing of an appeal by the Commission.
+(2) The Commission shall cause any such delegation to be published in the Gazette.
 
-- The  Commission  shall  have  the  power  to  alter,  vary, rescind  or  confirm  such  order  upon  an  appeal  made  under paragraph (1) or paragraph (2), or to give directions in relation thereto  or  to  order  such  further  or  other  inquiry,  as  to  the Commission shall deem fit.
+#### Right of Appeal
+
+155K. (1) Where the Commission has delegated under Article 155J to any police officer its powers of appointment, promotion, transfer, disciplinary control and dismissal of any category of police officers, the Inspector-General of Police shall have a right of appeal to the Commission against any order made by such Police officer in the exercise of his delegated powers.
+
+(2) A police officer aggrieved by any order relating to promotion, transfer or any order on a disciplinary matter or dismissal made by the Inspector-General of Police or a Committee or a Police Officer referred to in Article 155H and 155J in respect of such officer may, appeal to the Commission against such order in accordance with rules made by the Commission from time to time regulating the procedure and the period fixed for the making and hearing of an appeal by the Commission.
+
+(3) The Commission shall have the power to alter, vary, rescind or confirm such order upon an appeal made under paragraph (1) or paragraph (2), or to give directions in relation thereto or to order such further or other inquiry, as to the Commission shall deem fit.
 
 [[END OF PAGE 162]]
 
@@ -4501,24 +5019,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 145
 
-- The  Commission  shall  from  time  to  time  cause  to  be published in the Gazette, rules made by it under paragraph (2) of this Article.
+(4) The Commission shall from time to time cause to be published in the Gazette, rules made by it under paragraph (2) of this Article.
 
-- Upon  any  delegation  of  its  powers  to  the  InspectorGeneral of Police or a Committee or police officer under Article 155H and 155J, the Commission shall not, whilst such delegation is in force, exercise, perform or discharge its powers, duties or functions in respect of the categories of police officers in respect of which such delegation is made, subject to the right of appeal hereinbefore provided.
-
-- 155L. Any  police  officer  aggrieved  by  any  order  relating to promotion, transfer, or any order on a disciplinary matter or dismissal made by the Commission, in respect of such officer, may appeal therefrom to the Administrative Appeals Tribunal established  under  Article  59,  which  shall  have  the  power  to alter, vary, rescind or confirm any order or decision made by the Commission. ]
-
-- 123 [ 155M .  Until  the  Commission  otherwise  provides,  all rules,  regulations  and  procedures  relating  to  the  Police  Force as are in force on the date of the coming into operation of this Article, shall continue to be operative and in force.]
-
-- 155N. The Commission shall be responsible and answerable to Parliament in accordance with the provisions of the Standing Orders of Parliament for the exercise, performance and discharge of its powers, duties and functions and shall forward to Parliament in each calendar year a report of its activities in such year.]
+(5) Upon any delegation of its powers to the Inspector-General of Police or a Committee or police officer under Article 155H and 155J, the Commission shall not, whilst such delegation is in force, exercise, perform or discharge its powers, duties or functions in respect of the categories of police officers in respect of which such delegation is made, subject to the right of appeal hereinbefore provided.
 
 #### Appeals to the Administrative Appeals Tribunal
 
+155L. Any police officer aggrieved by any order relating to promotion, transfer, or any order on a disciplinary matter or dismissal made by the Commission, in respect of such officer, may appeal therefrom to the Administrative Appeals Tribunal established under Article 59, which shall have the power to alter, vary, rescind or confirm any order or decision made by the Commission. ]
+
 #### Saving of existing rules and regulations.
 
-#### Commission Answerable to Parliament
-#### Parliamentary Commissioner for Administration
+123[155M. Until the Commission otherwise provides, all rules, regulations and procedures relating to the Police Force as are in force on the date of the coming into operation of this Article, shall continue to be operative and in force.]
 
-123 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.44
+#### Commission Answerable to Parliament
+
+155N. The Commission shall be responsible and answerable to Parliament in accordance with the provisions of the Standing Orders of Parliament for the exercise, performance and discharge of its powers, duties and functions and shall forward to Parliament in each calendar year a report of its activities in such year.]
+
+123 - Substituted by the Nineteenth Amendment to the Constitution Sec.44
 
 [[END OF PAGE 163]]
 
@@ -4532,13 +5049,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### THE PARLIAMENTARY COMMISSIONER FOR ADMINISTRATION
 
-(1) Parliament shall by law provide for the establishment of the office of the Parliamentary Commissioner for  Administration  (Ombudsman)  charged  with  the  duty  of investigating and reporting upon complaints or allegations of the infringement of fundamental rights and other injustices by public officers and officers of public corporations, local authorities and other  like  institutions,  in  accordance  with  and  subject  to  the provisions of such law.
+#### Parliamentary Commissioner for Administration
 
-- 124 [ (2) The Parliamentary Commissioner for  Administration (Ombudsman) shall, subject to the approval of the Constitutional Council,  be  appointed  by  the  President  and  shall  hold  office during good behaviour. ]
+156. (1) Parliament shall by law provide for the establishment of the office of the Parliamentary Commissioner for Administration (Ombudsman) charged with the duty of investigating and reporting upon complaints or allegations of the infringement of fundamental rights and other injustices by public officers and officers of public corporations, local authorities and other like institutions, in accordance with and subject to the provisions of such law.
 
-- The  salary  of  the  Parliamentary  Commissioner  for Administration shall be determined by Parliament and shall not be diminished during his term of office.
+124[(2) The Parliamentary Commissioner for Administration (Ombudsman) shall, subject to the approval of the Constitutional Council, be appointed by the President and shall hold office during good behaviour. ]
 
-- The  office  of  the  Parliamentary  Commissioner  for Administration shall become vacant -
+(3) The salary of the Parliamentary Commissioner for Administration shall be determined by Parliament and shall not be diminished during his term of office.
+
+(4) The office of the Parliamentary Commissioner for Administration shall become vacant –
 
 (a) upon his death;
 
@@ -4546,11 +5065,11 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (c) on his attaining the age fixed by law;
 
-(d) on  his  removal  by  the  President  on  account  of  ill health or physical or mental infirmity; or
+(d) on his removal by the President on account of ill health or physical or mental infirmity; or
 
-(e) on  his  removal  by  the  President  on  an  address  of Parliament.
+(e) on his removal by the President on an address of Parliament.
 
-- 125 [  (5)  Whenever  the  Parliamentary  Commissioner  for Administration  is  unable  to  perform  or  discharge  the  duties and functions  of  his  office,  the  President  shall,  subject  to  the approval of the Constitutional Council, appoint a person to act in his place. ]
+125[(5) Whenever the Parliamentary Commissioner for Administration is unable to perform or discharge the duties and functions of his office, the President shall, subject to the approval of the Constitutional Council, appoint a person to act in his place. ]
 
 124 -	 Substituted by the Nineteenth Amendment to the Constitution Sec.45
 
@@ -4564,23 +5083,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 147
 
-## 126 [ CHAPTER XIX A
+## 126[ CHAPTER XIX A
 
 ### COMMISSION TO INVESTIGATE ALLEGATIONS OF BRIBERY OR CORRUPTION
 
-156A. (1) Parliament shall by law provide for the establishment  of  a  Commission  to  investigate  allegations  of bribery or corruption. Such law shall provide for-
-
-(a) the appointment of the members of the Commission by  the  President  on  the  recommendation  of  the Constitutional Council;
-
-(b) the powers of the Commission, including the power to direct the holding of a preliminary inquiry or the making  of  an  investigation  into  an  allegation  of bribery or corruption, whether of its own motion or on a complaint made to it, and the power to institute prosecutions  for  offences  under  the  law  in  force relating to bribery or corruption;
-
-(c) measures to implement the United Nations Convention Against Corruption and any other international  Convention  relating  to  the  prevention of corruption, to which Sri Lanka is a party.
-
-(2) Until Parliament so provides,  the  Commission  to investigate Allegations of Bribery  or  Corruption  Act, No. 19 of 1994  shall apply, subject to the modification that it shall be lawful for the Commission appointed under that Act, to inquire into,  or  investigate,  an  allegation  of  bribery  or  corruption, whether on its own motion or on a written complaint made to it.
-
 #### Commission to investigate allegations of bribery or corruption
-#### National Procurement Commission
-#### Functions of the Commission
+
+156A. (1) Parliament shall by law provide for the establishment of a Commission to investigate allegations of bribery or corruption. Such law shall provide for–
+
+(a) the appointment of the members of the Commission by the President on the recommendation of the Constitutional Council;
+
+(b) the powers of the Commission, including the power to direct the holding of a preliminary inquiry or the making of an investigation into an allegation of bribery or corruption, whether of its own motion or on a complaint made to it, and the power to institute prosecutions for offences under the law in force relating to bribery or corruption;
+
+(c) measures to implement the United Nations Convention Against Corruption and any other international Convention relating to the prevention of corruption, to which Sri Lanka is a party.
+
+(2) Until Parliament so provides, the Commission to investigate Allegations of Bribery or Corruption Act, No. 19 of 1994 shall apply, subject to the modification that it shall be lawful for the Commission appointed under that Act, to inquire into, or investigate, an allegation of bribery or corruption, whether on its own motion or on a written complaint made to it.
 
 126 -	 New Chapters XIXA and XIXB inserted by the Nineteenth Amendment to the Constitution Sec.46
 
@@ -4596,17 +5113,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### NATIONAL PROCUREMENT COMMISSION
 
-156B. (1)  There shall be a National Procurement Commission (in this Chapter referred to as the 'Commission') consisting of five members appointed by the President on the recommendation of the Constitutional Council, of whom at least three members shall be persons who have had proven experience in procurement, accountancy, law or public administration. The President shall, on the recommendation of the Constitutional Council, appoint one member as the Chairman of the Commission.
+#### National Procurement Commission
 
-(2) Every member of the Commission shall hold office for a period of three years from the date of appointment, unless such member earlier  resigns  from  office  by  a  writing  addressed  to the  President  or    is  removed  from  office  by  the  President  for causes assigned with the approval of the Constitutional Council or is convicted by a court of law for an offence involving moral turpitude or is elected as a member of Parliament or as a member of a Provincial Council or of a local authority or if a resolution for the imposition of a civic disability on him is passed in terms of Article 81.
+156B. (1) There shall be a National Procurement Commission (in this Chapter referred to as the “Commission”) consisting of five members appointed by the President on the recommendation of the Constitutional Council, of whom at least three members shall be persons who have had proven experience in procurement, accountancy, law or public administration. The President shall, on the recommendation of the Constitutional Council, appoint one member as the Chairman of the Commission.
 
-- The  Chairman  and  every  member  of  the  Commission shall  be  paid  such  allowances  as  may  be  determined  by  a resolution of Parliament. Such allowances shall be charged on the Consolidated Fund and shall not be diminished during the term of office of such Chairman or the member.
+(2) Every member of the Commission shall hold office for a period of three years from the date of appointment, unless such member earlier resigns from office by a writing addressed to the President or is removed from office by the President for causes assigned with the approval of the Constitutional Council or is convicted by a court of law for an offence involving moral turpitude or is elected as a member of Parliament or as a member of a Provincial Council or of a local authority or if a resolution for the imposition of a civic disability on him is passed in terms of Article 81.
 
-- 156C. (1)  It  shall  be  the  function  of  the  Commission  to formulate  fair,  equitable,  transparent,  competitive  and  cost effective  procedures  and  guidelines,  for  the  procurement  of goods and services,works, consultancy services and information systems by government institutions and cause such guidelines to be published in the Gazette and within three months of such publication, to be placed before Parliament.
+(3) The Chairman and every member of the Commission shall be paid such allowances as may be determined by a resolution of Parliament. Such allowances shall be charged on the Consolidated Fund and shall not be diminished during the term of office of such Chairman or the member.
 
-- Without prejudice to the generality of paragraph (1), it shall be the function of the Commission to,-
+#### Functions of the Commission
 
-(a) monitor  and  report  to  the  appropriate  authorities, on whether all procurement of goods and services, works, consultancy services and information systems by government institutions are  based on procurement plans prepared in accordance with previously approved action plans;
+156C. (1) It shall be the function of the Commission to formulate fair, equitable, transparent, competitive and cost effective procedures and guidelines, for the procurement of goods and services,works, consultancy services and information systems by government institutions and cause such guidelines to be published in the Gazette and within three months of such publication, to be placed before Parliament.
+
+(2) Without prejudice to the generality of paragraph (1), it shall be the function of the Commission to,–
+
+(a) monitor and report to the appropriate authorities, on whether all procurement of goods and services, works, consultancy services and information systems by government institutions are based on procurement plans prepared in accordance with previously approved action plans;
 
 [[END OF PAGE 166]]
 
@@ -4624,19 +5145,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (e) investigate reports of procurements made by government institutions outside established procedures and guidelines, and to report the officers responsible  for  such  procurements  to  the  relevant authorities for necessary action.
 
-156D. (1)  The  Commission  may,  by  Notice  in  writing, require any person to,-
+#### Powers of the Commission
+
+156D. (1) The Commission may, by Notice in writing, require any person to,–
 
 (a) attend before the Commission, to be questioned by the Commission;
 
 (b) produce to the Commission, any document or thing in the possession or control of that person and specified in such Notice.
 
-- Every person who-
+(2) Every person who–
 
 (a) fails, without reasonable cause to appear before the Commission when required to do so by a Notice sent to him under paragraph (1);
 
-(b) appears before the Commission in compliance with such a Notice, but refuses without reasonable cause,  to  answer  any  questions  put  to  him  by  the Commission; or
-
-#### Powers of the Commission
+(b) appears before the Commission in compliance with such a Notice, but refuses without reasonable cause, to answer any questions put to him by the Commission; or
 
 [[END OF PAGE 167]]
 
@@ -4646,31 +5167,31 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+(c) fails or refuses, without reasonable cause, to produce any document or thing which he was required to produce by a Notice sent to him under paragraph (1),
+
+shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
+
+(3) Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (2).
+
 #### Meetings of the Commission
+
+156E. (1) The Commission shall meet as often as may be necessary for the discharge of its functions.
+
+(2) The Chairman shall preside at all meetings of the Commission. In the absence of the Chairman from any meeting of the Commission, the members present shall elect a Chairman for that meeting, from among themselves.
+
+(3) The quorum for any meeting of the Commission shall be three.
+
+(4) Decisions of the Commission shall be by the majority vote of the members present and voting at the meeting at which the decision is taken, and in the event of an equality of votes, the Chairman or member presiding at the meeting shall have a casting vote.
+
+(5) Subject to the preceding provisions of this Article, the Commission may determine the procedure with regard to its meetings and the transaction of business at such meetings.
+
+(6) The Commission shall have the power to act notwithstanding any vacancy in the membership of the Commission, and no act, proceeding or decision of the Commission shall be invalid or deemed to be invalid, by reason only of such vacancy or defect in the appointment of a member.
 
 #### Staff of the Commission
 
-(c) fails or refuses, without reasonable cause, to produce any  document  or  thing  which  he  was  required  to produce by a Notice sent to him  under paragraph (1),
+156F. (1) the Commission shall appoint a Secretary-General and such other officers as it may consider necessary for the proper discharge of its functions, on such terms and conditions as may be determined by the Commission.
 
-shall  be  guilty  of  an  offence  and  shall  on  conviction  be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
-
-- Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (2).
-
-- 156E. (1) The Commission shall meet as often as may be necessary for the discharge of its functions.
-
-- The  Chairman  shall  preside  at  all  meetings  of  the Commission. In the absence of the Chairman from any meeting of the Commission,    the members present shall elect a Chairman for that meeting, from among themselves.
-
-- The quorum for any meeting of the Commission shall be three.
-
-- Decisions of the Commission shall be by the majority vote of the members present and voting at the meeting at which the decision is taken, and in the event of an equality of votes, the Chairman or member presiding at the meeting shall have a casting vote.
-
-- Subject to the preceding provisions of this Article, the Commission  may  determine  the  procedure  with  regard  to  its meetings and the transaction of business at such meetings.
-
-- The Commission shall have the power to act notwithstanding any vacancy in the membership of the Commission,  and no act, proceeding or decision of the Commission shall be invalid or deemed to be invalid, by reason only of such vacancy or defect in the appointment of a member.
-
-- 156F. (1) the Commission shall appoint a Secretary-General and such other officers as it  may  consider necessary for the proper discharge of its functions, on such terms and conditions as may be determined by the Commission.
-
-- All  members and officers of the Commission shall be deemed to be public servants within the meaning, and for the purposes of, Chapter IX of the Penal Code.
+(2) All members and officers of the Commission shall be deemed to be public servants within the meaning, and for the purposes of, Chapter IX of the Penal Code.
 
 [[END OF PAGE 168]]
 
@@ -4680,17 +5201,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 151
 
-- No suit, prosecution or other proceeding shall lie against any member or officer of the Commission for any act or thing which in good faith is done or purported to be done by him in the performance of his duties or the discharge of his functions, under the Constitution.
-
-- 156G. The expenses of the Commission shall be charged on the Consolidated Fund.
-
-- 156H. In  this  Chapter,  'government  institution'  includes a  Ministry,  a  government  department,  a  public  corporation, a  local  authority,  any  business  or  other  undertaking  vested  in the  Government  and    a  Company  registered  or  deemed  to  be registered under the Companies Act, No 7 of 2007, in which the Government, a public corporation or any local authority holds more than fifty per centum of the shares. ]
+(3) No suit, prosecution or other proceeding shall lie against any member or officer of the Commission for any act or thing which in good faith is done or purported to be done by him in the performance of his duties or the discharge of his functions, under the Constitution.
 
 #### Expenses of the Commission to be charged on the Consolidated Fund
 
+156G. The expenses of the Commission shall be charged on the Consolidated Fund.
+
 #### Interpretation
-#### International Treaties and Agreements
-#### Prohibition against violation of territorial integrity of Sri Lanka
+
+156H. In this Chapter, “government institution” includes a Ministry, a government department, a public corporation, a local authority, any business or other undertaking vested in the Government and a Company registered or deemed to be registered under the Companies Act, No 7 of 2007, in which the Government, a public corporation or any local authority holds more than fifty per centum of the shares. ]
 
 [[END OF PAGE 169]]
 
@@ -4704,19 +5223,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### GENERAL
 
-157. Where  Parliament  by  resolution  passed  by  not  less than two-thirds of the whole number of Members of Parliament (including those not present) voting in its favour, approves as being  essential  for  the  development  of  the  national  economy, any Treaty or Agreement between the Government of Sri Lanka and  the  Government  of  any  foreign  State  for  the  promotion and protection of the investments in Sri Lanka of such foreign State,  its  nationals,  or  of  corporations,  companies  and  other associations  incorporated  or  constituted  under  its  laws,  such Treaty or Agreement shall have the force of law in Sri Lanka and otherwise than in the interests of national security no written law shall be enacted or made, and no executive or administrative action shall be taken, in contravention of the provisions of such Treaty or Agreement.
+#### International Treaties and Agreements
 
-- 127 [ 157A. (1)  No person shall, directly or indirectly, in or outside Sri Lanka, support, espouse, promote, finance, encourage or  advocate  the  establishment  of  a  separate  State  within  the territory of Sri Lanka.
+157. Where Parliament by resolution passed by not less than two-thirds of the whole number of Members of Parliament (including those not present) voting in its favour, approves as being essential for the development of the national economy, any Treaty or Agreement between the Government of Sri Lanka and the Government of any foreign State for the promotion and protection of the investments in Sri Lanka of such foreign State, its nationals, or of corporations, companies and other associations incorporated or constituted under its laws, such Treaty or Agreement shall have the force of law in Sri Lanka and otherwise than in the interests of national security no written law shall be enacted or made, and no executive or administrative action shall be taken, in contravention of the provisions of such Treaty or Agreement.
 
-- No  political  party  or  other  association  or  organization shall have as one of its aims or objects the establishment of a separate State within the territory of Sri Lanka.
+#### Prohibition against violation of territorial integrity of Sri Lanka
 
-- Any person who acts in contravention of the provisions of  paragraph (1) shall, on conviction by the Court of Appeal, after trial on indictment and according to such procedure as may be prescribed by law, -
+127[157A. (1) No person shall, directly or indirectly, in or outside Sri Lanka, support, espouse, promote, finance, encourage or advocate the establishment of a separate State within the territory of Sri Lanka.
 
-(a) be  subject  to  civic  disability  for  such  period  not exceeding seven years as may be determined by such Court;
+(2) No political party or other association or organization shall have as one of its aims or objects the establishment of a separate State within the territory of Sri Lanka.
 
-(b) forfeit  his  movable  and  immovable  property  other than such property as is determined by an order of such Court as being necessary for the sustenance of such person and his family;
+(3) Any person who acts in contravention of the provisions of paragraph (1) shall, on conviction by the Court of Appeal, after trial on indictment and according to such procedure as may be prescribed by law, –
 
-(c) not  be  entitled  to  civic  rights  for  such  period  not exceeding seven years as may be determined by such Court; and
+(a) be subject to civic disability for such period not exceeding seven years as may be determined by such Court;
+
+(b) forfeit his movable and immovable property other than such property as is determined by an order of such Court as being necessary for the sustenance of such person and his family;
+
+(c) not be entitled to civic rights for such period not exceeding seven years as may be determined by such Court; and
 
 127 -Inserted by the Sixth Amendment to the Constitution Sec.3
 
@@ -4734,7 +5257,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (5)  Where  the  Supreme  Court  makes  a  declaration  under paragraph (4) in relation to any political party or other association or organization, in pursuance of an application made to it under that paragraph -
 
-(a) that political party or other association or organization  shall  be  deemed,  for  all  purposes  to be  prescribed  and  any  member  of  such  political party  or  other  association  or  organization,  who  is a  Member  of  Parliament  shall  be  deemed  to  have vacated his seat in Parliament with effect from the date of such declaration, and any nomination paper submitted by such political party or other association or organization shall be deemed for all purposes to be invalid;
+(a) that political party or other association or organization shall be deemed, for all purposes to be proscribed and any member of such political party or other association or organization, who is a Member of Parliament shall be deemed to have vacated his seat in Parliament with effect from the date of such declaration, and any nomination paper submitted by such political party or other association or organization shall be deemed for all purposes to be invalid;
 
 (b) any person who holds office or is a member of that political  party  or  other  association  or  organization, shall be guilty of an offence and shall, on conviction, by the Court of Appeal after trial on indictment and according to such procedure as may be prescribed by law -
 
@@ -4772,17 +5295,17 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 155
 
-(a)  Every  person  who  is  a  Member  of  Parliament  on the coming into force of this Article shall not be entitled to sit and vote in Parliament unless he takes and subscribes or makes and subscribes an oath or affirmation in the form set out in the Seventh Schedule.
+(8) (a) Every person who is a Member of Parliament on the coming into force of this Article shall not be entitled to sit and vote in Parliament unless he takes and subscribes or makes and subscribes an oath or affirmation in the form set out in the Seventh Schedule.
 
 (b) Every person who is elected or nominated as a Member of Parliament on or after the coming into force of this Article shall not be entitled to sit and vote in Parliament unless he takes and subscribes or makes and subscribes an oath or affirmation in the form set out in the Seventh Schedule.
 
-- No person who has taken and subscribed or made and subscribed  an  oath  or  affirmation  in  the  form  set  out  in  the Seventh  Schedule  shall,  notwithstanding  any  provision  to  the contrary in the Constitution, be required to take and subscribe or  make and subscribe any other oath or affirmation required to  be  taken  and  subscribed or made and subscribed under the Constitution.
+(9) No person who has taken and subscribed or made and subscribed an oath or affirmation in the form set out in the Seventh Schedule shall, notwithstanding any provision to the contrary in the Constitution, be required to take and subscribe or make and subscribe any other oath or affirmation required to be taken and subscribed or made and subscribed under the Constitution.
 
-- Parliament  may,  by  resolution,  determine  such  other categories  of  persons  or  officers  to  whom  the  provisions  of paragraph (7) shall apply and thereupon, the provisions of such paragraph shall, mutatis mutandis , apply to, and in relation to, officers or persons of that category.
+(10) Parliament may, by resolution, determine such other categories of persons or officers to whom the provisions of paragraph (7) shall apply and thereupon, the provisions of such paragraph shall, mutatis mutandis, apply to, and in relation to, officers or persons of that category.
 
-- The jurisdiction of the Court of Appeal in respect of its  powers under this Article shall be exercised in the manner provided in sub-paragraph (iv) of the proviso to paragraph (2) of Article 146.
+(11) The jurisdiction of the Court of Appeal in respect of its powers under this Article shall be exercised in the manner provided in sub-paragraph (iv) of the proviso to paragraph (2) of Article 146.
 
-- In this Article, 'civic rights' means -
+(12) In this Article, “civic rights” means –
 
 (a) the right to obtain a passport;
 
@@ -4802,13 +5325,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### Delegation
 
+158. Where any person is empowered under the provisions of the Constitution to delegate any power, duty or function to any other person, such person delegating such power, duty or function may, notwithstanding such delegation, exercise, perform or discharge such power, duty or function and may at any time revoke such delegation.
+
+In this Article, “person” includes any body of persons or any authority.
+
 #### Deputy Speaker to act for Speaker
 
-158. Where any person is empowered under the provisions of  the  Constitution  to  delegate  any  power,  duty  or  function to  any  other  person,  such  person  delegating such power, duty or  function  may,  notwithstanding  such  delegation,  exercise, perform or discharge such power, duty or function and may at any time revoke such delegation.
-
-In this Article, 'person' includes any body of persons or any authority.
-
-159. Where the Speaker is unable to discharge the functions of  his  office,  the  powers,  duties  and  functions  conferred  or imposed  on,  or  assigned  to,  the  Speaker  by  any  Provision  of the  Constitution,  other  than  by  Articles  31(4),  37,  38(2)  (b), 39(2) and 40, may be exercised, performed or discharged by the Deputy Speaker.
+159. Where the Speaker is unable to discharge the functions of his office, the powers, duties and functions conferred or imposed on, or assigned to, the Speaker by any Provision of the Constitution, other than by Articles 31(4), 37, 38(2) (b), 39(2) and 40, may be exercised, performed or discharged by the Deputy Speaker.
 
 [[END OF PAGE 174]]
 
@@ -4822,22 +5345,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### TRANSITIONAL PROVISIONS
 
-160. Notwithstanding anything to the contrary in any other provision  of  the  Constitution,  the  person  holding  the  office of  President  immediately  before  the  commencement  of  the Constitution shall be the first President under the Constitution and shall  be  deemed for  all  purposes  to  have  been  elected  as the  President  of  the  Republic,  and 128 [shall,  subject  to  the provisions of Article 31, hold office] for a period of six years from February 4, 1978.
-
-The  President  shall,  notwithstanding  the  provisions  of Article 32, be deemed to have assumed office immediately upon the  commencement  of  the  Constitution  and  shall  be  entitled thereupon  to  exercise,  perform  and  discharge  all  the  powers, duties and functions conferred or imposed on, or assigned to, the President by the Constitution or otherwise. The President shall, as soon as possible thereafter at a sitting of Parliament, take and subscribe the oath or make and subscribe the affirmation set out in the Fourth Schedule.
-
-- Notwithstanding anything to the contrary in any other
-#### First Parliament
-
-- provision of the Constitution -
-
-(a) the  first  Parliament  shall  consist,  of  one  hundred and sixty-eight members and subject to the succeeding  provisions  of  this  Article,  all  persons who immediately before the commencement of the Constitution  were  members  of  the  National  State Assembly shall be deemed to have been elected as Members of Parliament;
-
-(b) (i) if  the  election,  as  a  Member  of  the  National State  Assembly,  of  a  person  deemed  to  have been elected to the first Parliament is declared void under the law for the time being in force and  no  other  person  is  determined  to  have been duly returned or elected, the seat of such Member shall be vacant, and an election to the electoral district as existing immediately prior to the commencement of the Constitution, shall be held in accordance with the law relating to
-
 #### First President
 
-128 -	 Substituted by the Third Amendment to the Constitution Sec. 4, for 'shall hold office.'
+160. Notwithstanding anything to the contrary in any other provision of the Constitution, the person holding the office of President immediately before the commencement of the Constitution shall be the first President under the Constitution and shall be deemed for all purposes to have been elected as the President of the Republic, and 128[shall, subject to the provisions of Article 31, hold office] for a period of six years from February 4, 1978.
+
+The President shall, notwithstanding the provisions of Article 32, be deemed to have assumed office immediately upon the commencement of the Constitution and shall be entitled thereupon to exercise, perform and discharge all the powers, duties and functions conferred or imposed on, or assigned to, the President by the Constitution or otherwise. The President shall, as soon as possible thereafter at a sitting of Parliament, take and subscribe the oath or make and subscribe the affirmation set out in the Fourth Schedule.
+
+#### First Parliament
+
+161. Notwithstanding anything to the contrary in any other provision of the Constitution –
+
+(a) the first Parliament shall consist, of one hundred and sixty-eight members and subject to the succeeding provisions of this Article, all persons who immediately before the commencement of the Constitution were members of the National State Assembly shall be deemed to have been elected as Members of Parliament;
+
+(b) (i) if the election, as a Member of the National State Assembly, of a person deemed to have been elected to the first Parliament is declared void under the law for the time being in force and no other person is determined to have been duly returned or elected, the seat of such Member shall be vacant, and an election to the electoral district as existing immediately prior to the commencement of the Constitution, shall be held in accordance with the law relating to
+
+128 - Substituted by the Third Amendment to the Constitution Sec. 4, for “shall hold office.”
 
 [[END OF PAGE 175]]
 
@@ -4847,15 +5369,15 @@ The  President  shall,  notwithstanding  the  provisions  of Article 32, be deem
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- elections  to  the  National  State  Assembly  in force  immediately  before  the  commencement of  the  Constitution  and  on  the  basis  of  the register of electors applicable to such electoral district which was operative on the day immediately  preceding  the  commencement  of the Constitution;
+elections to the National State Assembly in force immediately before the commencement of the Constitution and on the basis of the register of electors applicable to such electoral district which was operative on the day immediately preceding the commencement of the Constitution;
 
-(ii) the law applicable to election petitions in relation to an election held as provided in subparagraph  (i)  shall  be  the  law  in  force  upon the commencement of the Constitution and in the  event  of  such  an  election  being  declared void the provisions of sub-paragraph (i) shall, mutatis mutandis , apply;
+(ii) the law applicable to election petitions in relation to an election held as provided in sub-paragraph (i) shall be the law in force upon the commencement of the Constitution and in the event of such an election being declared void the provisions of sub-paragraph (i) shall, mutatis mutandis, apply;
 
 (c) if  the  election  as  a  Member  of  the  National  State Assembly of a person who is deemed to have been elected  to  the  first  Parliament  is  declared  void  or undue and any other person is  determined  to  have been duly returned or elected such other person shall be deemed to have been duly elected as a Member of the first Parliament;
 
-(d) (i) where immediately before the commencement of  th  Constitution  there  was  a  vacancy  in  the membership  of  the  National  State  Assembly or  where a vacancy in the membership of the first Parliament occurs otherwise than under the provisions of paragraph (b) of this Article, such vacancy shall be filled in the manner provided in sub-paragraph (iii) hereof ;
+(d) (i) where immediately before the commencement of the Constitution there was a vacancy in the membership of the National State Assembly or where a vacancy in the membership of the first Parliament occurs otherwise than under the provisions of paragraph (b) of this Article, such vacancy shall be filled in the manner provided in sub-paragraph (iii) hereof ;
 
-- 129 [(ii)  Where  during  the  duration of the First Parliament,  a  Member  ceases,  by  resignation, expulsion  or  otherwise,  to  be  a  member  of the recognized  political  party  to  which  he belonged upon or after the commencement of the  Constitution,  the  Secretary  of  such  party shall,  within  two  weeks  of  the  date  on  which such Member so ceased to be a member of such party, communicate, in writing to the SecretaryGeneral of Parliament, the fact and date thereof. The  Secretary-General  shall,  upon  receipt  of
+129[(ii) Where during the duration of the First Parliament, a Member ceases, by resignation, expulsion or otherwise, to be a member of the recognized political party to which he belonged upon or after the commencement of the Constitution, the Secretary of such party shall, within two weeks of the date on which such Member so ceased to be a member of such party, communicate, in writing to the Secretary-General of Parliament, the fact and date thereof. The Secretary-General shall, upon receipt of
 
 129 -	 Original para (ii) repealed and substituted by the Second Amendment to the Constitution Sec2.
 
@@ -4883,19 +5405,19 @@ Provided, however, that where such communication  alleges  that  a  Member  has 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-The provisions of the Parliament (Powers and Privileges) Act  shall, mutatis  mutandis ,  apply in  relation  to  proceedings  before,  and  to  the privileges, immunities and powers of, a Select Committee  appointed  as  aforesaid  and  every such  Select  Committee  shall  be  deemed,  for the purposes of that Act, to be duly authorized by an order of Parliament to send for persons, papers and records.
+The provisions of the Parliament (Powers and Privileges) Act shall, mutatis mutandis, apply in relation to proceedings before, and to the privileges, immunities and powers of, a Select Committee appointed as aforesaid and every such Select Committee shall be deemed, for the purposes of that Act, to be duly authorized by an order of Parliament to send for persons, papers and records.
 
-After  consideration  of  the  report  made  by a  Select  Committee  appointed  as  aforesaid, Parliament  may,  by  resolution  passed  by  not less  than  eighty-five  Members  voting  in  its favour, resolve that the Member to whom such report  relates,  shall  cease  to  be  a  Member  of Parliament. The Speaker shall endorse on every resolution so passed, a certificate in the following form :-
+After consideration of the report made by a Select Committee appointed as aforesaid, Parliament may, by resolution passed by not less than eighty-five Members voting in its favour, resolve that the Member to whom such report relates, shall cease to be a Member of Parliament. The Speaker shall endorse on every resolution so passed, a certificate in the following form :–
 
-'This resolution has been passed by the majority required by Article 161(d) (ii) of the Constitution'.
+“This resolution has been passed by the majority required by Article 161(d) (ii) of the Constitution”.
 
 The seat of such Member shall, with effect from the date of such certificate, become vacant.
 
 Every  such  certificate  shall  be  conclusive  for all purposes and shall not be questioned in any court,  and  no  court  or  tribunal  shall  inquire into, pronounce upon or in any manner call in question, the validity of the resolution on which such  certificate  is  endorsed  on  any  ground whatsoever.]
 
-(iii)  Where  a  vacancy  as  is  referred  to  in  subparagraph (i) or (ii) has occurred, the SecretaryGeneral  of  Parliament  shall  forthwith  inform the Commissioner of Elections of such vacancy. The Commissioner of Elections shall thereupon require  the  Secretary  of  the  political  party  to which  such  Member  belonged  to  nominate  a member of such party 130 [to fill such vacancy. A  nomination  made  by  the  Secretary  of  such
+(iii) Where a vacancy as is referred to in sub-paragraph (i) or (ii) has occurred, the Secretary-General of Parliament shall forthwith inform the Commissioner of Elections of such vacancy. The Commissioner of Elections shall thereupon require the Secretary of the political party to which such Member belonged to nominate a member of such party 130[to fill such vacancy. A nomination made by the Secretary of such
 
-> 130 -	 Substituted by the Sixth Amendment to the Constitution Sec4(1) for "to fill such vacancy.  Upon receipt of such nomination, the Commissioner".
+130 - Substituted by the Sixth Amendment to the Constitution Sec4(1) for “to fill such vacancy. Upon receipt of such nomination, the Commissioner”.
 
 [[END OF PAGE 178]]
 
@@ -4905,13 +5427,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 161
 
-political party under this sub-paragraph shall be accompanied by an oath or affirmation, as the case may be, in the form set out in the Seventh Schedule,  taken  and  subscribed  or  made  and subscribed, as the case may be, by the person nominated to fill such vacancy. Upon the receipt of such nomination, accompanied by such oath or affirmation the Commissioner] shall declare such person to be the Member for the electoral district in respect of which the vacancy occurred: 131 [Provided that where the Secretary of such political  party  fails  to  nominate  a  member  of such political party to fill such vacancy under the preceding provisions of this sub-paragraph 132 [within thirty days of his being required to do so and in the aforesaid manner] or where the Secretary of a political party had been required, before  the  coming  into  force  of  this  proviso, to  nominate  a  member  of  such  political  party to fill any such vacancy under such provisions and  such  Secretary  fails,  within  thirty  days of  the  coming  into  force  of  this  proviso,  to nominate a  member of such political  party  to fill  such 133 [vacancy,  or  where  such  political party is deemed to be prescribed under Article 157(a),  then,  the  Commissioner  of  Election] shall  forthwith  so  inform  the  President,  who shall,  within  thirty  days  of  the  receipt  by  him of such information, by Notice published in the Gazette  order  the  Commissioner  of  Elections to  hold  an  election  for  the  electoral  district  in respect  of  which  such  vacancy  has  occurred. The Commissioner of Elections shall thereupon hold an election, in accordance with Part I and Parts  IV  to  VI  (both  inclusive)  of  the  Ceylon (Parliamentary  Elections)  Order  in  Council, 1946,  for  such  electoral district as existed immediately preceding the Constitution and on the basis of such part of the register, prepared under the Registration of Electors Act, No. 44 of  1980,  and  in  operation,  as  corresponds  to such  electoral  district.  The  aforesaid  parts  of the Ceylon (Parliamentary Elections) Order in Council, 1946, shall, for the purposes of such election and notwithstanding the repeal of such Order in Council, be deemed to be in force and shall, mutatis mutandis and except as otherwise expressly provided in the Constitution, apply to such election.
+political party under this sub-paragraph shall be accompanied by an oath or affirmation, as the case may be, in the form set out in the Seventh Schedule, taken and subscribed or made and subscribed, as the case may be, by the person nominated to fill such vacancy. Upon the receipt of such nomination, accompanied by such oath or affirmation the Commissioner] shall declare such person to be the Member for the electoral district in respect of which the vacancy occurred: 131[Provided that where the Secretary of such political party fails to nominate a member of such political party to fill such vacancy under the preceding provisions of this sub-paragraph 132[within thirty days of his being required to do so and in the aforesaid manner] or where the Secretary of a political party had been required, before the coming into force of this proviso, to nominate a member of such political party to fill any such vacancy under such provisions and such Secretary fails, within thirty days of the coming into force of this proviso, to nominate a member of such political party to fill such 133[vacancy, or where such political party is deemed to be prescribed under Article 157(a), then, the Commissioner of Election] shall forthwith so inform the President, who shall, within thirty days of the receipt by him of such information, by Notice published in the Gazette order the Commissioner of Elections to hold an election for the electoral district in respect of which such vacancy has occurred. The Commissioner of Elections shall thereupon hold an election, in accordance with Part I and Parts IV to VI (both inclusive) of the Ceylon (Parliamentary Elections) Order in Council, 1946, for such electoral district as existed immediately preceding the Constitution and on
 
-> 131-	Added by the Fifth Amendment to the Constitution Sec. 2(b).
+131 - Added by the Fifth Amendment to the Constitution Sec. 2(b).
 
-> 132-	Substituted by the Sixth Amendment to the Constitution, Sec. 4(2)(a), for'within thirty days of his being required to do so.'
+132 - Substituted by the Sixth Amendment to the Constitution, Sec. 4(2)(a), for “within thirty days of his being required to do so.”
 
-> 133-	Substituted by the Sixth Amendment to the Constitution Sec. 4(2)(b), for  'vacancy, then the Commissioner of Elections.'
+133 - Substituted by the Sixth Amendment to the Constitution Sec. 4(2)(b), for “vacancy, then the Commissioner of Elections.”
 
 [[END OF PAGE 179]]
 
@@ -4921,11 +5443,13 @@ political party under this sub-paragraph shall be accompanied by an oath or affi
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-The  law  applicable  to  election  petitions  in relation  to  such  electoral  district  shall  be  the aforesaid  parts  of  such  Order  in  Council  as applied  aforesaid  and  in  the  event  of  such election  being  declared  void  and  no  other person is determined to have been duly returned or elected, the election to fill such vacancy shall be  held  in  accordance  with  the  provisions  of this proviso.]
+the basis of such part of the register, prepared under the Registration of Electors Act, No. 44 of 1980, and in operation, as corresponds to such electoral district. The aforesaid parts of the Ceylon (Parliamentary Elections) Order in Council, 1946, shall, for the purposes of such election and notwithstanding the repeal of such Order in Council, be deemed to be in force and shall, mutatis mutandis and except as otherwise expressly provided in the Constitution, apply to such election.
 
-134 [(iv)  where  a  Member  nominated  or  elected  to fill  any  such  vacancy  as  is  referred  to  in  subparagraph  (i)  or  sub-paragraph  (ii),  being  a Member who has taken and subscribed or made and  subscribed  an  oath  or  affirmation  in  the form set out in the Seventh Schedule, directly or indirectly, in or outside Sri Lanka, supports, espouses,  promotes,  finances,  encourages  or advocates the establishment of a separate State within  the  territory  of  Sri  Lanka,  any  person may make an application to the Court of Appeal for a declaration that such member has directly or indirectly, in or outside Sri Lanka, supported, espoused,  promoted,  financed,  encouraged  or advocated the establishment of a separate State within the territory of Sri Lanka.
+The law applicable to election petitions in relation to such electoral district shall be the aforesaid parts of such Order in Council as applied aforesaid and in the event of such election being declared void and no other person is determined to have been duly returned or elected, the election to fill such vacancy shall be held in accordance with the provisions of this proviso.]
 
-If  the  Court  of  Appeal  makes,  on  such  application, a declaration that such Member has directly or indirectly,  in  or  outside  Sri  Lanka,  supported, espoused,  promoted,  financed,  encouraged  or advocated the establishment of a separate State within  the  territory  of  Sri  Lanka,  the  seat  of such Member shall be deemed to be vacant with effect  from  the  date  of  such  declaration  and such Member shall be disqualified from sitting and voting in Parliament and from being elected or  nominated  to  Parliament  for  a  period  of seven years from the date of such declaration. The  vacancy  occurring  in  the  membership  of Parliament by reason of such declaration shall be filled in the manner provided in paragraph (iii).
+134[(iv) where a Member nominated or elected to fill any such vacancy as is referred to in sub-paragraph (i) or sub-paragraph (ii), being a Member who has taken and subscribed or made and subscribed an oath or affirmation in the form set out in the Seventh Schedule, directly or indirectly, in or outside Sri Lanka, supports, espouses, promotes, finances, encourages or advocates the establishment of a separate State within the territory of Sri Lanka, any person may make an application to the Court of Appeal for a declaration that such member has directly or indirectly, in or outside Sri Lanka, supported, espoused, promoted, financed, encouraged or advocated the establishment of a separate State within the territory of Sri Lanka.
+
+If the Court of Appeal makes, on such application, a declaration that such Member has directly or indirectly, in or outside Sri Lanka, supported, espoused, promoted, financed, encouraged or
 
 134-	Added by the Sixth Amendment to the Constitution Sec. 4(3).
 
@@ -4937,20 +5461,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 163
 
-The  jurisdiction  of  the  Court  of  Appeal  in respect of its powers under this sub-paragraph shall  be  exercised  in  the  manner  provided  in sub-paragraph (iv) of the proviso to paragraph (2) of Article 146.]
+advocated the establishment of a separate State within the territory of Sri Lanka, the seat of such Member shall be deemed to be vacant with effect from the date of such declaration and such Member shall be disqualified from sitting and voting in Parliament and from being elected or nominated to Parliament for a period of seven years from the date of such declaration. The vacancy occurring in the membership of Parliament by reason of such declaration shall be filled in the manner provided in paragraph (iii).
 
-135 [(e) unless sooner dissolved, the First Parliament shall  continue  until  August  4,  1989  and  no longer and shall thereupon stand dissolved, and the provisions of Article 70(5)(b) shall, mutatis mutandis , apply.]
+The jurisdiction of the Court of Appeal in respect of its powers under this sub-paragraph shall be exercised in the manner provided in sub-paragraph (iv) of the proviso to paragraph (2) of Article 146.]
+
+135[(e) unless sooner dissolved, the First Parliament shall continue until August 4, 1989 and no longer and shall thereupon stand dissolved, and the provisions of Article 70(5)(b) shall, mutatis mutandis, apply.]
+
+#### Application of certain provisions
 
 162. (1) The provisions of Article 98, other than paragraphs (8) and (9) thereof, and Article 99 shall not come into operation until the General Election held upon the dissolution of the first Parliament.
 
-(2)  If  at  the  time  of  such  dissolution  the  notification  of electoral districts has not been proclaimed as required by Article 97, the electoral districts for the first General Election to be held upon the dissolution of the first Parliament, and the number of Members which each such district shall be entitled to return by virtue of the provisions of paragraph (4) of Article 96, shall be as  set  out  in  the  Sixth  Schedule  and  accordingly,  registers  of electors shall be prepared and certified for each such electoral district, and unless Parliament otherwise provides, such registers shall be prepared on the basis of the register of electors in force immediately before the commencement of the Constitution.
+(2) If at the time of such dissolution the notification of electoral districts has not been proclaimed as required by Article 97, the electoral districts for the first General Election to be held upon the dissolution of the first Parliament, and the number of Members which each such district shall be entitled to return by virtue of the provisions of paragraph (4) of Article 96, shall be as set out in the Sixth Schedule and accordingly, registers of electors shall be prepared and certified for each such electoral district, and unless Parliament otherwise provides, such registers shall be prepared on the basis of the register of electors in force immediately before the commencement of the Constitution.
 
-163. All  Judges  of  the  Supreme  Court  and  the  High Courts  established  by  the Administration  of  Justice  Law,  No. 44 of 1973, holding office on the day immediately before the
-#### Application of certain provisions
 #### Judges of Supreme Court and High Court to cease to hold office
-#### Continuation in office of Judges, public officers and others
-#### Oath or affirmation to be taken or made by public officers and others
-commencement of the Constitution shall, on the commencement of the Constitution, cease to hold office.
+
+163. All Judges of the Supreme Court and the High Courts established by the Administration of Justice Law, No. 44 of 1973, holding office on the day immediately before the
 
 135 -	  Original para (e) repealed and substituted by the Fourth Amendment to the Constitution Sec. 2.
 
@@ -4962,7 +5487,11 @@ commencement of the Constitution shall, on the commencement of the Constitution,
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- Subject to the provisions of Article 163 every person who immediately before the commencement of the Constitution  -
+commencement of the Constitution shall, on the commencement of the Constitution, cease to hold office.
+
+#### Continuation in office of Judges, public officers and others
+
+164. Subject to the provisions of Article 163 every person who immediately before the commencement of the Constitution –
 
 (a) held office in any court or tribunal deemed, by virtue of  the  provisions  of  paragraph  (2)  of  Article  105, to be a court or tribunal created and established by Parliament,
 
@@ -4974,7 +5503,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 shall  continue  in  such  service  or  hold  such  office  or appointment under the same terms and conditions.
 
-(1)  Every  public  officer,  judicial  officer  and  every other person as is required by the Constitution to take an oath or make an affirmation on entering upon the duties of his office, every  holder  of  an  office  required  under  the  existing  law  to take an official oath and every person in the service of every local authority and of every Public Corporation shall take and subscribe  the  oath  or  make  and  subscribe  the  affirmation  set out  in  the  Fourth  Schedule. Any  such  public  officer,  judicial officer, person or holder of an office failing to take and subscribe such  oath  or  make  and  subscribe  such  affirmation  after  the commencement of the Constitution on or before such date as may be prescribed by the Prime Minister by Order published in the Gazette shall cease to be in service or hold office.
+#### Oath or affirmation to be taken or made by public officers and others
+
+165. (1) Every public officer, judicial officer and every other person as is required by the Constitution to take an oath or make an affirmation on entering upon the duties of his office, every holder of an office required under the existing law to take an official oath and every person in the service of every local authority and of every Public Corporation shall take and subscribe the oath or make and subscribe the affirmation set out in the Fourth Schedule. Any such public officer, judicial officer, person or holder of an office failing to take and subscribe such oath or make and subscribe such affirmation after the commencement of the Constitution on or before such date as may be prescribed by the Prime Minister by Order published in the Gazette shall cease to be in service or hold office.
 
 (2)  The  Minister in charge of the subject of Public Administration  may,  in  his  sole  discretion,  permit  any  public officer,  judicial  officer,  person  or  holder  of  an  office  referred to in paragraph (1) of this Article, to take the to oath or make the affirmation referred to in that paragraph after the prescribed date if he is satisfied that the failure to take the oath or make the  affirmation  within  the  time  prescribed  was  occasioned  by illness or some other unavoidable cause. On his taking such oath or making such affirmation, he shall continue in service or hold office  as  if  he  had  taken  such  oath  or  made  such  affirmation within the time prescribed under paragraph (1) of this Article.
 
@@ -4986,29 +5517,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 165
 
-- The President may by Proclamation -
+(3) The President may by Proclamation –
 
 (a) exclude the application of the provisions of paragraph (1) of this Article to any category of public officers,
 
 (b) prescribe the persons or categories of persons who may administer such oath or affirmation in addition to the persons who are empowered under the existing law to administer oaths or affirmations.
 
-- Unless  Parliament  otherwise  provides,  the  Republic of Sri Lanka shall continue to possess and exercise all powers, privileges, immunities and rights whatsoever possessed, exercised or exercisable immediately prior to the commencement of the Constitution.
-
-- All rights and all duties or obligations, however arising, of  the  Government  of  Sri  Lanka  and  subsisting  immediately prior to the commencement of the Constitution shall be rights, duties and obligations of the Government of the Republic of Sri Lanka under the Constitution.
-
-(1)  Unless  Parliament  otherwise  provides,  all  laws, written  laws  and  unwritten  laws,  in  force  immediately  before the commencement of the Constitution, shall, mutatis mutandis and except as otherwise expressly provided in the Constitution, continue in force.
-
-- Save as otherwise provided in the Constitution, existing laws, written laws and unwritten laws are not and shall not in any manner be deemed to be provisions of the Constitution.
-
-- Wherever the Constitution provides that any law, written law or unwritten law or any provision of the Constitution shall continue in force until or unless Parliament otherwise provides, any law enacted by Parliament so providing may be passed by a majority of the Member present and voting.
-
-- Whenever the Constitution provides that any provision of  any  existing  written  law  shall  continue  in  force  until  or unless  Parliament  otherwise  provides  and  the  existing  written law referred to consists of subordinate legislation, the provision that  such  existing  written  law  shall  continue  in  force  until  or unless Parliament otherwise provides shall not in any manner be deemed to derogate from the power of the person or body on whom the power to make and when made, to amend, vary, rescind  or  revoke  such  subordinate  legislation  is  conferred,
-
 #### Powers, privileges, immunities and rights of the Republic
+
+166. Unless Parliament otherwise provides, the Republic of Sri Lanka shall continue to possess and exercise all powers, privileges, immunities and rights whatsoever possessed, exercised or exercisable immediately prior to the commencement of the Constitution.
 
 #### Rights, duties and obligations of the Republic
 
+167. All rights and all duties or obligations, however arising, of the Government of Sri Lanka and subsisting immediately prior to the commencement of the Constitution shall be rights, duties and obligations of the Government of the Republic of Sri Lanka under the Constitution.
+
 #### Past operation of laws, previous Acts, offences and pending actions &c.
+
+168. (1) Unless Parliament otherwise provides, all laws, written laws and unwritten laws, in force immediately before the commencement of the Constitution, shall, mutatis mutandis and except as otherwise expressly provided in the Constitution, continue in force.
+
+(2) Save as otherwise provided in the Constitution, existing laws, written laws and unwritten laws are not and shall not in any manner be deemed to be provisions of the Constitution.
+
+(3) Wherever the Constitution provides that any law, written law or unwritten law or any provision of the Constitution shall continue in force until or unless Parliament otherwise provides, any law enacted by Parliament so providing may be passed by a majority of the Member present and voting.
+
+(4) Whenever the Constitution provides that any provision of any existing written law shall continue in force until or unless Parliament otherwise provides and the existing written law referred to consists of subordinate legislation, the provision that such existing written law shall continue in force until or unless Parliament otherwise provides shall not in any manner be deemed to derogate from the power of the person or body on whom the power to make and when made, to amend, vary, rescind or revoke such subordinate legislation is conferred,
 
 [[END OF PAGE 183]]
 
@@ -5018,21 +5549,21 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+to exercise the power so conferred until or unless Parliament otherwise provides.
+
+(5) Unless the Constitution otherwise provides, the past operation of any law in force prior to the commencement of the Constitution or anything duly done or suffered or any offence committed or any right, liberty, obligation or penalty acquired or incurred under any law in force prior to the commencement of the Constitution shall not in any manner be affected or be deemed to be affected by the Constitution coming into force.
+
+(6) All actions, prosecutions, proceedings, matters or things, including proceedings of Commissions appointed or established by or under any existing written law, pending or uncompleted on the commencement of the Constitution shall, subject to the provisions of the Constitution and mutatis mutandis, be deemed to continue and may be carried on and completed after the commencement of the Constitution.
+
 #### Provisions relating to judiciary
 
-to  exercise  the  power  so  conferred  until  or  unless  Parliament otherwise provides.
+169. Unless Parliament otherwise provides –
 
-(5)  Unless  the  Constitution  otherwise  provides,  the  past operation of any law in force prior to the commencement of the Constitution or anything duly done or suffered or any offence committed or any right, liberty, obligation or penalty acquired or incurred under any law in force prior to the commencement of  the  Constitution  shall  not  in  any  manner  be  affected  or  be deemed to be affected by the Constitution coming into force.
+(1) any provisions of the Administration of Justice Law, No. 44 of 1973, which are inconsistent with the provisions of the Constitution, shall, to the extent of such inconsistency, be deemed to be repealed ;
 
-(6) All actions, prosecutions, proceedings, matters or things, including proceedings of Commissions appointed or established by or under any existing written law, pending or uncompleted on the commencement of the Constitution shall, subject to the provisions of the Constitution and mutatis mutandis , be deemed to  continue  and  may  be  carried  on  and  completed  after  the commencement of the Constitution.
+(2) the Supreme Court established by the Administration of Justice Law, No. 44 of 1973, shall, on the commencement of the Constitution, cease to exist and accordingly the provisions of that Law relating to the establishment of the said Supreme Court, shall be deemed to have been repealed. Unless otherwise provided in the Constitution, every reference in any existing written law to the Supreme Court shall be deemed to be a reference to the Court of Appeal ;
 
-169. Unless Parliament otherwise provides -
-
-- any provisions of the Administration of Justice Law, No.  44  of  1973,  which  are  inconsistent  with  the provisions of the Constitution, shall, to the extent of such inconsistency, be deemed to be repealed ;
-
-- the Supreme Court established by the Administration of  Justice  Law,  No.  44  of  1973,  shall,  on  the commencement  of  the  Constitution,  cease  to  exist and accordingly the provisions of that Law relating to the establishment of the said Supreme Court, shall be deemed to have been repealed. Unless otherwise provided in the Constitution, every reference in any existing written law to the Supreme Court shall be deemed to be a reference to the Court of Appeal ;
-
-- all appellate proceedings including proceedings by  way  of  revision,  case  stated  and  restitutio  in integrum pending in the Supreme Court established under  the  Administration  of  Justice  Law,  No.  44 of  1973,  on  the  day  preceding  the  commencement of  the  Constitution,  shall  stand  removed  to  the Court of Appeal and the Court of Appeal shall have jurisdiction  to  take  cognizance  of  and  to  hear  and determine the same; and the judgements and orders of  the  Supreme  Court  aforesaid  delivered  or  made
+(3) all appellate proceedings including proceedings by way of revision, case stated and restitutio in integrum pending in the Supreme Court established under the Administration of Justice Law, No. 44 of 1973, on the day preceding the commencement of the Constitution, shall stand removed to the Court of Appeal and the Court of Appeal shall have jurisdiction to take cognizance of and to hear and determine the same; and the judgements and orders of the Supreme Court aforesaid delivered or made
 
 [[END OF PAGE 184]]
 
@@ -5044,11 +5575,11 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 before  the  commencement  of  the  Constitution  in appellate proceedings shall have the same force and effect as if they had been delivered or made by the Court of Appeal;
 
-- all  original  proceedings by way of applications for the issue of high prerogative Writs and applications for any other relief pending in the Supreme Court as well as all applications for injunctions pending in the High Court established under the Administration of Justice Law, No. 44 of 1973, on the date immediately preceding  the  commencement  of  the  Constitution shall stand removed to the Court of Appeal and such Court shall have jurisdiction to take cognizance of hear and determine or to continue and complete the same and the judgments and orders of the Supreme Court established under the Administration of Justice Law, No. 44 of 1973, delivered or made before the commencement of the Constitution in original proceedings shall have the same force and effect as if they had been delivered or made by the Court of Appeal:
+(4) all original proceedings by way of applications for the issue of high prerogative Writs and applications for any other relief pending in the Supreme Court as well as all applications for injunctions pending in the High Court established under the Administration of Justice Law, No. 44 of 1973, on the date immediately preceding the commencement of the Constitution shall stand removed to the Court of Appeal and such Court shall have jurisdiction to take cognizance of hear and determine or to continue and complete the same and the judgments and orders of the Supreme Court established under the Administration of Justice Law, No. 44 of 1973, delivered or made before the commencement of the Constitution in original proceedings shall have the same force and effect as if they had been delivered or made by the Court of Appeal:
 
 Provided  that  any  proceedings  in  relation  to  any alleged  breach  of  privileges  of  Parliament  pending in  the  Supreme  Court  shall  stand  removed  to  the Supreme  Court  created and established by the Constitution;
 
-- no  appeal  shall  lie  from  any  judgement,  order  or decree of the Supreme Court established under the Administration  of  Justice  Law,  No.  44  of  1973,  to the Supreme Court created and established under the Constitution but such judgement, order or decree, as the case may be, shall be final as between the parties to  the  action,  application  or  other  proceeding  in which such judgement, order or decree was made:
+(5) no appeal shall lie from any judgement, order or decree of the Supreme Court established under the Administration of Justice Law, No. 44 of 1973, to the Supreme Court created and established under the Constitution but such judgement, order or decree, as the case may be, shall be final as between the parties to the action, application or other proceeding in which such judgement, order or decree was made:
 
 Provided that it shall be competent for the Court of Appeal and all officers of such Court to take all such steps  as  may  be  necessary,  including  the  entering of  decrees  if  not  already  entered  and  taxation  and recovery of costs so as to ensure that such judgements, orders  and  decrees  are  completely  and  effectively complied with, as if they had been delivered or made by the Court of Appeal created and established by the Constitution;
 
@@ -5060,13 +5591,13 @@ Provided that it shall be competent for the Court of Appeal and all officers of 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- the several High Courts established under Chapter I of the Administration of Justice Law, No. 44 of 1973, shall be deemed for all purposes to constitute a single court  created  and  established  by  Parliament  called the High Court of the Republic of Sri Lanka having jurisdiction  throughout  the  Repubilc  of  Sri  Lanka to  be  exercised  in  the  several  Zones  in  accordance with the law for the time being in force. Accordingly, subject to the provisions of the Constitution, and of any  existing  written  law,  all  provisions  relating  to High  Courts  contained  in  such  Law  shall, mutatis mutandis , apply to the High Court of the Republic of Sri Lanka ;
+(6) the several High Courts established under Chapter I of the Administration of Justice Law, No. 44 of 1973, shall be deemed for all purposes to constitute a single court created and established by Parliament called the High Court of the Republic of Sri Lanka having jurisdiction throughout the Repubilc of Sri Lanka to be exercised in the several Zones in accordance with the law for the time being in force. Accordingly, subject to the provisions of the Constitution, and of any existing written law, all provisions relating to High Courts contained in such Law shall, mutatis mutandis, apply to the High Court of the Republic of Sri Lanka ;
 
-- all  criminal  and  admiralty  cases,  proceedings  or matters, other than applications for injunctions, pending  in  the  High  Courts  established  under  the Administration  of  Justice  Law,  No.  44  of  1973, on  the  day  preceding  the  commencement  of  the Constitution  shall  stand  removed  to  the  said  High Court of the Repubilc of Sri Lanka and such Court shall  have  jurisdiction  to  take  cognizance  of,  hear and determine or to continue and complete the same and the judgments and orders of the aforesaid High Courts delivered or made before the commencement of  the  Constitution  shall  have  the  same  force  and effect as if they had been delivered or made by the High Court of the Republic of Sri Lanka ;
+(7) all criminal and admiralty cases, proceedings or matters, other than applications for injunctions, pending in the High Courts established under the Administration of Justice Law, No. 44 of 1973, on the day preceding the commencement of the Constitution shall stand removed to the said High Court of the Repubilc of Sri Lanka and such Court shall have jurisdiction to take cognizance of, hear and determine or to continue and complete the same and the judgments and orders of the aforesaid High Courts delivered or made before the commencement of the Constitution shall have the same force and effect as if they had been delivered or made by the High Court of the Republic of Sri Lanka ;
 
-- the  President  of  the  Court  of  Appeal  shall  from time  to  time  as  he  may  deem  expedient  nominate the Judges of the High Court of the Republic of Sri Lanka to exercise the jurisdiction of the High Court in such zones as he may determine and the provisions of Chapter II of the Administration of Justice Law, No. 44 of 1973, shall mutatis mutandis , apply to the hearing and disposal of all proceedings pending in or hereafter instituted in the High Court ;
+(8) the President of the Court of Appeal shall from time to time as he may deem expedient nominate the Judges of the High Court of the Republic of Sri Lanka to exercise the jurisdiction of the High Court in such zones as he may determine and the provisions of Chapter II of the Administration of Justice Law, No. 44 of 1973, shall mutatis mutandis, apply to the hearing and disposal of all proceedings pending in or hereafter instituted in the High Court ;
 
-- all  indictments filed hereafter in the High Court of the  Republic  of  Sri  Lanka  shall  be  in  the  name  of the Republic of Sri Lanka and shall be signed by the
+(9) all indictments filed hereafter in the High Court of the Republic of Sri Lanka shall be in the name of the Republic of Sri Lanka and shall be signed by the
 
 [[END OF PAGE 186]]
 
@@ -5078,11 +5609,11 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Attorney-General  or  any  person  authorized  under section 189 of the Administration of Justice Law, No. 44 of 1973;
 
-- all  election  petition  proceedings  relating  to  the  election of any person to the membership of the National State Assembly  pending  in  the  High  Courts  established under the Administration of Justice Law, No. 44 of 1973,  on  the  day  preceding  the  commencement  of the  Constitution  shall  stand  removed  to  the  Court of Appeal  and  the  Court  of Appeal  shall  have  the same  jurisdiction  to  take  cognizance  of,  hear  and determine or to continue and complete the same and the  judgements  and  orders  of  the  Supreme  Court established  by  the  Administration  of  Justice  Law, No.  44  of  1973  and  of  the  High  Courts  aforesaid delivered or made before the commencement of the Constitution  in  such  election  petition  proceedings shall have the same force and effect as if they had been delivered or made by the Supreme Court and the Court of Appeal established by the Constitution, as  the  case  may  be.  The  President  of  the  Court  of Appeal is hereby vested with the power to nominate a Judge of the Court of Appeal to hear and determine any election petition in respect of which the Court of Appeal is vested with jurisdiction by the Constitution;
+(10) all election petition proceedings relating to the election of any person to the membership of the National State Assembly pending in the High Courts established under the Administration of Justice Law, No. 44 of 1973, on the day preceding the commencement of the Constitution shall stand removed to the Court of Appeal and the Court of Appeal shall have the same jurisdiction to take cognizance of, hear and determine or to continue and complete the same and the judgements and orders of the Supreme Court established by the Administration of Justice Law, No. 44 of 1973 and of the High Courts aforesaid delivered or made before the commencement of the Constitution in such election petition proceedings shall have the same force and effect as if they had been delivered or made by the Supreme Court and the Court of Appeal established by the Constitution, as the case may be. The President of the Court of Appeal is hereby vested with the power to nominate a Judge of the Court of Appeal to hear and determine any election petition in respect of which the Court of Appeal is vested with jurisdiction by the Constitution;
 
-- all attorneys-at-law admitted and enrolled or deemed to  have  been  admitted  and  enrolled  as  attorneysat-law  under  the  provisions  of  the  Administration of Justice Law, No. 44 of 1973, shall subject to the provisions  of  the  Constitution  be  deemed  to  have been  admitted  and  enrolled  as  attorneys-at-law  of the  Supreme  Court  created  and  established  by  the Constitution;
+(11) all attorneys-at-law admitted and enrolled or deemed to have been admitted and enrolled as attorneys-at-law under the provisions of the Administration of Justice Law, No. 44 of 1973, shall subject to the provisions of the Constitution be deemed to have been admitted and enrolled as attorneys-at-law of the Supreme Court created and established by the Constitution;
 
-- after the date fixed by the Minister in charge of the subject of Justice, by Order published in the Gazette, no attorney-at-law shall be entitled to represent any party to a proceeding or be given the right of audience in  any  court,  tribunal  or  other  institution  until  or unless he has taken and subscribed the oath or made and subscribed the affirmation set out in the Fourth Schedule before a Judge of the Supreme Court, Court
+(12) after the date fixed by the Minister in charge of the subject of Justice, by Order published in the Gazette, no attorney-at-law shall be entitled to represent any party to a proceeding or be given the right of audience in any court, tribunal or other institution until or unless he has taken and subscribed the oath or made and subscribed the affirmation set out in the Fourth Schedule before a Judge of the Supreme Court, Court
 
 [[END OF PAGE 187]]
 
@@ -5094,13 +5625,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 of Appeal, High Court or any other judicial officer as defined in Article 114; and it shall be the duty of any such Judge or judicial officer, as the case may be, to forward such oath or affirmation so taken and subscribed or made and subscribed to the Registrar of the Supreme Court who shall cause the same to be entered in the rolls of such Court. Such entry shall be the only proof that such attorney-at-law has taken and subscribed or made and subscribed such oath or affirmation;
 
-- the provisions of the Administration of Justice Law, No. 44 of 1973, relating to the Attorney-General, the legal profession, State Attorneys and State Counsel, shall be deemed for all purposes to be in operation, and every reference to the Supreme Court in sections 33 to 36 of the Administration of Justice Law, No. 44 of 1973, and in the rules and regulations relating thereto  shall  be  deemed  to  be  a  reference  to  the Supreme Court established by the Constitution;
+(13) the provisions of the Administration of Justice Law, No. 44 of 1973, relating to the Attorney-General, the legal profession, State Attorneys and State Counsel, shall be deemed for all purposes to be in operation, and every reference to the Supreme Court in sections 33 to 36 of the Administration of Justice Law, No. 44 of 1973, and in the rules and regulations relating thereto shall be deemed to be a reference to the Supreme Court established by the Constitution;
 
-- if  any  matter  or  question  shall  arise  with  regard  to any procedure or practice to be followed in any court in consequence of the coming into operation of the Constitution,  not  provided  for  in  the  Constitution or any written law, the Chief Justice shall have the power  to  give  such  directions  as  he  may  consider necessary to prevent injustice or as the justice of the case may require and to ensure that the provisions of Chapters XV and XVI of the Constitution are given full and complete effect;
+(14) if any matter or question shall arise with regard to any procedure or practice to be followed in any court in consequence of the coming into operation of the Constitution, not provided for in the Constitution or any written law, the Chief Justice shall have the power to give such directions as he may consider necessary to prevent injustice or as the justice of the case may require and to ensure that the provisions of Chapters XV and XVI of the Constitution are given full and complete effect;
 
-(i) any  reference in section 2 of the Special Presidential Commissions of Inquiry Law, No. 07 of 1978, to the Supreme Court shall be deemed to be a reference to the Supreme Court established by the Constitution;
+(15) (i) any reference in section 2 of the Special Presidential Commissions of Inquiry Law, No. 07 of 1978, to the Supreme Court shall be deemed to be a reference to the Supreme Court established by the Constitution;
 
-(ii) where  any  person  has  been  appointed  as  a member of a Special Presidential Commission of Inquiry established under the Special Presidential Commission of Inquiry Law, No. 07 of 1978, then, such person shall notwithstanding
+(ii) where any person has been appointed as a member of a Special Presidential Commission of Inquiry established under the Special Presidential Commission of Inquiry Law, No. 07 of 1978, then, such person shall notwithstanding
 
 [[END OF PAGE 188]]
 
@@ -5114,7 +5645,7 @@ the provisions of the Constitution, continue to be  such  member  and  shall  be
 
 (iii) any  such  member  specified  in  the  Warrant establishing such Special Presidential Commission  of  Inquiry  as  Chairman,  shall, subject to the provisions of sub-paragraph (ii) of this paragraph, continue to be the Chairman of  such  Special  Presidential  Commission  of Inquiry;
 
-(i) any  breach  of  the  privileges  of  the  National State Assembly functioning immediately prior to the commencement of the Constitution, shall be deemed to be a breach of the privileges of Parliament and accordingly, Parliament and the Supreme  Court,  shall  have  the  power  to  take cognizance of and punish any person for such breach of privileges of Parliament;
+(16) (i) any breach of the privileges of the National State Assembly functioning immediately prior to the commencement of the Constitution, shall be deemed to be a breach of the privileges of Parliament and accordingly, Parliament and the Supreme Court, shall have the power to take cognizance of and punish any person for such breach of privileges of Parliament;
 
 (ii) where prior to the  commencement  of  the Constitution, any step required or authorized by the Parliament (Powers and Privileges) Act has been taken in respect of, or in relation to, any act or omission alleged to constitute such a breach of  the  privileges  of  Parliament  as  is  referred to in sub-paragraph (i) of this paragraph, such step  shall  be  deemed  to  have  been  validly taken and any further steps as are required or authorized  under  such  Act,  may  be  taken,  in respect of or, in relation to, such alleged breach of the privileges of Parliament, as if the act or omission  alleged  to  constitute  such  breach  of privileges  of  Parliament  had  been  committed or had occurred after the commencement of the Constitution.
 
@@ -5128,17 +5659,17 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 #### Provision relating to Queen's Counsel and Senior Attorneys-at-Law
 
-- 136 [ 169A. (1) Every -
+136[169A. (1) Every –
 
-(a) Queen's Counsel appointed prior to the coming into force of the Constitution ; and
+(a) Queen’s Counsel appointed prior to the coming into force of the Constitution ; and
 
-(b) Senior  attorney-at-law  appointed  by  the  President after the coming into force of the Constitution,
+(b) Senior attorney-at-law appointed by the President after the coming into force of the Constitution,
 
-shall, from the date on which this Article comes into force, be  called  and  known  also  as  President's  Counsel  and  shall continue to enjoy all such privileges as were hitherto enjoyed by a Queen's Counsel.
+shall, from the date on which this Article comes into force, be called and known also as President’s Counsel and shall continue to enjoy all such privileges as were hitherto enjoyed by a Queen’s Counsel.
 
-- Every  rule  made  under  Article  136  relating  to  the appointment of Senior attorneys-at-law shall, from the date on which this Article comes into force, be deemed to be rescinded.
+(2) Every rule made under Article 136 relating to the appointment of Senior attorneys-at-law shall, from the date on which this Article comes into force, be deemed to be rescinded.
 
-- Every reference in any written law to 'Senior attorney-atlaw' shall, from the date on which this Article comes into force, be deemed to include a reference to 'President's Counsel.']
+(3) Every reference in any written law to “Senior attorney-at-law” shall, from the date on which this Article comes into force, be deemed to include a reference to “President’s Counsel.”]
 
 136-	Inserted by the Eighth Amendment to the Constitution Sec. 4.
 
@@ -5154,7 +5685,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### INTERPRETATION
 
-170. In the Constitution -
+#### Interpretation
+
+170. In the Constitution –
 
 'civic  disability'  shall  have  the  same  meaning  as  in  the Special  Presidential  Commissions  of  Inquiry  Law, No.  7  of  1978,  as  on  the  commencement  of  the Constitution;
 
@@ -5170,10 +5703,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (b) any  Judge  of  the  High  Court  or  any  Judge, presiding officer or member of any other Court of First Instance, tribunal or institution created and established for the administration of Justice or  for  the  adjudication  of  any  labour  or  other dispute  but  does  not  include  a  person  who performs  arbitral  functions  or  a  public  officer whose principal duty or duties is or are not the performance of functions of a judicial nature.
 
-#### Interpretation
-No  court  or  tribunal  or  institution  shall  have jurisdiction to determine the question whether a person is a judicial officer within the meaning of  the  Constitution  but  such  question  shall  be determined by the Judicial Service Commission whose  decision  thereon shall be final  and conclusive.
-
-137 -	 Substituted by the Seventeenth Amendment to the Constitution Sec. 22(1) for "Other than in Article 114".
+137 - Substituted by the Seventeenth Amendment to the Constitution Sec. 22(1) for “Other than in Article 114”.
 
 [[END OF PAGE 191]]
 
@@ -5183,7 +5713,9 @@ No  court  or  tribunal  or  institution  shall  have jurisdiction to determine 
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-No act of such person or proceeding held before such person, prior to such determination, shall be,  deemed  to  be  invalid  by  reason  of  such determination;
+No court or tribunal or institution shall have jurisdiction to determine the question whether a person is a judicial officer within the meaning of the Constitution but such question shall be determined by the Judicial Service Commission whose decision thereon shall be final and conclusive.
+
+No act of such person or proceeding held before such person, prior to such determination, shall be, deemed to be invalid by reason of such determination;
 
 'law' means any Act of Parliament and any law enacted by any legislature at any time prior to the commencement of the Constitution and includes an Order in Council;
 
@@ -5191,7 +5723,7 @@ No act of such person or proceeding held before such person, prior to such deter
 
 'public corporation' means any corporation, board or other body which was or is established  by  or  under  any written  law  other  than  the  Companies  Ordinance, with funds or capital wholly or partly provided by the Government by way of grant, loan or otherwise;
 
-- 138 [  'public officer' means a person who holds any paid office under the Republic other than a judicial officer, but does not include -
+138[“public officer” means a person who holds any paid office under the Republic other than a judicial officer, but does not include –
 
 (a) the President;
 
@@ -5281,15 +5813,15 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### PROMULGATION OF THE CONSTITUTION
 
-(1)  The  provisions  of  Chapter  I  to  Chapter  XXIII shall come into force on the day appointed by the President by Proclamation.
+#### Promulgation of the Constitution
 
-- Parliament shall meet on the day so appointed and the President may, in such Proclamation, specify the time at which Parliament shall so meet.
+172. (1) The provisions of Chapter I to Chapter XXIII shall come into force on the day appointed by the President by Proclamation.
+
+(2) Parliament shall meet on the day so appointed and the President may, in such Proclamation, specify the time at which Parliament shall so meet.
 
 Devo vassatukalena sassasampattihetu ca phito bhavatu loko ca raja bhavatu dhammiko
 
 SIDDHIRASTU
-
-#### Promulgation of the Constitution
 
 [[END OF PAGE 195]]
 
@@ -5299,11 +5831,11 @@ SIDDHIRASTU
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Transitional Provisions
-
 ## Other Consequential Amendments in the Nineteenth Amendment to the Constitution.
 
-(1) For the avoidance of doubt it is hereby declared that,-
+#### Transitional Provisions
+
+49. (1) For the avoidance of doubt it is hereby declared that,-
 
 (a) the  Seventh  Parliament  in  existence  on  the  day preceding  the  date  on  which  this  Act  comes  into operation,  shall,  unless  dissolved  earlier,  continue to function until April 21, 2016 and shall thereafter stand dissolved;
 
@@ -5335,7 +5867,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (xii)	 a  judicial  officer,  a  scheduled  public  officer, public officer or a police officer,
 
-shall continue to hold such office and shall, subject to paragraph (3) of Article 41C, continue to exercise, perform and discharge the powers, duties and functions  of  that  office,  under  the  same  terms  and conditions.
+shall continue to hold such office and shall, subject to paragraph (3) of Article 41C, continue to exercise, perform and discharge the powers, duties and
 
 * - The section numbers indicated in this section are as per the numbers assigned to the Nineteenth Amendment to the Constitution
 
@@ -5347,7 +5879,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 179
 
-(2)  Every  person  holding  office  on  the  day  preceding  the date on which this Act comes into operation, as the Chairman or a member of the,-
+functions of that office, under the same terms and conditions.
+
+(2) Every person holding office on the day preceding the date on which this Act comes into operation, as the Chairman or a member of the,–
 
 (a) Parliamentary Council;
 
@@ -5377,13 +5911,11 @@ Provided that a person holding office on the day preceding the date on which thi
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### Special provisions relating to the period commencing on the date of which certain Articles comes into force
-
-(c) Any decision or order made or any ruling given by the Commissioner of Elections under any written law prior to the date  on  which  the  Election  Commission  is  constituted  under Article 103, shall be deemed, with effect from the date on which the Election Commission is constituted, to be a decision or order made or a ruling given, by the Election Commission, and may be enforcement accordingly.
+(c) Any decision or order made or any ruling given by the Commissioner of Elections under any written law prior to the date on which the Election Commission is constituted under Article 103, shall be deemed, with effect from the date on which the Election Commission is constituted, to be a decision or order made or a ruling given, by the Election Commission, and may be enforcement accordingly.
 
 (d) Upon the constitution of the Election Commission under Article 103, unless the context otherwise requires, there shall be substituted for the expressions 'Commissioner of Elections' and 'Department of the Commissioner  Elections' wherever those expressions occur in the Constitution and in any written law or in any contract, agreement or other document, of the expression 'Election Commission'.
 
-- All matters relating to,-
+(4) All matters relating to,–
 
 (a) the  appointment,  promotion,  transfer,  disciplinary control and dismissal of police officers; and
 
@@ -5391,9 +5923,11 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 pending before the Public Service Commission on the day preceding the date of on which this Act comes into operation shall, with effect from that date, stand transferred to the National Police  Commission  established  by Article  155A  and  shall  be determined by the National Police Commission accordingly.
 
-- All  matters  relating  to  the  appointment,  promotion, transfer,  disciplinary  control  and  dismissal  of  members  of  the Sri  Lanka  State Audit  Service  and  pending  before  the  Public Service Commission on the day preceding the date of on which this Act comes into operation shall, with effect from that date, stand transferred to the Audit Service  Commission established by Article 153A and shall be determined by the Audit Service Commission accordingly.
+(5) All matters relating to the appointment, promotion, transfer, disciplinary control and dismissal of members of the Sri Lanka State Audit Service and pending before the Public Service Commission on the day preceding the date of on which this Act comes into operation shall, with effect from that date, stand transferred to the Audit Service Commission established by Article 153A and shall be determined by the Audit Service Commission accordingly.
 
-- During the period commencing on the date on which this Act comes into operation (other than the provisions of section 9,  in so far as it relates to paragraph (1) of Article 46 and the provisions of sections 15, 28, 29, 30 and 31) and ending on the date  on  which  the  next  General  Election  of  the  Members  of Parliament is concluded,:-
+#### Special provisions relating to the period commencing on the date of which certain Articles comes into force
+
+50. During the period commencing on the date on which this Act comes into operation (other than the provisions of section 9, in so far as it relates to paragraph (1) of Article 46 and the provisions of sections 15, 28, 29, 30 and 31) and ending on the date on which the next General Election of the Members of Parliament is concluded,:-
 
 [[END OF PAGE 198]]
 
@@ -5407,9 +5941,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (b) the  Cabinet  of  Ministers  functioning  immediately prior  to  the  dissolution  of  the  Seventh  Parliament shall,  notwithstanding  such  dissolution,  continue to  function  and  shall  cease  to  function  upon  the conclusion of the General Election and accordingly, the  Prime  Minister,  Ministers  of  the  Cabinet  of Ministers,  Ministers  who  are  not  members  of  the Cabinet  of  Ministers  and  Deputy  Ministers  shall continue  to  function  until  the  conclusion  of  the General Election unless they cease to hold office as provided  in  sub-paragraph  (a)  of  paragraph  (2)  of Article 46 or sub-paragraph (a) or (b) of paragraph (3) of Article 46.
 
-51. Notwithstanding anything to the contrary in the Constitution, the person holding office as President on the date of  commencement of this Act, so long as he holds the Office of  President may assign to himself the subjects and functions of  Defence,  Mahaweli  Development  and  Environment  and determine the Ministries to be in his charge for that purpose and accordingly, any reference in any written law to the Minister to whom such subject or function is assigned, shall be read and construed as a reference to the President.
-
 #### President in office to be in charge of certain subjects and functions
+
+51. Notwithstanding anything to the contrary in the Constitution, the person holding office as President on the date of commencement of this Act, so long as he holds the Office of President may assign to himself the subjects and functions of Defence, Mahaweli Development and Environment and determine the Ministries to be in his charge for that purpose and accordingly, any reference in any written law to the Minister to whom such subject or function is assigned, shall be read and construed as a reference to the President.
 
 [[END OF PAGE 199]]
 
@@ -5419,63 +5953,63 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- 1 Colombo
-
-- 2 Gampaha
-
-- 3 Kalutara
-
-- 4 Kandy
-
-- 5 Matale
-
-- 6 Nuwara Eliya
-
-- 7 Galle
-
-- 8 Matara
-
-- 9 Hambantota
-
-- 10	 Jaffna
-
-- 140 [11 Kilinochchi]
-
-- 12	 Mannar
-
-- 13	 Vavuniya
-
-- 14	 Mullaitivu
-
-- 15	 Batticaloa
-
-- 16	 Ampara
-
-- 17	 Trincomalee
-
-- 18	 Kurunegala
-
-- 19	 Puttalam
-
-- 20	 Anuradhapura
-
-- 21	 Polonnaruwa
-
-- 22	 Badulla
-
-- 23	 Moneragala
-
-- 24	 Ratnapura
-
-- 25	 Kegalle
-
 ## FIRST SCHEDULE
 
 ### ARTICLE 5
 
 #### Names of Administrative Districts
 
-140-	Inserted by the Seventh Amendment to the Constitution Sec.5
+1 Colombo
+
+2 Gampaha
+
+3 Kalutara
+
+4 Kandy
+
+5 Matale
+
+6 Nuwara Eliya
+
+7 Galle
+
+8 Matara
+
+9 Hambantota
+
+10 Jaffna
+
+140[11 Kilinochchi]
+
+12 Mannar
+
+13 Vavuniya
+
+14 Mullaitivu
+
+15 Batticaloa
+
+16 Ampara
+
+17 Trincomalee
+
+18 Kurunegala
+
+19 Puttalam
+
+20 Anuradhapura
+
+21 Polonnaruwa
+
+22 Badulla
+
+23 Moneragala
+
+24 Ratnapura
+
+25 Kegalle
+
+140 - Inserted by the Seventh Amendment to the Constitution Sec.5
 
 [[END OF PAGE 200]]
 
@@ -5545,13 +6079,16 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 189
 
-## FOURTH  SCHEDULE
+## FOURTH SCHEDULE
 
 ### ARTICLE 32, 53, 61, 107, 165
 
-"I……………………………………………………………… do solemnly declare and affirm ------------------------ that I will faithfully  perform  the  duties swear
-
-the duties and discharge the functions of the office of ………………………………………………… in accordance with the Constitution of the Democratic Socialist Republic of Sri Lanka and the law, and that I will be faithful to the Republic of Sri Lanka and that I will to the best of my ability uphold and defend the Constitution of the Democratic Socialist Republic of Sri Lanka.'
+“I……………………………………………………………… do
+solemnly declare and affirm
+–––––––––––––––––––––––– that I will faithfully perform
+swear
+the duties and discharge the functions of the office of
+………………………………………………… in accordance with the Constitution of the Democratic Socialist Republic of Sri Lanka and the law, and that I will be faithful to the Republic of Sri Lanka and that I will to the best of my ability uphold and defend the Constitution of the Democratic Socialist Republic of Sri Lanka.”
 
 [[END OF PAGE 207]]
 
@@ -5567,7 +6104,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 Clerks
 
-141 [Deputy Fiscals]
+141[Deputy Fiscals]
 
 Interpreters
 
@@ -5577,7 +6114,7 @@ Typists
 
 Binders
 
-141-	Substituted by the Eleventh Amendment to the Constitution Sec. 7 for 'Fiscals.'
+141 - Substituted by the Eleventh Amendment to the Constitution Sec. 7 for “Fiscals.”
 
 [[END OF PAGE 208]]
 
@@ -5591,7 +6128,30 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ### ARTICLE 162(2)
 
-'District' means the Administrative District established under the Administrative Districts Act (Chapter 392) having the limits specified thereunder as on July 21, 1977.
+Colombo City and Dehiwela-Mount Lavinia-(Municipal Limits)........................1 Member
+Colombo District (excluding Colombo City and Dehiwela-Mount Lavinia) .......2 Members
+Kalutara District ....................................................................................................1 Member
+Kandy District……… ...........................................................................................2 Members
+Matale District………...........................................................................................1 Member
+Nuwara-Eliya District……… ...............................................................................1 Member
+Galle District .........................................................................................................2 Members
+Matara District.......................................................................................................1 Member
+Hambantota District……… ..................................................................................1 Member
+Jaffna District ........................................................................................................3 Members
+Mannar and Vavuniya Districts.............................................................................1 Member
+Batticaloa District..................................................................................................1 Member
+Trincomalee District..............................................................................................1 Member
+Ampara District.....................................................................................................2 Members
+Kurunegala District ...............................................................................................3 Members
+Puttalam District....................................................................................................1 Member
+Anuradhapura District...........................................................................................3 Members
+Polonnaruwa District.............................................................................................1 Member
+Badulla District .....................................................................................................3 Members
+Moneragala District...............................................................................................1 Member
+Kegalle District .....................................................................................................2 Members
+Ratnapura District .................................................................................................2 Members
+
+“District” means the Administrative District established under the Administrative Districts Act (Chapter 392) having the limits specified thereunder as on July 21, 1977.
 
 [[END OF PAGE 209]]
 
@@ -5601,17 +6161,17 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-## 142 SEVENTH  SCHEDULE
+## 142SEVENTH SCHEDULE
 
-### ARTICLE  157A  AND ARTICLE 161(d) (iii)
+### ARTICLE 157A AND ARTICLE 161(d) (iii)
 
-do solemnly declare and affirm "I,…………...........................……………--------------------------- swear
+“I,…………...........................……………
+do solemnly declare and affirm
+––––––––––––––––––––––––––––––––––––––––
+swear
+that I will uphold and defend the Constitution of the Democratic Socialist Republic of Sri Lanka and that I will not, directly or indirectly, in or outside Sri Lanka, support, espouse, promote, finance, encourage or advocate the establishment of a separate State within the territory of Sri Lanka.”
 
-do solemnly declare and affirm "I,…………...........................……………--------------------------- swear
-
-that  I  will  uphold  and  defend  the  Constitution  of  the  Democratic  Socialist Republic of Sri Lanka and that I will not, directly or indirectly, in or outside Sri  Lanka,  support,  espouse,promote,  finance,  encourage  or  advocate  the establishment of a separate State within the territory of Sri Lanka.'
-
-142 -	 Inserted by the Sixth Amendment to the Constitution Sec.5
+142 - Inserted by the Sixth Amendment to the Constitution Sec.5
 
 [[END OF PAGE 210]]
 
@@ -5621,7 +6181,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 193
 
-## 143 [ EIGHTH  SCHEDULE
+## 143[ EIGHTH SCHEDULE
+
+### [ Article 154A ]
 
 #### Provinces
 
@@ -5643,9 +6205,7 @@ North-Central
 
 Northern ]
 
-### [ Article 154A ]
-
-143 -	 Inserted by the Thirteenth Amendment to the Constitution Sec.7
+143 - Inserted by the Thirteenth Amendment to the Constitution Sec.7
 
 [[END OF PAGE 211]]
 
@@ -5655,36 +6215,36 @@ Northern ]
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-## 144 [ NINTH  SCHEDULE
+## 144[ NINTH SCHEDULE
 
 ### LIST I
 
 #### (Provincial Council List)
 
-##### 1. Police  and  Public  order.-
-Public  order  and  the  exercise  of  police  powers, to the extent set out in Appendix I, within the Province, but not including National Defence, National Security and the use of any armed forces or any other forces under the control of the Government of Sri Lanka in aid of the civil power and not including the  city  of  Colombo,  Sri  Jayewardenepura,  Kotte,  and  their  environs  the  limits  of which shall be specified by the President by Order published in the Gazette.
+##### 1. Police and Public order.–
+Public order and the exercise of police powers, to the extent set out in Appendix I, within the Province, but not including National Defence, National Security and the use of any armed forces or any other forces under the control of the Government of Sri Lanka in aid of the civil power and not including the city of Colombo, Sri Jayewardenepura, Kotte, and their environs the limits of which shall be specified by the President by Order published in the Gazette.
 
-##### Planning-
+##### 2. Planning–
 Implementation of provincial economic plans.
 
-##### Education  and  Educational  Services.-
-Education  to  the  extent  set  out  in Appendix  III.
+##### 3. Education and Educational Services.–
+Education to the extent set out in Appendix III.
 
-##### Local Government -
+##### 4. Local Government –
 
-- 4:1 Local authorities for the purpose of Local  Government and village administration,  such  as  Municipal  Councils,  Urban  Councils  and Pradeshiya Sabhas, except that, the constitution, form and structure of local authorities shall be determined by law ;
+- 4:1 Local authorities for the purpose of Local Government and village administration, such as Municipal Councils, Urban Councils and Pradeshiya Sabhas, except that, the constitution, form and structure of local authorities shall be determined by law ;
 
 - 4:2 Supervision of the administration of Local Authorities established by law, including the power of dissolution (subject to such quasi-judicial inquiries into the grounds for dissolution and legal remedies in respect thereof, as may be provided by law and subject to provisions relating to audit as may be provided by law) ;
 
-- 4:3 Local Authorities will have the powers vested in them under existing law. Municipal Councils and Urban Councils will have the powers vested  in  them  under  the  Municipal  Councils  Ordinance  and  the Urban Councils Ordinance, Pradeshiya Sabha will have the powers vested  in  them  under  existing  law.  It  will  be  open  to  a  Provincial Council to confer additional powers on local authorities but not to take away their powers ;
+- 4:3 Local Authorities will have the powers vested in them under existing law. Municipal Councils and Urban Councils will have the powers vested in them under the Municipal Councils Ordinance and the Urban Councils Ordinance, Pradeshiya Sabha will have the powers vested in them under existing law. It will be open to a Provincial Council to confer additional powers on local authorities but not to take away their powers ;
 
 - 4:4 Gramodaya Mandalayas will have the powers vested in Gramodaya Mandalayas under existing law. It will be open to a Provincial Council to confer additional powers on Gramodaya Mandalayas.
 
-##### Provincial Housing and Construction -
+##### 5. Provincial Housing and Construction –
 
-- 5:1 Implementing, co-ordinating, supervising and monitoring  provincial housing development programmes and projects (other than National Housing  Development  Authority  projects)  including  aided  selfhelp housing projects, housing loans and the provision of building materials ;
+- 5:1 Implementing, co-ordinating, supervising and monitoring provincial housing development programmes and projects (other than National Housing Development Authority projects) including aided self-help housing projects, housing loans and the provision of building materials ;
 
-144 -	 Inserted by the Thirteenth Amendment to the Constitution Sec.7
+144 - Inserted by the Thirteenth Amendment to the Constitution Sec.7
 
 [[END OF PAGE 212]]
 
@@ -5694,43 +6254,43 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 195
 
-- 5:2  The implementation of the Protection of Tenants Act and the Rent Act within a Province ;
+- 5:2 The implementation of the Protection of Tenants Act and the Rent Act within a Province ;
 
-- 5:3  Construction activity in respect of subjects in this List.
+- 5:3 Construction activity in respect of subjects in this List.
 
-##### Roads and bridges and ferries thereon within the Province, other than -
+##### 6. Roads and bridges and ferries thereon within the Province, other than –
 
 (a) national highways ;
 
 (b) bridges and ferries on national highways.
 
-##### Social Services and Rehabilitation -
+##### 7. Social Services and Rehabilitation –
 
 - 7:1 Probation and Child Care Services ;
 
 - 7:2 The Rehabilitation of destitute persons and families ;
 
-- 7:3 Rehabilitation  and  welfare  of  physically,  mentally  and  socially handicapped persons ;
+- 7:3 Rehabilitation and welfare of physically, mentally and socially handicapped persons ;
 
 - 7:4 Relief of the disabled and unemployable.
 
-##### Regulation  of  road  passenger  carriage  services  and  the  carriage  of  goods by  motor  vehicles  within  the  Province  and  the  provisions  of  inter-provincial  road transport services.
+##### 8. Regulation of road passenger carriage services and the carriage of goods by motor vehicles within the Province and the provisions of inter-provincial road transport services.
 
-##### Agriculture and Agrarian Services -
+##### 9. Agriculture and Agrarian Services –
 
-- 9:1 Agriculture, including agricultural extension, promotion and education  for  provincial  purposes  and  agricultural  services  (other than in inter-provincial irrigation and land settlement schemes, State land and plantation agriculture) ;
+- 9:1 Agriculture, including agricultural extension, promotion and education for provincial purposes and agricultural services (other than in inter-provincial irrigation and land settlement schemes, State land and plantation agriculture) ;
 
 - 9:2 Rehabilitation and maintenance of minor irrigation works ;
 
-- 9:3 Agricultural  research  save  and  except  institutions  designated  as national agricultural research institutions.
+- 9:3 Agricultural research save and except institutions designated as national agricultural research institutions.
 
-##### Rural Development
+##### 10. Rural Development
 
-##### Health -
+##### 11. Health –
 
-- 11:1	 The establishment and maintenance of public hospitals, rural hospitals, maternity  homes,  dispensaries  (other  than  teaching  hospitals  and hospitals established for special purposes) ;
+- 11:1 The establishment and maintenance of public hospitals, rural hospitals, maternity homes, dispensaries (other than teaching hospitals and hospitals established for special purposes) ;
 
-- 11:2	 Public  health  services,  health  education,  nutrition,  family  health maternity  and  child  care,  food  and  food  sanitation,  environmental health ;
+- 11:2 Public health services, health education, nutrition, family health maternity and child care, food and food sanitation, environmental health ;
 
 [[END OF PAGE 213]]
 
@@ -5740,41 +6300,41 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- 11:3	 Formulation and implementation of Health Development Plan and of the Annual Health Plan for the Province ;
+- 11:3 Formulation and implementation of Health Development Plan and of the Annual Health Plan for the Province ;
 
-- 11:4	 The provision of facilities for all institutions referred to in 1 above within the Province, excluding the procurement of drugs ;
+- 11:4 The provision of facilities for all institutions referred to in 1 above within the Province, excluding the procurement of drugs ;
 
-- 11:5	 Awarding  of  Scholarships  for  Post-Graduate  Education  within  Sri Lanka to personnel attached to the Institutions specified in 1 above.
+- 11:5 Awarding of Scholarships for Post-Graduate Education within Sri Lanka to personnel attached to the Institutions specified in 1 above.
 
-##### Indigenous Medicine - Ayurveda, Siddha and Unani -
+##### 12. Indigenous Medicine – Ayurveda, Siddha and Unani –
 
-- 12:1	 Establishment of Ayurvedic dispensaries and hospitals, grants to such dispensaries and hospitals ;
+- 12:1 Establishment of Ayurvedic dispensaries and hospitals, grants to such dispensaries and hospitals ;
 
-- 12:2	 Establishment and maintenance of herbaria.
+- 12:2 Establishment and maintenance of herbaria.
 
-- 13:1	 Rest houses maintained by local authorities ; and
+- 13:1 Rest houses maintained by local authorities ; and
 
-- 13:2	 Circuit bungalows presently administered by Government departments whose functions are exclusively specified in this List.
+- 13:2 Circuit bungalows presently administered by Government departments whose functions are exclusively specified in this List.
 
-##### Pawn brokers -
+##### 14. Pawn brokers -
 Pawn brokers other than pawn brokers business carried on by Banks.
 
-##### Markets, fairs.
+##### 15. Markets, fairs.
 
-##### Food supply and distribution within the Province.
+##### 16. Food supply and distribution within the Province.
 
-##### Co-operatives -
+##### 17. Co-operatives –
 
-- 17:1	 Co-operative undertakings and the organization, registration, supervision and audit of co-operative societies within the Province ;
+- 17:1 Co-operative undertakings and the organization, registration, supervision and audit of co-operative societies within the Province ;
 
-- 17:2	 Co-operative development within the Province including co-operative education and propaganda ;
+- 17:2 Co-operative development within the Province including co-operative education and propaganda ;
 
-- 17:3	 Provincial co-operative Employees Commission ;
+- 17:3 Provincial co-operative Employees Commission ;
 
-- 17:4	 Matters connected with employment, promotion, retirement and other connected matters of employees of co-operative societies within the Province.
+- 17:4 Matters connected with employment, promotion, retirement and other connected matters of employees of co-operative societies within the Province.
 
-##### Land.-
-Land, that is to say, rights in or over land, land tenure, transfer and alienation  of  land,  land  use,  land  settlement  and  land  improvement,  to  the  extent  set  out  in Appendix II.
+##### 18. Land.–
+Land, that is to say, rights in or over land, land tenure, transfer and alienation of land, land use, land settlement and land improvement, to the extent set out in Appendix II.
 
 [[END OF PAGE 214]]
 
@@ -5784,33 +6344,33 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 197
 
-##### Irrigation.-
+##### 19. Irrigation.–
 Planning, designing, implementation, supervision and maintenance of all irrigation works, other than irrigation schemes relating to rivers running through more than one Province or inter provincial irrigation and land development schemes.
 
-##### Animal husbandry.-
+##### 20. Animal husbandry.–
 Preservation, protection and improvement of stock and prevention of animal diseases within the Province.
 
-##### Subject to the formulation and implementation of National Policy in regard to development and planning, the power to promote, establish and engage in agricultural, industrial, commercial and trading enterprises and other income-generating projects, within the Province without prejudice to the power of the Government and Public Corporations to have such enterprises and projects.
+##### 21. Subject to the formulation and implementation of National Policy in regard to development and planning, the power to promote, establish and engage in agricultural, industrial, commercial and trading enterprises and other income-generating projects, within the Province without prejudice to the power of the Government and Public Corporations to have such enterprises and projects.
 
-(This  would  include  the  promotion  of  scientific  and  industrial  research  within the Province and the preparation, co-ordination and the implementation of industrial development plans for the Province).
+(This would include the promotion of scientific and industrial research within the Province and the preparation, co-ordination and the implementation of industrial development plans for the Province).
 
-##### Reformatories,  Borstal  institutions  and  other  institutions  of  a  like  nature and persons detained therein, arrangements with other Provinces for the use of such institutions.
+##### 22. Reformatories, Borstal institutions and other institutions of a like nature and persons detained therein, arrangements with other Provinces for the use of such institutions.
 
-##### Possession, transport, purchase and sale of intoxicating liquors.
+##### 23. Possession, transport, purchase and sale of intoxicating liquors.
 
-##### Burials  and  burial  grounds,  cremations  and  cremation  grounds,  other  than those declared by or under law made by Parliament to be national memorial cemeteries.
+##### 24. Burials and burial grounds, cremations and cremation grounds, other than those declared by or under law made by Parliament to be national memorial cemeteries.
 
-- 25:1	 Libraries,  Museums  and  other  similar  institutions  controlled  or financed by a Provincial Council ;
+- 25:1 Libraries, Museums and other similar institutions controlled or financed by a Provincial Council ;
 
-- 25:2	 Ancient  and  historical  monuments  and  records  other  than  those declared  by  or  under  law  made  by  Parliament  to  be  of  national importance.
+- 25:2 Ancient and historical monuments and records other than those declared by or under law made by Parliament to be of national importance.
 
-##### The regulation of mines and mineral development, to the extent permitted by or under any law made by Parliament, within the Province.
+##### 26. The regulation of mines and mineral development, to the extent permitted by or under any law made by Parliament, within the Province.
 
-##### Incorporation, regulation and judicial winding up of corporations with objects confined  to  the  Province,  excluding  trading  corporations,  banking,  insurance  and financial corporations.
+##### 27. Incorporation, regulation and judicial winding up of corporations with objects confined to the Province, excluding trading corporations, banking, insurance and financial corporations.
 
-##### Regulation of unincorporated trading, literary, scientific, religious and other societies and associations.
+##### 28. Regulation of unincorporated trading, literary, scientific, religious and other societies and associations.
 
-- 29:1	 Theatres and dramatic performances, music, cinemas, entertainments and amusements, excluding the sanctioning of cinematograph films for exhibition and public performances.
+- 29:1 Theatres and dramatic performances, music, cinemas, entertainments and amusements, excluding the sanctioning of cinematograph films for exhibition and public performances.
 
 [[END OF PAGE 215]]
 
@@ -5820,37 +6380,37 @@ Preservation, protection and improvement of stock and prevention of animal disea
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- 29:2	 Encouragement and development of sports (other than national sports associations).
+- 29:2 Encouragement and development of sports (other than national sports associations).
 
-##### Betting and gambling, other than imposition of licence fees and taxes.
+##### 30. Betting and gambling, other than imposition of licence fees and taxes.
 
-##### Provincial debt.
+##### 31. Provincial debt.
 
-##### Offences against statutes with respect to any of the matters specified in this List.
+##### 32. Offences against statutes with respect to any of the matters specified in this List.
 
-##### Fees in respect of any of the matters in this List, excluding fees taken in any court.
+##### 33. Fees in respect of any of the matters in this List, excluding fees taken in any court.
 
-##### Development,  conservation  and  management  of  sites  and  facilities  in  the Province  for  the  generation  and  promotion  of  electrical  energy  (other  than  hydroelectric power and power generated to feed the national grid).
+##### 34. Development, conservation and management of sites and facilities in the Province for the generation and promotion of electrical energy (other than hydro-electric power and power generated to feed the national grid).
 
-##### The borrowing of money to the extent permitted by or under any law made by Parliament.
+##### 35. The borrowing of money to the extent permitted by or under any law made by Parliament.
 
-- 36:1	 Turnover taxes on wholesale and retail sales within such limits and subject  to  such  exemptions  as  may  be  prescribed  by  law  made  by Parliament ;
+- 36:1 Turnover taxes on wholesale and retail sales within such limits and subject to such exemptions as may be prescribed by law made by Parliament ;
 
-- 36:2	 Betting  taxes,  and  taxes  on  prize  competitions  and  lotteries,  other than National Lotteries and lotteries organized by the Government of Sri Lanka ;
+- 36:2 Betting taxes, and taxes on prize competitions and lotteries, other than National Lotteries and lotteries organized by the Government of Sri Lanka ;
 
-- 36:3	 Licence  taxes,  arrack,  toddy  rents,  tapping  licence  fees  and  liquor licence fees ;
+- 36:3 Licence taxes, arrack, toddy rents, tapping licence fees and liquor licence fees ;
 
-- 36:4	 Motor  vehicle  licence  fees  within  such  limits  and  subject  to  such exemptions as may be prescribed by law made by Parliament ;
+- 36:4 Motor vehicle licence fees within such limits and subject to such exemptions as may be prescribed by law made by Parliament ;
 
-- 36:5	 Dealership licence taxes on drugs and other chemicals ;
+- 36:5 Dealership licence taxes on drugs and other chemicals ;
 
-- 36:6	 Stamp duties on transfer of properties, such as lands and motor cars ;
+- 36:6 Stamp duties on transfer of properties, such as lands and motor cars ;
 
-- 36:7	 Toll collections ;
+- 36:7 Toll collections ;
 
-- 36:8	 Fines imposed by courts ;
+- 36:8 Fines imposed by courts ;
 
-- 36:9	 Fees charged under the Medical Ordinance ;
+- 36:9 Fees charged under the Medical Ordinance ;
 
 - 36:10 Fees charged under the Motor Traffic Act ;
 
@@ -5882,7 +6442,7 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 - 36:20 Other taxation within the Province in order to raise revenue for provincial purposes to the extent permitted by or under any law made by Parliament.
 
-##### Protection of environment within the Province to the extent permitted by or under any law made by Parliament.
+##### 37. Protection of environment within the Province to the extent permitted by or under any law made by Parliament.
 
 [[END OF PAGE 217]]
 
@@ -5892,13 +6452,13 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-#### APPENDIX  I
+#### APPENDIX I
 
-##### Law  and Order
+##### Law and Order
 
-- The subject devolved shall be described as follows :-
+1. The subject devolved shall be described as follows :–
 
-Public Order and the exercise of Police powers as set out in this Appendix within the Province, but not including -
+Public Order and the exercise of Police powers as set out in this Appendix within the Province, but not including –
 
 (a) national defence ;
 
@@ -5906,7 +6466,7 @@ Public Order and the exercise of Police powers as set out in this Appendix withi
 
 (c) the use of any armed forces or any other forces under the control of the Government of Sri Lanka in aid of the civil power.
 
-- The I. G. P. shall be the head of the Sri Lanka Police Force, The Sri Lanka Police Force shall be divided into -
+2. The I. G. P. shall be the head of the Sri Lanka Police Force, The Sri Lanka Police Force shall be divided into –
 
 (a) the National Division (including Special Units) ; and
 
@@ -5914,15 +6474,15 @@ Public Order and the exercise of Police powers as set out in this Appendix withi
 
 - 2:1 The National Division shall consist of the I. G. P., (D. I. G. G., SS PP., ASPP.,) and other ranks recruited at the national level.
 
-- 2:2 A Provincial Division shall consist of the D.I.G., S.S.PP., S.PP and A.S.PP.,  all  seconded  from  the  National  Division  and  Provincial Assistant  Superintendents  of  Police,  Chief  Inspectors,  Inspectors, Sub-Inspectors, Sergeants and Constables recruited in the Province. Members of the Provincial Division shall be eligible for promotion to the National Division.
+- 2:2 A Provincial Division shall consist of the D.I.G., S.S.PP., S.PP and A.S.PP., all seconded from the National Division and Provincial Assistant Superintendents of Police, Chief Inspectors, Inspectors, Sub-Inspectors, Sergeants and Constables recruited in the Province. Members of the Provincial Division shall be eligible for promotion to the National Division.
 
-- 145 [3.  Recruitment  to  the  National  Police  Division  and  promotion  of  Police Officers in the Provincial Divisions to the National Division, shall be made by the National Police Commission.]
+145[3. Recruitment to the National Police Division and promotion of Police Officers in the Provincial Divisions to the National Division, shall be made by the National Police Commission.]
 
-- 3:1 The National Police Commission shall, before promoting any police Officer serving in any Provincial Division to the National Division, call  for  a  Confidential  Report  on  such  Officer  from  the  relevant Provincial Police Commission and take the matters specified in such report into consideration in deciding whether to promote such Officer or not.
+- 3:1 The National Police Commission shall, before promoting any police Officer serving in any Provincial Division to the National Division, call for a Confidential Report on such Officer from the relevant Provincial Police Commission and take the matters specified in such report into consideration in deciding whether to promote such Officer or not.
 
 - 3:2 The Commission shall also be responsible for promotions, transfers and disciplinary control of members of the National Division other than the I.G.P. subject to paragraph 4:1 below.
 
-> 145-	Inserted  by  the  Thirteenth  Amendment  to  the  Constitution  Sec.7  and  substituted  by  the  Seventeenth Amendment to the Constitution Sec.23(1) for item 3
+> 145 - Inserted by the Thirteenth Amendment to the Constitution Sec.7 and substituted by the Seventeenth Amendment to the Constitution Sec.23(1) for item 3
 
 [[END OF PAGE 218]]
 
@@ -5932,31 +6492,31 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 201
 
-- 3:3 It  shall  hear  and  determine  appeals  from  officers  seconded  to Provincial Divisions against whom disciplinary action has been taken by Provincial Police Commissions.
+- 3:3 It shall hear and determine appeals from officers seconded to Provincial Divisions against whom disciplinary action has been taken by Provincial Police Commissions.
 
 - 3:4 It shall set standards for recruitment and promotion of Police Officers of all Divisions and such standards shall be uniform for all Provincial Divisions.
 
-- Recruitment to each Provincial Division shall be made by a Provincial Police Commission composed of three members, namely -
+4. Recruitment to each Provincial Division shall be made by a Provincial Police Commission composed of three members, namely -
 
 (a) the D. I. G. of the Province ;
 
-(b) a  person  nominated  by  the  Public  Service  Commission  in  consultation with the President ; and
+(b) a person nominated by the Public Service Commission in consultation with the President ; and
 
 (c) a nominee of the Chief Minister of the Province.
 
-- 4:1 A Provincial Police Commission shall be responsible for transfers, promotions and disciplinary control over officers in the Provincial Division ; for promotion of Officers of the National Division seconded to the Provincial Division up to the rank of S.S.P. ; and for transfer and  disciplinary  control  over  officers  seconded  to  the  Provincial Division, except the D.I.G. :
+- 4:1 A Provincial Police Commission shall be responsible for transfers, promotions and disciplinary control over officers in the Provincial Division ; for promotion of Officers of the National Division seconded to the Provincial Division up to the rank of S.S.P. ; and for transfer and disciplinary control over officers seconded to the Provincial Division, except the D.I.G. :
 
 Provided that any Officer of the National Division seconded to any Provincial Division against whom disciplinary action has been taken by a Provincial Police Commission, shall have the right to appeal to the National Police Commission, whose decision on such appeal shall be final.
 
-- The National Police Commission or a Provincial Police Commission shall be entitled to delegate such of its powers as may be prescribed to such other person or authority as may be prescribed.
+5. The National Police Commission or a Provincial Police Commission shall be entitled to delegate such of its powers as may be prescribed to such other person or authority as may be prescribed.
 
-- The I.G.P. shall appoint a D.I.G. for each Province with the concurrence of the Chief Minister of the Province. However, where there is non agreement between the Inspector-General of Police and the Chief Minister, the matter 146 [will be referred to  the  National  Police  Commission],  who,  after  due  consultations  with  the  Chief Minister, shall make the appointment.
+6. The I.G.P. shall appoint a D.I.G. for each Province with the concurrence of the Chief Minister of the Province. However, where there is non agreement between the Inspector-General of Police and the Chief Minister, the matter 146[will be referred to the National Police Commission], who, after due consultations with the Chief Minister, shall make the appointment.
 
-- The cadres of Police Officers of all ranks of the National Division shall be fixed by the Government of Sri Lanka. The cadre of Officers and other ranks of each Provincial  Division  shall  be  fixed  by  the  Provincial  Administration 147 [with  the approval of the National Police Commission], having regard to -
+7. The cadres of Police Officers of all ranks of the National Division shall be fixed by the Government of Sri Lanka. The cadre of Officers and other ranks of each Provincial Division shall be fixed by the Provincial Administration 147[with the approval of the National Police Commission], having regard to –
 
-> 146 -	 Inserted  by  the  Thirteenth  Amendment  to  the  Constitution  Sec.7  and  substituted  by  the  Seventeenth Amendment to the Constitution Sec.23(2) for "will be referred to the President"
+> 146 - Inserted by the Thirteenth Amendment to the Constitution Sec.7 and substituted by the Seventeenth Amendment to the Constitution Sec.23(2) for “will be referred to the President”
 
-> 147 -	 Inserted  by  the  Thirteenth Amendment  to  the  Constitution  Sec.  7,  and  substituted  by  the  Seventeenth Amendment to the Constitution Sec. 23(3), for 'with the approval of the President'.
+> 147 - Inserted by the Thirteenth Amendment to the Constitution Sec. 7, and substituted by the Seventeenth Amendment to the Constitution Sec. 23(3), for “with the approval of the President”.
 
 [[END OF PAGE 219]]
 
@@ -5996,23 +6556,23 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 203
 
-148 [The  National  Police  Commission  may,  where  he  considers  it necessary  provide for alternate training for members of any Provincial Division].
+148[The National Police Commission may, where he considers it necessary provide for alternate training for members of any Provincial Division].
 
-- Members of the National Division and the Provincial Divisions shall wear the same uniforms and insignia of rank, provided that uniforms of the members of each Division shall bear a distinctive shoulder flash, indicating the Division to which he belongs.
+10. Members of the National Division and the Provincial Divisions shall wear the same uniforms and insignia of rank, provided that uniforms of the members of each Division shall bear a distinctive shoulder flash, indicating the Division to which he belongs.
 
-- 10:1	 There shall be one uniformed police force in each Province, comprising of the members of the Provincial Division and the officers seconded thereto. Members of the National Division shall ordinarily be in plain clothes provided that they may wear uniforms when performing any duties in respect of the maintenance or restoration of public order as set out in paragraph 12:2, 12:3 and 12:4. Provided also that the I.G.P. and such other Officers as may be specified shall ordinarily be attired in uniforms.
+- 10:1 There shall be one uniformed police force in each Province, comprising of the members of the Provincial Division and the officers seconded thereto. Members of the National Division shall ordinarily be in plain clothes provided that they may wear uniforms when performing any duties in respect of the maintenance or restoration of public order as set out in paragraph 12:2, 12:3 and 12:4. Provided also that the I.G.P. and such other Officers as may be specified shall ordinarily be attired in uniforms.
 
-- All Police Officers serving in units of the National Division and Provincial Divisions in any Province shall function under the direction and control of the D. I. G. of such Province.
+11. All Police Officers serving in units of the National Division and Provincial Divisions in any Province shall function under the direction and control of the D. I. G. of such Province.
 
-- 11:1	 The D. I. G. of the Province shall be responsible to and under the control of the Chief Minister thereof in respect of the maintenance of public order in the Province and the exercise of police powers in the Province as set out in this Schedule.
+- 11:1 The D. I. G. of the Province shall be responsible to and under the control of the Chief Minister thereof in respect of the maintenance of public order in the Province and the exercise of police powers in the Province as set out in this Schedule.
 
-- 11:2	 The provisions of paragraph 11:1 above are subject to the qualifications that -
+- 11:2 The provisions of paragraph 11:1 above are subject to the qualifications that –
 
-(a) upon  the  declaration  of  an  emergency  in  the  Province,  the President may assume such powers and responsibilities of the Chief  Minister  and  the  Provincial  Administration  in  respect of public order within the Province as he may, by regulation, provide ; and
+(a) upon the declaration of an emergency in the Province, the President may assume such powers and responsibilities of the Chief Minister and the Provincial Administration in respect of public order within the Province as he may, by regulation, provide ; and
 
-(b) where  the  President  is  of  the  opinion  that  the  security  of or  public  order  in  a  Province  is  threatened  by  grave  internal disturbance, he may, without the declaration of an emergency, but in consultation with the Chief Minister of such Province and subject to the provisions of the Public Security Ordinance, by order, deploy in aid of the civil power, any unit of the National Division,  in  the  Province  for  the  purpose  of  restoring  public order :
+(b) where the President is of the opinion that the security of or public order in a Province is threatened by grave internal disturbance, he may, without the declaration of an emergency, but in consultation with the Chief Minister of such Province and subject to the provisions of the Public Security Ordinance, by order, deploy in aid of the civil power, any unit of the National Division, in the Province for the purpose of restoring public order :
 
-> 148 -	 Inserted  by  the  Thirteenth  Amendment  to  the  Constitution  Sec.  7  and  substituted  by  the  SeventeenthAmendment to the Constitution Sec. 23(4) for 'The President may, where he considers it necessaryprovide for alternate training for members of any Provincial Division'.
+> 148 - Inserted by the Thirteenth Amendment to the Constitution Sec. 7 and substituted by the Seventeenth Amendment to the Constitution Sec. 23(4) for “The President may, where he considers it necessary provide for alternate training for members of any Provincial Division”.
 
 [[END OF PAGE 221]]
 
@@ -6032,13 +6592,13 @@ The  National  Division  of  the  Sri  Lanka  Police  Force  shall  be responsib
 
 - 12:3	 Where a State of Emergency is declared in the Province, the I.G.P. may deploy such units of the National Division as he deems necessary in any Province for the restoration and maintenance of public order within such Province.
 
-- 12:4	 Any offence which may ordinarily be investigated by a Provincial Division may be investigated by the C.I.D. or any other unit of the National Division -
+- 12:4 Any offence which may ordinarily be investigated by a Provincial Division may be investigated by the C.I.D. or any other unit of the National Division –
 
-(a) where  the  Chief  Minister  requests,  that  such  investigation be undertaken by the C.I.D. or any other unit of the National Division ; and
+(a) where the Chief Minister requests, that such investigation be undertaken by the C.I.D. or any other unit of the National Division ; and
 
-(b) where  the  I.G.P.  is  of  opinion  that  an  investigation  of  such offence by the C.I.D. or any other unit of the National Division is necessary, in the public interest and directs, after consultation with  the  Chief  Minister  and  the  approval  of  the  AttorneyGeneral, that such offence be investigated by the C.I.D. or any other unit of the National Division.
+(b) where the I.G.P. is of opinion that an investigation of such offence by the C.I.D. or any other unit of the National Division is necessary, in the public interest and directs, after consultation with the Chief Minister and the approval of the Attorney-General, that such offence be investigated by the C.I.D. or any other unit of the National Division.
 
-- The National Division shall perform all the functions vested in a Provincial Division, in any Province, for a period of one year or until a Provincial Division is established in such Province, whichever is earlier.
+13. The National Division shall perform all the functions vested in a Provincial Division, in any Province, for a period of one year or until a Provincial Division is established in such Province, whichever is earlier.
 
 [[END OF PAGE 222]]
 
@@ -6056,27 +6616,27 @@ Every recruit to the Sri Lanka Police Force shall have proficiency in his mother
 
 ###### List of Offences to be investigated by the National Police
 
-- Offences against the State.
+1. Offences against the State.
 
-- Offences relating to the Navy, Army and Air Force.
+2. Offences relating to the Navy, Army and Air Force.
 
-- Offences relating to the Elections.
+3. Offences relating to the Elections.
 
-- Offences relating to Coins, Currency and Government Stamps.
+4. Offences relating to Coins, Currency and Government Stamps.
 
-- Any Offence committed against the President.
+5. Any Offence committed against the President.
 
-- Any Offence committed against a Public Officer, a Judicial Officer, or the Speaker, or the Prime Minister or a Minister, or a Member of the Judicial Service Commission, or a Member of the Public Service Commission or a Deputy Minister or a Member of Parliament or the Secretary General of Parliament or a Member of the President's Staff or a Member of the Staff of the Secretary General of Parliament.
+6. Any Offence committed against a Public Officer, a Judicial Officer, or the Speaker, or the Prime Minister or a Minister, or a Member of the Judicial Service Commission, or a Member of the Public Service Commission or a Deputy Minister or a Member of Parliament or the Secretary General of Parliament or a Member of the President’s Staff or a Member of the Staff of the Secretary General of Parliament.
 
-- Any  Offence  relating  to  property  belonging  to  the  State  or  a  State Corporation or Company or Establishment, the whole or part of the capital whereof has been provided by the State.
+7. Any Offence relating to property belonging to the State or a State Corporation or Company or Establishment, the whole or part of the capital whereof has been provided by the State.
 
-- Any  Offence  prejudicial  to  National  Security  or  the  maintenance  of Essential Services.
+8. Any Offence prejudicial to National Security or the maintenance of Essential Services.
 
-- Any Offence under any law relating to any matter in the Reserve List other than such offences as the President may, by order published in the Gazette, exclude.
+9. Any Offence under any law relating to any matter in the Reserve List other than such offences as the President may, by order published in the Gazette, exclude.
 
-- Any Offence in respect of which Courts in more than one Province have jurisdiction.
+10. Any Offence in respect of which Courts in more than one Province have jurisdiction.
 
-- International Crimes.
+11. International Crimes.
 
 [[END OF PAGE 223]]
 
@@ -6164,9 +6724,9 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ##### Education
 
-- Provision of facilities for  all  State  Schools  other  than  specified  schools (Specified Schools will be National Schools, Special Schools for Service Personnel and schools for specified development schemes).
+- 1. Provision of facilities for  all  State  Schools  other  than  specified  schools (Specified Schools will be National Schools, Special Schools for Service Personnel and schools for specified development schemes).
 
-- Supervision of the management of -
+- 2. Supervision of the management of -
 
 (a) all pre-schools ; and
 
@@ -6174,19 +6734,19 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 (In order to ensure standards the Ministry of Education will retain the right to inspect and supervise the management of schools).
 
-- The  transfer  and  disciplinary  control  of  all  educational  personnel,  i. e.  Teachers,  Principals  and  Education  Officers,  Officers  belonging  to a  National  Service  but  serving  the  Provincial Authority  on  secondment will have the right of appeal to the Public Service Commission. Officers belonging to the Provincial Public Service will have a right to appeal to the Public Service Commission against dismissal.
+- 3. The  transfer  and  disciplinary  control  of  all  educational  personnel,  i. e.  Teachers,  Principals  and  Education  Officers,  Officers  belonging  to a  National  Service  but  serving  the  Provincial Authority  on  secondment will have the right of appeal to the Public Service Commission. Officers belonging to the Provincial Public Service will have a right to appeal to the Public Service Commission against dismissal.
 
-- Recruitment into the Teaching Service of those with diplomas and degrees, from  Colleges  of  Education  and  Universities,  recognised  as  teaching qualifications.
+- 4. Recruitment into the Teaching Service of those with diplomas and degrees, from  Colleges  of  Education  and  Universities,  recognised  as  teaching qualifications.
 
-- Until adequate numbers of these categories are available recruitment into the Teaching Service will be on the results of recruitment examinations conducted  by  the  Public  Service  Commission.  On  the  results  of  these examinations interviews and selection will be conducted together with the Provincial Authorities.
+- 5. Until adequate numbers of these categories are available recruitment into the Teaching Service will be on the results of recruitment examinations conducted  by  the  Public  Service  Commission.  On  the  results  of  these examinations interviews and selection will be conducted together with the Provincial Authorities.
 
-- Appointment  of  Principals  of  all  schools  other  than  those  in  1A,  B,  C categories. (Criteria will be laid down by the Minister of Education).
+- 6. Appointment  of  Principals  of  all  schools  other  than  those  in  1A,  B,  C categories. (Criteria will be laid down by the Minister of Education).
 
-- Appointment of Principals of 1A, B, C schools will be by the Secretary to the Ministry of the Minister in charge of the subject of Education of the Public Service Commission.
+- 7. Appointment of Principals of 1A, B, C schools will be by the Secretary to the Ministry of the Minister in charge of the subject of Education of the Public Service Commission.
 
-- Training of teachers and other educational personnel will come within the purview of the National Institute of Education. Provincial Authorities will indicate their needs to the National Institute of Education.
+- 8. Training of teachers and other educational personnel will come within the purview of the National Institute of Education. Provincial Authorities will indicate their needs to the National Institute of Education.
 
-- Appointment  of  Provincial  Boards  of  Education  which  will  have  the advisory functions, will be the responsibility of the Minister of Education. However, this will be done with the concurrence of the Chief Minister of the Provincial Authority.
+- 9. Appointment  of  Provincial  Boards  of  Education  which  will  have  the advisory functions, will be the responsibility of the Minister of Education. However, this will be done with the concurrence of the Chief Minister of the Provincial Authority.
 
 [[END OF PAGE 227]]
 
@@ -6196,35 +6756,35 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
-- Provincial  Authorities  will  establish  School  Boards  conforming  to  the specifications laid down by the Ministry of Education.
+- 10. Provincial  Authorities  will  establish  School  Boards  conforming  to  the specifications laid down by the Ministry of Education.
 
-- Provincial Authorities will supervise the working of School Boards.
+- 11. Provincial Authorities will supervise the working of School Boards.
 
-- Preparation of plans (educational development plan and annual implementation plan) will be the responsibility of the Provincial Authority.
+- 12. Preparation of plans (educational development plan and annual implementation plan) will be the responsibility of the Provincial Authority.
 
-- Implementation of the Annual Education Development Plan.
+- 13. Implementation of the Annual Education Development Plan.
 
-- Appraisal  of  the  performance  of  Principals,  Teachers  and  Education Officers.
+- 14. Appraisal  of  the  performance  of  Principals,  Teachers  and  Education Officers.
 
-- Conducting of in-service training programmes for which prior approval of the National Institute of Education has been obtained.
+- 15. Conducting of in-service training programmes for which prior approval of the National Institute of Education has been obtained.
 
-- Conducting of local examinations approved by the Commissioner-General of Examinations.
+- 16. Conducting of local examinations approved by the Commissioner-General of Examinations.
 
-- Implementation of non-formal education programmes.
+- 17. Implementation of non-formal education programmes.
 
-- Registration and supervision of pre-schools.
+- 18. Registration and supervision of pre-schools.
 
-- Obtaining  the  approval  of  the  National  Institute  of  Education  for  local variations in the primary curriculum and selected subjects in the secondary curriculum.
+- 19. Obtaining  the  approval  of  the  National  Institute  of  Education  for  local variations in the primary curriculum and selected subjects in the secondary curriculum.
 
-- Construction  and  maintenance  of  educational  buildings,  libraries  and playgrounds.
+- 20. Construction  and  maintenance  of  educational  buildings,  libraries  and playgrounds.
 
-- Procuring and distribution of teaching aids,visual aids and audio visual materials, furniture and other equipment.
+- 21. Procuring and distribution of teaching aids,visual aids and audio visual materials, furniture and other equipment.
 
-- Procuring and distribution of science equipment other than certain specified items indicated by the Ministry.
+- 22. Procuring and distribution of science equipment other than certain specified items indicated by the Ministry.
 
-- Production  and  distribution  of  school  textbooks  after  approval  by  the Ministry.
+- 23. Production  and  distribution  of  school  textbooks  after  approval  by  the Ministry.
 
-- Organization  and  development  of  school  libraries  in  accordance  with guidelines given by the National Library Services Board.
+- 24. Organization  and  development  of  school  libraries  in  accordance  with guidelines given by the National Library Services Board.
 
 (Above based on the recommendations of Committee I of the Political Parties Conference)
 
@@ -6540,6 +7100,10 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 The Constitution of the Democratic Socialist Republic of Sri Lanka
 
+### LIST  III
+
+#### (Concurrent List)
+
 ##### 1. Planning -
 
 - 1:1 	 Formulation and appraisal of plan implementation strategies at the provincial level ;
@@ -6560,29 +7124,25 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 - 1:9 	 Nutritional planning and programmes.
 
-##### and 3. Education and Educational Services.-
+##### 2. and 3. Education and Educational Services.-
 Education, except to the extent specified in items 3 and 4 of List 1.
 
-##### Higher Education -
+##### 4. Higher Education -
 
 - 4:1 The establishment and maintenance of new Universities.
 
 - 4:2 	 The establishment of degree awarding institutions under the Universities (Amendment) Act, No. 07 of 1985 and other institutions for tertiary, technical and post-school education and training.
 
-##### National Housing and Construction.-
+##### 5. National Housing and Construction.-
 The promotion of integrated planning and implementation of economic, social and physical development of urban development areas.
 
-##### Acquisition and requisitioning of Property.
+##### 6. Acquisition and requisitioning of Property.
 
 ##### 7 Social Services and Rehabilitation -
 
 - 7:1 Relief, rehabilitation and resettlement of displaced persons ;
 
 - 7:2 Relief  of  distress  due  to  floods,  droughts,  epidemics  or  other exceptional  causes  and  rehabilitation  and  resettlement  of  those affected ;
-
-### LIST  III
-
-#### (Concurrent List)
 
 [[END OF PAGE 236]]
 
@@ -6612,29 +7172,29 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 - 9:4 	 Constitution of Provincial Medical Boards.
 
-##### Registration of births, marriages and deaths.
+##### 10. Registration of births, marriages and deaths.
 
-##### Renaming of Towns and Villages.
+##### 11. Renaming of Towns and Villages.
 
-##### Private lotteries within the Province.
+##### 12. Private lotteries within the Province.
 
-##### Festivals and Exhibitions.
+##### 13. Festivals and Exhibitions.
 
-##### Rationing of food and maintenance of food stocks.
+##### 14. Rationing of food and maintenance of food stocks.
 
-##### Co-operatives - Co-operative Banks.
+##### 15. Co-operatives - Co-operative Banks.
 
-##### Surveys - For the purpose of any of the matter enumerated in the Provincial or Concurrent List.
+##### 16. Surveys - For the purpose of any of the matter enumerated in the Provincial or Concurrent List.
 
-##### Irrigation -
+##### 17. Irrigation -
 
 - 17:1	 Water  storage  and  management,  drainage  and  embankments,  flood protection, planning of water  resources ;
 
 - 17:2	 Services  provided  for  inter-provincial  land  and  irrigation  schemes, such  as  those  relating  to  rural  development,  health,  education, vocational training, co-operatives and other facilities.
 
-##### Social Forestry and protection of wild animals and birds.
+##### 18. Social Forestry and protection of wild animals and birds.
 
-##### Fisheries - Other than fishing beyond territorial waters.
+##### 19. Fisheries - Other than fishing beyond territorial waters.
 
 [[END OF PAGE 237]]
 
@@ -6664,32 +7224,32 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 - 21:4 	Technical  Manpower  Development  Programmes  in  relation  to  the Province.
 
-##### Tourism.-
+##### 22. Tourism.-
 Development and control of the Tourist Industry in the Province.
 
-##### Trade and commerce in, and the production, supply and distribution of -
+##### 23. Trade and commerce in, and the production, supply and distribution of -
 
 (a) the products of any industry where the control of such industry by the Government is declared by Parliament by law to be expedient in the public interest and imported goods of the same kind as such products; and
 
 (b) foodstuffs and cattle fodder.
 
-##### Newspapers, books and periodicals and printing presses.
+##### 24. Newspapers, books and periodicals and printing presses.
 
-##### Offences against statutes with respect to any matters specified in this List.
+##### 25. Offences against statutes with respect to any matters specified in this List.
 
-##### Fees in respect of any of the matters in this List, excluding fees taken in any Court.
+##### 26. Fees in respect of any of the matters in this List, excluding fees taken in any Court.
 
-##### Charities and charitable institutions, charitable and religious endowments and religious institutions.
+##### 27. Charities and charitable institutions, charitable and religious endowments and religious institutions.
 
-##### Price control.
+##### 28. Price control.
 
-##### Inquiries and statistics for the purpose of any of the matters in this List or in the Provincial Council List.
+##### 29. Inquiries and statistics for the purpose of any of the matters in this List or in the Provincial Council List.
 
-##### Adulteration of foodstuffs and other goods.
+##### 30. Adulteration of foodstuffs and other goods.
 
-##### Drugs and Poisons.
+##### 31. Drugs and Poisons.
 
-##### Extension  of  electrification  within  the  Province  and  the  promotion  and regulation of the use of electricity within the Province.
+##### 32. Extension  of  electrification  within  the  Province  and  the  promotion  and regulation of the use of electricity within the Province.
 
 [[END OF PAGE 238]]
 
@@ -6701,11 +7261,11 @@ The Constitution of the Democratic Socialist Republic of Sri Lanka
 
 ##### 33. Protection of the environment.
 
-##### Archaeological sites and remains, other than those declared by or under any law made by Parliament to be of national importance.
+##### 34. Archaeological sites and remains, other than those declared by or under any law made by Parliament to be of national importance.
 
-##### Prevention  of  the  extension  from  one  Province  to  another  of  infectious  or contagious diseases or pests affecting human beings, animals or plants.
+##### 35. Prevention  of  the  extension  from  one  Province  to  another  of  infectious  or contagious diseases or pests affecting human beings, animals or plants.
 
-##### Pilgrimages.
+##### 36. Pilgrimages.
 
 [[END OF PAGE 239]]
 
