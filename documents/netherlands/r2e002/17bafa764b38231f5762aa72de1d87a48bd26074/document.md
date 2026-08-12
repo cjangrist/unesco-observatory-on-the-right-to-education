@@ -7,9 +7,9 @@ Wet van 2 juli 1981, houdende Wet op het basisonderwijs
 
 Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten: Alzo Wij in overweging genomen hebben, dat het ter bevordering van kleuteronderwijs en gewoon lager onderwijs samen te voegen tot een onderwijsvorm die gericht is op
-
-een ononderbroken ontwikkeling van de leerlingen, gewenst is de afzonderlijke onderwijsvormen een doorlopend ontwikkelingsproces van de leerlingen;
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Alzo Wij in overweging genomen hebben, dat het ter bevordering van
+een ononderbroken ontwikkeling van de leerlingen, gewenst is de afzonderlijke onderwijsvormen kleuteronderwijs en gewoon lager onderwijs samen te voegen tot een onderwijsvorm die gericht is op een doorlopend ontwikkelingsproces van de leerlingen;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
@@ -853,11 +853,9 @@ bedoeld in artikel 125b, derde lid.
 
 [[START OF PAGE 22]]
 
-overeenkomstige toepassing. Indien een bevoegd gezag scholen heeft met meer dan een richting bepaalt het bevoegd gezag eenmalig op basis van welke richting de aansluiting bij het
+overeenkomstige toepassing. Indien een bevoegd gezag scholen heeft met meer dan een richting bepaalt het bevoegd gezag eenmalig op basis van welke richting de aansluiting bij het samenwerkingsverband plaatsvindt.
 
-samenwerkingsverband plaatsvindt. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden vastgesteld met
-
-- betrekking tot de samenwerkingsverbanden.
+- Bij algemene maatregel van bestuur kunnen nadere voorschriften worden vastgesteld met betrekking tot de samenwerkingsverbanden.
 
 ###### Artikel 19. Zorgplan
 
@@ -1749,11 +1747,11 @@ minister voor het verkrijgen van de goedkeuring, bedoeld in artikel 64a, eerste 
 
 - De toelating tot een openbare school geschiedt in overeenstemming met de vastgestelde schoolwijken, tenzij de ouders van een leerling schriftelijk aan het bevoegd gezag te kennen geven toelating tot een school in een andere schoolwijk te wensen.
 
-###### Artikel 66. Overlegorgaan b.o. - s.o.
+###### Artikel 66. Overlegorgaan b.o. – s.o.
 
 Vertegenwoordigers van het basisonderwijs en het speciaal onderwijs kunnen ten behoeve van de scholen en instellingen die zij vertegenwoordigen een overlegorgaan oprichten met het doel de samenwerking tussen die scholen en instellingen te bevorderen ten aanzien van de toelating van leerlingen en de inrichting van het onderwijs.
 
-###### Artikel 67. Overlegorgaan b.o. - aansluitend v.o.
+###### Artikel 67. Overlegorgaan b.o. – aansluitend v.o.
 
 Met betrekking tot het basisonderwijs en het aansluitend voortgezet onderwijs is artikel 66 van overeenkomstige toepassing.
 
@@ -1971,11 +1969,11 @@ Bij de berekening van het aantal leerlingen dat een openbare of een bijzondere s
 
 b.
 
-c.
-
 - 1°. op grond van de bij het verzoek om goedkeuring overgelegde gegevens niet aannemelijk is dat een school overeenkomstig de artikelen 77 en 78 zal worden bezocht door het ingevolge artikel 77 vereiste aantal leerlingen, dan wel
 
 - 2°. indien het in een zodanig geval betreft een openbare school de stichting daarvan niet noodzakelijk is, omdat de in artikel 75, vierde lid, eerste volzin, omschreven situatie zich niet voordoet;
+
+c.
 
 - 1°. wegens een in het plan opgenomen andere school of een in een plan van een andere gemeente opgenomen school, die voor bekostiging in aanmerking zal worden gebracht, niet aannemelijk is dat een school overeenkomstig de artikelen 77 en 78 zal worden bezocht door het ingevolge artikel 77 vereiste aantal leerlingen, dan wel
 
@@ -3088,7 +3086,7 @@ De gemeente bekostigt aan het bevoegd gezag van een niet door de gemeente in sta
 
 ##### § 3. Personeel
 
-###### Artikel 137. Verstrekking bekostiging bedragen voor personeelskosten
+###### Artikel 137. Verstrekking bekostigingsbedragen voor personeelskosten
 
 - Met inachtneming van de artikelen 120 en 121 verstrekt het Rijk jaarlijks aan het bevoegd gezag een bekostigingsbedrag ten behoeve van de personeelskosten.
 
@@ -3346,7 +3344,7 @@ Waar in deze paragraaf sprake is van een aantal leerlingen, is dat het aantal le
 
 ###### Artikel 154. Opheffingsnorm
 
-Voor iedere gemeente wordt, op basis van de leerlingdichtheid in die gemeente, een opheffingsnorm vastgesteld aan de hand van de formule: Opheffingsnorm = 0,6 x (leerlingdichtheid : (0,15 + 0,0027 x leerlingdichtheid)) De uitkomst van de berekening wordt afgerond, waarbij de decimalen worden verwaarloosd indien het eerste cijfer achter de komma kleiner is dan 5 en waarbij de decimalen worden verwaarloosd en het getal verhoogd met 1 indien het eerste cijfer achter de komma gelijk is aan of groter is dan 5. De opheffingsnorm bedraagt minimaal 23 en maximaal 200. De leerlingdichtheid is de uitkomst van het aantal inwoners van 4 tot en met 11 jaar in die gemeente gedeeld door het aantal km 2 grondoppervlakte van die gemeente. Indien het aantal km 2  van de gemeente minder bedraagt dan 10 km 2 , wordt voor de berekening van de leerlingdichtheid uitgegaan van 10 km 2 . De leerlingdichtheid
+Voor iedere gemeente wordt, op basis van de leerlingdichtheid in die gemeente, een opheffingsnorm vastgesteld aan de hand van de formule: Opheffingsnorm = 0,6 x (leerlingdichtheid : (0,15 + 0,0027 x leerlingdichtheid)) De uitkomst van de berekening wordt afgerond, waarbij de decimalen worden verwaarloosd indien het eerste cijfer achter de komma kleiner is dan 5 en waarbij de decimalen worden verwaarloosd en het getal verhoogd met 1 indien het eerste cijfer achter de komma gelijk is aan of groter is dan 5. De opheffingsnorm bedraagt minimaal 23 en maximaal 200. De leerlingdichtheid is de uitkomst van het aantal inwoners van 4 tot en met 11 jaar in die gemeente gedeeld door het aantal km2 grondoppervlakte van die gemeente. Indien het aantal km2 van de gemeente minder bedraagt dan 10 km2, wordt voor de berekening van de leerlingdichtheid uitgegaan van 10 km2. De leerlingdichtheid
 
 bedraagt maximaal 500.
 
@@ -3358,7 +3356,7 @@ bedraagt maximaal 500.
 
 - Burgemeester en wethouders kunnen, indien elk bevoegd gezag dat een of meer scholen in de gemeente in stand houdt schriftelijk heeft verklaard daarmee in te stemmen, besluiten dat het grondgebied van de gemeente in twee bij dat besluit vastgestelde delen wordt gesplitst in verband met aanzienlijke verschillen in bebouwingskarakter en bevolkingsdichtheid tussen die delen. De grenzen van de delen van de gemeente die zijn ontstaan als gevolg van toepassing van de eerste volzin, vallen samen met grenzen van gebieden in die gemeente die zijn opgenomen in de jaarlijkse publikatie van het Centraal Bureau voor de Statistiek «De landelijke wijk- en buurtindeling». Het besluit wordt genomen uiterlijk 2 jaar voor het verstrijken van de periode tot en met 31 juli 1998 of een 5-jaarlijkse periode als bedoeld in artikel 153, tweede lid. Het besluit is gedurende 20 jaar van kracht behoudens het gestelde in het vijfde lid.
 
-- Burgemeester en wethouders brengen Onze minister binnen vier weken na het nemen van het besluit, bedoeld in het eerste lid, op de hoogte van dat besluit, waarbij tevens mededeling wordt gedaan van de begrenzing van de beide gebiedsdelen, de oppervlakte daarvan en het aantal 4tot en met 11-jarigen dat daarbinnen woonachtig is. Na ontvangst van een mededeling als bedoeld in de eerste volzin wordt bij ministeriële regeling voor de beide gebiedsdelen een afzonderlijke opheffingsnorm vastgesteld. De opheffingsnorm voor elk deel wordt vastgesteld op de wijze als aangegeven in artikel 154, met dien verstande dat bij het bepalen van de leerlingdichtheid wordt uitgegaan van het aantal km 2  grondoppervlakte van het desbetreffende deel en dat de vijfde volzin van artikel 154 niet van toepassing is. De ministeriële regeling wordt overeenkomstig artikel 153, tweede lid, bekendgemaakt en is voor de eerste maal van toepassing op het eerstvolgende tijdvak van 5 jaar, volgend op die bekendmaking.
+- Burgemeester en wethouders brengen Onze minister binnen vier weken na het nemen van het besluit, bedoeld in het eerste lid, op de hoogte van dat besluit, waarbij tevens mededeling wordt gedaan van de begrenzing van de beide gebiedsdelen, de oppervlakte daarvan en het aantal 4- tot en met 11-jarigen dat daarbinnen woonachtig is. Na ontvangst van een mededeling als bedoeld in de eerste volzin wordt bij ministeriële regeling voor de beide gebiedsdelen een afzonderlijke opheffingsnorm vastgesteld. De opheffingsnorm voor elk deel wordt vastgesteld op de wijze als aangegeven in artikel 154, met dien verstande dat bij het bepalen van de leerlingdichtheid wordt uitgegaan van het aantal km2 grondoppervlakte van het desbetreffende deel en dat de vijfde volzin van artikel 154 niet van toepassing is. De ministeriële regeling wordt overeenkomstig artikel 153, tweede lid, bekendgemaakt en is voor de eerste maal van toepassing op het eerstvolgende tijdvak van 5 jaar, volgend op die bekendmaking.
 
 - Indien niet elk bevoegd gezag een schriftelijke verklaring als bedoeld in het eerste lid eerste volzin wenst te verstrekken, kunnen burgemeester en wethouders Onze minister verzoeken een besluit tot splitsing als bedoeld in het eerste lid te nemen. Het besluit tot het doen van een zodanig verzoek wordt genomen uiterlijk 2 jaar voor het verstrijken van de periode tot en met 31 juli 1998, of een 5-jaarlijkse periode als bedoeld in artikel 153, tweede lid. Met betrekking tot het verzoek is het tweede lid eerste volzin van overeenkomstige toepassing, met dien verstande dat burgemeester en wethouders eveneens de ontvangen instemmende verklaringen overleggen, alsmede een opgave van de scholen waarvan het bevoegd gezag geen instemmende verklaring wenste te verstrekken. Indien Onze minister tot splitsing van de gemeente besluit, wordt dit besluit genomen uiterlijk 1 jaar voor het verstrijken van de periode tot en met 31 juli 1998, of de 5-jaarlijkse periode waarin het verzoek werd gedaan en zijn op dit besluit de tweede tot en met vierde volzin van het tweede lid van overeenkomstige toepassing.
 
@@ -3648,7 +3646,7 @@ Alle partijen werken mee aan de totstandkoming van de afspraken.
 
 [[START OF PAGE 96]]
 
-omzetten in bindende afspraken over onder andere de te realiseren prestaties en inspanningen, die - alvorens de afspraken tot stand komen - aan alle partijen worden voorgelegd. Indien het overleg over de voorgenomen bindende afspraken niet tot overeenstemming leidt, schrijven burgemeester en wethouders een nieuw overleg uit, waarbij zij initiatieven nemen tot het bereiken van een zo groot mogelijke consensus. Indien ook dit overleg niet tot overeenstemming leidt, vragen burgemeester en wethouders of een van de bevoegde gezagsorganen aan de geschillencommissie, bedoeld in het tweede lid, om een bindend advies. De geschillencommissie brengt binnen 4 weken aan burgemeester en wethouders dan wel aan het bevoegd gezag dat om het advies heeft verzocht, een bindend advies uit. Burgemeester en wethouders maken dit advies bekend aan de bevoegde gezagsorganen van de scholen en de kinderopvang, bedoeld in de Wet kinderopvang in de gemeente.
+omzetten in bindende afspraken over onder andere de te realiseren prestaties en inspanningen, die – alvorens de afspraken tot stand komen – aan alle partijen worden voorgelegd. Indien het overleg over de voorgenomen bindende afspraken niet tot overeenstemming leidt, schrijven burgemeester en wethouders een nieuw overleg uit, waarbij zij initiatieven nemen tot het bereiken van een zo groot mogelijke consensus. Indien ook dit overleg niet tot overeenstemming leidt, vragen burgemeester en wethouders of een van de bevoegde gezagsorganen aan de geschillencommissie, bedoeld in het tweede lid, om een bindend advies. De geschillencommissie brengt binnen 4 weken aan burgemeester en wethouders dan wel aan het bevoegd gezag dat om het advies heeft verzocht, een bindend advies uit. Burgemeester en wethouders maken dit advies bekend aan de bevoegde gezagsorganen van de scholen en de kinderopvang, bedoeld in de Wet kinderopvang in de gemeente.
 
 - Onze minister stelt een geschillencommissie in.
 
@@ -3664,7 +3662,7 @@ Indien niet binnen een redelijke termijn met alle partijen, bedoeld in artikel 1
 
 - Bij algemene maatregel van bestuur worden de criteria vastgesteld op grond waarvan een gemeente in aanmerking komt voor een specifieke uitkering ter tegemoetkoming in de kosten van de uitvoering van de verplichtingen, bedoeld in de artikelen 165, 166 en 167, alsmede de criteria voor de hoogte daarvan. De uitkering wordt per kalenderjaar verstrekt.
 
-- Burgemeester en wethouders verstrekken de middelen die de gemeente als specifieke uitkering uit 's Rijks kas ontvangt voor de verplichtingen bedoeld in het eerste lid aan de rechtspersonen die daarvoor in aanmerking komen.
+- Burgemeester en wethouders verstrekken de middelen die de gemeente als specifieke uitkering uit ’s Rijks kas ontvangt voor de verplichtingen bedoeld in het eerste lid aan de rechtspersonen die daarvoor in aanmerking komen.
 
 - Onze Minister kan de uitkering geheel of gedeeltelijk terugvorderen indien de uitkering niet is besteed in overeenstemming met de bepalingen van deze wet. Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden criteria vastgesteld op basis waarvan de minister tot terugvordering kan overgaan.
 
@@ -3776,7 +3774,7 @@ In deze afdeling wordt verstaan onder:
 
 ###### Artikel 176c. Geschiktheidsonderzoek
 
-- Het geschiktheidsonderzoek wordt op aanvraag van het bevoegd gezag dat voornemens is betrokkene te benoemen of tewerktestellen zonder benoeming, of op aanvraag van betrokkene zelf, uitgevoerd onder verantwoordelijkheid van het bestuur van een instelling die op grond van artikel 176e is erkend. Dat instellingsbestuur betrekt bij het geschiktheidsonderzoek het bevoegd gezag dat voornemens is betrokkene te benoemen of tewerktestellen zonder benoeming, of indien betrokkene de aanvraag zelf indient, een bevoegd gezag dat daartoe in overeenstemming met betrokkene is uitgenodigd.
+- Het geschiktheidsonderzoek wordt op aanvraag van het bevoegd gezag dat voornemens is betrokkene te benoemen of tewerk te stellen zonder benoeming, of op aanvraag van betrokkene zelf, uitgevoerd onder verantwoordelijkheid van het bestuur van een instelling die op grond van artikel 176e is erkend. Dat instellingsbestuur betrekt bij het geschiktheidsonderzoek het bevoegd gezag dat voornemens is betrokkene te benoemen of tewerk te stellen zonder benoeming, of indien betrokkene de aanvraag zelf indient, een bevoegd gezag dat daartoe in overeenstemming met betrokkene is uitgenodigd.
 
 - Het geschiktheidsonderzoek omvat:
 
@@ -4276,7 +4274,7 @@ per 1 augustus 1996 en daaropvolgende jaren 8356 basisscholen.
 
 Op geschillen die in bezwaar, beroep of hoger beroep aanhangig zijn of binnen de bezwaar- dan wel beroepstermijn dan wel verschoonbaar daarbuiten aanhangig worden gemaakt tegen besluiten van de gemeente inzake bouwkundige aanpassingen die zijn genomen voor de inwerkingtreding van artikel I van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) op grond van bepalingen bij of krachtens hoofdstuk I, titel IV, afdeling 3, van deze wet, zoals luidend op de dag voor de inwerkingtreding van artikel I van die wet, blijven de op die datum geldende regelingen van toepassing. De eerste volzin is hangende het bezwaar, beroep of hoger beroep van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid.
 
-###### Artikel 194c. Overgangsbepaling liggende aanvragen en vastgestelde programma's huisvestingsvoorzieningen in verband met de overheveling buitenonderhoud en aanpassingen aan het gebouw (wet van 7 mei 2014, Stb. 175)
+###### Artikel 194c. Overgangsbepaling liggende aanvragen en vastgestelde programma’s huisvestingsvoorzieningen in verband met de overheveling buitenonderhoud en aanpassingen aan het gebouw (wet van 7 mei 2014, Stb. 175)
 
 - Aanvragen als bedoeld in artikel 94 van deze wet, voor zover betreft voorzieningen als bedoeld in
 
@@ -4288,7 +4286,7 @@ artikel 92, eerste lid, onderdeel b, van deze wet zoals luidend op de dag voor d
 
 - Het programma huisvestingsvoorzieningen dat op grond van artikel 95 van deze wet is vastgesteld voor het jaar waarin artikel I van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) in werking treedt, vervalt voor zover het betreft voorzieningen als bedoeld in artikel 92, eerste lid, onderdeel b, van deze wet zoals luidend op de dag voor de inwerkingtreding van artikel I van die wet.
 
-- De programma's huisvestingsvoorzieningen die op grond van artikel 95 van deze wet zijn vastgesteld voor de jaren voorafgaand aan de inwerkingtreding van artikel I van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) worden volledig uitgevoerd.
+- De programma’s huisvestingsvoorzieningen die op grond van artikel 95 van deze wet zijn vastgesteld voor de jaren voorafgaand aan de inwerkingtreding van artikel I van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) worden volledig uitgevoerd.
 
 ## Hoofdstuk V. Slotbepalingen
 
@@ -4300,20 +4298,20 @@ Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle 
 
 Gegeven te Lage Vuursche, 2 juli 1981
 
+Beatrix
+
 De Minister van Onderwijs en Wetenschappen, A. Pais
 
 De Staatssecretaris van Onderwijs en Wetenschappen, A. J. Hermes
+
+Uitgegeven de dertigste juli 1981
+
+De Minister van Justitie, J. de Ruiter
 
 Inhoudsopgave
 
 ## Bijlage behorend bij de Wet op het Basisonderwijs
 
 [Vervallen]
-
-Beatrix
-
-Uitgegeven de dertigste juli 1981
-
-De Minister van Justitie, J. de Ruiter
 
 [[END OF PAGE 113]]
