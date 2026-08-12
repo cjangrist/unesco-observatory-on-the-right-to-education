@@ -1,8 +1,11 @@
 [[START OF PAGE 1]]
+République du Congo
 
 # LOI N° 4-2010 DU 14 JUIN 2010
 
 Portant protection de l'enfant en République du Congo
+
+unicef
 
 [[END OF PAGE 1]]
 
@@ -30,11 +33,59 @@ Portant protection de l'enfant en République du Congo
 
 # SOMMAIRE
 
+Titre I
+Dispositions générales  5
+
+Chapitre I
+Des objectifs de la protection  5
+
+Chapitre II
+Des principes généraux de la protection  9
+
+Titre II
+Des droits et devoirs  13
+
+Chapitre I
+Des droits de l'enfant  13
+
+Chapitre II
+Des devoirs de l'enfant, des parents et de l'Etat  25
+
+Titre III
+De la protection contre la violence, la négligence et l'exploitation  29
+
+Chapitre I
+De la protection contre la violence et la négligence  29
+
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+Chapitre II
+De la protection contre la traite et la maltraitance  35
+
+Chapitre III
+De la protection contre l'exploitation  41
+
+Titre IV
+De la protection des enfants particulièrement vulnérables  47
+
+Titre V
+De la protection des enfants, l'administration et la justice  49
+
+Chapitre I
+De la protection de l'enfant délinquant  49
+
+Chapitre II
+De la protection de l'enfant, victime de crime, délit ou autres infractions  59
+
+Titre VI
+Des atteintes aux droits fondamentaux de l'enfant et des sanctions  63
+
+Titre VII
+Dispositions diverses et finales  79
 
 6
 
@@ -70,11 +121,11 @@ Au sens de la présente loi, un enfant s'entend de tout être humain âgé de mo
 #### Article 2 :
 La présente loi vise la protection de l'enfant à travers la réalisation des objectifs suivants :
 
-- assurer à l'enfant qui est inséré dans son milieu de vie, une protection prenant en compte sa vulnérabilité physique et psychologique ;
+a) assurer à l'enfant qui est inséré dans son milieu de vie, une protection prenant en compte sa vulnérabilité physique et psychologique ;
 
-- mettre sur pied un mécanisme de protection qui garantit à l'enfant une meilleure connaissance et un meilleur respect des droits ;
+b) mettre sur pied un mécanisme de protection qui garantit à l'enfant une meilleure connaissance et un meilleur respect des droits ;
 
-- élever l'enfant dans le sens de l'identité nationale et de la citoyenneté,   de la fidélité et de la loyauté au Congo, ainsi que dans le sentiment d'appartenance à un ensemble de valeurs positives de civilisation au niveau national, sous-régional, régional et mondial ;
+c) élever l'enfant dans le sens de l'identité nationale et de la citoyenneté, de la fidélité et de la loyauté au Congo, ainsi que dans le sentiment d'appartenance à un ensemble de valeurs positives de civilisation au niveau national, sous-régional, régional et mondial ;
 
 9
 
@@ -84,20 +135,20 @@ La présente loi vise la protection de l'enfant à travers la réalisation des o
 
 Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du Congo
 
-- développer en lui le sens de la morale, du respect de ses parents, de son entourage familial, de la société et de la patrie ;
+d) développer en lui le sens de la morale, du respect de ses parents, de son entourage familial, de la société et de la patrie ;
 
-- donner à l'enfant une éducation imprégnée de culture humaniste conformément aux exigences des orientations éducatives scientifiques ;
+e) donner à l'enfant une éducation imprégnée de culture humaniste conformément aux exigences des orientations éducatives scientifiques ;
 
-- préparer l'enfant à une vie participative empreinte de valeurs d'équité, de tolérance, de justice et de paix ;
+f) préparer l'enfant à une vie participative empreinte de valeurs d'équité, de tolérance, de justice et de paix ;
 
-- inscrire les droits de l'enfant, notamment son droit à la protection, dans le contexte des grandes options de la politique nationale, qui font du respect des droits de la personne un élément indispensable au développement du potentiel humain de chaque citoyen, donc un facteur déterminant du développement national ;
+g) inscrire les droits de l'enfant, notamment son droit à la protection, dans le contexte des grandes options de la politique nationale, qui font du respect des droits de la personne un élément indispensable au développement du potentiel humain de chaque citoyen, donc un facteur déterminant du développement national ;
 
-- diffuser la culture des droits de l'enfant, faire connaître ses particularités intrinsèques en vue de garantir l'harmonie et l'équilibre de sa personnalité ;
+h) diffuser la culture des droits de l'enfant, faire connaître ses particularités intrinsèques en vue de garantir l'harmonie et l'équilibre de sa personnalité ;
 
-- faire respecter et consolider les droits de l'enfant en tenant compte de son intérêt supérieur de manière à ce qu'il acquière les vertus de travail, de l'initiative, les valeurs de l'effort personnel, le sens de l'auto-responsabilité et de la responsabilité vis-à-vis du groupe familial et de la société et assurer, par les moyens appropriés, sa participation à tout ce qui le concerne.
+i) faire respecter et consolider les droits de l'enfant en tenant compte de son intérêt supérieur de manière à ce qu'il acquière les vertus de travail, de l'initiative, les valeurs de l'effort personnel, le sens de l'auto-responsabilité et de la responsabilité vis-à-vis du groupe familial et de la société et assurer, par les moyens appropriés, sa participation à tout ce qui le concerne.
 
 #### Article 11 :
-Lorsqu'une infraction prévue dans la présente loi a été commise dans l'exercice de ses fonctions par le préposé d'une institution, à vocation d'encadrement, d'éducation et de rééducation de l'enfant, la juridiction répressive peut décider que le paiement des amendes et des frais de justice sera, en totalité ou en partie, à la charge de la personne morale.
+Lorsqu'une infraction prévue dans la présente loi a été commise dans l'exercice de ses fonctions par le pré-
 
 10
 
@@ -106,6 +157,8 @@ Lorsqu'une infraction prévue dans la présente loi a été commise dans l'exerc
 [[START OF PAGE 11]]
 
 Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du Congo
+
+posé d'une institution, à vocation d'encadrement, d'éducation et de rééducation de l'enfant, la juridiction répressive peut décider que le paiement des amendes et des frais de justice sera, en totalité ou en partie, à la charge de la personne morale.
 
 #### Article 12 :
 Certaines peines encourues peuvent être exemptées d'exécution en considération de l'intérêt supérieur de l'enfant.
@@ -153,7 +206,7 @@ Tout enfant atteint du VIH/SIDA doit jouir, sans discrimination, de tous les dro
 Il a le droit de bénéficier d'une assistance particulière, de soins de base, de traitements et d'une garantie de confidentialité dans ses rapports avec  les services de santé.
 
 #### Article 7 :
-Lorsqu'à l'occasion de toute procédure juridicoadministrative, un doute subsiste quant à l'âge de l'enfant, celui-ci est présumé être un enfant, et bénéficie de la protection prévue par la présente loi.
+Lorsqu'à l'occasion de toute procédure juridico-administrative, un doute subsiste quant à l'âge de l'enfant, celui-ci est présumé être un enfant, et bénéficie de la protection prévue par la présente loi.
 
 #### Article 8 :
 Les règles établies par la présente loi s'appliquent, outre celles du code pénal et du code de procédure pénale, aux matières faisant l'objet de dispositions répressives particulières, relatives à la protection de l'enfant, chaque fois qu'il n'en est pas autrement disposé.
@@ -338,11 +391,11 @@ Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du 
 
 L'enfant a le droit d'être protégé vis-à-vis des tiers contre toute immixtion dans sa vie. Cette disposition n'est pas applicable :
 
-- à celui qui informe les autorités judiciaires, médicales ou administratives de privation ou de sévices, y compris lorsqu'il s'agit d'atteintes sexuelles, dont il a eu connaissance et qui ont été infligées à un enfant ;
+1) à celui qui informe les autorités judiciaires, médicales ou administratives de privation ou de sévices, y compris lorsqu'il s'agit d'atteintes sexuelles, dont il a eu connaissance et qui ont été infligées à un enfant ;
 
-- au médecin qui porte à la connaissance du procureur de  la  République  les  sévices  ou  privations  qu'il  a constatés dans l'exercice de sa profession ;
+2) au médecin qui porte à la connaissance du procureur de la République les sévices ou privations qu'il a constatés dans l'exercice de sa profession ;
 
-- à celui dont l'immixtion est de nature à sauvegarder l'intérêt de l'enfant.
+3) à celui dont l'immixtion est de nature à sauvegarder l'intérêt de l'enfant.
 
 #### Article 25 :
 L'adoption ne peut être autorisée que dans l'intérêt supérieur de  l'enfant.
@@ -734,11 +787,11 @@ Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du 
 #### Article 60 :
 La traite, la vente et toutes les formes d'exploitation de l'enfant sont interdites en République du Congo.
 
-- La  traite  désigne  le  recrutement,  le  transport,  le transfert, l'hébergement ou l'accueil d'un enfant aux fins d'exploitation quel que soit le moyen utilisé, que ce soit par la menace de recours à la force ou à d'autres formes de contrainte, par enlèvement, fraude, tromperie, abus d'autorité ou d'une situation de vulnérabilité, ou par l'offre ou l'acceptation de paiement ou d'avantages pour obtenir le consentement d'une personne ayant autorité sur l'enfant ou en l'absence de ces moyens et qui entraîne le déplacement de l'enfant à l'intérieur ou à l'extérieur du pays par l'une au moins des personnes en présence et quelle que soit la finalité du déplacement de l'enfant.
+1) La traite désigne le recrutement, le transport, le transfert, l'hébergement ou l'accueil d'un enfant aux fins d'exploitation quel que soit le moyen utilisé, que ce soit par la menace de recours à la force ou à d'autres formes de contrainte, par enlèvement, fraude, tromperie, abus d'autorité ou d'une situation de vulnérabilité, ou par l'offre ou l'acceptation de paiement ou d'avantages pour obtenir le consentement d'une personne ayant autorité sur l'enfant ou en l'absence de ces moyens et qui entraîne le déplacement de l'enfant à l'intérieur ou à l'extérieur du pays par l'une au moins des personnes en présence et quelle que soit la finalité du déplacement de l'enfant.
 
-- L'exploitation comprend, au minimum, l'exploitation en vue de la prostitution d'autrui ou d'autres formes d'exploitation sexuelle, du travail ou des services forcés, de l'esclavage ou des pratiques analogues à l'esclavage ou le prélèvement d'organes.
+2) L'exploitation comprend, au minimum, l'exploitation en vue de la prostitution d'autrui ou d'autres formes d'exploitation sexuelle, du travail ou des services forcés, de l'esclavage ou des pratiques analogues à l'esclavage ou le prélèvement d'organes.
 
-Le consentement de l'enfant à l'exploitation envisagée, telle qu'énoncée au présent article, est indifférent quel que soit le  moyen utilisé ou en l'absence de recours à un quelconque des moyens visés.
+Le consentement de l'enfant à l'exploitation envisagée, telle qu'énoncée au présent article, est indifférent quel que soit
 
 39
 
@@ -748,7 +801,9 @@ Le consentement de l'enfant à l'exploitation envisagée, telle qu'énoncée au 
 
 Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du Congo
 
-- On entend par vente d'enfants, tout acte ou toute transaction faisant intervenir le transfert d'un enfant, de toute personne ou de tout groupe  de personnes à une autre personne ou à un autre groupe contre rémunération ou tout autre avantage.
+le moyen utilisé ou en l'absence de recours à un quelconque des moyens visés.
+
+3) On entend par vente d'enfants, tout acte ou toute transaction faisant intervenir le transfert d'un enfant, de toute personne ou de tout groupe de personnes à une autre personne ou à un autre groupe contre rémunération ou tout autre avantage.
 
 #### Article 61 :
 Un arrêté pris par le ministre des affaires sociales mettra en place des  systèmes d'alerte rapide, ainsi qu'un observatoire de l'enfance en danger afin d'exercer à l'échelon national, les missions d'observation, d'analyse et de prévention de mauvais traitement et de protection  des enfants maltraités.
@@ -780,9 +835,9 @@ Il est interdit de mettre en état de grossesse un enfant.
 #### Article 64 :
 L'enfant ne doit pas être soumis à la torture. Il ne peut être passible des peines ou des traitements cruels, inhumains ou dégradants.
 
-Le terme 'torture' désigne tout acte par lequel une douleur ou des souffrances aiguës, physiques ou mentales sont intentionnellement infligées à une personne aux fins notamment  d'obtenir  d'elle  ou  d'une  tierce  personne  des renseignements ou des aveux, de la punir d'un acte qu'elle ou  une  tierce  personne  a  commis  ou  est  soupçonnée d'avoir commis, de l'intimider ou de faire pression sur elle ou d'intimider ou de faire pression sur une tierce personne, ou pour tout autre motif fondé sur une forme de discrimination quelle qu'elle  soit, lorsqu'une telle douleur ou de telles souffrances sont infligées par un agent de la force publique ou toute autre personne agissant à titre officiel ou à son instigation ou avec son consentement exprès ou tacite.
+Le terme "torture" désigne tout acte par lequel une douleur ou des souffrances aiguës, physiques ou mentales sont intentionnellement infligées à une personne aux fins notamment d'obtenir d'elle ou d'une tierce personne des renseignements ou des aveux, de la punir d'un acte qu'elle ou une tierce personne a commis ou est soupçonnée d'avoir commis, de l'intimider ou de faire pression sur elle ou d'intimider ou de faire pression sur une tierce personne, ou pour tout autre motif fondé sur une forme de discrimination quelle qu'elle soit, lorsqu'une telle douleur ou de telles souffrances sont infligées par un agent de la force publique ou toute autre personne agissant à titre officiel ou à son instigation ou avec son consentement exprès ou tacite.
 
-Les traitements cruels, inhumains et dégradants peuvent être définis comme tout acte visant la soumission de l'enfant à des actes de brutalité, de privation ou de séquestration susceptibles de porter atteinte à sa santé physique ou mentale ou à son équilibre affectif, psychologique ou physique.
+Les traitements cruels, inhumains et dégradants peuvent être définis comme tout acte visant la soumission de l'en-
 
 41
 
@@ -791,6 +846,8 @@ Les traitements cruels, inhumains et dégradants peuvent être définis comme to
 [[START OF PAGE 42]]
 
 Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du Congo
+
+fant à des actes de brutalité, de privation ou de séquestration susceptibles de porter atteinte à sa santé physique ou mentale ou à son équilibre affectif, psychologique ou physique.
 
 Il ne peut être exécuté ou emprisonné à vie.
 
@@ -902,7 +959,7 @@ On entend par emploi précoce, le fait d'impliquer les enfants de moins de seize
 
 Les pires formes de travail de l'enfant comprennent :
 
-- toutes  les  formes  d'esclavage  ou  pratiques  analogues, telles que la vente et la traite des enfants, la servitude pour dettes et le servage ainsi que le travail forcé ou obligatoire, y compris le recrutement forcé
+a) toutes les formes d'esclavage ou pratiques analogues, telles que la vente et la traite des enfants, la servitude pour dettes et le servage ainsi que le travail forcé ou obligatoire, y compris le recrutement forcé
 
 47
 
@@ -914,9 +971,9 @@ Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du 
 
 ou obligatoire des enfants en vue de leur utilisation dans des conflits armés ;
 
-- l'utilisation, le recrutement ou l'offre d'un enfant à des fins de prostitution, de production de matériel pornographique ou de spectacles pornographiques ;
+b) l'utilisation, le recrutement ou l'offre d'un enfant à des fins de prostitution, de production de matériel pornographique ou de spectacles pornographiques ;
 
-- l'utilisation, le recrutement ou l'offre d'un enfant aux fins des activités illicites, notamment pour la production et le trafic de stupéfiants, tels que les définissent les conventions internationales pertinentes ;
+c) l'utilisation, le recrutement ou l'offre d'un enfant aux fins des activités illicites, notamment pour la production et le trafic de stupéfiants, tels que les définissent les conventions internationales pertinentes ;
 
 d) les travaux qui, par leur nature ou les conditions dans lesquelles ils s'exercent, sont  susceptibles  de  nuire à la santé,  à  la sécurité  ou à la moralité de l'enfant.
 
@@ -992,7 +1049,7 @@ Sous réserve des dispositions contraires prévues par le code de procédure  p�
 
 Les  contacts entre  les services de répression et le jeune délinquant sont établis de manière à respecter les droits de l'enfant reconnus par la présente loi.
 
-Lorsqu'un enfant suspect est arrêté, l'officier de police judicaire doit immédiatement en informer le procureur de la République. Celui-ci peut ordonner soit son placement en garde à vue sous condition que l'enfant ait atteint quinze  ans, soit sa libération avec ou sans caution selon les  circonstances.  L'interrogatoire  de  l'enfant  ne  peut avoir lieu qu'en présence d'une assistance sociale.
+Lorsqu'un enfant suspect est arrêté, l'officier de police judiciaire doit immédiatement en informer le procureur de
 
 53
 
@@ -1001,6 +1058,8 @@ Lorsqu'un enfant suspect est arrêté, l'officier de police judicaire doit immé
 [[START OF PAGE 54]]
 
 Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du Congo
+
+la République. Celui-ci peut ordonner soit son placement en garde à vue sous condition que l'enfant ait atteint quinze ans, soit sa libération avec ou sans caution selon les circonstances. L'interrogatoire de l'enfant ne peut avoir lieu qu'en présence d'une assistance sociale.
 
 L'officier de police judiciaire est tenu de travailler étroitement avec l'assistance sociale au niveau de l'interrogatoire et de l'enquête préliminaire. Si l'enfant est placé en garde à vue, l'officier de police judiciaire doit aussitôt informer les parents,  le  tuteur,  la  personne  ou  le  service  auquel  est confié l'enfant de la mesure dont ce dernier fait l'objet.
 
@@ -1047,7 +1106,7 @@ On s'attachera, dans toute la mesure possible, à traiter le cas des délinquant
 
 La police, le parquet ou les autres services chargés de la délinquance juvénile ont le pouvoir de régler ces cas à leur discrétion, sans appliquer la procédure pénale officielle, conformément aux critères fixés à cet effet, dans le  système  juridique  congolais  et  aussi  aux  principes contenus  dans  les  règles  minima  des  Nations  Unies concernant l'administration de la justice pour mineurs.
 
-Tout  recours  a  des  moyens  extrajudiciaires  exige  le consentement de l'intéressé ou de ses parents ou de son tuteur étant entendu que cette décision de renvoyer l'af-
+Tout recours à des moyens extrajudiciaires exige le consentement de l'intéressé ou de ses parents ou de son tuteur étant entendu que cette décision de renvoyer l'af-
 
 56
 
@@ -1071,7 +1130,7 @@ Il doit être séparé des adultes et détenus dans des établissements distinct
 Pendant son placement provisoire, l'enfant doit recevoir les soins, la protection et toute l'assistance individuelle sur les plans social, éducatif, professionnel, psychologique, médical et physique qui peuvent lui être nécessaires eu égard à son âge, à son sexe et à sa personnalité.
 
 #### Article 77 :
-Si le cas de l'enfant délinquant n'a pas fait l'objet d'une procédure extrajudiciaire prévue à l'article 75 de la présente loi, il est examiné par  les juridictions compétentes prévues par les dispositions du code de procédure pénale traitant de l'enfance délinquante.
+Si le cas de l'enfant délinquant n'a pas fait l'objet d'une procédure extrajudiciaire prévue à l'article 75 de la
 
 57
 
@@ -1080,6 +1139,8 @@ Si le cas de l'enfant délinquant n'a pas fait l'objet d'une procédure extrajud
 [[START OF PAGE 58]]
 
 Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du Congo
+
+présente loi, il est examiné par les juridictions compétentes prévues par les dispositions du code de procédure pénale traitant de l'enfance délinquante.
 
 #### Article 78 :
 Tout au long de la procédure, l'enfant a le droit d'être représenté par son conseil. Le juge peut lui en désigner un d'office.
@@ -1091,9 +1152,9 @@ Celle-ci peut toutefois leur refuser cette participation si elle a des raisons d
 #### Article 79 :
 La décision du tribunal ou de toute autorité chargée de la délinquance juvénile doit s'inspirer des principes suivants :
 
-- la décision doit toujours être proportionnée non seulement aux circonstances et à la gravité du délit, mais aussi aux circonstances et aux besoins du délinquant ainsi qu'aux besoins de la société ;
+a) la décision doit toujours être proportionnée non seulement aux circonstances et à la gravité du délit, mais aussi aux circonstances et aux besoins du délinquant ainsi qu'aux besoins de la société ;
 
-- la privation de la liberté individuelle n'est infligée à l'enfant coupable d'une infraction que s'il n'y a pas d'autres solutions qui conviennent ;
+b) la privation de la liberté individuelle n'est infligée à l'enfant coupable d'une infraction que s'il n'y a pas d'autres solutions qui conviennent ;
 
 58
 
@@ -1103,11 +1164,11 @@ La décision du tribunal ou de toute autorité chargée de la délinquance juvé
 
 Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du Congo
 
-- la peine capitale n'est pas applicable aux infractions commises par l'enfant ;
+c) la peine capitale n'est pas applicable aux infractions commises par l'enfant ;
 
-- le bien-être de l'enfant doit être le critère déterminant dans l'examen de son cas ;
+d) le bien-être de l'enfant doit être le critère déterminant dans l'examen de son cas ;
 
-- l'autorité compétente a le pouvoir d'interrompre la procédure à tout moment.
+e) l'autorité compétente a le pouvoir d'interrompre la procédure à tout moment.
 
 #### Article 80 :
 L'autorité compétente peut  assurer  l'exécution du  jugement sous   des formes très diverses, en laissant une grande souplesse pour éviter autant que possible le placement dans une institution.
@@ -1300,7 +1361,7 @@ Les mêmes peines seront appliquées à celui qui :
 
 - aura  sciemment fait usage  dudit acte  de  naissance contrefait,  falsifié ou  altéré ;
 
-- aura   fait   usage   dudit  acte   de   naissance  en  sachant que les intentions relatives à l'identité de l'enfant qui y sont portées sont  devenues incomplètes ou inexactes.
+- aura fait usage dudit acte de naissance en sachant que les indications relatives à l'identité de l'enfant qui y sont portées sont devenues incomplètes ou inexactes.
 
 #### Article 97 :
 Quiconque aura soit fait des fausses déclarations, soit fait prendre un faux nom à l'enfant, soit fourni de faux renseignements, certificats ou attestations en vue de la délivrance de l'acte de naissance d'un enfant, sera puni d'un an à deux ans  d'emprisonnement  et  d'une  amende  de  24.000  à 2.400.000 de francs CFA.
@@ -1611,27 +1672,28 @@ La présente loi, qui abroge toutes dispositions antérieures contraires, sera p
 
 Loi n° 4-2010 du 14 juin 2010 portant protection de l'enfant en République du Congo
 
-Le ministre de la santé et de la population,
-
-Georges MOYEN
-
-Le ministre d'Etat,
-
-coordonnateur du pôle de  la  souveraineté,
-
-garde  des  sceaux,
-
-ministre  de  la justice  et des droits humains,
-
-Aimé Emmanuel YOKA
+Fait à Brazzaville, le 14 Juin 2010
 
 Denis SASSOU-N'GUESSO
 
 Par le Président de la République
 
-Fait à Brazzaville, le 14 Juin 2010
+Le ministre d'Etat,
 
-La ministre des affaires sociales, de l'action humanitaire et de la solidarité,
+coordonnateur du pôle de la souveraineté,
+
+garde des sceaux,
+
+ministre de la justice et des droits humains,
+
+Aimé Emmanuel YOKA
+
+Le ministre de la santé et de la population,
+
+Georges MOYEN
+
+La ministre des affaires sociales, de l'action
+humanitaire et de la solidarité,
 
 Emilienne RAOUL
 
@@ -1665,11 +1727,19 @@ Emilienne RAOUL
 
 [[START OF PAGE 88]]
 
+République du Congo
+
+unicef
+
 Fonds des Nations Unies pour l'Enfance
 
 Contact :
 
-D-34, Rue Lucien Fourneau Boîte postale 2110 - Brazzaville République du Congo Tél. : (242) 281 50 24 / 652 52 22 - Fax : (242) 281 42 40 E-mail : brazzaville@unicef.org
+D-34, Rue Lucien Fourneau
+Boîte postale 2110 - Brazzaville
+République du Congo
+Tél. : (242) 281 50 24 / 652 52 22 - Fax : (242) 281 42 40
+E-mail : brazzaville@unicef.org
 
 www.unicef.org/congo/french
 
