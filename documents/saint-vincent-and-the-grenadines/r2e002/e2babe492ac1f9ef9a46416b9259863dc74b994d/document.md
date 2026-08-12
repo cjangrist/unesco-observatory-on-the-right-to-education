@@ -1,39 +1,5 @@
 [[START OF PAGE 1]]
 
-SECTION
-
-- Short title and commencement
-
-- Interpretation
-
-## PART II
-### ADMINISTRATION OF THE EDUCATION SYSTEM
-
-#### Division 1
-##### The Minister
-
-#### Division 2
-
-##### The Chief Education Officer
-
-- Chief Education Officer and duties
-
-- Delegation of Authority by Minister
-
-#### Division 3
-
-##### The Education Advisory Board
-
-- Establishment of Education Advisory Board
-
-- Functions of the Advisory Board
-
-- Public hearings
-
-- Minister not bound by advice of  Advisory Board
-
-- Special committees
-
 # SAINT VINCENT AND THE GRENADINES
 
 # EDUCATION BILL 2005
@@ -42,13 +8,47 @@ SECTION
 
 ### PRELIMINARY
 
-- Goals and objectives
+SECTION
 
-- Responsibilities
+1. Short title and commencement
 
-- Powers
+2. Interpretation
 
-- Annual Report
+## PART II
+### ADMINISTRATION OF THE EDUCATION SYSTEM
+
+#### Division 1
+##### The Minister
+
+3. Goals and objectives
+
+4. Responsibilities
+
+5. Powers
+
+6. Annual Report
+
+#### Division 2
+
+##### The Chief Education Officer
+
+7. Chief Education Officer and duties
+
+8. Delegation of Authority by Minister
+
+#### Division 3
+
+##### The Education Advisory Board
+
+9. Establishment of Education Advisory Board
+
+10. Functions of the Advisory Board
+
+11. Public hearings
+
+12. Minister not bound by advice of Advisory Board
+
+13. Special committees
 
 ## PART III
 
@@ -60,67 +60,67 @@ SECTION
 
 2
 
-- No discrimination
-
-- Age limit for pre-primary and primary schools
-
-- Principles for admission
-
-- Age limit for secondary schools
-
-- Student Register
-
-- Transfer of students
-
-- Effect of disease
-
-- Readmission of student on production of medical certificate
-
-- Temporary or permanent closing of educational institution
-
-- Zoning of schools
-
-- Sessions and periods of instruction in school
-
-- Reckoning of attendance at school
-
 #### Division 1
 
-##### Students' Rights and Responsibilities
+##### Students’ Rights and Responsibilities
 
-- Right to education
+14. Right to education
 
-- Compulsory education
+15. Compulsory education
 
-- Free tuition at schools
+16. Free tuition at schools
 
-- Students' responsibilities
+17. Students’ responsibilities
 
-- Accountability of students
+18. Accountability of students
 
-- Damage to property
+19. Damage to property
 
-- Exercise of rights
+20. Exercise of rights
 
 #### Division 2
 
-##### Parents' Rights and Responsibilities
+##### Parents’ Rights and Responsibilities
 
-- Choice of education
+21. Choice of education
 
-- Rights and responsibilities of parents
+22. Rights and responsibilities of parents
 
-- Student records and reports
+23. Student records and reports
 
-- Parent Teacher Associations
+24. Parent Teacher Associations
 
-- School committees
+25. School committees
 
-- Wishes of parents to be considered
+26. Wishes of parents to be considered
 
 #### Division 3
 
 ##### Admission and Attendance of Students
+
+27. No discrimination
+
+28. Age limit for pre-primary and primary schools
+
+29. Principles for admission
+
+30. Age limit for secondary schools
+
+31. Student Register
+
+32. Transfer of students
+
+33. Effect of disease
+
+34. Readmission of student on production of medical certificate
+
+35. Temporary or permanent closing of educational institution
+
+36. Zoning of schools
+
+37. Sessions and periods of instruction in school
+
+38. Reckoning of attendance at school
 
 [[END OF PAGE 2]]
 
@@ -128,79 +128,203 @@ SECTION
 
 3
 
+39. School vacations
+
+40. Occasional holidays
+
+#### Division 4
+
+##### Compulsory School Attendance
+
+41. Duty of parent to enforce attendance
+
+42. School attendance officers
+
+43. Duties of school attendance officer
+
+44. Power to deliver absent student
+
+45. Power to enter premises and question children
+
+46. Offences against school attendance officers
+
+47. Reports by principals
+
+48. Liability of parents
+
+49. Offences in relation to school age
+
+50. Legal proceedings
+
+#### Division 5
+
+##### Discipline, Suspension and Expulsion of Students
+
+51. Rules to govern discipline
+
+52. Power of punishment
+
+53. Corporal punishment in schools
+
+54. Suspension from school for minor offences
+
+55. Suspension from school for major offences
+
+56. Action by Chief Education Officer on a suspension
+
+## PART IV
+
+### MANAGEMENT OF EDUCATIONAL INSTITUTIONS
+
+#### Division 1
+
+##### Public Schools
+
+57. Establishment of public pre-primary, primary and all-age schools
+
+58. Boards of Management for pre-primary, primary and all-age schools
+
+59. Functions of Board of Management for pre-primary, primary and all-age schools
+
+60. Establishment of public secondary schools
+
+61. Boards of Management for public secondary schools
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 4
 
-- Functions of Boards of Management for public secondary schools
+62. Functions of Boards of Management for public secondary schools
 
-- Procedure of Boards of Management
+63. Procedure of Boards of Management
 
-- Board of Management for more than one school
+64. Board of Management for more than one school
 
-- Submission of reports, statements and estimates
+65. Submission of reports, statements and estimates
 
-- Written directions to Board
+66. Written directions to Board
 
-- Financial resources of public schools
+67. Financial resources of public schools
 
-- Accounts and audit
+68. Accounts and audit
 
-- General requirements of public schools
+69. General requirements of public schools
 
-- Minutes of Board receivable in evidence
+70. Minutes of Board receivable in evidence
 
-- Student Councils
-
-- Legal obligations of proprietor
-
-- Application of Act
-
-- Requirement of a permit
-
-- Existing private schools
-
-- Private Schools Register
-
-- Application for permit
-
-- Issue of permit
-
-- Refusal of a permit
-
-- Conditions of a permit
-
-- Number of students
-
-- Contents of permit
-
-- Vocational education permits
-
-- Duration and renewal of permits
-
-- Modification and  transfer of permit
-
-- Insurance
-
-- Information to be provided
-
-- Visits to private schools
-
-- Notice to comply
-
-- Cancellation of permit and registration
+71. Student Councils
 
 #### Division 2
 
 ##### Private Schools
+
+72. Legal obligations of proprietor
+
+73. Application of Act
+
+74. Requirement of a permit
+
+75. Existing private schools
+
+76. Private Schools Register
+
+77. Application for permit
+
+78. Issue of permit
+
+79. Refusal of a permit
+
+80. Conditions of a permit
+
+81. Number of students
+
+82. Contents of permit
+
+83. Vocational education permits
+
+84. Duration and renewal of permits
+
+85. Modification and transfer of permit
+
+86. Insurance
+
+87. Information to be provided
+
+88. Visits to private schools
+
+89. Notice to comply
+
+90. Cancellation of permit and registration
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 5
+
+91. Appeal against refusal and cancellation
+
+92. Fresh application for a permit
+
+93. Returns of statistics
+
+94. Health and sanitation
+
+95. Disqualification of teachers
+
+#### Division 3
+
+##### Assisted Private Schools
+
+96. Assisted private schools
+
+97. Agreement establishing an assisted private schools
+
+98. Publication of list of assisted private schools
+
+99. Management of assisted private schools
+
+100. Boards of Management for assisted private schools
+
+101. Appointment of joint Board of Management
+
+102. Functions of Board of Management
+
+## PART V
+
+### TERTIARY EDUCATION
+
+103. Establishment of public tertiary educational institution
+
+104. Management of public tertiary educational institution
+
+105. Technical and vocational education and training
+
+106. Teachers’ colleges
+
+107. Saving for Saint Vincent and the Grenadines Community College
+
+## PART VI
+
+### OTHER TYPES OF EDUCATION
+
+#### Division 1
+
+##### Early Childhood Education
+
+108. Provision of early childhood education services
+
+109. Council on Early Childhood Education
+
+110. Regulations
+
+111. Programmes and policies
+
+#### Division 2
+
+##### Home Education
 
 [[END OF PAGE 5]]
 
@@ -210,17 +334,201 @@ SECTION
 
 112. Home education programmes
 
+#### Division 3
+
+##### Special Education
+
+113. Special education programmes
+
+114. Determination of special educational needs
+
+115. Special needs appeals
+
+116. Council on Special Education
+
+#### Division 4
+
+##### Distance Learning and Continuing Education
+
+117. Distance learning
+
+118. Continuing education
+
+## PART VII
+
+### TEACHERS - GENERAL
+
+#### Division 1
+
+##### Employment of Teachers
+
+119. Employment of teachers
+
+120. Qualifications of teachers
+
+121. Requirements for employment as a public teacher
+
+122. Transfer Register
+
+123. Publication of Teachers Register
+
+124. Eligibility for appointment as teacher
+
+125. Application for registration as teacher
+
+126. Appointment of teachers
+
+127. Transfer of teachers
+
+128. Rights of teachers
+
+129. Performance appraisal
+
+#### Division 2
+
+##### Conduct of Public School Teachers
+
+130. Application of Division
+
+131. General conduct
+
+132. Duties of teachers
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 7
 
+133. Rules of conduct
+
+134. Specific acts of misconduct
+
+135. Reporting of misconduct
+
+136. Complaints against teachers
+
+137. Procedure for terminating the appointment of a teacher
+
+138. Accounting for property
+
+139. Correspondence with the Minister
+
+#### Division 3
+
+##### Duties of Principals
+
+140. General responsibilities of principals
+
+141. Duties of deputy principals
+
+## PART VIII
+
+### TEACHERS’ CONDITIONS OF SERVICE
+
+#### Division 1
+
+##### Application
+
+142. Application of Part
+
+143. Application of other legislation
+
+#### Division 2
+
+##### Leave
+
+144. Teachers’ vacation period
+
+145. Leave of absence
+
+146. Reporting for duty
+
+147. Pre-retirement leave
+
+148. Study leave
+
+149. Sick leave
+
+150. Compassionate leave
+
+151. Maternity leave
+
+#### Division 3
+
+##### Remuneration, Advances and Increments
+
+152. Commencing salary
+
+153. Time of payment of salaries
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 8
+
+154. Acting allowances
+
+155. Advances for medical treatment overseas
+
+156. Advances for other purposes
+
+157. Increments
+
+#### Division 4
+
+##### Payment of Pensions and Gratuities
+
+158. Application of Division
+
+159. Computation and authorisation of pensions and gratuities
+
+## PART IX
+
+### CURRICULUM AND ASSESSMENT OF STUDENTS
+
+160. National curriculum
+
+161. Core and foundation subjects
+
+162. Assessment stages
+
+163. Determination of attainment targets
+
+164. Subject panels
+
+165. Collective worship and religious education
+
+166. Religious education in public schools
+
+## PART IX
+
+### SCHOLARSHIPS AND OTHER FINANCIAL ASSISTANCE
+
+167. Saint Vincent and the Grenadines Island Scholarships
+
+168. Value of scholarships
+
+169. Qualifications for scholarships
+
+170. Award of scholarship
+
+171. Entry at proposed institution
+
+172. Forfeiture of scholarship
+
+173. Scholar to sign undertaking
+
+174. Award of grants and bursaries
+
+175. Financial assistance to needy student
+
+## PART XI
+
+### INSPECTION AND REVIEW OF THE EDUCATION SYSTEM
+
+#### Division 1
 
 [[END OF PAGE 8]]
 
@@ -230,41 +538,49 @@ SECTION
 
 ##### Inspection of Educational Institutions
 
+176. Inspections of educational institutions
+
+177. Educational institutions to be opened for inspections and visit
+
+178. Offences
+
+#### Division 2
+
+##### Review of the Education System
+
+179. Appointment of Education Review Committee
+
+180. Functions of Education Review Committee
+
+## PART XII
+
+### MISCELLANEOUS
+
+181. Vendors on school premises
+
+182. Use of premises of educational institution
+
+183. Prohibition of sale of alcoholic beverages or tobacco
+
+184. Loitering etc. on premises of educational institution
+
+185. Prosecutions
+
+186. Regulations
+
+187. Repeals and savings
+
+188. Transitional
+
+SCHEDULE 1
+
+SCHEDULE 2
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 10
-
-[  ]
-
-Governor-General
-
-AN ACT to make provision for the delivery of educational services in Saint Vincent and the  Grenadines  by  both  the  public  and  the  private  sectors  and  for  matters  connected therewith and incidental thereto.
-
-[ ]
-
-BE IT ENACTED by the Queen's Most Excellent Majesty, by and with the advice and consent of the House of Assembly of Saint Vincent and the Grenadines and by the authority of the same, as follows:
-
-## PART I
-
-### PRELIMINARY
-
-(1) This Act may be cited as the Education Act 2005.
-
-- This  Act  shall  come  into  force  on  such  day  as  the  Governor  General  may appoint by proclamation published in the Gazette and different days may be appointed for different provisions or different purposes of this Act and for the same provision for the same purpose in relation to different cases or classes of case.
-
-(1) In this Act, unless the context otherwise requires -
-
-'academic  year'  or  'school  year'  means  the  period  beginning  on  the  1st September of  any  year  and  ending  on  31st  August  of  the  following  year and consisting of 3 terms totalling 39 weeks;
-
-'Advisory  Board'  means  the  Education  Advisory  Board  established  under section 9;
-
-'adult education' means education or training on a part-time basis for persons over  compulsory  school  age  designed  to  advance  knowledge,  skills  and cultural awareness, but does not include tertiary education;
-
-'all-age school' means a school which accepts students at a primary level and at secondary level to age sixteen;
-
-'assisted private school' means a private school which receives some material assistance in money, goods or services from the Government;
 
 SAINT VINCENT AND THE GRENADINES
 
@@ -272,7 +588,37 @@ BILL FOR
 
 ______________
 
-ACT NO.    OF   2005 I  ASSENT
+ACT NO.    OF 2005
+
+I ASSENT
+
+[  ] Governor-General
+
+AN ACT to make provision for the delivery of educational services in Saint Vincent and the Grenadines by both the public and the private sectors and for matters connected therewith and incidental thereto.
+
+[ ]
+
+BE IT ENACTED by the Queen’s Most Excellent Majesty, by and with the advice and consent of the House of Assembly of Saint Vincent and the Grenadines and by the authority of the same, as follows:
+
+## PART I
+
+### PRELIMINARY
+
+1. (1) This Act may be cited as the Education Act 2005.
+
+(2) This Act shall come into force on such day as the Governor General may appoint by proclamation published in the Gazette and different days may be appointed for different provisions or different purposes of this Act and for the same provision for the same purpose in relation to different cases or classes of case.
+
+2. (1) In this Act, unless the context otherwise requires -
+
+“academic year” or “school year” means the period beginning on the 1st September of any year and ending on 31st August of the following year and consisting of 3 terms totalling 39 weeks;
+
+“Advisory Board” means the Education Advisory Board established under section 9;
+
+“adult education” means education or training on a part-time basis for persons over compulsory school age designed to advance knowledge, skills and cultural awareness, but does not include tertiary education;
+
+“all-age school” means a school which accepts students at a primary level and at secondary level to age sixteen;
+
+“assisted private school” means a private school which receives some material assistance in money, goods or services from the Government;
 
 [[END OF PAGE 10]]
 
@@ -376,7 +722,7 @@ ACT NO.    OF   2005 I  ASSENT
 
 'student record' means the record kept under section 23;
 
-'student register' means the register kept under section 31'
+'student register' means the register kept under section 31;
 
 'teachers'  college'  means  an  educational  institution  for  training  persons  to teach in educational institutions;
 
@@ -406,7 +752,7 @@ ACT NO.    OF   2005 I  ASSENT
 
 (2) The general goals and objectives are -
 
-(a)  to establish a v aried, adequate and comprehensive education system that is characterised by excellence;
+(a)  to establish a varied, adequate and comprehensive education system that is characterised by excellence;
 
 [[END OF PAGE 13]]
 
@@ -498,7 +844,7 @@ University of the West Indies and any other institution of higher learning; and
 
 (j)  actively encourage the formation, functioning and development of students' councils in all educational institutions, and of a National Student Council.
 
-5. (1) The  Minister  m ay  do  everything  reasonably  necessary  or  convenient  for  the purpose of carrying out his responsibilities under this Act, and in particular may -
+5. (1) The Minister may do everything reasonably necessary or convenient for the purpose of carrying out his responsibilities under this Act, and in particular may -
 
 (a)  require  attendance  of  persons  of  compulsory  school  age  at  schools established and conducted under this Act;
 
@@ -584,7 +930,7 @@ system  of  education  including  the  registration  and  inspection  of  privat
 
 ##### The Education Advisory Board
 
-(1) There shall be established a body to be called the Education Advisory Board.
+9. (1) There shall be established a body to be called the Education Advisory Board.
 
 (2) The provisions of Schedule 1 has effect in relation to the constitution of the Advisory Board and otherwise in relation thereto.
 
@@ -622,7 +968,7 @@ system  of  education  including  the  registration  and  inspection  of  privat
 
 (2) If after reconsideration under  subsection (1), the Advisory Board adheres to the  advice  it  has  previously  given,  the  Minister  may  reject  the  advice  or  adopt  it  either wholly or with such modifications, additions or adaptations as the Minister thinks fit.
 
-13. (1) In  addition  to,  or  instead  of  obtaining  the  advice  of  the  Advisory  Board,  the Minister  may  appoint  any  special  c ommittee  the  Minister  considers  necessary  to  advice the Minister with respect to any specific matter which may arise from time to time.
+13. (1) In  addition  to,  or  instead  of  obtaining  the  advice  of  the  Advisory  Board,  the Minister  may  appoint  any  special  committee  the  Minister  considers  necessary  to  advice the Minister with respect to any specific matter which may arise from time to time.
 
 (2) A special committee -
 
@@ -820,7 +1166,7 @@ in respect of behaviour and deportment on a school bus.
 
 (5) Parent  Teacher  Associations  may,  subject  to  this  Act  and  the  regulations, make rules for the conduct of their business.
 
-(6) On  the  formation  of  a  Parent  Teacher  Association  and  in  eve ry subsequent election of a new executive body,  the Parent Teacher Association shall send the names of the members of the executive to the Chief Education Officer.
+(6) On  the  formation  of  a  Parent  Teacher  Association  and  in  every subsequent election of a new executive body,  the Parent Teacher Association shall send the names of the members of the executive to the Chief Education Officer.
 
 25. (1) Subject to subsection (2), if a Parent Teacher Association does not exist in any school,  the  principal,  in  consultation  with  the  academic  staff,  may  establish  a  school committee comprising such number of parents, teachers and members of the community as the principal determines.
 
@@ -952,7 +1298,7 @@ in respect of behaviour and deportment on a school bus.
 
 (2) If the principal of an educational institution discovers or has reason to suspect the  presence  of  contagious  disease  in  the  institution,  the  principal  shall  immediately report  the  same  to  the  parents  of  the  students  concerned,  the  Chief  Educational  Officer and the Chief Medical Officer.
 
-34. (1) A student who has been refused admission to an educational institution on the ground that the student is suffering from or exposed to a contagious disease may be readmitted upon production of a medical certificate from a medical practitioner to the effect that  the  student  is  free  from  such  disease  and  is  unlikely  to  be  a  source  of  infection  to other persons in the institution.
+34. (1) A student who has been refused admission to an educational institution on the ground that the student is suffering from or exposed to a contagious disease may be re-admitted upon production of a medical certificate from a medical practitioner to the effect that  the  student  is  free  from  such  disease  and  is  unlikely  to  be  a  source  of  infection  to other persons in the institution.
 
 (2) A  Government medical officer who issues a medical certificate required by subsection (1) shall do so free of charge.
 
@@ -1018,7 +1364,7 @@ the  Minister  may  direct  that  the  educational  institution  be  temporarily
 
 (c)  eight weeks at the end of the final term of the school year.
 
-(2) The Minister may by an order amend subsection (1) in  relation to a specified academic year as h e considers it expedient to do so in the public interest.
+(2) The Minister may by an order amend subsection (1) in  relation to a specified academic year as he considers it expedient to do so in the public interest.
 
 40. (1) Saturdays, Sundays and bank holidays are holidays for the purpose of this Act and schools are not required to have sessions on those days.
 
@@ -1154,7 +1500,7 @@ for the enforcement of compulsory education; and
 
 (6) A  person  who  contravenes  subsection  (4)  or  (5)  commits  an  offence  and  is liable on summary conviction to a fine of three thousand dollars or to imprisonment for six months or both.
 
-50. (1) In a prosecution under this Division a statement as to the attendance or nonattendance at school of any child, signed or purporting to be signed by the principal of the school, shall be prima facie evidence of the facts stated in it.
+50. (1) In a prosecution under this Division a statement as to the attendance or non-attendance at school of any child, signed or purporting to be signed by the principal of the school, shall be prima facie evidence of the facts stated in it.
 
 (2) In a prosecution under this Division a birth or baptismal certificate or a copy thereof  purporting  to  be  certified  under  the  hand  of  the  person  in  whose  custody  such records are held is evidence of the age of the person named in the certificate or copy.
 
@@ -1210,7 +1556,7 @@ for the enforcement of compulsory education; and
 
 (3) Where  corporal  punishment  is  administered  an  entry  shall  be  made  in  a punishment book which is to be kept in each school for the purpose of indicating the nature and extent of the punishment and the reasons for administering it.
 
-(4) A  person  other  than  one  mentioned  in  subsection  (2)  (a)  who  administers corporal punishment to a pupil on school premises commits an offence and is liable on summary conviction to a f ine of two thousand dollars..
+(4) A  person  other  than  one  mentioned  in  subsection  (2)  (a)  who  administers corporal punishment to a pupil on school premises commits an offence and is liable on summary conviction to a fine of two thousand dollars..
 
 (5) A  person  who  administers  corporal  punishment  to  a  student  on  school premises contrary to paragraphs (b), (c) or (d) of subsection (2) commits an offence and is liable on summary conviction to a fine of two thousand dollars.
 
@@ -1236,9 +1582,9 @@ for the enforcement of compulsory education; and
 
 (b) inform the Chief Education Officer; and
 
-(c)  meet  as  soon  as  possible  with  the  student  and  his  parents  to  review  the circumstances  surrounding  the  suspension  and  t o  determine  appropriate corrective  action,  which  may  include  counselling  for  the  student  and  his parents.
+(c)  meet  as  soon  as  possible  with  the  student  and  his  parents  to  review  the circumstances  surrounding  the  suspension  and  to  determine  appropriate corrective  action,  which  may  include  counselling  for  the  student  and  his parents.
 
-(3) If there is no resolution of the problem within two school days, the principal shall  decide  either  to  re-admit  the  student  or  to  suspend  the  stu dent in accordance with section 55.
+(3) If there is no resolution of the problem within two school days, the principal shall  decide  either  to  re-admit  the  student  or  to  suspend  the  student in accordance with section 55.
 
 (4) Suspension  under  this  section  or  section  55  shall  take  effect  from  the  next school day after the day of the decision and a student shall not be sent away from school during school hours.
 
@@ -1372,7 +1718,7 @@ for the enforcement of compulsory education; and
 
 (2) Subject to this Act, public secondary schools are under the management and control of the Minister.
 
-(3) A public secondary school established under the former Act and in existence at  the  commencement  of  this  Act  shall  be  deemed  to  have  been  established  u nder  this Act.
+(3) A public secondary school established under the former Act and in existence at  the  commencement  of  this  Act  shall  be  deemed  to  have  been  established  under  this Act.
 
 61. (1) Subject to subsection (3), the Minister may by a notice publish in the Gazette establish a Board of Management for every public secondary school where it appears to the  Minister  to  be  desirable  to  do  so  in  the  interest  of  economy,  efficiency,  and  for  the participation of the community in the management of education.
 
@@ -1408,7 +1754,7 @@ for the enforcement of compulsory education; and
 
 (4) A  Central  Board  of  Management  may  advise  the  Minister  to  exercise  the powers in subsection (1) in respect of the schools under its jurisdiction.
 
-(5) If a Board of Management is appointed to administer more than one schoo l-
+(5) If a Board of Management is appointed to administer more than one school -
 
 (a)  the  functions  of  the  Board  are  in  respect  of  each  school  managed  by  the Board;
 
@@ -1438,7 +1784,7 @@ for the enforcement of compulsory education; and
 
 (vi)  generally, any matter which affects the school and its development;
 
-(b) not  later  than  July  31st  in  each  year,  or  such  later  d ate  as  the  Minister approves in writing-
+(b) not  later  than  July  31st  in  each  year,  or  such  later  date  as  the  Minister approves in writing-
 
 (i)  a statement detailing the expenditure of any grant made to the school by the Ministry or of any funds voted for it by the Parliament, as the case may be; and
 
@@ -1446,11 +1792,11 @@ for the enforcement of compulsory education; and
 
 (2) The report of the Board of Management of every public  school shall be laid before Parliament within three months of being received by the Minister.
 
-66. Subject to this A ct and regulations made under this Act a Board of Management shall  act  in  accordance  with  any  written  directions  of  the  Minister  concerning  the performance of its functions under this Act.
+66. Subject to this Act and regulations made under this Act a Board of Management shall  act  in  accordance  with  any  written  directions  of  the  Minister  concerning  the performance of its functions under this Act.
 
 67. The financial resources of a public school shall be -
 
-(a)  in  t he  case  of  a  pre-primary,  primary  or  all  age  school,  a  grant  from  the Ministry;
+(a)  in  the  case  of  a  pre-primary,  primary  or  all  age  school,  a  grant  from  the Ministry;
 
 (b) in the case of a secondary school, money voted by the Parliament for the operation  of  the school  either specifically or as part of a vote  for secondary schools generally;
 
@@ -1610,7 +1956,7 @@ for the enforcement of compulsory education; and
 
 (e)  the school has access to adequate land for the recreation of the students;
 
-(f)  neither  the  proprietor  nor  the  principal  has  been  convicted  of  or  has pleaded  guilty  t o  an  offence  under  this  Act,  or  to  a  criminal  offence  in relation to the operation of a private school, in the five years preceding the application;
+(f)  neither  the  proprietor  nor  the  principal  has  been  convicted  of  or  has pleaded  guilty  to  an  offence  under  this  Act,  or  to  a  criminal  offence  in relation to the operation of a private school, in the five years preceding the application;
 
 (g) the school will have at its disposal adequate human and material resources for providing the educational services for which the permit will be issued and sufficient financial resources for that purpose; and
 
@@ -1832,7 +2178,7 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 (3) Either party to an agreement may terminate the agreement by giving the other at least eighteen calendar months notice in writing.
 
-(4) If  an  assisted  private  school  ceases  to  be  registered  a s  a  private  school  the agreement lapses.
+(4) If  an  assisted  private  school  ceases  to  be  registered  as  a  private  school  the agreement lapses.
 
 (5) Any agreement for assistance to a private school made under the former Act and  which  is  in  force  at  the  commencement  of  this  Act  continues  in  force  as  if  made under this Act.
 
@@ -1898,7 +2244,7 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 (b) the Minister is satisfied that the interests of education in the area in which the schools are situated will be best served by a joint Board  of Management.
 
-(2) If a Board of Management is appointed to administer more than one assisted private school, the provisi ons of section 64 shall apply.
+(2) If a Board of Management is appointed to administer more than one assisted private school, the provisions of section 64 shall apply.
 
 102. (1) The  functions  of  a  Board  of  Management  for  an  assisted  private  school shall be -
 
@@ -1992,7 +2338,7 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 108. (1) Early childhood education services in this Act called 'pre-primary education' may be provided either by the Minister or by private schools.
 
-(2) If the Minister provides early childhood education services, it may be as a preprimary section of a public or assisted private primary school or as  separate pre-primary school and in either event the Minister may charge fees for the services.
+(2) If the Minister provides early childhood education services, it may be as a pre-primary section of a public or assisted private primary school or as separate pre-primary school and in either event the Minister may charge fees for the services.
 
 (3) A private school may offer early childhood education services if the proprietor has an appropriate permit issued under section 78.
 
@@ -2040,9 +2386,9 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 112. (1) A  parent  of  a  child  of  compulsory  school  age  may  provide,  at  home,  a home education programme for the child if the parent complies with this Division and if the programme meets the goals and objectives set out in section 3 (3).
 
-(2) The parent shall, prior to the commencement of a home education programme for the child and every year thereafter f or as long  as the home education programme is provided, register the student with the Chief Education Officer.
+(2) The parent shall, prior to the commencement of a home education programme for the child and every year thereafter for as long as the home education programme is provided, register the student with the Chief Education Officer.
 
-(3) An educational plan for each student who is receiving home education shall be prepared  and  provided  to  t  he  Chief  Education  Officer  and  sh all  comply  with  the following conditions -
+(3) An educational plan for each student who is receiving home education shall be prepared and provided to the Chief Education Officer and shall comply with the following conditions -
 
 (a)  the  initial  plan  shall  be  prepared  and  provided  to  the  Chief  Education Officer  three  months  prior  to  the  commencement  of  the  home  education programme;
 
@@ -2102,7 +2448,7 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 (b) written  consent  of  the  parent  shall  be  obtained  to  an  assessment  of  the child being undertaken;
 
-(c)  assessment shall if possible be on a multi -disciplinary basis;
+(c) assessment shall if possible be on a multi-disciplinary basis;
 
 (d) the results of the assessment reports shall be provided and explained to the parent;
 
@@ -2110,7 +2456,7 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 (f)  the  parent  shall  be  provided  with  information  concerning  the  right  of appeal to the Minister.
 
-(4) A  parent  has  the  right  to  request  for  his  child  a  determination  in  accordan ce with this section.
+(4) A parent has the right to request for his child a determination in accordance with this section.
 
 [[END OF PAGE 54]]
 
@@ -2170,7 +2516,7 @@ the parent, the proprietor or principal of any school affected by the decision m
 
 ##### Employment of Teachers
 
-(1) A person shall not -
+119. (1) A person shall not -
 
 (a)  appoint a person who does not hold the prescribed qualifications to teach; or
 
@@ -2222,9 +2568,9 @@ the parent, the proprietor or principal of any school affected by the decision m
 
 (2) A  person  shall  be  registered  in  the  Teachers Register required by subsection (1) if he possesses the prescribed qualifications and is in other respects a fit and proper person to be so registered.
 
-- A copy of the Teachers Register shall be published in the Gazette annually.
+123. A copy of the Teachers Register shall be published in the Gazette annually.
 
-(1) No person -
+124. (1) No person -
 
 (a)  shall be eligible for appointment as a teacher at a public or assisted private school; or
 
@@ -2232,7 +2578,7 @@ the parent, the proprietor or principal of any school affected by the decision m
 
 unless his name is registered in the Teachers Register.
 
-- Subsection (1) shall apply to persons who are appointed temporarily.
+(2) Subsection (1) shall apply to persons who are appointed temporarily.
 
 (3) A  person  whose  registration  as  a  teacher  has  been  cancelled  shall  not  be appointed to a position as a teacher at a public or assisted private school unless his name has been reinstated in the register.
 
@@ -2246,9 +2592,9 @@ unless his name is registered in the Teachers Register.
 
 (b) appoint non-pensionable teachers at a public or assisted private school,
 
-after consultation with theChief Education Officer and the respective Board of Management, if any, and in accordance with this Act and the Public Service Commission Regulations.
+after consultation with the Chief Education Officer and the respective Board of Management, if any, and in accordance with this Act and the Public Service Commission Regulations.
 
-(2) The appointment of a teacher to a public school shall be i n accordance with the requirements of the institution and on the basis of the qualifications and suitability of the teacher.
+(2) The appointment of a teacher to a public school shall be in accordance with the requirements of the institution and on the basis of the qualifications and suitability of the teacher.
 
 127. (1) The  Chief  Education  Officer  after  consulting  the  respective  Boards  of Management and the teacher concerned may in the interests of efficiency and to maintain student to teacher ratios recommend to the Public Service Commission the transfer of a teacher from or to any public school.
 
@@ -2260,7 +2606,7 @@ after consultation with theChief Education Officer and the respective Board of M
 
 (2) If  the  power  to  transfer  teachers  has  been  delegated  to  the  Permanent Secretary or any other public officer under section 78 (2) of the Constitution, the Chief Education Officer's recommendation under subsection (1) shall be to that officer.
 
-- Every teacher at an educational institution shall have the right to -
+128. Every teacher at an educational institution shall have the right to -
 
 (a)  be treated in a manner  consistent  with  the  dignity  of  the  teaching profession;
 
@@ -2300,7 +2646,7 @@ after consultation with theChief Education Officer and the respective Board of M
 
 ##### Conduct of Public School Teachers
 
-- Except for section 139 this Division applies
+130. Except for section 139 this Division applies
 
 (a)  only to a teacher employed in the public service; and
 
@@ -2376,7 +2722,7 @@ after consultation with theChief Education Officer and the respective Board of M
 
 (y) in the case of a primary, all-age or secondary school, be in school at least fifteen  minutes  before  school  starts  and  remain  in  school  at  least  half  an hour after the students are dismissed;
 
-(z)  perform  any  other  duties  prescribed  by  regulations  m ade by the Minister under this Act.
+(z) perform any other duties prescribed by regulations made by the Minister under this Act.
 
 133. (1) A  teacher  shall  not  leave  Saint  Vincent  and  the  Grenadines  outside  the teachers' vacation period as defined in section 144 without the permission in writing of the Chief Education Officer obtained in accordance with that section.
 
@@ -2384,13 +2730,13 @@ after consultation with theChief Education Officer and the respective Board of M
 
 (3) A  teacher  shall  not  make  public  or  communicate  to  the  press  or  to  an individual or make copies of documents, papers or information of which he has become possessed in an official capacity, unless his duties so require.
 
-(4) A teacher shall not solicit the interv ention or influence of individual member of the House of Representatives or of any Minister, to support or advance his individual claims in the service.
+(4) A teacher shall not solicit the intervention or influence of individual member of the House of Representatives or of any Minister, to support or advance his individual claims in the service.
 
 (5) A teacher shall not without the permission of the principal of the educational institution  to  which  he  is  attached  permit  any  person  who  is  not  a  student  of  the institution to be present during school hours in any part of the premises of the  institution normally reserved for the use of students.
 
 (6) A teacher who desires to initiate legal proceedings against another teacher, or against a member of the public, with respect to any matter which arose out of and in the course of the execution of the teacher's duty, shall apply to the Chief Education Officer for permission to proceed.
 
-- A teacher who -
+134. A teacher who -
 
 (a)  persistently fails to perform the duties mentioned in section 132;
 
@@ -2502,7 +2848,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 (xiii) the approved time table;
 
-(xiv) list of the basic textbooks used f or secular instruction;
+(xiv) list of the basic textbooks used for secular instruction;
 
 (xv) any circulars the Ministry issues from time to time; and
 
@@ -2528,7 +2874,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 (p) keep parents informed of the progress and development of students;
 
-(q) ensure  that  instruction  in  t he  institution  is  consistent  with  the  courses  of study prescribed pursuant to this Act and the regulations;
+(q) ensure that instruction in the institution is consistent with the courses of study prescribed pursuant to this Act and the regulations;
 
 (r)  include  cultural  heritage  traditions  and  practices  in  the  activities  of  the institution;
 
@@ -2566,7 +2912,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 (3) A principal of a public school who consistently fails to perform a professional duty specified in subsection (1) is guilty of misconduct and liable to disciplinary action by the Public Service Commission in accordance with regulations made for that purpose.
 
-141. (1) A  person  appointed  as  deputy  principal  in  an  educati onal  institution,  in addition to carrying out the professional duties of a teacher and any other duties assigned to him by the principal, shall -
+141. (1) A person appointed as deputy principal in an educational institution, in addition to carrying out the professional duties of a teacher and any other duties assigned to him by the principal, shall -
 
 (a)  assist the principal in managing the institution or that part of it determined by the principal;
 
@@ -2590,7 +2936,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 ##### Application
 
-- This Part, other than section 150, applies generally to -
+142. This Part, other than section 150, applies generally to -
 
 (a)  teachers appointed by the Public Service Commission; and
 
@@ -2608,7 +2954,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 ##### Leave
 
-(1) The teachers' vacation period shall be -
+144. (1) The teachers' vacation period shall be -
 
 (a)  three weeks at the end of the first term of the school year;
 
@@ -2648,7 +2994,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 148. A teacher who has been accepted by a university or any other institution to pursue a course of full-time study may, if the course is directly related to his work as a teacher and if the Chief Education Officer so recommends, be granted study leave on the following conditions-
 
-(a)  at  t he  time  of  granting  the  leave  the  teacher  shall  be  employed  in  a permanent capacity in a public school;
+(a) at the time of granting the leave the teacher shall be employed in a permanent capacity in a public school;
 
 (b) the teacher must have completed not less than three consecutive years of service as a teacher immediately before the commencement of the leave;
 
@@ -2670,13 +3016,13 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 149. (1) A teacher may be granted up to two months sick leave on full pay in any one year on production of medical evidence.
 
-(2) If sickness is prolonged beyond two months but there is a reasonable chance of  recovery,  a  teacher  who  has  at  least  ten  years'  teaching  experience  may  receive  full pay  for  a  further  period  on  the  recommendation  of  the  Chief  E ducation Officer and on production of medical evidence.
+(2) If sickness is prolonged beyond two months but there is a reasonable chance of recovery, a teacher who has at least ten years' teaching experience may receive full pay for a further period on the recommendation of the Chief Education Officer and on production of medical evidence.
 
 (3) The  Public  Service  Commission  may  appoint  a  medical  board  at  any  time after  the  second  month  of  sick  leave  for  advice  on  whether  further  leave  should  be granted or the teacher should be retired on medical grounds.
 
 (4) Application for sick leave for more than two days shall be made to the Chief Education Officer in writing and recorded by the principal in the leave book.
 
-150. (1) A  teacher  may  be  granted  compassionate  leave  by  the  Chief  Educati on Officer on the death of a parent, a grand parent, a child, a spouse or a sibling.
+150. (1) A teacher may be granted compassionate leave by the Chief Education Officer on the death of a parent, a grand parent, a child, a spouse or a sibling.
 
 (2) If the death occurs locally, compassionate leave of up to three working days may be granted.
 
@@ -2778,7 +3124,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 161. (1) The  curriculum  for  every  educational  institution  shall  include  core  and foundation subjects and specify in relation to each of them -
 
-(a)  attainment  targets  th at  include  the  knowledge,  skills  and  understanding which students of different abilities and maturities are expected to have by the end of each key stage;
+(a) attainment targets that include the knowledge, skills and understanding which students of different abilities and maturities are expected to have by the end of each key stage;
 
 [[END OF PAGE 70]]
 
@@ -2798,7 +3144,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 (b) the  period  beginning  from  the  start  of  the  academic  year  in  which  the majority of students in the student's class attain the age of eleven to the end  of  the  academic  year  in  which  the  majority  of  students  in  the  class attain the age of fourteen;
 
-(c)  the  period  from  the  start  of  the  academic  year  in  which  the  majority  of students  in  the  student's  class  attain  the  age  of  fourteento  the  end  of  the academic year in which the majority of students in the class attain the age of sixteen.
+(c) the period from the start of the academic year in which the majority of students in the student's class attain the age of fourteen to the end of the academic year in which the majority of students in the class attain the age of sixteen.
 
 (2) Arrangements shall be made in every educational institution for the assessment of students in accordance with this Part.
 
@@ -2808,7 +3154,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 (5) The  Minister  may  publish  the  results  of  the  assessments  together  with  a commentary on them by the Chief Education Officer, but not so as to identify individual students or teachers.
 
-(1) The Minister shall publish by notice in the Gazette -
+163. (1) The Minister shall publish by notice in the Gazette -
 
 (a)  the core subjects and other foundation subjects;
 
@@ -2868,9 +3214,9 @@ that the Minister considers appropriate.
 
 (7) If  an  assisted  private  school  owned  or  managed  by  a  denominational  body admits students who not subscribe to the religious beliefs of the denominational body, no student, except with his consent or, if he  is under the age eighteen years, the consent of a parent,  may  be  compelled  or  required  to  receive  religious  instruction  or  take  part  in  or attend any religious ceremony or observance provided under subsection (1).
 
-166. (1) The  religious  education  g iven to a student at a public or assisted private school  pursuant  to  section  165  shall  be  given  in  accordance  with  an  agreed  syllabus adopted for the school.
+166. (1) The religious education given to a student at a public or assisted private school pursuant to section 165 shall be given in accordance with an agreed syllabus adopted for the school.
 
-(2) In  respect  of  public  or  assisted  private  schools  with  the  exception  of denominational  schools  the  Minister  may  appoint  a  panel  of  advisor  s  on  religious matters  to  advise  on  religious  instruction  in  schools  and  in  particular  as  to  methods  of teaching, choice of books and the provision of lecturers or teachers.
+(2) In respect of public or assisted private schools with the exception of denominational schools the Minister may appoint a panel of advisors on religious matters to advise on religious instruction in schools and in particular as to methods of teaching, choice of books and the provision of lecturers or teachers.
 
 ## PART X
 
@@ -2908,7 +3254,7 @@ that the Minister considers appropriate.
 
 74
 
-(1) To be eligible to compete for a scholarship a student must-
+169. (1) To be eligible to compete for a scholarship a student must-
 
 (a)  have for three years immediately preceding the competition referred to in section 167 (2) have been bona fide receiving education  in Saint Vincent and the Grenadines;
 
@@ -2932,7 +3278,7 @@ that the Minister considers appropriate.
 
 (2) No  change  may  be  made  by  a  scholarship  holder  to  either  the  institution attended or the course of study except with the written approval of the Cabinet.
 
-(1) Subject to subsection (2) a scholarship shall be forfeited-
+172. (1) Subject to subsection (2) a scholarship shall be forfeited-
 
 (a)  on expulsion of the scholarship holder from the institution;
 
@@ -2994,7 +3340,7 @@ that the Minister considers appropriate.
 
 (2) Any  person  who,  pursuant  to  section  176  (1),  inspects  an  educational institution may at the request of the Chief Education Officer examine the students in the subjects of instruction taught at the institution.
 
-- A person who-
+178. A person who-
 
 (a)  obstructs an authorised person during a visit or inspection; or
 
@@ -3034,7 +3380,7 @@ commits  an  offence  and  is  liable  on  summary  conviction  to  a  fine  of 
 
 77
 
-(1) The Education Review Committee shall review and report on-
+180. (1) The Education Review Committee shall review and report on-
 
 (a)  the physical condition and the maintenance of all educational institutions in Saint Vincent and the Grenadines;
 
@@ -3076,7 +3422,7 @@ commits  an  offence  and  is  liable  on  summary  conviction  to  a  fine  of 
 
 78
 
-(5) A person who sells or offers for sale food or drink for sale on school premises shall ensure that the area used is i n a clean state and that all wrappings or other kinds of litter are collected for disposal.
+(5) A person who sells or offers for sale food or drink for sale on school premises shall ensure that the area used is in a clean state and that all wrappings or other kinds of litter are collected for disposal.
 
 (6) The sale of food and drink at an educational institution is not permitted during lesson periods.
 
@@ -3128,7 +3474,7 @@ commits  an  offence  and  is  liable  on  summary  conviction  to  a  fine  of 
 
 186. (1) The  Minister  may,  on  the  advice  of  the  Advisory  Board  given  in accordance with section 12, make regulations for the proper carrying out of the Minister's goals and objectives under this Act.
 
-(2) Without  l imiting  the  generality  of  subsection  (1),  the  Minister  may,  on  the advice of the Advisory Board given as aforesaid, make regulations-
+(2) Without limiting the generality of subsection (1), the Minister may, on the advice of the Advisory Board given as aforesaid, make regulations-
 
 (a)  concerning  the  management  and  conduct  of  public  schools  and  assisted private schools;
 
@@ -3204,13 +3550,13 @@ commits  an  offence  and  is  liable  on  summary  conviction  to  a  fine  of 
 
 (u) prescribing anything which by this Act is to be prescribed.
 
-(1) The Education Act 1992 is repealed.
+187. (1) The Education Act 1992 is repealed.
 
 (2) Notwithstanding  subsection  (1),  subsidiary  legislation  made  or  continued under the former Act shall remain in force so far as they are not inconsistent with this Act until they have been revoked by subsidiary legislation made under this Act, and shall be deemed for all purposes to have been made under this Act.
 
 (3) Subject  to  this  Act  all  appointments  made  under  the  former  Act  which  is  in force at the commencment of this Act or any application pending or matter commenced which has not been completed shall be deemed to have been done in accordance with this Act.
 
-(1) At the commencement of this Act -
+188. (1) At the commencement of this Act -
 
 (a)  the Education Advisory  Board  established under the former Act is dissolved; and
 
@@ -3234,53 +3580,53 @@ without prejudice to any action taken or commenced.
 
 ## SCHEDULE 1
 
+(section 9 (2))
+
 ### EDUCATION ADVISORY BOARD
 
-- In this Schedule, 'member' means a member of the Advisory Board.
+1. In this Schedule, “member” means a member of the Advisory Board.
 
-#### 2. 1. Constitution Board.
-The Minister shall with the prior approval of the Cabinet appoint  the  Advisory  Board  which  shall  consist  of  the  following  members  members appointed by instrument in writing as follows-
+#### 2. Constitution Board.
+(1) The Minister shall with the prior approval of the Cabinet appoint the Advisory Board which shall consist of the following members members appointed by instrument in writing as follows-
 
-(a)  the Director of the Saint Vincent and the Grenadines Community College;
+(a) the Director of the Saint Vincent and the Grenadines Community College;
 
-(b) four  members  nominated  by  the  Minister  in  his  discretion  from  among persons representing -
+(b) four members nominated by the Minister in his discretion from among persons representing -
 
-(i)  expert educational opinion;
+(i) expert educational opinion;
 
 (ii) parents of children attending public schools;
 
 (iii)parent teacher associations; and
 
-(iv)  technical, vocational or business education;
+(iv) technical, vocational or business education;
 
-(c)  one  representative  nominated by the National Council of Parent Teacher Association;
+(c) one representative nominated by the National Council of Parent Teacher Association;
 
 (d) one representative nominated by the duly recognised organisations representing teachers;
 
-(e)  the Resident Tutor, the University of the West Indies School of Continuing Studies;
+(e) the Resident Tutor, the University of the West Indies School of Continuing Studies;
 
-(f)  one representative nominated by a Central Board of Management;
+(f) one representative nominated by a Central Board of Management;
 
 (g) one representative nominated by the Early Education Council if any;
 
 (h) one representative of the National Student Council, if one exists;
 
-(i)  one representative nominated by the Council on Special Education, if one exists;
+(i) one representative nominated by the Council on Special Education, if one exists;
 
-(j)  one representative nominated by a religious organisation; and
+(j) one representative nominated by a religious organisation; and
 
 (k) one representative nominated by the business and professional community.
 
-(2) Members  appointed  pursuant  to  item  1  (f)  shall  be  rotated  between  each Central Board of Management every two years.
+(2) Members appointed pursuant to item 1 (f) shall be rotated between each Central Board of Management every two years.
 
-#### Chairman and Deputy Chairman.
+#### 3. Chairman and Deputy Chairman.
 (1) The Minister shall appoint-
 
-(a)  one member to be Chairman; and
+(a) one member to be Chairman; and
 
 (b) another member to be Deputy Chairman.
-
-(section 9 (2))
 
 [[END OF PAGE 82]]
 
@@ -3369,7 +3715,7 @@ The Minister shall publish in the Gazette the names of the members of the Adviso
 The  quorum  of  the  Advisory  Board  at  any  meeting  shall  be  five members.
 
 #### 14. Disclosure of interest.
-(1) Any member  who  has  any interest directly or indirectly  in  any  matter  being  considered  or  a bout  to  be  considered  by  the  Advisory Board shall disclose the nature of his interest to the Advisory Board.
+(1) Any member who has any interest directly or indirectly in any matter being considered or about to be considered by the Advisory Board shall disclose the nature of his interest to the Advisory Board.
 
 [[END OF PAGE 84]]
 
@@ -3401,7 +3747,7 @@ The  quorum  of  the  Advisory  Board  at  any  meeting  shall  be  five members
 ### PROCEDURE OF BOARDS OF MANAGEMENT
 
 #### 1. Definition.
-In this Schedule 'Board' means a Board of Management appointed under section 58, 61 or 100 of this Act.
+In this Schedule “Board” means a Board of Management appointed under section 58, 61 or 100 of this Act.
 
 #### 2. Chairperson and Deputy Chairperson.
 (1) Except in cases of a Board established  under  section  100  of  this  Act,  a  Board  shall  elect  a  chairperson  and  deputy chairperson from among its members at its first meeting.
@@ -3420,7 +3766,7 @@ If  a  vacancy  occurs  in  the  membership  of  a  Board  the vacancy shall be 
 A  person  may  not  be  appointed  to  employment under a Board of which the person is a member.
 
 #### 6. Duration of membership.
-(1) Every  member  of  a  Board  holds  office  for  a term of two years unless before the end of the term the member dies, resigns, is removed from office for any cause by the Minister or the nominating authority under section 58, 61or 100 of this Act or ceases to be a member in accordance with paragraph (4).
+(1) Every member of a Board holds office for a term of two years unless before the end of the term the member dies, resigns, is removed from office for any cause by the Minister or the nominating authority under section 58, 61 or 100 of this Act or ceases to be a member in accordance with paragraph (4).
 
 (2)  A member of a Board is eligible for reappointment for a further term.
 
