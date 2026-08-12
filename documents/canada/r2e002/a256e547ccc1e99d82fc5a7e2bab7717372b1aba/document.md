@@ -34,69 +34,71 @@ ISBN: 978-0-660-67458-2
 
 [[START OF PAGE 3]]
 
-#### 1. Repeals
-
-Repealed provisions ( e.g. section 2) have been deleted from the text and quoted in a footnote.
+iii
 
 # FOREWORD
 
 ## Consolidation of the Constitution Acts, 1867 to 1982
 
-This consolidation contains the text of the Constitution Act, 1867 (formerly the British North America Act, 1867 ), together with amendments made to it since its enactment, and the text of the Constitution Act, 1982 , as amended since its enactment. The Constitution Act, 1982 contains the Canadian Charter of Rights and Freedoms and other provisions, including the procedure for amending the Constitution of Canada.
+This consolidation contains the text of the Constitution Act, 1867 (formerly the British North America Act, 1867), together with amendments made to it since its enactment, and the text of the Constitution Act, 1982, as amended since its enactment. The Constitution Act, 1982 contains the Canadian Charter of Rights and Freedoms and other provisions, including the procedure for amending the Constitution of Canada.
 
-The Constitution Act, 1982 also contains a schedule of repeals of certain constitutional enactments and provides for the renaming of others. The British North America Act, 1949 , for example, is renamed as the Newfoundland Act . The new names of these enactments are used in this consolidation, but their former names may be found in the schedule.
+The Constitution Act, 1982 also contains a schedule of repeals of certain constitutional enactments and provides for the renaming of others. The British North America Act, 1949, for example, is renamed as the Newfoundland Act. The new names of these enactments are used in this consolidation, but their former names may be found in the schedule.
 
-The Constitution Act, 1982 was enacted as Schedule B to the Canada Act 1982 , 1982, c. 11 (U.K.). It is set out in this consolidation as a separate Act after the Constitution Act, 1867 .
+The Constitution Act, 1982 was enacted as Schedule B to the Canada Act 1982, 1982, c. 11 (U.K.). It is set out in this consolidation as a separate Act after the Constitution Act, 1867.
 
 ## Amendment of the Constitution Act, 1867
 
-The law embodied in the Constitution Act, 1867 has been altered many times otherwise than by textual amendment, not only by the Parliament of the United Kingdom but also by the Parliament of Canada and the legislatures of the provinces in those cases where provisions of that Act are expressed to be subject to alteration by Parliament or the legislatures. A consolidation of the Constitution Acts including only those subsequent enactments that alter the text of the Act would therefore not produce a true statement of the law. In preparing this consolidation, an attempt has been made to reflect accurately the substance of the law contained in enactments modifying the provisions of the Constitution Act, 1867 , whether by textual amendment or otherwise.
+The law embodied in the Constitution Act, 1867 has been altered many times otherwise than by textual amendment, not only by the Parliament of the United Kingdom but also by the Parliament of Canada and the legislatures of the provinces in those cases where provisions of that Act are expressed to be subject to alteration by Parliament or the legislatures. A consolidation of the Constitution Acts including only those subsequent enactments that alter the text of the Act would therefore not produce a true statement of the law. In preparing this consolidation, an attempt has been made to reflect accurately the substance of the law contained in enactments modifying the provisions of the Constitution Act, 1867, whether by textual amendment or otherwise.
 
 The various classes of enactments modifying the Constitution Act, 1867 have been dealt with as follows:
 
 ### I. Textual Amendments
 
-iii
+#### 1. Repeals
+
+Repealed provisions (e.g. section 2) have been deleted from the text and quoted in a footnote.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+iv
+
 #### 2. Amendments
 
-Amended provisions ( e.g. section 4) are reproduced in the text in their amended form and the original provisions are quoted in a footnote.
+Amended provisions (e.g. section 4) are reproduced in the text in their amended form and the original provisions are quoted in a footnote.
 
 #### 3. Additions
 
-Added provisions ( e.g. section 51A) are included in the text.
+Added provisions (e.g. section 51A) are included in the text.
 
 #### 4. Substitutions
 
-Substituted provisions ( e.g. section 18) are included in the text and the former provision is quoted in a footnote.
+Substituted provisions (e.g. section 18) are included in the text and the former provision is quoted in a footnote.
 
 ### II. Non-textual Amendments
 
 #### 1. Alterations by United Kingdom Parliament
 
-Provisions altered by the United Kingdom Parliament otherwise than by textual amendment ( e.g. section 21) are included in the text in their altered form and the original provision is quoted in a footnote.
+Provisions altered by the United Kingdom Parliament otherwise than by textual amendment (e.g. section 21) are included in the text in their altered form and the original provision is quoted in a footnote.
 
 #### 2. Additions by United Kingdom Parliament
 
-Constitutional provisions added otherwise than by the insertion of additional provisions in the Constitution Act, 1867 ( e.g. provisions of the Constitution Act, 1871 authorizing Parliament to legislate for any territory not included in a province) are not incorporated in the text but the additional provisions are quoted in an appropriate footnote.
+Constitutional provisions added otherwise than by the insertion of additional provisions in the Constitution Act, 1867 (e.g. provisions of the Constitution Act, 1871 authorizing Parliament to legislate for any territory not included in a province) are not incorporated in the text but the additional provisions are quoted in an appropriate footnote.
 
 #### 3. Alterations by Parliament of Canada
 
-Provisions subject to alteration by the Parliament of Canada ( e.g. section 37) have been included in the text in their altered form, wherever possible, but where this was not feasible ( e.g. section 40) the original section has been retained in the text and a footnote reference made to the Act of the Parliament of Canada effecting the alteration.
+Provisions subject to alteration by the Parliament of Canada (e.g. section 37) have been included in the text in their altered form, wherever possible, but where this was not feasible (e.g. section 40) the original section has been retained in the text and a footnote reference made to the Act of the Parliament of Canada effecting the alteration.
 
 #### 4. Alterations by the Legislatures
 
-Provisions subject to alteration by the legislatures of the provinces, either by virtue of specific authority ( e.g. sections 83 and 84) or by virtue of head 1 of section 92 ( e.g. sections 70 and 72), have been included in the text in their original form but the footnotes refer to the provincial enactments effecting the alteration. Amendments to the provincial enactments are not noted; these may be found by consulting the provincial statutes. In addition, only the enactments of the original provinces are referred to; corresponding enactments by the provinces that were created at a later date are not noted.
-
-iv
+Provisions subject to alteration by the legislatures of the provinces, either by virtue of specific authority (e.g. sections 83 and 84) or by virtue of head 1 of section 92 (e.g. sections 70 and 72), have been included in the text in their original form but the footnotes refer to the provincial enactments effecting the alteration. Amendments to the provincial enactments are not noted; these may be found by consulting the provincial statutes. In addition, only the enactments of the original provinces are referred to; corresponding enactments by the provinces that were created at a later date are not noted.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+v
 
 ## Spent Provisions
 
@@ -112,99 +114,641 @@ There are some inconsistencies in the capitalization of nouns. It was originally
 
 The French version of the Constitution Act, 1867 is the conventional translation. It does not have the force of law since this Act was enacted by the Parliament of the United Kingdom in English only.
 
-Section 55 of the Constitution Act, 1982 provides that a 'French version of the portions of the Constitution of Canada referred to in the schedule [to that Act] shall be prepared by the Minister of Justice of Canada as expeditiously as possible'. The French Constitutional Drafting Committee was established in 1984 with a mandate to assist the Minister of Justice in that task. The Committee's Final Report, which contains forty-two constitutional enactments, was tabled in Parliament in December 1990. The French version of the Final Report is available on the Justice Canada Website at the following URL: http://canada.justice.gc.ca/fra/pi/const/index.html.
-
-v
+Section 55 of the Constitution Act, 1982 provides that a “French version of the portions of the Constitution of Canada referred to in the schedule [to that Act] shall be prepared by the Minister of Justice of Canada as expeditiously as possible”. The French Constitutional Drafting Committee was established in 1984 with a mandate to assist the Minister of Justice in that task. The Committee’s Final Report, which contains forty-two constitutional enactments, was tabled in Parliament in December 1990. The French version of the Final Report is available on the Justice Canada Website at the following URL: http://canada.justice.gc.ca/fra/pi/const/index.html.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+vi
+
 ## Acknowledgement
 
-This consolidation of the Constitution Acts, 1867 to 1982 contains material prepared by the late Dr. E. A. Driedger, Q.C. The material has been updated where necessary. The Department of Justice gratefully acknowledges Dr. Driedger's earlier work.
-
-vi
+This consolidation of the Constitution Acts, 1867 to 1982 contains material prepared by the late Dr. E. A. Driedger, Q.C. The material has been updated where necessary. The Department of Justice gratefully acknowledges Dr. Driedger’s earlier work.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
+vii
+
 # TABLE OF PROVISIONS
 
-vii
+Section    Page
+
+## CONSTITUTION ACT, 1867
+
+Preamble    1
+
+### I. PRELIMINARY    1
+
+1 Short title    1
+
+### II. UNION    2
+
+3 Declaration of Union    2
+
+4 Construction of subsequent Provisions of Act    2
+
+5 Four Provinces    2
+
+6 Provinces of Ontario and Quebec    2
+
+7 Provinces of Nova Scotia and New Brunswick    2
+
+8 Decennial Census    3
+
+### III. EXECUTIVE POWER    3
+
+9 Declaration of Executive Power in the Queen    3
+
+10 Application of Provisions referring to Governor General    3
+
+11 Constitution of Privy Council for Canada    3
+
+12 All Powers under Acts to be exercised by Governor General with Advice of Privy Council, or alone    3
+
+13 Application of Provisions referring to Governor General in Council    4
+
+14 Power to Her Majesty to authorize Governor General to appoint Deputies    4
+
+15 Command of Armed Forces to continue to be vested in the Queen    4
+
+16 Seat of Government of Canada    4
+
+### IV. LEGISLATIVE POWER    4
+
+17 Constitution of Parliament of Canada    4
+
+18 Privileges, etc., of Houses    4
+
+19 First Session of the Parliament of Canada    5
+
+#### THE SENATE    5
+
+21 Number of Senators    5
+
+22 Representation of Provinces in Senate    6
+
+23 Qualifications of Senator    7
+
+24 Summons of Senator    8
+
+26 Addition of Senators in certain cases    8
+
+27 Reduction of Senate to normal Number    8
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 Table of Provisions
-
 viii
+
+Section    Page
+
+28 Maximum Number of Senators    9
+
+29 Tenure of Place in Senate    9
+
+30 Resignation of Place in Senate    9
+
+31 Disqualification of Senators    9
+
+32 Summons on Vacancy in Senate    10
+
+33 Questions as to Qualifications and Vacancies in Senate    10
+
+34 Appointment of Speaker of Senate    10
+
+35 Quorum of Senate    10
+
+36 Voting in Senate    10
+
+#### THE HOUSE OF COMMONS    10
+
+37 Constitution of House of Commons in Canada    10
+
+38 Summoning of House of Commons    11
+
+39 Senators not to sit in House of Commons    11
+
+40 Electoral districts of the four Provinces    11
+
+41 Continuance of existing Election Laws until Parliament of Canada otherwise provides    12
+
+44 As to Election of Speaker of House of Commons    13
+
+45 As to filling up Vacancy in Office of Speaker    13
+
+46 Speaker to preside    13
+
+47 Provision in case of Absence of Speaker    13
+
+48 Quorum of House of Commons    14
+
+49 Voting in House of Commons    14
+
+50 Duration of House of Commons    14
+
+51 Readjustment of representation in Commons    14
+
+51A Constitution of House of Commons    17
+
+52 Increase of Number of House of Commons    17
+
+#### MONEY VOTES; ROYAL ASSENT    17
+
+53 Appropriation and Tax Bills    17
+
+54 Recommendation of Money Votes    17
+
+55 Royal Assent to Bills, etc.    18
+
+56 Disallowance by Order in Council of Act assented to by Governor General    18
+
+57 Signification of Queen’s Pleasure on Bill reserved    18
+
+### V. PROVINCIAL CONSTITUTIONS    18
+
+#### EXECUTIVE POWER    18
+
+58 Appointment of Lieutenant Governors of Provinces    18
+
+59 Tenure of Office of Lieutenant Governor    18
+
+60 Salaries of Lieutenant Governors    19
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
 Table of Provisions
-
 ix
+
+Section    Page
+
+61 Oaths, etc., of Lieutenant Governor    19
+
+62 Application of Provisions referring to Lieutenant Governor    19
+
+63 Appointment of Executive Officers for Ontario and Quebec    19
+
+64 Executive Government of Nova Scotia and New Brunswick    19
+
+65 Powers to be exercised by Lieutenant Governor of Ontario or Quebec with Advice, or alone    19
+
+66 Application of Provisions referring to Lieutenant Governor in Council    20
+
+67 Administration in Absence, etc., of Lieutenant Governor    20
+
+68 Seats of Provincial Governments    20
+
+#### LEGISLATIVE POWER    20
+
+##### 1. Ontario    20
+
+69 Legislature for Ontario    20
+
+70 Electoral districts    21
+
+##### 2. Quebec    21
+
+71 Legislature for Quebec    21
+
+72 Constitution of Legislative Council    21
+
+73 Qualification of Legislative Councillors    21
+
+74 Resignation, Disqualification, etc.    21
+
+75 Vacancies    21
+
+76 Questions as to Vacancies, etc.    22
+
+77 Speaker of Legislative Council    22
+
+78 Quorum of Legislative Council    22
+
+79 Voting in Legislative Council    22
+
+80 Constitution of Legislative Assembly of Quebec    22
+
+##### 3. Ontario and Quebec    22
+
+82 Summoning of Legislative Assemblies    23
+
+83 Restriction on election of Holders of offices    23
+
+84 Continuance of existing Election Laws    23
+
+85 Duration of Legislative Assemblies    24
+
+86 Yearly Session of Legislature    24
+
+87 Speaker, Quorum, etc.    24
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 Table of Provisions
-
 x
+
+Section    Page
+
+##### 4. Nova Scotia and New Brunswick    25
+
+88 Constitutions of Legislatures of Nova Scotia and New Brunswick    25
+
+##### 5. Ontario, Quebec, and Nova Scotia    25
+
+##### 6. The Four Provinces    25
+
+90 Application to Legislatures of Provisions respecting Money Votes, etc.    25
+
+### VI. DISTRIBUTION OF LEGISLATIVE POWERS    26
+
+#### POWERS OF THE PARLIAMENT    26
+
+91 Legislative Authority of Parliament of Canada    26
+
+#### EXCLUSIVE POWERS OF PROVINCIAL LEGISLATURES    28
+
+92 Subjects of exclusive Provincial Legislation    28
+
+#### NON-RENEWABLE NATURAL RESOURCES, FORESTRY RESOURCES AND ELECTRICAL ENERGY    29
+
+92A Laws respecting non-renewable natural resources, forestry resources and electrical energy    29
+
+#### EDUCATION    31
+
+93 Legislation respecting Education    31
+
+93A Quebec    32
+
+#### UNIFORMITY OF LAWS IN ONTARIO, NOVA SCOTIA, AND NEW BRUNSWICK    32
+
+94 Legislation for Uniformity of Laws in Three Provinces    32
+
+#### OLD AGE PENSIONS    32
+
+94A Legislation respecting old age pensions and supplementary benefits    32
+
+#### AGRICULTURE AND IMMIGRATION    32
+
+95 Concurrent Powers of Legislation respecting Agriculture, etc.    32
+
+### VII. JUDICATURE    33
+
+96 Appointment of Judges    33
+
+97 Selection of Judges in Ontario, etc.    33
+
+98 Selection of Judges in Quebec    33
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
 Table of Provisions
-
 xi
+
+Section    Page
+
+99 Tenure of office of Judges    33
+
+100 Salaries, etc., of Judges    33
+
+101 General Court of Appeal, etc.    34
+
+### VIII. REVENUES; DEBTS; ASSETS; TAXATION    34
+
+102 Creation of Consolidated Revenue Fund    34
+
+103 Expenses of Collection, etc.    34
+
+104 Interest of Provincial Public Debts    34
+
+105 Salary of Governor General    34
+
+106 Appropriation from Time to Time    35
+
+107 Transfer of Stocks, etc.    35
+
+108 Transfer of Property in Schedule    35
+
+109 Property in Lands, Mines, etc.    35
+
+110 Assets connected with Provincial Debts    35
+
+111 Canada to be liable for Provincial Debts    35
+
+112 Debts of Ontario and Quebec    36
+
+113 Assets of Ontario and Quebec    36
+
+114 Debt of Nova Scotia    36
+
+115 Debt of New Brunswick    36
+
+116 Payment of interest to Nova Scotia and New Brunswick    36
+
+117 Provincial Public Property    36
+
+119 Further Grant to New Brunswick    37
+
+120 Form of Payments    37
+
+121 Canadian Manufactures, etc.    37
+
+122 Continuance of Customs and Excise Laws    37
+
+123 Exportation and Importation as between Two Provinces    37
+
+124 Lumber Dues in New Brunswick    37
+
+125 Exemption of Public Lands, etc.    38
+
+126 Provincial Consolidated Revenue Fund    38
+
+### IX. MISCELLANEOUS PROVISIONS    38
+
+#### GENERAL    38
+
+128 Oath of Allegiance, etc.    38
+
+129 Continuance of existing Laws, Courts, Officers, etc.    39
+
+130 Transfer of Officers to Canada    39
+
+131 Appointment of new Officers    39
+
+132 Treaty Obligations    39
+
+133 Use of English and French Languages    40
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 Table of Provisions
-
 xii
+
+Section    Page
+
+#### ONTARIO AND QUEBEC    41
+
+134 Appointment of Executive Officers for Ontario and Quebec    41
+
+135 Powers, Duties, etc. of Executive Officers    41
+
+136 Great Seals    41
+
+137 Construction of temporary Acts    42
+
+138 As to Errors in Names    42
+
+139 As to issue of Proclamations before Union, to commence after Union    42
+
+140 As to issue of Proclamations after Union    42
+
+141 Penitentiary    42
+
+142 Arbitration respecting Debts, etc.    43
+
+143 Division of Records    43
+
+144 Constitution of Townships in Quebec    43
+
+### X. INTERCOLONIAL RAILWAY    43
+
+### XI. ADMISSION OF OTHER COLONIES    44
+
+146 Power to admit Newfoundland, etc., into the Union    44
+
+147 As to Representation of Newfoundland and Prince Edward Island in Senate    44
+
+THE FIRST SCHEDULE    45
+
+THE SECOND SCHEDULE    50
+
+THE THIRD SCHEDULE    50
+
+THE FOURTH SCHEDULE    51
+
+THE FIFTH SCHEDULE    51
+
+THE SIXTH SCHEDULE    52
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
 Table of Provisions
+xiii
 
-Section
+Section    Page
 
 ## CONSTITUTION ACT, 1982
 
 ### PART I
 
-Page
+#### CANADIAN CHARTER OF RIGHTS AND FREEDOMS    53
 
-xiii
+##### GUARANTEE OF RIGHTS AND FREEDOMS    53
+
+1 Rights and freedoms in Canada    53
+
+##### FUNDAMENTAL FREEDOMS    53
+
+2 Fundamental freedoms    53
+
+##### DEMOCRATIC RIGHTS    54
+
+3 Democratic rights of citizens    54
+
+4 Maximum duration of legislative bodies    54
+
+5 Annual sitting of legislative bodies    54
+
+##### MOBILITY RIGHTS    54
+
+6 Mobility of citizens    54
+
+##### LEGAL RIGHTS    55
+
+7 Life, liberty and security of person    55
+
+8 Search or seizure    55
+
+9 Detention or imprisonment    55
+
+10 Arrest or detention    55
+
+11 Proceedings in criminal and penal matters    55
+
+12 Treatment or punishment    56
+
+13 Self-crimination    56
+
+14 Interpreter    56
+
+##### EQUALITY RIGHTS    56
+
+15 Equality before and under law and equal protection and benefit of law    56
+
+##### OFFICIAL LANGUAGES OF CANADA    57
+
+16 Official languages of Canada    57
+
+16.1 English and French linguistic communities in New Brunswick    57
+
+17 Proceedings of Parliament    58
+
+18 Parliamentary statutes and records    58
+
+19 Proceedings in courts established by Parliament    58
+
+20 Communications by public with federal institutions    58
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
 Table of Provisions
-
 xiv
+
+Section    Page
+
+21 Continuation of existing constitutional provisions    59
+
+22 Rights and privileges preserved    59
+
+##### MINORITY LANGUAGE EDUCATIONAL RIGHTS    59
+
+23 Language of instruction    59
+
+##### ENFORCEMENT    60
+
+24 Enforcement of guaranteed rights and freedoms    60
+
+##### GENERAL    61
+
+25 Aboriginal rights and freedoms not affected by Charter    61
+
+26 Other rights and freedoms not affected by Charter    61
+
+27 Multicultural heritage    61
+
+28 Rights guaranteed equally to both sexes    61
+
+29 Rights respecting certain schools preserved    61
+
+30 Application to territories and territorial authorities    61
+
+31 Legislative powers not extended    62
+
+##### APPLICATION OF CHARTER    62
+
+32 Application of Charter    62
+
+33 Exception where express declaration    62
+
+##### CITATION    63
+
+34 Citation    63
+
+### PART II
+
+#### RIGHTS OF THE ABORIGINAL PEOPLES OF CANADA    63
+
+35 Recognition of existing aboriginal and treaty rights    63
+
+35.1 Commitment to participation in constitutional conference    63
+
+### PART III
+
+#### EQUALIZATION AND REGIONAL DISPARITIES    64
+
+36 Commitment to promote equal opportunities    64
+
+### PART IV
+
+#### CONSTITUTIONAL CONFERENCE    64
+
+### PART IV.I
+
+#### CONSTITUTIONAL CONFERENCES    65
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
 Table of Provisions
-
 xv
+
+Section    Page
+
+### PART V
+
+#### PROCEDURE FOR AMENDING CONSTITUTION OF CANADA    65
+
+38 General procedure for amending Constitution of Canada    65
+
+39 Restriction on proclamation    66
+
+40 Compensation    66
+
+41 Amendment by unanimous consent    66
+
+42 Amendment by general procedure    67
+
+43 Amendment of provisions relating to some but not all provinces    67
+
+44 Amendments by Parliament    67
+
+45 Amendments by provincial legislatures    68
+
+46 Initiation of amendment procedures    68
+
+47 Amendments without Senate resolution    68
+
+48 Advice to issue proclamation    68
+
+49 Constitutional conference    68
+
+### PART VI
+
+#### AMENDMENT TO THE CONSTITUTION ACT, 1867    69
+
+### PART VII
+
+#### GENERAL    69
+
+52 Primacy of Constitution of Canada    69
+
+53 Repeals and new names    69
+
+54 Repeal and consequential amendments    70
+
+55 French version of Constitution of Canada    70
+
+56 English and French versions of certain constitutional texts    70
+
+57 English and French versions of this Act    70
+
+58 Commencement    70
+
+59 Commencement of paragraph 23(1)(a) in respect of Quebec    71
+
+60 Short title and citations    71
+
+61 References    71
+
+SCHEDULE TO THE CONSTITUTION ACT, 1982    72
+
+ENDNOTES    76
 
 [[END OF PAGE 15]]
 
@@ -216,33 +760,17 @@ xv
 
 [[START OF PAGE 17]]
 
-### Short title
-
-- This Act may be cited as the Constitution Act, 1867 . (2)
-
-- Repealed. (3)
-
-(1) The enacting clause was repealed by the Statute Law Revision Act, 1893 , 56-57 Vict., c. 14 (U.K.). It read as follows:
-
-Be it therefore enacted and declared by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
-
-(2) As amended by the Constitution Act, 1982 , which came into force on April 17, 1982. The section originally read as follows:
-
-- This Act may be cited as The British North America Act, 1867 .
-
-(3) Section 2, repealed by the Statute Law Revision Act, 1893 , 56-57 Vict., c. 14 (U.K.), read as follows:
-
-2. The Provisions of this Act referring to Her Majesty the Queen extend also to the Heirs and Successors of Her Majesty, Kings and Queens of the United Kingdom of Great Britain and Ireland.
+1
 
 # CONSTITUTION ACT, 1867
 
 30 & 31 Victoria, c. 3 (U.K.)
 
-An  Act  for  the  Union  of  Canada,  Nova  Scotia,  and  New  Brunswick,  and  the Government thereof; and for Purposes connected therewith
+An Act for the Union of Canada, Nova Scotia, and New Brunswick, and the Government thereof; and for Purposes connected therewith
 
-( 29th March 1867 )
+(29th March 1867)
 
-WHEREAS the Provinces of Canada, Nova Scotia, and New Brunswick have expressed their Desire to be federally united into One Dominion under the Crown of the  United  Kingdom  of  Great  Britain  and  Ireland,  with  a  Constitution  similar  in Principle to that of the United Kingdom:
+WHEREAS the Provinces of Canada, Nova Scotia, and New Brunswick have expressed their Desire to be federally united into One Dominion under the Crown of the United Kingdom of Great Britain and Ireland, with a Constitution similar in Principle to that of the United Kingdom:
 
 And whereas such a Union would conduce to the Welfare of the Provinces and promote the Interests of the British Empire:
 
@@ -252,17 +780,36 @@ And whereas it is expedient that Provision be made for the eventual Admission in
 
 ## I. PRELIMINARY
 
-1
+### Short title
+
+1. This Act may be cited as the Constitution Act, 1867. (2)
+
+2. Repealed. (3)
+
+(1) The enacting clause was repealed by the Statute Law Revision Act, 1893, 56-57 Vict., c. 14 (U.K.). It read as follows:
+
+Be it therefore enacted and declared by the Queen’s most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+
+(2) As amended by the Constitution Act, 1982, which came into force on April 17, 1982. The section originally read as follows:
+
+1. This Act may be cited as The British North America Act, 1867.
+
+(3) Section 2, repealed by the Statute Law Revision Act, 1893, 56-57 Vict., c. 14 (U.K.), read as follows:
+
+2. The Provisions of this Act referring to Her Majesty the Queen extend also to the Heirs and Successors of Her Majesty, Kings and Queens of the United Kingdom of Great Britain and Ireland.
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
 Constitution Act, 1867
+2
+
+## II. UNION
 
 ### Declaration of Union
 
-3. It  shall  be  lawful  for  the  Queen,  by  and  with  the  Advice  of  Her  Majesty's Most Honourable Privy Council, to declare by Proclamation that, on and after a Day therein appointed, not being more than Six Months after the passing of this Act, the Provinces of Canada, Nova Scotia, and New Brunswick shall form and be One Dominion under the Name of Canada; and on and after that Day those Three Provinces shall form and be One Dominion under that Name accordingly. (4)
+3. It shall be lawful for the Queen, by and with the Advice of Her Majesty’s Most Honourable Privy Council, to declare by Proclamation that, on and after a Day therein appointed, not being more than Six Months after the passing of this Act, the Provinces of Canada, Nova Scotia, and New Brunswick shall form and be One Dominion under the Name of Canada; and on and after that Day those Three Provinces shall form and be One Dominion under that Name accordingly. (4)
 
 ### Construction of subsequent Provisions of Act
 
@@ -282,27 +829,24 @@ Constitution Act, 1867
 
 (4) The first day of July, 1867, was fixed by proclamation dated May 22, 1867.
 
-(5) Partially repealed by the Statute Law Revision Act, 1893 , 56-57 Vict., c. 14 (U.K.). The section originally read as follows:
+(5) Partially repealed by the Statute Law Revision Act, 1893, 56-57 Vict., c. 14 (U.K.). The section originally read as follows:
 
-4. The subsequent Provisions of this Act shall, unless it is otherwise expressed or implied, commence and have effect on and after the Union, that is to say, on and after the Day appointed for the Union taking effect in the  Queen's Proclamation; and in the same Provisions, unless it is otherwise expressed or implied, the Name Canada shall be taken to mean Canada as constituted under this Act.
+4. The subsequent Provisions of this Act shall, unless it is otherwise expressed or implied, commence and have effect on and after the Union, that is to say, on and after the Day appointed for the Union taking effect in the Queen’s Proclamation; and in the same Provisions, unless it is otherwise expressed or implied, the Name Canada shall be taken to mean Canada as constituted under this Act.
 
 (6) Canada now consists of ten provinces (Ontario, Quebec, Nova Scotia, New Brunswick, Manitoba, British Columbia, Prince Edward Island, Alberta, Saskatchewan and Newfoundland and Labrador) and three territories (Yukon, the Northwest Territories and Nunavut).
 
 For further details, see endnote 1.
-
-## II. UNION
-
-2
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
 Constitution Act, 1867
+3
 
 ### Decennial Census
 
-8. In the general Census of the Population of Canada which is hereby required to be  taken  in  the  Year  One  thousand  eight  hundred  and  seventy-one,  and  in  every Tenth Year thereafter, the respective Populations of the Four Provinces shall be distinguished.
+8. In the general Census of the Population of Canada which is hereby required to be taken in the Year One thousand eight hundred and seventy-one, and in every Tenth Year thereafter, the respective Populations of the Four Provinces shall be distinguished.
 
 ## III. EXECUTIVE POWER
 
@@ -316,27 +860,26 @@ Constitution Act, 1867
 
 ### Constitution of Privy Council for Canada
 
-11. There shall be a Council to aid and advise in the Government of Canada, to be  styled  the  Queen's  Privy  Council  for  Canada;  and  the  Persons  who  are  to  be Members of that Council shall be from Time to Time chosen and summoned by the Governor General and sworn in as Privy Councillors, and Members thereof may be from Time to Time removed by the Governor General.
+11. There shall be a Council to aid and advise in the Government of Canada, to be styled the Queen’s Privy Council for Canada; and the Persons who are to be Members of that Council shall be from Time to Time chosen and summoned by the Governor General and sworn in as Privy Councillors, and Members thereof may be from Time to Time removed by the Governor General.
 
 ### All Powers under Acts to be exercised by Governor General with Advice of Privy Council, or alone
 
-12. All Powers, Authorities, and Functions which under any Act of the Parliament of Great Britain, or of the Parliament of the United Kingdom of Great Britain and Ireland, or of the Legislature of Upper Canada, Lower Canada, Canada, Nova Scotia, or New Brunswick, are at the Union vested in or exerciseable by the respective  Governors  or  Lieutenant  Governors  of  those  Provinces,  with  the  Advice,  or with the Advice and Consent, of the respective Executive Councils thereof, or in conjunction with those Councils, or with any Number of Members thereof, or by those Governors or Lieutenant Governors individually, shall, as far as the same continue in existence and capable of being exercised after the Union in relation to the Government  of  Canada,  be  vested  in  and  exerciseable  by  the  Governor  General, with  the  Advice  or  with  the  Advice  and  Consent  of  or  in  conjunction  with  the Queen's Privy Council for Canada, or any Members thereof, or by the Governor General individually, as the Case requires, subject nevertheless (except with respect to such as exist under Acts of the Parliament of Great Britain or of the Parliament of the United Kingdom of Great Britain and Ireland) to be abolished or altered by the Parliament of Canada. (7)
-
-3
+12. All Powers, Authorities, and Functions which under any Act of the Parliament of Great Britain, or of the Parliament of the United Kingdom of Great Britain and Ireland, or of the Legislature of Upper Canada, Lower Canada, Canada, Nova Scotia, or New Brunswick, are at the Union vested in or exerciseable by the respective Governors or Lieutenant Governors of those Provinces, with the Advice, or with the Advice and Consent, of the respective Executive Councils thereof, or in conjunction with those Councils, or with any Number of Members thereof, or by those Governors or Lieutenant Governors individually, shall, as far as the same continue in existence and capable of being exercised after the Union in relation to the Government of Canada, be vested in and exerciseable by the Governor General, with the Advice or with the Advice and Consent of or in conjunction with the Queen’s Privy Council for Canada, or any Members thereof, or by the Governor General individually, as the Case requires, subject nevertheless (except with respect to such as exist under Acts of the Parliament of Great Britain or of the Parliament of the United Kingdom of Great Britain and Ireland) to be abolished or altered by the Parliament of Canada. (7)
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
 Constitution Act, 1867
+4
 
 ### Application of Provisions referring to Governor General in Council
 
-13. The Provisions of this Act referring to the Governor General in Council shall be construed as referring to the Governor General acting by and with the Advice of the Queen's Privy Council for Canada.
+13. The Provisions of this Act referring to the Governor General in Council shall be construed as referring to the Governor General acting by and with the Advice of the Queen’s Privy Council for Canada.
 
 ### Power to Her Majesty to authorize Governor General to appoint Deputies
 
-14. It  shall  be  lawful  for  the  Queen,  if  Her  Majesty  thinks  fit,  to  authorize  the Governor General from Time to Time to appoint any Person or any Persons jointly or severally to be his Deputy or Deputies within any Part or Parts of Canada, and in that Capacity to exercise during the Pleasure of the Governor General such of the Powers, Authorities, and Functions of the Governor General as the Governor General deems it necessary or expedient to assign to him or them, subject to any Limitations or Directions expressed or given by the Queen; but the Appointment of such a Deputy or Deputies shall not affect the Exercise by the Governor General himself of any Power, Authority, or Function.
+14. It shall be lawful for the Queen, if Her Majesty thinks fit, to authorize the Governor General from Time to Time to appoint any Person or any Persons jointly or severally to be his Deputy or Deputies within any Part or Parts of Canada, and in that Capacity to exercise during the Pleasure of the Governor General such of the Powers, Authorities, and Functions of the Governor General as the Governor General deems it necessary or expedient to assign to him or them, subject to any Limitations or Directions expressed or given by the Queen; but the Appointment of such a Deputy or Deputies shall not affect the Exercise by the Governor General himself of any Power, Authority, or Function.
 
 ### Command of Armed Forces to continue to be vested in the Queen
 
@@ -354,17 +897,16 @@ Constitution Act, 1867
 
 ### Privileges, etc., of Houses
 
-18. The privileges, immunities, and powers to be held, enjoyed, and exercised by the Senate and by the House of Commons, and by the members thereof respectively, shall be such as are from time to time defined by Act of the Parliament of Canada, but so that any Act of the Parliament of Canada defining such privileges, immunities,  and  powers shall not confer any privileges, immunities, or powers exceeding those  at  the  passing  of  such  Act  held,  enjoyed,  and  exercised  by  the  Commons
+18. The privileges, immunities, and powers to be held, enjoyed, and exercised by the Senate and by the House of Commons, and by the members thereof respectively, shall be such as are from time to time defined by Act of the Parliament of Canada, but so that any Act of the Parliament of Canada defining such privileges, immunities, and powers shall not confer any privileges, immunities, or powers exceeding those at the passing of such Act held, enjoyed, and exercised by the Commons
 
 (7) See footnote (65) to section 129, below.
-
-4
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
 Constitution Act, 1867
+5
 
 House of Parliament of the United Kingdom of Great Britain and Ireland, and by the members thereof. (8)
 
@@ -374,63 +916,62 @@ House of Parliament of the United Kingdom of Great Britain and Ireland, and by t
 
 20. Repealed. (10)
 
+### THE SENATE
+
 #### Number of Senators
 
 21. The Senate shall, subject to the Provisions of this Act, consist of One Hundred and five Members, who shall be styled Senators. (11)
 
-(8) Repealed and re-enacted by the Parliament of Canada Act, 1875 , 38-39 Vict., c. 38 (U.K.). The original section read as follows:
+(8) Repealed and re-enacted by the Parliament of Canada Act, 1875, 38-39 Vict., c. 38 (U.K.). The original section read as follows:
 
-18. The  Privileges,  Immunities,  and  Powers  to  be  held,  enjoyed,  and  exercised  by  the  Senate  and  by  the House of Commons and by the Members thereof respectively shall be such as are from Time to Time defined by Act of the Parliament of Canada, but so that the same shall never exceed those at the passing of this Act held, enjoyed, and exercised by the Commons House of Parliament of the United Kingdom of Great Britain and Ireland and by the Members thereof.
+18. The Privileges, Immunities, and Powers to be held, enjoyed, and exercised by the Senate and by the House of Commons and by the Members thereof respectively shall be such as are from Time to Time defined by Act of the Parliament of Canada, but so that the same shall never exceed those at the passing of this Act held, enjoyed, and exercised by the Commons House of Parliament of the United Kingdom of Great Britain and Ireland and by the Members thereof.
 
 (9) Spent. The first session of the first Parliament began on November 6, 1867.
 
-(10) Section 20, repealed by the Constitution Act, 1982 , read as follows:
+(10) Section 20, repealed by the Constitution Act, 1982, read as follows:
 
 20. There shall be a Session of the Parliament of Canada once at least in every Year, so that Twelve Months shall not intervene between the last Sitting of the Parliament in one Session and its first sitting in the next Session.
 
-Section 20 has been replaced by section 5 of the Constitution Act, 1982 ,  which provides that there shall be a sitting of Parliament at least once every twelve months.
+Section 20 has been replaced by section 5 of the Constitution Act, 1982, which provides that there shall be a sitting of Parliament at least once every twelve months.
 
-(11) As amended by the Constitution Act, 1915 , 5-6 Geo. V, c. 45 (U.K.) and modified by the Newfoundland Act , 12-13 Geo. VI, c. 22 (U.K.), the Constitution Act (No. 2), 1975 , S.C. 1974-75-76, c. 53, and the Constitution Act, 1999 (Nunavut) , S.C. 1998, c. 15, Part 2. The original section read as follows:
+(11) As amended by the Constitution Act, 1915, 5-6 Geo. V, c. 45 (U.K.) and modified by the Newfoundland Act, 12-13 Geo. VI, c. 22 (U.K.), the Constitution Act (No. 2), 1975, S.C. 1974-75-76, c. 53, and the Constitution Act, 1999 (Nunavut), S.C. 1998, c. 15, Part 2. The original section read as follows:
 
 21. The Senate shall, subject to the Provisions of this Act, consist of Seventy-two Members, who shall be styled Senators.
 
-The Manitoba  Act,  1870 ,  added  two  senators  for  Manitoba;  the British  Columbia Terms of Union added three; upon admission of Prince Edward Island four more were provided  by  section  147  of  the Constitution  Act,  1867 ;  the Alberta  Act and  the Saskatchewan Act each added four. The Senate was reconstituted at 96 by the Constitution Act, 1915 . Six more senators were added upon union with Newfoundland, and one senator each was added for Yukon and the Northwest Territories by the Constitution Act (No. 2), 1975 .  One  senator  was  added for Nunavut by the Constitution Act, 1999 (Nunavut) .
-
-### THE SENATE
-
-5
+The Manitoba Act, 1870, added two senators for Manitoba; the British Columbia Terms of Union added three; upon admission of Prince Edward Island four more were provided by section 147 of the Constitution Act, 1867; the Alberta Act and the Saskatchewan Act each added four. The Senate was reconstituted at 96 by the Constitution Act, 1915. Six more senators were added upon union with Newfoundland, and one senator each was added for Yukon and the Northwest Territories by the Constitution Act (No. 2), 1975. One senator was added for Nunavut by the Constitution Act, 1999 (Nunavut).
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
 Constitution Act, 1867
+6
 
 #### Representation of Provinces in Senate
 
-- In relation to the Constitution of the Senate Canada shall be deemed to consist of Four Divisions:
+22. In relation to the Constitution of the Senate Canada shall be deemed to consist of Four Divisions:
 
-- Ontario;
+1. Ontario;
 
-- Quebec;
+2. Quebec;
 
-- The Maritime Provinces, Nova Scotia and New Brunswick, and Prince Edward Island;
+3. The Maritime Provinces, Nova Scotia and New Brunswick, and Prince Edward Island;
 
-- The Western Provinces of Manitoba, British Columbia, Saskatchewan, and Alberta;
+4. The Western Provinces of Manitoba, British Columbia, Saskatchewan, and Alberta;
 
-which Four Divisions shall (subject to the Provisions of this Act) be equally represented in the Senate as follows: Ontario by twenty-four senators; Quebec by twentyfour senators; the Maritime Provinces and Prince Edward Island by twenty-four senators, ten thereof representing Nova Scotia, ten thereof representing  New Brunswick,  and  four  thereof  representing  Prince  Edward  Island;  the  Western Provinces  by  twenty-four  senators,  six  thereof  representing  Manitoba,  six  thereof representing  British  Columbia,  six  thereof  representing  Saskatchewan,  and  six thereof  representing  Alberta;  Newfoundland  shall  be  entitled  to  be  represented  in the  Senate  by  six  members;  the  Yukon  Territory,  the  Northwest  Territories  and Nunavut shall be entitled to be represented in the Senate by one member each.
+which Four Divisions shall (subject to the Provisions of this Act) be equally represented in the Senate as follows: Ontario by twenty-four senators; Quebec by twenty-four senators; the Maritime Provinces and Prince Edward Island by twenty-four senators, ten thereof representing Nova Scotia, ten thereof representing New Brunswick, and four thereof representing Prince Edward Island; the Western Provinces by twenty-four senators, six thereof representing Manitoba, six thereof representing British Columbia, six thereof representing Saskatchewan, and six thereof representing Alberta; Newfoundland shall be entitled to be represented in the Senate by six members; the Yukon Territory, the Northwest Territories and Nunavut shall be entitled to be represented in the Senate by one member each.
 
-In  the  Case  of  Quebec  each  of  the  Twenty-four  Senators  representing  that Province shall be appointed for One of the Twenty-four Electoral Divisions of Lower Canada specified in Schedule A. to Chapter One of the Consolidated Statutes of Canada. (12)
+In the Case of Quebec each of the Twenty-four Senators representing that Province shall be appointed for One of the Twenty-four Electoral Divisions of Lower Canada specified in Schedule A. to Chapter One of the Consolidated Statutes of Canada. (12)
 
-(12) As amended by the Constitution Act, 1915 , 5-6 Geo. V, c. 45 (U.K.), the Newfoundland Act , 12-13 Geo. VI, c. 22 (U.K.), the Constitution Act (No. 2), 1975 , S.C. 1974-75-76, c. 53 and the Constitution Act, 1999 (Nunavut) , S.C. 1998, c. 15, Part 2. The original section read as follows:
+(12) As amended by the Constitution Act, 1915, 5-6 Geo. V, c. 45 (U.K.), the Newfoundland Act, 12-13 Geo. VI, c. 22 (U.K.), the Constitution Act (No. 2), 1975, S.C. 1974-75-76, c. 53 and the Constitution Act, 1999 (Nunavut), S.C. 1998, c. 15, Part 2. The original section read as follows:
 
-- In relation to the Constitution of the Senate, Canada shall be deemed to consist of Three Divisions:
+22. In relation to the Constitution of the Senate, Canada shall be deemed to consist of Three Divisions:
 
-- Ontario;
+1. Ontario;
 
-- Quebec;
+2. Quebec;
 
-- The Maritime Provinces, Nova Scotia and New Brunswick;
+3. The Maritime Provinces, Nova Scotia and New Brunswick;
 
 which Three Divisions shall (subject to the Provisions of this Act) be equally represented in the Senate as follows: Ontario by Twenty-four Senators; Quebec by Twenty-four Senators; and the Maritime Provinces by Twenty-four Senators, Twelve thereof representing Nova Scotia, and Twelve thereof representing New Brunswick.
 
@@ -438,75 +979,72 @@ In the case of Quebec each of the Twenty-four Senators representing that Provinc
 
 The reference in section 22 to the Consolidated Statutes of Canada is a reference to the Consolidated Statutes of 1859.
 
-6
-
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
 Constitution Act, 1867
+7
 
 #### Qualifications of Senator
 
-- The Qualifications of a Senator shall be as follows:
+23. The Qualifications of a Senator shall be as follows:
 
-- He shall be of the full age of Thirty Years;
+(1) He shall be of the full age of Thirty Years;
 
-- He shall be either a natural-born Subject of the Queen, or a Subject of the Queen naturalized by an Act of the Parliament of Great Britain, or of the Parliament  of  the  United  Kingdom  of  Great  Britain  and  Ireland,  or  of  the Legislature  of  One  of  the  Provinces  of  Upper  Canada,  Lower  Canada, Canada, Nova Scotia, or New Brunswick, before the Union, or of the Parliament of Canada after the Union;
+(2) He shall be either a natural-born Subject of the Queen, or a Subject of the Queen naturalized by an Act of the Parliament of Great Britain, or of the Parliament of the United Kingdom of Great Britain and Ireland, or of the Legislature of One of the Provinces of Upper Canada, Lower Canada, Canada, Nova Scotia, or New Brunswick, before the Union, or of the Parliament of Canada after the Union;
 
-- He shall be legally or equitably seised as of Freehold for his own Use and Benefit of Lands or Tenements held in Free and Common Socage, or seised or  possessed  for  his  own  Use  and  Benefit  of  Lands  or  Tenements  held  in Franc-alleu or in Roture, within the Province for which he is appointed, of the Value of Four thousand Dollars, over and above all Rents, Dues, Debts, Charges, Mortgages, and Incumbrances due or payable out of or charged on or affecting the same;
+(3) He shall be legally or equitably seised as of Freehold for his own Use and Benefit of Lands or Tenements held in Free and Common Socage, or seised or possessed for his own Use and Benefit of Lands or Tenements held in Franc-alleu or in Roture, within the Province for which he is appointed, of the Value of Four thousand Dollars, over and above all Rents, Dues, Debts, Charges, Mortgages, and Incumbrances due or payable out of or charged on or affecting the same;
 
-- His Real and Personal Property shall be together worth Four thousand Dollars over and above his Debts and Liabilities;
+(4) His Real and Personal Property shall be together worth Four thousand Dollars over and above his Debts and Liabilities;
 
-- He shall be resident in the Province for which he is appointed;
+(5) He shall be resident in the Province for which he is appointed;
 
-- In the Case of Quebec he shall have his Real Property Qualification in the Electoral Division for which he is appointed, or shall be resident in that Division. (13)
+(6) In the Case of Quebec he shall have his Real Property Qualification in the Electoral Division for which he is appointed, or shall be resident in that Division. (13)
 
-(13) Section 44 of the Constitution Act, 1999 (Nunavut) , S.C. 1998, c. 15, Part 2, provided that, for the purposes of that Part (which added one senator for Nunavut), the word 'Province' in section 23 of the Constitution Act, 1867 has the same meaning as is assigned to the word 'province' by section 35 of the Interpretation Act , R.S.C. 1985, c. I-21, as amended, which provides that the term 'province' means 'a province of Canada, and includes Yukon, the Northwest Territories and Nunavut'.
+(13) Section 44 of the Constitution Act, 1999 (Nunavut), S.C. 1998, c. 15, Part 2, provided that, for the purposes of that Part (which added one senator for Nunavut), the word “Province” in section 23 of the Constitution Act, 1867 has the same meaning as is assigned to the word “province” by section 35 of the Interpretation Act, R.S.C. 1985, c. I-21, as amended, which provides that the term “province” means “a province of Canada, and includes Yukon, the Northwest Territories and Nunavut”.
 
-> Section 2 of the Constitution Act (No. 2), 1975 , S.C. 1974-75-76, c. 53, provided that for the purposes of that Act (which added one senator each for the Yukon Territory and the Northwest Territories) the term 'Province' in section 23 of the Constitution Act, 1867 has the same meaning as is assigned to the term 'province' by section 28 of the Interpretation  Act ,  R.S.C.  1970,  c.  I-23,  which  provides  that  the  term  'province' means 'a province of Canada, and includes the Yukon Territory and the Northwest Territories'.
-
-7
+Section 2 of the Constitution Act (No. 2), 1975, S.C. 1974-75-76, c. 53, provided that for the purposes of that Act (which added one senator each for the Yukon Territory and the Northwest Territories) the term “Province” in section 23 of the Constitution Act, 1867 has the same meaning as is assigned to the term “province” by section 28 of the Interpretation Act, R.S.C. 1970, c. I-23, which provides that the term “province” means “a province of Canada, and includes the Yukon Territory and the Northwest Territories”.
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
 Constitution Act, 1867
+8
 
 #### Summons of Senator
 
-24. The Governor General shall from Time to Time, in the Queen's Name, by Instrument under the Great Seal of Canada, summon qualified Persons to the Senate; and, subject to the Provisions of this Act, every Person so summoned shall become and be a Member of the Senate and a Senator.
+24. The Governor General shall from Time to Time, in the Queen’s Name, by Instrument under the Great Seal of Canada, summon qualified Persons to the Senate; and, subject to the Provisions of this Act, every Person so summoned shall become and be a Member of the Senate and a Senator.
 
 25. Repealed. (14)
 
 #### Addition of Senators in certain cases
 
-26. If at any Time on the Recommendation of the Governor General the Queen thinks fit to direct that Four or Eight Members be added to the Senate, the Governor General may by Summons to Four or Eight qualified Persons (as the Case may be), representing  equally  the  Four  Divisions  of  Canada,  add  to  the  Senate  accordingly. (15)
+26. If at any Time on the Recommendation of the Governor General the Queen thinks fit to direct that Four or Eight Members be added to the Senate, the Governor General may by Summons to Four or Eight qualified Persons (as the Case may be), representing equally the Four Divisions of Canada, add to the Senate accordingly. (15)
 
 #### Reduction of Senate to normal Number
 
-27. In case of such Addition being at any Time made, the Governor General shall not  summon  any  Person  to  the  Senate,  except  on  a  further  like  Direction  by  the Queen on the like Recommendation, to represent one of the Four Divisions until such Division is represented by Twenty-four Senators and no more. (16)
+27. In case of such Addition being at any Time made, the Governor General shall not summon any Person to the Senate, except on a further like Direction by the Queen on the like Recommendation, to represent one of the Four Divisions until such Division is represented by Twenty-four Senators and no more. (16)
 
-(14) Repealed by the Statute Law Revision Act, 1893 , 56-57 Vict., c. 14 (U.K.). The section read as follows:
+(14) Repealed by the Statute Law Revision Act, 1893, 56-57 Vict., c. 14 (U.K.). The section read as follows:
 
-25. Such Persons shall be first summoned to the Senate as the Queen by Warrant under Her Majesty's Royal Sign Manual thinks fit to approve, and their Names shall be inserted in the Queen's Proclamation of Union.
+25. Such Persons shall be first summoned to the Senate as the Queen by Warrant under Her Majesty’s Royal Sign Manual thinks fit to approve, and their Names shall be inserted in the Queen’s Proclamation of Union.
 
-(15) As amended by the Constitution Act, 1915 , 5-6 Geo. V, c. 45 (U.K.). The original section read as follows:
+(15) As amended by the Constitution Act, 1915, 5-6 Geo. V, c. 45 (U.K.). The original section read as follows:
 
 26. If at any Time on the Recommendation of the Governor General the Queen thinks fit to direct that Three or Six Members be added to the Senate, the Governor General may by Summons to Three or Six qualified Persons (as the Case may be), representing equally the Three Divisions of Canada, add to the Senate accordingly.
 
-(16) As amended by the Constitution Act, 1915 , 5-6 Geo. V, c. 45 (U.K.). The original section read as follows:
+(16) As amended by the Constitution Act, 1915, 5-6 Geo. V, c. 45 (U.K.). The original section read as follows:
 
 27. In case of such Addition being at any Time made the Governor General shall not summon any Person to the Senate except on a further like Direction by the Queen on the like Recommendation, until each of the Three Divisions of Canada is represented by Twenty-four Senators and no more.
-
-8
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
 Constitution Act, 1867
+9
 
 #### Maximum Number of Senators
 
@@ -528,23 +1066,21 @@ Constitution Act, 1867
 
 31. The Place of a Senator shall become vacant in any of the following Cases:
 
-- If for Two consecutive Sessions of the Parliament he fails to give his Attendance in the Senate;
+(1) If for Two consecutive Sessions of the Parliament he fails to give his Attendance in the Senate;
 
-- If  he  takes  an  Oath  or  makes  a  Declaration  or  Acknowledgment  of  Allegiance, Obedience, or Adherence to a Foreign Power, or does an Act whereby he becomes a Subject or Citizen, or entitled to the Rights or Privileges of a Subject or Citizen, of a Foreign Power;
+(2) If he takes an Oath or makes a Declaration or Acknowledgment of Allegiance, Obedience, or Adherence to a Foreign Power, or does an Act whereby he becomes a Subject or Citizen, or entitled to the Rights or Privileges of a Subject or Citizen, of a Foreign Power;
 
-- If  he  is  adjudged  Bankrupt  or  Insolvent,  or  applies  for  the  Benefit  of  any Law relating to Insolvent Debtors, or becomes a public Defaulter;
+(3) If he is adjudged Bankrupt or Insolvent, or applies for the Benefit of any Law relating to Insolvent Debtors, or becomes a public Defaulter;
 
-- If  he  is  attainted  of  Treason  or  convicted  of  Felony  or  of  any  infamous Crime;
+(4) If he is attainted of Treason or convicted of Felony or of any infamous Crime;
 
-(17) As amended by the Constitution Act, 1915 , 5-6 Geo. V, c. 45 (U.K.), the Constitution Act (No. 2), 1975 , S.C. 1974-75-76, c. 53, and the Constitution Act, 1999 (Nunavut) , S.C. 1998, c. 15, Part 2. The original section read as follows:
+(17) As amended by the Constitution Act, 1915, 5-6 Geo. V, c. 45 (U.K.), the Constitution Act (No. 2), 1975, S.C. 1974-75-76, c. 53, and the Constitution Act, 1999 (Nunavut), S.C. 1998, c. 15, Part 2. The original section read as follows:
 
-> 28. The Number of Senators shall not at any Time exceed Seventy-eight.
+28. The Number of Senators shall not at any Time exceed Seventy-eight.
 
-(18) As enacted by the Constitution Act, 1965 , S.C. 1965, c. 4, which came into force on June 2, 1965. The original section read as follows:
+(18) As enacted by the Constitution Act, 1965, S.C. 1965, c. 4, which came into force on June 2, 1965. The original section read as follows:
 
-> 29. A Senator shall, subject to the Provisions of this Act, hold his Place in the Senate for Life.
-
-9
+29. A Senator shall, subject to the Provisions of this Act, hold his Place in the Senate for Life.
 
 [[END OF PAGE 25]]
 
@@ -552,7 +1088,7 @@ Constitution Act, 1867
 
 Constitution Act, 1867
 
-- If he ceases to be qualified in respect of Property or of Residence; provided, that a Senator shall not be deemed to have ceased to be qualified in respect of Residence by reason only of his residing at the Seat of the Government of Canada while holding an Office under that Government requiring his Presence there.
+(5) If he ceases to be qualified in respect of Property or of Residence; provided, that a Senator shall not be deemed to have ceased to be qualified in respect of Residence by reason only of his residing at the Seat of the Government of Canada while holding an Office under that Government requiring his Presence there.
 
 #### Summons on Vacancy in Senate
 
@@ -614,7 +1150,7 @@ Quebec shall be divided into Sixty-five Electoral Districts, composed of the Six
 
 (20) The figures given here result from the application of section 51, as enacted by the Constitution Act, 1985 (Representation) , S.C. 1986, c. 8, Part I, and amended by the Constitution Act, 1999 (Nunavut) , S.C. 1998, c. 15, Part 2, and readjustments made pursuant to the Electoral Boundaries Readjustment Act , R.S.C. 1985, c. E-3. The original section (which was altered from time to time as the result of the addition of new provinces and changes in population) read as follows:
 
-> 37. The House of Commons shall, subject to the Provisions of this Act, consist of one hundred and eightyone members, of whom Eighty-two shall be elected for Ontario, Sixty-five for Quebec, Nineteen for Nova Scotia, and Fifteen for New Brunswick.
+> 37. The House of Commons shall, subject to the Provisions of this Act, consist of one hundred and eighty-one members, of whom Eighty-two shall be elected for Ontario, Sixty-five for Quebec, Nineteen for Nova Scotia, and Fifteen for New Brunswick.
 
 11
 
@@ -634,7 +1170,7 @@ Each of the Fourteen Counties into which New Brunswick is divided, including the
 
 #### Continuance of existing Election Laws until Parliament of Canada otherwise provides
 
-41. Until the Parliament of Canada otherwise provides, all Laws in force in the several  Provinces  at  the  Union  relative  to  the  following  Matters  or  any  of  them, namely, - the Qualifications and Disqualifications of Persons to be elected or to sit or vote as Members of the House of Assembly or Legislative Assembly in the several Provinces, the Voters at Elections of such Members, the Oaths to be taken by Voters, the Returning Officers, their Powers and Duties, the Proceedings at Elections, the Periods during which Elections may be continued, the Trial of controverted Elections, and Proceedings incident thereto, the vacating of Seats of Members, and the Execution of new Writs in case of Seats vacated otherwise than by Dissolution, - shall respectively apply to Elections of Members to serve in the House of Commons for the same several Provinces.
+41. Until the Parliament of Canada otherwise provides, all Laws in force in the several Provinces at the Union relative to the following Matters or any of them, namely, — the Qualifications and Disqualifications of Persons to be elected or to sit or vote as Members of the House of Assembly or Legislative Assembly in the several Provinces, the Voters at Elections of such Members, the Oaths to be taken by Voters, the Returning Officers, their Powers and Duties, the Proceedings at Elections, the Periods during which Elections may be continued, the Trial of controverted Elections, and Proceedings incident thereto, the vacating of Seats of Members, and the Execution of new Writs in case of Seats vacated otherwise than by Dissolution, — shall respectively apply to Elections of Members to serve in the House of Commons for the same several Provinces.
 
 Provided that, until the Parliament of Canada otherwise provides, at any Election for a Member of the House of Commons for the District of Algoma, in addition to Persons qualified by the Law of the Province of Canada to vote, every Male British Subject,  aged  Twenty-one  Years  or  upwards,  being  a  Householder,  shall  have  a Vote. (22)
 
@@ -708,11 +1244,11 @@ Constitution Act, 1867
 
 ##### Rules
 
-- There shall be assigned to each of the provinces a number of members equal to  the  number  obtained  by  dividing  the  population  of  the  province  by  the electoral quotient and rounding up any fractional remainder to one.
+1. There shall be assigned to each of the provinces a number of members equal to the number obtained by dividing the population of the province by the electoral quotient and rounding up any fractional remainder to one.
 
-- If the number of members assigned to a province by the application of rule 1 and section 51A is less than the total number assigned to that province on the date of the coming into force of the Constitution Act, 1985 (Representation) , there shall be added to the number of members so assigned such number  of  members  as  will  result  in  the  province  having  the  same  number  of members as were assigned on that date.
+2. If the number of members assigned to a province by the application of rule 1 and section 51A is less than the total number assigned to that province on the date of the coming into force of the Constitution Act, 1985 (Representation), there shall be added to the number of members so assigned such number of members as will result in the province having the same number of members as were assigned on that date.
 
-- After the application of rules 1 and 2 and section 51A, there shall, in respect of each province that meets the condition set out in rule 4, be added, if nec-
+3. After the application of rules 1 and 2 and section 51A, there shall, in respect of each province that meets the condition set out in rule 4, be added, if nec-
 
 (26) The term of the 12 th  Parliament was extended by the British North America Act, 1916 , 6-7 Geo. V., c. 19 (U.K.), which Act was repealed by the Statute Law Revision Act, 1927 , 17-18 Geo. V, c. 42 (U.K.). See also the Constitution Act, 1982 , subsection 4(1), which provides that no House of Commons shall continue for longer than five years from the date fixed for the return of the writs at a general election of its members, and subsection 4(2), which provides for continuation of the House of Commons in special circumstances.
 
@@ -726,15 +1262,15 @@ Constitution Act, 1867
 
 essary, a number of members such that, on the completion of the readjustment, the number obtained by dividing the number of members assigned to that province by the total number of members assigned to all the provinces is as close as possible to, without being below, the number obtained by dividing  the  population  of  that  province  by  the  total  population  of  all  the provinces.
 
-- Rule 3 applies to a province if, on the completion of the preceding readjustment, the number obtained by dividing the number of members assigned to that province by the total number of members assigned to all the provinces was equal to or greater than the number obtained by dividing the population of that province by the total population of all the provinces, the population of each province being its population as at July 1 of the year of the decennial census that preceded that readjustment according to the estimates prepared for the purpose of that readjustment.
+4. Rule 3 applies to a province if, on the completion of the preceding readjustment, the number obtained by dividing the number of members assigned to that province by the total number of members assigned to all the provinces was equal to or greater than the number obtained by dividing the population of that province by the total population of all the provinces, the population of each province being its population as at July 1 of the year of the decennial census that preceded that readjustment according to the estimates prepared for the purpose of that readjustment.
 
-- Unless  the  context  indicates  otherwise,  in  these  rules,  the  population  of  a province is the estimate of its population as at July 1 of the year of the most recent decennial census.
+5. Unless the context indicates otherwise, in these rules, the population of a province is the estimate of its population as at July 1 of the year of the most recent decennial census.
 
-- In these rules, 'electoral quotient' means
+6. In these rules, “electoral quotient” means
 
-( a ) 111,166, in relation to the readjustment following the completion of the 2011 decennial census, and
+(a) 111,166, in relation to the readjustment following the completion of the 2011 decennial census, and
 
-( b ) in relation to the readjustment following the completion of any subsequent decennial census, the number obtained by multiplying the electoral  quotient  that  was  applied  in  the  preceding  readjustment  by  the number  that  is  the  average  of  the  numbers  obtained  by  dividing  the population of each province by the population of the province as at July 1 of the year of the preceding decennial census according to the estimates  prepared  for  the  purpose  of  the  preceding  readjustment,  and rounding up any fractional remainder of that multiplication to one.
+(b) in relation to the readjustment following the completion of any subsequent decennial census, the number obtained by multiplying the electoral quotient that was applied in the preceding readjustment by the number that is the average of the numbers obtained by dividing the population of each province by the population of the province as at July 1 of the year of the preceding decennial census according to the estimates prepared for the purpose of the preceding readjustment, and rounding up any fractional remainder of that multiplication to one.
 
 15
 
@@ -746,7 +1282,7 @@ Constitution Act, 1867
 
 ##### Population estimates
 
-(1.1) For the purpose of the rules in subsection (1), there is required to be prepared an estimate of the population of Canada and of each province as at July 1, 2001 and July 1, 2011 - and, in each year following the 2011 decennial census in which a decennial census is taken, as at July 1 of that year - by such authority, in such manner, and from such time as the Parliament of Canada provides from time to time. (27)
+(1.1) For the purpose of the rules in subsection (1), there is required to be prepared an estimate of the population of Canada and of each province as at July 1, 2001 and July 1, 2011 — and, in each year following the 2011 decennial census in which a decennial census is taken, as at July 1 of that year — by such authority, in such manner, and from such time as the Parliament of Canada provides from time to time. (27)
 
 (27) As enacted by the Fair Representation Act , S.C. 2011, c. 26, s. 2, which came into force on royal assent on December 16, 2011.
 
@@ -772,25 +1308,11 @@ For further details, see endnote 2.
 
 [[START OF PAGE 33]]
 
-#### Appropriation and Tax Bills
-
-53. Bills for appropriating any Part of the Public Revenue, or for imposing any Tax or Impost, shall originate in the House of Commons.
-
-#### Recommendation of Money Votes
-
-54. It shall not be lawful for the House of Commons to adopt or pass any Vote, Resolution, Address, or Bill for the Appropriation of any Part of the Public Revenue, or of any Tax or Impost, to any Purpose that has not been first recommended to  that  House  by  Message  of  the  Governor  General  in  the  Session  in  which  such Vote, Resolution, Address, or Bill is proposed.
-
-(28) As enacted by the Constitution Act, 1999 (Nunavut) , S.C. 1998, c. 15, Part 2. Note that the description of the territory of Yukon is now set out in Schedule 1 to the Yukon Act , S.C. 2002, c. 7, which replaced R.S.C. 1985, c. Y-2. Subsection 51(2) was previously amended by the Constitution Act (No. 1), 1975 , S.C. 1974-75-76, c. 28, and read as follows:
-
-(2) The Yukon Territory as bounded and described in the schedule to chapter Y-2 of the Revised Statutes of Canada, 1970, shall be entitled to one member, and the Northwest Territories as bounded and described in section 2 of chapter N-22 of the Revised Statutes of Canada, 1970, shall be entitled to two members.
-
-(29) As enacted by the Constitution Act, 1915 , 5-6 Geo. V, c. 45 (U.K.).
-
 Constitution Act, 1867
 
 ##### Yukon Territory, Northwest Territories and Nunavut
 
-(2) The  Yukon  Territory  as  bounded  and  described  in  the  schedule  to  chapter Y-2 of the Revised Statutes of Canada, 1985, shall be entitled to one member, the Northwest Territories as bounded and described in section 2 of chapter N-27 of the Revised Statutes of Canada, 1985, as amended by section 77 of chapter 28 of the Statutes of Canada, 1993, shall be entitled to one member, and Nunavut as bounded and described in section 3 of chapter 28 of the Statutes of Canada, 1993, shall be entitled to one member. (28)
+(2) The Yukon Territory as bounded and described in the schedule to chapter Y-2 of the Revised Statutes of Canada, 1985, shall be entitled to one member, the Northwest Territories as bounded and described in section 2 of chapter N-27 of the Revised Statutes of Canada, 1985, as amended by section 77 of chapter 28 of the Statutes of Canada, 1993, shall be entitled to one member, and Nunavut as bounded and described in section 3 of chapter 28 of the Statutes of Canada, 1993, shall be entitled to one member. (28)
 
 #### Constitution of House of Commons
 
@@ -801,6 +1323,20 @@ Constitution Act, 1867
 52. The Number of Members of the House of Commons may be from Time to Time increased by the Parliament of Canada, provided the proportionate Representation of the Provinces prescribed by this Act is not thereby disturbed.
 
 ### MONEY VOTES; ROYAL ASSENT
+
+#### Appropriation and Tax Bills
+
+53. Bills for appropriating any Part of the Public Revenue, or for imposing any Tax or Impost, shall originate in the House of Commons.
+
+#### Recommendation of Money Votes
+
+54. It shall not be lawful for the House of Commons to adopt or pass any Vote, Resolution, Address, or Bill for the Appropriation of any Part of the Public Revenue, or of any Tax or Impost, to any Purpose that has not been first recommended to that House by Message of the Governor General in the Session in which such Vote, Resolution, Address, or Bill is proposed.
+
+(28) As enacted by the Constitution Act, 1999 (Nunavut), S.C. 1998, c. 15, Part 2. Note that the description of the territory of Yukon is now set out in Schedule 1 to the Yukon Act, S.C. 2002, c. 7, which replaced R.S.C. 1985, c. Y-2. Subsection 51(2) was previously amended by the Constitution Act (No. 1), 1975, S.C. 1974-75-76, c. 28, and read as follows:
+
+(2) The Yukon Territory as bounded and described in the schedule to chapter Y-2 of the Revised Statutes of Canada, 1970, shall be entitled to one member, and the Northwest Territories as bounded and described in section 2 of chapter N-22 of the Revised Statutes of Canada, 1970, shall be entitled to two members.
+
+(29) As enacted by the Constitution Act, 1915, 5-6 Geo. V, c. 45 (U.K.).
 
 17
 
@@ -860,7 +1396,7 @@ within One Week thereafter if the Parliament is then sitting, and if not then wi
 
 #### Appointment of Executive Officers for Ontario and Quebec
 
-63. The Executive Council of Ontario and of Quebec shall be composed of such Persons as the Lieutenant Governor from Time to Time thinks fit, and in the first instance of the following Officers, namely, - the Attorney General, the Secretary and Registrar of the Province, the Treasurer of the Province, the Commissioner of Crown  Lands,  and  the  Commissioner  of  Agriculture  and  Public  Works,  with  in Quebec the Speaker of the Legislative Council and the Solicitor General. (31)
+63. The Executive Council of Ontario and of Quebec shall be composed of such Persons as the Lieutenant Governor from Time to Time thinks fit, and in the first instance of the following Officers, namely, — the Attorney General, the Secretary and Registrar of the Province, the Treasurer of the Province, the Commissioner of Crown Lands, and the Commissioner of Agriculture and Public Works, with in Quebec the Speaker of the Legislative Council and the Solicitor General. (31)
 
 #### Executive Government of Nova Scotia and New Brunswick
 
@@ -882,15 +1418,9 @@ within One Week thereafter if the Parliament is then sitting, and if not then wi
 
 [[START OF PAGE 36]]
 
-##### Legislature for Ontario
-
-69. There shall be a Legislature for Ontario consisting of the Lieutenant Governor and of One House, styled the Legislative Assembly of Ontario.
-
-(33) See footnote (65) to section 129, below.
-
 Constitution Act, 1867
 
-and Ireland, or of the Legislature of Upper Canada, Lower Canada, or Canada, were or are before or at the Union vested in or exerciseable by the respective Governors or Lieutenant Governors of those Provinces, with the Advice or with the Advice and Consent of the respective Executive Councils thereof, or in conjunction with those Councils, or with any Number of Members thereof, or by those Governors or Lieutenant Governors individually, shall, as far as the same are capable of being exercised after the Union in relation to the Government of Ontario and Quebec respectively,  be  vested  in  and  shall  or  may  be  exercised  by  the  Lieutenant  Governor  of Ontario and Quebec respectively, with the Advice or with the Advice and Consent of or in conjunction with the respective Executive Councils, or any Members thereof, or by the Lieutenant Governor individually, as the Case requires, subject nevertheless (except with respect to such as exist under Acts of the Parliament of Great Britain, or of the Parliament of the United Kingdom of Great Britain and Ireland,) to be abolished or altered by the respective Legislatures of Ontario and Quebec. (33)
+and Ireland, or of the Legislature of Upper Canada, Lower Canada, or Canada, were or are before or at the Union vested in or exerciseable by the respective Governors or Lieutenant Governors of those Provinces, with the Advice or with the Advice and Consent of the respective Executive Councils thereof, or in conjunction with those Councils, or with any Number of Members thereof, or by those Governors or Lieutenant Governors individually, shall, as far as the same are capable of being exercised after the Union in relation to the Government of Ontario and Quebec respectively, be vested in and shall or may be exercised by the Lieutenant Governor of Ontario and Quebec respectively, with the Advice or with the Advice and Consent of or in conjunction with the respective Executive Councils, or any Members thereof, or by the Lieutenant Governor individually, as the Case requires, subject nevertheless (except with respect to such as exist under Acts of the Parliament of Great Britain, or of the Parliament of the United Kingdom of Great Britain and Ireland,) to be abolished or altered by the respective Legislatures of Ontario and Quebec. (33)
 
 #### Application of Provisions referring to Lieutenant Governor in Council
 
@@ -902,11 +1432,17 @@ and Ireland, or of the Legislature of Upper Canada, Lower Canada, or Canada, wer
 
 #### Seats of Provincial Governments
 
-68. Unless  and  until  the  Executive  Government  of  any  Province  otherwise  directs with respect to that Province, the Seats of Government of the Provinces shall be as follows, namely, - of Ontario, the City of Toronto; of Quebec, the City of Quebec; of Nova Scotia, the City of Halifax; and of New Brunswick, the City of Fredericton.
+68. Unless and until the Executive Government of any Province otherwise directs with respect to that Province, the Seats of Government of the Provinces shall be as follows, namely, — of Ontario, the City of Toronto; of Quebec, the City of Quebec; of Nova Scotia, the City of Halifax; and of New Brunswick, the City of Fredericton.
 
 ### LEGISLATIVE POWER
 
 #### 1. Ontario
+
+##### Legislature for Ontario
+
+69. There shall be a Legislature for Ontario consisting of the Lieutenant Governor and of One House, styled the Legislative Assembly of Ontario.
+
+(33) See footnote (65) to section 129, below.
 
 20
 
@@ -914,9 +1450,11 @@ and Ireland, or of the Legislature of Upper Canada, Lower Canada, or Canada, wer
 
 [[START OF PAGE 37]]
 
+Constitution Act, 1867
+
 ##### Electoral districts
 
-70. The Legislative Assembly of Ontario shall be composed of Eighty-two Members,  to  be  elected  to  represent  the  Eighty-two  Electoral  Districts  set  forth  in  the First Schedule to this Act. (34)
+70. The Legislative Assembly of Ontario shall be composed of Eighty-two Members, to be elected to represent the Eighty-two Electoral Districts set forth in the First Schedule to this Act. (34)
 
 #### 2. Quebec
 
@@ -930,21 +1468,19 @@ and Ireland, or of the Legislature of Upper Canada, Lower Canada, or Canada, wer
 
 ##### Qualification of Legislative Councillors
 
-73. The  Qualifications  of  the  Legislative  Councillors  of  Quebec  shall  be  the same as those of the Senators for Quebec.
+73. The Qualifications of the Legislative Councillors of Quebec shall be the same as those of the Senators for Quebec.
 
 ##### Resignation, Disqualification, etc.
 
-74. The Place of a Legislative Councillor of Quebec shall become vacant in the Cases, mutatis mutandis , in which the Place of Senator becomes vacant.
+74. The Place of a Legislative Councillor of Quebec shall become vacant in the Cases, mutatis mutandis, in which the Place of Senator becomes vacant.
 
 ##### Vacancies
 
 75. When a Vacancy happens in the Legislative Council of Quebec by Resignation, Death, or otherwise, the Lieutenant Governor, in the Queen's Name, by Instrument under the Great Seal of Quebec, shall appoint a fit and qualified Person to fill the Vacancy.
 
-(34) Spent. Now covered by the Representation Act, 2005 , S.O. 2005, c. 35, Schedule 1.
+(34) Spent. Now covered by the Representation Act, 2005, S.O. 2005, c. 35, Schedule 1.
 
-(35) An Act respecting the Legislative Council of Quebec , S.Q. 1968, c. 9, provided that the Legislature for Quebec shall consist of the Lieutenant Governor and the National Assembly of Quebec, and repealed the provisions of the Legislature Act , R.S.Q. 1964, c. 6, relating to the Legislative Council of Quebec. Now covered by the National Assembly Act , R.S.Q. c. A-23.1. Sections 72 to 79 following are therefore completely spent.
-
-Constitution Act, 1867
+(35) An Act respecting the Legislative Council of Quebec, S.Q. 1968, c. 9, provided that the Legislature for Quebec shall consist of the Lieutenant Governor and the National Assembly of Quebec, and repealed the provisions of the Legislature Act, R.S.Q. 1964, c. 6, relating to the Legislative Council of Quebec. Now covered by the National Assembly Act, R.S.Q. c. A-23.1. Sections 72 to 79 following are therefore completely spent.
 
 21
 
@@ -1002,7 +1538,7 @@ Constitution Act, 1867
 
 ##### Continuance of existing Election Laws
 
-84. Until the legislatures of Ontario and Quebec respectively otherwise provide, all Laws which at the Union are in force in those Provinces respectively, relative to the following Matters, or any of them, namely, - the Qualifications and Disqualifications of Persons to be elected or to sit or vote as Members of the Assembly of Canada, the Qualifications or Disqualifications of Voters, the Oaths to be taken by Voters, the Returning Officers, their Powers and Duties, the Proceedings at Elections, the Periods during which such Elections may be continued, and the Trial of controverted  Elections  and  the  Proceedings  incident  thereto,  the  vacating  of  the Seats of Members and the issuing and execution of new Writs in case of Seats vacated  otherwise  than  by  Dissolution,  -  shall  respectively  apply  to  Elections  of Members to serve in the respective Legislative Assemblies of Ontario and Quebec.
+84. Until the legislatures of Ontario and Quebec respectively otherwise provide, all Laws which at the Union are in force in those Provinces respectively, relative to the following Matters, or any of them, namely, — the Qualifications and Disqualifications of Persons to be elected or to sit or vote as Members of the Assembly of Canada, the Qualifications or Disqualifications of Voters, the Oaths to be taken by Voters, the Returning Officers, their Powers and Duties, the Proceedings at Elections, the Periods during which such Elections may be continued, and the Trial of controverted Elections and the Proceedings incident thereto, the vacating of the Seats of Members and the issuing and execution of new Writs in case of Seats vacated otherwise than by Dissolution, — shall respectively apply to Elections of Members to serve in the respective Legislative Assemblies of Ontario and Quebec.
 
 (38) Probably spent. The subject-matter of this section is now covered in Ontario by the Legislative Assembly Act , R.S.O. 1990, c. L.10, and in Quebec by the National Assembly Act , R.S.Q. c. A-23.1.
 
@@ -1026,7 +1562,7 @@ Provided that, until the Legislature of Ontario otherwise provides, at any Elect
 
 ##### Speaker, Quorum, etc.
 
-87. The following Provisions of this Act respecting the House of Commons of Canada shall extend and apply to the Legislative Assemblies of Ontario and Quebec, that is to say, - the Provisions relating to the Election of a Speaker originally and on Vacancies, the Duties of the Speaker, the Absence of the Speaker, the Quorum, and the Mode of voting, as if those Provisions were here re-enacted and made applicable in Terms to each such Legislative Assembly.
+87. The following Provisions of this Act respecting the House of Commons of Canada shall extend and apply to the Legislative Assemblies of Ontario and Quebec, that is to say, — the Provisions relating to the Election of a Speaker originally and on Vacancies, the Duties of the Speaker, the Absence of the Speaker, the Quorum, and the Mode of voting, as if those Provisions were here re-enacted and made applicable in Terms to each such Legislative Assembly.
 
 (39) Probably spent. The subject-matter of this section is now covered in Ontario by the Election Act , R.S.O. 1990, c. E.6, and the Legislative Assembly Act , R.S.O. 1990, c. L.10, and in Quebec by the Election Act , R.S.Q. c. E-3.3 and the National Assembly Act , R.S.Q. c. A-23.1.
 
@@ -1040,8 +1576,6 @@ Provided that, until the Legislature of Ontario otherwise provides, at any Elect
 
 [[START OF PAGE 41]]
 
-89. Repealed. (43)
-
 Constitution Act, 1867
 
 #### 4. Nova Scotia and New Brunswick
@@ -1052,23 +1586,25 @@ Constitution Act, 1867
 
 #### 5. Ontario, Quebec, and Nova Scotia
 
+89. Repealed. (43)
+
 #### 6. The Four Provinces
 
 ##### Application to Legislatures of Provisions respecting Money Votes, etc.
 
-90. The following  Provisions  of  this  Act  respecting  the  Parliament  of  Canada, namely, - the Provisions relating to Appropriation and Tax Bills, the Recommendation of Money Votes, the Assent to Bills, the Disallowance of Acts, and the Signification of Pleasure on Bills reserved, - shall extend and apply to the Legislatures of the several Provinces as if those Provisions were here re-enacted and made applicable  in  Terms  to  the  respective  Provinces  and  the  Legislatures  thereof,  with  the Substitution of the Lieutenant Governor of the Province for the Governor General,
+90. The following Provisions of this Act respecting the Parliament of Canada, namely, — the Provisions relating to Appropriation and Tax Bills, the Recommendation of Money Votes, the Assent to Bills, the Disallowance of Acts, and the Signification of Pleasure on Bills reserved, — shall extend and apply to the Legislatures of the several Provinces as if those Provisions were here re-enacted and made applicable in Terms to the respective Provinces and the Legislatures thereof, with the Substitution of the Lieutenant Governor of the Province for the Governor General,
 
-(42) Partially repealed by the Statute Law Revision Act, 1893 , 56-57 Vict., c. 14 (U.K.), which deleted the following concluding words of the original enactment:
+(42) Partially repealed by the Statute Law Revision Act, 1893, 56-57 Vict., c. 14 (U.K.), which deleted the following concluding words of the original enactment:
 
 and the House of Assembly of New Brunswick existing at the passing of this Act shall, unless soooner dissolved, continue for the Period for which it was elected.
 
-A  similar  provision  was  included  in  each  of  the  instruments  admitting  British Columbia, Prince Edward Island and Newfoundland. The Legislatures of Manitoba, Alberta and Saskatchewan were established by the statutes creating those provinces. See footnote (6) to section 5, above.
+A similar provision was included in each of the instruments admitting British Columbia, Prince Edward Island and Newfoundland. The Legislatures of Manitoba, Alberta and Saskatchewan were established by the statutes creating those provinces. See footnote (6) to section 5, above.
 
-See  also  sections  3  to  5  of  the Constitution  Act,  1982 ,  which  prescribe  democratic rights applicable to all provinces, and subitem 2(2) of the Schedule to that Act, which sets out the repeal of section 20 of the Manitoba Act, 1870 . Section 20 of the Manitoba Act, 1870 has been replaced by section 5 of the Constitution Act, 1982 . Section 20 read as follows:
+See also sections 3 to 5 of the Constitution Act, 1982, which prescribe democratic rights applicable to all provinces, and subitem 2(2) of the Schedule to that Act, which sets out the repeal of section 20 of the Manitoba Act, 1870. Section 20 of the Manitoba Act, 1870 has been replaced by section 5 of the Constitution Act, 1982. Section 20 read as follows:
 
 20. There shall be a Session of the Legislature once at least in every year, so that twelve months shall not intervene between the last sitting of the Legislature in one Session and its first sitting in the next Session.
 
-(43) Repealed by the Statute Law Revision Act, 1893 , 56-57 Vict., c. 14 (U.K.). The section read as follows:
+(43) Repealed by the Statute Law Revision Act, 1893, 56-57 Vict., c. 14 (U.K.). The section read as follows:
 
 89. Each of the Lieutenant Governors of Ontario, Quebec and Nova Scotia shall cause Writs to be issued for the First Election of Members of the Legislative Assembly thereof in such Form and by such Person as he thinks fit, and at such Time and addressed to such Returning Officer as the Governor General directs, and so that the First Election of Member of Assembly for any Electoral District or any Subdivision thereof shall be held at the same Time and at the same Places as the Election for a Member to serve in the House of Commons of Canada for that Electoral District.
 
@@ -1090,17 +1626,17 @@ of the Governor General for the Queen and for a Secretary of State, of One Year 
 
 91. It shall be lawful for the Queen, by and with the Advice and Consent of the Senate and House of Commons, to make Laws for the Peace, Order, and good Government of Canada, in relation to all Matters not coming within the Classes of Subjects by this Act assigned exclusively to the Legislatures of the Provinces; and for greater Certainty, but not so as to restrict the Generality of the foregoing Terms of this Section, it is hereby declared that (notwithstanding anything in this Act) the exclusive  Legislative  Authority  of  the  Parliament  of  Canada  extends  to  all  Matters coming within the Classes of Subjects next hereinafter enumerated; that is to say,
 
-- Repealed. (44)
+1. Repealed. (44)
 
-- 1A. The Public Debt and Property. (45)
+1A. The Public Debt and Property. (45)
 
-- The Regulation of Trade and Commerce.
+2. The Regulation of Trade and Commerce.
 
-- 2A. Unemployment insurance. (46)
+2A. Unemployment insurance. (46)
 
-- The raising of Money by any Mode or System of Taxation.
+3. The raising of Money by any Mode or System of Taxation.
 
-- The borrowing of Money on the Public Credit.
+4. The borrowing of Money on the Public Credit.
 
 (44) A new class 1 was added by the British North America (No. 2) Act, 1949 , 13 Geo. VI, c. 81 (U.K.). That Act and class 1 were repealed by the Constitution Act, 1982 . The matters referred to in class 1 are provided for in subsection 4(2) and Part V of the Constitution Act, 1982 . As enacted, class 1 read as follows:
 
@@ -1108,7 +1644,7 @@ of the Governor General for the Queen and for a Secretary of State, of One Year 
 
 (45) The original class 1 was re-numbered by the British North America (No. 2) Act, 1949 , 13 Geo. VI, c. 81 (U.K.), as class 1A.
 
-- Added by the Constitution Act, 1940 , 3-4 Geo. VI, c. 36 (U.K.).
+(46) Added by the Constitution Act, 1940, 3-4 Geo. VI, c. 36 (U.K.).
 
 26
 
@@ -1118,49 +1654,49 @@ of the Governor General for the Queen and for a Secretary of State, of One Year 
 
 Constitution Act, 1867
 
-- Postal Service.
+5. Postal Service.
 
-- The Census and Statistics.
+6. The Census and Statistics.
 
-- Militia, Military and Naval Service, and Defence.
+7. Militia, Military and Naval Service, and Defence.
 
-- The fixing  of  and  providing  for  the  Salaries  and  Allowances  of  Civil  and other Officers of the Government of Canada.
+8. The fixing of and providing for the Salaries and Allowances of Civil and other Officers of the Government of Canada.
 
-- Beacons, Buoys, Lighthouses, and Sable Island.
+9. Beacons, Buoys, Lighthouses, and Sable Island.
 
-- Navigation and Shipping.
+10. Navigation and Shipping.
 
-- Quarantine and the Establishment and Maintenance of Marine Hospitals.
+11. Quarantine and the Establishment and Maintenance of Marine Hospitals.
 
-- Sea Coast and Inland Fisheries.
+12. Sea Coast and Inland Fisheries.
 
-- Ferries between a Province and any British or Foreign Country or between Two Provinces.
+13. Ferries between a Province and any British or Foreign Country or between Two Provinces.
 
-- Currency and Coinage.
+14. Currency and Coinage.
 
-- Banking, Incorporation of Banks, and the Issue of Paper Money.
+15. Banking, Incorporation of Banks, and the Issue of Paper Money.
 
-- Savings Banks.
+16. Savings Banks.
 
-- Weights and Measures.
+17. Weights and Measures.
 
-- Bills of Exchange and Promissory Notes.
+18. Bills of Exchange and Promissory Notes.
 
-- Interest.
+19. Interest.
 
-- Legal Tender.
+20. Legal Tender.
 
-- Bankruptcy and Insolvency.
+21. Bankruptcy and Insolvency.
 
-- Patents of Invention and Discovery.
+22. Patents of Invention and Discovery.
 
-- Copyrights.
+23. Copyrights.
 
-- Indians, and Lands reserved for the Indians.
+24. Indians, and Lands reserved for the Indians.
 
-- Naturalization and Aliens.
+25. Naturalization and Aliens.
 
-- Marriage and Divorce.
+26. Marriage and Divorce.
 
 27
 
@@ -1170,11 +1706,11 @@ Constitution Act, 1867
 
 Constitution Act, 1867
 
-- The Criminal Law, except the Constitution of Courts of Criminal Jurisdiction, but including the Procedure in Criminal Matters.
+27. The Criminal Law, except the Constitution of Courts of Criminal Jurisdiction, but including the Procedure in Criminal Matters.
 
-- The Establishment, Maintenance, and Management of Penitentiaries.
+28. The Establishment, Maintenance, and Management of Penitentiaries.
 
-- Such Classes of Subjects as are expressly excepted in the Enumeration of the Classes of Subjects by this Act assigned exclusively to the Legislatures of the Provinces.
+29. Such Classes of Subjects as are expressly excepted in the Enumeration of the Classes of Subjects by this Act assigned exclusively to the Legislatures of the Provinces.
 
 And any Matter coming within any of the Classes of Subjects enumerated in this Section shall not be deemed to come within the Class of Matters of a local or private Nature comprised in the Enumeration of the Classes of Subjects by this Act assigned exclusively to the Legislatures of the Provinces. (47)
 
@@ -1184,17 +1720,17 @@ And any Matter coming within any of the Classes of Subjects enumerated in this S
 
 92. In each Province the Legislature may exclusively make Laws in relation to Matters coming within the Classes of Subjects next hereinafter enumerated; that is to say,
 
-- Repealed. (48)
+1. Repealed. (48)
 
-- Direct Taxation within the Province in order to the raising of a Revenue for Provincial Purposes.
+2. Direct Taxation within the Province in order to the raising of a Revenue for Provincial Purposes.
 
-- The borrowing of Money on the sole Credit of the Province.
+3. The borrowing of Money on the sole Credit of the Province.
 
-- The Establishment and Tenure of Provincial Offices and the Appointment and Payment of Provincial Officers.
+4. The Establishment and Tenure of Provincial Offices and the Appointment and Payment of Provincial Officers.
 
-- The Management and Sale of the Public Lands belonging to the Province and of the Timber and Wood thereon.
+5. The Management and Sale of the Public Lands belonging to the Province and of the Timber and Wood thereon.
 
-- The Establishment, Maintenance, and Management of Public and Reformatory Prisons in and for the Province.
+6. The Establishment, Maintenance, and Management of Public and Reformatory Prisons in and for the Province.
 
 (47) Legislative authority has been conferred on Parliament by other Acts. For further details, see endnote 3.
 
@@ -1212,38 +1748,38 @@ Section  45  of  the Constitution  Act,  1982 now  authorizes  legislatures  to 
 
 Constitution Act, 1867
 
-- The Establishment, Maintenance, and Management of Hospitals, Asylums, Charities, and Eleemosynary Institutions in and for the Province, other than Marine Hospitals.
+7. The Establishment, Maintenance, and Management of Hospitals, Asylums, Charities, and Eleemosynary Institutions in and for the Province, other than Marine Hospitals.
 
-- Municipal Institutions in the Province.
+8. Municipal Institutions in the Province.
 
-- Shop, Saloon, Tavern, Auctioneer, and other Licences in order to the raising of a Revenue for Provincial, Local, or Municipal Purposes.
+9. Shop, Saloon, Tavern, Auctioneer, and other Licences in order to the raising of a Revenue for Provincial, Local, or Municipal Purposes.
 
-- Local  Works  and  Undertakings  other  than  such  as  are  of  the  following Classes:
+10. Local Works and Undertakings other than such as are of the following Classes:
 
-( a ) Lines of Steam or other Ships, Railways, Canals, Telegraphs, and other Works  and  Undertakings  connecting  the  Province  with  any  other  or others of  the  Provinces,  or  extending  beyond  the  Limits  of  the Province:
+(a) Lines of Steam or other Ships, Railways, Canals, Telegraphs, and other Works and Undertakings connecting the Province with any other or others of the Provinces, or extending beyond the Limits of the Province:
 
-( b ) Lines of Steam Ships between the Province and any British or Foreign Country:
+(b) Lines of Steam Ships between the Province and any British or Foreign Country:
 
-( c ) Such Works as, although wholly situate within the Province, are before or after their Execution declared by the Parliament of Canada to be for the general Advantage of Canada or for the Advantage of Two or more of the Provinces.
+(c) Such Works as, although wholly situate within the Province, are before or after their Execution declared by the Parliament of Canada to be for the general Advantage of Canada or for the Advantage of Two or more of the Provinces.
 
-- The Incorporation of Companies with Provincial Objects.
+11. The Incorporation of Companies with Provincial Objects.
 
-- The Solemnization of Marriage in the Province.
+12. The Solemnization of Marriage in the Province.
 
-- Property and Civil Rights in the Province.
+13. Property and Civil Rights in the Province.
 
-- The  Administration  of  Justice  in  the  Province,  including  the  Constitution, Maintenance,  and  Organization  of  Provincial  Courts,  both  of  Civil  and  of Criminal  Jurisdiction,  and  including  Procedure  in  Civil  Matters  in  those Courts.
+14. The Administration of Justice in the Province, including the Constitution, Maintenance, and Organization of Provincial Courts, both of Civil and of Criminal Jurisdiction, and including Procedure in Civil Matters in those Courts.
 
-- The Imposition of Punishment by Fine, Penalty, or Imprisonment for enforcing any Law of the Province made in relation to any Matter coming within any of the Classes of Subjects enumerated in this Section.
+15. The Imposition of Punishment by Fine, Penalty, or Imprisonment for enforcing any Law of the Province made in relation to any Matter coming within any of the Classes of Subjects enumerated in this Section.
 
-- Generally all Matters of a merely local or private Nature in the Province.
+16. Generally all Matters of a merely local or private Nature in the Province.
 
 ### NON-RENEWABLE NATURAL RESOURCES, FORESTRY RESOURCES AND ELECTRICAL ENERGY
 #### Laws respecting non-renewable natural resources, forestry resources and electrical energy
 
 92A. (1) In each province, the legislature may exclusively make laws in relation to
 
-( a ) exploration for non-renewable natural resources in the province;
+(a) exploration for non-renewable natural resources in the province;
 
 29
 
@@ -1253,9 +1789,9 @@ Constitution Act, 1867
 
 Constitution Act, 1867
 
-( b ) development,  conservation  and  management  of  non-renewable  natural  resources and forestry resources in the province, including laws in relation to the rate of primary production therefrom; and
+(b) development, conservation and management of non-renewable natural resources and forestry resources in the province, including laws in relation to the rate of primary production therefrom; and
 
-( c ) development,  conservation  and  management  of  sites  and  facilities  in  the province for the generation and production of electrical energy.
+(c) development, conservation and management of sites and facilities in the province for the generation and production of electrical energy.
 
 ##### Export from provinces of resources
 
@@ -1269,15 +1805,15 @@ Constitution Act, 1867
 
 (4) In each province, the legislature may make laws in relation to the raising of money by any mode or system of taxation in respect of
 
-( a ) non-renewable natural resources and forestry resources in the province and the primary production therefrom, and
+(a) non-renewable natural resources and forestry resources in the province and the primary production therefrom, and
 
-( b ) sites and facilities in the province for the generation of electrical energy and the production therefrom,
+(b) sites and facilities in the province for the generation of electrical energy and the production therefrom,
 
 whether or not such production is exported in whole or in part from the province, but such laws may not authorize or provide for taxation that differentiates between production exported to another part of Canada and production not exported from the province.
 
-##### 'Primary production'
+##### “Primary production”
 
-(5) The expression 'primary production' has the meaning assigned by the Sixth Schedule.
+(5) The expression “primary production” has the meaning assigned by the Sixth Schedule.
 
 30
 
@@ -1297,13 +1833,13 @@ Constitution Act, 1867
 
 93. In and for each Province the Legislature may exclusively make Laws in relation to Education, subject and according to the following Provisions:
 
-- Nothing  in  any  such  Law  shall  prejudicially  affect  any  Right  or  Privilege with respect to Denominational Schools which any Class of Persons have by Law in the Province at the Union;
+(1) Nothing in any such Law shall prejudicially affect any Right or Privilege with respect to Denominational Schools which any Class of Persons have by Law in the Province at the Union;
 
-- All the Powers, Privileges, and Duties at the Union by Law conferred and imposed in Upper Canada on the Separate Schools and School Trustees of the Queen's Roman Catholic Subjects shall be and the same are hereby extended  to  the  Dissentient  Schools  of  the  Queen's  Protestant  and  Roman Catholic Subjects in Quebec;
+(2) All the Powers, Privileges, and Duties at the Union by Law conferred and imposed in Upper Canada on the Separate Schools and School Trustees of the Queen's Roman Catholic Subjects shall be and the same are hereby extended to the Dissentient Schools of the Queen's Protestant and Roman Catholic Subjects in Quebec;
 
-- Where in any Province a System of Separate or Dissentient Schools exists by  Law at  the  Union  or  is  thereafter  established  by  the  Legislature  of  the Province, an Appeal shall lie to the Governor General in Council from any Act or Decision of any Provincial Authority affecting any Right or Privilege of the Protestant or Roman Catholic Minority of the Queen's Subjects in relation to Education;
+(3) Where in any Province a System of Separate or Dissentient Schools exists by Law at the Union or is thereafter established by the Legislature of the Province, an Appeal shall lie to the Governor General in Council from any Act or Decision of any Provincial Authority affecting any Right or Privilege of the Protestant or Roman Catholic Minority of the Queen's Subjects in relation to Education;
 
-- In case any such Provincial Law as from Time to Time seems to the Governor General in Council requisite for the due Execution of the Provisions of this Section is not made, or in case any Decision of the Governor General in Council on any Appeal under this Section is not duly executed by the proper Provincial Authority in that Behalf, then and in every such Case, and as far only as the Circumstances of each Case require, the Parliament of Canada may make remedial Laws for the  due  Execution  of  the  Provisions  of  this Section and of any Decision of the Governor General in Council under this Section. (50)
+(4) In case any such Provincial Law as from Time to Time seems to the Governor General in Council requisite for the due Execution of the Provisions of this Section is not made, or in case any Decision of the Governor General in Council on any Appeal under this Section is not duly executed by the proper Provincial Authority in that Behalf, then and in every such Case, and as far only as the Circumstances of each Case require, the Parliament of Canada may make remedial Laws for the due Execution of the Provisions of this Section and of any Decision of the Governor General in Council under this Section. (50)
 
 (49) Added by section 50 of the Constitution Act, 1982 .
 
@@ -1353,13 +1889,15 @@ Constitution Act, 1867
 
 Constitution Act, 1867
 
+## VII. JUDICATURE
+
 #### Appointment of Judges
 
 96. The Governor General shall appoint the Judges of the Superior, District, and County Courts in each Province, except those of the Courts of Probate in Nova Scotia and New Brunswick.
 
 #### Selection of Judges in Ontario, etc.
 
-97. Until the Laws relative to Property and Civil Rights in Ontario, Nova Scotia, and New Brunswick, and the Procedure of the Courts in those Provinces, are made uniform,  the  Judges  of  the  Courts  of  those  Provinces  appointed  by  the  Governor General shall be selected from the respective Bars of those Provinces.
+97. Until the Laws relative to Property and Civil Rights in Ontario, Nova Scotia, and New Brunswick, and the Procedure of the Courts in those Provinces, are made uniform, the Judges of the Courts of those Provinces appointed by the Governor General shall be selected from the respective Bars of those Provinces.
 
 #### Selection of Judges in Quebec
 
@@ -1367,23 +1905,21 @@ Constitution Act, 1867
 
 #### Tenure of office of Judges
 
-99. (1) Subject to subsection (2) of this section, the judges of the superior courts shall  hold  office  during  good  behaviour,  but  shall  be  removable  by  the  Governor General on address of the Senate and House of Commons.
+99. (1) Subject to subsection (2) of this section, the judges of the superior courts shall hold office during good behaviour, but shall be removable by the Governor General on address of the Senate and House of Commons.
 
 ##### Termination at age 75
 
-(2) A judge of a superior court, whether appointed before or after the coming into force of this section, shall cease to hold office upon attaining the age of seventyfive years, or upon the coming into force of this section if at that time he has already attained that age. (53)
+(2) A judge of a superior court, whether appointed before or after the coming into force of this section, shall cease to hold office upon attaining the age of seventy-five years, or upon the coming into force of this section if at that time he has already attained that age. (53)
 
 #### Salaries, etc., of Judges
 
-100. The Salaries, Allowances, and Pensions of the Judges of the Superior, District,  and  County  Courts  (except  the  Courts  of  Probate  in  Nova  Scotia  and  New Brunswick), and of the Admiralty Courts in Cases where the Judges thereof are for the  Time  being  paid  by  Salary,  shall  be  fixed  and  provided  by  the  Parliament  of Canada. (54)
+100. The Salaries, Allowances, and Pensions of the Judges of the Superior, District, and County Courts (except the Courts of Probate in Nova Scotia and New Brunswick), and of the Admiralty Courts in Cases where the Judges thereof are for the Time being paid by Salary, shall be fixed and provided by the Parliament of Canada. (54)
 
-(53) Amended by the Constitution Act, 1960 , 9 Eliz. II, c. 2 (U.K.), which came into force on March 1, 1961. The original section read as follows:
+(53) Amended by the Constitution Act, 1960, 9 Eliz. II, c. 2 (U.K.), which came into force on March 1, 1961. The original section read as follows:
 
 > 99. The Judges of the Superior Courts shall hold Office during good Behaviour, but shall be removable by the Governor General on Address of the Senate and House of Commons.
 
-(54) Now provided for in the Judges Act , R.S.C. 1985, c. J-1.
-
-## VII. JUDICATURE
+(54) Now provided for in the Judges Act, R.S.C. 1985, c. J-1.
 
 33
 
@@ -1455,7 +1991,7 @@ Constitution Act, 1867
 
 > These  matters  were  dealt  with  in  respect  of  British  Columbia  by  the British Columbia Terms of Union and also in part by the Constitution Act, 1930 .
 
-Newfoundland  was  also  placed  in  the  same  position  by  the Newfoundland  Act , 12-13 Geo. V1, c. 22 (U.K.).
+Newfoundland was also placed in the same position by the Newfoundland Act, 12-13 Geo. VI, c. 22 (U.K.).
 
 With respect to Prince Edward Island, see the Schedule to the Prince Edward Island Terms of Union .
 
@@ -1527,7 +2063,7 @@ Constitution Act, 1867
 
 #### Lumber Dues in New Brunswick
 
-124. Nothing  in  this  Act  shall  affect  the  Right  of  New  Brunswick  to  levy  the Lumber Dues provided in Chapter Fifteen of Title Three of the Revised Statutes of New Brunswick, or in any Act amending that Act before or after the Union, and not increasing the Amount of such Dues; but the Lumber of any of the Provinces other than New Brunswick shall not be subject to such Dues. (63)
+124. Nothing in this Act shall affect the Right of New Brunswick to levy the Lumber Dues provided in Chapter Fifteen of Title Three of the Revised Statutes of
 
 (60) Spent.
 
@@ -1542,6 +2078,8 @@ Constitution Act, 1867
 [[START OF PAGE 54]]
 
 Constitution Act, 1867
+
+New Brunswick, or in any Act amending that Act before or after the Union, and not increasing the Amount of such Dues; but the Lumber of any of the Provinces other than New Brunswick shall not be subject to such Dues. (63)
 
 #### Exemption of Public Lands, etc.
 
@@ -1631,7 +2169,7 @@ Constitution Act, 1867
 
 #### Appointment of Executive Officers for Ontario and Quebec
 
-134. Until the Legislature of Ontario or of Quebec otherwise provides, the Lieutenant Governors of Ontario and Quebec may each appoint under the Great Seal of the Province the following Officers, to hold Office during Pleasure, that is to say, the Attorney General, the Secretary and Registrar of the Province, the Treasurer of the Province, the Commissioner of Crown Lands, and the Commissioner of Agriculture and Public Works, and in the Case of Quebec the Solicitor General, and may, by Order of the Lieutenant Governor in Council, from Time to Time prescribe the Duties of those Officers, and of the several Departments over which they shall preside or to which they shall belong, and of the Officers and Clerks thereof, and may also appoint other and additional Officers to hold Office during Pleasure, and may from Time to Time prescribe the Duties of those Officers, and of the several Departments over which they shall preside or to which they shall belong, and of the Officers and Clerks thereof. (68)
+134. Until the Legislature of Ontario or of Quebec otherwise provides, the Lieutenant Governors of Ontario and Quebec may each appoint under the Great Seal of the Province the following Officers, to hold Office during Pleasure, that is to say, — the Attorney General, the Secretary and Registrar of the Province, the Treasurer of the Province, the Commissioner of Crown Lands, and the Commissioner of Agriculture and Public Works, and in the Case of Quebec the Solicitor General, and may, by Order of the Lieutenant Governor in Council, from Time to Time prescribe the Duties of those Officers, and of the several Departments over which they shall preside or to which they shall belong, and of the Officers and Clerks thereof, and may also appoint other and additional Officers to hold Office during Pleasure, and may from Time to Time prescribe the Duties of those Officers, and of the several Departments over which they shall preside or to which they shall belong, and of the Officers and Clerks thereof. (68)
 
 #### Powers, Duties, etc. of Executive Officers
 
@@ -1655,11 +2193,11 @@ Constitution Act, 1867
 
 #### Construction of temporary Acts
 
-137. The words 'and from thence to the End of the then next ensuing Session of the  Legislature,'  or  Words  to  the  same  Effect,  used  in  any  temporary  Act  of  the Province of Canada not expired before the Union, shall be construed to extend and apply to the next Session of the Parliament of Canada if the Subject Matter of the Act is within the Powers of the same as defined by this Act, or to the next Sessions of the Legislatures of Ontario and Quebec respectively if the Subject Matter of the Act is within the Powers of the same as defined by this Act.
+137. The words “and from thence to the End of the then next ensuing Session of the Legislature,” or Words to the same Effect, used in any temporary Act of the Province of Canada not expired before the Union, shall be construed to extend and apply to the next Session of the Parliament of Canada if the Subject Matter of the Act is within the Powers of the same as defined by this Act, or to the next Sessions of the Legislatures of Ontario and Quebec respectively if the Subject Matter of the Act is within the Powers of the same as defined by this Act.
 
 #### As to Errors in Names
 
-138. From and after the Union the Use of the Words 'Upper Canada' instead of 'Ontario,'  or  'Lower  Canada'  instead  of  'Quebec,'  in  any  Deed,  Writ,  Process, Pleading, Document, Matter, or Thing shall not invalidate the same.
+138. From and after the Union the Use of the Words “Upper Canada” instead of “Ontario,” or “Lower Canada” instead of “Quebec,” in any Deed, Writ, Process, Pleading, Document, Matter, or Thing shall not invalidate the same.
 
 #### As to issue of Proclamations before Union, to commence after Union
 
@@ -1739,80 +2277,81 @@ Constitution Act, 1867
 
 [[START OF PAGE 61]]
 
-- Prescott.
-
-- Glengarry.
-
-- Stormont.
-
-- Dundas.
-
-- Russell.
-
-- Carleton.
-
-- Prince Edward.
-
-- Halton.
-
-- Essex.
-
-- North Riding of Lanark.
-
-- South Riding of Lanark.
-
-- North Riding of Leeds and North Riding of Grenville.
-
-- South Riding of Leeds.
-
-- South Riding of Grenville.
-
-- East Riding of Northumberland.
-
-- West  Riding  of  Northumberland  (excepting  therefrom  the  Township  of South Monaghan).
-
-- East Riding of Durham.
-
-- West Riding of Durham.
-
-- North Riding of Ontario.
-
-- South Riding of Ontario.
-
-- East Riding of York.
-
-- West Riding of York.
-
-- North Riding of York.
-
-- North Riding of Wentworth.
-
-- South Riding of Wentworth.
-
-- East Riding of Elgin.
-
-- West Riding of Elgin.
-
-- North Riding of Waterloo.
-
-- South Riding of Waterloo.
-
-- North Riding of Brant.
-
-- South Riding of Brant.
-
-(78) Spent. See Representation Act , R.S.O. 1990, c. R.26.
-
 Constitution Act, 1867
 
 ### THE FIRST SCHEDULE (78)
+
 #### ELECTORAL DISTRICTS OF ONTARIO
 
 ##### A. EXISTING ELECTORAL DIVISIONS.
 
 ###### Counties
 
+1. Prescott.
+
+2. Glengarry.
+
+3. Stormont.
+
+4. Dundas.
+
+5. Russell.
+
+6. Carleton.
+
+7. Prince Edward.
+
+8. Halton.
+
+9. Essex.
+
 ###### Ridings of Counties
+
+10. North Riding of Lanark.
+
+11. South Riding of Lanark.
+
+12. North Riding of Leeds and North Riding of Grenville.
+
+13. South Riding of Leeds.
+
+14. South Riding of Grenville.
+
+15. East Riding of Northumberland.
+
+16. West Riding of Northumberland (excepting therefrom the Township of South Monaghan).
+
+17. East Riding of Durham.
+
+18. West Riding of Durham.
+
+19. North Riding of Ontario.
+
+20. South Riding of Ontario.
+
+21. East Riding of York.
+
+22. West Riding of York.
+
+23. North Riding of York.
+
+24. North Riding of Wentworth.
+
+25. South Riding of Wentworth.
+
+26. East Riding of Elgin.
+
+27. West Riding of Elgin.
+
+28. North Riding of Waterloo.
+
+29. South Riding of Waterloo.
+
+30. North Riding of Brant.
+
+31. South Riding of Brant.
+
+(78) Spent. See Representation Act, R.S.O. 1990, c. R.26.
 
 45
 
@@ -1820,55 +2359,55 @@ Constitution Act, 1867
 
 [[START OF PAGE 62]]
 
-- West Toronto.
+Constitution Act, 1867
 
-- East Toronto.
+32. North Riding of Oxford.
 
-- Hamilton.
+33. South Riding of Oxford.
 
-- Ottawa.
+34. East Riding of Middlesex.
 
-- Kingston.
+###### Cities, Parts of Cities, and Towns
 
-- London.
+35. West Toronto.
 
-- Town of Brockville, with the Township of Elizabethtown thereto attached.
+36. East Toronto.
 
-- Town of Niagara, with the Township of Niagara thereto attached.
+37. Hamilton.
 
-- Town of Cornwall, with the Township of Cornwall thereto attached.
+38. Ottawa.
+
+39. Kingston.
+
+40. London.
+
+41. Town of Brockville, with the Township of Elizabethtown thereto attached.
+
+42. Town of Niagara, with the Township of Niagara thereto attached.
+
+43. Town of Cornwall, with the Township of Cornwall thereto attached.
 
 ##### B. NEW ELECTORAL DIVISIONS
 
-- The Provisional Judicial District of Algoma.
+44. The Provisional Judicial District of Algoma.
 
-The County of BRUCE, divided into  Two  Ridings,  to  be  called  respectively  the North and South Ridings:
+The County of BRUCE, divided into Two Ridings, to be called respectively the North and South Ridings:
 
-- The North Riding of Bruce to consist of the Townships of Bury, Lindsay, Eastnor, Albermarle, Amable, Arran, Bruce, Elderslie, and Saugeen, and the Village of Southampton.
+45. The North Riding of Bruce to consist of the Townships of Bury, Lindsay, Eastnor, Albermarle, Amable, Arran, Bruce, Elderslie, and Saugeen, and the Village of Southampton.
 
-- The South Riding of Bruce to consist of the Townships of Kincardine (including the Village of Kincardine), Greenock, Brant, Huron, Kinloss, Culross, and Carrick.
+46. The South Riding of Bruce to consist of the Townships of Kincardine (including the Village of Kincardine), Greenock, Brant, Huron, Kinloss, Culross, and Carrick.
 
 The County of HURON, divided into Two Ridings, to be called respectively the North and South Ridings:
 
-- The  North  Riding  to  consist  of  the  Townships  of  Ashfield,  Wawanosh, Turnberry, Howick, Morris, Grey, Colborne, Hullett, including the Village of Clinton, and McKillop.
+47. The North Riding to consist of the Townships of Ashfield, Wawanosh, Turnberry, Howick, Morris, Grey, Colborne, Hullett, including the Village of Clinton, and McKillop.
 
-- The South Riding to consist of the Town of Goderich and the Townships of Goderich, Tuckersmith, Stanley, Hay, Usborne, and Stephen.
+48. The South Riding to consist of the Town of Goderich and the Townships of Goderich, Tuckersmith, Stanley, Hay, Usborne, and Stephen.
 
 The County of MIDDLESEX, divided into three Ridings, to be called respectively the North, West, and East Ridings:
 
-- The North Riding to consist of the Townships of McGillivray and Biddulph (taken from the County of Huron), and Williams East, Williams West, Adelaide, and Lobo.
+49. The North Riding to consist of the Townships of McGillivray and Biddulph (taken from the County of Huron), and Williams East, Williams West, Adelaide, and Lobo.
 
-- The West Riding to consist of the Townships of Delaware, Carradoc, Metcalfe, Mosa and Ekfrid, and the Village of Strathroy.
-
-Constitution Act, 1867
-
-- North Riding of Oxford.
-
-- South Riding of Oxford.
-
-- East Riding of Middlesex.
-
-###### Cities, Parts of Cities, and Towns
+50. The West Riding to consist of the Townships of Delaware, Carradoc, Metcalfe, Mosa and Ekfrid, and the Village of Strathroy.
 
 46
 
@@ -1880,37 +2419,37 @@ Constitution Act, 1867
 
 [The East Riding to consist of the Townships now embraced therein, and be bounded as it is at present.]
 
-- The  County  of  LAMBTON  to  consist  of  the  Townships  of  Bosanquet,  Warwick, Plympton, Sarnia, Moore, Enniskillen, and Brooke, and the Town of Sarnia.
+51. The County of LAMBTON to consist of the Townships of Bosanquet, Warwick, Plympton, Sarnia, Moore, Enniskillen, and Brooke, and the Town of Sarnia.
 
-- The County of KENT to consist of the Townships of Chatham, Dover, East Tilbury, Romney, Raleigh, and Harwich, and the Town of Chatham.
+52. The County of KENT to consist of the Townships of Chatham, Dover, East Tilbury, Romney, Raleigh, and Harwich, and the Town of Chatham.
 
-- The County of BOTHWELL to consist of the Townships of Sombra, Dawn, and Euphemia (taken from the County of Lambton), and the Townships of Zone, Camden with the Gore thereof, Orford, and Howard (taken from the County of Kent).
+53. The County of BOTHWELL to consist of the Townships of Sombra, Dawn, and Euphemia (taken from the County of Lambton), and the Townships of Zone, Camden with the Gore thereof, Orford, and Howard (taken from the County of Kent).
 
 The County of GREY divided into Two Ridings to be called respectively the South and North Ridings:
 
-- The  South  Riding  to  consist  of  the  Townships  of  Bentinck,  Glenelg, Artemesia, Osprey, Normanby, Egremont, Proton, and Melancthon.
+54. The South Riding to consist of the Townships of Bentinck, Glenelg, Artemesia, Osprey, Normanby, Egremont, Proton, and Melancthon.
 
-- The North Riding to consist of the Townships of Collingwood, Euphrasia, Holland, Saint-Vincent, Sydenham, Sullivan, Derby, and Keppel, Sarawak and Brooke, and the Town of Owen Sound.
+55. The North Riding to consist of the Townships of Collingwood, Euphrasia, Holland, Saint-Vincent, Sydenham, Sullivan, Derby, and Keppel, Sarawak and Brooke, and the Town of Owen Sound.
 
-The  County  of  PERTH  divided  into  Two  Ridings,  to  be  called  respectively  the South and North Ridings:
+The County of PERTH divided into Two Ridings, to be called respectively the South and North Ridings:
 
-- The North Riding to consist of the Townships of Wallace, Elma, Logan, Ellice, Mornington, and North Easthope, and the Town of Stratford.
+56. The North Riding to consist of the Townships of Wallace, Elma, Logan, Ellice, Mornington, and North Easthope, and the Town of Stratford.
 
-- The South Riding to consist of the Townships of Blanchard, Downie, South Easthope, Fullarton, Hibbert, and the Villages of Mitchell and Ste. Marys.
+57. The South Riding to consist of the Townships of Blanchard, Downie, South Easthope, Fullarton, Hibbert, and the Villages of Mitchell and Ste. Marys.
 
 The County of WELLINGTON divided into Three Ridings to be called respectively North, South and Centre Ridings:
 
-- The North Riding to consist of the Townships of Amaranth, Arthur, Luther, Minto, Maryborough, Peel, and the Village of Mount Forest.
+58. The North Riding to consist of the Townships of Amaranth, Arthur, Luther, Minto, Maryborough, Peel, and the Village of Mount Forest.
 
-- The Centre Riding to consist of the Townships of Garafraxa, Erin, Eramosa, Nichol, and Pilkington, and the Villages of Fergus and Elora.
+59. The Centre Riding to consist of the Townships of Garafraxa, Erin, Eramosa, Nichol, and Pilkington, and the Villages of Fergus and Elora.
 
-- The South Riding to consist of the Town of Guelph, and the Townships of Guelph and Puslinch.
+60. The South Riding to consist of the Town of Guelph, and the Townships of Guelph and Puslinch.
 
 The County of NORFOLK, divided into Two Ridings, to be called respectively the South and North Ridings:
 
-- The South Riding to consist of the Townships of Charlotteville, Houghton, Walsingham, and Woodhouse, and with the Gore thereof.
+61. The South Riding to consist of the Townships of Charlotteville, Houghton, Walsingham, and Woodhouse, and with the Gore thereof.
 
-- The North Riding to consist of the Townships of Middleton, Townsend, and Windham, and the Town of Simcoe.
+62. The North Riding to consist of the Townships of Middleton, Townsend, and Windham, and the Town of Simcoe.
 
 47
 
@@ -1920,35 +2459,35 @@ The County of NORFOLK, divided into Two Ridings, to be called respectively the S
 
 Constitution Act, 1867
 
-- The County of HALDIMAND to consist of the Townships of Oneida, Seneca, Cayuga North, Cayuga South, Raynham, Walpole, and Dunn.
+63. The County of HALDIMAND to consist of the Townships of Oneida, Seneca, Cayuga North, Cayuga South, Raynham, Walpole, and Dunn.
 
-- The  County  of  MONCK  to  consist  of  the  Townships  of  Canborough  and Moulton,  and  Sherbrooke,  and  the  Village  of  Dunnville  (taken  from  the County of Haldimand), the Townships of Caister and Gainsborough (taken from the County of Lincoln), and the Townships of Pelham and Wainfleet (taken from the County of Welland).
+64. The County of MONCK to consist of the Townships of Canborough and Moulton, and Sherbrooke, and the Village of Dunnville (taken from the County of Haldimand), the Townships of Caister and Gainsborough (taken from the County of Lincoln), and the Townships of Pelham and Wainfleet (taken from the County of Welland).
 
-- The County of LINCOLN to consist of the Townships of Clinton, Grantham, Grimsby, and Louth, and the Town of St. Catherines.
+65. The County of LINCOLN to consist of the Townships of Clinton, Grantham, Grimsby, and Louth, and the Town of St. Catherines.
 
-- The County of WELLAND to consist of the Townships of Bertie, Crowland, Humberstone,  Stamford,  Thorold,  and  Willoughby,  and  the  Villages  of Chippewa, Clifton, Fort Erie, Thorold, and Welland.
+66. The County of WELLAND to consist of the Townships of Bertie, Crowland, Humberstone, Stamford, Thorold, and Willoughby, and the Villages of Chippewa, Clifton, Fort Erie, Thorold, and Welland.
 
-- The County of PEEL to consist of the Townships of Chinguacousy, Toronto, and the Gore of Toronto, and the Villages of Brampton and Streetsville.
+67. The County of PEEL to consist of the Townships of Chinguacousy, Toronto, and the Gore of Toronto, and the Villages of Brampton and Streetsville.
 
-- The County of CARDWELL to consist of the Townships of Albion and Caledon  (taken  from  the  County  of  Peel),  and  the  Townships  of  Adjala  and Mono (taken from the County of Simcoe).
+68. The County of CARDWELL to consist of the Townships of Albion and Caledon (taken from the County of Peel), and the Townships of Adjala and Mono (taken from the County of Simcoe).
 
 The County of SIMCOE, divided into Two Ridings, to be called respectively the South and North Ridings:
 
-- The  South  Riding  to  consist  of  the  Townships  of  West  Gwillimbury, Tecumseth, Innisfil, Essa, Tosorontio, Mulmur, and the Village of Bradford.
+69. The South Riding to consist of the Townships of West Gwillimbury, Tecumseth, Innisfil, Essa, Tosorontio, Mulmur, and the Village of Bradford.
 
-- The North Riding to consist of the Townships of Nottawasaga, Sunnidale, Vespra,  Flos,  Oro,  Medonte,  Orillia  and  Matchedash,  Tiny  and  Tay,  Balaklava and Robinson, and the Towns of Barrie and Collingwood.
+70. The North Riding to consist of the Townships of Nottawasaga, Sunnidale, Vespra, Flos, Oro, Medonte, Orillia and Matchedash, Tiny and Tay, Balaklava and Robinson, and the Towns of Barrie and Collingwood.
 
 The County of VICTORIA, divided into Two Ridings, to be called respectively the South and North Ridings:
 
-- The  South  Riding  to  consist  of  the  Townships  of  Ops,  Mariposa,  Emily, Verulam, and the Town of Lindsay.
+71. The South Riding to consist of the Townships of Ops, Mariposa, Emily, Verulam, and the Town of Lindsay.
 
-- The North Riding to consist of the Townships of Anson, Bexley, Carden, Dalton, Digby, Eldon, Fenelon, Hindon, Laxton, Lutterworth, Macaulay and Draper, Sommerville, and Morrison, Muskoka, Monck and Watt (taken from the  County  of  Simcoe),  and  any  other  surveyed  Townships  lying  to  the North of the said North Riding.
+72. The North Riding to consist of the Townships of Anson, Bexley, Carden, Dalton, Digby, Eldon, Fenelon, Hindon, Laxton, Lutterworth, Macaulay and Draper, Sommerville, and Morrison, Muskoka, Monck and Watt (taken from the County of Simcoe), and any other surveyed Townships lying to the North of the said North Riding.
 
 The County of PETERBOROUGH, divided into Two Ridings, to be called respectively the West and East Ridings:
 
-- The  West  Riding  to  consist  of  the  Townships  of  South  Monaghan  (taken from the County of Northumberland), North Monaghan, Smith, and Ennismore, and the Town of Peterborough.
+73. The West Riding to consist of the Townships of South Monaghan (taken from the County of Northumberland), North Monaghan, Smith, and Ennismore, and the Town of Peterborough.
 
-- The  East  Riding  to  consist  of  the  Townships  of  Asphodel,  Belmont  and Methuen, Douro, Dummer, Galway, Harvey, Minden, Stanhope and Dysart,
+74. The East Riding to consist of the Townships of Asphodel, Belmont and Methuen, Douro, Dummer, Galway, Harvey, Minden, Stanhope and Dysart,
 
 48
 
@@ -1962,23 +2501,23 @@ Otonabee, and Snowden, and the Village of Ashburnham, and any other surveyed Tow
 
 The County of HASTINGS, divided into Three Ridings, to be called respectively the West, East, and North Ridings:
 
-- The West Riding to consist of the Town of Belleville, the Township of Sydney, and the Village of Trenton.
+75. The West Riding to consist of the Town of Belleville, the Township of Sydney, and the Village of Trenton.
 
-- The East Riding to consist of the Townships of Thurlow, Tyendinaga, and Hungerford.
+76. The East Riding to consist of the Townships of Thurlow, Tyendinaga, and Hungerford.
 
-- The  North  Riding  to  consist  of  the  Townships  of  Rawdon,  Huntingdon, Madoc, Elzevir, Tudor, Marmora, and Lake, and the Village of Stirling, and any other surveyed Townships lying to the North of the said North Riding.
+77. The North Riding to consist of the Townships of Rawdon, Huntingdon, Madoc, Elzevir, Tudor, Marmora, and Lake, and the Village of Stirling, and any other surveyed Townships lying to the North of the said North Riding.
 
-- The County of LENNOX to consist of the Townships of Richmond, Adolphustown,  North  Fredericksburg,  South  Fredericksburg,  Ernest  Town,  and Amherst Island, and the Village of Napanee.
+78. The County of LENNOX to consist of the Townships of Richmond, Adolphustown, North Fredericksburg, South Fredericksburg, Ernest Town, and Amherst Island, and the Village of Napanee.
 
-- The County of ADDINGTON to consist of the Townships of Camden, Portland, Sheffield,  Hinchinbrooke, Kaladar, Kennebec, Olden, Oso, Anglesea, Barrie, Clarendon, Palmerston, Effingham, Abinger, Miller, Canonto, Denbigh, Loughborough, and Bedford.
+79. The County of ADDINGTON to consist of the Townships of Camden, Portland, Sheffield, Hinchinbrooke, Kaladar, Kennebec, Olden, Oso, Anglesea, Barrie, Clarendon, Palmerston, Effingham, Abinger, Miller, Canonto, Denbigh, Loughborough, and Bedford.
 
-- The County of FRONTENAC to consist of the Townships of Kingston, Wolfe Island, Pittsburg and Howe Island, and Storrington.
+80. The County of FRONTENAC to consist of the Townships of Kingston, Wolfe Island, Pittsburg and Howe Island, and Storrington.
 
 The County of RENFREW, divided into Two Ridings, to be called respectively the South and North Ridings:
 
-- The South Riding to consist of the Townships of McNab, Bagot, Blithfield, Brougham,  Horton,  Admaston,  Grattan,  Matawatchan,  Griffith,  Lyndoch, Raglan, Radcliffe, Brudenell, Sebastopol, and the Villages of Arnprior and Renfrew.
+81. The South Riding to consist of the Townships of McNab, Bagot, Blithfield, Brougham, Horton, Admaston, Grattan, Matawatchan, Griffith, Lyndoch, Raglan, Radcliffe, Brudenell, Sebastopol, and the Villages of Arnprior and Renfrew.
 
-- The  North  Riding  to  consist  of  the  Townships  of  Ross,  Bromley,  Westmeath, Stafford, Pembroke, Wilberforce, Alice, Petawawa, Buchanan, South Algona, North Algona, Fraser, McKay, Wylie, Rolph, Head, Maria, Clara, Haggerty, Sherwood, Burns, and Richards, and any other surveyed Townships lying North-westerly of the said North Riding.
+82. The North Riding to consist of the Townships of Ross, Bromley, Westmeath, Stafford, Pembroke, Wilberforce, Alice, Petawawa, Buchanan, South Algona, North Algona, Fraser, McKay, Wylie, Rolph, Head, Maria, Clara, Haggerty, Sherwood, Burns, and Richards, and any other surveyed Townships lying North-westerly of the said North Riding.
 
 Every Town and incorporated Village existing at the Union, not especially mentioned in this Schedule, is to be taken as Part of the County or Riding within which it is locally situate.
 
@@ -1987,6 +2526,14 @@ Every Town and incorporated Village existing at the Union, not especially mentio
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
+
+Constitution Act, 1867
+
+### THE SECOND SCHEDULE
+
+#### ELECTORAL DISTRICTS OF QUEBEC SPECIALLY FIXED
+
+##### COUNTIES OF —
 
 Pontiac.
 
@@ -2012,37 +2559,29 @@ Megantic.
 
 Town of Sherbrooke.
 
-Constitution Act, 1867
-
-### THE SECOND SCHEDULE
-
-#### ELECTORAL DISTRICTS OF QUEBEC SPECIALLY FIXED
-
-##### COUNTIES OF -
-
 ### THE THIRD SCHEDULE
 
 #### PROVINCIAL PUBLIC WORKS AND PROPERTY TO BE THE PROPERTY OF CANADA
 
-- Canals, with Lands and Water Power connected therewith.
+1. Canals, with Lands and Water Power connected therewith.
 
-- Public Harbours.
+2. Public Harbours.
 
-- Lighthouses and Piers, and Sable Island.
+3. Lighthouses and Piers, and Sable Island.
 
-- Steamboats, Dredges, and public Vessels.
+4. Steamboats, Dredges, and public Vessels.
 
-- Rivers and Lake Improvements.
+5. Rivers and Lake Improvements.
 
-- Railways and Railway Stocks, Mortgages, and other Debts due by Railway Companies.
+6. Railways and Railway Stocks, Mortgages, and other Debts due by Railway Companies.
 
-- Military Roads.
+7. Military Roads.
 
-- Custom Houses, Post Offices, and all other Public Buildings, except such as the Government of Canada appropriate for the Use of the Provincial Legislatures and Governments.
+8. Custom Houses, Post Offices, and all other Public Buildings, except such as the Government of Canada appropriate for the Use of the Provincial Legislatures and Governments.
 
-- Property transferred by the Imperial Government, and known as Ordnance Property.
+9. Property transferred by the Imperial Government, and known as Ordnance Property.
 
-- Armouries,  Drill  Sheds,  Military  Clothing,  and  Munitions  of  War,  and Lands set apart for general Public Purposes.
+10. Armouries, Drill Sheds, Military Clothing, and Munitions of War, and Lands set apart for general Public Purposes.
 
 50
 
@@ -2064,13 +2603,13 @@ Normal School.
 
 Court Houses in
 
+Lower Canada.
+
 Aylmer,
 
 Montreal,
 
 Kamouraska,
-
-Lower Canada.
 
 Law Society, Upper Canada.
 
@@ -2094,7 +2633,7 @@ Temiscouata Advance Account.
 
 Quebec Turnpike Trust.
 
-Education - East.
+Education — East.
 
 Building and Jury Fund, Lower Canada.
 
@@ -2107,7 +2646,7 @@ Lower Canada Superior Education Income Fund.
 
 I A.B. do swear, That I will be faithful and bear true Allegiance to Her Majesty Queen Victoria.
 
-Note. - The Name of the King or Queen of the United Kingdom of Great Britain and Ireland for the Time being is to be substituted from Time to Time, with proper Terms of Reference thereto.
+Note. — The Name of the King or Queen of the United Kingdom of Great Britain and Ireland for the Time being is to be substituted from Time to Time, with proper Terms of Reference thereto.
 
 #### DECLARATION OF QUALIFICATION
 
@@ -2145,41 +2684,13 @@ cumbrances due or payable out of or charged on or affecting the same, and that I
 
 [[START OF PAGE 69]]
 
-#### Fundamental freedoms
-
-2. Everyone has the following fundamental freedoms:
-
-( a ) freedom of conscience and religion;
-
-( b ) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;
-
-( c ) freedom of peaceful assembly; and
-
-( d ) freedom of association.
-
-(80) Enacted as Schedule B to the Canada Act 1982 , 1982, c. 11 (U.K.), which came into force on April 17, 1982. The Canada Act 1982 , other than Schedules A and B thereto, reads as follows:
-
-An Act to give effect to a request by the Senate and House of Commons of Canada
-
-Whereas Canada has requested and consented to the enactment of an Act of the Parliament of the United Kingdom to give effect to the provisions hereinafter set forth and the Senate and the House of Commons of Canada in Parliament assembled have submitted an address to Her Majesty requesting that Her Majesty may graciously be pleased to cause a Bill to be laid before the Parliament of the United Kingdom for that purpose.
-
-Be it therefore enacted by the Queen's Most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
-
-1. The Constitution Act, 1982 set out in Schedule B to this Act is hereby enacted for and shall have the force of law in Canada and shall come into force as provided in that Act.
-
-2. No Act of the Parliament of the United Kingdom passed after the Constitution Act, 1982 comes into force shall extend to Canada as part of its law.
-
-3. So far as it is not contained in Schedule B, the French version of this Act is set out in Schedule A to this Act and has the same authority in Canada as the English version thereof.
-
-4. This Act may be cited as the Canada Act 1982 .
-
 ### CONSTITUTION ACT, 1982 (80)
 
 # PART I
 
 ## CANADIAN CHARTER OF RIGHTS AND FREEDOMS
 
-Whereas  Canada  is  founded  upon  principles  that  recognize  the  supremacy  of God and the rule of law:
+Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law:
 
 ### GUARANTEE OF RIGHTS AND FREEDOMS
 
@@ -2189,11 +2700,43 @@ Whereas  Canada  is  founded  upon  principles  that  recognize  the  supremacy 
 
 ### FUNDAMENTAL FREEDOMS
 
+#### Fundamental freedoms
+
+2. Everyone has the following fundamental freedoms:
+
+(a) freedom of conscience and religion;
+
+(b) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;
+
+(c) freedom of peaceful assembly; and
+
+(d) freedom of association.
+
+(80) Enacted as Schedule B to the Canada Act 1982, 1982, c. 11 (U.K.), which came into force on April 17, 1982. The Canada Act 1982, other than Schedules A and B thereto, reads as follows:
+
+An Act to give effect to a request by the Senate and House of Commons of Canada
+
+Whereas Canada has requested and consented to the enactment of an Act of the Parliament of the United Kingdom to give effect to the provisions hereinafter set forth and the Senate and the House of Commons of Canada in Parliament assembled have submitted an address to Her Majesty requesting that Her Majesty may graciously be pleased to cause a Bill to be laid before the Parliament of the United Kingdom for that purpose.
+
+Be it therefore enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+
+1. The Constitution Act, 1982 set out in Schedule B to this Act is hereby enacted for and shall have the force of law in Canada and shall come into force as provided in that Act.
+
+2. No Act of the Parliament of the United Kingdom passed after the Constitution Act, 1982 comes into force shall extend to Canada as part of its law.
+
+3. So far as it is not contained in Schedule B, the French version of this Act is set out in Schedule A to this Act and has the same authority in Canada as the English version thereof.
+
+4. This Act may be cited as the Canada Act 1982.
+
 53
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
+
+Constitution Act, 1982
+
+### DEMOCRATIC RIGHTS
 
 #### Democratic rights of citizens
 
@@ -2201,11 +2744,11 @@ Whereas  Canada  is  founded  upon  principles  that  recognize  the  supremacy 
 
 #### Maximum duration of legislative bodies
 
-4. (1) No  House  of  Commons  and  no  legislative  assembly  shall  continue  for longer than five years from the date fixed for the return of the writs at a general election of its members. (81)
+4. (1) No House of Commons and no legislative assembly shall continue for longer than five years from the date fixed for the return of the writs at a general election of its members. (81)
 
 ##### Continuation in special circumstances
 
-(2) In  time  of  real  or  apprehended  war,  invasion  or  insurrection,  a  House  of Commons may be continued by Parliament and a legislative assembly may be continued by the legislature beyond five years if such continuation is not opposed by the votes of more than one-third of the members of the House of Commons or the legislative assembly, as the case may be. (82)
+(2) In time of real or apprehended war, invasion or insurrection, a House of Commons may be continued by Parliament and a legislative assembly may be continued by the legislature beyond five years if such continuation is not opposed by the votes of more than one-third of the members of the House of Commons or the legislative assembly, as the case may be. (82)
 
 #### Annual sitting of legislative bodies
 
@@ -2215,25 +2758,21 @@ Whereas  Canada  is  founded  upon  principles  that  recognize  the  supremacy 
 
 #### Mobility of citizens
 
-6. (1) Every  citizen  of  Canada  has  the  right  to  enter,  remain  in  and  leave Canada.
+6. (1) Every citizen of Canada has the right to enter, remain in and leave Canada.
 
 ##### Rights to move and gain livelihood
 
 (2) Every citizen of Canada and every person who has the status of a permanent resident of Canada has the right
 
-( a ) to move to and take up residence in any province; and
+(a) to move to and take up residence in any province; and
 
-( b ) to pursue the gaining of a livelihood in any province.
+(b) to pursue the gaining of a livelihood in any province.
 
-(81) See section 50, and footnotes (40) and (42) to sections 85 and 88, of the Constitution Act, 1867 .
+(81) See section 50, and footnotes (40) and (42) to sections 85 and 88, of the Constitution Act, 1867.
 
-(82) Replaces part of Class 1 of section 91 of the Constitution Act, 1867 , which was repealed as set out in subitem 1(3) of the schedule to the Constitution Act, 1982 .
+(82) Replaces part of Class 1 of section 91 of the Constitution Act, 1867, which was repealed as set out in subitem 1(3) of the schedule to the Constitution Act, 1982.
 
-(83) See footnotes (10), (41) and (42) to sections 20, 86 and 88 of the Constitution Act, 1867 .
-
-Constitution Act, 1982
-
-### DEMOCRATIC RIGHTS
+(83) See footnotes (10), (41) and (42) to sections 20, 86 and 88 of the Constitution Act, 1867.
 
 54
 
@@ -2241,17 +2780,19 @@ Constitution Act, 1982
 
 [[START OF PAGE 71]]
 
+Constitution Act, 1982
+
 ##### Limitation
 
 (3) The rights specified in subsection (2) are subject to
 
-( a ) any laws or practices of general application in force in a province other than those  that  discriminate  among  persons  primarily  on  the  basis  of  province  of present or previous residence; and
+(a) any laws or practices of general application in force in a province other than those that discriminate among persons primarily on the basis of province of present or previous residence; and
 
-( b ) any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.
+(b) any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.
 
 ##### Affirmative action programs
 
-(4) Subsections (2) and (3) do not preclude any law, program or activity that has as  its  object  the  amelioration  in  a  province  of  conditions  of  individuals  in  that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.
+(4) Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.
 
 ### LEGAL RIGHTS
 
@@ -2271,21 +2812,19 @@ Constitution Act, 1982
 
 10. Everyone has the right on arrest or detention
 
-( a ) to be informed promptly of the reasons therefor;
+(a) to be informed promptly of the reasons therefor;
 
-( b ) to retain and instruct counsel without delay and to be informed of that right; and
+(b) to retain and instruct counsel without delay and to be informed of that right; and
 
-( c ) to have the validity of the detention determined by way of habeas corpus and to be released if the detention is not lawful.
+(c) to have the validity of the detention determined by way of habeas corpus and to be released if the detention is not lawful.
 
 #### Proceedings in criminal and penal matters
 
 11. Any person charged with an offence has the right
 
-( a ) to be informed without unreasonable delay of the specific offence;
+(a) to be informed without unreasonable delay of the specific offence;
 
-( b ) to be tried within a reasonable time;
-
-Constitution Act, 1982
+(b) to be tried within a reasonable time;
 
 55
 
@@ -2535,6 +3074,8 @@ Constitution Act, 1982
 
 [[START OF PAGE 78]]
 
+Constitution Act, 1982
+
 #### Legislative powers not extended
 
 31. Nothing in this Charter extends the legislative powers of any body or authority.
@@ -2573,8 +3114,6 @@ Constitution Act, 1982
 
 (5) Subsection  (3)  applies  in  respect  of  a  re-enactment  made  under  subsection (4).
 
-Constitution Act, 1982
-
 62
 
 [[END OF PAGE 78]]
@@ -2582,6 +3121,8 @@ Constitution Act, 1982
 [[START OF PAGE 79]]
 
 Constitution Act, 1982
+
+### CITATION
 
 #### Citation
 
@@ -2619,8 +3160,6 @@ Constitution Act, 1982
 
 (97) Section 35.1 was added by the Constitution Amendment Proclamation, 1983 ( see SI/ 84-102).
 
-### CITATION
-
 63
 
 [[END OF PAGE 79]]
@@ -2628,18 +3167,6 @@ Constitution Act, 1982
 [[START OF PAGE 80]]
 
 Constitution Act, 1982
-
-37. Repealed. (99)
-
-(98) See footnotes (58) and (59) to sections 114 and 118 of the Constitution Act, 1867 .
-
-(99) Section 54 of the Constitution Act, 1982 provided for the repeal of Part IV (section 37) one year after Part VII came into force. Part VII came into force on April 17, 1982 repealing Part IV on April 17, 1983. Section 37 read as follows:
-
-37. (1) A constitutional conference composed of the Prime Minister of Canada and the first ministers of the provinces shall be convened by the Prime Minister of Canada within one year after this Part comes into force.
-
-(2) The conference convened under subsection (1) shall have included in its agenda an item respecting constitutional matters that directly affect the aboriginal peoples of Canada, including the identification and definition of the rights of those peoples to be included in the Constitution of Canada, and the Prime Minister of Canada shall invite representatives of those peoples to participate in the discussions on that item.
-
-(3) The Prime Minister of Canada shall invite elected representatives of the governments of the Yukon Territory and the Northwest Territories to participate in the discussions on any item on the agenda of the conference convened under subsection (1) that, in the opinion of the Prime Minister, directly affects the Yukon Territory and the Northwest Territories.
 
 # PART III
 
@@ -2662,6 +3189,18 @@ Constitution Act, 1982
 # PART IV
 
 ## CONSTITUTIONAL CONFERENCE
+
+37. Repealed. (99)
+
+(98) See footnotes (58) and (59) to sections 114 and 118 of the Constitution Act, 1867 .
+
+(99) Section 54 of the Constitution Act, 1982 provided for the repeal of Part IV (section 37) one year after Part VII came into force. Part VII came into force on April 17, 1982 repealing Part IV on April 17, 1983. Section 37 read as follows:
+
+37. (1) A constitutional conference composed of the Prime Minister of Canada and the first ministers of the provinces shall be convened by the Prime Minister of Canada within one year after this Part comes into force.
+
+(2) The conference convened under subsection (1) shall have included in its agenda an item respecting constitutional matters that directly affect the aboriginal peoples of Canada, including the identification and definition of the rights of those peoples to be included in the Constitution of Canada, and the Prime Minister of Canada shall invite representatives of those peoples to participate in the discussions on that item.
+
+(3) The Prime Minister of Canada shall invite elected representatives of the governments of the Yukon Territory and the Northwest Territories to participate in the discussions on any item on the agenda of the conference convened under subsection (1) that, in the opinion of the Prime Minister, directly affects the Yukon Territory and the Northwest Territories.
 
 64
 
@@ -2835,9 +3374,19 @@ Constitution Act, 1982
 
 [[START OF PAGE 85]]
 
+Constitution Act, 1982
+
+# PART VI
+
+## AMENDMENT TO THE CONSTITUTION ACT, 1867
+
 50. (103)
 
-(104)
+51. (104)
+
+# PART VII
+
+## GENERAL
 
 ### Primacy of Constitution of Canada
 
@@ -2845,7 +3394,7 @@ Constitution Act, 1982
 
 #### Constitution of Canada
 
-- The Constitution of Canada includes
+(2) The Constitution of Canada includes
 
 ( a ) the Canada Act 1982 , including this Act;
 
@@ -2868,16 +3417,6 @@ Constitution Act, 1982
 (103) The text of this amendment is set out in the Constitution Act, 1867 , as section 92A.
 
 (104) The text of this amendment is set out in the Constitution Act, 1867 , as the Sixth Schedule.
-
-Constitution Act, 1982
-
-# PART VI
-
-## AMENDMENT TO THE CONSTITUTION ACT, 1867
-
-# PART VII
-
-## GENERAL
 
 69
 
@@ -2925,6 +3464,8 @@ Constitution Act, 1982
 
 [[START OF PAGE 87]]
 
+Constitution Act, 1982
+
 ### Commencement of paragraph 23(1)( a ) in respect of Quebec
 
 59. (1) Paragraph 23(1)( a ) shall come into force in respect of Quebec on a day to be fixed by proclamation issued by the Queen or the Governor General under the Great Seal of Canada.
@@ -2949,8 +3490,6 @@ Constitution Act, 1982
 
 (110) Section 61 was added by the Constitution Amendment Proclamation, 1983 ( see SI/ 84-102). See also section 3 of the Constitution Act, 1985 (Representation) , S.C. 1986, c. 8, Part I and the Constitution Amendment, 1987 (Newfoundland Act) ( see SI/88-11).
 
-Constitution Act, 1982
-
 71
 
 [[END OF PAGE 87]]
@@ -2967,13 +3506,13 @@ Constitution Act, 1982
 
 Item | Column I Act Affected | Column II Amendment | Column III New Name
 --- | --- | --- | ---
-1. | British North America Act, 1867, 30-31 Vict., c. 3 (U.K.) | (1) Section 1 is repealed and the following substituted there- for: '1. This Act may be cited as the Constitution Act, 1867 .' (2) Section 20 is repealed. (3) Class 1 of section 91 is repealed. (4) Class 1 of section 92 is repealed. | Constitution Act, 1867
-2. | An Act to amend and continue the Act 32-33 Victoria chapter 3; and to establish and provide for the Government of the Province of Manitoba, 1870, 33 Vict., c. 3 (Can.) | (1) The long title is repealed and the following substituted therefor: ' Manitoba Act, 1870 .' (2) Section 20 is repealed. | Manitoba Act, 1870
-3. | Order of Her Majesty in Council admitting Rupert's Land and the North-Western Territory into the union, dated the 23rd day of June, 1870 | Rupert's Land and North-Western Territory Order
-4. | Order of Her Majesty in Council admitting British Columbia into the Union, dated the 16th day of May, 1871. | British Columbia Terms of Union
-5. | British North America Act, 1871, 34-35 Vict., c. 28 (U.K.) | Section 1 is repealed and the following substituted therefor: '1. This Act may be cited as the Constitution Act, 1871 .' | Constitution Act, 1871
-6. | Order of Her Majesty in Council admitting Prince Edward Island into the Union, dated the 26th day of June, 1873. | Prince Edward Island Terms of Union
-7. | Parliament of Canada Act, 1875, 38-39 Vict., c. 38 (U.K.) | Parliament of Canada Act, 1875
+1. | British North America Act, 1867, 30-31 Vict., c. 3 (U.K.) | (1) Section 1 is repealed and the following substituted therefor: '1. This Act may be cited as the Constitution Act, 1867.' (2) Section 20 is repealed. (3) Class 1 of section 91 is repealed. (4) Class 1 of section 92 is repealed. | Constitution Act, 1867
+2. | An Act to amend and continue the Act 32-33 Victoria chapter 3; and to establish and provide for the Government of the Province of Manitoba, 1870, 33 Vict., c. 3 (Can.) | (1) The long title is repealed and the following substituted therefor: 'Manitoba Act, 1870.' (2) Section 20 is repealed. | Manitoba Act, 1870
+3. | Order of Her Majesty in Council admitting Rupert's Land and the North-Western Territory into the union, dated the 23rd day of June, 1870 |  | Rupert's Land and North-Western Territory Order
+4. | Order of Her Majesty in Council admitting British Columbia into the Union, dated the 16th day of May, 1871. |  | British Columbia Terms of Union
+5. | British North America Act, 1871, 34-35 Vict., c. 28 (U.K.) | Section 1 is repealed and the following substituted therefor: '1. This Act may be cited as the Constitution Act, 1871.' | Constitution Act, 1871
+6. | Order of Her Majesty in Council admitting Prince Edward Island into the Union, dated the 26th day of June, 1873. |  | Prince Edward Island Terms of Union
+7. | Parliament of Canada Act, 1875, 38-39 Vict., c. 38 (U.K.) |  | Parliament of Canada Act, 1875
 
 72
 
@@ -2983,20 +3522,20 @@ Item | Column I Act Affected | Column II Amendment | Column III New Name
 
 Constitution Act, 1982
 
-Column I | Column II | Column III
+ | Column I | Column II | Column III
 --- | --- | --- | ---
 Item | Act Affected | Amendment | New Name
-8. | Order of Her Majesty in Council admitting all British possessions and Territories in North America and islands adjacent thereto into the Union, dated the 31st day of July, 1880. | Adjacent Territories Order
-9. | British North America Act, 1886, 49-50 Vict., c. 35 (U.K.) | Section 3 is repealed and the following substituted therefor: '3. This Act may be cited as the Constitution Act, 1886 .' | Constitution Act, 1886
-10. | Canada (Ontario Boundary) Act, 1889, 52-53 Vict., c. 28 (U.K.) | Canada (Ontario Boundary) Act, 1889
-11. | Canadian Speaker (Appointment of Deputy) Act, 1895, 2nd Sess., 59 Vict., c. 3 (U.K.) | The Act is repealed.
-12. | The Alberta Act, 1905, 4-5 Edw. VII, c. 3 (Can.) | Alberta Act
-13. | The Saskatchewan Act, 1905, 4-5 Edw. VII, c. 42 (Can.) | Saskatchewan Act
-14. | British North America Act, 1907, 7 Edw. VII, c. 11 (U.K.) | Section 2 is repealed and the following substituted therefor: '2. This Act may be cited as the Constitution Act, 1907 .' | Constitution Act, 1907
-15. | British North America Act, 1915, 5-6 Geo. V, c. 45 (U.K.) | Section 3 is repealed and the following substituted therefor: '3. This Act may be cited as the Constitution Act, 1915 .' | Constitution Act, 1915
-16. | British North America Act, 1930, 20-21 Geo. V, c. 26 (U.K.) | Section 3 is repealed and the following substituted therefor: '3. This Act may be cited as the Constitution Act, 1930 .' | Constitution Act, 1930
-17. | Statute of Westminster, 1931, 22 Geo. V, c. 4 (U.K.) | In so far as they apply to Canada, ( a ) section 4 is repealed; and ( b ) subsection 7(1) is re- pealed. | Statute of Westminster, 1931
-18. | British North America Act, 1940, 3-4 Geo. VI, c. 36 (U.K.) | Section 2 is repealed and the following substituted therefor: '2. This Act may be cited as the Constitution Act, 1940 .' | Constitution Act, 1940
+8. | Order of Her Majesty in Council admitting all British possessions and Territories in North America and islands adjacent thereto into the Union, dated the 31st day of July, 1880. |  | Adjacent Territories Order
+9. | British North America Act, 1886, 49-50 Vict., c. 35 (U.K.) | Section 3 is repealed and the following substituted therefor: '3. This Act may be cited as the Constitution Act, 1886.' | Constitution Act, 1886
+10. | Canada (Ontario Boundary) Act, 1889, 52-53 Vict., c. 28 (U.K.) |  | Canada (Ontario Boundary) Act, 1889
+11. | Canadian Speaker (Appointment of Deputy) Act, 1895, 2nd Sess., 59 Vict., c. 3 (U.K.) | The Act is repealed. |
+12. | The Alberta Act, 1905, 4-5 Edw. VII, c. 3 (Can.) |  | Alberta Act
+13. | The Saskatchewan Act, 1905, 4-5 Edw. VII, c. 42 (Can.) |  | Saskatchewan Act
+14. | British North America Act, 1907, 7 Edw. VII, c. 11 (U.K.) | Section 2 is repealed and the following substituted therefor: '2. This Act may be cited as the Constitution Act, 1907.' | Constitution Act, 1907
+15. | British North America Act, 1915, 5-6 Geo. V, c. 45 (U.K.) | Section 3 is repealed and the following substituted therefor: '3. This Act may be cited as the Constitution Act, 1915.' | Constitution Act, 1915
+16. | British North America Act, 1930, 20-21 Geo. V, c. 26 (U.K.) | Section 3 is repealed and the following substituted therefor: '3. This Act may be cited as the Constitution Act, 1930.' | Constitution Act, 1930
+17. | Statute of Westminster, 1931, 22 Geo. V, c. 4 (U.K.) | In so far as they apply to Canada, ( a ) section 4 is repealed; and ( b ) subsection 7(1) is repealed. | Statute of Westminster, 1931
+18. | British North America Act, 1940, 3-4 Geo. VI, c. 36 (U.K.) | Section 2 is repealed and the following substituted therefor: '2. This Act may be cited as the Constitution Act, 1940.' | Constitution Act, 1940
 
 73
 
@@ -3008,17 +3547,17 @@ Constitution Act, 1982
 
 Item | Column I Act Affected | Column II Amendment | Column III New Name
 --- | --- | --- | ---
-19. | British North America Act, 1943, 6-7 Geo. VI, c. 30 (U.K.) | The Act is repealed.
-20. | British North America Act, 1946, 9-10 Geo. VI, c. 63 (U.K.) | The Act is repealed.
-21. | British North America Act, 1949, 12-13 Geo. VI, c. 22 (U.K.) | Section 3 is repealed and the following substituted therefor: '3. This Act may be cited as the Newfoundland Act .' | Newfoundland Act
-22. | British North America (No. 2) Act, 1949, 13 Geo. VI, c. 81 (U.K.) | The Act is repealed.
-23. | British North America Act, 1951, 14-15 Geo. VI, c. 32 (U.K.) | The Act is repealed.
-24. | British North America Act, 1952, 1 Eliz. II, c. 15 (Can.) | The Act is repealed.
-25. | British North America Act, 1960, 9 Eliz. II, c. 2 (U.K.) | Section 2 is repealed and the following substituted therefor: '2. This Act may be cited as the Constitution Act, 1960 .' | Constitution Act, 1960
-26. | British North America Act, 1964, 12-13 Eliz. II, c. 73 (U.K.) | Section 2 is repealed and the following substituted therefor: '2. This Act may be cited as the Constitution Act, 1964 .' | Constitution Act, 1964
-27. | British North America Act, 1965, 14 Eliz. II, c. 4, Part I (Can.) | Section 2 is repealed and the following substituted therefor: '2. This Part may be cited as the Constitution Act, 1965 .' | Constitution Act, 1965
-28. | British North America Act, 1974, 23 Eliz. II, c. 13, Part I (Can.) | Section 3, as amended by 25-26 Eliz. II, c. 28, s. 38(1) (Can.), is repealed and the fol- lowing substituted therefor: '3. This Part may be cited as the Constitution Act, 1974 .' | Constitution Act, 1974
-29. | British North America Act, 1975, 23-24 Eliz. II, c. 28, Part I (Can.) | Section 3, as amended by 25-26 Eliz. II, c. 28, s. 31 (Can.), is repealed and the following substituted therefor: '3. This Part may be cited as the Constitution Act (No. 1), 1975 .' | Constitution Act (No. 1), 1975
+19. | British North America Act, 1943, 6-7 Geo. VI, c. 30 (U.K.) | The Act is repealed. |
+20. | British North America Act, 1946, 9-10 Geo. VI, c. 63 (U.K.) | The Act is repealed. |
+21. | British North America Act, 1949, 12-13 Geo. VI, c. 22 (U.K.) | Section 3 is repealed and the following substituted therefor: '3. This Act may be cited as the Newfoundland Act.' | Newfoundland Act
+22. | British North America (No. 2) Act, 1949, 13 Geo. VI, c. 81 (U.K.) | The Act is repealed. |
+23. | British North America Act, 1951, 14-15 Geo. VI, c. 32 (U.K.) | The Act is repealed. |
+24. | British North America Act, 1952, 1 Eliz. II, c. 15 (Can.) | The Act is repealed. |
+25. | British North America Act, 1960, 9 Eliz. II, c. 2 (U.K.) | Section 2 is repealed and the following substituted therefor: '2. This Act may be cited as the Constitution Act, 1960.' | Constitution Act, 1960
+26. | British North America Act, 1964, 12-13 Eliz. II, c. 73 (U.K.) | Section 2 is repealed and the following substituted therefor: '2. This Act may be cited as the Constitution Act, 1964.' | Constitution Act, 1964
+27. | British North America Act, 1965, 14 Eliz. II, c. 4, Part I (Can.) | Section 2 is repealed and the following substituted therefor: '2. This Part may be cited as the Constitution Act, 1965.' | Constitution Act, 1965
+28. | British North America Act, 1974, 23 Eliz. II, c. 13, Part I (Can.) | Section 3, as amended by 25-26 Eliz. II, c. 28, s. 38(1) (Can.), is repealed and the following substituted therefor: '3. This Part may be cited as the Constitution Act, 1974.' | Constitution Act, 1974
+29. | British North America Act, 1975, 23-24 Eliz. II, c. 28, Part I (Can.) | Section 3, as amended by 25-26 Eliz. II, c. 28, s. 31 (Can.), is repealed and the following substituted therefor: '3. This Part may be cited as the Constitution Act (No. 1), 1975.' | Constitution Act (No. 1), 1975
 
 74
 
@@ -3078,7 +3617,7 @@ Constitution Acts, 1867 to 1982 - Endnotes
 
 Section  51  was  amended  by  the Statute  Law  Revision  Act,  1893 ,  56-57  Vict.,  c.  14 (U.K.) by repealing the words after 'of the census' to 'seventy-one and' and the word 'subsequent'.
 
-By the British North America Act, 1943 , 6-7 Geo. VI, c. 30 (U.K.), which Act was repealed by the Constitution Act, 1982 ,  redistribution of seats following the 1941 census was postponed until the first session of Parliament after the war. The section was reenacted by the British North America Act, 1946 , 9-10 Geo. VI, c. 63 (U.K.), which Act was also repealed by the Constitution Act, 1982 , to read as follows:
+By the British North America Act, 1943 , 6-7 Geo. VI, c. 30 (U.K.), which Act was repealed by the Constitution Act, 1982 ,  redistribution of seats following the 1941 census was postponed until the first session of Parliament after the war. The section was re-enacted by the British North America Act, 1946 , 9-10 Geo. VI, c. 63 (U.K.), which Act was also repealed by the Constitution Act, 1982 , to read as follows:
 
 51. (1) The number of members of the House of Commons shall be two hundred and fifty-five and the representation of the provinces therein shall forthwith upon the coming into force of this section and thereafter on the completion of each decennial census be readjusted by such authority, in such manner, and from such time as the Parliament of Canada from time to time provides, subject and according to the following rules:
 
@@ -3216,9 +3755,9 @@ Subsection  51(1)  was  re-enacted  by  the Constitution  Act,  1985  (Represent
 
 #### Rules
 
-- There shall be assigned to each of the provinces a number of members equal to the number obtained by dividing the total population of the provinces by two hundred and seventy-nine and by dividing the population of each province by the quotient so obtained, counting any remainder in excess of 0.50 as one after the said process of division.
+1. There shall be assigned to each of the provinces a number of members equal to the number obtained by dividing the total population of the provinces by two hundred and seventy-nine and by dividing the population of each province by the quotient so obtained, counting any remainder in excess of 0.50 as one after the said process of division.
 
-- If the total number of members that would be assigned to a province by the application of rule 1 is less than the total number assigned to that province on the date of coming into force of this subsection, there shall be added to the number of members so assigned such number of members as will result in the province having the same number of members as were assigned on that date.
+2. If the total number of members that would be assigned to a province by the application of rule 1 is less than the total number assigned to that province on the date of coming into force of this subsection, there shall be added to the number of members so assigned such number of members as will result in the province having the same number of members as were assigned on that date.
 
 ## ENDNOTE 3
 
@@ -3342,7 +3881,7 @@ Prior  to  the Constitution  Amendment,  1997  (Newfoundland  Act) ,  Term  17  
 
 In and for the Province of Newfoundland the Legislature shall have exclusive authority to make laws in relation to education, but the Legislature will not have authority to make laws prejudicially affecting any right or privilege with respect to denominational schools, common (amalgamated) schools, or denominational colleges, that any class or classes of persons have by law in Newfoundland at the date of Union, and out of public funds of the Province of Newfoundland, provided for education,
 
-( a ) all  such schools shall receive their share of such funds in accordance with scales determined on a nondiscriminatory basis from time to time by the Legislature for all schools then being conducted under authority of the Legislature; and
+( a ) all  such schools shall receive their share of such funds in accordance with scales determined on a non-discriminatory basis from time to time by the Legislature for all schools then being conducted under authority of the Legislature; and
 
 ( b ) all such colleges shall receive their share of any grant from time to time voted for all colleges then being conducted under authority of the Legislature, such grant being distributed on a non-discriminatory basis.
 
@@ -3354,7 +3893,7 @@ Term 17 of the Terms of Union of Newfoundland with Canada (confirmed by the Newf
 
 In and for the Province of Newfoundland the Legislature shall have exclusive authority to make laws in relation to education, but the Legislature will not have authority to make laws prejudicially affecting any right or privilege with respect to denominational schools, common (amalgamated) schools, or denominational colleges, that any class or classes of persons have by law in Newfoundland at the date of Union, and out of public funds of the Province of Newfoundland, provided for education,
 
-( a ) all  such schools shall receive their share of such funds in accordance with scales determined on a nondiscriminatory basis from time to time by the Legislature for all schools then being conducted under authority of the Legislature; and
+( a ) all  such schools shall receive their share of such funds in accordance with scales determined on a non-discriminatory basis from time to time by the Legislature for all schools then being conducted under authority of the Legislature; and
 
 ( b ) all such colleges shall receive their share of any grant from time to time voted for all colleges then being conducted under authority of the Legislature, such grant being distributed on a non-discriminatory basis.
 
@@ -3376,11 +3915,12 @@ The section originally read as follows:
 
 118. The following Sums shall be paid yearly by Canada to the several Provinces for the Support of their Governments and Legislatures:
 
-Ontario .........................................................................................................................................Eighty | Dollars. thousand.
+ | Dollars.
 --- | ---
-Quebec .......................................................................................................................................Seventy | thousand.
-Nova Scotia ....................................................................................................................................Sixty | thousand.
-New Brunswick ..............................................................................................................................Fifty | thousand.
+Ontario ......................................................................................................................................... | Eighty thousand.
+Quebec ....................................................................................................................................... | Seventy thousand.
+Nova Scotia .................................................................................................................................... | Sixty thousand.
+New Brunswick .............................................................................................................................. | Fifty thousand.
 
 Two hundred and sixty thousand;
 
@@ -3388,7 +3928,7 @@ and an annual Grant in aid of each Province shall be made, equal to Eighty Cents
 
 The  section  was  made  obsolete  by  the Constitution  Act,  1907 ,  7  Edw.  VII,  c.  11 (U.K.), which provided:
 
-(1) The following grants shall be made yearly by Canada to every province, which at the commencement of this Act is a province of the Dominion, for its local purposes and the support of its Government and Legislature:
+1. (1) The following grants shall be made yearly by Canada to every province, which at the commencement of this Act is a province of the Dominion, for its local purposes and the support of its Government and Legislature:
 
 ( a ) A fixed grant
 
@@ -3414,7 +3954,7 @@ where the population of the province exceeds one million five hundred thousand, 
 
 [[START OF PAGE 101]]
 
-Constitution Acts, 1867 to 1982 - Endnotes
+Constitution Acts, 1867 to 1982 — Endnotes
 
 (3) The population of a province shall be ascertained from time to time in the case of the provinces of Manitoba, Saskatchewan, and Alberta respectively by the last quinquennial census or statutory estimate of population made under the Acts establishing those provinces or any other Act of the Parliament of Canada making provision for the purpose, and in the case of any other province by the last decennial census for the time being.
 
