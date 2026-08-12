@@ -13,17 +13,119 @@ Mars 2013
 
 # TABLE DES MATIERES
 
+LISTE DES ACRONYMES ET ABREVIATIONS......................................................................................iv
+INTRODUCTION ..................................................................................................................................... 1
+1 FONDEMENTS ET MISSION DU SECTEUR ................................................................................. 4
+1.1 Les fondements du secteur des droits humains et de la promotion civique............................ 4
+1.2 La mission du secteur des droits humains et de la promotion civique .................................... 4
+2 ANALYSE DE LA SITUATION DU SECTEUR................................................................................ 6
+2.1 Le contexte global des droits humains et de la promotion civique.......................................... 6
+2.1.1 L’aperçu sur le contexte international................................................................................. 6
+2.1.2 Le contexte africain ............................................................................................................ 7
+2.1.3 Le contexte national ........................................................................................................... 8
+2.2 Le cadre juridique des droits humains .................................................................................. 10
+2.2.1 En matière de droits civils et politiques ............................................................................ 10
+2.2.2 En matière de droits économiques, sociaux et culturels................................................... 13
+2.2.3 En matière de droits catégoriels....................................................................................... 14
+2.2.4 En matière de droits de solidarité..................................................................................... 22
+2.3 Contexte global de la citoyenneté et de la culture du civisme .............................................. 26
+2.3.1 Au plan international ........................................................................................................ 26
+2.3.2 Au plan régional ............................................................................................................... 27
+2.3.3 Au plan national ............................................................................................................... 28
+2.4 Le cadre institutionnel et organisationnel ............................................................................. 31
+2.4.1 L’organisation du MDHPC................................................................................................ 31
+2.4.2 La coopération avec les autres acteurs en matière de droits humains et de promotion
+civique ......................................................................................................................................... 32
+2.5 Les politiques publiques et actions antérieures en matière de droits humains ..................... 38
+2.5.1 La politique de promotion et de protection des droits humains adoptée en 2001............. 38
+2.5.2 Le Plan stratégique 2008-2010 ........................................................................................ 40
+2.5.3 Les autres référentiels en matière de droits humains....................................................... 42
+2.5.4 Les enseignements et les grands défis ............................................................................ 45
+3 VISION ET PRINCIPES DIRECTEURS........................................................................................ 48
+3.1 La vision ............................................................................................................................... 48
+3.2 Les principes directeurs........................................................................................................ 48
+3.2.1 Le respect de l’Etat de droit.............................................................................................. 48
+3.2.2 L’observance des règles de civisme et de civilité............................................................. 49
+
 i
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+3.2.3 La jouissance des droits et l’accomplissement des devoirs et des responsabilités .......... 49
+3.2.4 La promotion de la justice et de la justice sociale ............................................................ 49
+3.2.5 La lutte contre les discriminations .................................................................................... 49
+3.2.6 La promotion de l’égalité et de l’équité du genre.............................................................. 50
+3.2.7 La protection et le respect de la dignité de la personne humaine .................................... 50
+3.2.8 La bonne gouvernance .................................................................................................... 50
+3.2.9 L’approche basée sur les droits humains ......................................................................... 50
+4 ORIENTATIONS STRATEGIQUES .............................................................................................. 50
+4.1 Promotion des droits humains .............................................................................................. 51
+4.2 Protection des droits humains .............................................................................................. 51
+4.3 Promotion du civisme et de la citoyenneté ........................................................................... 51
+5 AXES STRATEGIQUES................................................................................................................ 51
+5.1 Promouvoir et défendre les droits humains .......................................................................... 52
+5.1.1 Objectif stratégique .......................................................................................................... 52
+5.1.2 Objectifs opérationnels..................................................................................................... 52
+5.1.3 Programme « Droits humains »........................................................................................ 52
+5.2 Promouvoir une culture du civisme et de la citoyenneté....................................................... 55
+5.2.1 Objectif stratégique .......................................................................................................... 55
+5.2.2 Objectifs opérationnels..................................................................................................... 55
+5.2.3 Programme « Promotion d’une culture du civisme et de la citoyenneté» ......................... 56
+5.3 Assurer un meilleur pilotage du secteur des droits humains et de la promotion civique....... 58
+5.3.1 Objectif stratégique .......................................................................................................... 58
+5.3.2 Objectifs opérationnels..................................................................................................... 59
+5.3.3 Programmes « Pilotage et soutien » ................................................................................ 59
+6 LE DISPOSITIF DE MISE EN ŒUVRE......................................................................................... 61
+6.1 Le rôle des acteurs ............................................................................................................... 61
+6.1.1 Les pouvoirs publics......................................................................................................... 61
+6.1.2 La Commission nationale des droits humains (CNDH) .................................................... 63
+6.1.3 Les organisations de la société civile ............................................................................... 63
+6.1.4 Les partenaires techniques et financiers.......................................................................... 64
+6.1.5 Les acteurs du secteur privé ............................................................................................ 64
+6.2 Les stratégies ....................................................................................................................... 64
+6.2.1 Le partenariat et la coopération........................................................................................ 64
+6.2.2 La communication, l’information et la sensibilisation........................................................ 65
+6.2.3 La mobilisation des ressources ........................................................................................ 65
+
 ii
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+6.2.4 L’écoute et l’orientation des victimes de violation des droits humains.............................. 65
+6.2.5 La prévention des violations des droits humains.............................................................. 66
+6.2.6 L’assistance juridique et judiciaire.................................................................................... 66
+6.2.7 Le renforcement des capacités des acteurs..................................................................... 66
+6.3 Les ressources ..................................................................................................................... 66
+6.3.1 Les ressources humaines ................................................................................................ 67
+6.3.2 Les ressources matérielles et financières ........................................................................ 67
+7 LE DISPOSITIF DE PILOTAGE ET DE SUIVI EVALUATION....................................................... 67
+7.1 Le dispositif de pilotage ........................................................................................................ 67
+7.1.1 Le niveau central.............................................................................................................. 67
+7.1.2 Le niveau déconcentré..................................................................................................... 68
+7.1.3 Le niveau décentralisé ..................................................................................................... 68
+7.2 Le dispositif de suivi et d’évaluation ..................................................................................... 68
+7.2.1 Les indicateurs de résultats.............................................................................................. 69
+7.2.2 Le dispositif de suivi ......................................................................................................... 69
+7.2.3 Le système d’évaluation................................................................................................... 69
+7.2.4 Le système d’information ................................................................................................. 69
+8 LES HYPOTHESES ET RISQUES ............................................................................................... 70
+8.1 Les hypothèses .................................................................................................................... 70
+8.1.1 La volonté politique .......................................................................................................... 70
+8.1.2 La stabilité socio politique ................................................................................................ 70
+8.1.3 La mobilisation des ressources ........................................................................................ 70
+8.1.4 L’adhésion des parties prenantes .................................................................................... 71
+8.2 Les risques ........................................................................................................................... 71
+8.2.1 L’instabilité institutionnelle................................................................................................ 71
+8.2.2 L’ignorance et l’analphabétisme....................................................................................... 71
+8.2.3 Le sous financement du secteur ...................................................................................... 72
+8.2.4 Les pesanteurs socioculturelles ....................................................................................... 72
+8.2.5 Les obstacles à l’accès à la justice .................................................................................. 72
+CONCLUSION....................................................................................................................................... 73
+Bibliographie .......................................................................................................................................... 74
 
 iii
 
@@ -223,7 +325,7 @@ v
 
 # INTRODUCTION
 
-Le Burkina Faso, pays enclavé situé au cœur de l'Afrique de l'ouest sur une superficie de 274 122 km 2 avec une population estimée à seize millions sept cent soixante dix neuf mille deux cent six (16 779 206  ) 1 habitants  en  2012,  a  un  taux  de  croissance  démographique  de  3,1%  par  an 2 en 2006. Le pays a connu un taux de croissance réel du Produit intérieur brut (PIB) de 7,9% 3 entre 2007  et  2011.  Outre  cette  croissance  économique  relativement  stable,  la  situation  socioéconomique  du  pays  indique  une  incidence  de  pauvreté  globale  de  43,9% 4 et  un  Indice  de développement humain (IDH) faible (0,331) 5 .  Il  est  classé  au  rang  de  181 ème sur  187  pays.  Cet indicateur  de  développement  fait  ressortir  que  le  Burkina  Faso  est  parmi  les  pays  les  moins avancés au monde.
+Le Burkina Faso, pays enclavé situé au cœur de l'Afrique de l'ouest sur une superficie de 274 122 km 2 avec une population estimée à seize millions sept cent soixante dix neuf mille deux cent six (16 779 206  ) 1 habitants  en  2012,  a  un  taux  de  croissance  démographique  de  3,1%  par  an 2 en 2006. Le pays a connu un taux de croissance réel du Produit intérieur brut (PIB) de 7,9% 3 entre 2007  et  2011.  Outre  cette  croissance  économique  relativement  stable,  la  situation  socio-économique  du  pays  indique  une  incidence  de  pauvreté  globale  de  43,9% 4 et  un  Indice  de développement humain (IDH) faible (0,331) 5 .  Il  est  classé  au  rang  de  181 ème sur  187  pays.  Cet indicateur  de  développement  fait  ressortir  que  le  Burkina  Faso  est  parmi  les  pays  les  moins avancés au monde.
 
 Malgré ces contraintes qui entravent considérablement son développement socioéconomique, le Burkina  Faso  s'est  engagé  sur  la  voie  de  la  démocratie  et  de  l'édification  d'un  Etat  de  droit favorable au respect des droits fondamentaux de la personne humaine.
 
@@ -257,7 +359,7 @@ Ces actions, qui ont certes permis d'enregistrer des acquis importants, se sont 
 
 Le présent document a été élaboré sur la base d'un diagnostic participatif avec la mise en place de deux comités : un comité technique de suivi et un comité de rédaction. Le comité technique de suivi composé de représentants des départements ministériels et institutions, des organisations de la société civile et des partenaires techniques et financiers était chargé de donner des orientations et de veiller au respect des standards de qualité de la présente politique. Le comité de rédaction, quant  à  lui,  avait  pour  mission  l'élaboration  de  la  présente  politique  et  de  son  premier  plan d'actions.
 
-L'ensemble des acteurs ont été impliqués dans le processus d'élaboration de la politique à travers l'organisation de quatre (4) ateliers diagnostics à Ouagadougou et à Bobo-Dioulasso. Ces ateliers ont connu la participation de plus de trois cent (300) acteurs de promotion et de protection des droits humains. Les participants ont ainsi analysé les forces, les faiblesses, les opportunités, les menaces  et  ont  également  fait  des  suggestions  pour  l'amélioration  de  l'effectivité  des  droits humains au Burkina Faso.
+L'ensemble des acteurs ont été impliqués dans le processus d'élaboration de la politique à travers l'organisation de quatre (4) ateliers diagnostics à Ouagadougou et à Bobo-Dioulasso. Ces ateliers
 
 > 6  Burkina Faso, Stratégie de croissance accélérée et de développement durable (2011-2015), p. 60
 
@@ -266,6 +368,8 @@ L'ensemble des acteurs ont été impliqués dans le processus d'élaboration de 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+ont connu la participation de plus de trois cent (300) acteurs de promotion et de protection des droits humains. Les participants ont ainsi analysé les forces, les faiblesses, les opportunités, les menaces et ont également fait des suggestions pour l’amélioration de l’effectivité des droits humains au Burkina Faso.
 
 Outre  les  consultations  de  l'ensemble  des  acteurs,  l'équipe  de  rédaction  a  fait  une  revue documentaire  en  vue  de  prendre  en  compte  des  recommandations  figurant  dans  certains documents. Il s'agit notamment : du rapport national de l'Examen périodique universel 2009, le rapport du groupe de travail de l'Examen périodique universel (2010), le rapport présenté à la Commission  africaine  des  droits  de  l'Homme  et  des  Peuples  (2011)  et  les  observations conclusives qui en sont issues, le rapport national du Mécanisme d'évaluation par les pairs et la Stratégie de croissance accélérée et de développement durable.
 
@@ -401,7 +505,7 @@ A  l'instar  de  ce  qui  est  fait  au  niveau  international,  l'Afrique  a  �
 
 Outre ces mécanismes au niveau africain, il existe des mécanismes sous-régionaux qui œuvrent à l'effectivité des droits humains. Il s'agit, pour la sous-région ouest africaine, de la Cour de justice de la Communauté économique des Etats de l'Afrique de l'ouest (CEDEAO) et de la Cour de justice de l'Union économique et monétaire ouest africaine (UEMOA).
 
-Malgré  ces avancées, la situation des droits humains  reste précaire. En  effet, le  sousdéveloppement,  l'extrême  pauvreté,  la  corruption,  la  mal-gouvernance,  les  violences  interethniques  et  religieuses,  la  mauvaise  gestion  de  certains  processus  électoraux,  la  répartition inéquitable des ressources et les pandémies sont autant de facteurs qui entravent la réalisation des droits humains. En outre, les conflits armés ou non, caractérisés par la circulation d'armes légères ont une conséquence néfaste sur la situation sécuritaire et, partant sur les droits humains. Dans la sous  région  ouest-africaine,  on  peut  citer  entre  autres,  les  cas  de  la  Côte  d'Ivoire  depuis l'avènement de la rébellion en septembre 2002, de la Guinée Conakry en 2008 après la mort du président Lansana Conté et, récemment du Mali, en proie depuis le début de l'année 2012 à une rébellion sécessionniste doublée de velléités de groupes islamistes.
+Malgré  ces avancées, la situation des droits humains  reste précaire. En  effet, le  sous-développement,  l'extrême  pauvreté,  la  corruption,  la  mal-gouvernance,  les  violences  inter-ethniques  et  religieuses,  la  mauvaise  gestion  de  certains  processus  électoraux,  la  répartition inéquitable des ressources et les pandémies sont autant de facteurs qui entravent la réalisation des droits humains. En outre, les conflits armés ou non, caractérisés par la circulation d'armes légères ont une conséquence néfaste sur la situation sécuritaire et, partant sur les droits humains. Dans la sous  région  ouest-africaine,  on  peut  citer  entre  autres,  les  cas  de  la  Côte  d'Ivoire  depuis l'avènement de la rébellion en septembre 2002, de la Guinée Conakry en 2008 après la mort du président Lansana Conté et, récemment du Mali, en proie depuis le début de l'année 2012 à une rébellion sécessionniste doublée de velléités de groupes islamistes.
 
 Concernant toujours le continent, les mouvements sociopolitiques qui ont lieu dans certains pays de  l'Afrique  du  nord  (Tunisie,  Lybie,  Egypte)  ont  entrainé  des  violations  massives  des  droits humains.
 
@@ -409,7 +513,7 @@ Par  ailleurs,  on  assiste  ces  dernières  années  à  une  montée  dangere
 
 ### 2.1.3 Le contexte national
 
-Le  Burkina  Faso  s'est  engagé  depuis  1991,  dans  un  processus  d'édification  d'un  Etat  de  droit garantissant  les  droits  collectifs  et  individuels.  Depuis  lors,  des  acquis  ont  été  engrangés.  A  la faveur des multiples revendications citoyennes pour une meilleure protection des droits humains, suite à l'assassinat du journaliste Norbert ZONGO et de ses compagnons en décembre 1998, il y a eu un véritable engagement de l'Etat en faveur du respect des droits humains qui a conduit à la création  du  Secrétariat  d'Etat  aux  droits  de  l'Homme  en  2000  et  à  l'adoption  d'une  politique nationale des droits humains en 2001.
+Le  Burkina  Faso  s'est  engagé  depuis  1991,  dans  un  processus  d'édification  d'un  Etat  de  droit garantissant  les  droits  collectifs  et  individuels.  Depuis  lors,  des  acquis  ont  été  engrangés.  A  la faveur des multiples revendications citoyennes pour une meilleure protection des droits humains, suite à l'assassinat du journaliste Norbert ZONGO et de ses compagnons en décembre 1998, il y
 
 > 8   Cette Cour créée par le protocole dit de Ouagadougou est appelée à disparaitre au profit de la Cour africaine de justice et des droits de l'Homme instituée par le protocole du 1 er  juillet 2008 qui consacre la fusion de cette Cour avec la Cour de justice de l'Union africaine.
 
@@ -418,6 +522,8 @@ Le  Burkina  Faso  s'est  engagé  depuis  1991,  dans  un  processus  d'édific
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+a eu un véritable engagement de l’Etat en faveur du respect des droits humains qui a conduit à la création du Secrétariat d’Etat aux droits de l’Homme en 2000 et à l’adoption d’une politique nationale des droits humains en 2001.
 
 Il faut toutefois regretter que les différentes revendications soient marquées par des manifestations violentes, des actes d'incivisme et l'usage parfois excessif de la force publique.
 
@@ -429,7 +535,7 @@ La  persistance  de  certaines  pratiques  socioculturelles  néfastes  constitu
 
 Par ailleurs, en dépit de la loi n° 034-2009/AN du 16 juin 2009 portant régime foncier rural qui ne  fait  aucune  discrimination  en  matière  d'accès  à  la  terre  et  de  la  lutte  que  mènent  les organisations  de  la  société  civile,  les  femmes  demeurent  toujours  victimes  des  pesanteurs socioculturelles qui leur refusent l'accès à la terre dans certaines contrées du pays. Cela constitue une  négation  du  droit  à  la  propriété  foncière  pour  ces  dernières  et  les  prive  des  facteurs  de production alors même qu'elles constituent une énorme force en la matière.
 
-Le contexte de crise  que  connaissent  certains  pays  voisins,  notamment  le  Mali  a  conduit  à  un afflux de près de cent sept mille (107.000) 9 réfugiés sur le territoire burkinabè au moment où le pays connait une situation alimentaire difficile. De même, la succession de mauvaises campagnes agricoles crée des risques d'insécurité alimentaire et constitue d'énormes défis à relever par l'Etat pour la réalisation effective des droits humains.
+Le contexte de crise  que  connaissent  certains  pays  voisins,  notamment  le  Mali  a  conduit  à  un afflux de près de cent sept mille (107.000) 9 réfugiés sur le territoire burkinabè au moment où le
 
 > 9  Commission nationale pour les réfugiés (CONAREF) à la date du 07 août 2012.
 
@@ -438,6 +544,8 @@ Le contexte de crise  que  connaissent  certains  pays  voisins,  notamment  le 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+pays connait une situation alimentaire difficile. De même, la succession de mauvaises campagnes agricoles crée des risques d’insécurité alimentaire et constitue d‘énormes défis à relever par l’Etat pour la réalisation effective des droits humains.
 
 ## 2.2 Le cadre juridique des droits humains
 
@@ -505,7 +613,7 @@ Les droits économiques, sociaux et culturels (DESC) sont également appelés dr
 
 Si le cadre juridique nationale reconnait les DESC force est de reconnaître que des insuffisances demeurent dans leur mise en œuvre.
 
--le droit à la santé. S'il  est  indéniable que de multiples efforts ont été consentis par les pouvoirs publics afin d'assurer une meilleure prise en charge sanitaire des populations 13 , la qualité et l'offre des soins de santé restent bien en-deçà des attentes. En effet, il y a un besoin  impérieux  en  infrastructures  sanitaires,  en  personnel  de  santé  et  en  moyens logistiques. Certaines  localités  du  Burkina  Faso  ne  disposent  pas  d'infrastructures sanitaires  et  accéder  à  un  centre  de  santé  relève,  pour  les  malades,  d'un  parcours  du combattant. De même, avec l'adoption le 12 mars 2010 du décret n°2010102/PRES/PM/MS portant conditions générales de tarification des actes des professionnels de la santé et des hospitalisations dans les établissements publics de santé du  Burkina  Faso,  les  frais  des  différents  actes  médicaux  ont  doublé,  ce  qui  réduit considérablement l'accès des populations aux soins de santé. Notons toutefois que cette dernière mesure a été mise en veilleuse.
+-le droit à la santé. S'il  est  indéniable que de multiples efforts ont été consentis par les pouvoirs publics afin d'assurer une meilleure prise en charge sanitaire des populations 13 , la qualité et l'offre des soins de santé restent bien en-deçà des attentes. En effet, il y a un besoin  impérieux  en  infrastructures  sanitaires,  en  personnel  de  santé  et  en  moyens logistiques. Certaines  localités  du  Burkina  Faso  ne  disposent  pas  d'infrastructures sanitaires  et  accéder  à  un  centre  de  santé  relève,  pour  les  malades,  d'un  parcours  du combattant. De même, avec l'adoption le 12 mars 2010 du décret n°2010-102/PRES/PM/MS portant conditions générales de tarification des actes des professionnels de la santé et des hospitalisations dans les établissements publics de santé du  Burkina  Faso,  les  frais  des  différents  actes  médicaux  ont  doublé,  ce  qui  réduit considérablement l'accès des populations aux soins de santé. Notons toutefois que cette dernière mesure a été mise en veilleuse.
 
 -le droit à l'éducation. De façon générale, le taux brut de scolarisation est plus élevé chez les garçon que chez les filles (78,3 pour les garçons et 71,2 pour les filles au primaire et 25,7 % pour les hommes et 18,7 pour les femmes au secondaire) 14 .  En effet, beaucoup d'enfants  n'ont  pas  accès  à  l'école  et  une  frange  importante  de  jeunes  filles  continuent d'être victimes de préjugés socioculturels qui les empêchent malheureusement d'accéder à l'école. Le taux de scolarisation est meilleur en milieu urbain qu'en zone rurale (le taux net de scolarisation est de 68,2 pour les garçon et 66,8 pour les filles en milieu urbain contre 41,9 pour les garçons et 38,9 pour les filles en milieu rural) 15 . De même, il faut relever au titre des obstacles à l'accès à l'éducation par tous, la non adhésion du Burkina Faso à la convention de l'UNESCO de 1960 concernant la lutte contre la discrimination dans le
 
@@ -535,7 +643,7 @@ Les droits catégoriels sont ceux qui visent la protection des personnes vulnér
 
 #### 2.2.3.1. Les droits de la femme
 
-Au Burkina Faso, les femmes jouissent autant que les hommes des différents droits garantis par la Constitution  et  les  autres  textes  nationaux  et  internationaux  notamment  la  Convention  sur l'élimination  de  toutes  les  formes  de  discriminations  à  l'égard  des  femmes 17 (CEDEF),  le Protocole  à  la  Charte  africaine  des  droits  de  l'Homme  et  des  Peuples  relatif  aux  droits  de  la femme en Afrique.
+Au Burkina Faso, les femmes jouissent autant que les hommes des différents droits garantis par la Constitution  et  les  autres  textes  nationaux  et  internationaux  notamment  la  Convention  sur
 
 > 16  L'amélioration du climat des affaires, la mise en place de fonds pour soutenir les initiatives des jeunes, la rencontre annuelle Gouvernement/ Secteur privé, les rencontres Gouvernement/ Syndicats, etc. sont des progrès à la mise en œuvre du droit au travail.
 
@@ -544,6 +652,8 @@ Au Burkina Faso, les femmes jouissent autant que les hommes des différents droi
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+l’élimination de toutes les formes de discriminations à l’égard des femmes 17 (CEDEF), le Protocole à la Charte africaine des droits de l’Homme et des Peuples relatif aux droits de la femme en Afrique.
 
 Cependant,  en  dépit  des  droits  garantis  par  les  textes,  la  situation  des  droits  de  la  femme  au Burkina Faso reste toujours précaire. De nombreuses insuffisances sont constatées. Il s'agit entre autres :
 
@@ -607,7 +717,7 @@ Malgré ces avancées, on constate de nombreuses insuffisances parmi lesquelles 
 
 [[START OF PAGE 24]]
 
-- sanitaires  publiques  exclusivement  réservées  aux  enfants  or  cela  aurait  eu  le  mérite  de tenir compte de la spécificité de la prise en charge de la santé des enfants ;
+sanitaires  publiques  exclusivement  réservées  aux  enfants  or  cela  aurait  eu  le  mérite  de tenir compte de la spécificité de la prise en charge de la santé des enfants ;
 
 -le droit d'opinion et d'expression des enfants . Le Burkina Faso en créant le parlement des  enfants  a  certes  voulu  offrir  aux  enfants  un  cadre  d'expression  de  leurs  opinions. Toutefois, dans les cellules familiales, les enfants n'ont pas toujours droit à la parole sur certains sujets du fait des pesanteurs socioculturelles notamment en milieu rural ;
 
@@ -655,7 +765,7 @@ Il sera abordé ici, les droits des personnes vivant avec le VIH/SIDA et les dro
 
 ##### Les personnes vivant avec le VIH/SIDA
 
-En  référence  à  la  législation  nationale,  les  personnes  vivant  avec  le  VIH/SIDA  (PVVIH) jouissent de tous les droits reconnus aux citoyens par les textes en vigueur. Elles ne peuvent faire l'objet d'aucune discrimination notamment en matière de droit à la santé, de droit au logement, de  droit  à  l'emploi,  de  droit  à  la  protection  sociale  (article  14  de  la  loi  n°  49-2005/AN  du  22 décembre  2005  portant  santé  de  la  reproduction  au  Burkina  Faso).  De  même,  la  loi  n°  0302008/AN  du  20  mai  2008  portant  lutte  contre  le  VIH/SIDA  et  protection  des  droits  des personnes vivant avec le VIH/SIDA dispose que les PVVIH jouissent, sans discrimination, de tous les droits (article 16).
+En  référence  à  la  législation  nationale,  les  personnes  vivant  avec  le  VIH/SIDA  (PVVIH) jouissent de tous les droits reconnus aux citoyens par les textes en vigueur. Elles ne peuvent faire l'objet d'aucune discrimination notamment en matière de droit à la santé, de droit au logement, de  droit  à  l'emploi,  de  droit  à  la  protection  sociale  (article  14  de  la  loi  n°  49-2005/AN  du  22 décembre  2005  portant  santé  de  la  reproduction  au  Burkina  Faso).  De  même,  la  loi  n°  030-2008/AN  du  20  mai  2008  portant  lutte  contre  le  VIH/SIDA  et  protection  des  droits  des personnes vivant avec le VIH/SIDA dispose que les PVVIH jouissent, sans discrimination, de tous les droits (article 16).
 
 Nonobstant ce cadre juridique favorable, il  convient de souligner que  les conditions  de  vie  au niveau  économique,  social  et  politique  des  personnes  vivant  avec  le  VIH/SIDA  ne  sont  pas reluisantes malgré les efforts consentis par le gouvernement pour faciliter leur insertion sociale et pour leur prise en charge médicale. La stigmatisation dont elles sont victimes ne favorise pas leur plein épanouissement ;
 
@@ -669,7 +779,7 @@ Nonobstant ce cadre juridique favorable, il  convient de souligner que  les cond
 
 Les  personnes  âgées  ne  disposent  pas  d'une  protection  juridique  spécifique  répondant  à  leurs besoins  particuliers.  Elles  jouissent  comme  toute  autre  personne,  des  droits  reconnus  par  les textes  en  vigueur.  De  ce  fait,  toutes  les  dispositions  législatives  ont  vocation  à  protéger  tout Burkinabè  et  toute  personne  vivant  sur  le  territoire  burkinabè  y  compris  les  personnes  âgées. Toutefois,  il  faut  noter  dans  le  cadre  de  l'exercice  des  droits  politiques,  l'existence  d'un  code électoral  qui  définit  le  corps  électoral,  fixe  les  conditions  de  participation  aux  votes  et  les conditions d'éligibilité. Ce code modifié par la loi n°019-2009/AN du 07 mars 2009 établit des dispositions spécifiques favorables aux personnes âgées. Au Burkina, il n'existe pas de restriction tenant à l'âge qui limite le droit de vote des personnes âgées.
 
-Il  convient  toutefois  de  noter  des  insuffisances  dans  les  mesures  de  protection  des  personnes âgées. En effet, le décret n°2010-102/PRES/PM/MS du 12 mars 2010 abroge le Kiti an-VIII0202/FP/SAN-SA du 08 février 1991 qui déterminait les bénéficiaires et le taux de réduction des frais d'hospitalisation et de consultation des retraités, renvoie à des textes d'application qui n'ont pas encore été pris. C'est un vide juridique qui ne permet pas la protection des personnes âgées.
+Il  convient  toutefois  de  noter  des  insuffisances  dans  les  mesures  de  protection  des  personnes âgées. En effet, le décret n°2010-102/PRES/PM/MS du 12 mars 2010 abroge le Kiti an-VIII-0202/FP/SAN-SA du 08 février 1991 qui déterminait les bénéficiaires et le taux de réduction des frais d'hospitalisation et de consultation des retraités, renvoie à des textes d'application qui n'ont pas encore été pris. C'est un vide juridique qui ne permet pas la protection des personnes âgées.
 
 De même, certaines dispositions  de  la  loi  n°015-2006/AN  du  11  mai  2006  portant  régime  de sécurité  sociale  applicable  aux  travailleurs  salariés  et  assimilés  au  Burkina  Faso,  protègent  aussi bien les travailleurs salariés et assimilés que leurs ayants droit. Cependant, il faut déplorer le fait que la sécurité sociale ne soit pas obligatoire pour toutes les catégories de travailleurs. La majorité des  personnes  âgées  exerçant  dans  les  secteurs  tels  que  l'agriculture,  l'élevage,  etc.  sont  sans revenus et laissées pour compte dans les zones rurales.
 
@@ -697,7 +807,7 @@ Au plan interne, des mesures administratives et de nombreux textes législatifs 
 
 Au niveau international, il n'existe pas encore un instrument spécifique qui énonce ce droit. L'on peut toutefois relever l'adoption par l'Assemblée générale des Nations unies, en novembre 1984, de la Déclaration sur les droits des peuples à la paix. Aux termes de cette déclaration, les peuples ont un droit sacré à la paix. Les Etats ont l'obligation d'assurer aux peuples une vie pacifique. Ils doivent donc éliminer les menaces de guerre et renoncer au recours à la force dans les relations internationales.
 
-Si  au  niveau  international,  il  n'existe  pas  d'instruments  contraignants  en  la  matière,  au  niveau régional africain on peut se réjouir du fait que la Charte africaine des droits de l'Homme et des Peuples ait prévu ce droit 23 . Pour donner effet à ce principe, elle fait obligation aux Etats parties d'interdire que toute personne bénéficiaire de l'asile sur leur territoire entreprenne des activités subversives  contre  son  pays  d'origine  ou  contre  tout  autre  pays,  parties  à  la  Charte.  Ils s'interdisent  également  de  laisser  utiliser  leur  territoire  comme  base  de  départ  d'activités subversives ou terroristes dirigées contre le peuple de tout autre Etat partie 24 .
+Si  au  niveau  international,  il  n'existe  pas  d'instruments  contraignants  en  la  matière,  au  niveau régional africain on peut se réjouir du fait que la Charte africaine des droits de l'Homme et des Peuples ait prévu ce droit 23 . Pour donner effet à ce principe, elle fait obligation aux Etats parties d'interdire que toute personne bénéficiaire de l'asile sur leur territoire entreprenne des activités subversives  contre  son  pays  d'origine  ou  contre  tout  autre  pays,  parties  à  la  Charte.  Ils
 
 > 22  La  catégorie  est  apparue  dans  les  doctrines  juridiques  dans  les  années  1980  et  sa  théorisation  est  loin  d'être terminée
 
@@ -708,6 +818,8 @@ Si  au  niveau  international,  il  n'existe  pas  d'instruments  contraignants 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+s'interdisent  également  de  laisser  utiliser  leur  territoire  comme  base  de  départ  d'activités subversives ou terroristes dirigées contre le peuple de tout autre Etat partie 24 .
 
 Le Burkina Faso s'investit de façon remarquable pour que la paix règne en Afrique et dans le monde. En effet, il s'est fortement engagé, à travers le Chef de l'Etat, Blaise COMPAORE, dans la résolution des conflits régionaux et sous-régionaux. Au niveau diplomatique il a joué le rôle de médiateur dans la résolution des crises sociopolitiques en Côte d'Ivoire, au Togo, en Guinée ou encore au Mali.
 
@@ -759,7 +871,7 @@ Cet état de fait nécessite le plus souvent le reboisement dans les localités 
 
 Le  droit  au  développement  a  été  progressivement  consacré  comme  droit  de  l'homme.  De nombreux instruments internationaux y relatifs ont été adoptés. L'un des textes majeurs est la Déclaration des Nations Unies de 1986 sur le droit au développement. Dans la Déclaration du Millénaire,  les  Chefs  d'Etats  et  de  gouvernement  ont  reconnu  que  les  avantages  liés  à  la mondialisation  sont  très  inégalement  répartis  d'une  part,  entre  les  pays  développés  et,  d'autre part, les pays en développement et les pays en transition. Ils reconnaissent également la nécessité de faire en sorte que celle-ci devienne une force positive pour l'humanité tout entière.
 
-L'Assemblée générale des Nations unies a adopté en décembre 1986 la Résolution 41/128 sur le droit  au  développement.  Selon  les  termes  de  cette  Résolution,  «  le  développement  est  un processus global, économique, social, culturel et politique qui vise à améliorer sans cesse le bienêtre de l'ensemble de la population et de tous les individus, sur la base de leur participation active, libre et significative au développement et au partage équitable des bienfaits qui en découlent ». En somme, le droit au développement est :
+L'Assemblée générale des Nations unies a adopté en décembre 1986 la Résolution 41/128 sur le droit  au  développement.  Selon  les  termes  de  cette  Résolution,  «  le  développement  est  un processus global, économique, social, culturel et politique qui vise à améliorer sans cesse le bien-être de l'ensemble de la population et de tous les individus, sur la base de leur participation active, libre et significative au développement et au partage équitable des bienfaits qui en découlent ». En somme, le droit au développement est :
 
 -un droit fondé sur le principe de l'autodétermination de chaque peuple ;
 
@@ -773,7 +885,7 @@ Au niveau  régional,  le  droit  au  développement  est  prévu  par  la  Char
 
 Au niveau national,  le  pays  a  longtemps  développé  des  politiques  de  réduction  de  la  pauvreté dont  les  résultats  sont  mitigés 30 .  A  travers  l'adoption  en  2011  de  la  Stratégie  de  croissance accélérée  et  de  développement  durable  (SCADD),  il  ambitionne  d'atteindre  des  résultats  qui pourraient contribuer significativement à l'épanouissement des populations.
 
-Les obstacles à la réalisation du droit au développement sont connus depuis fort longtemps. Par exemple, dans son rapport présenté à la 49ème session de la Commission des droits de l'homme en 1993, le Secrétaire général mentionnait trois obstacles majeurs à la mise en œuvre du droit au développement  qui  restent  d'une  grande  actualité  :  le  non-respect  du  droit  des  peuples  à l'autodétermination,  les  politiques  macroéconomiques  au  niveau  international  et  le  manque  de coordination au sein du système des Nations Unies.
+Les obstacles à la réalisation du droit au développement sont connus depuis fort longtemps. Par exemple, dans son rapport présenté à la 49ème session de la Commission des droits de l'homme
 
 > 29   V.  Z.  HAQUANI, « Le droit au développement : fondements et sources », p23, in. R.-J. DUPUY, Le droit au développement au plan international,  Académie de droit international  de  La  Haye,  Université  des  Nations  Unies, 1979.
 
@@ -784,6 +896,8 @@ Les obstacles à la réalisation du droit au développement sont connus depuis f
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+en 1993, le Secrétaire général mentionnait trois obstacles majeurs à la mise en œuvre du droit au développement  qui  restent  d'une  grande  actualité  :  le  non-respect  du  droit  des  peuples  à l'autodétermination,  les  politiques  macroéconomiques  au  niveau  international  et  le  manque  de coordination au sein du système des Nations Unies.
 
 D'autres obstacles peuvent se résumer :
 
@@ -807,7 +921,7 @@ La réalisation des  droits  de  la  troisième  génération,  singuliers  par 
 
 La  question  des  devoirs  de  l'individu  n'est  pas  expressément  prévue  par  les  instruments internationaux  relatifs  aux  droits  humains.  Toutefois,  de  façon  générale,  la  reconnaissance  des droits emporte obligation pour chaque individu de les respecter.
 
-Par  ailleurs,  la  Déclaration  universelle  des  droits  de  l'Homme  reconnait  d'une  part,  que  les individus sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité 31 , et d'autre part, que les individus ont des devoirs envers la communauté dans laquelle seule le libre et plein développement de leur personnalité est possible 32 . Le préambule du Pacte international relatif aux droits civils et politiques prend en compte le fait que l'individu a des devoirs envers autrui et envers la collectivité à laquelle il appartient et est tenu de promouvoir et de respecter les droits qui y sont reconnus.
+Par  ailleurs,  la  Déclaration  universelle  des  droits  de  l'Homme  reconnait  d'une  part,  que  les individus sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité 31 , et d'autre part, que les individus ont des devoirs envers la communauté dans laquelle seule le libre et plein développement de leur personnalité est possible 32 . Le préambule du Pacte international relatif aux droits civils et politiques prend en compte le fait que l'individu a
 
 > 31  Article 1
 
@@ -818,6 +932,8 @@ Par  ailleurs,  la  Déclaration  universelle  des  droits  de  l'Homme  reconna
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+des devoirs envers autrui et envers la collectivité à laquelle il appartient et est tenu de promouvoir et de respecter les droits qui y sont reconnus.
 
 En outre, plusieurs déclarations et plans d'actions portant sur des valeurs à développer telles que la  tolérance  et  la  culture  de  la  paix,  sur  l'institution  de  journées  célébrant  ces  valeurs  ont  été adoptés.
 
@@ -863,17 +979,19 @@ Par ailleurs, la libre circulation et le libre établissement des individus dans
 
 ### 2.3.3 Au plan national
 
-La  citoyenneté  burkinabè  octroie  des  droits  mais  impose  également  des  obligations.  Ainsi,  la Constitution burkinabè 35 , dans son titre premier, énumère un certain nombre de devoirs relatifs à la qualité de citoyen burkinabè. Il s'agit, entre autres, du devoir de respecter la Constitution et les lois,  du  devoir de respecter  les institutions du Faso, du devoir de respecter l'unité nationale, la paix et la cohésion  sociale  (interdiction de  la  création de  partis politiques régionalistes, confessionnels,  tribalistes  ou  racistes),  du  devoir  de  faire  le  service  national,  de  concourir  à  la défense  et  au  maintien  de  l'intégrité  du  territoire,  du  devoir  de  s'acquitter  de  ses  obligations fiscales,  du  devoir  de  respecter  les  biens  publics,  du  devoir  de  promouvoir  et  protéger l'environnement.
+La  citoyenneté  burkinabè  octroie  des  droits  mais  impose  également  des  obligations.  Ainsi,  la Constitution burkinabè 35 , dans son titre premier, énumère un certain nombre de devoirs relatifs à la qualité de citoyen burkinabè. Il s'agit, entre autres, du devoir de respecter la Constitution et les
 
 > 34  Articles 27 et 28.
 
-> 35 Articles 1 er  à 30
+> 35 Articles 1er à 30
 
 28
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
+lois,  du  devoir de respecter  les institutions du Faso, du devoir de respecter l'unité nationale, la paix et la cohésion  sociale  (interdiction de  la  création de  partis politiques régionalistes, confessionnels,  tribalistes  ou  racistes),  du  devoir  de  faire  le  service  national,  de  concourir  à  la défense  et  au  maintien  de  l'intégrité  du  territoire,  du  devoir  de  s'acquitter  de  ses  obligations fiscales,  du  devoir  de  respecter  les  biens  publics,  du  devoir  de  promouvoir  et  protéger l'environnement.
 
 Ces  devoirs  de  portée  générale  sont  complétés  par  des  devoirs  liés  à  l'exercice  de  certaines professions ou activités 36 .  Il  a  été  adopté  des  statuts  et  codes  éthiques  qui  organisent  certaines fonctions.  Pour  les  faire  respecter,  l'Etat  a  mis  en  place  des  institutions  de  veille  telles  que l'Autorité  supérieure  de  contrôle  d'Etat  et  les  inspections  techniques  des  services  dans  les départements ministériels.
 
@@ -907,7 +1025,7 @@ S'agissant du civisme de façon générale, la crise s'observe à tous les nivea
 
 Au  niveau  local,  le  choix  du  gouvernement  d'insuffler  le  développement  à  partir  de  la  base rencontre  quelques  difficultés.  En  effet,  à  la  faveur  de  la  communalisation  intégrale  du  pays depuis  2006,  le  citoyen  est  mis  au  cœur  du  développement  de  sa  communauté.  Mais  cette citoyenneté (locale) qui confère des droits mais aussi des devoirs est souvent mise à mal. En effet, à l'épreuve de la réalité, les collectivités territoriales sont confrontées à des difficultés liées, entre autres, au désintérêt des populations à la gestion des affaires locales se traduisant concrètement par  des  oppositions  souvent  violentes  avec  les  élus  locaux,  le  refus  de  paiement  des  taxes communales, le non respect des arrêtés communaux. Cette absence d'intérêt et d'implication des populations  résulte  souvent  de  l'ignorance  des  règles  de  fonctionnement  des  collectivités territoriales  et  du  rôle  du  citoyen  dans  la  gestion  des  affaires  locales.  A  cela,  s'ajoute  la méconnaissance par les élus locaux des obligations qu'ils ont vis-à-vis des populations.
 
-Au niveau de l'administration, certains agents publics dont la mission concourt à la satisfaction de l'intérêt général exercent  leur  profession  au  mépris  des  règles  de  déontologie.  Ainsi,  se développent des pratiques préjudiciables au développement socio-économique dont la réalisation de  certains  de  droits  humains.  A  cet  égard,  on  pourrait  citer  la  corruption,  l'absentéisme, l'utilisation à des fins privées des biens publics, le mépris affiché à l'égard des usagers, la fraude, etc.
+Au niveau de l'administration, certains agents publics dont la mission concourt à la satisfaction de l'intérêt général exercent  leur  profession  au  mépris  des  règles  de  déontologie.  Ainsi,  se développent des pratiques préjudiciables au développement socio-économique dont la réalisation de  certains  de  droits  humains.  A  cet  égard,  on  pourrait  citer  la  corruption,  l'absentéisme,
 
 > 38  Les actes d'incivisme qui ont caractérisé la crise ont fait des victimes aussi bien pour les privés (2 640) que pour l'Etat et ses démembrements. Selon l'Agence judiciaire du Trésor, les indemnisations des victimes s'estiment à plus de 11 milliards de francs CFA.
 
@@ -916,6 +1034,8 @@ Au niveau de l'administration, certains agents publics dont la mission concourt 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+l'utilisation à des fins privées des biens publics, le mépris affiché à l'égard des usagers, la fraude, etc.
 
 Par  ailleurs,  on  assiste  à  la  perte  de  certaines  valeurs  socio-culturelles,  ciment  de  la  cohésion sociale, et qui se manifeste par les conflits intra et inter communautaires relatifs à la succession au niveau de certaines chefferies coutumières ou à l'accès aux ressources naturelles, l'intolérance qui donne lieu à des représailles en violation des règles de l'Etat de droit, les actes d'incivilité comme le non  respect  des  aînés, les injures grossières en  circulation, l'effritement des  liens  de solidarité,… Le conflit entre les groupes ethniques bwaba et peulh à Passakongo 39 dans la boucle du Mouhoun, liés par la parenté à plaisanterie, interpelle sur l'importance du déclin de ces valeurs.
 
@@ -929,7 +1049,7 @@ La  reconnaissance  des  droits  et  libertés  fondamentaux  par  la  Constitut
 
 Le secrétariat d'Etat, logé au sein du Ministère de la Justice et des droits de l'homme, a reçu pour mission de concevoir et de mettre en œuvre la politique nationale du Gouvernement en matière de promotion et de protection des droits humains. Cette volonté politique s'est poursuivie avec la création du Ministère de la promotion des droits humains (MPDH) en 2002. Cependant à partir de  2011,  le  paysage  institutionnel  burkinabè  a  connu  deux  réorganisations.  Une  première intervenue en 2011 qui a conduit à la fusion du Ministère de la justice et de celui de la promotion des droits humains en un seul Ministère, le Ministère de la justice et de la promotion des droits humains (MJPDH). La seconde, intervenue en 2012 consacre la scission du MJPDH en Ministère des droits humains et de la promotion civique et en Ministère de la justice.
 
-Aux  termes  du  décret  N°  2012-774/PRES/PM/MDHPC  du  24  septembre  2012  portant organisation  du  Ministère  des  droits  humains  et  de  la  promotion  civique,  il  comprend  trois directions  générales  (Direction  générale  de  la  promotion  des  droits  humains,  la  Direction générale de la défense des droits humains et la Direction générale de la promotion civique), des directions régionales et deux structures rattachées (le Centre d'Ecoute et de Documentation sur les  Droits  Humains  et  le  Comité  interministériel  des  droits  humains  et  du  droit  international humanitaire).
+Aux  termes  du  décret  N°  2012-774/PRES/PM/MDHPC  du  24  septembre  2012  portant organisation  du  Ministère  des  droits  humains  et  de  la  promotion  civique,  il  comprend  trois directions  générales  (Direction  générale  de  la  promotion  des  droits  humains,  la  Direction
 
 > 39  Cf. http://lepays.bf/, CONFLIT-FONCIER-INTER
 
@@ -938,6 +1058,8 @@ Aux  termes  du  décret  N°  2012-774/PRES/PM/MDHPC  du  24  septembre  2012  
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+
+générale de la défense des droits humains et la Direction générale de la promotion civique), des directions régionales et deux structures rattachées (le Centre d'Ecoute et de Documentation sur les  Droits  Humains  et  le  Comité  interministériel  des  droits  humains  et  du  droit  international humanitaire).
 
 Si  l'organisation antérieure  du  ministère constituait une force, il demeure que des insuffisances ont été relevées dans son fonctionnement. Il s'agit notamment :
 
@@ -971,7 +1093,7 @@ Le Ministère des droits humains et de la promotion civique étant une structure
 
 Pour  permettre  une  synergie  de  l'action  gouvernementale,  et  en  vue  de  perpétuer  cette coopération,  il  a  été  mis  en  place  le  Comité  interministériel  des  droits  humains  et  du  droit international humanitaire (CIMDH) et des points focaux de droits humains dans les ministères.
 
-En dépit de la volonté politique affichée au niveau gouvernemental, la mise en œuvre des droits humains se heurte quelque peu à des conflits de  compétence inhérents à  des chevauchements dans les attributions de certains ministères (MDHPC, MASSN, MPF, MATDS, MJFPE, etc.). En effet,  le  caractère  transversal  des  droits  humains  rend  complexe  la  mission  du  ministère.  En outre, l'insuffisance de synergie d'action et de communication entre les ministères, l'insuffisance de vulgarisation des textes au niveau national, l'absence de certains textes d'application constituent des faiblesses dans la promotion et la protection des droits humains. Aussi relève-ton l'inexistence de cadre de concertation entre les collectivités territoriales et le MDHPC et le faible partenariat entre le MDHPC et lesdits ministères et institutions.
+En dépit de la volonté politique affichée au niveau gouvernemental, la mise en œuvre des droits humains se heurte quelque peu à des conflits de  compétence inhérents à  des chevauchements dans les attributions de certains ministères (MDHPC, MASSN, MPF, MATDS, MJFPE, etc.). En effet,  le  caractère  transversal  des  droits  humains  rend  complexe  la  mission  du  ministère.  En outre, l'insuffisance de synergie d'action et de communication entre les ministères, l'insuffisance de vulgarisation des textes au niveau national, l'absence de certains textes d'application constituent des faiblesses dans la promotion et la protection des droits humains. Aussi relève-t-on l'inexistence de cadre de concertation entre les collectivités territoriales et le MDHPC et le faible partenariat entre le MDHPC et lesdits ministères et institutions.
 
 #### 2.4.2.2 La coopération avec les institutions de droits humains et de promotion du civisme
 
@@ -1021,7 +1143,7 @@ Chacune de ces institutions œuvrent à la protection des droits humains à trav
 
 L'effectivité  des  droits  humains  et  du  civisme  au  plan  national  implique  l'intervention  des Organisations de la société civile (OSC) qui constituent l'interface entre l'Etat et les populations. Elles sont constituées d'associations et d'organisations non gouvernementales. Elles constituent un relais  pour  les  actions  de  promotion  et  de  protection  des  droits  humains  sur  le  terrain. Le Gouvernement burkinabè est conscient que la question des droits humains ne peut être prise en charge par les seuls acteurs étatiques. C'est pourquoi il a exhorté les organisations de la société à jouer leur partition pour un mieux-être des populations. Ainsi, le ministère en charge des droits humains a développé un partenariat avec la société civile qui s'est traduit par la création d'une direction du partenariat chargée des relations avec les OSC et par un accompagnement technique, financier et matériel de ces derniers.
 
-Dans le cadre de ce partenariat, plus de deux cent soixante-huit (268) 40 organisations de la société civile œuvrant dans le domaine des droits humains, de la promotion du civisme, de la paix et de la tolérance  ont  été  répertoriées  .  Le  ministère  a  également  apporté  une  assistance  technique constante à de nombreuses d'entre elles dont certaines ont pu bénéficier d'un apport financier pour la mise en œuvre d'actions spécifiques de promotion et de défense des droits humains et du civisme. Il  faut  néanmoins  relever  l'insuffisance  du  montant  inscrit  au  budget  du  ministère  au titre de l'appui aux initiatives des OSC partenaires. Cette difficulté, qui s'analyse en même temps comme  un  défi,  mérite  d'être  résorbée  pour  permettre  à  l'indispensable  partenariat  avec  les acteurs de la société civile de se pérenniser et de produire des résultats escomptés.
+Dans le cadre de ce partenariat, plus de deux cent soixante-huit (268) 40 organisations de la société civile œuvrant dans le domaine des droits humains, de la promotion du civisme, de la paix et de la tolérance  ont  été  répertoriées  .  Le  ministère  a  également  apporté  une  assistance  technique
 
 > 40  Effectif des associations inscrites au répertoire des OSC partenaires du Ministère à la date du 9 août 2012
 
@@ -1030,6 +1152,8 @@ Dans le cadre de ce partenariat, plus de deux cent soixante-huit (268) 40 organi
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+constante à de nombreuses d'entre elles dont certaines ont pu bénéficier d'un apport financier pour la mise en œuvre d'actions spécifiques de promotion et de défense des droits humains et du civisme. Il  faut  néanmoins  relever  l'insuffisance  du  montant  inscrit  au  budget  du  ministère  au titre de l'appui aux initiatives des OSC partenaires. Cette difficulté, qui s'analyse en même temps comme  un  défi,  mérite  d'être  résorbée  pour  permettre  à  l'indispensable  partenariat  avec  les acteurs de la société civile de se pérenniser et de produire des résultats escomptés.
 
 En  outre,  quelques  défaillances  sont  constatées  dans  la  société  civile.  Il  s'agit  notamment  du manque d'alternance dans les organes dirigeants, de l'insuffisance des ressources dont disposent les OSC, de la non crédibilité de certaines OSC, de la politisation de certaines d'entre elles, du manque de transparence dans la gestion des ressources financières, de l'incapacité des OSC à agir de  façon  concertée,  la  non  production  des  rapports  d'activités  par  un  grand  nombre  d'OSC partenaires, etc. De ce fait, la coopération entre le ministère en charge des droits humains et les OSC mérite d'être renforcée et conduite de manière rigoureuse.
 
@@ -1149,7 +1273,7 @@ Néanmoins,  la  mise  en  œuvre  de  la  politique  de  promotion  des  droits
 
 ### 2.5.2 Le Plan stratégique 2008-2010
 
-Dans le cadre de son partenariat avec les partenaires techniques et financiers, le MPDH a élaboré un Plan stratégique 2008-2010. Il a été adopté par le décret n° 2008834/PRES/PM/MPDH/MEF du 23 décembre 2008 et est devenu par conséquent le document de référence pour les interventions en matière de promotion et de protection des droits humains.
+Dans le cadre de son partenariat avec les partenaires techniques et financiers, le MPDH a élaboré un Plan stratégique 2008-2010. Il a été adopté par le décret n° 2008-834/PRES/PM/MPDH/MEF du 23 décembre 2008 et est devenu par conséquent le document de référence pour les interventions en matière de promotion et de protection des droits humains.
 
 #### 2.5.2.1 Les axes d'intervention
 
@@ -1316,6 +1440,7 @@ Le programme d'appui danois a été d'une utilité incontestable pour le minist�
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+de la faible capacité opérationnelle du ministère qui s'est traduite par l'implication insuffisante des agents dans les différentes activités, le manque d'anticipation dans l'organisation des activités, l'exécution tardive des activités, etc.
 
 ### 2.5.4 Les enseignements et les grands défis
 
@@ -1405,7 +1530,7 @@ La réalisation de la vision ci-dessus mentionnée passe nécessairement par le 
 
 ### 3.2.1 Le respect de l'Etat de droit 42
 
-Le  Burkina  Faso  en  adoptant  la  Constitution  de  1991  s'est  inscrit  dans  une  dynamique  de promotion de la démocratie et d'édification d'un Etat de droit. Ainsi, tous les citoyens burkinabè et  toutes  les  personnes  qui  vivent  sur  le  territoire  national  jouissent  des  droits  et  des  libertés individuelles  et  collectives  conformément  à  la  réglementation  en  vigueur.  Tous  les  acteurs  y compris les autorités publiques sont soumis à la primauté de la règle de droit.
+Le Burkina Faso en adoptant la Constitution de 1991 s'est inscrit dans une dynamique de promotion de la démocratie et d'édification d'un Etat de droit. Ainsi, tous les citoyens burkinabè et toutes les personnes qui vivent sur le territoire national jouissent des droits et des libertés
 
 > 42  Cf., préambule de la Constitution du 11 juin 1991.
 
@@ -1414,6 +1539,8 @@ Le  Burkina  Faso  en  adoptant  la  Constitution  de  1991  s'est  inscrit  dan
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
+
+individuelles et collectives conformément à la réglementation en vigueur. Tous les acteurs y compris les autorités publiques sont soumis à la primauté de la règle de droit.
 
 ### 3.2.2 L'observance des règles de civisme et de civilité
 
@@ -1465,7 +1592,7 @@ L'approche basée sur les droits humains repose sur les principes d'égalité, d
 
 # 4 ORIENTATIONS STRATEGIQUES
 
-Trois  (03)  orientations  stratégiques  encadrent  les  interventions  des  différents  acteurs  dans  le secteur des droits humains et de la promotion civique. Elles ont été définies sur la base des défis identifiés  à  partir  de  l'analyse  diagnostique  du  secteur.  Il  s'agit  de  la  promotion  des  droits humains, de la protection des droits humains, et de la promotion du civisme.
+Trois (03) orientations stratégiques encadrent les interventions des différents acteurs dans le secteur des droits humains et de la promotion civique. Elles ont été définies sur la base des défis
 
 > 46  Idem.
 
@@ -1476,6 +1603,8 @@ Trois  (03)  orientations  stratégiques  encadrent  les  interventions  des  di
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
+
+identifiés à partir de l'analyse diagnostique du secteur. Il s'agit de la promotion des droits humains, de la protection des droits humains, et de la promotion du civisme.
 
 ## 4.1 Promotion des droits humains
 
@@ -1549,7 +1678,7 @@ Il est également nécessaire que des activités de sensibilisation (théâtre f
 
 Le renforcement de l'effectivité des droits humains nécessite que l'Etat offre à tous les citoyens vivant  sur  son  territoire,  sans  distinction,  des  garanties  nécessaires  à  la  reconnaissance  et  à  la protection  de  leurs  droits.  Fort  de  cet  impératif,  le  Burkina  Faso  a  signé  et  ratifié  plusieurs conventions relatives à la promotion et à la protection des droits humains. La Constitution de 1991 qui a ouvert une nouvelle ère démocratique au Burkina Faso reconnaît et garantit les droits individuels  et  collectifs  proclamés  par  les  textes  régionaux  et  internationaux.  Il  est  nécessaire d'assurer  constamment  la  conformité  des  normes  juridiques  internes  avec  les  conventions internationales ratifiées par le Burkina Faso.
 
-Au  plan  institutionnel,  des  institutions  spécifiques  de  promotion  et  de  protection  des  droits humains ont été mises en place. La collaboration doit être renforcée entre ces institutions pour assurer l'effectivité des droits humains. Il s'agit notamment de la Commission nationale des droits humains (CNDH), de la Commission de l'informatique et des libertés (CIL), du Conseil supérieur de  la  communication  (CSC),  de  la  Commission  électorale  nationale  indépendante  (CENI).  En outre,  la  contribution  du  Ministère  de  la  Justice  est  également  importante  pour  le  traitement judiciaire et la réparation des cas de violation des droits humains. Il en est de même du rôle du ministère chargé des relations avec le Parlement pour l'adoption des lois en vue de renforcer les libertés  individuelles  et  collectives.  Les  associations  de  défense  des  droits  humains  devront également jouer leur rôle d'alerte en cas de violation des droits humains.
+Au plan institutionnel, des institutions spécifiques de promotion et de protection des droits humains ont été mises en place. La collaboration doit être renforcée entre ces institutions pour assurer l'effectivité des droits humains. Il s'agit notamment de la Commission nationale des droits humains (CNDH), de la Commission de l'informatique et des libertés (CIL), du Conseil supérieur de la communication (CSC), de la Commission électorale nationale indépendante (CENI). En outre, la contribution du Ministère de la Justice est également importante pour le traitement judiciaire et la réparation des cas de violation des droits humains. Il en est de même du rôle du ministère chargé des relations avec le Parlement pour l'adoption des lois en vue de renforcer les
 
 53
 
@@ -1557,7 +1686,9 @@ Au  plan  institutionnel,  des  institutions  spécifiques  de  promotion  et  d
 
 [[START OF PAGE 60]]
 
-Si  l'existence  d'un  dispositif  juridique  et  institutionnel  a  contribué  à  rendre  effectifs  certains droits, surtout les droits civils et politiques, la plupart des droits économiques, sociaux et culturels souffrent  d'un  manque  d'effectivité  en  raison  notamment  de  l'expansion  de  la  pauvreté.  Pour assurer  à  la  population  la  jouissance  effective  des  droits  humains,  il  sera  nécessaire  d'élaborer régulièrement des rapports sur l'état des lieux des droits humains afin de circonscrire les entraves de leur mise en œuvre. Le renforcement de l'effectivité des droits humains passe également par l'inscription des droits catégoriels comme un axe prioritaire d'intervention du Ministère des droits humains et de la promotion civique.
+libertés individuelles et collectives. Les associations de défense des droits humains devront également jouer leur rôle d'alerte en cas de violation des droits humains.
+
+Si l'existence d'un dispositif juridique et institutionnel a contribué à rendre effectifs certains droits, surtout les droits civils et politiques, la plupart des droits économiques, sociaux et culturels souffrent d'un manque d'effectivité en raison notamment de l'expansion de la pauvreté. Pour assurer à la population la jouissance effective des droits humains, il sera nécessaire d'élaborer régulièrement des rapports sur l'état des lieux des droits humains afin de circonscrire les entraves de leur mise en œuvre. Le renforcement de l'effectivité des droits humains passe également par l'inscription des droits catégoriels comme un axe prioritaire d'intervention du Ministère des droits humains et de la promotion civique.
 
 #### 5.1.3.3  Coopération internationale et régionale
 
@@ -1589,7 +1720,7 @@ L'atteinte  des  résultats  de  cet  axe  implique  la  réalisation  d'un  obj
 
 ### 5.2.1 Objectif stratégique
 
-L'objectif stratégique est de r enforcer la culture du civisme au sein de la population.
+L'objectif stratégique est de renforcer la culture du civisme au sein de la population.
 
 ### 5.2.2 Objectifs opérationnels
 
@@ -1641,7 +1772,7 @@ Dans le  cadre  de  la  mise  en  œuvre  de  la  politique,  l'Etat  mettra  l'
 
 #### 5.2.3.3  Civisme économique
 
-L'incivisme  économique  constitue  un  handicap  sérieux  au  développement  d'un  pays  et  peut conduire  à  des  violations  de  droits  humains  notamment  les  droits  économiques,  sociaux  et culturels.  Il  se  manifeste  notamment  à  travers  le  non  respect  par  les  acteurs  économiques  des règlementations régissant les différentes activités économiques, la mauvaise gouvernance économique,  le  non  respect  des  règles  régissant  la  concurrence  qui  caractérise  les  économies libérales, les contrefaçons des produits, les fraudes fiscales et commerciales, etc. Ces comportements sont notamment dus à la cupidité de certains agents économiques, la faiblesse des mécanismes de contrôle et de régulation des activités économiques, la méconnaissance des textes et le manque d'une véritable culture civique de certains acteurs de la vie économique.
+L'incivisme économique constitue un handicap sérieux au développement d'un pays et peut conduire à des violations de droits humains notamment les droits économiques, sociaux et culturels. Il se manifeste notamment à travers le non respect par les acteurs économiques des règlementations régissant les différentes activités économiques, la mauvaise gouvernance économique, le non respect des règles régissant la concurrence qui caractérise les économies libérales, les contrefaçons des produits, les fraudes fiscales et commerciales, etc. Ces comportements sont notamment dus à la cupidité de certains agents économiques, la faiblesse
 
 > 49  Cité dans « Plan stratégique 2008 - 2010 » du Ministère de la promotion des droits humains, page 36
 
@@ -1651,7 +1782,9 @@ L'incivisme  économique  constitue  un  handicap  sérieux  au  développement 
 
 [[START OF PAGE 64]]
 
-La lutte contre l'incivisme économique est nécessaire pour assainir l'environnement économique et  créer  des  conditions  idoines  au  développement.  Elle  permet  entre  autres  le  développement d'un  tissu  économique  assaini  et  durable,  la  protection  des  consommateurs  ainsi  que  la transparence  des  marchés,  la  promotion  des  produits  locaux  et  favorise  la  mobilisation  des recettes fiscales. Des actions seront déployées en synergie avec les autres acteurs publics et privés pour promouvoir le civisme dans tous les secteurs de l'économie.
+des mécanismes de contrôle et de régulation des activités économiques, la méconnaissance des textes et le manque d'une véritable culture civique de certains acteurs de la vie économique.
+
+La lutte contre l'incivisme économique est nécessaire pour assainir l'environnement économique et créer des conditions idoines au développement. Elle permet entre autres le développement d'un tissu économique assaini et durable, la protection des consommateurs ainsi que la transparence des marchés, la promotion des produits locaux et favorise la mobilisation des recettes fiscales. Des actions seront déployées en synergie avec les autres acteurs publics et privés pour promouvoir le civisme dans tous les secteurs de l'économie.
 
 #### 5.2.3.4 Civisme politique
 
@@ -1679,7 +1812,7 @@ Les objectifs opérationnels poursuivis en rapport avec l'objectif stratégique 
 
 -Développer les capacités managériales ;
 
--Améliorer la gestion des ressou rces humaines et la culture d'excellence du ministère ;
+-Améliorer la gestion des ressources humaines et la culture d'excellence du ministère ;
 
 -Développer le système de production statistique sur les droits humains et le civisme ;
 
@@ -1781,13 +1914,15 @@ Les  collectivités territoriales constituent des entités d'organisation  et  d
 
 #### 6.1.1.3 Le pouvoir législatif
 
-De par ses missions qu'il détient de la Constitution, le Parlement vote la loi, consent l'impôt et, de par sa mission constitutionnelle, joue un rôle important dans la mise en œuvre de la Politique nationale des droits humains et de la promotion civique. Il autorise les adhésions et ratifications aux  conventions  internationales  relatives  aux  droits  humains.  Il  est  également  chargé  de l'adoption des mesures législatives de mise en œuvre de ces conventions. Le parlement, dans sa mission de vote des lois, devra s'assurer que celles-ci protègent les droits humains et ne sont pas contraires aux normes et principes fondamentaux relatifs à ces droits. En outre, il devra veiller à l'allocation  conséquente des ressources nécessaires et au contrôle de l'action du gouvernement dans le cadre de la mise en œuvre de la PNDHPC.
+De par ses missions qu'il détient de la Constitution, le Parlement vote la loi, consent l'impôt et, de par sa mission constitutionnelle, joue un rôle important dans la mise en œuvre de la Politique nationale des droits humains et de la promotion civique. Il autorise les adhésions et ratifications aux conventions internationales relatives aux droits humains. Il est également chargé de l'adoption des mesures législatives de mise en œuvre de ces conventions. Le parlement, dans sa mission de vote des lois, devra s'assurer que celles-ci protègent les droits humains et ne sont pas
 
 62
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
+
+contraires aux normes et principes fondamentaux relatifs à ces droits. En outre, il devra veiller à l'allocation conséquente des ressources nécessaires et au contrôle de l'action du gouvernement dans le cadre de la mise en œuvre de la PNDHPC.
 
 #### 6.1.1.4 Le pourvoir judiciaire
 
@@ -1801,13 +1936,15 @@ La CNDH est un cadre national de concertation entre les acteurs publics et les a
 
 ### 6.1.3 Les organisations de la société civile
 
-Les organisations de la société civile sont des partenaires de l'Etat dans la réalisation des actions de promotion et de protection des droits humains. Leurs actions doivent être en cohérence avec la  PNDHPC.  Dans  le  cadre  de  la  mise  en  œuvre  de  la  PNDHPC,  le  partenariat  devra  être renforcé.  Il  est  souhaitable  que  ces  organisations  orientent  leurs  actions  vers  la  réalisation  des objectifs  de  la  PNDHPC.  La  rationalisation  et  la  coordination  de  leur  intervention  sont nécessaires pour leur permettre de jouer pleinement leur rôle de mise en œuvre des actions de la PNDHPC. Ainsi, le Conseil national des OSC, en tant qu'organisation faitière, pourrait jouer un rôle de coordination et de facilitation dans les relations avec les OSC.
+Les organisations de la société civile sont des partenaires de l'Etat dans la réalisation des actions de promotion et de protection des droits humains. Leurs actions doivent être en cohérence avec la PNDHPC. Dans le cadre de la mise en œuvre de la PNDHPC, le partenariat devra être renforcé. Il est souhaitable que ces organisations orientent leurs actions vers la réalisation des
 
 63
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
+
+objectifs de la PNDHPC. La rationalisation et la coordination de leur intervention sont nécessaires pour leur permettre de jouer pleinement leur rôle de mise en œuvre des actions de la PNDHPC. Ainsi, le Conseil national des OSC, en tant qu'organisation faitière, pourrait jouer un rôle de coordination et de facilitation dans les relations avec les OSC.
 
 ### 6.1.4 Les partenaires techniques et financiers
 
@@ -1849,13 +1986,15 @@ Dans le cadre de la mise en œuvre de la PNDHPC, la stratégie de mobilisation d
 
 ### 6.2.4 L'écoute et l'orientation des victimes de violation des droits humains
 
-La  meilleure  protection  des  droits  humains  exige  que  les  citoyens  porteurs  de  réclamations concernant des violations de leurs droits puissent disposer des structures d'écoute, d'assistance, de conseil et d'orientation sur les voies de recours existants. L'information et la documentation sur les droits humains constituent des moyens pour la vulgarisation et la promotion de ces droits. A  cet  effet,  la  multiplication  et  le  renforcement  des  capacités  des  Centre  d'Ecoute  et  de Documentation  sur  les  Droits  Humains  (CEDDH)  constitueront  une  priorité.  De  même  un partenariat  sera  développé  avec  les  centres  d'écoute  existant  au  sein  des  organisations  de  la société civile pour une meilleure coordination des actions de lutte contre les violations des droits humains.
+La meilleure protection des droits humains exige que les citoyens porteurs de réclamations concernant des violations de leurs droits puissent disposer des structures d'écoute, d'assistance, de conseil et d'orientation sur les voies de recours existants. L'information et la documentation sur les droits humains constituent des moyens pour la vulgarisation et la promotion de ces droits. A cet effet, la multiplication et le renforcement des capacités des Centre d'Ecoute et de Documentation sur les Droits Humains (CEDDH) constitueront une priorité. De même un partenariat sera développé avec les centres d'écoute existant au sein des organisations de la
 
 65
 
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
+
+société civile pour une meilleure coordination des actions de lutte contre les violations des droits humains.
 
 ### 6.2.5 La prévention des violations des droits humains
 
@@ -1979,13 +2118,15 @@ De  façon  générale,  les  droits  humains  sont  violés  en  période  de  
 
 ### 8.1.3 La mobilisation des ressources
 
-La  mise  en  œuvre  de  la  Politique  nationale  des  droits  humains  et  de  la  promotion  civique implique des actions permanentes et de grande envergure. De ce fait, d'importantes ressources matérielles et financières sont nécessaires à l'atteinte des résultats de la politique. L'ensemble des acteurs (Etat, PTF, OSC, secteur privé) doit s'impliquer dans la mobilisation des ressources. De même,  l'implication  de  tous  les  secteurs  est  tout  aussi  importante  pour  tenir  compte  de  la transversalité  du  domaine  des  droits  humains  et  de  la  promotion  civique.  Par  voie  de conséquence, le niveau de mobilisation des ressources conditionnera l'importance des résultats.
+La  mise  en  œuvre  de  la  Politique  nationale  des  droits  humains  et  de  la  promotion  civique implique des actions permanentes et de grande envergure. De ce fait, d'importantes ressources matérielles et financières sont nécessaires à l'atteinte des résultats de la politique. L'ensemble des acteurs (Etat, PTF, OSC, secteur privé) doit s'impliquer dans la mobilisation des ressources. De même,  l'implication  de  tous  les  secteurs  est  tout  aussi  importante  pour  tenir  compte  de  la
 
 70
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
+
+transversalité du domaine des droits humains et de la promotion civique. Par voie de conséquence, le niveau de mobilisation des ressources conditionnera l'importance des résultats.
 
 ### 8.1.4 L'adhésion des parties prenantes
 
@@ -2001,7 +2142,7 @@ Le MDHPC assure le leadership dans la promotion et la protection des droits huma
 
 ### 8.2.2 L'ignorance et l'analphabétisme
 
-Compte  tenu  du  fort  taux  d'analphabétisme  (79,6%  pour  les  femmes  et  62,5%  pour  les hommes 50 ) et du niveau de scolarisation (77,6% 51 ), l'ignorance occupe une place importante dans la  société.  Cette  situation  constitue  un  facteur  limitant  à  certaines  actions  de  la  politique,  et partant de la réalisation de certains résultats.
+Compte  tenu  du  fort  taux  d'analphabétisme  (79,6%  pour  les  femmes  et  62,5%  pour  les hommes 50 ) et du niveau de scolarisation (77,6% 51 ), l'ignorance occupe une place importante dans
 
 > 50  INSD, Femmes et Hommes au Burkina Faso, faits et chiffres 2012, p. 57
 
@@ -2012,6 +2153,8 @@ Compte  tenu  du  fort  taux  d'analphabétisme  (79,6%  pour  les  femmes  et  
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
+
+la  société.  Cette  situation  constitue  un  facteur  limitant  à  certaines  actions  de  la  politique,  et partant de la réalisation de certains résultats.
 
 ### 8.2.3 Le sous financement du secteur
 
@@ -2059,7 +2202,7 @@ Par ailleurs, la promotion des droits humains et la promotion civique peuvent ê
 
 ## 1. Rapports
 
-Blaise COMPAORE, « Bâtir, ensemble, un Burkina émergent », Programme quinquennal 2010 2015, octobre 2010 ;
+Blaise COMPAORE, « Bâtir, ensemble, un Burkina émergent », Programme quinquennal 2010 – 2015, octobre 2010 ;
 
 Document de base commun aux rapports présentés par le Burkina Faso à tous les organes de contrôle  des  instruments  internationaux  relatifs  aux  droits  de  l'homme  dans  le  cadre  de l'organisation des nations unies ;
 
