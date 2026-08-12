@@ -2,9 +2,9 @@
 
 République Islamique de Mauritanie
 
-Honneur - Fraternité - Justice
+Honneur – Fraternité – Justice
 
-# PROGRAMME NATIONAL DE DEVELOPPEMENT DU SECTEUR EDUCATIF 20112020 (PNDSE II) PLAN D'ACTION TRIENNAL (2012-2014)
+# PROGRAMME NATIONAL DE DEVELOPPEMENT DU SECTEUR EDUCATIF 2011-2020 (PNDSE II) PLAN D’ACTION TRIENNAL (2012-2014)
 
 Document provisoire
 
@@ -20,6 +20,40 @@ Plan d'action
 
 2
 
+Introduction .................................................................................................................................. 4
+A. Diagnostic du système educatif................................................................................................ 5
+A.1 Contexte général du développement de l’éducation......................................................... 5
+A.2 Contexte macroéconomique et des finances publiques .................................................... 8
+A.2.1 L’évolution du revenu par habitant............................................................................. 8
+A.2.2 Les finances publiques................................................................................................. 9
+A.2.3 Les dépenses relatives au secteur de l’éducation ..................................................... 12
+A.2.4 Le marché du travail .................................................................................................. 15
+A.2.4.1 L’évolution de l’emploi ....................................................................................... 15
+A.2.4.2 L’offre et la demande d’emploi .......................................................................... 16
+A.2.4.3 Les emplois occupés par les jeunes (25-35 ans) selon la formation reçue......... 18
+A.2.4.4 L’investissement en capital humain.................................................................... 19
+A.3 Etat des lieux du secteur éducatif..................................................................................... 21
+A.3.1 Description générale du système éducatif ................................................................ 21
+A.3.1.1 Le Pilotage institutionnel du système................................................................. 21
+A.3.1.2 Structure et organisation du système ................................................................ 21
+A.3.2 Evolution des différents sous-secteurs...................................................................... 23
+A.3.2.1 Enseignement préscolaire .................................................................................. 23
+A.3.2.2 Enseignement fondamental................................................................................ 24
+A.3.2.3 Enseignement secondaire général...................................................................... 29
+A.3.2.4 Enseignement technique et professionnel......................................................... 34
+A.3.2.5 Enseignement supérieur..................................................................................... 38
+A.3.2.6 Alphabétisation et Enseignement originel.......................................................... 43
+A.3.2.7 Gestion et Gouvernance du secteur................................................................... 45
+B. Politique sectorielle ............................................................................................................ 47
+B.1 Principales orientations.................................................................................................... 48
+B.1.1 Les orientations globales et les options pour le développement du secteur............ 48
+B.1.2 Stratégie de développement ..................................................................................... 49
+B.1.2.1 Enseignement préscolaire................................................................................... 49
+B.1.2.2 Enseignement fondamental................................................................................ 49
+B.1.2.3 Enseignement secondaire général...................................................................... 51
+B.1.2.4 Formation technique et professionnelle ............................................................ 52
+B.1.2.5 Enseignement supérieur..................................................................................... 53
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -30,6 +64,29 @@ Plan d'action
 
 3
 
+B.1.2.6 Alphabétisation et Enseignement originel.......................................................... 54
+B.1.2.7 Programmes transversaux .................................................................................. 54
+B.1.2.8 Gestion et pilotage du système .......................................................................... 55
+B.1.3 Chiffrage de la stratégie............................................................................................. 57
+B.2 Cadrage macro-financier................................................................................................... 61
+B.2.1 Les ressources mobilisables....................................................................................... 61
+B.2.1.1 Les ressources publiques nationales................................................................... 61
+B.2.1.2 Les contributions des familles............................................................................. 63
+B.2.1.3 L’aide extérieure ................................................................................................. 63
+B.2.2 Le gap de financement............................................................................................... 64
+B.3 Programme décennal........................................................................................................ 66
+B.3.1 Structure logique du Programme .............................................................................. 66
+B.3.2 Cadre de résultats et description des composantes.................................................. 66
+B.3.2.1 Composante A : Amélioration de la qualité et de la pertinence de l’éducation 66
+B.3.2.2 Composante B : Développer un accès élargi au niveau de la base du système et régulé dans ses niveaux supérieurs........................................................................................... 76
+B.3.2.3 Composante C : Amélioration de la gestion et de la gouvernance du secteur... 84
+B.3.3 Mise en œuvre et suivi-évaluation du Programme ................................................... 90
+B.3.3.1 Dispositif de mise en œuvre ............................................................................... 90
+B.3.3.2 Les instruments de mise en œuvre..................................................................... 94
+B.3.3.3 Le suivi-évaluation .............................................................................................. 95
+B.4 Cadre logique du PNDSE ................................................................................................... 97
+C. Plan d’action 2012-2014 ....................................................................................................... 112
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -38,7 +95,7 @@ Plan d'action
 
 Ce plan d'action est le cadre opérationnel du triennat 2012-2014 du PNDSE II.
 
-Les  deux  premières  parties  de  ce  document -  A.  DIAGNOSTIC  DU  SYSTEME  EDUCATIF  et  B. POLITIQUE SECTORIELLE résument et actualisent le document : Programme National de Développement du Secteur de l'Education PNDSE II (2011-2020) . L'actualisation tient compte, d'une part du report en 2012 d'une partie des activités prévues initialement en 2011, d'autre part de la disponibilité de nouvelles données : statistiques scolaires de 2009/10, données macroéconomiques et financières (exécution du budget 2010, dernières projections macroéconomiques).
+Les deux premières parties de ce document – A. DIAGNOSTIC DU SYSTEME EDUCATIF et B. POLITIQUE SECTORIELLE – résument et actualisent le document : Programme National de Développement du Secteur de l’Education PNDSE II (2011-2020). L’actualisation tient compte, d’une part du report en 2012 d’une partie des activités prévues initialement en 2011, d’autre part de la disponibilité de nouvelles données : statistiques scolaires de 2009/10, données macroéconomiques et financières (exécution du budget 2010, dernières projections macroéconomiques).
 
 Le  PNDSE  II  a  été  suscité  par  une  réflexion  stratégique  entamée  à  l'occasion  de  la  revue conjointe  de  Novembre  2009.  Il  capitalise  le  bilan  du  PNDSE  I  et  s'instruit  du  diagnostic  sectoriel réalisé en 2010 (RESEN 2010) ; son chiffrage a été réalisé au moyen d'un modèle de simulation.
 
@@ -136,7 +193,9 @@ Plan d'action
 
 Les différentes réformes économiques engagées depuis 1992 ont assaini la situation financière de l'Etat et des principales entreprises publiques, stabilisé le cadre macroéconomique, libéralisé les marchés  et  les  prix,  amélioré  l'environnement  juridique  et  judiciaire  des  affaires,  favorisé  le développement du secteur  privé,  développé  les  infrastructures  et  recentré  l'Etat  sur  ses  missions essentielles de régulation, d'allocation des ressources et de développement des services sociaux de base.
 
-Le  taux  de  croissance  réel  du  PIB  a  été  de  4%  par  an  en  moyenne  entre  1991  et  2006 performance relativement satisfaisante. Cependant, il n'a été que de 2% entre 2006 et 2010, soit très en deçà des 8,4 % escomptés dans le DSRP 1 . Le repli économique mondial, le contexte politique et la diminution consécutive des financements extérieurs expliquent largement cette contreperformance. Etant donné la croissance démographique, le PIB/h n'a donc crû que modestement durant ces vingt dernières  années (1,2%  par  an).  Les  dernières  projections  macroéconomiques  tablent  sur  une croissance du PIB réel de 5,8% d'ici 2015 soit 3,1% par habitant.
+Le taux de croissance réel du PIB a été de 4% par an en moyenne entre 1991 et 2006 – performance relativement satisfaisante. Cependant, il n’a été que de 2% entre 2006 et 2010, soit très en deçà des 8,4 % escomptés dans le DSRP¹. Le repli économique mondial, le contexte politique et la diminution consécutive des financements extérieurs expliquent largement cette contreperformance. Etant donné la croissance démographique, le PIB/h n’a donc crû que modestement durant ces vingt dernières années (1,2% par an). Les dernières projections macroéconomiques tablent sur une croissance du PIB réel de 5,8% d’ici 2015 soit 3,1% par habitant.
+
+Tableau 1 : Evolution du PIB et du PIB/h, 1995-2010
 
 Années | 1995 | 1996 | 1998 | 2000 | 2002 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -144,14 +203,12 @@ Produit Intérieur Brut
 nominal (milliard UM) | 158 | 175 | 214 | 258 | 303 | 403 | 493 | 725 | 734 | 854 | 794 | 995
 déflateur | 27 | 28 | 34 | 38 | 43 | 52 | 60 | 79 | 79 | 89 | 84 | 100
 constant (2010) | 596 | 630 | 622 | 675 | 703 | 780 | 823 | 917 | 926 | 959 | 947 | 995
-taux de croissance réel du PIB* | 5,8% | -0,7% | 4,2% | 2,0% | 5,4% | 5,4% | 11,4% | 1,0% | 3,5% | -1,2% | 5,0%
+taux de croissance réel du PIB* |  | 5,8% | -0,7% | 4,2% | 2,0% | 5,4% | 5,4% | 11,4% | 1,0% | 3,5% | -1,2% | 5,0%
 Population (milliers) | 2284 | 2351 | 2489 | 2508 | 2662 | 2823 | 2906 | 2990 | 3075 | 3162 | 3248 | 3335
 PIB par habitant (UM)
 constant (UM 2010) | 260 821 | 268 146 | 249 778 | 269 254 | 263 933 | 276 408 | 283 176 | 306 712 | 301 257 | 303 169 | 291 667 | 298 318
 constant ($ 2010) | 962 | 989 | 922 | 994 | 974 | 1 020 | 1 045 | 1 132 | 1 112 | 1 119 | 1 076 | 1 101
-taux de croissance réel du PIB/h* | 2,8% | -3,5% | 3,8% | -1,0% | 2,3% | 2,4% | 8,3% | -1,8% | 0,6% | -3,8% | 2,3%
-
-Tableau 1 : Evolution du PIB et du PIB/h, 1995-2010
+taux de croissance réel du PIB/h* |  | 2,8% | -3,5% | 3,8% | -1,0% | 2,3% | 2,4% | 8,3% | -1,8% | 0,6% | -3,8% | 2,3%
 
 * : taux de croissance annuel moyen calculé par rapport à l'année précédente du tableau
 
@@ -173,7 +230,7 @@ Plan d'action
 
 Le  secteur  de  l'éducation  est  dans  une  très  large  mesure  financé  par  l'Etat.  L'analyse  de l'évolution des finances publiques est donc primordiale pour examiner les contraintes financières du développement de l'éducation.
 
-Le  Graphique  1  ci-dessous  permet  de  constater  que  les  recettes  de  l'Etat  mauritanien  sont relativement  importantes  en  regard  du  PIB  dans  le  contexte  régional.  Le  chiffre  indiqué  pour  la Mauritanie est celui de 2008 ; mais les données plus récentes et l'évolution passée ne mettent pas en doute  le  constat  d'un  niveau  relativement  élevé  des  recettes  de  l'Etat  mauritanien ;  on  peut  le constater à la lecture du Tableau 2 2 .
+Le Graphique 1 ci-dessous permet de constater que les recettes de l’Etat mauritanien sont relativement importantes en regard du PIB dans le contexte régional. Le chiffre indiqué pour la Mauritanie est celui de 2008 ; mais les données plus récentes et l’évolution passée ne mettent pas en doute le constat d’un niveau relativement élevé des recettes de l’Etat mauritanien ; on peut le constater à la lecture du Tableau 2².
 
 Toutefois, ce même tableau permet de constater une évolution en dents de scie des recettes publiques. Cette instabilité est propre aux pays très dépendants des produits agricoles ou miniers, ainsi que de l'aide extérieure.
 
@@ -193,9 +250,11 @@ Plan d'action
 
 [[START OF PAGE 10]]
 
+Tableau 2 : Evolution des recettes de l’Etat (milliard d’UM)
+
 Années | 1995 | 1996 | 1998 | 2000 | 2002 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Recettes de l'Etat | 33,9 | 45,8 | 46,7 | 62,1 | 104,0 | 127,4 | 131,3 | 466,4 | 204,3 | 206,4 | 202,2 | 257,1
+Recettes de l’Etat | 33,9 | 45,8 | 46,7 | 62,1 | 104,0 | 127,4 | 131,3 | 466,4 | 204,3 | 206,4 | 202,2 | 257,1
 en % du PIB | 21,4 | 26,2 | 21,9 | 24,1 | 34,3 | 31,7 | 26,6 | 64,3 | 27,8 | 24,2 | 25,5 | 25,8
 en valeurs constantes de 2010 | 127,5 | 164,9 | 136,0 | 162,4 | 240,7 | 247,0 | 218,9 | 589,8 | 257,8 | 231,7 | 241,2 | 257,1
 Taux de croissance annuel moyen | 29% | -9% | 9% | 22% | 1% | -11% | 169% | -56% | -10% | 4% | 7% | 29%
@@ -206,8 +265,6 @@ par habitant (en UM 2010) | 51 264 | 67 925 | 51 878 | 58 697 | 82 664 | 80 973 
 Recettes extérieures (dons) | 2,8 | 1,5 | 2,4 | 5,8 | 8,9 | 9,5 | 10,3 | 252,5* | 16,3 | 6,5 | 6,1 | 22,4
 en % du PIB | 1,8 | 0,8 | 1,1 | 2,3 | 2,9 | 2,4 | 2,1 | 34,8 | 2,2 | 0,8 | 0,8 | 2,3
 en valeurs constantes de 2010 | 10,4 | 5,3 | 6,9 | 15,2 | 20,7 | 18,4 | 17,1 | 319,2 | 20,6 | 7,3 | 7,3 | 22,4
-
-Tableau 2 : Evolution des recettes de l'Etat (milliard d'UM)
 
 Source : RESEN 2010 et calcul des auteurs
 
@@ -225,10 +282,12 @@ Plan d'action
 
 [[START OF PAGE 11]]
 
+Tableau 3 : Evolution des dépenses de l’Etat, 1995-2010
+
 Années | 1995 | 1996 | 1998 | 2000 | 2002 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Milliard courants
-Dépenses de l'Etat | 44,5 | 48,7 | 55,1 | 78,9 | 109,1 | 146 | 163,3 | 202,6 | 217,9 | 262,0 | 242,9 | 295,7
+Dépenses de l’Etat | 44,5 | 48,7 | 55,1 | 78,9 | 109,1 | 146 | 163,3 | 202,6 | 217,9 | 262,0 | 242,9 | 295,7
 Dépenses Courantes | 29,2 | 31,8 | 37,5 | 52,5 | 66,7 | 94,5 | 126,7 | 157,9 | 159,4 | 206,4 | 186,7 | 189,2
 Intérêts de la dette | 4,5 | 4,9 | 6,6 | 7,8 | 7,7 | 11,9 | 16,2 | 13,5 | 13,5 | 16,5 | 16,2 | 16,4
 Dépenses courantes hors dette | 24,7 | 26,9 | 30,9 | 44,7 | 59 | 82,6 | 110,5 | 144,4 | 145,9 | 189,9 | 170,5 | 172,8
@@ -237,14 +296,12 @@ Financement intérieur | 1,7 | 2,4 | 4,2 | 9,4 | 19,1 | 23,2 | 21,4 | 23,9 | 29,
 Financement extérieur | 13,6 | 14,5 | 13,3 | 17 | 23,3 | 28,3 | 15,2 | 20,7 | 28,6 | 43,6 | 36,9 | 54,3
 % Dép courantes hors dette /dép totales | 55,5% | 55,2% | 56,1% | 56,7% | 54,1% | 56,6% | 67,7% | 71,3% | 67,0% | 72,5% | 70,2% | 58,4%
 Milliard UM 2010
-Dépenses totales croissance | 167,4 | 175,4 | 141,8 | 127,4 | 112,7 | 94,4 | 91,9 | 99,8 | 137,7 | 163,9 | 194,8 | 202,6
-moyenne* | 4,7% | -10,1% | -5,2% | -5,9% | -8,5% | -2,7% | 8,6% | 38,0% | 19,1% | 18,9% | 4,0%
+Dépenses totales | 167,4 | 175,4 | 141,8 | 127,4 | 112,7 | 94,4 | 91,9 | 99,8 | 137,7 | 163,9 | 194,8 | 202,6
+croissance moyenne* |  | 4,7% | -10,1% | -5,2% | -5,9% | -8,5% | -2,7% | 8,6% | 38,0% | 19,1% | 18,9% | 4,0%
 Dépenses courantes | 109,9 | 114,5 | 92,6 | 83,2 | 73,6 | 61,7 | 62,5 | 66,4 | 84,2 | 106,1 | 151,2 | 157,9
-croissance moyenne* | 4,2% | -10,1% | -5,2% | -5,9% | -8,5% | 1,4% | 6,2% | 26,8% | 26,0% | 42,5% | 4,5%
+croissance moyenne* |  | 4,2% | -10,1% | -5,2% | -5,9% | -8,5% | 1,4% | 6,2% | 26,8% | 26,0% | 42,5% | 4,5%
 Dépenses en capital | 57,6 | 60,9 | 49,2 | 44,2 | 39,1 | 32,8 | 29,3 | 33,4 | 53,5 | 57,8 | 43,7 | 44,6
-croissance moyenne* | 5,7% | -10,1% | -5,2% | -5,9% | -8,5% | -10,4% | 13,8% | 60,3% | 8,1% | -24,5% | 2,1%
-
-Tableau 3 : Evolution des dépenses de l'Etat, 1995-2010
+croissance moyenne* |  | 5,7% | -10,1% | -5,2% | -5,9% | -8,5% | -10,4% | 13,8% | 60,3% | 8,1% | -24,5% | 2,1%
 
 * : Taux de croissance annuel moyen calculé par rapport à l'année précédente du tableau
 
@@ -288,16 +345,18 @@ Plan d'action
 
 Source : RESEN 2010 et calculs des auteurs
 
+Tableau 4 : Evolution des dépenses d’éducation, 1995-2010
+
 1995 | 1998 | 2000 | 2002 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Dépenses courantes
 millions UM courants | 4 862 | 6 380 | 8 060 | 10 307 | 12 759 | 14 358 | 21 082 | 28 674 | 33 321 | 34 057 | 37 469
 millions UM 2010 | 18 281 | 18 571 | 21 082 | 23 872 | 24 735 | 23 949 | 26 665 | 36 181 | 37 407 | 40 631 | 37 469
 par enfant de 6 à 15 ans au prix constant (UM de 2010) | 33 097 | 30 644 | 32 701 | 34 809 | 33 842 | 31 760 | 34 346 | 45 323 | 45 634 | 48 330 | 43 502
-Dépenses d'investissement
+Dépenses d’investissement
 aux prix courants (millions UM) | 1 757 | 1 938 | 1 814 | 3 543 | 3 451 | 5 400 | 8 308 | 6 460 | 7 862 | 5 290 | 7 430
 aux prix constants (millions UM de 2010) | 6 606 | 5 641 | 4 745 | 8 206 | 6 690 | 9 007 | 10 508 | 8 151 | 8 826 | 6 311 | 7 430
-% dépenses d'investissement sur financement extérieur | 85% | 89% | 94% | 65% | 54% | 77% | 78% | 69% | 71%
+% dépenses d’investissement sur financement extérieur | 85% | 89% | 94% | 65% | 54% | 77% | 78% | 69% | 71% |  | 
 Dépenses totales (financement national et extérieur)
 millions UM courants | 6 619 | 8 318 | 9 874 | 13 850 | 16 210 | 19 758 | 29 390 | 35 134 | 41 183 | 39 348 | 44 899
 millions UM 2010 | 24 887 | 24 212 | 25 826 | 32 078 | 31 425 | 32 956 | 37 174 | 44 333 | 46 233 | 46 942 | 44 899
@@ -305,14 +364,12 @@ Dépenses totales sur ressources nationales
 aux prix courants (millions UM) | 5 119 | 6 585 | 8 163 | 11 565 | 14 360 | 15 589 | 22 885 | 30 677 | 35 625 | 39 348 | 44 899
 aux prix constants (millions UM de 2010) | 19 246 | 19 169 | 21 352 | 26 785 | 27 839 | 26 003 | 28 946 | 38 708 | 39 993 | 46 942 | 44 899
 % financement extérieur pour les dépenses totales | 23% | 21% | 17% | 16% | 11% | 21% | 22% | 13% | 13% | 0% | 0%
-Financement extérieur dans les dépenses d'éducation en % PIB | 0,7% | 0,6% | 0,5% | 0,6% | 0,4% | 0,7% | 0,7% | 0,5% | 0,6% | 0,0% | 0,0%
-Dépenses courantes Education en % des dépenses courantes hors dette de l'Etat | 19,7% | 20,6% | 18,0% | 17,5% | 15,4% | 13,0% | 14,6% | 19,7% | 17,5% | 20,0% | 21,7%
-Dépenses courantes Education en % des recettes internes de l'Etat | 15,6% | 14,4% | 14,3% | 10,8% | 10,8% | 11,9% | 9,9% | 15,3% | 16,7% | 17,4% | 16,0%
+Financement extérieur dans les dépenses d’éducation en % PIB | 0,7% | 0,6% | 0,5% | 0,6% | 0,4% | 0,7% | 0,7% | 0,5% | 0,6% | 0,0% | 0,0%
+Dépenses courantes Education en % des dépenses courantes hors dette de l’Etat | 19,7% | 20,6% | 18,0% | 17,5% | 15,4% | 13,0% | 14,6% | 19,7% | 17,5% | 20,0% | 21,7%
+Dépenses courantes Education en % des recettes internes de l’Etat | 15,6% | 14,4% | 14,3% | 10,8% | 10,8% | 11,9% | 9,9% | 15,3% | 16,7% | 17,4% | 16,0%
 Dépenses courantes Education en % du PIB | 3,1% | 3,0% | 3,1% | 3,4% | 3,2% | 2,9% | 2,9% | 3,9% | 3,9% | 4,3% | 3,8%
-Dépenses totales d'éducation (financement national et extérieur) en % PIB | 4,2% | 3,9% | 3,8% | 4,6% | 4,0% | 4,0% | 4,1% | 4,8% | 4,8% | 5,0% | 4,5%
-Dépenses nationales totales d'Education en % PIB | 3,2% | 3,1% | 3,2% | 3,8% | 3,6% | 3,2% | 3,2% | 4,2% | 4,2% | 5,0% | 4,5%
-
-Tableau 4 : Evolution des dépenses d'éducation, 1995-2010
+Dépenses totales d’éducation (financement national et extérieur) en % PIB | 4,2% | 3,9% | 3,8% | 4,6% | 4,0% | 4,0% | 4,1% | 4,8% | 4,8% | 5,0% | 4,5%
+Dépenses nationales totales d’Education en % PIB | 3,2% | 3,1% | 3,2% | 3,8% | 3,6% | 3,2% | 3,2% | 4,2% | 4,2% | 5,0% | 4,5%
 
 Source : RESEN et calculs des auteurs
 
@@ -330,9 +387,11 @@ Plan d'action
 
 [[START OF PAGE 14]]
 
-Répartition des élèves ou étudiants | Coûts unitaires (UM constant 2010) | Coûts unitaires (PIB/tête)
+Tableau 5 : Evolution de la répartition des effectifs d’élèves ou étudiants et des coûts unitaires (Enseignement public)
+
+ | Répartition des élèves ou étudiants | Coûts unitaires (UM constant 2010) | Coûts unitaires (PIB/tête)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1998 | 2004 | 2010 | 1998 | 2004 | 2010 | 1998 | 2004 | 2010
+ | 1998 | 2004 | 2010 | 1998 | 2004 | 2010 | 1998 | 2004 | 2010
 Fondamental | 82,9% | 81,6% | 81,7% | 34 682 | 31 144 | 40 795 | 0,11 | 0,11 | 0,14
 Secondaire | 13,8% | 15,5% | 14,3% | 124 568 | 99 970 | 104 302 | 0,41 | 0,36 | 0,35
 Technique (avec CSET) | 0,4% | 0,4% | 0,7% | 394 489 | 361 158 | 276 619 | 1,29 | 1,31 | 0,93
@@ -340,11 +399,9 @@ Normal (ENI et ENS) | 0,2% | 0,4% | 0,2% | 1 069 877 | 379 080 | 414 661 | 3,51 
 Supérieur (Mauritanie) | 2,2% | 1,7% | 2,7% | 357 286 | 261 729 | 248 943 | 1,17 | 0,95 | 0,83
 Supérieur (Etranger) | 0,6% | 0,4% | 0,4% | 659 940 | 414 802 | 820 485 | 2,17 | 1,50 | 2,75
 
-Tableau 5 : Evolution de la répartition des effectifs d'élèves ou étudiants et des coûts unitaires (Enseignement public)
-
 Source : RESEN 2010 et calculs des auteurs
 
-Récemment (cf. RESEN 2010), on constatait que malgré ce regain d'intérêt, l'Etat consacre à l'éducation une part encore faible de ses dépenses courantes (hors service de la dette) : faible au regard des pays d'Afrique (21%), faible au regard des pays de la région dont le niveau de richesse est comparable à celui de la Mauritanie (25%) et faible au regard du cadre indicatif de l'initiative FastTrack (20%). Ce constat était établi pour les données alors disponibles : celles de 2008 qui indiquaient un ratio de 18,4% (rectifié à 17,5% d'après le rapport 10/346 de décembre 2010 du FMI). Or, depuis 2008, l'effort de l'Etat pour l'éducation n'a cessé de s'accentuer de sorte que dans la loi de finances de 2011, ce secteur se voit allouer pas moins de 26,4% des dépenses courantes hors service de la dette ;  en  2009  et  2010  cette  part,  calculée  sur  les  exécutions  budgétaires,  s'était  respectivement établie  à  20%  et  23%.  Là  encore,  c'est  une  forte  augmentation  des  rémunérations  (primes  de logement et de transport), qui explique en grande partie ce phénomène.
+Récemment (cf. RESEN 2010), on constatait que malgré ce regain d’intérêt, l’Etat consacre à l’éducation une part encore faible de ses dépenses courantes (hors service de la dette) : faible au regard des pays d’Afrique (21%), faible au regard des pays de la région dont le niveau de richesse est comparable à celui de la Mauritanie (25%) et faible au regard du cadre indicatif de l’initiative Fast-Track (20%). Ce constat était établi pour les données alors disponibles : celles de 2008 qui indiquaient un ratio de 18,4% (rectifié à 17,5% d’après le rapport 10/346 de décembre 2010 du FMI). Or, depuis 2008, l’effort de l’Etat pour l’éducation n’a cessé de s’accentuer de sorte que dans la loi de finances de 2011, ce secteur se voit allouer pas moins de 26,4% des dépenses courantes hors service de la dette ; en 2009 et 2010 cette part, calculée sur les exécutions budgétaires, s’était respectivement établie à 20% et 23%. Là encore, c’est une forte augmentation des rémunérations (primes de logement et de transport), qui explique en grande partie ce phénomène.
 
 Un autre constat du RESEN indiquait que le financement extérieur des dépenses d'éducation est  relativement  faible :  0,6%  du  PIB,  toujours  en  2008,  tandis  que  les  pays  d'Afrique  à  niveau  de richesse  comparable  recevaient  alors,  en  moyenne,  1,3%  de  leur  PIB.  On  peut  ajouter  que  cette faible part est d'autant plus remarquable que la Mauritanie est un pays peu peuplé et que cela est en général un atout pour bénéficier d'une aide extérieure relativement forte.
 
@@ -370,29 +427,29 @@ La structure de la population occupée a peu changé entre 2000 et 2004, mais se
 
 Les effectifs employés dans le secteur de l'emploi formel ont crû très vite, notamment entre 2004  et  2008.  Cela  est  surtout  le  fait  des  entreprises  privées  et  parapubliques - les  effectifs  du secteur public n'ayant pas varié entre 2000 et 2004 et augmenté moins vite que la population entre 2004 et 2008.
 
-2000 | 2004 | 2008
+Tableau 6 : Emploi et Productivité de 2000 à 2008
+
+ | 2000 | 2004 | 2008
 --- | --- | --- | ---
-PIB en millions d'UM 2010 | 675 342 | 780 300 | 958 712
+PIB en millions d’UM 2010 | 675 342 | 780 300 | 958 712
 Population occupée (milliers) | 625 | 675 | 717
-Secteur de l'agriculture | 300 | 312 | 289
+Secteur de l’agriculture | 300 | 312 | 289
 Secteur informel non-agricole | 220 | 242 | 230
-Secteur de l'emploi formel | 105 | 122 | 198
+Secteur de l’emploi formel | 105 | 122 | 198
 Secteur public | 65 | 65 | 71
 Entreprises privées et parapubliques | 40 | 57 | 127
 Contribution au PIB (%)
-Secteur de l'agriculture | 19% | 17% | 20%
+Secteur de l’agriculture | 19% | 17% | 20%
 Secteur des services | 43% | 49% | 52%
-Secteur de l'industrie | 38% | 34% | 28%
+Secteur de l’industrie | 38% | 34% | 28%
 Structure de la population occupée (%)
-Secteur de l'agriculture | 48% | 46% | 40%
+Secteur de l’agriculture | 48% | 46% | 40%
 Secteur informel non-agricole | 35% | 36% | 32%
-Secteur de l'emploi moderne | 17% | 18% | 28%
-Productivité apparente (milliers d'UM de 2010)
+Secteur de l’emploi moderne | 17% | 18% | 28%
+Productivité apparente (milliers d’UM de 2010)
 Globale | 1 081 | 1 156 | 1 337
-Secteur de l'agriculture | 432 | 413 | 663
+Secteur de l’agriculture | 432 | 413 | 663
 Secteur non-agricole | 1 679 | 1 790 | 1 792
-
-Tableau 6 : Emploi et Productivité de 2000 à 2008
 
 Source : RESEN 2010 et calculs des auteurs à partir des dernières données macroéconomiques
 
@@ -414,7 +471,7 @@ Le Tableau 7 - établi à partir des résultats de l'enquête EPCV 2008 - permet
 
 Premier constat : Le gros du flux entrant dans la vie active (58%) n'a pas accompli une scolarité primaire  complète.  Il  est  certes  naturellement  destiné  à  occuper  les  emplois  d'agriculteurs  ou  les autres emplois informels, principalement non qualifiés, mais on sait que l'enseignement fondamental achevé constitue le minimum pour garantir une alphabétisation définitive et pour doter les individus du capital humain de base qui rend possibles les gains de productivité dans le secteur informel de l'économie.
 
-Deuxième constat : Une bonne proportion des sortants du Secondaire 1 e cycle (12% sur 14% exactement)  devrait  être  employée  dans  le  secteur  informel  de  l'économie  où  les  métiers demandent pourtant peu de qualification, mais un des enjeux de ce secteur est d'évoluer vers des activités et des pratiques nouvelles qui exigent un niveau d'études qui va au-delà de l'enseignement fondamental.
+Deuxième constat : Une bonne proportion des sortants du Secondaire 1e cycle (12% sur 14% exactement) devrait être employée dans le secteur informel de l’économie où les métiers demandent pourtant peu de qualification, mais un des enjeux de ce secteur est d’évoluer vers des activités et des pratiques nouvelles qui exigent un niveau d’études qui va au-delà de l’enseignement fondamental.
 
 Troisième constat : Les proportions des jeunes sortants du système éducatif qui ont au moins le BEPC (23%) ou le Bac (8%) correspondent assez bien aux proportions que représentent les emplois du secteur moderne de l'économie (respectivement 20% et 6%) pour lesquels ils sont normalement destinés.
 
@@ -432,17 +489,17 @@ Plan d'action
 
 [[START OF PAGE 17]]
 
-Niveau de scolarisation | Catégories d'emploi
+Tableau 7 : Sortants du système éducatif 2007 et création d’emplois (2007-2008)
+
+Niveau de scolarisation |  | Catégories d’emploi | 
 --- | --- | --- | ---
 Jamais scolarisé ou Fondamental incomplet | 58% | Agriculteurs | 45%
-Autres emplois informels | 35%
-Fondamental complet | 10%
-Secondaire 1 e cycle incomplet | 9%
-Secondaire 1 e cycle complet | 5%
+ |  | Autres emplois informels | 35%
+Fondamental complet | 10% |  | 
+Secondaire 1e cycle incomplet | 9% |  | 
+Secondaire 1e cycle complet | 5% |  | 
 Secondaire 2e cycle et Technique incomplet | 10% | Employés du secteur moderne | 14%
 Secondaire 2e cycle et Technique complet et Supérieur | 8% | Cadres | 6%
-
-Tableau 7 : Sortants du système éducatif 2007 et création d'emplois (2007-2008)
 
 Source : RESEN (calculs effectués à partir de l'EPCV 2008)
 
@@ -460,9 +517,11 @@ Plan d'action
 
 Choisir  la  population  des  jeunes  de  25  à  35  ans  pour  effectuer  cette  analyse  permet  de concilier deux exigences contraires : d'une part celle de rendre compte d'un état pas trop ancien du système éducatif, d'autre part celle d'éviter de prendre en considération des jeunes qui n'ont pas encore achevé leur recherche d'emploi. Le Tableau 8 présente la répartition de ces jeunes actifs en 2008 (d'après  l'enquête EPCV),  selon  leur  situation  professionnelle  et  selon  leur  niveau  d'études ; dans sa partie haute, le tableau présente la répartition entre les situations professionnelles selon le niveau d'études et dans sa partie basse, la répartition entre les niveaux d'études selon la situation professionnelle.
 
-La  partie  haute  du  tableau  permet  d'observer  que seulement  72%  des  jeunes  de  25-35  ans sont occupés. Le taux de chômage (28%) est donc important ; et il a tendance à croître puisqu'il était de  19%  en  2004.  Les  jeunes  ont  de  sérieuses  difficultés  à  trouver  un  emploi  et,  à  cet  égard,  la possession de diplôme n'est pas un avantage puisque le taux de chômage des diplômés de la partie haute du système éducatif varie entre 29% et 42%. Ces difficultés se manifestent encore dans le fait que 11% des diplômés du Supérieur, 21% de ceux du Technique et 19% de ceux qui ont achevé le 2 e cycle du Secondaire occupent des emplois dans le secteur informel.
+La partie haute du tableau permet d’observer que seulement 72% des jeunes de 25-35 ans sont occupés. Le taux de chômage (28%) est donc important ; et il a tendance à croître puisqu’il était de 19% en 2004. Les jeunes ont de sérieuses difficultés à trouver un emploi et, à cet égard, la possession de diplôme n’est pas un avantage puisque le taux de chômage des diplômés de la partie haute du système éducatif varie entre 29% et 42%. Ces difficultés se manifestent encore dans le fait que 11% des diplômés du Supérieur, 21% de ceux du Technique et 19% de ceux qui ont achevé le 2e cycle du Secondaire occupent des emplois dans le secteur informel.
 
-Sans niveau | Fond incomplet | Fond complet | Sec. 1 er C incomplet | Sec. 1 er C complet | Sec. 2 nd C incomplet | Sec. 2 nd C complet | Tech | Sup | Total
+Tableau 8 : Répartition des actifs de 25-35 ans – 2008
+
+ | Sans niveau | Fond incomplet | Fond complet | Sec. 1er C incomplet | Sec. 1er C complet | Sec. 2nd C incomplet | Sec. 2nd C complet | Tech | Sup | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Actifs occupés | 77% | 72% | 66% | 71% | 66% | 59% | 71% | 58% | 68% | 72%
 Cadres secteur moderne | 0% | 0% | 0% | 1% | 9% | 8% | 14% | 5% | 29% | 3%
@@ -478,8 +537,6 @@ Informel non-agricole | 55% | 21% | 5% | 7% | 3% | 6% | 1% | 0% | 2% | 100%
 Agro-pastoral | 79% | 13% | 2% | 2% | 0% | 2% | 1% | 0% | 0% | 100%
 Chômeurs sens large | 38% | 18% | 5% | 7% | 5% | 16% | 3% | 1% | 7% | 100%
 Total actifs | 46% | 19% | 4% | 7% | 4% | 11% | 3% | 1% | 6% | 100%
-
-Tableau 8 : Répartition des actifs de 25-35 ans - 2008
 
 Le  phénomène  le  plus  remarquable  que  révèle  la  partie  basse  du  tableau  concerne  les employés  du  secteur  moderne  dont  31%  n'ont  aucune  instruction  et  plus  de  la  moitié  (53%)  un niveau inférieur au Fondamental complet, tandis que de nombreux diplômés sont au chômage (cf. partie haute du tableau).
 
@@ -579,7 +636,7 @@ La dernière réforme, votée au parlement en avril 1999, vise à corriger les d
 
 La structure du système éducatif mauritanien se présente alors ainsi :
 
-L'enseignement  préscolaire :  cet  enseignement  n'est  pas  suffisamment  organisé.  Il  a  une durée théorique de 3 ans et s'adresse aux enfants âgés de 3 à 5 ans. Il est dispensé dans des écoles coraniques, des jardins d'enfants et des garderies communautaires. Les garderies communautaires sont des initiatives féminines dont l'objectif principal est d'assurer la garde de leurs enfants. Elles peuvent être saisonnières ou ponctuelles.
+L’enseignement préscolaire : cet enseignement n’est pas suffisamment organisé. Il a une durée théorique de 3 ans et s’adresse aux enfants âgés de 3 à 5 ans. Il est dispensé dans des écoles coraniques, des jardins d’enfants et des garderies communautaires. Les garderies communautaires
 
 DPEF/PNDSE-2
 
@@ -591,11 +648,13 @@ Plan d'action
 
 [[START OF PAGE 22]]
 
-L'Enseignement  fondamental :  cet  ordre  d'enseignement  a  pour  finalité  de  dispenser  une éducation  de  base  à  tous  les  enfants  âgés  de  6  ans  au  moins  dans  les  écoles  primaires  pour  une scolarité de 6 années d'études sanctionnée par le Certificat d'Etudes Primaires (CEP). L'enseignement fondamental est obligatoire  pour  les  enfants  âgés  de  6  à  14  ans,  selon  la  loi  d'obligation  scolaire N°054.2001.
+sont des initiatives féminines dont l’objectif principal est d’assurer la garde de leurs enfants. Elles peuvent être saisonnières ou ponctuelles.
+
+L’Enseignement fondamental : cet ordre d’enseignement a pour finalité de dispenser une éducation de base à tous les enfants âgés de 6 ans au moins dans les écoles primaires pour une scolarité de 6 années d’études sanctionnée par le Certificat d’Etudes Primaires (CEP). L’enseignement fondamental est obligatoire pour les enfants âgés de 6 à 14 ans, selon la loi d’obligation scolaire N°054.2001.
 
 L'Enseignement Secondaire Général : ce niveau d'enseignement est organisé en deux cycles:
 
-- Le premier  cycle a pour  finalité de consolider l'éducation de base acquise au Fondamental et de préparer, soit à la poursuite des études dans l'une des filières du second  cycle  de  l'enseignement  secondaire  général  ou  technique,  soit  à  l'insertion dans la vie socioéconomique. Il accueille, dans les Collèges d'Enseignement Général, les élèves de la 6 e année du Fondamental, à l'issue d'un concours d'entrée, dans une scolarité de 4 ans et il est sanctionné par le Brevet d'études du premier cycle (BEPC).
+- Le premier cycle a pour finalité de consolider l’éducation de base acquise au Fondamental et de préparer, soit à la poursuite des études dans l’une des filières du second cycle de l’enseignement secondaire général ou technique, soit à l’insertion dans la vie socioéconomique. Il accueille, dans les Collèges d’Enseignement Général, les élèves de la 6e année du Fondamental, à l’issue d’un concours d’entrée, dans une scolarité de 4 ans et il est sanctionné par le Brevet d’études du premier cycle (BEPC).
 
 - Le second cycle a pour finalité de préparer à l'enseignement supérieur. Il accueille, dans les  lycées  d'Enseignement  général,  sur  orientation  et  conformément  à  la  capacité d'accueil disponible, les élèves ayant accompli avec succès les études du premier cycle et il est sanctionné par le diplôme du Baccalauréat. Sa durée est de 3 ans. La mise en œuvre de la nouvelle réforme est en cours au niveau de ce cursus et y sera achevée en 2011.
 
@@ -659,13 +718,15 @@ Plan d'action
 
 Les  efforts  déployés  dans  le  cadre  de  la  mise  en  œuvre  de  la  première  phase  du  PNDSE, notamment  en  matière  de  construction  scolaire  et  de  recrutement  d'enseignants  ont  permis  la réalisation  de  progrès  relativement  importants  en  termes  d'accès  et  d'équité  au  niveau  du Fondamental (cf. Tableau 9).
 
+Tableau 9 : Evolution des principales données sur l’Enseignement fondamental
+
 Evolution | Valeurs cibles
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Indicateurs | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2005 | 2010
-Elèves | Total | 375 695 | 394 400 | 434 181 | 443 258 | 465 887 | 483 776 | 473 688 | 512 998 | 531 383
-Public | 363 304 | 376 854 | 403 745 | 407 864 | 431 805 | 439 290 | 427 804 | 461 698 | 470 753
-Privé | 12 391 | 17 546 | 30 436 | 35 394 | 34 082 | 44 486 | 45 884 | 51 300 | 60 630
-% du privé | 3,3% | 4,4% | 7,0% | 8,0% | 7,3% | 9,2% | 9,7% | 10,0% | 11,4%
+Elèves | Total | 375 695 | 394 400 | 434 181 | 443 258 | 465 887 | 483 776 | 473 688 | 512 998 | 531 383 |  | 
+Public | 363 304 | 376 854 | 403 745 | 407 864 | 431 805 | 439 290 | 427 804 | 461 698 | 470 753 |  | 
+Privé | 12 391 | 17 546 | 30 436 | 35 394 | 34 082 | 44 486 | 45 884 | 51 300 | 60 630 |  | 
+% du privé | 3,3% | 4,4% | 7,0% | 8,0% | 7,3% | 9,2% | 9,7% | 10,0% | 11,4% |  | 
 Accès | TBS (G+F) | 89,1% | 91,4% | 98,3% | 98,0% | 100,6% | 102,0% | 97,6% | 99,0% | 107,1% | 91,0% | 95,0%
 % Filles | 48,8% | 49,2% | 49,4% | 49,9% | 49,8% | 50,0% | 50,3% | 50,4% | 50,4% | 48,0% | 50,0%
 TBA 1AF (G+F) | 117,3% | 110,3% | 108,8% | 115,9% | 119,4% | 110,6% | 126,9% | 106,0% | 110,6% | 100,0% | 100,0%
@@ -673,8 +734,6 @@ Rétention (G+F) | 45,1% | 47,3% | 40,2% | 44,0% | 46,5% | 49,3% | 58,6% | 61,2%
 Ecoles complètes | 16,5% | 17,2% | 18,4% | 18,7% | 19,5% | 20,8% | 21,1% | 23,8% | 29,7% | 45,0% | 100,0%
 Qualité | Taux redoublement | 14,7% | 15,9% | 15,8% | 10,1% | 10,2% | 3,4% | 2,0% | 2,7% | 3,9% | 9,0% | 7,0%
 Ratio élèves/maître | 39,0 | 41,0 | 42,5 | 43,3 | 44,0 | 47,0 | 40,0 | 42,0 | 41,9 | 44,0 | 40,0
-
-Tableau 9 : Evolution des principales données sur l'Enseignement fondamental
 
 Source : RESEN 2010 et calculs des auteurs
 
@@ -704,15 +763,15 @@ Si  d'après  les  données  administratives  le  TBA  (taux  brut  d'accès)  e
 
 Si,  néanmoins,  le  taux  d'accès  peut  être  jugé  satisfaisant,  compte  tenu  entre  autres  des difficultés géographiques  évoquées  plus haut (page 5), la rétention des élèves l'est moins, quoiqu'elle se soit sensiblement améliorée ces dernières années.
 
-Si l'on fait l'hypothèse que le TBA est de 95% (et qu'il n'a pas changé depuis 2004), on obtient l'évolution  du  profil  de  scolarisation  du  Graphique  7  ci-dessous,  profil  établi  par  la  méthode transversale 3 .  Le  taux  d'achèvement  primaire 4 serait  ainsi  passé  de  37%  en  2004/05  à  68%  en 2009/10.  Cette  amélioration  très  nette  est  essentiellement  due  à  l'adoption  entre  2005/06  et 2006/07 de la promotion automatique de la 1 e AF à la 4 e AF.
+Si l’on fait l’hypothèse que le TBA est de 95% (et qu’il n’a pas changé depuis 2004), on obtient l’évolution du profil de scolarisation du Graphique 7 ci-dessous, profil établi par la méthode transversale³. Le taux d’achèvement primaire⁴ serait ainsi passé de 37% en 2004/05 à 68% en 2009/10. Cette amélioration très nette est essentiellement due à l’adoption entre 2005/06 et 2006/07 de la promotion automatique de la 1e AF à la 4e AF.
 
 Graphique 7 : Evolution du profil de scolarisation (Fondamental et Secondaire)
 
-Si les données qui ont permis d'établir ces profils de scolarisation sont fiables, cette promotion automatique aura eu un effet bénéfique considérable. Cependant, il reste des progrès à faire puisque selon les dernières statistiques scolaires qui ont permis d'établir le profil de 2009/10, près d'un tiers des enfants qui ont aujourd'hui l'âge d'entrer à l'école n'atteindront jamais la 6 e AF (si le rendement interne  reste  inchangé).  Par  ailleurs,  le  nombre  de  jeunes  précocement  déscolarisés  ou  jamais scolarisés  restera  encore  important  quelques  années  et  il  conviendra  de  s'en  occuper.  L'enquête ERAM de 2008 a révélé que 182 000 enfants de 6 à 15 ans n'étaient pas à l'école ; 25% l'ayant déjà fréquentée. Une partie des 75% restants se seront probablement inscrits à l'école depuis, puisque la répartition par âge des nouveaux inscrits en 1 e AF - statistique certes peu fiable - indique que près de 2/3 des enfants entrent pour la première fois à l'école après 6 ans (essentiellement à 7 ou 8 ans).
+Si les données qui ont permis d’établir ces profils de scolarisation sont fiables, cette promotion automatique aura eu un effet bénéfique considérable. Cependant, il reste des progrès à faire puisque selon les dernières statistiques scolaires qui ont permis d’établir le profil de 2009/10, près d’un tiers
 
 > 3 Le profil montre ainsi le pourcentage d'une classe d'âge qui atteindrait (en ayant redoublé ou non) telle ou telle année d'études si les taux de rendement observés à l'année considérée ne variaient pas.
 
-> 4 Pourcentage d'une classe d'âge qui atteint la 6 e année du Fondamental.
+> 4 Pourcentage d’une classe d’âge qui atteint la 6e année du Fondamental.
 
 DPEF/PNDSE-2
 
@@ -723,6 +782,7 @@ Plan d'action
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+des enfants qui ont aujourd’hui l’âge d’entrer à l’école n’atteindront jamais la 6e AF (si le rendement interne reste inchangé). Par ailleurs, le nombre de jeunes précocement déscolarisés ou jamais scolarisés restera encore important quelques années et il conviendra de s’en occuper. L’enquête ERAM de 2008 a révélé que 182 000 enfants de 6 à 15 ans n’étaient pas à l’école ; 25% l’ayant déjà fréquentée. Une partie des 75% restants se seront probablement inscrits à l’école depuis, puisque la répartition par âge des nouveaux inscrits en 1e AF – statistique certes peu fiable – indique que près de 2/3 des enfants entrent pour la première fois à l’école après 6 ans (essentiellement à 7 ou 8 ans).
 
 Cette enquête ERAM donne également des indications intéressantes sur les caractéristiques de cette population de jeunes en dehors de l'école. Quatre-vingt-deux pour cent d'entre eux résident en zone  rurale  (rappelons  que  le  taux  d'urbanisation  est  de  50%).  Les  causes  de  non-scolarisation seraient : socioculturelles (41% à 47% des cas), économiques (26% à 29% des cas) et spatiales (18% à 20%). Seules les causes spatiales renvoient à une carence de l'offre. L'essentiel du problème est donc du  côté  de  la  demande :  la  fréquentation  de  l'école  coranique  serait  jugée  suffisante  pour l'instruction  des  enfants  par  de  nombreux  parents  et  le  coût  de  la  scolarisation,  direct  ou d'opportunité, serait dissuasif.
 
@@ -748,9 +808,9 @@ Plan d'action
 
 Les disparités selon le milieu de résidence, urbain ou rural, sont plus évidentes. Selon l'enquête  EPCV,  le  taux  d'accès  au  Fondamental  était  en  2008  de  87%  pour  les urbains et de 64% pour les ruraux et cette inégalité initiale s'accentue au cours du cycle d'études, car le taux d'achèvement des premiers était de 54% tandis que celui des seconds n'était que de 22%.
 
-Les disparités entre les wilayas se sont naturellement réduites avec l'expansion de la scolarisation : en 2000, le TBS variait entre 65% (Gorgol) et 125% (Nouadhibou), le coefficient de dispersion des taux était de 20% ; en 2009/10, il est réduit de moitié
+- o Disparités entre wilayas
 
-- o Disparités entre wilayas (10%), et le TBS varie entre 87% (Gorgol) et 119% (Tagant).
+Les disparités entre les wilayas se sont naturellement réduites avec l'expansion de la scolarisation : en 2000, le TBS variait entre 65% (Gorgol) et 125% (Nouadhibou), le coefficient de dispersion des taux était de 20% ; en 2009/10, il est réduit de moitié (10%), et le TBS varie entre 87% (Gorgol) et 119% (Tagant).
 
 - o Disparités selon le niveau de richesse
 
@@ -790,7 +850,7 @@ L'inefficacité du dispositif de gestion du système se manifeste dans plusieurs
 
 Quant au déficit en enseignants pour répondre aux besoins de la réforme, il a sa source dans le fait que (i) plus de 80% des enseignants sont formés en arabe, (ii) que le bassin de recrutement des futurs enseignants est très pauvre en candidats bilingues, voire seulement potentiellement bilingues, car  la  majorité  d'entre  eux  est  issue  de  la  réforme  de  1979  à  dominante  arabisante,  (iii)  que  la formation initiale dans les ENI est toujours inefficace pour former des enseignants bilingues, malgré les efforts de  restructuration et de professionnalisation accomplis, (vi) que  les  expériences poursuivies jusqu'ici en matière de reconversion linguistique n'ont pas donné les résultats attendus.
 
-Les  conditions  d'enseignement  sont  quant  à  elles  caractérisées  par  la  mauvaise  qualité  des infrastructures  et  l'absence  d'un  environnement  scolaire  attrayant  (55%  des  salles  de  classe  du fondamental sont en mauvais état, la quasi-totalité des écoles ne sont pas approvisionnées en eau potable, ne disposent pas de latrines et ne sont pas clôturées) et par le manque de mobilier scolaire (50% des enfants sont encore assis par terre).
+Les  conditions  d'enseignement  sont  quant  à  elles  caractérisées  par  la  mauvaise  qualité  des infrastructures  et  l'absence  d'un  environnement  scolaire  attrayant  (55%  des  salles  de  classe  du
 
 DPEF/PNDSE-2
 
@@ -801,6 +861,7 @@ Plan d'action
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+fondamental sont en mauvais état, la quasi-totalité des écoles ne sont pas approvisionnées en eau potable, ne disposent pas de latrines et ne sont pas clôturées) et par le manque de mobilier scolaire (50% des enfants sont encore assis par terre).
 
 #### A.3.2.3 Enseignement secondaire général
 
@@ -832,6 +893,8 @@ Plan d'action
 
 [[START OF PAGE 30]]
 
+Tableau 10 : Evolution des effectifs de l'Enseignement secondaire général
+
 1998/99 | 1999/00 | 2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1e cycle | Ensemble | 37 449 | 41 253 | 45 644 | 46 994 | 49 139 | 51 307 | 55 993 | 55 530 | 69 535 | 65 896 | 70 492 | 80 888
@@ -847,8 +910,6 @@ Public | 60 069 | 64 481 | 67 578 | 70 112 | 73 837 | 76 637 | 81 068 | 80 495 |
 Privé | 0 | 161 | 7 164 | 6 725 | 7 441 | 9 006 | 12 179 | 16 599 | 20 309 | 21 995 | 24 574 | 29 953
 % Privé | 0,0% | 0,2% | 9,6% | 8,8% | 9,2% | 10,5% | 13,1% | 17,1% | 20,5% | 22,7% | 23,5% | 26,6%
 
-Tableau 10 : Evolution des effectifs de l'Enseignement secondaire général
-
 Source : RESEN 2010 et calculs des auteurs
 
 ###### Le TBS
@@ -857,13 +918,13 @@ L'évolution du taux brut de scolarisation (TBS) au cours de la période fait ap
 
 L'analyse de ce taux par cycle montre une évolution plus importante au premier cycle qu'au second cycle. Le TBS du premier cycle est passé de 22,2% en 1998/99 à 32,4% en 2006/07, soit une progression de 10,2 points sur la période avant de revenir en 2007/2008 (22,9%) à son niveau d'il y a 10  ans.  Au  second  cycle  l'évolution  du  TBS  a  été  plus  modérée,  mais  continue  entre  1998/09  et 2005/06, passant de 14,3% à 20,7% avant de régresser en 2006/07 pour atteindre son niveau initial (14,3%), puis remonter à nouveau en 2007/08 (24,1%) de près de 10 points. Le Tableau 11 illustre ces données :
 
+Tableau 11 : Evolution du Taux brut de scolarisation (TBS) dans le Secondaire général
+
 1998/99 | 1999/00 | 2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1e cycle | 22% | 24% | 26% | 26% | 26% | 26% | 28% | 27% | 32% | 23% | 23% | 27%
 2e cycle | 14% | 14% | 17% | 17% | 18% | 18% | 19% | 21% | 14% | 24% | 17% | 16%
 Total | 0% | 0% | 22% | 22% | 22% | 23% | 24% | 25% | 24% | 23% | 21% | 23%
-
-Tableau 11 : Evolution du Taux brut de scolarisation (TBS) dans le Secondaire général
 
 Source : RESEN 2010 et calculs des auteurs
 
@@ -889,22 +950,22 @@ En outre, le taux d'accès en première année du second cycle secondaire a conn
 
 Les disparités entre garçons et filles existent au désavantage de ces dernières, et ont tendance à se creuser entre les deux niveaux (en 2008, l'indice de parité est de 91,6 au premier cycle et de 88,8 au second).
 
-2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | a-b | b/a
---- | --- | --- | --- | --- | --- | --- | ---
-Premier cycle
-Ensemble | 26,80% | 26,60% | 25,20% | 22,90%
-Garçons (a) | 27,80% | 27,90% | 26,80% | 23,90%
-Filles (b) | 25,70% | 25,20% | 23,40% | 21,90%
-Second cycle
-Ensemble | 19,70% | 21,70% | 23,40% | 16,00%
-Garçons (a) | 21,20% | 23,30% | 23,90% | 16,90%
-Filles (b) | 18,20% | 19,90% | 22,90% | 15,00%
-Secondaire total
-Ensemble | 24,90% | 24,90%
-Garçons (a) | 26,50% | 26,40%
-Filles (b) | 23,10% | 23,30% | 3,10% | 88%
-
 Tableau 12 : Taux brut de scolarisation dans le Secondaire
+
+|  | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | a-b | b/a |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Premier cycle |  |  |  |  |  |  |  |  |
+| Ensemble | 26,80% | 26,60% | 25,20% | 22,90% |  |  |  |  |
+| Garçons (a) | 27,80% | 27,90% | 26,80% | 23,90% |  |  |  |  |
+| Filles (b) | 25,70% | 25,20% | 23,40% | 21,90% |  |  |  |  |
+| Second cycle |  |  |  |  |  |  |  |  |
+| Ensemble | 19,70% | 21,70% | 23,40% | 16,00% |  |  |  |  |
+| Garçons (a) | 21,20% | 23,30% | 23,90% | 16,90% |  |  |  |  |
+| Filles (b) | 18,20% | 19,90% | 22,90% | 15,00% |  |  |  |  |
+| Secondaire total |  |  |  |  |  |  |  |  |
+| Ensemble |  |  |  |  | 24,90% | 24,90% |  |  |
+| Garçons (a) |  |  |  |  | 26,50% | 26,40% |  |  |
+| Filles (b) |  |  |  |  | 23,10% | 23,30% | 3,10% | 88% |
 
 Source : RESEN 2010 et calculs des auteurs
 
@@ -1008,7 +1069,7 @@ Plan d'action
 
 correspondent au niveau ouvrier et ouvrier semi spécialisé (BEP/CAP), 41,72% au niveau technicien (BT et BAC T) et 1,64% au niveau technicien supérieur.
 
-Le flux annuel de sortie en formation diplômante est de l'ordre de 1 500 diplômés. Parmi ceuxci près de 70% sont des ouvriers ou ouvriers semi-spécialisés (CAP/BEP), les techniciens (BT et Bac T) y sont de l'ordre de 27%, contre près de 3% seulement pour le niveau technicien supérieur (BTS).
+Le flux annuel de sortie en formation diplômante est de l'ordre de 1 500 diplômés. Parmi ceux-ci près de 70% sont des ouvriers ou ouvriers semi-spécialisés (CAP/BEP), les techniciens (BT et Bac T) y sont de l'ordre de 27%, contre près de 3% seulement pour le niveau technicien supérieur (BTS).
 
 L'encadrement pédagogique en 2008 est assuré par 348 formateurs, tous mauritaniens, dont 232 au niveau des établissements secondaires de FTP, 108 au niveau des CFPP et 8 au niveau du CSET.
 
@@ -1018,14 +1079,14 @@ Au  plan  sectoriel,  l'offre  nationale  de  formation  couvre  21  spécialit�
 
 À  cette  offre  publique,  s'ajoutent  plus  de  30  structures  privées  de  formation  technique  et professionnelle « autorisées ». Ces « centres » privés de formation sont essentiellement tournés vers le secteur tertiaire et ont une capacité d'accueil de près de 1200 places. Les programmes dispensés ne sont pas contrôlés par l'état et ne débouchent pas sur des diplômes reconnus.
 
-1998/99 | 1999/00 | 2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Ensemble | 1 682 | 1 916 | 1 893 | 1 820 | 1 902 | 4 853 | 3 270 | 3 744 | 4 983
-Public | 1 682 | 1 916 | 1 893 | 1 820 | 1 902 | 4 853 | 3 270 | 2 764 | 3 983
-Privé | 980 | 1 000
-% Privé | 26,2% | 20,1%
-
 Tableau 13 : Evolution des effectifs de la FTP
+
+|  | 1998/99 | 1999/00 | 2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ensemble | 1 682 |  | 1 916 | 1 893 | 1 820 | 1 902 | 4 853 | 3 270 | 3 744 | 4 983 |
+| Public | 1 682 |  | 1 916 | 1 893 | 1 820 | 1 902 | 4 853 | 3 270 | 2 764 | 3 983 |
+| Privé |  |  |  |  |  |  |  |  | 980 | 1 000 |
+| % Privé |  |  |  |  |  |  |  |  | 26,2% | 20,1% |
 
 Le  nombre  de  scolarisés  dans  les  structures  publiques  entre  2004-05  et  2007-08  a  plus  ou moins stagné, voire diminué, alors que les effectifs du privé ont significativement augmenté. Une conséquence  est  que  les  établissements  privés,  qui  étaient  presque  inexistants  à  ce  niveau d'enseignement  (filière  longue  ou  courte)  jusqu'en  en  2004-2005  ont  vu  leur  poids  augmenter puisqu'en 2007-08, 20,1 % des élèves y sont scolarisés.
 
@@ -1141,7 +1202,7 @@ L'Institut Supérieur de Comptabilité et d'Administration des Entreprises (ISCA
 
 Le  Centre  Supérieur  d'Enseignement  Technique  (CSET),  est  une  structure  de  formation professionnelle  préparant  essentiellement  au  BTS  pour  des  effectifs  relativement  réduits  (une centaine d'étudiants).
 
-L'Institut  Supérieur  des  Etudes  et  Recherches  Islamiques  (ISERI),  est  sous  la  tutelle  du Ministère  de  l'Orientation  Islamique,  de  la  Lutte  contre  l'Analphabétisme  et  de  l'Enseignement Originel. Sa mission est de dispenser un enseignement arabo-islamique moderne et d'effectuer des recherches fondamentales dans le domaine des sciences islamiques. L'ISERI délivre un diplôme de maîtrise en sciences islamiques et lettres arabes, après une durée d'études de quatre ans. On note au niveau de cet établissement un retard quant à l'introduction du système LMD.
+L'Institut  Supérieur  des  Etudes  et  Recherches  Islamiques  (ISERI),  est  sous  la  tutelle  du Ministère  de  l'Orientation  Islamique,  de  la  Lutte  contre  l'Analphabétisme  et  de  l'Enseignement Originel. Sa mission est de dispenser un enseignement arabo-islamique moderne et d'effectuer des
 
 DPEF/PNDSE-2
 
@@ -1153,16 +1214,18 @@ Plan d'action
 
 [[START OF PAGE 40]]
 
+recherches fondamentales dans le domaine des sciences islamiques. L'ISERI délivre un diplôme de maîtrise en sciences islamiques et lettres arabes, après une durée d'études de quatre ans. On note au niveau de cet établissement un retard quant à l'introduction du système LMD.
+
 L'Ecole Nationale d'Administration (ENA), sous la tutelle du Ministère de la fonction publique, est chargée de la formation des fonctionnaires des corps de l'administration et du perfectionnement des personnels administratifs en service.
 
-1998/99 | 1999/00 | 2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Ensemble | 12 912 | 11 112 | 10 023 | 10 844 | 11 885 | 11 596 | 12 757 | 15 179 | 14 699 | 15 765
-Public | 12 912 | 11 112 | 10 023 | 10 844 | 11 885 | 11 596 | 12 757 | 14 822 | 14 368 | 15 151
-Privé | 357 | 331 | 614
-% Privé | 2,4% | 2,3% | 3,9%
-
 Tableau 14 : Evolution des effectifs de l'Enseignement supérieur
+
+|  | 1998/99 | 1999/00 | 2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ensemble | 12 912 |  | 11 112 | 10 023 | 10 844 | 11 885 | 11 596 | 12 757 | 15 179 | 14 699 | 15 765 |
+| Public | 12 912 |  | 11 112 | 10 023 | 10 844 | 11 885 | 11 596 | 12 757 | 14 822 | 14 368 | 15 151 |
+| Privé |  |  |  |  |  |  |  |  | 357 | 331 | 614 |
+| % Privé |  |  |  |  |  |  |  |  | 2,4% | 2,3% | 3,9% |
 
 Source : : DSPC/MEN, INAP-FTP/SEFPET, DGESRS/MEN
 
@@ -1288,7 +1351,7 @@ En matière d'enseignement originel, ce type d'éducation non formel a depuis to
 
 ##### Défis et contraintes
 
-Le  principal  défi  qui  se  présente  au  niveau  de  ce  sous-secteur  de  l'éducation  réside  dans l'importance du phénomène d'analphabétisme parmi les populations, notamment rurale et féminine, tant  en  termes  d'effectifs  qu'en  termes  de  taux  et  de  flux  d'alimentation  (non  scolarisés  et déscolarisés précoces) ; le faible rendement des programmes d'alphabétisation jusque-là exécutés ; le  manque de capitalisation des expériences réussies (alphabétisation à distance) et l'instabilité de l'ancrage institutionnel du sous-secteur de l'alphabétisation .
+Le  principal  défi  qui  se  présente  au  niveau  de  ce  sous-secteur  de  l'éducation  réside  dans l'importance du phénomène d'analphabétisme parmi les populations, notamment rurale et féminine, tant  en  termes  d'effectifs  qu'en  termes  de  taux  et  de  flux  d'alimentation  (non  scolarisés  et
 
 DPEF/PNDSE-2
 
@@ -1299,8 +1362,9 @@ Plan d'action
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
+déscolarisés précoces) ; le faible rendement des programmes d'alphabétisation jusque-là exécutés ; le manque de capitalisation des expériences réussies (alphabétisation à distance) et l'instabilité de l'ancrage institutionnel du sous-secteur de l'alphabétisation .
 
-Les  contraintes  qui  limitent  les  performances  dans  ce  cadre  sont  multiples  et  concernent notamment : (i) l'absence d'une vision globale et intégrée et d'une stratégie à long terme de lutte contre l'analphabétisme, (ii) la dispersion et l'anarchie des efforts des intervenants en alphabétisation  :  l'absence  de  coordination,  d'une  part  entre  les  différents  intervenants  dans  ce domaine et, d'autre part entre ceux-ci et la structure administrative en charge de l'alphabétisation, (iii) le manque d'expérience des acteurs de la société civile, (iv) l'inadéquation des programmes avec les  besoins  des  apprenants  et  la  spécificité  des  zones  cibles,  (v)  l'absence  de  programme  postalphabétisation  et  d'un  système  de  certification,  (vi)  l'insuffisance  qualitative  et  quantitative  des manuels et guides pédagogiques, (vii) la faible capacité managériale des structures chargées de la gestion et du pilotage de l'alphabétisation, (viii) les programmes basés sur une approche d'offre et non de demande, (ix) l'absence d'un environnement lettré favorable à l'apprentissage tout le long de la vie, (x) l'absence d'une structure formée et chargée du suivi et de l'évaluation des programmes, et (xi) la faiblesse du financement accordé au secteur de l'alphabétisation dans le budget de l'Etat.
+Les  contraintes  qui  limitent  les  performances  dans  ce  cadre  sont  multiples  et  concernent notamment : (i) l'absence d'une vision globale et intégrée et d'une stratégie à long terme de lutte contre l'analphabétisme, (ii) la dispersion et l'anarchie des efforts des intervenants en alphabétisation  :  l'absence  de  coordination,  d'une  part  entre  les  différents  intervenants  dans  ce domaine et, d'autre part entre ceux-ci et la structure administrative en charge de l'alphabétisation, (iii) le manque d'expérience des acteurs de la société civile, (iv) l'inadéquation des programmes avec les  besoins  des  apprenants  et  la  spécificité  des  zones  cibles,  (v)  l'absence  de  programme  post-alphabétisation  et  d'un  système  de  certification,  (vi)  l'insuffisance  qualitative  et  quantitative  des manuels et guides pédagogiques, (vii) la faible capacité managériale des structures chargées de la gestion et du pilotage de l'alphabétisation, (viii) les programmes basés sur une approche d'offre et non de demande, (ix) l'absence d'un environnement lettré favorable à l'apprentissage tout le long de la vie, (x) l'absence d'une structure formée et chargée du suivi et de l'évaluation des programmes, et (xi) la faiblesse du financement accordé au secteur de l'alphabétisation dans le budget de l'Etat.
 
 Sur le plan de l'enseignement originel, celui-ci souffre, en plus de l'absence de données fiables sur  sa  situation,  de  plusieurs  contraintes  dont  on  peut  citer  notamment  :  (i)  l'inexistence  d'un dispositif juridique et institutionnel d'encadrement du sous-secteur, (ii) le manque d'organisation et de normalisation des passerelles entre l'enseignement originel et l'enseignement formel, particulièrement au niveau de l'enseignement obligatoire, (iii) la faible ouverture des programmes de l'enseignement  sur  les  langues  étrangères  enseignées  au  niveau  du  système  formel  (français  et anglais) et sur les disciplines scientifiques (mathématiques, sciences naturelles, etc.), (iv) en somme l'absence d'une politique claire à l'égard de ce type d'enseignement.
 
@@ -1310,7 +1374,7 @@ Sur le plan de l'enseignement originel, celui-ci souffre, en plus de l'absence d
 
 Les activités réalisées dans le cadre de la première phase du PNDSE ont permis de renforcer le dispositif de pilotage du secteur par la mise en place d'importantes structures de gestion telles que la direction  de  l'enseignement  privé,  la  cellule  nationale  d'évaluation,  la  direction  des  examens,  la direction des ressources humaines, le lancement de la mise en place du SIGE, etc. Parallèlement, de nombreuses dispositions ont été prises dans le but d'améliorer le management du système éducatif, notamment en matière de nomination des responsables sur la base des profils de compétence et d'affectation du personnel grâce à des critères élaborés et approuvés par l'ensemble des acteurs du secteur, y compris les structures déconcentrées. La pérennité de ces structures et dispositions a été affectée  par  l'instabilité  dans  les  organigrammes  et  l'organisation  du  pilotage  institutionnel  du secteur.
 
-Les indicateurs retenus dans le cadre du PNDSE I pour le suivi des performances en matière de gestion sont le ratio déterminant la corrélation entre le nombre d'enseignants et le nombre d'élèves par école qui permet d'apprécier le degré de cohérence dans l'allocation des enseignants, ainsi que le  pourcentage  des  ressources  propres  allouées  par  l'Etat  au  Secteur  de  l'Education  qui  permet d'apprécier le degré de priorité dont il bénéficie dans les politiques nationales.
+Les indicateurs retenus dans le cadre du PNDSE I pour le suivi des performances en matière de gestion sont le ratio déterminant la corrélation entre le nombre d'enseignants et le nombre d'élèves par école qui permet d'apprécier le degré de cohérence dans l'allocation des enseignants, ainsi que
 
 DPEF/PNDSE-2
 
@@ -1321,6 +1385,7 @@ Plan d'action
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+le pourcentage des ressources propres allouées par l'Etat au Secteur de l'Education qui permet d'apprécier le degré de priorité dont il bénéficie dans les politiques nationales.
 
 Concernant la corrélation entre le nombre d'enseignants et le nombre d'élèves par école, ce ratio (r²), qui était dans le fondamental de 87% en 2001 au démarrage du PNDSE, s'est dégradé pour se situer à près de 78% en 2006 et en 2008, selon le RESEN 2010 ; ce qui signifie qu'il existe encore 22% d'aléas dans la répartition des enseignants entre les écoles. La situation de la Mauritanie sur ce plan  est  cependant  meilleure  comparativement  à  13  pays  africains  à  revenu  comparable  où  la moyenne  enregistrée correspond à 31%  d'aléas. Le degré d'aléas dans les établissements d'enseignement secondaire, notamment les collèges est les établissements mixtes (collège et lycée) est plutôt proche de l'enseignement fondamental dans la première catégorie d'établissements (19% dans les  collèges) et  plus  importante  dans  la  seconde  (31%).  Il  est  donc  impératif  de  prendre  des mesures pour réaliser des progrès substantiels en vue d'améliorer cette situation.
 
@@ -1372,7 +1437,7 @@ Plan d'action
 
 ### B.1.1 Les orientations globales et les options pour le développement du secteur
 
-Au regard de la situation du système éducatif national telle qu'elle ressort du diagnostic cidessus présenté, les priorités de la politique éducative dans le court et le moyen terme sont :
+Au regard de la situation du système éducatif national telle qu'elle ressort du diagnostic ci-dessus présenté, les priorités de la politique éducative dans le court et le moyen terme sont :
 
 - La  maîtrise  du  fonctionnement  du  système  éducatif  sur  les  plans  quantitatif (accès et gestion des flux) et qualitatif (qualité des apprentissages et pertinence des formations aux différents niveaux du système), dans la perspective de favoriser la contribution de l'éducation au développement social et à la croissance économique ;
 
@@ -1502,9 +1567,11 @@ Dans le cadre de la nouvelle stratégie, l'enseignement secondaire général ser
 
 Le taux de transition entre le fondamental et le 1 e cycle évoluera de 45% en 2008 à 55% en 2020  et  le  taux  de  rétention  dans  le  1 e cycle,  de  58%  à  70%  sur  la  même  période.  Le  taux  de transition entre le 1 e et le 2 e cycle sera progressivement ramené à 50% en 2020. Le taux moyen de redoublement au 1 e cycle baissera de 8% à 5% et de 19% à 10% au 2 e cycle. Le taux de réussite au baccalauréat passera atteindra progressivement 55% en 2020 (il était de 27% en 2010).
 
-- Pour atteindre ces objectifs, la stratégie adoptée s'articulera autour de deux axes principaux : i) Le renforcement de l'accès et de l'équité au 1 e cycle et la maîtrise des effectifs au niveau du 2 e cycle ;
+Pour atteindre ces objectifs, la stratégie adoptée s'articulera autour de deux axes principaux :
 
-- ii) L'amélioration de la qualité et de la pertinence de l'enseignement.
+i) Le renforcement de l'accès et de l'équité au 1e cycle et la maîtrise des effectifs au niveau du 2e cycle ;
+
+ii) L'amélioration de la qualité et de la pertinence de l'enseignement.
 
 Au niveau du premier axe, la stratégie d'intervention proposée sera centrée sur :
 
@@ -1550,11 +1617,11 @@ place d'une nouvelle approche pour la reconversion linguistique des professeurs 
 
 #### B.1.2.4 Formation technique et professionnelle
 
-La  stratégie  en  matière  de  formation  technique  et  professionnelle  a  pour  ambition  de renforcer l'articulation  de  cette  composante  avec  les  autres  niveaux  du  système  éducatif  et  de  le rendre plus adéquat aux besoins de l'économie en matière de compétences et de qualifications. Elle consiste à jumeler la FTP classique avec un dispositif de formations ciblées, orientées vers l'insertion et s'articulera autour de deux axes prioritaires :
+La stratégie en matière de formation technique et professionnelle a pour ambition de renforcer l'articulation de cette composante avec les autres niveaux du système éducatif et de le rendre plus adéquat aux besoins de l'économie en matière de compétences et de qualifications. Elle consiste à jumeler la FTP classique avec un dispositif de formations ciblées, orientées vers l'insertion et s'articulera autour de deux axes prioritaires :
 
-- L'amélioration  de  la  qualité  de  la  formation,  sa  pertinence  et  son  ancrage  par  rapport  à l'économie ;
+i) L'amélioration de la qualité de la formation, sa pertinence et son ancrage par rapport à l'économie ;
 
-- ii) L'extension de l'offre de formation du dispositif.
+ii) L'extension de l'offre de formation du dispositif.
 
 Au niveau du premier axe, la stratégie envisagée mettra l'accent sur :
 
@@ -1608,9 +1675,9 @@ Sur la base de ces principes, il est visé que i) le nombre d'étudiants diminue
 
 Pour atteindre ces objectifs, la stratégie s'articulera autour de deux axes principaux :
 
-- Le renforcement de la capacité d'accueil au niveau national et la maîtrise des effectifs ;
+i) Le renforcement de la capacité d'accueil au niveau national et la maîtrise des effectifs ;
 
-- ii) L'amélioration de l'efficacité interne et externe des formations et le développement de la recherche scientifique.
+ii) L'amélioration de l'efficacité interne et externe des formations et le développement de la recherche scientifique.
 
 En termes d'accès, l'accent sera mis sur :
 
@@ -1808,70 +1875,69 @@ Plan d'action
 
 [[START OF PAGE 58]]
 
+Tableau 15 : Les principaux indicateurs de la politique sectorielle
+
 Réalisations ou estimations | E/P | Projections
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2002 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2020
 Préscolaire
 Taux de couverture | 4,9% | 5,2% | 6,9% | 7,7% | 8,5% | 9,4% | 10,2% | 11,1% | 11,9% | 16,2%
-Part dép. courantes*dans secteur | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 2%
-Investissement (million UM) | 0,2 | 1,4 | 1,4 | 1,5 | 1,8
-Alphabétisation & EO | 0,0 | 0,1 | 1,1
-Taux d'analphabétisme | 53% | 38% | 35% | 33% | 32% | 32% | 31% | 29% | 28% | 19%
-Part dép. courantes*dans secteur | 2000 | 0,1% | 0,1% | 0,1% | 0,1% | 0,1% | 0,1% | 0,2% | 0,2%
-Investissement (million UM) | 0,0 | 0,1 | 0,3 | 0,7 | 1,9 | 2,5 | 2,4 | 5,4
+Part dép. courantes*dans secteur | | | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 2%
+Investissement (million UM) | | | 0,0 | 0,1 | 0,2 | 1,4 | 1,1 | 1,4 | 1,5 | 1,8
+Alphabétisation & EO
+Taux d'analphabétisme | 53%₂₀₀₀ | 38% | 35% | 33% | 32% | 32% | 31% | 29% | 28% | 19%
+Part dép. courantes*dans secteur | | | 0,1% | 0,1% | 0,1% | 0,1% | 0,1% | 0,1% | 0,2% | 0,2%
+Investissement (million UM) | | | 0,0 | 0,1 | 0,3 | 0,7 | 1,9 | 2,5 | 2,4 | 5,4
 Fondamental
-Taux d'achèvement | 46,90% | (58,5%) | 63% | 63% | 66% | 70% | 74% | 78% | 100%
+Taux d'achèvement | 46,90% | (58,5%) | | 63% | 63% | 66% | 70% | 74% | 78% | 100%
 TBS | 88% | 98% | 99% | 107% | 102% | 100% | 98% | 96% | 95% | 99%
 % Privé | 4% | 9,7% | 9,0% | 11,4% | 11,4% | 11,3% | 11,3% | 11,2% | 11,2% | 11,0%
 Public
-Elèves/maître | 42,7 | 41,9 | 41,6 | 41,2 | 40,9 | 40,6 | 40,2 | 38,0
-CU public fonct. (UM) | 35 808 | 40 737 | 42 247 | 43 845 | 44 680 | 45 541 | 47 275 | 56 564
-Part dép. courantes*dans secteur | 49% | 51% | 51% | 51% | 53% | 52% | 52% | 49%
-Investissement (million UM) | 6,1 | 12,2 | 17,7 | 19,7 | 20,5 | 18,2 | 21,8 | 15,2
+Elèves/maître | | | 42,7 | 41,9 | 41,6 | 41,2 | 40,9 | 40,6 | 40,2 | 38,0
+CU public fonct. (UM) | | | 35 808 | 40 737 | 42 247 | 43 845 | 44 680 | 45 541 | 47 275 | 56 564
+Part dép. courantes*dans secteur | | | 49% | 51% | 51% | 51% | 53% | 52% | 52% | 49%
+Investissement (million UM) | | | 6,1 | 12,2 | 17,7 | 19,7 | 20,5 | 18,2 | 21,8 | 15,2
 Secondaire général
 Taux transition effectif
-Fond al - 1 e cycle | 37% | 42% | 46% | 47% | 48% | 49% | 50% | 51% | 55%
-1 e cycle - 2 e cycle | 78% | 68% | 66% | 65% | 63% | 61% | 59% | 50%
-% Privé | 23% | 27% | 27% | 27% | 27% | 27% | 27% | 28%
-% de redoublants | 11% | 19% | 10% | 10% | 10% | 9% | 9% | 5%
+Fondal – 1e cycle | | 37% | 42% | 46% | 47% | 48% | 49% | 50% | 51% | 55%
+1e cycle – 2e cycle | | | 78% | 68% | 66% | 65% | 63% | 61% | 59% | 50%
+% Privé | | | 23% | 27% | 27% | 27% | 27% | 27% | 27% | 28%
+% de redoublants | | | 11% | 19% | 10% | 10% | 10% | 9% | 9% | 5%
 Public
-CU public fonct. (UM) | 99 730 | 104 279 | 104 302 | 104 132 | 103 148 | 102 194 | 103 988 | 116 090
-Part dép. courantes*dans secteur | 24,6% | 23,8% | 23,3% | 23,7% | 24,4% | 24,3% | 24,7% | 23,5%
-Investissement (million UM) | 2,7 | 1,1 | 1,2 | 4,2 | 3,7 | 3,6 | 5,0 | 8,9
+CU public fonct. (UM) | | | 99 730 | 104 279 | 104 302 | 104 132 | 103 148 | 102 194 | 103 988 | 116 090
+Part dép. courantes*dans secteur | | | 24,6% | 23,8% | 23,3% | 23,7% | 24,4% | 24,3% | 24,7% | 23,5%
+Investissement (million UM) | | | 2,7 | 1,1 | 1,2 | 4,2 | 3,7 | 3,6 | 5,0 | 8,9
 FTP
 FPI
-Bénéficiaires | 0 | 0 | 0 | 2 000 | 4 667 | 7 333 | 10 000 | 30 000
-CU public fonct. (UM) | 0 | 0 | 0 | 123 667 | 137 213 | 147 691 | 153 468 | 173 025
+Bénéficiaires | | | 0 | 0 | 0 | 2 000 | 4 667 | 7 333 | 10 000 | 30 000
+CU public fonct. (UM) | | | 0 | 0 | 0 | 123 667 | 137 213 | 147 691 | 153 468 | 173 025
 Formation initiales
 Effectifs | 1 893 | 4 983
-CAP-BEP | 3 020 | 3 378 | 3 614 | 3 787 | 3 948 | 4 107 | 4 263 | 5 027
-BT | 1144 | 1213 | 1290 | 1371 | 1454 | 1538 | 1623 | 2017
-Bac pro | 138 | 134 | 190 | 228 | 258 | 285 | 313 | 455
+CAP-BEP | | | 3 020 | 3 378 | 3 614 | 3 787 | 3 948 | 4 107 | 4 263 | 5 027
+BT | | | 1 144 | 1 213 | 1 290 | 1 371 | 1 454 | 1 538 | 1 623 | 2 017
+Bac pro | | | 138 | 134 | 190 | 228 | 258 | 285 | 313 | 455
 CU public fonct. (UM)
-CAP-BEP | 255 840 | 244 105 | 228 013 | 225 941 | 229 447 | 233 232 | 239 335 | 278 615
-BT | 282 611 | 245 321 | 242 098 | 252 034 | 262 953 | 274 604 | 289 564 | 371 003
-Bac pro | 304 933 | 258 891 | 222 525 | 235 035 | 246 044 | 258 284 | 270 448 | 336 483
-Part dép. courantes*dans secteur | 3,8% | 3,5% | 3,4% | 3,5% | 3,7% | 3,8% | 3,9% | 4,0%
-Investissement (million UM) | 0,0 | 2,0 | 0,2 | 2,0 | 4,0 | 6,3 | 7,3 | 27,3
+CAP-BEP | | | 255 840 | 244 105 | 228 013 | 225 941 | 229 447 | 233 232 | 239 335 | 278 615
+BT | | | 282 611 | 245 321 | 242 098 | 252 034 | 262 953 | 274 604 | 289 564 | 371 003
+Bac pro | | | 304 933 | 258 891 | 222 525 | 235 035 | 246 044 | 258 284 | 270 448 | 336 483
+Part dép. courantes*dans secteur | | | 3,8% | 3,5% | 3,4% | 3,5% | 3,7% | 3,8% | 3,9% | 4,0%
+Investissement (million UM) | | | 0,0 | 2,0 | 0,2 | 2,0 | 4,0 | 6,3 | 7,3 | 27,3
 Supérieur
-Taux réussite Bac. | 16,8% | 22,7% | 20,0% | 21,1% | 24,7% | 28,2% | 32,4% | 54,7%
+Taux réussite Bac. | | | 16,8% | 22,7% | 20,0% | 21,1% | 24,7% | 28,2% | 32,4% | 54,7%
 Etudiants/100 000 habitants | 387 | 524 | 601 | 620 | 627 | 620 | 621 | 566 | 527 | 645
-% dans le Privé | 0% | 3,89% | 4,26% | 5,00% | 5,49% | 6,22% | 6,65% | 7,50% | 13,52%
-Public local : CU fonctionnement | 233 854 | 254 151 | 274 837 | 289 973 | 307 547 | 333 694 | 368 520 | 524 754
-(UM) | 22% | 17% | 19%
-Part dép. courantes*dans secteur Investissement (million UM) | 5,8 | 21% 4,0 | 21% 19,9 | 21% 28,3 | 28,7 | 22,4 | 18% 18,5 | 22% 3,0
-Gestion & Gouvernance secteur | 11% | 10% | 10% | 9% | 9% | 9% | 7%
-Part dép. courantes*dans | 10%
-Investissement (million UM) | 3,8 | 1,0 | 1,2 | 11,3 | 11,8 | 10,6 | 9,9 | 8,8
+% dans le Privé | 0% | | 3,89% | 4,26% | 5,00% | 5,49% | 6,22% | 6,65% | 7,50% | 13,52%
+Public local : CU fonctionnement (UM) | | | 233 854 | 254 151 | 274 837 | 289 973 | 307 547 | 333 694 | 368 520 | 524 754
+Part dép. courantes*dans secteur | | | 22% | 21% | 21% | 21% | 17% | 19% | 18% | 22%
+Investissement (million UM) | | | 5,8 | 4,0 | 19,9 | 28,3 | 28,7 | 22,4 | 18,5 | 3,0
+Gestion & Gouvernance
+Part dép. courantes*dans secteur | | | 11% | 10% | 10% | 10% | 9% | 9% | 9% | 7%
+Investissement (million UM) | | | 3,8 | 1,0 | 1,2 | 11,3 | 11,8 | 10,6 | 9,9 | 8,8
 Santé scolaire
-Investissement (million UM) | 18 | 0 | 0 | 76 | 65 | 65 | 65 | 65
+Investissement (million UM) | | | 18 | 0 | 0 | 76 | 65 | 65 | 65 | 65
 Secteur Education
-Dépenses pub. courantes | 33 735 | 37 470 | 38 318 | 40 180 | 41 026 | 43 303 | 45 320 | 63 709
-% Enseignement de | 66% | 68% | 68% | 68% | 72% | 70% | 70% | 67%
-base Investissements | 5 079 | 5 665 | 11 221 | 18 667 | 19 760 | 17 920 | 18 325 | 19 432
-% Enseignement de base | 44% | 64% | 47% | 37% | 37% | 38% | 44% | 41%
-
-Tableau 15 : Les principaux indicateurs de la politique sectorielle
+Dépenses pub. courantes | | | 33 735 | 37 470 | 38 318 | 40 180 | 41 026 | 43 303 | 45 320 | 63 709
+% Enseignement de base | | | 66% | 68% | 68% | 68% | 72% | 70% | 70% | 67%
+Investissements | | | 5 079 | 5 665 | 11 221 | 18 667 | 19 760 | 17 920 | 18 325 | 19 432
+% Enseignement de base | | | 44% | 64% | 47% | 37% | 37% | 38% | 44% | 41%
 
 * : hors Gestion et Gouvernance
 
@@ -1885,15 +1951,22 @@ Plan d'action
 
 [[START OF PAGE 59]]
 
+Tableau 16 : Dépenses par programme
+(millions d'UM 2010 sauf indication contraire)
+
 Réalisé | Estimé | Projections
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Préscolaire | 2009* 190 | 2010 195 | 2011 254 | 2012 454 | 2013 510 | 2014 548 | 2015 618 | 2020 1 065
-Alphabétisation et EO Fondamental | 14 799 | 17 157 | 17 527 | 18 427 | 19 830 | 20 312 | 21 315 | 28 717
+2009* | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2020
+Fonctionnement
+Préscolaire | 190 | 195 | 254 | 454 | 510 | 548 | 618 | 1 065
+Alphabétisation et EO | | | | | | | |
+Fondamental | 14 799 | 17 157 | 17 527 | 18 427 | 19 830 | 20 312 | 21 315 | 28 717
 Secondaire général | 7 412 | 7 991 | 8 022 | 8 587 | 9 071 | 9 563 | 10 208 | 13 893
 FTP | 1 138 | 1 163 | 1 183 | 1 279 | 1 376 | 1 480 | 1 607 | 2 338
 Supérieur | 6 572 | 7 009 | 7 380 | 7 548 | 6 392 | 7 511 | 7 600 | 13 146
-Gestion et Gouvernance Santé scolaire | 3 623 | 3 955 | 3 953 | 3 971 | 3 938 | 3 969 | 4 062 | 4 698
+Gestion et Gouvernance | 3 623 | 3 955 | 3 953 | 3 971 | 3 938 | 3 969 | 4 062 | 4 698
+Santé scolaire | | | | | | | |
 Total | 33 735 | 37 470 | 38 319 | 40 265 | 41 117 | 43 383 | 45 410 | 63 857
+Investissement
 Préscolaire | 0 | 38 | 56 | 315 | 204 | 306 | 329 | 361
 Alphabétisation et EO | 5 | 37 | 74 | 217 | 526 | 688 | 664 | 1 494
 Fondamental | 1 904 | 3 352 | 4 879 | 6 005 | 5 994 | 5 327 | 6 283 | 4 449
@@ -1903,6 +1976,7 @@ Supérieur | 1 611 | 1 097 | 5 483 | 8 144 | 8 160 | 6 394 | 5 353 | 1 040
 Gestion et Gouvernance | 684 | 286 | 336 | 967 | 1 069 | 1 220 | 1 027 | 1 196
 Santé scolaire | 18 | 0 | 0 | 76 | 65 | 65 | 65 | 65
 Total | 5 079 | 5 665 | 11 220 | 18 582 | 19 670 | 17 841 | 18 235 | 19 285
+Total
 Préscolaire | 190 | 233 | 309 | 769 | 714 | 854 | 946 | 1 426
 Alphabétisation et EO | 5 | 37 | 74 | 217 | 526 | 688 | 664 | 1 494
 Fondamental | 16 704 | 20 509 | 22 407 | 24 432 | 25 824 | 25 639 | 27 598 | 33 166
@@ -1911,36 +1985,38 @@ FTP | 1 223 | 1 723 | 1 246 | 2 399 | 3 210 | 3 951 | 4 214 | 10 216
 Supérieur | 8 183 | 8 106 | 12 863 | 15 692 | 14 552 | 13 905 | 12 953 | 14 185
 Gestion et Gouvernance | 4 307 | 4 241 | 4 288 | 4 938 | 5 007 | 5 189 | 5 089 | 5 894
 Santé scolaire | 18 | 0 | 0 | 76 | 65 | 65 | 65 | 65
-224
-38 814 | 43 136 | 49 539 | 58 | 60 787 | 61 | 63 645 | 83 142
-Total Préscolaire Alphabétisation et EO | 0,6% 0,0% | 0,5% 0,0% | 0,7% 0,0% | 847 % 1,1% 0,0% | 1,2% 0,0% | 1,3% 0,0% | 1,4% 0,0% | 1,7% 0,0%
+Total | 38 814 | 43 136 | 49 539 | 58 847 | 60 787 | 61 224 | 63 645 | 83 142
+%
+Fonctionnement
+Préscolaire | 0,6% | 0,5% | 0,7% | 1,1% | 1,2% | 1,3% | 1,4% | 1,7%
+Alphabétisation et EO | 0,0% | 0,0% | 0,0% | 0,0% | 0,0% | 0,0% | 0,0% | 0,0%
 Fondamental | 44% | 46% | 46% | 46% | 48% | 47% | 47% | 45%
 Secondaire général | 22% | 21% | 21% | 21% | 22% | 22% | 22% | 22%
 FTP | 3% | 3% | 3% | 3% | 3% | 3% | 4% | 4%
 Supérieur | 19% | 19% | 19% | 19% | 16% | 17% | 17% | 21%
 Gestion et Gouvernance | 11% | 11% | 10% | 10% | 10% | 9% | 9% | 7%
-Santé scolaire | 0,0% | 0,0% 100% | 0,0% | 0,0% 100% | 0,0% 100% | 0,0% 100% | 0,0% 100% | 0,0% 100%
-Total Préscolaire | 100% 0,0% | 0,7% | 100% 0,5% | 1,7% | 1,0% | 1,7% | 1,8% | 1,9%
-EO | 0,1% | 0,7% | 0,7% | 1,2% | 2,7% | 3,9%
-Alphabétisation et | 37% | 59% | 43% | 32% | 30% | 30% | 3,6% 34% | 7,7% 23%
-Fondamental Secondaire général | 15% | 5% | 3% | 9% | 9% | 8% | 10% | 15%
+Santé scolaire | 0,0% | 0,0% | 0,0% | 0,0% | 0,0% | 0,0% | 0,0% | 0,0%
+Total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+Investissement
+Préscolaire | 0,0% | 0,7% | 0,5% | 1,7% | 1,0% | 1,7% | 1,8% | 1,9%
+Alphabétisation et EO | 0,1% | 0,7% | 0,7% | 1,2% | 2,7% | 3,9% | 3,6% | 7,7%
+Fondamental | 37% | 59% | 43% | 32% | 30% | 30% | 34% | 23%
+Secondaire général | 15% | 5% | 3% | 9% | 9% | 8% | 10% | 15%
 FTP | 2% | 10% | 1% | 6% | 9% | 14% | 14% | 41%
 Supérieur | 32% | 19% | 49% | 44% | 41% | 36% | 29% | 5%
-Gestion et Gouvernance | 13% | 5% | 5% | 7% | 6% | 6%
-Santé scolaire | 0,4% | 5% 0,0% | 3% 0,0% | 0,4% | 0,3% | 0,4% | 0,4% | 0,3%
+Gestion et Gouvernance | 13% | 5% | 3% | 5% | 5% | 7% | 6% | 6%
+Santé scolaire | 0,4% | 0,0% | 0,0% | 0,4% | 0,3% | 0,4% | 0,4% | 0,3%
 Total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+Total
 Préscolaire | 0,5% | 0,5% | 0,6% | 1,3% | 1,2% | 1,4% | 1,5% | 1,7%
 Alphabétisation et EO | 0,0% | 0,1% | 0,1% | 0,4% | 0,9% | 1,1% | 1,0% | 1,8%
 Fondamental | 43% | 48% | 45% | 42% | 42% | 42% | 43% | 40%
 Secondaire général | 21% | 19% | 17% | 18% | 18% | 18% | 19% | 20%
-FTP | 4% | 4% | 5% | 6% | 7% | 12%
-3% 21% | 3% | 23% | 17%
-Supérieur Gestion et Gouvernance | 11% | 19% 10% | 26% 9% | 27% 8% | 24% 8% | 8% | 20% 8% | 7%
-Santé scolaire | 0,0% | 0,0% | 0,0% | 0,1% | 0,1% | 0,1%
-Total | 100% | 0,1% | 0,1% | 100%
-100% | 100% | 100% | 100% | 100% | 100%
-
-Tableau 16 : Dépenses par programme (millions d'UM 2010 sauf indication contraire)
+FTP | 3% | 4% | 3% | 4% | 5% | 6% | 7% | 12%
+Supérieur | 21% | 19% | 26% | 27% | 24% | 23% | 20% | 17%
+Gestion et Gouvernance | 11% | 10% | 9% | 8% | 8% | 8% | 8% | 7%
+Santé scolaire | 0,0% | 0,0% | 0,0% | 0,1% | 0,1% | 0,1% | 0,1% | 0,1%
+Total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 
 *: UM 2009
 
@@ -1954,8 +2030,10 @@ Plan d'action
 
 [[START OF PAGE 60]]
 
+Tableau 17 : Dépenses par nature économique
+(millions d'UM 2010 sauf indication contraire)
+
 Réalisé | Estimé | Projections
---- | --- | --- | --- | --- | --- | --- | --- | ---
 2009* | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2020
 Personnel | 28 214 | 31 480 | 31 786 | 32 861 | 33 851 | 34 745 | 36 600 | 52 135
 Bourses | 3 448 | 3 374 | 3 314 | 3 182 | 1 710 | 2 700 | 2 489 | 2 815
@@ -1973,13 +2051,12 @@ Total Fonctionnement | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 Investissement | 13% | 13% | 23% | 32% | 32% | 29% | 29% | 23%
 Total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 
-Tableau 17 : Dépenses par nature économique (millions d'UM 2010 sauf indication contraire)
-
 * : UM 2009
 
-Réalisé | Estimé 2010 | Projections
---- | --- | --- | --- | --- | --- | --- | --- | ---
-2009 | 2011 | 2012 | 2013 | 2014 | 2015 | 2020
+Tableau 18 : Cadre indicatif Fast-Track
+
+Réalisé | Estimé | Projections
+2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2020
 Part de l'Education dans :
 Dépenses publiques financées sur ressources locales | 17,1% | 16,8% | 18,4% | 19,9% | 19,9% | 19,9% | 19,9% | 19,9%
 Recettes publiques hors dons | 18,1% | 16,3% | 17,9% | 19,7% | 19,3% | 20,2% | 19,3% | 19,3%
@@ -1995,8 +2072,6 @@ Secondaire et Supérieur | 52% | 49% | 49% | 48% | 43% | 46% | 44% | 41%
 Taux moyen de redoublement
 Fondamental | 4% | 4% | 4% | 4% | 4% | 3% | 3% | 2%
 Secondaire | 11% | 19% | 10% | 10% | 10% | 9% | 9% | 5%
-
-Tableau 18 : Cadre indicatif Fast-Track
 
 DPEF/PNDSE-2
 
@@ -2024,13 +2099,11 @@ Croissance du PIB  →  Recettes de l'Etat  →  Dépenses de l'Etat  → Ressou
 
 Plutôt que d'effectuer nous-mêmes le paramétrage de chaque élément de la séquence, nous avons  retenu  les  dernières  projections  effectuées  pour  les  dépenses  publiques  par  les  instances compétentes 7 et  nous avons fixé le seul ratio des dépenses d'éducation par rapport aux dépenses totales (hors dette) pour déterminer les ressources publiques nationales disponibles pour l'éducation.
 
-Le Tableau 19 présente ce paramétrage. La partie haute contient les projections effectuées par les macro-économistes 8 . La partie centrale contient le ratio de dépenses au bénéfice de l'éducation, ratio  que  nous  avons  fixé  nous-mêmes  et  qui  détermine  donc  les  ressources  disponibles  pour l'éducation, ressources qui occupent la partie basse du tableau. L'augmentation assez nette du ratio en  2011  résulte  de  la  prise  en  compte  budgétaire  de  la  restructuration  du  secteur  (création  du ministère d'état) ; le chiffre indiqué est déduit de la loi de finances initiale de 2011. Par prudence, nous  n'avons  cependant  pas  conservé  ce  chiffre  relativement  élevé,  mais  adopté  un  taux  qui correspond à une part de 25% des dépenses courantes et de 4% des dépenses en capital 9 .  Sur  le triennat 2012-14, les ressources publiques nationales mobilisables pour l'éducation s'élèvent ainsi à 145 591 millions d'UM ; sur la période 2012-2020, elles s'élèvent à 510 429 millions d'UM. Pour  éprouver  la  soutenabilité  du  scénario  retenu,  nous  avons  évalué  l'impact  d'une diminution d'un point de pourcentage du taux de croissance annuel du PIB. Pour obtenir les mêmes ressources pour l'éducation, il faudrait fixer à 21% le ratio des dépenses d'éducation par rapport aux dépenses totales. Cette augmentation est acceptable, mais en anticipant ici le calcul des dépenses d'éducation impliquées par le scénario retenu, on peut affirmer qu'elle ne serait pas nécessaire, car une grande partie de ces dépenses sont des dépenses de personnel qui sont plus ou moins indexées sur le PIB par habitant et qui sont donc d'autant moins élevées que le taux de croissance du PIB est faible.  En  l'occurrence,  le  total  des  dépenses  courantes  sur  la  période  2012-2020  serait  réduit  de 1,8%. Les  ressources  potentielles  ainsi  déterminées  doivent  bien  sûr  être  appréciées  comme  des ordres de grandeur. Les prévisions macroéconomiques sont très incertaines. On peut observer par exemple des différences importantes entre les deux derniers rapports du FMI distants de seulement 8  mois :  pour  l'année  2010,  le  rapport  10/168  d'avril  2010  indiquait  par  exemple  un  taux  de croissance  du  PIB  de  4,6%  et  un  déflateur  du  même  PIB  de  8%  tandis  que  ces  deux  taux  étaient respectivement  de  5%  et  de  19,3%  dans  le  rapport  10/346  de  décembre  2010 ;  de  même,  les prévisions  de  recettes  non  pétrolières  par  rapport  au  PIB  hors  pétrole  étaient-elles,  pour  2012  et 2013, de 23,3% et 23,2% dans le premier rapport et de 21,4% dans le second. Comme nous l'avons souligné plus haut (page 9), l'économie mauritanienne est très dépendante des produits miniers et la révision  spectaculaire  du  déflateur  que  nous  venons  de  mentionner  trouve  son  origine  dans  une aussi  spectaculaire  augmentation  du  prix  du  fer :  estimé  à  80 $  la  tonne  en  avril  2010,  à  148 $  la tonne en décembre 2010.
+Le Tableau 19 présente ce paramétrage. La partie haute contient les projections effectuées par les macro-économistes8. La partie centrale contient le ratio de dépenses au bénéfice de l'éducation, ratio que nous avons fixé nous-mêmes et qui détermine donc les ressources disponibles pour l'éducation, ressources qui occupent la partie basse du tableau. L'augmentation assez nette du ratio en 2011 résulte de la prise en compte budgétaire de la restructuration du secteur (création du ministère d'état) ; le chiffre indiqué est déduit de la loi de finances initiale de 2011. Par prudence, nous n'avons cependant pas conservé ce chiffre relativement élevé, mais adopté un taux qui
 
 > 6 Les scénarios simulés et les motifs du choix effectué peuvent être consultés dans le document du PNDSE II annexé au présent document.
 
-7
-
-> Ministère des Finances, Ministère des Affaires Economiques et du Développement, FMI.
+> 7 Ministère des Finances, Ministère des Affaires Economiques et du Développement, FMI.
 
 > 8 Au-delà de 2015, nous avons conservé les valeurs de 2015 pour les ratios de recettes et de dépenses.
 
@@ -2044,7 +2117,13 @@ Plan d'action
 
 [[START OF PAGE 62]]
 
-Cette incertitude conforte la décision d'ajuster le PNDSE II chaque année, dans ses objectifs et ses stratégies, de manière à le maintenir en conformité avec les contraintes financières ; les revues périodiques  du PNDSE I  n'ayant  consisté  qu'à  constater  les  réalisations  et,  parfois,  des  écarts  très importants avec la programmation initiale sans la remettre en cause.
+correspond à une part de 25% des dépenses courantes et de 4% des dépenses en capital9. Sur le triennat 2012-14, les ressources publiques nationales mobilisables pour l'éducation s'élèvent ainsi à 145 591 millions d'UM ; sur la période 2012-2020, elles s'élèvent à 510 429 millions d'UM.
+
+Pour éprouver la soutenabilité du scénario retenu, nous avons évalué l'impact d'une diminution d'un point de pourcentage du taux de croissance annuel du PIB. Pour obtenir les mêmes ressources pour l'éducation, il faudrait fixer à 21% le ratio des dépenses d'éducation par rapport aux dépenses totales. Cette augmentation est acceptable, mais en anticipant ici le calcul des dépenses d'éducation impliquées par le scénario retenu, on peut affirmer qu'elle ne serait pas nécessaire, car une grande partie de ces dépenses sont des dépenses de personnel qui sont plus ou moins indexées sur le PIB par habitant et qui sont donc d'autant moins élevées que le taux de croissance du PIB est faible. En l'occurrence, le total des dépenses courantes sur la période 2012-2020 serait réduit de 1,8%.
+
+Les ressources potentielles ainsi déterminées doivent bien sûr être appréciées comme des ordres de grandeur. Les prévisions macroéconomiques sont très incertaines. On peut observer par exemple des différences importantes entre les deux derniers rapports du FMI distants de seulement 8 mois : pour l'année 2010, le rapport 10/168 d'avril 2010 indiquait par exemple un taux de croissance du PIB de 4,6% et un déflateur du même PIB de 8% tandis que ces deux taux étaient respectivement de 5% et de 19,3% dans le rapport 10/346 de décembre 2010 ; de même, les prévisions de recettes non pétrolières par rapport au PIB hors pétrole étaient-elles, pour 2012 et 2013, de 23,3% et 23,2% dans le premier rapport et de 21,4% dans le second. Comme nous l'avons souligné plus haut (page 9), l'économie mauritanienne est très dépendante des produits miniers et la révision spectaculaire du déflateur que nous venons de mentionner trouve son origine dans une aussi spectaculaire augmentation du prix du fer : estimé à 80 $ la tonne en avril 2010, à 148 $ la tonne en décembre 2010.
+
+Cette incertitude conforte la décision d'ajuster le PNDSE II chaque année, dans ses objectifs et ses stratégies, de manière à le maintenir en conformité avec les contraintes financières ; les revues périodiques du PNDSE I n'ayant consisté qu'à constater les réalisations et, parfois, des écarts très importants avec la programmation initiale sans la remettre en cause.
 
 > 9 Il s'agit toujours des dépenses de l'Etat hors service et amortissement de la dette.
 
@@ -2058,11 +2137,12 @@ Plan d'action
 
 [[START OF PAGE 63]]
 
+Tableau 19 : Estimation des ressources publiques nationales mobilisables pour le secteur
+
 UM 2009 | UM 2010
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
-PIB (10 9 UM) | 794 | 995 | 1 047 | 1 101 | 1 170 | 1 261 | 1 319 | 1 379 | 1 443 | 1 509 | 1 579 | 1 651
-Taux de croissance PIB réel | 5% | 5,2% | 5,2% | 6,2% | 7,8% | 4,7% | 4,7% | 4,% | 4,7% | 4,7% | 4,7%
+PIB (10⁹ UM) | 794 | 995 | 1 047 | 1 101 | 1 170 | 1 261 | 1 319 | 1 379 | 1 443 | 1 509 | 1 579 | 1 651
+Taux de croissance PIB réel | | 5% | 5,2% | 5,2% | 6,2% | 7,8% | 4,7% | 4,7% | 4,% | 4,7% | 4,7% | 4,7%
 Recettes publiques hors dons en % du PIB | 25% | 24% | 22% | 21% | 21% | 20% | 21% | 21% | 21% | 21% | 21% | 21%
 Dépenses publiques courantes hors service de la dette en % du PIB | 21% | 17% | 16% | 16% | 16% | 16% | 16% | 16% | 15% | 15% | 15% | 15%
 Dépenses publiques en capital sur financement interne en % du PIB* | 5% | 5% | 5% | 5% | 5% | 5% | 5% | 5% | 5% | 5% | 5% | 5%
@@ -2070,8 +2150,6 @@ Ratio dépenses Education / dépenses totales | 17,1% | 17,7% | 21,1% | 19,9% | 
 Ressources nationales totales pour l'éducation | 35 473 | 38 178 | 46 220 | 45 753 | 48 022 | 51 816 | 54 044 | 56 584 | 59 244 | 62 028 | 64 943 | 67 996
 145 591
 510 429
-
-Tableau 19 : Estimation des ressources publiques nationales mobilisables pour le secteur
 
 * : L'amortissement de la dette n'est pas compris dans cette statistique
 
@@ -2101,25 +2179,25 @@ Plan d'action
 
 pour l'ensemble de la période 2012-14. Nous verrons que le gap de financement sur le triennat n'est que de 30 millions de $. Il semble donc pertinent de solliciter l'aide extérieure pour le financer.
 
-2012 | 2013 | 2014 | 2015
---- | --- | --- | --- | --- | ---
-Education de base | AFD | 2,81 | 4,69 | 1,88
-UNICEF | 1,8 | 1,8 | 1,8
-Coopération espagnole | 3,01 | 1,81
-UNESCO | 0,4
-BID | 2,08 | 3,12 | 2,6 | 1,56
-PAM | 3,2 | 3,3 | 3,5
-Total | 13,3 | 14,72 | 9,78 | 1,56
-En millions d'UM | 3 668 | 4 060 | 2 697 | 430
-Post Education de base | BM | 9,41 | 6,54 | 3,01 | 2,27
-BID | 9 | 3,6
-Fonds Koweitien de développement | 7,6 | 11,4 | 9,5 | 5,7
-Total | 26,01 | 21,54 | 12,51 | 7,97
-En millions d'UM | 7 174 | 5 941 | 3 450 | 2 198
-Total | 39,31 | 36,26 | 22,29 | 9,53
-En millions d'UM | 10 842 | 10 001 | 6 148 | 2 628
+Tableau 20 : Financements acquis des partenaires extérieurs
+(millions de $, sauf indication contraire)
 
-Tableau 20 : Financements acquis des partenaires extérieurs (millions de $, sauf indication contraire)
+ | | 2012 | 2013 | 2014 | 2015
+Education de base | AFD | 2,81 | 4,69 | 1,88 |
+ | UNICEF | 1,8 | 1,8 | 1,8 |
+ | Coopération espagnole | 3,01 | 1,81 | |
+ | UNESCO | 0,4 | | |
+ | BID | 2,08 | 3,12 | 2,6 | 1,56
+ | PAM | 3,2 | 3,3 | 3,5 |
+ | Total | 13,3 | 14,72 | 9,78 | 1,56
+ | En millions d'UM | 3 668 | 4 060 | 2 697 | 430
+Post Education de base | BM | 9,41 | 6,54 | 3,01 | 2,27
+ | BID | 9 | 3,6 | |
+ | Fonds Koweitien de développement | 7,6 | 11,4 | 9,5 | 5,7
+ | Total | 26,01 | 21,54 | 12,51 | 7,97
+ | En millions d'UM | 7 174 | 5 941 | 3 450 | 2 198
+Total | | 39,31 | 36,26 | 22,29 | 9,53
+En millions d'UM | | 10 842 | 10 001 | 6 148 | 2 628
 
 ### B.2.2 Le gap de financement
 
@@ -2141,8 +2219,10 @@ Plan d'action
 
 [[START OF PAGE 65]]
 
+Tableau 21 : Calcul du gap de financement
+sur la période 2012-2020 (millions d'UM, sauf indication contraire)
+
 Courantes | En capital | Totales
---- | --- | --- | ---
 Préscolaire | 6 509 | 3 033 | 9 542
 Alphabétisation et EO | 0 | 8 027 | 8 027
 Fondamental | 207 056 | 56 091 | 263 147
@@ -2156,16 +2236,16 @@ Total dépenses | 446 149 | 161 786 | 607 935
 Education de base | 310 050 | 84 314 | 394 365
 Post Education de base | 136 098 | 77 472 | 213 570
 Ressources nationales | 446 149 | 64 281 | 510 429
-Financement extérieur acquis pour l'Education de base | 10 855 | 10 855
-Financement extérieur acquis pour le post Education de base | 18 763 | 18 763
+Financement extérieur acquis pour l'Education de base | | 10 855 | 10 855
+Financement extérieur acquis pour le post Education de base | | 18 763 | 18 763
 Total ressources | 446 149 | 93 899 | 540 047
 Gap | 0 | 67 888 | 67 888
 en millions de $ | 0 | 246 | 246
 
-Tableau 21 : Calcul du gap de financement sur la période 2012-2020 (millions d'UM, sauf indication contraire)
+Tableau 22 : Calcul du gap de financement
+sur la période 2012-2014 (millions d'UM, sauf indication contraire)
 
 Courantes | En capital | Totales
---- | --- | --- | ---
 Préscolaire | 1 513 | 825 | 2 338
 Alphabétisation et EO | 0 | 1 431 | 1 431
 Fondamental | 58 569 | 17 326 | 75 895
@@ -2181,9 +2261,9 @@ Post Education de base | 37 242 | 31 302 | 68 544
 Ressources nationales | 124 765 | 20 826 | 145 591
 Education de base | 87 523 | 6 089 | 93 612
 Post Education de base | 37 242 | 14 737 | 51 979
-Financement extérieur acquis | 26 990 | 26 990
-Education de base | 10 425 | 10 425
-Post Education de base | 16 565 | 16 565
+Financement extérieur acquis | | 26 990 | 26 990
+Education de base | | 10 425 | 10 425
+Post Education de base | | 16 565 | 16 565
 Total ressources | 124 765 | 47 816 | 172 581
 Education de base | 87 523 | 16 514 | 104 037
 Post Education de base | 37 242 | 31 302 | 68 544
@@ -2193,8 +2273,6 @@ Gap relatif pour le post Education de base | 0 | 0 | 0
 Gap en millions de $ | 0 | 30 | 30
 Gap relatif à l'Education de base | 0 | 30 | 30
 Gap relatif pour le post Education de base | 0 | 0 | 0
-
-Tableau 22 : Calcul du gap de financement sur la période 2012-2014 (millions d'UM, sauf indication contraire)
 
 DPEF/PNDSE-2
 
@@ -2318,7 +2396,7 @@ En ce qui concerne le troisième axe relatif aux programmes scolaires, ceux-ci s
 
 - Etablir des liens fonctionnels avec l'enseignement originel pour déterminer les possibilités de passerelles entre ce type d'enseignement et l'enseignement moderne.
 
-Dans le cadre du quatrième axe, la qualité des manuels et guides scolaires, leur pérennité et leur  disponibilité  seront  renforcées  à  travers  la  révision  de  leurs  contenus,  l'adaptation  de  leurs formes  et  la  mise  en  place  d'une  politique  de  distribution  efficace  et  équitable.  Les  enseignants seront en outre formés à leur utilisation comme  outil indispensable d'amélioration des apprentissages. Le développement des bibliothèques scolaires et des coins de lecture sera également soutenu  pour  doter  toutes  les  écoles  d'un  fonds  documentaire  adapté  et  encourager  l'autoapprentissage des élèves. Les actions envisagées concerneront :
+Dans le cadre du quatrième axe, la qualité des manuels et guides scolaires, leur pérennité et leur disponibilité seront renforcées à travers la révision de leurs contenus, l'adaptation de leurs formes et la mise en place d'une politique de distribution efficace et équitable. Les enseignants seront en outre formés à leur utilisation comme outil indispensable d'amélioration des apprentissages. Le développement des bibliothèques scolaires et des coins de lecture sera également soutenu pour doter toutes les écoles d'un fonds documentaire adapté et encourager l'auto-apprentissage des élèves. Les actions envisagées concerneront :
 
 - La révision des manuels (contenus, formes) et l'amélioration de leur distribution et de leur pérennité ;
 
@@ -2434,7 +2512,7 @@ En ce qui concerne le quatrième axe relatif à la promotion des sciences, les a
 
 - L'acquisition et la distribution dans tous les établissements d'outils pédagogiques et de supports didactiques scientifiques (kits géométrie, calculatrices, lithothèques…) ;
 
-- L'organisation de compétitions scientifiques dans les établissements (inter-lycées, interwilayas, nationales) ;
+- L'organisation de compétitions scientifiques dans les établissements (inter-lycées, inter-wilayas, nationales) ;
 
 - Le  renforcement  des  capacités  de  l'atelier  des  sciences  dans  la  fabrication  et  la maintenance des équipements de laboratoires et dans la formation des professeurs et des laborantins à l'utilisation et à la maintenance de ces équipements ;
 
@@ -3020,7 +3098,7 @@ Les programmes d'alphabétisation viseront de façon concrète à faire acquéri
 
 - D'augmenter l'offre d'alphabétisation en impliquant les acteurs de la société civile et du secteur privé dans le cadre de la politique du faire-faire ;
 
-- De faire bénéficier environ 50%  des néo-alphabètes de programmes  de postalphabétisation, notamment des formations qualifiantes d'insertion ;
+- De faire bénéficier environ 50% des néo-alphabètes de programmes de post-alphabétisation, notamment des formations qualifiantes d'insertion ;
 
 DPEF/PNDSE-2
 
@@ -3148,7 +3226,7 @@ En ce qui concerne le deuxième axe relatif à l'amélioration de la pertinence 
 
 S'agissant du troisième axe relatif au renforcement des capacités managériales, les mesures et actions envisagées dans ce cadre portent sur :
 
-- Le parachèvement de la mise en place du système d'information de gestion (SIGE) par son  adaptation  au  nouveau  contexte  institutionnel,  son  extension  à  tous  les  soussecteurs, son développement et son opérationnalisation ;
+- Le parachèvement de la mise en place du système d'information de gestion (SIGE) par son adaptation au nouveau contexte institutionnel, son extension à tous les sous-secteurs, son développement et son opérationnalisation ;
 
 - La mise en place d'un système de pilotage et de suivi de la FTP ;
 
@@ -3232,7 +3310,7 @@ Plan d'action
 
 [[START OF PAGE 88]]
 
-- La redynamisation et le renforcement du rôle et des pratiques des personnels chargés de l'animation et du contrôle pédagogiques et administratif dans le dispositif de suiviévaluation  de  la  gestion  axée  sur  les  résultats  et  l'orientation  prioritaire  de  leurs actions  en  direction  des  établissements  les  moins  performants  par  rapport  aux résultats escomptés ;
+- La redynamisation et le renforcement du rôle et des pratiques des personnels chargés de l'animation et du contrôle pédagogiques et administratif dans le dispositif de suivi-évaluation de la gestion axée sur les résultats et l'orientation prioritaire de leurs actions en direction des établissements les moins performants par rapport aux résultats escomptés ;
 
 - L'implication étroite des partenaires de l'école dans le processus de mise en place d'une gestion axée sur les résultats à travers le partage de l'information sur les résultats des évaluations et leur instrumentation sur les outils et les procédures de la gestion axée sur les résultats.
 
@@ -3326,7 +3404,7 @@ Plan d'action
 
 L'exécution du Programme de Développement du Secteur Educatif (PNDSE II) est confiée aux ministères  en  charge  du  Secteur  qui  définissent,  chacun  en  ce  qui  le  concerne,  les  grandes orientations  de  la  planification,  du  suivi,  de  l'évaluation  et  de  la  coordination  d'ensemble  du programme aux niveaux central et régional. Il s'agit, en particulier :
 
-- Du cadrage budgétaire du Programme, en fonction des objectifs, des engagements vis-àvis  des  bailleurs  de  fonds,  des  instructions  du  Gouvernement  et  des  niveaux  de participation des bailleurs de fonds du Programme ;
+- Du cadrage budgétaire du Programme, en fonction des objectifs, des engagements vis-à-vis des bailleurs de fonds, des instructions du Gouvernement et des niveaux de participation des bailleurs de fonds du Programme ;
 
 - De l'élaboration des plans d'action annuels et des budgets des différentes composantes du Programme ;
 
@@ -3336,19 +3414,19 @@ L'exécution du Programme de Développement du Secteur Educatif (PNDSE II) est c
 
 Le  Programme  comprend  sept  (7)  sous-programmes  qui  correspondent  aux  sous-secteurs et/ou aux principales thématiques.
 
-- Le Préscolaire
+1. Le Préscolaire
 
-- L'Alphabétisation & enseignement originel
+2. L'Alphabétisation & enseignement originel
 
-- L'Enseignement fondamental
+3. L'Enseignement fondamental
 
-- L'Enseignement secondaire général
+4. L'Enseignement secondaire général
 
-- La Formation technique & professionnelle
+5. La Formation technique & professionnelle
 
-- L'Enseignement supérieur
+6. L'Enseignement supérieur
 
-- La Gestion & gouvernance
+7. La Gestion & gouvernance
 
 ##### B.3.3.1.2 Gestion des ressources
 
@@ -3482,7 +3560,7 @@ Le Comité de Pilotage du PNDSE est présidé par le Conseiller Chargé du Suivi
 
 - Le Directeur chargé de la Petite Enfance (MASEF)
 
-Le  Secrétariat  du  Comité  de  Pilotage  est  assuré  par  le  Directeur  des  Projets  Education  Formation, Coordinateur du PNDSE.
+Le Secrétariat du Comité de Pilotage est assuré par le Directeur des Projets Education – Formation, Coordinateur du PNDSE.
 
 Il  est  créé  au  sein  du  Comité  de  Pilotage  une  Commission  de  Gestion  (CG),  composée  du Directeur des Stratégies, de la Programmation et de la Coopération (MEENESRS) et du Directeur des Projets Education - Formation. Le CG est chargé de :
 
@@ -3653,16 +3731,103 @@ Plan d'action
 ## B.4 Cadre logique du PNDSE
 
 ### A. | Amélioration de la qualité et de la pertinence de l'éducation
---- | --- | ---
+
 #### A.1 | Amélioration de la qualité et de l'efficacité interne de l'enseignement fondamental
-Stratégie | Indicateurs | Suivi / Observations
+
+Stratégie
+
+- Formation initiale et continue des enseignants
+- Mise en œuvre des programmes et respect du temps scolaire
+- Qualité et distribution outils pédagogiques
+- Animations pédagogique, culturelle et sportive
+- Conditions d'apprentissage, environnement scolaire
+- Motivation des enseignants
+
+Indicateurs
+
+Résultat
+
+- Taux de réussite au CEP : 20% (2010) ; 45% (2015) ; 70% (2020)
+- Taux moyen de redoublement : 4% (2010) ; 3% (2015) ; 2,5% (2020)
+- Taux de rétention : 72% (2010) ; 78% (2015) ; 100% (2020)
+
+Moyen
+
+- Ratio Elèves/maître : 42 (2010) ; 40 (2015) ; 38 (2020)
+- Recrutement de 800 instituteurs sur 2012-14, de 1 277 sur 2012-2015 et de 5 642 sur 2012-20
+- Primes d'éloignement
+- Primes multigrades
+
+Suivi / Observations
+
+Suivi
+
+- Annuaires DSPC
+- Evaluations IPN
+- Rapports Direction des Examens
+
+Observations
+
+- Le taux de rétention est un indicateur qui concerne également la sous-composante B.2
+- La motivation des enseignants est financée sur le budget de fonctionnement de l'Etat
+
 ##### A.1.1 | Renforcer la qualité de la Formation initiale des enseignants et l'adapter aux exigences de la réforme
-Stratégie • Meilleur • Formation | Indicateurs Résultat • % d'instituteurs formés bilingues | Suivi / Observations Suivi Certification dans les ENI
-A.1.1.01 A.1.1.02 A.1.1.03 A.1.1.04 | Activités Redéfinition du profil de l'enseignant du fondamental Révision curricula ENI sur la base du nouveau profil du maître Réadaptation profil et amélioration qualité formateurs ENI Développement quantitatif et qualitatif écoles d'application Mise à niveau des 2 ENI existantes
+
+Stratégie
+
+- Meilleur recrutement des élèves-maîtres
+- Formation des formateurs
+- Amélioration programmes ENI
+- Renforcement de l'encadrement dans les écoles d'application
+- Mise en place dispositif certification des enseignants en fin de formation
+
+Indicateurs
+
+Résultat
+
+- % d'instituteurs formés bilingues
+
+Suivi / Observations
+
+Suivi
+
+- Certification dans les ENI
+
+Activités
+
+A.1.1.01 Redéfinition du profil de l'enseignant du fondamental
+A.1.1.02 Révision curricula ENI sur la base du nouveau profil du maître
+A.1.1.03 Réadaptation profil et amélioration qualité formateurs ENI
+A.1.1.04 Développement quantitatif et qualitatif écoles d'application
+A.1.1.05 Mise à niveau des 2 ENI existantes
+A.1.1.06 Création d'une nouvelle ENI
+
 ##### A.1.2 | Développer la formation continue et assurer un encadrement de proximité efficace
-Stratégie Indicateurs Suivi / Observations continue des inspecteurs et des du recyclage linguistique des sur la base d'une nouvelle favorisant la formation-action Systématisation de l'évaluation dans les classes fondamentales de proximité Résultat • 5% des enseignants chaque année recevront une formation dans divers domaines (pédagogie, évaluation, APC…) • 25% du stock actuel d'enseignants bénéficieront d'une reconversion linguistique • Nombre de dispositifs d'encadrement de proximité mis en place Activités Mise en place d'un dispositif d'encadrement de proximité au niveau communal Elaboration d'une stratégie et d'un plan d'action de développement du bilinguisme Reconversion linguistique
-• Formation enseignants • Poursuite enseignants approche • pédagogique • Encadrement
-A.1.2.01 A.1.2.02 A.1.2.03
+
+Stratégie
+
+- Formation continue des inspecteurs et des enseignants
+- Poursuite du recyclage linguistique des enseignants sur la base d'une nouvelle approche favorisant la formation-action
+- Systématisation de l'évaluation pédagogique dans les classes fondamentales
+- Encadrement de proximité
+
+Indicateurs
+
+Résultat
+
+- 5% des enseignants chaque année recevront une formation dans divers domaines (pédagogie, évaluation, APC…)
+- 25% du stock actuel d'enseignants bénéficieront d'une reconversion linguistique
+- Nombre de dispositifs d'encadrement de proximité mis en place
+
+Suivi / Observations
+
+Activités
+
+A.1.2.01 Mise en place d'un dispositif d'encadrement de proximité au niveau communal
+A.1.2.02 Elaboration d'une stratégie et d'un plan d'action de développement du bilinguisme
+A.1.2.03 Reconversion linguistique
+A.1.2.04 Mise à niveau des enseignants dans les domaines de l'APC
+A.1.2.05 Mise à niveau des enseignants (pratiques pédagogiques, évaluation des apprentissages…)
 
 DPEF/PNDSE-2
 
@@ -3675,16 +3840,99 @@ Plan d'action
 [[START OF PAGE 98]]
 
 A. | Amélioration de la qualité et de la pertinence de l'éducation
---- | --- | ---
-##### A.1.3 Améliorer pertinence et efficacité mise en œuvre Programmes d'enseignement et mettre en place stratégie efficace garantissant respect
-Stratégie • Réécriture des programmes scolaires suivant l'APC-B • Révision des modes d'évaluation des apprentissages | Indicateurs Résultat • 900 heures de cours exécutées par an • Taux d'acquisition des programmes : 60% (2015) ; 80% (2020) | Suivi / Observations Suivi IPN Inspection
-curricula Activités
-culturelles et sportives
-Stratégie | Indicateurs | Suivi / Observations
-• Révision de leur forme • Politique de distribution • Distribution de kits de fournitures scolaires aux élèves de milieux défavorisés • Bibliothèques scolaires • A partir de 2012/13, 25% des élèves seront dotés de kits de fournitures scolaires • Nombre de titres révisés • Manuels/élève : 3,7 (2010) ; 6 (2016) • 350 bibliothèques créées chaque année sur 5 ans • IPN Observation • Les kits de fournitures scolaires pour les élèves de milieux défavorisés seront financés sur le budget de l'Etat. Cet indicateur figure également dans le programme d'extension de l'offre (stimulation de la demande) Activités A.1.4.01 Révision des manuels (contenus, formes) et amélioration de leur distribution et de leur pérennité
-##### A.1.5 | Améliorer l'environnement scolaire et les conditions d'apprentissage dans les écoles
-Stratégie • Création | Indicateurs Résultat | Suivi / Observations
+
+##### A.1.3 Améliorer pertinence et efficacité mise en œuvre Programmes d'enseignement et mettre en place stratégie efficace garantissant respect du temps scolaire
+
+Stratégie
+
+- Réécriture des programmes scolaires suivant l'APC-B
+- Révision des modes d'évaluation des apprentissages (formative, sommative et de certification)
+- Mesures permettant le strict respect des normes du temps d'apprentissage
+- Réduction de l'absentéisme des enseignants et des élèves
+- Enrichissement et rénovation des curricula
+
+Indicateurs
+
+Résultat
+
+- 900 heures de cours exécutées par an
+- Taux d'acquisition des programmes : 60% (2015) ; 80% (2020)
+
+Suivi / Observations
+
+Suivi
+
+- IPN
+- Inspection
+
 Activités
+
+A.1.3.01 Révision des contenus des programmes d'enseignement
+A.1.3.02 Mise en place d'une stratégie d'amélioration des taux d'exécution et de couverture des programmes
+A.1.3.03 Révision des modes d'évaluation (formative, sommative et de certification) des apprentissages
+A.1.3.04 Développement d'un système de suivi pédagogique au niveau de l'école
+A.1.3.05 Etablir des liens fonctionnels avec l'enseignement originel
+
+##### A.1.4 Améliorer la qualité et la distribution des supports et outils pédagogiques et mettre en place un dispositif d'animations pédagogiques, culturelles et sportives
+
+Stratégie
+
+- Révision du contenu des manuels
+- Révision de leur forme
+- Politique de distribution
+- Distribution de kits de fournitures scolaires aux élèves de milieux défavorisés
+- Bibliothèques scolaires
+
+Indicateurs
+
+Résultat
+
+- A partir de 2012/13, 25% des élèves seront dotés de kits de fournitures scolaires
+- Nombre de titres révisés
+- Manuels/élève : 3,7 (2010) ; 6 (2016)
+- 350 bibliothèques créées chaque année sur 5 ans
+
+Suivi / Observations
+
+Suivi
+
+- IPN
+
+Observation
+
+- Les kits de fournitures scolaires pour les élèves de milieux défavorisés seront financés sur le budget de l'Etat. Cet indicateur figure également dans le programme d'extension de l'offre (stimulation de la demande)
+
+Activités
+
+A.1.4.01 Révision des manuels (contenus, formes) et amélioration de leur distribution et de leur pérennité
+A.1.4.02 Développement des bibliothèques scolaires et des coins de lecture
+
+##### A.1.5 | Améliorer l'environnement scolaire et les conditions d'apprentissage dans les écoles
+
+Stratégie
+
+- Création d'un environnement propice aux apprentissages
+
+Indicateurs
+
+Résultat
+
+- 78% des élèves assis en 2015, 100% en 2020
+- Toutes les salles de classe correctement meublées et équipées à l'horizon 2020
+- 60% des écoles dotées d'un bureau de direction en 2015, 100% en 2020
+- 20% des écoles chaque année reçoivent une subvention de 17 000 UM pour aménager un espace vert
+- 10 écoles par an dotées en point d'eau et en énergie solaire
+- 20% des écoles reçoivent des kits sportifs
+
+Suivi / Observations
+
+Activités
+
+A.1.5.01 Equipement des salles de classe en bureaux de maîtres, en armoires et en moyens d'affichage
+A.1.5.02 Promotion des activités socioculturelles et sportives
+A.1.5.03 Construction / réhabilitation et équipement de locaux de bureaux, de latrines, de clôtures
+A.1.5.04 Aménagement d'espaces verts
+A.1.5.05 Dotation des écoles rurales en points d'eau et en énergie solaire
 
 DPEF/PNDSE-2
 
@@ -3697,21 +3945,119 @@ Plan d'action
 [[START OF PAGE 99]]
 
 A. | Amélioration de la qualité et de la pertinence de l'éducation
---- | --- | --- | ---
+
 #### A.2 | Amélioration de la Qualité et de l'Efficacité interne de l'Enseignement Secondaire Général
-Stratégie | Suivi / Observations
-• Formation initiale et continue des enseignants • Restructurer les filières • Rénovation des programmes | • | Indicateurs Résultat • Taux de réussite au BAC : 23% (2010) ; 32% (2015) ; 55% (2020) 75% des élèves du 2 e cycle dans les filières | Observation • Pour atteindre les objectifs de taille de section, on ira progressivement vers le respect des tailles maximales de section (50
+
+Stratégie
+
+- Formation initiale et continue des enseignants
+- Restructurer les filières
+- Rénovation des programmes
+- Outils didactiques
+- Promouvoir l'enseignement des sciences et les TIC
+- Améliorer l'environnement socio-pédagogique, culturel et sportif
+- Promouvoir l'excellence et la démarche qualité dans les établissements
+
+Indicateurs
+
+Résultat
+
+- Taux de réussite au BAC : 23% (2010) ; 32% (2015) ; 55% (2020)
+- 75% des élèves du 2e cycle dans les filières scientifiques
+
+Moyen
+
+- Taille moyenne des sections 1e cycle : 49 (2010) ; 46 (2020)
+- Taille moyenne des sections 2e cycle : 45 (2010) ; 35 (2020)
+- Ratio Elèves/enseignant 1e cycle : 27 (2010) ; 31 (2015) ; 32 (2020)
+- Ratio Elèves/enseignant 2e cycle : 20 (2010) ; 19 (2015) ; 18 (2020)
+
+Suivi / Observations
+
+Observation
+
+- Pour atteindre les objectifs de taille de section, on ira progressivement vers le respect des tailles maximales de section (50 dans le 1e cycle et 45 dans le 2e cycle)
+
 ##### A.2.1 Rénover la Formation Initiale des professeurs et des personnels d'encadrement
-Stratégie • Profonde restructuration initiale à l'ENS | de la formation | Indicateurs Résultat • % de sortants de l'ENS dans les disciplines scientifiques • Ouverture à l'ENS d'une filière de formation des inspecteurs • Flux de sortants de l'ENS correspondant aux | Suivi / Observations Suivi • ENS
-A.2.1.01 A.2.1.02 A.2.1.03 A.2.1.04 A.2.1.05 A.2.1.06 | Restructuration du cursus de l'ENS Révision et réadaptation des curricula Renforcement du personnel formateur Extension de la capacité d'accueil Rénovation et Mise à niveau des laboratoires de langues et de pédagogie Extension du foyer existant | Activités
-##### A.2.2 Développer la formation continue et assurer un encadrement de proximité aux Professeurs
-Stratégie • Encadrement de proximité • Recyclage et mise à niveau | des enseignants | Indicateurs Résultat • 17% des enseignants actuels bénéficient d'une reconversion linguistique. Etalement sur 4 ans • 10% des enseignants, chaque année reçoivent un recyclage (APC, didactique, pédagogie, évaluation) Activités | Suivi / Observations
-A.2.2.01 A.2.2.02 A.2.2.03 A.2.2.04 A.2.2.05 enseignement A.2.2.06 A.2.2.07 | Mise en place d'un dispositif d'encadrement de proximité au niveau départemental centré sur l'établissement Mise en place d'une nouvelle approche de la reconversion linguistique des professeurs Formation en reconversion linguistique à niveau des professeurs et des conseillers pédagogiques dans les domaines de l'APC des professeurs et des conseillers pédagogiques dans les différentes disciplines et dans la didactique de leur
-##### A.2.3
-• Action • Action • | Mise Recyclage Formation sur les méthodes actives et pratiques pédagogiques novatrices Formation sur les méthodes et les techniques modernes d'évaluation Restructurer les filières et rénover les Programmes d'enseignement, les outils et les supports pédagogiques et didactiques
-Stratégie sur les curricula, les sur la couverture des Evaluation, orientation • Manuels scolaires • Bibliothèques | programmes programmes • 9 | Indicateurs manuels par élève à l'horizon 2020 | Suivi / Observations
+
+Stratégie
+
+- Profonde restructuration de la formation initiale à l'ENS
+
+Indicateurs
+
+Résultat
+
+- % de sortants de l'ENS dans les disciplines scientifiques
+- Ouverture à l'ENS d'une filière de formation des inspecteurs
+- Flux de sortants de l'ENS correspondant aux besoins (entre 300 et 350 chaque année)
+
+Suivi / Observations
+
+Suivi
+
+- ENS
+
 Activités
-A.2.3.01 Diversification A.2.3.02 Révision des A.2.3.03 Mise en place A.2.3.04 Mise en place A.2.3.05 Révision des A.2.3.06 Révision des A.2.3.07 Développement | des filières d'enseignement contenus des programmes et d'un dispositif d'orientation d'une stratégie d'amélioration modes d'évaluation (formative, manuels (contenus, formes) des bibliothèques scolaires | et des parcours scolaires leur adaptation aux finalités des cycles efficace des taux d'exécution et de couverture des sommative et de certification) des et amélioration de leur distribution et de leur | programmes apprentissages pérennité
+
+A.2.1.01 Restructuration du cursus de l'ENS
+A.2.1.02 Révision et réadaptation des curricula
+A.2.1.03 Renforcement du personnel formateur
+A.2.1.04 Extension de la capacité d'accueil
+A.2.1.05 Rénovation et Mise à niveau des laboratoires de langues et de pédagogie
+A.2.1.06 Extension du foyer existant
+
+##### A.2.2 Développer la formation continue et assurer un encadrement de proximité aux Professeurs
+
+Stratégie
+
+- Encadrement de proximité
+- Recyclage et mise à niveau des enseignants
+
+Indicateurs
+
+Résultat
+
+- 17% des enseignants actuels bénéficient d'une reconversion linguistique. Etalement sur 4 ans
+- 10% des enseignants, chaque année reçoivent un recyclage (APC, didactique, pédagogie, évaluation)
+
+Suivi / Observations
+
+Activités
+
+A.2.2.01 Mise en place d'un dispositif d'encadrement de proximité au niveau départemental centré sur l'établissement
+A.2.2.02 Mise en place d'une nouvelle approche de la reconversion linguistique des professeurs
+A.2.2.03 Formation en reconversion linguistique
+A.2.2.04 Mise à niveau des professeurs et des conseillers pédagogiques dans les domaines de l'APC
+A.2.2.05 Recyclage des professeurs et des conseillers pédagogiques dans les différentes disciplines et dans la didactique de leur enseignement
+A.2.2.06 Formation sur les méthodes actives et pratiques pédagogiques novatrices
+A.2.2.07 Formation sur les méthodes et les techniques modernes d'évaluation
+
+##### A.2.3 Restructurer les filières et rénover les Programmes d'enseignement, les outils et les supports pédagogiques et didactiques
+
+Stratégie
+
+- Action sur les curricula, les programmes
+- Action sur la couverture des programmes
+- Evaluation, orientation
+- Manuels scolaires
+- Bibliothèques
+
+Indicateurs
+
+- 9 manuels par élève à l'horizon 2020
+
+Suivi / Observations
+
+Activités
+
+A.2.3.01 Diversification des filières d'enseignement et des parcours scolaires
+A.2.3.02 Révision des contenus des programmes et leur adaptation aux finalités des cycles
+A.2.3.03 Mise en place d'un dispositif d'orientation efficace
+A.2.3.04 Mise en place d'une stratégie d'amélioration des taux d'exécution et de couverture des programmes
+A.2.3.05 Révision des modes d'évaluation (formative, sommative et de certification) des apprentissages
+A.2.3.06 Révision des manuels (contenus, formes) et amélioration de leur distribution et de leur pérennité
+A.2.3.07 Développement des bibliothèques scolaires
 
 DPEF/PNDSE-2
 
@@ -3729,143 +4075,115 @@ A. Amélioration de la qualité et de la pertinence de l'éducation
 
 Stratégie
 
-Indicateurs
-
-Suivi / Observations
-
 - Construction et réhabilitation de laboratoires
-
 - Equipement scientifique, atelier des sciences
 
-- Satisfaction totale des besoins en laboratoires de science à l'horizon 2020
+Indicateurs
 
+- Satisfaction totale des besoins en laboratoires de science à l'horizon 2020
 - Satisfaction totale des besoins en salles d'informatique à l'horizon 2020
+
+Suivi / Observations
 
 Activités
 
 A.2.4.01 Construction, réhabilitation et équipement de laboratoires et de salles d'expérimentation scientifiques dans tous les établissements du secondaire
-
-- A.2.4.02 Acquisition et distribution dans tous les établissements des outils pédagogiques et des supports didactiques scientifiques (Kits géométrie, calculatrices, lithothèque…)
-
+A.2.4.02 Acquisition et distribution dans tous les établissements des outils pédagogiques et des supports didactiques scientifiques (Kits géométrie, calculatrices, lithothèque…)
 A.2.4.03 Organisation de compétitions scientifiques dans les établissements
-
 A.2.4.04 Renforcement des capacités de l'atelier des sciences
-
 A.2.4.05 Elaboration et mise en œuvre d'une stratégie et d'un plan d'action pour l'enseignement de l'Informatique et l'utilisation des NTIC dans l'enseignement
 
 ##### A.2.5 Améliorer l'environnement sociopédagogique, culturel et sportif dans les établissements
 
 Stratégie
 
-Indicateurs
-
-Suivi / Observations
-
 - Mise à disposition de médiathèques dans les établissements
-
 - Emulation culturelle et sportive
+
+Indicateurs
 
 - Un établissement par an doté d'une médiathèque
 
+Suivi / Observations
+
 Activités
 
-- A.2.5.01 Extension dans des lycées pilotes au niveau régional des bibliothèques en médiathèques
-
-A.2.5.02 Instauration d'un prix annuel pour récompenser les publications littéraires des élèves (article de journal, nouvelles, poèmes, etc.) A.2.5.03 Instauration d'un tournoi scolaire de football et de basketball entre tous les établissements secondaires
+A.2.5.01 Extension dans des lycées pilotes au niveau régional des bibliothèques en médiathèques
+A.2.5.02 Instauration d'un prix annuel pour récompenser les publications littéraires des élèves (article de journal, nouvelles, poèmes, etc.)
+A.2.5.03 Instauration d'un tournoi scolaire de football et de basketball entre tous les établissements secondaires
 
 ##### A.2.6 Promouvoir l'excellence et la démarche qualité dans les établissements
 
 Stratégie
 
+- Promotion de l'excellence
+
 Indicateurs
 
 Suivi / Observations
 
-- Promotion de l'excellence
-
 Activités
 
-A.2.6.01
-
-Conception et mise en place d'une démarche qualité dans  les établissements Mise aux normes et extension lycées d'excellence de Nouakchott
-
-A.2.6.02
+A.2.6.01 Conception et mise en place d'une démarche qualité dans les établissements
+A.2.6.02 Mise aux normes et extension lycées d'excellence de Nouakchott
 
 #### A.3 Amélioration de la qualité, de la Pertinence et de l'efficacité externe de la FTP
 
 Stratégie
 
-Indicateurs
-
-Suivi / Observations
-
 - Améliorer la pertinence de la FTP au regard des besoins de l'emploi
-
 - Amélioration du rendement interne
-
 - Amélioration des taux d'encadrement
-
 - Améliorer les conditions de travail dans les établissements
 
-- Taux d'encadrement de 15 élèves par groupe pédagogique dans les formations secondaires et de 30 dans les autres
+Indicateurs
 
+- Taux d'encadrement de 15 élèves par groupe pédagogique dans les formations secondaires et de 30 dans les autres
 - Suppression du redoublement
+
+Suivi / Observations
 
 ##### A.3.1 Mise en place d'un dispositif de formation initiale et continue des formateurs de la FTP
 
 Stratégie
 
+- Renforcement de la formation au CSET
+- Renforcement des institutions INAP-FTP et DFTP
+
 Indicateurs
 
 Suivi / Observations
 
-- Renforcement de la formation au CSET
-
-- Renforcement des institutions INAP-FTP et DFTP
-
 Suivi
 
 - CSET
-
 - INAP-PTP
-
 - DFTP
 
 Activités
 
-- A.3.1.01 Elaboration et mise en place nouveau mode de formation des formateurs au CSET
-
-- A.3.1.02 Mise en place d'un réseau de FF piloté par le CSET (établissements supports et formateurs agréés)
-
-- A.3.1.03 Mise en place d'un partenariat d'assistance technique entre le CSET et une institution étrangère spécialisée dans la FF
-
-- A.3.1.04 Renforcement des infrastructures et des équipements du CSET et des établissements supports
-
-- A.3.1.05 Formation des FF du CSET et des établissements support
-
-- A.3.1.06 Création d'une cellule FC à la DFTP et mise en place d'une unité développement des compétences à l'INAP-FTP
-
-- A.3.1.07 Equipement de la cellule FC et de l'unité développement des compétences
-
-- A.3.1.08 Formation des personnels de la cellule FC et de l'unité développement des compétences
-
-- A.3.1.09 L'élaboration et la mise en œuvre de plans de formation continue
+A.3.1.01 Elaboration et mise en place nouveau mode de formation des formateurs au CSET
+A.3.1.02 Mise en place d'un réseau de FF piloté par le CSET (établissements supports et formateurs agréés)
+A.3.1.03 Mise en place d'un partenariat d'assistance technique entre le CSET et une institution étrangère spécialisée dans la FF
+A.3.1.04 Renforcement des infrastructures et des équipements du CSET et des établissements supports
+A.3.1.05 Formation des FF du CSET et des établissements support
+A.3.1.06 Création d'une cellule FC à la DFTP et mise en place d'une unité développement des compétences à l'INAP-FTP
+A.3.1.07 Equipement de la cellule FC et de l'unité développement des compétences
+A.3.1.08 Formation des personnels de la cellule FC et de l'unité développement des compétences
+A.3.1.09 L'élaboration et la mise en œuvre de plans de formation continue
 
 ##### A.3.2 Développement programmes, outils pédagogiques et supports didactiques
 
 Stratégie
 
+- Formation
+- Partenariat technique pour l'APC
+- Equipement des établissements
+- Renforcement de l'inspection
+
 Indicateurs
 
 Suivi / Observations
-
-- Formation
-
-- Partenariat technique pour l'APC
-
-- Equipement des établissements
-
-- Renforcement de l'inspection
 
 DPEF/PNDSE-2
 
@@ -3882,16 +4200,11 @@ A. Amélioration de la qualité et de la pertinence de l'éducation
 Activités
 
 - A.3.2.01 Amélioration qualité et efficacité des formations (mise en œuvre de projets d'établissement)
-
 - A.3.2.02 Mobilisation d'un partenariat technique d'accompagnement dans la conception et la mise en œuvre de l'APC
-
 - A.3.2.03 Elaboration des programmes et des documents d'accompagnement
-
 - A.3.2.04 Formation à l'APC des formateurs et des personnels d'encadrement
-
 - A.3.2.05 Rénovation des équipements
-
-- A.3.2.06 Renforcement  de  l'inspection  générale  du  MEFPNT  pour  assurer  plus  efficacement  ses  missions  d'animation  et  de  contrôle pédagogiques
+- A.3.2.06 Renforcement de l'inspection générale du MEFPNT pour assurer plus efficacement ses missions d'animation et de contrôle pédagogiques
 
 ##### A.3.3 Promouvoir les liaisons formation emploi
 
@@ -3899,84 +4212,18 @@ Stratégie
 
 - Mise en place de différents dispositifs (cf. activités)
 
-- Formation
-
-- Motivation
-
-- Partenariat
-
-Résultat
-
-- Tous les établissements disposent d'un équipement complet à l'horizon 2020
-
-Activités
-
-- A.3.4.01 Mise en place de CDI pour professeurs (locaux, fonds documentaires, formation)
-
-A.3.4.02 Mise en place de bureaux et de salles de réunion pour formateurs
-
-A.3.4.03 Mise en place d'un centre Internet pour formateur de la FTP
-
-A.3.4.04 Mise en place de bibliothèques scolaires pour élèves et stagiaires
-
-- A.3.4.05 Mise en place de salles informatiques avec accès à Internet pour élèves et stagiaires
-
-- A.3.4.06 Renforcement des capacités en ingénierie de l'INAP-FTP
-
-#### A.4
-
-Amélioration de la Qualité, de la pertinence et de l'efficacité externe de l'enseignement supérieur
-
-Stratégie
-
-- Améliorer la pertinence des formations au regard de l'emploi
-
-- LMD
-
-- Développement de la recherche en l'orientant notamment vers la formation des formateurs et vers l'amélioration de la qualité des enseignements
-
-Indicateurs Suivi / Observations Suivi / Observations
-
-Résultat
-
-- Amélioration du rendement interne (le taux moyen de redoublement passe de 33% (2010) à 15% en 2015 puis à 10% en 2020
-
-- Qualité de l'insertion des diplômés
-
-Moyen
-
-- Taille des cours magistraux abaissée à 30 dans les filières professionnelles et à 100 dans les filières scientifiques
-
-- Modification progressive de la structure de qualification du corps enseignant (26% de professeurs, 45% de maîtres de conférences à l'horizon 2020, contre respectivement 13% et 54% aujourd'hui)
-
-##### A.4.1 Valorisation du personnel enseignant et de recherche et amélioration de ses performances
-
-Stratégie Indicateurs Activités
-
-- A.4.1.01 Elaboration et Réalisation d'un plan de formation/perfectionnement des enseignants
-
-- A.4.1.02 Elaboration d'un plan de carrière des enseignants/chercheurs
-
-- A.4.1.03 Organisation de séjours d'études dans le cadre de partenariats ou jumelages avec des universités du Nord
-
-- A.4.1.04 Invitation de spécialistes pour présenter des conférences et animer des débats
-
 Indicateurs
+
+Suivi / Observations
 
 Activités
 
 - A.3.3.01 Développement des modes de l'alternance et de l'apprentissage
-
 - A.3.3.02 Standardisation des secteurs de formation et l'élaboration de nomenclatures des métiers
-
 - A.3.3.03 Réalisation d'études de secteurs (étude sur les besoins du marché du travail par secteur)
-
-- A.3.3.04 Mettre  en  place  un  mécanisme  de  suivi  régulier  du  devenir  professionnel  des  diplômés  de  la  FTP  par  exemple  sous  forme  d'un observatoire formation-emploi
-
+- A.3.3.04 Mettre en place un mécanisme de suivi régulier du devenir professionnel des diplômés de la FTP par exemple sous forme d'un observatoire formation-emploi
 - A.3.3.05 Augmenter la vocation professionnalisante de la FTP en partenariat avec les employeurs
-
 - A.3.3.06 Mise en place d'un dispositif de suivi des sortants et d'aide à l'insertion
-
 - A.3.3.07 Mise en place d'un dispositif de reconnaissance et de certification des acquis professionnels
 
 ##### A.3.4 Améliorer les conditions de travail et de vie pédagogiques dans les établissements
@@ -3985,7 +4232,63 @@ Stratégie
 
 - Equipement des établissements
 
-Indicateurs Suivi / Observations Suivi / Observations
+Indicateurs
+
+Résultat
+
+- Tous les établissements disposent d'un équipement complet à l'horizon 2020
+
+Suivi / Observations
+
+Activités
+
+- A.3.4.01 Mise en place de CDI pour professeurs (locaux, fonds documentaires, formation)
+- A.3.4.02 Mise en place de bureaux et de salles de réunion pour formateurs
+- A.3.4.03 Mise en place d'un centre Internet pour formateur de la FTP
+- A.3.4.04 Mise en place de bibliothèques scolaires pour élèves et stagiaires
+- A.3.4.05 Mise en place de salles informatiques avec accès à Internet pour élèves et stagiaires
+- A.3.4.06 Renforcement des capacités en ingénierie de l'INAP-FTP
+
+#### A.4 Amélioration de la Qualité, de la pertinence et de l'efficacité externe de l'enseignement supérieur
+
+Stratégie
+
+- Améliorer la pertinence des formations au regard de l'emploi
+- LMD
+- Développement de la recherche en l'orientant notamment vers la formation des formateurs et vers l'amélioration de la qualité des enseignements
+
+Indicateurs
+
+Résultat
+
+- Amélioration du rendement interne (le taux moyen de redoublement passe de 33% (2010) à 15% en 2015 puis à 10% en 2020
+- Qualité de l'insertion des diplômés
+
+Moyen
+
+- Taille des cours magistraux abaissée à 30 dans les filières professionnelles et à 100 dans les filières scientifiques
+- Modification progressive de la structure de qualification du corps enseignant (26% de professeurs, 45% de maîtres de conférences à l'horizon 2020, contre respectivement 13% et 54% aujourd'hui)
+
+Suivi / Observations
+
+##### A.4.1 Valorisation du personnel enseignant et de recherche et amélioration de ses performances
+
+Stratégie
+
+- Formation
+- Motivation
+- Partenariat
+
+Indicateurs
+
+Suivi / Observations
+
+Activités
+
+- A.4.1.01 Elaboration et Réalisation d'un plan de formation/perfectionnement des enseignants
+- A.4.1.02 Elaboration d'un plan de carrière des enseignants/chercheurs
+- A.4.1.03 Organisation de séjours d'études dans le cadre de partenariats ou jumelages avec des universités du Nord
+- A.4.1.04 Invitation de spécialistes pour présenter des conférences et animer des débats
 
 DPEF/PNDSE-2
 
@@ -4083,93 +4386,85 @@ Plan d'action
 
 ### B. Développer un accès élargi à la base du système et régulé à ses niveaux supérieurs
 
-#### B.1
+#### B.1 Elargir l'accès à l'éducation préscolaire
 
-·
+Stratégie
 
-Elargir Elargir l'accès à l'éducation préscolaire Stratégie l'accès des jeunes
-
-particulier des milieux enfants, pauvres, en
-
-à
-
-l'éducation préscolaire
-
-Pour ce faire, encourager, entre autres, les
-
-initiatives privées et communautaires
-
-Prise en compte de l'enseignement originel
-
-dans l'éducation préscolaire Résultat
-
-·
-
-Taux  de  couverture :  7%  (2009)  à  12%  en
-
-2015 puis 16% en 2020
-
-Moyen
-
-·
-
-Répartition : en 2015 : jardins publics 16% ;
-
-jardins privés
-
-31% ;
-
-garderies
-
-communautaires et écoles coraniques
-
-identifiées  53%.  En  2020 :  jardins  publics
-
-22% ;
-
-jardins privés
-
-18% ;
-
-garderies
-
-communautaires et écoles coraniques
-
-identifiées  60%.  Répartition  actuelle :  8%,
-
-46% et 46%.
-
-·
-
-·
+- Elargir l'accès des jeunes enfants, en particulier des milieux pauvres, à l'éducation préscolaire
+- Pour ce faire, encourager, entre autres, les initiatives privées et communautaires
+- Prise en compte de l'enseignement originel dans l'éducation préscolaire
 
 Indicateurs
 
-Activités
+Résultat
 
-B.1.1.01 Augmentation de la capacité d'accueil des enfants à travers les structures publiques
+- Taux de couverture : 7% (2009) à 12% en 2015 puis 16% en 2020
 
-B.1.1.02 Organisation, renforcement, encadrement et animation de l'offre privée et des initiatives communautaires en matière d'éducation préscolaire
+Moyen
 
-- B.1.1.03 Mise en place d'un système normatif et de suivi des initiatives privées
-
-- B.1.1.04 Renforcement  capacités  des  acteurs  de  l'enseignement  coranique  préscolaire  par  l'appui  en  matériel  didactique  à  112  écoles coraniques et la formation de 135 enseignants d'écoles coraniques
-
-- B.1.1.05 Renforcement des outils et des programmes d'éveil pour le préscolaire par la conception et la diffusion du programme d'éducation parentale
-
-- B.1.1.06 Encadrement du préscolaire non formel par la construction et l'équipement de 38 CRPE
-
-- B.1.1.07 Formation de 54 inspecteurs du préscolaire
-
-- B.1.1.08 Intégration  de  la  formation  sur  la  première  enfance  dans  les  programmes  des  ENI  et  Renforcement  de  la  formation  du  personnel d'encadrement de la petite enfance
-
-#### Promotion de l'Accès universel au Fondamental
---- | --- | ---
-Stratégie | Indicateurs | Suivi / Observations
-##### Renforcer et restructurer l'offre en vue d'élargir la capacité d'accueil
-Stratégie d'écoles à regroupements recours au multigrade double flux urbaine) réhabilitation écoles existantes d'enseignants | Indicateurs Résultat • Le nombre total d'écoles publiques est réduit à 3 536 à partir de 2014 et jusqu'en 2020 (actuellement : 3 682) • Environ 3 400 nouvelles salles de classe publiques créées d'ici 2020 (en 9 ans), dont 760 d'ici 2015 • Environ 4 500 salles de classe réhabilitées d'ici 2020 (570 chaque année) • Recrutement de 5 642 instituteurs d'ici 2020 ; 1 277 d'ici 2015 (en 4 ans) Activités | Suivi / Observations
+- Répartition : en 2015 : jardins publics 16% ; jardins privés 31% ; garderies communautaires et écoles coraniques identifiées 53%. En 2020 : jardins publics 22% ; jardins privés 18% ; garderies communautaires et écoles coraniques identifiées 60%. Répartition actuelle : 8%, 46% et 46%.
 
 Suivi / Observations
+
+Activités
+
+- B.1.1.01 Augmentation de la capacité d'accueil des enfants à travers les structures publiques
+- B.1.1.02 Organisation, renforcement, encadrement et animation de l'offre privée et des initiatives communautaires en matière d'éducation préscolaire
+- B.1.1.03 Mise en place d'un système normatif et de suivi des initiatives privées
+- B.1.1.04 Renforcement capacités des acteurs de l'enseignement coranique préscolaire par l'appui en matériel didactique à 112 écoles coraniques et la formation de 135 enseignants d'écoles coraniques
+- B.1.1.05 Renforcement des outils et des programmes d'éveil pour le préscolaire par la conception et la diffusion du programme d'éducation parentale
+- B.1.1.06 Encadrement du préscolaire non formel par la construction et l'équipement de 38 CRPE
+- B.1.1.07 Formation de 54 inspecteurs du préscolaire
+- B.1.1.08 Intégration de la formation sur la première enfance dans les programmes des ENI et Renforcement de la formation du personnel d'encadrement de la petite enfance
+
+#### B.2 Promotion de l'Accès universel au Fondamental
+
+Stratégie
+
+- Développer l'offre
+- Stimuler la demande
+
+Indicateurs
+
+Résultat
+
+- TBS : 100% en 2020 avec un taux moyen de redoublement de 2,5%
+- Taux d'achèvement : 78% en 2015 ; 100% en 2020
+- Indice de parité : 1 en 2020
+
+Moyen
+
+- Part du privé maintenue à 11%
+- Accueil de 65 000 enfants non scolarisés ou déscolarisés sur la période 2012-2016
+
+Suivi / Observations
+
+##### B.2.1 Renforcer et restructurer l'offre en vue d'élargir la capacité d'accueil
+
+Stratégie
+
+- Augmenter le % d'écoles à cycle complet
+- Encourager les regroupements d'écoles
+- Améliorer le recours au multigrade
+- Supprimer le double flux et la double vacation (zone urbaine)
+- Construction et réhabilitation de salles de classe dans les écoles existantes
+- Recrutement d'enseignants
+
+Indicateurs
+
+Résultat
+
+- Le nombre total d'écoles publiques est réduit à 3 536 à partir de 2014 et jusqu'en 2020 (actuellement : 3 682)
+- Environ 3 400 nouvelles salles de classe publiques créées d'ici 2020 (en 9 ans), dont 760 d'ici 2015
+- Environ 4 500 salles de classe réhabilitées d'ici 2020 (570 chaque année)
+- Recrutement de 5 642 instituteurs d'ici 2020 ; 1 277 d'ici 2015 (en 4 ans)
+
+Suivi / Observations
+
+Activités
+
+- B.2.1.01 Restructuration de l'offre
+- B.2.1.02 Extension et l'amélioration des capacités de l'offre
 
 DPEF/PNDSE-2
 
@@ -4181,18 +4476,97 @@ Plan d'action
 
 [[START OF PAGE 104]]
 
-##### B.2.2 | Impulser la demande en vue de résorber les disparités en matière de scolarisation
---- | --- | --- | ---
-• Etudes • Sensibilisation études • Stimulation pauvres scolaires | Stratégie en fonction des résultats des de la demande des milieux par l'offre de kits de fournitures • | Indicateurs Résultat A partir de 2012/13, 25% des élèves seront dotés de kits de fournitures scolaires | Suivi / Observations Observation • Les kits de fournitures scolaires pour les élèves de milieux défavorisés seront financés sur le budget de l'Etat. Cet indicateur figure également dans le programme d'extension de l'offre (stimulation de la demande)
+##### B.2.2 Impulser la demande en vue de résorber les disparités en matière de scolarisation
+
+Stratégie
+
+- Etudes
+- Sensibilisation en fonction des résultats des études
+- Stimulation de la demande des milieux pauvres par l'offre de kits de fournitures scolaires
+
+Indicateurs
+
+Résultat
+
+- A partir de 2012/13, 25% des élèves seront dotés de kits de fournitures scolaires
+
+Suivi / Observations
+
+Observation
+
+- Les kits de fournitures scolaires pour les élèves de milieux défavorisés seront financés sur le budget de l'Etat. Cet indicateur figure également dans le programme d'extension de l'offre (stimulation de la demande)
+
 Activités
-B.2.2.01 B.2.2.02 B.2.2.03 | Réalisation d'une étude sur les facteurs de demande agissant sur la rétention et la non-scolarisation Stimulation de la demande d'éducation par un appui aux familles pauvres et défavorisées Campagnes de sensibilisation Atténuation des disparités entre genres, régions et milieux socio-économiques
-##### B.2.3 | Développer une offre alternative (non formelle) pour scolariser une demande potentielle spécifique (non scolarisés
-Stratégie Indicateurs Suivi / Observations
-déscolarisés)
-• Accueillir scolarisés communautaires • Organiser formel B.2.3.01 B.2.3.02 B.2.3.03 B.2.3.04 B.2.4 • Développement | les jeunes déscolarisés ou non dans des centres d'éducation et des passerelles avec le système Instauration d'un cadre institutionnel Expérimentation d'un modèle d'éducation Généralisation du modèle d'éducation Mise en place de passerelles avec l'éducation Promouvoir l'alimentation en milieu Stratégie des cantines scolaires Résultat • | Résultat • Accueil de 65 000 enfants non scolarisés ou déscolarisés sur la période 2012-2016 Activités adéquat et Elaboration d'une politique et d'une primaire non formelle primaire non formelle formelle et la FTP scolaire Indicateurs Le % d'écoles disposant d'une cantine est progressivement porté à 45% en 2020 (39% en 2015 ; 33% en 2010) Activités | stratégie nationale d'EPNF Suivi / Observations
-B.2.4.02 | Elaboration d'une politique et d'un plan d'action Appui aux cantines scolaires
-#### B.3
-• Se • • | Elargir l'accès au premier cycle de Stratégie diriger vers une éducation de base universelle, incluant donc le 1 e cycle du Secondaire Réguler l'accès au 2 e cycle du Secondaire en fonction des besoins d'accès au Supérieur Promouvoir un enseignement privé de qualité | l'enseignement secondaire général et maîtriser Indicateurs Résultat • Taux effectif de transition entre le Fondamental et le Secondaire : 46% en 2010 ; 50% en 2015 ; 55% en 2020 • Taux effectif de transition entre le 1 e et le 2 e cycle : 68% en 2009 ; 57% en 2015 et 50% en 2020 • TBS 1 e cyle : 27% en 2010 ; 34% en 2015 ; 39% en 2020 • TBS 2 e cycle : 16% en 2010 ; 15% en 2015 ; 15% en 2020 Moyen • Part du privé 1 e cycle : 24% en 2010 ; 25,6% en 2015 ; 26,2% en 2020 • Part du privé 2 e cycle : maintenue à 33% | le développement du second cycle Suivi / Observations
+
+- B.2.2.01 Réalisation d'une étude sur les facteurs de demande agissant sur la rétention et la non-scolarisation
+- B.2.2.02 Stimulation de la demande d'éducation par un appui aux familles pauvres et défavorisées
+- B.2.2.03 Campagnes de sensibilisation
+- B.2.2.04 Atténuation des disparités entre genres, régions et milieux socio-économiques
+
+##### B.2.3 Développer une offre alternative (non formelle) pour scolariser une demande potentielle spécifique (non scolarisés déscolarisés)
+
+Stratégie
+
+- Accueillir les jeunes déscolarisés ou non scolarisés dans des centres d'éducation communautaires et
+- Organiser des passerelles avec le système formel
+
+Indicateurs
+
+Résultat
+
+- Accueil de 65 000 enfants non scolarisés ou déscolarisés sur la période 2012-2016
+
+Suivi / Observations
+
+Activités
+
+- B.2.3.01 Instauration d'un cadre institutionnel adéquat et Elaboration d'une politique et d'une stratégie nationale d'EPNF
+- B.2.3.02 Expérimentation d'un modèle d'éducation primaire non formelle
+- B.2.3.03 Généralisation du modèle d'éducation primaire non formelle
+- B.2.3.04 Mise en place de passerelles avec l'éducation formelle et la FTP
+
+##### B.2.4 Promouvoir l'alimentation en milieu scolaire
+
+Stratégie
+
+- Développement des cantines scolaires
+
+Indicateurs
+
+Résultat
+
+- Le % d'écoles disposant d'une cantine est progressivement porté à 45% en 2020 (39% en 2015 ; 33% en 2010)
+
+Suivi / Observations
+
+Activités
+
+- B.2.4.01 Elaboration d'une politique et d'un plan d'action
+- B.2.4.02 Appui aux cantines scolaires
+
+#### B.3 Elargir l'accès au premier cycle de l'enseignement secondaire général et maîtriser le développement du second cycle
+
+Stratégie
+
+- Se diriger vers une éducation de base universelle, incluant donc le 1e cycle du Secondaire
+- Réguler l'accès au 2e cycle du Secondaire en fonction des besoins d'accès au Supérieur
+- Promouvoir un enseignement privé de qualité
+
+Indicateurs
+
+Résultat
+
+- Taux effectif de transition entre le Fondamental et le Secondaire : 46% en 2010 ; 50% en 2015 ; 55% en 2020
+- Taux effectif de transition entre le 1e et le 2e cycle : 68% en 2009 ; 57% en 2015 et 50% en 2020
+- TBS 1e cyle : 27% en 2010 ; 34% en 2015 ; 39% en 2020
+- TBS 2e cycle : 16% en 2010 ; 15% en 2015 ; 15% en 2020
+
+Moyen
+
+- Part du privé 1e cycle : 24% en 2010 ; 25,6% en 2015 ; 26,2% en 2020
+- Part du privé 2e cycle : maintenue à 33%
+
+Suivi / Observations
 
 DPEF/PNDSE-2
 
@@ -4209,191 +4583,98 @@ Plan d'action
 Stratégie
 
 - Mise en place d'une carte scolaire opérationnelle
-
 - Construction et réhabilitation
-
-·
-
-Recrutement
-
-·
-
-Orientation
-
-l'accueil scolaire
-
-(pour améliorer
-
-une bonne  répartition
-
-par des
-
-élèves  entre  l'enseignement  général  et  la
-
-FTP
-
+- Recrutement
+- Orientation scolaire (pour améliorer l'accueil par une bonne répartition des élèves entre l'enseignement général et la FTP
 - Promotion de la scolarisation des filles
 
-·
+Indicateurs
 
 Résultat
 
-·
+- Construction de 820 salles de cours (classe ou labo) d'ici 2020 ; 350 d'ici 2015
+- Réhabilitation de 180 salles d'ici 2020 ; 90 d'ici 2015
+- Ouverture de 2 collèges en 2013/14 ; 26 sur la période 2017-2020
+- Recrutement de 2 025 professeurs de collège d'ici 2020 ; 900 d'ici 2015
 
-Construction de 820 salles de cours (classe
+Suivi / Observations
 
-ou labo) d'ici 2020 ; 350 d'ici 2015
+Observation
 
-Réhabilitation  de  180  salles  d'ici  2020 ;  90
-
-d'ici 2015
-
-Ouverture de 2 collèges en 2013/14 ; 26 sur
-
-la période 2017-2020
-
-Recrutement de
-
-2 025
-
-professeurs
-
-collège d'ici 2020 ; 900 d'ici 2015
+- Une partie des professeurs de lycée continueront à enseigner dans le 1e cycle jusqu'à ce que l'équilibre soit établi entre les effectifs d'enseignants de chaque catégorie et les besoins de chaque cycle
 
 Activités
 
-B.3.1.01 Mise en place d'une carte scolaire opérationnelle et la réorganisation/restructuration de l'offre entre le premier et le second cycle en fonction des données de cette carte
-
+- B.3.1.01 Mise en place d'une carte scolaire opérationnelle et la réorganisation/restructuration de l'offre entre le premier et le second cycle en fonction des données de cette carte
 - B.3.1.02 Développement des infrastructures scolaires
-
 - B.3.1.03 Réhabilitation des infrastructures scolaires
-
 - B.3.1.04 Mise en place d'un dispositif d'orientation scolaire
-
 - B.3.1.05 Mise en place de mesures visant la promotion de la scolarisation des filles, notamment en milieu rural, en vue de réduire les disparités de genre
 
 ##### B.3.2 Maîtriser les effectifs au second cycle et améliorer la qualité de l'accueil
 
 Stratégie
 
-Construction et réhabilitation
+- Construction et réhabilitation
+- Recrutement
 
-·
-
-Recrutement
-
-B.3.2.01
-
-B.3.2.02
+Indicateurs
 
 Résultat
 
-·
+- Construction de 280 salles de cours (classe ou labo) d'ici 2020 ; 120 d'ici 2015
+- Réhabilitation de 50 salles d'ici 2020 ; 25 d'ici 2015
+- Ouverture de 10 lycées sur la période 2017-2020
+- Recrutement de 1 100 professeurs de lycée d'ici 2020 ; 450 d'ici 2015
 
-Construction de 280 salles de cours (classe
-
-ou labo) d'ici 2020 ; 120 d'ici 2015
-
-Réhabilitation  de  50  salles  d'ici  2020 ;  25
-
-d'ici 2015
-
-Ouverture de 10 lycées sur la période 2017-
-
-2020
-
-Recrutement de 1 100 professeurs de lycée
-
-d'ici 2020 ; 450 d'ici 2015
-
-Activités
-
-Développement des infrastructures scolaires
-
-Réhabilitation des infrastructures scolaires
-
-##### B.3.3 Promouvoir le développement d'un enseignement secondaire privé de qualité
-
-Stratégie Indicateurs
-
-Activités
-
-B.3.3.01 Elaboration d'un cahier des charges d'ouverture et de fonctionnement des établissements privés et la mise en place d'un dispositif de contrôle approprié de respect des normes
-
-- B.3.3.02 Création d'un fonds de promotion de l'enseignement privé
-
-- B.3.3.03 Mise en place d'une base de données de l'enseignement privé
-
-#### B.4 | Développer l'offre de la FTP
---- | --- | ---
-Stratégie | Indicateurs | Suivi / Observations
-• Offrir une formation professionnelle de masse de courte durée • Etendre l'offre de formations formelles • Promouvoir l'offre privée • Promouvoir la formation continue en cours d'emploi | Résultat • Accueil progressif de 150 000 jeunes d'ici 2020 dans des formations de masse de courte durée : 3 800 en 2012… 11 500 en 2015… 30 000 en 2020 ; ce qui correspond à peu près, respectivement, à 10%, 30% et 50% de la population cible. • Nombre d'apprenants dans les formations initiales classiques : 6 000 en 2010 ; 8 000 en 2015 et 10 000 en 2020 Moyen • Part du privé dans les formations initiales : 20% en 2009 ; 23% en 2015 et 25% en 2020
-
-Indicateurs de
-
-·
-
-·
-
-·
-
-Réglementation
-
-Soutien
-
-Contrôle
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-Indicateurs Observation
-
-·
-
-Une partie des professeurs de lycée
-
-continueront à enseigner dans le 1
-
-cycle
-
-e
-
-jusqu'à ce que l'équilibre soit établi entre
-
-les effectifs d'enseignants de chaque
-
-catégorie et les besoins de chaque cycle
+Suivi / Observations
 
 Observation
 
-·
+- Une partie des professeurs de lycée continueront à enseigner dans le 1e cycle jusqu'à ce que l'équilibre soit établi entre les effectifs d'enseignants de chaque catégorie et les besoins de chaque cycle
 
-Une partie des professeurs de lycée
+Activités
 
-continueront à enseigner dans le 1
+- B.3.2.01 Développement des infrastructures scolaires
+- B.3.2.02 Réhabilitation des infrastructures scolaires
 
-cycle
+##### B.3.3 Promouvoir le développement d'un enseignement secondaire privé de qualité
 
-e
+Stratégie
 
-jusqu'à ce que l'équilibre soit établi entre
+- Réglementation
+- Soutien
+- Contrôle
 
-les effectifs d'enseignants de chaque
-
-catégorie et les besoins de chaque cycle
+Indicateurs
 
 Suivi / Observations
 
-Suivi / Observations
+Activités
+
+- B.3.3.01 Elaboration d'un cahier des charges d'ouverture et de fonctionnement des établissements privés et la mise en place d'un dispositif de contrôle approprié de respect des normes
+- B.3.3.02 Création d'un fonds de promotion de l'enseignement privé
+- B.3.3.03 Mise en place d'une base de données de l'enseignement privé
+
+#### B.4 Développer l'offre de la FTP
+
+Stratégie
+
+- Offrir une formation professionnelle de masse de courte durée
+- Etendre l'offre de formations formelles
+- Promouvoir l'offre privée
+- Promouvoir la formation continue en cours d'emploi
+
+Indicateurs
+
+Résultat
+
+- Accueil progressif de 150 000 jeunes d'ici 2020 dans des formations de masse de courte durée : 3 800 en 2012… 11 500 en 2015… 30 000 en 2020 ; ce qui correspond à peu près, respectivement, à 10%, 30% et 50% de la population cible.
+- Nombre d'apprenants dans les formations initiales classiques : 6 000 en 2010 ; 8 000 en 2015 et 10 000 en 2020
+
+Moyen
+
+- Part du privé dans les formations initiales : 20% en 2009 ; 23% en 2015 et 25% en 2020
 
 Suivi / Observations
 
@@ -4503,37 +4784,104 @@ Plan d'action
 
 [[START OF PAGE 107]]
 
-#### B.5 | Restructuration et amélioration de l'offre de l'enseignement supérieur
---- | --- | --- | ---
-Stratégie Indicateurs Suivi / Observations • Modernisation des infrastructures, extension et équipement • Professionnalisation • Promotion du privé • Politique sociale Résultat • Le Public en Mauritanie peut accueillir 21 600 étudiants en 2020 (16 316 en 2010) • Le Privé en Mauritanie accueille 1 300 étudiants en 2015 et 3 400 en 2020 (700 en 2010) • Le nombre de boursiers à l'étranger est réduit progressivement à 800 en 2020 (2 600 en 2010) • Le % des étudiants dans les filières professionnelles courtes augmente progressivement pour atteindre 10% en 2015 et 15% en 2020 (8% en 2010) • Le % des étudiants dans les filières scientifiques augmente progressivement pour atteindre 20% en 2015 et 30% en 2020 (12% en 2010)
-##### B.5.1 Moderniser et consolider les infrastructures et les conditions d'accueil
-• Construction et équipement | Stratégie | Indicateurs Résultat • Un nouveau campus • Construction et équipement d'environ 7 000 m² de locaux à l'ISCAE | Suivi / Observations
-B.5.1.01 B.5.1.02 | Construction et l'équipement d'un nouveau Campus moderne pour l'université de Nouakchott Construction et l'équipement de locaux pour l'ISCAE Equipement ENS
-##### B.5.2 | Restructurer et diversifier l'offre de l'enseignement supérieur
-• Mise en pilotes • Mise en place d'un dispositif de continue • Extension des capacités d'accueil filières professionnelles courtes filières scientifiques | Stratégie place de formations à distance formation des et des | Indicateurs Résultat • Le % des étudiants dans les filières professionnelles courtes augmente progressivement pour atteindre 10% en 2015 et 15% en 2020 (8% en 2010) • Le % des étudiants dans les filières scientifiques augmente progressivement pour atteindre 20% en 2015 et 30% en 2020 (12% en 2010) | Suivi / Observations
-B.5.2.01 | Développement d'une offre de formation à distance Développement d'offres de FC des filières | Activités
-développement d'une offre d'enseignement supérieur privée de qualité
-Stratégie | Indicateurs | Suivi / Observations
-• Réglementation • Soutien | de l'offre privée | Suivi /
-Politique d'octroi des bourses à l'étranger Mobilisation du privé pour la | politique | Observations
-Activités
-sociales | Redéfinition de la politique de bourses | impliquant le secteur privé
-d'aides | à en place d'une politique d'aides sociales
-B.5.4.01 B.5.4.02 Mise
-l'étranger
-B.5.2.02 B.5.2.03
-##### B.5.3
-| Activités
-Renforcement de la | entre l'Etat et les établissements privés la promotion financièrement Indicateurs
-pour
-professionnalisation Créer les conditions de
-B.5.3.01 B.5.3.02 B.5.3.03 | Elaboration du cadre juridique et institutionnel Mise en place d'un cadre de partenariat Mise en place de mesures d'incitation
-##### B.5.4 | Mettre en place une politique
-sociale
-maîtrisable
+#### B.5 Restructuration et amélioration de l'offre de l'enseignement supérieur
+
 Stratégie
-•
-•
+
+- Modernisation des infrastructures, extension et équipement
+- Professionnalisation
+- Promotion du privé
+- Politique sociale
+
+Indicateurs
+
+Résultat
+
+- Le Public en Mauritanie peut accueillir 21 600 étudiants en 2020 (16 316 en 2010)
+- Le Privé en Mauritanie accueille 1 300 étudiants en 2015 et 3 400 en 2020 (700 en 2010)
+- Le nombre de boursiers à l'étranger est réduit progressivement à 800 en 2020 (2 600 en 2010)
+- Le % des étudiants dans les filières professionnelles courtes augmente progressivement pour atteindre 10% en 2015 et 15% en 2020 (8% en 2010)
+- Le % des étudiants dans les filières scientifiques augmente progressivement pour atteindre 20% en 2015 et 30% en 2020 (12% en 2010)
+
+Suivi / Observations
+
+##### B.5.1 Moderniser et consolider les infrastructures et les conditions d'accueil
+
+Stratégie
+
+- Construction et équipement
+
+Indicateurs
+
+Résultat
+
+- Un nouveau campus
+- Construction et équipement d'environ 7 000 m² de locaux à l'ISCAE
+- Equipement de 5 laboratoires à l'ENS
+
+Suivi / Observations
+
+Activités
+
+- B.5.1.01 Construction et l'équipement d'un nouveau Campus moderne pour l'université de Nouakchott
+- B.5.1.02 Construction et l'équipement de locaux pour l'ISCAE
+- B.5.1.03 Equipement ENS
+
+##### B.5.2 Restructurer et diversifier l'offre de l'enseignement supérieur
+
+Stratégie
+
+- Mise en place de formations à distance pilotes
+- Mise en place d'un dispositif de formation continue
+- Extension des capacités d'accueil des filières professionnelles courtes et des filières scientifiques
+
+Indicateurs
+
+Résultat
+
+- Le % des étudiants dans les filières professionnelles courtes augmente progressivement pour atteindre 10% en 2015 et 15% en 2020 (8% en 2010)
+- Le % des étudiants dans les filières scientifiques augmente progressivement pour atteindre 20% en 2015 et 30% en 2020 (12% en 2010)
+
+Suivi / Observations
+
+Activités
+
+- B.5.2.01 Développement d'une offre de formation à distance
+- B.5.2.02 Développement d'offres de FC
+- B.5.2.03 Renforcement de la professionnalisation des filières
+
+##### B.5.3 Créer les conditions de développement d'une offre d'enseignement supérieur privée de qualité
+
+Stratégie
+
+- Réglementation
+- Soutien
+
+Indicateurs
+
+Suivi / Observations
+
+Activités
+
+- B.5.3.01 Elaboration du cadre juridique et institutionnel
+- B.5.3.02 Mise en place d'un cadre de partenariat entre l'Etat et les établissements privés
+- B.5.3.03 Mise en place de mesures d'incitation pour la promotion de l'offre privée
+
+##### B.5.4 Mettre en place une politique sociale maîtrisable financièrement
+
+Stratégie
+
+- Politique d'octroi des bourses à l'étranger
+- Mobilisation du privé pour la politique d'aides sociales
+
+Indicateurs
+
+Suivi / Observations
+
+Activités
+
+- B.5.4.01 Redéfinition de la politique de bourses à l'étranger
+- B.5.4.02 Mise en place d'une politique d'aides sociales impliquant le secteur privé
 
 DPEF/PNDSE-2
 
@@ -4545,22 +4893,104 @@ Plan d'action
 
 [[START OF PAGE 108]]
 
-#### B.6 | Promotion de l'Alphabétisation et de l'Enseignement Originel
---- | --- | --- | ---
-• | Indicateurs | Suivi / Observations
-Stratégie Eradication de l'analphabétisme par une approche communautaire et le recours à la stratégie du faire-faire en impliquant les acteurs de la société civile Développement de l'alphabétisation fonctionnelle Programme de post-alphabétisation Soutien au mahadras Résultat • Le taux d'analphabétisme des adultes de plus de 15 ans passe de 38% en 2009 à 27% en 2015 et 20% en 2020 • Subvention annuelle de 150 000 UM à 500 mahadras chaque année Moyen • Le nombre d'apprenants en alphabétisation passe de 20 700 en 2013 à 25 700 en 2015 et à 32 800 en 2020 • La proportion d'alphabétisés par approche multimédia passe de 1,6% en 2009 à 11,7% en 2015 et à 20% en 2020 • 50% des néo-alphabètes bénéficient d'une formation qualifiante d'insertion Observation • Le programme de post-alphabétisation est pris en compte dans la formation de masse (B.4.1)
-##### B.6.1 | Elargir l'accès et diversifier l'offre d'alphabétisation
-Stratégie • Création de centres publics d'alphabétisation • Incitation de la demande | Indicateurs | Suivi / Observations
-B.6.1.01 B.6.1.02 B.6.1.03 B.6.1.04 | Activités Appui à la création de centres communautaires de lutte contre l'analphabétisme Développement de programmes de post alphabétisation Intégration de programmes d'alphabétisation dans tous les projets de développement Promotion de l'alphabétisation à distance
-##### B.6.2 | Améliorer la qualité et la pertinence des programmes d'alphabétisation
-• Reproduction en 2011 • Développement fonctionnelle | Stratégie de manuels et guides conçus de l'alphabétisation | Indicateurs | Suivi / Observations
-B.6.2.01 B.6.2.02 | Activités Conception et diffusion en nombre suffisant de manuels et guides d'alphabétisation Développement de l'alphabétisation fonctionnelle
-##### B.6.3 | Améliorer le pilotage des programmes d'alphabétisation
-Stratégie | Indicateurs | Suivi / Observations
-B.6.3.01 Elaboration | Activités et mise en œuvre d'une stratégie de communication
-##### B.6.4 | Promouvoir l'enseignement originel et renforcer sa contribution à l'éducation de base
-• Soutien | Stratégie institutionnel et logistique | Indicateurs Résultat • Réalisation d'un guide de l'enseignant du Coran • Subvention annuelle de 150 000 UM à 500 mahadras chaque année | Suivi / Observations
-B.6.4.01 B.6.4.02 B.6.4.03 B.6.4.04 Mise | Activités Elaboration d'une stratégie nationale de promotion de l'enseignement originel Elaboration d'un guide de l'enseignant du Coran aux enfants concernés par l'obligation scolaire Promotion du rôle des mahadras dans la généralisation de l'éducation de base en place d'un fonds d'appui à la promotion | de l'éducation de base dans les mahadras
+#### B.6 Promotion de l'Alphabétisation et de l'Enseignement Originel
+
+Stratégie
+
+- Eradication de l'analphabétisme par une approche communautaire et le recours à la stratégie du faire-faire en impliquant les acteurs de la société civile
+- Développement de l'alphabétisation fonctionnelle
+- Programme de post-alphabétisation
+- Soutien au mahadras
+
+Indicateurs
+
+Résultat
+
+- Le taux d'analphabétisme des adultes de plus de 15 ans passe de 38% en 2009 à 27% en 2015 et 20% en 2020
+- Subvention annuelle de 150 000 UM à 500 mahadras chaque année
+
+Moyen
+
+- Le nombre d'apprenants en alphabétisation passe de 20 700 en 2013 à 25 700 en 2015 et à 32 800 en 2020
+- La proportion d'alphabétisés par approche multimédia passe de 1,6% en 2009 à 11,7% en 2015 et à 20% en 2020
+- 50% des néo-alphabètes bénéficient d'une formation qualifiante d'insertion
+
+Suivi / Observations
+
+Observation
+
+- Le programme de post-alphabétisation est pris en compte dans la formation de masse (B.4.1)
+
+##### B.6.1 Elargir l'accès et diversifier l'offre d'alphabétisation
+
+Stratégie
+
+- Création de centres publics d'alphabétisation
+- Incitation de la demande
+- Intégration de l'alphabétisation dans les programmes de développement
+
+Indicateurs
+
+Suivi / Observations
+
+Activités
+
+- B.6.1.01 Appui à la création de centres communautaires de lutte contre l'analphabétisme
+- B.6.1.02 Développement de programmes de post alphabétisation
+- B.6.1.03 Intégration de programmes d'alphabétisation dans tous les projets de développement
+- B.6.1.04 Promotion de l'alphabétisation à distance
+
+##### B.6.2 Améliorer la qualité et la pertinence des programmes d'alphabétisation
+
+Stratégie
+
+- Reproduction de manuels et guides conçus en 2011
+- Développement de l'alphabétisation fonctionnelle
+
+Indicateurs
+
+Suivi / Observations
+
+Activités
+
+- B.6.2.01 Conception et diffusion en nombre suffisant de manuels et guides d'alphabétisation
+- B.6.2.02 Développement de l'alphabétisation fonctionnelle
+
+##### B.6.3 Améliorer le pilotage des programmes d'alphabétisation
+
+Stratégie
+
+- Communication médiatique
+
+Indicateurs
+
+Suivi / Observations
+
+Activités
+
+- B.6.3.01 Elaboration et mise en œuvre d'une stratégie de communication
+
+##### B.6.4 Promouvoir l'enseignement originel et renforcer sa contribution à l'éducation de base
+
+Stratégie
+
+- Soutien institutionnel et logistique
+
+Indicateurs
+
+Résultat
+
+- Réalisation d'un guide de l'enseignant du Coran
+- Subvention annuelle de 150 000 UM à 500 mahadras chaque année
+
+Suivi / Observations
+
+Activités
+
+- B.6.4.01 Elaboration d'une stratégie nationale de promotion de l'enseignement originel
+- B.6.4.02 Elaboration d'un guide de l'enseignant du Coran aux enfants concernés par l'obligation scolaire
+- B.6.4.03 Promotion du rôle des mahadras dans la généralisation de l'éducation de base
+- B.6.4.04 Mise en place d'un fonds d'appui à la promotion de l'éducation de base dans les mahadras
 
 DPEF/PNDSE-2
 
@@ -4912,76 +5342,58 @@ Plan d'action
 
 Attention : les coûts comptabilisés dans ces tableaux concernent seulement l'investissement
 
-Code analytique | Nature | Prix 2011 | Quantités | Coûts | (millions | 2016 | Unité | d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2012 | 2013 | 2014 | 2012-14 | 2015 | Total | 2012 | 2013 | 2014 | 2012-14
-000 UM
-PNDSE | 18 667 | 19 760 | 17 | 920 56 347
-## Amélioration de la qualité et de la pertinence de l'éducation | A
-| 4 189 | 4 504 | 4 060 | 12 753
-### Amélioration de la qualité et de l'efficacité interne de l'enseignement fondamental | A1
-| 2 007 | 1 726 | 1 630 | 5 363
-#### Renforcer la qualité de la Formation Initiale des enseignants et l'adapter aux exigences de la réforme | A11
-| 183 | 135 | 117 | 435
-A1101 A110101 | Redéfinition du profil de l'enseignant du fondamental Redéfinition du profil de l'Enseignants du fondamental Révision curricula ENI sur la base du nouveau profil du maître | Consultation int | 5 600 | 2 | 2 | 2 | 8 | 0 0 | 0 | 8 8 22 | 8 0 22 | hm | 0 0
-A1102 | Révision des contenus de la formation des enseignants pour les adapter à profils | Consultation int | 5 600 | 4 | 4 | A110201 | 4 | 22 | 0 | 0 | 22 | hm
-leurs nouveaux
-A1103 | Réadaptation profil et amélioration qualité formateurs ENI | 29 | 12 | 12 | 53
-Redéfinition des profils des formateurs des | Consultation mixte | A110301 | 4 200 | 4 | 4 | 4 | 17 | 0 | 0 | ENI 17 | hm
-A110302 | Formationer et mettre à niveau les formateurs | 60 | 60 | 300 | 12 | 12 | 12 | 36 | 60 | Formé
-A1104 | Formation | 200 | 60 | 60 | 180 | 18 | 18 | 0
-Développement quantitatif et qualitatif écoles d'application Formation des maîtres de | Formation | A110401 | 100 | 20 | 40 | 2 | 2 | 0 | 36 stage 4 | 40 | Formé
-A110402 | salles de | Equipement | 20 | 40 | 40 | 16 | 0 | classe 32 | salle | kit
-A1105 | Equipement des | 800 | 20 | 20 | 16
-Mise à niveau des 2 ENI existantes | 105 | 105 | 105 | 315
-A110501 A110502 | Formation du personnel d'encadrement | Mob-Equip | 100 | 50 | 50 | 50 | 150 | 50 | 100 | 5 | 5 | 15 | 250 5 | 50 | Formé
-Acquisition d'équipement pédagogique et administratif | A1106 | 100 000 | 1 | 1 | 1 | 3 | 0 | 3 | 100 | ENI 300 | 0 | dotation
-A110601 | d'une nouvelle ENI | 1 500 | 0,0 | 0 | 0 | 0 | 0
-Construction et équipement des infrastructures de la nouvelle ENI | 0,0 | 0,0 | 0 | 0 | 0
-0
-000
-0,0
-0,3
-Construction
-0 | coût ENI
-Formation | 100 0
-Création
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+PNDSE | | | | | | | | | | | | | 18 667 | 19 760 | 17 920 | 56 347
+## A | Amélioration de la qualité et de la pertinence de l'éducation | | | | | | | | | | | | 4 189 | 4 504 | 4 060 | 12 753
+### A1 | Amélioration de la qualité et de l'efficacité interne de l'enseignement fondamental | | | | | | | | | | | | 2 007 | 1 726 | 1 630 | 5 363
+#### A11 | Renforcer la qualité de la Formation Initiale des enseignants et l'adapter aux exigences de la réforme | | | | | | | | | | | | 183 | 135 | 117 | 435
+A1101 | Redéfinition du profil de l'enseignant du fondamental | | | | | | | | | | | | 8 | 0 | 0 | 8
+A110101 | Redéfinition du profil de l'Enseignants du fondamental | Consultation int | hm | 5 600 | 2 | | | 2 | | | 2 | 8 | 0 | 0 | 8
+A1102 | Révision curricula ENI sur la base du nouveau profil du maître | | | | | | | | | | | | 22 | 0 | 0 | 22
+A110201 | Révision des contenus de la formation des enseignants pour les adapter à leurs nouveaux profils | Consultation int | hm | 5 600 | 4 | | | 4 | | | 4 | 22 | 0 | 0 | 22
+A1103 | Réadaptation profil et amélioration qualité formateurs ENI | | | | | | | | | | | | 29 | 12 | 12 | 53
+A110301 | Redéfinition des profils des formateurs des ENI | Consultation mixte | hm | 4 200 | 4 | | | 4 | | | 4 | 17 | 0 | 0 | 17
+A110302 | Formationer et mettre à niveau les formateurs | Formation | Formé | 200 | 60 | 60 | 60 | 180 | 60 | 60 | 300 | 12 | 12 | 12 | 36
+A1104 | Développement quantitatif et qualitatif écoles d'application | | | | | | | | | | | | 18 | 18 | 0 | 36
+A110401 | Formation des maîtres de stage | Formation | Formé | 100 | 20 | 20 | | 40 | | | 40 | 2 | 2 | 0 | 4
+A110402 | Equipement des salles de classe | Equipement | kit salle | 800 | 20 | 20 | | 40 | | | 40 | 16 | 16 | 0 | 32
+A1105 | Mise à niveau des 2 ENI existantes | | | | | | | | | | | | 105 | 105 | 105 | 315
+A110501 | Formation du personnel d'encadrement | Formation | Formé | 100 | 50 | 50 | 50 | 150 | 50 | 50 | 250 | 5 | 5 | 5 | 15
+A110502 | Acquisition d'équipement pédagogique et administratif | Mob-Equip | dotation ENI | 100 000 | 1 | 1 | 1 | 3 | 0 | 0 | 3 | 100 | 100 | 100 | 300
+A1106 | Création d'une nouvelle ENI | | | | | | | | | | | | 0 | 0 | 0 | 0
+A110601 | Construction et équipement des infrastructures de la nouvelle ENI | Construction | coût ENI | 1 500 000 | 0,0 | 0,0 | 0,0 | 0 | 0,0 | 0,3 | 0 | 0 | 0 | 0 | 0
 
 [[END OF PAGE 112]]
 
 [[START OF PAGE 113]]
 
-Code analytique | Nature | Unité | Prix 2011 | Quantités | Coûts (millions | d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-000 UM | 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-#### A12 | Développer la formation continue et assurer un encadrement de proximité efficace
-| 172 | 171 | 170 | 513
-A1201 | Mise en place d'un dispositif d'encadrement de proximité au niveau communal | 8 | 10 | 8 | 26
-A120101 | Organisation d'un séminaire pour le développement du dispositif | Formation | forfait | 2 000 | 4 | 5 | 4 | 13 | 13 | 8 | 10 | 8 | 26
-A1202 | Elaboration d'une stratégie et d'un plan d'action de développement du bilinguisme | 3 | 0 | 0 | 3
-A120201 | Elaboration de la stratégie et du PA Consultation | int | hm | 5 600 | 0,5 | 1 | 1 | 3 | 0 | 0 | 3
-A1203 | Reconversion linguistique | 133 | 133 | 133 | 400
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+#### A12 | Développer la formation continue et assurer un encadrement de proximité efficace | | | | | | | | | | | | 172 | 171 | 170 | 513
+A1201 | Mise en place d'un dispositif d'encadrement de proximité au niveau communal | | | | | | | | | | | | 8 | 10 | 8 | 26
+A120101 | Organisation d'un séminaire pour le développement du dispositif | Formation | forfait | 2 000 | 4 | 5 | 4 | 13 | | | 13 | 8 | 10 | 8 | 26
+A1202 | Elaboration d'une stratégie et d'un plan d'action de développement du bilinguisme | | | | | | | | | | | | 3 | 0 | 0 | 3
+A120201 | Elaboration de la stratégie et du PA | Consultation int | hm | 5 600 | 0,5 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+A1203 | Reconversion linguistique | | | | | | | | | | | | 133 | 133 | 133 | 400
 A120301 | Organisation de stages linguistiques | Formation | coût unitaire | 244 | 547 | 547 | 547 | 1 640 | 547 | 0 | 2 186 | 133 | 133 | 133 | 400
-A1204 | Mise à niveau des enseignants dans les domaines de l'APC | 14 | 14 | 14 | 42
-A120401 A1205 | Organisation d'un séminaire pour l'apprentissage de l'APC | Formation | coût unitaire | 48,8 | 285 | 288 | 292 | 864 | 299 | 310 | 1 473 | 14 | 14 | 14 | 42
-Mise à niveau des enseignants (pratiques pédagogiques, évaluation des apprentissages…) | 14 | 14 | 14 | 42
+A1204 | Mise à niveau des enseignants dans les domaines de l'APC | | | | | | | | | | | | 14 | 14 | 14 | 42
+A120401 | Organisation d'un séminaire pour l'apprentissage de l'APC | Formation | coût unitaire | 48,8 | 285 | 288 | 292 | 864 | 299 | 310 | 1 473 | 14 | 14 | 14 | 42
+A1205 | Mise à niveau des enseignants (pratiques pédagogiques, évaluation des apprentissages…) | | | | | | | | | | | | 14 | 14 | 14 | 42
 A120501 | organisation d'un séminaire de mise à niveau des enseignants | Formation | coût unitaire | 48,8 | 285 | 288 | 292 | 864 | 299 | 310 | 1 473 | 14 | 14 | 14 | 42
-#### A13 | Améliorer pertinence et efficacité mise en œuvre Programmes d'enseignement et mettre en place stratégie efficace garantissant respect du temps scolaire
-| 155 | 51 | 25 | 232
-A1301 | Révision des contenus des programmes d'enseignement | 32 | 0 | 0 | 32
-A130101 | Révision des contenus des porgrammes | Consultation int | hm | 5 600 | 4 | 4 | 4 | 22 | 0 | 0 | 22
-A130102 | Organiser un atelier de production Dotation forfait 10 000 1 1 1 Mise en place d'une stratégie d'amélioration des taux d'exécution et de | 10 | 0 | 0 | 10
-A1302 | couverture des programmes | 61 | 0 | 0 | 61
-A130201 | Elaboration d'une stratégie | Consultation int | hm | 5 600 | 2 | 2 | 2 | 11 | 0 | 0 | 11
-A130202 | Mise en œuvre de la stratégie Dotation hm 50 000 1 1 1 Révision des modes d'évaluation (formative, sommative et de certification) | 50 | 0 | 0 | 50
-A1303 A130301 | des apprentissages | 37 | 25 | 25 | 87
-Développement de nouveaux modes d'évaluation | Consultation int | hm | 5 600 | 2 | 2 | 2 | 11 | 0 | 0 | 11
-A1304 | Formation sur les nouveaux modes Formation Formé 20 1 275 1 260 1 261 3 796 3 796 Développement d'un système de suivi pédagogique au niveau de l'école | 13 | 26 | 0 | 39
-A130401 | Organisation d'un atelier nal pour la conception du Système | Dotation | forfait | 10 000 | 1 | 1 | 1 | 0 | 0 | 13
-A130402
-Orgnisation d'ateliers régionaux de diffusion | Dotation | forfait | 2 000 | 13 | 13 | 13 | 13 0 | 26 | 0 | 26
-A1305 | Etablir des liens fonctionnels avec l'enseignement originel | 13 | 0 | 0 | 13
-A130501 | Opérationalisation de l'étude sur les passerelles | Dotation | forfait | 10 000 | 1 | 1 | 1 | 13 | 0 | 0 | 13
+#### A13 | Améliorer pertinence et efficacité mise en œuvre Programmes d'enseignement et mettre en place stratégie efficace garantissant respect du temps scolaire | | | | | | | | | | | | 155 | 51 | 25 | 232
+A1301 | Révision des contenus des programmes d'enseignement | | | | | | | | | | | | 32 | 0 | 0 | 32
+A130101 | Révision des contenus des porgrammes | Consultation int | hm | 5 600 | 4 | | | 4 | | | 4 | 22 | 0 | 0 | 22
+A130102 | Organiser un atelier de production | Dotation | forfait | 10 000 | 1 | | | 1 | | | 1 | 10 | 0 | 0 | 10
+A1302 | Mise en place d'une stratégie d'amélioration des taux d'exécution et de couverture des programmes | | | | | | | | | | | | 61 | 0 | 0 | 61
+A130201 | Elaboration d'une stratégie | Consultation int | hm | 5 600 | 2 | | | 2 | | | 2 | 11 | 0 | 0 | 11
+A130202 | Mise en œuvre de la stratégie | Dotation | hm | 50 000 | 1 | | | 1 | | | 1 | 50 | 0 | 0 | 50
+A1303 | Révision des modes d'évaluation (formative, sommative et de certification) des apprentissages | | | | | | | | | | | | 37 | 25 | 25 | 87
+A130301 | Développement de nouveaux modes d'évaluation | Consultation int | hm | 5 600 | 2 | | | 2 | | | 2 | 11 | 0 | 0 | 11
+A130302 | Formation sur les nouveaux modes | Formation | Formé | 20 | 1 275 | 1 260 | 1 261 | 3 796 | | | 3 796 | 26 | 25 | 25 | 76
+A1304 | Développement d'un système de suivi pédagogique au niveau de l'école | | | | | | | | | | | | 13 | 26 | 0 | 39
+A130401 | Organisation d'un atelier nal pour la conception du Système | Dotation | forfait | 10 000 | 1 | | | 1 | | | 1 | 13 | 0 | 0 | 13
+A130402 | Orgnisation d'ateliers régionaux de diffusion | Dotation | forfait | 2 000 | | 13 | | 13 | | | 13 | 0 | 26 | 0 | 26
+A1305 | Etablir des liens fonctionnels avec l'enseignement originel | | | | | | | | | | | | 13 | 0 | 0 | 13
+A130501 | Opérationalisation de l'étude sur les passerelles | Dotation | forfait | 10 000 | 1 | | | 1 | | | 1 | 13 | 0 | 0 | 13
 
 DPEF/PNDSE-2
 
@@ -4993,39 +5405,34 @@ Plan d'action
 
 [[START OF PAGE 114]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | 2012 | Quantités | 2016 | Total | Coûts (millions | d'UM) | 2012-14
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2013 | 2014 | 2012-14 | 2015 | 2012 | 2013 | 2014
-#### A14 | Améliorer la qualité et la distribution des supports et outils pédagogiques et mettre en place un dispositif d'animations pédagogiques, culturelles et sportives
-| 458 | 336 | 248 | 1 041
-A1401 | Révision des manuels (contenus, formes) et amélioration de leur distribution et de leur pérennité | 370 | 248 | 160 | 779
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+#### A14 | Améliorer la qualité et la distribution des supports et outils pédagogiques et mettre en place un dispositif d'animations pédagogiques, culturelles et sportives | | | | | | | | | | | | 458 | 336 | 248 | 1 041
+A1401 | Révision des manuels (contenus, formes) et amélioration de leur distribution et de leur pérennité | | | | | | | | | | | | 370 | 248 | 160 | 779
 A140101 | Fabrication et distribution des manuels | Manuels | manuel | 0,300 | 1 133 061 | 792 018 | 533 798 | 2 458 877 | 1 387 902 | 1 025 645 | 4 872 424 | 340 | 238 | 160 | 738
-A140102 | Aide à l'amélioration du contenu et de la forme des manuels | Consultation int | hm | 5 600 | 2 | 0 | 11 | 0 | 0 | 11
-A140103 | Révision des manuels par équipe de concepteurs nationaux | Dotation | forfait/manuel | 600 | 18 | 18 | 0 | 11 | 11 | 0 | 22
-A140104 | Détermination d'une politique de distribution des manuels scolaires | Consultation mixte | hm | 4 200 | 2 | 2 | 2 | 8 | 0 | 0 | 8
-A1402 | Développement des bibliothèques scolaires et des coins de lecture | 88 | 88 | 88 | 263
+A140102 | Aide à l'amélioration du contenu et de la forme des manuels | Consultation int | hm | 5 600 | 2 | | | | | | 0 | 11 | 0 | 0 | 11
+A140103 | Révision des manuels par équipe de concepteurs nationaux | Dotation | forfait/manuel | 600 | 18 | 18 | | | | | 0 | 11 | 11 | 0 | 22
+A140104 | Détermination d'une politique de distribution des manuels scolaires | Consultation mixte | hm | 4 200 | 2 | | | 2 | | | 2 | 8 | 0 | 0 | 8
+A1402 | Développement des bibliothèques scolaires et des coins de lecture | | | | | | | | | | | | 88 | 88 | 88 | 263
 A140201 | Acquisition de fonds documentaires | Bibliothèque | une bib sco | 250 | 350 | 350 | 350 | 1 050 | 350 | 350 | 1 750 | 88 | 88 | 88 | 263
-#### A15 | Améliorer l'environnement scolaire et les conditions d'apprentissage dans les écoles
-| 1 040 | 1 032 | 1 070 | 3 142
-A1501 | Equipement des salles de classe en bureaux de maîtres, en armoires et en moyens d'affichage | 502 | 508 | 524 | 1 534
+#### A15 | Améliorer l'environnement scolaire et les conditions d'apprentissage dans les écoles | | | | | | | | | | | | 1 040 | 1 032 | 1 070 | 3 142
+A1501 | Equipement des salles de classe en bureaux de maîtres, en armoires et en moyens d'affichage | | | | | | | | | | | | 502 | 508 | 524 | 1 534
 A150101 | Acquisition de tables-bancs | Tables-bancs | place élève | 10 | 44 509 | 45 143 | 46 592 | 136 244 | 48 910 | 50 493 | 235 647 | 445 | 451 | 466 | 1 362
-A150102 | Acquistion d'autres équipements scolaires Mob-Equip kit salle 100 571 566 577 1 714 587 596 2 897 Promotion des activités socioculturelles et sportives | 57 22 | 57 21 | 58 21 | 171 64
-A1502 A150201 | Dotation de kits sportifs | Equipement sportif | kit école | 20 | 717 | 707 | 707 | 2 131 | 707 | 707 | 3 546 | 14 | 14 | 14 | 43
+A150102 | Acquistion d'autres équipements scolaires | Mob-Equip | kit salle | 100 | 571 | 566 | 577 | 1 714 | 587 | 596 | 2 897 | 57 | 57 | 58 | 171
+A1502 | Promotion des activités socioculturelles et sportives | | | | | | | | | | | | 22 | 21 | 21 | 64
+A150201 | Dotation de kits sportifs | Equipement sportif | kit école | 20 | 717 | 707 | 707 | 2 131 | 707 | 707 | 3 546 | 14 | 14 | 14 | 43
 A150202 | Mise en place de fonds régionaux de soutien à des projets d'activités socioculturelles | Fonds de soutien | une école | 10 | 717 | 707 | 707 | 2 131 | 707 | 707 | 3 546 | 7 | 7 | 7 | 21
-A1503 | Construction/réhabilitation et équipement de locaux de bureaux, de latrines, de clôtures | 394 | 381 | 403 | 1 178
+A1503 | Construction/réhabilitation et équipement de locaux de bureaux, de latrines, de clôtures | | | | | | | | | | | | 394 | 381 | 403 | 1 178
 A150301 | Construction/réhabilitation de locaux de bureaux, de latrines, de clôtures | Bureau direction | bureau | 1 196 | 303 | 293 | 310 | 906 | 281 | 277 | 1 464 | 362 | 350 | 371 | 1 084
-A150303 | Equipement des locaux de bureaux Equipement bureau 104 303 293 310 906 281 277 1 464 | 32 12 | 30 12 | 32 | 94
-A1504 A150401 | Aménagement d'espaces verts Dotation des écoles de fonds pour les espaces verts | Fonds de soutien | subv école | 17 | 717 | 707 | 707 | 2 131 | 707 | 707 | 3 546 | 12 | 12 | 12 12 | 36 36
-A1505 | Dotation des écoles rurales en points d'eau et en énergie solaire | 110 | 110 | 330
+A150303 | Equipement des locaux de bureaux | Equipement | bureau | 104 | 303 | 293 | 310 | 906 | 281 | 277 | 1 464 | 32 | 30 | 32 | 94
+A1504 | Aménagement d'espaces verts | | | | | | | | | | | | 12 | 12 | 12 | 36
+A150401 | Dotation des écoles de fonds pour les espaces verts | Fonds de soutien | subv école | 17 | 717 | 707 | 707 | 2 131 | 707 | 707 | 3 546 | 12 | 12 | 12 | 36
+A1505 | Dotation des écoles rurales en points d'eau et en énergie solaire | | | | | | | | | | | | 110 | 110 | 110 | 330
 A150501 | Forage de points d'eau | Alim eau potable | une école | 5 000 | 10 | 10 | 10 | 30 | 10 | 10 | 50 | 50 | 50 | 50 | 150
-110
 A150502 | Mise en place d'installations électriques fonctionnant à l'énergie solaire | Electrification | une école | 6 000 | 10 | 10 | 10 | 30 | 10 | 10 | 50 | 60 | 60 | 60 | 180
-### A2 | Amélioration de la Qualité et de l'Efficacité interne de l'Enseignement Secondaire Général
-| 987 | 1 421 | 954 | 3 361
-#### A21 | Rénover la Formation Initiale des professeurs et des personnels
-| 76 | 43 | 38 | 158
-A2101 | d'encadrement Restructuration | 14 | 0 | 0 | 14
-A210101 | du cursus de l'ENS Proposition d'une restructuration du curusus Consultation int hm 5 600 2 2 2 | 11 | 0 | 0 | 11
+### A2 | Amélioration de la Qualité et de l'Efficacité interne de l'Enseignement Secondaire Général | | | | | | | | | | | | 987 | 1 421 | 954 | 3 361
+#### A21 | Rénover la Formation Initiale des professeurs et des personnels d'encadrement | | | | | | | | | | | | 76 | 43 | 38 | 158
+A2101 | Restructuration du cursus de l'ENS | | | | | | | | | | | | 14 | 0 | 0 | 14
+A210101 | Proposition d'une restructuration du curusus | Consultation int | hm | 5 600 | 2 | | | 2 | | | 2 | 11 | 0 | 0 | 11
 
 DPEF/PNDSE-2
 
@@ -5037,43 +5444,37 @@ Plan d'action
 
 [[START OF PAGE 115]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | Quantités | Coûts (millions | d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-A210102 | Organisation d'un atelier de validation | Atelier | forfait | 2 500 | 1 | 1 | 1 | 3 | 0 | 0 | 3
-A2102 | Révision et réadaptation des curricula | 22 | 6 | 0 | 28
-A210201 | Etude pour la révision et la réadaptation des curricula | Consultation int | hm | 5 600 | 4 | 1 | 5 | 5 | 22 | 6 | 0 | 28
-A2103 | Renforcement du personnel formateur | 0 | 6 | 6 | 12
-A210301 | Formation et mise à niveau des formateurs (1/3 des ens. de l'ENS sur 2 ans) | Formation | Formé | 200 | 29 | 31 | 60 | 60 | 0 | 6 | 6 | 12
-A2104 | Extension de la capacité d'accueil | 40 | 0 | 0 | 40
-A210401 | Construction de salles de classe | Construction | salle | 5 000 | 8 | 8 | 8 | 40 | 0 | 0 | 40
-A2105 | Rénovation et Mise à niveau des laboratoires de langues et de pédagogie | 0 | 32 | 32 | 64
-A210501 | Construction de laboratoires | Construction | labo | 8 000 | 4 | 4 | 8 | 8 | 0 | 32 | 32 | 64
-A2106 | Extension du foyer existant | 0 | 0 | 0 | 0
-A210601 | Travaux d'extension du Foyer | Construction | place élève | 1 000 | 0 | 200 | 200 | 0 | 0 | 0 | 0
-#### A22 | Développer la formation continue et assurer un encadrement de proximité
-| 42 | 38 | 39 | 118
-A2201 | aux Professeurs Mise en place d'un dispositif d'encadrement de proximité au niveau départemental centré sur l'établissement | 2 | 0 | 0 | 2
-A220101 | Oraganisation d'un séminaire pour le développement du dispositif | Formation | forfait | 2 000 | 1 | 1 | 1 | 2 | 0 | 0 | 2
-A2202 | Mise en place d'une nouvelle approche de la reconversion linguistique des professeurs | 3 | 0 | 0 | 3
-A220201 | Conception de la nouvelle approche | Consultation int | hm | 5 600 | 0,5 | 1 | 1 | 3 | 0 | 0 | 3
-A2203 | Formation en reconversion linguistique Formation des | 244 | 95 | 95 | 23 | 23 | 23 | 70
-A220301 | professeurs à niveau des professeurs et des conseillers pédagogiques dans les | Formation | coût unitaire | 95 | 285 | 28 | 0 | 313 | 23 | 23 | 23 | 70
-A2204 | Mise domaines de l'APC | 3 | 4 | 4 | 11
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+A210102 | Organisation d'un atelier de validation | Atelier | forfait | 2 500 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+A2102 | Révision et réadaptation des curricula | | | | | | | | | | | | 22 | 6 | 0 | 28
+A210201 | Etude pour la révision et la réadaptation des curricula | Consultation int | hm | 5 600 | 4 | 1 | | 5 | | | 5 | 22 | 6 | 0 | 28
+A2103 | Renforcement du personnel formateur | | | | | | | | | | | | 0 | 6 | 6 | 12
+A210301 | Formation et mise à niveau des formateurs (1/3 des ens. de l'ENS sur 2 ans) | Formation | Formé | 200 | | 29 | 31 | 60 | | | 60 | 0 | 6 | 6 | 12
+A2104 | Extension de la capacité d'accueil | | | | | | | | | | | | 40 | 0 | 0 | 40
+A210401 | Construction de salles de classe | Construction | salle | 5 000 | 8 | | | 8 | | | 8 | 40 | 0 | 0 | 40
+A2105 | Rénovation et Mise à niveau des laboratoires de langues et de pédagogie | | | | | | | | | | | | 0 | 32 | 32 | 64
+A210501 | Construction de laboratoires | Construction | labo | 8 000 | | 4 | 4 | 8 | | | 8 | 0 | 32 | 32 | 64
+A2106 | Extension du foyer existant | | | | | | | | | | | | 0 | 0 | 0 | 0
+A210601 | Travaux d'extension du Foyer | Construction | place élève | 1 000 | | | | 0 | 200 | | 200 | 0 | 0 | 0 | 0
+#### A22 | Développer la formation continue et assurer un encadrement de proximité aux Professeurs | | | | | | | | | | | | 42 | 38 | 39 | 118
+A2201 | Mise en place d'un dispositif d'encadrement de proximité au niveau départemental centré sur l'établissement | | | | | | | | | | | | 2 | 0 | 0 | 2
+A220101 | Oraganisation d'un séminaire pour le développement du dispositif | Formation | forfait | 2 000 | 1 | | | 1 | | | 1 | 2 | 0 | 0 | 2
+A2202 | Mise en place d'une nouvelle approche de la reconversion linguistique des professeurs | | | | | | | | | | | | 3 | 0 | 0 | 3
+A220201 | Conception de la nouvelle approche | Consultation int | hm | 5 600 | 0,5 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+A2203 | Formation en reconversion linguistique | | | | | | | | | | | | 23 | 23 | 23 | 70
+A220301 | Formation des professeurs | Formation | coût unitaire | 244 | 95 | 95 | 95 | 285 | 28 | 0 | 313 | 23 | 23 | 23 | 70
+A2204 | Mise à niveau des professeurs et des conseillers pédagogiques dans les domaines de l'APC | | | | | | | | | | | | 3 | 4 | 4 | 11
 A220401 | Formation de mise à niveau dans les domaines de l'APC | Formation | coût unitaire | 12,5 | 275 | 294 | 312 | 881 | 652 | 337 | 1 869 | 3 | 4 | 4 | 11
-A2205 A220501 | Recyclage des professeurs et des conseillers pédagogiques dans les différentes disciplines et dans la didactique de leur enseignement Recyclage dans les différentes disciplines et dans la didactique de leur | 3 | 4 | 4 | 11
-A2206 | enseignement Formation sur les méthodes actives et pratiques pédagogiques novatrices | Formation | coût unitaire | 12,5 | 275 | 294 | 312 | 881 | 652 | 337 | 1 869 | 3 | 4 | 4 | 11 11
-3 | 4 | 4
+A2205 | Recyclage des professeurs et des conseillers pédagogiques dans les différentes disciplines et dans la didactique de leur enseignement | | | | | | | | | | | | 3 | 4 | 4 | 11
+A220501 | Recyclage dans les différentes disciplines et dans la didactique de leur enseignement | Formation | coût unitaire | 12,5 | 275 | 294 | 312 | 881 | 652 | 337 | 1 869 | 3 | 4 | 4 | 11
+A2206 | Formation sur les méthodes actives et pratiques pédagogiques novatrices | | | | | | | | | | | | 3 | 4 | 4 | 11
 A220601 | Organisation de la Formation | Formation | coût unitaire | 12,5 | 275 | 294 | 312 | 881 | 652 | 337 | 1 869 | 3 | 4 | 4 | 11
-A2207 | Formation sur les méthodes et les techniques modernes d'évaluation | 3 | 4 | 4 | 11
+A2207 | Formation sur les méthodes et les techniques modernes d'évaluation | | | | | | | | | | | | 3 | 4 | 4 | 11
 A220701 | Organisation de la Formation | Formation | coût unitaire | 12,5 | 275 | 294 | 312 | 881 | 652 | 337 | 1 869 | 3 | 4 | 4 | 11
-#### A23 | Restructurer les filières et rénover les Programmes d'enseignement, les
-| 273 | 191 | 191 | 655
-outils et les supports pédagogiques et didactiques | 14
-A2301 | Diversification des filières d'enseignement et des parcours scolaires Elaboration d'une étude pour la diversification des filières | Consultation | hm | 3 500 | 4 | 4 | 14 14 | 0 0 | 0 | 14
-A2302 | des contenus des programmes et leur adaptation aux finalités des | 34 | 0 | 0 | 34
-A230101 | mixte | 4 | 0
-Révision
+#### A23 | Restructurer les filières et rénover les Programmes d'enseignement, les outils et les supports pédagogiques et didactiques | | | | | | | | | | | | 273 | 191 | 191 | 655
+A2301 | Diversification des filières d'enseignement et des parcours scolaires | | | | | | | | | | | | 14 | 0 | 0 | 14
+A230101 | Elaboration d'une étude pour la diversification des filières | Consultation mixte | hm | 3 500 | 4 | | | 4 | | | 4 | 14 | 0 | 0 | 14
+A2302 | Révision des contenus des programmes et leur adaptation aux finalités des | | | | | | | | | | | | 34 | 0 | 0 | 34
 
 DPEF/PNDSE-2
 
@@ -5085,37 +5486,34 @@ Plan d'action
 
 [[START OF PAGE 116]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | Quantités | Coûts (millions d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-A230201 | cycles Révision des programmes et leur adaptation | Consultation mixte | hm | 3 800 | 9 | 9 | 9 | 34 | 0 | 0 | 34
-A2303 | Mise en place d'un dispositif d'orientation efficace | 8 | 0 | 0 | 8
-A230301 | Mise en place du Dispositif | Consultation mixte | hm | 4 200 | 2 | 2 | 2 | 8 | 0 | 0 | 8
-A2304 | Mise en place d'une stratégie d'amélioration des taux d'exécution et de couverture des programmes | 8 | 0 | 0 | 8
-A230401 | Mise en place de la Stratégie | Consultation mixte | hm | 4 200 | 2 | 2 | 2 | 8 | 0 | 0 | 8
-A2305 | Révision des modes d'évaluation (formative, sommative et de certification) des apprentissages | 19 | 7 | 8 | 34
-A230501 | Révision des modes d'évaluation | hm | 3 | 11 | 0 | 0 | 11
-A230502 | Consultation int Formation | Formé | 3 800 20 | 3 366 | 375 | 383 | 3 1 123 | 1 123 | 7 | 7 | 8 | 22
-A2306 | Formation des chefs d'établissement et inspecteurs Révision des manuels (contenus, formes) et amélioration de leur distribution et de leur pérennité | 84 | 79 | 79
-A230601 | Fabrication et distribution des manuels | Manuels | un manuel | 0,280 | 193 797 | 237 | 246 | 677 766 | 277 963 | 321 092 | 1 276 | 67 | 69 | 190
-Aide à l'amélioration du contenu et de la forme des manuels | 0 | 242
-A230602 | 588 | 380 | 54
-A230603 | Révision des manuels par équipe de concepteurs nationaux | Consultation int Dotation | hm forfait/manuel | 5 600 600 | 2 20 | 20 | 16 | 2 | 821 2 | 11 12 | 12 | 0 10 | 11 34
-A230604 | Détermination d'une politique de distribution des manuels scolaires | Consultation | hm | 5 600 | 1 | 56 | 56 | 6 | 0 | 0 | 6
-A230605 | Détermination d'une politique de pérénité des manuels scolaires | int Consultation nat | hm | 1 400 | 1 | 1 1 | 1 1 | 1 | 0 | 0 | 1
-A2307 | Développement des bibliothèques scolaires | 105 | 105 | 105 | 315
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+cycles
+A230201 | Révision des programmes et leur adaptation | Consultation mixte | hm | 3 800 | 9 | | | 9 | | | 9 | 34 | 0 | 0 | 34
+A2303 | Mise en place d'un dispositif d'orientation efficace | | | | | | | | | | | | 8 | 0 | 0 | 8
+A230301 | Mise en place du Dispositif | Consultation mixte | hm | 4 200 | 2 | | | 2 | | | 2 | 8 | 0 | 0 | 8
+A2304 | Mise en place d'une stratégie d'amélioration des taux d'exécution et de couverture des programmes | | | | | | | | | | | | 8 | 0 | 0 | 8
+A230401 | Mise en place de la Stratégie | Consultation mixte | hm | 4 200 | 2 | | | 2 | | | 2 | 8 | 0 | 0 | 8
+A2305 | Révision des modes d'évaluation (formative, sommative et de certification) des apprentissages | | | | | | | | | | | | 19 | 7 | 8 | 34
+A230501 | Révision des modes d'évaluation | Consultation int | hm | 3 800 | 3 | | | 3 | | | 3 | 11 | 0 | 0 | 11
+A230502 | Formation des chefs d'établissement et inspecteurs | Formation | Formé | 20 | 366 | 375 | 383 | 1 123 | | | 1 123 | 7 | 7 | 8 | 22
+A2306 | Révision des manuels (contenus, formes) et amélioration de leur distribution et de leur pérennité | | | | | | | | | | | | 84 | 79 | 79 | 242
+A230601 | Fabrication et distribution des manuels | Manuels | un manuel | 0,280 | 193 797 | 237 588 | 246 380 | 677 766 | 277 963 | 321 092 | 1 276 821 | 54 | 67 | 69 | 190
+A230602 | Aide à l'amélioration du contenu et de la forme des manuels | Consultation int | hm | 5 600 | 2 | | | 2 | | | 2 | 11 | 0 | 0 | 11
+A230603 | Révision des manuels par équipe de concepteurs nationaux | Dotation | forfait/manuel | 600 | 20 | 20 | 16 | 56 | | | 56 | 12 | 12 | 10 | 34
+A230604 | Détermination d'une politique de distribution des manuels scolaires | Consultation int | hm | 5 600 | 1 | | | 1 | | | 1 | 6 | 0 | 0 | 6
+A230605 | Détermination d'une politique de pérénité des manuels scolaires | Consultation nat | hm | 1 400 | 1 | | | 1 | | | 1 | 1 | 0 | 0 | 1
+A2307 | Développement des bibliothèques scolaires | | | | | | | | | | | | 105 | 105 | 105 | 315
 A230701 | Construction des bibliothèques scolaires | Construction | bibliothèque | 8 000 | 10 | 10 | 10 | 30 | 10 | 10 | 50 | 80 | 80 | 80 | 240
-A230702 A230703 | Equipement des bibliothèques scolaires Acquisition de fonds documentaires pour les bibliothèques | equipement ouvrages | kit/bibliothèqu e kit/bibliothèqu | 1 000 1 500 | 10 10 | 10 | 10 | 30 | 10 10 | 10 10 | 50 50 | 10 15 | 10 15 | 10 15 | 30 45
-#### Promouvoir et développer l'enseignement des sciences et les TIC
-| e | 10 | 10 | 30 | 555 | 713 | 650 | 1 918
-A24 A2401 | réhabilitation et équipement de laboratoires et de salles | Equip labo | équip / labo | 6 000 | 13 | 49 | 35 | 57 | 140
-informatiques | Equip informa | inf | 6 | 8 | 9 | 23 | 12 | 48
-A240102 | Acquisition d'équipements pour les | 472 | 622 | 545 | 1 639
-A240101 | Construction, d'expérimentation scientifiques dans tous les établissements du secondaire laboratoires | 1 | 1 | 1 | 2 | 5
-A240103 | Acquisition d'équipements et matèriels | Const labo | équip/salle un labo | 2 000 10 000 | 1 20 | 30 | 25 | 2 | 2 | 4 | 8 | 2 198 | 298 | 253 | 749
-A240104 | Construction des laboratoires Construction des salles informatiques | Const salle infor | une salle inf | 5 000 | 47 | 55 | 47 | 75 149 | 20 34 | 11 19 | 106 202 | 236 | 275 | 234 | 745
-A2402 | Acquisition et distribution dans tous les établissements des outils pédagogiques et des supports didactiques scientifiques (Kits géométrie, calculatrices, lithothèque…) | 41 | 85 | 99 | 225
-A240201 | Acquisition des outils et supports didactiques Mob-Equip salle classe | 500 | 81 | 170 | 198 | 449 | 199 | 174 | 823 | 41 | 85 | 99 | 225
+A230702 | Equipement des bibliothèques scolaires | equipement | kit/bibliothèque | 1 000 | 10 | 10 | 10 | 30 | 10 | 10 | 50 | 10 | 10 | 10 | 30
+A230703 | Acquisition de fonds documentaires pour les bibliothèques | ouvrages | kit/bibliothèque | 1 500 | 10 | 10 | 10 | 30 | 10 | 10 | 50 | 15 | 15 | 15 | 45
+#### A24 | Promouvoir et développer l'enseignement des sciences et les TIC | | | | | | | | | | | | 555 | 713 | 650 | 1 918
+A2401 | Construction, réhabilitation et équipement de laboratoires et de salles d'expérimentation scientifiques dans tous les établissements du secondaire | | | | | | | | | | | | 472 | 622 | 545 | 1 639
+A240101 | Acquisition d'équipements pour les laboratoires | Equip labo | équip / labo | 6 000 | 6 | 8 | 9 | 23 | 12 | 13 | 49 | 35 | 48 | 57 | 140
+A240102 | Acquisition d'équipements et matèriels informatiques | Equip informa | équip/salle inf | 2 000 | 1 | 1 | 1 | 2 | 2 | 4 | 8 | 2 | 1 | 2 | 5
+A240103 | Construction des laboratoires | Const labo | un labo | 10 000 | 20 | 30 | 25 | 75 | 20 | 11 | 106 | 198 | 298 | 253 | 749
+A240104 | Construction des salles informatiques | Const salle infor | une salle inf | 5 000 | 47 | 55 | 47 | 149 | 34 | 19 | 202 | 236 | 275 | 234 | 745
+A2402 | Acquisition et distribution dans tous les établissements des outils pédagogiques et des supports didactiques scientifiques (Kits géométrie, calculatrices, lithothèque…) | | | | | | | | | | | | 41 | 85 | 99 | 225
+A240201 | Acquisition des outils et supports didactiques | Mob-Equip | salle classe | 500 | 81 | 170 | 198 | 449 | 199 | 174 | 823 | 41 | 85 | 99 | 225
 
 DPEF/PNDSE-2
 
@@ -5127,42 +5525,35 @@ Plan d'action
 
 [[START OF PAGE 117]]
 
-Code | Nature | Unité | Prix | Quantités | Coûts (millions d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-analytique | 2011 000 UM | 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-A2403 | Organisation de compétitions scientifiques dans les établissements | 6 | 6 | 18
-A240301 | Organisation de compétitions inter-lycées | Dotation | un lycée | 10 | 60 | 60 | 60 | 180 | 60 | 60 | 300 | 1 | 6 1 | 1 | 2
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+A2403 | Organisation de compétitions scientifiques dans les établissements | | | | | | | | | | | | 6 | 6 | 6 | 18
+A240301 | Organisation de compétitions inter-lycées | Dotation | un lycée | 10 | 60 | 60 | 60 | 180 | 60 | 60 | 300 | 1 | 1 | 1 | 2
 A240302 | Organisation de compétitions inter-wilayas | Dotation | une wilaya | 100 | 13 | 13 | 13 | 39 | 13 | 13 | 65 | 1 | 1 | 1 | 4
 A240303 | Organisation d'une compétition nationale | Dotation | forfait | 1 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 1 | 1 | 1 | 3
-A240304 | Organisation d'une compétition internationale (olympiades) | 1 | 3 | 1 | 1 | 5 | 3 | 3 | 3 | 9
-Dotation | forfait | 3 000 | 1 | 1 | 14 | 0 | 0 | 14
-A2404 | Renforcement des capacités de l'atelier des sciences
-A240401 | Organisation d'un voyage d'étude dans une structure similaire | Voyage d'étude | hm | 2 000 | 2 | 2 | 2 | 4 | 0 | 0 | 4
-A240402 | Equipement de l'atelier | Equipement | forfait | 10 000 | 1 | 1 | 1 | 10 | 0 | 0 | 10
-A2405 | Elaboration et mise en œuvre d'une stratégie et d'un plan d'action pour l'enseignement de l'Informatique et l'utilisation des NTIC dans l'enseignement | 23 | 0 | 0 | 23
-A240501 | Elaboration de la stratégie et du PA | Consultation mixte | hm | 3 800 | 6 | 6 | 6 | 23 | 0 | 0 | 23
-#### A25 | Améliorer l'environnement socio-pédagogique, culturel et sportif dans les établissements
-| 35 | 35 | 35 | 106
-A2501 | Extension dans des lycées pilotes au niveau régional des bibliothèques en médiathèques | 20 | 20 | 20 | 60
+A240304 | Organisation d'une compétition internationale (olympiades) | Dotation | forfait | 3 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 3 | 3 | 3 | 9
+A2404 | Renforcement des capacités de l'atelier des sciences | | | | | | | | | | | | 14 | 0 | 0 | 14
+A240401 | Organisation d'un voyage d'étude dans une structure similaire | Voyage d'étude | hm | 2 000 | 2 | | | 2 | | | 2 | 4 | 0 | 0 | 4
+A240402 | Equipement de l'atelier | Equipement | forfait | 10 000 | 1 | | | 1 | | | 1 | 10 | 0 | 0 | 10
+A2405 | Elaboration et mise en œuvre d'une stratégie et d'un plan d'action pour l'enseignement de l'Informatique et l'utilisation des NTIC dans l'enseignement | | | | | | | | | | | | 23 | 0 | 0 | 23
+A240501 | Elaboration de la stratégie et du PA | Consultation mixte | hm | 3 800 | 6 | | | 6 | | | 6 | 23 | 0 | 0 | 23
+#### A25 | Améliorer l'environnement socio-pédagogique, culturel et sportif dans les établissements | | | | | | | | | | | | 35 | 35 | 35 | 106
+A2501 | Extension dans des lycées pilotes au niveau régional des bibliothèques en médiathèques | | | | | | | | | | | | 20 | 20 | 20 | 60
 A250101 | Travaux d'extension des bilbliothèques régionales | Médiathèque | une extension | 20 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 20 | 20 | 20 | 60
-A2502 | Instauration d'un prix annuel pour récompenser les publications littéraires des élèves (article de journal, nouvelles, poèmes, etc.) | 1 | 1 | 1 | 3
+A2502 | Instauration d'un prix annuel pour récompenser les publications littéraires des élèves (article de journal, nouvelles, poèmes, etc.) | | | | | | | | | | | | 1 | 1 | 1 | 3
 A250201 | Organisation du prix annuel des publication littéraires des élèves | Prix | prix accessits | 1 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 1 | 1 | 1 | 3
-A2503 | Instauration d'un tournoi scolaire de football et de basketball entre tous les établissements secondaires | 14 | 14 | 14 | 43
+A2503 | Instauration d'un tournoi scolaire de football et de basketball entre tous les établissements secondaires | | | | | | | | | | | | 14 | 14 | 14 | 43
 A250301 | Organisation de tournois régionaux | Dotation | un lycée | 20 | 60 | 60 | 60 | 180 | 60 | 60 | 300 | 1 | 1 | 1 | 4
-A250302 | Organisation d'un tournoi national | Dotation | une wilaya | 1 000 | 13 | 39 | 13 | 13 | 65 | 6 | 39
-13 | 13 | 13 | 13 | 13
-#### A26 | Promouvoir l'excellence et la démarche qualité dans les établissements
-| 400 | 0 | 406
-A2601 | Conception et mise en place d'une démarche qualité dans les établissements | 6 | 0 | 0 | 6
-A260101 | Conception de la démarche qualité et de sa mise en place | Consultation int | hm | 5 600 | 1 | 1 | 1 | 6 | 0 | 0 | 6
-A260201 | Extension des locaux | Construction | m² | 150 | 2 000 | 2 000 | 2 000 | 0 | 300 | 0 | 300
-A2602 | Mise aux normes et extension lycées d'excellence de Nouakchott Renforcement des équipements | Equipement | forfait | 100 000 | 1 | 0 | 400 | 0 | 400
-A260202 | 1 | 1 | 0 | 100 | 0 | 100
-### Amélioration de la qualité, de la Pertinence et de l'efficacité externe de la
-| 596 | 783 | 854 | 2 232
-A3 | FTP Mise en place d'un dispositif de formation initiale et continue des
-A31 A3101 | formateurs de la FTP Elaboration et mise en place nouveau mode de formation des formateurs au CSET | 64 8 | 31 0 | 29 0 | 125 8
-A310101 | Elaboration et mise en place du mode de formation | Consultation mixte | hm | 4 200 | 2 | 2 | 2 | 8 | 0 | 0 | 8
+A250302 | Organisation d'un tournoi national | Dotation | une wilaya | 1 000 | 13 | 13 | 13 | 39 | 13 | 13 | 65 | 13 | 13 | 13 | 39
+#### A26 | Promouvoir l'excellence et la démarche qualité dans les établissements | | | | | | | | | | | | 6 | 400 | 0 | 406
+A2601 | Conception et mise en place d'une démarche qualité dans les établissements | | | | | | | | | | | | 6 | 0 | 0 | 6
+A260101 | Conception de la démarche qualité et de sa mise en place | Consultation int | hm | 5 600 | 1 | | | 1 | | | 1 | 6 | 0 | 0 | 6
+A2602 | Mise aux normes et extension lycées d'excellence de Nouakchott | | | | | | | | | | | | 0 | 400 | 0 | 400
+A260201 | Extension des locaux | Construction | m² | 150 | | 2 000 | | 2 000 | | | 2 000 | 0 | 300 | 0 | 300
+A260202 | Renforcement des équipements | Equipement | forfait | 100 000 | | 1 | | 1 | | | 1 | 0 | 100 | 0 | 100
+### A3 | Amélioration de la qualité, de la Pertinence et de l'efficacité externe de la FTP | | | | | | | | | | | | 596 | 783 | 854 | 2 232
+#### A31 | Mise en place d'un dispositif de formation initiale et continue des formateurs de la FTP | | | | | | | | | | | | 64 | 31 | 29 | 125
+A3101 | Elaboration et mise en place nouveau mode de formation des formateurs au CSET | | | | | | | | | | | | 8 | 0 | 0 | 8
+A310101 | Elaboration et mise en place du mode de formation | Consultation mixte | hm | 4 200 | 2 | | | 2 | | | 2 | 8 | 0 | 0 | 8
 
 DPEF/PNDSE-2
 
@@ -5174,39 +5565,36 @@ Plan d'action
 
 [[START OF PAGE 118]]
 
-Code | Nature | Unité | Prix 2011 | Quantités | Coûts (millions | d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-analytique | 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-A3102 | Mise en place d'un réseau de FF piloté par le CSET (établissements supports et formateurs agréés) | 8 | 0 | 0 | 8
-A310201 | Mise en place du réseau | Consultation mixte | hm | 4 200 | 2 | 2 | 2 | 8 | 0 | 0 | 8
-A3103 | Mise en place d'un partenariat d'assistance technique entre le CSET et une institution étrangère spécialisée dans la FF | 23 | 23 | 23 | 70
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+A3102 | Mise en place d'un réseau de FF piloté par le CSET (établissements supports et formateurs agréés) | | | | | | | | | | | | 8 | 0 | 0 | 8
+A310201 | Mise en place du réseau | Consultation mixte | hm | 4 200 | 2 | | | 2 | | | 2 | 8 | 0 | 0 | 8
+A3103 | Mise en place d'un partenariat d'assistance technique entre le CSET et une institution étrangère spécialisée dans la FF | | | | | | | | | | | | 23 | 23 | 23 | 70
 A310301 | Accueil de formateurs visiteurs | Frais divers | un visiteur/an | 2 800 | 3 | 3 | 3 | 9 | 3 | 3 | 15 | 8 | 8 | 8 | 25
-A310302 | Voyages d'études | Frais divers | un homme- stage | 1 000 | 15 | 15 | 15 | 45 | 15 | 15 | 75 | 15 | 15 | 15 | 45
-A3104 | Renforcement des infrastructures et des équipements du CSET et des établissements supports | 0,0 | 0,0 | 0,1 | 0,1
-A310401 | Renforcement des équipements du CSET | Equipement | forfait | 50 | 1 | 1 | 1 | 0,0 | 0,0 | 0,1 | 0,1
-A310402 | Réhabilitation-réaménagement des établissements supports | Réhabilitation | forfait/etab | 10 | 0 | 5 | 5 | 0,0 | 0,0 | 0,0 | 0,0
-A310403 | Equipement des établissements supports | Equipement | forfait/etab | 10 | 0 | 5 | 5 | 0,0 | 0,0 | 0,0 | 0,0
-A3105 | Formation des FF du CSET et des établissements support | 6 | 6 | 6 | 18
+A310302 | Voyages d'études | Frais divers | un homme-stage | 1 000 | 15 | 15 | 15 | 45 | 15 | 15 | 75 | 15 | 15 | 15 | 45
+A3104 | Renforcement des infrastructures et des équipements du CSET et des établissements supports | | | | | | | | | | | | 0,0 | 0,0 | 0,1 | 0,1
+A310401 | Renforcement des équipements du CSET | Equipement | forfait | 50 | | | 1 | 1 | | | 1 | 0,0 | 0,0 | 0,1 | 0,1
+A310402 | Réhabilitation-réaménagement des établissements supports | Réhabilitation | forfait/etab | 10 | | | | 0 | 5 | | 5 | 0,0 | 0,0 | 0,0 | 0,0
+A310403 | Equipement des établissements supports | Equipement | forfait/etab | 10 | | | | 0 | 5 | | 5 | 0,0 | 0,0 | 0,0 | 0,0
+A3105 | Formation des FF du CSET et des établissements support | | | | | | | | | | | | 6 | 6 | 6 | 18
 A310501 | Formation des FF du CSET | Formation | Formé | 200 | 15 | 15 | 15 | 45 | 15 | 15 | 75 | 3 | 3 | 3 | 9
 A310502 | Formation des FF des établissements supports | Formation | formé | 200 | 15 | 15 | 15 | 45 | 15 | 15 | 75 | 3 | 3 | 3 | 9
-A3106 | Création d'une cellule FC à la DFTP et mise en place d'une unité développement des compétences à l'INAP-FTP | 5 | 0 | 0 | 5
-A310601 | Création de la cellule FC et mise en place de l'unité de dév. des compétences | Frais divers | forfait | 5 000 | 1 | 1 | 1 | 5 | 0 | 0 | 5
-A3107 | Equipement de la cellule FC et de l'unité développement des compétences | 10 | 0 | 0 | 10
-A310701 | Equipement des deux structures | Mob-Equip | forfait | 10 000 | 1 | 1 | 1 | 10 | 0 | 0 | 10
-A3108 | Formation des personnels de la cellule FC et de l'unité développement des compétences | 2 | 2 | 0 | 4
-A310801 | Formation des personnels des deux structures | Formation | un agent | 100 | 20 | 20 | 40 | 40 | 2 | 2 | 0 | 4
-A3109 | L'élaboration et la mise en œuvre de plans de formation continue | 1 | 0 | 0 | 1
-A310901 | Elaboration et mise en œuvre de plans de formation continue | Consultation nat | hm | 4 000 | 0,25 | 0 | 0 | 1 | 0 | 0 | 1
-#### A32 | Développement programmes, outils pédagogiques et supports didactiques
-| 385 | 573 | 653 | 1 611
-A3201 | Amélioration qualité et efficacité des formations (mise en œuvre de projets d'établissement) | 331 | 498 | 584 | 1 413
-A320101 | Analyse des besoins des établissements | Consultation int | hm | 4 200 | 4,05 | 2,62 | 6,67 | 6,67 | 17 | 0 | 11 | 28
-A320102 | Assistance technique pour la mise en œuvre des projets d'établissements | Partenariat | forfait | 426 160 | 0,26 | 0,20 | 0,24 | 0,70 | 0,20 | 0,10 | 1,00 | 112 112 | 84 238 | 101 308 | 297
-A320103 | Equipement des établissements | Equipement | forfait | 837 200 | 0,13 | 0,28 | 0,37 | 0,79 | 0,15 | 0,07 | 1,00 1,00 | 27 | 84 | 658
-A320104 | Formation des formateurs et personnels d'encadrement | Formation | forfait | 302 400 | 0,09 | 0,28 | 0,23 | 0,60 | 0,27 | 0,13 | 63 | 92 | 70 94 | 181 249
-A320105 | Allocation aux établissements pour matériels légers et petites prestations Dotation forfait 390 600 0,16 0,24 0,24 0,64 0,20 0,16 1,00 Mobilisation d'un partenariat technique d'accompagnement dans la
-A3202 | conception et la mise en œuvre de l'APC | 5 | 0 | 0 | 5
-A320201 | Mobilisation du partenariat technique Frais divers forfait 5 000 1 1 1 | 5 | 0 | 0 | 5
+A3106 | Création d'une cellule FC à la DFTP et mise en place d'une unité développement des compétences à l'INAP-FTP | | | | | | | | | | | | 5 | 0 | 0 | 5
+A310601 | Création de la cellule FC et mise en place de l'unité de dév. des compétences | Frais divers | forfait | 5 000 | 1 | | | 1 | | | 1 | 5 | 0 | 0 | 5
+A3107 | Equipement de la cellule FC et de l'unité développement des compétences | | | | | | | | | | | | 10 | 0 | 0 | 10
+A310701 | Equipement des deux structures | Mob-Equip | forfait | 10 000 | 1 | | | 1 | | | 1 | 10 | 0 | 0 | 10
+A3108 | Formation des personnels de la cellule FC et de l'unité développement des compétences | | | | | | | | | | | | 2 | 2 | 0 | 4
+A310801 | Formation des personnels des deux structures | Formation | un agent | 100 | 20 | 20 | | 40 | | | 40 | 2 | 2 | 0 | 4
+A3109 | L'élaboration et la mise en œuvre de plans de formation continue | | | | | | | | | | | | 1 | 0 | 0 | 1
+A310901 | Elaboration et mise en œuvre de plans de formation continue | Consultation nat | hm | 4 000 | 0,25 | | | 0 | | | 0 | 1 | 0 | 0 | 1
+#### A32 | Développement programmes, outils pédagogiques et supports didactiques | | | | | | | | | | | | 385 | 573 | 653 | 1 611
+A3201 | Amélioration qualité et efficacité des formations (mise en œuvre de projets d'établissement) | | | | | | | | | | | | 331 | 498 | 584 | 1 413
+A320101 | Analyse des besoins des établissements | Consultation int | hm | 4 200 | 4,05 | | 2,62 | 6,67 | | | 6,67 | 17 | 0 | 11 | 28
+A320102 | Assistance technique pour la mise en œuvre des projets d'établissements | Partenariat | forfait | 426 160 | 0,26 | 0,20 | 0,24 | 0,70 | 0,20 | 0,10 | 1,00 | 112 | 84 | 101 | 297
+A320103 | Equipement des établissements | Equipement | forfait | 837 200 | 0,13 | 0,28 | 0,37 | 0,79 | 0,15 | 0,07 | 1,00 | 112 | 238 | 308 | 658
+A320104 | Formation des formateurs et personnels d'encadrement | Formation | forfait | 302 400 | 0,09 | 0,28 | 0,23 | 0,60 | 0,27 | 0,13 | 1,00 | 27 | 84 | 70 | 181
+A320105 | Allocation aux établissements pour matériels légers et petites prestations | Dotation | forfait | 390 600 | 0,16 | 0,24 | 0,24 | 0,64 | 0,20 | 0,16 | 1,00 | 63 | 92 | 94 | 249
+A3202 | Mobilisation d'un partenariat technique d'accompagnement dans la conception et la mise en œuvre de l'APC | | | | | | | | | | | | 5 | 0 | 0 | 5
+A320201 | Mobilisation du partenariat technique | Frais divers | forfait | 5 000 | 1 | | | 1 | | | 1 | 5 | 0 | 0 | 5
 
 DPEF/PNDSE-2
 
@@ -5218,31 +5606,35 @@ Plan d'action
 
 [[START OF PAGE 119]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | Quantités | Coûts (millions d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-A3203 A320301 | Elaboration des programmes et des documents d'accompagnement Elaborer des programmes et des documents d'accompagnement | Consultation nat | hm | 4 000 | 1,25 | 1,25 | 3 | 3 | 5 5 | 5 5 | 0 0 | 10 10
-A3204 A320401 | Formation à l'APC des formateurs et des personnels d'encadrement Formation à l'APC | Formation | coût unitaire | 10 | 91 | 94 | 96 | 281 | 281 | 1 1 | 1 1 | 1 1 | 3 3
-A3205 A320501 | Rénovation des équipements Rénovation des équipements | Equipement | forfait | 414 393 | 0,10 | 0,16 | 0,16 | 0 | 0,21 | 0,37 | 1 | 41 41 | 67 67 | 68 68 | 176 176
-A3206 | Renforcement de l'inspection générale du MEFPNT pour assurer plus efficacement ses missions d'animation et de contrôle pédagogiques | Formation | forfait | 2 000 | 2 | 2 | 2 | 2 | 0 0 | 4 4
-A320601 A33 | Formation des inspecteurs Promouvoir les liaisons formation emploi | 1 | 1 | 2 | 2 10 | 10 | 30
-10
-A3301 A330101 | Développement des modes de l'alternance et de l'apprentissage Promotion des modes de l'alternance et de l'apprentissage | Frais divers | forfait | 2 000 | 1 | 1 | 1 | 3 | 3 | 2 2 2 | 2 2 2 | 2 2 2 | 6 6 6
-A3302 A330201 | Standardisation des secteurs de formation et l'élaboration de nomenclatures des métiers Standardiser les secteurs de formation et élaborer les nomenclatures des métiers | Frais divers | forfait | 2 000 | 1 | 1 | 1 | 3 | 3 | 2 | 2 | 2 | 6 6
-A3303 A330301 | Réalisation d'études de secteurs (étude sur les besoins du marché du travail par secteur) Réalisation de l'étude | Frais divers | forfait | 2 000 | 1 | 1 | 1 | 3 | 3 | 2 2 | 2 2 | 2 2 | 6
-A3304 A330401 | Mettre en place un mécanisme de suivi régulier du devenir professionnel des diplômés de la FTP par exemple sous forme d'un observatoire formation- emploi Mise en place du mécanisme de suivi | Frais divers | forfait | 1 000 | 1 | 1 | 1 | 3 | 1 | 1 | 1 | 3
-A3305 A330501 | Augmenter la vocation professionnalisante de la FTP en partenariat avec les employeurs Ameliorer la vocation professionnalisante de la FTP | 1 | 3 | 1 1 | 1 1 | 1 1 | 3 3
-Frais divers | forfait | 1 000 | 1 | 1 | 3 | 3 | 1 | 1 | 1 | 3
-A3306 A330601 | Mise en place d'un dispositif de suivi des sortants et d'aide à l'insertion Mise en place du Dispositif | Frais divers | forfait | 1 | 1 | 1 | 3 | 3 | 1 | 1 | 1 | 3
-A3307 | Mise en place d'un dispositif de reconnaissance et de certification des acquis professionnels Mise en place du Dispositif | 1 000 | 1 1 | 1 1 | 1 1 | 3 3
-A330701 | les conditions de travail et de vie pédagogiques dans les | Frais divers | forfait | 1 000 | 1 | 1 | 1 | 3 | 3 | 1 | 1 | 1 | 3 467
-#### A34 | Améliorer établissements
-| 137 | 169 4 | 162
-4
-A3401 A340101 | Mise en place de CDI pour professeurs (locaux, fonds documentaires, formation) | Const CDI | un étab | 1 000 | 4 | 4 | 4 | 12 | 4 | 4 | 4 4 | 4 | 4 | 12 12
-A3402 | Mise en place de bureaux et de salles de réunion pour formateurs | 40 | 40 | 40 | 120
-Construction des CDI | 10 | 10 | 10 | 30 | 20
-A340201 | Construction desdits locaux Construction bureau 4 000 10 | 10 | 50 | 40 | 40 | 40 | 120
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+A3203 | Elaboration des programmes et des documents d'accompagnement | | | | | | | | | | | | 5 | 5 | 0 | 10
+A320301 | Elaborer des programmes et des documents d'accompagnement | Consultation nat | hm | 4 000 | 1,25 | 1,25 | | 3 | | | 3 | 5 | 5 | 0 | 10
+A3204 | Formation à l'APC des formateurs et des personnels d'encadrement | | | | | | | | | | | | 1 | 1 | 1 | 3
+A320401 | Formation à l'APC | Formation | coût unitaire | 10 | 91 | 94 | 96 | 281 | | | 281 | 1 | 1 | 1 | 3
+A3205 | Rénovation des équipements | | | | | | | | | | | | 41 | 67 | 68 | 176
+A320501 | Rénovation des équipements | Equipement | forfait | 414 393 | 0,10 | 0,16 | 0,16 | 0 | 0,21 | 0,37 | 1 | 41 | 67 | 68 | 176
+A3206 | Renforcement de l'inspection générale du MEFPNT pour assurer plus efficacement ses missions d'animation et de contrôle pédagogiques | | | | | | | | | | | | 2 | 2 | 0 | 4
+A320601 | Formation des inspecteurs | Formation | forfait | 2 000 | 1 | 1 | | 2 | | | 2 | 2 | 2 | 0 | 4
+#### A33 | Promouvoir les liaisons formation emploi | | | | | | | | | | | | 10 | 10 | 10 | 30
+A3301 | Développement des modes de l'alternance et de l'apprentissage | | | | | | | | | | | | 2 | 2 | 2 | 6
+A330101 | Promotion des modes de l'alternance et de l'apprentissage | Frais divers | forfait | 2 000 | 1 | 1 | 1 | 3 | | | 3 | 2 | 2 | 2 | 6
+A3302 | Standardisation des secteurs de formation et l'élaboration de nomenclatures des métiers | | | | | | | | | | | | 2 | 2 | 2 | 6
+A330201 | Standardiser les secteurs de formation et élaborer les nomenclatures des métiers | Frais divers | forfait | 2 000 | 1 | 1 | 1 | 3 | | | 3 | 2 | 2 | 2 | 6
+A3303 | Réalisation d'études de secteurs (étude sur les besoins du marché du travail par secteur) | | | | | | | | | | | | 2 | 2 | 2 | 6
+A330301 | Réalisation de l'étude | Frais divers | forfait | 2 000 | 1 | 1 | 1 | 3 | | | 3 | 2 | 2 | 2 | 6
+A3304 | Mettre en place un mécanisme de suivi régulier du devenir professionnel des diplômés de la FTP par exemple sous forme d'un observatoire formation-emploi | | | | | | | | | | | | 1 | 1 | 1 | 3
+A330401 | Mise en place du mécanisme de suivi | Frais divers | forfait | 1 000 | 1 | 1 | 1 | 3 | | | 3 | 1 | 1 | 1 | 3
+A3305 | Augmenter la vocation professionnalisante de la FTP en partenariat avec les employeurs | | | | | | | | | | | | 1 | 1 | 1 | 3
+A330501 | Ameliorer la vocation professionnalisante de la FTP | Frais divers | forfait | 1 000 | 1 | 1 | 1 | 3 | | | 3 | 1 | 1 | 1 | 3
+A3306 | Mise en place d'un dispositif de suivi des sortants et d'aide à l'insertion | | | | | | | | | | | | 1 | 1 | 1 | 3
+A330601 | Mise en place du Dispositif | Frais divers | forfait | 1 000 | 1 | 1 | 1 | 3 | | | 3 | 1 | 1 | 1 | 3
+A3307 | Mise en place d'un dispositif de reconnaissance et de certification des acquis professionnels | | | | | | | | | | | | 1 | 1 | 1 | 3
+A330701 | Mise en place du Dispositif | Frais divers | forfait | 1 000 | 1 | 1 | 1 | 3 | | | 3 | 1 | 1 | 1 | 3
+#### A34 | Améliorer les conditions de travail et de vie pédagogiques dans les établissements | | | | | | | | | | | | 137 | 169 | 162 | 467
+A3401 | Mise en place de CDI pour professeurs (locaux, fonds documentaires, formation) | | | | | | | | | | | | 4 | 4 | 4 | 12
+A340101 | Construction des CDI | Const CDI | un étab | 1 000 | 4 | 4 | 4 | 12 | 4 | 4 | 20 | 4 | 4 | 4 | 12
+A3402 | Mise en place de bureaux et de salles de réunion pour formateurs | | | | | | | | | | | | 40 | 40 | 40 | 120
+A340201 | Construction desdits locaux | Construction | bureau | 4 000 | 10 | 10 | 10 | 30 | 10 | 10 | 50 | 40 | 40 | 40 | 120
 
 DPEF/PNDSE-2
 
@@ -5254,41 +5646,36 @@ Plan d'action
 
 [[START OF PAGE 120]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | 2012 | Quantités | 2016 | Total | Coûts (millions | d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2013 | 2014 | 2012-14 | 2015 | 2012 | 2013 | 2014 | 2012-14
-A3403 | Mise en place d'un centre Internet pour formateur de la FTP | 5 | 0 | 0 | 5
-A340301 | Construction du centre internet | Const salle infor | salle inform | 5 000 | 1 | 1 | 1 | 5 | 0 | 0 | 5
-A3404 | Mise en place de bibliothèques scolaires pour élèves et stagiaires | 4 | 4 | 4 | 12
-A340401 | Mise en place des bibliothèques | Bibliothèque | une bib sco | 400 | 10 | 10 | 10 | 30 | 10 | 40 | 4 | 4 | 4 | 12
-A3405 | Mise en place de salles Informatiques avec accès à Internet pour élèves et stagiaires | 50 | 50 | 50 | 150
-A340501 | Construction des salles informatiques Const | salle infor | salle inform | 5 000 | 10 | 10 | 10 | 30 | 10 | 10 | 50 | 50 | 50 | 50 | 150
-A3406 | Renforcement des capacités en ingénierie de l'INAP-FTP | 34 | 71 | 64 | 168
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+A3403 | Mise en place d'un centre Internet pour formateur de la FTP | | | | | | | | | | | | 5 | 0 | 0 | 5
+A340301 | Construction du centre internet | Const salle infor | salle inform | 5 000 | 1 | | | 1 | | | 1 | 5 | 0 | 0 | 5
+A3404 | Mise en place de bibliothèques scolaires pour élèves et stagiaires | | | | | | | | | | | | 4 | 4 | 4 | 12
+A340401 | Mise en place des bibliothèques | Bibliothèque | une bib sco | 400 | 10 | 10 | 10 | 30 | 10 | | 40 | 4 | 4 | 4 | 12
+A3405 | Mise en place de salles Informatiques avec accès à Internet pour élèves et stagiaires | | | | | | | | | | | | 50 | 50 | 50 | 150
+A340501 | Construction des salles informatiques | Const salle infor | salle inform | 5 000 | 10 | 10 | 10 | 30 | 10 | 10 | 50 | 50 | 50 | 50 | 150
+A3406 | Renforcement des capacités en ingénierie de l'INAP-FTP | | | | | | | | | | | | 34 | 71 | 64 | 168
 A340601 | Analyse du marché du travail/enquêtes d'insertion | Dotation | forfait | 16 800 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 17 | 17 | 17 | 50
 A340602 | Elaboration de programmes et supports pédagogiques | Consultation int | hm | 5 600 | 3 | 3 | 4 | 10 | 3 | 3 | 16 | 17 | 17 | 22 | 56
-A340603 | Elaboration d'uncadre normatif pour certification des compétences | Consultation int | hm | 5 600 | 5 | 3 | 8 | 3 | 11 | 0 | 29 | 17 | 46
-A340604 | Formation des méthodologues | Formation | forfait | 7 500 | 1 | 1 | 2 | 1 | 3 | 0 | 8 | 8 | 15
-### A4 | Amélioration de la Qualité, de la pertinence et de l'efficacité externe de l'enseignement supérieur
-| 523 | 510 | 558 | 1 592
-#### A41 | Valorisation du personnel enseignant et de recherche et amélioration de ses performances
-| 196 | 212 | 279 | 686
-A4101 | Elaboration et Réalisation d'un plan de formation/perfectionnement des enseignants | 114 | 136 | 203 | 452
-A410101 A410102 | Elaboration du plan de formation Mise en œuvre du plan de formation | Consultation int Formation | hm un ens/an | 5 600 1 000 | 1,0 108 | 136 | 203 | 1,0 447 | 287 | 370 | 1,0 1 104 | 6 108 | 0 136 | 0 203 | 6 447
-A4102 | Elaboration d'un plan de carrière des enseignants/chercheurs | 6 | 0 | 0 | 6
-A410201 | Elaboration du plan de carrière Consultation int | hm | 5 600 | 1 | 1 | 1 | 6 | 0 | 0 | 6
-A4103 | Organisation de séjours d'études dans le cadre de partenariats ou jumelages avec des universités du Nord | 20 | 20 | 20 | 60
+A340603 | Elaboration d'uncadre normatif pour certification des compétences | Consultation int | hm | 5 600 | | 5 | 3 | 8 | 3 | | 11 | 0 | 29 | 17 | 46
+A340604 | Formation des méthodologues | Formation | forfait | 7 500 | | 1 | 1 | 2 | 1 | | 3 | 0 | 8 | 8 | 15
+### A4 | Amélioration de la Qualité, de la pertinence et de l'efficacité externe de l'enseignement supérieur | | | | | | | | | | | | 523 | 510 | 558 | 1 592
+#### A41 | Valorisation du personnel enseignant et de recherche et amélioration de ses performances | | | | | | | | | | | | 196 | 212 | 279 | 686
+A4101 | Elaboration et Réalisation d'un plan de formation/perfectionnement des enseignants | | | | | | | | | | | | 114 | 136 | 203 | 452
+A410101 | Elaboration du plan de formation | Consultation int | hm | 5 600 | 1,0 | | | 1,0 | | | 1,0 | 6 | 0 | 0 | 6
+A410102 | Mise en œuvre du plan de formation | Formation | un ens/an | 1 000 | 108 | 136 | 203 | 447 | 287 | 370 | 1 104 | 108 | 136 | 203 | 447
+A4102 | Elaboration d'un plan de carrière des enseignants/chercheurs | | | | | | | | | | | | 6 | 0 | 0 | 6
+A410201 | Elaboration du plan de carrière | Consultation int | hm | 5 600 | 1 | | | 1 | | | 1 | 6 | 0 | 0 | 6
+A4103 | Organisation de séjours d'études dans le cadre de partenariats ou jumelages avec des universités du Nord | | | | | | | | | | | | 20 | 20 | 20 | 60
 A410301 | Organisation de voyages d'études | Voyage d'étude | un séjour | 1 000 | 20 | 20 | 20 | 60 | 20 | 20 | 100 | 20 | 20 | 20 | 60
-A4104 | Invitation de spécialistes pour présenter des conférences et animer des débats | 56 | 56 | 56 | 168
-A410401 | Accueil de formateurs visiteurs Frais | divers | un visiteur/an | 2 800 | 20 | 20 | 20 | 60 | 20 | 20 | 100 | 56 | 56 | 56 | 168
-#### A42 | Poursuite et consolidation de la réforme pédagogique et l'adaptation des programmes et des outils didactiques avec les besoins de la qualité
-| 156 | 156 | 125 | 437
-Poursuite de la mise en œuvre de la réforme LMD à l'université de Nouakchott | 20 | 20 | 20 | 60
-A4201 A420101 | Poursuite de la mise en œuvre de la réforme LMD à l'UN | Frais divers | forfait | 20 000 | 1 | 1 | 1 | 3 | 3 | 20 | 20 | 20 | 60
-en place de la réforme LMD dans les autres établissements de
-A4202 | Mise l'enseignement supérieur | 5 | 5 | 5 | 15
-A420201 | Elargir l'adoption du LMD aux autres établissements de l'ENSUP. | Frais divers | forfait | 5 000 | 1 | 1 | 1 | 3 | 3 | 5 | 5 | 5 | 15
-A4203 | Rénovation des programmes des filières générales et professionnelles | 31 | 31 | 0 | 62
-A420301 | Rénovation des programmes Consultation int | hm | 5 600 | 5 | 5 | 0 | 10 | 10 | 28 | 28 | 0 | 56
+A4104 | Invitation de spécialistes pour présenter des conférences et animer des débats | | | | | | | | | | | | 56 | 56 | 56 | 168
+A410401 | Accueil de formateurs visiteurs | Frais divers | un visiteur/an | 2 800 | 20 | 20 | 20 | 60 | 20 | 20 | 100 | 56 | 56 | 56 | 168
+#### A42 | Poursuite et consolidation de la réforme pédagogique et l'adaptation des programmes et des outils didactiques avec les besoins de la qualité | | | | | | | | | | | | 156 | 156 | 125 | 437
+A4201 | Poursuite de la mise en œuvre de la réforme LMD à l'université de Nouakchott | | | | | | | | | | | | 20 | 20 | 20 | 60
+A420101 | Poursuite de la mise en œuvre de la réforme LMD à l'UN | Frais divers | forfait | 20 000 | 1 | 1 | 1 | 3 | | | 3 | 20 | 20 | 20 | 60
+A4202 | Mise en place de la réforme LMD dans les autres établissements de l'enseignement supérieur | | | | | | | | | | | | 5 | 5 | 5 | 15
+A420201 | Elargir l'adoption du LMD aux autres établissements de l'ENSUP. | Frais divers | forfait | 5 000 | 1 | 1 | 1 | 3 | | | 3 | 5 | 5 | 5 | 15
+A4203 | Rénovation des programmes des filières générales et professionnelles | | | | | | | | | | | | 31 | 31 | 0 | 62
+A420301 | Rénovation des programmes | Consultation int | hm | 5 600 | 5 | 5 | 0 | 10 | | | 10 | 28 | 28 | 0 | 56
 
 DPEF/PNDSE-2
 
@@ -5300,36 +5687,31 @@ Plan d'action
 
 [[START OF PAGE 121]]
 
-Code analytique | Nature Unité | Prix 2011 000 UM | 2012 | Quantités | Coûts (millions | d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-A420302 | Travaux de commissions nationales | Frais divers | forfait | 200 | 15 | 15 | 0 | 30 | 30 | 3 | 3 | 0 | 6
-A4204 | Equipement de l'ensemble des bibliothèques par les supports didactiques adéquats | 50 | 50 | 50 | 150
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+A420302 | Travaux de commissions nationales | Frais divers | forfait | 200 | 15 | 15 | 0 | 30 | | | 30 | 3 | 3 | 0 | 6
+A4204 | Equipement de l'ensemble des bibliothèques par les supports didactiques adéquats | | | | | | | | | | | | 50 | 50 | 50 | 150
 A420401 | Acquisition des supports didactiques adéquats pour les biblio. | Bibliothèque | forfait | 50 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 50 | 50 | 50 | 150
-A4205 | Equipement des laboratoires dans les différents établissements | 50 | 50 | 50 | 150
+A4205 | Equipement des laboratoires dans les différents établissements | | | | | | | | | | | | 50 | 50 | 50 | 150
 A420501 | Equipement des laboratoires | Equip labo | un labo | 10 000 | 5 | 5 | 5 | 15 | 5 | 5 | 25 | 50 | 50 | 50 | 150
-#### A43 | Redynamisation de la recherche universitaire
-| 171 | 143 | 155 | 469
-A4301 | Développement d'une stratégie de recherche scientifique | 50 | 0 | 0 | 50
-A430101 | Elaboration de la stratégie Consultation int | hm | 5 600 | 9 | 9 | 9 | 50 | 0 | 0 | 50
-A4302 | Mise en place d'un dispositif de recherche pérenne et performant | 5 | 5 | 0 | 10
-A430201 | Mise en place du Dispositif | Frais divers | forfait | 5 000 | 1 | 1 | 2 | 2 | 5 | 5 | 0 | 10
-A4303 | Promotion des activités de recherche scientifique | 116 | 138 | 155 | 408
-A430301 | Promotion desdites activités Frais divers | forfait/prof. | 1 000 | 116 | 138 | 155 | 408 | 177 | 202 | 787 | 116 | 138 | 155 | 408
-### A5 | Promotion d'une bonne santé en milieu scolaire
-| 76 | 65 | 65 | 206
-A5101 A510101 | Elaboration d'une stratégie et d'un plan d'action en matière d'hygiène et de scolaire | 3 3 | 0 0 | 0 0 | 3 3
-A5102 | Elaboration de la stratégie et du PA Consultation nat hm 2 800 1 1 1 Intégration de l'éducation sanitaire et nutritionnelle dans les programmes | 0 | 0 | 5
-scolaires | 5
-A510201 | Conception de l'intégration Consultation nat hm 2 800 1 1 1 | 3 | 0 | 0 | 3
-A510202 A5103 | Atelier de formation des concepteurs des programmes Formation forfait 1 000 2 2 2 Développement de partenariat entre l'école et les structures de santé | 2 | 0 0 | 0 0 | 2 3
-A510301 | publique | 3 | 0 | 3
-Mise en place du partenariat Consultation nat hm 2 800 1 1 1 | 3 | 0 12 | 12
-A5104 | Dotation des écoles en boîtes de pharmacie pour les soins primaires | 12 | 36
-A510401 | Dotation des écoles fondamentales Boîte de pharmacie une boîte 10 1 195 1 179 1 179 3 552 1 179 1 179 5 910 Organisation de visites médicales régulières dans les écoles éloignées des | 12 | 12 | 12 53 | 36 160
-A5105 A510501 | structures de santé | 54 | 53
-53 | 160
-publiques Visites médicales dans 30% des écoles | Frais divers | forfait/visite | 50 | 1 075 | 1 061 | 1 061 | 3 197 | 1 061 | 1 061 | 5 319 | 54 | 53
+#### A43 | Redynamisation de la recherche universitaire | | | | | | | | | | | | 171 | 143 | 155 | 469
+A4301 | Développement d'une stratégie de recherche scientifique | | | | | | | | | | | | 50 | 0 | 0 | 50
+A430101 | Elaboration de la stratégie | Consultation int | hm | 5 600 | 9 | | | 9 | | | 9 | 50 | 0 | 0 | 50
+A4302 | Mise en place d'un dispositif de recherche pérenne et performant | | | | | | | | | | | | 5 | 5 | 0 | 10
+A430201 | Mise en place du Dispositif | Frais divers | forfait | 5 000 | 1 | 1 | | 2 | | | 2 | 5 | 5 | 0 | 10
+A4303 | Promotion des activités de recherche scientifique | | | | | | | | | | | | 116 | 138 | 155 | 408
+A430301 | Promotion desdites activités | Frais divers | forfait/prof. | 1 000 | 116 | 138 | 155 | 408 | 177 | 202 | 787 | 116 | 138 | 155 | 408
+### A5 | Promotion d'une bonne santé en milieu scolaire | | | | | | | | | | | | 76 | 65 | 65 | 206
+A5101 | Elaboration d'une stratégie et d'un plan d'action en matière d'hygiène et de santé scolaire | | | | | | | | | | | | 3 | 0 | 0 | 3
+A510101 | Elaboration de la stratégie et du PA | Consultation nat | hm | 2 800 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+A5102 | Intégration de l'éducation sanitaire et nutritionnelle dans les programmes scolaires | | | | | | | | | | | | 5 | 0 | 0 | 5
+A510201 | Conception de l'intégration | Consultation nat | hm | 2 800 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+A510202 | Atelier de formation des concepteurs des programmes | Formation | forfait | 1 000 | 2 | | | 2 | | | 2 | 2 | 0 | 0 | 2
+A5103 | Développement de partenariat entre l'école et les structures de santé publique | | | | | | | | | | | | 3 | 0 | 0 | 3
+A510301 | Mise en place du partenariat | Consultation nat | hm | 2 800 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+A5104 | Dotation des écoles en boîtes de pharmacie pour les soins primaires | | | | | | | | | | | | 12 | 12 | 12 | 36
+A510401 | Dotation des écoles fondamentales | Boîte de pharmacie | une boîte | 10 | 1 195 | 1 179 | 1 179 | 3 552 | 1 179 | 1 179 | 5 910 | 12 | 12 | 12 | 36
+A5105 | Organisation de visites médicales régulières dans les écoles éloignées des structures de santé publiques | | | | | | | | | | | | 54 | 53 | 53 | 160
+A510501 | Visites médicales dans 30% des écoles | Frais divers | forfait/visite | 50 | 1 075 | 1 061 | 1 061 | 3 197 | 1 061 | 1 061 | 5 319 | 54 | 53 | 53 | 160
 
 DPEF/PNDSE-2
 
@@ -5341,35 +5723,33 @@ Plan d'action
 
 [[START OF PAGE 122]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | Quantités | Coûts (millions d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-### B | Développer un accès élargi à la base du système et régulé à ses niveaux supérieurs
-| 13 415 14 092 12 531 40 038
-#### B1 | Elargir l'accès à l'éducation préscolaire
-| 400 | 279 | 337 | 1 016
-B1101 | Augmentation de la capacité d'accueil des enfants à travers les structures publiques | 122 | 30 | 99 | 250
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+### B | Développer un accès élargi à la base du système et régulé à ses niveaux supérieurs | | | | | | | | | | | | 13 415 | 14 092 | 12 531 | 40 038
+#### B1 | Elargir l'accès à l'éducation préscolaire | | | | | | | | | | | | 400 | 279 | 337 | 1 016
+B1101 | Augmentation de la capacité d'accueil des enfants à travers les structures publiques | | | | | | | | | | | | 122 | 30 | 99 | 250
 B110101 | Construction de salles du préscolaire | Construction | salle | 3 300 | 32 | 0 | 18 | 51 | 33 | 36 | 120 | 107 | 0 | 60 | 167
-B1102 | Organisation, renforcement, encadrement et animation de l'offre privée et des initiatives communautaires en matière d'éducation préscolaire | 139 | 123 | 114 | 377
-B110201 | Acquisition de matériel didactique | Mat didact | dot école | 211 | 77 | 11 | 3 | 91 | 11 | 12 | 114 | 16 | 2 | 1 | 19 2
-B110202 B110203 | Formation du personnel d'encadrement | Formation Motos | coût unitaire une moto | 6 1 200 | 70 32 | 108 26 | 73 29 | 251 87 | 123 33 | 59 36 | 433 156 | 0 38 | 1 31 | 0 35 | 104
-B1103 | Appui salaire animatrices des GC & EC . Mise en place d'un système normatif et de suivi des initiatives privées | 4 | 0 | 0 | 4
-B110301 | Conception du système Consultation nat | hm | 2 800 | 1,25 | 1 | 1 | 4 | 0 | 0 | 4
-B1104 | Renforcement capacités des acteurs de l'enseignement coranique préscolaire l'appui en matériel didactique à 112 écoles coraniques et la formation de enseignants d'écoles coraniques | dot école | 211 | 13 | 16 | 80 | 8 8 | 2 2 | 1 1 | 11
-B110401 B110402 | par 135 Acquisition du matèriel didactique Formation des 135 enseignants | Mat didact Formation | coût unitaire | 6 | 39 23 | 10 | 3 | 52 82 | 37 | 16 | 135 | 0 | 0 | 0 | 11 1
-B1105 B110501 | Renforcement des outils et des programmes d'éveil pour le préscolaire par la conception et la diffusion du programme d'éducation parentale Organisation d'ateliers d'éducation parentales Educ | parent | forfait | 60 000 | 34 | 25 | 4 | 1,5 | 1,6 | 7 | 78 78 | 84 84 | 84 84 | 246
-B1106 | 1,3 | 1,4 | 1,4 | 38 | 38 | 38 | 246
-Encadrement du préscolaire non formel par la construction et l'équipement de 38 CRPE | Construction | CRPE | 10 000 | 4 | 4 | 114
-B110601 | Construction des 38 CRPE Formation de 54 inspecteurs du préscolaire | 2 800 | 1 | 4 | 4 | 11 | 4 | 19 | 38 8 | 38 0 | 38 0 | 114
-B1107 | Elaboration d'un référentiel de formation Consultation | nat Frais divers | hm forfait | 5 000 | 1 | 1 1 | 1 1 | 3 5 | 0 0 | 0 | 8 3
-B110701 B110702 B110703 | Développement des modules et supports de formation Formation de formateurs | Formation | formé | 9 | 9 | 0 | 0 | 0 0 | 5 0
-B1108 | Intégration de la formation sur la première enfance dans les programmes des ENI et Renforcement de la formation du personnel d'encadrement de la petite enfance | 1 | 1 | 6
-20 | 9
-1 | 1 | 4 | 0 | 3
-B110801 | Conception du module Consultation nat | Formation | hm | 2 800 20 | 1 | 64 | 46 | 151 | 38 | 265 | 3 1 | 0 1 | 1 | 3
-B110802 | Appui à la formation continue des monitrices réalisée par le CFPE | un formé
-77
-41
+B110102 | | Frais divers | forfait | 163 521 | 0,1 | 0,2 | 0,2 | 1 | 0,2 | 0,3 | 1 | 15 | 30 | 39 | 83
+B1102 | Organisation, renforcement, encadrement et animation de l'offre privée et des initiatives communautaires en matière d'éducation préscolaire | | | | | | | | | | | | 139 | 123 | 114 | 377
+B110201 | Acquisition de matériel didactique | Mat didact | dot école | 211 | 77 | 11 | 3 | 91 | 11 | 12 | 114 | 16 | 2 | 1 | 19
+B110202 | Formation du personnel d'encadrement | Formation | coût unitaire | 6 | 70 | 108 | 73 | 251 | 123 | 59 | 433 | 0 | 1 | 0 | 2
+B110203 | Motos | Motos | une moto | 1 200 | 32 | 26 | 29 | 87 | 33 | 36 | 156 | 38 | 31 | 35 | 104
+B110204 | Appui salaire animatrices des GC & EC | Rémunération | appui/an/anim. | 150 | 562 | 595 | 523 | 1 679 | 590 | 662 | 2 930 | 84 | 89 | 78 | 252
+B1103 | Mise en place d'un système normatif et de suivi des initiatives privées | | | | | | | | | | | | 4 | 0 | 0 | 4
+B110301 | Conception du système | Consultation nat | hm | 2 800 | 1,25 | | | 1 | | | 1 | 4 | 0 | 0 | 4
+B1104 | Renforcement capacités des acteurs de l'enseignement coranique préscolaire par l'appui en matériel didactique à 112 écoles coraniques et la formation de 135 enseignants d'écoles coraniques | | | | | | | | | | | | 8 | 2 | 1 | 11
+B110401 | Acquisition du matèriel didactique | Mat didact | dot école | 211 | 39 | 10 | 3 | 52 | 13 | 16 | 80 | 8 | 2 | 1 | 11
+B110402 | Formation des 135 enseignants | Formation | coût unitaire | 6 | 23 | 34 | 25 | 82 | 37 | 16 | 135 | 0 | 0 | 0 | 1
+B1105 | Renforcement des outils et des programmes d'éveil pour le préscolaire par la conception et la diffusion du programme d'éducation parentale | | | | | | | | | | | | 78 | 84 | 84 | 246
+B110501 | Organisation d'ateliers d'éducation parentales | Educ parent | forfait | 60 000 | 1,3 | 1,4 | 1,4 | 4 | 1,5 | 1,6 | 7 | 78 | 84 | 84 | 246
+B1106 | Encadrement du préscolaire non formel par la construction et l'équipement de 38 CRPE | | | | | | | | | | | | 38 | 38 | 38 | 114
+B110601 | Construction des 38 CRPE | Construction | CRPE | 10 000 | 4 | 4 | 4 | 11 | 4 | 4 | 19 | 38 | 38 | 38 | 114
+B1107 | Formation de 54 inspecteurs du préscolaire | | | | | | | | | | | | 8 | 0 | 0 | 8
+B110701 | Elaboration d'un référentiel de formation | Consultation nat | hm | 2 800 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+B110702 | Développement des modules et supports de formation | Frais divers | forfait | 5 000 | 1 | | | 1 | | | 1 | 5 | 0 | 0 | 5
+B110703 | Formation de formateurs | Formation | formé | 20 | 9 | | | 9 | | | 9 | 0 | 0 | 0 | 0
+B1108 | Intégration de la formation sur la première enfance dans les programmes des ENI et Renforcement de la formation du personnel d'encadrement de la petite enfance | | | | | | | | | | | | 4 | 1 | 1 | 6
+B110801 | Conception du module | Consultation nat | hm | 2 800 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+B110802 | Appui à la formation continue des monitrices réalisée par le CFPE | Formation | un formé | 20 | 41 | 64 | 46 | 151 | 77 | 38 | 265 | 1 | 1 | 1 | 3
 
 DPEF/PNDSE-2
 
@@ -5381,42 +5761,36 @@ Plan d'action
 
 [[START OF PAGE 123]]
 
-Code | Nature | Unité | Prix | Quantités | Total | Coûts (millions | d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-analytique | 2011 000 UM | 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | 2012 | 2013 | 2014 | 2012-14
-#### B2 | Promotion de l'Accès Universel au Fondamental
-| 3 975 | 4 202 | 3 654 | 11 832
-##### B21 | Renforcer et restructurer l'offre en vue d'élargir la capacité d'accueil
-| 2 256 | 2 396 | 1 949 | 6 601
-B2101 | Restructuration de l'offre | 745 | 732 | 12 | 1 489
-B210101 | Amélioration gestion multigrade - Outils de gestion | Consultation mixte | hm | 4 200 | 3 | 3 | 3 | 13 | 0 | 0 | 13
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+#### B2 | Promotion de l'Accès Universel au Fondamental | | | | | | | | | | | | 3 975 | 4 202 | 3 654 | 11 832
+##### B21 | Renforcer et restructurer l'offre en vue d'élargir la capacité d'accueil | | | | | | | | | | | | 2 256 | 2 396 | 1 949 | 6 601
+B2101 | Restructuration de l'offre | | | | | | | | | | | | 745 | 732 | 12 | 1 489
+B210101 | Amélioration gestion multigrade - Outils de gestion | Consultation mixte | hm | 4 200 | 3 | | | 3 | | | 3 | 13 | 0 | 0 | 13
 B210102 | Amélioration gestion multigrade - Formation des directeurs d'écoles | Atelier | un formé | 20 | 600 | 600 | 600 | 1 800 | 600 | 600 | 3 000 | 12 | 12 | 12 | 36
 B210103 | Regroupement d'écoles | Frais divers | 1 regroup | 30 000 | 24 | 24 | 0 | 48 | 0 | 0 | 48 | 720 | 720 | 0 | 1 440
-B2102 | Extension et l'amélioration des capacités de l'offre | 1 511 | 1 664 | 1 937 | 5 112
+B2102 | Extension et l'amélioration des capacités de l'offre | | | | | | | | | | | | 1 511 | 1 664 | 1 937 | 5 112
 B210201 | Consturuction de salles de classe dans la Capitale | Construction | salle classe | 3 800 | 62 | 65 | 75 | 202 | 96 | 104 | 402 | 234 | 247 | 286 | 766
 B210202 | Construction de salles de classe à l'interieur du Pays | Construction | salle classe | 4 200 | 100 | 134 | 189 | 423 | 297 | 325 | 1 045 | 421 | 561 | 795 | 1 777
 B210203 | Réhabilitation d'écoles | Réhabilitation | salle classe | 1 500 | 571 | 571 | 571 | 1 713 | 571 | 571 | 2 854 | 856 | 856 | 856 | 2 569
-##### B22 | Impulser la demande en vue de résorber les disparités en matière de scolarisation
-| 16 | 3 | 3 | 22
-B2201 | Réalisation d'une étude sur les facteurs de demande agissant sur la rétention et la non scolarisation | 4 | 0 | 0 | 4
-B220101 | Elaboration de l'étude | Consultation mixte | hm | 4 200 | 1,0 | 1,0 | 1,0 | 4 | 0 | 0 | 4
-B2202 | Stimulation de la demande d'éducation par un appui aux familles pauvres et défavorisées | 0 | 0 | 0 | 0
-B220201 | Financement des fournitures scolaires Fournitures sco kit/élève | 0 | 0 | 0 | 0 | 0 | 0
-B2203 | Campagnes de sensibilisation | 3 | 3 | 3 | 9
+##### B22 | Impulser la demande en vue de résorber les disparités en matière de scolarisation | | | | | | | | | | | | 16 | 3 | 3 | 22
+B2201 | Réalisation d'une étude sur les facteurs de demande agissant sur la rétention et la non scolarisation | | | | | | | | | | | | 4 | 0 | 0 | 4
+B220101 | Elaboration de l'étude | Consultation mixte | hm | 4 200 | 1,0 | | | 1,0 | | | 1,0 | 4 | 0 | 0 | 4
+B2202 | Stimulation de la demande d'éducation par un appui aux familles pauvres et défavorisées | | | | | | | | | | | | 0 | 0 | 0 | 0
+B220201 | Financement des fournitures scolaires | Fournitures sco | kit/élève | 0 | | | | 0 | | | 0 | 0 | 0 | 0 | 0
+B2203 | Campagnes de sensibilisation | | | | | | | | | | | | 3 | 3 | 3 | 9
 B220301 | Organisation des campagnes | Campagne | forfait | 1 000 | 3 | 3 | 3 | 9 | 3 | 3 | 15 | 3 | 3 | 3 | 9
-B2204 | Atténuation des disparités entre genres, régions et milieux socio- économiques | 8 | 0 | 0 | 8
-B220401 | Réalisation de 3 études (pour 3 zones) : analyse des causes et mesures correctives | Consultation nat | hm | 2 800 | 3 | 3 | 3 | 8 | 0 | 0 | 8
-##### B23 | Développer une offre alternative (non formelle) pour scolariser une demande potentielle spécifique (non scolarisés déscolarisés)
-| 369 | 450 | 230 | 1 048
-B2301 | Instauration d'un cadre institutionnel adéquat et Elaboration d'une politique et d'une stratégie nationale d'EPNF | 7 | 0 | 0 | 7
-B230101 | Elaboration du cadre institutionnel, de la politique et de la stratégie nationale d'EPNF | Consultation mixte | hm | 4 200 | 1 | 1 | 1 | 4 | 0 | 0 | 4
-B230102 | Organisation d'un atelier de validation et d'instauration | Atelier | forfait | 3 000 | 1 | 1 | 1 | 3 | 0 | 0 | 3
-B2302 | Expérimentation d'un modèle d'éducation primaire non formelle | 362 | 450 | 230 | 1 041
-B230201 | Identification et selection des bénéficiares | Frais divers | forfait | 16 600 | 1 | 1 | 1 | 17 | 0 | 0 | 17
-B230202 | Elaboration du manuel de Procédures de l'EPNF | Consultation nat | hm | 2 800 | 2 | 2 | 2 | 7 | 0 | 0 | 7
-B230203 | Sélection des opérateurs | Frais divers | forfait | 3 300 | 1 | 1 | 1 | 3 | 0 | 0 | 3
-B230204 | Construction et équipement des infrastructures | Construction | Salle équipée | 3 670 | 60 | 60 | 120 | 120 | 220 | 220 | 0 | 440
-B230205 | Formation & encadrement | Formation | forfait | 500 000 | 0,2 | 0,4 | 0,4 | 1 | 1 | 100 | 200 | 200 | 500
+B2204 | Atténuation des disparités entre genres, régions et milieux socio-économiques | | | | | | | | | | | | 8 | 0 | 0 | 8
+B220401 | Réalisation de 3 études (pour 3 zones) : analyse des causes et mesures correctives | Consultation nat | hm | 2 800 | 3 | | | 3 | | | 3 | 8 | 0 | 0 | 8
+##### B23 | Développer une offre alternative (non formelle) pour scolariser une demande potentielle spécifique (non scolarisés déscolarisés) | | | | | | | | | | | | 369 | 450 | 230 | 1 048
+B2301 | Instauration d'un cadre institutionnel adéquat et Elaboration d'une politique et d'une stratégie nationale d'EPNF | | | | | | | | | | | | 7 | 0 | 0 | 7
+B230101 | Elaboration du cadre institutionnel, de la politique et de la stratégie nationale d'EPNF | Consultation mixte | hm | 4 200 | 1 | | | 1 | | | 1 | 4 | 0 | 0 | 4
+B230102 | Organisation d'un atelier de validation et d'instauration | Atelier | forfait | 3 000 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+B2302 | Expérimentation d'un modèle d'éducation primaire non formelle | | | | | | | | | | | | 362 | 450 | 230 | 1 041
+B230201 | Identification et selection des bénéficiares | Frais divers | forfait | 16 600 | 1 | | | 1 | | | 1 | 17 | 0 | 0 | 17
+B230202 | Elaboration du manuel de Procédures de l'EPNF | Consultation nat | hm | 2 800 | 2 | | | 2 | | | 2 | 7 | 0 | 0 | 7
+B230203 | Sélection des opérateurs | Frais divers | forfait | 3 300 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+B230204 | Construction et équipement des infrastructures | Construction | Salle équipée | 3 670 | 60 | 60 | | 120 | | | 120 | 220 | 220 | 0 | 440
+B230205 | Formation & encadrement | Formation | forfait | 500 000 | 0,2 | 0,4 | 0,4 | 1 | | | 1 | 100 | 200 | 200 | 500
 
 DPEF/PNDSE-2
 
@@ -5428,39 +5802,35 @@ Plan d'action
 
 [[START OF PAGE 124]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | 2012 | 2013 | 2014 | Quantités 2012-14 | 2015 | 2016 | Total | 2012 | Coûts | (millions 2013 2014 | d'UM) 2012-14
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1 | 74
-B230206 | Suivi/évaluation des activités | Frais divers | forfait | 74 000 | 0,2 | 0,4 | 0,4 | 1 | 15 | 30 | 30
-B2303 | Généralisation du modèle d'éducation primaire non formelle | 0 | 0 | 0 | 0
-B230301 | Développement des curricula | Consultation mixte | hm | 4 200 | 0 | 8 | 8 | 0 | 0 | 0 | 0
-B230302 | Validation des curricula | Atelier | forfait | 5 000 | 0 | 1 | 1 | 0 | 0 | 0 | 0
-B230303 | Distribution des manuels scolaires | Manuels | Manuel | 0,3 | 0 | 0 | 0 | 0 | 0 | 0
-B230304 | Formation des personnels d'encadrement | Formation | forfait | 20 000 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 0
-B230305 | Développement d'un cadre de partenariat avec les ONG et les acteurs de la société civile | Consultation nat | hm | 2 800 | 0 | 2 | 2 | 0 | 0 | 0 | 0
-B230306 | Appui à la création de centres d'éducation communautaires primaires non formelle | Fonds de soutien | forfait/centre | 1 500 | 0 | 250 | 250 | 500 | 0 | 0 | 0 | 0
-B2304 | Mise en place de passerelles avec l'éducation formelle et la FTP | 0 | 0 | 0 | 0
-B230401 | Identification et conception des passerelles | Consultation mixte | hm | 4 200 | 0 | 2 | 2 | 0 | 0 | 0 | 0
-B230402 | Organisation d'un atelier de validation | Atelier | forfait | 5 000 | 0 | 1 | 1 | 0 | 0 | 0 | 0
-##### B24 | Promouvoir l'alimentation en milieu scolaire
-| 1 335 | 1 353 | 1 473 | 4 161
-B2401 | Elaboration d'une politique et d'un plan d'action | 13 | 0 | 0 | 13
-B240101 | Elaboration de la politique et du PA | Consultation mixte | hm | 4 800 | 2 | 2 | 2 | 10 | 0 | 0 | 10
-B240102 | Organisation de l'atelier de validation | Atelier | forfait | 1 000 | 1 | 1 | 1 | 1 | 0 | 0 | 1
-B240103 | Elaboration d'un cadre juridique et réglementaire Consultation nat hm 2 800 1 1 1 Appui aux cantines scolaires | 3 1 322 | 1 353 | 0 0 1 473 | 3 4 148
-B2402 B240201 | Cantines scolaires | Cantine | forfait | 8 | 144 344 | 149 | 154 | 0 | 162 420 | 171 864 | 0 | 0 | 0 | 0 1 278 | 0 3 700
-B240202 | Approvisionnement des cantines scolaires Construction des cantines scolaires | Alimentation Construction | ration/el/an cantine | 4 000 | 29 | 181 27 | 947 43 | 448 472 100 | 43 | 43 | 782 757 186 | 1 191 116 | 1 109 | 231 173
-B240203 B240204 | Equipement des cantines scolaires | Equipement | cantine | 500 | 29 | 43 | 43 | 398
-27 | 43 | 100 | 186 | 15 | 14 | 22 | 50
-#### B3 | Elargir l'accès au premier cycle de l'enseignement secondaire général et maîtriser le développement du second cycle
-| 676 | 385 | 400 | 1 460
-##### B31 | Elargir l'accès au premier cycle
-| 388 | 164 | 167 | 718
-B3101 | Mise en place d'une carte scolaire opérationnelle et la réorganisation/restructuration de l'offre entre le premier et le second cycle en fonction des données de cette carte | 8 | 0 | 0 | 8
-B310101 | 0 | 0 | 8
-Mise en place de la carte scolaire | Consultation mixte | hm | 4 200 | 2,0 | 2 | 2 | 8 | 475
-B3102 B310201 | Développement des infrastructures scolaires Construction de salles de classe | Construction | salle classe | 5 000 | 59 | 17 | 19 | 95 | 88 | 42 | 225 | 294 294 | 86 | 95 86 95 | 475
-B3103 | Réhabilitation des infrastructures scolaires | 67 | 68 | 69 | 204
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+B230206 | Suivi/évaluation des activités | Frais divers | forfait | 74 000 | 0,2 | 0,4 | 0,4 | 1 | | | 1 | 15 | 30 | 30 | 74
+B2303 | Généralisation du modèle d'éducation primaire non formelle | | | | | | | | | | | | 0 | 0 | 0 | 0
+B230301 | Développement des curricula | Consultation mixte | hm | 4 200 | | | | 0 | 8 | | 8 | 0 | 0 | 0 | 0
+B230302 | Validation des curricula | Atelier | forfait | 5 000 | | | | 0 | 1 | | 1 | 0 | 0 | 0 | 0
+B230303 | Distribution des manuels scolaires | Manuels | Manuel | 0,3 | | | | 0 | | | 0 | 0 | 0 | 0 | 0
+B230304 | Formation des personnels d'encadrement | Formation | forfait | 20 000 | | | | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 0
+B230305 | Développement d'un cadre de partenariat avec les ONG et les acteurs de la société civile | Consultation nat | hm | 2 800 | | | | 0 | 2 | | 2 | 0 | 0 | 0 | 0
+B230306 | Appui à la création de centres d'éducation communautaires primaires non formelle | Fonds de soutien | forfait/centre | 1 500 | | | | 0 | 250 | 250 | 500 | 0 | 0 | 0 | 0
+B2304 | Mise en place de passerelles avec l'éducation formelle et la FTP | | | | | | | | | | | | 0 | 0 | 0 | 0
+B230401 | Identification et conception des passerelles | Consultation mixte | hm | 4 200 | | | | 0 | 2 | | 2 | 0 | 0 | 0 | 0
+B230402 | Organisation d'un atelier de validation | Atelier | forfait | 5 000 | | | | 0 | 1 | | 1 | 0 | 0 | 0 | 0
+##### B24 | Promouvoir l'alimentation en milieu scolaire | | | | | | | | | | | | 1 335 | 1 353 | 1 473 | 4 161
+B2401 | Elaboration d'une politique et d'un plan d'action | | | | | | | | | | | | 13 | 0 | 0 | 13
+B240101 | Elaboration de la politique et du PA | Consultation mixte | hm | 4 800 | 2 | | | 2 | | | 2 | 10 | 0 | 0 | 10
+B240102 | Organisation de l'atelier de validation | Atelier | forfait | 1 000 | 1 | | | 1 | | | 1 | 1 | 0 | 0 | 1
+B240103 | Elaboration d'un cadre juridique et réglementaire | Consultation nat | hm | 2 800 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+B2402 | Appui aux cantines scolaires | | | | | | | | | | | | 1 322 | 1 353 | 1 473 | 4 148
+B240201 | Cantines scolaires | Cantine | forfait | 0 | | | | 0 | | | 0 | 0 | 0 | 0 | 0
+B240202 | Approvisionnement des cantines scolaires | Alimentation | ration/el/an | 8 | 144 344 | 149 181 | 154 947 | 448 472 | 162 420 | 171 864 | 782 757 | 1 191 | 1 231 | 1 278 | 3 700
+B240203 | Construction des cantines scolaires | Construction | cantine | 4 000 | 29 | 27 | 43 | 100 | 43 | 43 | 186 | 116 | 109 | 173 | 398
+B240204 | Equipement des cantines scolaires | Equipement | cantine | 500 | 29 | 27 | 43 | 100 | 43 | 43 | 186 | 15 | 14 | 22 | 50
+#### B3 | Elargir l'accès au premier cycle de l'enseignement secondaire général et maîtriser le développement du second cycle | | | | | | | | | | | | 676 | 385 | 400 | 1 460
+##### B31 | Elargir l'accès au premier cycle | | | | | | | | | | | | 388 | 164 | 167 | 718
+B3101 | Mise en place d'une carte scolaire opérationnelle et la réorganisation/restructuration de l'offre entre le premier et le second cycle en fonction des données de cette carte | | | | | | | | | | | | 8 | 0 | 0 | 8
+B310101 | Mise en place de la carte scolaire | Consultation mixte | hm | 4 200 | 2,0 | | | 2 | | | 2 | 8 | 0 | 0 | 8
+B3102 | Développement des infrastructures scolaires | | | | | | | | | | | | 294 | 86 | 95 | 475
+B310201 | Construction de salles de classe | Construction | salle classe | 5 000 | 59 | 17 | 19 | 95 | 88 | 42 | 225 | 294 | 86 | 95 | 475
+B3103 | Réhabilitation des infrastructures scolaires | | | | | | | | | | | | 67 | 68 | 69 | 204
 
 DPEF/PNDSE-2
 
@@ -5472,41 +5842,35 @@ Plan d'action
 
 [[START OF PAGE 125]]
 
-Code analytique | Nature | Unité | Prix 2011 | 2012 | 2013 | Quantités | 2016 | Total | 2012 | Coûts | (millions 2013 2014 | d'UM) 2012-14
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-000 UM | 2014 | 2012-14 | 2015
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
 B310301 | Réhabilitation de salles de classe | Réhabilitation | salle classe | 3 000 | 22 | 23 | 23 | 68 | 23 | 22 | 113 | 67 | 68 | 69 | 204
-B3104 | Mise en place d'un dispositif d'orientation scolaire | 7 | 7 | 0 | 13
-B310401 | Conception du dispositif | Consultation mixte | hm | 4 200 | 1 | 1 | 2 | 2 | 4 | 4 | 0 | 8
-B310402 | Organisation d'un atelier de validation | Atelier | forfait | 2 500 | 1 | 1 | 2 | 2 | 3 | 3 | 0 | 5
-B3105 | Mise en place de mesures visant la promotion de la scolarisation des filles, notamment en milieu rural, en vue de réduire les disparités de genre | 11 | 3 | 3 | 17
-B310501 | Elaboration de 3 études (pour 3 zones) : analyse des causes et mesures correctives | Consultation nat | hm | 2 800 | 3 | 3 | 3 | 8 | 0 | 0 | 8
+B3104 | Mise en place d'un dispositif d'orientation scolaire | | | | | | | | | | | | 7 | 7 | 0 | 13
+B310401 | Conception du dispositif | Consultation mixte | hm | 4 200 | 1 | 1 | | 2 | | | 2 | 4 | 4 | 0 | 8
+B310402 | Organisation d'un atelier de validation | Atelier | forfait | 2 500 | 1 | 1 | | 2 | | | 2 | 3 | 3 | 0 | 5
+B3105 | Mise en place de mesures visant la promotion de la scolarisation des filles, notamment en milieu rural, en vue de réduire les disparités de genre | | | | | | | | | | | | 11 | 3 | 3 | 17
+B310501 | Elaboration de 3 études (pour 3 zones) : analyse des causes et mesures correctives | Consultation nat | hm | 2 800 | 3 | | | 3 | | | 3 | 8 | 0 | 0 | 8
 B310502 | Réalisation de 3 campagnes de sensibilisation (3 zones) | Campagne | forfait | 1 000 | 3 | 3 | 3 | 9 | 3 | 3 | 15 | 3 | 3 | 3 | 9
-##### B32 | Maitriser les effectifs au second cycle et améliorer la qualité de l'accueil
-| 122 | 47 | 49 | 218
-B3201 | Développement des infrastructures scolaires | 102 | 28 | 31 | 161
-B320101 | Consturuction de salles de classe Construction salle classe 5 000 20 6 6 32 29 15 76 | 102 | 28 | 31 | 161
-B3202 | Réhabilitation des infrastructures scolaires | 20 | 19 | 18 | 57
-B320201 | Réhabilitation de salles de classe Réhabilitation salle classe 3 000 7 6 6 19 6 7 32 | 20 | 19 | 18 | 57
-##### B33 | Promouvoir le développement d'un enseignement secondaire privé de qualité
-| 167 | 174 | 184 | 524
-B3301 | Elaboration d'un cahier des charges d'ouverture et de fonctionnement des établissements privés et la mise en place d'un dispositif de contrôle approprié de respect des normes | 3 | 0 | 0 | 3
-B330101 B3302 | Elaboration du cahier de charge et du dispositif de contrôle | Consultation nat | hm | 2 800 | 1 | 1 | 1 | 3 | 0 | 0 | 3
-B330201 | Création d'un fonds de promotion de l'enseignement privé Création et dotation du fonds Fonds de soutien Subv/élève 4,5 35 781 38 584 40 900 115 265 42 784 44 899 202 947 | 161 161 | 174 174 | 184 184 | 519 519
-B3303 B330301 | Mise en place d'une base de données de l'enseignement privé | 3 3 | 0 | 0 0 | 3 3
-Création et mise en place de la base de données Consultation nat hm 2 800 1 1 1
-#### B4 | Développer l'offre de la FTP
-| 525 | 0 1 051 | 1 617 | 3 193
-##### B41 | Elargir la capacité d'accueil du dispositif en formation initiale
-| 395 | 813 | 1 353 | 2 561
-B4101 | Rationalisation/extension de l'offre | 67 | 57 | 157 | 281
-B410101 | 133 | 210
-Extension des locaux des établissements FTP Construction forfait 442 857 0,097 0,075 0,301 0 0,301 0,226 1 Réhabilitation des locaux des établissements FTP Construction forfait 119 033 0,201 0,201 0,201 1 0,201 0,198 1 pôles de formation régionaux en fonction des branches | 43 | 33
-B410102 B4102 | Mise de professionnelles prédominantes (agriculture, industrie, hôtellerie-tourisme, | 24 0 | 24 11 | 24 | 72
-en place BTP, etc.) | 0 | 11
-B410201 | 0 | 8 | 0 | 8
-Réalisation d'une étude opportunité Consultation mixte hm 2 800 3 3 3 Elaboration d'un Plan d'action Atelier forfait 3 000 1 1 1 d'apprentissage formation insertion (formation | 0 | 3 | 0 | 3
-B410202 B4103 | Mise en place d'un dispositif qualifiante) | 328 | 744 | 1 196 | 2 269
+##### B32 | Maitriser les effectifs au second cycle et améliorer la qualité de l'accueil | | | | | | | | | | | | 122 | 47 | 49 | 218
+B3201 | Développement des infrastructures scolaires | | | | | | | | | | | | 102 | 28 | 31 | 161
+B320101 | Consturuction de salles de classe | Construction | salle classe | 5 000 | 20 | 6 | 6 | 32 | 29 | 15 | 76 | 102 | 28 | 31 | 161
+B3202 | Réhabilitation des infrastructures scolaires | | | | | | | | | | | | 20 | 19 | 18 | 57
+B320201 | Réhabilitation de salles de classe | Réhabilitation | salle classe | 3 000 | 7 | 6 | 6 | 19 | 6 | 7 | 32 | 20 | 19 | 18 | 57
+##### B33 | Promouvoir le développement d'un enseignement secondaire privé de qualité | | | | | | | | | | | | 167 | 174 | 184 | 524
+B3301 | Elaboration d'un cahier des charges d'ouverture et de fonctionnement des établissements privés et la mise en place d'un dispositif de contrôle approprié de respect des normes | | | | | | | | | | | | 3 | 0 | 0 | 3
+B330101 | Elaboration du cahier de charge et du dispositif de contrôle | Consultation nat | hm | 2 800 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+B3302 | Création d'un fonds de promotion de l'enseignement privé | | | | | | | | | | | | 161 | 174 | 184 | 519
+B330201 | Création et dotation du fonds | Fonds de soutien | Subv/élève | 4,5 | 35 781 | 38 584 | 40 900 | 115 265 | 42 784 | 44 899 | 202 947 | 161 | 174 | 184 | 519
+B3303 | Mise en place d'une base de données de l'enseignement privé | | | | | | | | | | | | 3 | 0 | 0 | 3
+B330301 | Création et mise en place de la base de données | Consultation nat | hm | 2 800 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+#### B4 | Développer l'offre de la FTP | | | | | | | | | | | | 525 | 1 051 | 1 617 | 3 193
+##### B41 | Elargir la capacité d'accueil du dispositif en formation initiale | | | | | | | | | | | | 395 | 813 | 1 353 | 2 561
+B4101 | Rationalisation/extension de l'offre | | | | | | | | | | | | 67 | 57 | 157 | 281
+B410101 | Extension des locaux des établissements FTP | Construction | forfait | 442 857 | 0,097 | 0,075 | 0,301 | 0 | 0,301 | 0,226 | 1 | 43 | 33 | 133 | 210
+B410102 | Réhabilitation des locaux des établissements FTP | Construction | forfait | 119 033 | 0,201 | 0,201 | 0,201 | 1 | 0,201 | 0,198 | 1 | 24 | 24 | 24 | 72
+B4102 | Mise en place de pôles de formation régionaux en fonction des branches professionnelles prédominantes (agriculture, industrie, hôtellerie-tourisme, BTP, etc.) | | | | | | | | | | | | 0 | 11 | 0 | 11
+B410201 | Réalisation d'une étude opportunité | Consultation mixte | hm | 2 800 | | 3 | | 3 | | | 3 | 0 | 8 | 0 | 8
+B410202 | Elaboration d'un Plan d'action | Atelier | forfait | 3 000 | | 1 | | 1 | | | 1 | 0 | 3 | 0 | 3
+B4103 | Mise en place d'un dispositif d'apprentissage formation insertion (formation qualifiante) | | | | | | | | | | | | 328 | 744 | 1 196 | 2 269
 
 DPEF/PNDSE-2
 
@@ -5518,44 +5882,39 @@ Plan d'action
 
 [[START OF PAGE 126]]
 
-Code | Nature | Unité | Prix 2011 | Quantités | Total | Coûts (millions
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-analytique | 000 UM | 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | 2012 | 2013 | d'UM) 2014 | 2012-14
-B410301 | Elaboration d'un cadre de reference de la formation qualifiante | Frais divers | forfait | 30 000 | 1,0 | 1,0 | 1,0 | 30 | 0 | 0 | 30
-B410302 | Elaboration du manuel de procédures | Consultation nat | hm | 2 800 | 1,3 | 1,3 | 1,3 | 4 | 0 | 0 | 4
-B410303 | Développement ingénierie formation/insertion (élaboration curricula) | Consultation int | hm | 5 600 | 10,0 | 9,0 | 7,0 | 26,0 | 26,0 | 56 | 50 | 39 | 146
-B410304 | Production d'outils et de supports de formation | Manuels | Manuel | 81 000 | 0,2 | 0,5 | 0,3 | 1,0 | 1,0 | 16 | 41 | 24 | 81
-B410305 | Identification secteurs porteurs, filières, partenaires et formateurs | Frais divers | forfait | 42 300 | 0,7 | 0,3 | 1,0 | 1,0 | 30 | 13 | 0 | 42
-B410306 | Identification, sensibilisation et formation des opérateurs | Consultation int | hm | 5 600 | 7,0 | 5,0 | 3,0 | 15,0 | 15,0 | 39 | 28 | 17 | 84
+B410301 | Elaboration d'un cadre de reference de la formation qualifiante | Frais divers | forfait | 30 000 | 1,0 | | | 1,0 | | | 1,0 | 30 | 0 | 0 | 30
+B410302 | Elaboration du manuel de procédures | Consultation nat | hm | 2 800 | 1,3 | | | 1,3 | | | 1,3 | 4 | 0 | 0 | 4
+B410303 | Développement ingénierie formation/insertion (élaboration curricula) | Consultation int | hm | 5 600 | 10,0 | 9,0 | 7,0 | 26,0 | | | 26,0 | 56 | 50 | 39 | 146
+B410304 | Production d'outils et de supports de formation | Manuels | Manuel | 81 000 | 0,2 | 0,5 | 0,3 | 1,0 | | | 1,0 | 16 | 41 | 24 | 81
+B410305 | Identification secteurs porteurs, filières, partenaires et formateurs | Frais divers | forfait | 42 300 | 0,7 | 0,3 | | 1,0 | | | 1,0 | 30 | 13 | 0 | 42
+B410306 | Identification, sensibilisation et formation des opérateurs | Consultation int | hm | 5 600 | 7,0 | 5,0 | 3,0 | 15,0 | | | 15,0 | 39 | 28 | 17 | 84
 B410307 | Mise en œuvre des formations - insertion | Formation | forfait | 5 824 313 | 0,024 | 0,103 | 0,189 | 0,317 | 0,281 | 0,403 | 1,0 | 141 | 600 | 1 103 | 1 844
 B410308 | Suivi/évaluation des activités | Frais divers | forfait | 63 700 | 0,2 | 0,2 | 0,2 | 0,6 | 0,2 | 0,2 | 1,0 | 13 | 13 | 13 | 38
-##### B42 | Promouvoir la formation continue (FC) en cours d'emploi
-| 32 | 4 | 4 | 40
-B4201 | Mise en place d'un dispositif pérenne de financement de la FC | 17 | 0 | 0 | 17
-B420101 | Elaboration du dispositif | Consultation mixte | hm | 4 200 | 4,0 | 4 | 4 | 17 | 0 | 0 | 17
-B4202 | Développement des capacités en ingénierie de la FC | 4 | 4 | 4 | 12
+##### B42 | Promouvoir la formation continue (FC) en cours d'emploi | | | | | | | | | | | 32 | 4 | 4 | 40
+B4201 | Mise en place d'un dispositif pérenne de financement de la FC | | | | | | | | | | | 17 | 0 | 0 | 17
+B420101 | Elaboration du dispositif | Consultation mixte | hm | 4 200 | 4,0 | | | 4 | | | 4 | 17 | 0 | 0 | 17
+B4202 | Développement des capacités en ingénierie de la FC | | | | | | | | | | | 4 | 4 | 4 | 12
 B420201 | Formation des structures en charge de la FC | Formation | forfait | 20 000 | 0,2 | 0,2 | 0,2 | 0,6 | 0,2 | 0,2 | 1,0 | 4 | 4 | 4 | 12
-B4203 | Elaboration et mise en œuvre de plans sectoriels de FC | 12 | 0 | 0 | 12
-B420301 | Elaboration des plans sectoriels | Consultation mixte | hm | 4 800 | 2 | 2 | 2 | 10 | 0 | 0 | 10
-B420302 | Organisation d'un atelier de validation et de mise en place des plans sectoriel | Atelier | forfait | 2 000 | 1 | 1 | 1 | 2 | 0 | 0 | 2
-##### B43 | Promouvoir le développement d'une offre privée de FTP
-| 20 | 0 | 0 | 20
-B4301 | Réalisation d'un audit de la FTP priée | 8 | 0 | 0 | 8
-B430101 | Réalisation de l'audit | Consultation mixte | hm | 4 200 | 2,00 | 2,00 | 2,00 | 8 | 0 | 0 | 8
-B4302 | Elaboration de cahiers de charge d'ouverture et de fonctionnement des Ets privés de la FTP | 6 | 0 | 0 | 6
-B430201 | Elaboration du cahier de charge | Consultation mixte | hm | 4 200 | 1,50 | 1,50 | 1,50 | 6 | 0 | 0 | 6
-B430202 | Organisation d'un atelier de validation | Atelier | 0,00 | 0,00 | 0 | 0 | 0 | 0
-B4303 | Mise en place d'un dispositif d'appui aux Ets privés de la FTP | 5 | 0 | 0 | 5
-B430301 | Conception du dispositif | Consultation nat | hm | 2 800 | 1,00 | 1,00 | 1,00 | 3 | 0 | 0 | 3
-B430302 | Organisation d'un atelier de validation | Atelier | forfait | 2 000 | 1,00 | 1,00 | 1,00 | 2 | 0 | 0 | 2
-##### B44 | Promouvoir la microfinance en appui à l'auto-emploi
-| 78 | 234 | 260 | 572
-B4401 | Développement d'un dispositif de microfinance pour l'auto-emploi | 78 | 234 | 260 | 572
-65 | 26 | 130
-B440101 | Appui aux bénéficiaires Création et dotation d'une ligne de Microfinance | Frais divers | forfait | 130 000 520 000 | 0,3 | 0,5 0,2 | 0,2 0,4 | 1,0 0,6 | 0,3 | 0,1 | 1,0 1,0 | 39 0 | 104 | 208 | 312
-B440102 B440103 | Renforcement des capacités des IMF | Dotation Frais divers | forfait forfait | 130 000 | 0,3 | 0,5 | 0,2 | 1,0 | 1,0 | 39 | 65 | 26 | 130
-#### B5 | Restructuration et amélioration de l'offre de l'enseignement supérieur
-| 7 621 | 7 649 | 5 836 | 21 107
+B4203 | Elaboration et mise en œuvre de plans sectoriels de FC | | | | | | | | | | | 12 | 0 | 0 | 12
+B420301 | Elaboration des plans sectoriels | Consultation mixte | hm | 4 800 | 2 | | | 2 | | | 2 | 10 | 0 | 0 | 10
+B420302 | Organisation d'un atelier de validation et de mise en place des plans sectoriel | Atelier | forfait | 2 000 | 1 | | | 1 | | | 1 | 2 | 0 | 0 | 2
+##### B43 | Promouvoir le développement d'une offre privée de FTP | | | | | | | | | | | 20 | 0 | 0 | 20
+B4301 | Réalisation d'un audit de la FTP priée | | | | | | | | | | | 8 | 0 | 0 | 8
+B430101 | Réalisation de l'audit | Consultation mixte | hm | 4 200 | 2,00 | | | 2,00 | | | 2,00 | 8 | 0 | 0 | 8
+B4302 | Elaboration de cahiers de charge d'ouverture et de fonctionnement des Ets privés de la FTP | | | | | | | | | | | 6 | 0 | 0 | 6
+B430201 | Elaboration du cahier de charge | Consultation mixte | hm | 4 200 | 1,50 | | | 1,50 | | | 1,50 | 6 | 0 | 0 | 6
+B430202 | Organisation d'un atelier de validation | Atelier | | | | | | 0,00 | | | 0,00 | 0 | 0 | 0 | 0
+B4303 | Mise en place d'un dispositif d'appui aux Ets privés de la FTP | | | | | | | | | | | 5 | 0 | 0 | 5
+B430301 | Conception du dispositif | Consultation nat | hm | 2 800 | 1,00 | | | 1,00 | | | 1,00 | 3 | 0 | 0 | 3
+B430302 | Organisation d'un atelier de validation | Atelier | forfait | 2 000 | 1,00 | | | 1,00 | | | 1,00 | 2 | 0 | 0 | 2
+##### B44 | Promouvoir la microfinance en appui à l'auto-emploi | | | | | | | | | | | 78 | 234 | 260 | 572
+B4401 | Développement d'un dispositif de microfinance pour l'auto-emploi | | | | | | | | | | | 78 | 234 | 260 | 572
+B440101 | Appui aux bénéficiaires | Frais divers | forfait | 130 000 | 0,3 | 0,5 | 0,2 | 1,0 | | | 1,0 | 39 | 65 | 26 | 130
+B440102 | Création et dotation d'une ligne de Microfinance | Dotation | forfait | 520 000 | | 0,2 | 0,4 | 0,6 | 0,3 | 0,1 | 1,0 | 0 | 104 | 208 | 312
+B440103 | Renforcement des capacités des IMF | Frais divers | forfait | 130 000 | 0,3 | 0,5 | 0,2 | 1,0 | | | 1,0 | 39 | 65 | 26 | 130
+#### B5 | Restructuration et amélioration de l'offre de l'enseignement supérieur | | | | | | | | | | | 7 621 | 7 649 | 5 836 | 21 107
 
 DPEF/PNDSE-2
 
@@ -5567,53 +5926,39 @@ Plan d'action
 
 [[START OF PAGE 127]]
 
-Code analytique | Nature | Unité | Prix 2011 | Quantités | Coûts (millions | d'UM)
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-000 | 2012 UM | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-##### B51 | Moderniser et consolider les infrastructures et les conditions d'accueil
-7 590 | 7 634 | 5 816 | 21 040
-B5101 | Construction et l'équipement d'un nouveau Campus moderne pour l'université de Nouakchott 7 336 | 7 040 | 5 373 | 19 749
-0
-B510101 | Travaux de construction des Facultés | 0 0 0 | 0 | 0
-B510102 | Equipement des Facultés | 0 0 | 0 | 0 | 0 | 0
-2 296 | 9 258
-B510103 | Constrution des Etablissements sur le Campus | 3 619 3 343
-Equipement | forfait | 2 326 100 | 0,31 | 0,28 | 0,28 | 0,84 0,14 0,01 1,00 0,87 0,10 0,03 1,00
-B510104 | Equipement des Etablissements sur le Campus | Construction | forfait | 10 999 831 | 0,33 | 0,30 | 0,21 | 720 | 660 | 645 | 2 025
-B510105 | Construction des structures de restauration universitaire Construction forfait 8 012 506 0,24 0,24 0,25 | 0,74 | 0,24 | 0,02 | 1,00 | 1 925 | 1 958 | 2 009 | 5 892
-B510106 | Construction des résidences universitaires Construction forfait 2 087 699 0,19 0,20 0,20 Construction des locaux des services communs Construction forfait 1 334 000 0,50 0,50 0,00 de locaux pour l'ISCAE | 0,59 1,00 | 0,38 | 0,02 | 1,00 | 405 | 412 | 423 | 1 240
-B510107 | 0,00 | 0,00 | 1,00 | 667 | 667 | 0 | 1 334
-B5102 | Construction et l'équipement 234 | 574 | 422 | 1 229
-B510201
-Construction des locaux | Construction | forfait | 1 099 514 | 0,17 | 0,43 | 0,30 | 0,91 | 0,08 | 0,01 | 1,00 | 191 | 478 | 328 | 996
-B510202 | Equipement des locaux Equipement forfait 239 000 0,18 0,40 0,39 0,97 0,02 0,01 1,00 43 20 | 96 20 | 94 21 | 233
-B5103 | Equipement ENS | 21 | 61
-B510301 | Equipemennt de l'ENS Equipement forfait/labo 17 000 1,2 1,2 1,3 3,6 0,9 0,3 4,8 20 | 20 | 21 | 61
-##### B52 | Restructurer et diversifier l'offre de l'enseignement supérieur
-| 10 | 15 | 18 | 43
-B5201 | Développement d'une offre de formation à distance | 0 | 8 | 8
-0
-B520101 | Etude des opportunités de développement de l'Enseignement supérieur à distance Consultation mixte hm 4 200 2 2 2 Mise en place de formations à distance pilotes Frais divers forfait 20 000 0 1 1 2 Développement d'offres de FC | 0 0 | 0 0 0 | 8 0 | 8 0
-B520102 | 0
-B5202 | 0 | 0
-B520201 | 0 | 0
-Conception du dispositif mixte | Consultation | hm | 4 200 | 0 | 5 | 5 | 0 | 0 0 | 0 | 0
-B520202 | Elaboration du cadre juridique et réglementaire Consultation nat hm 2 800 0 1 1 Elaboration des programmes de formation Atelier forfait 10 000 0 1 1 la professionnalisation des filières | 0 | 0 | 0 | 0
-B520203 | Renforcement de | 0 | 10 | 10 | 30
+##### B51 | Moderniser et consolider les infrastructures et les conditions d'accueil | | | | | | | | | | | 7 590 | 7 634 | 5 816 | 21 040
+B5101 | Construction et l'équipement d'un nouveau Campus moderne pour l'université de Nouakchott | | | | | | | | | | | 7 336 | 7 040 | 5 373 | 19 749
+B510101 | Travaux de construction des Facultés | | | | | | | 0 | | | 0 | 0 | 0 | 0 | 0
+B510102 | Equipement des Facultés | | | | | | | 0 | | | 0 | 0 | 0 | 0 | 0
+B510103 | Constrution des Etablissements sur le Campus | Construction | forfait | 10 999 831 | 0,33 | 0,30 | 0,21 | 0,84 | 0,14 | 0,01 | 1,00 | 3 619 | 3 343 | 2 296 | 9 258
+B510104 | Equipement des Etablissements sur le Campus | Equipement | forfait | 2 326 100 | 0,31 | 0,28 | 0,28 | 0,87 | 0,10 | 0,03 | 1,00 | 720 | 660 | 645 | 2 025
+B510105 | Construction des structures de restauration universitaire | Construction | forfait | 8 012 506 | 0,24 | 0,24 | 0,25 | 0,74 | 0,24 | 0,02 | 1,00 | 1 925 | 1 958 | 2 009 | 5 892
+B510106 | Construction des résidences universitaires | Construction | forfait | 2 087 699 | 0,19 | 0,20 | 0,20 | 0,59 | 0,38 | 0,02 | 1,00 | 405 | 412 | 423 | 1 240
+B510107 | Construction des locaux des services communs | Construction | forfait | 1 334 000 | 0,50 | 0,50 | 0,00 | 1,00 | 0,00 | 0,00 | 1,00 | 667 | 667 | 0 | 1 334
+B5102 | Construction et l'équipement de locaux pour l'ISCAE | | | | | | | | | | | 234 | 574 | 422 | 1 229
+B510201 | Construction des locaux | Construction | forfait | 1 099 514 | 0,17 | 0,43 | 0,30 | 0,91 | 0,08 | 0,01 | 1,00 | 191 | 478 | 328 | 996
+B510202 | Equipement des locaux | Equipement | forfait | 239 000 | 0,18 | 0,40 | 0,39 | 0,97 | 0,02 | 0,01 | 1,00 | 43 | 96 | 94 | 233
+B5103 | Equipement ENS | | | | | | | | | | | 20 | 20 | 21 | 61
+B510301 | Equipemennt de l'ENS | Equipement | forfait/labo | 17 000 | 1,2 | 1,2 | 1,3 | 3,6 | 0,9 | 0,3 | 4,8 | 20 | 20 | 21 | 61
+##### B52 | Restructurer et diversifier l'offre de l'enseignement supérieur | | | | | | | | | | | 10 | 15 | 18 | 43
+B5201 | Développement d'une offre de formation à distance | | | | | | | | | | | 0 | 0 | 8 | 8
+B520101 | Etude des opportunités de développement de l'Enseignement supérieur à distance | Consultation mixte | hm | 4 200 | | | 2 | 2 | | | 2 | 0 | 0 | 8 | 8
+B520102 | Mise en place de formations à distance pilotes | Frais divers | forfait | 20 000 | | | | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 0
+B5202 | Développement d'offres de FC | | | | | | | | | | | 0 | 0 | 0 | 0
+B520201 | Conception du dispositif | Consultation mixte | hm | 4 200 | | | | 0 | 5 | | 5 | 0 | 0 | 0 | 0
+B520202 | Elaboration du cadre juridique et réglementaire | Consultation nat | hm | 2 800 | | | | 0 | 1 | | 1 | 0 | 0 | 0 | 0
+B520203 | Elaboration des programmes de formation | Atelier | forfait | 10 000 | | | | 0 | 1 | | 1 | 0 | 0 | 0 | 0
+B5203 | Renforcement de la professionnalisation des filières | | | | | | | | | | | 10 | 10 | 10 | 30
 B520301 | Ouverture de nouvelles filières professionnelles | Frais divers | forfait | 10 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 10 | 10 | 10 | 30
-B5203 B5204 | Maitrise de l'offre de formation à l'étranger | 0 | 10 5 | 0 | 5
-B520401 | Atelier de réflexion pour élaborer un plan d'action Atelier forfait 5 000 1 1 1
-##### B53 | Créer les conditions de développement d'une offre d'enseignement supérieur privée de qualité
-| 0 5 19 0 | 0 2 | 5 21
-B5301 | 6 | 0
-0 | 6
-Elaboration du cadre juridique et institutionnel
-B530101 | hm | 4 200 | 2 | 0 | 6
-B5302 | Elaboration du cadre juridique et institutionnel Consultation | mixte | 1,50 | 2 | 6 | 0 0 | 6
-Mise en place d'un cadre de partenariat entre l'Etat et les établissements privés | 0
-6 | 0 | 6
-B530201 | 6 | 0
-Conception et mise en place du cadre de partenariat Consultation | hm | 4 200 | 1,50 | 2 | 2
+B5204 | Maitrise de l'offre de formation à l'étranger | | | | | | | | | | | 0 | 5 | 0 | 5
+B520401 | Atelier de réflexion pour élaborer un plan d'action | Atelier | forfait | 5 000 | | 1 | | 1 | | | 1 | 0 | 5 | 0 | 5
+##### B53 | Créer les conditions de développement d'une offre d'enseignement supérieur privée de qualité | | | | | | | | | | | 19 | 0 | 2 | 21
+B5301 | Elaboration du cadre juridique et institutionnel | | | | | | | | | | | 6 | 0 | 0 | 6
+B530101 | Elaboration du cadre juridique et institutionnel | Consultation mixte | hm | 4 200 | 1,50 | | | 2 | | | 2 | 6 | 0 | 0 | 6
+B5302 | Mise en place d'un cadre de partenariat entre l'Etat et les établissements privés | | | | | | | | | | | 6 | 0 | 0 | 6
+B530201 | Conception et mise en place du cadre de partenariat | Consultation | hm | 4 200 | 1,50 | | | 2 | | | 2 | 6 | 0 | 0 | 6
 
 DPEF/PNDSE-2
 
@@ -5625,44 +5970,38 @@ Plan d'action
 
 [[START OF PAGE 128]]
 
-Code analytique | Nature | Unité | Prix 2011 | Quantités | Total | Coûts (millions | d'UM)
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | 2012 | 2013 | 2014 | 2012-14
-mixte | 000 UM
-B5303 | Mise en place de mesures d'incitation pour la promotion de l'offre privée | 6 | 0 | 2 | 8
-B530301 | Elaboration et mise en place des mesures d'incitation | Consultation mixte | hm | 4 200 | 1,50 | 0,40 | 2 | 2 | 6 | 0 | 2 | 8
-##### B54 | Mettre en place une politique sociale maîtrisable financièrement
-| 3 | 0 | 0 | 3
-B5401 | Redéfinition de la politique de bourses à l'étranger | 1 | 0 | 0 | 1
-B540102 | Révision de la politique | Consultation nat | hm | 2 800 | 0,5 | 1 | 1 | 1 | 0 | 0 | 1
-B5402 | Mise en place d'une politique d'aides sociales impliquant le secteur privé | 1 | 0 | 0 | 1
-B540201 | Conception et mise en place de la politique | Consultation nat | hm | 2 800 | 0,5 | 1 | 1 | 1 | 0 | 0 | 1
-#### B6 | Promotion de l'Alphabétisation et de l'Enseignement Originel
-| 217 | 526 | 688 | 1 431
-##### B61 | Elargir l'accès et diversifier l'offre d'alphabétisation
-| 20 | 346 | 512 | 879
-B6101 | Appui à la création de centres communautaires de lutte contre l'analphabétisme | 0 | 21 | 32 | 53
-B610101 | Soutien de la création des centres Frais | divers | forfait | 700 | 0 | 30 | 45 | 75 | 45 | 30 | 150 | 0 | 21 | 32 | 53
-B6102 | Développement de programmes de post alphabétisation | 0 | 300 300 | 450 450 | 750 750
-B610201 | Mise en place de bibliothèques communautaires | Documentation | forfait | 10 000 | 0 | 30 | 45 | 75 | 45 | 30 | 150 | 0
-B6103 | Intégration de programmes d'alphabétisation dans tous les projets de développement | 5 | 10 | 16 | 31
+| | mixte | | | | | | | | | | | | | |
+B5303 | Mise en place de mesures d'incitation pour la promotion de l'offre privée | | | | | | | | | | | 6 | 0 | 2 | 8
+B530301 | Elaboration et mise en place des mesures d'incitation | Consultation mixte | hm | 4 200 | 1,50 | | 0,40 | 2 | | | 2 | 6 | 0 | 2 | 8
+##### B54 | Mettre en place une politique sociale maîtrisable financièrement | | | | | | | | | | | 3 | 0 | 0 | 3
+B5401 | Redéfinition de la politique de bourses à l'étranger | | | | | | | | | | | 1 | 0 | 0 | 1
+B540102 | Révision de la politique | Consultation nat | hm | 2 800 | 0,5 | | | 1 | | | 1 | 1 | 0 | 0 | 1
+B5402 | Mise en place d'une politique d'aides sociales impliquant le secteur privé | | | | | | | | | | | 1 | 0 | 0 | 1
+B540201 | Conception et mise en place de la politique | Consultation nat | hm | 2 800 | 0,5 | | | 1 | | | 1 | 1 | 0 | 0 | 1
+#### B6 | Promotion de l'Alphabétisation et de l'Enseignement Originel | | | | | | | | | | | 217 | 526 | 688 | 1 431
+##### B61 | Elargir l'accès et diversifier l'offre d'alphabétisation | | | | | | | | | | | 20 | 346 | 512 | 879
+B6101 | Appui à la création de centres communautaires de lutte contre l'analphabétisme | | | | | | | | | | | 0 | 21 | 32 | 53
+B610101 | Soutien de la création des centres | Frais divers | forfait | 700 | 0 | 30 | 45 | 75 | 45 | 30 | 150 | 0 | 21 | 32 | 53
+B6102 | Développement de programmes de post alphabétisation | | | | | | | | | | | 0 | 300 | 450 | 750
+B610201 | Mise en place de bibliothèques communautaires | Documentation | forfait | 10 000 | 0 | 30 | 45 | 75 | 45 | 30 | 150 | 0 | 300 | 450 | 750
+B6103 | Intégration de programmes d'alphabétisation dans tous les projets de développement | | | | | | | | | | | 5 | 10 | 16 | 31
 B610301 | Formation d'alphabétiseurs et de personnels d'encadrement et supervision andragogique | Formation | forfait | 20 | 10 | 20 | 30 | 60 | 30 | 30 | 120 | 0 | 0 | 1 | 1
 B610302 | Distribution des programmes et outils didactiques | Documentation | forfait | 5 | 1 000 | 2 000 | 3 000 | 6 000 | 3 000 | 3 000 | 12 000 | 5 | 10 | 15 | 30
-B6104 | Promotion de l'alphabétisation à distance | 15 | 15 | 15 | 45
+B6104 | Promotion de l'alphabétisation à distance | | | | | | | | | | | 15 | 15 | 15 | 45
 B610401 | Mise en fonctionnement de la radio | Frais divers | Formé | 15 | 1 000 | 1 000 | 1 000 | 3 000 | 1 000 | 1 000 | 5 000 | 15 | 15 | 15 | 45
-##### B62 | Améliorer la qualité et la pertinence des programmes d'alphabétisation
-| 70 | 80 | 76 | 227
-B6201 | Conception et diffusion en nombre suffisant de manuels et guides d'alphabétisation | 5 | 5 | 5 | 15
+##### B62 | Améliorer la qualité et la pertinence des programmes d'alphabétisation | | | | | | | | | | | 70 | 80 | 76 | 227
+B6201 | Conception et diffusion en nombre suffisant de manuels et guides d'alphabétisation | | | | | | | | | | | 5 | 5 | 5 | 15
 B620101 | Reproduction des manuels et guides (conçus en 2011) | Manuels | Manuel | 0,5 | 10 000 | 10 000 | 10 000 | 30 000 | 10 000 | 10 000 | 50 000 | 5 | 5 | 5 | 15
-B6202 | Développement de l'alphabétisation fonctionnelle | 65 | 75 | 71 | 212
-B620201 | Identification et sélection des beneficiares | Frais divers | forfait | 12 625 | 0,7 | 0,3 | 1,0 | 1,0 | 9 | 4 | 0 | 13
-B620202 | Elaboration du manuel de procédures | Consultation nat | hm | 2 800 | 2,0 | 2,0 | 2,0 | 6 | 0 | 0 | 6
-B620203 | Sélection des opérateurs d'alphabétisation | Consultation nat | hm | 2 800 | 1,2 | 1,2 | 1,2 | 3 | 0 | 0 | 3
-B620204 | Alphabétisation des apprenantes | Frais divers | forfait | 225 000 | 0,2 | 0,3 | 0,3 | 0,8 | 0,2 | 1,0 | 45 | 68 | 68 | 180
-B620205 | Suivi-évaluation des activités | Frais divers | forfait | 12 800 | 0,2 | 0,3 | 0,3 | 0,8 | 0,2 | 1,0 | 3 | 4 | 4 | 10
-##### B63 | Améliorer le pilotage des programmes d'alphabétisation
-| 30 | 24 | 24 | 79 79
-B6301 | Elaboration et mise en œuvre d'une stratégie de communication | 30 | 24 | 24
+B6202 | Développement de l'alphabétisation fonctionnelle | | | | | | | | | | | 65 | 75 | 71 | 212
+B620201 | Identification et sélection des beneficiares | Frais divers | forfait | 12 625 | 0,7 | 0,3 | | 1,0 | | | 1,0 | 9 | 4 | 0 | 13
+B620202 | Elaboration du manuel de procédures | Consultation nat | hm | 2 800 | 2,0 | | | 2,0 | | | 2,0 | 6 | 0 | 0 | 6
+B620203 | Sélection des opérateurs d'alphabétisation | Consultation nat | hm | 2 800 | 1,2 | | | 1,2 | | | 1,2 | 3 | 0 | 0 | 3
+B620204 | Alphabétisation des apprenantes | Frais divers | forfait | 225 000 | 0,2 | 0,3 | 0,3 | 0,8 | 0,2 | | 1,0 | 45 | 68 | 68 | 180
+B620205 | Suivi-évaluation des activités | Frais divers | forfait | 12 800 | 0,2 | 0,3 | 0,3 | 0,8 | 0,2 | | 1,0 | 3 | 4 | 4 | 10
+##### B63 | Améliorer le pilotage des programmes d'alphabétisation | | | | | | | | | | | 30 | 24 | 24 | 79
+B6301 | Elaboration et mise en œuvre d'une stratégie de communication | | | | | | | | | | | 30 | 24 | 24 | 79
 
 DPEF/PNDSE-2
 
@@ -5674,26 +6013,23 @@ Plan d'action
 
 [[START OF PAGE 129]]
 
-Code analytique | Nature Unité | Prix 2011 | 2013 | Quantités | Coûts (millions d'UM)
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-000 UM | 2012 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-B630101 | Elaboration de la strategie de communication | Consultation mixte | hm | 4 200 | 1,0 | 1,0 | 1,0 | 4 | 0 | 0 | 4
-B630102 | Validation de la strategie de communication | Atelier | forfait | 1 800 | 1,0 | 1,0 | 1,0 | 2 | 0 | 0 | 2
+B630101 | Elaboration de la strategie de communication | Consultation mixte | hm | 4 200 | 1,0 | | | 1,0 | | | 1,0 | 4 | 0 | 0 | 4
+B630102 | Validation de la strategie de communication | Atelier | forfait | 1 800 | 1,0 | | | 1,0 | | | 1,0 | 2 | 0 | 0 | 2
 B630103 | Réalisation de missions de sensibilisation | Frais divers | forfait | 50 400 | 0,2 | 0,2 | 0,2 | 0,6 | 0,2 | 0,2 | 1,0 | 10 | 10 | 10 | 30
 B630104 | Conception de supports de Communication | Frais divers | forfait | 41 000 | 0,2 | 0,2 | 0,2 | 0,6 | 0,2 | 0,2 | 1,0 | 8 | 8 | 8 | 25
 B630105 | Utilisation des Media | Frais divers | forfait | 30 000 | 0,2 | 0,2 | 0,2 | 0,6 | 0,2 | 0,2 | 1,0 | 6 | 6 | 6 | 18
-##### B64 | Promouvoir l'enseignement originel et renforcer sa contribution à l'éducation de base
-| 96 | 75 | 75 | 246
-B6401 | Elaboration d'une stratégie nationale de promotion de l'enseignement originel | 8 | 0 | 0 | 8
-B640101 | 0 | 0 | 4
-Elaboration de la stratégie Consultation int hm 5 600 0,80 1 1 de l'enseignement originel Consultation nat hm 4 000 0,90 1 1 Coran aux enfants concernés par | 4
-B640102 | Promotion l'enseignant du | 4 | 0 | 0 | 4
-B6402 B640201 | 8 | 0 | 0 0 | 8
-Elaboration du guide Promotion du guide Consultation nat hm 4 000 0,90 1 1 | Consultation int | hm | 5 600 | 0,80 | 1 | 1 | 4 4 | 0 0 | 0 | 4
-B640202 | mahadras généralisation de l'éducation de | 5 | 0 | 0 | 4 5
-B6403 B640301 | dans la | 0 | 5
-Organisation de campagnes de promotion Frais divers forfait 5 000 1 1 1 la promotion de l'éducation de base dans | 5 75 | 0 75 | 75
-B6404 | place d'un fonds d'appui à mahadras | 225
+##### B64 | Promouvoir l'enseignement originel et renforcer sa contribution à l'éducation de base | | | | | | | | | | | 96 | 75 | 75 | 246
+B6401 | Elaboration d'une stratégie nationale de promotion de l'enseignement originel | | | | | | | | | | | 8 | 0 | 0 | 8
+B640101 | Elaboration de la stratégie | Consultation int | hm | 5 600 | 0,80 | | | 1 | | | 1 | 4 | 0 | 0 | 4
+B640102 | Promotion de l'enseignement originel | Consultation nat | hm | 4 000 | 0,90 | | | 1 | | | 1 | 4 | 0 | 0 | 4
+B6402 | Elaboration d'un guide de l'enseignant du Coran aux enfants concernés par l'obligation scolaire | | | | | | | | | | | 8 | 0 | 0 | 8
+B640201 | Elaboration du guide | Consultation int | hm | 5 600 | 0,80 | | | 1 | | | 1 | 4 | 0 | 0 | 4
+B640202 | Promotion du guide | Consultation nat | hm | 4 000 | 0,90 | | | 1 | | | 1 | 4 | 0 | 0 | 4
+B6403 | Promotion du rôle des mahadras dans la généralisation de l'éducation de base | | | | | | | | | | | 5 | 0 | 0 | 5
+B640301 | Organisation de campagnes de promotion | Frais divers | forfait | 5 000 | 1 | | | 1 | | | 1 | 5 | 0 | 0 | 5
+B6404 | Mise en place d'un fonds d'appui à la promotion de l'éducation de base dans les mahadras | | | | | | | | | | | 75 | 75 | 75 | 225
 B640401 | Création et dotation du fonds d'appui | Fonds de soutien | subv/mahadra | 150 | 500 | 500 | 500 | 1 500 | 500 | 500 | 2 500 | 75 | 75 | 75 | 225
 
 DPEF/PNDSE-2
@@ -5706,77 +6042,66 @@ Plan d'action
 
 [[START OF PAGE 130]]
 
-Code analytique | Nature | Unité | Prix 2011 | Quantités | Total | Coûts (millions | d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2012 | 2013 | 2014 | 2012-14 | 2015 | 2012 | 2013 | 2014 | 2012-14
-### C | Amélioration de la gestion et de la gouvernance du secteur
-| 1 063 | 1 164 | 1 329 | 3 556
-#### C1 | Amélioration du pilotage sectoriel
-| 258 | 187 | 251 | 697
-##### C11 | Renforcer le Pilotage institutionnel
-| 72 | 23 | 15 | 110
-C1101 | Réalisation d'une étude sur la pertinence de l'organisation actuelle du pilotage institutionnel | 0 | 6 | 0 | 6
-C110101 | Réalisation de l'étude Consultation int | hm | 5 600 | 1,00 | 1,00 | 1,00 | 0 | 6 | 0 | 6
-C1102 | en place et/ou revitalisation des structures consultatives et d'arbitrage pour le système éducatif | Mise | 0 | 2 | 0 | 2
-C110201 | Elaboration d'une stratégie de revitalisation des structures | Consultation mixte hm | 4 200 | 0,5 | 1 | 1 | 0 | 2 | 0 | 2
-C1103 | Décentralisation | 4 | 0 | 0 | 4
-C110301 | Elaboration d'une étude sur le renforcement de la décentralisation | Consultation mixte | hm | 4 200 1 | 1 | 1 | 4 | 0 | 0 | 4
-C1104 | Partenariat (société civile, communautés locales…) | 0 | 0 | 4 | 4
-C110401 | Conception et mise en place d'un partenariat entre les principaux acteurs du Secteur | Consultation mixte | hm 4 | 200 | 1 | 1 | 1 | 0 | 0 | 4 | 4
-C1105 | Cadre juridique | 56 | 0 | 0 | 56
-Mise à jour du cadre juridique et réglementaire du Secteur | Consultation mixte | hm 4 | 200 1 | 1 | C110501 | 1 | 4 | 0 | 0 | 4
-C110502 | Mise à jour du cadre juridique et réglementaire de la FTP | Consultation mixte | hm 5 600 | 9 | 9 | 9 | 52 | 0 | 0 | 52
-C1106 | Imputabilité | 0 | 4 | 0 | 4
-C110601 | Elaboration de cahiers de charge pour tous les niveaux de responsabilité | Consultation mixte | hm 4 | 200 | 1 | 1 | 1 | 0 | 4 | 0 | 4
-C1107 | en place d'un système de communication adéquat | Mise | 11 | 11 | 11 | 33
-C110701 | Conception de la stratégie de communication | Consultation mixte | hm 4 | 200 | 0 | 0 | 0 | 0 | 0 | 0
-C110702 | Fourniture/conception des outils de communication | Dotation | forfait 10 000 | 1 | 1 1 | 3 1 | 5 | 10 | 10 | 10 | 30
-C110703 | Formation des agents au contact du public | Formation | formé | 20 50 | 50 50 | 150 50 | 50 250 | 1 | 1 | 1 | 3
-Opérationnalisation du PNDSE II en Programmes régionaux départementaux | 0 | 0 | 1
-C110801 | et au niveau des établissements | C1108 et communaux | 1
-Elaporation de l'approche Consultation nat | hm | 1 | 0 | 0 | 0 | 0 | 0 | 0
-C110802 | Atelier directions régionales des ordres d'enseignement | Formation | formé | 20 39 | 39 | 39 | 1 | 0 | 0 | 1
-##### C12 | Améliorer la pertinence et l'efficacité de la mise en œuvre des réformes
-| 25 | 8 | 0 | 34
-Evaluation des conditions de mise en œuvre de la réforme de 1999 | C1201 | 25 | 0 | 0 | 25
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+### C | Amélioration de la gestion et de la gouvernance du secteur | | | | | | | | | | | 1 063 | 1 164 | 1 329 | 3 556
+#### C1 | Amélioration du pilotage sectoriel | | | | | | | | | | | 258 | 187 | 251 | 697
+##### C11 | Renforcer le Pilotage institutionnel | | | | | | | | | | | 72 | 23 | 15 | 110
+C1101 | Réalisation d'une étude sur la pertinence de l'organisation actuelle du pilotage institutionnel | | | | | | | | | | | 0 | 6 | 0 | 6
+C110101 | Réalisation de l'étude | Consultation int | hm | 5 600 | | 1,00 | | 1,00 | | | 1,00 | 0 | 6 | 0 | 6
+C1102 | Mise en place et/ou revitalisation des structures consultatives et d'arbitrage pour le système éducatif | | | | | | | | | | | 0 | 2 | 0 | 2
+C110201 | Elaboration d'une stratégie de revitalisation des structures | Consultation mixte | hm | 4 200 | | 0,5 | | 1 | | | 1 | 0 | 2 | 0 | 2
+C1103 | Décentralisation | | | | | | | | | | | 4 | 0 | 0 | 4
+C110301 | Elaboration d'une étude sur le renforcement de la décentralisation | Consultation mixte | hm | 4 200 | 1 | | | 1 | | | 1 | 4 | 0 | 0 | 4
+C1104 | Partenariat (société civile, communautés locales…) | | | | | | | | | | | 0 | 0 | 4 | 4
+C110401 | Conception et mise en place d'un partenariat entre les principaux acteurs du Secteur | Consultation mixte | hm | 4 200 | | | 1 | 1 | | | 1 | 0 | 0 | 4 | 4
+C1105 | Cadre juridique | | | | | | | | | | | 56 | 0 | 0 | 56
+C110501 | Mise à jour du cadre juridique et réglementaire du Secteur | Consultation mixte | hm | 4 200 | 1 | | | 1 | | | 1 | 4 | 0 | 0 | 4
+C110502 | Mise à jour du cadre juridique et réglementaire de la FTP | Consultation mixte | hm | 5 600 | 9 | | | 9 | | | 9 | 52 | 0 | 0 | 52
+C1106 | Imputabilité | | | | | | | | | | | 0 | 4 | 0 | 4
+C110601 | Elaboration de cahiers de charge pour tous les niveaux de responsabilité | Consultation mixte | hm | 4 200 | | 1 | | 1 | | | 1 | 0 | 4 | 0 | 4
+C1107 | Mise en place d'un système de communication adéquat | | | | | | | | | | | 11 | 11 | 11 | 33
+C110701 | Conception de la stratégie de communication | Consultation mixte | hm | 4 200 | | | | 0 | | | 0 | 0 | 0 | 0 | 0
+C110702 | Fourniture/conception des outils de communication | Dotation | forfait | 10 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 10 | 10 | 10 | 30
+C110703 | Formation des agents au contact du public | Formation | formé | 20 | 50 | 50 | 50 | 150 | 50 | 50 | 250 | 1 | 1 | 1 | 3
+C1108 | Opérationnalisation du PNDSE II en Programmes régionaux départementaux et communaux et au niveau des établissements | | | | | | | | | | | 1 | 0 | 0 | 1
+C110801 | Elaporation de l'approche | Consultation nat | hm | 1 | | | | 0 | | | 0 | 0 | 0 | 0 | 0
+C110802 | Atelier directions régionales des ordres d'enseignement | Formation | formé | 20 | 39 | | | 39 | | | 39 | 1 | 0 | 0 | 1
+##### C12 | Améliorer la pertinence et l'efficacité de la mise en œuvre des réformes | | | | | | | | | | | 25 | 8 | 0 | 34
+C1201 | Evaluation des conditions de mise en œuvre de la réforme de 1999 | | | | | | | | | | | 25 | 0 | 0 | 25
 
 [[END OF PAGE 130]]
 
 [[START OF PAGE 131]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | Quantités | Coûts (millions d'UM)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2012 | 2013 | 2014 | 2012-14 | Total | 2012 | 2013 | 2014 | 2012-14
-C120101 | Réalisation de l'étude d'évaluation | Consultation mixte | hm | 4 200 | 6 | 6 | 6 | 25 | 0 | 0 | 25
-C1202 | Préparation et la promulgation d'une loi-cadre d'orientation et de programmation pour tout le système sur la base des résultats des journées de réflexion | 0 | 8 | 0 | 8
-C120201 | Préparation de la loi-cadre | Consultation mixte | hm | 4 200 | 2 | 2 | 2 | 0 | 8 | 0 | 8
-##### C13 | Renforcer les Capacités Managériales
-| 161 | 156 | 236 | 553
-C1301 | Parachèvement de la mise en place du SIGE | 0 | 42 | 56 | 98
-C130101 | Développement du Système | Consultation mixte | hm | 4 200 | 10 | 10 | 10 | 0 | 42 | 0 | 42
-C130102 | Installation du Système | Equipement | forfait | 50 000 | 1 | 1 | 1 | 0 | 0 | 50 | 50
-C130103 | Mise en service du Système | Formation | formé | 20 | 300 | 300 | 300 | 0 | 0 | 6 | 6
-C1302 | Mise en place d'un système de pilotage et de suivi de la FTP | 67 | 56 | 123 | 246
-C130201 | Développement du Système | Consultation int | hm | 5 600 | 12 | 10 | 22 | 22 | 67 | 56 | 0 | 123
-C130202 | Acquisition d'équipements pour le Système | Equipement | forfait | 123 200 | 1 | 1 | 0 | 0 | 123 | 123
-C1303 | Détermination d'une carte scolaire opérationnelle pour tous les niveaux d'enseignement et de formation qui capitalise les résultats de la première | 1 | 15 | 2 | 2 | 19
-C130301 | Parachèvement de la carte scolaire | Consultation mixte | hm | 4 200 | 3 | 3 | 3 | 13 | 0 | 0 | 13
-C130302 | Elaboration du cadre réglementaire | Consultation nat | hm | 2 800 | 1 | 1 | 1 | 3 | 0 | 0 | 3
-C130303 | Mise en œuvre de la carte scolaire | Formation | Formé | 20 | 100 | 100 | 200 | 300 | 0 | 2 | 2 | 4
-C1304 | Elaboration et la diffusion de manuels de procédures modernes normalisés | 0 | 6 | 0 | 6
-C130401 | Elaboration des manuels | Consultation nat | hm | 2 800 | 1 | 1 | 1 | 0 | 3 | 0 | 3
-C130402 | Organisation d'un atelier de validation et de diffusion | Atelier | forfait | 3 000 | 1 | 1 | 1 | 0 | 3 | 0 | 3
-C1305 | Formation des personnels en charge du pilotage à tous les niveaux sur les procédures, les techniques et les outils du management moderne | 0 | 0 | 5 | 5
-C130501 | Formation des personnels | Formation | forfait | 5 000 | 1 | 1 | 1 | 0 | 0 | 5 | 5
-C1306 | Amélioration des conditions de travail des structures de pilotage | 50 | 50 | 50 | 150
-C130601 | Equipement des structures de pilotage Equipement | forfait | 50 000 | 1 | 1 | 1 | 3 | 5 | 50 | 50 | 50 | 150
-Définition et la mise en place d'une stratégie de communication favorisant la | 28 | 0 | 0 | 28
-C1307 | transparence communication | hm | 5 600 | 5 | 5 | 0 | 0 | 28
-C130701 | Développement d'une politique de | Consultation int | 5 | 28
-#### C2 | Amélioration de la Gestion des Ressources Humaines
-| 156 | 223 | 157 | 537
-##### C21 | Restructurer et redynamiser la Gestion des Ressources Humaines (GRH)
-| 143 | 215 | 157 | 515
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+C120101 | Réalisation de l'étude d'évaluation | Consultation mixte | hm | 4 200 | 6 | | | 6 | | | 6 | 25 | 0 | 0 | 25
+C1202 | Préparation et la promulgation d'une loi-cadre d'orientation et de programmation pour tout le système sur la base des résultats des journées de réflexion | | | | | | | | | | | 0 | 8 | 0 | 8
+C120201 | Préparation de la loi-cadre | Consultation mixte | hm | 4 200 | | 2 | | 2 | | | 2 | 0 | 8 | 0 | 8
+##### C13 | Renforcer les Capacités Managériales | | | | | | | | | | | 161 | 156 | 236 | 553
+C1301 | Parachèvement de la mise en place du SIGE | | | | | | | | | | | 0 | 42 | 56 | 98
+C130101 | Développement du Système | Consultation mixte | hm | 4 200 | | 10 | | 10 | | | 10 | 0 | 42 | 0 | 42
+C130102 | Installation du Système | Equipement | forfait | 50 000 | | | 1 | 1 | | | 1 | 0 | 0 | 50 | 50
+C130103 | Mise en service du Système | Formation | formé | 20 | | | 300 | 300 | | | 300 | 0 | 0 | 6 | 6
+C1302 | Mise en place d'un système de pilotage et de suivi de la FTP | | | | | | | | | | | 67 | 56 | 123 | 246
+C130201 | Développement du Système | Consultation int | hm | 5 600 | 12 | 10 | | 22 | | | 22 | 67 | 56 | 0 | 123
+C130202 | Acquisition d'équipements pour le Système | Equipement | forfait | 123 200 | | | 1 | 1 | | | 1 | 0 | 0 | 123 | 123
+C1303 | Détermination d'une carte scolaire opérationnelle pour tous les niveaux d'enseignement et de formation qui capitalise les résultats de la première phase | | | | | | | | | | | 15 | 2 | 2 | 19
+C130301 | Parachèvement de la carte scolaire | Consultation mixte | hm | 4 200 | 3 | | | 3 | | | 3 | 13 | 0 | 0 | 13
+C130302 | Elaboration du cadre réglementaire | Consultation nat | hm | 2 800 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+C130303 | Mise en œuvre de la carte scolaire | Formation | Formé | 20 | | 100 | 100 | 200 | 100 | | 300 | 0 | 2 | 2 | 4
+C1304 | Elaboration et la diffusion de manuels de procédures modernes normalisés | | | | | | | | | | | 0 | 6 | 0 | 6
+C130401 | Elaboration des manuels | Consultation nat | hm | 2 800 | | 1 | | 1 | | | 1 | 0 | 3 | 0 | 3
+C130402 | Organisation d'un atelier de validation et de diffusion | Atelier | forfait | 3 000 | | 1 | | 1 | | | 1 | 0 | 3 | 0 | 3
+C1305 | Formation des personnels en charge du pilotage à tous les niveaux sur les procédures, les techniques et les outils du management moderne | | | | | | | | | | | 0 | 0 | 5 | 5
+C130501 | Formation des personnels | Formation | forfait | 5 000 | | | 1 | 1 | | | 1 | 0 | 0 | 5 | 5
+C1306 | Amélioration des conditions de travail des structures de pilotage | | | | | | | | | | | 50 | 50 | 50 | 150
+C130601 | Equipement des structures de pilotage | Equipement | forfait | 50 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 50 | 50 | 50 | 150
+C1307 | Définition et la mise en place d'une stratégie de communication favorisant la transparence | | | | | | | | | | | 28 | 0 | 0 | 28
+C130701 | Développement d'une politique de communication | Consultation int | hm | 5 600 | 5 | | | 5 | | | 5 | 28 | 0 | 0 | 28
+#### C2 | Amélioration de la Gestion des Ressources Humaines | | | | | | | | | | | 156 | 223 | 157 | 537
+##### C21 | Restructurer et redynamiser la Gestion des Ressources Humaines (GRH) | | | | | | | | | | | 143 | 215 | 157 | 515
 
 DPEF/PNDSE-2
 
@@ -5788,40 +6113,35 @@ Plan d'action
 
 [[START OF PAGE 132]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | Quantités | Coûts (millions | d'UM)
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
-C2101 | Mise en place d'une nouvelle politique de gestion des ressources humaines du secteur | 121 | 131 | 135 | 387
+C2101 | Mise en place d'une nouvelle politique de gestion des ressources humaines du secteur | | | | | | | | | | | 121 | 131 | 135 | 387
 C210101 | Développement d'une politique de gestion des RH | Frais divers | forfait | 78 000 | 1,00 | 1,14 | 1,19 | 3,33 | 1,14 | 1,12 | 5,59 | 78 | 89 | 93 | 260
 C210102 | Elaboration plan de développement RH pour la FTP | Frais divers | forfait | 42 560 | 1,00 | 1,00 | 1,00 | 3,00 | 1,00 | 1,00 | 5,00 | 43 | 43 | 43 | 128
-C2102 | Renforcement des capacités des structures centrales et décentralisées chargées des RH | 0 | 10 | 0 | 10
-C210201 | Organisation de séminaires de formation | Frais divers | forfait | 10 000 | 1 | 1 | 1 | 2 | 0 | 10 | 0 | 10
-C2103 | Mise en place de systèmes d'information de gestion des personnels qui pourront être intégrés éventuellement aux SIG globaux | 0 | 0 | 13 | 13
-C210301 | Développement de système d'information | Consultation mixte | hm | 4 200 | 3 | 3 | 3 | 0 | 0 | 13 | 13
-C2104 | Définition et adoption de profils de postes pour tous les emplois du secteur et établissement de bilans de compétences | 0 | 67 | 3 | 70
-C210401 | Définition des profils | Consultation mixte | hm | 5 600 | 12 | 12 | 12 | 0 | 67 | 0 | 67
-C210402 | Validation des profils | Atelier | forfait | 3 000 | 1 | 1 | 1 | 0 | 0 | 3 | 3
-C2105 | Mise en place d'une politique nationale en matière de formation continue des personnels de l'éducation | 23 | 6 | 6 | 35
-C210501 | Elaborationde la politique et du plan d'action | Consultation int | hm | 5 600 | 3 | 3 | 3 | 17 | 0 | 0 | 17
+C2102 | Renforcement des capacités des structures centrales et décentralisées chargées des RH | | | | | | | | | | | 0 | 10 | 0 | 10
+C210201 | Organisation de séminaires de formation | Frais divers | forfait | 10 000 | | 1 | | 1 | 1 | | 2 | 0 | 10 | 0 | 10
+C2103 | Mise en place de systèmes d'information de gestion des personnels qui pourront être intégrés éventuellement aux SIG globaux | | | | | | | | | | | 0 | 0 | 13 | 13
+C210301 | Développement de système d'information | Consultation mixte | hm | 4 200 | | | 3 | 3 | | | 3 | 0 | 0 | 13 | 13
+C2104 | Définition et adoption de profils de postes pour tous les emplois du secteur et établissement de bilans de compétences | | | | | | | | | | | 0 | 67 | 3 | 70
+C210401 | Définition des profils | Consultation mixte | hm | 5 600 | | 12 | | 12 | | | 12 | 0 | 67 | 0 | 67
+C210402 | Validation des profils | Atelier | forfait | 3 000 | | | 1 | 1 | | | 1 | 0 | 0 | 3 | 3
+C2105 | Mise en place d'une politique nationale en matière de formation continue des personnels de l'éducation | | | | | | | | | | | 23 | 6 | 6 | 35
+C210501 | Elaborationde la politique et du plan d'action | Consultation int | hm | 5 600 | 3 | | | 3 | | | 3 | 17 | 0 | 0 | 17
 C210502 | Mise en œuvre de la politique | Formation | formé | 20 | 300 | 300 | 300 | 900 | 300 | 300 | 1 500 | 6 | 6 | 6 | 18
-##### C22 | Rationaliser le Système de Déploiement des personnels
-| 13 | 9 | 0 | 22
-C2201 | Optimisation de l'affectation des enseignants | 13 | 0 | 0 | 13
-C220101 | Détermination des critères et des modalités d'affectation des enseignants | Atelier | forfait | 10 000 | 1 | 1 | 1 | 10 | 0 | 0 | 10
-C2202 | Actualisation du guide d'éthique professionnelle pour les métiers de l'éducation et sa diffusion (charte de bonne conduite) | 0 | 9 | 0 | 9
-C220201 | Actualisation du guide | Consultation nat | hm | 2 800 | 2 | 2 | 2 | 0 | 6 | 0 | 6
-C220202 | Organisation d'un atelier de validation | Atelier | forfait | 3 000 | 1 | 1 | 1 | 0 | 3 | 0 | 3
-#### C3 | Amélioration de la Gestion Pédagogique
-| 111 | 143 | 192 | 446
-##### C31 | Instaurer un système de Gestion Axée sur les Résultats (GAR)
-| 96 | 133 | 137 | 366
-C3101 | Mise en place d'un dispositif (organisation, procédures, outils) de GAR | 0 | 30
-10 | 20 0 | 50 10
-C310101 | Développement de la culture GAR à tous les échelons du système | Atelier | Forfait | 10 000 | 1 | 1 | 1 | 0 | 40
-C310102 | Développement des outils de programmation, de gestion et de suivi- évaluation Frais divers forfait 20 000 1,00 1,00 2 2 et renforcement du rôle et des pratiques des personnels | 0 96 | 20 | 20 117 | 316
-C3102 | Redynamisation chargés de l'animation et du contrôle pédagogique et administratif | 103
-Formation des inspecteurs Formation formé 20 418 431 849 849 | 0 | 8 | 9 | 17
-C310201
+##### C22 | Rationaliser le Système de Déploiement des personnels | | | | | | | | | | | 13 | 9 | 0 | 22
+C2201 | Optimisation de l'affectation des enseignants | | | | | | | | | | | 13 | 0 | 0 | 13
+C220101 | Détermination des critères et des modalités d'affectation des enseignants | Atelier | forfait | 10 000 | 1 | | | 1 | | | 1 | 10 | 0 | 0 | 10
+C220102 | Opérationnalisation du système d'affectation | Frais divers | forfait | 3 000 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+C2202 | Actualisation du guide d'éthique professionnelle pour les métiers de l'éducation et sa diffusion (charte de bonne conduite) | | | | | | | | | | | 0 | 9 | 0 | 9
+C220201 | Actualisation du guide | Consultation nat | hm | 2 800 | | 2 | | 2 | | | 2 | 0 | 6 | 0 | 6
+C220202 | Organisation d'un atelier de validation | Atelier | forfait | 3 000 | | 1 | | 1 | | | 1 | 0 | 3 | 0 | 3
+#### C3 | Amélioration de la Gestion Pédagogique | | | | | | | | | | | 111 | 143 | 192 | 446
+##### C31 | Instaurer un système de Gestion Axée sur les Résultats (GAR) | | | | | | | | | | | 96 | 133 | 137 | 366
+C3101 | Mise en place d'un dispositif (organisation, procédures, outils) de GAR | | | | | | | | | | | 0 | 30 | 20 | 50
+C310101 | Développement de la culture GAR à tous les échelons du système | Atelier | Forfait | 10 000 | | 1 | | 1 | | | 1 | 0 | 10 | 0 | 10
+C310102 | Développement des outils de programmation, de gestion et de suivi-évaluation | Frais divers | forfait | 20 000 | | 1,00 | 1,00 | 2 | | | 2 | 0 | 20 | 20 | 40
+C3102 | Redynamisation et renforcement du rôle et des pratiques des personnels chargés de l'animation et du contrôle pédagogique et administratif | | | | | | | | | | | 96 | 103 | 117 | 316
+C310201 | Formation des inspecteurs | Formation | formé | 20 | | 418 | 431 | 849 | | | 849 | 0 | 8 | 9 | 17
 
 DPEF/PNDSE-2
 
@@ -5833,39 +6153,34 @@ Plan d'action
 
 [[START OF PAGE 133]]
 
-Code analytique | Nature | Unité | Prix 2011 | Quantités | Coûts (millions | d'UM)
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-000 UM | 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | 2012 | 2013 | 2014 | 2012-14
 C310202 | Acquisition d'équipements pour l'Inspection Préscolaire | Equipement | forfait | 79 071 | 0,00 | 0,20 | 0,61 | 1 | 0,10 | 0,10 | 1 | 0 | 15 | 48 | 64
 C310203 | Acquisition d'équipements pour l'Inspection Fondamental | Equipement | forfait | 296 075 | 0,07 | 0,22 | 0,15 | 0 | 0,25 | 0,31 | 1 | 22 | 66 | 43 | 131
 C310204 | Acquisition d'équipements pour l'Inspection Secondaire | Equipement | forfait | 153 759 | 0,48 | 0,09 | 0,11 | 1 | 0,16 | 0,16 | 1 | 74 | 14 | 17 | 105
-C3103 | Implication étroite des partenaires de l'école dans le processus de mise en place d'une gestion axée sur les résultats | 0 | 0 | 0 | 0
-C310301 | Appui aux APE | Frais divers | forfait | 10 | 1 | 1 | 1 | 3 | 3 | 0 | 0 | 0 | 0
-C310302 | Mise en place de COGES | Frais divers | forfait | 20 | 1 | 1 | 1 | 3 | 3 | 0 | 0 | 0 | 0
-##### C32 | Renforcer le rôle de l'évaluation et rénover les pratiques en la matière
-| 15 | 10 | 55 | 80
-C3201 | Renforcer le dispositif d'évaluation du Système | 15 | 10 | 15 | 40
-C320101 | Appui à la CNE | Frais divers | forfait | 5 000 | 1 | 1 | 2 | 1 | 3 | 5 | 0 | 5 | 10
+C3103 | Implication étroite des partenaires de l'école dans le processus de mise en place d'une gestion axée sur les résultats | | | | | | | | | | | 0 | 0 | 0 | 0
+C310301 | Appui aux APE | Frais divers | forfait | 10 | 1 | 1 | 1 | 3 | | | 3 | 0 | 0 | 0 | 0
+C310302 | Mise en place de COGES | Frais divers | forfait | 20 | 1 | 1 | 1 | 3 | | | 3 | 0 | 0 | 0 | 0
+##### C32 | Renforcer le rôle de l'évaluation et rénover les pratiques en la matière | | | | | | | | | | | 15 | 10 | 55 | 80
+C3201 | Renforcer le dispositif d'évaluation du Système | | | | | | | | | | | 15 | 10 | 15 | 40
+C320101 | Appui à la CNE | Frais divers | forfait | 5 000 | 1 | | 1 | 2 | | 1 | 3 | 5 | 0 | 5 | 10
 C320102 | Réalisation d'évaluations périodiques | Frais divers | forfait | 10 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 10 | 10 | 10 | 30
-C3202 | Rénovation/réadaptation du dispositif d'évaluation des apprentissages (continue, formative et sommative) | 0 | 0 | 40 | 40
-C320201 | Elaboration des outils | Atelier | forfait | 10 000 | 1 | 1 | 1 | 0 | 0 | 10 | 10
-C320202 | Formation des acteurs (directeurs d'école et chefs d'établissement) | Formation | formé | 20 | 1 500 | 1 500 | 1 500 | 1 500 | 4 500 | 0 | 0 | 30 | 30
-#### C4 | Amélioration de la Gestion Administrative, Financière et du patrimoine
-| 105 | 238 | 326 | 668
-##### C41 | Promouvoir une plus grande décentralisation de la gestion administrative et financière
-| 52 | 63 | 76 | 190
-C4101 | Réorganisation des structures de gestion | 47 | 53 | 56 | 156
+C3202 | Rénovation/réadaptation du dispositif d'évaluation des apprentissages (continue, formative et sommative) | | | | | | | | | | | 0 | 0 | 40 | 40
+C320201 | Elaboration des outils | Atelier | forfait | 10 000 | | | 1 | 1 | | | 1 | 0 | 0 | 10 | 10
+C320202 | Formation des acteurs (directeurs d'école et chefs d'établissement) | Formation | formé | 20 | | | 1 500 | 1 500 | 1 500 | 1 500 | 4 500 | 0 | 0 | 30 | 30
+#### C4 | Amélioration de la Gestion Administrative, Financière et du patrimoine | | | | | | | | | | | 105 | 238 | 326 | 668
+##### C41 | Promouvoir une plus grande décentralisation de la gestion administrative et financière | | | | | | | | | | | 52 | 63 | 76 | 190
+C4101 | Réorganisation des structures de gestion | | | | | | | | | | | 47 | 53 | 56 | 156
 C410101 | Réorganisation des structures | Frais divers | forfait | 47 000 | 1,00 | 1,12 | 1,20 | 3 | 1,15 | 1,10 | 6 | 47 | 53 | 56 | 156
-C4102 | Renforcement des capacités des cadres à tous les niveaux en matière de préparation, d'exécution, de suivi et d'évaluation des budgets-programmes | 0 | 10 | 10 | 20
-C410201 | Formation des cadres | Formation | formé | 50 | 200 | 200 | 400 | 400 | 0 | 10 | 10 | 20
-C2103 | Renforcement des capacités de planification, de gestion budgétaire et de passation des marchés en vue d'améliorer la capacité d'absorption du secteur | 5 | 0 | 5 | 10
-C210301 | Formation sur les procédures budgétaires et de passation des marchés | Formation | forfait | 5 000 | 1 | 1 | 2 | 2 | 5 | 0 | 5 | 10
-C4104 | Elaboration et mise en application d'un guide de procédures normalisées de préparation et d'exécution des budgets-programmes | 0 | 0 | 4 | 4
-C410401 | Conception et mise en place du guide | Consultation nat | hm | 2 800 | 1,5 | 2 | 2 | 0 | 0 | 4 | 4
-##### C42 | Améliorer la gestion du patrimoine
-| 53 | 175 | 250 | 478
-C4201 | Réalisation d'un inventaire exhaustif du patrimoine sur l'étendue du territoire à travers des formulaires harmonisés et mise en place d'une base | 0 | 25 | 0 | 25
-C420101 | de données pour sa gestion Réalisation de l'inventaire exhaustif | Consultation mixte | hm | 4 200 | 6 | 6 | 6 | 0 | 25 | 0 | 25
+C4102 | Renforcement des capacités des cadres à tous les niveaux en matière de préparation, d'exécution, de suivi et d'évaluation des budgets-programmes | | | | | | | | | | | 0 | 10 | 10 | 20
+C410201 | Formation des cadres | Formation | formé | 50 | | 200 | 200 | 400 | | | 400 | 0 | 10 | 10 | 20
+C2103 | Renforcement des capacités de planification, de gestion budgétaire et de passation des marchés en vue d'améliorer la capacité d'absorption du secteur | | | | | | | | | | | 5 | 0 | 5 | 10
+C210301 | Formation sur les procédures budgétaires et de passation des marchés | Formation | forfait | 5 000 | 1 | | 1 | 2 | | | 2 | 5 | 0 | 5 | 10
+C4104 | Elaboration et mise en application d'un guide de procédures normalisées de préparation et d'exécution des budgets-programmes | | | | | | | | | | | 0 | 0 | 4 | 4
+C410401 | Conception et mise en place du guide | Consultation nat | hm | 2 800 | | | 1,5 | 2 | | | 2 | 0 | 0 | 4 | 4
+##### C42 | Améliorer la gestion du patrimoine | | | | | | | | | | | 53 | 175 | 250 | 478
+C4201 | Réalisation d'un inventaire exhaustif du patrimoine sur l'étendue du territoire à travers des formulaires harmonisés et mise en place d'une base de données pour sa gestion | | | | | | | | | | | 0 | 25 | 0 | 25
+C420101 | Réalisation de l'inventaire exhaustif | Consultation mixte | hm | 4 200 | | 6 | | 6 | | | 6 | 0 | 25 | 0 | 25
 
 DPEF/PNDSE-2
 
@@ -5877,33 +6192,28 @@ Plan d'action
 
 [[START OF PAGE 134]]
 
-Code analytique | Nature | Unité | Prix 2011 000 UM | 2012 | 2013 | 2014 | Quantités | 2015 | 2016 | Total | 2012 | Coûts (millions 2013 | d'UM) 2014 | 2012-14
+Code analytique | | Nature | Unité | Prix 2011 000 UM | Quantités 2012 | 2013 | 2014 | 2012-14 | 2015 | 2016 | Total | Coûts (millions d'UM) 2012 | 2013 | 2014 | 2012-14
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-C4202 | 2012-14
-Mise en œuvre de la politique de maintenance du patrimoine | 53 | 150 | 250 | 453
-C420201 | Elaboration d'un plan d'action | Atelier | forfait | 3 000 | 1 | 1 | 1 | 3 | 0 | 0 | 3
-C420202 | 1 000 | 50 | 150 | 250 | 450 | 350 | 500 | 1 300 | 150 | 250
-Création d'un fonds de maintenance des infrastructures scolaires | Dotation | forfait/école | 50 | 450
-#### C5 | Coordination du programme
-| 433 | 373 | 403 | 1 208
-##### C51 | Mise en œuvre du programme
-| 313 | 313 | 313 | 938
-C5101 | DPEF | 270 | 270 | 270 | 810
+C4202 | Mise en œuvre de la politique de maintenance du patrimoine | | | | | | | | | | | 53 | 150 | 250 | 453
+C420201 | Elaboration d'un plan d'action | Atelier | forfait | 3 000 | 1 | | | 1 | | | 1 | 3 | 0 | 0 | 3
+C420202 | Création d'un fonds de maintenance des infrastructures scolaires | Dotation | forfait/école | 1 000 | 50 | 150 | 250 | 450 | 350 | 500 | 1 300 | 50 | 150 | 250 | 450
+#### C5 | Coordination du programme | | | | | | | | | | | 433 | 373 | 403 | 1 208
+##### C51 | Mise en œuvre du programme | | | | | | | | | | | 313 | 313 | 313 | 938
+C5101 | DPEF | | | | | | | | | | | 270 | 270 | 270 | 810
 C510101 | Rémunération et frais du personnel consultant | Consultation nat | forfait | 166 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 166 | 166 | 166 | 498
 C510102 | Rémunération et frais du personnel d'appui | Consultation nat | forfait | 34 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 34 | 34 | 34 | 102
 C510103 | Acquisition d'équipements | Equipement | forfait | 10 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 10 | 10 | 10 | 30
 C510104 | Formation et mise à niveu du Personnel | Formation | forfait | 10 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 10 | 10 | 10 | 30
 C510105 | Fonctionnement administratif | Fonctionnement | forfait | 50 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 50 | 50 | 50 | 150
-C5102 | Maitrise d'ouvrage déléguée PA-FTP (INAP) | 43 | 43 | 43 | 128
+C5102 | Maitrise d'ouvrage déléguée PA-FTP (INAP) | | | | | | | | | | | 43 | 43 | 43 | 128
 C510201 | Rémunération prestation INAP-FTP | Rémunération | forfait | 30 800 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 31 | 31 | 31 | 92
 C510202 | Frais de fonctionnement des Unités de mise en œuvre Formations courtes et PE | Fonctionnement | forfait | 11 700 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 12 | 12 | 12 | 35
-##### C52 | Audit, suivi/évaluation Programme
-| 120 | 60 | 90 | 270
-C5201 | Audit des projets | 80 | 50 | 80 | 210
+##### C52 | Audit, suivi/évaluation Programme | | | | | | | | | | | 120 | 60 | 90 | 270
+C5201 | Audit des projets | | | | | | | | | | | 80 | 50 | 80 | 210
 C520101 | Audit des états financiers | Consultation nat | forfait | 50 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 50 | 50 | 50 | 150
-C520102 | Audit technique | Consultation int | forfait | 30 000 | 1 | 1 | 2 | 1 | 3 | 30 | 0 | 30 | 60
-C5202 | Suivi/évaluation | 40 | 10 | 10 | 60
-C520201 | Mise en place d'un suivi-évaluation du Programme | Consultation mixte | forfait | 30 000 | 1 | 1 | 1 | 30 | 0 | 0 | 30
+C520102 | Audit technique | Consultation int | forfait | 30 000 | 1 | | 1 | 2 | | 1 | 3 | 30 | 0 | 30 | 60
+C5202 | Suivi/évaluation | | | | | | | | | | | 40 | 10 | 10 | 60
+C520201 | Mise en place d'un suivi-évaluation du Programme | Consultation mixte | forfait | 30 000 | 1 | | | 1 | | | 1 | 30 | 0 | 0 | 30
 C520202 | Revues et missions de supervision | Frais divers | forfait | 10 000 | 1 | 1 | 1 | 3 | 1 | 1 | 5 | 10 | 10 | 10 | 30
 
 DPEF/PNDSE-2
