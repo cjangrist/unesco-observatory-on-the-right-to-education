@@ -4,7 +4,7 @@ REPÚBLICA DE MOÇAMBIQUE MINISTÉRIO DA EDUCAÇÃO E CULTURA
 
 Fazer da escola um polo de desenvolvimento consolidando a Moçambicanidade
 
-# PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA 2006 - 2010/11
+# PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA 2006 – 2010/11
 
 (Versão 09/06/2006)
 
@@ -27,6 +27,42 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA
 ## Índice
 
 Chave de siglas e abreviaturas.................................................................................. v
+Introdução................................................................................................................... 1
+Missão.......................................................................................................................... 3
+Parte 1: Educação ..................................................................................................... 5
+1. Contexto e Objectivo........................................................................................ 5
+1.1 Sucessos alcançados no PEE I................................................................ 6
+1.2 A Visão ................................................................................................... 8
+1.3 Desafios a serem tratados pelo PEEC..................................................... 9
+1.4 Abordagem Sectorial ............................................................................ 11
+2. O Contexto de Políticas.................................................................................. 13
+2.1 Os Objectivos de Desenvolvimento do Milénio (OdMs)..................... 13
+2.2 A Agenda 2025..................................................................................... 13
+2.3 O Plano de Acção para a Redução da Pobreza Absoluta (PARPA) e o Plano Económico e Social (PES).................................................... 14
+2.4 Cenário de Despesas de Médio Prazo................................................... 15
+2.5 O Programa do Governo 2005-2009..................................................... 16
+2.6 Iniciativa Acelerada de Educação para Todos (EFA/FTI) ................... 16
+2.7 Objectivos e metas para o PEEC na área de educação......................... 17
+3. Componentes do Plano Estratégico................................................................ 21
+3.1 Introdução............................................................................................. 21
+3.2 Ensino Primário .................................................................................... 21
+3.3 Educação Não-Formal e de Adultos..................................................... 28
+3.4 Ensino Secundário ................................................................................ 31
+3.5 Educação Técnico-Profissional ............................................................ 38
+3.6 Formação de Professores...................................................................... 43
+3.7 Ensino Superior .................................................................................... 49
+3.8 Ensino à Distância ................................................................................ 55
+3.9 Educação Especial ................................................................................ 60
+3.10 Integração do Género............................................................................ 63
+3.11 Desporto Escolar................................................................................... 69
+3.12 Saúde Escolar........................................................................................ 72
+3.13 Produção e Alimentação Escolar.......................................................... 74
+3.14 Tecnologias de Informação e Comunicação (TIC)............................... 79
+4. Implementação ............................................................................................... 82
+4.1 Interdependência das Componentes ..................................................... 82
+4.2 Compromisso e liderança do Governo. ................................................ 83
+4.3 Estratégia de Comunicação................................................................... 83
+4.4 Apoio externo coerente......................................................................... 84
 
 i
 
@@ -36,6 +72,44 @@ i
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA
 
+4.5 Gestão descentralizada do processo de planificação e implementação...................................................................................... 86
+4.6 Reforço da gestão financeira e administração ...................................... 88
+4.7 Monitoria do Progresso......................................................................... 89
+5. Financiamento do PEEC ................................................................................ 90
+5.1 Pressupostos.......................................................................................... 90
+5.2 Financiamento do PEEC: informação detalhada .................................. 91
+6. Pressupostos, Oportunidades e Riscos........................................................... 93
+6.1 Pressupostos.......................................................................................... 93
+6.2 Oportunidades e Pontos Fortes............................................................. 94
+6.3 Riscos.................................................................................................... 95
+Parte 2: Cultura..................................................................................................... 107
+1. O Contexto ................................................................................................... 107
+2. Análise situacional ....................................................................................... 108
+3. Aspectos Específicos de Políticas................................................................ 112
+3.1 A Constituição da República de Moçambique ................................... 112
+3.2 A primeira Conferência Nacional da Cultura e a Política Cultural .... 113
+3.3 O Plano Quinquenal do Governo (2005-2009) e o PARPA II (2005-2009) ........................................................................................ 113
+3.4 Agenda 2025....................................................................................... 114
+3.5 Os instrumentos legais regionais ........................................................ 114
+3.6 Instrumentos internacionais................................................................ 115
+4. Componentes da Estratégia .......................................................................... 117
+4.1 Promoção da Cultura e sua contribuição no desenvolvimento social e económico. ....................................................................................... 117
+4.2 Preservação e valorização do património cultural. ............................. 123
+4.3 Desenvolvimento e fortalecimento da capacidade e infra-estruturas............................................................................................. 127
+4.4 Fortalecimento da parceria com os vários intervenientes................... 129
+4.5 Fortalecimento da moçambicanidade no âmbito da unidade na diversidade.......................................................................................... 131
+5. Monitoria e Avaliação.................................................................................. 132
+6. Financiamento .............................................................................................. 133
+Parte 3: Assuntos Transversais............................................................................ 137
+1. Reforço da Capacidade Institucional............................................................ 137
+1.1 Situação actual .................................................................................... 137
+1.2 Realizações durante o período 1999 -2005......................................... 138
+1.3 Estratégia ............................................................................................ 139
+1.4 Capacidade institucional: Quadro para acção e reforma de políticas. 140
+2. Resposta do Sector ao HIV/Sida .................................................................. 142
+2.1 Situação Actual................................................................................... 142
+2.2 Realizações durante o PEE I............................................................... 142
+
 ii
 
 [[END OF PAGE 4]]
@@ -43,6 +117,22 @@ ii
 [[START OF PAGE 5]]
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA
+
+2.3 Estratégia ............................................................................................ 143
+2.4 HIV/SIDA: Quadro para acção e reforma de políticas....................... 144
+Figuras e Tabelas:
+Figura 1: A Pirâmide das Matrículas, 2005, público, diurno....................................... 7
+Tabela 1: Metas do PAF............................................................................................. 15
+Figura 2: PEEC - Processo de Planificação e Orçamentação .................................... 86
+Tabela 2: Financiamento do PEEC............................................................................ 91
+Tabela 3: Financiamento do PEEC por natureza da despesa ..................................... 91
+Tabela 4: Comparação do plano financeiro do PEEC relativamente ao PARPA. ..... 92
+Tabela 5: Estrutura do plano financeiro do PEEC por níveis de ensino e áreas transversais......................................................................................................... 93
+Anexos:
+Resumo das projecções financeiras............................................................................ 97
+Pressupostos e resultados chave do modelo de projecções financeiras................... 101
+Conceitos chave da área da Cultura ......................................................................... 135
+Estratégia e documentos de planificação ................................................................. 147
 
 iii
 
@@ -183,21 +273,21 @@ Promover  a  oferta  de  serviços  educativos  de  qualidade,  com equidade, fo
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
+## Parte 1: Educação
+
 ### 1. Contexto e Objectivo
 
-A  Estratégia  da  Educação  para  o  período  de  2006-2010/11,  segue-se  ao  Plano Estratégico  para  o  Sector  da  Educação  (PEE  I)  que  foi  implementado  de  1999  a 2005.  O  PEE  I  enfatizou  a  prioridade  central  do  Ensino  Básico.  Deu  substância  e centralizou a política educacional de Moçambique em três objectivos-chave:
+A Estratégia da Educação para o período de 2006–2010/11, segue-se ao Plano Estratégico para o Sector da Educação (PEE I) que foi implementado de 1999 a 2005. O PEE I enfatizou a prioridade central do Ensino Básico. Deu substância e centralizou a política educacional de Moçambique em três objectivos-chave:
 
 - A expansão do acesso à educação;
 
-- O reforço da capacidade institucional, financeira e política com vista à assegurar a sustentabilidade do sistema.
-
 - A melhoria da qualidade de Educação;
+
+- O reforço da capacidade institucional, financeira e política com vista à assegurar a sustentabilidade do sistema.
 
 Estes objectivos permanecem válidos na presente estratégia, embora com uma maior ênfase na melhoria da qualidade da educação e na retenção dos estudantes até à 7ª classe. Para além disso, o PEEC propõe-se a aumentar os esforços para desenvolver a Educação Técnico-Profissional e Vocacional, um Ensino Secundário com características profissionalizantes, e o Ensino Superior.
 
-Durante  a  implementação  do  PEE  I,  o  sector  da  Educação  fez  consideráveis  progressos, particularmente no aumento do número de matrículas no Ensino Primário, e a experiência da implementação do PEE I fornece fundamentos válidos para o desenvolvimento do PEEC. Ao mesmo tempo, o contexto em que os serviços de Educação são planeados, financiados e prestados em Moçambique, também evoluiu consideravelmente. O crescimento económico acelerado e a redução da pobreza tornaram-se uma prioridade  explícita  da  política  de  desenvolvimento  nacional.  A  Estratégia  do Governo  para  a  redução  da  pobreza  absoluta  (PARPA)  assegura  que  todos  os cidadãos - rapazes, raparigas, mulheres e homens - estejam aonde estiverem, tenham
-
-## Parte 1: Educação
+Durante a implementação do PEE I, o sector da Educação fez consideráveis progressos, particularmente no aumento do número de matrículas no Ensino Primário, e a experiência da implementação do PEE I fornece fundamentos válidos para o desenvolvimento do PEEC. Ao mesmo tempo, o contexto em que os serviços de Educação são planeados, financiados e prestados em Moçambique, também evoluiu consideravelmente. O crescimento económico acelerado e a redução da pobreza tornaram-se uma prioridade explícita da política de desenvolvimento nacional. A Estratégia do Governo para a redução da pobreza absoluta (PARPA) assegura que todos os cidadãos - rapazes, raparigas, mulheres e homens - estejam aonde estiverem, tenham
 
 5
 
@@ -213,9 +303,9 @@ A  estratégia  do  PEEC  é  assim  desenhada  para  apoiar  os  três  objecti
 
 - Reduzir a pobreza absoluta;
 
-- Lutar contra a propagação do HIV/SIDA e mitigar o seu impacto.
-
 - Assegurar a justiça e a equidade do género; e
+
+- Lutar contra a propagação do HIV/SIDA e mitigar o seu impacto.
 
 #### 1.1 Sucessos alcançados no PEE I
 
@@ -303,11 +393,11 @@ Ao mesmo tempo, a relação com os parceiros de cooperação tornou-se mais estr
 
 #### 1.2 A Visão
 
-A Constituição de Moçambique estabelece a Educação como um direito, bem como um  dever,  de  todos  os  cidadãos.  Como  tal,  a  estratégia  para  a  área  de  educação, baseada na Política Nacional de Educação (1995) bem como no PEE I, reafirma a educação  como  um  direito  humano  fundamental  e  um  instrumento  chave  para  a melhoria das condições de vida e para a redução da pobreza. Esta estratégia reflecte o compromisso  do  Governo  para  com  a  Educação  para  Todos  e  as  Objectivos  do Desenvolvimento do Milénio (OdM) apoiadas pela comunidade internacional. Desta forma, tem por objectivo explícito, assegurar  a  conclusão dos sete  anos de Ensino Primário a todas as crianças moçambicanas, a ser alcançado em 2015. Os cinco anos (2006 - 2010/11) cobertos pelo PEEC, irão produzir progresso substancial em direcção a esta meta.
+A Constituição de Moçambique estabelece a Educação como um direito, bem como um dever, de todos os cidadãos. Como tal, a estratégia para a área de educação, baseada na Política Nacional de Educação (1995) bem como no PEE I, reafirma a educação como um direito humano fundamental e um instrumento chave para a melhoria das condições de vida e para a redução da pobreza. Esta estratégia reflecte o compromisso do Governo para com a Educação para Todos e as Objectivos do Desenvolvimento do Milénio (OdM) apoiadas pela comunidade internacional. Desta forma, tem por objectivo explícito, assegurar a conclusão dos sete anos de Ensino Primário a todas as crianças moçambicanas, a ser alcançado em 2015. Os cinco anos (2006 – 2010/11) cobertos pelo PEEC, irão produzir progresso substancial em direcção a esta meta.
 
 A visão do Governo para o PEEC coloca a qualidade e a equidade no Ensino Básico no  centro  da  sua  política  de  Educação.  Contudo,  a  melhoria  do  acesso  não  deve acontecer sem uma melhoria substancial da qualidade. Melhor qualidade - através da reforma curricular, melhores instalações e professores mais qualificados - significa uma taxa mais baixa de desistências ou de repetição de classe e melhoria na retenção que, por seu lado, melhora a eficiência das escolas e reduz os custos unitários. Igualmente  importante  é  assegurar  que  as  oportunidades  de  aprender  sejam  igualmente acessíveis a todos, e que se operem progressos que reduzam o fosso no desempenho do Ensino entre ricos e pobres, rapazes e raparigas das áreas urbanas e rurais.
 
-O compromisso do Governo de assegurar o acesso e melhorar a qualidade do Ensino Básico  irá  contribuir  para  os  objectivos  chave  nacionais  de  redução  da  pobreza absoluta,  promoção  da  justiça  económica  e  social,  equidade  do  género,  e  de  luta contra o HIV/SIDA, impedindo a sua disseminação e mitigando o seu impacto. Por outro lado, o progresso nestas áreas irá contribuir para o crescimento e sustentabilidade de serviços de qualidade no Ensino Básico, em Moçambique.
+O compromisso do Governo de assegurar o acesso e melhorar a qualidade do Ensino Básico irá contribuir para os objectivos chave nacionais de redução da pobreza
 
 8
 
@@ -317,15 +407,17 @@ O compromisso do Governo de assegurar o acesso e melhorar a qualidade do Ensino 
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
+absoluta, promoção da justiça económica e social, equidade do género, e de luta contra o HIV/SIDA, impedindo a sua disseminação e mitigando o seu impacto. Por outro lado, o progresso nestas áreas irá contribuir para o crescimento e sustentabilidade de serviços de qualidade no Ensino Básico, em Moçambique.
+
 Mas a visão do Governo para o PEEC vai além disso, na medida em que assume que mesmo um Ensino Básico de qualidade não é suficiente para apoiar as aspirações de desenvolvimento nacional numa economia global, que é cada vez mais baseada no conhecimento e dirigida pela tecnologia. Com o ritmo acelerado do desenvolvimento económico  em  Moçambique,  as  limitações  de  recursos  humanos  estão-se  a  tornar cada vez mais notórias. O sistema pós-primário ainda é muito pequeno e incapaz de responder de forma efectiva às necessidades de uma economia que se quer competitiva  na  economia  global.  Isto  torna  imperativo  que  se  preparem  os  alunos  para  a vida e, para um mercado de trabalho cada vez mais complexo e em rápida mudança.
 
-Por  isso,  a  visão  do  Governo  aponta  para  uma  reforma  da  Educação  TécnicoProfissional de modo a dotar os graduados deste subsistema de capacidades e habilidades para desenvolverem o auto-emprego e integração no mercado de trabalho. Por outro lado, o PEEC inicia o progresso em direcção à expansão do Ensino Secundário em  paralelo  com  a  revisão  do  currículo  deste,  atribuindo-lhe  uma  componente profissionalizante que permita capacitar os estudantes com habilidades para a vida e sua  inserção  no  mercado  de  trabalho.  Também  apoia  a  implementação  do  plano estratégico para o desenvolvimento do Ensino Superior.
+Por isso, a visão do Governo aponta para uma reforma da Educação Técnico-Profissional de modo a dotar os graduados deste subsistema de capacidades e habilidades para desenvolverem o auto-emprego e integração no mercado de trabalho. Por outro lado, o PEEC inicia o progresso em direcção à expansão do Ensino Secundário em paralelo com a revisão do currículo deste, atribuindo-lhe uma componente profissionalizante que permita capacitar os estudantes com habilidades para a vida e sua inserção no mercado de trabalho. Também apoia a implementação do plano estratégico para o desenvolvimento do Ensino Superior.
 
 Finalmente, uma parte integrante da visão do Governo para o PEEC é o reconhecimento de que a construção e sustentação de um Sistema de Educação que propicie acesso equitativo a oportunidades de aprendizagem de alta qualidade para todos os moçambicanos exige grandes mudanças na organização e administração da Educação. O papel da administração central do MEC deve passar a dar um enfoque maior à planificação,  políticas  e  regulamentos,  enquanto  que  a  responsabilidade  pela  administração e prestação de serviços de Educação deverá ser cada vez mais descentralizada  para  as  escolas,  municípios,  distritos  e  províncias,  com  o  centro  a  desempenhar  um  papel  de  facilitação  e  de  monitoria.  Para  além  disso,  os  processos  de Reforma  do  Sector  Público,  e  a  formação  para  os  implementar  serão  centrais  na construção  de  um  Sistema  de  Educação  que  irá  assegurar  um  futuro  melhor  para todos os moçambicanos.
 
 #### 1.3 Desafios a serem tratados pelo PEEC
 
-Apesar dos significativos sucessos alcançados no PEE1, grandes desafios ainda permanecem e muito maiores avanços são exigidos, se se quiser realizar os objectivos do Governo para o desenvolvimento da Educação. Em 2003, antes da introdução do novo currículo, o Sistema investia cerca de 18 anos-matrícula por graduado da sétima classe. Muitos dos graduados não conseguem demonstrar domínio do conhecimento e  das  capacidades  especificadas  no  currículo.  A  qualidade  e  eficiência  do  Ensino Primário devem ser reforçadas, com a melhoria nas taxas de conclusão, diminuição de entradas de alunos acima da idade na 1ª classe, especialmente raparigas, redução das repetições e desistências, e uma redução no custo unitário por graduado, como metas.  A  implementação  intensificada  do  novo  currículo  do  Ensino  Primário,  uma ampla elevação da qualidade e desenvolvimento profissional dos professores e uma direcção  mais  forte  a  nível  das  escolas  irão  contribuir  para  estes  objectivos.  Será também  necessário  mais  progresso  na  redução  das  desigualdades  de  género  no acesso, devendo ser reduzidas as assimetrias dentro e entre as regiões do país, a nível de recursos disponíveis para a Educação.
+Apesar dos significativos sucessos alcançados no PEE1, grandes desafios ainda permanecem e muito maiores avanços são exigidos, se se quiser realizar os objectivos do Governo para o desenvolvimento da Educação. Em 2003, antes da introdução do novo currículo, o Sistema investia cerca de 18 anos-matrícula por graduado da sétima classe. Muitos dos graduados não conseguem demonstrar domínio do conhecimento e das capacidades especificadas no currículo. A qualidade e eficiência do Ensino
 
 9
 
@@ -335,9 +427,11 @@ Apesar dos significativos sucessos alcançados no PEE1, grandes desafios ainda p
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
+Primário devem ser reforçadas, com a melhoria nas taxas de conclusão, diminuição de entradas de alunos acima da idade na 1ª classe, especialmente raparigas, redução das repetições e desistências, e uma redução no custo unitário por graduado, como metas. A implementação intensificada do novo currículo do Ensino Primário, uma ampla elevação da qualidade e desenvolvimento profissional dos professores e uma direcção mais forte a nível das escolas irão contribuir para estes objectivos. Será também necessário mais progresso na redução das desigualdades de género no acesso, devendo ser reduzidas as assimetrias dentro e entre as regiões do país, a nível de recursos disponíveis para a Educação.
+
 O ensino de qualidade exige a inclusão de canais para acelerar o fornecimento e a manutenção do material básico, livros, equipamento e mobiliário; melhorar a qualidade do ensino através  de programas intensivos de formação em serviço e permanente desenvolvimento profissional dos professores. Por isso, esta estratégia trata da necessidade de se desenvolver o apoio ao professorado como uma carreira e a necessidade  de  um  quadro  de  progressão  na  carreira  envolvendo  todos  os  aspectos  dos termos e condições dos professores e de se encorajar uma maior retenção de professores formados no Sistema.
 
-O progresso na melhoria do acesso e retenção deve continuar. Em 2005, cerca de 660 mil  crianças  no  grupo  etário  alvo  (6  -  12  anos  de  idade),  22%  do  total  do  grupo etário,  não  estava  na  escola.  Neste  contexto  é  essencial  acelerar  a  construção  de novas salas de aulas a custos sustentáveis, com envolvimento das comunidades, bem como a reforma das instalações existentes. Estas questões são tratadas no plano da Educação para Todos, Iniciativa 'Fast Track' (EFA / FTI) e incorporadas no PEEC.
+O progresso na melhoria do acesso e retenção deve continuar. Em 2005, cerca de 660 mil crianças no grupo etário alvo (6 – 12 anos de idade), 22% do total do grupo etário, não estava na escola. Neste contexto é essencial acelerar a construção de novas salas de aulas a custos sustentáveis, com envolvimento das comunidades, bem como a reforma das instalações existentes. Estas questões são tratadas no plano da Educação para Todos, Iniciativa “Fast Track” (EFA / FTI) e incorporadas no PEEC.
 
 A meta de construção de mais de 6.000 salas de aulas por ano (cinco vezes mais o número do PEE I), irá, contudo, requerer uma maior aceleração da descentralização e da  criação  das  capacidades  necessárias  a  nível  local.  Apenas  uma  estratégia  de construção  descentralizada  baseada  nas  comunidades  pode  aspirar  a  alcançar  esta meta. Uma meta importante relacionada é a de se localizarem as escolas mais perto das  comunidades,  o  que  envolve  escolas  mais  pequenas,  professores  que  ensinem várias classes quando necessário, e uma redução na necessidade de internatos.
 
@@ -357,7 +451,7 @@ O  MEC  pretende  consolidar  a  abordagem  sectorial  na  implementação  das 
 
 O PEEC propõe actividades particulares para cada uma das suas componentes mas, mais  importante,  tem  por  objectivo  fornecer  um  quadro  estratégico  coerente  para elas, identificando as prioridades mais urgentes para a reforma da política, dentro de parâmetros financeiros sustentáveis. Também enfatiza a necessidade de reforçar os mecanismos e arranjos para a implementação, incluindo a reforma organizacional e administrativa, melhor planificação, gestão financeira reforçada com maior transparência e responsabilidade e o reforço das capacidades institucionais e individuais.
 
-Finalmente, o conceito de abordagem sectorial é também central para a cooperação de Moçambique com os seus parceiros. Estes parceiros, em conjunto com o Governo, estão  cada  vez  mais  comprometidos  em  seguir  a  abordagem  sectorial,  tendo  como base um instrumento estratégico de médio prazo que, para o período 2006 - 2010/11, será  o  PEEC.  Este  comprometimento  e  cooperação  envolve  e  envolverá  novas formas de parceria, processos de gestão do apoio externo (tanto financiamento como assistência técnica), bem como a monitoria e apresentação de relatórios. Durante o PEE I foram alcançados progressos que deverão ser  consolidados e desenvolvidos durante a implementação do PEEC.
+Finalmente, o conceito de abordagem sectorial é também central para a cooperação de Moçambique com os seus parceiros. Estes parceiros, em conjunto com o Governo, estão cada vez mais comprometidos em seguir a abordagem sectorial, tendo como base um instrumento estratégico de médio prazo que, para o período 2006 – 2010/11, será o PEEC. Este comprometimento e cooperação envolve e envolverá novas formas de parceria, processos de gestão do apoio externo (tanto financiamento como assistência técnica), bem como a monitoria e apresentação de relatórios. Durante o PEE I foram alcançados progressos que deverão ser consolidados e desenvolvidos durante a implementação do PEEC.
 
 O PEE I foi organizado em 3 componentes temáticas (acesso, qualidade e capacidade institucional)  o  que  tornou  difícil  a  sua  operacionalização  efectiva  aos  diferentes níveis do sistema e reflectiu-se particularmente nos seguintes aspectos:
 
@@ -369,7 +463,7 @@ O PEE I foi organizado em 3 componentes temáticas (acesso, qualidade e capacida
 
 O PEEC está desenhado como um quadro para a planificação que ajudará o Governo e os seus parceiros a planear intervenções efectivas, a afectar recursos e a monitorar e avaliar  as  lições  tiradas  da  experiência.  Não  fornece  detalhes  dos  investimentos específicos ou um plano para a sua implementação. Mas para facilitar o desenvolvimento subsequente de um programa de investimento e planos de implementação, o PEEC  está  organizado  em  componentes  que  correspondem  às  responsabilidades organizacionais do MEC.
 
-Todos os programas com componentes reflectem claramente uma unidade de propósitos e fornecem um apoio coerente à visão do PEEC por parte do MEC, que só pode ser  realizada  numa  estratégia  de  implementação  que  esteja  firme  e  coerentemente centrada nos elementos principais da visão do PEEC por parte do Governo.
+Todos os programas com componentes reflectem claramente uma unidade de propósitos e fornecem um apoio coerente à visão do PEEC por parte do MEC, que só pode
 
 11
 
@@ -378,6 +472,8 @@ Todos os programas com componentes reflectem claramente uma unidade de propósit
 [[START OF PAGE 20]]
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
+
+ser realizada numa estratégia de implementação que esteja firme e coerentemente centrada nos elementos principais da visão do PEEC por parte do Governo.
 
 O PEEC baseia-se num corpo substancial de documentos de planificação que analisam os  desafios  e  fornecem  as  prioridades  operacionais  para  cada  componente  do Sistema de Educação em Moçambique. Enquanto que a sua visão e objectivos mais amplos estão firmemente estabelecidos, o quadro do PEEC será ajustado e melhorado durante a implementação. No contexto mais geral da reforma do sector público, o  Ministério  da  Educação  e  Cultura  irá  tratar  da  necessidade  de  uma  planificação reforçada, uma gestão financeira que inclua maior transparência e responsabilidade, mecanismos mais eficientes de desembolso e a colocação mais efectiva dos recursos a todos os níveis: escolas, municípios, distritos, províncias e o nível central.
 
@@ -401,7 +497,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 #### 2.1 Os Objectivos de Desenvolvimento do Milénio (OdMs)
 
-Em Setembro de 2000,  a  Assembleia Geral  das  Nações  Unidas  adoptou  unanimemente  a  Declaração  do  Milénio.  O  compromisso  do  Governo  moçambicano  com objectivos e metas estabelecidas nessa declaração está reflectido nas suas políticas de desenvolvimento económico e social e reconhece o papel importante da Educação no apoio para o cumprimento de todas as MdMs 1 . Algumas delas dizem respeito especificamente à Educação:
+Em Setembro de 2000, a Assembleia Geral das Nações Unidas adoptou unanimemente a Declaração do Milénio. O compromisso do Governo moçambicano com objectivos e metas estabelecidas nessa declaração está reflectido nas suas políticas de desenvolvimento económico e social e reconhece o papel importante da Educação no apoio para o cumprimento de todas as MdMs¹. Algumas delas dizem respeito especificamente à Educação:
 
 - a eliminação da desigualdade de género no Ensino Primário e Secundário até 2005;
 
@@ -419,7 +515,7 @@ No âmbito  da  Educação  a  Agenda  2025  identifica  vários  dos  grandes  
 
 A Agenda determina que 'a educação e formação devem dar valor preponderante à capacitação do cidadão moçambicano fornecendo, especialmente, aos adolescente e jovens,  os  instrumentos  práticos  e  teóricos  para  ser  bem  sucedido  na  vida' e assenta-a  sobre  quatro  pilares,  designadamente  o  saber  ser,  saber  conhecer,  saber fazer, saber viver juntos. A Agenda 2025 reconhece a necessidade de maior investimento na educação e formação da mulher dado o seu papel de mãe educadora das novas gerações.
 
-> 1 MdMs - Objectivos do Milénio
+> 1 MdMs – Objectivos do Milénio
 
 13
 
@@ -441,7 +537,7 @@ O Plano de Acção para a Redução da Pobreza Absoluta (PARPA) é o Documento d
 
 No  PARPA,  o  Governo  afirma  que  é  essencial  aumentar  o  acesso  e  melhorar  a qualidade do Ensino Básico para se criarem e se sustentarem novas oportunidades para  os  mais  pobres  e  para  os  grupos  até  agora  considerados  marginalizados,  tais como as mulheres e os cidadãos em áreas rurais e de outras regiões menos favorecidas.  Para  assegurar  um  progresso  contínuo  em  direcção  à  igualdade  do  género, serão desenhados currículos e materiais de ensino que assegurem que os professores dêem  tratamento  e  oportunidades  iguais  às  raparigas.  O  Ensino  Primário  deverá também oferecer oportunidades de aprendizagem àqueles que tenham necessidades educativas  especiais,  através  da  implementação  de  políticas  já  desenvolvidas  na estratégia do MEC para uma educação inclusiva para todas as crianças. Equidade e inclusão constituem valores fundamentais na visão do PEEC.
 
-A  implementação  do  PARPA  envolve  a  planificação  anual  das  suas  propostas, objectivos e acções através do Plano Económico e Social (PES) e do Orçamento do Estado. Um instrumento chave é o Quadro de Avaliação de Desempenho (QAD), que analisa  o  progresso  em  relação  ao  cumprimento  dos  objectivos  do  PARPA  dos sectores  chave,  incluindo  a  Educação.  Actualmente  o  QAD contém três  objectivos para  a  educação:  aumentar  o  acesso  e  retenção,  maior  qualidade  da  educação,  e redução das assimetrias de género. Para alcançar estes objectivos, o QAD apela ao desenvolvimento  e  aprovação  do  PEEC  que  prioriza  a  construção  acelerada  de escolas a custos sustentáveis, e inclui uma estratégia para a formação de professores que toma em consideração o novo currículo e a estratégia de género. Define metas específicas  para  melhorar  o  acesso  e  retenção  no  Ensino  Primário,  que  estão  resumidas na tabela 2.1 que se segue.
+A implementação do PARPA envolve a planificação anual das suas propostas, objectivos e acções através do Plano Económico e Social (PES) e do Orçamento do Estado. Um instrumento chave é o Quadro de Avaliação de Desempenho (QAD), que analisa o progresso em relação ao cumprimento dos objectivos do PARPA dos sectores chave, incluindo a Educação. Actualmente o QAD contém três objectivos
 
 14
 
@@ -451,17 +547,19 @@ A  implementação  do  PARPA  envolve  a  planificação  anual  das  suas  pro
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
+para a educação: aumentar o acesso e retenção, maior qualidade da educação, e redução das assimetrias de género. Para alcançar estes objectivos, o QAD apela ao desenvolvimento e aprovação do PEEC que prioriza a construção acelerada de escolas a custos sustentáveis, e inclui uma estratégia para a formação de professores que toma em consideração o novo currículo e a estratégia de género. Define metas específicas para melhorar o acesso e retenção no Ensino Primário, que estão resumidas na tabela 2.1 que se segue.
+
+Tabela 1: Metas do PAF
+
 Indicadores | Nº | PAF 2005 - Metas
+ |  | 2005 | 2006 | 2007
 --- | --- | --- | --- | ---
-2005 | 2006 | 2007
 Ep1, taxa líquida de escolarização, total | 1a | 79% | 83% | 86%
 Ep1, taxa líquida de escolarização, total, meninas | 1b | 77% | 81% | 84%
 Ep2, taxa líquida de escolarização, total | 2a | 48% | 58% | 66%
 Ep2, taxa líquida de escolarização, total, meninas | 2b | 41% | 52% | 62%
 
-Tabela 1: Metas do PAF
-
-O  Governo  por  si  só  não  tem  nem  os  recursos  nem  a  capacidade  de  financiar  a totalidade  das  acções  necessárias  à  implementação  do  PEEC.  Para  se  alcançar  os objectivos previstos pelo Plano será necessária a participação de todos os cidadãos pais,  comunidades, trabalhadores, ONGs, organizações religiosas - e, também, dos parceiros de cooperação internacional.
+O Governo por si só não tem nem os recursos nem a capacidade de financiar a totalidade das acções necessárias à implementação do PEEC. Para se alcançar os objectivos previstos pelo Plano será necessária a participação de todos os cidadãos - pais, comunidades, trabalhadores, ONGs, organizações religiosas – e, também, dos parceiros de cooperação internacional.
 
 #### 2.4 Cenário de Despesas de Médio Prazo
 
@@ -475,7 +573,7 @@ A implementação  do  PEEC  depende  de  forma  crítica  da  mobilização  de
 
 O  PEEC  assume  uma  afectação  de  receitas  geradas  internamente  que  reflecte  o crescimento anual baseado no padrão dos últimos anos. Isto inclui o pressuposto de que aproximadamente 65% da despesa total do Governo continuará a ser afectada a sectores prioritários do PARPA, constituindo a Educação e a Saúde a maior prioridade.
 
-O PEEC envolve uma grande expansão da prestação de serviços de educação, em conjunto  com  investimentos  substanciais  na  melhoria  da  qualidade  e  reforço  da capacidade a todos os níveis, para uma melhor gestão e administração financeira. Os custos  para  o  cumprimento  das  metas  serão  substanciais  pelo  que  o  Governo  e  os seus  parceiros  deverão  empreender  esforços  para  mobilizar  mais  recursos  tanto internamente  como  do  exterior.  A  Educação,  nos  últimos  anos,  absorveu  cerca  de 18% do total  da  receita  gerada  internamente.  O  plano  de  financiamento  do  PEEC assume que o apoio externo para o desenvolvimento da Educação irá aumentar substancialmente,  atingindo  mais  do  dobro  do  nível  actual.  Actualmente,  a  assistência externa anual (2005) é de cerca de 70 milhões de dólares.
+O PEEC envolve uma grande expansão da prestação de serviços de educação, em conjunto com investimentos substanciais na melhoria da qualidade e reforço da capacidade a todos os níveis, para uma melhor gestão e administração financeira. Os
 
 15
 
@@ -484,6 +582,8 @@ O PEEC envolve uma grande expansão da prestação de serviços de educação, e
 [[START OF PAGE 24]]
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
+
+custos para o cumprimento das metas serão substanciais pelo que o Governo e os seus parceiros deverão empreender esforços para mobilizar mais recursos tanto internamente como do exterior. A Educação, nos últimos anos, absorveu cerca de 18% do total da receita gerada internamente. O plano de financiamento do PEEC assume que o apoio externo para o desenvolvimento da Educação irá aumentar substancialmente, atingindo mais do dobro do nível actual. Actualmente, a assistência externa anual (2005) é de cerca de 70 milhões de dólares.
 
 Ao mesmo tempo, o Governo está comprometido com a implementação de reformas de políticas que irão reforçar a eficácia da utilização de recursos e assegurar que a estratégia  do  PEEC  seja  financeiramente  viável  e  sustentável,  e  assegurar  que  a Educação contribua de forma efectiva para o desenvolvimento nacional. As reformas propostas de  formação inicial de professores, construção de salas de aulas, Ensino Secundário e a Educação Técnico Profissional (ETP) são críticas neste aspecto. Para além disso, o PEEC enfatiza uma maior parceria e o envolvimento de fontes privadas de financiamento no apoio à prestação de serviços de Educação.
 
@@ -513,7 +613,7 @@ O plano EFA/FTI inclui uma análise financeira dos custos para se atingir o Ensi
 
 #### 2.7 Objectivos e metas para o PEEC na área de educação
 
-A  visão  do  desenvolvimento  da  Educação  e  o  contexto  de  políticas  descrito  nas secções  anteriores  determinam,  em  larga  medida,  os  objectivos  e  metas  gerais  do Sistema  de  Educação  em  Moçambique,  durante  os  próximos  cinco  anos  (2006  2010/11).  O  PEEC  é  um  plano  estratégico  que  será  usado  como  um  ponto  de referência por todos os parceiros do Sistema, para se atingir esses objectivos e metas.
+A visão do desenvolvimento da Educação e o contexto de políticas descrito nas secções anteriores determinam, em larga medida, os objectivos e metas gerais do Sistema de Educação em Moçambique, durante os próximos cinco anos (2006 – 2010/11). O PEEC é um plano estratégico que será usado como um ponto de referência por todos os parceiros do Sistema, para se atingir esses objectivos e metas.
 
 A principal prioridade do PEEC é o Ensino Básico. Especificamente o objectivo é criar  as  condições  para  assegurar  que  em  2010  a  taxa  líquida  de  escolarização  no ensino primário seja de 97% (em 2005 era de 81%) e a taxa de conclusão de 69% (em 2005 era de 33%). O fosso actual em relação às raparigas deverá reduzir substancialmente. O PEEC, em consonância com o PARPA e incorporando a iniciativa 'FTI'  como  parte  central  da  sua  componente  de  ensino  primário,  pretende  desta forma  dar  um  grande  passo  em  direcção  à  meta  do  ensino  primário  universal  até 2015. Em 2015, o EP1 e o EP2 deverão ser um programa integrado de 7 anos de ensino básico que dá a todas as crianças habilidades para a vida, capacitando-as para intervir  de  forma responsável na sociedade, assim como a oportunidade de prosseguirem os estudos.
 
@@ -533,7 +633,7 @@ Embora o Ensino Básico seja a principal prioridade do Governo, ele não pode se
 
 Para se atingir os objectivos de melhoria da qualidade, será necessário o reforço da formação  de  professores  para  aumentar  não  só  o  número  como  a  qualidade  dos professores em todos os níveis e tipos de ensino. Os múltiplos canais para a formação de professores, tanto inicial como em serviço, precisarão de ser integrados, melhor coordenados  e  focalizados  na  qualidade  e  eficácia.  O  PEEC  prevê  um  quadro reformado para a formação, colocação e retenção de professores, associado a claras oportunidades de posterior desenvolvimento e progresso na carreira. Questões relativas à motivação e satisfação, termos e condições em que os professores e administradores trabalham terão de ser tratadas em combinação com uma gestão prudente do fundo de salários, à medida que o Sistema se expande.
 
-O PEEC e o PARPA têm por objectivo responder às necessidades educacionais de todos os cidadãos e não apenas daqueles em idade escolar. Isto reflecte os compromissos da Educação para Todos que incluem a Educação na Primeira  Infância e a expansão da Educação de Adultos e de oportunidades de Alfabetização.  O Ensino Primário melhora quando os programas da primeira infância apoiam um desenvolvimento saudável das crianças em idade pré-escolar. Pais alfabetizados - particularmente, as mães - preparam as crianças melhor para o sucesso escolar, e estão melhor preparados  para  apoiar  a  sua  aprendizagem  em  parceria  com  a  escola.  Programas efectivos de apoio ao desenvolvimento na primeira infância e à Educação de Adultos e Educação não Formal são importantes para o sucesso do PEEC.
+O PEEC e o PARPA têm por objectivo responder às necessidades educacionais de todos os cidadãos e não apenas daqueles em idade escolar. Isto reflecte os compromissos da Educação para Todos que incluem a Educação na Primeira Infância e a expansão da Educação de Adultos e de oportunidades de Alfabetização. O Ensino
 
 18
 
@@ -543,9 +643,11 @@ O PEEC e o PARPA têm por objectivo responder às necessidades educacionais de t
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-As  oportunidades  educacionais  e  a  prestação  de  serviços  de  educação  não  estão distribuídos de forma uniforme entre as regiões do país. A redução das assimetrias regionais,  bem  como  das  disparidades  entre  ricos  e  pobres,  rapazes  e  raparigas, populações urbanas e rurais, constitui um objectivo primordial. O financiamento do PEEC, será direccionado no sentido de resolver as diferentes disparidades, através da colocação de professores, construção de salas e outras intervenções nos locais mais necessitados. O PEEC inclui também metas e acções específicas para tratar com as questões de género numa componente transversal. Reflecte as interligações entre as questões  de  género  em  diferentes  partes  e  níveis  do  Sistema,  com  o  objectivo  de melhorar os indicadores de género até 2010/11, para alunos, professores e administradores.
+Primário melhora quando os programas da primeira infância apoiam um desenvolvimento saudável das crianças em idade pré-escolar. Pais alfabetizados – particularmente, as mães - preparam as crianças melhor para o sucesso escolar, e estão melhor preparados para apoiar a sua aprendizagem em parceria com a escola. Programas efectivos de apoio ao desenvolvimento na primeira infância e à Educação de Adultos e Educação não Formal são importantes para o sucesso do PEEC.
 
-O crescimento económico permanente é tanto um pré-requisito como um resultado do  progresso  na  Educação.  O  crescimento  de  receitas  necessário  para  financiar  o PEEC resultará do antecipado desenvolvimento económico e da redução da pobreza previstos no PARPA, para os quais o sector da educação contribuirá. O progresso em direcção à meta do Ensino Primário Universal é absolutamente fundamental para este objectivo. Mas Moçambique reconhece - tal como todos os outros países da região que o ensino primário já não é suficiente para a participação na economia global que é  dirigida  pelo  acesso  ao  conhecimento  e à tecnologia. A longo prazo, o objectivo deverá ser de dar a todos os moçambicanos uma Educação Básica de 9 ou 10 anos, que  prepare  para  a  continuação  dos  estudos,  entrada  com  sucesso  no  mercado  de trabalho  e  na  vida  adulta.  O  PEEC  estabelecerá  o  estágio  de  progresso  para  se alcançar este objectivo, através de:
+As oportunidades educacionais e a prestação de serviços de educação não estão distribuídos de forma uniforme entre as regiões do país. A redução das assimetrias regionais, bem como das disparidades entre ricos e pobres, rapazes e raparigas, populações urbanas e rurais, constitui um objectivo primordial. O financiamento do PEEC, será direccionado no sentido de resolver as diferentes disparidades, através da colocação de professores, construção de salas e outras intervenções nos locais mais necessitados. O PEEC inclui também metas e acções específicas para tratar com as questões de género numa componente transversal. Reflecte as interligações entre as questões de género em diferentes partes e níveis do Sistema, com o objectivo de melhorar os indicadores de género até 2010/11, para alunos, professores e administradores.
+
+O crescimento económico permanente é tanto um pré-requisito como um resultado do progresso na Educação. O crescimento de receitas necessário para financiar o PEEC resultará do antecipado desenvolvimento económico e da redução da pobreza previstos no PARPA, para os quais o sector da educação contribuirá. O progresso em direcção à meta do Ensino Primário Universal é absolutamente fundamental para este objectivo. Mas Moçambique reconhece - tal como todos os outros países da região - que o ensino primário já não é suficiente para a participação na economia global que é dirigida pelo acesso ao conhecimento e à tecnologia. A longo prazo, o objectivo deverá ser de dar a todos os moçambicanos uma Educação Básica de 9 ou 10 anos, que prepare para a continuação dos estudos, entrada com sucesso no mercado de trabalho e na vida adulta. O PEEC estabelecerá o estágio de progresso para se alcançar este objectivo, através de:
 
 - Expansão do acesso e implementação de um currículo reformado nas escolas secundárias que, para além do tradicional enfoque académico que conduz à entrada na universidade, responda a outras necessidades, tais como a entrada directa  no  mercado  de  trabalho  a  partir  da  escola  secundária,  obtenção  de capacidades para a vida e preparação para formação técnico-profissional de nível mais avançado;
 
@@ -599,7 +701,7 @@ O Ensino Primário é central para a estratégia do Governo de combate à pobrez
 
 Moçambique  fez  um  progresso  substancial  na  melhoria  do  acesso  ao  Ensino Primário. Entre 1999 e 2005, a escolarização no EP1 e no EP2 aumentou de 2,3 para 4 milhões de alunos, e o número de escolas aumentou de 6.500 para 9.500. A taxa bruta de admissão na 1ª classe aumentou de 104% para 160% no mesmo período. A nível do EP2, a admissão também aumentou substancialmente. A transição do EP1 para o EP2 continua a ser um grande desafio. Muitas escolas não oferecem o ciclo completo de 7 anos de ensino. Por isso, muitas vezes, a continuação no EP2 exige que  os  alunos  se  desloquem  por  longas  distâncias  a  partir  de  suas  casas,  ou  que entrem em internatos o que constitui uma barreira particularmente para as raparigas.
 
-As  taxas  de  conclusão  no  EP1  melhoraram  de  26%  em  1999  para  57%  em  2005, principalmente  como  resultado  dos  esforços  para  assegurar  que  todas  as  escolas primárias ofereçam os cinco primeiros anos de ensino primário e para recrutar novos professores. Contudo, os indicadores de eficiência interna e de qualidade da Educação  são  menos  impressionantes.  Desde  1999,  factores  tais  como  a  qualidade  dos professores, taxas de desistência, a incidência de turnos triplos e o número de alunos por  professor,  ou  apenas  registaram  melhorias  marginais,  ou  permaneceram  na mesma ou até mesmo pioraram. Actualmente, cerca de 660 mil crianças em idade escolar (6-12 anos) continua sem acesso à escola primária.
+As taxas de conclusão no EP1 melhoraram de 26% em 1999 para 57% em 2005, principalmente como resultado dos esforços para assegurar que todas as escolas primárias ofereçam os cinco primeiros anos de ensino primário e para recrutar novos professores. Contudo, os indicadores de eficiência interna e de qualidade da Educa-
 
 21
 
@@ -609,7 +711,9 @@ As  taxas  de  conclusão  no  EP1  melhoraram  de  26%  em  1999  para  57%  em
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-Os dados agregados de escolarização e de conclusão escondem questões fundamentais de equidade. Estas são as discrepâncias entre rapazes e raparigas e, em segundo lugar, as substanciais  assimetrias regionais,  estando ambas fortemente relacionadas com a pobreza 2 .  Em 2005, as raparigas representaram 46,4% dos alunos do EP1. A disparidade de género foi virtualmente eliminada nas admissões à 1ª classe (em 2005, 48% dos inscritos eram raparigas). Contudo, as raparigas continuam a desistir mais do que os rapazes neste nível (do total de alunos que concluíram o Ep1 em 2005, apenas 43% eram raparigas).
+ção são menos impressionantes. Desde 1999, factores tais como a qualidade dos professores, taxas de desistência, a incidência de turnos triplos e o número de alunos por professor, ou apenas registaram melhorias marginais, ou permaneceram na mesma ou até mesmo pioraram. Actualmente, cerca de 660 mil crianças em idade escolar (6-12 anos) continua sem acesso à escola primária.
+
+Os dados agregados de escolarização e de conclusão escondem questões fundamentais de equidade. Estas são as discrepâncias entre rapazes e raparigas e, em segundo lugar, as substanciais assimetrias regionais, estando ambas fortemente relacionadas com a pobreza 2 . Em 2005, as raparigas representaram 46,4% dos alunos do EP1. A disparidade de género foi virtualmente eliminada nas admissões à 1ª classe (em 2005, 48% dos inscritos eram raparigas). Contudo, as raparigas continuam a desistir mais do que os rapazes neste nível (do total de alunos que concluíram o Ep1 em 2005, apenas 43% eram raparigas).
 
 Desigualdades  geográficas  significativas  também  existem  tanto  entre  as  províncias como entre distritos de uma mesma província. Indicadores chave da Educação tais como admissões, conclusão, desistências e nível de qualificação dos professores, são substancialmente mais baixos no norte e centro do país do que no sul. Deste modo, enquanto que o fosso em termos de género entre rapazes e raparigas era de 0,7% na província de Gaza em 2005, era superior a 10% nas províncias centrais de Sofala, Nampula e Zambézia. Em 2003 quase metade dos distritos tinham taxas de conclusão inferiores a 20% para as raparigas no Ep1.
 
@@ -617,7 +721,7 @@ Vários factores contribuem para os problemas acima mencionados (Relatório PSIA
 
 A  incidência  da  pobreza  é  claramente  o  factor  mais  importante  que  explica  estas assimetrias. Mas é muitas vezes exacerbado por factores sociais, culturais e comunitários, tais como: a educação dos pais, ritos de iniciação, casamentos prematuros, bem  como  o  problema  da  fome  em  determinadas  regiões.  O  aparecimento  do HIV/SIDA coloca uma pressão adicional nas famílias, muitas vezes com um impacto negativo nas raparigas e exacerbando ainda mais o ciclo da pobreza.
 
-A motivação e qualidade dos professores são essenciais para um bom processo de aprendizagem.  A  prática  de  ensino  actual  centra-se  no  professor,  mais  do  que  no aluno, e dá aos alunos uma oportunidade limitada de aplicarem e reflectirem sobre conceitos.  Uma  avaliação  recente  do  ensino  da  Matemática,  Português  e  ciências sociais  em  várias  províncias  confirmou  isto.  Os  alunos  tinham  dificuldades  em mostrar  níveis  mais  elevados  de  compreensão  e  de  capacidades  cognitivas.  Há professores que não dominam as suas disciplinas e faltam-lhes as capacidades para assegurarem uma aprendizagem efectiva. Foram lançados programas de aperfeiçoamento de professores em serviço, mas a sua cobertura é limitada e as condições nas escolas impedem a aplicação de novas estratégias de ensino (turmas com mais de 80 alunos são comuns em algumas áreas).
+A motivação e qualidade dos professores são essenciais para um bom processo de aprendizagem. A prática de ensino actual centra-se no professor, mais do que no
 
 > 2 Ver o Inquérito Demográfico e de Saúde para Moçambique de 1997, para mais detalhes
 
@@ -629,7 +733,9 @@ A motivação e qualidade dos professores são essenciais para um bom processo d
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-Estes  factores  são  agravados  pelas  exigências  que  o  currículo  coloca  aos  alunos  e professores e por uma relativamente fraca monitoria e avaliação do desempenho na escola. Não existe uma avaliação exaustiva do aluno, e a monitoria e 'feedback' a nível da escola é 'ad hoc'. O actual currículo do EP1 deverá ser leccionado em 760 a 950 horas ao ano, mas na prática, este numero  ainda não é atingido porque, por um lado a maioria das escolas funcionam em 2 e 3 turnos e, por outro, verifica-se um acentuado  absentismo  por  parte  dos  professores.  Estes  factores  contribuem  para  o facto de que aqueles que terminam a escola (no EP1 ou EP2) estão, muitas vezes, mal preparados para enfrentar os desafios da vida diária.
+aluno, e dá aos alunos uma oportunidade limitada de aplicarem e reflectirem sobre conceitos. Uma avaliação recente do ensino da Matemática, Português e ciências sociais em várias províncias confirmou isto. Os alunos tinham dificuldades em mostrar níveis mais elevados de compreensão e de capacidades cognitivas. Há professores que não dominam as suas disciplinas e faltam-lhes as capacidades para assegurarem uma aprendizagem efectiva. Foram lançados programas de aperfeiçoamento de professores em serviço, mas a sua cobertura é limitada e as condições nas escolas impedem a aplicação de novas estratégias de ensino (turmas com mais de 80 alunos são comuns em algumas áreas).
+
+Estes factores são agravados pelas exigências que o currículo coloca aos alunos e professores e por uma relativamente fraca monitoria e avaliação do desempenho na escola. Não existe uma avaliação exaustiva do aluno, e a monitoria e “feedback” a nível da escola é “ad hoc”. O actual currículo do EP1 deverá ser leccionado em 760 a 950 horas ao ano, mas na prática, este numero ainda não é atingido porque, por um lado a maioria das escolas funcionam em 2 e 3 turnos e, por outro, verifica-se um acentuado absentismo por parte dos professores. Estes factores contribuem para o facto de que aqueles que terminam a escola (no EP1 ou EP2) estão, muitas vezes, mal preparados para enfrentar os desafios da vida diária.
 
 A disponibilidade de salas de aulas não conseguiu manter o ritmo do aumento das admissões. Entre 1999 e 2005 a percentagem de salas de aula de construção precária manteve-se estacionária em cerca de 56%. Em 2005, 7% dos alunos do EP1 tinham aulas no terceiro turno. Os esforços para acelerar o ritmo de construção de escolas foram consideravelmente intensificados através de uma combinação de intervenções que incluem o programa de construção de escolas, mobilização da comunidade para contribuir  com  recursos  locais  e  apoio  dos  parceiros  de  cooperação.  Contudo,  na prática, a construção de salas de aulas é ainda muito cara, e muitas vezes muito mal fiscalizada, com os consequentes problemas de qualidade. Para além disso, a construção nem sempre é sensível às questões de género relativamente a serviços, tais como, água e instalações sanitárias.
 
@@ -671,9 +777,9 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 ###### Sumário dos dados de base
 
-- 470 mil alunos no Ep2 em 2005 (41% de raparigas)
-
 - 3,4 milhões de alunos no Ep1 em 2005 (46,4% de raparigas)
+
+- 470 mil alunos no Ep2 em 2005 (41% de raparigas)
 
 - Desistências das raparigas mais alta
 
@@ -689,7 +795,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 ##### 3.2.3 Estratégia
 
-A análise acima sugere que a expansão do Sistema de Educação enfrenta desafios importantes  de  eficiência,  equidade  e  qualidade.  Ganhos  significativos  no  desempenho do Sistema podem ser alcançados reduzindo as taxas de repetição e de desistências, tratando das questões das desigualdades de género e regionais, melhorando o sucesso na aprendizagem dos alunos em geral, e tratando das preocupações referentes à  gestão e supervisão. O PEEC procurará tratar de todas estas preocupações de uma  forma  holística,  colocando  ênfase  na  qualidade  como  um  pré-requisito  para providenciar o acesso a todos a uma educação de mais qualidade. Por conseguinte, as seguintes  áreas  chave  estarão  no  centro  da  estratégia  2006-2010/11  para  o  Ensino Primário:
+A análise acima sugere que a expansão do Sistema de Educação enfrenta desafios importantes de eficiência, equidade e qualidade. Ganhos significativos no desempenho do Sistema podem ser alcançados reduzindo as taxas de repetição e de desistências, tratando das questões das desigualdades de género e regionais, melhorando o sucesso na aprendizagem dos alunos em geral, e tratando das preocupações referen-
 
 24
 
@@ -698,6 +804,8 @@ A análise acima sugere que a expansão do Sistema de Educação enfrenta desafi
 [[START OF PAGE 33]]
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
+
+tes à gestão e supervisão. O PEEC procurará tratar de todas estas preocupações de uma forma holística, colocando ênfase na qualidade como um pré-requisito para providenciar o acesso a todos a uma educação de mais qualidade. Por conseguinte, as seguintes áreas chave estarão no centro da estratégia 2006-2010/11 para o Ensino Primário:
 
 - Expandir a rede das escolas de forma equitativa e sustentável (tratando das assimetrias regionais e assegurando que as escolas ofereçam ambientes seguros e sensíveis ao género);
 
@@ -753,10 +861,10 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores /Metas de Desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Expandir o acesso a oportunidades de aprendizagem | Passos para as metas da 'EFA/MdM' | TLE EP 95 % | Construção gerida pela comunidade, custo médio não superior a 12.000 USD por sala de aula Envolvimento da comunidade escolar e professores
-Construção de 4.100 salas de aula/ano com casas para dois professores por escola nas áreas rurais | Rácio aluno por sala de aula reduzido de 90:1 para 78:1
-Reduzir a entrada tardia das raparigas | 73% de raparigas com 6 anos admitidas na 1ª classe
-Dar o ciclo completo do EP1 em todas as escolas | 90% de escolas com o ciclo completo do Ep1
+Expandir o acesso a oportunidades de aprendizagem | Passos para as metas da “EFA/MdM” | TLE EP 95 % | Construção gerida pela comunidade, custo médio não superior a 12.000 USD por sala de aula Envolvimento da comunidade escolar e professores
+ | Construção de 4.100 salas de aula/ano com casas para dois professores por escola nas áreas rurais | Rácio aluno por sala de aula reduzido de 90:1 para 78:1 | 
+ | Reduzir a entrada tardia das raparigas | 73% de raparigas com 6 anos admitidas na 1ª classe | 
+ | Dar o ciclo completo do EP1 em todas as escolas | 90% de escolas com o ciclo completo do Ep1 | 
 
 26
 
@@ -769,10 +877,10 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 Objectivos | Resultados | Indicadores /Metas de Desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
 Melhorar a qualidade da instrução e o sucesso da aprendizagem dos alunos | Escolas centradas na aprendizagem do aluno | Repetição reduzida no EP 1 para 5% e para 10% no EP2 Desempenho dos alunos em português e matemática no teste padrão melhorado em 10% | Implementação do Novo Currículo do Ensino Básico, Aumento das tempo lectivo no EP1 (eliminar 3 turnos)
-Reestruturado e incorporada a formação de professores, inicial e em serviço | Recrutamento de professores com formação inicial Todos os professores com acesso a oportunidades de formação em serviço ZIPs reforçadas | Os novos professores do EP formados nos novos programas de 10+1. CRESCER implementado em todo o país
-Assegurado o fornecimento suficiente de livros e de materiais de ensino | Livros disponíveis para os alunos num rácio de 1:1 por disciplina | Professores e directores de escolas formados, livros distribuídos
-Novo currículo do Ensino Primário implementado com ênfase particular no ensino bilingue e em classes múltiplas | Os professores a aplicarem o novo currículo. Professores e outros materiais disponíveis para o ensino bilingue e de classes múltiplas | Materiais de ensino para o ensino bilingue e para o ensino em classes múltiplas produzidos e distribuídos onde necessário
-Apoio directo às escolas para consumíveis, manutenção das instalações e programas de nutrição, saúde escolar e de desporto escolar | Todos os alunos têm material apropriado e acesso a programas de saúde; ADE assegura a manutenção das escolas, programas de produção escolar implementados | ADE aumentado para cerca de 5 USD por aluno por ano até 2011
+ | Reestruturado e incorporada a formação de professores, inicial e em serviço | Recrutamento de professores com formação inicial Todos os professores com acesso a oportunidades de formação em serviço ZIPs reforçadas | Os novos professores do EP formados nos novos programas de 10+1. CRESCER implementado em todo o país
+ | Assegurado o fornecimento suficiente de livros e de materiais de ensino | Livros disponíveis para os alunos num rácio de 1:1 por disciplina | Professores e directores de escolas formados, livros distribuídos
+ | Novo currículo do Ensino Primário implementado com ênfase particular no ensino bilingue e em classes múltiplas | Os professores a aplicarem o novo currículo. Professores e outros materiais disponíveis para o ensino bilingue e de classes múltiplas | Materiais de ensino para o ensino bilingue e para o ensino em classes múltiplas produzidos e distribuídos onde necessário
+ | Apoio directo às escolas para consumíveis, manutenção das instalações e programas de nutrição, saúde escolar e de desporto escolar | Todos os alunos têm material apropriado e acesso a programas de saúde; ADE assegura a manutenção das escolas, programas de produção escolar implementados | ADE aumentado para cerca de 5 USD por aluno por ano até 2011
 
 27
 
@@ -784,8 +892,8 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores /Metas de Desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Tratados os problemas de corrupção e abuso sexual nas escolas | Políticas dissemi- nadas e sendo cum- pridas; professores e pessoal da adminis- tração formados | Formação e capaci- tação dos directores, professores e Conselhos de Escola.
-Reforço da planificação descentraliza- da e da tomada de decisões | Revisto o mandato de gestão do director, Conselho de Escola e direcções distritais | Regulamentos das escolas revistos; As escolas têm um plano de desenvolvimento | Programa estendido a todo o país (componente 12)
+ | Tratados os problemas de corrupção e abuso sexual nas escolas | Políticas disseminadas e sendo cumpridas; professores e pessoal da administração formados | Formação e capacitação dos directores, professores e Conselhos de Escola.
+Reforço da planificação descentralizada e da tomada de decisões | Revisto o mandato de gestão do director, Conselho de Escola e direcções distritais | Regulamentos das escolas revistos; As escolas têm um plano de desenvolvimento | Programa estendido a todo o país (componente 12)
 
 #### 3.3 Educação Não-Formal e de Adultos
 
@@ -795,7 +903,7 @@ Na altura da Independência (1975), Moçambique tinha uma taxa de analfabetismo 
 
 O início  da  guerra  de  desestabilização  e  a  crise  económica  na  década  de  80  a  90 resultou numa queda drástica das admissões na educação não formal e na educação de  adultos.  A  única  excepção  foi  a  actividade  de  alguns  provedores  não  governamentais, tais como as ONGs, grupos comunitários, organizações religiosas e individuais. Estas organizações desenvolveram programas em pequena escala, mas muitas vezes, inovadores (incluindo o uso de línguas locais) para mulheres, jovens e adultos. Infelizmente,  até  muito  recentemente,  estas  iniciativas  eram  mal  coordenadas  e documentadas e como tal não foram utilizadas para o desenvolvimento de estratégias e actividades em escala maior. O MEC reconhece que os desafios da Educação de Adultos e não Formal estão estreitamente ligados aos do Ensino Primário. O fraco acesso à educação significa que, para muitos, a escola não é nem sequer uma opção. Para além disso, a fraca qualidade da educação, a falta de relevância, os altos custos, questões  culturais  e  o  impacto  do  HIV/SIDA  contribuem  para  as  altas  taxas  de desistências e repetição.
 
-A Educação de Adultos e não-formal  desempenham um papel  chave  em  conjunto com o Ensino Primário, no avanço para o alcance da Educação para Todos. O objectivo geral é de trabalhar em parceria com a sociedade civil, para se poder dar acesso a oportunidades de Educação Básica aos Jovens e mulheres. Para além da redução do analfabetismo,  os  programas  AEA/ENF  podem  também  contribuir  para  o  desenvolvimento da comunidade, respeito pelos valores culturais, desenvolvimento de uma cultura  de  paz,  tolerância  e  democracia,  prevenção  e  mitigação  do  impacto  do HIV/SIDA e das doenças de transmissão sexual, e a redução da pobreza absoluta.
+A Educação de Adultos e não-formal desempenham um papel chave em conjunto com o Ensino Primário, no avanço para o alcance da Educação para Todos. O obje-
 
 28
 
@@ -804,6 +912,8 @@ A Educação de Adultos e não-formal  desempenham um papel  chave  em  conjunto
 [[START OF PAGE 37]]
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
+
+ctivo geral é de trabalhar em parceria com a sociedade civil, para se poder dar acesso a oportunidades de Educação Básica aos Jovens e mulheres. Para além da redução do analfabetismo, os programas AEA/ENF podem também contribuir para o desenvolvimento da comunidade, respeito pelos valores culturais, desenvolvimento de uma cultura de paz, tolerância e democracia, prevenção e mitigação do impacto do HIV/SIDA e das doenças de transmissão sexual, e a redução da pobreza absoluta.
 
 ##### 3.3.2 Realizações durante o PEE I
 
@@ -831,9 +941,9 @@ O PEE I estabeleceu o quadro para um compromisso claro com a Educação Básica 
 
 - Recursos humanos insuficientes em termos de quantidade e qualidade.
 
-- Supervisão, monitoria e sistemas de avaliação deficientes.
-
 - Recolha de dados e sistemas de análise estatística inadequados.
+
+- Supervisão, monitoria e sistemas de avaliação deficientes.
 
 29
 
@@ -857,14 +967,14 @@ A qualidade e relevância dos programas têm sido muitas vezes menores do que as
 
 - Desenvolver  mecanismos  adequados  e  meios  para  monitorar  as  várias actividades.
 
+##### 3.3.4 AEA/ENF: Quadro para acção e reformas de políticas
+
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Aumentar as matrí- culas em programas de alfabe- tização e de pós- alfabetiza- ção | Taxas mais elevadas de participação particularmente de mulheres e raparigas; 300.000 novas matrículas/ano | Taxa de analfabetismo reduzida para 40%; 70% das novas matrículas são mulheres | Parcerias com a sociedade civil, organizações religiosas e operadores do sector privado
-Sensibilização e mobilização das comunidades e potenciais beneficiários | Reuniões com líderes comunitários e formação de mulheres activistas
-Parcerias estabelecidas com outras instituições do estado e da sociedade civil. | Reunião regular do Fórum Nacional de AEA/ENF; Manual de procedimentos para parcerias
-Melhorar a qualidade e relevância | Novos currículos implementados para a alfabetização e pós- alfabetização | Número de provedores que adoptam os novos materiais do currículo
-
-##### 3.3.4 AEA/ENF: Quadro para acção e reformas de políticas
+Aumentar as matrículas em programas de alfabetização e de pós-alfabetização | Taxas mais elevadas de participação particularmente de mulheres e raparigas; 300.000 novas matrículas/ano | Taxa de analfabetismo reduzida para 40%; 70% das novas matrículas são mulheres | Parcerias com a sociedade civil, organizações religiosas e operadores do sector privado
+ | Sensibilização e mobilização das comunidades e potenciais beneficiários | Reuniões com líderes comunitários e formação de mulheres activistas | 
+ | Parcerias estabelecidas com outras instituições do estado e da sociedade civil. | Reunião regular do Fórum Nacional de AEA/ENF; Manual de procedimentos para parcerias | 
+Melhorar a qualidade e relevância | Novos currículos implementados para a alfabetização e pós-alfabetização | Número de provedores que adoptam os novos materiais do currículo | 
 
 30
 
@@ -876,12 +986,12 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-dos programas | Materiais para progra- mas de alfabetização e pós alfabetização, em português e línguas nacionais
-Pessoal AEA/ENF formado no novo currículo | Número de pessoal formado
-Programas de alfabetização apoiados por transmissões por rádio e televisão | Programas piloto em 3 províncias implementados e avaliados
-Reforçar a capacidade do INEA e CFQAEA a nível provincial | Instalações e equipa- mento apropriados e equipamento no INEA e nos CFQAEAs | Colaboração com outros parceiros de cooperação
-Estatísticas fiáveis sobre AEA/ENF
-Capacidade de monitoria e avaliação reforçada
+dos programas | Materiais para programas de alfabetização e pós alfabetização, em português e línguas nacionais |  | 
+ | Pessoal AEA/ENF formado no novo currículo | Número de pessoal formado | 
+ | Programas de alfabetização apoiados por transmissões por rádio e televisão | Programas piloto em 3 províncias implementados e avaliados | 
+Reforçar a capacidade do INEA e CFQAEA a nível provincial | Instalações e equipamento apropriados e equipamento no INEA e nos CFQAEAs |  | Colaboração com outros parceiros de cooperação
+ | Estatísticas fiáveis sobre AEA/ENF |  | 
+ | Capacidade de monitoria e avaliação reforçada |  | 
 
 #### 3.4 Ensino Secundário
 
@@ -889,7 +999,7 @@ Capacidade de monitoria e avaliação reforçada
 
 As admissões no ensino primário representam mais de 90% de todos os alunos em Moçambique. No entanto, durante o PEE I, o ensino secundário também se expandiu rapidamente, em parte como resultado do crescimento das escolas privadas, particularmente nas áreas urbanas.
 
-A expansão do acesso e a melhoria da qualidade no ensino secundário terá de ser uma área de principal enfoque no PEEC, por três razões. Primeiro, a melhoria nas taxas de retenção e de conclusão no ensino primário já estão a aumentar a procura pelo ensino secundário, e esta pressão por um maior acesso continuará a aumentar. Segundo, o crescimento económico também depende das escolas secundárias produzirem graduados qualificados para as empresas públicas e privadas em Moçambique. É  deste  nível  que  a  maioria  dos  professores  e  administradores  do  sistema  de educação e não só, são recrutados. Terceiro, as escolas secundárias também produzem  candidatos  ao  ensino  superior.  Por  isso,  o  desafio  é  encontrar  um  caminho equilibrado para o crescimento do ensino secundário que responda a estes objectivos, fazendo isto dentro de um contexto de expansão orçamental limitada para o subsistema,  tendo  em  consideração  as  necessidades  de  expansão  e  melhoria  de  outras partes do sistema.
+A expansão do acesso e a melhoria da qualidade no ensino secundário terá de ser uma área de principal enfoque no PEEC, por três razões. Primeiro, a melhoria nas taxas de retenção e de conclusão no ensino primário já estão a aumentar a procura pelo ensino secundário, e esta pressão por um maior acesso continuará a aumentar. Segundo, o crescimento económico também depende das escolas secundárias produzirem graduados qualificados para as empresas públicas e privadas em Moçambique. É deste nível que a maioria dos professores e administradores do sistema de educação e não só, são recrutados. Terceiro, as escolas secundárias também produzem candidatos ao ensino superior. Por isso, o desafio é encontrar um caminho equilibrado para o crescimento do ensino secundário que responda a estes objectivos, fazendo isto dentro de um contexto de expansão orçamental limitada para o subsis-
 
 31
 
@@ -899,13 +1009,15 @@ A expansão do acesso e a melhoria da qualidade no ensino secundário terá de s
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-O actual currículo é enciclopédico (10 disciplinas no ESG1 e 6 ou 7 em cada opção no  ESG2),  altamente  académico  e  muito  virado  para  uma  preparação  para  a continuação dos estudos no ES2 e nas universidades, não respondendo, deste modo, em  muitos  aspectos  às  necessidades  do  mercado  de  trabalho  e  da  sociedade moçambicana no geral. Como resultado, os graduados do secundário não estão equipados  com  as  capacidades  e  conhecimento  que  lhes  dêem  uma  boa  base  para  a entrada no mercado de trabalho, para ensinarem no ensino primário ou para prosseguirem outros cursos especializados no ensino técnico e profissional. É frequente a queixa das empresas privadas de que estes graduados precisam de muita formação em serviço para se tornarem minimamente eficientes no seu trabalho. Tais preocupações com a qualidade são exacerbadas pelo facto da maioria das infra estruturas do ensino  secundário  estar  em  muito  más  condições  e  de  haver  muito  pouco  equipamento básico - bibliotecas  e  laboratórios  estão  frequentemente  em  tão  mau  estado que  não  podem  ser  usados.  Neste  contexto  não  é  surpreendente  que  a  eficiência interna deste nível seja baixa. As taxas anuais de repetição no ES1 e ES2 são de 28% e  25%,  respectivamente.  Isto  aumenta  os  custos  substancialmente  e  impede  a expansão das admissões. Para além disso, há uma enorme disparidade entre a idade oficial de ingresso e a idade com que os alunos efectivamente ingressam no ES1 e ES2 com claras implicações no conteúdo e qualidade do ensino.
+tema, tendo em consideração as necessidades de expansão e melhoria de outras partes do sistema.
+
+O actual currículo é enciclopédico (10 disciplinas no ESG1 e 6 ou 7 em cada opção no ESG2), altamente académico e muito virado para uma preparação para a continuação dos estudos no ES2 e nas universidades, não respondendo, deste modo, em muitos aspectos às necessidades do mercado de trabalho e da sociedade moçambicana no geral. Como resultado, os graduados do secundário não estão equipados com as capacidades e conhecimento que lhes dêem uma boa base para a entrada no mercado de trabalho, para ensinarem no ensino primário ou para prosseguirem outros cursos especializados no ensino técnico e profissional. É frequente a queixa das empresas privadas de que estes graduados precisam de muita formação em serviço para se tornarem minimamente eficientes no seu trabalho. Tais preocupações com a qualidade são exacerbadas pelo facto da maioria das infra estruturas do ensino secundário estar em muito más condições e de haver muito pouco equipamento básico - bibliotecas e laboratórios estão frequentemente em tão mau estado que não podem ser usados. Neste contexto não é surpreendente que a eficiência interna deste nível seja baixa. As taxas anuais de repetição no ES1 e ES2 são de 28% e 25%, respectivamente. Isto aumenta os custos substancialmente e impede a expansão das admissões. Para além disso, há uma enorme disparidade entre a idade oficial de ingresso e a idade com que os alunos efectivamente ingressam no ES1 e ES2 com claras implicações no conteúdo e qualidade do ensino.
 
 A reforma curricular é particularmente urgente no ES1. O ES1 é parte da educação básica definida pelo NEPAD como um ciclo de nove anos de ensino primário e de ensino secundário básico implicando um aumento rápido da cobertura e objectivos mais  amplos  de  desenvolvimento  de  capacidades.  Deverá  fornecer  graduados  com conhecimentos,  capacidades  e  atitudes  que  possam  competir  com  sucesso  no mercado de trabalho, prosseguir os estudos em escolas formais e em ambientes não formais  e  participar  na  vida  adulta.  O  ES1  precisa  de  preparar  os  alunos  para  a entrada num mercado de trabalho onde a natureza das capacidades exigidas está em rápida mutação e onde o domínio de capacidades básicas nas disciplinas de português,  inglês,  matemática,  ciências  e  de  tecnologias  de  informação  e  comunicação reforçam as capacidades gerais - capacidade de aprender, de resolução de problemas e de comunicação a que os empregadores dão mais valor e que determinam perspectivas de sucesso no auto emprego.
 
 Em 2005 foram graduados os primeiros alunos da 7ª classe que frequentaram o novo currículo do Ensino Básico, introduzido a partir de 2004. Havendo necessidade de se garantir a continuidade do processo de transformação curricular iniciado no Ensino Básico, está em vigor um Programa Intermédio no ESG que iniciou no ano lectivo de 2006 (8ª classe), devendo terminar no ano lectivo de 2008.
 
-O ES2 precisará  então  de  ser  concebido  como parte  de  um  sistema  pós  básico  de desenvolvimento  das  capacidades  onde  uma  série  de  instituições  de  formação fornecem  aos  graduados  do  ES1  oportunidades  para  o  prosseguimento  de  estudos académicos e de formação profissional.
+O ES2 precisará então de ser concebido como parte de um sistema pós básico de desenvolvimento das capacidades onde uma série de instituições de formação
 
 32
 
@@ -915,13 +1027,15 @@ O ES2 precisará  então  de  ser  concebido  como parte  de  um  sistema  pós 
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-Durante  o  PEE  I,  a  rede  de  escolas  secundárias  mais  que  duplicou  havendo actualmente cerca de 230.000 alunos matriculados nas escolas secundárias. Grande parte desta expansão está a ocorrer em distritos onde anteriormente não havia escolas secundárias. No entanto, as taxas brutas de escolarização ainda são baixas tendo sido de 24,5% no ESG1 e 6,1% no ESG2 em 2005. Continuam a existir graves assimetrias regionais e de género no acesso à educação reflectindo em grande medida desigualdades  do  passado  no  nível  primário.  Por  exemplo  em  Nampula  apenas  12,2%  da população  em  idade  escolar  (13-15  anos)  estava  matriculada  no  ESG1  em  2005, enquanto que na cidade de Maputo essa proporção era de 95,3%; nas mesmas duas províncias,  apenas  32,8%  dos  alunos  no  ensino  secundário  em  Nampula  eram raparigas, enquanto que na cidade de Maputo essa proporção era de 53,4%.
+fornecem aos graduados do ES1 oportunidades para o prosseguimento de estudos académicos e de formação profissional.
+
+Durante o PEE I, a rede de escolas secundárias mais que duplicou havendo actualmente cerca de 230.000 alunos matriculados nas escolas secundárias. Grande parte desta expansão está a ocorrer em distritos onde anteriormente não havia escolas secundárias. No entanto, as taxas brutas de escolarização ainda são baixas tendo sido de 24,5% no ESG1 e 6,1% no ESG2 em 2005. Continuam a existir graves assimetrias regionais e de género no acesso à educação reflectindo em grande medida desigualdades do passado no nível primário. Por exemplo em Nampula apenas 12,2% da população em idade escolar (13-15 anos) estava matriculada no ESG1 em 2005, enquanto que na cidade de Maputo essa proporção era de 95,3%; nas mesmas duas províncias, apenas 32,8% dos alunos no ensino secundário em Nampula eram raparigas, enquanto que na cidade de Maputo essa proporção era de 53,4%.
 
 Muitos problemas são comuns ao ensino primário e secundário. Primeiro, o número de professores não formados nas escolas secundárias é significativo e tem aumentado substancialmente. Em 2005, apenas 78% dos professores que leccionavam o ES1 não tinham  qualificações  para  ensinar  este  nível.  Os  programas  de  formação  para  os professores do ensino secundário são longos, e os graduados têm amplas oportunidades  de  trabalho  fora  da  educação,  forçando  o  MEC  a  contratar  professores  não qualificados.  Em  segundo  lugar,  a  formação  que  é  dada  a  um  professor  do  ensino secundário é cara e em muitas casos pouco ajustada para lidarem com as realidades práticas que enfrentam nas salas de aula.
 
 Em  2005  apenas  20%  dos  professores  do  secundário  eram  mulheres.  Face  às inequidades históricas esta proporção está a aumentar muito lentamente. A segurança das  alunas  é  uma  questão  importante,  principalmente  no  caso  dos  internatos  (que muitas  vezes  são  a  única  forma  de  dar  acesso  aos  alunos  que  vivem  longe).  A ausência  de  professoras  significa  que  as  alunas  se  encontram  num  ambiente predominantemente  masculino  o  que  aumenta  os  sentimentos  de  insegurança.  As raparigas estão também mais vulneráveis a que lhes seja pedido que troquem favores sexuais  por  boas  notas.  Estes  factores  podem  contribuir  para  o  número  significativamente maior de matrículas de raparigas nas escolas privadas do que nas escolas públicas (54,7% contra 41,3% no ESG1 em 2005).
 
-O ensino secundário tal como está actualmente organizado é caro para o governo e para os pais. Envolve muitas vezes custos de alojamento, e altos custos em livros e outras transacções (incluindo 'propinas' informais ou outras formas de pagamento a professores ou funcionários das escolas para se garantir uma vaga). Para além disso, há grandes diferenças salariais entre os professores no ensino primário e secundário. O salário médio no ESG1 é cinco vezes mais alto do que no EP1, e os salários no ESG2 são seis vezes mais altos. Estes níveis salariais impõem efectivamente graves impedimentos à capacidade do governo de financiar um sistema de ensino secundário público em rápida expansão. Apesar destes salários relativamente mais altos, alguns professores do ensino secundário deixam o ensino por empregos mais bem remunerados.  Tal  como  no  ensino  primário,  a  moral  e  a  motivação  dos  professores  são baixos. Sem dúvida que muitos factores contribuem para isto, desde os salários mais altos  no  sector  privado  numa  economia  em  rápida  expansão  com  uma  falta significativa  de  mão  de  obra  de  qualificada,  mas  também  as  más  condições  de trabalho  nas  escolas  e  as  limitadas  oportunidades  de  desenvolvimento  profissional. Uma preocupação adicional, é que se espera que a escassez de professores aumente dramaticamente devido ao impacto do HIV/SIDA. Tal como no ensino primário e na formação de professores faltam dados específicos para o ensino secundário, mas está claro que ainda muito terá de ser feito para se ter informação fiável sobre o impacto que o HIV/SIDA tem e poderá vir a ter nos professores e nos alunos, e para mitigar as  suas  consequências.  Uma  área  de  preocupação  aqui  são  os  internatos  que  não oferecem  segurança  ou  condições  de  saúde  adequadas,  exacerbando  o  risco  do HIV/SIDA.
+O ensino secundário tal como está actualmente organizado é caro para o governo e para os pais. Envolve muitas vezes custos de alojamento, e altos custos em livros e outras transacções (incluindo “propinas” informais ou outras formas de pagamento a professores ou funcionários das escolas para se garantir uma vaga). Para além disso, há grandes diferenças salariais entre os professores no ensino primário e secundário. O salário médio no ESG1 é cinco vezes mais alto do que no EP1, e os salários no ESG2 são seis vezes mais altos. Estes níveis salariais impõem efectivamente graves impedimentos à capacidade do governo de financiar um sistema de ensino secundário público em rápida expansão. Apesar destes salários relativamente mais altos, alguns professores do ensino secundário deixam o ensino por empregos mais bem remune-
 
 33
 
@@ -930,6 +1044,8 @@ O ensino secundário tal como está actualmente organizado é caro para o govern
 [[START OF PAGE 42]]
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
+
+rados. Tal como no ensino primário, a moral e a motivação dos professores são baixos. Sem dúvida que muitos factores contribuem para isto, desde os salários mais altos no sector privado numa economia em rápida expansão com uma falta significativa de mão de obra de qualificada, mas também as más condições de trabalho nas escolas e as limitadas oportunidades de desenvolvimento profissional. Uma preocupação adicional, é que se espera que a escassez de professores aumente dramaticamente devido ao impacto do HIV/SIDA. Tal como no ensino primário e na formação de professores faltam dados específicos para o ensino secundário, mas está claro que ainda muito terá de ser feito para se ter informação fiável sobre o impacto que o HIV/SIDA tem e poderá vir a ter nos professores e nos alunos, e para mitigar as suas consequências. Uma área de preocupação aqui são os internatos que não oferecem segurança ou condições de saúde adequadas, exacerbando o risco do HIV/SIDA.
 
 ##### 3.4.2 Realizações durante o PEE I
 
@@ -965,9 +1081,9 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 - Muitas escolas cobrem grandes áreas com estudantes residentes em internatos
 
-- O currículo é orientado apenas para a preparação académica pré-universitária. Por  isso,  não  responde  às  necessidades  mais  amplas  dos  graduados  que entram  como  força  de  trabalho  no  sector  privado,  ou  que  entram  para leccionar nas escolas primárias
-
 - Muitas comunidades rurais não têm acesso fácil às escolas secundárias
+
+- O currículo é orientado apenas para a preparação académica pré-universitária. Por isso, não responde às necessidades mais amplas dos graduados que entram como força de trabalho no sector privado, ou que entram para leccionar nas escolas primárias
 
 - Muitos  dos  professores  recentemente  recrutados  têm  falta  de  formação pedagógica
 
@@ -1025,8 +1141,8 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Expandir o acesso ao Ensino Secundário | Progresso em direcção ao ciclo de ensino básico de 9 anos | TBE ES1 65% TBE ES2 23% Aumento da raparigas escolarizadas (44% em 2010 no ESG1 e 42% no ESG2) | Padrões de infra-estruturas e de equipamento definidos; gestão dos trabalhos descentralizada; Definida a
-Novas escolas secundárias construídas e salas de aulas existentes reabilitadas | Salas de aulas construídas, 5.300 ESG1 e 1.600 ESG2; | politica de formação de professores de forma acelerada e com qualidade;
+Expandir o acesso ao Ensino Secundário | Progresso em direcção ao ciclo de ensino básico de 9 anos | TBE ES1 65% TBE ES2 23% Aumento da raparigas escolarizadas (44% em 2010 no ESG1 e 42% no ESG2) | Padrões de infra-estruturas e de equipamento definidos; gestão dos trabalhos descentralizada; Definida a politica de formação de professores de forma acelerada e com qualidade;
+ | Novas escolas secundárias construídas e salas de aulas existentes reabilitadas | Salas de aulas construídas, 5.300 ESG1 e 1.600 ESG2; | 
 
 36
 
@@ -1038,13 +1154,13 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Estabelecido o Mapa das escolas num quadro de equidade | % de escolas nas áreas rurais; Modelo piloto para as pequenas escolas rurais
-Implementado o programa de ensino à distância para o ESG1 e ESG2 | Admissão inicial equivalente a 10% dos novos ingressos nas escolas secundárias
-Mais professoras e mulheres gestoras | % de mulheres aumentada em 5%
-Melhorar a qualidade do ensino- aprendizagem dos alunos | Adquiridos conhecimentos e capacidades especificadas no currículo pelos alunos | Melhor eficiência interna: redução da taxa de repetição e melhores taxas de aprovação nos exames | Definida a política sobre a elaboração e fornecimento de materiais
-Novo currículo implementado | Currículo do ESG1 implementado em 2008; currículo do ES2 implementado em 2009; Materiais, incluindo micro kits de ciências disponíveis; Revisto e tratado o preconceito de género nos currículos; Criação de bibliotecas
-Formação em capacidades relacionadas com as TIC no novo currículo realizada | 300 escolas a darem formação em TIC | Definição de uma política para a Formação de Professores tanto inicial como em serviço; Formação de directores das escolas Implementação da
-Reforçada a formação em serviço de professores | Todos os professores a participarem regularmente em formação em serviço
+ | Estabelecido o Mapa das escolas num quadro de equidade | % de escolas nas áreas rurais; Modelo piloto para as pequenas escolas rurais | 
+ | Implementado o programa de ensino à distância para o ESG1 e ESG2 | Admissão inicial equivalente a 10% dos novos ingressos nas escolas secundárias | 
+ | Mais professoras e mulheres gestoras | % de mulheres aumentada em 5% | 
+Melhorar a qualidade do ensino-aprendizagem dos alunos | Adquiridos conhecimentos e capacidades especificadas no currículo pelos alunos | Melhor eficiência interna: redução da taxa de repetição e melhores taxas de aprovação nos exames | Definida a política sobre a elaboração e fornecimento de materiais
+ | Novo currículo implementado | Currículo do ESG1 implementado em 2008; currículo do ES2 implementado em 2009; Materiais, incluindo micro kits de ciências disponíveis; Revisto e tratado o preconceito de género nos currículos; Criação de bibliotecas | 
+ | Formação em capacidades relacionadas com as TIC no novo currículo realizada | 300 escolas a darem formação em TIC | Definição de uma política para a Formação de Professores tanto inicial como em serviço; Formação de directores das escolas Implementação da
+ | Reforçada a formação em serviço de professores | Todos os professores a participarem regularmente em formação em serviço | 
 
 37
 
@@ -1056,16 +1172,16 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Reforçada a gestão escolar | Directores de escola e supervisores dos internatos formados, com ênfase especial em consciencializa- ção e prevenção do HIV/SIDA | política das TICs
+ | Reforçada a gestão escolar | Directores de escola e supervisores dos internatos formados, com ênfase especial em consciencialização e prevenção do HIV/SIDA | política das TICs
 Gerir a despesa pública no Ensino Secundário | Orçamento para o ensino secundário geral que não exceda 22% do orçamento total do sector | 22% do Orçamento da Educação para as ES | Parceria para a prestação pública/privada
-Prestação comunitária expandida | Cerca de 14% dos alunos do ES1/2 matriculados em escolas privadas | Estabelecido o quadro regulador positivo
-Formação inicial de professores reestruturada | Programa de formação de profes- sores de 12+1 focali- zado nas necessidades do ESG1 Estabelecida uma formação à distância para professores com o curso de 12+1 para os habilitar a ensinar no ESG2 | Reformas, tal como definido na componente de educação dos professores
+ | Prestação comunitária expandida | Cerca de 14% dos alunos do ES1/2 matriculados em escolas privadas | Estabelecido o quadro regulador positivo
+ | Formação inicial de professores reestruturada | Programa de formação de professores de 12+1 focalizado nas necessidades do ESG1 Estabelecida uma formação à distância para professores com o curso de 12+1 para os habilitar a ensinar no ESG2 | Reformas, tal como definido na componente de educação dos professores
 
 #### 3.5 Educação Técnico-Profissional
 
 A  Educação  Técnico-Profissional  (ETP)  é  um  elemento  essencial  no  Sistema Educativo,  cujo  objectivo  chave  é  o  de  contribuir  para  a  criação  de  uma  força  de trabalho qualificada, essencial para reforçar o crescimento económico e tirar os cidadãos e as comunidades da situação de pobreza. As razões incluem aspectos relacionados com o acesso, relevância, eficiência e eficácia, coerência e coordenação.
 
-Em  2005,  havia  47  instituições  de  ETP  com  41.000  alunos  -  menos  de  2%  dos jovens em idade escolar. A admissão de raparigas no ETP é mais baixa do que nos outros níveis do sistema de educação (20%). A ETP é ministrada a três níveis: i) o nível  elementar:  a  exigência  para  a  entrada  é  a  5ª  ou  a  7ª  classe,  e  a  duração  dos cursos varia de 2 a 3 anos; ii) o nível básico: o nível de ingresso é a 7ª classe e o curso tem a duração de 3 anos; e iii) o nível médio que forma técnicos profissionais em agro-pecuária, indústria ou comércio. Mais de 80% das vagas existentes são dos cursos de nível básico.
+Em 2005, havia 47 instituições de ETP com 41.000 alunos - menos de 2% dos jovens em idade escolar. A admissão de raparigas no ETP é mais baixa do que nos
 
 38
 
@@ -1075,7 +1191,9 @@ Em  2005,  havia  47  instituições  de  ETP  com  41.000  alunos  -  menos  de
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-As  preocupações  relativamente  à  relevância  espelham  as  do  Ensino  Secundário Geral. Os currículos estão em processo de revisão, no quadro da Reforma da ETP, com envolvimento  dos  empregadores,  sindicatos  e  outros  parceiros.  Este  processo permitirá  a  adequação  dos  currículos  às  actuais  necessidades  do  mercado,  colmatando os problemas detectados relativamente à falta de capacidades práticas, como também  de  exposição  a  tecnologias  modernas  (tais  como  TIC),  fraca  fluência  em Português e línguas estrangeiras, e fraca capacidade de gestão ou de supervisão.
+outros níveis do sistema de educação (20%). A ETP é ministrada a três níveis: i) o nível elementar: a exigência para a entrada é a 5ª ou a 7ª classe, e a duração dos cursos varia de 2 a 3 anos; ii) o nível básico: o nível de ingresso é a 7ª classe e o curso tem a duração de 3 anos; e iii) o nível médio que forma técnicos profissionais em agro-pecuária, indústria ou comércio. Mais de 80% das vagas existentes são dos cursos de nível básico.
+
+As preocupações relativamente à relevância espelham as do Ensino Secundário Geral. Os currículos estão em processo de revisão, no quadro da Reforma da ETP, com envolvimento dos empregadores, sindicatos e outros parceiros. Este processo permitirá a adequação dos currículos às actuais necessidades do mercado, colmatando os problemas detectados relativamente à falta de capacidades práticas, como também de exposição a tecnologias modernas (tais como TIC), fraca fluência em Português e línguas estrangeiras, e fraca capacidade de gestão ou de supervisão.
 
 O  baixo  nível  de  capacidades  é  também  um  impedimento  para  os  graduados  que queiram  optar  pelo  auto-emprego.  Isto  é  agravado  pelas  fracas  qualificações,  em geral, dos instrutores e os melhores, muitas vezes, abandonam o ensino em troca de empregos melhor pagos. Não há programas de ETP alternativos para os que terminam o Ensino Primário ou para grupos de desistentes. As instituições de formação têm pouca autonomia e sofrem de má gestão. Os orçamentos das escolas são insuficientes, e os poucos fundos alocados são, amiúde, mal geridos. Os internatos constituem uma grande preocupação, uma vez que são dispendiosos e frequentemente não oferecem  o  nível  de  protecção  mais  básico  de  factores  que  contribuem  para  a disseminação do HIV/SIDA.
 
@@ -1109,7 +1227,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 - O MINED apoia 47 instituições da ETP (11 elementares, 28 básicas e 8 de nível médio) cobrindo cerca de 41.000 alunos (20% são raparigas).
 
-- Os professores qualificados tendem a retirar-se da Educação TécnicoProfissional, à procura de melhores empregos .
+- Os professores qualificados tendem a retirar-se da Educação Técnico-Profissional, à procura de melhores empregos.
 
 - Currículos não ajustados à economia e mercado de trabalho.
 
@@ -1131,7 +1249,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 ##### 3.5.2 Estratégia
 
-O Governo Moçambicano adoptou um Programa Integrado de Reforma da Educação Profissional (PIREP), a ser implementado num período de 15 anos. A primeira fase do  Programa,  com  duração  de  5  anos  (2006-2011),  será  financiada  através  de  um crédito  do  Banco  Mundial.  Alguns doadores, nomeadamente, Países Baixos, Dinamarca, Portugal, Espanha e Alemanha, já acordaram em providenciar financiamento e/ou  assistência  técnica  suplementar  na  prossecução  do  PIREP,  através  do  alinhamento dos seus programas de assistência bilateral a um Sistema de Formação Técnico-Profissional coerente e integrado. Outros doadores com novos projectos em curso ou planificados, são, também, encorajados a alinhá-los à visão, princípios e objectivos da Reforma da Educação Profissional (REP) em Moçambique preconizados no PIREP.
+O Governo Moçambicano adoptou um Programa Integrado de Reforma da Educação Profissional (PIREP), a ser implementado num período de 15 anos. A primeira fase do Programa, com duração de 5 anos (2006-2011), será financiada através de um crédito do Banco Mundial. Alguns doadores, nomeadamente, Países Baixos, Dinamarca, Portugal, Espanha e Alemanha, já acordaram em providenciar financiamento e/ou assistência técnica suplementar na prossecução do PIREP, através do alinhamento dos seus programas de assistência bilateral a um Sistema de Formação Técni-
 
 40
 
@@ -1141,7 +1259,9 @@ O Governo Moçambicano adoptou um Programa Integrado de Reforma da Educação Pr
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-A  filosofia  do  PIREP  assenta  na  transformação  da  provisão  da  ETP  num  sistema orientado  pela  procura,  construído  num  quadro  de  formação  modular  com  cursos baseados em padrões de competência e assente num Sistema Nacional de Padrões, o qual  deverá  ser  reconhecido  pelos  empregadores  e  pela  sociedade  civil.  Para  este propósito, empregadores e organizações da sociedade civil deverão ser progressivamente  envolvidos  no  desenho  e  desenvolvimento  dos  padrões  e  currículos,  bem como na gestão de instituições de ensino.
+co-Profissional coerente e integrado. Outros doadores com novos projectos em curso ou planificados, são, também, encorajados a alinhá-los à visão, princípios e objectivos da Reforma da Educação Profissional (REP) em Moçambique preconizados no PIREP.
+
+A filosofia do PIREP assenta na transformação da provisão da ETP num sistema orientado pela procura, construído num quadro de formação modular com cursos baseados em padrões de competência e assente num Sistema Nacional de Padrões, o qual deverá ser reconhecido pelos empregadores e pela sociedade civil. Para este propósito, empregadores e organizações da sociedade civil deverão ser progressivamente envolvidos no desenho e desenvolvimento dos padrões e currículos, bem como na gestão de instituições de ensino.
 
 O  PEEC  fornecerá  um  quadro  de  desenvolvimento  da  ETP  que  incluirá  o  PIREP como estratégia de Reforma da ETP, assente em quatro grandes componentes:
 
@@ -1177,14 +1297,14 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Os recursos públicos e externos para 2005-2010, disponíveis para o sector da ETP, estão  calculados  em  cerca  de  100  milhões  de  dólares  incluindo  7,8  milhões  de dólares/ano  dos  recursos  do  MEC,  principalmente  (92%)  para  despesas  correntes. Contudo, espera-se que o novo ambiente institucional torne possível atrair investimentos adicionais externos e privados para a ETP.
 
+##### 3.5.3 ETP: Quadro para acção e reforma de políticas
+
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Implementar o programa de Reforma da ETP (PIREP) | Novo sistema de gestão descentralizada estabelecido e em funcionamento | % de escolas que implementam o novo sistema de gestão descentralizada | Estabelecidos o Conselho Nacional de Formação, a Autoridade Nacional para a Educação Técnico- Profissional e um mecanismo sustentável de financiamento; Quadro legal e regulador para a gestão descentralizada aprovado.
-Currículos, avalia- ção e sistema de certificação refle- ctindo os padrões ocupacionais introduzidos em sectores seleccionados | Nº e % de ocupações e níveis definidos com base em padrões de competência | Quadro Nacional de Qualificações desenvolvido e aprovado
-Nº e % de programas de formação baseados em padrões de competência elaborados.
-Professores formados no novo modelo baseado em padrões de competências | Nº e % de professores alvo que a) participa- ram em acções de for- mação de acordo com o sistema CBT; b) com- pletam a formação baseada em padrões de competência. | Novo modelo de formação de professores definido e implementado.
-
-##### 3.5.3 ETP: Quadro para acção e reforma de políticas
+Implementar o programa de Reforma da ETP (PIREP) | Novo sistema de gestão descentralizada estabelecido e em funcionamento | % de escolas que implementam o novo sistema de gestão descentralizada | Estabelecidos o Conselho Nacional de Formação, a Autoridade Nacional para a Educação Técnico-Profissional e um mecanismo sustentável de financiamento; Quadro legal e regulador para a gestão descentralizada aprovado.
+ | Currículos, avaliação e sistema de certificação reflectindo os padrões ocupacionais introduzidos em sectores seleccionados | Nº e % de ocupações e níveis definidos com base em padrões de competência | Quadro Nacional de Qualificações desenvolvido e aprovado
+ |  | Nº e % de programas de formação baseados em padrões de competência elaborados. | 
+ | Professores formados no novo modelo baseado em padrões de competências | Nº e % de professores alvo que a) participaram em acções de formação de acordo com o sistema CBT; b) completam a formação baseada em padrões de competência. | Novo modelo de formação de professores definido e implementado.
 
 42
 
@@ -1196,9 +1316,9 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Gestores formados no novo modelo baseado em padrões de competências. | Capacitados 180 membros de direcção e todo o corpo adminis- trativo das instituições de formação. | Novo modelo de formação de gestores definido e implementado.
-Aumentar o acesso e reduzir as disparidades geográficas e de género | Rede de EAOs e de instituições de nível médio ampliada e participação da rapariga aumentada. | Rede de instituições públicas equitativa- mente distribuídas por todas as zonas geográficas do País e construídas e equipadas 22 EAOs e 6 Institutos; % de raparigas frequentam instituições da ETP aumentada | Incentivos para a participação da rapariga na ETP definidos e implementados.
-ETP mais orientado pela demanda do mercado de trabalho | Instituições de formação reabilitadas e apetrechadas; Novas Tecnologias de Informação e Comunicação introduzidas. | Rede de instituições da ETP reabilitada e ape- trechada; Tecnologias de Informação e Comuni- cação introduzidas em todas as instituições de formação.
+ | Gestores formados no novo modelo baseado em padrões de competências. | Capacitados 180 membros de direcção e todo o corpo administrativo das instituições de formação. | Novo modelo de formação de gestores definido e implementado.
+Aumentar o acesso e reduzir as disparidades geográficas e de género | Rede de EAOs e de instituições de nível médio ampliada e participação da rapariga aumentada. | Rede de instituições públicas equitativamente distribuídas por todas as zonas geográficas do País e construídas e equipadas 22 EAOs e 6 Institutos; % de raparigas frequentam instituições da ETP aumentada | Incentivos para a participação da rapariga na ETP definidos e implementados.
+ETP mais orientado pela demanda do mercado de trabalho | Instituições de formação reabilitadas e apetrechadas; Novas Tecnologias de Informação e Comunicação introduzidas. | Rede de instituições da ETP reabilitada e apetrechada; Tecnologias de Informação e Comunicação introduzidas em todas as instituições de formação. |
 
 #### 3.6 Formação de Professores
 
@@ -1310,8 +1430,8 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Reformar a formação inicial de professores | Sistema integrado e coerente de formação inicial | Todos os novos professores com formação profis- sional são recrutados numa escala de salários sustentável | Nova política de recrutamento e de pessoal aprovada
-Novo programa de formação inicial 10 +1 desenvol- vido e a funcionar | 7.500 graduados de 10+1 por ano formados | Aprovada a nova política de recrutamento e de pessoal;
+Reformar a formação inicial de professores | Sistema integrado e coerente de formação inicial | Todos os novos professores com formação profissional são recrutados numa escala de salários sustentável | Nova política de recrutamento e de pessoal aprovada
+ | Novo programa de formação inicial 10 +1 desenvolvido e a funcionar | 7.500 graduados de 10+1 por ano formados | Aprovada a nova política de recrutamento e de pessoal;
 
 47
 
@@ -1323,12 +1443,12 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Novo programa de formação inicial 12 +1 desenvol- vido (tendo em conta o novo currículo) e a funcionar | 2.500 graduados de 12+1 formados para o ESG1 | UP envolvida no apoio e supervisão da qualidade dos cursos de formação de professores
-Currículo para formação avan- çada à distância de professores do ESG1 para os habilitar a leccionar o ESG2 | Estudo para o certificado avançado do ES1 realizado | Certificado de ensino avançado criado
-Dar aos professores formação permanente em serviço e apoio | Melhor qualidade da instrução | Todos os professores beneficiam de apoio pedagógico e formação em serviço
-Programas nacio- nais de desenvol- vimento profissio- nal para os profes- sores de todos os níveis incluindo formadores de professores com base na experiên- cia do CRESCER | Todos os programas em serviço adoptem o modelo CRESCER revisto
-As ZIP reforçadas e os directores formados para tarefas de apoio pedagógico | Apoio pedagógico para os professores, disponível; formação continua de directores | Afectação de 10 dólares/professor por ano à ZIP
-Reforçar a inspecção | Todos os inspectores formados para a nova tarefa e colocados no distrito | Ver também a componente 12
+ | Novo programa de formação inicial 12 +1 desenvolvido (tendo em conta o novo currículo) e a funcionar | 2.500 graduados de 12+1 formados para o ESG1 | UP envolvida no apoio e supervisão da qualidade dos cursos de formação de professores
+ | Currículo para formação avançada à distância de professores do ESG1 para os habilitar a leccionar o ESG2 | Estudo para o certificado avançado do ES1 realizado | Certificado de ensino avançado criado
+Dar aos professores formação permanente em serviço e apoio | Melhor qualidade da instrução | Todos os professores beneficiam de apoio pedagógico e formação em serviço | 
+ | Programas nacionais de desenvolvimento profissional para os professores de todos os níveis incluindo formadores de professores com base na experiência do CRESCER |  | Todos os programas em serviço adoptem o modelo CRESCER revisto
+ | As ZIP reforçadas e os directores formados para tarefas de apoio pedagógico | Apoio pedagógico para os professores, disponível; formação continua de directores | Afectação de 10 dólares/professor por ano à ZIP
+ | Reforçar a inspecção | Todos os inspectores formados para a nova tarefa e colocados no distrito | Ver também a componente 12
 
 48
 
@@ -1340,10 +1460,10 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Reforçar a administração da educação dos professores | Instituto Nacional de Formação de Professores coor- dena e administra a formação de professores | Instituto Nacional de Formação de Professores estabelecido legalmente
-Desenvolver um modelo de progressão na carreira para professores | Cursos de EAD permitem que os professores adqui- ram certificados mais avançados
-Conduzir pesquisa e desenvolver padrões de quali- dade na formação de professores
-Definição de padrões de competência para os professores em função dos níveis de ensino | Padrões de competência e remuneração estabelecidos e articulados com o MAE e MF | Recrutamento e remuneração dos professores reali- zado com base nos padrões de compe- tência estabelecidos
+Reforçar a administração da educação dos professores | Instituto Nacional de Formação de Professores coordena e administra a formação de professores |  | Instituto Nacional de Formação de Professores estabelecido legalmente
+ | Desenvolver um modelo de progressão na carreira para professores |  | Cursos de EAD permitem que os professores adquiram certificados mais avançados
+ | Conduzir pesquisa e desenvolver padrões de qualidade na formação de professores |  | 
+ | Definição de padrões de competência para os professores em função dos níveis de ensino | Padrões de competência e remuneração estabelecidos e articulados com o MAE e MF | Recrutamento e remuneração dos professores realizado com base nos padrões de competência estabelecidos
 
 #### 3.7 Ensino Superior
 
@@ -1426,27 +1546,16 @@ Os resultados acima resumidos mostram que o Plano Operacional tem conduzido a gr
 ###### Sumário dos dados de base
 
 - Número de Instituições do ensino superior 23, das quais:
-
-- o 11 do sector público
-
+  - 11 do sector público
+  - 12 do sector privado
 - Número total de estudantes 22.256 dos quais:
-
-- o 12 do sector privado
-
-- o 15.113 no sector público (68%)
-
+  - 15.113 no sector público (68%)
+  - 7.143 no sector privado (32%)
 - Participação feminina: 32%
-
-- o 7.143 no sector privado (32%)
-
 - Estudantes por 100.000 habitantes: 116
-
-- Docentes com Licenciatura ou Bacharelato 752 (63%)
-
 - Docentes em tempo inteiro (ou equivalente): 1200
-
+- Docentes com Licenciatura ou Bacharelato 752 (63%)
 - Docentes com Mestrado: 254 (21%)
-
 - Docentes com Doutoramento: 194 (16%)
 
 ##### 3.7.3 Estratégia para o período 2006-2010
@@ -1483,9 +1592,9 @@ As  diferentes  acções  estratégicas  do  plano  estratégico  serão  enquad
 
 - o Maior relevância e flexibilidade na oferta de cursos;
 
-- o Diversificação de tipos de instituições, oportunidades de formação e formas de ensino;
-
 - o Melhoria e garantia de qualidade de ensino;
+
+- o Diversificação de tipos de instituições, oportunidades de formação e formas de ensino;
 
 - o Criar  duas  Universidades  públicas  no  Norte  (2009)  e  no  Centro (2011), integrando as delegações das universidades públicas.
 
@@ -1506,13 +1615,13 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
 Melhorar e fortalecer a governação e gestão do subsistema de ensino superior, através do aumento da eficiência no uso dos recursos que lhe são atribuídos | Regulamentação da Lei do Ensino Superior (Lei 05/2003) | Implementação do SINAQUES Implementação do SNATCA | Acordos sobre a necessidade e conteúdos dos regulamentos
-Melhoria do fluxo de informação necessária para alimentar o pro- cesso de gover- nação e gestão | O sistema de recolha de dados e de indicadores melhorado. | Empenho das IES no melhoramento qualidade e periodicidade dos dados;
-Implementação do SINAQES | Quadro para qualidade e padrões definido | O SINAQES é assumido pelos parceiros como instrumento na garantia de qualidade
-Implementação do Sistema de Acu- mulação e Trans- ferência de Cré- ditos Académicos (SNATCA) | SNATCA em funcionamento | Acordos entre as IES sobre o reconhecimento e transferência de créditos
-Revisão do mo- delo de financia- mento das IES | Novo Modelo de financiamento em funcionamento. | Acordos entre os diferentes intervenientes
+ | Melhoria do fluxo de informação necessária para alimentar o processo de governação e gestão | O sistema de recolha de dados e de indicadores melhorado. | Empenho das IES no melhoramento qualidade e periodicidade dos dados;
+ | Implementação do SINAQES | Quadro para qualidade e padrões definido | O SINAQES é assumido pelos parceiros como instrumento na garantia de qualidade
+ | Implementação do Sistema de Acumulação e Transferência de Créditos Académicos (SNATCA) | SNATCA em funcionamento | Acordos entre as IES sobre o reconhecimento e transferência de créditos
+ | Revisão do modelo de financiamento das IES | Novo Modelo de financiamento em funcionamento. | Acordos entre os diferentes intervenientes
 Fortalecer a capacidade das IES por forma a oferecer um leque largo de cursos relevantes e de qualidade com equidade | Aumento da eficiência interna das IES públicas | Taxas de graduação melhoradas até pelo menos 15% | Capacidade real das IES
-Aumento da qualidade do ensino superior | Padrões de qualidade definidos | Acordos entre os parceiros sobre os padrões de qualidade
-Aumento da relevância | Maior empregabi- lidade dos graduados | As IES aumentam capacidade de res- ponder ao mercado de emprego
+ | Aumento da qualidade do ensino superior | Padrões de qualidade definidos | Acordos entre os parceiros sobre os padrões de qualidade
+ | Aumento da relevância | Maior empregabilidade dos graduados | As IES aumentam capacidade de responder ao mercado de emprego
 
 54
 
@@ -1524,10 +1633,10 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores / Metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Criação de duas novas universidades públicas na zona Norte e Centro Maior distribuição geográfica do ES e criação do INED | Abertura de novas ES nas províncias INED operacional | Condições para a abertura de unidades públicas e privadas criadas em termos de docência
-Estabelecimento de um Fundo de financiamento institucional | Políticas nacionais financiadas através do fundo institucional | Empenho das IES na formulação de projectos para financiamento através do fundo institucional
+ | Criação de duas novas universidades públicas na zona Norte e Centro Maior distribuição geográfica do ES e criação do INED | Abertura de novas ES nas províncias INED operacional | Condições para a abertura de unidades públicas e privadas criadas em termos de docência
+ | Estabelecimento de um Fundo de financiamento institucional | Políticas nacionais financiadas através do fundo institucional | Empenho das IES na formulação de projectos para financiamento através do fundo institucional
 Fortalecer o subsistema de ES por forma a satisfazer cada vez mais a procura e garantir a equidade regional, social, económica e de género | Criação do fundo nacional de bolsas de estudo | Um órgão independente gere as bolsas para o ES | Sistema instalado com garantias de funcionamento independente, transparente e robusto
-Criação de um sistema de apoio social ao estudante independente das instituições de ensino | Número de estudantes servidos por sistemas integrados | Interesse compartilhado entre as IES na integração dos seus sistemas individuais.
+ | Criação de um sistema de apoio social ao estudante independente das instituições de ensino | Número de estudantes servidos por sistemas integrados | Interesse compartilhado entre as IES na integração dos seus sistemas individuais.
 
 #### 3.8 Ensino à Distância
 
@@ -1656,13 +1765,13 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 Objectivos | Resultados | Indicadores / Metas de desempenho (2009) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
 Desenvolvimento institucional | Capacidade reforçada para a gestão, coordenação e avaliação do programa de ensino à distância | Reforço da capacidade nacional no IEDA | Ensino à distância reconhecido como um instrumento para promover o desenvolvimento da educação incluindo a formação dos professores Estabelecimento do quadro financeiro sustentável para o ensino à distância
-Criação de Centros de recursos | Centros de recursos criados apetrechados
-Avaliação do programa | SEDE e TELES- COLA avaliados; programa em servi- ço da UP avaliado | Os resultados da avaliação disponíveis e acompanhados
-Programas do IAP avaliados
-Desenvolvimento e implementação do programa | Programas do IAP dão aos professores oportunidades de desenvolvimento na carreira | Número de participantes e graduados
-Desenvolver um programa piloto de ensino à distância para o ESG2 | Número de participantes e graduados
-Programa de formação de professores do ESG1 (12+1) desenvolvido | Número de participantes e graduados
-Estabelecidos os programas de equivalência ao secundário | Número de participantes e graduados
+ | Criação de Centros de recursos | Centros de recursos criados apetrechados | 
+Avaliação do programa | SEDE e TELESCOLA avaliados; programa em serviço da UP avaliado | Os resultados da avaliação disponíveis e acompanhados | 
+ | Programas do IAP avaliados |  | 
+Desenvolvimento e implementação do programa | Programas do IAP dão aos professores oportunidades de desenvolvimento na carreira | Número de participantes e graduados | 
+ | Desenvolver um programa piloto de ensino à distância para o ESG2 | Número de participantes e graduados | 
+ | Programa de formação de professores do ESG1 (12+1) desenvolvido | Número de participantes e graduados | 
+ | Estabelecidos os programas de equivalência ao secundário | Número de participantes e graduados | 
 
 59
 
@@ -1756,13 +1865,13 @@ O  orçamento  do  MEC  continuará  a  apoiar  o  programa  de  educação  esp
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
+##### 3.9.4 Educação Especial: Quadro para acção e reforma de políticas
+
 Objectivos | Resultados | Indicadores/Metas de Desempenho (2010/11) | Pressupostos de Políticas e reformas
 --- | --- | --- | ---
-Integrar estratégias de educação inclusiva nos programas de formação inicial e em serviço de professores | Integrados planos de estudos na formação de professores, educadores Aplicadas estratégias de formação inicial em serviço e à distância | Número de crianças, jovens e adultos apoiadas em programas de educação inclusiva Número de institui- ções especializadas; Novos professores formados para atender crianças com NEE | A educação inclusiva é a principal estratégia para a educação geral
-Apoiar o professor na implementa- ção de estratégias inclusivas | Criados três centros de recursos | Zona Norte - Nampula Zona Centro - Zona Sul - Gaza Até 2010/11 Construídos e equipados os três
-Desenvolvida a metodologia, métodos e materiais específicos, para facilitação da aprendizagem de crianças, jovens e adultos com NEEs | Tete centros de recursos
-
-##### 3.9.4 Educação Especial: Quadro para acção e reforma de políticas
+Integrar estratégias de educação inclusiva nos programas de formação inicial e em serviço de professores | Integrados planos de estudos na formação de professores, educadores Aplicadas estratégias de formação inicial em serviço e à distância | Número de crianças, jovens e adultos apoiadas em programas de educação inclusiva Número de instituições especializadas; Novos professores formados para atender crianças com NEE | A educação inclusiva é a principal estratégia para a educação geral
+Apoiar o professor na implementação de estratégias inclusivas | Criados três centros de recursos | Zona Norte – Nampula Zona Centro – Tete Zona Sul – Gaza Até 2010/11 Construídos e equipados os três centros de recursos | 
+ | Desenvolvida a metodologia, métodos e materiais específicos, para facilitação da aprendizagem de crianças, jovens e adultos com NEEs |  | 
 
 #### 3.10 Integração do Género
 
@@ -1838,7 +1947,7 @@ Terminar com o fosso do género no EP1 até 2009 e EP2 até 2015 é um objectivo
 
 - Promover escolas primárias completas (da 1ª à 7ª classe);
 
-- Expandir acesso a todos níveis de ensino reduzindo as distâncias casa-escolacasa
+- Expandir acesso a todos níveis de ensino reduzindo as distâncias casa-escola-casa
 
 65
 
@@ -1872,12 +1981,12 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 A implementação da estratégia do género deve ser um esforço conjunto de todas as direcções do MEC; elementos relacionados com o género foram incluídos em todas as componentes da estratégia do PEEC. As actividades que a seguir se propõem irão apoiar e complementar estas.
 
+##### 3.10.4 Género: Quadro para acção e reforma de políticas
+
 Objectivos | Resultados | Indicadores/Metas de desempenho (2009) | Pressupostos de políticas e de reformas
 --- | --- | --- | ---
-Reforçar a capacidade institucional | Os membros do concelho da escola estejam conscientes das questões do género na educação | Todos os concelhos das escolas tenham sido formados e rece- bido materiais sobre questões de género | Implementar a Política e Estratégia do Género Política de comunicação estabelecida e implementada Elaboração de módulos de
-Institucionalizadas as unidades de género e pontos focais no Sector da Educação. | Criadas as unidades de género e pontos focais a todos os níveis
-
-##### 3.10.4 Género: Quadro para acção e reforma de políticas
+Reforçar a capacidade institucional | Os membros do concelho da escola estejam conscientes das questões do género na educação | Todos os concelhos das escolas tenham sido formados e recebido materiais sobre questões de género | Implementar a Política e Estratégia do Género Política de comunicação estabelecida e implementada Elaboração de módulos de
+ | Institucionalizadas as unidades de género e pontos focais no Sector da Educação. | Criadas as unidades de género e pontos focais a todos os níveis | 
 
 66
 
@@ -1889,13 +1998,13 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores/Metas de desempenho (2009) | Pressupostos de políticas e de reformas
 --- | --- | --- | ---
-Formado o pessoal das unidades de géne- ro a todos os níveis em análise e plani- ficação com sensibi- lidade ao género. | O pessoal das Unidades de Género tenha se beneficiado de acções de formação e de capacitação | capacitação em Género para os CE; Estratégias especificas para atender as diferenças regionais estabelecidas a nível local
-A planificação e a gestão de recursos humanos tenham em conta o equilíbrio do género em todas as variáveis | Observado o equilíbrio do género na planificação e gestão de recursos humanos
-As unidades de género apoiem políticas sensíveis ao género em todas as direcções. | Todas as direcções sensíveis às políticas de género
-Acesso significativo para as mulheres e sua plena participação nas estruturas de tomada de decisões | 50% de assentos nas estruturas de tomada de decisões para as mulheres
-Levantadas as necessidades de formação em matéria do género no MEC | Fazer uma auditoria do Género para definir as necessidades de formação em Género para todo o MEC.
+ | Formado o pessoal das unidades de género a todos os níveis em análise e planificação com sensibilidade ao género. | O pessoal das Unidades de Género tenha se beneficiado de acções de formação e de capacitação | capacitação em Género para os CE; Estratégias especificas para atender as diferenças regionais estabelecidas a nível local
+ | A planificação e a gestão de recursos humanos tenham em conta o equilíbrio do género em todas as variáveis | Observado o equilíbrio do género na planificação e gestão de recursos humanos | 
+ | As unidades de género apoiem políticas sensíveis ao género em todas as direcções. | Todas as direcções sensíveis às políticas de género | 
+ | Acesso significativo para as mulheres e sua plena participação nas estruturas de tomada de decisões | 50% de assentos nas estruturas de tomada de decisões para as mulheres | 
+ | Levantadas as necessidades de formação em matéria do género no MEC | Fazer uma auditoria do Género para definir as necessidades de formação em Género para todo o MEC. | 
 Promover o acesso Equitativo do género | A construção de Escola seja sensível ao género, sanitários para meninas e com acesso a água | % de novas escola construídas e reabilitadas tendo em conta as questões do Género | Ver componente 1
-Componente género integrada nos currículos e materiais de ensino a todos os níveis e modalidades de ensino | 100% | O processo de elaboração de currículos observe as questões do Género
+ | Componente género integrada nos currículos e materiais de ensino a todos os níveis e modalidades de ensino | 100% | O processo de elaboração de currículos observe as questões do Género
 
 67
 
@@ -1907,14 +2016,14 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores/Metas de desempenho (2009) | Pressupostos de políticas e de reformas
 --- | --- | --- | ---
-Reduzir a admissão tardia de alunas no EP1 | Aumento da % de raparigas a serem matriculadas na idade prevista de ingresso | Ver componente 1
-Aumentar a rede de escolas completas do EP1 | % de escolas do EP1 a oferecerem curso completo | Ver componente 1
-Monitorar as assimetrias regionais e estabelecer soluções locais para situações específicas | Aumento do índice de paridade de género nos distritos onde as raparigas estão em maior desvantagem | (mapear e monitorar os distritos com maior fosso do Género)
-Mais raparigas matriculadas em todos os níveis de ensino. | % de raparigas no EP, ES1, ES2 e no ETP
-Mais mulheres matriculadas no ensino superior | Aumento em 35% da presença feminina no ensino superior
-Implantado um sistema de isenção de propinas no ESG em particular para as raparigas (desfavorecidas) residentes em zonas rurais | 50%
-Criados incentivos para aumentar a presença de professoras nas zonas rurais | Atribuídos kits, meios de transporte e construídas casa para as professoras em 60% | Através de parcerias
-Directores, Conselhos de Escola e professores incentivados a serem mais proactivos no acompanhamento e retenção das raparigas | 100% de directores, Conselhos de escola e professores e escolas sensibilizados Os modelos de forma- ção de professores sensíveis género | ZIPs
+ | Reduzir a admissão tardia de alunas no EP1 | Aumento da % de raparigas a serem matriculadas na idade prevista de ingresso | Ver componente 1
+ | Aumentar a rede de escolas completas do EP1 | % de escolas do EP1 a oferecerem curso completo | Ver componente 1
+ | Monitorar as assimetrias regionais e estabelecer soluções locais para situações específicas | Aumento do índice de paridade de género nos distritos onde as raparigas estão em maior desvantagem | (mapear e monitorar os distritos com maior fosso do Género)
+ | Mais raparigas matriculadas em todos os níveis de ensino. | % de raparigas no EP, ES1, ES2 e no ETP
+ | Mais mulheres matriculadas no ensino superior | Aumento em 35% da presença feminina no ensino superior
+ | Implantado um sistema de isenção de propinas no ESG em particular para as raparigas (desfavorecidas) residentes em zonas rurais | 50%
+ | Criados incentivos para aumentar a presença de professoras nas zonas rurais | Atribuídos kits, meios de transporte e construídas casa para as professoras em 60% | Através de parcerias
+ | Directores, Conselhos de Escola e professores incentivados a serem mais proactivos no acompanhamento e retenção das raparigas | 100% de directores, Conselhos de escola e professores e escolas sensibilizados Os modelos de formação de professores sensíveis género | ZIPs
 
 68
 
@@ -1926,7 +2035,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores/Metas de desempenho (2009) | Pressupostos de políticas e de reformas
 --- | --- | --- | ---
-Atribuídas bolsas de estudo para as melhores alunas que ingressem nas Instituições de Formação de Professores no Centro e Norte do País. | 100% | Através de parcerias
+ | Atribuídas bolsas de estudo para as melhores alunas que ingressem nas Instituições de Formação de Professores no Centro e Norte do País. | 100% | Através de parcerias
 
 #### 3.11 Desporto Escolar
 
@@ -1940,15 +2049,15 @@ Algum progresso foi registado a nível de escolas individuais no desenvolvimento
 
 ###### Sumário dos dados de base
 
-- Muitas escolas construídas sem infra-estruturas escolares;
-
 - Degradação e falta de equipamento nas infra-estruturas escolares;
+
+- Muitas escolas construídas sem infra-estruturas escolares;
 
 - Falta de professores de educação física e desporto;
 
-- Fraca implementação do movimento associativo do desporto escolar no país;
-
 - Poucos técnicos e árbitros disponíveis para as competições escolares;
+
+- Fraca implementação do movimento associativo do desporto escolar no país;
 
 - Falta de promoção e valorização dos jogos tradicionais nas escolas;
 
@@ -1980,12 +2089,12 @@ Encorajar a participação das raparigas e rapazes no desporto e a utilização 
 
 Dada a pressão de outras prioridades no desenvolvimento da educação, os recursos do  governo  para  a  educação  física  deverão  manter-se  estacionários  nos  0,4%  do orçamento  da  educação,  embora  o  esperado  aumento  do  orçamento  permita  que  o MEC inicie actividades prioritárias e procure o apoio do sector privado para outras.
 
+##### 3.11.4 Desporto escolar: Quadro para acção e reforma de políticas
+
 Objectivos | Resultados | Indicadores/metas de desempenho (2010/11) | Pressupostos de Políticas e reformas
 --- | --- | --- | ---
-Melhorar as infra estruturas desportivas e fornecer material desportivo | Novas escolas com instalações para a prática de educação física e desporto | Recuperadas e/ou ampliadas 14 infra- estruturas desportivas escolares em todo o país | Parceria com a sociedade civil e o sector privado
-As instalações desportivas existentes melhoradas, material desportivo disponibilizado | Apetrechadas as infra-estruturas reabilitadas; equipamento desportivo distribuído
-
-##### 3.11.4 Desporto escolar: Quadro para acção e reforma de políticas
+Melhorar as infra estruturas desportivas e fornecer material desportivo | Novas escolas com instalações para a prática de educação física e desporto | Recuperadas e/ou ampliadas 14 infra-estruturas desportivas escolares em todo o país | Parceria com a sociedade civil e o sector privado
+ | As instalações desportivas existentes melhoradas, material desportivo disponibilizado | Apetrechadas as infra-estruturas reabilitadas; equipamento desportivo distribuído
 
 70
 
@@ -1997,11 +2106,11 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores/metas de desempenho (2010/11) | Pressupostos de Políticas e reformas
 --- | --- | --- | ---
-Melhorar a formação em desporto | Plano para a formação de professores desenvolvido | Todos os professores do EP são formados com a componente de educação física e desporto escolar For- mação de professores de Educação física para o ETP, ES e Ensino Superior. | Formação de professores incorpora a área da educação física e desporto escolar
-Reforçar a capacidade para gerir o Desporto Escolar e a Educação Física | Associações desportivas e competições para rapazes, rapari- gas e crianças portadoras de deficiência | Promovida a pratica do desporto pela rapariga e pelos alunos portadores de deficiência
-Definição e implementação de um quadro competitivo regular e sistemático | Definido e imple- mentado um quadro nacional de compe- tições desportivas escolares regulares, sistemáticas e integrado
-Definir o tipo de material e equi- pamento despor- tivo obrigatório para as escolas | Definição do tipo de material a adquirir por níveis de ensino | Normas elaboradas e implementadas | Normação da área da educação física e desporto escolar
-Promover a pesquisa e valorização de talentos | Promovida a pesquisa e valorização de talentos | Talentos desportivos promovidos e valo- rizados através de concessão de bolsas de estudo e despor- tivas a nível local, provincial, nacional e no estrangeiro
+Melhorar a formação em desporto | Plano para a formação de professores desenvolvido | Todos os professores do EP são formados com a componente de educação física e desporto escolar Formação de professores de Educação física para o ETP, ES e Ensino Superior. | Formação de professores incorpora a área da educação física e desporto escolar
+Reforçar a capacidade para gerir o Desporto Escolar e a Educação Física | Associações desportivas e competições para rapazes, raparigas e crianças portadoras de deficiência | Promovida a pratica do desporto pela rapariga e pelos alunos portadores de deficiência
+ | Definição e implementação de um quadro competitivo regular e sistemático | Definido e implementado um quadro nacional de competições desportivas escolares regulares, sistemáticas e integrado
+Definir o tipo de material e equipamento desportivo obrigatório para as escolas | Definição do tipo de material a adquirir por níveis de ensino | Normas elaboradas e implementadas | Normação da área da educação física e desporto escolar
+Promover a pesquisa e valorização de talentos | Promovida a pesquisa e valorização de talentos | Talentos desportivos promovidos e valorizados através de concessão de bolsas de estudo e desportivas a nível local, provincial, nacional e no estrangeiro
 
 71
 
@@ -2013,7 +2122,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores/metas de desempenho (2010/11) | Pressupostos de Políticas e reformas
 --- | --- | --- | ---
-Promover a valorização de jogos tradicionais | Promovida a pesquisa e valorização de jogos tradicionais | Jogos tradicionais promovidos e valori- zados a nível das escolas com particu- lar incidência nas escolas primárias.
+Promover a valorização de jogos tradicionais | Promovida a pesquisa e valorização de jogos tradicionais | Jogos tradicionais promovidos e valorizados a nível das escolas com particular incidência nas escolas primárias.
 
 #### 3.12 Saúde Escolar
 
@@ -2077,7 +2186,7 @@ A  implementação  dum  programa  de  saúde  escolar  bem  sucedido  depende  
 
 ##### 3.12.4 Saúde Escolar : Quadro de acções e reformas políticas
 
-Objectivo | Resultados | Indicadores/meta s de desempenho (2010/11) | Pressupostos de Políticas e reformas
+Objectivo | Resultados | Indicadores/metas de desempenho (2010/11) | Pressupostos de Políticas e reformas
 --- | --- | --- | ---
 Participar na Expansão e melhoramento dos serviços de saúde escolar tendo como o instrumento o pacote básico de saúde escolar. | Expandido e implementado o pacote básico nas EPI e EP2 | 100 % das escolas a implementar o pacote básico
 
@@ -2089,13 +2198,13 @@ Participar na Expansão e melhoramento dos serviços de saúde escolar tendo com
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-Objectivo | Resultados | Indicadores/meta s de desempenho (2010/11) | Pressupostos de Políticas e reformas
+Objectivo | Resultados | Indicadores/metas de desempenho (2010/11) | Pressupostos de Políticas e reformas
 --- | --- | --- | ---
 Melhorar o saneamento do meio escolar | Mapeamento da situação de saneamento nas escolas | Mapeamento realizado, situação identificada, plano de construção de sanitários e poços estabelecido
-Construir sanitários e aterros | 100% das escolas da escala nacional
-Garantir a fornecimento de água potável | 65% das escolas da escala nacional
+ | Construir sanitários e aterros | 100% das escolas da escala nacional
+ | Garantir a fornecimento de água potável | 65% das escolas da escala nacional
 Formar professores em matéria de saúde escolar incluindo o manejo do kit de primeiros socorros | Capacitados professores em exercício matéria de saúde escolar | 85% dos professores do país | Matérias de saúde escolar introduzidas no currículo da formação de professores
-Capacitados profes- sores de formação inicial matéria de saúde escolar | 100% dos professores de formação inicial
+ | Capacitados professores de formação inicial matéria de saúde escolar | 100% dos professores de formação inicial
 
 #### 3.13 Produção e Alimentação Escolar
 
@@ -2117,11 +2226,11 @@ A capacitação dos professores nesta componente curricular constitui um dos des
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-A  organização  dos  alunos  para  as  actividades  produtivas  nas  escolas  requer  a planificação dos espaços nos horários escolares bem como nos programas de ensino para permitir que o conhecimento teórico seja conjugado ao saber fazer, saber ser e saber estar - condição essencial para o desenvolvimento de competências profissionais  e  para  a  promoção  da  realização  pessoal.  Por  outro  lado,  muitos  alunos  que concluem o ensino primário sem possibilidade de continuarem com os seus estudos, não possuem preparação profissional nem habilidades necessárias que facilitem a sua adaptação  e/ou  integração  no  mercado  de  emprego  ou  mesmo  para  tomarem iniciativas de auto-emprego.
+A  organização  dos  alunos  para  as  actividades  produtivas  nas  escolas  requer  a planificação dos espaços nos horários escolares bem como nos programas de ensino para permitir que o conhecimento teórico seja conjugado ao saber fazer, saber ser e saber estar – condição essencial para o desenvolvimento de competências profissionais  e  para  a  promoção  da  realização  pessoal.  Por  outro  lado,  muitos  alunos  que concluem o ensino primário sem possibilidade de continuarem com os seus estudos, não possuem preparação profissional nem habilidades necessárias que facilitem a sua adaptação  e/ou  integração  no  mercado  de  emprego  ou  mesmo  para  tomarem iniciativas de auto-emprego.
 
 O apoio  alimentar  que  tem  vindo  a  ser  dado  às  escolas  e  lares  e  internatos  desde 1975, enquadrado no programa de desenvolvimento e de emergência, poderá sofrer transformações. Neste contexto as escolas e centros internatos deverão ser capacitadas para promoverem a produção escolar com vista a resolver a situação da falta de alimentos e de desnutrição das crianças.
 
-Durante  o  conflito  armado,  grande  parte  das  infraestruturas  de  produção  agropecuárias  e  oficinais  escolares  foram  danificados  e,  consequentemente,  agravada  a necessidade de investimento para a produção escolar, provocando, deste modo, um défice  considerável  em  meios  necessários  para  assegurar  o  desenvolvimento  curricular nas escolas.
+Durante  o  conflito  armado,  grande  parte  das  infraestruturas  de  produção  agro-pecuárias  e  oficinais  escolares  foram  danificados  e,  consequentemente,  agravada  a necessidade de investimento para a produção escolar, provocando, deste modo, um défice  considerável  em  meios  necessários  para  assegurar  o  desenvolvimento  curricular nas escolas.
 
 Por  outro  lado,  parte  considerável  dos  técnicos  especializados  nas  diferentes  áreas produtivas  que  coordenavam  a  produção  nas  escolas  abandonaram,  deixando  os professores  sem  os  seus  colaboradores  directos  na  implementação  do  programa  de produção escolar.
 
@@ -2222,10 +2331,10 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 Objectivos | Resultados | Indicadores/metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
 Identificar os aspectos chave dos currícula e dos programas que limitam o envolvimento dos alunos e dos professores na produção escolar e traçar as devidas medidas correctivas | Elaboração do Regulamento de produção escolar para todos os níveis e subsistemas de ensino. | Regulamento de produção escolar elaborado. | Fortificada a coordenação e articulação entre a DIPE e os Subsistemas de Ensino Assegurada a operacionalização do currículo profissionalizante
-Construir/reabilit ar infraestruturas de produção escolar danificadas ou em falta nas escolas. | Construídas/reab ilitadas infraes- truturas de pro- dução escolar danificadas ou em falta nas escolas. | 50% das infraestruturas de produção escolar construídas/reabilitada s nas escolas, internatos e lares. | Criada capacidade para a substituição gradual do apoio alimentar às escolas, internatos e lares.
-Fortificar rela- ções de coope- ração entre a Educação e Par- ceiros no âmbito da produção escolar. | Desenvolviment o de relações com parceiros locais e internacionais. | Relações de parceria fortificadas com todos os parceiros locais e internacionais.
+Construir/reabilitar infraestruturas de produção escolar danificadas ou em falta nas escolas. | Construídas/reabilitadas infraestruturas de produção escolar danificadas ou em falta nas escolas. | 50% das infraestruturas de produção escolar construídas/reabilitadas nas escolas, internatos e lares. | Criada capacidade para a substituição gradual do apoio alimentar às escolas, internatos e lares.
+Fortificar relações de cooperação entre a Educação e Parceiros no âmbito da produção escolar. | Desenvolvimento de relações com parceiros locais e internacionais. | Relações de parceria fortificadas com todos os parceiros locais e internacionais.
 Coordenar as iniciativas no âmbito da produção escolar. | Coordenadas as iniciativas no âmbito da produção escolar. | Todas as iniciativas no âmbito da produção escolar coordenadas. | Todos os projectos e programas no âmbito da produção escolar funcionam dentro dos mesmos parâmetros e objectivos do SNE.
-Criar condições para o desenvolvimento de outras áreas de produção escolar. | Desenvolvidas áreas de pisci- cultura, apicul- tura, artesanato, produção ofici- nal e gestão de pequenos negócios. | Condições para o desenvolvimento de outras áreas de produção escolar criadas.
+Criar condições para o desenvolvimento de outras áreas de produção escolar. | Desenvolvidas áreas de piscicultura, apicultura, artesanato, produção oficinal e gestão de pequenos negócios. | Condições para o desenvolvimento de outras áreas de produção escolar criadas.
 
 78
 
@@ -2237,7 +2346,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 Objectivos | Resultados | Indicadores/metas de desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Promover a aplicação de técnicas para a produção agro- pecuária. | Aplicação de técnicas especí- ficas p/ maxi- mizar a produ- ção agro-pecuá- ria em zonas e escolas propen- sas à seca e à erosão. | Técnicas de produção agro-pecuária específicas aplicadas em todas as zonas/escolas propensas a seca e a erosão.
+Promover a aplicação de técnicas para a produção agro-pecuária. | Aplicação de técnicas específicas p/ maximizar a produção agro-pecuária em zonas e escolas propensas à seca e à erosão. | Técnicas de produção agro-pecuária específicas aplicadas em todas as zonas/escolas propensas a seca e a erosão.
 
 #### 3.14 Tecnologias de Informação e Comunicação (TIC)
 
@@ -2277,9 +2386,9 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 - Software da Carta Escolar implementado apenas em duas províncias;
 
-- Há falta de penetração do Sistema de Informação de Gestão da Educação em vários níveis, por ex. SISTAFE, Sistema de Gestão dos Recursos Humanos e bens. Não há utilização nas escolas de sistemas computadorizados de registos dos alunos;
-
 - Algumas escolas na cidade de Maputo já têm conectividade à internet;
+
+- Há falta de penetração do Sistema de Informação de Gestão da Educação em vários níveis, por ex. SISTAFE, Sistema de Gestão dos Recursos Humanos e bens. Não há utilização nas escolas de sistemas computadorizados de registos dos alunos;
 
 - Pouco conteúdo de educação numa Plataforma TIC;
 
@@ -2314,15 +2423,15 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 Objectivos | Resultados | Indicadores/Metas de Desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
 Incorporar o ensino de TICs no currículo | Instalados laboratórios informáticos em 200 escolas, incluindo CFPP, IMAP e ES1 e 2, ZIPs | Número de graduados com conhecimentos de informática | Currículos revistos
-Incluído nos currícu- los o ensino de TICs
-Formados professo- res e técnicos
+ | Incluído nos currículos o ensino de TICs
+ | Formados professores e técnicos
 Reforçar o apoio à gestão com base em TIC | Colocado nas DPECs Software para gestão, orçamentação e planificação | TIC usadas para a gestão da planificação e para a orçamentação a nível da DPE | Expansão da rede de TIC até ao nível da DPEC neste período de planificação e para DDEC seleccionadas
-MEC em rede com as entidades subordinadas e as DPEC
-Portal da Educação implementado
+ | MEC em rede com as entidades subordinadas e as DPEC
+ | Portal da Educação implementado
 Desenvolver a capacidade em TIC | Criados centros de apoio e Capacitados professores do ESG | 3 centros de apoio criados e Nº de professores do ES treinados no uso do portal, 500 funcionários formados | Plano director de TICs guia o desenvolvimento
-Portal da Educação operacional
-Apoio técnico disponível
-Pessoal administra- tivo a usar TIC
+ | Portal da Educação operacional
+ | Apoio técnico disponível
+ | Pessoal administrativo a usar TIC
 
 81
 
@@ -2344,9 +2453,9 @@ Todavia,  não  basta  ter  um  plano  bem  equilibrado,  sustentável  e  'fina
 
 - Compromisso e liderança do Governo;
 
-- Apoio externo coerente;
-
 - Comunicação efectiva;
+
+- Apoio externo coerente;
 
 - Planificação e implementação descentralizada;
 
@@ -2408,7 +2517,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 ### 4.4 Apoio externo coerente
 
-Durante  o  PEE  I,  foi  iniciada  a  abordagem  do  apoio  sectorial  à  Educação.  O objectivo central  do  processo  de  apoio  sectorial  é  o  desenvolvimento  e  implementação de um programa abrangente de desenvolvimento do sector, que seja sustentável e  integrado  pelos  parceiros,  bem  como  uma  melhor  coordenação  dos  doadores, através de reuniões conjuntas regulares e troca de informação. Foi criado um fundo sectorial financiamento das acções do sector (FASE) que se está transformando num mecanismo cada vez mais efectivo para a canalização do apoio externo ao sector da Educação. A preparação do PEEC envolveu uma reflexão considerável e um intenso diálogo do Governo e parceiros externos sobre questões centrais relacionadas com as políticas. Como resultado, os parceiros de cooperação, outras agências têm vindo a aderir  ao  sistema  de  financiamento  ao  Orçamento.  Ainda  se  verificam  casos  de parceiros que continuam a usar modalidades de projecto, como um meio para apoiar o sector. Embora se reconheça que os projectos podem dar um contributo valioso em circunstâncias específicas e para fins específicos - muitas vezes não reforçam os sistemas  e  pessoal  do  Governo.  O  mesmo  acontece  relativamente  à  assistência técnica externa, que muitas vezes assume responsabilidades do Governo, em vez de as reforçar.
+Durante  o  PEE  I,  foi  iniciada  a  abordagem  do  apoio  sectorial  à  Educação.  O objectivo central  do  processo  de  apoio  sectorial  é  o  desenvolvimento  e  implementação de um programa abrangente de desenvolvimento do sector, que seja sustentável e  integrado  pelos  parceiros,  bem  como  uma  melhor  coordenação  dos  doadores, através de reuniões conjuntas regulares e troca de informação. Foi criado um fundo sectorial financiamento das acções do sector (FASE) que se está transformando num mecanismo cada vez mais efectivo para a canalização do apoio externo ao sector da Educação. A preparação do PEEC envolveu uma reflexão considerável e um intenso diálogo do Governo e parceiros externos sobre questões centrais relacionadas com as políticas. Como resultado, os parceiros de cooperação, outras agências têm vindo a aderir  ao  sistema  de  financiamento  ao  Orçamento.  Ainda  se  verificam  casos  de parceiros que continuam a usar modalidades de projecto, como um meio para apoiar o sector. Embora se reconheça que os projectos podem dar um contributo valioso - em circunstâncias específicas e para fins específicos - muitas vezes não reforçam os sistemas  e  pessoal  do  Governo.  O  mesmo  acontece  relativamente  à  assistência técnica externa, que muitas vezes assume responsabilidades do Governo, em vez de as reforçar.
 
 84
 
@@ -2464,35 +2573,21 @@ Os  processos  de  gestão  e  implementação  da  Estratégia  pressupõem  mu
 
 Figura 2: PEEC - Processo de Planificação e Orçamentação
 
-PEEC
-
-Programa de
-
-investimento
-
-do PEEC
-
-Revisão anual do orçamento
-
-e processo de planificação
-
-Planos anuais de
-
-trabalho das províncias
-
-Planos anuais de trabalho das
-
-direcções e departamentos do MEC
-
 Quadro nacional macro-económico e de políticas
 
-Planos anuais de
+PEEC
 
-trabalho dos distritos
+Programa de investimento do PEEC
 
-Planos anuais das
+Revisão anual do orçamento e processo de planificação
 
-escolas
+Planos anuais de trabalho das direcções e departamentos do MEC
+
+Planos anuais de trabalho das províncias
+
+Planos anuais de trabalho dos distritos
+
+Planos anuais das escolas
 
 86
 
@@ -2546,7 +2641,7 @@ O estabelecimento de uma administração financeira e gestão de 'procurement' c
 
 ### 4.7 Monitoria do Progresso
 
-A  implementação  do  PEEC  terá  de  ser  flexível,  respondendo  às  lições  tiradas  da experiência,  à  medida  que  estas  se  tornam  disponíveis.  Os  relatórios  anuais  de progresso  em  direcção  ao  cumprimento  das  metas  de  desempenho  do  PEEC  detalhando as despesas pré alocadas e desembolsadas, que avaliem os obstáculos e identifiquem as prioridades para acção correctiva (incluindo ajustes nas  políticas e estratégias do PEEC) - são os instrumentos chave para a monitoria do progresso. Até agora,  isto  tem  sido  em  grande  parte  feito  a  nível  central,  como  uma  actividade conjunta  entre  o  MEC  e  os  seus  parceiros  de  cooperação.  Estas  actividades  são orientadas por um conjunto de princípios acordados, constantes de um memorando de entendimento que foi desenvolvido entre o MEC e os seus parceiros. Está previsto um conjunto de reuniões estruturadas de revisão para darem orientação, supervisão e consulta efectiva, designadamente:
+A  implementação  do  PEEC  terá  de  ser  flexível,  respondendo  às  lições  tiradas  da experiência,  à  medida  que  estas  se  tornam  disponíveis.  Os  relatórios  anuais  de progresso  em  direcção  ao  cumprimento  das  metas  de  desempenho  do  PEEC - detalhando as despesas pré alocadas e desembolsadas, que avaliem os obstáculos e identifiquem as prioridades para acção correctiva (incluindo ajustes nas  políticas e estratégias do PEEC) - são os instrumentos chave para a monitoria do progresso. Até agora,  isto  tem  sido  em  grande  parte  feito  a  nível  central,  como  uma  actividade conjunta  entre  o  MEC  e  os  seus  parceiros  de  cooperação.  Estas  actividades  são orientadas por um conjunto de princípios acordados, constantes de um memorando de entendimento que foi desenvolvido entre o MEC e os seus parceiros. Está previsto um conjunto de reuniões estruturadas de revisão para darem orientação, supervisão e consulta efectiva, designadamente:
 
 - Reuniões anuais de revisão (A Reunião Anual de Revisão ou RAR);
 
@@ -2594,18 +2689,18 @@ De  forma  geral,  os  principais  pressupostos  assumidos  na  preparação  do
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-2006 | 2007 | 2008 | 2009 | 2010
+Tabela 2: Financiamento do PEEC
+
+ | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | ---
 PIB (em biliões de MT, 2006) | 180.831 | 193.491 | 207.012 | 221.538 | 237.046
-Crescimento real | 7,0% | 7,0% | 7,0% | 7,0%
+Crescimento real |  | 7,0% | 7,0% | 7,0% | 7,0%
 Recursos públicos (em biliões de MT, 2006) | 49.049 | 52.709 | 54.990 | 57.817 | 60.637
-Crescimento real | 7,5% | 4,3% | 5,1% | 4,9%
+Crescimento real |  | 7,5% | 4,3% | 5,1% | 4,9%
 Total investimento PEEC (em biliões de MT, 2006) | 11.672 | 13.986 | 15.593 | 16.897 | 18.279
 Total investimento PEEC (em milhões de USD, 2006) | 467 | 559 | 624 | 676 | 731
 Em % dos recursos públicos | 23,8% | 26,5% | 28,4% | 29,2% | 30,1%
 Em % do PIB | 6,5% | 7,2% | 7,5% | 7,6% | 7,7%
-
-Tabela 2: Financiamento do PEEC
 
 Neste  contexto,  prevê-se  que  a  implementação  do  PEEC  implique  para  o  período 2006-2010 um investimento total de 76,427 biliões de MT ou cerca de 3 biliões de USD;  um  aumento  do  orçamento  da  Educação  no  Orçamento  Geral  do  Estado passando de 23,8% em 2006 para 30,1% em 2010 e um aumento do orçamento da Educação no PIB de 6,5% em 2006 para 7,7% em 2010. Um maior detalhe destes dados, relativos ao plano financeiro do PEEC, encontra-se na tabela 2 em baixo.
 
@@ -2613,15 +2708,15 @@ Neste  contexto,  prevê-se  que  a  implementação  do  PEEC  implique  para  
 
 Relativamente à natureza da despesa, estima-se  que  do  envelope  financeiro  necessário à implementação do PEEC, em média 82% dos recursos sejam para financiar despesas correntes, principalmente salários e remunerações e 18% sejam para financiar despesas de capital. A distribuição no período encontra-se na tabela 3.
 
-2006 | 2007 | 2008 | 2009 | 2010
+Tabela 3: Financiamento do PEEC por natureza da despesa
+
+ | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | ---
 Total investimento PEEC (em biliões de MT, 2006) | 11.672 | 13.986 | 15.593 | 16.897 | 18.279
 Custos correntes (em % total) | 78 | 81 | 82 | 85 | 86
 Custos de capital (em % total) | 22 | 19 | 18 | 15 | 14
 
-Tabela 3: Financiamento do PEEC por natureza da despesa
-
-Um elemento central que está na base das estimativas do plano financeiro do PEEC é a política da despesa total com salários, e o controle do custo de construção de salas de  aulas.  Efectivamente,  controlar  o  orçamento  para  o  salário  dos  professores  é  o elemento  crucial  para  a  viabilidade  e  sustentabilidade  financeira  das  metas  de políticas e objectivos do PEEC. As políticas relativas às reformas no recrutamento e colocação  de  pessoal  docente  e  não  docente  foram  discutidas  no  capítulo  3.6  e incorporadas  nas  projecções  de  custos.  O  segundo  elemento  fundamental  para  a promoção  da  sustentabilidade  financeira  do  PEEC  é  o  controle  dos  custos  de construção de salas de aulas; a gestão comunitária da construção para o EP1 e EP2 apresentada no capítulo 3.1, e que se espera resulte num custo por sala de aula de USD 10.000-20.000 dólares americanos.
+Um elemento central que está na base das estimativas do plano financeiro do PEEC é a política da despesa total com salários, e o controle do custo de construção de salas de  aulas.  Efectivamente,  controlar  o  orçamento  para  o  salário  dos  professores  é  o elemento  crucial  para  a  viabilidade  e  sustentabilidade  financeira  das  metas  de políticas e objectivos do PEEC. As políticas relativas às reformas no recrutamento e
 
 91
 
@@ -2631,9 +2726,13 @@ Um elemento central que está na base das estimativas do plano financeiro do PEE
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
+colocação de pessoal docente e não docente foram discutidas no capítulo 3.6 e incorporadas nas projecções de custos. O segundo elemento fundamental para a promoção da sustentabilidade financeira do PEEC é o controle dos custos de construção de salas de aulas; a gestão comunitária da construção para o EP1 e EP2 apresentada no capítulo 3.1, e que se espera resulte num custo por sala de aula de USD 10.000-20.000 dólares americanos.
+
 Uma  vez  que  o  PARPA  não  compreende  de  momento  todas  as  intervenções  do Sistema  Nacional  de  Educação,  que  recentemente  passou  também  a  incluir  o  subsistema do Ensino Superior e a área da Cultura, o plano financeiro do PEEC é mais abrangente  do  que  o  preconizado  no  PARPA.  Enquanto  o  PARPA  prevê  que  no sector  da  educação  se  invistam  18,9%  do  total  dos  recursos  públicos  em  2007 chegando a 21,9% em 2010, o PEEC estima a necessidade de um investimento de 26,5% do total dos recursos públicos em 2007 subindo para a 30,1% em 2010. Estas diferenças são ilustradas pela tabela 4.
 
-2006 | 2007 | 2008 | 2009 | 2010
+Tabela 4: Comparação do plano financeiro do PEEC relativamente ao PARPA.
+
+ | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | ---
 PIB (em biliões de MT, 2006) | 180.831 | 193.491 | 207.012 | 221.538 | 237.046
 Recursos públicos (em biliões de MT, 2006) | 49.049 | 52.709 | 54.990 | 57.817 | 60.637
@@ -2641,8 +2740,6 @@ Recursos para educação (em biliões de MT, 2006) - PARPA | 9.728 | 9.944 | 10.
 % dos recursos públicos | 19,8% | 18,9% | 19,9% | 20,7% | 21,9%
 Total investimento PEEC (em biliões de MT, 2006) | 11.672 | 13.986 | 15.593 | 16.897 | 18.279
 % dos recursos públicos | 23,8% | 26,5% | 28,4% | 29,2% | 30,1%
-
-Tabela 4: Comparação do plano financeiro do PEEC relativamente ao PARPA.
 
 Relativamente à estrutura do plano financeiro do PEEC por níveis de ensino e áreas transversais,  pode-se  constatar  na  tabela  5  que  no  ensino  primário  (EP1  e  EP2)  se prevê investir, em média por ano 49% do investimento total estimado para o PEEC; no ensino secundário se prevê a necessidade de um crescimento de investimento que deverá  passar  de  18,4%  do  investimento  total  do  PEEC  em  2006  para  22,6%  em 2010; no ensino técnico se prevê a necessidade de um investimento de 4% do total do PEEC no período e no ensino superior um investimento em média de 18,5% do total do PEEC no quinquénio. Por outro lado, prevê-se que os recursos para os restantes sub-sistemas e áreas transversais se mantenham constantes, em termos proporcionais, no  período  e  que  os  custos  administrativos  passem  progressivamente  a  representar um menor investimento no total de recursos afectos ao sector.
 
@@ -2654,7 +2751,9 @@ Relativamente à estrutura do plano financeiro do PEEC por níveis de ensino e �
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-2006 | 2007 | 2008 | 2009 | 2010
+Tabela 5: Estrutura do plano financeiro do PEEC por níveis de ensino e áreas transversais.
+
+ | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | ---
 Educação primária (Ep1 e Ep2) | 49,9% | 48,8% | 48,6% | 48,8% | 49,4%
 Educação secundária, 1º ciclo (Es1) | 11,9% | 11,0% | 11,7% | 13,1% | 13,9%
@@ -2667,8 +2766,6 @@ Cultura | 0,9% | 1,1% | 1,1% | 1,1% | 1,1%
 HIV/SIDA | 1,0% | 1,1% | 1,1% | 1,2% | 1,2%
 Administração | 5,4% | 5,3% | 4,8% | 4,2% | 3,6%
 Total sub-sectores | 100,0% | 100,0% | 100,0% | 100,0% | 100,0%
-
-Tabela 5: Estrutura do plano financeiro do PEEC por níveis de ensino e áreas transversais.
 
 ## 6. Pressupostos, Oportunidades e Riscos
 
@@ -2740,9 +2837,9 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 - o Maior responsabilidade pelo financiamento;
 
-- o Celeridade  nos  processos  de  gestão,  tomada  de  decisões  e  comunicação;
-
 - o Melhoria da auditoria, 'procurement' e sistemas de informar;
+
+- o Celeridade  nos  processos  de  gestão,  tomada  de  decisões  e  comunicação;
 
 - o Monitoria mais apertada dos resultados das despesas;
 
@@ -2766,7 +2863,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 ## Resumo das projecções financeiras
 
-2005 | 2006-2010
+ | 2005 | 2006-2010
 --- | --- | ---
 EP1
 Número total de alunos (matrículas dos alunos) | 3.471.140 | 4.356.294
@@ -2775,7 +2872,7 @@ Rácio de turmas por professor nas escolas públicas | 1,49 | 1,36
 Rácio de alunos por turma nas escolas públicas | 49,5 | 47,5
 Despesas com 'inputs' para além dos professores como % do total das despesas correntes do EP1 | 12,6 | 32
 Total de despesas correntes (milhões de Mt) | * | 19.379.848
-Previsão de número de salas de aula a serem construídas | 12.200
+Previsão de número de salas de aula a serem construídas |  | 12.200
 Total de despesas de capital (milhões de Mt) | * | 4.355.327
 EP2
 Número total de alunos (diurno e nocturno) | 553.991 | 1.111.634
@@ -2783,7 +2880,7 @@ Rácio de alunos por turmas nas escolas públicas | 51,7 | 48,7
 Número de professores nas escolas (diurno e nocturno) | 11.011 | 23.945
 Despesas com outros 'inputs' para além dos professores como % do total das despesas correntes do EP2 | 22,3 | 32
 Total de despesas correntes (milhões de Mt) | * | 11.784.158
-Previsão de número de salas de aula a serem construídas | 8.393
+Previsão de número de salas de aula a serem construídas |  | 8.393
 Total de despesas de capital (milhões de Mt) | * | 1.987.921
 ESG1
 Número total de alunos (diurno e nocturno) | 357.431 | 986.511
@@ -2791,7 +2888,7 @@ Rácio alunos por turma nas escolas públicas | 59 | 55,2
 Número de professores nas escolas públicas (diurno e nocturno) | 5.004 | 16.573
 Despesas com outros 'inputs' para além dos professores como % do total das despesas correntes do ESG1 | 29 | 33
 Total de despesas correntes (milhões de Mt) | * | 6.759.286
-Previsão de número de salas de aula a serem construídas | 5.323
+Previsão de número de salas de aula a serem construídas |  | 5.323
 Total de despesas de capital (milhões de Mt) | * | 3.044.667
 ESG2
 Número total de alunos (diurno e nocturno) | 54.341 | 227.530
@@ -2807,14 +2904,14 @@ Despesas com outros 'inputs' para além dos professores como % do total das desp
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-2005 | 2006-2010
+ | 2005 | 2006-2010
 --- | --- | ---
 Total de despesas correntes (milhões de Mt) | * | 4.526.118
-Previsão de número de salas de aula a serem construídas | 1.603
+Previsão de número de salas de aula a serem construídas |  | 1.603
 Total de despesas de capital (milhões de Mt) | * | 1.317.586
 ETP
 Total de despesas correntes (milhões de Mt) | * | 1.475.186
-Previsão de número de salas de aula a serem construídas | 1.014
+Previsão de número de salas de aula a serem construídas |  | 1.014
 Total de despesas de capital (milhões de Mt) | * | 1.566.609
 FP
 Total de despesas correntes (milhões de Mt) | * | 469.997
@@ -2822,7 +2919,7 @@ Total de despesas de capital (milhões de Mt) (Reabilitação 6 CFP) | * | 92.72
 Alfabetização
 Total de despesas correntes (milhões de Mt) | * | 766.298
 Ensino Superior
-Número total de alunos | 2.324.438
+Número total de alunos |  | 2.324.438
 Total de despesas correntes (milhões de Mt) | * | 12.949.075
 Total de despesas de capital (milhões de Mt) | * | 1.090.000
 Cultura
@@ -2831,9 +2928,9 @@ Administração
 Total de despesas correntes (milhões de Mt) | * | 3.188.941
 HIV/SIDA
 Despesa corrente total do governo em HIV/SIDA | * | 864.163
-Total de despesas correntes | 62.973.068
-Total de despesas de capital | 13.454.836
-Total de despesas do sector | 76.427.904
+Total de despesas correntes |  | 62.973.068
+Total de despesas de capital |  | 13.454.836
+Total de despesas do sector |  | 76.427.904
 
 Notas:  as  projecções  financeiras  para  o  quinquénio  2006-2010  estão  estimadas  a preços constantes de 2006.
 
@@ -2874,7 +2971,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
 ## Pressupostos e resultados chave do modelo de projecções financeiras
 
-2005 | PEEC
+ | 2005 | PEEC
 --- | --- | ---
 Educação
 EP1: admissão 1ª classe com 6 anos | 55,6 | 95,0
@@ -2923,7 +3020,7 @@ EP1: subsídio para turnos múltiplos | 60% | 60%
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-2005 | PEEC
+ | 2005 | PEEC
 --- | --- | ---
 Proporção de professores por nível salarial
 EP1: Professores na Categoria 1 (N5) - (6+1, 7+1, NQ<10) | 17,0 | 0
@@ -2939,29 +3036,28 @@ ES2: Professores na Categoria 3 (N3) - 10+2 & outros | 35,0 | 20,0
 ES2: Professores na Categoria 4 (N2) - Bacharéis | 16,0 | 30,0
 ES2: Professores na Categoria 5 (N1) - Licenciados | 49,0 | 50,0
 Formação e recrutamento de professores
-CFFP (7+3): total graduados por ano | 1350 ano até 2009
-CFFP (7+3): graduadas por ano
-58,0 | 60,0
-Ano para começar a encerrar os cursos dos CFFP | 2007
-IMAP (10+2): total graduados por ano | 1600 ano até 2008
+CFFP (7+3): total graduados por ano |  | 1350 ano até 2009
+CFFP (7+3): graduadas por ano | 58,0 | 60,0
+Ano para começar a encerrar os cursos dos CFFP |  | 2007
+IMAP (10+2): total graduados por ano |  | 1600 ano até 2008
 IMAP (10+2): graduadas por ano | 42,0 | 50,0
-Ano para começar a encerrar os cursos dos IMAP (10+2) | 2007
+Ano para começar a encerrar os cursos dos IMAP (10+2) |  | 2007
 Novo programa de formação de 10+1 (EP1, EP2)
 Taxa anual de crescimento real do financiamento per capita (aluno) | 0 | 5,0
-Total graduados | 18.100
-Graduadas por ano no total de graduados | 50,0
+Total graduados |  | 18.100
+Graduadas por ano no total de graduados |  | 50,0
 Novo programa de formação de 12+1 (ESG1)
 Taxa anual de crescimento real do financiamento per capita (aluno) | 0 | 5,0
-Total graduados | 9.000
-Graduadas por ano no total de graduados | 40,0
+Total graduados |  | 9.000
+Graduadas por ano no total de graduados |  | 40,0
 Novo programa de formação de ensino à distância (ESG2)
 Taxa anual de crescimento real do financiamento per capita (aluno) | 0 | 5,0
-Total de graduados por ano | 1500
-Ano para a introdução dos cursos de ensino à distância | 2010
+Total de graduados por ano |  | 1500
+Ano para a introdução dos cursos de ensino à distância |  | 2010
 Formação em serviço
-Número de professores em formação em serviços a frequentar programas existentes | 5.000
+Número de professores em formação em serviços a frequentar programas existentes | 5.000 |
 Taxa anual de crescimento real do financiamento para o novo modelo de formação em serviço | 0,0 | 5,0
-Crescimento anual na proporção de professores a receberem formação em serviço de acordo com o novo modelo | 20,0
+Crescimento anual na proporção de professores a receberem formação em serviço de acordo com o novo modelo |  | 20,0
 Graduados do ensino superior
 Graduados com bacharelato por ano | 101 | 1000
 Graduadas na proporção total de graduados com bacharelato | 28,0 | 40,0
@@ -2975,7 +3071,7 @@ Graduados com licenciatura por ano | 95 | 500
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-2005 | PEEC
+ | 2005 | PEEC
 --- | --- | ---
 Graduadas na proporção total de graduados com licenciatura | 22,0 | 40,0
 Despesas
@@ -3008,7 +3104,7 @@ ESG2: despesas em exames no total de outras despesas correntes (excluindo salár
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-2005 | PEEC
+ | 2005 | PEEC
 --- | --- | ---
 ESG2: despesas com os internatos no total de outras despesas correntes (excluindo salários e remunerações pessoal docente) | 47,4 | 10,0
 ESG2: outras despesas correntes no total de outras despesas correntes (excluindo salários e remunerações pessoal docente) | 17,0 | 30,0
@@ -3033,7 +3129,8 @@ Despesas em capacitação institucional em proporção do total das despesas em 
 Despesas em desporto escolar em proporção do total das despesas em administração | 0,3 | 0,3
 Despesas em TIC em proporção do total das despesas em administração | 6,4 | 3,0
 Infra-estruturas
-O programa de construções escolares está dividido em dois sub- programas quinquenais, 2006-11 e 2011-16 EP1: número de professores por sala de aula | 1,2 | 1,2
+O programa de construções escolares está dividido em dois sub-programas quinquenais, 2006-11 e 2011-16
+EP1: número de professores por sala de aula | 1,2 | 1,2
 EP2: número de turmas por sala de aula | 1,5 | 1,5
 ESG1: número de turmas por sala de aula | 2,0 | 2,0
 ESG2: número de turmas por sala de aula | 2,0 | 2,0
@@ -3047,10 +3144,10 @@ ETV: número de turmas por sala de aula | 1,5 | 1,5
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE EDUCAÇÃO
 
-2005 | PEEC
+ | 2005 | PEEC
 --- | --- | ---
 EP1, EP2, ESG1, ESG2: proporção de salas de aula precárias actuais a serem reabilitadas em cada programa | 20,0 | 20,0
-Proporção de construções escolares construídas usando métodos de baixo custo com envolvimento das comunidades | 50,0
+Proporção de construções escolares construídas usando métodos de baixo custo com envolvimento das comunidades |  | 50,0
 
 105
 
@@ -3066,15 +3163,15 @@ Proporção de construções escolares construídas usando métodos de baixo cus
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE CULTURA
 
+# Parte 2: Cultura
+
 ## 1. O Contexto
 
-Moçambique é uma nação constituída por um vasto e diversificado mosaico sóciocultural.  Este  facto  manifesta-se  pela  grande  diversidade  etnolinguística  do  país  e, pelas diferentes expressões de tradições, hábitos e costumes dos seus habitantes. A composição da população de Moçambique é, em grande medida, o resultado de um processo de miscigenação de povos, processo que decorre desde as migrações bantu, que no princípio do primeiro milénio se juntaram a comunidades já estabelecidas no actual  território  moçambicano.  Esse  processo  continuou,  através  da  interacção  de comunidades e povos da região.
+Moçambique é uma nação constituída por um vasto e diversificado mosaico sócio-cultural.  Este  facto  manifesta-se  pela  grande  diversidade  etnolinguística  do  país  e, pelas diferentes expressões de tradições, hábitos e costumes dos seus habitantes. A composição da população de Moçambique é, em grande medida, o resultado de um processo de miscigenação de povos, processo que decorre desde as migrações bantu, que no princípio do primeiro milénio se juntaram a comunidades já estabelecidas no actual  território  moçambicano.  Esse  processo  continuou,  através  da  interacção  de comunidades e povos da região.
 
 Em seguida, povos de origem asiática estabeleceram-se na zona costeira, penetrando progressivamente  para  o  interior  do  país,  o  que  é  testemunhado  pelas  influências islâmicas das populações costeiras e em certas regiões do interior, particularmente no norte do país. A partir do século XV, povos de origem europeia começaram a chegar às zonas costeiras, expandindo-se progressivamente ao longo de todo o país. O mais importante  desses  movimentos  foi  o  dos  portugueses,  cuja  língua  é  actualmente  a língua oficial de Moçambique. Embora o português seja a língua oficial, de ensino e de trabalho, o último censo revelou que apenas 6,5% da população fala o português como sua língua materna. Para além do português, são faladas em Moçambique, mais de 13 línguas e múltiplos dialectos que enriquecem o panorama linguístico e cultural do país.
 
 Desde  a  proclamação  da  independência  nacional  (1975)  e  o  fim  do  período  de instabilidade política e militar (AGP, 1992), o país tem conhecido um significativo crescimento  económico  e  social.  O  ambiente  de  paz  e  o  incremento  económico acelerado, têm providenciado condições favoráveis para o desenvolvimento do sector
-
-# Parte 2: Cultura
 
 107
 
@@ -3174,7 +3271,7 @@ Do mesmo modo, o documento reflecte também sobre as iniciativas mais recentes a
 
 ### 3.1 A Constituição da República de Moçambique
 
-A Constituição Moçambicana preconiza que o Estado valoriza as línguas nacionais como  um  património  cultural  e  educacional  e  urge  a  promoção  do  seu  desenvolvimento,  assim  como  a  sua  utilização  como  instrumento  de  fortalecimento  da identidade  moçambicana.  O  objectivo  fundamental  do  Estado  é  indicado  como  a consolidação da unidade nacional, numa sociedade pluralista e tolerante que valoriza a cultura de paz. O Estado promove igualmente a liberdade de expressão científica, técnica, literária e criação artística  dos  seus  cidadãos,  protege  a  propriedade intelectual e promove a prática e a disseminação de trabalhos literários e de arte. Os cidadãos  são  igualmente  livres  em  exprimir  as  tradições  e  valores  da  sociedade moçambicana.
+A Constituição Moçambicana preconiza que o Estado valoriza as línguas nacionais como  um  património  cultural  e  educacional  e  urge  a  promoção  do  seu  desenvolvimento,  assim  como  a  sua  utilização  como  instrumento  de  fortalecimento  da identidade  moçambicana.  O  objectivo  fundamental  do  Estado  é  indicado  como  a consolidação da unidade nacional, numa sociedade pluralista e tolerante que valoriza a cultura de paz. O Estado promove igualmente a liberdade de expressão científica,
 
 112
 
@@ -3183,6 +3280,8 @@ A Constituição Moçambicana preconiza que o Estado valoriza as línguas nacion
 [[START OF PAGE 121]]
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE CULTURA
+
+técnica, literária e criação artística dos seus cidadãos, protege a propriedade intelectual e promove a prática e a disseminação de trabalhos literários e de arte. Os cidadãos são igualmente livres em exprimir as tradições e valores da sociedade moçambicana.
 
 ### 3.2 A primeira Conferência Nacional da Cultura e a Política Cultural
 
@@ -3228,7 +3327,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE CULTURA
 
 O Plano de Acção para as Indústrias Culturais em África foi aprovado em Nairobi, Quénia  durante  a  Conferência  de  Ministros  da  Cultura  de  África.  Este  documento propõe  várias  soluções  para  resolver  os  problemas  enfrentados  pelas  indústrias culturais em África. A Estratégia analisa os aspectos económicos, sociais e políticos do  sector  numa  perspectiva  dos  Estados  Africanos.  Entre  os  maiores  problemas identificados  encontram-se  o  difícil  acesso  aos  mercados  de  exportação,  impostos fiscais  e  aduaneiros  excessivos,  o  estatuto  social  baixo  dado  ao  artista  e  a  fraca qualidade dos produtos culturais africanos. A Estratégia tem por objectivo reforçar a contribuição económica da cultura para o desenvolvimento do país e incluem várias actividades para fortalecer a produção, a venda e a distribuição dos produtos culturais moçambicanos, a promoção do turismo cultural e a criação de um ambiente favorável para o desenvolvimento das indústrias culturais. Outra prioridade, relaciona-se com a capacitação  da  área,  para  que  contribua  para  o  desenvolvimento  das  indústrias culturais  através  da  organização  e  formação  técnica  e  em  gestão  das  organizações culturais (instituições, associações, cooperativas, etc.).
 
-O  documento  base  do  NEPAD,  apenas  menciona  a  cultura  no  que  concerne  à importância do uso e protecção do conhecimento local. Uma área também valorizada por  esta  Estratégia,  é  o  fortalecimento  e  promoção  da  identidade  moçambicana  no contexto  da  diversidade.  De  facto,  o  NEPAD  é  baseado  na  necessidade  de  África resolver  os  seus  próprios  problemas  através  dos  seus  próprios  meios  mas  com  o apoio  activo  dos  parceiros  e  dos  intervenientes  nos  níveis  local,  nacional,  subregional, continental e internacional. O que significa que toda a fundação do NEPAD está baseada na cultura Africana. A Estratégia baseia-se nessa mesma filosofia, em particular, no que se refere à primeira prioridade estratégica que visa a integração das questões culturais nos processos de desenvolvimento do país.
+O  documento  base  do  NEPAD,  apenas  menciona  a  cultura  no  que  concerne  à importância do uso e protecção do conhecimento local. Uma área também valorizada por  esta  Estratégia,  é  o  fortalecimento  e  promoção  da  identidade  moçambicana  no contexto  da  diversidade.  De  facto,  o  NEPAD  é  baseado  na  necessidade  de  África resolver  os  seus  próprios  problemas  através  dos  seus  próprios  meios  mas  com  o apoio  activo  dos  parceiros  e  dos  intervenientes  nos  níveis  local,  nacional,  sub-regional, continental e internacional. O que significa que toda a fundação do NEPAD está baseada na cultura Africana. A Estratégia baseia-se nessa mesma filosofia, em particular, no que se refere à primeira prioridade estratégica que visa a integração das questões culturais nos processos de desenvolvimento do país.
 
 ### 3.6 Instrumentos internacionais
 
@@ -3260,7 +3359,7 @@ As outras duas convenções adoptadas pelo países membros da UNESCO mas, ainda 
 
 - A Convenção sobre a Protecção e Promoção da Diversidade de Expressões Culturais (2005).
 
-Moçambique  já  ratificou  a Convenção  sobre  a  Protecção  do  Património  da Humanidade Cultural e Natural e  iniciou  o  processo  da  ratificação  da  Convenção do s Meios de Proibição de Importação e Exportação e Transferência Ilícita de Bens Culturais, a Convenção para a Salvaguarda do Património Cultural e a Convenção sobre a protecção e Promoção da Diversidade de Expressões Culturais .
+Moçambique  já  ratificou  a Convenção  sobre  a  Protecção  do  Património  da Humanidade Cultural e Natural e  iniciou  o  processo  da  ratificação  da  Convenção dos Meios de Proibição de Importação e Exportação e Transferência Ilícita de Bens Culturais, a Convenção para a Salvaguarda do Património Cultural e a Convenção sobre a protecção e Promoção da Diversidade de Expressões Culturais.
 
 A ratificação  das  Convenções  de  1970,  2003  e  2005,  está  prevista  para  um  futuro próximo  e  alimentarão  directamente  as  prioridades  estratégicas  delineadas  nesta Estratégia.  Por  exemplo,  a  implementação  da Convenção  para  a  Salvaguarda  do Património  Cultural  Intangível, vai  reforçar  a  possibilidade  de  obter  resultados concretos.
 
@@ -3308,7 +3407,7 @@ As  indústrias  culturais  compreendem  todos  os  empreendimentos  e  sectores
 
 Como acontece com os outros sectores da vida económica do país, a agressividade do  empresariado  nacional  tem  sido  ofuscada  pelo  poder  de  compra  dos  cidadãos. Visando  contornar  esta  situação,  a  produção  de  espectáculos  com  artistas  estrangeiros de reconhecida popularidade e a escolha de centros de maior consumo, a fim de  minimizar  os  riscos  dos  seus  investimentos,  tem  sido  a  tendência  dos  últimos tempos. Estas atitudes, que resultam também da falta de capitais iniciais, colocam em segundo plano a promoção de artistas e criadores nacionais.
 
-O  desenvolvimento da área do audiovisual e cinema, cujos produtos muito contribuem  para  a  educação  dos  cidadãos,  está  igualmente  condicionado  pela iniciativa privada. Esta área comporta três sectores fundamentais: a produção, distribuição  e  exibição,  sendo  a  produção,  com  mais  de  14  empresas  registadas,  a  que mais  se  ressente  da  falta  de  recursos  para  o  seu  desenvolvimento.  Esta  situação prende-se  com  os  elevados  custos  envolvidos  na  produção  de  uma  obra  cinematográfica ou audiovisual.
+O desenvolvimento da área do audiovisual e cinema, cujos produtos muito contribuem para a educação dos cidadãos, está igualmente condicionado pela iniciativa privada. Esta área comporta três sectores fundamentais: a produção, distribuição e exibição, sendo a produção, com mais de 14 empresas registadas, a que mais se ressente da falta de recursos para o seu desenvolvimento. Esta situação
 
 118
 
@@ -3318,7 +3417,9 @@ O  desenvolvimento da área do audiovisual e cinema, cujos produtos muito contri
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE CULTURA
 
-O sector de distribuição, assegurado por apenas duas empresas privadas, mostra-se, igualmente  fragilizado  pela  incapacidade  financeira  de  assegurar  uma  importação regular  de  filmes,  o  que  se  reflecte  na  inoperacionalidade  de  cerca  de  60  salas  de cinema,  de  um  universo  de  72  existentes  no  país.  Como  resultado  desta  situação, assiste-se  hoje  a  uma  proliferação  de  recintos  clandestinos  de  exibição  de  vídeo filmes no país, cujo número se estima em 3.000, os quais projectam filmes muitas vezes inadequados a certas faixas etárias.
+prende-se com os elevados custos envolvidos na produção de uma obra cinematográfica ou audiovisual.
+
+O sector de distribuição, assegurado por apenas duas empresas privadas, mostra-se, igualmente fragilizado pela incapacidade financeira de assegurar uma importação regular de filmes, o que se reflecte na inoperacionalidade de cerca de 60 salas de cinema, de um universo de 72 existentes no país. Como resultado desta situação, assiste-se hoje a uma proliferação de recintos clandestinos de exibição de vídeo - filmes no país, cujo número se estima em 3.000, os quais projectam filmes muitas vezes inadequados a certas faixas etárias.
 
 A sociedade civil, de uma maneira geral, tem contribuído para a busca de alternativas para  inverter  esta  situação.  É  de  referir  o  recente  surgimento  de  cooperativas  e associações, como é o caso da Produtores Associados, Associação Moçambicana de Cineastas e Associação Moçambicana de Exibidores de Videogramas, todas sediadas na capital do país.
 
@@ -3387,10 +3488,10 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE CULTURA
 Objectivos | Resultados | Indicadores /Metas de Desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
 Fortalecido o quadro regulador legal para o desenvolvimento de cooperativas de pequenas e médias empresas culturais. | Legislação criada e facilidades no processo de formação e oficialização das empresas culturais.
-Promover a exploração comercial de produtos culturais locais e criações | Capacidade e competência das empresas culturais melhorada | Criada a capacidade competitiva dos produtores culturais nacionais
-artísticas. | Realizadas acções de formação e capacitação institucional para fazedores culturais. | Número de programas de formação e capacitação realizados para o desenvolvimento de habilidades profissionais.
+Promover a exploração comercial de produtos culturais locais e criações artísticas. | Capacidade e competência das empresas culturais melhorada | Criada a capacidade competitiva dos produtores culturais nacionais
+Realizadas acções de formação e capacitação institucional para fazedores culturais. | Número de programas de formação e capacitação realizados para o desenvolvimento de habilidades profissionais.
 Estabelecimento de mecanismos de marketing e acesso aos mercados. | Marketing e interacção com principais mercados internacionais estabelecidos
-Melhorar o acesso a dados de qualidade sobre a importância económica da área da cultura | Maior sensibilidade sobre o impacto económico das artes e cultura na economia. | Estabelecido sistema nacional de sistematização e disseminação de dados estatístico- económicos na área da cultura.
+Melhorar o acesso a dados de qualidade sobre a importância económica da área da cultura | Maior sensibilidade sobre o impacto económico das artes e cultura na economia. | Estabelecido sistema nacional de sistematização e disseminação de dados estatístico-económicos na área da cultura.
 Fortalecer os regimes de aplicação dos Direitos de Autor. | Potenciadas/criadas instituições de administração dos direitos de autor. | Maior parceria e capacidade da SOMAS (Sociedade Moçambicana de Autores).
 Fortalecidas as acções de combate a pirataria e contrafacção de produtos culturais. | Reduzida a ocorrência da pirataria e contrafacção.
 
@@ -3577,7 +3678,7 @@ Na implementação da política cultural, os esforços do Estado são complement
 
 A  emergência  de  associações  cooperativas  e  empresas  culturais  em  todos  os domínios da criação artística, testemunham esse esforço. Todavia, a realização dos propósitos  que  norteiam  a  formação  destas  iniciativas,  tem-se  revelado  cativa  das conjunturas  económicas,  designadamente  a  alta  de  preços  dos  materiais  indispensáveis, os custos para a formalização da sua existência jurídica, os custos das suas actividades e do seu funcionamento bem como do fraco domínio da legislação sobre a cultura, com especial referência para a Lei do Mecenato.
 
-A esta situação, acrescenta-se a falta de um movimento associativo cultural unido e forte nas diferentes áreas artísticas. Esse facto dificulta a identificação de interlocutores certos dos vários grupos de interesse. Se, por um lado, existem iniciativas bem sucedidas, por outro, situações decorrentes destes constrangimentos fazem com que esteja em causa a subsistência de grande parte das associações culturais, iniciativas de artistas e criadores.
+A esta situação, acrescenta-se a falta de um movimento associativo cultural unido e forte nas diferentes áreas artísticas. Esse facto dificulta a identificação de interlocu-
 
 129
 
@@ -3586,6 +3687,8 @@ A esta situação, acrescenta-se a falta de um movimento associativo cultural un
 [[START OF PAGE 138]]
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE CULTURA
+
+tores certos dos vários grupos de interesse. Se, por um lado, existem iniciativas bem sucedidas, por outro, situações decorrentes destes constrangimentos fazem com que esteja em causa a subsistência de grande parte das associações culturais, iniciativas de artistas e criadores.
 
 #### 4.4.2 Estratégia
 
@@ -3638,9 +3741,9 @@ Sem  prejuízo  das  singularidades  individuais  ou  de  grupo,  estabelece-se 
 
 - Promover a valorização das especificidades culturais regionais e locais;
 
-- Privilegiar a juventude, com destaque para a comunidade estudantil no acesso as fontes do conhecimento local e da história nacional;
-
 - A pesquisa e a maior difusão das diferentes experiências culturais;
+
+- Privilegiar a juventude, com destaque para a comunidade estudantil no acesso as fontes do conhecimento local e da história nacional;
 
 131
 
@@ -3652,21 +3755,21 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE CULTURA
 
 - Promover intercâmbios culturais e outras formas de interacção entre actores sociais de diferentes realidades socioculturais.
 
+#### 4.5.3 Quadro para acção e reforma de políticas
+
 Objectivos | Resultados | Indicadores /Metas de Desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Desenvolver as acções de fortaleci- mento do diálogo e compreensão intercultural. | Fortalecido o papel da cultura para a coesão, harmonia social e auto- estima. | Maior referência /identificação com os valores / cultura nacional
+Desenvolver as acções de fortalecimento do diálogo e compreensão intercultural. | Fortalecido o papel da cultura para a coesão, harmonia social e auto-estima. | Maior referência /identificação com os valores / cultura nacional
 Promovidas as expressões artísticas e culturais a nível nacional e internacional | Programas produzidos e difundidos, sobre a diversidade cultural do país
-Promover a Educação para o Património Cultural. | Integração de aspectos de arte e cultura nacional nos processos de ensino- aprendizagem fortalecida. | Nível de integração e implementação.
-Fortalecida a interacção escola-comunidade na gestão do património cultural. | Ligação escola- comunidade mais operativa
+Promover a Educação para o Património Cultural. | Integração de aspectos de arte e cultura nacional nos processos de ensino-aprendizagem fortalecida. | Nível de integração e implementação.
+Fortalecida a interacção escola-comunidade na gestão do património cultural. | Ligação escola-comunidade mais operativa
 Maior reconhecimento das artes e cultura como área de profissionalização. | Aumento de ingressos nas escolas de arte e cultura.
-
-#### 4.5.3 Quadro para acção e reforma de políticas
 
 ## 5. Monitoria e Avaliação
 
 O  Plano  Estratégico  é  um  instrumento  de  planificação.  Deve  ser  regularmente revisto, actualizado, e enriquecido, de modo a corresponder às possíveis mudanças a ocorrer ao longo do processo da sua implementação. A monitoria será feita de duas formas:
 
-- Através  de  um  sistema  periódico  e  contínuo  de  avaliação  e  verificação (trimestral e semestral), de forma a se poder medir o grau de implementação do  Plano  Estratégico.  Essa  aferição  será  feita  com  base  em  objectivos, resultados, actividades, indicadores, e meios de verificação definidos.
+a) Através de um sistema periódico e contínuo de avaliação e verificação (trimestral e semestral), de forma a se poder medir o grau de implementação do Plano Estratégico. Essa aferição será feita com base em objectivos, resultados, actividades, indicadores, e meios de verificação definidos.
 
 132
 
@@ -3676,7 +3779,7 @@ O  Plano  Estratégico  é  um  instrumento  de  planificação.  Deve  ser  reg
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE CULTURA
 
-- Através  de  avaliações  externas  em  determinados  momentos  de  implementação do Plano.
+b) Através de avaliações externas em determinados momentos de implementação do Plano.
 
 Relatórios anuais de progresso onde se documenta o progresso para o cumprimento das metas de desempenho do PEC, detalhando as despesas pré-alocadas e desembolsadas, que avaliem os obstáculos e identifiquem as prioridades para a acção correctiva  (incluindo  ajustes  nas  políticas  e  estratégias  do  PEC),  são  os  instrumentos chave para a monitoria do progresso. Anualmente, terá lugar, um encontro de avaliação, onde deverão participar para além de dirigentes e quadros do MEC, fazedores da cultura e parceiros da cooperação.
 
@@ -3708,7 +3811,7 @@ Identidade | Sensação ou convencimento íntimo de se ser uma pessoa ou grupo �
 Herança cultural | Formada por todos e cada um dos elementos tangíveis e intangíveis, que se transmitem de uma geração para outra, ultrapassando assim a essência das pessoas, grupos ou povos que constituem a sua identidade.
 Bens imóveis | Pertencem ao património tangível e caracterizam-se pela sua imobilidade tal como edifícios, igrejas, parques.
 Bens móveis | Pertencem ao património tangível e podem ser transladados de um lugar para o outro, como quadros, esculturas, livros, móveis.
-Conservação | Disciplina que procura evitar a possível deterioração dos objectos, desde um livro ou um bem móvel, a um parque ou uma catedral ou mesquita. Qualquer acção de conservação inclui, também, as inter- venções activas ou acções de restauro. A maioria dos esforços de conservação orientam-se para o que se chama de conservação preventiva, o que quer dizer que os objectos não estão expostos a danos desnecessários. É por isso que as salas dos museus estão climatizadas, com controle de temperatura, humidade e qualidade de ar; e possuem condições que permitem a exposição dos objectos num ambiente de luz ténue, sem focos directos de lâmpadas, nem da luz do Sol; É, por isso, também, que os lugares onde existem objectos patrimoniais devem ser, periodicamente, desinfectados para evitar pragas, como por exemplo as térmitas da madeira.
+Conservação | Disciplina que procura evitar a possível deterioração dos objectos, desde um livro ou um bem móvel, a um parque ou uma catedral ou mesquita. Qualquer acção de conservação inclui, também, as intervenções activas ou acções de restauro. A maioria dos esforços de conservação orientam-se para o que se chama de conservação preventiva, o que quer dizer que os objectos não estão expostos a danos desnecessários. É por isso que as salas dos museus estão climatizadas, com controle de temperatura, humidade e qualidade de ar; e possuem condições que permitem a exposição dos objectos num ambiente de luz ténue, sem focos directos de lâmpadas, nem da luz do Sol; É, por isso, também, que os lugares onde existem objectos patrimoniais devem ser, periodicamente, desinfectados para evitar pragas, como por exemplo as térmitas da madeira.
 
 135
 
@@ -3720,14 +3823,14 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ÁREA DE CULTURA
 
 Indústria cultural | Actividade que integra bens culturais de qualquer espécie (tradições, objectos) numa gama de projectos de cariz económico, favorecendo a sua conservação e difusão. São exemplos desta actividade: o turismo cultural; os ciclos artísticos; os museus; os projectos educativos; os livros e revistas; etc.
 --- | ---
-Monumento Nacional | Lugares, ruínas, construções, ou objectos de carácter histórico ou artístico; cemitérios; peças ou objectos antropo-arqueológicos, paleontológicos, ou de formação natural, que existam debaixo ou sobre a superfície do território nacional ou na plataforma marítima das águas jurisdicionais, e cuja conservação interessa à História, à arte ou à ciência; os santuários e lugares de culto; estátuas; pirâ- mides; fontes; placas; inscrições. De um modo geral, os monumentos nacionais são edificações e objectos que permanecem em sítios públicos, e que possuem, geralmente, carácter comemorativo.
+Monumento Nacional | Lugares, ruínas, construções, ou objectos de carácter histórico ou artístico; cemitérios; peças ou objectos antropo-arqueológicos, paleontológicos, ou de formação natural, que existam debaixo ou sobre a superfície do território nacional ou na plataforma marítima das águas jurisdicionais, e cuja conservação interessa à História, à arte ou à ciência; os santuários e lugares de culto; estátuas; pirâmides; fontes; placas; inscrições. De um modo geral, os monumentos nacionais são edificações e objectos que permanecem em sítios públicos, e que possuem, geralmente, carácter comemorativo.
 Património | Conjunto de bens tangíveis e intangíveis, que constituem a herança de um grupo humano e que reforçam emocionalmente o seu sentido de comunidade com uma identidade própria, sendo percebidos por outros como característicos.
 Património intangível | Conjunto de elementos sem substância física (que caracterizam uma comunidade ou um povo (modos de falar, canções, costumes, formas de conduta, danças, ritos).
-Património natural | Constituído por elementos da natureza, intervencionados, de algum modo, pela acção do ser humano (parques, jardins botânicos, caver- nas de habitação).
+Património natural | Constituído por elementos da natureza, intervencionados, de algum modo, pela acção do ser humano (parques, jardins botânicos, cavernas de habitação).
 Património tangível | Formado por objectos com substância física, e que podem ser conservados ou restaurados por meio de algum tipo de intervenção. O património intangível subdivide-se em móvel e imóvel.
 Restauro | Conjunto de técnicas orientadas para intervir numa peça, não só para deter o seu processo de degradação, mas também para recuperar as suas condições anteriores. A maioria das técnicas de restauro (incluindo os instrumentos de recolha dos fragmentos de objectos partidos) são perigosas, e podem acelerar mais a degradação da peça.
 Tradição | Forma de conduta própria de um grupo humano, que tem origem antiga e se transmite de geração em geração.
-Acervo cultural | Conjunto de conhecimentos, crenças, práticas e objectos, que defi- nem um determinado grupo humano e o diferenciam de outro.
+Acervo cultural | Conjunto de conhecimentos, crenças, práticas e objectos, que definem um determinado grupo humano e o diferenciam de outro.
 
 136
 
@@ -3745,7 +3848,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ASSUNTOS TRANSVERSAIS
 
 A experiência tornou claro que há uma grande necessidade de reforço da capacidade institucional a todos os níveis: central, provincial, distrital e local. Problemas com a planificação  (particularmente  a  nível  provincial  e  a  outros  níveis  mais  baixos), questões relacionadas com a monitoria e apoio, uso ineficiente da assistência técnica, atrasos  nos  desembolsos,  fraca  coordenação,  lacunas  na  administração  financeira  e prestação  de  contas,  são  todos  factores  que  afectaram  o  progresso  do  sector.  A formação  nem  sempre  toma  em  consideração  as  diferenças  de  capacidades  e  de conhecimentos e o impacto a curto e médio prazo a maioria das vezes não é avaliado tornando difícil  tirarem-se  conclusões  concretas  sobre  a  sua  eficácia  no  reforço  da capacidade institucional.
 
-A  falta  de  capacidade  e  de  aptidões  técnicas  nos  níveis  mais  baixos,  impede  a descentralização  da  planificação,  da  gestão  e  administração  financeira  e  impede  a criatividade e inovação. Os directores das escolas, instituições culturais e outros os gestores  de  educação  e  cultura  a  nível  distrital  têm  falta  de  conhecimentos  sobre gestão, supervisão e administração e no tratamento das ameaças ao sector tais como o HIV/SIDA. Onde os esforços de formação foram bem sucedidos, o seu impacto é muitas  vezes  cortado  devido  à  falta  de  incentivos  na  estrutura  dos  salários  e  nos mecanismos de progressão na carreira e pelo facto de simplesmente não haver fundos disponíveis a nível local para gerir. A falta de capacidade a níveis mais baixos coloca uma grande sobrecarga nas estruturas de nível central do MEC, obstrui processos de tomada  de  decisões,  contribui  para  atrasos  substanciais  na  comunicação  vertical  e horizontal.
+A falta de capacidade e de aptidões técnicas nos níveis mais baixos, impede a descentralização da planificação, da gestão e administração financeira e impede a criatividade e inovação. Os directores das escolas, instituições culturais e outros os gestores de educação e cultura a nível distrital têm falta de conhecimentos sobre gestão, supervisão e administração e no tratamento das ameaças ao sector tais como o HIV/SIDA. Onde os esforços de formação foram bem sucedidos, o seu impacto é muitas vezes cortado devido à falta de incentivos na estrutura dos salários e nos mecanismos de progressão na carreira e pelo facto de simplesmente não haver fundos disponíveis a nível local para gerir. A falta de capacidade a níveis mais baixos coloca uma grande sobrecarga nas estruturas de nível central do MEC, obstrui processos de
 
 137
 
@@ -3755,7 +3858,9 @@ A  falta  de  capacidade  e  de  aptidões  técnicas  nos  níveis  mais  baixo
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ASSUNTOS TRANSVERSAIS
 
-Um desafio adicional é  o  facto  de  muitos  parceiros  de  cooperação,  ONG  e  outras agências continuarem a usar modalidades de projecto como um meio de ultrapassar estes  problemas  de  capacidade.  Embora  seja  reconhecido  que  a  modalidade  de projecto  possa  dar  um  contributo  valioso,  em  determinadas  circunstâncias  e  para objectivos  específicos  -  deslocando  a  responsabilidade  pela  gestão  diária,  apoio  e administração  para  unidades  externas  (mesmo  que  estejam  fisicamente  localizadas dentro  das  instituições  governamentais,  tais  como  direcções  provinciais  e  departamentos distritais) - pouco fazem para reforçar os sistemas do Governo e o pessoal. O mesmo  problema  acontece  com  respeito  à  assistência  técnica  externa,  que  muitas vezes  assume  responsabilidades  do  Governo  em  vez  de  as  reforçar.  A  assistência técnica  muitas  vezes  é  colocada  sem  uma  compreensão  clara  das  suas  implicações para o desenvolvimento da capacidade. Onde o papel é de 'preencher o buraco', isso deve  ser claramente  reconhecido, mas  não  deve  impedir  que  o  buraco  seja preenchido mais tarde por capacidade moçambicana.
+tomada de decisões, contribui para atrasos substanciais na comunicação vertical e horizontal.
+
+Um desafio adicional é o facto de muitos parceiros de cooperação, ONG e outras agências continuarem a usar modalidades de projecto como um meio de ultrapassar estes problemas de capacidade. Embora seja reconhecido que a modalidade de projecto possa dar um contributo valioso, em determinadas circunstâncias e para objectivos específicos - deslocando a responsabilidade pela gestão diária, apoio e administração para unidades externas (mesmo que estejam fisicamente localizadas dentro das instituições governamentais, tais como direcções provinciais e departamentos distritais) - pouco fazem para reforçar os sistemas do Governo e o pessoal. O mesmo problema acontece com respeito à assistência técnica externa, que muitas vezes assume responsabilidades do Governo em vez de as reforçar. A assistência técnica muitas vezes é colocada sem uma compreensão clara das suas implicações para o desenvolvimento da capacidade. Onde o papel é de 'preencher o buraco', isso deve ser claramente reconhecido, mas não deve impedir que o buraco seja preenchido mais tarde por capacidade moçambicana.
 
 ### 1.2 Realizações durante o período 1999 -2005
 
@@ -3817,7 +3922,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ASSUNTOS TRANSVERSAIS
 
 Objectivos | Resultados | Indicadores/Metas de Desempenho (2010/11) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Melhorar a capacidade de gestão de Recursos Humanos | Sistema informatizado de gestão de Recursos Humanos operacional | Descentralização O MEC procede de acordo com a estratégia nacional
+Melhorar a capacidade de gestão de Recursos Humanos | Sistema informatizado de gestão de Recursos Humanos operacional |  | Descentralização O MEC procede de acordo com a estratégia nacional
 Pessoal treinado no uso do sistema informatizado de Gestão de RH | Maior responsabilidade. Desembolsos mais rápidos e eficientes
 Propostas de revisão do sistema de carreiras específicas de Educação e Cultura efectuada | Planificação descentralizada
 Mecanismos criados para atrair e reter melhor quadros | Programa de reestruturação / modernização implementado e avaliado
@@ -3838,8 +3943,8 @@ Objectivos | Resultados | Indicadores/Metas de Desempenho (2010/11) | Pressupost
 Implementar o programa de reestruturação e modernização do MEC | Análise funcional do MEC actualizado | Programa de reestruturação implementado e avaliado | Descentralização Do MEC de acordo com a estratégia nacional
 Reforçada a especificação das funções e responsabilidades dos níveis provinciais
 Reforçada articulação e coordenação de esforços tanto ao nível do distrito, província como central no sentido de maximizar os recursos aumentando desta forma a capacidade de monitoria e controlo
-Capacitar os gestores do sector a todos os níveis | Estabelecida estratégia nacional de formação e capacitação de gestores de todo sector, incluindo a coordenação da assistência técnica externa Capacitados técnicos e gestores de educação e cultura dos níveis provincial, distrital, das instituições culturais e | Estratégia aprovada | Políticas e instrumentos desenvolvidos, para reforçar a capacidade de gestão a nível da escola, instituições culturais, distrito
-das escolas, incluindo os conselhos de escola, nas áreas de RH, planificação, gestão financeira e liderança de acordo com os planos provinciais | e província
+Capacitar os gestores do sector a todos os níveis | Estabelecida estratégia nacional de formação e capacitação de gestores de todo sector, incluindo a coordenação da assistência técnica externa | Estratégia aprovada | Políticas e instrumentos desenvolvidos, para reforçar a capacidade de gestão a nível da escola, instituições culturais, distrito e província
+Capacitados técnicos e gestores de educação e cultura dos níveis provincial, distrital, das instituições culturais e das escolas, incluindo os conselhos de escola, nas áreas de RH, planificação, gestão financeira e liderança de acordo com os planos provinciais
 
 141
 
@@ -3863,9 +3968,9 @@ Durante  o  PEE  I  uma  série  de  actividades  importantes  com  vista  a  ge
 
 - Elaboração  e  disseminação  de  uma  estratégia  da  educação  para  tratar  o HIV/SIDA, que defina o papel do MEC à volta de quatro áreas fundamentais que são:
 
-- o o Prevenção e cuidados para todos os seus trabalhadores.
+- Prevenção e cuidados para todos os seus trabalhadores.
 
-- o o Desenvolvimento de currículos, que tratem das doenças de transmissão sexual e do HIV/SIDA, e a promoção de abordagens extracurriculares e não formais com base nas habilidades para a vida e educação por pares.
+- Desenvolvimento de currículos, que tratem das doenças de transmissão sexual e do HIV/SIDA, e a promoção de abordagens extracurriculares e não formais com base nas habilidades para a vida e educação por pares.
 
 142
 
@@ -3875,9 +3980,9 @@ Durante  o  PEE  I  uma  série  de  actividades  importantes  com  vista  a  ge
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ASSUNTOS TRANSVERSAIS
 
-- o o  Cumprimento  de  políticas  que  previnam  e  reduzam  o  impacto  do HIV/SIDA, através de melhor capacidade institucional, de gestão e de planificação.
+- Cumprimento de políticas que previnam e reduzam o impacto do HIV/SIDA, através de melhor capacidade institucional, de gestão e de planificação.
 
-- o o Implementação de uma  resposta multisectorial coordenada e efectiva
+- Implementação de uma resposta multisectorial coordenada e efectiva
 
 - Elaboração de uma estratégia de comunicação sobre o HIV/SIDA.
 
@@ -3889,7 +3994,7 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ASSUNTOS TRANSVERSAIS
 
 - 16,2% da população está infectada, com grandes assimetrias regionais (centro do país é o mais afectado).
 
-- HIV/SIDA está-se a espalhar mais rapidamente entre o grupo etário dos 1524 anos de idade.
+- HIV/SIDA está-se a espalhar mais rapidamente entre o grupo etário dos 15-24 anos de idade.
 
 - A prevalência entre as raparigas é quase duas vezes mais que entre os rapazes (16% contra 9% no grupo etário dos 15-19).
 
@@ -3955,14 +4060,14 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ASSUNTOS TRANSVERSAIS
 
 Objectivos | Resultados | Indicadores/Metas de desempenho (2009) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-HIV nos funcionários e mitigar o impacto social da epidemia. | Parceria com provedores de serviços de saúde | Utilização dos serviços por trabalhadores do sector.
-Programa de trabalho implementado nas instituições do MEC a todos níveis. | Grau de cobertura do programa no local de trabalho.
+HIV nos funcionários e mitigar o impacto social da epidemia. | Parceria com provedores de serviços de saúde | Utilização dos serviços por trabalhadores do sector. | 
+ | Programa de trabalho implementado nas instituições do MEC a todos níveis. | Grau de cobertura do programa no local de trabalho. | 
 Reduzir a incidência de HIV na comunidade escolar e mitigar o impacto social da epidemia. | Programas nacionais de prevenção e mitigação consolidados e expandidos para novas zonas do país | Grau de expansão dos programas nacionais na rede escolar | Políticas de currículo sejam efectivamente apoiadas e implementadas
-Promovidas habilidades de vida positiva através de currículos inclusivos. | Todos os currículos contêm programas sobre Vida Positiva.
-Eliminados casos de abuso sexual, discriminação e estigmatização. | Declínio nos casos reportados.
-Crianças órfãs e vulneráveis matriculadas e retidas na escola e com aproveitamento melhorado | Fornecimento de material escolar, registo e apoio psico-social às crianças órfãs e vulneráveis
-Aumenta progressivamente do acesso e da retenção das COVs
-Garantir intervenções informadas por evidência científica e abordagens sócio-culturais | Resposta do sector de qualidade, inovativa e social e culturalmente eficaz. | Pesquisas realizadas e publicadas
+ | Promovidas habilidades de vida positiva através de currículos inclusivos. | Todos os currículos contêm programas sobre Vida Positiva. | 
+ | Eliminados casos de abuso sexual, discriminação e estigmatização. | Declínio nos casos reportados. | 
+ | Crianças órfãs e vulneráveis matriculadas e retidas na escola e com aproveitamento melhorado | Fornecimento de material escolar, registo e apoio psico-social às crianças órfãs e vulneráveis | 
+ |  | Aumenta progressivamente do acesso e da retenção das COVs | 
+Garantir intervenções informadas por evidência científica e abordagens sócio-culturais | Resposta do sector de qualidade, inovativa e social e culturalmente eficaz. | Pesquisas realizadas e publicadas | 
 
 145
 
@@ -3974,10 +4079,10 @@ PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA  - ASSUNTOS TRANSVERSAIS
 
 Objectivos | Resultados | Indicadores/Metas de desempenho (2009) | Pressupostos de políticas e reformas
 --- | --- | --- | ---
-Reforço da gestão da resposta ao HIV/SIDA no sector. | A capacidade de planificação, implementação e monitoria de actividades de combate ao HIV/SIDA melhorado | Gestores a todos os níveis capacitados em gestão incluindo aspectos de HIV/SIDA
-Integração de variáveis e dados sensíveis ao HIV/SIDA e resultados de pesquisa sobre HIV/SIDA na planificação e monitoria do sector | SIGE capaz de monitorar impacto de HIV/SIDA e impacto programático. Modelo de previsão de impacto implementado.
-O MEC como parceiro na resposta nacional ao HIV/SIDA | Reforçada a acção dos artistas e comunidades na disseminação de mensagens. | Parcerias estabelecidas e capacitações realizadas com fazedores culturais, líderes tradicionais, comunitários e religiosos.
-Colaboração com parceiros governamentais, da sociedade civil e internacionais reforçada. | MEC contribui para políticas e estratégias nacionais.
+Reforço da gestão da resposta ao HIV/SIDA no sector. | A capacidade de planificação, implementação e monitoria de actividades de combate ao HIV/SIDA melhorado | Gestores a todos os níveis capacitados em gestão incluindo aspectos de HIV/SIDA | 
+ | Integração de variáveis e dados sensíveis ao HIV/SIDA e resultados de pesquisa sobre HIV/SIDA na planificação e monitoria do sector | SIGE capaz de monitorar impacto de HIV/SIDA e impacto programático. Modelo de previsão de impacto implementado. | 
+O MEC como parceiro na resposta nacional ao HIV/SIDA | Reforçada a acção dos artistas e comunidades na disseminação de mensagens. | Parcerias estabelecidas e capacitações realizadas com fazedores culturais, líderes tradicionais, comunitários e religiosos. | 
+ | Colaboração com parceiros governamentais, da sociedade civil e internacionais reforçada. | MEC contribui para políticas e estratégias nacionais. | 
 
 146
 
@@ -3987,19 +4092,21 @@ Colaboração com parceiros governamentais, da sociedade civil e internacionais 
 
 PLANO ESTRATÉGICO DE EDUCAÇÃO E CULTURA
 
+### Estratégia e documentos de planificação
+
 #### Geral
 
-Agenda  2025  -  Visão  e  Estratégias  da  Nação,  Documento  preliminar,  (2003) Maputo, Moçambique.
+Agenda 2025 – Visão e Estratégias da Nação, Documento preliminar, (2003) Maputo, Moçambique.
 
-Plano  de  Acção  para  a  Redução  da  Pobreza  Absoluta  (2001  -  2005) .  Maputo, Moçambique (2001).
+Plano de Acção para a Redução da Pobreza Absoluta (2001 - 2005). Maputo, Moçambique (2001).
 
 Plano de Acção de Combate à Pobreza Absoluta 2006-2009, Maputo, Moçambique (2006).
 
 Programa do Governo 2005-2009, (2005), Maputo (2005).
 
-Ministério  da  Educação.  (2004). Plano  Estratégico  de  Educação  2004  -  2008 Documento de Trabalho . Maputo, Moçambique: Ministério da Educação.
+Ministério da Educação. (2004). Plano Estratégico de Educação 2004 - 2008 Documento de Trabalho. Maputo, Moçambique: Ministério da Educação.
 
-CESO.  (2004). Estratégia  de  Financiamento  do  Plano  Estratégico  da  Educação para 2005-2009 . Maputo, Moçambique: Ministério da Educação.
+CESO. (2004). Estratégia de Financiamento do Plano Estratégico da Educação para 2005-2009. Maputo, Moçambique: Ministério da Educação.
 
 #### 1. Educação Básica: Educação na Primeira Infância
 
@@ -4007,21 +4114,19 @@ Estratégia da primeira infância a incluir no Plano Nacional de Educação para
 
 #### 2. Educação Básica: Ensino Primário
 
-Gabinete do Ministro. (2004). Diploma Ministerial 2004: Cria Mecanismos Atinentes  à  Inscrição  de  Alunos  Internos .  Maputo,  Moçambique:  Ministério  de Educação.
+Gabinete do Ministro. (2004). Diploma Ministerial 2004: Cria Mecanismos Atinentes à Inscrição de Alunos Internos. Maputo, Moçambique: Ministério de Educação.
 
-Ministério da Educação. (2003). Education for All Fast Track Initiative (EFA FTI) . Maputo, Moçambique: Ministério da Educação.
+Ministério da Educação. (2003). Education for All Fast Track Initiative (EFA FTI). Maputo, Moçambique: Ministério da Educação.
 
 Ministério da Educação. (2004). Estratégia da Educação Inclusiva. Maputo, Moçambique: Departamento de Educação Especial.
 
-Ministério  da  Educação.  (2004). Estratégia  da  Educação  Inclusiva  -  Plano  de Implementação . Maputo, Mozambique: Ministério da Educação.
+Ministério da Educação. (2004). Estratégia da Educação Inclusiva - Plano de Implementação. Maputo, Mozambique: Ministério da Educação.
 
-Dupont, C., Rosário, M., & Franque, A. (2003). Draft Action Plan for Accelerated Construction of School Infrastructures . Maputo, Mozambique: Ministry of Education/DANIDA.
+Dupont, C., Rosário, M., & Franque, A. (2003). Draft Action Plan for Accelerated Construction of School Infrastructures. Maputo, Mozambique: Ministry of Education/DANIDA.
 
-Instituto Nacional de Educação. (2003). XXVIII Conselho Coordenador: 'Por uma Visão  Futura  e  Segura  da  Educação'  -  Introdução  do  Novo  Currículo  do  Ensino Básico . Maputo, Mozambique: Ministério da Educação.
+Instituto Nacional de Educação. (2003). XXVIII Conselho Coordenador: “Por uma Visão Futura e Segura da Educação” - Introdução do Novo Currículo do Ensino Básico. Maputo, Mozambique: Ministério da Educação.
 
-MOZ PEE Supervision Mission. (2003). Orphaned and Other Vulnerable Children's (OVC) Access to Primary Education - Technical Note . Maputo, Mozambique.
-
-### Estratégia e documentos de planificação
+MOZ PEE Supervision Mission. (2003). Orphaned and Other Vulnerable Children's (OVC) Access to Primary Education - Technical Note. Maputo, Mozambique.
 
 147
 
@@ -4037,13 +4142,13 @@ Ministério  da  Educação. Estratégia  do  Subsector  de  Alfabetização  e 
 
 #### 4. Ensino Secundário
 
-Ministério  da  Educação.  (2001). Estratégia  para  o  Ensino  Secundário  Geral  e Formação  de  Professores  para o  Ensino  Secundário .  Maputo,  Moçambique: Ministério da Educação..(TAMBÉM DISPONÍVEL EM INGLÊS como 'Secondary Education and Secondary Teacher Education Strategy' .
+Ministério da Educação. (2001). Estratégia para o Ensino Secundário Geral e Formação de Professores para o Ensino Secundário. Maputo, Moçambique: Ministério da Educação..(TAMBÉM DISPONÍVEL EM INGLÊS como “Secondary Education and Secondary Teacher Education Strategy”.
 
 #### 5. Ensino Técnico e Profissional
 
 Ministério da Educação. (2003). Estudo sobre a Eficiência Externa e Estrutura de Custos  do  Ensino  Técnico  e  Profissional  em  Moçambique .  Maputo,  Moçambique: Ministério da Educação.
 
-Ensino Técnico e Profissional (ETP) Missão de Identificação 1-13 de Agosto, 2004. (2004) . Maputo, Moçambique.
+Ensino Técnico e Profissional (ETP) - Missão de Identificação 1-13 de Agosto, 2004. (2004). Maputo, Moçambique.
 
 #### 6. Formação de Professores
 
