@@ -1,14 +1,15 @@
 [[START OF PAGE 1]]
 
-Federal  Constitution
-
 # FEDERAL CONSTITUTION
 
-## Reprint
+## REPRINT
 
-As  at  1  November  2010
+As at 1 November 2010
 
-Printed With The Consent Of The Yang Di-Pertuan Agong Pursuant To Article 160a Of The Federal Constitution
+PRINTED WITH THE CONSENT
+OF THE YANG DI-PERTUAN AGONG
+PURSUANT TO ARTICLE 160A OF THE
+FEDERAL CONSTITUTION
 
 [[END OF PAGE 1]]
 
@@ -16,30 +17,38 @@ Printed With The Consent Of The Yang Di-Pertuan Agong Pursuant To Article 160a O
 
 # FEDERAL CONSTITUTION
 
-First introduced as the Constitution of the Federation of Malaya on Merdeka Day | … | … | 31 August 1957
---- | --- | --- | ---
-Subsequently introduced as the Constitution of Malaysia on Malaysia Day … | … | … | 16 September 1963
-Latest amendment made by Act A1320 which came into operation on … | … | … | 27 December 2007
+First introduced as the Constitution
+of the Federation of Malaya on
+Merdeka Day … … 31 August 1957
 
-## Previous  Reprints
+Subsequently introduced as the
+Constitution of Malaysia on
+Malaysia Day … … … 16 September 1963
 
-First Reprint | ... | ... | ... | ... | 1958
---- | --- | --- | --- | --- | ---
-Second Reprint | ... | ... | ... | ... | 1962
-Third Reprint | ... | ... | ... | ... | 1964
-Fourth Reprint | … | … | … | … | 1968
-Fifth Reprint | … | … | … | … | 1970
-Sixth Reprint | … | … | … | … | 1977
-Seventh Reprint | … | … | … | … | 1978
-Eighth Reprint | … | … | … | … | 1982
-Ninth Reprint | … | … | … | … | 1988
-Tenth Reprint | … | … | … | … | 1992
-Eleventh Reprint | … | … | … | … | 1994
-Twelfth Reprint | … | … | … | … | 1997
-Thirteenth Reprint | … | … | … | … | 2002
-Fourteenth Reprint | … | … | … | … | 2006
+Latest amendment made by
+Act A1320 which came
+into operation on … … … 27 December 2007
 
-Published by The Commissioner of Law revision, Malaysia 2010
+## Previous Reprints
+
+First Reprint ... ... ... ... 1958
+Second Reprint ... ... ... ... 1962
+Third Reprint ... ... ... ... 1964
+Fourth Reprint … … … … 1968
+Fifth Reprint … … … … 1970
+Sixth Reprint … … … … 1977
+Seventh Reprint … … … … 1978
+Eighth Reprint … … … … 1982
+Ninth Reprint … … … … 1988
+Tenth Reprint … … … … 1992
+Eleventh Reprint … … … … 1994
+Twelfth Reprint … … … … 1997
+Thirteenth Reprint … … … … 2002
+Fourteenth Reprint … … … … 2006
+
+Published by
+The Commissioner of Law Revision, Malaysia
+2010
 
 [[END OF PAGE 2]]
 
@@ -47,69 +56,29 @@ Published by The Commissioner of Law revision, Malaysia 2010
 
 # CONTENTS
 
-PAGE ARRANGEMENT OF ARTICLES 5-17 CONSTITUTION 19-214 LIST OF AMENDMENTS 215-220 LIST OF ARTICLES AMENDED 221-236
+PAGE
+ARRANGEMENT OF ARTICLES 5–17
+CONSTITUTION 19–214
+LIST OF AMENDMENTS 215–220
+LIST OF ARTICLES AMENDED 221–236
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+FEDERAL CONSTITUTION
+
 # Note:
 
-T he  Notes  in  small  print  on  unnumbered  pages  are  not  part  of  the authoritative  text.  They  are  intended  to  assist  the  reader  by  setting  out the chronology of the major amendments to the Federal Constitution and for  editorial  reasons,  are  set  out  in  the  present  format.
+The Notes in small print on unnumbered pages are not part of the authoritative text. They are intended to assist the reader by setting out the chronology of the major amendments to the Federal Constitution and for editorial reasons, are set out in the present format.
 
-Federal  Constitution
-
-FEDERAL CONSTITUTION
+Federal Constitution
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-5
-
-Article
-
-- Name, States and territories  of  the  Federation
-
-- Admission of new territories  into  the  Federation
-
-- Religion  of  the  Federation
-
-- Supreme law of the Federation
-
-### Part II
-
-#### FUNDAMENTAL LIBERTIES
-
-- Liberty  of  the  person
-
-- Slavery  and  forced  labour  prohibited
-
-- Protection  against  retrospective  criminal  laws  and  repeated  trials
-
-- Equality
-
-- Prohibition  of  banishment  and  freedom  of  movement
-
-- Freedom of speech, assembly and association
-
-- Freedom of religion
-
-- Rights  in  respect  of  education
-
-- Rights  to  property
-
-### Part III
-
-#### CITIZENSHIP
-
-#### Chapter 1-Acquisition of Citizenship
-
-- Citizenship  by  operation  of  law
-
-- Citizenship  by  registration  (wives  and  children  of  citizens)
-
-Federal  Constitution
+Federal Constitution
 
 # FEDERAL CONSTITUTION
 
@@ -119,119 +88,303 @@ Federal  Constitution
 
 #### THE STATES, RELIGION AND LAW OF THE FEDERATION
 
+Article
+
+- 1. Name, States and territories of the Federation
+- 2. Admission of new territories into the Federation
+- 3. Religion of the Federation
+- 4. Supreme law of the Federation
+
+### Part II
+
+#### FUNDAMENTAL LIBERTIES
+
+- 5. Liberty of the person
+- 6. Slavery and forced labour prohibited
+- 7. Protection against retrospective criminal laws and repeated trials
+- 8. Equality
+- 9. Prohibition of banishment and freedom of movement
+- 10. Freedom of speech, assembly and association
+- 11. Freedom of religion
+- 12. Rights in respect of education
+- 13. Rights to property
+
+### Part III
+
+#### CITIZENSHIP
+
+#### Chapter 1—Acquisition of Citizenship
+
+- 14. Citizenship by operation of law
+- 15. Citizenship by registration (wives and children of citizens)
+
+5
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-6
-
-Federal  Constitution
+Federal Constitution
 
 Article
 
-- Application  of  Second  Schedule
+- 15a. Special power to register children
+- 16. Citizenship by registration (persons born in the Federation before Merdeka Day)
+- 16a. Citizenship by registration (persons resident in States of Sabah and Sarawak on Malaysia Day)
+- 17. (Citizenship by registration (persons resident in the Federation on Merdeka Day)—Repealed)
+- 18. General provisions as to registration
+- 19. Citizenship by naturalization
+- 19a. (Transfer of citizenship to or from Singapore—Repealed)
+- 20. (Naturalization of members of Federation forces—Repealed)
+- 21. (General provisions as to naturalization—Repealed)
+- 22. Citizenship by incorporation of territory
+
+#### Chapter 2—Termination of Citizenship
+
+- 23. Renunciation of citizenship
+- 24. Deprivation of citizenship on acquisition or exercise of foreign citizenship, etc.
+- 25. Deprivation of citizenship by registration under Article 16a or 17 or by naturalization
+- 26. Other provisions for deprivation of citizenship by registration or naturalization
+- 26a. Deprivation of citizenship of child of person losing citizenship
+- 26b. General provisions as to loss of citizenship
+- 27. Procedure for deprivation
+- 28. Application of Chapter 2 to certain citizens by operation of law
+- 28a. Deprivation of citizenship of persons becoming citizens on Malaysia Day
+
+#### Chapter 3—Supplemental
+
+- 29. Commonwealth citizenship
+- 30. Certificates of citizenship
+- 30a. (Franchise, etc., of Singapore citizens and other citizens—Repealed)
+- 30b. (Liaison as to citizenship between governments of Federation and of Singapore—Repealed)
+- 31. Application of Second Schedule
+
+6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-Federal  Constitution
-
-7
+Federal Constitution
 
 ### Part IV
 
 #### THE FEDERATION
 
-#### Chapter 1-The Supreme Head
+#### Chapter 1—The Supreme Head
+
+Article
+
+- 32. Supreme Head of the Federation, and his Consort
+- 33. Deputy Supreme Head of the Federation
+- 33a. Yang di-Pertuan Agong shall cease to exercise the functions of the Yang di-Pertuan Agong if charged with an offence
+- 34. Disabilities of Yang di-Pertuan Agong, etc.
+- 35. Civil List of the Yang di-Pertuan Agong and his Consort and remuneration of the Timbalan Yang di-Pertuan Agong
+- 36. Public Seal
+- 37. Oath of office of Yang di-Pertuan Agong
+
+#### Chapter 2—The Conference of Rulers
+
+- 38. Conference of Rulers
+
+#### Chapter 3—The Executive
+
+- 39. Executive authority of Federation
+- 40. Yang di-Pertuan Agong to act on advice
+- 41. Supreme command of armed forces
+- 42. Power of pardon, etc.
+- 43. Cabinet
+- 43a. Deputy Ministers
+- 43b. Parliamentary Secretaries
+- 43c. Political Secretaries
+
+#### Chapter 4—Federal Legislature
+
+- 44. Constitution of Parliament
+- 45. Composition of Senate
+- 46. Composition of House of Representatives
+- 47. Qualification for membership of Parliament
+- 48. Disqualification for membership of Parliament
+
+7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-8
-
-Federal  Constitution
+Federal Constitution
 
 Article
+
+- 49. Provisions against double membership
+- 50. Effect of disqualification, and prohibition of nomination or appointment without consent
+- 51. Resignation of members
+- 52. Absence of a member
+- 53. Decisions as to disqualification
+- 54. Vacancies in Senate and casual vacancies
+- 55. Summoning, prorogation and dissolution of Parliament
+- 56. President and Deputy President of Senate
+- 57. Speaker and Deputy Speakers of the House of Representatives
+- 58. Remuneration of President, Deputy President, Speaker and Deputy Speakers
+- 59. Oaths by members
+- 60. Address by the Yang di-Pertuan Agong
+- 61. Special provisions as to Cabinet and Attorney General
+- 62. Parliamentary procedure
+- 63. Privileges of Parliament
+- 64. Remuneration of members
+- 65. Clerks of Senate and House of Representatives
+
+#### Chapter 5—Legislative procedure
+
+- 66. Exercise of legislative power
+- 67. Restriction on introduction of Bills and moving of amendments involving taxation, expenditure, etc.
+- 68. Assent to Bills passed by House of Representatives only
+
+#### Chapter 6—Capacity as respects property, contracts and suits
+
+- 69. Capacity of Federation as respects property, contracts and suits
+
+### Part V
+
+#### THE STATES
+
+- 70. Precedence of Rulers and Yang di-Pertua-Yang di-Pertua Negeri
+- 71. Federal guarantee of State Constitutions
+- 72. Privileges of Legislative Assembly
+
+8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-Federal  Constitution
-
-9
-
-Article
-
-- Extent  of  federal  and  State  laws
-
-- Subject  matter  of  federal  and  State  laws
-
-- Inconsistencies  between  federal  and  State  laws
-
-- Power of Parliament to  legislate  for  States  in  certain  cases
-
-- 76 a . Power of Parliament to  extend  legislative  powers  of  States
-
-- Residual  power  of  legislation
-
-- Legislation  restricting  use  of  rivers
-
-- Exercise  of  concurrent  legislative  powers
-
-#### Chapter 2-Distribution of executive  powers
-
-- Distribution  of  executive  powers
-
-- Obligations  of  States  towards  Federation
-
-#### Chapter 3-Distribution of financial  burdens
-
-- Financing  of  expenditure  relating  to  matters  on  Concurrent  List
-
-#### Chapter 4-Land
-
-- Acquisition  of  land  for  federal  purposes
-
-(Reversion  to  States  of  land  held  for  federal  purposes-Repealed)
-
-- Grant  to  Federation  of  land  reserved  for  federal  purposes
-
-- Disposition  of  land  vested  in  the  Federation
-
-- Determination  of  disputes  as  to  land  values
-
-- Application  of Articles  83  to  87  to  States  not  having  a  Ruler
-
-- Malay reservations
-
-- Special provisions relating to customary land in Negeri Sembilan and Malacca,  and  Malay  holdings  in Terengganu
-
-- National  Land  Council
+Federal Constitution
 
 ### Part VI
 
 #### RELATIONS BETWEEN THE FEDERATION AND THE STATES
 
-#### Chapter 1-Distribution of legislative  powers
+#### Chapter 1—Distribution of legislative powers
+
+Article
+
+- 73. Extent of federal and State laws
+- 74. Subject matter of federal and State laws
+- 75. Inconsistencies between federal and State laws
+- 76. Power of Parliament to legislate for States in certain cases
+- 76a. Power of Parliament to extend legislative powers of States
+- 77. Residual power of legislation
+- 78. Legislation restricting use of rivers
+- 79. Exercise of concurrent legislative powers
+
+#### Chapter 2—Distribution of executive powers
+
+- 80. Distribution of executive powers
+- 81. Obligations of States towards Federation
+
+#### Chapter 3—Distribution of financial burdens
+
+- 82. Financing of expenditure relating to matters on Concurrent List
+
+#### Chapter 4—Land
+
+- 83. Acquisition of land for federal purposes
+- 84. (Reversion to States of land held for federal purposes—Repealed)
+- 85. Grant to Federation of land reserved for federal purposes
+- 86. Disposition of land vested in the Federation
+- 87. Determination of disputes as to land values
+- 88. Application of Articles 83 to 87 to States not having a Ruler
+- 89. Malay reservations
+- 90. Special provisions relating to customary land in Negeri Sembilan and Malacca, and Malay holdings in Terengganu
+- 91. National Land Council
+
+9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
+Federal Constitution
+
+#### Chapter 5—National development
+
+Article
+
+- 92. National development plan
+
+#### Chapter 6—Federal surveys, advice to States and inspection of State activities
+
+- 93. Inquiries, surveys and statistics
+- 94. Federal powers in respect of State subjects
+- 95. Inspection of State activities
+
+#### Chapter 7—National Council for Local Government
+
+- 95a. National Council for Local Government
+
+#### Chapter 8—Application to States of Sabah and Sarawak
+
+- 95b. Modifications for States of Sabah and Sarawak of distribution of legislative powers
+- 95c. Power by order to extend legislative or executive powers of States
+- 95d. Exclusion for States of Sabah and Sarawak of Parliament’s power to pass uniform laws about land or local government
+- 95e. Exclusion of States of Sabah and Sarawak from national plans for land utilization, local government, development, etc.
+
+### Part VII
+
+#### FINANCIAL PROVISIONS
+
+#### Chapter 1—General
+
+- 96. No taxation unless authorized by law
+- 97. Consolidated Funds
+- 98. Expenditure charged on Federal Consolidated Fund
+- 99. Annual financial statement
+- 100. Supply Bills
+- 101. Supplementary and excess expenditure
+- 102. Power to authorize expenditure on account or for unspecified purposes
+
 10
-
-Federal  Constitution
-
-#### Chapter 5-National development
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-Federal  Constitution
+Federal Constitution
+
+Article
+
+- 103. Contingencies Fund
+- 104. Withdrawals from Consolidated Fund
+- 105. Auditor General
+- 106. Powers and duties of Auditor General
+- 107. Reports of Auditor General
+- 108. National Finance Council
+- 109. Grants to States
+- 110. Assignment of taxes and fees to the States
+- 111. Restriction on borrowing
+- 112. Restriction on alterations in establishments of States
+
+#### Chapter 2—Application to States of Sabah and Sarawak
+
+- 112a. State audits in States of Sabah and Sarawak
+- 112b. Borrowing powers of States of Sabah and Sarawak
+- 112c. Special grants and assignments of revenue to States of Sabah and Sarawak
+- 112d. Reviews of special grants to States of Sabah and Sarawak
+- 112e. (Financial arrangements with Singapore—Repealed)
+
+### Part VIII
+
+#### ELECTIONS
+
+- 113. Conduct of elections
+- 114. Constitution of Election Commission
+- 115. Assistance to Election Commission
+- 116. Federal constituencies
+- 117. State constituencies
+- 118. Method of challenging election
+- 118a. Method of questioning election petition of no return
+- 119. Qualifications of electors
+- 120. Direct elections to the Senate
 
 11
 
@@ -239,283 +392,266 @@ Federal  Constitution
 
 [[START OF PAGE 12]]
 
-12
-
-Federal  Constitution
+Federal Constitution
 
 ### Part IX
 
 #### THE JUDICIARY
 
+Article
+
+- 121. Judicial power of the Federation
+- 122. Constitution of Federal Court
+- 122a. Constitution of Court of Appeal
+- 122aa. Constitution of the High Courts
+- 122ab. Appointment of judicial commissioner
+- 122b. Appointment of judges of Federal Court, Court of Appeal and High Courts
+- 122c. Transfer of judge of one High Court to another
+- 123. Qualifications of judges of Federal Court, Court of Appeal and High Courts
+- 124. Oath of office of judges
+- 125. Tenure of office and remuneration of judges of Federal Court
+- 125a. Exercise of powers by judges
+- 126. Power to punish for contempt
+- 127. Restriction on Parliamentary discussion of conduct of judge
+- 128. Jurisdiction of Federal Court
+- 129. (Special jurisdiction of Supreme Court as to the interpretation of constitution—Repealed)
+- 130. Advisory jurisdiction of Federal Court
+- 131. (Appeals from Federal Court—Repealed)
+- 131a. Provision for incapacity, etc., of Chief Justice, President or Chief Judge
+
+### Part X
+
+#### PUBLIC SERVICES
+
+- 132. Public services
+- 133. Joint services, etc.
+- 134. Secondment of officers
+- 135. Restriction on dismissal and reduction in rank
+- 136. Impartial treatment of federal employees
+- 137. Armed Forces Council
+- 138. Judicial and Legal Service Commission
+
+12
+
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-Federal  Constitution
-
-13
+Federal Constitution
 
 Article
 
-- Public  Services  Commission
-
-- Police  Force  Commission
-
-(Railway  Service  Commission-Repealed)
-
-- 141 a . Education  Service  Commission
-
-- General  provisions  relating  to  Commissions
-
-- Conditions  of  service  of  members  of  Commissions
-
-- Functions  of  Service  Commissions
-
-- Attorney  General
-
-- Reports  of  Commissions
-
-- 146 a. (Branch in Borneo States of Judicial and Legal Service CommissionRepealed)
-
-- 146 b . (Branches  in  each  State  of  Sabah  or  Sarawak  of  Public  Services Commission-Repealed)
-
-- 146 c . (Supplementary provisions as to branches of Public Services CommissionRepealed)
-
-- 146 d . Jurisdiction of Police Force Commission over seconded members of State service  in  States  of  Sabah  and  Sarawak
-
-- Protection  of  pension  rights
-
-- Interpretation  of  Part  X
+- 139. Public Services Commission
+- 140. Police Force Commission
+- 141. (Railway Service Commission—Repealed)
+- 141a. Education Service Commission
+- 142. General provisions relating to Commissions
+- 143. Conditions of service of members of Commissions
+- 144. Functions of Service Commissions
+- 145. Attorney General
+- 146. Reports of Commissions
+- 146a. (Branch in Borneo States of Judicial and Legal Service Commission—Repealed)
+- 146b. (Branches in each State of Sabah or Sarawak of Public Services Commission—Repealed)
+- 146c. (Supplementary provisions as to branches of Public Services Commission—Repealed)
+- 146d. Jurisdiction of Police Force Commission over seconded members of State service in States of Sabah and Sarawak
+- 147. Protection of pension rights
+- 148. Interpretation of Part X
 
 ### Part XI
 
 #### SPECIAL POWERS AGAINST SUBVERSION, ORGANIZED VIOLENCE, AND ACTS AND CRIMES PREJUDICIAL TO THE PUBLIC AND EMERGENCY POWERS
 
-- Legislation against subversion, action prejudicial to public order, etc .
-
-- Proclamation  of  emergency
-
-- Restrictions  on  preventive  detention
+- 149. Legislation against subversion, action prejudicial to public order, etc.
+- 150. Proclamation of emergency
+- 151. Restrictions on preventive detention
 
 ### Part XII
 
 #### GENERAL AND MISCELLANEOUS
 
-- National  language
+- 152. National language
+- 153. Reservation of quotas in respect of services, permits, etc., for Malays and natives of any of the States of Sabah and Sarawak
+- 154. Federal capital
 
-- Reservation of quotas in respect of services, permits, etc ., for Malays and  natives  of  any  of  the  States  of  Sabah  and  Sarawak
-
-- Federal  capital
+13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-14
-
-Federal  Constitution
+Federal Constitution
 
 Article
 
-- Commonwealth reciprocity
+- 155. Commonwealth reciprocity
+- 156. Contributions in aid of rates in respect of federal and State property
+- 157. Delegation of State functions to another State
+- 158. (Arrangements with Brunei—Repealed)
+- 159. Amendment of the Constitution
+- 159a. Operation of transitional provisions of Malaysia Act
+- 160. Interpretation
+- 160a. Reprint of the Constitution
+- 160b. Authoritative text
 
-- Contributions in aid of rates in  respect  of  federal  and  State  property
-
-- Delegation  of  State  functions  to  another  State
-
-(Arrangements with Brunei-Repealed)
-
-- Amendment of the Constitution
-
-- 159 a . Operation  of  transitional  provisions  of  Malaysia Act
-
-- Interpretation
-
-- 160 a. Reprint  of  the  Constitution
-
-- 160 b . Authoritative  text
-
-### Part  XIIa
+### Part XIIa
 
 #### ADDITIONAL PROTECTIONS FOR STATES OF SABAH AND SARAWAK
 
-- Use  of  English  and  of  native  languages  in  States  of  Sabah  and Sarawak
+- 161. Use of English and of native languages in States of Sabah and Sarawak
+- 161a. Special position of natives of States of Sabah and Sarawak
+- 161b. Restriction on extension to non-residents of right to practise before courts in States of Sabah and Sarawak
+- 161c. (Muslim education in Borneo States—Repealed)
+- 161d. (Freedom of religion—Repealed)
+- 161e. Safeguards for constitutional position of States of Sabah and Sarawak
+- 161f. (Use of unofficial languages in Singapore Assembly—Repealed)
+- 161g. (Special position of Malays in Singapore—Repealed)
+- 161h. (Safeguards for constitutional position of Singapore—Repealed)
 
-- 161 a . Special  position  of  natives  of  States  of  Sabah  and  Sarawak
-
-- 16 1b . Restriction on extension to non-residents of right to practise before courts in  States  of  Sabah  and  Sarawak
-
-- 161 c . (Muslim education in Borneo States-Repealed)
-
-- 161 d. (Freedom of religion-Repealed)
-
-- 161 e . Safeguards for constitutional position of States of Sabah and Sarawak
-
-- 16 1f . (Use  of  unofficial  languages  in  Singapore  Assembly-Repealed)
-
-- 161 g . (Special  position  of  Malays  in  Singapore-Repealed)
-
-- 16 1h. (Safeguards  for  constitutional  position  of  Singapore-Repealed)
-
-### P art XIII
+### Part XIII
 
 #### TEMPORARY AND TRANSITIONAL PROVISIONS
 
-- Existing  laws
+- 162. Existing laws
+- 163. (Temporary continuation of Emergency Regulations Ordinance 1948—Repealed)
+- 164. (Temporary functions of Legislative Council—Repealed)
+- 165. (Temporary financial provisions—Repealed)
+- 166. Succession to property
 
-(Temporary continuation of Emergency Regulations Ordinance 1948Repealed)
-
-(Temporary functions  of  Legislative  Council-Repealed)
-
-(Temporary financial  provisions-Repealed)
-
-- Succession  to  property
+14
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-Federal  Constitution
-
-15
+Federal Constitution
 
 Article
 
-- Rights,  liabilities  and  obligations
+- 167. Rights, liabilities and obligations
+- 168. (Legal proceedings—Repealed)
+- 169. International agreements, etc., made before Merdeka Day
+- 170. (Temporary provisions for persons qualified for registration as citizens under Federation of Malaya Agreement 1948, Clause 126—Repealed)
+- 171. (Constituencies for first elections—Repealed)
+- 172. (Existing courts—Repealed)
+- 173. (Pending appeals to Privy Council—Repealed)
+- 174. (Judicial appointments and Attorney General—Repealed)
+- 175. Director of Audit to be first Auditor General
+- 176. Transfer of officers
+- 177. Waiver or postponement of oath of office where appointment continues under this Part
+- 178. Remuneration after Merdeka Day
+- 179. Contributions in respect of joint services
+- 180. Preservation of pensions, etc.
 
-(Legal  proceedings-Repealed)
+### Part XIV
 
-- International  agreements, etc .,  made  before  Merdeka  Day
+#### SAVING FOR RULERS’ SOVEREIGNTY, ETC.
 
-(Temporary provisions for persons qualified for registration as citizens under Federation  of  Malaya Agreement  1948,  Clause  126-Repealed)
+- 181. Saving for Rulers’ sovereignty, etc.
 
-(Constituencies  for  first  elections-Repealed)
+### Part XV
 
-(Existing  courts-Repealed)
+#### PROCEEDINGS AGAINST THE YANG DI-PERTUAN AGONG AND THE RULERS
 
-(Pending appeals to  Privy  Council-Repealed)
+- 182. The Special Court
+- 183. No action to be instituted against the Yang di-Pertuan Agong or a Ruler except with the consent of the Attorney General personally
 
-(Judicial  appointments  and Attorney  General-Repealed)
+### Schedules:
 
-- Director  of Audit  to  be  first Auditor  General
+First Schedule—Oath of Applicants for Registration or Naturalization
 
-- Transfer  of  officers
+Second Schedule—
 
-- Waiver or postponement of oath of office where appointment continues under  this  Part
+- Part I — Citizenship by operation of law of persons born before Malaysia Day
 
-- Remuneration after  Merdeka  Day
-
-- Contributions  in  respect  of  joint  services
-
-- Preservation  of  pensions, etc.
-
-### P art XIV
-
-#### SAVING FOR RULERS' SOVEREIGNTY, ETC .
-
-- Saving  for  Rulers'  sovereignty, etc .
-
-### P art XV
-
-#### PROCEEDINGS AGAINST THE YANG Dl-PERTUAN AGONG AND THE RULERS
-
-- The Special  Court
-
-- No action to be instituted against the Yang di-Pertuan Agong or a Ruler except  with  the  consent  of  the Attorney  General  personally
-
-### Schedules :
-
-First  Schedule -Oath of Applicants for Registration or Naturalization
-
-Second Schedule -
-
-- Part  I -	 Citizenship by operation of law of persons born before Malaysia Day
+15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
+Federal Constitution
+
+Part II — Citizenship by operation of law of persons born on or after Malaysia Day
+
+Part III — Supplementary provisions relating to citizenship
+
+Third Schedule—Election of Yang di-Pertuan Agong and Timbalan Yang di-Pertuan Agong
+
+Part I — Election of Yang di-Pertuan Agong
+
+Part II — Election of Timbalan Yang di-Pertuan Agong
+
+Part III — Removal of Yang di-Pertuan Agong
+
+Part IV — General
+
+Fourth Schedule—Oaths of Office of Yang di-Pertuan Agong and Timbalan Yang di-Pertuan Agong
+
+Part I — Oath of Yang di-Pertuan Agong
+
+Part II — Oath of Timbalan Yang di-Pertuan Agong
+
+Part III — English translations
+
+Fifth Schedule—The Conference of Rulers
+
+Sixth Schedule—Forms of Oaths and Affirmations
+
+Seventh Schedule—Election of Senators
+
+Eighth Schedule—Provisions to be inserted in State Constitutions
+
+Part I — Final provisions
+
+Part II — Temporary provisions alternative to provisions in Part I
+
+Part III — Modifications of Parts I and II in relation to Malacca and Penang
+
+Ninth Schedule—Legislative Lists
+
+Tenth Schedule—Grants and Sources of Revenue Assigned to States
+
+Part I — Capitation grant
+
+Part II — State road grant
+
+Part III — Sources of revenue assigned to States
+
+Part IV — Special grants to States of Sabah and Sarawak
+
+Part V — Additional sources of revenue assigned to States of Sabah and Sarawak
+
+Eleventh Schedule—Provisions of the Interpretation and General Clauses Ordinance 1948 (Malayan Union Ordinance No. 7 of 1948), applied for interpretation of the Constitution
+
 16
-
-Federal  Constitution
-
-Part  II -	 Citizenship  by  operation  of  law  of  persons  born  on  or after  Malaysia  Day
-
-Part  III	 Supplementary provisions relating  to  citizenship
-
-Third Schedule -Election of Yang di-Pertuan Agong and Timbalan Yang di-Pertuan Agong
-
-Part  I -	 Election of Yang di-Pertuan Agong
-
-Part  II -	 Election of Timbalan Yang di-Pertuan Agong
-
-Part  III	 Removal of Yang di-Pertuan Agong
-
-Part  IV	 General
-
-Fourth  Schedule -Oaths  of  Office  of  Yang  di-Pertuan  Agong  and Timbalan Yang di-Pertuan Agong
-
-Part  I -	 Oath of Yang di-Pertuan Agong
-
-Part  II -	 Oath of Timbalan Yang di-Pertuan Agong
-
-Part  III	 English  translations
-
-Fifth  Schedule -The Conference of Rulers
-
-Sixth  Schedule -Forms of Oaths and Affirmations
-
-Seventh Schedule -Election of Senators
-
-Eighth Schedule -Provisions to be inserted  in  State  Constitutions
-
-Part  I -	 Final provisions
-
-Part  II -	 Temporary provisions alternative to provisions in Part I
-
-Part  III	 Modifications  of  Parts  I  and  II  in  relation  to  Malacca and  Penang
-
-Ninth Schedule -Legislative Lists
-
-Tenth Schedule -Grants and Sources of Revenue Assigned to States
-
-Part  I -	 Capitation grant
-
-Part  II -	 State road grant
-
-Part  III	 - Sources  of  revenue  assigned  to  States
-
-Part  IV	 - Special  grants  to  States  of  Sabah  and  Sarawak
-
-Part  V -	 Additional  sources  of  revenue  assigned  to  States  of Sabah and Sarawak
-
-Eleventh  Schedule -Provisions  of  the  Interpretation  and  General Clauses Ordinance 1948 (Malayan Union Ordinance No. 7 of 1948), applied for  interpretation  of  the  Constitution Twelfth Schedule -(Provisions of the Federation of Malaya Agreement 1948  as  applied  to  the  Legislative  Council  after  Merdeka  DayRepealed)
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-Federal  Constitution
+Federal Constitution
+
+Twelfth Schedule—(Provisions of the Federation of Malaya Agreement 1948 as applied to the Legislative Council after Merdeka Day—Repealed)
+
+Thirteenth Schedule—Provisions relating to delimitation of Constituencies
+
+- Part I — Declaration of and principles relating to the delimitation of constituencies
+
+- Part II — Procedure for delimitation of constituencies
 
 17
-
-Thirteenth  Schedule -Provisions  relating  to  delimitation  of Constituencies
-
-- Part  I -	 Declaration of and principles relating to the delimitation of  constituencies
-
-- Part  II -	 Procedure for delimitation  of  constituencies
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-Federal  Constitution Federal  Constitution
+Federal Constitution
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-19
+Federal Constitution
 
 # FEDERAL CONSTITUTION
 
@@ -525,252 +661,255 @@ Federal  Constitution Federal  Constitution
 
 #### Name, States and territories of the Federation
 
-1. (1) The Federation shall be known, in Malay and in English, by  the  name  Malaysia.
+1. (1) The Federation shall be known, in Malay and in English, by the name Malaysia.
 
-(2) The  States  of  the  Federation  shall  be  Johore,  Kedah, Kelantan,  Malacca,  Negeri  Sembilan,  Pahang,  Penang,  Perak, Perlis,  Sabah,  Sarawak,  Selangor  and Terengganu.
+(2) The States of the Federation shall be Johore, Kedah, Kelantan, Malacca, Negeri Sembilan, Pahang, Penang, Perak, Perlis, Sabah, Sarawak, Selangor and Terengganu.
 
-(3) Subject to Clause (4), the territories of each of the States mentioned  in  Clause  (2)  are  the  territories  comprised  therein immediately before  Malaysia  Day.
+(3) Subject to Clause (4), the territories of each of the States mentioned in Clause (2) are the territories comprised therein immediately before Malaysia Day.
 
-(4) The  territory  of  the  State  of  Selangor  shall  exclude  the Federal Territory of Kuala Lumpur established under the Constitution (Amendment) (No. 2) Act 1973 [ Act A206 ] and the Federal Territory of Putrajaya established under the Constitution (Amendment) Act 2001  [ Act  A1095 ]  and  the  territory  of  the  State  of  Sabah  shall exclude  the  Federal  Territory  of  Labuan  established  under  the Constitution (Amendment) (No. 2) Act 1984 [ Act A585 ],  and  all such  Federal Territories  shall  be  territories  of  the  Federation.
+(4) The territory of the State of Selangor shall exclude the Federal Territory of Kuala Lumpur established under the Constitution (Amendment) (No. 2) Act 1973 [Act A206] and the Federal Territory of Putrajaya established under the Constitution (Amendment) Act 2001 [Act A1095] and the territory of the State of Sabah shall exclude the Federal Territory of Labuan established under the Constitution (Amendment) (No. 2) Act 1984 [Act A585], and all such Federal Territories shall be territories of the Federation.
 
 #### Admission of new territories into the Federation
 
-- Parliament  may  by  law-
+2. Parliament may by law—
 
-(a) admit  other  States  to  the  Federation;
+(a) admit other States to the Federation;
 
-(b) alter  the  boundaries  of  any  State,
+(b) alter the boundaries of any State,
 
-but  a  law  altering  the  boundaries  of  a  State  shall  not  be  passed without  the  consent  of  that  State  (expressed  by  a  law  made  by the  Legislature  of  that  State)  and  of  the  Conference  of  Rulers.
+but a law altering the boundaries of a State shall not be passed without the consent of that State (expressed by a law made by the Legislature of that State) and of the Conference of Rulers.
+
+19
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-[Article 3]
+Federal Constitution
 
-Federal  Constitution
+#### Religion of the Federation
 
-20
+3. (1) Islam is the religion of the Federation; but other religions may be practised in peace and harmony in any part of the Federation.
 
-#### Religion  of  the  Federation
+(2) In every State other than States not having a Ruler the position of the Ruler as the Head of the religion of Islam in his State in the manner and to the extent acknowledged and declared by the Constitution of that State, and, subject to that Constitution, all rights, privileges, prerogatives and powers enjoyed by him as Head of that religion, are unaffected and unimpaired; but in any acts, observances or ceremonies with respect to which the Conference of Rulers has agreed that they should extend to the Federation as a whole each of the other Rulers shall in his capacity of Head of the religion of Islam authorize the Yang di-Pertuan Agong to represent him.
 
-3. (1) Islam is the religion of the Federation; but other religions may be  practised  in  peace  and  harmony  in  any  part  of  the  Federation.
+(3) The Constitution of the States of Malacca, Penang, Sabah and Sarawak shall each make provision for conferring on the Yang di-Pertuan Agong the position of Head of the religion of Islam in that State.
 
-(2) In  every  State  other  than  States  not  having  a  Ruler  the position of the Ruler as the Head of the religion of Islam in his State in the manner and to the extent acknowledged and declared by the Constitution of that State, and, subject to that Constitution, all  rights,  privileges,  prerogatives  and  powers  enjoyed  by  him as  Head  of  that  religion,  are  unaffected  and  unimpaired;  but  in any  acts,  observances  or  ceremonies  with  respect  to  which  the Conference  of  Rulers  has  agreed  that  they  should  extend  to  the Federation as a whole each of the other Rulers shall in his capacity of  Head  of  the  religion  of  Islam  authorize  the  Yang  di-Pertuan Agong to represent  him.
+(4) Nothing in this Article derogates from any other provision of this Constitution.
 
-(3) The Constitution of the States of Malacca, Penang, Sabah and  Sarawak  shall  each  make  provision  for  conferring  on  the Yang  di-Pertuan  Agong  the  position  of  Head  of  the  religion  of Islam  in  that  State.
-
-(4) Nothing in this Article derogates from any other provision of  this  Constitution.
-
-(5) Notwithstanding  anything  in  this  Constitution  the  Yang di-Pertuan Agong  shall  be  the  Head  of  the  religion  of  Islam  in the  Federal Territories  of  Kuala  Lumpur,  Labuan  and  Putrajaya; and for this purpose Parliament may by law make provisions for regulating Islamic religious affairs and for constituting a Council to  advise  the  Yang  di-Pertuan  Agong  in  matters  relating  to  the religion  of  Islam.
+(5) Notwithstanding anything in this Constitution the Yang di-Pertuan Agong shall be the Head of the religion of Islam in the Federal Territories of Kuala Lumpur, Labuan and Putrajaya; and for this purpose Parliament may by law make provisions for regulating Islamic religious affairs and for constituting a Council to advise the Yang di-Pertuan Agong in matters relating to the religion of Islam.
 
 #### Supreme law of the Federation
 
-4. (1) This  Constitution  is  the  supreme  law  of  the  Federation and  any  law  passed  after  Merdeka  Day  which  is  inconsistent with  this  Constitution  shall,  to  the  extent  of  the  inconsistency, be  void.
+4. (1) This Constitution is the supreme law of the Federation and any law passed after Merdeka Day which is inconsistent with this Constitution shall, to the extent of the inconsistency, be void.
 
-(2) The  validity  of  any  law  shall  not  be  questioned  on  the ground that-
+(2) The validity of any law shall not be questioned on the ground that—
 
-(a) it imposes restrictions on the right mentioned in Clause (2) of Article 9 but does not relate to the matters mentioned therein;  or
+(a) it imposes restrictions on the right mentioned in Clause (2) of Article 9 but does not relate to the matters mentioned therein; or
+
+[Article 3] 20
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-### Art.  1
+Federal Constitution
+
+NOTES
+
+### Art. 1
 
 The present Article without Clause (4) was inserted by Act 26/1963, section 4, in force from 16-09-1963 (i.e. when Malaysia was established). The original Article as it stood on Merdeka Day read as follows:
 
-'1.	 (1) The  Federation  shall  be  known  by  the  name  of  Persekutuan  Tanah  Melayu  (in English  the  Federation  of  Malaya).
+“1. (1) The Federation shall be known by the name of Persekutuan Tanah Melayu (in English the Federation of Malaya).
 
-(2)	 The States of the Federation are Johore, Kedah, Kelantan, Negeri Sembilan, Pahang, Perak, Perlis, Selangor and Terengganu (formerly known as the Malay States) and Malacca and  Penang  (formerly  known  as  the  Settlements  of  Malacca  and  Penang).
+(2) The States of the Federation are Johore, Kedah, Kelantan, Negeri Sembilan, Pahang, Perak, Perlis, Selangor and Terengganu (formerly known as the Malay States) and Malacca and Penang (formerly known as the Settlements of Malacca and Penang).
 
-(3)	 The  territories  of  each  of  the  States  mentioned  in  Clause  (2)  are  the  territories  of that  State  immediately  before  Merdeka  Day.'.
+(3) The territories of each of the States mentioned in Clause (2) are the territories of that State immediately before Merdeka Day.”.
 
 #### Clause (2)
 
-- Amended by Act 59/1966, section 2, in force from 09-08-1965 (i.e. the date Singapore left  Malaysia)  by  deleting  therefrom  paragraph (c) which  read  as  follows:
+a. Amended by Act 59/1966, section 2, in force from 09-08-1965 (i.e. the date Singapore left Malaysia) by deleting therefrom paragraph (c) which read as follows:
 
-' (c) the  State  of  Singapore.'.
+“(c) the State of Singapore.”.
 
-- The present Clause was substituted by Act A354, section 2, in force from 27-08-1976. This  Clause  before  its  substitution  by  Act  A354  was  amended  by  Act  26/1963, section  4,  in  force  from  16-09-1963  (i.e.  when  Malaysia  was  established)  read  as follows:
+b. The present Clause was substituted by Act A354, section 2, in force from 27-08-1976. This Clause before its substitution by Act A354 was amended by Act 26/1963, section 4, in force from 16-09-1963 (i.e. when Malaysia was established) read as follows:
 
-'(2) The States  of  the  Federation  shall  be-
+“(2) The States of the Federation shall be—
 
-(a) the States of Malaya, namely, Johore, Kedah, Kelantan, Malacca, Negeri Sembilan,  Pahang,  Penang,  Perak,  Perlis,  Selangor  and Terengganu;
+(a) the States of Malaya, namely, Johore, Kedah, Kelantan, Malacca, Negeri Sembilan, Pahang, Penang, Perak, Perlis, Selangor and Terengganu;
 
-(b) the  Borneo  States,  namely,  Sabah  and  Sarawak;  and
+(b) the Borneo States, namely, Sabah and Sarawak; and
 
-(c) the  State  of  Singapore.'.
+(c) the State of Singapore.”.
 
 #### Clause (3)
 
-The  words  'Subject  to  Clause  (4),'  were  inserted  by  Act  A206,  section  11,  in  force  from 01-02-1974.
+The words “Subject to Clause (4),” were inserted by Act A206, section 11, in force from 01-02-1974.
 
 #### Clause (4)
 
-- The original Clause which was added by Act A206, section 11, in force from 01-02-1974 (i.e.  the  date  of  the  establishment  of  the  Federal  Territory  of  Kuala  Lumpur)  read  as follows:
+a. The original Clause which was added by Act A206, section 11, in force from 01-02-1974 (i.e. the date of the establishment of the Federal Territory of Kuala Lumpur) read as follows:
 
-'(4) The  territory  of  the  State  of  Selangor  shall  exclude  the  Federal  Territory established  under  the  Constitution  (Amendment)  (No.  2) Act  1973.'.
+“(4) The territory of the State of Selangor shall exclude the Federal Territory established under the Constitution (Amendment) (No. 2) Act 1973.”.
 
-- Subsequently  this  Clause  was  amended  by  Act  A566,  subsection  2(1),  in  force  from 01-02-1974, by inserting after the figures '1973' the words, 'and the Federal Territory shall  be  a  territory  of  the  Federation.'.
+b. Subsequently this Clause was amended by Act A566, subsection 2(1), in force from 01-02-1974, by inserting after the figures “1973” the words, “and the Federal Territory shall be a territory of the Federation.”.
 
-- Subsection  2(2)  of Act A566  also  provided  w.e.f  01-02-1974  that-
+c. Subsection 2(2) of Act A566 also provided w.e.f 01-02-1974 that—
 
-'Any reference in the Constitution and any other written law to the Federation, Malaya, Malaysia, the States of the Federation, the States of Malaya, or West Malaysia, howsoever used,  whether  or  not  used  in  conjunction  with  or  as  part  of  another  expression,  shall be  construed  to  include  a  reference  to  the  Federal  Territory,  unless  there  is  express provision  to  the  contrary  or  there  is  something  in  the  subject  or  context  inconsistent with  or  repugnant  to  such  construction.'.
+“Any reference in the Constitution and any other written law to the Federation, Malaya, Malaysia, the States of the Federation, the States of Malaya, or West Malaysia, howsoever used, whether or not used in conjunction with or as part of another expression, shall be construed to include a reference to the Federal Territory, unless there is express provision to the contrary or there is something in the subject or context inconsistent with or repugnant to such construction.”.
 
-- This  Clause  was  substituted  by Act A585,  section  11,  in  force  from  16-04-1984.
+d. This Clause was substituted by Act A585, section 11, in force from 16-04-1984.
 
-- This Clause was again substituted by Act A1095, section 11, in force from 01-02-2001.
+e. This Clause was again substituted by Act A1095, section 11, in force from 01-02-2001.
 
-### Art.  2
+### Art. 2
 
-See Art.  22,  133(3)  &  159(4) (bb) .
-
-Federal  Constitution
-
-NOTES
+See Art. 22, 133(3) & 159(4)(bb).
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-### Art.  3
+Federal Constitution
+
+NOTES
+
+### Art. 3
 
 #### Clause (2)
 
-- The  words  'States  not  having  a  Ruler'  substituted  for  'Malacca  and  Penang'  by Act  26/1963,  subsection  7(1),  in  force  from  16-09-1963.
+a. The words “States not having a Ruler” substituted for “Malacca and Penang” by Act 26/1963, subsection 7(1), in force from 16-09-1963.
 
-- The words 'religion of Islam' substituted for 'Muslim religion' by Act A354, section 45, in  force  from  27-08-1976.
+b. The words “religion of Islam” substituted for “Muslim religion” by Act A354, section 45, in force from 27-08-1976.
 
 #### Clause (3)
 
-- Act 26/1963, subsection 7(2), in force from 16-09-1963, substituted the words 'Penang and  Singapore'  for  'and  Penang'. Act  59/1966,  section  2,  in  force  from  09-08-1965, restored  the  original  version  'and  Penang'.
+a. Act 26/1963, subsection 7(2), in force from 16-09-1963, substituted the words “Penang and Singapore” for “and Penang”. Act 59/1966, section 2, in force from 09-08-1965, restored the original version “and Penang”.
 
-- The words 'religion of Islam' substituted for 'Muslim religion' by Act A354, section 45, in  force  from  27-08-1976;
+b. The words “religion of Islam” substituted for “Muslim religion” by Act A354, section 45, in force from 27-08-1976;
 
-- The words 'States of Malacca, Penang, Sabah and Sarawak' substituted for 'States of Malacca and Penang' by Act A354, section 3, in force from 27-08-1976.
+c. The words “States of Malacca, Penang, Sabah and Sarawak” substituted for “States of Malacca and Penang” by Act A354, section 3, in force from 27-08-1976.
 
-- See Art.  5  of  the  Constitutions  of  the  States  of  Malacca  and  Penang.
+d. See Art. 5 of the Constitutions of the States of Malacca and Penang.
 
 #### Clause (5)
 
-- Added by Act A206, section 11, in force from 01-02-1974 and amended by Act A354, section  45,  in  force  from  27-08-1976,  substituted  the  words  'religion  of  Islam'  for 'Muslim religion'  and  'Islamic'  for  'Muslim'.
+a. Added by Act A206, section 11, in force from 01-02-1974 and amended by Act A354, section 45, in force from 27-08-1976, substituted the words “religion of Islam” for “Muslim religion” and “Islamic” for “Muslim”.
 
-- The  words  'Territories  of  Kuala  Lumpur  and  Labuan'  substituted  for  'Territory'  by Act A585, section  20,  in  force  from  16-04-1984.
+b. The words “Territories of Kuala Lumpur and Labuan” substituted for “Territory” by Act A585, section 20, in force from 16-04-1984.
 
-- The words 'Kuala Lumpur, Labuan and Putrajaya' substituted for 'Kuala Lumpur and Labuan' by Act A1095, section 12, in force from 01-02-2001.
+c. The words “Kuala Lumpur, Labuan and Putrajaya” substituted for “Kuala Lumpur and Labuan” by Act A1095, section 12, in force from 01-02-2001.
 
-### Art.  4
+### Art. 4
 
-#### Clause (1) :
-See Art.  159 a .
+#### Clause (1):
+
+See Art. 159a.
 
 #### Clause (3)
 
-The words 'in proceedings for a declaration  that  the  law  is  invalid  on  that  ground  or'  were inserted  by Act  26/1963,  section  40,  in  force  from  16-09-1963.
+The words “in proceedings for a declaration that the law is invalid on that ground or” were inserted by Act 26/1963, section 40, in force from 16-09-1963.
 
 #### Clause (4)
 
-- Added by Act 26/1963, section 40, in force  from  16-09-1963.
+a. Added by Act 26/1963, section 40, in force from 16-09-1963.
 
-- The word 'Federal' substituted  for  'Supreme'  by Act A885,  section  2,  in  force  from 24-06-1994.
+b. The word “Federal” substituted for “Supreme” by Act A885, section 2, in force from 24-06-1994.
 
-### Art.  5
+### Art. 5
 
-#### Clause (1) :
-See Art.  149(1).
+#### Clause (1):
+
+See Art. 149(1).
 
 #### Clause (2)
 
-The words 'a High Court' substituted for 'the  Supreme Court' by Act 26/1963, section 70, in  force  from  16-09-1963.
+The words “a High Court” substituted for “the Supreme Court” by Act 26/1963, section 70, in force from 16-09-1963.
 
 #### Clause (4)
 
-- Proviso  added  by Act A354,  section  4,  in  force  from  27-08-1976.
+a. Proviso added by Act A354, section 4, in force from 27-08-1976.
 
-- Additional  provisos  added  by Act A704,  section  2,  in  force  from  10-06-1988.
-
-Federal  Constitution
-
-NOTES
+b. Additional provisos added by Act A704, section 2, in force from 10-06-1988.
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-21
+Federal Constitution
 
-Federal  Constitution
+(b) it imposes such restrictions as are mentioned in Clause (2) of Article 10 but those restrictions were not deemed necessary or expedient by Parliament for the purposes mentioned in that Article.
 
-[Article 4]
+(3) The validity of any law made by Parliament or the Legislature of any State shall not be questioned on the ground that it makes provision with respect to any matter with respect to which Parliament or, as the case may be, the Legislature of the State has no power to make laws, except in proceedings for a declaration that the law is invalid on that ground or—
 
-(b) it  imposes such restrictions as are mentioned in Clause (2) of Article 10 but those restrictions were not deemed necessary  or  expedient  by  Parliament  for  the  purposes mentioned in that Article.
+(a) if the law was made by Parliament, in proceedings between the Federation and one or more States;
 
-(3) The  validity  of  any  law  made  by  Parliament  or  the Legislature  of  any  State  shall  not  be  questioned  on  the  ground that  it  makes  provision  with  respect  to  any  matter  with  respect to  which  Parliament  or,  as  the  case  may  be,  the  Legislature  of the  State  has  no  power  to  make  laws,  except  in  proceedings  for a  declaration  that  the  law  is  invalid  on  that  ground  or-
+(b) if the law was made by the Legislature of a State, in proceedings between the Federation and that State.
 
-(a) if the law was made by Parliament, in proceedings between the  Federation  and  one  or  more  States;
-
-(b) if  the  law  was  made  by  the  Legislature  of  a  State,  in proceedings  between  the  Federation  and  that  State.
-
-(4) Proceedings for a declaration that a law is invalid on the ground  mentioned  in  Clause  (3)  (not  being  proceedings  falling within paragraph (a) or (b) of the Clause) shall not be commenced without the leave of a judge of the Federal Court; and the Federation shall  be  entitled  to  be  a  party  to  any  such  proceedings,  and  so shall  any  State  that  would  or  might  be  a  party  to  proceedings brought  for  the  same  purpose  under  paragraph (a) or (b) of  the Clause.
+(4) Proceedings for a declaration that a law is invalid on the ground mentioned in Clause (3) (not being proceedings falling within paragraph (a) or (b) of the Clause) shall not be commenced without the leave of a judge of the Federal Court; and the Federation shall be entitled to be a party to any such proceedings, and so shall any State that would or might be a party to proceedings brought for the same purpose under paragraph (a) or (b) of the Clause.
 
 ## Part II
 
 ### FUNDAMENTAL LIBERTIES
 
-#### Liberty of  the  person
+#### Liberty of the person
 
-5. (1) No person shall be deprived of his life or personal liberty save  in  accordance  with  law.
+5. (1) No person shall be deprived of his life or personal liberty save in accordance with law.
 
-(2) Where  complaint  is  made  to  a  High  Court  or  any  judge thereof that a person is being unlawfully detained the court shall inquire into the complaint and, unless satisfied that the detention is  lawful,  shall  order  him  to  be  produced  before  the  court  and release  him.
+(2) Where complaint is made to a High Court or any judge thereof that a person is being unlawfully detained the court shall inquire into the complaint and, unless satisfied that the detention is lawful, shall order him to be produced before the court and release him.
 
-(3) Where a  person  is  arrested  he  shall  be  informed  as  soon as  may  be  of  the  grounds  of  his  arrest  and  shall  be  allowed  to consult  and  be  defended  by  a  legal  practitioner  of  his  choice.
+(3) Where a person is arrested he shall be informed as soon as may be of the grounds of his arrest and shall be allowed to consult and be defended by a legal practitioner of his choice.
+
+21 [Article 4]
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-[Article 5]
+Federal Constitution
 
-Federal  Constitution
+(4) Where a person is arrested and not released he shall without unreasonable delay, and in any case within twenty-four hours (excluding the time of any necessary journey) be produced before a magistrate and shall not be further detained in custody without the magistrate’s authority:
 
-22
+Provided that this Clause shall not apply to the arrest or detention of any person under the existing law relating to restricted residence, and all the provisions of this Clause shall be deemed to have been an integral part of this Article as from Merdeka Day:
 
-(4) Where  a  person  is  arrested  and  not  released  he  shall without  unreasonable  delay,  and  in  any  case  within  twenty-four hours (excluding the time of any necessary journey) be produced before  a  magistrate  and  shall  not  be  further  detained  in  custody without  the  magistrate's  authority:
+Provided further that in its application to a person, other than a citizen, who is arrested or detained under the law relating to immigration, this Clause shall be read as if there were substituted for the words “without unreasonable delay, and in any case within twenty-four hours (excluding the time of any necessary journey)” the words “within fourteen days”:
 
-Provided  that  this  Clause  shall  not  apply  to  the  arrest  or detention of any person under the existing law relating to restricted residence,  and  all  the  provisions  of  this  Clause  shall  be  deemed to  have  been  an  integral  part  of  this  Article  as  from  Merdeka Day:
+And provided further that in the case of an arrest for an offence which is triable by a Syariah court, references in this Clause to a magistrate shall be construed as including references to a judge of a Syariah court.
 
-Provided further that in its application to a person, other than a  citizen,  who  is  arrested  or  detained  under  the  law  relating  to immigration, this Clause shall be read as if there were substituted for the words 'without unreasonable delay, and in any case within twenty-four hours (excluding the time of any necessary journey)' the  words  'within  fourteen  days':
-
-And provided further that in the case of an arrest for an offence which is triable by a Syariah court, references in this Clause to a magistrate  shall  be  construed  as  including  references  to  a  judge of  a  Syariah  court.
-
-(5) Clauses  (3)  and  (4)  do  not  apply  to  an  enemy  alien.
+(5) Clauses (3) and (4) do not apply to an enemy alien.
 
 #### Slavery and forced labour prohibited
 
-6. (1) No person shall  be  held  in  slavery.
+6. (1) No person shall be held in slavery.
 
-(2) All forms of forced labour are prohibited, but Parliament may by  law  provide  for  compulsory  service  for  national  purposes.
+(2) All forms of forced labour are prohibited, but Parliament may by law provide for compulsory service for national purposes.
 
-(3) Work or service required from any person as a consequence of  a  conviction  or  a  finding  of  guilt  in  a  court  of  law  shall  not be  taken  to  be  forced  labour  within  the  meaning  of  this Article, provided  that  such  work  or  service  is  carried  out  under  the supervision  and  control  of  a  public  authority.
+(3) Work or service required from any person as a consequence of a conviction or a finding of guilt in a court of law shall not be taken to be forced labour within the meaning of this Article, provided that such work or service is carried out under the supervision and control of a public authority.
 
-(4) Where  by  any  written  law  the  whole  or  any  part  of  the functions  of  any  public  authority  is  to  be  carried  on  by  another public authority, for the purpose of enabling those functions to be performed  the  employees  of  the  first-mentioned  public  authority shall  be  bound  to  serve  the  second-mentioned  public  authority,
+(4) Where by any written law the whole or any part of the functions of any public authority is to be carried on by another public authority, for the purpose of enabling those functions to be performed the employees of the first-mentioned public authority shall be bound to serve the second-mentioned public authority,
+
+[Article 5] 22
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-### Art.  6
+Federal Constitution
+
+NOTES
+
+### Art. 6
 
 #### Clause (3)
-The  present  Clause  was  inserted  by  Act  A1130,  section  2,  in  force  from  28-09-2001,  and replaced  the  earlier  Clause  which  read  as  follows:
-'(3)	 Work  incidental  to  the  serving  of  a  sentence  of  imprisonment  imposed  by  a  court of  law  shall  not  be  taken  to  be  forced  labour  within  the  meaning  of  this Article.'.
+
+The present Clause was inserted by Act A1130, section 2, in force from 28-09-2001, and replaced the earlier Clause which read as follows:
+
+“(3) Work incidental to the serving of a sentence of imprisonment imposed by a court of law shall not be taken to be forced labour within the meaning of this Article.”.
+
 #### Clause (4)
 
-Added by Act A354, section 5, in force  from  27-08-1976.
-
-Federal  Constitution NOTES
+Added by Act A354, section 5, in force from 27-08-1976.
 
 [[END OF PAGE 25]]
 
@@ -1717,9 +1856,9 @@ Federal  Constitution
 
 (2) The  Federal  Government  may  by  order  deprive  of  her citizenship  any  woman  who  is  a  citizen  by  registration  under Clause  (1)  of Article  15  if  satisfied  that  the  marriage  by  virtue of  which  she  was  registered  has  been  dissolved,  otherwise  than by death, within the period of two years beginning with the date of  the  marriage.
 
-( Repealed ).
+(3) ( Repealed ).
 
-( Repealed ).
+(4) ( Repealed ).
 
 #### Deprivation  of  citizenship  of  child  of  person  losing citizenship
 
@@ -1729,7 +1868,7 @@ Federal  Constitution
 
 26 b . (1) Renunciation  or  deprivation  of  citizenship  shall  not discharge  a  person  from  liability  in  respect  of  anything  done  or omitted  before  he  ceased  to  be  a  citizen.
 
-(2) No  person  shall  be  deprived  of  citizenship  under Article 25,  26  or  2 6a unless  the  Federal  Government  is  satisfied  that  it is  not  conducive  to  the  public  good  that  he  should  continue  to be a citizen; and no person shall be deprived of citizenship under
+(2) No  person  shall  be  deprived  of  citizenship  under Article 25,  26  or  26 a unless  the  Federal  Government  is  satisfied  that  it is  not  conducive  to  the  public  good  that  he  should  continue  to be a citizen; and no person shall be deprived of citizenship under
 
 [[END OF PAGE 52]]
 
@@ -1739,7 +1878,7 @@ Federal  Constitution
 
 #### Clause  (1),  (2)  &  (3)
 
-- Act  l4/1962,  section  32,  in  force  from  01-10-1962,  deleted  Clause  (3)  and  amended Clauses  (1)  and  (2),  by  deleting  the  words  'Subject  to  Clause  (3)'  which  appeared at  the  commencement  of  the  Clauses,  and  by  subsection  27(3)  made  the  following provision:
+- Act  14/1962,  section  32,  in  force  from  01-10-1962,  deleted  Clause  (3)  and  amended Clauses  (1)  and  (2),  by  deleting  the  words  'Subject  to  Clause  (3)'  which  appeared at  the  commencement  of  the  Clauses,  and  by  subsection  27(3)  made  the  following provision:
 
 '(3)	 If within one month after the coming into operation of this section the Minister exercises the power of delegation conferred by section 4 of the said Second Schedule as  amended  by  this  section,  any  order  under  Article  26  of  the  Constitution  made before  that  exercise  of  that  power  (whether  made  before  or  after  the  passing  of  the Constitution  (Amendment) Act  1960)  shall  be  as  valid  as  if  the  said  section  4  had been  in  force  at  the  time  the  order  was  made  as  it  was  in  force  after  the  coming into  operation  of  this  section,  and  as  if  the  said  exercise  of  the  power  of  delegation had  had  effect  at  that  time.'.
 
@@ -2027,7 +2166,7 @@ Federal  Constitution
 
 40
 
-## P art IV
+## Part IV
 
 ### THE FEDERATION
 
@@ -2045,7 +2184,7 @@ Federal  Constitution
 
 #### Deputy Supreme Head of the Federation
 
-33. (1) There shall be a Deputy Supreme Head of the Federation (to  be  called  the  Timbalan  Yang  di-Pertuan  Agong)  who  shall exercise  the  functions  and  have  the  privileges  of  the  Yang  diPertuan  Agong  during  any  vacancy  in  the  office  of  the  Yang di-Pertuan Agong and during any period during which the Yang di-Pertuan Agong is unable to exercise the functions of his office owing  to  illness,  absence  from  the  Federation  or  for  any  other cause, but the Timbalan Yang di-Pertuan Agong shall not exercise those  functions  during  any  inability  or  absence  of  the  Yang  diPertuan  Agong  which  is  expected  to  be  less  than  fifteen  days, unless the Timbalan Yang di-Pertuan Agong is satisfied that it is necessary  or  expedient  to  exercise  such  functions.
+33. (1) There shall be a Deputy Supreme Head of the Federation (to  be  called  the  Timbalan  Yang  di-Pertuan  Agong)  who  shall exercise  the  functions  and  have  the  privileges  of  the  Yang  di-Pertuan  Agong  during  any  vacancy  in  the  office  of  the  Yang di-Pertuan Agong and during any period during which the Yang di-Pertuan Agong is unable to exercise the functions of his office owing  to  illness,  absence  from  the  Federation  or  for  any  other cause, but the Timbalan Yang di-Pertuan Agong shall not exercise those  functions  during  any  inability  or  absence  of  the  Yang  di-Pertuan  Agong  which  is  expected  to  be  less  than  fifteen  days, unless the Timbalan Yang di-Pertuan Agong is satisfied that it is necessary  or  expedient  to  exercise  such  functions.
 
 (2) The Timbalan Yang di-Pertuan Agong shall be elected by the  Conference  of  Rulers  for  a  term  of  five  years,  or  if  elected
 
@@ -2105,7 +2244,7 @@ during the term for which the Yang di-Pertuan Agong was elected, for  the  remai
 
 #### Yang  di-Pertuan Agong  shall  cease  to  exercise  the  functions of  the Yang  di-Pertuan Agong  if  charged  with  an  offence
 
-33 a . (1) Where the Yang di-Pertuan Agong is charged with an offence  under  any  law  in  the  Special  Court  established  under Part XV he shall cease to exercise the functions of the Yang diPertuan Agong.
+33 a . (1) Where the Yang di-Pertuan Agong is charged with an offence  under  any  law  in  the  Special  Court  established  under Part XV he shall cease to exercise the functions of the Yang di-Pertuan Agong.
 
 (2) The period during which the Yang di-Pertuan Agong ceases, under Clause (1), to exercise the functions of the Yang di-Pertuan Agong  shall  be  deemed  to  be  part  of  the  term  of  office  of  the Yang di-Pertuan Agong provided for in Clause (3) of Article 32.
 
@@ -2169,7 +2308,7 @@ Federal  Constitution
 
 (6) Clauses (2) and (3) shall also apply to the Raja Permaisuri Agong.
 
-(7) Where the Timbalan Yang di-Pertuan Agong or any other person authorized by law exercises the functions of the Yang diPertuan  Agong  for  a  period  exceeding  fifteen  days  Clauses  (1) to  (5)  shall  apply  to  him  during  that  period  as  they  apply  to  the Yang di-Pertuan Agong.
+(7) Where the Timbalan Yang di-Pertuan Agong or any other person authorized by law exercises the functions of the Yang di-Pertuan  Agong  for  a  period  exceeding  fifteen  days  Clauses  (1) to  (5)  shall  apply  to  him  during  that  period  as  they  apply  to  the Yang di-Pertuan Agong.
 
 (8) Nothing  in  Clause  (1)  shall  prevent  the  Yang  di-Pertuan Agong exercising as Ruler of his State any power vested in him either  alone  or  in  conjunction  with  any  other  authority-
 
@@ -2205,7 +2344,7 @@ The words 'Timbalan Yang di-Pertuan Agong' substituted for 'Deputy Supreme Head 
 
 #### Clause  (8)
 
-This  Clause  was  inserted  by  Act  10/1960,  subsection  3(1),  in  force  from  31-05-1960.  It replaces the earlier Clause added by F.M. Ordinance 42/1958 section 2, in force from 05-121958,  which  read  as  follows:
+This  Clause  was  inserted  by  Act  10/1960,  subsection  3(1),  in  force  from  31-05-1960.  It replaces the earlier Clause added by F.M. Ordinance 42/1958 section 2, in force from 05-12-1958,  which  read  as  follows:
 
 '(8)	 Nothing  in  Clause  (1)  shall  prevent  the  Yang  di-Pertuan  Agong  exercising  as Ruler of his State any power vested in him either alone or in conjunction with any other authority-
 
@@ -2301,7 +2440,7 @@ Federal  Constitution
 
 44
 
-- The Conference of Rulers shall exercise its functions of-
+(2) The Conference of Rulers shall exercise its functions of-
 
 (a) electing, in accordance with the provisions of the Third Schedule, the Yang di-Pertuan Agong and Timbalan Yang di-Pertuan Agong;
 
@@ -2315,7 +2454,7 @@ Federal  Constitution
 
 and may deliberate on questions of national policy (for example changes  in  immigration  policy)  and  any  other  matter  that  it thinks  fit.
 
-(3) When  the  Conference  deliberates  on  matters  of  national policy  the  Yang  di-Pertuan Agong  shall  be  accompanied  by  the Prime  Minister,  and  the  other  Rulers  and  the  Yang  di-PertuaYang  di-Pertua  Negeri  by  their  Menteri-Menteri  Besar  or  Chief Ministers;  and  the  deliberations  shall  be  among  the  functions exercised, by the Yang di-Pertuan Agong in accordance with the advice of the Cabinet, and by the other Rulers and the Yang diPertua-Yang  di-Pertua  Negeri  in  accordance  with  the  advice  of their  Executive  Councils.
+(3) When  the  Conference  deliberates  on  matters  of  national policy  the  Yang  di-Pertuan Agong  shall  be  accompanied  by  the Prime  Minister,  and  the  other  Rulers  and  the  Yang  di-Pertua-Yang  di-Pertua  Negeri  by  their  Menteri-Menteri  Besar  or  Chief Ministers;  and  the  deliberations  shall  be  among  the  functions exercised, by the Yang di-Pertuan Agong in accordance with the advice of the Cabinet, and by the other Rulers and the Yang di-Pertua-Yang  di-Pertua  Negeri  in  accordance  with  the  advice  of their  Executive  Councils.
 
 (4) No law directly affecting the privileges, position, honours or dignities of the Rulers shall be passed without the consent of the  Conference  of  Rulers.
 
@@ -2379,7 +2518,7 @@ Federal  Constitution
 
 (f) the  granting  of  pardons,  reprieves  and  respites,  or  of remitting,  suspending  or  commuting  sentences,  under Clause  (12)  of Article  42.
 
-( Repealed ).
+(7) ( Repealed ).
 
 ### Chapter 3-The Executive
 
@@ -2489,7 +2628,7 @@ Federal  Constitution
 
 (3) Where an offence was committed wholly or partly outside the Federation or in more than one State or in circumstances which make it doubtful where it was committed, it shall be treated for the purposes of this Article as having been committed in the State in which it was tried. For the purpose of this Clause the Federal Territory  of  Kuala  Lumpur,  the  Federal Territory  of  Labuan  and the  Federal  Territory  of  Putrajaya,  shall  each  be  regarded  as  a State.
 
-- The powers mentioned in this Article-
+(4) The powers mentioned in this Article—
 
 (a) are, so far as they are exercisable by the Yang di-Pertuan Agong,  among  functions  with  respect  to  which  federal law  may  make  provision  under  Clause  (3)  of  Article 40;
 
@@ -2507,23 +2646,23 @@ Federal  Constitution
 
 #### Clause (2)
 
-- The words 'or by a civil court exercising jurisdiction in the Federal Territory' which appear  after  'court-martial'  were  inserted  by  Act  A206,  section  11,  in  force  from 01-02-1974.
+a. The words 'or by a civil court exercising jurisdiction in the Federal Territory' which appear  after  'court-martial'  were  inserted  by  Act  A206,  section  11,  in  force  from 01-02-1974.
 
-- The  words  'Yang  di-Pertua  Negeri'  substituted  for  'Governor'  by  Act  A354, section  42,  in  force  from  27-08-1976.
+b. The  words  'Yang  di-Pertua  Negeri'  substituted  for  'Governor'  by  Act  A354, section  42,  in  force  from  27-08-1976.
 
-- The words 'and without prejudice to any provision of federal law relating to remission of  sentences  for  good  conduct  or  special  services,'  were  inserted  by  Act  A514, section  2,  in  force  from  15-05-1981. Act A514,  subsection  2(2),  read  as  follows:
+c. The words 'and without prejudice to any provision of federal law relating to remission of  sentences  for  good  conduct  or  special  services,'  were  inserted  by  Act  A514, section  2,  in  force  from  15-05-1981. Act A514,  subsection  2(2),  read  as  follows:
 
 'Any remission for good conduct or special services authorized by federal law and granted before the commencement of this Act shall be deemed to have been validly granted.'.
 
-- See note  under Art.  42(10).
+d. See note  under Art.  42(10).
 
 #### Clause (3)
 
-- The words 'For the purpose of  this  Clause  the  Federal Territory  shall  be  regarded  as a  State.'  were  added  by Act A206,  section  11,  in  force  from  01-02-1974.
+a. The words 'For the purpose of  this  Clause  the  Federal Territory  shall  be  regarded  as a  State.'  were  added  by Act A206,  section  11,  in  force  from  01-02-1974.
 
-- The words 'the Federal Territory of Kuala Lumpur or the Federal Territory of Labuan, as  the  case  may  be,  shall  each  be  regarded  as  a  state'  substituted  for  'the  Federal Territory  shall  be  regarded  as  a  State'  by  Act  A585,  paragraph  12 (b) ,  in  force  from 16-04-1984.
+b. The words 'the Federal Territory of Kuala Lumpur or the Federal Territory of Labuan, as  the  case  may  be,  shall  each  be  regarded  as  a  state'  substituted  for  'the  Federal Territory  shall  be  regarded  as  a  State'  by  Act  A585,  paragraph  12 (b) ,  in  force  from 16-04-1984.
 
-- Subsequently, the words 'Federal Territory of Kuala Lumpur, the Federal Territory of Labuan  and  the  Federal  Territory  of  Putrajaya'  substituted  for  'Federal  Territory  of Kuala Lumpur or the Federal Territory of Labuan, as the case may be' by Act A1095, paragraph  14 (b) ,  in  force  from  01-02-2001.
+c. Subsequently, the words 'Federal Territory of Kuala Lumpur, the Federal Territory of Labuan  and  the  Federal  Territory  of  Putrajaya'  substituted  for  'Federal  Territory  of Kuala Lumpur or the Federal Territory of Labuan, as the case may be' by Act A1095, paragraph  14 (b) ,  in  force  from  01-02-2001.
 
 #### Clauses (4),  (5),  (6),  (7)  &  (8)
 
@@ -2535,15 +2674,15 @@ The  words  'by  the  Ruler  or  Governor'  were  inserted  by  Act  26/1963,  s
 
 #### Clause (10)
 
-- Added  by  Act  10/1960,  section  4,  in  force  from  31-05-1960,  which  also  amended Clause  (2)  by  inserting  the  words  'Subject  to  Clause  (10),  any'.
+a. Added  by  Act  10/1960,  section  4,  in  force  from  31-05-1960,  which  also  amended Clause  (2)  by  inserting  the  words  'Subject  to  Clause  (10),  any'.
 
-- Act 26/1963, subsection 7(2), in force from 16-09-1963, substituted the words 'Penang or  Singapore'  for  'or  Penang'.
+b. Act 26/1963, subsection 7(2), in force from 16-09-1963, substituted the words 'Penang or  Singapore'  for  'or  Penang'.
 
-- Act  59/1966,  section  2,  in  force  from  09-08-1965,  restored  the  original  version  'or Penang'.
+c. Act  59/1966,  section  2,  in  force  from  09-08-1965,  restored  the  original  version  'or Penang'.
 
-- The words 'or the Federal Territory' were inserted after the words 'Malacca or Penang' by Act A206, section  11,  in  force  from  01-02-1974.
+d. The words 'or the Federal Territory' were inserted after the words 'Malacca or Penang' by Act A206, section  11,  in  force  from  01-02-1974.
 
-- The word 'Islamic' substituted for 'Muslim' and the words 'religion of Islam' substituted for  'Muslim  religion'  by Act A354,  sections  44  and  45,  in  force  from  27-08-1976.
+e. The word 'Islamic' substituted for 'Muslim' and the words 'religion of Islam' substituted for  'Muslim  religion'  by Act A354,  sections  44  and  45,  in  force  from  27-08-1976.
 
 Federal  Constitution
 
@@ -2583,11 +2722,11 @@ Federal  Constitution
 
 #### Clause (11)
 
-- Added  by  Act  A206,  section  11,  in  force  from  01-02-1974,  amended  by  Act  A354, section  42,  in  force  from  27-08-1976,  by  substituting  'Yang  di-Pertua  Negeri'  for 'Governor'.  This  Clause  as  substituted  by Act A585,  paragraph  12 (c) ,  in  force  from 16-04-1984 read as follows:
+a. Added  by  Act  A206,  section  11,  in  force  from  01-02-1974,  amended  by  Act  A354, section  42,  in  force  from  27-08-1976,  by  substituting  'Yang  di-Pertua  Negeri'  for 'Governor'.  This  Clause  as  substituted  by Act A585,  paragraph  12 (c) ,  in  force  from 16-04-1984 read as follows:
 
 '(11) For  the  purpose  of  this  Article,  there  shall  be  constituted  a  single  Pardons Board for the Federal Territory of Kuala Lumpur and the Federal Territory of Labuan and the provisions of Clauses (5), (6), (7), (8) and (9) of this Article shall apply mutatis mutandis to  the  Pardons  Board  under  this  Clause  except  that  reference  to  'Ruler  or Yang di-Pertua Negeri' shall be construed as reference to the Yang di-Pertuan Agong and  reference  to  'Chief  Minister  of  the  State'  shall  be  construed  as  reference  to  the Minister responsible for the Federal Territory of Kuala Lumpur and the Federal Territory of  Labuan.'.
 
-- Subsequently, the words 'Federal Territories of Kuala Lumpur, Labuan and Putrajaya' substituted for 'Federal Territory of Kuala Lumpur and the Federal Territory of Labuan' wherever they appear by Act A1095, paragraph 14 (c) ,  in  force  from  01-02-2001.
+b. Subsequently, the words 'Federal Territories of Kuala Lumpur, Labuan and Putrajaya' substituted for 'Federal Territory of Kuala Lumpur and the Federal Territory of Labuan' wherever they appear by Act A1095, paragraph 14 (c) ,  in  force  from  01-02-2001.
 
 Clauses (12)  &  (13) :  Added  by Act A848,  section  4,  in  force  from  30-03-1993.
 
@@ -2617,7 +2756,7 @@ Federal  Constitution
 
 43. (1) The  Yang  di-Pertuan  Agong  shall  appoint  a  Jemaah Menteri (Cabinet of Ministers) to advise him in the exercise of his functions.
 
-- The Cabinet shall  be  appointed  as  follows,  that  is  to  say:
+(2) The Cabinet shall  be  appointed  as  follows,  that  is  to  say:
 
 (a) the Yang di-Pertuan Agong shall first appoint as Perdana Menteri  (Prime  Minister)  to  preside  over  the  Cabinet a  member  of  the  House  of  Representatives  who  in  his judgment  is  likely  to  command  the  confidence  of  the majority  of  the  members  of  that  House;  and
 
@@ -2649,17 +2788,17 @@ Federal  Constitution
 
 Representatives, and in any other case he is a member either of that  House  or  of  the  Senate.
 
-- The Cabinet shall be collectively responsible to Parliament.
+(3) The Cabinet shall be collectively responsible to Parliament.
 
 (4) If  the  Prime Minister ceases to command the confidence of the majority of the members of the House of Representatives, then, unless at his request the Yang di-Pertuan Agong dissolves Parliament, the  Prime  Minister  shall  tender  the  resignation  of  the  Cabinet.
 
-(5) Subject  to  Clause  (4),  Ministers  other  than  the  Prime Minister  shall  hold  office  during  the  pleasure  of  the  Yang  diPertuan  Agong,  unless  the  appointment  of  any  Minister  shall have been revoked by the Yang di-Pertuan Agong on the advice of  the  Prime  Minister  but  any  Minister  may  resign  his  office.
+(5) Subject  to  Clause  (4),  Ministers  other  than  the  Prime Minister  shall  hold  office  during  the  pleasure  of  the  Yang  di-Pertuan  Agong,  unless  the  appointment  of  any  Minister  shall have been revoked by the Yang di-Pertuan Agong on the advice of  the  Prime  Minister  but  any  Minister  may  resign  his  office.
 
 (6) Before a Minister exercises the functions of his office he shall  take  and  subscribe  in  the  presence  of  the  Yang  di-Pertuan Agong the oath of office and allegiance and the oath of secrecy set  out  in  the  Sixth  Schedule.
 
 (7) Notwithstanding anything in this Article, a person who is a  citizen  by  naturalization  or  by  registration  under  Article  17* shall  not  be  appointed  Prime  Minister.
 
-( Repealed ).
+(8) (Repealed).
 
 (9) Parliament shall by law make provision for the remuneration of  members  of  the  Cabinet.
 
@@ -2669,7 +2808,7 @@ Representatives, and in any other case he is a member either of that  House  or 
 
 (2) Deputy Ministers shall assist Ministers in the discharge of their  duties  and  functions,  and  for  such  purpose  shall  have  all the  powers  of  Ministers.
 
-*NOTE -This Article has been repealed vide Constitution (Amendment) Act 1962 [ Act 14/1962 ] w.e.f.  1  July  1963see section  5  of Act  14/1962. See also  notes  on Article  17.
+*NOTE—This Article has been repealed vide Constitution (Amendment) Act 1962 [Act 14/1962] w.e.f. 1 July 1963—see section 5 of Act 14/1962. See also notes on Article 17.
 
 [[END OF PAGE 82]]
 
@@ -2679,9 +2818,9 @@ Representatives, and in any other case he is a member either of that  House  or 
 
 #### Clause  (5)
 
-- The  words  'unless  the  appointment  of  any  Minister  shall  have  been  revoked  by  the Yang  di-Pertuan  Agong  on  the  advice  of  the  Prime  Minister'  were  inserted  by  Act 10/1960,  section  5,  in  force  from  31-05-1960.
+a. The  words  'unless  the  appointment  of  any  Minister  shall  have  been  revoked  by  the Yang  di-Pertuan  Agong  on  the  advice  of  the  Prime  Minister'  were  inserted  by  Act 10/1960,  section  5,  in  force  from  31-05-1960.
 
-- See Art.  43 a (3).
+b. See Art. 43a(3).
 
 #### Clauses  (6)  &  (8) :
 See Art.  43 a (3).
@@ -2694,9 +2833,9 @@ See Members of  Parliament  (Remuneration) Act  1980  [ Act  237 ].
 
 ### Art.  43 a
 
-- Added by Act 10/1960, section 6, in  force  from  31-05-1960.
+1. Added by Act 10/1960, section 6, in  force  from  31-05-1960.
 
-- See Art.  57(1 a ).
+2. See Art. 57(1a).
 
 #### Clauses  (1),  (2),  (3)  &  (4)
 
@@ -2759,15 +2898,15 @@ Federal  Constitution
 
 ### Art.  43 b
 
-- Added by Act 19/1964, subsection 5(1), in  force  from  16-09-1963.
+1. Added by Act 19/1964, subsection 5(1), in  force  from  16-09-1963.
 
-- See Art.  57(1 a ).
+2. See Art. 57(1a).
 
 #### Clause  (2)
 
-- The  words  'Deputy  Ministers'  substituted  for  'Assistant  Ministers'  by  Act  A31, section  10,  in  force  from  24-03-1971.
+a. The  words  'Deputy  Ministers'  substituted  for  'Assistant  Ministers'  by  Act  A31, section  10,  in  force  from  24-03-1971.
 
-- The words ', and for such purpose shall have all the powers of Ministers and Deputy Ministers'  were  inserted  by Act A566,  section  4,  in  force  from  16-12-1983.
+b. The words ', and for such purpose shall have all the powers of Ministers and Deputy Ministers'  were  inserted  by Act A566,  section  4,  in  force  from  16-12-1983.
 
 #### Clause  (4) :
 See Art.  43 c (3).
@@ -2823,9 +2962,9 @@ Federal  Constitution
 
 #### Clause (1)(aa)
 
-- This  paragraph  was  inserted  by  Act  A442,  paragraph  2(1) (a) ,  in  force  from 31-12-1978.
+a. This  paragraph  was  inserted  by  Act  A442,  paragraph  2(1) (a) ,  in  force  from 31-12-1978.
 
-- Subsequently it was substituted by Act A585, section 13, in force from 16-04-1984 and again  by Act A1095,  section  15,  in  force  from  01-02-2001  to  enable  one  member  of the Senate to be appointed to represent the Federal Territory of Putrajaya. The original paragraph (aa) read  as  follows:
+b. Subsequently it was substituted by Act A585, section 13, in force from 16-04-1984 and again  by Act A1095,  section  15,  in  force  from  01-02-2001  to  enable  one  member  of the Senate to be appointed to represent the Federal Territory of Putrajaya. The original paragraph (aa) read  as  follows:
 
 ' (aa) two  members  for  the  Federal  Territory  shall  be  appointed  by  the  Yang di-Pertuan Agong;  and'.
 
@@ -2853,7 +2992,7 @@ Federal  Constitution
 
 Provided that where a person who has already completed two or more terms of office as a member of the Senate is immediately before the coming into force of this Clause a member of the Senate, he  may  continue  to  serve  as  such  member  for  the  remainder  of his  term.
 
-- Parliament  may  by  law-
+(4) Parliament  may  by  law—
 
 (a) increase  to  three  the  number  of  members  to  be  elected for  each  State;
 
@@ -2865,7 +3004,7 @@ Provided that where a person who has already completed two or more terms of offi
 
 46. (1) The  House  of  Representatives  shall  consist  of  two hundred and twenty-two elected members.
 
-- There  shall  be-
+(2) There  shall  be—
 
 (a) two hundred and nine members from the States in Malaysia as  follows:
 
@@ -2893,9 +3032,9 @@ Provided that where a person who has already completed two or more terms of offi
 
 #### Clause (3)
 
-- Amended by Act A442,  paragraph  2(1) (c) ,  in  force  from  31-12-1978,  by  substituting 'three'  for  'six'.
+a. Amended by Act A442,  paragraph  2(1) (c) ,  in  force  from  31-12-1978,  by  substituting 'three'  for  'six'.
 
-- Subsequently  this  Clause  was  amended  by  Act  A1130,  section  4,  in  force  from 28-09-2001,  by  deleting  the  words  ',  subject  to  the  provisions  of  the  Seventh Schedule,'.
+b. Subsequently  this  Clause  was  amended  by  Act  A1130,  section  4,  in  force  from 28-09-2001,  by  deleting  the  words  ',  subject  to  the  provisions  of  the  Seventh Schedule,'.
 
 #### Clause (3 a ) :
 Added  by Act A514,  section  3,  in  force  from  15-05-1981.
@@ -2905,7 +3044,7 @@ See Art.  120.
 
 ### Art.  46
 
-- This Article  as  it  stood  on  Merdeka  Day  read  as  follows:
+1. This Article  as  it  stood  on  Merdeka  Day  read  as  follows:
 
 '46.	 (1)	The House of Representatives shall consist of one hundred elected members except that  the  first  House  of  Representatives  shall  consist  of  one  hundred  and  four.
 
@@ -2979,7 +3118,7 @@ NOTES
 
 (b) five  members  from  the  Federal Territory.'.
 
-6. The  present  Article  was  substituted  by  Act  A566,  section  5,  in  force  from  16-12-1983. However,  the  substitution  shall  not  affect  the  composition  of  the  House  of  Representatives or  any  elections  to  that  House  until  the  dissolution  of  Parliament  occurring  on  or  after 31-12-1984See P.U.  (A)  475  and  476/1984.
+6. The  present  Article  was  substituted  by  Act  A566,  section  5,  in  force  from  16-12-1983. However,  the  substitution  shall  not  affect  the  composition  of  the  House  of  Representatives or  any  elections  to  that  House  until  the  dissolution  of  Parliament  occurring  on  or  after 31-12-1984—See P.U.  (A)  475  and  476/1984.
 
 #### Clause  (1)
 
@@ -3005,7 +3144,7 @@ Amended  by  Act  A631,  section  2,  in  force  from  24-02-1986,  by  substitu
 
 ##### Note :
 
-This  Article,  as  amended,  shall  not  affect  the  composition  of  the  House  of  Representatives or  any  election  to  that  House  until  the  dissolution  of  ParliamentSee Art.  57(1 a ).
+This  Article,  as  amended,  shall  not  affect  the  composition  of  the  House  of  Representatives or  any  election  to  that  House  until  the  dissolution  of  Parliament—See Art. 57(1a).
 
 #### Clause  (1)
 
@@ -3041,7 +3180,7 @@ Amended by Act A837, section 2, in force from 20-11-1992-
 
 ##### Note :
 
-The  above  amendments  shall  not  affect  the  composition  of  the  House  of  Representatives  or any  election  to  that  House  until  dissolution  of  Parliament  occurring  on  or  after  the  date  of the  coming  into  force  of  the  Order  made  under  section  12  of  the  Thirteenth  ScheduleSee section  4  of Act A837.
+The  above  amendments  shall  not  affect  the  composition  of  the  House  of  Representatives  or any  election  to  that  House  until  dissolution  of  Parliament  occurring  on  or  after  the  date  of the  coming  into  force  of  the  Order  made  under  section  12  of  the  Thirteenth  Schedule—See section  4  of Act A837.
 
 #### Clause  (1)
 
@@ -3167,15 +3306,15 @@ See Art.  47.
 
 #### Clause  (1)
 
-- Act  10/1960,  section  7,  in  force  from  31-05-1960,  inserted  the  words  'or  to  the Legislative Assembly of a State' in paragraph (d) and substituted the words 'one year or  to  a  fine  of  not  less  than  two  thousand  dollars'  for  'two  years'  in  paragraph (e) ;
+a. Act  10/1960,  section  7,  in  force  from  31-05-1960,  inserted  the  words  'or  to  the Legislative Assembly of a State' in paragraph (d) and substituted the words 'one year or  to  a  fine  of  not  less  than  two  thousand  dollars'  for  'two  years'  in  paragraph (e) ;
 
-- Act  26/1963,  section  70,  in  force  from  16-09-1963,  inserted  the  words  '(or,  before Malaysia  Day,  in  the  territories  comprised  in  a  Borneo  State  or  in  Singapore)'  in paragraph (e) .
+b. Act  26/1963,  section  70,  in  force  from  16-09-1963,  inserted  the  words  '(or,  before Malaysia  Day,  in  the  territories  comprised  in  a  Borneo  State  or  in  Singapore)'  in paragraph (e) .
 
-- Act 160, section 2, in force from 29-08-1975, substituted the word 'ringgit' for 'dollars' in  paragraph (e) .
+c. Act 160, section 2, in force from 29-08-1975, substituted the word 'ringgit' for 'dollars' in  paragraph (e) .
 
-- Act A514, paragraph 19 (b) ,  in force from 27-08-1976, substituted the words 'the State of  Sabah  or  Sarawak'  for  'a  Borneo  State'  in  paragraph (e).
+d. Act A514, paragraph 19 (b) ,  in force from 27-08-1976, substituted the words 'the State of  Sabah  or  Sarawak'  for  'a  Borneo  State'  in  paragraph (e).
 
-- e . Act A354,  section  15,  in  force  from  27-08-1976,  substituted  the  words  'any  country outside  the  Federation'  for  'a  foreign  country'  in  paragraph (f) .
+e. Act A354,  section  15,  in  force  from  27-08-1976,  substituted  the  words  'any  country outside  the  Federation'  for  'a  foreign  country'  in  paragraph (f) .
 
 Federal  Constitution
 
@@ -3199,7 +3338,7 @@ he  has  failed  to  lodge  any  return  of  election  expenses required  by  la
 
 (2) Federal  law  may  impose,  for  such  periods  as  may  be specified thereby, disqualification for membership of either House of Parliament on persons committing offences in connection with elections;  and  any  person  who  has  been  convicted  of  such  an offence or has in proceedings relating to an election been proved guilty of an act constituting such an offence, shall be disqualified accordingly  for  a  period  so  specified.
 
-(3) The  disqualification  of  a  person  under  paragraph (d) or paragraph (e) of  Clause  (1)  may  be  removed  by  the  Yang  diPertuan Agong and shall, if not so removed, cease at the end of the  period  of  five  years  beginning  with  the  date  on  which  the return  mentioned  in  the  said  paragraph (d) was  required  to  be lodged,  or,  as  the  case  may  be,  the  date  on  which  the  person convicted  as  mentioned  in  the  said  paragraph (e) was  released from custody or the date on which the fine mentioned in the said paragraph (e) was  imposed  on  such  person;  and  a  person  shall not  be  disqualified  under  paragraph (f) of  Clause  (1)  by  reason only  of  anything  done  by  him  before  he  became  a  citizen.
+(3) The  disqualification  of  a  person  under  paragraph (d) or paragraph (e) of  Clause  (1)  may  be  removed  by  the  Yang  di-Pertuan Agong and shall, if not so removed, cease at the end of the  period  of  five  years  beginning  with  the  date  on  which  the return  mentioned  in  the  said  paragraph (d) was  required  to  be lodged,  or,  as  the  case  may  be,  the  date  on  which  the  person convicted  as  mentioned  in  the  said  paragraph (e) was  released from custody or the date on which the fine mentioned in the said paragraph (e) was  imposed  on  such  person;  and  a  person  shall not  be  disqualified  under  paragraph (f) of  Clause  (1)  by  reason only  of  anything  done  by  him  before  he  became  a  citizen.
 
 (4) Notwithstanding  anything  contained  in  the  foregoing provisions  of  this  Article,  where  a  member  of  either  House  of Parliament becomes disqualified from continuing to be a member thereof pursuant to paragraph (e) of Clause (1) or under a federal law  made  in  pursuance  of  Clause  (2)-
 
@@ -3277,7 +3416,7 @@ Federal  Constitution
 
 (2) If a person disqualified for being a member of the House of Representatives is elected to that House or if a person disqualified for  being  a  member  of  the  Senate  is  elected  or  appointed  to  the Senate, or if an election or appointment to either House is contrary to Article  49,  the  election  or  appointment  shall  be  void.
 
-( Repealed ).
+(3) (Repealed).
 
 (4) A  person  cannot  be  validly  nominated  for  election  to membership of either  House  or  appointed  to  the  Senate  without his  consent.
 
@@ -3354,7 +3493,7 @@ Provided that failure to make any such appointment within the period specified i
 
 Provided  further  that,  if  a  casual  vacancy  in  the  House  of Representatives is established on a date within two years of the date  Parliament  shall,  in  accordance  with  Clause  (3)  of  Article 55, stand dissolved, such casual vacancy shall not be filled unless the Speaker notifies the Election Commission in writing that the numerical strength of the party that constitutes a majority of all the members of the House of Representatives is being affected by such vacancy, in which event such vacancy shall be filled within sixty  days  from  the  date  of  the  receipt  of  that  notification.
 
-( Repealed ).
+(2) (Repealed).
 
 (3) Where a vacancy among members of the Senate relates to a vacancy which shall be filled by a member who shall be elected by a State in accordance with the Seventh Schedule, the provisions of  Clause  (1)  shall  not  apply  to  the  filling  of  such  vacancy.
 
@@ -3422,7 +3561,7 @@ Federal  Constitution
 
 (5) A Bill pending in Parliament shall not lapse by reason of the  prorogation  of  Parliament.
 
-( Repealed ).
+(6) ( Repealed ).
 
 (7) A  Bill  pending  the  assent  of  the  Yang  di-Pertuan  Agong under Clause (4) or Clause (4 a )  of Article  66  shall  not  lapse  by reason  of  the  prorogation  or  dissolution  of  Parliament.
 
@@ -3801,9 +3940,9 @@ retirement  for  members  of  the  general  public  service  unless  he sooner r
 
 (3) The  persons  holding  the  office  of  the  Clerk  to  the  Senate and  Clerk  to  the  House  of  Representatives  immediately  prior  to the coming into force of this Clause shall, unless either person has not attained the age of fifty-five years and has opted to become a member of the general public service of the Federation, continue to hold office respectively on terms and conditions not less favourable than those applicable to him immediately before such coming into operation and shall not be removed from office except on the like grounds  and  in  the  like  manner  as  a  judge  of  the  Federal  Court, and  in  this  respect  the  representation  mentioned  in  Clause  (3)  of Article  125  shall  be  a  representation  made  by  the  President  of the  Senate  or,  as  the  case  may  be,  the  Speaker  of  the  House  of Representatives.
 
-( Repealed ).
+(4) ( Repealed ).
 
-( Repealed ).
+(5) ( Repealed ).
 
 ### Chapter 5-Legislative procedure
 
@@ -3945,7 +4084,7 @@ Federal  Constitution
 
 #### Clause  (5)
 
-- The  original  clause  was  substituted  by Act A566,  paragraph  12 (b) ,  in  force  from  1612-1983 and read as follows:
+- The  original  clause  was  substituted  by Act A566,  paragraph  12 (b) ,  in  force  from  16-12-1983 and read as follows:
 
 '(5)	 A Bill shall become law on being assented to by Yang di-Pertuan Agong but no law  shall  come  into  force  until  it  has  been  published,  without  prejudice,  however,  to the  power  of  Parliament  to  postpone  the  operation  of  any  law  or  to  make  laws  with retrospective  effect.'.
 
@@ -3981,7 +4120,7 @@ being  provision  as  respects  which  the  Minister  charged  with responsibili
 
 68. (1) Where  a  money  Bill  is  passed  by  the  House  of Representatives  and,  having  been  sent  to  the  Senate  at  least one  month  before  the  end  of  the  session,  is  not  passed  by  the Senate without amendment within a month, it shall be presented to the Yang di-Pertuan Agong for his assent unless the House of Representatives  otherwise  directs.
 
-- Where-
+(2) Where-
 
 (a) a Bill which is not a money Bill is passed by the House of  Representatives  and,  having  been  sent  to  the  Senate at  least  one month before the end of the session, is not passed  by  the  Senate  or  is  passed  by  the  Senate  with amendments to which the House of Representatives does not  agree;  and
 
@@ -4142,11 +4281,11 @@ Federal  Constitution
 
 (6) A law made for a State in pursuance of this Article shall, unless  sooner  repealed  by  Parliament,  cease  to  have  effect  on such day as a new Legislative Assembly, constituted in that State after  the  passing  of  the  law,  may  resolve.
 
-- In  relation  to  the  State  of  Sabah  or  Sarawak-
+(7) In  relation  to  the  State  of  Sabah  or  Sarawak-
 
 (a) Clause  (5)  shall  not  apply;  but
 
-(b) until  the  end  of August  1957,  or  such  earlier  date  as  the Yang di-Pertuan Agong with the concurrence of the Yang di-Pertua  Negeri  may  by  order  direct,  Clause  (4)  shall apply as if the reference to the modifications allowed under Clause (5) were a reference to the modifications made by the Constitution of the State as in force on Malaysia Day.
+(b) until  the  end  of August  1975,  or  such  earlier  date  as  the Yang di-Pertuan Agong with the concurrence of the Yang di-Pertua  Negeri  may  by  order  direct,  Clause  (4)  shall apply as if the reference to the modifications allowed under Clause (5) were a reference to the modifications made by the Constitution of the State as in force on Malaysia Day.
 
 [[END OF PAGE 124]]
 
@@ -4184,7 +4323,7 @@ Federal  Constitution
 
 71
 
-( Repealed ).
+(8) ( Repealed ).
 
 #### Privileges  of  Legislative Assembly
 
@@ -4258,9 +4397,11 @@ Federal  Constitution
 
 #### Subject matter of federal and State laws
 
-74. (1) Without prejudice to any power to make laws conferred on  it  by  any  other  Article,  Parliament  may  make  laws  with respect  to  any  of  the  matters  enumerated  in  the  Federal  List  or the Concurrent List (that is to say, the First or Third List set out in  the  Ninth  Schedule). (2) Without  prejudice  to  any  power  to  make  laws  conferred on  it  by  any  other Article,  the  Legislature  of  a  State  may  make laws  with  respect  to  any  of  the  matters  enumerated  in  the  State List (that is to say, the Second List set out in the Ninth Schedule) or  the  Concurrent  List. The  power  to  make  laws  conferred  by  this  Article  is exercisable subject to any conditions or restrictions imposed with
+74. (1) Without prejudice to any power to make laws conferred on it by any other Article, Parliament may make laws with respect to any of the matters enumerated in the Federal List or the Concurrent List (that is to say, the First or Third List set out in the Ninth Schedule).
 
-(3) respect  to  any  particular  matter  by  this  Constitution.
+(2) Without prejudice to any power to make laws conferred on it by any other Article, the Legislature of a State may make laws with respect to any of the matters enumerated in the State List (that is to say, the Second List set out in the Ninth Schedule) or the Concurrent List.
+
+(3) The power to make laws conferred by this Article is exercisable subject to any conditions or restrictions imposed with respect to any particular matter by this Constitution.
 
 (4) Where  general  as  well  as  specific  expressions  are  used in  describing  any  of  the  matters  enumerated  in  the  Lists  set  out in  the  Ninth  Schedule  the  generality  of  the  former  shall  not  be taken  to  be  limited  by  the  latter.
 
@@ -4679,9 +4820,9 @@ Federal  Constitution
 
 87. (1) Where any dispute arises between the Federal Government and a State Government as to the making of any payment by or to the Federation under the foregoing Articles of this Chapter, or as to the amount of any such payment, the dispute shall be referred, at  the  instance  either  of  the  Federal  Government  or  of  the  State Government, to the Lands Tribunal appointed in accordance with this Article.
 
-- The Lands Tribunal shall  consist  of-
+(2) The Lands Tribunal shall  consist  of-
 
-(a) a  chairman,  who shall  be  appointed  by  the  Chief  or be  qualified  to  be  a  judge  of  the  Federal  Court,  the
+(a) a chairman, who shall be appointed by the Chief Justice of the Federal Court and who shall be, or have been, or be qualified to be a judge of the Federal Court, the
 
 [[END OF PAGE 144]]
 
@@ -4743,7 +4884,7 @@ Federal  Constitution
 
 81
 
-Justice of the Federal Court and who shall be, or have been, Court of Appeal or a High Court, or shall before Malaysia Day have been a judge of the Supreme Court;
+Court of Appeal or a High Court, or shall before Malaysia Day have been a judge of the Supreme Court;
 
 (b) a  member  who  shall  be  appointed  by  the  Federal Government; and
 
@@ -4893,6 +5034,10 @@ Federal  Constitution
 
 [[START OF PAGE 151]]
 
+Federal  Constitution
+
+NOTES
+
 ### Art.  89 -(cont.)
 
 #### Clause  (7)
@@ -4905,7 +5050,7 @@ Added by Act A585, subsection 24(1), in force from 01-02-1974, and subsequently 
 
 ##### Note :
 
-Article 89 of the Constitution shall not apply to the Federal Territory of Labuan and Article 8 of the Constitution shall not invalidate or prohibit any provisions of federal law for reservation of land for natives in the Federal Territory of Labuan or for alienation to them, or for giving them preferential treatment as regards the alienation of land in the Federal Territory of Labuan by  the  Federationsee subsection  18(2)  of Act A585.
+Article 89 of the Constitution shall not apply to the Federal Territory of Labuan and Article 8 of the Constitution shall not invalidate or prohibit any provisions of federal law for reservation of land for natives in the Federal Territory of Labuan or for alienation to them, or for giving them preferential treatment as regards the alienation of land in the Federal Territory of Labuan by  the  Federation—see subsection  18(2)  of Act A585.
 
 ### Art.  90
 
@@ -4913,19 +5058,11 @@ See Art.  89(7).
 #### Clause  (1 a ) :
 Inserted  by Act A566,  section  13,  in  force  from  16-12-1983.
 
-Federal  Constitution
-
-NOTES
-
 [[END OF PAGE 151]]
 
 [[START OF PAGE 152]]
 
-[Article 90]
-
 Federal  Constitution
-
-84
 
 or  any  other  form  of  dealing  or  disposal  of  whatever description  or  nature;  and
 
@@ -4949,9 +5086,15 @@ or  any  other  form  of  dealing  or  disposal  of  whatever description  or  n
 
 (4) If  the  chairman  or  a  representative  of  a  State  or  of  the Federal Government is unable to attend a meeting, the authority
 
+[Article 90] 84
+
 [[END OF PAGE 152]]
 
 [[START OF PAGE 153]]
+
+Federal  Constitution
+
+NOTES
 
 ### Art.  91
 
@@ -4963,17 +5106,11 @@ See Art.  95 e (1),  (2)  &  (5) (a) .
 
 - The words 'Yang di-Pertua Negeri' substituted for 'Governor' by Act A354, section 42, in  force  from  27-08-1976.
 
-Federal  Constitution NOTES
-
 [[END OF PAGE 153]]
 
 [[START OF PAGE 154]]
 
-[Article 91]
-
 Federal  Constitution
-
-85
 
 by  whom he was appointed may appoint another person to take his  place  at  that  meeting.
 
@@ -4985,11 +5122,13 @@ by  whom he was appointed may appoint another person to take his  place  at  tha
 
 #### National development plan
 
-92. (1) If, after a recommendation from an expert committee and after consultation with the National Finance Council, the National Land  Council  and  the  Government  of  any  State  concerned,  the Yang  di-Pertuan  Agong  is  satisfied  that  it  is  conducive  to  the national  interest  that  a  development  plan  be  put  into  operation in  any  area  or  areas  in  one  or  more  of  the  States,  the  Yang  diPertuan Agong may, after publishing the plan, proclaim the area or  areas  as  a  development  area;  and  thereupon  Parliament  shall have  power  to  give  effect  to  the  development  plan  or  any  part thereof, notwithstanding that any of the matters to which the plan relates are matters with respect to which, apart from this Article, only  States  would  have  power  to  make  laws.
+92. (1) If, after a recommendation from an expert committee and after consultation with the National Finance Council, the National Land  Council  and  the  Government  of  any  State  concerned,  the Yang  di-Pertuan  Agong  is  satisfied  that  it  is  conducive  to  the national  interest  that  a  development  plan  be  put  into  operation in  any  area  or  areas  in  one  or  more  of  the  States,  the  Yang  di-Pertuan Agong may, after publishing the plan, proclaim the area or  areas  as  a  development  area;  and  thereupon  Parliament  shall have  power  to  give  effect  to  the  development  plan  or  any  part thereof, notwithstanding that any of the matters to which the plan relates are matters with respect to which, apart from this Article, only  States  would  have  power  to  make  laws.
 
 (2) Any Act  passed  in  pursuance  of  this  Article  shall  recite that  it  has  been  so  passed  and  that  the  provisions  of  Clause  (1) have  been  complied  with;  and Article  79  shall  not  apply  to  any Bill  for  such  an Act  or  any  amendment  to  such  a  Bill.
 
 (3) In  this  Article,  'development  plan'  means  a  plan  for  the development, improvement, or conservation of the natural resources
+
+[Article 91] 85
 
 [[END OF PAGE 154]]
 
@@ -5004,11 +5143,7 @@ See Art.  95 e (1),  (3)  &  108(4) (e) .
 
 [[START OF PAGE 156]]
 
-[Article 92]
-
 Federal  Constitution
-
-86
 
 of a development area, the exploitation of such resources, or the increase  of  means  of  employment  in  the  area.
 
@@ -5030,6 +5165,8 @@ of a development area, the exploitation of such resources, or the increase  of  
 
 (a) to  impose  such  taxes  or  rates  as  it  is  authorized  to impose under any other provision of this Constitution; or
 
+[Article 92] 86
+
 [[END OF PAGE 156]]
 
 [[START OF PAGE 157]]
@@ -5040,11 +5177,7 @@ Federal  Constitution NOTES
 
 [[START OF PAGE 158]]
 
-[Article 92]
-
 Federal  Constitution
-
-87
 
 (b) to make from the Federal Consolidated Fund or the State Consolidated  Fund,  as  the  case  may  be,  grants  not repayable  under  Clause  (5)  or  (6),
 
@@ -5062,9 +5195,15 @@ except that where, in pursuance of Clause (1), a rate is imposed on any property
 
 94. (1) The executive authority of the Federation extends to the conduct of research, the provision and maintenance of experimental and  demonstration  stations,  the  giving  of  advice  and  technical assistance  to  the  Government  of  any  State,  and  the  provision  of education, publicity, and demonstration for the inhabitants of any State,  in  respect  of  any  of  the  matters  with  respect  to  which  the Legislature  of  a  State  may  make  laws;  and  the  agricultural  and forestry officers of any State shall accept any professional advice given  to  the  Government  of  that  State  under  this  Clause.
 
+[Article 92] 87
+
 [[END OF PAGE 158]]
 
 [[START OF PAGE 159]]
+
+Federal  Constitution
+
+NOTES
 
 ### Art.  93
 
@@ -5076,17 +5215,11 @@ See Art.  79(1),  80(2)  &  95 e (1).
 #### Clause  (1) :
 See Art.  95 e (4).
 
-Federal  Constitution NOTES
-
 [[END OF PAGE 159]]
 
 [[START OF PAGE 160]]
 
-[Article 94]
-
 Federal  Constitution
-
-88
 
 (2) Notwithstanding anything in this Constitution, the existing Departments of Agriculture, Commissioner of Lands, Forestry and Social Welfare may continue to exercise the functions exercised by  them  immediately  before  Merdeka  Day.
 
@@ -5108,9 +5241,15 @@ Federal  Constitution
 
 (2) The Chairman may vote on any question before the National Council  for  Local  Government  and  shall  have  a  casting  vote.
 
+[Article 94] 88
+
 [[END OF PAGE 160]]
 
 [[START OF PAGE 161]]
+
+Federal  Constitution
+
+NOTES
 
 ### Art.  95
 
@@ -5128,17 +5267,11 @@ See Art.  80(2).
 
 - The  words  'Yang  di-Pertua  Negeri'  substituted  for  'Governor'  by  Act  A354, section  42,  in  force  from  27-08-1976.
 
-Federal  Constitution NOTES
-
 [[END OF PAGE 161]]
 
 [[START OF PAGE 162]]
 
-[Article 95a]
-
 Federal  Constitution
-
-89
 
 (3) The  National  Council  for  Local  Government  shall  be summoned  to  meet  by  the  Chairman  as  often  as  he  considers necessary  but  there  shall  be  at  least  one  meeting  in  every  year.
 
@@ -5158,9 +5291,15 @@ Federal  Constitution
 
 (a) the supplement to List II set out in the Ninth Schedule shall  be  deemed to form part of the State List, and the matters  enumerated  therein  shall  be  deemed  not  to  be included  in  the  Federal  List  or  Concurrent  List;  and
 
+[Article 95a] 89
+
 [[END OF PAGE 162]]
 
 [[START OF PAGE 163]]
+
+Federal  Constitution
+
+NOTES
 
 ### Part VI
 
@@ -5176,19 +5315,11 @@ The heading of Chapter 8 'States of Sabah and Sarawak' substituted for the words
 
 - The  words  'State  of  Sabah  and  Sarawak'  substituted  for  'Borneo  States'  by Act A514, paragraph 19(1) (b) ,  in  force  from  27-08-1976.
 
-Federal  Constitution
-
-NOTES
-
 [[END OF PAGE 163]]
 
 [[START OF PAGE 164]]
 
-[Article 95b]
-
 Federal  Constitution
-
-90
 
 (b) the supplement to List III set out in the Ninth Schedule shall, subject to the State List, be deemed to form part of the Concurrent List, and the matters enumerated therein shall  be  deemed  not  to  be  included  in  the  Federal  List (but  not  so  as  to  affect  the  construction  of  the  State List,  where  it  refers  to  the  Federal  List).
 
@@ -5208,9 +5339,15 @@ Federal  Constitution
 
 (b) for  extending  the  executive  authority  of  the  State,  and the  powers  or  duties  of  any  authority  of  the  State,  as mentioned in Clause (4)  of Article  80.
 
+[Article 95b] 90
+
 [[END OF PAGE 164]]
 
 [[START OF PAGE 165]]
+
+Federal  Constitution
+
+NOTES
 
 ### Art.  95 b -(cont.)
 
@@ -5238,19 +5375,11 @@ Added by Act 26/1963, section 38, in force  from  16-09-1963.
 
 - Sarawak (Legislative  Powers)  (No.  2)  Order  1965-L.N.  106/1965.
 
-Federal  Constitution
-
-NOTES
-
 [[END OF PAGE 165]]
 
 [[START OF PAGE 166]]
 
-[Article 95c]
-
 Federal  Constitution
-
-91
 
 (2) An  order  made  by  virtue  of  paragraph (a) of  Clause  (1) shall not authorize the Legislature of a State to amend or repeal an Act  of  Parliament  passed  after  Malaysia  Day,  unless  the Act so  provides.
 
@@ -5268,11 +5397,17 @@ Provided that no provision shall be continued in force by virtue of  this  Claus
 
 #### Exclusion of States of Sabah and Sarawak from national plans for  land  utilization,  local  government,  development, etc .
 
-95 e . (1) In  relation  to  the  State  of  Sabah  or  Sarawak, Articles 91,  92,  94  and  9 5a shall  have  effect  subject  to  the  following Clauses.
+95 e . (1) In  relation  to  the  State  of  Sabah  or  Sarawak, Articles 91,  92,  94  and  95 a shall  have  effect  subject  to  the  following Clauses.
+
+[Article 95c] 91
 
 [[END OF PAGE 166]]
 
 [[START OF PAGE 167]]
+
+Federal  Constitution
+
+NOTES
 
 ### Art.  95 d
 
@@ -5292,19 +5427,11 @@ Added by Act 26/1963, section 43, in force  from  16-09-1963.
 
 - The  words  'the  State  of  Sabah  or  Sarawak'  substituted  for  'a  Borneo  State' by Act A514, paragraph 19(1) (b) ,  in  force  from  27-08-1976.
 
-Federal  Constitution
-
-NOTES
-
 [[END OF PAGE 167]]
 
 [[START OF PAGE 168]]
 
-[Article 95e]
-
 Federal  Constitution
-
-92
 
 (2) Subject to Clause (5), under Article 91 and under Article 95 a the  State  Government  shall  not  be  required  to  follow  the policy  formulated  by  the  National  Land  Council  or  by  the National Council for Local Government, as the case may be, but the  representative  of  the  State  shall  not  be  entitled  to  vote  on questions  before  the  Council.
 
@@ -5312,7 +5439,7 @@ Federal  Constitution
 
 (4) Under Clause (1) of Article 94 (under which in respect of matters  in  the  State  List  the  Federation  may  conduct  research, give  advice  and  technical  assistance, etc .)  the  agricultural  and forestry officers of the State of Sabah or Sarawak shall consider, but  shall  not  be  required  to  accept,  professional  advice  given  to the  Government  of  the  State.
 
-- Clause  (2)  shall  cease  to  apply  to  a  State-
+(5) Clause  (2)  shall  cease  to  apply  to  a  State-
 
 (a) as regards Article 91, if Parliament so provides with the concurrence  of  the Yang  di-Pertua  Negeri;  and
 
@@ -5330,9 +5457,15 @@ but  for  each  representative  of  the  State  of  Sabah  or  Sarawak becoming 
 
 96. No tax or rate shall be levied by or for the purposes of the Federation  except  by  or  under  the  authority  of  federal  law.
 
+[Article 95e] 92
+
 [[END OF PAGE 168]]
 
 [[START OF PAGE 169]]
+
+Federal  Constitution
+
+NOTES
 
 ### Art.  95 e -(cont.)
 
@@ -5354,19 +5487,11 @@ The  words  'the  State  of  Sabah  or  Sarawak'  substituted  for  'a  Borneo  
 
 - The  words  'the  State  of  Sabah  or  Sarawak'  substituted  for  'a  Borneo  State'  by Act A514, paragraph 19(1) (b) ,  in  force  from  27-08-1976.
 
-Federal  Constitution
-
-NOTES
-
 [[END OF PAGE 169]]
 
 [[START OF PAGE 170]]
 
-[Article 97]
-
 Federal  Constitution
-
-93
 
 #### Consolidated Funds
 
@@ -5392,9 +5517,15 @@ Federal  Constitution
 
 (3) For  the  purposes  of  this  Article  debt  charges  include interest,  sinking  fund  charges,  the  repayment  or  amortisation  of
 
+[Article 97] 93
+
 [[END OF PAGE 170]]
 
 [[START OF PAGE 171]]
+
+Federal  Constitution
+
+NOTES
 
 ### Art.  97
 
@@ -5410,19 +5541,11 @@ Federal  Constitution
 
 - The words 'Kuala Lumpur, Labuan and Putrajaya' substituted for 'Kuala Lumpur and Labuan' by Act A1095, section 18, in force from 01-02-2001.
 
-Federal  Constitution
-
-NOTES
-
 [[END OF PAGE 171]]
 
 [[START OF PAGE 172]]
 
-[Article 98]
-
 Federal  Constitution
-
-94
 
 debt, and all expenditure in connection with the raising of loans on  the  security  of  the  Consolidated  Fund  and  the  service  and redemption of  debt  created  thereby.
 
@@ -5432,7 +5555,7 @@ debt, and all expenditure in connection with the raising of loans on  the  secur
 
 Provided  that  there  may  be  separate  statements  of  estimated receipts  and  estimated  expenditure,  and  in  that  case  it  shall  not be  necessary  for  the  statement  of  receipts  to  be  so  laid  before the  commencement of the year to which it  relates.
 
-- The estimates  of  expenditure  shall  show-
+(2) The estimates  of  expenditure  shall  show-
 
 (a) the total sums required to meet expenditure charged on the  Consolidated  Fund;  and
 
@@ -5446,9 +5569,15 @@ Provided  that  there  may  be  separate  statements  of  estimated receipts  an
 
 (c) sums  representing  any  money  held  by  the  Federation which has been received or appropriated for the purpose of  any  trust  fund  established  by  or  in  accordance  with federal  law.
 
+[Article 98] 94
+
 [[END OF PAGE 172]]
 
 [[START OF PAGE 173]]
+
+Federal  Constitution
+
+NOTES
 
 ### Art.  99
 
@@ -5479,19 +5608,11 @@ Proviso  added  by Act  14/1962,  subsection  18(1),  in  force  from  21-06-196
 
 The  word  'purposes'  substituted  for  'heads'  by  Act  A354,  paragraph  18 (c) ,  in  force  from 27-08-1976.
 
-Federal  Constitution
-
-NOTES
-
 [[END OF PAGE 173]]
 
 [[START OF PAGE 174]]
 
-[Article 99]
-
 Federal  Constitution
-
-95
 
 (4) The said statement shall also show, so far as is practicable, the  assets  and  liabilities  of  the  Federation  at  the  end  of  the  last completed  financial  year,  the  manner  in  which  those  assets  are invested  or  held,  and  the  general  purposes  in  respect  of  which those  liabilities  are  outstanding.
 
@@ -5501,7 +5622,7 @@ Federal  Constitution
 
 #### Supplementary and excess expenditure
 
-- If  in  respect  of  any  financial  year  it  is  found-
+101. If  in  respect  of  any  financial  year  it  is  found-
 
 (a) that the amount appropriated by the Supply Act for any purpose  is  insufficient,  or  that  a  need  has  arisen  for expenditure for a purpose for which no amount has been appropriated  by  the  Supply Act;  or
 
@@ -5517,27 +5638,31 @@ a supplementary estimate showing the sums required or spent shall be laid before
 
 (b) to authorize by law expenditure for the whole or part of the  year  otherwise  than  in  accordance  with Articles  99  to
 
+[Article 99] 95
+
 [[END OF PAGE 174]]
 
 [[START OF PAGE 175]]
 
+Federal  Constitution
+
+NOTES
+
 ### Art.  100
 
-- The  words  'heads  of'  before  the  'expenditure'  in  line  one  were  deleted  by  Act  A354,
+- See Art.  102 (b) .
 
-1. See Art.  102 (b) . section  19,  in  force  from  27-08-1976.
+- The  words  'heads  of'  before  the  'expenditure'  in  line  one  were  deleted  by  Act  A354, section  19,  in  force  from  27-08-1976.
 
 ### Art.  101
 
-- The  word  'purposes'  substituted  for  'heads'  by  Act  A354,  section  20,  in  force  from
+- See Art.  102 (b) .
 
-1. See Art.  102 (b) . 27-08-1976.
+- The  word  'purposes'  substituted  for  'heads'  by  Act  A354,  section  20,  in  force  from 27-08-1976.
 
 ### Art.  102
 
 See Art.  104(1) (c) .
-
-Federal  Constitution NOTES
 
 [[END OF PAGE 175]]
 
@@ -6358,47 +6483,47 @@ Provided that such disqualification shall not apply where such organization  or 
 
 #### Clause  (1)
 
-- The words 'three other members' substituted for 'two other members' by Act 26/1963, subsection  10(1),  in  force  from  16-09-1963.
+a. The words 'three other members' substituted for 'two other members' by Act 26/1963, subsection  10(1),  in  force  from  16-09-1963.
 
-- Subsequently the word 'five' substituted for 'three' by Act A1130, section 8, in force from 28-09-2001.
+b. Subsequently the word 'five' substituted for 'three' by Act A1130, section 8, in force from 28-09-2001.
 
-- The words ', a deputy chairman' were inserted by Act A514, paragraph 8 (a) ,  in  force from 15-05-1981.
+c. The words ', a deputy chairman' were inserted by Act A514, paragraph 8 (a) ,  in  force from 15-05-1981.
 
 #### Clause  (3)
 
-- The words 'Federal Court' substituted for 'Supreme Court' by Act 26/1963, section 70, in  force  from  16-09-1963.
+a. The words 'Federal Court' substituted for 'Supreme Court' by Act 26/1963, section 70, in  force  from  16-09-1963.
 
-- Subsequently subsection 18(2) of Act A566, in force from 01-01-1985, provides that a reference  to  the  Federal  Court  shall  now  be  construed  as  a  reference  to  the  Supreme Court.
+b. Subsequently subsection 18(2) of Act A566, in force from 01-01-1985, provides that a reference  to  the  Federal  Court  shall  now  be  construed  as  a  reference  to  the  Supreme Court.
 
-- Act  A885,  section  12,  in  force  from  24-06-1994,  substituted  the  word  'Federal'  for 'Supreme'.
+c. Act  A885,  section  12,  in  force  from  24-06-1994,  substituted  the  word  'Federal'  for 'Supreme'.
 
 #### Clause  (4)
 
-- The present Clause was substituted by Act 10/1960, section 13, in force from 31-08-1957, and  replaced  the  original  Clause  which  read  as  follows:
+a. The present Clause was substituted by Act 10/1960, section 13, in force from 31-08-1957, and  replaced  the  original  Clause  which  read  as  follows:
 
 '(4)	 A person is disqualified for appointment as a member of the Election Commission if  he  holds  any  other  office  of  profit  or  is  a  member  of  either  House  of  Parliament  or of  the  Legislative Assembly  of  any  State.'.
 
-- The  amendment  made  to  Article  114  by  Act  10/1960  has  effect  notwithstanding  in Clause  (6)  of  the Articlesee subsection  21(2)  of Act  14/1962.
+b. The  amendment  made  to  Article  114  by  Act  10/1960  has  effect  notwithstanding  in Clause  (6)  of  the Article—see subsection  21(2)  of Act  14/1962.
 
-- The  word  'shall'  substituted  for  'may'  by  Act  A514,  paragraph  8 (b) ,  in  force  from 15-05-1981.
+c. The  word  'shall'  substituted  for  'may'  by  Act  A514,  paragraph  8 (b) ,  in  force  from 15-05-1981.
 
 #### Clause  (4)(b)
 
-- Act A514, paragraph 8 (c) ,  in  force  from  15-05-1981,  substituted  the  earlier  paragraph which read as  follows:
+a. Act A514, paragraph 8 (c) ,  in  force  from  15-05-1981,  substituted  the  earlier  paragraph which read as  follows:
 
-' (b) engages in  any  paid  office  or  employment  outside  the  duties  of  his  office;  or' with  the  following:
+'(b) engages in  any  paid  office  or  employment  outside  the  duties  of  his  office;  or' with  the  following:
 
-' (b) is or becomes a member of any board of directions or board of management, or an officer or employee, or engages in the affairs or business, of any organization or  body,  whether  corporate  or  otherwise,  or  of  any  commercial,  industrial  or other  undertaking,  whether  or  not  he  receives  any  remuneration,  reward,  profit or  benefit  from  it;  or'.
+'(b) is or becomes a member of any board of directions or board of management, or an officer or employee, or engages in the affairs or business, of any organization or  body,  whether  corporate  or  otherwise,  or  of  any  commercial,  industrial  or other  undertaking,  whether  or  not  he  receives  any  remuneration,  reward,  profit or  benefit  from  it;  or'.
 
-- This paragraph was again substituted by the present paragraph as it appears by virtue of Act A566, paragraph 14(1) (a) ,  in  force  from  16-12-1983.
+b. This paragraph was again substituted by the present paragraph as it appears by virtue of Act A566, paragraph 14(1) (a) ,  in  force  from  16-12-1983.
 
 #### Clause  (4 a )
 
-- The  present  Clause  was  substituted  by  Act  A566,  paragraph  14(1) (b) ,  in  force  from 16-12-1983.  The  earlier  Clause  was  inserted  by  Act  A514,  paragraph  8 (d) ,  in  force from 15-05-1981 and read as follows:
+a. The  present  Clause  was  substituted  by  Act  A566,  paragraph  14(1) (b) ,  in  force  from 16-12-1983.  The  earlier  Clause  was  inserted  by  Act  A514,  paragraph  8 (d) ,  in  force from 15-05-1981 and read as follows:
 
-'( 4a) The disqualification in paragraph (b) of Clause (4) shall not apply where such organization or body carries out any welfare or voluntary work or objective beneficial to  the  community  or  any  part  thereof,  or  any  other  work  or  objective  of  a  charitable or social nature, and the member does not receive any remuneration, reward, profit or benefit  from  it.'.
+'(4a) The disqualification in paragraph (b) of Clause (4) shall not apply where such organization or body carries out any welfare or voluntary work or objective beneficial to  the  community  or  any  part  thereof,  or  any  other  work  or  objective  of  a  charitable or social nature, and the member does not receive any remuneration, reward, profit or benefit  from  it.'.
 
-- See Election  Commission Act  1957  [ Act  31 ].
+b. See Election  Commission Act  1957  [ Act  31 ].
 
 Federal  Constitution
 
@@ -6424,7 +6549,7 @@ may  by  law  provide  for  the  terms  of  office  of  members  of  the Electio
 
 115. (1) The  Election  Commission  may  employ  such  number of  persons, on such terms and subject to such conditions, as the Commission may with the approval of the Yang di-Pertuan Agong determine.
 
-(2) All public authorities shall on the request of the Commission give the Commission such assistance in the discharge of its duties as may be practicable; and in exercising its functions of making recommendations  for  the  delimitation  of  constituencies  for  the elections mentioned in Clause (1) of Article 113 the Commission shall  seek  the  advice  of  two  officers  of  the  Federal  Government with special knowledge of the topography of, and the distribution of the population in, the unit of review for federal elections, and those  officers  shall  be  selected  for  that  purpose  by  the Yang  diPertuan Agong.
+(2) All public authorities shall on the request of the Commission give the Commission such assistance in the discharge of its duties as may be practicable; and in exercising its functions of making recommendations  for  the  delimitation  of  constituencies  for  the elections mentioned in Clause (1) of Article 113 the Commission shall  seek  the  advice  of  two  officers  of  the  Federal  Government with special knowledge of the topography of, and the distribution of the population in, the unit of review for federal elections, and those  officers  shall  be  selected  for  that  purpose  by  the Yang  di-Pertuan Agong.
 
 #### Federal constituencies
 
@@ -6443,15 +6568,15 @@ See Election  Commission Act  1957  [ Act  31 ].
 
 #### Clause  (5 a )
 
-- Added by Act 14/1962, subsection 21(1), in force  from  21-06-1962.
+a. Added by Act 14/1962, subsection 21(1), in force  from  21-06-1962.
 
-- See Election  Commission Act  1957  [ Act  31 ].
+b. See Election  Commission Act  1957  [ Act  31 ].
 
 #### Clause  ( 7 )
 
-- Added by Act A354, section 25, in force from 27-08-1976.
+a. Added by Act A354, section 25, in force from 27-08-1976.
 
-- The words 'the deputy chairman shall discharge the functions of the chairman during that  period,  and  if  the  deputy  chairman  is  also  absent  or  unable  to  discharge  such functions,'  were  inserted  by Act A514,  paragraph  8 (e) ,  in  force  from  15-05-1981.
+b. The words 'the deputy chairman shall discharge the functions of the chairman during that  period,  and  if  the  deputy  chairman  is  also  absent  or  unable  to  discharge  such functions,'  were  inserted  by Act A514,  paragraph  8 (e) ,  in  force  from  15-05-1981.
 
 ##### Note :
 
@@ -6461,9 +6586,9 @@ The  amendments  made  to  Article  114  by  Act  A566  shall  apply  only  to  
 
 #### Clause  ( 2 )
 
-- The words 'making recommendations for the delimitation of constituencies' substituted for 'delimiting  constituencies'  by Act  14/1962,  section  32,  in  force  from  21-06-1962.
+a. The words 'making recommendations for the delimitation of constituencies' substituted for 'delimiting  constituencies'  by Act  14/1962,  section  32,  in  force  from  21-06-1962.
 
-- The  words  'unit  of  review  for  federal  elections,  and  those  officers'  substituted  for 'Federation,  who'  by Act  26/1963,  section  70,  in  force  from  16-09-1963.
+b. The  words  'unit  of  review  for  federal  elections,  and  those  officers'  substituted  for 'Federation,  who'  by Act  26/1963,  section  70,  in  force  from  16-09-1963.
 
 ### Art.  116
 
@@ -6471,9 +6596,9 @@ See Eighth  Schedule  subsection  4(2)  & Thirteenth  Schedule,  section  2.
 
 #### Clause  (1)
 
-- The  words  'provisions  contained  in  the  Thirteenth  Schedule'  substituted  for 'following provisions of this Article' by Act 14/1962, paragraph 22 (a) ,  in  force  from 21-06-1962.
+a. The  words  'provisions  contained  in  the  Thirteenth  Schedule'  substituted  for 'following provisions of this Article' by Act 14/1962, paragraph 22 (a) ,  in  force  from 21-06-1962.
 
-- The words 'a unit of review' substituted for 'the Federation' by Act 26/1963, section 70,  in  force  16-09-1963.
+b. The words 'a unit of review' substituted for 'the Federation' by Act 26/1963, section 70,  in  force  16-09-1963.
 
 Federal  Constitution
 
@@ -6491,11 +6616,11 @@ Federal  Constitution
 
 each  constituency,  and  of  that  total  in  the  States  of  Malaya  a number determined in accordance with the provisions contained in  Article  46  and  the  Thirteenth  Schedule  shall  be  allocated  to each  State.
 
-( Repealed ).
+(3) (Repealed).
 
-( Repealed ).
+(4) (Repealed).
 
-( Repealed ).
+(5) (Repealed).
 
 #### State  constituencies
 
@@ -6511,7 +6636,7 @@ each  constituency,  and  of  that  total  in  the  States  of  Malaya  a number
 
 #### Qualifications  of  electors
 
-(1) Every citizen  who-
+119. (1) Every citizen  who—
 
 (a) has attained the age of twenty-one years on the qualifying date;
 
@@ -6523,11 +6648,11 @@ each  constituency,  and  of  that  total  in  the  States  of  Malaya  a number
 
 #### Clause  (2)
 
-- The  words  'the  provisions  contained  in  the  Thirteenth  Schedule'  substituted  for 'Clause  (3)'  by Act  14/1962,  paragraph  22 (b) ,  in  force  from  21-06-1962.
+a. The  words  'the  provisions  contained  in  the  Thirteenth  Schedule'  substituted  for 'Clause  (3)'  by Act  14/1962,  paragraph  22 (b) ,  in  force  from  21-06-1962.
 
-- The  words  'in  the  States  of  Malaya'  were  inserted  by  Act  26/1963,  section  70,  in force  from  16-09-1963.
+b. The  words  'in  the  States  of  Malaya'  were  inserted  by  Act  26/1963,  section  70,  in force  from  16-09-1963.
 
-- The  words  'Article  46  and  the  Thirteenth  Schedule'  substituted  for  'the  Thirteenth Schedule' by Act A206, section 14, in  force  from  23-08-1973.
+c. The  words  'Article  46  and  the  Thirteenth  Schedule'  substituted  for  'the  Thirteenth Schedule' by Act A206, section 14, in  force  from  23-08-1973.
 
 #### Clauses  (3),  (4)  &  (5)
 
@@ -6561,7 +6686,7 @@ and for the purposes of this Article the number of electors shall be taken to be
 
 ### Art.  118 a
 
-- Added by Act 31/1965, subsection 2(2), in  force  from  01-07-1965.
+1. Added by Act 31/1965, subsection 2(2), in  force  from  01-07-1965.
 
 2. See Art.  120 (c) .
 
@@ -6585,15 +6710,15 @@ Federal  Constitution
 
 is  entitled  to  vote  in  that  constituency  in  any  election  to  the House  of  Representatives  or  the  Legislative  Assembly  unless he  is  disqualified  under  Clause  (3)  or  under  any  law  relating  to offences  committed  in  connection  with  elections;  but  no  person shall  in  the  same  election  vote  in  more  than  one  constituency.
 
-- If  a  person  is  in  a  constituency  by  reason  only  of  being  a patient  in  an  establishment  maintained  wholly  or  mainly  for  the reception and treatment of persons suffering from mental illness or mental defectiveness or of being detained in custody he shall for  the  purposes  of  Clause  (1)  be  deemed  not  to  be  resident  in that  constituency.
+(2) If  a  person  is  in  a  constituency  by  reason  only  of  being  a patient  in  an  establishment  maintained  wholly  or  mainly  for  the reception and treatment of persons suffering from mental illness or mental defectiveness or of being detained in custody he shall for  the  purposes  of  Clause  (1)  be  deemed  not  to  be  resident  in that  constituency.
 
-- A person is disqualified for being an elector in any election to the  House  of  Representatives  or  the  Legislative Assembly  if-
+(3) A person is disqualified for being an elector in any election to the  House  of  Representatives  or  the  Legislative Assembly  if—
 
 (a) on  the  qualifying  date  he  is  detained  as  a  person  of unsound mind or is serving a sentence of imprisonment; or
 
 (b) having before the qualifying date been convicted in any part of the Commonwealth of an offence and sentenced to  death  or  imprisonment  for  a  term  exceeding  twelve months, he remains liable on the qualifying date to suffer any  punishment  for  that  offence.
 
-- In  this Article-
+(4) In  this Article—
 
 (a) 'absent voter' means, in relation to any constituency, any citizen  who  is  registered  as  an  absent  voter  in  respect of  that  constituency;
 
@@ -6607,35 +6732,35 @@ in  accordance with the provisions of any law relating to elections.
 
 ### Art.  118 a -(cont.)
 
-- The  words  'or  the  Legislative Assembly'  were  inserted  by Act A704,  paragraph  7 (a) ,  in force  from  10-06-1988.
+3. The  words  'or  the  Legislative Assembly'  were  inserted  by Act A704,  paragraph  7 (a) ,  in force  from  10-06-1988.
 
-- The  words  'or  by  the  corresponding  provision  of  the  Constitution  of  any  State,  as  the case  may  be,'  were  inserted  by Act A704,  paragraph  7 (b) ,  in  force  from  10-06-1988.
+4. The  words  'or  by  the  corresponding  provision  of  the  Constitution  of  any  State,  as  the case  may  be,'  were  inserted  by Act A704,  paragraph  7 (b) ,  in  force  from  10-06-1988.
 
 ### Art.  119
 
 #### Clause  ( 1 )
 
-- This  Clause  was  substituted  by  Act  10/1960,  paragraph  14 (a) ,  in  force  from 31-05-1960,  and  replaced  the  original  Clause  which  read  as  follows:
+a. This  Clause  was  substituted  by  Act  10/1960,  paragraph  14 (a) ,  in  force  from 31-05-1960,  and  replaced  the  original  Clause  which  read  as  follows:
 
 '(1)	 Every citizen who has attained the age of twenty-one years on the qualifying date and has been resident in a constituency for at least six months immediately preceding the qualifying date is entitled to vote in that constituency in any election to the House of Representatives or the Legislative Assembly unless he is disqualified under Clause (3) or  under  any  law  relating  to  offences  committed  in  connection  with  elections,  but  no person  shall  in  the  same  election  vote  in  more  than  one  constituency.'.
 
-- This Clause was amended by Act A1130, section 9, in force from 28-09-2001, as follows:
+b. This Clause was amended by Act A1130, section 9, in force from 28-09-2001, as follows:
 
-- in  paragraph (a) ,  the  word  'and'  at  the  end  of  paragraph  was  deleted;
+i. in  paragraph (a) ,  the  word  'and'  at  the  end  of  paragraph  was  deleted;
 
-- in paragraph (b) ,  by substituting for the comma at the end of paragraph the word ';  and';  and
+ii. in paragraph (b) ,  by substituting for the comma at the end of paragraph the word ';  and';  and
 
-- a  new  paragraph (c) was  inserted  as  follows:
+iii. a  new  paragraph (c) was  inserted  as  follows:
 
-' (c) is,  under  the  provisions  of  any  law  relating  to  elections,  registered  in  the electoral  roll  as  an  elector  in  the  constituency  in  which  he  resides  on  the qualifying  date,'.
+'(c) is,  under  the  provisions  of  any  law  relating  to  elections,  registered  in  the electoral  roll  as  an  elector  in  the  constituency  in  which  he  resides  on  the qualifying  date,'.
 
-- See Art.  120 (c) .
+c. See Art.  120 (c) .
 
 #### Clause  ( 4 )
 
-- The words 'and 'absent voter' means in relation to any constituency any citizen who is  registered as an absent voter in respect of that constituency under the provisions of any  law  relating  to  elections'  were  added  by  Act  10/1960,  paragraph  14 (b) ,  in  force from 31-05-1960.
+a. The words 'and 'absent voter' means in relation to any constituency any citizen who is  registered as an absent voter in respect of that constituency under the provisions of any  law  relating  to  elections'  were  added  by  Act  10/1960,  paragraph  14 (b) ,  in  force from 31-05-1960.
 
-- Subsequently this Clause was substituted by Act A1130, paragraph 9 (b) ,  in  force  from 28-09-2001. The earlier  Clause  read  as  follows:
+b. Subsequently this Clause was substituted by Act A1130, paragraph 9 (b) ,  in  force  from 28-09-2001. The earlier  Clause  read  as  follows:
 
 '(4)	 In this Article 'qualifying date' means the date by reference to which the electoral rolls are prepared or revised, and 'absent voter' means in relation to any constituency any  citizen  who  is  registered  as  an  absent  voter  in  respect  of  that  constituency  under the  provisions  of  any  law  relating  to  elections.'.
 
@@ -6697,15 +6822,15 @@ The  present Article  was  inserted  by Act  26/1963,  section  13,  in  force  
 
 #### Clause  (1)
 
-- Act  59/1966,  section  2,  in  force  from  09-08-1965,  substituted  the  words  'two  High Courts' for  'three  High  Courts'  and  repealed  paragraph (c) of  Clause  (1)  which  read as  follows:
+a. Act  59/1966,  section  2,  in  force  from  09-08-1965,  substituted  the  words  'two  High Courts' for  'three  High  Courts'  and  repealed  paragraph (c) of  Clause  (1)  which  read as  follows:
 
-' (c) one  in  the  State  of  Singapore,  which  shall  be  known  as  the  High  Court  in Singapore;'.
+'(c) one  in  the  State  of  Singapore,  which  shall  be  known  as  the  High  Court  in Singapore;'.
 
-- The  words  'There  shall  be'  substituted  for  'Subject  to  Clause  (2)  the  judicial  power of  the  Federation  shall  be  vested  in'  by Act A704,  paragraph  8 (a) ,  in  force  from  1006-1988.
+b. The  words  'There  shall  be'  substituted  for  'Subject  to  Clause  (2)  the  judicial  power of  the  Federation  shall  be  vested  in'  by Act A704,  paragraph  8 (a) ,  in  force  from  10-06-1988.
 
-- The words 'and such inferior courts as may be provided by federal law; and the High Courts and inferior courts shall have such jurisdiction and powers as may be conferred by or under federal law' substituted for 'and in such inferior courts as may be provided by  federal  law'  by Act A704,  paragraph  8 (b) ,  in  force  from  10-06-1988.
+c. The words 'and such inferior courts as may be provided by federal law; and the High Courts and inferior courts shall have such jurisdiction and powers as may be conferred by or under federal law' substituted for 'and in such inferior courts as may be provided by  federal  law'  by Act A704,  paragraph  8 (b) ,  in  force  from  10-06-1988.
 
-- The words 'Sabah and Sarawak' substituted for 'Borneo' by Act A885, paragraph 13 (a) , in  force  from  24-06-1994.
+d. The words 'Sabah and Sarawak' substituted for 'Borneo' by Act A885, paragraph 13 (a) , in  force  from  24-06-1994.
 
 #### Clause  (1)(a)
 
@@ -6720,21 +6845,21 @@ Added  by Act A704,  paragraph  8 (c) ,  in  force  from  10-06-1988.
 
 #### Clause  (1 b )
 
-- Added by Act A885, paragraph 13 (b) ,  in  force  from  24-06-1994.
+a. Added by Act A885, paragraph 13 (b) ,  in  force  from  24-06-1994.
 
-- The  words  'at  such  place  as  the  Yang  di-Pertuan  Agong  may  determine'  substituted for  'in  Kuala  Lumpur'  by Act A1260,  paragraph  3 (b) ,  in  force  from  10-10-2003.
+b. The  words  'at  such  place  as  the  Yang  di-Pertuan  Agong  may  determine'  substituted for  'in  Kuala  Lumpur'  by Act A1260,  paragraph  3 (b) ,  in  force  from  10-10-2003.
 
 #### Clause  (2)
 
-- The  words  'Mahkamah  Agung  (Supreme  Court)'  substituted  for  'Federal  Court'  by Act A566, paragraph 15 (a) ,  in  force  from  01-01-1985.
+a. The  words  'Mahkamah  Agung  (Supreme  Court)'  substituted  for  'Federal  Court'  by Act A566, paragraph 15 (a) ,  in  force  from  01-01-1985.
 
-- Paragraph (c) was  inserted  by Act A566,  paragraph  15 (b) ,  in  force  from  01-01-1985.
+b. Paragraph (c) was  inserted  by Act A566,  paragraph  15 (b) ,  in  force  from  01-01-1985.
 
-- The words 'There shall be' substituted for 'The following jurisdiction shall be vested in'  by Act A704,  paragraph  8 (d) ,  in  force  from  10-06-1988.
+c. The words 'There shall be' substituted for 'The following jurisdiction shall be vested in'  by Act A704,  paragraph  8 (d) ,  in  force  from  10-06-1988.
 
-- The words 'and the Supreme Court shall have the following jurisdiction' were inserted immediately  after  the  words  'Kuala  Lumpur'  by  Act  A704,  paragraph  8 (e) ,  in  force from 10-06-1988.
+d. The words 'and the Supreme Court shall have the following jurisdiction' were inserted immediately  after  the  words  'Kuala  Lumpur'  by  Act  A704,  paragraph  8 (e) ,  in  force from 10-06-1988.
 
-- The  words  'at  such  place  as  the  Yang  di-Pertuan  Agong  may  determine'  substituted for  'in  Kuala  Lumpur'  by Act A1260,  paragraph  3 (b) ,  in  force  from  10-10-2003.
+e. The  words  'at  such  place  as  the  Yang  di-Pertuan  Agong  may  determine'  substituted for  'in  Kuala  Lumpur'  by Act A1260,  paragraph  3 (b) ,  in  force  from  10-10-2003.
 
 Federal  Constitution
 
@@ -6756,7 +6881,7 @@ Federal  Constitution
 
 (b) such other jurisdiction as may be conferred by or under federal  law.
 
-- There shall be a court which shall be known as the Mahkamah Persekutuan (Federal Court) and shall have its principal registry at  such  place  as  the Yang di-Pertuan Agong may determine, and the Federal Court shall have the following jurisdiction, that is to say-
+(2) There shall be a court which shall be known as the Mahkamah Persekutuan (Federal Court) and shall have its principal registry at  such  place  as  the Yang di-Pertuan Agong may determine, and the Federal Court shall have the following jurisdiction, that is to say—
 
 (a) jurisdiction to determine appeals from decisions of the Court of Appeal,  of  the  High  Court  or  a  judge  thereof;
 
@@ -6764,9 +6889,9 @@ Federal  Constitution
 
 (c) such other jurisdiction as may be conferred by or under federal  law.
 
-- Subject to any limitations imposed by or under federal law, any  order,  decree,  judgment  or  process  of  the  courts  referred  to in  Clause  (1)  or  of  any  judge  thereof  shall  (so  far  as  its  nature permits) have full force and effect according to its tenor throughout the  Federation,  and  may  be  executed  or  enforced  in  any  part of  the  Federation  accordingly;  and  federal  law  may  provide  for courts in one part of the Federation or their officers to act in aid of  courts  in  another  part.
+(3) Subject to any limitations imposed by or under federal law, any  order,  decree,  judgment  or  process  of  the  courts  referred  to in  Clause  (1)  or  of  any  judge  thereof  shall  (so  far  as  its  nature permits) have full force and effect according to its tenor throughout the  Federation,  and  may  be  executed  or  enforced  in  any  part of  the  Federation  accordingly;  and  federal  law  may  provide  for courts in one part of the Federation or their officers to act in aid of  courts  in  another  part.
 
-- In  determining  where  the  principal  registry  of  the  High Court in Sabah and Sarawak is to be, the Yang di-Pertuan Agong shall  act  on  the  advice  of  the  Prime  Minister,  who  shall  consult the  Chief  Ministers  of  the  States  of  Sabah  and  Sarawak  and  the Chief  Judge  of  the  High  Court.
+(4) In  determining  where  the  principal  registry  of  the  High Court in Sabah and Sarawak is to be, the Yang di-Pertuan Agong shall  act  on  the  advice  of  the  Prime  Minister,  who  shall  consult the  Chief  Ministers  of  the  States  of  Sabah  and  Sarawak  and  the Chief  Judge  of  the  High  Court.
 
 [[END OF PAGE 210]]
 
@@ -6774,29 +6899,29 @@ Federal  Constitution
 
 ### Art.  121 -(cont.)
 
-- The words 'Mahkamah Persekutuan (Federal Court)' and 'Federal Court' substituted respectively  for  'Mahkamah  Agung  (Supreme  Court)'  and  'Supreme  Court'  by  Act A885, subparagraph 13 (c) (i),  in  force  from  24-06-1994.
+f. The words 'Mahkamah Persekutuan (Federal Court)' and 'Federal Court' substituted respectively  for  'Mahkamah  Agung  (Supreme  Court)'  and  'Supreme  Court'  by  Act A885, subparagraph 13 (c) (i),  in  force  from  24-06-1994.
 
-- Paragraph (a) was  substituted  by  Act  A885,  subparagraph  13 (c) (ii),  in  force  from 24-06-1994. The original  paragraph (a) read  as  follows:
+g. Paragraph (a) was  substituted  by  Act  A885,  subparagraph  13 (c) (ii),  in  force  from 24-06-1994. The original  paragraph (a) read  as  follows:
 
 ' (a) exclusive  jurisdiction  to  determine  appeals  from  decisions  of  a  High  Court  or a judge thereof (except decisions of a High Court given by a registrar or other officer of  the  court  and  appealable  under  federal  law  to  a  judge  of  the  Court);'.
 
 ##### Notes :
 
-- Upon sections 15, 16 and 17 of Act A566 coming into force on 01-01-1985, all references in  or  under  the  Constitution or in or under any other written law to the Federal Court and judges and officers thereof shall be construed as references to the Supreme Court and  judges  and  officers  thereof  respectively.
+1. Upon sections 15, 16 and 17 of Act A566 coming into force on 01-01-1985, all references in  or  under  the  Constitution or in or under any other written law to the Federal Court and judges and officers thereof shall be construed as references to the Supreme Court and  judges  and  officers  thereof  respectively.
 
-- The  High  Court  in  Borneo  constituted  under  Clause  (1) (b) of  Article  121  of  the Constitution  shall,  until  such  time  as  the  Yang  di-Pertuan  Agong  by  order  otherwise provides,  have  jurisdiction  in  the  Federal  Territory  of  LabuanSee section  16  of Act A585.
+2. The  High  Court  in  Borneo  constituted  under  Clause  (1) (b) of  Article  121  of  the Constitution  shall,  until  such  time  as  the  Yang  di-Pertuan  Agong  by  order  otherwise provides,  have  jurisdiction  in  the  Federal  Territory  of  Labuan—See section  16  of Act A585.
 
 #### Clause  (4)
 
-- The words 'the States  of  Sabah  and  Sarawak'  substituted  for  'the  Borneo  States'  by Act A354, section  43,  in  force  from  27-08-1976.
+a. The words 'the States  of  Sabah  and  Sarawak'  substituted  for  'the  Borneo  States'  by Act A354, section  43,  in  force  from  27-08-1976.
 
-- The  words  'Sabah  and  Sarawak'  and  'Judge'  substituted  respectively  for  'Borneo' and  'Justice'  by Act A885,  paragraph  13 (d) ,  in  force  from  24-06-1994.
+b. The  words  'Sabah  and  Sarawak'  and  'Judge'  substituted  respectively  for  'Borneo' and  'Justice'  by Act A885,  paragraph  13 (d) ,  in  force  from  24-06-1994.
 
-- See-
+c. See—
 
-- Courts  of  Judicature Act  1964  [ Act  91 ];
+i. Courts  of  Judicature Act  1964  [ Act  91 ];
 
-- Subordinate  Courts Act  1948  [ Act  92 ].
+ii. Subordinate  Courts Act  1948  [ Act  92 ].
 
 Federal  Constitution
 
@@ -6828,9 +6953,9 @@ Provided that no such additional judge shall be ineligible to hold office  by  r
 
 (2) A judge of a High Court may sit as a judge of the Court of Appeal where the President of the Court of Appeal considers that  the  interests  of  justice  so  require,  and  the  judge  shall  be nominated for the purpose (as occasion requires) by the President of  the  Court  of Appeal  after  consulting  the  Chief  Judge  of  that High Court.
 
-*Now 'shall not exceed eleven'see P.U.  (A)  163/2009.
+*Now 'shall not exceed eleven'–see P.U.  (A)  163/2009.
 
-**Now 'shall not exceed thirty-two'see P.U.  (A)  164/2009.
+**Now 'shall not exceed thirty-two'—see P.U.  (A)  164/2009.
 
 [[END OF PAGE 212]]
 
@@ -6852,19 +6977,19 @@ Provided that no such additional judge shall be ineligible to hold office  by  r
 
 #### Clause  (1)
 
-- The  words  'four  other  judges  and  such  additional  judges  as  may  be  appointed pursuant to Clause (2)' substituted for 'two other judges' at the end of the Clause by Act  31/1965,  subsection  2(2),  in  force  from  01-07-1965.
+a. The  words  'four  other  judges  and  such  additional  judges  as  may  be  appointed pursuant to Clause (2)' substituted for 'two other judges' at the end of the Clause by Act  31/1965,  subsection  2(2),  in  force  from  01-07-1965.
 
-- The  words  'the  Yang  di-Pertuan  Agong  by  order  otherwise  provides'  substituted for  'Parliament  otherwise  provides'  by  Act  A354,  section  26,  in  force  from 27-08-1976.
+b. The  words  'the  Yang  di-Pertuan  Agong  by  order  otherwise  provides'  substituted for  'Parliament  otherwise  provides'  by  Act  A354,  section  26,  in  force  from 27-08-1976.
 
-- The  words  'Chief  Justice  of  the  Federal  Court',  of  the  President  of  the  Court  of Appeal,  of  the  Chief  Judges  of  the  High  Courts'  substituted  respectively  for  'Lord President of the Supreme Court', of the Chief Justices of the High Courts' by Act A885, subparagraph 14 (b) (ii),  in  force  from  24-06-1994.
+c. The  words  'Chief  Justice  of  the  Federal  Court',  of  the  President  of  the  Court  of Appeal,  of  the  Chief  Judges  of  the  High  Courts'  substituted  respectively  for  'Lord President of the Supreme Court', of the Chief Justices of the High Courts' by Act A885, subparagraph 14 (b) (ii),  in  force  from  24-06-1994.
 
 #### Clause  (1 a )
 
-- This  Clause  was  added  by Act  31/1965,  subsection  2(2),  in  force  from  01-07-1965.
+a. This  Clause  was  added  by Act  31/1965,  subsection  2(2),  in  force  from  01-07-1965.
 
-- The words 'Chief Justice of the Federal Court' substituted for 'Lord President of the Supreme Court' by Act A885, subparagraph 14 (c) (i),  in  force  from  24-06-1994.
+b. The words 'Chief Justice of the Federal Court' substituted for 'Lord President of the Supreme Court' by Act A885, subparagraph 14 (c) (i),  in  force  from  24-06-1994.
 
-- The  words  'sixty-six  years'  substituted  for  'sixty-five  years'  by  Act  A1239, section  2,  in  force  from  21-03-2005.
+c. The  words  'sixty-six  years'  substituted  for  'sixty-five  years'  by  Act  A1239, section  2,  in  force  from  21-03-2005.
 
 #### Clause  (2)
 
@@ -6872,15 +6997,15 @@ The words 'the Court of Appeal other than the President of the Court of Appeal' 
 
 ### Art.  122 a
 
-- Added by Act 26/1963, section 16, in force  from  16-09-1963.
+1. Added by Act 26/1963, section 16, in force  from  16-09-1963.
 
 #### Clause  (1)
 
-- Act  59/1966,  section  2,  in  force  from  09-08-1965,  repealed  paragraph (c) which  read as  follows:
+a. Act  59/1966,  section  2,  in  force  from  09-08-1965,  repealed  paragraph (c) which  read as  follows:
 
-' (c) in  the  High  Court  in  Singapore,  eight.'.
+'(c) in  the  High  Court  in  Singapore,  eight.'.
 
-- The  words  'the  Yang  di-Pertuan  Agong  by  order  otherwise  provides'  substituted for  'Parliament  otherwise  determines'  by  Act  A354,  paragraph  27 (a) ,  in  force  from 27-08-1976.
+b. The  words  'the  Yang  di-Pertuan  Agong  by  order  otherwise  provides'  substituted for  'Parliament  otherwise  determines'  by  Act  A354,  paragraph  27 (a) ,  in  force  from 27-08-1976.
 
 Federal  Constitution
 
@@ -6916,9 +7041,9 @@ Federal  Constitution
 
 122 b . (1) The Chief Justice of the Federal Court, the President of the Court of Appeal and the Chief Judges of the High Courts and  (subject  to  Article  122 c )  the  other  judges  of  the  Federal Court,  of  the  Court  of  Appeal  and  of  the  High  Courts  shall  be
 
-*Now 'shall not exceed sixty'see P.U.  (A)  384/2006.
+*Now 'shall not exceed sixty'—see P.U.  (A)  384/2006.
 
-**Now 'shall not exceed thirteen'see P.U.  (A)  385/2006.
+**Now 'shall not exceed thirteen'—see P.U.  (A)  385/2006.
 
 [[END OF PAGE 214]]
 
@@ -6961,13 +7086,13 @@ Added by Act A885, section 16, in force from 24-06-1994.
 
 ### Art.  12 2b
 
-- Added by Act 26/1963, section 17, in force  from  16-09-1963.
+1. Added by Act 26/1963, section 17, in force  from  16-09-1963.
 
-- In  the  shoulder  note,  the  words  'Federal  Court,  Court  of  Appeal  and'  substituted  for 'Supreme Court and of' by Act A885, paragraph 17 (a) ,  in  force  from  24-06-1994.
+2. In  the  shoulder  note,  the  words  'Federal  Court,  Court  of  Appeal  and'  substituted  for 'Supreme Court and of' by Act A885, paragraph 17 (a) ,  in  force  from  24-06-1994.
 
-- Act  59/1966,  section  2,  in  force  from  09-08-1965,  amended-
+3. Act  59/1966,  section  2,  in  force  from  09-08-1965,  amended—
 
-- Clause (3) ,  by deleting the words 'or in Singapore' which appeared after 'High Court in  Borneo'  and  the  words  'or  of  Singapore  as  the  case  may  be'  which  appeared  at the  end  of  the  Clause.
+a. Clause (3) ,  by deleting the words 'or in Singapore' which appeared after 'High Court in  Borneo'  and  the  words  'or  of  Singapore  as  the  case  may  be'  which  appeared  at the  end  of  the  Clause.
 
 Federal  Constitution
 
@@ -6987,9 +7112,9 @@ appointed by the Yang di-Pertuan Agong, acting on the advice of the  Prime  Mini
 
 (2) Before  tendering  his  advice  as  to  the  appointment  under Clause (1) of a judge other than the Chief Justice of the Federal Court,  the  Prime  Minister  shall  consult  the  Chief  Justice.
 
-- Before  tendering  his  advice  as  to  the  appointment  under Clause (1) of the Chief Judge of a High Court, the Prime Minister shall consult the Chief Judge of each of the High Courts and, if the appointment is to the High Court in Sabah and Sarawak, the Chief  Minister  of  each  of  the  States  of  Sabah  and  Sarawak.
+(3) Before  tendering  his  advice  as  to  the  appointment  under Clause (1) of the Chief Judge of a High Court, the Prime Minister shall consult the Chief Judge of each of the High Courts and, if the appointment is to the High Court in Sabah and Sarawak, the Chief  Minister  of  each  of  the  States  of  Sabah  and  Sarawak.
 
-- Before  tendering  his  advice  as  to  the  appointment  under Clause (1) of a judge other than the Chief Justice, President or a Chief Judge, the Prime Minister shall consult, if  the  appointment is  to  the  Federal  Court,  the  Chief  Justice  of  the  Federal  Court,  if the  appointment  is  to  the  Court  of Appeal,  the  President  of  the Court  of  Appeal  and,  if  the  appointment  is  to  one  of  the  High Courts,  the  Chief  Judge  of  that  Court.
+(4) Before  tendering  his  advice  as  to  the  appointment  under Clause (1) of a judge other than the Chief Justice, President or a Chief Judge, the Prime Minister shall consult, if  the  appointment is  to  the  Federal  Court,  the  Chief  Justice  of  the  Federal  Court,  if the  appointment  is  to  the  Court  of Appeal,  the  President  of  the Court  of  Appeal  and,  if  the  appointment  is  to  one  of  the  High Courts,  the  Chief  Judge  of  that  Court.
 
 (5) This Article  shall  apply  to  the  designation  of  a  person  to sit  as  judge  of  a  High  Court  under  Clause  (2)  of Article  122 aa as  it  applies  to  the  appointment  of  a  judge  of  that  court  other than  the  Chief  Judge.
 
@@ -7009,7 +7134,7 @@ appointed by the Yang di-Pertuan Agong, acting on the advice of the  Prime  Mini
 
 ### Art.  122 b -(cont.)
 
-- Clause (4) , by substituting the words 'the Chief Justice of each of the High Courts' for 'Chief  Justices  of  all  the  High  Courts'.
+b. Clause (4) , by substituting the words 'the Chief Justice of each of the High Courts' for 'Chief  Justices  of  all  the  High  Courts'.
 
 #### Clause  (2)
 
@@ -7017,13 +7142,13 @@ The  words  'Chief  Justice'  and  'Federal'  substituted  respectively  for  'L
 
 #### Clause  (3)
 
-- The words 'the States  of  Sabah  and  Sarawak'  substituted  for  'the  Borneo  States'  by Act A354, section  43,  in  force  from  27-08-1976.
+a. The words 'the States  of  Sabah  and  Sarawak'  substituted  for  'the  Borneo  States'  by Act A354, section  43,  in  force  from  27-08-1976.
 
-- The  words  'Judge'  and  'Sabah  and  Sarawak'  substituted  respectively  for  'Justice' and  'Borneo'  by Act A885,  paragraph  17 (d) ,  in  force  from  24-06-1994.
+b. The  words  'Judge'  and  'Sabah  and  Sarawak'  substituted  respectively  for  'Justice' and  'Borneo'  by Act A885,  paragraph  17 (d) ,  in  force  from  24-06-1994.
 
-- See Articles  12 2a (2),  122 c &  123.
+4. See Articles  12 2a (2),  122 c &  123.
 
-- The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
+5. The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
 
 #### Clauses  (1)  &  (4)
 
@@ -7039,17 +7164,17 @@ The words 'Article 12 2aa( 2)'  and  'Judge'  substituted  respectively  for  'A
 
 #### Clause  (6)
 
-- Inserted  by Act A566,  subsection  16(2),  in  force  from  01-01-1985.
+a. Inserted  by Act A566,  subsection  16(2),  in  force  from  01-01-1985.
 
-- The  words  'Federal  Court,  of  the  Court  of  Appeal'  and  'Chief  Justice'  substituted respectively for 'Supreme Court' and 'Lord President' by Act A885, paragraph 17 (g) , in  force  from  24-06-1994.
+b. The  words  'Federal  Court,  of  the  Court  of  Appeal'  and  'Chief  Justice'  substituted respectively for 'Supreme Court' and 'Lord President' by Act A885, paragraph 17 (g) , in  force  from  24-06-1994.
 
 ### Art.  122 c
 
-- Added by Act 26/1963, section 18, in force  from  16-09-1963.
+1. Added by Act 26/1963, section 18, in force  from  16-09-1963.
 
-- The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
+2. The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
 
-- The words 'Judge', 'Chief Justice of the Federal Court' and 'Judges' substituted respectively for 'Justice', 'Lord President of the Supreme Court' and 'Justices' by Act A885, section 18, in  force  from  24-06-1994.
+3. The words 'Judge', 'Chief Justice of the Federal Court' and 'Judges' substituted respectively for 'Justice', 'Lord President of the Supreme Court' and 'Justices' by Act A885, section 18, in  force  from  24-06-1994.
 
 Federal  Constitution
 
@@ -7079,13 +7204,13 @@ a  judge  of  the  Federal  Court,  as  a  judge  of  the  Court  of Appeal or  
 
 (2 a ) A  person  taking  the  oath  on  becoming  the  President  of the  Court  of  Appeal  shall  do  so  in  the  presence  of  the  senior judge  available  of  the  Court  of Appeal.
 
-- A  person  taking  the  oath  on  becoming  Chief  Judge  of a  High  Court  shall  do  so  in  the  presence  of  the  senior  judge available  of  that  High  Court.
+(3) A  person  taking  the  oath  on  becoming  Chief  Judge  of a  High  Court  shall  do  so  in  the  presence  of  the  senior  judge available  of  that  High  Court.
 
-- A person taking the oath on becoming a judge of the Federal Court  shall  do  so  in  the  presence  of  the  Chief  Justice  or,  in  his absence,  the  next  senior  judge  available  of  the  Federal  Court.
+(4) A person taking the oath on becoming a judge of the Federal Court  shall  do  so  in  the  presence  of  the  Chief  Justice  or,  in  his absence,  the  next  senior  judge  available  of  the  Federal  Court.
 
 (4 a ) A  person  taking  the  oath  on  becoming  a  judge  of  the Court  of Appeal  shall  do  so  in  the  presence  of  the  President  of the  Court  of  Appeal  or,  in  his  absence,  the  next  senior  judge available  of  the  Court  of Appeal.
 
-- A person taking the oath on becoming a judge of a High Court  (but  not  Chief  Judge)  shall  do  so  in  the  presence  of  the Chief Judge of that Court or, in his absence, the next senior judge available  of  that  Court.
+(5) A person taking the oath on becoming a judge of a High Court  (but  not  Chief  Judge)  shall  do  so  in  the  presence  of  the Chief Judge of that Court or, in his absence, the next senior judge available  of  that  Court.
 
 [[END OF PAGE 218]]
 
@@ -7136,18 +7261,18 @@ The word 'Judge' substituted for 'Justice' and the words ', unless he takes it i
 
 #### Clause  (4)
 
-- The  words  'Federal'  and  'Chief  Justice'  substituted  respectively  for  'Supreme'  and 'Lord President' by Act A885, paragraph 20 (d) ,  in  force  form  24-06-1994.
+a. The  words  'Federal'  and  'Chief  Justice'  substituted  respectively  for  'Supreme'  and 'Lord President' by Act A885, paragraph 20 (d) ,  in  force  form  24-06-1994.
 
-- The words 'A person' substituted for 'Subject to Clause (3), a person' by Act A1260, paragraph  4 (b) ,  in  force  from  19-01-2006.
+b. The words 'A person' substituted for 'Subject to Clause (3), a person' by Act A1260, paragraph  4 (b) ,  in  force  from  19-01-2006.
 
 #### Clause  (4 a ) :
 Inserted  by Act A1260,  paragraph  4 (c) ,  in  force  from  19-01-2006.
 
 #### Clause  (5)
 
-- The words 'the Court of Appeal or' were inserted after the words 'a judge of' and the word  'Judge'  substituted  for  'Justice',  by Act A885,  paragraph  20 (e) ,  in  force  from 24-06-1994.
+a. The words 'the Court of Appeal or' were inserted after the words 'a judge of' and the word  'Judge'  substituted  for  'Justice',  by Act A885,  paragraph  20 (e) ,  in  force  from 24-06-1994.
 
-- Subsequently,  the  words  'the  Court  of  Appeal  or'  were  deleted  by  Act  A1260, paragraph  4 (d) ,  in  force  from  19-01-2006.
+b. Subsequently,  the  words  'the  Court  of  Appeal  or'  were  deleted  by  Act  A1260, paragraph  4 (d) ,  in  force  from  19-01-2006.
 
 Federal  Constitution
 
@@ -7165,7 +7290,7 @@ Federal  Constitution
 
 #### Tenure  of  office  and  remuneration  of  judges  of  Federal Court
 
-125. (1) Subject to the provisions of Clauses (2) to (5), a judge of the Federal Court shall hold office until he attains the age of sixtysix  years  or  such  later  time,  not  being  later  than  six  months  after he  attains  that  age,  as  the Yang  di-Pertuan Agong  may  approve.
+125. (1) Subject to the provisions of Clauses (2) to (5), a judge of the Federal Court shall hold office until he attains the age of sixty-six  years  or  such  later  time,  not  being  later  than  six  months  after he  attains  that  age,  as  the Yang  di-Pertuan Agong  may  approve.
 
 (2) A judge  of  the  Federal  Court  may  at  any  time  resign  his office by writing under his hand addressed to the Yang di-Pertuan Agong but shall not be removed from office except in accordance with  the  following  provisions  of  this Article.
 
@@ -7185,41 +7310,41 @@ Federal  Constitution
 
 #### Clause  (1)
 
-- Act 14/1962, section 32, in force from 21-06-1962, substituted the words 'the provisions of  Clauses  (2)  to  (5)'  for  'the  following  provisions  of  this Article'.
+a. Act 14/1962, section 32, in force from 21-06-1962, substituted the words 'the provisions of  Clauses  (2)  to  (5)'  for  'the  following  provisions  of  this Article'.
 
-- Act  26/1963,  paragraph  22(2) (a) ,  in  force  from  16-09-1963,  substituted  the  words 'Federal  Court'  for  'Supreme  Court'.
+b. Act  26/1963,  paragraph  22(2) (a) ,  in  force  from  16-09-1963,  substituted  the  words 'Federal  Court'  for  'Supreme  Court'.
 
-- Subsequently,  the  word  'Supreme'  substituted  for  'Federal'  by Act A566,  subsection 16(1),  in  force  from  01-01-1985.
+c. Subsequently,  the  word  'Supreme'  substituted  for  'Federal'  by Act A566,  subsection 16(1),  in  force  from  01-01-1985.
 
-- The word 'Federal' substituted for 'Supreme' by Act A885, paragraph 21 (a) ,  in  force from 24-06-1994.
+d. The word 'Federal' substituted for 'Supreme' by Act A885, paragraph 21 (a) ,  in  force from 24-06-1994.
 
-- The words 'sixty-six years' substituted for 'sixty-five years' by Act A1239, section 3, in  force  from  21-03-2005.
+e. The words 'sixty-six years' substituted for 'sixty-five years' by Act A1239, section 3, in  force  from  21-03-2005.
 
 #### Clause  (2)
 
-- The words 'Federal Court' substituted for 'Supreme Court' by Act 26/1963, paragraph 22(2) (a) ,  in  force  from  16-09-1963.
+a. The words 'Federal Court' substituted for 'Supreme Court' by Act 26/1963, paragraph 22(2) (a) ,  in  force  from  16-09-1963.
 
-- Subsequently, the word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in  force  from  01-01-1985.
+b. Subsequently, the word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in  force  from  01-01-1985.
 
-- The word 'Federal' substituted for 'Supreme' by Act A885, paragraph 21 (a) ,  in  force from 24-06-1994.
+c. The word 'Federal' substituted for 'Supreme' by Act A885, paragraph 21 (a) ,  in  force from 24-06-1994.
 
 #### Clause  (3)
 
-- The  words  'Lord  President'  and  'Federal  Court'  substituted  for  'Chief  Justice'  and 'Supreme  Court'  respectively  by  Act  26/1963,  paragraph  22(2) (a) ,  in  force  from 16-09-1963. Subsequently, the word 'Supreme' substituted for 'Federal' by Act A566, subsection  16(1),  in  force  from  01-01-1985.
+a. The  words  'Lord  President'  and  'Federal  Court'  substituted  for  'Chief  Justice'  and 'Supreme  Court'  respectively  by  Act  26/1963,  paragraph  22(2) (a) ,  in  force  from 16-09-1963. Subsequently, the word 'Supreme' substituted for 'Federal' by Act A566, subsection  16(1),  in  force  from  01-01-1985.
 
-- See Art.  65(3).
+b. See Art.  65(3).
 
-- The words 'Chief Justice' and 'Federal' substituted respectively for 'Lord President' and  'Supreme' by Act A885, subparagraph 21 (b) (i),  in  force  from  24-06-1994.
+c. The words 'Chief Justice' and 'Federal' substituted respectively for 'Lord President' and  'Supreme' by Act A885, subparagraph 21 (b) (i),  in  force  from  24-06-1994.
 
-- The  words  'any  breach  of  any  provision  of  the  code  of  ethics  prescribed  under Clause  (3 a )  or  on  the  ground'  substituted  for  'misbehavior  or'  by  Act  A885, subparagraph 21 (b) (ii),  in  force  from  24-06-1994.
+d. The  words  'any  breach  of  any  provision  of  the  code  of  ethics  prescribed  under Clause  (3 a )  or  on  the  ground'  substituted  for  'misbehavior  or'  by  Act  A885, subparagraph 21 (b) (ii),  in  force  from  24-06-1994.
 
-- The words 'Clause (3 b )'  substituted  for  'Clause  (3 a) '  by Act A1260, paragraph 5 (a) , in  force  from  19-01-2006.
+e. The words 'Clause (3 b )'  substituted  for  'Clause  (3 a) '  by Act A1260, paragraph 5 (a) , in  force  from  19-01-2006.
 
 #### Clause  ( 3a )
 
-- Inserted  by Act A885,  paragraph  21 (c) ,  in  force  from  24-06-1994.
+a. Inserted  by Act A885,  paragraph  21 (c) ,  in  force  from  24-06-1994.
 
-- Substituted by Act A1260, paragraph 5 (b) , in force from 19-01-2006. The original Clause read  as  follows:
+b. Substituted by Act A1260, paragraph 5 (b) , in force from 19-01-2006. The original Clause read  as  follows:
 
 '( 3a )  The Yang di-Pertuan Agong on the recommendation of the Chief Justice, the President of the Court of Appeal and the Chief Judges of the High Courts, may, after consulting  the  Prime  Minister,  prescribe  in  writing  a  code  of  ethics  which  shall  be observed  by  every  jugde  of  the  Federal  Court.'.
 
@@ -7228,9 +7353,9 @@ Inserted  by Act A1260,  paragraph  5 (c) ,  in  force  from  19-01-2006.
 
 #### Clause  (4)
 
-- The  words  'appointed  on  the  recommendation  of  the  Judicial  and  Legal  Service Commission,  being  persons'  which  appeared  after  'not  less  than  five  persons'  were deleted  and  the  words  'Yang  di-Pertuan Agong  expedient  to  make  such  appointment' substituted for 'Commission expedient so to recommend' by Act 10/1960, paragraphs 16 (a) and (b) ,  in  force  from  31-05-1960.
+a. The  words  'appointed  on  the  recommendation  of  the  Judicial  and  Legal  Service Commission,  being  persons'  which  appeared  after  'not  less  than  five  persons'  were deleted  and  the  words  'Yang  di-Pertuan Agong  expedient  to  make  such  appointment' substituted for 'Commission expedient so to recommend' by Act 10/1960, paragraphs 16 (a) and (b) ,  in  force  from  31-05-1960.
 
-- The  words  'and  shall  be  presided  over  by  the  member  first  in  the  following  order, namely, the Lord President of the Federal Court, the Chief Justices according to their precedence  among  themselves,  and  other  members  according  to  the  order  of  their appointment to an office qualifying them for membership (the older coming before the younger of two members with appointments of the same date)' at the end substituted for  'and  shall  be  presided  over  by  the  Chief  Justice,  if  he  is  a  member,  and,  in  any other case, by the person first appointed to the said office' by Act 26/1963, paragraph 22(2) (b) , in force from 16-09-1963, which also inserted the words 'of the Federal Court or a High Court or have before Malaysia Day held office as judge' which appear after the  words  'or  have  held  office  as  judge'.
+b. The  words  'and  shall  be  presided  over  by  the  member  first  in  the  following  order, namely, the Lord President of the Federal Court, the Chief Justices according to their precedence  among  themselves,  and  other  members  according  to  the  order  of  their appointment to an office qualifying them for membership (the older coming before the younger of two members with appointments of the same date)' at the end substituted for  'and  shall  be  presided  over  by  the  Chief  Justice,  if  he  is  a  member,  and,  in  any other case, by the person first appointed to the said office' by Act 26/1963, paragraph 22(2) (b) , in force from 16-09-1963, which also inserted the words 'of the Federal Court or a High Court or have before Malaysia Day held office as judge' which appear after the  words  'or  have  held  office  as  judge'.
 
 Federal  Constitution
 
@@ -7246,17 +7371,17 @@ Federal  Constitution
 
 119
 
-- The  tribunal  appointed  under  Clause  (3)  shall  consist  of not less than five persons who hold or have held office as judge of the Federal Court, the Court of Appeal or a High Court, or, if it  appears to the Yang di-Pertuan Agong expedient to make such appointment,  persons  who  hold  or  have  held  equivalent  office in  any  other  part  of  the  Commonwealth,  and  shall  be  presided over  by  the  member  first  in  the  following  order,  namely,  the Chief  Justice  of  the  Federal  Court,  the  President  and  the  Chief Judges according to their precedence among themselves, and other members according to the order of their appointment to an office qualifying  them  for  membership  (the  older  coming  before  the younger of  two  members  with  appointments  of  the  same  date).
+(4) The  tribunal  appointed  under  Clause  (3)  shall  consist  of not less than five persons who hold or have held office as judge of the Federal Court, the Court of Appeal or a High Court, or, if it  appears to the Yang di-Pertuan Agong expedient to make such appointment,  persons  who  hold  or  have  held  equivalent  office in  any  other  part  of  the  Commonwealth,  and  shall  be  presided over  by  the  member  first  in  the  following  order,  namely,  the Chief  Justice  of  the  Federal  Court,  the  President  and  the  Chief Judges according to their precedence among themselves, and other members according to the order of their appointment to an office qualifying  them  for  membership  (the  older  coming  before  the younger of  two  members  with  appointments  of  the  same  date).
 
-- Pending  any  reference  and  report  under  Clause  (3)  the Yang di-Pertuan Agong may on the recommendation of the Prime Minister and, in the case of any other judge after consulting the Chief  Justice,  suspend  a  judge  of  the  Federal  Court  from  the exercise  of  his  functions.
+(5) Pending  any  reference  and  report  under  Clause  (3)  the Yang di-Pertuan Agong may on the recommendation of the Prime Minister and, in the case of any other judge after consulting the Chief  Justice,  suspend  a  judge  of  the  Federal  Court  from  the exercise  of  his  functions.
 
 (6) Parliament  shall  by  law  provide  for  the  remuneration  of the judges of the Federal Court, and the remuneration so provided shall  be  charged  on  the  Consolidated  Fund.
 
 (6 a ) Subject to the provisions of this Article, Parliament may by law provide for the terms of office of the judges of the Federal Court  other  than  their  remuneration.
 
-- The  remuneration  and  other  terms  of  office  (including pension rights) of a judge of the Federal Court shall not be altered to  his  disadvantage  after  his  appointment.
+(7) The  remuneration  and  other  terms  of  office  (including pension rights) of a judge of the Federal Court shall not be altered to  his  disadvantage  after  his  appointment.
 
-- Notwithstanding Clause (1), the validity of anything done by  a  judge  of  the  Federal  Court  shall  not  be  questioned  on  the ground that he had attained the age at which he was required to retire.
+(8) Notwithstanding Clause (1), the validity of anything done by  a  judge  of  the  Federal  Court  shall  not  be  questioned  on  the ground that he had attained the age at which he was required to retire.
 
 (9) This Article shall apply to a judge of the Court of Appeal and  to  a  judge  of  a  High  Court  as  it  applies  to  a  judge  of  the Federal  Court,  except  that  the  Yang  di-Pertuan  Agong  before suspending  under  Clause  (5)  a  judge  of  the  Court  of Appeal  or a  judge  of  a  High  Court  other  than  the  President  of  the  Court of Appeal  or  the  Chief  Judge  of  a  High  Court  shall  consult  the President of the Court of Appeal or the Chief Judge of that High Court  instead  of  the  Chief  Justice  of  the  Federal  Court.
 
@@ -7266,57 +7391,57 @@ Federal  Constitution
 
 ### Art.  125 -(cont.)
 
-- The words ', or have before Malaysia Day held office as judge of the Supreme Court' were deleted  by Act A566,  subsection  16(3),  in  force  from  01-01-1985.
+c. The words ', or have before Malaysia Day held office as judge of the Supreme Court' were deleted  by Act A566,  subsection  16(3),  in  force  from  01-01-1985.
 
-- The  words  'Federal  Court,  the  Court  of Appeal'  substituted  for  'Supreme  Court'  by Act A885, subparagraph 22 (d) (i),  in  force  from  24-06-1994.
+d. The  words  'Federal  Court,  the  Court  of Appeal'  substituted  for  'Supreme  Court'  by Act A885, subparagraph 22 (d) (i),  in  force  from  24-06-1994.
 
-- The  words  'Chief  Justice  of  the  Federal  Court,  the  President  and  the  Chief  Judges' substituted for 'Lord President of the Supreme Court, the Chief Justices' by Act A885, subparagraph 21 (d) (ii),  in  force  from  24-06-1994.
+e. The  words  'Chief  Justice  of  the  Federal  Court,  the  President  and  the  Chief  Judges' substituted for 'Lord President of the Supreme Court, the Chief Justices' by Act A885, subparagraph 21 (d) (ii),  in  force  from  24-06-1994.
 
-- The words 'The tribunal appointed under Clause (3)' substituted for 'The said tribunal' by Act A1260, paragraph 5 (d) ,  in  force  from  19-01-2006.
+f. The words 'The tribunal appointed under Clause (3)' substituted for 'The said tribunal' by Act A1260, paragraph 5 (d) ,  in  force  from  19-01-2006.
 
 #### Clause  (5)
 
-- The  words  'Prime  Minister,  or  the  Prime  Minister  after  consulting  the  Chief Justice,'  substituted  for  'Judicial  and  Legal  Service  Commission'  by  Act  10/1960, paragraph  16 (c) ,  in  force  from  31-05-1960.
+a. The  words  'Prime  Minister,  or  the  Prime  Minister  after  consulting  the  Chief Justice,'  substituted  for  'Judicial  and  Legal  Service  Commission'  by  Act  10/1960, paragraph  16 (c) ,  in  force  from  31-05-1960.
 
-- Act 26/1963, paragraph 22(2) (a) , in force from 16-09-1963, substituted the words 'Lord President'  and  'Federal  Court'  for  'Chief  Justice'  and  'Supreme  Court'  respectively and by paragraph 22(2) (c) substituted the words 'and, in the case of any other judge' for  'or  the  Prime  Minister'.
+b. Act 26/1963, paragraph 22(2) (a) , in force from 16-09-1963, substituted the words 'Lord President'  and  'Federal  Court'  for  'Chief  Justice'  and  'Supreme  Court'  respectively and by paragraph 22(2) (c) substituted the words 'and, in the case of any other judge' for  'or  the  Prime  Minister'.
 
-- The word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in force from 01-01-1985.
+c. The word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in force from 01-01-1985.
 
-- The words 'Chief Justice' substituted for 'Lord President' by Act A885, paragraph 21 (e) , in  force  from  24-6-1994.
+d. The words 'Chief Justice' substituted for 'Lord President' by Act A885, paragraph 21 (e) , in  force  from  24-6-1994.
 
 #### Clause  (6)
 
-- The  words  'Federal  Court'  substituted  for  'Supreme  Court'  by  Act  26/1963, paragraph  22(2) (a) ,  in  force  from  16-09-1963.
+a. The  words  'Federal  Court'  substituted  for  'Supreme  Court'  by  Act  26/1963, paragraph  22(2) (a) ,  in  force  from  16-09-1963.
 
-- The word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in force from 01-01-1985.
+b. The word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in force from 01-01-1985.
 
-- See Judges'  Remuneration Act  1971  [ Act  45 ].
+c. See Judges'  Remuneration Act  1971  [ Act  45 ].
 
 #### Clause  (6 a )
 
-- Added by Act 14/1962, section 23, in force  from  21-06-1962.
+a. Added by Act 14/1962, section 23, in force  from  21-06-1962.
 
-- The  words  'Federal  Court'  substituted  for  'Supreme  Court'  by  Act  26/1963, paragraph  22(2) (a) ,  in  force  from  16-09-1963.
+b. The  words  'Federal  Court'  substituted  for  'Supreme  Court'  by  Act  26/1963, paragraph  22(2) (a) ,  in  force  from  16-09-1963.
 
-- The word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in force from 01-01-1985.
+c. The word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in force from 01-01-1985.
 
 #### Clauses  (7)  &  (8)
 
-- The words 'Federal Court' substituted for 'Supreme Court' by Act 26/1963, paragraph 22(2) (a) ,  in  force  from  16-09-1963.
+a. The words 'Federal Court' substituted for 'Supreme Court' by Act 26/1963, paragraph 22(2) (a) ,  in  force  from  16-09-1963.
 
-- The word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in force from 01-01-1985.
+b. The word 'Supreme' substituted for 'Federal' by Act A566, subsection 16(1), in force from 01-01-1985.
 
 #### Clause  (9)
 
-- Added by Act 26/1963, subsection 22(3), in force  from  16-09-1963.
+a. Added by Act 26/1963, subsection 22(3), in force  from  16-09-1963.
 
-- Substituted by Act A885, paragraph 21 (g) , in force from 24-06-1994. The original Clause read  as  follows:
+b. Substituted by Act A885, paragraph 21 (g) , in force from 24-06-1994. The original Clause read  as  follows:
 
 '(9)	 This Article  shall  apply  to  a  judge  of  a  High  Court  as  it  applies  to  a  judge  of the  Supreme  Court,  except  that  the  Yang  di-Pertuan  Agong  before  suspending  under Clause (5) a judge of a High Court other than the Chief Justice shall consult the Chief Justice  of  that  Court  instead  of  the  Lord  President  of  the  Supreme  Court.'.
 
 #### Clause  (10)
 
-- Added  by  Act  59/1966,  section  2,  in  force  from  19-09-1966,  and  deleted  by Act A31, section  4,  in  force  from  19-09-1966. The  Clause  read  as  follows:
+a. Added  by  Act  59/1966,  section  2,  in  force  from  19-09-1966,  and  deleted  by Act A31, section  4,  in  force  from  19-09-1966. The  Clause  read  as  follows:
 
 '(10) A judge of the High Court who is appointed to be a judge of the Federal Court shall  cease  to  be  a  judge  of  the  said  High  Court:
 
@@ -7334,7 +7459,7 @@ Federal  Constitution
 
 120
 
-- The President of the Court of Appeal and the Chief Judges of  the  High  Courts  shall  be  responsible  to  the  Chief  Justice  of the  Federal  Court.
+(10) The President of the Court of Appeal and the Chief Judges of  the  High  Courts  shall  be  responsible  to  the  Chief  Justice  of the  Federal  Court.
 
 #### Exercise  of  powers  by  judges
 
@@ -7346,7 +7471,7 @@ Federal  Constitution
 
 (b) a  judge  of  the  High  Court  in  Malaya  may  exercise  all or  any  of  the  powers  of  a  judge  of  the  High  Court  in Sabah and Sarawak, and vice  versa .
 
-- The provisions of this Article shall be deemed to have been an  integral  part  of  this  Constitution  as  from  Malaysia  Day.
+(2) The provisions of this Article shall be deemed to have been an  integral  part  of  this  Constitution  as  from  Malaysia  Day.
 
 #### Power to punish for contempt
 
@@ -7372,35 +7497,35 @@ The  word  'Federal'  substituted  for  'Supreme'  by  Act  A885,  section  21, 
 
 ### Art.  125 a
 
-- The present Article  was  inserted  by Act A354,  section  28,  in  force  from  16-09-1963.
+1. The present Article  was  inserted  by Act A354,  section  28,  in  force  from  16-09-1963.
 
-- The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
+2. The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
 
-- The words 'Exercise of powers by judges' substituted for the shoulder note by Act A885, paragraph  22 (a) ,  in  force  from  24-06-1994.
+3. The words 'Exercise of powers by judges' substituted for the shoulder note by Act A885, paragraph  22 (a) ,  in  force  from  24-06-1994.
 
-- Paragraph (a) of  Clause  (1)  was  substituted  by Act A885,  subparagraph 22 (b) (i),  in  force from 24-06-1994. The original  paragraph (a) read  as  follows:
+4. Paragraph (a) of  Clause  (1)  was  substituted  by Act A885,  subparagraph 22 (b) (i),  in  force from 24-06-1994. The original  paragraph (a) read  as  follows:
 
-' (a) the  Lord  President  of  the  Supreme  Court  and  a  judge  of  the  Supreme  Court  may exercise  all  or  any  of  the  powers  of  a  judge  of  a  High  Court;  and'.
+'(a) the  Lord  President  of  the  Supreme  Court  and  a  judge  of  the  Supreme  Court  may exercise  all  or  any  of  the  powers  of  a  judge  of  a  High  Court;  and'.
 
-- Paragraph (aa) of  Clause  (1)  was  added  by  Act  A885,  subparagraph  22 (b) (ii),  in  force from 24-06-1994.
+5. Paragraph (aa) of  Clause  (1)  was  added  by  Act  A885,  subparagraph  22 (b) (ii),  in  force from 24-06-1994.
 
-- In  paragraph (b) of  Clause  (1),  the  words  'Sabah  and  Sarawak'  substituted  for  'Borneo' by Act A885, subparagraph 22 (b) (iii),  in  force  from  24-06-1994.
+6. In  paragraph (b) of  Clause  (1),  the  words  'Sabah  and  Sarawak'  substituted  for  'Borneo' by Act A885, subparagraph 22 (b) (iii),  in  force  from  24-06-1994.
 
 ### Art.  126
 
-- The  words  'Federal  Court  or  a  High  Court'  substituted  for  'Supreme  Court'  by Act  26/1963,  subsection  22(4),  in  force  from  16-09-1963.
+1. The  words  'Federal  Court  or  a  High  Court'  substituted  for  'Supreme  Court'  by Act  26/1963,  subsection  22(4),  in  force  from  16-09-1963.
 
-- The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
+2. The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
 
-- The  words  'Power  to  punish  for  contempt'  substituted  for  the  shoulder  note  and  the words  'Federal  Court,  the  Court  of Appeal'  substituted  for  'Supreme  Court'  by Act A885, section  23,  in  force  from  24-06-1994.
+3. The  words  'Power  to  punish  for  contempt'  substituted  for  the  shoulder  note  and  the words  'Federal  Court,  the  Court  of Appeal'  substituted  for  'Supreme  Court'  by Act A885, section  23,  in  force  from  24-06-1994.
 
 ### Art.  127
 
-- The  words  'Federal  Court  or  a  High  Court'  substituted  for  'Supreme  Court'  by Act  26/1963,  subsection  22(4),  in  force  from  16-09-1963.
+1. The  words  'Federal  Court  or  a  High  Court'  substituted  for  'Supreme  Court'  by Act  26/1963,  subsection  22(4),  in  force  from  16-09-1963.
 
-- The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
+2. The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
 
-- The  words  'Federal  Court,  the  Court  of  Appeal'  substituted  for  'Supreme  Court'  by Act A885, section  24,  in  force  from  24-06-1994.
+3. The  words  'Federal  Court,  the  Court  of  Appeal'  substituted  for  'Supreme  Court'  by Act A885, section  24,  in  force  from  24-06-1994.
 
 Federal  Constitution
 
@@ -7446,7 +7571,7 @@ Federal  Constitution
 
 ### Art.  128
 
-- The present Article was substituted by Act 26/1963, section 14, in force from 16-09-1963, and  replaced  the  earlier Article  which  read  as  follows:
+1. The present Article was substituted by Act 26/1963, section 14, in force from 16-09-1963, and  replaced  the  earlier Article  which  read  as  follows:
 
 '128. (1)	 The Supreme Court shall have such original, appellate and revisional jurisdiction as  may  be  provided  by  federal  law.
 
@@ -7461,7 +7586,7 @@ The words 'in accordance with any rules of court regulating the exercise of such
 #### Clause  (2) :
 See Art.  161(4)  &  161 b (2)
 
-- The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
+3. The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
 
 #### Clauses  (1)  &  (2)
 
@@ -7481,21 +7606,21 @@ This Article  was  repealed  by Act  26/1963,  section  14,  in  force  from  16
 
 ### Art.  130
 
-- The  words  'Federal  Court'  substituted  for  'Supreme  Court'  by  Act  26/1963, subsection  22(5),  in  force  from  16-09-1963.
+1. The  words  'Federal  Court'  substituted  for  'Supreme  Court'  by  Act  26/1963, subsection  22(5),  in  force  from  16-09-1963.
 
-- Subsequently  the  word  'Supreme'  substituted  for  'Federal'  by  Act  A566, subsection  16(1),  in  force  from  01-01-1985.
+2. Subsequently  the  word  'Supreme'  substituted  for  'Federal'  by  Act  A566, subsection  16(1),  in  force  from  01-01-1985.
 
-- See Art.  121(2) (b) .
+3. See Art.  121(2) (b) .
 
-- The  word  'Federal'  substituted  for  'Supreme'  by  Act  A885,  section  26,  in  force  from 24-06-1994.
+4. The  word  'Federal'  substituted  for  'Supreme'  by  Act  A885,  section  26,  in  force  from 24-06-1994.
 
 ### Art.  131
 
 #### Clause  (1)
 
-- Act  25/1963,  section  8,  in  force  from  29-08-1963,  deleted  the  words  'or  by Clause  (2)'  which  appeared  after  the  words  'allowed  by  federal  law'.
+a. Act  25/1963,  section  8,  in  force  from  29-08-1963,  deleted  the  words  'or  by Clause  (2)'  which  appeared  after  the  words  'allowed  by  federal  law'.
 
-- Act 26/1963, subsection 22(6), in force from 16-09-1963, substituted 'Federal Court' for  'Supreme  Court'.
+b. Act 26/1963, subsection 22(6), in force from 16-09-1963, substituted 'Federal Court' for  'Supreme  Court'.
 
 Federal  Constitution
 
@@ -7561,17 +7686,29 @@ This  Clause  was  repealed  by Act  25/1963,  section  8,  in  force  from  29-
 
 #### Clauses  (1),  (3)  &  (4)
 
-Subsequently, these Clauses (1), (3) and (4) were repealed by Act A566, section 17, in force from 01-01-1985. The Clauses read as follows: '(1) The  Yang  di-Pertuan  Agong  may  make  arrangements  with  Her  Majesty  for  the reference  to  the  Judicial  Committee  of  Her  Majesty's  Privy  Council  of  appeals  from  the Federal Court; and, subject to the provisions of this Article, an appeal shall lie from that Court  to  the  Yang  di-Pertuan Agong  in  any  case  in  which  such  an  appeal  is  allowed  by federal law, and in respect of which provision for reference to the said Committee is made by  or  under  the  enactments  regulating  the  proceedings  of  the  said  Committee. (3)	 Any  appeal  under  this  Article  shall  be  subject  to  such  conditions  as  to  leave  or otherwise  as  may  be  prescribed  by  federal  law  or  by  or  under  the  enactments  regulating the  proceedings  of  the  Judicial  Committee  of  Her  Majesty's  Privy  Council. (4)	 On  receiving  from  Her  Majesty's  Government  in  the  United  Kingdom  the  report  or recommendation of the said Committee in respect of an appeal under this Article, the Yang di-Pertuan Agong shall  make  such  order  as  may  be  necessary  to  give  effect  thereto.'. Seei. G.N. 1254/1958; ii.	 L.N. 30/1964; and
+Subsequently, these Clauses (1), (3) and (4) were repealed by Act A566, section 17, in force from 01-01-1985. The Clauses read as follows:
 
-- Courts  of  Judicature Act  [ Act 91 ],  sections  74  to  79.
+'(1) The Yang di-Pertuan Agong may make arrangements with Her Majesty for the reference to the Judicial Committee of Her Majesty's Privy Council of appeals from the Federal Court; and, subject to the provisions of this Article, an appeal shall lie from that Court to the Yang di-Pertuan Agong in any case in which such an appeal is allowed by federal law, and in respect of which provision for reference to the said Committee is made by or under the enactments regulating the proceedings of the said Committee.
+
+(3) Any appeal under this Article shall be subject to such conditions as to leave or otherwise as may be prescribed by federal law or by or under the enactments regulating the proceedings of the Judicial Committee of Her Majesty's Privy Council.
+
+(4) On receiving from Her Majesty's Government in the United Kingdom the report or recommendation of the said Committee in respect of an appeal under this Article, the Yang di-Pertuan Agong shall make such order as may be necessary to give effect thereto.'.
+
+See—
+
+i. G.N. 1254/1958;
+
+ii. L.N. 30/1964; and
+
+iii. Courts of Judicature Act [Act 91], sections 74 to 79.
 
 ### Art.  131 a
 
-- Added by Act 26/1963, section 21, in force  from  16-09-1963.
+1. Added by Act 26/1963, section 21, in force  from  16-09-1963.
 
-- The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
+2. The  word  'Supreme'  substituted  for  'Federal'  by  Act  A566,  subsection  16(1),  in  force from 01-01-1985.
 
-- In  the  shoulder  note,  the  words  'Chief  Justice,  President  or  Chief  Judge'  substituted  for 'Lord President  or  Chief  Justice'  by Act A885,  paragraph  27 (a) ,  in  force  from  24-06-1994.
+3. In  the  shoulder  note,  the  words  'Chief  Justice,  President  or  Chief  Judge'  substituted  for 'Lord President  or  Chief  Justice'  by Act A885,  paragraph  27 (a) ,  in  force  from  24-06-1994.
 
 #### Clause  (1)
 
@@ -7597,7 +7734,7 @@ Federal  Constitution
 
 person  who  is  a  member  of  any  of  the  services  mentioned  in paragraphs (a) , (b) , (c) , (d) , (f) and (h) of Clause (1) holds office during the pleasure of the Yang di-Pertuan Agong, and, except as expressly provided by the Constitution of the State, every person who  is  a  member  of  the  public  service  of  a  State  holds  office during  the  pleasure  of  the  Ruler  or Yang  di-Pertua  Negeri.
 
-- The public  service  shall  not  be  taken  to  comprise-
+(3) The public  service  shall  not  be  taken  to  comprise-
 
 (a) the  office  of  any  member  of  the  administration  in  the Federation  or  a  State;  or
 
@@ -7609,7 +7746,7 @@ person  who  is  a  member  of  any  of  the  services  mentioned  in paragraphs
 
 (e) such  diplomatic  posts  as  the  Yang  di-Pertuan  Agong may  by  order  prescribe,  being  posts  which  but  for  the order  would  be  posts  in  the  general  public  service  of the  Federation.
 
-- References in this Part, except in Articles 136 and 147, to persons in the public service or to members of any of the public services  shall  not  apply  to-
+(4) References in this Part, except in Articles 136 and 147, to persons in the public service or to members of any of the public services  shall  not  apply  to-
 
 (a) ( Repealed );
 
@@ -7633,35 +7770,35 @@ See Art.  153(3)  &  160(2)  definition  of  'Office  of  profit'.
 
 #### Clause  (1)
 
-- The  words  'police  force'  in  paragraph (d) substituted  for  'police  service'  by Act  10/1960,  paragraph  17 (a) ,  in  force  from  31-05-1960.
+a. The  words  'police  force'  in  paragraph (d) substituted  for  'police  service'  by Act  10/1960,  paragraph  17 (a) ,  in  force  from  31-05-1960.
 
-- See Art.  134(1),  135(1),  (3)  &  139(1).
+b. See Art.  134(1),  135(1),  (3)  &  139(1).
 
-- The  word  'and'  was  deleted  at  the  end  of  paragraph (f) and  new  paragraph (h) was inserted  by Act A193,  section  2,  in  force  from  01-01-1974.
+c. The  word  'and'  was  deleted  at  the  end  of  paragraph (f) and  new  paragraph (h) was inserted  by Act A193,  section  2,  in  force  from  01-01-1974.
 
-- Paragraph (e) was deleted by Act A885, paragraph 28 (a) , in force from 24-06-1994. The original  paragraph (e) read  as  follows:
+d. Paragraph (e) was deleted by Act A885, paragraph 28 (a) , in force from 24-06-1994. The original  paragraph (e) read  as  follows:
 
 ' (e) the  railway  service;'.
 
 #### Clause  (2)
 
-- The words 'Yang di-Pertua Negeri' substituted for 'Governor' by Act A354, section 42, in  force  from  27-08-1976.
+a. The words 'Yang di-Pertua Negeri' substituted for 'Governor' by Act A354, section 42, in  force  from  27-08-1976.
 
-- See Public  Officers  (Conduct  and  Discipline)  Regulations  1993  [ P.U.  (A)  395/1993 ].
+b. See Public  Officers  (Conduct  and  Discipline)  Regulations  1993  [ P.U.  (A)  395/1993 ].
 
 #### Clause  (2 a )
 
-- Added by Act 10/1960, paragraph 17 (b) ,  in  force  from  31-05-1960.
+a. Added by Act 10/1960, paragraph 17 (b) ,  in  force  from  31-05-1960.
 
-- The  words  ' (e) , (f) and (h) '  substituted  for  ' (e) and (f) '  by  Act  A193,  section  2,  in force  from  01-01-1974.
+b. The  words  ' (e) , (f) and (h) '  substituted  for  ' (e) and (f) '  by  Act  A193,  section  2,  in force  from  01-01-1974.
 
-- The words 'Yang di-Pertua Negeri' substituted for 'Governor' by Act A354, section 42, in  force  from  27-08-1976.
+c. The words 'Yang di-Pertua Negeri' substituted for 'Governor' by Act A354, section 42, in  force  from  27-08-1976.
 
-- The  letter  and  punctuation  marks  ' (e) ,'  were  deleted  by  Act  A885,  paragraph  28 (b) , in  force  from  24-06-1994.
+d. The  letter  and  punctuation  marks  ' (e) ,'  were  deleted  by  Act  A885,  paragraph  28 (b) , in  force  from  24-06-1994.
 
 #### Clause  (3)
 
-- The present Clause was substituted by Act 26/1963, section 58, in force from 16-09-1963, and  replaced  the  earlier  Clause  which  stood  as  follows  at  the  date  of  the  repeal:
+a. The present Clause was substituted by Act 26/1963, section 58, in force from 16-09-1963, and  replaced  the  earlier  Clause  which  stood  as  follows  at  the  date  of  the  repeal:
 
 '(3) Subject to Clause (4), references to persons in the public service or to members of any  of  the  public  services  do  not  include  references  to  the  following,  that  is  to  say:
 
@@ -7679,7 +7816,7 @@ See Art.  153(3)  &  160(2)  definition  of  'Office  of  profit'.
 
 nor to a member of any Commission or Council established by this Constitution except that  if  he  is  a  member  of  any  of  the  public  services  in  some  other  capacity,  the  said references  include  references  to  him  in  that  capacity.'.
 
-- The  words  'Federal  Court,  the  Court  of Appeal'  substituted  for  'Supreme  Court'  by Act A885, paragraph 28 (c) ,  in  force  from  24-06-1994.
+b. The  words  'Federal  Court,  the  Court  of Appeal'  substituted  for  'Supreme  Court'  by Act A885, paragraph 28 (c) ,  in  force  from  24-06-1994.
 
 Federal  Constitution
 
@@ -7729,15 +7866,15 @@ the  proportion,  if  any,  of  his  remuneration  payable  by  the Federation a
 
 #### Clause  (4)
 
-- The  present  Clause  was  substituted  by  Act  26/1963,  section  58,  in  force  from 16-09-1963. The original  Clause  as  it  stood  on  Merdeka  Day  read  as  follows:
+a. The  present  Clause  was  substituted  by  Act  26/1963,  section  58,  in  force  from 16-09-1963. The original  Clause  as  it  stood  on  Merdeka  Day  read  as  follows:
 
 '(4) Clause  (3)  does  not  restrict  the  application  of Articles  136  and  147.'.
 
-- Paragraph (d) was  added  by  Act  31/1965,  section  2,  in  force  in  so  far  as  it  relates to  Malacca  as  from  01-05-1960  and  in  so  far  as  it  relates  to  Penang  as  from 01-11-1959.
+b. Paragraph (d) was  added  by  Act  31/1965,  section  2,  in  force  in  so  far  as  it  relates to  Malacca  as  from  01-05-1960  and  in  so  far  as  it  relates  to  Penang  as  from 01-11-1959.
 
-- In  paragraph (c) the  words  'Yang  di-Pertua  Negeri'  substituted  for  'Governor'  by Act A354, section  42,  in  force  from  27-08-1976.
+c. In  paragraph (c) the  words  'Yang  di-Pertua  Negeri'  substituted  for  'Governor'  by Act A354, section  42,  in  force  from  27-08-1976.
 
-- Paragraph (a) was  repealed  by Act A837,  section  6,  in  force  from  20-11-1992.
+d. Paragraph (a) was  repealed  by Act A837,  section  6,  in  force  from  20-11-1992.
 
 ### Art.  133
 
@@ -7797,29 +7934,29 @@ Provided  that  this  Clause  shall  not  apply  to  the  following cases:
 
 #### Clause  (1)
 
-- See Art.  144(5 a )  &  (5 b ).
+a. See Art.  144(5 a )  &  (5 b ).
 
-- The word ' (h) '  substituted  for  ' (g) '  by Act A193, section 3, in force from 01-01-1974.
+b. The word ' (h) '  substituted  for  ' (g) '  by Act A193, section 3, in force from 01-01-1974.
 
-- Proviso was inserted by Act 27/1968, section 2, in force from 09-09-1968 by Act A31, paragraph  5 (b) ,  in  force  from  24-03-1971.
+c. Proviso was inserted by Act 27/1968, section 2, in force from 09-09-1968 by Act A31, paragraph  5 (b) ,  in  force  from  24-03-1971.
 
-- Further proviso was inserted by Act A354, paragraph 30 (a) ,  in  force from 27-08-1976.
+d. Further proviso was inserted by Act A354, paragraph 30 (a) ,  in  force from 27-08-1976.
 
 #### Clause  (2)
 
-- Proviso  was  inserted  by Act A354,  paragraph  30 (b) ,  in  force  from  27-08-1976.
+a. Proviso  was  inserted  by Act A354,  paragraph  30 (b) ,  in  force  from  27-08-1976.
 
-- Further  proviso  was  inserted  by Act A442,  section  3,  in  force  from  31-12-1978.
+b. Further  proviso  was  inserted  by Act A442,  section  3,  in  force  from  31-12-1978.
 
-- See Art.  160(5) (b) .
+c. See Art.  160(5) (b) .
 
 #### Clause  (3)
 
-- The  present  Clause  was  inserted  by  Act  26/1963,  subsection  53(1),  in  force  from 16-09-1963.  The  earlier  Clause  which  was  repealed  by  Act  10/1960,  section  18,  in force  from  31-05-1960,  read  as  follows:
+a. The  present  Clause  was  inserted  by  Act  26/1963,  subsection  53(1),  in  force  from 16-09-1963.  The  earlier  Clause  which  was  repealed  by  Act  10/1960,  section  18,  in force  from  31-05-1960,  read  as  follows:
 
-'(3)	 No  member  of  any  of  the  services  mentioned  in  paragraph (c) , (f) or (g) of Clause  (1)  of  Article  132  shall,  without  the  concurrence  of  the  Judicial  and  Legal Service Commission, be dismissed or reduced in rank or suffer any other disciplinary measure  for  anything  done  or  omitted  by  him  in  the  exercise  of  a  judicial  function conferred  on  him  by  law.'.
+'(3) No  member  of  any  of  the  services  mentioned  in  paragraph (c) , (f) or (g) of Clause  (1)  of  Article  132  shall,  without  the  concurrence  of  the  Judicial  and  Legal Service Commission, be dismissed or reduced in rank or suffer any other disciplinary measure  for  anything  done  or  omitted  by  him  in  the  exercise  of  a  judicial  function conferred  on  him  by  law.'.
 
-- The words 'paragraph (c) ' substituted for 'paragraph (e) ' by Act A31, paragraph 5 (c) , in  force  from  24-03-1971.
+b. The words 'paragraph (c) ' substituted for 'paragraph (e) ' by Act A31, paragraph 5 (c) , in  force  from  24-03-1971.
 
 Federal  Constitution
 
@@ -7835,7 +7972,7 @@ Federal  Constitution
 
 126
 
-- thereof it is not expedient to carry out the requirements of  this  Clause;  or
+thereof it is not expedient to carry out the requirements of  this  Clause;  or
 
 (d) where there has been made against a member of such a service  any  order  of  detention,  supervision,  restricted residence, banishment or deportation, or where there has been imposed on such a member any form of restriction or supervision by bond or otherwise, under any law relating to  the  security  of  the  Federation  or  any  part  thereof, prevention  of  crime,  preventive  detention,  restricted residence,  banishment,  immigration,  or  protection  of women and girls:
 
@@ -7877,7 +8014,7 @@ all other matters relating to, the armed forces, other than matters relating  to
 
 (2) Clause  (1)  has  effect  subject  to  the  provisions  of  any federal  law,  and  any  such  law  may  provide  for  the  vesting  in the  Armed  Forces  Council  of  any  functions  with  respect  to  the armed forces.
 
-- The Armed Forces Council shall consist of the following members, that is  to  say:
+(3) The Armed Forces Council shall consist of the following members, that is  to  say:
 
 (a) the Minister for the time being charged with responsibility for  defence,  who  shall  be  Chairman;
 
@@ -7911,7 +8048,7 @@ all other matters relating to, the armed forces, other than matters relating  to
 
 #### Clause  (3)
 
-- The  present  Clause  was  substituted  by  Act  10/1960,  section  19,  in  force  from 31-05-1960. The earlier  Clause  read  as  follows:
+a. The  present  Clause  was  substituted  by  Act  10/1960,  section  19,  in  force  from 31-05-1960. The earlier  Clause  read  as  follows:
 
 '(3)	 The  Armed  Forces  Council  shall  consist  of  the  following  members,  that  is  to say-
 
@@ -7929,19 +8066,19 @@ all other matters relating to, the armed forces, other than matters relating  to
 
 (g) one, if any, additional member, whether military or civilian, appointed by the Yang di-Pertuan Agong.'.
 
-- The  words  'Federation  Navy'  in  paragraph (f) and  'Federation  Air  Force'  in paragraph (g) substituted for respectively 'Royal Malayan Navy' and 'Royal Malayan Air  Force'  by Act  26/1963,  section  70,  in  force  from  16-09-1963.
+b. The  words  'Federation  Navy'  in  paragraph (f) and  'Federation  Air  Force'  in paragraph (g) substituted for respectively 'Royal Malayan Navy' and 'Royal Malayan Air  Force'  by Act  26/1963,  section  70,  in  force  from  16-09-1963.
 
-- The words 'Their Royal Highnesses' in paragraph (b) substituted for 'Their Highnesses' by Act A31, section  2,  in  force  from  24-03-1971.
+c. The words 'Their Royal Highnesses' in paragraph (b) substituted for 'Their Highnesses' by Act A31, section  2,  in  force  from  24-03-1971.
 
-- See Armed  Forces Act  1972  [ Act  77 ].
+d. See Armed  Forces Act  1972  [ Act  77 ].
 
-- The words 'Chief of Defence Forces' substituted for 'Chief of the Armed Forces Staff' by Act A1130, subsection 10(1),  in  force  from  28-09-2001.
+e. The words 'Chief of Defence Forces' substituted for 'Chief of the Armed Forces Staff' by Act A1130, subsection 10(1),  in  force  from  28-09-2001.
 
 ##### Notes :
 
-- Upon  the  coming  into  operation  of  Act  A1130,  every  reference  to  the  'Chief  of  the Armed Forces Staff' in all written laws shall be construed as a reference to the 'Chief of  Defence  Forces'.
+1. Upon  the  coming  into  operation  of  Act  A1130,  every  reference  to  the  'Chief  of  the Armed Forces Staff' in all written laws shall be construed as a reference to the 'Chief of  Defence  Forces'.
 
-- Any  action  taken  by,  in  the  name  of  or  against  the  'Chief  of  Defence  Forces'  prior to  the  coming  into  operation  of Act A1130  shall  be  deemed  to  have  been  validly  and lawfully taken if the action could have been validly and lawfully taken by, in the name of  or  against  the  Chief  of  the Armed  Forces  Staff.
+2. Any  action  taken  by,  in  the  name  of  or  against  the  'Chief  of  Defence  Forces'  prior to  the  coming  into  operation  of Act A1130  shall  be  deemed  to  have  been  validly  and lawfully taken if the action could have been validly and lawfully taken by, in the name of  or  against  the  Chief  of  the Armed  Forces  Staff.
 
 Federal  Constitution
 
@@ -7965,7 +8102,7 @@ Federal  Constitution
 
 138. (1) There shall be a Judicial and Legal Service Commission, whose jurisdiction shall extend to all members of the judicial and legal  service.
 
-- The Judicial and Legal Service Commission shall consist of-
+(2) The Judicial and Legal Service Commission shall consist of-
 
 (a) the  Chairman of the Public Services Commission, who shall  be  Chairman;
 
@@ -7997,13 +8134,13 @@ The words 'or, if the Attorney General is a member of Parliament or is appointed
 
 #### Clause  (2)(c)
 
-- The  words  'or  are  qualified  to  be'  were  inserted  by  Act  A354,  paragraphs  31 (c) ,  in force  from  27-08-1976.
+a. The  words  'or  are  qualified  to  be'  were  inserted  by  Act  A354,  paragraphs  31 (c) ,  in force  from  27-08-1976.
 
-- Subsection 18(2) of Act A566, in force from 01-01-1985, provides that a reference to the  Federal  Court  shall  now  be  construed  as  a  reference  to  the  Supreme  Court.
+b. Subsection 18(2) of Act A566, in force from 01-01-1985, provides that a reference to the  Federal  Court  shall  now  be  construed  as  a  reference  to  the  Supreme  Court.
 
-- See also  Notes  on  this Article  on  the  preceding  page.
+c. See also  Notes  on  this Article  on  the  preceding  page.
 
-- The words 'Chief Justice of the Federal Court' and 'Federal Court, Court of Appeal' substituted  respectively  for  'Lord  President  of  the  Supreme  Court'  and  'Supreme Court'  by Act A885,  section  30,  in  force  from  24-06-1994.
+d. The words 'Chief Justice of the Federal Court' and 'Federal Court, Court of Appeal' substituted  respectively  for  'Lord  President  of  the  Supreme  Court'  and  'Supreme Court'  by Act A885,  section  30,  in  force  from  24-06-1994.
 
 2. The  earlier  Article  which  was  repealed  by  Act  10/1960,  section  20,  in  force  from 31-05-1960,  read  as  follows:
 
@@ -8023,7 +8160,7 @@ The words 'or, if the Attorney General is a member of Parliament or is appointed
 
 (e) one or more other members, who shall be appointed by the Yang di-Pertuan Agong, after  consultation  with  the  Chief  Justice,  from  among  judges  or  former  judges of  the  Supreme  Court.'.
 
-- See Art.  148(1).
+3. See Art.  148(1).
 
 ### Art.  139
 
@@ -8031,13 +8168,13 @@ See Art.  144(5 b )  &  148(1).
 
 #### Clause  (1)
 
-- The words 'paragraphs (c) and (f) ' in the original text were amended by Act 10/1960, paragraph  21 (a) ,  in  force  from  31-05-1960,  to  read  'paragraphs (b) , (c) and (f) '. Act 26/1963, subsection 53(2), in force from 16-09-1963, restored the original version 'paragraphs (c) and (f) '.
+a. The words 'paragraphs (c) and (f) ' in the original text were amended by Act 10/1960, paragraph  21 (a) ,  in  force  from  31-05-1960,  to  read  'paragraphs (b) , (c) and (f) '. Act 26/1963, subsection 53(2), in force from 16-09-1963, restored the original version 'paragraphs (c) and (f) '.
 
-- The  words  'to  members  of  the  public  services  of  the  State  of  Malacca  and  the  State of  Penang'  substituted  for  'or  members  of  the  public  service  of  the  State  of  Malacca or  the  State  of  Penang'  by Act  10/1960,  paragraph  21 (b) ,  in  force  from  31-05-1960.
+b. The  words  'to  members  of  the  public  services  of  the  State  of  Malacca  and  the  State of  Penang'  substituted  for  'or  members  of  the  public  service  of  the  State  of  Malacca or  the  State  of  Penang'  by Act  10/1960,  paragraph  21 (b) ,  in  force  from  31-05-1960.
 
-- The  letter  ', (e) '  was  inserted  after  the  letter  ' (c) '  by  Act  A514,  paragraph  9(1) (a) , in  force  from  15-05-1981.
+c. The  letter  ', (e) '  was  inserted  after  the  letter  ' (c) '  by  Act  A514,  paragraph  9(1) (a) , in  force  from  15-05-1981.
 
-- The  words  'paragraphs (c) and (f) '  substituted  for  'paragraphs (c) , (e) and (f) '  by Act A885, section  31,  in  force  from  24-06-1994.
+d. The  words  'paragraphs (c) and (f) '  substituted  for  'paragraphs (c) , (e) and (f) '  by Act A885, section  31,  in  force  from  24-06-1994.
 
 Federal  Constitution
 
@@ -8081,39 +8218,40 @@ Added by Act A514, paragraph 9(1) (b) ,  in  force  from  15-05-1981.
 
 #### Clause  (2)
 
-- The  words  'after  the  relevant  date'  which  appeared  after  the  words  'and  if  at  any time'  were  repealed  by Act  25/1963,  section  8,  in  force  from  29-08-1963.
+a. The  words  'after  the  relevant  date'  which  appeared  after  the  words  'and  if  at  any time'  were  repealed  by Act  25/1963,  section  8,  in  force  from  29-08-1963.
 
-- The words 'State Public Service' substituted for 'Commission corresponding in status and  jurisdiction  to  the  Public  Services'  by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
+b. The words 'State Public Service' substituted for 'Commission corresponding in status and  jurisdiction  to  the  Public  Services'  by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
 
-- See Art.  146 d (3).
+c. See Art.  146 d (3).
 
 #### Clause  (3)
 
-- This  Clause  was  repealed  by  Act  25/1963,  section  8,  in  force  from  29-08-1963  and read  as  follows:
+a. This  Clause  was  repealed  by  Act  25/1963,  section  8,  in  force  from  29-08-1963  and read  as  follows:
 
-'(3)	 The relevant date referred to in Clause (2) is whichever of the following is the earlier-
+'(3) The relevant date referred to in Clause (2) is whichever of the following is the earlier-
 
 (a) the  thirty-first  day  of  December,  nineteen  hundred  and  sixty-two;  or
 
 (b) the date on which there are first in operation as part of the Constitution of the State all the provisions set out in Part I of the Eighth Schedule or provisions substantially  to  the  same  effect.'.
 
-- This  new  Clause  was  inserted  by Act  27/1968,  section  3,  in  force  from  09-09-1968.
+b. This  new  Clause  was  inserted  by Act  27/1968,  section  3,  in  force  from  09-09-1968.
 
 #### Clause  (4)
 
-- The  words  'Subject  to  Article  146 b '  appearing  at  the  commencement  were  inserted by Act 26/1963, subsection 59(1), in force from 16-09-1963. The Act also substituted for the words 'eight other members' which appeared at the end of the Clause for 'ten other  members'.
+a. The  words  'Subject  to  Article  146 b '  appearing  at  the  commencement  were  inserted by Act 26/1963, subsection 59(1), in force from 16-09-1963. The Act also substituted for the words 'eight other members' which appeared at the end of the Clause for 'ten other  members'.
 
-- Act  59/1966,  section  2,  in  force  from  19-09-1966,  substituted  the  word  'twelve'  for 'ten'.
+b. Act  59/1966,  section  2,  in  force  from  19-09-1966,  substituted  the  word  'twelve'  for 'ten'.
 
-- The  word  'The'  substituted  for  'Subject  to  Article  146 b the'  and  the  word  'thirty' substituted  for  'twelve'  by Act A514,  paragraph  9(1) (c) ,  in  force  from  15-05-1981.
+c. The  word  'The'  substituted  for  'Subject  to  Article  146 b the'  and  the  word  'thirty' substituted  for  'twelve'  by Act A514,  paragraph  9(1) (c) ,  in  force  from  15-05-1981.
 
 ##### Note :
 
-Notwithstanding  anything  in  the  Constitution  or  the  Constitution  of  the  State  of  Sabah  or Sarawak,  any  member  of  the  public  services  of  the  State  of  Sabah  or  Sarawak  serving  in any federal posts or in any posts which have become federal posts in that State and who has exercised, in whatever manner or form, any option offered by the Federal Government to be a  member of the general public service of the Federation shall be deemed to have opted and accordingly transferred to or appointed as a member of the public service of the Federation. -See subsection  9(2)  of Act A514,  in  force  from  15-05-1981.
+Notwithstanding  anything  in  the  Constitution  or  the  Constitution  of  the  State  of  Sabah  or Sarawak,  any  member  of  the  public  services  of  the  State  of  Sabah  or  Sarawak  serving  in any federal posts or in any posts which have become federal posts in that State and who has exercised, in whatever manner or form, any option offered by the Federal Government to be a member of the general public service of the Federation shall be deemed to have opted and accordingly transferred to or appointed as a member of the public service of the Federation.
+— See subsection  9(2)  of Act A514,  in  force  from  15-05-1981.
 
-- The words 'other members; but the number of other members shall not, until the Yang di-Pertuan Agong by order otherwise provides, exceed thirty' substituted for 'nor more than  thirty  other  members'  by Act A767,  section  3,  in  force  from  11-05-1990.
+d. The words 'other members; but the number of other members shall not, until the Yang di-Pertuan Agong by order otherwise provides, exceed thirty' substituted for 'nor more than  thirty  other  members'  by Act A767,  section  3,  in  force  from  11-05-1990.
 
-- See P.U.  (A)  149/1990.
+e. See P.U.  (A)  149/1990.
 
 Federal  Constitution
 
@@ -8165,36 +8303,36 @@ Provided that Parliament may by law provide for the exercise of  such  disciplin
 
 (a) a chairman appointed by the Yang di-Pertuan Agong, who shall be either the chairman or  the  deputy  chairman  of  the  Public  Services  Commission;
 
-(b) a member possessing legal qualifications, who shall be appointed by the Yang diPertuan Agong after  consultation  with  the  Chief  Justice;
+(b) a member possessing legal qualifications, who shall be appointed by the Yang di-Pertuan Agong after  consultation  with  the  Chief  Justice;
 
-(c) not  less  than  two  nor  more  than  four  other  members  appointed  by  the  Yang  diPertuan Agong  at  his  discretion  but  after  considering  the  advice  of  the  Minister for  the  time  being  charged  with  responsibility  for  the  police.'.
+(c) not  less  than  two  nor  more  than  four  other  members  appointed  by  the  Yang  di-Pertuan Agong  at  his  discretion  but  after  considering  the  advice  of  the  Minister for  the  time  being  charged  with  responsibility  for  the  police.'.
 
 #### Clause  (1) :
 Proviso  inserted  by Act A354,  paragraph  32 (a) ,  in  force  from  27-08-1976.
 
 #### Clause  (3)
 
-- The words 'officer  of  police  in  general  command  of  the  police  force'  substituted  for 'Commissioner of Police' in paragraph (b) by Act  26/1963,  section  70,  in  force  from 16-09-1963.
+a. The words 'officer  of  police  in  general  command  of  the  police  force'  substituted  for 'Commissioner of Police' in paragraph (b) by Act  26/1963,  section  70,  in  force  from 16-09-1963.
 
-- The  words  'not  less  than  two  nor  more  than  four'  substituted  for  'two'  at the  commencement  of  paragraph (e) by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
+b. The  words  'not  less  than  two  nor  more  than  four'  substituted  for  'two'  at the  commencement  of  paragraph (e) by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
 
-- Clause  (3)(a) : See Art.142(1).
+c. Clause  (3)(a) : See Art.142(1).
 
-- Act  A354,  paragraph  32 (b) ,  in  force  from  27-08-1976,  amended Clause  (3)(e) by substituting  the  word  'six'  for  'four'.
+d. Act  A354,  paragraph  32 (b) ,  in  force  from  27-08-1976,  amended Clause  (3)(e) by substituting  the  word  'six'  for  'four'.
 
 #### Clause  (4)
 
-- The  words  'or  superior'  were  inserted  by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
+a. The  words  'or  superior'  were  inserted  by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
 
-- For the  appointment of the Inspector General of Police and Deputy Inspector General of  Police,  see  section  5  of  Police Act  1967  [ Act  344 ].
+b. For the  appointment of the Inspector General of Police and Deputy Inspector General of  Police,  see  section  5  of  Police Act  1967  [ Act  344 ].
 
 #### Clause  (6)(b)
 
 The words 'or a committee consisting of members of the Commission and of the force' were inserted  by Act A585,  section  26,  in  force  from  14-04-1984.
 
-- See Art.  148(1).
+2. See Art.  148(1).
 
-- See Police Act  1967.
+3. See Police Act  1967.
 
 Federal  Constitution
 
@@ -8212,7 +8350,7 @@ Federal  Constitution
 
 (4) The Yang di-Pertuan Agong may designate as special posts the posts of Inspector General of Police, Deputy Inspector General of  Police  and  any  other  posts  in  the  police  force  which  in  his opinion  are  of  similar  or  superior  status;  and  the  appointment to  any  post  so  designated  shall  not  be  made  in  accordance  with Clause  (1)  but  shall  be  made  by  the Yang  di-Pertuan Agong  on the  recommendation  of  the  Police  Force  Commission.
 
-(5) Before  acting  in  accordance  with  Clause  (4)  on  the recommendation  of  the  Police  Force  Commission,  the  Yang  diPertuan Agong  shall  consider  the  advice  of  the  Prime  Minister, and may once refer the recommendation back to the Commission in  order  that  it  may  be  reconsidered.
+(5) Before  acting  in  accordance  with  Clause  (4)  on  the recommendation  of  the  Police  Force  Commission,  the  Yang  di-Pertuan Agong  shall  consider  the  advice  of  the  Prime  Minister, and may once refer the recommendation back to the Commission in  order  that  it  may  be  reconsidered.
 
 (6) The Police Force Commission may provide for all or any of  the  following  matters:
 
@@ -8294,7 +8432,7 @@ Federal  Constitution
 
 142. (1) Subject to paragraph (a) of  Clause  (3)  of Article  140, a  member  of  either  House  of  Parliament  or  of  the  Legislative Assembly of a State shall not be or be appointed to be a member of  a  Commission  to  which  this  Part  applies.
 
-- Subject to Clause (3), a person shall not be appointed to be a  member of any of the Commissions to which this Part applies if  he  is,  and  shall  be  removed  by  order  of  the  Yang  di-Pertuan Agong if he becomes-
+(2) Subject to Clause (3), a person shall not be appointed to be a  member of any of the Commissions to which this Part applies if  he  is,  and  shall  be  removed  by  order  of  the  Yang  di-Pertuan Agong if he becomes-
 
 (a) a  member of  any  of  the  public  services;
 
@@ -8304,9 +8442,9 @@ Federal  Constitution
 
 ( 2a ) In addition to any disqualification provided under Clause (2), the Chairman or Deputy Chairman of any of the Commissions
 
-*Subsequently 'twelve'see P.U.  (A)  150/1990.
+*Subsequently 'twelve'—see P.U.  (A)  150/1990.
 
-*Now 'sixteen'see P.U.  (A)  169/2001.
+*Now 'sixteen'—see P.U.  (A)  169/2001.
 
 [[END OF PAGE 248]]
 
@@ -8314,17 +8452,17 @@ Federal  Constitution
 
 ### Art.  141 a
 
-- See Art.  148(1).
+1. See Art.  148(1).
 
-- This Article  was  inserted  by Act A193,  section  4,  in  force  from  01-01-1974.
+2. This Article  was  inserted  by Act A193,  section  4,  in  force  from  01-01-1974.
 
 #### Clause  (2)
 
-- The words 'not less than four but not more than eight other members' substituted for 'four  members'  by Act A354,  section  33,  in  force  from  27-08-1976.
+a. The words 'not less than four but not more than eight other members' substituted for 'four  members'  by Act A354,  section  33,  in  force  from  27-08-1976.
 
-- The words ', a Deputy Chairman' were inserted by Act A442, paragraph 4 (a) , in force from 31-12-1978.
+b. The words ', a Deputy Chairman' were inserted by Act A442, paragraph 4 (a) , in force from 31-12-1978.
 
-- The  words  'others  members;  but  the  number  of  the  other  members  shall  not,  until the  Yang  di-Pertuan  Agong  by  order  otherwise  provides,  exceed  eight'  substituted for  'but  not  more  than  eight  other  members'  by  Act  A767,  section  4,  in  force  from 11-05-1990.
+c. The  words  'others  members;  but  the  number  of  the  other  members  shall  not,  until the  Yang  di-Pertuan  Agong  by  order  otherwise  provides,  exceed  eight'  substituted for  'but  not  more  than  eight  other  members'  by  Act  A767,  section  4,  in  force  from 11-05-1990.
 
 #### Clause  (3)
 
@@ -8334,9 +8472,9 @@ The  words  'or  Deputy  Chairman'  were  inserted  by Act A442  paragraph  4 (b
 
 #### Clause  (1)
 
-- The words 'Subject to paragraph (a) of Clause (3) of Article 140, a member' substituted for  'A  member'  by Act  10/1960,  section  24,  in  force  from  01-04-1961.
+a. The words 'Subject to paragraph (a) of Clause (3) of Article 140, a member' substituted for  'A  member'  by Act  10/1960,  section  24,  in  force  from  01-04-1961.
 
-- The words 'shall  not  be  or  be  appointed'  substituted  for  'shall  not  be  appointed'  by Act A885, paragraph 32 (a) ,  in  force  from  24-06-1994.
+b. The words 'shall  not  be  or  be  appointed'  substituted  for  'shall  not  be  appointed'  by Act A885, paragraph 32 (a) ,  in  force  from  24-06-1994.
 
 #### Clause  (2)
 
@@ -8352,11 +8490,11 @@ The  present  paragraph  was  substituted  by  Act  A566,  paragraph  19(1) (a) 
 
 #### Clause  (2 a )
 
-- The  present  Clause  was  substituted  by  Act  A566,  paragraph  19(1) (b) ,  in  force  from 16-12-1983. The  earlier  Clause  which  was  inserted  by Act A514,  paragraph  11 (b), in force  from  15-05-1981,  read  as  follows:
+a. The  present  Clause  was  substituted  by  Act  A566,  paragraph  19(1) (b) ,  in  force  from 16-12-1983. The  earlier  Clause  which  was  inserted  by Act A514,  paragraph  11 (b), in force  from  15-05-1981,  read  as  follows:
 
 '( 2a) The disqualification in paragraph (b) of Clause (2) shall not apply where such organization or body carries out any welfare or voluntary work or objective beneficial to  the  community  or  any  part  thereof,  or  any  other  work  or  objective  of  a  charitable or social nature, and the member does not receive any remuneration, reward, profit or benefit  from  it.'.
 
-- The words 'or deputy chairman' were inserted immediately after the word 'Chairman' by Act A704, section  9,  in  force  from  10-06-1988.
+b. The words 'or deputy chairman' were inserted immediately after the word 'Chairman' by Act A704, section  9,  in  force  from  10-06-1988.
 
 Federal  Constitution
 
@@ -9329,7 +9467,7 @@ Federal  Constitution
 
 (3) This Article does not require any authority to disclose facts whose  disclosure  would  in  its  opinion  be  against  the  national interest.
 
-### P art XII
+### Part XII
 
 #### GENERAL AND MISCELLANEOUS
 
@@ -9402,9 +9540,9 @@ Federal  Constitution
 
 145
 
-- Notwithstanding the provisions of Clause (1), for a period of  ten  years  after  Merdeka  Day,  and  thereafter  until  Parliament otherwise  provides,  the  English  language  may  be  used  in  both Houses of Parliament, in the Legislative Assembly of every State, and  for  all  other  official  purposes.
+(2) Notwithstanding the provisions of Clause (1), for a period of  ten  years  after  Merdeka  Day,  and  thereafter  until  Parliament otherwise  provides,  the  English  language  may  be  used  in  both Houses of Parliament, in the Legislative Assembly of every State, and  for  all  other  official  purposes.
 
-- Notwithstanding the provisions of Clause (1), for a period of  ten  years  after  Merdeka  Day,  and  thereafter  until  Parliament otherwise  provides,  the  authoritative  texts-
+(3) Notwithstanding the provisions of Clause (1), for a period of  ten  years  after  Merdeka  Day,  and  thereafter  until  Parliament otherwise  provides,  the  authoritative  texts-
 
 (a) of  all  Bills  to  be  introduced  or  amendments  thereto  to be  moved  in  either  House  of  Parliament;  and
 
@@ -9416,9 +9554,9 @@ shall  be  in  the  English  language.
 
 Provided  that,  if  the  Court  and  counsel  on  both  sides  agree, evidence  taken  in  the  language  spoken  by  the  witness  need  not be  translated  into  or  recorded  in  English.
 
-- Notwithstanding the provisions of Clause (1), until Parliament otherwise  provides,  all  proceedings  in  subordinate  courts,  other than  the  taking  of  evidence,  shall  be  in  the  English  language.
+(5) Notwithstanding the provisions of Clause (1), until Parliament otherwise  provides,  all  proceedings  in  subordinate  courts,  other than  the  taking  of  evidence,  shall  be  in  the  English  language.
 
-- In this Article, 'official purpose' means any purpose of the Government, whether Federal or State, and includes any purpose of  a  public  authority.
+(6) In this Article, 'official purpose' means any purpose of the Government, whether Federal or State, and includes any purpose of  a  public  authority.
 
 #### Reservation of quotas in respect of services, permits, etc ., for Malays and natives of any of the States of Sabah and Sarawak
 
@@ -9432,10 +9570,9 @@ Federal  Constitution
 
 NOTES
 
-4. The  words  'Federal  Court,  the  Court  of  Appeal'  substituted  for  'Supreme  Court'  by
-
 ### Art.  152 -(cont.)
-3. See Art.  161(1). Act A885, section  37,  in  force  from  24-06-1994.
+3. See Art.  161(1).
+4. The  words  'Federal  Court,  the  Court  of  Appeal'  substituted  for  'Supreme  Court'  by Act A885, section  37,  in  force  from  24-06-1994.
 #### Clause  (5) :
 See Art.  161(1).
 
@@ -9460,7 +9597,7 @@ Federal  Constitution
 
 (3) The  Yang  di-Pertuan  Agong  may,  in  order  to  ensure  in accordance with Clause (2) the reservation to Malays and natives of any of the States of Sabah and Sarawak of positions in the public service and of scholarships, exhibitions and other educational or training privileges or special facilities, give such general directions as may be required for that purpose to any Commission to which Part X applies or to any authority charged with responsibility for the  grant  of  such  scholarships,  exhibitions  or  other  educational or  training  privileges  or  special  facilities;  and  the  Commission or  authority  shall  duly  comply  with  the  directions.
 
-(4) In  exercising  his  functions  under  this  Constitution  and federal  law  in  accordance  with  Clauses  (1)  to  (3)  the  Yang  diPertuan Agong shall not deprive any person of any public office held by him or of the continuance of any scholarship, exhibition or  other  educational  or  training  privileges  or  special  facilities enjoyed  by  him.
+(4) In  exercising  his  functions  under  this  Constitution  and federal  law  in  accordance  with  Clauses  (1)  to  (3)  the  Yang  di-Pertuan Agong shall not deprive any person of any public office held by him or of the continuance of any scholarship, exhibition or  other  educational  or  training  privileges  or  special  facilities enjoyed  by  him.
 
 (5) This  Article  does  not  derogate  from  the  provisions  of Article  136.
 
@@ -9540,7 +9677,7 @@ Federal  Constitution
 
 (2) Notwithstanding anything in Part VI, Parliament shall have exclusive power to make laws with respect to the boundaries of the  federal  capital.
 
-( Repealed ).
+(3) ( Repealed ).
 
 #### Commonwealth reciprocity
 
@@ -9666,7 +9803,7 @@ Federal  Constitution
 
 150
 
-( Repealed ).
+(2) ( Repealed ).
 
 (3) A  Bill  for  making  any  amendment  to  the  Constitution (other  than  an  amendment  excepted  from  the  provisions  of  this Clause)  and  a  Bill  for  making  any  amendment  to  a  law  passed under Clause (4) of Article 10 shall not be passed in either House of  Parliament unless it has been supported on Second and Third Readings  by  the  votes  of  not  less  than  two-thirds  of  the  total number of members of that House.
 
@@ -9676,7 +9813,7 @@ Federal  Constitution
 
 (b) any amendment incidental to or consequential on the exercise of  any  power  to  make  law  conferred  on  Parliament  by any  provision  of  this  Constitution  other  than  Articles 74  and  76;
 
-(bb) subject  to  Article  16 1e any  amendment  made  for  or in  connection  with  the  admission  of  any  State  to  the Federation or its association with the States thereof, or any modification made as to the application of this Constitution to  a  State  previously  so  admitted  or  associated;
+(bb) subject  to  Article  161 e any  amendment  made  for  or in  connection  with  the  admission  of  any  State  to  the Federation or its association with the States thereof, or any modification made as to the application of this Constitution to  a  State  previously  so  admitted  or  associated;
 
 (c) any  amendment  consequential  on  an  amendment  made under  paragraph (a) .
 
@@ -9774,7 +9911,7 @@ Constitution, and in particular Clause (1) of Article 4 and Articles 159 and 161
 
 'citizen'  means  a  citizen  of  the  Federation;
 
-'Civil  List'  means  the  provision  made  for  the  maintenance of  the Yang  di-Pertuan Agong,  his  Consort,  a  Ruler  or Yang  diPertua  Negeri  out  of  public  funds;
+'Civil  List'  means  the  provision  made  for  the  maintenance of  the Yang  di-Pertuan Agong,  his  Consort,  a  Ruler  or Yang  di-Pertua  Negeri  out  of  public  funds;
 
 'Commonwealth  country'  means  any  country  recognized  by the  Yang  di-Pertuan Agong  to  be  a  Commonwealth  country;  and 'part of the Commonwealth' means any Commonwealth country, any  colony,  protectorate  or  protected  state  or  any  other  territory administered by the Government of any Commonwealth country;
 
@@ -10106,7 +10243,7 @@ Federal  Constitution
 
 156
 
-- References in this Constitution to the Federation of Malaya Agreement  1948,  shall  be  construed,  except  where  the  context otherwise  requires,  as  references  to  that  Agreement  as  in  force immediately before  Merdeka Day.
+(7) References in this Constitution to the Federation of Malaya Agreement  1948,  shall  be  construed,  except  where  the  context otherwise  requires,  as  references  to  that  Agreement  as  in  force immediately before  Merdeka Day.
 
 #### Reprint of the Constitution
 
@@ -10116,7 +10253,7 @@ Federal  Constitution
 
 160 b . Where this Constitution has been translated into the national language, the Yang di-Pertuan Agong may prescribe such national language  text  to  be  authoritative,  and  thereafter  if  there  is  any conflict  or  discrepancy  between  such  national  language  text and  the  English  language  text  of  this  Constitution,  the  national language  text  shall  prevail  over  the  English  language  text.
 
-### P art XII a
+### Part XIIa
 
 #### ADDITIONAL PROTECTIONS FOR STATES OF SABAH AND SARAWAK
 
@@ -10124,7 +10261,7 @@ Federal  Constitution
 
 161. (1) No  Act  of  Parliament  terminating  or  restricting  the use  of  the  English  language  for  any  of  the  purposes  mentioned in  Clauses (2) to (5) of Article 152 shall come into operation as regards  the  use  of  the  English  language  in  any  case  mentioned in  Clause  (2)  of  this Article  until  ten  years  after  Malaysia  Day.
 
-- Clause  (1)  applies-
+(2) Clause  (1)  applies-
 
 (a) to  the  use  of  the  English  language  in  either  House  of Parliament by a member for or from the State of Sabah or  Sarawak;  and
 
@@ -10207,9 +10344,9 @@ proceedings in the Federal Court or the Court of Appeal as  are  mentioned  in  
 
 161 a . (1) ( Repealed ).
 
-( Repealed ).
+(2) ( Repealed ).
 
-( Repealed ).
+(3) ( Repealed ).
 
 [[END OF PAGE 302]]
 
@@ -10227,7 +10364,7 @@ The  words  'Sabah  and  Sarawak'  and  'Federal  Court  or  the  Court  of  App
 
 ##### Note :
 
-Clause (5) of Article 161 of the Constitution shall, in so far as it relates to the use of a native language  in  native  courts  or  for  any  code  of  native  law  and  customs,  apply  in  the  Federal Territory  of  Labuan  in  the  like  manner  that  it  applies  in  the  State  of  SabahSee Act A585.
+Clause (5) of Article 161 of the Constitution shall, in so far as it relates to the use of a native language  in  native  courts  or  for  any  code  of  native  law  and  customs,  apply  in  the  Federal Territory  of  Labuan  in  the  like  manner  that  it  applies  in  the  State  of  Sabah—See Act A585.
 
 ### Art.  161 a
 
@@ -10263,7 +10400,7 @@ Federal  Constitution
 
 (5) Article 89 shall not apply to the State of Sabah or Sarawak, and  Article  8  shall  not  invalidate  or  prohibit  any  provision  of State  law  in  the  State  of  Sabah  or  Sarawak  for  the  reservation of  land  for  natives  of  the  State  or  for  alienation  to  them,  or  for giving  them  preferential  treatment  as  regards  the  alienation  of land  by  the  State.
 
-- In  this Article  'native'  means-
+(6) In  this Article  'native'  means-
 
 (a) in relation to Sarawak, a person who is a citizen and either belongs  to  one  of  the  races  specified  in  Clause  (7)  as indigenous  to  the  State  or  is  of  mixed  blood  deriving exclusively  from  those  races;  and
 
@@ -10297,7 +10434,7 @@ The  words  'the  State  of  Sabah  or  Sarawak'  substituted  for  'a  Borneo  
 
 ##### Note :
 
-The reference in Clause (6) (b) of Article 161 a of the Constitution to 'Sabah' shall be construed as  including  a  reference  to  the  Federal  Territory  of  LabuanSee Act A585.
+The reference in Clause (6) (b) of Article 161 a of the Constitution to 'Sabah' shall be construed as  including  a  reference  to  the  Federal  Territory  of  Labuan—See Act A585.
 
 ### Art.  161 b
 
@@ -10345,7 +10482,7 @@ of  Sabah  and  Sarawak  and  entertaining  proceedings  on  appeal from the Hig
 
 [[START OF PAGE 307]]
 
-### Art 16 1b -(cont.)
+### Art.  161b -(cont.)
 
 #### Clause  (2)
 
@@ -10421,7 +10558,7 @@ executive authority of the State in those matters, and (so far as related theret
 
 [[START OF PAGE 309]]
 
-### Art 16 1e -(cont.)
+### Art.  161e -(cont.)
 
 #### Clause  (2)
 
@@ -10437,7 +10574,7 @@ The words 'Sabah and Sarawak' substituted for 'Borneo' by Act A885, section 41, 
 
 The  words  'the  State  of  Sabah  or  Sarawak'  substituted  for  'a  Borneo  State'  by Act A514, paragraph  19(1) (b) ,  in  force  from  27-08-1976.
 
-### Art.  16 1f,  161g  & 161 h
+### Art.  161f,  161g  & 161h
 
 These Articles were added by Act 26/1963, sections 67, 68 and 69, in force from 16-09-1963, and were repealed  by Act  59/1966,  section  2,  in  force  from  09-08-1965  which  read  as  follows:
 
@@ -10475,7 +10612,7 @@ Federal  Constitution
 
 161
 
-### P art XIII
+### Part XIII
 
 #### TEMPORARY AND TRANSITIONAL PROVISIONS
 
@@ -10487,13 +10624,13 @@ Federal  Constitution
 
 (3) References in any existing law to the Federation established by  the  Federation  of  Malaya Agreement  1948,  and  its  territories, and  to  any  officer  holding  office  under  that  Federation  or  to  any authority  or  body  constituted  in  or  for  that  Federation  (including any  references  falling  to  be  construed  as  such  references  by virtue  of  Clause  135  of  the  said  Agreement)  shall  be  construed, in relation to any time on and after Merdeka Day, as references to the Federation (that is to say, the Federation established under the Federation of Malaya Agreement 1957) and its territories and to the corresponding officer, authority or body respectively; and the Yang di-Pertuan Agong may by order declare what officer, authority  or body is to be taken for the purposes of this Clause to correspond to  any  officer,  authority  or  body  referred  to  in  any  existing  law.
 
-( Repealed ).
+(4) ( Repealed ).
 
 (5) Any  order  made  under  Clause  (4)  may  be  amended  or repealed by the authority having power to make laws with respect to  the  matter  to  which  the  order  relates.
 
 (6) Any court or tribunal applying the provision of any existing law which has not been modified on or after Merdeka Day under this  Article  or  otherwise  may  apply  it  with  such  modifications as  may  be  necessary  to  bring  it  into  accord  with  the  provisions of  this  Constitution.
 
-*NOTE -This Article has been repealed vide Constitution (Amendment) Act 1963 [ Act 25/1963 ] w.e.f.  29 August  1963see section  8  of Act  25/1963. See also  notes  on Article  163.
+*NOTE—This Article has been repealed vide Constitution (Amendment) Act 1963 [Act 25/1963] w.e.f. 29 August 1963—see section 8 of Act 25/1963. See also notes on Article 163.
 
 [[END OF PAGE 310]]
 
@@ -10543,21 +10680,21 @@ Federal  Constitution
 
 166. (1) ( Repealed ).
 
-( Repealed ).
+(2) ( Repealed ).
 
-- Any  land  vested  in  the  State  of  Malacca  or  the  State  of Penang which immediately before Merdeka Day was occupied or used by the Federation Government or Her Majesty's Government or by any public authority for purposes which in accordance with the provisions of this Constitution become federal purposes shall on and after that day be occupied, used, controlled and managed by the Federal Government or, as the case may be, the said public authority,  so  long  as  it  is  required  for  federal  purposes,  and-
+(3) Any  land  vested  in  the  State  of  Malacca  or  the  State  of Penang which immediately before Merdeka Day was occupied or used by the Federation Government or Her Majesty's Government or by any public authority for purposes which in accordance with the provisions of this Constitution become federal purposes shall on and after that day be occupied, used, controlled and managed by the Federal Government or, as the case may be, the said public authority,  so  long  as  it  is  required  for  federal  purposes,  and-
 
 (a) shall not be disposed of or used for any purposes other than federal purposes without the consent of the Federal Government; and
 
 (b) shall  not  be  used  for  federal  purposes  different  from the purposes for which it was used immediately before Merdeka  Day  without  the  consent  of  the  Government of  the  State.
 
-( Repealed ).
+(4) ( Repealed ).
 
-( Repealed ).
+(5) ( Repealed ).
 
-( Repealed ).
+(6) ( Repealed ).
 
-( Repealed ).
+(7) ( Repealed ).
 
 [[END OF PAGE 312]]
 
@@ -10667,15 +10804,15 @@ Federal  Constitution
 
 167. (1) ( Repealed ).
 
-( Repealed ).
+(2) ( Repealed ).
 
-( Repealed ).
+(3) ( Repealed ).
 
-( Repealed ).
+(4) ( Repealed ).
 
-( Repealed ).
+(5) ( Repealed ).
 
-- The Attorney General shall, on the application of any party interested in any legal proceedings, other than proceedings between the Federation and a State, certify whether any right, liability or obligation is by virtue of this Article a right, liability or obligation of the Federation or of a State named in the certificate, and any such  certificate  shall  for  the  purposes  of  those  proceedings  be final and binding on all courts, but shall not operate to prejudice the  rights  and  obligations  of  the  Federation  and  any  State  as between themselves.
+(6) The Attorney General shall, on the application of any party interested in any legal proceedings, other than proceedings between the Federation and a State, certify whether any right, liability or obligation is by virtue of this Article a right, liability or obligation of the Federation or of a State named in the certificate, and any such  certificate  shall  for  the  purposes  of  those  proceedings  be final and binding on all courts, but shall not operate to prejudice the  rights  and  obligations  of  the  Federation  and  any  State  as between themselves.
 
 (7) The Federation shall make the like annual payments as fell to  be  made  before  Merdeka  Day  under Article  II  of  the  Treaty made on the sixth day of May, eighteen hundred and sixty-nine, between  Her  Majesty  of  the  one  part  and  the  King  of  Siam  of the  other  part  relative  to  the  State  of  Kedah.
 
@@ -10749,7 +10886,7 @@ Federal  Constitution
 
 164
 
-- the  Federation  or  any  part  thereof  and  another  country shall be deemed to be a treaty, agreement or convention between the  Federation  and  that  other  country;
+the  Federation  or  any  part  thereof  and  another  country shall be deemed to be a treaty, agreement or convention between the  Federation  and  that  other  country;
 
 (b) any  decision  taken  by  an  international  organization  and accepted before Merdeka Day by the Government of the United Kingdom on behalf of the Federation or any part thereof shall be deemed to be a decision of an international organization  of  which  the  Federation  is  a  member;
 
@@ -10804,13 +10941,17 @@ This Article  was  repealed  by Act  25/1963,  section  8,  in  force  from  29-
 (2)	 The  number  of  constituencies  for  the  purpose  of  the  first  elections  to  be  held  after Merdeka Day to the Legislative Assemblies of the several States shall be as set out in the following Table, and those constituencies shall be delimited by dividing the constituencies delimited  for  the  purpose  of  the  first  election  to  the  House  of  Representatives.
 
 Table
---- | --- | --- | --- | --- | --- | ---
-Johore | … | … | 32 | Penang … | … | 24
-Kedah | … | … | 24 | Perak … | … | 40
-Kelantan | … | … | 30 | Perlis … | … | 12
-Malacca | … | … | 20 | Selangor … | … | 28
-Negeri Sembilan | … | 24 | Terengganu | … | 24.'.
-Pahang | … | … | 24
+Johore … … 32
+Kedah … … 24
+Kelantan … … 30
+Malacca … … 20
+Negeri Sembilan … 24
+Pahang … … 24
+Penang … … 24
+Perak … … 40
+Perlis … … 12
+Selangor … … 28
+Terengganu … 24.'.
 
 2. See Eighth  Schedule,  subsection  21(1).
 
@@ -10887,7 +11028,7 @@ Federal  Constitution
 
 180. (1) The Tenth Schedule to the Federation of Malaya Agreement 1948, shall continue in force on and after Merdeka Day, but with the modification  that  any  reference  therein  to  the  High  Commissioner shall  be  construed  as  a  reference  to  the Yang  di-Pertuan Agong.
 
-- The said Schedule shall for the purposes of this Constitution be  deemed  to  be  federal  law  and  may,  subject  to  the  provisions of Article  147,  be  amended  and  repealed  accordingly.
+(2) The said Schedule shall for the purposes of this Constitution be  deemed  to  be  federal  law  and  may,  subject  to  the  provisions of Article  147,  be  amended  and  repealed  accordingly.
 
 (3) In  its  application  to  any  law  made  under  Clause  (2)  of Article 147 shall have effect as if references therein to an award included  compensation.
 
@@ -10920,7 +11061,7 @@ Federal  Constitution
 
 ### Part XV
 
-#### PROCEEDINGS AGAINST THE YANG Dl-PERTUAN AGONG AND THE RULERS
+#### PROCEEDINGS AGAINST THE YANG DI-PERTUAN AGONG AND THE RULERS
 
 #### The Special Court
 
@@ -10948,11 +11089,11 @@ Federal  Constitution
 
 ### Part  XV, Art.  182  &  183
 
-Inserted  by Act A848,  section  7 a ,  in  force  from  30-03-1993.
+Inserted  by Act A848,  section  7a,  in  force  from  30-03-1993.
 
 ##### Note :
 
-No proceedings whatsoever shall be brought in any court or in the Special Court against the Yang di-Pertuan Agong or the Ruler of a State in his personal capacity in respect of anything done or omitted to be done by him before the coming into force of the Constitution (Amendment) Act  1993See Section  8  of Act A848.
+No proceedings whatsoever shall be brought in any court or in the Special Court against the Yang di-Pertuan Agong or the Ruler of a State in his personal capacity in respect of anything done or omitted to be done by him before the coming into force of the Constitution (Amendment) Act  1993—See Section  8  of Act A848.
 
 ### Art.  182
 
@@ -10996,15 +11137,11 @@ Federal  Constitution
 
 [[START OF PAGE 327]]
 
-Federal  Constitution
-
-# schedules
+# SCHEDULES
 
 [[END OF PAGE 327]]
 
 [[START OF PAGE 328]]
-
-Federal  Constitution
 
 [[END OF PAGE 328]]
 
@@ -11054,21 +11191,21 @@ I  ......................................................  of  .................
 
 [[START OF PAGE 330]]
 
-### First  Schedule
-
-The words 'faithful and bear true allegiance to His Majesty the Yang di-Pertuan Agong and be a  true,  loyal  and  faithful  citizen  of  the  Federation'  substituted  for  'a  true,  loyal  and  faithful citizen  of  the  Federation,  and  will  give  due  obedience  to  all  lawfully  constituted  authorities in  the  Federation'  by Act  14/1962,  section  26,  in  force  from  01-10-1962.
-
-### Second Schedule
-
-#### P art I
-
-- Added by Act 26/1963, subsection 24(1), in force  from  16-09-1963.
-
-- Heading amended by Act 59/1966, section 2, in force from 09-08-1965, by the deletion of the  words  ',  other than Singapore citizens' which appeared at the end.
-
 Federal  Constitution
 
 ##### NOTES
+
+### First Schedule
+
+The words “faithful and bear true allegiance to His Majesty the Yang di-Pertuan Agong and be a true, loyal and faithful citizen of the Federation” substituted for “a true, loyal and faithful citizen of the Federation, and will give due obedience to all lawfully constituted authorities in the Federation” by Act 14/1962, section 26, in force from 01-10-1962.
+
+### Second Schedule
+
+#### Part I
+
+1. Added by Act 26/1963, subsection 24(1), in force from 16-09-1963.
+
+2. Heading amended by Act 59/1966, section 2, in force from 09-08-1965, by the deletion of the words “, other than Singapore citizens” which appeared at the end.
 
 [[END OF PAGE 330]]
 
@@ -11082,77 +11219,77 @@ Federal  Constitution
 
 from suit and legal process as is accorded to an envoy of a sovereign power accredited  to  the Yang  di-Pertuan Agong.
 
-- Subject to the provisions of Part III of this Constitution, a person ordinarily resident in the State of Sabah or Sarawak or in Brunei on Malaysia Day is a citizen  by  operation  of  law  if  he  was  immediately  before  that  day  a  citizen of  the  United  Kingdom  and  Colonies,  and  either-
+2. Subject to the provisions of Part III of this Constitution, a person ordinarily resident in the State of Sabah or Sarawak or in Brunei on Malaysia Day is a citizen by operation of law if he was immediately before that day a citizen of the United Kingdom and Colonies, and either—
 
-(a) was  born  in  the  territories  comprised  in  the  States  of  Sabah  and Sarawak; or
+(a) was born in the territories comprised in the States of Sabah and Sarawak; or
 
-(b) became such a citizen by registration in those territories or by or in consequence of naturalization  there.
+(b) became such a citizen by registration in those territories or by or in consequence of naturalization there.
 
-### P art II
+### Part II
 
-[Article  14(1) (b) ]
+[Article 14(1)(b)]
 
 #### CITIZENSHIP BY OPERATION OF LAW OF PERSONS BORN ON OR AFTER MALAYSIA DAY
 
-- Subject  to  the  provisions  of  Part  III  of  this  Constitution,  the  following persons  born  on  or  after  Malaysia  Day  are  citizens  by  operation  of  law,  that is  to  say:
+1. Subject to the provisions of Part III of this Constitution, the following persons born on or after Malaysia Day are citizens by operation of law, that is to say:
 
-(a) every person born within the Federation of whose parents one at least is  at  the  time  of  the  birth  either  a  citizen  or  permanently  resident in  the  Federation;  and
+(a) every person born within the Federation of whose parents one at least is at the time of the birth either a citizen or permanently resident in the Federation; and
 
 (b) every person born outside the Federation whose father is at the time of the birth a citizen and either was born in the Federation or is at the time of the birth in the service of the Federation or of a State; and
 
-(c) every person born outside the Federation whose father is at the time of  the  birth  a  citizen  and  whose  birth  is,  within  one  year  of  its occurrence or within such longer period as the Federal Government may  in  any  particular  case  allow,  registered  at  a  consulate  of  the Federation  or,  if  it  occurs  in  Brunei  or  in  a  territory  prescribed for this purpose by order of the Yang di-Pertuan Agong, registered with  the  Federal  Government;  and
+(c) every person born outside the Federation whose father is at the time of the birth a citizen and whose birth is, within one year of its occurrence or within such longer period as the Federal Government may in any particular case allow, registered at a consulate of the Federation or, if it occurs in Brunei or in a territory prescribed for this purpose by order of the Yang di-Pertuan Agong, registered with the Federal Government; and
 
-(d) every person born in Singapore of whose parents one at least is at the time of the birth a citizen and who is not born a citizen otherwise than  by  virtue  of  this  paragraph;  and
+(d) every person born in Singapore of whose parents one at least is at the time of the birth a citizen and who is not born a citizen otherwise than by virtue of this paragraph; and
 
-(e) every person born within the Federation who is not born a citizen of  any  country  otherwise  than  by  virtue  of  this  paragraph.
+(e) every person born within the Federation who is not born a citizen of any country otherwise than by virtue of this paragraph.
 
-(1) A  person  is  not  a  citizen  by  virtue  of  paragraph (a) , (d) or (e) of section 1 if, at the time of his birth, his father, not being a citizen, possesses such immunity from suit and legal process as is accorded to an envoy of a sovereign power accredited to the Yang di-Pertuan Agong, or if his father is then an enemy alien  and  the  birth  occurs  in  a  place  under  the  occupation  of  the  enemy.
+2. (1) A person is not a citizen by virtue of paragraph (a), (d) or (e) of section 1 if, at the time of his birth, his father, not being a citizen, possesses such immunity from suit and legal process as is accorded to an envoy of a sovereign power accredited to the Yang di-Pertuan Agong, or if his father is then an enemy alien and the birth occurs in a place under the occupation of the enemy.
 
-(2) In  section  1  the  reference  in  paragraph (b) to  a  person  having  been born in the Federation includes his having been born before Malaysia Day in the  territories  comprised  in  the  States  of  Sabah  and  Sarawak.
+(2) In section 1 the reference in paragraph (b) to a person having been born in the Federation includes his having been born before Malaysia Day in the territories comprised in the States of Sabah and Sarawak.
 
 [[END OF PAGE 331]]
 
 [[START OF PAGE 332]]
 
-### Second Schedule -(cont.)
-
-##### Section  2
-
-The words 'the State of Sabah or Sarawak' substituted for 'a Borneo State' and 'States of Sabah and Sarawak' substituted for 'Borneo States' by Act A514, paragraph 19(1) (b) ,  in  force  from  27-08-1976.
-
-- See Part.  III,  sections  19 a -19 c .
-
-#### P art II
-
-- Added by Act 26/1963, subsection 24(1), in force  from  16-09-1963.
-
-- Act 59/1966, section 2, in force from 09-08-1965, deleted the following references to Singapore  and  Singapore  citizens:
-
-( a )	 Heading-the words ', OTHER THAN SINGAPORE citizens' which appeared at the  end  thereof;
-
-( b ) Sections 1(a) and (e) -the words 'outside Singapore' which appeared after 'within the  Federation';
-
-( c ) Section  1(a) -the  words  ',  but  not  a  Singapore  citizen,'  which  appeared  after 'either  a  citizen';
-
-( d ) Sections 1(b),(c) and (d) -the words ', but not a Singapore citizen,' which appeared after  'of  the  birth  a  citizen';
-
-( e ) Section 2(2) -the words 'or Singapore' which appeared at the end. The words 'the States  of  Sabah  and  Sarawak'  substituted  for  'the  Borneo  States'  by  Act  A354, section  43,  in  force  from  27-08-1976.
-
-- See Part  III,  section  19 a -19 c .
-
-##### Section  1
-
-- Subsections (a)  &  (d) : See subsection  2(1).
-
-- Subsection  (b) : See subsection  2(2).
-
-- Subsection  (c) : See subsection  2(3).
-
-- Subsection (e) : See subsections  2(1)  &  (3).
-
 Federal  Constitution
 
 ##### NOTES
+
+### Second Schedule -(cont.)
+
+##### Section 2
+
+The words “the State of Sabah or Sarawak” substituted for “a Borneo State” and “States of Sabah and Sarawak” substituted for “Borneo States” by Act A514, paragraph 19(1)(b), in force from 27-08-1976.
+
+3. See Part. III, sections 19a-19c.
+
+#### Part II
+
+1. Added by Act 26/1963, subsection 24(1), in force from 16-09-1963.
+
+2. Act 59/1966, section 2, in force from 09-08-1965, deleted the following references to Singapore and Singapore citizens:
+
+(a) Heading—the words “, OTHER THAN SINGAPORE citizens” which appeared at the end thereof;
+
+(b) Sections 1(a) and (e)—the words “outside Singapore” which appeared after “within the Federation”;
+
+(c) Section 1(a)—the words “, but not a Singapore citizen,” which appeared after “either a citizen”;
+
+(d) Sections 1(b), (c) and (d)—the words “, but not a Singapore citizen,” which appeared after “of the birth a citizen”;
+
+(e) Section 2(2)—the words “or Singapore” which appeared at the end. The words “the States of Sabah and Sarawak” substituted for “the Borneo States” by Act A354, section 43, in force from 27-08-1976.
+
+3. See Part III, section 19a-19c.
+
+##### Section 1
+
+a. Subsections (a) & (d): See subsection 2(1).
+
+b. Subsection (b): See subsection 2(2).
+
+c. Subsection (c): See subsection 2(3).
+
+d. Subsection (e): See subsections 2(1) & (3).
 
 [[END OF PAGE 332]]
 
@@ -11166,97 +11303,98 @@ Federal  Constitution
 
 (3) For  the  purposes  of  paragraph (e) of  section  1  a  person  is  to  be treated  as  having  at  birth  any  citizenship  which  he  acquires  within  one  year afterwards  by  virtue  of  any  provision  corresponding  to  paragraph (c) of  that section  or  otherwise.
 
-### P art III
+### Part III
 
-[Article  31]
+[Article 31]
 
 #### SUPPLEMENTARY PROVISIONS RELATING TO CITIZENSHIP
 
 #### The Minister
 
-1. The functions of the Federal Government under Part III of this Constitution shall be exercised by such Minister of that Government as the Yang di-Pertuan Agong may from time to  time  direct,  and  references  in  this  Schedule  to  the Minister  shall  be  construed  accordingly.
+1. The functions of the Federal Government under Part III of this Constitution shall be exercised by such Minister of that Government as the Yang di-Pertuan Agong may from time to time direct, and references in this Schedule to the Minister shall be construed accordingly.
 
-2. A decision of the Federal Government under Part III of this Constitution shall  not  be  subject  to  appeal  or  review  in  any  court.
+2. A decision of the Federal Government under Part III of this Constitution shall not be subject to appeal or review in any court.
 
-( Repealed ).
+3. (Repealed).
 
-4. (1) The Minister may delegate to any officer of the Federal Government or,  with  the  consent  of  the  Ruler  or  Yang  di-Pertua  Negeri  of  any  State,  to any  officer  of  the  Government  of  that  State,  any  of  his  functions  under  Part III  of  this  Constitution or this Schedule relating to citizenship by registration and  the  keeping  of  registers,  and,  in  relation  to  orders  under  paragraph (c) of  Clause  (1)  of  Article  25  or  under  Article  26,  any  of  his  functions  under Article 27 prior to determining whether to make such an order; but any person aggrieved by the decision of a person to whom the functions of the Minister are  so  delegated  may  appeal  to  the  Minister.
+4. (1) The Minister may delegate to any officer of the Federal Government or, with the consent of the Ruler or Yang di-Pertua Negeri of any State, to any officer of the Government of that State, any of his functions under Part III of this Constitution or this Schedule relating to citizenship by registration and the keeping of registers, and, in relation to orders under paragraph (c) of Clause (1) of Article 25 or under Article 26, any of his functions under Article 27 prior to determining whether to make such an order; but any person aggrieved by the decision of a person to whom the functions of the Minister are so delegated may appeal to the Minister.
 
-(2) The Minister may also, with the consent of the Yang di-Pertua Negeri of the State, delegate to an authority of the State of Sabah or Sarawak (subject or not to conditions providing for an appeal from that authority to the Minister) any of the Minister's functions under Clause (6) of Article 28 a which are not required  to  be  delegated  by  Clause  (7)  of  that Article.
+(2) The Minister may also, with the consent of the Yang di-Pertua Negeri of the State, delegate to an authority of the State of Sabah or Sarawak (subject or not to conditions providing for an appeal from that authority to the Minister) any of the Minister's functions under Clause (6) of Article 28a which are not required to be delegated by Clause (7) of that Article.
 
-(3) Subsection  (1)  shall  apply  to  enrolments  under  Clause  (2)  of Article 19 a * as it applies to citizenship by registration, and to the cancellation under Clause (4) of Article 19 a * of an enrolment under that Article as it applies to an  order  under Article  26.
+(3) Subsection (1) shall apply to enrolments under Clause (2) of Article 19a* as it applies to citizenship by registration, and to the cancellation under Clause (4) of Article 19a* of an enrolment under that Article as it applies to an order under Article 26.
 
-( Repealed ).
+5. (Repealed).
 
 #### Functions of Minister
 
 6. Subject to federal law, the Minister may make rules and prescribe forms for the purpose of the exercise of his functions under Part III of this Constitution.
 
-* NOTE -Article 19 a has  been  repealed vide Constitution (Amendment) Act 1966 [Act 59/1966] w.e.f  9 August  1965see section  2  of Act  59/1966. See also  notes  on Article  19 a .
+*NOTE—Article 19a has been repealed vide Constitution (Amendment) Act 1966 [Act 59/1966]
+w.e.f 9 August 1965—see section 2 of Act 59/1966. See also notes on Article 19a.
 
 [[END OF PAGE 333]]
 
 [[START OF PAGE 334]]
 
-### Second Schedule -(cont.)
-
-#### P art III
-
-- Numbered as such by Act 26/1963, paragraph 24(1) (a) , in force from 16-09-1963, which also  inserted  the  words  'of  this  Constitution'  after  'Part  III'  wherever  occurring  in the Part. The sections affected are 1, 2, 4, 6, 10(1) (d) ,  16(1) (a) ,  19, 20(1), (2), (3) and 21.
-
-- See Art.  159(4) (a) .
-
-##### Section  2 :
-See note  on  previous  page.
-
-The heading 'The registration authority' which appeared above section 3 was deleted by Act  10/1960,  paragraph  33 (a) ,  in  force  from  01-12-1960.
-
-##### Section  3
-
-This section was repealed by Act 10/1960, paragraph 33 (b) ,  in  force  from  01-12-1960 and  read  as  follows:
-
-'3. For  the  purposes  of  Part  III  and  this  Schedule  the  Election  Commission  shall be  the  registration  authority.'.
-
-##### Section  4
-
-- The present section was substituted by Act 10/1960, paragraph 33 (c) ,  in force from 01-12-1960.  It  has  been  amended  as  follows:
-
-(a) by Act 14/1962, subsection 27(1), in force from 01-10-1962, which substituted the words 'or  this  Schedule  relating  to  citizenship  by  registration  and  the  keeping of  registers,  and,  in  relations  to  orders  under  paragraph (c) of  Clause  (1)  of Article  25  or  under  Article  26,  any  of  his  functions  under  Article  27  prior  to determining  whether  to  make  such  an  order'  for  'of  this  Schedule';
-
-(b) by Act 26/1963, subsection 33(3), in force from 16-09-1963, which renumbered the  section  as  '4.  (1)'  and  added  subsections  (2)  and  (3);
-
-(c) by Act 59/1966, section 2, in  force  from  09-08-1965,  which  deleted  the  words 'or  of  Singapore'  which  appeared  in  subsection  (2)  after  'Borneo  State';
-
-(d) subsection (1) : The words 'Yang di-Pertuan Negeri' substituted for 'Governor' by Act A354, section  42,  in  force  from  27-08-1976;
-
-(e) subsection  (2) :  The  words  'Yang  di-Pertua  Negeri'  substituted  for  'Governor' by Act A354, section 42, in force from 27-08-1976 and 'the State of Sabah or Sarawak' substituted for 'a Borneo State' by Act A514, paragraph 19(1) (b) ,  in force  from  27-08-1976.
-
-- The original  section  4  read  as  follows:
-
-'4. The registration authority may delegate to any officers, or, with the consent of  the  Yang  di-Pertuan Agong  or  of  the  Ruler  or  Governor  of  any  State,  to  any officer of the Federal Government or of the Government of that State, any of its functions under Part III or this Schedule; but any person aggrieved by the decision of  a  person  to  whom  functions  of  the  authority  are  so  delegated  may  appeal  to the  authority.'.
-
-- The following delegations  have  been  made:
-
-(a) under  subsection  (1) :
-
-L.N. (N.S) 114/1957, 10-12/1958, 22-27/1958, 29/1958, 37-38/1958, 47-51/1958, 56/1958,  135-140/1958,  233-235/1958,  255-256/1958,  72/1959;
-
-(b) under  subsection  (2) :  L.N.  39/1964.
-
-###### Subsection  4(3) :
-Art.  19 a referred  to  in  this  subsection  has  been  repealed.
-
-##### Section  5
-
-This  section  which  read  as  follows  was  repealed  by Act  10/1960,  paragraph  33 (d) ,  in force  from  01-12-1960:
-
-'5. Any person aggrieved by a decision of the registration authority may appeal to the Supreme Court on a point of law, but except as aforesaid a decision of the registration authority  under  Part  III  shall  not  be  subject  to  appeal  or  review  in  any  court.'.
-
-- The  words  'and  registration  authority'  which  appeared  in  the  heading  above  section  6 were deleted by Act 10/1960, paragraph 33 (e) ,  in  force  from  01-12-1960.
-
 Federal  Constitution
 
 ##### NOTES
+
+### Second Schedule -(cont.)
+
+#### Part III
+
+1. Numbered as such by Act 26/1963, paragraph 24(1)(a), in force from 16-09-1963, which also inserted the words “of this Constitution” after “Part III” wherever occurring in the Part. The sections affected are 1, 2, 4, 6, 10(1)(d), 16(1)(a), 19, 20(1), (2), (3) and 21.
+
+2. See Art. 159(4)(a).
+
+##### Section 2:
+See note on previous page.
+
+The heading “The registration authority” which appeared above section 3 was deleted by Act 10/1960, paragraph 33(a), in force from 01-12-1960.
+
+##### Section 3
+
+This section was repealed by Act 10/1960, paragraph 33(b), in force from 01-12-1960 and read as follows:
+
+“3. For the purposes of Part III and this Schedule the Election Commission shall be the registration authority.”.
+
+##### Section 4
+
+1. The present section was substituted by Act 10/1960, paragraph 33(c), in force from 01-12-1960. It has been amended as follows:
+
+(a) by Act 14/1962, subsection 27(1), in force from 01-10-1962, which substituted the words “or this Schedule relating to citizenship by registration and the keeping of registers, and, in relations to orders under paragraph (c) of Clause (1) of Article 25 or under Article 26, any of his functions under Article 27 prior to determining whether to make such an order” for “of this Schedule”;
+
+(b) by Act 26/1963, subsection 33(3), in force from 16-09-1963, which renumbered the section as “4. (1)” and added subsections (2) and (3);
+
+(c) by Act 59/1966, section 2, in force from 09-08-1965, which deleted the words “or of Singapore” which appeared in subsection (2) after “Borneo State”;
+
+(d) subsection (1): The words “Yang di-Pertuan Negeri” substituted for “Governor” by Act A354, section 42, in force from 27-08-1976;
+
+(e) subsection (2): The words “Yang di-Pertua Negeri” substituted for “Governor” by Act A354, section 42, in force from 27-08-1976 and “the State of Sabah or Sarawak” substituted for “a Borneo State” by Act A514, paragraph 19(1)(b), in force from 27-08-1976.
+
+2. The original section 4 read as follows:
+
+“4. The registration authority may delegate to any officers, or, with the consent of the Yang di-Pertuan Agong or of the Ruler or Governor of any State, to any officer of the Federal Government or of the Government of that State, any of its functions under Part III or this Schedule; but any person aggrieved by the decision of a person to whom functions of the authority are so delegated may appeal to the authority.”.
+
+3. The following delegations have been made:
+
+(a) under subsection (1):
+
+L.N. (N.S) 114/1957, 10-12/1958, 22-27/1958, 29/1958, 37-38/1958, 47-51/1958, 56/1958, 135-140/1958, 233-235/1958, 255-256/1958, 72/1959;
+
+(b) under subsection (2): L.N. 39/1964.
+
+###### Subsection 4(3):
+Art. 19a referred to in this subsection has been repealed.
+
+##### Section 5
+
+This section which read as follows was repealed by Act 10/1960, paragraph 33(d), in force from 01-12-1960:
+
+“5. Any person aggrieved by a decision of the registration authority may appeal to the Supreme Court on a point of law, but except as aforesaid a decision of the registration authority under Part III shall not be subject to appeal or review in any court.”.
+
+3. The words “and registration authority” which appeared in the heading above section 6 were deleted by Act 10/1960, paragraph 33(e), in force from 01-12-1960.
 
 [[END OF PAGE 334]]
 
@@ -11268,108 +11406,108 @@ Federal  Constitution
 
 [Second Schedule]
 
-- Any power of the Federal Government to extend, for purposes of Part III of  this  Constitution,  the  period  for  registering  a  birth  occurring  outside  the Federation  may  be  exercised  either  before  or  after  the  registration  has  been effected.
+7. Any power of the Federal Government to extend, for purposes of Part III of this Constitution, the period for registering a birth occurring outside the Federation may be exercised either before or after the registration has been effected.
 
-( Repealed ).
+8. (Repealed).
 
-- Any  notice  to  be  given  by  the  Minister  to  any  person  under  Article  27 may  be  sent  to  that  person  at  his  last  known  address,  or,  in  the  case  of  a person under the age of twenty-one years (not being a married woman), to his parent  or  guardian  at  the  last  known  address  of  the  parent  or  guardian;  and if  an  address  at  which  notice  may  be  sent  to  any  person  under  this  section is  not  known  and  cannot  after  reasonable  inquiry  be  ascertained,  the  notice may be given by publication in  the Gazette .
+9. Any notice to be given by the Minister to any person under Article 27 may be sent to that person at his last known address, or, in the case of a person under the age of twenty-one years (not being a married woman), to his parent or guardian at the last known address of the parent or guardian; and if an address at which notice may be sent to any person under this section is not known and cannot after reasonable inquiry be ascertained, the notice may be given by publication in the Gazette.
 
-(1) It  shall  be  the  duty  of  the  Minister  to  compile  and  maintain-
+10. (1) It shall be the duty of the Minister to compile and maintain—
 
-(a) a  register  of  citizens  by  registration;
+(a) a register of citizens by registration;
 
-(b) a  register  of  citizens  by  naturalization;
+(b) a register of citizens by naturalization;
 
-(c) a  register  of  persons  to  whom  certificates  have  been  issued  under Clause  (1)  of Article  30;
+(c) a register of persons to whom certificates have been issued under Clause (1) of Article 30;
 
-(d) a  register  of  persons  who  have  renounced  or  been  deprived  of citizenship  under  any  provision  of  Part  III  of  this  Constitution;
+(d) a register of persons who have renounced or been deprived of citizenship under any provision of Part III of this Constitution;
 
-(e) ( Repealed );
+(e) (Repealed);
 
-(f) an alphabetical index of all persons referred to in paragraphs (a) to (d) .
+(f) an alphabetical index of all persons referred to in paragraphs (a) to (d).
 
-(2) References in this section to citizens by registration or by naturalization shall be construed in accordance with Article 28 as if this section were included among the provisions to  which  that Article  applies.
+(2) References in this section to citizens by registration or by naturalization shall be construed in accordance with Article 28 as if this section were included among the provisions to which that Article applies.
 
-- If the Minister has reason to believe that an error appears in any register compiled under section 10, he shall, after giving notice to the person concerned and  after  considering  such  representations  from  him  as  he  may  choose  to make,  make  such  alteration  on  the  register  as  appears  to  the  Minister  to  be necessary  to  correct  the  error.
+11. If the Minister has reason to believe that an error appears in any register compiled under section 10, he shall, after giving notice to the person concerned and after considering such representations from him as he may choose to make, make such alteration on the register as appears to the Minister to be necessary to correct the error.
 
-- Subject  to  section  11,  the  said  register  shall  be  conclusive  evidence  of the  matters  therein  contained.
+12. Subject to section 11, the said register shall be conclusive evidence of the matters therein contained.
 
-- 13-15.	( Repealed ).
+13-15. (Repealed).
 
 #### Offences
 
-(1) It  shall  be  an  offence punishable with imprisonment for two years or  a  fine  of  one  thousand  ringgit  or  both  for  any  person-
+16. (1) It shall be an offence punishable with imprisonment for two years or a fine of one thousand ringgit or both for any person—
 
-(a) knowingly to make any false statement with a view to inducing the Minister  to  grant  or  refuse  any  application  under  Part  III  of  this Constitution,  including  any  application  to  determine  whether  the applicant  is  a  citizen  by  operation  of  law;  or
+(a) knowingly to make any false statement with a view to inducing the Minister to grant or refuse any application under Part III of this Constitution, including any application to determine whether the applicant is a citizen by operation of law; or
 
 [[END OF PAGE 335]]
 
 [[START OF PAGE 336]]
 
-### Second Schedule -(cont.)
-
-##### Section  6
-
-- The  present  section  was  substituted  by  Act  10/1960,  paragraph  33 (f) ,  in  force from 01-12-1960.
-
-- Act 26/1963, subsection 33(3), in force from 16-09-1963, deleted the words 'and this  Schedule'  which  appeared  at  the  end.  The  original  section  read  as  follows:
-
-'6. Subject to federal law, the Minister and the registration authority may make rules  and  prescribe  forms  for  the  purpose  of  the  exercise  of  their  respective functions  under  Part  III  and  this  Schedule.'.
-
-- See paragraph  16(1) (c) .
-
-- See Citizenship Rules 1964, in L.N. 82/1964 as amended by L.N. 346/1964, 44/1965, 369/1966,  426/1966.
-
-##### Section  7
-
-The  present  section  was  added  by  Act  26/1963,  subsection  33(3),  in  force  from 16-09-1963,  and  replaced  the  earlier  section  which  read  as  follows:
-
-'7. The  power  of  the  Federal  Government  under  paragraph (d) of  Clause  (1)  of Article  14  to  allow  a  longer  period  for  the  registration  of  a  birth  may  be  exercised either  before  or  after  the  registration  has  been  effected.'.
-
-##### Section  8
-
-This  section  which  read  as  follows  was  repealed  by Act  10/1960,  paragraph  33 (g) ,  in force  from  01-12-1960:
-
-'8. Where a certificate  of  naturalization  is  granted  under Article  19  or Article  20, the  Minister  shall  transmit  a  copy  of  the  certificate  to  the  registration  authority.'.
-
-##### Section  9 :
-See section  18.
-
-##### Section  10
-
-- The present section was substituted by Act 10/1960, paragraph 33 (h) , in force from 01-12-1960.  It  has  been  amended  as  follows:
-
-(a) by Act  26/1963,  subsection  33(3),  in  force  from  16-09-1963  which-
-
-(i) inserted the words 'Clause (1) of' before 'Article 30' in paragraph (1) (c) ;
-
-(ii) substituted paragraph (1) (e) and (f) in substitution for paragraph (e) which read  as  follows:
-
-' (e) an  alphabetical  index  of  all  persons  referred  to  in  paragraphs (a) , (b) , (c) and (d) of  this  subsection.';
-
-(iii) substituted subsection (2) for the earlier subsection which read as follows:
-
-'(2)  For  the  purposes  of  this  section-
-
-'citizen by registration' includes a citizen to whom any paragraph (other  than  paragraph (c) )  of  Clause  (1)  of  Article  28  applies  and a  citizen  by  registration  under Article  170;
-
-'citizen by naturalization' includes a citizen to whom paragraph (c) of  Clause  (1)  of Article  28  applies.'.
-
-(b) by Act  59/1966,  section  2,  in  force  from  09-08-1965,  which-
-
-(i) repealed and substituted the words 'paragraphs (a) to (d) ' for 'paragraphs (a) to (e) '  in  paragraph  (1) (f). Paragraph  (1) (e) read  as  follows:
-
-' (e) a  register  of  persons  enrolled  under Article  19 a as  citizens  who are  not  Singapore  citizens:';
-
-(ii) substituted, in subsection (2), the words 'Article 28' for 'Articles 28 and 28a'  and  the  words  'that  Article  applies'  for  'those  Articles  apply';
-
-(iii) repealed,  in  the  subsection  (2),  the  words  ',  except  that  'citizen  by registration'  does  not  include  any  Singapore  citizen'.
-
-- See section  11.
-
 Federal  Constitution
 
 ##### NOTES
+
+### Second Schedule -(cont.)
+
+##### Section 6
+
+1. The present section was substituted by Act 10/1960, paragraph 33(f), in force from 01-12-1960.
+
+2. Act 26/1963, subsection 33(3), in force from 16-09-1963, deleted the words “and this Schedule” which appeared at the end. The original section read as follows:
+
+“6. Subject to federal law, the Minister and the registration authority may make rules and prescribe forms for the purpose of the exercise of their respective functions under Part III and this Schedule.”.
+
+3. See paragraph 16(1)(c).
+
+4. See Citizenship Rules 1964, in L.N. 82/1964 as amended by L.N. 346/1964, 44/1965, 369/1966, 426/1966.
+
+##### Section 7
+
+The present section was added by Act 26/1963, subsection 33(3), in force from 16-09-1963, and replaced the earlier section which read as follows:
+
+“7. The power of the Federal Government under paragraph (d) of Clause (1) of Article 14 to allow a longer period for the registration of a birth may be exercised either before or after the registration has been effected.”.
+
+##### Section 8
+
+This section which read as follows was repealed by Act 10/1960, paragraph 33(g), in force from 01-12-1960:
+
+“8. Where a certificate of naturalization is granted under Article 19 or Article 20, the Minister shall transmit a copy of the certificate to the registration authority.”.
+
+##### Section 9:
+See section 18.
+
+##### Section 10
+
+1. The present section was substituted by Act 10/1960, paragraph 33(h), in force from 01-12-1960. It has been amended as follows:
+
+(a) by Act 26/1963, subsection 33(3), in force from 16-09-1963 which—
+
+(i) inserted the words “Clause (1) of” before “Article 30” in paragraph (1)(c);
+
+(ii) substituted paragraph (1)(e) and (f) in substitution for paragraph (e) which read as follows:
+
+“(e) an alphabetical index of all persons referred to in paragraphs (a), (b), (c) and (d) of this subsection.”;
+
+(iii) substituted subsection (2) for the earlier subsection which read as follows:
+
+“(2) For the purposes of this section—
+
+“citizen by registration” includes a citizen to whom any paragraph (other than paragraph (c)) of Clause (1) of Article 28 applies and a citizen by registration under Article 170;
+
+“citizen by naturalization” includes a citizen to whom paragraph (c) of Clause (1) of Article 28 applies.”.
+
+(b) by Act 59/1966, section 2, in force from 09-08-1965, which—
+
+(i) repealed and substituted the words “paragraphs (a) to (d)” for “paragraphs (a) to (e)” in paragraph (1)(f). Paragraph (1)(e) read as follows:
+
+“(e) a register of persons enrolled under Article 19a as citizens who are not Singapore citizens:”;
+
+(ii) substituted, in subsection (2), the words “Article 28” for “Articles 28 and 28a” and the words “that Article applies” for “those Articles apply”;
+
+(iii) repealed, in the subsection (2), the words “, except that ‘citizen by registration’ does not include any Singapore citizen”.
+
+2. See section 11.
 
 [[END OF PAGE 336]]
 
@@ -11385,9 +11523,9 @@ Subsections  (1)(e)  &  (2) : See note  on  previous  page.
 
 ##### Section  11
 
-- The  words  'Minister'  substituted  for  'registration  authority'  and  'authority',  and the word 'he' which appears after 'section 10' substituted for 'it' by Act 14/1962, section  32,  in  force  from  01-12-1960.
+1. The words “Minister” substituted for “registration authority” and “authority”, and the word “he” which appears after “section 10” substituted for “it” by Act 14/1962, section 32, in force from 01-12-1960.
 
-- See section  12.
+2. See section 12.
 
 ##### Sections  13,  14  &  15
 
@@ -11411,7 +11549,7 @@ The  word  'ringgit'  substituted  for  'dollars'  by  Act  160,  section  2,  i
 
 ###### Subsection  16(2)
 
-- The  present  subsection  (2)  was  substituted  by  Act  26/1963,  subsection  33(3),  in force  from  16-09-1963. The  earlier  subsection  (2)  read  as  follows:
+1. The present subsection (2) was substituted by Act 26/1963, subsection 33(3), in force from 16-09-1963. The earlier subsection (2) read as follows:
 
 '(2) In  this  section  'certificate'  means-
 
@@ -11433,7 +11571,7 @@ Federal  Constitution
 
 ### Second Schedule, Part III -(cont.)
 
-- The  words  'or  under  the  Constitution  of  the  State  of  Singapore  or  any  previous law  relating  to  citizenship  of  Singapore'  which  appeared  after  'this  Constitution' were deleted  by Act  59/1966,  section  2,  in  force  from  09-08-1965.
+2. The words “or under the Constitution of the State of Singapore or any previous law relating to citizenship of Singapore” which appeared after “this Constitution” were deleted by Act 59/1966, section 2, in force from 09-08-1965.
 
 [[END OF PAGE 338]]
 
@@ -11469,26 +11607,37 @@ Schedule]
 
 19. Any reference in Part III of this Constitution to the status or description of  the  father  of  a  person  at  the  time  of  that  person's  birth  shall,  in  relation to  a  person  born  after  the  death  of  his  father,  be  construed  as  a  reference  to the  status  or  description  of  the  father  at  the  time  of  the  father's  death;  and where  that  death  occurred  before  and  the  birth  occurs  on  or  after  Merdeka Day, the status or description which would have been applicable to the father had he died after Merdeka Day shall be deemed to be the status or description applicable  to  him  at  the  time  of  his  death.  This  section  shall  have  effect  in relation  to  Malaysia  Day  as  it  has  effect  in  relation  to  Merdeka  Day.
 
-19 a . For  the  purposes  of  Part  I  or  II  of  this  Schedule  a  person  born  on board  a  registered  ship  or  aircraft  shall  be  deemed  to  have  been  born  in  the place in which the ship or aircraft was registered, and a person born on board an  unregistered  ship  or  aircraft  of  the  Government  of  any  country  shall  be deemed to have been born in that country.
+19a. For the purposes of Part I or II of this Schedule a person born on board a registered ship or aircraft shall be deemed to have been born in the place in which the ship or aircraft was registered, and a person born on board an unregistered ship or aircraft of the Government of any country shall be deemed to have been born in that country.
 
 [[END OF PAGE 339]]
 
 [[START OF PAGE 340]]
 
-### Second Schedule -(cont.)
-
-##### Section  17
-This  section  which  was  substituted  by  Act  26/1963,  subsection  33(3),  in  force  from 16-09-1963,  replaced  an  earlier  section  which  read  as  follows: '17. In  relation  to  a  person  who  is  illegitimate,  Articles  14  and  15  shall  have effect  as  if  for  references  to  his  father,  and  Clause  (2) (c) of  Article  14  as  if  for references  to  either  of  his  parents,  there  were  substituted  references  to  his  mother and  as  if  section  19  of  this  Schedule  were  omitted;  and  references  in  Article  15 and  this  Schedule  to  his  parent  shall  be  construed  accordingly.'.
-##### Section  18
-The  words  'Clause  (3)  of'  were  inserted  by  Act  26/1963,  subsection  33(3),  in  force from 16-09-1963, which also substituted the words 'that Clause and section 9 of this Part  of  this  Schedule'  for  'that Article  and  this  Schedule'.
-##### Section  19
-1. The  last  sentence  was  added  by  Act  26/1963,  subsection  33(3),  in  force  from 16-09-1963. 2. See section  17.
-##### Sections  19 a,  19b  & 19 c
-Added by Act 26/1963, subsection 24(2), in force  from  16-09-1963.
-
 Federal  Constitution
 
 ##### NOTES
+
+### Second Schedule -(cont.)
+
+##### Section 17
+
+This section which was substituted by Act 26/1963, subsection 33(3), in force from 16-09-1963, replaced an earlier section which read as follows:
+
+“17. In relation to a person who is illegitimate, Articles 14 and 15 shall have effect as if for references to his father, and Clause (2)(c) of Article 14 as if for references to either of his parents, there were substituted references to his mother and as if section 19 of this Schedule were omitted; and references in Article 15 and this Schedule to his parent shall be construed accordingly.”.
+
+##### Section 18
+
+The words “Clause (3) of” were inserted by Act 26/1963, subsection 33(3), in force from 16-09-1963, which also substituted the words “that Clause and section 9 of this Part of this Schedule” for “that Article and this Schedule”.
+
+##### Section 19
+
+1. The last sentence was added by Act 26/1963, subsection 33(3), in force from 16-09-1963.
+
+2. See section 17.
+
+##### Sections 19a, 19b & 19c
+
+Added by Act 26/1963, subsection 24(2), in force from 16-09-1963.
 
 [[END OF PAGE 340]]
 
@@ -11502,9 +11651,9 @@ Federal  Constitution
 
 Schedule]
 
-19 b .	 For  the  purposes  of  Part  I  or  II  of  this  Schedule  any  new  born  child found  exposed  in  any  place  shall  be  presumed,  until  the  contrary  is  shown, to  have  been  born  there  of  a  mother  permanently  resident  there;  and  if  he  is treated  by  virtue  of  this  section  as  so  born,  the  date  of  the  finding  shall  be taken  to  be  the  date  of  the  birth.
+19b. For the purposes of Part I or II of this Schedule any new born child found exposed in any place shall be presumed, until the contrary is shown, to have been born there of a mother permanently resident there; and if he is treated by virtue of this section as so born, the date of the finding shall be taken to be the date of the birth.
 
-19 c .	 For the purposes of Part I or II of this Schedule a person shall be treated as having been at any time permanently resident in the Federation if, but only if,  he  was  then  resident  in  the  Federation  and  either-
+19c. For the purposes of Part I or II of this Schedule a person shall be treated as having been at any time permanently resident in the Federation if, but only if, he was then resident in the Federation and either—
 
 (a) he  then  had  permission,  granted  without  limit  of  time  under  any federal  law,  to  reside  there;  or
 
@@ -11540,43 +11689,43 @@ shall  not,  except  in  the  case  of  any  period  referred  to  in  paragraph
 
 [[START OF PAGE 342]]
 
-##### Section  21
-
-The  words  'consulate  of  the  Federation'  substituted  for  'Malayan  consulate'  by  Act 26/1963,  subsection  33(3),  in  force  from  16-09-1963.
-
-##### Section  22
-
-Added by Act 26/1963, subsection 33(3), in force  from  16-09-1963.
-
 Federal  Constitution
 
 ##### NOTES
 
 ### Second Schedule, Part III -(cont.)
 
-##### Section  20
+##### Section 20
 
-- The present section was substituted by Act 14/1962, subsection 27(2), in force from 01-10-1962. The original  section  read  as  follows:
+1. The present section was substituted by Act 14/1962, subsection 27(2), in force from 01-10-1962. The original section read as follows:
 
-'20.	 In  calculating  for  the  purposes  of  Part  III  a  period  of  residence  in  the Federation-
+“20. In calculating for the purposes of Part III a period of residence in the Federation—
 
-(a) a  period  of  absence  from  the  Federation  of  less  than  six  months;
+(a) a period of absence from the Federation of less than six months;
 
-(b) a  period  of  absence  from  the  Federation  for  the  purposes  of  education of  such  kind,  in  such  country  and  for  such  time,  as  may  from  time  to time  be  either  generally  or  specially  approved  by  the  Minister;  and
+(b) a period of absence from the Federation for the purposes of education of such kind, in such country and for such time, as may from time to time be either generally or specially approved by the Minister; and
 
-(c) a  period  of  absence  from  the  Federation  for  reasons  of  health  or  any other  cause  prescribed  generally  or  specially  by  the  Minister,
+(c) a period of absence from the Federation for reasons of health or any other cause prescribed generally or specially by the Minister,
 
-shall  be  treated  as  residence  in  the  Federation;  and  for  the  purposes  of  Part  III  a person  shall  be  deemed  to  be  resident  in  the  Federation  on  a  particular  day  if  he had been resident in the Federation before that day and that day is included in any such  period  of  absence  as  aforesaid.'.
+shall be treated as residence in the Federation; and for the purposes of Part III a person shall be deemed to be resident in the Federation on a particular day if he had been resident in the Federation before that day and that day is included in any such period of absence as aforesaid.”.
 
-- Subsections  (1)(d)  &  (3) : See subsection  20(4).
+2. Subsections (1)(d) & (3): See subsection 20(4).
 
-###### Subsection  20(4)
+###### 3. Subsection 20(4)
 
-(a) Added by Act 26/1963, subsection 33(3), in force  from  16-09-1963.
+(a) Added by Act 26/1963, subsection 33(3), in force from 16-09-1963.
 
-(b) The  words  'or  Singapore'  which  appeared  after  'Borneo  States'  were deleted  by Act  59/1966,  section  2,  in  force  from  09-08-1965.
+(b) The words “or Singapore” which appeared after “Borneo States” were deleted by Act 59/1966, section 2, in force from 09-08-1965.
 
-(c) The words 'the States of Sabah and Sarawak' substituted for 'the Borneo States'  by Act A354,  section  43,  in  force  from  27-08-1976.
+(c) The words “the States of Sabah and Sarawak” substituted for “the Borneo States” by Act A354, section 43, in force from 27-08-1976.
+
+##### Section 21
+
+The words “consulate of the Federation” substituted for “Malayan consulate” by Act 26/1963, subsection 33(3), in force from 16-09-1963.
+
+##### Section 22
+
+Added by Act 26/1963, subsection 33(3), in force from 16-09-1963.
 
 [[END OF PAGE 342]]
 
@@ -11600,11 +11749,11 @@ Federal  Constitution
 
 #### Election  of  Yang  di-Pertuan Agong  and Timbalan Yang di-Pertuan Agong
 
-### P art I
+### Part I
 
 #### ELECTION OF YANG DI-PERTUAN AGONG
 
-(1) A Ruler is qualified  to  be  elected Yang  di-Pertuan Agong  unless-
+1. (1) A Ruler is qualified to be elected Yang di-Pertuan Agong unless—
 
 (a) he  is  a  minor;  or
 
@@ -11622,25 +11771,31 @@ Federal  Constitution
 
 [[START OF PAGE 344]]
 
-### Third Schedule
-
-See Art.  160(2)  definition  of  'Ruler'.
-#### Heading
-The  words  'Timbalan  Yang  di-Pertuan  Agong'  substituted  for  'Deputy  Supreme  Head'  by Act A354, section  11,  in  force  from  27-08-1976.
-#### P art  I
-##### Section  2 :
-See section  3.
-##### Section  4 :
-See section  2.
-###### Paragraph 4(1)(a)
-The words 'Their Royal Highnesses' substituted for 'Their Highnesses' by Act A31, section  2,  in  force  from  24-03-1971.
-
-###### Subsection  4(3) :
-See section  10.
-
 Federal  Constitution
 
 ##### NOTES
+
+### Third Schedule
+
+See Art. 160(2) definition of “Ruler”.
+
+#### Heading
+
+The words “Timbalan Yang di-Pertuan Agong” substituted for “Deputy Supreme Head” by Act A354, section 11, in force from 27-08-1976.
+
+#### Part I
+
+##### Section 2:
+See section 3.
+
+##### Section 4:
+See section 2.
+
+###### Paragraph 4(1)(a)
+The words “Their Royal Highnesses” substituted for “Their Highnesses” by Act A31, section 2, in force from 24-03-1971.
+
+###### Subsection 4(3):
+See section 10.
 
 [[END OF PAGE 344]]
 
@@ -11652,13 +11807,13 @@ Federal  Constitution
 
 [Third Schedule]
 
-(1) The election  list-
+4. (1) The election list—
 
-(a) shall for the purposes of the first election be a list comprising the States of all the Rulers in the order in which Their Royal Highnesses then  recognize  precedence  among  themselves;
+(a) shall for the purposes of the first election be a list comprising the States of all the Rulers in the order in which Their Royal Highnesses then recognize precedence among themselves;
 
-(b) shall for the purposes of subsequent elections be that list as varied in accordance with subsection (2) until it is reconstituted under subsection (3),  and  shall  then  be  the  list  so  reconstituted,  but  varied,  for  the purposes of further elections,  in  accordance  with  subsection  (4).
+(b) shall for the purposes of subsequent elections be that list as varied in accordance with subsection (2) until it is reconstituted under subsection (3), and shall then be the list so reconstituted, but varied, for the purposes of further elections, in accordance with subsection (4).
 
-- That  list  in  force  at  the  first  election  shall  be  varied  as  follows:
+(2) That list in force at the first election shall be varied as follows:
 
 (a) after each election any States preceding on the list the State whose Ruler was elected shall be transferred (in the order in which they are  then  on  the  list)  to  the  end  of  the  list,  and  the  State  whose Ruler  was  elected  shall  be  omitted;
 
@@ -11688,27 +11843,27 @@ Federal  Constitution
 
 [[START OF PAGE 346]]
 
+Federal  Constitution
+
+##### NOTES
+
 ### Third Schedule -(cont.)
 
 #### Part II
 
-In the heading, the words 'TIMBALAN YANG DI-PERTUAN AGONG' substituted for 'DEPUTY SUPREME HEAD' by Act A354, section 11, in force from 27-08-1976.
+In the heading, the words “TIMBALAN YANG DI-PERTUAN AGONG” substituted for “DEPUTY SUPREME HEAD” by Act A354, section 11, in force from 27-08-1976.
 
-##### Sections  5,  6  &  7
+##### Sections 5, 6 & 7
 
-The words 'Timbalan Yang di-Pertuan Agong' substituted for 'Deputy Supreme Head' by Act A354, section  11,  in  force  from  27-08-1976.
+The words “Timbalan Yang di-Pertuan Agong” substituted for “Deputy Supreme Head” by Act A354, section 11, in force from 27-08-1976.
 
 #### Part IV
 
-##### Section  9
+##### Section 9
 
-This  section  was  repealed  by Act  25/1963,  section  8,  in  force  from  29-08-1963  and read  as  follows:
+This section was repealed by Act 25/1963, section 8, in force from 29-08-1963 and read as follows:
 
-'9.  An election held in accordance with this Schedule before Merdeka Day shall be  valid  and  shall  take  effect  on  that  day.'
-
-Federal  Constitution
-
-##### NOTES
+“9. An election held in accordance with this Schedule before Merdeka Day shall be valid and shall take effect on that day.”
 
 [[END OF PAGE 346]]
 
@@ -11720,21 +11875,21 @@ Federal  Constitution
 
 [Third Schedule]
 
-- The  Conference  of  Rulers  shall  offer  the  office  of  Timbalan  Yang  diPertuan  Agong  to  the  Ruler  qualified  for  election  who,  on  the  death  of  the Yang di-Pertuan Agong last elected,  would  be  the  first  entitled  to  be  offered the  office  of  the Yang  di-Pertuan Agong  and,  if  he  does  not  accept  it,  to  the next  and  so  on  until  a  Ruler  accepts  the  office.
+7. The Conference of Rulers shall offer the office of Timbalan Yang di-Pertuan Agong to the Ruler qualified for election who, on the death of the Yang di-Pertuan Agong last elected, would be the first entitled to be offered the office of the Yang di-Pertuan Agong and, if he does not accept it, to the next and so on until a Ruler accepts the office.
 
 ### Part III
 
 #### REMOVAL OF YANG DI-PERTUAN AGONG
 
-- A resolution  of  the  Conference  of  Rulers  to  remove  the Yang  di-Pertuan Agong  from  office  shall  not  be  carried  unless  at  least  five  members  of  the Conference have voted in favour of it.
+8. A resolution of the Conference of Rulers to remove the Yang di-Pertuan Agong from office shall not be carried unless at least five members of the Conference have voted in favour of it.
 
 ### Part IV
 
 #### GENERAL
 
-( Repealed ).
+9. (Repealed).
 
-- In  subsection  4(3)  the  expression  'Ruler'  includes  a  past  Ruler.
+10. In subsection 4(3) the expression “Ruler” includes a past Ruler.
 
 ## Fourth Schedule
 
@@ -11762,13 +11917,13 @@ maka dengan lafaz ini berikrarlah Kami dengan sesungguh dan dengan sebenarnya me
 
 [[START OF PAGE 348]]
 
-### Fourth Schedule
-
-The  word  'Malaysia'  substituted  for  'Persekutuan  Tanah  Melayu'  in  Parts  I  and  II  and for  'the  Federation  of  Malaya'  in  Part  III  by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
-
 Federal  Constitution
 
 ##### NOTES
+
+### Fourth Schedule
+
+The word “Malaysia” substituted for “Persekutuan Tanah Melayu” in Parts I and II and for “the Federation of Malaya” in Part III by Act 26/1963, section 70, in force from 16-09-1963.
 
 [[END OF PAGE 348]]
 
@@ -11794,7 +11949,7 @@ Watallahi;
 
 dan dengan lafaz ini berikrarlah Kami dengan sesungguh dan dengan sebenarnya mengaku  akan  taat  setia  pada  menjalankan  tanggungan  Kami  yang  telah ditetapkan dan yang akan ditetapkan pada suatu masa ke suatu masa yang ke hadapan ini  oleh  undang-undang  dan  Perlembagaan  Negeri  Malaysia.
 
-### P art III
+### Part III
 
 #### ENGLISH TRANSLATIONS
 
@@ -11824,15 +11979,15 @@ and  by  virtue  of  that  oath  do  solemnly  and  truly  declare  that  We  sh
 
 [[START OF PAGE 350]]
 
+Federal  Constitution
+
+##### NOTES
+
 ### Fourth Schedule -(cont.)
 
 #### Part III
 
-The words 'religion of Islam' substituted for 'Muslim Religion' by Act A354, section 45, in  force  from  27-08-1976.
-
-Federal  Constitution
-
-##### NOTES
+The words “religion of Islam” substituted for “Muslim Religion” by Act A354, section 45, in force from 27-08-1976.
 
 [[END OF PAGE 350]]
 
@@ -11852,7 +12007,7 @@ Federal  Constitution
 
 1. The  Conference  of  Rulers  shall,  subject  to  the  following  provisions  of this  Schedule,  consist  of  Their  Royal  Highnesses  the  Rulers  and  the  Yang di-Pertua-Yang  di-Pertua  Negeri  of  States  not  having  a  Ruler.
 
-2. The place of His Royal Highness the Ruler of any State or the Yang diPertua Negeri of any State as a member of the Conference of Rulers may in any case in which the Constitution of that State so provides be taken by such person  as  that  Constitution  may  provide.
+2. The place of His Royal Highness the Ruler of any State or the Yang di-Pertua Negeri of any State as a member of the Conference of Rulers may in any case in which the Constitution of that State so provides be taken by such person as that Constitution may provide.
 
 3. The Conference of Rulers shall have a Rulers' Seal, which shall be kept in  the  custody  of  a  person  appointed  by  the  Conference.
 
@@ -11872,43 +12027,43 @@ Federal  Constitution
 
 [[START OF PAGE 352]]
 
-### Fifth  Schedule
-
-See Art.  160(2)  definition  of  'Ruler'.
-
-#### Sections  1  &  7
-
-The words 'States not having a Ruler' substituted for 'Malacca and Penang' by Act 26/1963, section  6,  in  force  from  16-09-1963.
-
-#### Section  1
-
-- The words 'Their Royal Highnesses' substituted for 'Their Highnesses' by Act A31, section  2,  in  force  from  24-03-1971.
-
-- The  words  'Yang  di-Pertua-Yang  di-Pertua  Negeri'  substituted  for  'Governors'  by Act A514, paragraph 19(1) (a) ,  in  force  from  27-08-1976.
-
-#### Section  2
-
-- The words 'His Royal Highness' substituted for 'His Highness' by Act A31, section 2, in  force  from  24-03-1971.
-
-- The words 'Yang di-Pertua Negeri' substituted for 'Governor' by Act A354, section 42, in  force  from  27-08-1976.
-
-Section  3 : See section  4.
-
-#### Section  6
-
-The words 'Timbalan Yang di-Pertuan Agong' substituted for 'Deputy Supreme Head of the Federation'  by Act A354,  section  11,  in  force  from  27-08-1976.
-
-#### Section  7
-
-- The words 'Timbalan Yang di-Pertuan Agong' substituted for 'Deputy Supreme Head of  the  Federation'  by Act A354,  section  11,  in  force  from  27-08-1976.
-
-- The  words  'Yang  di-Pertua-yang  di-Pertua  Negeri'  substituted  for  'Governors'  by Act A514, paragraph 19(1) (a) ,  in  force  from  27-08-1976.
-
-- The words 'Their Royal Highnesses' substituted for 'Their Highnesses' by Act A31, section  2,  in  force  from  24-03-1971.
-
-Federal  Constitution
+Federal Constitution
 
 ##### NOTES
+
+### Fifth Schedule
+
+See Art. 160(2) definition of “Ruler”.
+
+#### Sections 1 & 7
+
+The words “States not having a Ruler” substituted for “Malacca and Penang” by Act 26/1963, section 6, in force from 16-09-1963.
+
+#### Section 1
+
+a. The words “Their Royal Highnesses” substituted for “Their Highnesses” by Act A31, section 2, in force from 24-03-1971.
+
+b. The words “Yang di-Pertua-Yang di-Pertua Negeri” substituted for “Governors” by Act A514, paragraph 19(1)(a), in force from 27-08-1976.
+
+#### Section 2
+
+a. The words “His Royal Highness” substituted for “His Highness” by Act A31, section 2, in force from 24-03-1971.
+
+b. The words “Yang di-Pertua Negeri” substituted for “Governor” by Act A354, section 42, in force from 27-08-1976.
+
+Section 3: See section 4.
+
+#### Section 6
+
+The words “Timbalan Yang di-Pertuan Agong” substituted for “Deputy Supreme Head of the Federation” by Act A354, section 11, in force from 27-08-1976.
+
+#### Section 7
+
+1. The words “Timbalan Yang di-Pertuan Agong” substituted for “Deputy Supreme Head of the Federation” by Act A354, section 11, in force from 27-08-1976.
+
+2. The words “Yang di-Pertua-yang di-Pertua Negeri” substituted for “Governors” by Act A514, paragraph 19(1)(a), in force from 27-08-1976.
+
+3. The words “Their Royal Highnesses” substituted for “Their Highnesses” by Act A31, section 2, in force from 24-03-1971.
 
 [[END OF PAGE 352]]
 
@@ -11920,69 +12075,73 @@ Federal  Constitution
 
 [Fifth Schedule]
 
-## Sixth  Schedule
+## Sixth Schedule
 
-[Article  43(6),  43 b (4),  57(1 a ) (a) , 59(1),  124,  142(6)]
+[Article 43(6), 43b(4), 57(1a)(a),
+59(1), 124, 142(6)]
 
 #### Forms of Oaths and Affirmations
 
-#### Oath of  Office  and Allegiance
+#### 1. Oath of Office and Allegiance
 
-'I, ..................................................., having been elected (or appointed) to the office of ............................do solemnly swear (or affirm) that I will faithfully discharge  the  duties  of  that  office  to  the  best  of  my  ability,  that  I  will  bear true  faith  and  allegiance  to  Malaysia,  and  will  preserve,  protect  and  defend its  Constitution.'
+“I, ..................................................., having been elected (or appointed) to the office of ............................do solemnly swear (or affirm) that I will faithfully discharge the duties of that office to the best of my ability, that I will bear true faith and allegiance to Malaysia, and will preserve, protect and defend its Constitution.”
 
-(NOTE-A judge of the Federal Court, other than the Chief Justice, a judge of  the  Court  of Appeal  or  of  a  High  Court  or  a  judicial  commissioner  shall use  the  words  'my  judicial  duties  in  that  office'  in  place  of  the  words  'the duties  of  that  office'.)
+(NOTE—A judge of the Federal Court, other than the Chief Justice, a judge of the Court of Appeal or of a High Court or a judicial commissioner shall use the words “my judicial duties in that office” in place of the words “the duties of that office”.)
 
-#### Oath as Member of Parliament and of Allegiance
+#### 2. Oath as Member of Parliament and of Allegiance
 
-'I, .............................................................., having been elected (or appointed) as  a  member  of  the  House  of  Representatives  (or  the  Senate)  do  solemnly swear (or affirm) that I will faithfully discharge my duties as such to the best of  my  ability,  that  I  will  bear  true  faith  and  allegiance  to  Malaysia,  and  will preserve,  protect  and  defend  its  Constitution.'
+“I, .............................................................., having been elected (or appointed) as a member of the House of Representatives (or the Senate) do solemnly swear (or affirm) that I will faithfully discharge my duties as such to the best of my ability, that I will bear true faith and allegiance to Malaysia, and will preserve, protect and defend its Constitution.”
 
-#### Oath of  Secrecy
+#### 3. Oath of Secrecy
 
-'I  ................................................,  do  solemnly  swear  (or  affirm)  that  I  will not  directly  or  indirectly  communicate  or  reveal  to  any  person  any  matter which  shall  be  brought  under  my  consideration  or  shall  become  known  to me  as  .....................................................  except  as  may  be  required  for  the due  discharge  of  my  duties  as  such  or  as  may  be  specially  permitted  by  the Yang di-Pertuan Agong.'
+“I ................................................, do solemnly swear (or affirm) that I will not directly or indirectly communicate or reveal to any person any matter which shall be brought under my consideration or shall become known to me as ..................................................... except as may be required for the due discharge of my duties as such or as may be specially permitted by the Yang di-Pertuan Agong.”
 
 ## Seventh Schedule
 
-[Article  45]
+[Article 45]
 
-#### Election  of  Senators
+#### Election of Senators
 
-(1) ( Repealed ).
+1. (1) (Repealed).
 
-- As  often  as  there  is  a  vacancy  among  the  members  elected  to  the Senate by a State the Yang di-Pertuan Agong shall give notice to the Ruler or Yang  di-Pertua  Negeri  of  the  State  that  an  election  of  a  Senator  is  required, and the Ruler or Yang di-Pertua Negeri shall require the Legislative Assembly to  elect  a  Senator  as  soon  as  may  be.
+(2) As often as there is a vacancy among the members elected to the Senate by a State the Yang di-Pertuan Agong shall give notice to the Ruler or Yang di-Pertua Negeri of the State that an election of a Senator is required, and the Ruler or Yang di-Pertua Negeri shall require the Legislative Assembly to elect a Senator as soon as may be.
 
 [[END OF PAGE 353]]
 
 [[START OF PAGE 354]]
 
-### Sixth  Schedule
+Federal Constitution
 
-- The note which appears after paragraph 1 was added by Act 26/1963, section 70, in force from 16-09-1963, which also substituted the word 'Malaysia' for 'the Federation of Malaya' in  paragraphs  1  and  2.
+##### NOTES
 
-- See Art.  159(4) (a) &  160(4).
+### Sixth Schedule
 
-- In  the  note  to  paragraph  1,  the  words  'Federal  Court,  other  than  the  Chief  Justice,  a judge of the Court of Appeal or of a High Court, or a judicial commissioner' substituted for 'Supreme  Court,  other  than  the  Lord  President,  or  a  judge  of  a  High  Court'  and  the  words 'or  any  other'  deleted  by Act A885,  section  43,  in  force  from  24-06-1994.
+1. The note which appears after paragraph 1 was added by Act 26/1963, section 70, in force from 16-09-1963, which also substituted the word “Malaysia” for “the Federation of Malaya” in paragraphs 1 and 2.
+
+2. See Art. 159(4)(a) & 160(4).
+
+3. In the note to paragraph 1, the words “Federal Court, other than the Chief Justice, a judge of the Court of Appeal or of a High Court, or a judicial commissioner” substituted for “Supreme Court, other than the Lord President, or a judge of a High Court” and the words “or any other” deleted by Act A885, section 43, in force from 24-06-1994.
 
 ### Seventh Schedule
 
-This subsection was repealed by Act 25/1963, section 8, in force from 29-08-1963 and
+#### Part I
 
-'1. (1) As soon as may be after the dissolution of the Legislative Council the Yang  di-Pertuan  Agong  shall  give  notice  to  the  Ruler  or  Governor  of  each  State that an election of Senators is required and the Ruler or Governor shall require the
+See Art. 54(3) & 159(4)(a).
 
-- The words 'Yang di-Pertua Negeri' substituted for 'Governor' by Act A354, section 42,
+##### Subsection 1(1)
 
-#### P art I
-See Art.  54(3)  &  159(4) (a) .
-##### Subsection  1(1)
-read  as  follows: Legislative Assembly  to  elect  Senators  as  soon  as  may  be.'.
-##### Subsection  1(2)
-1. See section  5. in  force  from  27-08-1976.
+This subsection was repealed by Act 25/1963, section 8, in force from 29-08-1963 and read as follows:
 
-##### Subsection  2(1) :
-See section  3.
+“1. (1) As soon as may be after the dissolution of the Legislative Council the Yang di-Pertuan Agong shall give notice to the Ruler or Governor of each State that an election of Senators is required and the Ruler or Governor shall require the Legislative Assembly to elect Senators as soon as may be.”.
 
-Federal  Constitution
+##### Subsection 1(2)
 
-##### NOTES
+1. See section 5.
+
+2. The words “Yang di-Pertua Negeri” substituted for “Governor” by Act A354, section 42, in force from 27-08-1976.
+
+##### Subsection 2(1):
+See section 3.
 
 [[END OF PAGE 354]]
 
@@ -12026,53 +12185,53 @@ Federal  Constitution
 
 [[START OF PAGE 356]]
 
+Federal Constitution
+
+##### NOTES
+
 ### Seventh Schedule -(cont.)
 
-##### Section  5
+##### Section 5
 
-The words ', but the failure to hold an election under section 1(2) as soon as may be shall not of itself invalidate the election of any Senator' were inserted by Act 31/1965, subsection  2(2),  in  force  from  01-07-1965.
+The words “, but the failure to hold an election under section 1(2) as soon as may be shall not of itself invalidate the election of any Senator” were inserted by Act 31/1965, subsection 2(2), in force from 01-07-1965.
 
-#### P art II
+#### Part II
 
-##### Sections  6  &  7
+##### Sections 6 & 7
 
-- These sections were repealed by Act 25/1963, section 8, in force from 29-08-1963 and  read  as  follows:
+1. These sections were repealed by Act 25/1963, section 8, in force from 29-08-1963 and read as follows:
 
-'6.  The  term  of  office  of  one  of  the  two  Senators  elected  at  the  first  election held  in  accordance  with  the  provisions  of  this  Schedule  shall  be  three  years, and  the  Senator  whose  term  is  six  years  shall,  if  both  receive  the  same  number of  votes,  be  determined  by  lot  and  shall  otherwise  be  the  one  who  receives  the greater  number  of  votes.
+“6. The term of office of one of the two Senators elected at the first election held in accordance with the provisions of this Schedule shall be three years, and the Senator whose term is six years shall, if both receive the same number of votes, be determined by lot and shall otherwise be the one who receives the greater number of votes.
 
-7.  Of  the  persons  first  appointed  to  be  Senators  eight  shall  be  appointed  for  a term  of  three  years.'.
+7. Of the persons first appointed to be Senators eight shall be appointed for a term of three years.”.
 
-- The headings ' Election  and  Retirement  of  Senators '  and  'PART  I'  were  deleted by Act A1130, paragraph 13 (a) ,  in  force  from  28-09-2001.
+2. The headings “Election and Retirement of Senators” and “PART I” were deleted by Act A1130, paragraph 13(a), in force from 28-09-2001.
 
-- The  heading  of  ' Election  of  Senators '  substituted  for  the  heading  'ELECTION OF SENATORS' by Act A1130, paragraph 13 (b) ,  in  force  from  28-09-2001.
+3. The heading of “Election of Senators” substituted for the heading “ELECTION OF SENATORS” by Act A1130, paragraph 13(b), in force from 28-09-2001.
 
-- Part  II  was  deleted  by Act A1130,  paragraph  13 (c) ,  in  force  from  28-09-2001.
+4. Part II was deleted by Act A1130, paragraph 13(c), in force from 28-09-2001.
 
 ### Eighth Schedule
 
-See Art.  160(2)  definitions  of  'Enactment'  and  'Legislative Assembly'.
+See Art. 160(2) definitions of “Enactment” and “Legislative Assembly”.
 
-#### P art I
+#### Part I
 
-See Art.  71(4),  (5)  &  Eighth  Schedule,  sections  22  &  23.
+See Art. 71(4), (5) & Eighth Schedule, sections 22 & 23.
 
-##### Subsection  1(2) :
-See section  22.
+##### Subsection 1(2):
+See section 22.
 
 ###### Paragraph 1(2)(c)
 
-The words 'Their Royal Highnesses' substituted for 'Their Highnesses' by Act A31, section  2,  in  force  from  24-03-1971.
+The words “Their Royal Highnesses” substituted for “Their Highnesses” by Act A31, section 2, in force from 24-03-1971.
 
 ###### Paragraph 1(2)(d)
 
-The words 'religion of Islam' substituted for 'Muslim religion' by Act A354, section 45, in  force  from  27-08-1976.
+The words “religion of Islam” substituted for “Muslim religion” by Act A354, section 45, in force from 27-08-1976.
 
-##### Subsection  1(1 a ) :
-Inserted  by Act A885,  paragraph  44 (a) ,  in  force  from  24-06-1994.
-
-Federal  Constitution
-
-##### NOTES
+##### Subsection 1(1a):
+Inserted by Act A885, paragraph 44(a), in force from 24-06-1994.
 
 [[END OF PAGE 356]]
 
@@ -12084,7 +12243,7 @@ Federal  Constitution
 
 [Eighth Schedule]
 
-(1 a ) In  the  exercise  of  his  functions  under  the  Constitution  of  this  State or  any  law  or  as  a  member  of  the  Conference  of  Rulers,  where  the  Ruler  is to  act  in  accordance  with  advice  or  on  advice,  the  Ruler  shall  accept  and  act in  accordance  with  such  advice.
+(1a) In the exercise of his functions under the Constitution of this State or any law or as a member of the Conference of Rulers, where the Ruler is to act in accordance with advice or on advice, the Ruler shall accept and act in accordance with such advice.
 
 (2) The Ruler may act in his discretion in the performance of the following functions (in addition to those in the performance of which he may act in his discretion  under  the  Federal  Constitution)  that  is  to  say:
 
@@ -12110,7 +12269,7 @@ Federal  Constitution
 
 #### Proceedings against  the  Ruler
 
-1 a .	 (1)	 Where  the  Ruler  is  charged  with  an  offence  under  any  law  in  the Special Court established under Part XV of the Federal Constitution, he shall cease  to  exercise  the  functions  of  the  Ruler  of  the  State.
+1a. (1) Where the Ruler is charged with an offence under any law in the Special Court established under Part XV of the Federal Constitution, he shall cease to exercise the functions of the Ruler of the State.
 
 (2) During  the  period  when  the  Ruler  ceases,  under  subsection  (1),  to exercise  the  functions  of  the  Ruler  of  the  State,  a  Regent  or  a  Council  of Regency, as the case may be, shall be appointed in accordance with the State Constitution  to  exercise  the  functions  of  the  Ruler  of  the  State.
 
@@ -12118,26 +12277,29 @@ Federal  Constitution
 
 #### The Executive  Council
 
-(1)	 The  Ruler  shall  appoint  an  Executive  Council.
+2. (1) The Ruler shall appoint an Executive Council.
 
 [[END OF PAGE 357]]
 
 [[START OF PAGE 358]]
 
-### Eighth Schedule -(cont.)
-
-##### Section  1 a :
-Added  by Act A848,  section  9,  in  force  from  30-03-1993.
-##### Subsection  2(1) :
-See Art.  71(5)  &  Eighth  Schedule,  section  20.
-###### Paragraph 2(2)(b)
-The  word  'ten'  substituted  for  'eight'  by  Act  A919,  subparagraph  2 (a) (i),  in  force from 21-07-1995.
-##### Subsection  2(4) :
-See section  22.
-
-Federal  Constitution
+Federal Constitution
 
 ##### NOTES
+
+### Eighth Schedule -(cont.)
+
+##### Section 1a:
+Added by Act A848, section 9, in force from 30-03-1993.
+
+##### Subsection 2(1):
+See Art. 71(5) & Eighth Schedule, section 20.
+
+###### Paragraph 2(2)(b)
+The word “ten” substituted for “eight” by Act A919, subparagraph 2(a)(i), in force from 21-07-1995.
+
+##### Subsection 2(4):
+See section 22.
 
 [[END OF PAGE 358]]
 
@@ -12149,7 +12311,7 @@ Federal  Constitution
 
 [Eighth Schedule]
 
-- The Executive Council shall  be  appointed  as  follows,  that  is  to  say:
+(2) The Executive Council shall be appointed as follows, that is to say:
 
 (a) the  Ruler  shall  first  appoint  as  Menteri  Besar  to  preside  over  the Executive  Council  a  member  of  the  Legislative Assembly  who  in his  judgment is likely to command the confidence of the majority of  the  members  of  the Assembly;  and
 
@@ -12183,29 +12345,27 @@ but  if  an  appointment  is  made  while  the  Legislative Assembly  is  dissol
 
 [[START OF PAGE 360]]
 
-### Eighth Schedule -(cont.)
-
-##### Section  3
-
-The  words  'namely,  the'  which  appear  after  the  words  'one  House'  substituted for  'to  be  known  as  the  Dewan  Negeri'  by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
-
-##### Subsection  4(1)
-
-- The words 'and, until other provision is so made, the number of members shall be the  number  specified  in  Article  171  of  the  Federal  Constitution'  which  appeared at  the  end  of  the  section  were  deleted  by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
-
-- See Art.  71(5),  Eighth  Schedule  sections  19(5)  &  21.
-
-##### Subsection  4(2)
-
-This subsection was added by Act 14/1962, paragraph 28 (a) , in force from 21-06-1962, and was repealed by Act A584, paragraph (4) (a) ,  in  force  from  16-12-1983.  It  read  as
-
-follows:
-
-'(2) The  number  of  elected  members  of  the  Legislative Assembly  shall  be  the  same as  or  a  multiple  of  the  number  of  the  Federal  constituencies  into  which  the  State  is divided  under Article  116  of  the  Federal  Constitution.'.
-
-Federal  Constitution
+Federal Constitution
 
 ##### NOTES
+
+### Eighth Schedule -(cont.)
+
+##### Section 3
+
+The words “namely, the” which appear after the words “one House” substituted for “to be known as the Dewan Negeri” by Act 26/1963, section 70, in force from 16-09-1963.
+
+##### Subsection 4(1)
+
+1. The words “and, until other provision is so made, the number of members shall be the number specified in Article 171 of the Federal Constitution” which appeared at the end of the section were deleted by Act 26/1963, section 70, in force from 16-09-1963.
+
+2. See Art. 71(5), Eighth Schedule sections 19(5) & 21.
+
+##### Subsection 4(2)
+
+This subsection was added by Act 14/1962, paragraph 28(a), in force from 21-06-1962, and was repealed by Act A584, paragraph (4)(a), in force from 16-12-1983. It read as follows:
+
+“(2) The number of elected members of the Legislative Assembly shall be the same as or a multiple of the number of the Federal constituencies into which the State is divided under Article 116 of the Federal Constitution.”.
 
 [[END OF PAGE 360]]
 
@@ -12311,23 +12471,23 @@ Provided that this section shall not be taken to prevent the practice of the Ass
 
 [[START OF PAGE 364]]
 
-### Eighth Schedule -(cont.)
-
-Subsections  6(3)  &  (4) :  Inserted  by  Act  A566,  paragraph  21 (a) ,  in  force  from 16-12-1983.
-
-Subsection  6(5) :  Inserted  by Act A767,  section  6,  in  force  from  11-05-1990.
-
-##### Section  8
-
-Proviso  added  by Act  26/1963,  subsection  11(2),  in  force  from  16-09-1963.
-
-Subsection (1) :  Renumbered by Act A566, paragraph 21 (b) ,  in  force  from 16-12-1983.
-
-Subsection  (2) :  Inserted  by Act A566,  paragraph  21 (b) ,  in  force  from  16-12-1983.
-
-Federal  Constitution
+Federal Constitution
 
 ##### NOTES
+
+### Eighth Schedule -(cont.)
+
+Subsections 6(3) & (4): Inserted by Act A566, paragraph 21(a), in force from 16-12-1983.
+
+Subsection 6(5): Inserted by Act A767, section 6, in force from 11-05-1990.
+
+##### Section 8
+
+Proviso added by Act 26/1963, subsection 11(2), in force from 16-09-1963.
+
+Subsection (1): Renumbered by Act A566, paragraph 21(b), in force from 16-12-1983.
+
+Subsection (2): Inserted by Act A566, paragraph 21(b), in force from 16-12-1983.
 
 [[END OF PAGE 364]]
 
@@ -12373,55 +12533,55 @@ Provided  that  paragraph (b) shall  not  have  effect  for  the  purposes  of t
 
 [[START OF PAGE 366]]
 
-### Eighth Schedule -(cont.)
-
-##### Section  9
-
-Subsection  (3) :  Section  4  of Act  27/1968,  in  force  from  09-09-1968,  read  as  follows:
-
-'4.	 Notwithstanding the provisions of section 9(3) of the Eighth Schedule it is provided that in the case of Sarawak, the Council Negri existing at the commencement of this Act shall not be subject to the prescribed period of five years for it to stand dissolved but shall stand dissolved on the date on which the federal Parliament is next dissolved or  next  stands  dissolved  after  the  date  of  commencement  of  this Act.'.
-
-##### Subsection  (4)
-
-- 1 . The words 'in the States of Malaya and ninety days in the Borneo States' were inserted  by  Act  59/1966,  section  2,  in  force  from  19-09-1966.  The  Act  also substituted  the  words  'one  hundred  and  twenty  days'  for  'ninety  days'.
-
-- 2 . The  words  'the  States  of  Sabah  and  Sarawak'  substituted  for  'the  Borneo States'  by Act A354,  section  43,  in  force  from  27-08-1976.
-
-- 3 . The  words  'in  the  States  of  Malaya  and  ninety  days  in  the  States  of  Sabah and  Sarawak'  were  deleted  by  Act  A585,  paragraph  27 (a) ,  in  force  from 14-04-1984.
-
-##### Subsection  (5)
-
-- 1 . The words 'or in the case of the Legislative Assembly of each of the Borneo States  within  ninety  days'  were  inserted  by Act  59/1966,  section  2,  in  force from 19-09-1966.
-
-- 2 . The words 'is established that there is a vacancy' substituted for 'occurs' by Act  26/1963,  subsection  11(2),  in  force  from  16-09-1963.
-
-- 3 . The  words  'the  states  of  Sabah  and  Sarawak'  substituted  for  'the  Borneo States'  by Act A354,  section  43,  in  force  from  27-08-1976.
-
-- The proviso was inserted  by Act A1,  section  3,  in  force  from  18-11-1968.
-
-- The words 'or in the case of each of the Legislative Assembly of each of the States  of  Sabah  and  Sarawak  within  ninety  days'  were  deleted  by Act A585, paragraph  27 (b) ,  in  force  from  14-04-1984.
-
-- The words 'by the Election Commission' were inserted after the words 'it is established'  by Act A585,  paragraph  27 (c) ,  in  force  from  14-04-1984.
-
-- The proviso was substituted by Act A857, section 4, in force from 20-08-1993. The previous proviso  read  as  follows:
-
-'Provided that if a casual vacancy is established on a date within six months of  the  date  the  Legislative Assembly  shall,  in  accordance  with  subsection  (3) of  this  section  stand  dissolved,  such  casual  vacancy  shall  not  be  filled.
-
-##### Section  10
-
-See section  23.
-
-##### Subsections  (1),  (1 a ),  (1 b )  &  (2)
-
-The  present  subsections  was  substituted  by  Act  A919,  subparagraph  2 (a) (ii),  in force  from  21-07-1995.  The  original  subsections  10(1)  and  (2)  before  amendment read  as  follows:
-
-'10.	 (1) The  Legislative  Assembly  shall  from  time  to  time  choose  one  of  its members to be Speaker and shall transact no business while the office of Speaker is  vacant  other  than  the  election  of  a  Speaker.
-
-(2) A  member  holding  office  as  Speaker  shall  vacate  his  office  on  ceasing to  be  a  member  of  the  Legislative  Assembly  or  upon  being  disqualified  under subsection  (4),  and  may  at  any  time  resign  his  office.'.
-
-Federal  Constitution
+Federal Constitution
 
 ##### NOTES
+
+### Eighth Schedule -(cont.)
+
+##### Section 9
+
+Subsection (3): Section 4 of Act 27/1968, in force from 09-09-1968, read as follows:
+
+“4. Notwithstanding the provisions of section 9(3) of the Eighth Schedule it is provided that in the case of Sarawak, the Council Negri existing at the commencement of this Act shall not be subject to the prescribed period of five years for it to stand dissolved but shall stand dissolved on the date on which the federal Parliament is next dissolved or next stands dissolved after the date of commencement of this Act.”.
+
+##### Subsection (4)
+
+1. The words “in the States of Malaya and ninety days in the Borneo States” were inserted by Act 59/1966, section 2, in force from 19-09-1966. The Act also substituted the words “one hundred and twenty days” for “ninety days”.
+
+2. The words “the States of Sabah and Sarawak” substituted for “the Borneo States” by Act A354, section 43, in force from 27-08-1976.
+
+3. The words “in the States of Malaya and ninety days in the States of Sabah and Sarawak” were deleted by Act A585, paragraph 27(a), in force from 14-04-1984.
+
+##### Subsection (5)
+
+1. The words “or in the case of the Legislative Assembly of each of the Borneo States within ninety days” were inserted by Act 59/1966, section 2, in force from 19-09-1966.
+
+2. The words “is established that there is a vacancy” substituted for “occurs” by Act 26/1963, subsection 11(2), in force from 16-09-1963.
+
+3. The words “the states of Sabah and Sarawak” substituted for “the Borneo States” by Act A354, section 43, in force from 27-08-1976.
+
+4. The proviso was inserted by Act A1, section 3, in force from 18-11-1968.
+
+5. The words “or in the case of each of the Legislative Assembly of each of the States of Sabah and Sarawak within ninety days” were deleted by Act A585, paragraph 27(b), in force from 14-04-1984.
+
+6. The words “by the Election Commission” were inserted after the words “it is established” by Act A585, paragraph 27(c), in force from 14-04-1984.
+
+7. The proviso was substituted by Act A857, section 4, in force from 20-08-1993. The previous proviso read as follows:
+
+“Provided that if a casual vacancy is established on a date within six months of the date the Legislative Assembly shall, in accordance with subsection (3) of this section stand dissolved, such casual vacancy shall not be filled.
+
+##### Section 10
+
+See section 23.
+
+##### Subsections (1), (1a), (1b) & (2)
+
+The present subsections was substituted by Act A919, subparagraph 2(a)(ii), in force from 21-07-1995. The original subsections 10(1) and (2) before amendment read as follows:
+
+“10. (1) The Legislative Assembly shall from time to time choose one of its members to be Speaker and shall transact no business while the office of Speaker is vacant other than the election of a Speaker.
+
+(2) A member holding office as Speaker shall vacate his office on ceasing to be a member of the Legislative Assembly or upon being disqualified under subsection (4), and may at any time resign his office.”.
 
 [[END OF PAGE 366]]
 
@@ -12433,7 +12593,7 @@ Federal  Constitution
 
 [Eighth Schedule]
 
-- The Speaker may at any time resign his office and shall vacate his office-
+(2) The Speaker may at any time resign his office and shall vacate his office—
 
 (a) when the Legislative Assembly first meets after a general election;
 
@@ -12463,31 +12623,41 @@ Provided that such disqualification shall not apply where such organization or b
 
 (3) A  Bill  shall  become  law  on  being  assented  to  by  the  Ruler  or  as provided in subsection (2 b )  but  no  law  shall  come into force until it has been published,  without  prejudice,  however,  to  the  power  of  the  Legislature  to postpone the  operation  of  any  law  or  to  make  laws  with  retrospective  effect.
 
-( Repealed ).
+(4) (Repealed).
 
 [[END OF PAGE 367]]
 
 [[START OF PAGE 368]]
 
-### Eighth Schedule (cont.)
-
-The  words  'Ruler  or  as  provided  in  subsection  (2 b Act A885, subparagraph 44 (b) (ii),  in  force  from  24-06-1994.
-
-Federal  Constitution
+Federal Constitution
 
 ##### NOTES
 
-##### Subsection  (3)
-The word 'other' was deleted by Act A919, subparagraph (2) (a) (iii),  in  force from 21-07-1995.
-##### Subsections  (4)  &  (5) :
-Added  by  Act  A514,  paragraph  16 (b) ,  in  force  from 15-05-1981.
-##### Section  11
-##### Subsections  (3)  &  (4)
-(a) These  subsections  were  substituted  by  Act  A566,  paragraph  21 (c) ,  in  force from 16-12-1983 and read as follows: '(3)	 A  Bill  shall  become  law  on  being  assented  to  by  the  Ruler.  If  for any reason whatsoever the Bill is not assented to within fifteen days of the Bill  being  presented  to  the  Ruler,  he  shall  be  deemed  to  have  assented  to the  Bill  and  the  Bill  shall  accordingly  become  law. (4)	 No  law  shall  come  into  force  until  it  has  been  published,  without prejudice, however, to the power of the Legislature to postpone the operation of  any  law  or  to  make  laws  with  retrospective  effect.'. (b) Act  A584,  paragraphs  4 (b) and (c) ,  in  force  from  20-01-1984,  restored  the original subsection (3) as it was before the amendment made by Act A566 as it  now  appears  and  repealed  subsection  (4).
-##### Subsections  (2 a )  &  (2 b )
-Inserted  by Act A885,  subparagraph  44 (b) (i),  in  force  from  24-06-1994.
-##### Subsection  (3)
-)'  substituted  for  'Ruler,'  by
+### Eighth Schedule -(cont.)
+
+##### Subsection (3)
+The word “other” was deleted by Act A919, subparagraph (2)(a)(iii), in force from 21-07-1995.
+
+##### Subsections (4) & (5):
+Added by Act A514, paragraph 16(b), in force from 15-05-1981.
+
+##### Section 11
+
+##### Subsections (3) & (4)
+
+(a) These subsections were substituted by Act A566, paragraph 21(c), in force from 16-12-1983 and read as follows:
+
+“(3) A Bill shall become law on being assented to by the Ruler. If for any reason whatsoever the Bill is not assented to within fifteen days of the Bill being presented to the Ruler, he shall be deemed to have assented to the Bill and the Bill shall accordingly become law.
+
+(4) No law shall come into force until it has been published, without prejudice, however, to the power of the Legislature to postpone the operation of any law or to make laws with retrospective effect.”.
+
+(b) Act A584, paragraphs 4(b) and (c), in force from 20-01-1984, restored the original subsection (3) as it was before the amendment made by Act A566 as it now appears and repealed subsection (4).
+
+##### Subsections (2a) & (2b)
+Inserted by Act A885, subparagraph 44(b)(i), in force from 24-06-1994.
+
+##### Subsection (3)
+The words “Ruler or as provided in subsection (2b)” substituted for “Ruler,” by Act A885, subparagraph 44(b)(ii), in force from 24-06-1994.
 
 [[END OF PAGE 368]]
 
@@ -12521,7 +12691,7 @@ Federal  Constitution
 
 14. (1) Subject  to  subsection  (3),  the  Ruler  shall,  in  respect  of  every financial year, cause to be laid before the Legislative Assembly a statement of the  estimated  receipts  and  expenditure  of  the  State  for  that  year,  and,  unless the State Legislature in respect of any year otherwise provides, that statement shall  be  so  laid  before  the  commencement  of  that  year.
 
-- The estimates  of  expenditure  shall  show  separately-
+(2) The estimates of expenditure shall show separately—
 
 (a) the total sums required to meet expenditure charged on the Consolidated Fund;  and
 
@@ -12537,23 +12707,23 @@ Federal  Constitution
 
 [[START OF PAGE 370]]
 
+Federal Constitution
+
+##### NOTES
+
 ### Eighth Schedule -(cont.)
 
-##### Section  14
+##### Section 14
 
-Subsection  (3) : See sections  15,  17(3)  &  22.
+Subsection (3): See sections 15, 17(3) & 22.
 
 ###### Paragraph (3)(c)
 
-- 1 . Inserted  by Act  19/1964,  section  8,  in  force  from  30-07-1964.
+1. Inserted by Act 19/1964, section 8, in force from 30-07-1964.
 
-- 2 . The words 'federal  or'  substituted  by Act  31/1965,  subsection  2(2),  in  force from 01-07-1965.
+2. The words “federal or” substituted by Act 31/1965, subsection 2(2), in force from 01-07-1965.
 
-- The  words  'Islamic  religious  revenue'  substituted  for  'Muslim  revenue'  by Act A354, section  45,  in  force  from  27-08-1976.
-
-Federal  Constitution
-
-##### NOTES
+3. The words “Islamic religious revenue” substituted for “Muslim revenue” by Act A354, section 45, in force from 27-08-1976.
 
 [[END OF PAGE 370]]
 
@@ -12575,7 +12745,7 @@ Federal  Constitution
 
 #### Supplementary and excess expenditure
 
-- If  in  respect  of  any  financial  year  it  is  found-
+16. If in respect of any financial year it is found—
 
 (a) that  the  amount  appropriated  by  the  Supply  Enactment  for  that purpose  is  insufficient,  or  that  a  need  has  arisen  for  expenditure for  a  purpose  for  which  no  amount  has  been  appropriated  by  the Supply Enactment; or
 
@@ -12601,15 +12771,15 @@ a  supplementary  estimate  showing  the  sums  required  or  spent  shall  be  
 
 [[START OF PAGE 372]]
 
-Federal  Constitution
+Federal Constitution
 
 ##### NOTES
 
 ### Eighth Schedule -(cont.)
-##### Section  17
-' by Act 31/1965,
 
-Subsection (3) : The words ' (a) , (b) and (c) ' substituted for ' (a) and (b) subsection  2(2),  in  force  from  01-07-1965.
+##### Section 17
+
+Subsection (3): The words “(a), (b) and (c)” substituted for “(a) and (b)” by Act 31/1965, subsection 2(2), in force from 01-07-1965.
 
 [[END OF PAGE 372]]
 
@@ -12683,13 +12853,13 @@ Federal  Constitution
 
 (d) the establishment, regulation, confirmation and deprivation of Malay customary  ranks,  titles,  honours,  dignities  and  awards  and  the attributes  of  the  holders  thereof  and  the  regulation  of  the  royal courts  and  palaces.
 
-- In  this  section  'amendment'  includes  addition  and  repeal.
+(7) In this section “amendment” includes addition and repeal.
 
 #### PROVISIONS IN RESPECT OF YANG DI-PERTUA NEGERI IN  RELATION TO THE STATES OF MALACCA, PENANG, SABAH AND SARAWAK
 
 #### Yang di-Pertua  Negeri
 
-19 a . (1) There  shall  be  a  Yang  di-Pertua  Negeri  of  the  State  who  shall be appointed by the Yang di-Pertuan Agong acting in his discretion but after consultation  with  the  Chief  Minister.
+19a. (1) There shall be a Yang di-Pertua Negeri of the State who shall be appointed by the Yang di-Pertuan Agong acting in his discretion but after consultation with the Chief Minister.
 
 (2) The Yang di-Pertua Negeri shall be appointed for a term of four years but  may  at  any  time  resign  his  office  by  writing  under  his  hand  addressed to  the Yang  di-Pertuan Agong  and  may  be  removed  from  office  by  the Yang di-Pertuan Agong in pursuance of an address by the Legislative Assembly of the  State  supported  by  votes  of  not  less  than  two-thirds  of  the  total  number of  its  members.
 
@@ -12699,11 +12869,11 @@ Federal  Constitution
 
 #### Qualifications  and  disabilities  of  Yang  di-Pertua  Negeri
 
-19 b . (1) A  person  who  is  not  a  citizen  or  is  a  citizen  by  naturalization or  by  registration  under Article  17*  of  the  Federal  Constitution  shall  not  be appointed  a Yang  di-Pertua  Negeri.
+19b. (1) A person who is not a citizen or is a citizen by naturalization or by registration under Article 17* of the Federal Constitution shall not be appointed a Yang di-Pertua Negeri.
 
 (2) The  Yang  di-Pertua  Negeri  shall  not  hold  any  office  of  profit  and shall  not  actively  engage  in  any  commercial  enterprise.
 
-* Note -This Article  has  been  repealed  vide  Constitution  (Amendment) Act  1962  [ Act  14/1962 ] w.e.f.  1  July  1963see section  5  of Act  14/1962. See also  notes  on Article  17.
+*Note—This Article has been repealed vide Constitution (Amendment) Act 1962 [Act 14/1962] w.e.f. 1 July 1963—see section 5 of Act 14/1962. See also notes on Article 17.
 
 [[END OF PAGE 375]]
 
@@ -12719,9 +12889,9 @@ Federal  Constitution
 See section  22.
 ##### Sections  19 a,  19b,  19c  & 19 d
 
-- Inserted  by Act A354,  section  47,  in  force  from  27-08-1976.
+1. Inserted by Act A354, section 47, in force from 27-08-1976.
 
-- In  subsection  19 d (1),  the  word  'Judge'  substituted  for  'Justice'  by  Act  A885, paragraph  44 (c) ,  in  force  from  24-06-1994.
+2. In subsection 19d(1), the word “Judge” substituted for “Justice” by Act A885, paragraph 44(c), in force from 24-06-1994.
 
 [[END OF PAGE 376]]
 
@@ -12743,27 +12913,27 @@ Federal  Constitution
 
 'I,...................................................................................................................... having been appointed Yang di-Pertua Negeri of the State of.............................. do  solemnly  swear  (or  affirm)  that  I  will  faithfully  discharge  my  duties  as such  to  the  best  of  my  ability,  that  I  will  bear  true  faith  and  allegiance  to the State of.......................................................................................................... and to the Federation of Malaysia, and that I will preserve, protect and defend the  Constitution  of  the  Federation  of  Malaysia  and  the  Constitution  of  the State  of........................................................'.
 
-- Any law made under subsection (3) of section 19 a shall make provision corresponding  (with  necessary  modifications)  to  subsection  (1).
+(2) Any law made under subsection (3) of section 19a shall make provision corresponding (with necessary modifications) to subsection (1).
 
 ### Part II
 
 #### TEMPORARY PROVISIONS ALTERNATIVE TO PROVISIONS IN PART I
 
-#### The Executive  Council  (alternative  to  section  2)
+#### The Executive Council (alternative to section 2)
 
-(1) The Ruler shall  appoint  an  Executive  Council.
+20. (1) The Ruler shall appoint an Executive Council.
 
-- The Executive Council shall  be  appointed  as  follows,  that  is  to  say:
+(2) The Executive Council shall be appointed as follows, that is to say:
 
-(a) the  Ruler  shall  first  appoint  as  Menteri  Besar  to  preside  over  the Executive  Council  a  person  who  in  his  judgment  is  likely  to command the confidence of the majority of the Assembly; and
+(a) the Ruler shall first appoint as Menteri Besar to preside over the Executive Council a person who in his judgment is likely to command the confidence of the majority of the Assembly; and
 
-(b) he shall on the advice of the Menteri Besar appoint not more than ten  nor  less  than  four  other  persons.
+(b) he shall on the advice of the Menteri Besar appoint not more than ten nor less than four other persons.
 
-- Notwithstanding anything in this section, a person who is a citizen by naturalization or by registration under Article 17* of the Federal Constitution shall  not  be  appointed  Menteri  Besar.
+(3) Notwithstanding anything in this section, a person who is a citizen by naturalization or by registration under Article 17* of the Federal Constitution shall not be appointed Menteri Besar.
 
-- In appointing a Menteri Besar the Ruler may, in his discretion, dispense with  any  provision  in  the  Constitution  of  this  State  restricting  his  choice  of a  Menteri Besar, if in his opinion it is necessary to do so in order to comply with  the  provisions  of  this  section.
+(4) In appointing a Menteri Besar the Ruler may, in his discretion, dispense with any provision in the Constitution of this State restricting his choice of a Menteri Besar, if in his opinion it is necessary to do so in order to comply with the provisions of this section.
 
-* noteThis Article has been repealed vide Constitution (Amendment) Act 1962 [ Act 14/1962 ] w.e.f.  1  July  1963see section  5  of Act  14/1962. See also  notes  on Article  17.
+*Note—This Article has been repealed vide Constitution (Amendment) Act 1962 [Act 14/1962] w.e.f. 1 July 1963—see section 5 of Act 14/1962. See also notes on Article 17.
 
 [[END OF PAGE 377]]
 
@@ -12774,7 +12944,7 @@ Federal  Constitution
 ##### NOTES
 
 ### Eighth Schedule -(cont.)
-#### P art II
+#### Part II
 See Art.  71(5)  &  Eighth  Schedule,  section  22.
 ##### Section  20
 ##### Subsection  (2)(b)
@@ -12794,83 +12964,83 @@ Federal  Constitution
 
 [Eighth Schedule]
 
-- The Executive Council shall be collectively responsible to the Legislative Assembly.
+(5) The Executive Council shall be collectively responsible to the Legislative Assembly.
 
 (6) The  Menteri  Besar  shall  cease  to  hold  office  at  the  expiration  of  a period  of  three  months  from  the  date  of  his  appointment,  unless  before  the expiration  of  that  period  a  resolution  of  confidence  in  him  has  been  passed by  the  Legislative  Assembly;  and  if  at  any  time  he  ceases  to  command  the confidence of the majority of the members of the Legislative Assembly, then unless  at  his  request  the  Ruler  dissolves  the  Legislative  Assembly,  he  shall tender  the  resignation  of  the  Executive  Council.
 
 (7) Subject  to  subsection  (6),  a  member  of  the  Executive  Council  other than  the  Menteri  Besar  shall  hold  office  at  the  Ruler's  pleasure,  but  any member of the Council may at any time resign his office.
 
-- A  member  of  the  Executive  Council  shall  not  engage  in  any  trade, business or profession connected with any subject or department for which he is responsible and shall not, so long as he is engaged in any trade, business or profession, take part in any decision of the Executive Council relating to that trade,  business or profession or in any decision likely to affect his pecuniary interests  therein.
+(8) A member of the Executive Council shall not engage in any trade, business or profession connected with any subject or department for which he is responsible and shall not, so long as he is engaged in any trade, business or profession, take part in any decision of the Executive Council relating to that trade, business or profession or in any decision likely to affect his pecuniary interests therein.
 
-#### Composition of Legislative Assembly  (alternative  to  section  4)
+#### Composition of Legislative Assembly (alternative to section 4)
 
-(1) The Legislative Assembly shall  consist  of-
+21. (1) The Legislative Assembly shall consist of—
 
-(a) such  number  of  elected  members  as  the  Legislature  may  by  law provide;  and
+(a) such number of elected members as the Legislature may by law provide; and
 
 (b) such number of other members, being less than the number of elected members, as the Ruler may appoint,
 
-and, until other provision is made as aforesaid, the number of elected members shall  be  the  number  specified  in Article  171*  of  the  Federal  Constitution.
+and, until other provision is made as aforesaid, the number of elected members shall be the number specified in Article 171* of the Federal Constitution.
 
-- Notwithstanding anything in section 6 of the Eighth Schedule to the Federal Constitution, a person shall not be disqualified for being an appointed member  of  the  Legislative Assembly  by  reason  only  that  he  holds  an  office of  profit.
+(2) Notwithstanding anything in section 6 of the Eighth Schedule to the Federal Constitution, a person shall not be disqualified for being an appointed member of the Legislative Assembly by reason only that he holds an office of profit.
 
-### P art III
+### Part III
 
 #### MODIFICATIONS OF PARTS I AND II IN RELATION TO MALACCA AND PENANG
 
-- In the application of Parts I and II of this Schedule to the State of Malacca and  Penang  references  to  the  Yang  di-Pertua  Negeri  shall  be  substituted  for references  to  the  Ruler,  and  the  following  shall  be  omitted,  that  is  to  say, paragraphs (c) to (g) of subsection 1(2), section 1A, subsection 2(4), subsection 19(2) and (6), subsection 20(4), in subsection 14(3) the words preceding 'the sums  to  be  shown  under  paragraph (b) '  and  in  subsection  19(3)  the  word 'other'  in  the  first  place  where  it  occurs.
+22. In the application of Parts I and II of this Schedule to the State of Malacca and Penang references to the Yang di-Pertua Negeri shall be substituted for references to the Ruler, and the following shall be omitted, that is to say, paragraphs (c) to (g) of subsection 1(2), section 1A, subsection 2(4), subsection 19(2) and (6), subsection 20(4), in subsection 14(3) the words preceding “the sums to be shown under paragraph (b)” and in subsection 19(3) the word “other” in the first place where it occurs.
 
-- Part  I  of  this  Schedule  shall  apply  to  the  States  of  Sabah  and  Sarawak as  it  applies  to  the  States  of  Penang  and  Malacca.
+23. Part I of this Schedule shall apply to the States of Sabah and Sarawak as it applies to the States of Penang and Malacca.
 
-* noteThis Article has been repealed vide Constitution (Amendment) Act 1963 [ Act 25/1963 ] w.e.f.  29 August  1963see section  8  of Act  25/1963.
+*Note—This Article has been repealed vide Constitution (Amendment) Act 1963 [Act 25/1963] w.e.f. 29 August 1963—see section 8 of Act 25/1963.
 
 [[END OF PAGE 379]]
 
 [[START OF PAGE 380]]
 
-### Eighth Schedule -(cont.)
-
-##### Section  21
-
-- See paragraph  19(5) (a) .
-
-- Art.  171  which  is  referred  to  in  subsection  (1)  has  been  repealed.
-
-#### P art III
-
-##### Section  22
-
-- The  words  'and  Chief  Minister'  which  appeared  after  'Governor',  'respectively' which  appeared  after  'shall  be  substituted'  and  'and  the  Menteri  Besar'  which appeared  after  'Ruler'  were  deleted  by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
-
-- The  words  'Yang  di-Pertua  Negeri'  substituted  for  'Governor'  by  Act  A354, section  42,  in  force  from  27-08-1976.
-
-- The words 'section 1 a ' were inserted after the words 'section 1(2),' by Act A849, section  3,  in  force  from  16-07-1993.
-
-##### Section  23
-
-Added by Act 26/1963, subsection 12(3), in force  from  16-09-1963.
-
-##### Subsection  23(1)
-
-- 1 . The  word  'and'  substituted  for  the  comma  following  the  word  'Sabah'  and the  words  'and  Singapore'  were  deleted  by Act  59/1966,  section  2,  in  force from 09-08-1965.
-
-- 2 . The  words  'except  for  the  modifications  of  section  10  stated  in subsection (2) of this section' were deleted by Act A919, subparagraph 2 (c) (i), in  force  from  21-07-1995.
-
-- 3 . Subsection 23(1) renumbered as section 23 by Act A919, subparagraph 2 (c) (ii), in  force  from  21-07-1995.
-
-##### Subsection  23(2)
-
-Deleted by Act A919, subparagraph 2 (c) (iii), in force from 21-07-1995. The original
-
-'(2)	 Section  10  in  its  application  to  the  State  of  Sabah  or  Sarawak may  be  modified  by  the  substitution  for  the  words  'one  of  its  members to  be  Speaker'  in  subsection  (1)  of  the  words  'as  Speaker  such  person as  the  Assembly  may  determine',  by  the  omission  of  the  word  'other'  in
-
-subsection  23(2)  before  amendment  read  as  follows: subsection  (3),  and  by  the  addition  of  a  subsection  (4)-
-
-'(4) A person shall not be chosen to be Speaker, unless he is a member or  qualified  to  be  a  member  of  the  Legislative  Assembly,  and  the  Speaker, whether  a  member  or  not,  shall  vacate  his  office  on  the  dissolution  of  the Assembly, and may at any time resign his office.'.'.
-
-Federal  Constitution
+Federal Constitution
 
 ##### NOTES
+
+### Eighth Schedule -(cont.)
+
+#### Part III
+
+See Art. 71(5) & Eighth Schedule, section 22.
+
+##### Section 21
+
+1. See paragraph 19(5)(a).
+
+2. Art. 171 which is referred to in subsection (1) has been repealed.
+
+##### Section 22
+
+1. The words “and Chief Minister” which appeared after “Governor”, “respectively” which appeared after “shall be substituted” and “and the Menteri Besar” which appeared after “Ruler” were deleted by Act 26/1963, section 70, in force from 16-09-1963.
+
+2. The words “Yang di-Pertua Negeri” substituted for “Governor” by Act A354, section 42, in force from 27-08-1976.
+
+3. The words “section 1a” were inserted after the words “section 1(2),” by Act A849, section 3, in force from 16-07-1993.
+
+##### Section 23
+
+Added by Act 26/1963, subsection 12(3), in force from 16-09-1963.
+
+##### Subsection 23(1)
+
+1. The word “and” substituted for the comma following the word “Sabah” and the words “and Singapore” were deleted by Act 59/1966, section 2, in force from 09-08-1965.
+
+2. The words “except for the modifications of section 10 stated in subsection (2) of this section” were deleted by Act A919, subparagraph 2(c)(i), in force from 21-07-1995.
+
+3. Subsection 23(1) renumbered as section 23 by Act A919, subparagraph 2(c)(ii), in force from 21-07-1995.
+
+##### Subsection 23(2)
+
+Deleted by Act A919, subparagraph 2(c)(iii), in force from 21-07-1995. The original subsection 23(2) before amendment read as follows:
+
+‘(2) Section 10 in its application to the State of Sabah or Sarawak may be modified by the substitution for the words “one of its members to be Speaker” in subsection (1) of the words “as Speaker such person as the Assembly may determine”, by the omission of the word “other” in subsection (3), and by the addition of a subsection (4)—
+
+“(4) A person shall not be chosen to be Speaker, unless he is a member or qualified to be a member of the Legislative Assembly, and the Speaker, whether a member or not, shall vacate his office on the dissolution of the Assembly, and may at any time resign his office.”.’.
 
 [[END OF PAGE 380]]
 
@@ -12890,7 +13060,7 @@ Federal  Constitution
 
 ### List  I-Federal  List
 
-- External  affairs,  including-
+1. External affairs, including—
 
 (a) treaties, agreements and conventions with other countries and all matters which bring the Federation into relations with any other country;
 
@@ -12908,7 +13078,7 @@ Federal  Constitution
 
 (h) pilgrimages  to  places  outside  Malaysia.
 
-- Defence of the  Federation  or  any  part  thereof,  including-
+2. Defence of the Federation or any part thereof, including—
 
 (a) naval,  military  and  air  forces  and  other  armed  forces;
 
@@ -12926,7 +13096,7 @@ Federal  Constitution
 
 (h) civil  defence.
 
-- Internal  security,  including-
+3. Internal security, including—
 
 (a) police; criminal investigation; registration of criminals; public order;
 
@@ -12968,7 +13138,7 @@ Federal  Constitution
 
 Schedule]
 
-- Civil  and  criminal  law  and  procedure  and  the  administration  of  justice, including-
+4. Civil and criminal law and procedure and the administration of justice, including—
 
 (a) constitution  and  organization  of  all  courts  other  than  Syariah Courts;
 
@@ -12998,9 +13168,9 @@ Schedule]
 
 (l) betting  and  lotteries.
 
-- Federal  citizenship  and  naturalization;  aliens.
+5. Federal citizenship and naturalization; aliens.
 
-- The machinery of government, subject to the State  List,  but  including-
+6. The machinery of government, subject to the State List, but including—
 
 (a) elections to both Houses of Parliament and the Legislative Assemblies of  the  States  and  all  matters  connected  therewith;
 
@@ -13020,19 +13190,19 @@ The words 'Syariah Courts' substituted for 'Muslim Courts' by Act A354, section 
 
 ###### Item  4(e)(ii)
 
-- The word 'legitimacy' was inserted by Act 31/1965, subsection 2(2), in force from 01-07-1965.
+1. The word “legitimacy” was inserted by Act 31/1965, subsection 2(2), in force from 01-07-1965.
 
-- The word 'Islamic' substituted for 'Muslim' by Act A354, section 44, in force from 27-08-1976.
+2. The word “Islamic” substituted for “Muslim” by Act A354, section 44, in force from 27-08-1976.
 
-###### Item  4(h)  &  (i)
+###### Item 4(h) & (i)
 
-The words 'or dealt with by federal law' which appear at the end were inserted by Act 25/1963,  paragraph  6(1) (a) ,  in  force  from  29-08-1963.
+The words “or dealt with by federal law” which appear at the end were inserted by Act 25/1963, paragraph 6(1)(a), in force from 29-08-1963.
 
-###### Item  4(k)
+###### Item 4(k)
 
-- The words 'and other personal  laws'  were  inserted  by Act  26/1963,  section  70,  in force  from  16-09-1963.
+1. The words “and other personal laws” were inserted by Act 26/1963, section 70, in force from 16-09-1963.
 
-- The words 'Islamic law' substituted for 'Muslim law' by Act A354, section 45, in force  from  27-08-1976.
+2. The words “Islamic law” substituted for “Muslim law” by Act A354, section 45, in force from 27-08-1976.
 
 Federal  Constitution
 
@@ -13060,7 +13230,7 @@ Schedule]
 
 (h) purchase, acquisition and holding of, and dealing with, property for federal  purposes.
 
-- Finance,  including-
+7. Finance, including—
 
 (a) currency,  legal  tender  and  coinage;
 
@@ -13088,7 +13258,7 @@ Schedule]
 
 (m) capital  issues;  stock  and  commodity  exchanges.
 
-- Trade,  commerce  and  industry,  including-
+8. Trade, commerce and industry, including—
 
 (a) production, supply and distribution of goods; price control and food control;  adulteration  of  foodstuffs  and  other  goods;
 
@@ -13111,9 +13281,7 @@ The words 'or dealt with by federal law' were inserted by Act 25/1963, paragraph
 ###### Item  8(c)
 The  words  'bounties  on  production'  in  the  last  subject  substituted  for  'bounties  and production'  by Act  25/1963,  subsection  6(2),  in  force  from  29-08-1963.
 ###### Item  8(j)
-in the State List' at the commencement were inserted
-
-The words 'Subject to item 2 (c) by Act  26/1963,  section  70,  in  force  from  16-09-1963.
+The words “Subject to item 2(c) in the State List” at the commencement were inserted by Act 26/1963, section 70, in force from 16-09-1963.
 
 Federal  Constitution
 
@@ -13149,7 +13317,7 @@ Schedule]
 
 (l) dangerous and inflammable substances.
 
-- Shipping,  navigation  and  fisheries,  including-
+9. Shipping, navigation and fisheries, including—
 
 (a) shipping  and  navigation  on  the  high  seas  and  in  tidal  and  inland waters;
 
@@ -13163,7 +13331,7 @@ Schedule]
 
 (f) wrecks and salvage.
 
-- Communications and transport,  including-
+10. Communications and transport, including—
 
 (a) roads, bridges, ferries and other means of communication if declared to  be  federal  by  or  under  federal  law;
 
@@ -13181,7 +13349,7 @@ Schedule]
 
 (h) wireless,  broadcasting  and  television.
 
-- Federal  works  and  power,  including-
+11. Federal works and power, including—
 
 (a) public  works  for  federal  purposes;
 
@@ -13222,7 +13390,7 @@ Schedule]
 
 (c) electricity; gas and gas works; and other works for the production and  distribution  of  power  and  energy.
 
-- Surveys,  inquiries  and  research,  including-
+12. Surveys, inquiries and research, including—
 
 (a) census; registration of births and deaths; registration of marriages; registration  of  adoptions  other  than  adoptions  under  Islamic  law or  Malay  custom;
 
@@ -13232,13 +13400,13 @@ Schedule]
 
 (d) commissions of inquiry.
 
-- Education,  including-
+13. Education, including—
 
 (a) elementary,  secondary,  and  university  education;  vocational  and technical  education;  training  of  teachers;  registration  and  control of  teachers,  managers  and  schools;  promotion  of  special  studies and  research;  scientific  and  literary  societies;
 
 (b) libraries; museums; ancient and historical monuments and records; archaeological  sites  and  remains.
 
-- Medicine  and  health  including  sanitation  in  the  federal  capital,  and including-
+14. Medicine and health including sanitation in the federal capital, and including—
 
 (a) hospitals, clinics and dispensaries; medical profession; maternity and child  welfare;  lepers  and  leper  institutions;
 
@@ -13248,7 +13416,7 @@ Schedule]
 
 (d) intoxicating  drugs  and  liquors;  manufacture  and  sale  of  drugs.
 
-- Labour and social  security,  including-
+15. Labour and social security, including—
 
 (a) trade  unions;  industrial  and  labour  disputes;  welfare  of  labour including  housing  of  labourers  by  employers;  employer's  liability and  workmen's compensation;
 
@@ -13256,11 +13424,11 @@ Schedule]
 
 (c) charities  and  charitable  institutions;  charitable  trusts  and  trustees excluding Wakafs; Hindu endowments.
 
-- Welfare  of  the  aborigines.
+16. Welfare of the aborigines.
 
-- Professional  occupations  other  than  those  specifically  enumerated.
+17. Professional occupations other than those specifically enumerated.
 
-- Holidays  other  than  State  holidays;  standard  of  time.
+18. Holidays other than State holidays; standard of time.
 
 [[END OF PAGE 389]]
 
@@ -13281,19 +13449,19 @@ This  Item  which  read  as  follows  was  deleted  by Act A704,  paragraph  12 
 ###### Item  25 a :
 Inserted  by Act A885,  section  45,  in  force  from  24-06-1994.
 
-###### Item  26
+###### Item 26
 
-- Inserted  by Act A354,  paragraph  48(1) (a) ,  in  force  from  01-01-1976.
+1. Inserted by Act A354, paragraph 48(1)(a), in force from 01-01-1976.
 
-- The  word  'Subject'  substituted  for  'Except  with  respect  to  Sabah  and  Sarawak, and  subject'  by Act A514,  paragraph  17 (a) ,  in  force  from  15-05-1981.
+2. The word “Subject” substituted for “Except with respect to Sabah and Sarawak, and subject” by Act A514, paragraph 17(a), in force from 15-05-1981.
 
-###### Item  27
+###### Item 27
 
-- Inserted  by Act A566,  section  22,  in  force  from  01-02-1974.
+1. Inserted by Act A566, section 22, in force from 01-02-1974.
 
-- The words 'and in the case of the Federal Territory of Labuan, the matters enumerated in  items  15,  16  and  17  of  the  Supplement  to  State  List  for  States  of  Sabah  and Sarawak'  were  inserted  after  the  word  'List'  by  Act  A585,  section  20,  in  force from 16-04-1984.
+2. The words “and in the case of the Federal Territory of Labuan, the matters enumerated in items 15, 16 and 17 of the Supplement to State List for States of Sabah and Sarawak” were inserted after the word “List” by Act A585, section 20, in force from 16-04-1984.
 
-- Subsequently the words 'to the Federal Territories' substituted for 'to the Federal Territory'  by Act A1095,  subparagraph  20 (a) (ii),  in  force  from  01-02-2001.
+3. Subsequently the words “to the Federal Territories” substituted for “to the Federal Territory” by Act A1095, subparagraph 20(a)(ii), in force from 01-02-2001.
 
 Federal  Constitution
 
@@ -13309,31 +13477,31 @@ Federal  Constitution
 
 [Ninth Schedule]
 
-- Unincorporated societies.
+19. Unincorporated societies.
 
-- Control  of  agricultural  pests;  protection  against  such  pests;  prevention of  plant  diseases.
+20. Control of agricultural pests; protection against such pests; prevention of plant diseases.
 
-- Newspapers; publications;  publishers;  printing  and  printing  presses.
+21. Newspapers; publications; publishers; printing and printing presses.
 
-- Censorship.
+22. Censorship.
 
-- Subject to  item  5 (f) of  the  State  List:  theatres;  cinemas;  cinematograph films;  places  of  public  amusement.
+23. Subject to item 5(f) of the State List: theatres; cinemas; cinematograph films; places of public amusement.
 
-( Repealed ).
+24. (Repealed).
 
-- Co-operative  societies.
+25. Co-operative societies.
 
-- 25 a .	 Tourism.
+25a. Tourism.
 
-- Subject to item 9 a of the Concurrent List, prevention and extinguishment of  fire,  including  fire  services  and  fire  brigades.
+26. Subject to item 9a of the Concurrent List, prevention and extinguishment of fire, including fire services and fire brigades.
 
-- All  matters  relating  to  the  Federal  Territories,  including  the  matters enumerated in items 2, 3, 4 and 5 of the State List and in the case of Federal Territory  of  Labuan,  the  matters  enumerated  in  items  15,  16  and  17  of  the Supplement to State  List  for  States  of  Sabah  and  Sarawak.
+27. All matters relating to the Federal Territories, including the matters enumerated in items 2, 3, 4 and 5 of the State List and in the case of Federal Territory of Labuan, the matters enumerated in items 15, 16 and 17 of the Supplement to State List for States of Sabah and Sarawak.
 
 ### List  II-State  List
 
-- Except  with  respect  to  the  Federal  Territories  of  Kuala  Lumpur,  Labuan and Putrajaya, Islamic law and personal and family law of persons professing the religion of Islam, including the Islamic law relating to succession, testate and  intestate,  betrothal,  marriage,  divorce,  dower,  maintenance,  adoption, legitimacy, guardianship, gifts, partitions and non-charitable trusts; Wakafs and the definition and regulation of charitable and religious trusts, the appointment of trustees and the incorporation of persons in respect of Islamic religious and charitable endowments, institutions, trusts, charities and charitable institutions operating wholly within the State; Malay customs; Zakat, Fitrah and Baitulmal or  similar  Islamic  religious  revenue;  mosques  or  any  Islamic  public  place of  worship,  creation  and  punishment  of  offences  by  persons  professing  the religion of Islam against precepts of that religion, except in regard to matters included  in  the  Federal  List;  the  constitution,  organization  and  procedure  of Syariah  courts,  which  shall  have  jurisdiction  only  over  persons  professing the  religion  of  Islam  and  in  respect  only  of  any  of  the  matters  included  in this paragraph, but shall not have jurisdiction in respect of offences except in so  far  as  conferred  by  federal  law;  the  control  of  propagating  doctrines  and beliefs  among  persons  professing  the  religion  of  Islam;  the  determination  of matters  of  Islamic  law  and  doctrine  and  Malay  custom.
+1. Except with respect to the Federal Territories of Kuala Lumpur, Labuan and Putrajaya, Islamic law and personal and family law of persons professing the religion of Islam, including the Islamic law relating to succession, testate and intestate, betrothal, marriage, divorce, dower, maintenance, adoption, legitimacy, guardianship, gifts, partitions and non-charitable trusts; Wakafs and the definition and regulation of charitable and religious trusts, the appointment of trustees and the incorporation of persons in respect of Islamic religious and charitable endowments, institutions, trusts, charities and charitable institutions operating wholly within the State; Malay customs; Zakat, Fitrah and Baitulmal or similar Islamic religious revenue; mosques or any Islamic public place of worship, creation and punishment of offences by persons professing the religion of Islam against precepts of that religion, except in regard to matters included in the Federal List; the constitution, organization and procedure of Syariah courts, which shall have jurisdiction only over persons professing the religion of Islam and in respect only of any of the matters included in this paragraph, but shall not have jurisdiction in respect of offences except in so far as conferred by federal law; the control of propagating doctrines and beliefs among persons professing the religion of Islam; the determination of matters of Islamic law and doctrine and Malay custom.
 
-- Except  with  respect  to  the  Federal  Territories  of  Kuala  Lumpur,  Labuan and  Putrajaya,  land  including-
+2. Except with respect to the Federal Territories of Kuala Lumpur, Labuan and Putrajaya, land including—
 
 (a) land tenure, relation of landlord and tenant; registration of titles and
 
@@ -13349,11 +13517,11 @@ See Art.  74(2),  76(1),  79(1),  80(2),  95 b (1) (b) &  (3).
 
 ###### Item  1
 
-- The  word  'adoption,'  in  line  four  was  inserted  by  Act  31/1965,  subsection  2(2), in  force  from  01-07-1965.
+1. The word “adoption,” in line four was inserted by Act 31/1965, subsection 2(2), in force from 01-07-1965.
 
-- The  words  'Except  with  respect  to  the  Federal  Territory,'  were  inserted  at  the beginning  by Act A206,  section  11,  in  force  from  01-02-1974.
+2. The words “Except with respect to the Federal Territory,” were inserted at the beginning by Act A206, section 11, in force from 01-02-1974.
 
-- The words 'Islamic' substituted for 'Muslim', 'Islamic law' substituted for 'Muslim law',  'religion  of  Islam'  substituted  for  'Muslim  religion',  'Wakafs'  substituted for 'Muslim Wakafs', 'Islamic religious revenue' substituted for 'Muslim revenue', and 'Syariah courts' substituted for 'Muslim courts' by Act A354, sections 44 and 45,  in  force  from  27-08-1976.
+3. The words “Islamic” substituted for “Muslim”, “Islamic law” substituted for “Muslim law”, “religion of Islam” substituted for “Muslim religion”, “Wakafs” substituted for “Muslim Wakafs”, “Islamic religious revenue” substituted for “Muslim revenue”, and “Syariah courts” substituted for “Muslim courts” by Act A354, sections 44 and 45, in force from 27-08-1976.
 
 ###### Item  2
 
@@ -13393,7 +13561,7 @@ deeds  relating  to  land;  colonization,  land  improvement  and  soil conserva
 
 (b) forests.
 
-- Local government outside the Federal Territories of Kuala Lumpur, Labuan and  Putrajaya,  including-
+4. Local government outside the Federal Territories of Kuala Lumpur, Labuan and Putrajaya, including—
 
 (a) local administration; municipal corporations; local, town and rural board and other local authorities; local government services, local rates,  local  government  elections;
 
@@ -13401,7 +13569,7 @@ deeds  relating  to  land;  colonization,  land  improvement  and  soil conserva
 
 (c) ( Repealed ).
 
-- Except  with  respect  to  the  Federal  Territories  of  Kuala  Lumpur,  Labuan and  Putrajaya,  other  services  of  a  local  character,  that  is  to  say:
+5. Except with respect to the Federal Territories of Kuala Lumpur, Labuan and Putrajaya, other services of a local character, that is to say:
 
 (a) ( Repealed );
 
@@ -13415,7 +13583,7 @@ deeds  relating  to  land;  colonization,  land  improvement  and  soil conserva
 
 (f) licensing  of  theatres,  cinemas  and  places  of  public  amusement.
 
-- State  works  and  water,  that  is  to  say:
+6. State works and water, that is to say:
 
 (a) public  works  for  State  purposes;
 
@@ -13431,9 +13599,9 @@ deeds  relating  to  land;  colonization,  land  improvement  and  soil conserva
 
 ###### Item  2(b)
 
-- The words 'or, in the Borneo States, native reservations' were added by Act 26/1963, section  70,  in  force  from  16-09-1963.
+1. The words “or, in the Borneo States, native reservations” were added by Act 26/1963, section 70, in force from 16-09-1963.
 
-- The words 'the States of Sabah and Sarawak' substituted for 'the Borneo States' by Act A354, section  43,  in  force  from  27-08-1976.
+2. The words “the States of Sabah and Sarawak” substituted for “the Borneo States” by Act A354, section 43, in force from 27-08-1976.
 
 ###### Item  3
 
@@ -13445,9 +13613,9 @@ The words 'Federal Territory' substituted for 'federal capital' by Act A206, sec
 
 ###### Items  1,  2,  3,  4  &  5
 
-- The  words  'Territories  of  Kuala  Lumpur  and  Labuan'  substituted  for  'Territory' by Act A585, section  20,  in  force  from  16-04-1984.
+1. The words “Territories of Kuala Lumpur and Labuan” substituted for “Territory” by Act A585, section 20, in force from 16-04-1984.
 
-- Subsequently, the words 'Kuala Lumpur, Labuan and Putrajaya' substituted for 'Kuala Lumpur and Labuan' by Act A1095, paragraph 20 (b) ,  in  force  from  01-02-2001.
+2. Subsequently, the words “Kuala Lumpur, Labuan and Putrajaya” substituted for “Kuala Lumpur and Labuan” by Act A1095, paragraph 20(b), in force from 01-02-2001.
 
 ###### Item  4(c)
 
@@ -13461,20 +13629,20 @@ The  words  'Except  with  respect  to  the  Federal  Territory,'  were  inserte
 
 ###### Item  5(a)
 
-- This  Item  which  read  as  follows  was  deleted  by Act A354,  paragraph  48(1) (b) ,  in force  from  01-01-1976:
+1. This Item which read as follows was deleted by Act A354, paragraph 48(1)(b), in force from 01-01-1976:
 
-' (a) Fire  brigades,  except  in  the  federal  capital;'.
+“(a) Fire brigades, except in the federal capital;”.
 
-- This  paragraph  was  amended  by  deleting  ',  except  in  the  federal  capital'  by Act A206, section  11,  in  force  from  01-02-1974.
+2. This paragraph was amended by deleting “, except in the federal capital” by Act A206, section 11, in force from 01-02-1974.
 
 ###### Item  5(f) :
-See List  1,  Item  23.
+See List I, Item 23.
 
 ###### Item  6(c)
 
-- The  words  'Subject  to  the  Federal  List,  water  (including  water  supplies,  rivers and  canals)'  at  the  commencement  substituted  for  'Water,  subject  to  the  Federal List,  water  supplies  and  canals'  by  Act  26/1963,  section  70,  in  force  from 16-09-1963.
+1. The words “Subject to the Federal List, water (including water supplies, rivers and canals)” at the commencement substituted for “Water, subject to the Federal List, water supplies and canals” by Act 26/1963, section 70, in force from 16-09-1963.
 
-- This item was substituted by Act A1239, paragraph 4 (a) , in force from 21-03-2005. The earlier  item  read  as  follows:
+2. This item was substituted by Act A1239, paragraph 4(a), in force from 21-03-2005. The earlier item read as follows:
 
 ' (c) Subject to the Federal List, water (including water supplies, rivers and canals); control  of  silt,  riparian  rights.'.
 
@@ -13494,7 +13662,7 @@ Federal  Constitution
 
 Schedule]
 
-- Machinery  of  the  State  Government,  subject  to  the  Federal  List,  but including-
+7. Machinery of the State Government, subject to the Federal List, but including—
 
 (a) Civil  List  and  State  pensions;
 
@@ -13508,15 +13676,15 @@ Schedule]
 
 (f) fees  in  respect  of  any  of  the  matters  included  in  the  State  List  or dealt  with  by  State  law.
 
-- State  holidays.
+8. State holidays.
 
-- Creation  of  offences  in  respect  of  any  of  the  matters  included  in  the State  List  or  dealt  with  by  State  law,  proofs  of  State  law  and  of  things  done thereunder,  and  proof  of  any  matter  for  purposes  of  State  law.
+9. Creation of offences in respect of any of the matters included in the State List or dealt with by State law, proofs of State law and of things done thereunder, and proof of any matter for purposes of State law.
 
-- Inquiries  for  State  purposes,  including  commissions  of  inquiry  and collection of statistics with respect to any of the matters included in the State List  or  dealt  with  by  State  law.
+10. Inquiries for State purposes, including commissions of inquiry and collection of statistics with respect to any of the matters included in the State List or dealt with by State law.
 
-- Indemnity in respect of any of the matters in the State List or dealt with by  State  law.
+11. Indemnity in respect of any of the matters in the State List or dealt with by State law.
 
-- Turtles  and  riverine  fishing.
+12. Turtles and riverine fishing.
 
 - 12 a . Libraries, museums, ancient and historical monuments and records and archaeological  sites  and  remains,  other  than  those  declared  to  be  federal  by or  under  federal  law.
 
@@ -13524,9 +13692,9 @@ Schedule]
 
 [Article  95 b (1) (a) ]
 
-- Native law and custom, including the personal law relating to marriage, divorce, guardianship, maintenance, adoption, legitimacy, family law, gifts or succession,  testate  or  intestate;  registration  of  adoptions  under  native  law  or custom; the determination of matters of native law or custom; the constitution, organization,  and  procedure  of  native  courts  (including  the  right  of  audience in  such  courts),  and  the  jurisdiction  and  powers  of  such  courts,  which  shall extend  only  to  the  matters  included  in  this  paragraph  and  shall  not  include jurisdiction  in  respect  of  offences  except  in  so  far  as  conferred  by  federal law.
+13. Native law and custom, including the personal law relating to marriage, divorce, guardianship, maintenance, adoption, legitimacy, family law, gifts or succession, testate or intestate; registration of adoptions under native law or custom; the determination of matters of native law or custom; the constitution, organization, and procedure of native courts (including the right of audience in such courts), and the jurisdiction and powers of such courts, which shall extend only to the matters included in this paragraph and shall not include jurisdiction in respect of offences except in so far as conferred by federal law.
 
-- Incorporation  of  authorities  and  other  bodies  set  up  by  State  law,  if incorporated directly by State law, and regulation and winding up of corporations so  created.
+14. Incorporation of authorities and other bodies set up by State law, if incorporated directly by State law, and regulation and winding up of corporations so created.
 
 [[END OF PAGE 395]]
 
@@ -13571,55 +13739,55 @@ Federal  Constitution
 
 [Ninth Schedule]
 
-- Ports  and  harbours,  other  than  those  declared  to  be  federal  by  or under  federal  law;  regulation  of  traffic  by  water  in  ports  and  harbours  or  on rivers  wholly  within  the  State,  except  traffic  in  federal  ports  or  harbours; foreshores.
+15. Ports and harbours, other than those declared to be federal by or under federal law; regulation of traffic by water in ports and harbours or on rivers wholly within the State, except traffic in federal ports or harbours; foreshores.
 
-- Cadastral  land  surveys.
+16. Cadastral land surveys.
 
-( Repealed ).
+17. (Repealed).
 
-- In  Sabah,  the  Sabah  Railway.
+18. In Sabah, the Sabah Railway.
 
-( Repealed ).
+19. (Repealed).
 
-- Subject  to  the  Federal  List,  water  supplies  and  services.
+20. Subject to the Federal List, water supplies and services.
 
 ### List  II b -(Repealed)
 
 ### List  III-Concurrent  List
 
-- Social  welfare;  social  services  subject  to  Lists  I  and  II;  protection  of women, children and young persons.
+1. Social welfare; social services subject to Lists I and II; protection of women, children and young persons.
 
-- Scholarships.
+2. Scholarships.
 
-- Protection  of  wild  animals  and  wild  birds;  National  Parks.
+3. Protection of wild animals and wild birds; National Parks.
 
-- Animal husbandry; prevention of cruelty to animals; veterinary  services; animal  quarantine.
+4. Animal husbandry; prevention of cruelty to animals; veterinary services; animal quarantine.
 
-- Town and country planning, except in the  federal  capital.
+5. Town and country planning, except in the federal capital.
 
-- Vagrancy and itinerant  hawkers.
+6. Vagrancy and itinerant hawkers.
 
-- Public  health,  sanitation  (excluding  sanitation  in  the  federal  capital)  and the  prevention  of  diseases.
+7. Public health, sanitation (excluding sanitation in the federal capital) and the prevention of diseases.
 
-- Drainage and irrigation.
+8. Drainage and irrigation.
 
-- Rehabilitation  of  mining  land  and  land  which  has  suffered  soil  erosion.
+9. Rehabilitation of mining land and land which has suffered soil erosion.
 
-- 9 a . Fire  safety  measures  and  fire  precautions  in  the  construction  and maintenance of buildings.
+9a. Fire safety measures and fire precautions in the construction and maintenance of buildings.
 
-- 9 b . Culture  and  sports.
+9b. Culture and sports.
 
-- 9 c . Housing and provisions for housing accommodation; improvement trusts.
+9c. Housing and provisions for housing accommodation; improvement trusts.
 
-- 9 d . Subject  to  the  Federal  List,  water  supplies  and  services.
+9d. Subject to the Federal List, water supplies and services.
 
-- 9 e . Preservation  of  heritage.
+9e. Preservation of heritage.
 
-### List  III a -Supplement to Concurrent List for States of Sabah and Sarawak
+### List IIIa-Supplement to Concurrent List for States of Sabah and Sarawak
 
-[Article  95 b (1) (b) ]
+[Article 95b(1)(b)]
 
-- Personal  law  relating  to  marriage,  divorce,  guardianship,  maintenance, adoption,  legitimacy,  family  law,  gifts  or  succession,  testate  or  intestate.
+10. Personal law relating to marriage, divorce, guardianship, maintenance, adoption, legitimacy, family law, gifts or succession, testate or intestate.
 
 [[END OF PAGE 397]]
 
@@ -13645,21 +13813,21 @@ Item  20 :  Inserted  by Act A1239,  paragraph  4 (b) ,  in  force  from  21-03-
 
 This list was inserted by Act 26/1963, section 36, in force from 16-09-1963, and repealed by Act  59/1966,  section  2,  in  force  from  09-08-1965  and  read  as  follows:
 
-' List 11 b -Supplement  to  State  List  for  Singapore
+“List IIb—Supplement to State List for Singapore
 
-- Education,  including  the  matters  specified  in  items  13 (a) and (b) of  the  Federal List.
+13. Education, including the matters specified in items 13(a) and (b) of the Federal List.
 
-- Medicine  and  health,  including  the  matters  specified  in  items  14 (a) to (d) of  the Federal  List.
+14. Medicine and health, including the matters specified in items 14(a) to (d) of the Federal List.
 
-- Labour  and  social  security,  including  the  matters  specified  in  items  15 (a) and (b) , but  not  those  specified  in  item  15 (c) of  the  Federal  List.
+15. Labour and social security, including the matters specified in items 15(a) and (b), but not those specified in item 15(c) of the Federal List.
 
-- Pensions,  gratuities  and  other  like  allowances,  and  compensation  for  loss  of  office, in respect of service under the State (including any government service in the State before Malaysia Day).
+16. Pensions, gratuities and other like allowances, and compensation for loss of office, in respect of service under the State (including any government service in the State before Malaysia Day).
 
-- Factories;  boilers  and  machinery;  dangerous  trades;  dangerous  and  inflammable substances.
+17. Factories; boilers and machinery; dangerous trades; dangerous and inflammable substances.
 
-- Electricity;  gas  and  gas  works.
+18. Electricity; gas and gas works.
 
-- Itinerant  hawkers.'.
+19. Itinerant hawkers.”.
 
 ##### List  III
 
@@ -13667,9 +13835,9 @@ See Art.  74(1),  74(2),  76 a (3),  79(1),  80(2),  82,  95 b (1) & 95 b (2).
 
 ###### Item  9 a
 
-- Inserted  by Act A354,  paragraph  48(1) (d) ,  in  force  from  01-01-1976.
+1. Inserted by Act A354, paragraph 48(1)(d), in force from 01-01-1976.
 
-- The word 'Fire' substituted for 'Except with respect to Sabah and Sarawak, fire' by Act A514, paragraph 17 (c) ,  in  force  from  15-05-1981.
+2. The word “Fire” substituted for “Except with respect to Sabah and Sarawak, fire” by Act A514, paragraph 17(c), in force from 15-05-1981.
 
 ###### Items  9 b &  9 c :
 Inserted  by Act A704,  paragraph  12 (e) ,  in  force  from  10-06-1988.
@@ -13703,21 +13871,21 @@ Federal  Constitution
 
 [Ninth Schedule]
 
-- Adulteration  of  foodstuffs  and  other  goods.
+11. Adulteration of foodstuffs and other goods.
 
-- Shipping under fifteen registered tons, including the carriage of passengers and  goods  by  such  shipping;  maritime  and  estuarine  fishing  and  fisheries.
+12. Shipping under fifteen registered tons, including the carriage of passengers and goods by such shipping; maritime and estuarine fishing and fisheries.
 
-- The production, distribution and supply of water power and of electricity generated  by  water  power.
+13. The production, distribution and supply of water power and of electricity generated by water power.
 
-- Agricultural  and  forestry  research,  control  of  agricultural  pests,  and protection  against  such  pests;  prevention  of  plant  diseases.
+14. Agricultural and forestry research, control of agricultural pests, and protection against such pests; prevention of plant diseases.
 
-- Charities  and  charitable  trusts  and  institutions  in  the  State  (that  is  to say, operating wholly within, or created and operating in, the State) and their trustees,  including  the  incorporation  thereof  and  the  regulation  and  winding up  of  incorporated  charities  and  charitable  institutions  in  the  State.
+15. Charities and charitable trusts and institutions in the State (that is to say, operating wholly within, or created and operating in, the State) and their trustees, including the incorporation thereof and the regulation and winding up of incorporated charities and charitable institutions in the State.
 
-- Theatres;  cinemas;  cinematograph  films;  places  of  public  amusement.
+16. Theatres; cinemas; cinematograph films; places of public amusement.
 
-- Elections  to  the  State  Assembly  held  during  the  period  of  indirect elections.
+17. Elections to the State Assembly held during the period of indirect elections.
 
-- In  Sabah until the end of the year 1970 (but not in Sarawak), medicine and health, including the matters specified in items 14 (a) to (d) of the Federal List.
+18. In Sabah until the end of the year 1970 (but not in Sarawak), medicine and health, including the matters specified in items 14(a) to (d) of the Federal List.
 
 ### List  III b -( Repealed )
 
@@ -13727,11 +13895,11 @@ Federal  Constitution
 
 #### Grants and Sources of Revenue Assigned to States
 
-### P art I
+### Part I
 
 #### CAPITATION GRANT
 
-(1) The capitation  grant  payable  to  each  State  in  respect  of  a  financial year  shall  be  at  the  following  rates:
+1. (1) The capitation grant payable to each State in respect of a financial year shall be at the following rates:
 
 (a) for  the  first  100,000  persons  at  the  rate  of  RM72.00  per  person;
 
@@ -13743,7 +13911,7 @@ Federal  Constitution
 
 and shall be based on the annual population projections of the State as determined by  the  Federal  Government  and  calculated  as  of  the  last  population  census:
 
-* noteThis  Article  was  repealed  by  Act  A354,  section  46,  in  force  from  27-08-1976see section  46  of Act A354.
+*Note—This Article was repealed by Act A354, section 46, in force from 27-08-1976—see section 46 of Act A354.
 
 [[END OF PAGE 399]]
 
@@ -13761,7 +13929,7 @@ This list was inserted by Act 26/1963, section 36, in force from 16-09-1963 and 
 
 11.	 Loans  to,  or  borrowing  by,  the  State  or  statutory  authorities  exercising  powers vested  in  them  by  the  State  law  in  Singapore.
 
-(a) Production, supply and distribution of goods, but not bounties on production; price  control  and  food  control;  adulteration  of  foodstuffs  and  other  goods;
+12. (a) Production, supply and distribution of goods, but not bounties on production; price control and food control; adulteration of foodstuffs and other goods;
 
 (b) Imports  into,  and  exports  from,  the  Federation,  but  not  bounties  on  export;
 
@@ -13773,31 +13941,31 @@ This list was inserted by Act 26/1963, section 36, in force from 16-09-1963 and 
 
 (f) Banking; money-lending; pawnbrokers.
 
-- Shipping  and  navigation,  including  the  matters  specified  in  items  9 (a) , (b) , (c) , (e) and (f) of  the  Federal  List.
+13. Shipping and navigation, including the matters specified in items 9(a), (b), (c), (e) and (f) of the Federal List.
 
-- Professional  occupations  other  than  those  specifically  enumerated  in  the  Federal List.
+14. Professional occupations other than those specifically enumerated in the Federal List.
 
-- Unincorporated  societies.
+15. Unincorporated societies.
 
-- Charities and charitable trusts and institutions in the State (that is to say, operating wholly within, or created and operating in, the State) and their trustees, including the incorporation  thereof  and  the  regulation  and  winding  up  of  incorporated  charities  and charitable  institutions  in  the  State.
+16. Charities and charitable trusts and institutions in the State (that is to say, operating wholly within, or created and operating in, the State) and their trustees, including the incorporation thereof and the regulation and winding up of incorporated charities and charitable institutions in the State.
 
-- Newspapers;  publications;  publishers;  printing  and  printing  presses.
+17. Newspapers; publications; publishers; printing and printing presses.
 
-- Censorship.
+18. Censorship.
 
-- Theatres;  cinemas;  cinematograph  films;  places  of  public  amusement.
+19. Theatres; cinemas; cinematograph films; places of public amusement.
 
-- Until the end of August 1968, and thereafter until Parliament with the concurrence of  the  State  government  otherwise  provides,  elections  to  the  Legislative Assembly.'.
+20. Until the end of August 1968, and thereafter until Parliament with the concurrence of the State government otherwise provides, elections to the Legislative Assembly.”.
 
 ### Tenth Schedule
 
-#### P art I
+#### Part I
 
 See Art.  109(1) (a) .
 
 ##### Subsection  1(1)
 
-(a) This subsection was substituted by Act A392, section 2, in force from 01-011976. The original  subsection  read  as  follows:
+(a) This subsection was substituted by Act A392, section 2, in force from 01-01-1976. The original subsection read as follows:
 
 '1.	 (1)	 The capitation grant payable to each State in respect of a financial year  shall  be  at  the  following  rates-
 
@@ -13829,7 +13997,7 @@ Federal  Constitution
 
 Provided  that  if  the  last  census  was  taken  one  year  before  the  beginning of  the  financial  year,  the  grant  for  that  particular  year  shall  be  based  on  the population  as  determined  by  that  population  census.
 
-( Repealed ).
+(2) (Repealed).
 
 ### Part II
 
@@ -13841,7 +14009,7 @@ Provided  that  if  the  last  census  was  taken  one  year  before  the  begin
 
 (b) so much of the mileage of State roads in that State as qualifies for grant.
 
-- For  the  purpose  of  section  2-
+3. For the purpose of section 2—
 
 (a) the mileage of State roads in a State shall be taken to be that mileage as  on  the  thirty-first  day  of  December  of  the  preceding  financial year, and the average cost mentioned in paragraph (a) of that section shall be taken to be the average cost in that State calculated in the preceding  financial  year;  and
 
@@ -13887,31 +14055,31 @@ This  subsection  which  read  as  follows  was  repealed  by  Act  25/1963,  se
 
 '(2) Notwithstanding subsection (1), if a capitation grant falls to be made in respect of  a  financial  year  beginning  before  the  first  day  of  January,  nineteen  hundred  and fifty-nine,  it  shall  be  based  on  the  population  of  the  State  as  determined  at  the  census taken  in  the  year  nineteen  hundred  and  fifty-seven.'.
 
-#### P art  II
+#### Part II
 
 See Art.  109(1) (b) .
 
 ##### Section  2
 
-- The  words  'each  of  the  States  of  Malaya'  substituted  for  'each  State'  by Act  26/1963,  paragraph  51 (a) ,  in  force  from  16-09-1963.
+1. The words 'each of the States of Malaya' substituted for 'each State' by Act 26/1963, paragraph 51(a), in force from 16-09-1963.
 
-- See section  3,  4  &  6(2).
+2. See section 3, 4 & 6(2).
 
 ###### Paragraph (2)(a)
 
-- The  words  'to  a  State'  which  appear  after  the  words  'average  cost'  were inserted  by Act  25/1963,  subsection  7(1),  in  force  from  01-01-1958.
+1. The words 'to a State' which appear after the words 'average cost' were inserted by Act 25/1963, subsection 7(1), in force from 01-01-1958.
 
-- The  words  'State  roads  in  those  States'  substituted  for  'such  roads'  by Act  26/1963,  paragraph  51 (a) ,  in  force  from  16-09-1963.
+2. The words 'State roads in those States' substituted for 'such roads' by Act 26/1963, paragraph 51(a), in force from 16-09-1963.
 
-- The words 'including the cost of repairing and maintaining any bridges, viaducts or  culverts  forming  part  thereof  or  connected  therewith,'  which  appear  after the words 'State road' were inserted by Act 59/1966, section 2, in force from 01-01-1963.
+3. The words 'including the cost of repairing and maintaining any bridges, viaducts or culverts forming part thereof or connected therewith,' which appear after the words 'State road' were inserted by Act 59/1966, section 2, in force from 01-01-1963.
 
-- The  words  ',  including  the  cost  of  repairing  and  maintaining  any  bridges, viaducts or culverts forming part thereof or connected therewith,' were deleted after  the  words  'State  road'  by  Act  A514,  paragraph  18 (b) ,  in  force  from 15-05-1981.
+4. The words ', including the cost of repairing and maintaining any bridges, viaducts or culverts forming part thereof or connected therewith,' were deleted after the words 'State road' by Act A514, paragraph 18(b), in force from 15-05-1981.
 
 ##### Section  3
 
-- The  word  'throughout  the  States  of  Malaya'  substituted  for  'throughout  the Federation'  by Act  26/1963,  paragraph  51 (b) ,  in  force  from  16-09-1963.
+1. The word 'throughout the States of Malaya' substituted for 'throughout the Federation' by Act 26/1963, paragraph 51(b), in force from 16-09-1963.
 
-- See subsection  6(2).
+2. See subsection 6(2).
 
 Federal  Constitution
 
@@ -13931,47 +14099,47 @@ Federal  Constitution
 
 (b) any length of road maintained by a local authority at the expense of  the  State  shall  be  treated  as  maintained  by  the  Public  Works Department of the State.
 
-### Part  I II
+### Part III
 
 #### SOURCES OF REVENUE ASSIGNED TO STATES
 
-- Revenue from toddy shops.
+1. Revenue from toddy shops.
 
-- Revenue from lands, mines and forests.
+2. Revenue from lands, mines and forests.
 
-- Revenue  from  licences  other  than  those  connected  with  water  supplies and  services,  mechanically  propelled  vehicles,  electrical  installations  and registration  of  businesses.
+3. Revenue from licences other than those connected with water supplies and services, mechanically propelled vehicles, electrical installations and registration of businesses.
 
-- Entertainments  duty.
+4. Entertainments duty.
 
-- Fees  in  courts  other  than  federal  courts.
+5. Fees in courts other than federal courts.
 
-- Fees and receipts in respect of specific services rendered by departments of  State  Governments.
+6. Fees and receipts in respect of specific services rendered by departments of State Governments.
 
-- Revenue of town boards, town councils, rural boards, local councils and similar  local  authorities  other  than-
+7. Revenue of town boards, town councils, rural boards, local councils and similar local authorities other than—
 
-(a) municipalities  established  under  any  Municipal  Ordinance;
+(a) municipalities established under any Municipal Ordinance;
 
-(b) those town boards, town councils, rural boards, local councils and similar  local  authorities  which  have  power  under  written  law  to retain  their  revenues  and  control  the  spending  thereof.
+(b) those town boards, town councils, rural boards, local councils and similar local authorities which have power under written law to retain their revenues and control the spending thereof.
 
-- Receipts  in  respect  of  raw  water.
+8. Receipts in respect of raw water.
 
-- Rents  on  State  property.
+9. Rents on State property.
 
-- Interest  on  State  balances.
+10. Interest on State balances.
 
-- Receipts  from  land  sales  and  sales  of  State  property.
+11. Receipts from land sales and sales of State property.
 
-- Fines  and  forfeitures  in  courts  other  than  federal  courts.
+12. Fines and forfeitures in courts other than federal courts.
 
-- Zakat,  Fitrah  and  Baitulmal  and  similar  Islamic  religious  revenue.
+13. Zakat, Fitrah and Baitulmal and similar Islamic religious revenue.
 
-- Treasure  trove.
+14. Treasure trove.
 
 ### Part IV
 
 #### SPECIAL GRANTS TO STATES OF SABAH AND SARAWAK
 
-(1) In  the  case  of  Sarawak  a  grant  of  RM5,800,000  in  each  year.
+1. (1) In the case of Sarawak a grant of RM5,800,000 in each year.
 
 [[END OF PAGE 403]]
 
@@ -13979,27 +14147,27 @@ Federal  Constitution
 
 ### Tenth Schedule -(cont.)
 
-- This  section  was  substituted  by  Act  A514,  paragraph  18 (c) ,  in  force  from 15-05-1981. The earlier  section  read  as  follows:
+3. This section was substituted by Act A514, paragraph 18(c), in force from 15-05-1981. The earlier section read as follows:
 
 '3. For  the  purposes  of  section  2  the  mileage  of  State  roads  in  a  State  shall be  taken  to  be  that  mileage  as  on  the  thirty-first  day  of  December  of  the  basis year, and the average mentioned in paragraph (a) of  that  section  shall  be  taken to  be  average  throughout  the  States  of  Malaya  in  the  basis  year.'.
 
 ##### Section  4
 
-- The  present  section  was  substituted  by  Act  59/1966,  section  2,  in  force  from 01-01-1963,  and  replaced  the  original  section  which  read  as  follows:
+1. The present section was substituted by Act 59/1966, section 2, in force from 01-01-1963, and replaced the original section which read as follows:
 
-'4.	 A  length  of  State  road  qualifies  for  grant  if  it  is  actually  maintained  by  the Public Works Department of the State at or above the minimum standard mentioned in  section  2 (a) ;  except  that  any  length  not  qualifying  for  grant  in  the  preceding financial  year  qualifies  for  grant  only  if  the  Federal  Government  has  agreed  to  its so  qualifying.'.
+'4. A length of State road qualifies for grant if it is actually maintained by the Public Works Department of the State at or above the minimum standard mentioned in section 2(a); except that any length not qualifying for grant in the preceding financial year qualifies for grant only if the Federal Government has agreed to its so qualifying.'.
 
-- See subsection  6(2).
+2. See subsection 6(2).
 
-- The  words  'except  that  any  length  not  qualifying  for  grant  in  the  preceding financial  year  qualifies  for  grant  only  if  the  Federal  Government  has  agreed  to its  so  qualifying'  were  deleted  after  the  words  'qualify  for  grant'  in  the  present section  by Act A514,  paragraph  18 (d) ,  in  force  from  15-05-1981.
+3. The words 'except that any length not qualifying for grant in the preceding financial year qualifies for grant only if the Federal Government has agreed to its so qualifying' were deleted after the words 'qualify for grant' in the present section by Act A514, paragraph 18(d), in force from 15-05-1981.
 
 ##### Section  5
 
-- The  words  'public  road  other  than  a  federal  road,  and  any  other  road  other  than a  federal  road  to  which  the  public  has  access'  substituted  for  'road  other  than  a federal  road'  by Act  14/1962,  section  29,  in  force  from  21-06-1962.
+1. The words 'public road other than a federal road, and any other road other than a federal road to which the public has access' substituted for 'road other than a federal road' by Act 14/1962, section 29, in force from 21-06-1962.
 
-- See subsection  6(2).
+2. See subsection 6(2).
 
-- This  section  was  substituted  by  Act  A514,  paragraph  18 (e) ,  in  force  from 15-05-1981. The earlier  section  read  as  follows:
+3. This section was substituted by Act A514, paragraph 18(e), in force from 15-05-1981. The earlier section read as follows:
 
 '5.	 In  this  Part  of  this  Schedule-
 
@@ -14017,7 +14185,7 @@ Substituted  by  Act  A514,  paragraph  18 (f) ,  in  force  from  15-05-1981.  
 
 ' (a) the  average  cost  and  minimum  standard  mentioned  in  section  2 (a) shall  be respectively the average in the State and the minimum standard determined for  State  roads  in  the  State;'.
 
-#### P art III
+#### Part III
 
 See Art.  110.
 
@@ -14047,9 +14215,9 @@ Federal  Constitution
 
 [Tenth Schedule]
 
-(2) In the case of Sarawak, a grant of which the amount in 1964 and each of the four following years shall be respectively RM3½m., RM7m., RM11½m., RM16m.  and  RM21m.,  and  in  later  years  shall  be  fixed  on  a  review  under Article  11 2d .
+(2) In the case of Sarawak, a grant of which the amount in 1964 and each of the four following years shall be respectively RM3½m., RM7m., RM11½m., RM16m. and RM21m., and in later years shall be fixed on a review under Article 112d.
 
-2.	 (1) In  the  case  of  Sabah,  a  grant  of  amount  equal  in  each  year  to  twofifths of the amount by which the net revenue derived by the Federation from Sabah exceeds the net revenue which would have been so derived in the year 1963 if-
+2. (1) In the case of Sabah, a grant of amount equal in each year to two-fifths of the amount by which the net revenue derived by the Federation from Sabah exceeds the net revenue which would have been so derived in the year 1963 if—
 
 (a) the Malaysia Act had been in operation in that year as in the year 1964;  and
 
@@ -14061,13 +14229,13 @@ Federal  Constitution
 
 3. In  either  case,  for  any  year  before  1974  and,  if  at  the  beginning  of  1974 the Legislature of the State has power to make laws with respect to the carriage of  passengers  and  goods  by  land  or  to  mechanically  propelled  road  vehicles, then  during  the  continuance  of  that  power,  a  grant  equal  to  the  cost  to  the State  in  the  year  of  the  State  road  transport  department.
 
-### P art V
+### Part V
 
 #### ADDITIONAL SOURCES OF REVENUE ASSIGNED TO STATES OF SABAH AND SARAWAK
 
-- Import  duty  and  excise  duty  on  petroleum  products.
+1. Import duty and excise duty on petroleum products.
 
-- Export  duty  on  timber  and  other  forest  produce.
+2. Export duty on timber and other forest produce.
 
 3. So  long  as  the  royalty  levied  by  the  State  on  any  mineral  chargeable with  export  duty  other  than  tin  (but  including  mineral  oils)  does  not  amount to  10  per  cent ad  valorem calculated  as  for  export  duty,  export  duty  on  that mineral or such part of the export duty as makes the total of royalty and duty on  exported  mineral  up  to  10  per  cent ad  valorem so  calculated.
 
@@ -14085,25 +14253,25 @@ Federal  Constitution
 
 The words 'Islamic religious revenue' substituted for 'Muslim revenue' by Act A354, section  45,  in  force  from  27-08-1976.
 
-#### P art IV
+#### Part IV
 
-- Added by Act 26/1963, subsection 45(1), in force  from  16-09-1963.
+1. Added by Act 26/1963, subsection 45(1), in force from 16-09-1963.
 
-- See Art.  112 c (1) (a) ,  (2)  &  112 d (1).
+2. See Art. 112c(1)(a), (2) & 112d(1).
 
-Sections  1  &  2 : See Art.  112 d (1).
+Sections 1 & 2: See Art. 112d(1).
 
-#### P art V
+#### Part V
 
-- Added by Act 26/1963, subsection 45(1), in force  from  16-09-1963.
+1. Added by Act 26/1963, subsection 45(1), in force from 16-09-1963.
 
-- See Art.  112 c (1) (b) ,  (2)  &  112 d (5).
+2. See Art. 112c(1)(b), (2) & 112d(5).
 
-Sections  1  &  2 : See section  4.
+Sections 1 & 2: See section 4.
 
-Section  3 : See Art.  112 c (2),  section  4.
+Section 3: See Art. 112c(2), section 4.
 
-Section  4 : See Art.  112 c (2)  &  112 d (5).
+Section 4: See Art. 112c(2) & 112d(5).
 
 Federal  Constitution
 
@@ -14123,15 +14291,15 @@ Schedule]
 
 licences  connected  with  those  vehicles,  then  during  the  continuance  of  that power,  fees  from  such  licences.
 
-- For any year before 1974, and if at the beginning of 1974 the Legislature of  the  State  has  power  to  make  laws  with  respect  to  the  registration  of mechanically  propelled  vehicles,  then  during  the  continuance  of  that  power, fees  from  the  registration  of  such  vehicles.
+6. For any year before 1974, and if at the beginning of 1974 the Legislature of the State has power to make laws with respect to the registration of mechanically propelled vehicles, then during the continuance of that power, fees from the registration of such vehicles.
 
-- State  sales  taxes.
+7. State sales taxes.
 
-- Fees  and  dues  from  ports  and  harbours  other  than  federal  ports  and harbours.
+8. Fees and dues from ports and harbours other than federal ports and harbours.
 
-- Receipts  in  respect  of  water  supplies  and  services,  including  water rates.
+9. Receipts in respect of water supplies and services, including water rates.
 
-- Revenue  from  licences  connected  with  water  supplies  and  services.
+10. Revenue from licences connected with water supplies and services.
 
 ## Eleventh Schedule
 
@@ -14139,33 +14307,27 @@ licences  connected  with  those  vehicles,  then  during  the  continuance  of 
 
 #### Provisions  of  the  Interpretation  and General Clauses Ordinance 1948 (Malayan Union Ordinance No. 7 of 1948), Applied  for  Interpretation  of  the  Constitution
 
-Subject  Matter
+Section Subject Matter
 
-Section
-
-2(56) Meaning of 'month' -
+2(56) Meaning of 'month'—
 
 'month' means calendar month according to the Gregorian calendar.
 
-- 2(61) Meaning of 'person' and 'party' -
+2(61) Meaning of 'person' and 'party'—
 
-'person'  and  'party'  includes  any  body  of  persons, corporate  or  unincorporate.
+'person' and 'party' includes any body of persons, corporate or unincorporate.
 
-2(88)
+2(88) Definition of 'subsidiary legislation'—
 
-Definition  of  'subsidiary  legislation'
+'subsidiary legislation' means any Order in Council, proclamation, rule, regulation, order, notification, by-law or other instrument made under any Ordinance, Enactment or other lawful authority and having legislative effect.
 
--
-
-'subsidiary  legislation'  means  any  Order  in  Council, proclamation,  rule,  regulation,  order,  notification,  by-law or other instrument made under any Ordinance, Enactment or  other  lawful  authority  and  having  legislative  effect.
-
-- 2(94) Construction  of  masculine  gender -
+2(94) Construction of masculine gender—
 
 words importing the masculine gender include females.
 
-- 2(95) Construction  of  singular  or  plural -
+2(95) Construction of singular or plural—
 
-words  in  the  singular  include  the  plural,  and  words  in the  plural  include  the  singular.
+words in the singular include the plural, and words in the plural include the singular.
 
 [[END OF PAGE 407]]
 
@@ -14175,7 +14337,7 @@ Federal  Constitution
 ##### NOTES
 
 ### Tenth Schedule -(cont.)
-Sections  5,  6,  7  &  8 : See Art.  112 d (5).
+Sections 5, 6, 7 & 8: See Art. 112d(5).
 
 Items  9  &  10 :  Added  by Act A1239,  paragraph  5 (b) ,  in  force  from  21-03-2005.
 
@@ -14225,9 +14387,7 @@ Where a written law repeals in whole or in part any other written law, then, unl
 
 and  any  such  investigation,  legal  proceeding  or  remedy may  be  instituted,  continued  or  enforced,  and  any  such penalty,  forfeiture  or  punishment  may  be  imposed,  as  if the  repealing  law  had  not  been  passed.
 
-21
-
-( Repealed ).
+21 (Repealed).
 
 [[END OF PAGE 409]]
 
@@ -14303,31 +14463,25 @@ Federal  Constitution
 
 [Eleventh Schedule]
 
-Section
+Section Subject Matter
 
-32
+32 Official designation to include officer executing duties—
 
-- 33
+When reference is made in any written law, instrument, warrant or process of any kind made or issued by the Yang di-Pertuan Agong, or a Ruler or any body or person having authority under any written law to make or to issue the same to any public officer by the term designating his office, such officer shall include the officer for the time being executing the duties of such office or any portion of such duties.
 
-Subject  Matter
+33 Power of Yang di-Pertuan Agong to provide for execution of duties of public officer during temporary absence or inability—
 
-Official  designation  to  include  officer  executing  duties -
+(1) Where by or under any written law any powers are conferred or any duties are imposed upon a public officer, the Yang di-Pertuan Agong or, in the case of a public officer borne on the establishment of a State, the Ruler of that State, may direct that if, during any period, owing to absence or inability to act from illness or any other cause, such public officer is unable to exercise the powers or perform the duties of his office in any place under his jurisdiction or control, such powers shall be had and may be exercised and such duties shall be performed in such place by a person named by, or by a public officer holding the office designated by, the Yang di-Pertuan Agong or Ruler, as the case may be; and thereupon such person or public officer, during any period as aforesaid, shall have and may exercise the powers and shall perform the duties aforesaid subject to such conditions, exceptions and qualifications as the Yang di-Pertuan Agong or Ruler may direct.
 
-When reference is made in any written law, instrument, warrant  or  process  of  any  kind  made  or  issued  by  the Yang di-Pertuan Agong, or a Ruler or any body or person having authority under any written law to make or to issue the same to any public officer by the term designating his office,  such  officer  shall  include  the  officer  for  the  time being  executing  the  duties  of  such  office  or  any  portion of  such  duties.
+(2) Without prejudice to the provisions of subsection (1), when a substantive holder of any office is on leave of absence pending relinquishment of his office, it shall be lawful for another person to be appointed substantively in his place.
 
-Power  of  Yang  di-Pertuan  Agong  to  provide  for  execution of  duties  of  public  officer  during  temporary  absence  or inability -
+33c Powers of board, etc., not affected by vacancy, etc.—
 
-(1)	 Where by or under any written law any powers are conferred or any duties are imposed upon a public officer, the  Yang  di-Pertuan  Agong  or,  in  the  case  of  a  public officer  borne  on  the  establishment  of  a  State,  the  Ruler of that State, may direct that if, during any period, owing to  absence  or  inability  to  act  from  illness  or  any  other cause, such public officer is unable to exercise the powers or  perform  the  duties  of  his  office  in  any  place  under  his jurisdiction or control, such powers shall be had and may be exercised and such duties shall be performed in such place by  a  person  named  by,  or  by  a  public  officer  holding  the office designated by, the Yang di-Pertuan Agong or Ruler, as  the  case  may  be;  and  thereupon  such  person  or  public officer, during any period as aforesaid, shall have and may exercise the powers and shall perform the duties aforesaid subject  to  such  conditions,  exceptions  and  qualifications as  the Yang  di-Pertuan Agong  or  Ruler  may  direct.
+Where by or under any written law any board, commission, committee or similar body, whether corporate or unincorporate, is established, then, unless the contrary intention appears, the powers and proceedings of such board, commission, committee or similar body shall not be affected by—
 
-(2)	 Without  prejudice  to  the  provisions  of  subsection (1),  when  a  substantive  holder  of  any  office  is  on  leave of  absence  pending  relinquishment  of  his  office,  it  shall be lawful for another person to be appointed substantively in  his  place.
+(a) any vacancy in the membership thereof;
 
-33 c Powers of board, etc.,  not  affected  by  vacancy,  etc .-
-
-Where by or under any written law any board, commission, committee or similar body, whether corporate or unincorporate, is  established,  then,  unless  the  contrary  intention  appears, the  powers  and  proceedings  of  such  board,  commission, committee or similar  body  shall  not  be  affected  by-
-
-(a) any  vacancy  in  the  membership  thereof;
-
-(b) any defects afterwards discovered in the appointment or qualification of a person purporting to be a member thereof;  or
+(b) any defects afterwards discovered in the appointment or qualification of a person purporting to be a member thereof; or
 
 (c) any minor irregularity in the convening of any meeting thereof.
 
@@ -14339,7 +14493,7 @@ Federal  Constitution
 ##### NOTES
 
 ### Eleventh Schedule -(cont.)
-##### Section  33 c
+##### Section 33c
 Inserted  by Act  31/1965,  subsection  2(1),  in  force  from  16-09-1963.
 
 [[END OF PAGE 414]]
@@ -14368,17 +14522,15 @@ In  computing  time  for  the  purposes  of  any  written  law, unless  the  con
 
 (d) when an act or proceeding is directed or allowed to be done or taken within any time not exceeding six days,  excluded  days  shall  not  be  reckoned  in  the computation of  the  time.
 
-- 38 Provision  when  no  time  prescribed
+38 Provision when no time prescribed—
 
--
-
-When  no  time  is  prescribed  or  allowed  within  which anything shall be done, such thing shall be done with all convenient speed and so often as the prescribed occasion arises.
+When no time is prescribed or allowed within which anything shall be done, such thing shall be done with all convenient speed and so often as the prescribed occasion arises.
 
 39 Construction  of  power  of  extending  time -
 
 Where in any written law a time is prescribed for doing any  act  or  taking  any  proceeding  and  power  is  given  to a  court  or  other  authority  to  extend  such  time,  unless  the contrary intention appears the power may be exercised by the  court  or  other  authority  although  the  application  for the same is not made until after the expiration of the time prescribed.
 
-40 a Solicitor  General  to  exercise  powers  of  Attorney  General -
+40a Solicitor General to exercise powers of Attorney General—
 
 (1)	 Unless  in  any  written  law  it  is  otherwise  expressly provided,  the  Solicitor  General  may  perform  any  of  the duties  and  may  exercise  any  of  the  powers  of  the  Attorney General.
 
@@ -14397,7 +14549,7 @@ This  section  was  repealed  by Act  25/1963,  section  8,  in  force  from  29
 35.	 Where any written law, or any part of a written law, or any instrument or notification made thereunder, is expressed to come into operation on a particular day, it shall, unless it  be otherwise expressly provided, be construed as coming into operation immediately on the  expiration  of  the  day  next  preceding  such  day.'.
 
 ##### Section  39 :
-Inserted  by Act A857,  section  5,  in  force  from  20-08-l993.
+Inserted by Act A857, section 5, in force from 20-08-1993.
 
 Federal  Constitution
 
@@ -14419,11 +14571,11 @@ Section Subject  Matter
 
 (2)	 Where  the  Yang  di-Pertuan  Agong  or  any  other person  has  lawfully  delegated  his  powers  to  the Attorney General  such  delegation  shall,  unless  otherwise  expressly provided,  be  deemed  to  be  delegation  of  powers  to  both the Attorney  General  and  the  Solicitor  General.
 
-- 42 Public  officers -
+42 Public officers—
 
 A reference in any written law to any public officer by the  usual  or  common  title  of  his  office  shall,  if  there  be such  an  office  customarily  in  the  Federation  or  any  State and  unless  the  contrary  intention  appears,  be  read  and construed  as  referring  to  the  person  for  the  time  being holding  or  carrying  out  the  duties  of  that  office  in  the Federation  or  State,  as  the  case  may  be.
 
-- 44 Construction  of  references  to  laws -
+44 Construction of references to laws—
 
 In any written law a description or citation of a portion of  another  written  law  shall,  unless  a  contrary  intention appears,  be  construed  as  including  the  word,  section  or other part mentioned or referred to as forming the beginning and  as  forming  the  end  of  the  portion  comprised  in  the description  or  citation.
 
@@ -14475,11 +14627,11 @@ Modifications
 
 Clause 36 | … | … | … | In subclause (2) the words 'two ex officio members' shall be omitted and for the word 'thirty-three' the words 'thirty-five' shall be substituted.
 --- | --- | --- | --- | ---
-Clause 36 a | … | … | … | In subclauses (1) and (3) the words 'with the concurrence of Their Highnesses the Rulers' shall be omitted.
+Clause 36a | … | … | … | In subclauses (1) and (3) the words 'with the concurrence of Their Highnesses the Rulers' shall be omitted.
 Clause 38 | … | … | … | For the words after 'Malay States' the words 'and the two Chief Ministers of Malacca and Penang' shall be substituted.
 Clause 39 | … | … | … | For the word 'eight', the word 'ten' shall be substituted.
 Clause 40 | … | … | … | The words from 'who the High Commissioner' to 'proceedings of the Council' in subclause (1) and the words from 'and who the High Commissioner' to 'proceedings of the Council' in subclause (2) shall be omitted.
-Clause 40 a | … | … | … | In subclause (1) the words from 'and who are able' to the end of the subclause shall be omitted. In subclause (2) for the words 'from time to time in force in the Federation' the words 'in force in the Federation immediately before Merdeka Day' shall be substituted.
+Clause 40a | … | … | … | In subclause (1) the words from 'and who are able' to the end of the subclause shall be omitted. In subclause (2) for the words 'from time to time in force in the Federation' the words 'in force in the Federation immediately before Merdeka Day' shall be substituted.
 
 ##### NOTES
 
@@ -14490,6 +14642,28 @@ Clause 40 a | … | … | … | In subclause (1) the words from 'and who are abl
 Federal  Constitution
 
 ##### NOTES
+
+### Twelfth Schedule -(cont.)
+
+Provisions of the Agreement | Modifications
+--- | ---
+Clause 41 | … | … | … | —
+Subclauses (2) and (3) of Clause 41a | … | … | In subclause (3) the words 'who is not entitled to be so registered under the provisions of Clause 41b of this Agreement or' shall be omitted.
+Clause 41c | … | … | … | —
+Clause 42, other than subclause (3) thereof | … | … | … | —
+Clause 43 | … | … | … | In subclause (1) the words 'ex-officio or' and paragraphs (a), (b) and (c) shall be omitted.
+ | | | | In subclause (5) for the words from 'of a Malay State' to 'of any Settlement' the words 'or Chief Minister of a State' shall be substituted; and for the words from 'such other Member' to the end of the subclause the words 'such other person as the Menteri Besar or Chief Minister may nominate' shall be substituted.
+Clause 43a, other than subclause (3) thereof | … | … | … | —
+Clause 45a | … | … | … | —
+Clause 46 | … | … | … | —
+Clause 51 | … | … | … | The words 'and Their Highnesses the Rulers of the Malay States' and the proviso shall be omitted.
+Clause 53 | … | … | … | —
+Clause 54, other than subclauses (2) and (6) thereof | … | … | In subclause (1) the words 'the assent of Their Highnesses the Rulers and either' and all the words after 'High Commissioner' to the end of the subclause shall be omitted.
+ | | | | In subclause (3) the words from 'according to' to 'Secretary of State' and the words after 'refuses to assent thereto' shall be omitted.
+ | | | | In subclause (5) the words 'and Their Highnesses the Rulers' shall be omitted.
+Clause 56 | … | … | … | The words 'the rights of His Majesty, His Heirs and Successors, or' shall be ommitted.
+Clause 57 | … | … | … | For the words 'and Their Highnesses the Rulers for their assent' the words 'for his assent' shall be substituted.
+Clause 58 | … | … | … | —
 
 [[END OF PAGE 419]]
 
@@ -14502,8 +14676,8 @@ Provisions of the Agreement | Modifications
 Clause 59 | … | … | … | -
 Clause 60 | … | … | … | -
 Clause 61, other than subclause (4) thereof | … | … | In subclause (1) the words 'with the assent of Their Highnesses the Rulers' shall be omitted. In subclause (2) after the words 'at any time' the words 'after the first day of January, 1959' shall be inserted.
-Clause 61 a | … | … | … | -
-Subclause (1) of Clause | 62 … | … | … | -
+Clause 61a | … | … | … | —
+Subclause (1) of Clause 62 | … | … | … | —
 Clause 64 | … | … | … | -
 In the First Schedule, Form IV | … | … | … | -
 Seventh Schedule | … | … | … | - '.
@@ -14526,9 +14700,9 @@ The  words  'and  regard  ought  to  be  had  to  the  inconveniences  of  State
 
 ###### Paragraph 2(c)
 
-- The words 'throughout the unit of review' were inserted after 'approximately equal' by Act  26/1963,  section  70,  in  force  from  16-09-1963.
+1. The words 'throughout the unit of review' were inserted after 'approximately equal' by Act 26/1963, section 70, in force from 16-09-1963.
 
-- The  words  'the  number  of  electors  within  each  constituency  in  a  State  ought  to  be approximately equal' substituted for 'the number of electors within each constituency ought to be approximately equal throughout the unit of review' by Act A206, subsection 15(1),  in  force  from  23-08-1973.
+2. The words 'the number of electors within each constituency in a State ought to be approximately equal' substituted for 'the number of electors within each constituency ought to be approximately equal throughout the unit of review' by Act A206, subsection 15(1), in force from 23-08-1973.
 
 ###### Paragraph 2(d)
 
@@ -14560,9 +14734,9 @@ Federal  Constitution
 
 3. For the purposes of this Part, the number of electors shall be taken to be as  shown  on  the  current  electoral  rolls.
 
-3 a .	 For  the  purposes  of  this  Part,  in  any  review  of  constituencies  for  the purposes  of  election  to  the  House  of  Representatives,  the  Federal  Territory of  Kuala  Lumpur,  the  Federal  Territory  of  Labuan  and  the  Federal  Territory of  Putrajaya  shall  each  be  regarded  as  a  State.
+3a. For the purposes of this Part, in any review of constituencies for the purposes of election to the House of Representatives, the Federal Territory of Kuala Lumpur, the Federal Territory of Labuan and the Federal Territory of Putrajaya shall each be regarded as a State.
 
-### P art II
+### Part II
 
 #### PROCEDURE FOR DELIMITATION OF CONSTITUENCIES
 
@@ -14580,13 +14754,13 @@ and  the  Commission  shall  take  into  consideration  any  representations  du
 
 ### Thirteenth Schedule -(cont.)
 
-##### Section  3 a
+##### Section 3a
 
-- This  section  was  inserted  by Act A206,  subsection  15(2),  in  force  from  23-08-1973.
+1. This section was inserted by Act A206, subsection 15(2), in force from 23-08-1973.
 
-- The  words  'the  Federal  Territory  of  Kuala  Lumpur  or  the  Federal  Territory  of Labuan,  as  the  case  may  be,  shall  each  be  regarded  as  a  State.'  substituted  for  'the Federal Territory shall be regarded as a State' by Act A585, section 20, in force from 16-04-1984.
+2. The words 'the Federal Territory of Kuala Lumpur or the Federal Territory of Labuan, as the case may be, shall each be regarded as a State.' substituted for 'the Federal Territory shall be regarded as a State' by Act A585, section 20, in force from 16-04-1984.
 
-- The words ',  the  Federal Territory  of  Labuan  and  the  Federal  Territory  of  Putrajaya' substituted for 'or the Federal of Labuan, as the case may be,' by Act A1095, section 21,  in  force  from  01-02-2001.
+3. The words ', the Federal Territory of Labuan and the Federal Territory of Putrajaya' substituted for 'or the Federal of Labuan, as the case may be,' by Act A1095, section 21, in force from 01-02-2001.
 
 Federal  Constitution
 
@@ -14626,7 +14800,7 @@ or  stating  that  in  their  opinion  no  alteration  is  required  to  be  mad
 
 9. As  soon  as  may  be  after  the  Election  Commission  have  submitted  their report  to  the  Prime  Minister  under  section  8,  he  shall  lay  the  report  before the  House  of  Representatives,  together  (except  in  a  case  where  the  report states that no alteration is required to be made) with the draft of an Order to be made under section 12 for giving effect, with or without modifications, to the  recommendations  contained  in  the  report.
 
-10. If  any  draft  Order  referred  to  in  section  9  is  approved  by  the  House  of Representatives  by  resolution  supported  by  the  votes  of  not  less  than  onehalf  of  the  total  number  of  members  of  that  House,  the  Prime  Minister  shall submit  the  draft  Order  to  the Yang  di-Pertuan Agong.
+10. If any draft Order referred to in section 9 is approved by the House of Representatives by resolution supported by the votes of not less than one-half of the total number of members of that House, the Prime Minister shall submit the draft Order to the Yang di-Pertuan Agong.
 
 [[END OF PAGE 423]]
 
@@ -14659,7 +14833,7 @@ Federal  Constitution
 
 [Thirteenth Schedule]
 
-11. If  a  motion  for  the  approval  of  any  draft  Order  referred  to  in  section 9  is  rejected  by  the  House  of  Representatives,  or  is  withdrawn  by  leave  of the  House,  or  is  not  supported  by  the  votes  of  not  less  than  one-half  of  the total  number  of  members  of  the  House,  the  Prime  Minister  may,  after  such consultation with the Election Commission as he may consider necessary, amend the draft and lay the amended draft before the House of Representatives; and if the draft as so amended is approved by the House by a resolution supported by the votes of not less than one-half of the total number of members of the House,  the  Prime  Minister  shall  submit  the  amended  draft  to  the  Yang  diPertuan Agong.
+11. If a motion for the approval of any draft Order referred to in section 9 is rejected by the House of Representatives, or is withdrawn by leave of the House, or is not supported by the votes of not less than one-half of the total number of members of the House, the Prime Minister may, after such consultation with the Election Commission as he may consider necessary, amend the draft and lay the amended draft before the House of Representatives; and if the draft as so amended is approved by the House by a resolution supported by the votes of not less than one-half of the total number of members of the House, the Prime Minister shall submit the amended draft to the Yang di-Pertuan Agong.
 
 12. Where the draft of an Order is submitted to the Yang di-Pertuan Agong under this Part, the Yang di-Pertuan Agong shall make an Order in the terms of  the  draft  submitted  to  him,  and  the  Order  shall  come  into  force  on  such date  as  may  be  specified  therein:
 
@@ -14669,33 +14843,29 @@ Provided that the coming into force of any such Order shall not affect any elect
 
 [[START OF PAGE 426]]
 
+Federal  Constitution
+
+##### NOTES
+
 ### Thirteenth Schedule -(cont.)
 
 ##### Section  12
 
-- The  words  'to  the  House  of  Representatives  or  a  Legislative  Assembly  until  the  next dissolution  of  Parliament  or  the  Assembly,  as  the  case  may  be,  occurring  on  or  after that  date'  substituted  for  'until  a  proclamation  is  issued  by  the Yang  di-Pertuan Agong under  Article  55  summoning  a  new  Parliament'  by  Act  26/1963,  section  70,  in  force from 16-09-1963.
+1. The  words  'to  the  House  of  Representatives  or  a  Legislative  Assembly  until  the  next dissolution  of  Parliament  or  the  Assembly,  as  the  case  may  be,  occurring  on  or  after that  date'  substituted  for  'until  a  proclamation  is  issued  by  the  Yang  di-Pertuan Agong under  Article  55  summoning  a  new  Parliament'  by  Act  26/1963,  section  70,  in  force from 16-09-1963.
 
-- See section  9.
-
-Federal  Constitution
-
-##### NOTES
+2. See section  9.
 
 [[END OF PAGE 426]]
 
 [[START OF PAGE 427]]
 
-Federal  Constitution
-
 ### LIST OF AMENDMENTS
 
-### list of articles amended
+### LIST OF ARTICLES AMENDED
 
 [[END OF PAGE 427]]
 
 [[START OF PAGE 428]]
-
-Federal  Constitution
 
 [[END OF PAGE 428]]
 
@@ -14713,7 +14883,7 @@ Amending law | Short title | In force from
 --- | --- | ---
 Ord. 42/1958 | Constitution (Temporary Amendment) Ordinance 1958 | 05-12-1958
 Act 10/1960 | Constitution (Amendment) Act 1960 | 31-05-1960 except s.13 and para.17 (d) : 31-08-1957; s.31: 08-08-1960; s.3: 11-09-1960; s.2, 33 and 35: 01-12-1960; s.22, 24 and para. 27 (a) and (c) : 01-04-1961; s.26: 16-09-1963
-Act 14/1962 | Constitution (Amendment) Act 1962 | s.8, 13, 24 and 30: 31-08-1957; s.32 (para.14 of Schedule: 01-12-1960; s.12, 14, 15, 17 to 23, 28, 29 and 34, s.32 (subsubpara. (c) of para.1 of Schedule and para.4 to para.11 o f S c h e d u l e ) : 21-06-1962; s.16, 25 and 33: 15-07-1962; s.2, 3, 4, 6, 9, 10, 11, 26 and 27, s.32 (para.3 and 12 of Schedule): 01-10-1962; s.5, s.32 (subsubpara. (a) and (b) of para.1 of Schedule): 01-07-1963; s.7, s.32 (para.2 of Schedule): 01-02-1964; s.32 (para.13 of Schedule): 16-09-1963
+Act 14/1962 | Constitution (Amendment) Act 1962 | s.8, 13, 24 and 30: 31-08-1957; s.32 (para.14 of Schedule): 01-12-1960; s.12, 14, 15, 17 to 23, 28, 29 and 34, s.32 (subsubpara.(c) of para.1 of Schedule and para.4 to para.11 of Schedule): 21-06-1962; s.16, 25 and 33: 15-07-1962; s.2, 3, 4, 6, 9, 10, 11, 26 and 27, s.32 (para.3 and 12 of Schedule): 01-10-1962; s.5, s.32 (subsubpara.(a) and (b) of para.1 of Schedule): 01-07-1963; s.7, s.32 (para.2 of Schedule): 01-02-1964; s.32 (para.13 of Schedule): 16-09-1963
 Act 25/1963 | Constitution (Amendment) Act 1963 | 29-08-1963 except s.2 and 5: 31-08-1957; s.7: 01-01-1958
 
 [[END OF PAGE 429]]
@@ -14730,7 +14900,7 @@ Act 26/1963 | Malaysia Act | 16-09-1963 except s.37: 31-08-1957
 Act 19/1964 | Constitution (Amendment) Act 1964 | 30-07-1964 except s.5: 16-09-1963; s.4: 01-01-1965
 Act 31/1965 | Constitution and Malaysia Act (Amendment) Act 1965 | 01-07-1965 except Part I of First Schedule and Second Schedule: 16-09-1963; Part II of First Schedule-amendment of Article 132 of the Constitution-Malacca: 01-05-1960; and Penang: 01-11-1959
 Act 53/1965 | Constitution and Malaysia (Singapore Amendment) Act 1965 | 09-08-1965
-Act 59/1966 | Constitution (Amendment) Act 1966 | 19-09-1966 except Schedule (amendments of Articles 1, 3, 14, 15, 16, 16 a , 18, 19, 19 a , 26 a , 28 a , 30, 30 a , 30 b 42, 46, 88, 95 b , 95 d , 95 e , 112 a , 112 b , 112 e , 113, 121, 122 a , 122 b , 146 b , 146 c (1), 159, 160, 161 f -161 h , 169, Second Schedule, Eighth Schedule (s.23) and Ninth Schedule: 09-08-1965; Schedule (amendments of Article 71): 16-09-1963; Schedule (amendments of Tenth Schedule: 01-01-1963
+Act 59/1966 | Constitution (Amendment) Act 1966 | 19-09-1966 except Schedule (amendments of Articles 1, 3, 14, 15, 16, 16a, 18, 19, 19a, 26a, 28a, 30, 30a, 30b, 42, 46, 88, 95b, 95d, 95e, 112a, 112b, 112e, 113, 121, 122a, 122b, 146b, 146c(1), 159, 160, 161f-161h, 169, Second Schedule, Eighth Schedule (s.23) and Ninth Schedule): 09-08-1965; Schedule (amendments of Article 71): 16-09-1963; Schedule (amendments of Tenth Schedule): 01-01-1963
 
 [[END OF PAGE 430]]
 
@@ -14745,7 +14915,7 @@ Amending law | Short title | In force from
 Act 68/1966 | Emergency (Federal Constitution and Constitution of Sarawak) Act 1966 | 20-09-1966
 Act 27/1968 | Constitution (Amendment) Act 1968 | 09-09-1968
 Act A1 | Constitution (Amendment) Act 1969 | 18-11-1968
-P.U. (B) 83/1969 | Resolution pursuant to Article 122 a (1) | 10-04-1969
+P.U. (B) 83/1969 | Resolution pursuant to Article 122a(1) | 10-04-1969
 P.U. (A) 146/1969 | Emergency (Essential Powers) Ordinance 1969 | 15-05-1969
 P.U. (A) 170/1969 | Emergency (Essential Powers) Ordinance No. 3, 1969 | 15-05-1969
 P.U. (A) 143/1970 | Emergency (Essential Powers) Ordinance No. 32, 1970 | 12-05-1970
@@ -14773,7 +14943,7 @@ Act A514 | Constitution (Amendment) Act 1981 | 15-05-1981 except s.19: 27-08-197
 P.U. (A) 114/1982 | Constitution of the Federal Court (Judges) Order 1982 | 01-05-1982
 Act A566 | Constitution (Amendment) Act 1983 | 16-12-1983 except s.15, 16, 17: 01-01-1985; s.2: 01-02-1974
 Act A584 | Constitution (Amendment) Act 1984 | 20-01-1984 except s.4: 16-12-1983
-Act A585 | Constitution (Amendment) (No. 2) Act 1984 | Part III: 14-04-1984 e x c e p t s . 2 4 : 01-02-1974; Part I and Part II: 16-04-1984
+Act A585 | Constitution (Amendment) (No. 2) Act 1984 | Part III: 14-04-1984 except s.24: 01-02-1974; Part I and Part II: 16-04-1984
 Act A631 | Constitution (Amendment) Act 1985 | 24-02-1986
 Act A704 | Constitution (Amendment) Act 1988 | 10-06-1988
 Act A767 | Federal Constitution (Amendment) Act 1990 | 11-05-1990
@@ -14804,9 +14974,9 @@ P.U. (A) 169/2001 | Constitution of the Education Service Commission Order 2001 
 P.U. (A) 378/2001 | Constitution of the Court of Appeal Order 2001 | 01-01-2002
 Act 622 | Capitation Grant Act 2002 | 01-01-2002
 Act A1198 | Constitution (Amendment) Act 2003 | 15-08-2003
-Act A1239 | Constitution (Amendment) Act 2005 | 21-03-2005 except para.5 (a) : 31-01-2007
+Act A1239 | Constitution (Amendment) Act 2005 | 21-03-2005 except para.5(a): 31-01-2007
 P.U. (A) 229/2005 | Constitution of the Federal Court Order 2005 | 02-06-2005
-Act A1260 | Constitution (Amendment) (No. 2) Act 2005 | 19-01-2006 except para.3 (b) : 10-10-2003
+Act A1260 | Constitution (Amendment) (No. 2) Act 2005 | 19-01-2006 except para.3(b): 10-10-2003
 
 [[END OF PAGE 433]]
 
@@ -14814,15 +14984,13 @@ Act A1260 | Constitution (Amendment) (No. 2) Act 2005 | 19-01-2006 except para.3
 
 Federal  Constitution 220
 
-Amending law Short  title In  force  from P.U. (A) 384/2006 Constitution  of  the  High Court  (Judges)  Order  2006 01-10-2006
-
-P.U. (A) 385/2006 Constitution  of  the  Court  of Appeal Order 2006 01-10-2006
-
-Act A1320 Constitution  (Amendment) Act  2007 27-12-2007
-
-P.U. (A) 163/2009 Constitution  of  the  Federal Court  Order  2009 01-05-2009
-
-P.U. (A) 164/2009 Constitution  of  the  Court  of Appeal Order 2009 01-05-2009
+Amending law | Short title | In force from
+--- | --- | ---
+P.U. (A) 384/2006 | Constitution of the High Court (Judges) Order 2006 | 01-10-2006
+P.U. (A) 385/2006 | Constitution of the Court of Appeal Order 2006 | 01-10-2006
+Act A1320 | Constitution (Amendment) Act 2007 | 27-12-2007
+P.U. (A) 163/2009 | Constitution of the Federal Court Order 2009 | 01-05-2009
+P.U. (A) 164/2009 | Constitution of the Court of Appeal Order 2009 | 01-05-2009
 
 [[END OF PAGE 434]]
 
@@ -14866,7 +15034,7 @@ Act 59/1966 | 19-09-1966
 10 | Act 26/1963 | 16-09-1963
 Act A30 | 10-03-1971
 11 | Act A206 | 01-02-1974
-Act 354 | 27-08-1976
+Act A354 | 27-08-1976
 Act A585 | 16-04-1984
 Act A1095 | 01-02-2001
 12 | Act 25/1963 | 31-08-1957
@@ -14888,12 +15056,12 @@ Article | Amending authority | In force from
 Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A514 | 27-08-1976
-1 5 a | Act 14/1962 | 01-10-1962
+15a | Act 14/1962 | 01-10-1962
 16 | Act 10/1960 | 01-12-1960
-Act 25/1963 | 29-08-1963 16-09-1963
-Act 26/1963
+Act 25/1963 | 29-08-1963
+Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
-1 6 a | Act 26/1963 | 16-09-1963
+16a | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A514 | 27-08-1976
 17 | Act 10/1960 | 01-12-1960
@@ -14906,30 +15074,28 @@ Act 59/1966 | 09-08-1965
 Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A354 | 27-08-1976
-19 a | Act 26/1963 | 16-09-1963
+19a | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
-20
-Act 14/1962 | 01-02-1964
+20 | Act 14/1962 | 01-02-1964
 Act 26/1963 | 16-09-1963
-21 | Act 14/1962 26/1963 | 01-02-1964 16-09-1963
-22 | Act
+21 | Act 14/1962 | 01-02-1964
+Act 26/1963 | 16-09-1963
+22 | Act 26/1963 | 16-09-1963
 23 | Act 10/1960 | 01-12-1960
 Act 14/1962 | 31-08-1957
-Act 14/1962 | 01-10-1962
-24 | Act 26/1963 | 16-09-1963
+24 | Act 14/1962 | 01-10-1962
+Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
 25 | Act 14/1962 | 01-10-1962
 Act 26/1963 | 16-09-1963
 Act 160 | 29-08-1975
 Act A354 | 27-08-1976
-Act 14/1962 | 01-10-1962
-26
+26 | Act 14/1962 | 01-10-1962
 Act 19/1964 | 30-07-1964
-26 a | Act 14/1962 | 01-10-1962
-Act 26/1963 Act 59/1966 | 16-09-1963 09-08-1965
-b
-26 | Act | 01-10-1962
-14/1962
+26a | Act 14/1962 | 01-10-1962
+Act 26/1963 | 16-09-1963
+Act 59/1966 | 09-08-1965
+26b | Act 14/1962 | 01-10-1962
 
 [[END OF PAGE 436]]
 
@@ -14942,22 +15108,22 @@ Federal  Constitution
 Article | Amending authority | In force from
 --- | --- | ---
 28 | Act 26/1963 | 16-09-1963
-28 a | Act 26/1963 | 16-09-1963
+28a | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A354 | 27-08-1976
 Act A514 | 27-08-1976
 30 | Act 10/1960 | 01-12-1960
 Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
-30 a | Act 26/1963 | 16-09-1963
+30a | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
-30 b | Act 26/1963 | 16-09-1963
+30b | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 31 | Act 26/1963 | 16-09-1963
 32 | Act A354 | 27-08-1976
 Act A848 | 30-03-1993
 33 | Act A354 | 27-08-1976
-3 3 a | Act A848 | 30-03-1993
+33a | Act A848 | 30-03-1993
 34 | Ord. 42/1958 | 05-12-1958
 Act 10/1960 | 11-09-1960
 Act A354 | 27-08-1976
@@ -14981,7 +15147,8 @@ Act 59/1966 | 09-08-1965
 Act A206 | 01-02-1974
 Act A354 | 27-08-1976
 Act A514 | 15-05-1981
-Act A585 Act A848 | 16-04-1984 30-03-1993
+Act A585 | 16-04-1984
+Act A848 | 30-03-1993
 Act A1095 | 01-02-2001
 
 [[END OF PAGE 437]]
@@ -14994,14 +15161,14 @@ Article | Amending authority | In force from
 --- | --- | ---
 43 | Act 10/1960 | 31-05-1960
 Act A857 | 20-08-1993
-43 a | Act 10/1960 | 31-05-1960
+43a | Act 10/1960 | 31-05-1960
 Act A31 | 24-03-1971
 Act A566 | 16-12-1983
 Act A885 | 24-06-1994
-43 b | Act 19/1964 | 16-09-1963
+43b | Act 19/1964 | 16-09-1963
 Act A31 | 24-03-1971
 Act A566 | 16-12-1983
-43 c | Act 19/1964 | 16-09-1963
+43c | Act 19/1964 | 16-09-1963
 45 | Act 26/1963 | 16-09-1963
 Act 19/1964 | 30-07-1964
 Act A442 | 31-12-1978
@@ -15054,7 +15221,7 @@ Act A857 | 20-08-1993
 55 | Act 59/1966 | 19-09-1966
 Act A354 | 27-08-1976
 Act A514 | 15-05-1981
-Act A585 | 14-04-1974
+Act A585 | 14-04-1984
 Act A885 | 24-06-1994
 56 | Act 10/1960 | 31-05-1960
 Act A514 | 15-05-1981
@@ -15107,7 +15274,7 @@ Article | Amending authority | In force from
 Act 14/1962 | 21-06-1962
 Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
-76 a | Act 26/1963 | 31-08-1957
+76a | Act 26/1963 | 31-08-1957
 80 | Act 26/1963 | 16-09-1963
 Act A566 | 01-01-1985
 Act A885 | 24-06-1994
@@ -15132,17 +15299,16 @@ Act A1095 | 01-02-2001
 Act A354 | 27-08-1976
 92 | Act 26/1963 | 16-09-1963
 94 | Act 26/1963 | 16-09-1963
-95 a | Act 10/1960 | 31-05-1960
+95a | Act 10/1960 | 31-05-1960
 Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
-95 b | Act 26/1963 | 16-09-1963
+95b | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A514 | 27-08-1976
-95 c | Act 26/1963 | 16-09-1963
+95c | Act 26/1963 | 16-09-1963
 Act 31/1965 | 16-09-1963
-95 d
+95d | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
-Act 26/1963 | 16-09-1963
 Act A514 | 27-08-1976
 
 [[END OF PAGE 440]]
@@ -15155,7 +15321,7 @@ Federal  Constitution
 
 Article | Amending authority | In force from
 --- | --- | ---
-95 e | Act 26/1963 | 16-09-1963
+95e | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A514 | 27-08-1976
 97 | Act A206 | 01-02-1974
@@ -15168,8 +15334,7 @@ Act A354 | 27-08-1976
 101 | Act A354 | 27-08-1976
 105 | Act 26/1963 | 16-09-1963
 Act A566 | 01-01-1985
-Act A885
-24-06-1994
+Act A885 | 24-06-1994
 106 | Act A354 | 27-08-1976
 107 | Act A354 | 27-08-1976
 108 | Act 14/1962 | 21-06-1962
@@ -15179,19 +15344,19 @@ Act A354 | 27-08-1976
 111 | Act A354 | 27-08-1976
 Act 160 | 27-08-1976
 112 | Act A354 | 27-08-1976
-112 a | Act 26/1963 | 16-09-1963
+112a | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A354 | 27-08-1976
 Act A514 | 27-08-1976
-112 b | Act 26/1963 | 16-09-1963
+112b | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A514 | 27-08-1976
-11 2 c | Act 26/1963 | 16-09-1963
+112c | Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
 Act A514 | 27-08-1976
-112 d | Act 26/1963 | 16-09-1963
+112d | Act 26/1963 | 16-09-1963
 Act A514 | 27-08-1976
-112 e | Act 26/1963 | 16-09-1963
+112e | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 113 | Act 14/1962 | 21-06-1962
 Act 26/1963 | 16-09-1963
@@ -15231,7 +15396,7 @@ Act A206 | 23-08-1973
 117 | Act 14/1962 | 21-06-1962
 118 | Act 25/1963 | 29-08-1963
 Act 26/1963 | 16-09-1963
-118 a | Act 31/1965 | 01-07-1965
+118a | Act 31/1965 | 01-07-1965
 Act A704 | 10-06-1988
 119 | Act 10/1960 | 31-05-1960
 Act A1130 | 28-09-2001
@@ -15266,7 +15431,7 @@ Federal  Constitution
 
 Article | Amending authority | In force from
 --- | --- | ---
-12 2 a | Act 26/1963 | 16-09-1963
+122a | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 P.U. (B) 83/1969 | 10-04-1969
 Act A354 | 27-08-1976
@@ -15275,16 +15440,16 @@ Act A885 | 24-06-1994
 P.U. (A) 378/2001 | 01-01-2002
 P.U. (A) 385/2006 | 01-10-2006
 P.U. (A) 164/2009 | 01-05-2009
-12 2 aa | Act A885 | 24-06-1994
+122aa | Act A885 | 24-06-1994
 P.U. (A) 384/2006 | 01-10-2006
-122 b | Act 26/1963 | 16-09-1963
+122b | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A354 | 27-08-1976
 Act A514 | 27-08-1976
 Act A566 | 01-01-1985
 Act A885 | 24-06-1994
-122 ab | Act A885 | 24-06-1994
-122 c | Act 26/1963 | 16-09-1963
+122ab | Act A885 | 24-06-1994
+122c | Act 26/1963 | 16-09-1963
 Act A566 | 01-01-1985
 Act A885 | 24-06-1994
 123 | Act 26/1963 | 16-09-1963
@@ -15303,7 +15468,7 @@ Act A566 | 01-01-1985
 Act A885 | 24-06-1994
 Act A1239 | 21-03-2005
 Act A1260 | 19-01-2006
-125 a | Act A354 | 27-08-1976
+125a | Act A354 | 27-08-1976
 Act A566 | 01-01-1985
 Act A885 | 24-06-1994
 126 | Act 26/1963 | 16-09-1963
@@ -15333,15 +15498,14 @@ Act A885 | 24-06-1994
 Act 26/1963 | 16-09-1963
 Act A566 | 01-01-1985
 Act A885 | 24-06-1994
-131 a | Act 26/1963 | 16-09-1963
+131a | Act 26/1963 | 16-09-1963
 Act A566 | 01-01-1985
 Act A885 | 24-06-1994
-132 | Act 10/1960 | 31-08-1957;
-31-05-1960
+132 | Act 10/1960 | 31-08-1957; 31-05-1960
 Act 14/1962 | 21-06-1962
 Act 26/1963 | 16-09-1963
-Act 31/1965 | 01-11-1959;
-Act A193 | 01-05-1960 01-01-1974
+Act 31/1965 | 01-11-1959; 01-05-1960
+Act A193 | 01-01-1974
 Act A354 | 27-08-1976
 Act A837 | 20-11-1992
 Act A885 | 24-06-1994
@@ -15365,7 +15529,8 @@ Act A885 | 24-06-1994
 139 | Act 10/1960 | 31-05-1960
 Act 25/1963 | 29-08-1963
 Act 26/1963 | 16-09-1963
-Act 59/1966 Act 27/1968 | 19-09-1966 09-09-1968
+Act 59/1966 | 19-09-1966
+Act 27/1968 | 09-09-1968
 
 [[END OF PAGE 444]]
 
@@ -15387,7 +15552,7 @@ Act A354 | 27-08-1976
 Act A585 | 14-04-1984
 141 | Act 10/1960 | 31-05-1960
 Act A514 | 15-05-1981
-141 a | Act A193 | 01-01-1974
+141a | Act A193 | 01-01-1974
 Act A354 | 27-08-1976
 Act A442 | 31-12-1978
 Act A767 | 11-05-1990
@@ -15416,11 +15581,11 @@ Act A354 | 27-08-1976
 Act A566 | 01-01-1985
 Act A704 | 10-06-1988
 Act A885 | 24-06-1994
-146 a | Act 26/1963 | 16-09-1963
+146a | Act 26/1963 | 16-09-1963
 Act 31/1965 | 01-07-1965
 Act 59/1966 | 19-09-1966
 Act A354 | 27-08-1976
-14 6 b | Act 26/1963 | 16-09-1963
+146b | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 Act A354 | 27-08-1976
 Act A514 | 15-05-1981
@@ -15435,16 +15600,15 @@ Federal  Constitution
 
 Article | Amending authority | In force from
 --- | --- | ---
-146 c | Act 26/1963 | 16-09-1963
-Act 59/1966 | 09-08-1965;
-19-09-1966
+146c | Act 26/1963 | 16-09-1963
+Act 59/1966 | 09-08-1965; 19-09-1966
 Act A354 | 27-08-1976
 Act A514 | 15-05-1981
-146 d | Act 26/1963 | 16-09-1963
+146d | Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
 Act A514 | 27-08-1976
-148 | Act 10/1960 | 31-05-1960;
-Act 14/1962 | 01-04-1961 21-06-1962
+148 | Act 10/1960 | 31-05-1960; 01-04-1961
+Act 14/1962 | 21-06-1962
 Act 26/1963 | 16-09-1963
 Act 59/1966 | 19-09-1966
 Act A354 | 27-08-1976
@@ -15456,8 +15620,7 @@ Act A514 | 15-05-1981
 Act 26/1963 | 16-09-1963
 Act 68/1966 | 20-09-1966
 Act A354 | 27-08-1976
-Act A514 | 27-08-1976;
-15-05-1981
+Act A514 | 27-08-1976; 15-05-1981
 Act A584 | 20-01-1984
 Act A566 | 01-01-1985
 151 | Act 10/1960 | 31-05-1960
@@ -15494,11 +15657,10 @@ Article | Amending authority | In force from
 Act 59/1966 | 09-08-1965
 Act A30 | 10-03-1971
 Act A31 | 24-03-1971
-15 9 a | Act 26/1963 | 16-09-1963
+159a | Act 26/1963 | 16-09-1963
 Act 59/1966 | 19-09-1966
-160 | Act 14/1962 | 15-07-1962;
-01-10-1962;
-Act 25/1963 | 16-09-1963 31-08-1957; 29-08-1963
+160 | Act 14/1962 | 15-07-1962; 01-10-1962; 16-09-1963
+Act 25/1963 | 31-08-1957; 29-08-1963
 Act 26/1963 | 16-09-1963
 Act 19/1964 | 16-09-1963
 Act 31/1965 | 01-07-1965
@@ -15507,33 +15669,33 @@ Act A31 | 24-03-1971
 Act A354 | 27-08-1976
 Act A566 | 01-01-1985
 Act A885 | 24-06-1994
-160 a | Act A1130 | 28-09-2001
-160 b | Act A1130 | 28-09-2001
+160a | Act A1130 | 28-09-2001
+160b | Act A1130 | 28-09-2001
 161 | Act 25/1963 | 29-08-1963
 Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
 Act A514 | 27-08-1976
 Act A566 | 01-01-1985
 Act A885 | 24-06-1994
-16 1 a | Act 26/1963 | 16-09-1963
+161a | Act 26/1963 | 16-09-1963
 Act A30 | 10-03-1971
 Act A354 | 27-08-1976
 Act A514 | 27-08-1976
 Act A585 | 16-04-1984
-161 b | Act 26/1963 | 16-09-1963
+161b | Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
 Act A514 | 27-08-1976
 Act A566 | 01-01-1985
 Act A885 | 24-06-1994
-161 c | Act 26/1963 | 16-09-1963
+161c | Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
-161 d | Act 26/1963 | 16-09-1963
+161d | Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
-161 e | Act 26/1963 | 16-09-1963
+161e | Act 26/1963 | 16-09-1963
 Act A354 | 27-08-1976
 Act A514 | 27-08-1976
 Act A885 | 24-06-1994
-161 f | Act 26/1963 | 16-09-1963
+161f | Act 26/1963 | 16-09-1963
 Act 59/1966 | 09-08-1965
 
 [[END OF PAGE 447]]
@@ -15542,7 +15704,45 @@ Act 59/1966 | 09-08-1965
 
 Federal  Constitution 234
 
-Article Amending authority In  force  from 161 g Act  26/1963 16-09-1963 Act  59/1966 09-08-1965 161 h Act  26/1963 16-09-1963 Act  59/1966 09-08-1965 162 Act  25/1963 29-08-1963 Act A31 24-03-1971 163 Act  25/1963 29-08-1963 164 Act  25/1963 29-08-1963 165 Act  25/1963 29-08-1963 166 Act  25/1963 29-08-1963 167 Act  25/1963 29-08-1963 168 Act  25/1963 29-08-1963 169 Act  26/1963 16-09-1963 Act  59/1966 09-08-1965 Act A354 27-08-1976 Act A514 27-08-1976 170 Act  25/1963 29-08-1963 171 Act  25/1963 29-08-1963 172 Act  25/1963 29-08-1963 173 Act  25/1963 29-08-1963 174 Act  10/1960 31-05-1960 Act  26/1963 16-09-1963 181 Act A848 30-03-1993 182 Act A848 30-03-1993 Act A885 24-06-1994 183 Act A848 30-03-1993 First  Schedule Act  14/1962 01-10-1962 Second Schedule Act  10/1960 01-12-1960 Act  14/1962 01-12-1960; 01-10-1962 Act  26/1963 16-09-1963 Act  59/1966 09-08-1965 Act  160 29-08-1976 Act A354 27-08-1976 Act A514 27-08-1976 Third  Schedule Act  25/1963 29-08-1963 Act A31 24-03-1971 Act A354 27-08-1976
+Article | Amending authority | In force from
+--- | --- | ---
+161g | Act 26/1963 | 16-09-1963
+Act 59/1966 | 09-08-1965
+161h | Act 26/1963 | 16-09-1963
+Act 59/1966 | 09-08-1965
+162 | Act 25/1963 | 29-08-1963
+Act A31 | 24-03-1971
+163 | Act 25/1963 | 29-08-1963
+164 | Act 25/1963 | 29-08-1963
+165 | Act 25/1963 | 29-08-1963
+166 | Act 25/1963 | 29-08-1963
+167 | Act 25/1963 | 29-08-1963
+168 | Act 25/1963 | 29-08-1963
+169 | Act 26/1963 | 16-09-1963
+Act 59/1966 | 09-08-1965
+Act A354 | 27-08-1976
+Act A514 | 27-08-1976
+170 | Act 25/1963 | 29-08-1963
+171 | Act 25/1963 | 29-08-1963
+172 | Act 25/1963 | 29-08-1963
+173 | Act 25/1963 | 29-08-1963
+174 | Act 10/1960 | 31-05-1960
+Act 26/1963 | 16-09-1963
+181 | Act A848 | 30-03-1993
+182 | Act A848 | 30-03-1993
+Act A885 | 24-06-1994
+183 | Act A848 | 30-03-1993
+First Schedule | Act 14/1962 | 01-10-1962
+Second Schedule | Act 10/1960 | 01-12-1960
+Act 14/1962 | 01-12-1960; 01-10-1962
+Act 26/1963 | 16-09-1963
+Act 59/1966 | 09-08-1965
+Act 160 | 29-08-1976
+Act A354 | 27-08-1976
+Act A514 | 27-08-1976
+Third Schedule | Act 25/1963 | 29-08-1963
+Act A31 | 24-03-1971
+Act A354 | 27-08-1976
 
 [[END OF PAGE 448]]
 
@@ -15570,35 +15770,34 @@ Eighth Schedule | Act 14/1962 | 21-06-1962
 Act 26/1963 | 16-09-1963
 Act 19/1964 | 30-07-1964
 Act 31/1965 | 01-07-1965
-Act 59/1966 | 09-08-1965;
-19-09-1966
-Act 27/1968 Act A1 | 09-09-1968 18-11-1968
+Act 59/1966 | 09-08-1965; 19-09-1966
+Act 27/1968 | 09-09-1968
+Act A1 | 18-11-1968
 Act A31 | 24-03-1971
 Act A193 | 05-05-1973
 Act 160 | 29-08-1975
 Act A354 | 27-08-1976
 Act A514 | 15-05-1981
 Act A566 | 16-12-1983
-Act A584 | 16-12-1983;
-Act A585 | 20-01-1984 14-04-1984
-Act A767
-Act A848 | 11-05-1990
-Act A849 | 30-03-1993 16-07-1993
+Act A584 | 16-12-1983; 20-01-1984
+Act A585 | 14-04-1984
+Act A767 | 11-05-1990
+Act A848 | 30-03-1993
+Act A849 | 16-07-1993
 Act A857 | 20-08-1993
 Act A885 | 24-06-1994
-Act A919
-21-07-1995
+Act A919 | 21-07-1995
 Ninth Schedule | Act 25/1963 | 29-08-1963
 Act 26/1963 | 16-09-1963
 Act 31/1965 | 01-07-1965
 Act 59/1966 | 09-08-1965
 Act A206 | 01-02-1974
-Act A354 | 01-01-1976;
-Act A514 | 27-08-1976
-Act A566 | 15-05-1981
-01-02-1974
+Act A354 | 01-01-1976; 27-08-1976
+Act A514 | 15-05-1981
+Act A566 | 01-02-1974
 Act A585 | 16-04-1984
-Act A704 Act A885 | 10-06-1988 24-06-1994
+Act A704 | 10-06-1988
+Act A885 | 24-06-1994
 Act A1095 | 01-02-2001
 Act A1239 | 21-03-2005
 
@@ -15613,15 +15812,15 @@ Federal  Constitution
 Article | Amending authority | In force from
 --- | --- | ---
 Tenth Schedule | Act 14/1962 | 21-06-1962
-Act 25/1963 | 01-01-1958;
-29-08-1963
-Act 26/1963 Act 59/1966 | 16-09-1963 01-01-1963
+Act 25/1963 | 01-01-1958; 29-08-1963
+Act 26/1963 | 16-09-1963
+Act 59/1966 | 01-01-1963
 Act A392 | 01-01-1976
 Act A354 | 27-08-1976
 Act A514 | 15-05-1981
 Act 503 | 01-01-1992
 Act 622 | 01-01-2002
-Act A1239 | 21-03-2005;
+Act A1239 | 21-03-2005; 31-01-2007
 Eleventh Schedule | Act 14/1962 | 31-08-1957
 Act 25/1963 | 29-08-1963
 Act 26/1963 | 16-09-1963
@@ -15636,8 +15835,10 @@ Act A206 | 23-08-1973
 Act A585 | 16-04-1984
 Act A1095 | 01-02-2001
 
+DICETAK OLEH
+PERCETAKAN NASIONAL MALAYSIA BERHAD,
+KUALA LUMPUR
 BAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA
-
-DICETAK OLEH PERCETAKAN NASIONAL MALAYSIA BERHAD, KUALA LUMPUR JW516221   18-09-2010
+JW516221   18-09-2010
 
 [[END OF PAGE 450]]
