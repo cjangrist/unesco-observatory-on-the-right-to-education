@@ -4,9 +4,9 @@ MINISTERIO DE LA PRESIDENCIA
 
 VICEMINISTERIO DE COORDINACIÓN Y GESTIÓN GUBERNAMENTAL
 
-# Constitución Política del Estado Constitución Política del Estado
+# CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-# Estadoq  Kuraq Kamachiynin Estadoq  Kuraq Kamachiynin
+# ESTADOQ KURAQ KAMACHIYNIN
 
 TRADUCIDA AL QUECHUA
 
@@ -133,11 +133,11 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 # Prefacio
 
-La Constitución Política del Estado (CPE) debe ser la base para la  convivencia  pacífica  en  democracia  en  un  país.  Consagra los cimientos del Estado de Derecho, esta por encima de cada poder  del  Estado  y  fortalece  la  democracia.  Es  el  consenso mínimo sobre el cual se construye el Estado y sus instituciones y es el marco legal que rige la vida de todas las ciudadanas y los ciudadanos.
+La Constitución Política del Estado (CPE) debe ser la base para la convivencia pacífica en democracia en un país. Consagra los cimientos del Estado de Derecho, está por encima de cada poder del Estado y fortalece la democracia. Es el consenso mínimo sobre el cual se construye el Estado y sus instituciones y es el marco legal que rige la vida de todas las ciudadanas y los ciudadanos.
 
 En la  nueva  CPE  aprobada  en  el  2009,  Bolivia  se  constituye en  un  Estado  Plurinacional.  Reconoce  la  existencia  de  36 idiomas nativos en el territorio nacional. Además, consagra una amplia gama de derechos para los pueblos indígena originario campesinos en el país.
 
-En este sentido, el texto constitucional se enmarca en el proceso internacional de reconocimiento de los derechos indígenas en el mundo, por ejemplo en el Convenio 169 de la Organización Internacional  del  T rabajo  (OIT)  y  en  la  Declaración  de  las Naciones Unidas sobre los derechos de los Pueblos Indígenas.
+En este sentido, el texto constitucional se enmarca en el proceso internacional de reconocimiento de los derechos indígenas en el mundo, por ejemplo en el Convenio 169 de la Organización Internacional del Trabajo (OIT) y en la Declaración de las Naciones Unidas sobre los derechos de los Pueblos Indígenas.
 
 Para  que  la  sociedad  pueda  transformarse  de  acuerdo  a  este novedoso  marco  jurídico,  es  de  suma  importancia  que  las ciudadanas y los ciudadanos conozcan sus derechos y deberes que los  interioricen  y  que  apoyen  su  implementación  para  la construcción de una cultura política democrática. En este afán de  socializar  los  contenidos  de  la  Constitución  Política  del Estado, la Fundación Konrad Adenauer (KAS) y el Ministerio de la Presidencia del Estado Plurinacional publican la presente traducción del texto constitucional al Quechua con un CD que incluye el mismo texto en audio.
 
@@ -161,6413 +161,69 @@ Fundación Konrad Adenauer (KAS)
 
 [[START OF PAGE 8]]
 
-ESTADOQ K URAQ K AMACH IYNIN
+ESTADOQ KURAQ KAMACHIYNIN
 
-CONSTITUCIÓN P OLÍ TICA DEL ESTADO
-
-# ESTADOQ KURAQ KAMACHIYNIN
-
-Iskay  chunka  phisqayuq  p'unchaypi,  qhaqmiy  killapi  iskay  waranqa  isq'unniyuq watapi  Referéndum  nisqapi  ari  nikurqa,  qanchis  p'unchaypitaq  jatun  puquy  killapi iskay waranqa isq'unniyup watapi qhilqasqata urqhukurqa.
-
-i
-
-s
-
-t
-
-e
-
-r
-
-i
-
-o
-
-e
-
-a
-
-r
-
-e
-
-s
-
-i
-
-d
-
-e
-
-n
-
-c
-
-i
-
-a
-
-7
+CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 # CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-Aprobada en el Referéndum de 25 de Enero de 2009 y promulgada el 7  de febrero de 2009.
+Aprobada en el Referéndum de 25 de Enero de 2009 y promulgada el 7 de febrero de 2009.
 
-F
+# ESTADOQ KURAQ KAMACHIYNIN
 
-u
+Iskay chunka phisqayuq p'unchaypi, qhaqmiy killapi iskay waranqa isq'unniyuq watapi Referéndum nisqapi ari nikurqa, qanchis p'unchaypitaq jatun puquy killapi iskay waranqa isq'unniyup watapi qhilqasqata urqhukurqa.
 
-n
+Ministerio de la Presidencia - V.C.G.G
 
-d
+7
 
-a
-
-c
-
-o
-
-n
-
-r
-
-a
-
-d
-
-e
-
-n
-
-a
-
-u
-
-e
-
-r
-
-K
-
-Mi n d l P -  V. C. G. G
-
-i ó n K Ad ( AS)
+Fundación Konrad Adenauer (KAS)
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-ESTADOQ K URAQ K AMACH IYNIN
+ESTADOQ KURAQ KAMACHIYNIN
 
-CONSTITUCIÓN P OLÍ TICA DEL ESTADO
-
-Ñ
-
-q
-
-l
-
-l
-
-c
-
-m
-
-m
-
-y
-
-w
-
-a
-
-k
-
-k
-
-l
-
-u
-
-t
-
-k
-
-n
-
-q
-
-u
-
-s
-
-q
-
-a
-
-m
-
-a
-
-a
-
-w
-
-s
-
-a
-
-k
-
-u
-
-n
-
-a
-
-n
-
-c
-
-h
-
-i
-
-s
-
-i
-
-y
-
-a
-
-n
-
-.
-
-t
-
-a
-
-d
-
-o
-
-t
-
-a
-
-q
-
-h
-
-a
-
-r
-
-i
-
-n
-
-c
-
-h
-
-i
-
-s
-
-.
-
-## QALLARINAPAQ ÑAWPAQ RIMARIY
-
-a
-
-w
-
-p
-
-a
-
-q
-
-p
-
-a
-
-c
-
-h
-
-a
-
-k
-
-u
-
-n
-
-a
-
-p
-
-u
-
-r
-
-q
-
-u
-
-k
-
-u
-
-n
-
-a
-
-p
-
-a
-
-r
-
-l
-
-a
-
-q
-
-k
-
-a
-
-n
-
-k
-
-u
-
-,
-
-m
-
-a
-
-y
-
-u
-
-p
-
-i
-
-s
-
-p
-
-u
-
-n
-
-i
-
-s
-
-q
-
-a
-
-a
-
-l
-
-t
-
-i
-
-p
-
-l
-
-a
-
-n
-
-o
-
-s
-
-n
-
-i
-
-s
-
-q
-
-a
-
-,
-
-l
-
-l
-
-a
-
-n
-
-o
-
-s
-
-n
-
-i
-
-s
-
-q
-
-a
-
-r
-
-i
-
-q
-
-,
-
-q
-
-h
-
-u
-
-c
-
-h
-
-a
-
-t
-
-a
-
-q
-
-h
-
-u
-
-c
-
-h
-
-a
-
-c
-
-h
-
-a
-
-s
-
-p
-
-i Am , Aj i n y n y   ñ c k J l r ñ a c k
-
-l
-
-i
-
-v
-
-i
-
-a
-
-s
-
-u
-
-y
-
-u
-
-q
-
-a
-
-t
-
-u
-
-k
-
-u
-
-y
-
-l
-
-a
-
-y
-
-a
-
-r
-
-u
-
-n
-
-a
-
-k
-
-u
-
-y
-
-w
-
-p
-
-a
-
-q
-
-k
-
-a
-
-w
-
-s
-
-a
-
-y
-
-s
-
-u
-
-n
-
-q
-
-u
-
-n
-
-m
-
-a
-
-n
-
-t
-
-a
-
-p
-
-a
-
-c
-
-h
-
-a
-
-h
-
-a
-
-m
-
-u
-
-s
-
-q
-
-a
-
-n
-
-m
-
-a
-
-n
-
-t
-
-a
-
-p
-
-a
-
-c
-
-h
-
-a
-
-k
-
-'
-
-a
-
-r
-
-i
-
-y
-
-p
-
-i
-
-h
-
-i
-
-q
-
-n
-
-i
-
-n
-
-a
-
-k
-
-u
-
-y
-
-p
-
-i
-
-a
-
-w
-
-s
-
-a
-
-r
-
-q
-
-a
-
-n
-
-c
-
-h
-
-i
-
-s
-
-.
-
-Bo ,   ñ a ,   ñ a ñ a ñ m l r , t r s n p m q r k m j i m ñ u y m Es u
-
-t
-
-a
-
-d
-
-o
-
-k
-
-a
-
-t
-
-u
-
-k
-
-u
-
-y
-
-k
-
-i
-
-k
-
-i
-
-n
-
-k
-
-a
-
-s
-
-q
-
-a
-
-n
-
-p
-
-s
-
-a
-
-y
-
-a
-
-k
-
-u
-
-n
-
-,
-
-c
-
-h
-
-a
-
-n
-
-t
-
-a
-
-p
-
-i
-
-s
-
-s
-
-a
-
-p
-
-a
-
-n
-
-y
-
-u
-
-y
-
-a
-
-y
-
-c
-
-h
-
-a
-
-k
-
-u
-
-n
-
-,
-
-y
-
-a
-
-n
-
-a
-
-p
-
-a
-
-k
-
-u
-
-s
-
-p
-
-a
-
-,
-
-a
-
-s
-
-q
-
-a
-
-k
-
-u
-
-n
-
-a
-
-t
-
-a
-
-u
-
-y
-
-a
-
-r
-
-i
-
-s
-
-p
-
-a
-
-u
-
-s
-
-u
-
-q
-
-Es i i t i p , i k k r i y t t t ; t y y w m u i k t
-
-n
-
-a
-
-t
-
-a
-
-d
-
-o
-
-c
-
-o
-
-l
-
-o
-
-n
-
-i
-
-a
-
-l
-
-,
-
-r
-
-e
-
-p
-
-u
-
-b
-
-l
-
-i
-
-c
-
-a
-
-n
-
-o
-
-,
-
-n
-
-e
-
-o
-
-l
-
-i
-
-b
-
-e
-
-r
-
-a
-
-n
-
-i
-
-s
-
-q
-
-a
-
-k
-
-u
-
-n
-
-a
-
-p
-
-k
-
-a
-
-w
-
-s
-
-a
-
-s
-
-a
-
-n
-
-c
-
-h
-
-h
-
-c
-
-a
-
-,
-
-q
-
-u
-
-y
-
-a
-
-n
-
-a
-
-'
-
-k
-
-n
-
-a
-
-l
-
-a
-
-q
-
-y
-
-u
-
-q
-
-,
-
-a
-
-s
-
-i
-
-y
-
-u
-
-q
-
-,
-
-a
-
-n
-
-a
-
-a
-
-n
-
-a
-
-Ma ñ a Es l i i s ñ a Tu Es Un So l De l Bo i ,   ñ a m m k c q t l k k Es u t
-
-Ñ
-
-u
-
-q
-
-a
-
-n
-
-c
-
-h
-
-i
-
-s
-
-,
-
-a
-
-r
-
-m
-
-i
-
-k
-
-u
-
-n
-
-a
-
-h
-
-a
-
-r
-
-i
-
-k
-
-u
-
-n
-
-a
-
-a
-
-m
-
-b
-
-l
-
-e
-
-a
-
-n
-
-s
-
-t
-
-i
-
-t
-
-u
-
-y
-
-e
-
-n
-
-t
-
-e
-
-w
-
-a
-
-n
-
-a
-
-q
-
-t
-
-a
-
-m
-
-a
-
-n
-
-t
-
-a
-
-t
-
-i
-
-y
-
-n
-
-i
-
-n
-
-w
-
-a
-
-n
-
-n
-
-a
-
-n
-
-k
-
-u
-
-p
-
-a
-
-q
-
-a
-
-y
-
-t
-
-a
-
-d
-
-o
-
-t
-
-a
-
-q
-
-h
-
-a
-
-r
-
-i
-
-n
-
-a
-
-n
-
-c
-
-h
-
-i
-
-s
-
-i
-
-y
-
-a
-
-n
-
-.
-
-a
-
-s
-
-q
-
-a
-
-n
-
-k
-
-u
-
-m
-
-a
-
-n
-
-j
-
-i
-
-n
-
-a
-
-a
-
-w
-
-s
-
-a
-
-k
-
-u
-
-w q As Co l l a u k Bo t t
-
-q
-
-t
-
-a
-
-a
-
-m
-
-a
-
-c
-
-h
-
-i
-
-y
-
-n
-
-i
-
-n
-
-t
-
-a
-
-u
-
-w
-
-a
-
-s
-
-a
-
-t
-
-a
-
-n
-
-c
-
-h
-
-i
-
-s
-
-k
-
-u
-
-n
-
-a
-
-q
-
-p
-
-,
-
-a
-
-t
-
-i
-
-q
-
-m
-
-a
-
-n
-
-t
-
-a
-
-l
-
-i
-
-v
-
-i
-
-a
-
-n
-
-c
-
-l
-
-i
-
-v
-
-i
-
-a
-
-n
-
-c
-
-h
-
-i
-
-s
-
-t
-
-a
-
-h
-
-a
-
-s
-
-k
-
-i
-
-r
-
-i
-
-c
-
-h
-
-i
-
-n
-
-a
-
-n
-
-c
-
-h
-
-i
-
-s
-
-i
-
-y
-
-a
-
-n
-
-.
-
-u
-
-n
-
-q
-
-u
-
-l
-
-l
-
-a
-
-w
-
-a
-
-n
-
-a
-
-y
-
-Ll a k r p k ,  Ap n w Bo y
-
-i
-
-k
-
-u
-
-n
-
-a
-
-c
-
-h
-
-u
-
-s
-
-c
-
-o
-
-n
-
-s
-
-t
-
-i
-
-t
-
-u
-
-y
-
-e
-
-n
-
-t
-
-e
-
-n
-
-i
-
-s
-
-q
-
-a
-
-t
-
-a
-
-h
-
-i
-
-s
-
-t
-
-a
-
-u
-
-r
-
-i
-
-c
-
-h
-
-a
-
-c
-
-h
-
-i
-
-i
-
-s
-
-p
-
-a
-
-ñ a p p n t y l y
-
-i
-
-s
-
-t
-
-w
-
-p
-
-a
-
-q
-
-m
-
-a
-
-n
-
-t
-
-h
-
-a
-
-s
-
-k
-
-i
-
-r
-
-i
-
-c
-
-h
-
-i
-
-n
-
-k
-
-u
-
-,
-
-m
-
-u
-
-s
-
-u
-
-q
-
-p
-
-a
-
-,
-
-a
-
-c
-
-h
-
-a
-
-m
-
-a
-
-m
-
-a
-
-q
-
-p
-
-a
-
-t
-
-a
-
-a
-
-l
-
-l
-
-p
-
-a
-
-n
-
-w
-
-a
-
-n
-
-u
-
-n
-
-c
-
-h
-
-i
-
-s
-
-t
-
-a
-
-k
-
-c
-
-s
-
-p
-
-P
-
-q
-
-l
-
-l
-
-h
-
-a
-
-a
-
-a
-
-a
-
-a
-
-'
-
-y
-
-q
-
-u
-
-u
-
-u
-
-a
-
-a
-
-a
-
-q
-
-q
-
-k
-
-n
-
-w
-
-w
-
-h
-
-w
-
-k
-
-k
-
-m
-
-q
-
-n
-
-s
-
-a
-
-t
-
-t
-
-u
-
-i
-
-u
-
-u
-
-a
-
-s
-
-s
-
-a
-
-a
-
-k
-
-a
-
-k
-
-a
-
-a
-
-z
-
-m
-
-i
-
-y
-
-y
-
-r
-
-a
-
-a
-
-u
-
-r
-
-c
-
-n
-
-i
-
-s
-
-n
-
-o
-
-i
-
-r
-
-p
-
-n
-
-k
-
-s
-
-k
-
-y
-
-h
-
-s
-
-q
-
-a
-
-i
-
-c
-
-a
-
-n
-
-n
-
-u
-
-i
-
-i
-
-a
-
-u
-
-n
-
-p
-
-a
-
-h
-
-a
-
-s
-
-n
-
-n
-
-k
-
-i
-
-a
-
-n
-
-n
-
-a
-
-n
-
-i
-
-a
-
-k
-
-i
-
-n
-
-c
-
-t
-
-n
-
-u
-
-s
-
-n
-
-a
-
-a
-
-c
-
-a
-
-u
-
-h
-
-c
-
-a
-
-t
-
-y
-
-t
-
-a
-
-p
-
-w
-
-h
-
-a
-
-a
-
-n
-
-r
-
-h
-
-n
-
-i
-
-k
-
-k
-
-p
-
-k
-
-s
-
-q
-
-a
-
-i
-
-a
-
-i
-
-i
-
-'
-
-'
-
-s
-
-i
-
-u
-
-s
-
-s
-
-a
-
-a
-
-a
-
-,
-
-q
-
-i
-
-a
-
-m
-
-n
-
-,
-
-y
-
-m
-
-y
-
-q
-
-c
-
-r
-
-u
-
-;
-
-,
-
-q
-
-,
-
-i
-
-a
-
-u
-
-a
-
-h
-
-a
-
-n
-
-j
-
-r
-
-a
-
-i
-
-a
-
-i
-
-n
-
-i
-
-q
-
-n
-
-,
-
-n
-
-c
-
-a
-
-a
-
-t
-
-c
-
-t
-
-n
-
-n
-
-'
-
-,
-
-,
-
-h
-
-d
-
-a
-
-a
-
-t
-
-a
-
-p
-
-i
-
-h
-
-t
-
-a
-
-a
-
-k
-
-c
-
-u
-
-a
-
-i
-
-d
-
-a
-
-m
-
-n
-
-a
-
-m
-
-i
-
-l
-
-g
-
-a
-
-h
-
-k
-
-n
-
-a
-
-p
-
-y
-
-o
-
-a
-
-q
-
-e
-
-u
-
-k
-
-a
-
-a
-
-c
-
-t
-
-a
-
-n
-
-a
-
-m
-
-i
-
-n
-
-u
-
-y
-
-h
-
-a
-
-n
-
-c
-
-y
-
-t
-
-k
-
-y
-
-a
-
-a
-
-a
-
-p
-
-n
-
-o
-
-a
-
-i
-
-y
-
-t
-
-'
-
-c
-
-s
-
-a
-
-a
-
-c
-
-a
-
-n
-
-s
-
-i
-
-a
-
-k
-
-s
-
-k
-
-a
-
-h
-
-n
-
-h
-
-t
-
-u
-
-q
-
-t
-
-u
-
-w
-
-q
-
-a
-
-i
-
-a
-
-a
-
-a
-
-t
-
-u
-
-n
-
-a
-
-s
-
-h
-
-a
-
-a
-
-s
-
-a
-
-p
-
-y
-
-s
-
-p
-
-a
-
-n
-
-i
-
-u
-
-n
-
-p
-
-r
-
-n
-
-t
-
-a
-
-u
-
-i
-
-l
-
-a
-
-a
-
-t
-
-a
-
-y
-
-a
-
-a
-
-o
-
-i
-
-a
-
-c
-
-q
-
-v
-
-,
-
-a
-
-k
-
-u
-
-k
-
-h
-
-q
-
-,
-
-i
-
-u
-
-a
-
-u
-
-q
-
-a
-
-u
-
-h
-
-a
-
-y
-
-a
-
-y
-
-u
-
-a
-
-k
-
-a
-
-a
-
-m
-
-p
-
-c
-
-s
-
-k
-
-c
-
-y
-
-u
-
-t
-
-c
-
-t
-
-c
-
-h
-
-u
-
-a
-
-i
-
-'
-
-h
-
-a
-
-u
-
-m
-
-y
-
-,
-
-a
-
-h
-
-a
-
-a
-
-i
-
-i
-
-y
-
-y
-
-i
-
-a
-
-l
-
-k
-
-w
-
-r
-
-a
-
-k
-
-n
-
-l
-
-k
-
-i
-
-u
-
-k
-
-a
-
-i
-
-u
-
-l
-
-u
-
-c
-
-k
-
-a
-
-a
-
-a
-
-'
-
-u
-
-i
-
-n
-
-p
-
-a
-
-y
-
-n
-
-h
-
-a
-
-s
-
-n
-
-q
-
-n
-
-i
-
-k
-
-d
-
-c
-
-i
-
-r
-
-l
-
-c
-
-a
-
-i
-
-s
-
-l
-
-p
-
-t
-
-k
-
-i
-
-u
-
-s
-
-h
-
-e
-
-a
-
-c
-
-a
-
-h
-
-l
-
-n
-
-'
-
-a
-
-a
-
-q
-
-r
-
-i
-
-p
-
-a
-
-h
-
-i
-
-s
-
-k
-
-q
-
-t
-
-q
-
-s
-
-y
-
-a
-
-i
-
-c
-
-u
-
-i
-
-e
-
-p
-
-u
-
-y
-
-a
-
-u
-
-i
-
-.
-
-a
-
-,
-
-n
-
-h
-
-r
-
-n
-
-k
-
-i
-
-n
-
-n
-
-o
-
-k
-
-a
-
-u
-
-c
-
-k
-
-a
-
-a
-
-r
-
-t
-
-u
-
-h
-
-k
-
-h
-
-y
-
-t
-
-h
-
-m
-
-u
-
-e
-
-u
-
-a
-
-q
-
-m
-
-a
-
-e
-
-a
-
-p
-
-i
-
-i
-
-k
-
-c
-
-s
-
-.
-
-q
-
-a
-
-a
-
-w
-
-y
-
-a
-
-u
-
-h
-
-a
-
-.
-
-a
-
-n
-
-n
-
-y
-
-k
-
-q
-
-K
-
-y
-
-s
-
-o
-
-n
-
-a
-
-i
-
-i
-
-n
-
-a
-
-u
-
-y
-
-n
-
-p
-
-a
-
-a
-
-t
-
-n
-
-r
-
-a
-
-k
-
-n
-
-a
-
-a
-
-a
-
-e
-
-i
-
-y
-
-k
-
-y
-
-t
-
-s
-
-u
-
-c
-
-a
-
-a
-
-k
-
-s
-
-k
-
-n
-
-a
-
-h
-
-y
-
-i
-
-u
-
-t
-
-s
-
-u
-
-d
-
-P
-
-i
-
-n
-
-a
-
-p
-
-y
-
-p
-
-p
-
-u
-
-u
-
-e
-
-q
-
-n
-
-y
-
-a
-
-l
-
-a
-
-u
-
-a
-
-i
-
-n
-
-u
-
-q
-
-s
-
-a
-
-a
-
-,
-
-n
-
-c
-
-q
-
-c
-
-r
-
-r
-
-h
-
-n
-
-l
-
-h
-
-i
-
-i
-
-h
-
-a
-
-a
-
-a
-
-a
-
-n
-
-a
-
-c
-
-a
-
-t
-
-u
-
-a
-
-a
-
-r
-
-l
-
-r
-
-k
-
-a
-
-r
-
-i
-
-h
-
-l
-
-i
-
-w
-
-y
-
-q
-
-i
-
-n
-
-m
-
-p
-
-n
-
-y
-
-a
-
-c
-
-k
-
-i
-
-a
-
-s
-
-a
-
-a
-
-'
-
-k
-
-t
-
-a
-
-n
-
-i
-
-u
-
-a
-
-a
-
-a
-
-o
-
-n
-
-c
-
-,
-
-u
-
-r
-
-k
-
-y
-
-m
-
-m
-
-n
-
-i
-
-h
-
-,
-
-i
-
-u
-
-s
-
-p
-
-y
-
-v
-
-a
-
-a
-
-i
-
-u
-
-;
-
-a
-
-a
-
-p
-
-n
-
-,
-
-i
-
-a
-
-a
-
-,
-
-t
-
-.
-
-a
-
-n
-
-p
-
-a
-
-d
-
-i
-
-n
-
-l
-
-s
-
-n
-
-m
-
-l
-
-k
-
-t
-
-i
-
-,
-
-i
-
-e
-
-q
-
-c
-
-u
-
-a
-
-c
-
-a
-
-a
-
-s
-
-a
-
-s
-
-a
-
-o
-
-a
-
-a
-
-m
-
-n
-
-a
-
-w
-
-u
-
-w
-
-c
-
-m
-
-l
-
-m
-
-p
-
-p
-
-e
-
-k
-
-u
-
-a
-
-s
-
-h
-
-n
-
-a
-
-t
-
-a
-
-a
-
-u
-
-s
-
-u
-
-k
-
-q
-
-a
-
-u
-
-a
-
-i
-
-i
-
-q
-
-y
-
-n
-
-n
-
-y
-
-u
-
-n
-
-k
-
-k
-
-l
-
-n
-
-c
-
-y
-
-i
-
-u
-
-u
-
-a
-
-k
-
-t
-
-i
-
-i
-
-h
-
-p
-
-a
-
-l
-
-n
-
-y
-
-s
-
-q
-
-n
-
-a
-
-a
-
-a
-
-k
-
-i
-
-i
-
-r
-
-q
-
-k
-
-t
-
-k
-
-q
-
-w
-
-s
-
-q
-
-q
-
-a
-
-i
-
-a
-
-o
-
-u
-
-a
-
-u
-
-l
-
-k
-
-t
-
-a
-
-s
-
-a
-
-m
-
-m
-
-a
-
-.
-
-t
-
-u
-
-n
-
-a
-
-y
-
-a
-
-a
-
-k
-
-a
-
-n
-
-a
-
-w
-
-n
-
-a
-
-y
-
-a
-
-k
-
-,
-
-u
-
-k
-
-u
-
-c
-
-a
-
-n
-
-i
-
-p
-
-k
-
-a
-
-p
-
-s
-
-u
-
-n
-
-r
-
-h
-
-u
-
-t
-
-u
-
-i
-
-i
-
-w
-
-r
-
-a
-
-q
-
-a
-
-y
-
-p
-
-a
-
-y
-
-i
-
-u
-
-n
-
-i
-
-y
-
-k
-
-q
-
-a
-
-m
-
-u
-
-a
-
-u
-
-n
-
-s
-
-p
-
-n
-
-a
-
-p
-
-u
-
-m
-
-t
-
-a
-
-q
-
-t
-
-a
-
-n
-
-i
-
-i
-
-u
-
-a
-
-a
-
-a
-
-a
-
-q
-
-n
-
-s
-
-i
-
-y
-
-.
-
-,
-
-,
-
-y
-
-w
-
-n
-
-a
-
-p
-
-p
-
-t
-
-p
-
-a
-
-n
-
-a
-
-8
-
-i
-
-i
-
-h
-
-,
-
-,
-
-a
-
-u
-
-q
-
-.
-
-c
-
-c
-
-r
-
-e
-
-l
-
-g
-
-n
-
-c
-
-p
-
-e
-
-c
-
-d
-
-q
-
-p
-
-d
-
-d
-
-g
-
-H
-
-e
-
-a
-
-a
+CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ## PREÁMBULO
 
-o
+En tiempos inmemoriales se erigieron montañas, se desplazaron ríos, se formaron lagos. Nuestra amazonia, nuestro chaco, nuestro altiplano y nuestros llanos y valles se cubrieron de verdores y flores. Poblamos esta sagrada Madre Tierra con rostros diferentes, y comprendimos desde entonces la pluralidad vigente de todas las cosas y nuestra diversidad como seres y culturas. Así conformamos nuestros pueblos, y jamás comprendimos el racismo hasta que lo sufrimos desde los funestos tiempos de la colonia.
 
-n
+El pueblo boliviano, de composición plural, desde la profundidad de la historia, inspirado en las luchas del pasado, en la sublevación indígena anticolonial, en la independencia, en las luchas populares de liberación, en las marchas indígenas, sociales y sindicales, en las guerras del agua y de octubre, en las luchas por la tierra y territorio, y con la memoria de nuestros mártires, construimos un nuevo Estado.
 
-t
+Un Estado basado en el respeto e igualdad entre todos, con principios de soberanía, dignidad, complementariedad, solidaridad, armonía y equidad en la distribución y redistribución del producto social, donde predomine la búsqueda del vivir bien; con respeto a la pluralidad económica, social, jurídica, política y cultural de los habitantes de esta tierra; en convivencia colectiva con acceso al agua, trabajo, educación, salud y vivienda para todos.
 
-a
+Dejamos en el pasado el Estado colonial, republicano y neoliberal. Asumimos el reto histórico de construir colectivamente el Estado Unitario Social de Derecho Plurinacional Comunitario, que integra y articula los propósitos de avanzar hacia una Bolivia democrática, productiva, portadora e inspiradora de la paz, comprometida con el desarrollo integral y con la libre determinación de los pueblos.
 
-s
+Nosotros, mujeres y hombres, a través de la Asamblea Constituyente y con el poder originario del pueblo, manifestamos nuestro compromiso con la unidad e integridad del país.
 
-,
+Cumpliendo el mandato de nuestros pueblos, con la fortaleza de nuestra Pachamama y gracias a Dios, refundamos Bolivia.
 
-s
+Honor y gloria a los mártires de la gesta constituyente y liberadora, que han hecho posible esta nueva historia
 
-t
+## QALLARINAPAQ ÑAWPAQ RIMARIY
 
-r
+Ñawpaq pachakunapi urqukuna parlaq kanku, mayupis puriq, qhuchata qhuchachaspa. Amazonia nisqa, chacos nisqa, altiplanos nisqa, llanos nisqa, vallesninchiqkuna ima q'umirkunawan, t'ikakunawan qhataykukurqanku. Kay pachamamapiqa tukuy laya runa llaqtachakurqa; chaymanta pacha tukuy laya kawsayniyuq kanku, kawsakunku. Ajinata llaqtanchista yurichinchis nitaq ñak'arichiy chiqninakuy karqachu. Jawa llaqtamanta runa chamusqanmanta pacha ñak'ariypi chiqninakuypi kawsarqanchis.
 
-o
+Bolivia suyuqa tukuy laya runakuy, ñawpaq kawsay sunqunmanta pacha, ñawpaq maqanakuypi, indigenasta ñak'arichisqankumanta uqharikuypi, sapanka machikuypi, mana ñak'arinapaq maqanakuypi, llaqta runa, tantasqa runa sindicales nisqa puriyninpi, yakumanta maqanakuypi qhuyaraymi killapi maqanakuypi, jallp'amanta ima maqanakuypi, wañusqakunata yuyarispa musuq Estadota uqharinchis.
 
-l
+Estado ka tukuy kikin kasqanpi sayakun, chantapis sapan yuyaychakun, yanapakuspa, aynikuspa k'achata tiyakuspa, amallapis tukuypaq kanan tiyan; sumaq kawsaypipuni kawsakunankutiyan, imatachus puquchikusan ku, imaynachus kanku, kamachiyninkuta, runaq kawsayninta ima yupaychaspa tukuywan k'achata tiyakunanchis tiyan; tukuypis yakuyuq, llank'anayuq, yachaqanayuq, wasiyuq, mana unqusqa ima kawsakunanchis tiyan.
 
-t
+Manaña Estado colonial, republicano, neoliberal nisqakunapi kawsasanchisñachu. Tukuyninchis Estado Unitario Social de Derecho Plurinacional comunitario nisqata uqharisanchis, jinamanta Bolivia suyunchispi tukuypis parlariyta atinankupaq, ñawpaqman thaskirinankupaq, mana maqanakuy kananpaq, chaykunata qhawarispa, tukuy llaqtakunapis kasqankumanjina kawsakunankupaq kay Estadota uqharinanchis tiyan.
 
-i
+Ñuqanchis, warmikuna qharikuna Asamblea Constituyentewan llaqtamanta atiyninwan uk sunqullawan kay Bolivianchista thaskirichinanchis tiyan.
 
-p
+Llaqtanchiskunaqpata kamachiyninta ruwaspa, pachamamaqpata kallpanwan, Apunchista pachinispa, watiqmanta Bolivianchista yurichinchis.
 
-l
+Pikunachus constituyente nisqata ñawpaqman thaskirichinku, musuq kawsayta quwasqanchismanta paykunata pachininchis.
 
-a
+Ministerio de la Presidencia - V.C.G.G
 
-n
+8
 
-o
-
-En t i s e m ñ a s d r í o s f l Nu a n c n a y n l y v s c de  verdores  y  flores.  Poblamos  esta  sagrada  Madre  Tierra  con  rostros  diferentes,  y d e l p v d t l c y n d s y c .   As í   c n p y j á s   c h q l s d l f t d l c
-
-u
-
-e
-
-b
-
-l
-
-o
-
-o
-
-l
-
-i
-
-v
-
-i
-
-a
-
-n
-
-o
-
-,
-
-e
-
-o
-
-m
-
-p
-
-o
-
-s
-
-i
-
-c
-
-l
-
-u
-
-r
-
-a
-
-l
-
-,
-
-e
-
-s
-
-d
-
-e
-
-a
-
-r
-
-o
-
-f
-
-u
-
-n
-
-d
-
-i
-
-d
-
-a
-
-d
-
-e
-
-a
-
-i
-
-s
-
-t
-
-o
-
-r
-
-i
-
-a
-
-,
-
-n
-
-s
-
-p
-
-i
-
-r
-
-a
-
-d
-
-o
-
-u
-
-n
-
-e
-
-s
-
-t
-
-o
-
-s
-
-i
-
-e
-
-m
-
-e
-
-a
-
-o
-
-l
-
-o
-
-n
-
-i
-
-a
-
-.
-
-s
-
-p
-
-o
-
-c
-
-i
-
-s
-
-m
-
-o
-
-a
-
-s
-
-t
-
-a
-
-u
-
-e
-
-o
-
-u
-
-f
-
-r
-
-i
-
-m
-
-o
-
-s
-
-e
-
-s
-
-d
-
-e
-
-o
-
-s
-
-El   p b d c i ó n p d l p d l h i l l d p e l s i ó n i í g a e l i e l p d l i ó n e l m i í g s y s e l d a y d o e l l p l t y t y c l m d m á r t i r c u n Es
-
-t
-
-a
-
-d
-
-o
-
-a
-
-s
-
-a
-
-d
-
-o
-
-n
-
-l
-
-e
-
-s
-
-p
-
-e
-
-t
-
-o
-
-g
-
-u
-
-a
-
-l
-
-d
-
-a
-
-d
-
-n
-
-t
-
-r
-
-e
-
-o
-
-d
-
-o
-
-s
-
-,
-
-o
-
-n
-
-r
-
-i
-
-n
-
-c
-
-i
-
-p
-
-i
-
-o
-
-s
-
-e
-
-o
-
-b
-
-e
-
-r
-
-a
-
-n
-
-,
-
-i
-
-g
-
-n
-
-i
-
-d
-
-a
-
-n
-
-o
-
-s
-
-t
-
-r
-
-u
-
-i
-
-m
-
-u
-
-e
-
-v
-
-o
-
-t
-
-a
-
-d
-
-o
-
-.
-
-u
-
-e
-
-s
-
-t
-
-r
-
-o
-
-s
-
-e
-
-s
-
-,
-
-o
-
-n
-
-s
-
-Un Es b e e r e i e t c p d s í a d s a í a y e e l d i ó n y r i ó n s d p l b ú s q d v b c r a l p ó m s j í d p í t i c y c d l h d e t e c c a a a t e i ó n s y v p t
-
-j
-
-a
-
-m
-
-o
-
-s
-
-n
-
-l
-
-a
-
-s
-
-a
-
-d
-
-o
-
-t
-
-a
-
-d
-
-o
-
-o
-
-l
-
-o
-
-n
-
-i
-
-a
-
-l
-
-,
-
-e
-
-p
-
-u
-
-b
-
-l
-
-i
-
-c
-
-a
-
-n
-
-o
-
-e
-
-o
-
-l
-
-i
-
-b
-
-e
-
-r
-
-a
-
-l
-
-.
-
-u
-
-m
-
-i
-
-m
-
-o
-
-s
-
-l
-
-e
-
-t
-
-o
-
-i
-
-s
-
-t
-
-j
-
-o
-
-,
-
-r
-
-a
-
-b
-
-a
-
-a
-
-a
-
-r
-
-a
-
-o
-
-d
-
-o
-
-s
-
-.
-
-d
-
-u
-
-c
-
-a
-
-c
-
-,
-
-a
-
-l
-
-u
-
-d
-
-i
-
-v
-
-i
-
-e
-
-n
-
-d
-
-o
-
-l
-
-e
-
-c
-
-t
-
-i
-
-v
-
-a
-
-o
-
-n
-
-c
-
-c
-
-e
-
-s
-
-o
-
-l
-
-g
-
-u
-
-a
-
-,
-
-De e e p e l  Es c r y n As e r h ó r i c c c e l  Es Un So d De P l  Co i y a l p ó s d a h u Bo d á t i c p e i d l p c c e d i y c l l i ó n d l p
-
-s
-
-o
-
-t
-
-r
-
-o
-
-s
-
-,
-
-u
-
-j
-
-e
-
-r
-
-e
-
-s
-
-o
-
-m
-
-b
-
-r
-
-e
-
-s
-
-,
-
-r
-
-a
-
-v
-
-e
-
-a
-
-a
-
-m
-
-b
-
-l
-
-e
-
-a
-
-n
-
-s
-
-t
-
-i
-
-t
-
-u
-
-y
-
-e
-
-n
-
-t
-
-e
-
-o
-
-n
-
-l
-
-o
-
-d
-
-e
-
-r
-
-s
-
-.
-
-e
-
-t
-
-e
-
-r
-
-m
-
-i
-
-n
-
-a
-
-c
-
-e
-
-o
-
-s
-
-u
-
-e
-
-b
-
-l
-
-o
-
-No m y h a t é s  d l As Co y c e p o p m n c c l u e i d p í s
-
-m
-
-p
-
-l
-
-i
-
-e
-
-n
-
-d
-
-o
-
-l
-
-a
-
-n
-
-d
-
-a
-
-t
-
-o
-
-e
-
-u
-
-e
-
-s
-
-t
-
-r
-
-o
-
-s
-
-u
-
-e
-
-b
-
-l
-
-o
-
-s
-
-,
-
-o
-
-n
-
-a
-
-o
-
-r
-
-t
-
-a
-
-l
-
-e
-
-z
-
-a
-
-e
-
-u
-
-e
-
-s
-
-t
-
-r
-
-a
-
-a
-
-c
-
-h
-
-a
-
-m
-
-a
-
-m
-
-a
-
-t
-
-r
-
-o
-
-o
-
-m
-
-p
-
-r
-
-o
-
-m
-
-i
-
-s
-
-o
-
-o
-
-n
-
-a
-
-n
-
-i
-
-d
-
-a
-
-d
-
-n
-
-t
-
-e
-
-g
-
-r
-
-i
-
-d
-
-a
-
-d
-
-e
-
-l
-
-a
-
-.
-
-e
-
-l
-
-u
-
-e
-
-b
-
-l
-
-o
-
-,
-
-a
-
-n
-
-i
-
-f
-
-e
-
-s
-
-t
-
-a
-
-m
-
-o
-
-s
-
-u
-
-e
-
-s
-
-Cu e m d n p c l f d n P y a Di o r Bo
-
-o
-
-n
-
-o
-
-r
-
-l
-
-o
-
-r
-
-i
-
-a
-
-o
-
-s
-
-e
-
-s
-
-e
-
-a
-
-e
-
-s
-
-t
-
-a
-
-o
-
-n
-
-s
-
-t
-
-i
-
-t
-
-u
-
-y
-
-e
-
-n
-
-t
-
-e
-
-i
-
-b
-
-e
-
-r
-
-a
-
-d
-
-o
-
-r
-
-a
-
-,
-
-u
-
-e
-
-a
-
-n
-
-e
-
-c
-
-h
-
-o
-
-l
-
-i
-
-v
-
-i
-
-a
-
-.
-
-i
-
-a
-
-s
-
-s
-
-,
-
-e
-
-f
-
-u
-
-n
-
-d
-
-a
-
-m
-
-o
-
-s
-
-y g a l m á r t i r d l g c y l q h h p n h
-
-F
-
-u
-
-n
-
-d
-
-a
-
-c
-
-o
-
-n
-
-r
-
-a
-
-d
-
-e
-
-n
-
-a
-
-u
-
-e
-
-r
-
-K
-
-o
-
-s
-
-r
-
-i
-
-g
-
-i
-
-n
-
-a
-
-d
-
-a
-
-,
-
-d
-
-i
-
-v
-
-i
-
-o
-
-o
-
-o
-
-o
-
-n
-
-u
-
-r
-
-c
-
-e
-
-u
-
-o
-
-r
-
-s
-
-s
-
-o
-
-a
-
-m
-
-m
-
-m
-
-o
-
-t
-
-e
-
-e
-
-r
-
-e
-
-a
-
-d
-
-t
-
-c
-
-n
-
-r
-
-a
-
-a
-
-s
-
-u
-
-p
-
-o
-
-p
-
-i
-
-o
-
-r
-
-u
-
-e
-
-n
-
-s
-
-d
-
-t
-
-a
-
-c
-
-r
-
-l
-
-n
-
-c
-
-r
-
-e
-
-m
-
-u
-
-e
-
-t
-
-o
-
-s
-
-h
-
-a
-
-s
-
-t
-
-e
-
-m
-
-e
-
-u
-
-n
-
-o
-
-r
-
-a
-
-e
-
-p
-
-t
-
-g
-
-a
-
-r
-
-v
-
-c
-
-d
-
-s
-
-r
-
-e
-
-o
-
-u
-
-i
-
-r
-
-e
-
-a
-
-h
-
-e
-
-c
-
-m
-
-i
-
-a
-
-n
-
-s
-
-m
-
-i
-
-o
-
-l
-
-a
-
-r
-
-a
-
-s
-
-t
-
-a
-
-c
-
-o
-
-,
-
-a
-
-s
-
-o
-
-i
-
-n
-
-z
-
-i
-
-n
-
-s
-
-p
-
-g
-
-r
-
-o
-
-s
-
-a
-
-o
-
-m
-
-i
-
-t
-
-s
-
-o
-
-u
-
-e
-
-u
-
-l
-
-l
-
-o
-
-e
-
-r
-
-n
-
-,
-
-e
-
-p
-
-c
-
-l
-
-d
-
-a
-
-e
-
-t
-
-r
-
-a
-
-c
-
-e
-
-i
-
-i
-
-l
-
-i
-
-u
-
-i
-
-i
-
-a
-
-c
-
-a
-
-m
-
-r
-
-a
-
-a
-
-t
-
-r
-
-s
-
-a
-
-l
-
-i
-
-o
-
-u
-
-,
-
-e
-
-d
-
-t
-
-l
-
-v
-
-d
-
-o
-
-,
-
-a
-
-u
-
-d
-
-n
-
-l
-
-s
-
-,
-
-a
-
-a
-
-e
-
-r
-
-s
-
-r
-
-o
-
-d
-
-u
-
-u
-
-i
-
-m
-
-e
-
-a
-
-a
-
-a
-
-r
-
-e
-
-r
-
-e
-
-o
-
-s
-
-o
-
-a
-
-e
-
-l
-
-d
-
-e
-
-n
-
-e
-
-s
-
-l
-
-s
-
-o
-
-i
-
-n
-
-c
-
-t
-
-s
-
-t
-
-d
-
-o
-
-r
-
-,
-
-i
-
-r
-
-t
-
-t
-
-b
-
-a
-
-o
-
-e
-
-e
-
-i
-
-e
-
-u
-
-n
-
-c
-
-r
-
-e
-
-r
-
-d
-
-b
-
-c
-
-o
-
-e
-
-a
-
-i
-
-n
-
-r
-
-d
-
-o
-
-r
-
-e
-
-a
-
-p
-
-,
-
-a
-
-h
-
-e
-
-a
-
-m
-
-s
-
-c
-
-a
-
-a
-
-,
-
-d
-
-r
-
-o
-
-c
-
-i
-
-i
-
-,
-
-a
-
-n
-
-a
-
-g
-
-o
-
-o
-
-l
-
-t
-
-n
-
-e
-
-z
-
-i
-
-a
-
-n
-
-u
-
-i
-
-,
-
-e
-
-t
-
-,
-
-d
-
-f
-
-r
-
-b
-
-o
-
-r
-
-l
-
-o
-
-m
-
-,
-
-u
-
-a
-
-o
-
-o
-
-l
-
-a
-
-s
-
-u
-
-e
-
-r
-
-r
-
-s
-
-n
-
-o
-
-m
-
-a
-
-o
-
-a
-
-e
-
-v
-
-n
-
-m
-
-n
-
-a
-
-l
-
-a
-
-e
-
-i
-
-u
-
-d
-
-c
-
-p
-
-m
-
-i
-
-c
-
-a
-
-t
-
-a
-
-r
-
-a
-
-h
-
-u
-
-s
-
-o
-
-o
-
-d
-
-v
-
-r
-
-a
-
-l
-
-s
-
-m
-
-a
-
-i
-
-t
-
-o
-
-s
-
-u
-
-n
-
-i
-
-e
-
-r
-
-u
-
-a
-
-g
-
-z
-
-a
-
-t
-
-n
-
-e
-
-r
-
-u
-
-e
-
-i
-
-a
-
-q
-
-o
-
-l
-
-d
-
-c
-
-d
-
-d
-
-e
-
-n
-
-r
-
-u
-
-r
-
-c
-
-h
-
-a
-
-a
-
-s
-
-t
-
-i
-
-e
-
-i
-
-a
-
-e
-
-d
-
-a
-
-t
-
-a
-
-a
-
-r
-
-s
-
-a
-
-l
-
-o
-
-o
-
-o
-
-c
-
-e
-
-d
-
-e
-
-s
-
-e
-
-i
-
-s
-
-n
-
-i
-
-n
-
-n
-
-e
-
-l
-
-e
-
-a
-
-e
-
-a
-
-d
-
-r
-
-u
-
-o
-
-r
-
-n
-
-a
-
-i
-
-a
-
-e
-
-u
-
-l
-
-d
-
-v
-
-n
-
-e
-
-b
-
-s
-
-e
-
-i
-
-a
-
-n
-
-a
-
-r
-
-s
-
-r
-
-a
-
-i
-
-t
-
-b
-
-t
-
-e
-
-s
-
-t
-
-e
-
-e
-
-p
-
-r
-
-a
-
-i
-
-o
-
-l
-
-c
-
-n
-
-c
-
-s
-
-l
-
-o
-
-e
-
-n
-
-a
-
-i
-
-a
-
-o
-
-s
-
-h
-
-a
-
-a
-
-e
-
-i
-
-s
-
-r
-
-t
-
-s
-
-z
-
-s
-
-l
-
-o
-
-e
-
-s
-
-r
-
-r
-
-l
-
-n
-
-,
-
-o
-
-i
-
-t
-
-a
-
-i
-
-r
-
-l
-
-,
-
-v
-
-s
-
-r
-
-t
-
-;
-
-a
-
-n
-
-o
-
-o
-
-r
-
-i
-
-i
-
-b
-
-o
-
-o
-
-n
-
-a
-
-i
-
-l
-
-r
-
-a
-
-l
-
-l
-
-o
-
-u
-
-u
-
-o
-
-s
-
-i
-
-n
-
-o
-
-o
-
-e
-
-o
-
-l
-
-c
-
-a
-
-a
-
-c
-
-,
-
-r
-
-s
-
-n
-
-,
-
-i
-
-e
-
-i
-
-m
-
-s
-
-n
-
-a
-
-n
-
-m
-
-s
-
-a
-
-n
-
-l
-
-t
-
-e
-
-e
-
-e
-
-t
-
-c
-
-a
-
-o
-
-s
-
-s
-
-g
-
-i
-
-s
-
-o
-
-a
-
-a
-
-c
-
-o
-
-p
-
-r
-
-u
-
-,
-
-n
-
-l
-
-r
-
-i
-
-a
-
-n
-
-l
-
-e
-
-e
-
-e
-
-e
-
-n
-
-l
-
-a
-
-t
-
-r
-
-s
-
-s
-
-o
-
-e
-
-a
-
-d
-
-r
-
-e
-
-i
-
-t
-
-a
-
-n
-
-r
-
-e
-
-d
-
-o
-
-a
-
-;
-
-d
-
-p
-
-o
-
-e
-
-i
-
-m
-
-s
-
-i
-
-o
-
-e
-
-r
-
-e
-
-c
-
-m
-
-t
-
-a
-
-n
-
-m
-
-p
-
-a
-
-n
-
-r
-
-n
-
-i
-
-a
-
-m
-
-v
-
-i
-
-,
-
-u
-
-r
-
-u
-
-b
-
-d
-
-l
-
-a
-
-e
-
-e
-
-e
-
-o
-
-b
-
-n
-
-u
-
-e
-
-o
-
-a
-
-r
-
-r
-
-n
-
-s
-
-l
-
-r
-
-r
-
-r
-
-o
-
-i
-
-u
-
-s
-
-c
-
-n
-
-n
-
-i
-
-i
-
-t
-
-o
-
-d
-
-,
-
-a
-
-e
-
-a
-
-n
-
-i
-
-r
-
-c
-
-v
-
-i
-
-d
-
-d
-
-i
-
-a
-
-b
-
-r
-
-m
-
-r
-
-i
-
-i
-
-a
-
-o
-
-a
-
-u
-
-v
-
-i
-
-n
-
-l
-
-r
-
-o
-
-a
-
-i
-
-e
-
-e
-
-d
-
-e
-
-n
-
-o
-
-,
-
-d
-
-c
-
-i
-
-,
-
-g
-
-r
-
-b
-
-t
-
-n
-
-s
-
-a
-
-o
-
-o
-
-l
-
-c
-
-d
-
-e
-
-s
-
-e
-
-n
-
-s
-
-a
-
-e
-
-i
-
-a
-
-.
-
-,
-
-l
-
-l
-
-Mi n d l P -  V. C. G. G
-
-i ó n K Ad ( AS)
+Fundación Konrad Adenauer (KAS)
 
 [[END OF PAGE 9]]
 
@@ -6576,52 +232,6 @@ i ó n K Ad ( AS)
 ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
-
-###### Juch'uy kamachiy 1.
-
-Bolivia uk Estado Social de Derecho Plurinacional Comunitario, yuyayniyuq, atiyniyuq, tukuy laya kawsayniyuq, descentralizasqa, autonomiakunayuq. Bolivia pluralidad nisqapi sayarin, chantapis yuyay atiyniyuq, qulqi jap'iy atiyniyuq, juchata qhaway atiyniyuq, parlay atiyniyuq.
-
-###### Juch'uy kamachiy 2.
-
-Kay  Constitucionmanjina  chantapis  jatun  kamachiymanjina,  naciones,  pueblos  indígena originario  campesinos  ñak'ariypi  kawsakuqtin  uk  sunqullawan  uk  Estadollata  qhawaspa, kamachiyninkumanjina kamachikunanku tiyan. Estado nacionkunamantawan pueblos indígena originario campesinokunamantawan autonomianta, autogobiernonta, kawsayninta, jallp'ayuq kananta ima qhawanan tiyan.
-
-###### Juch'uy kamachiy 3.
-
-Bolivia  suyuqa  tukuy  bolivianakunawan  bolivianokunawan,  chaqrakunamanta  runa,  tukuy waq parlayniyuqwan, tukuy afrobolivianokuna, tukuyninku Bolivia suyu kanku.
-
-###### Juch'uy kamachiy 4.
-
-Kasqanmanjina  Estado  allin  ñawiwan  qhawan,  ima  iñiyniyuq,  yupaychayniyuq    kanapaq kawsayninmanjina,  mana saruchaspa, mana juch'uychaspa.
-
-# EVO MORALES AYMA BOLIVIA SUYUQ KURAQ KAMACHIQNIN
-
-Chunka phisqayuq qhapaq inti raymi  killapi iskay waranqa qanchisniyuq watapi, Honorable Congreso  Nacional  nisqa,  Asamblea  Constituyente  nisqa  Estadoq  Kuraq  Kamachiynin wakichisqata jaywasqanta iskay chunka p'unchay qhaymiy killapi waranqa isq'uninyuq watapi Referéndum nisqawan kay Bolivia suyupi tiyaqkuna ari rikurqa.
-
-# ESTADOQ JATUN KAMACHIYNIN
-
-## UK KAQ JATUN PHATMA
-
-## ESTADOQ BASES FUNDAMENTALESNIN DERECHOS, DEBERES GARANTIASMANTAWAN
-
-### UK KAQ PHATMA ESTADOQ BASES FUNDAMENTALESNINMANTA
-
-#### UK KAQ JUCH'UY PHATMA ESTADOQ MODELON KASQANMANTA
-
-###### Artículo 1.
-
-Bolivia se constituye en un Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías. Bolivia  se  funda  en  la  pluralidad  y  el  pluralismo  político,  económico,  jurídico,  cultural  y lingüístico, dentro del proceso integrador del país.
-
-###### Artículo 2.
-
-Dada la existencia precolonial de las naciones y pueblos indígena originario campesinos y su dominio ancestral sobre sus territorios, se garantiza su libre determinación en el marco de la unidad del Estado, que consiste en su derecho a la autonomía, al autogobierno, a su cultura, al  reconocimiento de sus instituciones y a la consolidación de sus entidades territoriales, conforme a esta Constitución y la ley.
-
-###### Artículo 3.
-
-La nación boliviana está conformada por la totalidad de las bolivianas y los bolivianos, las naciones  y  pueblos  indígena  originario  campesinos,  y  las  comunidades  interculturales  y afrobolivianas que en conjunto constituyen el pueblo boliviano.
-
-###### Artículo 4.
-
-El Estado respeta y garantiza la libertad de religión y de creencias espirituales, de acuerdo con sus cosmovisiones. El Estado es independiente de la religión.
 
 # EVO MORALES AYMA PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
 
@@ -6637,6 +247,52 @@ Por cuanto, el Pueblo Boliviano a través del Referéndum de fecha 25 de enero d
 
 #### CAPÍTULO PRIMERO MODELO DE ESTADO
 
+###### Artículo 1.
+
+Bolivia se constituye en un Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías. Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y lingüístico, dentro del proceso integrador del país.
+
+###### Artículo 2.
+
+Dada la existencia precolonial de las naciones y pueblos indígena originario campesinos y su dominio ancestral sobre sus territorios, se garantiza su libre determinación en el marco de la unidad del Estado, que consiste en su derecho a la autonomía, al autogobierno, a su cultura, al reconocimiento de sus instituciones y a la consolidación de sus entidades territoriales, conforme a esta Constitución y la ley.
+
+###### Artículo 3.
+
+La nación boliviana está conformada por la totalidad de las bolivianas y los bolivianos, las naciones y pueblos indígena originario campesinos, y las comunidades interculturales y afrobolivianas que en conjunto constituyen el pueblo boliviano.
+
+###### Artículo 4.
+
+El Estado respeta y garantiza la libertad de religión y de creencias espirituales, de acuerdo con sus cosmovisiones. El Estado es independiente de la religión.
+
+# EVO MORALES AYMA BOLIVIA SUYUQ KURAQ KAMACHIQNIN
+
+Chunka phisqayuq qhapaq inti raymi killapi iskay waranqa qanchisniyuq watapi, Honorable Congreso Nacional nisqa, Asamblea Constituyente nisqa Estadoq Kuraq Kamachiynin wakichisqata jaywasqanta iskay chunka p'unchay qhaymiy killapi waranqa isq'uninyuq watapi Referéndum nisqawan kay Bolivia suyupi tiyaqkuna ari rikurqa.
+
+# ESTADOQ JATUN KAMACHIYNIN
+
+## UK KAQ JATUN PHATMA
+
+## ESTADOQ BASES FUNDAMENTALESNIN DERECHOS, DEBERES GARANTIASMANTAWAN
+
+### UK KAQ PHATMA ESTADOQ BASES FUNDAMENTALESNINMANTA
+
+#### UK KAQ JUCH'UY PHATMA ESTADOQ MODELON KASQANMANTA
+
+###### Juch'uy kamachiy 1.
+
+Bolivia uk Estado Social de Derecho Plurinacional Comunitario, yuyayniyuq, atiyniyuq, tukuy laya kawsayniyuq, descentralizasqa, autonomiakunayuq. Bolivia pluralidad nisqapi sayarin, chantapis yuyay atiyniyuq, qulqi jap'iy atiyniyuq, juchata qhaway atiyniyuq, parlay atiyniyuq.
+
+###### Juch'uy kamachiy 2.
+
+Kay Constitucionmanjina chantapis jatun kamachiymanjina, naciones, pueblos indígena originario campesinos ñak'ariypi kawsakuqtin uk sunqullawan uk Estadollata qhawaspa, kamachiyninkumanjina kamachikunanku tiyan. Estado nacionkunamantawan pueblos indígena originario campesinokunamantawan autonomianta, autogobiernonta, kawsayninta, jallp'ayuq kananta ima qhawanan tiyan.
+
+###### Juch'uy kamachiy 3.
+
+Bolivia suyuqa tukuy bolivianakunawan bolivianokunawan, chaqrakunamanta runa, tukuy waq parlayniyuqwan, tukuy afrobolivianokuna, tukuyninku Bolivia suyu kanku.
+
+###### Juch'uy kamachiy 4.
+
+Kasqanmanjina Estado allin ñawiwan qhawan, ima iñiyniyuq, yupaychayniyuq kanapaq kawsayninmanjina, mana saruchaspa, mana juch'uychaspa.
+
 Ministerio de la Presidencia - V.C.G.G
 
 9
@@ -6651,55 +307,19 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-###### Juch'uy kamachiy 5.
-
-- Castilla  simi,  chantapis  tukuy  simi  suyukunamanta,  chaqra  llaqtakunamanta  Estadoq simin rimaykunas  kanku. Aymara, araona, baure, bésiro, canichana, cavineño cayubaba, ch'acobo, chimán, ese ejja, guaraní, guarasu'we, guarayu, itonoma, leco, machajuyai kallawaya, machineri, maropa, mojeño - trinitario, mojeño - ignaciano, moré, mosetén, movima, pacawara, puquina, quechua, sirionó, tacana, tapiete, toromona, uru - chipaya, weenhayek, yaminawa, yuki, yuracaré y zamuco.
-
-- Plurinacional kuraq kamachiqwan jinataq isq'unin llaqtakunamanta kamachiqkuna iskay simillatapis parlarinanku tiyan. Ukqa castilla simi kanan tiyan, uktaq paykunamantaña, chantapis  ima  simitachus  llaqtankupi  parlakun  chay  kanman.  Gobiernos  autónomos nisqa ima simitachus llaqtankupi parlanku chay simita apaykachananku tiyan chantapis castilla simita.
-
-- Sullk'a kamachiqkuna mayqin simitachus llaqtankupi parlanku chayta parlananku tiyan.
-
-###### Juch'uy kamachiy 6.
-
-- Sucre kay Bolivia suyumanta capitalnin.
-
-- Bolivia suyuq simbolos nisqa bandera kinsa llimphiyuq, pukayuq, q'illuyuq, q'uminiyuq; Himno Nacional; escudo de armas; wiphala; escarapela; kantuta t'ika, patujú t'ika.
-
-#### ISAK KAQ JUCH'UY PHATMA ESTADOQ PRINCIPIOSNINMANTAWAN VALORESNINWAN FINESNINMANTAWAN
-
-###### Juch'uy kamachiy 7.
-
-Bolivia llaqta runapi yuyaychay kaskhan. Órganos del poder público llank'aynin, ruway atiynin chaymanta lluqsin.
-
-###### Juch'uy kamachiy 8.
-
-- Estado niwanchis, jinataq purichinanchista ama llulla, ama suwa kananchista niwanchis, sumaqta kawsananchista, ama maqanakuspa, sumaq kawsayta kawsakuspa.
-
-- Estado uklla kananchista, tukuy kikillan kananchista, mana pipis juch'uychasqa kananta niwanchis, jinallataq mana saruch'asqa, yanapakuspa, mink'akuspa, ama qhawarakuspa, ama maqanakuspa, tukuy imata qharipis warmipis ruwayta atisqanta yachaspa.
-
-###### Juch'uy kamachiy 9.
-
-Constitucion kamachiypi nisqanta ruwayniyuq, chantapis Estado kay ruwayniyuq:
-
-- Uk sociedad nisqa maypichus ama maqanakusqankuta aswanpis sumaqta tiyakunankuta qhawanan tiyan, ama qhawarasqa kaspa, ama sinchita llank'achikuspa llaqtakunamanta kayninkuta thaskirichispa.
-
-Ministerio de la Presidencia - V.C.G.G
-
-10
-
 ###### Artículo 5.
 
-- Son idiomas oficiales del Estado el castellano y todos los idiomas de las naciones y pueblos  indígena  originario  campesinos,  que  son  el  aymara,  araona,  baure,  bésiro, canichana,  cavineño,  cayubaba,  chácobo,  chimán,  ese  ejja,  guaraní,  guarasu'we, guarayu,  itonama,  leco,  machajuyai-kallawaya,  machineri,  maropa,  mojeño-trinitario, mojeño-ignaciano,  moré,  mosetén,  movima,  pacawara,  puquina,  quechua,  sirionó, tacana, tapiete, toromona, uru-chipaya, weenhayek, yaminawa, yuki, yuracaré y zamuco.
+I. Son idiomas oficiales del Estado el castellano y todos los idiomas de las naciones y pueblos indígena originario campesinos, que son el aymara, araona, baure, bésiro, canichana, cavineño, cayubaba, chácobo, chimán, ese ejja, guaraní, guarasu'we, guarayu, itonama, leco, machajuyai-kallawaya, machineri, maropa, mojeño-trinitario, mojeño-ignaciano, moré, mosetén, movima, pacawara, puquina, quechua, sirionó, tacana, tapiete, toromona, uru-chipaya, weenhayek, yaminawa, yuki, yuracaré y zamuco.
 
-- El Gobierno plurinacional y los gobiernos departamentales deben utilizar al menos dos idiomas oficiales. Uno de ellos debe ser el castellano, y el otro se decidirá tomando en cuenta el uso, la conveniencia, las circunstancias, las necesidades y preferencias de la población en su totalidad o del territorio en cuestión.
+II. El Gobierno plurinacional y los gobiernos departamentales deben utilizar al menos dos idiomas oficiales. Uno de ellos debe ser el castellano, y el otro se decidirá tomando en cuenta el uso, la conveniencia, las circunstancias, las necesidades y preferencias de la población en su totalidad o del territorio en cuestión.
 
-- Los demás gobiernos autónomos deben utilizar los idiomas propios de su territorio, y uno de ellos debe ser el castellano.
+Los demás gobiernos autónomos deben utilizar los idiomas propios de su territorio, y uno de ellos debe ser el castellano.
 
 ###### Artículo 6.
 
-- Sucre es la Capital de Bolivia.
+I. Sucre es la Capital de Bolivia.
 
-- Los símbolos del Estado son la bandera tricolor rojo, amarillo y verde; el himno boliviano; el escudo de armas; la wiphala; la escarapela; la flor de la kantuta y la flor del patujú.
+II. Los símbolos del Estado son la bandera tricolor rojo, amarillo y verde; el himno boliviano; el escudo de armas; la wiphala; la escarapela; la flor de la kantuta y la flor del patujú.
 
 #### CAPÍTULO SEGUNDO PRINCIPIOS, VALORES Y FINES DEL ESTADO
 
@@ -6709,15 +329,51 @@ La soberanía reside en el pueblo boliviano, se ejerce de forma directa y delega
 
 ###### Artículo 8.
 
-- El Estado asume y promueve como principios ético-morales de la sociedad plural: ama qhilla,  ama  llulla,  ama  suwa  (no  seas  flojo,  no  seas  mentiroso  ni  seas  ladrón),  suma qamaña (vivir bien), ñandereko (vida armoniosa), teko kavi (vida buena), ivi maraei (tierra sin mal) y qhapaj ñan (camino o vida noble).
+I. El Estado asume y promueve como principios ético-morales de la sociedad plural: ama qhilla, ama llulla, ama suwa (no seas flojo, no seas mentiroso ni seas ladrón), suma qamaña (vivir bien), ñandereko (vida armoniosa), teko kavi (vida buena), ivi maraei (tierra sin mal) y qhapaj ñan (camino o vida noble).
 
-- El Estado se sustenta en los valores de unidad, igualdad, inclusión, dignidad, libertad, solidaridad, reciprocidad, respeto, complementariedad, armonía, transparencia, equilibrio,  igualdad  de  oportunidades, equidad social y de género en la participación, bienestar  común,  responsabilidad,  justicia  social,  distribución  y  redistribución  de  los productos y bienes sociales, para vivir bien.
+II. El Estado se sustenta en los valores de unidad, igualdad, inclusión, dignidad, libertad, solidaridad, reciprocidad, respeto, complementariedad, armonía, transparencia, equilibrio, igualdad de oportunidades, equidad social y de género en la participación, bienestar común, responsabilidad, justicia social, distribución y redistribución de los productos y bienes sociales, para vivir bien.
 
 ###### Artículo 9.
 
 Son fines y funciones esenciales del Estado, además de los que establece la Constitución y la ley:
 
-- Constituir  una  sociedad  justa  y  armoniosa,  cimentada  en  la  descolonización, sin  discriminación  ni  explotación,  con  plena  justicia  social,  para  consolidar  las identidades plurinacionales.
+1. Constituir una sociedad justa y armoniosa, cimentada en la descolonización, sin discriminación ni explotación, con plena justicia social, para consolidar las identidades plurinacionales.
+
+###### Juch'uy kamachiy 5.
+
+I. Castilla simi, chantapis tukuy simi suyukunamanta, chaqra llaqtakunamanta Estadoq simin rimaykunas kanku. Aymara, araona, baure, bésiro, canichana, cavineño cayubaba, ch'acobo, chimán, ese ejja, guaraní, guarasu'we, guarayu, itonoma, leco, machajuyai - kallawaya, machineri, maropa, mojeño - trinitario, mojeño - ignaciano, moré, mosetén, movima, pacawara, puquina, quechua, sirionó, tacana, tapiete, toromona, uru - chipaya, weenhayek, yaminawa, yuki, yuracaré y zamuco.
+
+II. Plurinacional kuraq kamachiqwan jinataq isq'unin llaqtakunamanta kamachiqkuna iskay simillatapis parlarinanku tiyan. Ukqa castilla simi kanan tiyan, uktaq paykunamantaña, chantapis ima simitachus llaqtankupi parlakun chay kanman. Gobiernos autónomos nisqa ima simitachus llaqtankupi parlanku chay simita apaykachananku tiyan chantapis castilla simita.
+
+Sullk'a kamachiqkuna mayqin simitachus llaqtankupi parlanku chayta parlananku tiyan.
+
+###### Juch'uy kamachiy 6.
+
+I. Sucre kay Bolivia suyumanta capitalnin.
+
+II. Bolivia suyuq simbolos nisqa bandera kinsa llimphiyuq, pukayuq, q'illuyuq, q'uminiyuq; Himno Nacional; escudo de armas; wiphala; escarapela; kantuta t'ika, patujú t'ika.
+
+#### ISAK KAQ JUCH'UY PHATMA ESTADOQ PRINCIPIOSNINMANTAWAN VALORESNINWAN FINESNINMANTAWAN
+
+###### Juch'uy kamachiy 7.
+
+Bolivia llaqta runapi yuyaychay kaskhan. Órganos del poder público llank'aynin, ruway atiynin chaymanta lluqsin.
+
+###### Juch'uy kamachiy 8.
+
+I. Estado niwanchis, jinataq purichinanchista ama llulla, ama suwa kananchista niwanchis, sumaqta kawsananchista, ama maqanakuspa, sumaq kawsayta kawsakuspa.
+
+II. Estado uklla kananchista, tukuy kikillan kananchista, mana pipis juch'uychasqa kananta niwanchis, jinallataq mana saruch'asqa, yanapakuspa, mink'akuspa, ama qhawarakuspa, ama maqanakuspa, tukuy imata qharipis warmipis ruwayta atisqanta yachaspa.
+
+###### Juch'uy kamachiy 9.
+
+Constitucion kamachiypi nisqanta ruwayniyuq, chantapis Estado kay ruwayniyuq:
+
+1. Uk sociedad nisqa maypichus ama maqanakusqankuta aswanpis sumaqta tiyakunankuta qhawanan tiyan, ama qhawarasqa kaspa, ama sinchita llank'achikuspa llaqtakunamanta kayninkuta thaskirichispa.
+
+Ministerio de la Presidencia - V.C.G.G
+
+10
 
 Fundación Konrad Adenauer (KAS)
 
@@ -6725,6621 +381,99 @@ Fundación Konrad Adenauer (KAS)
 
 [[START OF PAGE 12]]
 
-y
+ESTADOQ KURAQ KAMACHIYNIN
 
-q
+CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-j
+2. Garantizar el bienestar, el desarrollo, la seguridad y la protección e igual dignidad de las personas, las naciones, los pueblos y las comunidades, y fomentar el respeto mutuo y el diálogo intracultural, intercultural y plurilingüe.
 
-i
+3. Reafirmar y consolidar la unidad del país, y preservar como patrimonio histórico y humano la diversidad plurinacional.
 
-n
+4. Garantizar el cumplimiento de los principios, valores, derechos y deberes reconocidos y consagrados en esta Constitución.
 
-a
+5. Garantizar el acceso de las personas a la educación, a la salud y al trabajo.
 
-t
-
-v
-
-i
-
-a
-
-u
-
-y
-
-u
-
-p
-
-i
-
-a
-
-ESTADOQ K URAQ K AMACH IYNIN
-
-n
-
-t
-
-a
-
-u
-
-k
-
-u
-
-y
-
-i
-
-y
-
-a
-
-k
-
-u
-
-n
-
-a
-
-n
-
-k
-
-u
-
-a
-
-t
-
-a
-
-h
-
-a
-
-w
-
-a
-
-s
-
-p
-
-a
-
-,
-
-h
-
-a
-
-s
-
-k
-
-i
-
-r
-
-i
-
-c
-
-h
-
-i
-
-s
-
-p
-
-q
-
-t
-
-a
-
-k
-
-u
-
-n
-
-a
-
-t
-
-a
-
-,
-
-u
-
-c
-
-h
-
-'
-
-u
-
-y
-
-l
-
-a
-
-q
-
-t
-
-a
-
-k
-
-u
-
-n
-
-,
-
-m
-
-a
-
-m
-
-a
-
-n
-
-t
-
-a
-
-p
-
-i
-
-s
-
-a
-
-r
-
-k
-
-'
-
-a
-
-s
-
-p
-
-a
-
-,
-
-- Al l i t t q t i j t s l j l y p i
-
-h
-
-i
-
-q
-
-n
-
-i
-
-n
-
-a
-
-k
-
-u
-
-s
-
-p
-
-a
-
-.
-
-- Bo i p k Bo s k y t
-
-n
-
-s
-
-t
-
-i
-
-t
-
-u
-
-c
-
-i
-
-o
-
-n
-
-p
-
-i
-
-r
-
-i
-
-n
-
-c
-
-i
-
-p
-
-i
-
-o
-
-s
-
-,
-
-a
-
-l
-
-q
-
-a
-
-y
-
-l
-
-i
-
-s
-
-q
-
-a
-
-n
-
-t
-
-a
-
-u
-
-p
-
-a
-
-y
-
-c
-
-h
-
-a
-
-n
-
-a
-
-n
-
-y
-
-n
-
-i
-
-y
-
-u
-
-q
-
-a
-
-r
-
-l
-
-a
-
-y
-
-n
-
-i
-
-y
-
-u
-
-o
-
-r
-
-e
-
-s
-
-,
-
-n
-
-a
-
-n
-
-i
-
-y
-
-a
-
-n
-
-.
-
-k
-
-a
-
-w
-
-s
-
-a
-
-- Co p v d d k r c a q t j j t
-
-t
-
-a
-
-h
-
-a
-
-w
-
-a
-
-n
-
-a
-
-n
-
-i
-
-y
-
-a
-
-n
-
-i
-
-n
-
-a
-
-t
-
-a
-
-q
-
-u
-
-n
-
-t
-
-'
-
-a
-
-c
-
-h
-
-i
-
-n
-
-a
-
-n
-
-i
-
-y
-
-y
-
-a
-
-c
-
-h
-
-a
-
-a
-
-n
-
-t
-
-a
-
-h
-
-a
-
-n
-
-t
-
-a
-
-p
-
-i
-
-s
-
-p
-
-a
-
-y
-
-k
-
-a
-
-c
-
-h
-
-a
-
-n
-
-- Ru y t j k t c l k
-
-i
-
-y
-
-a
-
-n
-
-.
-
-- Re n n s u a q t ñ a c q t
-
-t
-
-h
-
-a
-
-s
-
-k
-
-i
-
-r
-
-i
-
-c
-
-h
-
-i
-
-n
-
-a
-
-n
-
-p
-
-j
-
-a
-
-m
-
-u
-
-q
-
-k
-
-u
-
-n
-
-a
-
-i
-
-m
-
-a
-
-,
-
-###### Juch'uy kamachiy 10.
-
-l
-
-i
-
-v
-
-i
-
-a
-
-m
-
-a
-
-n
-
-a
-
-m
-
-a
-
-n
-
-i
-
-w
-
-a
-
-n
-
-c
-
-h
-
-i
-
-s
-
-q
-
-a
-
-- Bo ,   ñ u t w k y t
-
-l
-
-i
-
-v
-
-i
-
-a
-
-u
-
-y
-
-u
-
-a
-
-y
-
-h
-
-'
-
-a
-
-m
-
-p
-
-a
-
-t
-
-a
-
-p
-
-i
-
-s
-
-l
-
-l
-
-i
-
-n
-
-c
-
-h
-
-a
-
-n
-
-a
-
-p
-
-a
-
-q
-
-,
-
-h
-
-a
-
-n
-
-t
-
-a
-
-p
-
-i
-
-s
-
-t
-
-a
-
-d
-
-o
-
-q
-
-a
-
-y
-
-n
-
-i
-
-n
-
-t
-
-a
-
-a
-
-w
-
-s
-
-a
-
-k
-
-u
-
-y
-
-n
-
-i
-
-n
-
-c
-
-h
-
-i
-
-s
-
-t
-
-a
-
-u
-
-p
-
-a
-
-y
-
-c
-
-h
-
-a
-
-s
-
-p
-
-a
-
-h
-
-a
-
-s
-
-k
-
-i
-
-r
-
-i
-
-c
-
-h
-
-a
-
-c
-
-h
-
-a
-
-q
-
-a
-
-y
-
-n
-
-i
-
-n
-
-c
-
-h
-
-i
-
-s
-
-t
-
-a
-
-u
-
-k
-
-u
-
-y
-
-a
-
-- Bo s m c a c Es k s c j a m m m a ñ
-
-q
-
-h
-
-a
-
-w
-
-a
-
-n
-
-.
-
-- l m m k Bo s k t
-
-t
-
-i
-
-n
-
-,
-
-a
-
-y
-
-q
-
-i
-
-n
-
-a
-
-q
-
-a
-
-n
-
-a
-
-k
-
-u
-
-t
-
-a
-
-p
-
-i
-
-s
-
-a
-
-k
-
-u
-
-y
-
-t
-
-a
-
-a
-
-n
-
-a
-
-a
-
-y
-
-l
-
-i
-
-v
-
-i
-
-a
-
-u
-
-y
-
-u
-
-n
-
-c
-
-h
-
-i
-
-s
-
-p
-
-i
-
-a
-
-n
-
-a
-
-n
-
-c
-
-h
-
-u
-
-J
-
-a
-
-w
-
-a
-
-l
-
-a
-
-q
-
-t
-
-a
-
-m
-
-a
-
-n
-
-t
-
-a
-
-i
-
-l
-
-i
-
-t
-
-a
-
-r
-
-e
-
-s
-
-#### KINSA KAQ JUCH'UY PHATMA GOBIERNOQPATA SISTEMANMANTA
-
-###### Juch'uy kamachiy 11.
-
-l
-
-a
-
-y
-
-n
-
-i
-
-y
-
-u
-
-q
-
-a
-
-s
-
-q
-
-a
-
-n
-
-c
-
-h
-
-i
-
-s
-
-t
-
-a
-
-,
-
-h
-
-a
-
-i
-
-m
-
-i
-
-v
-
-i
-
-a
-
-u
-
-y
-
-u
-
-q
-
-a
-
-u
-
-k
-
-u
-
-y
-
-a
-
-y
-
-a
-
-k
-
-- Bo s t l r k q w i     s k a n
-
-a
-
-s
-
-q
-
-a
-
-n
-
-c
-
-h
-
-i
-
-c
-
-h
-
-i
-
-s
-
-.
-
-s
-
-t
-
-a
-
-,
-
-i
-
-w
-
-a
-
-n
-
-- De n k j q
-
-m
-
-o
-
-c
-
-r
-
-a
-
-c
-
-i
-
-a
-
-i
-
-s
-
-q
-
-a
-
-a
-
-y
-
-i
-
-n
-
-a
-
-m
-
-a
-
-n
-
-t
-
-a
-
-1
-
-.
-
-h
-
-i
-
-k
-
-l
-
-l
-
-a
-
-y
-
-l
-
-l
-
-a
-
-m
-
-a
-
-n
-
-r
-
-i
-
-s
-
-p
-
-j
-
-a
-
-t
-
-u
-
-n
-
-a
-
-n
-
-t
-
-a
-
-k
-
-u
-
-y
-
-p
-
-i
-
-,
-
-a
-
-v
-
-c
-
-c
-
-h
-
-i
-
-k
-
-u
-
-n
-
-:
-
-h
-
-a
-
-w
-
-a
-
-- Ch ñ a t c w K j t c p k t
-
-2
-
-.
-
-a
-
-b
-
-i
-
-l
-
-d
-
-o
-
-s
-
-p
-
-i
-
-a
-
-r
-
-l
-
-a
-
-r
-
-i
-
-s
-
-p
-
-a
-
-k
-
-h
-
-a
-
-p
-
-a
-
-y
-
-p
-
-a
-
-q
-
-c
-
-h
-
-h
-
-- As k n
-
-a
-
-m
-
-i
-
-a
-
-p
-
-c
-
-a
-
-h
-
-q
-
-i
-
-y
-
-s
-
-a
-
-k
-
-a
-
-p
-
-K
-
-a
-
-m
-
-a
-
-c
-
-h
-
-i
-
-y
-
-m
-
-a
-
-n
-
-j
-
-i
-
-n
-
-a
-
-q
-
-a
-
-,
-
-.
-
-3
-
-c
-
-a
-
-m
-
-p
-
-e
-
-s
-
-i
-
-n
-
-o
-
-k
-
-u
-
-n
-
-a
-
-###### Juch'uy kamachiy 12.
-
-t
-
-a
-
-d
-
-o
-
-q
-
-a
-
-k
-
-a
-
-y
-
-k
-
-u
-
-n
-
-p
-
-a
-
-u
-
-k
-
-n
-
-i
-
-n
-
-l
-
-l
-
-a
-
-k
-
-'
-
-a
-
-- Es i Le Ej e l El e Sa i
-
-n
-
-a
-
-.
-
-a
-
-n
-
-m
-
-a
-
-n
-
-j
-
-i
-
-i
-
-s
-
-q
-
-- t a n p i í g o k n k s
-
-t
-
-'
-
-a
-
-q
-
-a
-
-k
-
-u
-
-n
-
-:
-
-g
-
-o
-
-,
-
-J
-
-u
-
-d
-
-i
-
-j
-
-i
-
-n
-
-a
-
-a
-
-m
-
-a
-
-c
-
-h
-
-i
-
-q
-
-j
-
-i
-
-n
-
-a
-
-u
-
-t
-
-i
-
-c
-
-h
-
-a
-
-s
-
-q
-
-a
-
-.
-
-a
-
-c
-
-h
-
-i
-
-y
-
-n
-
-i
-
-n
-
-i
-
-s
-
-q
-
-a
-
-n
-
-m
-
-a
-
-n
-
-a
-
-m
-
-,
-
-c
-
-u
-
-t
-
-i
-
-v
-
-q
-
-k
-
-a
-
-n
-
-k
-
-u
-
-,
-
-p
-
-i
-
-s
-
-l
-
-a
-
-t
-
-i
-
-v
-
-o
-
-e
-
-r
-
-o
-
-u
-
-k
-
-y
-
-u
-
-y
-
-a
-
-y
-
-l
-
-l
-
-a
-
-m
-
-a
-
-n
-
-c
-
-h
-
-a
-
-y
-
-a
-
-Mi n d l P -  V. C. G. G
-
-i
-
-s
-
-t
-
-e
-
-r
-
-i
-
-o
-
-e
-
-a
-
-r
-
-e
-
-s
-
-i
-
-d
-
-e
-
-n
-
-c
-
-i
-
-a
-
-n
-
-a
-
-n
-
-k
-
-u
-
-t
-
-a
-
-m
-
-a
-
-s
-
-c
-
-i
-
-a
-
-c
-
-t
-
-o
-
-r
-
-a
-
-w
-
-a
-
-n
-
-i
-
-k
-
-l
-
-l
-
-a
-
-s
-
-q
-
-a
-
-n
-
-k
-
-u
-
-p
-
-i
-
-,
-
-k
-
-a
-
-m
-
-a
-
-c
-
-h
-
-i
-
-q
-
-k
-
-u
-
-n
-
-a
-
-t
-
-a
-
-c
-
-h
-
-h
-
-i
-
-k
-
-l
-
-l
-
-a
-
-y
-
-n
-
-i
-
-q
-
-t
-
-a
-
-t
-
-u
-
-k
-
-i
-
-l
-
-d
-
-u
-
-p
-
-i
-
-,
-
-a
-
-,
-
-r
-
-n
-
-a
-
-a
-
-c
-
-h
-
-a
-
-q
-
-a
-
-n
-
-a
-
-n
-
-i
-
-y
-
-a
-
-n
-
-,
-
-a
-
-m
-
-p
-
-i
-
-n
-
-a
-
-w
-
-a
-
-s
-
-i
-
-y
-
-u
-
-q
-
-a
-
-n
-
-a
-
-n
-
-i
-
-y
-
-a
-
-n
-
-,
-
-h
-
-a
-
-n
-
-t
-
-a
-
-p
-
-i
-
-s
-
-l
-
-a
-
-n
-
-k
-
-'
-
-a
-
-y
-
-n
-
-i
-
-y
-
-u
-
-q
-
-a
-
-e
-
-r
-
-e
-
-c
-
-h
-
-o
-
-s
-
-,
-
-e
-
-b
-
-e
-
-r
-
-e
-
-s
-
-t
-
-a
-
-w
-
-a
-
-n
-
-a
-
-y
-
-n
-
-i
-
-n
-
-k
-
-u
-
-t
-
-a
-
-k
-
-y
-
-6
-
-5
-
-4
-
-3
-
-2
-
-a
-
-a
-
-.
-
-.
-
-.
-
-.
-
-.
-
-n
-
-n
-
-m
-
-a
-
-c
-
-K
-
-K
-
-r
-
-w
-
-c
-
-u
-
-p
-
-h
-
-a
-
-a
-
-a
-
-a
-
-n
-
-a
-
-a
-
-n
-
-y
-
-y
-
-c
-
-q
-
-a
-
-r
-
-n
-
-u
-
-k
-
-i
-
-t
-
-k
-
-t
-
-a
-
-r
-
-u
-
-a
-
-u
-
-s
-
-h
-
-,
-
-n
-
-p
-
-o
-
-n
-
-a
-
-a
-
-i
-
-s
-
-k
-
-s
-
-l
-
-y
-
-w
-
-i
-
-u
-
-v
-
-u
-
-,
-
-q
-
-y
-
-a
-
-i
-
-a
-
-a
-
-i
-
-a
-
-u
-
-n
-
-m
-
-m
-
-t
-
-k
-
-u
-
-a
-
-a
-
-a
-
-u
-
-s
-
-r
-
-q
-
-a
-
-c
-
-y
-
-a
-
-r
-
-.
-
-t
-
-n
-
-n
-
-u
-
-a
-
-a
-
-k
-
-h
-
-a
-
-n
-
-q
-
-p
-
-c
-
-a
-
-y
-
-l
-
-h
-
-'
-
-c
-
-e
-
-a
-
-n
-
-i
-
-,
-
-a
-
-h
-
-t
-
-u
-
-y
-
-h
-
-a
-
-a
-
-s
-
-n
-
-a
-
-i
-
-n
-
-u
-
-s
-
-u
-
-y
-
-,
-
-t
-
-k
-
-c
-
-a
-
-p
-
-k
-
-s
-
-s
-
-u
-
-h
-
-u
-
-p
-
-i
-
-u
-
-l
-
-u
-
-a
-
-s
-
-q
-
-a
-
-u
-
-i
-
-n
-
-i
-
-r
-
-s
-
-c
-
-m
-
-q
-
-n
-
-s
-
-a
-
-k
-
-a
-
-h
-
-a
-
-a
-
-u
-
-,
-
-a
-
-s
-
-t
-
-a
-
-t
-
-n
-
-a
-
-u
-
-y
-
-q
-
-u
-
-a
-
-l
-
-y
-
-l
-
-j
-
-k
-
-k
-
-a
-
-a
-
-t
-
-y
-
-k
-
-u
-
-a
-
-l
-
-q
-
-u
-
-w
-
-u
-
-l
-
-h
-
-a
-
-e
-
-q
-
-u
-
-a
-
-t
-
-c
-
-n
-
-a
-
-a
-
-a
-
-p
-
-f
-
-i
-
-l
-
-m
-
-t
-
-h
-
-y
-
-e
-
-l
-
-a
-
-w
-
-u
-
-n
-
-a
-
-u
-
-a
-
-k
-
-u
-
-r
-
-m
-
-a
-
-r
-
-k
-
-s
-
-r
-
-n
-
-a
-
-e
-
-a
-
-n
-
-i
-
-,
-
-u
-
-q
-
-s
-
-u
-
-p
-
-n
-
-a
-
-n
-
-w
-
-.
-
-n
-
-p
-
-a
-
-a
-
-n
-
-d
-
-a
-
-s
-
-a
-
-a
-
-,
-
-k
-
-n
-
-t
-
-o
-
-a
-
-s
-
-m
-
-a
-
-a
-
-.
-
-a
-
-n
-
-w
-
-y
-
-k
-
-l
-
-n
-
-a
-
-i
-
-i
-
-l
-
-l
-
-a
-
-u
-
-y
-
-q
-
-a
-
-l
-
-a
-
-r
-
-a
-
-y
-
-u
-
-a
-
-c
-
-u
-
-a
-
-n
-
-t
-
-n
-
-q
-
-u
-
-n
-
-n
-
-a
-
-i
-
-m
-
-w
-
-n
-
-a
-
-p
-
-o
-
-t
-
-q
-
-t
-
-k
-
-,
-
-a
-
-.
-
-n
-
-a
-
-i
-
-n
-
-a
-
-a
-
-w
-
-u
-
-s
-
-k
-
-k
-
-k
-
-w
-
-k
-
-c
-
-,
-
-u
-
-a
-
-u
-
-u
-
-u
-
-h
-
-q
-
-a
-
-n
-
-n
-
-p
-
-u
-
-n
-
-y
-
-i
-
-a
-
-h
-
-t
-
-y
-
-a
-
-a
-
-i
-
-t
-
-k
-
-a
-
-q
-
-m
-
-m
-
-a
-
-a
-
-w
-
-q
-
-h
-
-w
-
-m
-
-p
-
-w
-
-a
-
-a
-
-u
-
-a
-
-a
-
-a
-
-r
-
-a
-
-a
-
-a
-
-n
-
-p
-
-n
-
-a
-
-i
-
-n
-
-y
-
-p
-
-t
-
-r
-
-n
-
-p
-
-j
-
-t
-
-i
-
-k
-
-k
-
-i
-
-i
-
-m
-
-k
-
-i
-
-a
-
-n
-
-n
-
-t
-
-i
-
-s
-
-u
-
-a
-
-s
-
-u
-
-a
-
-a
-
-a
-
-a
-
-a
-
-n
-
-c
-
-u
-
-n
-
-l
-
-q
-
-a
-
-h
-
-l
-
-e
-
-,
-
-y
-
-a
-
-k
-
-i
-
-a
-
-n
-
-a
-
-a
-
-n
-
-n
-
-a
-
-b
-
-a
-
-t
-
-i
-
-n
-
-r
-
-k
-
-i
-
-a
-
-n
-
-j
-
-t
-
-t
-
-n
-
-y
-
-l
-
-m
-
-n
-
-i
-
-a
-
-u
-
-a
-
-o
-
-i
-
-n
-
-a
-
-n
-
-a
-
-a
-
-a
-
-p
-
-n
-
-s
-
-i
-
-a
-
-k
-
-n
-
-n
-
-p
-
-p
-
-p
-
-a
-
-l
-
-m
-
-u
-
-q
-
-i
-
-t
-
-k
-
-l
-
-a
-
-a
-
-s
-
-y
-
-i
-
-a
-
-s
-
-a
-
-n
-
-n
-
-a
-
-h
-
-a
-
-n
-
-p
-
-c
-
-a
-
-c
-
-p
-
-n
-
-d
-
-m
-
-a
-
-h
-
-n
-
-a
-
-a
-
-n
-
-h
-
-a
-
-t
-
-w
-
-a
-
-t
-
-k
-
-,
-
-a
-
-h
-
-.
-
-a
-
-a
-
-a
-
-u
-
-m
-
-k
-
-a
-
-a
-
-c
-
-n
-
-t
-
-s
-
-u
-
-i
-
-w
-
-k
-
-h
-
-e
-
-t
-
-i
-
-k
-
-a
-
-a
-
-a
-
-a
-
-y
-
-p
-
-y
-
-u
-
-i
-
-n
-
-i
-
-i
-
-a
-
-n
-
-y
-
-w
-
-q
-
-n
-
-a
-
-n
-
-p
-
-a
-
-s
-
-a
-
-a
-
-n
-
-k
-
-t
-
-t
-
-a
-
-n
-
-i
-
-,
-
-i
-
-p
-
-a
-
-r
-
-a
-
-s
-
-y
-
-u
-
-a
-
-u
-
-u
-
-h
-
-p
-
-a
-
-a
-
-a
-
-t
-
-n
-
-n
-
-y
-
-k
-
-j
-
-w
-
-c
-
-a
-
-a
-
-l
-
-n
-
-i
-
-,
-
-i
-
-p
-
-r
-
-a
-
-q
-
-y
-
-a
-
-n
-
-m
-
-'
-
-h
-
-n
-
-a
-
-q
-
-c
-
-i
-
-p
-
-a
-
-n
-
-i
-
-g
-
-q
-
-w
-
-a
-
-p
-
-r
-
-a
-
-a
-
-w
-
-i
-
-h
-
-u
-
-t
-
-s
-
-.
-
-a
-
-a
-
-u
-
-a
-
-n
-
-y
-
-i
-
-i
-
-a
-
-l
-
-n
-
-u
-
-m
-
-n
-
-u
-
-a
-
-y
-
-s
-
-n
-
-k
-
-l
-
-i
-
-k
-
-a
-
-q
-
-a
-
-n
-
-n
-
-m
-
-k
-
-a
-
-s
-
-p
-
-.
-
-r
-
-u
-
-q
-
-a
-
-n
-
-h
-
-n
-
-u
-
-a
-
-a
-
-m
-
-u
-
-n
-
-n
-
-t
-
-a
-
-t
-
-a
-
-s
-
-i
-
-q
-
-a
-
-a
-
-a
-
-n
-
-a
-
-a
-
-a
-
-c
-
-y
-
-r
-
-s
-
-p
-
-n
-
-,
-
-.
-
-,
-
-,
-
-,
-
-i
-
-a
-
-h
-
-o
-
-a
-
-t
-
-a
-
-n
-
-u
-
-,
-
-11
-
-i
-
-3
-
-a
-
-e
-
-p
-
-e
-
-n
-
-d
-
-e
-
-n
-
-c
-
-i
-
-a
-
-a
-
-n
-
-t
-
-e
-
-g
-
-r
-
-i
-
-d
-
-a
-
-d
-
-e
-
-t
-
-a
-
-d
-
-o
-
-l
-
-a
-
-a
-
-d
-
-e
-
-l
-
-r
-
-e
-
-c
-
-o
-
-n
-
-o
-
-c
-
-i
-
-d
-
-o
-
-s
-
-o
-
-n
-
-s
-
-a
-
-g
-
-r
-
-a
-
-d
-
-o
-
-s
-
-n
-
-s
-
-t
-
-a
-
-n
-
-s
-
-t
-
-i
-
-t
-
-u
-
-c
-
-.
-
-CONSTITUCIÓN P OLÍ TICA DEL ESTADO
-
-r
-
-a
-
-n
-
-t
-
-i
-
-z
-
-a
-
-r
-
-l
-
-i
-
-e
-
-n
-
-e
-
-s
-
-t
-
-a
-
-r
-
-,
-
-l
-
-e
-
-s
-
-a
-
-r
-
-r
-
-o
-
-l
-
-l
-
-o
-
-,
-
-a
-
-e
-
-g
-
-u
-
-r
-
-i
-
-d
-
-a
-
-d
-
-a
-
-a
-
-c
-
-i
-
-o
-
-n
-
-e
-
-s
-
-,
-
-o
-
-s
-
-u
-
-e
-
-b
-
-l
-
-o
-
-s
-
-a
-
-s
-
-o
-
-m
-
-u
-
-n
-
-r
-
-o
-
-t
-
-e
-
-c
-
-c
-
-g
-
-u
-
-a
-
-l
-
-- Ga e b e d l s y l p i ó n e i d l p l n l p y l c y f e r y e d i á l o i i y p ü e
-
-t
-
-e
-
-r
-
-c
-
-u
-
-l
-
-t
-
-u
-
-r
-
-a
-
-l
-
-l
-
-u
-
-r
-
-i
-
-l
-
-i
-
-n
-
-g
-
-.
-
-u
-
-t
-
-u
-
-o
-
-l
-
-o
-
-n
-
-t
-
-r
-
-a
-
-c
-
-u
-
-l
-
-t
-
-u
-
-r
-
-a
-
-l
-
-,
-
-n
-
-g
-
-m
-
-- Reafirmar y consolidar la unidad del país, y preservar como patrimonio histórico y l d p
-
-.
-
-r
-
-a
-
-n
-
-t
-
-i
-
-z
-
-a
-
-r
-
-e
-
-c
-
-u
-
-m
-
-p
-
-l
-
-i
-
-m
-
-i
-
-e
-
-n
-
-t
-
-o
-
-d
-
-e
-
-l
-
-o
-
-s
-
-p
-
-r
-
-i
-
-n
-
-c
-
-i
-
-p
-
-i
-
-o
-
-s
-
-u
-
-m
-
-a
-
-n
-
-o
-
-a
-
-i
-
-v
-
-e
-
-r
-
-s
-
-i
-
-d
-
-a
-
-d
-
-l
-
-u
-
-r
-
-i
-
-n
-
-a
-
-c
-
-i
-
-o
-
-n
-
-a
-
-l
-
-.
-
-- Ga l y c e e Co i ó n
-
-- Ga e a d l p a l e i ó n a l s y a t
-
-n
-
-a
-
-t
-
-u
-
-r
-
-a
-
-l
-
-e
-
-s
-
-,
-
-m
-
-p
-
-u
-
-l
-
-s
-
-a
-
-r
-
-u
-
-n
-
-d
-
-u
-
-s
-
-t
-
-r
-
-i
-
-a
-
-l
-
-i
-
-z
-
-a
-
-c
-
-,
-
-r
-
-a
-
-v
-
-e
-
-l
-
-e
-
-s
-
-a
-
-r
-
-r
-
-o
-
-l
-
-l
-
-o
-
-e
-
-l
-
-o
-
-r
-
-t
-
-a
-
-l
-
-e
-
-c
-
-i
-
-m
-
-i
-
-e
-
-n
-
-t
-
-o
-
-.
-
-r
-
-a
-
-n
-
-t
-
-i
-
-z
-
-a
-
-r
-
-l
-
-c
-
-c
-
-e
-
-s
-
-o
-
-e
-
-a
-
-s
-
-e
-
-r
-
-s
-
-o
-
-n
-
-a
-
-s
-
-a
-
-d
-
-u
-
-c
-
-a
-
-c
-
-,
-
-a
-
-a
-
-l
-
-u
-
-d
-
-l
-
-r
-
-a
-
-b
-
-a
-
-j
-
-o
-
-.
-
-5
-
-- Promover y garantizar el aprovechamiento responsable y planificado de los recursos e i s i i ó n a t é s  d d y d f d b p e s d d y n a í  c l c i ó n m a p e b d l g a y f .
+6. Promover y garantizar el aprovechamiento responsable y planificado de los recursos naturales, e impulsar su industrialización, a través del desarrollo y del fortalecimiento de la base productiva en sus diferentes dimensiones y niveles, así como la conservación del medio ambiente, para el bienestar de las generaciones actuales y futuras.
 
 ###### Artículo 10.
 
-c
+I. Bolivia es un Estado pacifista, que promueve la cultura de la paz y el derecho a la paz, así como la cooperación entre los pueblos de la región y del mundo, a fin de contribuir al conocimiento mutuo, al desarrollo equitativo y a la promoción de la interculturalidad, con pleno respeto a la soberanía de los estados.
 
-o
+II. Bolivia rechaza toda guerra de agresión como instrumento de solución a los diferendos y conflictos entre estados y se reserva el derecho a la legítima defensa en caso de agresión que comprometa la independencia y la integridad del Estado.
 
-n
-
-o
-
-c
-
-i
-
-m
-
-p
-
-n
-
-e
-
-l
-
-- Bolivia es un Estado pacifista, que promueve la cultura de la paz y el derecho a la paz, así como la cooperación entre los pueblos de la región y del mundo, a fin de contribuir al m a d e y a l p i ó n d l i c r a l s í a d l e
-
-l
-
-i
-
-v
-
-i
-
-a
-
-e
-
-c
-
-h
-
-a
-
-z
-
-a
-
-o
-
-d
-
-a
-
-u
-
-e
-
-r
-
-r
-
-a
-
-e
-
-g
-
-r
-
-e
-
-s
-
-o
-
-m
-
-o
-
-n
-
-s
-
-t
-
-r
-
-u
-
-m
-
-e
-
-n
-
-t
-
-o
-
-e
-
-o
-
-l
-
-u
-
-c
-
-o
-
-s
-
-i
-
-f
-
-e
-
-r
-
-e
-
-n
-
-d
-
-o
-
-s
-
-o
-
-s
-
-t
-
-e
-
-a
-
-d
-
-o
-
-s
-
-.
-
-n
-
-a
-
-r
-
-e
-
-b
-
-o
-
-a
-
-o
-
-t
-
-e
-
-p
-
-s
-
-e
-
-o
-
-- Bo r t g d a i ó n c i d s i ó n a l d y  conflictos  entre  estados  y  se  reserva  el  derecho  a  la  legítima  defensa  en  caso  de i ó n q c l i y l i d l  Es
-
-g
-
-r
-
-e
-
-s
-
-u
-
-e
-
-o
-
-m
-
-p
-
-r
-
-o
-
-m
-
-e
-
-t
-
-a
-
-a
-
-n
-
-d
-
-- III Se p í b l i i ó n d b m e e t b
-
-.
-
-r
-
-o
-
-h
-
-e
-
-a
-
-n
-
-s
-
-t
-
-a
-
-l
-
-a
-
-c
-
-e
-
-a
-
-s
-
-e
-
-s
-
-i
-
-l
-
-i
-
-t
-
-a
-
-r
-
-e
-
-s
-
-x
-
-t
-
-r
-
-a
-
-n
-
-j
-
-e
-
-r
-
-a
-
-s
-
-n
-
-e
-
-r
-
-r
-
-i
-
-t
-
-o
-
-r
-
-i
-
-o
+III. Se prohíbe la instalación de bases militares extranjeras en territorio boliviano.
 
 #### CAPÍTULO TERCERO SISTEMA DE GOBIERNO
 
 ###### Artículo 11.
 
-p
+I. La República de Bolivia adopta para su gobierno la forma democrática participativa, representativa y comunitaria, con equivalencia de condiciones entre hombres y mujeres.
 
-r
+II. La democracia se ejerce de las siguientes formas, que serán desarrolladas por la ley:
 
-a
+1. Directa y participativa, por medio del referendo, la iniciativa legislativa ciudadana, la revocatoria de mandato, la asamblea, el cabildo y la consulta previa. Las asambleas y cabildos tendrán carácter deliberativo conforme a Ley.
 
-r
+2. Representativa, por medio de la elección de representantes por voto universal, directo y secreto, conforme a Ley.
 
-i
-
-a
-
-,
-
-d
-
-o
-
-p
-
-t
-
-a
-
-a
-
-r
-
-a
-
-u
-
-o
-
-b
-
-i
-
-e
-
-r
-
-n
-
-o
-
-o
-
-n
-
-q
-
-u
-
-i
-
-v
-
-a
-
-l
-
-e
-
-n
-
-c
-
-i
-
-- La Re ú b l i c d Bo a p s g l f d á t i c p y c c e d c e h y m
-
-a
-
-e
-
-o
-
-n
-
-d
-
-i
-
-c
-
-i
-
-o
-
-n
-
-e
-
-s
-
-n
-
-t
-
-r
-
-e
-
-o
-
-m
-
-b
-
-r
-
-e
-
-s
-
-u
-
-j
-
-e
-
-r
-
-e
-
-p
-
-r
-
-e
-
-s
-
-e
-
-n
-
-t
-
-a
-
-t
-
-i
-
-v
-
-a
-
-o
-
-m
-
-u
-
-n
-
-i
-
-t
-
-- La d s e d l s f q s r á n  d p l l
-
-1
-
-.
-
-e
-
-c
-
-t
-
-a
-
-a
-
-r
-
-t
-
-i
-
-c
-
-i
-
-p
-
-a
-
-t
-
-i
-
-v
-
-a
-
-,
-
-o
-
-r
-
-e
-
-d
-
-i
-
-o
-
-e
-
-l
-
-e
-
-f
-
-e
-
-r
-
-e
-
-n
-
-d
-
-o
-
-,
-
-a
-
-n
-
-i
-
-c
-
-i
-
-a
-
-t
-
-i
-
-v
-
-a
-
-e
-
-g
-
-i
-
-s
-
-l
-
-a
-
-t
-
-i
-
-v
-
-a
-
-i
-
-u
-
-d
-
-a
-
-d
-
-a
-
-n
-
-a
-
-e
-
-a
-
-s
-
-i
-
-g
-
-u
-
-i
-
-e
-
-n
-
-t
-
-e
-
-s
-
-o
-
-r
-
-m
-
-a
-
-s
-
-,
-
-u
-
-e
-
-e
-
-e
-
-s
-
-a
-
-r
-
-r
-
-o
-
-l
-
-l
-
-a
-
-d
-
-a
-
-s
-
-o
-
-r
-
-a
-
-e
-
-e
-
-m
-
-o
-
-c
-
-r
-
-a
-
-c
-
-i
-
-a
-
-e
-
-j
-
-e
-
-r
-
-c
-
-e
-
-- Di r y p p m d r l i l c l d m l a e c y l c p La a c t r á n  c r á c t e d c a Le
-
-2
-
-.
-
-p
-
-r
-
-e
-
-s
-
-e
-
-n
-
-t
-
-a
-
-t
-
-i
-
-v
-
-a
-
-,
-
-o
-
-r
-
-e
-
-d
-
-i
-
-o
-
-e
-
-a
-
-l
-
-e
-
-c
-
-c
-
-e
-
-e
-
-p
-
-r
-
-e
-
-s
-
-e
-
-n
-
-t
-
-a
-
-n
-
-t
-
-e
-
-s
-
-o
-
-r
-
-o
-
-t
-
-o
-
-o
-
-n
-
-f
-
-o
-
-r
-
-m
-
-e
-
-y
-
-.
-
-a
-
-b
-
-i
-
-l
-
-d
-
-o
-
-s
-
-e
-
-n
-
-d
-
-a
-
-r
-
-e
-
-l
-
-i
-
-b
-
-e
-
-r
-
-a
-
-t
-
-i
-
-v
-
-o
-
-- Re p m d l e i ó n d r p v u y s c a Le
-
-m
-
-u
-
-n
-
-i
-
-t
-
-a
-
-r
-
-i
-
-a
-
-,
-
-o
-
-r
-
-e
-
-d
-
-i
-
-o
-
-e
-
-a
-
-l
-
-e
-
-c
-
-c
-
-,
-
-e
-
-s
-
-i
-
-g
-
-n
-
-a
-
-c
-
-o
-
-m
-
-i
-
-n
-
-a
-
-c
-
-e
-
-i
-
-r
-
-e
-
-c
-
-t
-
-o
-
-e
-
-c
-
-r
-
-e
-
-t
-
-o
-
-,
-
-o
-
-n
-
-f
-
-o
-
-r
-
-m
-
-e
-
-y
-
-.
-
-d
-
-- Co p m d l e i ó n d i ó n o n i ó n d a r p n y p p d l n y p í g o c e o c a Le
-
-y
-
-e
-
-p
-
-i
-
-n
-
-d
+3. Comunitaria, por medio de la elección, designación o nominación de autoridades y representantes por normas y procedimientos propios de las naciones y pueblos indígena originario campesinos, entre otros, conforme a Ley.
 
 ###### Artículo 12.
 
-t
+I. El Estado se organiza y estructura su poder público a través de los órganos Legislativo, Ejecutivo, Judicial y Electoral. La organización del Estado está fundamentada en la independencia, separación, coordinación y cooperación de estos órganos.
 
-a
+2. Allinta tukuy tiyakunankuta qhawaspa, thaskirichispa, imamantapis jark'aspa, tukuy runata, suyukunata, llaqtakunata, juch'uy llaqtakunata yanapaspa, paykunapura, waqkunawan chantapis llaqtanku ayllunku ukhupi allinta qhawakuspa, ama chiqninakuspa.
 
-d
+3. Kay Bolivia suyunchis ukllapuni kananta qhawarina tiyan chantapis askha kawsayniyuq parlayniyuq kay Bolivia suyupi kasqanta yupaychanan tiyan.
 
-o
+4. Kay Constitucionpi principios, valores, derechos, deberestawan kayninkuta runa yachanan ta chantapis apaykachananta qhawanan tiyan jinataq junt'achinan tiyan.
 
-c
+5. Runa yachaqanan tiyan, jampinawasiyuq kanan tiyan, chantapis llank'ayniyuq kanan tiyan.
 
-u
+6. Recursos naturales nisqata sumaq umayuqwan apaykachananta qhawanan tiyan, chantapis, imatachus chaykunamanta ruwakuyta atikun, jinamanta ñawpaqman thaskirichinanpaq, sumaqta kawsakunankupaq kunan pachamanta runa, jamuqkuna ima, chaykunata qhawanan tiyan.
 
-t
+###### Juch'uy kamachiy 10.
 
-i
+I. Bolivia mana maqanakuq suyuchu, aswanpis, ama maqanakuspa tiyananchista niwanchis, ñuqanchis pura, jawa runa llaqtakunawanpis yanapanakuspa, jinamanta yachaqayninchista tukuy waqjina kawsakuyninchista yupaychaspa thaskirichinapaq.
 
-v
+II. Bolivia suyu may ch'ampatapis allinchanapaq, chantapis Estadoq kayninta saruchasqa kanman chayqa jark'akuyta atin, mayqin maqanakutapis mana allin ñawiyaqwan qhawan.
 
-o
+III. Jawa llaqtamanta militares mana kay Bolivia suyunchispi kananchu tiyan.
 
-- El  Es s o y e s p p ú b l i c a t é s  d l ó Le Ej e J y El e La o i ó n d l   Es e t á  f u e s i ó n c i ó n y c i ó n d e ó
+#### KINSA KAQ JUCH'UY PHATMA GOBIERNOQPATA SISTEMANMANTA
 
-F
+###### Juch'uy kamachiy 11.
 
-u
+I. Bolivia suyuqa tukuy laya rimayniyuq kasqanchista, qharipis warmipis kikin atiyniyuq kasqanchista, niwanchis.
 
-n
+II. Democracia nisqa kay jinamanta qhawachikun:
 
-d
+1. Chhikllayllaman ñarispa, referendo niqta, watiqmanta kikin kamachiqta aqllaspa, jatun tantakuypi, cavildupi, waturispa. Kamachiymanjina jatun tantakuy chantapis cabildospi parlarispa kananku tiyan.
 
-a
+2. Askha paypaq chhikllasqankupi, kamachiqkunata chhikllayniqta tukuy manta pakasqapi kamachiy nisqanmanjina.
 
-c
+3. Kamachiymanjinaqa, tukuy aqllaspa, nacionkunawan pueblos indígena originario campesinokunawan kamachiynin nisqanmanjina kamachiq jina sutichasqa.
 
-o
+###### Juch'uy kamachiy 12.
 
-n
+I. Estadoqa kaykunapi t'aqakun: Legislativo, Ejecutivo, Judicial Electoralpiwan. Sapa uknin llank'ayniyuq kanku, pero uk yuyayllaman chayanankuta mask'anku, yanaparikunku ima.
 
-r
+Ministerio de la Presidencia - V.C.G.G
 
-a
+11
 
-d
-
-e
-
-n
-
-a
-
-u
-
-e
-
-r
-
-K
-
-n
-
-i
-
-v
-
-e
-
-r
-
-s
-
-o
-
-l
-
-i
-
-v
-
-i
-
-a
-
-n
-
-o
-
-.
-
-,
-
-v
-
-a
-
-l
-
-o
-
-r
-
-e
-
-s
-
-,
-
-d
-
-e
-
-r
-
-e
-
-c
-
-h
-
-o
-
-s
-
-y
-
-d
-
-e
-
-b
-
-e
-
-r
-
-e
-
-s
-
-h
-
-2
-
-4
-
-n
-
-.
-
-.
-
-d
-
-e
-
-r
-
-y
-
-d
-
-p
-
-e
-
-e
-
-e
-
-v
-
-n
-
-o
-
-a
-
-d
-
-i
-
-c
-
-e
-
-s
-
-s
-
-,
-
-e
-
-r
-
-e
-
-a
-
-e
-
-n
-
-e
-
-e
-
-n
-
-d
-
-t
-
-t
-
-s
-
-e
-
-o
-
-n
-
-c
-
-u
-
-e
-
-i
-
-o
-
-o
-
-e
-
-r
-
-i
-
-a
-
-r
-
-d
-
-r
-
-a
-
-i
-
-n
-
-o
-
-s
-
-a
-
-i
-
-r
-
-,
-
-a
-
-c
-
-t
-
-d
-
-o
-
-g
-
-m
-
-a
-
-u
-
-r
-
-i
-
-u
-
-n
-
-a
-
-a
-
-i
-
-n
-
-t
-
-e
-
-e
-
-g
-
-b
-
-c
-
-a
-
-u
-
-l
-
-n
-
-t
-
-p
-
-e
-
-i
-
-i
-
-t
-
-e
-
-s
-
-o
-
-e
-
-n
-
-i
-
-i
-
-a
-
-z
-
-v
-
-,
-
-s
-
-,
-
-n
-
-a
-
-a
-
-r
-
-a
-
-a
-
-t
-
-a
-
-r
-
-a
-
-n
-
-e
-
-i
-
-l
-
-c
-
-o
-
-s
-
-o
-
-,
-
-d
-
-l
-
-n
-
-i
-
-v
-
-r
-
-a
-
-c
-
-e
-
-i
-
-s
-
-a
-
-a
-
-t
-
-t
-
-a
-
-s
-
-o
-
-o
-
-t
-
-u
-
-r
-
-m
-
-a
-
-o
-
-r
-
-a
-
-,
-
-r
-
-s
-
-u
-
-,
-
-r
-
-a
-
-r
-
-p
-
-r
-
-m
-
-c
-
-a
-
-l
-
-o
-
-e
-
-.
-
-t
-
-o
-
-l
-
-i
-
-u
-
-a
-
-l
-
-s
-
-f
-
-l
-
-o
-
-e
-
-o
-
-r
-
-s
-
-s
-
-i
-
-i
-
-n
-
-a
-
-r
-
-r
-
-e
-
-a
-
-d
-
-e
-
-o
-
-n
-
-m
-
-i
-
-n
-
-q
-
-s
-
-n
-
-e
-
-u
-
-t
-
-,
-
-u
-
-b
-
-r
-
-a
-
-e
-
-s
-
-g
-
-r
-
-i
-
-l
-
-c
-
-t
-
-s
-
-t
-
-o
-
-e
-
-a
-
-a
-
-a
-
-n
-
-o
-
-c
-
-a
-
-r
-
-n
-
-t
-
-t
-
-d
-
-e
-
-i
-
-,
-
-r
-
-i
-
-i
-
-v
-
-m
-
-e
-
-e
-
-z
-
-d
-
-o
-
-e
-
-a
-
-r
-
-i
-
-l
-
-e
-
-m
-
-c
-
-n
-
-a
-
-t
-
-r
-
-a
-
-i
-
-s
-
-s
-
-e
-
-o
-
-b
-
-i
-
-o
-
-n
-
-s
-
-o
-
-i
-
-o
-
-a
-
-l
-
-,
-
-t
-
-n
-
-e
-
-d
-
-o
-
-p
-
-e
-
-n
-
-o
-
-s
-
-e
-
-o
-
-s
-
-e
-
-r
-
-e
-
-r
-
-n
-
-o
-
-r
-
-a
-
-o
-
-a
-
-f
-
-m
-
-r
-
-c
-
-o
-
-a
-
-o
-
-c
-
-a
-
-r
-
-o
-
-i
-
-p
-
-i
-
-m
-
-o
-
-v
-
-c
-
-i
-
-r
-
-o
-
-n
-
-t
-
-e
-
-o
-
-e
-
-a
-
-a
-
-o
-
-n
-
-e
-
-l
-
-i
-
-s
-
-e
-
-d
-
-d
-
-v
-
-r
-
-s
-
-s
-
-m
-
-s
-
-a
-
-o
-
-u
-
-,
-
-e
-
-d
-
-e
-
-a
-
-l
-
-t
-
-c
-
-e
-
-a
-
-t
-
-s
-
-e
-
-s
-
-s
-
-y
-
-u
-
-s
-
-a
-
-.
-
-,
-
-e
-
-a
-
-t
-
-s
-
-o
-
-a
-
-r
-
-m
-
-e
-
-l
-
-e
-
-e
-
-s
-
-v
-
-s
-
-o
-
-n
-
-o
-
-o
-
-a
-
-o
-
-i
-
-c
-
-m
-
-t
-
-a
-
-m
-
-c
-
-s
-
-e
-
-.
-
-r
-
-.
-
-i
-
-o
-
-r
-
-r
-
-o
-
-e
-
-c
-
-u
-
-g
-
-n
-
-n
-
-n
-
-u
-
-t
-
-a
-
-d
-
-a
-
-u
-
-e
-
-t
-
-r
-
-l
-
-s
-
-a
-
-n
-
-a
-
-t
-
-g
-
-r
-
-s
-
-u
-
-a
-
-r
-
-o
-
-m
-
-a
-
-o
-
-r
-
-s
-
-s
-
-s
-
-a
-
-a
-
-n
-
-n
-
-e
-
-.
-
-l
-
-a
-
-l
-
-o
-
-s
-
-n
-
-i
-
-m
-
-d
-
-e
-
-s
-
-e
-
-t
-
-u
-
-u
-
-a
-
-a
-
-a
-
-i
-
-r
-
-s
-
-g
-
-b
-
-e
-
-t
-
-v
-
-r
-
-d
-
-d
-
-o
-
-p
-
-n
-
-l
-
-b
-
-t
-
-a
-
-e
-
-a
-
-,
-
-i
-
-r
-
-e
-
-,
-
-e
-
-c
-
-i
-
-l
-
-c
-
-g
-
-i
-
-d
-
-a
-
-o
-
-d
-
-t
-
-i
-
-s
-
-y
-
-i
-
-p
-
-a
-
-o
-
-o
-
-a
-
-s
-
-s
-
-a
-
-s
-
-a
-
-.
-
-:
-
-a
-
-n
-
-n
-
-d
-
-l
-
-l
-
-d
-
-a
-
-,
-
-t
-
-s
-
-e
-
-t
-
-l
-
-i
-
-e
-
-v
-
-i
-
-a
-
-s
-
-v
-
-a
-
-o
-
-,
-
-,
-
-i ó n K Ad ( AS)
+Fundación Konrad Adenauer (KAS)
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO
-
 ESTADOQ KURAQ KAMACHIYNIN
 
-- Estadoqpata  ruwayninqa  kaykuna  kashkanku:  qhawasqan,  tukuy  runata  jark'asqan, Estadota jark'asqa.
+CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Sapa ukninkuqpa  llank'aninkuqa  mana  ukllapi  tantakunmanchu,  sapa  uk  (Legislativo, Ejecutivo, Judicial Electoral) llank'ayninkuta ruwananku tiyan.
+II. Son funciones estatales la de Control, la de Defensa de la Sociedad y la de Defensa del Estado.
 
-### ISKAY KAQ PHATMA DERECHOS FUNDAMENTALES GARANTÍASMANTAWAN
-
-#### UK KAQ JUCH'UY PHATMA TUKUYPAQ KAMACHINAMANTA
-
-###### Juch'uy kamachiy 13.
-
-- Constitución runaq ruway atiyninta umancharisqanta mana saruchasqachu kanan tiyan, chantapis tukuypaq. Estado ñawpaqman thaskirichinan tiyan, jark'anan tiyan, chantapis yupaychanan tiyan.
-
-- Mana Constitución runaq ruway atiynin pay nisqallanmantachu yuyarin, waqkuna mana kaypi qilqasqa kaqkunatapis.
-
-- Runaq ruway atiynin Constitución nisqanta qutuchasqa kasqankutaqa mana mayqintapis astawan kasqanta qhawachinchu.
-
-- Jawa llaqtakunawan uklla parlasqa kasqanta tukuy runaqpata ruway atiyninta, Asamblea Legislativa  Plurinacional  riqsikapusqanta,  derechos  humanos  nisqanta;  Estados  de Excepción  nisqa  kaqtinpis.  Runaq  ruway  atiynintawan  ruwanantawan  Constitución nisqapi kasqankuta chay runaq ruway atiyninta mana maqanasqachu kananku tiyan.
-
-###### Juch'uy kamachiy 14.
-
-- Tukuy runa uk parlasqayuqlla, Constitución nisqanmanjina ruway atiyniyuq.
-
-- Estado  mana  runa  juchachasqa  kananpaq  runamanta  kaykunata  ama  qhawananta nin:  qharichu  warmichu,  yana  runachu  manachu,  waynuchu  machu  runachu,  juch'uy llaqtamantachu jatun llaqtamantachu, kayninkuta qhawaspa, ima simitachus parlanku, chayta  qhawaspa,  yupaychayninkuta  yuyaychayninkuta,  qusayuqchus  warmiyuqchus manachus,  qulqiyuqchus  manachus,  llank'ayninta,  yachaqayninta,  mana  ima  ruway atiynita, unquq kayninta. Kaykunata qhawaqtinkuqa juchanta qhawanqa.
-
-- Estadoqa  tukuypaq,  sapa  runapaq,  qutukunapi  runapaq,  mana  pita  nitaq  imanta qhawaraspa,  Kay  Constitucionpi  ruway  atiyniyuq  nisqanta,  kamachiykunata,  jawa llaqtakunwan parlakusqankuta kay runa ruway atisqanmanta kamachin.
-
-- Imachus  mana  Constituciónwan  kamachiykunawan  runa  ruway  atisqanta  nisqankuta mana pipis ruwachinqachu, manataq Constitución mana ruwasqanta ruwananchu tiyan.
-
-- Kay  Bolivia  jallp'api  bolivianakuna  kamachiykunaqa  tukuy  kay  suyupi  tiyaqkunapaq, kaymantapis jawa llaqtamantapis kachunku.
-
-- Bolivia jallp'api jawa llaqta warmi qhari runa derechosniyuq kanku, chantapis deberes Jatun Kamachiypi nisqanta ruwananku tiyan.
-
-- Son funciones estatales la de Control, la de Defensa de la Sociedad y la de Defensa del Estado.
-
-- Las funciones de los órganos públicos no pueden ser reunidas en un solo órgano ni son delegables entre si.
-
-Ministerio de la Presidencia - V.C.G.G
-
-12
+III. Las funciones de los órganos públicos no pueden ser reunidas en un solo órgano ni son delegables entre si.
 
 ### TÍTULO II DERECHOS FUNDAMENTALES Y GARANTÍAS
 
@@ -13347,27 +481,63 @@ Ministerio de la Presidencia - V.C.G.G
 
 ###### Artículo 13.
 
-- I . Los derechos reconocidos por esta Constitución son inviolables, universales, interdependientes, indivisibles y progresivos. El Estado tiene el deber de promoverlos, protegerlos y respetarlos.
+I. Los derechos reconocidos por esta Constitución son inviolables, universales, interdependientes, indivisibles y progresivos. El Estado tiene el deber de promoverlos, protegerlos y respetarlos.
 
-- II . 	 Los derechos que proclama esta Constitución no serán entendidos como negación de otros derechos no enunciados.
+II. Los derechos que proclama esta Constitución no serán entendidos como negación de otros derechos no enunciados.
 
-- III . 	 La clasificación de los derechos establecida en esta Constitución no determina jerarquía alguna ni superioridad de unos derechos sobre otros.
+III. La clasificación de los derechos establecida en esta Constitución no determina jerarquía alguna ni superioridad de unos derechos sobre otros.
 
-- IV . 	Los  tratados  y  convenios  internacionales  ratificados  por  la  Asamblea  Legislativa Plurinacional,  que  reconocen  los  derechos  humanos y que prohíben su limitación en los  Estados  de  Excepción  prevalecen  en  el  orden  interno.  Los  derechos  y  deberes consagrados  en  esta  Constitución  se  interpretarán  de  conformidad  con  los  Tratados internacionales de derechos humanos ratificados por Bolivia.
+IV. Los tratados y convenios internacionales ratificados por la Asamblea Legislativa Plurinacional, que reconocen los derechos humanos y que prohíben su limitación en los Estados de Excepción prevalecen en el orden interno. Los derechos y deberes consagrados en esta Constitución se interpretarán de conformidad con los Tratados internacionales de derechos humanos ratificados por Bolivia.
 
 ###### Artículo 14.
 
-- I . Todo ser humano tiene personalidad y capacidad jurídica con arreglo a las leyes y goza de los derechos reconocidos por esta Constitución, sin distinción alguna.
+I. Todo ser humano tiene personalidad y capacidad jurídica con arreglo a las leyes y goza de los derechos reconocidos por esta Constitución, sin distinción alguna.
 
-- II .  	 El Estado prohíbe y sanciona  toda forma de discriminación fundada en razón de sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad, ciudadanía, idioma,  credo  religioso,  ideología,  filiación  política  o  filosófica,  estado  civil,  condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo, u otras que tengan por objetivo o resultado anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de los derechos de toda persona.
+II. El Estado prohíbe y sanciona toda forma de discriminación fundada en razón de sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad, ciudadanía, idioma, credo religioso, ideología, filiación política o filosófica, estado civil, condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo, u otras que tengan por objetivo o resultado anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de los derechos de toda persona.
 
-- III . 	 El Estado garantiza a todas las personas y colectividades, sin discriminación alguna, el libre y eficaz ejercicio de los derechos establecidos en esta Constitución, las leyes y los tratados internacionales de derechos humanos.
+III. El Estado garantiza a todas las personas y colectividades, sin discriminación alguna, el libre y eficaz ejercicio de los derechos establecidos en esta Constitución, las leyes y los tratados internacionales de derechos humanos.
 
-- IV . 	En el ejercicio de los derechos, nadie será obligado a hacer lo que la Constitución y las leyes no manden, ni a privarse de lo que éstas no prohíban.
+IV. En el ejercicio de los derechos, nadie será obligado a hacer lo que la Constitución y las leyes no manden, ni a privarse de lo que éstas no prohíban.
 
-- V . 	 Las leyes bolivianas se aplican a todas las personas, naturales o jurídicas, bolivianas o extranjeras, en el territorio boliviano.
+V. Las leyes bolivianas se aplican a todas las personas, naturales o jurídicas, bolivianas o extranjeras, en el territorio boliviano.
 
-- VI . 	 Las extranjeras y los extranjeros en el territorio boliviano tienen los derechos y deben cumplir los deberes establecidos en la Constitución, salvo las restricciones que ésta contenga.
+VI. Las extranjeras y los extranjeros en el territorio boliviano tienen los derechos y deben cumplir los deberes establecidos en la Constitución, salvo las restricciones que ésta contenga.
+
+II. Estadoqpata ruwayninqa kaykuna kashkanku: qhawasqan, tukuy runata jark'asqan, Estadota jark'asqa.
+
+III. Sapa ukninkuqpa llank'aninkuqa mana ukllapi tantakunmanchu, sapa uk (Legislativo, Ejecutivo, Judicial Electoral) llank'ayninkuta ruwananku tiyan.
+
+### ISKAY KAQ PHATMA DERECHOS FUNDAMENTALES GARANTÍASMANTAWAN
+
+#### UK KAQ JUCH'UY PHATMA TUKUYPAQ KAMACHINAMANTA
+
+###### Juch'uy kamachiy 13.
+
+I. Constitución runaq ruway atiyninta umancharisqanta mana saruchasqachu kanan tiyan, chantapis tukuypaq. Estado ñawpaqman thaskirichinan tiyan, jark'anan tiyan, chantapis yupaychanan tiyan.
+
+II. Mana Constitución runaq ruway atiynin pay nisqallanmantachu yuyarin, waqkuna mana kaypi qilqasqa kaqkunatapis.
+
+III. Runaq ruway atiynin Constitución nisqanta qutuchasqa kasqankutaqa mana mayqintapis astawan kasqanta qhawachinchu.
+
+IV. Jawa llaqtakunawan uklla parlasqa kasqanta tukuy runaqpata ruway atiyninta, Asamblea Legislativa Plurinacional riqsikapusqanta, derechos humanos nisqanta; Estados de Excepción nisqa kaqtinpis. Runaq ruway atiynintawan ruwanantawan Constitución nisqapi kasqankuta chay runaq ruway atiyninta mana maqanasqachu kananku tiyan.
+
+###### Juch'uy kamachiy 14.
+
+I. Tukuy runa uk parlasqayuqlla, Constitución nisqanmanjina ruway atiyniyuq.
+
+II. Estado mana runa juchachasqa kananpaq runamanta kaykunata ama qhawananta nin: qharichu warmichu, yana runachu manachu, waynuchu machu runachu, juch'uy llaqtamantachu jatun llaqtamantachu, kayninkuta qhawaspa, ima simitachus parlanku, chayta qhawaspa, yupaychayninkuta yuyaychayninkuta, qusayuqchus warmiyuqchus manachus, qulqiyuqchus manachus, llank'ayninta, yachaqayninta, mana ima ruway atiynita, unquq kayninta. Kaykunata qhawaqtinkuqa juchanta qhawanqa.
+
+III. Estadoqa tukuypaq, sapa runapaq, qutukunapi runapaq, mana pita nitaq imanta qhawaraspa, Kay Constitucionpi ruway atiyniyuq nisqanta, kamachiykunata, jawa llaqtakunwan parlakusqankuta kay runa ruway atisqanmanta kamachin.
+
+IV. Imachus mana Constituciónwan kamachiykunawan runa ruway atisqanta nisqankuta mana pipis ruwachinqachu, manataq Constitución mana ruwasqanta ruwananchu tiyan.
+
+V. Kay Bolivia jallp'api bolivianakuna kamachiykunaqa tukuy kay suyupi tiyaqkunapaq, kaymantapis jawa llaqtamantapis kachunku.
+
+VI. Bolivia jallp'api jawa llaqta warmi qhari runa derechosniyuq kanku, chantapis deberes Jatun Kamachiypi nisqanta ruwananku tiyan.
+
+Ministerio de la Presidencia - V.C.G.G
+
+12
 
 Fundación Konrad Adenauer (KAS)
 
@@ -13379,63 +549,25 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-#### ISKAY KAQ JUCH'UY PHATMA ASTAWAN YUPAYCHASQA RUWAY ATIYKUNAMANTA
-
-###### Juch'uy kamachiy 15.
-
-- Pipis  kawsakuy atiyniyuq, ama maqachikuspa, ama umanman imatapis sat'ichikuspa, mana  munaqtin  ama  piwanpis  puñukuspa,  ama  pipis  maqasqachu,  saqmasqachu, juch'uychasqachu  kanan  tiyan.  Juchachaq  mana  runaq  jucharayku  wanchichispa juchachanmanchu.
-
-- Tukuy runa, astawan warminkuna, ama maqasqachu kananku tiyan, mana qusankuwan puñukuyta munaqtinkuqa mana puñunankuchu tiyan, kaykunaqa amapuni jinachu kanan tiyan, ni ayllu ukhupi nitaq llaqta ukhupi.
-
-- Estado imatachis ruwanan tiyan chayta qhawanqa, jinamanta warmimanta qharimanta, kuraqmanta  sullk'amanta  maqanaku  chinkachinanpaq;  chantapis  juch'uychaqkunata, wanchiqkunata, maqaspa, qhaparispa llakichiqkunata juchachanqa.
-
-- Mana pipis imamantapis chinkachisqa kayta atinmanchu.
-
-- Mana pipis qhasillamanta llank'anmanchu. Mana runa ranqhasqa kanqachu.
-
-###### Juch'uy kamachiy 16.
-
-- Tukuy runa yakuyuq, chantapis mikhuyniyuq kayta atin.
-
-- Estado tukuy runapaq sumaq, mana unquyniyuq, chantapis askha mikhuykuna kananta qhawanan tiyan.
-
-###### Juch'uy kamachiy 17.
-
-Tukuy runa yachachisqa kanan tiyan, juch'uy yachaywasipi, yachaywasipi, jatun yachaywasipipis;  tukuypuni,  ama  qulqita  t'apaspa,  ama  waqjina  kasqankuta  saruchasqa kaspa, manataq juch'uychasqa kaspa.
-
-###### Juch'uy kamachiy 18.
-
-- Tukuy runa unquyninmanta qhawasqa kanan tiyan.
-
-- Estado tukuy runa unquyninmanta qhawasqa kananta qhawan, mana wakillanpaqchu.
-
-- Jampinawasiqa tukuypaqpuni, mana qulqipaqchu, qhariqaqpis jinallatataq warminpaq, kikin  kawsayniyuqpaq,  tukuy  waqjina  kawsayniyuqpaqpis  sumaq  kanan  tiyan.  Sumaq parlasqa jampiqkunawan unqusqa runa kanan tiyan.
-
-###### Juch'uy kamachiy 19.
-
-- Runajina tiyakunanpaq tukuy runa wasiyuq kayta atin.
-
-- Estadoqa  llank'aykunata  umanchakunan  tiyan,  qulqita  mask'aspa,  jinamanta  runa wasiyuq kananpaq yanaparispa, astawanpuniqa pikunachus pisi qulqiyuq kaqkunaman, mana ancha runa yanapasqa kaqkunaman, juch'uy llaqtakunaman.
-
-13
+#### CAPÍTULO SEGUNDO DERECHOS FUNDAMENTALES
 
 ###### Artículo 15.
 
-- Toda persona tiene derecho a la vida y a la integridad física, psicológica y sexual. Nadie será torturado, ni sufrirá tratos crueles, inhumanos, degradantes o humillantes. No existe la pena de muerte.
+I. Toda persona tiene derecho a la vida y a la integridad física, psicológica y sexual. Nadie será torturado, ni sufrirá tratos crueles, inhumanos, degradantes o humillantes. No existe la pena de muerte.
 
-- II . Todas las personas, en particular las mujeres, tienen derecho a no sufrir violencia física, sexual o psicológica, tanto en la familia como en la sociedad.
+II. Todas las personas, en particular las mujeres, tienen derecho a no sufrir violencia física, sexual o psicológica, tanto en la familia como en la sociedad.
 
-- III . 	 El  Estado  adoptará  las  medidas  necesarias  para  prevenir,  eliminar  y  sancionar  la violencia  de  género  y  generacional,  así  como  toda  acción  u  omisión  que  tenga  por objeto degradar la condición humana, causar muerte, dolor y sufrimiento físico, sexual o psicológico, tanto en el ámbito público como privado.
+III. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar la violencia de género y generacional, así como toda acción u omisión que tenga por objeto degradar la condición humana, causar muerte, dolor y sufrimiento físico, sexual o psicológico, tanto en el ámbito público como privado.
 
-- IV . 	Ninguna persona podrá ser sometida a desaparición forzada por causa o circunstancia alguna.
+IV. Ninguna persona podrá ser sometida a desaparición forzada por causa o circunstancia alguna.
 
-- V . 	 Ninguna persona podrá ser sometida a servidumbre ni esclavitud. Se prohíbe la trata y tráfico de personas.
+V. Ninguna persona podrá ser sometida a servidumbre ni esclavitud. Se prohíbe la trata y tráfico de personas.
 
 ###### Artículo 16.
 
-- I . Toda persona tiene derecho al agua y a la alimentación.
+I. Toda persona tiene derecho al agua y a la alimentación.
 
-- II . El  Estado  tiene  la  obligación  de  garantizar  la  seguridad  alimentaría,  a  través  de  una alimentación sana, adecuada y suficiente para toda la población.
+II. El Estado tiene la obligación de garantizar la seguridad alimentaría, a través de una alimentación sana, adecuada y suficiente para toda la población.
 
 ###### Artículo 17.
 
@@ -13443,83 +575,77 @@ Toda persona tiene derecho a recibir educación en todos los niveles de manera u
 
 ###### Artículo 18.
 
-- Todas las personas tienen derecho a la salud.
+I. Todas las personas tienen derecho a la salud.
 
-- II . El  Estado  garantiza  la  inclusión  y  el  acceso  a  la  salud  de  todas  las  personas,  sin exclusión ni discriminación alguna.
+II. El Estado garantiza la inclusión y el acceso a la salud de todas las personas, sin exclusión ni discriminación alguna.
 
-- III . 	 El sistema único de salud será universal, gratuito, equitativo, intracultural, intercultural, participativo, con calidad, calidez y control social. El sistema se basa en los principios de solidaridad, eficiencia y corresponsabilidad y se desarrolla mediante políticas públicas en todos los niveles de gobierno.
+III. El sistema único de salud será universal, gratuito, equitativo, intracultural, intercultural, participativo, con calidad, calidez y control social. El sistema se basa en los principios de solidaridad, eficiencia y corresponsabilidad y se desarrolla mediante políticas públicas en todos los niveles de gobierno.
 
 ###### Artículo 19.
 
-- I . Toda persona tiene derecho a un hábitat y vivienda adecuada, que dignifiquen la vida familiar y comunitaria.
+I. Toda persona tiene derecho a un hábitat y vivienda adecuada, que dignifiquen la vida familiar y comunitaria.
 
-- II . 	 El Estado, en todos sus niveles de gobierno, promoverá planes de vivienda de interés social, mediante sistemas adecuados de financiamiento, basándose en los principios de solidaridad y equidad. Estos planes se destinarán preferentemente a familias de escasos recursos, a grupos menos favorecidos y al área rural.
+II. El Estado, en todos sus niveles de gobierno, promoverá planes de vivienda de interés social, mediante sistemas adecuados de financiamiento, basándose en los principios de solidaridad y equidad. Estos planes se destinarán preferentemente a familias de escasos recursos, a grupos menos favorecidos y al área rural.
 
-Fundación Konrad Adenauer (KAS)
+#### ISKAY KAQ JUCH'UY PHATMA ASTAWAN YUPAYCHASQA RUWAY ATIYKUNAMANTA
 
-#### CAPÍTULO SEGUNDO DERECHOS FUNDAMENTALES
+###### Juch'uy kamachiy 15.
+
+I. Pipis kawsakuy atiyniyuq, ama maqachikuspa, ama umanman imatapis sat'ichikuspa, mana munaqtin ama piwanpis puñukuspa, ama pipis maqasqachu, saqmasqachu, juch'uychasqachu kanan tiyan. Juchachaq mana runaq jucharayku wanchichispa juchachanmanchu.
+
+II. Tukuy runa, astawan warminkuna, ama maqasqachu kananku tiyan, mana qusankuwan puñukuyta munaqtinkuqa mana puñunankuchu tiyan, kaykunaqa amapuni jinachu kanan tiyan, ni ayllu ukhupi nitaq llaqta ukhupi.
+
+III. Estado imatachis ruwanan tiyan chayta qhawanqa, jinamanta warmimanta qharimanta, kuraqmanta sullk'amanta maqanaku chinkachinanpaq; chantapis juch'uychaqkunata, wanchiqkunata, maqaspa, qhaparispa llakichiqkunata juchachanqa.
+
+IV. Mana pipis imamantapis chinkachisqa kayta atinmanchu.
+
+V. Mana pipis qhasillamanta llank'anmanchu. Mana runa ranqhasqa kanqachu.
+
+###### Juch'uy kamachiy 16.
+
+I. Tukuy runa yakuyuq, chantapis mikhuyniyuq kayta atin.
+
+II. Estado tukuy runapaq sumaq, mana unquyniyuq, chantapis askha mikhuykuna kananta qhawanan tiyan.
+
+###### Juch'uy kamachiy 17.
+
+Tukuy runa yachachisqa kanan tiyan, juch'uy yachaywasipi, yachaywasipi, jatun yachaywasipipis; tukuypuni, ama qulqita t'apaspa, ama waqjina kasqankuta saruchasqa kaspa, manataq juch'uychasqa kaspa.
+
+###### Juch'uy kamachiy 18.
+
+I. Tukuy runa unquyninmanta qhawasqa kanan tiyan.
+
+II. Estado tukuy runa unquyninmanta qhawasqa kananta qhawan, mana wakillanpaqchu.
+
+III. Jampinawasiqa tukuypaqpuni, mana qulqipaqchu, qhariqaqpis jinallatataq warminpaq, kikin kawsayniyuqpaq, tukuy waqjina kawsayniyuqpaqpis sumaq kanan tiyan. Sumaq parlasqa jampiqkunawan unqusqa runa kanan tiyan.
+
+###### Juch'uy kamachiy 19.
+
+I. Runajina tiyakunanpaq tukuy runa wasiyuq kayta atin.
+
+II. Estadoqa llank'aykunata umanchakunan tiyan, qulqita mask'aspa, jinamanta runa wasiyuq kananpaq yanaparispa, astawanpuniqa pikunachus pisi qulqiyuq kaqkunaman, mana ancha runa yanapasqa kaqkunaman, juch'uy llaqtakunaman.
 
 Ministerio de la Presidencia - V.C.G.G
+
+13
+
+Fundación Konrad Adenauer (KAS)
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO
-
-###### Juch'uy kamachiy 20.
-
-- Tukuy runa, mana wakillanchu ch'uya yakuyuq, khuchi yaku lluqsinayuq, k'anchayniyuq, wasinpi gas nisqayuq, jampinawasiyuq, telecomunicación nisqayuq kayta atin.
-
-- Estado servicios basicokunayuq tukuy runa kananpaq qhawanan tiyan. Runa k'anchayniyuq,  wasinkupi  gasniyuq,  telecomunicaciones  nisqayuq  kananpaq  empresa privada apaykachayta atinqa, tukuy runata chiqan mañasqanta uyarinanku tiyan, sumaq llank'ayninku kanan tiyan chantapis ama askha qulqita runata urquspa.
-
-- Kamachiymanjina  tukuy  runa  yakuyuqpuni,  khuchi  yaku  lluqsinayuqpuni  kanan  tiyan. Mana pimanpis llank'achinanpaq qusqa kanmanchu.
-
-#### KINSA KAQ JUCH'UY PHATMA DERECHOS CIVILESMANTAWAN POLÍTICOSMANTAWAN
-
-##### UK KAQ RAK'IY DERECHOS CIVILESMANTA
-
-###### Juch'uy kamachiy 21.
-
-Bolivianakunapis, bolivianokunapis kaykunayuq kayta atinku:
-
-- Waq runa kawsayniyuqjina kayta munaspa kawsakuyta atin.
-
-- Sapa runalla kawsayninmanta, kayninmanta yachayta atin.
-
-- Sapa  ukpis  tantakuypipis,  yuyaychakuyta  atin,  apunchismanpis  pachamamanpis waqkunamanpis  mañarikuyta  atin,  sapanpis,  ama  kamachiypi  qilqasqa  kaqta saruchaspa.
-
-- Allin kawsayta apaspa, tantachakuytapis atin, piwanpis qhawachikuspa manapis.
-
-- Yuyaynintapis parlarispa, qilqarisqa, sapanpis qutupipis willarita atin.
-
-- Willaykunatapis umanchakuyta, waqkunaman willariyta atin, sapanpis qutupipis.
-
-- Kay Bolivia jallp'api may chiqanpipis bolivianakuna, bolivianokuna tiyakuyta puririyta atinku.
-
-###### Juch'uy kamachiy 22.
-
-Mana pipis qhasillamanta wisq'asqa kanmanchu, manataq wasankumanta parlallankumanchu. Estado yupaychanan, jark'anan tiyan.
-
-###### Juch'uy kamachiy 23.
-
-- Tukuy  runa  mana  qhasillamanta  wisq'aqa  qhatichasqa  kananchu  tiyan.  Kamachiypi qilqasqa kaqtillan pipis wisq'asqa kanman.
-
-- Mana maqt'akunata imillakunata wisq'ankumanchu. Jina kaqtinqa kamachiqkuna, mana maqasqa, allin qhawasqa kanan tiyan, amataq sutinta tukuyman willanankuchu tiyan. Mana machu runa wisq'asqa kasan chaypi wisq'anankunchu tiyan.
-
-Ministerio de la Presidencia - V.C.G.G
-
 ESTADOQ KURAQ KAMACHIYNIN
 
-14
+CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### Artículo 20.
 
-- I . Toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+I. Toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
 
-- II . Es  responsabilidad  del  Estado,  en  todos  sus  niveles  de  gobierno,  la  provisión  de  los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias. En los casos de electricidad, gas domiciliario y telecomunicaciones se podrá prestar el servicio mediante contratos con la empresa privada. La provisión de servicios debe responder a los criterios de universalidad, responsabilidad, accesibilidad, continuidad, calidad, eficiencia, eficacia, tarifas equitativas y cobertura necesaria; con participación y control social.
+II. Es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias. En los casos de electricidad, gas domiciliario y telecomunicaciones se podrá prestar el servicio mediante contratos con la empresa privada. La provisión de servicios debe responder a los criterios de universalidad, responsabilidad, accesibilidad, continuidad, calidad, eficiencia, eficacia, tarifas equitativas y cobertura necesaria; con participación y control social.
 
-- III . 	 El  acceso  al  agua  y  alcantarillado  constituyen  derechos  humanos,  no  son  objeto  de concesión ni privatización y están sujetos a régimen de licencias y registros, conforme a ley.
+III. El acceso al agua y alcantarillado constituyen derechos humanos, no son objeto de concesión ni privatización y están sujetos a régimen de licencias y registros, conforme a ley.
 
 #### CAPÍTULO TERCERO DERECHOS CIVILES Y POLÍTICOS
 
@@ -13529,19 +655,19 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 Las bolivianas y los bolivianos tienen los siguientes derechos:
 
-- A la autoidentificación cultural.
+1. A la autoidentificación cultural.
 
-- A la privacidad, intimidad, honra, honor, propia imagen y dignidad.
+2. A la privacidad, intimidad, honra, honor, propia imagen y dignidad.
 
-- A la libertad de pensamiento, espiritualidad, religión y culto, expresados en forma individual o colectiva, tanto en público como en privado, con fines lícitos.
+3. A la libertad de pensamiento, espiritualidad, religión y culto, expresados en forma individual o colectiva, tanto en público como en privado, con fines lícitos.
 
-- A la libertad de reunión y asociación, en forma pública y privada, con fines lícitos.
+4. A la libertad de reunión y asociación, en forma pública y privada, con fines lícitos.
 
-- A expresar y difundir libremente pensamientos u opiniones por cualquier medio de comunicación, de forma oral, escrita o visual, individual o colectiva.
+5. A expresar y difundir libremente pensamientos u opiniones por cualquier medio de comunicación, de forma oral, escrita o visual, individual o colectiva.
 
-- A  acceder  a  la  información,  interpretarla,  analizarla  y  comunicarla  libremente,  de manera individual o colectiva.
+6. A acceder a la información, interpretarla, analizarla y comunicarla libremente, de manera individual o colectiva.
 
-- A la libertad de residencia, permanencia y circulación en todo el territorio boliviano, que incluye la salida e ingreso del país.
+7. A la libertad de residencia, permanencia y circulación en todo el territorio boliviano, que incluye la salida e ingreso del país.
 
 ###### Artículo 22.
 
@@ -13549,9 +675,53 @@ La dignidad y la libertad de la persona son inviolables. Respetarlas y protegerl
 
 ###### Artículo 23.
 
-- I . Toda persona tiene derecho a la libertad y seguridad personal. La libertad personal sólo podrá ser restringida en los límites señalados por la ley, para asegurar el descubrimiento de la verdad histórica en la actuación de las instancias jurisdiccionales.
+I. Toda persona tiene derecho a la libertad y seguridad personal. La libertad personal sólo podrá ser restringida en los límites señalados por la ley, para asegurar el descubrimiento de la verdad histórica en la actuación de las instancias jurisdiccionales.
 
-- Se  evitará  la  imposición  a  los  adolescentes  de  medidas  privativas  de  libertad.  Todo adolescente que se encuentre privado de libertad recibirá atención preferente por parte de las autoridades judiciales, administrativas y policiales. Éstas deberán asegurar en todo momento el respeto a su dignidad y la reserva de su identidad. La detención deberá cumplirse en recintos distintos de los asignados para los adultos, teniendo en cuenta las necesidades propias de su edad.
+II. Se evitará la imposición a los adolescentes de medidas privativas de libertad. Todo adolescente que se encuentre privado de libertad recibirá atención preferente por parte de las autoridades judiciales, administrativas y policiales. Éstas deberán asegurar en todo momento el respeto a su dignidad y la reserva de su identidad. La detención deberá cumplirse en recintos distintos de los asignados para los adultos, teniendo en cuenta las necesidades propias de su edad.
+
+###### Juch'uy kamachiy 20.
+
+I. Tukuy runa, mana wakillanchu ch'uya yakuyuq, khuchi yaku lluqsinayuq, k'anchayniyuq, wasinpi gas nisqayuq, jampinawasiyuq, telecomunicación nisqayuq kayta atin.
+
+II. Estado servicios basicokunayuq tukuy runa kananpaq qhawanan tiyan. Runa k'anchayniyuq, wasinkupi gasniyuq, telecomunicaciones nisqayuq kananpaq empresa privada apaykachayta atinqa, tukuy runata chiqan mañasqanta uyarinanku tiyan, sumaq llank'ayninku kanan tiyan chantapis ama askha qulqita runata urquspa.
+
+III. Kamachiymanjina tukuy runa yakuyuqpuni, khuchi yaku lluqsinayuqpuni kanan tiyan. Mana pimanpis llank'achinanpaq qusqa kanmanchu.
+
+#### KINSA KAQ JUCH'UY PHATMA DERECHOS CIVILESMANTAWAN POLÍTICOSMANTAWAN
+
+##### UK KAQ RAK'IY DERECHOS CIVILESMANTA
+
+###### Juch'uy kamachiy 21.
+
+Bolivianakunapis, bolivianokunapis kaykunayuq kayta atinku:
+
+1. Waq runa kawsayniyuqjina kayta munaspa kawsakuyta atin.
+
+2. Sapa runalla kawsayninmanta, kayninmanta yachayta atin.
+
+3. Sapa ukpis tantakuypipis, yuyaychakuyta atin, apunchismanpis pachamamanpis waqkunamanpis mañarikuyta atin, sapanpis, ama kamachiypi qilqasqa kaqta saruchaspa.
+
+4. Allin kawsayta apaspa, tantachakuytapis atin, piwanpis qhawachikuspa manapis.
+
+5. Yuyaynintapis parlarispa, qilqarisqa, sapanpis qutupipis willarita atin.
+
+6. Willaykunatapis umanchakuyta, waqkunaman willariyta atin, sapanpis qutupipis.
+
+7. Kay Bolivia jallp'api may chiqanpipis bolivianakuna, bolivianokuna tiyakuyta puririyta atinku.
+
+###### Juch'uy kamachiy 22.
+
+Mana pipis qhasillamanta wisq'asqa kanmanchu, manataq wasankumanta parlallankumanchu. Estado yupaychanan, jark'anan tiyan.
+
+###### Juch'uy kamachiy 23.
+
+I. Tukuy runa mana qhasillamanta wisq'aqa qhatichasqa kananchu tiyan. Kamachiypi qilqasqa kaqtillan pipis wisq'asqa kanman.
+
+II. Mana maqt'akunata imillakunata wisq'ankumanchu. Jina kaqtinqa kamachiqkuna, mana maqasqa, allin qhawasqa kanan tiyan, amataq sutinta tukuyman willanankuchu tiyan. Mana machu runa wisq'asqa kasan chaypi wisq'anankunchu tiyan.
+
+Ministerio de la Presidencia - V.C.G.G
+
+14
 
 Fundación Konrad Adenauer (KAS)
 
@@ -13561,61 +731,15 @@ Fundación Konrad Adenauer (KAS)
 
 ESTADOQ KURAQ KAMACHIYNIN
 
-- Ama  qhasimanta  pipis  jap'isqataq  wisq'asqatqa  kananchu,  juchayuq  kaspalla qilqasqa kamachiy nisqanmanjina. Ajina kaspataq kamachiy uk qilqanapi kamachinan tiyan.
-
-- Pichus  juchanta  qhawachikuqtinqa  piwanpis  jap'ichikuyta  atin,  mana  kamachiqpata kamachiynintapunichu suyanan tiyan, kamachiqman apanan tiyan, paytaq iskay chunka tawayuqpachapi chay ch'ampata sut'inchanan tiyan.
-
-- Maypachachus uk runa wisq'asqa kanqa imamantachus, piraykuchus wisq'asqa kasan chaymanta willasqa kanqa.
-
-- Wisq'asqa  wasikunapi  pikunachus  wisq'aqa  kasanku,  chaykunamanta  uk  p'anqa qilqanapi  sutinkuta,  kayninkumanta,  tukuy  paykunamanta  qilqasqa  apaykachananku tiyan.  Watukuqkunamantapis qilqasqapi jallch'ananku tiyan. Mana jinata ruwaqtinkuqa kamachiy nisqanmanjina ruwakunqa.
-
-###### Juch'uy kamachiy 24.
-
-Tukuy  runa,  sapallanpis  qutupipis,  qilqasqapipis,  parlaspallapis,  usqhayta  wilanankupaq waturiyta atinman. Kayta ruwananpaq karnitillanta qunan tiyan.
-
-###### Juch'uy kamachiy 25.
-
-- Mana  wasiyuq  kaqkunaqa  mana  waq  wasikunaman  yaykullankumanchu,  manataq parlayninkuta, mana parlaq uyarisqa kayta munaqtin, pipis uyarillanmanchu.
-
-- Apachiku, papeles privados mana kichasqachukanantiyan, manapipiskaykuna jap'ikapuyta  atinchu,  kamachiymanjina  kamachiq  qilqasqapi  niqtillan  qhawarikuyta atikun.
-
-- Mana  imawanpis  nitaq  kamachiq,  ma  pipis  waqkunaq  parlayninta  uyarinanchu tiyan.
-
-- Qilqasqa  apachiku  kichasqawanqa  mana  juchayuq  kaq  juchanta  pampachananpaq sumaqchu.
-
-##### ISKAY KAQ RAK'IY DERECHOS POLITICOSMANTA
-
-###### Juch'uy kamachiy 26.
-
-- Tukuy  warmi  qhari  kay  llaqtapi  tiyaqkuna  aqllachikuyapis,  aqllaytapis,  controlaytapis poder político nisqata atinchis, paykunapis chayri aqllasqaniqtapis, sapankupis, qutupipis. Qharipis warmipis aqllachikuyta, aqllaytapis atin.
-
-- Derecho participacionpaq ajina:
-
-- Aqllachikuyta munaspaqa Constitución chantapis kamachiy kasqanmanjina wakichikunan tiyan.
-
-- Tukuy runa ukmanta uk, mana piwanpis, yupaychakusqanmanjina ch'ikllanan tiyan. Chunka pusqniyuq watankuta junt'asqaqkuna ch'ikllayta atinku.
-
-15
-
-###### Artículo 26.
-
-- Todas  las  ciudadanas  y  los  ciudadanos  tienen  derecho  a  participar  libremente  en la  formación,  ejercicio  y  control  del  poder  político,  directamente  o  por  medio  de  sus representantes, y de manera individual o colectiva. La participación será equitativa y en igualdad de condiciones entre hombres y mujeres.
-
-- II . El derecho a la participación comprende:
-
-- La organización con fines de participación política, conforme a la Constitución y a la ley.
-
-- El sufragio, mediante voto igual, universal, directo, individual, secreto, libre y obligatorio, escrutado públicamente. El sufragio se ejercerá a partir de los dieciocho años cumplidos.
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- III . 	 	 Nadie podrá ser detenido, aprehendido o privado de su libertad, salvo en los casos y según las formas establecidas por la ley. La ejecución del mandamiento requerirá que éste emane de autoridad competente y que sea emitido por escrito.
+III. Nadie podrá ser detenido, aprehendido o privado de su libertad, salvo en los casos y según las formas establecidas por la ley. La ejecución del mandamiento requerirá que éste emane de autoridad competente y que sea emitido por escrito.
 
-- IV . 	Toda  persona  que  sea  encontrada  en  delito  flagrante  podrá  ser  aprehendida  por cualquier otra persona, aun sin mandamiento. El único objeto de la aprehensión será su conducción ante autoridad judicial competente, quien deberá resolver su situación jurídica en el plazo máximo de veinticuatro horas.
+IV. Toda persona que sea encontrada en delito flagrante podrá ser aprehendida por cualquier otra persona, aun sin mandamiento. El único objeto de la aprehensión será su conducción ante autoridad judicial competente, quien deberá resolver su situación jurídica en el plazo máximo de veinticuatro horas.
 
-- V . 	 	 En el momento en que una persona sea privada de su libertad, será informada de los motivos por los que se procede a su detención, así como de la denuncia o querella formulada en su contra.
+V. En el momento en que una persona sea privada de su libertad, será informada de los motivos por los que se procede a su detención, así como de la denuncia o querella formulada en su contra.
 
-- VI .  Los  responsables  de  los  centros  de  reclusión  deberán  llevar  el  registro  de  personas privadas  de  libertad.  No  recibirán  a  ninguna  persona  sin  copiar  en  su  registro  el mandamiento  correspondiente.  Su  incumplimiento  dará  lugar  al  procesamiento  y sanciones que señale la ley.
+VI. Los responsables de los centros de reclusión deberán llevar el registro de personas privadas de libertad. No recibirán a ninguna persona sin copiar en su registro el mandamiento correspondiente. Su incumplimiento dará lugar al procesamiento y sanciones que señale la ley.
 
 ###### Artículo 24.
 
@@ -13623,17 +747,63 @@ Toda persona tiene derecho a la petición de manera individual o colectiva, sea 
 
 ###### Artículo 25.
 
-- I . Toda  persona  tiene  derecho  a  la  inviolabilidad  de  su  domicilio  y  al  secreto  de  las comunicaciones privadas en todas sus formas, salvo autorización judicial.
+I. Toda persona tiene derecho a la inviolabilidad de su domicilio y al secreto de las comunicaciones privadas en todas sus formas, salvo autorización judicial.
 
-- II . 	 Son inviolables la correspondencia, los papeles privados y las manifestaciones privadas contenidas en cualquier soporte, éstos no podrán ser incautados salvo en los casos determinados por la ley para la investigación penal, en virtud de orden escrita y motivada de autoridad judicial competente.
+II. Son inviolables la correspondencia, los papeles privados y las manifestaciones privadas contenidas en cualquier soporte, éstos no podrán ser incautados salvo en los casos determinados por la ley para la investigación penal, en virtud de orden escrita y motivada de autoridad judicial competente.
 
-- III . 	 Ni la autoridad pública, ni persona u organismo alguno podrán interceptar conversaciones o comunicaciones privadas mediante instalación que las controle o centralice.
+III. Ni la autoridad pública, ni persona u organismo alguno podrán interceptar conversaciones o comunicaciones privadas mediante instalación que las controle o centralice.
 
-- IV . 	La información y prueba obtenidas con violación de correspondencia y comunicaciones en cualquiera de sus formas no producirán efecto legal.
+IV. La información y prueba obtenidas con violación de correspondencia y comunicaciones en cualquiera de sus formas no producirán efecto legal.
 
 ##### SECCIÓN II DERECHOS POLÍTICOS
 
+###### Artículo 26.
+
+I. Todas las ciudadanas y los ciudadanos tienen derecho a participar libremente en la formación, ejercicio y control del poder político, directamente o por medio de sus representantes, y de manera individual o colectiva. La participación será equitativa y en igualdad de condiciones entre hombres y mujeres.
+
+II. El derecho a la participación comprende:
+
+1. La organización con fines de participación política, conforme a la Constitución y a la ley.
+
+2. El sufragio, mediante voto igual, universal, directo, individual, secreto, libre y obligatorio, escrutado públicamente. El sufragio se ejercerá a partir de los dieciocho años cumplidos.
+
+III. Ama qhasimanta pipis jap'isqataq wisq'asqatqa kananchu, juchayuq kaspalla qilqasqa kamachiy nisqanmanjina. Ajina kaspataq kamachiy uk qilqanapi kamachinan tiyan.
+
+IV. Pichus juchanta qhawachikuqtinqa piwanpis jap'ichikuyta atin, mana kamachiqpata kamachiynintapunichu suyanan tiyan, kamachiqman apanan tiyan, paytaq iskay chunka tawayuqpachapi chay ch'ampata sut'inchanan tiyan.
+
+V. Maypachachus uk runa wisq'asqa kanqa imamantachus, piraykuchus wisq'asqa kasan chaymanta willasqa kanqa.
+
+VI. Wisq'asqa wasikunapi pikunachus wisq'aqa kasanku, chaykunamanta uk p'anqa qilqanapi sutinkuta, kayninkumanta, tukuy paykunamanta qilqasqa apaykachananku tiyan. Watukuqkunamantapis qilqasqapi jallch'ananku tiyan. Mana jinata ruwaqtinkuqa kamachiy nisqanmanjina ruwakunqa.
+
+###### Juch'uy kamachiy 24.
+
+Tukuy runa, sapallanpis qutupipis, qilqasqapipis, parlaspallapis, usqhayta wilanankupaq waturiyta atinman. Kayta ruwananpaq karnitillanta qunan tiyan.
+
+###### Juch'uy kamachiy 25.
+
+I. Mana wasiyuq kaqkunaqa mana waq wasikunaman yaykullankumanchu, manataq parlayninkuta, mana parlaq uyarisqa kayta munaqtin, pipis uyarillanmanchu.
+
+II. Apachiku, papeles privados mana kichasqachu kanan tiyan, mana pipis kaykuna jap'ikapuyta atinchu, kamachiymanjina kamachiq qilqasqapi niqtillan qhawarikuyta atikun.
+
+III. Mana imawanpis nitaq kamachiq, ma pipis waqkunaq parlayninta uyarinanchu tiyan.
+
+IV. Qilqasqa apachiku kichasqawanqa mana juchayuq kaq juchanta pampachananpaq sumaqchu.
+
+##### ISKAY KAQ RAK'IY DERECHOS POLITICOSMANTA
+
+###### Juch'uy kamachiy 26.
+
+I. Tukuy warmi qhari kay llaqtapi tiyaqkuna aqllachikuyapis, aqllaytapis, controlaytapis poder político nisqata atinchis, paykunapis chayri aqllasqaniqtapis, sapankupis, qutupipis. Qharipis warmipis aqllachikuyta, aqllaytapis atin.
+
+II. Derecho participacionpaq ajina:
+
+1. Aqllachikuyta munaspaqa Constitución chantapis kamachiy kasqanmanjina wakichikunan tiyan.
+
+2. Tukuy runa ukmanta uk, mana piwanpis, yupaychakusqanmanjina ch'ikllanan tiyan. Chunka pusqniyuq watankuta junt'asqaqkuna ch'ikllayta atinku.
+
 Ministerio de la Presidencia - V.C.G.G
+
+15
 
 Fundación Konrad Adenauer (KAS)
 
@@ -13643,33 +813,71 @@ Fundación Konrad Adenauer (KAS)
 
 ESTADOQ KURAQ KAMACHIYNIN
 
-- May chiqankunapichus democracia comunitaria nisqa qhawakun kamachiyninkumanjina  chantapis  Órganos  Electoral  qhawarisqanwan  procesos electorales  nisqa  apakunqa.  Kayqa  jina  kanqa  mana  kikin  kay  jatun,  kamachiypi nisqanmanjina aqllakuqtin.
+CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Aqllaypis,  sutichaypis,  aqllasqakunataqa  tukuy  chaqra  llaqtakunamanta  paykuna ruwanqanku, kamachiyninkumanjina, ruwayninkumanjina.
+3. Donde se practique la democracia comunitaria, los procesos electorales se ejercerán según normas y procedimientos propios, supervisados por el Órgano Electoral, siempre y cuando el acto electoral no esté sujeto al voto igual, universal, directo, secreto, libre y obligatorio.
 
-- Institucionkunapi llank'ayninku ñawinchasqa kanan tiyan.
+4. La elección, designación y nominación directa de los representantes de las naciones y pueblos indígena originario campesinos, de acuerdo con sus normas y procedimientos propios.
+
+5. La fiscalización de los actos de la función pública.
+
+###### Artículo 27.
+
+I. Las bolivianas y los bolivianos residentes en el exterior tienen derecho a participar en las elecciones a la Presidencia y Vicepresidencia del Estado, y en las demás señaladas por la ley. El derecho se ejercerá a través del registro y empadronamiento realizado por el Órgano Electoral.
+
+II. Las extranjeras y los extranjeros residentes en Bolivia tienen derecho a sufragar en las elecciones municipales, conforme a la ley, aplicando principios de reciprocidad internacional.
+
+###### Artículo 28.
+
+El ejercicio de los derechos políticos se suspende en los siguientes casos, previa sentencia ejecutoriada mientras la pena no haya sido cumplida:
+
+1. Por tomar armas y prestar servicio en fuerzas armadas enemigas en tiempos de guerra.
+
+2. Por defraudación de recursos públicos.
+
+3. Por traición a la patria.
+
+###### Artículo 29.
+
+I. Se reconoce a las extranjeras y los extranjeros el derecho a pedir y recibir asilo o refugio por persecución política o ideológica, de conformidad con las leyes y los tratados internacionales.
+
+II. Toda persona a quien se haya otorgado en Bolivia asilo o refugio no será expulsada o entregada a un país donde su vida, integridad, seguridad o libertad peligren. El Estado atenderá de manera positiva, humanitaria y expedita las solicitudes de reunificación familiar que se presenten por padres o hijos asilados o refugiados.
+
+#### CAPÍTULO CUARTO
+
+#### DERECHOS DE LAS NACIONES Y PUEBLOS INDÍGENA ORIGINARIO CAMPESINOS
+
+###### Artículo 30.
+
+I. Es nación y pueblo indígena originario campesino toda la colectividad humana que comparta identidad cultural, idioma, tradición histórica, instituciones, territorialidad y cosmovisión, cuya existencia es anterior a la invasión colonial española.
+
+3. May chiqankunapichus democracia comunitaria nisqa qhawakun kamachiyninkumanjina chantapis Órganos Electoral qhawarisqanwan procesos electorales nisqa apakunqa. Kayqa jina kanqa mana kikin kay jatun, kamachiypi nisqanmanjina aqllakuqtin.
+
+4. Aqllaypis, sutichaypis, aqllasqakunataqa tukuy chaqra llaqtakunamanta paykuna ruwanqanku, kamachiyninkumanjina, ruwayninkumanjina.
+
+5. Institucionkunapi llank'ayninku ñawinchasqa kanan tiyan.
 
 ###### Juch'uy kamachiy 27.
 
-- Jawa  llaqtakunapi  bolivianakuna  bolivianokuna  tiyakunaqa  kuraq  kamachiq  sullk'a kamachiqta kay Bolivia suyunchismanta ch'ikllaspa aqllayta atinku. Chaypaqqa sutinku qilqasqa kanan tiyan.
+I. Jawa llaqtakunapi bolivianakuna bolivianokuna tiyakunaqa kuraq kamachiq sullk'a kamachiqta kay Bolivia suyunchismanta ch'ikllaspa aqllayta atinku. Chaypaqqa sutinku qilqasqa kanan tiyan.
 
-- Jawa llaqtakunamanta kay Bolivia suyupi tiyaqkunaqa municipales aqllaykunapi kamachiy kasqanmanjina aqllayta atinku.
+II. Jawa llaqtakunamanta kay Bolivia suyupi tiyaqkunaqa municipales aqllaykunapi kamachiy kasqanmanjina aqllayta atinku.
 
 ###### Juch'uy kamachiy 28.
 
 Mana yuyaychakuy atiyniyuq kanqachu mayk'aqchus:
 
-- Jawa llaqtakunawan maqanakupi kasaspa, paykunata yanapaqtin.
+1. Jawa llaqtakunawan maqanakupi kasaspa, paykunata yanapaqtin.
 
-- Institucionkunamanta mana qulqita allin t'akaqtin.
+2. Institucionkunamanta mana qulqita allin t'akaqtin.
 
-- Suyunchista traicionaqtin.
+3. Suyunchista traicionaqtin.
 
 ###### Juch'uy kamachiy 29.
 
-- Jawa llaqtakunamanta warmikinatawan, qharikunatawan política nisqarayku mask'asqa kaqtinku kay Bolivia suyupi tiyakuyta munaqtinku tiyayta atinku, jawa llaqtakunamanta kamachiyninmanjina.
+I. Jawa llaqtakunamanta warmikinatawan, qharikunatawan política nisqarayku mask'asqa kaqtinku kay Bolivia suyupi tiyakuyta munaqtinku tiyayta atinku, jawa llaqtakunamanta kamachiyninmanjina.
 
-- Tukuy  runa  pikunachus  kay  Bolivia  suyupi  wajiyasqa  kasanku  mana  wikch'usqa kanqankuchu manataq waq llaqtakunaman apanankuta saqinqachu, maypichus kawsaynin  mana  allin  jallch'asqa  kanqa.  Estado  wajiyasqa  ayllunwan  tantakunanpaq mañaqtin uyarinqa.
+II. Tukuy runa pikunachus kay Bolivia suyupi wajiyasqa kasanku mana wikch'usqa kanqankuchu manataq waq llaqtakunaman apanankuta saqinqachu, maypichus kawsaynin mana allin jallch'asqa kanqa. Estado wajiyasqa ayllunwan tantakunanpaq mañaqtin uyarinqa.
 
 #### TAWA KAQ JUCH'UY PHATMA
 
@@ -13677,49 +885,11 @@ Mana yuyaychakuy atiyniyuq kanqachu mayk'aqchus:
 
 ###### Juch'uy kamachiy 30.
 
-- Nacionwan  pueblo  indígena  originario  campesinowan  tukuy  runa  pikunachus  kikin kawsayniyuq, kikin parlayniyuq, kikin, institucionkunayuq, kikin jallp'ayuq, kikin yuyaychayniyuq kaqkuna kanku. Paykuna ñawpaq q'arakuna chayamusqankumantaña kay Bolivia jallp'akunapi tiyaqkuna kanku.
-
-16
-
-###### Artículo 30.
-
-- I . Es  nación  y  pueblo  indígena  originario  campesino  toda  la  colectividad  humana  que comparta  identidad  cultural,  idioma,  tradición  histórica,  instituciones,  territorialidad  y cosmovisión, cuya existencia es anterior a la invasión colonial española.
-
-CONSTITUCIÓN POLÍTICA DEL ESTADO
-
-- Donde se practique la democracia comunitaria, los procesos electorales se ejercerán según  normas  y  procedimientos  propios,  supervisados  por  el  Órgano  Electoral, siempre y cuando el acto electoral no esté sujeto al voto igual, universal, directo, secreto, libre y obligatorio.
-
-- La  elección,  designación  y  nominación  directa  de  los  representantes  de  las naciones y pueblos indígena originario campesinos, de acuerdo con sus normas y procedimientos propios.
-
-- La fiscalización de los actos de la función pública.
-
-###### Artículo 27.
-
-- I . Las bolivianas y los bolivianos residentes en el exterior tienen derecho a participar en las elecciones a la Presidencia y Vicepresidencia del Estado, y en las demás señaladas por la ley. El derecho se ejercerá a través del registro y empadronamiento realizado por el Órgano Electoral.
-
-- II . Las  extranjeras  y  los  extranjeros  residentes  en  Bolivia  tienen  derecho  a  sufragar  en las  elecciones  municipales,  conforme  a  la  ley,  aplicando  principios  de  reciprocidad internacional.
-
-###### Artículo 28.
-
-El ejercicio de los derechos políticos se suspende en los siguientes casos, previa sentencia ejecutoriada mientras la pena no haya sido cumplida:
-
-- Por tomar armas y prestar servicio en fuerzas armadas enemigas en tiempos de guerra.
-
-- Por defraudación de recursos públicos.
-
-- Por traición a la patria.
-
-###### Artículo 29.
-
-- I . Se  reconoce  a  las  extranjeras  y  los  extranjeros  el  derecho  a  pedir  y  recibir  asilo  o refugio por persecución política o ideológica, de conformidad con las leyes y los tratados internacionales.
-
-- II . 	 Toda persona a quien se haya otorgado en Bolivia asilo o refugio no será expulsada o entregada a un país donde su vida, integridad, seguridad o libertad peligren. El Estado atenderá  de  manera  positiva,  humanitaria  y  expedita  las  solicitudes  de  reunificación familiar que se presenten por padres o hijos asilados o refugiados.
-
-#### CAPÍTULO CUARTO
-
-#### DERECHOS DE LAS NACIONES Y PUEBLOS INDÍGENA ORIGINARIO CAMPESINOS
+I. Nacionwan pueblo indígena originario campesinowan tukuy runa pikunachus kikin kawsayniyuq, kikin parlayniyuq, kikin, institucionkunayuq, kikin jallp'ayuq, kikin yuyaychayniyuq kaqkuna kanku. Paykuna ñawpaq q'arakuna chayamusqankumantaña kay Bolivia jallp'akunapi tiyaqkuna kanku.
 
 Ministerio de la Presidencia - V.C.G.G
+
+16
 
 Fundación Konrad Adenauer (KAS)
 
@@ -13729,105 +899,105 @@ Fundación Konrad Adenauer (KAS)
 
 ESTADOQ KURAQ KAMACHIYNIN
 
-- Kay Constitucionmanjina nacionkunawan pueblos indígena originario campesinokunawan kaykunata ruwayta atinku:
-
-- Mana saruchasqa kawsakuyta atin.
-
-- Kayninmanjina yupaychasqanmanjina, kawsakusqankumanjina yuyaychasqanmanjina, kawsakuyta atin.
-
-- Runa munaqtinqa cedulanpi, pasaportenpi, waqkunapiwan maykunachus kasqanta qhawachin chaykuna boliviano kasqallanta churachikunman, manaqa kaq kaynintawan.
-
-- Jallp'ayuq kayta atinku.
-
-- Institucionninkuna Estadoq estructura general ukhupi kanan tiyan.
-
-- Jallp'anku sutinkuwan sutichasqa kayta atin.
-
-- Aqllasqa jallp'ankuta jallch'asqa kayta atin.
-
-- Sistemas,  medios,  redes  de  comunicación  nisqatawan  kananta,  apaykachananta ima qhawanan tiyan.
-
-- Unay  yachayninku,  unay  jampikuna,  siminkuna,  yupaychachinku,  wiphalanku, p'achanku yupaychasqa, chantapis ñawpaqman apasqa kanan tiyan.
-
-- Sumaq medio ambiente nisqaqi runa tiyakuyta atin.
-
-- Imatapis pikunapis qilqaqtinku unaymantapacha yachaqayninku, yahayninku mana pipis suwanmanchu.
-
-- Kayninku ukhupi, waq laya runawan, tukuy laya parlayninyuq yachaqakuyta atinku.
-
-- Yuyaychakusqankumanjina,  unqusqa  kaspa  tukuy  qhasillamanta  qhawachikuyta atinku.
-
-- Yuyaychakusqankunanjina, sistemas políticos, jurídicos, económicospiwan apaykachayta atinku.
-
-- Sapakutillank'anapaqmusuqkamachiyta urqhuskusaqtin ama saruchasqa kanankupqa imaynatachus kanan tiyan, chaymanjina institucionesninwan sumqllamanta watirisqa kayta atinku. Jinamanta, Estado chay recursos naturales no renobles jallp'ata llank'achinanpaq watunanpuni tiyan.
-
-- Recursos naturales nisqamanta jallp'ankupi wakin qulqita jap'iyta atinqanku.
-
-- Chaqra llaqtakunaqpata jallp'anku recursos naturales renovables apaychayta atinku.
-
-- Estadoq Órgano nisqakunapi, institucionninkunapi parlayniyuq kayta atinku.
-
-- Estadoqa  nacionkunaqpatawan  pueblos  indígena  originario  campesinokunaqpatawan ruway atiyninkuta yupaychan chantapis imamantapis jark'an.
-
-###### Juch'uy kamachiy 31.
-
-- Juch'uy  nacionkunawan juch'uy pueblos indígena originariokunapiwan chinkapusanku chaykunaqa  sapa  uk,  qutupipis  yanapasqa  kanqanku,  kawsayninkupi  chanichasqa kanqanku.
-
-- Nacionkunawan  pueblos  indigenakunawan  sapallanku  tiyakuyta  munaspaqa,  jinata tiyakunqanku, chantapis lindiruyuq kayta atinku.
-
-17
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- II . 	 En el marco de la unidad del Estado y de acuerdo con esta Constitución las naciones y pueblos indígena originario campesinos gozan de los siguientes derechos:
+II. En el marco de la unidad del Estado y de acuerdo con esta Constitución las naciones y pueblos indígena originario campesinos gozan de los siguientes derechos:
 
-- A existir libremente.
+1. A existir libremente.
 
-- A su identidad cultural, creencia religiosa, espiritualidades, prácticas y costumbres, y a su propia cosmovisión.
+2. A su identidad cultural, creencia religiosa, espiritualidades, prácticas y costumbres, y a su propia cosmovisión.
 
-- A  que  la  identidad  cultural  de  cada  uno  de  sus  miembros,  si  así  lo  desea,  se inscriba junto a la ciudadanía boliviana en su cédula de identidad, pasaporte u otros documentos de identificación con validez legal.
+3. A que la identidad cultural de cada uno de sus miembros, si así lo desea, se inscriba junto a la ciudadanía boliviana en su cédula de identidad, pasaporte u otros documentos de identificación con validez legal.
 
-- A la libre determinación y territorialidad.
+4. A la libre determinación y territorialidad.
 
-- A que sus instituciones sean parte de la estructura general del Estado.
+5. A que sus instituciones sean parte de la estructura general del Estado.
 
-- A la titulación colectiva de tierras y territorios.
+6. A la titulación colectiva de tierras y territorios.
 
-- A la protección de sus lugares sagrados.
+7. A la protección de sus lugares sagrados.
 
-- A crear y administrar sistemas, medios y redes de comunicación propios.
+8. A crear y administrar sistemas, medios y redes de comunicación propios.
 
-- A que sus saberes y conocimientos tradicionales, su medicina tradicional, sus idiomas, sus rituales y sus símbolos y vestimentas sean valorados, respetados y promocionados.
+9. A que sus saberes y conocimientos tradicionales, su medicina tradicional, sus idiomas, sus rituales y sus símbolos y vestimentas sean valorados, respetados y promocionados.
 
-- A vivir en un medio ambiente sano, con manejo y aprovechamiento adecuado de los ecosistemas.
+10. A vivir en un medio ambiente sano, con manejo y aprovechamiento adecuado de los ecosistemas.
 
-- A  la  propiedad  intelectual  colectiva  de  sus  saberes,  ciencias  y  conocimientos,  así como a su valoración, uso, promoción y desarrollo.
+11. A la propiedad intelectual colectiva de sus saberes, ciencias y conocimientos, así como a su valoración, uso, promoción y desarrollo.
 
-- A una educación intracultural, intercultural y plurilingüe en todo el sistema educativo.
+12. A una educación intracultural, intercultural y plurilingüe en todo el sistema educativo.
 
-- Al  sistema  de  salud  universal  y  gratuito  que  respete  su  cosmovisión  y  prácticas tradicionales.
+13. Al sistema de salud universal y gratuito que respete su cosmovisión y prácticas tradicionales.
 
-- Al ejercicio de sus sistemas políticos, jurídicos y económicos acorde a su cosmovisión.
+14. Al ejercicio de sus sistemas políticos, jurídicos y económicos acorde a su cosmovisión.
 
-- A  ser  consultados  mediante  procedimientos  apropiados,  y  en  particular  a  través  de sus  instituciones,  cada  vez  que  se  prevean  medidas  legislativas  o  administrativas susceptibles de afectarles. En este marco, se respetará y garantizará el derecho a la consulta previa obligatoria, realizada por el Estado, de buena fe y concertada, respecto a la explotación de los recursos naturales no renovables en el territorio que habitan.
+15. A ser consultados mediante procedimientos apropiados, y en particular a través de sus instituciones, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles. En este marco, se respetará y garantizará el derecho a la consulta previa obligatoria, realizada por el Estado, de buena fe y concertada, respecto a la explotación de los recursos naturales no renovables en el territorio que habitan.
 
-- A la participación en los beneficios de la explotación de los recursos naturales en sus territorios.
+16. A la participación en los beneficios de la explotación de los recursos naturales en sus territorios.
 
-- A la gestión territorial indígena autónoma, y al uso y aprovechamiento exclusivo de los recursos naturales renovables existentes en su territorio sin perjuicio de los derechos legítimamente adquiridos por terceros.
+17. A la gestión territorial indígena autónoma, y al uso y aprovechamiento exclusivo de los recursos naturales renovables existentes en su territorio sin perjuicio de los derechos legítimamente adquiridos por terceros.
 
-- A la participación en los órganos e instituciones del Estado.
+18. A la participación en los órganos e instituciones del Estado.
 
-- III . 	 El Estado garantiza, respeta y protege los derechos de las naciones y pueblos indígena originario campesinos consagrados en esta Constitución y la ley.
+III. El Estado garantiza, respeta y protege los derechos de las naciones y pueblos indígena originario campesinos consagrados en esta Constitución y la ley.
 
 ###### Artículo 31.
 
-- I . Las  naciones  y  pueblos  indígena  originarios  en  peligro  de  extinción,  en  situación  de aislamiento voluntario y no contactados, serán protegidos y respetados en sus formas de vida individual y colectiva.
+I. Las naciones y pueblos indígena originarios en peligro de extinción, en situación de aislamiento voluntario y no contactados, serán protegidos y respetados en sus formas de vida individual y colectiva.
 
-- II . 	 Las naciones y pueblos indígenas en aislamiento y no contactados gozan del derecho a mantenerse en esa condición, a la delimitación y consolidación legal del territorio que ocupan y habitan.
+II. Las naciones y pueblos indígenas en aislamiento y no contactados gozan del derecho a mantenerse en esa condición, a la delimitación y consolidación legal del territorio que ocupan y habitan.
 
-Fundación Konrad Adenauer (KAS)
+II. Kay Constitucionmanjina nacionkunawan pueblos indígena originario campesinokunawan kaykunata ruwayta atinku:
+
+1. Mana saruchasqa kawsakuyta atin.
+
+2. Kayninmanjina yupaychasqanmanjina, kawsakusqankumanjina yuyaychasqanmanjina, kawsakuyta atin.
+
+3. Runa munaqtinqa cedulanpi, pasaportenpi, waqkunapiwan maykunachus kasqanta qhawachin chaykuna boliviano kasqallanta churachikunman, manaqa kaq kaynintawan.
+
+4. Jallp'ayuq kayta atinku.
+
+5. Institucionninkuna Estadoq estructura general ukhupi kanan tiyan.
+
+6. Jallp'anku sutinkuwan sutichasqa kayta atin.
+
+7. Aqllasqa jallp'ankuta jallch'asqa kayta atin.
+
+8. Sistemas, medios, redes de comunicación nisqatawan kananta, apaykachananta ima qhawanan tiyan.
+
+9. Unay yachayninku, unay jampikuna, siminkuna, yupaychachinku, wiphalanku, p'achanku yupaychasqa, chantapis ñawpaqman apasqa kanan tiyan.
+
+10. Sumaq medio ambiente nisqaqi runa tiyakuyta atin.
+
+11. Imatapis pikunapis qilqaqtinku unaymantapacha yachaqayninku, yahayninku mana pipis suwanmanchu.
+
+12. Kayninku ukhupi, waq laya runawan, tukuy laya parlayninyuq yachaqakuyta atinku.
+
+13. Yuyaychakusqankumanjina, unqusqa kaspa tukuy qhasillamanta qhawachikuyta atinku.
+
+14. Yuyaychakusqankunanjina, sistemas políticos, jurídicos, económicospiwan apaykachayta atinku.
+
+15. Sapa kuti llank'anapaq musuq kamachiyta urqhuskusaqtin ama saruchasqa kanankupqa imaynatachus kanan tiyan, chaymanjina institucionesninwan sumqllamanta watirisqa kayta atinku. Jinamanta, Estado chay recursos naturales no renobles jallp'ata llank'achinanpaq watunanpuni tiyan.
+
+16. Recursos naturales nisqamanta jallp'ankupi wakin qulqita jap'iyta atinqanku.
+
+17. Chaqra llaqtakunaqpata jallp'anku recursos naturales renovables apaychayta atinku.
+
+18. Estadoq Órgano nisqakunapi, institucionninkunapi parlayniyuq kayta atinku.
+
+III. Estadoqa nacionkunaqpatawan pueblos indígena originario campesinokunaqpatawan ruway atiyninkuta yupaychan chantapis imamantapis jark'an.
+
+###### Juch'uy kamachiy 31.
+
+I. Juch'uy nacionkunawan juch'uy pueblos indígena originariokunapiwan chinkapusanku chaykunaqa sapa uk, qutupipis yanapasqa kanqanku, kawsayninkupi chanichasqa kanqanku.
+
+II. Nacionkunawan pueblos indigenakunawan sapallanku tiyakuyta munaspaqa, jinata tiyakunqanku, chantapis lindiruyuq kayta atinku.
 
 Ministerio de la Presidencia - V.C.G.G
+
+17
+
+Fundación Konrad Adenauer (KAS)
 
 [[END OF PAGE 18]]
 
@@ -13836,6 +1006,40 @@ Ministerio de la Presidencia - V.C.G.G
 ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
+
+###### Artículo 32.
+
+El pueblo afroboliviano goza, en todo lo que corresponda, de los derechos económicos, sociales, políticos y culturales reconocidos en la Constitución para las naciones y pueblos indígena originario campesinos.
+
+#### CAPÍTULO QUINTO DERECHOS SOCIALES Y ECONÓMICOS
+
+##### SECCIÓN I DERECHO AL MEDIO AMBIENTE
+
+###### Artículo 33.
+
+Las personas tienen derecho a un medio ambiente saludable, protegido y equilibrado. El ejercicio de este derecho debe permitir a los individuos y colectividades de las presentes y futuras generaciones, además de otros seres vivos, desarrollarse de manera normal y permanente.
+
+###### Artículo 34.
+
+Cualquier persona, a título individual o en representación de una colectividad, está facultada para ejercitar las acciones legales en defensa del derecho al medio ambiente, sin perjuicio de la obligación de las instituciones públicas de actuar de oficio frente a los atentados contra el medio ambiente.
+
+##### SECCIÓN II DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL
+
+###### Artículo 35.
+
+I. El Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida, el bienestar colectivo y el acceso gratuito de la población a los servicios de salud.
+
+II. El sistema de salud es único e incluye a la medicina tradicional de las naciones y pueblos indígena originario campesinos.
+
+###### Artículo 36.
+
+I. El Estado garantizará el acceso al seguro universal de salud.
+
+II. El Estado controlará el ejercicio de los servicios públicos y privados de salud, y lo regulará mediante la ley.
+
+###### Artículo 37.
+
+El Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
 
 ###### Juch'uy kamachiy 32.
 
@@ -13847,7 +1051,7 @@ Afroboliviano runaqa Constitucionpi qilqasqa kasqanmanjina runaq ruway atiyniyuq
 
 ###### Juch'uy kamachiy 33.
 
-Tukuy runa sumaq medio ambiente nisqayuq kayta atin, jinamanta kay pachapi tiyaqkuna, jamuqkunapis  allin  kawsayniyuq  kanankupaq;  chantapis  sach'alunapaq,  uywakunapaq sumaq kananpaq.
+Tukuy runa sumaq medio ambiente nisqayuq kayta atin, jinamanta kay pachapi tiyaqkuna, jamuqkunapis allin kawsayniyuq kanankupaq; chantapis sach'alunapaq, uywakunapaq sumaq kananpaq.
 
 ###### Juch'uy kamachiy 34.
 
@@ -13857,15 +1061,15 @@ Runa manaqa tantasqa runa pikunachus medio ambiente nisqata khuchichanku paykuna
 
 ###### Juch'uy kamachiy 35.
 
-- Sumaq kawsaypi kawsanapaqtaq, tukuy runa mana qulqiwan jampichikunankupaqtaq políticas públicas nisqata qhawarispa, estado runaq saludniyuq kay atiyninta qhawanan tiyan.
+I. Sumaq kawsaypi kawsanapaqtaq, tukuy runa mana qulqiwan jampichikunankupaqtaq políticas públicas nisqata qhawarispa, estado runaq saludniyuq kay atiyninta qhawanan tiyan.
 
-- Sistema  de  salud  nisqa  uklla,  naciones  pueblos  indígena  originario  campesinospata unay jampikuna yachaykunatawan yupaychan.
+II. Sistema de salud nisqa uklla, naciones pueblos indígena originario campesinospata unay jampikuna yachaykunatawan yupaychan.
 
 ###### Juch'uy kamachiy 36.
 
-- Seguro universal salud nisqayuq runa kananpaq Estado qhawanan tiyan.
+I. Seguro universal salud nisqayuq runa kananpaq Estado qhawanan tiyan.
 
-- Estado, kamachiymanjina imaynatachus Estadoq, runaq jampinawasinkunapi llank'akun chayta qhawarinqa.
+II. Estado, kamachiymanjina imaynatachus Estadoq, runaq jampinawasinkunapi llank'akun chayta qhawarinqa.
 
 ###### Juch'uy kamachiy 37.
 
@@ -13874,40 +1078,6 @@ Estado derecho saludta qhawanan tiyan, chaypiraq qulqi t'akakunan tiyan, ama unq
 Ministerio de la Presidencia - V.C.G.G
 
 18
-
-###### Artículo 32.
-
-El  pueblo  afroboliviano  goza,  en  todo  lo  que  corresponda,  de  los  derechos  económicos, sociales, políticos y culturales reconocidos en la Constitución para las naciones y pueblos indígena originario campesinos.
-
-#### CAPÍTULO QUINTO DERECHOS SOCIALES Y ECONÓMICOS
-
-##### SECCIÓN I DERECHO AL MEDIO AMBIENTE
-
-###### Artículo 33.
-
-Las personas tienen derecho a un medio ambiente saludable, protegido y equilibrado. El ejercicio de este derecho debe permitir a los individuos y colectividades de las presentes y  futuras  generaciones,  además  de  otros  seres  vivos,  desarrollarse  de  manera  normal  y permanente.
-
-###### Artículo 34.
-
-Cualquier persona, a título individual o en representación de una colectividad, está facultada para ejercitar las acciones legales en defensa del derecho al medio ambiente, sin perjuicio de la obligación de las instituciones públicas de actuar de oficio frente a los atentados contra el medio ambiente.
-
-##### SECCIÓN II DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL
-
-###### Artículo 35.
-
-- I . El Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas  orientadas  a  mejorar  la  calidad  de  vida,  el  bienestar  colectivo  y  el  acceso gratuito de la población a los servicios de salud.
-
-- II . El sistema de salud es único e incluye a la medicina tradicional de las naciones y pueblos indígena originario campesinos.
-
-###### Artículo 36.
-
-- I . El Estado garantizará el acceso al seguro universal de salud.
-
-- II . El  Estado  controlará  el  ejercicio  de  los  servicios  públicos  y  privados  de  salud,  y  lo regulará mediante la ley.
-
-###### Artículo 37.
-
-El Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
 
 Fundación Konrad Adenauer (KAS)
 
@@ -13919,61 +1089,17 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-###### Juch'uy kamachiy 38.
-
-- Estadoqpata mantaq waq makiman salud imasniyuqchus chaykunaqa ripunmanchu.
-
-- Tuta p'uchay jampinawasikunapi llank'ananku tiyan.
-
-###### Juch'uy kamachiy 39.
-
-- Estado servicios de salud público nisqata kananta qhawanan tiyan, chantapis servicio de salud privado nisqa kallanmantaq. Estado kamachiymanjina qhawnan  tiyan, allinyachus manachus jampiqkuna runata qhawasanku, imaynachus, imayuqchus chay jampinawasikuna.
-
-- Mana sumaqta jampiqkuna llan'asankuman chayqa, pantaspa pantaspalla jampisankuman chayqa kamachiy akullqasqa kasqanmanjina qhawachikunqa.
-
-###### Juch'uy kamachiy 40.
-
-Estado kay sistema público saludmanta tukuy runaq parlayninta, yuyayninta uqharinan tiyan.
-
-###### Juch'uy kamachiy 41.
-
-- Estado, runa jampichikunanpaq, jampikuna kananta qhawanan tiyan.
-
-- Astawanpuniqa Estado kay Bolivia suyunchispi jampikuna ruwakusqantaraq apaykachanqanku, mana kaqtinraq jawa llatakunamanta.
-
-- Kamachiymanjina  may  unaymantapacha  jampikunamanta  yachaykunata  qhawasqa kanqa, chantapis imaynachus ruwaynin kasan qhawasqallataq kanqa.
-
-###### Juch'uy kamachiy 42.
-
-- Tukuy laya kawsaykunapi imaynatachus ñawpaqpacha jampikunata apaykacharqanku, chaymanjina Estado unay jampikunata ñawpaqman thaskirichinan tiyan, qhawachinan tiyan, ama saruchanankuta saqinanchu tiyan, imaynatachus chay jampita apaykachanku chayta mask'achinan tiyan.
-
-- Estadoqa  may  unaymantapacha  jampikuna  yachaykunata  thaskirichinan  tiyan.  Kay thaskirichiypiqa  qilqasqa  kanan  tiyan,  chantapis  jark'asqa  kanan  tiyan,  nacionkunaq pueblos indígena originario campesinokunaq kasqanmanjina.
-
-- May unaymantapacha jampikunamanta yachaykunata kamachiy nisqanmanjina kanqa.
-
-###### Juch'uy kamachiy 43.
-
-Runa ukhunkumanta imantapis quyta munaspa, yanapayta munaspa, qhasillamanta qunan tiyan. Chaykunaqa kamachiymanjina kanan tiyan.
-
-###### Juch'uy kamachiy 44.
-
-- Mana munaqtinqa mana pipis ni imanta kuchukunqachu, manataq jampiqwan ukhunta qhawachikuyta munaspa qhawachikunqachu, mana pininpis paymanta parlayta atinchu, wañupasanman chaylla.
-
-- Mana unqusqa munaqtinqa, mana imatapis jampiq ruway atinchu.
-
-19
-
 ###### Artículo 38.
 
-- I . Los bienes y servicios públicos de salud son propiedad del Estado, y no podrán ser privatizados ni concesionados.
+I. Los bienes y servicios públicos de salud son propiedad del Estado, y no podrán ser privatizados ni concesionados.
 
-- II . Los servicios de salud serán prestados de forma ininterrumpida.
+II. Los servicios de salud serán prestados de forma ininterrumpida.
 
 ###### Artículo 39.
 
-- I . El Estado garantizará el servicio de salud público y reconoce el servicio de salud privado; regulará y vigilará la atención de calidad a través de auditorías médicas sostenibles que evalúen el trabajo de su personal, la infraestructura y el equipamiento, de acuerdo con la ley.
+I. El Estado garantizará el servicio de salud público y reconoce el servicio de salud privado; regulará y vigilará la atención de calidad a través de auditorías médicas sostenibles que evalúen el trabajo de su personal, la infraestructura y el equipamiento, de acuerdo con la ley.
 
-- II . La ley sancionará las acciones u omisiones negligentes en el ejercicio de la práctica médica.
+II. La ley sancionará las acciones u omisiones negligentes en el ejercicio de la práctica médica.
 
 ###### Artículo 40.
 
@@ -13981,19 +1107,19 @@ El Estado garantizará la participación de la población organizada en la toma 
 
 ###### Artículo 41.
 
-- El Estado garantizará el acceso de la población a los medicamentos.
+I. El Estado garantizará el acceso de la población a los medicamentos.
 
-- El Estado priorizará los medicamentos genéricos a través del fomento de su producción interna y, en su caso, determinará su importación.
+II. El Estado priorizará los medicamentos genéricos a través del fomento de su producción interna y, en su caso, determinará su importación.
 
-- El derecho a acceder a los medicamentos no podrá ser restringido por los derechos de propiedad intelectual y comercialización, y contemplará estándares de calidad y primera generación.
+III. El derecho a acceder a los medicamentos no podrá ser restringido por los derechos de propiedad intelectual y comercialización, y contemplará estándares de calidad y primera generación.
 
 ###### Artículo 42.
 
-- Es responsabilidad del Estado promover y garantizar el respeto, uso, investigación y práctica de la medicina tradicional, rescatando los conocimientos y prácticas ancestrales desde el pensamiento y valores de todas las naciones y pueblos indígena originario campesinos.
+I. Es responsabilidad del Estado promover y garantizar el respeto, uso, investigación y práctica de la medicina tradicional, rescatando los conocimientos y prácticas ancestrales desde el pensamiento y valores de todas las naciones y pueblos indígena originario campesinos.
 
-- II . La  promoción  de  la  medicina  tradicional  incorporará  el  registro  de  medicamentos naturales y de sus principios activos, así como la protección de su conocimiento como propiedad intelectual, histórica, cultural, y como patrimonio de las naciones y pueblos indígena originario campesinos.
+II. La promoción de la medicina tradicional incorporará el registro de medicamentos naturales y de sus principios activos, así como la protección de su conocimiento como propiedad intelectual, histórica, cultural, y como patrimonio de las naciones y pueblos indígena originario campesinos.
 
-- III . 	 La  ley  regulará  el  ejercicio  de  la  medicina  tradicional  y  garantizará  la  calidad  de  su servicio.
+III. La ley regulará el ejercicio de la medicina tradicional y garantizará la calidad de su servicio.
 
 ###### Artículo 43.
 
@@ -14001,11 +1127,55 @@ La ley regulará las donaciones o trasplantes de células, tejidos u órganos ba
 
 ###### Artículo 44.
 
-- I . Ninguna  persona  será  sometida  a  intervención  quirúrgica,  examen  médico  o  de laboratorio sin su consentimiento o el de terceros legalmente autorizados, salvo peligro inminente de su vida.
+I. Ninguna persona será sometida a intervención quirúrgica, examen médico o de laboratorio sin su consentimiento o el de terceros legalmente autorizados, salvo peligro inminente de su vida.
 
-- II . 	 Ninguna persona será sometida a experimentos científicos sin su consentimiento.
+II. Ninguna persona será sometida a experimentos científicos sin su consentimiento.
+
+###### Juch'uy kamachiy 38.
+
+I. Estadoqpata manataq waq makiman salud imasniyuqchus chaykunaqa ripunmanchu.
+
+II. Tuta p'uchay jampinawasikunapi llank'ananku tiyan.
+
+###### Juch'uy kamachiy 39.
+
+I. Estado servicios de salud público nisqata kananta qhawanan tiyan, chantapis servicio de salud privado nisqa kallanmantaq. Estado kamachiymanjina qhawnan tiyan, allinyachus manachus jampiqkuna runata qhawasanku, imaynachus, imayuqchus chay jampinawasikuna.
+
+II. Mana sumaqta jampiqkuna llan'asankuman chayqa, pantaspa pantaspalla jampisankuman chayqa kamachiy akullqasqa kasqanmanjina qhawachikunqa.
+
+###### Juch'uy kamachiy 40.
+
+Estado kay sistema público saludmanta tukuy runaq parlayninta, yuyayninta uqharinan tiyan.
+
+###### Juch'uy kamachiy 41.
+
+I. Estado, runa jampichikunanpaq, jampikuna kananta qhawanan tiyan.
+
+II. Astawanpuniqa Estado kay Bolivia suyunchispi jampikuna ruwakusqantaraq apaykachanqanku, mana kaqtinraq jawa llaqtakunamanta.
+
+III. Kamachiymanjina may unaymantapacha jampikunamanta yachaykunata qhawasqa kanqa, chantapis imaynachus ruwaynin kasan qhawasqallataq kanqa.
+
+###### Juch'uy kamachiy 42.
+
+I. Tukuy laya kawsaykunapi imaynatachus ñawpaqpacha jampikunata apaykacharqanku, chaymanjina Estado unay jampikunata ñawpaqman thaskirichinan tiyan, qhawachinan tiyan, ama saruchanankuta saqinanchu tiyan, imaynatachus chay jampita apaykachanku chayta mask'achinan tiyan.
+
+II. Estadoqa may unaymantapacha jampikuna yachaykunata thaskirichinan tiyan. Kay thaskirichiypiqa qilqasqa kanan tiyan, chantapis jark'asqa kanan tiyan, nacionkunaq pueblos indígena originario campesinokunaq kasqanmanjina.
+
+III. May unaymantapacha jampikunamanta yachaykunata kamachiy nisqanmanjina kanqa.
+
+###### Juch'uy kamachiy 43.
+
+Runa ukhunkumanta imantapis quyta munaspa, yanapayta munaspa, qhasillamanta qunan tiyan. Chaykunaqa kamachiymanjina kanan tiyan.
+
+###### Juch'uy kamachiy 44.
+
+I. Mana munaqtinqa mana pipis ni imanta kuchukunqachu, manataq jampiqwan ukhunta qhawachikuyta munaspa qhawachikunqachu, mana pininpis paymanta parlayta atinchu, wañupasanman chaylla.
+
+II. Mana unqusqa munaqtinqa, mana imatapis jampiq ruway atinchu.
 
 Ministerio de la Presidencia - V.C.G.G
+
+19
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14017,81 +1187,81 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-###### Juch'uy kamachiy 45.
-
-- Tukuy bolivianakunawan bolivianokunawan seguridad social nisqayuq kananku tiyan.
-
-- Seguridad  social nisqaqa tukuy runapaq  kanan  tiyan, qharipaqpis warmipaqpis, qulqiyuq kaqkunapaqpis mana qulqiyuq kaqkunapaqpis, tukuy yuyayniyuq kaqkunapaq, tukuywaqjinatiyakuqkunapaq.  Ñawpaqman  Estado  thaskirichinan  tiyan;  tukuy  runataq imaynatachus apaykachasan chayta qhawarinan tiyan.
-
-- Kay seguridad socialwanqa runaunquyninmanta qhawachikuyta atin, unquqpis, llank'aqpis llank'ayninpi imanakusqantapis, mana ima ruway atiqpis, mañana llank'ayniyuq kaspapis, mana tatayuq kaspapis, mana ima ruwayta atispapis, manaña qusayuq kaspapis, machu runaña kaspapis, wañukapuqtinkupis, waqkunapiwan.
-
-- Chay manaña machu runa llank'aqkunapaq, pero wayna kasaspa llank'asqankumanta qulqita jap'inankupaq Estado qhawanan tiyan, Kayqa kikillan tukuy runapaq.
-
-- Unquq  warmi  kasaspaqa kinsa killa unqukapunanpaq  kasaqtin llank'ayninmanta samarinan  tiyan,  chantapis  kinsa  killa  unqukusqanmanta,  llank'ayninmanta  qulqitataq jap'illanqapuni. Chantapis, allinta kallpachakunanpaq paypis wawanpis Estado qhawanan tiyan.
-
-- Chay  servicios  de  seguridad  social  pública  Estado  makinpipuni  kanan  tiyan,  mana qulqichakuq makinman chayananchu tiyan.
-
-##### KINSA KAQ RAK'IY RUNA LLANK'AYNIYUQ ATIYNINMANTA
-
-###### Juch'uy kamachiy 46.
-
-- Tukuy llank'aq runa kaykunayuq kayta atinku:
-
-- Sumaq llank'ayniyuq, imamantapis ukhunta jark'akuspa, ama qhawarasqa, llank'asqanmanjina qulqita jap'ispa, paypis ayllunpis sumaq kawsayllata kawsakunankupaq.
-
-- Sumaq sayasqa llank'aypi llank'ayta, ama qhawarasqa.
-
-- Estado llank'aq ruwasqanta imamantapis jark'anqa.
-
-- Llak'aq mana qhasillamanta llank'ananchu tiyan. Pipis mana llank'ayta munaqtinqa mana llank'ananchu tiyan.
-
-###### Juch'uy kamachiy 47.
-
-- Tukuy runa munaspaqa ranqhaspa llank'akunman, manaqawaqllank'aykunapipis, mayqinkunachus  mana  kusachu  kawsaypaq  chay  llank'aykunallapi  ama  llank'anachu tiyan.
-
-- Chaqra  llaqtapi chantapis jatun llaqtapi Estado juch'uy llank'anayuq kaqkunata, sapankullank'aqkunatapis warmi llank'akunata qhari llank'aqkunata jark'anqa, paykunapura yanapakuyninwan, chantapis qulqita jap'inankupaq imatapis ruwasqankumanjina. Jinallatataq sumaqta llank'anankupaq Estado qulqita qunan tiyan.
-
-- Estadoqa  imaynatachus  ñawpaq  pachapi  kawsayninchismanjina  llank'anku  chayta jark'anqa, kallpachanqa, thaskirichinqa ima.
-
-Ministerio de la Presidencia - V.C.G.G
-
-20
-
 ###### Artículo 45.
 
-- I . Todas las bolivianas y los bolivianos tienen derecho a acceder a la seguridad social.
+I. Todas las bolivianas y los bolivianos tienen derecho a acceder a la seguridad social.
 
-- II . 	 La  seguridad  social  se  presta  bajo  los  principios  de  universalidad,  integralidad, equidad, solidaridad, unidad de gestión, economía, oportunidad, interculturalidad y  eficacia.  Su  dirección  y  administración  corresponde  al  Estado,  con  control  y participación social.
+II. La seguridad social se presta bajo los principios de universalidad, integralidad, equidad, solidaridad, unidad de gestión, economía, oportunidad, interculturalidad y eficacia. Su dirección y administración corresponde al Estado, con control y participación social.
 
-- III . 	 El régimen de seguridad social cubre atención por enfermedad, epidemias y enfermedades catastróficas; maternidad y paternidad; riesgos profesionales, laborales y riesgos por labores de campo; discapacidad y necesidades especiales; desempleo y pérdida de empleo; orfandad, invalidez, viudez, vejez y muerte; vivienda, asignaciones familiares y otras previsiones sociales.
+III. El régimen de seguridad social cubre atención por enfermedad, epidemias y enfermedades catastróficas; maternidad y paternidad; riesgos profesionales, laborales y riesgos por labores de campo; discapacidad y necesidades especiales; desempleo y pérdida de empleo; orfandad, invalidez, viudez, vejez y muerte; vivienda, asignaciones familiares y otras previsiones sociales.
 
-- IV . 	El  Estado  garantiza  el  derecho  a  la  jubilación,  con  carácter  universal,  solidario  y equitativo.
+IV. El Estado garantiza el derecho a la jubilación, con carácter universal, solidario y equitativo.
 
-- V . 	 Las mujeres tienen derecho a la maternidad segura, con una visión y práctica intercultural; gozarán de especial asistencia y protección del Estado durante el embarazo, parto y en los periodos prenatal y posnatal.
+V. Las mujeres tienen derecho a la maternidad segura, con una visión y práctica intercultural; gozarán de especial asistencia y protección del Estado durante el embarazo, parto y en los periodos prenatal y posnatal.
 
-- VI . 	Los servicios de seguridad social pública no podrán ser privatizados ni concesionados.
+VI. Los servicios de seguridad social pública no podrán ser privatizados ni concesionados.
 
 ##### SECCIÓN III DERECHO AL TRABAJO Y AL EMPLEO
 
 ###### Artículo 46.
 
-- Toda persona tiene derecho:
+I. Toda persona tiene derecho:
 
-- Al trabajo digno, con  seguridad  industrial, higiene  y  salud  ocupacional,  sin discriminación, y con remuneración o salario justo, equitativo y satisfactorio, que le asegure para sí y su familia una existencia digna.
+1. Al trabajo digno, con seguridad industrial, higiene y salud ocupacional, sin discriminación, y con remuneración o salario justo, equitativo y satisfactorio, que le asegure para sí y su familia una existencia digna.
 
-- A una fuente laboral estable, en condiciones equitativas y satisfactorias.
+2. A una fuente laboral estable, en condiciones equitativas y satisfactorias.
 
-- II . El Estado protegerá el ejercicio del trabajo en todas sus formas.
+II. El Estado protegerá el ejercicio del trabajo en todas sus formas.
 
-- III . 	 	 Se  prohíbe  toda  forma  de  trabajo  forzoso  u  otro  modo  análogo  de  explotación  que obligue a una persona a realizar labores sin su consentimiento y justa retribución.
+III. Se prohíbe toda forma de trabajo forzoso u otro modo análogo de explotación que obligue a una persona a realizar labores sin su consentimiento y justa retribución.
 
 ###### Artículo 47.
 
-- Toda persona tiene derecho a dedicarse al comercio, la industria o a cualquier actividad económica lícita, en condiciones que no perjudiquen al bien colectivo.
+I. Toda persona tiene derecho a dedicarse al comercio, la industria o a cualquier actividad económica lícita, en condiciones que no perjudiquen al bien colectivo.
 
-- II . Las  trabajadoras  y  los  trabajadores  de  pequeñas  unidades  productivas  urbanas  o rurales, por cuenta propia, y gremialistas en general, gozarán por parte del Estado de un  régimen  de  protección  especial,  mediante  una  política  de  intercambio  comercial equitativo y de precios justos para sus productos, así como la asignación preferente de recursos económicos financieros para incentivar su producción.
+II. Las trabajadoras y los trabajadores de pequeñas unidades productivas urbanas o rurales, por cuenta propia, y gremialistas en general, gozarán por parte del Estado de un régimen de protección especial, mediante una política de intercambio comercial equitativo y de precios justos para sus productos, así como la asignación preferente de recursos económicos financieros para incentivar su producción.
 
-- El Estado protegerá, fomentará y fortalecerá las formas comunitarias de producción.
+III. El Estado protegerá, fomentará y fortalecerá las formas comunitarias de producción.
+
+###### Juch'uy kamachiy 45.
+
+I. Tukuy bolivianakunawan bolivianokunawan seguridad social nisqayuq kananku tiyan.
+
+II. Seguridad social nisqaqa tukuy runapaq kanan tiyan, qharipaqpis warmipaqpis, qulqiyuq kaqkunapaqpis mana qulqiyuq kaqkunapaqpis, tukuy yuyayniyuq kaqkunapaq, tukuywaqjinatiyakuqkunapaq. Ñawpaqman Estado thaskirichinan tiyan; tukuy runataq imaynatachus apaykachasan chayta qhawarinan tiyan.
+
+III. Kay seguridad socialwanqa runaunquyninmanta qhawachikuyta atin, unquqpis, llank'aqpis llank'ayninpi imanakusqantapis, mana ima ruway atiqpis, mañana llank'ayniyuq kaspapis, mana tatayuq kaspapis, mana ima ruwayta atispapis, manaña qusayuq kaspapis, machu runaña kaspapis, wañukapuqtinkupis, waqkunapiwan.
+
+IV. Chay manaña machu runa llank'aqkunapaq, pero wayna kasaspa llank'asqankumanta qulqita jap'inankupaq Estado qhawanan tiyan, Kayqa kikillan tukuy runapaq.
+
+V. Unquq warmi kasaspaqa kinsa killa unqukapunanpaq kasaqtin llank'ayninmanta samarinan tiyan, chantapis kinsa killa unqukusqanmanta, llank'ayninmanta qulqitataq jap'illanqapuni. Chantapis, allinta kallpachakunanpaq paypis wawanpis Estado qhawanan tiyan.
+
+VI. Chay servicios de seguridad social pública Estado makinpipuni kanan tiyan, mana qulqichakuq makinman chayananchu tiyan.
+
+##### KINSA KAQ RAK'IY RUNA LLANK'AYNIYUQ ATIYNINMANTA
+
+###### Juch'uy kamachiy 46.
+
+I. Tukuy llank'aq runa kaykunayuq kayta atinku:
+
+1. Sumaq llank'ayniyuq, imamantapis ukhunta jark'akuspa, ama qhawarasqa, llank'asqanmanjina qulqita jap'ispa, paypis ayllunpis sumaq kawsayllata kawsakunankupaq.
+
+2. Sumaq sayasqa llank'aypi llank'ayta, ama qhawarasqa.
+
+II. Estado llank'aq ruwasqanta imamantapis jark'anqa.
+
+III. Llank'aq mana qhasillamanta llank'ananchu tiyan. Pipis mana llank'ayta munaqtinqa mana llank'ananchu tiyan.
+
+###### Juch'uy kamachiy 47.
+
+I. Tukuy runa munaspaqa ranqhaspa llank'akunman, manaqa waq llank'aykunapipis, mayqinkunachus mana kusachu kawsaypaq chay llank'aykunallapi ama llank'anachu tiyan.
+
+II. Chaqra llaqtapi chantapis jatun llaqtapi Estado juch'uy llank'anayuq kaqkunata, sapankullank'aqkunatapis warmi llank'akunata qhari llank'aqkunata jark'anqa, paykunapura yanapakuyninwan, chantapis qulqita jap'inankupaq imatapis ruwasqankumanjina. Jinallatataq sumaqta llank'anankupaq Estado qulqita qunan tiyan.
+
+III. Estadoqa imaynatachus ñawpaq pachapi kawsayninchismanjina llank'anku chayta jark'anqa, kallpachanqa, thaskirichinqa ima.
+
+Ministerio de la Presidencia - V.C.G.G
+
+20
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14103,65 +1273,29 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-###### Juch'uy kamachiy 48.
-
-- Runa jap'iy atiyninmanta, llank'aymanta kamachiykunaqa kamachikunan tiyan.
-
-- Llank'aqkunaq kamachiyninkuqa warmi llank'aqkunapaq chantapis qhari llank'aqkunapaq allin, ama llank'achiq munasqanmanjina qhawananpaq, ama ima p'unchaypis wikch'usqa kanakupaq, amataq qhawarasqa kananpaq.
-
-- Warmi  chayri  qhari  llank'aqkunaqpata  ruway  atiyninku  kapuy  atiyninku,  kamachiy nisqanmanjina mana saqikuyta atinkuchu.
-
-- Mana pajunta llank'aq urqhuqtin,  mana unquq warmipis ima mikhunatachis urqhunan tiyan chayta murqhuqtin, seguridad social nisqaman qulqita qusqanista mana richuriqtin, chaykuna manapuni chinkapunankuchu tiyan.
-
-- Estado  warmikuna  llank'aq  yaykunankupaq  qhawanan  tiyan,  chantapis  imaynatachus qharikuna  qilqita  jap'inku  kikillantataq  maypipis  llank'asqankumanta  qulqita  jap'inanku tiyan.
-
-- Warmikuna mana juch'uychasqachu kanan tiyan, chantapis mana llank'ayyninkumanta wikch'usqachu kananku tiyan, sawarasqa kaqtinkurayku, unquq kaqtinkurayku, watankurayku, imaynachus ukhun kasqanrayku. Warmi unquq kasaqtin unqukunankama chanta waman watanta junt'anankama mana llank'ayninmanta wikch'usqa kayta atinchu.
-
-- Estado waynakuna sipaskuna llank'ayman yaykuyta atisqankuta qhawanqa, atisqankimanjina chantapis yachasqankumanjina.
-
-###### Juch'uy kamachiy 49.
-
-- Qutupi llank'ayninkumanta parlarispa mañarinkuman.
-
-- Kamachiy imayna ruwayniyuqchus llank'achiqwan llank'aqwan manaqa llank'aqkunawan kananku tiyan chayta qhawarinan tiyan, chantapis mayk'a qulqitachus llank'ayninmanta llank0paq jap'inan tiyan, mayk'atachus ruwanan tiyan wich'usqa llank'aq llank'ayninman kutinanpaq, samayninpi, feriados nisqapi qulqita jap'inanpaq, tukuy wata llank'ayninmanta, mayk'atachus sapa p'unchay, waq phanipi llank'ayninmanta sapa domingo, sapa wata tukukuqtin,  machu  runaña  kaqtin,  mana  ima  ruway  atiq  kaqtin,  unquq  llank'aq  warmi kasaqtin, yachaqasaqtin, waqkunapiwan.
-
-- Ama mayqin p'unchaypis llank'aqta wikch'unankupaq Estado qhawanan tiyan. Amaqhasimanta llank'a wikch'usqa kananchu tiyan, manaqa kamachiymanjina imatachus kamachiq ruwanan tiyan chayta ruwanqa.
-
-###### Juch'uy kamachiy 50.
-
-Tribunaleswan organismos administrativos especializados nisqawan, mayqin, ch'ampatapis llank'ana  ukhupi  llank'achiy  llank'awan  kasqanta  Estado  allinchanqa,  chay  seguridad industrialtapis social nisqatapis.
-
-###### Juch'uy kamachiy 51.
-
-- Kamachiy  qiqasqa  kasqanmanjina  tukuy  warmi  qhari  llank'aqkuna  sindicatos  nisqapi qutuchkuyta atinku.
-
-- Estado  sindicatokunaq  uklla  kayninta,  parlay  atiyninta,  qulqinkuwan  sayarikuyninta, yanapayninta jawa llaqtakunapi ruwayninta yupaychanqa.
-
-21
-
 ###### Artículo 48.
 
-- Las disposiciones sociales y laborales son de cumplimiento obligatorio.
+I. Las disposiciones sociales y laborales son de cumplimiento obligatorio.
 
-- Las normas laborales se interpretarán y aplicarán bajo los principios de protección de las trabajadoras y de los trabajadores como principal fuerza productiva de la sociedad; de primacía de la relación laboral; de continuidad y estabilidad laboral; de no discriminación y de inversión de la prueba a favor de la trabajadora y del trabajador.
+II. Las normas laborales se interpretarán y aplicarán bajo los principios de protección de las trabajadoras y de los trabajadores como principal fuerza productiva de la sociedad; de primacía de la relación laboral; de continuidad y estabilidad laboral; de no discriminación y de inversión de la prueba a favor de la trabajadora y del trabajador.
 
-- III . 	 Los derechos y beneficios reconocidos en favor de las trabajadoras y los trabajadores no pueden renunciarse, y son nulas las convenciones contrarias o que tiendan a burlar sus efectos.
+III. Los derechos y beneficios reconocidos en favor de las trabajadoras y los trabajadores no pueden renunciarse, y son nulas las convenciones contrarias o que tiendan a burlar sus efectos.
 
-- Los salarios o sueldos devengados, derechos laborales, beneficios sociales y aportes a  la  seguridad  social  no  pagados  tienen  privilegio  y  preferencia  sobre  cualquier  otra acreencia, y son inembargables e imprescriptibles.
+IV. Los salarios o sueldos devengados, derechos laborales, beneficios sociales y aportes a la seguridad social no pagados tienen privilegio y preferencia sobre cualquier otra acreencia, y son inembargables e imprescriptibles.
 
-- V . 	 El Estado promoverá la incorporación de las mujeres al trabajo y garantizará la misma remuneración que a los hombres por un trabajo de igual valor, tanto en el ámbito público como en el privado.
+V. El Estado promoverá la incorporación de las mujeres al trabajo y garantizará la misma remuneración que a los hombres por un trabajo de igual valor, tanto en el ámbito público como en el privado.
 
-- Las mujeres no podrán ser discriminadas o despedidas por su estado civil, situación de embarazo, edad, rasgos físicos o número de hijas o hijos. Se garantiza la inamovilidad laboral de las mujeres en estado de embarazo, y de los progenitores, hasta que la hija o el hijo cumpla un año de edad.
+VI. Las mujeres no podrán ser discriminadas o despedidas por su estado civil, situación de embarazo, edad, rasgos físicos o número de hijas o hijos. Se garantiza la inamovilidad laboral de las mujeres en estado de embarazo, y de los progenitores, hasta que la hija o el hijo cumpla un año de edad.
 
-- El  Estado  garantizará  la  incorporación  de  las  jóvenes  y  los  jóvenes  en  el  sistema productivo, de acuerdo con su capacitación y formación.
+VII. El Estado garantizará la incorporación de las jóvenes y los jóvenes en el sistema productivo, de acuerdo con su capacitación y formación.
 
 ###### Artículo 49.
 
-- Se reconoce el derecho a la negociación colectiva.
+I. Se reconoce el derecho a la negociación colectiva.
 
-- La  ley  regulará  las  relaciones  laborales  relativas  a  contratos  y  convenios  colectivos; salarios  mínimos  generales,  sectoriales  e  incrementos  salariales;  reincorporación; descansos  remunerados  y  feriados;  cómputo  de  antigüedad,  jornada  laboral,  horas extra,  recargo  nocturno,  dominicales;  aguinaldos,  bonos,  primas  u  otros  sistemas  de participación en las utilidades de la empresa; indemnizaciones y desahucios; maternidad laboral; capacitación y formación profesional, y otros derechos sociales.
+II. La ley regulará las relaciones laborales relativas a contratos y convenios colectivos; salarios mínimos generales, sectoriales e incrementos salariales; reincorporación; descansos remunerados y feriados; cómputo de antigüedad, jornada laboral, horas extra, recargo nocturno, dominicales; aguinaldos, bonos, primas u otros sistemas de participación en las utilidades de la empresa; indemnizaciones y desahucios; maternidad laboral; capacitación y formación profesional, y otros derechos sociales.
 
-- El  Estado  protegerá  la  estabilidad  laboral.  Se  prohíbe  el  despido  injustificado  y  toda forma de acoso laboral. La ley determinará las sanciones correspondientes.
+III. El Estado protegerá la estabilidad laboral. Se prohíbe el despido injustificado y toda forma de acoso laboral. La ley determinará las sanciones correspondientes.
 
 ###### Artículo 50.
 
@@ -14169,11 +1303,47 @@ El Estado, mediante tribunales y organismos administrativos especializados, reso
 
 ###### Artículo 51.
 
-- Todas las trabajadoras y los trabajadores tienen derecho a organizarse en sindicatos de acuerdo con la ley.
+I. Todas las trabajadoras y los trabajadores tienen derecho a organizarse en sindicatos de acuerdo con la ley.
 
-- El Estado respetará los principios sindicales de unidad, democracia sindical, pluralismo político, autosostenimiento, solidaridad e internacionalismo.
+II. El Estado respetará los principios sindicales de unidad, democracia sindical, pluralismo político, autosostenimiento, solidaridad e internacionalismo.
+
+###### Juch'uy kamachiy 48.
+
+I. Runa jap'iy atiyninmanta, llank'aymanta kamachiykunaqa kamachikunan tiyan.
+
+II. Llank'aqkunaq kamachiyninkuqa warmi llank'aqkunapaq chantapis qhari llank'aqkunapaq allin, ama llank'achiq munasqanmanjina qhawananpaq, ama ima p'unchaypis wikch'usqa kanakupaq, amataq qhawarasqa kananpaq.
+
+III. Warmi chayri qhari llank'aqkunaqpata ruway atiyninku kapuy atiyninku, kamachiy nisqanmanjina mana saqikuyta atinkuchu.
+
+IV. Mana pajunta llank'aq urqhuqtin, mana unquq warmipis ima mikhunatachis urqhunan tiyan chayta murqhuqtin, seguridad social nisqaman qulqita qusqanista mana richuriqtin, chaykuna manapuni chinkapunankuchu tiyan.
+
+V. Estado warmikuna llank'aq yaykunankupaq qhawanan tiyan, chantapis imaynatachus qharikuna qulqita jap'inku kikillantataq maypipis llank'asqankumanta qulqita jap'inanku tiyan.
+
+VI. Warmikuna mana juch'uychasqachu kanan tiyan, chantapis mana llank'ayninkumanta wikch'usqachu kananku tiyan, sawarasqa kaqtinkurayku, unquq kaqtinkurayku, watankurayku, imaynachus ukhun kasqanrayku. Warmi unquq kasaqtin unqukunankama chanta wawan watanta junt'anankama mana llank'ayninmanta wikch'usqa kayta atinchu.
+
+VII. Estado waynakuna sipaskuna llank'ayman yaykuyta atisqankuta qhawanqa, atisqankimanjina chantapis yachasqankumanjina.
+
+###### Juch'uy kamachiy 49.
+
+I. Qutupi llank'ayninkumanta parlarispa mañarinkuman.
+
+II. Kamachiy imayna ruwayniyuqchus llank'achiqwan llank'aqwan manaqa llank'aqkunawan kananku tiyan chayta qhawarinan tiyan, chantapis mayk'a qulqitachus llank'ayninmanta llank'aq jap'inan tiyan, mayk'atachus ruwanan tiyan wikch'usqa llank'aq llank'ayninman kutinanpaq, samayninpi, feriados nisqapi qulqita jap'inanpaq, tukuy wata llank'ayninmanta, mayk'atachus sapa p'unchay, waq phanipi llank'ayninmanta sapa domingo, sapa wata tukukuqtin, machu runaña kaqtin, mana ima ruway atiq kaqtin, unquq llank'aq warmi kasaqtin, yachaqasaqtin, waqkunapiwan.
+
+III. Ama mayqin p'unchaypis llank'aqta wikch'unankupaq Estado qhawanan tiyan. Ama qhasimanta llank'aq wikch'usqa kananchu tiyan, manaqa kamachiymanjina imatachus kamachiq ruwanan tiyan chayta ruwanqa.
+
+###### Juch'uy kamachiy 50.
+
+Tribunaleswan organismos administrativos especializados nisqawan, mayqin, ch'ampatapis llank'ana ukhupi llank'achiy llank'awan kasqanta Estado allinchanqa, chay seguridad industrialtapis social nisqatapis.
+
+###### Juch'uy kamachiy 51.
+
+I. Kamachiy qilqasqa kasqanmanjina tukuy warmi qhari llank'aqkuna sindicatos nisqapi qutuchakuyta atinku.
+
+II. Estado sindicatokunaq uklla kayninta, parlay atiyninta, qulqinkuwan sayarikuyninta, yanapayninta jawa llaqtakunapi ruwayninta yupaychanqa.
 
 Ministerio de la Presidencia - V.C.G.G
+
+21
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14183,65 +1353,27 @@ Fundación Konrad Adenauer (KAS)
 
 ESTADOQ KURAQ KAMACHIYNIN
 
-- Sindicalización nisqata warmi qhari llank'aqkunaq jark'ayninjina, yanapaynin, yachaqayninjuna, kawsayninjina yupaychasqa.
-
-- Imaynachus kay sindicatos nisqa sayachisqa kasanku, chantapis imaynatachus paykuna yuyachakunku Estado allin ñawiwan qhawanan tiyan.
-
-- Tukuy  iman  qhawasqa  mana  qhawasqa  sindicatospata  mana  pipis  qhichuyta  atinchu manataq waq makikinaman chayayta atinchu.
-
-- Sindicatismanta warmi chayri qhari kamachiqkuna ma wikch'usqa kanankuchu tiyan, llank'ayninkuta tukusqankumanta watankama. Manataqllank'asqankumanta qhatiykachasqa, wikch'usqa kanakuchu tiyan.
-
-VII.	T'ukusqankuta jark'anankupaq, warmi chayri qhari llank'aqkunaqa qutuchakuyta atinku.
-
-###### Juch'uy kamachiy 52.
-
-- Pipis munaspaqa uk asociación empresarial nisqaman yaykunman.
-
-- Estado Asociación empresialespata personería jurídica nisqata qhawanqa, chantapis kamachiyninmanjina imaynatachus tantarikunku parlatikunku chaykunata qhawanqa.
-
-- Estado organizaciones empresarialespata instituciones capacitacioninmanta yachan.
-
-- Organizaciones empresarialespata kapuynintaqa ama pipis qhichukapunqachu.
-
-###### Juch'uy kamachiy 53.
-
-Huelga  nisqata  ruwayta  munaspaqa  ruwayta  atinku,  Kamachiymanjinaqa  mana  warmi chariqharillank'aqkuna llank'ankuchu, jinamanta derechosninkuta jallch'anku.
-
-###### Juch'uy kamachiy 54.
-
-- Estado astawan llank'ay kanapaq ama runa jinalla kananpaq, llank'asqankuman jinataq qulqinkuta jap'inankupaq.
-
-- Estadopis  tukuy  runapis  tukuy  imata  qhawanan  tiyan.  Jatun  llank'ayninta  chantapis Estadoq kapusqanta jark'anantaq qhawanantaq tiyan.
-
-- Llank'aqkuna llank'anayuq kanankupaq tukuy runa sumaq kawsananpaq kamachiymanjina warmi llank'aqkunapis qhari llank'aqkunapis llank'ayninku chinkapusaqtin wisq'akusaqtin ranqhakusaqtin manaqa qhasillamanta saqisqa kaqtin  watiqmanta  kallpachayta,  sayarichiyta,  kichariyta  atinku.  Chantapis  empresas comunitarias manaqa sociales nisqata ruwayta atinku. Chaypaqqa warmi llank'aqkunata, qhari llank'aqkunata Estado yanapay atin.
-
-###### Juch'uy kamachiy 55.
-
-Cooperativo  Sistema  nisqaqa  yanakispa,  tukuy  kikinta  qhawakuspa,  puraqmanta imatapis qukuspa, tukuy llaqtachakuqkunapi t'ukurispa, mana llank'aq qulqita jap'isqankullata qhawarispa kamachiymanjina Estado cooperativas organizacionmanta qhawanan tiyan.
-
-22
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Se reconoce y garantiza la sindicalización como medio de defensa, representación, asistencia, educación y cultura de las trabajadoras y los trabajadores del campo y de la ciudad.
+III. Se reconoce y garantiza la sindicalización como medio de defensa, representación, asistencia, educación y cultura de las trabajadoras y los trabajadores del campo y de la ciudad.
 
-- IV . 	El Estado respetará la independencia ideológica y organizativa de los sindicatos. Los sindicatos  gozarán  de  personalidad  jurídica  por  el  solo  hecho  de  organizarse  y  ser reconocidos por sus entidades matrices.
+IV. El Estado respetará la independencia ideológica y organizativa de los sindicatos. Los sindicatos gozarán de personalidad jurídica por el solo hecho de organizarse y ser reconocidos por sus entidades matrices.
 
-- El  patrimonio  tangible  e  intangible  de  las  organizaciones  sindicales  es  inviolable, inembargable e indelegable.
+V. El patrimonio tangible e intangible de las organizaciones sindicales es inviolable, inembargable e indelegable.
 
-- Las dirigentas y los dirigentes sindicales gozan de fuero sindical, no se les despedirá hasta  un  año  después  de  la  finalización  de  su  gestión  y  no  se  les  disminuirán  sus derechos sociales, ni se les someterá a persecución ni privación de libertad por actos realizados en el cumplimiento de su labor sindical.
+VI. Las dirigentas y los dirigentes sindicales gozan de fuero sindical, no se les despedirá hasta un año después de la finalización de su gestión y no se les disminuirán sus derechos sociales, ni se les someterá a persecución ni privación de libertad por actos realizados en el cumplimiento de su labor sindical.
 
-- Las trabajadoras y los trabajadores por cuenta propia tienen el derecho a organizarse para la defensa de sus intereses.
+VII. Las trabajadoras y los trabajadores por cuenta propia tienen el derecho a organizarse para la defensa de sus intereses.
 
 ###### Artículo 52.
 
-- Se reconoce y garantiza el derecho a la libre asociación empresarial.
+I. Se reconoce y garantiza el derecho a la libre asociación empresarial.
 
-- El Estado garantizará el reconocimiento de la personalidad jurídica de las asociaciones empresariales,  así  como  las  formas  democráticas  organizativas  empresariales,  de acuerdo con sus propios estatutos.
+II. El Estado garantizará el reconocimiento de la personalidad jurídica de las asociaciones empresariales, así como las formas democráticas organizativas empresariales, de acuerdo con sus propios estatutos.
 
-- El  Estado reconoce las instituciones de capacitación de las organizaciones empresariales.
+III. El Estado reconoce las instituciones de capacitación de las organizaciones empresariales.
 
-- El patrimonio de las organizaciones empresariales, tangible e intangible, es inviolable e inembargable.
+IV. El patrimonio de las organizaciones empresariales, tangible e intangible, es inviolable e inembargable.
 
 ###### Artículo 53.
 
@@ -14249,17 +1381,55 @@ Se garantiza el derecho a la huelga como el ejercicio de la facultad legal de la
 
 ###### Artículo 54.
 
-- Es obligación del Estado establecer políticas de empleo que eviten la desocupación y la subocupación, con la finalidad de crear, mantener y generar condiciones que garanticen a  las  trabajadoras  y  los  trabajadores  posibilidades  de  ocupación  laboral  digna  y  de remuneración justa.
+I. Es obligación del Estado establecer políticas de empleo que eviten la desocupación y la subocupación, con la finalidad de crear, mantener y generar condiciones que garanticen a las trabajadoras y los trabajadores posibilidades de ocupación laboral digna y de remuneración justa.
 
-- Es deber del Estado y de la sociedad la protección y defensa del aparato industrial y de los servicios estatales.
+II. Es deber del Estado y de la sociedad la protección y defensa del aparato industrial y de los servicios estatales.
 
-- Las  trabajadoras  y  los  trabajadores,  en  defensa  de  sus  fuentes  de  trabajo  y  en resguardo  del  interés  social  podrán,  de  acuerdo  con  la  ley,  reactivar  y  reorganizar empresas en proceso de quiebra, concurso o liquidación, cerradas o abandonadas de forma injustificada, y conformarán empresas comunitarias o sociales. El Estado podrá coadyuvar a la acción de las trabajadoras y los trabajadores.
+III. Las trabajadoras y los trabajadores, en defensa de sus fuentes de trabajo y en resguardo del interés social podrán, de acuerdo con la ley, reactivar y reorganizar empresas en proceso de quiebra, concurso o liquidación, cerradas o abandonadas de forma injustificada, y conformarán empresas comunitarias o sociales. El Estado podrá coadyuvar a la acción de las trabajadoras y los trabajadores.
 
 ###### Artículo 55.
 
-El sistema cooperativo se sustenta en los principios de solidaridad, igualdad, reciprocidad, equidad en la distribución, finalidad social, y no lucro de sus asociados. El Estado foment ará y regulará la organización de cooperativas mediante la ley.
+El sistema cooperativo se sustenta en los principios de solidaridad, igualdad, reciprocidad, equidad en la distribución, finalidad social, y no lucro de sus asociados. El Estado fomentará y regulará la organización de cooperativas mediante la ley.
+
+III. Sindicalización nisqata warmi qhari llank'aqkunaq jark'ayninjina, yanapaynin, yachaqayninjina, kawsayninjina yupaychasqa.
+
+IV. Imaynachus kay sindicatos nisqa sayachisqa kasanku, chantapis imaynatachus paykuna yuyachakunku Estado allin ñawiwan qhawanan tiyan.
+
+V. Tukuy iman qhawasqa mana qhawasqa sindicatospata mana pipis qhichuyta atinchu manataq waq makikinaman chayayta atinchu.
+
+VI. Sindicatismanta warmi chayri qhari kamachiqkuna mana wikch'usqa kanankuchu tiyan, llank'ayninkuta tukusqankumanta watankama. Manataq llank'asqankumanta qhatiykachasqa, wikch'usqa kanakuchu tiyan.
+
+VII. T'ukusqankuta jark'anankupaq, warmi chayri qhari llank'aqkunaqa qutuchakuyta atinku.
+
+###### Juch'uy kamachiy 52.
+
+I. Pipis munaspaqa uk asociación empresarial nisqaman yaykunman.
+
+II. Estado Asociación empresarialespata personería jurídica nisqata qhawanqa, chantapis kamachiyninmanjina imaynatachus tantarikunku parlatikunku chaykunata qhawanqa.
+
+III. Estado organizaciones empresarialespata instituciones capacitacioninmanta yachan.
+
+IV. Organizaciones empresarialespata kapuynintaqa ama pipis qhichukapunqachu.
+
+###### Juch'uy kamachiy 53.
+
+Huelga nisqata ruwayta munaspaqa ruwayta atinku, Kamachiymanjinaqa mana warmi chayri qhari llank'aqkuna llank'ankuchu, jinamanta derechosninkuta jallch'anku.
+
+###### Juch'uy kamachiy 54.
+
+I. Estado astawan llank'ay kanapaq ama runa jinalla kananpaq, llank'asqankuman jinataq qulqinkuta jap'inankupaq.
+
+II. Estadopis tukuy runapis tukuy imata qhawanan tiyan. Jatun llank'ayninta chantapis Estadoq kapusqanta jark'anantaq qhawanantaq tiyan.
+
+III. Llank'aqkuna llank'anayuq kanankupaq tukuy runa sumaq kawsananpaq kamachiymanjina warmi llank'aqkunapis qhari llank'aqkunapis llank'ayninku chinkapusaqtin wisq'akusaqtin ranqhakusaqtin manaqa qhasillamanta saqisqa kaqtin watiqmanta kallpachayta, sayarichiyta, kichariyta atinku. Chantapis empresas comunitarias manaqa sociales nisqata ruwayta atinku. Chaypaqqa warmi llank'aqkunata, qhari llank'aqkunata Estado yanapay atin.
+
+###### Juch'uy kamachiy 55.
+
+Cooperativo Sistema nisqaqa yanakispa, tukuy kikinta qhawakuspa, puraqmanta imatapis qukuspa, tukuy llaqtachakuqkunapi t'ukurispa, mana llank'aq qulqita jap'isqankullata qhawarispa kamachiymanjina Estado cooperativas organizacionmanta qhawanan tiyan.
 
 Ministerio de la Presidencia - V.C.G.G
+
+22
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14271,51 +1441,15 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-###### Juch'uy kamachiy 56.
-
-- Imapis, imallapaqpis kaqtin, sapa runa manaqa tukuy runa imayuqpis kayta atin.
-
-- Imallapis sumaq tukuy runapaq kaqtinqa mana runamanta imachus kapusqan qhichunkumanchu.
-
-- Tatakuna yawar masi jamuqkunaman imatapis munaqtinku quyta atinku.
-
-###### Juch'uy kamachiy 57.
-
-Kamachiy  nisqanmanjina  runa  wasinta  qhichuchikunman,  mana  jina  kaspaqa  mana. Qhichusqa wasiqa manaña kutichisqa kanqachu.
-
-##### PHISQA KAQ RAK'IY WAWAKUNAQ, MAQT'AKUNAQ, IMILLAKUNAQ, WAYMAKUNAQ, SIPASKUNAQ RUWAY ATIYNINMANTA
-
-###### Juch'uy kamachiy 58.
-
-Warmi wawakuna, qhari wawakuna, makt'akunapis manaraq kuraq runachu kanku. Warmi wawapis,  qhari  wawapis,  makt'apis  kay  Jatun  Kamachiypi  nisqanta,  wiñayninmanta, kaynimanta, kawsayninmanta qharipis warmipis, kachun ruwayta atinku.
-
-###### Juch'uy kamachiy 59.
-
-- Tukuy warmi, qhari wawa, makt'apis imillapis sumaqta wiñakunan tiyan.
-
-- Tukuy  warmi  wawa  qhari  wawa,  makt'apis  imillapis  ayllunku  ukhupi  kawsakuyta wiñakuyta atinku. Mana kayjina kaqtinqa kamachiymanjina wak aylluwan tiyakuyta atinku
-
-- Tukuy warmi, qhari wawakuna, makt'a, imilla maypipis yurikusqanta tatankuwan, kikin derechosniyuq  chantapis  deberesniyuq  kanku.  Tatakuna  wawankuta  chiqnikuqkunata kamachiymanjina qhawachikunqanku.
-
-- Tukuy warmi, qhari wawakuna makt'apis sutiyuq tatanpatawan mamanpatawan kayta atin. Mana paykunaqpata sutinkuta yachaspaqa piwanchus tiyakusan pay sutita aqllanqa.
-
-- Estadopis, tukuy runapis, kamachiy kasqanmanjina sipaskunatawan waynakunatawan desarrollo productivo, qulqiyuq kay atiypi, sociales, yuyaychachiy atiypi, kawsay atiypi ruwaspa kananpaq yanaparinqanku.
-
-###### Juch'uy kamachiy 60.
-
-Estadopis, tukuy runapis ayllupis warmi wawakuna, qhari wawakuna, makt'akuna, imillakuna imayuqchus  kananku  tiyan,  chayta  qhawananku  tiyan,  wawakuna  jark'asqa,  yanapasqa kananku tiyan ima ch'ampayuqchus kaspapis pachan pampachapunanku tiyan.
-
-##### TAWA KAQ RAK'IY RUNA IMALLAYUQPIS KAY ATIYNINMANTA
-
-23
+##### SECCIÓN IV DERECHO A LA PROPIEDAD
 
 ###### Artículo 56.
 
-- Toda persona tiene derecho a la propiedad privada individual o colectiva, siempre que ésta cumpla una función social.
+I. Toda persona tiene derecho a la propiedad privada individual o colectiva, siempre que ésta cumpla una función social.
 
-- II . Se  garantiza  la  propiedad  privada  siempre  que  el  uso  que  se  haga  de  ella  no  sea perjudicial al interés colectivo.
+II. Se garantiza la propiedad privada siempre que el uso que se haga de ella no sea perjudicial al interés colectivo.
 
-- III . 	 Se garantiza el derecho a la sucesión hereditaria.
+III. Se garantiza el derecho a la sucesión hereditaria.
 
 ###### Artículo 57.
 
@@ -14325,27 +1459,63 @@ La expropiación se impondrá por causa de necesidad o utilidad pública, califi
 
 ###### Artículo 58.
 
-Se considera niña, niño o adolescente a toda persona menor de edad. Las niñas, niños y adolescentes son titulares de los derechos reconocidos en la Constitución, con los límites establecidos en ésta, y de los derechos específicos inherentes a su proceso de desarrollo; a  su  identidad  étnica,  sociocultural,  de  género  y  generacional;  y  a  la  satisfacción  de  sus necesidades, intereses y aspiraciones.
+Se considera niña, niño o adolescente a toda persona menor de edad. Las niñas, niños y adolescentes son titulares de los derechos reconocidos en la Constitución, con los límites establecidos en ésta, y de los derechos específicos inherentes a su proceso de desarrollo; a su identidad étnica, sociocultural, de género y generacional; y a la satisfacción de sus necesidades, intereses y aspiraciones.
 
 ###### Artículo 59.
 
-- Toda niña, niño y adolescente tiene derecho a su desarrollo integral.
+I. Toda niña, niño y adolescente tiene derecho a su desarrollo integral.
 
-- Toda niña, niño y adolescente tiene derecho a vivir y a crecer en el seno de su familia de origen o adoptiva. Cuando ello no sea posible, o sea contrario a su interés superior, tendrá derecho a una familia sustituta, de conformidad con la ley.
+II. Toda niña, niño y adolescente tiene derecho a vivir y a crecer en el seno de su familia de origen o adoptiva. Cuando ello no sea posible, o sea contrario a su interés superior, tendrá derecho a una familia sustituta, de conformidad con la ley.
 
-- T odas  las  niñas,  niños  y  adolescentes,  sin  distinción  de  su  origen,  tienen  iguales derechos y deberes respecto a sus progenitores. La discriminación entre hijos por parte de los progenitores será sancionada por la ley.
+III. Todas las niñas, niños y adolescentes, sin distinción de su origen, tienen iguales derechos y deberes respecto a sus progenitores. La discriminación entre hijos por parte de los progenitores será sancionada por la ley.
 
-- T oda niña, niño y adolescente tiene derecho a la identidad y la filiación respecto a sus progenitores. Cuando no se conozcan los progenitores, utilizarán el apellido convencional elegido por la persona responsable de su cuidado.
+IV. Toda niña, niño y adolescente tiene derecho a la identidad y la filiación respecto a sus progenitores. Cuando no se conozcan los progenitores, utilizarán el apellido convencional elegido por la persona responsable de su cuidado.
 
-- El  Estado  y  la  sociedad  garantizarán  la  protección,  promoción  y  activa  participación de las jóvenes y los jóvenes en el desarrollo productivo, político, social, económico y cultural, sin discriminación alguna, de acuerdo con la ley.
+V. El Estado y la sociedad garantizarán la protección, promoción y activa participación de las jóvenes y los jóvenes en el desarrollo productivo, político, social, económico y cultural, sin discriminación alguna, de acuerdo con la ley.
 
 ###### Artículo 60.
 
 Es deber del Estado, la sociedad y la familia garantizar la prioridad del interés superior de la niña, niño y adolescente, que comprende la preeminencia de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia, la prioridad en la atención de los servicios públicos y privados, y el acceso a una administración de justicia pronta, oportuna y con asistencia de personal especializado.
 
-##### SECCIÓN IV DERECHO A LA PROPIEDAD
+##### TAWA KAQ RAK'IY RUNA IMALLAYUQPIS KAY ATIYNINMANTA
+
+###### Juch'uy kamachiy 56.
+
+I. Imapis, imallapaqpis kaqtin, sapa runa manaqa tukuy runa imayuqpis kayta atin.
+
+II. Imallapis sumaq tukuy runapaq kaqtinqa mana runamanta imachus kapusqan qhichunkumanchu.
+
+III. Tatakuna yawar masi jamuqkunaman imatapis munaqtinku quyta atinku.
+
+###### Juch'uy kamachiy 57.
+
+Kamachiy nisqanmanjina runa wasinta qhichuchikunman, mana jina kaspaqa mana. Qhichusqa wasiqa manaña kutichisqa kanqachu.
+
+##### PHISQA KAQ RAK'IY WAWAKUNAQ, MAQT'AKUNAQ, IMILLAKUNAQ, WAYMAKUNAQ, SIPASKUNAQ RUWAY ATIYNINMANTA
+
+###### Juch'uy kamachiy 58.
+
+Warmi wawakuna, qhari wawakuna, makt'akunapis manaraq kuraq runachu kanku. Warmi wawapis, qhari wawapis, makt'apis kay Jatun Kamachiypi nisqanta, wiñayninmanta, kaynimanta, kawsayninmanta qharipis warmipis, kachun ruwayta atinku.
+
+###### Juch'uy kamachiy 59.
+
+I. Tukuy warmi, qhari wawa, makt'apis imillapis sumaqta wiñakunan tiyan.
+
+II. Tukuy warmi wawa qhari wawa, makt'apis imillapis ayllunku ukhupi kawsakuyta wiñakuyta atinku. Mana kayjina kaqtinqa kamachiymanjina wak aylluwan tiyakuyta atinku.
+
+III. Tukuy warmi, qhari wawakuna, makt'a, imilla maypipis yurikusqanta tatankuwan, kikin derechosniyuq chantapis deberesniyuq kanku. Tatakuna wawankuta chiqnikuqkunata kamachiymanjina qhawachikunqanku.
+
+IV. Tukuy warmi, qhari wawakuna makt'apis sutiyuq tatanpatawan mamanpatawan kayta atin. Mana paykunaqpata sutinkuta yachaspaqa piwanchus tiyakusan pay sutita aqllanqa.
+
+V. Estadopis, tukuy runapis, kamachiy kasqanmanjina sipaskunatawan waynakunatawan desarrollo productivo, qulqiyuq kay atiypi, sociales, yuyaychachiy atiypi, kawsay atiypi ruwaspa kananpaq yanaparinqanku.
+
+###### Juch'uy kamachiy 60.
+
+Estadopis, tukuy runapis ayllupis warmi wawakuna, qhari wawakuna, makt'akuna, imillakuna imayuqchus kananku tiyan, chayta qhawananku tiyan, wawakuna jark'asqa, yanapasqa kananku tiyan ima ch'ampayuqchus kaspapis pachan pampachapunanku tiyan.
 
 Ministerio de la Presidencia - V.C.G.G
+
+23
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14357,45 +1527,11 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-###### Juch'uy kamachiy 61.
-
-- Kamachiymanjina tukuy pikunachus warmi wawakunata, qhari wawakunata, makt'akunata,  imillakunata  maqaqkuna  ayllun  ukhupi,  llaqtan  ukhupi  juchachasqa kanqanku.
-
-- Ama wawakunata sinchi llank'aykunapi llank0achinachu tiyan. Ayllu ukhupi jallp'a ukhupi warmi wawakuna, qhari wawakuna, makt'akuna imillakuna ima tukuy ima ruwasqankuta aumq wiñayninkupi k'aycha kayninpi yanapanan tiyan, chaykunamanta yachakunanku tiyan.
-
-##### SUQTA KAQ RAK'IY AYLLUKUNAQ RUWAY ATIYNINMANTA
-
-###### Juch'uy kamachiy 62.
-
-Estado ayllukunata tukuy runa tiyaqkuna ukhupi allinta qhawan, chantapis tukuy runaq, mana wakillantachi sunaq kawsayninpaq qhawanan tiyan.
-
-###### Juch'uy kamachiy 63.
-
-- Kamachiymanjina warmiwan qhariwan sawarakuyninkuqa kanan tiyan, iskayninku kikin ruway atiyninyuq chantapis ruwayniyuq kanku.
-
-- Mana sawarasqa qhari warmi tiyaqkunaqa kamachiy nisqanmanjina sawarasqajina qhawasqa  kanqanku,  paykuna  qhawakusqankupi,  kapusqankupi,  qhariq  warmiq wawankupipis,  iskayninkuq  wawankupipis  sawarakuspaqa  wawankujina  kananku tiyan.
-
-###### Juch'uy kamachiy 64.
-
-- Sawarasqakunapis,  jinalla tiyaqkunapis iskayninkumanta  qhari warmijina imatapis sayarichikunanku tiyan, chantapis warmi wawakunata qhari wawankuta juch'uy kasaqtinku, mana ima ruway atiqkunatapis yachaywasiman churananku tiyan.
-
-- Estado tukuy ayllumanta tatakunata ruwayninkuta qhawanqa, chantapis yanapanqa.
-
-###### Juch'uy kamachiy 65.
-
-Tatallapis manaqa mamallapis wawankuta sutichachinqanku, kayqa chiqan, kanqa, iskayninkumanta uknin waqijinata qhawachinqa chayqa mana ni imapaq kanqachu, mana chiqan kaqtinqa sutichachiq qulqi t'akakusqanta qunan tiyan.
-
-###### Juch'uy kamachiy 66.
-
-Warmipis qharipis wawayuq kayta atinku.
-
-24
-
 ###### Artículo 61.
 
-- Se prohíbe y sanciona toda forma de violencia contra las niñas, niños y adolescentes, tanto en la familia como en la sociedad.
+I. Se prohíbe y sanciona toda forma de violencia contra las niñas, niños y adolescentes, tanto en la familia como en la sociedad.
 
-- Se  prohíbe  el  trabajo  forzado  y  la  explotación  infantil.  Las  actividades  que  realicen las niñas, niños y adolescentes en el marco familiar y social estarán orientadas a su formación  integral  como  ciudadanas  y  ciudadanos,  y  tendrán  una  función  formativa. Sus derechos, garantías y mecanismos institucionales de protección serán objeto de regulación especial.
+II. Se prohíbe el trabajo forzado y la explotación infantil. Las actividades que realicen las niñas, niños y adolescentes en el marco familiar y social estarán orientadas a su formación integral como ciudadanas y ciudadanos, y tendrán una función formativa. Sus derechos, garantías y mecanismos institucionales de protección serán objeto de regulación especial.
 
 ##### SECCIÓN VI DERECHOS DE LAS FAMILIAS
 
@@ -14405,25 +1541,59 @@ El Estado reconoce y protege a las familias como el núcleo fundamental de la so
 
 ###### Artículo 63.
 
-- I . El matrimonio entre una mujer y un hombre se constituye por vínculos jurídicos y se basa en la igualdad de derechos y deberes de los cónyuges.
+I. El matrimonio entre una mujer y un hombre se constituye por vínculos jurídicos y se basa en la igualdad de derechos y deberes de los cónyuges.
 
-- Las uniones libres o de hecho que reúnan condiciones de estabilidad y singularidad, y sean mantenidas entre una mujer y un hombre sin impedimento legal, producirán los mismos efectos que el matrimonio civil, tanto en las relaciones personales y patrimoniales de los convivientes como en lo que respecta a las hijas e hijos adoptados o nacidos de aquéllas.
+II. Las uniones libres o de hecho que reúnan condiciones de estabilidad y singularidad, y sean mantenidas entre una mujer y un hombre sin impedimento legal, producirán los mismos efectos que el matrimonio civil, tanto en las relaciones personales y patrimoniales de los convivientes como en lo que respecta a las hijas e hijos adoptados o nacidos de aquéllas.
 
 ###### Artículo 64.
 
-- Los cónyuges o convivientes tienen el deber de atender, en igualdad de condiciones y mediante el esfuerzo común, el mantenimiento y responsabilidad del hogar, la educación y  formación  integral  de  las  hijas  e  hijos  mientras  sean  menores  o  tengan  alguna discapacidad.
+I. Los cónyuges o convivientes tienen el deber de atender, en igualdad de condiciones y mediante el esfuerzo común, el mantenimiento y responsabilidad del hogar, la educación y formación integral de las hijas e hijos mientras sean menores o tengan alguna discapacidad.
 
-- El Estado protegerá y asistirá a quienes sean responsables de las familias en el ejercicio de sus obligaciones.
+II. El Estado protegerá y asistirá a quienes sean responsables de las familias en el ejercicio de sus obligaciones.
 
 ###### Artículo 65.
 
-En  virtud  del  interés  superior  de  las  niñas,  niños  y  adolescentes  y  de  su  derecho  a  la identidad, la presunción de filiación se hará valer por indicación de la madre o el padre. Esta presunción será válida salvo prueba en contrario a cargo de quien niegue la filiación. En caso de que la prueba niegue la presunción, los gastos incurridos corresponderán a quien haya indicado la filiación.
+En virtud del interés superior de las niñas, niños y adolescentes y de su derecho a la identidad, la presunción de filiación se hará valer por indicación de la madre o el padre. Esta presunción será válida salvo prueba en contrario a cargo de quien niegue la filiación. En caso de que la prueba niegue la presunción, los gastos incurridos corresponderán a quien haya indicado la filiación.
 
 ###### Artículo 66.
 
 Se garantiza a las mujeres y a los hombres el ejercicio de sus derechos sexuales y sus derechos reproductivos
 
+###### Juch'uy kamachiy 61.
+
+I. Kamachiymanjina tukuy pikunachus warmi wawakunata, qhari wawakunata, makt'akunata, imillakunata maqaqkuna ayllun ukhupi, llaqtan ukhupi juchachasqa kanqanku.
+
+II. Ama wawakunata sinchi llank'aykunapi llank'achinachu tiyan. Ayllu ukhupi jallp'a ukhupi warmi wawakuna, qhari wawakuna, makt'akuna imillakuna ima tukuy ima ruwasqankuta jamuq wiñayninkupi k'acha kayninpi yanapanan tiyan, chaykunamanta yachakunanku tiyan.
+
+##### SUQTA KAQ RAK'IY AYLLUKUNAQ RUWAY ATIYNINMANTA
+
+###### Juch'uy kamachiy 62.
+
+Estado ayllukunata tukuy runa tiyaqkuna ukhupi allinta qhawan, chantapis tukuy runaq, mana wakillantachu sumaq kawsayninpaq qhawanan tiyan.
+
+###### Juch'uy kamachiy 63.
+
+I. Kamachiymanjina warmiwan qhariwan sawarakuyninkuqa kanan tiyan, iskayninku kikin ruway atiyninyuq chantapis ruwayniyuq kanku.
+
+II. Mana sawarasqa qhari warmi tiyaqkunaqa kamachiy nisqanmanjina sawarasqajina qhawasqa kanqanku, paykuna qhawakusqankupi, kapusqankupi, qhariq warmiq wawankupipis, iskayninkuq wawankupipis sawarakuspaqa wawankujina kananku tiyan.
+
+###### Juch'uy kamachiy 64.
+
+I. Sawarasqakunapis, jinalla tiyaqkunapis iskayninkumanta qhari warmijina imatapis sayarichikunanku tiyan, chantapis warmi wawakunata qhari wawankuta juch'uy kasaqtinku, mana ima ruway atiqkunatapis yachaywasiman churananku tiyan.
+
+II. Estado tukuy ayllumanta tatakunata ruwayninkuta qhawanqa, chantapis yanapanqa.
+
+###### Juch'uy kamachiy 65.
+
+Tatallapis manaqa mamallapis wawankuta sutichachinqanku, kayqa chiqan, kanqa, iskayninkumanta uknin waqijinata qhawachinqa chayqa mana ni imapaq kanqachu, mana chiqan kaqtinqa sutichachiq qulqi t'akakusqanta qunan tiyan.
+
+###### Juch'uy kamachiy 66.
+
+Warmipis qharipis wawayuq kayta atinku.
+
 Ministerio de la Presidencia - V.C.G.G
+
+24
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14435,21 +1605,23 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
+##### QANCHIS KAQ RAK'IY MACHU RUNAQ RUWAY ATIYNINMANTA
+
 ###### Juch'uy kamachiy 67.
 
-- Kay Constitución nasqapi ruwayta atisqankuta nisqanmanta, tukuy machu runa machu kayninta sumaqta munasqa tiyakuyta atin.
+I. Kay Constitución nasqapi ruwayta atisqankuta nisqanmanta, tukuy machu runa machu kayninta sumaqta munasqa tiyakuyta atin.
 
-- Kamachiy nisqanmanjina Estado wañupunankukama machu runa kaqkunaman qulqita qunqa.
+II. Kamachiy nisqanmanjina Estado wañupunankukama machu runa kaqkunaman qulqita qunqa.
 
 ###### Juch'uy kamachiy 68.
 
-- Tukuy  machu  runa  sumaqta  tiyakunan  tiyan,  mana  maqasqa,  ma  wikch'usqa,  mana waqjina qhawasqa tiyakunan tiyan.
+I. Tukuy machu runa sumaqta tiyakunan tiyan, mana maqasqa, ma wikch'usqa, mana waqjina qhawasqa tiyakunan tiyan.
 
-- Tukuy  kuraq  runa  mana  ñak'arichisqa,  mana  saqirpasqa  manataq  maqasqa,  mana chiqnisqa kananku tiyan, mana jina kaqtinqa juchayuq kaqkuna juchachasqa kanqanku.
+II. Tukuy kuraq runa mana ñak'arichisqa, mana saqirpasqa manataq maqasqa, mana chiqnisqa kananku tiyan, mana jina kaqtinqa juchayuq kaqkuna juchachasqa kanqanku.
 
 ###### Juch'uy kamachiy 69.
 
-Jatun  maqanakuyman  riqkuna  tukuypaq  allin  napaykusqa  kanaku  tiyan,  kay  Bolivia suyunchismanta jark'aqkunajina qhawasqa kanaku tiyan. Wañunankukamataq Estadomanta, kamachiy qilqasqa kasqanmanjina qulqita jap'inqanku.
+Jatun maqanakuyman riqkuna tukuypaq allin napaykusqa kanaku tiyan, kay Bolivia suyunchismanta jark'aqkunajina qhawasqa kanaku tiyan. Wañunankukamataq Estadomanta, kamachiy qilqasqa kasqanmanjina qulqita jap'inqanku.
 
 ##### PUSAQ KAQ RAK'IY MANA IMA RUWAY ATIQKUNAQ RUWAY ATIYNINANTA
 
@@ -14457,49 +1629,45 @@ Jatun  maqanakuyman  riqkuna  tukuypaq  allin  napaykusqa  kanaku  tiyan,  kay  
 
 Mana imata ruway atiqkunaq kay derechosninku kasanku:
 
-- Ayllunmantawan Estadomantawan qhawasqa kananku tiyan.
+1. Ayllunmantawan Estadomantawan qhawasqa kananku tiyan.
 
-- Qhasillamanta, mana qulqimanta yachaqayniyuq kanaku tiyan.
+2. Qhasillamanta, mana qulqimanta yachaqayniyuq kanaku tiyan.
 
-- Parlayninpi parlasqa kanan tiyan.
+3. Parlayninpi parlasqa kanan tiyan.
 
-- Atisqanmanjina, llank'asqanmanta allin llank'anapi llank'ayta atin allillanta kawsakunanpaq llank'asqanmanjina qulqita jap'iyta atin.
+4. Atisqanmanjina, llank'asqanmanta allin llank'anapi llank'ayta atin allillanta kawsakunanpaq llank'asqanmanjina qulqita jap'iyta atin.
 
-- Ruwayta atisqanmanjina yanaparisqa kayta atin.
+5. Ruwayta atisqanmanjina yanaparisqa kayta atin.
 
 ###### Juch'uy kamachiy 71.
 
-- Pichus  mana  ima  atiq  llank'achiqta,  maqaqta,  qhapariqta,  mana  munaq  llank'aqta juchachasqa kanqa.
+I. Pichus mana ima atiq llank'achiqta, maqaqta, qhapariqta, mana munaq llank'aqta juchachasqa kanqa.
 
-- Estado ma ima ruway atiqkuna llaqta akhupi ama qhawarasqa kanakupaq ñankunata yanapananpaq qhawarinan tiyan, qulqiyuq kay atiyninpi, yuyaychakuy atiyninpi, kawsay atiyninpi.
+II. Estado ma ima ruway atiqkuna llaqta akhupi ama qhawarasqa kanakupaq ñankunata yanapananpaq qhawarinan tiyan, qulqiyuq kay atiyninpi, yuyaychakuy atiyninpi, kawsay atiyninpi.
 
-- Estado  ñan  kicharispa  ma  ima  ruway  atiqkinapaq  ñawpaqman  thaskirinankupaq qhawarinqa.
+III. Estado ñan kicharispa ma ima ruway atiqkinapaq ñawpaqman thaskirinankupaq qhawarinqa.
 
 ###### Juch'uy kamachiy 72.
 
 Estado ma ima ruway atiqkuna as allin kanankupaq, alliyakunankupaq yanapanqa. Chantapis kamachiy qilqasqa kasqanmanjina imastapiwan qhawanqa.
 
-Ministerio de la Presidencia - V.C.G.G
-
-##### QANCHIS KAQ RAK'IY MACHU RUNAQ RUWAY ATIYNINMANTA
-
-25
+##### SECCIÓN VII DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
 ###### Artículo 67.
 
-- Además de los derechos reconocidos en esta Constitución, todas las personas adultas mayores tienen derecho a una vejez digna, con calidad y calidez humana.
+I. Además de los derechos reconocidos en esta Constitución, todas las personas adultas mayores tienen derecho a una vejez digna, con calidad y calidez humana.
 
-- El Estado proveerá una renta vitalicia de vejez, en el marco del sistema de seguridad social integral, de acuerdo con la ley.
+II. El Estado proveerá una renta vitalicia de vejez, en el marco del sistema de seguridad social integral, de acuerdo con la ley.
 
 ###### Artículo 68.
 
-- El Estado adoptará políticas públicas para la protección, atención, recreación, descanso y ocupación social de las personas adultas mayores, de acuerdo con sus capacidades y posibilidades.
+I. El Estado adoptará políticas públicas para la protección, atención, recreación, descanso y ocupación social de las personas adultas mayores, de acuerdo con sus capacidades y posibilidades.
 
-- Se prohíbe y sanciona toda forma de maltrato, abandono, violencia y discriminación a las personas adultas mayores.
+II. Se prohíbe y sanciona toda forma de maltrato, abandono, violencia y discriminación a las personas adultas mayores.
 
 ###### Artículo 69.
 
-Los  Beneméritos  de  la  Patria  merecerán  gratitud  y  respeto  de  las  instituciones  públicas, privadas y de la población en general, serán considerados héroes y defensores de Bolivia y recibirán del Estado una pensión vitalicia, de acuerdo con la ley.
+Los Beneméritos de la Patria merecerán gratitud y respeto de las instituciones públicas, privadas y de la población en general, serán considerados héroes y defensores de Bolivia y recibirán del Estado una pensión vitalicia, de acuerdo con la ley.
 
 ##### SECCIÓN VIII DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -14507,31 +1675,33 @@ Los  Beneméritos  de  la  Patria  merecerán  gratitud  y  respeto  de  las  in
 
 Toda persona con discapacidad goza de los siguientes derechos:
 
-- A ser protegido por su familia y por el Estado.
+1. A ser protegido por su familia y por el Estado.
 
-- A una educación y salud integral gratuita.
+2. A una educación y salud integral gratuita.
 
-- A la comunicación en lenguaje alternativo.
+3. A la comunicación en lenguaje alternativo.
 
-- A trabajar en condiciones adecuadas, de acuerdo a sus posibilidades y capacidades, con una remuneración justa que le asegure una vida digna.
+4. A trabajar en condiciones adecuadas, de acuerdo a sus posibilidades y capacidades, con una remuneración justa que le asegure una vida digna.
 
-- Al desarrollo de sus potencialidades individuales.
+5. Al desarrollo de sus potencialidades individuales.
 
 ###### Artículo 71.
 
-- Se  prohibirá  y  sancionará  cualquier  tipo  de  discriminación,  maltrato,  violencia  y explotación a toda persona con discapacidad.
+I. Se prohibirá y sancionará cualquier tipo de discriminación, maltrato, violencia y explotación a toda persona con discapacidad.
 
-- El  Estado adoptará medidas de acción positiva para promover la efectiva integración de las personas con discapacidad en el ámbito productivo, económico, político, social y cultural, sin discriminación alguna.
+II. El Estado adoptará medidas de acción positiva para promover la efectiva integración de las personas con discapacidad en el ámbito productivo, económico, político, social y cultural, sin discriminación alguna.
 
-- El  Estado generará las condiciones que permitan el desarrollo de las potencialidades individuales de las personas con discapacidad.
+III. El Estado generará las condiciones que permitan el desarrollo de las potencialidades individuales de las personas con discapacidad.
 
 ###### Artículo 72.
 
 El Estado garantizará a las personas con discapacidad los servicios integrales de prevención y rehabilitación, así como otros beneficios que se establezcan en la ley.
 
-Fundación Konrad Adenauer (KAS)
+Ministerio de la Presidencia - V.C.G.G
 
-##### SECCIÓN VII DERECHOS DE LAS PERSONAS ADULTAS MAYORES
+25
+
+Fundación Konrad Adenauer (KAS)
 
 [[END OF PAGE 26]]
 
@@ -14541,17 +1711,19 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
+##### JISQ'UN KAQ RAK'IY WISQ'ASQA RUNAQ RUWAY ATIYNINMANTA
+
 ###### Juch'uy kamachiy 73.
 
-- Tukuy wisq'aqa kaqkuna runajina qhawasqa kanan tiyan.
+I. Tukuy wisq'aqa kaqkuna runajina qhawasqa kanan tiyan.
 
-- Tukuy  tun  wisq'asqa  kaqkunaqa  jark'aqninwan,  ayllunwan,  riqsisqankunawan  ima parlayta  atin,  mana  munaqtinqa  ama  parlananta  saqinachu  tiyan.  Iskay  chunka pachallata mana parlasqa kanan tiyan.
+II. Tukuy tun wisq'asqa kaqkunaqa jark'aqninwan, ayllunwan, riqsisqankunawan ima parlayta atin, mana munaqtinqa ama parlananta saqinachu tiyan. Iskay chunka pachallata mana parlasqa kanan tiyan.
 
 ###### Juch'uy kamachiy 74.
 
-- Estado  wisq'asqa  runata  tukuy  runa  tiyaqkuna  ukhupi  watiqmanta  tiyananta,  tukuy ruway atisqanta mana saruchasqachu kananta, wisq'asqa kaqtin, maypichus tiyananta, qhawanqa juchasaqa kasqanmanjina, watanta yachaspa, qharichus warmichus.
+I. Estado wisq'asqa runata tukuy runa tiyaqkuna ukhupi watiqmanta tiyananta, tukuy ruway atisqanta mana saruchasqachu kananta, wisq'asqa kaqtin, maypichus tiyananta, qhawanqa juchasaqa kasqanmanjina, watanta yachaspa, qharichus warmichus.
 
-- Wisq'asqa runqa chay wisqanawasikunapi llank'ayta yachaqaytapis atinqanku.
+II. Wisq'asqa runqa chay wisqanawasikunapi llank'ayta yachaqaytapis atinqanku.
 
 ##### CHUNKA KAQ RAK'IY WARMI MANAQA QHARI RANTIQKUNATAWAN MIKHUQKUNAQTAWAN RUWAY ATIYNINKU
 
@@ -14559,33 +1731,29 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 Warmi chayri qhari rantiqkunaqa kay derechosniyuq kanku:
 
-- Tukuy ima runa rantisqanta, mikhuyta, jampikunata, waqkunapiwan allin kanan tiyan, chantapis allin ruwasqa, askha kamachiq qhawarisqanmanjina kanan tiyan.
+1. Tukuy ima runa rantisqanta, mikhuyta, jampikunata, waqkunapiwan allin kanan tiyan, chantapis allin ruwasqa, askha kamachiq qhawarisqanmanjina kanan tiyan.
 
-- Imayuqchus ruwasqa kasqanmanta rantiq yachanan tiyan.
+2. Imayuqchus ruwasqa kasqanmanta rantiq yachanan tiyan.
 
 ###### Juch'uy kamachiy 76.
 
-- Tukuy runa ima awtupipis purinanpaq Estado qhawanan tiyan. Khamachiy awtuyuqkuna allinta  llank'ananta  qhawanan  tiyan,  jinamanta  puriqkunapaq,  ch'usaqkunapaq  allin kanan tiyan.
+I. Tukuy runa ima awtupipis purinanpaq Estado qhawanan tiyan. Khamachiy awtuyuqkuna allinta llank'ananta qhawanan tiyan, jinamanta puriqkunapaq, ch'usaqkunapaq allin kanan tiyan.
 
-- Kamachiy nisqanmanjinalla awtu sayachiqkuna, controles aduaneros, retenes, puestos de control, kay Bolivia suyupi kanqa.
+II. Kamachiy nisqanmanjinalla awtu sayachiqkuna, controles aduaneros, retenes, puestos de control, kay Bolivia suyupi kanqa.
 
-Ministerio de la Presidencia - V.C.G.G
-
-##### JISQ'UN KAQ RAK'IY WISQ'ASQA RUNAQ RUWAY ATIYNINMANTA
-
-26
+##### SECCIÓN IX DERECHOS DE LAS PERSONAS PRIVADAS DE LIBERTAD
 
 ###### Artículo 73.
 
-- Toda persona sometida a cualquier forma de privación de libertad será tratada con el debido respeto a la dignidad humana.
+I. Toda persona sometida a cualquier forma de privación de libertad será tratada con el debido respeto a la dignidad humana.
 
-- Todas las personas privadas de libertad tienen derecho a comunicarse libremente con  su  defensor,  intérprete,  familiares  y  personas  allegadas.  Se  prohíbe  la incomunicación.  Toda  limitación  a  la  comunicación  sólo  podrá  tener  lugar  en  el marco de investigaciones por comisión de delitos, y durará el tiempo máximo de veinticuatro horas.
+II. Todas las personas privadas de libertad tienen derecho a comunicarse libremente con su defensor, intérprete, familiares y personas allegadas. Se prohíbe la incomunicación. Toda limitación a la comunicación sólo podrá tener lugar en el marco de investigaciones por comisión de delitos, y durará el tiempo máximo de veinticuatro horas.
 
 ###### Artículo 74.
 
-- Es responsabilidad del Estado la reinserción social de las personas privadas de libertad, velar por el respeto de sus derechos, y su retención y custodia en un ambiente adecuado, de acuerdo a la clasificación, naturaleza y gravedad del delito, así como la edad y el sexo de las personas retenidas.
+I. Es responsabilidad del Estado la reinserción social de las personas privadas de libertad, velar por el respeto de sus derechos, y su retención y custodia en un ambiente adecuado, de acuerdo a la clasificación, naturaleza y gravedad del delito, así como la edad y el sexo de las personas retenidas.
 
-- Las personas privadas de libertad tendrán la oportunidad de trabajar y estudiar en los centros penitenciarios.
+II. Las personas privadas de libertad tendrán la oportunidad de trabajar y estudiar en los centros penitenciarios.
 
 ##### SECCIÓN X DERECHOS DE LAS USUARIAS Y LOS USUARIOS Y DE LAS CONSUMIDORAS Y LOS CONSUMIDORES
 
@@ -14593,19 +1761,21 @@ Ministerio de la Presidencia - V.C.G.G
 
 Las usuarias y los usuarios y las consumidoras y los consumidores gozan de los siguientes derechos:
 
-- Al  suministro  de  alimentos,  fármacos  y  productos  en  general,  en  condiciones  de inocuidad,  calidad,  y  cantidad  disponible  adecuada  y  suficiente,  con  prestación eficiente y oportuna del suministro.
+1. Al suministro de alimentos, fármacos y productos en general, en condiciones de inocuidad, calidad, y cantidad disponible adecuada y suficiente, con prestación eficiente y oportuna del suministro.
 
-- A la información fidedigna sobre las características y contenidos de los productos que consuman y servicios que utilicen.
+2. A la información fidedigna sobre las características y contenidos de los productos que consuman y servicios que utilicen.
 
 ###### Artículo 76.
 
-- El  Estado  garantiza  el  acceso  a  un  sistema  de  transporte  integral  en  sus  diversas modalidades. La ley determinará que el sistema de transporte sea eficiente y eficaz, y que genere beneficios a los usuarios y a los proveedores.
+I. El Estado garantiza el acceso a un sistema de transporte integral en sus diversas modalidades. La ley determinará que el sistema de transporte sea eficiente y eficaz, y que genere beneficios a los usuarios y a los proveedores.
 
-- No  podrán  existir  controles  aduaneros,  retenes  ni  puestos  de  control  de  ninguna naturaleza en el territorio boliviano, con excepción de los que hayan sido creados por la ley.
+II. No podrán existir controles aduaneros, retenes ni puestos de control de ninguna naturaleza en el territorio boliviano, con excepción de los que hayan sido creados por la ley.
+
+Ministerio de la Presidencia - V.C.G.G
+
+26
 
 Fundación Konrad Adenauer (KAS)
-
-##### SECCIÓN IX DERECHOS DE LAS PERSONAS PRIVADAS DE LIBERTAD
 
 [[END OF PAGE 27]]
 
@@ -14615,23 +1785,27 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
+#### SUQTA KAQ JUCH'UY PHATMA YACHAQAY, INTERCULTURALIDAD DERECHOS CULTURALESMANTA
+
+##### UK KAQ RAK'IY YACHAQAYMANTA
+
 ###### Juch'uy kamachiy 77.
 
-- Estado nisqaqa yachaqaypaqraq qulqita t'akanan tiyan, chayta yanapanman, ñawpaqman tanqarinan tiyan.
+I. Estado nisqaqa yachaqaypaqraq qulqita t'akanan tiyan, chayta yanapanman, ñawpaqman tanqarinan tiyan.
 
-- Estadopis tukuy runapis yachaqaymanta parlariyta atinku. Kay yachaqaykunamanta parlarispaqa kaykuna  kasanku:  Tukuy  unqusqa  kaqkuna  wawakunapaq  yachaqay,  kuraqña  kaqkunapaq yachaqay, ma ima ruway atiqkunapaq yachaqay, tukuchaspa llank'anankipaq yachaqay. Sistema educativo nisqa sumaqta yachaqay yachachiy apakunanta qhawaspa thaskirin.
+II. Estadopis tukuy runapis yachaqaymanta parlariyta atinku. Kay yachaqaykunamanta parlarispaqa kaykuna kasanku: Tukuy unqusqa kaqkuna wawakunapaq yachaqay, kuraqña kaqkunapaq yachaqay, ma ima ruway atiqkunapaq yachaqay, tukuchaspa llank'anankipaq yachaqay. Sistema educativo nisqa sumaqta yachaqay yachachiy apakunanta qhawaspa thaskirin.
 
-- Sistema educativo nisqapiqa Estadoq yachaywasinkuna waqkunaqpata yachaywasinkuna, chantapis chay convenio nisqapi kaqkuna kasanku.
+III. Sistema educativo nisqapiqa Estadoq yachaywasinkuna waqkunaqpata yachaywasinkuna, chantapis chay convenio nisqapi kaqkuna kasanku.
 
 ###### Juch'uy kamachiy 78.
 
-- Yachaqayqa uklla, ma qulqipaqchu, tukuypaq, chantapis sumaq.
+I. Yachaqayqa uklla, ma qulqipaqchu, tukuypaq, chantapis sumaq.
 
-- Yachaqayqa sapa ayllu ukhupi, waq ayllukunapi, mayqin simillatapis apaychaspa mayqin yachaqaypipis.
+II. Yachaqayqa sapa ayllu ukhupi, waq ayllukunapi, mayqin simillatapis apaychaspa mayqin yachaqaypipis.
 
-- Sistema  educativo  nisqa  tukuypaq  yachaqayta  munaqkunapaq,  kayqa  humanista, científica, técnica, tecnológica, productiva, territorial, teórica, práctica, liberadora, revolucionaria, crítica solidaria.
+III. Sistema educativo nisqa tukuypaq yachaqayta munaqkunapaq, kayqa humanista, científica, técnica, tecnológica, productiva, territorial, teórica, práctica, liberadora, revolucionaria, crítica solidaria.
 
-- Estado qharikuna warmikuna yachaqayta munasqankumanjina ñawpaqman thaskirichinan tiyan, kawsayninchisman, llank'ayninchismanjina.
+IV. Estado qharikuna warmikuna yachaqayta munasqankumanjina ñawpaqman thaskirichinan tiyan, kawsayninchisman, llank'ayninchismanjina.
 
 ###### Juch'uy kamachiy 79.
 
@@ -14639,35 +1813,31 @@ Yachaqaypi yachaqaqkunaqa kay jallp'ata munasqankuta, tukuy allin ñawiyuq qhawa
 
 ###### Juch'uy kamachiy 80.
 
-- Yachaqayìqa sumaq kawsayninyuq runa kananta mask'akun, chantapis allinta tiyakunanpaq  jay  kawasayta  allinyachispa  ñawpaqman  ñawparichispa.  Yachaqayqa sapa ukpi chantapis tukuypi ñawparichiyta atispa allinta qhawakunan tiyan, t'ukuynintawan  ruwaynintawan  haskirichinan  tiyan.  Imatachus  yachaqaqkuna  ruwayta atinku  chaymanjina  yachaqananku  tiyan,  tanqarina  tiyan,  sumaqta  kawsanapaq  ama jallp'anchista  khuchichanankupaq  ama  jallp'anchista  khuchichanankupaq,  astaqanpis qhawananakupaq. Kaykunaqa kamachiymanjina apakunqa.
+I. Yachaqayìqa sumaq kawsayninyuq runa kananta mask'akun, chantapis allinta tiyakunanpaq jay kawasayta allinyachispa ñawpaqman ñawparichispa. Yachaqayqa sapa ukpi chantapis tukuypi ñawparichiyta atispa allinta qhawakunan tiyan, t'ukuynintawan ruwaynintawan haskirichinan tiyan. Imatachus yachaqaqkuna ruwayta atinku chaymanjina yachaqananku tiyan, tanqarina tiyan, sumaqta kawsanapaq ama jallp'anchista khuchichanankupaq ama jallp'anchista khuchichanankupaq, astaqanpis qhawananakupaq. Kaykunaqa kamachiymanjina apakunqa.
 
-- Yachachiypiqa  warmikunapis  qharikunapis  uklla  kanapaq,  qhawarikunqa,  chantapis sapa  nación,  pueblo  indígena  originario  campesinoq  allin  sunquyuq  kayninmanta, kawsayninmanta ima parlanapaq. Chantapis, yachachiyqa tukuy Estado ukhupi ininikunankupaq qhawachinan tiyan.
+II. Yachachiypiqa warmikunapis qharikunapis uklla kanapaq, qhawarikunqa, chantapis sapa nación, pueblo indígena originario campesinoq allin sunquyuq kayninmanta, kawsayninmanta ima parlanapaq. Chantapis, yachachiyqa tukuy Estado ukhupi ininikunankupaq qhawachinan tiyan.
 
-Ministerio de la Presidencia - V.C.G.G
+#### CAPÍTULO SEXTO EDUCACIÓN, INTERCULTURALIDAD Y DERECHOS CULTURALES
 
-#### SUQTA KAQ JUCH'UY PHATMA YACHAQAY, INTERCULTURALIDAD DERECHOS CULTURALESMANTA
-
-##### UK KAQ RAK'IY YACHAQAYMANTA
-
-27
+##### SECCIÓN I EDUCACIÓN
 
 ###### Artículo 77.
 
-- La educación constituye una función suprema y primera responsabilidad financiera del Estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla.
+I. La educación constituye una función suprema y primera responsabilidad financiera del Estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla.
 
-- El Estado y la sociedad tienen tuición plena sobre el sistema educativo, que comprende la  educación  regular,  la  alternativa  y  especial,  y  la  educación  superior  de  formación profesional. El sistema educativo desarrolla sus procesos sobre la base de criterios de armonía y coordinación.
+II. El Estado y la sociedad tienen tuición plena sobre el sistema educativo, que comprende la educación regular, la alternativa y especial, y la educación superior de formación profesional. El sistema educativo desarrolla sus procesos sobre la base de criterios de armonía y coordinación.
 
-- El  sistema  educativo  está  compuesto  por  las  instituciones  educativas  fiscales, instituciones educativas privadas y de convenio.
+III. El sistema educativo está compuesto por las instituciones educativas fiscales, instituciones educativas privadas y de convenio.
 
 ###### Artículo 78.
 
-- La  educación  es  unitaria,  pública,  universal,  democrática,  participativa,  comunitaria, descolonizadora y de calidad.
+I. La educación es unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad.
 
-- La educación es intracultural, intercultural y plurilingüe en todo el sistema educativo.
+II. La educación es intracultural, intercultural y plurilingüe en todo el sistema educativo.
 
-- El  sistema  educativo  se  fundamenta  en  una  educación  abierta,  humanista,  científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria.
+III. El sistema educativo se fundamenta en una educación abierta, humanista, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria.
 
-- El Estado garantiza la educación vocacional y la enseñanza técnica humanística, para hombres y mujeres, relacionada con la vida, el trabajo y el desarrollo productivo.
+IV. El Estado garantiza la educación vocacional y la enseñanza técnica humanística, para hombres y mujeres, relacionada con la vida, el trabajo y el desarrollo productivo.
 
 ###### Artículo 79.
 
@@ -14675,15 +1845,15 @@ La educación fomentará el civismo, el diálogo intercultural y los valores ét
 
 ###### Artículo 80.
 
-- La  educación  tendrá  como  objetivo  la  formación  integral  de  las  personas  y  el fortalecimiento de la conciencia social crítica en la vida y para la vida. La educación estará  orientada  a  la  formación  individual  y  colectiva;  al  desarrollo  de  competencias, aptitudes  y  habilidades  físicas  e  intelectuales  que  vincule  la  teoría  con  la  práctica productiva;  a  la  conservación  y  protección  del  medio  ambiente,  la  biodiversidad  y  el territorio para el vivir bien. Su regulación y cumplimiento serán establecidos por la ley.
+I. La educación tendrá como objetivo la formación integral de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida. La educación estará orientada a la formación individual y colectiva; al desarrollo de competencias, aptitudes y habilidades físicas e intelectuales que vincule la teoría con la práctica productiva; a la conservación y protección del medio ambiente, la biodiversidad y el territorio para el vivir bien. Su regulación y cumplimiento serán establecidos por la ley.
 
-- La educación contribuirá al fortalecimiento de la unidad e identidad de todas y todos como parte del Estado Plurinacional, así como a la identidad y desarrollo cultural de los miembros de cada nación o pueblo indígena originario campesino, y al entendimiento y enriquecimiento intercultural dentro del Estado.
+II. La educación contribuirá al fortalecimiento de la unidad e identidad de todas y todos como parte del Estado Plurinacional, así como a la identidad y desarrollo cultural de los miembros de cada nación o pueblo indígena originario campesino, y al entendimiento y enriquecimiento intercultural dentro del Estado.
+
+Ministerio de la Presidencia - V.C.G.G
+
+27
 
 Fundación Konrad Adenauer (KAS)
-
-#### CAPÍTULO SEXTO EDUCACIÓN, INTERCULTURALIDAD Y DERECHOS CULTURALES
-
-##### SECCIÓN I EDUCACIÓN
 
 [[END OF PAGE 28]]
 
@@ -14695,23 +1865,23 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### Juch'uy kamachiy 81.
 
-- Yachaywasita tukuchanankukama yachaqaqkuna yachaqananku tiyan.
+I. Yachaywasita tukuchanankukama yachaqaqkuna yachaqananku tiyan.
 
-- Fiscal  yachaqayqa  juch'uy  yachaywasipipis,  yachaywasipipis,  jatun  yachaywasipipis qhasillamanta yachachikun.
+II. Fiscal yachaqayqa juch'uy yachaywasipipis, yachaywasipipis, jatun yachaywasipipis qhasillamanta yachachikun.
 
-- Yachaywasita yachaqaqkuna tukuchasqankutawan qhasullamanta diploma de bachiller nisqata qunqanku.
+III. Yachaywasita yachaqaqkuna tukuchasqankutawan qhasullamanta diploma de bachiller nisqata qunqanku.
 
 ###### Juch'uy kamachiy 82.
 
-- Estado  yachaqayman  yaykunankupaq,  chaypiwarmikuna  qharikuna  yachaqaqkunapis kikin qhawasqa kanankupqa qhawanan tiyan.
+I. Estado yachaqayman yaykunankupaq, chaypiwarmikuna qharikuna yachaqaqkunapis kikin qhawasqa kanankupqa qhawanan tiyan.
 
-- Kamachiymanjina,  Estado  astawanpuniqa  pisi  qulqiyuq  yachaqaqkunata  yanapanpa, qulqiwan, mikhuykunawan, p'achawan, awtupi purinanpaq yachaqanapaq nakunawan, wasiwan tiyanankupaq.
+II. Kamachiymanjina, Estado astawanpuniqa pisi qulqiyuq yachaqaqkunata yanapanpa, qulqiwan, mikhuykunawan, p'achawan, awtupi purinanpaq yachaqanapaq nakunawan, wasiwan tiyanankupaq.
 
-- Juch'uy  yachaywasipi,  yachaywasipi,  jatun  yachaywasipipis  becas  nisqata  sumaq yachaqaqkunata  qukunqa.  Tukuy  warmi  wawa,  qhari  wawa,  makt'a,  imalla  astawan yachaqayta jap'iqaqkuna, chaymanjina yachachisqa kananku tiyan.
+III. Juch'uy yachaywasipi, yachaywasipi, jatun yachaywasipipis becas nisqata sumaq yachaqaqkunata qukunqa. Tukuy warmi wawa, qhari wawa, makt'a, imalla astawan yachaqayta jap'iqaqkuna, chaymanjina yachachisqa kananku tiyan.
 
 ###### Juch'uy kamachiy 83.
 
-Niveles de Estado  nisqapi, nacionespi, pueblos  indígena originario campesino  allin qhawasqa  organismos  nisqawan  llaqta  ukhumanta,  ayllukunamanta  tatakuna  parlaynin sistema educativo nisqapi tukuyniqpi uyarisqa kanan tiyan. Uk kamachiypi kayninpis ruway atiyninpis qhawachisqa kanqanku.
+Niveles de Estado nisqapi, nacionespi, pueblos indígena originario campesino allin qhawasqa organismos nisqawan llaqta ukhumanta, ayllukunamanta tatakuna parlaynin sistema educativo nisqapi tukuyniqpi uyarisqa kanan tiyan. Uk kamachiypi kayninpis ruway atiyninpis qhawachisqa kanqanku.
 
 ###### Juch'uy kamachiy 84.
 
@@ -14719,31 +1889,27 @@ Estadopis tukuy runapis mana ñawiñayta, ma qilqay yachayta chinkachinachu tiya
 
 ###### Juch'uy kamachiy 85.
 
-Yachaqana wasi kasqanmanjina warmi wawakuna qhari wawakuna, imillakuna, makt'akuna ima  mana  ima  ruwayta  atiqkunapaq  manaqa  pachan  jap'iqaqkunapaq  organización  de desarrollo curricular nisqata ruwanqa.
+Yachaqana wasi kasqanmanjina warmi wawakuna qhari wawakuna, imillakuna, makt'akuna ima mana ima ruwayta atiqkunapaq manaqa pachan jap'iqaqkunapaq organización de desarrollo curricular nisqata ruwanqa.
 
 ###### Juch'uy kamachiy 86.
 
-Yachaywasipi  imaynatachus  umachakun  sunqachakun,  imatachus  yapaychan  chayta  ima qhawakunqataq  tanqarikunqataq.  Jinallatataq,  nacionespata  pueblos  indígena  originario campesinospata  yupaychasqankuta  qhawarikunqataq  tanqarikunqataq  imaynatachus  laya apunkunayuq runa kawsakun chaypis ama qhawarasqa kana tuyan astawanpis kallpachana. Kay yachaqana wasikunapiqa yachaqaqkuna waq apuyuq kaqkunaqa yachaqayta atinku, ama qhawarasqataq kanaku tiyan.
-
-Ministerio de la Presidencia - V.C.G.G
-
-28
+Yachaywasipi imaynatachus umachakun sunqachakun, imatachus yapaychan chayta ima qhawakunqataq tanqarikunqataq. Jinallatataq, nacionespata pueblos indígena originario campesinospata yupaychasqankuta qhawarikunqataq tanqarikunqataq imaynatachus laya apunkunayuq runa kawsakun chaypis ama qhawarasqa kana tuyan astawanpis kallpachana. Kay yachaqana wasikunapiqa yachaqaqkuna waq apuyuq kaqkunaqa yachaqayta atinku, ama qhawarasqataq kanaku tiyan.
 
 ###### Artículo 81.
 
-- I . La educación es obligatoria hasta el bachillerato.
+I. La educación es obligatoria hasta el bachillerato.
 
-- La educación fiscal es gratuita en todos sus niveles hasta el superior.
+II. La educación fiscal es gratuita en todos sus niveles hasta el superior.
 
-- A la culminación de los estudios del nivel secundario se otorgará el diploma de bachiller, con carácter gratuito e inmediato.
+III. A la culminación de los estudios del nivel secundario se otorgará el diploma de bachiller, con carácter gratuito e inmediato.
 
 ###### Artículo 82.
 
-- El Estado garantizará el acceso a la educación y la permanencia de todas las ciudadanas y los ciudadanos en condiciones de plena igualdad.
+I. El Estado garantizará el acceso a la educación y la permanencia de todas las ciudadanas y los ciudadanos en condiciones de plena igualdad.
 
-- El  Estado  apoyará  con  prioridad  a  los  estudiantes  con  menos  posibilidades económicas  para  que  accedan  a  los  diferentes  niveles  del  sistema  educativo, mediante recursos económicos, programas de alimentación, vestimenta, transporte, material escolar; y en áreas dispersas, con residencias estudiantiles, de acuerdo con la ley.
+II. El Estado apoyará con prioridad a los estudiantes con menos posibilidades económicas para que accedan a los diferentes niveles del sistema educativo, mediante recursos económicos, programas de alimentación, vestimenta, transporte, material escolar; y en áreas dispersas, con residencias estudiantiles, de acuerdo con la ley.
 
-- Se  estimulará  con  becas  a  estudiantes  de  excelente  aprovechamiento  en  todos  los niveles  del  sistema  educativo.  Toda  niña,  niño  y  adolescente  con  talento  natural destacado tiene derecho a ser atendido educativamente con métodos de formación y aprendizaje que le permitan el mayor desarrollo de sus aptitudes y destrezas.
+III. Se estimulará con becas a estudiantes de excelente aprovechamiento en todos los niveles del sistema educativo. Toda niña, niño y adolescente con talento natural destacado tiene derecho a ser atendido educativamente con métodos de formación y aprendizaje que le permitan el mayor desarrollo de sus aptitudes y destrezas.
 
 ###### Artículo 83.
 
@@ -14755,11 +1921,15 @@ El Estado y la sociedad tienen el deber de erradicar el analfabetismo a través 
 
 ###### Artículo 85.
 
-El Estado promoverá y garantizará la educación permanente de niñas, niños y adolescentes con discapacidad, o con talentos extraordinarios en el aprendizaje, bajo la misma estructura, principios  y  valores  del  sistema  educativo,  y  establecerá  una  organización  y  desarrollo curricular especial.
+El Estado promoverá y garantizará la educación permanente de niñas, niños y adolescentes con discapacidad, o con talentos extraordinarios en el aprendizaje, bajo la misma estructura, principios y valores del sistema educativo, y establecerá una organización y desarrollo curricular especial.
 
 ###### Artículo 86.
 
-En los centros educativos se reconocerá y garantizará la libertad de conciencia y de fe y de la enseñanza de religión, así como la espiritualidad de las naciones y pueblos indígena originario campesinos, y se fomentará el respeto y la convivencia mutua entre las personas con  diversas  opciones  religiosas,  sin  imposición  dogmática.  En  estos  centros  no  se discriminará en la aceptación y permanencia de las alumnas y los alumnos por su opción religiosa.
+En los centros educativos se reconocerá y garantizará la libertad de conciencia y de fe y de la enseñanza de religión, así como la espiritualidad de las naciones y pueblos indígena originario campesinos, y se fomentará el respeto y la convivencia mutua entre las personas con diversas opciones religiosas, sin imposición dogmática. En estos centros no se discriminará en la aceptación y permanencia de las alumnas y los alumnos por su opción religiosa.
+
+Ministerio de la Presidencia - V.C.G.G
+
+28
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14773,13 +1943,13 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### Juch'uy kamachiy 87.
 
-Runa junt'anapaq mana qulqiwan yaykuna Convenio yachay wasikuna kichakusqanta riqsina; jinallatataq  rispitana.  Imaynatachus  apunmanta  yachay  wasikuna  qhawarisqankumanjina, mana suyuq  kamachiyninta  qhiparichispa  kay  yachay  wasikunataqa  llaqta  kamachiqkuna qhawarinanku  tiyan.  Imaynachus  kamachiykuna,  yuyaychakuykuna,  wakichiykuna  ima yachay wasiqta kasqanmanjina kananku tiyan.
+Runa junt'anapaq mana qulqiwan yaykuna Convenio yachay wasikuna kichakusqanta riqsina; jinallatataq rispitana. Imaynatachus apunmanta yachay wasikuna qhawarisqankumanjina, mana suyuq kamachiyninta qhiparichispa kay yachay wasikunataqa llaqta kamachiqkuna qhawarinanku tiyan. Imaynachus kamachiykuna, yuyaychakuykuna, wakichiykuna ima yachay wasiqta kasqanmanjina kananku tiyan.
 
 ###### Juch'uy kamachiy 88.
 
-- Privadas yachaqana yachaywasikuna respetakun, mana imatapis rimarinachu, imaynachus yuyaychakuykuna, wakichiykuna, yachaqana kamachiqkuna kasqanmanjina hay yachay wasikunaqa kanan tiyan. Imaynachus yachay wasikuna kanan kasan, kamachiymanjina, chayta qhawarispa Estado nisqa yachay wasikuna kichakyuninta qhawarinan tiyan.
+I. Privadas yachaqana yachaywasikuna respetakun, mana imatapis rimarinachu, imaynachus yuyaychakuykuna, wakichiykuna, yachaqana kamachiqkuna kasqanmanjina hay yachay wasikunaqa kanan tiyan. Imaynachus yachay wasikuna kanan kasan, kamachiymanjina, chayta qhawarispa Estado nisqa yachay wasikuna kichakyuninta qhawarinan tiyan.
 
-- Derechosninkumanjina, qhawarisqankumanjina, tatakuna mamakuna warmi wawankupaq qhariwawankupaq yachaqayninta aqllasqankuta mana imatapis qhawaranachu.
+II. Derechosninkumanjina, qhawarisqankumanjina, tatakuna mamakuna warmi wawankupaq qhariwawankupaq yachaqayninta aqllasqankuta mana imatapis qhawaranachu.
 
 ###### Juch'uy kamachiy 89.
 
@@ -14787,23 +1957,19 @@ Imaynachus yachaqaypi yachaqay kasan, chaninchay, qhawariynin, yachaqaynin chani
 
 ###### Juch'uy kamachiy 90.
 
-- Jatun  kamachiy  kasqanmanjina  Estado  humanística,  técnica,  tecnológica  yachaqay wasikunaqta llank'ayninta riqsinqa.
+I. Jatun kamachiy kasqanmanjina Estado humanística, técnica, tecnológica yachaqay wasikunaqta llank'ayninta riqsinqa.
 
-- Técnico  yachaqay  wasikunapiwan  Suyu  técnica,  tecnológica,  productiva,  artística, lingüística yachaqayta riqsirichinqa.
+II. Técnico yachaqay wasikunapiwan Suyu técnica, tecnológica, productiva, artística, lingüística yachaqayta riqsirichinqa.
 
-- Kawsayninchista, llaqta plurinacional kasqanchista sunquchakusqanta ñawparichinanpaq yachaqaywan  Estado  karu  yachaqana  yachaqaytawan  mana  yachay  wasipi  llaqta yachaqana yachaqaytawan kicharikuyninta wakichiynintapis qhawarinqa.
+III. Kawsayninchista, llaqta plurinacional kasqanchista sunquchakusqanta ñawparichinanpaq yachaqaywan Estado karu yachaqana yachaqaytawan mana yachay wasipi llaqta yachaqana yachaqaytawan kicharikuyninta wakichiynintapis qhawarinqa.
 
 ##### ISKAY KAQ RAK'IY JATUN YACHAQAYMANTA
 
 ###### Juch'uy kamachiy 91
 
-- Jarun yachaqanaqa  llaqta  runa  ñawpaqman  puririnanpaq  yachaqaykunata,  jatun yachaykuna mask'aykunata, jatun yachaqayta riqsichiykunatapis ñawparichin. Chaypaqqa  pacha  yachaykunata,  naciones,  pueblos  originario  campesinos  nisqaqta yachaykunantapis qhawarinan tiyan.
+I. Jarun yachaqanaqa llaqta runa ñawpaqman puririnanpaq yachaqaykunata, jatun yachaykuna mask'aykunata, jatun yachaqayta riqsichiykunatapis ñawparichin. Chaypaqqa pacha yachaykunata, naciones, pueblos originario campesinos nisqaqta yachaykunantapis qhawarinan tiyan.
 
-- Jatun yachaqay ayllu, llaqta ukhupi kawsakusqanchismanjina kanan tiyan; jinamanta, una sumaqta llank'ananpaq, sumaq llank'aq kananpaq tukuy imamanta yachaqanana tiyan;  suyunchispata  qulqichakuynin  ch'ampakunatapis,  llaqta  ch'ampaykunatapis ch'uwanchananpaq,  pampachananpaq  jatun  mask'ayta  llank'anan  tiyan;  tukuy  laya jatun yachaqayta, kawsayninchista, siminchista kallpachanapaq imaynatachus llaqtaman chayachinqa imaynatachus riqsichinqa chaykunata qhawarinan tiyan chaykunata  qhawarinan  tiyan;  tukuy  runa,  llaqta  runa  k'acha  kawsaypi  sumaq kawsaypi ima kawsakunapaq llaqtawan khuska tukuy procesos de liberación nisqapi kanan tiyan.
-
-Ministerio de la Presidencia - V.C.G.G
-
-29
+II. Jatun yachaqay ayllu, llaqta ukhupi kawsakusqanchismanjina kanan tiyan; jinamanta, una sumaqta llank'ananpaq, sumaq llank'aq kananpaq tukuy imamanta yachaqanana tiyan; suyunchispata qulqichakuynin ch'ampakunatapis, llaqta ch'ampaykunatapis ch'uwanchananpaq, pampachananpaq jatun mask'ayta llank'anan tiyan; tukuy laya jatun yachaqayta, kawsayninchista, siminchista kallpachanapaq imaynatachus llaqtaman chayachinqa imaynatachus riqsichinqa chaykunata qhawarinan tiyan chaykunata qhawarinan tiyan; tukuy runa, llaqta runa k'acha kawsaypi sumaq kawsaypi ima kawsakunapaq llaqtawan khuska tukuy procesos de liberación nisqapi kanan tiyan.
 
 ###### Artículo 87.
 
@@ -14811,9 +1977,9 @@ Se reconoce y respeta el funcionamiento de unidades educativas de convenio con f
 
 ###### Artículo 88.
 
-- I . Se reconoce y respeta el funcionamiento de unidades educativas privadas, en todos los niveles y modalidades, éstas se regirán por las políticas, planes, programas y autoridades del sistema educativo. El Estado garantiza su funcionamiento previa verificación de las condiciones y cumplimiento de los requisitos establecidos por la ley.
+I. Se reconoce y respeta el funcionamiento de unidades educativas privadas, en todos los niveles y modalidades, éstas se regirán por las políticas, planes, programas y autoridades del sistema educativo. El Estado garantiza su funcionamiento previa verificación de las condiciones y cumplimiento de los requisitos establecidos por la ley.
 
-- Se respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos.
+II. Se respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos.
 
 ###### Artículo 89.
 
@@ -14821,19 +1987,23 @@ El seguimiento, la medición, evaluación y acreditación de la calidad educativ
 
 ###### Artículo 90.
 
-- El  Estado  reconocerá  la  vigencia  de  institutos  de  formación  humanística,  técnica  y tecnológica, en los niveles medio y superior, previo cumplimiento de las condiciones y requisitos establecidos en la ley.
+I. El Estado reconocerá la vigencia de institutos de formación humanística, técnica y tecnológica, en los niveles medio y superior, previo cumplimiento de las condiciones y requisitos establecidos en la ley.
 
-- El Estado promoverá la formación técnica, tecnológica, productiva, artística y lingüística, a través de institutos técnicos.
+II. El Estado promoverá la formación técnica, tecnológica, productiva, artística y lingüística, a través de institutos técnicos.
 
-- El  Estado,  a  través  del  sistema  educativo,  promoverá  la  creación  y  organización  de programas educativos a distancia y populares no escolarizados, con el objetivo de elevar el nivel cultural y desarrollar la conciencia plurinacional del pueblo.
+III. El Estado, a través del sistema educativo, promoverá la creación y organización de programas educativos a distancia y populares no escolarizados, con el objetivo de elevar el nivel cultural y desarrollar la conciencia plurinacional del pueblo.
 
 ##### SECCIÓN II EDUCACIÓN SUPERIOR
 
 ###### Artículo 91.
 
-- La  educación superior desarrolla procesos de formación profesional, de generación y divulgación de conocimientos orientados al desarrollo integral de la sociedad, para lo cual  tomará en cuenta los conocimientos universales y los saberes colectivos de las naciones y pueblos indígena originario campesinos.
+I. La educación superior desarrolla procesos de formación profesional, de generación y divulgación de conocimientos orientados al desarrollo integral de la sociedad, para lo cual tomará en cuenta los conocimientos universales y los saberes colectivos de las naciones y pueblos indígena originario campesinos.
 
-- La educación superior es intracultural, intercultural y plurilingüe, y tiene por misión la formación integral de recursos humanos con alta calificación y competencia profesional; desarrollar  procesos  de  investigación  científica  para  resolver  problemas  de  la  base productiva y de su entorno social; promover políticas de extensión e interacción social para fortalecer la diversidad científica, cultural y lingüística; participar junto a su pueblo en  todos  los  procesos  de  liberación  social,  para  construir  una  sociedad  con  mayor equidad y justicia social.
+II. La educación superior es intracultural, intercultural y plurilingüe, y tiene por misión la formación integral de recursos humanos con alta calificación y competencia profesional; desarrollar procesos de investigación científica para resolver problemas de la base productiva y de su entorno social; promover políticas de extensión e interacción social para fortalecer la diversidad científica, cultural y lingüística; participar junto a su pueblo en todos los procesos de liberación social, para construir una sociedad con mayor equidad y justicia social.
+
+Ministerio de la Presidencia - V.C.G.G
+
+29
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14845,65 +2015,65 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Jarun yachaqaypiqa jatun yachaywasikuna, yachachiqkunata urqhuqkunapaq, técnicos, tecnológicos, artísticos, qulqiwan mana qulqipaq yachaqay wasikuna kasanku.
+III. Jarun yachaqaypiqa jatun yachaywasikuna, yachachiqkunata urqhuqkunapaq, técnicos, tecnológicos, artísticos, qulqiwan mana qulqipaq yachaqay wasikuna kasanku.
 
 ###### Juch'uy kamachiy 92.
 
-- Llaqata jatun yachaywasikunaqa autónomas nisqa kanku chantapis tukuy kikin kanku. Autonomía  nisqaqa  kayjina  kasan:  Paykunalla  qulqinkuta  qhawarinku;  paykunalla kamachiqninkuta, yachachiqkunata, llank'akunata ima aqllanku; kamachiyninkuta, yachaqay wakichisqata, mayk'a qulqitacha sapa watapaq munanku  chayta ima wakichinkutaq qhawarinkutaq; paykunallataq ima quaqatapis ima saqisqatapis jap'irinku; jinallatataq, institutos, facultades nisqata ima purichinanpaq, kallpachuananpaq contratos nisqata  ch'allanku.  Paykuna  parlasqankumanjina,  kamachisqankumanjina  llaqta  jatun yachaywasikunaqa imachus kapusqanmanjina qulqita mañarikunkuman.
+I. Llaqata jatun yachaywasikunaqa autónomas nisqa kanku chantapis tukuy kikin kanku. Autonomía nisqaqa kayjina kasan: Paykunalla qulqinkuta qhawarinku; paykunalla kamachiqninkuta, yachachiqkunata, llank'akunata ima aqllanku; kamachiyninkuta, yachaqay wakichisqata, mayk'a qulqitacha sapa watapaq munanku chayta ima wakichinkutaq qhawarinkutaq; paykunallataq ima quaqatapis ima saqisqatapis jap'irinku; jinallatataq, institutos, facultades nisqata ima purichinanpaq, kallpachuananpaq contratos nisqata ch'allanku. Paykuna parlasqankumanjina, kamachisqankumanjina llaqta jatun yachaywasikunaqa imachus kapusqanmanjina qulqita mañarikunkuman.
 
-- Autonomianmanjina  llaqta  jatun  yachaywasikunaqa  uk  suyu  jatun  yachaywasiyuq kanqanku; Plan de desarrollo universitario nisqamanjina kay suyu jatun yachaywasiqa imapaqchus kasqankuta imatachus ruwananku tiyan chaykunata ruwanqataq, qhawarinqataq.
+II. Autonomianmanjina llaqta jatun yachaywasikunaqa uk suyu jatun yachaywasiyuq kanqanku; Plan de desarrollo universitario nisqamanjina kay suyu jatun yachaywasiqa imapaqchus kasqankuta imatachus ruwananku tiyan chaykunata ruwanqataq, qhawarinqataq.
 
-- Suyunchis  ukhupi  mayllapipis  llank'anapaq  llaqta  jatun  yachaywasikuna  diplomas académicos, título profesionales nisqata ima quyta atinku.
+III. Suyunchis ukhupi mayllapipis llank'anapaq llaqta jatun yachaywasikuna diplomas académicos, título profesionales nisqata ima quyta atinku.
 
 ###### Juch'uy kamachiy 93.
 
-- Jatun  yachaywasiq  qulqinta,  departamento,  municipios,  qulqi  qusqanta  ima  mana qhawarispa Estado llaqta jatun yachaywarispa Estado llaqta jatun yachaywasikunaman mañasqankumanjina qulqita qunanpuni tiyan.
+I. Jatun yachaywasiq qulqinta, departamento, municipios, qulqi qusqanta ima mana qhawarispa Estado llaqta jatun yachaywarispa Estado llaqta jatun yachaywasikunaman mañasqankumanjina qulqita qunanpuni tiyan.
 
-- Kamachiyninkumanjina llaqta jatun yachaywasikuna mecanismos de participación social de carácter consultivo, de coordinación y asesoramiento nisqata qhawarinqanku.
+II. Kamachiyninkumanjina llaqta jatun yachaywasikuna mecanismos de participación social de carácter consultivo, de coordinación y asesoramiento nisqata qhawarinqanku.
 
-- Llaqta  jatun  yachaywasikuna  imaynatachus  imapichus  qulqi  t'akasqankuta  Asamblea Plurinacionalman, Contraloría Generalman, Órgano Ejecutivo nisqaman ima imaynatachus qhawarichinqanku chayta qhawarinanku tiyan.
+III. Llaqta jatun yachaywasikuna imaynatachus imapichus qulqi t'akasqankuta Asamblea Plurinacionalman, Contraloría Generalman, Órgano Ejecutivo nisqaman ima imaynatachus qhawarichinqanku chayta qhawarinanku tiyan.
 
-- Estadoq chantapis naciones, pueblos, indígena originario campesinos nisqa munasqankumanjina  llaqta  jatun  yahcaywasikuna,  kamachiyninkumanjina,  programas de desconcentración académica y de interculturalidad nisqata ruwananku tiyan.
+IV. Estadoq chantapis naciones, pueblos, indígena originario campesinos nisqa munasqankumanjina llaqta jatun yahcaywasikuna, kamachiyninkumanjina, programas de desconcentración académica y de interculturalidad nisqata ruwananku tiyan.
 
-- Runaq yachaqayninta qharipa Estado, llaqta jatun yachaywasikunawan parlaspa, chaqra llaqtakunapi  jatun  yachaywasikuna,  institutos  comunitarios  pluriculturales  nisqata  ima kicharikuyninta, puririyninta qhawarinan tiyan.
+V. Runaq yachaqayninta qharipa Estado, llaqta jatun yachaywasikunawan parlaspa, chaqra llaqtakunapi jatun yachaywasikuna, institutos comunitarios pluriculturales nisqata ima kicharikuyninta, puririyninta qhawarinan tiyan.
 
 ###### Juch'uy kamachiy 94.
 
-- Qulqiwan  yachaqana  jatun  yachaywasikuna,  yachaqaypi  yachaqaynin  wakichisqan kamachiqnin  kasqanmanjina  kanan  tiyan.  Jatun  kamachiymanjina,  imaynachus  kana kasan chayta qhawarispa uk decreto nisqawan kicharikunqa.
+I. Qulqiwan yachaqana jatun yachaywasikuna, yachaqaypi yachaqaynin wakichisqan kamachiqnin kasqanmanjina kanan tiyan. Jatun kamachiymanjina, imaynachus kana kasan chayta qhawarispa uk decreto nisqawan kicharikunqa.
 
-- Qulqiwan yachaqana jatun yachay wasikuna diplomas académicos nisqata qunankupaq kamachisqa kanqa. Títulos profesionales nisqatataq Estado ukhupi mayllapipis llank'arinapaq Estado qunqa.
+II. Qulqiwan yachaqana jatun yachay wasikuna diplomas académicos nisqata qunankupaq kamachisqa kanqa. Títulos profesionales nisqatataq Estado ukhupi mayllapipis llank'arinapaq Estado qunqa.
 
-- La educación superior está conformada por las universidades, las escuelas superiores de  formación  docente,  y  los  institutos  técnicos,  tecnológicos  y  artísticos,  fiscales  y privados.
+III. La educación superior está conformada por las universidades, las escuelas superiores de formación docente, y los institutos técnicos, tecnológicos y artísticos, fiscales y privados.
+
+###### Artículo 92.
+
+I. Las universidades públicas son autónomas e iguales en jerarquía. La autonomía consiste en la libre administración de sus recursos; el nombramiento de sus autoridades, su personal docente y administrativo; la elaboración y aprobación de sus estatutos, planes de estudio y presupuestos anuales; y la aceptación de legados y donaciones, así como la celebración de contratos, para realizar sus fines y sostener y perfeccionar sus institutos y facultades. Las universidades públicas podrán negociar empréstitos con garantía de sus bienes y recursos, previa aprobación legislativa.
+
+II. Las universidades públicas constituirán, en ejercicio de su autonomía, la Universidad Boliviana, que coordinará y programará sus fines y funciones mediante un organismo central, de acuerdo con un plan de desarrollo universitario.
+
+III. Las universidades públicas estarán autorizadas para extender diplomas académicos y títulos profesionales con validez en todo el Estado.
+
+###### Artículo 93.
+
+I. Las universidades públicas serán obligatoria y suficientemente subvencionadas por el Estado, independientemente de sus recursos departamentales, municipales y propios, creados o por crearse.
+
+II. Las universidades públicas, en el marco de sus estatutos, establecerán los mecanismos de participación social de carácter consultivo, de coordinación y asesoramiento.
+
+III. Las universidades públicas establecerán mecanismos de rendición de cuentas y transparencia en el uso de sus recursos, a través de la presentación de estados financieros a la Asamblea Plurinacional Legislativa, a la Contraloría General y al Órgano Ejecutivo.
+
+IV. Las universidades públicas, en el marco de sus estatutos, establecerán programas de desconcentración académica y de interculturalidad, de acuerdo a las necesidades del Estado y de las naciones y pueblos indígena originario campesinos.
+
+V. El Estado, en coordinación con las universidades públicas, promoverá en áreas rurales la creación y el funcionamiento de universidades e institutos comunitarios pluriculturales, asegurando la participación social. La apertura y funcionamiento de dichas universidades responderá a las necesidades del fortalecimiento productivo de la región, en función de sus potencialidades.
+
+###### Artículo 94.
+
+I. Las universidades privadas se regirán por las políticas, planes, programas y autoridades del sistema educativo. Su funcionamiento será autorizado mediante decreto supremo, previa verificación del cumplimiento de las condiciones y requisitos establecidos por la ley.
+
+II. Las universidades privadas estarán autorizadas para expedir diplomas académicos. Los títulos profesionales con validez en todo el país serán otorgados por el Estado.
 
 Ministerio de la Presidencia - V.C.G.G
 
 30
-
-###### Artículo 92.
-
-- Las  universidades  públicas  son  autónomas  e  iguales  en  jerarquía.  La  autonomía consiste en la libre administración de sus recursos; el nombramiento de sus autoridades, su  personal  docente  y  administrativo;  la  elaboración  y  aprobación  de  sus  estatutos, planes de estudio y presupuestos anuales; y la aceptación de legados y donaciones, así como la celebración de contratos, para realizar sus fines y sostener y perfeccionar sus institutos y facultades. Las universidades públicas podrán negociar empréstitos con garantía de sus bienes y recursos, previa aprobación legislativa.
-
-- Las universidades públicas constituirán, en ejercicio de su autonomía, la Universidad Boliviana, que coordinará y programará sus fines y funciones mediante un organismo central, de acuerdo con un plan de desarrollo universitario.
-
-- Las universidades públicas estarán autorizadas para extender diplomas académicos y títulos profesionales con validez en todo el Estado.
-
-###### Artículo 93.
-
-- Las universidades públicas serán obligatoria y suficientemente subvencionadas por el Estado, independientemente de sus recursos departamentales, municipales y propios, creados o por crearse.
-
-- Las universidades públicas, en el marco de sus estatutos, establecerán los mecanismos de participación social de carácter consultivo, de coordinación y asesoramiento.
-
-- Las  universidades  públicas  establecerán  mecanismos  de  rendición  de  cuentas  y transparencia  en  el  uso  de  sus  recursos,  a  través  de  la  presentación  de  estados financieros a la Asamblea Plurinacional Legislativa, a la Contraloría General y al Órgano Ejecutivo.
-
-- Las universidades públicas, en el marco de sus estatutos, establecerán programas de desconcentración académica y de interculturalidad, de acuerdo a las necesidades del Estado y de las naciones y pueblos indígena originario campesinos.
-
-- El Estado, en coordinación con las universidades públicas, promoverá en áreas rurales la creación y el funcionamiento de universidades e institutos comunitarios pluriculturales, asegurando la participación social. La apertura y funcionamiento de dichas universidades responderá a las necesidades del fortalecimiento productivo de la región, en función de sus potencialidades.
-
-###### Artículo 94.
-
-- Las universidades privadas se regirán por las políticas, planes, programas y autoridades del  sistema  educativo.  Su  funcionamiento  será  autorizado  mediante  decreto  supremo, previa verificación del cumplimiento de las condiciones y requisitos establecidos por la ley.
-
-- Las universidades privadas estarán autorizadas para expedir diplomas académicos. Los títulos profesionales con validez en todo el país serán otorgados por el Estado.
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14915,69 +2085,69 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Imaynatachus  kamachiypi  rimarisan  chaymanjina  qulqiwan  yachaqana  jatun  yachay wasikunapiqa  diplomas  académicos  nisqata  urqhunapaqqa  tribunales  examinadores nisqata aqllananku tiyan; paykunaqa titulares kamachiqkuna paykunatacaqa aqllaykuytawan sutichananku tiyan. Mana Estado privadas yachaqana jatun yachaywasikunamanqa qulqita qunqachu.
+III. Imaynatachus kamachiypi rimarisan chaymanjina qulqiwan yachaqana jatun yachay wasikunapiqa diplomas académicos nisqata urqhunapaqqa tribunales examinadores nisqata aqllananku tiyan; paykunaqa titulares kamachiqkuna paykunatacaqa aqllaykuytawan sutichananku tiyan. Mana Estado privadas yachaqana jatun yachaywasikunamanqa qulqita qunqachu.
 
 ###### Juch'uy kamachiy 95.
 
-- Yachaqay  imaynachus  kasqanmanjina,  imapaqchus  kasqanmanjina,  jatun  yachay wasikunaqa centros interculturales de formación, capacitación técnica nisqata kawasakuyninchista yachaywasikuna kichanankutaq kallpachanankutaq tiyan.
+I. Yachaqay imaynachus kasqanmanjina, imapaqchus kasqanmanjina, jatun yachay wasikunaqa centros interculturales de formación, capacitación técnica nisqata kawasakuyninchista yachaywasikuna kichanankutaq kallpachanankutaq tiyan.
 
-- Jatun  yachaywasikunaqa  naciones,  pueblos  originarios  campesinospata  tukuy  laya siminkunata uqharinapaq, jallch'anapaq, ñawparichinapaq, yachachinapaq riqsichinapaq ima wakichinanku tiyan.
+II. Jatun yachaywasikunaqa naciones, pueblos originarios campesinospata tukuy laya siminkunata uqharinapaq, jallch'anapaq, ñawparichinapaq, yachachinapaq riqsichinapaq ima wakichinanku tiyan.
 
-- Iniciativas productivas comunitarias, públicas y privadas nisqawan parlaspa, jatun yachaywasikuna centros de generación de unidades productivas nisqata qhawananku tiyan.
+III. Iniciativas productivas comunitarias, públicas y privadas nisqawan parlaspa, jatun yachaywasikuna centros de generación de unidades productivas nisqata qhawananku tiyan.
 
 ###### Juch'uy kamachiy 96.
 
-- Escuelas superiores de formación nisqapi llaqta yachachiqkunaqta yachaqayninta Suyu qhawanan  tiyan.  Yachachiqkunaqta  yachaqayninqa  uklla  kanqa,  mana  qilqawanchu yachaqana kanqa, intracultural, intercultural, plurilingüe, científica, productiva nisqa ima kanqa. Sumaqmanta llaqtaman yachachinanapaqjina yachaqachinqa.
+I. Escuelas superiores de formación nisqapi llaqta yachachiqkunaqta yachaqayninta Suyu qhawanan tiyan. Yachachiqkunaqta yachaqayninqa uklla kanqa, mana qilqawanchu yachaqana kanqa, intracultural, intercultural, plurilingüe, científica, productiva nisqa ima kanqa. Sumaqmanta llaqtaman yachachinanapaqjina yachaqachinqa.
 
-- Sapakutijuch'uy  yachaywasipi  yachachiqkuna,  yachaywasipi  yachachiqkuna,  mayqin yachaqaypipis, yachaqananku tiyan.
+II. Sapakutijuch'uy yachaywasipi yachachiqkuna, yachaywasipi yachachiqkuna, mayqin yachaqaypipis, yachaqananku tiyan.
 
-- Jatun kamachiy kasqanmanjina jatun yachay wasipi yachachiqkunaqta, yachay wasipi yachachiqkunaqta llank'anankumanta mana kuyuchisqa kanqankuchu. Yachachiqkuna allinta kawsanankupaqjina qulqita jap'inqanku.
+III. Jatun kamachiy kasqanmanjina jatun yachay wasipi yachachiqkunaqta, yachay wasipi yachachiqkunaqta llank'anankumanta mana kuyuchisqa kanqankuchu. Yachachiqkuna allinta kawsanankupaqjina qulqita jap'inqanku.
 
 ###### Juch'uy kamachiy 97.
 
-Llaqta  runata  ñawparichiyta  yanapanapaq  ima  post-gradual  nisqa  yachaqayqa,  jatun yachayta  mask'aywan,  jatun  yachaykunata  riqsichiywan,  yachachiqkunata  kallpachanan tiyan. Jatun kamachiymanjina jatun yachay wasikunamanta tantasqa runa post-gradual nisqa yachaqaytaqa qhawanana tiyan.
+Llaqta runata ñawparichiyta yanapanapaq ima post-gradual nisqa yachaqayqa, jatun yachayta mask'aywan, jatun yachaykunata riqsichiywan, yachachiqkunata kallpachanan tiyan. Jatun kamachiymanjina jatun yachay wasikunamanta tantasqa runa post-gradual nisqa yachaqaytaqa qhawanana tiyan.
 
 ##### KINSA KAQ RAK'IY KAWSAYNINCHISMANTA
 
 ###### Juch'uy kamachiy 98.
 
-- Tukuy  laya  kawsayninchusmanjinapuni  Estado  Plurinacional  Comunitario  sayarisqa kasan.  Interculturalidad  nisqawan  tukuy  runa  tukuy  llaqta  sumaqta  kawsakunqanku, sumaqta  parlapanakunqanku,  sumaq  kawsaypi  kawsakunanqanku.  Interculturalidad nisqaqa laya kawsayta qhawarispa, kikillantataq kawsakunanpaq kana tiyan.
+I. Tukuy laya kawsayninchusmanjinapuni Estado Plurinacional Comunitario sayarisqa kasan. Interculturalidad nisqawan tukuy runa tukuy llaqta sumaqta kawsakunqanku, sumaqta parlapanakunqanku, sumaq kawsaypi kawsakunanqanku. Interculturalidad nisqaqa laya kawsayta qhawarispa, kikillantataq kawsakunanpaq kana tiyan.
 
-- Estadoqa indígenas originario campesinaspata kawsayninkuta yupaychanqa; kaykunaqa unay yachaqayniyuq, yachayniyuq yupaychaykiyuq, kayniyuq kasqankurayku.
+II. Estadoqa indígenas originario campesinaspata kawsayninkuta yupaychanqa; kaykunaqa unay yachaqayniyuq, yachayniyuq yupaychaykiyuq, kayniyuq kasqankurayku.
 
-- En las universidades privadas, para la obtención de los diplomas académicos en todas las modalidades de titulación, se conformarán tribunales examinadores, que estarán integrados por  docentes  titulares,  nombrados  por  las  universidades  públicas,  en  las  condiciones establecidas por la ley. El Estado no subvencionará a las universidades privadas.
-
-31
+III. En las universidades privadas, para la obtención de los diplomas académicos en todas las modalidades de titulación, se conformarán tribunales examinadores, que estarán integrados por docentes titulares, nombrados por las universidades públicas, en las condiciones establecidas por la ley. El Estado no subvencionará a las universidades privadas.
 
 ###### Artículo 95.
 
-- Las  universidades  deberán  crear  y  sostener  centros  interculturales  de  formación y  capacitación  técnica  y  cultural,  de  acceso  libre  al  pueblo,  en  concordancia  con  los principios y fines del sistema educativo.
+I. Las universidades deberán crear y sostener centros interculturales de formación y capacitación técnica y cultural, de acceso libre al pueblo, en concordancia con los principios y fines del sistema educativo.
 
-- Las universidades deberán implementar programas para la recuperación, preservación, desarrollo, aprendizaje y divulgación de las diferentes lenguas de las naciones y pueblos indígena originario campesinos.
+II. Las universidades deberán implementar programas para la recuperación, preservación, desarrollo, aprendizaje y divulgación de las diferentes lenguas de las naciones y pueblos indígena originario campesinos.
 
-- Las  universidades  promoverán  centros  de  generación  de  unidades  productivas,  en coordinación con las iniciativas productivas comunitarias, públicas y privadas.
+III. Las universidades promoverán centros de generación de unidades productivas, en coordinación con las iniciativas productivas comunitarias, públicas y privadas.
 
 ###### Artículo 96.
 
-- Es  responsabilidad del Estado la formación y capacitación docente para el magisterio público, a través de escuelas superiores de formación. La formación de docentes será única, fiscal, gratuita, intracultural, intercultural, plurilingüe, científica y productiva, y se desarrollará con compromiso social y vocación de servicio.
+I. Es responsabilidad del Estado la formación y capacitación docente para el magisterio público, a través de escuelas superiores de formación. La formación de docentes será única, fiscal, gratuita, intracultural, intercultural, plurilingüe, científica y productiva, y se desarrollará con compromiso social y vocación de servicio.
 
-- Los  docentes  del  magisterio  deberán  participar  en  procesos  de  actualización  y capacitación pedagógica continua.
+II. Los docentes del magisterio deberán participar en procesos de actualización y capacitación pedagógica continua.
 
-- Se garantiza la carrera docente y la inamovilidad del personal docente del magisterio, conforme con la ley. Los docentes gozarán de un salario digno.
+III. Se garantiza la carrera docente y la inamovilidad del personal docente del magisterio, conforme con la ley. Los docentes gozarán de un salario digno.
 
 ###### Artículo 97.
 
-La  formación  post-gradual  en  sus  diferentes  niveles  tendrá  como  misión  fundamental  la cualificación  de  profesionales  en  diferentes  áreas,  a  través  de  procesos  de  investigación científica  y  generación  de  conocimientos  vinculados  con  la  realidad,  para  coadyuvar  con el  desarrollo  integral  de  la  sociedad.  La  formación  post-gradual  será  coordinada  por  una instancia conformada por las universidades del sistema educativo, de acuerdo con la ley.
+La formación post-gradual en sus diferentes niveles tendrá como misión fundamental la cualificación de profesionales en diferentes áreas, a través de procesos de investigación científica y generación de conocimientos vinculados con la realidad, para coadyuvar con el desarrollo integral de la sociedad. La formación post-gradual será coordinada por una instancia conformada por las universidades del sistema educativo, de acuerdo con la ley.
 
 ##### SECCIÓN III CULTURAS
 
 ###### Artículo 98.
 
-- I . La diversidad cultural constituye la base esencial del Estado Plurinacional Comunitario. La  interculturalidad  es  el  instrumento  para  la  cohesión  y  la  convivencia  armónica  y equilibrada  entre  todos  los  pueblos  y  naciones.  La  interculturalidad  tendrá  lugar  con respeto a las diferencias y en igualdad de condiciones.
+I. La diversidad cultural constituye la base esencial del Estado Plurinacional Comunitario. La interculturalidad es el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y naciones. La interculturalidad tendrá lugar con respeto a las diferencias y en igualdad de condiciones.
 
-- El Estado  asumirá  como  fortaleza  la  existencia de  culturas indígena  originario campesinas,  depositarias de saberes, conocimientos, valores, espiritualidades y cosmovisiones.
+II. El Estado asumirá como fortaleza la existencia de culturas indígena originario campesinas, depositarias de saberes, conocimientos, valores, espiritualidades y cosmovisiones.
 
 Ministerio de la Presidencia - V.C.G.G
+
+31
 
 Fundación Konrad Adenauer (KAS)
 
@@ -14989,21 +2159,21 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Estadopuni tukuy laya kawsayninchista kallpachananpaq, ñawparichinanpaq, kawsayninchis mana chinkananpaq, suyunchispi riqsichinanpaq ima chaykunata qhawanan tiyan.
+III. Estadopuni tukuy laya kawsayninchista kallpachananpaq, ñawparichinanpaq, kawsayninchis mana chinkananpaq, suyunchispi riqsichinanpaq ima chaykunata qhawanan tiyan.
 
 ###### Juch'uy kamachiy 99.
 
-- Bolivia  suyuq  patrimonio  cultural  nisqa  mana  pipis  jap'ikapunmanchu;  nitaq  pipis qhinchuchinmanchu.  Allin  kananpaq,  qhawachinanpaq,  jatun  kamachiymanjina  qulqi qusqantaqa qhawakunan tiyan.
+I. Bolivia suyuq patrimonio cultural nisqa mana pipis jap'ikapunmanchu; nitaq pipis qhinchuchinmanchu. Allin kananpaq, qhawachinanpaq, jatun kamachiymanjina qulqi qusqantaqa qhawakunan tiyan.
 
-- Jatun kamachiymanjina Estado patrimonio culturalninta qilqaykunan, jark'anan, yapaykunan, imaynachus kasqanta qhawanan, kallpachanan; qhawarichinan, riqsichinan tiyan.
+II. Jatun kamachiymanjina Estado patrimonio culturalninta qilqaykunan, jark'anan, yapaykunan, imaynachus kasqanta qhawanan, kallpachanan; qhawarichinan, riqsichinan tiyan.
 
-- Jatun kamachiymanjina riqueza natural, arqueológica, paleontológica, histórica, documental, religioso, folklore ima Bolivia suyuq runqpata kapuynin.
+III. Jatun kamachiymanjina riqueza natural, arqueológica, paleontológica, histórica, documental, religioso, folklore ima Bolivia suyuq runqpata kapuynin.
 
 ###### Juch'uy kamachiy 100.
 
-- Kawsakuynin, yupaychakuynin, willaykunan, tusuynin, kawsakusqanmanjina ruwakusqasnin,  yachaynin,  tecnologías  tradicionales  nisqa  ima  naciones,  pueblos originarios campesinospata patromonion. Kay patrimonio nisqaqa Estadoq kaynin kasan.
+I. Kawsakuynin, yupaychakuynin, willaykunan, tusuynin, kawsakusqanmanjina ruwakusqasnin, yachaynin, tecnologías tradicionales nisqa ima naciones, pueblos originarios campesinospata patromonion. Kay patrimonio nisqaqa Estadoq kaynin kasan.
 
-- Mana  pipis  naciones,  pueblos  indígena  originario  campesinospata,  comunidades interculturalespata, afrobolivinoqpatawan, derechos intangiblesninta qhichunanpaq propiedad intelectual nisqatajina qilqaykuspa Estado kawsakuyninta, yachayninta jark'anqa.
+II. Mana pipis naciones, pueblos indígena originario campesinospata, comunidades interculturalespata, afrobolivinoqpatawan, derechos intangiblesninta qhichunanpaq propiedad intelectual nisqatajina qilqaykuspa Estado kawsakuyninta, yachayninta jark'anqa.
 
 ###### Juch'uy kamachiy 101.
 
@@ -15017,33 +2187,29 @@ Jatun kamachiy kasqanmanjina Estado tukuy runaqta, sapa runaqta autuchakusqa run
 
 ###### Juch'uy kamachiy 103.
 
-- Estado tukuypaq cienciaqta, jatun yachaqana mask'aypaqta, técnicaqta, tecnológicaqta thaskiyninta ñawparichinan tiyan. Chaypaqqa qulqita qunan tiyan, chaymantapis sistema estatal de ciencia y tecnología nisqa kicharikunqa.
+I. Estado tukuypaq cienciaqta, jatun yachaqana mask'aypaqta, técnicaqta, tecnológicaqta thaskiyninta ñawparichinan tiyan. Chaypaqqa qulqita qunan tiyan, chaymantapis sistema estatal de ciencia y tecnología nisqa kicharikunqa.
 
-- Estadoqa imaynatachus imawanchis astawan sumaq yachaqay kananpaq qhawarinan tiyan.
+II. Estadoqa imaynatachus imawanchis astawan sumaq yachaqay kananpaq qhawarinan tiyan.
 
-- Será responsabilidad fundamental del Estado preservar, desarrollar, proteger y difundir las culturas existentes en el país.
-
-Ministerio de la Presidencia - V.C.G.G
-
-32
+III. Será responsabilidad fundamental del Estado preservar, desarrollar, proteger y difundir las culturas existentes en el país.
 
 ###### Artículo 99.
 
-- El patrimonio cultural del pueblo boliviano es inalienable, inembargable e imprescriptible. Los recursos económicos  que  generen  se  regularán por la ley, para atender prioritariamente a su conservación, preservación y promoción.
+I. El patrimonio cultural del pueblo boliviano es inalienable, inembargable e imprescriptible. Los recursos económicos que generen se regularán por la ley, para atender prioritariamente a su conservación, preservación y promoción.
 
-- El Estado garantizará el registro, protección, restauración, recuperación, revitalización, enriquecimiento, promoción y difusión de su patrimonio cultural, de acuerdo con la ley.
+II. El Estado garantizará el registro, protección, restauración, recuperación, revitalización, enriquecimiento, promoción y difusión de su patrimonio cultural, de acuerdo con la ley.
 
-- La riqueza natural, arqueológica, paleontológica, histórica, documental, y la procedente del culto religioso y del folklore, es patrimonio cultural del pueblo boliviano, de acuerdo con la ley.
+III. La riqueza natural, arqueológica, paleontológica, histórica, documental, y la procedente del culto religioso y del folklore, es patrimonio cultural del pueblo boliviano, de acuerdo con la ley.
 
 ###### Artículo 100.
 
-- Es patrimonio de las naciones y pueblos indígena originario campesinos las cosmovisiones,  los  mitos,  la  historia  oral,  las  danzas,  las  prácticas  culturales,  los conocimientos  y  las  tecnologías  tradicionales.  Este  patrimonio  forma  parte  de  la expresión e identidad del Estado.
+I. Es patrimonio de las naciones y pueblos indígena originario campesinos las cosmovisiones, los mitos, la historia oral, las danzas, las prácticas culturales, los conocimientos y las tecnologías tradicionales. Este patrimonio forma parte de la expresión e identidad del Estado.
 
-- El Estado protegerá los saberes y los conocimientos mediante el registro de la propiedad intelectual que salvaguarde los derechos intangibles de las naciones y pueblos indígena originario campesinas y las comunidades interculturales y afrobolivianas.
+II. El Estado protegerá los saberes y los conocimientos mediante el registro de la propiedad intelectual que salvaguarde los derechos intangibles de las naciones y pueblos indígena originario campesinas y las comunidades interculturales y afrobolivianas.
 
 ###### Artículo 101.
 
-Las  manifestaciones  del  arte  y  las  industrias  populares,  en  su  componente  intangible, gozarán de especial protección del Estado. Asimismo, disfrutarán de esta protección los sitios y actividades declarados patrimonio cultural de la humanidad, en su componente tangible e intangible.
+Las manifestaciones del arte y las industrias populares, en su componente intangible, gozarán de especial protección del Estado. Asimismo, disfrutarán de esta protección los sitios y actividades declarados patrimonio cultural de la humanidad, en su componente tangible e intangible.
 
 ###### Artículo 102.
 
@@ -15053,9 +2219,13 @@ El Estado registrará y protegerá la propiedad intelectual, individual y colect
 
 ###### Artículo 103.
 
-- El Estado garantizará el desarrollo de la ciencia y la investigación científica, técnica y tecnológica en beneficio del interés general. Se destinarán los recursos necesarios y se creará el sistema estatal de ciencia y tecnología.
+I. El Estado garantizará el desarrollo de la ciencia y la investigación científica, técnica y tecnológica en beneficio del interés general. Se destinarán los recursos necesarios y se creará el sistema estatal de ciencia y tecnología.
 
-- El  Estado  asumirá  como  política  la  implementación  de  estrategias  para  incorporar  el conocimiento y aplicación de nuevas tecnologías de información y comunicación.
+II. El Estado asumirá como política la implementación de estrategias para incorporar el conocimiento y aplicación de nuevas tecnologías de información y comunicación.
+
+Ministerio de la Presidencia - V.C.G.G
+
+32
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15067,75 +2237,77 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Kamachiymanjina, base productiva nisqata kallpachanapaq, llaqta runakunapis ñawpaqman thaskirinankupaq ima Estado, jatun yachaywasikuna, empresas productivas y de servicio públicas, privadas nisqa, naciones, pueblos indígena originario campesinos nisqa  ima  mask'anata,  musuq  yachayta,  riqsichiyta,  qhawarichiyta  transferencia  de ciencia, tecnología nisqta ima ruwananku tiyan, parlarinanku tiyan.
+III. Kamachiymanjina, base productiva nisqata kallpachanapaq, llaqta runakunapis ñawpaqman thaskirinankupaq ima Estado, jatun yachaywasikuna, empresas productivas y de servicio públicas, privadas nisqa, naciones, pueblos indígena originario campesinos nisqa ima mask'anata, musuq yachayta, riqsichiyta, qhawarichiyta transferencia de ciencia, tecnología nisqta ima ruwananku tiyan, parlarinanku tiyan.
 
 ##### PHISQA KAQ RAK'IY PHUKLLAYMANTAWAN SAMAYPI PHUKLLARIKUNAMANTAWAN
 
 ###### Juch'uy kamachiy 104.
 
-Sapa runa phukllana, cultura física nisqa, recreación nisqa atiyniyuq. Qharichus warmichus kasqanta  ima  simitachus  parlakun,  ima  apuyuqchus,  ima  kawsayniyuqchus,  maypichus tiyakun, ima kawsayninyuqchus, imaynachus, chaykunaqa mana qhawarispa Estado tukuy laya runa tukuy phukllayniyuq kanankupaq qhawarinan tiyan.
+Sapa runa phukllana, cultura física nisqa, recreación nisqa atiyniyuq. Qharichus warmichus kasqanta ima simitachus parlakun, ima apuyuqchus, ima kawsayniyuqchus, maypichus tiyakun, ima kawsayninyuqchus, imaynachus, chaykunaqa mana qhawarispa Estado tukuy laya runa tukuy phukllayniyuq kanankupaq qhawarinan tiyan.
 
 ###### Juch'uy kamachiy 105.
 
-Mana  imata  runa  ruwayta  atiqkunata  qhawarispapuni,  políticas  de  educación,  recreación salid pública nisqawan, mayqin yachaqaypichus cultura física y práctica deportiva nisqata ima yachachikusan chaykunata Estado qhawarinan tiyan. Chaypaqqa Estado qulqita qunan tiyan.
+Mana imata runa ruwayta atiqkunata qhawarispapuni, políticas de educación, recreación salid pública nisqawan, mayqin yachaqaypichus cultura física y práctica deportiva nisqata ima yachachikusan chaykunata Estado qhawarinan tiyan. Chaypaqqa Estado qulqita qunan tiyan.
 
 #### QANCHIS KAQ JUCH'UY PHATMA RUNAMAN WILLANAKUNAMANTA
 
 ###### Juch'uy kamachiy 106.
 
-- Runaman  willaykunata  chayachinankuta,  ima  willaytapis  willarinankupaq  atiyniyuq kasqankuta Estado qhawarinan tiyan.
+I. Runaman willaykunata chayachinankuta, ima willaytapis willarinankupaq atiyniyuq kasqankuta Estado qhawarinan tiyan.
 
-- Willanapi warmi qhari llank'aqkunata, parlariyninta, willariyniyuq atiyninta, willaykunanta, chiqanchayninta, kutichiyninta Estado chaykunata qhawanan tiyan; ama rimachikuspa, ima willanallapipis llank'aqkuna yuyaychakusqantapis rimariyta atin.
+II. Willanapi warmi qhari llank'aqkunata, parlariyninta, willariyniyuq atiyninta, willaykunanta, chiqanchayninta, kutichiyninta Estado chaykunata qhawanan tiyan; ama rimachikuspa, ima willanallapipis llank'aqkuna yuyaychakusqantapis rimariyta atin.
 
-- Estado willaykunapi warmi, qhari llank'aqkunata rimariyninta, willariyninta qhawanan tiyan. IV.	 Imachus willaqkunaqpata sunqunku ukhupi kasan chayta qhanan tiyan.
+III. Estado willaykunapi warmi, qhari llank'aqkunata rimariyninta, willariyninta qhawanan tiyan.
+
+IV. Imachus willaqkunaqpata sunqunku ukhupi kasan chayta qhanan tiyan.
 
 ###### Juch'uy kamachiy 107.
 
-- Plurilingüe  nisqa  yachaqaykuna  wakichisqata  qhawachispa,  mana  imatapis  ruwayta atiqkunaqpata  siminpi  willanakuna  llaqtanchispata  tukuy  laya  kawsayninchiskunaq valores éticos, morales, cívicos nisqata kallpachananku tiyan.
+I. Plurilingüe nisqa yachaqaykuna wakichisqata qhawachispa, mana imatapis ruwayta atiqkunaqpata siminpi willanakuna llaqtanchispata tukuy laya kawsayninchiskunaq valores éticos, morales, cívicos nisqata kallpachananku tiyan.
 
-- Mayqin willanakunallapipis willaykunata yuyaychakusqanta ima rimarisqan, imaynachus kanan kasan chayta qhawarinan tiyan. Kaykunaqa tantasqa willaqkunaqta, willanakunaqta  ética  kamachiyninkumanjina  autorregulación  hamachiyninkumanjina, jatun kamachiymanjina ima kanan tiyan.
+II. Mayqin willanakunallapipis willaykunata yuyaychakusqanta ima rimarisqan, imaynachus kanan kasan chayta qhawarinan tiyan. Kaykunaqa tantasqa willaqkunaqta, willanakunaqta ética kamachiyninkumanjina autorregulación hamachiyninkumanjina, jatun kamachiymanjina ima kanan tiyan.
 
-- Laya willakunaqa mana monopolios nisqata oligopolios nisqata ruwankumanchu.
+III. Laya willakunaqa mana monopolios nisqata oligopolios nisqata ruwankumanchu.
 
-- Estado  imaynachus  wakin  willanakakuna  kasan  chaymanjina  kikillantaq  kananpaq chaqra llaqta willanakuna kicharikunanpaq yanapanaq.
+IV. Estado imaynachus wakin willanakakuna kasan chaymanjina kikillantaq kananpaq chaqra llaqta willanakuna kicharikunanpaq yanapanaq.
 
-- El Estado, las universidades, las empresas productivas y de servicio públicas y privadas, y las naciones y pueblos indígena originario campesinos, desarrollarán y coordinarán procesos de investigación, innovación, promoción, divulgación, aplicación y transferencia de ciencia y tecnología para fortalecer la base productiva e impulsar el desarrollo integral de la sociedad, de acuerdo con la ley.
-
-Ministerio de la Presidencia - V.C.G.G
-
-33
+III. El Estado, las universidades, las empresas productivas y de servicio públicas y privadas, y las naciones y pueblos indígena originario campesinos, desarrollarán y coordinarán procesos de investigación, innovación, promoción, divulgación, aplicación y transferencia de ciencia y tecnología para fortalecer la base productiva e impulsar el desarrollo integral de la sociedad, de acuerdo con la ley.
 
 ##### SECCIÓN V DEPORTE Y RECREACIÓN
 
 ###### Artículo 104.
 
-Toda  persona  tiene  derecho  al  deporte,  a  la  cultura  física  y  a  la  recreación.  El  Estado garantiza el acceso al deporte sin distinción de género, idioma, religión, orientación política, ubicación territorial, pertenencia social, cultural o de cualquier otra índole.
+Toda persona tiene derecho al deporte, a la cultura física y a la recreación. El Estado garantiza el acceso al deporte sin distinción de género, idioma, religión, orientación política, ubicación territorial, pertenencia social, cultural o de cualquier otra índole.
 
 ###### Artículo 105.
 
-El  Estado  promoverá,  mediante  políticas  de  educación,  recreación  y  salud  pública,  el desarrollo de la cultura física y de la práctica deportiva en sus niveles preventivo, recreativo, formativo y competitivo, con especial atención a las personas con discapacidad. El Estado garantizará los medios y los recursos económicos necesarios para su efectividad.
+El Estado promoverá, mediante políticas de educación, recreación y salud pública, el desarrollo de la cultura física y de la práctica deportiva en sus niveles preventivo, recreativo, formativo y competitivo, con especial atención a las personas con discapacidad. El Estado garantizará los medios y los recursos económicos necesarios para su efectividad.
 
 #### CAPÍTULO SÉPTIMO COMUNICACIÓN SOCIAL
 
 ###### Artículo 106.
 
-- El Estado garantiza el derecho a la comunicación y el derecho a la información.
+I. El Estado garantiza el derecho a la comunicación y el derecho a la información.
 
-- El Estado garantiza a las bolivianas y los bolivianos el derecho a la libertad de expresión, de  opinión  y  de  información,  a  la  rectificación  y  a  la  réplica,  y  el  derecho  a  emitir libremente las ideas por cualquier medio de difusión, sin censura previa.
+II. El Estado garantiza a las bolivianas y los bolivianos el derecho a la libertad de expresión, de opinión y de información, a la rectificación y a la réplica, y el derecho a emitir libremente las ideas por cualquier medio de difusión, sin censura previa.
 
-- El  Estado  garantiza a las trabajadoras y los trabajadores de la prensa, la libertad de expresión, el derecho a la comunicación y a la información.
+III. El Estado garantiza a las trabajadoras y los trabajadores de la prensa, la libertad de expresión, el derecho a la comunicación y a la información.
 
-- Se reconoce la cláusula de conciencia de los trabajadores de la información.
+IV. Se reconoce la cláusula de conciencia de los trabajadores de la información.
 
 ###### Artículo 107.
 
-- Los medios de comunicación social deberán contribuir a la promoción de los valores éticos, morales y cívicos de las diferentes culturas del país, con la producción y difusión de programas educativos plurilingües y en lenguaje alternativo para discapacitados.
+I. Los medios de comunicación social deberán contribuir a la promoción de los valores éticos, morales y cívicos de las diferentes culturas del país, con la producción y difusión de programas educativos plurilingües y en lenguaje alternativo para discapacitados.
 
-- La información y las opiniones emitidas a través de los medios de comunicación social deben  respetar  los  principios  de  veracidad  y  responsabilidad.  Estos  principios  se ejercerán mediante las normas de ética y de autorregulación de las organizaciones de periodistas y medios de comunicación y su ley.
+II. La información y las opiniones emitidas a través de los medios de comunicación social deben respetar los principios de veracidad y responsabilidad. Estos principios se ejercerán mediante las normas de ética y de autorregulación de las organizaciones de periodistas y medios de comunicación y su ley.
 
-- Los medios de comunicación social no podrán conformar, de manera directa o indirecta, monopolios u oligopolios.
+III. Los medios de comunicación social no podrán conformar, de manera directa o indirecta, monopolios u oligopolios.
 
-- El Estado apoyará la creación de medios de comunicación comunitarios en igualdad de condiciones y oportunidades
+IV. El Estado apoyará la creación de medios de comunicación comunitarios en igualdad de condiciones y oportunidades
+
+Ministerio de la Presidencia - V.C.G.G
+
+33
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15147,60 +2319,57 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
+### KINSA KAQ PHATMA RUWAYKUNAMANTA
+
 ###### Juch'uy kamachiy 108.
 
 Bolivianaspaqta, bolivianospaqta ruwayninku kaykuna kasan.
 
-- Constitución nisqata jatun kamachiykunata ima riqsinanku, ruwananku, ruwachinanku tiyan.
+1. Constitución nisqata jatun kamachiykunata ima riqsinanku, ruwananku, ruwachinanku tiyan.
 
-- Constitución nisqapi derechos nisqa kasan chayta, riqsinanku, uyarinanku, qhawachinanku ima tiyan.
+2. Constitución nisqapi derechos nisqa kasan chayta, riqsinanku, uyarinanku, qhawachinanku ima tiyan.
 
-- Constitución nisqanmanjina valores nisqa principios nisqa amañaykunata kallpachananku, riqsichinanku tiyan.
+3. Constitución nisqanmanjina valores nisqa principios nisqa amañaykunata kallpachananku, riqsichinanku tiyan.
 
-- Mana maqanakuy kananpaq, mana ch'aqway kananpag sumaq kawsayta qhawananku tiyan, kallpachananku tiyan chantapis riqsichinanku tiyan.
+4. Mana maqanakuy kananpaq, mana ch'aqway kananpag sumaq kawsayta qhawananku tiyan, kallpachananku tiyan chantapis riqsichinanku tiyan.
 
-- Atisqankumanjina chiqan llank'anapi runata yanapaspa llank'anapi llank'ananku tiyan.
+5. Atisqankumanjina chiqan llank'anapi runata yanapaspa llank'anapi llank'ananku tiyan.
 
-- Bachiller nisqa lluqsinankukama yachaqan wasipi yachaqananku tiyan.
+6. Bachiller nisqa lluqsinankukama yachaqan wasipi yachaqananku tiyan.
 
-- Jatun kamachiymanjina, imachus kapusqanmanjina tasananku tiyan.
+7. Jatun kamachiymanjina, imachus kapusqanmanjina tasananku tiyan.
 
-- Mana chiqanta ruwakusqanta chayta willaykunanku, ch'ataykunanku tiyan.
+8. Mana chiqanta ruwakusqanta chayta willaykunanku, ch'ataykunanku tiyan.
 
-- Warmi wawankuta qhari wawankhuta uywananku, mikhuchinanki, yachaqachinanku tiyan.
+9. Warmi wawankuta qhari wawankhuta uywananku, mikhuchinanki, yachaqachinanku tiyan.
 
-- Ima accidentes nisqatapis qhawananaku, yanapananku tiyan.
+10. Ima accidentes nisqatapis qhawananaku, yanapananku tiyan.
 
-- Ima llaqta phutiykunatapis ima yanapayllawanpis yanapananku tiyan.
+11. Ima llaqta phutiykunatapis ima yanapayllawanpis yanapananku tiyan.
 
-- Qhari wawa servicio militar nisqata ruwanan tiyan.
+12. Qhari wawa servicio militar nisqata ruwanan tiyan.
 
-- Estadoqa Bolivia suyu uklla kananta, yupaychakuyniyuq kananta, jall'ayuq kananta ima qhawanan tiyan, chantapis simbolosnintawan valoresnintawan yupaycharan tiyan.
+13. Estadoqa Bolivia suyu uklla kananta, yupaychakuyniyuq kananta, jall'ayuq kananta ima qhawanan tiyan, chantapis simbolosnintawan valoresnintawan yupaycharan tiyan.
 
-- Bolivia  suyunchispata patrimonio natural, económico, cultural nisqanta qhawananku, jarqananku tiyan.
+14. Bolivia suyunchispata patrimonio natural, económico, cultural nisqanta qhawananku, jarqananku tiyan.
 
-- Bolivia suyuqpata imachus kapusqanta qhawananku, jark'ananku tiyan. Qhipaman jamuqkunaqta llank'ayninkuta kawsayninkuta qhawarispa, sumaqta llank'akunanpaq kallpachanku tiyan.
+15. Bolivia suyuqpata imachus kapusqanta qhawananku, jark'ananku tiyan. Qhipaman jamuqkunaqta llank'ayninkuta kawsayninkuta qhawarispa, sumaqta llank'akunanpaq kallpachanku tiyan.
 
-- Kay  pachapi  sumaqta  kawsakunapaq  medio  ambiente  nisqata  qhawananku, imallamantapis jark'arinanku tiyan.
+16. Kay pachapi sumaqta kawsakunapaq medio ambiente nisqata qhawananku, imallamantapis jark'arinanku tiyan.
 
 ### TAWA KAQ PHATMA GARANTÍAS JURIDICCIONALESMANTAWAN, JARK'AYKUNAMANTAWAN,
+
 #### UK KAQ JUCH'UY PHATMA GARANTÍAS JURIDICCIONALESMANTA
 
 ###### Juch'uy kamachiy 109.
 
-- Constitución  nisqapi  tukuy  derechos  nisqa  riqsichisqa  kasan  chaykunata  qhawarispa imallatapis ruwana tiyan; jinallataq jark'asqa kasan.
+I. Constitución nisqapi tukuy derechos nisqa riqsichisqa kasan chaykunata qhawarispa imallatapis ruwana tiyan; jinallataq jark'asqa kasan.
 
-- Jatun kamachiywan, derechos nisqa, garantías nisqa ima kamachisqa kanqa.
+II. Jatun kamachiywan, derechos nisqa, garantías nisqa ima kamachisqa kanqa.
 
 ###### Juch'uy kamachiy 110.
 
-- Pikunachus  mana  derechos  constitucionales  nisqamanjina,  imallatapis,  ruwaqtinkuqa maymanchus apachikunanku kasan chayman Bolivia suyu kamachiqkunaman apachikunqanku.
-
-Ministerio de la Presidencia - V.C.G.G
-
-### KINSA KAQ PHATMA RUWAYKUNAMANTA
-
-34
+I. Pikunachus mana derechos constitucionales nisqamanjina, imallatapis, ruwaqtinkuqa maymanchus apachikunanku kasan chayman Bolivia suyu kamachiqkunaman apachikunqanku.
 
 ### TÍTULO III DEBERES
 
@@ -15208,37 +2377,37 @@ Ministerio de la Presidencia - V.C.G.G
 
 Son deberes de las bolivianas y los bolivianos:
 
-- Conocer, cumplir y hacer cumplir la Constitución y las leyes
+1. Conocer, cumplir y hacer cumplir la Constitución y las leyes
 
-- Conocer, respetar y promover los derechos reconocidos en la Constitución.
+2. Conocer, respetar y promover los derechos reconocidos en la Constitución.
 
-- Promover  y  difundir  la  práctica  de  los  valores  y  principios  que  proclama  la Constitución.
+3. Promover y difundir la práctica de los valores y principios que proclama la Constitución.
 
-- Defender, promover y contribuir al derecho a la paz y fomentar la cultura de paz.
+4. Defender, promover y contribuir al derecho a la paz y fomentar la cultura de paz.
 
-- Trabajar, según su capacidad física e intelectual, en actividades lícitas y socialmente útiles.
+5. Trabajar, según su capacidad física e intelectual, en actividades lícitas y socialmente útiles.
 
-- Formarse en el sistema educativo hasta el bachillerato.
+6. Formarse en el sistema educativo hasta el bachillerato.
 
-- Tributar en proporción a su capacidad económica, conforme con la ley.
+7. Tributar en proporción a su capacidad económica, conforme con la ley.
 
-- Denunciar y combatir todos los actos de corrupción.
+8. Denunciar y combatir todos los actos de corrupción.
 
-- Asistir, alimentar y educar a las hijas e hijos.
+9. Asistir, alimentar y educar a las hijas e hijos.
 
-- Asistir, proteger y socorrer a sus ascendientes.
+10. Asistir, proteger y socorrer a sus ascendientes.
 
-- Socorrer  con  todo  el  apoyo  necesario,  en  casos  de  desastres  naturales  y  otras contingencias.
+11. Socorrer con todo el apoyo necesario, en casos de desastres naturales y otras contingencias.
 
-- Prestar el servicio militar, obligatorio para los varones.
+12. Prestar el servicio militar, obligatorio para los varones.
 
-- Defender la unidad, la soberanía y la integridad territorial de Bolivia, y respetar sus símbolos y valores.
+13. Defender la unidad, la soberanía y la integridad territorial de Bolivia, y respetar sus símbolos y valores.
 
-- Resguardar,  defender  y  proteger  el  patrimonio  natural,  económico  y  cultural  de Bolivia.
+14. Resguardar, defender y proteger el patrimonio natural, económico y cultural de Bolivia.
 
-- Proteger y defender los recursos naturales y contribuir a su uso sustentable, para preservar los derechos de las futuras generaciones.
+15. Proteger y defender los recursos naturales y contribuir a su uso sustentable, para preservar los derechos de las futuras generaciones.
 
-- Proteger y defender un medio ambiente adecuado para el desarrollo de los seres vivos.
+16. Proteger y defender un medio ambiente adecuado para el desarrollo de los seres vivos.
 
 ### TÍTULO IV GARANTÍAS JURISDICCIONALES Y ACCIONES DE DEFENSA
 
@@ -15246,13 +2415,17 @@ Son deberes de las bolivianas y los bolivianos:
 
 ###### Artículo 109.
 
-- Todos los derechos reconocidos en la Constitución son directamente aplicables y gozan de iguales garantías para su protección.
+I. Todos los derechos reconocidos en la Constitución son directamente aplicables y gozan de iguales garantías para su protección.
 
-- Los derechos y sus garantías sólo podrán ser regulados por la ley.
+II. Los derechos y sus garantías sólo podrán ser regulados por la ley.
 
 ###### Artículo 110.
 
-- Las personas que vulneren derechos constitucionales quedan sujetas a la jurisdicción y competencia de las autoridades bolivianas.
+I. Las personas que vulneren derechos constitucionales quedan sujetas a la jurisdicción y competencia de las autoridades bolivianas.
+
+Ministerio de la Presidencia - V.C.G.G
+
+34
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15264,51 +2437,49 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Pikunachus  mana  derechos  constitucionales  nisqamanjina  imallatapis  ruwaqtinkuqa juchayuq.
+II. Pikunachus mana derechos constitucionales nisqamanjina imallatapis ruwaqtinkuqa juchayuq.
 
-- Mana piq kamachisqanta qhaqarisqa, pichus pillatapis maqanayan manaqa imallatapis runata ruwayta munaqtinqa juchayuqpuni kanku.
+III. Mana piq kamachisqanta qhaqarisqa, pichus pillatapis maqanayan manaqa imallatapis runata ruwayta munaqtinqa juchayuqpuni kanku.
 
 ###### Juch'uy kamachiy 111.
 
-Llaqta  runa  wanchiyta,  tuyrayta,  suyunchista  traicionayta,  jatun  maqanakuy  ima  mana ruwachinachi kasan.
+Llaqta runa wanchiyta, tuyrayta, suyunchista traicionayta, jatun maqanakuy ima mana ruwachinachi kasan.
 
 ###### Juch'uy kamachiy 112.
 
-Estadoq  patrimonio  nisqanmanta,  llaqtapaq  llank'akuna  juchachakusqankumanta  ni  pipis jark'akunqachu jinallatataq, mana inmunidad nisqayuq kanqa.
+Estadoq patrimonio nisqanmanta, llaqtapaq llank'akuna juchachakusqankumanta ni pipis jark'akunqachu jinallatataq, mana inmunidad nisqayuq kanqa.
 
 ###### Juch'uy kamachiy 113.
 
-- Pikunachus derechos nisqata mana uyaritinqa, qulqita qupunan tiyan, imapichus qulqita t'akachin chaymanjina qulqita qupunallantaq tiyan.
+I. Pikunachus derechos nisqata mana uyaritinqa, qulqita qupunan tiyan, imapichus qulqita t'akachin chaymanjina qulqita qupunallantaq tiyan.
 
-- Mayk'aqchus  kamachiq  Estadoq  patrimonionta  mana  allintachu  sumaqyachin  chayqa pay juchayuq kanqa, chantapis watiqmanta ruwananta ruwachinan tiyan.
+II. Mayk'aqchus kamachiq Estadoq patrimonionta mana allintachu sumaqyachin chayqa pay juchayuq kanqa, chantapis watiqmanta ruwananta ruwachinan tiyan.
 
 ###### Juch'uy kamachiy 114.
 
-- Ama  ñak'arichiy,  runata  chinkarichiy,  waq  llaqtaman  pusachiy,  runata  imallatapis mana  munaqta  ima  ama  kananku  tiyan.  Jatun  kamachiypi  sanciones  nisqa  kasan chaykunata  mana  qhipaman  churaspa  llaqtapaq  llank'aqkuna,  llaqta  kamachiqkuna tukuy  ima  ñawpaq  nisqanchisa  nuwaqtinkuqa  llank'anankumanta  juchankurayku chuqachikunqanku.
+I. Ama ñak'arichiy, runata chinkarichiy, waq llaqtaman pusachiy, runata imallatapis mana munaqta ima ama kananku tiyan. Jatun kamachiypi sanciones nisqa kasan chaykunata mana qhipaman churaspa llaqtapaq llank'aqkuna, llaqta kamachiqkuna tukuy ima ñawpaq nisqanchisa nuwaqtinkuqa llank'anankumanta juchankurayku chuqachikunqanku.
 
-- Maqaspa,  qulqita  quspa  manaqa  maqachispa,  rimarichiqtinqa,  mana  tukuy  imata rimarichiqtinqa, chaykunataqa mana qhawarinachu tiyan.
+II. Maqaspa, qulqita quspa manaqa maqachispa, rimarichiqtinqa, mana tukuy imata rimarichiqtinqa, chaykunataqa mana qhawarinachu tiyan.
 
 ###### Juch'uy kamachiy 115.
 
-- Derechosninkumanjina Kuraq juchachaqkuna tukuy runata jark'ananku tiyan.
+I. Derechosninkumanjina Kuraq juchachaqkuna tukuy runata jark'ananku tiyan.
 
-- Proceso  nisqayuq  kananpaq,  rimarikunanpaq,  pachan  sut'inchasqa  kananpaq  justicia plural nisqayuq kananpaq Estado nisqa qhawanan tiyan.
+II. Proceso nisqayuq kananpaq, rimarikunanpaq, pachan sut'inchasqa kananpaq justicia plural nisqayuq kananpaq Estado nisqa qhawanan tiyan.
 
 ###### Juch'uy kamachiy 116.
 
-- Mana  juchayuq  kani nisqanta qhawanan  tiyan, Procesopi kamachiy  mana  allin sut'inchasqa kaqtinqa, juchachachikuqman khuyapayanqa.
+I. Mana juchayuq kani nisqanta qhawanan tiyan, Procesopi kamachiy mana allin sut'inchasqa kaqtinqa, juchachachikuqman khuyapayanqa.
 
-- Jatun kamachiymanjina ima sanción nisqapis kanan tiyan.
+II. Jatun kamachiymanjina ima sanción nisqapis kanan tiyan.
 
 ###### Juch'uy kamachiy 117.
 
-- Proceso  nisqapi  mana  uyarisqa,  mana  juchachasqa  kaqtinqa,  ni  pipis  juchachasqa kanmanchu. Mana sentencia ejecutoriada nisqa yachayniyuq kamachina.
+I. Proceso nisqapi mana uyarisqa, mana juchachasqa kaqtinqa, ni pipis juchachasqa kanmanchu. Mana sentencia ejecutoriada nisqa yachayniyuq kamachina.
 
-- La  vulneración  de  los  derechos  constitucionales  hace  responsables  a  sus  autores intelectuales y materiales.
+II. La vulneración de los derechos constitucionales hace responsables a sus autores intelectuales y materiales.
 
-- III . 	 	 Los  atentados  contra  la  seguridad  personal  hacen  responsables  a  sus  autores inmediatos, sin que pueda servirles de excusa el haberlos cometido por orden superior.
-
-35
+III. Los atentados contra la seguridad personal hacen responsables a sus autores inmediatos, sin que pueda servirles de excusa el haberlos cometido por orden superior.
 
 ###### Artículo 111.
 
@@ -15320,31 +2491,35 @@ Los delitos cometidos por servidores públicos que atenten contra el patrimonio 
 
 ###### Artículo 113.
 
-- La vulneración de los derechos concede a las víctimas el derecho a la indemnización, reparación y resarcimiento de daños y perjuicios en forma oportuna.
+I. La vulneración de los derechos concede a las víctimas el derecho a la indemnización, reparación y resarcimiento de daños y perjuicios en forma oportuna.
 
-- En  caso  de  que  el  Estado  sea  condenado  a  la  reparación  patrimonial  de  daños  y perjuicios, deberá interponer la acción de repetición contra la autoridad o servidor público responsable de la acción u omisión que provocó el daño.
+II. En caso de que el Estado sea condenado a la reparación patrimonial de daños y perjuicios, deberá interponer la acción de repetición contra la autoridad o servidor público responsable de la acción u omisión que provocó el daño.
 
 ###### Artículo 114.
 
-- Queda prohibida toda forma de tortura, desaparición, confinamiento, coacción, exacción o cualquier forma de violencia física o moral. Las servidoras públicas y los servidores públicos  o  las  autoridades  públicas  que  las  apliquen,  instiguen  o  consientan,  serán destituidas  y  destituidos,  sin  perjuicio  de  las  sanciones  determinadas  por  la  ley.Las declaraciones,  acciones  u  omisiones  obtenidas  o  realizadas  mediante  el  empleo  de tortura, coacción, exacción o cualquier forma de violencia, son nulas de pleno derecho.
+I. Queda prohibida toda forma de tortura, desaparición, confinamiento, coacción, exacción o cualquier forma de violencia física o moral. Las servidoras públicas y los servidores públicos o las autoridades públicas que las apliquen, instiguen o consientan, serán destituidas y destituidos, sin perjuicio de las sanciones determinadas por la ley.
+
+II. Las declaraciones, acciones u omisiones obtenidas o realizadas mediante el empleo de tortura, coacción, exacción o cualquier forma de violencia, son nulas de pleno derecho.
 
 ###### Artículo 115.
 
-- Toda persona será protegida oportuna y efectivamente por los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos.
+I. Toda persona será protegida oportuna y efectivamente por los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos.
 
-- El Estado garantiza el derecho al debido proceso, a la defensa y a una justicia plural, pronta, oportuna, gratuita, transparente y sin dilaciones.
+II. El Estado garantiza el derecho al debido proceso, a la defensa y a una justicia plural, pronta, oportuna, gratuita, transparente y sin dilaciones.
 
 ###### Artículo 116.
 
-- Se garantiza la presunción de inocencia. Durante el proceso, en caso de duda sobre la norma aplicable, regirá la más favorable al imputado o procesado.
+I. Se garantiza la presunción de inocencia. Durante el proceso, en caso de duda sobre la norma aplicable, regirá la más favorable al imputado o procesado.
 
-- Cualquier sanción debe fundarse en una ley anterior al hecho punible.
+II. Cualquier sanción debe fundarse en una ley anterior al hecho punible.
 
 ###### Artículo 117.
 
-- Ninguna persona puede ser condenada sin haber sido oída y juzgada previamente en un debido proceso. Nadie sufrirá sanción penal que no haya sido impuesta por autoridad judicial competente en sentencia ejecutoriada.
+I. Ninguna persona puede ser condenada sin haber sido oída y juzgada previamente en un debido proceso. Nadie sufrirá sanción penal que no haya sido impuesta por autoridad judicial competente en sentencia ejecutoriada.
 
 Ministerio de la Presidencia - V.C.G.G
+
+35
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15354,79 +2529,79 @@ Fundación Konrad Adenauer (KAS)
 
 ESTADOQ KURAQ KAMACHIYNIN
 
-- Ni pipis iskay kutita uk juchamanta juchachikunmanchu. Juchanta junt'asqantawanpacha derechos nisqayuq kanan tiyan.
+CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Mañakusqanmanta, manukusqanmanta mana wisq'aykunankuchu tiyan, jatun kamachiy nisqamanjinalla wisq'aykunkuman.
+II. Ni pipis iskay kutita uk juchamanta juchachikunmanchu. Juchanta junt'asqantawanpacha derechos nisqayuq kanan tiyan.
+
+III. Mañakusqanmanta, manukusqanmanta mana wisq'aykunankuchu tiyan, jatun kamachiy nisqamanjinalla wisq'aykunkuman.
 
 ###### Juch'uy kamachiy 118.
 
-- Ama pillamantapis qhasilla parlanachu; jinallataq  llaqta  runa  wañuchiy,  waq  suyuman runata jachaypis mana kananchu tiyan.
+I. Ama pillamantapis qhasilla parlanachu; jinallataq llaqta runa wañuchiy, waq suyuman runata jachaypis mana kananchu tiyan.
 
-- Kinsa chunka watakama jatun juchanmanta runa wisq'asqa kanman.
+II. Kinsa chunka watakama jatun juchanmanta runa wisq'asqa kanman.
 
-- Derechosninmanjina juchanmanta wsiq'aykuchikuqtinqa, imallapipis llank'ananpaq waq runakunawan khuska kananpaq yachaqanan tiyan.
+III. Derechosninmanjina juchanmanta wsiq'aykuchikuqtinqa, imallapipis llank'ananpaq waq runakunawan khuska kananpaq yachaqanan tiyan.
 
 ###### Juch'uy kamachiy 119.
 
-- Vía  ordinaria  nisqapi  manaqa  indígena  originaria  campesina  nisqapi  pikunachus maqanakuypi,  ch'aqwaypi  juchayuq  manaqa  jucha  tumpachikuq  kikin  derechosniyuq kananku tiyan.
+I. Vía ordinaria nisqapi manaqa indígena originaria campesina nisqapi pikunachus maqanakuypi, ch'aqwaypi juchayuq manaqa jucha tumpachikuq kikin derechosniyuq kananku tiyan.
 
-- Tukuy  runa  jayk'achikuyta  atin.  Mana  qulqiyuq  kaqtinkuqa.  Estadotumpachikuqman runa waqyachikuqman uk jark'akuqta manaqa uk mana qulqimanta jark'akuqta qunan tiyan.
+II. Tukuy runa jayk'achikuyta atin. Mana qulqiyuq kaqtinkuqa. Estadotumpachikuqman runa waqyachikuqman uk jark'akuqta manaqa uk mana qulqimanta jark'akuqta qunan tiyan.
 
 ###### Juch'uy kamachiy 120.
 
-- Yachasqa jurisdiccional kamachisqawan tukuyt runa uyarichikunan tiyan, nitaq comisiones especiales nisqawan juchachachikunmanchu; nillataq waq jurisdiccionales kamachiqkunawanpis juchachachikunmanchu.
+I. Yachasqa jurisdiccional kamachisqawan tukuyt runa uyarichikunan tiyan, nitaq comisiones especiales nisqawan juchachachikunmanchu; nillataq waq jurisdiccionales kamachiqkunawanpis juchachachikunmanchu.
 
-- Tukuy juchachachikusaqtin, ima simitachus parlan chaypi juchachanan tiyan. Mana pipis siminta  yachaqtinqa,  pichus  siminta  parlayta  yachan  chay  rimarisqanta  parlaripunan tiyan.
+II. Tukuy juchachachikusaqtin, ima simitachus parlan chaypi juchachanan tiyan. Mana pipis siminta yachaqtinqa, pichus siminta parlayta yachan chay rimarisqanta parlaripunan tiyan.
 
 ###### Juch'uy kamachiy 121.
 
-- Juchachaypi kasaspaqa, mana  runa juchanmanta parlayta munaqtinqa ni pipis rimarichinmanchu, nillataq pipis ayllunmanta cuarto grado nisqakama, rimarichinmanchu. Mana rimariqtinqa, ch'inyakuqtinqa mana juchayuqjinata qhawasqa kanqa.
+I. Juchachaypi kasaspaqa, mana runa juchanmanta parlayta munaqtinqa ni pipis rimarichinmanchu, nillataq pipis ayllunmanta cuarto grado nisqakama, rimarichinmanchu. Mana rimariqtinqa, ch'inyakuqtinqa mana juchayuqjinata qhawasqa kanqa.
 
-- Jatun kamachiymanjina juchachachikuqqa parlariyta atin; sapa decisión judicial nisqapitaq uyarichikuya atin. Juchachaqqa mana qulqiyuq kaqtinqa, Estado uk abogada manaqa abogado nisqata qunan tiyan; paykuna juchachachikuqta jark'arinan tiyan.
+II. Jatun kamachiymanjina juchachachikuqqa parlariyta atin; sapa decisión judicial nisqapitaq uyarichikuya atin. Juchachaqqa mana qulqiyuq kaqtinqa, Estado uk abogada manaqa abogado nisqata qunan tiyan; paykuna juchachachikuqta jark'arinan tiyan.
 
 ###### Juch'uy kamachiy 122.
 
 Waqkunaqta llank'aykunanta ruwaqtinqa, jilanallatqa mana jatun kamachiymanjina llank'aqtinkuqa mana llank'asqajina kanan tiyan.
 
-36
+II. Nadie será procesado ni condenado más de una vez por el mismo hecho. La rehabilitación en sus derechos restringidos será inmediata al cumplimiento de su condena.
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO
-
-- Nadie será procesado ni condenado más de una vez por el mismo hecho. La rehabilitación en sus derechos restringidos será inmediata al cumplimiento de su condena.
-
-- No se impondrá sanción privativa de libertad por deudas u obligaciones patrimoniales, excepto en los casos establecidos por la ley.
+III. No se impondrá sanción privativa de libertad por deudas u obligaciones patrimoniales, excepto en los casos establecidos por la ley.
 
 ###### Artículo 118.
 
-- Está prohibida la infamia, la muerte civil y el confinamiento.
+I. Está prohibida la infamia, la muerte civil y el confinamiento.
 
-- La máxima sanción penal será de treinta años de privación de libertad, sin derecho a indulto.
+II. La máxima sanción penal será de treinta años de privación de libertad, sin derecho a indulto.
 
-- El cumplimiento de las sanciones privativas de libertad y las medidas de seguridad están orientadas a la educación, habilitación e inserción social de los condenados, con respeto a sus derechos.
+III. El cumplimiento de las sanciones privativas de libertad y las medidas de seguridad están orientadas a la educación, habilitación e inserción social de los condenados, con respeto a sus derechos.
 
 ###### Artículo 119.
 
-- Las partes en conflicto gozarán de igualdad de oportunidades para ejercer durante el proceso las facultades y los derechos que les asistan, sea por la vía ordinaria o por la indígena originaria campesina.
+I. Las partes en conflicto gozarán de igualdad de oportunidades para ejercer durante el proceso las facultades y los derechos que les asistan, sea por la vía ordinaria o por la indígena originaria campesina.
 
-- Toda  persona  tiene  derecho  inviolable  a  la  defensa.  El  Estado  proporcionará  a  las personas denunciadas o imputadas una defensora o un defensor gratuito, en los casos en que éstas no cuenten con los recursos económicos necesarios.
+II. Toda persona tiene derecho inviolable a la defensa. El Estado proporcionará a las personas denunciadas o imputadas una defensora o un defensor gratuito, en los casos en que éstas no cuenten con los recursos económicos necesarios.
 
 ###### Artículo 120.
 
-- Toda  persona  tiene  derecho  a  ser  oída  por  una  autoridad  jurisdiccional  competente, independiente e imparcial, y no podrá ser juzgada por comisiones especiales ni sometida a otras autoridades jurisdiccionales que las establecidas con anterioridad al hecho de la causa.
+I. Toda persona tiene derecho a ser oída por una autoridad jurisdiccional competente, independiente e imparcial, y no podrá ser juzgada por comisiones especiales ni sometida a otras autoridades jurisdiccionales que las establecidas con anterioridad al hecho de la causa.
 
-- Toda persona sometida a proceso debe ser juzgada en su idioma; excepcionalmente, de manera obligatoria, deberá ser asistida por traductora, traductor o intérprete.
+II. Toda persona sometida a proceso debe ser juzgada en su idioma; excepcionalmente, de manera obligatoria, deberá ser asistida por traductora, traductor o intérprete.
 
 ###### Artículo 121.
 
-- En materia penal, ninguna persona podrá ser obligada a declarar contra sí misma, ni  contra  sus  parientes  consanguíneos  hasta  el  cuarto  grado  o  sus  afines  hasta  el segundo grado. El derecho de guardar silencio no será considerado como indicio de culpabilidad.
+I. En materia penal, ninguna persona podrá ser obligada a declarar contra sí misma, ni contra sus parientes consanguíneos hasta el cuarto grado o sus afines hasta el segundo grado. El derecho de guardar silencio no será considerado como indicio de culpabilidad.
 
-- La víctima en un proceso penal podrá intervenir de acuerdo con la ley, y tendrá derecho a  ser  oída  antes  de  cada  decisión  judicial.  En  caso  de  no  contar  con  los  recursos económicos necesarios, deberá ser asistida gratuitamente por una abogada o abogado asignado por el Estado.
+II. La víctima en un proceso penal podrá intervenir de acuerdo con la ley, y tendrá derecho a ser oída antes de cada decisión judicial. En caso de no contar con los recursos económicos necesarios, deberá ser asistida gratuitamente por una abogada o abogado asignado por el Estado.
 
 ###### Artículo 122.
 
 Son nulos los actos de las personas que usurpen funciones que no les competen, así como los actos de las que ejercen jurisdicción o potestad que no emane de la ley.
 
 Ministerio de la Presidencia - V.C.G.G
+
+36
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15440,19 +2615,19 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### Juch'uy kamachiy 123.
 
-Imaynachus imallapis kanan kasan chaykunallata jatun kamachiy kamachinan tiyan. Ñawpaq ruwasqakunataqa  mana  kay  jatun  kamachiywan  kamachinmanchu;  llank'aqkunallapaq, nisqanmanjina  kaqtinqa,  manaqa  juchachachikupaq  kusa  kaqtin  kamachiyta  atin;  materia de corrupción nisqapipaqpia, llaqtapaq llank'aqkuna suyunchismanta juchachakusqanmanta mayk'anapaq  juchachachinapaq  juchachanapaq,  imatachus  Constitución  misqapi  nisan chaypaqwan ima kay jatun kamachiyqa kanqa.
+Imaynachus imallapis kanan kasan chaykunallata jatun kamachiy kamachinan tiyan. Ñawpaq ruwasqakunataqa mana kay jatun kamachiywan kamachinmanchu; llank'aqkunallapaq, nisqanmanjina kaqtinqa, manaqa juchachachikupaq kusa kaqtin kamachiyta atin; materia de corrupción nisqapipaqpia, llaqtapaq llank'aqkuna suyunchismanta juchachakusqanmanta mayk'anapaq juchachachinapaq juchachanapaq, imatachus Constitución misqapi nisan chaypaqwan ima kay jatun kamachiyqa kanqa.
 
 ###### Juch'uy kamachiy 124.
 
-- Boliviana boliviano kaykunata ruwaqtinku juchayuq kanqa:
+I. Boliviana boliviano kaykunata ruwaqtinku juchayuq kanqa:
 
-- Armas  nisqawan  suyunta  awqantajina  qharariqtin;  waq  suyukunapaq  junt'aqtin, manaqa waq awqa suyuman k'askaykuqtin, Bolivia suyuwan jatun maqanakuy kaqtin ima juchachasqa kanqa.
+1. Armas nisqawan suyunta awqantajina qharariqtin; waq suyukunapaq junt'aqtin, manaqa waq awqa suyuman k'askaykuqtin, Bolivia suyuwan jatun maqanakuy kaqtin ima juchachasqa kanqa.
 
-- Régimen constitucional de recursos naturales nisqapi juchachakuqtin.
+2. Régimen constitucional de recursos naturales nisqapi juchachakuqtin.
 
-- Unidad nisqamanta juchachakuqtin.
+3. Unidad nisqamanta juchachakuqtin.
 
-- Kay juchachakunamanta kisa chunka watatapuni wsik'aykuna tiyan.
+II. Kay juchachakunamanta kisa chunka watatapuni wsik'aykuna tiyan.
 
 #### ISKAY KAQ JUCH'UY PHATMA JARK'AKUYKUNA RUWAYKUNAMANTA
 
@@ -15460,33 +2635,29 @@ Imaynachus imallapis kanan kasan chaykunallata jatun kamachiy kamachinan tiyan. 
 
 ###### Juch'uy kamachiy 125.
 
-Pikunaqtachuq  kaqsakuynin  mana  allinchu  kasa,  qhasillamanta  qhatichikuq,  manaqa qhasillamanta  juchata  tumpachikuqtin  manaqa  libertad  personal  nisqanta  mana  quqtinku Acción de Libertad nisqata churayta atin; chaypaqqa materia penal nisqapi mayqin kuraq juchachaqmanpis  manaqa  yachasqa  juchachaqkunamanpis  pay  kikin  manaqa  pillapis sutinpi  siminmanta  riqsichinan  tiyan  manaqa  qilqaykuspa  riqsichinan  tiyan;  chaymantaqa kawsayninta  qhawanankupaq,  mana  qhatiykachanankupaq,  libertad  nisqayuq  kananpaq, imaynachus kanan kasan chayta ima mañakunan tiyan.
+Pikunaqtachuq kaqsakuynin mana allinchu kasa, qhasillamanta qhatichikuq, manaqa qhasillamanta juchata tumpachikuqtin manaqa libertad personal nisqanta mana quqtinku Acción de Libertad nisqata churayta atin; chaypaqqa materia penal nisqapi mayqin kuraq juchachaqmanpis manaqa yachasqa juchachaqkunamanpis pay kikin manaqa pillapis sutinpi siminmanta riqsichinan tiyan manaqa qilqaykuspa riqsichinan tiyan; chaymantaqa kawsayninta qhawanankupaq, mana qhatiykachanankupaq, libertad nisqayuq kananpaq, imaynachus kanan kasan chayta ima mañakunan tiyan.
 
 ###### Juch'uy kamachiy 126.
 
-- Jucha kamachiq ima p'unchaypichus ima pachapichus audiencia pública nisqa kanqa chayta rimarinan  tiyan. Acción  de  libertad  nisqa  churakusqanmanpacha  kayqa iskay  chunka  tawa  phaniyuqpi  kanqa;  jucha  kamachiqman  acción  nisqa  ruwaqta pusachinantiyan manaqa maypichus wisk'asqa kasan chayman rinan tiyan. Paykunaqa, wisq'asqakunata qhawaqkuna, mayllapipis pikunachus wisq'asqata qhawasanku, chaykunapis mana imata qhawarasqa, mana imata rimarispa kamachiytaqa uyarinanku tiyan; paykunaqa kamachiyta uyarinankupuni tiyan.
+I. Jucha kamachiq ima p'unchaypichus ima pachapichus audiencia pública nisqa kanqa chayta rimarinan tiyan. Acción de libertad nisqa churakusqanmanpacha kayqa iskay chunka tawa phaniyuqpi kanqa; jucha kamachiqman acción nisqa ruwaqta pusachinantiyan manaqa maypichus wisk'asqa kasan chayman rinan tiyan. Paykunaqa, wisq'asqakunata qhawaqkuna, mayllapipis pikunachus wisq'asqata qhawasanku, chaykunapis mana imata qhawarasqa, mana imata rimarispa kamachiytaqa uyarinanku tiyan; paykunaqa kamachiyta uyarinankupuni tiyan.
 
-- Audiencia  nisqaqa  manapuni  waq  pachapaq  qhipakunmanchu.  Jucha  tumpachikusqa mana chaypi kaqtinqa, mana riqtinqa, lluqsipuqtinqa mana uyarikusqanmanjina juchachachikunqa.
-
-Ministerio de la Presidencia - V.C.G.G
-
-37
+II. Audiencia nisqaqa manapuni waq pachapaq qhipakunmanchu. Jucha tumpachikusqa mana chaypi kaqtinqa, mana riqtinqa, lluqsipuqtinqa mana uyarikusqanmanjina juchachachikunqa.
 
 ###### Artículo 123.
 
-La  ley  sólo  dispone  para  lo  venidero  y  no  tendrá  efecto  retroactivo,  excepto  en  materia laboral, cuando lo determine expresamente a favor de las trabajadoras y de los trabajadores; en materia penal, cuando beneficie a la imputada o al imputado; en materia de corrupción, para investigar, procesar y sancionar los delitos cometidos por servidores públicos contra los intereses del Estado; y en el resto de los casos señalados por la Constitución.
+La ley sólo dispone para lo venidero y no tendrá efecto retroactivo, excepto en materia laboral, cuando lo determine expresamente a favor de las trabajadoras y de los trabajadores; en materia penal, cuando beneficie a la imputada o al imputado; en materia de corrupción, para investigar, procesar y sancionar los delitos cometidos por servidores públicos contra los intereses del Estado; y en el resto de los casos señalados por la Constitución.
 
 ###### Artículo 124.
 
-- Comete  delito  de  traición  a  la  patria  la  boliviana  o  el  boliviano  que  incurra  en  los siguientes hechos:
+I. Comete delito de traición a la patria la boliviana o el boliviano que incurra en los siguientes hechos:
 
-- Que  tome  armas  contra  su  país,  se  ponga  al  servicio  de  estados  extranjeros participantes, o entre en complicidad con el enemigo, en caso de guerra internacional contra Bolivia.
+1. Que tome armas contra su país, se ponga al servicio de estados extranjeros participantes, o entre en complicidad con el enemigo, en caso de guerra internacional contra Bolivia.
 
-- Que viole el régimen constitucional de recursos naturales.
+2. Que viole el régimen constitucional de recursos naturales.
 
-- Que atente contra la unidad del país.
+3. Que atente contra la unidad del país.
 
-- Este delito merecerá la máxima sanción penal.
+II. Este delito merecerá la máxima sanción penal.
 
 #### CAPÍTULO SEGUNDO ACCIONES DE DEFENSA
 
@@ -15498,9 +2669,13 @@ Toda persona que considere que su vida está en peligro, que es ilegalmente pers
 
 ###### Artículo 126.
 
-- La  autoridad  judicial  señalará  de  inmediato  día  y  hora  de  la  audiencia  pública, la  cual  tendrá  lugar  dentro  de  las  veinticuatro  horas  de  interpuesta  la  acción,  y dispondrá que la persona accionante sea conducida a su presencia o acudirá al lugar  de  la  detención.  Con  dicha  orden  se  practicará  la  citación,  personal  o  por cédula, a la autoridad o a la persona denunciada, orden que será obedecida sin observación ni excusa, tanto por la autoridad o la persona denunciada como por los encargados de las cárceles o lugares de detención, sin que éstos, una vez citados, puedan desobedecer.
+I. La autoridad judicial señalará de inmediato día y hora de la audiencia pública, la cual tendrá lugar dentro de las veinticuatro horas de interpuesta la acción, y dispondrá que la persona accionante sea conducida a su presencia o acudirá al lugar de la detención. Con dicha orden se practicará la citación, personal o por cédula, a la autoridad o a la persona denunciada, orden que será obedecida sin observación ni excusa, tanto por la autoridad o la persona denunciada como por los encargados de las cárceles o lugares de detención, sin que éstos, una vez citados, puedan desobedecer.
 
-- En  ningún  caso  podrá  suspenderse  la  audiencia.  En  ausencia  del  demandado,  por inasistencia o abandono, se llevará a efecto en su rebeldía.
+II. En ningún caso podrá suspenderse la audiencia. En ausencia del demandado, por inasistencia o abandono, se llevará a efecto en su rebeldía.
+
+Ministerio de la Presidencia - V.C.G.G
+
+37
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15512,61 +2687,61 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Audiencia  nisqapi,  imaynachus  kasqanmanjina,  uyarisqanmanjina  jucha  kamachiqqa payllapuni  sentencia  nisqata  qunqa.  Sentencia  nisqaqa  pichus  pillatapis  uyarinan kasan, qhawanan kasan, libertad nisqayuq kananpaq, imaynachus kanan tiyan, mana pipis pitapis qhatiykacharinanpaq, waq jucha kamachiqman rinanpaq kamachinan tiyan. Sentencia nisqa ñawirikusaqtin chaypi juchata tumpachikuqwan juchachaqwan kananku tiyan.
+III. Audiencia nisqapi, imaynachus kasqanmanjina, uyarisqanmanjina jucha kamachiqqa payllapuni sentencia nisqata qunqa. Sentencia nisqaqa pichus pillatapis uyarinan kasan, qhawanan kasan, libertad nisqayuq kananpaq, imaynachus kanan tiyan, mana pipis pitapis qhatiykacharinanpaq, waq jucha kamachiqman rinanpaq kamachinan tiyan. Sentencia nisqa ñawirikusaqtin chaypi juchata tumpachikuqwan juchachaqwan kananku tiyan.
 
-- Pachan jucha kamachisqata ruwakunan tiyan. Mana qhipachisqa, kamachisqanmantapacha iskay chunka tawa phaniyuqpi Tribunal Constitucional Plurinacional nisqaman qhawarinanpaq chayachinan tiyan.
+IV. Pachan jucha kamachisqata ruwakunan tiyan. Mana qhipachisqa, kamachisqanmantapacha iskay chunka tawa phaniyuqpi Tribunal Constitucional Plurinacional nisqaman qhawarinanpaq chayachinan tiyan.
 
 ###### Juch'uy kamachiy 127.
 
-- Llaqtapaq  llank'aqkuna,  manaqa  pi  runallapis  mana  kuraq  juchachaq  kamachisqanta uryariqtinqa,  mana  Constitución  nisqa  uyarisqanrayku  Ministerio  Público  nisqaman  pi kuraq juchachaqcha juchachan paypata kamachiyninwan apachikunqa.
+I. Llaqtapaq llank'aqkuna, manaqa pi runallapis mana kuraq juchachaq kamachisqanta uryariqtinqa, mana Constitución nisqa uyarisqanrayku Ministerio Público nisqaman pi kuraq juchachaqcha juchachan paypata kamachiyninwan apachikunqa.
 
-- Constitución nisqamanjina, kamachiymanjina  jucha kamachiq  mana  kay  Juch'uy Kamachiy nisqanmanjina ruwaqtinqa, juchachasqa kanqa.
+II. Constitución nisqamanjina, kamachiymanjina jucha kamachiq mana kay Juch'uy Kamachiy nisqanmanjina ruwaqtinqa, juchachasqa kanqa.
 
 ##### ISKAY KAQ RAK'IY ACCIÓN AMPARO CONSTITUCIONALMANTA
 
 ###### Juch'uy kamachiy 128.
 
-Llaqatapaq llank'aqkuna kamachiykuna mana uyariqtinkuqa, imachus mana kasqanmanjina kasan,  pikunachus  Constitución  nisqamanjina  jatun  kamachiymanjina  imallatapis  mana ruwaqtinkuqa, chaykunapaq Acción de Amparo Constitucional nisqa kanan tiyan.
+Llaqatapaq llank'aqkuna kamachiykuna mana uyariqtinkuqa, imachus mana kasqanmanjina kasan, pikunachus Constitución nisqamanjina jatun kamachiymanjina imallatapis mana ruwaqtinkuqa, chaykunapaq Acción de Amparo Constitucional nisqa kanan tiyan.
 
 ###### Juch'uy kamachiy 129.
 
-- Mana waq recurso legal nisqa kaqtinqa, Constitución nisqamanjina picha juchachasqa kasan manaqa uk kamachiywan sutinpi manaqa yachasqa kamachiywan mayqin kuraq jucha kamachiqmanpis, mayqin jucha kamachiqmanpis Acción Constitucional nisqataqa churaykunqa.
+I. Mana waq recurso legal nisqa kaqtinqa, Constitución nisqamanjina picha juchachasqa kasan manaqa uk kamachiywan sutinpi manaqa yachasqa kamachiywan mayqin kuraq jucha kamachiqmanpis, mayqin jucha kamachiqmanpis Acción Constitucional nisqataqa churaykunqa.
 
-- Comisión de vulneración alegada nisqamantapacha manaqa Kuraq juchachaq rimarisqanmantapacha suqta killapi Amparo Constitucional nisqata churayta atikun.
+II. Comisión de vulneración alegada nisqamantapacha manaqa Kuraq juchachaq rimarisqanmantapacha suqta killapi Amparo Constitucional nisqata churayta atikun.
 
-- Tawa chunka pusaqniyuq phanipi Amparo Constitucional nisqata churaykusqanmantapacha  rimarinanpaq,  imaynachus  kasqanta  qunanpaq  kamachiq manaqa runa jucha tumpachikuq ima p'unchayllapaqpis Acción  de  Libertad  nisqapaq wakyachikunqa.
+III. Tawa chunka pusaqniyuq phanipi Amparo Constitucional nisqata churaykusqanmantapacha rimarinanpaq, imaynachus kasqanta qunanpaq kamachiq manaqa runa jucha tumpachikuq ima p'unchayllapaqpis Acción de Libertad nisqapaq wakyachikunqa.
 
-- Kamachiqmanta manaqa runa juchachachikusqanmanta willayta jap'isqanmantapacha, pachan runa uyarisqtin juch'uy kamachiyta riqsichinqa. Mana willay kaqtinqa juchachaq qilqasqakuna jaywasqanta qhawarisqa Juch'uy Kamachiyta riqsichinqa. Jucha kamachiq llaqtapaq llank'aqta, warmi, qhari juchachasqakunata qhawarinan tiyan; juchata tarispataq Amparo Constitucional nisqata qunqa. Jucha kamachiy lluqsisqanmantapacha, iskay chunka tawayuq phanipi qhawarinanpaq Tribunal Constitucional Plurincionalman kamachisqantaq chayachinqa.
+IV. Kamachiqmanta manaqa runa juchachachikusqanmanta willayta jap'isqanmantapacha, pachan runa uyarisqtin juch'uy kamachiyta riqsichinqa. Mana willay kaqtinqa juchachaq qilqasqakuna jaywasqanta qhawarisqa Juch'uy Kamachiyta riqsichinqa. Jucha kamachiq llaqtapaq llank'aqta, warmi, qhari juchachasqakunata qhawarinan tiyan; juchata tarispataq Amparo Constitucional nisqata qunqa. Jucha kamachiy lluqsisqanmantapacha, iskay chunka tawayuq phanipi qhawarinanpaq Tribunal Constitucional Plurincionalman kamachisqantaq chayachinqa.
 
-- Conocidos los antecedentes y oídas las alegaciones, la autoridad judicial, obligatoriamente y bajo responsabilidad, dictará sentencia en la misma audiencia. La sentencia podrá ordenar la tutela de la vida, la restitución del derecho a la libertad, la reparación de los defectos legales, el cese de la persecución indebida o la remisión del caso al juez competente. En todos los casos, las partes quedarán notificadas con la lectura de la sentencia.
+III. Conocidos los antecedentes y oídas las alegaciones, la autoridad judicial, obligatoriamente y bajo responsabilidad, dictará sentencia en la misma audiencia. La sentencia podrá ordenar la tutela de la vida, la restitución del derecho a la libertad, la reparación de los defectos legales, el cese de la persecución indebida o la remisión del caso al juez competente. En todos los casos, las partes quedarán notificadas con la lectura de la sentencia.
 
-- El  fallo  judicial  será  ejecutado  inmediatamente.  Sin  perjuicio  de  ello,  la  decisión  se elevará en revisión, de oficio, ante el Tribunal Constitucional Plurinacional, en el plazo de las veinticuatro horas siguientes a su emisión.
-
-Ministerio de la Presidencia - V.C.G.G
-
-38
+IV. El fallo judicial será ejecutado inmediatamente. Sin perjuicio de ello, la decisión se elevará en revisión, de oficio, ante el Tribunal Constitucional Plurinacional, en el plazo de las veinticuatro horas siguientes a su emisión.
 
 ###### Artículo 127.
 
-- Los servidores públicos o personas particulares que resistan las decisiones judiciales en los casos previstos por esta acción, serán remitidos por orden de la autoridad que conoció de la acción ante el Ministerio Público para su procesamiento penal por atentado contra las garantías constitucionales.
+I. Los servidores públicos o personas particulares que resistan las decisiones judiciales en los casos previstos por esta acción, serán remitidos por orden de la autoridad que conoció de la acción ante el Ministerio Público para su procesamiento penal por atentado contra las garantías constitucionales.
 
-- La autoridad judicial que no proceda conforme con lo dispuesto por este artículo quedará sujeta a sanción, de acuerdo con la Constitución y la ley.
+II. La autoridad judicial que no proceda conforme con lo dispuesto por este artículo quedará sujeta a sanción, de acuerdo con la Constitución y la ley.
 
 ##### SECCIÓN II ACCIÓN DE AMPARO CONSTITUCIONAL
 
 ###### Artículo 128.
 
-La Acción de Amparo Constitucional tendrá lugar contra actos u omisiones ilegales o indebidos de  los  servidores  públicos,  o  de  persona  individual  o  colectiva,  que  restrinjan,  supriman  o amenacen restringir o suprimir los derechos reconocidos por la Constitución y la ley.
+La Acción de Amparo Constitucional tendrá lugar contra actos u omisiones ilegales o indebidos de los servidores públicos, o de persona individual o colectiva, que restrinjan, supriman o amenacen restringir o suprimir los derechos reconocidos por la Constitución y la ley.
 
 ###### Artículo 129.
 
-- La Acción de Amparo Constitucional se interpondrá por la persona que se crea afectada, por otra a su nombre con poder suficiente o por la autoridad correspondiente de acuerdo con la Constitución, ante cualquier juez o tribunal competente, siempre que no exista otro  medio  o  recurso  legal  para  la  protección  inmediata  de  los  derechos  y  garantías restringidos, suprimidos o amenazados.
+I. La Acción de Amparo Constitucional se interpondrá por la persona que se crea afectada, por otra a su nombre con poder suficiente o por la autoridad correspondiente de acuerdo con la Constitución, ante cualquier juez o tribunal competente, siempre que no exista otro medio o recurso legal para la protección inmediata de los derechos y garantías restringidos, suprimidos o amenazados.
 
-- La Acción  de Amparo Constitucional  podrá  interponerse  en  el  plazo  máximo  de  seis meses, computable a partir de la comisión de la vulneración alegada o de notificada la última decisión administrativa o judicial.
+II. La Acción de Amparo Constitucional podrá interponerse en el plazo máximo de seis meses, computable a partir de la comisión de la vulneración alegada o de notificada la última decisión administrativa o judicial.
 
-- La autoridad o persona demandada será citada en la forma prevista para la Acción de Libertad, con el objeto de que preste información y presente, en su caso, los actuados concernientes al hecho denunciado, en el plazo máximo de cuarenta y ocho horas desde la presentación de la Acción.
+III. La autoridad o persona demandada será citada en la forma prevista para la Acción de Libertad, con el objeto de que preste información y presente, en su caso, los actuados concernientes al hecho denunciado, en el plazo máximo de cuarenta y ocho horas desde la presentación de la Acción.
 
-- La  resolución  final  se  pronunciará  en  audiencia  pública  inmediatamente  recibida  la información de la autoridad o persona demandada y, a falta de ésta, lo hará sobre la base de la prueba que ofrezca la persona accionante. La autoridad judicial examinará la competencia de la servidora pública o del servidor público o de la persona demandada y, en caso de encontrar cierta y efectiva la demanda, concederá el amparo solicitado. La decisión que se pronuncie se elevará, de oficio, en revisión ante el Tribunal Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo.
+IV. La resolución final se pronunciará en audiencia pública inmediatamente recibida la información de la autoridad o persona demandada y, a falta de ésta, lo hará sobre la base de la prueba que ofrezca la persona accionante. La autoridad judicial examinará la competencia de la servidora pública o del servidor público o de la persona demandada y, en caso de encontrar cierta y efectiva la demanda, concederá el amparo solicitado. La decisión que se pronuncie se elevará, de oficio, en revisión ante el Tribunal Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo.
+
+Ministerio de la Presidencia - V.C.G.G
+
+38
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15578,25 +2753,25 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Acción de Amparo Constitucional nisqanta ama qhawaraspa ama imata rimrispa ruwana tiyan. Mana ruwaqtinchisqa Acción de Libertad nisqamanjina ruwakunqa. Jucha kamachiq mana  kay  Juch'uy  kamachiy  nisqapi  kasqanmanjina  ruwaqtinqa,  Kamachiymanjina juchachachikunqa.
+V. Acción de Amparo Constitucional nisqanta ama qhawaraspa ama imata rimrispa ruwana tiyan. Mana ruwaqtinchisqa Acción de Libertad nisqamanjina ruwakunqa. Jucha kamachiq mana kay Juch'uy kamachiy nisqapi kasqanmanjina ruwaqtinqa, Kamachiymanjina juchachachikunqa.
 
 ##### KINSA KAQ RAK'IY ACCIÓN PROTECCIÓN PRIVACIDADMANTA
 
 ###### Juch'uy kamachiy 130.
 
-- Mayllapipis, may willaykunapipis sapa runamanta manaqa tantasqa runamanta pikunachus paykunamanta qilqaykusqankuta mana riqsichiqtinqa, mana qhawachiqtinkuqa,  imaynachus  kasqanmanjina  mana  chiqanchaykuqtinqa,  manaqa intimidad  chayri  privacidad  personal,  familiar  nisqata  qhawachiqtinqa  manaqa  honran nisqata, kasqanta ima t'akaqtinqa,  Acción de Protección de Privacidad nisqata churaykunanku tiyan.
+I. Mayllapipis, may willaykunapipis sapa runamanta manaqa tantasqa runamanta pikunachus paykunamanta qilqaykusqankuta mana riqsichiqtinqa, mana qhawachiqtinkuqa, imaynachus kasqanmanjina mana chiqanchaykuqtinqa, manaqa intimidad chayri privacidad personal, familiar nisqata qhawachiqtinqa manaqa honran nisqata, kasqanta ima t'akaqtinqa, Acción de Protección de Privacidad nisqata churaykunanku tiyan.
 
-- Acción de Protección de Privacidad nisqaqa pakasqa willaykunata mana riqsichinanchu tiyan.
+II. Acción de Protección de Privacidad nisqaqa pakasqa willaykunata mana riqsichinanchu tiyan.
 
 ###### Juch'uy kamachiy 131.
 
-- Acción  de Amparo  Constitucional  nisqamanjina Acción  de  Privacidad  nisqaqa  kanan tiyan.
+I. Acción de Amparo Constitucional nisqamanjina Acción de Privacidad nisqaqa kanan tiyan.
 
-- Yachasqa  juchachaqkuna  manaqa  yachasqa  kuraq  juchachaq  acción  nisqata  waliq kasqanta  rimarin;  mañasqamanjina,  riqchinanpsw  kamachin,  imaynachus  kasqanta qhawachinanpaq,  manaqa  urqhachinanpaq  manaqa  imaynachus  kasan  chaymanjina kananpaq chaykunata ima kamachin.
+II. Yachasqa juchachaqkuna manaqa yachasqa kuraq juchachaq acción nisqata waliq kasqanta rimarin; mañasqamanjina, riqchinanpsw kamachin, imaynachus kasqanta qhawachinanpaq, manaqa urqhachinanpaq manaqa imaynachus kasan chaymanjina kananpaq chaykunata ima kamachin.
 
-- Kamachisqan  lluqsisqanmantapacha  iskay  chunka  tawayuq  phanipi  qhawarinanpaqq Tribunal  Constitucional  nisqaman  kamachisqanta  jaywarinqa.  Pachan  kamachisqanta ruwana tiyan.
+III. Kamachisqan lluqsisqanmantapacha iskay chunka tawayuq phanipi qhawarinanpaqq Tribunal Constitucional nisqaman kamachisqanta jaywarinqa. Pachan kamachisqanta ruwana tiyan.
 
-- Acción  de  Protección  de  Privacidad  nisqa  kamachisqanta  mana  imata  qhawaraspa pachan ruwana tiyan. Mana jina ruwaqtinkuqa, imatachus Acción de Libertad nisqapi rimarisan  chaymanjina  ruwakunqa.  Kay  Juch'uy  kamachiy  nisqaman  jucha  kamachiq mana ruwanqa chayqa, kamachiymanjina juchachasqa kanqa.
+IV. Acción de Protección de Privacidad nisqa kamachisqanta mana imata qhawaraspa pachan ruwana tiyan. Mana jina ruwaqtinkuqa, imatachus Acción de Libertad nisqapi rimarisan chaymanjina ruwakunqa. Kay Juch'uy kamachiy nisqaman jucha kamachiq mana ruwanqa chayqa, kamachiymanjina juchachasqa kanqa.
 
 ##### TAWA KAQ RAK'IY ACCIÓN INCONSTITUCIONALIDADMANTA
 
@@ -15605,41 +2780,42 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 Imaynachius kamachiy kasan chaymanjina, sapa runa manaqa tantasqa runa waq kamachiywan juchachasqa kaqtinqa Acción de Inconstitucionalidad nisqata churaykunan tiyan.
 
 ###### Juch'uy kamachiy 133.
-Juchachanapi, jatun kamachiy, mana kusachu nispa rimariqtinqa, kamachiy,  manajuch'uy  kamachiy  kamachiymanjina  mana  kaqtinqa,  qhawarachikusqa kamachiyqa mana junt'akunqachu, jinallataq kayqa tukuy imapaq kanqa.
 
-39
+Juchachanapi, jatun kamachiy, mana kusachu nispa rimariqtinqa, kamachiy, manajuch'uy kamachiy kamachiymanjina mana kaqtinqa, qhawarachikusqa kamachiyqa mana junt'akunqachu, jinallataq kayqa tukuy imapaq kanqa.
 
-- V . 	 	 La  decisión  final  que  conceda  la  Acción  de  Amparo  Constitucional  será  ejecutada inmediatamente y sin observación. En caso de resistencia se procederá de acuerdo con lo señalado en la Acción de Libertad. La autoridad judicial que no proceda conforme con lo dispuesto por este artículo, quedará sujeta a las sanciones previstas por la ley.
+V. La decisión final que conceda la Acción de Amparo Constitucional será ejecutada inmediatamente y sin observación. En caso de resistencia se procederá de acuerdo con lo señalado en la Acción de Libertad. La autoridad judicial que no proceda conforme con lo dispuesto por este artículo, quedará sujeta a las sanciones previstas por la ley.
 
 ##### SECCIÓN III ACCIÓN DE PROTECCIÓN DE PRIVACIDAD
 
 ###### Artículo 130.
 
-- T oda persona individual o colectiva que crea estar indebida o ilegalmente impedida de conocer,  objetar  u  obtener  la  eliminación  o  rectificación  de  los  datos  registrados  por cualquier medio físico, electrónico, magnético o informático, en archivos o bancos de datos  públicos  o  privados,  o  que  afecten  a  su  derecho  fundamental  a  la  intimidad  y privacidad personal o familiar, o a su propia imagen, honra y reputación, podrá interponer la Acción de Protección de Privacidad.
+I. Toda persona individual o colectiva que crea estar indebida o ilegalmente impedida de conocer, objetar u obtener la eliminación o rectificación de los datos registrados por cualquier medio físico, electrónico, magnético o informático, en archivos o bancos de datos públicos o privados, o que afecten a su derecho fundamental a la intimidad y privacidad personal o familiar, o a su propia imagen, honra y reputación, podrá interponer la Acción de Protección de Privacidad.
 
-- La Acción de Protección de Privacidad no procederá para levantar el secreto en materia de prensa.
+II. La Acción de Protección de Privacidad no procederá para levantar el secreto en materia de prensa.
 
 ###### Artículo 131.
 
-- La Acción de Protección de Privacidad tendrá lugar de acuerdo con el procedimiento previsto para la acción de Amparo Constitucional.
+I. La Acción de Protección de Privacidad tendrá lugar de acuerdo con el procedimiento previsto para la acción de Amparo Constitucional.
 
-- Si  el  tribunal o juez competente declara procedente la acción, ordenará la revelación, eliminación o rectificación de los datos cuyo registro fue impugnado.
+II. Si el tribunal o juez competente declara procedente la acción, ordenará la revelación, eliminación o rectificación de los datos cuyo registro fue impugnado.
 
-- La decisión se elevará, de oficio, en revisión ante el Tribunal Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo, sin que por ello se suspenda su ejecución.
+III. La decisión se elevará, de oficio, en revisión ante el Tribunal Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo, sin que por ello se suspenda su ejecución.
 
-- La  decisión  final  que  conceda  la Acción  de  Protección  de  Privacidad  será  ejecutada inmediatamente y sin observación. En caso de resistencia se procederá de acuerdo con lo señalado en la Acción de Libertad. La autoridad judicial que no proceda conforme con lo dispuesto por este artículo quedará sujeta a las sanciones previstas por la ley.
+IV. La decisión final que conceda la Acción de Protección de Privacidad será ejecutada inmediatamente y sin observación. En caso de resistencia se procederá de acuerdo con lo señalado en la Acción de Libertad. La autoridad judicial que no proceda conforme con lo dispuesto por este artículo quedará sujeta a las sanciones previstas por la ley.
 
 ##### SECCIÓN IV ACCIÓN DE INCONSTITUCIONALIDAD
 
 ###### Artículo 132.
 
-Toda  persona  individual  o  colectiva  afectada  por  una  norma  jurídica  contraria  a  la Constitución tendrá derecho a presentar la Acción de Inconstitucionalidad, de acuerdo con los procedimientos establecidos por la ley.
+Toda persona individual o colectiva afectada por una norma jurídica contraria a la Constitución tendrá derecho a presentar la Acción de Inconstitucionalidad, de acuerdo con los procedimientos establecidos por la ley.
 
 ###### Artículo 133.
 
-La  sentencia  que  declare  la  inconstitucionalidad  de  una  ley,  decreto  o  cualquier  género  de resolución no judicial, hace inaplicable la norma impugnada y surte plenos efectos respecto a todos.
+La sentencia que declare la inconstitucionalidad de una ley, decreto o cualquier género de resolución no judicial, hace inaplicable la norma impugnada y surte plenos efectos respecto a todos.
 
 Ministerio de la Presidencia - V.C.G.G
+
+39
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15651,61 +2827,61 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
+##### PHISQA KAQ RAK'IY ACCIÓN CUMPLIMIENTOMANTA
+
 ###### Juch'uy kamachiy 134.
 
-- Llaqtapaq  llank'aq  runa  mana  constitucionales  kamachiymanjina  ruwaqtinqa  manaqa mana jatun kamachiymanjina ruwasqa kaqtinqa, mana qhawasqa kamachiyta ruwachinapaq Acción de Cumplimiento nisqa kanqa.
+I. Llaqtapaq llank'aq runa mana constitucionales kamachiymanjina ruwaqtinqa manaqa mana jatun kamachiymanjina ruwasqa kaqtinqa, mana qhawasqa kamachiyta ruwachinapaq Acción de Cumplimiento nisqa kanqa.
 
-- Sapa runa, tantasqa runa juchachasqa kaqtinqa manaqa pipis uk kamachiywan paypaq sutinpi  kuraq  juchachaqman  manaqa  yachasqa  juchachasqkunaman  Acción  nisqata churaykunqa;  imaynatachus  Acción  de  Amparo  Constitucional  nisqapaq  ruwanku, kikillantataq ruwananku tiyan.
+II. Sapa runa, tantasqa runa juchachasqa kaqtinqa manaqa pipis uk kamachiywan paypaq sutinpi kuraq juchachaqman manaqa yachasqa juchachasqkunaman Acción nisqata churaykunqa; imaynatachus Acción de Amparo Constitucional nisqapaq ruwanku, kikillantataq ruwananku tiyan.
 
-- Juchachachikusqa kamachiqmanta willayta jap'iytawan, pachan tukuy uyarisaqtin juch'uy kamachiytaqa  rimarikunqa;  mana  kay  willay  kaqtinqa,  jucha  tunpaq  qilqasqakunata jaywasqanmanjina rimarinan tiyan. Jucha kamachiq imaynachus kasqanta qhawarinqa, mana waliq kaqtinqa, mañasqata uyarinan tiyan, imaynachus kanan kasan chaymanjina ruwachinan tiyan.
+III. Juchachachikusqa kamachiqmanta willayta jap'iytawan, pachan tukuy uyarisaqtin juch'uy kamachiytaqa rimarikunqa; mana kay willay kaqtinqa, jucha tunpaq qilqasqakunata jaywasqanmanjina rimarinan tiyan. Jucha kamachiq imaynachus kasqanta qhawarinqa, mana waliq kaqtinqa, mañasqata uyarinan tiyan, imaynachus kanan kasan chaymanjina ruwachinan tiyan.
 
-- Kamachisqan  lluqsiqtinpacha,  iskay  chunka  tawa  phaniyuqpi  Tribunal  Constitucional Plurinacional  nisqaman  qhawarinanpaq  kamachisqanta  chayachinan  tiyan.  Pachan rimarisqanqata ruwana tiyan.
+IV. Kamachisqan lluqsiqtinpacha, iskay chunka tawa phaniyuqpi Tribunal Constitucional Plurinacional nisqaman qhawarinanpaq kamachisqanta chayachinan tiyan. Pachan rimarisqanqata ruwana tiyan.
 
-- Acción  de  Cumplimiento  nisqa  kamachisqanta,  mana  qhawaraspa  pachan  ruwana tiyan. Mana ruwayta munaqtinqa imatachus Acción de Libertad rimarisan chaymanjina ruwakunqa.  Kay  Juch'uy  kamachiy  nisqamanjina  jucha  kamachiq  mana  ruwaqtinqa, kamachiymanjina juchachasqa kanqa.
+V. Acción de Cumplimiento nisqa kamachisqanta, mana qhawaraspa pachan ruwana tiyan. Mana ruwayta munaqtinqa imatachus Acción de Libertad rimarisan chaymanjina ruwakunqa. Kay Juch'uy kamachiy nisqamanjina jucha kamachiq mana ruwaqtinqa, kamachiymanjina juchachasqa kanqa.
 
 ##### SUQTA KAQ RAK'IY ACCIÓN POPULARMANTA
 
 ###### Juch'uy kamachiy 135.
 
-Kay  Constitución  nisqapi  patrimonio  nisqamanta,  jallp'amanta,  seguridadmanta,  salud públicamanta ima, wakinkunamantawan derechosnin nisqata, intereses colectivos nisqata kamachiqkuna, manaqa runa, tukuy run mana uyariqtin, manaqa mana uyariyta munaqtinku ima Acción Popular nisqa kanan tiyan.
+Kay Constitución nisqapi patrimonio nisqamanta, jallp'amanta, seguridadmanta, salud públicamanta ima, wakinkunamantawan derechosnin nisqata, intereses colectivos nisqata kamachiqkuna, manaqa runa, tukuy run mana uyariqtin, manaqa mana uyariyta munaqtinku ima Acción Popular nisqa kanan tiyan.
 
 ###### Juch'uy kamachiy 136.
 
-- Derechos nisqata intereses colectivos nisqata ima mana uyarisaqtinku, manaqa mana ruwayta munasaqtinku Acción popular nisqata churaykuyta atinchis. Vía judicial manaqa Administrativa  nisqapi  mana  tukuchasqa  kaqtinpis  kay  acción  nisqata  churaykuyta atisunman.
+I. Derechos nisqata intereses colectivos nisqata ima mana uyarisaqtinku, manaqa mana ruwayta munasaqtinku Acción popular nisqata churaykuyta atinchis. Vía judicial manaqa Administrativa nisqapi mana tukuchasqa kaqtinpis kay acción nisqata churaykuyta atisunman.
 
-- Mayqin runapis sapan manaqa pikunaq sutinpipis Acción Popular nisqataqa churaykunman; Ministerio Público nisqawan Defensor del Pueblo nisqawantaq kaykunata riqsiqtinkuqa churaykunankupuni tiyan. Imaynatachus Acción de Amparo Constitucional nisqapaq ruwakun chayjinallatataq ruwakunan tiyan.
+II. Mayqin runapis sapan manaqa pikunaq sutinpipis Acción Popular nisqataqa churaykunman; Ministerio Público nisqawan Defensor del Pueblo nisqawantaq kaykunata riqsiqtinkuqa churaykunankupuni tiyan. Imaynatachus Acción de Amparo Constitucional nisqapaq ruwakun chayjinallatataq ruwakunan tiyan.
 
-Ministerio de la Presidencia - V.C.G.G
-
-##### PHISQA KAQ RAK'IY ACCIÓN CUMPLIMIENTOMANTA
-
-40
+##### SECCIÓN V ACCIÓN DE CUMPLIMIENTO
 
 ###### Artículo 134.
 
-- La  Acción  de  Cumplimiento  procederá  en  caso  de  incumplimiento  de  disposiciones constitucionales o de la ley por parte de servidores públicos, con el objeto de garantizar la ejecución de la norma omitida.
+I. La Acción de Cumplimiento procederá en caso de incumplimiento de disposiciones constitucionales o de la ley por parte de servidores públicos, con el objeto de garantizar la ejecución de la norma omitida.
 
-- La acción se interpondrá por la persona individual o colectiva afectada, o por otra a su nombre con poder suficiente, ante juez o tribunal competente, y se tramitará de la misma forma que la Acción de Amparo Constitucional.
+II. La acción se interpondrá por la persona individual o colectiva afectada, o por otra a su nombre con poder suficiente, ante juez o tribunal competente, y se tramitará de la misma forma que la Acción de Amparo Constitucional.
 
-- La  resolución  final  se  pronunciará  en  audiencia  pública,  inmediatamente  recibida  la información de la autoridad demandada y, a falta de ésta, lo hará sobre la base de la prueba que ofrezca el demandante. La autoridad judicial examinará los antecedentes y, si encuentra cierta y efectiva la demanda, declarará procedente la acción y ordenará el cumplimiento inmediato del deber omitido.
+III. La resolución final se pronunciará en audiencia pública, inmediatamente recibida la información de la autoridad demandada y, a falta de ésta, lo hará sobre la base de la prueba que ofrezca el demandante. La autoridad judicial examinará los antecedentes y, si encuentra cierta y efectiva la demanda, declarará procedente la acción y ordenará el cumplimiento inmediato del deber omitido.
 
-- La decisión se elevará, de oficio, en revisión ante el Tribunal Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo, sin que por ello se suspenda su ejecución.
+IV. La decisión se elevará, de oficio, en revisión ante el Tribunal Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo, sin que por ello se suspenda su ejecución.
 
-- La decisión final que conceda la Acción de Cumplimiento será ejecutada inmediatamente y sin observación. En caso de resistencia, se procederá de acuerdo con lo señalado en la Acción de Libertad. La autoridad judicial que no proceda conforme con lo dispuesto por este artículo quedará sujeta a las sanciones previstas por la ley.
+V. La decisión final que conceda la Acción de Cumplimiento será ejecutada inmediatamente y sin observación. En caso de resistencia, se procederá de acuerdo con lo señalado en la Acción de Libertad. La autoridad judicial que no proceda conforme con lo dispuesto por este artículo quedará sujeta a las sanciones previstas por la ley.
 
 ##### SECCIÓN VI ACCIÓN POPULAR
 
 ###### Artículo 135.
 
-La  Acción  Popular  procederá  contra  todo  acto  u  omisión  de  las  autoridades  o  de personas  individuales  o  colectivas  que  violen  o  amenacen  con  violar  derechos  e intereses  colectivos,  relacionados  con  el  patrimonio,  el  espacio,  la  seguridad  y salubridad pública, el medio ambiente y otros de similar naturaleza reconocidos por esta Constitución.
+La Acción Popular procederá contra todo acto u omisión de las autoridades o de personas individuales o colectivas que violen o amenacen con violar derechos e intereses colectivos, relacionados con el patrimonio, el espacio, la seguridad y salubridad pública, el medio ambiente y otros de similar naturaleza reconocidos por esta Constitución.
 
 ###### Artículo 136.
 
-- La Acción Popular podrá interponerse durante el tiempo que subsista la vulneración o la amenaza a los derechos e intereses colectivos. Para interponer esta acción no será necesario agotar la vía judicial o administrativa que pueda existir.
+I. La Acción Popular podrá interponerse durante el tiempo que subsista la vulneración o la amenaza a los derechos e intereses colectivos. Para interponer esta acción no será necesario agotar la vía judicial o administrativa que pueda existir.
 
-- Podrá interponer esta acción cualquier persona, a título individual o en representación de una colectividad y, con carácter obligatorio, el Ministerio Público y el Defensor del Pueblo, cuando por el ejercicio de sus funciones tengan conocimiento de estos actos. Se aplicará el procedimiento de la Acción de Amparo Constitucional.
+II. Podrá interponer esta acción cualquier persona, a título individual o en representación de una colectividad y, con carácter obligatorio, el Ministerio Público y el Defensor del Pueblo, cuando por el ejercicio de sus funciones tengan conocimiento de estos actos. Se aplicará el procedimiento de la Acción de Amparo Constitucional.
 
-##### SECCIÓN V ACCIÓN DE CUMPLIMIENTO
+Ministerio de la Presidencia - V.C.G.G
+
+40
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15717,37 +2893,35 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
+#### KINSA KAQ JUCH'UY PHATMA ESTADOS EXCEPCIÓNMANTA
+
 ###### Juch'uy kamachiy 137.
 
-Imachus  mana  kusa  Estado  nisqapaq  kasan,  imatachus  waq  suyumantapacha  ruwayta munasqanku, llaqtakuna, manaqa departamentos nisqakuna uqharikuqtinkuqa tukuy suyupaq, manaqa may chiqanpichus kanan kasan chaypaq Estado Kuraq Kamachiq estado de excepción nisqata rimariyta atin. Chaywanqa atiykunata, ni fundamentales atiykunatapis, juchachasqa kanantapis, willaykuna atiytapis, juchanmanta wisq'asqa runaqtapis atiynintapis mana qhiparichinmanchu.
+Imachus mana kusa Estado nisqapaq kasan, imatachus waq suyumantapacha ruwayta munasqanku, llaqtakuna, manaqa departamentos nisqakuna uqharikuqtinkuqa tukuy suyupaq, manaqa may chiqanpichus kanan kasan chaypaq Estado Kuraq Kamachiq estado de excepción nisqata rimariyta atin. Chaywanqa atiykunata, ni fundamentales atiykunatapis, juchachasqa kanantapis, willaykuna atiytapis, juchanmanta wisq'asqa runaqtapis atiynintapis mana qhiparichinmanchu.
 
 ###### Juch'uy kamachiy 138.
 
-- Estado de excepción nisqa rimarikusqamantapacha qanchis chunka iskay p'unchaypi Asamblea  Legislativa  Plurinacional,  atisqankumanjina,  mayk'a  p'unchaypaqchus estado de excepción  nisqa kanqa  chayta  qhawatinan  tiyan. Jinallatataq ima ruwaytachus  atinku  chaykunatapis  kamachinan  tiyan.  Kay  estado  de  excepción nisqawanqa,  Constitución  nisqapi  atiykuna  qilqasqa  kasan,  chaykunaqa  mana qhipakusqachu kanan tiyan.
+I. Estado de excepción nisqa rimarikusqamantapacha qanchis chunka iskay p'unchaypi Asamblea Legislativa Plurinacional, atisqankumanjina, mayk'a p'unchaypaqchus estado de excepción nisqa kanqa chayta qhawatinan tiyan. Jinallatataq ima ruwaytachus atinku chaykunatapis kamachinan tiyan. Kay estado de excepción nisqawanqa, Constitución nisqapi atiykuna qilqasqa kasan, chaykunaqa mana qhipakusqachu kanan tiyan.
 
-- Estado de excepción nisqa tukukuqtin mana qhipan watapi waq estado de excepción nisqa kanmanchu; legislativa nisqa kamachiqtinlla kanman.
+II. Estado de excepción nisqa tukukuqtin mana qhipan watapi waq estado de excepción nisqa kanmanchu; legislativa nisqa kamachiqtinlla kanman.
 
 ###### Juch'uy kamachiy 139.
 
-- Asamblea  Legislativa  Plurinacional  nisqapi  Ejecutivo  nisqa  imaraykuchus  estado  de excepción nisqata rimarinku, jinallatataq ima atiykunatachus Constitucionmanjina ruwanku, chaykunamanta rimarinan tiyan.
+I. Asamblea Legislativa Plurinacional nisqapi Ejecutivo nisqa imaraykuchus estado de excepción nisqata rimarinku, jinallatataq ima atiykunatachus Constitucionmanjina ruwanku, chaykunamanta rimarinan tiyan.
 
-- Pikunachus Constitucionpi atiykuna kasan chayta mana uyarinqankuchu chayqa, mana uyarisqankumanta juchachachikuyman yaykunqanku.
+II. Pikunachus Constitucionpi atiykuna kasan chayta mana uyarinqankuchu chayqa, mana uyarisqankumanta juchachachikuyman yaykunqanku.
 
-- Estado de excepción nisqaqa kamachiywan kamachisqa kanqa.
+III. Estado de excepción nisqaqa kamachiywan kamachisqa kanqa.
 
 ###### Juch'uy kamachiy 140.
 
-- Asamblea Legislativa Plurinacional, ni mayqin órgano nisqa, institución nisqa, tantasqa runa  ima  órgano  nisqaman  manaqa  runaman  kay  Constitución  nisqapi  mana  waq facultades extraordinarias nisqata kaqtinqa mana qunankuchu tiyan.
+I. Asamblea Legislativa Plurinacional, ni mayqin órgano nisqa, institución nisqa, tantasqa runa ima órgano nisqaman manaqa runaman kay Constitución nisqapi mana waq facultades extraordinarias nisqata kaqtinqa mana qunankuchu tiyan.
 
-- Poder  Público  nisqa  sumpremacía  nisqata  nitqa  jap'inmanchu,  nitaq  qukunmanchu, chayrayku kay Constitución nisqapi atiykuna, garantías nisq kasan, chaykunaqa órgano nisqalla manaqa runalla qhawarinan tiyan.
+II. Poder Público nisqa sumpremacía nisqata nitqa jap'inmanchu, nitaq qukunmanchu, chayrayku kay Constitución nisqapi atiykuna, garantías nisq kasan, chaykunaqa órgano nisqalla manaqa runalla qhawarinan tiyan.
 
-- Estado de excepción nisqa kasaqtinqa mana Constitución nisqata watiqmanta qhawariyta atikunmanchu.
+III. Estado de excepción nisqa kasaqtinqa mana Constitución nisqata watiqmanta qhawariyta atikunmanchu.
 
-Ministerio de la Presidencia - V.C.G.G
-
-#### KINSA KAQ JUCH'UY PHATMA ESTADOS EXCEPCIÓNMANTA
-
-41
+#### CAPÍTULO TERCERO ESTADOS DE EXCEPCIÓN
 
 ###### Artículo 137.
 
@@ -15755,29 +2929,31 @@ En caso de peligro para la seguridad del Estado, amenaza externa, conmoción int
 
 ###### Artículo 138.
 
-- La vigencia de la declaración del estado de excepción dependerá de la aprobación posterior  de  la Asamblea  Legislativa  Plurinacional,  que  tendrá  lugar  apenas  las circunstancias lo permitan y, en todo caso, dentro de las siguientes setenta y dos horas a la declaración del estado de excepción. La aprobación de la declaración indicará las facultades conferidas y guardará estricta relación y proporción con el caso de necesidad atendida por el estado de excepción. Los derechos consagrados en  la  Constitución  no  quedarán  en  general  suspendidos  por  la  declaración  del estado de excepción.
+I. La vigencia de la declaración del estado de excepción dependerá de la aprobación posterior de la Asamblea Legislativa Plurinacional, que tendrá lugar apenas las circunstancias lo permitan y, en todo caso, dentro de las siguientes setenta y dos horas a la declaración del estado de excepción. La aprobación de la declaración indicará las facultades conferidas y guardará estricta relación y proporción con el caso de necesidad atendida por el estado de excepción. Los derechos consagrados en la Constitución no quedarán en general suspendidos por la declaración del estado de excepción.
 
-- Una vez finalizado el estado de excepción, no podrá declararse otro estado de excepción dentro del siguiente año, salvo autorización legislativa previa.
+II. Una vez finalizado el estado de excepción, no podrá declararse otro estado de excepción dentro del siguiente año, salvo autorización legislativa previa.
 
 ###### Artículo 139.
 
-- El Ejecutivo rendirá cuentas a la Asamblea Legislativa Plurinacional de los motivos que dieron lugar a la declaración del estado de excepción, así como del uso que haya hecho de las facultades conferidas por la Constitución y la ley.
+I. El Ejecutivo rendirá cuentas a la Asamblea Legislativa Plurinacional de los motivos que dieron lugar a la declaración del estado de excepción, así como del uso que haya hecho de las facultades conferidas por la Constitución y la ley.
 
-- Quienes violen los derechos establecidos en esta Constitución serán objeto de proceso penal por atentado contra los derechos.
+II. Quienes violen los derechos establecidos en esta Constitución serán objeto de proceso penal por atentado contra los derechos.
 
-- Los estados de excepción serán regulados por la ley.
+III. Los estados de excepción serán regulados por la ley.
 
 ###### Artículo 140.
 
-- Ni la Asamblea Legislativa Plurinacional, ni ningún otro órgano o institución, ni asociación o  reunión  popular  de  ninguna  clase,  podrán  conceder  a  órgano  o  persona  alguna facultades extraordinarias diferentes a las establecidas en esta Constitución.
+I. Ni la Asamblea Legislativa Plurinacional, ni ningún otro órgano o institución, ni asociación o reunión popular de ninguna clase, podrán conceder a órgano o persona alguna facultades extraordinarias diferentes a las establecidas en esta Constitución.
 
-- No podrá acumularse el Poder Público, ni otorgarse supremacía por la que los derechos y garantías reconocidos en esta Constitución queden a merced de órgano o persona alguna.
+II. No podrá acumularse el Poder Público, ni otorgarse supremacía por la que los derechos y garantías reconocidos en esta Constitución queden a merced de órgano o persona alguna.
 
-- La reforma de la Constitución no podrá iniciarse mientras esté vigente un estado de excepción.
+III. La reforma de la Constitución no podrá iniciarse mientras esté vigente un estado de excepción.
+
+Ministerio de la Presidencia - V.C.G.G
+
+41
 
 Fundación Konrad Adenauer (KAS)
-
-#### CAPÍTULO TERCERO ESTADOS DE EXCEPCIÓN
 
 [[END OF PAGE 42]]
 
@@ -15793,73 +2969,73 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### Juch'uy kamachiy 141.
 
-- Yurikusqanchiswan manaqa naturalización nisqawan nacionalidad boliviana nisqataqa urqhuna.  Bolivia  jallp'api  yurikusqanchiswan  boliviano  kanchis;  waq  suyukupi  misión diplomático nisqapi llank'aqpaqta warmi wawan, qhari wawan  mana  bolivianos kankumanchu;  jinallataq  boliviano  mamayuq,  manaqa  boliviano  tatayuq  wawa  waq suyupi yurikuqtinqa nillataq boliviano kankumanchu.
+I. Yurikusqanchiswan manaqa naturalización nisqawan nacionalidad boliviana nisqataqa urqhuna. Bolivia jallp'api yurikusqanchiswan boliviano kanchis; waq suyukupi misión diplomático nisqapi llank'aqpaqta warmi wawan, qhari wawan mana bolivianos kankumanchu; jinallataq boliviano mamayuq, manaqa boliviano tatayuq wawa waq suyupi yurikuqtinqa nillataq boliviano kankumanchu.
 
 ###### Juch'uy kamachiy 142.
 
-- Estado qhawasqanmanjina, kinsa watatapuni kay suyullapi tiyakusqawan waq suyumanta runa kamachiy kasqanmanjina naturalización nisqanwan nacionalidad boliviana nisqtaqa urqhunman;  chantapis  pay  kikin  munasqanmanjina  nacionalidad  boliviana  nisqata rimarinan tiyan kamachiypijina requisitos nisqayuq ima kanan tiyan.
+I. Estado qhawasqanmanjina, kinsa watatapuni kay suyullapi tiyakusqawan waq suyumanta runa kamachiy kasqanmanjina naturalización nisqanwan nacionalidad boliviana nisqtaqa urqhunman; chantapis pay kikin munasqanmanjina nacionalidad boliviana nisqata rimarinan tiyan kamachiypijina requisitos nisqayuq ima kanan tiyan.
 
-- Jawa llaqtamanta warmikuna qharikuna iskay watallakama kay Boliviapi tiyakunkuman maypachachus:
+II. Jawa llaqtamanta warmikuna qharikuna iskay watallakama kay Boliviapi tiyakunkuman maypachachus:
 
-- Warmin,  qusan,  wawan  boliviano  kaqtin,  manaqa  bolivianowan  bolivianawan wawantajina riqsichikapuqtin.  Waq  suyumanta  runa  boliviano  warmiwan  qhariwan qusan wañupuqtin t'akakuqtin ciudadanianta qhichunqankuchu.
+1. Warmin, qusan, wawan boliviano kaqtin, manaqa bolivianowan bolivianawan wawantajina riqsichikapuqtin. Waq suyumanta runa boliviano warmiwan qhariwan qusan wañupuqtin t'akakuqtin ciudadanianta qhichunqankuchu.
 
-- Boliviapi kamachiymanjina servicio militar nisqata ruwaqtinku.
+2. Boliviapi kamachiymanjina servicio militar nisqata ruwaqtinku.
 
-- Kay  suyuman  junt'asqanmanta  Asamblea  Legislativa  Plurinacional  nacionalidad boliviana nisqata quqtin.
+3. Kay suyuman junt'asqanmanta Asamblea Legislativa Plurinacional nacionalidad boliviana nisqata quqtin.
 
-- Waq  suyukunawan  ayñi,  convenios  nisqa  kaqtin,  kay  suyupi  mayk'a  pachatachus tiyakunqa chayta qhawarina. Latinoamericanos nisqapaqraq qhawarina.
+III. Waq suyukunawan ayñi, convenios nisqa kaqtin, kay suyupi mayk'a pachatachus tiyakunqa chayta qhawarina. Latinoamericanos nisqapaqraq qhawarina.
 
 ###### Juch'uy kamachiy 143.
 
-- Waq suyumanta runawan bolivianakuna bolivianokuna sawarakuqtinqa, mana boliviano kasqanta  qhichuchikunqankuchu.  Ciudadanía  extranjera  nisqata  urqhuqtinpis  mana nacionalidad boliviana nisqataqa qhichuchikunqankuchu.
+I. Waq suyumanta runawan bolivianakuna bolivianokuna sawarakuqtinqa, mana boliviano kasqanta qhichuchikunqankuchu. Ciudadanía extranjera nisqata urqhuqtinpis mana nacionalidad boliviana nisqataqa qhichuchikunqankuchu.
 
-- Waq suyumanta runa nacionalidad boliviana nisqata urqhunqanku chayqa, maymantachus nacionalidad nisqayuq kasqanta mana qhichunankuchu tiyan.
+II. Waq suyumanta runa nacionalidad boliviana nisqata urqhunqanku chayqa, maymantachus nacionalidad nisqayuq kasqanta mana qhichunankuchu tiyan.
 
 #### ISKAY KAQ JUCH'UY PHATMA CIUDADANÍAMANTA
 
 ###### Juch'uy kamachiy 144.
 
-- Tukuy bolivianakuna  bolivianokuna  llaqta  runakuna  kanku;  mayqinpis  yachaqayninku, llank'ayninku kachun, manaqa imayuq kaqtinkupis, chunka pusaqniyuq watankumantapacha llaqta runajina imatachus ruwananku kasan chayta ruwayta atinku.
+I. Tukuy bolivianakuna bolivianokuna llaqta runakuna kanku; mayqinpis yachaqayninku, llank'ayninku kachun, manaqa imayuq kaqtinkupis, chunka pusaqniyuq watankumantapacha llaqta runajina imatachus ruwananku kasan chayta ruwayta atinku.
 
-Ministerio de la Presidencia - V.C.G.G
+### TÍTULO V NACIONALIDAD Y CIUDADANIA
 
-42
+#### CAPITULO I NACIONALIDAD
 
 ###### Artículo 141.
 
-- La nacionalidad boliviana se adquiere por nacimiento o por naturalización. Son bolivianas y bolivianos por nacimiento, las personas nacidas en el territorio boliviano, con excepción de  las  hijas  y  los  hijos  de  personal  extranjero  en  misión  diplomática;  y  las  personas nacidas en el extranjero, de madre boliviana o de padre boliviano.
+I. La nacionalidad boliviana se adquiere por nacimiento o por naturalización. Son bolivianas y bolivianos por nacimiento, las personas nacidas en el territorio boliviano, con excepción de las hijas y los hijos de personal extranjero en misión diplomática; y las personas nacidas en el extranjero, de madre boliviana o de padre boliviano.
 
 ###### Artículo 142.
 
-- Podrán  adquirir  la  nacionalidad  boliviana  por  naturalización  las  extranjeras  y  los extranjeros en situación legal, con más de tres años de residencia ininterrumpida en el país bajo supervisión del Estado, que manifiesten expresamente su voluntad de obtener la nacionalidad boliviana y cumplan con los requisitos establecidos en la ley.
+I. Podrán adquirir la nacionalidad boliviana por naturalización las extranjeras y los extranjeros en situación legal, con más de tres años de residencia ininterrumpida en el país bajo supervisión del Estado, que manifiesten expresamente su voluntad de obtener la nacionalidad boliviana y cumplan con los requisitos establecidos en la ley.
 
-- El tiempo de residencia se reducirá a dos años en el caso de extranjeras y extranjeros que se encuentren en una de las situaciones siguientes:
+II. El tiempo de residencia se reducirá a dos años en el caso de extranjeras y extranjeros que se encuentren en una de las situaciones siguientes:
 
-- Que tengan cónyuge boliviana o boliviano, hijas bolivianas o hijos bolivianos o padres sustitutos bolivianos. Las ciudadanas extranjeras o los ciudadanos extranjeros que adquieran la ciudadanía por matrimonio con ciudadanas bolivianas o ciudadanos bolivianos no la perderán en caso de viudez o divorcio.
+1. Que tengan cónyuge boliviana o boliviano, hijas bolivianas o hijos bolivianos o padres sustitutos bolivianos. Las ciudadanas extranjeras o los ciudadanos extranjeros que adquieran la ciudadanía por matrimonio con ciudadanas bolivianas o ciudadanos bolivianos no la perderán en caso de viudez o divorcio.
 
-- Que presten el servicio militar en Bolivia a la edad requerida y de acuerdo con la ley.
+2. Que presten el servicio militar en Bolivia a la edad requerida y de acuerdo con la ley.
 
-- Que, por su servicio al país, obtengan la nacionalidad boliviana concedida por la Asamblea Legislativa Plurinacional.
+3. Que, por su servicio al país, obtengan la nacionalidad boliviana concedida por la Asamblea Legislativa Plurinacional.
 
-- El  tiempo  de  residencia  para  la  obtención  de  la  nacionalidad  podrá  ser  modificado cuando existan, a título de reciprocidad, convenios con otros estados, prioritariamente latinoamericanos.
+III. El tiempo de residencia para la obtención de la nacionalidad podrá ser modificado cuando existan, a título de reciprocidad, convenios con otros estados, prioritariamente latinoamericanos.
 
 ###### Artículo 143.
 
-- Las bolivianas y los bolivianos que contraigan matrimonio con ciudadanas extranjeras o ciudadanos extranjeros no perderán su nacionalidad de origen. La nacionalidad boliviana tampoco se perderá por adquirir una ciudadanía extranjera.
+I. Las bolivianas y los bolivianos que contraigan matrimonio con ciudadanas extranjeras o ciudadanos extranjeros no perderán su nacionalidad de origen. La nacionalidad boliviana tampoco se perderá por adquirir una ciudadanía extranjera.
 
-- Las  extranjeras  o  los  extranjeros  que  adquieran  la  nacionalidad  boliviana  no  serán obligados a renunciar a su nacionalidad de origen.
+II. Las extranjeras o los extranjeros que adquieran la nacionalidad boliviana no serán obligados a renunciar a su nacionalidad de origen.
 
 #### CAPITULO II CIUDADANÍA
 
 ###### Artículo 144.
 
-- I Son ciudadanas y ciudadanos todas las bolivianas y todos los bolivianos, y ejercerán su ciudadanía a partir de los 18 años de edad, cualesquiera sean sus niveles de instrucción, ocupación o renta
+I. Son ciudadanas y ciudadanos todas las bolivianas y todos los bolivianos, y ejercerán su ciudadanía a partir de los 18 años de edad, cualesquiera sean sus niveles de instrucción, ocupación o renta
+
+Ministerio de la Presidencia - V.C.G.G
+
+42
 
 Fundación Konrad Adenauer (KAS)
-
-### TÍTULO V NACIONALIDAD Y CIUDADANIA
-
-#### CAPITULO I NACIONALIDAD
 
 [[END OF PAGE 43]]
 
@@ -15869,15 +3045,13 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Llaqta runa kayqa kayjina kasan:
+II. Llaqta runa kayqa kayjina kasan:
 
-- Ima aqllaypipis ch'ikllanman, manaqa mayqin órgano del poder público nisqapipis llank'ananpaq aqllachikunman.
+1. Ima aqllaypipis ch'ikllanman, manaqa mayqin órgano del poder público nisqapipis llank'ananpaq aqllachikunman.
 
-- 2.
+2. Imatachus kamachiypi nisan chaymanjina, yachayninmanjina mayllapipis llank'anqa.
 
-- Imatachus kamachiypi nisan chaymanjina, yachayninmanjina mayllapipis llank'anqa.
-
-- Yuchachakuqtin,  Constitución  nisqapi  iskay  chunka  pusaqniyuq  juch'uy  kamachiypi kasqanmanjina, llaqta runa kasqanta qhichuchikunqa.
+III. Yuchachakuqtin, Constitución nisqapi iskay chunka pusaqniyuq juch'uy kamachiypi kasqanmanjina, llaqta runa kasqanta qhichuchikunqa.
 
 ## ISKAY KAQ JATUN PHATMA ESTADOQ KAYNINMANTA. WAKICHIKUSQANMANTA IMA
 
@@ -15887,33 +3061,29 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### Juch'uy kamachiy 145.
 
-Asamblea Legislativa Plurinacional nisqaqa iskay Cámara nisqayuq: Cámara de Diputadosniyuqwan  Cámara  de  Senadoresniyuqwan,  Bolivia  jallp'a  suyupaq  kamachiykunata ruwanku.
+Asamblea Legislativa Plurinacional nisqaqa iskay Cámara nisqayuq: Cámara de Diputadosniyuqwan Cámara de Senadoresniyuqwan, Bolivia jallp'a suyupaq kamachiykunata ruwanku.
 
 ###### Juch'uy kamachiy 146.
 
-- Cámara de Diputados nisqaqa pachaq kinsa chinka kamachiqniyuqwan kanqa.
+I. Cámara de Diputados nisqaqa pachaq kinsa chunka kamachiqniyuqwan kanqa.
 
-- Sapa Departamento nisqapi, circunscripciones  uninominales nisqapi khuskan Diputados nisqa aqllasqa kanku. Kuskanatataq circunscripciones departamentales nisqapi aqllanku. Sutinkuqa Bolivia jatun kamachiq, juch'uy kamachiq, senadores nisqaqta ima phipanpi qilqaykusqa kanan tiyan.
+II. Sapa Departamento nisqapi, circunscripciones uninominales nisqapi khuskan Diputados nisqa aqllasqa kanku. Kuskanatataq circunscripciones departamentales nisqapi aqllanku. Sutinkuqa Bolivia jatun kamachiq, juch'uy kamachiq, senadores nisqaqta ima phipanpi qilqaykusqa kanan tiyan.
 
-- Ch'ikllaspa, pakaymanta tukuy diputados nisqata aqllanku. Circunscripciones uninominalespi pichus astawan ch'ikillasqa kaq chay atipaq. Circunscripciones plurinominalespiqa kamachiymanjina.
+III. Ch'ikllaspa, pakaymanta tukuy diputados nisqata aqllanku. Circunscripciones uninominalespi pichus astawan ch'ikillasqa kaq chay atipaq. Circunscripciones plurinominalespiqa kamachiymanjina.
 
-- Mayk'a  runachus  sapa  partido  nisqapaq,  agrupación  ciudadana  nisqapaq,  manaqa pueblos indígenas nisqapaq ima chuqanku chaymanjina Diputados nisqa kanqa.
+IV. Mayk'a runachus sapa partido nisqapaq, agrupación ciudadana nisqapaq, manaqa pueblos indígenas nisqapaq ima chuqanku chaymanjina Diputados nisqa kanqa.
 
-- Kamachiymanjina ñawpaq Censota qhawarisqa, mayk'a runayuqchus sapa departamento, chayta qhawarispa Órgano Electoral escaños nisqata qunqa. Kamachiy mayqin departamentokunachus pìsi runayuq kaqkunata chantapis mana askha qulqiyuq kaqkunata  mínimo  escaños  nisqata  qunqa.  Is  lluq'i  escaño  kanman  chayqa  escaños uninominalesta qunqa.
+V. Kamachiymanjina ñawpaq Censota qhawarisqa, mayk'a runayuqchus sapa departamento, chayta qhawarispa Órgano Electoral escaños nisqata qunqa. Kamachiy mayqin departamentokunachus pìsi runayuq kaqkunata chantapis mana askha qulqiyuq kaqkunata mínimo escaños nisqata qunqa. Is lluq'i escaño kanman chayqa escaños uninominalesta qunqa.
 
-- Ñawpaq Censo nisqamanjina, mayk'a runayuqchus sapa departamento, kamachiymanjina, chaykunata qhawarisqa, Órgano electoral nisqa sapa Departamento mayk'a  Diputadoyuqchus  kanqa  chayta  qhawarinan  tiyan.  Departamentos  ucchika runayuq manaqa mana ancha qulqiyuq kaqtinqa, jatun kamachiymanjina uk chhikkallatapis Diputados nisqata qunan tiyan. Mayqin Departamentopaqpis Diputados ch'ulla kaqtinqa Diputados uninominales nisqatapuni qunqa.
-
-Ministerio de la Presidencia - V.C.G.G
-
-43
+VI. Ñawpaq Censo nisqamanjina, mayk'a runayuqchus sapa departamento, kamachiymanjina, chaykunata qhawarisqa, Órgano electoral nisqa sapa Departamento mayk'a Diputadoyuqchus kanqa chayta qhawarinan tiyan. Departamentos ucchika runayuq manaqa mana ancha qulqiyuq kaqtinqa, jatun kamachiymanjina uk chhikkallatapis Diputados nisqata qunan tiyan. Mayqin Departamentopaqpis Diputados ch'ulla kaqtinqa Diputados uninominales nisqatapuni qunqa.
 
 II. La ciudadanía consiste:
 
-- En concurrir como elector o elegible a la formación y al ejercicio de funciones en los órganos del poder público, y
+1. En concurrir como elector o elegible a la formación y al ejercicio de funciones en los órganos del poder público, y
 
-- En el derecho a ejercer funciones públicas sin otro requisito que la idoneidad, salvo las excepciones establecidas en la Ley
+2. En el derecho a ejercer funciones públicas sin otro requisito que la idoneidad, salvo las excepciones establecidas en la Ley
 
-- Los derechos de ciudadanía se suspenden por las causales y en la forma prevista en el artículo 28 de esta Constitución.
+III. Los derechos de ciudadanía se suspenden por las causales y en la forma prevista en el artículo 28 de esta Constitución.
 
 ## SEGUNDA PARTE ESTRUCTURA Y ORGANIZACIÓN FUNCIONAL DEL ESTADO
 
@@ -15923,21 +3093,25 @@ II. La ciudadanía consiste:
 
 ###### Artículo 145.
 
-La  Asamblea  Legislativa  Plurinacional  está  compuesta  por  dos  cámaras,  la  Cámara  de Diputados y la Cámara de Senadores, y es la única con facultad de aprobar y sancionar leyes que rigen para todo el territorio boliviano.
+La Asamblea Legislativa Plurinacional está compuesta por dos cámaras, la Cámara de Diputados y la Cámara de Senadores, y es la única con facultad de aprobar y sancionar leyes que rigen para todo el territorio boliviano.
 
 ###### Artículo 146.
 
-- La Cámara de Diputados estará conformada por 130 miembros.
+I. La Cámara de Diputados estará conformada por 130 miembros.
 
-- II . En cada Departamento, se eligen la mitad de los Diputados en circunscripciones uninominales. La  otra  mitad  se  elige  en  circunscripciones  plurinominales  departamentales,  de  las  listas encabezadas por los candidatos a Presidente, Vicepresidente y Senadores de la República.
+II. En cada Departamento, se eligen la mitad de los Diputados en circunscripciones uninominales. La otra mitad se elige en circunscripciones plurinominales departamentales, de las listas encabezadas por los candidatos a Presidente, Vicepresidente y Senadores de la República.
 
-- Los Diputados son elegidos en votación universal, directa y secreta. En las circunscripciones uninominales por simple mayoría de sufragios. En las circunscripciones plurinominales mediante el sistema de representación que establece la ley.
+III. Los Diputados son elegidos en votación universal, directa y secreta. En las circunscripciones uninominales por simple mayoría de sufragios. En las circunscripciones plurinominales mediante el sistema de representación que establece la ley.
 
-- El número de Diputados debe reflejar la votación proporcional obtenida por cada partido, agrupación ciudadana o pueblo indígena.
+IV. El número de Diputados debe reflejar la votación proporcional obtenida por cada partido, agrupación ciudadana o pueblo indígena.
 
-- V . 	 	 La  distribución  del  total  de  escaños  entre  los  departamentos  se  determinará  por  el Órgano Electoral en base al número de habitantes de cada uno de ellos, de acuerdo al último Censo Nacional, de acuerdo a la Ley. Por equidad la ley asignará un número de escaños mínimo a los departamentos con menor población y menor grado de desarrollo económico. Si la distribución de escaños para cualquier departamento resultare impar, se dará preferencia a la asignación de escaños uninominales.
+V. La distribución del total de escaños entre los departamentos se determinará por el Órgano Electoral en base al número de habitantes de cada uno de ellos, de acuerdo al último Censo Nacional, de acuerdo a la Ley. Por equidad la ley asignará un número de escaños mínimo a los departamentos con menor población y menor grado de desarrollo económico. Si la distribución de escaños para cualquier departamento resultare impar, se dará preferencia a la asignación de escaños uninominales.
 
-- Las circunscripciones uninominales  deben  tener  continuidad  geográfica, afinidad y  continuidad  territorial,  no  trascender  los  límites  de  cada  departamento  y  basarse en  criterios  de  población  y  extensión  territorial.  El  Órgano  Electoral  delimitará  las circunscripciones uninominales.
+VI. Las circunscripciones uninominales deben tener continuidad geográfica, afinidad y continuidad territorial, no trascender los límites de cada departamento y basarse en criterios de población y extensión territorial. El Órgano Electoral delimitará las circunscripciones uninominales.
+
+Ministerio de la Presidencia - V.C.G.G
+
+43
 
 Fundación Konrad Adenauer (KAS)
 
@@ -15949,23 +3123,23 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Mayk'a  runayqchus  sapa  departamento,  chaymanjina  Circunscripciones  especiales indígena originaria campesinas kanaku tiyan. Mana Departamentospata tupunkumanta lluqsinankuchu tiyan. Kaykunaqa chaqra runa llaqtallapaq, mayqin departamentopichus Pueblos, indígena originario campesinos nisqa uchhika runayuq kanku chaykunapaqwan. Órgano Electoral nisqa circunscripciones especiales nisqata qhawanan tiyan.
+VII. Mayk'a runayqchus sapa departamento, chaymanjina Circunscripciones especiales indígena originaria campesinas kanaku tiyan. Mana Departamentospata tupunkumanta lluqsinankuchu tiyan. Kaykunaqa chaqra runa llaqtallapaq, mayqin departamentopichus Pueblos, indígena originario campesinos nisqa uchhika runayuq kanku chaykunapaqwan. Órgano Electoral nisqa circunscripciones especiales nisqata qhawanan tiyan.
 
 ###### Juch'uy kamachiy 147.
 
-- Asambleistas nisqa aqllaypiqa qharikuna warmikuna kikillantaq qallqasqa kanaku tiyan.
+I. Asambleistas nisqa aqllaypiqa qharikuna warmikuna kikillantaq qallqasqa kanaku tiyan.
 
-- Asambleístas aqllaypi pueblos originarios campesino kasqanmanjina aqllasqa kananku tiyan.
+II. Asambleístas aqllaypi pueblos originarios campesino kasqanmanjina aqllasqa kananku tiyan.
 
-- Kamachiyqa  circunscripciones especiales indígena originario  campesinos  nisqata qhawachinan  tiyan.  Chaypaqqa  mayk'a  runayuqchus  chaytaqa  mana  qhawarinanchu tiyan; chantapis jallp'anku kapunchus manachus chaytapis nillataq qhawarinqachu.
+III. Kamachiyqa circunscripciones especiales indígena originario campesinos nisqata qhawachinan tiyan. Chaypaqqa mayk'a runayuqchus chaytaqa mana qhawarinanchu tiyan; chantapis jallp'anku kapunchus manachus chaytapis nillataq qhawarinqachu.
 
 ###### Juch'uy kamachiy 148.
 
-- Cámara de Senadores nisqaqa kinsa chunka suqta kamachiqniyuq kanqa.
+I. Cámara de Senadores nisqaqa kinsa chunka suqta kamachiqniyuq kanqa.
 
-- Sapa departamento nisqapi circunscripción departamental nisqapi tawa kamachiqkunata aqllanqanku; tukuy, sapa uk mana pi qhawasaqtin ch'ikllanqa.
+II. Sapa departamento nisqapi circunscripción departamental nisqapi tawa kamachiqkunata aqllanqanku; tukuy, sapa uk mana pi qhawasaqtin ch'ikllanqa.
 
-- Kamachiymanjina  mayk'a  runayuqchus  kasqankuta  qhawarisqa,  sapa  departamento nisqa mayk'a kamachiyuqchus kanqa chayta qhawarinqanku.
+III. Kamachiymanjina mayk'a runayuqchus kasqankuta qhawarisqa, sapa departamento nisqa mayk'a kamachiyuqchus kanqa chayta qhawarinqanku.
 
 ###### Juch'uy kamachiy 149.
 
@@ -15973,35 +3147,33 @@ Asamblea Legislativa Plurinacional nisqapaq aqllachukunanakupaqqa chunka pusaq w
 
 ###### Juch'uy kamachiy 150.
 
-- Asamblea  Legislativa Plurinacional nisqaqa suplentes nisqayuq  kanqa.  Paykuna llank'aqtinkulla  qulqita  jap'irinqanku.  Imaynatachus  yaykunqanku  chaytaqa  kamachiy qhawarinan tiyan.
+I. Asamblea Legislativa Plurinacional nisqaqa suplentes nisqayuq kanqa. Paykuna llank'aqtinkulla qulqita jap'irinqanku. Imaynatachus yaykunqanku chaytaqa kamachiy qhawarinan tiyan.
 
-- Mana  waq  llaqta  llank'aypi  aqllasqakunaqa  llank'ayta  atinqankuchu;  llank'aqtinkuqa, manaña  Asamblea  nisqapi  llank'anqankuchu;  jatun  yachaywasillapi  yachachiqmanta llank'ayta atinku.
+II. Mana waq llaqta llank'aypi aqllasqakunaqa llank'ayta atinqankuchu; llank'aqtinkuqa, manaña Asamblea nisqapi llank'anqankuchu; jatun yachaywasillapi yachachiqmanta llank'ayta atinku.
 
-- Asambleistajina llank'ayninta saqiqtinqa manañapuni  kutiykunqachu; nillataq  waq chiqanpi llank'ananpaq licencia nisqa kanqachu.
+III. Asambleistajina llank'ayninta saqiqtinqa manañapuni kutiykunqachu; nillataq waq chiqanpi llank'ananpaq licencia nisqa kanqachu.
 
 ###### Juch'uy kamachiy 151.
 
-- Llank'ayta  tukuchanankukama  aqllasqakunataqa  llank'ananmanta  mana  maymanpis kuyuchinachu. Chaymantapis llank'aqatin tukuy ima parlasqanmanta, imallatapis willarisqanmanta, watuykunaman wakyachisqanmanta, ch'ataykusqanmanta, tukuy ima acto de legislación nisqata ruwasqanmanta rimarisqanmanta, fiscalización nisqata ruwasqanmanta mana penalmente yuchachachikunmanchu.
+I. Llank'ayta tukuchanankukama aqllasqakunataqa llank'ananmanta mana maymanpis kuyuchinachu. Chaymantapis llank'aqatin tukuy ima parlasqanmanta, imallatapis willarisqanmanta, watuykunaman wakyachisqanmanta, ch'ataykusqanmanta, tukuy ima acto de legislación nisqata ruwasqanmanta rimarisqanmanta, fiscalización nisqata ruwasqanmanta mana penalmente yuchachachikunmanchu.
 
-- Las circunscripciones especiales indígena originario campesinas, se regirán por el principio de  densidad  poblacional  en  cada  departamento.  No  deberán  trascender  los  límites departamentales. Se establecerán solamente en el área rural, y en aquellos departamentos en  los  que  estos  pueblos  y  naciones  indígena  originario  campesinos  constituyan  una minoría  poblacional.  El  Órgano  Electoral  determinará  las  circunscripciones  especiales. Estas circunscripciones forman parte del número total de diputados.
-
-44
+VII. Las circunscripciones especiales indígena originario campesinas, se regirán por el principio de densidad poblacional en cada departamento. No deberán trascender los límites departamentales. Se establecerán solamente en el área rural, y en aquellos departamentos en los que estos pueblos y naciones indígena originario campesinos constituyan una minoría poblacional. El Órgano Electoral determinará las circunscripciones especiales. Estas circunscripciones forman parte del número total de diputados.
 
 ###### Artículo 147.
 
-- En la elección de asambleístas se garantizará la igual participación de hombres y mujeres.
+I. En la elección de asambleístas se garantizará la igual participación de hombres y mujeres.
 
-- En  la  elección  de  asambleístas  se  garantizará  la  participación  proporcional  de  las naciones y pueblos indígena originario campesinos.
+II. En la elección de asambleístas se garantizará la participación proporcional de las naciones y pueblos indígena originario campesinos.
 
-- La  ley  determinará  las  circunscripciones  especiales  indígena  originario  campesinas, donde no deberán ser considerados como  criterios condicionales la densidad poblacional, ni la continuidad geográfica.
+III. La ley determinará las circunscripciones especiales indígena originario campesinas, donde no deberán ser considerados como criterios condicionales la densidad poblacional, ni la continuidad geográfica.
 
 ###### Artículo 148.
 
-- La Cámara de Senadores estará conformada por un total de 36 miembros.
+I. La Cámara de Senadores estará conformada por un total de 36 miembros.
 
-- En cada departamento se eligen  4  Senadores  en  circunscripción  departamental,  por votación universal, directa y secreta.
+II. En cada departamento se eligen 4 Senadores en circunscripción departamental, por votación universal, directa y secreta.
 
-- III . 	 La asignación de los escaños de Senadores en cada departamento se hará mediante el sistema proporcional, de acuerdo a la Ley.
+III. La asignación de los escaños de Senadores en cada departamento se hará mediante el sistema proporcional, de acuerdo a la Ley.
 
 ###### Artículo 149.
 
@@ -16009,17 +3181,19 @@ Para ser candidata o candidato a la Asamblea Legislativa Plurinacional se requer
 
 ###### Artículo 150.
 
-- La  Asamblea  Legislativa  Plurinacional  contará  con  asambleístas  suplentes  que  no percibirán remuneración salvo en los casos en que efectivamente realicen suplencia. La ley determinará la forma de sustitución de sus integrantes.
+I. La Asamblea Legislativa Plurinacional contará con asambleístas suplentes que no percibirán remuneración salvo en los casos en que efectivamente realicen suplencia. La ley determinará la forma de sustitución de sus integrantes.
 
-- Los asambleístas no podrán desempeñar ninguna otra función pública, bajo pena de perder su mandato, excepto la docencia universitaria.
+II. Los asambleístas no podrán desempeñar ninguna otra función pública, bajo pena de perder su mandato, excepto la docencia universitaria.
 
-- La renuncia al cargo de asambleísta será definitiva, sin que puedan tener lugar licencias ni suplencias temporales con el propósito de desempeñar otras funciones.
+III. La renuncia al cargo de asambleísta será definitiva, sin que puedan tener lugar licencias ni suplencias temporales con el propósito de desempeñar otras funciones.
 
 ###### Artículo 151.
 
-- Las  asambleístas  y  los  asambleístas  gozarán  de  inviolabilidad  personal  durante  el tiempo de su mandato y con posterioridad a éste, por las opiniones, comunicaciones, representaciones, requerimientos, interpelaciones, denuncias, propuestas, expresiones o cualquier acto de legislación, información o fiscalización que formulen o realicen en el desempeño de sus funciones no podrán ser procesados penalmente.
+I. Las asambleístas y los asambleístas gozarán de inviolabilidad personal durante el tiempo de su mandato y con posterioridad a éste, por las opiniones, comunicaciones, representaciones, requerimientos, interpelaciones, denuncias, propuestas, expresiones o cualquier acto de legislación, información o fiscalización que formulen o realicen en el desempeño de sus funciones no podrán ser procesados penalmente.
 
 Ministerio de la Presidencia - V.C.G.G
+
+44
 
 Fundación Konrad Adenauer (KAS)
 
@@ -16031,56 +3205,59 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- May wasipichus Asambleistas nisqa tiyakusanku, chay wasita ni pipis ni imatapis ruwayta atinmanchu. Nitaq pipis wasinman imallatapis urqhuq manaqa mana mayk'aq yaykuyta atinmanchu. Jinallataq purisqan awtunpaqpis, llank'ananpipis kanan tiyan.
+II. May wasipichus Asambleistas nisqa tiyakusanku, chay wasita ni pipis ni imatapis ruwayta atinmanchu. Nitaq pipis wasinman imallatapis urqhuq manaqa mana mayk'aq yaykuyta atinmanchu. Jinallataq purisqan awtunpaqpis, llank'ananpipis kanan tiyan.
 
 ###### Juch'uy kamachiy 152.
 
-Aqllasqakunaqa mana inmunidad nisqayuq kanqanku. Llank'asaqtinkuqa juchachasaqtinkuqa mana  medidas  cautelar  nisqayuq  kanqa.  Juchachasqapuni  kaqtinqa  medidas  cautelar nisqayuq kanqa.
+Aqllasqakunaqa mana inmunidad nisqayuq kanqanku. Llank'asaqtinkuqa juchachasaqtinkuqa mana medidas cautelar nisqayuq kanqa. Juchachasqapuni kaqtinqa medidas cautelar nisqayuq kanqa.
 
 ###### Juch'uy kamachiy 153.
 
-I. Estado Sullk'a Kamachiq Asamblea Legislativa Plurinacional nisqata puririchinqa. II. Sapa wata suqta p'unchay agosto killapi sesiones ordinarias nisqaqa qallarikunqa. III. Sapa p'unchay Asamblea Legislativa  Plurinacional  nisqaqta  tantakuynin  kanqa.  Sapa wata iskay samayniyuq kanqa; sapa uk sapa chunka pisqa p'unchaymanta kanqa. IV.	 Plenaria  nisqa  kamachisqanmanjina,  kamachiqnin  wakyasqamanja  Estado  ukhupi,
+I. Estado Sullk'a Kamachiq Asamblea Legislativa Plurinacional nisqata puririchinqa.
 
-- mayllapipis, Asamblea Legislativa Plurinacional nisqa llank'anqa.
+II. Sapa wata suqta p'unchay agosto killapi sesiones ordinarias nisqaqa qallarikunqa.
+
+III. Sapa p'unchay Asamblea Legislativa Plurinacional nisqaqta tantakuynin kanqa. Sapa wata iskay samayniyuq kanqa; sapa uk sapa chunka pisqa p'unchaymanta kanqa.
+
+IV. Plenaria nisqa kamachisqanmanjina, kamachiqnin wakyasqamanja Estado ukhupi, mayllapipis, Asamblea Legislativa Plurinacional nisqa llank'anqa.
 
 ###### Juch'uy kamachiy 154.
 
-Cámara  de Diputados nisqa kamachisqanmanjina samaypi Comisión de  Asamblea nisqa  llank'anqa.  Ima  urgencia  kaqtinqa Asamblea  kuraq  kamachiq  manaqa  Bolivia  suyu kuraq  kamachiq  llank'anankupaq  aqllasqakunata  wakyachiyta  atin.  Ima  parlanapaqchus wayjachinku chayllata parlarinqanku.
+Cámara de Diputados nisqa kamachisqanmanjina samaypi Comisión de Asamblea nisqa llank'anqa. Ima urgencia kaqtinqa Asamblea kuraq kamachiq manaqa Bolivia suyu kuraq kamachiq llank'anankupaq aqllasqakunata wakyachiyta atin. Ima parlanapaqchus wayjachinku chayllata parlarinqanku.
 
 ###### Juch'uy kamachiy 155.
 
-Suqta p'unchay agosto killapi Capital de Bolivia nisqapi Asamblea Legislativa Plurinacional nisqa  llank'ayta  qallarinqa.  Asamblea  kuraq  kamachiq,  maypichus  llank'anqanku  chayta qhawariyta atin.
+Suqta p'unchay agosto killapi Capital de Bolivia nisqapi Asamblea Legislativa Plurinacional nisqa llank'ayta qallarinqa. Asamblea kuraq kamachiq, maypichus llank'anqanku chayta qhawariyta atin.
 
 ###### Juch'uy kamachiy 156.
 
-Phisqa  watata  aqllasqakunaqa  llank'anqanku.  Qhipan  aqllaypi  paykunata  watiqmanta uktawan aqllasunman.
+Phisqa watata aqllasqakunaqa llank'anqanku. Qhipan aqllaypi paykunata watiqmanta uktawan aqllasunman.
 
 ###### Juch'uy kamachiy 157.
 
-Kamachiymanjina,  aqllasqa  wañuqtin,  mana  llak'ayta  munaqtin  revocatoria  de  mandato nisqawan,  juchanmanta  kamachiykunawan,  suqta  p'unchayta  mana  llank'ananmna  riqtin, watapi chunka ukniyuq p'unchayta mana llank'aqtin, llank'ananta qhichuchikunqa.
+Kamachiymanjina, aqllasqa wañuqtin, mana llak'ayta munaqtin revocatoria de mandato nisqawan, juchanmanta kamachiykunawan, suqta p'unchayta mana llank'ananmna riqtin, watapi chunka ukniyuq p'unchayta mana llank'aqtin, llank'ananta qhichuchikunqa.
 
 ###### Juch'uy kamachiy 158.
 
-- Constitución nisqamanjina chantapis kamachinamanjina Asamblea Legislativa Plurinacional  nisqa  imatachus  ruwaman  kasan  chaymanjina  ruwanqa.  Jinallatataq Asamblea Legislativa Plurinacional nisqaqa kaykunata ruwanan tiyan:
+I. Constitución nisqamanjina chantapis kamachinamanjina Asamblea Legislativa Plurinacional nisqa imatachus ruwaman kasan chaymanjina ruwanqa. Jinallatataq Asamblea Legislativa Plurinacional nisqaqa kaykunata ruwanan tiyan:
 
-- Mayk'a qulqitachus llank'anankupaq munanku, imapichus t'akananku kasan, chaykunata  qhararinan  tiyan;  maypichus,  pikunachus  llank'anqanku  chaytapis qhawarinan tiyan; jinallatataq qulqinkuta, imaynatachus chay ukhupi kamachiyninku kasan chaykunatapis qhawarinan tiyan.
+1. Mayk'a qulqitachus llank'anankupaq munanku, imapichus t'akananku kasan, chaykunata qhararinan tiyan; maypichus, pikunachus llank'anqanku chaytapis qhawarinan tiyan; jinallatataq qulqinkuta, imaynatachus chay ukhupi kamachiyninku kasan chaykunatapis qhawarinan tiyan.
 
-- El domicilio, la residencia o la habitación de las asambleístas y los asambleístas serán inviolables,  y  no  podrán  ser  allanados  en  ninguna  circunstancia.  Esta  previsión  se aplicará a los vehículos de su uso particular u oficial y a las oficinas de uso legislativo.
-
-45
+II. El domicilio, la residencia o la habitación de las asambleístas y los asambleístas serán inviolables, y no podrán ser allanados en ninguna circunstancia. Esta previsión se aplicará a los vehículos de su uso particular u oficial y a las oficinas de uso legislativo.
 
 ###### Artículo 152.
+
 Las asambleístas y los asambleístas no gozarán de inmunidad. Durante su mandato, en los procesos penales, no se les aplicará la medida cautelar de la detención preventiva, salvo delito flagrante.
 
 ###### Artículo 153.
 
-- La  Vicepresidenta  o  el  Vicepresidente  del  Estado  presidirá  la  Asamblea  Legislativa Plurinacional.
+I. La Vicepresidenta o el Vicepresidente del Estado presidirá la Asamblea Legislativa Plurinacional.
 
-- Las sesiones ordinarias de la Asamblea Legislativa Plurinacional serán inauguradas el 6 de Agosto de cada año.
+II. Las sesiones ordinarias de la Asamblea Legislativa Plurinacional serán inauguradas el 6 de Agosto de cada año.
 
-- Las sesiones ordinarias de la Asamblea Legislativa Plurinacional serán permanentes y contarán con dos recesos de quince días cada uno, por año.
+III. Las sesiones ordinarias de la Asamblea Legislativa Plurinacional serán permanentes y contarán con dos recesos de quince días cada uno, por año.
 
-- La Asamblea Legislativa Plurinacional  podrá  sesionar  en  un  lugar  distinto  al  habitual dentro  el  territorio  del  Estado,  por  decisión  de  la  Plenaria  y  a  convocatoria  de  su Presidenta o Presidente.
+IV. La Asamblea Legislativa Plurinacional podrá sesionar en un lugar distinto al habitual dentro el territorio del Estado, por decisión de la Plenaria y a convocatoria de su Presidenta o Presidente.
 
 ###### Artículo 154.
 
@@ -16096,15 +3273,17 @@ El tiempo del mandato de las y los asambleístas es de cinco años pudiendo ser 
 
 ###### Artículo 157.
 
-El mandato de asambleísta se pierde por fallecimiento, renuncia, revocatoria de mandato, sentencia  condenatoria  ejecutoriada  en  causas  penales  o  abandono  injustificado  de sus funciones por más de seis días de trabajo continuos y once discontinuos en el año, calificados de acuerdo con el Reglamento.
+El mandato de asambleísta se pierde por fallecimiento, renuncia, revocatoria de mandato, sentencia condenatoria ejecutoriada en causas penales o abandono injustificado de sus funciones por más de seis días de trabajo continuos y once discontinuos en el año, calificados de acuerdo con el Reglamento.
 
 ###### Artículo 158.
 
-- Son atribuciones de la Asamblea Legislativa Plurinacional, además de las que determina esta Constitución y la ley:
+I. Son atribuciones de la Asamblea Legislativa Plurinacional, además de las que determina esta Constitución y la ley:
 
-- Aprobar  autónomamente  su  presupuesto  y  ejecutarlo;  nombrar  y  remover  a  su personal administrativo, y atender todo lo relativo a su economía y régimen interno.
+1. Aprobar autónomamente su presupuesto y ejecutarlo; nombrar y remover a su personal administrativo, y atender todo lo relativo a su economía y régimen interno.
 
 Ministerio de la Presidencia - V.C.G.G
+
+45
 
 Fundación Konrad Adenauer (KAS)
 
@@ -16116,107 +3295,91 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-46
+2. Llank'asqankumanta aqllasqakunaman mayk'a qulqitachus quna kasan chayta qhawarinqa. Estado Sullk'a Kamachiq llank'asqanmanta qulqi jap'isqanmanjina aqllasqakunaq qulqi jap'inanchu tiyan.
+
+3. Kamachiykunata qunanku, umanchakunanku, chinkarichinanku, manaqa waqjinamanta qilqaykunan tiyan.
+
+4. Órgano Electoral Plurinacionalmanta iskay tercios chuqasqawan suqta runata aqllana.
+
+5. Tribunal Constitucional Plurinacionalpaq Tribunal de Justiciapaq Tribunal Agroambientalpaq Tribunal Agroambientalpaq, Consejo de Magistraturapaq ima pikunachus kamachiqjina aqllasqa kanqanku chayta ñawpaqta qhawarinqa.
+
+6. Constitución nisqamanjina, kamachiymanjina musuq jallp'a kananta, mujunninta ima qhawanqa.
+
+7. Órgano Ejecutivo nisqa plan de desarrollo económicowan socialwan jaywaqanta qhawanan tiyan.
+
+8. Qulqi, manuchakuykua, imayuqchus Estado chayta qhawarinapaqpis kamachiykunata ruwanan tiyan; jinallataq imatachus runa munasqanmanjina llaqtapaq ruwanqanku recursos estatales de crédito publicowan subvencionkunawan, chaykunatapis qhawarinapaqpis kamachiykunata ruwanan tiyan.
+
+9. Llaqta runa qulqita munaqtinpuniqa, medidas económicas estatales nisqata qhawanan tiyan.
+
+10. Estadoq rentasninwan contratación de empréstitos nisqata ruwakuy atiyninta nin, jinatallataq jatun yachay wasikunapaq kanqa.
+
+11. Órgano Ejecutivo nisqa Presupuesto Nacional del Estado nisqa jaywasqanta qhawanan tiyan. Kay kamachina wakichisqata jap'ispa, suqta chunka p'unchaypi Asamblea Legislativa Plurinacional nisqapi qhawana tiyan. Mana kay p'unchaykunapi aprobakuqtinqa, kay wakichisqaqa aprobasqajinaña kanqa.
+
+12. Runapaq recursos naturales nisqamanta áreas estrategias nisqamanta wakichisqa waliq kaqtinqa, aprobanan tiyan. Kayqa Órgano Ejecutivo nisqawan firmasqa kanan tiyan.
+
+13. Mana pipis Estadoq kapuyninta qhichunmanchu.
+
+14. Kay Constitución kasqanmanjina Ejecutivo nisqa jawa suyukanawan llank'aykunata qhawarinan tiyan.
+
+15. Imaynachus qulqi kanqa chayta qhawarinan tiyan.
+
+16. Sistema de medidas nisata qhawarinan tiyan.
+
+17. Órgano Estadoqpata ruwayninta, instituciones públicas ruwayninta ima qhawarinan tiyan.
+
+18. Mayqin asambleísta mañasqanmanjina Estado Ministrakunata Ministrokunata sapa ukta manaqa ukllapi waturinqanku; iskay tercio nisqa aqllasqakunawantaq uk sanción nisqata qunqanku. Mayqin Cámara nisqapis watunankupaq mañayta atin. Ministra, Ministro nisqata juchanmanta urqhunkuman.
+
+19. Comisión manaqa comisiones aqllasqakunawan investigaciones nisqata ruwananku tiyan, ama órganos competentes nisqata qhipachaspama mask'arinaku tiyan.
+
+20. Estado Empresas nisqaman, empresas de capital mixto nisqaman qulqi qusqanta qhawarinan tiyan.
+
+21. Tropas militares, armamento, material bélico nisqa lluqsinanta qhawarinan tiyan; imaraykuchus, mayk'a pachapaqchus lluqsisan chaykunatapis qhawarinan tiyan.
+
+2. Fijar la remuneración de las asambleístas y los asambleístas, que en ningún caso será superior al de la Vicepresidenta o Vicepresidente del Estado. Se prohíbe percibir cualquier ingreso adicional por actividad remunerada.
+
+3. Dictar leyes, interpretarlas, derogarlas, abrogarlas y modificarlas.
+
+4. Elegir a seis de los miembros del Órgano Electoral Plurinacional, por dos tercios de votos de sus miembros presentes.
+
+5. Preseleccionar a las candidatas y a los candidatos para la conformación del Tribunal Constitucional Plurinacional, Tribunal Supremo de Justicia, Tribunal Agroambiental y Consejo de la Magistratura.
+
+6. Aprobar la creación de nuevas unidades territoriales y establecer sus límites, de acuerdo con la Constitución y con la ley.
+
+7. Aprobar el plan de desarrollo económico y social presentado por el Órgano Ejecutivo.
+
+8. Aprobar leyes en materia de presupuestos, endeudamiento, control y fiscalización de recursos estatales de crédito público y subvenciones, para la realización de obras públicas y de necesidad social.
+
+9. Decidir las medidas económicas estatales imprescindibles en caso de necesidad pública.
+
+10. Aprobar la contratación de empréstitos que comprometan las rentas generales del Estado y autorizar a las universidades la contratación de empréstitos.
+
+11. Aprobar el Presupuesto General del Estado presentado por el Órgano Ejecutivo. Recibido el proyecto de ley, éste deberá ser considerado en la Asamblea Legislativa Plurinacional dentro del término de sesenta días. En caso de no ser aprobado en este plazo, el proyecto se dará por aprobado.
+
+12. Aprobar los contratos de interés público referidos a recursos naturales y áreas estratégicas, firmados por el Órgano Ejecutivo.
+
+13. Aprobar la enajenación de bienes de dominio público del Estado.
+
+14. Ratificar los tratados internacionales celebrados por el Ejecutivo, en las formas establecidas por esta Constitución.
+
+15. Establecer el sistema monetario.
+
+16. Establecer el sistema de medidas.
+
+17. Controlar y fiscalizar los órganos del Estado y las instituciones públicas.
+
+18. Interpelar, a iniciativa de cualquier asambleísta, a las Ministras o los Ministros de Estado, individual o colectivamente, y acordar la censura por dos tercios de los miembros de la Asamblea. La interpelación podrá ser promovida por cualquiera de las Cámaras. La censura implicará la destitución de la Ministra o del Ministro.
+
+19. Realizar investigaciones en el marco de sus atribuciones fiscalizadoras, mediante la comisión o comisiones elegidas para el efecto, sin perjuicio del control que realicen los órganos competentes.
+
+20. Controlar y fiscalizar las empresas públicas, las de capital mixto y toda entidad en la que tenga participación económica el Estado.
+
+21. Autorizar la salida de tropas militares, armamento y material bélico del territorio del Estado, y determinar el motivo y tiempo de su ausencia.
 
 Ministerio de la Presidencia - V.C.G.G
 
+46
+
 Fundación Konrad Adenauer (KAS)
-
-- Fijar la remuneración de las asambleístas y los asambleístas, que en ningún caso será  superior  al  de  la  Vicepresidenta  o  Vicepresidente  del  Estado.  Se  prohíbe percibir cualquier ingreso adicional por actividad remunerada.
-
-- Dictar leyes, interpretarlas, derogarlas, abrogarlas y modificarlas.
-
-- Elegir a seis de los miembros del Órgano Electoral Plurinacional, por dos tercios de votos de sus miembros presentes.
-
-- Preseleccionar a las candidatas y a los candidatos para la conformación del Tribunal Constitucional Plurinacional, Tribunal Supremo de Justicia, Tribunal Agroambiental y Consejo de la Magistratura.
-
-- Aprobar la creación de nuevas unidades territoriales y establecer sus límites,  de acuerdo con la Constitución y con la ley.
-
-- Aprobar el plan de desarrollo económico y social presentado por el Órgano Ejecutivo.
-
-- Aprobar leyes en materia de presupuestos, endeudamiento, control y fiscalización de recursos estatales de crédito público y subvenciones, para la realización de obras públicas y de necesidad social.
-
-- Decidir  las  medidas  económicas  estatales  imprescindibles  en  caso  de  necesidad pública.
-
-- Aprobar la contratación de empréstitos que comprometan las rentas generales del Estado y autorizar a las universidades la contratación de empréstitos.
-
-- Aprobar  el  Presupuesto  General  del  Estado  presentado  por  el  Órgano  Ejecutivo. Recibido el proyecto de ley, éste deberá ser considerado en la Asamblea Legislativa Plurinacional dentro del término de sesenta días. En caso de no ser aprobado en este plazo, el proyecto se dará por aprobado.
-
-- Aprobar  los  contratos  de  interés  público  referidos  a  recursos  naturales  y  áreas estratégicas, firmados por el Órgano Ejecutivo.
-
-- Aprobar la enajenación de bienes de dominio público del Estado.
-
-- Ratificar  los  tratados  internacionales  celebrados  por  el  Ejecutivo,  en  las  formas establecidas por esta Constitución.
-
-- Establecer el sistema monetario.
-
-- Establecer el sistema de medidas.
-
-- Controlar y fiscalizar los órganos del Estado y las instituciones públicas.
-
-- Interpelar, a iniciativa de cualquier asambleísta, a las Ministras o los Ministros de Estado, individual o colectivamente, y acordar la censura por dos tercios de  los  miembros  de  la Asamblea.  La  interpelación  podrá  ser  promovida  por cualquiera de las Cámaras. La censura implicará la destitución de la Ministra o del Ministro.
-
-- Realizar investigaciones en el marco de sus atribuciones fiscalizadoras, mediante la comisión o comisiones elegidas para el efecto, sin perjuicio del control que realicen los órganos competentes.
-
-- Controlar y fiscalizar las empresas públicas, las de capital mixto y toda entidad en la que tenga participación económica el Estado.
-
-- Autorizar la salida de tropas militares, armamento y material bélico del territorio del Estado, y determinar el motivo y tiempo de su ausencia.
-
-- Llank'asqankumanta  aqllasqakunaman  mayk'a  qulqitachus  quna  kasan  chayta qhawarinqa.  Estado  Sullk'a  Kamachiq  llank'asqanmanta  qulqi  jap'isqanmanjina aqllasqakunaq qulqi jap'inanchu tiyan.
-
-- Kamachiykunata qunanku, umanchakunanku, chinkarichinanku, manaqa waqjinamanta qilqaykunan tiyan.
-
-- Órgano Electoral Plurinacionalmanta iskay tercios chuqasqawan suqta runata aqllana.
-
-- Tribunal Constitucional Plurinacionalpaq Tribunal de Justiciapaq Tribunal Agroambientalpaq  Tribunal  Agroambientalpaq,  Consejo  de  Magistraturapaq  ima pikunachus kamachiqjina aqllasqa kanqanku chayta ñawpaqta qhawarinqa.
-
-- Constitución nisqamanjina, kamachiymanjina musuq jallp'a kananta, mujunninta ima qhawanqa.
-
-- Órgano  Ejecutivo  nisqa  plan  de  desarrollo  económicowan  socialwan  jaywaqanta qhawanan tiyan.
-
-- Qulqi,  manuchakuykua,  imayuqchus  Estado  chayta  qhawarinapaqpis  kamachiykunata ruwanan tiyan; jinallatataq imatachus runa munasqanmanjina llaqtapaq ruwanqanku recursos  estatales  de  crédito  publicowan  subvencionkunawan,  chaykunatapis qhawarinapaqpis kamachiykunata ruwanan tiyan.
-
-- Llaqta runa qulqita munaqtinpuniqa, medidas económicas estatales nisqata qhawanan tiyan.
-
-- Estadoq  rentasninwan  contratación  de  empréstitos  nisqata  ruwakuy  atiyninta  nin, jinatallataq jatun yachay wasikunapaq kanqa.
-
-- Órgano  Ejecutivo  nisqa  Presupuesto  Nacional  del  Estado  nisqa  jaywasqanta qhawanan  tiyan.  Kay  kamachina  wakichisqata  jap'ispa,  suqta  chunka  p'unchaypi Asamblea Legislativa Plurinacional nisqapi qhawana tiyan. Mana kay p'unchaykunapi aprobakuqtinqa, kay wakichisqaqa aprobasqajinaña kanqa.
-
-- Runapaq recursos naturales nisqamanta áreas estrategias nisqamanta wakichisqa waliq kaqtinqa, aprobanan tiyan. Kayqa Órgano Ejecutivo nisqawan firmasqa kanan tiyan.
-
-- Mana pipis Estadoq kapuyninta qhichunmanchu.
-
-- Kay Constitución kasqanmanjina Ejecutivo nisqa jawa suyukanawan llank'aykunata qhawarinan tiyan.
-
-- Imaynachus qulqi kanqa chayta qhawarinan tiyan.
-
-- Sistema de medidas nisata qhawarinan tiyan.
-
-- Órgano Estadoqpata ruwayninta, instituciones públicas ruwayninta ima qhawarinan tiyan.
-
-18.	 Mayqin
-
-asambleísta
-
-mañasqanmanjina
-
-Estado
-
-Ministrakunata
-
-Ministrokunata
-
-sapa ukta manaqa ukllapi waturinqanku; iskay tercio nisqa aqllasqakunawantaq uk
-
-sanción nisqata qunqanku. Mayqin Cámara nisqapis watunankupaq mañayta atin.
-
-Ministra, Ministro nisqata juchanmanta urqhunkuman.
-
-- Comisión manaqa comisiones aqllasqakunawan investigaciones nisqata ruwananku tiyan, ama órganos competentes nisqata qhipachaspama mask'arinaku tiyan.
-
-- Estado Empresas nisqaman, empresas de capital mixto nisqaman qulqi qusqanta qhawarinan tiyan.
-
-- Tropas  militares,  armamento,  material  bélico  nisqa  lluqsinanta  qhawarinan  tiyan; imaraykuchus, mayk'a pachapaqchus lluqsisan chaykunatapis qhawarinan tiyan.
 
 [[END OF PAGE 47]]
 
@@ -16224,83 +3387,83 @@ Ministra, Ministro nisqata juchanmanta urqhunkuman.
 
 ESTADOQ KURAQ KAMACHIYNIN
 
-- Imaraykuchus, mayk'a pachapaqchus jawa suyumanta fuerzas militares jaykumusan chayta qhawarispa, jawa suyumanta Fuerzas militares yaykumuyninta manaqa kay suyuta puriyninta qhawanan tiyan.
+CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Órgano Ejecutivo nisqa mañanqanmanjina tasata watiqmanta qhawarinapaq manaqa  runa  waq  tasata  tasanankupaq  qhawarinan  tiyan.  Asamblea  Legislativa Plurinacional  nisqa,  mayqin  aqllasqa  mañasqanmanjina,  tasamanta  wakichisqata qhawarichinanpaq órgano Ejecutivo nisqata jaywachinman. Iskay chunka p'unchaypi Órgano Ejecutivo nisqata wakichisqanta mana jaywaqtinqa, manaqa imaraykuchus mana jaywasan chayta mana rimariqtinqa, Asamblea nisqa qhawarinapaq pichus mañarqa manaqa pillapis wakichisqanta jaywayman.
+22. Imaraykuchus, mayk'a pachapaqchus jawa suyumanta fuerzas militares jaykumusan chayta qhawarispa, jawa suyumanta Fuerzas militares yaykumuyninta manaqa kay suyuta puriyninta qhawanan tiyan.
 
-- Cámara de Diputados kamachiyniywan Asamblea Legislativa Plurinacionalpata wakichikuynin, llank'aynin ima kamachisqa kanqa.
+23. Órgano Ejecutivo nisqa mañanqanmanjina tasata watiqmanta qhawarinapaq manaqa runa waq tasata tasanankupaq qhawarinan tiyan. Asamblea Legislativa Plurinacional nisqa, mayqin aqllasqa mañasqanmanjina, tasamanta wakichisqata qhawarichinanpaq órgano Ejecutivo nisqata jaywachinman. Iskay chunka p'unchaypi Órgano Ejecutivo nisqata wakichisqanta mana jaywaqtinqa, manaqa imaraykuchus mana jaywasan chayta mana rimariqtinqa, Asamblea nisqa qhawarinapaq pichus mañarqa manaqa pillapis wakichisqanta jaywayman.
+
+II. Cámara de Diputados kamachiyniywan Asamblea Legislativa Plurinacionalpata wakichikuynin, llank'aynin ima kamachisqa kanqa.
 
 ###### Juch'uy kamachiy 159.
 
-Constitución  nisqamanjina  chantapis,  kamachiymanjina  ima  Cámara  de  Diputados  nisqa imatachus ruwanan kasan chaymanjina ruwanqa. Jinallatataq Cámara de Diputados nisqa kaykunata ruwanqa:
+Constitución nisqamanjina chantapis, kamachiymanjina ima Cámara de Diputados nisqa imatachus ruwanan kasan chaymanjina ruwanqa. Jinallatataq Cámara de Diputados nisqa kaykunata ruwanqa:
 
-- Juch'uy kamachiy wakichiynta ruwanan tiyan.
+1. Juch'uy kamachiy wakichiynta ruwanan tiyan.
 
-- Órgano Electoral credenciales nisqa qusqanta qhawanan tiyan.
+2. Órgano Electoral credenciales nisqa qusqanta qhawanan tiyan.
 
-- Directiva nisqata aqllanan tiyan. Cámara nisqa ukhupi wakichikusqantapis, llank'aynintapis qhawanan tiyan.
+3. Directiva nisqata aqllanan tiyan. Cámara nisqa ukhupi wakichikusqantapis, llank'aynintapis qhawanan tiyan.
 
-- Juch'uy  kamachiymanjina,  iskay  tercios  aqllasqakunawan  diputadas  diputados nisqata sanción nisqata junt'achinan tiyan.
+4. Juch'uy kamachiymanjina, iskay tercios aqllasqakunawan diputadas diputados nisqata sanción nisqata junt'achinan tiyan.
 
-- Mayk'a  qulqichus  t'akakaunan  kasan  chayta  qhawarinan  tiyan;  jinallatataq  chay qulqita t'akachinan t'iyan; maypichus, pikunaachus  llank'anqanku, qulqinkuta, imaynatachus chay ukhupi kamachiyninku kasan chaykunatapis qhawarinan tiyan.
+5. Mayk'a qulqichus t'akakaunan kasan chayta qhawarinan tiyan; jinallatataq chay qulqita t'akachinan t'iyan; maypichus, pikunaachus llank'anqanku, qulqinkuta, imaynatachus chay ukhupi kamachiyninku kasan chaykunatapis qhawarinan tiyan.
 
-- Estadoq Aprobación Presupuesto Generalninta qallarinan tiyan.
+6. Estadoq Aprobación Presupuesto Generalninta qallarinan tiyan.
 
-- Órgano  Ejecutivo aprobación plan de desarrollo económicowan    socialwan ruwasqanta qallarinan tiyan.
+7. Órgano Ejecutivo aprobación plan de desarrollo económicowan socialwan ruwasqanta qallarinan tiyan.
 
-- Runaman  manusqa  qulqita  manaqa  qulqi  qusaqanmanta  tasa  kamachiykunata qhawariyta qallatinqa manaqa waqjinamanta qhawarinqa.
+8. Runaman manusqa qulqita manaqa qulqi qusaqanmanta tasa kamachiykunata qhawariyta qallatinqa manaqa waqjinamanta qhawarinqa.
 
-- Estadoq  rentasninwan  contratación  de  empréstitos  nisqa  kananpaq  qallariyninta qhawarin, jinatallataq jatun yachay wasikunapaqpis qallarin.
+9. Estadoq rentasninwan contratación de empréstitos nisqa kananpaq qallariyninta qhawarin, jinatallataq jatun yachay wasikunapaqpis qallarin.
 
-- Sapa  legislativo  nisqa,  llank'aypi  ima  jatun  maqanakuypipis  ima  fuerza  militar nisqachus llank'anqa chayta qhawarinan tiyan.
+10. Sapa legislativo nisqa, llank'aypi ima jatun maqanakuypipis ima fuerza militar nisqachus llank'anqa chayta qhawarinan tiyan.
 
-- Cámara de senadores nisqapi Tribunal Constitucional Plurinacional, Tribunal Supremo, Control Administrativo de Justicia kamachiqkunata juchachakusqankumanta juchachanan tiyan.
+11. Cámara de senadores nisqapi Tribunal Constitucional Plurinacional, Tribunal Supremo, Control Administrativo de Justicia kamachiqkunata juchachakusqankumanta juchachanan tiyan.
 
-- Constitución  nisqamanjina,  tukuy  uk  rimariyllata  parlasqankumanjina,  qulqimanta llaqta runamanta waqkunamanta ima pikunachus kuraq kamachiqjina manaqa kuraq kamachiqkunajina kanqanku chayta Estado kamachiqman chayachinan tiyan.
+12. Constitución nisqamanjina, tukuy uk rimariyllata parlasqankumanjina, qulqimanta llaqta runamanta waqkunamanta ima pikunachus kuraq kamachiqjina manaqa kuraq kamachiqkunajina kanqanku chayta Estado kamachiqman chayachinan tiyan.
 
-- Control de Administrativo de Justicia nisqapaq pikunachus aqllasqa kanqanku chayta ñawpaqta qhawarinanku tiyan: Órgano Electoral Plurinacional nisqamantaq proceso electoral nisqata wakichinanpaq aqllasqakunaqpata sutinkuta chayachinan tiyan.
+13. Control de Administrativo de Justicia nisqapaq pikunachus aqllasqa kanqanku chayta ñawpaqta qhawarinanku tiyan: Órgano Electoral Plurinacional nisqamantaq proceso electoral nisqata wakichinanpaq aqllasqakunaqpata sutinkuta chayachinan tiyan.
 
-Ministerio de la Presidencia - V.C.G.G
+22. Autorizar excepcionalmente el ingreso y tránsito temporal de fuerzas militares extranjeras, determinando el motivo y el tiempo de permanencia.
 
-47
+23. A iniciativa del Órgano Ejecutivo, crear o modificar impuestos de competencia del nivel central del Estado. Sin embargo, la Asamblea Legislativa Plurinacional a pedido de uno de sus miembros, podrá requerir del Órgano Ejecutivo la presentación de proyectos sobre la materia. Si el Órgano Ejecutivo, en el término de veinte días no presenta el proyecto solicitado, o la justificación para no hacerlo, el representante que lo requirió u otro, podrá presentar el suyo para su consideración y aprobación.
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO
-
-- Autorizar  excepcionalmente  el  ingreso  y  tránsito  temporal  de  fuerzas  militares extranjeras, determinando el motivo y el tiempo de permanencia.
-
-- A  iniciativa  del  Órgano  Ejecutivo,  crear  o  modificar  impuestos  de  competencia del nivel central del Estado. Sin embargo, la Asamblea Legislativa Plurinacional a  pedido  de  uno  de  sus  miembros,  podrá  requerir  del  Órgano  Ejecutivo  la presentación de proyectos sobre la materia. Si el Órgano Ejecutivo, en el término de  veinte  días  no  presenta  el  proyecto  solicitado,  o  la  justificación  para  no hacerlo, el representante que lo requirió u otro, podrá presentar el suyo para su consideración y aprobación.
-
-- La organización y las funciones de la Asamblea Legislativa Plurinacional se regulará por el Reglamento de la Cámara de Diputados.
+II. La organización y las funciones de la Asamblea Legislativa Plurinacional se regulará por el Reglamento de la Cámara de Diputados.
 
 ###### Artículo 159.
 
 Son atribuciones de la Cámara de Diputados, además de las que determina esta Constitución y la ley:
 
-- Elaborar y aprobar su Reglamento.
+1. Elaborar y aprobar su Reglamento.
 
-- Calificar las credenciales otorgadas por el Órgano Electoral Plurinacional.
+2. Calificar las credenciales otorgadas por el Órgano Electoral Plurinacional.
 
-- Elegir a su directiva, determinar su organización interna y su funcionamiento.
+3. Elegir a su directiva, determinar su organización interna y su funcionamiento.
 
-- Aplicar sanciones a las diputadas o a los diputados, de acuerdo con el Reglamento, por decisión de dos tercios de los miembros presentes.
+4. Aplicar sanciones a las diputadas o a los diputados, de acuerdo con el Reglamento, por decisión de dos tercios de los miembros presentes.
 
-- Aprobar su presupuesto y ejecutarlo; nombrar y remover a su personal administrativo y atender todo lo relativo con su economía y régimen interno.
+5. Aprobar su presupuesto y ejecutarlo; nombrar y remover a su personal administrativo y atender todo lo relativo con su economía y régimen interno.
 
-- Iniciar la aprobación del Presupuesto General del Estado.
+6. Iniciar la aprobación del Presupuesto General del Estado.
 
-- Iniciar  la  aprobación del plan de desarrollo económico y social presentado por el Órgano Ejecutivo.
+7. Iniciar la aprobación del plan de desarrollo económico y social presentado por el Órgano Ejecutivo.
 
-- Iniciar la aprobación o modificación de leyes en materia tributaria, de crédito público o de subvenciones.
+8. Iniciar la aprobación o modificación de leyes en materia tributaria, de crédito público o de subvenciones.
 
-- Iniciar la aprobación de la contratación de empréstitos que comprometan las rentas generales del Estado, y la autorización a las universidades para la contratación de empréstitos.
+9. Iniciar la aprobación de la contratación de empréstitos que comprometan las rentas generales del Estado, y la autorización a las universidades para la contratación de empréstitos.
 
-- Aprobar en cada legislatura la fuerza militar que ha de mantenerse en tiempo de paz.
+10. Aprobar en cada legislatura la fuerza militar que ha de mantenerse en tiempo de paz.
 
-- Acusar ante la Cámara de Senadores a los miembros del Tribunal Constitucional Plurinacional,  del  Tribunal  Supremo  y  del  Control  Administrativo  de  Justicia  por delitos cometidos en el ejercicio de sus funciones.
+11. Acusar ante la Cámara de Senadores a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones.
 
-- Proponer ternas a la Presidenta o al Presidente del Estado para la designación de  presidentas  o  presidentes  de  entidades  económicas  y  sociales,  y  otros cargos  en  que  participe  el  Estado,  por  mayoría  absoluta  de  acuerdo  con  la Constitución.
+12. Proponer ternas a la Presidenta o al Presidente del Estado para la designación de presidentas o presidentes de entidades económicas y sociales, y otros cargos en que participe el Estado, por mayoría absoluta de acuerdo con la Constitución.
 
-- Preseleccionar  a  los  postulantes  al  Control Administrativo  de  Justicia  y  remitir  al Órgano  Electoral  Plurinacional  la  nómina  de  los  precalificados  para  que  éste proceda a la organización, única y exclusiva, del proceso electoral.
+13. Preseleccionar a los postulantes al Control Administrativo de Justicia y remitir al Órgano Electoral Plurinacional la nómina de los precalificados para que éste proceda a la organización, única y exclusiva, del proceso electoral.
+
+Ministerio de la Presidencia - V.C.G.G
+
+47
 
 Fundación Konrad Adenauer (KAS)
 
@@ -16308,113 +3471,113 @@ Fundación Konrad Adenauer (KAS)
 
 [[START OF PAGE 49]]
 
+ESTADOQ KURAQ KAMACHIYNIN
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### Juch'uy kamachiy 160.
 
-Constitución  chantapis  kamachiy  nisqanmanjinaqa  Cámara  Senadoresmanta  kaykunata ruwayta atin:
+Constitución chantapis kamachiy nisqanmanjinaqa Cámara Senadoresmanta kaykunata ruwayta atin:
 
-- Kamachiyninta qilqariyta atin, chantapis puririchiyta.
+1. Kamachiyninta qilqariyta atin, chantapis puririchiyta.
 
-- Órgano Electoral Plurinacional credenciales qusqanta qhawanan tiyan.
+2. Órgano Electoral Plurinacional credenciales qusqanta qhawanan tiyan.
 
-- Kamachiqninkunata aqllayta atin, imaynachus Cámara Senadores ukhupi wakichisqa kanqa, imaynatachus puririnqa, chaytapis qhawarinanku tiyan.
+3. Kamachiqninkunata aqllayta atin, imaynachus Cámara Senadores ukhupi wakichisqa kanqa, imaynatachus puririnqa, chaytapis qhawarinanku tiyan.
 
-- Kamachiymanjinaqa,  iskay  tercios  akllaywan  warmi  manaqa  qhari  senadores juchayuq kaqkunata juchachayta atinku.
+4. Kamachiymanjinaqa, iskay tercios akllaywan warmi manaqa qhari senadores juchayuq kaqkunata juchachayta atinku.
 
-- Qulqita apaykachanankuta qhawananku tiyan, chanta t'akanqanku, chaypi yanapaq llank'aqkunata aqllayta atinku, chantapis waq llank'aqkunata yaykuchiyta atinku.
+5. Qulqita apaykachanankuta qhawananku tiyan, chanta t'akanqanku, chaypi yanapaq llank'aqkunata aqllayta atinku, chantapis waq llank'aqkunata yaykuchiyta atinku.
 
-- Kamachiymanjinaqa, iskay tercios akllaywan Senadores Camarallapi Tribunal Constitucional Plurinacionalmanta Tribunal Supremonanta, Tribunal Agroambientalmanta, control Administrativo Justiciamanta juchachayta atinku.
+6. Kamachiymanjinaqa, iskay tercios akllaywan Senadores Camarallapi Tribunal Constitucional Plurinacionalmanta Tribunal Supremonanta, Tribunal Agroambientalmanta, control Administrativo Justiciamanta juchachayta atinku.
 
-- Allintapuni Estadopaq sumaqta llank'akunamanqa yupaychana tiyan.
+7. Allintapuni Estadopaq sumaqta llank'akunamanqa yupaychana tiyan.
 
-- Kuraq  kamachiq  nisqanmanjina,  General  de  Ejercitoman,  Fuerza  Aereamanta, División y de Brigada nisqamanta; Almiranteman, Vicealmiranteman, Contralmirante General de Policía Boliviaman wicharichinan tiyan.
+8. Kuraq kamachiq nisqanmanjina, General de Ejercitoman, Fuerza Aereamanta, División y de Brigada nisqamanta; Almiranteman, Vicealmiranteman, Contralmirante General de Policía Boliviaman wicharichinan tiyan.
 
-- Embajadorestawan Ministros plenipotenciariostawan  kamachiy  sutichasqanta  allin ñawiyuq manapis qhawayta atinku.
+9. Embajadorestawan Ministros plenipotenciariostawan kamachiy sutichasqanta allin ñawiyuq manapis qhawayta atinku.
 
 ###### Juch'uy kamachiy 161.
 
 Asamblea Legislativa Plurinacional nisqapi Camarakuna tantakunqanku, kaytawan ruwanankupaq:
 
-- Llank'anankuta qallarinankupaq, tukuchanankupaqwan.
+1. Llank'anankuta qallarinankupaq, tukuchanankupaqwan.
 
-- Estadoq  kuraq  kamachiqmantawan  sullk'a  kamachiqmantawan  juramentonkunata uyarinankupaq.
+2. Estadoq kuraq kamachiqmantawan sullk'a kamachiqmantawan juramentonkunata uyarinankupaq.
 
-- Estadoq warmi chayri qhari kuraq kamachiqninpatawan sullk'a kamachiqninpatawan llank'ayta atisqankumanta chayri ma atisqankumanta chayta qhawarinankupaq:
+3. Estadoq warmi chayri qhari kuraq kamachiqninpatawan sullk'a kamachiqninpatawan llank'ayta atisqankumanta chayri ma atisqankumanta chayta qhawarinankupaq:
 
-- Kuraq kamachiq Bolivia suyunchismanta kamachiyta qhawananpaq.
+4. Kuraq kamachiq Bolivia suyunchismanta kamachiyta qhawananpaq.
 
-- Qhawaq Camarapi kamachiykunamanta  wakichiykuna  mana  allin  kasqanta  niqtin qhawananku tiyan.
+5. Qhawaq Camarapi kamachiykunamanta wakichiykuna mana allin kasqanta niqtin qhawananku tiyan.
 
-- Estados de excepción nisqata qhawanan tiyan.
+6. Estados de excepción nisqata qhawanan tiyan.
 
-- Warmi chayri qhari kuraq kamachiqmantawan sullk'a kamachiqmantawan juchanta qhawayta atinankupaq ñanta kicharinqa.
+7. Warmi chayri qhari kuraq kamachiqmantawan sullk'a kamachiqmantawan juchanta qhawayta atinankupaq ñanta kicharinqa.
 
-- Fiscal General del Estadotawan Defensor del Pueblomantawan aqllayta atin.
+8. Fiscal General del Estadotawan Defensor del Pueblomantawan aqllayta atin.
 
 #### ISKAY KAQ JUCH'UY PHATMA PROCEDIMIENTO LEGISLATIVOMANTA
 
 ###### Juch'uy kamachiy 162.
 
-- Asamblea  Legislativa  Plurinacionalpi  parlarikunanpaq  iniciativa  legislativa  kaykuna ruwayta atinku:
+I. Asamblea Legislativa Plurinacionalpi parlarikunanpaq iniciativa legislativa kaykuna ruwayta atinku:
 
-- Tukuy kay Bolivia suyupi warmi qhari tiyaqkuna.
-
-ESTADOQ KURAQ KAMACHIYNIN
-
-48
+1. Tukuy kay Bolivia suyupi warmi qhari tiyaqkuna.
 
 ###### Artículo 160.
 
-Son  atribuciones  de  la  Cámara  de  Senadores,  además  de  las  que  determina  esta Constitución y la ley:
+Son atribuciones de la Cámara de Senadores, además de las que determina esta Constitución y la ley:
 
-- Elaborar y aprobar su Reglamento.
+1. Elaborar y aprobar su Reglamento.
 
-- Calificar las credenciales otorgadas por el Órgano Electoral Plurinacional.
+2. Calificar las credenciales otorgadas por el Órgano Electoral Plurinacional.
 
-- Elegir a su directiva, determinar su organización interna y su funcionamiento.
+3. Elegir a su directiva, determinar su organización interna y su funcionamiento.
 
-- Aplicar sanciones a las Senadoras y los Senadores, de acuerdo al Reglamento, por decisión de dos tercios de los miembros presentes.
+4. Aplicar sanciones a las Senadoras y los Senadores, de acuerdo al Reglamento, por decisión de dos tercios de los miembros presentes.
 
-- Aprobar su presupuesto y ejecutarlo; nombrar y remover a su personal administrativo, y atender todo lo relativo con su economía y régimen interno.
+5. Aprobar su presupuesto y ejecutarlo; nombrar y remover a su personal administrativo, y atender todo lo relativo con su economía y régimen interno.
 
-- Juzgar en única instancia a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo, del Tribunal Agroambiental y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones, cuya sentencia será aprobada por al menos dos tercios de los miembros presentes, de acuerdo con la ley.
+6. Juzgar en única instancia a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo, del Tribunal Agroambiental y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones, cuya sentencia será aprobada por al menos dos tercios de los miembros presentes, de acuerdo con la ley.
 
-- Reconocer honores públicos a quienes lo merezcan por servicios eminentes al Estado.
+7. Reconocer honores públicos a quienes lo merezcan por servicios eminentes al Estado.
 
-- Ratificar los ascensos, a propuesta del Órgano Ejecutivo, a General de Ejército, de Fuerza Aérea, de División y de Brigada; a Almirante, Vicealmirante, Contralmirante y General de Policía Boliviana.
+8. Ratificar los ascensos, a propuesta del Órgano Ejecutivo, a General de Ejército, de Fuerza Aérea, de División y de Brigada; a Almirante, Vicealmirante, Contralmirante y General de Policía Boliviana.
 
-- Aprobar  o  negar  el  nombramiento  de  embajadores  y  Ministros  plenipotenciarios propuestos por el Presidente del Estado.
+9. Aprobar o negar el nombramiento de embajadores y Ministros plenipotenciarios propuestos por el Presidente del Estado.
 
 ###### Artículo 161.
 
 Las Cámaras se reunirán en Asamblea Legislativa Plurinacional para ejercer las siguientes funciones, además de las señaladas en la Constitución:
 
-- Inaugurar y clausurar sus sesiones.
+1. Inaugurar y clausurar sus sesiones.
 
-- Recibir  el  juramento  de  la  Presidenta  o  del  Presidente  del  Estado,  y  de  la Vicepresidenta o del Vicepresidente del Estado.
+2. Recibir el juramento de la Presidenta o del Presidente del Estado, y de la Vicepresidenta o del Vicepresidente del Estado.
 
-- Admitir o negar la renuncia de la Presidenta o del Presidente del Estado, y de la Vicepresidenta o del Vicepresidente del Estado.
+3. Admitir o negar la renuncia de la Presidenta o del Presidente del Estado, y de la Vicepresidenta o del Vicepresidente del Estado.
 
-- Considerar las leyes vetadas por el Órgano Ejecutivo.
+4. Considerar las leyes vetadas por el Órgano Ejecutivo.
 
-- Considerar los proyectos de ley que, aprobados en la Cámara de origen, no fueran aprobados en la Cámara revisora.
+5. Considerar los proyectos de ley que, aprobados en la Cámara de origen, no fueran aprobados en la Cámara revisora.
 
-- Aprobar los estados de excepción.
+6. Aprobar los estados de excepción.
 
-- Autorizar el enjuiciamiento de la Presidenta o del Presidente, o de la Vicepresidenta o del Vicepresidente del Estado.
+7. Autorizar el enjuiciamiento de la Presidenta o del Presidente, o de la Vicepresidenta o del Vicepresidente del Estado.
 
-- Designar al Fiscal General del Estado y al Defensor del Pueblo.
+8. Designar al Fiscal General del Estado y al Defensor del Pueblo.
 
 #### CAPÍTULO SEGUNDO PROCEDIMIENTO LEGISLATIVO
 
 ###### Artículo 162.
 
-- Tienen la facultad de iniciativa legislativa, para su tratamiento obligatorio en la Asamblea Legislativa Plurinacional:
+I. Tienen la facultad de iniciativa legislativa, para su tratamiento obligatorio en la Asamblea Legislativa Plurinacional:
 
-- Las ciudadanas y los ciudadanos.
+1. Las ciudadanas y los ciudadanos.
 
 Ministerio de la Presidencia - V.C.G.G
+
+48
 
 Fundación Konrad Adenauer (KAS)
 
@@ -16426,103 +3589,89 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Warmi chayri asambleístas Cámara nisqankupi.
+2. Warmi chayri asambleístas Cámara nisqankupi.
 
-- Órgano ejecutivo.
+3. Órgano ejecutivo.
 
-- Tribunal Supremo administración justiciamanta kaqtin qhawanqa.
+4. Tribunal Supremo administración justiciamanta kaqtin qhawanqa.
 
-- Autónomos kamachiqkuna entidades territorialesmanta.
+5. Autónomos kamachiqkuna entidades territorialesmanta.
 
-- Asamblea Legislativa Plurinacionalpata organizacionninmantawan llank'ayninmantawan Cámara de Diputados kamachiyninpi qhawachikunqa.
+II. Asamblea Legislativa Plurinacionalpata organizacionninmantawan llank'ayninmantawan Cámara de Diputados kamachiyninpi qhawachikunqa.
 
 ###### Juch'uy kamachiy 163.
 
 Procedimiento legislativo ajinata qukunqa:
 
-- Uk camaramana, asambleistakuna proyecto de ley apaykusqankuta, chay Camarallapitaq procedimiento legislativo qallarikunqa, kaytaq comisionman manaqa comisionkunaman qhawanankupaq apachinqanku.
+1. Uk camaramana, asambleistakuna proyecto de ley apaykusqankuta, chay Camarallapitaq procedimiento legislativo qallarikunqa, kaytaq comisionman manaqa comisionkunaman qhawanankupaq apachinqanku.
 
-- Diputados camaraman proyecto de ley apachisqa kanqa, chaymanta comisionman manachayri comisionkunaman apachiqanku.
+2. Diputados camaraman proyecto de ley apachisqa kanqa, chaymanta comisionman manachayri comisionkunaman apachiqanku.
 
-- Cámara  Senadorespi  legislativas  ruwayta  munasqanta  desentralizacionmanta, autonomiamanta, ordenamiento territorialmanta riqsikunan tiyan.
+3. Cámara Senadorespi legislativas ruwayta munasqanta desentralizacionmanta, autonomiamanta, ordenamiento territorialmanta riqsikunan tiyan.
 
-- Comisión manaqa  Comisionkuna  chay  proyectomanta  willaqtinkuqa,  Cámara Plenariaman  chaypi  qhawakunanpaq  apakunqa,  chaypitaq  sumqachus  kasqanta manachus chayta qhawarikunqa, chanta tukuyninmanta qhawarispa, sapa ukninmantapis  qhawarisqa  kanqa.  Kay  jina  kananpaq  tukuyninkumanta  askha kaqtillanku aprobakunqa.
+4. Comisión manaqa Comisionkuna chay proyectomanta willaqtinkuqa, Cámara Plenariaman chaypi qhawakunanpaq apakunqa, chaypitaq sumqachus kasqanta manachus chayta qhawarikunqa, chanta tukuyninmanta qhawarispa, sapa ukninmantapis qhawarisqa kanqa. Kay jina kananpaq tukuyninkumanta askha kaqtillanku aprobakunqa.
 
-- May  Camarapichus  wakichiyta  qhawanku  chaytaqa  allinchus  manachus  chayta qhawananpaq qhawaq Camarata yachachinanku tiyan. Qhawaq Camara allin kasan niqtinqa Órgano Ejecutivo nisqaman apachinan tiyan, paytaq urqhunqa.
+5. May Camarapichus wakichiyta qhawanku chaytaqa allinchus manachus chayta qhawananpaq qhawaq Camarata yachachinanku tiyan. Qhawaq Camara allin kasan niqtinqa Órgano Ejecutivo nisqaman apachinan tiyan, paytaq urqhunqa.
 
-- Pichus qhawaq  Cámara  sumaqyachin manaqa  waqjinamanta wakichiyta ruwan  chayqa  maypachachus  ruwaq  Cámarapi  tukuyninku  munaqtinkuqa aprobasqa  kanqa.  Mana  munaqtinkuqa  iskay  chunka  p'unchaykama  Cámara de  Origen  mañaqanwan  iskay  Cámara  tantakunqanku,  chaypitaq  wakichiyta qhawarinqanku. Chanta Asamblea Legislativa Plurinacionalpi tukuyninku qhawarinqanku.
+6. Pichus qhawaq Cámara sumaqyachin manaqa waqjinamanta wakichiyta ruwan chayqa maypachachus ruwaq Cámarapi tukuyninku munaqtinkuqa aprobasqa kanqa. Mana munaqtinkuqa iskay chunka p'unchaykama Cámara de Origen mañaqanwan iskay Cámara tantakunqanku, chaypitaq wakichiyta qhawarinqanku. Chanta Asamblea Legislativa Plurinacionalpi tukuyninku qhawarinqanku.
 
-- Kinsa chunka p'unchaypi, qhawaq Cámara mana imatapis ninqachu chayqa chay proyecto de ley, chay wakichiyta Asamblea Legislativa Plurinacionalpi rimarikunqa.
+7. Kinsa chunka p'unchaypi, qhawaq Cámara mana imatapis ninqachu chayqa chay proyecto de ley, chay wakichiyta Asamblea Legislativa Plurinacionalpi rimarikunqa.
 
-- Chay aprobasqa wakichiy, sancionasqa kaqtin, kamachiyjina urqhusqa kananpaq. Órgano Ejecutivo nisqaman apakunqa.
+8. Chay aprobasqa wakichiy, sancionasqa kaqtin, kamachiyjina urqhusqa kananpaq. Órgano Ejecutivo nisqaman apakunqa.
 
-- Jaqay  proyecto  mana  aprobasqa  kaqtin  watiqmanta  qhawarikunanpaq  qhipan Legislaturaman apakunqa.
+9. Jaqay proyecto mana aprobasqa kaqtin watiqmanta qhawarikunanpaq qhipan Legislaturaman apakunqa.
 
-- Asamblea Legislativa Plurinacionalpi chay kamachiy urqhusqanta, chantapis chay Órgano  Ejecutivoman  apasqa,  Estadoq  warmi,  qhari  kamachiqwan  qhawarasqa kayta atin, chunka llank'ana p'unchaypi Órgano Ejecutivo pantasqata qhawasqanta Asambleaman  apachinqa.  Ichus  kay  ma  llank'asamanchu  chayqa,  Comisión  de Asamblea nisqaman apakunqa.
+10. Asamblea Legislativa Plurinacionalpi chay kamachiy urqhusqanta, chantapis chay Órgano Ejecutivoman apasqa, Estadoq warmi, qhari kamachiqwan qhawarasqa kayta atin, chunka llank'ana p'unchaypi Órgano Ejecutivo pantasqata qhawasqanta Asambleaman apachinqa. Ichus kay ma llank'asamanchu chayqa, Comisión de Asamblea nisqaman apakunqa.
 
-- Las asambleístas y los asambleístas en cada una de sus Cámaras.
+2. Las asambleístas y los asambleístas en cada una de sus Cámaras.
 
-- El Órgano Ejecutivo.
+3. El Órgano Ejecutivo.
 
-- El Tribunal Supremo, en el caso de iniciativas relacionadas con la administración de justicia.
+4. El Tribunal Supremo, en el caso de iniciativas relacionadas con la administración de justicia.
 
-- Los gobiernos autónomos de las entidades territoriales.
+5. Los gobiernos autónomos de las entidades territoriales.
 
-- La ley y los reglamentos de cada Cámara desarrollarán los procedimientos y requisitos para ejercer la facultad de iniciativa legislativa.
-
-49
+II. La ley y los reglamentos de cada Cámara desarrollarán los procedimientos y requisitos para ejercer la facultad de iniciativa legislativa.
 
 ###### Artículo 163.
 
 El procedimiento legislativo se desarrollará de la siguiente manera:
 
-- El proyecto de ley presentado por asambleístas de una de las Cámaras, iniciará el procedimiento legislativo en esa Cámara, que la remitirá a la comisión o comisiones que correspondan para su tratamiento y aprobación inicial.
+1. El proyecto de ley presentado por asambleístas de una de las Cámaras, iniciará el procedimiento legislativo en esa Cámara, que la remitirá a la comisión o comisiones que correspondan para su tratamiento y aprobación inicial.
 
-- El  proyecto  de  ley  presentado  por  otra  iniciativa  será  enviado  a  la  Cámara  de Diputados, que lo remitirá a la comisión o las comisiones.
+2. El proyecto de ley presentado por otra iniciativa será enviado a la Cámara de Diputados, que lo remitirá a la comisión o las comisiones.
 
-- Las iniciativas legislativas en materia de descentralización, autonomías y ordenamiento territorial serán de conocimiento de la Cámara de Senadores.
+3. Las iniciativas legislativas en materia de descentralización, autonomías y ordenamiento territorial serán de conocimiento de la Cámara de Senadores.
 
-- Cuando  el  proyecto  haya  sido  informado  por  la  comisión  o  las  comisiones correspondientes,  pasará  a  consideración  de  la  plenaria  de  la  Cámara,  donde será discutido y aprobado en grande y en detalle. Cada aprobación requerirá de la mayoría absoluta de los miembros presentes.
+4. Cuando el proyecto haya sido informado por la comisión o las comisiones correspondientes, pasará a consideración de la plenaria de la Cámara, donde será discutido y aprobado en grande y en detalle. Cada aprobación requerirá de la mayoría absoluta de los miembros presentes.
 
-- El proyecto aprobado por la Cámara de origen será remitido a la Cámara revisora para  su  discusión.  Si  la  Cámara  revisora  lo  aprueba,  será  enviado  al  Órgano Ejecutivo para su promulgación.
+5. El proyecto aprobado por la Cámara de origen será remitido a la Cámara revisora para su discusión. Si la Cámara revisora lo aprueba, será enviado al Órgano Ejecutivo para su promulgación.
 
-- Si la Cámara revisora enmienda o modifica el proyecto, éste se considerará aprobado si la Cámara de origen acepta por mayoría absoluta de los miembros presentes las enmiendas o modificaciones.  En  caso  de  que  no  las  acepte,  las  dos  Cámaras  se reunirán a requerimiento de la Cámara de origen dentro de los veinte días siguientes y deliberarán sobre el proyecto. La decisión será tomada por el Pleno de la Asamblea Legislativa Plurinacional por mayoría absoluta de sus miembros presentes.
+6. Si la Cámara revisora enmienda o modifica el proyecto, éste se considerará aprobado si la Cámara de origen acepta por mayoría absoluta de los miembros presentes las enmiendas o modificaciones. En caso de que no las acepte, las dos Cámaras se reunirán a requerimiento de la Cámara de origen dentro de los veinte días siguientes y deliberarán sobre el proyecto. La decisión será tomada por el Pleno de la Asamblea Legislativa Plurinacional por mayoría absoluta de sus miembros presentes.
 
-- En caso de que pasen treinta días sin que la Cámara revisora se pronuncie sobre el proyecto de ley, el proyecto será considerado en el Pleno de la Asamblea Legislativa Plurinacional.
+7. En caso de que pasen treinta días sin que la Cámara revisora se pronuncie sobre el proyecto de ley, el proyecto será considerado en el Pleno de la Asamblea Legislativa Plurinacional.
 
-- El proyecto aprobado, una vez sancionado, será remitido al Órgano Ejecutivo para su promulgación como ley.
+8. El proyecto aprobado, una vez sancionado, será remitido al Órgano Ejecutivo para su promulgación como ley.
 
-- Aquel proyecto que haya sido rechazado podrá ser propuesto nuevamente en la Legislatura siguiente.
+9. Aquel proyecto que haya sido rechazado podrá ser propuesto nuevamente en la Legislatura siguiente.
 
-- La ley sancionada por la Asamblea Legislativa Plurinacional y remitida al Órgano Ejecutivo, podrá ser observada por la Presidenta o el Presidente del Estado en el término de diez días hábiles desde el momento de su recepción. Las observaciones del  Órgano  Ejecutivo  se  dirigirán  a  la Asamblea.  Si  ésta  estuviera  en  receso,  la Presidenta o el Presidente del Estado remitirá sus observaciones a la Comisión de Asamblea.
-
-Fundación Konrad Adenauer (KAS)
+10. La ley sancionada por la Asamblea Legislativa Plurinacional y remitida al Órgano Ejecutivo, podrá ser observada por la Presidenta o el Presidente del Estado en el término de diez días hábiles desde el momento de su recepción. Las observaciones del Órgano Ejecutivo se dirigirán a la Asamblea. Si ésta estuviera en receso, la Presidenta o el Presidente del Estado remitirá sus observaciones a la Comisión de Asamblea.
 
 Ministerio de la Presidencia - V.C.G.G
+
+49
+
+Fundación Konrad Adenauer (KAS)
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
 
-###### Juch'uy kamachiy 165.
-
-- Órgano  Ejecutivo  ukhupi  warmi  manaqa  qhari  kuraq  kamachiq  Estadomanta,  sullk'a kamachiq chantapis Ministras, Ministros Estadomanta.
-
-- Consejo de Ministros rimarisqanta tukuyninku nisqankujina kana tiyan.
-
-##### ISKAY KAQ RAK'IY ESTADOQ KURAQ KAMACHIQNINMANTAWAN SULLK'A KAMACHIQNINMANTAWAN
-
-###### Juch'uy kamachiy 166.
-
-- Estadomanta warmi chayri qhari kuraq kamachiqwan sullk'a kamachiqawan ch'ikllaspa kau suyumanta tukuy ch'ikllaymanta khuskannin uk ch'ikllaytawan, manaqa tawa chunka por ciento nisqata urqhuqtin chay kuraq kamachiqwan sullk'a kamachiqwan kanqanku. Chaypaqqa chunka por cientowan waqkuna atipanan tiyan.
-
-Ministerio de la Presidencia - V.C.G.G
-
 ESTADOQ KURAQ KAMACHIYNIN
 
-- Is  Asamblea Legislativa Plurinacional chay observaciones nisqata chiqanta kasqankuta qhawanman chayqa, kamachiy allinchanqa chatanqa Órgano Ejecutivo nisqaman  urqhunannpaq  kutichinqa.  Chay  pantasqa  rimariykunata  qhawaqtin kamachiq  Asambleamanta  kuraq  kamachiq  manaqa  sullk'a  kamachiq  Asamblea nisqanta tukuyninkumanta lluqsinan tiyan.
+- Is Asamblea Legislativa Plurinacional chay observaciones nisqata chiqanta kasqankuta qhawanman chayqa, kamachiy allinchanqa chatanqa Órgano Ejecutivo nisqaman urqhunannpaq kutichinqa. Chay pantasqa rimariykunata qhawaqtin kamachiq Asambleamanta kuraq kamachiq manaqa sullk'a kamachiq Asamblea nisqanta tukuyninkumanta lluqsinan tiyan.
 
-- Chay  kamachiy  mana  chuka  p'unchaypi  qhawarasqa  kaqtinqa  warmi  manaqa qhari  kamachiq  Estadomanta  urqhunqa.  Mana  órgano  Ejecutivo  kamachiykunata urqhusqanta Asambleamanta kuraq warmi manaqa qhari kamachiq urqhunqa.
+- Chay kamachiy mana chuka p'unchaypi qhawarasqa kaqtinqa warmi manaqa qhari kamachiq Estadomanta urqhunqa. Mana órgano Ejecutivo kamachiykunata urqhusqanta Asambleamanta kuraq warmi manaqa qhari kamachiq urqhunqa.
 
 ###### Juch'uy kamachiy 164.
 
@@ -16536,13 +3685,27 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 ##### UK KAQ RAK'IY TUKUYPAQ KAMACHINAMANTA
 
+###### Juch'uy kamachiy 165.
+
+- Órgano Ejecutivo ukhupi warmi manaqa qhari kuraq kamachiq Estadomanta, sullk'a kamachiq chantapis Ministras, Ministros Estadomanta.
+
+- Consejo de Ministros rimarisqanta tukuyninku nisqankujina kana tiyan.
+
+##### ISKAY KAQ RAK'IY ESTADOQ KURAQ KAMACHIQNINMANTAWAN SULLK'A KAMACHIQNINMANTAWAN
+
+###### Juch'uy kamachiy 166.
+
+- Estadomanta warmi chayri qhari kuraq kamachiqwan sullk'a kamachiqawan ch'ikllaspa kau suyumanta tukuy ch'ikllaymanta khuskannin uk ch'ikllaytawan, manaqa tawa chunka por ciento nisqata urqhuqtin chay kuraq kamachiqwan sullk'a kamachiqwan kanqanku. Chaypaqqa chunka por cientowan waqkuna atipanan tiyan.
+
+Ministerio de la Presidencia - V.C.G.G
+
 50
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Si  la Asamblea  Legislativa  Plurinacional  considera  fundadas  las  observaciones modificará  la  ley  conforme  a  éstas  y  la  devolverá  al  Órgano  Ejecutivo  para  su promulgación. En el caso de que considere infundadas las observaciones, la ley será promulgada por la Presidenta o el Presidente de la Asamblea. Las decisiones de la Asamblea se tomarán por mayoría absoluta de sus miembros presentes.
+- Si la Asamblea Legislativa Plurinacional considera fundadas las observaciones modificará la ley conforme a éstas y la devolverá al Órgano Ejecutivo para su promulgación. En el caso de que considere infundadas las observaciones, la ley será promulgada por la Presidenta o el Presidente de la Asamblea. Las decisiones de la Asamblea se tomarán por mayoría absoluta de sus miembros presentes.
 
-- La  ley  que  no  sea  observada  dentro  del  plazo  correspondiente  será  promulgada por la Presidenta o Presidente del Estado. Las leyes no promulgadas por el Órgano Ejecutivo en los plazos previstos en los numerales anteriores serán promulgadas por la Presidenta o el Presidente de la Asamblea
+- La ley que no sea observada dentro del plazo correspondiente será promulgada por la Presidenta o Presidente del Estado. Las leyes no promulgadas por el Órgano Ejecutivo en los plazos previstos en los numerales anteriores serán promulgadas por la Presidenta o el Presidente de la Asamblea
 
 ###### Artículo 164.
 
@@ -16560,16 +3723,15 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - El Órgano Ejecutivo está compuesto por la Presidenta o el Presidente del Estado, la Vicepresidenta o el Vicepresidente del Estado, y las Ministras y los Ministros de Estado.
 
-- Las  determinaciones  adoptadas  en  Consejo  de  Ministros  son  de  responsabilidad solidaria.
+- Las determinaciones adoptadas en Consejo de Ministros son de responsabilidad solidaria.
 
 ##### SECCIÓN II PRESIDENCIA Y VICEPRESIDENCIA DEL ESTADO
 
 ###### Artículo 166.
 
-- I . La Presidenta o el Presidente y la Vicepresidenta o el Vicepresidente del Estado serán elegidas  o  elegidos  por  sufragio  universal,  obligatorio,  directo,  libre  y  secreto.  Será proclamada a la Presidencia y a la Vicepresidencia la candidatura que haya reunido el cincuenta por ciento más uno de los votos válidos; o que haya obtenido un mínimo del cuarenta por ciento de los votos válidos, con una diferencia de al menos diez por ciento en relación con la segunda candidatura.
+- I . La Presidenta o el Presidente y la Vicepresidenta o el Vicepresidente del Estado serán elegidas o elegidos por sufragio universal, obligatorio, directo, libre y secreto. Será proclamada a la Presidencia y a la Vicepresidencia la candidatura que haya reunido el cincuenta por ciento más uno de los votos válidos; o que haya obtenido un mínimo del cuarenta por ciento de los votos válidos, con una diferencia de al menos diez por ciento en relación con la segunda candidatura.
 
 Fundación Konrad Adenauer (KAS)
-
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
@@ -16809,7 +3971,9 @@ Ministerio de la Presidencia - V.C.G.G
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Ejercer el mando de Capitana o Capitán General de las Fuerzas Armadas, y disponer de ellas para la defensa del Estado, su independencia y la integridad del territorio. 26.	 Declarar el estado de excepción.
+- Ejercer el mando de Capitana o Capitán General de las Fuerzas Armadas, y disponer de ellas para la defensa del Estado, su independencia y la integridad del territorio.
+
+- Declarar el estado de excepción.
 
 - Ejercer  la  autoridad  máxima  del  Servicio  Boliviano  de  Reforma Agraria  y  otorgar títulos ejecutoriales en la distribución y redistribución de las tierras.
 
@@ -16941,19 +4105,21 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
+#### ISKAY KAQ JUCH'UY PHATMA JURISDICCIÓN ORDINARIAMANTA
+
 ###### Juch'uy kamachiy 180.
 
-- Jurisdicción  ordinaria  nisqaqa  mana  qulqipaqchu,  sut'i,  chiqan  kanan  tiyan,  mana suwanapaqchu,  mana  watakunata  jap'ikunankupaqchu,  juchachaq  ñawinkunaman juchayuq chantapis juchallichiq kikin qhawasqa kanku.
+- Jurisdicción ordinaria nisqaqa mana qulqipaqchu, sut'i, chiqan kanan tiyan, mana suwanapaqchu, mana watakunata jap'ikunankupaqchu, juchachaq ñawinkunaman juchayuq chantapis juchallichiq kikin qhawasqa kanku.
 
 - Principio de impugnación procesos judicialkunapi qhawakunan tiyan.
 
-- Jurisdicción  ordinaria  fueros  nisqa  mana  allin  ñawiwanchu  qhawanqa,  privilegios, manataq tribunales de excepción. Jurisdicción militar nisqa kamachiymanjina juchakunata qhawanqa.
+- Jurisdicción ordinaria fueros nisqa mana allin ñawiwanchu qhawanqa, privilegios, manataq tribunales de excepción. Jurisdicción militar nisqa kamachiymanjina juchakunata qhawanqa.
 
 ##### UK KAQ RAK'IY TRIBUNAL SUPREMO JUSTICIAMANTA
 
 ###### Juch'uy kamachiy 181.
 
-Tribunal  Supremo  Justiciamanta  Jurisdicción  ordinariamanta  kuraq  tribunal.  Magistradas chantapis magistrados khuska kasanku. Kamachiymanjina wakichikunan tiyan.
+Tribunal Supremo Justiciamanta Jurisdicción ordinariamanta kuraq tribunal. Magistradas chantapis magistrados khuska kasanku. Kamachiymanjina wakichikunan tiyan.
 
 ###### Juch'uy kamachiy 182.
 
@@ -16961,25 +4127,25 @@ Tribunal  Supremo  Justiciamanta  Jurisdicción  ordinariamanta  kuraq  tribunal
 
 - Asamblea Legislativa Plurinacional sapa jatun llaqtamanta iskay tercios nisqawan warmi qhari postulantes nisqata aqllanqa, chay sutikunatataq órgano electoralman apaykunqa, chaymanta ch'ikllaspa aqllanapaq.
 
-- Warmi chantapis qhari postulantekuna mana campaña electoral nisqata ruwanankuchu tiyan,  manaqa  unqhuchikunqanku.  Órgano  electoral  nisqalla  runaman  paykunamanta riqsichinqa.
+- Warmi chantapis qhari postulantekuna mana campaña electoral nisqata ruwanankuchu tiyan, manaqa unqhuchikunqanku. Órgano electoral nisqalla runaman paykunamanta riqsichinqa.
 
 - Magistradokuna mana organizaciones políticas nisqaman yaykuta atinqankuchu.
 
 - Atipaqkunaqa astawan ch'ikllaywan kaqkuna kanqanku. Kuraq kamachiqninchis llank'ayninkupi churanqa.
 
-- Magistratura  del  Tribunal  Supremo  de  Justiciaman  yaykunapaq  kamachiymanjina servidores públicospaqjina mañasqankuta chayta junt'anan tiyan: kinsa chunka watayuqwan  kanan  tiyan,  allinta ama  suwaspa  ñawpaqta  funciones  judicialespi, qilqaqjina,  manaqa  jatun  yachaywasipi  yachachiqjina  pusaq  watallatapis  llank'anan karqa.  Consejo  Magistraturawantaq  mana  qhawarasqachu  kanan  tiyan.  Calificación meritospaq  originariokunamanta  kamachiq  kaqtinqa  allin  qhawasqa,  yupaychasqa kanqa.
+- Magistratura del Tribunal Supremo de Justiciaman yaykunapaq kamachiymanjina servidores públicospaqjina mañasqankuta chayta junt'anan tiyan: kinsa chunka watayuqwan kanan tiyan, allinta ama suwaspa ñawpaqta funciones judicialespi, qilqaqjina, manaqa jatun yachaywasipi yachachiqjina pusaq watallatapis llank'anan karqa. Consejo Magistraturawantaq mana qhawarasqachu kanan tiyan. Calificación meritospaq originariokunamanta kamachiq kaqtinqa allin qhawasqa, yupaychasqa kanqa.
 
 - Imaynatachus mana ruwanankuta magistradokuna Tribunal Supremomanta servidores publicossjina qhawasqa kanqanku.
 
 Ministerio de la Presidencia - V.C.G.G
 
-#### ISKAY KAQ JUCH'UY PHATMA JURISDICCIÓN ORDINARIAMANTA
-
 55
+
+#### CAPÍTULO SEGUNDO JURISDICCIÓN ORDINARIA
 
 ###### Artículo 180.
 
-- La  jurisdicción  ordinaria  se  fundamenta  en  los  principios  procesales  de  gratuidad, publicidad, transparencia, oralidad, celeridad, probidad, honestidad, legalidad, eficacia, eficiencia, accesibilidad, inmediatez, verdad material, debido proceso e igualdad de las partes ante el juez.
+- La jurisdicción ordinaria se fundamenta en los principios procesales de gratuidad, publicidad, transparencia, oralidad, celeridad, probidad, honestidad, legalidad, eficacia, eficiencia, accesibilidad, inmediatez, verdad material, debido proceso e igualdad de las partes ante el juez.
 
 - Se garantiza el principio de impugnación en los procesos judiciales.
 
@@ -16989,13 +4155,13 @@ Ministerio de la Presidencia - V.C.G.G
 
 ###### Artículo 181.
 
-El  Tribunal  Supremo  de  Justicia  es  el  máximo  tribunal  de  la  jurisdicción  ordinaria.  Está integrado por Magistradas y Magistrados. Se organiza internamente en salas especializadas. Su composición y organización se determinará por la ley.
+El Tribunal Supremo de Justicia es el máximo tribunal de la jurisdicción ordinaria. Está integrado por Magistradas y Magistrados. Se organiza internamente en salas especializadas. Su composición y organización se determinará por la ley.
 
 ###### Artículo 182.
 
 - Las Magistradas y los Magistrados del Tribunal Supremo de Justicia serán elegidas y elegidos mediante sufragio universal.
 
-- II La  Asamblea  Legislativa  Plurinacional  efectuará  por  dos  tercios  de  sus  miembros presentes la preselección de las postulantes y los postulantes por cada departamento y remitirá al órgano electoral la nómina de los precalificados para que éste proceda a la organización, única y exclusiva, del proceso electoral.
+- II La Asamblea Legislativa Plurinacional efectuará por dos tercios de sus miembros presentes la preselección de las postulantes y los postulantes por cada departamento y remitirá al órgano electoral la nómina de los precalificados para que éste proceda a la organización, única y exclusiva, del proceso electoral.
 
 - Las y los postulantes o persona alguna, no podrán realizar campaña electoral a favor de sus candidaturas, bajo sanción de inhabilitación. El Órgano Electoral será el único responsable de difundir los méritos de las candidatas y los candidatos.
 
@@ -17003,14 +4169,11 @@ El  Tribunal  Supremo  de  Justicia  es  el  máximo  tribunal  de  la  jurisdic
 
 - Serán elegidas y elegidos las candidatas y los candidatos que obtengan mayoría simple de votos. La Presidenta o el Presidente del Estado ministrará posesión en sus cargos.
 
-- VI . 		 Para optar a la Magistratura del Tribunal Supremo de Justicia será necesario cumplir con los requisitos generales establecidos para los servidores públicos: haber cumplido treinta años de edad, poseer título de abogado, haber desempeñado, con honestidad y ética, funciones judiciales, profesión de abogado o cátedra universitaria durante ocho años y no contar con sanción de destitución del Consejo de la Magistratura. Para la calificación de méritos se tomará en cuenta el haber ejercido la calidad de autoridad originaria bajo su sistema de justicia.
+- VI . Para optar a la Magistratura del Tribunal Supremo de Justicia será necesario cumplir con los requisitos generales establecidos para los servidores públicos: haber cumplido treinta años de edad, poseer título de abogado, haber desempeñado, con honestidad y ética, funciones judiciales, profesión de abogado o cátedra universitaria durante ocho años y no contar con sanción de destitución del Consejo de la Magistratura. Para la calificación de méritos se tomará en cuenta el haber ejercido la calidad de autoridad originaria bajo su sistema de justicia.
 
-- El  sistema  de  prohibiciones  e  incompatibilidades  aplicado  a  las  Magistradas  y  a  los Magistrados del Tribunal Supremo de Justicia será el mismo que para los servidores públicos.
+- El sistema de prohibiciones e incompatibilidades aplicado a las Magistradas y a los Magistrados del Tribunal Supremo de Justicia será el mismo que para los servidores públicos.
 
 Fundación Konrad Adenauer (KAS)
-
-#### CAPÍTULO SEGUNDO JURISDICCIÓN ORDINARIA
-
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
@@ -17439,9 +4602,9 @@ Fundación Konrad Adenauer (KAS)
 
 ESTADOQ KURAQ KAMACHIYNIN
 
-- Indígenas  originaro  campesinas  normas  jurídicas  kamachiqkunaq  tapuyninkuta sut'inchanan tiyan. Tribunal Constitucional nisqata ruwakunan tiyan.
+- Indígenas originaro campesinas normas jurídicas kamachiqkunaq tapuyninkuta sut'inchanan tiyan. Tribunal Constitucional nisqata ruwakunan tiyan.
 
-- Jawa  suyukunawan  parlakusaqtin  kamachiymanjinachu  ruwakusan  manachus chayta qhawananku tiyan.
+- Jawa suyukunawan parlakusaqtin kamachiymanjinachu ruwakusan manachus chayta qhawananku tiyan.
 
 - Kamachiymanjina imaynatachus Constitucionta uk chhikanta allinchayta munaqtin.
 
@@ -17481,15 +4644,39 @@ Kamachiy imaynatachus ruwakunan tiyan Tribunal Constitucionalpi chayta qhawachin
 
 - Tribunal Supremo Electoral Órgano Electoralmanta kuraq nivel nisq, tukuy Boliviapaq.
 
-- Tribunal Supremo  Electoral ukhupi qanchis runa kan;  suqta  watata  paykunaqa llank'anqanku, chanta mana watiqmanta yaykunqankuchu, iskayllapis indígena originario campesino kananku tiyan.
+- Tribunal Supremo Electoral ukhupi qanchis runa kan; suqta watata paykunaqa llank'anqanku, chanta mana watiqmanta yaykunqankuchu, iskayllapis indígena originario campesino kananku tiyan.
 
 - Asamblea Legislativa Plurinacionalpi, iskay tercios chuqaywan suqta miembros Órgano Electoral Plurinacionalmanta aqllankunqa.
 
-- Asamblea  Legislativa Plurinacionalmnta  miembrokuna  aqllaytaqa  uk  convocatoria nisqawan  ruwakunqa,  chaymantaq  laphinkuta  kayninkumanta  yachaqayninkumanta apananku tiyan.
+- Asamblea Legislativa Plurinacionalmnta miembrokuna aqllaytaqa uk convocatoria nisqawan ruwakunqa, chaymantaq laphinkuta kayninkumanta yachaqayninkumanta apananku tiyan.
 
 Ministerio de la Presidencia - V.C.G.G
 
 61
+
+CONSTITUCIÓN POLÍTICA DEL ESTADO
+
+- Las consultas de las autoridades indígenas originario campesinas sobre la aplicación de sus normas jurídicas aplicadas a un caso concreto. La decisión del Tribunal Constitucional es obligatoria.
+
+- El control previo de constitucionalidad en la ratificación de tratados internacionales.
+
+- La constitucionalidad del procedimiento de reforma parcial de la Constitución.
+
+- Los conflictos de competencia entre la jurisdicción indígena originaria campesina y la jurisdicción ordinaria y agroambiental.
+
+- Los recursos directos de nulidad.
+
+###### Artículo 203.
+
+Las decisiones y sentencias del Tribunal Constitucional Plurinacional son de carácter vinculante y de cumplimiento obligatorio, y contra ellas no cabe recurso ordinario ulterior alguno.
+
+###### Artículo 204.
+
+La ley determinará los procedimientos que regirán ante el Tribunal Constitucional Plurinacional.
+
+### TÍTULO IV ÓRGANO ELECTORAL
+
+#### CAPÍTULO PRIMERO ÓRGANO ELECTORAL PLURINACIONAL
 
 ###### Artículo 205.
 
@@ -17513,34 +4700,11 @@ Ministerio de la Presidencia - V.C.G.G
 
 - El Tribunal Supremo Electoral está compuesto por siete miembros, quienes durarán en sus funciones seis años sin posibilidad de reelección, y al menos dos de los cuales serán de origen indígena originario campesino.
 
-- La  Asamblea  Legislativa  Plurinacional,  por  dos  tercios  de  votos  de  los  miembros presentes,  elegirá  a  seis  de  los  miembros  del  Órgano  Electoral  Plurinacional.  La Presidenta o el Presidente del Estado designará a uno de sus miembros.
+- La Asamblea Legislativa Plurinacional, por dos tercios de votos de los miembros presentes, elegirá a seis de los miembros del Órgano Electoral Plurinacional. La Presidenta o el Presidente del Estado designará a uno de sus miembros.
 
 - La elección de los miembros del Órgano Electoral Plurinacional requerirá de convocatoria pública previa, y calificación de capacidad y méritos a través de concurso público.
 
 Fundación Konrad Adenauer (KAS)
-
-CONSTITUCIÓN POLÍTICA DEL ESTADO
-
-- Las  consultas  de  las autoridades  indígenas  originario  campesinas  sobre  la aplicación de sus normas jurídicas aplicadas a un caso concreto. La decisión del Tribunal Constitucional es obligatoria.
-
-- El control previo de constitucionalidad en la ratificación de tratados internacionales. 10.	 La constitucionalidad del procedimiento de reforma parcial de la Constitución.
-
-- Los conflictos de competencia entre la jurisdicción indígena originaria campesina y la jurisdicción ordinaria y agroambiental.
-
-- Los recursos directos de nulidad.
-
-###### Artículo 203.
-
-Las decisiones y sentencias del Tribunal Constitucional Plurinacional son de carácter vinculante y de cumplimiento obligatorio, y contra ellas no cabe recurso ordinario ulterior alguno.
-
-###### Artículo 204.
-
-La ley determinará los procedimientos que regirán ante el Tribunal Constitucional Plurinacional.
-
-### TÍTULO IV ÓRGANO ELECTORAL
-
-#### CAPÍTULO PRIMERO ÓRGANO ELECTORAL PLURINACIONAL
-
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
@@ -17853,27 +5017,29 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
+##### ISKAY KAQ RAK'IY MINISTERIO PUBLICOMANTA
+
 ###### Juch'uy kamachiy 225.
 
-- Ministerio  Público  legalidad  nisqata  chantapìs  tukuy  runaqpata  intereses  generales nisqata  qhawanqa,  acción  penal  pública  ruwanqa.  Ministerio  Público  nisqa  atonomía nisqayuq.
+- Ministerio Público legalidad nisqata chantapìs tukuy runaqpata intereses generales nisqata qhawanqa, acción penal pública ruwanqa. Ministerio Público nisqa atonomía nisqayuq.
 
 - Kamachiymanjina, kasqanmanjina Ministerio Público allinta llank'aninta ruwanan tiyan.
 
 ###### Juch'uy kamachiy 226.
 
-- Estadomanta  warmi  manaqa  qhari  Fiscal  Generalpa  Ministerio  Publicomanta  Kuraq Kamachiq.
+- Estadomanta warmi manaqa qhari Fiscal Generalpa Ministerio Publicomanta Kuraq Kamachiq.
 
 - Ministerio Público fiscales departamentalesniyuq kanqa, fiscales materiayuq, chantapis kamachiymanjina waq fiscalesniyuq.
 
 ###### Juch'uy kamachiy 227.
 
-- Estadomanta  warmi  manaqa  qhari  Fiscal  General  iskay  tercios  votoswan  Asamblea Legislativa Plurinacionalpi kaqkunawan aqllakunqa. Ñaqpaqtaqa uk convocatoria nisqa lluqsinan  tiyan,  chantapis  laphinkunata  kayninmanta,  yachaqayninmanta  ima  apanan tiyan.
+- Estadomanta warmi manaqa qhari Fiscal General iskay tercios votoswan Asamblea Legislativa Plurinacionalpi kaqkunawan aqllakunqa. Ñaqpaqtaqa uk convocatoria nisqa lluqsinan tiyan, chantapis laphinkunata kayninmanta, yachaqayninmanta ima apanan tiyan.
 
 - Estadomanta warmi manaqa qhari Fiscal General servidores publicosmanta requisitos generales específicos nisqayuq kanan tiyan, imachus requisitos específicos Magistratura Tribunal Supremo Justiciamanta kasan, chaykunayuq im kanan tiyan.
 
 ###### Juch'uy kamachiy 228.
 
-Warmi  manaqa  qhari  Fiscal  General  Estadomanta  suqta  watata  llank'anqa,  manataq watiqmanta aqllasqa kanqachu.
+Warmi manaqa qhari Fiscal General Estadomanta suqta watata llank'anqa, manataq watiqmanta aqllasqa kanqachu.
 
 #### KINSA KAQ JUCH'UY PHATMA ESTADOTA JARK'AQ LLANK'AYMANTA
 
@@ -17881,21 +5047,21 @@ Warmi  manaqa  qhari  Fiscal  General  Estadomanta  suqta  watata  llank'anqa,  
 
 ###### Juch'uy kamachiy 229.
 
-Estadomanta Procuraduría Generalqa uk institución representación jurídica pública, Estadoq kapuyninta  qhawanan  tiyan.  Imaynachus  kanan    tiyan,  imaynatachus  llank'ananku  tiyan, chaykunaqa jatun kamachiymanjina kanqa.
+Estadomanta Procuraduría Generalqa uk institución representación jurídica pública, Estadoq kapuyninta qhawanan tiyan. Imaynachus kanan tiyan, imaynatachus llank'ananku tiyan, chaykunaqa jatun kamachiymanjina kanqa.
 
 ###### Juch'uy kamachiy 230.
 
-- Warmi  manaqa  qhari  Procuraduría  General  Estado  ukhupi  Procurador  Generalpiwan servidores publicospiwan kasanku:
+- Warmi manaqa qhari Procuraduría General Estado ukhupi Procurador Generalpiwan servidores publicospiwan kasanku:
 
 Ministerio de la Presidencia - V.C.G.G
 
-##### ISKAY KAQ RAK'IY MINISTERIO PUBLICOMANTA
-
 66
+
+##### SECCIÓN II MINISTERIO PÚBLICO
 
 ###### Artículo 225.
 
-- El  Ministerio  Público  defenderá la legalidad y los intereses generales de la sociedad, y  ejercerá  la  acción  penal  pública.  El  Ministerio  Público  tiene  autonomía  funcional, administrativa y financiera.
+- El Ministerio Público defenderá la legalidad y los intereses generales de la sociedad, y ejercerá la acción penal pública. El Ministerio Público tiene autonomía funcional, administrativa y financiera.
 
 - El Ministerio Público ejercerá sus funciones de acuerdo con los principios de legalidad, oportunidad, objetividad, responsabilidad, autonomía, unidad y jerarquía.
 
@@ -17907,9 +5073,9 @@ Ministerio de la Presidencia - V.C.G.G
 
 ###### Artículo 227.
 
-- I . La  Fiscal o el Fiscal General del Estado se designará por dos tercios de votos de los miembros presentes de la Asamblea Legislativa Plurinacional. La designación requerirá de convocatoria pública previa, y calificación de capacidad profesional y méritos, a través de concurso público.
+- I . La Fiscal o el Fiscal General del Estado se designará por dos tercios de votos de los miembros presentes de la Asamblea Legislativa Plurinacional. La designación requerirá de convocatoria pública previa, y calificación de capacidad profesional y méritos, a través de concurso público.
 
-- La Fiscal o el Fiscal General del Estado reunirá los requisitos generales de los servidores públicos,  así  como  los  específicos  establecidos  para  la  Magistratura  del  Tribunal Supremo de Justicia.
+- La Fiscal o el Fiscal General del Estado reunirá los requisitos generales de los servidores públicos, así como los específicos establecidos para la Magistratura del Tribunal Supremo de Justicia.
 
 ###### Artículo 228.
 
@@ -17921,13 +5087,11 @@ La Fiscal o el Fiscal General del Estado ejercerá sus funciones por seis años,
 
 ###### Artículo 229.
 
-La  Procuraduría  General  del  Estado  es  la  institución  de  representación  jurídica  pública que tiene como atribución promover, defender y precautelar los intereses del Estado. Su organización y estructura serán determinadas por la ley.
+La Procuraduría General del Estado es la institución de representación jurídica pública que tiene como atribución promover, defender y precautelar los intereses del Estado. Su organización y estructura serán determinadas por la ley.
 
 ###### Artículo 230.
 
 - I . La Procuraduría General del Estado está conformada por la Procuradora o el Procurador General, que la dirigirá, y los demás servidores públicos que determine la ley.
-
-##### SECCIÓN II MINISTERIO PÚBLICO
 
 Fundación Konrad Adenauer (KAS)
 
@@ -18197,7 +5361,7 @@ Es incompatible con el ejercicio de la función pública:
 
 ###### Artículo 240.
 
-- T oda persona que ejerza un cargo electo podrá ser revocada de su mandato, excepto el Órgano Judicial, de acuerdo con la ley.
+- Toda persona que ejerza un cargo electo podrá ser revocada de su mandato, excepto el Órgano Judicial, de acuerdo con la ley.
 
 - La revocatoria del mandato podrá solicitarse cuando haya transcurrido al menos la mitad del periodo del mandato. La revocatoria del mandato no podrá tener lugar durante el último año de la gestión en el cargo.
 
@@ -18645,7 +5809,7 @@ La integridad territorial, la preservación y el desarrollo de zonas fronterizas
 
 ###### Artículo 262.
 
-- Constituye zona de seguridad fronteriza los cincuenta kilómetros a partir de la línea de frontera. Ninguna  persona  extranjera,  individualmente  o  en  sociedad,  podrá  adquirir  propiedad  en este espacio, directa o indirectamente, ni poseer por ningún título aguas, suelo ni subsuelo; excepto en el caso de necesidad estatal declarada por ley expresa aprobada por dos tercios de la Asamblea Legislativa Plurinacional. La propiedad o la posesión afectadas en caso de incumplimiento de esta prohibición pasarán a beneficio del Estado, sin ningun a indemnización.
+- Constituye zona de seguridad fronteriza los cincuenta kilómetros a partir de la línea de frontera. Ninguna persona extranjera, individualmente o en sociedad, podrá adquirir propiedad en este espacio, directa o indirectamente, ni poseer por ningún título aguas, suelo ni subsuelo; excepto en el caso de necesidad estatal declarada por ley expresa aprobada por dos tercios de la Asamblea Legislativa Plurinacional. La propiedad o la posesión afectadas en caso de incumplimiento de esta prohibición pasarán a beneficio del Estado, sin ninguna indemnización.
 
 Ministerio de la Presidencia - V.C.G.G
 
@@ -18659,7 +5823,7 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-- Ñawpaqman thaskiyninta qhawarinanpaq, uk Suyulla kananpaq ima Zona de seguridad fronteriza  uk  kamachiymanjina,  uk  apaykachaymanjina,  mayk'a  qulqichus  kanqa, pikunachus qhawanqa chaykunamanjina kanqa.
+- II . Ñawpaqman thaskiyninta qhawarinanpaq, uk Suyulla kananpaq ima Zona de seguridad fronteriza  uk  kamachiymanjina,  uk  apaykachaymanjina,  mayk'a  qulqichus  kanqa, pikunachus qhawanqa chaykunamanjina kanqa.
 
 ###### Juch'uy kamachiy 263.
 
@@ -18693,7 +5857,7 @@ Organismos parlamentarios supraestatales proceso de integración nisqamanta lluq
 
 - Sumaq k'acha parlariywan, uk rimariyman chayaspa, suyunchis kay jallp'aqta chayaspa, suyunchis kay jallp'aqta kamachiyninpuni kasan, mayqin jallp'atachus mama qhuchaman lluqsinqa, chay jallp'aqa Estado bolivianoqta ruwayninpuni kasan.
 
-- La  zona  de  seguridad  fronteriza  estará  sujeta  a  un  régimen  jurídico,  económico, administrativo y de seguridad especial, orientado a promover y priorizar su desarrollo, y a garantizar la integridad del Estado.
+- II . La  zona  de  seguridad  fronteriza  estará  sujeta  a  un  régimen  jurídico,  económico, administrativo y de seguridad especial, orientado a promover y priorizar su desarrollo, y a garantizar la integridad del Estado.
 
 75
 
@@ -19079,6 +6243,8 @@ Ministerio de la Presidencia - V.C.G.G
 
 80
 
+#### CAPÍTULO SEXTO ÓRGANOS LEGISLATIVOS, DELIBERATIVOS Y FISCALIZADORES DE LOS GOBIERNOS AUTÓNOMOS
+
 ###### Artículo 287.
 
 - Las  candidatas  y  los  candidatos  a  los  concejos  y  a  las  asambleas  de  los  gobiernos autónomos deberán cumplir con las condiciones generales de acceso al servicio público, y:
@@ -19110,8 +6276,6 @@ La  autonomía  indígena  originaria  campesina  consiste  en  el  autogobierno
 - Son  autonomías  indígena  originario  campesinas  los  territorios  indígena  originario campesinos,  y  los  municipios,  y  regiones  que  adoptan  tal  cualidad  de  acuerdo  a  lo establecido en esta Constitución y la ley.
 
 - Dos  o  más  pueblos  indígenas  originarios  campesinos  podrán  conformar  una  sola autonomía indígena originaria campesina.
-
-#### CAPÍTULO SEXTO ÓRGANOS LEGISLATIVOS, DELIBERATIVOS Y FISCALIZADORES DE LOS GOBIERNOS AUTÓNOMOS
 
 Fundación Konrad Adenauer (KAS)
 
@@ -20121,66 +7285,6 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-Ministerio de la Presidencia - V.C.G.G
-
-Fundación Konrad Adenauer (KAS)
-
-- Administrar los impuestos de su competencia en el ámbito de su jurisdicción.
-
-- Elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto.
-
-- Planificación y gestión de la ocupación territorial.
-
-- Vivienda, urbanismo y redistribución poblacional conforme a sus prácticas culturales en el ámbito de su jurisdicción.
-
-- Promover  y  suscribir  acuerdos  de  cooperación  con  otros  pueblos  y  entidades públicas y privadas.
-
-- Mantenimiento y administración de sus sistemas de microriego
-
-- Fomento y desarrollo de su vocación productiva.
-
-- Construcción, mantenimiento y administración de la infraestructura necesaria para el desarrollo en su jurisdicción.
-
-- Participar, desarrollar y ejecutar los mecanismos de consulta previa, libre e informada relativos a la aplicación de medidas legislativas, ejecutivas y administrativas que los afecten.
-
-- Preservación del hábitat y el paisaje, conforme a sus principios, normas y prácticas culturales, tecnológicas, espaciales e históricas.
-
-- Desarrollo y ejercicio de sus instituciones democráticas conforme a sus normas y procedimientos propios.
-
-- Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias compartidas:
-
-- Intercambios internacionales en el marco de la política exterior del Estado.
-
-- Participación y control en el aprovechamiento de áridos.
-
-- Resguardo y registro de los derechos intelectuales colectivos, referidos a conocimientos  de  recursos  genéticos,  medicina  tradicional  y  germoplasma,  de acuerdo con la ley.
-
-- Control y regulación a las instituciones y organizaciones externas que desarrollen actividades  en  su  jurisdicción,  inherentes  al  desarrollo  de  su  institucionalidad, cultura, medio ambiente y patrimonio natural.
-
-- Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias concurrentes:
-
-- Organización, planificación y ejecución de políticas de salud en su jurisdicción.
-
-- Organización, planificación y ejecución de planes, programas y proyectos de educación, ciencia, tecnología e investigación, en el marco de la legislación del Estado.
-
-- Conservación de recursos forestales, biodiversidad y medio ambiente
-
-- Sistemas de riego, recursos hídricos, fuentes de agua y energía, en el marco de la política del Estado, al interior de su jurisdicción.
-
-- Construcción de sistemas de microriego.
-
-- Construcción de caminos vecinales y comunales
-
-- Promoción de la construcción de infraestructuras productivas.
-
-- Promoción y fomento a la agricultura y ganadería.
-
-- Control  y  monitoreo  socioambiental  a  las  actividades  hidrocarburíferas  y  mineras
-
-- que se desarrollan en su jurisdicción.
-
-- Sistemas de control fiscal y administración de bienes y servicios.
-
 - Impuestos nisqata sumaqta apaykachananku tiyan.
 
 - Qulqita apaykachananpaq uk sumaq wakichiyta wakichinan tiyan, chanta apaykachayta atinankupaq.
@@ -20236,120 +7340,64 @@ Fundación Konrad Adenauer (KAS)
 - Bienes servicios nisqata qhawaykachanapaq ñankunata umanchakunanku tiyan.
 
 Ministerio de la Presidencia - V.C.G.G
-
-Fundación Konrad Adenauer (KAS)
-
-- Administrar los impuestos de su competencia en el ámbito de su jurisdicción.
-
-- Elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto.
-
-- Planificación y gestión de la ocupación territorial.
-
-- Vivienda, urbanismo y redistribución poblacional conforme a sus prácticas culturales en el ámbito de su jurisdicción.
-
-- Promover  y  suscribir  acuerdos  de  cooperación  con  otros  pueblos  y  entidades públicas y privadas.
-
-- Mantenimiento y administración de sus sistemas de microriego
-
-- Fomento y desarrollo de su vocación productiva.
-
-- Construcción, mantenimiento y administración de la infraestructura necesaria para el desarrollo en su jurisdicción.
-
-- Participar, desarrollar y ejecutar los mecanismos de consulta previa, libre e informada relativos a la aplicación de medidas legislativas, ejecutivas y administrativas que los afecten.
-
-- Preservación del hábitat y el paisaje, conforme a sus principios, normas y prácticas culturales, tecnológicas, espaciales e históricas.
-
-- Desarrollo y ejercicio de sus instituciones democráticas conforme a sus normas y procedimientos propios.
-
-- Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias compartidas:
-
-- Intercambios internacionales en el marco de la política exterior del Estado.
-
-- Participación y control en el aprovechamiento de áridos.
-
-- Resguardo y registro de los derechos intelectuales colectivos, referidos a conocimientos  de  recursos  genéticos,  medicina  tradicional  y  germoplasma,  de acuerdo con la ley.
-
-- Control y regulación a las instituciones y organizaciones externas que desarrollen actividades  en  su  jurisdicción,  inherentes  al  desarrollo  de  su  institucionalidad, cultura, medio ambiente y patrimonio natural.
-
-- Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias concurrentes:
-
-- Organización, planificación y ejecución de políticas de salud en su jurisdicción.
-
-- Organización, planificación y ejecución de planes, programas y proyectos de educación, ciencia, tecnología e investigación, en el marco de la legislación del Estado.
-
-- Conservación de recursos forestales, biodiversidad y medio ambiente
-
-- Sistemas de riego, recursos hídricos, fuentes de agua y energía, en el marco de la política del Estado, al interior de su jurisdicción.
-
-- Construcción de sistemas de microriego.
-
-- Construcción de caminos vecinales y comunales
-
-- Promoción de la construcción de infraestructuras productivas.
-
-- Promoción y fomento a la agricultura y ganadería.
-
-- Control  y  monitoreo  socioambiental  a  las  actividades  hidrocarburíferas  y  mineras
-
-- que se desarrollan en su jurisdicción.
-
-- Sistemas de control fiscal y administración de bienes y servicios.
-
-- Impuestos nisqata sumaqta apaykachananku tiyan.
-
-- Qulqita apaykachananpaq uk sumaq wakichiyta wakichinan tiyan, chanta apaykachayta atinankupaq.
-
-- Mayllapipis imaynatachus jallp'ayuq kana chayta uk wakichiywan qhawanan tiyan, chantapis chaypi llank'anan tiyan.
-
-- Imayntachus paykuna kawsakunku, tiyakunku, chaymanjina juridiccionninpi tiyakunanakupaq paykuna  wasikunata qhawananku  tiyan,  imaynatachus  may chiqankunapipchus llaqtachakunqanku chaytapis qhawananku tiyan.
-
-- Waq llaqtakunawan Estadoq llank'aqkunawan, chay ukkunawanpis yanapakunankupaq qhawananku tiyan.
-
-- Qarpanankupaq larq'ajinata ruwasqankuta qhawananku tiyan.
-
-- Tarpuspa uqharisqankuta astqawan sumaq kananpaq qhawarinanku tiyan.
-
-- Jurisdiccionnin ñawpaqman apakunanpaq llank'ana wasiyuq kananpaq sayachinanku tiyan.
-
-- Imaynatachus ñawpaqtaraq imamantapis runata watukunan tiyan chayta qhawanantaq ruwanantaq tiyan.
-
-- Kasqankumanjina imaynatachus imallapis kawsakun, imaynachus pampa, urqukuna imakunallapis kasanku, chaykuna imaynachus kasqankuta qhawananku tiyan.
-
-- Kamachiyninkumanjina institucionesninta ñawpaqman thaskirichinanku tiyan.
-
-- Autonomías indígenas originario campesinas kaykunata ruwayta atinku:
-
-- Kamachiymanjina puquchisqankuyapis ruwasqankutapis jawa suyukunawan ruwayta atinku.
-
-- Aridos kayta chantapis qhawaykachayta atinku.
-
-- Kamachiymanjina runa mana paypata unay jampi jampikunamantapis imamantapis qilqasqa llank'aynin kaqtinqa mana suwayta atinchu.
-
-- Jurisdiccionninpi imatachus paykunamanta jawa suyumanta llank'aqkuna llank'asanku chayta qhawanan tiyan.
-
-- Autonomías indígena originario campesinos kaykunata ruwayta atinku:
-
-- Jurisdiccionninpi  tukuy  ima  jampikunata  yuyaychakusqankuta,  wakichisqankuta llank'ayninkuta ima qhawarinanku tiyan.
-
-- Estadoq kamachiyninmanjina yachaqanapaq willaykunata mask'ananpaq ima wakichiykunata wakichinanku tiyan.
-
-- Sach'akunata, waqkunapiwan  aswan  sumaq  kawsay  kananpaq, runa allinta samariyta atinanpaq qhawarinanku tiyan.
-
-- Estadoq kamachiyninmanjina jurisdiccionnin ukhupi qarqanapaq, yaku ukyanapaqpis, k'anchaykuna ima qhawanan tiyan.
-
-- Imaynatachus qarqanqanku chayta ruwananku tiyan.
-
-- Ñankunata kichananku tiyan.
-
-- Promoción infraestructuras ruwaykunamanta qhawananku tiyan.
-
-- Agricultura chantapis ganadería nisqata qhawarinanku tiyan.
-
-- Jurisdiccionninpi qhuyakuna kaqkunata ama anchata wayrata khuchichannakupaq qhawananku tiyan.
-
-- Bienes servicios nisqata qhawaykachanapaq ñankunata umanchakunanku tiyan.
 
 90
+
+- Administrar los impuestos de su competencia en el ámbito de su jurisdicción.
+
+- Elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto.
+
+- Planificación y gestión de la ocupación territorial.
+
+- Vivienda, urbanismo y redistribución poblacional conforme a sus prácticas culturales en el ámbito de su jurisdicción.
+
+- Promover  y  suscribir  acuerdos  de  cooperación  con  otros  pueblos  y  entidades públicas y privadas.
+
+- Mantenimiento y administración de sus sistemas de microriego
+
+- Fomento y desarrollo de su vocación productiva.
+
+- Construcción, mantenimiento y administración de la infraestructura necesaria para el desarrollo en su jurisdicción.
+
+- Participar, desarrollar y ejecutar los mecanismos de consulta previa, libre e informada relativos a la aplicación de medidas legislativas, ejecutivas y administrativas que los afecten.
+
+- Preservación del hábitat y el paisaje, conforme a sus principios, normas y prácticas culturales, tecnológicas, espaciales e históricas.
+
+- Desarrollo y ejercicio de sus instituciones democráticas conforme a sus normas y procedimientos propios.
+
+- Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias compartidas:
+
+- Intercambios internacionales en el marco de la política exterior del Estado.
+
+- Participación y control en el aprovechamiento de áridos.
+
+- Resguardo y registro de los derechos intelectuales colectivos, referidos a conocimientos  de  recursos  genéticos,  medicina  tradicional  y  germoplasma,  de acuerdo con la ley.
+
+- Control y regulación a las instituciones y organizaciones externas que desarrollen actividades  en  su  jurisdicción,  inherentes  al  desarrollo  de  su  institucionalidad, cultura, medio ambiente y patrimonio natural.
+
+- Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias concurrentes:
+
+- Organización, planificación y ejecución de políticas de salud en su jurisdicción.
+
+- Organización, planificación y ejecución de planes, programas y proyectos de educación, ciencia, tecnología e investigación, en el marco de la legislación del Estado.
+
+- Conservación de recursos forestales, biodiversidad y medio ambiente
+
+- Sistemas de riego, recursos hídricos, fuentes de agua y energía, en el marco de la política del Estado, al interior de su jurisdicción.
+
+- Construcción de sistemas de microriego.
+
+- Construcción de caminos vecinales y comunales
+
+- Promoción de la construcción de infraestructuras productivas.
+
+- Promoción y fomento a la agricultura y ganadería.
+
+- Control  y  monitoreo  socioambiental  a  las  actividades  hidrocarburíferas  y  mineras que se desarrollan en su jurisdicción.
+
+- Sistemas de control fiscal y administración de bienes y servicios.
+
+Fundación Konrad Adenauer (KAS)
 
 [[END OF PAGE 91]]
 
@@ -20759,7 +7807,7 @@ Ministerio de la Presidencia - V.C.G.G
 
 - La inversión boliviana se priorizará frente a la inversión extranjera.
 
-- T oda inversión extranjera estará sometida a la jurisdicción, a las leyes y a las autoridades bolivianas,  y  nadie  podrá  invocar  situación  de  excepción,  ni  apelar  a  reclamaciones diplomáticas para obtener un tratamiento más favorable.
+- Toda inversión extranjera estará sometida a la jurisdicción, a las leyes y a las autoridades bolivianas, y nadie podrá invocar situación de excepción, ni apelar a reclamaciones diplomáticas para obtener un tratamiento más favorable.
 
 - Las  relaciones  económicas  con  estados  o  empresas  extranjeras  se  realizarán  en condiciones de independencia, respeto mutuo y equidad. No se podrá otorgar a Estados o  empresas  extranjeras  condiciones  más  beneficiosas  que  las  establecidas  para  los bolivianos.
 
@@ -20953,6 +8001,8 @@ ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
+##### KINSA KAQ RAK'IY POLÍTICA FINANCIERAMANTA
+
 ###### Juch'uy kamachiy 330.
 
 - Ama  pitapis  saruchasqa  nitaq  juch'uychaspa,  tukuypaqpis  kikin  kanannapaq  Estado sistema financiero nisqata qhawanqa.
@@ -20987,9 +8037,9 @@ Políticas sectoriales nisqanmanjina, Estado kaykunata jark'anan tiyan, chantapi
 
 Ministerio de la Presidencia - V.C.G.G
 
-##### KINSA KAQ RAK'IY POLÍTICA FINANCIERAMANTA
-
 98
+
+##### SECCIÓN III POLÍTICA FINANCIERA
 
 ###### Artículo 330.
 
@@ -21022,8 +8072,6 @@ Las operaciones financieras realizadas por personas naturales o jurídicas, boli
 ###### Artículo 334.
 
 En el marco de las políticas sectoriales, el Estado protegerá y fomentará:
-
-##### SECCIÓN III POLÍTICA FINANCIERA
 
 Fundación Konrad Adenauer (KAS)
 
@@ -21235,6 +8283,10 @@ Ministerio de la Presidencia - V.C.G.G
 
 101
 
+### TÍTULO II MEDIO AMBIENTE, RECURSOS NATURALES, TIERRA Y TERRITORIO
+
+#### CAPÍTULO PRIMERO MEDIO AMBIENTE
+
 ###### Artículo 342.
 
 Es  deber  del  Estado  y  de  la  población  conservar,  proteger  y  aprovechar  de  manera sustentable los recursos naturales y la biodiversidad, así como mantener el equilibrio del medio ambiente.
@@ -21268,10 +8320,6 @@ El  patrimonio  natural  es  de  interés  público  y  de  carácter  estratég
 - El  Estado  y  la  sociedad  promoverán  la  mitigación  de  los  efectos  nocivos  al  medio ambiente, y de los pasivos ambientales que afectan al país. Se declara la responsabilidad por los daños ambientales históricos y la imprescriptibilidad de los delitos ambientales.
 
 Fundación Konrad Adenauer (KAS)
-
-### TÍTULO II MEDIO AMBIENTE, RECURSOS NATURALES, TIERRA Y TERRITORIO
-
-#### CAPÍTULO PRIMERO MEDIO AMBIENTE
 
 [[END OF PAGE 102]]
 
@@ -21311,11 +8359,11 @@ Reserva fiscalmanta ima titulopis kachun chayqa qhasilla kanqa, mana imapaq kanq
 
 - Recursos  naturalespata  apaykachayninqa  tukuy  runa  Bolivia  suyumanta  tukuy  runa rimayninwan ruwakunan tiyan. Apaykachayninpi llank'ayninpi ima entidades mixtas nisqa kayta atin, chantapis tukuy runa sumaqta kawsakunanpaq qhawanan tiyan.
 
-- Quienes realicen actividades de impacto sobre el medio ambiente deberán, en todas las etapas de la producción, evitar, minimizar, mitigar, remediar, reparar y resarcir los daños que se ocasionen al medio ambiente y a la salud de las personas, y establecerán las medidas de seguridad necesarias para neutralizar los efectos posibles de los pasivos ambientales.
-
 Ministerio de la Presidencia - V.C.G.G
 
 102
+
+- Quienes realicen actividades de impacto sobre el medio ambiente deberán, en todas las etapas de la producción, evitar, minimizar, mitigar, remediar, reparar y resarcir los daños que se ocasionen al medio ambiente y a la salud de las personas, y establecerán las medidas de seguridad necesarias para neutralizar los efectos posibles de los pasivos ambientales.
 
 #### CAPÍTULO SEGUNDO RECURSOS NATURALES
 
@@ -21601,6 +8649,8 @@ Ministerio de la Presidencia - V.C.G.G
 
 106
 
+#### CAPÍTULO CUARTO MINERÍA Y METALURGIA
+
 ###### Artículo 369.
 
 - El  Estado  será  responsable  de  las  riquezas  mineralógicas  que  se  encuentren  en  el suelo y subsuelo cualquiera sea su origen y su aplicación será regulada por la ley. Se reconoce como actores productivos a la industria minera estatal, industria minera privada y sociedades cooperativas.
@@ -21630,8 +8680,6 @@ Ministerio de la Presidencia - V.C.G.G
 - Las áreas de explotación minera otorgadas por contrato son intransferibles, inembargables e intransmisibles por sucesión hereditaria.
 
 - El domicilio legal de las empresas mineras se establecerá en la jurisdicción local donde se realice la mayor explotación minera.
-
-#### CAPÍTULO CUARTO MINERÍA Y METALURGIA
 
 Fundación Konrad Adenauer (KAS)
 
@@ -21751,7 +8799,7 @@ Ministerio de la Presidencia - V.C.G.G
 
 - El  Estado regulará el manejo y gestión sustentable de los recursos hídricos y de las cuencas para riego, seguridad alimentaria y servicios básicos, respetando los usos y costumbres de las comunidades.
 
-- III . 	 	 Es deber del Estado realizar los estudios para la identificación de aguas fósiles y su consiguiente protección, manejo y aprovechamiento sustentable.
+- Es deber del Estado realizar los estudios para la identificación de aguas fósiles y su consiguiente protección, manejo y aprovechamiento sustentable.
 
 ###### Artículo 376.
 
@@ -21773,7 +8821,7 @@ Los recursos hídricos de los ríos, lagos y lagunas que conforman las cuencas h
 
 ###### Artículo 379.
 
-- I . El  Estado  desarrollará  y  promoverá  la  investigación  y  el  uso  de  nuevas  formas  de producción de energías alternativas, compatibles con la conservación del ambiente.
+- El  Estado  desarrollará  y  promoverá  la  investigación  y  el  uso  de  nuevas  formas  de producción de energías alternativas, compatibles con la conservación del ambiente.
 
 - El Estado garantizará la generación de energía para el consumo interno; la exportación de los excedentes de energía debe prever las reservas necesarias para el país.
 
@@ -21811,7 +8859,13 @@ Estado  recursos  naturales  nisqamanta  material  biológico  urqhusqata,  ñaw
 
 Estado imachus biodiversidad nisqamanta urqhukusan chaykunapaq imaynatachus, mayk'aqchus  urqhukunqa  chaykunata  kamachinan  tiyan,  Biodiversidad  nisqa  kananpaq, jark'aqa  kananpaqm  jap'ikapunanpaq,  sumaq  kananpaq  kamachisqanqa  kanan  tiyan. Jatun kamachiymanjina, imaynachus ñawpaq karqa chayjina kananpaq, puquynin, kaynin, ranqhaynin, industrialización nisqa ima kanan tiyan.
 
+Ministerio de la Presidencia - V.C.G.G
+
 109
+
+#### CAPÍTULO SÉPTIMO BIODIVERSIDAD, COCA, ÁREAS PROTEGIDAS Y RECURSOS FORESTALES
+
+##### SECCIÓN I BIODIVERSIDAD
 
 ###### Artículo 380.
 
@@ -21833,12 +8887,6 @@ Es  facultad  y  deber  del  Estado  la  defensa,  recuperación,  protección  
 
 El Estado establecerá medidas de restricción parcial o total, temporal o permanente, sobre los usos extractivos de los recursos de la biodiversidad. Las medidas estarán orientadas a las necesidades de preservación, conservación, recuperación y restauración de la biodiversidad en riesgo de extinción. Se sancionará penalmente la tenencia, manejo y tráfico ilegal de especies de la biodiversidad.
 
-#### CAPÍTULO SÉPTIMO BIODIVERSIDAD, COCA, ÁREAS PROTEGIDAS Y RECURSOS FORESTALES
-
-##### SECCIÓN I BIODIVERSIDAD
-
-Ministerio de la Presidencia - V.C.G.G
-
 Fundación Konrad Adenauer (KAS)
 
 [[END OF PAGE 110]]
@@ -21848,6 +8896,8 @@ Fundación Konrad Adenauer (KAS)
 ESTADOQ KURAQ KAMACHIYNIN
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
+
+##### ISKAY KAQ RAK'IY KUKAMANTA
 
 ###### Juch'uy kamachiy 384.
 
@@ -21875,9 +8925,9 @@ Bolivia  suyu  ñawpaqman  thaskirinanpaq  sach'a  sach'akuna,  sach'a  jallp'ak
 
 Ministerio de la Presidencia - V.C.G.G
 
-##### ISKAY KAQ RAK'IY KUKAMANTA
-
 110
+
+##### SECCIÓN II COCA
 
 ###### Artículo 384.
 
@@ -21902,8 +8952,6 @@ Los bosques naturales y los suelos forestales son de carácter estratégico para
 - El Estado deberá garantizar la conservación de los bosques naturales en las áreas de vocación forestal, su aprovechamiento sustentable, la conservación y recuperación de la flora, fauna y áreas degradadas.
 
 - La ley regulará la protección y aprovechamiento de las especies forestales de relevancia socioeconómica, cultural y ecológica.
-
-##### SECCIÓN II COCA
 
 Fundación Konrad Adenauer (KAS)
 
@@ -21967,7 +9015,7 @@ Las comunidades indígena originario campesinas situadas dentro de áreas forest
 
 ###### Artículo 390.
 
-- I . La cuenca amazónica boliviana constituye un espacio estratégico de especial protección para el desarrollo integral del país por su elevada sensibilidad ambiental, biodiversidad existente, recursos hídricos y por las ecoregiones.
+- La cuenca amazónica boliviana constituye un espacio estratégico de especial protección para el desarrollo integral del país por su elevada sensibilidad ambiental, biodiversidad existente, recursos hídricos y por las ecoregiones.
 
 - La amazonia boliviana comprende la totalidad del departamento de Pando, la provincia Iturralde  del  departamento  de  La  Paz  y  las  provincias  Vaca  Díez  y  Ballivián  del departamento del Beni. El desarrollo integral de la amazonia boliviana, como espacio territorial  selvático  de  bosques  húmedos  tropicales,  de  acuerdo  a  sus  específicas características de riqueza forestal extractiva y recolectora, se regirá por ley especial en beneficio de la región y del país.
 
@@ -22017,11 +9065,11 @@ Estado  qhawan,  jark'an  sapa  uk  jallp'auyq,  chaqra  llaqta  runakuna  jallp
 
 - Llaqta  runapaq  mana  allin  kaqtinqa,  jallp'amanta  mana  munasqanmanjina  qulqita jap'imanchu.
 
-- Se reconoce el valor histórico cultural y económico de la siringa y del castaño, símbolos de  la  amazonia  boliviana,  cuya  tala  será  penalizada,  salvo  en  los  casos  de  interés público regulados por la ley.
-
 Ministerio de la Presidencia - V.C.G.G
 
 112
+
+- Se reconoce el valor histórico cultural y económico de la siringa y del castaño, símbolos de  la  amazonia  boliviana,  cuya  tala  será  penalizada,  salvo  en  los  casos  de  interés público regulados por la ley.
 
 #### CAPÍTULO NOVENO TIERRA Y TERRITORIO
 
@@ -22231,6 +9279,10 @@ Entidades territoriales autónomas, descentralizadas nisqawan parlaspa, Estadoqt
 
 - Puquykunata  puqchinapaq,  uywata  mirachinapaq,  imaynatachus  qarpana  kasan, chaypi llank'ana tiyan.
 
+Ministerio de la Presidencia - V.C.G.G
+
+115
+
 - El  incremento  sostenido  y  sustentable  de  la  productividad  agrícola,  pecuaria, manufacturera,  agroindustrial  y  turística,  así  como  su  capacidad  de  competencia comercial.
 
 - La  articulación  y  complementariedad  interna  de  las  estructuras  de  producción agropecuarias y agroindustriales.
@@ -22241,15 +9293,11 @@ Entidades territoriales autónomas, descentralizadas nisqawan parlaspa, Estadoqt
 
 - El fortalecimiento de la economía de los pequeños productores agropecuarios y de la economía familiar y comunitaria.
 
-Ministerio de la Presidencia - V.C.G.G
-
-115
-
 ###### Artículo 406.
 
 - El Estado garantizará el desarrollo rural integral sustentable por medio de políticas, planes, programas y proyectos integrales de fomento a la producción agropecuaria, artesanal, forestal y al turismo, con el objetivo de obtener el mejor aprovechamiento, transformación, industrialización y comercialización de los recursos naturales renovables.
 
-- II . El Estado promoverá y fortalecerá las organizaciones económicas productivas rurales, entre ellas a los artesanos, las cooperativas, las asociaciones de productores agropecuarios y  manufactureros,  y  las  micro,  pequeñas  y  medianas  empresas comunitarias agropecuarias, que contribuyan al desarrollo económico social del país, de acuerdo a su identidad cultural y productiva.
+- El Estado promoverá y fortalecerá las organizaciones económicas productivas rurales, entre ellas a los artesanos, las cooperativas, las asociaciones de productores agropecuarios y  manufactureros,  y  las  micro,  pequeñas  y  medianas  empresas comunitarias agropecuarias, que contribuyan al desarrollo económico social del país, de acuerdo a su identidad cultural y productiva.
 
 ###### Artículo 407.
 
@@ -22653,11 +9701,73 @@ ISKAY KAQ RAK'IY
 
 DERECHOS POLITICOSMANTA............................................................................................ 15
 
+Ministerio de la Presidencia - V.C.G.G
+
 121
 
 # INDICE
 
-Ministerio de la Presidencia - V.C.G.G
+Prólogo................................................................................................................................ 5
+
+Prefacio................................................................................................................................ 6
+
+CONSTITUCIÓN POLÍTICA DEL ESTADO.............................................................................. 7
+
+PREÁMBULO........................................................................................................................... 8
+
+EVO MORALES AYMA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA.......................................................... 8
+
+CONSTITUCION POLITICA DEL ESTADO
+
+PRIMERA PARTE..................................................................................................................... 9
+
+BASES FUNDAMENTALES DEL ESTADO
+
+DERECHOS, DEBERES Y GARANTÍAS................................................................................. 9
+
+TÍTULO I
+
+BASES FUNDAMENTALES DEL ESTADO.............................................................................. 9
+
+CAPÍTULO PRIMERO
+
+MODELO DE ESTADO............................................................................................................ 9
+
+CAPÍTULO SEGUNDO
+
+PRINCIPIOS, VALORES Y
+
+FINES DEL ESTADO.............................................................................................................. 10
+
+CAPÍTULO TERCERO
+
+SISTEMA DE GOBIERNO...................................................................................................... 11
+
+TÍTULO II
+
+DERECHOS FUNDAMENTALES Y GARANTÍAS.................................................................. 11
+
+CAPÍTULO PRIMERO
+
+DISPOSICIONES GENERALES............................................................................................ 12
+
+CAPÍTULO SEGUNDO
+
+DERECHOS FUNDAMENTALES........................................................................................... 13
+
+CAPÍTULO TERCERO
+
+DERECHOS CIVILES Y POLÍTICOS..................................................................................... 14
+
+SECCIÓN I
+
+DERECHOS CIVILES............................................................................................................ 14
+
+SECCIÓN II
+
+DERECHOS POLÍTICOS....................................................................................................... 15
 
 Fundación Konrad Adenauer (KAS)
 
@@ -22667,11 +9777,155 @@ Fundación Konrad Adenauer (KAS)
 
 ESTADOQ KURAQ KAMACHIYNIN
 
+TAWA KAQ JUCH'UY PHATMA............................................................................................. 16
+
+DERECHOS NACIONES, PUEBLOS INDÍGENAS
+
+ORIGINARIO CAMPESINOSMANTA..................................................................................... 16
+
+PHISQA KAQ PHATMA
+
+RUNAQ ATIYNIN, QULQIYUQ KAY ATIYNINMANTA............................................................ 18
+
+UK KAQ RAK'IY
+
+SUMAQ MEDIO AMBIENTEYUQ RUNA KAYTA ATIYNINMANTA........................................ 18
+
+ISKAY KAQ RAK'IY
+
+RUNA JAMPISQA KAY ATIYNIN, JAMPINAWASUYUQ KAY ATIYNIN................................. 18
+
+KINSA KAQ RAK'IY
+
+RUNA LLANK'AYNIYUQ ATIYNINMANTA.............................................................................. 20
+
+TAWA KAQ RAK'IY
+
+RUNA IMALLAYUQPIS KAY ATIYNINMANTA........................................................................ 23
+
+PHISQA KAQ RAK'IY
+
+WAWAKUNAQ, MAQT'AKUNAQ, IMILLAKUNAQ, WAYMAKUNAQ,
+
+SIPASKUNAQ RUWAY ATIYNINMANTA................................................................................ 23
+
+SUQTA KAQ RAK'IY
+
+AYLLUKUNAQ RUWAY ATIYNINMANTA............................................................................... 24
+
+QANCHIS KAQ RAK'IY
+
+MACHU RUNAQ RUWAY ATIYNINMANTA............................................................................ 25
+
+PUSAQ KAQ RAK'IY
+
+MANA IMA RUWAY ATIQKUNAQ RUWAY ATIYNINANTA..................................................... 25
+
+JISQ'UN KAQ RAK'IY
+
+WISQ'ASQA RUNAQ RUWAY ATIYNINMANTA..................................................................... 26
+
+CHUNKA KAQ RAK'IY
+
+WARMI MANAQA QHARI RANTIQKUNATAWAN
+
+MIKHUQKUNAQTAWAN RUWAY ATIYNINKU...................................................................... 26
+
+SUQTA KAQ JUCH'UY PHATMA
+
+YACHAQAY, INTERCULTURALIDAD
+
+DERECHOS CULTURALESMANTA....................................................................................... 27
+
+UK KAQ RAK'IY
+
+YACHAQAYMANTA................................................................................................................ 27
+
+ISKAY KAQ RAK'IY
+
+JATUN YACHAQAYMANTA.................................................................................................... 29
+
+KINSA KAQ RAK'IY
+
+KAWSAYNINCHISMANTA...................................................................................................... 31
+
 Ministerio de la Presidencia - V.C.G.G
 
 122
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
+
+CAPÍTULO CUARTO.............................................................................................................. 16
+
+DERECHOS DE LAS NACIONES
+
+Y PUEBLOS INDÍGENA ORIGINARIO CAMPESINOS.......................................................... 16
+
+CAPÍTULO QUINTO
+
+DERECHOS SOCIALES Y ECONÓMICOS........................................................................... 18
+
+SECCIÓN I
+
+DERECHO AL MEDIO AMBIENTE......................................................................................... 18
+
+SECCIÓN II
+
+DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL........................................................ 18
+
+SECCIÓN III
+
+DERECHO AL TRABAJO Y AL EMPLEO............................................................................... 20
+
+SECCIÓN IV
+
+DERECHO A LA PROPIEDAD............................................................................................... 23
+
+SECCIÓN V
+
+DERECHOS DE LA NIÑEZ,
+
+ADOLESCENCIA Y JUVENTUD............................................................................................ 23
+
+SECCIÓN VI
+
+DERECHOS DE LAS FAMILIAS............................................................................................ 24
+
+SECCIÓN VII
+
+DERECHOS DE LAS PERSONAS ADULTAS MAYORES..................................................... 25
+
+SECCIÓN VIII
+
+DERECHOS DE LAS PERSONAS CON DISCAPACIDAD.................................................... 25
+
+SECCIÓN IX
+
+DERECHOS DE LAS PERSONAS PRIVADAS DE LIBERTAD............................................. 26
+
+SECCIÓN X
+
+DERECHOS DE LAS USUARIAS Y LOS USUARIOS
+
+Y DE LAS CONSUMIDORAS Y LOS CONSUMIDORES....................................................... 26
+
+CAPÍTULO SEXTO
+
+EDUCACIÓN, INTERCULTURALIDAD
+
+Y DERECHOS CULTURALES............................................................................................... 27
+
+SECCIÓN I
+
+EDUCACIÓN.......................................................................................................................... 27
+
+SECCIÓN II
+
+EDUCACIÓN SUPERIOR...................................................................................................... 29
+
+SECCIÓN III
+
+CULTURAS............................................................................................................................ 31
 
 Fundación Konrad Adenauer (KAS)
 
@@ -22681,7 +9935,83 @@ Fundación Konrad Adenauer (KAS)
 
 ESTADOQ KURAQ KAMACHIYNIN
 
+TAWA KAQ RAK'IY
+
+CIENCIAMANTA TECNOLOGIAMANTA, INVESTIGACIONMANTA IMA............................... 32
+
+PHISQA KAQ RAK'IY
+
+PHUKLLAYMANTAWAN SAMAYPI PHUKLLARIKUNAMANTAWAN.................................... 33
+
+QANCHIS KAQ JUCH'UY PHATMA
+
+RUNAMAN WILLANAKUNAMANTA...................................................................................... 33
+
+KINSA KAQ PHATMA
+
+RUWAYKUNAMANTA............................................................................................................ 34
+
+TAWA KAQ PHATMA
+
+GARANTÍAS JURIDICCIONALESMANTAWAN, JARK'AYKUNAMANTAWAN,
+
+UK KAQ JUCH'UY PHATMA
+
+GARANTÍAS JURIDICCIONALESMANTA............................................................................. 34
+
+ISKAY KAQ JUCH'UY PHATMA
+
+JARK'AKUYKUNA RUWAYKUNAMANTA.............................................................................. 37
+
+UK KAQ RAK'IY
+
+ACCIÓN LIBERTADMANTA.................................................................................................... 37
+
+ISKAY KAQ RAK'IY
+
+ACCIÓN AMPARO CONSTITUCIONALMANTA..................................................................... 38
+
+KINSA KAQ RAK'IY
+
+ACCIÓN PROTECCIÓN PRIVACIDADMANTA...................................................................... 39
+
+TAWA KAQ RAK'IY ACCIÓN
+
+INCONSTITUCIONALIDADMANTA....................................................................................... 39
+
+PHISQA KAQ RAK'IY
+
+ACCIÓN CUMPLIMIENTOMANTA......................................................................................... 40
+
+SUQTA KAQ RAK'IY
+
+ACCIÓN POPULARMANTA................................................................................................... 40
+
+KINSA KAQ JUCH'UY PHATMA
+
+ESTADOS EXCEPCIÓNMANTA............................................................................................ 41
+
+PHISQA KAQ PHATMA
+
+NACIONALIDADMANTAWAN CIUDADDANÍAMANTAWAN.................................................. 42
+
+UK KAQ JUCH'UY PHATMA
+
+NACIONALIDADMANTA........................................................................................................ 42
+
+ISKAY KAQ JUCH'UY PHATMA
+
+CIUDADANÍAMANTA............................................................................................................. 42
+
+ISKAY KAQ JATUN PHATMA
+
+ESTADOQ KAYNINMANTA. WAKICHIKUSQANMANTA IMA................................................ 43
+
+Ministerio de la Presidencia - V.C.G.G
+
 123
+
+CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 SECCIÓN IV
 
@@ -22701,7 +10031,7 @@ DEBERES.........................................................................
 
 TÍTULO IV
 
-GARANTÍAS JURISDICCIONALES Y  ACCIONES DE DEFENSA
+GARANTÍAS JURISDICCIONALES Y ACCIONES DE DEFENSA
 
 CAPÍTULO PRIMERO
 
@@ -22753,11 +10083,7 @@ CIUDADANÍA.....................................................................
 
 SEGUNDA PARTE
 
-ESTRUCTURA Y ORGANIZACIÓN FUNCIONAL DEL ESTADO...........................................43
-
-CONSTITUCIÓN POLÍTICA DEL ESTADO
-
-Ministerio de la Presidencia - V.C.G.G
+ESTRUCTURA Y ORGANIZACIÓN FUNCIONAL DEL ESTADO........................................... 43
 
 Fundación Konrad Adenauer (KAS)
 
@@ -22767,11 +10093,155 @@ Fundación Konrad Adenauer (KAS)
 
 ESTADOQ KURAQ KAMACHIYNIN
 
+UK KAQ PHATMA
+
+ÓRGANO LEGISLATIVOMANTA........................................................................................... 43
+
+UK KAQ JUCH'UY PHATMA
+
+ASAMBLEA LEGISLATIVA
+
+PLURINACIONALMANTA KAYNIN RUWAYNIN................................................................... 43
+
+ISKAY KAQ JUCH'UY PHATMA
+
+PROCEDIMIENTO LEGISLATIVOMANTA............................................................................. 48
+
+ISKAY KAQ PHATMA
+
+ÓRGANO EJECUTIVOMANTA.............................................................................................. 50
+
+UK KAQ JUCH'UY PHATMA
+
+ÓRGANO EJECUTIVOQ
+
+KAYNINMANTAWAN RUWAY ATIYNINMANTAWAN............................................................ 50
+
+UK KAQ RAK'IY
+
+TUKUYPAQ KAMACHINAMANTA.......................................................................................... 50
+
+ISKAY KAQ RAK'IY
+
+ESTADOQ KURAQ
+
+KAMACHIQNINMANTAWAN SULLK'A KAMACHIQNINMANTAWAN................................... 50
+
+KINSA KAQ RAK'IY
+
+ESTADOQ MINISTERIONKUNAMANTA................................................................................ 53
+
+KINSA KAQ PHATMA
+
+ÓRGANO JUDICIALMANTAWAN TRUBUNAL CONSTITUCIONAL
+
+PLURINACIONALMANTAWAN.............................................................................................. 54
+
+UK KAQ JUCH'UY PHATMA
+
+TUKUYPAQ KAMACHINAKUNAMANTA................................................................................ 54
+
+ISKAY KAQ JUCH'UY PHATMA
+
+JURISDICCIÓN ORDINARIAMANTA..................................................................................... 55
+
+UK KAQ RAK'IY
+
+TRIBUNAL SUPREMO JUSTICIAMANTA.............................................................................. 55
+
+KINSA KAQ JUCH'UY PHATMA
+
+JURISDICCIÓN AGROAMBIENTALMANTA.......................................................................... 56
+
+TAWA KAQ JUCH'UY PHATMA
+
+JURISDICCIÓN INDÍGENA ORIGINARIA CAMPESINAMANTA............................................ 57
+
+PHISQA KAQ JUCH'UY PHATMA
+
+MAGISTRATURA CONSEJOMANTA..................................................................................... 58
+
+SUQTA KAQ JUCH'UY PHATMA
+
+TRIBUNAL CONSTITUCIONAL PLURINACIONALMANTA................................................... 59
+
+Ministerio de la Presidencia - V.C.G.G
+
 124
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
-Ministerio de la Presidencia - V.C.G.G
+TÍTULO I
+
+ÓRGANO LEGISLATIVO........................................................................................................ 43
+
+CAPÍTULO PRIMERO
+
+COMPOSICIÓN Y ATRIBUCIONES
+
+DE LA ASAMBLEA LEGISLATIVA PLURINACIONAL............................................................ 43
+
+CAPÍTULO SEGUNDO
+
+PROCEDIMIENTO LEGISLATIVO.......................................................................................... 48
+
+TÍTULO II
+
+ÓRGANO EJECUTIVO........................................................................................................... 50
+
+CAPÍTULO PRIMERO
+
+COMPOSICIÓN Y ATRIBUCIONES
+
+DEL ÓRGANO EJECUTIVO................................................................................................... 50
+
+SECCIÓN I
+
+DISPOSICIÓN GENERAL...................................................................................................... 50
+
+SECCIÓN II
+
+PRESIDENCIA Y
+
+VICEPRESIDENCIA DEL ESTADO........................................................................................ 50
+
+SECCIÓN III
+
+MINISTERIOS DE ESTADO................................................................................................... 53
+
+TÍTULO III
+
+ÓRGANO JUDICIAL Y TRIBUNAL
+
+CONSTITUCIONAL PLURINACIONAL.................................................................................. 54
+
+CAPÍTULO PRIMERO
+
+DISPOSICIONES GENERALES............................................................................................ 54
+
+CAPÍTULO SEGUNDO
+
+JURISDICCIÓN ORDINARIA................................................................................................. 55
+
+SECCIÓN I
+
+TRIBUNAL SUPREMO DE JUSTICIA.................................................................................... 55
+
+CAPÍTULO TERCERO
+
+JURISDICCIÓN AGROAMBIENTAL....................................................................................... 56
+
+CAPÍTULO CUARTO
+
+JURISDICCIÓN INDÍGENA ORIGINARIA CAMPESINA........................................................ 57
+
+CAPÍTULO QUINTO
+
+CONSEJO DE LA MAGISTRATURA...................................................................................... 58
+
+CAPÍTULO SEXTO
+
+TRIBUNAL CONSTITUCIONAL PLURINACIONAL............................................................... 59
 
 Fundación Konrad Adenauer (KAS)
 
@@ -22789,6 +10259,79 @@ Ministerio de la Presidencia - V.C.G.G
 
 Fundación Konrad Adenauer (KAS)
 
+TAWA KAQ PHATMA
+ÓRGANO ELECTORAL .........................................................................................................61
+UK KAQ JUCH’UY PHATMA
+ÓRGANO ELECTORAL PLURINACIONALMANTA...............................................................61
+ISKAY KAQ JUCH’UY PHATMA
+REPRESENTACIÓN POLÍTICAMANTA.................................................................................62
+PHISQA KAQ PHATMA
+RUNAPI, ESTADOPI
+CONTROL, JARK’AY LLANK’AYMANTA................................................................................63
+UK KAQ JUCH’UY PHATMA
+CONTROL LLANK’AYMANTA................................................................................................63
+UK KAQ RAK’IY
+ESTADOQ CONTRALORIA GENERALMANTA.....................................................................63
+ISKAY KAQ JUCH’UY PHATMA
+RUNATA JARK’AY LLANK’AYMANTA....................................................................................64
+UK KAQ RAK’IY
+RUNATA JARK’ANAMANTA...................................................................................................64
+ISKAY KAQ RAK’IY
+MINISTERIO PUBLICOMANTA..............................................................................................66
+KINSA KAQ JUCH’UY PHATMA
+ESTADOTA JARK’AQ LLANK’AYMANTA...............................................................................66
+UK KAQ RAK’IY
+ESTADOMANTA PROCURADURÍA GENERAL...................................................................66
+TAWA KAQ JUCH’UY PHATMA
+LLAQTAPAQ LLANK’AQKUNAMANTA..................................................................................67
+SUQTA KAQ PHATMA
+PARTICIPACIONMANTAWAN CONTROL SOCIALMANTAWAN...........................................70
+QANCHIS KAQ PHATMA
+FUERZAS ARMADASMANTAWAN POLICÍA BOLIVIANAMANTAWAN ................................71
+UK KAQ JUCH’UY PHATMA
+FUERZAS ARMADASMANTA................................................................................................71
+ISKAY KAQ JUCH’UY PHATMA
+POLICIA BOLIVIANAMANTA .................................................................................................72
+PUSAQ KAQ PHATMA
+JAWA SUYUKUNAWAN LLAK’AYMANTA, ATINMANTA,
+INTEGRACIONMANTA, REIVINDICACIÓN MARITIMAMANTA............................................73
+TÍTULO IV
+ÓRGANO ELECTORAL .........................................................................................................61
+CAPÍTULO PRIMERO
+ÓRGANO ELECTORAL PLURINACIONAL............................................................................61
+CAPÍTULO SEGUNDO
+REPRESENTACIÓN POLÍTICA.............................................................................................62
+TITULO V
+FUNCIONES DE CONTROL, DE DEFENSA DE LA SOCIEDAD
+Y DE DEFENSA DEL ESTADO..............................................................................................63
+CAPÍTULO PRIMERO
+FUNCIÓN DE CONTROL.......................................................................................................63
+SECCIÓN I
+CONTRALORÍA GENERAL DEL ESTADO ............................................................................63
+CAPÍTULO SEGUNDO
+FUNCIÓN DE DEFENSA DE LA SOCIEDAD ........................................................................64
+SECCIÓN I
+DEFENSORÍA DEL PUEBLO.................................................................................................64
+SECCIÓN II
+MINISTERIO PÚBLICO..........................................................................................................66
+CAPÍTULO TERCERO
+FUNCIÓN DE DEFENSA DEL ESTADO................................................................................66
+SECCIÓN I
+PROCURADURÍA GENERAL DEL ESTADO.........................................................................66
+CAPÍTULO CUARTO
+SERVIDORAS PÚBLICAS Y SERVIDORES PÚBLICOS ......................................................67
+TÍTULO VI
+PARTICIPACIÓN Y CONTROL SOCIAL ................................................................................70
+TÍTULO VII
+FUERZAS ARMADAS Y POLICÍA BOLIVIANA......................................................................71
+CAPÍTULO PRIMERO
+FUERZAS ARMADAS ............................................................................................................71
+CAPÍTULO SEGUNDO
+POLICÍA BOLIVIANA..............................................................................................................72
+TÍTULO VIII
+RELACIONES INTERNACIONALES, FRONTERAS,
+INTEGRACIÓN Y REIVINDICACIÓN MARÍTIMA ..................................................................73
+
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
@@ -22802,6 +10345,77 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 Ministerio de la Presidencia - V.C.G.G
 
 Fundación Konrad Adenauer (KAS)
+
+UK KAQ JUCH’UY PHATMA
+JAWA SUYUKUNAWAN LLANK’AYMANTA.........................................................................73
+ISKAY KAQ JUCH’UY PHATMA
+ESTADOQTA ATINMANTA.....................................................................................................74
+KINSA KAQ JUCH’UY PHATMA
+INTEGRACIONMANTA ..........................................................................................................75
+TAWA KAQ JUCH’UY PHATMA
+MAMA QHUCHAMAN LLUQSIYNINMANTA..........................................................................75
+KINSA KAQ JATUN PHATMA
+ESTADOQ JALLP’ANMANTA KAYNIN, RAK’IKUYNIN..........................................................76
+UK KAQ PHATMA
+ESTADOQ JALLP’ANMANTA RAK’IKUYNIN.........................................................................76
+UK KAQ JUCH’UY PHATMA
+KAMACHIYKUNAMANTA.......................................................................................................76
+ISKAY KAQ JUCH’UY PHATMA
+AUTONOMÍA DEPARTAMENTALMANTA..............................................................................77
+KINSA KAQ JUCH’UY PHATMA
+AUTONOMÍA REGIONALMANTA..........................................................................................78
+TAWA KAQ JUCH’UY PHATMA
+AUTONOMÍA MUNICIPALMANTA..........................................................................................78
+PHISQA KAQ RAK’IKUY
+ÓRGANO EJECUTIVO GOBIERNOS AUTÓNOMOSMANTA...............................................79
+SUQTA KAQ JUCH’UY PHATMA
+ÓRGANOS LEGISLATIVOS, DELIBERATIVO,
+FISCALIZDORES GOBIERNOS AUTÓNOMOSMANTA........................................................80
+QANCHIS KAQ JUCH’UY PHATMA
+AUTONOMÍA INDÍGENA ORIGINARIA CAMPESINAMANTA................................................80
+PUSAQ KAQ JUCH’UY PHATMA
+LLANK’AYKUNA RAK’IKUYMANTA.......................................................................................82
+TAWAN KAQ JATUN PHATMA
+ESTADOQTA ESTRUCTURAN, QULQI WAKICHISQAN ......................................................91
+UK KAQ PHATMA
+ESTADOQTA QULQI WAKICHISQAN ...................................................................................91
+UK KAQ JUCH’UY PHATMA
+TUKUYPAQ KAMACHINAMANTA..........................................................................................91
+CAPÍTULO PRIMERO
+RELACIONES INTERNACIONALES .....................................................................................73
+CAPÍTULO SEGUNDO
+FRONTERAS DEL ESTADO..................................................................................................74
+CAPÍTULO TERCERO
+INTEGRACIÓN.......................................................................................................................75
+CAPÍTULO CUARTO
+REIVINDICACIÓN MARÍTIMA................................................................................................75
+TERCERA PARTE
+ESTRUCTURA Y ORGANIZACIÓN TERRITORIAL DEL ESTADO.......................................76
+TÍTULO I
+ORGANIZACIÓN TERRITORIAL DEL ESTADO....................................................................76
+CAPITULO PRIMERO
+DISPOSICIONES GENERALES ............................................................................................76
+CAPÍTULO SEGUNDO
+AUTONOMÍA DEPARTAMENTAL ..........................................................................................77
+CAPÍTULO TERCERO
+AUTONOMÍA REGIONAL.......................................................................................................78
+CAPÍTULO CUARTO
+AUTONOMÍA MUNICIPAL......................................................................................................78
+CAPÍTULO QUINTO
+ÓRGANOS EJECUTIVOS DE LOS GOBIERNOS AUTÓNOMOS ........................................79
+CAPÍTULO SEXTO
+ÓRGANOS LEGISLATIVOS, DELIBERATIVOS
+Y FISCALIZADORES DE LOS GOBIERNOS AUTÓNOMOS................................................80
+CAPÍTULO SÉPTIMO
+AUTONOMÍA INDÍGENA ORIGINARIA CAMPESINA............................................................80
+CAPÍTULO OCTAVO
+DISTRIBUCIÓN DE COMPETENCIAS..................................................................................82
+CUARTA PARTE
+ESTRUCTURA Y ORGANIZACIÓN ECONÓMICA DEL ESTADO.........................................91
+TÍTULO I
+ORGANIZACIÓN ECONÓMICA DEL ESTADO .....................................................................91
+CAPÍTULO PRIMERO
+DISPOSICIONES GENERALES ............................................................................................91
 
 [[END OF PAGE 127]]
 
@@ -22817,6 +10431,79 @@ Ministerio de la Presidencia - V.C.G.G
 
 Fundación Konrad Adenauer (KAS)
 
+ISKAY KAQ JUCH’UY PHATMA
+QULQIWAN ESTADOQ LLANK’AYNINMANTA......................................................................93
+KINSA KAQ JUCH’UY PHATMA
+POLÍTICAS ECONOMICASMANTA.......................................................................................94
+UK KAQ RAK’IY
+POLÍTICA FISCALMANTA......................................................................................................95
+ISKAY KAQ RAK’IKUY
+QULQIMANTA YUYAYCHAKUY.............................................................................................97
+KINSA KAQ RAK’IY
+POLÍTICA FINANCIERAMANTA ............................................................................................98
+TAWA KAQ RAK’IY
+POLÍTICAS SECTORIALESMANTA.......................................................................................98
+TAWA KAQ JUCH’UY PHATMA
+ESTADO TUKUY IMA KAPUYNINMANTA.............................................................................99
+ISKAY KAQ PHATMA
+MEDIO AMBIENTEMANTA, RECURSOS NATURALESMANTA,
+JALLP’AMANTA, TERRITORIOMANTAWAN.......................................................................101
+UK KAQ JUCH’UY PHATMA
+MEDIO AMBIENTEMANTA ..................................................................................................101
+ISKAY KAQ JUCH’UY PHATMA
+RECURSOS NATURALESMANTA....................................................................... 102
+KINSA KAQ JUCH’UY PHATMA
+YANA QURIMANTA..............................................................................................................104
+TAWA KAQ JUCH’UY PHATMA
+QHUYA LLANK’AYMANTAWAN METALURGIAMANTAWAN...............................................106
+PHISQA KAQ JUCH’UY PHATMA
+YAKUMANTA........................................................................................................................107
+SUQTA KAQ JUCH’UY PHATMA
+K’ANCHAYMANTA................................................................................................................108
+QANCHIS KAQ JUCH’UY PHATMA
+BIODIVERSIDADMANTA, KUKAMANTA, JALLP’A
+JARK’ASQAKUNAMANTA, SACH’A SACH’AKUNAMANTA..................................... 109
+UK KAQ RAK’IY
+BIODIVERSIDADMANTA.....................................................................................................109
+ISKAY KAQ RAK’IY
+KUKAMANTA........................................................................................................................ 110
+CAPÍTULO SEGUNDO
+FUNCIÓN DEL ESTADO EN LA ECONOMÍA........................................................................93
+CAPÍTULO TERCERO
+POLÍTICAS ECONÓMICAS ...................................................................................................94
+SECCIÓN I
+POLÍTICA FISCAL..................................................................................................................95
+SECCIÓN II
+POLÍTICA MONETARIA .........................................................................................................97
+SECCIÓN III
+POLÍTICA FINANCIERA.........................................................................................................98
+SECCIÓN IV
+POLÍTICAS SECTORIALES...................................................................................................98
+CAPÍTULO CUARTO
+BIENES Y RECURSOS DEL ESTADO Y SU DISTRIBUCIÓN ..............................................99
+TÍTULO II
+MEDIO AMBIENTE, RECURSOS NATURALES,
+TIERRA Y TERRITORIO......................................................................................................101
+CAPÍTULO PRIMERO
+MEDIO AMBIENTE...............................................................................................................101
+CAPÍTULO SEGUNDO
+RECURSOS NATURALES...................................................................................................102
+CAPÍTULO TERCERO
+HIDROCARBUROS..............................................................................................................104
+CAPÍTULO CUARTO
+MINERÍA Y METALURGIA....................................................................................................106
+CAPÍTULO QUINTO
+RECURSOS HÍDRICOS ......................................................................................................107
+CAPÍTULO SEXTO
+ENERGÍA..............................................................................................................................108
+CAPÍTULO SÉPTIMO
+BIODIVERSIDAD, COCA, ÁREAS PROTEGIDAS
+Y RECURSOS FORESTALES .............................................................................................109
+SECCIÓN I
+BIODIVERSIDAD .................................................................................................................109
+SECCIÓN II
+COCA ................................................................................................................................... 110
+
 [[END OF PAGE 128]]
 
 [[START OF PAGE 129]]
@@ -22831,10 +10518,73 @@ Ministerio de la Presidencia - V.C.G.G
 
 Fundación Konrad Adenauer (KAS)
 
+KINSA KAQ RAK’IY
+JARK’ASQA JALLP’AMANTA............................................................................................... 110
+TAWA KAQ RAK’IY
+SACH’A SACH’AKUNAMANTA............................................................................................ 110
+PUSAQ KAQ JUCH’UY PHATMA
+AMAZONIAMANTA................................................................................................................111
+JISQ’UN JUCH’UY PHATMA
+JALLP’AMATAWAN JALLP’ANKUMANTAWAN................................................................. 112
+KINSA KAQ PHATMA
+DESARROLLO RURAL INTEGRAL
+SUSTENTABLEMANTA..................................................................................... 114
+PHISQA KAQ JATUN PHATMA
+JERARQUÍA NORMATIVAMANTAWAN
+REFORMA DE LA CONSTITUCIONMANTAWAN................................................................ 116
+UK K’ATA PHATMA
+PRIMACIAMANTAWAN REFORMA CONSTITUCIONMANTAWAN.................................... 116
+WAKIN KUTILLAPAQ KAMACHIYKUNA ............................................................................. 117
+CHINKACHIY KAMACHINA................................................................................................. 119
+TUKUCHAY KAMACHINA.................................................................................................... 119
+SECCIÓN III
+ÁREAS PROTEGIDAS......................................................................................................... 110
+SECCIÓN IV
+RECURSOS FORESTALES................................................................................................. 110
+CAPÍTULO OCTAVO
+AMAZONIA............................................................................................................................111
+CAPÍTULO NOVENO
+TIERRA Y TERRITORIO...................................................................................................... 112
+TÍTULO III
+DESARROLLO RURAL
+INTEGRAL SUSTENTABLE................................................................................................. 114
+QUINTA PARTE
+JERARQUÍA NORMATIVA Y
+REFORMA DE LA CONSTITUCIÓN .................................................................................... 116
+TÍTULO ÚNICO
+PRIMACÍA Y REFORMA DE LA CONSTITUCIÓN............................................................... 116
+DISPOSICIONES TRANSITORIAS...................................................................................... 117
+DISPOSICIÓN ABROGATORIA........................................................................................... 119
+DISPOSICIÓN FINAL........................................................................................................... 119
+
 [[END OF PAGE 129]]
 
 [[START OF PAGE 130]]
 
-(this page came through the extractor with no text)
+Konrad
+Adenauer
+Stiftung
+50 AÑOS DE COOPERACIÓN EN TODO EL MUNDO
+
+www.kas.de/bolivien
+
+Bolivia
+Fundación Konrad Adenauer
+Av. Walter Guevara 8037, Calacoto
+(Ex Av. Arequipa casi esq. Plaza Humboldt)
+Teléfonos: (+591 2) 2786910 - 2786478
+(+591 2) 2125577
+Fax: (+591 2) 2786831
+Casilla de Correo: 9284
+E mail: info.bolivia@kas.de
+La Paz - Bolivia
+
+Ministerio de la Presidencia
+Viceministerio de Coordinación y
+Gestión Gubernamental (V. C. G. G.)
+Palacio de Gobierno
+Plaza Murillo - Km 0
+Teléfonos: (+591 2) 2153891 - 2153892
+www.presidencia.gob.bo
 
 [[END OF PAGE 130]]
