@@ -12,23 +12,36 @@ Act 2 of 1980
 
 Amended by
 
-17 of 1984 | 2 of 2000 | O. 38/1987
-1 of 1988 | 11 of 2000
-23 of 1990 | 14 of 2000
-1 of 1991 | 17 of 2000
-12 of 1991 | 3-8 of 2001
-35 of 1991 | 5 of 2003
-35 of 1991 | 10 of 2003
-36 of 1991 | 16 of 2004
-11 of 1992 | 24 of 2006
-21 of 1993 | 22 of 2007
-15 of 1995 | 5 of 2009
+17 | of | 1984 | 2 | of 2000
+--- | --- | --- | --- | ---
+1 | of | 1988 | 11 | of 2000
+23 | of | 1990 | 14 | of 2000
+1 | of | 1991 | 17 | of 2000
+12 | of | 1991 | 3-8 | of 2001
+35 | of | 1991 | 5 | of 2003
+35 | of | 1991 | 10 | of 2003
+36 | of | 1991 | 16 | of 2004
+11 | of | 1992 | 24 | of 2006
+21 | of | 1993 | 22 | of 2007
+15 | of | 1995 | 5 | of 2009
 
 Current Authorised Pages
 
-Pages (inclusive) | Authorised by L.R.O.
---- | ---
-1 – 376 | 1/2012
+Pages
+
+(inclusive)
+
+-
+
+Authorised
+
+by L.R.O.
+
+1/2012
+
+376
+
+...
 
 L.R.O. 1/2012
 
@@ -43,13 +56,6 @@ Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 LAWS OF GUYANA
 
 ## Index of Subsidiary Legislation
-
-Subsidiary Legislation | Page
---- | ---
-Constitution of the Orders of Guyana (Proclamation 2/1976) | 267
-Judicial Service Commission Rules (Rule 1/1981) | 288
-Public Service Commission Rules (Rules dated 15/1/1999) | 290
-Constitution of the Orders of Guyana Replacement of Medals, Miniatures and Ribbons Rules (Rule 2/2010) | 343
 
 L.R.O. 1/2012
 
@@ -70,51 +76,51 @@ LAWS OF GUYANA
 
 SECTION
 
-- 1. Short title.
+- Short title.
 
-- 2. Interpretation.
+- Interpretation.
 
-- 3. Constitutional Instruments (including the existing Constitution) repealed.
+- Constitutional  Instruments (including   the  existing   Constitution) repealed.
 
-- 4. Appointed day.
+- Appointed day.
 
-- 5. Exercise of powers of Parliament before appointed day.
+- Exercise of powers of Parliament before appointed day.
 
-- 6. Exercise of power of President before appointed day.
+- Exercise of power of President before appointed day.
 
-- 7. Existing laws.
+- Existing laws.
 
-- 8. Parliament.
+- Parliament.
 
-- 9. Standing Orders.
+- Standing Orders.
 
-- 10. President.
+- President.
 
-- 11. Prime Minister.
+- Prime Minister.
 
-- 12. Ministers, Attorney General, Parliamentary Secretaries, etc.,
+- Ministers, Attorney General, Parliamentary Secretaries, etc.,
 
-- 13. Cabinet.
+- Cabinet.
 
-- 14. Supreme Court of Judicature.
+- Supreme Court of Judicature.
 
-- 15. Existing officers.
+- Existing officers.
 
-- 16. Oaths.
+- Oaths.
 
-- 17. Commissions.
+- Commissions.
 
-- 18. Continuation of proceedings.
+- Continuation of proceedings.
 
-- 19. Local democratic organs.
+- Local democratic organs.
 
-- 20. Amendment of certain provisions of Amerindian Lands Commission Act.
+- Amendment of   certain  provisions  of  Amerindian  Lands Commission Act.
 
-- 21. Electoral districts and list of electors.
+- Electoral districts and list of electors.
 
-- 22. Amendment of this Act.
+- Amendment of this Act.
 
-SCHEDULE – The Constitution of the Co-operative Republic of Guyana
+SCHEDULE - The Constitution   of the Co-operative Republic of Guyana
 
 __________________________
 
@@ -128,39 +134,39 @@ L.R.O. 1/2012
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
+2 of 1980
+
+Short title.
+
+Interpretation.
+
 LAWS OF GUYANA
 
 # CONSTITUTION OF THE CO-OPERATIVE REPUBLIC OF GUYANA ACT
 
 ## CHAPTER 1:01
 
-2 of 1980
+thereto or connected therewith. Constitution, and to provide for matters incidental Independence    Order    1966,    and    the    existing Independence Act 1966, the Guyana Republic of Guyana, to repeal the Guyana An Act to enact a new Constitution of the Co-operative
 
-An Act to enact a new Constitution of the Co-operative Republic of Guyana, to repeal the Guyana Independence Act 1966, the Guyana Independence Order 1966, and the existing Constitution, and to provide for matters incidental thereto or connected therewith.
+[20 TH FEBRUARY, 1980 ]
 
-[20TH FEBRUARY, 1980]
+operative Republic of Guyana Act. 1 .  This Act may be cited as the Constitution of the Co-
 
-Short title.
+- 2 . (1) In this Act -
 
-1. This Act may be cited as the Constitution of the Co-operative Republic of Guyana Act.
+- th ,appointed day' means the 6 day of October, 1980;
 
-Interpretation.
+- Schedule; ,the Constitution' means the Constitution set out in the
 
-2. (1) In this Act –
+- constituted under the existing Constitution; ,the existing Assembly' means the National Assembly
 
-“appointed day” means the 6th day of October, 1980;
+- immediately before the appointed day; ,the  existing  Constitution'  means  the  Constitution  in  force
 
-“the Constitution” means the Constitution set out in the Schedule;
+- that day and coming into force on or after that day; and includes any Act or other written law made before laws of Guyana immediately before  the appointed day ,existing laws' means all laws which  had effect  as part of the
 
-“the existing Assembly” means the National Assembly constituted under the existing Constitution;
+- this Act; ,the existing Parliament' means the Parliament which enacted
 
-“the existing Constitution” means the Constitution in force immediately before the appointed day;
-
-“existing laws” means all laws which had effect as part of the laws of Guyana immediately before the appointed day and includes any Act or other written law made before that day and coming into force on or after that day;
-
-“the existing Parliament” means the Parliament which enacted this Act;
-
-“service commission” means the Public Service Commission, the Police Service Commission, the
+- Commission,  the  Police  Service  Commission,    the ,service commission' means the Public Service
 
 L.R.O. 1/2012
 
@@ -174,27 +180,25 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 5
 
-Judicial Service Commission or the Teaching Service Commission in existence immediately before the appointed day;
-
-and, save where the context otherwise requires, expressions used in sections 1 to 22 (inclusive) have the same meaning as in the Constitution and the provisions of article 232 thereof shall apply for the purpose of interpreting those sections as they apply for the purpose of interpreting the Constitution.
-
-(2) References in article 133 of the Constitution to any question as to the interpretation of the Constitution shall be construed as including references to any question as to the interpretation of any provision of this Act.
-
 Constitutional Instruments (including the existing Constitution) repealed.
-
-3. Subject to the provisions of this Act, on the appointed day all the provisions of the Guyana Independence Act 1966, the Guyana Independence Order 1966 (in so far as they form part of the law of Guyana) and the existing Constitution are repealed and thereupon the Constitution shall have effect as the supreme law of Guyana in place of the existing Constitution.
 
 Appointed day. [Procl. 2/1980]
 
-4. The Constitution shall come into operation on the 6th day of October, 1980.
+Exercise  of powers of Parliament before appointed day.
 
-Exercise of powers of Parliament before appointed day.
+Exercise of power of President before appointed Judicial Service Commission or the Teaching Service Commission  in  existence  immediately  before  the appointed day;
 
-5. At any time after the enactment of this Act, the existing Parliament may for the purpose of enabling the Constitution to function on and after the appointed day exercise any of the powers conferred on the Parliament established by the Constitution.
+and, save where the context otherwise requires, expressions used in sections 1 to 22(inclusive) have the same  meaning as  in  the  Constitution  and  the  provisions  of  article  232 thereof    shall  apply  for  the  purpose  of  interpreting  those sections  as  they  apply  for  the  purpose  of  interpreting  the Constitution.
 
-Exercise of power of President before appointed day.
+- References  in  article  133  of  the  Constitution  to any  question  as  to  the  interpretation  of  the  Constitution shall be construed as including references to any question as to the interpretation of any provision of this Act.
 
-6. The power conferred by section 7(2) to make orders may be exercised by the President under the existing Constitution at any time after the enactment of this Act to such extent as may, in his or her opinion, be necessary or
+- 3 .  Subject  to  the  provisions  of  this  Act,  on  the appointed day all the provisions of the Guyana Independence  Act  1966,  the  Guyana  Independence  Order 1966 (in so far as they form part of the law of Guyana) and the  existing  Constitution  are  repealed  and  thereupon  the Constitution shall have effect as the supreme law of Guyana in place of the existing Constitution.
+
+- 4 . The Constitution shall come into operation on the 6 th  day of October, 1980.
+
+- 5 . At any  time  after  the enactment  of this  Act,  the existing  Parliament  may  for  the  purpose  of  enabling  the Constitution  to  function  on  and    after    the  appointed  day exercise  any  of  the  powers  conferred  on  the  Parliament established by the Constitution.
+
+- 6 .  The  power  conferred  by  section  7(2)  to  make orders may be exercised by the President under the existing Constitution at any time after the enactment of this Act to such extent  as  may,  in  his  or  her  opinion,  be  necessary  or
 
 L.R.O. 1/2012
 
@@ -242,7 +246,7 @@ Cap. 1:01
 
 (6)Without prejudice to the generality of the foregoing    provisions  of  this  section,  if  a  proclamation  of emergency  is  in  force  under  article  16  of  the existing Constitution  immediately    before  the  appointed  day  by virtue of a resolution of the existing Assembly,  the proclamation shall  on and after that day have effect as if it had  been  made  under  article  150  of  the  Constitution  and (without  prejudice  to  its  continuance  in  force  for  further periods  by  virtue  of  the  provisions  of  paragraph    (3)(c)  of the said article 150) as if its continuance in force to the date referred  to  in  that  resolution  had  been  approved  by  a resolution  passed  by  the  National  Assembly  under  the provisions of paragraph (3)(c) of the said article 150;  and if any person is on the appointed day detained or restricted  in the manner referred to in article 151 of the Constitution the provisions  of  that  article  requiring  his  or  her  case  to  be reviewed by a tribunal established for the purpose of that article not later than three months from the commencement of  the  detention  or  restriction  shall,  in  relation  to  that person,    have  effect  as  if  the  detention    or  restriction    had commenced on the appointed day.
 
-(7) The provisions of this section shall be without prejudice to any powers conferred by any law upon any person or authority to make provision for any matter,
+(7)  The  provisions  of  this  section  shall  be  without prejudice  to  any  powers  conferred  by  any  law  upon  any person  or  authority  to  make  provision  for  any  matter, Parliament.
 
 L.R.O. 1/2012
 
@@ -256,21 +260,19 @@ LAWS OF GUYANA
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-Parliament.
-
 including the making of modifications to any existing law.
 
-(8) In this section “modification” includes amendment, adaptation or other alteration authorised by subsection (1).
+(8) In this section ,modification' includes amendment,  adaptation  or  other  alteration  authorised  by subsection (1).
 
 (9) [Repealed by Act No. 23 of 1990]
 
-8. (1) Notwithstanding any difference between the composition of the existing Assembly and that of the National Assembly established by the Constitution, with effect from the appointed day and until the National Assembly sits for the first time after the first election held pursuant to the provisions of article 60(2) of the Constitution, but subject to subsection (5), the existing Assembly shall be deemed to be the National Assembly established by the Constitution (referred to in this section in respect of that period as “the transitional National Assembly”).
+8 .(1)  Notwithstanding  any  difference  between  the composition  of the existing  Assembly  and  that of the National  Assembly  established  by  the  Constitution,  with effect from  the appointed day and  until the National Assembly sits  for  the  first  time  after  the  first  election  held pursuant to the provisions of article 60(2) of the Constitution, but subject to subsection (5), the existing Assembly shall be deemed  to  be  the  National  Assembly  established  by  the Constitution  (referred  to  in  this  section  in  respect  of  that period as ,the transitional National Assembly').
 
-(2) Without prejudice to the generality of subsection (1), the persons who immediately before the appointed day were members of the existing Assembly shall with effect from that day be members of the transitional National Assembly, and all questions concerning membership and functioning of the transitional National Assembly shall be regulated as nearly as may be practicable by the existing law applicable in the like case to the existing Assembly.
+(2) Without prejudice to the generality of subsection  (1),  the  persons  who  immediately  before  the appointed day were members of the existing Assembly shall with  effect  from  that  day  be  members  of  the  transitional National Assembly, and all questions concerning membership  and  functioning  of  the  transitional  National Assembly shall be regulated as nearly as may be practicable by the existing law applicable in the like case to the existing Assembly.
 
-(3) All matters pending before the existing Assembly immediately before the appointed day may be continued and completed by the transitional National Assembly.
+(3) All matters pending before the existing Assembly  immediately  before  the  appointed  day  may  be continued and completed by the transitional National Assembly.
 
-(4) Unless and until the transitional National Assembly otherwise resolves, any person who is a member of that Assembly by virtue of subsection (2) shall be deemed to have made and subscribed before the Assembly the oath
+(4) Unless and until the transitional National Assembly otherwise resolves, any person who is a member of that Assembly by virtue of subsection  (2) shall be deemed to have  made  and subscribed before the Assembly the oath Standing Orders.
 
 L.R.O. 1/2012
 
@@ -286,21 +288,19 @@ Cap. 1:01
 
 9
 
+- President.
+
 referred to in article 167 of the Constitution.
 
-(5) Unless sooner dissolved by the President pursuant to the provisions of article 70(2) of the Constitution, the Parliament constituted by the President and the transitional National Assembly shall stand dissolved on 26th October, 1980.
+- Unless sooner dissolved by the President pursuant to the provisions of article 70(2) of the Constitution, the Parliament constituted by the President and the transitional National Assembly shall stand dissolved on 26th October, 1980.
 
-(6) The first election of members of the National Assembly pursuant to the provisions of paragraphs (3) and (4) of article 60 of the Constitution shall be held on such day as the President may by proclamation appoint, being a day which he or she considers to be as early as practicable after the holding of the first election of members of the Regional Democratic Council or of the National Congress of Local Democratic Organs, as the case may be.
+- The  first  election  of  members  of  the  National Assembly pursuant to the provisions of paragraphs (3) and (4) of article 60 of the Constitution shall be held on such day as the President may by proclamation appoint, being a day which he or she considers to be as early as practicable after the holding of the first election of members of the Regional Democratic  Council  or  of  the  National  Congress  of  Local Democratic Organs, as the case may be.
 
-(7) All moneys granted, voted or appropriated by the existing Assembly in respect of the services of Guyana for the current financial year shall be deemed to have been granted, voted or appropriated by the National Assembly established by the Constitution and in accordance with the Constitution.
+- All  moneys  granted,  voted  or  appropriated  by the  existing  Assembly  in  respect  of  the  services  of  Guyana for the current financial year shall be deemed to have been granted,  voted  or  appropriated  by  the  National  Assembly established  by  the  Constitution  and  in  accordance  with  the Constitution.
 
-Standing Orders.
+9 .  The  rules  and orders of  the existing Assembly as    in    force  immediately  before  the  appointed  day  shall, until it is otherwise provided  for  under article  165 of  the Constitution,    be    the    rules  of    procedure    of  the  National Assembly  established  under  the  Constitution,  but  shall  be construed with such modifications, adaptations, qualifications  and  exceptions  as  may  be  necessary  to  bring them into conformity with the Constitution.
 
-9. The rules and orders of the existing Assembly as in force immediately before the appointed day shall, until it is otherwise provided for under article 165 of the Constitution, be the rules of procedure of the National Assembly established under the Constitution, but shall be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with the Constitution.
-
-President.
-
-10. (1) The person who immediately before the appointed day holds the office of Prime Minister under the existing Constitution shall, subject to the provisions of article 97 of the Constitution (relating to the taking of an oath by the President), assume office as President of the Co-operative Republic of Guyana that day as if he or she had been elected thereto in pursuance of the provisions of the Constitution and shall, unless he or she sooner dies or resigns or unless he or she ceases to hold office by virtue of articles 93 and 94 of the Constitution, continue in office until the person elected President in the next following Presidential election held for the purposes of article 91 of the Constitution assumes office.
+10 .  (1)  The  person  who  immediately  before  the appointed day holds the office of Prime Minister under the existing Constitution shall, subject to the provisions of article 97 of the Constitution (relating to the taking of an oath by the President),  assume  office  as  President  of  the  Co-operative Republic of Guyana that day as if he or she had been elected thereto  in  pursuance  of  the  provisions  of  the  Constitution and shall, unless he or she sooner dies or resigns or unless he or she ceases to hold office by virtue of articles 93 and 94 of the  Constitution, continue in office until the person elected President in the next following Presidential election held for the purposes of article 91 of the Constitution assumes office.
 
 L.R.O. 1/2012
 
@@ -314,17 +314,17 @@ LAWS OF GUYANA
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-(2) On the assumption of his or her office pursuant to subsection (1) the first President of Guyana shall cease to be a member of the National Assembly and his or her seat shall thereby become vacant and may be filled as nearly as practicable in accordance with the provisions of article 70 of the existing Constitution.
+(2) On the assumption of his or her office pursuant to subsection (1) the first President of Guyana shall cease to be  a  member of the National Assembly and  his or her seat shall thereby become vacant and may be filled as nearly as practicable in accordance with the provisions of article 70 of the existing Constitution.
 
-Prime Minister.
+- Prime Minister. 11 . Until a Prime Minister is appointed under article 101 of the Constitution, the person who immediately before the  appointed  day  holds  the  office  of  Minister  under  the existing  Constitution  which,  however  styled,  ranks  next  in seniority  after  the  office  of  Prime  Minister  and  who  is  an elected member of the existing Assembly shall, on and after that day, hold the office of Prime Minister as if he or she had been appointed thereto under that article.
 
-11. Until a Prime Minister is appointed under article 101 of the Constitution, the person who immediately before the appointed day holds the office of Minister under the existing Constitution which, however styled, ranks next in seniority after the office of Prime Minister and who is an elected member of the existing Assembly shall, on and after that day, hold the office of Prime Minister as if he or she had been appointed thereto under that article.
+Ministers, AttorneyGeneral,
 
-Ministers, Attorney General, Parliamentary Secretaries, etc.
+- Parliamentary Secretaries etc. be, in accordance with the provisions of the Constitution.
 
-12. (1) Subject to the provisions of sections 10 and 11, the persons who immediately before the appointed day held office as Minister (other than as Prime Minister), Attorney General, Parliamentary Secretary, Speaker, Deputy Speaker or Minority Leader shall, on and after that day, hold the corresponding office established by the Constitution as if they had been appointed or elected thereto, as the case may be, in accordance with the provisions of the Constitution.
+12 .  (1)  Subject  to  the  provisions  of  sections  10  and 11,  the  persons  who immediately before the appointed day held  office as  Minister  (other  than as  Prime  Minister), Attorney General, Parliamentary Secretary, Speaker, Deputy Speaker or Minority Leader shall, on and after that day, hold the corresponding office established by the Constitution as if they had been appointed or elected thereto, as the case may
 
-(2) Any person holding the office of Prime Minister or of Minister by virtue of the provisions of section 11 or of subsection (1) of this section respectively who, immediately before the appointed day, was assigned responsibility under the existing Constitution for any business of the Government
+(2) Any person holding the office of Prime Minister or of Minister by virtue of the provisions of section 11 or of subsection (1) of this section respectively who, immediately before the appointed day, was assigned responsibility under the existing Constitution for any business of the Government Cabinet.
 
 L.R.O. 1/2012
 
@@ -338,23 +338,23 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 11
 
-of Guyana, including the administration of any department of Government, shall, on and after that day, be deemed to have been assigned responsibility therefor under article 107 of the Constitution.
-
-Cabinet.
-
-13. Subject to paragraph (1) of article 106 of the Constitution, every person who does not otherwise become a member of the Cabinet established by the Constitution but who immediately before the appointed day is a member of the Cabinet under the existing Constitution shall on and after that day be a member of the Cabinet established by the Constitution as if he or she had been appointed thereto under that paragraph.
-
 Supreme Court of Judicature.
-
-14. (1) The Supreme Court of Judicature in existence immediately before the appointed day shall on and after that day be the Supreme Court of Judicature for the purposes of the Constitution as if it were established thereunder.
-
-(2) Any decision given before the appointed day by any court forming part of the Supreme Court of Judicature in existence immediately before that day shall, for the purpose of its enforcement or for the purpose of any appeal therefrom, have effect on and after that day as if it were a decision of the corresponding court established by the Constitution.
 
 Existing Officers.
 
-15. (1) Subject to the provisions of this Act, every person who immediately before the appointed day holds or is acting in a public office shall, on and after that day, hold or act in that office or the corresponding office established by the Constitution, as the case may be, as if he or she had been appointed to do so in accordance with the provisions of the Constitution:
+of Guyana, including the administration of any department of  Government,  shall,  on  and  after  that  day,  be  deemed  to have been assigned responsibility therefor under article 107 of the Constitution.
 
-Provided that any person who, under the laws repealed by section 3 or any other existing law, would have been required to vacate his or her office at the expiration of
+13 .  Subject  to  paragraph  (1)  of  article  106  of  the Constitution, every person who does not otherwise become a member of the Cabinet established by the Constitution but who immediately before the appointed day is a member of the  Cabinet  under  the  existing  Constitution  shall  on  and after that day be a member of the Cabinet established by the Constitution  as  if  he  or  she  had  been  appointed  thereto under that paragraph.
+
+14 . (1) The Supreme Court of Judicature in existence immediately before the appointed day shall on and after that day be the Supreme Court of Judicature for the purposes of the Constitution as if it were established thereunder.
+
+(2) Any  decision  given  before   the appointed day by    any  court  forming    part  of  the    Supreme    Court    of Judicature  in  existence  immediately  before  that  day  shall, for  the  purpose  of its enforcement or for the purpose  of any appeal therefrom, have effect on  and after that  day as if it were  a decision  of the corresponding court established by the Constitution.
+
+15 .  (1)  Subject  to  the  provisions    of  this  Act,  every person  who immediately before  the appointed day holds or is acting in a public office shall, on and after that day, hold or act in that office or the corresponding office established by the Constitution, as the case may be, as if he or she had been appointed to do so in accordance with the provisions of the
+
+Constitution:
+
+Provided  that  any  person  who,  under  the  laws repealed by section 3 or any other existing law, would have been required to vacate his or her office at the expiration of
 
 L.R.O. 1/2012
 
@@ -372,21 +372,17 @@ Oaths.
 
 Commissions.
 
-any period shall vacate his or her office at the expiration of that period.
+any period shall vacate his or her or office at the expiration of that period.
 
-(2) Subsection (1) shall apply in relation to the offices of Chancellor, Chief Justice, Justice of Appeal, Puisne Judge, Ombudsman, Clerk and Deputy Clerk of the National Assembly and, subject to section 17, to the offices of Chairman, Deputy Chairman (if any) and member of the Judicial Service Commission, the Public Service Commission, the Police Service Commission, the Teaching Service Commission and the Elections Commission as if those offices were public offices.
+(2) Subsection  (1)  shall  apply  in  relation  to  the offices  of Chancellor, Chief Justice, Justice of Appeal, Puisne Judge,  Ombudsman,    Clerk    and    Deputy    Clerk    of    the National  Assembly    and,    subject    to    section    17,    to    the offices  of Chairman, Deputy Chairman (if any) and member of the Judicial Service Commission,  the  Public Service Commission,  the  Police  Service  Commission,  the  Teaching Service  Commission  and  the  Elections    Commission  as  if those offices were public offices.
 
-Oaths.
-
-16. Any person who holds or acts in any office on the appointed day by virtue of the provisions of section 11, 12 or 15 shall be deemed to have taken any necessary oath under the Constitution or any other law:
+16 .  Any  person  who  holds  or  acts  in  any  office  on the appointed day by virtue of the provisions of section 11, 12 or 15 shall be deemed to have taken any necessary oath under the Constitution or any other law:
 
 Provided that the President may, at any time on or after the appointed day, require any such person to take any oath required as aforesaid.
 
-Commissions.
+17 .  (1)  Until  the  expiration  of  the  period  of  three months next after the day on which the first election after the appointed day has been held pursuant to the provisions of article 61 of the Constitution or until dissolved by a proclamation    issued  by  the  President,  whichever  shall  the sooner  occur,  the  service  commissions  and  the  Elections Commission as constituted immediately before the appointed day shall on and after that day be deemed to be the corresponding commissions under the Constitution notwithstanding  any  difference    in  composition  under  the existing law and under the Constitution, and any appointments to vacancies in membership and other matters relating  thereto  shall  be  made  and  regulated  as  nearly  as may be practicable in accordance with the existing law.
 
-17. (1) Until the expiration of the period of three months next after the day on which the first election after the appointed day has been held pursuant to the provisions of article 61 of the Constitution or until dissolved by a proclamation issued by the President, whichever shall the sooner occur, the service commissions and the Elections Commission as constituted immediately before the appointed day shall on and after that day be deemed to be the corresponding commissions under the Constitution notwithstanding any difference in composition under the existing law and under the Constitution, and any appointments to vacancies in membership and other matters relating thereto shall be made and regulated as nearly as may be practicable in accordance with the existing law.
-
-(2) Any power of a service commission which
+(2)  Any  power  of  a  service  commission  which Continuation of proceedings.
 
 L.R.O. 1/2012
 
@@ -400,21 +396,18 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 13
 
-immediately before the appointed day is validly delegated to any person or authority shall to the extent that power could be delegated under the Constitution to such person or authority, be deemed, on and after that day, to have been delegated to that person or authority in accordance with the provisions of the Constitution.
-
-Continuation of proceedings.
-
-18. Where any proceedings are pending immediately before the appointed day before any court, body or authority in respect of which a corresponding court, body or authority is established by or under the Constitution, those proceedings may on and after that day be continued and completed by or before such corresponding court, body or authority as if they had been commenced in or before such corresponding court, body or authority:
-
-Provided that in the case of any proceedings before any court, tribunal or the Ombudsman (including any disciplinary proceedings) where the hearing was partly completed immediately before the appointed day (in this section referred to as “the original hearing”), no person shall take part in the continued hearing, either as the sole or other member, as the case may be, of the corresponding court, body or authority established by or under the Constitution unless he or she has also taken part in the original hearing, and where the original hearing cannot be so continued the hearing shall be recommenced.
-
 Local democratic organs.
 
-19. Any local government authority in existence immediately before the appointed day shall be deemed to be a local democratic organ for the purposes of the Constitution as if it were constituted thereunder.
+immediately before the appointed day is validly delegated to any person or authority shall to the extent that power could be  delegated  under  the  Constitution  to  such  person  or authority,  be  deemed,  on  and  after  that  day,  to  have  been delegated to that person or authority in accordance with the provisions of the Constitution.
 
-Amendment of certain provisions of the Amerindian Lands
+18 . Where any proceedings are pending immediately  before  the  appointed  day  before  any  court, body or authority in respect of which a corresponding court, body or authority is established by or under the Constitution, those proceedings may on and after that day be continued  and  completed  by  or  before  such  corresponding court, body or authority as if they  had been commenced in or before such corresponding court, body or authority:
 
-20. Notwithstanding anything contained in the Constitution, sections 2 and 3 of the Amerindian Lands Commission Act as in force immediately before the appointed day may be amended by Parliament only in the same manner as the provisions specified in article 164(2)(b)
+Provided that in the case of any proceedings  before any  court,  tribunal  or  the  Ombudsman  (including  any disciplinary  proceedings)  where  the  hearing  was  partly completed  immediately  before  the  appointed  day  (in  this section  referred to as ,the original hearing'), no person shall take part in the continued hearing, either as the sole or other member,  as  the  case  may  be,    of  the  corresponding  court, body or authority established by or under the Constitution unless he or she has also taken part in the original hearing, and where the original hearing cannot  be so continued the hearing shall be recommenced.
+
+19 .  Any  local  government  authority  in  existence immediately before the appointed day shall be deemed to be a local democratic organ for the purposes of the Constitution as if it were constituted thereunder.
+
+Amendment of certain provisions of the Amerindian Lands | 20 . Notwithstanding anything contained in the Constitution, sections 2 and 3 of the Amerindian Lands Commission Act as in force immediately before the appointed day may be amended by Parliament only in the same manner as the provisions specified in article 164(2)(b)
+--- | ---
 
 L.R.O. 1/2012
 
@@ -428,23 +421,21 @@ LAWS OF GUYANA
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-Commission.
-
-of the Constitution.
+Commission. of the Constitution.
 
 Electoral districts and list of electors.
 
-21. (1) The polling districts and divisions constituted under any existing law in relation to elections of members of the existing Assembly shall be deemed to be the polling districts and divisions for the purposes of elections to be held under article 60(2) of the Constitution subject to any amendments duly made thereto under such law.
-
-(2) The list of electors last prepared before the appointed day for the purposes of holding elections of members of the existing Assembly shall, subject to any further revision in accordance with law, be deemed to be the list of electors prepared by the Elections Commission under article 162 of the Constitution for the purposes of article 60(2) thereof.
-
 Amendment of this Act.
 
-22. (1) Parliament may amend section 3 and this section in the same manner as it may alter any of the provisions specified in article 164 (2) (a) of the Constitution.
+21. (1) The polling districts and divisions constituted under any existing law in relation to elections of members of the  existing  Assembly  shall  be  deemed  to  be  the  polling districts  and  divisions  for  the  purposes  of  elections  to  be held  under  article  60(2)  of  the  Constitution  subject  to  any amendments duly made thereto under such law.
 
-(2) Parliament may amend any other provision of this Act, with the exception of the Schedule thereto, in the same manner as it may alter any of the provisions specified in article 164 (2)(b) of the Constitution.
+(2)  The  list  of  electors  last  prepared  before  the appointed  day  for  the  purposes  of  holding  elections  of members  of  the  existing  Assembly  shall,  subject  to  any further revision in accordance with law, be deemed to be the list of electors prepared by the Elections Commission under article 162 of the Constitution for the purposes of article 60(2) thereof.
 
-(3) Article 164(3) of the Constitution shall apply for the purpose of construing references in this section to any provision of this Act and to the alteration of any such provision as it applies for the purpose of construing references in the said article 164 to any provision of the Constitution and to the alteration of any such provision.
+22 .  (1)  Parliament  may  amend  section  3  and  this section  in  the  same  manner  as  it  may  alter  any  of  the provisions specified in article 164 (2) (a) of the Constitution.
+
+(2)  Parliament may amend any other provision of this Act, with the exception of the Schedule thereto, in the same manner as it may alter any of the provisions specified in article 164 (2)(b) of the Constitution.
+
+(3) Article 164(3) of the Constitution shall apply for the purpose of construing references in this section to any provision  of  this  Act  and  to  the  alteration  of  any  such provision as it applies for the purpose of construing references  in  the  said  article  164  to  any  provision  of  the Constitution and to the alteration of any such provision.
 
 L.R.O. 1/2012
 
@@ -460,7 +451,7 @@ LAWS OF GUYANA
 
 # SCHEDULE
 
-# CONSTITUTION OF THE CO-OPERATIVE REPUBLIC OF GUYANA
+# CONSTITUTION OF THE CO-OPERATIVE REPUBLIC  OF  GUYANA
 
 ## ARRANGEMENT OF ARTICLES
 
@@ -470,22 +461,11 @@ LAWS OF GUYANA
 
 ### CHAPTER I THE STATE AND THE CONSTITUTION
 
-ARTICLE
+### CHAPTER  II PRINCIPLES AND BASES OF THE POLITICAL , ECONOMIC AND SOCIAL SYSTEM
 
-- 1. The State in transition to socialism
-- 2. The territory.
-- 3. The capital.
-- 4. The flag.
-- 5. The coat of arms.
-- 6. The anthem.
-- 6A. The pledge.
-- 7. Duty to respect national symbols.
-- 8. Supremacy of Constitution.
+- Sovereignty belongs to the people.
 
-### CHAPTER II PRINCIPLES AND BASES OF THE POLITICAL, ECONOMIC AND SOCIAL SYSTEM
-
-- 9. Sovereignty belongs to the people.
-- 10. Political parties.
+- Political  parties.
 
 L.R.O. 1/2012
 
@@ -497,43 +477,9 @@ L.R.O. 1/2012
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-LAWS OF GUYANA
-
 ARTICLE
 
-- 11. [Article 11 repealed by Act No. 10 of 2003]
-- 12. Local government.
-- 13. Objective of political system.
-- 14. Goal of economic development.
-- 15. Further goal of economic development.
-- 16. State to foster forms of development.
-- 17. Private enterprise.
-- 18. Land to the tiller.
-- 19. Personal property.
-- 20. Right of inheritance.
-- 21. Role of labour.
-- 22. The right and duty to work.
-- 23. Right to leisure.
-- 24. Right to medical attention and social care in case of old age and disability.
-- 25. Duty to improve environment.
-- 26. Right to housing.
-- 27. Right to education.
-- 28. Youth.
-- 29. Women’s participation in public decision-making.
-- 30. [Article 30 repealed by Act No. 10 of 2003]
-- 31. Protection of citizens resident abroad.
-- 32. Duty to prevent crime and protect public property.
-- 33. Duty to defend State.
-- 34. Abolition of discriminatory distinctions.
-- 35. National culture.
-- 36. Land and the environment.
-- 37. External relations.
-- 38. National co-operation for development of economy.
-- 38A. Democratic State with healthy economy.
-- 38B. The best interest of the child.
-- 38C. Adoption in best interest of the child.
-- 38D. Child’s right to maintenance and accommodation.
-- 38E. Formal education compulsory.
+LAWS OF GUYANA
 
 L.R.O. 1/2012
 
@@ -547,32 +493,6 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 LAWS OF GUYANA
 
-ARTICLE
-
-- 38F. Vilification of religion.
-- 38G. Public Service to be free from political influence.
-- 39. Guiding principles and objectives.
-
-### CHAPTER III FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
-
-- 40. Fundamental rights and freedoms of the individual.
-
-### CHAPTER IV CITIZENSHIP
-
-- 41. Persons who continue to be citizens on commencement of Constitution
-- 42. Persons entitled to be registered as citizens.
-- 43. Persons born in Guyana after commencement of Constitution.
-- 44. Persons born outside Guyana after commencement of Constitution.
-- 45. Marriage to citizen of Guyana.
-- 46. Deprivation of citizenship on acquisition of, or exercise of rights of another citizenship.
-- 47. Commonwealth citizens.
-- 48. Powers of Parliament.
-- 49. Interpretation.
-
-### CHAPTER V SUPREME ORGANS OF DEMOCRATIC POWER
-
-- 50. Supreme organs of democratic power.
-
 L.R.O. 1/2012
 
 [[END OF PAGE 17]]
@@ -583,43 +503,13 @@ L.R.O. 1/2012
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-LAWS OF GUYANA
-
 ARTICLE
+
+LAWS OF GUYANA
 
 ### CHAPTER VI PARLIAMENT
 
-#### COMPOSITION OF PARLIAMENT
-
-- 51. Establishment of Parliament.
-- 52. Composition of the National Assembly.
-- 53. Qualifications for election as members.
-- 54. Tenure of seats of members of the National Assembly.
-- 55. First meeting of the National Assembly.
-- 56. Speaker and Deputy Speaker.
-- 57. Clerk and Deputy Clerk.
-- 58. Unqualified persons sitting or voting.
-
-#### ELECTIONS
-
-- 59. Qualifications and disqualifications for electors.
-- 60. Electoral system.
-- 61. Times for elections under article 60(2).
-- 62. Elections Commission.
-- 63. Filling of casual vacancies.
-- 64. Determination of questions as to membership and elections.
-
-#### POWERS AND PROCEDURE OF PARLIAMENT
-
-- 65. Legislative power.
-- 66. Alteration of this Constitution.
-- 67. Attendance of the President in the National Assembly.
-- 68. Regulation of procedure, etc.
-
-#### SUMMONING, PROROGATION AND DISSOLUTION
-
-- 69. Sessions of Parliament.
-- 70. Prorogation and dissolution of Parliament.
+#### COMPOSITION  OF  PARLIAMENT
 
 L.R.O. 1/2012
 
@@ -633,38 +523,6 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 LAWS OF GUYANA
 
-ARTICLE
-
-### CHAPTER VII LOCAL DEMOCRACY
-
-#### LOCAL DEMOCRATIC ORGANS
-
-- 71. Local government.
-- 72. Local government areas.
-- 73. Election of members of regional councils.
-- 73A. Lower tier of local government to be represented at the tier above.
-- 74. Duties of local democratic organs.
-- 75. Power to take decisions.
-- 76. Power to raise revenue.
-- 77. Regional development programme to be integrated into the national development plans.
-- 77A. Parliament to provide criteria for allocation of resources by local democratic organs.
-- 78. Local governmental elections.
-- 78A. Local Government Commission
-- 78B. Representativeness and accountability of local democratic organs to the electorate.
-- 79 - 81. [Articles 79 to 81 repealed by Act No. 14 of 2000.]
-- 82-88. [Chapter VIII- Articles 82-88 repealed by Act No. 14 of 2000]
-
-### CHAPTER IX THE PRESIDENT
-
-- 89. Establishment of Office of President.
-- 90. Qualifications for election.
-- 91. Election of President.
-- 92. Tenure of Office of President.
-- 93. Removal of President on grounds of incapacity.
-- 94. Removal of President for violation of Constitution or gross misconduct.
-- 95. Vacancy in Office of President.
-- 96. Discharge of functions of President during absence, illness, etc.
-
 L.R.O. 1/2012
 
 [[END OF PAGE 19]]
@@ -675,40 +533,9 @@ L.R.O. 1/2012
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-LAWS OF GUYANA
-
 ARTICLE
 
-- 97. Oath to be taken by President.
-- 98. Remuneration, etc., of President
-
-### CHAPTER X THE EXECUTIVE
-
-- 99. Executive authority of Guyana.
-- 100. Establishment of Office of Prime Minister and other Ministerial offices.
-- 101. The Prime Minister.
-- 102. Vice-Presidents.
-- 103. Ministers.
-- 104. Ministerial appointments during dissolution.
-- 105. Non-elected Ministers to sit in Assembly.
-- 106. The Cabinet.
-- 107. Allocation of portfolios.
-- 108. Tenure of office of Ministers.
-- 109. Minister’s absence or illness.
-- 110. Leader of the Opposition.
-- 111. Exercise of President’s powers.
-- 112. Attorney General.
-- 113. Parliamentary Secretaries.
-- 114. Oaths of Ministers, etc.
-- 115. Permanent Secretaries.
-- 116. Director of Public Prosecutions.
-- 117. Secretary to the Cabinet.
-- 118. Subcommittees of Cabinet.
-- 119. Standing Committees.
-- 119A. Parliamentary Standing Committee for Constitutional Reform
-- 119B. Parliamentary Sectoral committees.
-- 119C. Standing committee to address matters relating to appointment of members of Commissions established under the Constitution.
-- 119D. Parliamentary Oversight Committee on the Security Sector.
+LAWS OF GUYANA
 
 L.R.O. 1/2012
 
@@ -720,37 +547,29 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 21
 
-LAWS OF GUYANA
-
 ARTICLE
 
-- 120. Constitution of offices.
-- 121. Prerogative of Mercy.
-- 122. Ombudsman.
+- Constitution of offices.
+
+- Prerogative of Mercy.
+
+- Ombudsman.
 
 ### CHAPTER XI THE JUDICATURE
 
 #### THE SUPREME COURT OF JUDICATURE
 
-- 122A. Independent Judiciary.
-- 123. Establishment of Supreme Court of Judicature.
-- 124. Constitution of Court of Appeal.
-- 125. Constitution of High Court.
+- 122A.    Independent Judiciary.
+
+- Establishment of Supreme Court of Judicature.
+
+- Constitution of Court of Appeal.
+
+- Constitution of High Court.
 
 #### JUDGES OF THE SUPREME COURT OF JUDICATURE
 
-- 126. Interpretation.
-- 127. Appointment of Chancellor and Chief Justice.
-- 128. Appointment of Justices of Appeal and Puisne Judges.
-- 128A. Appointment of part-time Judges.
-- 129. Qualifications of Judges.
-- 130. Attendance of additional Judge in Court of Appeal and High Court.
-- 131. Tenure of office of Judges.
-- 132. Oaths of Judges.
-
-#### APPEALS
-
-- 133. Appeals on constitutional questions and fundamental rights.
+LAWS OF GUYANA
 
 L.R.O. 1/2012
 
@@ -762,39 +581,59 @@ L.R.O. 1/2012
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-LAWS OF GUYANA
-
 ARTICLE
 
 ### CHAPTER XII THE SERVICE COMMISSIONS
 
-- 134. The Judicial Service Commission.
-- 135. The Public Service Commission.
-- 136. The Teaching Service Commission.
-- 137. The Police Service Commission.
+- The Judicial Service Commission.
 
-## PART 2 SPECIFIC RULES
+- The Public Service Commission.
+
+- The Teaching Service Commission.
+
+- The Police Service Commission.
+
+## PART 2 SPECIFIC  RULES
 
 ### TITLE 1 PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
 
-- 138. Protection of right to life.
-- 139. Protection of right to personal liberty.
-- 140. Protection from slavery and forced labour.
-- 141. Protection from inhuman treatment.
-- 142. Protection from deprivation of property.
-- 143. Protection against arbitrary search or entry.
-- 144. Provisions to secure protection of law.
-- 145. Protection of freedom of conscience.
-- 146. Protection of freedom of expression.
-- 147. Protection of freedom of assembly, association and demonstration.
-- 148. Protection of freedom of movement.
-- 149. Protection from discrimination on the grounds of race, etc.
-- 149A. Right to work.
-- 149B. Right to pension and gratuity.
-- 149C. Right to participate in decision-making processes of the State.
-- 149D. Equality of persons before the law.
-- 149E. Equality of status.
-- 149F. Equality for women.
+- Protection of right to life.
+
+- Protection of right to personal liberty.
+
+- Protection from slavery and forced labour.
+
+- Protection from inhuman treatment.
+
+- Protection from deprivation of property.
+
+- Protection against arbitrary search or entry.
+
+- Provisions to secure protection of law.
+
+- Protection of freedom of conscience.
+
+- Protection of freedom of expression.
+
+- Protection  of  freedom  of  assembly,  association  and demonstration.
+
+- Protection of freedom of movement.
+
+- Protection  from  discrimination  on  the  grounds  of race, etc.
+
+- 149A.    Right to work.
+
+- 149B.     Right to pension and gratuity.
+
+- 149C.    Right  to  participate  in  decision-making  processes of          the State.
+
+- 149D.    Equality of persons before the law.
+
+- 149E.     Equality of status.
+
+- 149F.     Equality for women.
+
+LAWS OF GUYANA
 
 L.R.O. 1/2012
 
@@ -810,38 +649,6 @@ Cap. 1:01
 
 23
 
-ARTICLE
-
-- 149G. Indigenous peoples' right.
-- 149H. Right to free education.
-- 149I. Right to establish private schools.
-- 149J. The environment.
-- 150. Provisions for time of war or emergency.
-- 151. Reference to tribunal in certain cases.
-- 152. Saving of existing laws and disciplinary laws.
-- 153. Enforcement of protective provisions.
-- 154. Interpretation.
-
-### TITLE 1A PROTECTION OF HUMAN RIGHTS
-
-- 154A. Human rights of the individual.
-
-### TITLE 2 PARLIAMENT
-
-- 155. Disqualifications for election as members.
-- 156. Tenure of seats of members of the National Assembly.
-- 157. Speaker and Deputy Speaker.
-- 158. Clerk and Deputy Clerk.
-- 159. Qualifications and disqualifications for electors.
-- 160. Electoral system.
-- 160A. Political parties prohibited from causing ethnic division.
-- 161. Elections Commission.
-- 161A. Appointment of staff of Elections Commission; Secretariat of the Commission.
-- 161B. Role of political parties in the conduct of elections through the Elections Commission.
-- 162. Functions of Elections Commission.
-- 163. Determination of questions as to membership and elections.
-- 164. Procedure for altering this Constitution.
-
 L.R.O. 1/2012
 
 [[END OF PAGE 23]]
@@ -852,41 +659,9 @@ L.R.O. 1/2012
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-LAWS OF GUYANA
-
 ARTICLE
 
-- 165. Regulation of procedure.
-- 166. Presiding in the Assembly.
-- 167. Oaths of members.
-- 168. Voting.
-- 169. Quorum.
-- 170. Mode of legislation.
-- 171. Introduction of Bills, etc.
-- 172. Privileges, etc., of members of the National Assembly.
-
-### TITLE 3
-
-- 173-176 [Title 3 Articles 173-176 repealed by Act No. 14 of 2000]
-
-### TITLE 4 THE PRESIDENT
-
-- 177. Election of President.
-- 178. Tenure of office of President.
-- 179. Removal of President on grounds of incapacity.
-- 180. Removal of President for violation of Constitution or gross misconduct.
-- 181. Salary and allowances of President.
-- 182. Immunities of President.
-
-### TITLE 5 THE EXECUTIVE
-
-#### SUBTITLE 1 MINISTERS, etc.
-
-- 183. Tenure of office of Ministers.
-- 184. Leader of the Opposition.
-- 185. Attorney General.
-- 186. Parliamentary Secretaries.
-- 187. Functions of Director of Public Prosecutions.
+LAWS OF GUYANA
 
 L.R.O. 1/2012
 
@@ -902,36 +677,6 @@ Cap. 1:01
 
 LAWS OF GUYANA
 
-ARTICLE
-
-- 188. Prerogative of Mercy.
-- 189. Advisory Council on Prerogative of Mercy.
-- 190. Functions of Advisory Council.
-
-#### SUBTITLE 2 THE OMBUDSMAN
-
-- 191. Appointment, etc., of Ombudsman.
-- 192. Matters subject to investigation by the Ombudsman.
-- 193. Excluded matters.
-- 194. Ombudsman’s functions on concluding an investigation, and reports to the Assembly.
-- 195. Power of Parliament to make supplementary provision.
-- 196. Interpretation.
-
-### TITLE 6 THE JUDICATURE
-
-- 197. Tenure of office of Judges.
-
-### TITLE 6A DEFENCE AND SECURITY
-
-- 197A. Defence and security.
-
-### TITLE 7 THE SERVICE COMMISSIONS
-
-#### THE JUDICIAL SERVICE COMMISSION
-
-- 198. Composition of Commission.
-- 199. Appointment, etc., of judicial and legal officers.
-
 L.R.O. 1/2012
 
 [[END OF PAGE 25]]
@@ -946,33 +691,6 @@ ARTICLE
 
 #### THE PUBLIC SERVICE COMMISSION
 
-- 200. Composition of Commission.
-- 201. Appointment, etc., of public officers.
-- 202. Appeals to Public Service Commission.
-- 203. Appointment, etc., of Director of Public Prosecutions.
-- 204. Appointment, etc., of Auditor General.
-- 205. Appointments of Solicitor General and others.
-- 206. Appointments on transfer to certain offices.
-
-#### THE TEACHING SERVICE COMMISSION
-
-- 207. Composition of Commission.
-- 208. Vacation of office of appointed member of the Commission
-- 209. Appointment of teachers.
-
-#### THE POLICE SERVICE COMMISSION
-
-- 210. Composition of Commission.
-- 211. Appointment, etc., of Commissioner of Police and Deputy Commissioners.
-- 212. Appointment, etc., of other members of Police Force.
-
-#### THE ETHNIC RELATIONS COMMISSION
-
-- 212A. Ethnic Relations Commission.
-- 212B. Composition of Ethnic Relations Commission.
-- 212C. Ethnic Relations Commission Tribunal.
-- 212D. Functions of the Ethnic Relations Commission.
-- 212E. Reports.
 - 212F. Rules.
 
 LAWS OF GUYANA
@@ -993,39 +711,6 @@ ARTICLE
 
 ##### COMMISSIONS FOR THE PROMOTION AND ENHANCEMENT OF THE FUNDAMENTAL RIGHTS AND THE RULE OF LAW
 
-- 212G. Rights Commissions.
-- 212H. Appointments.
-- 212I. Secretariat.
-- 212J. General functions.
-- 212K. Rights Commissions Tribunal.
-- 212L. Appeals.
-- 212M. Reports.
-
-#### THE HUMAN RIGHTS COMMISSION
-
-- 212N. Human Rights Commission.
-- 212O. Functions of the Human Rights Commission.
-- 212P. Secretariat.
-
-#### THE WOMEN AND GENDER EQUALITY COMMISSION
-
-- 212Q. Women and Gender Equality Commission.
-- 212R. Functions of the Women and Gender Equality Commission.
-
-#### THE INDIGENOUS PEOPLES’ COMMISSION
-
-- 212S. Indigenous Peoples’ Commission.
-- 212T. Functions of Indigenous Peoples’ Commission.
-
-#### THE RIGHTS OF THE CHILD COMMISSION
-
-- 212U. Rights of the Child Commission.
-- 212V. Functions of the Rights of the Child Commission.
-
-#### THE PUBLIC PROCUREMENT COMMISSION
-
-- 212W. Public Procurement Commission.
-
 LAWS OF GUYANA
 
 L.R.O. 1/2012
@@ -1037,39 +722,6 @@ L.R.O. 1/2012
 28
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
-
-ARTICLE
-
-- 212X. Composition of the Public Procurement Commission.
-- 212Y. Appointment.
-- 212Z. Secretariat.
-- 212AA. Functions of the Public Procurement Commissions.
-- 212BB. Appeals.
-- 212CC. Reports.
-- 212DD. Requirement to provide information.
-- 212EE. Public Procurement Tribunal.
-
-#### PRINCIPLES FOR THE ESTABLISHMENT OF COMMISSIONS
-
-- 212FF. Principles for the establishment of Commissions.
-
-#### PENSIONS
-
-- 213. Protection of pension rights.
-- 214. Power of Commissions in relation to pensions, etc.
-- 215. Interpretation.
-
-#### PUBLIC SERVICE APPELLATE TRIBUNAL
-
-- 215A. Public Service Appellate Tribunal.
-
-### TITLE 8 FINANCE
-
-- 216. Establishment of Consolidated Fund.
-- 217. Withdrawals from Consolidated Fund or other public funds.
-- 218. Authorisation of expenditure from Consolidated Fund by appropriation.
-- 219. Authorisation of expenditure in advance of appropriation.
-- 220. Contingencies Fund.
 
 LAWS OF GUYANA
 
@@ -1084,33 +736,6 @@ Constitution of the Co-operative Republic of Guyana
 Cap. 1:01
 
 29
-
-ARTICLE
-
-- 221. Public debt.
-- 222. Remuneration of holders of certain offices.
-- 222A. Overarching clause on financial autonomy.
-- 223. Office and functions of Auditor General
-
-### TITLE 9 MISCELLANEOUS
-
-- 224. Rules of court.
-- 225. Removal from office of certain persons.
-- 226. Powers and procedure of Commissions.
-- 227. Disqualification for office of persons exciting racial hostility.
-
-### TITLE 10 INTERPRETATION
-
-- 228. Appointments.
-- 229. Resignations.
-- 230. Vacation of office on attaining a prescribed age.
-- 231. [Article 231 repealed by Act No. 17 of 2000].
-- 232. Interpretation.
-
-- FIRST SCHEDULE - Form of Oath of Office.
-- SECOND SCHEDULE - The National Flag, The Coat of Arms, The National Anthem, and The National Pledge.
-- THIRD SCHEDULE - Entities.
-- FOURTH SCHEDULE - Conventions.
 
 LAWS OF GUYANA
 
@@ -1140,7 +765,7 @@ WE, THE GUYANESE PEOPLE,
 
 - Affirm our sovereignty, our independence and our indissolubility;
 
-- Forge a system of governance that promotes concerted effort and broad-based participation in national decision-making in order to develop a viable economy and a harmonious community based on democratic values, social justice, fundamental human rights, and the rule of law;
+- Forge a system of governance that promotes concerted effort and broad-based participation in national decisionmaking in order to develop a viable economy and a harmonious community based on democratic values,  social  justice,  fundamental  human  rights, and the rule of law;
 
 - Celebrate  our  cultural  and  racial  diversity  and  strengthen our  unity  by  eliminating  any  and  every  form  of discrimination;
 
@@ -1197,11 +822,11 @@ Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 The territory. | 2 . The territory of the State comprises the areas that immediately before the commencement of this Constitution were comprised in the area of Guyana together with such other areas as may be declared by Act of Parliament to form part of the territory of the State.
 --- | ---
 The capital. | 3 . The capital of the State is the city of Georgetown.
-The flag. [6 of 2001] Second Schedule. | 4. The national flag of the State is the flag known as “The Golden Arrow Head” as set out in the Second Schedule.
+The flag. [6 of 2001] Second Schedule. | 4 . The national flag of the State is the flag known as ,The Golden Arrow Head' as set out in the Second Schedule.
 The coat of Arms. [6 of 2001] | 5 . The coat of arms of the State is that in use at the commencement of this Constitution as set out in the Second Schedule.
-The anthem. [6 of 2001] | 6. The national anthem of the State is the anthem known as “Green Land of Guyana” as set out in the Second Schedule.
+The anthem. [6 of 2001] | 6 . The national anthem of the State is the anthem known as ,Green Land of Guyana' as set out in the Second Schedule.
 The pledge. [6 of 2001] | 6A . The National Pledge of the State is the pledge as set out in the Second Schedule.
-Duty to respect national symbols. [6 of 2001] | 7. It is the duty of every citizen of Guyana wherever he or she may be and of every person in Guyana to respect the national flag, the coat of arms, the national anthem, the national pledge and the Constitution of Guyana, and to treat them with due and proper solemnity on all occasions.
+Duty to respect national symbols. [6 of 2001] | 7 . It is the duty of every citizen of Guyana wherever he or she may be and of every person in Guyana to respect the national flag, the coat of arms, the national anthem, the national pledge and the Constitution of Guyana, and to treat them with due and proper solemnity on all
 Supremacy of Constitution. | 8 . This Constitution is the supreme law of Guyana and, if any other law is inconsistent with it, that other law shall, to the extent of the inconsistency, be void.
 
 L.R.O. 1/2012
@@ -1234,15 +859,15 @@ Further  goal
 
 - 10 .  The  right  to  form  political  parties  and  their freedom  of  action  are  guaranteed.  Political  parties  must respect the principles  of  national  sovereignty  and  of democracy.
 
-- 11. [Article 11 repealed by Act No. 10 of 2003]
+[Article 11 repealed by Act No. 10 of 2003]
 
 - 12 .  Local government by freely elected representatives  of  the  people  is  an  integral  part  of  the democratic organisation of the State.
 
-- 13. The principal objective of the political system of the State is to establish an inclusionary democracy by providing increasing opportunities for the participation of citizens, and their organisations in the management and decision-making processes of the State, with particular emphasis on those areas of decision-making that directly affect their well-being.
+- The principal objective of the political system of the  State  is  to  establish  an  inclusionary  democracy  by providing increasing opportunities for the participation of citizens,  and  their  organisations  in  the  management  and decision-making  processes  of  the  State,  with  particular emphasis on those areas of decision-making that directly affect their well-being.
 
 - 14 .  The goal of economic development includes the objective of creating,  promoting  and  encouraging  an economic  system  capable  of  achieving  and  maintaining sustainable  competitive  advantage  in  the  context  of  a global competitive environment, by fostering entrepreneurship,  individual  and  group  initiative  and creativity, and strategic alliances with domestic and global business partners in the private sector.
 
-- 15. The goal of economic development includes the
+- The goal of economic development includes the
 
 L.R.O. 1/2012
 
@@ -1258,15 +883,15 @@ LAWS OF GUYANA
 
 Constitution of the Co-operative Republic of Guyana
 
-of economic development. [6 of 2001] | objective of laying the material basis for the greatest possible satisfaction of the people's growing material, cultural and intellectual requirements, as well as the dynamically stable development of their personality, creativity, entrepreneurial skills, and co-operative relations in a plural society. The State shall intervene to mitigate any deleterious effects of competition on individuals or groups of individuals.
+of economic development. [6 of 2001] | objective of laying the material basis for the greatest possible satisfaction of the people's growing material, cultural and intellectual requirements, as well as the dynamically stable development of their personality, creativity, entrepreneurial skills, and co- operative relations in a plural society. The State shall intervene to mitigate any deleterious effects of competition on individuals or groups of individuals.
 --- | ---
 State to foster forms of development. [6 of 2001] | 16. The State shall foster the development of such relevant forms of cooperation and of business entities as are seen to be supportive of the goals of economic development as stated in articles 14 and 15.
 Private enterprise. [6 of 2001] | 17 . Privately owned economic enterprises are recognised, and shall be facilitated in accord with their conformity with the aims and objectives stated or implied in articles 13, 14, 15 and 16.
 Land to the tiller. | 18. Land is for social use and must go to the tiller.
 Personal property. | 19 . Every citizen has the right to own personal property which includes such assets as dwelling houses and the land on which they stand, farmsteads, tools and equipment, motor vehicles and bank accounts.
 Right to inheritance. | 20 . The right of inheritance is guaranteed.
-Role of labour. | 21. The source of the growth of social wealth and of the well-being of the people, and of each individual, is the labour of the people.
-The right and duty to work. [10 of 2003] | 22. (1) Every citizen has the right to be rewarded according to the nature, quality and quantity of his or her work, to equal pay for equal work or work of equal value, and to just conditions of work.
+Role of labour. | 21. The source of the growth of social wealth and of the well-being of the people, and of each individual, is the labour of the people. 22 . (1) Every citizen has the right to be rewarded according to the nature, quality and quantity of his or her work, to equal pay for equal work or work of equal value, and to just conditions of work.
+The right and duty to work. [10 of 2003]
 
 L.R.O. 1/2012
 
@@ -1294,19 +919,19 @@ Right  to education. [10  of  2003]
 
 Youth.
 
-- (2) Every citizen who is able to work has a duty to work.
+- Every citizen who is able to work has a duty to work.
 
 - 23 .  Every citizen has the right to rest, recreation and leisure. The State in co-operation with co-operatives, trade unions and other socio-economic organisations will guarantee this right by prescribing hours and conditions of work and by establishing holiday arrangements for workers, including a complex of cultural, educational and health institutions.
 
-- 24. Every citizen has the right to free medical attention and also to social care in case of old age and disability.
+- Every  citizen has the right to free medical attention  and  also  to  social  care  in  case  of  old  age  and disability.
 
-- 25. Every citizen has a duty to participate in activities designed to improve the environment and protect the health of the nation.
+- Every citizen has a duty to participate in activities designed to improve the environment and protect the health of the nation.
 
 - 26 .  Every  citizen  has  the  right  to  proper  housing accommodation.
 
-- 27. (1) Every citizen has the right to free education from nursery to university as well as at non-formal places where opportunities are provided for education and training.
+(1)  Every  citizen  has the  right to free education from nursery to university as well as at non-formal places where  opportunities are provided  for education and training.
 
-- (2) It is the duty of the State to provide education that would include curricula designed to reflect the cultural diversities of Guyana and disciplines that are necessary to prepare students to deal with social issues and to meet the challenges of the modern technological age.
+- It is the duty  of the State to  provide education that would include curricula designed to reflect the cultural diversities of Guyana and disciplines that are necessary  to  prepare  students  to  deal  with  social  issues and  to  meet  the  challenges  of  the  modern  technological age.
 
 - 28 . Every young person has the right to ideological,
 
@@ -1324,7 +949,7 @@ LAWS OF GUYANA
 
 Constitution of the Co-operative Republic of Guyana
 
-Women’s participation in public decision-making. [10 of 2003]
+Women 's participation in public decisionmaking. [10  of  2003]
 
 Protection of citizens resident abroad.
 
@@ -1336,13 +961,13 @@ Abolition   of discriminatory distinctions.
 
 National culture.
 
-social, cultural and vocational development and to the opportunity for responsible participation in the development of the socialist order of society.
+Land and the social,  cultural  and  vocational  development  and  to  the opportunity for responsible participation in the development of the socialist order of society.
 
 - 29 .  Women's participation in the various management  and  decision-making  processes, whether private, public or state, shall be encouraged and facilitated by laws enacted for that purpose or otherwise.
 
 - 30 .  [Article 30 repealed by Act No. 10 of 2003]
 
-- 31. It is the duty of the State to protect the just rights and interests of citizens resident abroad.
+- 31 . It is the duty of the State to protect the just rights and interests of citizens' resident abroad.
 
 - 32 .  It  is  the  joint  duty  of  the  State,  the  society  and every  citizen  to  combat  and  prevent  crime  and  other violations of the law and to take care of and protect public property.
 
@@ -1352,9 +977,7 @@ social, cultural and vocational development and to the opportunity for responsib
 
 - 35 .  The  State  honours  and  respects  the  diverse cultural  strains  which  enrich  the  society  and  will  seek constantly to promote national appreciation of them at all levels  and  to  develop  out  of  them  a  socialist  national culture for Guyana.
 
-Land and the
-
-- 36. The well-being of the nation depends upon
+- The  well-being  of  the  nation  depends  upon
 
 L.R.O. 1/2012
 
@@ -1370,12 +993,12 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 environment. [10 of 2003] | preserving clean air, fertile soils, pure water and the rich diversity of plants, animals and eco-systems.
 --- | ---
-External relations. | 37. The State supports the legitimate aspirations of other peoples for freedom and independence and will establish relations with all states on the basis of sovereign equality; mutual respect, inviolability of frontiers, territorial integrity of states, peaceful settlement of disputes, non-intervention in internal affairs, respect for human rights and fundamental freedoms, and co-operation among States.
-National co-operation for development of economy. | 38. It is the duty of the State, co-operatives, trade unions, other socio-economic organisations and the people through sustained and disciplined endeavours to achieve the highest possible levels of production and to develop the economy in order to ensure the realisation of the rights set out in this Chapter.
-Democratic state with a healthy economy. [10 of 2003] | 38A. To ensure that Guyana is a democratic State with a healthy economy, the State shall –
-(a) facilitate the engagement of citizens in activities designed to achieve their sustainable livelihoods;
-(b) progressively remove the barriers that prohibit or limit the realisation of the potential for self-sustaining activities in such fields as agriculture, processing, manufacturing and artistic and information-based activities;
-(c) encourage and support the self-mobilisation of citizens; and
+External relations. | 37 . The State supports the legitimate aspirations of other peoples for freedom and independence and will establish relations with all states on the basis of sovereign equality; mutual respect, inviolability of frontiers, territorial integrity of states, peaceful settlement of disputes, non-intervention in internal affairs, respect for human rights and fundamental freedoms, and co- operation among States.
+National co- operation for development of economy. | 38. It is the duty of the State, co-operatives, trade unions, other socio-economic organisations and the people through sustained and disciplined endeavours to achieve the highest possible levels of production and to develop the economy in order to ensure the realisation of the rights set out in this Chapter.
+Democratic state with a healthy economy. [10 of 2003] | 38A . To ensure that Guyana is a democratic State with a healthy economy, the State shall -
+(a) facilitate the engagement of citizens in activities designed to achieve
+(b) progressively remove the barriers that prohibit or limit the realisation
+(c) encourage and support the self- mobilisation of citizens; and
 (d) provide appropriate support to any
 
 L.R.O. 1/2012
@@ -1395,10 +1018,10 @@ group which is, or is claiming to be, under threat of marginalisation.
 The best interest of the child. [10 of 2003] | 38B . The best interest of the child shall be the primary consideration in all judicial proceedings and decisions and in all matters concerning children, whether undertaken by public or private social welfare institutions, administrative authorities or legislative bodies.
 --- | ---
 Adoption in best interest of the child. [10 of 2003] | 38C. The State shall ensure that the adoption of a child takes place only if that adoption would be in the best interest of the child.
-Child’s right to maintenance and accommodation. [10 of 2003] | 38D. Every child has the right to maintenance and accommodation from his or her parents and guardians.
+Child's right to maintenance and accommo- dation. | 38D. Every child has the right to maintenance and accommodation from his or her parents and guardians.
 Formal education compulsory. [10 of 2003] | 38E. Formal education is compulsory up to the age of fifteen years.
 Vilification of religion. [10 of 2003] | 38F. No person's religion or religious belief shall be vilified.
-Public service to be free from political influence. [10 of 2003] | 38G. (1) The integrity of the public service is guaranteed. No public officer shall be required to execute or condone irregular acts on the basis of higher orders. (2) The freedom of every public officer to perform his or her duties and fulfil his or her responsibilities is protected. (3) No public officer shall be the subject of sanctions of any kind without due process.
+Public service to be free from political influence. [10 of 2003] | 38G .(1) The integrity of the public service is guaranteed. No public officer shall be required to execute or condone irregular acts on the basis of higher orders. (2) The freedom of every public officer to perform his or her duties and fulfil his or her responsibilities is protected.
 
 L.R.O. 1/2012
 
@@ -1418,17 +1041,17 @@ Guiding principles and objectives. [10  of  2003]
 
 Fundamental rights and freedoms of the individual. [10  of  2003]
 
-- (4) In the discharge of his or her duties a public officer shall execute the lawful policies of the government.
+- In the discharge of his or her duties a public officer shall execute the lawful policies of the government.
 
 - 39 . (1) It is the duty of Parliament, the Government, the courts and all other public agencies to be guided in the discharge  of  their  functions    by  the  principles  set  out  in this Chapter, and Parliament may provide for any of those principles to be enforceable in any court or tribunal.
 
-- (2) In the interpretation of the fundamental rights provisions in this Constitution a court shall pay due regard to international law, international conventions, covenants and charters bearing on human rights.
+- In  the  interpretation  of  the  fundamental rights provisions in this Constitution a court shall pay due regard  to  international  law,  international  conventions, covenants and charters bearing on human rights.
 
 ### CHAPTER III FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
 
 - 40 .  (1)  Every  person  in  Guyana  is  entitled  to  the basic  right  to  a  happy,  creative  and  productive  life,  free from hunger, ignorance and want. That right includes the fundamental rights and freedoms of the individual.
 
-- (2) The provisions of Title 1 of Part 2 shall have effect for the purpose of affording protection to the aforesaid fundamental rights and freedoms of the individual subject to such limitations of that protection as are contained in those provisions, being limitations designed to ensure that the enjoyment of the said rights and freedoms by any individual does not prejudice the rights and freedoms of others or the public interest.
+- The provisions of Title 1 of Part 2 shall have effect for the purpose  of  affording  protection  to  the aforesaid fundamental rights and freedoms of the individual subject to such limitations of that protection as are contained in those provisions, being limitations designed  to  ensure  that  the  enjoyment  of  the  said  rights and  freedoms  by  any  individual  does  not  prejudice  the rights and freedoms of others or the public interest.
 
 L.R.O. 1/2012
 
@@ -1492,7 +1115,7 @@ Provided that a person shall not become a citizen of Guyana by virtue of this ar
 
 - 44 .  A person born outside Guyana after the commencement of this Constitution shall become a citizen of Guyana at the date of his or her birth if at that date his or  her  father  or  his  or  her  mother  is  a  citizen  of  Guyana otherwise than by virtue of this article.
 
-- 45. Any person who, after the commencement of this Constitution, marries a person who is or becomes a citizen of Guyana shall be entitled, upon making application in such manner and taking such oath of allegiance as may be prescribed, to be registered as a citizen of Guyana:
+- Any  person  who,  after  the  commencement  of this  Constitution,  marries  a  person  who  is  or  becomes  a citizen of Guyana shall be entitled, upon making application  in  such  manner  and  taking  such  oath  of allegiance  as  may  be  prescribed,  to  be  registered  as  a citizen of Guyana:
 
 Provided that the right to be registered as a citizen of  Guyana  under  this  article  shall  be  subject  to  such exceptions  or  qualifications  as  may  be  prescribed  in  the interests of national security or public policy.
 
@@ -1512,7 +1135,7 @@ Deprivation of citizenship on acquisition of,  or exercise of right  of, another
 
 Commonwealth citizens.
 
-46. (1) If the President of Guyana is satisfied that any citizen of Guyana has at any time after 25th May, 1966, acquired by registration, naturalisation or any other voluntary and formal act (other than marriage) the citizenship of any country other than Guyana, the President may by order deprive that person of his or her citizenship.
+46 .  (1)  If  the  President  of  Guyana  is  satisfied  that any citizen of Guyana has any time after 25th May 1966, acquired  by  registration,  naturalisation  or  any  other  or other voluntary and formal act (other than marriage) the citizenship of any country other than Guyana, the President may by order deprive that person of his or her citizenship.
 
 (2) If the President is satisfied that any citizen of Guyana has at any time after 25th May, 1966, voluntarily claimed and exercised in a country other than Guyana any rights  available  to  him  or  her  under  the  law  of  that country,  being  rights  accorded  exclusively  to  its  citizens, the President may by order deprive that person of his or her citizenship.
 
@@ -1520,7 +1143,7 @@ Commonwealth citizens.
 
 (2) Every person who  is a British subject without citizenship under the British Nationality Act 1948, continues to be a British subject under section 2 of that Act or  is  a  British  subject  under  the  British  Nationality  Act 1965  shall,  by  virtue  of  that  status,  have  the  status  of  a Commonwealth citizen.
 
-(3) The countries to which this article applies are Antigua and Barbuda, Australia, The Bahamas, Bangladesh, Barbados, Belize, Botswana, Brunei, Canada, Cyprus, Dominica, Fiji, The Gambia, Ghana, Grenada, India, Jamaica, Kenya, Kiribati, Lesotho, Malawi, Malaysia, Maldives, Malta, Mauritius, Nauru, New Zealand and Island Territories and Self-Governing
+(3) The countries to which this article applies are Antigua and Barbuda, Australia, The Bahamas, Bangladesh, Barbados, Belize, Botswana, Brunei, Canada, Cyprus,  Dominica,  Fiji,  The  Gambia,  Ghana,  Grenada, India, Jamaica, Kenya, Kiribati, Lesotho, Malawi, Malaysia, Maldives, Malta, Mauritius, Nauru, New Zealand and Island Territories and Self-Governing Powers  of Parliament.
 
 L.R.O. 1/2012
 
@@ -1536,23 +1159,21 @@ Cap. 1:01
 
 43
 
-Countries in free Association with New Zealand, Nigeria, Papua New Guinea, Seychelles, Sierra Leone, Singapore, Solomon Islands, Sri Lanka, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, United Kingdom and Colonies, Vanuatu, Western Samoa, Zambia and Zimbabwe.
-
-- (4) The President may from time to time by order subject to affirmative resolution of the National Assembly amend paragraph (3) by adding any country thereto or by deleting any country therefrom.
-
-Powers of Parliament.
-
-- 48. (1) Parliament may make provision –
-
-(a) for the acquisition of citizenship of Guyana by persons who do not become citizens of Guyana by virtue of the provisions of this Chapter;
-
-(b) for depriving of his or her citizenship of Guyana any person who is a citizen of Guyana otherwise than by virtue of article 41 (in so far as it relates to persons who became citizens of Guyana by virtue of articles 21, 23 and 24 of the Constitution of Guyana annexed to the Guyana Independence Order 1966), 43 or 44; or
-
-(c) for the renunciation by any person of his or her citizenship of Guyana.
-
 Interpretation.
 
-- 49. (1) In this Chapter “prescribed” means prescribed by or under any Act of Parliament.
+Countries in free Association with New Zealand, Nigeria, Papua New Guinea, Seychelles, Sierra  Leone,  Singapore, Solomon Islands, Sri Lanka, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, United Kingdom and Colonies, Vanuatu, Western Samoa, Zambia and Zimbabwe.
+
+- The  President  may  from  time  to  time  by order  subject  to  affirmative  resolution  of  the  National Assembly  amend  paragraph  (3)  by  adding  any  country thereto or by deleting any country therefrom.
+
+- 48 . (1) Parliament may make provision -
+
+(a) for  the  acquisition  of  citizenship  of Guyana  by  persons  who  do  not become citizens of Guyana by virtue of the provisions of this Chapter;
+
+(b) for depriving of his or her citizenship  of  Guyana  any  person who is a citizen of Guyana otherwise  than  by  virtue  of  article 41 (in so far as it relates to persons who became citizens of  Guyana  by virtue of articles 21, 23 and 24 of the Constitution of  Guyana annexed  to the Guyana Independence Order1966), 43 or 44; or
+
+(c)     for the renunciation by any person of his or her citizenship of Guyana.
+
+- 49 . (1) In this Chapter ,prescribed' means prescribed by or under any Act of Parliament.
 
 L.R.O. 1/2012
 
@@ -1572,16 +1193,16 @@ Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
 ### CHAPTER V SUPREME ORGANS OF DEMOCRATIC POWER
 
-Supreme organs of democratic power. [14 of 2000] | 50. The supreme organs of democratic power in Guyana shall be –
-(i) the Parliament;
-(ii) the President; and
-(iii) the Cabinet.
+Supreme organs of democratic power. [14 of 2000] | 50 . The supreme organs of democratic power in Guyana shall be - (i) the Parliament;
+--- | ---
 
 ### CHAPTER VI PARLIAMENT
 
 #### COMPOSITION OF PARLIAMENT
 
-Establishment of Parliament. | 51. There shall be a Parliament of Guyana, which shall consist of the President and the National Assembly.
+.  There  shall  be  a  Parliament  of  Guyana,  which shall consist of the President and the National Assembly.
+
+Establishment of Parliament. 51
 
 L.R.O. 1/2012
 
@@ -1605,7 +1226,7 @@ First   meeting of  the National
 
 - 52 .  (1)    Subject  to  paragraph (2) and to articles 105, 185 and 186, the National Assembly shall consist of such number  of members  as  shall be determined by the Assembly  who  shall  be  elected  in  accordance  with  the provisions  of  this  Constitution  and,  subject  thereto,  in accordance  with  any  law  made  by  Parliament  in  that behalf.
 
-- (2) If any person who is not a member of the National Assembly is elected to be Speaker of the National Assembly, he or she shall, by virtue of holding the office of Speaker, be a member of the Assembly in addition to the members aforesaid.
+- If  any  person  who  is  not  a  member  of  the National Assembly is elected to be Speaker of the National Assembly, he or she or she shall, by virtue of holding the office of Speaker, be a member of the Assembly in addition to the members aforesaid.
 
 - 53 . Subject to article 155 (which relates to allegiance, insanity, and other matters) a person shall be qualified for election  as  a  member  of  the  National  Assembly  if,  and shall not be so qualified unless, he or she -
 
@@ -1613,7 +1234,7 @@ First   meeting of  the National
 
 (b)      is    able    to      speak      and,    unless incapacitated  by  blindness  or  other physical  cause,  to  read  the  English language with a degree of proficiency  sufficient  to  enable  him or  her  to  take  an  active  part  in  the proceedings of the Assembly.
 
-- 54. Members of the National Assembly shall vacate their seats in the Assembly in the circumstances set out in article 156.
+- Members of the National Assembly shall vacate their seats in the Assembly in the circumstances set out in article 156.
 
 - 55 .  Whenever elections have been held pursuant to the  provisions  of  article  61,  the  National  Assembly  shall
 
@@ -1629,11 +1250,10 @@ LAWS OF GUYANA
 
 Assembly. | hold its first meeting at the time appointed under article 69(1), and any reference in this Constitution to the National Assembly meeting for the first time after any election shall be read and construed as a reference to such first meeting.
 --- | ---
-Speaker and Deputy Speaker. | 56. (1) When the National Assembly first meets after any election and before it proceeds to the despatch of any other business, it shall elect a person to be the Speaker of the Assembly; and if the office of Speaker falls vacant at any time before the next dissolution of Parliament, the Assembly shall, as soon as practicable, elect another person to that office.
-(2) The Speaker may be elected either from among the members of the Assembly who are not Ministers or Parliamentary Secretaries or from among persons who are not members of the Assembly but are qualified for election as members.
-(3) When the National Assembly first meets after any election and before it proceeds to the despatch of any other business except the election of the Speaker, the Assembly shall elect a member of the Assembly who is not a Minister or a Parliamentary Secretary to be Deputy Speaker of the Assembly; and if the office of Deputy Speaker falls vacant at any time before the next dissolution of Parliament, the Assembly shall, as soon as convenient, elect another such member to that office.
+Speaker and Deputy Speaker. | 56 . (1) When the National Assembly first meets after any election and before it proceeds to the despatch of any other business, it shall elect a person to be the Speaker of the Assembly; and if the office of Speaker falls vacant at any time before the next dissolution of Parliament, the Assembly shall, as soon as practicable, elect another person to that office. (2) The Speaker may be elected either from among the members of the Assembly who are not Ministers or Parliamentary Secretaries or from among persons who are not members of the Assembly but are qualified for election as members. (3) When the National Assembly first meets after any election and before it proceeds to the despatch any other business except the election of the Speaker, Assembly shall elect a member of the Assembly who is a Minister or a Parliamentary Secretary to be Speaker of the Assembly; and if the office of Speaker falls vacant at any time before the dissolution of Parliament, the Assembly shall, as soon convenient, elect another such member to that office.
+of the not Deputy Deputy next as
 (4) A person shall vacate the office of Speaker or Deputy Speaker if required to do so by article 157 (which relates to loss of qualification for election as a member of the National Assembly and other matters).
-Clerk and Deputy Clerk. | 57. (1) There shall be a Clerk and a Deputy Clerk of the National Assembly, and appointments to those offices
+Clerk and Deputy Clerk. | 57 . (1) There shall be a Clerk and a Deputy Clerk of the National Assembly, and appointments to those offices
 
 L.R.O. 1/2012
 
@@ -1659,19 +1279,19 @@ Time   for elections under article 60(2).
 
 shall be made by the President acting in accordance with the advice of the Speaker.
 
-- (2) The tenure of office and terms of service of the Clerk and Deputy Clerk and other matters relating thereto shall be regulated by article 158.
+- The  tenure  of  office  and  terms  of  service  of the  Clerk  and  Deputy  Clerk  and  other  matters  relating thereto shall be regulated by article 158.
 
-- 58. (1) Any person who sits or votes in the National Assembly, knowing or having reasonable ground for knowing that he or she is not entitled to do so, shall be liable to a penalty of fifty dollars for each day upon which he or she so sits or votes.
+- 58 .  (1)Any person who sits or votes in the National Assembly,  knowing  or  having  reasonable  ground  for knowing that  he  or  she  is  not  entitled  to  do  so,  shall  be liable to a penalty of fifty dollars for each day upon which he or she so sits or votes.
 
-- (2) Any such penalty shall be recoverable by civil action in the High Court at the suit of the Attorney General.
+- Any  such  penalty  shall  be  recoverable  by civil  action in  the  High  Court  at  the  suit  of  the  Attorney General.
 
 #### ELECTIONS
 
-- 59. Subject to the provisions of article 159, every person may vote at an election if he or she is of the age of eighteen years or upwards and is either a citizen of Guyana or a Commonwealth citizen domiciled and resident in Guyana.
+- 59 .  Subject  to  the  provisions  of  article  159,  every person may vote at an election if he or she is of the  age eighteen  years  or  upwards  and  is  either  a  citizen  of Guyana or a Commonwealth  citizen domiciled and resident in Guyana.
 
-- 60. (1) Election of members of the National Assembly shall be by secret ballot.
+- 60 . (1) Election of members of the National Assembly shall be by secret ballot.
 
-- (2) Subject to the provisions of article 160(2), such number of members of the National Assembly as determined by the Assembly, shall be elected in accordance with the system of proportional representation prescribed by article 160(1).
+- Subject  to  the  provisions  of  article  160(2), such  number  of  members  of  the  National  Assembly  as determined by the Assembly, shall be elected in accordance with the system of proportional representation prescribed by article 160(1).
 
 - 61 .  An election of members of the National Assembly under  article  60  (2)  shall  be  held  on  such  day within three months after every dissolution of Parliament as the President shall appoint by proclamation:
 
@@ -1695,7 +1315,7 @@ Filling of casual vacancies.
 
 Determination of questions as to membership and   elections.
 
-Provided that no balloting commenced during the period of three months aforesaid, performed before the day so appointed and pursuant to which the votes of any persons registered as electors are cast at the election, shall be deemed contrary to the requirements of this article by reason only that such balloting has been so performed.
+Provided  that  no  balloting  commenced  during  the period  of  three  months  aforesaid,  performed  before  the day so appointed and pursuant to which the votes of any person registered as electors are cast at the election, shall be deemed contrary to the requirements of this article by reason only that such balloting has been so performed.
 
 62 .  Elections shall be independently supervised by the Election Commission in accordance with the provisions of article 162.
 
@@ -1705,8 +1325,9 @@ Provided that no balloting commenced during the period of three months aforesaid
 
 #### POWERS AND PROCEDURE OF PARLIAMENT
 
-Legislative power. [1 of 1988] | 65. (1) Subject to the provisions of this Constitution, Parliament may make laws for the peace, order and good government of Guyana.
-(2) The validity of any law made under this Constitution with effect from a date earlier than the day on which this Constitution commenced shall not be called in question in any court or tribunal on the ground that it contravenes, or is inconsistent with, any provision of any constitution which was in force in Guyana at any time before the day on which this Constitution commenced.
+Legislative power. [1 of 1988] | 65 . (1) Subject to the provisions of this Constitution, Parliament may make laws for the peace, order and good government of Guyana. (2) The validity of any law made under Constitution with effect from a date earlier than the on which this Constitution commenced shall not be in question in any court or tribunal on the ground that contravenes, or is inconsistent with, any provision of
+--- | ---
+this day called it any constitution which was in force in Guyana at any time before the day on which this Constitution commenced.
 Alteration of this Constitu- | 66. Subject to the special procedure set out in article 164, Parliament may alter this Constitution.
 
 L.R.O. 1/2012
@@ -1743,11 +1364,11 @@ Prorogation and dissolution of Parliament.
 
 - Subject  to  the  provisions  of  the  preceding paragraph, the sittings of the National Assembly shall be held at such time and place as the Assembly may, by its rules of procedure or otherwise, determine.
 
-70. (1) The President may at any time by proclamation prorogue Parliament.
+(1) The President may at any time by proclamation prorogue Parliament.
 
-- (2) The President may at any time by proclamation dissolve Parliament.
+- The President may at any time by proclamation dissolve Parliament.
 
-(3) Parliament, unless sooner dissolved, shall continue for five years from the date when the Assembly
+(3)    Parliament,  unless  sooner  dissolved,  shall continue for five years from the date when the Assembly Local Government. [4  of  2001]
 
 L.R.O. 1/2012
 
@@ -1773,11 +1394,9 @@ Provided  that  the  life  of  Parliament  shall  not  be extended under this pa
 
 #### LOCAL DEMOCRATIC ORGANS
 
-Local Government. [4 of 2001]
+71. (1) Local Government  is a vital aspect of democracy  and  shall  be  organised  so  as  to  involve  as many  people  as  possible  in  the  task  of  managing  and developing the communities in which they live.
 
-71. (1) Local Government is a vital aspect of democracy and shall be organised so as to involve as many people as possible in the task of managing and developing the communities in which they live.
-
-(2) For this purpose Parliament shall provide for the institution of a country-wide system of local government through the establishment of organs of local democratic power as an integral part of the political
+(2) For this purpose Parliament shall provide for the institution of a country-wide system of local government through the establishment of organs of local democratic  power  as  an  integral  part  of  the  political Local Government areas. [4 of 2001]
 
 L.R.O. 1/2012
 
@@ -1791,18 +1410,15 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 51
 
-organisation of the State.
+Election of members of regional councils.
 
-Local Government areas.
-[4 of 2001]
+organisation of the State.
 
 72. (1) Parliament may provide for the division of Guyana (save for any areas excluded by it) into ten regions and into such sub-regions and other subdivisions as it may deem fit for the purpose of organising local democratic organs.
 
 (2) In defining the boundaries of any areas into which Guyana may be divided under paragraph (1) account shall be taken of the population, the physical size, the geographical characteristics, the economic resources and the existing and planned infrastructure of each area, as well as the possibilities of facilitating the most rational management and use of such resources and infrastructure, with a view to ensuring that the area is or has the potential for becoming economically viable.
 
 (3) Municipalities, neighbourhood democratic councils and such other subdivisions shall be provided for under paragraph (1), including village and community councils, where there is the need for such councils and where the people request their establishment, shall be vital organs of local democratic power.
-
-Election of members of regional councils.
 
 73. (1) Members of a regional democratic council shall be elected by persons residing in the region and registered as electors for the purpose of article 159:
 
@@ -2012,19 +1628,19 @@ Cap. 1:01
 
 57
 
-Discharge   of functions of President during absence, illness, etc.
+(3) An assumption of the office of President under this article shall terminate, if it has not previously terminated, when a person who has been elected to the office in accordance with the provisions of article 177 assumes the office.
 
-(3)    An  assumption  of  the  office  of  President under this article shall terminate, if it has not previously terminated,  when  a  person  who  has  been  elected  to  the office  in  accordance  with  the  provisions  of  article  177 assumes the office.
+Discharge of functions of President during absence, illness, etc.
 
-96 . (1) Whenever  the  President  is  absent  from Guyana  or  considers  it  desirable  so  to  do  by  reason  of illness  or  any  other  cause  he  or  she  may,  by  direction  in writing  authorise  any  member  of  the  Cabinet,  being  an elected  member  of  the  National  Assembly,  to  perform such of the functions of the office of President as he or she may specify  and  the  person  so  authorised  shall  perform those functions until his or her authority is revoked by the President  or  until  the  functions  are  resumed  by  the President.
+96. (1) Whenever the President is absent from Guyana or considers it desirable so to do by reason of illness or any other cause he or she may, by direction in writing authorise any member of the Cabinet, being an elected member of the National Assembly, to perform such of the functions of the office of President as he or she may specify and the person so authorised shall perform those functions until his or her authority is revoked by the President or until the functions are resumed by the President.
 
-(2)  If  the  President  is  incapable  by  reason  of physical or mental infirmity of  discharging the functions of  his  or  her  office  and  the  infirmity  is  of  such  a  nature that  the  President  is  unable  to  authorise  another  person under this article to perform those functions -
+(2) If the President is incapable by reason of physical or mental infirmity of discharging the functions of his or her office and the infirmity is of such a nature that the President is unable to authorise another person under this article to perform those functions –
 
-(a)     the Prime Minister; or
+(a) the Prime Minister; or
 
-(b)     during any period when there is no Prime Minister or the Prime Minister  is  absent  from  Guyana  or is,  by  reason  of  physical  or  mental infirmity, unable to perform the functions  of  his  or  her  office,  such other Minister, being an elected member  of  the  National  Assembly, as the Cabinet shall elect; or
+(b) during any period when there is no Prime Minister or the Prime Minister is absent from Guyana or is, by reason of physical or mental infirmity, unable to perform the functions of his or her office, such other Minister, being an elected member of the National Assembly, as the Cabinet shall elect; or
 
-(c)     if there is no Prime Minister and no Cabinet, the Chancellor,
+(c) if there is no Prime Minister and no Cabinet, the Chancellor,
 
 L.R.O. 1/2012
 
@@ -2189,7 +1805,7 @@ Tenure of office of Ministers.
 
 108. The office of a Minister shall become vacant in the circumstances set out in article 183.
 
-Minister's absence or illness.
+Minister’s absence or illness.
 
 109. Whenever any Minister is absent from Guyana or is unable by reason of illness to perform his or her functions as Minister, the President may authorise some other Minister to perform those functions and that Minister may perform those functions until they are resumed by the first mentioned Minister or are assigned to another Minister pursuant to the provisions of article 107.
 
@@ -2200,7 +1816,7 @@ Leader of the Opposition.
 
 (2) Qualifications for election to the office of Leader of the Opposition and other matters connected therewith are regulated by article 184.
 
-Exercise of President's powers.
+Exercise of President’s powers.
 
 111. (1) In the exercise of his or her functions under this Constitution or any other law, the President shall act in accordance with his or her own deliberate judgment except in cases where, by this Constitution or by any other law, he or she is required to act in accordance with the advice or on the recommendation of any person or authority.
 
@@ -2268,7 +1884,7 @@ Secretary to the Cabinet.
 
 117. (1) There shall be a Secretary to the Cabinet whose office shall be a public office.
 
-(2) The Secretary to the Cabinet, who shall have charge of the Cabinet office, shall be responsible in accordance with such instructions as may be given him or her by the President, for arranging the business for, and keeping the minutes of, the Cabinet and for conveying the decisions of the Cabinet to the appropriate person or authority and shall have such other functions as the President may direct.
+(2) The Secretary to the Cabinet, who shall have charge of the Cabinet office, shall be responsible in accordance with such instructions as may be given him or her or her by the President, for arranging the business for, and keeping the minutes of, the Cabinet and for conveying the decisions of the Cabinet to the appropriate person or authority and shall have such other functions as the President may direct.
 
 Sub-committees of Cabinet.
 [6 of 2001]
@@ -2434,7 +2050,7 @@ Interpretation.
 Appointment of Chancellor and Chief Justice.
 [6 of 2001]
 
-127. (1) The Chancellor and the Chief Justice shall each be appointed by the President, acting after obtaining the agreement of the Leader of the Opposition
+127. (1) The Chancellor and the Chief Justice shall each be appointed by the President, acting after obtaining the agreement of the Leader of the Opposition.
 
 (2) If the office of Chancellor or Chief Justice is vacant or if the person holding the office of Chancellor is performing the functions of the office of President or is for any other reason unable to perform the functions of his or her office, or if the person holding the office of Chief Justice is for any reason unable to perform the functions of his or her office, then, until a person has been appointed to and has assumed the functions of such office or until the person holding such office has resumed those functions, as the case may be, those functions shall be performed by such other of the Judges as shall be
 
@@ -2585,26 +2201,25 @@ Cap. 1:01
 
 73
 
+Protection of right to life. [10 of 2003]
+
 ## PART 2 SPECIFIC RULES
 
 ### TITLE 1 PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
 
-Protection of right to life.
-[10 of 2003]
-
 138. (1) No person shall be deprived of his or her life intentionally save in execution of the sentence of a court in respect of an offence under the laws of Guyana of which he or she has been convicted.
 
-(1A) No person who was under the age of eighteen years at the time when he or she committed an offence, for which that person has pleaded or was found guilty, shall be subject to capital punishment for the commission of that offence.
+(1A)  No  person  who  was  under  the  age  of eighteen years at the time when he or she committed an offence, for which that person has pleaded or was found guilty,  shall  be  subject  to  capital  punishment  for  the commission of that offence.
 
 (2) Without prejudice to any liability for a contravention of any other law with respect to the use of force in such cases as are hereinafter mentioned, a person shall not be regarded as having been deprived of his or her life in contravention of this article if he or she dies as the result of the use of force to such extent as is reasonably justifiable in the circumstances of the case –
 
-(a) for the defence of any person from violence or for the defence of property;
+(a) for  the  defence  of  any  person  from violence or for the defence of property;
 
-(b) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;
+(b)       in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;
 
-(c) for the purpose of suppressing a riot, insurrection or mutiny; or
+(c) for  the  purpose  of  suppressing  a riot, insurrection or mutiny; or
 
-(d) in order to prevent the commission
+(d)      in order to prevent the commission
 
 L.R.O. 1/2012
 
@@ -2683,7 +2298,7 @@ with  a  view  to  the  making  of  any such  order  or  relating  to  such  an 
 
 (b)       The  references  in  subparagraph  (a) to a period of three months include references to any lesser periods that amount in the aggregate to three months:
 
-Provided that no two such lesser periods shall be aggregated for this
+Provided  that  no  two  such  lesser periods shall be aggregated for this purpose  if  the  period  between  the expiration of the first and the commencement  of  the second is more than one month.
 
 L.R.O. 1/2012
 
@@ -2699,9 +2314,7 @@ Cap. 1:01
 
 77
 
-purpose if the period between the expiration of the first and the commencement of the second is more than one month.
-
-(c) A person who has been detained by virtue of the provisions of any law providing for preventive detention and who has been released from detention in consequence of a report of a tribunal established for the purposes of this paragraph that there is, in its opinion, insufficient cause for his or her detention shall not be again detained by virtue of such provisions within the period of six months from his or her release on the same grounds as he or she was originally detained.
+(c)      A person who has been detained by virtue  of  the  provisions  of  any  law providing  for  preventive  detention and  who  has  been  released  from detention in consequence of a report of a tribunal established for the purposes of this paragraph that there  is,  in  its  opinion,  insufficient cause  for  his  or  her  detention  shall not  be  again  detained  by  virtue  of such provisions within the period of six  months  from  his  or  her  release on  the  same  grounds  as  he  or  she was originally detained.
 
 (d)      For    the  purposes  of  subparagraph (c)    a  person  shall  be    deemed  to have  been  detained  on  the  same grounds as he or she was originally detained unless a tribunal established as aforesaid has reported  that,  in  its  opinion,  there appear, prima facie, to be  new  and reasonable grounds for the detention    (but  the  giving    of    any such report shall be without prejudice to the provisions of subparagraph    (a) ).
 
@@ -3173,7 +2786,7 @@ Protection of freedom of assembly, association and demonstration.
 
 (2)  Except  with  his  or  her  own  consent  no person  shall  be  hindered  in  the  enjoyment  of  his  or  her freedom to strike.
 
-(3) Neither an employer nor a trade union shall be deprived of the right to enter into collective arguments.
+(3) Neither an employer nor a trade union shall be deprived of the right to enter into collective agreements.
 
 (4)  Nothing  contained  in  or  done  under  the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question makes provision -
 
@@ -3334,11 +2947,13 @@ in question makes provision –
 
 (7) Paragraph (1)(b) shall not affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
-Right to work [10 of 2003]
+Right to work
+[10 of 2003]
 
 149A. No person shall be hindered in the enjoyment of his or her right to work, that is to say, the right to free choice of employment.
 
-Right to pension and gratuity. [10 of 2003]
+Right to pension and gratuity.
+[10 of 2003]
 
 149B. Every public sector worker shall enjoy an absolute and enforceable right to any pension or gratuity granted to him or her under the provision of any law or collective agreement of any kind whatsoever.
 
@@ -3358,11 +2973,13 @@ LAWS OF GUYANA
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-in decision-making processes of the State. [10 of 2003]
+in decision-making processes of the State.
+[10 of 2003]
 
 or socio-economic organisations of a national character, in the management and decision-making processes of the State.
 
-Equality of persons before the law. [10 of 2003]
+Equality of persons before the law.
+[10 of 2003]
 
 149D.(1) The State shall not deny to any person equality before the law or equal protection and benefit of the law.
 
@@ -3370,13 +2987,15 @@ Equality of persons before the law. [10 of 2003]
 
 (3) Equality includes the full and equal enjoyment of all rights and freedoms guaranteed by or under this Constitution or any other law.
 
-Equality of status [10 of 2003]
+Equality of status
+[10 of 2003]
 
 149E.(1) All persons, whether born in or out of wedlock, and whether born prior to the enactment of this article or not, are born equal, have equal status and are entitled to equal rights.
 
 (2) Nothing contained in paragraph (1) shall be taken to affect vested rights.
 
-Equality for women. [10 of 2003]
+Equality for women.
+[10 of 2003]
 
 149F. (1) Every woman is entitled to equal rights and status with men in all spheres of political, economic and social life. All forms of discrimination against women on the basis of gender or sex are illegal.
 
@@ -3396,11 +3015,13 @@ Cap. 1:01
 
 103
 
-Indigenous peoples' right. [10 of 2003]
+Indigenous peoples' right.
+[10 of 2003]
 
 149G. Indigenous peoples shall have the right to the protection, preservation and promulgation of their languages, cultural heritage and way of life.
 
-Right to free education. [10 of 2003]
+Right to free education.
+[10 of 2003]
 
 149H. (1) Every child is entitled to free primary and secondary education in schools owned or funded by the State.
 
@@ -3408,11 +3029,13 @@ Right to free education. [10 of 2003]
 
 (3) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of paragraph (1) to the extent that the law in question makes provision for standards or qualifications, not being standards or qualifications which are discriminatory within the meaning of article 149(2), to be required for admission to a specific school.
 
-Right to establish private schools. [10 of 2003]
+Right to establish private schools.
+[10 of 2003]
 
 149I. No person shall be hindered in the enjoyment of the right to establish a private school which shall be under regulation by the State.
 
-The environment. [10 of 2003]
+The environment.
+[10 of 2003]
 
 149J. (1) Everyone has the right to an environment that is not harmful to his or her health or well-being.
 
@@ -3438,19 +3061,19 @@ LAWS OF GUYANA
 
 promoting justifiable economic and social development.
 
-(3) It shall not be an infringement of a person's rights under paragraph (1) if, by reason only of an allergic condition or other peculiarity, the environment is harmful to that person's health or well-being.
+(3) It shall not be an infringement of a person’s rights under paragraph (1) if, by reason only of an allergic condition or other peculiarity, the environment is harmful to that person’s health or well-being.
 
 Provisions for time of war or emergency.
 
-150. (1) This article applies to any period when -
+150. (1) This article applies to any period when –
 
-(a)     Guyana is at war; or
+(a) Guyana is at war; or
 
 (b) there is in force a proclamation (in this article referred to as a “proclamation of emergency”) made by the President declaring that a state of public emergency exists for the purposes of this article; or
 
-(c) there  is  in  force  a  resolution  of  the National Assembly, in favour of which  there  were  cast  the  votes  of not fewer than two-thirds of all the elected members, declaring that democratic  institutions  in  Guyana are threatened by subversion.
+(c) there is in force a resolution of the National Assembly, in favour of which there were cast the votes of not fewer than two-thirds of all the elected members, declaring that democratic institutions in Guyana are threatened by subversion.
 
-(2)  Nothing  contained  in  or  done  under  the authority of any law shall be held to be inconsistent with or  in  contravention  of  article  139,  140(2)  or  143,  any provision of article 144  other than paragraph (4) thereof, or  any  provision    of  articles  145  to  149  (inclusive)  to  the extent  that  the  law  in  question  makes  in  relation  to  any period to which this article applies provision, or authorises the doing during any such period  of anything, which is reasonably justifiable in the circumstances of any situation  arising  or  existing  during  that  period  for  the purpose of dealing with that situation.
+(2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of article 139, 140(2) or 143, any provision of article 144 other than paragraph (4) thereof, or any provision of articles 145 to 149 (inclusive) to the extent that the law in question makes in relation to any period to which this article applies provision, or authorises the doing during any such period of anything, which is reasonably justifiable in the circumstances of any situation arising or existing during that period for the purpose of dealing with that situation.
 
 L.R.O. 1/2012
 
@@ -3486,9 +3109,9 @@ its continuance in force for a further period, not exceeding six months, beginni
 
 Reference to tribunal in certain cases.
 
-151.(1) Where any person is lawfully detained by virtue of such a provision as is referred to in article 150(2), or the movement or residence within Guyana of any person or any person's right to leave Guyana is (otherwise than by order of a court) lawfully restricted by virtue of such a provision as aforesaid, his or her case shall be reviewed by a tribunal established for the purposes of this article not later than three months from the commencement of the detention or restriction and thereafter not later than six months from the date on which his or her case was last reviewed as aforesaid.
+151.(1) Where any person is lawfully detained by virtue of such a provision as is referred to in article 150(2), or the movement or residence within Guyana of any person or any person’s right to leave Guyana is (otherwise than by order of a court) lawfully restricted by virtue of such a provision as aforesaid, his or her case shall be reviewed by a tribunal established for the purposes of this article not later than three months from the commencement of the detention or restriction and thereafter not later than six months from the date on which his or her case was last reviewed as aforesaid.
 
-(2) On any review by a tribunal in pursuance of the  preceding  paragraph  of  the  case  of  any  person  the tribunal may  make  recommendations  concerning  the necessity  or  expedience  of  continuing  the  detention  or restriction  to  the  authority  by  whom  it  was  ordered  but, unless it is otherwise provided by law, that authority shall not be obliged to act in  accordance with  any such recommendation.
+(2) On any review by a tribunal in pursuance of the preceding paragraph of the case of any person the tribunal may make recommendations concerning the necessity or expedience of continuing the detention or restriction to the authority by whom it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendation.
 
 L.R.O. 1/2012
 
@@ -3534,7 +3157,8 @@ paragraph the reference to altering an existing law includes references to repea
 
 (4) In relation to any person who is a member of a disciplined force raised otherwise than as aforesaid and lawfully present in Guyana, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Title.
 
-Enforcement of protective provisions [6 of 2001]
+Enforcement of protective provisions
+[6 of 2001]
 
 153. (1) Subject to the provisions of paragraph (6), if any person, including a person acting on behalf of another who is not acting in his or her own name, or a person acting on behalf of a group or an association acting on behalf of its members, alleges that any of the provisions of articles 138 to 151 (inclusive) has been, is being, or is likely to be contravened in relation to him or her (or in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person) then, without prejudice to any other action with respect to the same matter which is lawfully available, that person or association (or that other person) may apply to the High Court for redress.
 
@@ -3626,10 +3250,10 @@ Cap. 1:01
 
 “national service” means service in any disciplined force a principal purpose of which is the training of people with a view to advancing the economic development of Guyana.
 
-### TITLE 1A PROTECTION OF HUMAN RIGHTS
+### TITLE 1 A PROTECTION OF HUMAN RIGHTS
 
-Human rights of the individual. [10 of 2003]
-
+Human rights of the individual.
+[10 of 2003]
 Fourth Schedule
 
 154A.(1) Subject to paragraphs (3) and (6), every person, as contemplated by the respective international treaties set out in the Fourth Schedule to which Guyana has acceded is entitled to the human rights enshrined in the said international treaties, and such rights shall be respected and
@@ -3654,17 +3278,18 @@ upheld by the executive, legislature, judiciary and all organs and agencies of G
 
 (3) The State shall, having regard to the socio-cultural level of development of the society, take reasonable legislative and other measures within its available resources to achieve the progressive realisation of the rights provided for in paragraph (1).
 
-(4)  If  any  person  alleges  that  any  of  the  rights referred to in paragraph (1), has been, is being or is about to be contravened in relation to him or her, then, without prejudice  to  any  other  action  with  respect  to  the  same matter which is lawfully available, that person may apply to the Human Rights Commission in such manner as the Commission may prescribe, for redress.
+(4) If any person alleges that any of the rights referred to in paragraph (1), has been, is being or is about to be contravened in relation to him or her, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply to the Human Rights Commission in such manner as the Commission may prescribe, for redress.
 
-(5)  Nothing  contained  in  this  article  shall  be construed so as to abrogate any human  right, not enumerated herein, which a person had at the time of the commencement of this Article.
+(5) Nothing contained in this article shall be construed so as to abrogate any human right, not enumerated herein, which a person had at the time of the commencement of this Article.
 
-(6) The State may divest itself or otherwise limit the extent of its obligation under any of the treaties listed in  the  Fourth  Schedule,  provided  that  two-thirds  of  the elected members of the National Assembly have voted in favour of such divestment or limitation.
+(6) The State may divest itself or otherwise limit the extent of its obligation under any of the treaties listed in the Fourth Schedule, provided that two-thirds of the elected members of the National Assembly have voted in favour of such divestment or limitation.
 
 ### TITLE 2 PARLIAMENT
 
-Disqualifications for election as members. [14 of 2000]
+Disqualifications for election as members.
+[14 of 2000]
 
-155. (1) No person shall be qualified for election as a member of the National Assembly who -
+155. (1) No person shall be qualified for election as a member of the National Assembly who –
 
 L.R.O. 1/2012
 
@@ -3752,9 +3377,11 @@ and
 
 (8) In paragraph (6) (b) “Government contract” means any contract made with the Government of Guyana or with a department of that Government or with an officer of that Government contracting as such.
 
-Tenure of seats of members of the National Assembly. [14 of 2000 22 of 2007]
+Tenure of seats of members of the National Assembly.
+[14 of 2000
+22 of 2007]
 
-156. (1) A member of the National Assembly shall vacate his or her seat therein -
+156. (1) A member of the National Assembly shall vacate his or her seat therein –
 
 (a) if  he  or  she  resigns  it  by  writing under his or her hand addressed to the  Speaker  or,  if  the  office  of  the Speaker  is  vacant  or  the  Speaker  is absent from Guyana, to the Deputy Speaker:
 
@@ -3798,7 +3425,7 @@ LAWS OF GUYANA
 
 forthwith  cease  to  perform  his  or her  functions  as  a  member  of  the Assembly  but,  subject  to  the  next following  subparagraph,  he  or  she shall not vacate his or her seat until the  expiration  of  a  period  of  thirty days thereafter:
 
-Provided  that  the  Speaker  may,  at the  request  of  the  member,  from time  to  time  extend  that  period  for further periods  of  thirty  days  to enable the member to pursue appeal against  the  decision,  so  however, that extensions of time in the aggregate  one  hundred  and  fifty days shall not be given without the approval  of  the  Assembly  signified by resolution.
+Provided that the Speaker may, at the request of the member, from time to time extend that period for further periods of thirty days to enable the member to pursue appeal against the decision, so however, that extensions of time in the aggregate exceeding one hundred and fifty days shall not be given without the approval of the Assembly signified by resolution.
 
 (b) If, on the determination of any appeal, such circumstances continue to  exist  and  no  further  appeal  is open to the member of the Assembly,  or  if,  by  reason  of  the expiration of any period for entering an  appeal  or  notice  thereof  or  the refusal  of  leave  or  for  any  other reason,  it  ceases  to  be  open  to  the member  to  appeal,  he  or  she  shall forthwith vacate his or her seat.
 
@@ -3844,9 +3471,7 @@ in paragraph 3(a) or (b);
 
 (b)     the Representative of the List issues a notice  of  recall  as  provided  for  in paragraph 3(c).
 
-Speaker and Deputy Speaker. [14 of 2000]
-
-157. A person shall vacate the office of Speaker or Deputy Speaker whenever the Assembly first meets after a dissolution of Parliament and also -
+Speaker and Deputy Speaker. [14 of 2000] 157 .  A  person  shall  vacate  the  office  of  Speaker  or Deputy Speaker whenever the Assembly first meets after a dissolution of Parliament and also -
 
 (a)       in the case of a Speaker elected from among the members of the Assembly or in the case of the Deputy Speaker -
 
@@ -3924,11 +3549,12 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 (7) The functions conferred by this article on the Speaker shall, if there is no person holding the office of Speaker or if the Speaker is absent from Guyana or is otherwise unable to perform those functions, be performed by the Deputy Speaker.
 
-Qualifications and disqualifications for electors. [3 of 2001]
+Qualifications and disqualifications for electors.
+[3 of 2001]
 
 159. (1) No person shall vote at an election unless he or she is registered as an elector.
 
-(2)    Subject  to  the  provisions  of  paragraphs  (3) and (4), a person shall be qualified to be registered as an elector for elections if, and shall not be so qualified unless,
+(2) Subject to the provisions of paragraphs (3) and (4), a person shall be qualified to be registered as an elector for elections if, and shall not be so qualified unless,
 
 L.R.O. 1/2012
 
@@ -3970,15 +3596,16 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 of electors shall be compiled or revised.
 
-Electoral System. [14 of 2000]
+Electoral System.
+[14 of 2000]
 
-160. (1) Subject to the provisions of the next following paragraph the system of proportional representation referred to in article 60(2) for the election of such number of members of the National Assembly as shall be determined by the Assembly, shall be as follows -
+160. (1) Subject to the provisions of the next following paragraph the system of proportional representation referred to in article 60(2) for the election of such number of members of the National Assembly as shall be determined by the Assembly, shall be as follows –
 
 (a) votes shall be cast throughout Guyana in favour of lists of candidates;
 
-(b) each elector shall have one vote and may  cast  it  in  favour  of  any  of  the lists; and
+(b) each elector shall have one vote and may cast it in favour of any of the lists; and
 
-(c) the seats of the said elected members in the Assembly, as determined  under  this  paragraph, shall  be  allocated  between  the  lists in such a manner that the proportion that the  number of such seats  allocated  to  each  list  bears  to the number of votes cast in favour of that  list  is  as  nearly  as  may  be  the same for  each  list,  thus  minimizing the level of disproportionality between  the  percentages  of  votes earned  by  lists  and  the  percentages of seats allocated to lists in the cases of individual geographical constituencies,  if  they  exist,  and  of the Assembly taken as a whole.
+(c) the seats of the said elected members in the Assembly, as determined under this paragraph, shall be allocated between the lists in such a manner that the proportion that the number of such seats allocated to each list bears to the number of votes cast in favour of that list is as nearly as may be the same for each list, thus minimizing the level of disproportionality between the percentages of votes earned by lists and the percentages of seats allocated to lists in the cases of individual geographical constituencies, if they exist, and of the Assembly taken as a whole.
 
 (2) Parliament may make provision for the division of Guyana into such number of geographical constituencies, not being more than half the number of the elected members of the Assembly as Parliament may
 
@@ -4050,9 +3677,9 @@ of the electorate;
 
 (ii) for the formulae to be used to translate votes for a contesting party into seats for that party in the National Assembly;
 
-(iii) for the minimum number or proportion of female candidates on a party’s list and in all party’s lists taken together;
+(iii) for the minimum number or proportion of female candidates on a party’s list and in all parties’ lists taken together;
 
-(iv) for the minimum number or proportion of female candidates on a party’s lists for geographical constituencies taken
+(iv) for the minimum number or proportion of female candidates on a party’s lists for geographical
 
 L.R.O. 1/2012
 
@@ -4066,7 +3693,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 LAWS OF GUYANA
 
-individually or together;
+constituencies taken individually or together;
 
 (v) for the maximum percentage or the number of geographical constituencies a party can contest in which its lists contain no female candidate.
 
@@ -4149,7 +3776,7 @@ member, as the case may be, of the Commission.
 Appointment of staff of Elections Commission; Secretariat of the Commission.
 [2 of 2000]
 
-161A. (1) The Elections Commission shall be responsible for the efficient functioning of the Secretariat of the Commission, which shall comprise the officers and employees of the Commission, and for the appointment of all the staff to the offices thereof inclusive of all temporary staff, recruited for the purposes of boundary demarcation, registration  of  persons  and  elections  and  shall  have  the power to remove and to exercise disciplinary control over such staff.
+161A. (1) The Elections Commission shall be responsible for the efficient functioning of the Secretariat of the Commission, which shall comprise the officers and employees of the Commission, and for the appointment of all the staff to the offices thereof inclusive of all temporary staff, recruited for the purposes of boundary demarcation, registration of persons and elections and shall have the power to remove and to exercise disciplinary control over such staff.
 
 (2) The Elections Commission may, by directions  in  writing  and  subject  to  such  conditions  as  it thinks fit, delegate any of its powers under paragraph (1) to  any  one  or  more  members  of  the  Commission,  or  by such directions and subject to such conditions as it thinks fit, delegate such powers to such officers of the Commission as the Commission may determine.
 
@@ -4183,9 +3810,9 @@ Functions of the Elections Commission.
 
 162. (1) The Elections Commission shall have such functions connected with or relating to the registration of electors or the conduct of elections as are conferred upon it by or under this Constitution or, subject thereto, any Act of Parliament; and, subject to the provisions of this Constitution, the Commission –
 
-(a) shall exercise general direction and supervision over the registration of electors and the administrative conduct of all elections of members of the National Assembly; and
+(a) shall  exercise  general  direction  and supervision over  the  registration of electors    and    the  administrative conduct of all elections of members of the National Assembly; and
 
-(b) shall issue such instructions and take such action as appear to it necessary or expedient to ensure impartiality, fairness and compliance with the provisions of this Constitution or of any Act of Parliament on the part of persons exercising powers or performing duties connected with or relating to the matters aforesaid.
+(b)      shall issue such instructions and take such  action as appear  to it necessary or expedient to ensure impartiality, fairness and compliance  with  the  provisions  of this  Constitution  or  of  any  Act  of Parliament  on  the  part  of  persons exercising  powers  or    performing duties connected with  or relating to the matters aforesaid.
 
 (2) Notwithstanding anything to the contrary in
 
@@ -4433,7 +4060,7 @@ thereon or any increase in the amount of such a payment, issue or withdrawal; or
 
 Privileges, etc., of members of the National Assembly.
 
-172. (1) Subject to the provisions of paragraphs (2), (3) and (4), Parliament may by law determine the privileges, immunities and powers of members of the National Assembly and the members thereof.
+172. (1) Subject to the provisions of paragraphs (2), (3) and (4), Parliament may by law determine the privileges, immunities and powers of the National Assembly and the members thereof.
 
 (2)  No  civil  or  criminal  proceedings  may  be instituted against any member of the Assembly for words spoken before, or written in a report to, the Assembly or to a committee thereof or by reason of any matter or thing brought by him or her therein by petition, bill, resolution, motion or otherwise.
 
@@ -4507,15 +4134,16 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 145
 
-Tenure of office of President. [14 of 2000]
-
 LAWS OF GUYANA
 
 President at an election held pursuant to the provisions of article 60(2),
 
 shall be conclusive evidence that the person so named was so elected and no question as to the validity of the election as the President of the person so named shall be enquired into in any court.
 
-178 .  (1)  The office of President shall become vacant if the person holding it -
+Tenure of office of President.
+[14 of 2000]
+
+178. (1) The office of President shall become vacant if the person holding it –
 
 (a)       dies; or
 
@@ -4525,7 +4153,7 @@ shall be conclusive evidence that the person so named was so elected and no ques
 
 (2) A person assuming the  office  of  President in  accordance  with  the  provisions  of  this  Constitution shall be disqualified for any other office,  employment  or appointment to which this paragraph applies and accordingly  on entering upon the duties of the office of President shall vacate any such other office, employment or appointment held by him or her.
 
-(3)  The  preceding    paragraph    applies  to  the offices  of Speaker, member, Clerk or Deputy Clerk of the National Assembly, and Judge  of the  Supreme  Court  of Judicature,  member    of  the  Elections  Commission,  the Judicial Service Commission, the Public Service Commission,  the  Teaching  Service  Commission  or  the Police Service Commission, any public office, employment in any armed force of Guyana and any paid appointment as a member or employee of a body Corporate established by law for public purposes.
+(3) The preceding paragraph applies to the offices of Speaker, member, Clerk or Deputy Clerk of the National Assembly, and Judge of the Supreme Court of Judicature, member of the Elections Commission, the Judicial Service Commission, the Public Service Commission, the Teaching Service Commission or the Police Service Commission, any public office, employment in any armed force of Guyana and any paid appointment as a member or employee of a body corporate established by law for public purposes.
 
 L.R.O. 1/2012
 
@@ -4535,13 +4163,13 @@ L.R.O. 1/2012
 
 146 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-Removal of President on grounds of incapacity.
-
 LAWS OF GUYANA
 
 (4)  During  any  period  when a Minister is performing the functions of the office of President under article  96  or  179  or  has  assumed  the  office  under  the proviso  to  article  95(1),  his  or  her  seat  in  the  National Assembly shall  be  regarded  as  vacant   and  may  be temporarily filled in accordance with any provision made under  article  160(3).  At  the  expiration  of  the  period  the person temporarily filling the seat shall vacate it and the seat shall thereupon be resumed by the Minister:
 
 Provided  that  the  person  so  vacating  the  seat shall be eligible for re-election under any provision made as aforesaid.
+
+Removal of President on grounds of incapacity.
 
 179. (1) If the members of the National Assembly whose names appeared as candidates on the same list as that of the President at the last election held pursuant to article 60(2) resolve, upon a motion supported by the votes of a majority of all of them, that the question of the physical or mental capacity of the President to discharge the functions of his or her office ought to be investigated and the Prime Minister so informs the Chancellor, the Chancellor shall appoint a board consisting of not less than three persons selected by him or her from among persons who are qualified as medical practitioners under the law of Guyana, and the board shall enquire into the matter and shall make a report to the Chancellor stating the opinion of the board whether or not the President is, by reason of any infirmity of body or mind, incapable of discharging the functions of his or her office.
 
@@ -4581,7 +4209,8 @@ LAWS OF GUYANA
 
 Constitution of the Co-operative Republic of Guyana
 
-Removal of President for violation of Constitution or gross misconduct. [17 of 2000]
+Removal of President for violation of Constitution or gross misconduct.
+[17 of 2000]
 
 180 . (1) If notice  in writing  is given to the Speaker of the National Assembly, signed by not less than one-half of  all  the  elected  members  of  the  Assembly,  of  a  motion alleging that the President has committed any violation of the  Constitution or any  gross misconduct and specifying the particulars of all the allegations and proposing that a tribunal be established under  this  article  to investigate those allegations, the Speaker shall -
 
@@ -4607,7 +4236,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 LAWS OF GUYANA
 
-other members selected by the Chancellor from among persons who  hold  or  have  held  office  as  a Judge  of  a  court  having  unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth  or  a  court  having jurisdiction on appeals from  any such court;
+other members selected by the Chancellor from among persons who hold or have held office as a Judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or a court having jurisdiction in appeals from any such court;
 
 (b) the    tribunal    shall    investigate  the matter  and  shall    report      to    the National Assembly    whether it    finds    the    particulars  of    the allegations  specified  in  the  motion to have been sustained;
 
@@ -4639,7 +4268,7 @@ Immunities of President.
 
 182. (1) Subject to the provisions of article 180, the holder of the office of President shall not be personally answerable to any court for the performance of the functions of his or her office or for any act done in the performance of those functions and no proceedings, whether criminal or civil, shall be instituted against him or her in his or her personal capacity in respect thereof either during his or her term of office or thereafter.
 
-(2) Whilst any person holds or performs the functions of the office of President no criminal proceedings shall be instituted or continued against him or her in respect of anything done or omitted to be done by him or her in his or her private capacity and no civil proceedings shall be instituted or continued in respect of which relief is claimed against him or her for anything done or omitted to be done by him or her in his or her private capacity.
+(2) Whilst any person holds or performs the functions of the office of President no criminal proceedings shall be instituted or continued against him or her in respect of anything done or omitted to be done by him or her in his or her private capacity and no civil proceedings shall be instituted or continued in respect of which relief is claimed against him or her for anything done or omitted to be done in his or her private capacity.
 
 (3) Where provision is made by law limiting the time within which proceedings of any description may be brought against any person, the period during which any person  holds  or  performs  the  functions  of  the  office  of President  shall  not  be  taken  into  account  in  calculating any period of time prescribed by that law for bringing any such  proceedings  as  are  mentioned  in  paragraph  (2)
 
@@ -4667,7 +4296,7 @@ Tenure of office of Ministers. [14 of 2000] 183 .  (1)  The    office  of  a  Mi
 
 (b) if he or she becomes disqualified for election as a member of the Assembly by virtue of article 155 or of  any  law  enacted  in  pursuance thereof.
 
-(2) The office of any other Minister shall become vacant if the holder of the office -
+- The office of any other Minister shall become vacant if the holder of the office -
 
 (a)        ceases    to      be      a    member    of    the Assembly for any cause other than a dissolution of Parliament;
 
@@ -4675,7 +4304,7 @@ Tenure of office of Ministers. [14 of 2000] 183 .  (1)  The    office  of  a  Mi
 
 (c) is,  by  virtue  of  article  156  (2)  or  (3) required  to  cease  to  perform  his  or her  functions  as  a  member  of  the Assembly.
 
-(3) The office of any Minister shall become
+- The  office  of  any  Minister  shall  become
 
 L.R.O. 1/2012
 
@@ -4687,17 +4316,17 @@ LAWS OF GUYANA
 
 152 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
+Leader  of  the Opposition. [ 2 of 2000 14 of 2000]
+
 vacant -
 
-(a) if he or she resigns it by writing under his or her hand addressed to the President;
+(a) if  he  or  she  resigns  it  by  writing under his or her hand addressed to the President;
 
 (b) if the President so directs; or
 
-(c) on the election of any person to the office of President pursuant to the provisions of article 177.
+(c) on the election of any person to the office  of  President  pursuant  to  the provisions of article 177.
 
-Leader of the Opposition. [2 of 2000 14 of 2000]
-
-184. (1) The Leader of the Opposition shall be elected by and from among the non-governmental members of the National Assembly at a meeting held under the chairmanship of the Speaker of the National Assembly, who shall not have the right to vote.
+184 .  (1)  The  Leader  of  the  Opposition  shall  be elected by and from among the non-governmental members  of  the  National  Assembly  at  a  meeting  held under  the  chairmanship  of  the  Speaker  of  the  National Assembly, who shall not have the right to vote.
 
 (2)  The  office  of  the  Leader  of  the  Opposition shall become vacant if -
 
@@ -4721,13 +4350,11 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 153
 
-(3) Where one-third of the non-governmental members of the Assembly represent to the Speaker that the Leader of the Opposition no longer enjoys their confidence, the speaker shall call a meeting of all the non-governmental members at which it shall be decided whether the Leader of the Opposition shall be removed from office; the removal shall be effected by the votes of a majority of all the non-governmental members.
+(3)  Where  one-third  of  the  non-governmental members  of  the  Assembly  represent  to  the  Speaker  that the  Leader  of  the  Opposition  no  longer  enjoys  their confidence, the speaker shall call a meeting of all the nongovernmental  members  at  which  it  shall  be  decided whether  the  Leader  of  the  Opposition  shall  be  removed from office; the removal shall be effected by the votes of a majority of all the non-governmental members.
 
 (4)  The election and removal from office of the leader of the Opposition shall be by a show of hands.
 
-Attorney General.
-
-185. (1) A person shall not be qualified to be appointed as Attorney General unless he or she holds such qualifications as may be prescribed by Parliament and is a citizen of Guyana.
+- Attorney General. 185 .(1)  A person shall not be qualified to be appointed  as  Attorney  General  unless  he  or  she  holds such    qualifications  as  may  be  prescribed  by  Parliament and is a citizen of Guyana.
 
 (2) If the Attorney General is an elected member of  the  National  Assembly  at  the  time  of  his  or  her appointment or subsequently becomes such a member, he or she shall be a Minister by virtue of holding the office of the Attorney General and the provisions of paragraphs (2) and  (3)  of  article  183  shall  apply  to  the  office  of  the Attorney General.
 
@@ -4735,7 +4362,7 @@ Attorney General.
 
 (4)  If  an  Attorney  General  appointed  to  be  a Minister under the preceding paragraph resigns his or her office as Attorney General he or she shall also vacate his or her office as a Minister.
 
-(5) If the Attorney General is not a Minister he or she shall vacate his or her office if he or she ceases to be
+(5) If the Attorney General is not a Minister he or she shall vacate his or her office if he or she ceases to be Parliamentary Secretaries.
 
 L.R.O. 1/2012
 
@@ -4749,25 +4376,23 @@ LAWS OF GUYANA
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
+Functions    of Director of Public Prosecutions.
+
 a citizen of Guyana or if his or her appointment is revoked by the President.
 
-(6) If the office of Attorney General is vacant or the holder of the office is for any reason unable to perform the functions thereof the President may appoint a person, being a person qualified under the paragraph (1), to act in the office, but the provisions of paragraphs (2) and (3) shall not apply to a person so appointed.
+(6) If the office of Attorney General is vacant or the holder of the office is for any reason unable to perform the functions thereof the President may appoint a person, being a person qualified under the paragraph (1), to act in the  office,  but  the  provisions  of  paragraphs  (2)  and  (3) shall not apply to a person so appointed.
 
 (7) An appointment under the preceding paragraph shall cease to have effect when it is revoked by the President.
 
-Parliamentary Secretaries.
-
-186. (1) Parliamentary Secretaries may be appointed from among persons who are elected members of the National Assembly or are qualified to be elected as such members.
+186 . (1) Parliamentary Secretaries may be appointed from  among  persons  who  are  elected  members  of  the National Assembly or are qualified to be elected as such members.
 
 (2) Paragraph (1) shall have effect in relation to any period between dissolution of Parliament and the day on which the next election of members of the Assembly is held as if Parliament had not been dissolved.
 
-(3) A Parliamentary Secretary who was not an elected member of the Assembly at the time of his or her appointment shall (unless he or she becomes such a member) be a member of the Assembly by virtue of holding the office of Parliamentary Secretary but shall not vote in the Assembly.
+(3)  A  Parliamentary  Secretary  who  was  not  an elected member of the Assembly at the time of his or her appointment  shall  (unless  he  or  she  becomes  such  a member)  be  a  member  of  the  Assembly  by  virtue  of holding the office of Parliamentary Secretary but shall not vote in the Assembly.
 
-(4) The provisions of article 183 shall apply to the office of a Parliamentary Secretary as they apply to the office of a Minister.
+(4)  The  provisions  of  article  183  shall  apply  to the office of a Parliamentary Secretary as they apply to the office of a Minister.
 
-Functions of Director of Public Prosecutions.
-
-187. (1) The Director of Public Prosecutions (referred to in this article as “the Director”) shall have power in any case in which he or she considers it desirable to do so -
+187 . (1) The Director of Public Prosecutions (referred to in this article as ,the Director') shall have power in any case in which he or she considers it desirable to do so -
 
 L.R.O. 1/2012
 
@@ -4781,7 +4406,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 155
 
-(a) to institute and undertake criminal proceedings against any person before any court, other than a court-martial, in respect of any offence against the law of Guyana.
+(a) to  institute  and  undertake  criminal proceedings against any person before any court, other than a courtmartial,  in  respect  of  any  offence against the law of Guyana.
 
 (b) to  take  over  and  continue  any such criminal proceedings that may have been instituted by any other person or authority; and
 
@@ -4807,21 +4432,15 @@ LAWS OF GUYANA
 
 (5)  For  the  purposes  of  this  article,  any  appeal from  any  determination in  any  criminal  proceedings before  any  court,  or  any  case  stated  or  question  of  law reserved for the purposes of any such proceedings, to any other court in Guyana shall be deemed to be part of those proceedings.
 
-Prerogative of Mercy.
-
-188. (1) The President may -
-
-(a) grant to any person concerned in or convicted of any offence under the law of Guyana, a pardon, either free or subject to lawful conditions;
-
-(b) grant to any person a respite, either indefinite, or for a specified period, of the execution of any punishment imposed on that person for such an offence.
-
+Prerogative of | 188 . (1) The President may -
+--- | ---
+Mercy. | (a) grant to any person concerned in or convicted of any offence under the law of Guyana, a pardon, either free or subject to lawful conditions; (b) grant to any person a respite, either
+indefinite, or for a specified period, of the execution of any punishment imposed on that person for such an offence.
 (c) substitute a less severe form of punishment for any punishment imposed on any person for such an offence; or
-
 (d) remit the whole or any part of any punishment imposed on any person for such an offence or of any penalty or forfeiture otherwise due to the State on account of such an offence.
-
 (2) Subject to the provisions of the next following paragraph, the powers of the President under the preceding paragraph shall be exercised by him or her after consultation with such Minister as may from time to time be designated by him or her.
 
-(3) In addition to the Minister designated
+- In addition to the Minister designated
 
 L.R.O. 1/2012
 
@@ -4835,11 +4454,11 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 157
 
-generally under the preceding paragraph, a second Minister may, in the manner prescribed in that paragraph, be specially designated in relation to persons convicted by courts-martial under the law of Guyana; and at any time when there is a second Minister so designated, the powers of the President under paragraph (1) shall, in relation to such persons, be exercised after consultation with that other Minister.
-
 Advisory Council on Prerogative of Mercy.
 
-189. (1) There shall be an Advisory Council on the Prerogative of Mercy, which shall consist of -
+generally under the preceding paragraph, a second Minister may, in the manner prescribed in that paragraph, be specially designated in relation to persons convicted by courts-martial under the law of Guyana; and at any time when there is a second Minister so designated, the powers of  the  President  under  paragraph  (1)  shall,  in  relation  to such  persons,  be  exercised  after  consultation  with  that other Minister.
+
+189 .  (1)  There  shall  be  an  Advisory  Council on  the Prerogative of Mercy, which shall consist of -
 
 (a) the    Minister  for  the  time  being designated  under  paragraph  (2)  of the  preceding  article,  who  shall  be Chairman;
 
@@ -4863,15 +4482,15 @@ LAWS OF GUYANA
 
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-Provided that his or her seat on the Council shall become vacant -
-
-(a) if he or she becomes a member of the Assembly or if, not having been a public officer at the time of his or her appointment, he or she becomes such an officer; or
-
-(b) if he or she is removed from office by the President for inability to discharge the functions of his or her office (whether arising from infirmity of mind or body or any other cause whatsoever) or for misbehaviour.
-
 Functions of the Advisory Council.
 
-190. (1) Where under the law of Guyana any person has been sentenced to death by any court other than a court-martial for any offence against that law, the Minister designated under article 188(2) shall cause a written report of the case from the trial judge, together with such other information derived from the record of the case or elsewhere as the Minister may require, to be taken into consideration at a meeting of the Advisory Council; and after obtaining the advice of the Council the Minister shall express his or her own deliberate opinion to the President as to whether he or she should exercise any of his or her powers under that article in relation to that person.
+Provided  that  his  or  her  seat  on  the  Council  shall become vacant -
+
+(a)       if he or she  becomes   a   member  of the Assembly or if, not having been a public officer at the time of his or her  appointment, he or she becomes such an officer; or
+
+(b) if  he  or  she  is  removed  from  office by the President for inability to discharge the functions of his or her office (whether arising from infirmity  of  mind  or  body  or  any other cause whatsoever) or for misbehaviour.
+
+190 . (1) Where under the law of Guyana any person has  been  sentenced  to  death  by  any  court  other  than  a court-martial for any offence against that law, the Minister designated under article 188(2) shall cause a written report of the case from the trial judge, together with such other information derived from  the record of the case or elsewhere  as  the  Minister  may  require,  to  be  taken  into consideration at  a  meeting  of  the  Advisory  Council; and after obtaining the advice of the Council the Minister shall express his or her own deliberate opinion to the President as to whether he or she should exercise any of his or her powers under that article in relation to that person.
 
 (2) The Minister designated under article 188(2) may consult the Advisory Council before expressing any opinion to the President under that provision in any case not  falling  within  the  preceding  paragraph,  but  shall  be not  obliged  to  act  in  accordance  with  the  advice  of  the Advisory Council.
 
@@ -4891,20 +4510,12 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 #### SUBTITLE 2 THE OMBUDSMAN
 
-Appointments, etc. of Ombudsman
-
-191. (1) The Ombudsman shall be appointed by the President acting after consultation with the Leader of the Opposition.
-
+Appoint- ments, etc. of Ombudsman | 191 . (1) The Ombudsman shall be appointed by the President acting after consultation with the Leader of the Opposition.
+--- | ---
 (2) The Ombudsman shall not perform the functions of any public office and shall not, without the approval of the President in each particular case, hold any other office of emolument, other than his or her office as Ombudsman, or engage in any occupation for reward outside the duties of his or her office.
-
 (3) Subject to the provisions of next following paragraph, a person holding the office of Ombudsman shall vacate that office at the expiration of four years from the date of his or her appointment.
-
 (4) The provisions of article 225 (which relate to removal from office) shall apply to the office of Ombudsman, and for the purposes of paragraphs (4) and (6) of that article the prescribed authority shall be the Prime Minister.
-
-Matters subject to investigation by the Ombudsman. [17 of 1984 14 of 2000]
-
-192. (1) Subject to the provisions of this article, the Ombudsman may investigate any action taken by any department of Government or by any other authority to which this article applies, or by the President, Ministers, officers or members of such a department or authority, being action taken in exercise of the administrative functions of that department or authority.
-
+Matters subject to investigation by the Ombudsman. [17 of 1984 14 of 2000] | 192 . (1) Subject to the provisions of this article, the Ombudsman may investigate any action taken by any department of Government or by any other authority to which this article applies, or by the President, Ministers, officers or members of such a department or authority, being action taken in exercise of the administrative functions of that department or authority.
 (2) The Ombudsman may investigate any such action as aforesaid in any of the following circumstances,
 
 L.R.O. 1/2012
@@ -4953,7 +4564,7 @@ Provided that the Ombudsman -
 
 (ii)      shall      not    in    any    case    be precluded from conducting an  investigation  in  respect  of any  matter by reason only that it is open to the complainant  to  apply  to  the High Court for redress under article 153(1) (which relates to redress  for  contraventions  of provisions for  the    protection of fundamental rights and freedoms).
 
-(4) In determining whether to initiate, continue or discontinue an investigation under this Subtitle the Ombudsman shall, subject to the foregoing provisions of this article, act in accordance with his or her individual judgment and in particular, and without prejudice to the generality of the foregoing, he or she
+- In determining    whether    to      initiate, continue or discontinue  an  investigation under  this Subtitle  the  Ombudsman  shall,  subject  to  the  foregoing provisions of this article, act in accordance with his or her individual judgment and in particular, and without prejudice  to  the    generality  of  the    foregoing,  he  or  she
 
 L.R.O. 1/2012
 
@@ -4995,21 +4606,11 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 163
 
-(7) For the purposes of paragraph (2) (a) a complaint may be made by a person aggrieved himself or herself or, if he or she is dead or for any reason unable to act for himself or herself, by any person duly authorised to represent him or her.
-
-(8) Any question whether a complaint or a request for an investigation is duly made under this Subtitle or any law enacted in pursuance of article 195 shall be determined by the Ombudsman.
-
-(9) Where a complaint or request for an investigation is duly made as aforesaid and the Ombudsman decides not to investigate the action to which the complaint or request relates or to discontinue an investigation of that action, he or she shall inform the person or body of persons who made the complaint or request of his or her decision.
-
-(10) In this article and in article 193 “action” includes failure to act and “action taken” shall be construed accordingly.
-
-Excluded matters.
-
-193. The Ombudsman shall not investigate any such action, or action taken with respect to any such matter, as is described hereunder -
-
+(7) For the purposes of paragraph (2) (a) a complaint may be made by a person aggrieved himself or herself or, if he or she is dead or for any reason unable to act for himself or herself, by any person duly authorised to represent him or her. (8) Any question whether a complaint or a request for all investigation is duly made under this Subtitle or any law enacted in pursuance of article 195 shall be determined by the Ombudsman. (9) Where a complaint or request for an investigation is duly made as aforesaid and the Ombudsman decides not to investigate the action to
+--- | ---
+which the complaint or request relates or to discontinue an investigation of that action, he or she shall inform the person or body of persons who made the complaint or request of his or her decision.
+Excluded matters. | 193 . The Ombudsman shall not investigate any such action, or action taken with respect to any such matter, as is described hereunder -
 (i) matters certified by the President or a Minister to affect relations or dealings between the Government of Guyana and any other Government or any international organisation;
-
-(ii) action taken for the purposes of protecting the security of the State or of investigating
 
 L.R.O. 1/2012
 
@@ -5024,20 +4625,14 @@ LAWS OF GUYANA
 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
 crime, including action taken with respect to passports for either of those purposes;
-
-(iii) the commencement or conduct of civil or criminal proceedings in any court;
-
-(iv) action taken in respect of appointments to offices or other employment in the service of the Government of Guyana or appointments made by or with the approval of the President or any Minister, and action taken in relation to any person as the holder or former holder of any such office, employment or appointment;
-
-(v) action taken with respect to orders or directions to any disciplined force or member thereof as defined in article 154;
-
-(vi) the exercise of the powers conferred by article 188;
-
-(vii) the grant of honours, awards or privileges within the gift of the President;
-
-(viii) action taken in matters relating to contractual or other commercial dealings with members of the public other than action by an authority mentioned in subparagraph (a) of article 192(5);
-
-(ix) action taken in any country outside Guyana by or on
+--- | ---
+(iii) | the commencement or conduct of civil or criminal
+(iv) | proceedings in any court; action taken in respect of appointments to offices or other employment in the service of the Government of Guyana or appointments made by or with the approval of the President or any Minister, and action taken in relation to any person as the holder or former holder of any such office, employment
+(v) | or appointment; action taken with respect to orders or directions to any disciplined force or member thereof as defined in article
+(vi) | 154; the exercise of the powers conferred by article 188;
+(vii) | the grant of honours, awards or privileges within the gift of the President;
+(viii) | action taken in matters relating to contractual or other commercial dealings with members of the public other than action by an authority mentioned in subparagraph (a) of article 192(5);
+(ix) | action taken in any country outside Guyana by or on
 
 L.R.O. 1/2012
 
@@ -5049,19 +4644,21 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 165
 
+Ombudsman's functions on concluding an investigation, and reports to the Assembly. [14 of 2000]
+
 LAWS OF GUYANA
 
-behalf of any officer representing the Government of Guyana or any officer of that Government;
+behalf of any officer representing  the  Government of  Guyana  or  any  officer  of that Government;
 
 (x) any action which by virtue of any provision of this Constitution may not be inquired into by any court.
 
-Ombudsman’s functions on concluding an investigation, and reports to the Assembly. [14 of 2000]
+194 . (1) After conducting an investigation under this Subtitle  the  Ombudsman shall inform the department or authority concerned of the result of that investigation and, if  he  or  she  is  of  the  opinion  that  any  person  or  body  of persons has sustained injustice in consequence of a fault in administration, he or she shall inform that department or authority  of  the  reasons  for  that  opinion  and  may  make such  recommendations  for  action  by  that  department  or authority as he or she thinks fit.
 
-194. (1) After conducting an investigation under this Subtitle the Ombudsman shall inform the department or authority concerned of the result of that investigation and, if he or she is of the opinion that any person or body of persons has sustained injustice in consequence of a fault in administration, he or she shall inform that department or authority of the reasons for that opinion and may make such recommendations for action by that department or authority as he or she thinks fit.
+- After conducting an investigation under this Subtitle  in  pursuance  of  a  complaint  or  a  request  for  an investigation  made  by  the  President,  a  Minister  or  a member of the National Assembly the Ombudsman shall
 
-(2) After conducting an investigation under this Subtitle in pursuance of a complaint or a request for an investigation made by the President, a Minister or a member of the National Assembly the Ombudsman shall -
+-
 
-(a) if he or she is of the opinion that the complainant or, in the case of an investigation conducted in pursuance of such a request, the person or body of persons specified in the request has sustained injustice in consequence of a fault in administration, inform the person or body of persons who made the complaint or request that he or she is of that opinion and the nature of the injustice that he or she considers has been sustained;
+(a) if he or she is of the opinion that the complainant  or,  in  the  case  of  an investigation conducted in pursuance  of  such  a  request,  the person or body of persons specified in the request has sustained injustice in consequence of a fault in administration, inform the person or body of persons who  made  the complaint or request  that  he  or  she is  of  that  opinion  and  the  nature  of the injustice that he or she considers has been sustained;
 
 L.R.O. 1/2012
 
@@ -5073,18 +4670,11 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-(b) if he or she is of the opinion that the complainant or, in the case of an investigation conducted in pursuance of such a request, the person or body of persons specified in the request has not sustained injustice, inform the person or body of persons who made the complaint or request that he or she is of that opinion and the reason therefor.
-
+(b) if he or she is of the opinion that the complainant or, in the case of an investigation conducted in pursuance of such a request, the person or body of persons specified in the request has not sustained injustice, inform the person or body of persons who made the complaint or request that he or she is of that
+--- | ---
 (3) Where the Ombudsman has made a recommendation under paragraph (1) and within a reasonable time thereafter no action has been taken which appears to the Ombudsman adequately to remedy the injustice, he or she may lay before the Assembly a special report on the case.
-
-(4) The Ombudsman shall annually lay before the Assembly a general report on the performance of his or her functions under this Subtitle.
-
-Power of Parliament to make Supplementary provision.
-
-195. Parliament may make provision for such supplementary and ancillary matters as may appear necessary or expedient in consequence of any of the provisions of this Subtitle including (without prejudice to the generality of the foregoing power) provision -
-
+Power of Parliament to make Supplement- ary provision. | 195 . Parliament may make provision for such supplementary and ancillary matters as may appear necessary or expedient in consequence of any of the provisions of this Subtitle including (without prejudice to the generality of the foregoing power) provision -
 (a) for the procedure to be observed by the Ombudsman in performing his or her functions;
-
 (b) for the manner in which complaints and requests for investigation shall be made to the Ombudsman and for the payment of fees in respect of any complaint or investigation; and
 
 L.R.O. 1/2012
@@ -5101,27 +4691,27 @@ Cap. 1:01
 
 167
 
-(c) for the powers, duties and privileges of the Ombudsman or of other persons or authorities with respect to the obtaining or disclosure of information for the purposes of any investigation or report by the Ombudsman.
-
 Interpretation.
-
-196. In this Subtitle -
-
-“complainant” means the person or body of persons by or on whose behalf a complaint under this Subtitle is made; and
-
-“fault in administration” includes without prejudice to its generality, any contravention of article 149 (which relates to discrimination on grounds of race, place of origin, political opinions, colour or creed).
-
-### TITLE 6 THE JUDICATURE
 
 Tenure of office of Judges. [6 of 2001]
 
-197. (1) Notwithstanding the provisions of articles 124 and 125, the office of a Justice of Appeal or a Puisne Judge shall not be abolished while there is a substantive holder thereof.
+(c) for the powers, duties and privileges of    the    Ombudsman  or    of    other persons   or authorities with respect to the obtaining  or disclosure of information for the purposes  of any investigation or report by the Ombudsman.
 
-(2) With effect from the commencement of this paragraph, a person holding the office of Judge on the said commencement shall vacate that office on attaining -
+196 .   In this Subtitle -
 
-(a) in the case of a Puisne Judge, the age of sixty-two years;
+,complainant' means the person or body of persons by or on whose behalf a complaint under this Subtitle is made; and
 
-(b) in the case of any other Judge, other than the Chancellor, the age of sixty-five years; and
+,fault in administration' includes without prejudice to its generality,  any  contravention  of  article  149  (which relates to discrimination on grounds of race, place of origin, political opinions, colour or creed).
+
+### TITLE 6 THE JUDICATURE
+
+197 .  (1)  Notwithstanding  the  provisions  of  articles 124 and 125, the office of a Justice of Appeal or a Puisne Judge shall not be  abolished while there is a substantive holder thereof.
+
+- With effect from the commencement of this paragraph, a person  holding the  office  of  Judge  on the said commencement shall vacate that office on attaining -
+
+(a)       in    the    case  of    a  Puisne  Judge, the age of sixty- two years;
+
+(b) in the case of any other Judge, other than the Chancellor, the age of sixtyfive years; and
 
 L.R.O. 1/2012
 
@@ -5169,7 +4759,7 @@ Chairman  and  not  less  than  two other      members,    selected    by    the
 
 (6) The provisions of the Commissions of Inquiry Act as in force immediately before the commencement  of  this  Constitution  shall,  subject  to  the provisions  of  this  article,  apply  as  nearly  as  may  be  in relation to tribunals appointed under the preceding paragraph or, as the context may require, to the members thereof  as  they  apply  in  relation  to  Commissions  or Commissioners  appointed  under  that  Act,  and  in  such application shall have effect as if they formed part of this Constitution.
 
-(7) If the question of removing a Judge from office has been referred to a tribunal under paragraph (5), the President may suspend such Judge from performing
+(7)    If  the  question  of  removing  a  Judge  from office has been referred to a tribunal under paragraph (5), the  President  may  suspend  such  Judge  from  performing the functions of his or her office, and any such suspension may at any time be revoked by the President, and shall in any  case  cease  to  have  effect  if  the  tribunal  advises  the President  that  the  Judge  ought  not  to  be  removed  from office. In effecting any such suspension or any revocation of any such suspension, the President shall act in accordance with his or her own deliberate judgment in the case of the Chancellor or the Chief Justice and in accordance with the advice of the Chancellor in the case of any other Judge.
 
 L.R.O. 1/2012
 
@@ -5181,23 +4771,21 @@ LAWS OF GUYANA
 
 170 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-the functions of his or her office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal advises the President that the Judge ought not to be removed from office. In effecting any such suspension or any revocation of any such suspension, the President shall act in accordance with his or her own deliberate judgment in the case of the Chancellor or the Chief Justice and in accordance with the advice of the Chancellor in the case of any other Judge.
-
 (8) The provisions of this article shall be without prejudice to the provisions of article 128(3).
 
-(9) (a) For the purposes of paragraph (6) of this article and of article 225(5), the following provisions of the Commissions of Inquiry Act shall not apply, that is to say -
+(a)        For  the  purposes of paragraph (6) of  this  article  and  of  article  225(5), the following provisions of the Commissions  of  Inquiry  Act  shall not apply, that is to say -
 
 (i) section 2 - the whole section;
 
-(ii) section 3 - so much of the section as follows the words “in his or her place”;
+(ii) section  3  -  so  much  of  the section  as  follows  the  words ,in his or her place';
 
-(iii) section 5 - the whole section;
+(iii)     section 5 - the whole section;
 
-(iv) section 7 - the words “after taking such oath or affirmation”;
+(iv)      section  7    -  the    words  ,after taking such oath or affirmation';
 
-(v) section 16 - the whole section.
+(v)      section 16 - the whole section.
 
-(b) For the words “Such sums so directed to be paid shall be paid out of moneys provided by Parliament” in section 15 of the Act there shall be substituted the words “Such sums so directed to be paid shall be charged on and paid out of the Consolidated Fund”.
+(b)      For the words ,Such sums so directed to be paid shall be paid out of moneys provided by Parliament' in section 15 of the Act there shall be substituted  the  words  ,Such  sums so directed to be paid shall be charged  on  and  paid  out  of  the Consolidated Fund'.
 
 L.R.O. 1/2012
 
@@ -5217,19 +4805,10 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 ### TITLE 6A DEFENCE AND SECURITY
 
-Defence and security. [7 of 2001] [5 of 2003]
-
-197A. (1) The State’s defence and security policy shall be to defend national independence, preserve the country’s sovereignty and integrity, and guarantee the normal functioning of institutions and the security of citizens against any armed aggression.
-
-(2) The Defence and Security Forces shall be subordinate to national defence and security policy and owe allegiance to the Constitution and to the Nation. The oath taken by members of the Defence and Security Forces shall establish their duty to respect the Constitution.
-
-c. 15:01
-
-(3) The Guyana Defence Force established under the Defence Act shall in the discharge of its constitutional responsibilities function in such a manner as to earn the respect and enjoy the confidence of citizens.
-
-c. 16:01
-
-(4) The Police Force established under the Police Act shall function in accordance with the law as the law enforcement agency of the State responding to the daily need to maintain law and order by suppressing crime to
+Defence and security. [7 of 2001] [5 of 2003] | 197A . (1) The State's defence and security policy shall be to defend national independence, preserve the country's sovereignty and integrity, and guarantee the normal functioning of institutions and the security of citizens against any armed aggression. (2) The Defence and Security Forces shall be subordinate to national defence and security policy and owe allegiance to the Constitution and to the Nation. The oath taken by members of the Defence and Security Forces shall establish their duty to respect the Constitution.
+--- | ---
+c. 15:01 | (3) The Guyana Defence Force established under the Defence Act shall in the discharge of its constitutional responsibilities function in such a manner as to earn the respect and enjoy the confidence of citizens.
+c 16:01 | (4) The Police Force established under the Police Act shall function in accordance with the law as the law enforcement agency of the State responding to the daily need to maintain law and order by suppressing crime to
 
 L.R.O. 1/2012
 
@@ -5245,24 +4824,14 @@ Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
 ensure that citizens are safe in their homes, the streets and other places.
 
-(5) Disciplined forces commissions may be constituted by the National Assembly from time to time, as may be necessary, with power to examine any matter relating to the public welfare, public safety, public order, defence or security, including the structure and composition of the disciplined forces and make recommendations generally with a view to promoting their greater efficiency, and giving effect to the need in the public interest that the composition of the disciplined forces take account of the ethnic constituents of the population.
-
-c. 19:03
-
-(6) The provisions of the Commissions of Inquiry Act as in force immediately before the commencement of this Constitution shall, subject to the provisions of this article, apply as nearly as may be in relation to commissions appointed under the preceding paragraph or, as the context may require, to the members thereof as they apply in relation to Commissions or Commissioners appointed under that Act, and such application shall have effect as if they formed part of this Constitution.
-
-c. 19:03
-
-(7) As regards the application of the Commissions of Inquiry Act pursuant to paragraph (6) -
-
+(5) Disciplined forces commissions may be constituted by the National Assembly from time to time, as may be necessary, with power to examine any matter relating to the public welfare, public safety, public order, defence or security, including the structure and composition of the disciplined forces and make recommendations generally with a view to promoting their greater efficiency , and giving effect to the need in the public interest that the composition of the disciplined forces take account of the ethnic constituents of the population.
+--- | ---
+c. 19:03 | (6) The provisions of the Commissions of Inquiry Act as in force immediately before the commencement of this Constitution shall, subject to the provisions of this article, apply as nearly as may be in relation to commissions appointed under the preceding paragraph or, as the context may require, to the members thereof as they apply in relation to Commissions or Commissioners appointed under that Act, and such application shall have effect as if they formed part of this Constitution.
+c. 19:03 | (7) As regards the application of the Commissions of Inquiry Act pursuant to paragraph (6) -
 (a) the following provisions shall not apply, that is to say -
-
-(i) section 2 - the whole section;
-
-(ii) section 3 - so much of the section as follows the words “in his or her place”;
-
+(i) section 2 - the whole section; (ii) section 3 - so much of the section as follows the words
+,in his or her place';
 (iii) section 4 - the whole section;
-
 (iv) section 5 - the whole section;
 
 L.R.O. 1/2012
@@ -5277,21 +4846,19 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 LAWS OF GUYANA
 
-(v) section 7 - the words “after taking such oath or affirmation”;
+(v)    section  7  - the  words  ,after taking such oath or affirmation';
 
-(vi) section 16 - the whole section;
+(vi)      section 16 - the whole section;
 
-(b) for the words “Such sums so directed to be paid shall be paid out of moneys provided by Parliament” in section 15 there shall be substituted the words “Such sums so directed to be paid shall be charged on and paid out of the Consolidated Fund”;
+(b)      for the words ,Such sums so directed to be paid shall be paid out of moneys provided by Parliament' in section 15 there shall be substituted  the  words  ,Such  sums so directed to be paid shall be charged    on  and  paid  out  of  the Consolidated Fund';
 
-(c) for the words “the President” wherever they appear in the applicable provisions substitute the words “the National Assembly”.
+(c) for  the    words    ,the    President' wherever they appear in the applicable  provisions  substitute  the words ,the National Assembly'.
 
 ### TITLE 7 THE SERVICE COMMISSIONS
 
 #### THE JUDICIAL SERVICE COMMISSION
 
-Composition of Commission. [6 of 2001]
-
-198. (1) The members of the Judicial Service Commission shall be -
+Composition of Commission. [6 of 2001] 198. (1) The members of the Judicial Commission shall be - Service
 
 (a) the    Chancellor    who    shall    be Chairman;
 
@@ -5299,7 +4866,7 @@ Composition of Commission. [6 of 2001]
 
 (c) the Chairman    of    the    Public Service Commission; and
 
-(d) such other members (hereinafter referred to as “appointed members”) as may be appointed in
+(d) such  other    members    (hereinafter referred to as ,appointed members') as may be appointed  in
 
 L.R.O. 1/2012
 
@@ -5345,7 +4912,7 @@ he or she was appointed; or
 
 (5) If the office of an appointed member is vacant or  an  appointed  member  is  for  any  reason  unable  to perform the functions of his or her office, a person may be appointed  to  act  in  that  office  and  the  provisions  of paragraph (2) shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person  appointed to act in the office  of an appointed member  shall, subject  to the provisions  of  paragraphs  (3)(b)  and  (4),  continue  to  act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions.
 
-(6) A person shall not, while he or she holds or is acting in the office of a member appointed under paragraph (2) (b), or within a period of three years commencing with the date on which he or she last held or acted in that office, be eligible for appointment to or to act in any office power to make appointments to which is vested by this Constitution in the President acting in accordance with the advice of the Judicial Service
+(6) A person shall not, while he or she holds or is acting in the office of a member  appointed under paragraph  (2)  (b),  or  within  a  period  of  three  years commencing with the date on which he or she last held or acted in that office, be eligible  for appointment to or to act in any office power  to make  appointments to which   is vested    by  this  Constitution  in  the  President  acting  in accordance with the advice of the Judicial Service Appointment, etc., of judicial and legal officers. [17 of 1984 6 of 2001]
 
 L.R.O. 1/2012
 
@@ -5361,9 +4928,7 @@ Commission or in that Commission.
 
 (7) If, by virtue of provision made by Parliament under  article  199(3)  or  article  203(6),  power  to  make appointments  to  or  to  act  in  any  office  or  to  remove  or exercise disciplinary control  over  persons  holding  or acting  in  any  office  is  vested  in  the  President  acting  in accordance with the advice of the Judicial Service Commission or is vested in the Judicial Service Commission, Parliament may provide for the inclusion in the  Commission,  for  the  purpose  of  the  exercise  of  any function  or  power  vested  in  the  Commission  by virtue of that provision and of any proceedings of the Commission  relating  thereto,  of  members  additional  to those mentioned in paragraph (1) and for the appointment (including  disqualifications  for  appointment)  and  tenure of  office  of  such  additional  members;  and  provision  for the  inclusion  of  different  additional  members  may  be made  in  relation  to  functions  or  powers  vested  in  the Commission as aforesaid in relation to different offices.
 
-Appointment, etc., of judicial and legal officers. [17 of 1984 6 of 2001]
-
-199.(1) The power to make appointments to the offices to which this article applies and to remove and to exercise disciplinary control over persons holding or acting in such offices shall vest in the Judicial Service Commission.
+199 .(1)  The  power  to  make  appointments  to  the offices to which this article applies and to remove and to exercise disciplinary control  over  persons  holding  or acting  in  such  offices  shall  vest  in  the  Judicial  Service Commission.
 
 (2)  The  Judicial  Service  Commission  may,  by directions  in  writing  and  subject  to  such  conditions  as  it thinks fit, delegate any of its powers under the preceding paragraph to  any  one  or  more  of  its  members  or  to  any person holding or acting in an office in respect of which power  to  make  appointments  is  vested  in  the  President acting in accordance with the advice of the Commission or to which this article applies.
 
@@ -5385,7 +4950,7 @@ Cap. 1:01
 
 in respect of whom the power was exercised (including a person who has failed to obtain an appointment) may appeal to that Commission from the decision of the person exercising the power.
 
-(2B) The decision of the Judicial Service Commission on any appeal  made  under  paragraph  (2A) shall be final.
+(2B) The decision of the Judicial Service Commission on any appeal made under paragraph (2A) shall be final.
 
 (3) This article applies to the office of Commissioner  of  Title,  Magistrate,  Director  of  Public Prosecutions,  Deputy  Director  of  Public Prosecutions, Registrar of the High Court, Deputy Registrar of the High Court, Registrar of Deeds, Deputy Registrar of Deeds and to such other offices (not being offices in respect of which provision  for  the  making    of  appointments  is  made    by any  provision of  this Constitution other than article 201) connected with the courts of Guyana or for appointment to  which  legal  qualifications  are  required  as  may  be prescribed by Parliament.
 
@@ -5478,7 +5043,6 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 therein.
 
 (7) The provisions of this article shall not apply in relation to any of the following offices, that is to say – (a) [Subparagraph (a) repealed by Act No. 5 of 2001] (b) the office of Auditor General; (c) any office to which article 205 applies; (d) so far as they relate to power to make appointments on transfer, any office to which article 206 applies; (e) any office to which article 199 (relating to offices within the jurisdiction of the Judicial Service Commission) applies; (f) any office to which article 209 (relating to offices within the jurisdiction of the Teaching Service Commission) applies; or (g) the office of the Commissioner of Police or any other office in the Police Force.
-
 Appeals to Public Service Commission. [17 of 1984]
 
 202. (1) Where any power of the Public Service Commission is exercised under article 201(2) any person in respect of whom the power was exercised (including a person who has failed to obtain an appointment) may appeal to the Commission from the decision of the person exercising the power.
@@ -5555,9 +5119,9 @@ others.
 
 office persons holding or acting in such offices shall vest in the President.
 
-(2) Before making an appointment under paragraph (1) in favour of any person who holds any public office other than an office to which this article applies, the President shall consult the appropriate Commission.
+(2) Before making an appointment under paragraph  (1)  in  favour  of  any  person  who  holds  any public  office  other  than  an  office  to  which  this  article applies, the President shall consult the appropriate Commission.
 
-(3) The offices to which this article applies are the offices of Solicitor General, Permanent Secretary, Secretary to the Cabinet, Ambassador, High Commissioner or other principal representative of Guyana in any other country or accredited to any international organisation.
+(3)  The  offices  to  which  this  article  applies  are the offices of Solicitor  General,  Permanent  Secretary, Secretary to the Cabinet, Ambassador, High Commissioner or other principal representative of Guyana in  any  other  country  or  accredited  to  any  international organisation.
 
 (4) In Paragraph (2) of this article “the appropriate Commission” means, in the case of a person who holds an office power to make appointments to which is vested in the President acting in accordance with the advice of the Judicial Service Commission or is vested in that Commission, the Judicial Service Commission, in the case of a person who is a teacher in the public service, the Teaching Service Commission, in the case of a person who holds an office power to make appointments to which is vested in the President acting in accordance with the advice of the Police Service Commission or is vested in that Commission, the Police Service Commission, and in any other case the Public Service Commission.
 
@@ -5611,7 +5175,9 @@ LAWS OF GUYANA
 
 186 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-(3) The other member of the Commission shall be the Chief Education Officer.
+Vacation  of office of appointed member
+
+(3)  The  other  member of the Commission shall be the Chief Education Officer.
 
 (4) The Chairperson and the Deputy Chairperson  of  the  Commission  shall  be  elected  by  and from the members of the Commission using such consensual mechanism as the Commission deems fit.
 
@@ -5626,8 +5192,6 @@ LAWS OF GUYANA
 (9)  An  appointed  member  of  the  Commission may at any time resign his or her office as such member by  writing      under  his  or  her  hand  addressed  to  the President.
 
 (10)  An appointed member of the Commission shall be eligible for re-appointment.
-
-Vacation of office of appointed member
 
 208. (1) Subject to the provisions of this article, the office of an appointed member of the Commission shall become vacant at the expiration of three years from the date of his or her appointment or at such earlier time as
 
@@ -5655,7 +5219,7 @@ Appointment of teachers. [17 of 1984]
 
 209. (1) Subject to the provisions of this Constitution, the power to appoint persons as teachers in the public service and to remove and to exercise disciplinary control over persons holding or acting in such offices shall vest in the Teaching Service Commission.
 
-(2)  The  Teaching  Service  Commission  may,  by directions  in  writing  and  subject  to  such  conditions  as  it thinks fit, delegate any of its powers under paragraph (1) to any one or more of its members or, with the consent of the Prime Minister, to any public officer.
+(2) The Teaching Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under paragraph (1) to any one or more of its members or, with the consent of the Prime Minister, to any public officer.
 
 (3) Where any power of the Teaching Service Commission is exercised under paragraph (2), any person in respect of whom the power was exercised (including a person who has failed to obtain an appointment) may appeal to that Commission from the decision of the person
 
@@ -5730,11 +5294,8 @@ Service Commission after the Chairperson has consulted with the other members of
 (2) If the office of Commissioner of Police is vacant or if the holder thereof is for any reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions of the preceding paragraph shall apply to such an appointment as they apply to the appointment of a person to hold that office; and any person appointed to act in the office of Commissioner of Police shall, subject to the provisions of paragraphs (3) and (4), continue to act until a person has been appointed to that office and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions.
 
 (3) Subject to the provisions of the next following paragraph, the Commissioner of Police shall vacate his or her office when he or she attains such age as may be prescribed by Parliament.
-
 (4) The provisions of article 225 (which relate to the removal from office) shall apply to the office of the Commissioner of Police, and the prescribed authority for the purposes of paragraph (4) of that article shall be the Prime Minister or the Chairman of the Police Service Commission and for the purposes of paragraph (6) of that article shall be the Police Service Commission.
-
 (5) The provisions of article 229 shall apply to resignation from the office of Commissioner of Police as they apply to resignation from an office established by this Constitution.
-
 (6) In this article references to the office of Deputy Commissioner of Police are references to the office, however styled, that ranks next in seniority in the Police Force after the office of Commissioner of Police:
 
 L.R.O. 1/2012
@@ -5749,11 +5310,11 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 191
 
-Provided that there may be more than one office of Deputy Commissioner of Police and that, if there are more than one such office, the holders thereof shall rank among themselves according to the dates of their respective appointments.
-
 Appointment, etc. of other members of Police Force
 
-212.(1) Subject to the provisions of article 211(1), the power to make appointments to any offices in the Police Force of or above the rank of Inspector, the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons from office shall vest in the Police Service Commission.
+Provided that there may be more than one office of Deputy Commissioner of Police and that, if there are more than one such office, the holders thereof shall rank among themselves according to the dates of their respective appointments.
+
+212. (1) Subject to the provisions of article 211(1), the power to make appointments to any offices in the Police Force of or above the rank of Inspector, the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons from office shall vest in the Police Service Commission.
 
 (2)  The  Police  Service  Commission  may,  by directions  in  writing  and  subject  to  such  conditions  as  it thinks fit, delegate any of its powers under the preceding paragraph  to  any  one  or  more  of  the  members  of  the Commission or  to  the  Commissioner  of  Police  or,  in  the case of the power to exercise disciplinary control, to any other member of the Police Force.
 
@@ -5801,7 +5362,7 @@ c.16:01
 
 (b) establishing a police force other than that Police Force, or altering the ranks into which any other police force is divided,
 
-the  Police  Service  Commission may by order specify some rank (other than the rank of Inspector) in the Police Force or, as  the  case  may  be,  in  that  other  police  force  as  being equivalent to the rank of Inspector as it exists in the Police Force under  the law in force immediately  before the commencement of this Constitution and  the    references  in paragraphs (1) and (3) to the rank of Inspector shall then be construed as if they were in relation to the Police Force, or, as  the  case  may  be,  in  relation  to  that  other  police  force, references to the rank for the time being so specified.
+the Police Service Commission may by order specify some rank (other than the rank of Inspector) in the Police Force or, as the case may be, in that other police force as being equivalent to the rank of Inspector as it exists in the Police Force under the law in force immediately before the commencement of this Constitution and the references in paragraphs (1) and (3) to the rank of Inspector shall then be construed as if they were in relation to the Police Force, or, as the case may be, in relation to that other police force, references to the rank for the time being so specified.
 
 Ethnic Relations Commission. [11 of 2000]
 
@@ -5809,9 +5370,9 @@ Ethnic Relations Commission. [11 of 2000]
 
 Composition of Ethnic Relations Commission. [11 of 2000]
 
-212B.(1) The Ethnic Relations Commission shall consist of –
+212B. (1) The Ethnic Relations Commission shall consist of –
 
-(a) not less than five nor more than fifteen members nominated by entities, by a consensual mechanism determined by the National Assembly, including entities, representative of religious bodies, the labour movement, the private business sector, youth and women, after the entities are determined by the votes of not less than two-thirds of
+(a) not less than five nor more than fifteen members nominated by entities, by a consensual mechanism determined by the National Assembly, including entities, representative of religious bodies, the labour movement, the private business sector, youth and women, after the entities are determined by the votes not less than two-thirds of
 
 L.R.O. 1/2012
 
@@ -5825,13 +5386,13 @@ LAWS OF GUYANA
 
 all  elected  members  of  the  National Assembly;
 
-(b) a member who shall be a nominee, without the right to vote, chosen by and from each of the following commissions to be established under this Constitution, Indigenous Peoples’ Commission, Women and Gender Equality Commission, Commission for the Rights of the Child and Human Rights Commission.
+(b) a  member  who  shall  be  a  nominee, without  the  right  to  vote,  chosen  by and from each of the following commissions  to  be  established  under this Constitution, Indigenous People's Commission, Women and Gender Equality Commission, Commission for the Rights of the Child and Human Rights Commission.
 
 (2) The  Chairperson and  Deputy Chairperson of the Ethnic Relations Commission shall  be elected  by and  from the  members of  the  Commission,  other  than  the  members mentioned  in paragraph   (1)(b),  using   such  consensual mechanism  as   the Commission deems fit.
 
 (3)  Subject  to  paragraph  (4)  (a),  members  of  the Ethnic  Relations  Commission  shall  be  appointed  for  three years and shall be eligible for re-appointment.
 
-(4) (a) Of those members first appointed under paragraph (1) (a), a majority shall hold office for four years.
+(4) (a) Of those members first appointed under paragraph (1)(a), a majority shall hold office for four years.
 
 (b) Of  those  members  nominated  under paragraph (1) (b), the duration which each shall serve shall, subject to paragraph  (3),  be  determined  by  the Commission by and from which that member is nominated.
 
@@ -5995,7 +5556,9 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 201
 
-(w) make recommendations on penalties, including the prevention of any political party or any person from participating in elections for a specified period, to be imposed for any breach of the provisions of this Constitution or any law dealing with ethnicity; (x) do all other acts and things as may be necessary to facilitate the efficient discharge of the functions of the Commission.
+(w) make recommendations on penalties, including the prevention of any political party or any person from participating in elections for a specified period, to be imposed for any breach of the provisions of this Constitution or any law dealing with ethnicity;
+
+(x) do all other acts and things as may be necessary to facilitate the efficient discharge of the functions of the Commission.
 --- | ---
 Reports. [11 of 2000] | 212E . (1) As soon as practicable after the end of each financial year of its operation, the Ethnic Relations Commission shall submit to the Speaker of the National Assembly an annual report of the activities of the Commission for the preceding year and the report shall be laid before the Assembly within thirty days of its submission if the Assembly is sitting, and if the Assembly is not sitting, at the first meeting on the resumption of the Assembly. (2) The Chairperson of the Ethnic Relations Commission may at any time submit a special report to the Speaker to the National Assembly with respect to any aspect of the functions of the Commission which the Commission considers should in the national interest be bought to the attention of the Assembly because it affects a wide cross section of the populace and there could be disastrous consequences if a report thereon is not brought to the attention of the Assembly. (3) The Commission shall prepare and publish an executive summary of its annual report; and shall publish every special report in the media, having
 
@@ -6046,7 +5609,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 (3)  A  Commission  shall  be  funded  by  a  direct charge  upon  the  Consolidated  Fund  in  accordance  with article 222A.
 
-Appointment. [5 of 2001] 212H. (1) Subject to paragraph (2)(a), members of a Commission shall be appointed for three years and shall be eligible for re-appointment.
+Appointment. [5 of 2001] 212H.(1) Subject to paragraph (2)(a), members of a Commission shall be appointed for three years and shall be eligible for re-appointment.
 
 (2) Of those members -
 
@@ -6056,7 +5619,7 @@ Appointment. [5 of 2001] 212H. (1) Subject to paragraph (2)(a), members of a Com
 
 (3)  The  provisions  of  article  225  shall  apply  to the  office  of  a  member  of  a  Commission,  and  for  the purposes  of  paragraphs  (4)  and  (6)  of  that  article  the prescribed authority shall be the Speaker of the National Assembly  except that, in relation to a member other than the Chairperson or a member for the time being acting in the  office  of  the  Chairperson  under  paragraph  (5),  the prescribed    authority  for  the  purposes  of  paragraph  (6) shall be the Chairperson; this paragraph does not apply to the Chairperson of the Human Rights Commission.
 
-(4) The Chairperson and the Deputy Chairperson of a Commission, other than the Human Rights Commission, shall be elected by and from the members of the  Commission,  other  than  the  members  nominated  by and  from  another  Commission,  using  such  consensual mechanism as the Commission deems fit.
+(4) The Chairperson and the Deputy Chairperson of a Commission, other than the Human Rights Commission, shall be elected by and from the members of the Commission, other than the members nominated by
 
 L.R.O. 1/2012
 
@@ -6068,11 +5631,13 @@ LAWS OF GUYANA
 
 204 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-(5) If the office of Chairperson of a Commission, other  than  the  Human  Rights  Commission,  becomes vacant  or  the  holder  thereof  is  for  any  reason  unable  to perform the functions of the office, then the holder of the office of the Deputy Chairperson, or if that office is vacant, or the holder thereof is for any reason unable to perform the  functions of the office of the Chairperson, one of the other  members,  other  than  the  members  nominated  by and  from  another  Commission,  may  be  elected  to  act  in the office of Chairperson; and the Deputy Chairperson or such other member shall continue to act until a person has been  elected  to  the  office  of  the  Chairperson  and  has assumed the functions of that office or, as the case may be, until  the  Chairperson  or  if  a  member  other  than  the Deputy Chairperson is acting therein , the Deputy Chairperson has assumed or resumed those functions.
+and from another Commission, using such consensual mechanism as the Commission deems fit.
+
+(5) If the office of Chairperson of a Commission, other than the Human Rights Commission, becomes vacant or the holder thereof is for any reason unable to perform the functions of the office, then the holder of the office of the Deputy Chairperson, or if that office is vacant, or the holder thereof is for any reason unable to perform the functions of the office of the Chairperson, one of the other members, other than the members nominated by and from another Commission, may be elected to act in the office of Chairperson; and the Deputy Chairperson or such other member shall continue to act until a person has been elected to the office of the Chairperson and has assumed the functions of that office or, as the case may be, until the Chairperson or if a member other than the Deputy Chairperson is acting therein, the Deputy Chairperson has assumed or resumed those functions.
 
 (6)  If  the  office  of  a  member  of  a  Commission other  than  the    Chairperson  is  vacant    or  if  the    holder thereof    is  acting    as  Chairperson  under  the  preceding paragraph or is for any other reason unable to perform the functions of his or her office, a person may be appointed to  act  in  that  office  and  the  provisions  in  relation  of  the appointment  of members of a Commission shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed under this paragraph shall, subject to the provisions of paragraph  (3), continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case  may  be  until  the  holder  thereof  resumed  those functions.
 
-Secretariat. [5 of 2001] 212I .  The  Human  Rights  Commission  Secretariat shall be the Secretariat for all the Commissions established under article 212G (1).
+Secretariat. [5 of 2001] 212I. The Human Rights Commission Secretariat shall be the Secretariat for all the Commissions established
 
 L.R.O. 1/2012
 
@@ -6086,13 +5651,19 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 205
 
-General functions. [5 of 2001] | 212J. (1) In addition to the functions prescribed by this Constitution, the functions of a Commission, may be provided for by law; any addition thereto in the Constitution shall be approved by the votes of a majority of all the elected members of the National Assembly but the removal or variation of any function shall be by the votes of not less than two-thirds of such members.
---- | ---
-(2) A Commission, other than the Human Rights Commission, shall have the following general functions –
-(a) | to monitor and review all existing and proposed legislation, policies and measure for compliance with the objects and matters under its purview and report the need for any amendment to any legislation to the National Assembly;
-(b) | to educate the public regarding the nature and content of matters under its purview;
-(c) | to carry out or cause to be carried out research and studies concerning the observance of matters under its purview and report the findings and recommendations thereon to the National Assembly;
-(d) | to investigate complaints of, or initiate investigations into, violations of the rights under its purview;
+under article 212G (1).
+
+General functions. [5 of 2001] 212J. (1) In addition to the functions prescribed by this Constitution, the functions of a Commission, may be provided for by law; any addition thereto in the Constitution shall be approved by the votes of a majority of all the elected members of the National Assembly but the removal or variation of any function shall be by the votes of not less than two-thirds of such members.
+
+(2) A Commission, other than the Human Rights Commission, shall have the following general functions -
+
+(a) to monitor and review all existing and proposed legislation, policies and measure for compliance with the objects and matters under its purview and report the need for any amendment to any legislation to the National Assembly;
+
+(b) to educate the public regarding the nature and content of matters under its purview;
+
+(c) to carry out or cause to be carried out research and studies concerning the observance of matters under its purview and report the findings and recommendations thereon to the National Assembly;
+
+(d) to investigate complaints of, or initiate investigations into, violations of the rights under its purview;
 
 L.R.O. 1/2012
 
@@ -6142,7 +5713,7 @@ any entity, including a ministry or government department, to provide it with in
 
 (6)  A  Commission  may  at  any  stage  refer  any matter  to  the  Human  Rights  Commission  or  any  other relevant authority or entity to be dealt with.
 
-Rights Commissions Tribunal. [5 of 2001] 212K. Parliament may by law provide for the establishment of a Rights Commissions Tribunal and such law may make provision for –
+Rights Commissions Tribunal. [5 of 2001] 212K. Parliament may by law provide for the establishment of a Rights Commissions Tribunal and such law may make provision for -
 
 (a)      the Constitution of the Tribunal;
 
@@ -6194,7 +5765,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 ##### THE HUMAN RIGHTS COMMISSION
 
-Human Rights Commission. [5 of 2001] 212N. (1) The Human Rights Commission shall promote the observance of and respect for, and protect and investigate violations of the rights recognised by this Constitution and any other law relating to equality of opportunity and treatment (hereinafter referred to as “the rights”).
+Human Rights Commission. [5 of 2001] 212N.(1) The Human Rights Commission shall promote the observance of and respect for, and protect and investigate violations of the rights recognised by this Constitution and any other law relating to equality of opportunity and treatment (hereinafter referred to as “the rights”).
 
 (2) The Human Rights Commission shall consist of a full time Chairperson and such other members, to be appointed in accordance with this article.
 
@@ -6216,12 +5787,13 @@ LAWS OF GUYANA
 
 (5)  The  Deputy  Chairperson  of  the  Human Rights Commission shall be elected by and from the other members  of the Commission  using such consensual mechanism as the Commission deems fit.
 
-(6) If the office of Chairperson of the Commission becomes vacant,  or the holder thereof is for any reason unable to perform the functions  of the office, then the holder of the office of the Deputy Chairperson, or if  that  office  is  vacant  or  the  holder  thereof  is  for  any reason  unable  to  perform  the  functions of the office of Chairperson, one of the other members may be elected  to act in the office of Chairperson; and the Deputy Chairperson  or  such    other  member  shall  continue  so  to act  until  a  person  has  been  appointed  to  the  office  of Chairperson and has assumed the functions of that office or,  as  the  case  maybe,  until  the  Chairperson  or  if  a member  other  than  the  Deputy  Chairperson  is  acting therein,  the Deputy Chairperson has assumed or resumed those functions.
+(6) If the office of Chairperson of the Commission becomes vacant, or the holder thereof is for any reason unable to perform the functions of the office, then the holder of the office of the Deputy Chairperson, or if that office is vacant or the holder thereof is for any reason unable to perform the functions of the office of Chairperson, one of the other members may be elected to act in the office of Chairperson; and the Deputy Chairperson or such other member shall continue so to act until a person has been appointed to the office of Chairperson and has assumed the functions of that office or, as the case may be, until the Chairperson or if a member other than the Deputy Chairperson is acting therein, the Deputy Chairperson has assumed or resumed those functions.
 
 (7) The President may, with the concurrence of the  Leader  of  the  Opposition,  remove  the  Chairperson from office.
 
-Functions of the Human Rights Commission. [5 of 2001] | 212O. (1) The functions of the Human Rights Commission are to – (a) monitor the observance of the
---- | ---
+Functions of the Human Rights Commission. [5 of 2001] 212O. (1) The functions of the Human Rights Commission are to -
+
+(a) monitor the observance of the international instruments to which the Government accedes from time
 
 L.R.O. 1/2012
 
@@ -6229,13 +5801,15 @@ L.R.O. 1/2012
 
 [[START OF PAGE 211]]
 
+LAWS OF GUYANA
+
 Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 211
 
-LAWS OF GUYANA
+Fourth Schedule
 
-Fourth Schedule | to time, including those already acceded to and specified in the Fourth Schedule;
+to time, including those already acceded to and specified in the Fourth Schedule;
 
 (b)       monitor      and    assess    compliance with the rights and report the need for any amendment  of the law relating     thereto    to    the    National Assembly;
 
@@ -6325,21 +5899,21 @@ L.R.O. 1/2012
 
 [[START OF PAGE 215]]
 
+LAWS OF GUYANA
+
 Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 215
 
-LAWS OF GUYANA
+(2) The Women and Gender Equality Commission shall consist of persons from each of the categories referred to in subparagraphs (a), (b) and (c), appointed by the President as follows -
 
-(2) The Women and Gender Equality Commission shall consist of persons from each of the categories referred to in subparagraphs (a), (b) and (c), appointed by the President as follows –
+(a)      not less  than  five  nor  more  than fifteen  members,  with  expertise  in women's and gender equality issues,  nominated  by  entities,  by  a consensual  mechanism  determined by the National  Assembly, after the entities which shall include the Women's  Advisory  Committee  of the Trade Union  Congress, are determined by the votes of not less than  two-thirds  of  all  the  elected members of the National Assembly;
 
-(a) not less than five nor more than fifteen members, with expertise in women's and gender equality issues, nominated by entities, by a consensual mechanism determined by the National Assembly, after the entities which shall include the Women's Advisory Committee of the Trade Union Congress, are determined by the votes of not less than two-thirds of all the elected members of the National Assembly;
+(b) the  Administrator  of  the  Women's Affairs  Bureau,  by  whatever  name that office is designated; and
 
-(b) the Administrator of the Women's Affairs Bureau, by whatever name that office is designated; and
+(c) a  member who shall be a nominee, without the right to vote, chosen by and from each of the following commissions: the Human  Rights Commission, Ethnic Relations Commission,  Indigenous    Peoples' Commission,    and  Rights  of  the Child Commission.
 
-(c) a member who shall be a nominee, without the right to vote, chosen by and from each of the following commissions: the Human Rights Commission, Ethnic Relations Commission, Indigenous Peoples' Commission, and Rights of the Child Commission.
-
-Functions of the Women and Gender Equality Commission. [5 of 2001] 212R. In addition to the functions specified in article 212J(2), the functions of the Women and Gender Equality Commission are to –
+Functions of the Women and Gender Equality Commission. [5 of 2001] 212R. In addition to the functions specified in article 212J(2), the functions of the Women and Gender Equality Commission are to -
 
 (a) promote  the  issues  related  to  the enhancement of the status of
 
@@ -6369,11 +5943,11 @@ L.R.O. 1/2012
 
 [[START OF PAGE 217]]
 
+LAWS OF GUYANA
+
 Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 217
-
-LAWS OF GUYANA
 
 (i) | evaluate any system of personal and family law, customs and practices or any law likely to affect gender equality or the status of women and make recommendations to the National Assembly with regard thereto;
 --- | ---
@@ -6415,17 +5989,15 @@ L.R.O. 1/2012
 
 [[START OF PAGE 219]]
 
-Constitution of the Co-operative Republic of Guyana
+LAWS OF GUYANA
 
-Cap. 1:01
+Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 219
 
-LAWS OF GUYANA
-
 Commission, Ethnic Relations Commission, Women and Gender Equality Commission and the Rights of the Child Commission.
 
-Functions of the Indigenous Peoples' Commission. [5 of 2001] 212T. In addition to the functions specified in article 212J (2) the functions of the Indigenous Peoples' Commission are to –
+Functions of the Indigenous Peoples' Commission. [5 of 2001] 212T. In addition to the functions specified in article 212J (2) the functions of the Indigenous Peoples' Commission are to -
 
 (a) promote  and  protect  the  rights  of the indigenous peoples;
 
@@ -6470,17 +6042,17 @@ L.R.O. 1/2012
 
 [[START OF PAGE 221]]
 
+LAWS OF GUYANA
+
 Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 221
-
-LAWS OF GUYANA
 
 with responsibility for children's affairs, the Ministry of Education, and organisations representing the interests of youth, are determined by the votes of not less than two-thirds of all elected members of the National Assembly; and
 
 (b) a member who shall be a nominee, without the right to vote, chosen by and from each of the following commissions: the Human Rights Commission, Ethnic Relations Commission, Women and Gender Equality Commission and Indigenous Peoples' Commission.
 
-Functions of the Rights of the Child Commission. [5 of 2001] 212V. In addition to the functions specified in article 212J (2) the functions of the Rights of the Child Commission are to –
+Functions of the Rights of the Child Commission. [5 of 2001] 212V. In addition to the functions specified in article 212J (2) the functions of the Rights of the Child Commission are to -
 
 (a)       promote    the    rights    and    interests of,  and  respect  for  the  views  of, children;
 
@@ -6510,7 +6082,7 @@ time, including those already acceded to and which relate to the purpose of the 
 
 #### THE PUBLIC PROCUREMENT COMMISSION
 
-Public Procurement Commission. [5 of 2001] 212W. (1) There shall be a Public Procurement Commission the purpose of which is to monitor public procurement and the procedure therefor in order to ensure that the procurement of goods, services and execution of works are conducted in a fair, equitable, transparent competitive and cost effective manner according to law and such policy guidelines as may be determined by the National Assembly.
+Public Procurement Commission. [5 of 2001] 212W.(1) There shall be a Public Procurement Commission the purpose of which is to monitor public procurement and the procedure therefor in order to ensure that the procurement of goods, services and execution of works are conducted in a fair, equitable, transparent competitive and cost effective manner according to law and such policy guidelines as may be determined by the National Assembly.
 
 (2) The Commission shall be independent, impartial, and shall discharge its functions fairly.
 
@@ -6526,9 +6098,10 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 223
 
-Composition of the Public Procurement Commission. [5 of 2001] | 212X. (1) The Public Procurement Commission shall consist of five members who shall have expertise and experience in procurement, legal, financial and administrative matters. (2) The President shall appoint the members of the Commission after such members have been nominated by the Public Accounts Committee and approved by not less than two-thirds of the elected members of the National Assembly.
---- | ---
-Appointment. [5 of 2001] | 212Y. (1) Subject to paragraph (2), members of the Commission shall be appointed for three years and shall be eligible for re-appointment, for one other term of office, not earlier than three years after the end of their first term.
+Composition of the Public Procurement Commission. [5 of 2001] 212X. (1) The Public Procurement Commission shall consist of five members who shall have expertise and experience in procurement, legal, financial and administrative matters.
+
+(2) The President shall appoint the members of the Commission after such members have been nominated by the Public Accounts Committee and approved by not less than two-thirds of the elected members of the National Assembly.
+Appointment. [5 of 2001] | 212Y . (1) Subject to paragraph (2), members of the Commission shall be appointed for three years and shall be eligible for re-appointment, for one other term of office, not earlier than three years after the end of their first term.
 (2) Of those members first appointed, two shall hold office for four years. (3) The Chairperson and Deputy Chairperson
 of the Commission shall be elected by and from the members of the Commission using such consensual mechanism as the Commission deems fit.
 (4) The provisions of article 225 shall apply to the office of a member of the Commission, and for the purpose of paragraphs (4) and (6) of that article the prescribed authority shall be the Speaker of the National Assembly except that, in relation to a member other than the Chairperson or a member for the time acting in the
@@ -6577,8 +6150,9 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 (8) The emoluments and allowances payable to the  members  of  the  Commission  shall  be  determined  by the  Public  Accounts  Committee  in  consultation  with  the Commission.
 
-Functions of the Public Procurement Commission. | 212AA . (1) The functions of the Public Procurement Commission are to - (a) monitor and review the functioning
---- | ---
+Functions of the Public Procurement Commission. [5 of 2001] 212AA. (1) The functions of the Public Procurement Commission are to -
+
+(a) monitor and review the functioning
 
 L.R.O. 1/2012
 
@@ -6645,7 +6219,7 @@ Appeals. [5 of 2001] 212BB . (1) A decision of the Commission is subject to an a
 
 (2) A decision of the Tribunal is subject to an appeal to the Court of Appeal.
 
-Reports. [5 of 2001] 212CC. (1) As soon as practicable after the end of each year of its operation, the Commission shall submit to the National Assembly an annual report of the activities of the Commission during the preceding year and the report shall be tabled in the Assembly within thirty days of its submission if the Assembly is sitting, if not, at the first meeting of the Assembly thereafter.
+Reports. [5 of 2001] 212CC . (1) As soon as practicable after the end of each year of its operation, the Commission shall submit to the National Assembly an annual report of the activities of the Commission during the preceding year and the report shall be tabled in the Assembly within thirty days of its submission if the Assembly is sitting, if not, at the first meeting of the Assembly thereafter.
 
 (2)  The Chairperson of the Commission may at any time submit a special report to the National Assembly with respect to any aspect of the functions of the Commission which the Commission considers should, in the  national  interest,  be  brought  to  the  attention  of  the National Assembly.
 
@@ -6669,9 +6243,9 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 229
 
-Requirement to provide information. [5 of 2001]
+Guyana within forty-five days of the submission of such special report to the National Assembly.
 
-Guyana within forty-five days of the submission   of such special report to the National Assembly.
+Requirement to provide information. [5 of 2001]
 
 212DD . (1) The Commission may require any person, or any entity, including a ministry or government department, to provide it with information -
 
@@ -6679,11 +6253,11 @@ Guyana within forty-five days of the submission   of such special report to the 
 
 (b)      on  the  measures  that  have  been  or are being taken for the implementation  of  the  decisions  of, or the compliance with any provision relating to, the Commission.
 
-(2)  For  the  purposes  of  paragraph  (1),  Parliament may by law make provision for offences and penalties for non-compliance  with  any  requirement,  or  decision  of,  or provision relating to the Commission.
+(2) For the purposes of paragraph (1), Parliament may by law make provision for offences and penalties for non-compliance with any requirement, or decision of, or provision relating to the Commission.
 
 Public Procurement Commission Tribunal. [5 of 2001]
 
-212EE. Parliament may by law provide for the establishment of a Public Procurement Commission Tribunal and such law may make provision for -
+212EE . Parliament may  by law provide for the establishment of a Public Procurement Commission Tribunal and such law may make provision for -
 
 (a)       the Constitution of the Tribunal;
 
@@ -6775,7 +6349,7 @@ any  person  who  becomes  a  public officer  after  the commencement of this  C
 
 (b)    to  withhold,  reduce  in  amount  or suspend any such benefits that have been granted,
 
-those benefits shall be granted and may not be withheld, reduced in amount or suspended unless the appropriate Commission concurs in the refusal to grant the benefits or,
+those benefits shall be granted and may not be withheld, reduced  in  amount  or  suspended  unless  the  appropriate Commission concurs in the refusal to grant the benefits or, as  the  case  may  be,  in  the  decision  to  withhold  them, reduce them in amount or suspend them.
 
 L.R.O. 1/2012
 
@@ -6791,9 +6365,7 @@ Cap. 1:01
 
 233
 
-as the case may be, in the decision to withhold them, reduce them in amount or suspend them.
-
-(2) Where the amount of any benefits to which this article applies that may be granted to any person is not fixed by law, the amount of the benefits to be granted to him or her shall be the greatest amount for which he or she is eligible unless the appropriate Commission concurs in his or her being granted benefits of a smaller amount.
+(2)  Where the amount of any benefits to which this  article  applies  that  may  be  granted  to  any  person  is not fixed by law, the amount of the benefits to be granted to him or her shall be the greatest amount for which he or she is eligible unless the appropriate Commission concurs in his or her being granted benefits of a smaller amount.
 
 (3) The appropriate Commission shall not concur  under  paragraph  (1)  or  paragraph  (2)  in  action taken  on  the  ground  that  any  person  who  holds  or  has held  the  office  of  a  Judge  of  the  Supreme  Court  of Judicature, Director of Public Prosecutions, Auditor General  or  Commissioner  of  Police  has  been  guilty  of misbehaviour  unless  he  or  she  has  been  removed  from office by reason of such misbehaviour.
 
@@ -6831,7 +6403,7 @@ Commission;
 
 #### PUBLIC SERVICE APPELLATE TRIBUNAL
 
-215A.(1) Parliament may, by law, provide for the establishment of a Public Service Appellate Tribunal (hereafter in this article referred to as the “Tribunal”) consisting of a chairman and such number of other members, being not less than two, as may be provided by that law.
+215A .(1) Parliament may, by law, provide for the establishment of a Public Service Appellate Tribunal (hereafter in this article referred to as the “Tribunal”) consisting of a chairman and such number of other members, being not less than two, as may be provided by that law.
 
 (2) The chairman  of the Tribunal shall be appointed by the President by instrument in  writing and shall be a person who -
 
@@ -6951,7 +6523,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 Establishment of Consolidated Fund. | 216 . All revenues or other moneys raised or received by Guyana (not being revenues or other moneys that are payable, by or under an Act of Parliament, into some other fund established for any specific purpose or that may, by or under such an Act, be retained by the authority that received them for the purpose of defraying the expenses of that authority) shall be paid into and form one Consolidated Fund.
 --- | ---
-Withdrawals from Consolidated Fund or other public funds. | 217. (1) No moneys shall be withdrawn from the Consolidated Fund except - (a) to meet expenditure that is charged upon the Fund by this Constitution or by any Act of Parliament; or (b) where the issue of those moneys has been authorised by an Appropriation Act; or (c) where the issue of those moneys has been authorised under article 219.
+Withdrawals from Consolidated Fund or other public funds. | 217 . (1) No moneys shall be withdrawn from the Consolidated Fund except - (a) to meet expenditure that is charged upon the Fund by this Constitution or by any Act of Parliament; or (b) where the issue of those moneys has been authorised by an Appropriation Act; or (c) where the issue of those moneys has been authorised under article 219.
 (2) Where any moneys are charged by this Constitution or any Act of Parliament upon the Consolidated Fund or any other public fund, they shall be paid out of that fund by the Government of Guyana to the person or authority to whom payment is due. (3) No moneys shall be withdrawn from any public fund other than the Consolidated Fund unless the issue of those moneys has been authorised by or under an Act of Parliament.
 (4) Parliament may prescribe the manner in
 
@@ -6993,9 +6565,9 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 241
 
-Authorisation of expenditure in advance of appropriation. [6 of 2001]
-
 statement of excess showing the sums required or spent shall be laid before the Assembly by the Minister responsible for finance or any other Minister designated by the President.
+
+Authorisation of expenditure in advance of appropriation. [6 of 2001]
 
 219 . (1) Parliament  may  make  provision  under which, if the Appropriation Act in respect of any financial year has not come into operation by the beginning  of that financial    year,  the  Minister  responsible  for  finance  may authorise the withdrawal of moneys from the  Consolidate Fund  for  the  purpose  of meeting  expenditure necessary to carry on the services of the Government of Guyana until the  expiration of four months from the  beginning of that financial  year  or  the  coming  into  operation  of  the  Act, whichever is the earlier.
 
@@ -7015,7 +6587,7 @@ LAWS OF GUYANA
 
 responsible for finance or any other Minister designated by the President and, when the statement has been approved by the Assembly, that expenditure shall be included, under the appropriate heads, in the next Appropriation Bill.
 --- | ---
-Contingencies Fund. [6 of 2001] | 220.(1) Parliament may make provision for the establishment of a Contingencies Fund and for authorising the Minister responsible for finance to make advances from that Fund if he or she is satisfied that there is an urgent need for expenditure for which no other provision exists. (2) Where any advance is made from the Contingencies Fund a supplementary estimate shall, as soon as practicable be laid before the National Assembly by the Minister responsible for finance or any other Minister designated by the President for the purpose of authorising the replacement of the amount so advanced.
+Contingencies Fund. [6 of 2001] | 220 .(1) Parliament may make provision for the establishment of a Contingencies Fund and for authorising the Minister responsible for finance to make advances from that Fund if he or she is satisfied that there is an urgent need for expenditure for which no other provision exists. (2) Where any advance is made from the Contingencies Fund a supplementary estimate shall, as soon as practicable be laid before the National Assembly by the Minister responsible for finance or any other Minister designated by the President for the purpose of authorising the replacement of the amount so advanced.
 Public debt. | 221. The public debt of Guyana and service of that debt (including the interest on that debt, sinking funds payments and redemption moneys in respect of that debt and costs, charges and expenses of and incidental to the management of that debt) are hereby charged on the Consolidated Fund.
 Remuneration of holders of certain offices. | 222. (1) There shall be paid to the holders of the offices to which this article applies such salaries and such allowances as may be prescribed by or under any law or, in the case of the Clerk and Deputy Clerk of the National Assembly, as may be determined under article 158(4). (2) The salaries and allowances payable to the holders of the offices to which this article applies are hereby charged on the Consolidated Fund. (3) The salary and allowances payable to the
 
@@ -7033,13 +6605,12 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 holder of any office to which this article applies and his or her other terms of service shall not be altered to his or her disadvantage after his or her appointment and, for the purposes of this paragraph, in so far as the terms of service of any person depend upon the option of that person, the terms for which he or she opts shall be taken to be more advantageous to him or her than any other terms for which he or she might have opted.
 
-(4) This article applies to the offices of President, Speaker, Deputy Speaker, Clerk and Deputy Clerk of the National Assembly, any Judge of the Supreme Court of Judicature, members of the Elections Commission, the Judicial Service Commission, the Public Service Commission, the Teaching Service Commission or the Police Service Commission, the Ombudsman, the Director of Public Prosecutions, the Auditor General and the Commissioner of Police.
+(4) This article applies to the offices of President, Speaker, Deputy Speaker, Clerk and Deputy Clerk of the National  Assembly,  any  Judge  of  the  Supreme  Court  of Judicature,  members  of  the  Elections  Commission,  the Judicial Service Commission, the Public Service Commission,  the  Teaching  Service  Commission  or  the Police Service Commission, the Ombudsman, the Director of Public Prosecutions, the Auditor  General  and  the Commissioner of Police.
 
 Overarching clause on financial autonomy. [6 of 2001]
-
 Third Schedule
 
-222A. In order to assure the independence of the entities listed in the Third Schedule -
+222A . In order to assure the independence of the entities listed in the Third Schedule -
 
 (a)       the expenditure of each of the entities shall be financed as a direct charge  on  the  Consolidated  Fund, determined as a  lump  sum  by  way of  an  annual  subvention  approved by  the  National  Assembly  after  a review  and  approval  of  the  entity's annual budget as a part of the process  of  the  determination  of  the national budget;
 
@@ -7147,7 +6718,7 @@ inability as aforesaid or for misbehaviour.
 
 (b) that  tribunal  shall  enquire  into  the matter and report on the facts thereof to the President and recommend  to  him  or  her  whether the officer  ought  to  be  removed under this article.
 
-c. 19:03
+c 19:03
 
 (5) The provisions of the Commissions of Inquiry Act as in force immediately before the commencement of this Constitution shall, subject to the
 
@@ -7305,7 +6876,7 @@ Cap. 1:01
 
 “court” means any court of law in Guyana;
 
-“elected member of the National Assembly” means any person elected as a member of the National Assembly pursuant to the provisions of paragraph (2) of article 60 or article 160(2);
+“elected member of the National Assembly” means any person elected as a member of the National Assembly pursuant to the provisions of paragraph(2) of article 60 or article 160(2);
 
 “election” means an election of members to serve in the National Assembly or other elected body established by or under this Constitution, as the case may be;
 
@@ -7470,7 +7041,7 @@ Article 232
 ### FORM OF OATH
 #### OATH OF OFFICE
 
-I............................, do hereby solemnly declare that I will bear true faith and allegiance to the People of Guyana that I will faithfully execute the office of ..............................without fear or favour, affection or ill will and that in the execution of the functions of that office I will honour, uphold and preserve the Constitution of the Co-operative Republic of Guyana.
+I............................,  do  hereby  solemnly  declare  that  I  will bear true faith and allegiance to the People of Guyana that I will faithfully execute the office of ..............................without fear or favour, affection or ill will and that in the  execution  of  the  functions  of  that  office  I will honour, uphold and preserve the Constitution of the Co-operative Republic of Guyana.
 
 L.R.O. 1/2012
 
@@ -7524,15 +7095,15 @@ The white symbolises its waters and rivers potential.
 
 The golden arrow symbolises Guyana's mineral wealth and its forward thrust.
 
-The black border the endurance that will sustain the golden arrow's forward thrust into the future.
+The black border, the endurance that will sustain the golden arrow's forward thrust into the future.
 
 The red triangle represents the zeal and dynamic nature of the nation building that lies before this young and independent country.
 
-The Flag is designed to be of a proportion 3 × 5 on land and 1 × 2 at sea.
+The Flag is designed to be of a proportion 3 x 5 on land and 1 x 2 at sea.
 
 The colour proportions are:
 
-green 50% gold 24% white 6% red 16% and black 4%.
+green 50%; gold 24%; white 6.7%; and black 1%.
 
 L.R.O. 1/2012
 
@@ -7616,9 +7187,11 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 265
 
-LAWS OF GUYANA
-
 Article 222A
+
+Article 154A, 212O(1)
+
+LAWS OF GUYANA
 
 ## THIRD SCHEDULE
 
@@ -7640,8 +7213,6 @@ The Office of the Auditor General.
 
 __________________
 
-Article 154A, 212O(1)
-
 ## FOURTH SCHEDULE
 
 ### CONVENTIONS
@@ -7650,7 +7221,7 @@ Convention on the Rights of the Child.
 
 Convention on the Elimination of All Forms of Discrimination against Women.
 
-Convention on the Elimination of All Forms of Racial Discrimination.
+Convention  on  the  Elimination  of  All  Forms  of  Racial Discrimination.
 
 Convention Against Torture and Other Inhuman or Degrading Treatment or Punishment.
 
@@ -7690,9 +7261,9 @@ Cap. 1:01
 
 _________________
 
-Proc. 2/1976
-
 # CONSTITUTION OF THE ORDERS OF GUYANA
+
+Proc. 2/1976
 
 ## PROCLAMATION
 
@@ -7728,9 +7299,13 @@ L.R.O. 1/2012
 
 [[START OF PAGE 268]]
 
+268
+
+Cap. 1:01
+
 LAWS OF GUYANA
 
-268 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
+Constitution of the Co-operative Republic of Guyana
 
 [Subsidiary] Constitution of the Orders of Guyana
 
@@ -7808,9 +7383,13 @@ L.R.O. 1/2012
 
 [[START OF PAGE 270]]
 
+270
+
+Cap. 1:01
+
 LAWS OF GUYANA
 
-270 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
+Constitution of the Co-operative Republic of Guyana
 
 [Subsidiary] Constitution of the Orders of Guyana
 
@@ -7900,11 +7479,17 @@ L.R.O. 1/2012
 
 [[START OF PAGE 272]]
 
+272
+
+Cap. 1:01
+
+Constitution of the Co-operative Republic of Guyana
+
+[Subsidiary]
+
 LAWS OF GUYANA
 
-272 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
-
-[Subsidiary] Constitution of the Orders of Guyana
+Constitution of the Orders of Guyana
 
 regarded as a Member of the Order of Service for the purpose of any provision limiting the number of Members of the Order.
 
@@ -7912,15 +7497,15 @@ The Cacique's Crown of Honour. [Procl. 1/1978]
 
 19. (1) The Cacique's Crown of Honour shall subject to section 39 be the first grade of the Order of Service.
 
-(2) The Cacique's Crown of Honour may be awarded to –
+(2) The Cacique's Crown of Honour may be awarded to -
 
-(a) any citizen of Guyana who has either—
+(a) any citizen of Guyana who  has either-
 
-(i) rendered service of an exceptionally high quality beyond the normal call of duty in the public service, local government services, social and voluntary services, industry or trade unions, or in any other area of public service;
+(i) rendered service of an exceptionally high quality beyond the normal call of duty in the public service, local government services, social  and  voluntary  services, industry or trade unions, or in any other area of public service;
 
-(ii) achieved excellence of national or international standing and recognition in the arts, professions, sciences or sport or in any other area of activity;
+(ii) achieved excellence of national or international standing  and  recognition  in the  arts,  professions,  sciences or sport or in any other area of activity;
 
-(b) any institution, organisation, body corporate or group of persons deserving of official recognition for its contribution to the national economy through a substantial and sustained increase in production or in export earnings or for its achievement of a significant advance, leading to increased efficiency, in the application of
+(b) any  institution,  organisation,  body corporate or group of persons deserving  of  official  recognition  for its contribution to the national economy  through  a  substantial  and sustained  increase  in  production  or in export earnings or for its achievement of a significant advance, leading to increased efficiency, in the application of
 
 L.R.O. 1/2012
 
@@ -7934,7 +7519,9 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 273
 
-[Subsidiary] Constitution of the Orders of Guyana
+[Subsidiary]
+
+Constitution of the Orders of Guyana
 
 technology to a production or development process in industry or for any other significant achievement or contribution to national development.
 
@@ -7950,9 +7537,9 @@ The Golden Arrow of Achievement. [Procl. 1/1978]
 
 21. (1) The Golden Arrow of Achievement shall subject to section 39 be the second grade of the Order of Service.
 
-(2) The Golden Arrow of Achievement may be awarded to –
+(2) The  Golden  Arrow  of  Achievement  may  be awarded to -
 
-(a) any citizen of Guyana who has either—
+(a) any citizen of Guyana who  has either-
 
 L.R.O. 1/2012
 
@@ -7960,21 +7547,28 @@ L.R.O. 1/2012
 
 [[START OF PAGE 274]]
 
+Constitution of the Co-operative Republic of Guyana
+
+274
+
+Cap. 1:01
+
+[Subsidiary]
+
 LAWS OF GUYANA
 
-274 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
+Constitution of the  Orders of Guyana
 
-[Subsidiary] Constitution of the Orders of Guyana
+(i) performed an outstanding and  specific  act  of  service  or achievement of an exceptional nature; or
 
-(i) performed an outstanding and specific act of service or achievement of an exceptional nature; or
+(ii) given long and dedicated service  of  a  consistently  high standard in responsible offices, local government services,  social  and  voluntary services, industry or trade unions, or in any other area of public service.
 
-(ii) given long and dedicated service of a consistently high standard in responsible offices, local government services, social and voluntary services, industry or trade unions, or in any other area of public service.
+(b) any  institution,  organisation,  body corporate or group of persons deserving  of  official  recognition  for its contribution to the national economy  through  a  substantial  and sustained  increase  in  production  or in export earnings or for its achievement of a significant advance, leading to increased efficiency, in the application of technology to a production or development process in industry or for any other significant achievement or contribution to national development.
 
-(b) any institution, organisation, body corporate or group of persons deserving of official recognition for its contribution to the national economy through a substantial and sustained increase in production or in export earnings or for its achievement of a significant advance, leading to increased efficiency, in the application of technology to a production or development process in industry or for any other significant achievement or contribution to national development.
+Use of designation and decoration by person awarded the Golden Arrow of Achievement [Procl. 1/1978]
 
-Use of designation and decoration by person awarded the Golden Arrow of Achievement. [Procl. 1/1978]
-
-22. The award of the Golden Arrow of Achievement —
+22. The award of the Golden Arrow of Achievement
+—
 
 (a) to a person shall entitle him or her to have the suffix A.A. placed after his or her name and to wear as a decoration the insignia and ribbon prescribed for recipients of the Golden Arrow of Achievement in
 
@@ -8000,11 +7594,11 @@ The Medal of Service. [Procl. 1/1978]
 
 23. (1) The Medal of Service shall be the third grade of the Order of Service of Guyana.
 
-(2) The Medal of Service may be awarded to –
+(2) The Medal of Service may be awarded to -
 
-(a) any citizen who has given service of a special quality deserving of official recognition or has given not less than ten years' service with exceptional dedication in the public service, in local government services, in the voluntary and social services, in industry or the trade unions or in any other area of service to the community;
+(a)       any citizen who has given service of a special quality deserving of official  recognition  or  has  given not less than ten years' service with exceptional dedication in the public service, in local government services, in the voluntary and social  services,  in  industry  or  the trade unions or in any other area of service to the community;
 
-(b) any institution, organisation, body corporate or group of persons deserving of official recognition for its contribution to the national economy through a substantial and sustained increase in production or in export earnings or for its achievement of a significant
+(b) any  institution,  organisation,  body corporate or group of persons deserving  of  official  recognition  for its contribution to the national economy  through  a  substantial  and sustained  increase  in  production  or in export earnings or for its achievement of a significant
 
 L.R.O. 1/2012
 
@@ -8026,11 +7620,11 @@ Maximum number of members of the Order of Service. [Procl. 1/1980 4/1988]
 
 LAWS OF GUYANA
 
-Constitution of the Orders of Guyana
+Constitution of the  Orders of Guyana
 
 advance, leading to increased efficiency, in the application of technology to a production or development process in industry or for any other significant achievement or contribution to national development.
 
-24. The award of the Medal of Service—
+24. The award of the Medal of Service-
 
 (a) to  a  person  shall  entitle  him  or  her to  have  the  suffix  M.S.  placed  after his  or  her  name  and  to  wear    as  a decoration  the  insignia  and  ribbon prescribed for recipients of the Medal of Service in the rules of the Order;
 
@@ -8062,7 +7656,7 @@ Allocation of awards. [Procl. 5/1981]
 
 (c) the Medal of Service to a maximum of ten citizens of Guyana every year or such greater number as special circumstances may in his or her opinion require so long as vacancies exist.
 
-Award of a higher grade in the Order of Service. [Procl. 5 /1981]
+Award of a higher grade in the Order of Service. [Procl. 5/1981]
 
 27. Where a person who holds an award under section 18 (1), is given a higher award thereunder, he or she shall return his or her insignia and ribbon relating to the lower award to the Chancellor of the Order and shall wear the insignia and ribbon of the higher award and use the suffix of the higher award after his or her name.
 
@@ -8096,17 +7690,17 @@ the  Chancellor  of  the  Order  and  shall  wear  the  special insignia for bra
 
 (3) For  any  second  or  subsequent  act  of  bravery meriting similar recognition a person awarded the Cacique's Crown of Valour shall be awarded a bronze bar to be worn on the ribbon for each such act.
 
-(4) A person to whom the Cacique's Crown of Valour has been awarded shall be entitled to—
+(4) A  person  to  whom  the  Cacique's  Crown  of Valour has been awarded shall be entitled to-
 
-(a) have the C.C.V. placed after his or her name;
+(a)      have the C.C.V. placed after his or her name;
 
-(b) wear as a decoration the insignia and ribbon prescribed for the recipients of the Cacique's Crown of Valour in the rules of the Order.
+(b)     wear as a decoration the insignia and ribbon prescribed for the recipients of the Cacique's Crown of Valour in the rules of the Order.
 
-29. (1) The Golden Arrow of Courage shall be the second highest award for bravery.
+29. (1)  The  Golden  Arrow  of  Courage  shall  be  the second highest award for bravery.
 
-(2) For any second or subsequent act of bravery meriting similar recognition a person awarded the Golden Arrow of Courage shall be awarded a bronze bar to be worn on the ribbon for each such act.
+(2)  For  any  second  or  subsequent  act  of  bravery meriting similar recognition a person awarded the Golden Arrow  of  Courage  shall  be  awarded  a  bronze  bar  to  be worn on the ribbon for each such act.
 
-(3) A person to whom the Golden Arrow of Courage has been awarded is entitled to—
+(3)  A  person  to  whom  the  Golden  Arrow  of Courage has been awarded is entitled to-
 
 L.R.O. 1/2012
 
@@ -8167,8 +7761,10 @@ Constitution of the  Orders of Guyana
 Defence Force for gallantry in action or other distinguished service beyond the normal call of duty. (2) A person to whom the Military Service Medal has been awarded is entitled to- (a) have the suffix M.S.M. placed after his or her name; and (b) wear on appropriate occasions the insignia and ribbon prescribed in the rules of the Order.
 --- | ---
 The Efficiency Medal. | 33. The Efficiency Medal may be awarded in respect of military service to officers and other ranks of the Guyana Defence Force who complete not less than ten years efficient service.
-The Police, Prisons and Fire Services awards. | 34. The Disciplined Services Star for Distinguished Service or the Disciplined Services Medal for meritorious service or the Disciplined Services Medal for long service and good conduct may be awarded to a citizen in respect of service as a member of the Police Force or the Prisons Service or the Fire Brigade. The insignia and ribbons of these awards shall show the respective services in respect of which they were awarded.
-The Disciplined Services Star. | 35. (1) The Disciplined Services Star shall be the highest award of the State for distinguished service beyond the normal call of duty in the Police Force or the Prisons Service or the Fire Brigade. (2) A person to whom the Disciplined Services Star has been awarded is entitled to— (a) have the suffix D.S.S. placed after his or her name; and
+The Police, Prisons and Fire Services awards.
+
+34. The Disciplined Services Star for Distinguished Service or the Disciplined Services Medal for meritorious service or the Disciplined Services Medal for long service and good conduct may be awarded to a citizen in respect of service as a member of the Police Force or the Prisons Service or the Fire Brigade. The insignia and ribbons of these awards shall show the respective services in respect of which they were awarded.
+The Disciplined Services Star. | 35. (1) The Disciplined Services Star shall be the highest award of the State for distinguished service beyond the normal call of duty in the Police Force or the Prisons Service or the Fire Brigade. (2) A person to whom the Disciplined Services Star has been awarded is entitled to- (a) have the suffix D.S.S. placed
 
 L.R.O. 1/2012
 
@@ -8182,9 +7778,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 281
 
-[Subsidiary]
-
-Constitution of the Orders of Guyana
+[Subsidiary] Constitution of the Orders of Guyana
 
 (b) wear as a decoration on appropriate occasions the insignia and ribbon prescribed in the rules of the Order.
 
@@ -8236,7 +7830,7 @@ LAWS OF GUYANA
 
 Constitution of the  Orders of Guyana
 
-38. Any  citizen  of  another  country  who  has  rendered valuable service to Guyana or has performed an outstanding  and  specific  act  of  service  or  achievement  of an exceptional nature may be eligible for an award under section 18 on an honorary basis.
+38. Any citizen of another country who has rendered valuable service to Guyana or has performed an outstanding and specific act of service or achievement of an exceptional nature may be eligible for an award under section 18 on an honorary basis.
 
 39. Members of the Order of Service of Guyana shall rank among themselves in the following order—
 
@@ -8300,11 +7894,9 @@ L.R.O. 1/2012
 
 [[START OF PAGE 284]]
 
-284
+LAWS OF GUYANA
 
-Constitution of the Co-operative Republic of Guyana
-
-Cap. 1:01
+284 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
 [Subsidiary] Constitution of the Orders of Guyana
 
@@ -8330,8 +7922,6 @@ Functions of the Council.
 
 (a) consider nominations of citizens of Guyana made by ministries of the Government through the permanent secretaries, nominations made by any organisation approved by the Council and nominations initiated
 
-LAWS OF GUYANA
-
 L.R.O. 1/2012
 
 [[END OF PAGE 284]]
@@ -8344,9 +7934,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 285
 
-[Subsidiary]
-
-Constitution of the Orders of Guyana
+[Subsidiary] Constitution of the Orders of Guyana
 
 by members of the Council for—
 
@@ -8395,26 +7983,12 @@ recommendations are in order, may approve the recommendations made by the Counci
 Appointments and awards to be under Seal.
 
 50. All appointments to and awards within the three Orders, shall be made by instrument signed by the President and sealed with the Seal of Guyana and shall have effect from the date of affixing of the under Seal. Seal, unless another effective date is specified in the Instrument.
-
-Review of maximum number of members of the Order.
-
-51. The Cabinet may, on the recommendation of the Advisory Council tendered through the President, review the maximum number of members prescribed for any of the Orders.
-
-## TERMINATION OF MEMBERSHIP
-
-Termination of Membership of Orders.
-
-52. (1) A person shall cease to be a Member or an Honorary Member of an Order upon—
-
+Review of maximum number of members of the Order. | 51. The Cabinet may, on the recommendation of the Advisory Council tendered through the President, review the maximum number of members prescribed for any of the Orders.
+Termination of Membership of Orders. | 52. (1) A person shall cease to be a Member or an Honorary Member of an Order upon-
 (a) his or her death;
-
 (b) his or her resignation from the Order, which shall take effect from the date on which a resignation in writing is accepted by the President; or the revocation of his or her appointment or award by the President.
-
 (2) The President may revoke the appointment of any person who is a member of the Order of Excellence of Guyana or of the Order of Roraima of Guyana or the award of any person who is a member of the Order of Service of Guyana on the advice of the Prime Minister after consultation with the Advisory Council.
-
-Insignia and ribbon to be returned.
-
-53. Where a person ceases to be a Member or an Honorary Member of an Order under the provisions of
+Insignia and ribbon to be | 53. Where a person ceases to be a Member or an Honorary Member of an Order under the provisions of
 
 L.R.O. 1/2012
 
@@ -8468,9 +8042,13 @@ Cap. 1:01
 
 LAWS OF GUYANA
 
-[Subsidiary] Constitution of Orders of Guyana (Replacement of Medals, Miniatures and Ribbons) Rules
+[Subsidiary]
 
 R. 1/1981
+
+Constitution of the Co-operative Republic of Guyana
+
+Constitution of Orders of Guyana (Replacement of Medals, Miniatures and Ribbons) Rules
 
 # CONSTITUTION OF ORDERS OF GUYANA (REPLACEMENT OF MEDALS, MINIATURES AND RIBBONS) RULES
 
@@ -8520,13 +8098,13 @@ L.R.O. 1/2012
 
 [[START OF PAGE 290]]
 
-290
+LAWS OF GUYANA
 
-Cap. 1:01
-
-Constitution of the Co-operative Republic of Guyana
+290 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
 [Subsidiary] Constitution of Orders of Guyana (Replacement of Medals, Miniatures and Ribbons) Rules
+
+Public Service Commission Rules
 
 # PUBLIC SERVICE COMMISSION RULES
 
@@ -8590,7 +8168,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 291
 
-[Subsidiary]
+[Subsidiary] Public Service Commission Rules
 
 RULE
 
@@ -8648,23 +8226,17 @@ RULE
 
 45. Confidential reports on officer on probation.
 
-Public Service Commission Rules
-
 L.R.O. 1/2012
 
 [[END OF PAGE 291]]
 
 [[START OF PAGE 292]]
 
-292
-
-Cap. 1:01
-
 LAWS OF GUYANA
 
-Constitution of the Co-operative Republic of Guyana
+292 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-[Subsidiary]
+[Subsidiary] Public Service Commission Rules
 
 RULE
 
@@ -8710,8 +8282,6 @@ RULE
 
 63. Communication to determine date service terminated.
 
-Public Service Commission Rules
-
 L.R.O. 1/2012
 
 [[END OF PAGE 292]]
@@ -8724,9 +8294,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 293
 
-[Subsidiary]
-
-Public Service Commission Rules
+[Subsidiary] Public Service Commission Rules
 
 RULE
 
@@ -8790,15 +8358,11 @@ L.R.O. 1/2012
 
 [[START OF PAGE 294]]
 
-294
+LAWS OF GUYANA
 
-Cap. 1:01
+294 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
-Constitution of the Co-operative Republic of Guyana
-
-[Subsidiary]
-
-R 15/1/1999
+[Subsidiary] Public Service Commission Rules
 
 RULE
 
@@ -8828,6 +8392,8 @@ ____________________
 
 made under the Constitution of Guyana
 
+R 15/1/1999
+
 ### CHAPTER I
 
 Citation.
@@ -8839,10 +8405,6 @@ Interpretation.
 2. In these Rules, unless the context otherwise requires—
 
 “acting appointment” means the temporary appointment of an officer to a higher office whether that office is vacant or not;
-
-LAWS OF GUYANA
-
-Public Service Commission Rules
 
 L.R.O. 1/2012
 
@@ -8960,10 +8522,25 @@ LAWS OF GUYANA
 
 Public Service Commission Rules
 
-Procedure, quorum and voting. | 5. (1) The Chairman, or in his absence the Deputy Chairman or the member, who for the time being is appointed to act in the office of Chairman shall preside at meetings. (2) At any meeting of the Commission, the Chairman or the Deputy Chairman or the acting Chairman and two members shall constitute a quorum. (3) All questions for discussion at any meeting shall be decided by a majority of the votes of the members present. (4) The Chairman, or in his absence the Deputy Chairman or the member for the time being acting in the office of Chairman shall have an original vote, and in the event of any equality of votes, shall have as well a second or casting vote. (5) Where in respect of a decision in a disciplinary charge the votes are equally divided on the question as to whether a public officer should be removed from office, the Chairman, Deputy Chairman or other member who is for the time being acting in the office of Chairman shall not have a casting vote and the power to remove the public officer from officer shall not be exercised.
---- | ---
-Termination of service under any law. | 6. (1) Where under any law the services of a public officer can be terminated with redundancy or severance benefits, after any prescribed period of notice is given the officer, the recommendation of the Permanent Secretary or Head of Department for any such termination shall be forwarded to the Commission for its approval.
-Decisions other than at meetings. | (2) Notwithstanding rule 5 but subject to rule 6 (3) any question for decision by the Commission may, instead of being decided at a meeting of the Commission, be decided by circulation of the relevant papers to all members for them to
+Procedure, quorum and voting.
+
+5. (1) The Chairman, or in his absence the Deputy Chairman or the member, who for the time being is appointed to act in the office of Chairman shall preside at meetings.
+
+(2) At any meeting of the Commission, the Chairman or the Deputy Chairman or the acting Chairman and two members shall constitute a quorum.
+
+(3) All questions for discussion at any meeting shall be decided by a majority of the votes of the members present.
+
+(4) The Chairman, or in his absence the Deputy Chairman or the member for the time being acting in the office of Chairman shall have an original vote, and in the event of any equality of votes, shall have as well a second or casting vote.
+
+(5) Where in respect of a decision in a disciplinary charge the votes are equally divided on the question as to whether a public officer should be removed from office, the Chairman, Deputy Chairman or other member who is for the time being acting in the office of Chairman shall not have a casting vote and the power to remove the public officer from office shall not be exercised.
+
+Termination of service under any law.
+
+6. (1) Where under any law the services of a public officer can be terminated with redundancy or severance benefits, after any prescribed period of notice is given the officer, the recommendation of the Permanent Secretary or Head of Department for any such termination shall be forwarded to the Commission for its approval.
+
+Decisions other than at meetings.
+
+(2) Notwithstanding rule 5 but subject to rule 6 (3) any question for decision by the Commission may, instead of being decided at a meeting of the Commission, be decided by circulation of the relevant papers to all members for them to
 
 L.R.O. 1/2012
 
@@ -8981,9 +8558,9 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 Public Service Commission Rules
 
-express the views in writing and record their decision, and in such  case  the  decision  shall  be  in  accordance  with  the  view expressed by the majority of members.
+express the views in writing and record their decision, and in such case the decision shall be in accordance with the view expressed by the majority of members.
 
-(3) If any member  requires  that a matter or question being dealt with by circulation of the relevant papers shall  be  reserved  for  consideration  at  the  next  following meeting of the Commission no decision shall be made on that matter or question except at a meeting of the Commission.
+(3) If any member requires that a matter or question being dealt with by circulation of the relevant papers shall be reserved for consideration at the next following meeting of the Commission no decision shall be made on that matter or question except at a meeting of the Commission.
 
 Grant of leave of absence to members.
 
@@ -8997,13 +8574,13 @@ Duties of Secretary.
 
 9. It shall be the duty of the Secretary—
 
-(a) to submit, whether in writing or orally  matters  for  the  decision  of  the Commission;
+(a) to submit, whether in writing or orally matters for the decision of the Commission;
 
-(b) to notify members of the Commission as to the day, time and  place of meetings of the Commission;
+(b) to notify members of the Commission as to the day, time and place of meetings of the Commission;
 
 (c) to attend meeting of the Commission;
 
-(d) to ensure that all documents  and papers relating to any matter being or to  be  considered  by  the  Commission are made available to the Commission, and that all the decisions of the Commission are carried out;
+(d) to ensure that all documents and papers relating to any matter being or to be considered by the Commission are made available to the Commission, and that all the decisions of the Commission are carried out;
 
 L.R.O. 1/2012
 
@@ -9011,13 +8588,9 @@ L.R.O. 1/2012
 
 [[START OF PAGE 300]]
 
-300
-
-Cap. 1:01
-
 LAWS OF GUYANA
 
-Constitution of the Co-operative Republic of Guyana
+300 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
 
 [Subsidiary] Public Service Commission Rules
 
@@ -9057,8 +8630,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 [Subsidiary] | Public Service Commission Rules
 --- | ---
-meeting of the Commission for the purpose of assisting the Commission in its deliberation on such matter or question whether by furnishing written or oral information or otherwise.
-
+ | meeting of the Commission for the purpose of assisting the Commission in its deliberation on such matter or question whether by furnishing written or oral information or otherwise.
 Non-compliance. | 12. Any public officer who without reasonable excuse fails to appear before the Commission when required to do so, or who fails to comply with any reasonable request made by the Commission or with any requirement of these rules shall be guilty of misconduct.
 Certificates, testimonial and recommendations. | 13. (1) Members of the Commission shall not issue any written certificates, testimonial, recommendation or other document supporting the application of any person for appointment to an office in the public service. (2) Nothing in the preceding rule shall prohibit any person (other than members of the Commission) from giving a certificate, testimonial or recommendation to any applicant or candidate for any public office.
 Delegation of powers. | 14. Subject to article 201(2) of the Constitution and the Public Service Rules the Commission with the approval of the Prime Minister may delegate to a Permanent Secretary, Head of Department or the Clerk of the National Assembly any of the powers and functions of the Commission detailed hereunder.
@@ -9161,9 +8733,9 @@ Instruments of delegation to be published.
 
 Public Service Commission Rules
 
-material particular, or by reason, of any wilful omission of a material particular, shall be guilty of an offence under these rules  and  liable  to  disciplinary  action  under  section  18(2)  of the Termination of Employment and Severance Pay Act.
+material particular, or by reason of any wilful omission of a material particular, shall be guilty of an offence under these rules and liable to disciplinary action under section 18(2) of the Termination of Employment and Severance Pay Act.
 
-(2) Any  public  officer  who  otherwise  than  in  the course  of  his  duty,  directly  or  indirectly  by  himself  or  any other person in any matter whatsoever influence or attempts to influence any decision of the Commission or Chairman or any member thereof, shall be guilty of an offence under these rules  and liable  to  disciplinary  action  under  Section  18(2) of the Termination of Employment and Severance Pay Act.
+(2) Any public officer who otherwise than in the course of his duty, directly or indirectly by himself or any other person in any manner whatsoever influences or attempts to influence any decision of the Commission or Chairman or any member thereof, shall be guilty of an offence under these rules and liable to disciplinary action under Section 18(2) of the Termination of Employment and Severance Pay Act.
 
 17. (1) Whenever, the Commission delegates any of its powers  to  any  of  its  members  or  to  any  public  officer  in accordance with paragraph (2) of Article 201 of the Constitution, the Secretary shall cause notice of such delegation to be published in the Official Gazette .
 
@@ -9193,7 +8765,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 [Subsidiary]
 
-Reference of certain cases to Commission.
+- Reference of certain cases to Commission.
 
 Public Service Commission Rules
 
@@ -9311,7 +8883,7 @@ Ministry/Department.
 
 25. Where  in  the  opinion  of  the  Commission  after considering  any  recommendations  of  a  Permanent  Secretary or a Head of Department, it is impractical or not in the best interest  of  the  public  service  to  make  an  appointment  from within  the  particular  section,  the  Commission  may,  with  or without competition, appoint a person from within the public service  who  in  the  opinion  of  the  Commission,  is  the  most suitable and best qualified.
 
-26. The Commission may make an appointment to a public office without competition as may be recommended by a Permanent Secretary of Head of Department where -
+26. The Commission may make an appointment to a public office without competition as may be recommended by a Permanent Secretary or Head of Department where -
 
 (a) an appointment to the public office is urgently required; or
 
@@ -9331,10 +8903,8 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 [Subsidiary] | Public Service Commission Rules
 --- | ---
-who are qualified for the public office is limited; or
-
-(c) a person having special skill or knowledge is required for the public office; and the Commission is of the opinion that a competition is not practical or is not in the public interest.
-
+ | who are qualified for the public office is limited; or
+ | (c) a person having special skill or knowledge is required for the public office; and the Commission is of the opinion that a competition is not practical or is not in the public interest.
 Advertisements of vacancies. | 27. Where the Commission considers either that there is no suitable candidate already in the public service available for the filling of any vacancy or that having regard to qualifications, experience and merit, it would be advantageous and in the best interest of the public service that the services of a person not already in the public service be secured, the Commission may authorise the advertisement of such vacancy in the Official Gazette or the newspapers.
 Selection boards. | 28. (1) The Commission may from time to time appoint one or more Selection Boards to assist in the selection of candidates for appointment in the public service and the composition of any such Board and the form in which its reports are to be submitted shall be in the discretion of the Commission. (2) On consideration of any report of a selection Board, the Commission may, in its discretion, summon for interview any of the candidates recommended by such Board.
 Principles of selection for promotion. | 29. (1) In considering the eligibility of public officers for promotion, the Commission shall take into account the education qualifications, merit and ability, together with relative efficiency, and experience of such officers, and should two or more officers, be equally eligible for promotion the Commission shall give consideration to the relative seniority of the officers available for promotion.
@@ -9399,7 +8969,8 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 (k) his devotion to duty and general conduct.
 (4) In addition to the requirements prescribed in rules 29 (1), (2) and (3), the Commission shall consider any specifications that may be required from time to time for appointment to a particular office or any other matter which in the opinion of the Commission is relevant in assessing the eligibility of a public officer for promotion.
 Seniority list to be kept up to date. | 30. The Secretary shall keep proper and up-to-date staff list of all officers setting out their respective seniority in the several grades of the public service.
-Seniority determined by date of appointment. | 31. (1) The seniority of an officer shall be determined by the day of his appointment to the particular grade in which he is serving. The seniority of officers promoted to the same grade on the same date shall be determined by their seniority in their former grade. (2) Where officers have entered the public service by competitive examination and are appointed to the same grade with effect from the same date, the relevant seniority of such officers shall be determined according to their performance in such examination.
+Seniority determined by date of appointment. | 31. (1) The seniority of an officer shall be determined by the day of his appointment to the particular grade in which he is serving. The seniority of officers promoted to the same grade on the same date shall be determined by their seniority in their former grade.
+(2) Where officers have entered the public service by competitive examination and are appointed to the same grade with effect from the same date, the relevant seniority of such officers shall be determined according to their performance in such examination.
 (3) The seniority of an officer who voluntarily resigns from the public service and is subsequently re-
 
 L.R.O. 1/2012
@@ -9530,17 +9101,13 @@ Public Service Commission Rules
 
 (3) The Commission shall consider the representations of the officer and the comments, if any, of the Permanent Secretary or Head of Department and shall communicate its decision in writing to the Permanent Secretary or Head of Department and send a copy to the officer.
 
-Date of appointment.
-
-40. (1) The date of appointment to an office in a particular Ministry or Department within the public service shall normally be the date on which the officer assumes substantively the duties of the office to which he has been appointed.
+Date of appointment. | 40. (1) The date of appointment to an office in a particular Ministry or Department within the public service shall normally be the date on which the officer assumes substantively the duties of the office to which he has been appointed.
 
 (2) The date of appointment on promotion shall be such date as the Commission shall specify.
 
-(3) If  an  officer  is  selected  for  appointment  from outside  Guyana,  the  date  of  appointment  shall  be  the  date specified in the letter of appointment.
+(3) If an officer is selected for appointment from outside Guyana, the date of appointment shall be the date specified in the letter of appointment.
 
-Medical examination on appointment.
-
-41. (1) A person selected for appointment in the public service shall undergo a medical examination by a Government Medical Board and shall not be confirmed in his appointment unless and until he has been passed medically fit.
+Medical examination on appointment. | 41. (1) A person selected for appointment in the public service shall undergo a medical examination by a Government Medical Board and shall not be confirmed in his appointment unless and until he has been passed medically fit.
 
 (2) The Permanent Secretary or Head of Department to which an  appointee has  been  assigned,  shall make  appropriate  arrangements  for  him  to  be  medically
 
@@ -9568,7 +9135,7 @@ examined as soon as practicable after his assumption of duty.
 
 (3) The  Medical  Board  after  examining  the  new appointee  shall  submit  a  medical  report  on  the  prescribed form  to  the  Secretary  under  confidential  cover  as  soon  as practicable after the examination.
 
-(4) The Secretary shall notify the appointee whether the medical report is favourable or unfavourable and under  confidential  order  send  copies  of  the  report  to  the Permanent Secretary or Head of Department.
+(4) The Secretary shall notify the appointee whether the medical report is favourable or unfavourable and under confidential cover send copies of the report to the Permanent Secretary or Head of Department.
 
 (5) All communication  relating to the medical report  concerning  an  appointee  shall  be  strictly  confidential and any officer who communicated the details of any medical report to any other person except for the purpose of, and as provided for in this rule, shall be guilty of improper conduct.
 
@@ -9617,19 +9184,17 @@ Constitution of the Co-operative Republic of Guyana
 
 [Subsidiary]
 
+- Permanent Secretary to keep record.
+
 Public Service Commission Rules
 
-satisfied that the service of an officer on probation has been satisfactory, the Commission shall confirm his appointment with effect from the date of his appointment of probation.
+satisfied that the service of an officer on probation has been satisfactory, the Commission shall confirm his appointment with effect from the date of his appointment on probation.
 
-(2) If the Commission is not satisfied that the service of an officer on probation has been satisfactory, the Commission may extend the period of probation for a further period.
+(2) If  the  Commission  is  not  satisfied  that  the service  of  an  officer  on  probation  has  been  satisfactory,  the Commission may extend the period of probation for a further period.
 
-Permanent Secretary to keep record.
+48. A  Permanent  Secretary  or  Head  of  Department shall  keep  a  proper  record  of  every  officer  who  has  been appointed  on  probation  to  an  office  in his Ministry  or Department and send copies of the record to the Commission at regular intervals or at the request of the Commission.
 
-48. A Permanent Secretary or Head of Department shall keep a proper record of every officer who has been appointed on probation to an office in his Ministry or Department and send copies of the record to the Commission at regular intervals or at the request of the Commission.
-
-Commencing pay.
-
-49. The Commission may with the approval of the Permanent Secretary, Public Service Ministry authorise payment to an officer of a commencing pay higher than the minimum remuneration attaching to the office to which he is promoted appointed or transferred.
+Commencing pay. 49. The  Commission  may  with  the  approval  of  the Permanent Secretary, Public Service Ministry authorise payment to an officer of a commencing pay higher than the minimum remuneration attaching to the office to which he is promoted appointed or transferred.
 
 ### CHAPTER V STAFF APPRAISAL REPORTS
 
@@ -9657,11 +9222,11 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 Public Service Commission Rules
 
-(a) make  an  unbiased  assessment  of  the officer's performance and conduct over the past twelve months, and
+(a) make an unbiased assessment of the officer's performance and conduct over the past twelve months, and
 
 (b) give an indication of the future prospects of the officer.
 
-(4) A staff appraisal report shall be in such form as may  from  time  to  time  be  prescribed  and  shall  be  made  in respect of every officer  whether  he  holds  a  permanent appointment, an acting appointment, a temporary appointment or is employed for a specified period and shall be shown to the officer reported on before submission to the Commission.
+(4) A staff appraisal report shall be in such form as may from time to time be prescribed and shall be made in respect of every officer whether he holds a permanent appointment, an acting appointment, a temporary appointment or is employed for a specified period and shall be shown to the officer reported on before submission to the Commission.
 
 Officer to be informed of adverse report.
 
@@ -9709,9 +9274,9 @@ make representation in writing through the Permanent Secretary or Head of Depart
 
 53. (1) An officer who wishes to terminate his appointment  shall give to  the  Commission  through  the Permanent Secretary or Head of Department notice in writing in  duplicate  of  his  intention  at  least  two  weeks  where  the officer  has  been  employed  for  less  than  one  year  and  one month where the officer has been employed for one year or more  before  the  date  on  which  he  wishes  to  relinquish  his appointment.
 
-(2) Notwithstanding  any  rule  respecting  the  nonforfeiture  of  leave,  an  officer  who  fails  without  reasonable cause  to  comply  with  rule  53  (1)  shall  be  liable  to  have  all leave,  and  the  benefits  and  privileges  accruing  to  him  in respect of leave forfeited.
+(2) Notwithstanding any rule respecting the non-forfeiture of leave, an officer who fails without reasonable cause to comply with rule 53 (1) shall be liable to have all leave, and the benefits and privileges accruing to him in respect of leave forfeited.
 
-(3) An officer is not entitled to withdraw his notice of  termination  of  appointment,  after  such-notice,  becomes effective, but the Commission may accept a withdrawal of the notice if tendered in writing at any time, before the effective date of the termination of appointment.
+(3) An officer is not entitled to withdraw his notice of termination of appointment, after such notice, becomes effective, but the Commission may accept a withdrawal of the notice if tendered in writing at any time, before the effective date of the termination of appointment.
 
 54. An officer who is absent from duty without leave for any period and without any adequate excuse shall be presumed to have abandoned his office and may be dismissed by the Commission.
 
@@ -9769,23 +9334,23 @@ Public Service Commission Rules
 
 necessary;
 
-(ix) during or on the expiry of a probationary period;
+(ix) during  or  on  the  expiry of a probationary period;
 
 (x) by mutual consent;
 
 (xi) on the ground of redundancy;
 
-(xii) by service of notice, either by the Permanent Secretary or Head of Department on the officer, such notice being two weeks where the officer is employed for less than one year, and one month, where the officer is employed for one year or more.
+(xii) by service of notice, either  by  the  Permanent Secretary or Head of Department on the officer, such notice being two weeks where the officer  is  employed  for less  than  one  year,  and one month, where the officer  is  employed  for one year or more.
 
-(b) Where the officer is on contract his services shall be terminated in accordance with the terms of the contract.
+(b) Where  the  officer  is  on  contract  his services shall be terminated in accordance with the terms of the contract.
 
 Compulsory and voluntary retirement.
 
 56. An officer who is appointed to a permanent pensionable post -
 
-(a) shall retire on attaining the age of fifty-five years, unless his services are continued at the request of the Government.
+(a) shall  retire  on  attaining  the  age  of fifty-five years, unless his services are continued at the request of the Government.
 
-(b) may at any time after he attains the age of fifty years and before attaining
+(b) may  at  any  time  after  he  attains  the age of fifty years and before attaining
 
 L.R.O. 1/2012
 
@@ -9911,7 +9476,7 @@ grounds of ill-health, or in any case or class of case in which the Commission s
 
 (3) An  officer who  is required to undergo a medical examination shall submit himself to be examined by a  Medical  Board  at  such  time  and  place  as  the  Commission may direct.
 
-(4) Where an officer, through refusal or neglect to obtain  specialist  advice  or  to  obtain  treatment  when  so recommended by the Medical Board, falls sick or in consequence is unable to perform his duties, the Commission may direct that the period which he is , unable to perform his duties shall be counted as leave without pay.
+(4) Where an officer, through refusal or neglect to obtain specialist advice or to obtain treatment when so recommended by the Medical Board, falls sick or in consequence is unable to perform his duties, the Commission may direct that the period which he is unable to perform his duties shall be counted as leave without pay.
 
 (5) Whenever  it  is  considered  necessary  for  an officer to be examined with a view to ascertaining whether or not he should be retired on grounds  of ill-health, the Permanent  Secretary  or  Head  of  Department  shall  make  a recommendation to this effect to the Commission and where there  is  a  medical  record  of  the  officer,  the  record  shall  be made available to the Medical Board.
 
@@ -9945,7 +9510,7 @@ finding  of  the  Medical  Board's  report,  not  be  allowed  to remain  on  du
 
 (2) If the officer has no leave to his credit he shall be given one month's notice of termination of his appointment  on  medical  grounds  or  one  month's  salary  in lieu thereof.
 
-Commission to determine date service terminated. | 63. Where the appointment of an officer is terminated by any of the rules under Chapter VI, his service shall terminate on such date service terminated as the Commission determines and the question of his pension, gratuity or other allowance shall be dealt with in accordance with the
+Commission to determine date service terminated. | 63. Where the appointment of an officer is terminated by any of the rules under Chapter VI, his service shall terminate on such date as the Commission determines and the question of his pension, gratuity or other allowance shall be dealt with in accordance with the
 --- | ---
 c. 27:02 | provisions of the Pensions Act, or the provisions of the
 c. 96:01 | Termination of Employment and Severance Pay Act.
@@ -10102,7 +9667,7 @@ Refusal to make statement. 69. Any  officer  who  has  direct  knowledge  of  th
 
 (2) Any such witness who is a public officer shall be ordered to attend at the hearing of the case as well as any other witness shall be given due notice that his attendance is desired and of the time and place of the hearing.
 
-Procedure of disciplinary tribunal. 71. (1)  The  following  procedure  shall  apply  to  the hearing disciplinary by a disciplinary tribunal of a charge of alleged misconduct or indiscipline -
+Procedure of disciplinary tribunal. 71. (1) The following procedure shall apply to the hearing by a disciplinary tribunal of a charge of alleged misconduct or indiscipline -
 
 (a) The officer shall  be  summoned  to appear  to  the  hearing  and  shall  be given full opportunity to defend himself.
 
@@ -10166,15 +9731,15 @@ Public Service Commission Rules
 
 74. (1) During the hearing by the disciplinary tribunal, its  main  purpose  is  to  elicit  all  such  information  including documentary proof as in the circumstances may be considered  necessary  without  being  bound  by  the  rules  of evidence  in  civil  or  criminal  proceedings  provided  always that  if  any  witness  objects  to  answering  any  question  or  to producing any document on the ground that it will tend  to incriminate him or any other lawful ground, he shall not be required to answer such question or to produce such document, nor shall he be liable to any penalties for refusing to do so.
 
-(2) No  documentary  shall  be  used  against  the officer  unless  he  has  previously  been  supplied  with  a  copy thereof or given access thereto.
+(2) No documentary evidence shall be used against the officer unless he has previously been supplied with a copy thereof or given access thereto.
 
-75. (1) The report of the disciplinary tribunal including all relevant documents collected and proposed under rule 67 (1) shall within seven days of its receipt, be forwarded to the Secretary  by  Permanent  Secretary  or  Head  of  Department with his recommendation/s.
+75. (1) The report of the disciplinary tribunal including all relevant documents collected and produced under rule 67 (1) shall within seven days of its receipt, be forwarded to the Secretary by Permanent Secretary or Head of Department with his recommendation/s.
 
 (2) The disciplinary tribunal shall not disclose the contents  of  its  report  made  under  rule  67  (1)  to  the  officer charged,  or  to  any  officer  not  authorised  to  receive  such report.
 
 (3) An officer who contravenes Rule 75 (2) shall be guilty of improper conduct.
 
-76. The Commission shall examine the report and if it agrees with the findings that the charge/s have been proven, proceed to award penalty under examined by rule 79 (1) or, in the case, where in the finding/s of the disciplinary tribunal the charge/s,  have  not  been  proven  confirm  the  acquittal  of  the officer through his Permanent Secretary or Head of Department.
+76. The Commission shall examine the report and if it agrees with the findings that the charge/s have been proven, proceed to award penalty under rule 79 (1) or, in the case, where in the finding/s of the disciplinary tribunal the charge/s, have not been proven confirm the acquittal of the officer through his Permanent Secretary or Head of Department.
 
 L.R.O. 1/2012
 
@@ -10223,6 +9788,8 @@ L.R.O. 1/2012
 [[START OF PAGE 336]]
 
 336
+
+Cap. 1:01
 
 LAWS OF GUYANA
 
@@ -10344,7 +9911,7 @@ whether given orally or in writing by or on behalf of a Minister, Permanent Secr
 ### CHAPTER VIII CONDUCT
 
 General conduct. | 90. Members and officers of the Commission shall conduct themselves at all times in such manner so that the Commission is not brought into disrepute.
-
+--- | ---
 Duties of officer. | 91. (1) An officer of the Commission shall discharge the usual duties of his office and any other related duties that the Chairman or Deputy Chairman may, at any time, call upon him to discharge.
 
 (2) In the discharge of his duties, an officer shall be courteous and polite both to members and officers of the Commission and to members of the public.
@@ -10425,17 +9992,21 @@ L.R.O. 1/2012
 
 [[START OF PAGE 342]]
 
+342
+
+Cap. 1:01
+
 LAWS OF GUYANA
 
-342 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
+Constitution of the Co-operative Republic of Guyana
 
 [Subsidiary]
 
 Public Service Commission Rules
 
-### FORM II
-
 r. 3 (4)
+
+### FORM II
 
 #### OATH OR AFFIRMATION OF THE SECRETARY TO THE COMMISSION
 
@@ -10443,13 +10014,13 @@ I, ......................................................................... do 
 
 ________
 
-### FORM III
-
 r. 3 (4)
+
+### FORM III
 
 #### OATH OR AFFIRMATION OF MEMBERS OF STAFF OF THE COMMISSION
 
-I, ...................................................................do swear (solemnly declare and affirm) that I will faithfully execute the responsibilities and truly perform the duties assigned to me in the office, as a member of staff of the Public Service Commission to the best of my skill and ability and will not directly or indirectly reveal any unauthorised person or persons otherwise than in the course of duty. SO HELP ME GOD.
+I, ...................................................................do swear (solemnly declare and affirm) that I will faithfully execute the responsibilities and truly perform the duties assigned to me in the office, as a member of staff of the Public Service Commission to the best of my skill and ability and will not directly or indirectly reveal any information to any unauthorised person or persons otherwise than in the course of duty. SO HELP ME GOD.
 
 __________________
 
@@ -10527,7 +10098,11 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-344 Cap. 1:01 Constitution of the Co-operative Republic of Guyana
+344
+
+Cap. 1:01
+
+Constitution of the Co-operative Republic of Guyana
 
 [Subsidiary]
 
@@ -10671,6 +10246,8 @@ Constitution of the Co-operative Republic of Guyana
 
 [Subsidiary]
 
+Judicial Service Commission Rules
+
 RULE
 
 65. Doubt regarding computation of officer's retiring benefits.
@@ -10683,9 +10260,9 @@ RULE
 
 68. Conditions for disciplinary action.
 
-69. Dismissal for misconduct, subordination or gross inefficiency.
+69. Dismissal for misconduct, insubordination or gross inefficiency.
 
-70. Inefficiency and minor misconduct, procedures to be allowed.
+70. Inefficiency and minor misconduct, procedures to be followed.
 
 71. Proceedings in serious misconduct cases.
 
@@ -10713,8 +10290,6 @@ RULE
 
 83. Dismissal upon return of guilty verdict in criminal charge.
 
-Judicial Service Commission Rules
-
 L.R.O. 1/2012
 
 [[END OF PAGE 346]]
@@ -10728,6 +10303,8 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 347
 
 [Subsidiary]
+
+Judicial Service Commission Rules
 
 RULE
 
@@ -10747,23 +10324,21 @@ ____________________
 
 made under the Constitution of Guyana
 
-RULES made by the Judicial  Service  Commission  in exercise  of  the  powers  conferred  upon  it  by  the Constitution of Guyana.
+RULES made by the Judicial Service Commission in exercise of the powers conferred upon it by the Constitution of Guyana.
 
 ### PART I PRELIMINARY
 
-Short title. 1. These  Rules  may  be  cited  as  the  Judicial  Service Commission Rules.
+Short title. 1. These Rules may be cited as the Judicial Service Commission Rules.
 
 Interpretation. 2. (1) In these Rules, unless the context otherwise requires -
 
-'Commission' means the Judicial Service Commission;
+“Commission” means the Judicial Service Commission;
 
-'Constitution' means the Constitution of Guyana;
+“Constitution” means the Constitution of Guyana;
 
-'Secretary' means the Secretary of the Commission.
+“Secretary” means the Secretary of the Commission.
 
-'Judicial Service' means  the  service constituted  by the
-
-Judicial Service Commission Rules
+“Judicial Service” means the service constituted by the
 
 L.R.O. 1/2012
 
@@ -10791,9 +10366,9 @@ Judicial Service Commission Rules
 
 person appointed by the Judicial Service Commission.
 
-'member'  in  relation  to  Judicial  Service,  means  a  person employed in the Judicial Service, including a person employed under contract and a person on probation.
+“member” in relation to Judicial Service, means a person employed in the Judicial Service, including a person employed under contract and a person on probation.
 
-'officer' means a member of the Judicial Service.
+“officer” means a member of the Judicial Service.
 
 3. (1) Subject to Rule (2) and the Constitution, these Rules shall apply to all the members of the Judicial Service.
 
@@ -10805,11 +10380,11 @@ person appointed by the Judicial Service Commission.
 
 (2) An officer who is appointed under a contract for a specified period shall cease to be a member at the expiration of the period specified in the contract unless his/her contract is renewed or extended.
 
-5. Whenever  an  officer is on leave of absence pending relinquishment of his office -
+5. Whenever an officer is on leave of absence pending relinquishment of his office -
 
 (a) another person may be appointed by the Commission to that office; and
 
-(b) that  person  shall,  for  the  purpose  of any function of that office, be
+(b) that person shall, for the purpose of any function of that office, be
 
 L.R.O. 1/2012
 
@@ -10869,10 +10444,8 @@ Constitution of the Co-operative Republic of Guyana
 
 Cap. 1:01
 
-[Subsidiary]
-
-Judicial Service Commission Rules
-
+[Subsidiary] | Judicial Service Commission Rules
+--- | ---
 officers, clients and members of the general public with courtesy, respect, fairness and impartiality;
 
 (c) display a positive attitude and be pro-active in the exercise of their duties; seek to understand and to satisfy the real needs of members of the public;
@@ -10907,7 +10480,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 [Subsidiary]
 
-- Absence from work during duty hours.
+Absence from work during duty hours.
 
 Judicial Service Commission Rules
 
@@ -10919,19 +10492,17 @@ whenever the public interest so requires;
 
 - Performance appraisal report. 11. Every officer shall be appraised on a semi-annual basis  and  an  Appraisal  Report  shall  be  submitted  to  the Commission.
 
-Forbidden conduct by 12. (1) Subject to the Constitution, an officer is forbidden to:
+Forbidden conduct by officers. 12. (1) Subject to the Constitution, an officer is forbidden to:
 
-(a) engage  in any  private  work  for payment or gain which conflicts with his official functions;
+(a) engage in any private work for payment or gain which conflicts with his official functions;
 
-(b) use  information  and/or  any  material gained  from  his  official  position  for private gain;
+(b) use information and/or any material gained from his official position for private gain;
 
 (c) exploit the status and privilege of his position for private gain;
 
 (d) solicit and/or accept payment and/or gifts for the performance, or neglect, of his official duties;
 
 (e) conduct private business during working hours and/or on
-
-officers.
 
 L.R.O. 1/2012
 
@@ -10955,10 +10526,14 @@ Government property.
 
 Use of government vehicle. | 13. Officers are prohibited from using Government vehicles for private purposes.
 --- | ---
-Officers and the media. | 14. (1) Officers are forbidden to be editors of newspapers or to take part in the management of newspapers, directly or indirectly. They may not contribute to any media in Guyana or elsewhere on questions which may be regarded as party-politics, though they may contribute articles upon subjects of general interest, not inconsistent with their official duties/functions. (2) An officer, whether on duty or on leave, shall not allow himself to be interviewed on matters affecting the national security of Guyana. (3) Statements to the media involving public policy shall not be made by officers without prior clearance
+Officers and the media. | 14. (1) Officers are forbidden to be editors of newspapers or to take part in the management of newspapers, directly or indirectly. They may not contribute to any media in Guyana or elsewhere on questions which may be regarded as party-politics, though they may contribute articles upon subjects of general interest, not inconsistent with their official duties/functions.
+
+(2) An officer, whether on duty or on leave, shall not allow himself to be interviewed on matters affecting the national security of Guyana.
+
+(3) Statements to the media involving public policy shall not be made by officers without prior clearance from the Commission.
 Disclosure of confidential documents. | 15. Subject to the Constitution or any Act, an officer shall not, without the approval of the Commission, make public or communicate to the media or cause to be made public or so communicate to the media or to unauthorized individuals any documents, papers or information which may come into his possession in his official capacity, or make private copies of any such documents or papers.
 Access to personal records. | 16. Officers shall have access to records personally relating to themselves with the prior permission of the Commission, in the presence of officers at the Office of the Commission.
-Representa- tion from officers to | 17. (1) Officers who may wish to make a representation regarding matters affecting their conditions
+Representation from officers to | 17. (1) Officers who may wish to make a representation regarding matters affecting their conditions
 
 L.R.O. 1/2012
 
@@ -10976,7 +10551,7 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 Judicial Service Commission Rules
 
-members of Commission. of service should do so personally to the Commission. Upon receipt of the representation, the Commission shall -
+members of Commission. | of service should do so personally to the Commission. Upon receipt of the representation, the Commission shall -
 
 (a) respond within seven days, after date of  receipt,  where  the  matter  can  be dealt with internally; or
 
@@ -11009,7 +10584,7 @@ Constitution of the Co-operative Republic of Guyana
 [Subsidiary] | Judicial Service Commission Rules
 --- | ---
 from work. | enactment, which makes provision for the determination of such disputes.
-Strikes by officers. | 20. (1) Without prejudice to the laws relating to essential services, if a grievance leads to a strike, salaries and wages of officers who go on strike shall not be paid for any day or portion of a day during which they are on strike. (2) Without prejudice to the generality of sub- rule (1) above -
+Strikes by officers. | 20. (1) Without prejudice to the laws relating to essential services, if a grievance leads to a strike, salaries and wages of officers who go on strike shall not be paid for any day or portion of a day during which they are on strike. (2) Without prejudice to the generality of sub-rule (1) above -
 (a) if an officer merely reports for work on any day of a strike but does not work for the day, he shall not receive pay in respect of that day;
 (b) if an officer works for only a part of a day of a strike, he shall not be paid for that period of the day during which his services were withheld.
 (3) Any officer who engages in a strike not arising out of or not resulting from an industrial dispute with the employer, renders himself liable to disciplinary action, including dismissal.
@@ -11113,7 +10688,7 @@ Compulsory leave. 29. When  an  officer is about to accumulate his maximum  leav
 
 Extension of leave. 30. An officer on leave seeking an extension of such leave  shall,  in  the  absence  of  exceptional  circumstances, apply  in  sufficient  time  to  allow  a  reply  to  be  received before the expiration of the original period of leave granted.
 
-Leave not to entail extra staff. 31. The Commission is expected to make every effort to arrange for performance of an officer's duties while that without extra cost to the Judicial Service. officer is  on  leave for  fourteen  (14)  consecutive  days
+Leave not to entail extra staff. 31. The Commission is expected to make every effort to arrange for performance of an officer's duties while that officer is on leave for fourteen (14) consecutive days without extra cost to the Judicial Service.
 
 L.R.O. 1/2012
 
@@ -11155,8 +10730,16 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 [Subsidiary] | Judicial Service Commission Rules
 --- | ---
-vacation leave. | utilise vacation leave. (2) If the officer has exhausted all vacation leave,
-Extended sick leave. | 38. (1)Should the protracted illness of the officer necessitate his continuous absence beyond his normal sick leave eligibility, application accompanied by the relevant medical evidence, shall be made to the Commission, which may grant extended sick leave up to a maximum of 180 days on full pay. (2) If the illness of the officer exceeds 180 days, the question on his fitness for further service shall be taken up with the Chief Medical Officer, Ministry of Health. On substantial evidence from a Medical Board that full recovery with return to duty is probable, the officer may be granted extension of sick leave up to a further 180 days on half pay.
+vacation leave. | utilise vacation leave.
+
+(2) If the officer has exhausted all vacation leave, the leave shall be treated as leave without pay.
+Extended sick leave. | 38. (1) Should the protracted illness of the officer necessitate his continuous absence beyond his normal sick leave eligibility, application accompanied by the relevant medical evidence, shall be made to the Commission, which may grant extended sick leave up to a maximum of 180 days on full pay.
+
+(2) If the illness of the officer exceeds 180 days, the question on his fitness for further service shall be taken up with the Chief Medical Officer, Ministry of Health. On substantial evidence from a Medical Board that full recovery with return to duty is probable, the officer may be granted extension of sick leave up to a further 180 days on half pay.
+
+(3) Sick leave applied for under sub-rule (1) above shall be granted only on receipt of a prognosis by the Chief Medical Officer, of the officer's eventual recovery and return to duty.
+
+(4) If the illness of the officer exceeds 360 days, the officer shall be retired from the Judicial Service on medical grounds.
 Officers frequently absent on sick leave may appear before a Medical Board. | 39. Where an officer has been frequently absent on sick leave, the Commission may, at any time, request the Chief Medical Officer to advise on the nature of the officer's illness or whether the officer should appear before a Medical Board to consider his fitness to continue in the Judicial Service.
 Submission to medical examination. | 40. An officer who is required to undergo a medical examination shall submit himself to be examined by a Medical Board at such time and place as directed.
 
@@ -11180,9 +10763,18 @@ Judicial Service Commission Rules
 --- | ---
 Sick leave during vacation leave. | 41. If an officer falls ill while on vacation leave, and he produces satisfactory medical evidence to his Head of Department, he shall be credited with vacation leave equivalent to the number of days not utilised as vacation leave due to illness.
 Maternity leave. | 42. (1)All female officers are entitled to the grant of maternity leave.
-(2) All applications for maternity leave shall be - (a) submitted at least ten weeks prior to the officer's expected date of delivery; and (b) accompanied by the relevant N.I.S.
-(3) An officer who fails to observe the requirement of this Rule and who applies for maternity leave after the date of delivery shall be subject to disciplinary action. (4) An officer may take vacation leave which is due to her at the expiration of her maternity leave. (5) Maternity leave shall not be considered as and sick leave shall not be granted as a substitute leave. (6) Sick leave shall be granted to run with maternity leave on the basis of a medical certificate,
-sick leave for maternity consecutive
+(2) All applications for maternity leave shall be -
+
+(a) submitted at least ten weeks prior to the officer's expected date of delivery; and
+
+(b) accompanied by the relevant N.I.S. forms.
+(3) An officer who fails to observe the requirement of this Rule and who applies for maternity leave after the date of delivery shall be subject to disciplinary action.
+
+(4) An officer may take vacation leave which is due to her at the expiration of her maternity leave.
+
+(5) Maternity leave shall not be considered as sick leave and sick leave shall not be granted as a substitute for maternity leave.
+
+(6) Sick leave shall be granted to run consecutive with maternity leave on the basis of a medical certificate, justifying sick leave;
 Maternity leave entitlement. | 43. Subject to any written law, an officer is entitled to a total of thirteen (13) weeks maternity leave which shall be on full pay. Maternity leave shall be granted as follows -
 (a) six weeks before expected date of
 
@@ -11203,11 +10795,22 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 Judicial Service Commission Rules
 
 confinement on full pay;
+
+(b) six weeks after the expected date of confinement on full pay;
+
+(c) the six weeks before and the six weeks after the date of delivery shall be mandatory.
 --- | ---
-Special leave. | 44. (1) Special leave on full salary up to one month in any one year, may be granted by the Commission for purposes as it may deem to be in the public interest such as - (a) to enable officers who are selected by the proper authorities to represent Guyana in international sporting and cultural events; and
-(b) to enable officers selected by Associations approved by
-the Commission to attend training courses or conferences.
-Compassion- ate leave. | 45. The Commission shall grant compassionate leave to an officer up to three days on the death of an immediate family member (i.e. mother, father, spouse, children, brother or sister). Such leave shall not be charged against an officer's earned leave.
+Special leave. | 44. (1) Special leave on full salary up to one month in any one year, may be granted by the Commission for purposes as it may deem to be in the public interest such as -
+
+(a) to enable officers who are selected by the proper authorities to represent Guyana in international sporting and cultural events; and
+
+(b) to enable officers selected by Associations approved by the Commission to attend training courses or conferences.
+
+(2) The Commission may grant special leave in other instances to enable officers to do such things which are considered to be in the public and national interests.
+
+(3) The Commission may grant time off to an officer who is appointed by an approved Association to represent its interest.
+
+Compassionate leave. | 45. The Commission shall grant compassionate leave to an officer up to three days on the death of an immediate family member (i.e. mother, father, spouse, children, brother or sister). Such leave shall not be charged against an officer's earned leave.
 
 L.R.O. 1/2012
 
@@ -11233,7 +10836,7 @@ Training policy for the Judicial Service. | 46. The general direction of trainin
 --- | ---
 Authority for the grant of study leave. | 47. (1) The Commission may grant study leave to an officer where the training is considered to be of benefit to the Judicial Service. (2) Only officers confirmed in their appointment shall be considered for study leave.
 Minimum period of service for study leave. | 48. Officers who have served the Judicial Service for a period of less than two (2) years shall not normally be eligible for the grant of study leave.
-Non- approval of study leave. | 49. Study leave shall not be approved to an officer to pursue training at a level equivalent to a qualification already possessed by the officer.
+Non-approval of study leave. | 49. Study leave shall not be approved to an officer to pursue training at a level equivalent to a qualification already possessed by the officer.
 Study leave on full pay. | 50. An officer may be granted study leave on full pay where the course of training is :-
 (a) approved by the Commission;
 (b) on a full time basis; and
@@ -11256,9 +10859,9 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 Judicial Service Commission Rules
 
-- No bond shall be required in the case of:
+(2) No bond shall be required in the case of:
 
-(a) training  for  less  than  six  calendar months durations;
+(a) training for less than six calendar months durations;
 
 (b) grant of study leave without pay.
 
@@ -11276,11 +10879,9 @@ Duration of course
 
 (e) three  academic  years  to  less  than four academic years ……………. four calendar  years
 
-(f) four  academic  years  and  over  …… length of study computed calendar years.
+(f) four academic years and over …… length of study computed in calendar years.
 
-- The  amount  of  an  officer's  bond  shall  be  the estimated  cost  of  his  training,  including  the  salary  and
-
-in
+(4) The amount of an officer's bond shall be the estimated cost of his training, including the salary and
 
 L.R.O. 1/2012
 
@@ -11336,27 +10937,25 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 [Subsidiary]
 
-Study leave for more than two days.
-
 Judicial Service Commission Rules
 
-based  primarily  on  the  needs  of  the  Judicial  Service.  Such approval is subject to the exigencies of the Judicial Service.
+based primarily on the needs of the Judicial Service. Such approval is subject to the exigencies of the Judicial Service.
 
-(2) Such leave shall not be considered as 'service' for pension purposes.
+(2) Such leave shall not be considered as “service” for pension purposes.
 
-Part-time study leave up to two days per week. 55. Where an officer wishes to undertake an approved course of study at an approved tertiary institution that  would  require  his  absence  from  duty,  the  following shall apply -
+Part-time study leave up to two days per week. 55. Where an officer wishes to undertake an approved course of study at an approved tertiary institution that would require his absence from duty, the following shall apply -
 
 (a) the officer shall forward his application to the Commission a letter of acceptance from the institution of learning;
 
-(b) study  leave  may  be  granted  only  in cases where -
+(b) study leave may be granted only in cases where -
 
-(i)       the  course  of  study  would  be of benefit to the Judicial Service; and
+(i) the course of study would be of benefit to the Judicial Service; and
 
-(ii)      evening or weekend  classes are not available for the particular course.
+(ii) evening or weekend classes are not available for the particular course.
 
-56. Where an officer wishes to undertake a course of study at an approved tertiary institution that would require his absence from duty for three or more days per week, the officer shall be required to apply for full time study leave.
+Study leave for more than two days. 56. Where an officer wishes to undertake a course of study at an approved tertiary institution that would require his absence from duty for three or more days per week, the officer shall be required to apply for full time study leave.
 
-- Annual report from institution of learning. 57. An annual report from the institution of learning shall  be  submitted  by  an  officer  on  study  leave  to  ensure that the officer is making good use of the leave granted to him  is  pursuing  with  success  the  course  of  training  for which leave has been approved.
+Annual report from institution of learning. 57. An annual report from the institution of learning shall be submitted by an officer on study leave to ensure that the officer is making good use of the leave granted to him is pursuing with success the course of training for which leave has been approved.
 
 L.R.O. 1/2012
 
@@ -11376,9 +10975,17 @@ Cap. 1:01
 
 Judicial Service Commission Rules
 --- | ---
-Obligation while on training. | 58. (1) Officers to whom study leave has been approved shall be required to - (a) devote their whole time to the course of training; (b) sit for any examination and to write such papers or reports as may be required by the training authorities; and (c) resume duty or take up employment in the Judicial Service immediately after the completion of the course of training, or at the expiry of any
+Obligation while on training. | 58. (1) Officers to whom study leave has been approved shall be required to -
+
+(a) devote their whole time to the course of training;
+
+(b) sit for any examination and to write such papers or reports as may be required by the training authorities; and
+
+(c) resume duty or take up employment in the Judicial Service immediately after the completion of the course of training, or at the expiry of any vacation or other leave which may have been granted to them.
+
+(2) Officers who complete their course of training prior to the expected completion date shall resume duty immediately, providing vacation or other leave has not been approved, failing which they will be subject to disciplinary action.
 Officer to submit copies of final reports, etc. | 59. (1) Every officer shall, within, a reasonable time after successful completion of his course of study, submit a copy of his final report, dissertation, thesis, etc. to the Secretary. The reasonable cost for said copies shall be borne by the Commission. (2) Every officer who has been the recipient of formal training may be requested to disseminate the knowledge and skills acquired.
-Suspension or termination of study | 60. The Commission may suspend or terminate study leave if -
+Suspension or termination of study leave. | 60. The Commission may suspend or terminate study leave if -
 
 L.R.O. 1/2012
 
@@ -11394,9 +11001,21 @@ Constitution of the Co-operative Republic of Guyana Cap. 1:01
 
 [Subsidiary] | Judicial Service Commission Rules
 --- | ---
+(a) report of the officer's work or conduct on the course is unsatisfactory;
+
+(b) the officer, without reasonable excuse, fails to pass a prescribed examination within the time fixed by the institution which he is attending;
+
+(c) the officer engages in any activity which is detrimental to his progress in the course of study undertaken by him;
+
+(d) the officer becomes unfit to complete his studies owing to illness;
+
+(e) the officer fails to reply to correspondence or to keep the Commission informed of his whereabouts; and
+
+(f) the officer is convicted on criminal charges, in or outside Guyana.
+
 Training awards. | 61. Offers of training awards from international or other organisations shall be dealt with by the Commission and not on an ad hoc or individual basis.
 Penalty for termination. | 62. An officer who prematurely terminates his course of training without prior approval from the Commission shall be required to pay the Commission a sum of money equal to the commitments he received prior to the premature termination, and any other amounts actually spent by the Commission in connection with his training.
-Non- refundable | 63. An officer who on his own applies for and is granted study leave to pursue a self-funded course of study,
+Non-refundable | 63. An officer who on his own applies for and is granted study leave to pursue a self-funded course of study,
 
 L.R.O. 1/2012
 
@@ -11634,11 +11253,14 @@ Judicial Service Commission Rules
 
 Officer to be informed of right of appeal. | 77. The Judicial Service Commission shall, as soon as possible, inform the officer in writing of its findings, the penalty imposed on him or her, of his right to appeal the determination to the High Court and of the time required for making such application.
 --- | ---
-Effect of appeal on peration of penalty. | 78. Where the officer lodges an appeal with the High Court within the specified period, the penalty shall not take effect pending the determination of the appeal by the High Court.
+Effect of appeal on operation of penalty. | 78. Where the officer lodges an appeal with the High Court within the specified period, the penalty shall not take effect pending the determination of the appeal by the High Court.
 Retirement in the Public Interest. | 79. If the disciplinary proceedings disclose grounds for so doing, the Commission may require the officer to retire in the public interest.
 Suspension. | 80. (1) Where the Commission is informed of an alleged act of misconduct by an officer and has the reason to believe that the public interest or the reputation of the Judicial Service requires it, the Commission may suspend the officer on full pay, from duty by notice in writing until further notice.
-(2) The effective date of suspension is the date specified in the notice. (3) An officer who is suspended shall, cease to report for duty immediately on receipt of the notice. (4) The Commission shall review the alleged of misconduct resulting in the suspension and may disciplinary proceedings accordingly.
-act institute
+(2) The effective date of suspension is the date specified in the notice.
+
+(3) An officer who is suspended shall, cease to report for duty immediately on receipt of the notice.
+
+(4) The Commission shall review the alleged act of misconduct resulting in the suspension and may institute disciplinary proceedings accordingly.
 (5) An officer who is suspended from duty shall make himself available to the Commission whenever required until the conclusion of the matter.
 
 L.R.O. 1/2012
@@ -11665,7 +11287,7 @@ Dismissal upon return of guilty verdict in criminal charge.
 
 Judicial Service Commission Rules
 
-- Subject  to  sub-rule  (3),  where  disciplinary proceedings are not instituted within sixty (60) days of the date  of  suspension,  the  officer  shall  resume  duty  and  the suspension shall be set aside and the officer shall be treated for all intents and purposes as if the suspension had  never occurred.
+(6) Subject to sub-rule (3), where disciplinary proceedings are not instituted within sixty (60) days of the date of suspension, the officer shall resume duty and the suspension shall be set aside and the officer shall be treated for all intents and purposes as if the suspension had never occurred.
 
 81. (1) The Judicial Service Commission may institute disciplinary  proceedings  against  an  officer  who  has  been criminally charged.
 
@@ -11681,7 +11303,7 @@ Judicial Service Commission Rules
 
 84. (1)  Where  an  officer  pleads  guilty  to  a  criminal charge or a criminal charge is proved against an officer, the Commission shall consider the court's finding and request the  officer in  writing  to  show  cause  why he  should not be dismissed.
 
-- The  Commission,  after  hearing  the  officer,
+(2) The Commission, after hearing the officer,
 
 L.R.O. 1/2012
 
