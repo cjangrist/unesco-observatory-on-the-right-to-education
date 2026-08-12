@@ -44,7 +44,7 @@ Se ha  cumplido con lo que primero fue  una  fuerte propuesta prog
 
 En pocas semanas iniciaremos la implementación de los principales componentes del Plan de Equidad que materializa y profundiza la estrategia de superación de la pobreza y reducción de la desigualdad social como condición de un país integrado e incluyente.
 
-Ahora nos abocamos a la transformación del sistema de protección social, atendiendo a las limitaciones que aún impiden el pleno ejercicio de los derechos de todas y todos los ciudadanos, pero concientes de las oportunidades que tenemos para ir a fondo en el  despliegue  de  políticas  sociales  universales  y  estructurales  expresadas  en  el conjunto de reformas sociales y económicas en curso; la puesta en marcha del nuevo sistema  nacional  integrado  de  salud,  la  reforma  educativa,    el  plan  de  igualdad  de oportunidades  y  derechos  de  las  mujeres,  las  políticas  activas  de  empleo,  el  plan quinquenal de vivienda, el nuevo sistema tributario vigente, entre otros aspectos que manifiestan el carácter transformador y el sentido progresista del Gobierno Nacional.
+Ahora nos abocamos a la transformación del sistema de protección social, atendiendo a las limitaciones que aún impiden el pleno ejercicio de los derechos de todas y todos
 
 5
 
@@ -52,7 +52,9 @@ Ahora nos abocamos a la transformación del sistema de protección soc
 
 [[START OF PAGE 4]]
 
-Paralelamente,  y como parte integrante del Plan de Equidad,  se renovará  la Red de Asistencia  e  Integración  Social,  modificando  el  régimen  de  asignaciones  familiares; asegurando la protección social a los adultos mayores en situación de extrema pobreza y apuntando a mediano plazo a reformar el sistema de las pensiones a la vejez;  se ampliará la cobertura de educación inicial y mejorará la calidad de la educación pública en todos sus niveles.
+los ciudadanos, pero concientes de las oportunidades que tenemos para ir a fondo en el despliegue de políticas sociales universales y estructurales expresadas en el conjunto de reformas sociales y económicas en curso; la puesta en marcha del nuevo sistema nacional integrado de salud, la reforma educativa, el plan de igualdad de oportunidades y derechos de las mujeres, las políticas activas de empleo, el plan quinquenal de vivienda, el nuevo sistema tributario vigente, entre otros aspectos que manifiestan el carácter transformador y el sentido progresista del Gobierno Nacional.
+
+Paralelamente, y como parte integrante del Plan de Equidad, se renovará la Red de Asistencia e Integración Social, modificando el régimen de asignaciones familiares; asegurando la protección social a los adultos mayores en situación de extrema pobreza y apuntando a mediano plazo a reformar el sistema de las pensiones a la vejez; se ampliará la cobertura de educación inicial y mejorará la calidad de la educación pública en todos sus niveles.
 
 Estas  y  otras  muchas  medidas  y  líneas  estratégicas  que  el  presente  documento explicita, dan cuenta de una nueva etapa en la construcción del Uruguay que sus hijas e hijos  deseamos, merecemos y podemos tener.
 
@@ -69,6 +71,28 @@ Presidente de la República Oriental del Uruguay
 # PLAN DE EQUIDAD
 
 ## SUMARIO
+
+I. Notas introductorias acerca del proceso de diseño 8
+II. Consideraciones acerca del enfoque conceptual – normativo. 9
+III. Objetivos Fundamentales y criterios orientadores. 17
+IV: Los Componentes del Plan de Equidad 28
+(i) Reforma Tributaria 28
+(ii) La política de salud 29
+(iii) Políticas de empleo 30
+(iv) Política de vivienda. 30
+(v) La política educativa 31
+(vi) Plan de Igualdad de Oportunidades y Derechos 31
+IV.2.1 Prestaciones sociales no contributivas
+(transferencias monetarias). 32
+IV.2.2 Políticas de educación y atención a la infancia y adolescencia 37
+IV.2.3 Trabajo Promovido 52
+IV.2.4 Políticas de seguridad alimentaria 55
+IV.2.5 Otras Acciones de Integración Social 58
+a) Discapacidad
+b) Promoción de Emprendimientos Productivos
+c) Programas de Inclusión Social URUGUAY INTEGRA
+V. Transición corta, transición larga 59
+VI. ANEXOS 60
 
 7
 
@@ -100,7 +124,7 @@ Este documento recoge una serie de definiciones y decisiones de distin
 
 el plan nacional de igualdad de oportunidades y derechos. Y por otro, los Componentes  específicos  que  conforman  una  Red  moderna  de  Asistencia  e Integración  Social  que  se  estructuran  en  un  conjunto  de  medidas  y  estrategias  de acción, de las que se presentan, en esta oportunidad, siete de ellas. Debe  señalarse, que las iniciativas que aquí se plantean recogen elaboraciones y estudios parciales de los  problemas  o  asuntos  sociales  abordados  por  integrantes  del  grupo  técnico  del mencionado  Plan  (Vigorito,  Midaglia  y  Lagomarsino),  los  que  fueron  discutidos  y reelaborados de forma colectiva e interdisciplinaria. Estas estrategias de acción son: i) régimen  de  prestaciones  sociales  no  contributivas  o  de  transferencias  monetarias (Asignaciones Familiares y Pensiones a la Vejez); ii) seguridad alimentaria; iii) políticas de  educación  para  la  infancia  y  adolescencia;  iv)  políticas  asociadas  al  trabajo protegido;  v)  promoción  de  cooperativas  sociales  y  emprendimientos  productivos;  vi) políticas de promoción e inclusión social y vii) políticas de atención de la discapacidad.
 
-# II. Consideraciones acerca del enfoque conceptual normativo.
+# II. Consideraciones acerca del enfoque conceptual – normativo.
 
 ## Hacia la construcción de un Uruguay Socialmente Protegido.
 
@@ -132,7 +156,7 @@ El cambio internacional de orientación del modelo de desarrollo a fin
 
 Las nuevas pautas tecnológicas generaron modificaciones sustantivas en la organización del trabajo y en la estructuración del mercado de empleo. La flexibilización  y  la  desregulación  laboral  supuestamente  necesaria  para  asegurar niveles aceptables de ganancia en el presente contexto de acumulación, reemplazaron a las biografías laborales continuas por una creciente inseguridad laboral, promovieron un aumento del trabajo precario  y fomentaron  períodos de  'paro' de  larga duración. (Taylor­Gooby, 2001 en Moreno L., 2004). Estos cambios alteraron profundamente los 'arreglos'  y  estrategias  de  supervivencia  familiar  articuladas  en  torno  al  modelo  del 'varón sustentador o del gana pan'.
 
-Simultáneamente  las  unidades  familiares  se  vieron  sometidas  a  un  conjunto  de tensiones propias de  variaciones en  los patrones  de  socialización.  Se  evidencia  una inadecuación de la distribución de los roles domésticos que dificulta el incremento de la corresponsabilidad entre hombres y mujeres, en la medida que ha habido una inclusión creciente de la mujer al mercado de trabajo y del estudio.'El gran crecimiento de las uniones consensuales constituye otro de los fenómenos relevantes en la evolución de los comportamientos conyugales recientes en Uruguay. Su evolución atestigua que el descenso  de  los  matrimonios  no  ha  acarreado  la  disminución  de  la  formación  de nuevas  familias  sino  una  fuerte  desinstitucionalización  de  los  vínculos  conyugales, como  se  desprende  del  hecho  de  que  se  haya  registrado  un  leve  descenso  en  la proporción  de  personas  en  algún  tipo  de  unión  en  los  últimos  diez  años.'(Wanda Cabella, 2006)
+Simultáneamente las unidades familiares se vieron sometidas a un conjunto de tensiones propias de variaciones en los patrones de socialización. Se evidencia una
 
 10
 
@@ -140,7 +164,9 @@ Simultáneamente  las  unidades  familiares  se  vieron  sometidas  a  u
 
 [[START OF PAGE 9]]
 
-Resulta evidente que las dos agencias clásicas encargadas de la integración social en las  sociedades  modernas  ­  la  familia  y  el  mercado  de  empleo  ­  se  encuentran procesando un conjunto de modificaciones sustantivas que obligan a revisar políticamente  los  parámetros  de  distribución  de  bienestar  y  las  líneas  de  acción públicamente instituidas  apoyadas  en las mencionadas  agencias.  Los cambios enumerados  son  apenas  indicativos  de  un  amplio  movimiento  de  transformaciones sociales,  en  el  que  se  debería  considerar  el  envejecimiento  poblacional,  cambios de calendario en la fecundidad y la disminución de las tasas de natalidad según estrato socioeconómico. Según Mariana Paredes (2007) una de las principales causas  de la caída de  la  reproducción biológica  de  la  población uruguaya  por debajo  del nivel de reemplazo se vincula a la conciliación entre vida familiar y vida laboral que sufren las mujeres en edades reproductivas y a su papel en las tareas de cuidado - infantil y de la población adulta  mayor­  que  no  son  remuneradas  y  que  permanecen por  lo  tanto  al margen del reconocimiento social y la retribución económica.
+inadecuación de la distribución de los roles domésticos que dificulta el incremento de la corresponsabilidad entre hombres y mujeres, en la medida que ha habido una inclusión creciente de la mujer al mercado de trabajo y del estudio.”El gran crecimiento de las uniones consensuales constituye otro de los fenómenos relevantes en la evolución de los comportamientos conyugales recientes en Uruguay. Su evolución atestigua que el descenso de los matrimonios no ha acarreado la disminución de la formación de nuevas familias sino una fuerte desinstitucionalización de los vínculos conyugales, como se desprende del hecho de que se haya registrado un leve descenso en la proporción de personas en algún tipo de unión en los últimos diez años.”(Wanda Cabella, 2006)
+
+Resulta evidente que las dos agencias clásicas encargadas de la integración social en las sociedades modernas ­ la familia y el mercado de empleo ­ se encuentran procesando un conjunto de modificaciones sustantivas que obligan a revisar políticamente los parámetros de distribución de bienestar y las líneas de acción públicamente instituidas apoyadas en las mencionadas agencias. Los cambios enumerados son apenas indicativos de un amplio movimiento de transformaciones sociales, en el que se debería considerar el envejecimiento poblacional, cambios de calendario en la fecundidad y la disminución de las tasas de natalidad según estrato socioeconómico. Según Mariana Paredes (2007) una de las principales causas de la caída de la reproducción biológica de la población uruguaya por debajo del nivel de reemplazo se vincula a la conciliación entre vida familiar y vida laboral que sufren las mujeres en edades reproductivas y a su papel en las tareas de cuidado - infantil y de la población adulta mayor­ que no son remuneradas y que permanecen por lo tanto al margen del reconocimiento social y la retribución económica.
 
 En  este  nuevo  contexto  económico  y  social  se  configuran  nuevas  modalidades  de dominación, explotación y exclusión capitalista que cambian la llamada estructura de riesgos que refuerzan patrones de diferenciación y/o desigualdad donde los jóvenes, las  mujeres  y  los  estratos  con  menores  ingresos,  entre  otros  grupos  sociales  ven negados sus derechos y quedan fuera del trabajo  y del acceso y goce de bienes y servicios.
 
@@ -148,7 +174,7 @@ Uruguay,  pese  a  sus  particularidades  de  país  pequeño,  no  ha�
 
 Durante la década de los 90 la sociedad uruguaya asistió a importantes cambios en el mercado de trabajo, la estructura de los hogares y en los perfiles de pobreza. A su vez, la  crisis  experimentada  a  comienzos  del  nuevo  milenio  agudizó  los  problemas asociados al empleo y a los ingresos de los hogares. La disminución del crecimiento de las tasas de empleo entre el 1999 y el 2004, acompañadas por un incremento de los niveles de desempleo se combinó con un crecimiento de otros problemas tales como la informalidad y el subempleo; agravándose estas características para las mujeres y los jóvenes.
 
-En particular en los últimos 15 años, la tasa de desempleo urbano pasó de un 8,9 % en 1991 a un 13,7 % en el 2004, alcanzando hasta un 17 % en los momentos más agudos de la crisis del 2002­03. Según datos aportados por la Encuesta de Hogares 2005 la tasa de desempleo por sexo es de un 9,5% para varones y de un 15,3% para mujeres dejando en evidencia la persistencia de las desigualdades de género en el mercado de trabajo  (Gioia  de  Mello  2006).  Por  su  parte,  a  consecuencia  de  la  recesión  y  crisis reciente,  el  ingreso  per  cápita  promedio  de  los  hogares  presentó  una  caída  entre  el 1999 y 2004 cercana al 30%. En especial los ingresos laborales, que presentaron en los  últimos  años  un  escaso dinamismo,  cayeron  un 27%  en  el período  considerado. (PNUD, 2005).
+En particular en los últimos 15 años, la tasa de desempleo urbano pasó de un 8,9 % en 1991 a un 13,7 % en el 2004, alcanzando hasta un 17 % en los momentos más agudos de la crisis del 2002­03. Según datos aportados por la Encuesta de Hogares 2005 la tasa de desempleo por sexo es de un 9,5% para varones y de un 15,3% para mujeres dejando en evidencia la persistencia de las desigualdades de género en el mercado de trabajo (Gioia de Mello 2006). Por su parte, a consecuencia de la recesión y crisis
 
 11
 
@@ -156,13 +182,15 @@ En particular en los últimos 15 años, la tasa de desempleo urbano 
 
 [[START OF PAGE 10]]
 
-Estos  cambios  en  el  mercado  de  trabajo  y  en  los  ingresos  provenientes  del  mismo derivó  en  un  incremento  de  la  pobreza  que  inicia  su  crecimiento  a  mediados  de  la década de los noventa, o sea antes de la crisis, y continua incrementándose en 2003 con respecto a 2002, cuando ya se había producido una cierta reactivación económica, para  no  caer  en  2004.  A  pesar  del  crecimiento  de  ese  año  y  la  recuperación económica, más de un 30% de los uruguayos tenían ingresos inferiores al valor de la línea de  pobreza.  Por  su  parte,  si  consideramos  los  niveles  de  la  indigencia, constatamos que durante los noventa el valor se mantuvo en el entorno de un 2% pero a partir de la crisis alcanzó a un 4%.
+reciente, el ingreso per cápita promedio de los hogares presentó una caída entre el 1999 y 2004 cercana al 30%. En especial los ingresos laborales, que presentaron en los últimos años un escaso dinamismo, cayeron un 27% en el período considerado. (PNUD, 2005).
+
+Estos cambios en el mercado de trabajo y en los ingresos provenientes del mismo derivó en un incremento de la pobreza que inicia su crecimiento a mediados de la década de los noventa, o sea antes de la crisis, y continua incrementándose en 2003 con respecto a 2002, cuando ya se había producido una cierta reactivación económica, para no caer en 2004. A pesar del crecimiento de ese año y la recuperación económica, más de un 30% de los uruguayos tenían ingresos inferiores al valor de la línea de pobreza. Por su parte, si consideramos los niveles de la indigencia, constatamos que durante los noventa el valor se mantuvo en el entorno de un 2% pero a partir de la crisis alcanzó a un 4%.
 
 Los  incrementos  en  los  niveles  de  pobreza  e  indigencia  poseen  características diferentes  si  se  observan  según  tramos  etarios.  En  este  sentido,  la  incidencia  de  la pobreza en menores de 5 años de edad pasó de un 30% a mediados de los noventa a un 56% en el 2004, mientras que para la población mayor de 65 años se asistió a una disminución durante los noventa hasta la crisis de 2002 donde de menos de un 10% trepa a un 16% del total de población del tramo considerado. Si bien el impacto de la crisis reciente afectó a todos los grupos de edad, el mismo es mayor en los hogares con  niños.  La  explicación  de  estos  niveles  diferenciales  de  pobreza  puede  estar asociada a dos procesos, por un lado la debilidad relativa del sistema de protección social público y por otro a las características de los hogares a los cuales pertenecen los niños considerados.
 
 La  mayoría  de  los  niños  y  niñas  vive  en  hogares  en  que  los  adultos  activos  están expuestos a  una mayor propensión a caer en situación de desempleo y en términos generales, los hogares donde residen los menores de 18 años tienen como principal fuente  de  ingresos  a  las  remuneraciones  provenientes  del  trabajo,  por  lo  cual  son fuertemente vulnerables a la dinámica de este mercado. Como indicáramos, la caída de las remuneraciones puede estar afectando la evolución del bienestar de los niños a la vez que el bajo nivel educativo de los jefes y jefas de estos hogares hace más difícil la reinserción laboral o bien la obtención de mejores empleos. A su vez, en el correr de los años considerados podemos verificar la gestación de un desbalance generacional que lleva a que en 1991 el ingreso per cápita de los hogares integrados por adultos mayores superaba, en promedio, en un 60% al correspondiente a los hogares donde vivían los menores de 18 años, mientras que al final del período lo duplicaba. (PNUD, 2005)
 
-En otro orden de cosas, la dinámica demográfica ha profundizado el envejecimiento de la población contribuyendo a aumentar la importancia de los hogares unipersonales y de  las  parejas  solas,  mientras  que  por  otro  lado,  se  han  producido  cambios  en  la formación y disolución de las uniones. En esta última dirección podemos indicar una disminución de casi el 50% de los matrimonios, lo cual está marcando la pérdida de vigencia  del  vínculo  legal  como  marco  socialmente  legítimo  de  inicio  de  la  vida conyugal.  Asimismo  se  produce  una  continua  elevación  de  los  divorcios  variando desde  un  18,7%  en  1985  a  33,7%  en  el  año  2002  y  una  menor  duración  de  los matrimonios  cuanto  más  reciente  es  la  cohorte  de  matrimonio,  dando  lugar  a  un incremento de los hogares monoparentales y a los hogares reconstituidos, pautando un crecimiento de eventuales niveles de inestabilidad de las familias. (Cabella, 2006) En el ámbito privado, una de las expresiones más flagrantes de la discriminación a la interna de  las  familias  y  que  contribuyen  a  la  vulnerabilidad  de  las  mismas  lo  constituye  la violencia doméstica. 2
+En otro orden de cosas, la dinámica demográfica ha profundizado el envejecimiento de la población contribuyendo a aumentar la importancia de los hogares unipersonales y de las parejas solas, mientras que por otro lado, se han producido cambios en la formación y disolución de las uniones. En esta última dirección podemos indicar una disminución de casi el 50% de los matrimonios, lo cual está marcando la pérdida de vigencia del vínculo legal como marco socialmente legítimo de inicio de la vida conyugal. Asimismo se produce una continua elevación de los divorcios variando desde un 18,7% en 1985 a 33,7% en el año 2002 y una menor duración de los matrimonios cuanto más reciente es la cohorte de matrimonio, dando lugar a un incremento de los hogares monoparentales y a los hogares reconstituidos, pautando un crecimiento de eventuales niveles de inestabilidad de las familias. (Cabella, 2006) En el ámbito privado, una de las expresiones más flagrantes de la discriminación a la interna
 
 12
 
@@ -170,7 +198,9 @@ En otro orden de cosas, la dinámica demográfica ha profundizado el 
 
 [[START OF PAGE 11]]
 
-Pero estas transformaciones familiares presentan algunas particularidades a nivel de las estructuras de los hogares según se trate de un hogar pobre o no. Entre los pobres el hogar unipersonal constituye una categoría casi residual, al tiempo que los hogares que suelen incluir hijos (nuclear, monoparental y extendido) representan prácticamente el 90% del total.
+de las familias y que contribuyen a la vulnerabilidad de las mismas lo constituye la violencia doméstica. 2
+
+Pero estas transformaciones familiares presentan algunas particularidades a nivel de las estructuras de los hogares según se trate de un hogar pobre o no. Entre los pobres el hogar unipersonal constituye una categoría casi residual, al tiempo que los hogares que suelen incluir hijos (nuclear, monoparental y extendido) representan prácticamente el 90% del total.
 
 Estos  cambios  asociados  a  los  indicados  anteriormente  están  dando  lugar  a  una configuración  de  las  familias  uruguayas,  pilar  importante  en  materia  de  provisión  de protección social, que a grandes rasgos se divide entre familias jóvenes y pobres y otra envejecida que supera el umbral de pobreza. Para el caso de las familias pobres hay que  hacer  notar  que  el  tipo  de  hogar  extendido  (asociado  a  una  estrategia  de generación de economías de escala) es quien soporta la mayor carga demográfica, en la medida que en su interior presenta menores de 18 años y mayores de 65. (Cabella, 2006)
 
@@ -200,7 +230,7 @@ Habida cuenta de los logros que en materia socioeconómica quedan regi
 
 Finalmente  reseñamos  algunos  de  los  principales  problemas  que  aún  enfrentamos; desempleo que se ubica en el entorno del 9 % (ECH 2007, INE) con mayor incidencia en los sectores pobres (y más aún en mujeres y jóvenes); cuentapropistas sin local (sin coberturas sociales), informalidad del orden del 30%; dificultades significativas de una porción de la PEA en una inserción estable y formal en el mercado laboral no siempre acorde con el nivel de  formación; incidencia de la  pobreza  en la infancia y adolescencia; situación de desempleo luego de años de trabajo y pérdida de ingresos que afectan también la densidad de las cotizaciones al sistema contributivo. Por otra parte  la  necesidad  de  mejorar  la  articulación  entre  el  trabajo  fuera  del  hogar  y  la economía de los cuidados domésticos nos plantea algunas preguntas: ¿cuánto vale el trabajo  en  el  hogar?,  ¿qué  derechos  genera  o  debería  generar?,  ¿el  sistema  de protección social no debiera generar políticas de conciliación del tiempo de trabajo y el tiempo de cuidados?, ¿cuánto producto generaría (o genera actualmente) la liberación de las horas dedicadas a los servicios del cuidado (horas no remuneradas) si fueran incorporadas  al  mercado  de  trabajo?,  ¿no  deberíamos  evaluar  también  las  políticas orientadas a la maternidad; su diseño, los tiempos, los efectos?, ¿no sería necesario pensar políticas que promuevan la paternidad responsable?.
 
-Cabe  subrayar los problemas  asociados al  desempeño  educativo  de niños y adolescentes que ponen en riesgo las capacidades de integración e inclusión social de las  nuevas  generaciones;  así  como  aquellos  problemas  asociados  a  los  hogares monoparentales con hijos e hijas a cargo.
+Cabe subrayar los problemas asociados al desempeño educativo de niños y adolescentes que ponen en riesgo las capacidades de integración e inclusión social de
 
 14
 
@@ -208,7 +238,9 @@ Cabe  subrayar los problemas  asociados al  desempeño  educativo  de niño
 
 [[START OF PAGE 13]]
 
-Todos  estos  problemas  constituyen  manifestaciones  contemporáneas  de  la  cuestión social  que  conducen  inevitablemente  a  interrogarse  acerca  de  los  cambios  en  la estructura  de  riesgos  sociales,  si  estos  son  permanentes  y  si  el  actual  sistema  de protección  da  respuestas  a  los  mismos;  aspectos  de  los  cuales  el  Plan  de  Equidad pretende dar respuestas consistentes y sustentables.
+las nuevas generaciones; así como aquellos problemas asociados a los hogares monoparentales con hijos e hijas a cargo.
+
+Todos estos problemas constituyen manifestaciones contemporáneas de la cuestión social que conducen inevitablemente a interrogarse acerca de los cambios en la estructura de riesgos sociales, si estos son permanentes y si el actual sistema de protección da respuestas a los mismos; aspectos de los cuales el Plan de Equidad pretende dar respuestas consistentes y sustentables.
 
 ## La  articulación  entre  el  corto  y  el  largo  plazo:  la  necesaria  reforma  del sistema de protección social uruguayo.
 
@@ -318,16 +350,17 @@ Si  la  equidad  es  entendida  como  la  generación y  promoción de
 
 [[START OF PAGE 18]]
 
-## Matriz de propuestas para el Plan de Equidad (Red de Asistencia Social)
+## Matriz de propuestas para el Plan de Equidad (Red de Asistencia Social)
 
 ### Ejes del Plan para población en situación de Pobreza según ciclo de vida de las personas
---- | --- | --- | --- | ---
-Tramos de edad | Problemas, temas o situaciones vulnerables | Educación | Trabajo | Prestaciones sociales Alimentación
-1. Desnutrición 2. Desarrollo psicomotor 3. Baja cobertura de educación inicial | Asignaciones Familiares no contributivas para el universo de hogares pobres con niños y adolescentes. | Aumento de la Cobertura en Educación Inicial para niños y niñas de hogares pobres. | 0 a 3
-1. Rendimiento 2. Repetición, 3. Extra edad 4. Abandono | Programa de Maestros Comunitarios en escuelas urbanas de Contexto Muy Desfavorable. Universalización de la Educación Física en las Escuelas Urbanas del CEP. | 4 a 12 Prestación monetaria destinada alimentación para hogares en situación de pobreza extrema;
-1. Deserción y riesgo de abandono educativo. 2. Atención primaria de salud 3. Participación social | Programas específicos para la revinculación a la enseñanza media formal. Atención primaria de salud Programas y acciones de participación juvenil | Programas de empleo protegido y empleo juvenil Programas de rececalificación Cooperativas Sociales | 13 a 18 y programas de transferencia alimentaria para grupos específicos de población preferentemente
-1. Desempleo | 2. Calificaciones | 19 a 29
-30 a 64
+--- | --- | --- | --- | --- | ---
+Tramos de edad | Problemas, temas o situaciones vulnerables | Prestaciones sociales | Educación | Trabajo | Alimentación
+0 a 3 | 1. Desnutrición 2. Desarrollo psicomotor 3. Baja cobertura de educación inicial | Asignaciones Familiares no contributivas para el universo de hogares pobres con niños y adolescentes. | Aumento de la Cobertura en Educación Inicial para niños y niñas de hogares pobres. |  | Prestación monetaria destinada a alimentación para hogares en situación de pobreza extrema; y programas de transferencia alimentaria para grupos específicos de población preferentemente pobre.
+4 a 12 | 1. Rendimiento 2. Repetición, 3. Extra edad 4. Abandono |  | Programa de Maestros Comunitarios en escuelas urbanas de Contexto Muy Desfavorable. Universalización de la Educación Física en las Escuelas Urbanas del CEP. |  |
+13 a 18 | 1. Deserción y riesgo de abandono educativo. 2. Atención primaria de salud 3. Participación social |  | Programas específicos para la revinculación a la enseñanza media formal. Atención primaria de salud Programas y acciones de participación juvenil | Programas de empleo protegido y empleo juvenil Programas de rececalificación Cooperativas Sociales |
+19 a 29 | 1. Desempleo 2. Calificaciones |  |  |  |
+30 a 64 |  |  |  |  |
+65 y más | Pobreza extrema | Pensiones a la vejez |  |  |
 
 20
 
@@ -351,8 +384,8 @@ Asistencia a la vejez | 2. Ampliar la asistencia de los adultos mayores de 65 a�
 
 ### Políticas de educación y atención a la primera infancia e infancia
 --- | --- | --- | --- | --- | --- | ---
-Líneas de acción | Población objetivo | Metas 2009 | Instrumentos | Resultados Organismos | Indicadores de Seguimiento
-1. Aumento de la Cobertura y mejora de la calidad en la Atención a la Primera Infancia. | Niños en situación de pobreza de 0 a 3 años. | 2 de cada 3 niños pobres de centros urbanos y de 0 a 3 años atendidos por programas públicos de atención a primera infancia (aproximadamente 52.000). | a) Plan de Reconversión, aumento de la cobertura y mejora de la calidad del Plan CAIF y Centros Diurnos del INAU para cohortes de 0 a 3 años. b) Plan de ampliación de cobertura en Jardines de Infantes de ANEP/CEP para cohorte de 3 años. c) Plan de orientación y asesoramiento para la mejora de la calidad en los centros de educación infantil privados supervisados por el MEC. d) Extensión del 'Programa Aduana' de ASSE a todo el | Mejorar el desarrollo integral, crecimiento y maduración de los niños y niñas de 0 a 3 años en situación de pobreza en el Uruguay | a) INAU/Plan CAIF, MTSS/INDA b) ANEP/CEP c) MEC d) ASSE | Cobertura: Tasa de asistencia a centros de atención primera infancia. Resultados: Estado nutricional (peso/talla) Desarrollo Psicomotor (Test).
+Líneas de acción | Población objetivo | Metas 2009 | Instrumentos | Resultados | Organismos | Indicadores de Seguimiento
+1. Aumento de la Cobertura y mejora de la calidad en la Atención a la Primera Infancia. | Niños en situación de pobreza de 0 a 3 años. | 2 de cada 3 niños pobres de centros urbanos y de 0 a 3 años atendidos por programas públicos de atención a primera infancia (aproximadamente 52.000). | a) Plan de Reconversión, aumento de la cobertura y mejora de la calidad del Plan CAIF y Centros Diurnos del INAU para cohortes de 0 a 3 años. b) Plan de ampliación de cobertura en Jardines de Infantes de ANEP/CEP para cohorte de 3 años. c) Plan de orientación y asesoramiento para la mejora de la calidad en los centros de educación infantil privados supervisados por el MEC. d) Extensión del “Programa Aduana” de ASSE a todo el país. | Mejorar el desarrollo integral, crecimiento y maduración de los niños y niñas de 0 a 3 años en situación de pobreza en el Uruguay | a) INAU/Plan CAIF, MTSS/INDA b) ANEP/CEP c) MEC d) ASSE | Cobertura: Tasa de asistencia a centros de atención primera infancia. Resultados: Estado nutricional (peso/talla) Desarrollo Psicomotor (Test).
 2. Mejora de Rendimiento y Asistencia en Enseñanza Primaria | Niños de 4 a 12 años en Escuelas Urbanas de Contexto Social Muy Desfavorable. | a) 392 escuelas urbanas de atención prioritaria (requerimiento 1 y 2) que constituyen el 40 % del total de escuelas urbanas comunes, incorporadas al Programa Maestros Comunitarios. b) Universalización de la educación física en las 982 escuelas urbanas. c) 500 niños y niñas más incorporados a programas de 'club de niños del INAU' | a) Programa Maestros Comunitarios de la ANEP/CEP. b) Programa de Recreación y Deporte en las Escuelas de la ANEP/CEP. c) Club de Niños del INAU | Mejorar el rendimiento y asistencia de los niños y niñas que concurren a las escuelas públicas. | A y b) ANEP/CEP; MIDES/infamilia c) INAU | Cobertura: Matricula anual en Escuelas de contexto Muy Desfavorable (al inicio y al final) Resultados: Tasa de repetición en las escuelas participantes.
 
 22
@@ -364,7 +397,7 @@ Líneas de acción | Población objetivo | Metas 2009 | Instrumentos | Resultado
 ### Políticas de educación y atención a la adolescencia y juventud
 --- | --- | --- | --- | --- | --- | ---
 Líneas de acción | Población objetivo | Metas | Instrumentos | Resultados | Organismos | Indicadores de Seguimiento
-1. Reducción de la deserción en ciclo básico y revinculación a la enseñanza media. | Adolescentes de 12 a 15 años en situación de pobreza. | Al finalizar el año 2009: Reducir la deserción del Ciclo Básico en 74 Liceos del CES (33 liceos de Montevideo y 41 del interior), de los cuales participan anualmente de 50.000 adolescentes y un 60% está en riesgo de deserción. Revinculación de 5.000 adolescentes a la educación media formal. | a) Programa de Impulso a la Universalización del ciclo Básico en 74 Liceos del CES (matricula anual en ciclo básico; 50.000 adolescentes). b) Acciones 'puente' para la vinculación con sextos años de Escuela Pública con Liceos del CES. c) Programa 'Pintó Deporte' (100.000 adolescentes de ciclo básico anualmente). d) Programa de Aulas Comunitarias (4.000 adolescentes). e) Reorientación del Sistema de Becas, ley 15.851 (1.600 adolescentes beneficiarios). f) Ampliación de cupos de Ciclo Básico Tecnológico Agrario en 12 Escuelas Agrarias (500 adolescentes anuales a partir del 2009). g) Programa de verano en escuelas agrarias 'Tu escuela los 365' para Canelones, Maldonado y Paysandú (150 adolescentes anualmente a | Reducción de la deserción adolescente a la enseñanza media formal y revinculación al sistema educativo. | a) ANEP, CES, MIDES/Infamilia b) ANEP/CEP/CES c) ANEP/CES, MIDES/INJU, MTD d) ANEP/CES; MIDES/INFAMILIA e) MEC/Comisión Nacional de Becas f) ANEP/CETP g) ANEP/CETP; /Intendencias; MTSS/INDA | Cobertura: Matricula anual en Centros de Educación Media (al inicio y al final). Resultados: Disminuye la tasa de adolescentes que no estudia ni trabaja y de no estudia.
+1. Reducción de la deserción en ciclo básico y revinculación a la enseñanza media. | Adolescentes de 12 a 15 años en situación de pobreza. | Al finalizar el año 2009: Reducir la deserción del Ciclo Básico en 74 Liceos del CES (33 liceos de Montevideo y 41 del interior), de los cuales participan anualmente de 50.000 adolescentes y un 60% está en riesgo de deserción. Revinculación de 5.000 adolescentes a la educación media formal. | a) Programa de Impulso a la Universalización del ciclo Básico en 74 Liceos del CES (matricula anual en ciclo básico; 50.000 adolescentes). b) Acciones 'puente' para la vinculación con sextos años de Escuela Pública con Liceos del CES. c) Programa 'Pintó Deporte' (100.000 adolescentes de ciclo básico anualmente). d) Programa de Aulas Comunitarias (4.000 adolescentes). e) Reorientación del Sistema de Becas, ley 15.851 (1.600 adolescentes beneficiarios). f) Ampliación de cupos de Ciclo Básico Tecnológico Agrario en 12 Escuelas Agrarias (500 adolescentes anuales a partir del 2009). g) Programa de verano en escuelas agrarias 'Tu escuela los 365' para Canelones, Maldonado y Paysandú (150 adolescentes anualmente a partir del 2009). | Reducción de la deserción adolescente a la enseñanza media formal y revinculación al sistema educativo. | a) ANEP, CES, MIDES/Infamilia b) ANEP/CEP/CES c) ANEP/CES, MIDES/INJU, MTD d) ANEP/CES; MIDES/INFAMILIA e) MEC/Comisión Nacional de Becas f) ANEP/CETP g) ANEP/CETP; /Intendencias; MTSS/INDA | Cobertura: Matricula anual en Centros de Educación Media (al inicio y al final). Resultados: Disminuye la tasa de adolescentes que no estudia ni trabaja y de no estudia.
 
 23
 
@@ -386,8 +419,8 @@ Líneas de acción | Población objetivo | Metas | Instrumentos | Resultados | O
 Políticas de educación y atención a la adolescencia y juventud
 --- | --- | --- | --- | --- | --- | ---
 Líneas de acción | Población objetivo | Metas | Instrumentos | Resultados | Organismos | Indicadores de Seguimiento
-3. Promoción de la atención primaria de salud en los adolescentes | Adolescentes de 12 a 19 años de en situación de pobreza. | Al finalizar el 2009, 20.000 adolescentes reciben atención integral de salud mediante el Programa de control de salud Integral. 2.000 madres adolescentes y su pareja atendidas anualmente. Atención específica en adicciones a adolescentes de 12 a 18 años con consumo problemático. | a) Control de salud integral (Carné de Salud del Adolescente y Sistema informático del Adolescente) implementdo en los 74 liceos participantes del Programa de Impulso a la Universalización del Ciclo Básico de la ANEP/CES. b) Arrimáte a la Salud, iniciativas Juveniles en promoción de salud. c) Programa de acompañamiento a madres adolescentes (Espacios Adolescentes de ASSE) para la prevención de la reiteración del embarazo adolescente (2.000 madres adolescentes anualmente). d) Ampliación de los programas de atención de adicciones del INAU (Incremento de 100 cupos anuales adicionales). | Atención primaria de salud en adolescentes (certificada en carné de salud adolescente). . | a) ASSE, Sistema mutual, UDELAR, ANEP/CES, MIDES/infamilia b) MIDES/INJU, ASSE, MSP. c) ASSE, MSP, MIDES/Infamilia d) INAU, Intendencias, ASSE. | Cobertura: Carné de Salud del Adolescente y Sistema informático del Adolescente implantado. Resultados:
-4. Espacios de participación adolescente y juvenil para la inclusión social. | Adolescentes y jóvenes de 12 a 20 años en situación de pobreza. | Instalación de dispositivos para la promoción de la participación adolescente. | a) Arrimate ­ Espacio Joven: Participación juvenil e inclusión socioeducativa (760 adolescentes y jóvenes anualmente). b) Rutas de salida adolescente: Reinserción educativa (125 adolescentes anualmente). c) Amplificá Tu Voz: Participación juvenil desde la comunicación (800 adolescentes anualmente). d) Talleres artístico­culturales: Desarrollo de habilidades artístico culturales (2.000 adolescentes y jóvenes anualmente en 100 talleres). e) Centros Juveniles del INAU: Incorporación de 4 Centros Juveniles nuevos en locales del PIAI (200 adolescentes participan anualmente). | Incremento de la participación adolescente y juvenil | a) MIDES/ INJU, Intendencias b) MIDES/INJU, MEC/CECAP, Intendencias c) MIDES/INJU, IMM/TV Ciudad, d) MIDES/INJU, MEC/CECAP e) MIDES/INAU, MVOTMA/PIAI | Reducción del embarazo adolescente.
+3. Promoción de la atención primaria de salud en los adolescentes | Adolescentes de 12 a 19 años de en situación de pobreza. | Al finalizar el 2009, 20.000 adolescentes reciben atención integral de salud mediante el Programa de control de salud Integral. 2.000 madres adolescentes y su pareja atendidas anualmente. Atención específica en adicciones a adolescentes de 12 a 18 años con consumo problemático. | a) Control de salud integral (Carné de Salud del Adolescente y Sistema informático del Adolescente) implementdo en los 74 liceos participantes del Programa de Impulso a la Universalización del Ciclo Básico de la ANEP/CES. b) Arrimáte a la Salud, iniciativas Juveniles en promoción de salud. c) Programa de acompañamiento a madres adolescentes (Espacios Adolescentes de ASSE) para la prevención de la reiteración del embarazo adolescente (2.000 madres adolescentes anualmente). d) Ampliación de los programas de atención de adicciones del INAU (Incremento de 100 cupos anuales adicionales). | Atención primaria de salud en adolescentes (certificada en carné de salud adolescente). . | a) ASSE, Sistema mutual, UDELAR, ANEP/CES, MIDES/infamilia b) MIDES/INJU, ASSE, MSP. c) ASSE, MSP, MIDES/Infamilia d) INAU, Intendencias, ASSE. | Cobertura: Carné de Salud del Adolescente y Sistema informático del Adolescente implantado. Resultados: Reducción del embarazo adolescente.
+4. Espacios de participación adolescente y juvenil para la inclusión social. | Adolescentes y jóvenes de 12 a 20 años en situación de pobreza. | Instalación de dispositivos para la promoción de la participación adolescente. | a) Arrimate ­ Espacio Joven: Participación juvenil e inclusión socioeducativa (760 adolescentes y jóvenes anualmente). b) Rutas de salida adolescente: Reinserción educativa (125 adolescentes anualmente). c) Amplificá Tu Voz: Participación juvenil desde la comunicación (800 adolescentes anualmente). d) Talleres artístico­culturales: Desarrollo de habilidades artístico culturales (2.000 adolescentes y jóvenes anualmente en 100 talleres). e) Centros Juveniles del INAU: Incorporación de 4 Centros Juveniles nuevos en locales del PIAI (200 adolescentes participan anualmente). | Incremento de la participación adolescente y juvenil | a) MIDES/ INJU, Intendencias b) MIDES/INJU, MEC/CECAP, Intendencias c) MIDES/INJU, IMM/TV Ciudad, d) MIDES/INJU, MEC/CECAP e) MIDES/INAU, MVOTMA/PIAI |
 
 25
 
@@ -399,9 +432,9 @@ Líneas de acción | Población objetivo | Metas | Instrumentos | Resultados | O
 --- | --- | --- | --- | ---
 Línea de Acción | Objetivos | Población objetivo | Instrumentos | Resultados esperados
 Alimentación | 1. Brindar apoyo alimentario a la población en situación de pobreza extrema. | Población en situación de pobreza extrema. | Tarjeta magnética prepaga en asociación al Sistema de Asignaciones Familiares. | Aumentar la cobertura de los apoyos alimenticios en los sectores en condición de extrema pobreza. Facilitar el acceso a las prestaciones alimentarias de los grupos desfavorecidos socioeconómicamente
-2. Redefinición del Programa Nacional de Complemento Alimentario (PNCA) asociando la prestación a recomendación médica o nutricional y limitar las prestaciones en especies a grupos específicos que lo requieran. | Población en situación de riesgo alimentario o con problemas nutricionales particulares. Preferentemente embarazadas y menores de 2 años en situación de pobreza. | PNCA - INDA y programas de Atención Primaria de Salud. | Mejorar el estado nutricional de los grupos en situación de riesgo Incentivar los controles .sanitarios de esos sectores.
-3. Reorientar el programa AIPP brindando asistencia alimentaria a organizaciones que brinden servicios sociorecreativos para población en situación de pobreza. | Prioritariamente niños y adolescentes; pensionistas y jubilados en situación de pobreza, sin excluir otros grupos de población. | Programa AIPP del INDA | Crear una red de servicios sociales que faciliten el acceso a prestaciones alimentarias en el territorio nacional.
-4. Creación de una Agencia de Seguridad Alimentaria; y Fortalecer el rol técnico­ regulatorio del INDA. | Población en general y en particular beneficiaria de programas alimentarios. | Creación de un Sistema de Información Alimentaria. | Asegurar el rol técnico y regulador del INDA para el establecer lineamientos de evaluación de los distintos servicios alimentarios, con pautas de seguimiento y contralor del estado nutricional de la población uruguaya
+ | 2. Redefinición del Programa Nacional de Complemento Alimentario (PNCA) asociando la prestación a recomendación médica o nutricional y limitar las prestaciones en especies a grupos específicos que lo requieran. | Población en situación de riesgo alimentario o con problemas nutricionales particulares. Preferentemente embarazadas y menores de 2 años en situación de pobreza. | PNCA – INDA y programas de Atención Primaria de Salud. | Mejorar el estado nutricional de los grupos en situación de riesgo Incentivar los controles .sanitarios de esos sectores.
+ | 3. Reorientar el programa AIPP brindando asistencia alimentaria a organizaciones que brinden servicios sociorecreativos para población en situación de pobreza. | Prioritariamente niños y adolescentes; pensionistas y jubilados en situación de pobreza, sin excluir otros grupos de población. | Programa AIPP del INDA | Crear una red de servicios sociales que faciliten el acceso a prestaciones alimentarias en el territorio nacional.
+ | 4. Creación de una Agencia de Seguridad Alimentaria; y Fortalecer el rol técnico-regulatorio del INDA. | Población en general y en particular beneficiaria de programas alimentarios. | Creación de un Sistema de Información Alimentaria. | Asegurar el rol técnico y regulador del INDA para el establecer lineamientos de evaluación de los distintos servicios alimentarios, con pautas de seguimiento y contralor del estado nutricional de la población uruguaya
 
 26
 
@@ -413,12 +446,12 @@ Alimentación | 1. Brindar apoyo alimentario a la población en situación de po
 
 Tramos de edad | Prestaciones sociales | Atención/Educación | Trabajo | Alimentación
 --- | --- | --- | --- | ---
-4 a 12 | MTSS MIDES | ANEP/CEP INAU/Plan CAIF MIDES/Infamilia MSP/ASSE MEC | MTSS/INDA MSP MIDES | 0 a 3
-BPS | ANEP/CEP MIDES/Infamilia MTD/DINADE
-13 a 18 | ANEP/CEP,CES,CETP INAU MIDES/INJU/INFAMILIA MEC/CECAP MSP ASSE
-19 a 29 | MTSS MIDES
-30 a 64
-65 y más | BPS MTSS MIDES
+0 a 3 | BPS<br>MTSS<br>MIDES | ANEP/CEP<br>INAU/Plan CAIF<br>MIDES/Infamilia<br>MSP/ASSE<br>MEC |  | MTSS/INDA<br>MSP<br>MIDES
+4 a 12 |  | ANEP/CEP<br>MIDES/Infamilia<br>MTD/DINADE |  |
+13 a 18 |  | ANEP/CEP,CES,CETP<br>INAU<br>MIDES/INJU/INFAMILIA<br>MEC/CECAP<br>MSP<br>ASSE |  |
+19 a 29 |  |  | MTSS<br>MIDES |
+30 a 64 |  |  |  |
+65 y más | BPS<br>MTSS<br>MIDES |  |  |
 
 27
 
@@ -442,7 +475,7 @@ Entendiendo  la  construcción  de  la  'malla  de  protección  social'
 
 ### (i) Reforma Tributaria
 
-Si bien la Reforma Tributaria no es estrictamente una política social, los efectos de la misma en materia redistributiva constituyen un aspecto estratégico para rediseñar el sistema de protección. A su vez, desde un enfoque que ha priorizado la articulación de la  política  social  y  la  económica,  la  actual  propuesta  de  reforma  de  la  estructura tributaria  del  país  debe  ser  considerada  como  un  eslabón  esencial  del  Plan  de Equidad.
+Si bien la Reforma Tributaria no es estrictamente una política social, los efectos de la misma en materia redistributiva constituyen un aspecto estratégico para rediseñar el sistema de protección. A su vez, desde un enfoque que ha priorizado la articulación de la política social y la económica, la actual propuesta de reforma de la estructura
 
 > 3 . Los componentes estructurales de la Matriz de Protección Social refieren explícitamente a los procesos generales de transformación de la política social y económica, que reforman total o parcialmente el conjunto de las políticas públicas cuya  incidencia  es  considerada  relevante  en  materia  de  equidad  social.  En  los  párrafos  siguientes  realizamos  una síntesis  de  dichos  procesos  que  consideramos  parte  integral  del  Plan  de  Equidad.  Los  contenidos  sustantivos  son recogidos del Documento ' Agenda Social. Aportes para su Construcción'  del 5 de junio de 2006, elaborado por el Consejo Nacional de Coordinación de Políticas Sociales, elevado a la Ministra de Desarrollo Social y por su intermedio al Presidente de la República.
 
@@ -452,7 +485,9 @@ Si bien la Reforma Tributaria no es estrictamente una política social
 
 [[START OF PAGE 27]]
 
-En este sentido, los objetivos de la Reforma Tributaria son:
+tributaria del país debe ser considerada como un eslabón esencial del Plan de Equidad.
+
+En este sentido, los objetivos de la Reforma Tributaria son:
 
 ­  Promover una mayor equidad, tanto horizontal como vertical, relacionando la carga tributaria  con  la  capacidad  de  contribución  de  los  distintos  sectores  sociales  y económicos.
 
@@ -490,9 +525,9 @@ Esto permite consolidar cuatro tipos de solidaridad:
 
 Al mismo tiempo una parte del pago se hará a través de un plus por el cumplimiento de metas prestacionales, ligadas al desarrollo del primer nivel de atención a saber:
 
-- Programa  de Salud del niño hasta los 14 meses
+a) Programa  de Salud del niño hasta los 14 meses
 
-- Programa de salud de la mujer
+b) Programa de salud de la mujer
 
 A partir de enero de 2008 ingresan al SNIS:
 
@@ -534,7 +569,7 @@ Para el MVOTMA la política de vivienda es una intervención compleja�
 
 La  universalización  de  la  política  habitacional  constituye  una  finalidad  que,  por  una parte  se  orienta  a  efectivizar  el  derecho  a  la  vivienda  desde  la  complementación  y articulación de los mecanismos ­los subsidios, el ahorro y el crédito­ dirigidos a permitir e igualar el acceso a la vivienda ,  sostener la permanencia y favorecer la mejora; y, por  otra,  se  busca  detener  los  procesos  de  desequilibrio  socio­urbano  existentes  y favorecer  el  acceso  a  bienes  y  servicios  de  la  más  diversa  índole  para  alterar  los procesos de segregación y fragmentación, territorial y social.
 
-Muy esquemáticamente la confluencia entre las políticas del MVOTMA en el Plan de Equidad  se  visualiza  en  objetivos  específicos  de  los  diversos  actores  del  sistema público: DINAVI, promover el derecho a la vivienda; MEVIR, generar un hábitat rural sostenible;  PIAI:  promover  la  inclusión  social  e  integración  urbana  de  poblaciones segregadas;  DINOT,  apuntar  a  la  equidad  territorial;  DINASA:  avanzar  hacia  la universalización en el acceso al agua potable y el saneamiento apropiado; DINAMA: promover la inclusión social de los clasificadores.
+Muy esquemáticamente la confluencia entre las políticas del MVOTMA en el Plan de Equidad se visualiza en objetivos específicos de los diversos actores del sistema público: DINAVI, promover el derecho a la vivienda; MEVIR, generar un hábitat rural sostenible; PIAI: promover la inclusión social e integración urbana de poblaciones segregadas; DINOT, apuntar a la equidad territorial; DINASA: avanzar hacia la
 
 30
 
@@ -542,7 +577,9 @@ Muy esquemáticamente la confluencia entre las políticas del MVOTMA en
 
 [[START OF PAGE 29]]
 
-### (v) La política educativa
+universalización en el acceso al agua potable y el saneamiento apropiado; DINAMA: promover la inclusión social de los clasificadores.
+
+### (v) La política educativa
 
 Sin  dudas  constituye  una  de  las  prioridades  estratégicas  para  el  país  y  para  el gobierno. Se ha iniciado una etapa de recuperación importante a nivel del presupuesto en  comparación  con  los  últimos  años  y  nos  encaminamos  ­  tras  los  aportes significativos del Debate Educativo ­ a la elaboración de una nueva Ley de Educación.
 
@@ -570,11 +607,11 @@ El Plan se propone revertir las desigualdades que afectan a las mujer
 
 Integra como principios rectores los siguientes:
 
-- Garantizar  el  respeto  y  la  vigilancia  de  los  derechos  humanos  de  las  mujeres conceptualizados como derechos civiles, políticos, económicos, sociales y culturales, aplicando y desarrollando una legislación igualitaria.
+1) Garantizar el respeto y la vigilancia de los derechos humanos de las mujeres conceptualizados como derechos civiles, políticos, económicos, sociales y culturales, aplicando y desarrollando una legislación igualitaria.
 
-- Promover la ciudadanía plena, garantizando el ejercicio igualitario de los derechos; la  inclusión  social,  política,  económica  y  cultural  de  las  mujeres,  así  como  su participación activa en los procesos de desarrollo.
+2) Promover la ciudadanía plena, garantizando el ejercicio igualitario de los derechos; la inclusión social, política, económica y cultural de las mujeres, así como su participación activa en los procesos de desarrollo.
 
-- Promover cambios culturales que permitan compartir en condiciones de igualdad el trabajo  productivo  y  las  relaciones  familiares  y  aseguren  el  acceso  equitativo  de hombres y mujeres a los procesos de innovación, ciencia y tecnología en los planes de desarrollo.
+3) Promover cambios culturales que permitan compartir en condiciones de igualdad el trabajo productivo y las relaciones familiares y aseguren el acceso equitativo de hombres y mujeres a los procesos de innovación, ciencia y tecnología en los planes de desarrollo.
 
 ## IV.2 Componentes de la Red de Asistencia e Integración Social.
 
@@ -646,7 +683,7 @@ Se cambiará el monto actual de la prestación, y se utilizará una 
 
 El  monto  base  para  niños/as  que  asisten  a  primaria  será  de  700  $U  (setecientos pesos)  mensuales  para  el  primer  niño/a  y  de  1000  $U  (mil  pesos)  mensuales  para secundaria. Por su parte, como ya indicáramos a dicha transferencia se le sumará una partida a través de la tarjeta magnética prepaga para adquirir alimentos, dirigida a los hogares con niños, niñas y adolescentes que se sitúen en el entorno de la línea de indigencia.
 
-El incremento de los montos procura revertir la situación de que dan cuenta estudios nacionales,  en  el  sentido  de  que  las  Asignaciones  Familiares,  a  pesar  de  haber logrado  una  cobertura  significativa  de  la  población  vulnerable,  han  tenido  un  muy escaso o inexistente impacto sobre las situaciones de pobreza e indigencia.
+El incremento de los montos procura revertir la situación de que dan cuenta estudios nacionales, en el sentido de que las Asignaciones Familiares, a pesar de haber
 
 34
 
@@ -654,7 +691,9 @@ El incremento de los montos procura revertir la situación de que dan
 
 [[START OF PAGE 33]]
 
-Al considerar el número y características de los beneficiarios para determinar el monto de las prestaciones, se aplica el sistema que la literatura específica denomina como de escala de equivalencia.
+logrado una cobertura significativa de la población vulnerable, han tenido un muy escaso o inexistente impacto sobre las situaciones de pobreza e indigencia.
+
+Al considerar el número y características de los beneficiarios para determinar el monto de las prestaciones, se aplica el sistema que la literatura específica denomina como de escala de equivalencia.
 
 Así,  por  ejemplo,  si  en  un  hogar  hay  solamente  un  niño/a  asistiendo  a  educación primaria  o  menor  de  5  años  de  edad,  la  base  de  la  prestación  de  Asignaciones Familiares  será  de  $  700.  En  caso  de  existir  más  de  un  beneficiario,  el  total  de prestaciones que por este concepto recibirá el hogar será el resultado de multiplicar: a) la base de $ 700 por b) el número de beneficiarios elevado al exponente de 0,6. Si, por último,  se  divide  la  cifra  resultante,  entre  el  número  de  beneficiarios,  se  obtiene  el monto que recibirá cada uno de ellos.
 
@@ -666,19 +705,18 @@ De esta manera se espera estimular la retención en el sistema educat
 
 El  siguiente  cuadro  muestra  distintas  combinaciones  posibles  de  composición  y tamaño de  hogares  comprendidos en el  nuevo sistema.  Los  puntos  suspensivos  al final  representan  la  existencia  de  hogares  con  mayores  cantidades  de  niños  y adolescentes, en cuyos casos el patrón de incremento del monto transferido no varía.
 
-Número de niños y adolescentes que asisten a primaria y/o tienen menos de 5 años de edad
+Número de niños y adolescentes que asisten a primaria y/o tienen menos de 5 años de edad
 
-0 | 1 | 2 | 3 | 4 | 5 | 6
---- | --- | --- | --- | --- | --- | ---
-$0 | $700 | $1.061 | $1.353 | $1.608 | $1.839 | $2.051
-$1.000 | $1.361 | $1.653 | $1.908 | $2.139 | $2.351 | $2.550
-$1.516 | $1.808 | $2.063 | $2.293 | $2.506 | $2.705 | $2.892
-$1.933 | $2.188 | $2.419 | $2.631 | $2.830 | $3.017 | $3.196
-$2.297 | $2.528 | $2.740 | $2.939 | $3.127 | $3.305 | $3.476
-$2.627 | $2.839 | $3.038 | $3.225 | $3.404 | $3.575 | $3.739
-$2.930 | $3.129 | $3.317 | $3.495 | $3.666 | $3.830 | $3.988
-
-Número de adolescentesque asisten a enseñanza media
+Número de adolescentes que asisten a enseñanza media | 0 | 1 | 2 | 3 | 4 | 5 | 6 | …
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+0 | $0 | $700 | $1.061 | $1.353 | $1.608 | $1.839 | $2.051 |
+1 | $1.000 | $1.361 | $1.653 | $1.908 | $2.139 | $2.351 | $2.550 |
+2 | $1.516 | $1.808 | $2.063 | $2.293 | $2.506 | $2.705 | $2.892 |
+3 | $1.933 | $2.188 | $2.419 | $2.631 | $2.830 | $3.017 | $3.196 |
+4 | $2.297 | $2.528 | $2.740 | $2.939 | $3.127 | $3.305 | $3.476 |
+5 | $2.627 | $2.839 | $3.038 | $3.225 | $3.404 | $3.575 | $3.739 |
+6 | $2.930 | $3.129 | $3.317 | $3.495 | $3.666 | $3.830 | $3.988 |
+…
 
 Cabe señalar que se consideran situaciones especiales como el caso de discapacitados  y  de  niños  y  adolescentes  en  hogares  de atención  las  24  horas  del INAU. Para ello, se determina que los primeros perciban un monto único de $ 1.000 por niño y que no se le aplique la escala de equivalencia; para el caso de los niños en el INAU, el monto ascenderá a $ 700 fijos por beneficiario.
 
@@ -706,7 +744,7 @@ A partir de todas estas consideraciones se están diseñando políticas
 
 Las  políticas  dirigidas  a  los  adultos  mayores  abarcan  diversas  dimensiones,  entre otras  aquellas  asociadas  a  la  salud  y  es,  en  este  sentido,  que  se  apuntará  a transformar  el  modelo  'asilar'  para  pasar  a  un  modelo  de  hogar  de  coberturas múltiples.  También  es  preciso  anotar  que  se  encuentra  en  proceso  de  debate  el proyecto  de  ley  de  creación  del  Instituto  Nacional  del  Adulto  Mayor  que  habrá  de cohesionar el  conjunto de  intervenciones públicas  con foco  en  este segmento de  la población.
 
-Teniendo  presente  estas  consideraciones,  en  relación  a  las  pensiones  se  plantean algunas líneas de trabajo. En primer lugar, se entiende que la necesidad de 35 años de  cotización  para  acceder  a  una  jubilación  hace  que  un  grupo  importante  de  la población  de  bajos  ingresos  no  cumpla  con  este  requisito  por  lo  que  sólo  podrían obtener una transferencia recién a los 70 años.
+Teniendo presente estas consideraciones, en relación a las pensiones se plantean algunas líneas de trabajo. En primer lugar, se entiende que la necesidad de 35 años
 
 36
 
@@ -714,7 +752,9 @@ Teniendo  presente  estas  consideraciones,  en  relación  a  las  pens
 
 [[START OF PAGE 35]]
 
-En este sentido, sin perjuicio de analizarse cambios en el régimen de pensiones a la vejez,  teniendo  en  cuenta  el  debate  actual  sobre  seguridad  social,  se  habrá  de establecer, entretanto, una prestación no contributiva cuyo monto será equivalente al de las pensiones por vejez, a fin de contemplar las situaciones de los adultos mayores en  condiciones  de  extrema  pobreza  y  que  no  cuenten  con  ningún  beneficio  de  la seguridad social al momento de acogerse a dicha prestación.
+de cotización para acceder a una jubilación hace que un grupo importante de la población de bajos ingresos no cumpla con este requisito por lo que sólo podrían obtener una transferencia recién a los 70 años.
+
+En este sentido, sin perjuicio de analizarse cambios en el régimen de pensiones a la vejez, teniendo en cuenta el debate actual sobre seguridad social, se habrá de establecer, entretanto, una prestación no contributiva cuyo monto será equivalente al de las pensiones por vejez, a fin de contemplar las situaciones de los adultos mayores en condiciones de extrema pobreza y que no cuenten con ningún beneficio de la seguridad social al momento de acogerse a dicha prestación.
 
 Para este caso se realizó una estimación solamente para las personas en situación de pobreza extrema que significa  otorgar  unas  1.200  nuevas  prestaciones  por  vejez al 2008.  En  tanto  que  la  estimación  de  cobertura  de  las  pensiones  por  vejez  en  un escenario de modificación del actual régimen o bien a través de la nueva prestación Asistencia a  la  Vejez,  sería  de  unas  6.800  para  el  2009,  implicando  una  expansión aproximada del 32% en el número de beneficiarios.
 
@@ -784,7 +824,7 @@ Entendiendo  'la  equidad  como  la  generación  y  promoción  de  la
 
 Administración de los Servicios de Salud del Estado (ASSE); en su carácter de prestador y coordinador de los servicios de salud del Estado, fortalecerá el primer nivel de atención en: captación temprana de las mujeres embarazadas; educación para la salud;  buenas  prácticas  nutricionales; preparación  para  la  llegada  del  hijo;  espacios para  embarazadas  y  madres  adolescentes/jóvenes;  acciones  para  la  inclusión  del varón; extensión del  'programa  aduana' a nivel nacional;  visitas domiciliarias en  las situaciones de riesgo; vigilancia del crecimiento y desarrollo de los niños y niñas.
 
-El Instituto del Niño y el Adolescente del Uruguay (INAU) / Centros de Atención a la Infancia y la Familia (PLAN CAIF); pondrá en marcha un plan de acción para el aumento de la cobertura y la mejora de la calidad que comprenderá: la modificación de los  modelos  de  gestión  y  las  estrategias  de  intervención  de  los  centros  lo  que  se traducirá entre otros aspectos en una cobertura, por centro, mayor en la franja etárea de 0 a 24 meses que en 2 y 3 años; mayores exigencias de formación de los recursos humanos de los centros; la apertura de nuevos centros atendiendo a la priorización territorial antes expresada; la coordinación con ANEP/CEP para el crecimiento de la matrícula  de  3  años;  el  fortalecimiento  del  sistema  de  supervisón;  el  apoyo  de  los equipos técnicos de los CAIF a los servicios de primer nivel del sistema de salud en la atención a embarazadas.
+El Instituto del Niño y el Adolescente del Uruguay (INAU) / Centros de Atención a la Infancia y la Familia (PLAN CAIF); pondrá en marcha un plan de acción para el aumento de la cobertura y la mejora de la calidad que comprenderá: la modificación de los modelos de gestión y las estrategias de intervención de los centros lo que se traducirá entre otros aspectos en una cobertura, por centro, mayor en la franja etárea de 0 a 24 meses que en 2 y 3 años; mayores exigencias de formación de los recursos
 
 39
 
@@ -792,7 +832,9 @@ El Instituto del Niño y el Adolescente del Uruguay (INAU) / Centros�
 
 [[START OF PAGE 38]]
 
-En forma adicional, el INAU, pondrá en marcha un plan de acción para el aumento de la  cobertura  y  mejora  de  la  calidad  en  los  Centros  Diurnos  con  énfasis  en  la incorporación de programas de estimulación oportuna y en la articulación con el Plan CAIF.
+humanos de los centros; la apertura de nuevos centros atendiendo a la priorización territorial antes expresada; la coordinación con ANEP/CEP para el crecimiento de la matrícula de 3 años; el fortalecimiento del sistema de supervisón; el apoyo de los equipos técnicos de los CAIF a los servicios de primer nivel del sistema de salud en la atención a embarazadas.
+
+En forma adicional, el INAU, pondrá en marcha un plan de acción para el aumento de la cobertura y mejora de la calidad en los Centros Diurnos con énfasis en la incorporación de programas de estimulación oportuna y en la articulación con el Plan CAIF.
 
 Administración Nacional de Enseñanza Pública (ANEP) / Consejo de Educación Primaria (CEP) pondrá en marcha un plan de acción para aumentar la cobertura en el nivel de 3 años en contextos de pobreza en jardines de infantes existentes o abriendo nuevos  jardines  de  infantes  con  base  en  la  priorización  territorial  antes  definida  y desarrollando modalidades de vínculo con la comunidad y la familia en estos niveles de atención.
 
@@ -831,17 +873,19 @@ El Programa Nuestros Niños de la IMM mantendrá la actual cobertura 
 La cobertura al finalizar el año 2009 alcanzará en todo el país a 52 mil niños/as en situación de pobreza, de los cuales 47 mil en localidades de más de 5 mil habitantes. Los  mismos  estarán  incluidos  en  programas  públicos  o  privados  de  estimulación oportuna o educación inicial. Ello significará la inclusión en estos programas del 63% de los niños y niñas residentes en localidades de más de 5 mil habitantes y del 56% de todos  los  niños  y  niñas  en  situación  de  pobreza  del  país.  Se  habrá  mejorado sustancialmente la distribución de la cobertura entre edades y entre departamentos.
 
 Población objetivo, cobertura actual y esperada en primera infancia (0 a 3 años)
+
+ | Población objetivo total | Cobertura actual, en cantidades y como % de la población objetivo |  | Cobertura esperada en cantidades y como % de la población objetivo |  | Aumento de cobertura, en cantidades y como % de la cobertura actual |
 --- | --- | --- | --- | --- | --- | --- | ---
-Población objetivo total | Cobertura cantidades de la objetivo | actual, en y como % población | Cobertura en cantidades y % de la objetivo | esperada como población | Aumento cobertura, cantidades y % de la actual | de en como cobertura
 Niños de 0 a 3 años en localidades de más de 5 mil habitantes. | 75.000 | 35.000 | 47% | 47.000 | 63% | 12.000 | 34%
 Total niños/as de 0 a 3 años | 93.000 | 38.000 | 41% | 52.000 | 56% | 14.000 | 37%
 
 Fuente: Elaborados en base a la ENHA 2006 del INE y matrícula actual y proyectada de los distintos sistemas.
 
 Cobertura esperada en primera infancia por edades
+
+Edades | Población objetivo total |  | Cobertura Actual (2007) |  | Cobertura esperada en todo el país |  |
+ | Cantidades | % s/total | Cantidades | % s/total | Cantidades | % s/total | Incremento s/cobertura actual
 --- | --- | --- | --- | --- | --- | --- | ---
-Edades | Población objetivo total | Cobertura Actual (2007) | Cobertura esperada en todo el país
-Cantidades | % s/total | Cantidades | % s/total | Cantidade s | % s/total | Incremento s/cobertura actual
 0 y 1 | 47.000 | 51% | 9.900 | 26% | 22.500 | 43% | 127%
 2 | 23.000 | 25% | 12.300 | 32% | 12.300 | 24% | 0%
 3 | 23.000 | 25% | 15.800 | 42% | 17.200 | 33% | 9%
@@ -850,8 +894,9 @@ Total | 93.000 | 100% | 38.000 | 100% | 52.000 | 100% | 37%
 Fuente: Elaborados en base a la ENHA 2006 del INE y matrícula actual y proyectada de los distintos sistemas.
 
 Cobertura esperada por áreas territoriales
+
+ | Población objetivo total |  | Cobertura actual (2007) |  | Cobertura esperada |  | Cobertura esperada como % de la Población Objetivo
 --- | --- | --- | --- | --- | --- | --- | ---
-Población objetivo total | Cobertura actual (2007) | Cobertura esperada | Cobertura esperada como % de la Población Objetivo
 Montevideo y Canelones | 49.000 | 53% | 17.200 | 45% | 24.000 | 46% | 49%
 Resto | 44.000 | 47% | 20.900 | 55% | 28.000 | 54% | 63%
 
@@ -898,15 +943,16 @@ Al finalizar  el  año  2009  estarán  incorporadas  a  los  Programas�
 
 Para la proyección de cobertura cabe realizar algunas precisiones: (i) en ningún caso se altera la situación actual aunque las acciones se estén implementando en Escuelas que no resulten  ser  de  contexto  Muy  Desfavorable;  (ii)  para  el  caso  de  la  ERD,  se analizan por separado su extensión sólo a las Escuelas de contexto Muy Desfavorable y su universalización al total de Escuelas Urbanas del país.
 
-Línea de Acción | Meta de Cobertura | Costo Estimado En miles de US$
+Línea de Acción | Meta de Cobertura |  | Costo Estimado En miles de US$ | 
+ |  |  | 2008 | 2009
 --- | --- | --- | --- | ---
-2008 | 2009
-Programa de Maestros Comunitarios | Escuelas | 392 | 2.000 | 2.000
-ANEP/CEP - MIDES/Infamilia | Matrícula (niños/as) | 131.326
-Estrategia de Recreación y Deporte ANEP/CEP - MTD/DINADE ­ | Escuelas | 982 | 1.250 | 2.500
-MIDES/infamilia | Matrícula (niños/as) | 343.945 | 500 | 500
-Ampliación de Cobertura de Club de niños INAU | Convenios para Club de Niños | 10
-Niños/as Subtotal | 3.750 | 5.000
+Programa de Maestros Comunitarios<br>ANEP/CEP – MIDES/Infamilia | Escuelas | 392 | 2.000 | 2.000
+ | Matrícula (niños/as) | 131.326 |  |
+Estrategia de Recreación y Deporte<br>ANEP/CEP – MTD/DINADE - MIDES/infamilia | Escuelas | 982 | 1.250 | 2.500
+ | Matrícula (niños/as) | 343.945 |  |
+Ampliación de Cobertura de Club de niños<br>INAU | Convenios para Club de Niños | 10 | 500 | 500
+ | Niños/as | 500 |  |
+Subtotal |  |  | 3.750 | 5.000
 
 #### C. Mejorar la integración social (en especial, educación, salud y participación social) de las/os adolescentes y jóvenes en Uruguay
 
@@ -916,7 +962,7 @@ Las acciones que se detallarán comprenden a adolescentes entre los 13
 
 A  diferencia  del  sistema  de  Educación  Primaria,  que  puede  catalogarse  como 'maduro', en comparación con otros países de la región tanto en lo que refiere a tasas de cobertura, como a tasas de egreso donde ambas son prácticamente universales, el ciclo medio de la enseñanza presenta una baja tasa neta de cobertura global.
 
-La  desvinculación  de  los  adolescentes  y  jóvenes  de  los  sistemas  tradicionales  de inclusión social como son la educación y el trabajo, pero muy especialmente el primero en  el  tramo  etáreo  indicado  precedentemente,  afecta  fundamentalmente  a  aquellos que pertenecen a hogares pobres. Siguiendo los datos de la EHA (2006), mientras que para el total de jóvenes, la tasa de 'no estudia ni trabaja' es de 13,5%, en el 1er. quintil de distribución del ingreso trepa a 23,5%, en tanto que para el último quintil es tan solo 2,7%. Si se mira la tasa de adolescentes (hasta 16 años) que no estudian, para el total del  país  es  de  10,8%  y  en  el  1er.  quintil  es  de  18,6%.  En  cuanto  a  la  distribución geográfica, Montevideo y Canelones explican un poco más del 50% del problema de desvinculación de los adolescentes y jóvenes.
+La desvinculación de los adolescentes y jóvenes de los sistemas tradicionales de inclusión social como son la educación y el trabajo, pero muy especialmente el primero en el tramo etáreo indicado precedentemente, afecta fundamentalmente a aquellos
 
 43
 
@@ -924,7 +970,9 @@ La  desvinculación  de  los  adolescentes  y  jóvenes  de  los  siste
 
 [[START OF PAGE 42]]
 
-En  consonancia  con  lo  indicado  precedentemente,  se  priorizará  a  la  población adolescente y joven perteneciente a hogares correspondientes al 1er. quintil de ingresos, donde evidentemente se concentran las mayores proporciones de desvinculación con la educación formal - uno de cada 5 adolescentes o jóvenes entre 13 y 18 años, no registra asistencia a educación o vinculación al trabajo ­. Con base a lo expresado precedentemente, la cobertura total alcanzaría a 20.000 adolescentes y jóvenes de todo el país.
+que pertenecen a hogares pobres. Siguiendo los datos de la EHA (2006), mientras que para el total de jóvenes, la tasa de “no estudia ni trabaja” es de 13,5%, en el 1er. quintil de distribución del ingreso trepa a 23,5%, en tanto que para el último quintil es tan solo 2,7%. Si se mira la tasa de adolescentes (hasta 16 años) que no estudian, para el total del país es de 10,8% y en el 1er. quintil es de 18,6%. En cuanto a la distribución geográfica, Montevideo y Canelones explican un poco más del 50% del problema de desvinculación de los adolescentes y jóvenes.
+
+En consonancia con lo indicado precedentemente, se priorizará a la población adolescente y joven perteneciente a hogares correspondientes al 1er. quintil de ingresos, donde evidentemente se concentran las mayores proporciones de desvinculación con la educación formal - uno de cada 5 adolescentes o jóvenes entre 13 y 18 años, no registra asistencia a educación o vinculación al trabajo -. Con base a lo expresado precedentemente, la cobertura total alcanzaría a 20.000 adolescentes y jóvenes de todo el país.
 
 El  problema  antes  descrito  se  abordará  con  acciones  dirigidas  a  revincular  a  los adolescentes al sistema educativo, extender el primer nivel de atención de salud con especial atención en la prevención del embarazo adolescente no deseado y promover la participación juvenil.
 
@@ -934,9 +982,9 @@ El  problema  antes  descrito  se  abordará  con  acciones  dirigidas 
 
 Administración Nacional de Educación Pública (ANEP);  las acciones previstas se encuadran en el  objetivo  estratégico  general  de  Universalización  del  Ciclo  Básico. Las mismas comprenden acciones contingentes que responden específicamente a la necesidad de  desarrollar  políticas  de  impacto  en  las  poblaciones  socioeconómicas desfavorecidas, con dificultades de acceso o permanencia en el sistema educativo, vulnerables al fracaso escolar.  Dentro de estas se ubican:
 
-- Programa de Impulso a la Universalización del Ciclo Básico en 74 Liceos del CES, cuyo objetivo específico apunta a mejorar los aprendizajes y los índices de promoción en 74 liceos del Ciclo Básico (33 liceos de la capital y 41 liceos del interior del país) que presentan mayores índices de fracaso escolar en los últimos 10 años. Este Programa  se  estructura en  5 componentes  principales (i) Fortalecimiento técnico pedagógico de los liceos, (asignación de horas docentes extracurriculares para la atención, evaluación, monitoreo y atención de estudiantes con dificultades de carácter educativo; supone talleres para Inspectores y equipos directivos para formar 74 Equipos Directivos, talleres para formar a 500 docentes, etc.); (ii) Fortalecimiento de equipos técnicos de atención psicosocial  (asignación  de  Equipos  Multidisciplinarios  ­Psicólogos,  Asistentes Sociales­,  (iii)  Transferencias  de  recursos  de  ejecución  local  (transferencia  de recursos  no  económicos  ­ropa,  útiles,  transporte,  alimentación­  destinados  a alumnos  con  serias  dificultades),  (iv)  Atención  personalizada  a  los  estudiantes vulnerables al fracaso, es el eje central del proyecto y supone la convergencia de recursos técnicos, docentes y financieros destinadas a impactar en los principales inhibidores del éxito escolar preexistentes; (v) Participación social y comunicación social.
+a) Programa de Impulso a la Universalización del Ciclo Básico en 74 Liceos del CES, cuyo objetivo específico apunta a mejorar los aprendizajes y los índices de promoción en 74 liceos del Ciclo Básico (33 liceos de la capital y 41 liceos del interior del país) que presentan mayores índices de fracaso escolar en los últimos 10 años. Este Programa se estructura en 5 componentes principales (i) Fortalecimiento técnico pedagógico de los liceos, (asignación de horas docentes extracurriculares para la atención, evaluación, monitoreo y atención de estudiantes con dificultades de carácter educativo; supone talleres para Inspectores y equipos directivos para formar 74 Equipos Directivos, talleres para formar a 500 docentes, etc.); (ii) Fortalecimiento de equipos técnicos de atención psicosocial (asignación de Equipos Multidisciplinarios -Psicólogos, Asistentes Sociales-, (iii) Transferencias de recursos de ejecución local (transferencia de recursos no económicos -ropa, útiles, transporte, alimentación- destinados a alumnos con serias dificultades), (iv) Atención personalizada a los estudiantes vulnerables al fracaso, es el eje central del proyecto y supone la convergencia de recursos técnicos, docentes y financieros destinadas a impactar en los principales inhibidores del éxito escolar preexistentes; (v) Participación social y comunicación social.
 
-- Acciones 'puente' para la vinculación de sextos años de Escuela Pública con Liceos del CES, esta línea de acción se propone garantizar el tránsito entre la Educación Primaria y Secundaria. Será ejecutado en conjunto entre el CEP y CES.
+b) Acciones “puente” para la vinculación de sextos años de Escuela Pública con Liceos del CES, esta línea de acción se propone garantizar el tránsito entre la Educación Primaria y Secundaria. Será ejecutado en conjunto entre el CEP y CES.
 
 44
 
@@ -944,23 +992,23 @@ Administración Nacional de Educación Pública (ANEP);  las acciones p
 
 [[START OF PAGE 43]]
 
-- Programa 'Pintó  Deporte en  el  Liceo',  está  dirigido  a  adolescentes  de  ciclo básico de 12 a 15 años tiene por objeto incrementar los niveles de actividad física y deportiva de los alumnos de secundaria, y procura que estos se involucren de diferentes  maneras  (sea  como  jugadores,  como  atletas,  como  simpatizantes de los equipos de cada clase o liceo). En su implementación se complementan los esfuerzos del  CES  en  articulación  con  el  MTD,  ANCAP,  MIDES/INJU,  diversas intendencias  e  instituciones  locales,  que  aportan  desde  recursos  humanos, infraestructura deportiva e  insumos deportivos, para  los  traslados  y  alojamiento de delegaciones.
+c) Programa “Pintó Deporte en el Liceo”, está dirigido a adolescentes de ciclo básico de 12 a 15 años tiene por objeto incrementar los niveles de actividad física y deportiva de los alumnos de secundaria, y procura que estos se involucren de diferentes maneras (sea como jugadores, como atletas, como simpatizantes de los equipos de cada clase o liceo). En su implementación se complementan los esfuerzos del CES en articulación con el MTD, ANCAP, MIDES/INJU, diversas intendencias e instituciones locales, que aportan desde recursos humanos, infraestructura deportiva e insumos deportivos, para los traslados y alojamiento de delegaciones.
 
-- Programa de Aulas Comunitarias, forma parte de las denominadas políticas de contingencia y tiene por objeto la re­incorporación  y  permanencia  de  los adolescentes  en  los  centros  de  enseñanza  públicos  de  Educación  Media.  Está dirigido  a  adolescentes  de  12  a  15  años  con  problemas  de  vinculación  a  la educación media formal, sea porque: (i) se desvincularon de la misma; (ii) nunca hayan registrado matriculación; o que, (iii) cursando Primer Año del Ciclo Básico, presenten elevado riesgo de desvinculación (inasistencias reiteradas, dificultades en  el  comportamiento  y  la  convivencia  en  el  aula,  bajo  rendimiento).  Se implementa en articulación entre la ANEP/CES, el MIDES/Infamilia y MTSS/INDA.
+d) Programa de Aulas Comunitarias, forma parte de las denominadas políticas de contingencia y tiene por objeto la re-incorporación y permanencia de los adolescentes en los centros de enseñanza públicos de Educación Media. Está dirigido a adolescentes de 12 a 15 años con problemas de vinculación a la educación media formal, sea porque: (i) se desvincularon de la misma; (ii) nunca hayan registrado matriculación; o que, (iii) cursando Primer Año del Ciclo Básico, presenten elevado riesgo de desvinculación (inasistencias reiteradas, dificultades en el comportamiento y la convivencia en el aula, bajo rendimiento). Se implementa en articulación entre la ANEP/CES, el MIDES/Infamilia y MTSS/INDA.
 
-- Ampliación de cupos de  Ciclo Básico Tecnológico Agrario en 12 Escuelas Agrarias  del  CETP,  este  Programa  apunta  a  ampliar  la  cobertura  en  la enseñanza  media  básica  para  adolescentes  del  medio  rural  para  atender  la demanda  insatisfecha  del  Ciclo  Básico  Tecnológico  Agrario  a  través  de  la ampliación  de  los  internados  en  doce  'escuelas  de  alternancia'.  Implica  la readecuación de infraestructura edilicia;  construcción de aulas y ampliación de la capacidad de alojamiento.
+e) Ampliación de cupos de  Ciclo Básico Tecnológico Agrario en 12 Escuelas Agrarias del CETP, este Programa apunta a ampliar la cobertura en la enseñanza media básica para adolescentes del medio rural para atender la demanda insatisfecha del Ciclo Básico Tecnológico Agrario a través de la ampliación de los internados en doce “escuelas de alternancia”. Implica la readecuación de infraestructura edilicia;  construcción de aulas y ampliación de la capacidad de alojamiento.
 
-- Programa de verano en escuelas agrarias: 'Tu escuela los 365', el programa está dirigido a los adolescentes del medio rural de escuelas agrarias y se propone implementar, durante los meses de enero y febrero, actividades fundamentalmente prácticas pero de corte lúdico que contribuyan a fortalecer el vínculo de los jóvenes entre sí y con la institución educativa, a la par de generar una oportunidad para resignificar el aprendizaje.
+f) Programa de verano en escuelas agrarias: “Tu escuela los 365”, el programa está dirigido a los adolescentes del medio rural de escuelas agrarias y se propone implementar, durante los meses de enero y febrero, actividades fundamentalmente prácticas pero de corte lúdico que contribuyan a fortalecer el vínculo de los jóvenes entre sí y con la institución educativa, a la par de generar una oportunidad para resignificar el aprendizaje.
 
 Ministerio de Educación y Cultura (MEC), los dispositivos previstos serán:
 
-- Ajustes al  Sistema  de  Becas,  ley  15.851,  se  reorienta  el programa de apoyo económico dirigido a estudiantes que ingresan o que están insertos en el sistema educativo  formal,  priorizando  el  ciclo  básico,  que  se  encuentren  en  riesgo  de abandono  o  de  no  inserción  en  el  mismo  y  que  pertenezcan  a  hogares  en situación  socioeconómica  de  vulnerabilidad.  De  acuerdo  a  la  ley  15.851,  es gestionado  por  la  Comisión  Nacional  de  Becas  integrada  por:  MEC,  ANEP, UdelaR, Congreso de Intendentes.
+a) Ajustes al Sistema de Becas, ley 15.851, se reorienta el programa de apoyo económico dirigido a estudiantes que ingresan o que están insertos en el sistema educativo formal, priorizando el ciclo básico, que se encuentren en riesgo de abandono o de no inserción en el mismo y que pertenezcan a hogares en situación socioeconómica de vulnerabilidad. De acuerdo a la ley 15.851, es gestionado por la Comisión Nacional de Becas integrada por: MEC, ANEP, UdelaR, Congreso de Intendentes.
 
 ###### EDUCACIÓN. Revincular al sistema educativo a adolescentes y jóvenes que no  han completado  la  educación  media  básica  a  adolescentes  y  jóvenes  entre  15  y  18 años.
 
 Administración Nacional de Educación Pública (ANEP); los dispositivos especiales previstos por la ANEP serán:
 
-- Plan  de  Formación  Profesional  en  el  CETP,  es  un  nuevo  plan  de  estudios implementado en 11 escuelas de CETP del país desde el 2008, dirigido a jóvenes de  15  a  20  años  que  terminaron  Educación  Primaria  o  no  culminaron  el  Ciclo Básico o educación Media Básica. Tiene por objeto permitir la reinserción de los adolescentes y jóvenes en el sistema educativo, facilitar su continuidad educativa dentro  del  sistema  educativo  y  otorgar  el  certificado  de  Operario  Práctico.  Las
+a) Plan de Formación Profesional en el CETP, es un nuevo plan de estudios implementado en 11 escuelas de CETP del país desde el 2008, dirigido a jóvenes de 15 a 20 años que terminaron Educación Primaria o no culminaron el Ciclo Básico o educación Media Básica. Tiene por objeto permitir la reinserción de los adolescentes y jóvenes en el sistema educativo, facilitar su continuidad educativa dentro del sistema educativo y otorgar el certificado de Operario Práctico. Las
 
 45
 
@@ -970,25 +1018,25 @@ Administración Nacional de Educación Pública (ANEP); los dispositivos
 
 áreas  de  formación  que  se  plantean  en  principio  son:  Gastronomía,  madera  y afines, construcción, electrotecnia, mecánica  general, mecánica  automotriz, industrias gráficas, vestimenta, belleza y agraria.
 
-- Sistema Formación Profesional Básica, el mismo incluye al Plan de Formación Básica del CETP, descrito en el apartado anterior pero agrega otros cursos de otros  programas,  que  ya  se  imparten.  Posibilitará  entrar  a  más  jóvenes  en  la dinámica de la continuidad educativa dentro de la institución. Por esta razón el Sistema impactará en más jóvenes que los previstos en el nuevo Plan.
+b) Sistema Formación Profesional Básica, el mismo incluye al Plan de Formación Básica del CETP, descrito en el apartado anterior pero agrega otros cursos de otros programas, que ya se imparten. Posibilitará entrar a más jóvenes en la dinámica de la continuidad educativa dentro de la institución. Por esta razón el Sistema impactará en más jóvenes que los previstos en el nuevo Plan.
 
-- Fondo  de  Equidad  del  CEPT,  tiene  por  objeto  lograr  la  permanencia  de adolescentes  y  jóvenes de  15  a  20  años  de  menores  ingresos,  incluidos  en  el sistema educativo, para que  dispongan de  los materiales  y  equipos necesarios para  realizar  sus  cursos  evitando que  estas  carencias  constituyan  un factor  de desestímulo  para  su  continuidad  educativa.  Este  fondo  contemplará  las  11 escuelas que implementarán el Plan de Formación Profesional Básica.
+c) Fondo de Equidad del CEPT, tiene por objeto lograr la permanencia de adolescentes y jóvenes de 15 a 20 años de menores ingresos, incluidos en el sistema educativo, para que dispongan de los materiales y equipos necesarios para realizar sus cursos evitando que estas carencias constituyan un factor de desestímulo para su continuidad educativa. Este fondo contemplará las 11 escuelas que implementarán el Plan de Formación Profesional Básica.
 
-- Pasantías laborales del CETP, Con un objetivo similar de prevenir el abandono de  los  estudios  por  razones  económicas  esta  línea  de  trabajo  está  dirigida  a adolescentes de 16 años en adelante, con menores ingresos.
+d) Pasantías laborales del CETP, Con un objetivo similar de prevenir el abandono de los estudios por razones económicas esta línea de trabajo está dirigida a adolescentes de 16 años en adelante, con menores ingresos.
 
-- Califícate laboralmente, para posibilitar el acceso al mundo del trabajo a jóvenes estudiantes  de  UTU  y  Secundaria  a  través  de  capacitaciones  específicas,  que provean  de  herramientas  cognitivas  y  destrezas  vinculadas  al  mundo  laboral, fomentando  estudios  técnico  y  tecnológicos.  Está  dirigido  a  estudiantes  de segundo ciclo de educación media.
+e) Califícate laboralmente, para posibilitar el acceso al mundo del trabajo a jóvenes estudiantes de UTU y Secundaria a través de capacitaciones específicas, que provean de herramientas cognitivas y destrezas vinculadas al mundo laboral, fomentando estudios técnico y tecnológicos. Está dirigido a estudiantes de segundo ciclo de educación media.
 
-- Sistema de becas laborales para alumnos de liceos del CES, este sistema de becas procura colaborar estudiantes que tienen dificultades económicas. Apuesta a la continuidad educativa, al incremento del egreso y a proporcionar una primera experiencia laboral. Las becas se adjudican según la escolaridad de los alumnos y    se  implementan  como pasantías  laborales,  en  servicios  y  administración,  en otros liceos diferentes al que asisten.
+f) Sistema de becas laborales para alumnos de liceos del CES, este sistema de becas procura colaborar estudiantes que tienen dificultades económicas. Apuesta a la continuidad educativa, al incremento del egreso y a proporcionar una primera experiencia laboral. Las becas se adjudican según la escolaridad de los alumnos y se implementan como pasantías laborales, en servicios y administración, en otros liceos diferentes al que asisten.
 
 Ministerio  de  Educación  y  Cultura  (MEC)  /  CECAP;  los  dispositivos  previstos  el CECAP serán:
 
-- Programa  Nacional  de  Educación  y  Trabajo  de  CECAP,  este  Programa  de educación no formal e integral, tiene por objeto la reducción de la desvinculación y la revinculación a la enseñanza media o al mundo del trabajo de adolescentes y jóvenes  de  15  a  20  años,  con  Educación  Primaria  completa,  Ciclo  Básico  no iniciado o inconcluso. Los beneficiarios acceden al Programa desde los SOCAT de Infamilia (MIDES), Intendencias, OSC, INAU, INJU (Rutas de Salida adolescente). El egreso del Programa es hacia CES, UTU o Mercado de trabajo.
+a) Programa Nacional de Educación y Trabajo de CECAP, este Programa de educación no formal e integral, tiene por objeto la reducción de la desvinculación y la revinculación a la enseñanza media o al mundo del trabajo de adolescentes y jóvenes de 15 a 20 años, con Educación Primaria completa, Ciclo Básico no iniciado o inconcluso. Los beneficiarios acceden al Programa desde los SOCAT de Infamilia (MIDES), Intendencias, OSC, INAU, INJU (Rutas de Salida adolescente). El egreso del Programa es hacia CES, UTU o Mercado de trabajo.
 
 ###### SALUD. Promoción de la atención primaria de salud en los adolescentes.
 
 Administración de los Servicios de Salud del Estado (ASSE); en su carácter de prestador y coordinador de los servicios de salud del Estado, fortalecerá el primer nivel de atención en adolescentes mediante:
 
-- Control de salud integral, se propone brindar atención integral a la salud de las y los adolescentes de 12 a 19 años de contexto crítico, con prioridad en la franja de 12 a 14 años. Por ello se trabajará en los 74 liceos participantes del Programa de  Impulso  a  la  Universalización  del  Ciclo  Básico  de  la  ANEP/CES,  las  12 Escuelas  Agrarias  del  ANEP/CETP  y  las  Aulas  Comunitarias  ANEP/CES  e INFAMILIA/MIDES. El examen de salud integral y el correspondiente Carné del Adolescente,  elaborados  y  protocolizados  por  la  Programa  Nacional  de  Salud Adolescente de la DIGESA (MSP), habilitan a la realización de actividad física y deportes. La concreción de este componente supone la articulación de diferentes organismos,  la  DIGESA  (MSP),  la  Red  de  Atención  Primaria  de  Salud  de
+a) Control de salud integral, se propone brindar atención integral a la salud de las y los adolescentes de 12 a 19 años de contexto crítico, con prioridad en la franja de 12 a 14 años. Por ello se trabajará en los 74 liceos participantes del Programa de Impulso a la Universalización del Ciclo Básico de la ANEP/CES, las 12 Escuelas Agrarias del ANEP/CETP y las Aulas Comunitarias ANEP/CES e INFAMILIA/MIDES. El examen de salud integral y el correspondiente Carné del Adolescente, elaborados y protocolizados por la Programa Nacional de Salud Adolescente de la DIGESA (MSP), habilitan a la realización de actividad física y deportes. La concreción de este componente supone la articulación de diferentes organismos, la DIGESA (MSP), la Red de Atención Primaria de Salud de
 
 46
 
@@ -998,25 +1046,25 @@ Administración de los Servicios de Salud del Estado (ASSE); en su c
 
 Montevideo e interior de ASSE, el Sistema Mutual y las Intendencias junto con el CES.
 
-- Arrimáte a la Salud, iniciativas Juveniles en promoción de salud, esta línea de trabajo tiene por objeto la promoción integral de la salud con especial énfasis en  la  salud  sexual  y  reproductiva  y  la  prevención  de  ITS  Sida.  Está  dirigida  a adolescentes y jóvenes de todo el país y busca promover la participación juvenil en relación a temas de la salud a través de un llamado abierto a la presentación de propuestas e iniciativas a desarrollarse en los distintos barrios y localidades con participación activa de adolescentes, jóvenes y promotores juveniles. Estas acciones suponen la articulación con MIDES/INJU/Infamilia, INAU/CAIF, ANEP/CES/CETP Programa Nacional de Salud Adolescente, ASSE/MSP y otras instituciones de la comunidad.
+b) Arrimáte a la Salud, iniciativas Juveniles en promoción de salud, esta línea de trabajo tiene por objeto la promoción integral de la salud con especial énfasis en la salud sexual y reproductiva y la prevención de ITS Sida. Está dirigida a adolescentes y jóvenes de todo el país y busca promover la participación juvenil en relación a temas de la salud a través de un llamado abierto a la presentación de propuestas e iniciativas a desarrollarse en los distintos barrios y localidades con participación activa de adolescentes, jóvenes y promotores juveniles. Estas acciones suponen la articulación con MIDES/INJU/Infamilia, INAU/CAIF, ANEP/CES/CETP Programa Nacional de Salud Adolescente, ASSE/MSP y otras instituciones de la comunidad.
 
-- Programa de acompañamiento a madres adolescentes, se realiza desde los Espacios  Adolescentes  de  ASSE  para  la  prevención  de  la  reiteración  del embarazo  adolescente  y  optimizar  los  niveles  de  responsabilidad  en  la  Salud Sexual y Reproductiva (SSyR) de los adolescentes, con énfasis en la prevención, reducción y atención del embarazo adolescente no planificado.
+c) Programa de acompañamiento a madres adolescentes, se realiza desde los Espacios Adolescentes de ASSE para la prevención de la reiteración del embarazo adolescente y optimizar los niveles de responsabilidad en la Salud Sexual y Reproductiva (SSyR) de los adolescentes, con énfasis en la prevención, reducción y atención del embarazo adolescente no planificado.
 
-El Instituto del Niño y el Adolescente del Uruguay (INAU)
+El Instituto del Niño y el Adolescente del Uruguay (INAU)
 
-- Ampliación  de  los  programas  de  atención  de  adicciones,  dentro  de  los lineamientos  de  promoción  y  atención  de  salud  de  los  adolescentes  bajo  su responsabilidad, el INAU desarrolla acciones de atención específica en adicciones  a  adolescentes  de  12  a  18  años  con  consumo  problemático  de sustancias.  Este  componente  de  la  matriz  procura  aumentar  la  cobertura  y  las prestaciones  para  esta  población  a  partir  del  incremento  y  la  readecuación  de infraestructuras locativas.  Coordina acciones con ASSE/MSP y con intendencia de Maldonado.
+a) Ampliación de los programas de atención de adicciones, dentro de los lineamientos de promoción y atención de salud de los adolescentes bajo su responsabilidad, el INAU desarrolla acciones de atención específica en adicciones a adolescentes de 12 a 18 años con consumo problemático de sustancias. Este componente de la matriz procura aumentar la cobertura y las prestaciones para esta población a partir del incremento y la readecuación de infraestructuras locativas. Coordina acciones con ASSE/MSP y con intendencia de Maldonado.
 
 ###### PARTICIPACIÓN adolescente y juvenil para la inclusión social.
 
 Instituto del Niño y el Adolescente del Uruguay (INAU)
 
-- Centros Juveniles del INAU, como espacios educativos y recreativos de atención integral  de  tiempo  parcial  para  adolescentes  entre  12  y  17  años  y  11  meses, incluidos o no en el sistema de educación formal (primaria completa o en vías de su terminación a través de cursos de Acreditación por Experiencia y desertores del sistema  Educativo  Formal  o  Informal)  y  procedentes  de  familias  que  presenten factores de vulnerabilidad social.
+a) Centros Juveniles del INAU, como espacios educativos y recreativos de atención integral de tiempo parcial para adolescentes entre 12 y 17 años y 11 meses, incluidos o no en el sistema de educación formal (primaria completa o en vías de su terminación a través de cursos de Acreditación por Experiencia y desertores del sistema Educativo Formal o Informal) y procedentes de familias que presenten factores de vulnerabilidad social.
 
 Ministerio de Desarrollo Social (MIDES) apoyará la articulación político - sectorial y la construcción de redes locales de protección a la adolescencia. El Programa Infamilia del MIDES, mediante el trabajo de los Servicios de Orientación, Consulta y Articulación Territorial  (SOCAT),  también  apoyará  la  articulación  de  los  servicios  y  acciones  de atención a nivel territorial, consolidando y cruzando los datos a través de sistemas de información.
 
 Asimismo, los dispositivos específicos a implementar serán:
 
-- Arrimáte ­ Espacio Joven del INJU, está dirigido a adolescentes y jóvenes de entre 12 y 20 años y tiene por objeto promover la participación juvenil, así como la reinserción  y  sostén  a  nivel  educativo.  Desarrolla  sus  acciones  sobre  tres dimensiones:  1.  Atención  directa  a  adolescentes  y  jóvenes,  2.  Trabajo  con familias  y    3.  Trabajo  en  red  /  comunitario.  A  su  vez,  cuatro  ejes  principales atraviesan  las  líneas  de  trabajo:  Participación,  Salud,  Educación  y  Recreación­ socialización.  Son  impulsados  por  el  INJU  y  cuentan  con  el  apoyo  de  las
+a) Arrimáte - Espacio Joven del INJU, está dirigido a adolescentes y jóvenes de entre 12 y 20 años y tiene por objeto promover la participación juvenil, así como la reinserción y sostén a nivel educativo. Desarrolla sus acciones sobre tres dimensiones: 1. Atención directa a adolescentes y jóvenes, 2. Trabajo con familias y 3. Trabajo en red / comunitario. A su vez, cuatro ejes principales atraviesan las líneas de trabajo: Participación, Salud, Educación y Recreación-socialización. Son impulsados por el INJU y cuentan con el apoyo de las
 
 47
 
@@ -1026,11 +1074,11 @@ Asimismo, los dispositivos específicos a implementar serán:
 
 Intendencias Municipales y son implementados por Organizaciones de la Sociedad Civil.
 
-- Integración  social  de  adolescentes,  INJU  ­  CECAP,  tiene  como  objetivo general: brindar oportunidades de desarrollo personal e integración ciudadana a adolescentes  de  entre  14  y  19  años  de  edad,  como  estrategia  para  facilitar procesos  educativos de inclusión social. El programa tiene una duración de ocho meses,  al  término  del  cual  se  prevé  la  continuación  con:  CECAP  -  MEC  y/o sistema  educativo  a  los  efectos  de  facilitar  la  inserción  y  desarrollo  de  un itinerario educativo acorde a las expectativas y posibilidades de cada protagonista.
+b) Integración social de adolescentes, INJU - CECAP, tiene como objetivo general: brindar oportunidades de desarrollo personal e integración ciudadana a adolescentes de entre 14 y 19 años de edad, como estrategia para facilitar procesos educativos de inclusión social. El programa tiene una duración de ocho meses, al término del cual se prevé la continuación con: CECAP - MEC y/o sistema educativo a los efectos de facilitar la inserción y desarrollo de un itinerario educativo acorde a las expectativas y posibilidades de cada protagonista.
 
-- Amplificá Tu Voz de INJU - TV CIUDAD/IMM, está dirigido a  adolescentes y jóvenes de entre  14  y  29 años, de  todo  el  país.  Tiene  como objetivo facilitar  y promover  la  participación  juvenil  desde  el  eje  comunicacional.  El  Programa procura  construir  o  redimensionar  nuevas  formas  de  comunicar  y  participar  en función de los intereses y posibilidades de cada grupo y localidad. El programa es ejecutado por organizaciones de la sociedad civil.
+c) Amplificá Tu Voz de INJU - TV CIUDAD/IMM, está dirigido a adolescentes y jóvenes de entre 14 y 29 años, de todo el país. Tiene como objetivo facilitar y promover la participación juvenil desde el eje comunicacional. El Programa procura construir o redimensionar nuevas formas de comunicar y participar en función de los intereses y posibilidades de cada grupo y localidad. El programa es ejecutado por organizaciones de la sociedad civil.
 
-- Programa de Inclusión Social y Cultural del INJU ­ DINACIS/MIDES - MEC, desarrolla habilidades artístico culturales a través de 100 talleres en todo el país, trabajando en conjunto con organizaciones sociales, agrupaciones juveniles, etc.
+d) Programa de Inclusión Social y Cultural del INJU - DINACIS/MIDES - MEC, desarrolla habilidades artístico culturales a través de 100 talleres en todo el país, trabajando en conjunto con organizaciones sociales, agrupaciones juveniles, etc.
 
 ##### C.3 Resultado esperado
 
@@ -1103,7 +1151,7 @@ Ampliación de cupos de Ciclo Básico Tecnológico Agrario en 12 Escuelas Agrari
 Programa Aprender Siempre | MEC/ANEP | 2.000 adultos en 2008 y 3.000 en 2009 | 60 | 90
 Programa de verano en escuelas agrarias 'Tu escuela los 365' para Canelones y Paysandú. | ANEP/CETP; /Intendencias; MTSS/INDA | 150 adolescentes anuales a partir del 2009 | ­ | 90
 Subtotal | 3.493 | 4.380
-EDUCACIÓN: Revincular al sistema educativo a adolescentes y jóvenes que educación media básica de adolescentes y jóvenes de 15 a 18 años. | han completado la
+EDUCACIÓN: Revincular al sistema educativo a adolescentes y jóvenes que no han completado la educación media básica de adolescentes y jóvenes de 15 a 18 años.
 Nuevo plan de estudios implementado en 11 escuelas de CETP del país desde el 2008: • Plan Formación Profesional Básica. • Sistema Formación Profesional Básica. | ANEP/CETP | 300 adolescentes en el 2008 y 900 a partir del 2009. 1.200 adolescentes en el 2008 y 4.200 a partir del 2009. | 816 | 1.980
 Fondo de Equidad para la compra de equipos y materiales para los cursos del CETP. | 1.000 adolescentes en el 2008 y 3.000 a partir del 2009. | 250 | 350
 Pasantías laborales. | 100 jóvenes en el 2008 y 250 a partir de 2009. | 153 | 250
@@ -1156,9 +1204,9 @@ Tiene por finalidad fortalecer los procesos de integración social reco
 
 El componente Trabajo Promovido contará con dos Subprogramas:
 
-- Subprograma Uruguay Trabaja
+i) Subprograma Uruguay Trabaja
 
-- ii) Subprograma Incentivo a la Contratación
+ii) Subprograma Incentivo a la Contratación
 
 Población destinataria: Personas desocupadas por más de dos años en situación de pobreza  (una  por  hogar  y  por  convocatoria),  con  menos  de  9  años  de  escolaridad, entre 18 y 65 años.
 
@@ -1170,17 +1218,17 @@ Metodología:  El  proceso  de  inscripción es  único y se realizará a t
 
 El programa se sustenta en tres pilares:
 
-- Desarrollo  de  actividades de valor público, necesarias y priorizadas por organismos públicos (con coordinación a cargo del MIDES) que generarán un ingreso en las personas que ejecuten los trabajos (transferencia monetaria a cargo del BPS por un monto de 2.35 BPC, Base de Prestaciones y Contribuciones).
+1) Desarrollo de actividades de valor público, necesarias y priorizadas por organismos públicos (con coordinación a cargo del MIDES) que generarán un ingreso en las personas que ejecuten los trabajos (transferencia monetaria a cargo del BPS por un monto de 2.35 BPC, Base de Prestaciones y Contribuciones).
 
-Asignación de responsabilidades a unidades ejecutoras con capacidad de gestión
+Asignación de responsabilidades a unidades ejecutoras con capacidad de gestión
 
-Aportes a los procesos de inclusión: educación, salud
+Aportes a los procesos de inclusión: educación, salud
 
-Instituciones públicas priorizadas. ANEP, MSP, INAU, Intendencias Municipales.
+Instituciones públicas priorizadas. ANEP, MSP, INAU, Intendencias Municipales.
 
-- Desarrollo de programas de promoción social a las y los trabajadores mediante una línea de intervención que atienda los factores personales y familiares que inhiben o dificultan el ingreso al  mercado  de trabajo (organización familiar, violencia doméstica, conductas adictivas, problemas de salud, ejercicio de derechos). (A cargo del MIDES).
+2) Desarrollo de programas de promoción social a las y los trabajadores mediante una línea de intervención que atienda los factores personales y familiares que inhiben o dificultan el ingreso al mercado de trabajo (organización familiar, violencia doméstica, conductas adictivas, problemas de salud, ejercicio de derechos). (A cargo del MIDES).
 
-- Desarrollo de programas de capacitación laboral y apoyo a opciones productivas. (A cargo de la DINAE/MTSS - JUNAE).
+3) Desarrollo de programas de capacitación laboral y apoyo a opciones productivas. (A cargo de la DINAE/MTSS - JUNAE).
 
 ##### A.2 Componentes del Diseño
 
@@ -1226,9 +1274,9 @@ A nivel territorial la cobertura será nacional, en especial en capita
 
 -Experiencias similares en otros países:
 
-- Los  participantes  en  este  tipo  de  programa  son  los  que  muestran  mayores probabilidades de insertarse en el mercado de trabajo luego de que finaliza el programa
+a) Los participantes en este tipo de programa son los que muestran mayores probabilidades de insertarse en el mercado de trabajo luego de que finaliza el programa
 
-- Básicamente se 'cambia el lugar en la cola' de las vacantes existentes y en muy escasa medida se favorecería la creación de nuevos puestos.
+b) Básicamente se “cambia el lugar en la cola” de las vacantes existentes y en muy escasa medida se favorecería la creación de nuevos puestos.
 
 -Su efectividad está directamente relacionada con el contexto de recuperación de la actividad económica.
 
@@ -1246,7 +1294,7 @@ Insertar en el mercado de trabajo a desocupados/as de larga duración�
 
 -Inserción laboral en empresas privadas de un máximo de 3.000 participantes por un período de doce meses.
 
--Orientación  laboral  a  trabajadores  inscriptos  en  el  Programa  'Pro  Trabajo'  que manifiesten interés (máximo de 10.000 participantes por año).
+-Orientación laboral a trabajadores inscriptos en el Programa “Pro Trabajo” que manifiesten interés (máximo de 10.000 participantes por año).
 
 -Potencialmente,  subsidio a  la  capacitación de  un  máximo  de 1.000 participantes por año a cargo de las empresas.
 
@@ -1372,7 +1420,7 @@ La administración y gestión de este instrumento estará a cargo de 
 
 Las Mesas Interinstitucionales departamentales tendrán un importante rol de propuesta en la adjudicación del beneficio, por su experiencia y conocimiento local.
 
-El diseño de las tarjetas se identificará por la inscripción: 'Gobierno de la República, Uruguay Social y Plan de Equidad'.
+El diseño de las tarjetas se identificará por la inscripción: “Gobierno de la República, Uruguay Social y Plan de Equidad”.
 
 Su  emisor  es  el  Banco  de  la  República  (BROU)  y  en  estos  momentos  está  en desarrollo un proceso licitatorio que proporcione la tecnología para construir un circuito de comercios adheridos para la adquisición de alimentos.
 
@@ -1400,11 +1448,11 @@ La población objetivo para estos casos son aquellos grupos que requieren alimen
 
 Se revisará el Programa AIPP en base a los siguientes criterios:
 
-- definir  los  servicios  sociales  que  brindan  las  asociaciones  civiles  e  instituciones públicas, promoviendo la asistencia alimentaria a aquellos servicios socioeducativos y recreativos en base a criterios claros del significado de tales actividades;
+a) definir los servicios sociales que brindan las asociaciones civiles e instituciones públicas, promoviendo la asistencia alimentaria a aquellos servicios socioeducativos y recreativos en base a criterios claros del significado de tales actividades;
 
-- impulsar propuestas de instalación de servicios de ese tipo, a través de llamados públicos,  en  aquellas  zonas  donde  no  existen  este  tipo  de  iniciativas  y  a  la  vez  se comprueban índices de carencias nutricionales significativos;
+b) impulsar propuestas de instalación de servicios de ese tipo, a través de llamados públicos, en aquellas zonas donde no existen este tipo de iniciativas y a la vez se comprueban índices de carencias nutricionales significativos;
 
-- apoyar con asistencia alimentaria a las instituciones públicas con servicios sociales constituidos.
+c) apoyar con asistencia alimentaria a las instituciones públicas con servicios sociales constituidos.
 
 Por otro lado, se mantendría el complemento de alimentación al Plan CAIF siguiendo la  misma  línea  de  trabajo  propuesta  en  AIPP.  Y  se  mantendrían  los  comedores públicos, atendiendo a su desempeño en términos de beneficiarios. Puesto que hoy el programa tiene planteado como problema el descenso de beneficiarios así como la participación del mismo en la estructura de costos del Instituto.
 
@@ -1427,7 +1475,7 @@ La población objetivo sería la población general y específica de programas a
 #### a)  Discapacidad:
 En  el  marco  de  una  estrategia  de unificación  del  conjunto  de  las políticas y programas que van dirigidos a la población con discapacidad e independientemente de su condición socioeconómica se establece la transferencia de competencias  hoy  afincadas  en  el  MSP  al  MIDES.  En  consecuencia  se  creará  el Programa Nacional de Discapacidad con los recursos, créditos presupuestales, bienes y obligaciones actuales, que se incluirán en la estructura de servicios del Ministerio de Desarrollo Social a partir del 1º de enero de 2008 una vez en vigencia la Rendición de Cuentas.
 
-Por otra parte también dependerán del MIDES el Centro de Rehabilitación 'Tiburcio Cachón' y el Instituto Nacional de Ciegos Gral. José Artigas, ambos focalizados en el problema  de  baja  visión  y  ceguera.  Asimismo  la  Comisión  Nacional  Honoraria  del Discapacitado estará en el ámbito del MIDES manteniendo su actual estatuto jurídico.
+Por otra parte también dependerán del MIDES el Centro de Rehabilitación “Tiburcio Cachón” y el Instituto Nacional de Ciegos Gral. José Artigas, ambos focalizados en el problema de baja visión y ceguera. Asimismo la Comisión Nacional Honoraria del Discapacitado estará en el ámbito del MIDES manteniendo su actual estatuto jurídico.
 
 Estos  cambios  permitirán  racionalizar  el  uso  de  los  recursos  públicos,  optimizar  la cooperación  con  el  sector  privado,  generar  nuevos  programas  y  servicios  para  el conjunto de la población con discapacidad, especialmente para aquellas personas y familias  en  mayor  desventaja  social  cuya  vulnerabilidad  se  incrementa  por  la  no disposición de recursos acordes a sus necesidades.
 
@@ -1469,13 +1517,13 @@ O en otra dirección, se procurará la unificación del sistema en un
 
 # VI. Anexos
 
-(1)  Decreto  de  creación  del  Gabinete  Social  y  del  Consejo  Nacional  de Coordinación de Políticas Sociales.
+(1) Decreto de creación del Gabinete Social y del Consejo Nacional de Coordinación de Políticas Sociales.
 
-- Proyecto  de  Ley  por  el  cual  se  introducen  reformas  en  el  sistema  de Asignaciones Familiares.
+(2) Proyecto de Ley por el cual se introducen reformas en el sistema de Asignaciones Familiares.
 
-- Proyecto Ley de creación de una prestación no contributiva 'Asistencia a la Vejez'
+(2) Proyecto Ley de creación de una prestación no contributiva “Asistencia a la Vejez”
 
-- Proyecto de Ley 'Uruguay Trabaja'. Subsidio monetario con contrapartidas.
+(3) Proyecto de Ley “Uruguay Trabaja”. Subsidio monetario con contrapartidas.
 
 60
 
@@ -1487,17 +1535,79 @@ O en otra dirección, se procurará la unificación del sistema en un
 
 ## ANEXO I
 
+CM/100
+
+Presidencia de la República Oriental del Uruguay
+
+MINISTERIO DEL INTERIOR
+MINISTERIO DE RELACIONES EXTERIORES
+MINISTERIO DE ECONOMIA Y FINANZAS
+MINISTERIO DE DEFENSA NACIONAL
+MINISTERIO DE EDUCACION Y CULTURA
+MINISTERIO DE TRANSPORTE Y OBRAS PUBLICAS
+MINISTERIO DE INDUSTRIA, ENERGIA Y MINERIA
+MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL
+MINISTERIO DE SALUD PUBLICA
+MINISTERIO DE GANADERIA, AGRICULTURA Y PESCA
+MINISTERIO DE TURISMO Y DEPORTE
+MINISTERIO DE VIVIENDA, ORDENAMIENTO TERRITORIAL Y MEDIO AMBIENTE
+MINISTERIO DE DESARROLLO SOCIAL
+
+Montevideo, 25 JUL 2005
+
+VISTO: las políticas y planes sociales llevados a cabo en distintos ámbitos del Poder Ejecutivo Nacional;
+
+RESULTANDO: que es necesario establecer una instancia interministerial a los efectos de garantizar e incrementar mayores niveles de coordinación, planificación, articulación, seguimiento y evaluación de las políticas públicas sociales del Estado, entre las diversas áreas de ejecución;
+
+CONSIDERANDO: I) que por Ley Nº 17.866 de 21 de marzo de 2005 se creó el Ministerio de Desarrollo Social, dentro de cuyos cometidos se encuentra la coordinación de las acciones, planes y programas intersectoriales implementados por el Poder Ejecutivo (artículo 9º literal “c”);
+
+II) que los Ministros y Autoridades de Desarrollo Social del MERCOSUR y Estados Asociados, reunidos en la Ciudad de Asunción, Capital de la República del Paraguay el día 1º de junio de 2005 declararon que para lograr que lo social se constituya en el eje articulador del proceso de
+
 61
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
+integración del bloque se deberá impulsar que la política social se constituya en articuladora de la política pública al interior de cada gobierno;
+
+ATENTO: a lo precedentemente expuesto, y a lo dispuesto por el artículo 149 de la Constitución de la República y demás disposiciones concordantes y complementarias;
+
+EL PRESIDENTE DE LA REPUBLICA
+actuando en Consejo de Ministros
+
+D E C R E T A:
+
+##### Artículo 1º.-
+Créase el Gabinete Social que estará integrado por los titulares de los Ministerios de Economía y Finanzas, de Educación y Cultura, de Trabajo y Seguridad Social, de Salud Pública, de Vivienda, Ordenamiento Territorial y Medio Ambiente y de Desarrollo Social, quién lo presidirá.
+
+##### Artículo 2º.-
+El Gabinete Social tendrá, entre otros, los siguientes cometidos:
+
+1) Asesorar y proponer al Poder Ejecutivo, para su consideración y aprobación, los planes, programas y proyectos de carácter social vinculados a los Ministerios que lo integran.
+
+2) Analizar, definir y acordar las prioridades y asignaciones presupuestales vinculadas al Gasto Público Social.
+
+3) Establecer estrategias y lineamientos de acción conjunta en materia de Políticas Públicas Sociales entre los diversos Ministerios.
+
+4) Articular atribuciones y campos de actuación de naturaleza intergubernamental entre las instancias nacionales y municipales y de carácter sectorial con los diferentes órganos y entes públicos.
+
+##### Artículo 3º.-
+Para la instrumentación y ejecución de los acuerdos y resoluciones alcanzados a nivel de Gabinete Social, los Ministros contarán con la asistencia de un Consejo Nacional de Coordinación de Políticas Sociales, que estará constituido por representantes de los Ministerios involucrados y será presidido por el Director de políticas Sociales del Ministerio de Desarrollo Social.
+
 62
 
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
+
+Presidencia de la República Oriental del Uruguay
+
+##### Artículo 4º.-
+Comuníquese, publíquese, etc.
+
+Dr. Tabaré Vázquez
+Presidente de la República
 
 63
 
@@ -1535,23 +1645,23 @@ MINISTERIO  DE  VIVIENDA,  ORDENAMIENTO  TERRITORIAL  Y  MEDIO
 
 AMBIENTE
 
-MINISTERIO DE DESARROLLO SOCIAL
+MINISTERIO DE DESARROLLO SOCIAL
 
-Señor Presidente de la
+Montevideo,
 
-Asamblea General
+Señor Presidente de la
 
-Don Rodolfo Nin Novoa
+Asamblea General
 
-El Poder Ejecutivo tiene el honor de dirigirse a ese Alto Cuerpo a fin de remitir, para su consideración, un Proyecto de Ley por el cual se introducen reformas en el sistema de Asignaciones Familiares.
+Don Rodolfo Nin Novoa
 
-#### EXPOSICIÓN DE MOTIVOS
+El Poder Ejecutivo tiene el honor de dirigirse a ese Alto Cuerpo a fin de remitir, para su consideración, un Proyecto de Ley por el cual se introducen reformas en el sistema de Asignaciones Familiares.
 
-##### I) Marco en el que surge la necesidad de la reforma.
+#### EXPOSICIÓN DE MOTIVOS
 
-Uruguay  posee una amplia tradición en materia de transferencias monetarias.  En  particular,  en  lo  que  refiere  al  sistema  de  Seguridad  Social, nuestro país ha edificado un destacado sistema de transferencias fuertemente
+##### I) Marco en el que surge la necesidad de la reforma.
 
-Montevideo, articulado al mercado formal de trabajo. Pero también en el devenir histórico se han generado mecanismos de protección social para quienes se encuentran en una situación de informalidad o precariedad laboral así como en condiciones de vulnerabilidad socioeconómica.
+Uruguay posee una amplia tradición en materia de transferencias monetarias. En particular, en lo que refiere al sistema de Seguridad Social, nuestro país ha edificado un destacado sistema de transferencias fuertemente
 
 64
 
@@ -1559,7 +1669,9 @@ Montevideo, articulado al mercado formal de trabajo. Pero también en e
 
 [[START OF PAGE 63]]
 
-Dentro del conjunto de transferencias de la Seguridad Social, se encuentran las Asignaciones Familiares.
+articulado al mercado formal de trabajo. Pero también en el devenir histórico se han generado mecanismos de protección social para quienes se encuentran en una situación de informalidad o precariedad laboral así como en condiciones de vulnerabilidad socioeconómica.
+
+Dentro del conjunto de transferencias de la Seguridad Social, se encuentran las Asignaciones Familiares.
 
 Instituidas  a  través  de  la  ley  Nº  10.449  de  12  de  noviembre  de  1943, fueron  en  un  principio  concebidas  como  un  auxilio  para  la  atención  de  las cargas  familiares  de  los  trabajadores  del  sector  privado,  formales  y  bajo subordinación laboral.
 
@@ -1715,9 +1827,9 @@ La reglamentación a dictarse por el Poder Ejecutivo podrá establecer�
 ##### Artículo 4º. (Montos de la prestación).­
 La asignación instituida por la presente ley tendrá los siguientes montos mensuales por beneficiario, atendiendo al número de los mismos que integren el hogar, al nivel educativo que estén cursando y a la presencia o no de discapacidades:
 
-- el resultado de multiplicar $ 700 (setecientos pesos uruguayos), por el número de beneficiarios integrantes del hogar que no padecieren incapacidad (numeral 4) del artículo  siguiente)  elevado  al  exponente  0,6  (cero  coma  seis),  y  de  dividir  la  cifra obtenida entre la cantidad de los mismos;
+a) el resultado de multiplicar $ 700 (setecientos pesos uruguayos), por el número de beneficiarios integrantes del hogar que no padecieren incapacidad (numeral 4) del artículo siguiente) elevado al exponente 0,6 (cero coma seis), y de dividir la cifra obtenida entre la cantidad de los mismos;
 
-- en los casos de beneficiarios que se encuentren cursando educación media, se adicionará al monto que les correspondiere conforme al literal anterior, el resultado de  multiplicar  $  300  (trescientos  pesos  uruguayos),  por  el  número  de  dichos beneficiarios elevado al exponente 0,6 (cero coma seis), y de dividir la cifra obtenida entre la cantidad de los mismos;
+b) en los casos de beneficiarios que se encuentren cursando educación media, se adicionará al monto que les correspondiere conforme al literal anterior, el resultado de multiplicar $ 300 (trescientos pesos uruguayos), por el número de dichos beneficiarios elevado al exponente 0,6 (cero coma seis), y de dividir la cifra obtenida entre la cantidad de los mismos;
 
 c) $ 1.000 (mil pesos uruguayos) en los casos de beneficiarios que padecieren incapacidad conforme a lo previsto por el numeral 4) del artículo siguiente.
 
@@ -1726,9 +1838,9 @@ En los casos de beneficiarios en atención de tiempo completo en esta
 ##### Artículo  5º.  (Término  de  la  prestación).­
 La  asignación  familiar  prevista  por  la presente ley se servirá por los períodos que se establecen a continuación:
 
-- A partir de la constatación fehaciente del estado de gravidez por parte del Banco de Previsión Social y hasta los 14 (catorce) años del beneficiario.
+1) A partir de la constatación fehaciente del estado de gravidez por parte del Banco de Previsión Social y hasta los 14 (catorce) años del beneficiario.
 
-- Hasta los 16 (dieciséis) años del beneficiario, cuando se compruebe que el mismo no  ha  podido  completar  el  ciclo  de  educación  primaria  a  los  14  (catorce)  años  por impedimento plenamente justificado.
+2) Hasta los 16 (dieciséis) años del beneficiario, cuando se compruebe que el mismo no ha podido completar el ciclo de educación primaria a los 14 (catorce) años por impedimento plenamente justificado.
 
 73
 
@@ -1736,20 +1848,20 @@ La  asignación  familiar  prevista  por  la presente ley se servirá p
 
 [[START OF PAGE 72]]
 
-- Hasta  los  18  (dieciocho)  años  de  edad  del  beneficiario,  cuando  el  mismo  curse estudios  de  nivel  superior  a  los  de  educación  primaria  en  instituciones  docentes estatales o privadas autorizadas por el órgano competente.
+3) Hasta los 18 (dieciocho) años de edad del beneficiario, cuando el mismo curse estudios de nivel superior a los de educación primaria en instituciones docentes estatales o privadas autorizadas por el órgano competente.
 
-- Cuando el beneficiario padezca de una incapacidad física o psíquica tal que impida su incorporación a todo tipo de tarea remunerada, la prestación se servirá hasta los 18 (dieciocho) años de edad, y continuará sirviéndose a partir de dicha edad por períodos de tres años, con revisión médica al finalizar cada período conforme a lo previsto por el literal D) del artículo siguiente. La percepción del beneficio será incompatible con el cobro  de  la  prestación  a  que  refiere  el  artículo  43  de  la  ley  Nº  16.713  de  3  de setiembre de 1995.
+4) Cuando el beneficiario padezca de una incapacidad física o psíquica tal que impida su incorporación a todo tipo de tarea remunerada, la prestación se servirá hasta los 18 (dieciocho) años de edad, y continuará sirviéndose a partir de dicha edad por períodos de tres años, con revisión médica al finalizar cada período conforme a lo previsto por el literal D) del artículo siguiente. La percepción del beneficio será incompatible con el cobro de la prestación a que refiere el artículo 43 de la ley Nº 16.713 de 3 de setiembre de 1995.
 
 ##### Artículo 6º. (Requisitos para el otorgamiento y el mantenimiento de la percepción de la prestación).­
 Para recibir la asignación regulada por la presente ley, deberán acreditarse  ante  el  Banco  de  Previsión  Social,  con  la  frecuencia  y  del  modo  que establezca la reglamentación, los siguientes extremos:
 
-- Los ingresos y la composición del hogar que integra el beneficiario.
+A) Los ingresos y la composición del hogar que integra el beneficiario.
 
-- Los  demás  elementos  que  caracterizan  a  dicho  hogar  como  en  situación  de vulnerabilidad  socioeconómica  y  que  lo  incluyen  en  el  nivel  a  que  refiere  el  inciso segundo del artículo 1º, en su caso.
+B) Los demás elementos que caracterizan a dicho hogar como en situación de vulnerabilidad socioeconómica y que lo incluyen en el nivel a que refiere el inciso segundo del artículo 1º, en su caso.
 
-- La inscripción y concurrencia asidua del beneficiario a institutos docentes estatales o privados autorizados por el órgano competente, excepto en los casos de beneficiarios  discapacitados  en  que  se  acredite  que  aquéllo  no  es  posible,  y  la periodicidad de controles de asistencia médica brindada a través del sistema público o privado.
+C) La inscripción y concurrencia asidua del beneficiario a institutos docentes estatales o privados autorizados por el órgano competente, excepto en los casos de beneficiarios discapacitados en que se acredite que aquéllo no es posible, y la periodicidad de controles de asistencia médica brindada a través del sistema público o privado.
 
-- Tratándose de personas discapacitadas desde el punto de vista físico o psíquico, la discapacidad que impida su incorporación a todo tipo de tarea remunerada. En este caso, el dictamen provendrá de los servicios médicos del Banco de Previsión Social y se realizarán revisiones periódicas ante los mismos servicios médicos cada tres años, a los efectos de evaluar si se mantiene el mismo grado de incapacidad que permita el mantenimiento  del  pago  de  la  prestación.  No  obstante,  en  los  casos  de  niños  y adolescentes  que  padezcan  discapacidad  psíquica,  la  misma  podrá  acreditarse mediante certificación que al efecto expida el Registro creado por la ley Nº 13.711, de 29 de noviembre de 1968.
+D) Tratándose de personas discapacitadas desde el punto de vista físico o psíquico, la discapacidad que impida su incorporación a todo tipo de tarea remunerada. En este caso, el dictamen provendrá de los servicios médicos del Banco de Previsión Social y se realizarán revisiones periódicas ante los mismos servicios médicos cada tres años, a los efectos de evaluar si se mantiene el mismo grado de incapacidad que permita el mantenimiento del pago de la prestación. No obstante, en los casos de niños y adolescentes que padezcan discapacidad psíquica, la misma podrá acreditarse mediante certificación que al efecto expida el Registro creado por la ley Nº 13.711, de 29 de noviembre de 1968.
 
 ##### Artículo 7º. (Instituciones de educación no formal).­
 A los efectos de lo previsto en el  literal  C)  del  artículo  anterior,  considéranse  incluidas  dentro  de  los  institutos docentes privados, a las instituciones de educación no formal que, estando inscriptas en el Registro de Instituciones de Educación No Formal del Ministerio de Educación y Cultura, contribuyan al desarrollo socioeducativo del beneficiario y a su reinserción en el  sistema  educativo  formal,  conforme  a  la  reglamentación  que  dictará  el  Poder Ejecutivo.
@@ -1769,11 +1881,11 @@ Bajo estas condiciones, la asignación se otorgará por una sola vez 
 ##### Artículo  8º.  (Competencias  y  atribuciones  de  la  Administración).­
 Compete  al Banco de Previsión Social verificar y controlar los requisitos de elegibilidad para ser beneficiario o atributario de la prestación instituida por la presente ley. A tales efectos, queda facultado para:
 
-- realizar las comprobaciones e inspecciones que estime convenientes, a fin de determinar  la  existencia  de  las  condiciones  de  acceso  y  mantenimiento  de  la prestación;
+a) realizar las comprobaciones e inspecciones que estime convenientes, a fin de determinar la existencia de las condiciones de acceso y mantenimiento de la prestación;
 
-- requerir de los Ministerios de Educación y Cultura y de Salud Pública, de la Administración  Nacional  de  Enseñanza  Pública, del  Instituto  del  Niño  y  Adolescente del  Uruguay  y  de  las  instituciones  docentes  privadas,  toda  la  información  necesaria para  comprobar  la  asistencia  de  los  beneficiarios  a  los  centros  de  educación  y  los debidos controles médicos, a cuyos efectos los organismos e instituciones indicados quedan obligados a suministrarla;
+b) requerir de los Ministerios de Educación y Cultura y de Salud Pública, de la Administración Nacional de Enseñanza Pública, del Instituto del Niño y Adolescente del Uruguay y de las instituciones docentes privadas, toda la información necesaria para comprobar la asistencia de los beneficiarios a los centros de educación y los debidos controles médicos, a cuyos efectos los organismos e instituciones indicados quedan obligados a suministrarla;
 
-- utilizar  las  bases  de  datos  confeccionadas  por  el  Ministerio  de  Desarrollo Social en el marco del Plan de Atención Nacional de la Emergencia Social ­ debiendo dicho Ministerio facilitar  dicha  utilización  ­,  a  los  efectos  de  estar  en  condiciones  de servir la prestación sin dilaciones, a quienes estén incluidos en aquéllas y reúnan las
+c) utilizar las bases de datos confeccionadas por el Ministerio de Desarrollo Social en el marco del Plan de Atención Nacional de la Emergencia Social ­ debiendo dicho Ministerio facilitar dicha utilización ­, a los efectos de estar en condiciones de servir la prestación sin dilaciones, a quienes estén incluidos en aquéllas y reúnan las
 
 75
 
@@ -1827,6 +1939,8 @@ Una vez realizado el control de las condiciones de acceso a la prest
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
+
+mantenido vigentes las mismas, siempre que integraren hogares no situados en el nivel previsto por el inciso segundo del artículo 1º pero sí en situación de vulnerabilidad socioeconómica conforme a la definición del artículo 2º.
 
 Los postulantes a la asignación estatuida en esta ley, que al 31 de diciembre de 2007 no  fueran  beneficiarios  de  prestaciones  concedidas  conforme  a  las  leyes  que  se derogan  e  integraren  hogares  de  las  características  referidas  en  el  inciso  anterior, percibirán  durante  el  año  2008  una  asignación  idéntica  a  la  establecida  en  dicho inciso.
 
@@ -1888,7 +2002,7 @@ Nuestro ordenamiento jurídico en la materia ha experimentado, además, reformul
 
 Entre estos cambios se cuenta el de la edad mínima para tener derecho a la pensión a la vejez.
 
-Esta prestación  no  contributiva,  que adquirió  rango  constitucional  en 1934,  tiene  su origen en la ley Nº 6.874 de 11 de febrero de 1919, que en su artículo 1º establecía: 'Toda persona llegada a los  sesenta años  o a cualquier edad,  si es  absolutamente inválida, y que se halle en estado de indigencia, tiene derecho a recibir del Estado una pensión mínima de noventa y seis pesos anuales o su equivalente a asistencia directa o indirecta.'
+Esta prestación  no  contributiva,  que adquirió  rango  constitucional  en 1934,  tiene  su origen en la ley Nº 6.874 de 11 de febrero de 1919, que en su artículo 1º establecía: “Toda persona llegada a los  sesenta años  o a cualquier edad,  si es  absolutamente inválida, y que se halle en estado de indigencia, tiene derecho a recibir del Estado una pensión mínima de noventa y seis pesos anuales o su equivalente a asistencia directa o indirecta.”
 
 El  denominado  Acto  Institucional  Nº 9  de 23 de  octubre  de 1979 fijó en  70  años  la edad para el otorgamiento de la prestación. Posteriormente, la ley Nº 15.841 de 28 de noviembre de 1986 rebajó esa edad a 65 años y finalmente, a través de la citada ley Nº 16.713, se retornó a los 70 años de edad.
 
@@ -1906,23 +2020,23 @@ En  este  contexto,  se  entiende  procedente  establecer  una  prestaci
 
 [[START OF PAGE 80]]
 
-- Conforme  a  los  artículos  1º  y  2º  del  Proyecto,  la  prestación  está  dirigida  a  las personas  mayores  de  65  años  de  edad  pero  menores  de  70  años  de  edad  que, careciendo de recursos para subvenir a sus necesidades vitales, integren hogares ­ aun unipersonales ­ que presenten carencias críticas en sus condiciones de vida.
+1) Conforme  a  los  artículos  1º  y  2º  del  Proyecto,  la  prestación  está  dirigida  a  las personas  mayores  de  65  años  de  edad  pero  menores  de  70  años  de  edad  que, careciendo de recursos para subvenir a sus necesidades vitales, integren hogares ­ aun unipersonales ­ que presenten carencias críticas en sus condiciones de vida.
 
 Esta situación será determinada de acuerdo a criterios estadísticos conforme a lo que prevea la reglamentación, estableciéndose los factores sustanciales que necesariamente habrán de considerarse (artículo 3º).
 
-- El artículo 4º establece que el monto de la prestación será igual al de la prevista por el artículo 43 de la ley Nº 16.713 de 3 de setiembre de 1995.
+2) El artículo 4º establece que el monto de la prestación será igual al de la prevista por el artículo 43 de la ley Nº 16.713 de 3 de setiembre de 1995.
 
 El artículo 8º, por su parte, determina que quienes, manteniendo las condiciones que dieron lugar a la concesión del beneficio, alcancen los 70 años de edad, accederán de pleno derecho a la prestación asistencial no contributiva por vejez e invalidez prevista por el citado artículo 43 de la ley Nº 16.713 de 3 de setiembre de 1995 .
 
-- A  través  del  artículo  6º  se  le  confieren  al  Ministerio  de  Desarrollo  Social  las facultades  necesarias  para  verificar  y  controlar  los  requisitos  de  elegibilidad  de  los beneficiarios.
+3) A  través  del  artículo  6º  se  le  confieren  al  Ministerio  de  Desarrollo  Social  las facultades  necesarias  para  verificar  y  controlar  los  requisitos  de  elegibilidad  de  los beneficiarios.
 
 Se destaca, entre éstas, la facultad de utilizar las bases de datos confeccionadas por dicho organismo en el marco del Plan de Atención Nacional a la Emergencia Social. Esto permitirá disponer, desde el comienzo, de un importante volumen de información relativa a la población objetivo, que posibilitará brindar la prestación sin dilaciones.
 
 Asimismo,  se  prevé  el  suministro  de  información  del  Banco  de  Previsión  Social  al Ministerio de Desarrollo Social respecto de los beneficiarios y aspirantes al beneficio, preservándose el carácter reservado de los datos.
 
-- En el artículo 7º se dispone que la prestación será incompatible con otros ingresos iguales  o  superiores  a  la  misma,  así  como  que,  en  caso  de  percibirse  ingresos inferiores al monto establecido, se recibirá solamente la diferencia entre ambos.
+4) En el artículo 7º se dispone que la prestación será incompatible con otros ingresos iguales  o  superiores  a  la  misma,  así  como  que,  en  caso  de  percibirse  ingresos inferiores al monto establecido, se recibirá solamente la diferencia entre ambos.
 
-- Se  consagra,  también,  en  el  artículo  9º,  la  inembargabilidad  e  incedibilidad  del beneficio, sin perjuicio de lo previsto en otras normas legales referidas a esta materia.
+5) Se  consagra,  también,  en  el  artículo  9º,  la  inembargabilidad  e  incedibilidad  del beneficio, sin perjuicio de lo previsto en otras normas legales referidas a esta materia.
 
 82
 
@@ -1930,7 +2044,7 @@ Asimismo,  se  prevé  el  suministro  de  información  del  Banco  de
 
 [[START OF PAGE 81]]
 
-- Finalmente, conforme a lo previsto en el artículo 10, la prestación se sufragará por Rentas Generales, y en el año 2008 será servida con cargo a la previsión realizada para "Asistencia a la vejez" en el artículo 255 de la ley Nº 18.172 de 31 de agosto de 2007.
+6) Finalmente, conforme a lo previsto en el artículo 10, la prestación se sufragará por Rentas Generales, y en el año 2008 será servida con cargo a la previsión realizada para "Asistencia a la vejez" en el artículo 255 de la ley Nº 18.172 de 31 de agosto de 2007.
 
 Dichos recursos serán transferidos por el Ministerio de Desarrollo Social al Banco de Previsión Social para poder brindar la prestación asistencial en tiempo y forma.
 
@@ -1966,11 +2080,11 @@ Compete  al Ministerio de Desarrollo Social verificar y controlar los r
 
 A tales efectos, queda facultado para:
 
-- realizar  las  comprobaciones  e  inspecciones  que  estime  convenientes,  a  fin  de determinar la existencia de las condiciones de acceso y mantenimiento del beneficio;
+a) realizar  las  comprobaciones  e  inspecciones  que  estime  convenientes,  a  fin  de determinar la existencia de las condiciones de acceso y mantenimiento del beneficio;
 
-- utilizar  las  bases  de  datos  confeccionadas  en  el  marco  del  Plan  de  Atención Nacional de la Emergencia Social, a los efectos de estar en condiciones de servir la prestación sin dilaciones, a quienes estén incluidos en aquéllas y reúnan los requisitos necesarios para ser beneficiarios del subsidio previsto en la presente ley.
+b) utilizar  las  bases  de  datos  confeccionadas  en  el  marco  del  Plan  de  Atención Nacional de la Emergencia Social, a los efectos de estar en condiciones de servir la prestación sin dilaciones, a quienes estén incluidos en aquéllas y reúnan los requisitos necesarios para ser beneficiarios del subsidio previsto en la presente ley.
 
-- solicitar  al  Banco  de  Previsión  Social  todo  tipo  de  información  respecto  de  los beneficiarios  de  la  prestación  prevista  en  la  presente  ley  y  de  los  aspirantes  a obtenerla, quedando dicho organismo obligado a suministrar tales datos y relevado del secreto  impuesto  por  el  artículo  47  del  Código  Tributario,  en  lo  pertinente.  La información recibida por el Ministerio de Desarrollo Social en virtud de lo dispuesto por este literal, queda amparada por el referido deber de reserva.
+c) solicitar  al  Banco  de  Previsión  Social  todo  tipo  de  información  respecto  de  los beneficiarios  de  la  prestación  prevista  en  la  presente  ley  y  de  los  aspirantes  a obtenerla, quedando dicho organismo obligado a suministrar tales datos y relevado del secreto  impuesto  por  el  artículo  47  del  Código  Tributario,  en  lo  pertinente.  La información recibida por el Ministerio de Desarrollo Social en virtud de lo dispuesto por este literal, queda amparada por el referido deber de reserva.
 
 En caso de comprobarse la falsedad total o parcial de la información proporcionada por  los  interesados  o  de  no  poder  verificarse  las  condiciones  que  habilitan  la percepción de la prestación por causa imputable a éstos, el Ministerio de Desarrollo Social procederá a la suspensión del beneficio y lo comunicará al Banco de Previsión Social, sin perjuicio de ejercitar las acciones para recuperar lo indebidamente pagado y de las denuncias penales que eventualmente correspondieren.
 
@@ -2014,7 +2128,7 @@ Las correspondientes al ejercicio 2008 se sufragarán con la partida d
 
 ## Anexo III
 
-### Proyecto de Ley ' URUGUAY TRABAJA'
+### Proyecto de Ley “ URUGUAY TRABAJA”
 
 Montevideo,
 
@@ -2036,9 +2150,9 @@ El Poder Ejecutivo tiene el honor de dirigirse a ese Alto Cuerpo a 
 
 Según los datos relevados por el Instituto Nacional de Estadística y el Ministerio de Desarrollo Social, existen en el país aproximadamente 78.752 personas en situación de pobreza y con desocupación laboral de larga duración.
 
-El  Proyecto  'Trabajo  por  Uruguay',  implementado  en  el  marco  del  Programa  de Atención Nacional de la Emergencia  Social  administrado por el Ministerio de Desarrollo  Social,  creó  15120 oportunidades  de  formación  a  través  del  trabajo  para personas  que  se  encontraban  en  situación  de  extrema  pobreza,  obteniéndose resultados de inserción y motivación altamente satisfactorios.
+El  Proyecto  “Trabajo  por  Uruguay”,  implementado  en  el  marco  del  Programa  de Atención Nacional de la Emergencia  Social  administrado por el Ministerio de Desarrollo  Social,  creó  15120 oportunidades  de  formación  a  través  del  trabajo  para personas  que  se  encontraban  en  situación  de  extrema  pobreza,  obteniéndose resultados de inserción y motivación altamente satisfactorios.
 
-Así,  al  completarse  los  treinta  meses  de  gestión,  habrán  participado  -  tomando  en cuenta  titulares  y  suplentes­  en  dicho  proyecto  15.684  personas,  de  todos  los departamentos del país y abarcando ciudades y localidades.
+Así,  al  completarse  los  treinta  meses  de  gestión,  habrán  participado  –  tomando  en cuenta  titulares  y  suplentes­  en  dicho  proyecto  15.684  personas,  de  todos  los departamentos del país y abarcando ciudades y localidades.
 
 La experiencia recogida en el desarrollo del Proyecto "Trabajo por Uruguay" ha puesto en evidencia la importancia del trabajo como factor socioeducativo.
 
@@ -2064,10 +2178,10 @@ Finalmente, se consagra el derecho de los participantes a obtener asis
 
 #### ANTEPROYECTO DE LEY
 
-##### Artículo  1°.  (Programa  'Uruguay  Trabaja'.  Creación).­
-Créase  el  Programa 'Uruguay  Trabaja',  con  el  objeto  de  promover  el  trabajo  en  tanto  que  factor socioeducativo.  Tendrá  alcance  nacional  y  será  administrado  por  el  Ministerio  de Desarrollo Social, conforme a lo establecido en la presente ley y en la reglamentación a dictarse por el Poder Ejecutivo.
+##### Artículo  1°.  (Programa  “Uruguay  Trabaja”.  Creación).­
+Créase  el  Programa “Uruguay  Trabaja”,  con  el  objeto  de  promover  el  trabajo  en  tanto  que  factor socioeducativo.  Tendrá  alcance  nacional  y  será  administrado  por  el  Ministerio  de Desarrollo Social, conforme a lo establecido en la presente ley y en la reglamentación a dictarse por el Poder Ejecutivo.
 
-El Programa consistirá en un régimen de acompañamiento social para el desarrollo de procesos  de  integración  al  mercado  laboral,  e  incluye  la  realización  de  trabajos transitorios de valor público y el otorgamiento de una prestación que se denominará 'Apoyo a la Inserción Laboral'.
+El Programa consistirá en un régimen de acompañamiento social para el desarrollo de procesos  de  integración  al  mercado  laboral,  e  incluye  la  realización  de  trabajos transitorios de valor público y el otorgamiento de una prestación que se denominará “Apoyo a la Inserción Laboral”.
 
 El acompañamiento social de los beneficiarios será llevado a cabo por organizaciones de la sociedad civil sin fines de lucro u organismos públicos, e implica la supervisión educativa diaria de las tareas de valor público a realizarse, acciones de apoyo técnico que permitan superar barreras para el acceso a los servicios sociales y programas de formación laboral y ocupacional.
 
@@ -2077,7 +2191,7 @@ El Programa  estará  destinado a  personas económicamente  activas, que in
 Cada beneficiario podrá participar en el Programa una sola vez.
 
 ##### Artículo  3º.  (Funcionamiento).­
-El  Ministerio  de  Desarrollo  Social  solicitará  a  los organismos públicos,  la  identificación  de  tareas  de  apoyo  para  el  desarrollo  de  sus activities,  de  valor  público,  que  puedan  realizarse  en  el  marco  del  Programa "Uruguay Trabaja". Seleccionará las que resulten acordes a los objetivos del Programa y convendrá su realización con los organismos u organizaciones indicados en el inciso final del artículo 1º.
+El  Ministerio  de  Desarrollo  Social  solicitará  a  los organismos públicos,  la  identificación  de  tareas  de  apoyo  para  el  desarrollo  de  sus actividades,  de  valor  público,  que  puedan  realizarse  en  el  marco  del  Programa "Uruguay Trabaja". Seleccionará las que resulten acordes a los objetivos del Programa y convendrá su realización con los organismos u organizaciones indicados en el inciso final del artículo 1º.
 
 ##### Artículo  4°.  (Convocatoria  y  participación  de  beneficiarios).­
 El  Ministerio  de Desarrollo Social efectuará la convocatoria a nivel nacional para la participación en el Programa, implementando mecanismos que garanticen igualdad de oportunidades y objetividad en el acceso al mismo.
@@ -2085,9 +2199,9 @@ El  Ministerio  de Desarrollo Social efectuará la convocatoria a nivel�
 ##### Artículo  5°.  (Requisitos  de  inscripción).­
 Podrán  inscribirse  para  participar  en  el Programa las personas residentes en el país, mayores de 18 años de edad y menores de 65 años de edad, que reúnan las siguientes condiciones:
 
-- poseer  nivel  de  escolaridad  inferior  al  3er.  año  del  Ciclo  Básico  o  su equivalente;
+a) poseer  nivel  de  escolaridad  inferior  al  3er.  año  del  Ciclo  Básico  o  su equivalente;
 
-- haber  permanecido  en  situación  de  desocupación  laboral  en  el  país  por  un período no inferior a 2 (dos) años, inmediatamente anterior a la fecha de inicio de cada proceso de inscripción;
+b) haber  permanecido  en  situación  de  desocupación  laboral  en  el  país  por  un período no inferior a 2 (dos) años, inmediatamente anterior a la fecha de inicio de cada proceso de inscripción;
 
 87
 
@@ -2100,11 +2214,11 @@ c) integrar  hogares  en  situación  de  vulnerabilidad  socioeconómica,
 A los efectos de esta ley, entiéndese por hogar el núcleo constituido tanto por una sola persona como aquel integrado por un grupo de personas, vinculadas o no por lazos de parentesco, que conviven bajo un mismo techo y constituyen una familia o una unidad similar a la familia.
 
 ##### Artículo 6°. (Incompatibilidades).­
-No podrán postularse para el Programa 'Uruguay Trabaja' ni participar en él:
+No podrán postularse para el Programa “Uruguay Trabaja” ni participar en él:
 
--quienes hayan participado en el Proyecto "Trabajo por Uruguay";
+-quienes hayan participado en el Proyecto "Trabajo por Uruguay";
 
--quienes  se  encuentren  en  actividad  y/o  perciban  subsidio  por  inactividad compensada, subsidio transitorio  por  incapacidad  parcial  o  jubilaciones  de  cualquier naturaleza, servidos por instituciones de seguridad social o equivalentes, nacionales o extranjeras;
+-quienes  se  encuentren  en  actividad  y/o  perciban  subsidio  por  inactividad compensada, subsidio transitorio  por  incapacidad  parcial  o  jubilaciones  de  cualquier naturaleza, servidos por instituciones de seguridad social o equivalentes, nacionales o extranjeras;
 
 -los titulares o integrantes, aun sin actividad, de empresas activas registradas ante el Banco de Previsión Social y/o la Dirección General Impositiva.
 
@@ -2119,8 +2233,8 @@ Los  participantes  del  Programa  no  integrarán  las  nóminas  de  
 
 La  asignación  de  las  personas  seleccionadas  a  las  diferentes  actividades  será efectuada  por  el  Ministerio  de  Desarrollo  Social,  considerando  líneas  programáticas específicas y de acuerdo al perfil de los participantes.
 
-##### Artículo 8°. (Prestación ' Apoyo a la Inserción Laboral' ).­
-El 'Apoyo a la Inserción Laboral'  es  una  prestación  que  recibirán  los  beneficiarios  del  Programa,  a  mes vencido,  por  un  monto  máximo  equivalente  a  2,35  BPC  (dos  coma  treinta  y  cinco Bases  de  Prestaciones  y  Contribuciones)  por  mes,  durante  un  período  de  hasta  9 (nueve) meses y mientras se verifique el cumplimiento de las obligaciones asumidas.
+##### Artículo 8°. (Prestación “ Apoyo a la Inserción Laboral” ).­
+El “Apoyo a la Inserción Laboral”  es  una  prestación  que  recibirán  los  beneficiarios  del  Programa,  a  mes vencido,  por  un  monto  máximo  equivalente  a  2,35  BPC  (dos  coma  treinta  y  cinco Bases  de  Prestaciones  y  Contribuciones)  por  mes,  durante  un  período  de  hasta  9 (nueve) meses y mientras se verifique el cumplimiento de las obligaciones asumidas.
 
 Esta prestación no posee naturaleza salarial ni retributiva, es personal, intransferible e inembargable,  y  no  podrá  constituir  garantía  de  obligaciones  ni  ser  afectada  por retenciones, incluidas las relativas a pensiones alimenticias.
 
