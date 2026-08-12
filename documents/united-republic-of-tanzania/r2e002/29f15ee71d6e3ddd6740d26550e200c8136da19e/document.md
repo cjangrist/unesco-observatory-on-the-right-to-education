@@ -4,11 +4,13 @@ THE UNITED REPUBLIC OF TANZANIA
 
 MINISTRY OF EDUCATION, SCIENCE AND TECHNOLOGY
 
-# EDUCATION SECTOR DEVELOPMENT PLAN (2016/17 -2020/21)
+# EDUCATION SECTOR DEVELOPMENT PLAN (2016/17 – 2020/21)
 
 TANZANIA MAINLAND
 
-Endorsed by ESDC, 22 nd  June 2017 Updated July 2018
+Endorsed by ESDC, 22nd June 2017
+
+Updated July 2018
 
 [[END OF PAGE 1]]
 
@@ -20,11 +22,11 @@ The Government of the United Republic of Tanzania has set out its vision, overar
 
 The economic and financial implications of the strategic choices and plans set out in this ESDP have been examined using a simulation model, resulting in a set of policy directions, targets  and  priority  programmes  that  while  challenging  are  also  achievable  within  the estimated available resource envelope.
 
-This ESDP is built on the priorities of the Tanzanian Government as set out in the Tanzania Development Vision 2025, the National Five-Year Development Plan 2016/17-2020/21 and the Education and Training Policy of 2014.  The two key policy initiatives that distinguish this ESDP fr om previous plans are: (1) Tanzania's commitment to providing twelve years of free and compulsory Basic Education to the entire population, leaving no one behind; and (2) the progressive expansion of Technical and Vocational Education and Training to provide Tanzania with the pool of skilled human resources needed to advance to becoming a semiindustrialized middle-income country by 2025.
+This ESDP is built on the priorities of the Tanzanian Government as set out in the Tanzania Development Vision 2025, the National Five-Year Development Plan 2016/17-2020/21 and the Education and Training Policy of 2014. The two key policy initiatives that distinguish this ESDP from previous plans are: (1) Tanzania's commitment to providing twelve years of free and compulsory Basic Education to the entire population, leaving no one behind; and (2) the progressive expansion of Technical and Vocational Education and Training to provide Tanzania with the pool of skilled human resources needed to advance to becoming a semi-industrialized middle-income country by 2025.
 
 Of these policy commitments, the universalization of Basic Education has by far the largest financial implications, with the requirement to approximately double within a few years the current number of students studying in Lower Secondary Forms I to IV as well as doubling the enrolment in Pre-Primary from current levels.  Achieving this commitment within the available resources requires some trade-offs being made.  It becomes impossible to pursue simultaneously within this five-year period some other potential policy initiatives, such as expansion of the Higher Education sub-sector or provision of centrally funded free meals in primary  schools,  without  significantly  increasing  the  proportion  of  national  resources allocated  to  the  education  sector.    In  the  simulation  model  it  has  been  assumed  that  the proportion of the national budget allocated to education remains approximately constant. The policy objectives and thematic priorities listed in Chapter 4 and the priority programmes in Chapter 5 represent these strategic resource allocation choices for the education sector over the next five years.
 
-The ESDP focuses on ensuring equitable access to education and training for all, including the  most  disadvantaged.    Progress  towards  achieving  all  of  the  targets  will  be  tracked through a rigorous Monitoring and Evaluation Framework, which is a separate document annexed  to  this  plan,  and  this  will  disaggregate  results  by  gender  and  by  geographical location, as well as having a particular focus on disadvantaged groups such as orphans and vulnerable children, and children and adults with learning disabilities including physical disabilities.
+The ESDP focuses on ensuring equitable access to education and training for all, including the most disadvantaged. Progress towards achieving all of the targets will be tracked through a rigorous Monitoring and Evaluation Framework, which is a separate document annexed to this plan, and this will disaggregate results by gender and by geographical
 
 ii
 
@@ -32,7 +34,9 @@ ii
 
 [[START OF PAGE 3]]
 
-The ESDP also sets out the need for an enhanced effort on improving the quality of education at  all  levels.    This  is  necessary  in  order  to  ensure  that  children and young people do not merely pass through a universalised education system but that they also acquire knowledge, attitudes and life skills that will equip them to become productive, loyal and fulfilled citizens. This will be achieved through greater investment in the teaching profession, in the adoption of modern pedagogical principles, in a revamped quality assurance system and in a rigorous attention  to  constantly  measuring  and  improving  the  competencies  being  attained  by students.
+location, as well as having a particular focus on disadvantaged groups such as orphans and vulnerable children, and children and adults with learning disabilities including physical disabilities.
+
+The ESDP also sets out the need for an enhanced effort on improving the quality of education at all levels. This is necessary in order to ensure that children and young people do not merely pass through a universalised education system but that they also acquire knowledge, attitudes and life skills that will equip them to become productive, loyal and fulfilled citizens. This will be achieved through greater investment in the teaching profession, in the adoption of modern pedagogical principles, in a revamped quality assurance system and in a rigorous attention to constantly measuring and improving the competencies being attained by students.
 
 Chapters  1  and  2  provide  the  historical  and  current  context  of  the  education  sector  in Tanzania, and Chapter 3 summarizes the current achievements and future challenges.  These are based on the 2015-16 Education Sector Analysis, available as a separate document, but with data updated to reflect the latest available information (mostly from the 2017 Annual School Census).  Chapter 4 sets out the vision, principles, policy  objectives and thematic priorities for the education sector over the next five years.  Chapter 5 converts these objectives into the six priority programmes, divided into the sub-sectors of Basic/Secondary, Adult and Non-Formal, Technical and Vocational, Higher Education and System-Wide issues.  It should be  noted  that  Chapter  5  follows  an  operational  structure  in  order  to  be  able  to  allocate responsibility to operational units. This is somewhat different from the structure presented in  the  Logical  Framework.  Chapter  6  describes  the  institutional  arrangements  for  ESDP implementation,  including  coordination  and  supervision  mechanisms,  an  overview  of monitoring and evaluation arrangements and a revised set of structures and processes for conducting sector dialogue.  Chapter 7 provides the costing and financing analysis, including an estimate of the financing gap up to 2025, which is kept within 10% of the total estimated costs for the five-year period of this ESDP.  Currently published planned contributions of international Development Partners to the achievement of this ESDP are mapped out on a matrix which is included as an Annex. These form a conservative estimate, as several of the Development Partners are likely to contribute more resources during this period which are not yet formally approved or published.
 
@@ -46,11 +50,75 @@ iii
 
 ## Contents
 
+Executive Summary .......................................................................................................................... ii
+Contents ..............................................................................................................................................iv
+List of Tables...................................................................................................................................viii
+List of Figures ....................................................................................................................................ix
+Acronyms............................................................................................................................................xi
+Preface ............................................................................................................................................. xvii
+1) INTRODUCTION AND COUNTRY CONTEXT............................................................. 1
+1.1 Introduction ..........................................................................................................................1
+1.2 Rationale for ESDP Revision ..............................................................................................2
+1.3 The Education Sector in Tanzania .....................................................................................3
+1.4 The Current State of Education in Tanzania ....................................................................3
+1.5 Geography and Administrative Divisions .......................................................................4
+1.6 Demographic Profile............................................................................................................4
+1.7 Socio-Political and Economic Context...............................................................................5
+1.8 Human Capital Development ............................................................................................7
+1.9 Macroeconomic and Fiscal Contexts .................................................................................8
+2) EDUCATION SECTOR ANALYTICAL DESCRIPTION............................................. 10
+2.1 Education Policy Framework ...........................................................................................10
+2.2 Structure of the Education System ..................................................................................12
+2.2.1 The Education System....................................................................................................12
+2.2.2 Structure of Formal Education .....................................................................................12
+2.2.3 Structure of Teacher Education ....................................................................................13
+2.2.4 Structure of TVET...........................................................................................................14
+2.2.5 Adult and Non-Formal Education...............................................................................15
+3) KEY ACHIEVEMENTS AND CHALLENGES ............................................................... 17
+3.1 Basic Education Access, Participation and Equity ........................................................17
+3.1.1 Summary..........................................................................................................................17
+3.1.2 Pre-Primary .....................................................................................................................18
+3.1.3 Primary.............................................................................................................................20
+3.1.4 Lower Secondary ............................................................................................................23
+
 iv
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+3.1.5 Basic Education Sector Challenges...............................................................................25
+3.2 Higher Secondary (A-Level).............................................................................................27
+3.3 Higher Education ...............................................................................................................28
+3.4 Adult and Non Formal Education ...................................................................................30
+3.5 Technical and Vocational Education and Training (TVET) .........................................31
+3.6 Teacher Education..............................................................................................................32
+3.7 School Quality Assurance .................................................................................................35
+3.8 Vulnerable and Out-of-School Children .........................................................................36
+3.8.1 Out-of-School Children..................................................................................................36
+3.8.2 Children with Disability ................................................................................................38
+3.8.3 Refugees ...........................................................................................................................39
+3.9 Geographical Variations....................................................................................................40
+3.10 Education Sector Financial Performance ........................................................................44
+3.10.1 Budget Allocation ...........................................................................................................44
+3.10.2 Disbursement of Capitation Grants .............................................................................45
+3.11 Summary of the main challenges .....................................................................................47
+4) POLICY PRIORITIES, OBJECTIVES AND STRATEGIES..........................................49
+4.1 The Aims of the ESDP........................................................................................................49
+4.2 National Policy Framework..............................................................................................49
+4.3 Vision for the Education Sector........................................................................................53
+4.4 Principles .............................................................................................................................56
+4.5 Strategic Policy Objectives ................................................................................................58
+4.6 Thematic Priorities, Objectives and Strategies ...............................................................58
+4.6.1 Access, Participation and Equity ..................................................................................59
+4.6.2 Quality and Learning .....................................................................................................61
+4.6.3 Education for Social and Economic Development.....................................................64
+4.6.4 System Structure, Governance and Management......................................................65
+4.6.5 Immediate Priorities .......................................................................................................68
+4.7 Research ...............................................................................................................................68
+5) PRIORITY PROGRAMMES...............................................................................................71
+1: Access, Participation and Equity in Basic and Secondary Education................................75
+2: Quality of Basic and Secondary Education............................................................................86
 
 v
 
@@ -58,15 +126,53 @@ v
 
 [[START OF PAGE 6]]
 
-6)
-
-7)
+3: Adult and Non-Formal Education..........................................................................................93
+4: Technical Education and Vocational Training and Folk Education ..................................98
+5: Access, Participation, Quality and Relevance of Higher Education................................105
+6: System Structure, Governance and Management ..............................................................112
+6) IMPLEMENTATION STRUCTURES, PROCESSES AND M&E FRAMEWORK 117
+6.1 Education Sector Institutional Arrangements..............................................................117
+6.2 Sub-National Level Education Coordination and Supervision.................................117
+6.2.1 PO-RALG.......................................................................................................................117
+6.2.2 Regional Education Officers (REOs)..........................................................................118
+6.2.3 District Education Officers (DEOs)............................................................................118
+6.2.4 Ward Education Coordination ...................................................................................118
+6.2.5 School Management Committees...............................................................................119
+6.2.6 School Management Team ..........................................................................................119
+6.3 Monitoring and Evaluation of Overall Sector Performance ......................................120
+6.3.1 Overview of Current System ......................................................................................120
+6.3.2 ESDP Monitoring, Review, Evaluation and Learning (MREL) Processes............121
+6.3.2.1 Results Framework – Key Performance Indicators (KPIs)..................................121
+6.3.2.2 Sources of data for monitoring ESDP performance.............................................124
+6.3.3 Lesson Learning and Dissemination..........................................................................125
+6.3.3.1 Mid-Term and Final Evaluation .............................................................................125
+6.3.3.2 Evidence based policy making................................................................................126
+6.4 Dialogue Processes at National and Decentralized Levels ........................................126
+6.4.1 Education Sector Dialogue Structure: Background.................................................126
+6.4.1.1 Education Sector Development Programme.........................................................126
+6.4.1.2 Achievements ............................................................................................................127
+6.4.1.3 Challenges..................................................................................................................127
+6.4.2 Re-Conceptualizing the Sector Dialogue Framework.............................................128
+6.4.3 Proposal for Streamlining Dialogue Structure .........................................................131
+6.4.3.1 Essential criteria for dialogue structure.................................................................131
+6.4.3.2 Dialogue structure ....................................................................................................131
+7) COST AND FINANCING OF THE ESDP..................................................................... 137
+7.1 The Quantitative Scenario...............................................................................................139
 
 vi
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+7.2 Cost of the ESDP...............................................................................................................141
+7.3 Cost of the Operational Plan...........................................................................................144
+7.4 Financing the ESDP..........................................................................................................147
+Annex 1: Operational Matrix .......................................................................................................154
+Annex 2: Indicators and Results for the ESDP Priority Programmes ..................................177
+Annex 3: ESDP Operational Plan................................................................................................226
+Annex 4: ESDP Monitoring and Evaluation Framework .......................................................227
+Annex 5: ESDP Risk Register.......................................................................................................228
 
 vii
 
@@ -76,6 +182,28 @@ vii
 
 ## List of Tables
 
+Table 1.1: Projected school-aged population, by formal education level, 2012-2025...............5
+Table 1.2: Benchmarking of the skill profiles in Tanzania and MICs (2012/13).......................8
+Table 1.3: Education sector budget allocation as % of total Government budget and GDP, 2009/10 - 2016/17 ............................................................................................................9
+Table 3.1: Enrolment in Folk and Vocational Educational and Training 2011–2015..............31
+Table 3.2: Total number of students not enrolled in Form I and Form V................................32
+Table 3.3: Schools Quality Assurance – the Old and the New ..................................................36
+Table 6.1: Key Performance Indicators .......................................................................................122
+Table 7.1: Government expenditure for Education, 2017-18 ...................................................137
+Table 7.2: School age population estimates, Tanzania Mainland ...........................................139
+Table 7.3: Projection of enrolment by level of education .........................................................140
+Table 7.4: Requirements for teachers and classrooms in Government schools ....................141
+Table 7.5: ESDP projected cost .....................................................................................................142
+Table 7.6: ESDP Projected costs by education sub-sector ........................................................143
+Table 7.7: Cost of the Operational Plan, breakdown by programme and object..................145
+Table 7.8: ESDP Operational Plan expenditure breakdown by sub-programme.................146
+Table 7.9: Budget Frame for 2016/17 - 2020/21 ........................................................................147
+Table 7.10: Potential budget for the education sector...............................................................148
+Table 7.11: Expected contributions from Development Partners ...........................................149
+Table 7.12: Financing gap for ESDP ............................................................................................150
+Table 7.13: Percentage of Government Budget and Share for Primary Education ..............152
+Table 7.14: Budget execution rates, 2016-17 ...............................................................................153
+
 viii
 
 [[END OF PAGE 8]]
@@ -84,11 +212,43 @@ viii
 
 ## List of Figures
 
+Figure 1.1: Map of Tanzania .............................................................................................................4
+Figure 3.1: Pre-Primary Enrolment................................................................................................18
+Figure 3.2: Average Number of Students per Stream and Pupil Teacher Ratio .....................19
+Figure 3.3: Primary Total Enrolment, NER and GER – 2004-2017 ............................................20
+Figure 3.4: Regions with Highest and Lowest NER – Primary Education ..............................21
+Figure 3.5: Performance on Reading and Mathematics at Std. II – 2015..................................21
+Figure 3.6: PSLE Pass Rates 2008-2016 ..........................................................................................22
+Figure 3.7: Enrolment in Forms I-IV 2006-2017 ...........................................................................23
+Figure 3.8: CSEE Pass Rates 2012-2016..........................................................................................25
+Figure 3.9: Enrolment Trend in Forms 5-6 for both Government and Non-Government schools ...........................................................................................................................28
+Figure 3.10: Percentage Female Enrolment 2011-2016................................................................28
+Figure 3.11: Primary Pupil-Teacher Ratios 2009-17 ....................................................................34
+Figure 3.12: Secondary Pupil-Teacher Ratios and Percentage of Teachers Qualified, by Type of School, 2009-2017.....................................................................................................35
+Figure 3.13: School Attendance Status by Age (from Hasan, 2015)..........................................37
+Figure 3.14: Primary Gross Enrolment Ratio by Region, 2017 ..................................................40
+Figure 3.15: GPI in Primary Gross Enrolment Ratio by Region, 2017 ......................................40
+Figure 3.16: Primary Survival Rates by LGA, 2017 .....................................................................41
+Figure 3.17: PSLE Pass Rates by LGA, 2016 .................................................................................42
+Figure 3.18: GPI in PSLE Pass Rates by LGA, 2016 .....................................................................43
+Figure 3.19: Budgetary Allocation to Education Sector by Education Levels 2004/05 - 2015/16 (in TZS millions) ...........................................................................................45
+Figure 3.20: Summary of Disbursement of Capitation Grants, 2010/11 – 2015/16 (in TZS million) ..........................................................................................................................46
+Figure 5.1: ESDP Logical Framework............................................................................................73
+
 ix
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+Figure 6.1: Essential Elements of a Dialogue Structure............................................................128
+Figure 6.2: High Level Structure..................................................................................................131
+Figure 6.3: Technical Working Groups .......................................................................................134
+Figure 7.1: Breakdown of ESDP projected costs by education sub-sector.............................143
+Figure 7.2: % of OP expenditures other than for infrastructure..............................................145
+Figure 7.3: Operational Plan expenditure breakdown by main programme........................146
+Figure 7.4: Remaining financing gap including DPs' commitments......................................151
+Figure 7.5: Long term financial sustainability of ESDP scenario ............................................152
 
 x
 
@@ -796,9 +956,9 @@ This  technical  process  relied  strongly  on  a  simulation  model  that  was 
 
 The latest data from 2017 have been used during the finalization of this document, when available. Otherwise, the most recent available data have been used. The key basic education indicators are based on BEST 2017 data. In most other cases (especially for TVET and Higher Education), the data are from 2014 or 2015. In sub-sectors other than basic and non-formal, up-to-date data availability is an issue and this is discussed in the body of this document. Much  of  the  sector  analysis  comes  from  the  2015-16  Education  Sector  Analysis  (ESA), commissioned jointly by the Government and the Development Partners and undertaken by UNESCO.  The data used in that analysis come from 2015 or earlier.  It is recognised that more  recent  data  are  now  available,  particularly  from  the  Annual  School  Censuses undertaken in 2016 and 2017, but it is not practical to completely update and rewrite the ESA every year incorporating the new data.  The next full ESA should be conducted during the latter part of this ESDP.
 
-Parallel  to  this  technical  work,  a  few  consultative  sessions  took  place  with  various educational stakeholders, including representatives from the educational administration, the development partners, civil society organizations, and the senior leadership of the Ministry of  Education,  Science  and  Technology  (MoEST)  and the  President's  Office,  Regional Administration and Local Government (PO-RALG), to present and discuss the major policy choices. This involved conducting three regional workshops, and concluded with a high level workshop -part of the Joint Education Sector Review, 2016 -at which all stakeholders were represented,  from  students  to  Permanent  Secretaries.  Afterwards,  the  comments  and suggestions on the draft ESDP were taken on board to produce a revised ESDP document which was formally endorsed by the Education Sector Development Committee (ESDC -Tanzania's apex multi -stakeholder education policy committee) in June 2016.
+Parallel to this technical work, a few consultative sessions took place with various educational stakeholders, including representatives from the educational administration, the development partners, civil society organizations, and the senior leadership of the Ministry of Education, Science and Technology (MoEST) and the President's Office, Regional Administration and Local Government (PO-RALG), to present and discuss the major policy choices. This involved conducting three regional workshops, and concluded with a high level workshop – part of the Joint Education Sector Review, 2016 – at which all stakeholders were represented, from students to Permanent Secretaries. Afterwards, the comments and suggestions on the draft ESDP were taken on board to produce a revised ESDP document which was formally endorsed by the Education Sector Development Committee (ESDC – Tanzania's apex multi-stakeholder education policy committee) in June 2016.
 
-After endorsement of the document by the ESDC, work started on the development of the ESDP Operational Plan and the detailed Monitoring and Evaluation Framework. Following receipt of detailed comments from the Global Partnership for Education's (GPE) Secretariat in August and December 2016, further additions and amendments were made to the ESDP text to provide more detailed clarifications of issues raised.
+After endorsement of the document by the ESDC, work started on the development of the ESDP Operational Plan and the detailed Monitoring and Evaluation Framework. Following receipt of detailed comments from the Global Partnership for Education's (GPE) Secretariat
 
 xvii
 
@@ -806,9 +966,11 @@ xvii
 
 [[START OF PAGE 18]]
 
-While it is the purpose of this five-year education sector plan to present the broad policy choices, the core priorities, and the overall strategic directions for the whole education sector, such a plan cannot enter into the details of the operationalization of each strategy.  These details are included in the Strategic Plans and annual budgets of each of the implementing agencies  and  will  be  updated  annually.    Furthermore,  budgets  are  set  and  approved  by Parliament  annually  and  although  indicative  figures  for  five  years  are  included  in  the Operational Plan, the actual result of the annual budgeting  process  is  somewhat unpredictable.  The Monitoring and Evaluation Framework provides a robust methodology for  assessing  progress  against  the  Key  Performance  Indicators  and  other  indicators throughout  the  implementation  period  of  this  ESDP  and  will  enable  regular  analysis  of progress to be undertaken and any necessary adjustments to plans and budgets.
+in August and December 2016, further additions and amendments were made to the ESDP text to provide more detailed clarifications of issues raised.
 
-It is recognised that at the time of finalization of this plan, the implementation period has already begun. December 2017 is already half way through Year 2 of this ESDP.  However, it is a r equirement of the Tanzanian Government, as specified by the President's Office and by the Ministry of Finance and Planning, that all sector plans must be aligned with Tanzania's National Five-Year Development Plans. Therefore the dates of the plan cannot be changed. The next ESDP will be from 2021-2022 to 2025-2026 and its preparation will begin during the final two years of this ESDP.
+While it is the purpose of this five-year education sector plan to present the broad policy choices, the core priorities, and the overall strategic directions for the whole education sector, such a plan cannot enter into the details of the operationalization of each strategy. These details are included in the Strategic Plans and annual budgets of each of the implementing agencies and will be updated annually. Furthermore, budgets are set and approved by Parliament annually and although indicative figures for five years are included in the Operational Plan, the actual result of the annual budgeting process is somewhat unpredictable. The Monitoring and Evaluation Framework provides a robust methodology for assessing progress against the Key Performance Indicators and other indicators throughout the implementation period of this ESDP and will enable regular analysis of progress to be undertaken and any necessary adjustments to plans and budgets.
+
+It is recognised that at the time of finalization of this plan, the implementation period has already begun. December 2017 is already half way through Year 2 of this ESDP. However, it is a requirement of the Tanzanian Government, as specified by the President's Office and by the Ministry of Finance and Planning, that all sector plans must be aligned with Tanzania's National Five-Year Development Plans. Therefore the dates of the plan cannot be changed. The next ESDP will be from 2021-2022 to 2025-2026 and its preparation will begin during the final two years of this ESDP.
 
 xviii
 
@@ -828,9 +990,9 @@ The current education landscape in Tanzania has been guided by the ten-year ESDP
 
 The ESDP document consists of two major components. First, the document provides an Education Sector Analysis (ESA), which highlights the key achievements of the education sector with an emphasis on the issues and challenges to be addressed in the period under review. This document presents a summary of the full ESA (2015-16) which is available as a separate document. Secondly, the document presents the key policy priorities, objectives, strategies and priority programmes, fully costed, for the period of the plan, based on available evidence on what works in improving education delivery,  as  well  as  the  existing  national  and  international  development  policy contexts.
 
-The current ESDP has been informed by, among others, the Education and Training Policy  (ETP)  of  2014,  National  Five  Year  Development  Plan  2016/17-2020/21 (NFYDP), National Strategy for Growth and Reduction of Poverty II (NSGRP), and the Sustainable Development Goals (SDGs), particularly SDG No. 4. This ESDP document was developed by the Ministry of Education, Science and Technology (MoEST) in collaboration  with the  President's  Office  Regional  Administration  and  Local Government  (PO-RALG),  the  International  Institute  for  Education  Planning  (IIEP) through the UNESCO office in Dar es Salaam and technical support from Cambridge Education.
+The current ESDP has been informed by, among others, the Education and Training Policy (ETP) of 2014, National Five Year Development Plan 2016/17-2020/21 (NFYDP), National Strategy for Growth and Reduction of Poverty II (NSGRP), and the Sustainable Development Goals (SDGs), particularly SDG No. 4. This ESDP document was developed by the Ministry of Education, Science and Technology (MoEST) in collaboration with the President's Office – Regional Administration and Local Government (PO-RALG), the International Institute for Education Planning (IIEP) through the UNESCO office in Dar es Salaam and technical support from Cambridge Education.
 
-The  necessary  data  for  the  document  were  collected  through  a  review  of  relevant documents, such as the previous ESDP (2007/08-2016/17), ETP 2014, NFYDP 2016-21, NSGRP  (II)  and  other  key  education  programme  implementation  documents, especially the Basic Education Statistics of Tanzania (BEST) published annually by PORALG and the Education Sector Performance Report (ESPR) published annually by MoEST. Additionally, interviews and discussions with various key stakeholders were conducted  to  garner  relevant  information,  culminating  in  two  days  of  high-level national consultations during the 2016 Joint Education Sector Review.
+The necessary data for the document were collected through a review of relevant documents, such as the previous ESDP (2007/08-2016/17), ETP 2014, NFYDP 2016-21, NSGRP (II) and other key education programme implementation documents, especially the Basic Education Statistics of Tanzania (BEST) published annually by PO-RALG and the Education Sector Performance Report (ESPR) published annually by MoEST. Additionally, interviews and discussions with various key stakeholders were conducted to garner relevant information, culminating in two days of high-level national consultations during the 2016 Joint Education Sector Review.
 
 1
 
@@ -838,11 +1000,11 @@ The  necessary  data  for  the  document  were  collected  through  a  review  o
 
 [[START OF PAGE 20]]
 
-The development of the five year ESDP (2016/17-2020/21) has taken cognizance of the national development aspirations as enshrined in the National Five Year Development Plan (NFYDP) 2016/17-2020/21 and its time frame is synchronised with the NFYDP. The guiding principle for the NFY DP is ' Nurturing Industrialization for Economic Transformation and Human Development. ' The NFYDP is built on three pillars of transformation, namely industrialization, human development, and implementation effectiveness.    Education  and  skills  development  are  at  the  core  of  the  human development pillar.
+The development of the five year ESDP (2016/17-2020/21) has taken cognizance of the national development aspirations as enshrined in the National Five Year Development Plan (NFYDP) 2016/17-2020/21 and its time frame is synchronised with the NFYDP. The guiding principle for the NFYDP is “Nurturing Industrialization for Economic Transformation and Human Development.” The NFYDP is built on three pillars of transformation, namely industrialization, human development, and implementation effectiveness. Education and skills development are at the core of the human development pillar.
 
 #### 1.2 Rationale for ESDP Revision
 
-The  Education  Sector  Development  Programme  was  first  developed  in  1997  and revised in 2000 as part of the sector wide approach to planning (SWAP). The ESDP later became an input into the 2005 National Strategy for Growth and Reduction of Poverty (NSGRP) which had been envisaged in the Tanzania Development Vision 2025,  formulated  in  1999.  The  ESDP  was  meant  to  be  a  holistic  framework  and  a departure from the traditional project approach to education development which was seen as unsustainable and had failed to bring about the desired developmental impact on education 1 . In particular the ESDP was developed in order to enhance coordination, collaboration and synchronization of education interventions.
+The Education Sector Development Programme was first developed in 1997 and revised in 2000 as part of the sector wide approach to planning (SWAP). The ESDP later became an input into the 2005 National Strategy for Growth and Reduction of Poverty (NSGRP) which had been envisaged in the Tanzania Development Vision 2025, formulated in 1999. The ESDP was meant to be a holistic framework and a departure from the traditional project approach to education development which was seen as unsustainable and had failed to bring about the desired developmental impact on education¹. In particular the ESDP was developed in order to enhance coordination, collaboration and synchronization of education interventions.
 
 The ESDP was revised again in 2007 resulting in a 10-year programme (ESDP 2007/08 to 2016/17). The reasons for revision of ESDP 2007/08-2016/17 include:
 
@@ -850,7 +1012,7 @@ The ESDP was revised again in 2007 resulting in a 10-year programme (ESDP 2007/0
 
 - Increasing concern about the quality of education, as reflected by poor learning outcomes especially at basic education levels;
 
-- Introduction  of  various  education  initiatives  by  both  government  and  nongovernment partners, such as the Big Results Now (BRN) initiative, Education Program for Results (EPforR), and Literacy and Numeracy Education Support (LANES) programmes; and
+- Introduction of various education initiatives by both government and non-government partners, such as the Big Results Now (BRN) initiative, Education Program for Results (EPforR), and Literacy and Numeracy Education Support (LANES) programmes; and
 
 - Introduction of the Education and Training Policy of 2014 and its implications for the structure of education in Tanzania, including:
 
@@ -900,7 +1062,7 @@ Amidst laudable achievements in expanding access to education at various levels,
 
 #### 1.5 Geography and Administrative Divisions
 
-Tanzania is located between latitude 1 o  S and 12 o  S and longitude 29 o  E and 41 o  E with a total area of 947,300 sq. km (land : 885,800 sq. km and water : 61,500 sq. km). Tanzania has borders with Burundi, the Democratic Republic of Congo and Rwanda to the West, with Kenya and Uganda to the North, with Malawi, Mozambique, and Zambia to the South and the Indian Ocean lies to the East.
+Tanzania is located between latitude 1° S and 12° S and longitude 29° E and 41° E with a total area of 947,300 sq. km (land: 885,800 sq. km and water: 61,500 sq. km). Tanzania has borders with Burundi, the Democratic Republic of Congo and Rwanda to the West, with Kenya and Uganda to the North, with Malawi, Mozambique, and Zambia to the South and the Indian Ocean lies to the East.
 
 Mainland  Tanzania  is  divided  into 26 administrative regions and  185  Local Government  Authorities (LGAs). Each region has a Regional Administrative Secretariat of which education is represented by the Assistant Regional Administrative Secretary for Education.
 
@@ -908,7 +1070,7 @@ Figure 1.1:  Map of Tanzania
 
 #### 1.6 Demographic Profile
 
-By 2017 , Tanzania's population is estimated at 5 1.5 million (Mainland 50.0 million) 3 . Almost two thirds (63.8%) of this population are below the age of 25, with a mean age of 17.6. This population structure places a premium on the cost of education and other social services. Tanzania, therefore, needs to invest substantially in education in order to attain her long term development goals.
+By 2017, Tanzania's population is estimated at 51.5 million (Mainland 50.0 million)³. Almost two thirds (63.8%) of this population are below the age of 25, with a mean age of 17.6. This population structure places a premium on the cost of education and other social services. Tanzania, therefore, needs to invest substantially in education in order to attain her long term development goals.
 
 > 3  National Bureau of Statistics projection, based on 2012 Census
 
@@ -934,7 +1096,7 @@ A-Level (16-17 Years) | 1.75 | 1.85 | 1.95 | 2.17 | 2.47
 Higher (18-20 Years) | 2.87 | 3.02 | 3.19 | 3.55 | 4.05
 Total School-Aged Population | 17.66 | 18.63 | 19.64 | 21.84 | 24.94
 
-Source : PHC, 2012 for single- age demographic data and authors' projections.
+Source: PHC, 2012 for single-age demographic data and authors' projections.
 
 #### 1.7 Socio-Political and Economic Context
 
@@ -968,7 +1130,7 @@ Other socioeconomic factors that have a direct impact on the education sector an
 
 - Refugees  resulting from  political and  armed  conflict  in  neighbouring countries,  such  as  the  Democratic  Republic  of  Congo  and  Burundi,  place further strain on the education system, particularly in border regions and the main  cities.  An  estimated  1.5  percent  of  the  total  population,  or  656,223 inhabitants, are not Tanzanian citizens (PHC, 2012).
 
-- There are over 123 ethnic groups and tribal languages spoken in Tanzania. Kiswahili  is  the  official  national  language,  and  that  of  instruction  for  preprimary and primary grades, whereas English is the teaching language used in  lower and upper secondary and higher education. Efforts are needed to ensure proper transition of children from the use of vernacular or indigenous language (especially in the interior rural regions) to the use of Kiswahili before or soon after they are enrolled and to the use of English medium in secondary education.
+- There are over 123 ethnic groups and tribal languages spoken in Tanzania. Kiswahili is the official national language, and that of instruction for pre-primary and primary grades, whereas English is the teaching language used in lower and upper secondary and higher education. Efforts are needed to ensure proper transition of children from the use of vernacular or indigenous language (especially in the interior rural regions) to the use of Kiswahili before or soon after they are enrolled and to the use of English medium in secondary education.
 
 - Migration due to nomadic pastoralism, resulting in difficulties in providing education through the traditional means of fixed classrooms.
 
@@ -976,7 +1138,7 @@ Other socioeconomic factors that have a direct impact on the education sector an
 
 - Hard to reach areas particularly villages situated in sparsely populated areas and  in  remote  islands  and  deltas  such  as  Kibiti,  Rufiji,  Mafia,  Nkasi  and Ukerewe.
 
-> 4 GSM Association. Birth registration in Tanzania. Tigo's support of the new mobile birth registration system. Available at http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2016/07/BirthRegistration-in-Tanzania_Tigos-support-of-the-new-mobile-birth-registration-system.pdf
+> 4 GSM Association. Birth registration in Tanzania. Tigo's support of the new mobile birth registration system. Available at http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2016/07/Birth-Registration-in-Tanzania_Tigos-support-of-the-new-mobile-birth-registration-system.pdf
 
 6
 
@@ -990,7 +1152,7 @@ The National Five Year Development Plan for Tanzania (NFYDP 2016/17-2020/21) poi
 
 From the mid 1990s the Government implemented a number of measures to revamp social services provision, including promoting  private sector providers.  Such measures included policy reviews, for instance the Education and Training Policy of 1995, with a view to stepping up the enhancement of human resource capacity and development of skills.
 
-The  Tanzania  2025  Vision  directs  improved  provision  of  tertiary  education  and training that will provide the critical mass of high quality human resources required to effectively respond to and master development challenges at all levels (URT, 1999). This includes for industrialisation which is at the top of the 5 th Government's agenda for socio-economic development.
+The Tanzania 2025 Vision directs improved provision of tertiary education and training that will provide the critical mass of high quality human resources required to effectively respond to and master development challenges at all levels (URT, 1999). This includes for industrialisation which is at the top of the 5th Government's agenda for socio-economic development.
 
 While  the  education  sector  is  itself  faced  with  the  shortage  of  human  resources particularly  teachers,  it  is  at  the  same  time  tasked  with  the  production  of  human resources  for  other  sectors.  The  NFYDP  2016/17-2020/21  describes  the  education sector  as  the  path  towards  achieving  the  human  capital  development  required  in uplifting the country's skills profile for industrial development.
 
@@ -998,7 +1160,7 @@ The NFYP 2011/12-2015/16 described the key skills needed for the achievement of 
 
 The estimated gap in skilled workers required for Tanzania to realise Middle Income Country  (MIC)  status  by  2025  is  high.  A  comparison  with  other  MICs  for  broad employment sectors is shown in Table 1.2, including a detailed skills gap analysis.
 
-The NFYDP 2016-21 clearly states as its strategy choice the need to build competent and competitive human capital (vocational, technical, professionals, graduates and postgraduates) in areas relevant to industrial development. This is to be done through increased investment in human capacity building at all levels in accordance with the National Skills Development Strategy (NSDS) 5 . This includes the utilisation of preemployment and post-training institutions.
+The NFYDP 2016-21 clearly states as its strategy choice the need to build competent and competitive human capital (vocational, technical, professionals, graduates and postgraduates) in areas relevant to industrial development. This is to be done through increased investment in human capacity building at all levels in accordance with the National Skills Development Strategy (NSDS)⁵. This includes the utilisation of pre-employment and post-training institutions.
 
 > 5  See the National Skills development strategy (NSDS) developed by the Ministry of Labour and Ministry of Education, Science and Technology and Vocational Training
 
@@ -1008,25 +1170,23 @@ The NFYDP 2016-21 clearly states as its strategy choice the need to build compet
 
 [[START OF PAGE 26]]
 
-Level of skills of workers | Major group of occupations | Proportion of the working population [%] | Skill Gap (Required increase in %
+Table 1.2: Benchmarking of the skill profiles in Tanzania and MICs (2012/13)
+
+Level of skills of workers | Major group of occupations | Proportion of the working population [%] |  | Skill Gap (Required increase in % of the working population by 2025) |
 --- | --- | --- | --- | --- | ---
-Tanzania | MICs | of the working population by 2025)
+ |  | Tanzania | MICs |  |
 High | Managers and Administrators | 0.2 | 2.72 | 14 times | 5 times
-Professionals | 0.7 | 4.66 | 7 times
-Associate Professionals and Technicians | 1.8 | 4.73 | 3 times
+ | Professionals | 0.7 | 4.66 | 7 times |
+ | Associate Professionals and Technicians | 1.8 | 4.73 | 3 times |
 Medium | Clerks and related workers | 0.4 | 4.55 | 11 times | 3 times
-Service, shop and market sales workers | 9.1 | 11.77 | 1.3 times
-Craft and related trade workers | 4.1 | 17.35 | 4 times
-Skilled agricultural workers | n.a | 0.42 | Significant
+ | Service, shop and market sales workers | 9.1 | 11.77 | 1.3 times |
+ | Craft and related trade workers | 4.1 | 17.35 | 4 times |
+ | Skilled agricultural workers | n.a | 0.42 | Significant |
 Low | Plant and machine operators/assemblers | 1.3 | 5.66 | 4 times | 0.6 times
-Others including elementary workers | 82.4 | 48.14 | 0.6 times
-Indicative overall balance of skilled | 1:5:30 | 1:3:5
+ | Others including elementary workers | 82.4 | 48.14 | 0.6 times |
+Indicative overall balance of skilled workers |  | 1:5:30 | 1:3:5 |  |
 
-Table 1.2:  Benchmarking of the skill profiles in Tanzania and MICs (2012/13)
-
-Source
-
-: TVET Development Plan, 2013
+Source: TVET Development Plan, 2013
 
 #### 1.9 Macroeconomic and Fiscal Contexts
 
@@ -1042,6 +1202,8 @@ However, it should be recognised that the declining share of the total budget al
 
 [[START OF PAGE 27]]
 
+Table 1.3: Education sector budget allocation as % of total Government budget and GDP, 2009/10 - 2016/17
+
 Year | Total Budget (in million TZS) | GDP (at current prices in million TZS) | Education Sector Budget (in million TZS) | Education Sector as % of Total Budget | Education Sector as % of GDP
 --- | --- | --- | --- | --- | ---
 2009/10 | 9,513,685 | 40,932,805 | 1,743,900 | 18.3 | 4.3
@@ -1052,8 +1214,6 @@ Year | Total Budget (in million TZS) | GDP (at current prices in million TZS) | 
 2014/15 | 19,649,500 | 83,904,228 | 3,465,101 | 17.6 | 4.1
 2015/16 | 22,495,500 | 93,725,581 | 3,870,178 | 17.2 | 4.1
 2016/17 | 29,500,000 | 105,747,227 | 4,768,358 | 16.2 | 4.5
-
-Table 1.3:  Education sector budget allocation as % of total Government budget and GDP, 2009/10 - 2016/17
 
 Source: BEST 2016
 
@@ -1073,7 +1233,7 @@ The provision of education in Tanzania is guided by national macro policies, pla
 
 The national policies/plans are further supplemented by education sector policies and programmes, which include:
 
-- The  Education  and  Training  Policy  (ETP)  of  2014:  The  ETP  provides statements  that  direct  the  transition  to  fee-free  and  compulsory  basic education of 11 years, including one year of mandatory pre-primary education (for children aged 4-5 years), six years of primary 6  (to be started at the age of six  years)  and  four  years  of  lower  secondary,  O-Level  education  (MoEVT, 2014c). Other policies supporting implementation of the ETP are:
+- The Education and Training Policy (ETP) of 2014: The ETP provides statements that direct the transition to fee-free and compulsory basic education of 11 years, including one year of mandatory pre-primary education (for children aged 4-5 years), six years of primary⁶ (to be started at the age of six years) and four years of lower secondary, O-Level education (MoEVT, 2014c). Other policies supporting implementation of the ETP are:
 
 -The  Technical  Education  and  Training  Policy  (1996),  currently  under review
 
@@ -1109,23 +1269,23 @@ The national policies/plans are further supplemented by education sector policie
 
 The  main  focus  of  the  sector  policies  is  to  transform  the  education  sector  into  an efficient, effective, outcome-based system, which would facilitate the achievement of the educational goals as delineated in the Tanzania Development Vision 2025 and the objectives of the NFYDP II 2016/17-2020/21.  The NFYDP II is built on three pillars of transformation, namely industrialization, human development, and implementation effectiveness. Specifically the objectives of NFYDP II are:
 
-- Build a base for transforming Tanzania into a semi-industrialized nation by 2025;
+i. Build a base for transforming Tanzania into a semi-industrialized nation by 2025;
 
-- Foster development of sustainable productive and export capacities;
+ii. Foster development of sustainable productive and export capacities;
 
-- Consolidate Tanzania's strategic geographical location through improving the environment  for  doing  business  and  positioning  the  country  as  a  regional production, trade and logistics hub;
+iii. Consolidate Tanzania's strategic geographical location through improving the environment for doing business and positioning the country as a regional production, trade and logistics hub;
 
-- Promote  availability of requisite industrial skills (production and trade management, operations, quality assurance, marketing, etc.) and skills for other production and services delivery;
+iv. Promote availability of requisite industrial skills (production and trade management, operations, quality assurance, marketing, etc.) and skills for other production and services delivery;
 
-- Accelerate  broad-based  and  inclusive  economic  growth  that  reduces  poverty substantially  and  allows  shared  benefits  among  the  majority  of  the  people through increased productive capacities and job creation especially for the youth and disadvantaged groups;
+v. Accelerate broad-based and inclusive economic growth that reduces poverty substantially and allows shared benefits among the majority of the people through increased productive capacities and job creation especially for the youth and disadvantaged groups;
 
-- Improve quality of life and human wellbeing;
+vi. Improve quality of life and human wellbeing;
 
-- Foster  and  strengthen  implementation  effectiveness,  including  prioritization, sequencing, integration and alignment of interventions;
+vii. Foster and strengthen implementation effectiveness, including prioritization, sequencing, integration and alignment of interventions;
 
-- Intensify and strengthen the role of local actors in planning and implementation; and
+viii. Intensify and strengthen the role of local actors in planning and implementation; and
 
-- Ensure global and regional agreements (e.g. Africa Agenda 2063 and SDGs) are adequately mainstreamed into national development planning and implementation frameworks for the benefit of the country.
+ix. Ensure global and regional agreements (e.g. Africa Agenda 2063 and SDGs) are adequately mainstreamed into national development planning and implementation frameworks for the benefit of the country.
 
 National  education  policies  and  strategies  have  also  been  shaped  by  Tanzania's international commitments. The country is a signatory to:
 
@@ -1135,17 +1295,17 @@ National  education  policies  and  strategies  have  also  been  shaped  by  Ta
 
 [[START OF PAGE 30]]
 
-- The  1997  Southern  African  Development  Community  (SADC)  Protocol  on Education and Training;
+i. The 1997 Southern African Development Community (SADC) Protocol on Education and Training;
 
-- The 2000 Dakar Framework for Action on Education for All;
+ii. The 2000 Dakar Framework for Action on Education for All;
 
-- The 2007 Perth Declaration on Science and Technology Education;
+iii. The 2007 Perth Declaration on Science and Technology Education;
 
 and has more recently committed to:
 
-- The global Education 2030 agenda, agreed at Incheon, in South Korea in May 2015 ; and
+iv. The global Education 2030 agenda, agreed at Incheon, in South Korea in May 2015; and
 
-- The Global Partnership for Education since 2012.
+v. The Global Partnership for Education since 2012.
 
 #### 2.2 Structure of the Education System
 
@@ -1165,9 +1325,9 @@ Tanzania's education system is broadly organized into three parts:
 
 ##### 2.2.2 Structure of Formal Education
 
-Until  2015,  the  formal  education  system  in  Tanzania  reflected  a  2 -7 -4 -2 -3+ structure, encompassing two years of pre-primary (non-compulsory), seven years of compulsory primary (Standards I to VII, for children aged 7 to 13 years), four years of  fee-paying  lower  secondary  (O-Level  Forms  1  to  4,  for  children  aged  14  to  17 years), two years of fee-paying upper secondary (A-Level Forms 5 and 6, for youth aged 18 to 19 years) and three or more years of higher education.
+Until 2015, the formal education system in Tanzania reflected a 2–7–4–2–3+ structure, encompassing two years of pre-primary (non-compulsory), seven years of compulsory primary (Standards I to VII, for children aged 7 to 13 years), four years of fee-paying lower secondary (O-Level Forms 1 to 4, for children aged 14 to 17 years), two years of fee-paying upper secondary (A-Level Forms 5 and 6, for youth aged 18 to 19 years) and three or more years of higher education.
 
-The formal education system in Tanzania is now in the process of being restructured to offer 12 years of free compulsory basic education. This moves Tanzania to a 1-7-42-3+ structure. However, this is yet to be accommodated in the new Education Act which will enshrine it into Tanzanian law.  The main differences from the previous structure are that both one year of pre-primary and four years of lower secondary are now free and compulsory.
+The formal education system in Tanzania is now in the process of being restructured to offer 12 years of free compulsory basic education. This moves Tanzania to a 1-7-4-2-3+ structure. However, this is yet to be accommodated in the new Education Act which will enshrine it into Tanzanian law. The main differences from the previous structure are that both one year of pre-primary and four years of lower secondary are now free and compulsory.
 
 12
 
@@ -1187,7 +1347,7 @@ Higher  Education  is  provided  after  completion  of  A-Level  secondary  scho
 
 ##### 2.2.3 Structure of Teacher Education
 
-Teacher education has undergone a series of transformations through the Government 's efforts  to  improve  qualifications  and  the  quality  of  the  teachinglearning process (Ssereo, 2015a).
+Teacher education has undergone a series of transformations through the Government's efforts to improve qualifications and the quality of the teaching-learning process (Ssereo, 2015a).
 
 Two types of certification are provided at Teacher Colleges (TCs): Certificate that is acquired after two years of pre-service provided to Form 4 leavers and Diploma that is also acquired after two years of pre-service for Form 6 leavers. Graduates at these levels are employed to teach at the Primary and Lower Secondary levels.
 
@@ -1199,7 +1359,7 @@ Two types of certification are provided at Teacher Colleges (TCs): Certificate t
 
 To  be  employed  to  teach  at  the  Advanced  Secondary  School  Level,  teachers  are required to hold a university degree in the relevant subject. Some university teacher education  programmes  offer  two  major  teaching  subjects,  while  others  offer  one major and one minor. Primary and Early Childhood undergraduate programmes are still run in a mode where one or two major university subjects are studied. However, in reality teaching at elementary level requires much broader knowledge and not very  detailed  content  knowledge,  but  more  pedagogical  content  detail.  This curriculum option is yet to be adopted widely.
 
-Under  the  new  primary  teacher  deployment  strategy,  to  be  adopted  from  2018, differentiated  strategies  will  be  applied  to:  (i)  pre-primary  teachers  and  primary early grades (Std 1 and 2) teachers; and to (ii) upper primary teachers (Std 3-7). Preprimary and early grades teachers will be generalist class teachers with training in early years teaching skills.  Upper primary teachers, while still trained as generalist primary teachers,  will  tend  to  specialize  in  a  few  subjects  and  will  receive  more specialized  training  in  those  subjects,  which  are  broadly  categorized  as  the maths/science and arts streams. Consideration also needs to be given to development of a language stream, as exists in many other countries, because the teaching of English remains at a low standard and yet acquisition of English is very important, seeing as it is the language of instruction in all other education sub-sectors (including lower secondary) except for pre-primary and primary.
+Under the new primary teacher deployment strategy, to be adopted from 2018, differentiated strategies will be applied to: (i) pre-primary teachers and primary early grades (Std 1 and 2) teachers; and to (ii) upper primary teachers (Std 3-7). Pre-primary and early grades teachers will be generalist class teachers with training in early years teaching skills. Upper primary teachers, while still trained as generalist primary teachers, will tend to specialize in a few subjects and will receive more specialized training in those subjects, which are broadly categorized as the maths/science and arts streams. Consideration also needs to be given to development of a language stream, as exists in many other countries, because the teaching of English remains at a low standard and yet acquisition of English is very important, seeing as it is the language of instruction in all other education sub-sectors (including lower secondary) except for pre-primary and primary.
 
 In-service training is provided through several mechanisms:
 
@@ -1227,13 +1387,13 @@ VET prepares learners to practice a skilled occupation in industry, agriculture 
 
 Folk  Education  (FE)  is  a  non-formal  education  programme  offered  through community-based  folk  development  colleges  (FDCs)  focused  on  employment, participation  in  community  social  and  economic  affairs  and  self-reliance.  The programme is open-access, for learners of any age or level of academic achievement. Courses are offered in short-term (up to 90 days), long-term (up to two years) and outreach. There are a total of 55 FDCs which are mostly in rural or semi-rural areas.
 
-Integrated Post Primary Education (IPPE) offers a pre-vocational stream for learners to  acquire  skills  for  self-employment  or  employment,  or  to  pursue  VET. IPPE's academic stream provides primary leavers who have passed the PSLE but failed to obtain a place in lower secondary with an alternative option to prepare for and sit the CSEE and pursue A-Level secondary or various TVET options if successful. The programme also overlaps with Folk and Adult Education in the provision of noncertified vocational training, but there is currently ample room for both initiatives given the high potential demand from youth seeking to acquire marketable skills.
+Integrated Post Primary Education (IPPE) offers a pre-vocational stream for learners to acquire skills for self-employment or employment, or to pursue VET. IPPE's academic stream provides primary leavers who have passed the PSLE but failed to obtain a place in lower secondary with an alternative option to prepare for and sit the CSEE and pursue A-Level secondary or various TVET options if successful. The programme also overlaps with Folk and Adult Education in the provision of non-certified vocational training, but there is currently ample room for both initiatives given the high potential demand from youth seeking to acquire marketable skills.
 
 ##### 2.2.5 Adult and Non-Formal Education
 
 In addition to the vocational courses outlined above, the main non-formal education programmes aim to provide out-of-school children with alternative or second-chance avenues of learning, as well as the option of mainstreaming back into general or technical and vocational education streams. They are non-formal School Readiness Programmes (SRP), Complementary Basic Education and Training (COBET), Open and Distance Learning (ODL) and the academic stream of IPPE.
 
-TIE has developed a 16-week non-formal pre-primary SRP, with 160,000 children enrolled  in  2016.    Initial  experiences  of  SRPs,  supported  by  programmes  such  as EQUIPT,  indicate  that  children's  ability  to  enter  Standard  I  (measured  by  social, linguistic and academic competencies) after a 16-week SRP programme is at least as good as after a full year of formal pre-primary.
+TIE has developed a 16-week non-formal pre-primary SRP, with 160,000 children enrolled in 2016. Initial experiences of SRPs, supported by programmes such as EQUIP-T, indicate that children's ability to enter Standard I (measured by social, linguistic and academic competencies) after a 16-week SRP programme is at least as good as after a full year of formal pre-primary.
 
 COBET offers two courses: (i) a two-year Cohort I course, for children aged 9 to 13 years to resume primary at Standard IV or V; and (ii) a three-year Cohort II course, preparing youth aged 14 to 17 years for the PSLE and potential mainstreaming into O-Level Form 1 or VET.
 
@@ -1243,9 +1403,9 @@ COBET offers two courses: (i) a two-year Cohort I course, for children aged 9 to
 
 [[START OF PAGE 34]]
 
-Open Distance Learning (ODL) offers distance-based or evening-class non formal secondary education and is run by the Institute of Adult Education (IAE). Learners may prepare for and sit the O-Level (Certificate of Secondary Education Examination -CSEE) and A-Level (Advanced Certificate of Secondary Education Examination -ACSEE) examinations to then pursue higher levels of education if successful.
+Open Distance Learning (ODL) offers distance-based or evening-class non formal secondary education and is run by the Institute of Adult Education (IAE). Learners may prepare for and sit the O-Level (Certificate of Secondary Education Examination – CSEE) and A-Level (Advanced Certificate of Secondary Education Examination – ACSEE) examinations to then pursue higher levels of education if successful.
 
-The main adult education programme is the Integrated Community-Based Adult Education (ICBAE), which caters for people aged 19 years and above, and consists of basic and advanced literacy training. In addition to offering instruction in Kiswahili, ICBAE also enrols learners in extension activities, income generation, life skills and vocational skills. A further programme, Yes I Can , modelled on the Cuban-designed Yo Sí Puedo was introduced in 2008 as part of the ICBAE initiative, focusing on basic literacy skills through the use of TV/videos.
+The main adult education programme is the Integrated Community-Based Adult Education (ICBAE), which caters for people aged 19 years and above, and consists of basic and advanced literacy training. In addition to offering instruction in Kiswahili, ICBAE also enrols learners in extension activities, income generation, life skills and vocational skills. A further programme, Yes I Can, modelled on the Cuban-designed Yo Sí Puedo was introduced in 2008 as part of the ICBAE initiative, focusing on basic literacy skills through the use of TV/videos.
 
 16
 
@@ -1277,7 +1437,7 @@ The following  characteristics  make  Tanzania's  present  context  a  positive 
 
 ##### 3.1.1 Summary
 
-The  government's  ongoing  investment  in  basic  education has  meant  that  it  is responsible for 95.2% of pre-primary, 96.6% of primary, 82.2% of O-Level and 70.4% of A-Level secondary enrolment. The downward trend in primary enrolment noted over 2009-14 has been reversed. The enrolment dropped from 8,441,553 in  2009 to 8,222,627 in 2014, a decrease of 2.4%, but then rose to 8,633,776 in 2016, an increase of 6.4% over the previous year, and again to 9,317,791 in 2017, another year-on-year increase of 7.9%. These increases are mainly due to the introduction of the fee-free basic education policy. Secondary repetition levels in Tanzania are very moderate and well controlled, reaching a high of 4.7% in 2013 but generally being somewhat lower,  around  1.5%  in  2016  and  2017.  This  is  quite  low  when  placed  in  the international context. The profile of the labour force has improved; in 2011/12, more than half of the population had at least Standard V primary, and the share of the population with no education, although still considerable (19%) has dropped by 5 percentage points .
+The government's ongoing investment in basic education has meant that it is responsible for 95.2% of pre-primary, 96.6% of primary, 82.2% of O-Level and 70.4% of A-Level secondary enrolment. The downward trend in primary enrolment noted over 2009-14 has been reversed. The enrolment dropped from 8,441,553 in 2009 to 8,222,627 in 2014, a decrease of 2.4%, but then rose to 8,633,776 in 2016, an increase of 6.4% over the previous year, and again to 9,317,791 in 2017, another year-on-year increase of 7.9%. These increases are mainly due to the introduction of the fee-free basic education policy. Secondary repetition levels in Tanzania are very moderate and well controlled, reaching a high of 4.7% in 2013 but generally being somewhat lower, around 1.5% in 2016 and 2017. This is quite low when placed in the international context. The profile of the labour force has improved; in 2011/12, more than half of the population had at least Standard V primary, and the share of the population with no education, although still considerable (19%) has dropped by 5 percentage points.
 
 17
 
@@ -1371,11 +1531,24 @@ Issues to be addressed at this level include the following:
 
 - Early grade literacy and numeracy development experts
 
-- Provision of PrePrimary classes closer to children's homes through accelerated establishment of satellite centres
+- Provision of Pre-Primary classes closer to children's homes through accelerated establishment of satellite centres
 
-Figure 3.2:  Average Number of Students per Stream and Pupil Teacher Ratio
+Figure 3.2: Average Number of Students per Stream and Pupil Teacher Ratio
+
+2012 | 28
+2013 | 27
+2014 | 75
+2016 | 94
 
 Increase in average number of students per stream - 2012 to 2016
+
+Year | Average number of students per teacher
+--- | ---
+2012 | 112
+2013 | 98
+2014 | 90
+2015 | 93
+2016 | 135
 
 Pupil Teacher Ratio: 2012 to 2016
 
@@ -1391,7 +1564,23 @@ Enrolment at the primary level has shown an increase of 14.8% from 8,116,488 pup
 
 Although this increase in the number of children enrolled is impressive, estimates of the NER indicate that enrolment is not keeping pace with population growth.  While the previous decline in GER has been reversed since 2016 when the fee-free basic education policy was introduced, the NER continues to decline.  See Figure 3.3. This is presumably explained by the large new intakes of children in 2016 and 2017 being offset by a larger proportion of primary school children being outside the primary age  range.  However,  please  note  that  although  data  is  now  very  accurate  (100% accurate  from  2015  onwards),  data  from  earlier  years  in  the  time  series  may  be somewhat approximate.
 
-Figure 3.3:  Primary Total Enrolment, NER and GER -2004-2017
+Figure 3.3: Primary Total Enrolment, NER and GER – 2004-2017
+
+Primary GER Trend
+125 | 120 | 115 | 110 | 105 | 100 | 95 | 90 | 85 | 80
+%
+1.04 | 1.02 | 1.00 | 0.98 | 0.96 | 0.94 | 0.92 | 0.90
+GPI
+2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
+Male | Female | GPI
+
+Primary NER Trend
+100 | 98 | 96 | 94 | 92 | 90 | 88 | 86 | 84 | 82 | 80
+%
+1.03 | 1.02 | 1.01 | 1.00 | 0.99 | 0.98 | 0.97 | 0.96 | 0.95
+GPI
+2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
+Male | Female | GPI
 
 The National average NER is high; however there are regional disparities.  At the primary level the highest recorded NER is currently 111.6% in Mara region while the lowest is 72.5% in Kigoma region.  In actual fact an NER cannot be higher than 100%, so this indicates an under-estimation of the primary school-aged population by the National Bureau of Statistics (NBS), whose population data is used for this calculation. (Enrolment  numbers  are  accurate.)    Population  is  only  measured  every  ten  years during the National Census and current estimates are modelled by the NBS based on historic trends.
 
@@ -1401,125 +1590,43 @@ The National average NER is high; however there are regional disparities.  At th
 
 [[START OF PAGE 39]]
 
-Figure 3.4:  Regions with Highest and Lowest NER -Primary Education
+Figure 3.4: Regions with Highest and Lowest NER – Primary Education
+
+Highest NER
+Mara | 111.6%
+Pwani | 107.2%
+Geita | 101.1%
+Mwanza | 99.0%
+Njombe | 98.7%
+Mtwara | 95.5%
+Iringa | 93.9%
+
+Lowest NER
+Arusha | 79.1%
+Kilimanjaro | 77.5%
+Tabora | 76.1%
+Manyara | 74.5%
+Dar es Salaam | 73.8%
+Kagera | 72.6%
+Kigoma | 72.5%
 
 According  to  the reading,  writing  and  mathematics  assessment  which  was conducted  by  the  National  Examinations  Council  of  Tanzania  (NECTA),  a  large percentage of children are able to read (almost 80% scored at least 78% on the reading test); however only 23% attained a satisfactory level of reading with comprehension. NECTA also measured student mastery of mathematics at the end of standard II. The percentage of students who performed at the satisfactory level (scoring 78% and above) was more or less similar to those who could read with comprehension, but there are more students who performed poorly in mathematics than in reading.
 
-Figure 3.5:  Performance on Reading and Mathematics at Std. II -2015
+Figure 3.5: Performance on Reading and Mathematics at Std. II – 2015
 
-79.9
+Ability to read | Reading with comprehension
+--- | ---
+Very Good (78%-100%) | 79.9 | 23.4
+Good (52%-76% | 4.5 | 30.1
+Average (26%-50%) | 3.1 | 22.4
+Poor (0-25%) | 12.5 | 24.2
 
-4.5
-
-3.1
-
-12.5
-
-23.4
-
-30.1
-
-22.4
-
-24.2
-
-0.0
-
-10.0
-
-20.0
-
-30.0
-
-40.0
-
-50.0
-
-60.0
-
-70.0
-
-80.0
-
-90.0
-
-Very Good
-
-(78%-100%)
-
-Good (52%-
-
-76%
-
-Average (26%-
-
-50%)
-
-Poor (0-25%)
-
-Ability to read
-
-Reading with comprehension
-
-27.64
-
-26.67
-
-20.6
-
-25.1
-
-17.35
-
-25.75
-
-22.27
-
-34.63
-
-16.81
-
-14.24
-
-22.6
-
-46.34
-
-24.54
-
-19.22
-
-18.2
-
-38.03
-
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-Very Good (78%-
-
-100%)
-
-Good (52%-76%
-
-Average (26%-
-
-50%)
-
-Poor (0-25%)
-
-Addition Test
-
-Subtraction Test
+Addition Test | Subtraction Test |  | 
+--- | --- | --- | ---
+Very Good (78%-100%) | 27.64 | 17.35 | 16.81 | 24.54
+Good (52%-76% | 26.67 | 25.75 | 14.24 | 19.22
+Average (26%-50%) | 20.6 | 22.27 | 22.6 | 18.2
+Poor (0-25%) | 25.1 | 34.63 | 46.34 | 38.03
 
 21
 
@@ -1529,9 +1636,15 @@ Subtraction Test
 
 In 2012 there was a sharp drop in Primary School Leaving Examination (PSLE) pass rates. However following the introduction of the BRN in 2013 there has been a steady improvement in PSLE pass rates to 50.6% in 2013, 57.0% in 2014, 67.8% in 2015 and 70.4% in 2016. This is still behind the trajectory required to meet the BRN target of 80% PSLE pass rates in 2015, but it has reversed the previously declining trend and represents significant progress since 2012.  See Figure 3.6.
 
-Figure 3.6:  PSLE Pass Rates 2008-2016
+Figure 3.6: PSLE Pass Rates 2008-2016
 
-The pupil-classroom ratio (PCR) has risen from 66:1 in 2010 to 77:1 in 2017 (BEST 2017), and is especially high in urban areas (92 pupils/class, against 70 pupils/class in  rural  areas)  (World  Bank,  2011).  Only  one  region  (Kilimanjaro)  meets  the stipulated norm of 40:1, or indeed even comes close. Only one other region (Njombe) has a PCR of less than 50:1. Geita, Katavi and Mwanza have PCRs of over 100:1. The total primary classroom shortage was estimated at 69% using the previous norm of a class size of 40 without using double shifts. By introducing double shift for Stds IIV and setting an interim class size of 60, the shortfall was reduced to 28%, or about 45,000 classrooms. However, with the reintroduction of a 7-year primary curriculum the shortfall has now increased to 36%, or about 66,400 classrooms. The main reasons for the increase in pupil classroom ratio are the Tanzanian birth rate continuing to stay at 36 births per thousand (Total Fertility Rate = 5.17), and the introduction of Fee-Free Basic Education.
+PSLE Pass Rates
+80.0 | 70.0 | 60.0 | 50.0 | 40.0 | 30.0 | 20.0 | 10.0 | 0.0
+%
+2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016
+Male | Female | Total
+
+The pupil-classroom ratio (PCR) has risen from 66:1 in 2010 to 77:1 in 2017 (BEST 2017), and is especially high in urban areas (92 pupils/class, against 70 pupils/class in rural areas) (World Bank, 2011). Only one region (Kilimanjaro) meets the stipulated norm of 40:1, or indeed even comes close. Only one other region (Njombe) has a PCR of less than 50:1. Geita, Katavi and Mwanza have PCRs of over 100:1. The total primary classroom shortage was estimated at 69% using the previous norm of a class size of 40 without using double shifts. By introducing double shift for Stds I-IV and setting an interim class size of 60, the shortfall was reduced to 28%, or about 45,000 classrooms. However, with the reintroduction of a 7-year primary curriculum the shortfall has now increased to 36%, or about 66,400 classrooms. The main reasons for the increase in pupil classroom ratio are the Tanzanian birth rate continuing to stay at 36 births per thousand (Total Fertility Rate = 5.17), and the introduction of Fee-Free Basic Education.
 
 Primary retention has gradually eroded, from a reported 100% in 2009, to 85% in 2013 and just 56% in 2016. Dropout rose by almost a third at primary between 2009-16, to an average annual rate of 6.4%. Having reached an all-time low in 2016, the primary retention rate improved in 2017. Should the current situation in terms of dropout and year-on-year  promotion  prevail  in  the  future,  just  64%  of  children  commencing primary today would expect to finish the primary cycle (62% of boys and 67% of girls).
 
@@ -1545,11 +1658,19 @@ Additionally, repetition has also risen in early primary grades, to reach a high
 
 ##### 3.1.4 Lower Secondary
 
-The enrolment trend in secondary education has been fairly stable in recent years after rapid increases from 2004 to 2012. Total enrolment more than quadrupled from 401,598 in 2004 to 1,802,810 in 2012. Enrolment in 2017 stands at 1,767,890. The impact of the new Fee-Free Basic Education Policy is not yet very great in the secondary education sub-sector, with enrolment rising by only 1.65% in 2016 and by 5.51% in 2017, compared to increases of 4.1% and 7.9% in the same years in the primary subsector. However, the full impact will be felt when the current larger primary cohorts transition to secondary.
+The enrolment trend in secondary education has been fairly stable in recent years after rapid increases from 2004 to 2012. Total enrolment more than quadrupled from 401,598 in 2004 to 1,802,810 in 2012. Enrolment in 2017 stands at 1,767,890. The impact of the new Fee-Free Basic Education Policy is not yet very great in the secondary education sub-sector, with enrolment rising by only 1.65% in 2016 and by 5.51% in 2017, compared to increases of 4.1% and 7.9% in the same years in the primary sub-sector. However, the full impact will be felt when the current larger primary cohorts transition to secondary.
 
 Despite these recent increases in the number of students enrolled in lower secondary, this is barely keeping pace with the population growth rate, as seen from the GER, which has been declining since 2012. The comparison between total enrolment and GER is shown in Figure 3.7.
 
-Figure 3.7:  Enrolment in Forms I-IV 2006-2017
+Figure 3.7: Enrolment in Forms I-IV 2006-2017
+
+Lower Secondary Enrolment Trend
+Total students enrolled
+1,000,000 | 900,000 | 800,000 | 700,000 | 600,000 | 500,000 | 400,000 | 300,000 | 200,000 | 100,000 | 0
+GER (%)
+100.00 | 90.00 | 80.00 | 70.00 | 60.00 | 50.00 | 40.00 | 30.00 | 20.00 | 10.00 | 0.00
+2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
+Male Enrolment | Female Enrolment | Male GER | Female GER
 
 Figure 3.7 also shows that female enrolment has overtaken male enrolment, both in actual  numbers  and  in  GER.  The  Gender  Parity  Index  (GPI)  in  lower  secondary education in 2017 stands at 1.05 in total student enrolment, 1.02 in GER and 1.08 in NER. A higher GPI for NER than for GER indicates that a greater proportion of lower secondary girls are in the correct age range compared to boys.
 
@@ -1577,7 +1698,16 @@ These  achievements  are  in  part  caused  by  the  focus  given  to  enrolment
 
 [[START OF PAGE 43]]
 
-Figure 3.8:  CSEE Pass Rates 2012-2016
+Figure 3.8: CSEE Pass Rates 2012-2016
+
+CSEE Pass Rates
+80.0 | 70.0 | 60.0 | 50.0 | 40.0 | 30.0 | 20.0 | 10.0 | 0.0
+%
+2012 | 43.1
+2013 | 57.2
+2014 | 69.8
+2015 | 68.0
+2016 | 70.4
 
 The  CSEE  pass  rates  vary  considerably  from  subject  to  subject,  from  18.1%  in mathematics to 77.8% in Kiswahili. Pass rates are higher for boys than for girls in all subjects except Kiswahili.
 
@@ -1585,7 +1715,7 @@ The  CSEE  pass  rates  vary  considerably  from  subject  to  subject,  from  1
 
 There are several challenges which face the Basic Education sector especially with regards to curriculum, pedagogy and the school learning environment. Currently, there  are  uncoordinated  interventions  in  curriculum  development  with  various education partner agencies such as the Tanzanian Institute of Education (TIE), the National Council for Technical Education (NACTE), NECTA, MoEST (including the School Quality Assurance Division) and the Agency for Development of Education Management  (ADEM),  and  several  partner-supported  programmes  (EQUIP-T, LANES,  Tusome  Pamoja,  UNICEF,  etc.)  working  in  areas  including  curriculum design, teacher education and textbook production. These separate initiatives have weak linkages with each other, which has contributed to a general lack of a holistic vision and single framework.
 
-Recognising the shortcomings of the previous primary curriculum, TIE developed a modernised  six-year  curriculum  which  is  more  competency  based,  in  line  with Tanzania's human development needs in th e 21 st  century and according to the ETP 2014. This has been in use for the cohort of children that started Std I in 2015 and have reached Std IV in 2018. Only Stds V-VII still use the old curriculum. Now that a decision has been made to retain seven years of primary education, the curriculum will again need revising to a seven-year competency-based curriculum.
+Recognising the shortcomings of the previous primary curriculum, TIE developed a modernised six-year curriculum which is more competency based, in line with Tanzania's human development needs in the 21st century and according to the ETP 2014. This has been in use for the cohort of children that started Std I in 2015 and have reached Std IV in 2018. Only Stds V-VII still use the old curriculum. Now that a decision has been made to retain seven years of primary education, the curriculum will again need revising to a seven-year competency-based curriculum.
 
 The uncoordinated effort of curriculum development has also influenced pedagogical outputs, with many teachers opting to rely on the follow, repeat and memorize methods, rather than problem-solving. This is partly due to teachers not having mastered the subjects; only 42% of teachers fully understood their subject (75% in maths and 11% in languages) (WB SDI Survey 2012).
 
@@ -1597,11 +1727,11 @@ The uncoordinated effort of curriculum development has also influenced pedagogic
 
 Added to this, the content which teachers are using is not always aligned with the curriculum and in some cases further challenges exist such as lack of textbooks. These factors,  along  with  teacher  absenteeism,  have  meant  that  students  are  faced  with numerous obstacles to their learning and this can explain why there is underperformance.  On  the  other  hand,  some  areas  of  the  country  have  seen  a reduction  in  classroom  absenteeism  and  an  improvement  in  various  aspects  of pedagogy, and recent surveys and exam results reflect an upturn in student learning achievements.  Different implementation models have been trialled with the support of  externally  funded  projects  in  different  parts  of  the  country  and  it  is  worth investigating further which approaches have proved more successful.
 
-Furthermore, there is a serious shortage of both pre-primary and primary teachers, as  well  as  of  maths  and  science  teachers  in  secondary  schools.  This  shortage  is exacerbated  by  uneven  distribution  of  teachers  across  the  country  and  uneven distribution of teacher workload within and between schools. Oversized classes are the norm rather than the exception, despite the government's target of having 40 as the standard class size in primary and secondary and 25 in pre-primary. For Standard I a class size of over 100 is the reality in over 5,100 schools. In Standard II the situation is similar with over 6,900 schools having a class-size of over 100. Although pupilteacher ratios (PTRs) improved at both primary (from 55:1 in 2009 to 42:1 in 2016) and secondary levels (from 43:1 to 17:1), many classes are still overcrowded, some even reaching as high as 300. International evidence shows that no effective teaching and learning can take place in lower primary with these numbers. This issue is now starting  to  be  addressed  under  the  new  Primary  Teacher  Deployment  Strategy (December 2017).
+Furthermore, there is a serious shortage of both pre-primary and primary teachers, as well as of maths and science teachers in secondary schools. This shortage is exacerbated by uneven distribution of teachers across the country and uneven distribution of teacher workload within and between schools. Oversized classes are the norm rather than the exception, despite the government's target of having 40 as the standard class size in primary and secondary and 25 in pre-primary. For Standard I a class size of over 100 is the reality in over 5,100 schools. In Standard II the situation is similar with over 6,900 schools having a class-size of over 100. Although pupil-teacher ratios (PTRs) improved at both primary (from 55:1 in 2009 to 42:1 in 2016) and secondary levels (from 43:1 to 17:1), many classes are still overcrowded, some even reaching as high as 300. International evidence shows that no effective teaching and learning can take place in lower primary with these numbers. This issue is now starting to be addressed under the new Primary Teacher Deployment Strategy (December 2017).
 
 However, due to the continuing rapid growth in enrolment at primary level and to a temporary freeze on civil service recruitment in 2016-2017, the primary PTR again worsened to 51:1  in  2017.  Using  PTR  as  a  measure  and  not  actual  class  size  has resulted in a continuation of oversized classes in the lower grades even when the PTR  at  school  level  has  been  improved.  The  new  Primary  Teacher  Deployment Strategy  addresses  this  through  new  guidelines  for  teacher  deployment  within schools and prioritising reducing class sizes.
 
-A serious contributory factor to overcrowding is a shortage of classrooms. Even after introducing a compulsory double shift system for pre-primary and primary Stds. IIV,  there  was  still  a  shortfall  of  45,000  new  primary  classrooms  that  would  be required just to reduce maximum class size to below 60 throughout the Tanzanian Mainland. With the retention of a seven-year primary cycle, this shortfall has been increased to 66,400. A new Schools Infrastructure Strategy is in preparation and is expected to be approved during 2018. This will include a multi-year plan for locating new schools and expansion of existing schools, as well as setting new and improved standards for construction. A large number of additional secondary classrooms (plus laboratories  and  other  facilities)  will  also  be  needed  to  meet  the  anticipated expansion of secondary enrolment.
+A serious contributory factor to overcrowding is a shortage of classrooms. Even after introducing a compulsory double shift system for pre-primary and primary Stds. I-IV, there was still a shortfall of 45,000 new primary classrooms that would be required just to reduce maximum class size to below 60 throughout the Tanzanian Mainland. With the retention of a seven-year primary cycle, this shortfall has been increased to 66,400. A new Schools Infrastructure Strategy is in preparation and is expected to be approved during 2018. This will include a multi-year plan for locating new schools and expansion of existing schools, as well as setting new and improved standards for construction. A large number of additional secondary classrooms (plus laboratories and other facilities) will also be needed to meet the anticipated expansion of secondary enrolment.
 
 26
 
@@ -1613,13 +1743,13 @@ However, improvements have been made in other areas with many more schools now h
 
 Inequity remains a concern in the basic education sub-sector.  There are three main dimensions  of  inequity: (1) gender; (2) geography;  and  (3) other forms  of disadvantage  including  exclusion  due  to  disability,  extreme  poverty,  special educational  needs  (SEN),  refugee  status,  etc.    The  second  area,  geographical disadvantage,  is  addressed  in  Section  3.9  below.  The  third  area,  other  forms  of vulnerability, is addressed in Section 3.8 below.
 
-Regarding gender equity, Tanzania has now achieved gender equity in enrolment in pre-primary, primary and lower secondary. There is also a good balance of male and female  teachers,  with  slightly  more  females  than  males.  However,  there  are  still gender disparities evident in drop-out rates and in learning outcomes. In both the primary and lower secondary cycles, boys tend to drop out more than girls, so this calls  for  increased  efforts  in  working  with  communities  to  ensure  that  boys' education  for  their  long-term  future  is  valued  above  their  short-term  economic contribution to their families (e.g. as livestock herders). The exception to this dropout pattern is during the transition from the primary cycle to the secondary cycle when more girls drop out than boys. The reasons for girls not transitioning to lower secondary  need  further  investigation  and  analysis,  but  factors  may  include  the increased distance to secondary schools, schools not being girl-friendly, a requirement to work more-or-less full-time on domestic chores at home and early marriage.
+Regarding gender equity, Tanzania has now achieved gender equity in enrolment in pre-primary, primary and lower secondary. There is also a good balance of male and female teachers, with slightly more females than males. However, there are still gender disparities evident in drop-out rates and in learning outcomes. In both the primary and lower secondary cycles, boys tend to drop out more than girls, so this calls for increased efforts in working with communities to ensure that boys' education for their long-term future is valued above their short-term economic contribution to their families (e.g. as livestock herders). The exception to this drop-out pattern is during the transition from the primary cycle to the secondary cycle when more girls drop out than boys. The reasons for girls not transitioning to lower secondary need further investigation and analysis, but factors may include the increased distance to secondary schools, schools not being girl-friendly, a requirement to work more-or-less full-time on domestic chores at home and early marriage.
 
-On average, girls  perform  significantly  worse  than  boys  at  both  PSLE  and  CSEE examinations  in  all  subjects  except  Kiswahili.  This  difference  in  performance  is already  noticeable  in  the  early  years,  with  the  EGRA  and  EGMA  genderdisaggregated results showing that Std. II girls are significantly better at reading than boys but significantly worse at basic arithmetical skills. Reasons for these differences need to be further studied and analysed.
+On average, girls perform significantly worse than boys at both PSLE and CSEE examinations in all subjects except Kiswahili. This difference in performance is already noticeable in the early years, with the EGRA and EGMA gender-disaggregated results showing that Std. II girls are significantly better at reading than boys but significantly worse at basic arithmetical skills. Reasons for these differences need to be further studied and analysed.
 
 #### 3.2 Higher Secondary (A-Level)
 
-Figure 3.9 indicates the trend in Forms 5-6 total enrolment in both Government and Non-Government secondary schools from 2006 to 2017, in which enrolment can be seen  as  steadily  rising.  For  example,  enrolment  increased  from  77,069  in  2014  to 140,967  in  2017.  Of  this  increase,  female  enrolment  recorded  a  remarkable  130% growth whilst males recorded a 60% rise. Despite these noteworthy gains there still remains a disparity between the two sexes with males making up 60% of the total Form 5 and 6 population (GPI = 0.68). This gender disparity is the same as it was 15 years ago, although the GPI dropped to below 0.5 for three years 2012-2014.  (PORALG, Basic Education Statistical Abstract 2004-2017, currently in press)
+Figure 3.9 indicates the trend in Forms 5-6 total enrolment in both Government and Non-Government secondary schools from 2006 to 2017, in which enrolment can be seen as steadily rising. For example, enrolment increased from 77,069 in 2014 to 140,967 in 2017. Of this increase, female enrolment recorded a remarkable 130% growth whilst males recorded a 60% rise. Despite these noteworthy gains there still remains a disparity between the two sexes with males making up 60% of the total Form 5 and 6 population (GPI = 0.68). This gender disparity is the same as it was 15 years ago, although the GPI dropped to below 0.5 for three years 2012-2014. (PO-RALG, Basic Education Statistical Abstract 2004-2017, currently in press)
 
 27
 
@@ -1627,7 +1757,15 @@ Figure 3.9 indicates the trend in Forms 5-6 total enrolment in both Government a
 
 [[START OF PAGE 46]]
 
-Figure 3.9:  Enrolment Trend in Forms 5-6 for both Government and NonGovernment schools
+Figure 3.9: Enrolment Trend in Forms 5-6 for both Government and Non-Government schools
+
+Higher Secondary Enrolment Trend
+Total students enrolled
+100,000 | 90,000 | 80,000 | 70,000 | 60,000 | 50,000 | 40,000 | 30,000 | 20,000 | 10,000 | 0
+GER (%)
+10.00 | 9.00 | 8.00 | 7.00 | 6.00 | 5.00 | 4.00 | 3.00 | 2.00 | 1.00 | 0.00
+2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
+Male enrolment | Female enrolment | Male GER | Female GER
 
 In terms of GER, Figure 3.9 shows that the previously widening gap between boys and girls has started to narrow in 2017. The government aims to reduce this gap further  to  reach  gender  parity  within  the  period  of  this  ESDP.  However,  large increases  in  Higher  Secondary  enrolment  are  not  planned,  as  the  focus  is  on encouraging more Lower Secondary leavers to progress to TVET.
 
@@ -1645,108 +1783,32 @@ Figure 3.10:  Percentage Female Enrolment 2011-2016
 
 [[START OF PAGE 47]]
 
-YEAR
-
-NUMBER ENROLLED
-
-%
-
-Female
-
-Percent female enrolment still
-
-remains low having stayed at 35-
-
-37% for five years.
-
-F
-
-M
-
-Total
-
-2011/2012
-
-60,592
-
-105,892
-
-166,484
-
-37
-
-2012/2013
-
-74,498
-
-129,677
-
-204,175
-
-36
-
-2013/2014
-
-77,524
-
-137,198
-
-214,722
-
-36
-
-2014/2015
-
-80,542
-
-139,989
-
-220,531
-
-37
-
-2015/2016
-
-67,209
-
-122,648
-
-189,857
-
-35
-
--
-
-100
-
-% difference Male and
-
-Female enrollment
-
-% Female
-
-%Male
-
-YEAR | NUMBER ENROLLED | %
+YEAR | NUMBER ENROLLED |  |  | % Female
 --- | --- | --- | --- | ---
-F | M | Total | Female
+ | F | M | Total |
 2011/2012 | 60,592 | 105,892 | 166,484 | 37
 2012/2013 | 74,498 | 129,677 | 204,175 | 36
 2013/2014 | 77,524 | 137,198 | 214,722 | 36
 2014/2015 | 80,542 | 139,989 | 220,531 | 37
 2015/2016 | 67,209 | 122,648 | 189,857 | 35
 
+% difference Male and Female enrollment
+100
+% Female | %Male
+
+Percent female enrolment still remains low having stayed at 35-37% for five years.
+
 In universities and university colleges, the number of academic staff has increased by 13% since 2012/13. With the large increase in enrolment, student-teacher ratio has increased but remains at an average of 34:1.
 
-The  number  of  individuals  entering  the  workforce  with  tertiary  education  has steadily  increased  from  1%  in  2007  to  3%  in  in  2016.  It  is  projected  that  another 214,000  higher  education  graduates  will  join  the  labour  market  over  the  coming years, of which 78% have followed degree courses, 69% at B achelor's level and 9% at postgraduate level or above and 21% follow non-degree courses.
+The number of individuals entering the workforce with tertiary education has steadily increased from 1% in 2007 to 3% in in 2016. It is projected that another 214,000 higher education graduates will join the labour market over the coming years, of which 78% have followed degree courses, 69% at Bachelor's level and 9% at postgraduate level or above and 21% follow non-degree courses.
 
 Although the profile of the labour force has a stock of highly qualified graduates it does not appear to be matched by formal employment opportunities. Highly skilled workforce continues to be low at 3.3% compared to the required proportion of at least 12%
 
-Enrolment is  lower  than  what  is  required  to  achieve  the  G overnment's vision  of becoming a middle-income country by 2025. The number of graduates in higher education remains low at 40,000 compared to the envisioned targets of 80,000 in 20020/2021 and 120,000 in 2025/2026. Gender imbalance is particularly evident in science, technology, engineering and mathematics (STEM) subjects, as well as limited participation  of  learners  with  disabilities.  The  current  level  of  coverage  is  not matched by a similar supply of formal jobs on the labour market.
+Enrolment is lower than what is required to achieve the Government's vision of becoming a middle-income country by 2025. The number of graduates in higher education remains low at 40,000 compared to the envisioned targets of 80,000 in 20020/2021 and 120,000 in 2025/2026. Gender imbalance is particularly evident in science, technology, engineering and mathematics (STEM) subjects, as well as limited participation of learners with disabilities. The current level of coverage is not matched by a similar supply of formal jobs on the labour market.
 
 There is a mismatch between output of HE institutions and labour market needs, related  to  curricula  that  lack  direct  linkages  to  industries  and  are  inadequate  or outdated. Knowledge is inadequately applied to economic activities, as reflected for instance by the lack of technology transfer patents.
 
-The  usage  of  information  and  communications  technologies  (ICT)  is  inadequate. Despite  the  investment  in  ICT  through  the  Science,  Technology  and  Higher Education Project (STHEP) from 2008-2014, the capacity of the regulating Tanzanian Commission for Universities (TCU) is low. The short-term retooling and in-service training  of  lecturers  conducted  in  2015-2016  was  an  initiative  to  increase  the lecturers ' ICT  skills  capabilities  and  further  investments  like  this  should  be considered  in  the  future.  The  supply  and  quality  of  teaching  and  learning  space should be improved, and both infrastructure and human resources for basic and applied  science  as  well  as  science  teacher  training  should  also  be  assessed  and resources should be allocated where there is need.
+The usage of information and communications technologies (ICT) is inadequate. Despite the investment in ICT through the Science, Technology and Higher Education Project (STHEP) from 2008-2014, the capacity of the regulating Tanzanian Commission for Universities (TCU) is low. The short-term retooling and in-service training of lecturers conducted in 2015-2016 was an initiative to increase the lecturers' ICT skills capabilities and further investments like this should be considered in the future. The supply and quality of teaching and learning space
 
 29
 
@@ -1754,19 +1816,21 @@ The  usage  of  information  and  communications  technologies  (ICT)  is  inade
 
 [[START OF PAGE 48]]
 
+should be improved, and both infrastructure and human resources for basic and applied science as well as science teacher training should also be assessed and resources should be allocated where there is need.
+
 #### 3.4 Adult and Non Formal Education
 
 Tanzania has been making great efforts to encourage youth and adults to engage in meaningful skills  and  education  programmes  to  help  improve  their  skills,  which would enable them to increase their livelihoods. However, despite these efforts the adult literacy rate is low (77.9% in 2012), and more men (83.2%) than women (73.1%) are  literate.  Variations  by  region  range  from  59.0%  in  Tabora  to  96.1%  in  Dar  es Salaam. Also, literacy rates differ greatly between urban and rural areas, with rural areas having 29% of adults illiterate whilst in urban areas the amount is only 8%.
 
 In adult and non-formal education centres several programmes have been running, but  overall  the  sector  needs  a  boost  in  the  coming  five  years.  The  two  main programmes  which  are  operating  in  this  sector  are  the  Complementary  Basic Education  (COBET),  which  caters  for  out  of  school  children  aged  9-18  and  the Integrated Community Basic Adult Education (ICBAE), which caters for youth and adults aged 19+.
 
-In COBET, enrolment was steadily declining from 2005 to 2013, but again increased between 2014 and 2016, dropping off again in 2017 .  Although girls' enrolment in COBET  is  16  percentage  po ints  less  than  boys' (GPI  =  0.72),  this  reflects  their respective  dropout  levels,  and  while  a  greater  share  of  female  participants  are mainstreamed into Std IV, greater shares of boys are mainstreamed into Standard V and Form 1, and accepted into vocational training.
+In COBET, enrolment was steadily declining from 2005 to 2013, but again increased between 2014 and 2016, dropping off again in 2017. Although girls' enrolment in COBET is 16 percentage points less than boys' (GPI = 0.72), this reflects their respective dropout levels, and while a greater share of female participants are mainstreamed into Std IV, greater shares of boys are mainstreamed into Standard V and Form 1, and accepted into vocational training.
 
 In  ICBAE  and  in  post-functional  literacy  programmes  there  was  a  decline  in enrolment in life skills, vocational skills and a small rise in extension services courses and basic literacy as well as income generation programmes. Numbers enrolled have dropped dramatically since 2009, from 1.2m to under 0.4m in 2016 with a further drop to 0.2m in 2017, falling drastically short of needs. In 2017, ICBAE enrolment accounted for just 21% of learners enrolled in 2011, which translates into an average annual decline of 23%.
 
 Integrated Post Primary Education (IPPE) showed a slight increase in enrolment in English,  Kiswahili  and  Mathematics,  and  small  enrolment  in  vocational  courses (plumbing,  carpentry,  etc.).  In  Open  and  Distance  Learning  (ODL)  programmes, during 2015/16 there was a total enrolment of 5,439 students including enrolment of 3,713 for levels 1-2, while enrolment in levels 3-4 was 1,365, and in levels 5-6 it was 361.
 
-Another key component of non-formal education is the School Readiness Programme (SRP) which has been piloted in several regions as an alternative fasttrack approach to one or more years of formal pre-school.  Initial results are very promising,  with  rapid  expansion  of  enrolment  and  with  pupils  demonstrating primary school readiness competencies as good as or better than those who have attended a year of formal pre-primary. Piloting of a Secondary School Readiness Programme (SSRP) has begun in 2017, with a particular focus on preparing girls for secondary schools.
+Another key component of non-formal education is the School Readiness Programme (SRP) which has been piloted in several regions as an alternative fast-track approach to one or more years of formal pre-school. Initial results are very promising, with rapid expansion of enrolment and with pupils demonstrating primary school readiness competencies as good as or better than those who have attended a year of formal pre-primary. Piloting of a Secondary School Readiness Programme (SSRP) has begun in 2017, with a particular focus on preparing girls for secondary schools.
 
 30
 
@@ -1782,17 +1846,15 @@ Enrolment in VET Institutions increased by 34.8% from 145,511 in 2011 to 196,091
 
 As  indicated  in  Table  3.1  the  percent  of  learners  completing  courses  has  also improved over the years from 76% in 2011 to 92% in 2015. This is a promising trend as it suggests an increase in the number of trainees from the vocational field.
 
-Year | Number of VET Trainees
---- | --- | --- | --- | --- | --- | --- | ---
-Enrolled | Graduates
-M | F | T | M F | T | graduated
-64,499 | 56,849 | 145,511 | 58,778 | 51,236 | 110,014 | 76 | 2011
-78,372 | 67,139 | 164,077 | 68,539 | 59,678 | 128,217 | 78 | 2012
-100,835 | 63,242 | 189,687 | 92,565 | 58,084 | 150,649 | 79 | 2013
-109,146 | 80,541 | 189,687 | 103,382 | 75,570 | 178,952 | 94 | 2014
-120,742 | 75,349 | 196,091 | 111,474 | 68,976 | 180,450 | 92 | 2015
+Table 3.1: Enrolment in Folk and Vocational Educational and Training 2011–2015
 
-Table 3.1:  Enrolment in Folk and Vocational Educational and Training 2011 -2015
+Year | Enrolled M | Enrolled F | Enrolled T | Graduates M | Graduates F | Graduates T | % graduated
+--- | --- | --- | --- | --- | --- | --- | ---
+2011 | 64,499 | 56,849 | 145,511 | 58,778 | 51,236 | 110,014 | 76
+2012 | 78,372 | 67,139 | 164,077 | 68,539 | 59,678 | 128,217 | 78
+2013 | 100,835 | 63,242 | 189,687 | 92,565 | 58,084 | 150,649 | 79
+2014 | 109,146 | 80,541 | 189,687 | 103,382 | 75,570 | 178,952 | 94
+2015 | 120,742 | 75,349 | 196,091 | 111,474 | 68,976 | 180,450 | 92
 
 Although there has been an increase over the years of learners in TVET, a lot more opportunities  could  be  made  available  for  students  not  accommodated  in  higher grades after completing Standard VII or Form IV. Table 3.2 indicates the number of students who were not upgraded to Form I or Form V, some of whom could have been accommodated in TVET courses. The total number enrolled in TVET during the same  period  is  885,053,  which  is  only  14%  of  the  number  of  students  not accommodated in Form I or V, which was 6,359,018 over the same period.
 
@@ -1801,6 +1863,8 @@ Although there has been an increase over the years of learners in TVET, a lot mo
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+Table 3.2: Total number of students not enrolled in Form I and Form V
 
 Year | # F4 leavers | # Joined F5 | # Std VII leavers | # Joined F1 | Missing from F5 | Missing from F1 | Total missing
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1811,29 +1875,27 @@ Year | # F4 leavers | # Joined F5 | # Std VII leavers | # Joined F1 | Missing fr
 2015 | 1,774,383 | 126,024 | 763,603 | 518,034 | 1,648,359 | 245,569 | 1,893,928
 TOTAL | 4,751,486 | 325,640 | 4,379,385 | 2,446,213 | 4,425,846 | 1,933,172 | 6,359,018
 
-Table 3.2:  Total number of students not enrolled in Form I and Form V
-
 This  analysis  suggests  a  lot  of  potential  for  growth  in  the  TVET  sub-sector particularly for accommodating the low-skilled workforce which stands at 85% and the medium skilled workforce at 12%.
 
-The young people left out by the mainstream system present an opportunity for growth in both Technical Education and Training (TET) and Vocational Education and  Training  (VET)  levels  to  support  Tanzania 's vision  to  attain  middle  income country status by 2025, which is characterized by 54% lower level skills and 34% medium level skills in the work force out of the working population. This ESDP envisages a steady year-on-year increase in TVET enrolment. Positive steps will be taken to encourage Lower Secondary graduates in particular to pursue their further education through the TVET channel.
+The young people left out by the mainstream system present an opportunity for growth in both Technical Education and Training (TET) and Vocational Education and Training (VET) levels to support Tanzania's vision to attain middle income country status by 2025, which is characterized by 54% lower level skills and 34% medium level skills in the work force out of the working population. This ESDP envisages a steady year-on-year increase in TVET enrolment. Positive steps will be taken to encourage Lower Secondary graduates in particular to pursue their further education through the TVET channel.
 
 #### 3.6 Teacher Education
 
-In 2015/16 a total of 35,411 teachers graduated from teacher training colleges for both primary and secondary education. Of this, 14,637 attained a certificate in primary education, 5,255 achieved a diploma in primary and secondary education and 15,519 attai ned a Bachelor's degree and will be eligible to teach in secondary schools. In 2015 a total of 11,365 teachers were posted to primary schools. In 2016-2017 there was a temporary  suspension  of  new  teachers  being  deployed  while  the  Government conducted  a  payroll  review  to  eliminate  ghost  teachers  and  teachers  with  fake qualifications.  It is expected that in 2017-2018 at least 14,455 teachers will be allocated to  primary  schools,  which  represents  27%  more  teachers  allocated  compared  to 2015/16.
+In 2015/16 a total of 35,411 teachers graduated from teacher training colleges for both primary and secondary education. Of this, 14,637 attained a certificate in primary education, 5,255 achieved a diploma in primary and secondary education and 15,519 attained a Bachelor's degree and will be eligible to teach in secondary schools. In 2015 a total of 11,365 teachers were posted to primary schools. In 2016-2017 there was a temporary suspension of new teachers being deployed while the Government conducted a payroll review to eliminate ghost teachers and teachers with fake qualifications. It is expected that in 2017-2018 at least 14,455 teachers will be allocated
 
 32
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
-
+to primary schools, which represents 27% more teachers allocated compared to 2015/16.
 Currently in secondary schools an additional 6,305 students are training in science subjects and mathematics with 1,585 expected to graduate by 2018 and the other 4,720 expected  to  graduate  by  2019.  This  ESDP  plans  for  a  steady  increase  in  the throughput of teacher training colleges.
 
-Overall, pupil-teacher ratios have been improving at both primary and secondary levels, although secondary teacher qualification requirements have been relaxed to redress  a  subject-specialty  imbalance.  At  the  pre-primary  level,  the  pupil  teacher ratio was at 112 in 2012 and 135 in 2016. The increase in PTR can be attributed to the introduction of the fee-free basic education policy. It should be remembered that preprimary teachers are primary teachers allocated to teach in pre-primary as there are currently  no  officially  recognised  specialised  pre-primary  teachers.  This  is  under review and a cadre of specialised pre-primary teachers is expected to be approved shortly, since such teachers are already being trained.  The required rapid expansion of  pre-primary education, both in formal school environments and in non-formal school readiness programmes, provides the opportunity to develop an alternative pathway for entry into the teaching profession.  Teaching assistants trained in ECCE could be deployed as pre-primary teachers and could be given the opportunity to upgrade their qualifications through INSET to eventually become formally qualified teachers.
+Overall, pupil-teacher ratios have been improving at both primary and secondary levels, although secondary teacher qualification requirements have been relaxed to redress a subject-specialty imbalance. At the pre-primary level, the pupil teacher ratio was at 112 in 2012 and 135 in 2016. The increase in PTR can be attributed to the introduction of the fee-free basic education policy. It should be remembered that pre-primary teachers are primary teachers allocated to teach in pre-primary as there are currently no officially recognised specialised pre-primary teachers. This is under review and a cadre of specialised pre-primary teachers is expected to be approved shortly, since such teachers are already being trained. The required rapid expansion of pre-primary education, both in formal school environments and in non-formal school readiness programmes, provides the opportunity to develop an alternative pathway for entry into the teaching profession. Teaching assistants trained in ECCE could be deployed as pre-primary teachers and could be given the opportunity to upgrade their qualifications through INSET to eventually become formally qualified teachers.
 
-At the primary level, the national pupil-teacher ratio (PTR) in government schools has improved steadily, from 54:1 in 2009/10 to 42:1 in 2016, continuing the earlier trend  (in  2004  the  primary  PTR  stood  at  59:1).  However,  the  primary  PTR deteriorated again in 2017, partly due to the suspension of new teacher deployment during  the  year.    In  2017  the  primary  PTR  stands  at  just  over  50:1.  While  the Government has been making great efforts to recruit more teachers in recent years, and  this  has  been  helped  by  the  increasing  number  of  teachers  being  trained  in private sector institutions, the gap is still huge.  It is currently estimated that if the current policy of having a class size of 40 is maintained (and 25 in pre-primary), there is  a  shortage  of  56,173  pre-primary  and  130,725  primary  teachers  in  addition  to 226,065  classrooms.    In  2017  there  are  a  total  of  179,290  primary  and  9,053  preprimary  teachers  currently  deployed,  and  116,681  classrooms.  The  policies  for teacher  and  classroom  utilization  that  have  been  applied  to  date  are  clearly unrealistic.
+At the primary level, the national pupil-teacher ratio (PTR) in government schools has improved steadily, from 54:1 in 2009/10 to 42:1 in 2016, continuing the earlier trend (in 2004 the primary PTR stood at 59:1). However, the primary PTR deteriorated again in 2017, partly due to the suspension of new teacher deployment during the year. In 2017 the primary PTR stands at just over 50:1. While the Government has been making great efforts to recruit more teachers in recent years, and this has been helped by the increasing number of teachers being trained in private sector institutions, the gap is still huge. It is currently estimated that if the current policy of having a class size of 40 is maintained (and 25 in pre-primary), there is a shortage of 56,173 pre-primary and 130,725 primary teachers in addition to 226,065 classrooms. In 2017 there are a total of 179,290 primary and 9,053 pre-primary teachers currently deployed, and 116,681 classrooms. The policies for teacher and classroom utilization that have been applied to date are clearly unrealistic.
 
-However, the new Primary Teacher Deployment Strategy, to be implemented from 2018, has set an interim target of a class size of 60, a more rational teacher deployment system within schools (with class teachers in Pre-Primary and Primary 1 and 2 and subject  teachers 7   in  Primary  3-7)  and  a  policy  of  operating  double  shifts  for  Pre- Primary and Primary 1 to 4 to improve classroom utilization. When all these steps are  implemented  then  there  are  just  6,279  new  Pre-Primary  teachers,  47,229  new Primary teachers and 44,982 new classrooms needed in primary schools (including satellite centres). These are still challenging, but more achievable targets.
+However, the new Primary Teacher Deployment Strategy, to be implemented from 2018, has set an interim target of a class size of 60, a more rational teacher deployment system within schools (with class teachers in Pre-Primary and Primary 1 and 2 and subject teachers7 in Primary 3-7) and a policy of operating double shifts for Pre-
 
 > 7 'Subject teachers' in primary are not as specialised as in secondary, where teachers normally only teach two subjects. In primary all teachers are trained to teach all subjects, but they receive additional training in a subject
 
@@ -1842,10 +1904,16 @@ However, the new Primary Teacher Deployment Strategy, to be implemented from 201
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
-
+Primary and Primary 1 to 4 to improve classroom utilization. When all these steps are implemented then there are just 6,279 new Pre-Primary teachers, 47,229 new Primary teachers and 44,982 new classrooms needed in primary schools (including satellite centres). These are still challenging, but more achievable targets.
 The rise in PTR in 2016 and 2017 was largely due to the unprecedented increases in student numbers due to the fee-free basic education policy, but it was compounded by the temporary freeze on recruitment.
 
 Figure 3.11:  Primary Pupil-Teacher Ratios 2009-17
+
+PTR in Primary
+
+Year | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+PTR | 55 | 52 | 49 | 47 | 43 | 43 | 43 | 44 | 50
 
 At  the  secondary  level,  the  average  national  pupil-teacher  ratio  in  government schools also improved, from 43:1 in 2009 to 28:1 in 2013 and in 2016 reached 17:1 (see Figure  3.12).  There  has  been  a  slight  increase  in  2017  to  19:1,  mainly  due  to  the temporary  suspension  in  teacher  deployment  already  mentioned.  Overall,  this reflects a marked reversal of an earlier deteriorating trend, as the PTR stood at 19:1 in  2004  (UNESCO, 2011). The current level is also well within the national SEDP target, of 30:1. This quick decrease in the secondary PTR is due to the growth rate in the number of teachers (at an annual average of 21.3 percent over 2009-13) vastly outstripping growth in enrolment (average annual growth of 5.4 percent at O-Level and  3.9  percent  at  A-level  over  the  same  period).  The  overall  increase  in  staff numbers over the period is close to 39,500, net of attrition, with an increase of 31,600 in government schools.
 
@@ -1858,6 +1926,18 @@ At  the  secondary  level,  the  average  national  pupil-teacher  ratio  in  go
 [[START OF PAGE 53]]
 
 Figure 3.12:  Secondary Pupil-Teacher Ratios and Percentage of Teachers Qualified, by Type of School, 2009-2017
+
+Year | Government PTR | Non-Government PTR | Government teachers qualified (%) | Non-Government teachers qualified (%)
+--- | --- | --- | --- | ---
+2009 | 49 | 23 | 72.9 | 67.0
+2010 | 46 | 23 | 78.6 | 75.4
+2011 | 38 | 22 | 78.8 | 71.6
+2012 | 31 | 21 | 86.7 | 76.9
+2013 | 28 | 25 | 92.2 | 78.2
+2014 | 24 | 25 | 100.0 | 97.2
+2015 | 19 | 18 | 98.7 | 93.8
+2016 | 17 | 22 | 95.6 | 79.0
+2017 | 19 | 22 | 91.1 | 74.7
 
 #### 3.7 School Quality Assurance
 
@@ -1875,7 +1955,7 @@ The Schools Quality Assurance Division (SQAD), a change in name from the former 
 
 - Special Education Schools & Centres: 45%
 
-School inspections have vastly improved in the primary and secondary sub-sectors in comparison to previous years. Some of the issues which school inspectors have encountered  during  visits  is  that  schools  currently  suffer  from  the  absence  of  a system to track learning outcomes by subject and on a student by student basis. This limits  teachers ' ,  administrators ' ,  and  the  communities '  ability to  monitor  the progress of students. Overall, the School Quality Assurance Department carried out 38% of inspections within its mandate which was two-thirds of its target.
+School inspections have vastly improved in the primary and secondary sub-sectors in comparison to previous years. Some of the issues which school inspectors have encountered during visits is that schools currently suffer from the absence of a system to track learning outcomes by subject and on a student by student basis. This limits teachers’, administrators’, and the communities’ ability to monitor the progress of students. Overall, the School Quality Assurance Department carried out 38% of inspections within its mandate which was two-thirds of its target.
 
 35
 
@@ -1885,41 +1965,49 @@ School inspections have vastly improved in the primary and secondary sub-sectors
 
 During 2017 a major reform of the Schools Quality Assurance (SQA) system has been taking place, with a new framework and modus operandi due to be launched at the beginning of 2018. This is a transformation not only in name, from 'inspections' to 'quality assurance' but also in the total approach and culture within the system of supporting schools.  The contrast between the old and new systems is summarised in Table 3.3.
 
+Table 3.3:  Schools Quality Assurance – the Old and the New
+
 Old System | New System
 --- | ---
 No guiding framework to work from (only inspectors working from school inspectors handbook) | An overarching framework which has been created through a consultative process
 Known as School Inspectorate Department | School Quality Assurance Division
-Using the term 'inspection' | Using the term 'Quality Assurance'
+Using the term “inspection” | Using the term “Quality Assurance”
 School performance checklist focusing on compliance - tick the box system | Evaluation Standards and Guidelines focusing on helping each school to improve
 Inspection only involved school inspectors | SQA system involves all key education stakeholders at every level (school, community, ward, district, region and national)
 Inspections infrequent with some remoter schools never getting inspected | Emphasis on continuous QA, with no schools left out
 Reports were disseminated to a few key actors | Reports will be issued to all key education stakeholders in a timely way, including sharing information with parents and community
 Secondary schools and Teacher Colleges were inspected from zonal levels | Moving to Regional level
-Quality Assurance was a top down process | Bottom up approach, focusing on 'in - school' and 'close -to- school' QA
-
-Table 3.3:  Schools Quality Assurance -the Old and the New
+Quality Assurance was a top down process | Bottom up approach, focusing on ‘in-school’ and ‘close-to-school’ QA
 
 #### 3.8 Vulnerable and Out-of-School Children
 
 ##### 3.8.1 Out-of-School Children
 
-Despite the rapid growth in enrolment in recent years, large numbers of children are still  out of school.  Altogether 57% of pre-primary aged children, 23% of primary aged children and 41% of lower secondary aged children are estimated to be out of school. 8   Using 2015 figures, the total number of children who were not in school but were  at  the  age  when  they  should  be  in  school  under  the  compulsory  free  basic education  policy  was  estimated  to  be  more  than  4.25  million  (0.8m  pre-primary, 1.95m primary and 1.5m lower secondary).
+Despite the rapid growth in enrolment in recent years, large numbers of children are still out of school. Altogether 57% of pre-primary aged children, 23% of primary aged children and 41% of lower secondary aged children are estimated to be out of
 
 36
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
-
-The 2011-2012 Household Budget Survey collected reasons for children not attending school. The top two reasons given were 'the school is useless/ uninteresting' (35% at primary, 16% at lower secondary) and 'completed school' (28% at primary, 46% at lower secondary).  Reasons related to poverty and early marriage were much less significant. The perception of both children and parents that children who were still of schoolgoing age (including primary) had 'completed  school' reveals a widespread  concept  that  a  few  years  in  primary  school  constitutes  adequate education.
+school.8 Using 2015 figures, the total number of children who were not in school but were at the age when they should be in school under the compulsory free basic education policy was estimated to be more than 4.25 million (0.8m pre-primary, 1.95m primary and 1.5m lower secondary).
+The 2011-2012 Household Budget Survey collected reasons for children not attending school. The top two reasons given were “the school is useless/ uninteresting” (35% at primary, 16% at lower secondary) and “completed school” (28% at primary, 46% at lower secondary). Reasons related to poverty and early marriage were much less significant. The perception of both children and parents that children who were still of school-going age (including primary) had “completed school” reveals a widespread concept that a few years in primary school constitutes adequate education.
 
 Children of school going age may be out of school for several reasons: (1) never attended school; (2) start school at too late an age; (3) dropped out of school at too young an age.  The distribution of these factors can be seen graphically in Figure 3:13.
 
 Figure 3.13:  School Attendance Status by Age (from Hasan, 2015)
 
+School attendance status by age
+Percent
+5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17
+PRE-PRIMARY | PRIMARY | LOWER SECONDARY
+Age
+Never attended | Dropped out | Pre-primary | Primary | Lower secondary
+Source: 2012 Census. Author’s tabulation from 10% micro data
+
 This  figure  shows  that  there  is  a  major  issue  of  over-age children  in  Tanzania's schools. Many primary-aged children have not yet started school, and there are many children of lower secondary age that are still in primary schools. This phenomenon is more pronounced for boys than for girls.
 
-There are large geographical variations in the numbers of out-of-school children. 50% of all out-of-school children are located in the nine regions of Tabora, Dodoma, Geita, Kagera, Mwanza, Simiyu, Kigoma, Morogoro and Shinyanga.  At one extreme, in Tabora  80%  of  6-year-olds,  44%  of  primary-aged  children  and  58%  of  lower secondary aged children are estimated to be out of school.  On the other hand, in Kilimanjaro only 26% of 6-year-olds, 6% of primary-aged children and 24% of lower secondary  aged  children  are  estimated  to  be  out  of  school.    The  percentages  of children that are out of school are also very high in Katavi and Rukwa, although the total numbers are smaller due to the smaller populations in these regions.
+There are large geographical variations in the numbers of out-of-school children. 50% of all out-of-school children are located in the nine regions of Tabora, Dodoma, Geita, Kagera, Mwanza, Simiyu, Kigoma, Morogoro and Shinyanga. At one extreme, in Tabora 80% of 6-year-olds, 44% of primary-aged children and 58% of lower secondary aged children are estimated to be out of school. On the other hand, in Kilimanjaro only 26% of 6-year-olds, 6% of primary-aged children and 24% of lower
 
 > 8  Hasan, MQ (2015), Profile of Out of School Children, Tanzania.
 
@@ -1928,16 +2016,16 @@ There are large geographical variations in the numbers of out-of-school children
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
-
-The new Fee-Free Basic Education Policy is attracting large numbers of out-of-school children  into  schools,  as  evidenced  by  the  very  large  increases  in  the  numbers enrolled in Standards 1 and 2 in both 2016 and 2017. Drop-out from Standards 4 and 7  (the  two  Primary standards which have national exams) has also been reduced significantly  in  2017.  However,  children  who  are  too  old  for  the  classes  they  are attending will still have a much higher rate of drop-out than those who are in ageappropriate  classes.  A  key  emphasis  of  the  new  National  Strategy  for  Inclusive Education, approved in December 2017, is to raise communities' awareness of the ages at which children should start Pre-Primary and Primary Standard 1. In the long term this will be a much more effective strategy than providing re-entry programmes like COBET for those who have missed out on age-appropriate primary schooling.
+secondary aged children are estimated to be out of school. The percentages of children that are out of school are also very high in Katavi and Rukwa, although the total numbers are smaller due to the smaller populations in these regions.
+The new Fee-Free Basic Education Policy is attracting large numbers of out-of-school children into schools, as evidenced by the very large increases in the numbers enrolled in Standards 1 and 2 in both 2016 and 2017. Drop-out from Standards 4 and 7 (the two Primary standards which have national exams) has also been reduced significantly in 2017. However, children who are too old for the classes they are attending will still have a much higher rate of drop-out than those who are in age-appropriate classes. A key emphasis of the new National Strategy for Inclusive Education, approved in December 2017, is to raise communities’ awareness of the ages at which children should start Pre-Primary and Primary Standard 1. In the long term this will be a much more effective strategy than providing re-entry programmes like COBET for those who have missed out on age-appropriate primary schooling.
 
 Ultimately, however, as seen from the results of the survey on why children drop out, the key to attracting more children to school and retaining them will be to make school interesting, enjoyable and useful. The two main strategies for achieving this are  to  greatly  reduce  class  sizes,  as  set  out  in  Sections  3.1  and  3.6  above,  and  to improve the quality of teaching and learning.  The new approach to Schools Quality Assurance and improved teacher training are the main means for achieving the latter (see Section 3.7 above).
 
 ##### 3.8.2 Children with Disability
 
-An estimated 400,000 school-aged children with disabilities live in Tanzania. Only 42,783 children are registered in primary and 8,778 in secondary schools. This leaves a  large  out-of-school  population  of  the  most  vulnerable  children.  These  children include girls and boys with Albinism, Autism, Down-Syndrome, Deaf, Blind, DeafBlind, children with physical disabilities and mental impairment. Amongst the most vulnerable are adolescent girls living with disabilities. The ADD International, in its Disability and Gender Based Violence peer report described serious acts of sexual exploitation  and  abuse  of  the  girls  living  with  disabilities  and  pointed  out  how vulnerable these girls are. Provision of education for these groups can not only help these children to become more independent and fulfil their potential, but can also serve as a protection mechanism.
+An estimated 400,000 school-aged children with disabilities live in Tanzania. Only 42,783 children are registered in primary and 8,778 in secondary schools. This leaves a large out-of-school population of the most vulnerable children. These children include girls and boys with Albinism, Autism, Down-Syndrome, Deaf, Blind, Deaf-Blind, children with physical disabilities and mental impairment. Amongst the most vulnerable are adolescent girls living with disabilities. The ADD International, in its Disability and Gender Based Violence peer report described serious acts of sexual exploitation and abuse of the girls living with disabilities and pointed out how vulnerable these girls are. Provision of education for these groups can not only help these children to become more independent and fulfil their potential, but can also serve as a protection mechanism.
 
-The Government's strategy is to include as many as possible of the children living with disabilities into the mainstream education system. Only those whose disabilities are too severe for regular schools will be enrolled in special schools. The Government has initiated a screening progr amme to check children's hearing and sight. Simple steps can be taken to support those with minor sight and hearing impairment, such as seating them at the front of the class and working with health services to ensure that they can be provided with spectacles or hearing aids if possible. Fellow students can also be encouraged to provide support for children with disabilities.
+The Government’s strategy is to include as many as possible of the children living with disabilities into the mainstream education system. Only those whose disabilities are too severe for regular schools will be enrolled in special schools. The Government has initiated a screening programme to check children’s hearing and sight. Simple steps can be taken to support those with minor sight and hearing impairment, such as seating them at the front of the class and working with health services to ensure that they can be provided with spectacles or hearing aids if possible. Fellow students can also be encouraged to provide support for children with disabilities.
 
 38
 
@@ -1975,17 +2063,22 @@ A selection of some geographically disaggregated data are presented in map form 
 
 Figure 3.14:  Primary Gross Enrolment Ratio by Region, 2017
 
+GER ≥ 110% | 100% ≤ GER < 110% | 90% ≤ GER < 100% | 80% ≤ GER < 90% | GER < 80%
+GER GPI = 1 ±1% | GER GPI >1 by from 1% to 2.5% | GER GPI >1 by more than 2.5% | GER GPI <1 by from 1% to 2.5% | GER GPI <1 by more than 2.5%
+
 Figure 3.15:  GPI in Primary Gross Enrolment Ratio by Region, 2017
 
-Figure 3.14 shows that the lowest primary enrolment relative to the population is in Dar  es  Salaam,  with  low  enrolment  rates  also  found  in  the  northern  regions  of Arusha, Kilimanjaro and Manyara and in the western regions of Kagera, Kigoma and Tabora.  Figure 3.15 shows that there are many fewer girls than boys enrolled in primary,  relative  to  the  total  number  of  girls  and  boys  in  the  population,  in Kilimanjaro  and  Ruvuma,  whereas  in  seven  regions  (shown  in  yellow)  there  are many more girls than boys enrolled.  Five regions (shown in dark green) have gender parity in primary GER.
+Figure 3.14 shows that the lowest primary enrolment relative to the population is in Dar es Salaam, with low enrolment rates also found in the northern regions of
 
 40
 
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
-
+Arusha, Kilimanjaro and Manyara and in the western regions of Kagera, Kigoma and Tabora. Figure 3.15 shows that there are many fewer girls than boys enrolled in primary, relative to the total number of girls and boys in the population, in Kilimanjaro and Ruvuma, whereas in seven regions (shown in yellow) there are many more girls than boys enrolled. Five regions (shown in dark green) have gender parity in primary GER.
 Figure 3.16:  Primary Survival Rates by LGA, 2017
+
+Key: PSR ≥ 90% | 80% ≤ PSR < 90% | 70% ≤ PSR < 80% | 60% ≤ PSR < 70% | 50% ≤ PSR < 60% | 40% ≤ PSR < 50% | 30% ≤ PSR < 40% | PSR < 30%
 
 Figure 3.16 shows that in some districts (e.g. Kahama TC in Shinyanga, Kibaha TC in Pwani,  Mbarali  in  Mbeya  and  Rombo  in  Kilimanjaro)  a  child  enrolling  in  Std.  I primary this year has a better than 90% chance of finishing primary, if drop-out rates continue at their current level. On the other hand, there are several districts in Rukwa
 
@@ -1999,6 +2092,8 @@ and  Tabora  regions  where  less  than  40%  of  entrants  to  Std.  I  will  c
 
 Figure 3.17:  PSLE Pass Rates by LGA, 2016
 
+Key: PSLE pass rate ≥ 90% | 80% ≤ PSLE pass rate < 90% | 70% ≤ PSLE pass rate < 80% | 60% ≤ PSLE pass rate < 70% | 50% ≤ PSLE pass rate < 60% | 40% ≤ PSLE pass rate < 50% | PSLE pass rate < 40%
+
 Figure  3.17  shows  the  variation  in  pass  rates  in  the  Primary  School  Leaving Examination (PSLE) across the country. It can be seen that in 10 districts less than 50% of children pass PSLE, whereas in another 10 districts (all of them urban districts with the exception of Chato in Geita) the pass rate is over 90%.
 
 42
@@ -2008,6 +2103,9 @@ Figure  3.17  shows  the  variation  in  pass  rates  in  the  Primary  School  
 [[START OF PAGE 61]]
 
 Figure 3.18:  GPI in PSLE Pass Rates by LGA, 2016
+
+Key: PSLE GPI ≥ 1.1 | 1.0 ≤ PSLE GPI < 1.1 | 0.9 ≤ PSLE GPI < 1.0 | 0.8 ≤ PSLE GPI < 0.9 | 0.8 < PSLE GPI < 0.9 | PSLE GPI < 0.8
+NB: A GPI of greater than 1 indicates that girls’ PSLE results are better than boys’.
 
 As previously noted, girls' PSLE results are generally worse than boys', but Figure 3.18 shows that this is by no means uniform across the country. In several LGAs, shown  in  green  on  the  map,  girls  actually  do  better  than  boys.  However,  in  six districts the girls' average pass rate is less than 80% that of boys.
 
@@ -2025,7 +2123,7 @@ According to the sector priorities, in the financial year 2016/17, the allocatio
 
 Figure 3.19 below shows the total budget allocation over the last 12 years and it can be seen that the majority of the education budget is allocated at the primary level. In the  2015-16  fiscal  year,  58.2%  of  the  education  budget  was  allocated  to  primary, whilst  secondary  education  received  16.8%,  and  technical  and  higher  education received 24.1%.
 
-For the year 2016-17 the total budget has again increased from 3.870 shilling trillion to 4.768 trillion (23%). Due to the fee-free education policy the amount allocated to primary schools next year has also significantly increased from 58.2% last year to 63.3%,  which  reflects  the  Government ' s  priority  of  providing  universal  basic education (UBE).
+For the year 2016-17 the total budget has again increased from 3.870 shilling trillion to 4.768 trillion (23%). Due to the fee-free education policy the amount allocated to primary schools next year has also significantly increased from 58.2% last year to 63.3%, which reflects the Government’s priority of providing universal basic education (UBE).
 
 44
 
@@ -2035,31 +2133,13 @@ For the year 2016-17 the total budget has again increased from 3.870 shilling tr
 
 Figure 3.19:  Budgetary Allocation to Education Sector by Education Levels 2004/05 - 2015/16 (in TZS millions)
 
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
 % allocation of education share to sub sectors
 
-PE, ANFE
+0 | 10 | 20 | 30 | 40 | 50 | 60 | 70
 
-Secondary Education
+2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
 
-Teacher Education
-
-TVET & HE
+PE, ANFE | Secondary Education | Teacher Education | TVET & HE
 
 ##### 3.10.2 Disbursement of Capitation Grants
 
@@ -2071,7 +2151,17 @@ In  the  FY  2015/2016  a  total  of  TZS  285,188,176,652  was  disbursed  to  
 
 [[START OF PAGE 64]]
 
-Figure 3.20:  Summary of Disbursement of Capitation Grants, 2010/11 -2015/16 (in TZS million)
+Figure 3.20:  Summary of Disbursement of Capitation Grants, 2010/11 – 2015/16 (in TZS million)
+
+YEAR | REQUIRED | GOT CONTRIBUTION | IDA CONTRIBUTION | TOTAL
+--- | --- | --- | --- | ---
+2010/11 | 35.03 | 11 | 30.14 | 41.14
+2011/12 | 37.89 | 17.35 | 15.86 | 33.21
+2012/13 | 40.06 | 22.41 | 0 | 22.41
+2013/14 | 37.62 | 21.06 | 0 | 21.06
+2014/15 | 40.05 | 22.99 | 0 | 22.94
+2015/16 | 54.63 | 144.43 | 0 | 144.43
+TOTAL | 245.29 | 239.19 | 45.99 | 285.19
 
 The United Republic of Tanzania has introduced since January 2016 the Fee-Free Basic Education Policy which includes Pre-Primary, Primary and Lower Secondary Education. The Fee-Free Basic Education Policy was one of the pledges in the 2015 Election  Manifesto.  The  Government  set  aside  a  total  of  TZS  131,430,280,000  for funding  the  implementation  of  the  policy  from  January-June,  2016.  This  huge amount of money is for: Capitation Grant (CG) TZS 49,173,174,000; food ration to boarding schools TZS 38,852,526,000; school fees compensation for Forms I -IV TZS 21,960,530,000; and examinations fees compensation for government students TZS 21,444,050,000.
 
@@ -2089,23 +2179,24 @@ This policy has had a large impact among parents as they have been motivated to 
 
 There is a large anticipated growth in numbers of children eligible to transition from primary to secondary on an annual basis due to the Fee Free Basic Education Policy and the steadily improving PSLE pass rate. Therefore there is need for preparation to handle the large increase in numbers of secondary learners (see 2.2.2 above).
 
-In addition to the need for rapidly expanded secondary school infrastructure, there is a simultaneous need to increase the number of primary school classrooms by at least  45,000  in  order  to  acco mmodate  Tanzania's  rapidly  growing  population  of children as well as increasing enrolment rates in order to reduce significantly the numbers of school-aged children who are not in school. Tanzania has some of the largest primary schools in Africa, as well as one of the longest average distances from home  to  school  for  young  children.  There  is  therefore  a  need  not  just  to  add classrooms to existing schools but also to multiply the number of schools, including expanding the network of satellite centres to bring early grades facilities closer to the children's homes.
+In addition to the need for rapidly expanded secondary school infrastructure, there is a simultaneous need to increase the number of primary school classrooms by at least 45,000 in order to accommodate Tanzania’s rapidly growing population of children as well as increasing enrolment rates in order to reduce significantly the numbers of school-aged children who are not in school. Tanzania has some of the largest primary schools in Africa, as well as one of the longest average distances from home to school for young children. There is therefore a need not just to add classrooms to existing schools but also to multiply the number of schools, including expanding the network of satellite centres to bring early grades facilities closer to the children’s homes.
 
 The reduction of preschool duration from the current two years to one year and making  it  compulsory  has  implications  for  curriculum  design,  teacher  training, management  and  funding.  These  have  to  be  addressed  carefully  because  a  vast amount of research shows that the quality of preschool and early grade experience is a major contributor and determinant of quality learning and success later in life.
 
-The  new  Fee-Free  Basic  Education  Policy  has  resulted  in  rapid  increases  in  the number of children enrolled in school, starting from the 2016 intake. Accommodating  this  large  number  of  additional  students  while  simultaneously improving the quality of learning outcomes will present a major challenge.  Although exam results have been improving since an all-time low in 2012 and the results of the independent EGRA  and  EGMA  assessments  show  that  children's acquired competencies are improving in the early grades, there is a long way to go before learning outcomes meet Tanzania's needs for the 21 st  century.
+The new Fee-Free Basic Education Policy has resulted in rapid increases in the number of children enrolled in school, starting from the 2016 intake. Accommodating this large number of additional students while simultaneously improving the quality of learning outcomes will present a major challenge. Although exam results have been improving since an all-time low in 2012 and the results of the independent EGRA and EGMA assessments show that children’s acquired competencies are improving in the early grades, there is a long way to go before learning outcomes meet Tanzania’s needs for the 21st century.
 
-The teaching profession must be at the centre of required improvements in student learning  outcomes, which  need  to  be  achieved  by  adopting  more  modern pedagogical approaches that are appropriate for Tanzania in the 21 st  century. The regulatory body for TDMS needs to work closely with the emerging Professional Body of teachers in order to streamline selection, training, and deployment into the teaching profession. Teaching is currently the only major professional group in the country  where  no  professional  body  exists  to  supervise  entry,  training  and progression within it, and this affects quality at all levels.
+The teaching profession must be at the centre of required improvements in student learning outcomes, which need to be achieved by adopting more modern pedagogical approaches that are appropriate for Tanzania in the 21st century. The regulatory body for TDMS needs to work closely with the emerging Professional Body of teachers in order to streamline selection, training, and deployment into the teaching profession. Teaching is currently the only major professional group in the country where no professional body exists to supervise entry, training and progression within it, and this affects quality at all levels.
 
-Inequity of access and learning outcomes continues to present a major challenge. From the gender perspective, girls have higher enrolment and retention rates in both primary and lower secondary education, but lag behind boys in the transition rate from  primary  to  secondary  and  also,  on  aggregate,  underperform  in  exams compared to boys.  Girls' access to high er secondary and to higher education lags far behind that of boys. From the geographical perspective, there are large variations in enrolment and retention rates and in exam performance across the country, with remoter  rural  areas  lagging  far  behind  the  urban  areas.    Significant  numbers  of children remain out of school, although the introduction of fee-free basic education since 2016 is starting to make an impact in reducing this number. Improving access and  learning  achievement  for  children  with  disabilities  and  other  special  needs requires more attention and resources.
+Inequity of access and learning outcomes continues to present a major challenge. From the gender perspective, girls have higher enrolment and retention rates in both primary and lower secondary education, but lag behind boys in the transition rate from primary to secondary and also, on aggregate, underperform in exams compared to boys. Girls’ access to higher secondary and to higher education lags far
 
 47
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
+behind that of boys. From the geographical perspective, there are large variations in enrolment and retention rates and in exam performance across the country, with remoter rural areas lagging far behind the urban areas. Significant numbers of children remain out of school, although the introduction of fee-free basic education since 2016 is starting to make an impact in reducing this number. Improving access and learning achievement for children with disabilities and other special needs requires more attention and resources.
 
-Finally, the Tanzania Development Vision (TDV) 2025 and the Five-Year Development  Plan  (FYDP)  envisage  a  significant  technological  upskilling  of Tanzania's human resources. This implies an e xpansion both of TVET and of STEM subjects in Higher Education. However, with the rapid expansion of basic education as  described  above,  coupled  with  no  significant  additional  financial  resources anticipated for the education sector for the foreseeable future, the government does not have the resources to invest heavily in expanding technical education. This calls for: (1) increasing the efficiency of utilisation of the available resources, to achieve more results with the same resources; and (2) increasing private sector investment in technical education. Furthermore, technological upskilling requires a good foundation to be laid in the early years, but there is currently a severe shortage of competent maths and science teachers throughout the basic education system.  This deficiency needs to be addressed urgently.
+Finally, the Tanzania Development Vision (TDV) 2025 and the Five-Year Development Plan (FYDP) envisage a significant technological upskilling of Tanzania’s human resources. This implies an expansion both of TVET and of STEM subjects in Higher Education. However, with the rapid expansion of basic education as described above, coupled with no significant additional financial resources anticipated for the education sector for the foreseeable future, the government does not have the resources to invest heavily in expanding technical education. This calls for: (1) increasing the efficiency of utilisation of the available resources, to achieve more results with the same resources; and (2) increasing private sector investment in technical education. Furthermore, technological upskilling requires a good foundation to be laid in the early years, but there is currently a severe shortage of competent maths and science teachers throughout the basic education system. This deficiency needs to be addressed urgently.
 
 48
 
@@ -2139,7 +2230,7 @@ The ESDP is built upon the recognition that a well functioning education system 
 
 #### 4.2 National Policy Framework
 
-The Second Five Year Development Plan (FYDP II) 2016/17 -2020/21 presents  the overall national policy framework for the ESDP. Developed as one of three sequential five-year  development  plans  within  the  Long-Term  Perspective  Plan  (LTPP)  20112026,  the  FYDP  II  implements  Tanzani a's  Development  Vision  (TDV)  2025,  which aspires  to  have  Tanzania  transformed  into  a  middle  income,  semi  industrialized nation  by  2025.  Among  the  five  attributes  identified  in  the  TDV  to  characterize Tanzania in 2025 is ' an educated and learning society ' (URT, 2016).
+The Second Five Year Development Plan (FYDP II) 2016/17–2020/21 presents the overall national policy framework for the ESDP. Developed as one of three sequential five-year development plans within the Long-Term Perspective Plan (LTPP) 2011-2026, the FYDP II implements Tanzania’s Development Vision (TDV) 2025, which aspires to have Tanzania transformed into a middle income, semi industrialized nation by 2025. Among the five attributes identified in the TDV to characterize Tanzania in 2025 is “an educated and learning society” (URT, 2016).
 
 49
 
@@ -2147,9 +2238,9 @@ The Second Five Year Development Plan (FYDP II) 2016/17 -2020/21 presents  the o
 
 [[START OF PAGE 68]]
 
-The theme of the FYDP-II is Nurturing Industrialization for Economic Transformation and Human  Development (URT,  2016).  This  integrates  the  drive  towards  growth  and transformation  articulated  by  the  previous  Five  Year  Development  Plan  (FYDP-I) framework  on  the  one  hand,  and  the  focus  on poverty  reduction  in  the  National Strategy for Growth and Reduction of Poverty (NSGRP/ MKUKUTA ) on the other.
+The theme of the FYDP-II is Nurturing Industrialization for Economic Transformation and Human Development (URT, 2016). This integrates the drive towards growth and transformation articulated by the previous Five Year Development Plan (FYDP-I) framework on the one hand, and the focus on poverty reduction in the National Strategy for Growth and Reduction of Poverty (NSGRP/MKUKUTA) on the other.
 
-Among the ' key messages ' for strategic interventions to which the FYDP-II responds is  that  commendable  achievements  have  been  made  in  the  areas  of  social  service delivery  but  population  pressure,  weak  fiscal  policy  and  rapid  urbanization  have undermined these gains. Against the backdrop of population growth alone, a ' huge demand for prioritizing quality delivery of education and health services [...] calls for further investments in social infrastructure including classrooms and health centres, as well as facilities such as teaching equipment, textbooks, etc .' (URT, 2016). A priority strategic intervention is thus ' education and capability development ' : ' FYDP II needs to address the quality of education as well as ensuring that its provisions are well aligned with and tailored to meet needs of both local society and competition in the domestic, regional and global economies .' (URT, 2016).
+Among the “key messages” for strategic interventions to which the FYDP-II responds is that commendable achievements have been made in the areas of social service delivery but population pressure, weak fiscal policy and rapid urbanization have undermined these gains. Against the backdrop of population growth alone, a “huge demand for prioritizing quality delivery of education and health services [...] calls for further investments in social infrastructure including classrooms and health centres, as well as facilities such as teaching equipment, textbooks, etc.” (URT, 2016). A priority strategic intervention is thus “education and capability development”: “FYDP II needs to address the quality of education as well as ensuring that its provisions are well aligned with and tailored to meet needs of both local society and competition in the domestic, regional and global economies.” (URT, 2016).
 
 The FYDP-II puts great emphasis on the area of skills development, where strategic interventions are required to respond to the skills gaps identified by recent labour market surveys, for example:
 
@@ -2159,7 +2250,7 @@ The FYDP-II puts great emphasis on the area of skills development, where strateg
 
 - Another dimension of skills gap is with regard to expectations of graduates, as about 79% of graduates aspire for wage employment upon completion of their basic training and only 17% consider self-employment, clearly jeopardizing the goal  of  promoting  self-employment,  despite  the  fact  that  only  about  44%  of graduates get employed in a year. (URT, 2016).
 
-With  regard  to  plan  implementation,  FYDP-II  calls  for  the  reform  of  governance structures, with a focus on ' independence, transparency, responsibility and accountability ,' recognizing  the  need  to ' effectively  coordinate  all  functions  and records of key outcomes of all government institutions, including the LGAs ' (URT, 2016).
+With regard to plan implementation, FYDP-II calls for the reform of governance structures, with a focus on “independence, transparency, responsibility and accountability,” recognizing the need to “effectively coordinate all functions and records of key outcomes of all government institutions, including the LGAs” (URT, 2016).
 
 The specific policy framework for the ESDP is the Education and Training Policy (2014). The new ETP is the result of the harmonization and subsequent repeal of the Education and Training Policy (1995), the Technical Education and Training Policy
 
@@ -2205,14 +2296,14 @@ In order to achieve these objectives, the ETP (2014) has identified seven major 
 
 - A sustainable financing modality for education and training.
 
-The Five-Year Development Plan and the Education and Training Policy form the overarching framework within which the ESDP is designed. Furthermore, international cooperation in education, science and technological issues is increasingly becoming  important  given  the  economic  developments  that  require  improved expertise,  knowledge  and  experience.  Cooperation  is  therefore  necessary  because knowledge and expertise have no boundaries or lines of demarcation. Tanzania is signatory to a number  of agreements, protocols, and various regional and international commitments which have contributed to some of the successes in the education  sector.  However,  there  are  challenges  particularly  in  areas  that  require amendments of policies, regulatory issues and implementation systems and structures in order to accommodate regional and international cooperation. Therefore, the ESDP recognizes that structures for implementing regional and international cooperation and regional integration in education, science, technology and innovation between Tanzania and other countries are inevitable for successful development.
+The Five-Year Development Plan and the Education and Training Policy form the overarching framework within which the ESDP is designed. Furthermore, international cooperation in education, science and technological issues is increasingly becoming important given the economic developments that require improved expertise, knowledge and experience. Cooperation is therefore necessary because knowledge and expertise have no boundaries or lines of demarcation. Tanzania is signatory to a number of agreements, protocols, and various regional and international commitments which have contributed to some of the successes in the education sector. However, there are challenges particularly in areas that require
 
 51
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
-
+amendments of policies, regulatory issues and implementation systems and structures in order to accommodate regional and international cooperation. Therefore, the ESDP recognizes that structures for implementing regional and international cooperation and regional integration in education, science, technology and innovation between Tanzania and other countries are inevitable for successful development.
 Existing  international  conventions  and  protocols  and  regional  cooperation  and integration  on  areas  of  education,  science  and  technology  include:  the  Sustainable Development Goals (SDGs 2030), particularly Goal 4 on Education; UNESCO Science Education Policy declarations; and other multilateral and bilateral cooperation.
 
 The Sustainable Development Goal 4 , has ten targets:
@@ -2261,14 +2352,14 @@ The education sector is expected to contribute to social and cultural enhancemen
 
 - Enhancing knowledge and vocational skills development
 
-The education sector is expected to play a major role in contributing to achieving the G overnment's vision for Tanzania to become a mid dle-income economy by 2025. The policy vision combines a commitment to: Universal Basic Education of 12 years; an expansion of Technical and Vocational Education, combined  with expanded enrolment in science and mathematics; and a consistent focus on quality teaching and learning.
+The education sector is expected to play a major role in contributing to achieving the Government’s vision for Tanzania to become a middle-income economy by 2025. The policy vision combines a commitment to: Universal Basic Education of 12 years; an expansion of Technical and Vocational Education, combined with expanded
 
 53
 
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
-
+enrolment in science and mathematics; and a consistent focus on quality teaching and learning.
 Universal  Basic  Education  of  12  years  will  consist  of  one  year  of  pre-primary education, seven years of primary (or Cycle 1), and four years of lower secondary (or Cycle 2). By 2025, it is expected that the offer of basic education will cover all children of  the  relevant  age.  The  main  constraints,  at  present,  are  in  pre-primary,  where significant further expansion is needed, in the levels of drop-out throughout the cycle, and in the promotion from the final grade of Cycle 1 to the first grade of Cycle 2. It is expected  that,  by  2025,  90%  of  children  who  enter  primary  education  will  have benefitted from one year of pre-primary, that causes of drop-out will be addressed and that drop-out rates will have decreased significantly, and that the promotion rate between Cycle 1 and 2 will reach 90% by 2025.
 
 This policy has the benefit of being designed to increase enrolment and retention and should considerably increase the number of children who complete the full primary cycle (Cycle 1) and transit to Cycle 2 over the short to medium-term.  The abolition of tuition fees is key to this. This is however a high cost intervention that results in the recurrent  cost  of  pre-primary  rising  three-fold  over  the  period  of  the  ESDP,  while Cycle 1 and Cycle 2 recurrent costs rise by 20% and capital costs double.
@@ -2297,15 +2388,16 @@ This implies a major policy shift away from higher education into TVET. This has
 
 At the end of Higher Secondary, the objective is that, by 2025, 60% of Form 6 graduates continue  studying,  with  three  quarters  of  these  going  into  universities,  and  one quarter to tertiary level Technical and Vocational Education. Within the university sector, a growing number of students will be guided to the science and mathematics streams, including through offering loans preferentially for these streams. This will be important for increasing the supply of higher-level skills, particularly scientific skills where there are acknowledged shortages. This will have long-term economic benefits through increasing the  skills  base  of  the  workforce,  which  in  turn  will  potentially enhance the growth potential of firms in the engineering, manufacturing and science sectors.
 
-Tanzania has at present a significant number of out-of-school children and youngsters and  nearly  a  quarter  of  adults  are  illiterate.  These  groups  will  be  offered  an opportunity to re-engage in the education system, in part to further strengthen the skills  profile  of  the  labour  force  and  because  of  the  well-known  social  benefits  of education. From an economic perspective, literacy has been shown to significantly affect individual income as illiterate adults face serious employability issues, given their low level of knowledge and expertise, while illiterate parents tend to have lower educational expectations and aspirations for themselves and for their children.   In order for these groups to be able to re-engage, the pathways between different formal and non-formal modalities and streams will be clarified, and transfer opportunities will be promoted, including through the use of the national qualifications framework.
+Tanzania has at present a significant number of out-of-school children and youngsters and nearly a quarter of adults are illiterate. These groups will be offered an opportunity to re-engage in the education system, in part to further strengthen the skills profile of the labour force and because of the well-known social benefits of education. From an economic perspective, literacy has been shown to significantly affect individual income as illiterate adults face serious employability issues, given their low level of knowledge and expertise, while illiterate parents tend to have lower educational expectations and aspirations for themselves and for their children. In
 
 55
 
 [[END OF PAGE 73]]
 
 [[START OF PAGE 74]]
+order for these groups to be able to re-engage, the pathways between different formal and non-formal modalities and streams will be clarified, and transfer opportunities will be promoted, including through the use of the national qualifications framework.
 
-The  quality  of  student s'  learning and  the  sustainability  of  the  skills  they  obtain, represents a major challenge and has the potential to undermine the economic benefits of  the  policy  choices  made  if  not  addressed.  Much  progress  has  been  made  on improving the qualifications of teachers. The ESDP now focuses on several next steps, fully in line with the Education and Training Policy. These include a strengthening of quality assurance processes, in particular through regular evaluation of schools (see Section 3.7 above), and through the development of a national system for assessment of learning achievements. In order for these processes to have a positive impact on the education system, specific attention is being given in the ESDP to the feedback on their findings to all stakeholders, from communities to teachers to policy makers. Several quality  improvement  strategies  focus  on  teachers,  on  their  in-service  training  and support, on making the teaching profession more attractive, and on their working environment.
+The quality of students’ learning and the sustainability of the skills they obtain, represents a major challenge and has the potential to undermine the economic benefits of the policy choices made if not addressed. Much progress has been made on improving the qualifications of teachers. The ESDP now focuses on several next steps, fully in line with the Education and Training Policy. These include a strengthening of quality assurance processes, in particular through regular evaluation of schools (see Section 3.7 above), and through the development of a national system for assessment of learning achievements. In order for these processes to have a positive impact on the education system, specific attention is being given in the ESDP to the feedback on their findings to all stakeholders, from communities to teachers to policy makers. Several quality improvement strategies focus on teachers, on their in-service training and support, on making the teaching profession more attractive, and on their working environment.
 
 This  broad  policy  vision  is  translated  into  a  select  set  of  sector  priorities,  ESDP objectives, and strategies, presented in the following sections.
 
@@ -2313,24 +2405,24 @@ This  broad  policy  vision  is  translated  into  a  select  set  of  sector  p
 
 The  Tanzanian  socio-economic  context  calls  for  the  adoption  of  the  following principles:
 
-- Q uality provision and learners' achievements will be the guiding principles in the articulation and implementation of all sub-sectoral policies, plans and activities;
+- Quality provision and learners’ achievements will be the guiding principles in the articulation and implementation of all sub-sectoral policies, plans and activities;
 
-- In-country  and  foreign  investment  flows  required  for  sustainable  economic growth  demand  that  education  system  graduates  possess  relevant  skills  and capabilities ;
+- In-country and foreign investment flows required for sustainable economic growth demand that education system graduates possess relevant skills and capabilities;
 
 - All  persons,  irrespective  of  gender,  physical  disability,  or  parents'/guardians' income, social status and geographical origins, will have access to at least basic levels of education;
 
 - Sub-sectoral  programmes  and  performance  will  be  synchronised  and  linked through consultative dialogue and pluralistic participation;
 
-- Success in implementing agreed upon action plans in one sub-sector will not be allowed to cancel out success in implementing agreed action plans in any other sub- sector;
+- Success in implementing agreed upon action plans in one sub-sector will not be allowed to cancel out success in implementing agreed action plans in any other sub-sector;
 
-- The funding of prioritised  education provision  is  to  be  based  on  reliable  data, quality  dialogue  and  the  resource  envelopes  available  year  by  year,  the  main objective being to achieve value for money spent;
+- The funding of prioritised education provision is to be based on reliable data, quality dialogue and the resource envelopes available year by year, the main
 
 56
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
-
+objective being to achieve value for money spent;
 - Teachers  are  to  be  assisted  through  Continuous  Professional  Development programmes to enhance the quality of their teaching and rewarded for making conscious efforts to gain more qualifications in teaching as part of a vanguard education reform movement;
 
 - Open learning will also be made available to teachers so that they may develop their understanding and capabilities, allied with enhanced classroom practice;
@@ -2375,7 +2467,7 @@ Based upon these principles, the key strategic policy objectives of the ESDP are
 
 - A conducive work environment is created and maintained in schools/institutions;
 
-- T eachers' status, pay and other incentives are sufficient to motivate high quality performance;
+- Teachers’ status, pay and other incentives are sufficient to motivate high quality performance;
 
 - Improvement of expansion/access, curriculum relevance, equity, quality, management, resources availability and cross-cutting issues are sustained;
 
@@ -2391,7 +2483,7 @@ Based upon these principles, the key strategic policy objectives of the ESDP are
 
 Priorities, objectives and strategies are grouped under four broad themes, based on the policy orientations outlined in the 2014 Education and Training Policy (ETP) and in  the  National  Five-Year  Development  Plan  (NFYDP).    Please  note  that  only  the higher  level  indicators  (including  Key  Performance  Indicators)  are  listed  in  this chapter.  A fuller list of indicators is found in Chapter 5 under the individual priority programmes, in Annex 2 and in the separate Monitoring and Evaluation Framework.
 
-Three brief comments on the organization of this chapter: (i) several objectives may relate  to  more  than  one  priority,  and  many  strategies  can  help  achieve  various objectives; therefore this chapter is not organized by systematically linking one set of strategies to one objective and to one priority, rather grouping these under the four broad themes; (ii) the linkages between priorities, objectives and strategies is clearly established in the next chapter on priority programmes, also detailing programme components, outcomes and results; (iii) indicators and targets, to suggest what can be achieved during the 5-year implementation time frame of the ESDP, will be further detailed in the logical framework and priority programmes described in Chapter 5, in Chapter  6  under  monitoring  and  evaluation  and  in  the  separate  Monitoring  and Evaluation Framework.
+Three brief comments on the organization of this chapter: (i) several objectives may relate to more than one priority, and many strategies can help achieve various
 
 58
 
@@ -2399,13 +2491,15 @@ Three brief comments on the organization of this chapter: (i) several objectives
 
 [[START OF PAGE 77]]
 
+objectives; therefore this chapter is not organized by systematically linking one set of strategies to one objective and to one priority, rather grouping these under the four broad themes; (ii) the linkages between priorities, objectives and strategies is clearly established in the next chapter on priority programmes, also detailing programme components, outcomes and results; (iii) indicators and targets, to suggest what can be achieved during the 5-year implementation time frame of the ESDP, will be further detailed in the logical framework and priority programmes described in Chapter 5, in Chapter 6 under monitoring and evaluation and in the separate Monitoring and Evaluation Framework.
+
 ##### 4.6.1 Access, Participation and Equity
 
 ###### Priorities
 
 - Equitable participation in and completion of fee-free basic education for all, with particular attention to excluded groups,  children with disabilities, out-of-school children, and through multiple pathways, formal and non-formal.
 
-- Increased  access  to  post-basic  learning  opportunities,  including  through  nonformal education and greatly expanded provision of skills training.
+- Increased access to post-basic learning opportunities, including through non-formal education and greatly expanded provision of skills training.
 
 ###### Objectives
 
@@ -2421,13 +2515,13 @@ Three brief comments on the organization of this chapter: (i) several objectives
 
 ###### Key Performance Indicators (KPIs):
 
-- The proportion of children enrolled in Standard I with at least one year of preprimary education will increase to 87.5 % in 2020.
+- The proportion of children enrolled in Standard I with at least one year of pre-primary education will increase to 87.5 % in 2020.
 
 - The gross intake ratio to primary Standard I will decrease to 115.5% by 2020. It has to decrease because currently too many out-of-age-range children are enrolling in Standard I.
 
-- The Gross Enrolment Ratio will improve from 72.3% to 97.3% for Pre-Primary, from 92.4% to 100.8% for Primary and from 41.4% to 47.6% for Lower Secondary -all by 2020.
+- The Gross Enrolment Ratio will improve from 72.3% to 97.3% for Pre-Primary, from 92.4% to 100.8% for Primary and from 41.4% to 47.6% for Lower Secondary – all by 2020.
 
-- The Net Enrolment Rate will improve from 44.6% to 60.0% for Pre-Primary, from 84.0% to 90.0% for Primary and from 33.4% to 60.0% for Lower Secondary -all by 2020.
+- The Net Enrolment Rate will improve from 44.6% to 60.0% for Pre-Primary, from 84.0% to 90.0% for Primary and from 33.4% to 60.0% for Lower Secondary – all by 2020.
 
 59
 
@@ -2465,9 +2559,9 @@ Three brief comments on the organization of this chapter: (i) several objectives
 
 ###### Strategies
 
-Infrastructure/Distance to School: Review, map, expand and implement the school/classroom building programme, to meet rising demand at all levels, redress the relative shortage of classrooms and meet national pupil-classroom ratio standards. The programme  should  aim  to  minimize  regional  disparities,  paying  attention  to  costefficiency, using satellite centres where appropriate to reduce gaps in distance to school for pre-primary and the lower primary grades and constructing more lower secondary schools to increase access to and enrolment in secondary education, especially by girls.
+Infrastructure/Distance to School: Review, map, expand and implement the school/classroom building programme, to meet rising demand at all levels, redress the relative shortage of classrooms and meet national pupil-classroom ratio standards. The programme should aim to minimize regional disparities, paying attention to cost-efficiency, using satellite centres where appropriate to reduce gaps in distance to school for pre-primary and the lower primary grades and constructing more lower secondary schools to increase access to and enrolment in secondary education, especially by girls.
 
-Teachers: Revise the strategy for the recruitment, deployment and retention  of teachers so that a sufficient number is available for each agegroup/level/grade/subject/stream, respecting pupil-teacher ratio and maximum class size standards and teacher workload. Expand teacher training college capacity. Devise and implement campaigns to change the public perception of the profession.
+Teachers: Revise the strategy for the recruitment, deployment and retention of teachers so that a sufficient number is available for each age-
 
 60
 
@@ -2475,9 +2569,11 @@ Teachers: Revise the strategy for the recruitment, deployment and retention  of 
 
 [[START OF PAGE 79]]
 
-School  Environment:  Ensure  schools  are  adequately  resourced  with  infrastructure (including gender-segregated toilets), facilities and equipment to be safe, inclusive and child-friendly.  Develop  a  KAP  (Knowledge-Attitudes-Practice)  strategy  to  improve staff attitudes towards pupils, with special consideration for children from marginalized  groups,  children  with  disabilities  and  girls,  to  make  the  learning atmosphere more appealing, reducing non-attendance and dropout.
+group/level/grade/subject/stream, respecting pupil-teacher ratio and maximum class size standards and teacher workload. Expand teacher training college capacity. Devise and implement campaigns to change the public perception of the profession.
 
-Demand-Side Factors: Collaborate with LGAs to implement cost-reduction/ compensation/incentive  mechanisms  to  attract  the  pupils  from  families  in  greatest financial difficulty to school and retain them, including through cash-transfers, direct subsidies  or  school  feeding  programmes.  Develop  inclusive  approaches  to  cater  for children with special needs or from marginalized groups. Carry out IEC campaigns to overcome socio-cultural demand-side barriers to full access and participation.
+School Environment: Ensure schools are adequately resourced with infrastructure (including gender-segregated toilets), facilities and equipment to be safe, inclusive and child-friendly. Develop a KAP (Knowledge-Attitudes-Practice) strategy to improve staff attitudes towards pupils, with special consideration for children from marginalized groups, children with disabilities and girls, to make the learning atmosphere more appealing, reducing non-attendance and dropout.
+
+Demand-Side Factors: Collaborate with LGAs to implement cost-reduction/compensation/incentive mechanisms to attract the pupils from families in greatest financial difficulty to school and retain them, including through cash-transfers, direct subsidies or school feeding programmes. Develop inclusive approaches to cater for children with special needs or from marginalized groups. Carry out IEC campaigns to overcome socio-cultural demand-side barriers to full access and participation.
 
 Post-basic  Learning  Opportunities:  Mobilize  additional  funds,  political  will  and community  participation  to  increase  the  capacity  of  youth,  adult  and  non-formal education  to  provide  diverse  quality,  relevant,  flexible  and  recognized  learning opportunities, including in literacy and domestic and productive skills through ICBAE programmes, and reducing regional disparities.
 
@@ -2549,7 +2645,7 @@ Quality education that will provide learners at all levels with the relevant kno
 
 ###### Strategies
 
-Teacher  Profiles:  Conduct  a  survey  of  teacher  competencies  to  inform/update  the teacher  development strategy and develop a unique teacher policy, harmonize preservice and in-service teacher training and qualifications.
+Teacher Profiles: Conduct a survey of teacher competencies to inform/update the teacher development strategy and develop a unique teacher policy, harmonize pre-service and in-service teacher training and qualifications.
 
 62
 
@@ -2567,9 +2663,9 @@ Curriculum: Adopt a holistic vision of curriculum development and implementation
 
 Quality Assurance: Diversify learner assessment tools and promote their effective use by teachers and examination officials, to support learning and measure achievements. Provide frequent supportive supervision of schools and teachers by Head Teachers, Ward Education Officers and from the district level, and regular whole-school quality assurance  visits,  with  feedback  to  schools  for  implementation  of  improvement measures.
 
-Community Participation: Mobilize and sensitize parents and communities on their roles  and  responsibilities  in  early  childhood  development,  the  importance  of  preprimary enrolment at the correct age, and generally in supporting learners and teachers, as well as their potential impact on quality through involvement in school management through school management committees.
+Community Participation: Mobilize and sensitize parents and communities on their roles and responsibilities in early childhood development, the importance of pre-primary enrolment at the correct age, and generally in supporting learners and teachers, as well as their potential impact on quality through involvement in school management through school management committees.
 
-Language: Design and implement appropriate language strengthening courses for inservice teachers, and provide language orientation/proficiency courses for learners.
+Language: Design and implement appropriate language strengthening courses for in-service teachers, and provide language orientation/proficiency courses for learners.
 
 Leadership and Management: Conduct trainings for school leaders and managers to enhance efficiency and accountability.
 
@@ -2701,9 +2797,9 @@ Global  Citizenship  and  Sustainable  Development:  Develop  education  policie
 
 ###### Strategies
 
-System-Wide  Coordination,  Collaboration  and  Accountability:  Clarify  roles  and responsibilities of various actors, in particular between national, regional and LGAs and between the sub-sectoral  streams  such  as  school-based  secondary  education,  TVET, ANFE  and  Higher  Education.  Develop  effective  mechanisms  for  coordination,  cooperation and sector dialogue among institutions and stakeholders, to strengthen ESDP implementation, improve the effectiveness of aid management and enhance accountability.  Develop  and  implement  a  unified  communication  strategy  for  the education sector.
+System-Wide Coordination, Collaboration and Accountability: Clarify roles and responsibilities of various actors, in particular between national, regional and LGAs and between the sub-sectoral streams such as school-based secondary education, TVET, ANFE and Higher Education. Develop effective mechanisms for coordination, co-operation and sector dialogue among institutions and stakeholders, to strengthen ESDP implementation, improve the effectiveness of aid management and enhance accountability. Develop and implement a unified communication strategy for the education sector.
 
-Capacity development: Develop and approve an education sector Capacity Development  Plan.  Design  and  implement  a  sustainable  professional  development programme for all relevant staff according to ministries' needs.  Improve  the appointment  processes  within  the  educational  administration.  Create  a  conducive working  environment  for  efficient  and  effective  delivery  of  education  and  training support services, at national, regional, and LGAs levels. Build capacities for evidencebased prioritization, programming and monitoring.
+Capacity development: Develop and approve an education sector Capacity Development Plan. Design and implement a sustainable professional development programme for all relevant staff according to ministries’ needs. Improve the appointment processes within the educational administration. Create a conducive working environment for efficient and effective delivery of education and training support services, at national, regional, and LGAs levels. Build capacities for evidence-based prioritization, programming and monitoring.
 
 Strengthened  and  harmonized  regulatory  framework:  Prepare  and  enact  a  new Education Act which incorporates recent developments such as fee-free basic education and the shift to a 12-year compulsory basic education structure of 1-7-4.  Update key national  standards  and  strategies  in  such  areas  as  school  construction,  teacher deployment,  Quality  Assurance,  competency-based  assessments  and  inclusive  and special needs education.
 
@@ -2731,7 +2827,7 @@ Initially,  in  order  to  effect  these  developments,  the  focus  will  be  o
 
 - Activating the sub-sectors to ensure the intra- and inter-synchronisation of Basic Education, Higher Education, Technical and Vocational Education and Training and Folk Education;
 
-- The participative development of rolling three-year plans within each of the subsectors,  each  consistent  with  the  ESDP  and  aimed  at  enhancing  that  sub-sector within the broader education sector context;
+- The participative development of rolling three-year plans within each of the sub-sectors, each consistent with the ESDP and aimed at enhancing that sub-sector within the broader education sector context;
 
 - The  delineation  within  sub-sectors  of  agreed  objectively  verifiable  indicators  in relation to outcomes within each key result area, including 'unit costs per graduate';
 
@@ -2763,9 +2859,9 @@ Through the Education Sector dialogue structure a number of research studies hav
 
 - Research on Improving Systems of Education (RISE): which focuses on systems of education  rather  than  on  isolated  inputs  or  programmes  and  examines  how education systems can be improved to deliver better learning for all. The research is  expected  to  contribute  to  evidence  based  comprehensive  and  sustained approaches to education planning and management with a focus on improving and sustaining learning outcomes.
 
-- Improving Early Grades Reading Fluency: (undertaken by University of Dodoma) an action research aiming at improving pupils ' reading fluency in early grades by finding and investigating challenges teachers face in teaching reading fluency and exploring strategies that will help teachers improve their skills in teaching reading fluency.
+- Improving Early Grades Reading Fluency: (undertaken by University of Dodoma) an action research aiming at improving pupils’ reading fluency in early grades by finding and investigating challenges teachers face in teaching reading fluency and exploring strategies that will help teachers improve their skills in teaching reading fluency.
 
-- Development of a National Framework for the Assessment of Children's Literacy and Numeracy Learning in Tanzania: aims at developing a Literacy and Numeracy Assessment Framework (LaNAF) to guide the development, implementation and reporting of standardized assessment of literacy and numeracy at national, district and school levels.  The  LaNAF will  provide literacy  and  numeracy  achievement data in a nationally and internationally comparable manner; the basis of assessment for the number of children and young people reaching national (and international) benchmarks in basic literacy and numeracy; and will develop a national profile of the  country's  strengths  and  weaknesses  in  literacy  an d  numeracy  teaching  and learning.
+- Development of a National Framework for the Assessment of Children’s Literacy and Numeracy Learning in Tanzania: aims at developing a Literacy and Numeracy Assessment Framework (LaNAF) to guide the development, implementation and reporting of standardized assessment of literacy and numeracy at national, district and school levels. The LaNAF will provide literacy and numeracy achievement data in a nationally and internationally comparable manner; the basis of assessment for the number of children and young people reaching national (and international) benchmarks in basic literacy and numeracy; and will develop a national profile of the country’s strengths and weaknesses in literacy and numeracy teaching and learning.
 
 - Role of Home and Classroom Environment in Promoting Reading and Arithmetic Skills in Primary Schools: the main purpose of the study is to develop and carry out an intervention for promoting reading and arithmetic skills among Standard I and II  pupils  in  Tanzanian  primary  schools.  Specifically,  the  research  aims  at: identifying problems from home and classroom environments and will design an
 
@@ -2825,9 +2921,9 @@ This  chapter  presents,  in  the  form  of  a  series  of  matrices,  the  vari
 
 For each programme or sub-programme, the matrix defines an objective and one or more  indicators  to  assess  the  achievement  of  the  objectives.  The  technical  team, including  through  discussions  with  key  stakeholders  (representatives  from  the departments and agencies in charge of specific areas, education experts and development partners) came up with several sets of strategies, to achieve each objective. Strategies which are closely related are grouped into components. For each component, the matrix proposes an outcome and one or more indicators to assess the outcome. Each of the different strategies within a component is expected to lead to a specific result, which is also indicated.
 
-The priority programmes form the basis of more detailed operational plans by subsector.  The Operational Plan of the ESDP is presented at Annex 3.  This was prepared following  approval  of  this  main  ESDP  document.  The  Operational  Plan  divides activities into the five component years of the ESDP and allocates indicative budgets to each cost centre for each year.
+The priority programmes form the basis of more detailed operational plans by sub-sector. The Operational Plan of the ESDP is presented at Annex 3. This was prepared following approval of this main ESDP document. The Operational Plan divides activities into the five component years of the ESDP and allocates indicative budgets to each cost centre for each year.
 
-The structure  of  indicators  and  results  at  each  level  is  presented  in  tabular  form  in Annex 2.  The Logical Framework linking expected outputs, intermediate outcomes and overall outcome is as shown in Figure 5.1 below.  Please note that the structure of the Logical Framework  does  not  map  directly  onto  the  structure of the Priority Programmes, because the Priority Programmes are subdivided according to organizational  sub-sector,  which  is  necessary  for  the  allocation  of  budgets  and accountabilities, whereas the Logical Framework provides the overarching logic of the entire  ESDP. The arrangements for measuring and monitoring progress, along with targets for each indicator, are elaborated in the Monitoring and Evaluation Framework, at Annex 4.
+The structure of indicators and results at each level is presented in tabular form in Annex 2. The Logical Framework linking expected outputs, intermediate outcomes and
 
 71
 
@@ -2835,7 +2931,9 @@ The structure  of  indicators  and  results  at  each  level  is  presented  in 
 
 [[START OF PAGE 90]]
 
-Please  see  Annex  2  for  a  tabular  version  of  the  priority  programmes  and  subprogrammes, with their respective outcomes, strategies, results and indicators.  Against each outcome listed in Annex 2 there is a colour-coded cross reference to the relevant Logical  Framework  outcomes: A# for  'access,  participation  and  equity'; Q# for 'quality education'; SE# for 'education for social and economic development'; and M# for 'governance and management systems and structures'.
+overall outcome is as shown in Figure 5.1 below. Please note that the structure of the Logical Framework does not map directly onto the structure of the Priority Programmes, because the Priority Programmes are subdivided according to organizational sub-sector, which is necessary for the allocation of budgets and accountabilities, whereas the Logical Framework provides the overarching logic of the entire ESDP. The arrangements for measuring and monitoring progress, along with targets for each indicator, are elaborated in the Monitoring and Evaluation Framework, at Annex 4.
+
+Please see Annex 2 for a tabular version of the priority programmes and sub-programmes, with their respective outcomes, strategies, results and indicators. Against each outcome listed in Annex 2 there is a colour-coded cross reference to the relevant Logical Framework outcomes: A# for “access, participation and equity”; Q# for “quality education”; SE# for “education for social and economic development”; and M# for “governance and management systems and structures”.
 
 72
 
@@ -2843,20 +2941,23 @@ Please  see  Annex  2  for  a  tabular  version  of  the  priority  programmes  
 
 [[START OF PAGE 91]]
 
-IMPACT | OUTCOMES | OUTPUTS | ASSUMPTIONS
---- | --- | --- | --- | ---
-Improved literacy, life skills and lifelong learning for better livelihoods of children, youth and adults in Tanzania | Access, Participation and Equity : Equitable and completion education formal pathways; Increased access to post-basic opportunities, skills Quality | for youths, adults and of post-basic awareness and teaching staff and non Assurance bodies and management capacity of and training institutions LGAs, Regional research and studies, and policy making based and | A1: Increased capacity of communities, LGAs and MDAs to deliver quality basic and secondary education through both formal and non-formal pathways A2: Increased capacity of schools and communities to ensure inclusive access and completion of basic education, with special focus on pre-primary education and the most vulnerable children and adolescents A3: Increased learning opportunities marginalized groups A4: Increased uptake and completion technical and skills training A5: Increased community and parental participation in education Programmes Q1: Increased availability of qualified teaching staff at all levels Q2: Strengthened capacity of Quality training institutions to conduct curriculum based assessments Q3: Strengthened leadership and school heads and heads of training institutions Q4: Improved capacity of schools to provide conducive teaching and learning environment Q5: Strengthen capacity of schools, Secretariat, MDAs and training institutions to conduct disseminate and utilize findings for planning, decision Q6: Curriculum at all levels is competency competitive | Government can meet funding and capacity requirements, with timely and adequate support from Development Partners and the Private Sector Budget allocation for the Education Sector is released in a timely manner by Central Government Adequate teaching and non- teaching staff can be recruited Communities are willing to uptake skills development programmes and to support new and existing initiatives/programmes
-participation of basic for all, through
-and non-formal
-and inclusive learning
-especially training
-Education
-Improved learning outcomes learning environments for children, youth, and
-adults at all schools/institutions of learning, including the skills needed in the labour market
-Q7: Increased availability of ICT facilities to enhance Teaching and Learning at all levels of education
-Q8: Public private partnership improved
+Figure 5.1: ESDP Logical Framework
 
-Figure 5.1:  ESDP Logical Framework
+IMPACT | OUTCOMES | OUTPUTS | ASSUMPTIONS
+--- | --- | --- | ---
+Improved literacy, life skills and lifelong learning for better livelihoods of children, youth and adults in Tanzania | Access, Participation and Equity: Equitable participation in and completion of basic education for all, through both formal and non-formal pathways; Increased and inclusive access to post-basic learning opportunities, especially to skills training | A1: Increased capacity of communities, LGAs and MDAs to deliver quality basic and secondary education through both formal and non-formal pathways | Government can meet funding and capacity requirements, with timely and adequate support from Development Partners and the Private Sector
+ |  | A2: Increased capacity of schools and communities to ensure inclusive access and completion of basic education, with special focus on pre-primary education and the most vulnerable children and adolescents | 
+ |  | A3: Increased learning opportunities for youths, adults and marginalized groups | 
+ |  | A4: Increased uptake and completion of post-basic technical and skills training | Budget allocation for the Education Sector is released in a timely manner by Central Government
+ |  | A5: Increased community and parental awareness and participation in education Programmes | 
+ | Quality Education: Improved learning outcomes and learning environments for children, youth, and adults at all schools/institutions of learning, including the skills needed in the labour market | Q1: Increased availability of qualified teaching staff and non teaching staff at all levels | 
+ |  | Q2: Strengthened capacity of Quality Assurance bodies and training institutions to conduct curriculum based assessments | 
+ |  | Q3: Strengthened leadership and management capacity of school heads and heads of training institutions | Adequate teaching and non-teaching staff can be recruited
+ |  | Q4: Improved capacity of schools and training institutions to provide conducive teaching and learning environment | 
+ |  | Q5: Strengthen capacity of schools, LGAs, Regional Secretariat, MDAs and training institutions to conduct research and studies, disseminate and utilize findings for planning, decision and policy making | Communities are willing to uptake skills development programmes and to support new and existing initiatives/programmes
+ |  | Q6: Curriculum at all levels is competency based and competitive | 
+ |  | Q7: Increased availability of ICT facilities to enhance Teaching and Learning at all levels of education | 
+ |  | Q8: Public private partnership improved | 
 
 73
 
@@ -2864,18 +2965,18 @@ Figure 5.1:  ESDP Logical Framework
 
 [[START OF PAGE 92]]
 
-IMPACT | OUTCOMES | OUTPUTS ASSUMPTIONS
+IMPACT | OUTCOMES | OUTPUTS | ASSUMPTIONS
 --- | --- | --- | ---
-Improved literacy, life skills and lifelong learning for better livelihoods of children, youth and adults in Tanzania | Education for Social and Economic Development: Expansion and improved relevance of skills development programmes for learning, personal empowerment, active citizenship and/or employability of youth and adults. | SE1: Improved capacity of TVET and Folk Development Colleges (FDC) to provide knowledge and entrepreneur skills among youth and adults for competitiveness and self-employment | Communities are willing to engage with schools to ensure protective and safe learning environments Existing/newly established legal and regulatory frameworks and standards are enforced Teachers are willing to undergo
-SE2: Improved curricula at all education levels that incorporate local and global citizenship awareness (the environment, gender, human rights, peace and social justice, disaster prevention, basic and reproductive health, and HIV/AIDS)
-SE3: Improved capacity of TVET and higher education to provide education programmes responsive to labour market demands
-SE4: Increased capacity for TVET and higher education to ensure inclusive access to education with special focus on females, people with disabilities and other marginalized groups
-SE5: Enhanced partnerships between technical and vocational education training institutions and the private sector to ensure labour market relevance
-Governance and Management Systems & Structures : Improved performance of education sector governance, planning, management and coordination systems at national, regional and LGA levels | M1: Increased planning and management capacities of national, regional, and LGA officials for enhanced performance and accountability
-M2: Improved financial planning and education sector budget allocation and execution capacity for national, regional, and LGA officials
-M3: Enhanced national capacity for education policy making and regulation, including updated, relevant and harmonized laws and regulations | in-service trainings and to apply
-M4: Improved capacity at national, regional and LGA levels to monitor and evaluate education policies, plans, programmes and interventions | acquired knowledge and skills
-M5: Improved internal and external coordination mechanism functionality among education sector stakeholders
+Improved literacy, life skills and lifelong learning for better livelihoods of children, youth and adults in Tanzania | Education for Social and Economic Development: Expansion and improved relevance of skills development programmes for learning, personal empowerment, active citizenship and/or employability of youth and adults. | SE1: Improved capacity of TVET and Folk Development Colleges (FDC) to provide knowledge and entrepreneur skills among youth and adults for competitiveness and self-employment | Communities are willing to engage with schools to ensure protective and safe learning environments
+ |  | SE2: Improved curricula at all education levels that incorporate local and global citizenship awareness (the environment, gender, human rights, peace and social justice, disaster prevention, basic and reproductive health, and HIV/AIDS) | 
+ |  | SE3: Improved capacity of TVET and higher education to provide education programmes responsive to labour market demands | 
+ |  | SE4: Increased capacity for TVET and higher education to ensure inclusive access to education with special focus on females, people with disabilities and other marginalized groups | Existing/newly established legal and regulatory frameworks and standards are enforced
+ |  | SE5: Enhanced partnerships between technical and vocational education training institutions and the private sector to ensure labour market relevance | 
+ | Governance and Management Systems & Structures: Improved performance of education sector governance, planning, management and coordination systems at national, regional and LGA levels | M1: Increased planning and management capacities of national, regional, and LGA officials for enhanced performance and accountability | 
+ |  | M2: Improved financial planning and education sector budget allocation and execution capacity for national, regional, and LGA officials | 
+ |  | M3: Enhanced national capacity for education policy making and regulation, including updated, relevant and harmonized laws and regulations | Teachers are willing to undergo in-service trainings and to apply acquired knowledge and skills
+ |  | M4: Improved capacity at national, regional and LGA levels to monitor and evaluate education policies, plans, programmes and interventions | 
+ |  | M5: Improved internal and external coordination mechanism functionality among education sector stakeholders | 
 
 74
 
@@ -2897,7 +2998,7 @@ K03: GER in pre-primary
 
 K04: NER in pre-primary
 
-###### Component 1 -Infrastructure/Distance-to-School
+###### Component 1 – Infrastructure/Distance-to-School
 
 ###### Outcome
 
@@ -2915,7 +3016,7 @@ Expanded supply and accessibility of schools and classrooms for one year compuls
 
 ###### Strategy 1
 
-Expand existing primary school buildings' capacity to accommodate pre -primary children
+Expand existing primary school buildings’ capacity to accommodate pre-primary children
 ###### Result
 
 Existing schools have adequate classroom space to provide pre-primary education to children within their catchment area
@@ -2926,13 +3027,13 @@ Establish satellite centres to accommodate children living far away from schools
 
 ###### Result
 
-Children, including those who live in remote areas far from primary schools, are able to enrol in preprimary education, including school readiness programmes, via satellite centres
+Children, including those who live in remote areas far from primary schools, are able to enrol in pre-primary education, including school readiness programmes, via satellite centres
 
-###### Component 2 -Teachers
+###### Component 2 – Teachers
 
 ###### Outcome
 
-Availability of sufficient number and equitable deployment of adequately trained teachers in preprimary classrooms
+Availability of sufficient number and equitable deployment of adequately trained teachers in pre-primary classrooms
 
 ###### Indicators
 
@@ -2959,7 +3060,7 @@ Pre-primary / early-grade teaching achieves status as a specialised field of tea
 Improve pre-primary teacher deployment, including through better collection and use of data
 ###### Result
 
-Data on the pre-primary workforce and expected shortfalls are systematically used to inform preprimary teaching staff development and deployment
+Data on the pre-primary workforce and expected shortfalls are systematically used to inform pre-primary teaching staff development and deployment
 
 75
 
@@ -2975,7 +3076,7 @@ Strengthen professional development of pre-primary teachers including early gend
 
 Pre-primary teachers participate in professional development programmes, which respond to their training needs
 
-###### Component 3 -School Environment
+###### Component 3 – School Environment
 
 ###### Outcome
 
@@ -3001,7 +3102,7 @@ Supply gender and disability sensitive materials and facilities to cater for chi
 
 Materials and facilities are increasingly available for children from disadvantaged groups
 
-###### Component 4 -Community Participation
+###### Component 4 – Community Participation
 
 ###### Outcome
 
@@ -3033,6 +3134,26 @@ Stronger community engagement and advocacy in expanding/improving local pre-prim
 
 [[START OF PAGE 95]]
 
+##### Sub Programme 1.B : Primary and Lower Secondary
+
+###### Objective : Equitable access to and successful completion of basic education for all, improving internal efficiency and addressing the causes of dropout, with particular attention to excluded and marginalized groups, to reduce disparities based on gender, disability and geographical location
+
+###### Indicators
+
+K02: Gross intake ratio to primary Standard I
+
+K03: GER in primary and lower secondary
+
+K04: NER in primary and lower secondary
+
+K05: Promotion rate from Primary to Lower Secondary cycles of Basic Education
+
+K06: Survival rate from Standard I to the last grade of Lower Secondary (Form IV)
+
+H01: Primary Survival Rate and Lower Secondary Survival Rate
+
+###### Component 1 – Infrastructure/Distance-to-School
+
 ###### Outcome
 
 Availability of sufficient schools and classrooms that are near enough to the population to meet the needs of Universal Basic Education, meeting pupil-classroom ratio standards and reducing regional disparities in distance to school
@@ -3055,11 +3176,13 @@ Greater number of schools providing the full BE cycle, making physical access mo
 
 ###### Strategy 2
 
-Establish satellite centres where population density does not currently justify building a school Result
+Establish satellite centres where population density does not currently justify building a school
+
+###### Result
 
 Improved access to Basic Education for children in hard-to-reach areas, including OOSC or children at risk of becoming OOS
 
-###### Component 2 -Teachers
+###### Component 2 – Teachers
 
 ###### Outcome
 
@@ -3073,7 +3196,9 @@ Availability and equitable deployment of sufficient number of teachers by grade,
 
 ###### Strategy 1
 
-Increase the intake of candidates/trainees into teacher education and teacher training colleges Result
+Increase the intake of candidates/trainees into teacher education and teacher training colleges
+
+###### Result
 
 Greater number of potential teacher candidates and enrolees on pre-service teacher training programmes, facilitating recruitment
 
@@ -3085,26 +3210,6 @@ Enhance the attractiveness of and satisfaction with the teaching profession
 
 Improved retention and reduced attrition, facilitated recruitment, increased motivation, availability and time-on-task
 
-##### Sub Programme 1.B : Primary and Lower Secondary
-
-###### Objective : Equitable access to and successful completion of basic education for all, improving internal efficiency and addressing the causes of dropout, with particular attention to excluded and marginalized groups, to reduce disparities based on gender, disability and geographical location
-
-###### Indicators
-
-K02: Gross intake ratio to primary Standard I
-
-K03: GER in primary and lower secondary
-
-K04: NER in primary and lower secondary
-
-K05: Promotion rate from Primary to Lower Secondary cycles of Basic Education
-
-K06: Survival rate from Standard I to the last grade of Lower Secondary (Form IV)
-
-H01: Primary Survival Rate and Lower Secondary Survival Rate
-
-###### Component 1 -Infrastructure/Distance-to-School
-
 77
 
 [[END OF PAGE 95]]
@@ -3112,39 +3217,79 @@ H01: Primary Survival Rate and Lower Secondary Survival Rate
 [[START OF PAGE 96]]
 
 ###### Strategy 3
+
 Devise and implement campaigns to revalorize the public perception of the teaching profession
+
 ###### Result
-Campaigns on the teaching profession have improved its image, promoting interest among
----
-potential teacher candidates
+
+Campaigns on the teaching profession have improved its image, promoting interest among potential teacher candidates
+
 ###### Strategy 4
-Review the teacher deployment formula, mechanisms, approaches and incentives, with a focus subject shortages for lower secondary and also on ensuring equitable deployment of teachers among grades and streams within schools
+
+Review the teacher deployment formula, mechanisms, approaches and incentives, with a focus on subject shortages for lower secondary and also on ensuring equitable deployment of teachers among grades and streams within schools
+
 ###### Result
-on Teachers are deployed nationwide equitably and effectively, ensuring gaps in local pupil-teacher ratios are reduced
+
+Teachers are deployed nationwide equitably and effectively, ensuring gaps in local pupil-teacher ratios are reduced
+
 ###### Strategy 5
+
 Develop and implement a national strategy to increase the production of competent mathematics teachers for both primary and secondary
+
+###### Result
+
+Adequate availability nationwide of mathematics teachers (both maths/science cluster in primary and specialised secondary teachers)
+
 ###### Strategy 6
+
 Develop and implement a national strategy to train teachers on special needs education
+
 ###### Result
-Teachers are more aware of the constraints which children with special needs experience and
-how to help them overcome these
+
+Teachers are more aware of the constraints which children with special needs experience and how to help them overcome these
+
 ###### Strategy 7
-Strengthen the provision of remedial classes for lower performing girls and boys in English
+
+Strengthen the provision of remedial classes for lower performing girls and boys in English language and STEM
+
+###### Result
+
 Improved pass rate in English and STEM for girls and boys
+
 ###### Strategy 8
+
 Strengthen the capacity of teachers and school heads in gender analysis, gender responsive pedagogy and integration of gender issues in the school improvement plan
+
 ###### Result
+
 All schools implement school improvement plans that are gender transformative for boys and girls
-retention % of schools meeting set standards, or proxy index based on shortage of latrines/desks/etc., cycle and region
+
+###### Component 3 – School Environment
+
+###### Outcome
+
+Schools are safer, more inclusive and child-friendly, encouraging timely enrolment, attendance and retention
+
 ###### Indicators
-1B06: by 1B07: Number of schools with an emergency plan
+
+1B06: % of schools meeting set standards, or proxy index based on shortage of latrines/desks/etc., by cycle and region
+
+1B07: Number of schools with an emergency plan
+
 ###### Strategy 1
+
 Strengthen guidance, counselling and child protection services in school to protect boys and girls from sexual abuse, harassment and bullying
+
 ###### Result
+
 School environments are safe for learning for both boys and girls
+
 ###### Strategy 2
+
 Ensure that schools are adequately supplied with appropriate equipment and facilities for different ages and groups
+
 ###### Result
+
 Teaching and learning environment is improved, including for children with special needs, favourably impacting participation and retention
 
 78
@@ -3185,7 +3330,7 @@ Strengthen school health and nutrition in collaboration with MOH
 
 School health and nutrition services are available in schools, in line with national minimum standards
 
-###### Component 4 -Support for Most Vulnerable Students
+###### Component 4 – Support for Most Vulnerable Students
 
 ###### Outcome
 
@@ -3223,11 +3368,11 @@ Increased enrolment of special needs students in normal schools
 
 ###### Strategy 4
 
-Design and implement a 'communication for development' strategy to promote the engagement of boys, men and women champions in the education system and in rural communities to protect girls from early marriage and unintended pregnancies
+Design and implement a “communication for development” strategy to promote the engagement of boys, men and women champions in the education system and in rural communities to protect girls from early marriage and unintended pregnancies
 
 ###### Result
 
-Reduced number of school girls' early marriages and pregnancies
+Reduced number of school girls’ early marriages and pregnancies
 
 79
 
@@ -3241,9 +3386,9 @@ Introduce a scholarship scheme in STEM for high performing girls from remote rur
 
 ###### Result
 
-Increased girls ' participation in STEM
+Increased girls’ participation in STEM
 
-###### Component 5 -Household Contributions to Education
+###### Component 5 – Household Contributions to Education
 
 ###### Outcome
 
@@ -3302,6 +3447,20 @@ Improved retention and completion rates
 
 [[START OF PAGE 99]]
 
+##### Sub Programme 1.C : Higher Secondary
+
+###### Objective: Expanded access and participation with greater equity, and successful completion of A-Level secondary education, with an appropriate mix of subject specializations
+
+###### Indicators
+
+K17: Transition rate from Basic Education (Form IV) to higher secondary
+
+H02: Secondary (A-Level) completion rate, by gender and region
+
+H03: Gross Enrolment Ratio in higher secondary
+
+###### Component 1 – Infrastructure
+
 ###### Outcome
 
 Availability of sufficient schools and classrooms to accommodate qualified graduates from basic education
@@ -3315,6 +3474,7 @@ Availability of sufficient schools and classrooms to accommodate qualified gradu
 ###### Strategy 1
 
 Convert existing lower secondary schools into advanced secondary schools
+
 ###### Result
 
 Expanded A-Level capacity, to accommodate the increased demand for advanced secondary education from Form 4 leavers
@@ -3333,9 +3493,9 @@ Ensure that separate latrines are available for adolescent girls, in sufficient 
 
 ###### Result
 
-Girls' enrolment and retention are improved
+Girls’ enrolment and retention are improved
 
-###### Component 2 -Teachers
+###### Component 2 – Teachers
 
 ###### Outcome
 
@@ -3356,31 +3516,18 @@ Increased number of graduate teachers to cover demand in advanced secondary scho
 ###### Strategy 2
 
 Improve the deployment of teachers, in particular those teaching priority subjects
+
 ###### Result
 
 The distribution of teachers in all subjects is equitable across regions
 
 ###### Strategy 3
 
-Improve teachers' working and living conditions including remuneration
+Improve teachers’ working and living conditions including remuneration
 
 ###### Result
 
 Increased teacher retention in schools
-
-##### Sub Programme 1.C : Higher Secondary
-
-###### Objective: Expanded access and participation with greater equity, and successful completion of A-Level secondary education, with an appropriate mix of subject specializations
-
-###### Indicators
-
-K17: Transition rate from Basic Education (Form IV) to higher secondary
-
-- H02: Secondary (A-Level) completion rate, by gender and region
-
-H03: Gross Enrolment Ratio in higher secondary
-
-###### Component 1 -Infrastructure
 
 81
 
@@ -3388,19 +3535,32 @@ H03: Gross Enrolment Ratio in higher secondary
 
 [[START OF PAGE 100]]
 
-###### Component 3 - Support for Most Vulnerable Students
----
+###### Component 3 – Support for Most Vulnerable Students
+
 ###### Outcome
+
 Ensuring the most capable students gain access to A-Level, regardless of their means or vulnerability
+
 ###### Indicators
-1C04: Number of children with special needs enrolled, by gender and region 1C05: Number of beneficiaries of education access cash-transfer grants
+
+1C04: Number of children with special needs enrolled, by gender and region
+
+1C05: Number of beneficiaries of education access cash-transfer grants
+
 ###### Strategy 1
+
 Make schools inclusive for students with special needs
+
 ###### Result
+
 Students with special needs are retained in schools, with reduced dropout rates
+
 ###### Strategy 2
+
 Strengthen existing cash-transfer systems and provide students from very poor families and disabled children with in-kind subsidies for education
+
 ###### Result
+
 Poor families and families with disabled children receive compensation to cover some non-fee education costs, counterbalancing the opportunity cost of education
 
 82
@@ -3411,7 +3571,7 @@ Poor families and families with disabled children receive compensation to cover 
 
 ##### Sub Programme 1.D : Out-of-school children
 
-###### Objective: Enhanced access, participation and completion of primary education by out-ofschool-children and adolescents though flexible learning opportunities
+###### Objective: Enhanced access, participation and completion of primary education by out-of-school-children and adolescents though flexible learning opportunities
 
 ###### Indicators
 
@@ -3419,7 +3579,7 @@ K07: Average dropout rate per grade in primary education
 
 K08: The % of out-of-school children of basic school age
 
-###### Component 1 -Reducing Drop-Out, with a Focus on Preventive Measures
+###### Component 1 – Reducing Drop-Out, with a Focus on Preventive Measures
 
 ###### Outcome
 
@@ -3495,9 +3655,11 @@ Strengthen sexual and reproductive health knowledge, gender sensitivity and life
 
 ###### Results
 
-Improved knowledge and skills on sexual and reproductive health for out of school boys and girls Improved access to counselling services for sexual and reproductive health and HIV prevention for adolescent boys and girls
+Improved knowledge and skills on sexual and reproductive health for out of school boys and girls
 
-###### Component 2 -Orientation and Guidance for OOSC
+Improved access to counselling services for sexual and reproductive health and HIV prevention for adolescent boys and girls
+
+###### Component 2 – Orientation and Guidance for OOSC
 
 ###### Outcome
 
@@ -3535,13 +3697,13 @@ Pupils receive psycho-social support, according to their needs
 
 ###### Strategy 4
 
-Identify and use available learning spaces in primary and secondary schools and in FDCs for nonformal education, and issue appropriate guidelines
+Identify and use available learning spaces in primary and secondary schools and in FDCs for non-formal education, and issue appropriate guidelines
 
 ###### Result
 
 Reduced distance from home to non-formal learning centres for girls and boys
 
-###### Component 3 -Fast-Track Reintegration Programme
+###### Component 3 – Fast-Track Reintegration Programme
 
 ###### Outcome
 
@@ -3549,7 +3711,9 @@ OOSC backlog is gradually reduced through their fast-track reintegration into th
 
 ###### Indicators
 
-1D04: Numbers enrolled in the fast-track reintegration programme, by gender and region 1D05: Mainstreaming success rate, by stream followed, gender and region
+1D04: Numbers enrolled in the fast-track reintegration programme, by gender and region
+
+1D05: Mainstreaming success rate, by stream followed, gender and region
 
 ###### Strategy 1
 
@@ -3580,7 +3744,7 @@ Provide competent teaching staff, with an appropriate profile for the programme
 
 Necessary teaching staff are available and offer effective support to pupils
 
-###### Component 4 -Expansion of COBET 9  I and II
+###### Component 4 – Expansion of COBET⁹ I and II
 
 ###### Outcome
 
@@ -3668,7 +3832,7 @@ H07: Pupil-textbook ratio, by subject
 
 H08: % of school leaders certified as having achieved required level of leadership & management competency
 
-###### Component 1 -Curricula
+###### Component 1 – Curricula
 
 ###### Outcome
 
@@ -3676,7 +3840,9 @@ Relevant competency-based curricula are in place and textbooks and teacher guide
 
 ###### Indicators
 
-2A01: Pupil-textbook ratio (for new books reflecting updated curricula), by level and subject 2A02: % of 15-year-olds demonstrating correct knowledge of environmental and gender/sexuality/HIV issues
+2A01: Pupil-textbook ratio (for new books reflecting updated curricula), by level and subject
+
+2A02: % of 15-year-olds demonstrating correct knowledge of environmental and gender/sexuality/HIV issues
 
 ###### Strategy 1
 
@@ -3731,7 +3897,7 @@ Provide global citizenship and life skills education, including on environmental
 
 School leavers show proficiency in their knowledge of environmental issues and life-skills-based gender, sexuality and HIV education
 
-###### Component 2 -Teacher Education (Pre-Service and In-Service Training for Qualification)
+###### Component 2 – Teacher Education (Pre-Service and In-Service Training for Qualification)
 
 ###### Outcome
 
@@ -3745,7 +3911,7 @@ All existing and newly recruited teachers obtain the required qualifications
 
 ###### Strategy 1
 
-Review Teacher Education Curriculum Framework to include  priority issues, e.g. competencybased assessment, inclusive learning and early childhood care
+Review Teacher Education Curriculum Framework to include priority issues, e.g. competency-based assessment, inclusive learning and early childhood care
 
 ###### Result
 
@@ -3799,7 +3965,7 @@ Provide all teacher training colleges with appropriate facilities and teaching/l
 
 Teacher training colleges have necessary facilities and resources, and more secondary teachers are drawn to science subjects and better prepared
 
-###### Component 3 -Teacher Support and In-Service Training
+###### Component 3 – Teacher Support and In-Service Training
 
 ###### Outcome
 
@@ -3854,7 +4020,7 @@ Strengthen the capacity of teachers to use school-based continuous assessment as
 
 Teachers have skills to use assessment to diagnose and act on learning difficulties in time
 
-###### Component 4 -Teacher Motivation
+###### Component 4 – Teacher Motivation
 
 ###### Outcome
 
@@ -3912,7 +4078,7 @@ Teachers benefit from improved school supervision and support from school manage
 
 ###### Strategy 5
 
-Improvement of teachers ' environment, in particular through staff housing
+Improvement of teachers’ environment, in particular through staff housing
 
 ###### Result
 
@@ -3926,7 +4092,7 @@ Develop and implement a specific support package for teachers in hard-to-reach a
 
 Teachers in hard-to-reach areas receive a special support package, contributing to a reduction in urban/rural/regional disparities in teacher deployment and PTRs
 
-###### Component 5 -Learning Environment
+###### Component 5 – Learning Environment
 
 ###### Outcome
 
@@ -3948,7 +4114,7 @@ Minimum standards available and adhered to in establishing quality learning envi
 
 ###### Strategy 2
 
-Transform  classrooms into cognitively stimulating  learning environments, especially for preprimary, and Grades 1 and 2
+Transform classrooms into cognitively stimulating learning environments, especially for pre-primary, and Grades 1 and 2
 
 ###### Result
 
@@ -3980,12 +4146,18 @@ Secondary-level learning experiences are improved, and the attractiveness of sci
 Abolishment of corporal punishment
 ###### Result
 Teachers are using alternative ways of disciplining children
----
-###### Component 6 - School Leadership and Management
+
+###### Component 6 – School Leadership and Management
 ###### Outcome
 School leaders and school committees contribute to improving quality through effective school management
 ###### Indicators
-2A12: % of school heads certified in leadership, by level, region and gender 2A13: % of schools with a WSD plan, by level and region 2A14: % of schools with a functioning School Management Committee 2A15: % of schools meeting the minimum standard for quality of leadership and management (Domain 5 of the new Overall Schools Quality Score)
+2A12: % of school heads certified in leadership, by level, region and gender
+
+2A13: % of schools with a WSD plan, by level and region
+
+2A14: % of schools with a functioning School Management Committee
+
+2A15: % of schools meeting the minimum standard for quality of leadership and management (Domain 5 of the new Overall Schools Quality Score)
 ###### Strategy 1
 Revision of profile and recruitment criteria and processes for school leaders
 ###### Result
@@ -4002,11 +4174,15 @@ School leaders gain competencies in school improvement planning
 Develop capacity of school committees in activities relevant to their missions and to school improvement
 ###### Result
 Schools have well developed and funded whole school development plans for school quality improvement
-###### Component 7 - Quality Assurance
+###### Component 7 – Quality Assurance
 ###### Outcome
 Quality Assurance processes are used to monitor teacher, student and school performance against standards and findings are used to improve practice
 ###### Indicators
-2A16: % of schools having undergone a WSI once during last two years, by level and region 2A17: National assessment of learning outcomes is undertaken yearly and results systemized 2A18: % of schools (primary and secondary) by district and region that meet minimum standards according to the Overall School Quality Score
+2A16: % of schools having undergone a WSI once during last two years, by level and region
+
+2A17: National assessment of learning outcomes is undertaken yearly and results systemized
+
+2A18: % of schools (primary and secondary) by district and region that meet minimum standards according to the Overall School Quality Score
 ###### Strategy 1
 Revise and/or develop quality standards, including revision of 2009 Basic Education and development of standards for pre-primary
 ###### Result
@@ -4064,7 +4240,7 @@ School management skills-enhancement for Head Teachers, School Committees and WE
 
 Head Teachers, School Committees and WEOs have improved skills related to school supervision and student assessment
 
-###### Component 8 -Operational Research
+###### Component 8 – Operational Research
 
 ###### Outcome
 
@@ -4126,7 +4302,7 @@ H09: % yearly growth in adult and non-formal education
 
 H10: Number of people by age range (adolescents/youth/adult) who have undertaken some form of formal or non-formal education or training within the last 12 months
 
-###### Component 1 -Mobilizing Resources for Adult and Non-Formal Education
+###### Component 1 – Mobilizing Resources for Adult and Non-Formal Education
 
 ###### Outcome
 
@@ -4142,7 +4318,7 @@ Increased government funding and development partner support for adult and non-f
 
 ###### Strategy 1
 
-Mobilize political commitment across ministries and governmental institutions to adult and nonformal education by awareness raising through appropriate channels
+Mobilize political commitment across ministries and governmental institutions to adult and non-formal education by awareness raising through appropriate channels
 
 ###### Result
 
@@ -4158,7 +4334,7 @@ Stakeholders respond with resource allocations to priority issues in adult and n
 
 ###### Strategy 3
 
-Reinforcing the capacities of communities to engage in and mobilize support for adult and nonformal education
+Reinforcing the capacities of communities to engage in and mobilize support for adult and non-formal education
 
 ###### Result
 
@@ -4172,7 +4348,7 @@ Strengthen partnership with TASAF, private sector and other philanthropic organi
 
 Adolescent girls and boys and youth have access to resources to pursue second chance learning opportunities through non-formal pathways
 
-###### Component 2 -Improving the Quality of National Literacy and Numeracy Data
+###### Component 2 – Improving the Quality of National Literacy and Numeracy Data
 
 ###### Outcome
 
@@ -4204,7 +4380,7 @@ Develop a standardized framework and tools for ANFE-centre based assessments of 
 
 Assessed levels of literacy and numeracy available to learners and ANFE providers, included in the framework of the TQF
 
-###### Component 3 -Motivating Potential Learners to Participate in Adult and Non-Formal Education Programmes
+###### Component 3 – Motivating Potential Learners to Participate in Adult and Non-Formal Education Programmes
 
 ###### Outcome
 
@@ -4222,7 +4398,7 @@ Increased  number of adolescents, youth and adults participating in adult and no
 
 ###### Strategy 1
 
-Develop recognised and accessible alternative learning pathways for out-of-school adolescent girls and boys, youth and adults to pursue academic and skills-based curricula and move between nonformal programmes with different purposes and of different levels, and between non-formal and formal modalities (horizontal and vertical mobility in the system)
+Develop recognised and accessible alternative learning pathways for out-of-school adolescent girls and boys, youth and adults to pursue academic and skills-based curricula and move between non-formal programmes with different purposes and of different levels, and between non-formal and formal modalities (horizontal and vertical mobility in the system)
 
 ###### Result
 
@@ -4234,7 +4410,7 @@ Plan, design and conduct targeted adult literacy awareness-raising and other com
 
 ###### Result
 
-Potential learners, in particular in most vulnerable regions, are able to access information on multipathway formal and non-formal learning opportunities in adult literacy, basic and pre-vocational adult education
+Potential learners, in particular in most vulnerable regions, are able to access information on multi-pathway formal and non-formal learning opportunities in adult literacy, basic and pre-vocational adult education
 
 ###### Strategy 3
 
@@ -4266,7 +4442,7 @@ Reinforce open-access programmes in secondary education
 
 Young people and adults are able to access non-formal secondary education opportunities, and transition to teacher training, TVET, and higher education
 
-###### Component 4 -Availability of ANFE Facilitators
+###### Component 4 – Availability of ANFE Facilitators
 
 ###### Outcome
 
@@ -4274,7 +4450,9 @@ Availability of a sufficient number of facilitators, respecting minimum standard
 
 ###### Indicators
 
-3A09: Number of recruited facilitators (in relation to estimated need) and annual change 3A10: Mapping of deployment of qualified ANFE teachers/facilitators by region and number of learners they serve by region (facilitator: learners ratio by region)
+3A09: Number of recruited facilitators (in relation to estimated need) and annual change
+
+3A10: Mapping of deployment of qualified ANFE teachers/facilitators by region and number of learners they serve by region (facilitator: learners ratio by region)
 
 ###### Strategy 1
 
@@ -4291,7 +4469,7 @@ Systematize the availability and use of facilitators, in line with the needs of 
 
 Facilitators are deployed nationwide equitably and effectively
 
-###### Component 5 -Coordinating the Provision of Vocational Skills across ANFE, FDCs and Other Providers
+###### Component 5 – Coordinating the Provision of Vocational Skills across ANFE, FDCs and Other Providers
 
 ###### Outcome
 
@@ -4299,9 +4477,9 @@ Increased number of young people and adults accessing relevant vocational skills
 
 ###### Indicators
 
-3A11: Youth and adults who participate in vocational skills training (number and % increase) 3A12: Mapping of learner flows between and across ANFE programmes (number of learners
+3A11: Youth and adults who participate in vocational skills training (number and % increase)
 
-referred from ICBAE to FDC and the other way round)
+3A12: Mapping of learner flows between and across ANFE programmes (number of learners referred from ICBAE to FDC and the other way round)
 
 ###### Strategy 1
 
@@ -4333,7 +4511,7 @@ Data on flows are collected and integrated into the ESMIS sub-system
 
 [[START OF PAGE 114]]
 
-##### Sub Programme 3.B : Improve the quality and relevance of adult and nonformal education and training
+##### Sub Programme 3.B : Improve the quality and relevance of adult and non-formal education and training
 
 ###### Objective: Ensure relevant and good quality alternative learning opportunities for adolescents, young people and adults
 
@@ -4347,7 +4525,7 @@ H12: Youth and adults achieving TQF-certification through non-formal programmes 
 
 H13: % of youth and adults possessing ICT skills
 
-###### Component 1 -Relevant Curriculum
+###### Component 1 – Relevant Curriculum
 
 ###### Outcome
 
@@ -4391,7 +4569,7 @@ Develop a structured system of supervision and facilitator support, linked to th
 
 Existing Quality Assurance modalities include quality assurance for ANFE and support for ANFE facilitators
 
-###### Component 2 -Teaching and Learning Materials
+###### Component 2 – Teaching and Learning Materials
 
 ###### Outcome
 
@@ -4405,7 +4583,7 @@ Quality teaching and learning materials are available for all
 
 ###### Indicators
 
-3B03: Learning materials developed for all levels of ANFE ' s adult basic education (equivalency) programme by applying quality criteria
+3B03: Learning materials developed for all levels of ANFE’s adult basic education (equivalency) programme by applying quality criteria
 
 3B04: Course-related materials available in to all learners (number of materials per level : number of enrolled learners)
 
@@ -4427,7 +4605,7 @@ Develop e-learning/digital learning tools
 
 Basic, post-literacy, and pre-vocational training modules are available online and/or utilizing new technologies
 
-###### Component 3 -Qualified ANFE Facilitators
+###### Component 3 – Qualified ANFE Facilitators
 
 ###### Outcome
 
@@ -4488,7 +4666,7 @@ H15: % of women among students enrolled in TVET
 
 H16: Number of students with disabilities enrolled in TVET
 
-###### Component 1 -Enhancement of Infrastructure to Cope with Expanding Enrolment in TVET and Increased Demand for Skills Mix in the Labour Market while Addressing Regional Disparities
+###### Component 1 – Enhancement of Infrastructure to Cope with Expanding Enrolment in TVET and Increased Demand for Skills Mix in the Labour Market while Addressing Regional Disparities
 
 ###### Outcome
 
@@ -4512,7 +4690,9 @@ Increased total enrolment capacity for TVET education
 
 ###### Strategy 2
 
-Rationalize training programmes and enrolment in the currently underutilized TVET institutions Result
+Rationalize training programmes and enrolment in the currently underutilized TVET institutions
+
+###### Result
 
 Increased capacity utilization of underutilized institutions
 
@@ -4532,7 +4712,7 @@ Employing PPP to enhance teaching and learning infrastructure, as well as hospit
 
 Presence of modern and well-functioning classrooms and practical learning facilities, resource centres, lecture rooms, offices, library facilities, hospitality and sanitary facilities, financed through PPP
 
-###### Component 2 -Enhancement of Alternative Modes of Training Delivery and Duration
+###### Component 2 – Enhancement of Alternative Modes of Training Delivery and Duration
 
 ###### Outcome
 
@@ -4558,7 +4738,11 @@ Introduce and enhance flexible programmes, including evening courses to allow fo
 
 ###### Results
 
-Flexible training programmes introduced in TVET in addition to normal programmes Enrolment with increasing trend of students undertaking flexible programmes every year Higher completion rates of TVET graduates undertaking flexible programmes
+Flexible training programmes introduced in TVET in addition to normal programmes
+
+Enrolment with increasing trend of students undertaking flexible programmes every year
+
+Higher completion rates of TVET graduates undertaking flexible programmes
 
 ###### Strategy 2
 
@@ -4584,7 +4768,7 @@ Introduce and scale up formal apprenticeship and outreach programmes
 
 Increased numbers of students participating in formal apprenticeship and outreach programmes
 
-###### Component 3 -Increasing the Participation of Under-Represented and Disadvantaged Groups in TVET
+###### Component 3 – Increasing the Participation of Under-Represented and Disadvantaged Groups in TVET
 
 ###### Outcome
 
@@ -4641,7 +4825,7 @@ Allocate accommodation preferentially to students with disabilities
 
 Increased enrolment of eligible disabled school leavers in TVET
 
-###### Component 4 -Enhance the Human Resource Capacities of Institutions
+###### Component 4 – Enhance the Human Resource Capacities of Institutions
 
 ###### Outcome
 
@@ -4697,9 +4881,11 @@ H17: TVET graduation rates
 
 H18: Proportion of employers (including self-employment) indicating satisfaction with the practical skills of employees from TVET institutions
 
-H19: Proportion of TVET graduates employed in the economy by each sector and by all sectors H20: % of population that are TVET graduates
+H19: Proportion of TVET graduates employed in the economy by each sector and by all sectors
 
-###### Component 1 -Ensure that the Enrolment Distribution of Learners and the Share of Graduates at VET and Diploma Level (TET) Reflects the Needs of the Labour Market and the Recommended Human Capital Balance
+H20: % of population that are TVET graduates
+
+###### Component 1 – Ensure that the Enrolment Distribution of Learners and the Share of Graduates at VET and Diploma Level (TET) Reflects the Needs of the Labour Market and the Recommended Human Capital Balance
 
 ###### Outcome
 
@@ -4735,7 +4921,7 @@ Provide grants and scholarships to learners in programmes in the core priority a
 
 Increasing enrolment of school leavers in training programmes in core priority areas that have significant shortfall
 
-###### Component 2 -Ensure that the Skills Transmitted through TVET are More Responsive to the Dynamic Needs of the Labour Market and Society
+###### Component 2 – Ensure that the Skills Transmitted through TVET are More Responsive to the Dynamic Needs of the Labour Market and Society
 
 ###### Outcome
 
@@ -4778,15 +4964,15 @@ More active engagement of private sector in TVET governance, resulting in better
 
 Strengthening the involvement of employers in the organization of the TVET offer by:
 
-- Providing capacity building to TVET institutions on employer satisfaction surveys
+1. Providing capacity building to TVET institutions on employer satisfaction surveys
 
-- Periodically and regularly conducting employer satisfaction surveys to establish gaps in skills acquired by graduates
+2. Periodically and regularly conducting employer satisfaction surveys to establish gaps in skills acquired by graduates
 
 ###### Result
 
 Improved correspondence between skills and knowledge imparted to TVET graduates and job tasks assigned to them at work place
 
-###### Component 3 -Continuous Improvement in the Quality of Teaching and Technical Staff
+###### Component 3 – Continuous Improvement in the Quality of Teaching and Technical Staff
 
 ###### Outcome
 
@@ -4834,7 +5020,7 @@ Provide professional development to teaching staff on ICT mediated classroom lea
 
 Improved pedagogical capacity of TVET teaching staff on ICT mediated classroom learning, open and distance learning, and CBET curricula development, delivery and assessment
 
-###### Component 4 -Provision of Updated Equipment, Tools and T/L Materials
+###### Component 4 – Provision of Updated Equipment, Tools and T/L Materials
 
 ###### Outcome
 
@@ -4915,7 +5101,7 @@ Improved performance of individual TVET institutions benchmarked from local and 
 Capacity building of MoEST and of TVET institutions for more effective management of academic functions, including through institutionalization and maintenance of quality assurance systems (data capturing, processing and reports generation)
 ###### Result
 Improved management of individual TVET institutions through more effective quality assurance
----
+
 ###### Strategy 4
 Provide information to stakeholders about the progress of training activities nationally in line with the M&E Framework for the sub-sector, and use their feedback for improvement
 ###### Result
@@ -4939,17 +5125,17 @@ Global citizenship and sustainable development are mainstreamed in the TVET syst
 
 ###### Indicators:
 
-- K22: Gross enrolment rate in Higher Education (gender disaggregated)
+K22: Gross enrolment rate in Higher Education (gender disaggregated)
 
-- H21: Gross intake ratio in Higher Education by gender (transition rate from A-level)
+H21: Gross intake ratio in Higher Education by gender (transition rate from A-level)
 
-- H22: Percentage of women among students enrolled in STEM Higher Education
+H22: Percentage of women among students enrolled in STEM Higher Education
 
-- H23: Number of disabled enrolled in STEM Higher Education
+H23: Number of disabled enrolled in STEM Higher Education
 
-- H24: Share of the active population with HE
+H24: Share of the active population with HE
 
-###### Component 1 -Infrastructure
+###### Component 1 – Infrastructure
 
 ###### Outcome
 
@@ -4959,11 +5145,11 @@ Expanded capacity in HLIs, with a focus on priority areas, STEM facilities, and 
 
 5A01: Size of teaching and learning space and infrastructure created for science teachers
 
-- 5A02: % of universities having expanded learning space in the past 2 years
+5A02: % of universities having expanded learning space in the past 2 years
 
-- 5A03: Number of higher education STEM courses established or customized for the disabled
+5A03: Number of higher education STEM courses established or customized for the disabled
 
-- 5A04: % of universities meeting government defined standards for disability-friendly learning and support facilities
+5A04: % of universities meeting government defined standards for disability-friendly learning and support facilities
 
 ###### Strategy 1
 
@@ -4987,7 +5173,7 @@ Expand infrastructure and equipment for training in soft and communication skill
 
 Adequate training capacity for soft and communication skills
 
-###### Component 2 -Financing
+###### Component 2 – Financing
 
 ###### Outcome
 
@@ -5032,9 +5218,11 @@ Improve the means-tested student loan attribution mechanism
 
 ###### Results
 
-Framework for internal income generation and fundraising activities by public HEIs established Loans, grants and scholarships are provided to meriting students from poor, rural and marginalized backgrounds
+Framework for internal income generation and fundraising activities by public HEIs established
 
-###### Component 3 -Academic Staff
+Loans, grants and scholarships are provided to meriting students from poor, rural and marginalized backgrounds
+
+###### Component 3 – Academic Staff
 
 ###### Outcomes
 
@@ -5096,7 +5284,7 @@ Increase the number of HE academic staff to cater for an expanded programme for 
 
 Sufficient academic staff to train science teachers
 
-###### Component 4 -Pre-Entry Programmes
+###### Component 4 – Pre-Entry Programmes
 
 ###### Outcome
 
@@ -5109,8 +5297,15 @@ Greater gender balance achieved in science and technology degree courses
 [[START OF PAGE 125]]
 
 ###### Indicators
-5A15: Number of curriculum reviews and updating conducted on pre-entry courses for women in STEM 5A16: Number of new STEM pre-entry programmes for women established in new and priority areas 5A17: Number of pre-entry programmes funded 5A18: % of qualified applicants for pre-entry programmes enrolled
----
+
+5A15: Number of curriculum reviews and updating conducted on pre-entry courses for women in STEM
+
+5A16: Number of new STEM pre-entry programmes for women established in new and priority areas
+
+5A17: Number of pre-entry programmes funded
+
+5A18: % of qualified applicants for pre-entry programmes enrolled
+
 ###### Strategy 1
 Review and updating of curriculum for existing pre-entry programmes in STEM
 ###### Result
@@ -5129,6 +5324,19 @@ Pre-entry programmes are appropriately financed
 [[END OF PAGE 125]]
 
 [[START OF PAGE 126]]
+##### Sub Programme 5.B : Quality and relevance
+
+###### Objective : Quality Higher Education teaching and learning with enforced regulation and usage of ICT leads to the output of graduates with employable knowledge and skills that contribute towards economic and social development
+
+###### Indicators
+
+H25: % of universities adequately equipped with ICT/STEM/labs/etc.
+
+K23: % of university graduates with relevant employment one year after graduation, by main stream
+
+K21: % of science and mathematics graduates among all university graduates
+
+###### Component 1 – Labour Market Relevance
 
 ###### Outcome
 
@@ -5186,25 +5394,12 @@ Ensure that global citizenship education and education for sustainable developme
 
 Global citizenship and sustainable development are mainstreamed in the university system
 
-##### Sub Programme 5.B : Quality and relevance
-
-###### Objective : Quality Higher Education teaching and learning with enforced regulation and usage of ICT leads to the output of graduates with employable knowledge and skills that contribute towards economic and social development
-
-###### Indicators
-
-H25: % of universities adequately equipped with ICT/STEM/labs/etc.
-
-K23: % of university graduates with relevant employment one year after graduation, by main stream
-
-K21: % of science and mathematics graduates among all university graduates
-
-###### Component 1 -Labour Market Relevance
-
 108
-
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
+
+###### Component 2 – Quality Assurance
 
 ###### Outcome
 
@@ -5248,7 +5443,7 @@ Involve employers, industry and communities, through appropriate forums, in the 
 
 Quality assurance comprehensively covers academic excellence and labour market relevance
 
-###### Component 3 -Research and Innovation
+###### Component 3 – Research and Innovation
 
 ###### Outcome
 
@@ -5275,6 +5470,7 @@ Improved ability of HE institutions to embrace change and innovation and transfe
 ###### Strategy 2
 
 Develop, expand and professionalize priority training programmes in STEM
+
 ###### Result
 
 Enhanced quality of STEM courses
@@ -5287,13 +5483,13 @@ Improve research capacity, funding and focus on product-oriented priorities and 
 
 Heightened relevance of research activities
 
-###### Component 2 -Quality Assurance
-
 109
 
 [[END OF PAGE 127]]
 
 [[START OF PAGE 128]]
+
+###### Component 4 – Learning Environment
 
 ###### Outcome
 
@@ -5307,7 +5503,9 @@ Learning environments are suitable for all subjects and learners, and conducive 
 
 5B14: Number of shared ICT platforms (e.g. e-libraries, e-learning and data management platforms) in use
 
-5B15: % of staff satisfied with the teaching, learning and research environment 5B16: % of students satisfied with the teaching, learning and research environment
+5B15: % of staff satisfied with the teaching, learning and research environment
+
+5B16: % of students satisfied with the teaching, learning and research environment
 
 ###### Strategy 1
 
@@ -5325,7 +5523,7 @@ Develop the use and availability of ICT soft and hardware for both resident and 
 
 Enhanced access to knowledge, information sharing and collaborative learning and research
 
-###### Component 5 -Staff Competencies and Qualifications
+###### Component 5 – Staff Competencies and Qualifications
 
 ###### Outcome
 
@@ -5356,6 +5554,7 @@ Improved profile of HE academic staff, whose qualifications and relevant skills 
 ###### Strategy 2
 
 Provide teaching staff with opportunities to regularly improve their soft skills
+
 ###### Result
 
 Adequate HE capacity to train students in soft and communication skills
@@ -5368,13 +5567,13 @@ Establish a system for award and recognition of good quality teaching and resear
 
 Improved motivation of staff to continuously improve their profiles, maximize student performance and get involved in research projects
 
-###### Component 4 -Learning Environment
-
 110
 
 [[END OF PAGE 128]]
 
 [[START OF PAGE 129]]
+
+###### Component 6 – Data Management
 
 ###### Outcome
 
@@ -5417,11 +5616,10 @@ Adequate linkages and harmonization in data management platforms across agencies
 ###### Strategy 4
 
 Develop capacities in network maintenance, data analysis, compilation and use
+
 ###### Result
 
 Improved capacity for system maintenance and data analysis and use
-
-###### Component 6 -Data Management
 
 111
 
@@ -5431,7 +5629,7 @@ Improved capacity for system maintenance and data analysis and use
 
 #### 6: System Structure, Governance and Management
 
-###### Objective: Ensure an effective management and administration system is in place, including sectorwide accountability and sustainable, equitable financing modalities, which enable mobility through multiple pathways within and across education sub-sectors
+###### Objective: Ensure an effective management and administration system is in place, including sector-wide accountability and sustainable, equitable financing modalities, which enable mobility through multiple pathways within and across education sub-sectors
 
 ###### Indicators
 
@@ -5443,13 +5641,13 @@ K26: % of National Budget allocated to education
 
 K27: % of annual education budget released and utilized
 
-- H26: Sector dialogue mechanisms functioning satisfactorily, including JESR and ESDC meetings
+H26: Sector dialogue mechanisms functioning satisfactorily, including JESR and ESDC meetings
 
-- H27: Annual Education Sector Report is published on time with full analysis
+H27: Annual Education Sector Report is published on time with full analysis
 
-- H28: Existence of feedback mechanisms with local communities in every LGA
+H28: Existence of feedback mechanisms with local communities in every LGA
 
-###### Component 1 -Flexible System
+###### Component 1 – Flexible System
 
 ###### Outcome
 
@@ -5482,7 +5680,7 @@ Provide regular information about NQF and pathways within the system to possible
 
 Beneficiaries have easy access to information about study modalities in the education system, and their relative qualifications
 
-###### Component 2 -Effective Management of System
+###### Component 2 – Effective Management of System
 
 ###### Outcome
 
@@ -5515,7 +5713,7 @@ Improved execution of roles and responsibilities
 Strengthen ESDP implementation structures by reformulating coordination/partnership management
 ###### Result
 
-Ongoing technical support for the ESDC is provided by a ' Sector Working Group '/ESDP Task Force
+Ongoing technical support for the ESDC is provided by a ‘Sector Working Group’/ESDP Task Force
 
 ###### Strategy 3
 
@@ -5600,7 +5798,7 @@ Develop capacities of relevant staff in policy analysis, planning and management
 
 Emerging concerns (with regard to gender, ESD, DRR, GCED) are integrated into the curricula and sector personnel and civil society are oriented in line with updated curricula
 
-###### Component 4 -Data Management and Data Use
+###### Component 4 – Data Management and Data Use
 
 ###### Outcome
 
@@ -5639,7 +5837,7 @@ Well-resourced decentralized AE-MIS available, integrating national adult and yo
 
 ###### Strategy 4
 
-Review and improve management information system for quality assurance data, including schoolbased continuous assessment
+Review and improve management information system for quality assurance data, including school-based continuous assessment
 
 ###### Result
 
@@ -5660,7 +5858,7 @@ Upgrade and harmonize online reporting functionalities of the sector-wide system
 
 Online reporting of sector-wide information is effective and regularly updated.
 
-###### Component 5 -Sustainable and Equitable Financing Modalities
+###### Component 5 – Sustainable and Equitable Financing Modalities
 
 ###### Outcome
 
@@ -5703,7 +5901,7 @@ Regular and open information provided to track the flow and use of resources, in
 
 ###### Strategy 4
 
-Revise stakeholders ' roles and responsibilities for financial management
+Revise stakeholders’ roles and responsibilities for financial management
 
 ###### Result
 
@@ -5716,7 +5914,7 @@ Promote public-private partnerships involving schools, communities and industrie
 
 Public-private partnership agreements signed/functional at national, regional and district levels, to support the education system and schools
 
-###### Component 6 -Updated and Harmonized Regulatory Instruments
+###### Component 6 – Updated and Harmonized Regulatory Instruments
 
 ###### Outcome
 
@@ -5762,11 +5960,11 @@ School buildings and facilities (including both Basic and TVET) are located, des
 Review and revise teacher training, recruitment and deployment strategies
 ###### Result
 Teachers with up-to-date knowledge and competencies are deployed equitably across Tanzania and within schools, having a fair and transparent performance and career management system in place
----
 ###### Strategy 5
 Develop and roll-out new Quality Assurance system, including multi-indicator minimum school quality standards and routine competency-based student learning assessments
 ###### Results
-Schools meet minimum quality standards Student learning improved
+Schools meet minimum quality standards
+Student learning improved
 
 116
 
@@ -5784,13 +5982,13 @@ Institutional responsibilities have in the past been shared among three minister
 
 - The then Ministry of Education and Vocational Training (MoEVT) which is now the Ministry of Education, Science and Technology (MoEST);
 
-- The  then  Prime  Minister's  Office  for  Regional  Administration  and  Local Government (PMORALG) now the President's Office - Regional Administration and Local Government (PO-RALG); and
+- The then Prime Minister’s Office for Regional Administration and Local Government (PMO-RALG) now the President’s Office - Regional Administration and Local Government (PO-RALG); and
 
 - The then Ministry of Community Development, Gender and Children (MCDGC) which has now been merged with the Ministry of Health.
 
 The component of folk education was moved to MoEST at the beginning of 2016; hence education is now solely under the auspices of MoEST and PO-RALG.
 
-PO-RALG has been given a more pivotal role since it inherited the administration of secondary  education  from  MoEST  in  2008,  making  it  wholly  accountable  for  the implementation  of  basic  education.  Following  this,  in  2011  its  organizational structure was reviewed, creating the Basic Education Coordination Division (now called Department for Education Administration) to administer the delivery of preprimary, primary, adult and non-formal, and secondary education (URT, 2011).
+PO-RALG has been given a more pivotal role since it inherited the administration of secondary education from MoEST in 2008, making it wholly accountable for the implementation of basic education. Following this, in 2011 its organizational structure was reviewed, creating the Basic Education Coordination Division (now called Department for Education Administration) to administer the delivery of pre-primary, primary, adult and non-formal, and secondary education (URT, 2011).
 
 The role of the MoEST was adjusted accordingly, to focus on policy and planning, monitoring and evaluation and quality assurance, through school registration and supervision  and  inspection.  MoEST  also  retained  responsibility  for  TVET,  Higher Education and Teacher Education. It is furthermore primarily responsible for adult and non-formal education, providing it through the Institute of Adult Education.
 
@@ -5842,25 +6040,28 @@ These are responsible for coordinating, supervising and monitoring of supported 
 
 ##### 6.2.4 Ward Education Coordination
 
-The Ward Education Officer (WEO) is tasked with conducting regular whole school supervision and, working with the Head Teachers of schools in the ward, following up on implementation of the Whole School Plan. In turn, schools are supposed to provide periodic reports to the ward focussing on to what extent the School Plan has been implemented based on agreed school level indicators. Reporting templates are provided to ensure consistency in reports that are submitted to different levels.
+The Ward Education Officer (WEO) is tasked with conducting regular whole school supervision and, working with the Head Teachers of schools in the ward, following
 
 118
 
 [[END OF PAGE 136]]
 
 [[START OF PAGE 137]]
+up on implementation of the Whole School Plan. In turn, schools are supposed to provide periodic reports to the ward focussing on to what extent the School Plan has been implemented based on agreed school level indicators. Reporting templates are provided to ensure consistency in reports that are submitted to different levels.
 
 ##### 6.2.5 School Management Committees
 
 School  Management  Committees  (SMCs)  were  established  for  the  purpose  of supervising and advising on the management of pre-primary and primary schools. The Education Act of 1978 as amended in 1995, Section 39, states that:
 
-'There shall be established a School Committee for every pre-primary and primary school  responsible  for  the  management  and  maintenance  of  the  school.  In establishing  School  Committees  the  relevant  authority  shall  ensure  that  the community served by the school is represented. '
+“There shall be established a School Committee for every pre-primary and primary school responsible for the management and maintenance of the school. In establishing School Committees the relevant authority shall ensure that the community served by the school is represented.”
 
 The representation of the community in the School Committee presupposes that membership of the SMCs is inclusive of school staff and representatives from the community  surrounding  the  school.  It  also  presupposes  that  members  of  the Committee  are  chosen  by  the  community  in  collaboration  with  the  school leadership.
 
 Each  Pre-Primary  and  Primary  School  in  Tanzania  is  supposed  to  have  an operational SMC with the key role of ensuring the school, in collaboration with the community  served  by  the  school,  has  a  development  plan  that  is  effectively implemented and monitored.
 
-The  SMC ' s key functions have been described in the Primary Education Development Plan (PEDP I -2002-2006). PEDP further notes that SMCs have been given  authority  of  connecting  the  community  with  schools,  meaning  that  the community must effectively participate in looking for solutions to ensure learning achievements are attained. It also notes that SMCs need not to wait for directives from  higher  authorities  on  all  matters  but  need  to  use  their  mandate  to  call  on community participation on key aspects that will bring development to the School. According to the Circular released in 2016, SMCs comprise of 13 members.
+The SMC’s key functions have been described in the Primary Education Development Plan (PEDP I – 2002-2006). PEDP further notes that SMCs have been given authority of connecting the community with schools, meaning that the community must effectively participate in looking for solutions to ensure learning achievements are attained. It also notes that SMCs need not to wait for directives from higher authorities on all matters but need to use their mandate to call on community participation on key aspects that will bring development to the School.
+
+According to the Circular released in 2016, SMCs comprise of 13 members.
 
 ##### 6.2.6 School Management Team
 
@@ -5896,7 +6097,7 @@ Since  2006,  Monitoring  and  Evaluation  of  jointly  agreed  Sector  Performa
 
 The Basic Education Statistics for Tanzania (BEST) is the national abstract providing national level data on all sub sectors. PO-RALG publishes regional level data while also maintaining an online data management system that provides school level data.
 
-Sector wide data collection, processing, presentation and analysis is coordinated by the Monitoring and Evaluation Unit within the Department of Policy and Planning at MoEST. Data collection is done at different levels involving: PO-RALG for Basic and  Secondary  Education;  TCU  for  Higher  Education;  NACTE  for  Technical Education;  and  VETA  for  VET.  Various  other  agencies  also  provide  data,  in particular NECTA on examinations.  Annual school-level data for Basic Education and examination results are uploaded to the Governm ent of Tanzania's public Open Data Portal.
+Sector wide data collection, processing, presentation and analysis is coordinated by the Monitoring and Evaluation Unit within the Department of Policy and Planning at MoEST. Data collection is done at different levels involving: PO-RALG for Basic and Secondary Education; TCU for Higher Education; NACTE for Technical Education; and VETA for VET. Various other agencies also provide data, in particular NECTA on examinations. Annual school-level data for Basic Education and examination results are uploaded to the Government of Tanzania’s public Open Data Portal.
 
 In  2014  the  Government  decided  that  it  will  use  a  harmonised  online  system (Stateduc)  for  collection  and  sharing  of  education  data.  In  addition,  NECTA  is establishing  a  Records  Manager  that  will  provide  information  about  school candidates including on candidates' movement within the education system.
 
@@ -5914,17 +6115,17 @@ The annual Joint Education Sector Review (JESR) is the main event which brings t
 
 Monthly management meetings, which are attended by Department Directors and chaired by the Permanent Secretary of MoEST, provide the main forum at which progress reports of sub sector annual plans are reviewed. Also performance reviews involving  Development  Partners,  CSOs  and  the  Private  Sector  are  conducted quarterly.
 
-The ESDP implementation, monitoring and evaluation (M&E) framework identifies stakeholders responsible for managing implementation of the ESDP; routes through which partners will collaborate during implementation; and how -using which data management systems and processes -the plan will be monitored and evaluated.
+The ESDP implementation, monitoring and evaluation (M&E) framework identifies stakeholders responsible for managing implementation of the ESDP; routes through which partners will collaborate during implementation; and how – using which data management systems and processes – the plan will be monitored and evaluated.
 
 ##### 6.3.2 ESDP  Monitoring,  Review,  Evaluation  and  Learning  (MREL) Processes
 
 The MREL procedure will be an interrelated and sequential chain of continuous monitoring, annual reviews, short-term and system-wide evaluations. The MREL procedure will apply to all levels and sub-sectors.
 
-###### 6.3.2.1 Results Framework -Key Performance Indicators (KPIs)
+###### 6.3.2.1 Results Framework – Key Performance Indicators (KPIs)
 
 The collection,  use  and  reporting  of  performance  information against KPIs is an essential aspect of the framework for monitoring and evaluation. A set of KPIs will be used to monitor performance against the main outcomes expected under ESDP. The design of the KPIs relates directly to the agreed strategic education outcomes. These  indicators  are  taken  from  the  targets  included  in  priority  programme matrices. KPIs have been agreed upon by the stakeholders of ESDP, the community and the development partners.
 
-Though the KPIs reflect the range of different goals of the ESDP, such as improved access,  equity,  relevance,  quality  and  management,  these  are  relatively  few  in number, in recognition that the capacity of the monitoring and evaluation system is still being built. The results framework is based on reliable data and data collection methods  or  tools,  to  ensure  the  accuracy  and  credibility  of  the  reporting  and simplicity of data collection. The KPI table includes targets for 2020 and 2025, and indicates the level of disaggregation for each indicator. At present, targets have not been defined for KPIs for which there are no baseline data. This process will be finalized as part of the operationalization of the sub-sector plans, and the financial model will be adjusted accordingly. More detailed tables with yearly targets for the totals and the disaggregated indicators are to be found in the ESDP Monitoring and Evaluation  Framework  (see  separate  document)  and  indicative  annual  budgets disaggregated according to cost centres are set out in the ESDP Operational Plam (see separate document).
+Though the KPIs reflect the range of different goals of the ESDP, such as improved access, equity, relevance, quality and management, these are relatively few in number, in recognition that the capacity of the monitoring and evaluation system is
 
 121
 
@@ -5932,8 +6133,11 @@ Though the KPIs reflect the range of different goals of the ESDP, such as improv
 
 [[START OF PAGE 140]]
 
+still being built. The results framework is based on reliable data and data collection methods or tools, to ensure the accuracy and credibility of the reporting and simplicity of data collection. The KPI table includes targets for 2020 and 2025, and indicates the level of disaggregation for each indicator. At present, targets have not been defined for KPIs for which there are no baseline data. This process will be finalized as part of the operationalization of the sub-sector plans, and the financial model will be adjusted accordingly. More detailed tables with yearly targets for the totals and the disaggregated indicators are to be found in the ESDP Monitoring and Evaluation Framework (see separate document) and indicative annual budgets disaggregated according to cost centres are set out in the ESDP Operational Plam (see separate document).
+
+Table 6.1: Key Performance Indicators
+
 Disaggregation
---- | --- | --- | --- | --- | --- | ---
 Sex | Region | Baseline | 2020 | 2025
 Access and Equity in Basic and Secondary Education
 K01 % of Standard I pupils with at least one year of pre-primary education | Yes | Yes | 54.8 % | 87.5 % | 90 %
@@ -5941,7 +6145,7 @@ K02 Gross intake ratio to Standard I | Yes | Yes | 140 % | 96 % | 100 %
 K03 Gross Enrolment Ratio | Pre-Primary | Yes | Yes | 112 % | 114 % | 104 %
 Primary | Yes | Yes | 93 % | 109 % | 104 %
 Lower Secondary | Yes | Yes | 36 % | 50 % | 99 %
-K04 Net Rate | Pre-Primary | Yes | Yes | 44.6 % | 60.0 % | 90 %
+K04 Net Enrolment Rate | Pre-Primary | Yes | Yes | 44.6 % | 60.0 % | 90 %
 Primary | Yes | Yes | 84.0 % | 90.0 % | 95 %
 Lower Secondary | Yes | Yes | 33.4 % | 60.0 % | 75 %
 K05 Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) | Yes | Yes | 70 % | 92.4 % | 95 %
@@ -5955,8 +6159,6 @@ K11 PSLE Pass Rate | Yes | Yes | 70 % | 75 % | 80 %
 K12 CSEE Pass Rate | Yes | Yes | 71 % | 75 % | 78 %
 K13 % Std II learners achieving the national benchmark in reading with comprehension | Yes | Yes | 12 % | 30 % | 50 %
 
-Table 6.1:  Key Performance Indicators
-
 122
 
 [[END OF PAGE 140]]
@@ -5968,7 +6170,7 @@ Disaggregation
 Sex | Region | Baseline | 2020 | 2025
 K14 % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | Yes | Yes | 8 % | 20 % | 35 %
 Adult and Non-Formal Education
-K15 Total enrolment in adult and non- formal education | Yes | Yes | 890,000 | 1,130,000 | 1,450,000
+K15 Total enrolment in adult and non-formal education | Yes | Yes | 890,000 | 1,130,000 | 1,450,000
 K16 % adult learners achieving a basic level of proficiency in literacy and numeracy skills | Yes | Yes | ? | 70 % | 80 %
 TVET
 K17 Transition rate from Basic education (Form IV) to advanced secondary education and to TVET | Yes | Yes | 22.1% + 7.5% | 17% + 25% | 10% + 40%
@@ -5985,7 +6187,7 @@ K25 % of KPIs for which information is presented and analysed in the yearly stat
 K26 % of National Budget (excluding debt servicing) allocated to the education sector (total across all Ministries) | No | No | 24.8 % | 20.8 % | 21.3 %
 K27 % of annual education budget released and utilized | No | No | 88% | 80 % | 90 %
 
-The ESDP results framework has been inspired by the target indicators for SDG 4. KPIs  correspond  to  SDG  4  target  indicators  but  have  been  tailored  to  suit  the national context, for example: ' Proportion of children enrolled in Standard I with at least one year of pre-primary education ,' which corresponds to SDG 4 indicator 10; or ' Transition rate from Form IV to TVET institutions ,' which corresponds to SDG 4 indicator 14.
+The ESDP results framework has been inspired by the target indicators for SDG 4. KPIs correspond to SDG 4 target indicators but have been tailored to suit the national context, for example: ‘Proportion of children enrolled in Standard I with at least one year of pre-primary education,’ which corresponds to SDG 4 indicator 10; or ‘Transition rate from Form IV to TVET institutions,’ which corresponds to SDG 4 indicator 14.
 
 123
 
@@ -5995,21 +6197,21 @@ The ESDP results framework has been inspired by the target indicators for SDG 4.
 
 ###### 6.3.2.2 Sources of data for monitoring ESDP performance
 
-The Education Sector Management Information System (ESMIS) was introduced in 2007 in direct response to the need for sector-wide planning and budgeting within the MKUKUTA framework (JESR Aide Memoire, GoT 2006 and 2007) and as an 'in -built  monitoring  system' for  the  Education  Sector  Development  Programme  for 2008-2016 (JESR Aide Memoire, GoT 2008). 10
+The Education Sector Management Information System (ESMIS) was introduced in 2007 in direct response to the need for sector-wide planning and budgeting within the MKUKUTA framework (JESR Aide Memoire, GoT 2006 and 2007) and as an ‘in-built monitoring system’ for the Education Sector Development Programme for 2008-2016 (JESR Aide Memoire, GoT 2008).10
 
-At the central level, the ESMIS functions as a coordination tier, harmonizing subsystem data management and analysis with a view to producing the national sectorwide statistical abstract, Basic Education Statistics in Tanzania (BEST) on an annual basis.  The  ESMIS  currently  comprises  three  main  sub-systems,  each  intended  to address  the  data  requirements  of  the  basic  education,  vocational  education  and technical and higher education sub-sectors, respectively:
+At the central level, the ESMIS functions as a coordination tier, harmonizing sub-system data management and analysis with a view to producing the national sector-wide statistical abstract, Basic Education Statistics in Tanzania (BEST) on an annual basis. The ESMIS currently comprises three main sub-systems, each intended to address the data requirements of the basic education, vocational education and technical and higher education sub-sectors, respectively:
 
-- The Basic  Education  Management  Information  System  (BEMIS) currently managed  by  PO-RALG  and  consolidated  under  ESMIS  by  MoEST;  this processes school-level data through an annual census.
+i. The Basic Education Management Information System (BEMIS) currently managed by PO-RALG and consolidated under ESMIS by MoEST; this processes school-level data through an annual census.
 
-- The Vocational  Education  and  Training  Management  Information  System (VET-MIS) ,  currently managed by MoEST, in close collaboration with VETA and Folk Development Colleges (FDCs); this processes institutional-level data through an annual census.
+ii. The Vocational Education and Training Management Information System (VET-MIS), currently managed by MoEST, in close collaboration with VETA and Folk Development Colleges (FDCs); this processes institutional-level data through an annual census.
 
-- The Higher and Technical Education Management Information System (HETMIS) ,  currently managed by MoEST, in close collaboration with the technical institutes, colleges and universities under NACTE and TCU; this also processes institutional-level data through an annual census.
+iii. The Higher and Technical Education Management Information System (HET-MIS), currently managed by MoEST, in close collaboration with the technical institutes, colleges and universities under NACTE and TCU; this also processes institutional-level data through an annual census.
 
-In  addition to the  above,  two  prototype  district-level  database  applications  have been developed and tested between 2008 and 2013, using the StatEduc databasebuilder. These are:
+In addition to the above, two prototype district-level database applications have been developed and tested between 2008 and 2013, using the StatEduc database-builder. These are:
 
-- The Lifelong Learning Management Information System (LL-MIS) ;  while key adult and non-formal education indicators are measured using data collected during the school census, this system was designed to generate more detailed information to map the provision of lifelong learning at district level; and to monitor  a  wide  range  of  non-formal  learning  opportunities  offered  outside primary schools;
+iv. The Lifelong Learning Management Information System (LL-MIS); while key adult and non-formal education indicators are measured using data collected during the school census, this system was designed to generate more detailed information to map the provision of lifelong learning at district level; and to monitor a wide range of non-formal learning opportunities offered outside primary schools;
 
-- The Inspectorate  Management  Information  System  (IMIS) for  school-based quality  assurance  data;  this  system  was  designed  to  measure  quality  in  the
+v. The Inspectorate Management Information System (IMIS) for school-based quality assurance data; this system was designed to measure quality in the
 
 > 10  The system was developed with financial support from the European Commission and technical assistance provided by UIS (Memorandum of Understanding between GoT, EU, UNESCO, UNICEF, UNFPA, WFT, 2006).  All ESMIS sub-systems (BEMIS, VET-MIS and HET-MIS) have been developed using the StatEduc database builder, an open source license-free application, provided to GoT by UIS on request and currently used in some 20 countries in Sub-Saharan Africa.
 
@@ -6021,13 +6223,13 @@ In  addition to the  above,  two  prototype  district-level  database  applicati
 
 classroom, using a set of five benchmarks and a scoring rubric via classroom observation; and to identify remedial actions, which are flagged by low-scoring benchmarks  and  followed  up  by  school-based  management  to  improve  the quality of teaching and learning in the school.  Lessons from this pilot approach are now being incorporated into the new SQA and Schools Accreditation MIS system (see below).
 
-In  recent  years,  MoEST  and  PO-RALG  have  been  working  on  developing  and testing an integrated School Information System , which feeds in real-time data in a single  mobile  application.  Schools  and  WEOs  can  capture  data  either  online  or offline,  using  smartphones,  tablets  or  laptops.  This  is  being  further  enhanced, drawing on good-practice exemplars of school information systems developed by DP-supported  projects  and  mainstreamed  into  ESMIS,  to  support  school-based management and learning outcome assessment.
+In recent years, MoEST and PO-RALG have been working on developing and testing an integrated School Information System, which feeds in real-time data in a single mobile application. Schools and WEOs can capture data either online or offline, using smartphones, tablets or laptops. This is being further enhanced, drawing on good-practice exemplars of school information systems developed by DP-supported projects and mainstreamed into ESMIS, to support school-based management and learning outcome assessment.
 
 MoEST is currently developing a new MIS that will capture data from the Schools Accreditation and Schools Quality Assurance systems, both of which have hitherto been paper-based systems.
 
-Further  linkages  will  developed  between  the  ESMIS  sub-systems  and  related databases,  including  for  example,  NECTA  (PREM-National  Examinations);  POPSM (HR-MIS);  and  PO-RALG-systems  (EPICOR).  Data  management  under  the Directorate of Policy and Planning (DPP, MoEST) will benefit from partnership with the  E-Government  Agency  (EGA),  for  single-server  maintenance;  and  the  Open Data Initiative for improved online reporting.
+Further linkages will developed between the ESMIS sub-systems and related databases, including for example, NECTA (PREM-National Examinations); PO-PSM (HR-MIS); and PO-RALG-systems (EPICOR). Data management under the Directorate of Policy and Planning (DPP, MoEST) will benefit from partnership with the E-Government Agency (EGA), for single-server maintenance; and the Open Data Initiative for improved online reporting.
 
-Additional surveys, studies and evaluations -both internal and external -will be commissioned where necessary. The results framework identifies KPIs which utilize data  collected  by  means  other  than  the  school/institution  census  for  basic, vocational,  technical,  and  higher  education.  Within  the  framework  of  country support for implementing the Education 2030 Agenda, partners will provide ESDP management with technical guidance and tools, where required.
+Additional surveys, studies and evaluations – both internal and external – will be commissioned where necessary. The results framework identifies KPIs which utilize data collected by means other than the school/institution census for basic, vocational, technical, and higher education. Within the framework of country support for implementing the Education 2030 Agenda, partners will provide ESDP management with technical guidance and tools, where required.
 
 ##### 6.3.3 Lesson Learning and Dissemination
 
@@ -6051,7 +6253,7 @@ Apart from regular monitoring, research and studies should be conducted both to 
 
 ###### 6.4.1.1 Education Sector Development Programme
 
-Within the education sector, the Education Sector Development Programme (ESDP) 2008-2017  outlined  the  structure  and  processes  for  sector  dialogue  in  Mainland Tanzania. This dialogue is led by the Government (Ministry of Education, Science and Technology (MoEST) and the President's Office Regional Administration and Local Government (PO-RALG)) in collaboration with Development Partners (DPs) and Non-State Actors (NSAs) who are key stakeholders in the Education Sector Dialogue.
+Within the education sector, the Education Sector Development Programme (ESDP) 2008-2017 outlined the structure and processes for sector dialogue in Mainland Tanzania. This dialogue is led by the Government (Ministry of Education, Science and Technology (MoEST) and the President’s Office – Regional Administration and Local Government (PO-RALG)) in collaboration with Development Partners (DPs) and Non-State Actors (NSAs) who are key stakeholders in the Education Sector Dialogue.
 
 In the context of managing the ESDP and enhancing the educational dialogue, there were  a  number  of  Committees  including:  Inter-Ministerial  Steering  Committee; Joint  Education  Sector  Working  Group  (JESWG);  Education  Sector  Development Committee (ESDC) and Subsector Task Force; and Sub-Sector Technical Working Groups.
 
@@ -6071,29 +6273,29 @@ Issues  that  have  been  discussed  and  agreed  upon  at  the Education  Secto
 
 The existing dialogue structure has played a significant role in fostering collaboration  among  key  education  stakeholders,  i.e.  Government,  Development Partners and NSAs. Achievements attained include:
 
-- Joint discussions on education priorities.
+i. Joint discussions on education priorities.
 
-- Identification of challenges facing the education sector, finance budget deficit/ gap,  and  proposal  of  interventions  such  as  GPE-LANES,  BRN  Education Program for Results (BRNEd P4R), etc.
+ii. Identification of challenges facing the education sector, finance budget deficit/ gap, and proposal of interventions such as GPE-LANES, BRN Education Program for Results (BRNEd P4R), etc.
 
-- Through  this  dialogue  structure  a  number  of  research  studies  have  been undertaken and discussed at different levels, e.g. study on Human Resources Situation Analysis, Public Expenditure Tracking Study (PETS), Education Sector Analysis  (ESA),  Technical  and  Vocational  Education  and  Training  (TVET) Analysis,  TDMS,  a  Study  on  Teacher  Resources  Centres  (TRCs),  In-Service Teachers  Training  (INSET),  3Rs  Assessments,  Unit  Cost  for  Basic  Education (Primary & Secondary), just to mention a few.
+iii. Through this dialogue structure a number of research studies have been undertaken and discussed at different levels, e.g. study on Human Resources Situation Analysis, Public Expenditure Tracking Study (PETS), Education Sector Analysis (ESA), Technical and Vocational Education and Training (TVET) Analysis, TDMS, a Study on Teacher Resources Centres (TRCs), In-Service Teachers Training (INSET), 3Rs Assessments, Unit Cost for Basic Education (Primary & Secondary), just to mention a few.
 
-- Conducting  joint  field  visits  between  the  Government  and  key  education stakeholders to get updates on emerging issues.
+iv. Conducting joint field visits between the Government and key education stakeholders to get updates on emerging issues.
 
 ###### 6.4.1.3 Challenges
 
 Despite  the  achievements  mentioned  earlier,  there  is  general  agreement  that  the current dialogue structure in the education sector is not functioning as it should. The  Education  Sector  Development  Committee  charged  with  monitoring  of  the ESDP has largely  ceased  to  function  and  did  not  meet  its  original  mandates.  A number of significant challenges have been experienced including:
 
-- Quarterly ESDC and Technical Working Group (TWG) meetings do not take place as per schedule;
+i. Quarterly ESDC and Technical Working Group (TWG) meetings do not take place as per schedule;
 
-- Participation is often delegated to different individuals with various levels of corporate memory and usually very little decision-making power. It is not clear whether  messages  and  recommendations  are  regularly  communicated  to decision-makers;
+ii. Participation is often delegated to different individuals with various levels of corporate memory and usually very little decision-making power. It is not clear whether messages and recommendations are regularly communicated to decision-makers;
 
-- Discussion often revolves around the process of  achieving  various priorities, rather than the substantive issues related to those priorities;
+iii. Discussion often revolves around the process of achieving various priorities, rather than the substantive issues related to those priorities;
 
-- Many of the issues that DPs and NSAs would like to discuss in greater detail are areas where performance is low.  This is often perceived by the GoT as criticism, rather than an opportunity for constructive collaboration;
+iv. Many of the issues that DPs and NSAs would like to discuss in greater detail are areas where performance is low. This is often perceived by the GoT as criticism, rather than an opportunity for constructive collaboration;
 
-- Many meetings are held with limited tangible  results,  considering  value  for money and the time invested;
+v. Many meetings are held with limited tangible results, considering value for money and the time invested;
 
-- Many  policy  decisions  and  JESR  recommendations  are  made  but  their implementation is not adequately monitored, nor results reported;
+vi. Many policy decisions and JESR recommendations are made but their implementation is not adequately monitored, nor results reported;
 
 127
 
@@ -6101,71 +6303,39 @@ Despite  the  achievements  mentioned  earlier,  there  is  general  agreement  
 
 [[START OF PAGE 146]]
 
-- Multiple  government ministries  are  engaged  and  involved  at  various  levels, with competing interests, different and at times conflicting interpretations of and configurations for the delivery of the education portfolio.
+vii. Multiple government ministries are engaged and involved at various levels, with competing interests, different and at times conflicting interpretations of and configurations for the delivery of the education portfolio.
 
 ##### 6.4.2 Re-Conceptualizing the Sector Dialogue Framework
 
 The  purpose  of  sector  dialogue  is  to  promote  and  advance  coherence  in  the relationships  of  accountability  between  the  government  on  the  one  hand  and education sector stakeholders on the other. Without such coherence, the attainment of policy objectives can be limited.
 
-The synergies between stakeholder engagements and convergence of interests in the sector may be incongruent. There is also the question of the relative 'weight' of the perspectives  and  propositions  of  each  of  the  stakeholders.  Parents  (and  indeed students)  are  major  stakeholders  yet  Tanzania  does  not  have  a  national  parent association whereby the concerns of parents as well as the poor, marginalized and excluded  populations  can  be  brought  to  the  national  policy  decision  making platform. This is an important issue, but there are two contrasting interpretations, which may be summarized in the terms 'influence'  and  'representa tion '.  Donors may  have  much  influence,  but  are  not  representative  of  the  larger  stakeholder population, while the opposite may be true for parents' associations. Furthermore different  stakeholders  have  different  roles,  capacities  and  political  interests.  A dialogue structure that does not take these differences into account is unlikely to function effectively. There is therefore a need to re-conceptualize sector dialogue relationships.  Figure  6.1  below  attempts  to  capture  the  essential  elements  of  an education sector dialogue structure.
+The synergies between stakeholder engagements and convergence of interests in the sector may be incongruent. There is also the question of the relative ‘weight’ of the perspectives and propositions of each of the stakeholders. Parents (and indeed students) are major stakeholders yet Tanzania does not have a national parent association whereby the concerns of parents as well as the poor, marginalized and excluded populations can be brought to the national policy decision making platform. This is an important issue, but there are two contrasting interpretations, which may be summarized in the terms ‘influence’ and ‘representation’. Donors may have much influence, but are not representative of the larger stakeholder population, while the opposite may be true for parents’ associations. Furthermore different stakeholders have different roles, capacities and political interests. A dialogue structure that does not take these differences into account is unlikely to function effectively. There is therefore a need to re-conceptualize sector dialogue relationships. Figure 6.1 below attempts to capture the essential elements of an education sector dialogue structure.
 
-Figure 6.1:  Essential Elements of a Dialogue Structure
+Figure 6.1: Essential Elements of a Dialogue Structure
 
 KEY DIALOGUE ELEMENTS
 
-128
+Academia etc.
 
-NSAs
+Research and Analysis
 
 Government
 
-Citizens of
+Legitimacy and guarantor of right to education
 
-Tanzania
+External Finance & Technical Support (DPs)
 
-Academia
+Citizens of Tanzania
 
-etc.
+Client/main stakeholder
 
-Advocacy
+NSAs
 
-mobilizatio
+Advocacy mobilization
 
-n
+Local knowledge experience
 
-Local
-
-knowledge
-
-experience
-
-Client/mai
-
-n
-
-stakeholde
-
-Legitimacy and
-
-guarantor of
-
-right to
-
-education
-
-External Finance
-
-& Technical
-
-Support (DPs)
-
-Researc
-
-h and
-
-Analysi
-
-s
+128
 
 [[END OF PAGE 146]]
 
@@ -6175,13 +6345,13 @@ The Government is the main stakeholder, committed to delivering on the Global Ed
 
 The Government is accountable to the people of Tanzania and it is obliged to ensure every citizen has the right to a quality education. This is achieved through a clear relationship  of  accountability  between  the  Government  and  its  citizens.  This relationship can be built and nurtured through a partnership and dialogue between Government on the one hand and the broad range of stakeholders, most notably NSAs  (CSOs,  NGOs,  Faith-Based  Organizations  (FBOs)  and  the  private  sector), Development Partners, and the learners themselves and their families.
 
-Traditionally, dialogue was considered a matter of concern only for the Government and  its  external  partners.  In  some  cases -for  example  during  the  Structural Adjustment era in the 1990s -it  was  more  a  matter  of  imposition  than  genuine dialogue. However, developments such as the Paris Declaration on Aid Effectiveness and follow up declarations in Accra and Busan, helped redress this imbalance by asserting the sovereign rights of national authorities and of respect for and  support  to  nationally  owned  development  plans.  Increasingly  too,  nations around the world are recognizing the importance of building a voice within civil society to hold governments accountable for the results accruing from the policies and  plans  that  they  implement  using  domestic  as  well  as  externally  generated resources. The Government has its own development plans such as the Five-Year Development Plan (FYDP) II which govern the various sector policies.
+Traditionally, dialogue was considered a matter of concern only for the Government and its external partners. In some cases – for example during the Structural Adjustment era in the 1990s – it was more a matter of imposition than genuine dialogue. However, developments such as the Paris Declaration on Aid Effectiveness and follow up declarations in Accra and Busan, helped redress this imbalance by asserting the sovereign rights of national authorities and of respect for and support to nationally owned development plans. Increasingly too, nations around the world are recognizing the importance of building a voice within civil society to hold governments accountable for the results accruing from the policies and plans that they implement using domestic as well as externally generated resources. The Government has its own development plans such as the Five-Year Development Plan (FYDP) II which govern the various sector policies.
 
 In  principal,  a  functional  dialogue  is  based  on  human  values  including  trust, openness, acceptance of accountability and mutual respect. Moreover, real dialogue is founded on valid and reliable information, which is provided by EMIS (and in particular reporting on progress on Key Performance Indicators), by studies and research.
 
-Another  main  pre-condition  for  an  effective  dialogue  structure  is  strong  and committed government leadership. In Tanzania ' s case this is coordinated leadership by  the  two  ministries  (MoEST  and  PO-RALG)  charged  with  the  country-wide provision  of  education  to  the  children,  youth  and  adults.  This  requires  strong leadership,  respect  for  that  leadership,  delegation  of  responsibilities  in  decision making,  communication,  the  flow  of  information,  constructive  engagement  in planning and financing.
+Another main pre-condition for an effective dialogue structure is strong and committed government leadership. In Tanzania’s case this is coordinated leadership by the two ministries (MoEST and PO-RALG) charged with the country-wide provision of education to the children, youth and adults. This requires strong leadership, respect for that leadership, delegation of responsibilities in decision making, communication, the flow of information, constructive engagement in planning and financing.
 
-Without these values, it does not really matter what kind of structure is proposed. An  effective  structure  then  is  one  which  provides  the  necessary  forum -or scaffolding -for  an  effective  relationship  of  accountability  achieved  through dialogue and partnership on all key aspects of education in Tanzania.
+Without these values, it does not really matter what kind of structure is proposed. An effective structure then is one which provides the necessary forum – or scaffolding – for an effective relationship of accountability achieved through dialogue and partnership on all key aspects of education in Tanzania.
 
 129
 
@@ -6189,13 +6359,13 @@ Without these values, it does not really matter what kind of structure is propos
 
 [[START OF PAGE 148]]
 
-Over the years much of the dialogue has revolved around implementation issues and seldom reflects on wider issues, such as the determining factors in educational achievement, findings of key research, poverty reduction, curriculum and international education standards.  The quality of leadership and the governance structures set up at all levels to deliver and account for results also influence the quality  of  dialogue.  The  2016  sector  context  has  evolved  considerably  since  the inception  of  the  current  ESDP,  which  was  first  launched  in  1997.  Factors  which impact on the  style  and  substance  of  stakeholder  dialogue  within  the  education sector include the following: Tanzania ' s new development policy reflects a major shift  from  traditional  aid  modalities  (e.g.  budget  support,  projects,  etc.)  to  trade development, or ' trade not aid ' ; an updated Education and Training Policy (ETP) revised in 2014 and a sector plan expected to be delivered more efficiently through five major national programmes over a period of four to five years; and the changing nature and composition of education partners over the years to include both the traditional and  newer  non-traditional partners (such as the private sector, technology/media companies, research institutions and other national and international technical consortia/institutions etc.).
+Over the years much of the dialogue has revolved around implementation issues and seldom reflects on wider issues, such as the determining factors in educational achievement, findings of key research, poverty reduction, curriculum and international education standards. The quality of leadership and the governance structures set up at all levels to deliver and account for results also influence the quality of dialogue. The 2016 sector context has evolved considerably since the inception of the current ESDP, which was first launched in 1997. Factors which impact on the style and substance of stakeholder dialogue within the education sector include the following: Tanzania’s new development policy reflects a major shift from traditional aid modalities (e.g. budget support, projects, etc.) to trade development, or ‘trade not aid’; an updated Education and Training Policy (ETP) revised in 2014 and a sector plan expected to be delivered more efficiently through five major national programmes over a period of four to five years; and the changing nature and composition of education partners over the years to include both the traditional and newer non-traditional partners (such as the private sector, technology/media companies, research institutions and other national and international technical consortia/institutions etc.).
 
-Another major shift was the Government ' s  commitment to the Big Results Now (BRN) initiative in 2013, which entailed a strong emphasis on quick and measurable results and accountability. This mind-set has continued, despite the end of the BRN initiative. Another shift is that modalities such as general budget support (GBS) and sector budget support (SBS) are no longer the mechanism of choice for many DPs, and  have  been  replaced  by  large-scale  projects,  which  often  face  challenges  in aligning and coordinating with Government programmes or each other.
+Another major shift was the Government’s commitment to the Big Results Now (BRN) initiative in 2013, which entailed a strong emphasis on quick and measurable results and accountability. This mind-set has continued, despite the end of the BRN initiative. Another shift is that modalities such as general budget support (GBS) and sector budget support (SBS) are no longer the mechanism of choice for many DPs, and have been replaced by large-scale projects, which often face challenges in aligning and coordinating with Government programmes or each other.
 
 Some  of  the  projects  have  set  up  parallel  dialogue  structures  (e.g.  Steering Committees,  programme  monitoring,  project-based  reviews  and  evaluations)  to facilitate dialogue between ministries, non state actors and development partners. However, these are programmes and projects which are localized, and which offer effective models but which are often not taken to scale nationally and in some cases, do not address all the intra and inter-sectoral issues.
 
-A further significant change is the implementation of decentralization policy and systemic re-structuring. PO-RALG is now fully accountable for the implementation of Basic Education, while MoEST ' s role focuses on policy, regulation, monitoring and evaluation and quality assurance. In light of this, two main challenges need to be faced: intra-ministerial coordination within each of the two main ministries; and inter-ministerial coordination , whereby the two main ministries work together on key common areas of concern, especially on planning and budgeting. It will be necessary to clearly define who is accountable to whom for sector/subsector results.
+A further significant change is the implementation of decentralization policy and systemic re-structuring. PO-RALG is now fully accountable for the implementation of Basic Education, while MoEST’s role focuses on policy, regulation, monitoring and evaluation and quality assurance. In light of this, two main challenges need to be faced: intra-ministerial coordination within each of the two main ministries; and inter-ministerial coordination, whereby the two main ministries work together on key common areas of concern, especially on planning and budgeting. It will be necessary to clearly define who is accountable to whom for sector/subsector results.
 
 Given  the  structural  challenges  there  is  a  need  for  the  ministries  to  be  well acquainted  with  the  current  priorities  of  the  Government  and  for  the  education sector to  have  capacity  to  engage  the  public  on  all  the  relevant areas of responsibility.
 
@@ -6211,93 +6381,42 @@ Given  the  structural  challenges  there  is  a  need  for  the  ministries  to
 
 The new Education Sector Dialogue Structure has considered the following criteria:
 
-- Clarity: clarity in delegation of responsibilities and decision making
+i. Clarity: clarity in delegation of responsibilities and decision making
 
-- Workable: a limited number of meetings, a wide but streamlined stakeholder representation, clear government leadership and clear roles for all elements of the structure
+ii. Workable: a limited number of meetings, a wide but streamlined stakeholder representation, clear government leadership and clear roles for all elements of the structure
 
-- Dynamic: being results focused and action oriented
+iii. Dynamic: being results focused and action oriented
 
-- Flexible: having the capacity to respond effectively to critical issues
+iv. Flexible: having the capacity to respond effectively to critical issues
 
-- Effective communication and information flow
+v. Effective communication and information flow
 
-- Alignment with and responsiveness to the priority programmes of the sector plan
+vi. Alignment with and responsiveness to the priority programmes of the sector plan
 
 ###### 6.4.3.2 Dialogue structure
 
 The proposed Dialogue Structure will have two levels namely: high level structure and technical working groups' structure.
 
-Figure 6.2:  High Level Structure
+Figure 6.2: High Level Structure
 
 HIGH LEVEL STRUCTURE
 
-131
-
 Government of Tanzania
-
 Cabinet Discussions on Education
-
-Inter-Ministerial Education Steering
-
-Committee (IMESC)
-
-PSs of MoEST/PO-RALG and other
-
-relevant Ministries (e.g. MoFP)
-
-High Level
-
-Meeting
-
-Heads of
-
-Government
-
-Sectors
-
-(Ministers),
-
-Heads of
-
-Cooperation and
-
-Heads of Non
-
-State Actors
-
-Policy, Strategic
-
-Planning and
-
-Budgetary
-
-Decision Making
-
-Level
-
 Political Level
 
-High level
+High Level Meeting
+Heads of Government Sectors (Ministers), Heads of Cooperation and Heads of Non State Actors
 
-discussion forum
+Inter-Ministerial Education Steering Committee (IMESC)
+PSs of MoEST/PO-RALG and other relevant Ministries (e.g. MoFP)
+Policy, Strategic Planning and Budgetary Decision Making Level
 
-for all sub sectors.
+Education Sector Development Committee (ESDC)
+PS/Commissioner, Director Generals, Representatives from Technical Working Groups, DPs and NSAs
+High level discussion forum for all sub sectors. Advisory functions informed by TWGs/WGs
 
-Advisory functions
-
-informed by
-
-TWGs/WGs
-
-Education Sector Development
-
-Committee (ESDC)
-
-PS/Commissioner, Director Generals,
-
-Representatives from Technical Working
-
-Groups, DPs and NSAs
+131
 
 [[END OF PAGE 149]]
 
@@ -6313,9 +6432,9 @@ This is a top forum which brings together Heads of Government Sectors (Ministers
 
 The major functions of this forum include:
 
-- Approval of sector documents such as Aide Memoire, policies and strategies.
+i. Approval of sector documents such as Aide Memoire, policies and strategies.
 
-- Mark  the  end  of  the  Joint  Education  Sector  Review  by  approving  sector priorities.
+ii. Mark the end of the Joint Education Sector Review by approving sector priorities.
 
 The High Level Committee will convene once in a year at a specified date and venue, immediately after the JESR.
 
@@ -6325,11 +6444,11 @@ This is second from the top in the dialogue structure. This Committee comprises 
 
 The major functions of this Committee are:
 
-- To prepare the agenda for High Level meeting based on key issues emanating from the ESDC;
+i. To prepare the agenda for High Level meeting based on key issues emanating from the ESDC;
 
-- To endorse documents for High Level meeting approval; and
+ii. To endorse documents for High Level meeting approval; and
 
-- To review the performance of the sector projects and programmes.
+iii. To review the performance of the sector projects and programmes.
 
 This meeting will convene before and after the JESR at a specified date and venue.
 
@@ -6339,7 +6458,7 @@ The  Education  Sector  Development  Committee  plays  an  advisory  role  on  i
 
 Therefore, among its key functions, the ESDC will:
 
-- Ensure that education sector plans are in line with Government policy;
+i. Ensure that education sector plans are in line with Government policy;
 
 132
 
@@ -6347,33 +6466,33 @@ Therefore, among its key functions, the ESDC will:
 
 [[START OF PAGE 151]]
 
-- Identify  needs  for  technical  and  financial  resources  to  support  education programmes across the sector;
+ii. Identify needs for technical and financial resources to support education programmes across the sector;
 
-- Review  programme  targets  annually  in  order  to  assess  progress  and  set priorities and targets for the following year;
+iii. Review programme targets annually in order to assess progress and set priorities and targets for the following year;
 
-- Review policy and programmatic recommendations from Technical Working Groups and provide decisions or guidance to the Ministries ' Senior Management for  decision making and setting of strategies; and
+iv. Review policy and programmatic recommendations from Technical Working Groups and provide decisions or guidance to the Ministries’ Senior Management for decision making and setting of strategies; and
 
-- Collect and communicate education information among education stakeholders.
+v. Collect and communicate education information among education stakeholders.
 
 The  Education  Sector  Development  Committee  will  meet  quarterly  and  will  be comprised of the following members:
 
-- Permanent Secretary, MoEST (Chair);
+i. Permanent Secretary, MoEST (Chair);
 
-- Permanent Secretary, PO-RALG (Co-Chair);
+ii. Permanent Secretary, PO-RALG (Co-Chair);
 
-- Commissioner of Education;
+iii. Commissioner of Education;
 
-- Directors and Heads of Allied Institutions -MoEST;
+iv. Directors and Heads of Allied Institutions – MoEST;
 
-- Directors responsible for Education Administration -PO-RALG;
+v. Directors responsible for Education Administration – PO-RALG;
 
-- Representatives from NSAs;
+vi. Representatives from NSAs;
 
-- Representatives from Development Partners;
+vii. Representatives from Development Partners;
 
-- A Representative from the Teachers' Union ; and
+viii. A Representative from the Teachers’ Union; and
 
-- A Representative from the Private Sector.
+ix. A Representative from the Private Sector.
 
 The  ESDC  will  hold  its  meeting  quarterly.  However,  extraordinary  or  ad  hoc meetings may be held in case the need arises.
 
@@ -6401,61 +6520,49 @@ The Task Force will:
 
 This Task Force will be composed of:
 
-- Commissioner for Education;
+i. Commissioner for Education;
 
-- Chairs of Technical Working Groups;
+ii. Chairs of Technical Working Groups;
 
-- Directors/Heads of Units and Projects and Programmes;
+iii. Directors/Heads of Units and Projects and Programmes;
 
-- Directors from Allied Institutions;
+iv. Directors from Allied Institutions;
 
-- Representatives from the DPs; and
+v. Representatives from the DPs; and
 
-- Representatives from NSAs.
+vi. Representatives from NSAs.
 
 This meeting, will be planned to meet quarterly, taking into account the timing for key planning and budget sessions. The meeting will be chaired by the Commissioner for Education.
 
 ###### ESDC Technical Working Groups
 
-The  Technical  working  groups  will  have  the  role  of  both  informing  the  ESDC quarterly meetings and implementing the decisions reached by the ESDC. These will  provide  a  forum  for  technical  staff  to  deliberate  on  the  priorities,  actions, studies, research and recommendations that will facilitate progress in the education sector. Three Technical Working Groups will operate throughout the year: 12
+The Technical working groups will have the role of both informing the ESDC quarterly meetings and implementing the decisions reached by the ESDC. These will provide a forum for technical staff to deliberate on the priorities, actions, studies, research and recommendations that will facilitate progress in the education sector. Three Technical Working Groups will operate throughout the year:12
 
-- Access and Quality Improvement;
+1. Access and Quality Improvement;
 
-- Monitoring and Evaluation, and Learning; and
+2. Monitoring and Evaluation, and Learning; and
 
-- Resource Allocation, Cost Efficiency and Financing (RACEF).
+3. Resource Allocation, Cost Efficiency and Financing (RACEF).
 
 See Figure 6.3.
 
-Figure 6.3:  Technical Working Groups
-
-134
-
-Access & Quality
-
-Improvement TWG
-
-Monitoring and
-
-Evaluation TWG
-
-Resource Allocation,
-
-Cost Efficiency and
-
-Financing TWG
-
-Education Sector
-
-Development Committee
-
-Inter-Ministerial
-
-Education Committee
+Figure 6.3: Technical Working Groups
 
 Cabinet level
 
-> 12  This represents a significant reduction in the number of TWGs which reached as high as eight TWGs in the recent past, but were not found to meet regularly or to have full participation of all stakeholders
+Inter-Ministerial Education Committee
+
+Education Sector Development Committee
+
+Access & Quality Improvement TWG
+
+Monitoring and Evaluation TWG
+
+Resource Allocation, Cost Efficiency and Financing TWG
+
+12 This represents a significant reduction in the number of TWGs which reached as high as eight TWGs in the recent past, but were not found to meet regularly or to have full participation of all stakeholders
+
+134
 
 [[END OF PAGE 152]]
 
@@ -6481,7 +6588,7 @@ In  implementing  the  above,  the  TWGs  represent  one  of  the  foremost  mod
 
 ###### Joint Education Sector Review (JESR) Technical Working Session
 
-The annual Joint Education Sector Review Technical Working Session (JESR-TWS) will be a high level technical working session that brings together a broad spectrum of education stakeholders to receive and review the status of ESDP performance and make recommendations accordingly.  The JESR will:
+The annual Joint Education Sector Review Technical Working Session (JESR-TWS) will be a high level technical working session that brings together a broad spectrum
 
 135
 
@@ -6489,11 +6596,13 @@ The annual Joint Education Sector Review Technical Working Session (JESR-TWS) wi
 
 [[START OF PAGE 154]]
 
-- Facilitate assessment of the performance of the education sector in terms of the effectiveness  of  budgeting  and  expenditures  as  well  as  overall  progress  in implementing the ESDP against the agreed indicators, priorities and targets;
+of education stakeholders to receive and review the status of ESDP performance and make recommendations accordingly. The JESR will:
 
-- Provide fora for various stakeholders to monitor progress and offer constructive criticism; and
+i. Facilitate assessment of the performance of the education sector in terms of the effectiveness of budgeting and expenditures as well as overall progress in implementing the ESDP against the agreed indicators, priorities and targets;
 
-- Facilitate discussion and ideas/knowledge-sharing to guide the sector plans for the upcoming year.
+ii. Provide fora for various stakeholders to monitor progress and offer constructive criticism; and
+
+iii. Facilitate discussion and ideas/knowledge-sharing to guide the sector plans for the upcoming year.
 
 Specifically, the JESR's functions include:
 
@@ -6505,7 +6614,7 @@ Specifically, the JESR's functions include:
 
 - Assessing the effectiveness of sector dialogue and issues discussed at ESDC and TWGs.
 
-JESRs will take place between the months of September and October.  This timing will  enable  data  from  the  current  year's  school  cens us/Education  Management Information System (EMIS) to inform the dialogue, and will allow JESR recommendations to influence the budget deliberations for the forthcoming fiscal year.
+JESRs will take place between the months of September and October. This timing will enable data from the current year’s school census/Education Management Information System (EMIS) to inform the dialogue, and will allow JESR recommendations to influence the budget deliberations for the forthcoming fiscal year.
 
 The JESR will produce an Aide Memoire that captures the recommendations of the meeting.    JESR  Participation  will  include  a  wide  spectrum  of  stakeholders  from government, private sector, civil society, and development partners. The recommendations from the JESR will be factored into the following year's MTEF.
 
@@ -6525,32 +6634,32 @@ The projected costs for ESDP are aligned on the perimeter of the education secto
 
 Budget figures do not include those projects funded from foreign sources which are not managed through the Government budget. The projected costs for ESDP include all on-budget and off-budget projects within the planned activities. The perimeter is then the Government budget plus off-budget projects.
 
-2017/18 Approved Budget
---- | --- | --- | --- | --- | --- | ---
-VOTE No. | Education Sector | TOTAL RECURRENT EXPENDITURE | DEVELOPMENT EXPENDITURE | TOTAL DEV 'T EXPENDITURE | TOTAL BUDGET
-LOCAL | FOREIGN
-02 | Teachers Service Commission | 12,422 | - | 12,422
-18 | UNESCO Commission | 663 | - | 663
-21 | Special Expenditures-Examination-NECTA | 36,756 | - | 36,756
-IRDP | 7,599 | 1,000 | 1,000 | 8,599
-46 | Ministry of Education and Vocational Training | 419,843 | 606,770 | 310,072 | 916,842 | 1,336,685
-Ministry of Finances and Planning
-NBAA | 1,510 | - | 1,510
-50 | IAA | 4,547 | - | 4,547
-IFM | 8,436 | - | 8,436
-TIA | 4,390 | - | 4,930
-53 | Min.of Community Dev. Women & Children (Community Training and Development) | 12,773 | - | 12,773
-PMO RALG - grants to Academic Institutions | 15,117 | - | 15,117
-56 | PMO RALG - Basic Education Coordination | 12,548 | 14,305 | 14,305 | 26,853
-Region | Basic Education Divisions | 10,862 | 500 | 500 | 11,362
-s | Grants to Local Governments | 3,024,582 | 201,665 | 201,665 | 3,226,247
-Total Education Sector | 3,572,049 | 809,935 | 324,377 | 1,134,313 | 4,706,362
-
-Table 7.1:  Government expenditure for Education, 2017-18
-
-Source: Ministry of Finance and Planning
+Table 7.1: Government expenditure for Education, 2017-18
 
 Million TZS
+
+2017/18 Approved Budget
+
+VOTE No. | Education Sector | TOTAL RECURRENT EXPENDITURE | DEVELOPMENT EXPENDITURE |  | TOTAL DEV’T EXPENDITURE | TOTAL BUDGET
+ |  |  | LOCAL | FOREIGN |  | 
+02 | Teachers Service Commission | 12,422 |  |  | - | 12,422
+18 | UNESCO Commission | 663 |  |  | - | 663
+21 | Special Expenditures-Examination-NECTA | 36,756 |  |  | - | 36,756
+ | IRDP | 7,599 | 1,000 |  | 1,000 | 8,599
+46 | Ministry of Education and Vocational Training | 419,843 | 606,770 | 310,072 | 916,842 | 1,336,685
+50 | Ministry of Finances and Planning |  |  |  |  | 
+ | NBAA | 1,510 |  |  | - | 1,510
+ | IAA | 4,547 |  |  | - | 4,547
+ | IFM | 8,436 |  |  | - | 8,436
+ | TIA | 4,390 |  |  | - | 4,930
+53 | Min.of Community Dev. Women & Children (Community Training and Development) | 12,773 |  |  | - | 12,773
+56 | PMO RALG - grants to Academic Institutions | 15,117 |  |  | - | 15,117
+ | PMO RALG - Basic Education Coordination | 12,548 |  | 14,305 | 14,305 | 26,853
+Regions | Basic Education Divisions | 10,862 | 500 |  | 500 | 11,362
+ | Grants to Local Governments | 3,024,582 | 201,665 |  | 201,665 | 3,226,247
+ | Total Education Sector | 3,572,049 | 809,935 | 324,377 | 1,134,313 | 4,706,362
+
+Source: Ministry of Finance and Planning
 
 137
 
@@ -6604,6 +6713,8 @@ The chapter is structured as follows. The first section introduces the quantitat
 
 The National Bureau of Statistics provides population projections by age based on the 2012 population census. In Mainland Tanzania population will continue to grow at a high rate; in aggregate, the young population aged 5 to 19 would be increase by 15% between 2016 and 2021.
 
+Table 7.2: School age population estimates, Tanzania Mainland
+
 Reference age groups | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2025
 --- | --- | --- | --- | --- | --- | --- | ---
 Age 6 (Pre-primary) | 1,415,087 | 1,279,812 | 1,381,415 | 1,648,776 | 1,698,131 | 1,751,604 | 1,919,326
@@ -6611,8 +6722,6 @@ Age 7 (Intake Primary) | 1,397,905 | 1,412,560 | 1,277,596 | 1,379,087 | 1,646,0
 Age 7-13 (Primary) | 9,271,293 | 9,558,901 | 9,590,379 | 9,614,329 | 9,881,999 | 10,210,090 | 11,937,227
 Age 14-17 (Cycle 2) | 4,598,464 | 4,723,311 | 4,559,323 | 4,980,842 | 5,051,161 | 5,293,296 | 5,472,622
 Age 18-19 (Secondary) | 1,933,448 | 1,977,660 | 2,372,017 | 2,305,427 | 2,204,859 | 2,395,609 | 2,707,757
-
-Table 7.2:  School age population estimates, Tanzania Mainland
 
 Source: National Population Projections, NBS and Office of the Chief Government Statistician, February 2018
 
@@ -6624,7 +6733,7 @@ Enrolment  perspectives  at  the  various  levels  result  mainly  from  three  
 
 - Increased access to Technical Education
 
-At pre-primary level , the enrolment capacity should reach the size of one generation by  2025  in  order  to  accommodate  a  number  of  children  close  to  2  million.  The number of children enrolled in 2021 should reach 1.8 million.
+At pre-primary level, the enrolment capacity should reach the size of one generation by 2025 in order to accommodate a number of children close to 2 million. The number of children enrolled in 2021 should reach 1.8 million.
 
 At  primary  level, the  intake  at  grade  1  (1.9  million  children  in  2016  and  2017) currently  exceeds  the  size  of  one  generation,  due  to  an  influx  in  registration resulting  from  the  implementation  of  the  Fee  Free  Policy.  This  situation  would continue for a few more years. It is expected that the stabilisation in intake flows could occur before the end of the plan. The intake flow would then be equivalent to the generation around 6/7 years old.
 
@@ -6642,7 +6751,9 @@ Student flows after form 4: developing a vocational stream . At the end of the s
 
 At  the  Higher  Education  level,  enrolment  in  universities  is  expected  to  start increasing again, with 178,000 students in 2021/22, at a level below 2014-15 when enrolment was 220,000 students.
 
-2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2025
+Table 7.3: Projection of enrolment by level of education
+
+ | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2025
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Pre-primary | 1,069,823 | 1,562,770 | 1,517,670 | 1,701,729 | 1,850,215 | 1,876,941 | 1,903,864 | 1,948,407
 Primary | 8,298,282 | 8,639,202 | 9,317,791 | 9,792,283 | 10,249,623 | 10,750,925 | 11,271,882 | 12,384,832
@@ -6652,9 +6763,7 @@ Technical Vocational | 42,999 | 117,158 | 128,968 | 139,565 | 163,498 | 205,484 
 Higher Technical Ed | 10,754 | 14,080 | 20,377 | 26,102 | 31,914 | 34,362 | 36,308 | 47,297
 Universities | 210,904 | 134,655 | 154,376 | 169,209 | 183,368 | 181,744 | 177,835 | 174,256
 
-Table 7.3:  Projection of enrolment by level of education
-
-Source:  revised simulation model
+Source: revised simulation model
 
 The resources Government would have to mobilize are influenced by the level of expected enrolment at the various education cycles, but also by the conditions of schooling. The scenario does not anticipate any change in the distribution between Government and non-Government educational institutions which would remain at the  current  level  in  every  sub-sector.  However,  the  scenario  considers  various improvements in the conditions of schooling within Government institutions:
 
@@ -6674,7 +6783,9 @@ The resources Government would have to mobilize are influenced by the level of e
 
 - The expected increase of enrolment at Technical and Vocational Secondary level would require a significant investment in infrastructure with the building of 5,000 classrooms and 3,000 workshops.
 
-2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2025
+Table 7.4: Requirements for teachers and classrooms in Government schools
+
+ | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2025
 --- | --- | --- | --- | --- | --- | --- | ---
 Students per stream
 Pre-primary | 94.2 | 89.6 | 89.6 | 82.5 | 75.4 | 68.3 | 40
@@ -6697,15 +6808,13 @@ Cycle 2 | 33,146 | 37,588 | 41,994 | 46,649 | 50,528 | 57,105 | 91,023
 Higher Secondary | 1,677 | 1,902 | 1,992 | 1,979 | 2,162 | 2,283 | 2,833
 TVET | 3,000 | 3,506 | 4,042 | 5,068 | 6,849 | 8,314 | 18,733
 
-Table 7.4:  Requirements for teachers and classrooms in Government schools
-
-Source:  revised simulation model
+Source: revised simulation model
 
 #### 7.2 Cost of the ESDP
 
 Total ESDP costs by programme and education sub-sector for the five-year period 2016/17-2020/21 are presented in Tables 7.5 and 7.6 below.  All costs, both recurrent and development, are included as well as loans for the higher education sub-sector.
 
-Total annual projected expenditure for the education sector (by Government and Development Partners) increases from TZS 4.0 trillion in 2016/17 to TZS 6.3 trillion in 2020/21. Those amounts include recurrent expenditure, activities foreseen in the operational budget and G overnment contribution to the students' loans scheme. The sub-total projected for the development budget includes all foreign support to the sector, including off-budget projects.
+Total annual projected expenditure for the education sector (by Government and Development Partners) increases from TZS 4.0 trillion in 2016/17 to TZS 6.3 trillion
 
 141
 
@@ -6713,7 +6822,13 @@ Total annual projected expenditure for the education sector (by Government and D
 
 [[START OF PAGE 160]]
 
-Activities  of  the  Operational  Plan  require  TZS  4.9  trillion  of  funding,  an  annual average of TZS 1 trillion.
+in 2020/21. Those amounts include recurrent expenditure, activities foreseen in the operational budget and Government contribution to the students’ loans scheme. The sub-total projected for the development budget includes all foreign support to the sector, including off-budget projects.
+
+Activities of the Operational Plan require TZS 4.9 trillion of funding, an annual average of TZS 1 trillion.
+
+Table 7.5: ESDP projected cost
+
+TZS billions
 
 Programme | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | Total
 --- | --- | --- | --- | --- | --- | ---
@@ -6742,11 +6857,7 @@ Student Loans | 427.6 | 427.6 | 427.6 | 427.6 | 427.6 | 2,137.8
 Total Development Budget | 893.8 | 1,237.8 | 1,486.4 | 1,680.5 | 1,758.7 | 7,057.3
 Total ESDP Cost, Recurrent + Development | 4,029.1 | 4,809.9 | 5,258.1 | 5,779.2 | 6,312.3 | 26,188.5
 
-Table 7.5:  ESDP projected cost
-
-Source:  revised simulation model
-
-TZS billions Grants  to  LGAs,  covering  the  compensation  of  staff  working  in  pre-primary, primary and secondary schools, account for 84% of the recurrent costs and 61% of the  total  costs  during  the  plan  period.    In  Table  7.6,  ESDP  total  projected  costs (recurrent and development) are displayed by education sub-sector.
+Source: revised simulation model
 
 142
 
@@ -6754,141 +6865,39 @@ TZS billions Grants  to  LGAs,  covering  the  compensation  of  staff  working 
 
 [[START OF PAGE 161]]
 
-Figure 7.1:  Breakdown of ESDP projected costs by education sub-sector
+Figure 7.1: Breakdown of ESDP projected costs by education sub-sector
 
 0%
-
 10%
-
 20%
-
 30%
-
 40%
-
 50%
-
 60%
-
 70%
-
 80%
-
 90%
-
 100%
 
 2016/17
-
 2017/18
-
 2018/19
-
 2019/20
-
 2020/21
 
 Administrative support
-
 Tertiary technical education
-
 Universities
-
 Non-tertiary technical education
-
 Adult and non-formal education
-
 Teacher education
-
 Advanced secondary
-
 Primary & lower secondary
-
 Pre-primary
 
-Table 7.6:  ESDP Projected costs by education sub-sector
+Grants to LGAs, covering the compensation of staff working in pre-primary, primary and secondary schools, account for 84% of the recurrent costs and 61% of the total costs during the plan period. In Table 7.6, ESDP total projected costs (recurrent and development) are displayed by education sub-sector.
 
-Source:  revised simulation model
-
-3.7%
-
-70.9%
-
-2.1%
-
-1.5%
-
-0.1%
-
-1.5%
-
-19.4%
-
-0.5%
-
-0.3%
-
-100.0%
-
-3.9%
-
-73.3%
-
-2.0%
-
-0.7%
-
-0.4%
-
-1.6%
-
-17.4%
-
-0.4%
-
-0.4%
-
-100.0%
-
-4.0%
-
-73.0%
-
-1.8%
-
-0.9%
-
-0.6%
-
-2.5%
-
-16.4%
-
-0.4%
-
-0.4%
-
-100.0%
-
-4.4%
-
-73.1%
-
-1.7%
-
-0.8%
-
-0.7%
-
-3.4%
-
-15.0%
-
-0.6%
-
-0.3%
-
-100.0%
+Table 7.6: ESDP Projected costs by education sub-sector
 
 TZS billions
 
@@ -6907,63 +6916,20 @@ Total | 4,029.1 | 4,809.9 | 5,258.1 | 5,779.2 | 6,312.3 | 26,188.5
 
 In percentages
 
-Pre-primary
+Sub-sector | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | Total
+--- | --- | --- | --- | --- | --- | ---
+Pre-primary | 3.7% | 3.9% | 4.0% | 4.4% | 4.7% | 4.2%
+Primary & lower secondary | 70.9% | 73.3% | 73.0% | 73.1% | 74.6% | 73.1%
+Advanced secondary | 2.1% | 2.0% | 1.8% | 1.7% | 1.7% | 1.8%
+Teacher education | 1.5% | 0.7% | 0.9% | 0.8% | 1.0% | 1.0%
+Adult and non-formal education | 0.1% | 0.4% | 0.6% | 0.7% | 0.6% | 0.5%
+Non-tertiary technical education | 1.5% | 1.6% | 2.5% | 3.4% | 2.6% | 2.4%
+Universities | 19.4% | 17.4% | 16.4% | 15.0% | 13.8% | 16.1%
+Tertiary technical education | 0.5% | 0.4% | 0.4% | 0.6% | 0.6% | 0.5%
+Administrative support | 0.3% | 0.4% | 0.4% | 0.3% | 0.3% | 0.3%
+Total | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
 
-Primary & lower secondary
-
-Advanced secondary
-
-Teacher education
-
-Adult and non-formal education
-
-Non-tertiary technical education
-
-Universities
-
-Tertiary technical education
-
-Administrative support Total
-
-4.7%
-
-74.6%
-
-1.7%
-
-1.0%
-
-0.6%
-
-2.6%
-
-13.8%
-
-0.6%
-
-0.3%
-
-100.0%
-
-4.2%
-
-73.1%
-
-1.8%
-
-1.0%
-
-0.5%
-
-2.4%
-
-16.1%
-
-0.5%
-
-0.3%
-
-100.0%
+Source: revised simulation model
 
 143
 
@@ -6977,17 +6943,17 @@ Some of the main points to note are:
 
 - The  increasing  share  taken  by  Pre-Primary  is  due  mainly  to  improving  the conditions of learning;
 
-- At  the  Higher  Education  level,  significant  capital  expenditure  boosts  the  subsector's shar e, which stands below 9% for the recurrent expenditures;
+- At the Higher Education level, significant capital expenditure boosts the sub-sector’s share, which stands below 9% for the recurrent expenditures;
 
 - There is a significant increase in spending on non-tertiary technical education, because of the policy to stream Form 4 graduates increasingly into that sub-sector. This increase will become more pronounced after 2021, when the growth of this sub-sector really takes off.
 
 #### 7.3 Cost of the Operational Plan
 
-This section presents the cost for implementing  activities foreseen in the Operational  Plan  alone.  The  perimeter  corresponds  to  the  Development  Budget except the contribution of Government to the students loans scheme.
+This section presents the cost for implementing activities foreseen in the Operational Plan alone. The perimeter corresponds to the Development Budget except the contribution of Government to the students loans scheme.
 
-All activities foreseen in the original operational plan are maintained. However, as this updating has been done in 2018, activities that did not start in 2016-17 and 201718 have been rescheduled to start in 2018-19 or later. Activities funded from the re current  budget  (mainly  teachers'  salaries)  are  no longer  costed  within  the operational plan; they are still included in the list of OP activities.
+All activities foreseen in the original operational plan are maintained. However, as this updating has been done in 2018, activities that did not start in 2016-17 and 2017-18 have been rescheduled to start in 2018-19 or later. Activities funded from the recurrent budget (mainly teachers’ salaries) are no longer costed within the operational plan; they are still included in the list of OP activities.
 
-The cost for infrastructure (construction including equipment  and  repairs) constitutes the major component, with TZS 2,839 billion out of a total of TZS 4,019 billion. Capital expenditures are largest in the basic education and higher education programmes. With the projected rapid increase  in  basic  education,  especially  in cycle 2, capital expenditure will have to be multiplied by 2.7 between 2016/17 and 2020/21. Most of this is for construction of new classrooms as well as laboratories, workshops, hostels and teacher housing. The capital budget for TVET more than triples  between  2016/17  and  2020/21,  although  it  still  remains  very  low  in comparison to basic education.
+The cost for infrastructure (construction including equipment and repairs) constitutes the major component, with TZS 2,839 billion out of a total of TZS 4,019 billion. Capital expenditures are largest in the basic education and higher education programmes. With the projected rapid increase in basic education, especially in cycle 2, capital expenditure will have to be multiplied by 2.7 between 2016/17 and 2020/21. Most of this is for construction of new classrooms as well as laboratories, workshops, hostels and teacher housing. The capital budget for TVET more than triples between 2016/17 and 2020/21, although it still remains very low in comparison to basic education.
 
 Capitation grants to implement the fee free policy from pre-primary to secondary level would have to increase up to TZS 268 million in 2020/21 to cope with the increase in enrolment. Activities targeting quality improvement represents TZS 604 million, 12% of the total cost.
 
@@ -7001,30 +6967,30 @@ Table 7.7:  Cost of the Operational Plan, breakdown by programme and object
 
 TZS billions
 
-Programme | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | Total
+Programme |  | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | Total
 --- | --- | --- | --- | --- | --- | --- | ---
 1. Access, participation and equity in basic and secondary education | Infrastructures | 225.7 | 394.0 | 414.4 | 545.7 | 617.8 | 2197.5
-Capitation grant | 173.1 | 186.7 | 212.4 | 236.9 | 268.2 | 1077.4
-Others | 3.1 | 33.9 | 59.7 | 73.2 | 94.1 | 264.0
-Total | 401.8 | 614.7 | 686.5 | 855.8 | 980.1 | 3538.9
+ | Capitation grant | 173.1 | 186.7 | 212.4 | 236.9 | 268.2 | 1077.4
+ | Others | 3.1 | 33.9 | 59.7 | 73.2 | 94.1 | 264.0
+ | Total | 401.8 | 614.7 | 686.5 | 855.8 | 980.1 | 3538.9
 2. Quality of basic and secondary education | Total | 2.9 | 30.8 | 143.0 | 141.1 | 136.7 | 454.5
 3. Adult and non-formal education | Access | 0.0 | 8.3 | 11.9 | 6.8 | 5.0 | 32.0
-Quality | 0.0 | 3.2 | 2.6 | 2.8 | 4.2 | 12.8
-Total | 0.0 | 11.4 | 14.6 | 9.7 | 9.2 | 44.8
+ | Quality | 0.0 | 3.2 | 2.6 | 2.8 | 4.2 | 12.8
+ | Total | 0.0 | 11.4 | 14.6 | 9.7 | 9.2 | 44.8
 4. TVET | Infrastructures | 21.1 | 32.4 | 63.4 | 119.5 | 79.1 | 315.5
-Other Access | 0.0 | 7.7 | 20.3 | 21.1 | 21.0 | 70.1
-Quality | 0.0 | 11.5 | 17.8 | 16.9 | 17.3 | 63.5
-Total | 21.1 | 51.6 | 101.6 | 157.5 | 117.3 | 449.0
+ | Other Access | 0.0 | 7.7 | 20.3 | 21.1 | 21.0 | 70.1
+ | Quality | 0.0 | 11.5 | 17.8 | 16.9 | 17.3 | 63.5
+ | Total | 21.1 | 51.6 | 101.6 | 157.5 | 117.3 | 449.0
 5. Higher education | Infrastructures | 40.5 | 84.9 | 61.6 | 70.0 | 70.0 | 326.9
-Others | 0.0 | 5.9 | 7.5 | 8.7 | 9.9 | 32.0
-Quality | 0.0 | 8.9 | 39.7 | 7.9 | 6.8 | 63.3
-Total | 40.5 | 99.8 | 108.7 | 86.5 | 86.6 | 422.1
+ | Others | 0.0 | 5.9 | 7.5 | 8.7 | 9.9 | 32.0
+ | Quality | 0.0 | 8.9 | 39.7 | 7.9 | 6.8 | 63.3
+ | Total | 40.5 | 99.8 | 108.7 | 86.5 | 86.6 | 422.1
 6. System structure, governance and management | Total | 0.0 | 2.0 | 4.5 | 2.4 | 1.3 | 10.2
 Total | Infrastructures | 287.2 | 511.4 | 539.3 | 735.1 | 766.8 | 2839.9
-Capitation grant | 173.1 | 186.7 | 212.4 | 236.9 | 268.2 | 1077.4
-Other Access | 3.1 | 55.8 | 99.5 | 109.8 | 129.9 | 398.0
-Quality | 2.9 | 56.4 | 207.7 | 171.1 | 166.3 | 604.3
-Total | 466.3 | 810.3 | 1058.9 | 1253.0 | 1331.2 | 4919.6
+ | Capitation grant | 173.1 | 186.7 | 212.4 | 236.9 | 268.2 | 1077.4
+ | Other Access | 3.1 | 55.8 | 99.5 | 109.8 | 129.9 | 398.0
+ | Quality | 2.9 | 56.4 | 207.7 | 171.1 | 166.3 | 604.3
+ | Total | 466.3 | 810.3 | 1058.9 | 1253.0 | 1331.2 | 4919.6
 
 Source:  revised simulation model
 
@@ -7088,9 +7054,11 @@ programmes
 
 [[START OF PAGE 164]]
 
-Among the sub-programmes focusing on access and equity, the sub-programme 1B on  Basic  Education  represents  the  majority  of  the  costs.  Higher  Education,  PrePrimary and Technical Education also account for significant shares.
+Among the sub-programmes focusing on access and equity, the sub-programme 1B on Basic Education represents the majority of the costs. Higher Education, Pre-Primary and Technical Education also account for significant shares.
 
 The cost of activities focusing on quality is concentrated in programme 2 on Basic and Secondary education. This programme only represents 10.3% of the total cost of the Operational Plan.
+
+Table 7.8: ESDP Operational Plan expenditure breakdown by sub-programme
 
 Programme | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21
 --- | --- | --- | --- | --- | ---
@@ -7108,9 +7076,7 @@ Programme 5B Quality Higher Education | 0.0% | 1.1% | 3.7% | 0.6% | 0.5%
 Programme 6 System structure, governance & management | 0.0% | 0.3% | 0.4% | 0.2% | 0.1%
 Total | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
 
-Table 7.8:  ESDP Operational Plan expenditure breakdown by sub-programme
-
-Source:  revised simulation model
+Source: revised simulation model
 
 Figure 7.3:  Operational Plan expenditure breakdown by main programme
 
@@ -7218,9 +7184,12 @@ The  budget  framework  provides  projections  of  GDP,  of  the  resources  of 
 
 The medium-term framework draws a rather positive budget perspective, with an annual economic growth higher than 7%, and an increase in the fiscal pressure. Government domestic revenues are expected to increase up to TZS 28.3 trillion in 2020/21 (table 7.9 below).
 
+Table 7.9: Budget Frame for 2016/17 - 2020/21
+
 Billion Shillings
+
+ | 2016/17 Actual | 2017/18 Budget | 2018/19 Projected | 2019/20 Projected | 2020/21 Projected
 --- | --- | --- | --- | --- | ---
-2016/17 Actual | 2017/18 Budget | 2018/19 Projected | 2019/20 Projected | 2020/21 Projected
 GDP current prices | 106,873 | 118,819 | 132,878 | 147,532 | 165,779
 Economic growth | 7.0% | 7.0% | 7.2% | 7.5% | 7.8%
 GDP deflator | 2.7% | 3.9% | 4.3% | 3.3% | 4.3%
@@ -7232,9 +7201,7 @@ Development Exp, local financing | 5,141 | 8,970 | 9,536 | 9,409 | 11,566
 AS % of Domestic Revenue | 30.0% | 45.5% | 47.1% | 40.4% | 46.8%
 Development Exp, Foreign financing | 1,357 | 3,030 | 2,712 | 2,720 | 2,768
 
-Table 7.9:  Budget Frame for 2016/17 - 2020/21
-
-Source:  MOFP, Guidelines for the preparation of plans and budget 2018/19, November 2017
+Source: MOFP, Guidelines for the preparation of plans and budget 2018/19, November 2017
 
 However, the increasing level of debt service will limit the positive impact on the projected  funding  of  the  Government  recurrent  budget;  recurrent  expenditure excluding Consolidated Financial Services (CFS) represents 47.5% of Government domestic revenue, against the current level of 51.3%.
 
@@ -7252,9 +7219,13 @@ The Recurrent Budget has been projected to cover the projected costs. This would
 
 The  Development  Budget  is  funded  from  domestic  resources  but  also  from contributions by Development Partners. The part funded from domestic sources has been  projected  by  maintaining  the  same  percentage  allocated  to  the  sector  as currently (in 2017-18  budget).  With those assumptions, the development budget from domestic sources potentially available for the education sector could rise to the level of TZS 1,229 million in 2020-21.
 
-The domestic funding of the Development Budget has to be completed by estimates of total contributions from Development Partners, as not all are recorded within the Government Development Budget. The list of expected contributions from partners, based  on  public  commitments,  is  displayed  in  Table  7.11  below.  It  includes  onbudget and off-budget financing for education sector activities.
+The domestic funding of the Development Budget has to be completed by estimates of total contributions from Development Partners, as not all are recorded within the Government Development Budget. The list of expected contributions from partners, based on public commitments, is displayed in Table 7.11 below. It includes on-budget and off-budget financing for education sector activities.
 
-2016/17 Actual | 2017/18 Budget | 2018/19 Projected | 2019/20 Projected | 2020/21 Projected
+Table 7.10: Potential budget for the education sector
+
+Billion Shillings
+
+ | 2016/17 Actual | 2017/18 Budget | 2018/19 Projected | 2019/20 Projected | 2020/21 Projected
 --- | --- | --- | --- | --- | ---
 Gvt Recurrent exp excluding CFS | 8,355 | 10,251 | 10,522 | 12,163 | 13,432
 % for Education sector | 37.5% | 34.8% | 35.8% | 33.7% | 33.9%
@@ -7263,14 +7234,10 @@ Gvt Development Exp, local financing | 5,141 | 8,970 | 9,536 | 10,551 | 11,566
 % for Education sector | 10.6% | 9.0% | 10.6% | 10.6% | 10.6%
 Dev. budget for education, local financing | 546 | 805 | 1,014 | 1,121 | 1,229
 Development Exp, Foreign financing | 1,357 | 3,030 | 2,712 | 2,720 | 2,768
-As % of Domestic revenue | 11.6% | 10.8%
-Dev Budget education, Foreign financing | 158 | 328
+As % of Domestic revenue | 11.6% | 10.8% |  |  | 
+Dev Budget education, Foreign financing | 158 | 328 |  |  | 
 
-Table 7.10:  Potential budget for the education sector
-
-Source:  revised simulation model
-
-Billion Shillings
+Source: revised simulation model
 
 148
 
@@ -7278,7 +7245,9 @@ Billion Shillings
 
 [[START OF PAGE 167]]
 
-2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | Total
+Table 7.11: Expected contributions from Development Partners
+
+ | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | Total
 --- | --- | --- | --- | --- | --- | ---
 DFID
 GBP Total | 26,416,076 | 26,416,076 | 24,216,076 | 26,522,500 | 24,800,000 | 128,370,727
@@ -7315,8 +7284,6 @@ USD Total | 4,666,666 | 4,666,666 | 4,416,666 | 4,416,666 | 4,416,666 | 22,583,3
 TZS million | 10,430 | 10,430 | 9,871 | 9,871 | 9,871 | 50,474
 Total TZS million | 382,694 | 382,421 | 365,782 | 410,921 | 398,708 | 1,940,525
 
-Table 7.11:  Expected contributions from Development Partners
-
 Source: Development partners
 
 Exchange rates to TZS: 1USD = 2,235; 1GBP= 2,897; 1CAN =1,644; 1SKR = 257; 1EUR = 2,600
@@ -7331,7 +7298,11 @@ Those  projected  potential  budgets  and  financing  contributions  for  the  e
 
 [[START OF PAGE 168]]
 
-2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | Total
+Table 7.12: Financing gap for ESDP
+
+TZS billion
+
+ | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | Total
 --- | --- | --- | --- | --- | --- | ---
 Domestic funding only
 Projected ESDP recurrent expenditure | 3,135 | 3,572 | 3,772 | 4,099 | 4,554 | 19,131
@@ -7350,19 +7321,15 @@ Remaining financing gap | 35 | -50 | -107 | -148 | -131 | -401
 Remaining gap as % of projected expenditures | 0.9% | -1.0% | -2.0% | -2.6% | -2.1% | -1.5%
 Remaining gap in USD (million) | 15.8 | -22.5 | -47.9 | -66.3 | -58.5 | -179.5
 
-Table 7.12:  Financing gap for ESDP
-
 Source: revised simulation model
 
 Before considering the contributions of Development Partners, the annual financing gap amounts between TZS 347 billion and TZS 559 billion, an average of 8.9% of the total projected costs.
 
-Contributions from Development Partners, as known today, amount to a total of TZS 1,941 billion, an average of TZS 388 billion per year (US$ 173 million). After taking DPs' commitments into account, the remaining financing gap stands at TZS 401 billion for the 5 five years period.
+Contributions from Development Partners, as known today, amount to a total of TZS 1,941 billion, an average of TZS 388 billion per year (US$ 173 million). After taking DPs’ commitments into account, the remaining financing gap stands at TZS 401 billion for the 5 five years period.
 
-This revised costing of the ESDP is made at a time (July 2018) where the first two years of the plan have already been implemented. The calculated financing gap for the two years 2016-17 and 2017-18 is equal to zero for the recurrent budget as it corresponds to accounting figures. For development expenditures, it results from the  use  of  estimates  for  the  cost  of  OP  activities  and  the  commitments  from Development Partners; only the financing from Government is based on accounting sources. Altogether, the gap is low (TZS 15 billion) for those 2 years.
+This revised costing of the ESDP is made at a time (July 2018) where the first two years of the plan have already been implemented. The calculated financing gap for the two years 2016-17 and 2017-18 is equal to zero for the recurrent budget as it corresponds to accounting figures. For development expenditures, it results from the use of estimates for the cost of OP activities and the commitments from Development Partners; only the financing from Government is based on accounting sources. Altogether, the gap is low (TZS 15 billion) for those 2 years.
 
 The issue of the financing of the plan remains for the 3 years 2018-19 to 2020-21. The remaining financing gap represents annually between 2% and 2.6% of the ESDP cost.
-
-TZS billion Some additional contributions from partners are expected. The grant contribution from GPE is expected at a level of US$ 90 million covering 4 years starting from 2019. This would provide an average annual of TZS 50 billion and reduce the gap for the 3 years by about 40%.
 
 150
 
@@ -7370,7 +7337,7 @@ TZS billion Some additional contributions from partners are expected. The grant 
 
 [[START OF PAGE 169]]
 
-Figure 7.4:  Remaining financing gap including DPs ' commitments
+Figure 7.4: Remaining financing gap including DPs’ commitments
 
 0.9%
 
@@ -7405,6 +7372,8 @@ Figure 7.4:  Remaining financing gap including DPs ' commitments
 2020/21
 
 Remaining financing Gap in % of projected expenditures
+
+Some additional contributions from partners are expected. The grant contribution from GPE is expected at a level of US$ 90 million covering 4 years starting from 2019. This would provide an average annual of TZS 50 billion and reduce the gap for the 3 years by about 40%.
 
 After including GPE grant (for TZS 50 billion per year during the last 3 years), the financing gap is reduced to TZS 235 billion (US$ 105 million) for the 3 years. It could be further reduced, either through increased contributions of partners or through an increased allocation for education within the domestic part of the development budget.
 
@@ -7532,17 +7501,17 @@ Table 7.14:  Budget execution rates, 2016-17
 
 TZS billion
 
-Total Government Budget | Education Sector Budget
+ | Total Government Budget |  |  | Education Sector Budget |  | 
 --- | --- | --- | --- | --- | --- | ---
-Approved 2016/17 | Actual 2016/18 | % Actual / approved | Approved 2016/17 | Actual 2016/18 | % Actual / approved
+ | Approved 2016/17 | Actual 2016/18 | % Actual / approved | Approved 2016/17 | Actual 2016/18 | % Actual / approved
 Recurrent expenditures
 Wages and salaries | 6,600.0 | 6,367.1 | 96.5% | 2,802.7 | 2,626.2 | 93.7%
-CFS | 8,000.0 | 8,781.6 | 109.8%
+CFS | 8,000.0 | 8,781.6 | 109.8% |  |  | 
 Other charges | 3,119.1 | 1,987.5 | 63.7% | 547.5 | 509.0 | 93.0%
 Total recurrent | 17,719.1 | 17,136.2 | 96.7% | 3,350.2 | 3,135.3 | 93.6%
 Development expenditures
 Local financing | 8,702.7 | 5,141.5 | 59.1% | 632.3 | 546.5 | 86.4%
-Except Students Loans | 204.7 | 118.9 | 58.1%
+Except Students Loans |  |  |  | 204.7 | 118.9 | 58.1%
 Foreign Financing | 3,117.8 | 1,356.9 | 43.5% | 384.9 | 157.8 | 41.0%
 Total Development | 11,820.5 | 6,498.3 | 55.0% | 1,017.2 | 704.2 | 69.2%
 Recurrent + Development | 29,539.6 | 23,634.6 | 80.0% | 4,367.4 | 3,839.5 | 87.9%
@@ -7560,31 +7529,32 @@ Source: Budget guidelines 2018/19 (Total Government) and Budget books (Education
 ### 1. Summary of all sub-sectors
 
 Basic Education
+
+Funding Agency | Pre-Primary | Primary | Lower Secondary | Out-of-School Children | Higher Secondary | Adult & Non-Formal Education | TVET | Higher Education | Sector-Wide Systems & Governance
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Funding Agency | Pre-Primary | Primary | Lower Secondary | Out-of- School Children | Higher Secondary | Adult & Non-Formal Education | TVET | Higher Education | Sector-Wide Systems & Governance
 MoEST | X | X | X | X | X | X | X | X | X
-PO-RALG | X | X | X | X | X | X
-TEA | X | X | X | X
-TIE | X | X | X | X | X
-NECTA | X | X | X | X
-NACTE | X | X
-VETA | X | X
-TCU | X
-ADEM | X | X | X | X | X
-AfDB | X
-Canada | X | X | X | X | X | X
-DFID | X | X | X | X | X | X | X | X
-GPE | X | X | X | X | X | X
-JICA | X | X
-Sweden | X | X | X | X | X | X | X
-UNESCO | X | X | X | X | X
-Unicef | X | X | X | X | X
-USAID | X | X | X | X
-WFP | X | X
-World Bank | X | X | X | X | X | X
-BRAC | X | X | X | X | X
-PLAN Int. | X | X | X
-Save the Children | X | X
+PO-RALG | X | X | X | X | X |  |  |  | X
+TEA | X | X | X |  | X |  |  |  | 
+TIE | X | X | X |  | X |  |  | X | 
+NECTA |  | X | X |  | X |  |  | X | 
+NACTE |  |  |  |  |  |  | X | X | 
+VETA |  |  |  |  |  |  | X | X | 
+TCU |  |  |  |  |  |  |  | X | 
+ADEM | X | X | X |  | X |  |  | X | 
+AfDB |  |  |  |  |  |  | X |  | 
+Canada | X | X | X |  |  |  | X | X | X
+DFID | X | X | X | X | X |  | X | X | X
+GPE | X | X | X | X |  | X |  |  | X
+JICA |  |  | X |  | X |  |  |  | 
+Sweden | X | X | X | X |  | X |  | X | X
+UNESCO | X | X | X |  |  | X |  |  | X
+Unicef | X | X | X | X |  |  |  |  | X
+USAID | X | X | X | X |  |  |  |  | 
+WFP | X | X |  |  |  |  |  |  | 
+World Bank | X | X | X |  |  |  | X | X | X
+BRAC | X | X | X | X |  | X |  |  | 
+PLAN Int. | X |  | X |  | X |  |  |  | 
+Save the Children | X |  |  |  |  |  |  |  | X
 
 154
 
@@ -7594,10 +7564,10 @@ Save the Children | X | X
 
 ### 2. Details of Development Partner contributions to the ESDP sub-sectors and KPIs
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary and Primary | DFID | Affordable high quality preschool and primary education | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 5) Average drop-out rate in primary education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | The Silverleaf Academy will provide high quality pre-primary and primary education at low cost to over 1000 children from low income families. The schools will pilot a number of teaching models that enable high quality affordable education including the introduction of tablet based learning. Another innovation within the programme is Jolly Phonics - an educational tool to help children learn to read through understanding letter sounds through music, stories and actions. An important part of this programme is improving the quality of teaching (pedagogy) teaching teachers interactive techniques, and clever classroom management that enables children to learn. | £399,932 | 2014- 2018 | Arusha | Anza Entrepreneurs Ltd.
-Pre- Primary | World Bank | Early Learning Partnership technical assistance | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 5) Average drop-out rate in primary education 7) Pupil/Qualified Teacher Ratio in Primary Education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | The Early Learning Partnership is a multidonor trust fund managed by the World Bank. We work with countries to promote increased investment in children's early years through research, policy planning, project design, and finance | US$ 0.1m | 2015- 2016 | National
+Pre-Primary and Primary | DFID | Affordable high quality preschool and primary education | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 5) Average drop-out rate in primary education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | The Silverleaf Academy will provide high quality pre-primary and primary education at low cost to over 1000 children from low income families. The schools will pilot a number of teaching models that enable high quality affordable education including the introduction of tablet based learning. Another innovation within the programme is Jolly Phonics - an educational tool to help children learn to read through understanding letter sounds through music, stories and actions. An important part of this programme is improving the quality of teaching (pedagogy) teaching teachers interactive techniques, and clever classroom management that enables children to learn. | £399,932 | 2014-2018 | Arusha | Anza Entrepreneurs Ltd.
+Pre-Primary | World Bank | Early Learning Partnership technical assistance | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 5) Average drop-out rate in primary education 7) Pupil/Qualified Teacher Ratio in Primary Education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | The Early Learning Partnership is a multidonor trust fund managed by the World Bank. We work with countries to promote increased investment in children’s early years through research, policy planning, project design, and finance | US$ 0.1m | 2015-2016 | National |
 
 155
 
@@ -7605,10 +7575,10 @@ Pre- Primary | World Bank | Early Learning Partnership technical assistance | 1)
 
 [[START OF PAGE 174]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary | World Bank | Measuring Early Learning Quality and Outcomes (in partnership with UNICEF and UNESCO) | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 5) Average drop-out rate in primary education 7) Pupil/Qualified Teacher Ratio in Primary Education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | The Measuring Early Learning Quality and Outcomes (MELQO) initiative aims to improve early childhood education worldwide through measurement of children's development and learning and of the quality of their learning environments, with a focus on school readiness | 2015- 2017 | National & Zanzibar
-Pre- Primary, Primary and Lower Secondary | Canada | Play for the Advancement of Quality Education (PAQE) | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from primary to lower secondary 4) Survival rate from primary std.1 to last grade of lower secondary (form IV) 5) Average drop-out rate in primary education 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | This project aims to improve educational attainment and participation of girls and boys, aged 2-15 with a child friendly approach to learning with play | CAD$2 million | 2015- 2017 | Dar es Salaam, Mara, Morogoro | Right to Play
+Pre-Primary | World Bank | Measuring Early Learning Quality and Outcomes (in partnership with UNICEF and UNESCO) | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 5) Average drop-out rate in primary education 7) Pupil/Qualified Teacher Ratio in Primary Education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | The Measuring Early Learning Quality and Outcomes (MELQO) initiative aims to improve early childhood education worldwide through measurement of children’s development and learning and of the quality of their learning environments, with a focus on school readiness |  | 2015-2017 | National & Zanzibar | 
+Pre-Primary, Primary and Lower Secondary | Canada | Play for the Advancement of Quality Education (PAQE) | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from primary to lower secondary 4) Survival rate from primary std.1 to last grade of lower secondary (form IV) 5) Average drop-out rate in primary education 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | This project aims to improve educational attainment and participation of girls and boys, aged 2-15 with a child friendly approach to learning with play | CAD$2 million | 2015-2017 | Dar es Salaam, Mara, Morogoro | Right to Play
 
 156
 
@@ -7616,7 +7586,7 @@ Pre- Primary, Primary and Lower Secondary | Canada | Play for the Advancement of
 
 [[START OF PAGE 175]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Primary and Lower Secondary | DFID | Girls Education Challenge Fund (GEC) - Support to CAMFED through a UK Aid centrally managed fund | 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 9) CSEE pass rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | This payment by results programme supports investments in education for 1,200 marginalised girls in 80 schools in 11 districts of Tanzania. The programme primary activity is to remove the cost barrier to education to increase retention and progress to secondary schools. In addition it improves learning outcomes for girls by developing both academic and 21st century skills. | £11.1m | 2012-2019 (applied for extension under review) | 11 districts | CAMFED
 Primary | DFID | Girls Education Challenge Fund (GEC) - Support to BRAC Maendeleo through a UK Aid centrally managed fund | 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 7) Pupil/Qualified Teacher Ratio in Primary Education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | Supports marginalised girls in Tanzania to access education with a community based approach. Interventions include after-school study clubs in Primary schools for marginalised grade 5-7 girls, training of teachers in maths, science and English for after school clubs, community based study clubs, life-skills training and training of girls as peer mentors to support primary school students. | £2.68m | 2012-2019 (applied for extension under review) | 4 districts: Temeke | BRAC
@@ -7627,11 +7597,11 @@ Primary | DFID | Girls Education Challenge Fund (GEC) - Support to BRAC Maendele
 
 [[START OF PAGE 176]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Primary and Lower Secondary | DFID | Improved girls education using e- readers and mentors | 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 9) CSEE Pass Rate | This project supports the challenge of children transitioning from Swahili medium primary school to English medium secondary schools. 4500 girls are targeted using e-reader technology. Graduates of the schools are brought in as mentors to the new secondary students. In addition, these mentors are supported with business training and can take an interest free small business loan (from the microfinance partner Kiva) | £399,995 | 2014- 2018 | 11 districts | CAMFED
-Pre- Primary, Primary and Lower Secondary | DFID | Schooling for blind-deaf children | 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 9) CSEE pass rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | Sense International is a highly regarded international organization for supporting children with disabilities. The project is working toward integrating deafblind children into mainstream schools. The approach works with families at home to prepare children for school - then works with the children, teachers and teaching assistants within the schools. | £399,043 | 2014- 2018 | Sense International East Africa
-Lower Secondary | UNESCO | Education | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 9) CSEE Pass Rate | Enhancing Adolescent girls' performance and retention at ordinary secondary school level in Tanzania | $650,000 | 2015- 2017 | Shinyanga, Sengerema, Ngorongoro, Tanga, Micheweni (Pemba)
+Primary and Lower Secondary | DFID | Improved girls education using e-readers and mentors | 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 9) CSEE Pass Rate | This project supports the challenge of children transitioning from Swahili medium primary school to English medium secondary schools. 4500 girls are targeted using e-reader technology. Graduates of the schools are brought in as mentors to the new secondary students. In addition, these mentors are supported with business training and can take an interest free small business loan (from the microfinance partner Kiva) | £399,995 | 2014-2018 | 11 districts | CAMFED
+Pre-Primary, Primary and Lower Secondary | DFID | Schooling for blind-deaf children | 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 9) CSEE pass rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | Sense International is a highly regarded international organization for supporting children with disabilities. The project is working toward integrating deafblind children into mainstream schools. The approach works with families at home to prepare children for school - then works with the children, teachers and teaching assistants within the schools. | £399,043 | 2014-2018 |  | Sense International East Africa
+Lower Secondary | UNESCO | Education | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 9) CSEE Pass Rate | Enhancing Adolescent girls' performance and retention at ordinary secondary school level in Tanzania | $650,000 | 2015-2017 | Shinyanga, Sengerema, Ngorongoro, Tanga, Micheweni (Pemba) |
 
 158
 
@@ -7639,10 +7609,10 @@ Lower Secondary | UNESCO | Education | 4) Survival Rate from primary Standard 1 
 
 [[START OF PAGE 177]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Lower Secondary, Higher Secondary and Out- of-School Children | USAID | Waache Wasome(Let them Learn) | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 9) CSEE Pass Rate 14) Transition rate from basic education to advanced secondary education and TVET | Waache Wasome's goal is to increase adolescent girls' enrolment and retention in secondary school. The project's objectives are to 1) build the agency, knowledge, and self-esteem of girls in secondary school; 2) increase family commitment and ability to invest in girls' education; 3) foster a girl-friendly and supportive school environment; 4) increase access to youth-friendly adolescent reproductive services; 5) provide alternative education pathways for girls who have dropped out of secondary school due to pregnancy and/or marriage. | $10.5 million | December 2016 - September 2021 | Mara Region: Musoma Municipal Council, Musoma District Council, and Tarime Town Council. Arusha Region: Karatu District Council | World Education
-Pre- Primary, Primary and Lower Secondary | WFP | Country Programme | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | Food for Education (School Feeding) and Mother and Child Health and Nutrition (MCHN): Maisha Bora - Belgian Fund for Food Security | 1,599,645 Euros | 2015- 2019 | Longido District (Arusha Region) and Simanjiro District (Manyara Region) | World Food programme
+Lower Secondary, Higher Secondary and Out-of-School Children | USAID | Waache Wasome(Let them Learn) | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 9) CSEE Pass Rate 14) Transition rate from basic education to advanced secondary education and TVET | Waache Wasome's goal is to increase adolescent girls' enrolment and retention in secondary school. The project's objectives are to 1) build the agency, knowledge, and self-esteem of girls in secondary school; 2) increase family commitment and ability to invest in girls' education; 3) foster a girl-friendly and supportive school environment; 4) increase access to youth-friendly adolescent reproductive services; 5) provide alternative education pathways for girls who have dropped out of secondary school due to pregnancy and/or marriage. | $10.5 million | December 2016 - September 2021 | Mara Region: Musoma Municipal Council, Musoma District Council, and Tarime Town Council. Arusha Region: Karatu District Council | World Education
+Pre-Primary, Primary and Lower Secondary | WFP | Country Programme | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | Food for Education (School Feeding) and Mother and Child Health and Nutrition (MCHN): Maisha Bora - Belgian Fund for Food Security | 1,599,645 Euros | 2015-2019 | Longido District (Arusha Region) and Simanjiro District (Manyara Region) | World Food programme
 
 159
 
@@ -7650,11 +7620,11 @@ Pre- Primary, Primary and Lower Secondary | WFP | Country Programme | 1) % of St
 
 [[START OF PAGE 178]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary, Primary and Lower Secondary | WFP | Country Programme | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | Food for Education (School Feeding):Home Grown School Feeding Pilot | $400,000 | November 2015 - June 2016 | Ikungi District (Singida Region) and Bunda District (Mara Region) | World Food programme
-Pre- Primary, Primary and Lower Secondary | AFD | Support for Education Project in Tanzania | 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | The project will target to reduce disparities in access to education between boys and girls and between regions. their activities will specifically target orphans and children living with HIV/AIDS. | 6,000,000 USD | 2013-
-Pre- Primary, Primary, Lower Secondary and Higher Secondary | Canada | Teacher Education Support Project | 7) Pupil/Qualified Teacher Ratio in Primary Education 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 14) Transition rate from basic education to advanced secondary education and TVET 22) System strengthening | The project aims to improve the quality of primary and secondary school teaching by investing in effective training for future teachers at 35 teacher's colleges. Project activities include: (1) providing training to instructors and trainees on effective and gender sensitive teaching methods; (2) enhancing the Ministry of Education's capacity to manage teacher training nationally; and (3) providing teaching and learning materials to teacher's colleges, including information and communications technology equipment (ICT), textbooks and learning resources. | $60m CAD | 2016- 2021 | National | Government of Tanzania and a Canadian Executive Agency (to be selected)
+Pre-Primary, Primary and Lower Secondary | WFP | Country Programme | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | Food for Education (School Feeding):Home Grown School Feeding Pilot | $400,000 | November 2015 - June 2016 | Ikungi District (Singida Region) and Bunda District (Mara Region) | World Food programme
+Pre-Primary, Primary and Lower Secondary | AFD | Support for Education Project in Tanzania | 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | The project will target to reduce disparities in access to education between boys and girls and between regions. their activities will specifically target orphans and children living with HIV/AIDS. | 6,000,000 USD | 2013- |  |
+Pre-Primary, Primary, Lower Secondary and Higher Secondary | Canada | Teacher Education Support Project | 7) Pupil/Qualified Teacher Ratio in Primary Education 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 14) Transition rate from basic education to advanced secondary education and TVET 22) System strengthening | The project aims to improve the quality of primary and secondary school teaching by investing in effective training for future teachers at 35 teacher’s colleges. Project activities include: (1) providing training to instructors and trainees on effective and gender sensitive teaching methods; (2) enhancing the Ministry of Education’s capacity to manage teacher training nationally; and (3) providing teaching and learning materials to teacher’s colleges, including information and communications technology equipment (ICT), textbooks and learning resources. | $60m CAD | 2016-2021 | National | Government of Tanzania and a Canadian Executive Agency (to be selected)
 
 160
 
@@ -7662,10 +7632,10 @@ Pre- Primary, Primary, Lower Secondary and Higher Secondary | Canada | Teacher E
 
 [[START OF PAGE 179]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary, Primary, Lower Secondary and Higher Secondary | Canada | Upgrading Teachers' Colleges | 7) Pupil/Qualified Teacher Ratio in Primary Education 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 14) Transition rate from basic education to advanced secondary education and TVET | This initiative seeks to improve the quality of education for primary and secondary students by improving the quality of education that female and male teacher trainees receive. The project supports the renovation, construction and expa nsion of four teachers' colleges in order to improve learning conditions for teacher trainees. | $20m CAD | 2014- 2018 | Kitangali, Shinyanga, Mpuguso, Ndala | MoEST
-Pre- Primary and Primary | Canada | Primary School Teacher Training Program | 1) % of Standard I pupils with at least one year of pre-primary education 3) Promotion rate from primary to lower secondary 6) The % of out-of-school children of basic education school age 7) Pupil/Qualified Teacher Ratio in Primary Education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | The project focuses on improving literacy, numeracy and life skills learning at the pre-primary and primary school levels in order to lay the foundations for higher learning. The program aims to improve the skills of 5,350 teachers and 1,548 school principals and enhance the involvement of 400,000 parents in their children's education | CAD$10 million | 2016- 2020 | Mbeya and Njombe | UNICEF
+Pre-Primary, Primary, Lower Secondary and Higher Secondary | Canada | Upgrading Teachers' Colleges | 7) Pupil/Qualified Teacher Ratio in Primary Education 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 14) Transition rate from basic education to advanced secondary education and TVET | This initiative seeks to improve the quality of education for primary and secondary students by improving the quality of education that female and male teacher trainees receive. The project supports the renovation, construction and expansion of four teachers’ colleges in order to improve learning conditions for teacher trainees. | $20m CAD | 2014-2018 | Kitangali, Shinyanga, Mpuguso, Ndala | MoEST
+Pre-Primary and Primary | Canada | Primary School Teacher Training Program | 1) % of Standard I pupils with at least one year of pre-primary education 3) Promotion rate from primary to lower secondary 6) The % of out-of-school children of basic education school age 7) Pupil/Qualified Teacher Ratio in Primary Education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | The project focuses on improving literacy, numeracy and life skills learning at the pre-primary and primary school levels in order to lay the foundations for higher learning. The program aims to improve the skills of 5,350 teachers and 1,548 school principals and enhance the involvement of 400,000 parents in their children’s education | CAD$10 million | 2016-2020 | Mbeya and Njombe | UNICEF
 
 161
 
@@ -7673,10 +7643,10 @@ Pre- Primary and Primary | Canada | Primary School Teacher Training Program | 1)
 
 [[START OF PAGE 180]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Primary and Higher Education | Canada | Capacity Development for Mathematics Teaching in Rural and Remote Communities in Tanzania | 7) Pupil/Qualified Teacher Ratio in Primary Education 9) CSEE Pass Rate 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 14) Transition rate from basic education to advanced secondary education and TVET 17) The % of science and mathematics graduates among all university graduates | This project aims to build the capacity of primary teachers to teach mathematics in rural and remote schools by supporting their professional development through short courses, Masters and PhD programs. | CAD$3.2 million | 2012- 2017 | Dodoma, Morogoro, Iringa | University of Alberta
-Lower Secondary and Higher Secondary | DFID | e-Learning in secondary schools | 9) CSEE Pass Rate 14) Transition rate from basic education to advanced secondary education and TVET | This is a programme to enhance secondary education through using an e- learning platform using the national curriculum - with not just content, but also quizzes, videos, on-line assessments and ways to track student progress. This allows for students to progress at their own rate. The technology is being piloted in a number of different ways including a suitcase bank of tablets, solar powers and off grid - as well as projector based learning - and then on grid/on-line options. Initial goal is to reach 70 schools. | £398,054 | 2014- 2018 | Christian Social Services Commission (CSSC)
+Primary and Higher Education | Canada | Capacity Development for Mathematics Teaching in Rural and Remote Communities in Tanzania | 7) Pupil/Qualified Teacher Ratio in Primary Education 9) CSEE Pass Rate 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 14) Transition rate from basic education to advanced secondary education and TVET 17) The % of science and mathematics graduates among all university graduates | This project aims to build the capacity of primary teachers to teach mathematics in rural and remote schools by supporting their professional development through short courses, Masters and PhD programs. | CAD$3.2 million | 2012-2017 | Dodoma, Morogoro, Iringa | University of Alberta
+Lower Secondary and Higher Secondary | DFID | e-Learning in secondary schools | 9) CSEE Pass Rate 14) Transition rate from basic education to advanced secondary education and TVET | This is a programme to enhance secondary education through using an e-learning platform using the national curriculum - with not just content, but also quizzes, videos, on-line assessments and ways to track student progress. This allows for students to progress at their own rate. The technology is being piloted in a number of different ways including a suitcase bank of tablets, solar powers and off grid - as well as projector based learning - and then on grid/on-line options. Initial goal is to reach 70 schools. | £398,054 | 2014-2018 |  | Christian Social Services Commission (CSSC)
 
 162
 
@@ -7684,10 +7654,10 @@ Lower Secondary and Higher Secondary | DFID | e-Learning in secondary schools | 
 
 [[START OF PAGE 181]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary and Primary, System | DFID | Education Quality Improvement Programme | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Improve quality of education in primary schools in Tanzania and increase number of children, particularly girls, able to transfer to secondary education. (a) 230,000 eight to ten year old children able to read with comprehension. (b) 55,000 children passing their end of primary school examinations. (c) 27,500 more girls able to make the transition to secondary schools. (d) Improve teaching of early-grade reading and numeracy in 2000 | £50 million, from 2015/16 for 2 years £23m routed to LGAs as Financial Aid | 2013 - 2017 | 7 regions: Dodoma, Kigoma, Lindi, Mara, Shinyanga, Simiyu, Tabora | Mott McDonald: Cambridge Education (Management Agent ) British Council & VSO (ELT component closed)
-Pre- Primary | DFID | Human Development Innovation Fund - Multimedia pre-school learning | 1) % of Standard I pupils with at least one year of pre-primary education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | Ubongo Kids is an interactive educational TV program that delivers math and science lessons to students through entertaining stories and songs. Viewers can "interact" with the show's characters through short assessments on their mobile phones. Ubongo is now watched by 5 million children in East Africa. HDIF has specifically supported a new preschool learning edu-cartoon called Akili and Me which aims to get children ready to start school. It is available on radio and TV, and is watched on national TV by 1.3 million households each day. To complement this, Ubongo has developed mobile phone learning services - providing fun learning services - such as quizzes and games. | £390,492 | 2014- 2018 | National coverage | Ubongo Ltd.
+Pre-Primary and Primary, System | DFID | Education Quality Improvement Programme | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Improve quality of education in primary schools in Tanzania and increase number of children, particularly girls, able to transfer to secondary education. (a) 230,000 eight to ten year old children able to read with comprehension. (b) 55,000 children passing their end of primary school examinations. (c) 27,500 more girls able to make the transition to secondary schools. (d) Improve teaching of early-grade reading and numeracy in 2000 | £50 million, from 2015/16 for 2 years £23m routed to LGAs as Financial Aid | 2013 – 2017 | 7 regions: Dodoma, Kigoma, Lindi, Mara, Shinyanga, Simiyu, Tabora | Mott McDonald: Cambridge Education (Management Agent ) British Council & VSO (ELT component closed)
+Pre-Primary | DFID | Human Development Innovation Fund - Multimedia pre-school learning | 1) % of Standard I pupils with at least one year of pre-primary education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | Ubongo Kids is an interactive educational TV program that delivers math and science lessons to students through entertaining stories and songs. Viewers can "interact" with the show's characters through short assessments on their mobile phones. Ubongo is now watched by 5 million children in East Africa. HDIF has specifically supported a new preschool learning edu-cartoon called Akili and Me which aims to get children ready to start school. It is available on radio and TV, and is watched on national TV by 1.3 million households each day. To complement this, Ubongo has developed mobile phone learning services - providing fun learning services - such as quizzes and games. | £390,492 | 2014-2018 | National coverage | Ubongo Ltd.
 
 163
 
@@ -7695,11 +7665,11 @@ Pre- Primary | DFID | Human Development Innovation Fund - Multimedia pre-school 
 
 [[START OF PAGE 182]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Lower Secondary | DFID | Innovative problem based education for vulnerable girls. | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 9) CSEE Pass Rate 14) Transition rate from basic education (Form IV) to advance secondary education and to TVET | This is a secondary residential school for highly vulnerable girls - such as teenage mothers, HIV, early marriage etc. This has girls centred education - using a problem and project based approach to education, therefore changing education style in Tanzania from rote learning to problem solving. The programme integrates hands on STEAM (science technology engineering art and maths) - therefore enabling girls to earn an income following school and solve community problems. | £212.56 | 2014- 2018 | Dageno Girls Centre
-Lower Secondary | DFID | Mobile phone based revision and learning for secondary school students | 9) CSEE Pass Rate 14) Transition rate from basic education (Form IV) to advance secondary education and to TVET | This project is providing education content (form the national curriculum) for secondary school students and teachers through mobile phones and also an on-line platform. They have now launched Makini SMS - a revision and learning platform where students can not only read and learn, but also ask questions. This is being implemented with support from Tigo - one of the mobile phone providers in Tanzania. | £282,000 | 2014- 2018 | Shule Direct Company Limited
-Lower Secondary and Higher Secondary | JICA | Education | 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 14) Transition rate from basic education (Form IV) to advance secondary education and to TVET | In- Service Training (INSET) for Secondary school Science and Mathematics teachers | TZS 822,580,600 | 2013- 2016 | National
+Lower Secondary | DFID | Innovative problem based education for vulnerable girls. | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 9) CSEE Pass Rate 14) Transition rate from basic education (Form IV) to advance secondary education and to TVET | This is a secondary residential school for highly vulnerable girls - such as teenage mothers, HIV, early marriage etc. This has girls centred education - using a problem and project based approach to education, therefore changing education style in Tanzania from rote learning to problem solving. The programme integrates hands on STEAM (science technology engineering art and maths) - therefore enabling girls to earn an income following school and solve community problems. | £212.56 | 2014-2018 |  | Dageno Girls Centre
+Lower Secondary | DFID | Mobile phone based revision and learning for secondary school students | 9) CSEE Pass Rate 14) Transition rate from basic education (Form IV) to advance secondary education and to TVET | This project is providing education content (form the national curriculum) for secondary school students and teachers through mobile phones and also an on-line platform. They have now launched Makini SMS - a revision and learning platform where students can not only read and learn, but also ask questions. This is being implemented with support from Tigo - one of the mobile phone providers in Tanzania. | £282,000 | 2014-2018 |  | Shule Direct Company Limited
+Lower Secondary and Higher Secondary | JICA | Education | 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 14) Transition rate from basic education (Form IV) to advance secondary education and to TVET | In- Service Training (INSET) for Secondary school Science and Mathematics teachers | TZS 822,580,600 | 2013-2016 | National |
 
 164
 
@@ -7707,9 +7677,9 @@ Lower Secondary and Higher Secondary | JICA | Education | 8) Pupil/Qualified Tea
 
 [[START OF PAGE 183]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Primary, Lower Secondary, Higher Secondary and Higher Education | UNESCO | UNESCO- China Funds- in-Trust Project on 'Enhancing Teacher Education for Bridging the Education Quality - Phase II | 7) Pupil/Qualified Teacher Ratio in Primary Education 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 14) Transition rate from basic education to advanced secondary education and TVET | The Project on Enhancing Teacher Education for Bridging the Education Quality Gap in Tanzania aims to empower Teachers' Colleges (TC) tutors with relevant ICT skills for effective teaching and learning of Science, Mathematics and Language subjects. Through the use of ICTs, mobile learning, and knowledge production and sharing, the 2-year (2017 - 2019). The Project will support capacity building for tutors from 35 Science, Mathematics and Languages Teachers' Colleges in ICT -supported Blended Learning modalities. It will also support the development of guidelines for effective teaching and learning English and Kiswahili languages using ICTs. | $234,350 | 2017- 2019 | Butimba, Kleruu, Korogwe, Monduli, Mpwapwa, Mtwara Kawaida, Patandi, Songea, Tabora, Tukuyu, Kasulu, Bunda, Bustani, Dakawa, Ilonga, Kabanga, Katoke, Kinampanda , Kitangali, Mamire, Mandaka, Marangu, Mhonda, Morogoro, Mpuguso, Mtwara (U), Murutungur u, Nachingwea, Ndala, Shinyanga, Singachini, Sumbawang a, Tandala, Tarime, Vikindu (Teachers Colleges) | MoEST/ Open University of Tanzania/ University of Dar es Salaam/ Public Teachers' Colleges
+Primary, Lower Secondary, Higher Secondary and Higher Education | UNESCO | UNESCO-China Funds-in-Trust Project on “Enhancing Teacher Education for Bridging the Education Quality - Phase II | 7) Pupil/Qualified Teacher Ratio in Primary Education 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 14) Transition rate from basic education to advanced secondary education and TVET | The Project on Enhancing Teacher Education for Bridging the Education Quality Gap in Tanzania aims to empower Teachers’ Colleges (TC) tutors with relevant ICT skills for effective teaching and learning of Science, Mathematics and Language subjects. Through the use of ICTs, mobile learning, and knowledge production and sharing, the 2-year (2017 – 2019). The Project will support capacity building for tutors from 35 Science, Mathematics and Languages Teachers’ Colleges in ICT-supported Blended Learning modalities. It will also support the development of guidelines for effective teaching and learning English and Kiswahili languages using ICTs. | $234,350 | 2017-2019 | Butimba, Kleruu, Korogwe, Monduli, Mpwapwa, Mtwara Kawaida, Patandi, Songea, Tabora, Tukuyu, Kasulu, Bunda, Bustani, Dakawa, Ilonga, Kabanga, Katoke, Kinampanda, Kitangali, Mamire, Mandaka, Marangu, Mhonda, Morogoro, Mpuguso, Mtwara (U), Murutunguru, Nachingwea, Ndala, Shinyanga, Singachini, Sumbawanga, Tandala, Tarime, Vikindu (Teachers Colleges) | MoEST/Open University of Tanzania/University of Dar es Salaam/Public Teachers' Colleges
 
 165
 
@@ -7717,11 +7687,11 @@ Primary, Lower Secondary, Higher Secondary and Higher Education | UNESCO | UNESC
 
 [[START OF PAGE 184]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Primary and Out- of-School Children | UNESCO | XPRIZE Project for Promotion of Early Learning Through Innovative Technologies in Tanzania | 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | XPRIZE Project will deliver around 4,000 tablets, with interactive educational applications, to be tested by children of between 7 to 10 years. The purpose is to identify quality software solutions which can boost the learning gains during early education, especially for unprivileged children with limited access to school. | $1,939,689 | 2015- 2018 | 1) Tanga Region (Handeni, Kilindi, Korogwe, Lushoto, Mkinga, Muheza & Pangani Districts) 2) Arusha Region (Ngorongoro District) | UNESCO
-Primary and Lower Secondary | UNESCO | Education | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | Supporting implementation of Human Rights Education for enhanced rights based teaching and learning. | $118,000 | 2017- 2021 | Shinyanga, Sengerema, Ngorongoro, Tanga, Micheweni (Pemba)
-Primary, Lower Secondary and Higher Secondary | UNESCO | Education | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 14) Transition rate from basic education to advanced secondary education and TVET | Strengthening Sexual and Reproductive Health and HIV prevention amongst children and young people through promoting comprehensive sexuality education in Tanzania | $1,000,000 | 2017- 2021 | National and District Level
+Primary and Out-of-School Children | UNESCO | XPRIZE Project for Promotion of Early Learning Through Innovative Technologies in Tanzania | 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) | XPRIZE Project will deliver around 4,000 tablets, with interactive educational applications, to be tested by children of between 7 to 10 years. The purpose is to identify quality software solutions which can boost the learning gains during early education, especially for unprivileged children with limited access to school. | $1,939,689 | 2015-2018 | 1) Tanga Region (Handeni, Kilindi, Korogwe, Lushoto, Mkinga, Muheza & Pangani Districts) 2) Arusha Region (Ngorongoro District) | UNESCO
+Primary and Lower Secondary | UNESCO | Education | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | Supporting implementation of Human Rights Education for enhanced rights based teaching and learning. | $118,000 | 2017-2021 | Shinyanga, Sengerema, Ngorongoro, Tanga, Micheweni (Pemba) |
+Primary, Lower Secondary and Higher Secondary | UNESCO | Education | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 14) Transition rate from basic education to advanced secondary education and TVET | Strengthening Sexual and Reproductive Health and HIV prevention amongst children and young people through promoting comprehensive sexuality education in Tanzania | $1,000,000 | 2017-2021 | National and District Level |
 
 166
 
@@ -7729,10 +7699,10 @@ Primary, Lower Secondary and Higher Secondary | UNESCO | Education | 4) Survival
 
 [[START OF PAGE 185]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary | UNICEF | Measuring Early Learning Quality and Outcomes in Tanzania (in partnership with World Bank) | 1) % of Standard I pupils with at least one year of pre-primary education | The Measuring Early Learning Quality and Outcomes (MELQO) initiative aims to improve early childhood education worldwide through measurement of children's development and learning and of the quality of their learning environments, with a focus on school readiness | $500,000 | 2016- 2017 | National | RTI international
-Pre- Primary, Primary, Lower Secondary and Out- of-School Children, System | UNICEF | Basic Education | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Development of innovative cost-effective pre-primary satellite model for hard to reach areas; In-Service Pre-primary and Primary Teacher Education (focusing on 3Rs and Lifeskills); Equity and Inclusion In Primary Schools and Provision of Skills-based Alternative Learning Opportunities for Adolescents Out of School, especially for girls and children with disability; Systems' Strengthening including Capacity Strengthening in Policy Analysis, Strategic Planning and RBM and School Management Training for Schools Heads; Emergency Preparedness and Response | $26,500,000 | 2016/2017-2021/2022 | National (policy/syste ms level support), Mbeya, Iringa, Njombe, Zanzibar | Government of Tanzania (MoEST, TIE, ADEM, LGAs, Patandi TC, Korogwe TC) and Children's Book Project)
+Pre-Primary | UNICEF | Measuring Early Learning Quality and Outcomes in Tanzania (in partnership with World Bank) | 1) % of Standard I pupils with at least one year of pre-primary education | The Measuring Early Learning Quality and Outcomes (MELQO) initiative aims to improve early childhood education worldwide through measurement of children’s development and learning and of the quality of their learning environments, with a focus on school readiness | $500,000 | 2016-2017 | National | RTI international
+Pre-Primary, Primary, Lower Secondary and Out-of-School Children, System | UNICEF | Basic Education | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Development of innovative cost-effective pre-primary satellite model for hard to reach areas; In-Service Pre-primary and Primary Teacher Education (focusing on 3Rs and Lifeskills); Equity and Inclusion In Primary Schools and Provision of Skills-based Alternative Learning Opportunities for Adolescents Out of School, especially for girls and children with disability; Systems' Strengthening including Capacity Strengthening in Policy Analysis, Strategic Planning and RBM and School Management Training for Schools Heads; Emergency Preparedness and Response | $26,500,000 | 2016/2017-2021/2022 | National (policy/systems level support), Mbeya, Iringa, Njombe, Zanzibar | Government of Tanzania (MoEST, TIE, ADEM, LGAs, Patandi TC, Korogwe TC) and Children's Book Project)
 Primary | USAID | Support for National Early Grade Reading Assessment (EGRA) | 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | National Assessment of Early Grade Reading, Writing Skills and Mathematics(EGRA/EGMA) | $3,425,000 | Oct 2015- Sept 2018 | National | RTI international
 
 167
@@ -7741,10 +7711,10 @@ Primary | USAID | Support for National Early Grade Reading Assessment (EGRA) | 1
 
 [[START OF PAGE 186]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary and Primary | USAID | Tusome Pamoja (Let's Read Together) | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 7) Pupil/Qualified Teacher Ratio in Primary Education (Cycle 1) 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Tusome Pamoja is a results-oriented, evidence-based early grade reading and math program. The program focuses on 1) in-service teacher training in reading and math instruction; 2) developing materials to support early grade reading instruction, including teacher manuals and levelled, decodable supplementary readers in Kiswahili for students; 3) strengthening performance management for education system administrators including mentoring, monitoring, evaluation, and research; 4) strengthening parent and community participation in school governance, school management and students' learning. | $67,000,000 | Jan 2016- Dec 2020 | Iringa, Morogoro, Mtwara, Ruvuma and Zanzibar | RTI international
-Primary | Canada | Support to 3Rs Assessment | 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Support for the 2015 and 2017 National Assessment of Early Grade Mathematics Assessment (EGMA) | CAD$ 80,000 | 2016- 2017 | National | RTI international
+Pre-Primary and Primary | USAID | Tusome Pamoja (Let's Read Together) | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 7) Pupil/Qualified Teacher Ratio in Primary Education (Cycle 1) 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Tusome Pamoja is a results-oriented, evidence-based early grade reading and math program. The program focuses on 1) in-service teacher training in reading and math instruction; 2) developing materials to support early grade reading instruction, including teacher manuals and levelled, decodable supplementary readers in Kiswahili for students; 3) strengthening performance management for education system administrators including mentoring, monitoring, evaluation, and research; 4) strengthening parent and community participation in school governance, school management and students' learning. | $67,000,000 | Jan 2016- Dec 2020 | Iringa, Morogoro, Mtwara, Ruvuma and Zanzibar | RTI international
+Primary | Canada | Support to 3Rs Assessment | 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Support for the 2015 and 2017 National Assessment of Early Grade Mathematics Assessment (EGMA) | CAD$ 80,000 | 2016-2017 | National | RTI international
 
 168
 
@@ -7752,10 +7722,10 @@ Primary | Canada | Support to 3Rs Assessment | 11) % Std II learners achieving t
 
 [[START OF PAGE 187]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary and Primary, System | Sweden (Grant Agent) + Canada/ DFID (Coordin ating Agent) | Global Partnership for Education: Literacy and Numeracy Education Support (GPE LANES) | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Std 1 3) Promotion rate from primary to lower secondary 5) Average drop-out rate in primary education 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Improve Literacy and Numeracy skills (LANES) aiming at improving the acquisition of reading, writing and numeracy skills (3Rs) among children . The focus is on three major areas: 1) Improved teaching and learning of 3Rs for children aged 5 to 13 years in and out of school, 2) Improved education sector leadership, planning and management, and 3) Increased community engagement in literacy and numeracy. The age group is 5 through 11 years with a consideration of 2 to 4 year old children in day care centres; and 9 to 13 year old children in Non Formal Education programmes. Special attention to activities targeting marginalized children, particularly children in hard to reach and hard to serve areas. Key aspects of the programme have a national coverage, while some aspects have been scaled down to regions not receiving similar support from other Development Partners in order to avoid duplications. | $94.8m | 2014- 2018 | Morogoro; Pwani; Ruvuma; Dar es Salaam; Tanga; Rukwa; Arucha; Singida; Kagera; Mwanza;Kat avi; Geita; Kilimanjaro; Manyara | MoEST and PO- RALG
-Lower Secondary and Higher Secondary | Sweden | Teaching and Learning Science, Mathematics and English in Secondary Schools through the use of ICT | 9) CSEE Pass Rate 14) Transition rate from basic education to advanced secondary education and TVET | Improve teachers competence in teaching and learning through ICT to increase students participation in learning the subjects through the use of ICT | 7,013,000 SEK | 2010 - 2016 | 21 schools and 7 TTCs Arusha; Iringa, Morogoro; Mtwara;Mw anza; Singida;Tabo ra | MoEST
+Pre-Primary and Primary, System | Sweden (Grant Agent) + Canada/DFID (Coordinating Agent) | Global Partnership for Education: Literacy and Numeracy Education Support (GPE LANES) | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Std 1 3) Promotion rate from primary to lower secondary 5) Average drop-out rate in primary education 6) The % of out-of-school children of basic education school age 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | Improve Literacy and Numeracy skills (LANES) aiming at improving the acquisition of reading, writing and numeracy skills (3Rs) among children . The focus is on three major areas: 1) Improved teaching and learning of 3Rs for children aged 5 to 13 years in and out of school, 2) Improved education sector leadership, planning and management, and 3) Increased community engagement in literacy and numeracy. The age group is 5 through 11 years with a consideration of 2 to 4 year old children in day care centres; and 9 to 13 year old children in Non Formal Education programmes. Special attention to activities targeting marginalized children, particularly children in hard to reach and hard to serve areas. Key aspects of the programme have a national coverage, while some aspects have been scaled down to regions not receiving similar support from other Development Partners in order to avoid duplications. | $94.8m | 2014-2018 | Morogoro; Pwani; Ruvuma; Dar es Salaam; Tanga; Rukwa; Arucha; Singida; Kagera; Mwanza;Katavi; Geita; Kilimanjaro; Manyara | MoEST and PO-RALG
+Lower Secondary and Higher Secondary | Sweden | Teaching and Learning Science, Mathematics and English in Secondary Schools through the use of ICT | 9) CSEE Pass Rate 14) Transition rate from basic education to advanced secondary education and TVET | Improve teachers competence in teaching and learning through ICT to increase students participation in learning the subjects through the use of ICT | 7,013,000 SEK | 2010 - 2016 | 21 schools and 7 TTCs Arusha; Iringa, Morogoro; Mtwara;Mwanza; Singida;Tabora | MoEST
 
 169
 
@@ -7763,11 +7733,11 @@ Lower Secondary and Higher Secondary | Sweden | Teaching and Learning Science, M
 
 [[START OF PAGE 188]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-TVET | AfDB | Support to Technical Vocation education and Training and Teachers Education ( STVET) | 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation | This project focuses on the Technical Vocational Education and Training (TVET) sub-sector and Teacher Education (TE), with the aim of contributing to efforts to increase the supply of skilled labour and build capacity for teacher education. | Total- 58,000,000 USD ADF- 52,197,140 USD | Government- 5,803,093 August 2015- December 2019 | Tanzania Mainland
-TVET | Canada | Improving Skills Training for Employment Program | 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation | This project supports technical and vocational training institutions to deliver skills training that will allow students to find or create employment in the tourism and extractive sectors. | CAD$ 13.15 million | 2014- 2019 | Mwanza, Moshi, Dar es Salaam, Morogoro, Shinyanga, Dodoma, Pwani, Mkumi | Colleges and Institutes Canada
-Lower Secondary, Higher Secondary and TVET | DFID | School based business clubs | 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 16) % of TVET graduates with relevant employment one year after graduation | This project is setting up Business Clubs in 30 government schools in rural poor communities, providing skills to 1350 secondary school children as well as train 135 secondary school teachers as mentors. Currently the national curriculum does not include skills necessary for employment - such as entrepreneurship. Each club sets us small businesses that run throughout the school year - and brings some income into the school. Schools in the area compete to have the best and most profitable businesses. The teachers learn new ways to teach that has an impact far beyond the business clubs. | £400,000 | 2014- 2018 | Fundación Paraguaya de Cooperación y Desarrollo
+TVET | AfDB | Support to Technical Vocation education and Training and Teachers Education ( STVET) | 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation | This project focuses on the Technical Vocational Education and Training (TVET) sub-sector and Teacher Education (TE), with the aim of contributing to efforts to increase the supply of skilled labour and build capacity for teacher education. | Total- 58,000,000 USD ADF- 52,197,140 USD Government- 5,803,093 | August 2015- December 2019 | Tanzania Mainland |
+TVET | Canada | Improving Skills Training for Employment Program | 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation | This project supports technical and vocational training institutions to deliver skills training that will allow students to find or create employment in the tourism and extractive sectors. | CAD$ 13.15 million | 2014-2019 | Mwanza, Moshi, Dar es Salaam, Morogoro, Shinyanga, Dodoma, Pwani, Mkumi | Colleges and Institutes Canada
+Lower Secondary, Higher Secondary and TVET | DFID | School based business clubs | 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 16) % of TVET graduates with relevant employment one year after graduation | This project is setting up Business Clubs in 30 government schools in rural poor communities, providing skills to 1350 secondary school children as well as train 135 secondary school teachers as mentors. Currently the national curriculum does not include skills necessary for employment - such as entrepreneurship. Each club sets us small businesses that run throughout the school year - and brings some income into the school. Schools in the area compete to have the best and most profitable businesses. The teachers learn new ways to teach that has an impact far beyond the business clubs. | £400,000 | 2014-2018 |  | Fundación Paraguaya de Cooperación y Desarrollo
 
 170
 
@@ -7775,11 +7745,11 @@ Lower Secondary, Higher Secondary and TVET | DFID | School based business clubs 
 
 [[START OF PAGE 189]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Lower Secondary, Higher Secondary, Out-of- School Children and TVET | DFID | In school and out of school training in entrepreneurs hip and technology | 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation | This project - known as the Cycle of Transformation - providing support to in-school and out of school youth in entrepreneurship and technology. They are expected to establish student run companies. Products are sold to help bring in more students. The experienced youth then become qualified to become teachers in the next cycle. As a result, youth gain work based skills in technology, marketing, accounting and leadership. | £400,000 | 2014- 2018 | World Vision Tanzania (WVT)
-TVET and Out-of- School Children | DFID | Digital skills in vocational education centres and for out of school youth - delivered by young trainers | 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation | This project is working with government based vocational education centres to enhance digital skills. These vocational centres are being opened up to out of school youth. The model using young mentors who provide peer-to-peer education. They include two initiatives - Teachup! in the classroom integrating use of innovative technology, new learning methods and digital skills... and Reachup! for out of school youth bringing in digital skills, workforce skills and entrepreneurial empowerment. The project will serve 600 VETA students, 120 VETA trainers and 1600 out fo school youth. | £398,420 | 2014- 2018 | Digital Opportunity Trust (DOT)
-Higher Education | World Bank | African Centre of Excellence (ACEII) | 17) The % of science and mathematics graduates among all university graduates 18) The gross enrolment rate in university education 19) The % of university graduates with relevant employment one year after graduation, by main stream | The main objective of this proposed project is to establish and strengthen specialization and collaboration among a network of higher education institutions in the Eastern and Southern Africa region to deliver relevant and quality education and applied research to address key development challenges facing the region. | $24 million | 2016 | National | MoEST/PO- RALG
+Lower Secondary, Higher Secondary, Out-of-School Children and TVET | DFID | In school and out of school training in entrepreneurship and technology | 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation | This project - known as the Cycle of Transformation - providing support to in-school and out of school youth in entrepreneurship and technology. They are expected to establish student run companies. Products are sold to help bring in more students. The experienced youth then become qualified to become teachers in the next cycle. As a result, youth gain work based skills in technology, marketing, accounting and leadership. | £400,000 | 2014-2018 |  | World Vision Tanzania (WVT)
+TVET and Out-of-School Children | DFID | Digital skills in vocational education centres and for out of school youth - delivered by young trainers | 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation | This project is working with government based vocational education centres to enhance digital skills. These vocational centres are being opened up to out of school youth. The model using young mentors who provide peer-to-peer education. They include two initiatives - Teachup! in the classroom integrating use of innovative technology, new learning methods and digital skills... and Reachup! for out of school youth bringing in digital skills, workforce skills and entrepreneurial empowerment. The project will serve 600 VETA students, 120 VETA trainers and 1600 out fo school youth. | £398,420 | 2014-2018 |  | Digital Opportunity Trust (DOT)
+Higher Education | World Bank | African Centre of Excellence (ACEII) | 17) The % of science and mathematics graduates among all university graduates 18) The gross enrolment rate in university education 19) The % of university graduates with relevant employment one year after graduation, by main stream | The main objective of this proposed project is to establish and strengthen specialization and collaboration among a network of higher education institutions in the Eastern and Southern Africa region to deliver relevant and quality education and applied research to address key development challenges facing the region. | $24 million | 2016 | National | MoEST/PO-RALG
 
 171
 
@@ -7787,10 +7757,10 @@ Higher Education | World Bank | African Centre of Excellence (ACEII) | 17) The %
 
 [[START OF PAGE 190]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary and Primary, System | Canada | Strengthening Education Systems in East Africa | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 5) Average drop-out rate in primary education 7) Pupil/Qualified Teacher Ratio in Primary Education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | The objectives of the project are to improve the professional development of pre-primary and primary educators by introducing new accredited programs, and creating opportunities for uncertified teachers; strengthening education and support systems by building accountable leadership, management and technical capacity at the district and regional levels; and to promote learning and dialogue through the development of a regionally relevant, high-quality knowledge base on education policy and practice. | CAD$24 million | 2012- 2017 | Mtwara, Lindi | Aga Khan Development Network
-System | Canada | Support to HakiElimu | 22) System strengthening | This contribution represents Canada's institutional support to HakiElimu, a Tanzanian civil society organization working in the education sector. HakiElimu's mandate is to promote improved quality, transparency and accountability of investments in education. | CAD$2.5 million | 2014- 2018 | National | HakiElimu
+Pre-Primary and Primary, System | Canada | Strengthening Education Systems in East Africa | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 5) Average drop-out rate in primary education 7) Pupil/Qualified Teacher Ratio in Primary Education 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 22) System strengthening | The objectives of the project are to improve the professional development of pre-primary and primary educators by introducing new accredited programs, and creating opportunities for uncertified teachers; strengthening education and support systems by building accountable leadership, management and technical capacity at the district and regional levels; and to promote learning and dialogue through the development of a regionally relevant, high-quality knowledge base on education policy and practice. | CAD$24 million | 2012-2017 | Mtwara, Lindi | Aga Khan Development Network
+System | Canada | Support to HakiElimu | 22) System strengthening | This contribution represents Canada’s institutional support to HakiElimu, a Tanzanian civil society organization working in the education sector. HakiElimu’s mandate is to promote improved quality, transparency and accountability of investments in education. | CAD$2.5 million | 2014-2018 | National | HakiElimu
 
 172
 
@@ -7798,10 +7768,10 @@ System | Canada | Support to HakiElimu | 22) System strengthening | This contrib
 
 [[START OF PAGE 191]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Primary and Lower Secondary, System | DFID, Sweden, World Bank | Education Program for Results (EPforR) | 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education 6) The % of out-of-school children of basic education school age 7) Pupil/Qualified Teacher Ratio in Primary Education 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 20) % of outcome targets achieved in a timely manner, key management improvements 21) % of KPIs for which information is presented and analysed in the yearly statistical abstract 22) System strengthened | Incentivise both national and local stakeholders to improve and reform the basic education system. Improve the average reading speed and numeracy levels of primary grade two students and end of primary and lower secondary school examination pass rates. Improve student retention rates. Sustainably strengthen key sub-systems including resource allocation, data management, teacher deployment and motivation, and performance incentives. | £60million (DFID) + SEK300million (Sweden) + USD122 million (World Bank) Additional Financing of USD75 million (World Bank) and SEK885 million (Sweden) in process | 2014-2018 (extension to 2020 in process) | National | MoEST, PO- RALG, Regions, LGAs, Cambridge Education
-System | Sweden | Support to HakiElimu | 22) System strengthening | Creation of an open, just and democratic society with quality education for all | 30m SEK | 2017- 2019 | National | HakiElimu
+Primary and Lower Secondary, System | DFID, Sweden, World Bank | Education Program for Results (EPforR) | 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education 6) The % of out-of-school children of basic education school age 7) Pupil/Qualified Teacher Ratio in Primary Education 8) Pupil/Qualified Teacher Ratio in Lower Secondary Education 9) CSEE Pass Rate 10) % Std II learners achieving the national benchmark in reading with comprehension 11) % Std II learners achieving the national benchmark in mathematics (level 2 addition and subtraction) 20) % of outcome targets achieved in a timely manner, key management improvements 21) % of KPIs for which information is presented and analysed in the yearly statistical abstract 22) System strengthened | Incentivise both national and local stakeholders to improve and reform the basic education system. Improve the average reading speed and numeracy levels of primary grade two students and end of primary and lower secondary school examination pass rates. Improve student retention rates. Sustainably strengthen key sub-systems including resource allocation, data management, teacher deployment and motivation, and performance incentives. | £60million (DFID) + SEK300million (Sweden) + USD122 million (World Bank) Additional Financing of USD75 million (World Bank) and SEK885 million (Sweden) in process | 2014-2018 (extension to 2020 in process) | National | MoEST, PO-RALG, Regions, LGAs, Cambridge Education
+System | Sweden | Support to HakiElimu | 22) System strengthening | Creation of an open, just and democratic society with quality education for all | 30m SEK | 2017-2019 | National | HakiElimu
 
 173
 
@@ -7809,9 +7779,9 @@ System | Sweden | Support to HakiElimu | 22) System strengthening | Creation of 
 
 [[START OF PAGE 192]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary, Primary, Lower Secondary and Adult Education | Sweden | Core Support to TENMET | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 12) Total enrolment in adult education 13) % adult learners achieving a basic level of proficiency in literacy and numeracy skills 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 22) System strengthening | Promote equitable access to quality education for all by strengthening education CSOs | 5,000,000 SEK | 2015- 2017 | National | TENMET
+Pre-Primary, Primary, Lower Secondary and Adult Education | Sweden | Core Support to TENMET | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 12) Total enrolment in adult education 13) % adult learners achieving a basic level of proficiency in literacy and numeracy skills 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 22) System strengthening | Promote equitable access to quality education for all by strengthening education CSOs | 5,000,000 SEK | 2015-2017 | National | TENMET
 
 174
 
@@ -7819,10 +7789,10 @@ Pre- Primary, Primary, Lower Secondary and Adult Education | Sweden | Core Suppo
 
 [[START OF PAGE 193]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- Primary, Primary, Lower Secondary and Adult Education | Sweden | Core Support to Twaweza | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 12) Total enrolment in adult education 13) % adult learners achieving a basic level of proficiency in literacy and numeracy skills 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 22) System strengthening | Enhance citizen agency with respect to access to information and enabling people take action to improve service delivery in education, water and health | 60m SEK | 2015- 2018 | National | Twaweza
-Primary, Lower Secondary and Higher Secondary | UNESCO | Education | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 14) Transition rate from basic education to advanced secondary education and TVET 22) System strengthening | Strengthening capacity development within the framework of sector wide approach: Delivering, Monitoring and Scaling up the effective and quality comprehensive HIV & Sexuality Education in Tanzania | $300,000 | 2017- 2021 | National | MoEST/UNESCO
+Pre-Primary, Primary, Lower Secondary and Adult Education | Sweden | Core Support to Twaweza | 1) % of Standard I pupils with at least one year of pre-primary education 2) Gross intake ratio to Standard I 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age 12) Total enrolment in adult education 13) % adult learners achieving a basic level of proficiency in literacy and numeracy skills 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 22) System strengthening | Enhance citizen agency with respect to access to information and enabling people take action to improve service delivery in education, water and health | 60m SEK | 2015-2018 | National | Twaweza
+Primary, Lower Secondary and Higher Secondary | UNESCO | Education | 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 6) The % of out-of-school children of basic education school age 14) Transition rate from basic education to advanced secondary education and TVET 22) System strengthening | Strengthening capacity development within the framework of sector wide approach: Delivering, Monitoring and Scaling up the effective and quality comprehensive HIV & Sexuality Education in Tanzania | $300,000 | 2017-2021 | National | MoEST/UNESCO
 
 175
 
@@ -7830,11 +7800,11 @@ Primary, Lower Secondary and Higher Secondary | UNESCO | Education | 4) Survival
 
 [[START OF PAGE 194]]
 
-Sub- Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
+Sub-Sector | Donor | Project | ESDP KPIs | Project Summary / Priorities | Funding | Time frame | Location | Implementing Partner
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Primary, Lower Secondary and Adult Education | UNESCO | Joint Project for the Empowerment of Adolescent Girls and Young Women through Education | 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | The Joint Project is part of a global initiative to address the unfinished business of the MDGs especially girls and women empowerment. The global initiative aims to contribute to SDG 3, 4 and 5 to ensure healthy lives and promote well-being for all at all ages, ensure inclusive and equitable quality education and promote lifelong learning opportunities for all and, achieve gender equality and empower all women and girls. | $5,000,000.00 | 2017- 2021 | Ngorongoro in Arusha, Kasulu in Kigoma, Sengerema in Mwanza and Micheweni and Mkoani in Pemba | UNFPA, UN Women
-TVET | UNESCO | Education | 14)Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 15)% graduates of TVET Institutions by qualification 16)% of TVET graduates with relevant employment one year after graduation | Giving young people a better chance of accessing decent employment and/or job generating self-employment, through improvements in the TVET systems of Tanzania 1. Increasing the relevance of TVET to the needs of the economy and labour market 2. Enhancing the quality of TVET institutions and of the education and training they deliver 3. Improving the perception of TVET among young people and more broadly in society | US$ 1.4 million | 2017- 2021 | UNESCO's Biosphere Reserves and World Heritage Sites | (Still felxible) Ministry of Labour (Prime Minister's Office)/ PO-RALG/ MoEST
-TVET | World Bank | Education and Skills for Productive Jobs (ESPJ) | 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation 22) System strengthening | Strengthen the institutional capacity of the GoT's skills development system and to promote the expansion and quality of labour market driven skills development opportunities in select economic sectors. | US$ 120 million | 2016- 2021 | National | MoEST/PO- RALG
+Primary, Lower Secondary and Adult Education | UNESCO | Joint Project for the Empowerment of Adolescent Girls and Young Women through Education | 3) Promotion rate from Cycle 1 to Cycle 2 of basic education (primary to lower secondary) 4) Survival Rate from primary Standard 1 to the last grade of basic education cycle 2 (Form IV) 5) Average dropout rate in primary education (cycle 1) 6) The % of out-of-school children of basic education school age | The Joint Project is part of a global initiative to address the unfinished business of the MDGs especially girls and women empowerment. The global initiative aims to contribute to SDG 3, 4 and 5 to ensure healthy lives and promote well-being for all at all ages, ensure inclusive and equitable quality education and promote lifelong learning opportunities for all and, achieve gender equality and empower all women and girls. | $5,000,000.00 | 2017-2021 | Ngorongoro in Arusha, Kasulu in Kigoma, Sengerema in Mwanza and Micheweni and Mkoani in Pemba | UNFPA, UN Women
+TVET | UNESCO | Education | 14)Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 15)% graduates of TVET Institutions by qualification 16)% of TVET graduates with relevant employment one year after graduation | Giving young people a better chance of accessing decent employment and/or job generating self-employment, through improvements in the TVET systems of Tanzania 1. Increasing the relevance of TVET to the needs of the economy and labour market 2. Enhancing the quality of TVET institutions and of the education and training they deliver 3. Improving the perception of TVET among young people and more broadly in society | US$ 1.4 million | 2017-2021 | UNESCO's Biosphere Reserves and World Heritage Sites | (Still felxible) Ministry of Labour (Prime Minister's Office)/ PO-RALG/ MoEST
+TVET | World Bank | Education and Skills for Productive Jobs (ESPJ) | 14) Transition rate from Basic education (Form IV) to advanced secondary education and to TVET 15) % graduates of TVET Institutions by qualification 16) % of TVET graduates with relevant employment one year after graduation 22) System strengthening | Strengthen the institutional capacity of the GoT's skills development system and to promote the expansion and quality of labour market driven skills development opportunities in select economic sectors. | US$ 120 million | 2016-2021 | National | MoEST/PO-RALG
 
 176
 
@@ -7844,20 +7814,20 @@ TVET | World Bank | Education and Skills for Productive Jobs (ESPJ) | 14) Transi
 
 ## Annex 2: Indicators and Results for the ESDP Priority Programmes
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 #### 1: Access, Participation and Equity in Basic and Secondary Education
 ##### Sub Programme 1.A : Pre-Primary
 ###### Objective:
 Equitable access and participation in at least one year of free pre-primary education, with particular attention to excluded and disadvantaged groups
-K01 % of children in primary Standard I who have completed one year of pre- primary education, by region and gender K03 GER in pre-primary K04 NER in pre-primary |
-###### Infrastructure/Distance-to- School
+K01 % of children in primary Standard I who have completed one year of pre-primary education, by region and gender K03 GER in pre-primary K04 NER in pre-primary |
+###### Infrastructure/Distance-to-School
 ###### Outcome:
-Expanded supply and accessibility of schools and classrooms, to meet pupil- classroom ratio standards and reduce regional disparities in distance to school (LF: A1) | 1A01 Pre-primary GER, by region and gender 1A02 % of primary schools with a dedicated pre-primary classroom 1A03 Pupil-classroom ratio 1A04 Average distance to school for pre-primary, by district and region | Expand existing primary school buildings' capacity to accommodate pre-primary children | Existing schools have adequate classroom space to provide pre-primary education to children within their catchment area
+Expanded supply and accessibility of schools and classrooms, to meet pupil-classroom ratio standards and reduce regional disparities in distance to school (LF: A1) | 1A01 Pre-primary GER, by region and gender 1A02 % of primary schools with a dedicated pre-primary classroom 1A03 Pupil-classroom ratio 1A04 Average distance to school for pre-primary, by district and region | Expand existing primary school buildings’ capacity to accommodate pre-primary children | Existing schools have adequate classroom space to provide pre-primary education to children within their catchment area
 Establish satellite centres to accommodate children living far away from schools | Children, including those who live in remote areas far from primary schools, are able to enrol in pre-primary education via satellite centres
 ###### Teachers
 ###### Outcome:
-Availability and equitable deployment of sufficient number of adequately trained pre-primary teachers, respecting pupil-teacher ratio standards (LF: A1, Q1) | 1A05 PTR, by gender and region | Increase the intake of candidates/trainees into pre- primary teacher education | Availability of pre-primary teachers in sufficient numbers
+Availability and equitable deployment of sufficient number of adequately trained pre-primary teachers, respecting pupil-teacher ratio standards (LF: A1, Q1) | 1A05 PTR, by gender and region | Increase the intake of candidates/trainees into pre-primary teacher education | Availability of pre-primary teachers in sufficient numbers
 Recognise pre-primary/early childhood as an employment stream, having an approved scheme of service and specialised pre-service training | Pre-primary / early-grade teaching achieves status as a specialised field of teaching with appropriate pre-service training and career path
 Improve pre-primary teacher deployment, including through better collection and use of data | Data on the pre-primary workforce and expected shortfalls are systematically used to inform pre-primary teaching staff development and deployment
 
@@ -7867,16 +7837,17 @@ Improve pre-primary teacher deployment, including through better collection and 
 
 [[START OF PAGE 196]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
+Strengthen professional development of pre-primary teachers including early gender socialization practices | Pre-primary teachers participate in professional development programmes, which respond to their training needs
 ###### School Environment
 ###### Outcome:
-Schools and satellite centres | 1A06 % of pre-primary classes/areas that meet minimum set standards | Strengthen professional development of pre-primary teachers including early gender socialization practices | Pre-primary teachers participate in professional development programmes, which respond to their training needs
-are inclusive, safe, age- appropriate and child-friendly, encouraging timely enrolment, attendance and retention (LF: A2, A5, Q3, Q4) | Provide pre-primary classrooms/areas with the necessary materials, equipment, facilities and safety measures Supply gender and disability sensitive materials and facilities to cater for children from | Pre-primary children attend classes in an environment with adequate materials and equipment, that are safe and appropriate for their age Materials and facilities are increasingly available for children from disadvantaged groups
+Schools and satellite centres are inclusive, safe, age-appropriate and child-friendly, encouraging timely enrolment, attendance and retention (LF: A2, A5, Q3, Q4) | 1A06 % of pre-primary classes/areas that meet minimum set standards | Provide pre-primary classrooms/areas with the necessary materials, equipment, facilities and safety measures | Pre-primary children attend classes in an environment with adequate materials and equipment, that are safe and appropriate for their age
+Supply gender and disability sensitive materials and facilities to cater for children from currently disadvantaged groups | Materials and facilities are increasingly available for children from disadvantaged groups
 ###### Community Participation
 ###### Outcome:
-Parent and community knowledge and support for one year of pre-primary for all (at the correct age) is reinforced, and commitment to early learning at home and at school is increased (LF: A1, | 1A07 % of school management committees who actively support pre-primary schooling | currently disadvantaged groups Develop and implement a parenting communication and education campaign on support and engagement in pre-primary education | All parents are aware of the benefits of early learning and pre-primary education, and supporting practices, leading to improved school readiness, timely entry to pre-primary and positive socialization practices
-A2, A5, M2) | Community engagement in promoting, supporting, sustaining and improving pre- primary education, including through school and satellite management committees | Stronger community engagement and advocacy in expanding/improving local pre- primary education and early learning opportunities
+Parent and community knowledge and support for one year of pre-primary for all (at the correct age) is reinforced, and commitment to early learning at home and at school is increased (LF: A1, A2, A5, M2) | 1A07 % of school management committees who actively support pre-primary schooling | Develop and implement a parenting communication and education campaign on support and engagement in pre-primary education | All parents are aware of the benefits of early learning and pre-primary education, and supporting practices, leading to improved school readiness, timely entry to pre-primary and positive socialization practices
+Community engagement in promoting, supporting, sustaining and improving pre-primary education, including through school and satellite management committees | Stronger community engagement and advocacy in expanding/improving local pre-primary education and early learning opportunities
 
 178
 
@@ -7884,21 +7855,20 @@ A2, A5, M2) | Community engagement in promoting, supporting, sustaining and impr
 
 [[START OF PAGE 197]]
 
-Indicators (KPIs in bold | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
-)
 ##### Sub Programme 1.B : Primary and Lower Secondary
 ###### Objective :
-Equitable access to and successful completion of basic education for all, improving internal efficiency and addressing the causes of dropout,
-K02 Gross intake ratio to primary Standard I K03 GER in Primary and Lower Secondary K04 NER in Primary and Lower Secondary K05 Promotion rate from Primary to Lower Secondary cycles of Basic Education K06 Survival rate from Standard I to the last grade of Lower Secondary (Form IV) H01 Primary Survival Rate and Lower Secondary |
-###### Infrastructure/Distance-to- School
+Equitable access to and successful completion of basic education for all, improving internal efficiency and addressing the causes of dropout, with particular attention to excluded and marginalized groups, to reduce disparities based on gender, disability and geographical location
+K02 Gross intake ratio to primary Standard I K03 GER in Primary and Lower Secondary K04 NER in Primary and Lower Secondary K05 Promotion rate from Primary to Lower Secondary cycles of Basic Education K06 Survival rate from Standard I to the last grade of Lower Secondary (Form IV) H01 Primary Survival Rate and Lower Secondary Survival Rate |
+###### Infrastructure/Distance-to-School
 ###### Outcome:
 Availability of sufficient schools and classrooms that are near enough to the population to meet the needs of Universal Basic Education (LF: A1) | 1B01 Pupil-classroom ratio, by grade/cycle, district and region 1B02 Number of satellite centres opened 1B03 Average distance to school for both primary and secondary, by district and region | Build more schools, expanding Basic Education coverage where it is weak but reasonable economies of scale are achievable, including adding secondary sections to existing primary schools | Greater number of schools providing the full BE cycle, making physical access more equitable for all
-Establish satellite centres where population density does not currently justify building a school | Improved access to Basic Education for children in hard- to-reach areas, including OOSC or children at risk of becoming OOS
+Establish satellite centres where population density does not currently justify building a school | Improved access to Basic Education for children in hard-to-reach areas, including OOSC or children at risk of becoming OOS
 ###### Teachers
 ###### Outcome:
 Availability and equitable deployment of sufficient number of teachers by subject, grade and stream (LF: A1, Q1) | 1B04 Annual intake into TTCs 1B05 PTR, by cycle, subject, gender, district and region | Increase the intake of candidates/trainees into teacher education and teacher training colleges | Greater number of potential teacher candidates and enrolees on pre-service teacher training programmes, facilitating recruitment
-Survival Rate | Enhance the attractiveness of and satisfaction with the teaching profession | Improved retention and reduced attrition, facilitated recruitment, increased motivation, availability and time-on-task
+Enhance the attractiveness of and satisfaction with the teaching profession | Improved retention and reduced attrition, facilitated recruitment, increased motivation, availability and time-on-task
 Devise and implement campaigns to revalorize the public perception of the teaching profession | Campaigns on the teaching profession have improved its image, promoting interest among potential teacher candidates
 
 179
@@ -7907,8 +7877,8 @@ Devise and implement campaigns to revalorize the public perception of the teachi
 
 [[START OF PAGE 198]]
 
-Indicators (KPIs in bold ) | Component | Strategies | Results
---- | --- | --- | ---
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
+--- | --- | --- | --- | ---
 Review the teacher deployment formula, mechanisms, approaches and incentives, with a focus on subject shortages for lower secondary and also on ensuring equitable deployment of teachers among grades and streams within schools | Teachers are deployed nationwide equitably and effectively, ensuring gaps in local pupil-teacher ratios are reduced
 Develop and implement a national strategy to increase the production of competent mathematics teachers for both primary and secondary | Adequate availability nationwide of mathematics teachers (both maths/science cluster in primary and specialised secondary teachers)
 Develop and implement a national strategy to train teachers on special needs education | Teachers are more aware of the constraints which children with special needs experience and how to help them overcome these
@@ -7921,15 +7891,15 @@ Strengthen the capacity of teachers and school heads in gender analysis, gender 
 
 [[START OF PAGE 199]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### School Environment
 ###### Outcome:
 Schools are safer, more inclusive and child-friendly, encouraging timely enrolment, attendance and retention (LF: A2, A5, Q3, Q4) | 1B06 % of schools meeting set standards, or proxy index based on shortage of latrines/desks/etc., by cycle and region 1B07 Number of schools with an emergency plan | Strengthen guidance, counselling and child protection services in school to protect boys and girls from sexual abuse, harassment and bullying | School environments are safe for learning for both boys and girls
 Ensure that schools are adequately supplied with appropriate equipment and facilities for different ages and groups | Teaching and learning environment is improved, including for children with special needs, favourably impacting participation and retention
-Develop a KAP (knowledge- attitudes-practice) strategy to improve school-staff behaviour, attitudes and care practices | More appealing and friendly learning atmosphere, for pupils in general, and children from marginalized groups, including disabled children, in particular
+Develop a KAP (knowledge-attitudes-practice) strategy to improve school-staff behaviour, attitudes and care practices | More appealing and friendly learning atmosphere, for pupils in general, and children from marginalized groups, including disabled children, in particular
 Schools have emergency management (contingency plans) in place and teachers and communities are trained on them | Teaching and learning environment is safer, favourably impacting motivation, retention and continuity in case of emergency
-Strengthen school WASH | All male and female children in school are able to access sanitary toilet facilities (including segregated, girl- friendly facilities) and all schools have drinking water on their premises accessible by all staff and students
+Strengthen school WASH | All male and female children in school are able to access sanitary toilet facilities (including segregated, girl-friendly facilities) and all schools have drinking water on their premises accessible by all staff and students
 
 181
 
@@ -7937,16 +7907,16 @@ Strengthen school WASH | All male and female children in school are able to acce
 
 [[START OF PAGE 200]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
+Strengthen school health and nutrition in collaboration with MOH | School health and nutrition services are available in schools, in line with national minimum standards
 ###### Support for most vulnerable students
 ###### Outcome:
-Ensuring all students gain access to and complete Basic Education, regardless of their means or vulnerability (LF: A2, A5, Q3, Q4) | 1B08 Number of children with special needs enrolled, by gender and region 1B09 % of primary and lower secondary schools with at least one teacher trained on inclusive and/or special needs education | Strengthen school health and nutrition in collaboration with MOH | School health and nutrition services are available in schools, in line with national minimum standards
-Make schools inclusive for students with special needs and for girls | Students with special needs are retained in schools, with reduced dropout rates
+Ensuring all students gain access to and complete Basic Education, regardless of their means or vulnerability (LF: A2, A5, Q3, Q4) | 1B08 Number of children with special needs enrolled, by gender and region 1B09 % of primary and lower secondary schools with at least one teacher trained on inclusive and/or special needs education | Make schools inclusive for students with special needs and for girls | Students with special needs are retained in schools, with reduced dropout rates
 Provide trained and equipped specialist teams in every region to help schools and communities identify children with special educational needs | Students with special needs are identified so that they can receive appropriate support
 Amend capitation grant formula to provide additional resources to normal schools that enrol children with special needs | Increased enrolment of special needs students in normal schools
-Design and implement a 'communication for development' strategy to promote the engagement of boys, men and women champions in the education system and in rural communities to protect girls from early marriage and unintended pregnancies | Reduced number of school girls' early marriages and pregnancies
-Introduce a scholarship scheme in STEM for high performing girls from remote rural areas to continue their education from lower to upper secondary | Increased girls' participation in STEM
+Design and implement a “communication for development” strategy to promote the engagement of boys, men and women champions in the education system and in rural communities to protect girls from early marriage and unintended pregnancies | Reduced number of school girls’ early marriages and pregnancies
+Introduce a scholarship scheme in STEM for high performing girls from remote rural areas to continue their education from lower to upper secondary | Increased girls’ participation in STEM
 
 182
 
@@ -7954,14 +7924,14 @@ Introduce a scholarship scheme in STEM for high performing girls from remote rur
 
 [[START OF PAGE 201]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Household contributions to education
 ###### Outcome:
 Main education costs borne by households are reduced by half for all pupils, and further still for those from poor and disadvantaged backgrounds (LF: A1, A5, M2) | 1B10 % of pre-primary and primary pupils benefitting from materials, porridge and lunches 1B11 % of schools which receive the full capitation grant in time 1B12 LGA budget devoted to financing the free education programme, by region | Increase capitation grants to include the cost of providing all pupils with learning materials | Household contributions to education costs are reduced, while improving the availability of learning materials
 Amend capitation grant formula to provide a fixed minimum and include a variable component to help the most disadvantaged | Smaller schools and those in remote and disadvantaged areas receive adequate finance
 LGAs to identify disadvantaged pupils and cover any outstanding cost of learning materials, and to work with communities to provide porridge and lunches for those in greatest need, as well as other indirect costs (e.g. sanitary pads for girls, uniforms, exercise books, transport costs) | Reduce the burden of non-fee education costs on the poorest families, removing a disincentive to enrolment or retention
-Encourage and/or develop community-based solutions to the provision of learning materials, porridge and lunches at school, according to the above cost-sharing arrangements | Communities become more involved at the school level, promoting the cost- effectiveness and quality of school meals and materials' procurement
+Encourage and/or develop community-based solutions to the provision of learning materials, porridge and lunches at school, according to the above cost-sharing arrangements | Communities become more involved at the school level, promoting the cost-effectiveness and quality of school meals and materials' procurement
 
 183
 
@@ -7969,8 +7939,8 @@ Encourage and/or develop community-based solutions to the provision of learning 
 
 [[START OF PAGE 202]]
 
-Indicators (KPIs in bold ) | Component | Strategies | Results
---- | --- | --- | ---
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
+--- | --- | --- | --- | ---
 Develop a parenting and community education strategy to inform and educate parents on ways to open communication with their sons and daughters on sexual and reproductive health issues, prevention of early pregnancies and promotion of equal treatment of boys and girls towards improved completion and performance | Improved retention and completion rates
 
 184
@@ -7979,21 +7949,22 @@ Develop a parenting and community education strategy to inform and educate paren
 
 [[START OF PAGE 203]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ##### Sub Programme 1.C : Higher Secondary
-K17 Transition rate from Basic Education (Form IV) to higher secondary H02 Secondary (A-Level) completion rate, by gender and region H03 GER in higher secondary are available for adolescent girls, in sufficient number and adhering to WASH standards Girls' enrolment and are improved
-###### Teachers
-Create a mechanism whereby MoEST encourages teacher education candidate enrolment in understaffed A-Level subjects, especially science and Increased number of teachers to cover advanced secondary across different specializations |
+###### Objective:
+Expanded access and participation with greater equity, and successful completion of A-Level secondary education, with an appropriate mix of subject specializations
+K17 Transition rate from Basic Education (Form IV) to higher secondary H02 Secondary (A-Level) completion rate, by gender and region H03 GER in higher secondary |
 ###### Infrastructure
 ###### Outcome:
 Availability of sufficient schools and classrooms to accommodate qualified graduates from basic education (LF: A1) | 1C01 Pupil-classroom ratio, by region 1C02 Pupil-latrine ratio, by region and gender | Convert existing lower secondary schools into advanced secondary schools | Expanded A-Level capacity, to accommodate the increased demand for advanced secondary education from Form 4 leavers
 Construct new secondary schools and classrooms according to further needs, as the number of Form 4 graduates increases | Further capacity is made available as necessary
-Ensure that separate latrines | retention
+Ensure that separate latrines are available for adolescent girls, in sufficient number and adhering to WASH standards | Girls’ enrolment and retention are improved
+###### Teachers
 ###### Outcome:
-Availability of sufficient number of teachers by subject, grade and stream (LF: A1, Q1) | 1C03 PTR, by gender, grade, region and subject | mathematics | graduate demand in schools, subject
+Availability of sufficient number of teachers by subject, grade and stream (LF: A1, Q1) | 1C03 PTR, by gender, grade, region and subject | Create a mechanism whereby MoEST encourages teacher education candidate enrolment in understaffed A-Level subjects, especially science and mathematics | Increased number of graduate teachers to cover demand in advanced secondary schools, across different subject specializations
 Improve the deployment of teachers, in particular those teaching priority subjects | The distribution of teachers in all subjects is equitable across regions
-Improve teachers' working and living conditions including remuneration | Increased teacher retention in schools
+Improve teachers’ working and living conditions including remuneration | Increased teacher retention in schools
 ###### Support for most vulnerable students
 | 1C04 Number of children with special needs enrolled, by gender and region | Make schools inclusive for students with special needs | Students with special needs are retained in schools, with reduced dropout rates
 
@@ -8003,10 +7974,10 @@ Improve teachers' working and living conditions including remuneration | Increas
 
 [[START OF PAGE 204]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
-Ensuring the most capable students gain access to A- Level, regardless of their means or vulnerability (LF: A2, A5, Q3, M2, M3) | 1C05 Number of beneficiaries of education access cash- transfer grants | Strengthen existing cash- transfer systems and provide students from very poor families and disabled children with in-kind subsidies for education | Poor families and families with disabled children receive compensation to cover some non-fee education costs, counterbalancing the opportunity cost of education
+Ensuring the most capable students gain access to A-Level, regardless of their means or vulnerability (LF: A2, A5, Q3, M2, M3) | 1C05 Number of beneficiaries of education access cash-transfer grants | Strengthen existing cash-transfer systems and provide students from very poor families and disabled children with in-kind subsidies for education | Poor families and families with disabled children receive compensation to cover some non-fee education costs, counterbalancing the opportunity cost of education
 
 186
 
@@ -8014,18 +7985,17 @@ Ensuring the most capable students gain access to A- Level, regardless of their 
 
 [[START OF PAGE 205]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ##### Sub Programme 1.D : Out-of-school children
 ###### Objective:
-Enhanced access, participation and completion of primary education by out-of-school-children and adolescents though flexible learning
+Enhanced access, participation and completion of primary education by out-of-school-children and adolescents though flexible learning opportunities
 K07 Average dropout rate per grade in primary education K08 The % of out-of-school children of basic school age |
-###### focus on preventive measures
+###### Reducing drop-out, with a focus on preventive measures
 ###### Outcome:
 Fewer pupils drop out from school (LF: A2, A3, Q4) | 1D01 Dropout rate, by cycle, region and gender | Develop a school-level system to identify pupils at risk of dropout, involving headmasters, teachers, PTAs and the community | Pupils at risk of dropout are identified early on
 Include a module on pupils at risk of dropout in pre-service teacher training, to provide teachers with the skills and practices to support their continued schooling | Children at particular risk of dropout are pedagogically and socially encouraged to pursue their education, improving retention
-###### drop-out, with
-| Train and support head teachers on strategies and practices to prevent dropout | Head teachers implement strategies and activities that favour retention
+Train and support head teachers on strategies and practices to prevent dropout | Head teachers implement strategies and activities that favour retention
 Provide psycho-social support in schools, for those at risk of dropout | Pupils receive psycho-social support, according to their needs
 Develop publicity campaign, other communication channels and partnership with communities to popularise the correct school starting age for all children | Greater proportion of children start pre-primary at age 6 and Std I at age 7
 Further develop and scale up school readiness programmes for both primary and secondary | Reduced drop-out from primary early grades and increased transition to secondary, especially for girls
@@ -8036,16 +8006,16 @@ Further develop and scale up school readiness programmes for both primary and se
 
 [[START OF PAGE 206]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 Pilot family learning programmes that develop literacy and numeracy skills of both parents and children | Some parents in 5 at-risk regions send their children to school and keep them there throughout the compulsory education cycle
-Strengthen sexual and reproductive health knowledge, gender sensitivity and life skills with counselling services in non-formal education targeting out-of- school adolescent boys and girls | Improved knowledge and skills on sexual and reproductive health for out of school boys and girls
+Strengthen sexual and reproductive health knowledge, gender sensitivity and life skills with counselling services in non-formal education targeting out-of-school adolescent boys and girls | Improved knowledge and skills on sexual and reproductive health for out of school boys and girls
 Improved access to counselling services for sexual and reproductive health and HIV prevention for adolescent boys and girls
 ###### Orientation and guidance for OOSC
-| 1D02 Percentage of primary age children who are out-of- school 1D03 % of districts where a community-school based OOSC guidance and monitoring system is effective, by region | Develop a community-based monitoring system, to identify OOSC of pre-primary and primary age and have their suitability for entering the 'mainstreaming programme' assessed in collaboration with schools | 'Mainstreaming programme' participants ' readiness to return to school is appraised in a timely fashion, the numbers that reintegrate school increases, and OOSC numbers drop
 ###### Outcome:
-| Develop a monitoring system on the learning and experiences of pupils who have reintegrated into formal education | The specific needs of pupils who have reintegrated into formal education are identified and addressed through the monitoring system
-OOSC are identified, directed to the most appropriate learning stream or to the 'mainstreaming programme' and monitored thereafter (LF: A2, A3, A5, Q3, Q4) | Provide psycho-social support in schools for those who have returned to schools through the 'mainstreaming programme' | Pupils receive psycho-social support, according to their needs
+OOSC are identified, directed to the most appropriate learning stream or to the ‘mainstreaming programme’ and monitored thereafter (LF: A2, A3, A5, Q3, Q4) | 1D02 Percentage of primary age children who are out-of-school 1D03 % of districts where a community-school based OOSC guidance and monitoring system is effective, by region | Develop a community-based monitoring system, to identify OOSC of pre-primary and primary age and have their suitability for entering the ‘mainstreaming programme’ assessed in collaboration with schools | ‘Mainstreaming programme’ participants’ readiness to return to school is appraised in a timely fashion, the numbers that reintegrate school increases, and OOSC numbers drop
+Develop a monitoring system on the learning and experiences of pupils who have reintegrated into formal education | The specific needs of pupils who have reintegrated into formal education are identified and addressed through the monitoring system
+Provide psycho-social support in schools for those who have returned to schools through the ‘mainstreaming programme’ | Pupils receive psycho-social support, according to their needs
 
 188
 
@@ -8053,12 +8023,13 @@ OOSC are identified, directed to the most appropriate learning stream or to the 
 
 [[START OF PAGE 207]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
+Identify and use available learning spaces in primary and secondary schools and in FDCs for non-formal education, and issue appropriate guidelines | Reduced distance from home to non-formal learning centres for girls and boys
 ###### Fast-track reintegration programme
 ###### Outcome:
-OOSC backlog is gradually reduced through their fast- track reintegration into the formal school system (LF: A1, A2, A3, M3, M4) | 1D04 Numbers enrolled in the fast-track reintegration programme, by gender and region 1D05 Mainstreaming success rate, by stream followed, gender and region | Identify and use available learning spaces in primary and secondary schools and in FDCs for non-formal education, and issue appropriate guidelines Develop and implement a comprehensive fast-track reintegration programme, through the piloting of | Reduced distance from home to non-formal learning centres for girls and boys Fast-track reintegration programme designed and agreed upon
-different models Ensure availability of appropriate learning resources for the fast-track reintegration programme, reflecting its characteristics | Necessary learning resources are made available
+OOSC backlog is gradually reduced through their fast-track reintegration into the formal school system (LF: A1, A2, A3, M3, M4) | 1D04 Numbers enrolled in the fast-track reintegration programme, by gender and region 1D05 Mainstreaming success rate, by stream followed, gender and region | Develop and implement a comprehensive fast-track reintegration programme, through the piloting of different models | Fast-track reintegration programme designed and agreed upon
+Ensure availability of appropriate learning resources for the fast-track reintegration programme, reflecting its characteristics | Necessary learning resources are made available
 Provide competent teaching staff, with an appropriate profile for the programme | Necessary teaching staff are available and offer effective support to pupils
 ###### Expansion of COBET I and II
 ###### Outcome:
@@ -8073,8 +8044,8 @@ Provide professional development to COBET teaching staff | Teaching staff provid
 
 [[START OF PAGE 208]]
 
-Indicators (KPIs in bold ) | Component | Strategies | Results
---- | --- | --- | ---
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
+--- | --- | --- | --- | ---
 Improve the assessment system of COBET learners, including through a more systematic use of its findings | The knowledge and skills acquired by COBET learners are regularly assessed and the findings of this assessment are used to improve the programme
 
 190
@@ -8083,20 +8054,20 @@ Improve the assessment system of COBET learners, including through a more system
 
 [[START OF PAGE 209]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 #### 2: Quality of Basic and Secondary Education
 ###### Objective:
 Improved and equitable learning outcomes for all in Basic Education and Advanced Secondary
-K09 K10 K11 K12 K13 K14 H04 H05 H06 H07 | Pupil/Qualified Teacher Ratio in Primary Pupil/Qualified Teacher Ratio in Lower Secondary PSLE Pass Rate CSEE Pass Rate % Std II learners achieving the national benchmark in reading with comprehension % Std II learners achieving the national benchmark in mathematics A-level Pass Rate % of schools meeting minimum multi- indicator School Quality standard |
+K09 Pupil/Qualified Teacher Ratio in Primary K10 Pupil/Qualified Teacher Ratio in Lower Secondary K11 PSLE Pass Rate K12 CSEE Pass Rate K13 % Std II learners achieving the national benchmark in reading with comprehension K14 % Std II learners achieving the national benchmark in mathematics H04 A-level Pass Rate H05 % of schools meeting minimum multi-indicator School Quality standard H06 Teacher attrition and time-on-task rates H07 Pupil-textbook ratio, by subject |
 ###### Curricula
 ###### Outcome:
-Relevant competency-based curricula are in place and textbooks and teacher guides updated accordingly (LF: Q6, SE2 ) 2A01 Pupil-textbook new updated and 2A02 % demonstrating knowledge environmental gender/sexuality/HIV | Implement the National Curriculum Reform programme and particularly reinforce the relevance of basic education curricula | Competency-based curricula match socio-economic development needs including, at secondary level, labour market demands
-ratio books reflecting | Revise the partially implemented new 6-year primary curriculum to cover seven years of primary, maintaining the competency- based approach | Revised 7-year primary curriculum approved and implemented
-curricula), subject 15-year-olds correct | Develop a Basic Education Quality Assurance Framework | Quality standards are adhered to in basic and secondary education
-of and | Revise textbooks and teacher guides in line with the new curriculum | Textbooks and teacher guides are revised
+Relevant competency-based curricula are in place and textbooks and teacher guides are updated accordingly (LF: A1, Q6, SE2) | 2A01 Pupil-textbook ratio (for new books reflecting updated curricula), by level and subject 2A02 % of 15-year-olds demonstrating correct knowledge of environmental and gender/sexuality/HIV issues | Implement the National Curriculum Reform programme and particularly reinforce the relevance of basic education curricula | Competency-based curricula match socio-economic development needs including, at secondary level, labour market demands
+Revise the partially implemented new 6-year primary curriculum to cover seven years of primary, maintaining the competency-based approach | Revised 7-year primary curriculum approved and implemented
+Develop a Basic Education Quality Assurance Framework | Quality standards are adhered to in basic and secondary education
+Revise textbooks and teacher guides in line with the new curriculum | Textbooks and teacher guides are revised
 Ensure availability of textbooks and teacher guides for all schools | Enough textbooks and teacher guides are available in schools
-Teacher attrition and time-on-task rates Pupil-textbook ratio, subject | Provide global citizenship and life skills education, including on environmental and conservation issues and on gender, sexuality and HIV prevention | School leavers show proficiency in their knowledge of environmental issues and life- skills-based gender, sexuality and HIV education
+Provide global citizenship and life skills education, including on environmental and conservation issues and on gender, sexuality and HIV prevention | School leavers show proficiency in their knowledge of environmental issues and life-skills-based gender, sexuality and HIV education
 
 191
 
@@ -8104,15 +8075,14 @@ Teacher attrition and time-on-task rates Pupil-textbook ratio, subject | Provide
 
 [[START OF PAGE 210]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 H08 % of school leaders certified as having achieved required level of leadership & management competency |
-###### service and in-service training for qualification)
+###### Teacher Education (pre-service and in-service training for qualification)
 ###### Outcome:
 All existing and newly recruited teachers obtain the required qualifications (LF: A1, Q1, M3) | 2A03 PQTR, by cycle, region and gender 2A04 % of teachers qualified, by level and gender | Review Teacher Education Curriculum Framework to include priority issues, e.g. competency-based assessment, inclusive learning and early childhood care | National Teacher Education Curriculum Framework revised
 Review Teacher Qualifications Framework | Teacher Qualifications Framework integrated into national qualifications framework
-###### Education (pre-
-| Formalise the training of primary teachers by semi- specialised subject cluster, including the existing arts, maths/science and early years streams and adding a language stream with an emphasis on English teaching | Teachers have advanced subject knowledge and skills in each of the subject clusters (arts, maths/science, early years, English)
+Formalise the training of primary teachers by semi-specialised subject cluster, including the existing arts, maths/science and early years streams and adding a language stream with an emphasis on English teaching | Teachers have advanced subject knowledge and skills in each of the subject clusters (arts, maths/science, early years, English)
 Provide all newly recruited teachers at all levels with the relevant training to obtain the required qualifications | All newly recruited teachers are qualified, in line with the requirements
 Provide all practising teachers at all levels, who do not yet have required qualifications, with the relevant in-service training to obtain the required qualifications | All practising teachers are qualified, in line with the requirements
 Improve the quality of teacher training to promote a more learner-centred approach by teacher trainers and trainees | Teacher trainers acquire and transmit pedagogical skills for learner-centred teaching
@@ -8123,16 +8093,15 @@ Improve the quality of teacher training to promote a more learner-centred approa
 
 [[START OF PAGE 211]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
-###### service training
+Provide all teacher training colleges with appropriate facilities and teaching/learning resources, especially for science subjects at secondary | Teacher training colleges have necessary facilities and resources, and more secondary teachers are drawn to science subjects and better prepared
+###### Teacher support and in-service training
 ###### Outcome:
-Teachers receive regular support and in-service training, in priority areas in line with their needs and education system priorities | 2A05 % of teachers having benefitted from at least three weeks of in-service training in the past 3 years | Provide all teacher training colleges with appropriate facilities and teaching/learning resources, especially for science subjects at secondary | Teacher training colleges have necessary facilities and resources, and more secondary teachers are drawn to science subjects and better prepared
-Develop, disseminate and utilise implementation guidelines for provision of in- service training and support to all teachers, including in pre- primary | Implementation guidelines prepared and utilized
-###### support and
-| Collect and use information on competencies of practising teachers for planning of in- service training | Information on teachers is used so that in-service training responds better to their needs
+Teachers receive regular support and in-service training, in priority areas in line with their needs and education system priorities (LF: A1, Q1, Q4, M3) | 2A05 % of teachers having benefitted from at least three weeks of in-service training in the past 3 years | Develop, disseminate and utilise implementation guidelines for provision of in-service training and support to all teachers, including in pre-primary | Implementation guidelines prepared and utilized
+Collect and use information on competencies of practising teachers for planning of in-service training | Information on teachers is used so that in-service training responds better to their needs
 Increase use and revival of TRCs through improved coordination and facilitation/resourcing | TRCs are better able to deliver school-based INSET
-Q1, Q4, M3) | Develop, disseminate and utilise training and support packages to enhance teaching proficiency in priority areas (including STEM, gender issues and life-skills-based sexual and reproductive health) in line with the ETP and the national development plan | Proficiency level gaps in priority subjects are addressed
+Develop, disseminate and utilise training and support packages to enhance teaching proficiency in priority areas (including STEM, gender issues and life-skills-based sexual and reproductive health) in line with the ETP and the national development plan | Proficiency level gaps in priority subjects are addressed
 Strengthen the capacity of teachers to use school-based continuous assessment as a tool to support underperforming boys and girls | Teachers have skills to use assessment to diagnose and act on learning difficulties in time
 
 193
@@ -8141,18 +8110,18 @@ Strengthen the capacity of teachers to use school-based continuous assessment as
 
 [[START OF PAGE 212]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Teacher motivation
 ###### Outcomes:
-Improved teacher attendance and retention Reduced teacher attrition rate (for causes other than retirement, death, etc.), by cycle (LF: A1, Q1, M1, M2, M3) | 2A06 Average teacher salary relative to other professions requiring a comparable level of education qualification 2A07 Average teacher time-on- task 2A08 Teacher absenteeism rate 2A09 Teacher attrition rate by education level and sex | Developing and implementing a career progression mechanism, based on assessment of competencies, performance and attendance | Career progression mechanism established and implemented
+Improved teacher attendance and retention Reduced teacher attrition rate (for causes other than retirement, death, etc.), by cycle (LF: A1, Q1, M1, M2, M3) | 2A06 Average teacher salary relative to other professions requiring a comparable level of education qualification 2A07 Average teacher time-on-task 2A08 Teacher absenteeism rate 2A09 Teacher attrition rate by education level and sex | Developing and implementing a career progression mechanism, based on assessment of competencies, performance and attendance | Career progression mechanism established and implemented
 Strengthen the effectiveness of WEOs in supporting teachers | DEOs and WDCs provide more effective support to teachers
 Schools Quality Assurance Division ensures that Quality Assurance motivates teachers and strengthens their professional development | SQAOs provide more effective support to teachers (including through training and mentoring of WEOs)
-Ensure that school management (school leaders and committees) provide motivating supervision and support to teachers | Teachers benefit from improved school supervision and support from school management and quality assurers, and spend more time- on-task
-Improvement of teachers' environment, in particular through staff housing | Teachers express increased satisfaction with their environment
+Ensure that school management (school leaders and committees) provide motivating supervision and support to teachers | Teachers benefit from improved school supervision and support from school management and quality assurers, and spend more time-on-task
+Improvement of teachers’ environment, in particular through staff housing | Teachers express increased satisfaction with their environment
 Develop and implement a specific support package for teachers in hard-to-reach areas (including top-up allowances, fast track career progression) | Teachers in hard-to-reach areas receive a special support package, contributing to a reduction in urban/rural/regional disparities in teacher deployment and PTRs
 ###### Learning environment
-| Update and implement the minimum standards of quality learning environments in line with the ETP and new SQA framework | Minimum standards available and adhered to in establishing quality learning environments
+| | Update and implement the minimum standards of quality learning environments in line with the ETP and new SQA framework | Minimum standards available and adhered to in establishing quality learning environments
 
 194
 
@@ -8160,12 +8129,12 @@ Develop and implement a specific support package for teachers in hard-to-reach a
 
 [[START OF PAGE 213]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
 Learning environments meet minimum standards of quality (LF: Q4, Q7) | 2A10 % of schools meeting minimum standards (by cycle) based on Domain 5 of the new Overall Schools Quality Score (Quality of the school environment and its impact on welfare, health and safety) 2A11 % of schools having and using adequate level of ICT equipment | Transform classrooms into cognitively stimulating learning environments, especially for pre-primary, and Grades 1 and 2 | Learning environments are conducive to learning
-Provide schools with necessary guidelines and resources to facilitate girls' and boys' participation in their own development through extra- curricular activities (e.g. games, sports and school clubs that are both subject-focused and crosscutting) | Schools have necessary guidance and resources and learners participate in extra- curricular activities
-Expand the equipment of secondary schools with subject- specific facilities (science laboratories, computer rooms) and libraries, including subscriptions to online library resources and supplementary STEM materials | Secondary-level learning experiences are improved, and the attractiveness of science subjects in particular is increased
+Provide schools with necessary guidelines and resources to facilitate girls’ and boys’ participation in their own development through extra-curricular activities (e.g. games, sports and school clubs that are both subject-focused and crosscutting) | Schools have necessary guidance and resources and learners participate in extra-curricular activities
+Expand the equipment of secondary schools with subject-specific facilities (science laboratories, computer rooms) and libraries, including subscriptions to online library resources and supplementary STEM materials | Secondary-level learning experiences are improved, and the attractiveness of science subjects in particular is increased
 Abolishment of corporal punishment | Teachers are using alternative ways of disciplining children
 ###### School leadership and management
 | 2A12 % of school heads certified in leadership, by level, region and gender 2A13 % of schools with a WSD plan, by level and region | Revision of profile and recruitment criteria and processes for school leaders | School leaders are recruited on merit according to revised criteria and processes
@@ -8177,7 +8146,7 @@ Certification of school leaders | All school heads certified in school leadershi
 
 [[START OF PAGE 214]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
 School leaders and school committees contribute to improving quality through effective school management (LF: A5, Q3) | 2A14 % of schools with a functioning School Management Committee 2A15 % of schools meeting the minimum standard for quality of leadership and management (Domain 5 of the new Overall Schools Quality Score) | Provide training to school leaders in school improvement planning, management and budgeting | School leaders gain competencies in school improvement planning
@@ -8195,13 +8164,13 @@ Develop and implement a coherent national system for the monitoring of learning 
 
 [[START OF PAGE 215]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 Sharing of results of Whole School Evaluation and of Learning Assessments with key stakeholders at different levels, including local communities (online and paper-based digitized reports, as well as a simplified report card posted publicly at the school) | Stakeholders are regularly informed of results
 Support to schools, Ward Development Committees, District Education Departments and central ministries on analysing and using the results of Whole School Evaluations and Learning Assessments | Schools, Ward Development Committees, District Education Departments and central ministries use the results for improvement of policies and practices
-School management skills- enhancement for Head Teachers, School Committees and WEOs includes skills for school and teacher supervision, classroom observation and school-based continuous assessment | Head Teachers, School Committees and WEOs have improved skills related to school supervision and student assessment
+School management skills-enhancement for Head Teachers, School Committees and WEOs includes skills for school and teacher supervision, classroom observation and school-based continuous assessment | Head Teachers, School Committees and WEOs have improved skills related to school supervision and student assessment
 ###### Operational Research
-| 2A19 Number of relevant studies undertaken | Conduct study into factors affecting girls' poor performance in national examinations compared to boys | Strategies are approved and implemented to improve girls' academic performance
+| 2A19 Number of relevant studies undertaken | Conduct study into factors affecting girls’ poor performance in national examinations compared to boys | Strategies are approved and implemented to improve girls’ academic performance
 
 197
 
@@ -8209,11 +8178,11 @@ School management skills- enhancement for Head Teachers, School Committees and W
 
 [[START OF PAGE 216]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
-Improved understanding of the factors that affect differentials in student enrolment, retention and performance across gender, geographical location and other variables, and resultant amendments to existing | 2A20 Number of amendments to existing education policies, strategies or budget allocations that are made based on these research | Conduct study into factors affecting drop-out, looking into variations by gender and district/region | Differentiated, contextually appropriate strategies are implemented to improve student retention, especially in regions with the highest drop- out rates
-policies and strategies | findings | Conduct study into factors affecting lower transition rates by girls into lower and higher secondary education and into TVET and universities | Strategies are implemented that increase girls' transition and enrolment rates at higher levels of the education system
+Improved understanding of the factors that affect differentials in student enrolment, retention and performance across gender, geographical location and other variables, and resultant amendments to existing policies and strategies | 2A20 Number of amendments to existing education policies, strategies or budget allocations that are made based on these research findings | Conduct study into factors affecting drop-out, looking into variations by gender and district/region | Differentiated, contextually appropriate strategies are implemented to improve student retention, especially in regions with the highest drop-out rates
+Conduct study into factors affecting lower transition rates by girls into lower and higher secondary education and into TVET and universities | Strategies are implemented that increase girls’ transition and enrolment rates at higher levels of the education system
 
 198
 
@@ -8221,19 +8190,19 @@ policies and strategies | findings | Conduct study into factors affecting lower 
 
 [[START OF PAGE 217]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 #### 3: Adult and Non-Formal Education
 ##### Sub Programme 3.A : Improve access and participation of adolescents, youth and adults in adult and non-formal education programmes
 ###### Objective:
 Increase the number of adolescents, youth and adults who participate in adult and non-formal education
-K15 Total enrolment in adult and non-formal education H09 % yearly growth in adult and non-formal education H10 Number of people by age range (adolescents/youth/ adult) who have undertaken some form of formal or non- formal education or training within the last 12 months |
+K15 Total enrolment in adult and non-formal education H09 % yearly growth in adult and non-formal education H10 Number of people by age range (adolescents/youth/adult) who have undertaken some form of formal or non-formal education or training within the last 12 months |
 ###### Mobilizing resources for adult and non-formal education
 ###### Outcome:
-Increased government funding and development partner support for adult and non- formal education, to increase centres and courses, in such a way as to reduce regional disparities (LF: A1, A3, SE1, M2, M5) | 3A01 % of national education budget allocated to ANFE programmes (benchmark: 3%) 3A02 % of Development Partner support to education allocated to ANFE programmes 3A03 Actual disbursement to ANFE programmes by region and district, and annual change | Mobilize political commitment across ministries and governmental institutions to adult and non-formal education by awareness raising through appropriate channels | Increased levels of government funding for adult and non- formal education
+Increased government funding and development partner support for adult and non-formal education, to increase centres and courses, in such a way as to reduce regional disparities (LF: A1, A3, SE1, M2, M5) | 3A01 % of national education budget allocated to ANFE programmes (benchmark: 3%) 3A02 % of Development Partner support to education allocated to ANFE programmes 3A03 Actual disbursement to ANFE programmes by region and district, and annual change | Mobilize political commitment across ministries and governmental institutions to adult and non-formal education by awareness raising through appropriate channels | Increased levels of government funding for adult and non-formal education
 Raise awareness of adult and non-formal education as a national priority among Development Partners and the private sector, through sector dialogue | Stakeholders respond with resource allocations to priority issues in adult and non-formal education
 Reinforcing the capacities of communities to engage in and mobilize support for adult and non-formal education | Communities provide more effective support, particularly with regard to infrastructure
-Strengthen partnership with TASAF, private sector and other philanthropic organisations for inclusion of poor and vulnerable out-of-school adolescent girls and boys and youth in the provision of cash- transfers to cover examination fees and other related costs (working girls and boys) for non-formal learning | Adolescent girls and boys and youth have access to resources to pursue second chance learning opportunities through non-formal pathways
+Strengthen partnership with TASAF, private sector and other philanthropic organisations for inclusion of poor and vulnerable out-of-school adolescent girls and boys and youth in the provision of cash-transfers to cover examination fees and other related costs (working girls and boys) for non-formal learning | Adolescent girls and boys and youth have access to resources to pursue second chance learning opportunities through non-formal pathways
 
 199
 
@@ -8241,15 +8210,15 @@ Strengthen partnership with TASAF, private sector and other philanthropic organi
 
 [[START OF PAGE 218]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Improving the quality of national literacy and numeracy data
 ###### Outcome:
 More nuanced and reliable data on levels of literacy and numeracy among youth and adults for better planning and management (LF: A3, Q5, M1) | 3A04 Share of adults and youth for which more nuanced literacy/numeracy data are available | Develop and use nuanced and disaggregated information on literacy and numeracy needs of the young and adult population | More reliable and up-to-date information for planning, designing, implementing, monitoring and evaluating ANFE initiatives
-Develop a standardized framework and tools for ANFE- centre based assessments of literacy and numeracy levels (equivalent to formal basic education leading to recognized certificates) | Assessed levels of literacy and numeracy available to learners and ANFE providers, included in the framework of the TQF
+Develop a standardized framework and tools for ANFE-centre based assessments of literacy and numeracy levels (equivalent to formal basic education leading to recognized certificates) | Assessed levels of literacy and numeracy available to learners and ANFE providers, included in the framework of the TQF
 ###### Motivating potential learners to participate in adult and non-formal education programmes
 ###### Outcome:
-Increased number of adolescents, youth and adults participating in adult and non- formal education programmes especially in regions with low coverage (LF: A1, A3) | 3A05 Participation rates of adolescents, youth and adults in alternative learning programmes (during the past 12 months and in relation to the total population of adolescents, youth and adults by region) 3A06 Adolescents, youth and adults enrolled in different components and levels of ANFE (number and % increase) | Develop recognised and accessible alternative learning pathways for out-of-school adolescent girls and boys, youth and adults to pursue academic and skills-based curricula and move between non-formal programmes with different purposes and of different levels, and between non-formal and formal modalities (horizontal and vertical mobility in the system) | Adolescent girls and boys, youth and adult learners have maximum opportunity to pursue options for lifelong learning
+Increased number of adolescents, youth and adults participating in adult and non-formal education programmes especially in regions with low coverage (LF: A1, A3) | 3A05 Participation rates of adolescents, youth and adults in alternative learning programmes (during the past 12 months and in relation to the total population of adolescents, youth and adults by region) 3A06 Adolescents, youth and adults enrolled in different components and levels of ANFE (number and % increase) | Develop recognised and accessible alternative learning pathways for out-of-school adolescent girls and boys, youth and adults to pursue academic and skills-based curricula and move between non-formal programmes with different purposes and of different levels, and between non-formal and formal modalities (horizontal and vertical mobility in the system) | Adolescent girls and boys, youth and adult learners have maximum opportunity to pursue options for lifelong learning
 
 200
 
@@ -8257,9 +8226,9 @@ Increased number of adolescents, youth and adults participating in adult and non
 
 [[START OF PAGE 219]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
-3A07 Youth and adults (15+ years) who have successfully completed different levels of literacy and numeracy skills (number and % increase) 3A08 % of youths/adults (15+ years) that have participated in any formal or non-formal training or education in the last 12 months (combined indicator with TVET) | Plan, design and conduct targeted adult literacy awareness-raising and other communication campaigns to encourage participation and retention in ANFE, as well as parent/caregiver support and guidance to out-of-school adolescent learners | Potential learners, in particular in most vulnerable regions, are able to access information on multi-pathway formal and non- formal learning opportunities in adult literacy, basic and pre- vocational adult education
+3A07 Youth and adults (15+ years) who have successfully completed different levels of literacy and numeracy skills (number and % increase) 3A08 % of youths/adults (15+ years) that have participated in any formal or non-formal training or education in the last 12 months (combined indicator with TVET) | Plan, design and conduct targeted adult literacy awareness-raising and other communication campaigns to encourage participation and retention in ANFE, as well as parent/caregiver support and guidance to out-of-school adolescent learners | Potential learners, in particular in most vulnerable regions, are able to access information on multi-pathway formal and non-formal learning opportunities in adult literacy, basic and pre-vocational adult education
 Develop and implement a curriculum with academic and skills-based components to provide alternative learning opportunities for out-of-school adolescent girls and boys which increase their chances for continuing education and employability | Alternative learning curriculum for out of school adolescent girls and boys developed and approved
 Provide suitable and attractive premises for young people and adult learners | ANFE infrastructure and facilities are improved
 Reinforce open-access programmes in secondary education | Young people and adults are able to access non-formal secondary education opportunities, and transition to teacher training, TVET, and higher education
@@ -8272,15 +8241,15 @@ Reinforce open-access programmes in secondary education | Young people and adult
 
 [[START OF PAGE 220]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
 Availability of a sufficient number of facilitators, respecting minimum standards, and their equitable deployment (LF: A1, A3, Q1) | 3A10 Mapping of deployment of qualified ANFE teachers/facilitators by region and number of learners they serve by region (facilitator: learners ratio by region) | Systematize the availability and use of facilitators, in line with the needs of communities | Facilitators are deployed nationwide equitably and effectively
 ###### Coordinating the provision of vocational skills across ANFE, FDCs and other providers
 ###### Outcome:
-Increased number of young people and adults accessing relevant vocational skills- training opportunities (LF: A3, Q5, SE1, M1, M3, M5) | 3A11 Youth and adults who participate in vocational skills training (number and % increase) 3A12 Mapping of learner flows between and across ANFE programmes (number of learners referred from ICBAE to FDC and the other way round) | Clarify and manage access to multi-pathway vocational and professional courses in all parts of the country, including linkages between ANFE, continuing secondary education and TVET, especially for vulnerable out-of-school adolescent girls and boys | Thematic Coordination Unit for vocational skills-training is established within overall ESDP coordination structure (Sector Technical Working Group)
+Increased number of young people and adults accessing relevant vocational skills-training opportunities (LF: A3, Q5, SE1, M1, M3, M5) | 3A11 Youth and adults who participate in vocational skills training (number and % increase) 3A12 Mapping of learner flows between and across ANFE programmes (number of learners referred from ICBAE to FDC and the other way round) | Clarify and manage access to multi-pathway vocational and professional courses in all parts of the country, including linkages between ANFE, continuing secondary education and TVET, especially for vulnerable out-of-school adolescent girls and boys | Thematic Coordination Unit for vocational skills-training is established within overall ESDP coordination structure (Sector Technical Working Group)
 Develop and periodically update a directory of providers | Directory of providers is available, and digitized directory is integrated into the A/NFE-MIS under ESMIS
-Map and monitor flows of graduates from ANFE, pre- vocational adult education to FDCs and TVET | Data on flows are collected and integrated into the ESMIS sub- system
+Map and monitor flows of graduates from ANFE, pre-vocational adult education to FDCs and TVET | Data on flows are collected and integrated into the ESMIS sub-system
 
 202
 
@@ -8288,22 +8257,21 @@ Map and monitor flows of graduates from ANFE, pre- vocational adult education to
 
 [[START OF PAGE 221]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
---- | --- | --- | --- | --- | ---
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
+--- | --- | --- | --- | ---
 ##### Sub Programme 3.B : Improve the quality and relevance of adult education and training
 ###### Objective:
 Ensure relevant and good quality alternative learning opportunities for young people and adults
-H11 H12 | K16 Youth and adults (15+ years) achieving a level of proficiency in literacy and numeracy skills that is equivalent to grade VI of formal basic education (number and % increase) Youth and adults moving to vocational training after acquiring proficiency (% of indicator immediately above) Youth and adults achieving TQF- certification through non-formal programmes (number and % increase) |
+K16 Youth and adults (15+ years) achieving a level of proficiency in literacy and numeracy skills that is equivalent to grade VI of formal basic education (number and % increase) H11 Youth and adults moving to vocational training after acquiring proficiency (% of indicator immediately above) H12 Youth and adults achieving TQF-certification through non-formal programmes (number and % increase) H13 % of youth and adults possessing ICT skills |
 ###### Relevant curriculum
 ###### Outcome:
-Improved learning outcomes in all levels of literacy/pre- vocational and vocational skills training through use of a relevant and competency- based curriculum and strengthened quality assurance (LF: Q5, Q6, Q7, M3, M4, M5) | 3B01 Curricula updated to cover the whole range of adult basic education (equivalencies) and with linkages to (pre-) vocational skills 3B02 Perceptions of learners regarding relevance, usefulness and level of assimilation of ANFE learning (annual sample survey) | Implement a national survey in collaboration with the National Bureau of Statistics (NBS), to determine the literacy, numeracy, life skills and ICT skills levels of the adolescents, youth and adult population | Literacy, numeracy and ICT skills levels of youth and adults determined
-Conduct periodic adult literacy and learning needs assessments at the appropriate level, targeting pre-vocational skills-training for young adults | Gaps in the curriculum are identified with regard to pre- vocational skills and vocational skills training, in line with evolving labour market demands
-Revise the existing adult education curriculum in line with the results of learning needs assessments | Young people and adults' learning/training needs are responded to in a relevant manner
+Improved learning outcomes in all levels of literacy/pre-vocational and vocational skills training through use of a relevant and competency-based curriculum and strengthened quality assurance (LF: Q5, Q6, Q7, M3, M4, M5) | 3B01 Curricula updated to cover the whole range of adult basic education (equivalencies) and with linkages to (pre-) vocational skills 3B02 Perceptions of learners regarding relevance, usefulness and level of assimilation of ANFE learning (annual sample survey) | Implement a national survey in collaboration with the National Bureau of Statistics (NBS), to determine the literacy, numeracy, life skills and ICT skills levels of the adolescents, youth and adult population | Literacy, numeracy and ICT skills levels of youth and adults determined
+Conduct periodic adult literacy and learning needs assessments at the appropriate level, targeting pre-vocational skills-training for young adults | Gaps in the curriculum are identified with regard to pre-vocational skills and vocational skills training, in line with evolving labour market demands
+Revise the existing adult education curriculum in line with the results of learning needs assessments | Young people and adults’ learning/training needs are responded to in a relevant manner
 Develop a structured system of supervision and facilitator support, linked to the existing Quality Assurance system | Existing Quality Assurance modalities include quality assurance for ANFE and support for ANFE facilitators
-H13 % of youth and adults possessing ICT skills |
 ###### Teaching-learning materials
 ###### Outcome:
-Quality teaching and learning materials are available for all LF: A1, Q6, Q7) | 3B03 Learning materials developed for all levels of ANFE's adult basic education (equivalency) programme by applying quality criteria. | Review existing teaching- learning materials in line with the revised curriculum | Pre-vocational skills and vocational skills training materials are available
+Quality teaching and learning materials are available for all LF: A1, Q6, Q7) | 3B03 Learning materials developed for all levels of ANFE’s adult basic education (equivalency) programme by applying quality criteria. | Review existing teaching-learning materials in line with the revised curriculum | Pre-vocational skills and vocational skills training materials are available
 
 203
 
@@ -8311,14 +8279,14 @@ Quality teaching and learning materials are available for all LF: A1, Q6, Q7) | 
 
 [[START OF PAGE 222]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
+3B04 Course-related materials available in to all learners (number of materials per level : number of enrolled learners) 3B05 Number of learners accessing online learning | Develop e-learning/digital learning tools | Basic, post-literacy, and pre-vocational training modules are available online and/or utilizing new technologies
 ###### Qualified ANFE facilitators
 ###### Outcome:
-Improved quality of youth and | 3B04 Course-related materials available in to all learners (number of materials per level : number of enrolled learners) 3B05 Number of learners accessing online learning | Develop e-learning/digital learning tools | Basic, post-literacy, and pre- vocational training modules are available online and/or utilizing new technologies
-3B06 Policy for the creation of adult education profession and career in place and implemented 3B07 ANFE facilitators who have undergone the full cycle training (number and % increase) 3B08 Adult-oriented, interactive pedagogies acquired and applied by all ANFE facilitators (monitoring reports) | Ensure that all facilitators undergo a full cycle of training, including on gender issues, offered in collaboration with or by Teacher Training Centres | ANFE facilitators undergo the full cycle of training
-education and training | Promote professional development opportunities for ANFE facilitators | Increased retention of qualified ANFE facilitators
-personnel (LF: | Undertake periodic action- research linked with the professional development for adult educators | The relevancy of ANFE facilitator training programmes keeps pace with changing contexts
+Improved quality of youth and adult education and training through professionalization of teaching personnel (LF: Q1) | 3B06 Policy for the creation of adult education profession and career in place and implemented 3B07 ANFE facilitators who have undergone the full cycle training (number and % increase) 3B08 Adult-oriented, interactive pedagogies acquired and applied by all ANFE facilitators (monitoring reports) | Ensure that all facilitators undergo a full cycle of training, including on gender issues, offered in collaboration with or by Teacher Training Centres | ANFE facilitators undergo the full cycle of training
+Promote professional development opportunities for ANFE facilitators | Increased retention of qualified ANFE facilitators
+Undertake periodic action-research linked with the professional development for adult educators | The relevancy of ANFE facilitator training programmes keeps pace with changing contexts
 
 204
 
@@ -8326,22 +8294,19 @@ personnel (LF: | Undertake periodic action- research linked with the professiona
 
 [[START OF PAGE 223]]
 
-Indicators (KPIs in bold | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
-)
 #### 4: Technical Education and Vocational Training and Folk Education
 ##### Sub Programme 4.A : Improve access to TVET for primary and secondary education leavers
 ###### Objective:
 School leavers provided with more opportunities for further education for effective integration into the labour market
-K17 Transition rates Form IV to TVET, gender and region H14 Transition rates from Form VI to TVET, gender and region K20 Survival rates at various levels of H15 % of women among students enrolled TVET H16 Number of students with disabilities |
-###### infrastructure to cope with expanding enrolment in TVET and increased demand for skills mix in the labour market while addressing regional disparities
+K17 Transition rates from Form IV to TVET, by gender and region H14 Transition rates from Form VI to TVET, by gender and region K20 Survival rates at the various levels of TVET H15 % of women among students enrolled in TVET H16 Number of students with disabilities enrolled in TVET |
+###### Enhancement of infrastructure to cope with expanding enrolment in TVET and increased demand for skills mix in the labour market while addressing regional disparities
 ###### Outcome:
-Increased teaching and learning space, in particular in the disadvantaged regions (LF: A1, A4, SE1, SE3 ) | 4A01 Yearly number and year-on- year growth of learning spaces in TVET institutes, nationally and by region 4A02 % of youth/adult population who have attained labour-market- relevant vocational and/or technical skills 4A03 % of youths/adults that have participated in any formal or non-formal training or education in the last 12 months (combined indicator with ANFE) | Rehabilitate and expand infrastructure for the existing institutions (including FDCs) including construction of new TVET institutions | Increased total enrolment capacity for TVET education
-from |
-###### Enhancement of
-| Rationalize training programmes and enrolment in the currently underutilized TVET institutions | Increased capacity utilization of underutilized institutions
-by the TVET | Prepare and implement a strategy to attract greater private sector investment in TVET, including the establishment of government- approved and accredited privately owned institutions | Establishment of accredited private sector TVET institutions working in partnership with industry
-enrolled in TVET | Employing PPP to enhance teaching and learning infrastructure, as well as hospitality and sanitary facilities for learners and staff | Presence of modern and well- functioning classrooms and practical learning facilities, resource centres, lecture rooms, offices, library facilities, hospitality and sanitary facilities, financed through PPP
+Increased teaching and learning space, in particular in the disadvantaged regions (LF: A1, A4, SE1, SE3) | 4A01 Yearly number and year-on-year growth of learning spaces in TVET institutes, nationally and by region 4A02 % of youth/adult population who have attained labour-market-relevant vocational and/or technical skills 4A03 % of youths/adults that have participated in any formal or non-formal training or education in the last 12 months (combined indicator with ANFE) | Rehabilitate and expand infrastructure for the existing institutions (including FDCs) including construction of new TVET institutions | Increased total enrolment capacity for TVET education
+Rationalize training programmes and enrolment in the currently underutilized TVET institutions | Increased capacity utilization of underutilized institutions
+Prepare and implement a strategy to attract greater private sector investment in TVET, including the establishment of government-approved and accredited privately owned institutions | Establishment of accredited private sector TVET institutions working in partnership with industry
+Employing PPP to enhance teaching and learning infrastructure, as well as hospitality and sanitary facilities for learners and staff | Presence of modern and well-functioning classrooms and practical learning facilities, resource centres, lecture rooms, offices, library facilities, hospitality and sanitary facilities, financed through PPP
 ###### Enhancement of alternative modes of training delivery and duration
 | 4A04 Yearly growth of enrolment in alternative modes of TVET delivery 4A05 % of total TVET enrolment in alternative modes of TVET delivery | Introduce and enhance flexible programmes, including evening courses to allow for multiple entries/exits | Flexible training programmes introduced in TVET in addition to normal programmes
 Enrolment with increasing trend of students undertaking flexible programmes every year
@@ -8352,20 +8317,20 @@ Enrolment with increasing trend of students undertaking flexible programmes ever
 
 [[START OF PAGE 224]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
-School leavers provided with more parallel opportunities for skills development (LF: A1, A3, A4, SE1, SE4 ) | 4A06 Completion rates in alternative modes of TVET delivery | Completion rates of TVET graduates undertaking flexible programmes
+School leavers provided with more parallel opportunities for skills development (LF: A1, A3, A4, SE1, SE4) | 4A06 Completion rates in alternative modes of TVET delivery | | Completion rates of TVET graduates undertaking flexible programmes
 Introduce, operationalize and enhance ICT mediated teaching and learning including ODL | Increased access to TVET training programmes and institutions
 Scale up the application of Recognition of Prior Learning (RPL) to new entrants | Increased completion rates and transition in TVET
 Increased access of TVET graduates to the labour market
 Introduce and scale up formal apprenticeship and outreach programmes | Increased numbers of students participating in formal apprenticeship and outreach programmes
 ###### Increasing the participation of under-represented and disadvantaged groups in TVET
 ###### Outcome:
-Participation of youth from under-represented and disadvantaged groups in TVET improved (LF: A2, A3, A4, SE4 ) | 4A07 Numbers of eligible disabled school leavers enrolled in TVET and yearly growth in this number 4A08 Numbers of eligible disadvantaged groups (including orphaned, poor and child parent school leavers) enrolled in TVET and yearly growth in this number | Sensitize potential disadvantaged candidates to promote interest in science and technology | Increasing enrolment of disadvantaged school leavers in science and technology related programmes in TVET
+Participation of youth from under-represented and disadvantaged groups in TVET improved (LF: A2, A3, A4, SE4) | 4A07 Numbers of eligible disabled school leavers enrolled in TVET and yearly growth in this number 4A08 Numbers of eligible disadvantaged groups (including orphaned, poor and child parent school leavers) enrolled in TVET and yearly growth in this number | Sensitize potential disadvantaged candidates to promote interest in science and technology | Increasing enrolment of disadvantaged school leavers in science and technology related programmes in TVET
 Provide preferential support to disadvantaged students in science and technology programmes in TVET | Increasing enrolment of disadvantaged school leavers in science and technology related programmes in TVET
-Scale up and finance the pre- entry courses for disadvantaged candidates in science and technology field of programmes | Increasing enrolment of disadvantaged school leavers in science and technology related programmes in TVET
-Allocate special quota for enrolment for under- represented students (including students with disability) in TVET | Increased enrolment of eligible under-represented and disabled school leavers in TVET
+Scale up and finance the pre-entry courses for disadvantaged candidates in science and technology field of programmes | Increasing enrolment of disadvantaged school leavers in science and technology related programmes in TVET
+Allocate special quota for enrolment for under-represented students (including students with disability) in TVET | Increased enrolment of eligible under-represented and disabled school leavers in TVET
 
 206
 
@@ -8373,12 +8338,12 @@ Allocate special quota for enrolment for under- represented students (including 
 
 [[START OF PAGE 225]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
+Allocate accommodation preferentially to students with disabilities | Increased enrolment of eligible disabled school leavers in TVET
 ###### Enhance the human resource capacities of institutions
 ###### Outcome:
-Adequate and appropriate human resources for effective teaching and learning (LF: A1, A4, SE1 ) | 4A09 Student/teaching staff ratio by training programme 4A10 Student/technical staff ratio by training programme | Allocate accommodation preferentially to students with disabilities | Increased enrolment of eligible disabled school leavers in TVET
-Recruit and deploy teaching staff to attain the ratio of learners to teaching staff in conventional full time residential programmes at 8:1 in TET and 16:1 in VET and FDCs | Improving proportion of student-staff ratio in TVET and by training programme
+Adequate and appropriate human resources for effective teaching and learning (LF: A1, A4, SE1) | 4A09 Student/teaching staff ratio by training programme 4A10 Student/technical staff ratio by training programme | Recruit and deploy teaching staff to attain the ratio of learners to teaching staff in conventional full time residential programmes at 8:1 in TET and 16:1 in VET and FDCs | Improving proportion of student-staff ratio in TVET and by training programme
 Recruit and deploy technical staff to support learning | Improving proportion of student-technical staff ratio in TVET and by training programme
 Construct/establish two colleges for TVET facilitation to match the demand for supply of teaching staff | Increased enrolment of students in TVET-facilitating colleges, and increased number of graduates from these colleges
 
@@ -8388,18 +8353,17 @@ Construct/establish two colleges for TVET facilitation to match the demand for s
 
 [[START OF PAGE 226]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
---- | --- | --- | --- | --- | ---
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
+--- | --- | --- | --- | ---
 ##### Sub Programme 4.B : Quality and relevance of TVET
 ###### Objective:
 Improve the quality and relevance of TVET programmes so that they have a positive impact on social and economic development
-K19 K18 H17 H18 H19 | Proportion of TVET graduates getting employment (including self-employment) in the field of their training within one year after graduation Percentages of TVET graduates by subject/type of qualification TVET graduation rates Proportion of employers (including self-employment) indicating satisfaction with the practical skills of employees from TVET institutions Proportion of TVET graduates employed in the economy by each sector and by all sectors |
+K19 Proportion of TVET graduates getting employment (including self-employment) in the field of their training within one year after graduation K18 Percentages of TVET graduates by subject/type of qualification H17 TVET graduation rates H18 Proportion of employers (including self-employment) indicating satisfaction with the practical skills of employees from TVET institutions H19 Proportion of TVET graduates employed in the economy by each sector and by all sectors H20 % of population that are TVET graduates |
 ###### Ensure that the enrolment distribution of learners and the share of graduates at VET and Diploma level (TET) reflects the needs of the labour market and the recommended human capital balance
 ###### Outcome:
 Improved human skills mix for occupation fields critical for realization of TDV 2025 (LF: A1, A3, A4, Q5, SE2, SE3, SE5, M2, M4, M5) | 4B01 % of TVET students enrolled in different programmes and at different levels 4B02 % of TVET graduates in different programmes and at different levels | Regularly get updated information on human capital requirements (specific needs of major occupations and trades) in the key sectors of the economy and make use of it to plan enrolment and training programmes in the TVET sub sector | Improved correspondence between enrolment in training programmes in TVET institutions and skills demand by major occupations and trades in the economy
 Introduce and operationalize financing mechanisms that stimulate increased student enrolment in the technicians/associate professionals and skilled workers category | Increasing enrolment of school leavers in the fields of technicians/associate professionals and skilled workers category
 Provide grants and scholarships to learners in programmes in the core priority areas that have significant shortfalls | Increasing enrolment of school leavers in training programmes in core priority areas that have significant shortfall
-H20 % of population that are TVET graduates |
 ###### Ensure that the skills transmitted through TVET are more responsive to the dynamic needs of the labour market and society
 | 4B03 % of employers expressing satisfaction with the performance of TVET graduates | Improving the collection and use of labour market information | Improved correspondence between enrolment in training programmes in TVET institutions and skills demand by major occupations and trades in the economy/labour market
 
@@ -8409,7 +8373,7 @@ H20 % of population that are TVET graduates |
 
 [[START OF PAGE 227]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
 The skills transmitted through TVET are more responsive to the dynamic needs of the labour market and society (LF: Q5, Q6, SE1, SE2, SE3, SE5, M4, M5) | Making curriculum more relevant to the labour market and supportive for realization of NFYDP II | Improved correspondence between skills and knowledge imparted to TVET graduates and job tasks assigned to them at the work place, especially in the key sectors for realization of the NFYDP
@@ -8424,16 +8388,15 @@ Strengthening the involvement of employers in the organization of the TVET offer
 
 [[START OF PAGE 228]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
 Competencies of teaching staff systematically improved and sustained (LF: Q1, Q4, SE1, SE3, M4, M5) | Enhance the attachment of existing teaching staff in industry (locally and abroad) to acquire or upgrade relevant practical skills | TVET teaching staff acquire practical skills and regularly enhance their skills through attachment in respective industry
 Enhance provision of professional development on pedagogy to experienced qualified staff recruited from industry | Improved teaching methods for experienced and qualified TVET staff recruited from industry
 Provide professional development to teaching staff on ICT mediated classroom learning, open and distance learning, and CBET curricula development, delivery and assessment | Improved pedagogical capacity of TVET teaching staff on ICT mediated classroom learning, open and distance learning, and CBET curricula development, delivery and assessment
-###### T/L materials
+###### Provision of updated equipment, tools as well as T/L materials
 ###### Outcome:
 Adequate and appropriate equipment and T/L materials for training available (LF: A1, Q7, Q8, SE1, SE5, M5) | 4B05 Student/workshop ratio 4B06 Number of students per fully equipped classroom | Procure and operationalize modern training equipment/facilities and T/L materials in TVET institutions | Improved training and learning environment with modern equipment/facilities
-###### of updated equipment, tools as well
 | Introduce incentives for PPP and employ PPP in the procurement of expensive equipment for TVET | Enhanced participation of the private sector through PPP in the procurement of modern training equipment
 Procure critical equipment for supporting learners with special learning needs and disabilities | Learners with special learning needs and disabilities have friendly learning equipment/environment
 Modernize libraries and workshops for TVET institutions and FDCs | Fully equipped and modernized libraries and workshops become available in TVET and FDCs
@@ -8444,7 +8407,7 @@ Modernize libraries and workshops for TVET institutions and FDCs | Fully equippe
 
 [[START OF PAGE 229]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Strengthen the effectiveness of the TVET system to meet national and international commitments
 ###### Outcome:
@@ -8460,23 +8423,23 @@ Ensure that global citizenship education and education for sustainable developme
 
 [[START OF PAGE 230]]
 
-Indicators (KPIs in | bold ) | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 #### 5: Access, Participation, Quality and Relevance of Higher Education
 ##### Sub Programme 5.A : Access and participation
 ###### Objective :
 Equitable access and participation in higher university and university college education, with particular attention to priority courses, gender and disadvantaged groups, to align HE graduate output with middle-income economy demands
-K22 Gross in Higher (gender H21 Gross Higher gender from A-level) H22 Percentage among enrolled Higher H23 Number enrolled Higher H24 Share |
+K22 Gross enrolment rate in Higher Education (gender disaggregated) H21 Gross intake ratio to Higher Education by gender (transition rate from A-level) H22 Percentage of women among students enrolled in STEM Higher Education H23 Number of disabled enrolled in STEM Higher Education H24 Share of the active population with HE |
+###### Infrastructure
 ###### Outcome:
-Expanded capacity in HLIs, with a focus on priority areas, STEM facilities, and with attention to the needs of under-represented groups (LF: A4, SE3, SE4, M2) | 5A01 Size of teaching and learning space and infrastructure created for science teachers 5A02 % of universities having expanded learning space in the past 2 years 5A03 Number of higher education STEM courses established or customized for the disabled 5A04 % of universities meeting government defined standards for disability- friendly learning and support facilities | Rehabilitate and expand existing teaching and learning space, and create further facilities in priority areas | Adequate teaching and learning space for HE, with greater geographical coverage
-enrolment rate Education disaggregated) | Develop infrastructure for STEM, both for teacher training and university courses, that is appropriate for under- represented groups, including women and the disabled | Greater enrolment in STEM teacher training, participation of the disabled in STEM courses, and reduced gender imbalance in students and future teachers
-intake ratio to Education by (transition rate | Expand infrastructure and equipment for training in soft and communication skills | Adequate training capacity for soft and communication skills
-in STEM Education of disabled
+Expanded capacity in HLIs, with a focus on priority areas, STEM facilities, and with attention to the needs of under-represented groups (LF: A4, SE3, SE4, M2) | 5A01 Size of teaching and learning space and infrastructure created for science teachers 5A02 % of universities having expanded learning space in the past 2 years 5A03 Number of higher education STEM courses established or customized for the disabled 5A04 % of universities meeting government defined standards for disability-friendly learning and support facilities | Rehabilitate and expand existing teaching and learning space, and create further facilities in priority areas | Adequate teaching and learning space for HE, with greater geographical coverage
+Develop infrastructure for STEM, both for teacher training and university courses, that is appropriate for under-represented groups, including women and the disabled | Greater enrolment in STEM teacher training, participation of the disabled in STEM courses, and reduced gender imbalance in students and future teachers
+Expand infrastructure and equipment for training in soft and communication skills | Adequate training capacity for soft and communication skills
 ###### Financing
 ###### Outcome:
-Sustainable and comprehensive HE financing that ensures the most capable students are able to enrol, regardless of their personal or social characteristics (LF: A4, Q8, SE3, M2, M3) | 5A05 Actual amount of HE sub- sector financing 5A06 % of HE loans granted by HESLB on a means-tested basis each financial year 5A07 % of HE loans (public, private and informal sectors) tracked 5A08 % of student borrowers with mature student loans who are repaying on schedule, as of Dec. 31 of each year | Mobilize comprehensive and sustainable financial resources, including through PPP | Adequate and sustainable funding for higher education students
-of | in STEM Education the active | Build Higher Education Student Loans Board (HESLB) capacity in loan management and recovery | Improved equity of the government/family HE cost- sharing mechanism
-population | with HE | Alternative ways of financing higher education and research established
+Sustainable and comprehensive HE financing that ensures the most capable students are able to enrol, regardless of their personal or social characteristics (LF: A4, Q8, SE3, M2, M3) | 5A05 Actual amount of HE sub-sector financing 5A06 % of HE loans granted by HESLB on a means-tested basis each financial year 5A07 % of HE loans (public, private and informal sectors) tracked 5A08 % of student borrowers with mature student loans who are repaying on schedule, as of Dec. 31 of each year | Mobilize comprehensive and sustainable financial resources, including through PPP | Adequate and sustainable funding for higher education students
+Build Higher Education Student Loans Board (HESLB) capacity in loan management and recovery | Improved equity of the government/family HE cost-sharing mechanism
+| Alternative ways of financing higher education and research established
 Improve the means-tested student loan attribution mechanism | Framework for internal income generation and fundraising activities by public HEIs established
 
 212
@@ -8485,17 +8448,18 @@ Improve the means-tested student loan attribution mechanism | Framework for inte
 
 [[START OF PAGE 231]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
+| | | | Loans, grants and scholarships are provided to meriting students from poor, rural and marginalized backgrounds
 ###### Academic Staff
-| and science 5A09 % of HE staff with Masters and PhD in priority disciplines (gender disaggregated) 5A10 Number of HE staff trained for science teacher preparation (gender disaggregated) 5A11 Number of HE staff upgraded and retooled through short term programmes (gender disaggregated) 5A12 % of academic programmes aligned with labour market demands 5A13 % of academic staff with Masters/PhD (gender disaggregated) 5A14 No of MSc/PhD holding staff per academic programme (gender disaggregated) | Conduct a review of the existing academic staff composition (by level and subject) to identify gaps and develop a medium-term action plan to fill them | Loans, grants and scholarships are provided to meriting students from poor, rural and marginalized backgrounds Sufficient staff are available at each level and for different subjects to supervise research, conduct teaching, provide tutorship, etc. as required for the courses that respond to labour market demand
 ###### Outcome:
-Availability of sufficient number of academic staff, appropriate distribution subject and status adequate | HE staff training via short and long term courses | Better distribution of HE academic staff by subject specialism
-for courses demanded by labour market Availability of graduate | Develop and recruit early grade reading and math experts | Sufficient experts in early grade learning and maths
-teachers to cater for the expanded secondary school enrolment (LF: Q1) | Expand infrastructure and facilities for science teacher training | Sufficient facilities for expanded science teachers and laboratory assistants training
+Availability of sufficient number of academic staff, and appropriate distribution by subject and status adequate for courses demanded by the labour market Availability of graduate science teachers to cater for the expanded secondary school enrolment (LF: Q1) | 5A09 % of HE staff with Masters and PhD in priority disciplines (gender disaggregated) 5A10 Number of HE staff trained for science teacher preparation (gender disaggregated) 5A11 Number of HE staff upgraded and retooled through short term programmes (gender disaggregated) 5A12 % of academic programmes aligned with labour market demands 5A13 % of academic staff with Masters/PhD (gender disaggregated) 5A14 No of MSc/PhD holding staff per academic programme (gender disaggregated) | Conduct a review of the existing academic staff composition (by level and subject) to identify gaps and develop a medium-term action plan to fill them | Sufficient staff are available at each level and for different subjects to supervise research, conduct teaching, provide tutorship, etc. as required for the courses that respond to labour market demand
+HE staff training via short and long term courses | Better distribution of HE academic staff by subject specialism
+Develop and recruit early grade reading and math experts | Sufficient experts in early grade learning and maths
+Expand infrastructure and facilities for science teacher training | Sufficient facilities for expanded science teachers and laboratory assistants training
 Increase the number of HE academic staff to cater for an expanded programme for science teacher training | Sufficient academic staff to train science teachers
 ###### Pre-entry programmes
-| 5A15 Number of curriculum reviews and updating conducted on pre-entry courses for women in STEM | Review and updating of curriculum for existing pre- entry programmes in STEM | Greater numbers of women join science and technology degree courses
+| 5A15 Number of curriculum reviews and updating conducted on pre-entry courses for women in STEM | Review and updating of curriculum for existing pre-entry programmes in STEM | Greater numbers of women join science and technology degree courses
 
 213
 
@@ -8503,10 +8467,10 @@ Increase the number of HE academic staff to cater for an expanded programme for 
 
 [[START OF PAGE 232]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
-Greater gender balance achieved in science and technology degree courses (LF: SE4) | 5A16 Number of new STEM pre- entry programmes for women established in new and priority areas 5A17 Number of pre-entry programmes funded 5A18 % of qualified applicants for pre-entry programmes enrolled | Creation of new pre-entry bridging programmes responsive to the labour market | Pre-entry programmes in new relevant areas available
+Greater gender balance achieved in science and technology degree courses (LF: SE4) | 5A16 Number of new STEM pre-entry programmes for women established in new and priority areas 5A17 Number of pre-entry programmes funded 5A18 % of qualified applicants for pre-entry programmes enrolled | Creation of new pre-entry bridging programmes responsive to the labour market | Pre-entry programmes in new relevant areas available
 Dedicated funding for pre-entry programmes | Pre-entry programmes are appropriately financed
 
 214
@@ -8515,18 +8479,18 @@ Dedicated funding for pre-entry programmes | Pre-entry programmes are appropriat
 
 [[START OF PAGE 233]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ##### Sub Programme 5.B : Quality and relevance
 ###### Objective :
 Quality Higher Education teaching and learning with enforced regulation and usage of ICT leads to the output of graduates with employable knowledge and skills that contribute towards economic and social development
-H25 K23 K21 |
+H25 % of universities adequately equipped with ICT/STEM/labs/etc. K23 % of university graduates with relevant employment one year after graduation, by main stream K21 The % of science and mathematics graduates among all university graduates |
 ###### Labour Market Relevance
 ###### Outcome:
 Profiles of HE graduates evolve to flexibly reflect labour market needs in terms of qualification level, specialty, practical experience (LF: Q5, Q8, SE3, M3, M5) | 5B01 Numbers of manpower surveys and data collection for labour market 5B02 Proportion of training programmes reviewed or updated to match labour market needs 5B03 Numbers of apprenticeships, internships, industrial parks and incubators 5B04 Proportion of new curriculum with inputs from employers/labour market/society 5B05 % of HE students showing adequate understanding of issues relating to global citizenship and sustainability | National data collection of labour market manpower information (skills surveys) in all regions, through LMI surveys and involving the private sector | Labour needs identified in terms of the level, skills and specialties required of HE graduates for national development
-% of universities adequately equipped with ICT/STEM/labs/ etc. % of university graduates with | Review and update training programmes, research priorities and curricula to respond to needs of labour market and society, involving the private sector in curricula development | Programmes and curricula are updated, relevant to industry and linked to labour market demands
-relevant employment one year after graduation, by main stream The % of science and mathematics graduates among all | Prioritize the allocation of government bursaries and resources for programmes responding to identified social and labour market needs (competitive resource allocation) | The stock of HE graduates reflects national requirements, contributing to employment, productivity and growth
-university graduates | Partner with the private sector to develop a programme of apprenticeships, internships, industrial parks and incubators | HE provides greater practical content, promotes innovation and technology transfer, and prepares graduates to properly apply acquired knowledge in the economy
+Review and update training programmes, research priorities and curricula to respond to needs of labour market and society, involving the private sector in curricula development | Programmes and curricula are updated, relevant to industry and linked to labour market demands
+Prioritize the allocation of government bursaries and resources for programmes responding to identified social and labour market needs (competitive resource allocation) | The stock of HE graduates reflects national requirements, contributing to employment, productivity and growth
+Partner with the private sector to develop a programme of apprenticeships, internships, industrial parks and incubators | HE provides greater practical content, promotes innovation and technology transfer, and prepares graduates to properly apply acquired knowledge in the economy
 
 215
 
@@ -8534,12 +8498,12 @@ university graduates | Partner with the private sector to develop a programme of
 
 [[START OF PAGE 234]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
+Ensure that global citizenship education and education for sustainable development are included in curricula, teacher training and student assessment | Global citizenship and sustainable development are mainstreamed in the university system
 ###### Quality Assurance
 ###### Outcome:
-Quality assurance of HE delivery is reinforced by strengthened regulatory capacity at the central and institutional levels (LF: Q2, Q8, M1, M3, M4, M5) | 5B06 % of universities meeting set national quality standards 5B07 % of universities with an active QA department | Ensure that global citizenship education and education for sustainable development are included in curricula, teacher training and student assessment | Global citizenship and sustainable development are mainstreamed in the university system
-Develop both the material and human capacity of the HE regulating body agency (TCU) and related MDA units | Improved TCU facilities and HE regulator capacity in enforcing quality standards
+Quality assurance of HE delivery is reinforced by strengthened regulatory capacity at the central and institutional levels (LF: Q2, Q8, M1, M3, M4, M5) | 5B06 % of universities meeting set national quality standards 5B07 % of universities with an active QA department | Develop both the material and human capacity of the HE regulating body agency (TCU) and related MDA units | Improved TCU facilities and HE regulator capacity in enforcing quality standards
 Develop Quality Assurance Framework | Quality and standards are adhered to in tertiary education
 Strengthen Quality Assurance units within HE institutions, in terms of human capacity, NQF compliance and QA systems | Adequate quality assurance capability within HE institutions and improved implementation of the NQF
 Involve employers, industry and communities, through appropriate forums, in the quality assurance process of institutions and graduates | Quality assurance comprehensively covers academic excellence and labour market relevance
@@ -8553,14 +8517,14 @@ Develop, expand and professionalize priority training programmes in STEM | Enhan
 
 [[START OF PAGE 235]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
-Higher education institutions remain abreast of technological change and global trends, promoting relevant research and innovation responsive to labour market and societal needs (LF: Q5, M4) | 5B10 Numbers of research and innovation outputs commercialized/adopted by industry 5B11 % of total education budget allocated to Research and Development | Improve research capacity, funding and focus on product- oriented priorities and methods/procedures for translating research findings into policy | Heightened relevance of research activities
+Higher education institutions remain abreast of technological change and global trends, promoting relevant research and innovation responsive to labour market and societal needs (LF: Q5, M4) | 5B10 Numbers of research and innovation outputs commercialized/adopted by industry 5B11 % of total education budget allocated to Research and Development | Improve research capacity, funding and focus on product-oriented priorities and methods/procedures for translating research findings into policy | Heightened relevance of research activities
 ###### Learning Environment
 ###### Outcome:
-Learning environments are suitable for all subjects and learners, and conducive to the acquisition of required knowledge and skills (LF: Q4, | 5B12 Amount of HE teaching and learning space created (lecture rooms, laboratories, libraries seminar rooms etc.) 5B13 Number of HE STEM facilities operational (workshops, laboratories, incubators, workstations added) 5B14 Number of shared ICT platforms (e.g. e-libraries, e-learning and data management platforms) in use 5B15 % of staff satisfied with the teaching, learning and research environment 5B16 % of students satisfied with the teaching, learning and research environment | Improve the quantity and quality of infrastructure and availability of training facilities and equipment, in particular for STEM subjects | Better learning outcomes, in terms of academic content and practical experience
-Q7, SE3 ) | Develop the use and availability of ICT soft and hardware for both resident and distance learning (e-libraries, e-learning, etc.) | Enhanced access to knowledge, information sharing and collaborative learning and research
+Learning environments are suitable for all subjects and learners, and conducive to the acquisition of required knowledge and skills (LF: Q4, Q7, SE3) | 5B12 Amount of HE teaching and learning space created (lecture rooms, laboratories, libraries seminar rooms etc.) 5B13 Number of HE STEM facilities operational (workshops, laboratories, incubators, workstations added) 5B14 Number of shared ICT platforms (e.g. e-libraries, e-learning and data management platforms) in use 5B15 % of staff satisfied with the teaching, learning and research environment 5B16 % of students satisfied with the teaching, learning and research environment | Improve the quantity and quality of infrastructure and availability of training facilities and equipment, in particular for STEM subjects | Better learning outcomes, in terms of academic content and practical experience
+Develop the use and availability of ICT soft and hardware for both resident and distance learning (e-libraries, e-learning, etc.) | Enhanced access to knowledge, information sharing and collaborative learning and research
 
 217
 
@@ -8568,11 +8532,11 @@ Q7, SE3 ) | Develop the use and availability of ICT soft and hardware for both r
 
 [[START OF PAGE 236]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Staff competencies and qualifications
 ###### Outcome:
-HE staff are qualified, equipped with hard and soft skills, undergo continuous competency upgrading and are motivated to perform (LF: Q1, SE3, M1) | 5B17 Percentage of staff capacitated through long term (PhD and Masters) and short term (INSET) training (gender disaggregated) 5B18 Number of staff on long- term training (Masters and PhD) (gender disaggregated) 5B19 Number of staff supported for short-term (INSET) training in the year (gender disaggregated) 5B20 Number of staff recognition/motivation systems initiated/implemented 5B21 Number of staff awarded with excellency awards (at national, regional & international level) 5B22 % of students satisfied with the competency and morale of staff | Develop HE teaching staff competencies through the provision of short-term INSET retooling courses and long- term training programmes (Masters and PhD) | Improved profile of HE academic staff, whose qualifications and relevant skills are continuously updated
+HE staff are qualified, equipped with hard and soft skills, undergo continuous competency upgrading and are motivated to perform (LF: Q1, SE3, M1) | 5B17 Percentage of staff capacitated through long term (PhD and Masters) and short term (INSET) training (gender disaggregated) 5B18 Number of staff on long-term training (Masters and PhD) (gender disaggregated) 5B19 Number of staff supported for short-term (INSET) training in the year (gender disaggregated) 5B20 Number of staff recognition/motivation systems initiated/implemented 5B21 Number of staff awarded with excellency awards (at national, regional & international level) 5B22 % of students satisfied with the competency and morale of staff | Develop HE teaching staff competencies through the provision of short-term INSET retooling courses and long-term training programmes (Masters and PhD) | Improved profile of HE academic staff, whose qualifications and relevant skills are continuously updated
 Provide teaching staff with opportunities to regularly improve their soft skills | Adequate HE capacity to train students in soft and communication skills
 Establish a system for award and recognition of good quality teaching and research at HE institutions | Improved motivation of staff to continuously improve their profiles, maximize student performance and get involved in research projects
 ###### Data Management
@@ -8584,10 +8548,10 @@ Establish a system for award and recognition of good quality teaching and resear
 
 [[START OF PAGE 237]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
-Quality assurance, relevance, learning outcomes and M&E are all facilitated by the effective use of ICT for data management and use (LF: Q5, M4) | 5B24 Number of ICT based data platforms created linking HE institutions, agencies or ministries 5B25 % of HET academic and administrative programmes/systems leveraged on shared ICT platforms 5B26 Number of hits to the HET- MIS | Support the development and integration of system-wide applications for data collection, verification and management (ESMIS, HET-MIS) | Sustainable data collection and verification systems for HE, to inform appropriate sector monitoring and policy decisions
+Quality assurance, relevance, learning outcomes and M&E are all facilitated by the effective use of ICT for data management and use (LF: Q5, M4) | 5B24 Number of ICT based data platforms created linking HE institutions, agencies or ministries 5B25 % of HET academic and administrative programmes/systems leveraged on shared ICT platforms 5B26 Number of hits to the HET-MIS | Support the development and integration of system-wide applications for data collection, verification and management (ESMIS, HET-MIS) | Sustainable data collection and verification systems for HE, to inform appropriate sector monitoring and policy decisions
 Establish inter-ministerial, intersectoral and interagency data management platforms and initiatives | Adequate linkages and harmonization in data management platforms across agencies (HESLB, TCU, COSTECH) and Ministries (Labour, Education, Finance)
 Develop capacities in network maintenance, data analysis, compilation and use | Improved capacity for system maintenance and data analysis and use
 
@@ -8597,21 +8561,21 @@ Develop capacities in network maintenance, data analysis, compilation and use | 
 
 [[START OF PAGE 238]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 #### 6: System Structure, Governance and Management
 ###### Objective:
 Ensure an effective management and administration system is in place, including sector-wide accountability and sustainable, equitable financing modalities, which enable mobility through multiple pathways within and across education sub-sectors
-K24 % of planned intermediate outcome targets achieved in a timely manner with regard to: (6.1, 6.2) Effective and accountable management of system with multiple pathways; (6.3) Institutional capacities and professional development; (6.4) Harmonized data management information system across all sub-sectors; (6.5) Sustainable and equitable financing modalities; (6.6) Up- to-date, relevant and harmonized regulatory instruments |
+K24 % of planned intermediate outcome targets achieved in a timely manner with regard to: (6.1, 6.2) Effective and accountable management of system with multiple pathways; (6.3) Institutional capacities and professional development; (6.4) Harmonized data management information system across all sub-sectors; (6.5) Sustainable and equitable financing modalities; (6.6) Up-to-date, relevant and harmonized regulatory instruments |
 ###### Flexible system
 ###### Outcome:
-The system has multiple pathways within and/or across all education streams (LF: M1, M5) | 6A01 Numbers/percentage of courses/programmes/ degrees with qualifications linked to the NQF | Complete National Qualification Framework (NQF), by linking all delivery modalities in the education sector | Diverse delivery modalities are integrated into the NQF, thus facilitating transfer between these modalities
+The system has multiple pathways within and/or across all education streams (LF: M1, M5) | 6A01 Numbers/percentage of courses/programmes/degrees with qualifications linked to the NQF | Complete National Qualification Framework (NQF), by linking all delivery modalities in the education sector | Diverse delivery modalities are integrated into the NQF, thus facilitating transfer between these modalities
 Manage/track implementation of National Qualification Framework (NQF) | Sub-sectoral implementation of NQF is monitored to ensure transit through flexible pathways
 Provide regular information about NQF and pathways within the system to possible beneficiaries | Beneficiaries have easy access to information about study modalities in the education system, and their relative qualifications
 ###### Effective management of system
 ###### Outcome:
 Strengthened management of multiple, mutually accountable partnerships (LF: M1, M5) | 6A02 % of education stakeholders expressing satisfaction with the management of the education system 6A03 Numbers of meetings of dialogue structures 6A04 % of LGAs which publicly disseminate the performance of the local education sector at least annually | Define mandates, roles and responsibilities (including coordination & leadership) of central implementation structures and of regional and local government implementers | Improved execution of roles and responsibilities
-Strengthen ESDP implementation structures by reformulating coordination/partnership management | Ongoing technical support for the ESDC is provided by a 'Sector Working Group'/ESDP Task Force
+Strengthen ESDP implementation structures by reformulating coordination/partnership management | Ongoing technical support for the ESDC is provided by a ‘Sector Working Group’/ESDP Task Force
 
 220
 
@@ -8619,13 +8583,13 @@ Strengthen ESDP implementation structures by reformulating coordination/partners
 
 [[START OF PAGE 239]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
-K25 % of KPIs for which information is presented and analysed in the yearly statistical abstract K26 % of National Budget allocated to education K27 % of annual education budget released and utilized H26 Sector dialogue mechanisms functioning satisfactorily, including JESR and ESDC meetings H27 Annual Education Sector Report is published on time with full analysis H28 Existence of feedback mechanisms with local communities in every LGA | Harmonize sector-wide M&E processes, facilitating coordinated performance monitoring across all sub- sectors | Effective use of sector performance results for evidence-based planning and mutual accountability through an institutionalized M&E Framework
-Streamline sector dialogue to ensure harmonization, alignment and effective aid- management | Timely implementation of sector dialogue events calendar
+K25 % of KPIs for which information is presented and analysed in the yearly statistical abstract K26 % of National Budget allocated to education K27 % of annual education budget released and utilized H26 Sector dialogue mechanisms functioning satisfactorily, including JESR and ESDC meetings H27 Annual Education Sector Report is published on time with full analysis H28 Existence of feedback mechanisms with local communities in every LGA | Harmonize sector-wide M&E processes, facilitating coordinated performance monitoring across all sub-sectors | Effective use of sector performance results for evidence-based planning and mutual accountability through an institutionalized M&E Framework
+Streamline sector dialogue to ensure harmonization, alignment and effective aid-management | Timely implementation of sector dialogue events calendar
 Develop, approve and implement an education sector-wide Communications Strategy | Roles, responsibilities, methods and media for both internal and external communications are clearly defined and all internal and external stakeholders receive sufficient, accurate, clear and timely information according to their needs to enable the entire education sector to respond to current needs, implement government-led reforms and provide adequate accountability to the general public
 ###### Institutional capacities and professional development
-| 6A05 % of national, regional, and local officials with profile required for the post they occupy | Develop, approve and implement a medium- to long- term master Capacity Development Plan for the education sector | Strategic, planned and coordinated approach to institutional capacity building, individual career paths and continuing professional development
+| 6A05 % of national, regional, and local officials with profile required for the post they occupy | Develop, approve and implement a medium- to long-term master Capacity Development Plan for the education sector | Strategic, planned and coordinated approach to institutional capacity building, individual career paths and continuing professional development
 
 221
 
@@ -8633,7 +8597,7 @@ Develop, approve and implement an education sector-wide Communications Strategy 
 
 [[START OF PAGE 240]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
 Capacities of national, regional and local officials are developed for system-wide planning and management; improved assessment; and innovation and research (LF: Q3, Q5, M1, M3, M4) | 6A06 % of national, regional and local education officials who have an up-to-date job description 6A07 % of regional and local authorities who prepare yearly planning documents 6A08 Number of national, regional and LGA officials trained in policy analysis and strategic planning, management, monitoring and accountability | Design and utilize a capacity development partnership fund (CDPF) for professional development of all relevant staff | Capacities developed sustainably in priority areas (e.g. change-management, policy analysis, strategic planning and data management)
@@ -8647,11 +8611,11 @@ Develop capacities of relevant staff in policy analysis, planning and management
 
 [[START OF PAGE 241]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Data management and data use
 ###### Outcome:
-Harmonized ESMIS generates timely, reliable and accessible quality data, utilized across all education sub-sectors (LF: M1, M4) | 6A09 % of stakeholders expressing satisfaction with quality of statistical information on education produced by government 6A10 Number of KPIs that are tracked and analysed on an annual basis 6A11 % of LGAs utilizing upgraded BEMIS and adult education data in District Plan | Upgrade BEMIS, including functionalities based on useful practice from piloted systems | Timely availability of the national school-level dataset for BE, integrating learning outcomes assessment data for children in formal and non- formal settings
+Harmonized ESMIS generates timely, reliable and accessible quality data, utilized across all education sub-sectors (LF: M1, M4) | 6A09 % of stakeholders expressing satisfaction with quality of statistical information on education produced by government 6A10 Number of KPIs that are tracked and analysed on an annual basis 6A11 % of LGAs utilizing upgraded BEMIS and adult education data in District Plan | Upgrade BEMIS, including functionalities based on useful practice from piloted systems | Timely availability of the national school-level dataset for BE, integrating learning outcomes assessment data for children in formal and non-formal settings
 Upgrade VET-MIS in line with ESDP TVET priority programme demands | Institution-level national dataset is available for TVET, integrating labour market information survey data
 Develop an adult education data base with information on youth and adults learning achievements in literacy and numeracy as part of the ESMIS | Well-resourced decentralized AE-MIS available, integrating national adult and youth literacy and numeracy data
 Review and improve management information system for quality assurance data, including school-based continuous assessment | Operational school-based MIS is available to track the quality of teaching and learning in the classroom
@@ -8666,12 +8630,12 @@ Upgrade and harmonize online reporting functionalities of the sector-wide system
 
 [[START OF PAGE 242]]
 
-Indicators (KPIs in bold ) | Component | Indicators | Strategies | Results
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
 --- | --- | --- | --- | ---
 ###### Outcome:
 Sufficient and timely disbursement of allocated budget and timely, effective procurement (LF: Q8, M2, M3) | 6A13 Financial implementation rate of selected major programmes supported by Development Partners | Provide specialized training in procurement, tendering and related skills for relevant staff | Timely procurement and tendering
 Improve financial management information system | Regular and open information provided to track the flow and use of resources, including at the school level
-Revise stakeholders' roles and responsibilities for financial management | Improved utilization of alternative sources of funding
+Revise stakeholders’ roles and responsibilities for financial management | Improved utilization of alternative sources of funding
 Promote public-private partnerships involving schools, communities and industries | Public-private partnership agreements signed/functional at national, regional and district levels, to support the education system and schools
 ###### Updated and harmonized regulatory instruments
 ###### Outcome:
@@ -8684,24 +8648,20 @@ Review, revise and disseminate the National Strategy on Inclusive Education | Th
 
 [[START OF PAGE 243]]
 
-Indicators (KPIs in bold ) | Component | Strategies | Results
---- | --- | --- | ---
-Develop and approve a schools infrastructure strategy | School buildings and facilities (including both Basic and TVET) are located, designed, constructed and managed in a way that maximises access, student learning and cost- effectiveness and meets required safety standards
+Indicators (KPIs in bold) | Component | Indicators | Strategies | Results
+--- | --- | --- | --- | ---
+Develop and approve a schools infrastructure strategy | School buildings and facilities (including both Basic and TVET) are located, designed, constructed and managed in a way that maximises access, student learning and cost-effectiveness and meets required safety standards
 Review and revise teacher training, recruitment and deployment strategies | Teachers with up-to-date knowledge and competencies are deployed equitably across Tanzania and within schools, having a fair and transparent performance and career management system in place
 Develop and roll-out new Quality Assurance system, including multi-indicator minimum school quality standards and routine competency-based student learning assessments | Schools meet minimum quality standards
 Student learning improved
 
-Top level (programme) indicators:
+Top level (programme) indicators: 55, including 27 KPIs
 
-Intermediate level (component) indicators:
-
-55, including 27 KPIs
-
-149
+Intermediate level (component) indicators: 149
 
 Under the 57 components there are 232 strategies which have a total of 239 intended results.
 
-The indicators are more precisely defined, with targets, in the separate Monitoring and Evaluation Framework at Annex 4.  Please note that the structure of indicators in the M&E Framework follows the Logical Framework, whereas the structure of indicators provided here in Annex 2 follows the implementation arrangements of the Operational Plan.  All the main indicators, including the KPIs and other top level indicators, are common to both structures.
+The indicators are more precisely defined, with targets, in the separate Monitoring and Evaluation Framework at Annex 4. Please note that the structure of indicators in the M&E Framework follows the Logical Framework, whereas the structure of indicators provided here in Annex 2 follows the implementation arrangements of the Operational Plan. All the main indicators, including the KPIs and other top level indicators, are common to both structures.
 
 225
 
@@ -8713,9 +8673,8 @@ The indicators are more precisely defined, with targets, in the separate Monitor
 
 Please see separate document or double click on icon below.
 
-Plan_5_August_2018.docx
-
 ESDP_Operational_
+Plan_5_August_2018.docx
 
 226
 
@@ -8741,9 +8700,8 @@ st_2018.doc
 
 Please see separate document or double click on icon below.
 
-- final improved - June 2018.xls
-
 ESDP RISK REGISTER
+- final improved - June 2018.xls
 
 228
 
