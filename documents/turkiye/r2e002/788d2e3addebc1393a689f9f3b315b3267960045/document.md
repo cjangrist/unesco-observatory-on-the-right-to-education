@@ -8,42 +8,282 @@
 
 # CONSTITUTION OF THE REPUBLIC OF TURKEY
 
+PREAMBLE 10
+PART ONE 11
+General Principles 11
+I. Form of the State 11
+II. Characteristics of the Republic 11
+III. Integrity, official language, flag, national anthem, and capital of the State 11
+IV. Irrevocable provisions 11
+V. Fundamental aims and duties of the State 11
+VI. Sovereignty 11
+VII. Legislative power 12
+VIII. Executive power and function 12
+IX. Judicial power 12
+X. Equality before the law 12
+XI. Supremacy and binding force of the Constitution 12
+PART TWO 13
+Fundamental Rights and Duties 13
+CHAPTER ONE 13
+General Provisions 13
+I. Nature of fundamental rights and freedoms 13
+II. Restriction of fundamental rights and freedoms 13
+III. Prohibition of abuse of fundamental rights and freedoms 13
+IV. Suspension of the exercise of fundamental rights and freedoms 13
+V. Status of aliens 14
+CHAPTER TWO 14
+Rights and Duties of the Individual 14
+I. Personal inviolability, corporeal and spiritual existence of the individual 14
+II. Prohibition of forced labour 14
+III. Personal liberty and security 14
+IV. Privacy and protection of private life 15
+A. Privacy of private life 15
+B. Inviolability of the domicile 16
+C. Freedom of communication 16
 iii
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+V. Freedom of residence and movement 16
+VI. Freedom of religion and conscience 17
+VII. Freedom of thought and opinion 17
+VIII. Freedom of expression and dissemination of thought 17
+IX. Freedom of science and the arts 18
+X. Provisions relating to the press and publication 18
+A. Freedom of the press 18
+B. Right to publish periodicals and non-periodicals 19
+C. Protection of printing facilities 19
+D. Right to use media other than the press owned by public corporations 19
+E. Right of rectification and reply 20
+XI. Rights and freedoms of assembly 20
+A. Freedom of association 20
+B. Right to hold meetings and demonstration marches 20
+XII. Right to property 21
+XIII. Provisions on the protection of rights 21
+A. Freedom to claim rights 21
+B. Principle of natural judge 21
+C. Principles relating to offences and penalties 21
+XIV. Right to prove an allegation 22
+XV. Protection of fundamental rights and freedoms 22
+CHAPTER THREE 22
+Social and Economic Rights and Duties 22
+I. Protection of the family, and children’s rights 22
+II. Right and duty of education 23
+III. Public interest 23
+A. Utilization of the coasts 23
+B. Land ownership 23
+C. Protection of agriculture, animal husbandry, and persons engaged in these activities 24
+D. Expropriation 24
+E. Nationalization and privatization 24
+IV. Freedom of work and contract 25
+V. Provisions relating to labour 25
+A. Right and duty to work 25
+B. Working conditions and right to rest and leisure 25
+C. Right to organize unions 25
 iv
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+D. Activities of unions 26
+VI. Collective labour agreement, right to strike, and lockout 26
+A. Rights of collective labour agreement and collective agreement 26
+B. Right to strike, and lockout 27
+VII. Provision of fair wage 27
+VIII. Health, the environment and housing 27
+A. Health services and protection of the environment 27
+B. Right to housing 28
+IX. Youth and sports 28
+A. Protection of the youth 28
+B. Development of sports and arbitration 28
+X. Social security rights 28
+A. Right to social security 28
+B. Persons requiring special protection in the field of social security 28
+C. Turkish citizens working abroad 29
+XI. Protection of historical, cultural and natural assets 29
+XII. Protection of arts and artists 29
+XIII. The extent of social and economic duties of the State 29
+CHAPTER FOUR 29
+Political Rights and Duties 29
+I. Turkish citizenship 29
+II. Right to vote, to be elected and to engage in political activity 30
+III. Provisions relating to political parties 30
+A. Forming parties, membership and withdrawal from membership in a party 30
+B. Principles to be observed by political parties 31
+IV. Right to enter public service 32
+A. Entry into public service 32
+B. Declaration of assets 32
+V. National service 32
+VI. Duty to pay taxes 32
+VII. Right of petition, right to information and appeal to the Ombudsperson 33
+PART THREE 34
+Fundamental Organs of the Republic 34
+CHAPTER ONE 34
+Legislative Power 34
+I. The Grand National Assembly of Turkey 34
 v
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
+A. Composition 34
+B. Eligibility to be a deputy 34
+C. Election term of the Grand National Assembly of Turkey and the President of the Republic 34
+D. Deferment of elections and by-elections 35
+E. General administration and supervision of elections 35
+F. Provisions relating to membership 36
+1. Representing the nation 36
+2. Oath-taking 36
+3. Activities incompatible with membership 36
+4. Parliamentary immunity 36
+5. Loss of membership 37
+6. Application for annulment 37
+7. Salaries and travel allowances 38
+II. Duties and powers of the Grand National Assembly of Turkey 38
+A. General 38
+B. Introduction and deliberation of bills 38
+C. Promulgation of laws by the President of the Republic 38
+D. Ratification of international treaties 39
+E. Authorization to issue decrees having the force of law 39
+F. Declaration of state of war and authorization to deploy the armed forces 39
+III. Provisions relating to the activities of the Grand National Assembly of Turkey 40
+A. Convening and recess 40
+B. Bureau of the Assembly 40
+C. Rules of Procedure, political party groups and security Affairs 41
+D. Quorums and majority for decisions 41
+E. Publicity and publication of debates 41
+IV. Ways of obtaining information and supervision by the Grand National Assembly of Turkey 41
+B. Censure 42
+C. Parliamentary investigation 42
+CHAPTER TWO 42
+The Executive Power 42
+I. President of the Republic 42
+A. Candidacy and election 42
+B. Election 43
 vi
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+C. Oath-taking 43
+D. Duties and powers 43
+E. Criminal Liability of the President of the Republic 45
+F. Deputies of the President of the Republic, Acting for the President of the Republic and Ministers 45
+G. General Secretariat of the President of the Republic 47
+H. State Supervisory Council 47
+II. Council of Ministers 47
+A. Formation 47
+B. Taking office and vote of confidence 47
+C. Vote of confidence while in office 47
+D. Functions and political responsibilities 47
+E. The formation of ministries, and ministers 47
+F. Provisional Council of Ministers during elections 48
+G. Regulations 48
+H. Renewal of Election of the Grand National Assembly of Turkey and the Presidential Election 48
+İ. National defence 48
+1. Offices of Commander-in-Chief and Chief of the General Staff 48
+2. National Security Council 49
+III. Administration of State of Emergency 49
+2. Declaration of state of emergency because of widespread acts of violence and serious deterioration of public order 50
+3. Rules regarding the states of emergency 50
+B. Martial law, mobilization and state of war 50
+IV. Administration 50
+A. Fundamentals of the administration 50
+1. Integrity of the administration and public legal personality 50
+2. By-laws 50
+B. Judicial review 51
+C. Establishment of the administration 51
+1. Central administration 51
+2. Local administrations 52
+D. Provisions relating to public servants 52
+1. General principles 52
+2. Duties and responsibilities, and guarantees in disciplinary proceedings 53
+E. Institutions of higher education and their higher bodies 53
 vii
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
+1. Institutions of higher education 53
+2. Superior bodies of higher education 54
+3. Institutions of higher education subject to special provisions 54
+F. Radio and Television Supreme Council, institutions of radio and television, and public affiliated news agencies 55
+G. The Atatürk High Institution of Culture, Language and History 55
+H. Professional organizations having the characteristics of public institutions 55
+İ. Presidency of Religious Affairs 56
+J. Unlawful order 56
+CHAPTER THREE 57
+Judicial Power 57
+I. General provisions 57
+A. Independence of the courts 57
+B. Security of tenure of judges and public prosecutors 57
+C. Judges and public prosecutors 57
+D. Publicity of hearings and the necessity of justification for verdicts 58
+E. Formation of courts 58
+F. State Security Courts 58
+G. Supervision of judicial services 58
+H. Military justice 59
+II. Higher courts 59
+A. Constitutional Court 59
+1. Formation 59
+2. Term of office of the members and termination of membership 60
+3. Functions and powers 60
+4. Procedure of functioning and trial 61
+5. Annulment action 62
+6. Time limit for annulment action 62
+7. Claim of unconstitutionality before other courts 62
+8. Decisions of the Constitutional Court 63
+B. High Court of Appeals 63
+C. Council of State 64
+D. High Military Court of Appeals 64
+E. High Military Administrative Court 64
+F. Court of Jurisdictional Disputes 65
+III. Council of Judges and Prosecutors 65
 viii
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
+IV. Court of Accounts 67
+PART FOUR 68
+Financial and Economic Provisions 68
+CHAPTER ONE 68
+Financial Provisions 68
+I. Budget 68
+A. Budget and final accounts 68
+B. Debate on the budget 69
+C. Principles governing budgetary amendments 69
+D. Final accounts 69
+E. Scrutiny of state economic enterprises 69
+CHAPTER TWO 69
+Economic Provisions 69
+I. Planning; Economic and Social Council 69
+II. Supervision of markets and regulation of foreign trade 70
+III. Exploration and exploitation of natural resources 70
+IV. Forests and the forest villagers 70
+A. Protection and development of forests 70
+B. Protection of forest villagers 71
+V. Developing cooperativism 71
+VI. Protection of consumers, tradespeople and artisans 71
+A. Protection of consumers 71
+B. Protection of tradespeople and artisans 71
+PART FIVE 71
+Miscellaneous Provisions 71
+I. Preservation of Reform Laws 71
+PART SIX 72
+Provisional Articles 72
+PART SEVEN 82
+Final Provisions 82
+I. Amending the Constitution, participation in elections and referenda 82
+II. Preamble and headings of articles 83
+III. Entry into force of the Constitution 83
 ix
 
 [[END OF PAGE 8]]
@@ -58,7 +298,7 @@ ix
 
 Affirming  the  eternal  existence  of  the  Turkish  Motherland  and  Nation  and  the indivisible unity of the Sublime Turkish State, this Constitution, in line with the concept of nationalism introduced by the founder of the Republic of Turkey, Atatürk, the immortal leader and the unrivalled hero, and his reforms and principles;
 
-Determining to attain the everlasting existence, prosperity, material and spiritual wellbeing  of  the  Republic  of  Turkey,  and  the  standards  of  contemporary  civilization  as  an honourable member with equal rights of the family of world nations;
+Determining to attain the everlasting existence, prosperity, material and spiritual well-being of the Republic of Turkey, and the standards of contemporary civilization as an honourable member with equal rights of the family of world nations;
 
 The absolute supremacy of the will of the nation, the fact that sovereignty is vested fully and unconditionally in the Turkish Nation and that no individual or body empowered to exercise this sovereignty in the name of the nation shall deviate from the liberal democracy indicated in the Constitution and the legal system instituted according to its requirements,
 
@@ -86,15 +326,15 @@ Has been entrusted by the TURKISH NATION to the democracy-loving Turkish sons' a
 
 ### I. Form of the State
 
-ARTICLE 1The State of Turkey is a Republic.
+ARTICLE 1- The State of Turkey is a Republic.
 
 ### II. Characteristics of the Republic
 
-ARTICLE 2The Republic of Turkey is a democratic, secular and social state governed by rule of law, within the notions of public peace, national solidarity and justice, respecting human rights, loyal to the nationalism of Atatürk, and based on the fundamental tenets set forth in the preamble.
+ARTICLE 2- The Republic of Turkey is a democratic, secular and social state governed by rule of law, within the notions of public peace, national solidarity and justice, respecting human rights, loyal to the nationalism of Atatürk, and based on the fundamental tenets set forth in the preamble.
 
 ### III. Integrity, official language, flag, national anthem, and capital of the State
 
-ARTICLE 3The State of Turkey, with its territory and nation, is an indivisible entity. Its language is Turkish.
+ARTICLE 3- The State of Turkey, with its territory and nation, is an indivisible entity. Its language is Turkish.
 
 Its flag, the form of which is prescribed by the relevant law, is composed of a white crescent and star on a red background.
 
@@ -104,15 +344,15 @@ Its capital is Ankara.
 
 ### IV. Irrevocable provisions
 
-ARTICLE  4The  provision  of  Article  1  regarding  the  form  of  the  State  being  a Republic, the characteristics of the Republic in Article 2, and the provisions of Article 3 shall not be amended, nor shall their amendment be proposed.
+ARTICLE 4- The provision of Article 1 regarding the form of the State being a Republic, the characteristics of the Republic in Article 2, and the provisions of Article 3 shall not be amended, nor shall their amendment be proposed.
 
 ### V. Fundamental aims and duties of the State
 
-ARTICLE  5The  fundamental  aims  and  duties  of  the  State  are  to  safeguard  the independence and integrity of the Turkish Nation, the indivisibility of the country, the Republic and democracy, to ensure the welfare, peace, and happiness of the individual and society; to strive for the removal of political, economic, and social obstacles which restrict the fundamental rights and freedoms of the individual in a manner incompatible with the principles of justice and of the social state governed by rule of law; and to provide the conditions required for the development of the individual's material and spiritual existence.
+ARTICLE 5- The fundamental aims and duties of the State are to safeguard the independence and integrity of the Turkish Nation, the indivisibility of the country, the Republic and democracy, to ensure the welfare, peace, and happiness of the individual and society; to strive for the removal of political, economic, and social obstacles which restrict the fundamental rights and freedoms of the individual in a manner incompatible with the principles of justice and of the social state governed by rule of law; and to provide the conditions required for the development of the individual's material and spiritual existence.
 
 ### VI. Sovereignty
 
-ARTICLE 6Sovereignty belongs to the Nation without any restriction or condition.
+ARTICLE 6- Sovereignty belongs to the Nation without any restriction or condition.
 
 The  Turkish  Nation  shall  exercise  its  sovereignty  through  the  authorized  organs,  as prescribed by the principles set forth in the Constitution.
 
@@ -126,19 +366,19 @@ The exercise of sovereignty shall not be delegated by any means to any individua
 
 ### VII. Legislative power
 
-ARTICLE 7Legislative power is vested in the Grand National Assembly of Turkey on behalf of Turkish Nation. This power shall not be delegated.
+ARTICLE 7- Legislative power is vested in the Grand National Assembly of Turkey on behalf of Turkish Nation. This power shall not be delegated.
 
 ### VIII. Executive power and function
 
-ARTICLE 8(As amended on April 16, 2017; Act No. 6771) Executive power and function shall be exercised and carried out by the President of the Republic in conformity with the Constitution and laws.
+ARTICLE 8- (As amended on April 16, 2017; Act No. 6771) Executive power and function shall be exercised and carried out by the President of the Republic in conformity with the Constitution and laws.
 
 ### IX. Judicial power
 
-ARTICLE 9(As amended on April 16, 2017; Act No. 6771) Judicial power shall be exercised by independent and impartial courts on behalf of the Turkish Nation.
+ARTICLE 9- (As amended on April 16, 2017; Act No. 6771) Judicial power shall be exercised by independent and impartial courts on behalf of the Turkish Nation.
 
 ### X. Equality before the law
 
-ARTICLE 10Everyone is equal before the law without distinction as to language, race, colour, sex, political opinion, philosophical belief, religion and sect, or any such grounds.
+ARTICLE 10- Everyone is equal before the law without distinction as to language, race, colour, sex, political opinion, philosophical belief, religion and sect, or any such grounds.
 
 (Paragraph added on May 7, 2004; Act No. 5170) Men and women have equal rights. The State has the obligation to ensure that this equality exists in practice. (Sentence added on September 12, 2010; Act No. 5982) Measures taken for this purpose shall not be interpreted as contrary to the principle of equality.
 
@@ -150,7 +390,7 @@ State organs and administrative authorities are obliged to act in compliance wit
 
 ### XI. Supremacy and binding force of the Constitution
 
-ARTICLE 11The provisions of the Constitution are fundamental legal rules binding upon  legislative,  executive  and  judicial  organs,  and  administrative  authorities  and  other institutions and individuals.
+ARTICLE 11- The provisions of the Constitution are fundamental legal rules binding upon legislative, executive and judicial organs, and administrative authorities and other institutions and individuals.
 
 Laws shall not be contrary to the Constitution.
 
@@ -168,19 +408,19 @@ Laws shall not be contrary to the Constitution.
 
 ### I. Nature of fundamental rights and freedoms
 
-ARTICLE 12Everyone possesses inherent fundamental rights and freedoms, which are inviolable and inalienable.
+ARTICLE 12- Everyone possesses inherent fundamental rights and freedoms, which are inviolable and inalienable.
 
 The fundamental rights and freedoms also comprise the duties and responsibilities of the individual to the society, his/her family, and other individuals.
 
 ### II. Restriction of fundamental rights and freedoms
 
-ARTICLE 13(As amended on October 3, 2001; Act No. 4709)
+ARTICLE 13- (As amended on October 3, 2001; Act No. 4709)
 
 Fundamental rights and freedoms may be restricted only by law and in conformity with the reasons mentioned in the relevant articles of the Constitution without infringing upon their essence. These restrictions shall not be contrary to the letter and spirit of the Constitution and the  requirements  of  the  democratic  order  of  the  society and  the  secular  republic  and the principle of proportionality.
 
 ### III. Prohibition of abuse of fundamental rights and freedoms
 
-ARTICLE 14(As amended on October 3, 2001; Act No.4709)
+ARTICLE 14- (As amended on October 3, 2001; Act No.4709)
 
 None of the rights and freedoms embodied in the Constitution shall be exercised in the form of activities aiming to violate the indivisible integrity of the State with its territory and nation, and to endanger the existence of the democratic and secular order of the Republic based on human rights.
 
@@ -190,7 +430,7 @@ The sanctions to be applied against those who perpetrate activities  contrary  t
 
 ### IV. Suspension of the exercise of fundamental rights and freedoms
 
-ARTICLE  15(As  amended  on  April  16,  2017;  Act  No.  6771)  In  times  of  war, mobilization, a state of emergency, the exercise of fundamental rights and freedoms may be partially  or  entirely  suspended,  or  measures  derogating  the  guarantees  embodied  in  the Constitution may be taken to the extent required by the exigencies of the situation, as long as obligations under international law are not violated.
+ARTICLE 15- (As amended on April 16, 2017; Act No. 6771) In times of war, mobilization, a state of emergency, the exercise of fundamental rights and freedoms may be partially or entirely suspended, or measures derogating the guarantees embodied in the Constitution may be taken to the extent required by the exigencies of the situation, as long as obligations under international law are not violated.
 
 (As amended on May 7, 2004; Act No. 5170) Even under the circumstances indicated in the first paragraph, the individual's right to life, the integrity of his/her corporeal and spiritual existence shall be inviolable except where death occurs through acts in conformity with law of war; no one shall be compelled to reveal his/her religion, conscience, thought or opinion, nor be accused on account of them; offences and penalties shall not be made retroactive; nor shall anyone be held guilty until so proven by a court ruling.
 
@@ -202,13 +442,13 @@ ARTICLE  15(As  amended  on  April  16,  2017;  Act  No.  6771)  In  times  of  
 
 ### V. Status of aliens
 
-ARTICLE  16The  fundamental  rights  and  freedoms  in  respect  to  aliens  may  be restricted by law compatible with international law.
+ARTICLE 16- The fundamental rights and freedoms in respect to aliens may be restricted by law compatible with international law.
 
 ## CHAPTER TWO Rights and Duties of the Individual
 
 ### I. Personal inviolability, corporeal and spiritual existence of the individual
 
-ARTICLE 17Everyone has the right to life and the right to protect and improve his/her corporeal and spiritual existence.
+ARTICLE 17- Everyone has the right to life and the right to protect and improve his/her corporeal and spiritual existence.
 
 The corporeal integrity  of  the  individual  shall  not  be  violated  except  under  medical necessity and in cases prescribed by law; and shall not be subjected to scientific or medical experiments without his/her consent.
 
@@ -218,13 +458,13 @@ No one shall  be  subjected  to  torture  or  mal-treatment;  no  one  shall  be
 
 ### II. Prohibition of forced labour
 
-ARTICLE 18No one shall be forced to work. Forced labour is prohibited.
+ARTICLE 18- No one shall be forced to work. Forced labour is prohibited.
 
 Work required of an individual while serving a sentence or under detention provided that  the  form  and  conditions  of  such  labour  are  prescribed  by  law;  services  required  from citizens during a state of emergency; and physical or intellectual work necessitated by the needs of the country as a civic obligation shall not be considered as forced labour.
 
 ### III. Personal liberty and security
 
-ARTICLE 19Everyone has the right to personal liberty and security.
+ARTICLE 19- Everyone has the right to personal liberty and security.
 
 No one shall be deprived of his/her liberty except in the following cases where procedure and conditions are prescribed by law:
 
@@ -240,7 +480,7 @@ Individuals against whom there is strong evidence of having committed an offence
 
 Individuals arrested or detained shall be promptly notified, in all cases in writing, or orally  when  the  former  is  not  possible,  of  the  grounds  for  their  arrest  or  detention  and  the charges  against  them;  in  cases  of  offences  committed  collectively  this  notification  shall  be made, at the latest, before the individual is brought before a judge.
 
-(As amended on April 16, 2017; Act No. 6771) The person arrested or detained shall be brought before a judge within at latest forty-eight hours and in case of offences committed collectively within at most four days, excluding the time required to send the individual to the court nearest to the place of arrest. No one can be deprived of his/her liberty without the decision of a judge after the expiry of the 9 above specified periods. These periods may be extended during a state of emergency or in time of war.
+(As amended on April 16, 2017; Act No. 6771) The person arrested or detained shall be brought before a judge within at latest forty-eight hours and in case of offences committed collectively within at most four days, excluding the time required to send the individual to the court nearest to the place of arrest. No one can be deprived of his/her liberty without the decision of a judge after the expiry of the above specified periods. These periods may be extended during a state of emergency or in time of war.
 
 (As  amended  on  October  3,  2001;  Act  No.  4709)  The  next  of  kin  shall  be  notified immediately when a person has been arrested or detained.
 
@@ -253,7 +493,7 @@ Persons  whose  liberties  are  restricted  for  any  reason  are  entitled  to 
 ### IV. Privacy and protection of private life
 #### A. Privacy of private life
 
-ARTICLE 20Everyone has the right to demand respect for his/her private and family life. Privacy of private or family life shall not be violated. (Sentence repealed on May 3, 2001; Act No. 4709)
+ARTICLE 20- Everyone has the right to demand respect for his/her private and family life. Privacy of private or family life shall not be violated. (Sentence repealed on May 3, 2001; Act No. 4709)
 
 (As amended on October 3, 2001; Act No. 4709) Unless there exists a decision duly given by a judge on one or several of the grounds of national security, public order, prevention of crime, protection of  public health and public morals, or protection of the rights and freedoms of others, or unless there exists a written order of an agency authorized by law, in cases where delay is prejudicial, again on the above-mentioned grounds, neither the person, nor the private papers, nor belongings of an individual shall be searched nor shall they be seized. The decision of the competent authority shall be submitted for the approval of the judge having jurisdiction within twenty-four hours. The judge shall announce his decision within forty-eight hours from the time of seizure; otherwise, seizure shall automatically be lifted.
 
@@ -267,23 +507,23 @@ ARTICLE 20Everyone has the right to demand respect for his/her private and famil
 
 #### B. Inviolability of the domicile
 
-ARTICLE 21(As amended on October 3, 2001; Act No. 4709)
+ARTICLE 21- (As amended on October 3, 2001; Act No. 4709)
 
 The domicile of an individual shall not be violated. Unless there exists a decision duly given by a judge on one or several of the grounds of national security, public order, prevention of crime, protection of public health and public morals, or protection of the rights and freedoms of others, or unless there exists a written order of an agency authorized by law in cases where delay is prejudicial, again on these grounds, no domicile may be entered or searched or the property seized  therein.  The  decision  of  the  competent  authority  shall  be  submitted  for  the approval of the judge having jurisdiction within twenty-four hours. The judge shall announce his  decision  within  forty-eight  hours  from  the  time  of  seizure;  otherwise,  seizure  shall  be automatically lifted.
 
 #### C. Freedom of communication
 
-ARTICLE 22(As amended on October 3, 2001; Act No. 4709)
+ARTICLE 22- (As amended on October 3, 2001; Act No. 4709)
 
 Everyone has the freedom of communication. Privacy of communication is fundamental.
 
-Unless there exists a decision duly given by a judge on one or several of the grounds of national  security,  public  order,  prevention  of  crime,  protection  of public  health  and  public morals, or protection of the rights and freedoms of others, or unless there exists a written order of  an  agency  authorized  by  law  in  cases  where  delay  is  prejudicial,  again  on  the  abovementioned  grounds,  communication  shall  not  be  impeded  nor  its  privacy  be  violated.  The decision of the competent authority shall be submitted for the approval of the judge having jurisdiction within twenty-four hours. The judge shall announce his decision within forty-eight hours from the time of seizure; otherwise, seizure shall be automatically lifted.
+Unless there exists a decision duly given by a judge on one or several of the grounds of national security, public order, prevention of crime, protection of public health and public morals, or protection of the rights and freedoms of others, or unless there exists a written order of an agency authorized by law in cases where delay is prejudicial, again on the above-mentioned grounds, communication shall not be impeded nor its privacy be violated. The decision of the competent authority shall be submitted for the approval of the judge having jurisdiction within twenty-four hours. The judge shall announce his decision within forty-eight hours from the time of seizure; otherwise, seizure shall be automatically lifted.
 
 Public institutions and agencies where exceptions may be applied are prescribed in law.
 
 ### V. Freedom of residence and movement
 
-ARTICLE 23Everyone has the freedom of residence and movement.
+ARTICLE 23- Everyone has the freedom of residence and movement.
 
 16
 
@@ -301,7 +541,7 @@ Citizens shall not be deported, or deprived of their right of entry into the hom
 
 ### VI. Freedom of religion and conscience
 
-ARTICLE 24Everyone has the freedom of conscience, religious belief and conviction.
+ARTICLE 24- Everyone has the freedom of conscience, religious belief and conviction.
 
 Acts of worship, religious rites and ceremonies shall be conducted freely, as long as they do not violate the provisions of Article 14.
 
@@ -313,13 +553,13 @@ No one shall be allowed to exploit or abuse religion or religious feelings, or t
 
 ### VII. Freedom of thought and opinion
 
-ARTICLE 25Everyone has the freedom of thought and opinion.
+ARTICLE 25- Everyone has the freedom of thought and opinion.
 
 No one shall be compelled to reveal his/her thoughts and opinions for any reason or purpose; nor shall anyone be blamed or accused because of his/her thoughts and opinions.
 
 ### VIII. Freedom of expression and dissemination of thought
 
-ARTICLE 26Everyone has the right to express and disseminate his/her thoughts and opinions by speech, in writing or in pictures or through other media, individually or collectively. This  freedom  includes  the  liberty  of  receiving  or  imparting  information  or  ideas  without interference by official authorities. This provision shall not preclude subjecting transmission by radio, television, cinema, or similar means to a system of licensing.
+ARTICLE 26- Everyone has the right to express and disseminate his/her thoughts and opinions by speech, in writing or in pictures or through other media, individually or collectively. This freedom includes the liberty of receiving or imparting information or ideas without interference by official authorities. This provision shall not preclude subjecting transmission by radio, television, cinema, or similar means to a system of licensing.
 
 (As amended on October 3, 2001; Act No. 4709) The exercise of these freedoms may be restricted for the purposes of national security, public order, public safety, safeguarding the basic characteristics of the Republic and the indivisible integrity of the State with its territory and nation, preventing crime, punishing offenders, withholding information duly classified as a  state  secret,  protecting  the  reputation  or  rights  and  private  and  family  life  of  others,  or protecting professional secrets as prescribed by law, or ensuring the proper functioning of the judiciary.
 
@@ -337,7 +577,7 @@ Regulatory  provisions  concerning  the  use  of  means  to  disseminate  inform
 
 ### IX. Freedom of science and the arts
 
-ARTICLE 27Everyone has the right to study and teach, express, and disseminate science and the arts, and to carry out research in these fields freely.
+ARTICLE 27- Everyone has the right to study and teach, express, and disseminate science and the arts, and to carry out research in these fields freely.
 
 The  right  to  disseminate  shall  not  be  exercised  for  the  purpose  of  changing  the provisions of articles 1, 2 and 3 of the Constitution.
 
@@ -347,7 +587,7 @@ The  provision  of  this  article  shall  not  preclude  regulation  by  law  of
 
 #### A. Freedom of the press
 
-ARTICLE 28The  press  is  free,  and  shall  not  be  censored.  The  establishment  of  a printing house shall not be subject to prior permission or the deposit of a financial guarantee.
+ARTICLE 28- The press is free, and shall not be censored. The establishment of a printing house shall not be subject to prior permission or the deposit of a financial guarantee.
 
 (Repealed on October 3, 2001; Act No. 4709)
 
@@ -367,13 +607,13 @@ No ban shall be placed on the reporting of events, except by the decision of jud
 
 Periodical and non-periodical publications may be seized by a decision of a judge in cases of ongoing investigation or prosecution of crimes specified by law; or by order of the competent authority explicitly designated by law, in situations where delay may constitute a prejudice with respect to the protection of the indivisible integrity of the State with its territory and nation, national security, public order or public morals and for the prevention of crime. The competent authority issuing the order to seize shall notify a competent judge of its decision within twenty-four hours at the latest; the order to seize shall become null and void unless upheld by a judge within forty-eight hours at the latest.
 
-General  provisions  shall  apply  when  seizing  and  confiscating  periodicals  and  nonperiodicals for reasons of criminal investigation and prosecution.
+General provisions shall apply when seizing and confiscating periodicals and non-periodicals for reasons of criminal investigation and prosecution.
 
 Periodicals published in Turkey may be temporarily suspended by court ruling if found to contain material which contravenes the indivisible integrity of the State with its territory and nation, the fundamental principles of the Republic, national security and public morals. Any publication  which  clearly  bears  the  characteristics  of  being  a  continuation  of  a  suspended periodical is prohibited; and shall be seized by decision of a judge.
 
 #### B. Right to publish periodicals and non-periodicals
 
-ARTICLE 29Publication of periodicals or non-periodicals shall not be subject to prior authorization or the deposit of a financial guarantee.
+ARTICLE 29- Publication of periodicals or non-periodicals shall not be subject to prior authorization or the deposit of a financial guarantee.
 
 Submission  of  the  information  and  documents  specified  by  law  to  the  competent authority  designated  by  law  is  sufficient  to  publish  a  periodical.  If  these  information  and documents are found to contravene the laws, the competent authority shall apply to the court for suspension of publication.
 
@@ -383,13 +623,13 @@ Periodicals shall have equal access to the means and facilities of the State, ot
 
 #### C. Protection of printing facilities
 
-ARTICLE 30(As amended on May 7, 2004; Act No. 5170)
+ARTICLE 30- (As amended on May 7, 2004; Act No. 5170)
 
 A printing house and its annexes, duly established as a press enterprise under law, and press equipment shall not be seized, confiscated, or barred from operation on the grounds of having been used in a crime.
 
 #### D. Right to use media other than the press owned by public corporations
 
-ARTICLE 31Individuals and political parties have the right to use mass media and means of communication other than the press owned by public corporations. The conditions and procedures for such use shall be regulated by law.
+ARTICLE 31- Individuals and political parties have the right to use mass media and means of communication other than the press owned by public corporations. The conditions and procedures for such use shall be regulated by law.
 
 19
 
@@ -401,7 +641,7 @@ ARTICLE 31Individuals and political parties have the right to use mass media and
 
 #### E. Right of rectification and reply
 
-ARTICLE 32The right of rectification and reply shall be accorded only in cases where personal reputation and honour is injured or in case of publications of unfounded allegation and shall be regulated by law.
+ARTICLE 32- The right of rectification and reply shall be accorded only in cases where personal reputation and honour is injured or in case of publications of unfounded allegation and shall be regulated by law.
 
 If a rectification or reply is not published, the judge decides, within seven days of appeal by the individual involved, whether or not this publication is required.
 
@@ -409,7 +649,7 @@ If a rectification or reply is not published, the judge decides, within seven da
 
 #### A. Freedom of association
 
-ARTICLE 33(As amended on October 3, 2001; Act No.4709)
+ARTICLE 33- (As amended on October 3, 2001; Act No.4709)
 
 Everyone has the right to form associations, or become a member of an association, or withdraw from membership without prior permission.
 
@@ -419,7 +659,7 @@ Freedom  of  association  may  be  restricted  only  by  law  on  the  grounds  
 
 The formalities, conditions, and procedures to be applied in the exercise of freedom of association shall be prescribed by law.
 
-Associations may be dissolved or suspended from activity by the decision of a judge in cases prescribed by law. However, where it is required for, and a delay constitutes a prejudice to, national security, public order, prevention of commission or continuation of a crime, or an arrest, an authority may be vested with power by law to suspend the association from activity. The  decision  of  this  authority  shall  be  submitted  for  the  approval  of  the  judge  having jurisdiction within twenty-four hours. The judge shall announce his/her decision within fortyeight hours; otherwise, this administrative decision shall be annulled automatically.
+Associations may be dissolved or suspended from activity by the decision of a judge in cases prescribed by law. However, where it is required for, and a delay constitutes a prejudice to, national security, public order, prevention of commission or continuation of a crime, or an arrest, an authority may be vested with power by law to suspend the association from activity. The decision of this authority shall be submitted for the approval of the judge having jurisdiction within twenty-four hours. The judge shall announce his/her decision within forty-eight hours; otherwise, this administrative decision shall be annulled automatically.
 
 Provisions of the first paragraph shall not prevent imposition of restrictions on the rights of armed forces and security forces officials and civil servants to the extent that the duties of civil servants so require.
 
@@ -427,7 +667,7 @@ The provisions of this article shall also apply to foundations.
 
 #### B. Right to hold meetings and demonstration marches
 
-ARTICLE 34(As amended on October 3, 2001; Act No.4709)
+ARTICLE 34- (As amended on October 3, 2001; Act No.4709)
 
 Everyone  has  the  right  to  hold  unarmed  and  peaceful  meetings  and  demonstration marches without prior permission.
 
@@ -443,7 +683,7 @@ The formalities, conditions, and procedures to be applied in the exercise of the
 
 ### XII. Right to property
 
-ARTICLE 35Everyone has the right to own and inherit property.
+ARTICLE 35- Everyone has the right to own and inherit property.
 
 These rights may be limited by law only in view of public interest.
 
@@ -452,19 +692,19 @@ The exercise of the right to property shall not contravene public interest.
 ### XIII. Provisions on the protection of rights
 #### A. Freedom to claim rights
 
-ARTICLE 36(As amended on October 3, 2001; Act No. 4709) Everyone has the right of litigation either as plaintiff or defendant and the right to a fair trial before the courts through legitimate means and procedures.
+ARTICLE 36- (As amended on October 3, 2001; Act No. 4709) Everyone has the right of litigation either as plaintiff or defendant and the right to a fair trial before the courts through legitimate means and procedures.
 
 No court shall refuse to hear a case within its jurisdiction.
 
 #### B. Principle of natural judge
 
-ARTICLE 37No one may be tried by any judicial authority other than the legally designated court.
+ARTICLE 37- No one may be tried by any judicial authority other than the legally designated court.
 
 Extraordinary tribunals with jurisdiction that would in effect remove a person from the jurisdiction of his legally designated court shall not be established.
 
 #### C. Principles relating to offences and penalties
 
-ARTICLE 38No one shall be punished for any act which does not constitute a criminal offence under the law in force at the time committed; no one shall be given a heavier penalty for an offence other than the penalty applicable at the time when the offence was committed.
+ARTICLE 38- No one shall be punished for any act which does not constitute a criminal offence under the law in force at the time committed; no one shall be given a heavier penalty for an offence other than the penalty applicable at the time when the offence was committed.
 
 The provisions of the above paragraph shall also apply to the statute of limitations on offences and penalties and on the results of conviction.
 
@@ -496,11 +736,11 @@ The administration shall not impose any sanction resulting in restriction of per
 
 ### XIV. Right to prove an allegation
 
-ARTICLE 39In libel and defamation suits involving allegations against persons in the public service in connection with their functions or services, the defendant has the right to prove the allegations. A plea for presenting proof shall not be granted in any other case, unless finding out whether the allegation is true or not would serve the public interest, or unless the plaintiff consents.
+ARTICLE 39- In libel and defamation suits involving allegations against persons in the public service in connection with their functions or services, the defendant has the right to prove the allegations. A plea for presenting proof shall not be granted in any other case, unless finding out whether the allegation is true or not would serve the public interest, or unless the plaintiff consents.
 
 ### XV. Protection of fundamental rights and freedoms
 
-ARTICLE 40Everyone whose constitutional rights and freedoms have been violated has the right to request prompt access to the competent authorities.
+ARTICLE 40- Everyone whose constitutional rights and freedoms have been violated has the right to request prompt access to the competent authorities.
 
 (Paragraph added on October 3, 2001; Act No. 4709) The State is obliged to indicate in its proceedings, the legal remedies and authorities the persons concerned should apply and time limits of the applications.
 
@@ -510,7 +750,7 @@ Damages incurred to any person through unlawful treatment by public officials sh
 
 ### I. Protection of the family, and children's rights 3
 
-ARTICLE 41(Paragraph  added  on  October  3,  2001;  Act  No.  4709)  Family  is  the foundation of the Turkish society and based on the equality between the spouses.
+ARTICLE 41- (Paragraph added on October 3, 2001; Act No. 4709) Family is the foundation of the Turkish society and based on the equality between the spouses.
 
 The State shall take the necessary measures and establish the necessary organization to protect  peace  and  welfare  of  the  family,  especially  mother  and  children,  and  to  ensure  the instruction of family planning and its practice.
 
@@ -528,7 +768,7 @@ The State shall take the necessary measures and establish the necessary organiza
 
 ### II. Right and duty of education
 
-ARTICLE 42No one shall be deprived of the right of education.
+ARTICLE 42- No one shall be deprived of the right of education.
 
 The scope of the right to education shall be defined and regulated by law.
 
@@ -551,7 +791,7 @@ No language other than Turkish shall be taught as a mother tongue to Turkish cit
 ### III. Public interest
 #### A. Utilization of the coasts
 
-ARTICLE 43The coasts are under the authority and disposal of the State.
+ARTICLE 43- The coasts are under the authority and disposal of the State.
 
 In the utilization of sea coasts, lake shores or river banks, and of the coastal strip along the sea and lakes, public interest shall be taken into consideration with priority.
 
@@ -565,19 +805,19 @@ The width of coasts and coastal strips according to the purpose of utilization a
 
 [[START OF PAGE 23]]
 
-ARTICLE 44The State shall take the necessary measures to maintain and develop efficient land cultivation, to prevent its loss through erosion, and to provide land to farmers with insufficient land of their own, or no land. For this purpose, the law may define the size of appropriate  land  units,  according  to  different  agricultural  regions  and  types  of  farming. Provision of land to farmers with no or insufficient land shall not lead to a fall in production, or to the depletion of forests and other land and underground resources.
+ARTICLE 44- The State shall take the necessary measures to maintain and develop efficient land cultivation, to prevent its loss through erosion, and to provide land to farmers with insufficient land of their own, or no land. For this purpose, the law may define the size of appropriate land units, according to different agricultural regions and types of farming. Provision of land to farmers with no or insufficient land shall not lead to a fall in production, or to the depletion of forests and other land and underground resources.
 
 Lands distributed for this purpose shall neither be divided nor be transferred to others, except through inheritance, and shall be cultivated only by the farmers to whom the lands have been distributed, and their heirs. In the event of loss of these conditions, the principles relating to the recovery by the State of the land thus distributed shall be prescribed by law.
 
 #### C. Protection of agriculture, animal husbandry, and persons engaged in these activities
 
-ARTICLE  45The  State  facilitates  farmers  and  livestock  breeders  in  acquiring machinery, equipment and other inputs in order to prevent improper use and destruction of agricultural  land,  meadows  and  pastures  and  to  increase  crop  and  livestock  production  in accordance with the principles of agricultural planning.
+ARTICLE 45- The State facilitates farmers and livestock breeders in acquiring machinery, equipment and other inputs in order to prevent improper use and destruction of agricultural land, meadows and pastures and to increase crop and livestock production in accordance with the principles of agricultural planning.
 
 The  State  shall  take  necessary  measures  for  the  utilization  of  crop  and  livestock products, and to enable producers to be paid the real value of their products.
 
 #### D. Expropriation
 
-ARTICLE 46(As amended on October 3, 2001; Act No.4709)
+ARTICLE 46- (As amended on October 3, 2001; Act No.4709)
 
 The State and public corporations shall be entitled, where the public interest requires, to expropriate privately owned real estate wholly or in part and impose administrative servitude on it, in accordance with the principles and procedures prescribed by law, provided that the actual compensation is paid in advance.
 
@@ -597,7 +837,7 @@ An interest equivalent to the highest interest paid on public claims shall apply
 
 [[START OF PAGE 24]]
 
-ARTICLE  47Private  enterprises  performing  services  of  public  nature  may  be nationalized in exigencies of public interest.
+ARTICLE 47- Private enterprises performing services of public nature may be nationalized in exigencies of public interest.
 
 Nationalization  shall  be  carried  out  on  the  basis  of  real  value.  The  methods  and procedures for calculating real value shall be prescribed by law.
 
@@ -607,14 +847,14 @@ Nationalization  shall  be  carried  out  on  the  basis  of  real  value.  The 
 
 ### IV. Freedom of work and contract
 
-ARTICLE 48Everyone has the freedom to work and conclude contracts in the field of his/her choice. Establishment of private enterprises is free.
+ARTICLE 48- Everyone has the freedom to work and conclude contracts in the field of his/her choice. Establishment of private enterprises is free.
 
 The State shall take measures to ensure that private enterprises operate in accordance with national economic requirements and social objectives and in security and stability.
 
 ### V. Provisions relating to labour
 #### A. Right and duty to work
 
-ARTICLE 49Everyone has the right and duty to work.
+ARTICLE 49- Everyone has the right and duty to work.
 
 (As amended on October 3, 2001; Act No. 4709) The State shall take the necessary measures to raise the standard of living of workers, and to protect workers and the unemployed in  order  to  improve  the  general  conditions  of  labour,  to  promote  labour,  to  create  suitable economic conditions for prevention of unemployment and to secure labour peace.
 
@@ -622,7 +862,7 @@ ARTICLE 49Everyone has the right and duty to work.
 
 #### B. Working conditions and right to rest and leisure
 
-ARTICLE 50No one shall be required to perform work unsuited to his/her age, sex, and capacity.
+ARTICLE 50- No one shall be required to perform work unsuited to his/her age, sex, and capacity.
 
 Minors,  women,  and  physically  and  mentally  disabled  persons,  shall  enjoy  special protection with regard to working conditions.
 
@@ -632,7 +872,7 @@ Rights and conditions relating to paid weekends and holidays, together with paid
 
 #### C. Right to organize unions
 
-ARTICLE 51(As amended on October 3, 2001; Act No. 4709)
+ARTICLE 51- (As amended on October 3, 2001; Act No. 4709)
 
 Employees  and  employers  have  the  right  to  form  unions  and  higher  organizations, without prior permission, and they also possess the right to become a member of a union and to freely withdraw from membership, in order to safeguard and develop their economic and social rights and the interests of their members in their labour relations. No one shall be forced to become a member of a union or to withdraw from membership.
 
@@ -654,13 +894,13 @@ The regulations, administration and functioning of unions and their higher bodie
 
 #### D. Activities of unions
 
-ARTICLE 52(Repealed on July 23, 1995; Act No. 4121)
+ARTICLE 52- (Repealed on July 23, 1995; Act No. 4121)
 
 ### VI. Collective labour agreement, right to strike, and lockout
 
 #### A. Rights of collective labour agreement and collective agreement 5
 
-ARTICLE 53Workers and employers have the right to conclude collective labour agreements in order to regulate reciprocally their economic and social position and conditions of work.
+ARTICLE 53- Workers and employers have the right to conclude collective labour agreements in order to regulate reciprocally their economic and social position and conditions of work.
 
 The  procedure  to  be  followed  in  concluding  collective  labour  agreements  shall  be regulated by law.
 
@@ -684,7 +924,7 @@ The  procedure  to  be  followed  in  concluding  collective  labour  agreements
 
 #### B. Right to strike, and lockout
 
-ARTICLE 54Workers have the right to strike during the collective bargaining process if a disagreement arises. The procedures and conditions governing the exercise of this right and the employer's recourse to a lockout, the scope of, and the exceptions to them shall be regulated by law.
+ARTICLE 54- Workers have the right to strike during the collective bargaining process if a disagreement arises. The procedures and conditions governing the exercise of this right and the employer's recourse to a lockout, the scope of, and the exceptions to them shall be regulated by law.
 
 The right to strike and lockout shall not be exercised in a manner contrary to the rules of goodwill, to the detriment of society, and in a manner damaging national wealth.
 
@@ -702,7 +942,7 @@ Those  who  refuse  to  go  on  strike  shall  in  no  way  be  barred  from  wo
 
 ### VII. Provision of fair wage
 
-ARTICLE 55Wages shall be paid in return for work.
+ARTICLE 55- Wages shall be paid in return for work.
 
 The state shall take the necessary measures to ensure that workers earn a fair wage commensurate with the work they perform and that they enjoy other social benefits.
 
@@ -712,7 +952,7 @@ The state shall take the necessary measures to ensure that workers earn a fair w
 
 #### A. Health services and protection of the environment
 
-ARTICLE 56Everyone has the right to live in a healthy and balanced environment.
+ARTICLE 56- Everyone has the right to live in a healthy and balanced environment.
 
 It is the duty of the State and citizens to improve the natural environment, to protect the environmental health and to prevent environmental pollution.
 
@@ -730,18 +970,18 @@ In  order  to  establish  widespread  health  services,  general  health  insura
 
 #### B. Right to housing
 
-ARTICLE 57The State shall take measures to meet the need for housing within the framework of a plan that takes into  account  the  characteristics  of  cities  and  environmental conditions, and also support community housing projects.
+ARTICLE 57- The State shall take measures to meet the need for housing within the framework of a plan that takes into  account  the  characteristics  of  cities  and  environmental conditions, and also support community housing projects.
 
 ### IX. Youth and sports
 #### A. Protection of the youth
 
-ARTICLE 58The State shall take measures to ensure the education and development of the youth into whose keeping our independence and our Republic are entrusted, in the light of positive science, in line with the principles and reforms of Atatürk, and in opposition to ideas aiming at the destruction of the indivisible integrity of the State with its territory and nation.
+ARTICLE 58- The State shall take measures to ensure the education and development of the youth into whose keeping our independence and our Republic are entrusted, in the light of positive science, in line with the principles and reforms of Atatürk, and in opposition to ideas aiming at the destruction of the indivisible integrity of the State with its territory and nation.
 
 The State shall take necessary measures to protect youth from addiction to alcohol and drugs, crime, gambling, and similar vices, and ignorance.
 
 #### B. Development of sports and arbitration 6
 
-ARTICLE 59The State shall take measures to develop the physical and mental health of Turkish citizens of all ages, and encourage the spread of sports among the masses.
+ARTICLE 59- The State shall take measures to develop the physical and mental health of Turkish citizens of all ages, and encourage the spread of sports among the masses.
 
 The state shall protect successful athletes.
 
@@ -750,13 +990,13 @@ The state shall protect successful athletes.
 ### X. Social security rights
 #### A. Right to social security
 
-ARTICLE 60Everyone has the right to social security.
+ARTICLE 60- Everyone has the right to social security.
 
 The  State  shall  take  the  necessary  measures  and  establish  the  organisation  for  the provision of social security.
 
 #### B. Persons requiring special protection in the field of social security
 
-ARTICLE 61The State shall protect the widows and orphans of martyrs of war and duty, together with invalid and war veterans, and ensure that they enjoy a decent standard of living.
+ARTICLE 61- The State shall protect the widows and orphans of martyrs of war and duty, together with invalid and war veterans, and ensure that they enjoy a decent standard of living.
 
 The State shall take measures to protect the disabled and secure their integration into community life.
 
@@ -776,21 +1016,21 @@ To achieve these aims the State shall establish the necessary organizations or f
 
 #### C. Turkish citizens working abroad
 
-ARTICLE 62The State shall take the necessary measures to ensure family unity, the education of the children, the cultural needs, and the social security of Turkish citizens working abroad, and to safeguard their ties with the home country and to help them on their return home.
+ARTICLE 62- The State shall take the necessary measures to ensure family unity, the education of the children, the cultural needs, and the social security of Turkish citizens working abroad, and to safeguard their ties with the home country and to help them on their return home.
 
 ### XI. Protection of historical, cultural and natural assets
 
-ARTICLE 63The  State  shall  ensure  the  protection  of  the  historical,  cultural  and natural assets and wealth, and shall take supportive and promotive measures towards that end.
+ARTICLE 63- The  State  shall  ensure  the  protection  of  the  historical,  cultural  and natural assets and wealth, and shall take supportive and promotive measures towards that end.
 
 Any  limitations  to  be  imposed  on  such  privately  owned  assets  and  wealth  and  the compensation  and  exemptions  to  be  accorded  to  the  owners  of  such,  because  of  these limitations, shall be regulated by law.
 
 ### XII. Protection of arts and artists
 
-ARTICLE 64The State shall protect artistic activities and artists. The State shall take the necessary measures to protect, promote and support works of art and artists, and encourage the spread of appreciation for the arts.
+ARTICLE 64- The State shall protect artistic activities and artists. The State shall take the necessary measures to protect, promote and support works of art and artists, and encourage the spread of appreciation for the arts.
 
 ### XIII. The extent of social and economic duties of the State 7
 
-ARTICLE 65(As amended on October 3, 2001; Act No. 4709)
+ARTICLE 65- (As amended on October 3, 2001; Act No. 4709)
 
 The  State  shall  fulfil  its  duties  as  laid  down  in  the  Constitution  in  the  social  and economic fields within the capacity of its  financial resources,  taking  into  consideration  the priorities appropriate with the aims of these duties.
 
@@ -798,7 +1038,7 @@ The  State  shall  fulfil  its  duties  as  laid  down  in  the  Constitution  i
 
 ### I. Turkish citizenship
 
-ARTICLE 66Everyone bound to the Turkish State through the bond of citizenship is a Turk.
+ARTICLE 66- Everyone bound to the Turkish State through the bond of citizenship is a Turk.
 
 The child of a Turkish father or a Turkish mother is a Turk. (Sentence repealed on October 3, 2001; Act No. 4709)
 
@@ -818,7 +1058,7 @@ Recourse to the courts in appeal against the decisions and proceedings related t
 
 ### II. Right to vote, to be elected and to engage in political activity
 
-ARTICLE 67In conformity with the conditions set forth in the law, citizens have the right to vote, to be elected, to engage in political activities independently or in a political party, and to take part in a referendum.
+ARTICLE 67- In conformity with the conditions set forth in the law, citizens have the right to vote, to be elected, to engage in political activities independently or in a political party, and to take part in a referendum.
 
 (As amended on July 23, 1995; Act No. 4121)  Elections and referenda shall be held under the direction and supervision of the judiciary, in accordance with the principles of free, equal, secret, direct, universal suffrage, and public counting of the votes. However, the law determines applicable measures for Turkish citizens abroad to exercise their right to vote.
 
@@ -836,7 +1076,7 @@ The exercise of these rights shall be regulated by law.
 
 #### A. Forming parties, membership and withdrawal from membership in a party
 
-ARTICLE 68(As amended on July 23, 1995; Act No. 4121)
+ARTICLE 68- (As amended on July 23, 1995; Act No. 4121)
 
 Citizens have the right to form political parties and duly join and withdraw from them. One must be over eighteen years of age to become a member of a party.
 
@@ -862,7 +1102,7 @@ The  State  shall  provide  the  political  parties  with  adequate  financial  
 
 #### B. Principles to be observed by political parties
 
-ARTICLE 69(As amended on July 23, 1995; Act No. 4121)
+ARTICLE 69- (As amended on July 23, 1995; Act No. 4121)
 
 The activities, internal regulations and operation of political parties shall be in line with democratic principles. The application of these principles is regulated by law.
 
@@ -895,21 +1135,21 @@ Political parties that accept aid from foreign states, international institution
 ### IV. Right to enter public service
 #### A. Entry into public service
 
-ARTICLE 70Every Turk has the right to enter public service.
+ARTICLE 70- Every Turk has the right to enter public service.
 
 No criteria  other  than  the  qualifications  for  the  office  concerned  shall  be  taken  into consideration for recruitment into public service.
 
 #### B. Declaration of assets
 
-ARTICLE  71Declaration  of  assets  by  persons  entering  public  service  and  the frequency of such declarations shall be determined by law. Those serving in the legislative and executive organs shall not be exempted from this requirement.
+ARTICLE  71- Declaration  of  assets  by  persons  entering  public  service  and  the frequency of such declarations shall be determined by law. Those serving in the legislative and executive organs shall not be exempted from this requirement.
 
 ### V. National service
 
-ARTICLE 72National service is the right and duty of every Turk. The manner in which this service shall be performed, or considered as performed, either in the armed forces or in public service, shall be regulated by law.
+ARTICLE 72- National service is the right and duty of every Turk. The manner in which this service shall be performed, or considered as performed, either in the armed forces or in public service, shall be regulated by law.
 
 ### VI. Duty to pay taxes
 
-ARTICLE 73Everyone is under obligation to pay taxes according to his financial resources, in order to meet public expenditure.
+ARTICLE 73- Everyone is under obligation to pay taxes according to his financial resources, in order to meet public expenditure.
 
 32
 
@@ -925,7 +1165,7 @@ Taxes, fees, duties, and other such financial obligations shall be imposed, amen
 
 ### VII. Right of petition, right to information and appeal to the Ombudsperson 8
 
-ARTICLE 74(As amended on October 3, 2001; Act No. 4709) Citizens and foreigners resident in Turkey, with the condition of observing the principle of reciprocity, have the right to apply in writing to the competent authorities and to the Grand National Assembly of Turkey with regard to the requests and complaints concerning themselves or the public.
+ARTICLE 74- (As amended on October 3, 2001; Act No. 4709) Citizens and foreigners resident in Turkey, with the condition of observing the principle of reciprocity, have the right to apply in writing to the competent authorities and to the Grand National Assembly of Turkey with regard to the requests and complaints concerning themselves or the public.
 
 (As  amended  on  October  3,  2001;  Act  No.  4709)  The  result  of  the  application concerning himself/herself shall be made known to the petitioner in writing without delay.
 
@@ -954,13 +1194,13 @@ ARTICLE 74(As amended on October 3, 2001; Act No. 4709) Citizens and foreigners 
 
 #### A. Composition
 
-ARTICLE 75(As amended on May 17, 1987; Act No. 3361, on July 23, 1995; Act No. 4121, April 16, 2017; Act No.6771)
+ARTICLE 75- (As amended on May 17, 1987; Act No. 3361, on July 23, 1995; Act No. 4121, April 16, 2017; Act No.6771)
 
 The Grand National Assembly of Turkey shall be composed of six hundred deputies elected by universal suffrage.
 
 #### B. Eligibility to be a deputy
 
-ARTICLE 76(As amended on October 13, 2006; Act No.5551, April 16, 2017; Act No.6771) Every Turk over the age of eighteen is eligible to be a deputy.
+ARTICLE 76- (As amended on October 13, 2006; Act No.5551, April 16, 2017; Act No.6771) Every Turk over the age of eighteen is eligible to be a deputy.
 
 (As  amended  on  December  27,  2002;  Act  No.  4777,  April  16,  2017;  Act  No.6771) Persons who have not completed primary education, who have been deprived of legal capacity, who are neither exempt nor deferred from military service, who are banned from public service, who have been sentenced to a prison term totalling one year or more excluding involuntary offences,  or  to  a  heavy  imprisonment;  those  who  have  been  convicted  for  dishonourable offences  such  as  embezzlement,  corruption,  bribery,  theft,  fraud,  forgery,  breach  of  trust, fraudulent bankruptcy; and persons convicted of smuggling, conspiracy in official bidding or purchasing,  of  offences  related  to  the  disclosure  of  state  secrets,  of  involvement  in acts  of terrorism, or incitement and encouragement of such activities, shall not be elected as a deputy, even if they have been granted amnesty.
 
@@ -968,7 +1208,7 @@ Judges and prosecutors, members of the higher judicial organs, lecturers at inst
 
 #### C. Election term of the Grand National Assembly of Turkey and the President of the Republic 9
 
-ARTICLE 77(As amended on October 21, 2007; Act No.5678 April 16, 2017; Act No.6771)
+ARTICLE 77- (As amended on October 21, 2007; Act No.5678 April 16, 2017; Act No.6771)
 
 Elections for the Grand National Assembly of Turkey and presidential elections shall be held every five years and on the same day.
 
@@ -986,7 +1226,7 @@ If the required majority cannot be obtained in the first ballot of a presidentia
 
 #### D. Deferment of elections and by-elections 10
 
-ARTICLE 78If holding new elections is deemed impossible because of war, the Grand National Assembly of Turkey may decide to defer elections for a year.
+ARTICLE 78- If holding new elections is deemed impossible because of war, the Grand National Assembly of Turkey may decide to defer elections for a year.
 
 If the grounds do not disappear, the deferment may be repeated in compliance with the procedure for deferment.
 
@@ -994,11 +1234,11 @@ By-elections  shall  be  held  when  vacancies  arise  in  the  membership  of  
 
 By-elections shall not be held within one year before general elections.
 
-(Paragraph added on December 27, 2002; Act No. 4777) Apart from the above specified situations, if all the seats of a province or electoral district fall vacant in the Assembly, a byelection shall be held on the first Sunday after ninety days following the vacancy. The third paragraph of Article 127 of the Constitution shall not apply for elections held per this paragraph.
+(Paragraph added on December 27, 2002; Act No. 4777) Apart from the above specified situations, if all the seats of a province or electoral district fall vacant in the Assembly, a by-election shall be held on the first Sunday after ninety days following the vacancy. The third paragraph of Article 127 of the Constitution shall not apply for elections held per this paragraph.
 
 #### E. General administration and supervision of elections
 
-ARTICLE 79Elections shall be held under the general administration and supervision of the judicial organs.
+ARTICLE 79- Elections shall be held under the general administration and supervision of the judicial organs.
 
 (As amended on October 21, 2007; Act No. 5678) The Supreme Board of Election shall execute all the functions to ensure the fair and orderly conduct of elections from the beginning to the end, carry out investigations and take final decisions, during and after the elections, on all irregularities, complaints and objections concerning the electoral matters, and receive the electoral records of the members of the Grand National Assembly of Turkey and presidential election. No appeal shall be made to any authority against the decisions of the Supreme Board of Election.
 
@@ -1022,17 +1262,17 @@ Amongst the members elected to the Supreme Board of Election by the High Court o
 
 ##### 1. Representing the nation
 
-ARTICLE 80Members of the Grand National Assembly of Turkey shall not represent their own constituencies or constituents, but the nation as a whole.
+ARTICLE 80- Members of the Grand National Assembly of Turkey shall not represent their own constituencies or constituents, but the nation as a whole.
 
 ##### 2. Oath-taking
 
-ARTICLE 81Members  of  the  Grand  National  Assembly  of  Turkey,  on  assuming office, shall take the following oath:
+ARTICLE 81- Members  of  the  Grand  National  Assembly  of  Turkey,  on  assuming office, shall take the following oath:
 
 'I swear upon my honour and integrity, before the great Turkish Nation, to safeguard the existence and independence of the state, the indivisible integrity of the country and the nation, and the absolute sovereignty of the nation; to remain loyal to the supremacy of law, to the democratic and secular republic, and to Atatürk's principles and reforms; not to deviate from the ideal according to which everyone is entitled to enjoy human rights and fundamental freedoms under the notion of peace and prosperity in society, national solidarity and justice, and loyalty to the Constitution.'
 
 ##### 3. Activities incompatible with membership
 
-ARTICLE 82Members of the Grand National Assembly of Turkey shall not hold office  in  state  departments  and  other  public  corporate  bodies  and  their  subsidiaries;  in corporations and enterprises where there is direct or indirect participation of the State or public corporate bodies; in the enterprises and corporations where the State and other public corporate bodies take part directly or indirectly; in the executive and supervisory boards of public benefit associations whose private resources of revenues and privileges are provided by law; of the foundations receiving subsidies from the state and enjoying tax exemption; of the professional organizations  having  the  characteristics  of  public  institutions  and  trade  unions;  and  in  the executive and supervisory boards of aforementioned enterprises and corporations which they have a share and in their higher bodies. Nor shall they be representatives, accept any contracted engagement  of  the  boards  stated  above  directly  or  indirectly,  serve  as  a  representative,  or perform as an arbitrator therein.
+ARTICLE 82- Members of the Grand National Assembly of Turkey shall not hold office  in  state  departments  and  other  public  corporate  bodies  and  their  subsidiaries;  in corporations and enterprises where there is direct or indirect participation of the State or public corporate bodies; in the enterprises and corporations where the State and other public corporate bodies take part directly or indirectly; in the executive and supervisory boards of public benefit associations whose private resources of revenues and privileges are provided by law; of the foundations receiving subsidies from the state and enjoying tax exemption; of the professional organizations  having  the  characteristics  of  public  institutions  and  trade  unions;  and  in  the executive and supervisory boards of aforementioned enterprises and corporations which they have a share and in their higher bodies. Nor shall they be representatives, accept any contracted engagement  of  the  boards  stated  above  directly  or  indirectly,  serve  as  a  representative,  or perform as an arbitrator therein.
 
 Members of the Grand National Assembly of Turkey shall not be entrusted with any official or private duties involving proposal, recommendation, appointment, or approval by the executive organ. (Sentence repealed on April 16, 2017; Act No. 6771)
 
@@ -1046,7 +1286,7 @@ Other  duties  and  activities  incompatible  with  membership  in  the  Grand  
 
 [[START OF PAGE 36]]
 
-ARTICLE 83Members of the Grand National Assembly of Turkey shall not be liable for their votes and statements during parliamentary proceedings, for the views they express before the Assembly, or, unless the Assembly decides otherwise, on the proposal of the Bureau for that sitting, for repeating or revealing these outside the Assembly.
+ARTICLE 83- Members of the Grand National Assembly of Turkey shall not be liable for their votes and statements during parliamentary proceedings, for the views they express before the Assembly, or, unless the Assembly decides otherwise, on the proposal of the Bureau for that sitting, for repeating or revealing these outside the Assembly.
 
 A deputy who is alleged to have committed an offence before or after election shall not be  detained,  interrogated,  arrested  or  tried  unless  the  Assembly  decides  otherwise.  This provision shall not apply in cases where a member is caught in flagrante delicto requiring heavy penalty and in cases subject to Article 14 of the Constitution as long as an investigation has been initiated before the election. However, in such situations the competent authority has to notify the Grand National Assembly of Turkey of the case immediately and directly.
 
@@ -1058,7 +1298,7 @@ Political party groups in the Grand National Assembly of Turkey shall not hold d
 
 ##### 5. Loss of membership
 
-ARTICLE 84(As amended on July 23, 1995; Act No. 4121)
+ARTICLE 84- (As amended on July 23, 1995; Act No. 4121)
 
 The loss of membership of a deputy who has resigned shall be decided upon by the Plenary of the Grand National Assembly of Turkey after the Bureau of the Grand National Assembly of Turkey attests to the validity of the resignation.
 
@@ -1072,7 +1312,7 @@ Loss of membership of a deputy who fails to attend Parliamentary proceedings wit
 
 ##### 6. Application for annulment
 
-ARTICLE 85(As amended on July 23, 1995; Act No. 4121)
+ARTICLE 85- (As amended on July 23, 1995; Act No. 4121)
 
 If the parliamentary immunity of a deputy has been lifted or if the loss of membership has been decided according to the first, third or fourth paragraphs of Article 84, the deputy in question or another deputy may, within seven days from the date of the decision of the Plenary, appeal to the Constitutional Court, for the decision to be annulled on the grounds that it is contrary to the Constitution, law or the Rules of Procedure. The Constitutional Court shall make the final decision on the appeal within fifteen days.
 
@@ -1084,7 +1324,7 @@ If the parliamentary immunity of a deputy has been lifted or if the loss of memb
 
 ##### 7. Salaries and travel allowances
 
-ARTICLE 86(As amended on November 21, 2001; Act No. 4720) Salaries, travel allowances  and  retirement  procedures  of  the  members  of  the  Grand  National  Assembly  of Turkey shall be regulated by law. The monthly amount of the salary shall not exceed the salary of the most senior civil servant; the travel allowance shall not surpass half of that salary. The members of the Grand National Assembly of Turkey and retired members are affiliated with the Pension Fund of the Turkish Republic, and the affiliation of those whose membership have expired continue upon their request.
+ARTICLE 86- (As amended on November 21, 2001; Act No. 4720) Salaries, travel allowances  and  retirement  procedures  of  the  members  of  the  Grand  National  Assembly  of Turkey shall be regulated by law. The monthly amount of the salary shall not exceed the salary of the most senior civil servant; the travel allowance shall not surpass half of that salary. The members of the Grand National Assembly of Turkey and retired members are affiliated with the Pension Fund of the Turkish Republic, and the affiliation of those whose membership have expired continue upon their request.
 
 (As amended on November 21, 2001; Act No. 4720) The salaries and allowances to be paid  to  the  members  of  the  Grand  National  Assembly  of  Turkey  shall  not  necessitate  the termination  of  pensions  and  similar  payments  entitled  by  the  Pension  Fund  of  the  Turkish Republic.
 
@@ -1093,17 +1333,17 @@ A maximum of three months' salaries and travel allowances may be paid in advance
 ### II. Duties and powers of the Grand National Assembly of Turkey
 #### A. General
 
-ARTICLE 87(As amended on October 3, 2001; Act No. 4709, and on May 7, 2004; Act No. 5170, and on April 16, 2017; Act No. 6771) The duties and powers of the Grand National Assembly of Turkey are to enact, amend, and repeal laws; to debate and adopt the budget bills and final accounts bills; to decide to issue currency and declare war; to approve the ratification of international treaties, to decide with the majority of three-fifths of the Grand National Assembly of Turkey to proclaim amnesty and pardon; and to exercise the powers and carry out the duties envisaged in the other articles of the Constitution.
+ARTICLE 87- (As amended on October 3, 2001; Act No. 4709, and on May 7, 2004; Act No. 5170, and on April 16, 2017; Act No. 6771) The duties and powers of the Grand National Assembly of Turkey are to enact, amend, and repeal laws; to debate and adopt the budget bills and final accounts bills; to decide to issue currency and declare war; to approve the ratification of international treaties, to decide with the majority of three-fifths of the Grand National Assembly of Turkey to proclaim amnesty and pardon; and to exercise the powers and carry out the duties envisaged in the other articles of the Constitution.
 
 #### B. Introduction and deliberation of bills
 
-ARTICLE 88(As amended on April 16, 2017; Act No. 6771) Deputies are empowered to introduce bills.
+ARTICLE 88- (As amended on April 16, 2017; Act No. 6771) Deputies are empowered to introduce bills.
 
 (As amended on April 16, 2017; Act No. 6771) The procedure and principles regarding the deliberation of bills in the Grand National Assembly of Turkey shall be regulated by the Rules of Procedure.
 
 #### C. Promulgation of laws by the President of the Republic
 
-ARTICLE 89The President of the Republic shall promulgate the laws adopted by the Grand National Assembly of Turkey within fifteen days.
+ARTICLE 89- The President of the Republic shall promulgate the laws adopted by the Grand National Assembly of Turkey within fifteen days.
 
 (As amended on October 3, 2001; Act No. 4709) The President of the Republic shall send the laws that he deems, in whole or in part, unsuitable for promulgation, along with the justification, back to the Grand National Assembly of Turkey for reconsideration in the same period. In case of being partially deemed unsuitable by the President of the Republic, the Grand National Assembly of Turkey may discuss only those articles. Budget laws shall not be subject to this provision.
 
@@ -1119,7 +1359,7 @@ Provisions relating to constitutional amendments are reserved.
 
 #### D. Ratification of international treaties
 
-ARTICLE  90The  ratification of treaties concluded  with foreign states and international organisations on behalf of the Republic of Turkey shall be subject to adoption by the Grand National Assembly of Turkey by a law approving the ratification.
+ARTICLE  90- The  ratification of treaties concluded  with foreign states and international organisations on behalf of the Republic of Turkey shall be subject to adoption by the Grand National Assembly of Turkey by a law approving the ratification.
 
 Agreements regulating  economic,  commercial  or  technical  relations,  and  covering  a period of no more than one year, may be put into effect through promulgation, provided they do not entail any financial commitment by the State, and provided they do not interfere with the  status  of  individuals  or  with  the  property  rights  of  Turks  abroad.  In  such  cases,  these agreements shall be brought to the knowledge of the Grand National Assembly of Turkey within two months of their promulgation.
 
@@ -1131,11 +1371,11 @@ International agreements duly put into effect have the force of law. No appeal t
 
 #### E. Authorization to issue decrees having the force of law
 
-ARTICLE 91(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 91- (Repealed on April 16, 2017; Act No.6771)
 
 #### F. Declaration of state of war and authorization to deploy the armed forces
 
-ARTICLE 92The power to authorize the declaration of a state of war in cases deemed legitimate by international law and except where required by international treaties to which Turkey is a party or by the rules of international courtesy to send the Turkish Armed Forces to foreign countries and to allow foreign armed forces to be stationed in Turkey, is vested in the Grand National Assembly of Turkey.
+ARTICLE 92- The power to authorize the declaration of a state of war in cases deemed legitimate by international law and except where required by international treaties to which Turkey is a party or by the rules of international courtesy to send the Turkish Armed Forces to foreign countries and to allow foreign armed forces to be stationed in Turkey, is vested in the Grand National Assembly of Turkey.
 
 39
 
@@ -1149,7 +1389,7 @@ If  the  country  is  subjected  to  sudden  armed  aggression,  while  the  Gra
 
 #### A. Convening and recess
 
-ARTICLE 93(As  amended on July 23, 1995; Act No. 4121) The Grand National Assembly of Turkey shall convene of its own accord on the first day of October each year.
+ARTICLE 93- (As  amended on July 23, 1995; Act No. 4121) The Grand National Assembly of Turkey shall convene of its own accord on the first day of October each year.
 
 (As amended on April 16, 2017; Act No. 6771) The Assembly may be in recess for a maximum  of  three  months  in  a  legislative  year;  during  adjournment  or  recess  it  may  be summoned by the President of the Republic.
 
@@ -1159,7 +1399,7 @@ The Grand National Assembly of Turkey convened during an adjournment or recess s
 
 #### B. Bureau of the Assembly
 
-ARTICLE 94The Bureau of the Assembly of the Grand National Assembly of Turkey shall be composed of the Speaker, vicespeakers, secretaries, and quaestors elected from among members of the Assembly.
+ARTICLE 94- The Bureau of the Assembly of the Grand National Assembly of Turkey shall be composed of the Speaker, vicespeakers, secretaries, and quaestors elected from among members of the Assembly.
 
 The  Bureau  of  the  Assembly  shall  be  so  composed  as  to  ensure  proportionate representation to the number of members of each political party group in the Assembly. Political party groups shall not nominate candidates for the Office of the Speaker.
 
@@ -1179,7 +1419,7 @@ The  Speaker  and  vice-speakers  of  the  Grand  National  Assembly  of  Turkey
 
 #### C. Rules of Procedure, political party groups and security Affairs
 
-ARTICLE 95The Grand National Assembly of Turkey shall carry out its activities in accordance with the provisions of the Rules of Procedure drawn up by itself.
+ARTICLE 95- The Grand National Assembly of Turkey shall carry out its activities in accordance with the provisions of the Rules of Procedure drawn up by itself.
 
 The provisions of the Rules of Procedure shall be drawn up in such a way as to ensure the participation of each political party group in all the activities of the Assembly in proportion to its number of members. Political party groups shall be constituted only if they have at least twenty members.
 
@@ -1187,13 +1427,13 @@ All  security  and  administrative  services  of  the  Grand  National  Assembly
 
 #### D. Quorums and majority for decisions
 
-ARTICLE 96(As amended on October 21, 2007; Act No.5678) The Grand National Assembly of Turkey shall convene with at least one-third of the total number of members for all its affairs, including elections it holds.  Unless otherwise stipulated in the Constitution, the Grand  National  Assembly  of  Turkey  shall  take  decisions  by  an  absolute  majority  of  those present; however, the majority for decision can, under no circumstances, be less than one plus a quarter of the total number of members.
+ARTICLE 96- (As amended on October 21, 2007; Act No.5678) The Grand National Assembly of Turkey shall convene with at least one-third of the total number of members for all its affairs, including elections it holds.  Unless otherwise stipulated in the Constitution, the Grand  National  Assembly  of  Turkey  shall  take  decisions  by  an  absolute  majority  of  those present; however, the majority for decision can, under no circumstances, be less than one plus a quarter of the total number of members.
 
 (Repealed on April 16, 2017; Act No.6771)
 
 #### E. Publicity and publication of debates
 
-ARTICLE 97Debates held in the Plenary of the Grand National Assembly of Turkey shall be public and shall be published verbatim in the Journal of Minutes.
+ARTICLE 97- Debates held in the Plenary of the Grand National Assembly of Turkey shall be public and shall be published verbatim in the Journal of Minutes.
 
 The Grand National Assembly of Turkey may hold closed sittings in accordance with the provisions of the Rules of Procedure; the publication of debates of such sittings shall be subject to the decision of the Grand National Assembly of Turkey.
 
@@ -1209,7 +1449,7 @@ Public debates in the Assembly may be freely published through all means, unless
 
 [[START OF PAGE 41]]
 
-ARTICLE 98(As amended on April 16, 2017; Act No. 6771)
+ARTICLE 98- (As amended on April 16, 2017; Act No. 6771)
 
 The  Grand  National  Assembly  of  Turkey  shall  exercise  its  powers  of  obtaining information and supervision by means of parliamentary inquiry, general debate, parliamentary investigation and written question.
 
@@ -1225,11 +1465,11 @@ The form of presentation, content, and scope of the motions concerning parliamen
 
 #### B. Censure
 
-ARTICLE 99(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 99- (Repealed on April 16, 2017; Act No. 6771)
 
 #### C. Parliamentary investigation
 
-ARTICLE 100(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 100- (Repealed on April 16, 2017; Act No.6771)
 
 ## CHAPTER TWO The Executive Power
 
@@ -1237,7 +1477,7 @@ ARTICLE 100(Repealed on April 16, 2017; Act No.6771)
 
 #### A. Candidacy and election 12
 
-ARTICLE 101(As amended on April 16, 2017; Act No.6771)
+ARTICLE 101- (As amended on April 16, 2017; Act No.6771)
 
 The President of the Republic shall be elected directly by the public from among Turkish citizens over forty years of age who are eligible to be a deputy and have completed higher education.
 
@@ -1265,17 +1505,17 @@ The  other  procedures  and  principles  concerning  the  presidential  election
 
 #### B. Election
 
-ARTICLE 102(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 102- (Repealed on April 16, 2017; Act No.6771)
 
 #### C. Oath-taking
 
-ARTICLE  103On  assuming  office,  the  President  of  the  Republic  shall  take  the following oath before the Grand National Assembly of Turkey:
+ARTICLE  103- On  assuming  office,  the  President  of  the  Republic  shall  take  the following oath before the Grand National Assembly of Turkey:
 
 'In my capacity as President of the Republic, I swear upon my honour and integrity before the Great Turkish Nation and before history to safeguard the existence and independence of the state, the indivisible integrity of the country and the nation, and the absolute sovereignty of  the  nation,  to  abide  by  the  Constitution,  the  rule  of  law,  democracy,  the  principles  and reforms of Atatürk, and the principles of the secular republic, not to deviate from the ideal according to which everyone is entitled to enjoy human rights and fundamental freedoms under conditions of national peace and prosperity and in a spirit of national solidarity and justice, and do my utmost to preserve and exalt the glory and honour of the Republic of Turkey and perform without bias the functions that I have assumed.'
 
 #### D. Duties and powers
 
-ARTICLE 104(As amended on April 16, 2017; Act No. 6771) The President of the Republic is the head of the State. The executive power shall be vested in the President of the Republic.
+ARTICLE 104- (As amended on April 16, 2017; Act No. 6771) The President of the Republic is the head of the State. The executive power shall be vested in the President of the Republic.
 
 The President of the Republic, in his/her capacity as the Head of State, shall represent the  Republic  of  Turkey  and  the  unity  of  the  Turkish  Nation;  he/she  shall  ensure  the implementation of the Constitution, and orderly and harmonious functioning of the organs of the State.
 
@@ -1329,7 +1569,7 @@ The President of the Republic shall also exercise powers of election and appoint
 
 #### E. Criminal Liability of the President of the Republic 13
 
-ARTICLE 105(As amended on April 16, 2017; Act No. 6771)
+ARTICLE 105- (As amended on April 16, 2017; Act No. 6771)
 
 Absolute  majority  of  the  Grand  National  Assembly  of  Turkey  may  table  a  motion requesting that the President of the Republic be investigated on allegations of a crime. The Grand National Assembly of Turkey shall debate the motion in one month at the latest and may decide to launch an investigation with three-fifths of the total number of its members by secret ballot.
 
@@ -1345,7 +1585,7 @@ The provisions of this article shall also apply after the termination of the ter
 
 #### F. Deputies of the President of the Republic, Acting for the President of the Republic and Ministers 14
 
-ARTICLE 106(As amended on April 16, 2017; Act No. 6771)
+ARTICLE 106- (As amended on April 16, 2017; Act No. 6771)
 
 The President of the Republic may appoint one or more deputies after being elected.
 
@@ -1387,11 +1627,11 @@ The establishment, abolition, the duties and powers, the organizational structur
 
 #### G. General Secretariat of the President of the Republic
 
-ARTICLE 107(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 107- (Repealed on April 16, 2017; Act No. 6771)
 
 #### H. State Supervisory Council
 
-ARTICLE 108(As amended on April 16, 2017; Act No.6771)
+ARTICLE 108- (As amended on April 16, 2017; Act No.6771)
 
 The State Supervisory Council which shall be attached to the Office of the Presidency of the Republic, with the purpose of ensuring the lawfulness, regular and efficient functioning and  improvement  of  administration,  conduct  all  administrative  investigations,  inquiries, investigations and inspections of all public bodies and organizations, all enterprises in which those public bodies and organizations share more than half of the capital, public professional organizations,  employers'  associations  and  labour  unions  at  all  levels,  and  public  welfare associations and foundations, upon the request of the President of the Republic.
 
@@ -1405,19 +1645,19 @@ The State Supervisory Council which shall be attached to the Office of the Presi
 
 #### A. Formation
 
-ARTICLE 109(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 109- (Repealed on April 16, 2017; Act No. 6771)
 
 #### B. Taking office and vote of confidence
 
-ARTICLE 110(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 110- (Repealed on April 16, 2017; Act No.6771)
 
 #### C. Vote of confidence while in office
 
-ARTICLE 111(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 111- (Repealed on April 16, 2017; Act No. 6771)
 
 #### D. Functions and political responsibilities
 
-ARTICLE 112(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 112- (Repealed on April 16, 2017; Act No.6771)
 
 #### E. The formation of ministries, and ministers
 
@@ -1427,21 +1667,21 @@ ARTICLE 112(Repealed on April 16, 2017; Act No.6771)
 
 [[START OF PAGE 47]]
 
-ARTICLE 113(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 113- (Repealed on April 16, 2017; Act No. 6771)
 
 #### F. Provisional Council of Ministers during elections
 
-ARTICLE 114(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 114- (Repealed on April 16, 2017; Act No.6771)
 
 #### G. Regulations
 
-ARTICLE 115(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 115- (Repealed on April 16, 2017; Act No. 6771)
 
 #### H. Renewal of Election of the Grand National Assembly of Turkey and the Presidential Election 15
 
-ARTICLE 116(As amended on April 16, 2017; Act No. 6771)
+ARTICLE 116- (As amended on April 16, 2017; Act No. 6771)
 
-The Grand National Assembly of Turkey may decide to renew the elections by threefifth majority of the total number of its members. In this case, the general election of the Grand National Assembly of Turkey and the presidential election shall be held together.
+The Grand National Assembly of Turkey may decide to renew the elections by three-fifth majority of the total number of its members. In this case, the general election of the Grand National Assembly of Turkey and the presidential election shall be held together.
 
 If the President of the Republic decides to renew the elections, the general election of the Turkish Grand National Assembly and the presidential election shall be held together.
 
@@ -1455,7 +1695,7 @@ The term of office of the Assembly and the President of the Republic thus electe
 
 ##### 1. Offices of Commander-in-Chief and Chief of the General Staff
 
-ARTICLE 117The Office of Commander-in-Chief is inseparable from the spiritual existence of the Grand National Assembly of Turkey and is represented by the President of the Republic.
+ARTICLE 117- The Office of Commander-in-Chief is inseparable from the spiritual existence of the Grand National Assembly of Turkey and is represented by the President of the Republic.
 
 (As amended on April 16, 2017; Act No. 6771) The President of the Republic shall be responsible  to  the  Grand  National  Assembly  of  Turkey  for  national  security  and  for  the preparation of the armed forces for the defence of the country.
 
@@ -1475,7 +1715,7 @@ ARTICLE 117The Office of Commander-in-Chief is inseparable from the spiritual ex
 
 ##### 2. National Security Council
 
-ARTICLE 118(As amended on October 3, 2001; Act No.4709, April 16, 2017; Act No.6771) The National Security Council shall be composed of the deputies of the President of the Republic, ministers of Justice, National Defence, Internal Affairs, and Foreign Affairs, the Chief  of  the  General  Staff,  the  commanders  of  the  Land,  Naval  and Air  Forces  under  the chairpersonship of the President of the Republic.
+ARTICLE 118- (As amended on October 3, 2001; Act No.4709, April 16, 2017; Act No.6771) The National Security Council shall be composed of the deputies of the President of the Republic, ministers of Justice, National Defence, Internal Affairs, and Foreign Affairs, the Chief  of  the  General  Staff,  the  commanders  of  the  Land,  Naval  and Air  Forces  under  the chairpersonship of the President of the Republic.
 
 Depending on the particulars of the agenda, the ministers and other persons concerned may be invited to and heard at the meetings of the Council.
 
@@ -1505,7 +1745,7 @@ The decision to declare state of emergency shall be published in the Official Ga
 
 If  the  Grand  National  Assembly  of  Turkey  is  in  recess,  it  shall  be  immediately summoned; The Assembly may reduce or extend the period of, or lift, the state of emergency.
 
-The Grand National Assembly of Turkey may extend the period for a maximum of four months each time at the request of the President of the Republic.  In the event of war, fourmonth limit shall not apply.
+The Grand National Assembly of Turkey may extend the period for a maximum of four months each time at the request of the President of the Republic.  In the event of war, four-month limit shall not apply.
 
 The financial, material and labour obligations to be imposed on citizens, the manner of restriction  and  temporary  suspension  of  fundamental  rights  and  freedoms  in  line  with  the principles of the Article 15, and the provisions to be applied and actions to be carried out in the event of state of emergency shall be regulated by law.
 
@@ -1515,23 +1755,23 @@ Except in the case of inability of the Grand National Assembly of Turkey to conv
 
 ##### 2. Declaration of state of emergency because of widespread acts of violence and serious deterioration of public order
 
-ARTICLE 120(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 120- (Repealed on April 16, 2017; Act No.6771)
 
-##### Rules regarding the states of emergency
+##### 3. Rules regarding the states of emergency
 
-ARTICLE 121(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 121- (Repealed on April 16, 2017; Act No.6771)
 
-#### Martial law, mobilization and state of war
+#### B. Martial law, mobilization and state of war
 
-ARTICLE 122(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 122- (Repealed on April 16, 2017; Act No.6771)
 
-### Administration
+### IV. Administration
 
-#### Fundamentals of the administration
+#### A. Fundamentals of the administration
 
-##### Integrity of the administration and public legal personality
+##### 1. Integrity of the administration and public legal personality
 
-ARTICLE 123The administration is a whole with its formation and functions, and shall be regulated by law.
+ARTICLE 123- The administration is a whole with its formation and functions, and shall be regulated by law.
 
 The  organization  and  functions  of  the  administration  are  based  on  the  principles  of centralization and decentralization.
 
@@ -1539,7 +1779,7 @@ The  organization  and  functions  of  the  administration  are  based  on  the 
 
 ##### 2. By-laws
 
-ARTICLE 124(As amended on April 16, 2017; Act No. 6771) The President of the Republic, the ministries, and public corporate bodies may issue by-laws in order to ensure the implementation of laws and presidential decrees relating to their jurisdiction, as long as they are not contrary to these laws and decrees.
+ARTICLE 124- (As amended on April 16, 2017; Act No. 6771) The President of the Republic, the ministries, and public corporate bodies may issue by-laws in order to ensure the implementation of laws and presidential decrees relating to their jurisdiction, as long as they are not contrary to these laws and decrees.
 
 50
 
@@ -1551,7 +1791,7 @@ The law shall designate which by-laws are to be published in the Official Gazett
 
 #### B. Judicial review
 
-ARTICLE 125(As amended on April 16, 2017; Act No. 6771) Recourse to judicial review shall be available against all actions and acts of administration. (Sentences added on August 13, 1999; Act No. 4446) In concession, conditions and contracts concerning public services and national or international arbitration may be suggested to settle the disputes arising from  them.  Only  those  disputes  involving  an  element  of  foreignness  may  be  submitted  to international arbitration.
+ARTICLE 125- (As amended on April 16, 2017; Act No. 6771) Recourse to judicial review shall be available against all actions and acts of administration. (Sentences added on August 13, 1999; Act No. 4446) In concession, conditions and contracts concerning public services and national or international arbitration may be suggested to settle the disputes arising from  them.  Only  those  disputes  involving  an  element  of  foreignness  may  be  submitted  to international arbitration.
 
 (Sentence added on September 12, 2010; Act No. 5982) (As amended on April 16, 2017; Act No. 6771)  Recourse to judicial review shall be available against all decisions taken by the Supreme Military Council regarding expulsion from the armed forces except acts regarding promotion and retiring due to lack of tenure.
 
@@ -1569,7 +1809,7 @@ The administration shall be liable to compensate for damages resulting from its 
 
 ##### 1. Central administration
 
-ARTICLE 126In  terms  of  central  administrative  structure,  Turkey  is  divided  into provinces  on  the  basis  of  geographical  situation,  economic  conditions,  and  public  service requirements; provinces are further divided into lower levels of administrative districts.
+ARTICLE 126- In  terms  of  central  administrative  structure,  Turkey  is  divided  into provinces  on  the  basis  of  geographical  situation,  economic  conditions,  and  public  service requirements; provinces are further divided into lower levels of administrative districts.
 
 The administration of the provinces is based on the principle of devolution of powers.
 
@@ -1583,7 +1823,7 @@ Central administrative organizations comprising several provinces may be establi
 
 ##### 2. Local administrations
 
-ARTICLE 127Local administrations are public corporate bodies established to meet the common local needs of the inhabitants of provinces, municipal districts and villages, whose principles of constitution and decision-making organs elected by the electorate are determined by law.
+ARTICLE 127- Local administrations are public corporate bodies established to meet the common local needs of the inhabitants of provinces, municipal districts and villages, whose principles of constitution and decision-making organs elected by the electorate are determined by law.
 
 The formation, duties and powers of the local administrations shall be regulated by law in accordance with the principle of local administration.
 
@@ -1599,7 +1839,7 @@ The  central  administration  has  the  power  of  administrative  tutelage  ove
 
 ##### 1. General principles
 
-ARTICLE  128The  fundamental  and  permanent  functions  required  by  the  public services that the State, state economic enterprises and other public corporate bodies assigned to perform in accordance with principles of general administration, shall be carried out by public servants and other public employees.
+ARTICLE 128- The fundamental and permanent functions required by the public services that the State, state economic enterprises and other public corporate bodies assigned to perform in accordance with principles of general administration, shall be carried out by public servants and other public employees.
 
 The qualifications, appointments, duties and powers, rights and responsibilities, salaries and allowances of public servants and other public officials, and other matters related to their status  shall  be  regulated  by  law.  (Sentence  added  by  September  12,  2010;  Act  No.  5982) However,  provisions  on  collective  agreement  concerning  financial  and  social  rights  are reserved.
 
@@ -1613,7 +1853,7 @@ The procedure and principles governing the training of high rank administrators 
 
 ##### 2. Duties and responsibilities, and guarantees in disciplinary proceedings
 
-ARTICLE 129Public servants and other public officials are obliged to carry out their duties with loyalty to the Constitution and the laws.
+ARTICLE 129- Public servants and other public officials are obliged to carry out their duties with loyalty to the Constitution and the laws.
 
 Public servants, other public officials and members of public professional organizations or their higher bodies shall not be subjected to disciplinary penalties without being granted the right of defence.
 
@@ -1629,7 +1869,7 @@ Prosecution of public servants and other public officials for alleged offences s
 
 ##### 1. Institutions of higher education
 
-ARTICLE 130For the purpose of training manpower to meet the needs of the nation and the country under a system of contemporary education principles, universities comprising several units and having scientific autonomy and public legal personality shall be established by the State and by law, to educate at different levels based on secondary education, to conduct research, to issue publications, to act as consultants, and to serve the country and humanity.
+ARTICLE 130- For the purpose of training manpower to meet the needs of the nation and the country under a system of contemporary education principles, universities comprising several units and having scientific autonomy and public legal personality shall be established by the State and by law, to educate at different levels based on secondary education, to conduct research, to issue publications, to act as consultants, and to serve the country and humanity.
 
 Institutions of higher education may be established, under the supervision and control of the State, by foundations in accordance with the procedures and principles set forth in the law as long as they do not pursue profit.
 
@@ -1651,13 +1891,13 @@ The administrative and supervisory organs of the universities and the teaching s
 
 (As amended on October 29, 2005; Act No. 5428) The budgets drawn up by universities, after being examined and approved by the Council of Higher Education shall be submitted to the Ministry of National Education, and shall be put into effect and supervised in conformity with the principles applied to central government budget.
 
-The establishment of institutions of higher education, their organs, their functioning and elections, their duties, authorities and responsibilities, the procedures to be followed by the state in the exercise of the right to supervise and inspect the universities, the duties of the teaching staff, their titles, appointments, promotions and retirement, the training of the teaching staff, the  relations  of  the  universities  and  the  teaching  staff  with  public  institutions  and  other organizations, the level and duration of education, admission of students into institutions of higher  education,  attendance  requirements  and  fees,  principles  relating  to  assistance  to  be provided by the State, disciplinary and penalty matters, financial affairs, personnel rights, rules to be abided by the teaching staff, the assignment of the teaching staff in accordance with interuniversity  requirements,  the  pursuance  of  training  and  education  in  freedom  and  under guarantee and in accordance with the requirements of contemporary science and technology, and the use of financial resources provided by the State to the Council of Higher Education and the universities, shall be regulated by law.
+The establishment of institutions of higher education, their organs, their functioning and elections, their duties, authorities and responsibilities, the procedures to be followed by the state in the exercise of the right to supervise and inspect the universities, the duties of the teaching staff, their titles, appointments, promotions and retirement, the training of the teaching staff, the relations of the universities and the teaching staff with public institutions and other organizations, the level and duration of education, admission of students into institutions of higher education, attendance requirements and fees, principles relating to assistance to be provided by the State, disciplinary and penalty matters, financial affairs, personnel rights, rules to be abided by the teaching staff, the assignment of the teaching staff in accordance with inter-university requirements, the pursuance of training and education in freedom and under guarantee and in accordance with the requirements of contemporary science and technology, and the use of financial resources provided by the State to the Council of Higher Education and the universities, shall be regulated by law.
 
 Institutions  of  higher  education  established  by  foundations  shall  be  subject  to  the provisions set forth in the Constitution for institutions of higher education established by the State, as regards the academic activities, recruitment of teaching staff and security, except for financial and administrative matters.
 
 ##### 2. Superior bodies of higher education
 
-ARTICLE 131The Council of Higher Education shall be established to plan, organize, administer,  and  supervise  education  provided  by  institutions  of  higher  education,  to  Orient teaching  activities,  education  and  scientific  research,  to  ensure  the  establishment  and development of these institutions in conformity with the objectives and principles set forth by law, to ensure the effective use of the resources allotted to the universities, and to plan for the training of the teaching staff.
+ARTICLE 131- The Council of Higher Education shall be established to plan, organize, administer, and supervise education provided by institutions of higher education, to Orient teaching activities, education and scientific research, to ensure the establishment and development of these institutions in conformity with the objectives and principles set forth by law, to ensure the effective use of the resources allotted to the universities, and to plan for the training of the teaching staff.
 
 (As amended on May 7, 2004; Act No. 5170, April 16, 2017; Act No.6771) The Council of Higher Education is composed of members appointed by the President of the Republic from among candidates who are nominated by universities, and in accordance with the numbers, qualifications and election procedures prescribed by law, priority being given to those who have served  successfully  as  faculty  members  or  university  presidents,  and  of  members  directly appointed by the President of the Republic.
 
@@ -1671,11 +1911,11 @@ The organization, functions, authority, responsibilities and operating principle
 
 [[START OF PAGE 54]]
 
-ARTICLE 132Institutions of higher education attached to the Turkish Armed Forces and to the national police organization are subject to the provisions of their respective special laws.
+ARTICLE 132- Institutions of higher education attached to the Turkish Armed Forces and to the national police organization are subject to the provisions of their respective special laws.
 
 #### F. Radio and Television Supreme Council, institutions of radio and television, and public affiliated news agencies 17
 
-ARTICLE 133(As  amended on July 8, 1993; Act No. 3913) Radio and television stations shall be established and operated freely in conformity with rules to be determined by law.
+ARTICLE 133- (As amended on July 8, 1993; Act No. 3913) Radio and television stations shall be established and operated freely in conformity with rules to be determined by law.
 
 (Paragraph added on June 21, 2005; Act No. 5370) The Radio and Television Supreme Council,  established  for  the  purpose  of  regulation  and  supervision  of  radio  and  television activities, is composed of nine members. The members are elected, on the basis of number of members allocated to each political party group, by the Plenary of the Grand National Assembly of Turkey from among the candidates, twice the number of which is nominated by political party groups in proportion to their number of members. The formation, duties and powers of the Radio and Television Supreme Council, and qualifications, election procedures and term of office of its members shall be regulated by law.
 
@@ -1683,7 +1923,7 @@ The unique radio and television institution established by the State as a public
 
 #### G. The Atatürk High Institution of Culture, Language and History
 
-ARTICLE 134(As amended on April 16, 2017; Act No. 6771) The 'Atatürk High Institution of Culture, Language and History' shall be established as a public corporate body, under the moral aegis of Atatürk, under the supervision of and with the support of the President of  the  Republic,  attached  to  the  minister  designated  by  the  President  of  the  Republic,  and composed  of  the  Atatürk  Research  Centre,  the  Turkish  Language  Institution,  the  Turkish History Institution and the Atatürk Culture Centre, in order to conduct scientific research, to produce publications and to disseminate information on the thought, principles and reforms of Atatürk, Turkish culture, Turkish history and the Turkish language.
+ARTICLE 134- (As amended on April 16, 2017; Act No. 6771) The “Atatürk High Institution of Culture, Language and History” shall be established as a public corporate body, under the moral aegis of Atatürk, under the supervision of and with the support of the President of the Republic, attached to the minister designated by the President of the Republic, and composed of the Atatürk Research Centre, the Turkish Language Institution, the Turkish History Institution and the Atatürk Culture Centre, in order to conduct scientific research, to produce publications and to disseminate information on the thought, principles and reforms of Atatürk, Turkish culture, Turkish history and the Turkish language.
 
 The  financial  interests  bequeathed  by  Atatürk  in  his  will  to  the  Turkish  Language Institution  and  Turkish  History  Institution  are  reserved  and  shall  be  allocated  to  them accordingly.
 
@@ -1691,7 +1931,7 @@ The establishment, organs, operating procedures and personnel matters of the Ata
 
 #### H. Professional organizations having the characteristics of public institutions
 
-ARTICLE  135Professional  organizations  having  the  characteristics  of  public institutions and their higher bodies are public corporate bodies established by law, with the objectives of meeting the common needs of the members of a given profession, to facilitate their  professional  activities,  to  ensure  the  development  of  the  profession  in  keeping  with common interests, to safeguard professional discipline and ethics in order to ensure integrity and trust in relations among its members and with the public; their organs shall be elected by secret ballot by their members in accordance with the procedure set forth in the law, and under judicial supervision.
+ARTICLE 135- Professional organizations having the characteristics of public institutions and their higher bodies are public corporate bodies established by law, with the objectives of meeting the common needs of the members of a given profession, to facilitate their professional activities, to ensure the development of the profession in keeping with common interests, to safeguard professional discipline and ethics in order to ensure integrity and trust in relations among its members and with the public; their organs shall be elected by secret ballot by their members in accordance with the procedure set forth in the law, and under judicial supervision.
 
 > 17 The phrase 'The Radio and Television Supreme Council' was added by the first Article of Act No. 5370 dated June 21, 2005.
 
@@ -1715,11 +1955,11 @@ Persons employed in principal and permanent positions in public institutions, or
 
 #### İ. Presidency of Religious Affairs
 
-ARTICLE  136The  Presidency  of  Religious  Affairs,  which  is  within  the  general administration, shall exercise its duties prescribed in its particular law, in accordance with the principles of secularism, removed from all political views and ideas, and aiming at national solidarity and integrity.
+ARTICLE 136- The Presidency of Religious Affairs, which is within the general administration, shall exercise its duties prescribed in its particular law, in accordance with the principles of secularism, removed from all political views and ideas, and aiming at national solidarity and integrity.
 
 #### J. Unlawful order
 
-ARTICLE 137(As amended on April 16, 2017; Act No. 6771) If a person employed in any position or status in public services finds an order given by his/her superior to be contrary to the provisions of by-laws, presidential decree, laws, or the Constitution, he/she shall not carry it out, and shall inform the person giving the order of this inconsistency. However, if his/her superior insists on the order and renews it in writing, his/her order shall be executed; in this case the person executing the order shall not be held responsible.
+ARTICLE 137- (As amended on April 16, 2017; Act No. 6771) If a person employed in any position or status in public services finds an order given by his/her superior to be contrary to the provisions of by-laws, presidential decree, laws, or the Constitution, he/she shall not carry it out, and shall inform the person giving the order of this inconsistency. However, if his/her superior insists on the order and renews it in writing, his/her order shall be executed; in this case the person executing the order shall not be held responsible.
 
 An order which in itself constitutes an offence shall under no circumstances be executed; the person who executes such an order shall not evade responsibility.
 
@@ -1737,7 +1977,7 @@ Exceptions  designated  by  law  relating  to  the  execution  of  military  dut
 
 #### A. Independence of the courts
 
-ARTICLE 138Judges shall be independent in the discharge of their duties; they shall give  judgment  in  accordance  with  the  Constitution,  laws,  and  their  personal  conviction conforming to the law.
+ARTICLE 138- Judges shall be independent in the discharge of their duties; they shall give judgment in accordance with the Constitution, laws, and their personal conviction conforming to the law.
 
 No organ, authority, office or individual may give orders or instructions to courts or judges relating to the exercise of judicial power, send them circulars, or make recommendations or suggestions.
 
@@ -1747,13 +1987,13 @@ Legislative  and  executive  organs  and  the  administration  shall  comply  wi
 
 #### B. Security of tenure of judges and public prosecutors
 
-ARTICLE 139Judges and public prosecutors shall not be dismissed, or unless they request, shall not be retired before the age prescribed by the Constitution; nor shall they be deprived of their salaries, allowances or other rights relating to their status, even as a result of the abolition of a court or a post.
+ARTICLE 139- Judges and public prosecutors shall not be dismissed, or unless they request, shall not be retired before the age prescribed by the Constitution; nor shall they be deprived of their salaries, allowances or other rights relating to their status, even as a result of the abolition of a court or a post.
 
 Exceptions  indicated  in  law  relating  to  those  convicted  for  an  offence  requiring dismissal from the profession, those who are definitely established as unable to perform their duties because of illhealth, or those determined as unsuitable to remain in the profession, are reserved.
 
 #### C. Judges and public prosecutors
 
-ARTICLE  140Judges  and  public  prosecutors  shall  serve  as  judges  and  public prosecutors  of  civil  and  administrative  judiciary.  These  duties  shall  be  carried  out  by professional judges and public prosecutors.
+ARTICLE 140- Judges and public prosecutors shall serve as judges and public prosecutors of civil and administrative judiciary. These duties shall be carried out by professional judges and public prosecutors.
 
 Judges shall discharge their duties in accordance with the principles of the independence of the courts and the security of the tenure of judges.
 
@@ -1775,7 +2015,7 @@ Those judges and public prosecutors working in administrative posts of judicial 
 
 #### D. Publicity of hearings and the necessity of justification for verdicts
 
-ARTICLE 141Court hearings shall be open to the public. It may be decided to conduct all or a part of a hearing in a closed session, but only in cases where absolutely necessitated by public morals or public security.
+ARTICLE 141- Court hearings shall be open to the public. It may be decided to conduct all or a part of a hearing in a closed session, but only in cases where absolutely necessitated by public morals or public security.
 
 Special provisions regarding the trial of minors shall be laid down in the law.
 
@@ -1785,17 +2025,17 @@ It is the duty of the judiciary to conclude trials as quickly as possible and at
 
 #### E. Formation of courts
 
-ARTICLE 142The formation, duties and powers, functioning and trial procedures of the courts shall be regulated by law.
+ARTICLE 142- The formation, duties and powers, functioning and trial procedures of the courts shall be regulated by law.
 
 (Paragraph  added  on  April  16,  2017;  Act  No.  6771)  No  military  courts  shall  be established other than military disciplinary courts. However, in state of war, military courts having the jurisdiction to try offences committed by military personnel in relation to their duties may be established.
 
 #### F. State Security Courts
 
-ARTICLE 143(Repealed on May 7, 2004; Act No. 5170)
+ARTICLE 143- (Repealed on May 7, 2004; Act No. 5170)
 
 #### G. Supervision of judicial services 18
 
-ARTICLE 144(As amended on September 12, 2010; Act No. 5982)
+ARTICLE 144- (As amended on September 12, 2010; Act No. 5982)
 
 Supervision of judicial services and public prosecutors with regard to their administrative duties shall be carried out by the Ministry of Justice through judiciary inspectors and internal auditors who are from the profession of judge and public prosecutor, and inquiry, inspection and investigation proceedings through judiciary inspectors. Relating procedures and principles shall be regulated by law.
 
@@ -1809,15 +2049,15 @@ Supervision of judicial services and public prosecutors with regard to their adm
 
 #### H. Military justice
 
-ARTICLE 145(As amended on September 12, 2010; Act No. 5982) (Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 145- (As amended on September 12, 2010; Act No. 5982) (Repealed on April 16, 2017; Act No. 6771)
 
 ### II. Higher courts
 
 #### A. Constitutional Court
 
-##### Formation
+##### 1. Formation
 
-ARTICLE 146- ( As amended on April 16, 2017; Act No. 6771) The Constitutional Court shall be composed of fifteen members.
+ARTICLE 146- (As amended on April 16, 2017; Act No. 6771) The Constitutional Court shall be composed of fifteen members.
 
 The Grand National Assembly of Turkey shall elect, by secret ballot, two members from among three candidates to be nominated by and from among the president and members of the Court of Accounts, for each vacant position, and one member from among three candidates nominated by the heads of the bar associations from among self-employed lawyers. In this election to be held in the Grand National Assembly of Turkey, for each vacant position, two thirds majority of the total number of members shall be required for the first ballot, and absolute majority of total number of members shall be required for the second ballot. If an absolute majority cannot be obtained in the second ballot, a third ballot shall be held between the two candidates who have received the greatest number of votes in the second ballot; the member who receives the greatest number of votes in the third ballot shall be elected.
 
@@ -1841,13 +2081,13 @@ The members of the Constitutional Court shall not assume other official and priv
 
 ##### 2. Term of office of the members and termination of membership 20
 
-ARTICLE 147(As amended on September 12, 2010; Act No.5982) The members of the Constitutional Court shall be elected for a term of twelve years. A member shall not be reelected. The members of the Constitutional Court shall retire when they are over the age of sixty-five. The appointment of the members to another office whose term of office expires prior to their mandatory age of retirement and matters regarding their personnel status shall be laid down in law.
+ARTICLE 147- (As amended on September 12, 2010; Act No.5982) The members of the Constitutional Court shall be elected for a term of twelve years. A member shall not be re-elected. The members of the Constitutional Court shall retire when they are over the age of sixty-five. The appointment of the members to another office whose term of office expires prior to their mandatory age of retirement and matters regarding their personnel status shall be laid down in law.
 
 Membership in the Constitutional Court shall terminate automatically if a member is convicted  of  an  offence  requiring  his/her  dismissal  from  the  judicial  profession,  and  by  a decision of an absolute majority of the total number of members of the Constitutional Court if it is definitely established that he/she is unable to perform his/her duties on account of ill-health.
 
 ##### 3. Functions and powers
 
-ARTICLE 148(As amended on September 12, 2010; Act No. 5982, and on April 16, 2017; Act No. 6771) The Constitutional Court shall examine the constitutionality, in respect of both form and substance, of laws, presidential decrees and the Rules of Procedure of the Grand National Assembly of Turkey, and decide on individual applications. Constitutional amendments  shall  be  examined  and  verified  only  with  regard  to  their  form.  However, presidential decrees issued during a state of emergency or in time of war shall not be brought before the Constitutional Court alleging their unconstitutionality as to form or substance.
+ARTICLE 148- (As amended on September 12, 2010; Act No. 5982, and on April 16, 2017; Act No. 6771) The Constitutional Court shall examine the constitutionality, in respect of both form and substance, of laws, presidential decrees and the Rules of Procedure of the Grand National Assembly of Turkey, and decide on individual applications. Constitutional amendments shall be examined and verified only with regard to their form. However, presidential decrees issued during a state of emergency or in time of war shall not be brought before the Constitutional Court alleging their unconstitutionality as to form or substance.
 
 The verification of laws as to form shall be restricted to consideration of whether the requisite majority was obtained in the last ballot; the verification of constitutional amendments shall be restricted to consideration of whether the requisite majorities were obtained for the proposal and in the ballot, and whether the prohibition on debates under expedited procedure was observed. Verification as to form may be requested by the President of the Republic or by one-fifth  of  the  members  of  the  Grand  National  Assembly  of  Turkey.  Applications  for annulment on the grounds of defect in form shall not be made after ten days have elapsed from the  date  of  promulgation  of  the  law;  and  it  shall  not  be  appealed  by  other  courts  to  the Constitutional Court on the grounds of defect in form.
 
@@ -1879,7 +2119,7 @@ The  Constitutional  Court  shall  also  perform  the  other  duties  given  to 
 
 ##### 4. Procedure of functioning and trial
 
-ARTICLE 149(As amended on September 12, 2010; Act No. 5982)
+ARTICLE 149- (As amended on September 12, 2010; Act No. 5982)
 
 (As amended on April 16, 2017; Act No. 6771) The Constitutional Court consists of two sections and the General Assembly. The sections convene under the chairpersonship of the deputy president with the participation of four members. The General Assembly shall convene with the participation of at least ten members under the chairpersonship of the President of the Constitutional Court or a deputy president designated by the President. The sections and the General Assembly shall take decisions by absolute majority. Committees may be established to examine the admissibility of the individual applications.
 
@@ -1901,15 +2141,15 @@ The Constitutional Court shall examine cases without holding a hearing, except w
 
 ##### 5. Annulment action
 
-ARTICLE 150(As amended on April 16, 2017; Act No. 6771) The President of the Republic, the two political party groups having the largest number of members in the Grand National Assembly of Turkey, and at least one-fifth of the total number of members of the Grand National Assembly of Turkey shall have the right to apply for annulment action directly to the Constitutional Court, based on the assertion of the unconstitutionality, in form and in substance,  of  laws,  of  presidential  decrees,  of  Rules  of  Procedure  of  the  Grand  National Assembly of Turkey or of certain articles or provisions thereof. (Sentence repealed on April 16, 2017; Act No. 6771).
+ARTICLE 150- (As amended on April 16, 2017; Act No. 6771) The President of the Republic, the two political party groups having the largest number of members in the Grand National Assembly of Turkey, and at least one-fifth of the total number of members of the Grand National Assembly of Turkey shall have the right to apply for annulment action directly to the Constitutional Court, based on the assertion of the unconstitutionality, in form and in substance, of laws, of presidential decrees, of Rules of Procedure of the Grand National Assembly of Turkey or of certain articles or provisions thereof. (Sentence repealed on April 16, 2017; Act No. 6771).
 
 ##### 6. Time limit for annulment action
 
-ARTICLE 151 - (As amended on April 16, 2017; Act No. 6771) The right to apply for annulment directly to the Constitutional Court shall lapse sixty days after publication in the Official Gazette of the contested law, presidential decree, or the Rules of Procedure.
+ARTICLE 151- (As amended on April 16, 2017; Act No. 6771) The right to apply for annulment directly to the Constitutional Court shall lapse sixty days after publication in the Official Gazette of the contested law, presidential decree, or the Rules of Procedure.
 
 ##### 7. Claim of unconstitutionality before other courts
 
-ARTICLE 152(As amended on April 16, 2017; Act No. 6771) If a court hearing a case finds that the law or the presidential decree to be applied is unconstitutional, or if convinced of  the  seriousness  of  a  claim  of  unconstitutionality  submitted by one of the parties, it shall postpone the consideration of the case until the Constitutional Court decides on the issue.
+ARTICLE 152- (As amended on April 16, 2017; Act No. 6771) If a court hearing a case finds that the law or the presidential decree to be applied is unconstitutional, or if convinced of the seriousness of a claim of unconstitutionality submitted by one of the parties, it shall postpone the consideration of the case until the Constitutional Court decides on the issue.
 
 62
 
@@ -1925,7 +2165,7 @@ No claim of unconstitutionality shall be made with regard to the same legal prov
 
 ##### 8. Decisions of the Constitutional Court
 
-ARTICLE  153The  decisions  of  the  Constitutional  Court  are  final.  Decisions  of annulment shall not be made public without a written justification.
+ARTICLE 153- The decisions of the Constitutional Court are final. Decisions of annulment shall not be made public without a written justification.
 
 (As amended on April 16, 2017; Act No. 6771) In the course of annulling the whole, or a provision, of laws or presidential decrees, the Constitutional Court shall not act as a lawmaker and pass judgment leading to new implementation.
 
@@ -1939,7 +2179,7 @@ Decisions of the Constitutional Court shall be published immediately in the Offi
 
 #### B. High Court of Appeals
 
-ARTICLE 154 - The High Court of Appeals is the last instance for reviewing decisions and judgments given by civil courts that are not referred by law to other civil judicial authority. It shall also be the first and last instance court for dealing with specific cases prescribed by law.
+ARTICLE 154- The High Court of Appeals is the last instance for reviewing decisions and judgments given by civil courts that are not referred by law to other civil judicial authority. It shall also be the first and last instance court for dealing with specific cases prescribed by law.
 
 (As amended on April 16, 2017; Act No. 6771) Members of the High Court of Appeals shall be appointed by the Council of Judges and Prosecutors from among first category judges and public prosecutors of the civil judiciary, or those considered members of this profession, by secret ballot and by an absolute majority of the total number of members.
 
@@ -1957,7 +2197,7 @@ The organization and the functioning of the High Court of Appeals, the qualifica
 
 #### C. Council of State
 
-ARTICLE 155The Council of State is the last instance for reviewing decisions and judgments given by administrative courts and not referred by law to other administrative courts. It shall also be the first and last instance for dealing with specific cases prescribed by law.
+ARTICLE 155- The Council of State is the last instance for reviewing decisions and judgments given by administrative courts and not referred by law to other administrative courts. It shall also be the first and last instance for dealing with specific cases prescribed by law.
 
 (As amended on August 13, 1999; Act No. 4446; on April 16, 2017; Act No. 6771) The Council  of  State  shall  try  administrative  cases,  give  its  opinion  within  two  months  on  the conditions and the contracts under which concessions are granted concerning public services, settle administrative disputes, and discharge other duties prescribed by law.
 
@@ -1969,7 +2209,7 @@ The  organization  and  functioning  of  the  Council  of  State,  the  qualific
 
 #### D. High Military Court of Appeals
 
-ARTICLE 156(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 156- (Repealed on April 16, 2017; Act No. 6771)
 
 #### E. High Military Administrative Court
 
@@ -1979,11 +2219,11 @@ ARTICLE 156(Repealed on April 16, 2017; Act No. 6771)
 
 [[START OF PAGE 64]]
 
-ARTICLE 157(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 157- (Repealed on April 16, 2017; Act No. 6771)
 
 #### F. Court of Jurisdictional Disputes
 
-ARTICLE  158(As  amended  on  April  16,  2017;  Act  No.  6771)  The  Court  of Jurisdictional Disputes shall be empowered to deliver final judgments in disputes between civil and administrative courts concerning their jurisdiction and judgments.
+ARTICLE 158- (As amended on April 16, 2017; Act No. 6771) The Court of Jurisdictional Disputes shall be empowered to deliver final judgments in disputes between civil and administrative courts concerning their jurisdiction and judgments.
 
 The organization of the Court of Jurisdictional Disputes, the qualifications and electoral procedure of its members, and its functioning shall be regulated by law. The office of president of this Court shall be held by a member delegated by the Constitutional Court from among its own members.
 
@@ -1991,7 +2231,7 @@ Decisions of the Constitutional Court shall take precedence in jurisdictional di
 
 ### III. Council of Judges and Prosecutors 21
 
-ARTICLE 159(As amended on September 12, 2010; Act No. 5982, April 16, 2017; Act No. 6771)
+ARTICLE 159- (As amended on September 12, 2010; Act No. 5982, April 16, 2017; Act No. 6771)
 
 (As amended on April 16, 2017; Act No. 6771) Council of Judges and Prosecutors shall be  established  and  shall  exercise  its  functions  in  accordance  with  the  principles  of  the independence of the courts and the security of the tenure of judges.
 
@@ -2031,7 +2271,7 @@ The Council shall conduct the proceedings regarding the admission to the profess
 
 The decisions of the Council, other than dismissal from the profession, shall not be subject to judicial review.
 
-A Secretariat General shall be established under the Council. The Secretary General shall be appointed by the President of the Council from among three candidates proposed by the Council from among first category judges and public prosecutors. The Council shall be empowered to appoint, with  their  consent,  the  Council's  inspectors,  and  judges  and  public prosecutors to be temporarily or permanently assigned to the Council
+A Secretariat General shall be established under the Council. The Secretary General shall be appointed by the President of the Council from among three candidates proposed by the Council from among first category judges and public prosecutors. The Council shall be empowered to appoint, with their consent, the Council's inspectors, and judges and public prosecutors to be temporarily or permanently assigned to the Council.
 
 The Minister of Justice is empowered to appoint judges, public prosecutors, judiciary inspectors, and internal auditors having the profession of judgeship and prosecutorship, with their  consent,  to  temporary  or  permanent  functions  in  the  central,  subordinate  or  affiliated institutions of the Ministry of Justice.
 
@@ -2039,7 +2279,7 @@ The election of the members of the Council, formation of the chambers and the di
 
 ### IV. Court of Accounts
 
-ARTICLE 160(As  amended  on  October  29,  2005;  Act  No.  5428)  The  Court  of Accounts shall be charged with auditing, on behalf of the Grand National Assembly of Turkey, evenues, expenditures, and assets of the public administrations financed by central government budget and social security institutions, with taking final decisions on the accounts and acts of the  responsible  officials,  and  with  exercising  the  functions  prescribed  in  laws  in  matters  of inquiry,  auditing  and  judgment.  Those  concerned  may  file,  only  for  once,  a  request  for reconsideration of a final decision of the Court of Accounts within fifteen days of the date of written notification of the decision. No applications for judicial review of such decisions shall be filed in administrative courts.
+ARTICLE 160- (As amended on October 29, 2005; Act No. 5428) The Court of Accounts shall be charged with auditing, on behalf of the Grand National Assembly of Turkey, revenues, expenditures, and assets of the public administrations financed by central government budget and social security institutions, with taking final decisions on the accounts and acts of the responsible officials, and with exercising the functions prescribed in laws in matters of inquiry, auditing and judgment. Those concerned may file, only for once, a request for reconsideration of a final decision of the Court of Accounts within fifteen days of the date of written notification of the decision. No applications for judicial review of such decisions shall be filed in administrative courts.
 
 In  case  of  conflict  between  the  decisions  of  the  Council  of  State  and  the  Court  of Accounts, regarding taxes, similar financial obligations and duties, the decision of Council of State shall prevail.
 
@@ -2063,13 +2303,13 @@ The  establishment,  functioning,  auditing  procedures,  qualifications,  appoi
 
 #### A. Budget and final accounts 24
 
-ARTICLE 161(As amended on Octeber 29, 2005; Act No. 5428, April 16, 2017; Act No.6771)
+ARTICLE 161- (As amended on Octeber 29, 2005; Act No. 5428, April 16, 2017; Act No.6771)
 
 The  expenditure  of  the  State  and  of  public  corporations  other  than  state  economic enterprises shall be determined by annual budgets.
 
 The beginning of the fiscal year and the preparation, implementation and control of the central government budget and the special periods and procedures for investments as well as works and services expected to last more than one year shall be regulated by law. No provisions other than those pertaining to the budget shall be included in the Budget Act.
 
-The President of the Republic shall submit budget bill to the Grand National Assembly of Turkey at least seventy-five days before the beginning of the fiscal year. The budget bill shall be debated at the Committee on Budget. The budget bill adopted by the Committee within fiftyfive days shall thereafter be debated and adopted by the Plenary before the beginning of the fiscal year.
+The President of the Republic shall submit budget bill to the Grand National Assembly of Turkey at least seventy-five days before the beginning of the fiscal year. The budget bill shall be debated at the Committee on Budget. The budget bill adopted by the Committee within fifty-five days shall thereafter be debated and adopted by the Plenary before the beginning of the fiscal year.
 
 If the budget law cannot be put into force within due period, the provisional budget law shall be enacted. If the provisional budget law cannot also be enacted, the budget of the previous year shall be applied increasingly as per the revaluation rate until the new budget law is adopted.
 
@@ -2099,25 +2339,25 @@ The final accounts bill shall be debated and adopted together with the budget bi
 
 #### B. Debate on the budget
 
-ARTICLE 162(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 162- (Repealed on April 16, 2017; Act No. 6771)
 
 #### C. Principles governing budgetary amendments
 
-ARTICLE 163(Repealed on April 16, 2017; Act No.6771)
+ARTICLE 163- (Repealed on April 16, 2017; Act No.6771)
 
-#### Final accounts
+#### D. Final accounts
 
-ARTICLE 164(Repealed on April 16, 2017; Act No. 6771)
+ARTICLE 164- (Repealed on April 16, 2017; Act No. 6771)
 
 #### E. Scrutiny of state economic enterprises
 
-ARTICLE  165The  principles  governing  the  scrutiny  of  the  accounts  of  public institutions and partnerships where more than half of the capital directly or indirectly belongs to the State, by the Grand National Assembly of Turkey, shall be regulated by law.
+ARTICLE 165- The principles governing the scrutiny of the accounts of public institutions and partnerships where more than half of the capital directly or indirectly belongs to the State, by the Grand National Assembly of Turkey, shall be regulated by law.
 
 ## CHAPTER TWO Economic Provisions
 
 ### I. Planning; Economic and Social Council 25
 
-ARTICLE 166Planning the economic, social and cultural development, in particular the rapid, balanced and harmonious development of industry and agriculture throughout the country and the efficient use of national resources by taking inventory of and evaluating them, and the establishment of the necessary organization for this purpose are the duties of the State.
+ARTICLE 166- Planning the economic, social and cultural development, in particular the rapid, balanced and harmonious development of industry and agriculture throughout the country and the efficient use of national resources by taking inventory of and evaluating them, and the establishment of the necessary organization for this purpose are the duties of the State.
 
 Measures to increase national savings and production, to ensure stability in prices and balance in external payments, to promote investment and employment shall be included in the plan; in investments, public interests and necessities shall be taken into account and the efficient use of resources shall be proposed. Development activities shall be realized according to this plan.
 
@@ -2135,19 +2375,19 @@ The procedure and principles governing the preparation of development plans, the
 
 ### II. Supervision of markets and regulation of foreign trade
 
-ARTICLE 167The State shall take measures to ensure and promote the sound and orderly functioning of the markets for money, credit, capital, goods and services; and shall prevent  the  formation  of  monopolies  and  cartels  in  the  markets,  emerged  in  practice  or  by agreement.
+ARTICLE 167- The State shall take measures to ensure and promote the sound and orderly functioning of the markets for money, credit, capital, goods and services; and shall prevent the formation of monopolies and cartels in the markets, emerged in practice or by agreement.
 
 (As amended on April 16, 2017; Act No. 6771) In order to regulate foreign trade for the benefit of the economy of the country, President of the Republic may be empowered by law to introduce  additional  financial  impositions  on  imports,  exports  and  other  foreign  trade transactions, except taxes and similar impositions, or to lift them.
 
 ### III. Exploration and exploitation of natural resources
 
-ARTICLE 168Natural wealth and resources shall be under the authority and at the disposal of the State. The right to explore and exploit these belongs to the State. The State may delegate this right to persons or corporate bodies for a certain period. Of the natural wealth and resources,  those  to  be  explored  and  exploited  by  the  state  in  partnership  with  persons  or corporate bodies, and those to be directly explored and exploited by persons or corporate bodies shall be subject to the explicit permission of the law. The conditions to be observed in such cases by persons and corporate bodies, the procedure and principles governing supervision and control by the State, and the sanctions to be applied shall be prescribed by law.
+ARTICLE 168- Natural wealth and resources shall be under the authority and at the disposal of the State. The right to explore and exploit these belongs to the State. The State may delegate this right to persons or corporate bodies for a certain period. Of the natural wealth and resources, those to be explored and exploited by the state in partnership with persons or corporate bodies, and those to be directly explored and exploited by persons or corporate bodies shall be subject to the explicit permission of the law. The conditions to be observed in such cases by persons and corporate bodies, the procedure and principles governing supervision and control by the State, and the sanctions to be applied shall be prescribed by law.
 
 ### IV. Forests and the forest villagers
 
 #### A. Protection and development of forests
 
-ARTICLE 169The State shall enact the necessary legislation and take the measures required for the protection and extension of forests. Burnt forest areas shall be reafforested; other agricultural and stockbreeding activities shall not be allowed in such areas. All forests shall be under the care and supervision of the State.
+ARTICLE 169- The State shall enact the necessary legislation and take the measures required for the protection and extension of forests. Burnt forest areas shall be reafforested; other agricultural and stockbreeding activities shall not be allowed in such areas. All forests shall be under the care and supervision of the State.
 
 The ownership of state forests shall not be transferred. State forests shall be managed and exploited by the State in accordance with the law. Ownership of these forests shall not be acquired by prescription, nor shall servitude other than that in the public interest be imposed in respect of such forests.
 
@@ -2163,7 +2403,7 @@ The  reducing  of  forest  areas  shall  be  prohibited,  except  in  respect  o
 
 #### B. Protection of forest villagers
 
-ARTICLE 170Measures shall be introduced by law to secure cooperation between the  State  and  the  inhabitants  of  villages  located  in  or  near  forests  in  the  supervision  and exploitation of forests for the purpose of ensuring conservation of forests and their integrity, and  improving  the  living  conditions  of  these  inhabitants;  the  law  shall  also  regulate  the exploitation of areas which technically and scientifically ceased to be forests before December 31, 1981; the identification of areas whose preservation as forest is considered scientifically and technically useless, their exclusion from forest boundaries and their improvement by the State for the purpose of settling all or some of the inhabitants of forest villages in them, and their allocation to these villages.
+ARTICLE 170- Measures shall be introduced by law to secure cooperation between the State and the inhabitants of villages located in or near forests in the supervision and exploitation of forests for the purpose of ensuring conservation of forests and their integrity, and improving the living conditions of these inhabitants; the law shall also regulate the exploitation of areas which technically and scientifically ceased to be forests before December 31, 1981; the identification of areas whose preservation as forest is considered scientifically and technically useless, their exclusion from forest boundaries and their improvement by the State for the purpose of settling all or some of the inhabitants of forest villages in them, and their allocation to these villages.
 
 The State shall take measures to facilitate the acquisition of equipment and other inputs by these inhabitants.
 
@@ -2171,7 +2411,7 @@ The land owned by villagers resettled outside a forest shall immediately be reaf
 
 ### V. Developing cooperativism
 
-ARTICLE 171The  State  shall  take  measures,  in  keeping  with  national  economic interests,  to  ensure  the  development  of  cooperativism,  which  shall  be  primarily  aiming  at increase in production and protection of consumers.
+ARTICLE 171- The State shall take measures, in keeping with national economic interests, to ensure the development of cooperativism, which shall be primarily aiming at increase in production and protection of consumers.
 
 (Repealed on July 23, 1995; Act No. 4121)
 
@@ -2179,17 +2419,17 @@ ARTICLE 171The  State  shall  take  measures,  in  keeping  with  national  econ
 
 #### A. Protection of consumers
 
-ARTICLE 172The State shall take measures to protect and inform consumers; shall encourage their initiatives to protect themselves.
+ARTICLE 172- The State shall take measures to protect and inform consumers; shall encourage their initiatives to protect themselves.
 
 #### B. Protection of tradespeople and artisans
 
-ARTICLE 173The State shall take measures to protect and support tradespeople and artisans.
+ARTICLE 173- The State shall take measures to protect and support tradespeople and artisans.
 
 # PART FIVE Miscellaneous Provisions
 
 ### I. Preservation of Reform Laws
 
-ARTICLE 174 - No provision of the Constitution shall be construed or interpreted as rendering  unconstitutional  the  Reform  Laws  indicated  below,  which  aim  to  raise  Turkish society above the level of contemporary civilization and to safeguard the secular character of the Republic, and whose provisions were in force on the date of the adoption of the Constitution by referendum:
+ARTICLE 174- No provision of the Constitution shall be construed or interpreted as rendering unconstitutional the Reform Laws indicated below, which aim to raise Turkish society above the level of contemporary civilization and to safeguard the secular character of the Republic, and whose provisions were in force on the date of the adoption of the Constitution by referendum:
 
 71
 
@@ -2197,25 +2437,25 @@ ARTICLE 174 - No provision of the Constitution shall be construed or interpreted
 
 [[START OF PAGE 71]]
 
-- Act No. 430 of March 3, 1340 (1924) on the Unification of the Educational System,
+1. Act No. 430 of March 3, 1340 (1924) on the Unification of the Educational System,
 
-- Act No. 671 of November 25, 1341 (1925) on the Wearing of Hats,
+2. Act No. 671 of November 25, 1341 (1925) on the Wearing of Hats,
 
-- Act No. 677 of November 30, 1341 (1925) on the Closure of Dervish Monasteries and Tombs, the Abolition of the Office of Keeper of Tombs and the Abolition and Prohibition of Certain Titles,
+3. Act No. 677 of November 30, 1341 (1925) on the Closure of Dervish Monasteries and Tombs, the Abolition of the Office of Keeper of Tombs and the Abolition and Prohibition of Certain Titles,
 
-- The principle of civil marriage according to which the marriage act shall be concluded in  the  presence  of  the  competent  official,  adopted  with  the  Turkish  Civil  Code  No.  743  of February 17, 1926, and Article 110 of the Code,
+4. The principle of civil marriage according to which the marriage act shall be concluded in the presence of the competent official, adopted with the Turkish Civil Code No. 743 of February 17, 1926, and Article 110 of the Code,
 
-- Act No. 1288 of May 20, 1928 on the Adoption of International Numerals,
+5. Act No. 1288 of May 20, 1928 on the Adoption of International Numerals,
 
-- Act No. 1353 of November 1, 1928 on the Adoption and Application of the Turkish Alphabet,
+6. Act No. 1353 of November 1, 1928 on the Adoption and Application of the Turkish Alphabet,
 
-- Act No 2590 of November 26, 1934 on the Abolition of Titles and Appellations such as Efendi, Bey or Pasha,
+7. Act No 2590 of November 26, 1934 on the Abolition of Titles and Appellations such as Efendi, Bey or Pasha,
 
-8.  Act No. 2596 of December 3, 1934 on the Prohibition of the Wearing of Certain Garments.
+8. Act No. 2596 of December 3, 1934 on the Prohibition of the Wearing of Certain Garments.
 
 # PART SIX Provisional Articles
 
-PROVISIONAL  ARTICLE  1On  the  duly  proclamation  of  the  adoption  of  the Constitution as the Constitution of the Republic of Turkey by referendum, the Chairperson of the Council of National Security and Head of State at the time of the referendum, shall assume the title of President of the Republic and shall exercise the constitutional functions and powers of the President of the Republic for a period of seven years. The oath taken as Head of State on September 18, 1980 shall remain valid. At the end of the period of seven years, the election for the Presidency of the Republic shall be held in accordance with the provisions set forth in the Constitution.
+PROVISIONAL ARTICLE 1- On the duly proclamation of the adoption of the Constitution as the Constitution of the Republic of Turkey by referendum, the Chairperson of the Council of National Security and Head of State at the time of the referendum, shall assume the title of President of the Republic and shall exercise the constitutional functions and powers of the President of the Republic for a period of seven years. The oath taken as Head of State on September 18, 1980 shall remain valid. At the end of the period of seven years, the election for the Presidency of the Republic shall be held in accordance with the provisions set forth in the Constitution.
 
 The President of the Republic shall also hold the chairpersonship of the Council of National Security formed on December 12, 1980, under Act No. 2356, until the convening of the Grand National Assembly of Turkey and the formation of the Bureau following the first general elections.
 
@@ -2227,7 +2467,7 @@ If the Presidency of the Republic falls vacant for any reason before the Grand N
 
 [[START OF PAGE 72]]
 
-PROVISIONAL ARTICLE 2The Council of National Security formed on December 12, 1980 under Act No. 2356 shall continue to exercise its functions under Act No. 2324 on the Constitutional Order and Act No. 2485 on the Constituent Assembly until the convening of the Grand National Assembly of Turkey and the formation of the Bureau following the first general elections held under the Political Parties Act and the Elections Act prepared in accordance with the Constitution.
+PROVISIONAL ARTICLE 2- The Council of National Security formed on December 12, 1980 under Act No. 2356 shall continue to exercise its functions under Act No. 2324 on the Constitutional Order and Act No. 2485 on the Constituent Assembly until the convening of the Grand National Assembly of Turkey and the formation of the Bureau following the first general elections held under the Political Parties Act and the Elections Act prepared in accordance with the Constitution.
 
 After  the  adoption  of  the  Constitution,  Article  3  of  Act  No.  2356  relating  to  the procedure for winning a seat on the Council of National Security that falls vacant for any reason shall cease to apply.
 
@@ -2243,7 +2483,7 @@ To consider and give an opinion on matters relating to the renewal of general el
 
 c) According to the request of the President of the Republic, to consider and investigate matters relating to internal or external security and such other matters deemed necessary, and to submit its findings to the President of the Republic.
 
-PROVISIONAL ARTICLE 3On the convening of the Grand National Assembly of Turkey and the formation of the Bureau following the first general elections held in accordance with the Constitution:
+PROVISIONAL ARTICLE 3- On the convening of the Grand National Assembly of Turkey and the formation of the Bureau following the first general elections held in accordance with the Constitution:
 
 a) Act No. 2324 of October 27, 1980 on the Constitutional Order,
 
@@ -2255,23 +2495,23 @@ b) Act No. 2356 of December 12, 1980 on the Council of National Security, c) Act
 
 [[START OF PAGE 73]]
 
-PROVISIONAL ARTICLE 4(Repealed on September 6, 1987; Act No. 3361)
+PROVISIONAL ARTICLE 4- (Repealed on September 6, 1987; Act No. 3361)
 
-PROVISIONAL ARTICLE 5On the tenth day following proclamation of the results of the first general elections by the Supreme Board of Election, the Grand National Assembly of Turkey shall convene of its own accord at the building of the Grand National Assembly of Turkey in Ankara at 15.00 hours. The eldest deputy shall preside this session. At this session, the deputies shall take their oaths.
+PROVISIONAL ARTICLE 5- On the tenth day following proclamation of the results of the first general elections by the Supreme Board of Election, the Grand National Assembly of Turkey shall convene of its own accord at the building of the Grand National Assembly of Turkey in Ankara at 15.00 hours. The eldest deputy shall preside this session. At this session, the deputies shall take their oaths.
 
-PROVISIONAL ARTICLE 6Until the Grand National Assembly of Turkey, formed in  accordance  with  the  Constitution,  adopts  the  Rules  of  Procedure,  which  shall  govern  its sessions and proceedings, those provisions of the Rules of Procedure of the National Assembly that were in force before September 12, 1980, and that are not contrary to the Constitution shall apply.
+PROVISIONAL ARTICLE 6- Until the Grand National Assembly of Turkey, formed in accordance with the Constitution, adopts the Rules of Procedure, which shall govern its sessions and proceedings, those provisions of the Rules of Procedure of the National Assembly that were in force before September 12, 1980, and that are not contrary to the Constitution shall apply.
 
-PROVISIONAL ARTICLE 7The  present  Council  of  Ministers  shall  continue  in office until the convening of the Grand National Assembly of Turkey and the formation of the new Council of Ministers following the first general elections.
+PROVISIONAL ARTICLE 7- The present Council of Ministers shall continue in office until the convening of the Grand National Assembly of Turkey and the formation of the new Council of Ministers following the first general elections.
 
-PROVISIONAL ARTICLE 8Laws  relating  to  the  formation,  duties,  powers  and functioning of the new organs, institutions and agencies established under the Constitution and other  laws  whose  introduction  or  amendment  is  provided  for  in  the  Constitution,  shall  be enacted during the period of Constituent Assembly, starting from the date of the adoption of the Constitution; laws that cannot be dealt with during this period shall be enacted within the year following the first session of the newly elected Grand National Assembly of Turkey.
+PROVISIONAL ARTICLE 8- Laws relating to the formation, duties, powers and functioning of the new organs, institutions and agencies established under the Constitution and other laws whose introduction or amendment is provided for in the Constitution, shall be enacted during the period of Constituent Assembly, starting from the date of the adoption of the Constitution; laws that cannot be dealt with during this period shall be enacted within the year following the first session of the newly elected Grand National Assembly of Turkey.
 
-PROVISIONAL ARTICLE 9Within a period of six years following the formation of the  Bureau  of  the  Grand  National  Assembly  of  Turkey,  which  is  to  convene  after  the  first general elections, the President of the Republic may send back to the Grand National Assembly of Turkey any constitutional amendments. In this case, the re-submission of the constitutional amendment in its  unchanged  form  to  the  President  of  the  Republic  by  the  Grand  National Assembly of Turkey is only possible with a three-fourths majority of the votes of the total number of members.
+PROVISIONAL ARTICLE 9- Within a period of six years following the formation of the Bureau of the Grand National Assembly of Turkey, which is to convene after the first general elections, the President of the Republic may send back to the Grand National Assembly of Turkey any constitutional amendments. In this case, the re-submission of the constitutional amendment in its unchanged form to the President of the Republic by the Grand National Assembly of Turkey is only possible with a three-fourths majority of the votes of the total number of members.
 
-PROVISIONAL ARTICLE 10Local elections shall be held within a year of the first session of the Grand National Assembly of Turkey.
+PROVISIONAL ARTICLE 10- Local elections shall be held within a year of the first session of the Grand National Assembly of Turkey.
 
-PROVISIONAL ARTICLE 11Regular and substitute members of the Constitutional Court who were in office on the date of the adoption of the Constitution by referendum shall continue to hold office and exercise their functions. The members previously elected by the Constitutional Court to specific offices shall retain the status thus acquired.
+PROVISIONAL ARTICLE 11- Regular and substitute members of the Constitutional Court who were in office on the date of the adoption of the Constitution by referendum shall continue to hold office and exercise their functions. The members previously elected by the Constitutional Court to specific offices shall retain the status thus acquired.
 
-No  election  shall  be  held  to  fill  the  vacant  seats  of  the  regular  members  of  the Constitutional Court until the number of these members falls to eleven, nor shall an election be held to fill the vacant seats of substitute members until the total number of regular and substitute members falls to fifteen.Until the Constitutional Court adapts to the new system, the principles and order of precedence set forth in the Constitution shall be observed in the elections which are to be held because the number of regular members has fallen below eleven, or because the total number of regular and substitute members as fallen below fifteen.
+No election shall be held to fill the vacant seats of the regular members of the Constitutional Court until the number of these members falls to eleven, nor shall an election be held to fill the vacant seats of substitute members until the total number of regular and substitute members falls to fifteen. Until the Constitutional Court adapts to the new system, the principles and order of precedence set forth in the Constitution shall be observed in the elections which are to be held because the number of regular members has fallen below eleven, or because the total number of regular and substitute members has fallen below fifteen.
 
 74
 
@@ -2281,25 +2521,25 @@ No  election  shall  be  held  to  fill  the  vacant  seats  of  the  regular  m
 
 Until the number of regular members of the Constitutional Court falls to eleven, the quorum  prescribed  by  Act  No.  44  of  April  22,  1962,  shall  be  observed  in  all  cases  and proceedings.
 
-PROVISIONAL ARTICLE 12Persons appointed by the Head of State as regular and substitute members of the High Council of Judges and Prosecutors from among the members of the High Court of Appeals and the Council of State under Provisional Article 1 of Act No. 2461  of  May  13,  1981,  on  the  High  Council  of  Judges  and  Prosecutors;  as  Chief  Public Prosecutor  and  Deputy  Chief  Public  Prosecutor  in  accordance  with  the  Provisional  Article appended to Act No. 1730 on the High Court of Appeals under Act No. 2483 of June 25, 1981; and  as  President,  Chief  Public  Prosecutor,  deputy  presidents  and  heads  of  division  of  the Council of State under Provisional Article 14, paragraph 2 of Act No. 2575 of January 6, 1982 on the Council of State shall continue to exercise their functions until the end of the term of office for which they were elected.
+PROVISIONAL ARTICLE 12- Persons appointed by the Head of State as regular and substitute members of the High Council of Judges and Prosecutors from among the members of the High Court of Appeals and the Council of State under Provisional Article 1 of Act No. 2461 of May 13, 1981, on the High Council of Judges and Prosecutors; as Chief Public Prosecutor and Deputy Chief Public Prosecutor in accordance with the Provisional Article appended to Act No. 1730 on the High Court of Appeals under Act No. 2483 of June 25, 1981; and as President, Chief Public Prosecutor, deputy presidents and heads of division of the Council of State under Provisional Article 14, paragraph 2 of Act No. 2575 of January 6, 1982 on the Council of State shall continue to exercise their functions until the end of the term of office for which they were elected.
 
 The provisions of the provisional articles of Act No. 2576 of 6 January 1982 concerning the appointment of the presidents and members of administrative courts shall also remain in force.
 
-PROVISIONAL  ARTICLE  13The  elections  of  one  regular  and  one  substitute member to be elected to the High Council of Judges and Prosecutors from among the members of the High Court of Appeals shall take place in twenty days following the entry into force of the Constitution.
+PROVISIONAL ARTICLE 13- The elections of one regular and one substitute member to be elected to the High Council of Judges and Prosecutors from among the members of the High Court of Appeals shall take place in twenty days following the entry into force of the Constitution.
 
 Until the elected members assume the office, the quorum for meetings of the Council shall be met with the participation of substitute members.
 
-PROVISIONAL ARTICLE 14The obligation of the unions to deposit their revenues in the state banks shall be fulfilled within two years of the entry into force of the Constitution, at the latest.
+PROVISIONAL ARTICLE 14- The obligation of the unions to deposit their revenues in the state banks shall be fulfilled within two years of the entry into force of the Constitution, at the latest.
 
-PROVISIONAL ARTICLE 15(Repealed on September 12, 2010; Act No. 5982)
+PROVISIONAL ARTICLE 15- (Repealed on September 12, 2010; Act No. 5982)
 
-PROVISIONAL ARTICLE 16Persons who fail to participate in the referendum on the Constitution without valid legal or actual reasons despite being entitled to vote and being included in the register of electors and the polling station register compiled for the referendum, shall neither participate nor stand for election in general elections, by-elections, local elections or referendums for a period of five years following the referendum on the Constitution.
+PROVISIONAL ARTICLE 16- Persons who fail to participate in the referendum on the Constitution without valid legal or actual reasons despite being entitled to vote and being included in the register of electors and the polling station register compiled for the referendum, shall neither participate nor stand for election in general elections, by-elections, local elections or referendums for a period of five years following the referendum on the Constitution.
 
-PROVISIONAL ARTICLE 17(Added on May 10, 2007; Act No. 5659)
+PROVISIONAL ARTICLE 17- (Added on May 10, 2007; Act No. 5659)
 
 In the first general elections held after the entry into force of this Act on the addition of a  provisional  article  to  the  Turkish  Constitution,  the  last  paragraph  of  Article  67  of  the Constitution shall not be applied to the provisions of Parliamentary Elections Act No. 2839, dated June 10, 1983, concerning the inclusion of independent candidates on joint ballot paper.
 
-PROVISIONAL ARTICLE 18 - (Added on September 12, 2010; Act No. 5982)
+PROVISIONAL ARTICLE 18- (Added on September 12, 2010; Act No. 5982)
 
 75
 
@@ -2332,6 +2572,7 @@ Following the vacancy of the positions allocated to the High Court of Appeals an
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
+Education from among members of the teaching staff in the fields of law, economics and political sciences who are not members of the Council of Higher Education.
 
 The current members, as well as substitute members elected from the quotas allocated to institutions that have nominated members for the Constitutional Court shall be taken into consideration in the final election.
 
@@ -2339,7 +2580,7 @@ The status of those who have been appointed to certain posts in the Constitution
 
 Necessary legal arrangements on individual applications shall be completed within two years. Individual applications shall be accepted as from the date of the entry into force of the implementing law.
 
-PROVISIONAL ARTICLE 19(Added on September 12, 2010; Act No. 5982)
+PROVISIONAL ARTICLE 19- (Added on September 12, 2010; Act No. 5982)
 
 The members of the High Council of Judges and Prosecutors shall be elected within thirty days as of the date of entry into force of this Act in accordance with the principles and procedures indicated below:
 
@@ -2347,7 +2588,7 @@ a)  President  of  the  Republic  shall  appoint  four  members,  for  whom  the
 
 b) The General Assembly of the High Court of Appeals shall select three regular and two substitute members from among members of the Court. The First President of the High Court of Appeals shall announce the beginning of the application process for candidacy within seven days of the entry into force of this Act. The candidates shall apply to the First Presidency within seven days of the date of the announcement. The General Assembly of the High Court of Appeals shall hold elections within fifteen days from the final date of application. In the elections, where each member of the High Court of Appeals may vote, the candidates with the greatest number of votes are elected as regular and substitute members respectively. 29
 
-c)  The  General  Assembly  of  the  Council  of  State  shall  select  one  regular  and  one substitute member from among members of the Court. The President of the Council of State shall announce the beginning of the application process for candidacy within seven days of the entry into force of this Act. The candidates shall apply to the Presidency within seven days of the  date  of  the  announcement.  The  General  Assembly  of  the  Council  of  State  shall  hold elections within fifteen days from the final date of application. In the elections, where each member of the Council of State may vote, the candidates with the greatest number of votes are elected as regular and substitute members respectively. 30
+c) The General Assembly of the Council of State shall select one regular and one substitute member from among members of the Court. The President of the Council of State shall announce the beginning of the application process for candidacy within seven days of the entry into force of this Act. The candidates shall apply to the Presidency within seven days of the date of the announcement. The General Assembly of the Council of State shall hold elections within fifteen days from the final date of application. In the elections, where each
 
 > 28 The phrase '…economics and political sciences…' following the phrase 'law,', and the phrase '…high level executives…' following the phrase 'teaching staff' in the first sentence of this sub-paragraph, and the second sentence  'The  President  of  the  Republic  shall  elect  member  of  the  Council,  to  be  elected  from  high  level executives, from among take office as minister, undersecretary to ministry, deputy undersecretary to ministry, governor, General Secretary of the Presidency, and director-general of public institutions, head of supervisory board.' were annulled by the decision of the Constitutional Court dated July 7, 2010 numbered E. 2010/49, K. 2010/87 (Official Gazette numbered 27659 of August 1, 2010).
 
@@ -2359,9 +2600,11 @@ c)  The  General  Assembly  of  the  Council  of  State  shall  select  one  reg
 
 [[START OF PAGE 77]]
 
-ç) The General Assembly of the Turkish Justice Academy shall select one regular and one  substitute  member  from  among  its  members  to  the  Supreme  Council  of  Judges  and Prosecutors. The President of the Justice Academy of Turkey shall announce the beginning of the application process for candidacy within seven days of the entry into force of this Act. The candidates shall apply to the Presidency within seven days of the date of the announcement. The General Assembly of the Justice Academy of Turkey shall hold elections within fifteen days from the final date of application. In the elections, where each member may vote, the candidates with the greatest number of votes are elected as regular and substitute members respectively. 31
+member of the Council of State may vote, the candidates with the greatest number of votes are elected as regular and substitute members respectively. 30
 
-d) Seven regular and four substitute members shall be elected by civil judges and public prosecutors under the direction and supervision of the Supreme Board of Election from among çivil  judges  and  public  prosecutors  who  are  first  category  judges  and  have  not  lost  the qualifications for being first category judges. Within five days of the date of entry into force of this Act, the Supreme Board of Election shall announce the beginning of the application process for candidacy. The candidates shall apply within three days of the date of announcement. The Supreme Board of Election shall examine the applications, finalize and announce the list of candidates within two days following the expiry of the date of application. Objections to this list may be made within the following two days. The objections shall be examined and finalized and the definitive list of candidates shall be announced within two days following the expiry of the objection period. Judges and public prosecutors working in provinces or districts shall vote in elections to be held, under the direction and supervision of the provincial election boards, in each province and district on the second Sunday following the date of announcement of the definitive list by the Supreme Board of Election. The provincial election boards shall establish ballot box committees according to the number of judges and public prosecutors that are to vote in that province. Provincial election boards shall decide on complaints and objections about proceedings,  measures,  and  decisions  of  the  ballot  box  committees.  Candidates  shall  not conduct campaigns; they may post their résumé on an internet site allocated for this purpose within  the  framework  of  the  principles  and  procedures  defined  by  the  Supreme  Board  of Election.  The  candidates  obtaining  the  greatest  number  of  votes  are  elected  as  regular  and substitute members respectively. The Supreme Board of Election shall determine other matters concerning the ballot papers. The Supreme Board of Election may have the ballot papers printed or may have these printed through provincial election boards as it may deem appropriate. In the elections to be held, the provisions of the Act No. 298, Basic Rules on Elections and Voting Registers, dated April 4, 1961, that are not in conflict with this subparagraph shall apply. 32
+ç) The General Assembly of the Turkish Justice Academy shall select one regular and one substitute member from among its members to the Supreme Council of Judges and Prosecutors. The President of the Justice Academy of Turkey shall announce the beginning of the application process for candidacy within seven days of the entry into force of this Act. The candidates shall apply to the Presidency within seven days of the date of the announcement. The General Assembly of the Justice Academy of Turkey shall hold elections within fifteen days from the final date of application. In the elections, where each member may vote, the candidates with the greatest number of votes are elected as regular and substitute members respectively. 31
+
+d) Seven regular and four substitute members shall be elected by civil judges and public prosecutors under the direction and supervision of the Supreme Board of Election from among civil judges and public prosecutors who are first category judges and have not lost the qualifications for being first category judges. Within five days of the date of entry into force of this Act, the Supreme Board of Election shall announce the beginning of the application process for candidacy. The candidates shall apply within three days of the date of announcement. The Supreme Board of Election shall examine the applications, finalize and announce the list of candidates within two days following the expiry of the date of application. Objections to this list may be made within the following two days. The objections shall be examined and finalized and the definitive list of candidates shall be announced within two days following the expiry of the objection period. Judges and public prosecutors working in provinces or districts shall vote in elections to be held, under the direction and supervision of the provincial election boards, in each province and district on the second Sunday following the date of announcement of the definitive list by the Supreme Board of Election. The provincial election boards shall establish ballot box committees according to the number of judges and public prosecutors that are to vote in that province. Provincial election boards shall decide on complaints and objections about proceedings, measures, and decisions of the ballot box committees. Candidates shall not conduct campaigns; they may post their résumé on an internet site allocated for this purpose within the framework of the principles and procedures defined by the Supreme Board of Election. The candidates obtaining the greatest number of votes are elected as regular and substitute members respectively. The Supreme Board of Election shall determine other matters concerning the ballot papers. The Supreme Board of Election may have the ballot papers printed or may have these printed through provincial election boards as it may deem appropriate. In the
 
 > 30  The phrase '…for only a member…' following the phrase 'Each member of the Council of State' in the last sentence  of  this  subparagraph  was  annulled  by  the  decision  of  the  Constitutional  Court  dated  July  7,  2010 numbered E. 2010/49, K. 2010/87 (Official Gazette numbered 27659 of August 1, 2010).
 
@@ -2373,7 +2616,9 @@ d) Seven regular and four substitute members shall be elected by civil judges an
 
 [[START OF PAGE 78]]
 
-e) Three regular and two substitute members shall be elected by civil judges and public prosecutors under the direction and supervision of the Supreme Board of Election from among civil  judges  and  public  prosecutors  who  are  first  category  judges  and  have  not  lost  the qualifications for being first category judges. In the elections, in provinces where there are regional  administrative  courts,  held  under  the  direction  and  supervision  of  the  provincial election boards, judges and public prosecutors working in these regional administrative courts and in courts subject to authority of those courts shall vote. The provisions of subparagraph (d) shall apply to these elections as well.
+elections to be held, the provisions of the Act No. 298, Basic Rules on Elections and Voting Registers, dated April 4, 1961, that are not in conflict with this subparagraph shall apply. 32
+
+e) Three regular and two substitute members shall be elected by civil judges and public prosecutors under the direction and supervision of the Supreme Board of Election from among civil judges and public prosecutors who are first category judges and have not lost the qualifications for being first category judges. In the elections, in provinces where there are regional administrative courts, held under the direction and supervision of the provincial election boards, judges and public prosecutors working in these regional administrative courts and in courts subject to authority of those courts shall vote. The provisions of subparagraph (d) shall apply to these elections as well.
 
 The  regular  members  of  the  High  Council  of  Judges  and  Prosecutors  elected  in accordance with subparagraphs (a), (ç), (d) and (e) of the first paragraph, shall begin to hold office on the working day following the date of entry into force of this Act.
 
@@ -2387,7 +2632,7 @@ Until  arrangements  are  made  in  the  relevant  laws,  the  High  Council  of
 
 a) Shall operate in the form of a board in accordance with legal provisions in force as long as they are not contrary to the provisions of the Constitution,
 
-b)  Shall  convene  under  the  presidency  of  the  Minister  of  Justice  within  one  week following the date of holding office of the regular members in accordance with the second paragraph and shall elect a temporary deputy chairperson, c)  Shall  convene  with  at  least  fifteen  members  and  take  decisions  by  the  absolute majority of the total number of members, ç) The secretariat functions shall be conducted by the Ministry of Justice.
+b) Shall convene under the presidency of the Minister of Justice within one week following the date of holding office of the regular members in accordance with the second paragraph and shall elect a temporary deputy chairperson,
 
 > 32 The  eleventh  sentence  in  the  this  subparagraph  'Each  electorate  shall  vote  for  only  one  candidate  in  this elections.' was annulled by the decision of the Constitutional Court dated July 7, 2010 numbered E. 2010/49, K. 2010/87 (Official Gazette numbered 27659 of August 1, 2010).
 
@@ -2397,23 +2642,27 @@ b)  Shall  convene  under  the  presidency  of  the  Minister  of  Justice  with
 
 [[START OF PAGE 79]]
 
-Until  inspectors  of  the  Council  and  judiciary  inspectors  are  appointed,  the  existing judiciary inspectors shall carry out their duties under the title of inspector of the Council and judiciary inspector.
+c) Shall convene with at least fifteen members and take decisions by the absolute majority of the total number of members,
+
+ç) The secretariat functions shall be conducted by the Ministry of Justice.
+
+Until inspectors of the Council and judiciary inspectors are appointed, the existing judiciary inspectors shall carry out their duties under the title of inspector of the Council and judiciary inspector.
 
 The provisions of this Article shall be applied until the necessary arrangements are made in the relevant laws.
 
-PROVISIONAL ARTICLE 20(Added on May 20, 2016; Act No. 6718)
+PROVISIONAL ARTICLE 20- (Added on May 20, 2016; Act No. 6718)
 
 The deputies about whom a file concerning the lifting of parliamentary immunity has been  submitted,  by  the  date  of  adoption  of  this  article  in  the  Grand  National  Assembly  of Turkey, to the Ministry of Justice, the Prime Ministry, the Office of the Speaker of the Grand National Assembly of Turkey or to the Office of the Joint Committee composed of the members of the Committee on the Constitution and the Committee on Justice by the authorities competent to investigate or permit investigations or prosecutions and the offices of public prosecutors and the  courts,  shall  be  exempt,  with  respect  to  such  file,  from  the  first  sentence  of  the  second paragraph of the Article 83 of the Constitution.
 
 Within fifteen days of the effective date of this article, the files concerning the lifting of parliamentary immunity at the Ministry of Justice, the Prime Ministry, the Office of the Speaker of the Grand National Assembly of Turkey, the Office of the Joint Committee composed of the members of the Committee on the Constitution and the Committee on Justice shall be returned to the competent authority for the execution of the necessary procedure.
 
-PROVISIONAL ARTICLE 21(Added on April 16, 2017; Act No. 6771)
+PROVISIONAL ARTICLE 21- (Added on April 16, 2017; Act No. 6771)
 
 A) General election for the 27th legislative term of the Grand National Assembly of Turkey and the presidential election shall be held together on 3/11/2019. Members of the Grand National Assembly of Turkey and the President of the Republic shall continue to serve until the election  is  held.  If  the  Assembly  decides  to  hold  an  election,  general  election  for  the  27th legislative term of the Grand National Assembly of Turkey and the presidential election shall be held together.
 
 B)  No  later  than  six  months  after  the  promulgation  of  this  Act,  the  Grand  National Assembly of Turkey shall adopt the Rules of Procedure and other statutory regulations required by  the  amendments  made  by  this  Act.  The  amendments  determined  to  be  regulated  by presidential decree shall be regulated by the President of the Republic no later than six months.
 
-C) According to the regulation made in the 159th article of the Constitution, members of the Council of Judges and Prosecutors shall be elected within thirty days at the latest and commence their duty on the workday following the fortieth day after the effective date of this Act. The applications shall be submitted to the Office of the Speaker within five days of the effective date of this Article. The Office of the Speaker shall refer the applications to the Joint Committee composed of the members of the Committee on the Constitution and the Committee on Justice. The Joint Committee shall designate three candidates for each membership by a twothirds majority of the total number of its members within ten days. If the election cannot be finalized by two-thirds majority in the first ballot, the second and third ballot shall be held; then the candidate who receives the votes of the three-fifth majority of the total number of members shall have been elected. If no candidate receives the vote of three-fifth majority, the process of nomination shall be completed by drawing names from among the candidates twice the number of members who have received the most votes in the third ballot. The Plenary of the Grand National Assembly of Turkey shall complete the election within fifteen days observing the same procedures  and  quorums.  The  members  of  existing  High  Council  of  Judges  and  Public Prosecutors shall continue to hold Office and work in accordance with the provisions of the laws in force until the new members assume office. From among the members whose term of office has expired and who have not been reelected to the Council of Judges and Prosecutors; those having been elected out of civil judges and prosecutors shall be elected by the Council of Judges and Prosecutors, at their request, to the membership of High Court of Appeals and those having been elected out of administrative judges and prosecutors to the membership of Council of State; those having been elected out of teaching staff and lawyers shall be appointed to the membership  of  the  Council  of  State  by  the  President  of  the  Republic.  Such  elections  and appointments shall be made irrespective of availability of vacant positions; new membership cadres by the number of members so elected or appointed shall be supplemented to the cadres of the Court of Appeals and Council of State.
+C) According to the regulation made in the 159th article of the Constitution, members of the Council of Judges and Prosecutors shall be elected within thirty days at the latest and commence their duty on the workday following the fortieth day after the effective date of this Act. The applications shall be submitted to the Office of the Speaker within five days of the effective date of this Article. The Office of the Speaker shall refer the applications to the Joint Committee composed of the members of the Committee on the Constitution and the Committee on Justice. The Joint Committee shall designate three candidates for each membership by a two-
 
 80
 
@@ -2421,7 +2670,9 @@ C) According to the regulation made in the 159th article of the Constitution, me
 
 [[START OF PAGE 80]]
 
-D)  The  members  of  the  High  Military  Court  of  Appeals  and  the  High  Military Administrative Court who have been elected to the membership of the Constitutional Court shall continue their membership until their office terminates for any reason.
+thirds majority of the total number of its members within ten days. If the election cannot be finalized by two-thirds majority in the first ballot, the second and third ballot shall be held; then the candidate who receives the votes of the three-fifth majority of the total number of members shall have been elected. If no candidate receives the vote of three-fifth majority, the process of nomination shall be completed by drawing names from among the candidates twice the number of members who have received the most votes in the third ballot. The Plenary of the Grand National Assembly of Turkey shall complete the election within fifteen days observing the same procedures and quorums. The members of existing High Council of Judges and Public Prosecutors shall continue to hold Office and work in accordance with the provisions of the laws in force until the new members assume office. From among the members whose term of office has expired and who have not been reelected to the Council of Judges and Prosecutors; those having been elected out of civil judges and prosecutors shall be elected by the Council of Judges and Prosecutors, at their request, to the membership of High Court of Appeals and those having been elected out of administrative judges and prosecutors to the membership of Council of State; those having been elected out of teaching staff and lawyers shall be appointed to the membership of the Council of State by the President of the Republic. Such elections and appointments shall be made irrespective of availability of vacant positions; new membership cadres by the number of members so elected or appointed shall be supplemented to the cadres of the Court of Appeals and Council of State.
+
+D) The members of the High Military Court of Appeals and the High Military Administrative Court who have been elected to the membership of the Constitutional Court shall continue their membership until their office terminates for any reason.
 
 E) The High Military Court of Appeals, The High Military Administrative Court and the military courts shall be abolished as of the effective date of this Act.
 
@@ -2431,7 +2682,7 @@ a)  may  be  appointed  as  judges  or  public  prosecutors  in  the  civil  or 
 
 b) Judges and prosecutors who are similar to civil or administrative judges in terms of salary,  supplementary  indicator,  appropriation,  judicial  benefit,  supplementary  payment, financial and social rights and benefits, and with respect to the other rights and obligations by continuing to apply the provisions of the legislation in force as of the effective date of this Act, shall be appointed by the Ministry of National Defense to the legal services staff of the Ministry or to the Chief of the General Staff. The procedures and principles relating to the compensation to be paid to those who are entitled to pension and quit their offices at their own will before they reach the age limit shall be regulated by law.
 
-Among the files in process at the abolished military judicial offices; those in the legal remedy stage shall be sent to the High Court of Appeals or the Council of State; and other files to the competent civil or administrative judicial authorities according to their relevance within four months.
+Among the files in process at the abolished military judicial offices; those in the legal remedy stage shall be sent to the High Court of Appeals or the Council of State; and other files
 
 81
 
@@ -2439,7 +2690,9 @@ Among the files in process at the abolished military judicial offices; those in 
 
 [[START OF PAGE 81]]
 
-F)  The  decrees  having  the  force  of  law,  regulations,  by-laws  issued  by  the  Prime Ministry and the Council of Ministers and other administrative regulations that are in force as of the effective date of this Act shall remain in force unless they are repealed. The articles 152 and 153 shall continue to be applied to the decrees having the force of law that are in force.
+to the competent civil or administrative judicial authorities according to their relevance within four months.
+
+F) The decrees having the force of law, regulations, by-laws issued by the Prime Ministry and the Council of Ministers and other administrative regulations that are in force as of the effective date of this Act shall remain in force unless they are repealed. The articles 152 and 153 shall continue to be applied to the decrees having the force of law that are in force.
 
 G) The powers granted to the Prime Minister and the Council of Ministers by laws and other regulations shall be exercised by the President of the Republic, until amendments are made to the relevant legislation.
 
@@ -2449,11 +2702,11 @@ H) The last paragraph of the Article 67 of the Constitution shall not apply to t
 
 ### I. Amending the Constitution, participation in elections and referenda
 
-ARTICLE 175(As  amended on May 17, 1987; Act No. 3361) Amendment to the Constitution shall be proposed in writing by at least one-third of the total number of members of the Grand National Assembly of Turkey. Bills to amend the Constitution shall be debated twice  in  the  Plenary.  The  adoption  of  a  bill  for  an  amendment  shall  require  a  three-fifths majority of the total number of members of the Assembly by secret ballot.
+ARTICLE 175- (As amended on May 17, 1987; Act No. 3361) Amendment to the Constitution shall be proposed in writing by at least one-third of the total number of members of the Grand National Assembly of Turkey. Bills to amend the Constitution shall be debated twice in the Plenary. The adoption of a bill for an amendment shall require a three-fifths majority of the total number of members of the Assembly by secret ballot.
 
 The consideration and adoption of bills for the amendments to the Constitution shall be subject to the provisions governing the consideration and adoption of laws, with the exception of the conditions set forth in this Article.
 
-The  President  of  the  Republc  may  send  back  the  laws  on  the  amendments  to  the Constitution to the Grand National Assembly of Turkey for reconsideration. If the Assembly readopts, by a two-thirds majority of the total number of members, the law sent back by the President of the Republic without any amendment, the President of the Republic may submit the law to referendum.
+The President of the Republic may send back the laws on the amendments to the Constitution to the Grand National Assembly of Turkey for reconsideration. If the Assembly readopts, by a two-thirds majority of the total number of members, the law sent back by the President of the Republic without any amendment, the President of the Republic may submit the law to referendum.
 
 If a law on the amendment to the Constitution is adopted by a three-fifths or less than two-thirds majority of the total number of members of the Assembly and is not sent back by the President  of  the  Republic  to  the  Assembly  for  reconsideration,  it  shall  be  published  in  the Official Gazette and be submitted to referendum.
 
@@ -2473,13 +2726,13 @@ Every measure including fines shall be taken by law to secure participation in r
 
 ### II. Preamble and headings of articles
 
-ARTICLE  176The  preamble,  which  states  the  basic  views  and  principles  the Constitution is based on, shall form an integral part of the Constitution.
+ARTICLE 176- The preamble, which states the basic views and principles the Constitution is based on, shall form an integral part of the Constitution.
 
 The headings of articles merely indicate the subject matter of the articles, their order, and the connections between them. These headings shall not be regarded as a part of the text of the Constitution.
 
 ### III. Entry into force of the Constitution
 
-ARTICLE 177On  its  adoption  by  referendum  and  its  publication  in  the  Official Gazette, this Constitution shall become the Constitution of the Republic of Turkey and shall come into force in its entirety, subject to the following exceptions and the provisions relating to entry into force of these exceptions:
+ARTICLE 177- On its adoption by referendum and its publication in the Official Gazette, this Constitution shall become the Constitution of the Republic of Turkey and shall come into force in its entirety, subject to the following exceptions and the provisions relating to entry into force of these exceptions:
 
 a) The provisions of Part Two Chapter II relating to personal liberty and security, the press and publication, and the right and freedom of assembly.
 
@@ -2511,13 +2764,13 @@ f) The provision of second paragraph of Article 164 regulating the procedure for
 
 ## Provisional Article of Act No. 4709 dated October 3, 2001
 
-PROVISIONAL ARTICLEA) The last  paragraph  added  to  the  Article  67  of  the Constitution by Article 24 of this Act shall not be implemented at the first general election to be held after this Act goes into effect.
+PROVISIONAL ARTICLE- A) The last paragraph added to the Article 67 of the Constitution by Article 24 of this Act shall not be implemented at the first general election to be held after this Act goes into effect.
 
 B) The amendments made by Article 28 of this Act to Article 87 of the Constitution shall not apply to those who perpetrate the acts described in Article 14 of the Constitution before this Act goes into effect.
 
 ## Provisional Article of Act No. 4777 dated December 27, 2002
 
-PROVISIONAL ARTICLE 1The last paragraph of Article 67 of the Constitution of the Republic of Turkey shall not be implemented in the first by-elections to be held during the 22nd term of the Grand National Assembly of Turkey.
+PROVISIONAL ARTICLE 1- The last paragraph of Article 67 of the Constitution of the Republic of Turkey shall not be implemented in the first by-elections to be held during the 22nd term of the Grand National Assembly of Turkey.
 
 84
 
