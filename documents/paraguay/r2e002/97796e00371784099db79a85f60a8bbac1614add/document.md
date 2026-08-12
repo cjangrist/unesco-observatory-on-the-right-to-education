@@ -1,84 +1,40 @@
 [[START OF PAGE 1]]
-
 # CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA Y LEYES COMPLEMENTARIAS DE PARAGUAY
-
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
-1
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-2
-
-El libro del Código de la Niñez y de la Adolescencia y Leyes Complementarias es una publicación de UNICEF en Paraguay
+El libro del Código de la Niñez
+y de la Adolescencia
+y Leyes Complementarias
+es una publicación
+de UNICEF en Paraguay
 
 © UNICEF
-
-Fondo de las Naciones Unidas para  la  Infancia
-
+Fondo de las Naciones Unidas
+para la Infancia
 Mcal. López y Saraví
-
-Tels.:  (595-21)  611  007/8
-
-Fax:  (595-21)  611  015
-
-E-mail:  asuncion@unicef.org
-
+Tels.: (595-21) 611 007/8
+Fax: (595-21) 611 015
+E-mail: asuncion@unicef.org
 Web: www.unicef.org/paraguay
 
-Diseño  Gráfico:
+Diseño Gráfico: OPENdesign!
+Telefax: (595-21) 201 285 / 207 552
+Web: www.open.com.py
 
-OPENdesign!
+Impresión: Grafitec S.A.
+Tte. 1º Martínez Ramolla 950
+Tel: (595-21) 224 229
 
-Telefax:  (595-21)  201  285  /  207  552
+Foto de Tapa: © UNICEF/Paraguay/Crespo
 
-Web:  www.open.com.py
+Fecha de Impresión: Setiembre de 2005
+Número de edición: 5ª Edición
+Tiraje: 5.000 ejemplares
+Lugar: Asunción - Paraguay
 
-Impresión:
-
-Grafitec  S.A.
-
-Tte.  1º  Martínez  Ramolla  950
-
-Tel:  (595-21)  224  229
-
-Foto de Tapa:
-
-© UNICEF/Paraguay/Crespo
-
-Fecha de Impresión:
-
-Setiembre  de  2005
-
-Número de edición:
-
-5ª Edición
-
-Tiraje:
-
-5.000  ejemplares
-
-Lugar:
-
-Asunción - Paraguay
-
-Material  de  distribución  gratuita.  Prohibida  su  venta.
-
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
+Material de distribución gratuita. Prohibida su venta.
 
 [[END OF PAGE 2]]
 
@@ -88,171 +44,654 @@ Leyes Complementarias de Paraguay
 
 ## LEY Nº 1680 CÓDIGO ... DE LA NIÑEZ Y LA ADOLESCENCIA
 
-de la
+### DISPOSICIONES GENERALES
 
-Código y la Niñez Adolescencia
+Artículo 1 .......................................... 15
+Artículo 2 .......................................... 15
+Artículo 3 .......................................... 15
+Artículo 4 .......................................... 15
+Artículo 5 .......................................... 16
+Artículo 6 .......................................... 16
+Artículo 7 .......................................... 16
+Artículo 8 .......................................... 16
 
-y
+### LIBRO 1
+...de los Derechos y Deberes
 
-Leyes Complementarias de Paraguay
+#### TÍTULO ÚNICO
 
-3
+##### CAPÍTULO 1
+ de las Obligaciones del Estado
+y de los Particulares
+
+Artículo 9 .......................................... 19
+Artículo 10 ........................................ 19
+Artículo 11 ........................................ 19
+Artículo 12 ........................................ 19
+Artículo 13 ........................................ 20
+Artículo 14 ........................................ 20
+Artículo 15 ........................................ 20
+Artículo 16 ........................................ 20
+Artículo 17 ........................................ 21
+Artículo 18 ........................................ 21
+Artículo 19 ........................................ 21
+Artículo 20 ........................................ 22
+Artículo 21 ........................................ 22
+Artículo 22 ........................................ 22
+Artículo 23 ........................................ 22
+Artículo 24 ........................................ 22
+Artículo 25 ........................................ 23
+Artículo 26 ........................................ 23
+Artículo 27 ........................................ 23
+Artículo 28 ........................................ 23
+Artículo 29 ........................................ 23
+Artículo 30 ........................................ 23
+
+##### CAPÍTULO 2
+ de la Prevención a las Transgresiones
+a los Derechos y de las Medidas
+de Protección al Niño o Adolescente
+
+Artículo 31 ........................................ 24
+Artículo 32 ........................................ 24
+Artículo 33 ........................................ 24
+Artículo 34 ........................................ 25
+Artículo 35 ........................................ 25
+Artículo 36 ........................................ 26
+
+### LIBRO 2
+...de las Políticas de Protección
+y Promoción de los Derechos
+de la Niñez y la Adolescencia
+
+#### TÍTULO PRIMERO
+ del Sistema de Protección y Promoción
+de los Derechos de la Niñez
+
+##### CAPÍTULO 1
+Disposiciones Generales
+
+Artículo 37 ........................................ 29
+Artículo 38 ........................................ 29
+Artículo 39 ........................................ 29
+Artículo 40 ........................................ 29
+Artículo 41 ........................................ 30
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-4
+##### CAPÍTULO 2
+ del Consejo Nacional de la Niñez
+y Adolescencia
 
-de la
+Artículo 42 ........................................ 30
+Artículo 43 ........................................ 31
 
-Código y la Niñez Adolescencia Artículo  81 ........................................ 43
+##### CAPÍTULO 3
+ de los Consejos Departamentales
+de la Niñez y Adolescencia
 
-y
+Artículo 44 ........................................ 31
+Artículo 45 ........................................ 32
 
-Leyes Complementarias de Paraguay
+##### CAPÍTULO 4
+ del Consejo Municipal de la Niñez
+y la Adolescencia
+
+Artículo 46 ........................................ 32
+Artículo 47 ........................................ 32
+
+##### CAPÍTULO 5
+ de las Consejerías Municipales
+por los Derechos del Niño, Niña
+y Adolescente
+
+Artículo 48 ........................................ 33
+Artículo 49 ........................................ 33
+Artículo 50 ........................................ 34
+Artículo 51 ........................................ 34
+
+#### TÍTULO SEGUNDO
+ de la Protección a los Adolescentes
+Trabajadores
+
+##### CAPÍTULO 1
+ de las Disposiciones Generales
+
+Artículo 52 ........................................ 35
+Artículo 53 ........................................ 35
+Artículo 54 ........................................ 35
+Artículo 55 ........................................ 35
+Artículo 56 ........................................ 36
+Artículo 57 ........................................ 36
+
+##### CAPÍTULO 2
+ del Adolescente Trabajador
+por cuenta ajena
+
+Artículo 58 ........................................ 36
+Artículo 59 ........................................ 36
+Artículo 60 ........................................ 37
+Artículo 61 ........................................ 37
+Artículo 62 ........................................ 37
+
+##### CAPÍTULO 3
+ del Adolescente Trabajador Doméstico
+
+Artículo 63 ........................................ 38
+Artículo 64 ........................................ 38
+Artículo 65 ........................................ 38
+Artículo 66 ........................................ 38
+Artículo 67 ........................................ 39
+Artículo 68 ........................................ 39
+
+##### CAPÍTULO 4
+ del Adolescente Trabajador
+por cuenta propia
+
+Artículo 69 ........................................ 39
+
+### LIBRO 3
+... de las Instituciones de Familia
+
+#### TÍTULO PRIMERO
+ de la Patria Potestad
+
+##### CAPÍTULO 1
+ de las Disposiciones Generales
+
+Artículo 70 ........................................ 41
+Artículo 71 ........................................ 41
+Artículo 72 ........................................ 41
+Artículo 73 ........................................ 42
+Artículo 74 ........................................ 42
+Artículo 75 ........................................ 42
+Artículo 76 ........................................ 42
+Artículo 77 ........................................ 43
+Artículo 78 ........................................ 43
+Artículo 79 ........................................ 43
+Artículo 80 ........................................ 43
+Artículo 81 ........................................ 43
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-de la
+##### CAPÍTULO 2
+ de la Administración de los Bienes
+de la Patria Potestad
 
-Código y la Niñez Adolescencia
+Artículo 82 ........................................ 44
+Artículo 83 ........................................ 44
+Artículo 84 ........................................ 44
+Artículo 85 ........................................ 44
+Artículo 86 ........................................ 45
+Artículo 87 ........................................ 45
+Artículo 88 ........................................ 45
+Artículo 89 ........................................ 45
+Artículo 90 ........................................ 45
+Artículo 91 ........................................ 46
 
-y
+##### CAPÍTULO 3
+ de la Convivencia y del Relacionamiento
 
-Leyes Complementarias de Paraguay
+Artículo 92 ........................................ 46
+Artículo 93 ........................................ 46
+Artículo 94 ........................................ 47
+Artículo 95 ........................................ 47
+Artículo 96 ........................................ 47
 
-5
+##### CAPÍTULO 4
+ de la Asistencia Alimenticia
+
+Artículo 97 ........................................ 48
+Artículo 98 ........................................ 48
+Artículo 99 ........................................ 48
+
+##### CAPÍTULO 5
+ de las Autorizaciones para viajar
+y contraer matrimonio
+
+Artículo 100 ...................................... 49
+Artículo 101 ...................................... 49
+Artículo 102 ...................................... 49
+
+#### TÍTULO SEGUNDO
+ de las Instituciones de Familia Sustituta
+
+##### CAPÍTULO 1
+ de las Disposiciones Generales
+
+Artículo 103 ...................................... 50
+Artículo 104 ...................................... 50
+Artículo 105 ...................................... 50
+
+##### CAPÍTULO 2
+ de la Guarda
+
+Artículo 106 ...................................... 51
+Artículo 107 ...................................... 51
+Artículo 108 ...................................... 51
+Artículo 109 ...................................... 51
+
+#### TÍTULO TERCERO
+ de la Tutela
+
+##### CAPÍTULO 1
+ de las Disposiciones Generales
+
+Artículo 110 ...................................... 52
+Artículo 111 ...................................... 52
+Artículo 112 ...................................... 52
+Artículo 113 ...................................... 52
+Artículo 114 ...................................... 52
+Artículo 115 ...................................... 53
+
+##### CAPÍTULO 2
+ de la Tutela otorgada por los padres
+
+Artículo 116 ...................................... 54
+Artículo 117 ...................................... 54
+Artículo 118 ...................................... 54
+Artículo 119 ...................................... 54
+
+##### CAPÍTULO 3
+ de la Tutela de parientes
+
+Artículo 120 ...................................... 55
+Artículo 121 ...................................... 55
+Artículo 122 ...................................... 55
+
+##### CAPÍTULO 4
+ de la Tutela dativa
+
+Artículo 123 ...................................... 55
+Artículo 124 ...................................... 55
+
+##### CAPÍTULO 5
+ de la Tutela especial
+
+Artículo 125 ...................................... 56
+Artículo 126 ...................................... 56
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-6
+##### CAPÍTULO 6
+ del Discernimiento de la tutela
 
-de la
+Artículo 127 ...................................... 57
+Artículo 128 ...................................... 57
+Artículo 129 ...................................... 57
+Artículo 130 ...................................... 57
+Artículo 131 ...................................... 57
 
-Código y la Niñez Adolescencia
+##### CAPÍTULO 7
+ de la Administración de los Bienes
+del Niño en la tutela
 
-y
+Artículo 132 ...................................... 58
+Artículo 133 ...................................... 58
+Artículo 134 ...................................... 58
+Artículo 135 ...................................... 58
+Artículo 136 ...................................... 58
+Artículo 137 ...................................... 58
+Artículo 138 ...................................... 59
+Artículo 139 ...................................... 59
+Artículo 140 ...................................... 59
+Artículo 141 ...................................... 59
+Artículo 142 ...................................... 60
+Artículo 143 ...................................... 60
+Artículo 144 ...................................... 60
+Artículo 145 ...................................... 61
+Artículo 146 ...................................... 61
+Artículo 147 ...................................... 61
+Artículo 148 ...................................... 61
 
-Leyes Complementarias de Paraguay
+##### CAPÍTULO 8
+ de la Conclusión y de las Cuentas
+de la tutela
+
+Artículo 149 ...................................... 62
+Artículo 150 ...................................... 62
+Artículo 151 ...................................... 62
+Artículo 152 ...................................... 62
+Artículo 153 ...................................... 62
+Artículo 154 ...................................... 63
+Artículo 155 ...................................... 63
+Artículo 156 ...................................... 63
+Artículo 157 ...................................... 63
+
+### LIBRO 4
+... de la Jurisdicción Especializada
+
+#### TÍTULO PRIMERO
+ de la Integración y Competencia
+
+##### CAPÍTULO 1
+ de los Juzgados y Tribunales
+de la Niñez y Adolescencia
+
+Artículo 158 ...................................... 65
+Artículo 159 ...................................... 65
+Artículo 160 ...................................... 65
+Artículo 161 ...................................... 65
+
+##### CAPÍTULO 2
+ de la Defensoría Especializada
+
+Artículo 162 ...................................... 66
+Artículo 163 ...................................... 66
+Artículo 164 ...................................... 67
+
+##### CAPÍTULO 3
+ de los Auxiliares Especializados
+
+Artículo 165 ...................................... 67
+Artículo 166 ...................................... 67
+
+#### TÍTULO SEGUNDO
+ del Procedimiento en la Jurisdicción
+Especializada
+
+##### CAPÍTULO 1
+ del Procedimiento general
+en la Jurisdicción de la Niñez
+y la Adolescencia
+
+Artículo 167 ...................................... 68
+Artículo 168 ...................................... 68
+Artículo 169 ...................................... 68
+Artículo 170 ...................................... 68
+Artículo 171 ...................................... 69
+Artículo 172 ...................................... 69
+Artículo 173 ...................................... 69
+Artículo 174 ...................................... 69
+Artículo 175 ...................................... 70
+Artículo 176 ...................................... 70
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-de la
+Artículo 177 ...................................... 70
+Artículo 178 ...................................... 70
+Artículo 179 ...................................... 71
+Artículo 180 ...................................... 71
+Artículo 181 ...................................... 71
+Artículo 182 ...................................... 71
 
-Código y la Niñez
+##### CAPÍTULO 2
+ del Procedimiento especial en la Acción
+de Reconocimiento, Contestación
+o Desconocimiento de la filiación
 
-#### TÍTULO SEGUNDO de las Sanciones Aplicables
+Artículo 183 ...................................... 72
+Artículo 184 ...................................... 72
 
-##### CAPÍTULO 1 del Sistema de Sanciones
+##### CAPÍTULO 3
+ del procedimiento para la fijación
+de alimentos para el Niño y la Mujer
+Grávida
 
-Artículo  196 ...................................... 78
+Artículo 185 ...................................... 72
+Artículo 186 ...................................... 72
+Artículo 187 ...................................... 73
+Artículo 188 ...................................... 73
+Artículo 189 ...................................... 73
+Artículo 190 ...................................... 73
 
-Artículo  197 ...................................... 78
+##### CAPÍTULO 4
+ del Procedimiento en caso de maltrato
 
-Artículo  198 ...................................... 78
+Artículo 191 ...................................... 74
 
-Artículo  199 ...................................... 79
+### LIBRO 5
+... de las Infracciones a la Ley Penal
 
-##### CAPÍTULO 2 de las Medidas Socioeducativas
+#### TÍTULO PRIMERO
 
-Artículo  200 ...................................... 79
+##### CAPÍTULO 1
+ de la Disposiciones Generales
 
-Artículo  201 ...................................... 80
+Artículo 192 ...................................... 77
+Artículo 193 ...................................... 77
+Artículo 194 ...................................... 77
+Artículo 195 ...................................... 77
 
-Artículo  202 ...................................... 80
+#### TÍTULO SEGUNDO
+ de las Sanciones Aplicables
 
-##### CAPÍTULO 3 de las Medidas Correccionales
+##### CAPÍTULO 1
+ del Sistema de Sanciones
 
-Artículo  203 ...................................... 80
+Artículo 196 ...................................... 78
+Artículo 197 ...................................... 78
+Artículo 198 ...................................... 78
+Artículo 199 ...................................... 79
 
-Artículo  204 ...................................... 80
+##### CAPÍTULO 2
+ de las Medidas Socioeducativas
 
-Artículo  205 ...................................... 81
+Artículo 200 ...................................... 79
+Artículo 201 ...................................... 80
+Artículo 202 ...................................... 80
 
-##### CAPÍTULO 4 de la Medida Privativa de libertad
+##### CAPÍTULO 3
+ de las Medidas Correccionales
 
-Artículo  206 ...................................... 82
+Artículo 203 ...................................... 80
+Artículo 204 ...................................... 80
+Artículo 205 ...................................... 81
 
-Artículo  207 ...................................... 82
+##### CAPÍTULO 4
+ de la Medida Privativa de libertad
 
-Artículo  208 ...................................... 82
+Artículo 206 ...................................... 82
+Artículo 207 ...................................... 82
+Artículo 208 ...................................... 82
+Artículo 209 ...................................... 83
+Artículo 210 ...................................... 83
+Artículo 211 ...................................... 84
+Artículo 212 ...................................... 84
+Artículo 213 ...................................... 84
+Artículo 214 ...................................... 84
+Artículo 215 ...................................... 85
 
-Artículo  209 ...................................... 83
+##### CAPÍTULO 5
+ de la Pluralidad de infracciones
 
-Artículo  210 ...................................... 83
-
-Artículo  211 ...................................... 84
-
-Artículo  212 ...................................... 84
-
-Artículo  213 ...................................... 84
-
-Artículo  214 ...................................... 84
-
-Artículo  215 ...................................... 85
-
-##### CAPÍTULO 5 de la Pluralidad de infracciones
-
-Artículo  216 ...................................... 85
-
-Artículo  217 ...................................... 86
-
-Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
-7
+Artículo 216 ...................................... 85
+Artículo 217 ...................................... 86
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-8
+##### CAPÍTULO 6
+ de la Revisión y Vigilancia
+de las medidas
 
-de la
+Artículo 218 ...................................... 86
+Artículo 219 ...................................... 87
+Artículo 220 ...................................... 87
+Artículo 221 ...................................... 87
 
-Código y la Niñez Adolescencia
+#### TÍTULO TERCERO
+ del Procedimiento en la Jurisdicción
+Penal de la Adolescencia
 
-y
+##### CAPÍTULO 1
+ de la Competencia e Integración
 
-Leyes Complementarias de Paraguay
+Artículo 222 ...................................... 88
+Artículo 223 ...................................... 88
+Artículo 224 ...................................... 88
+Artículo 225 ...................................... 89
+Artículo 226 ...................................... 89
+Artículo 227 ...................................... 89
+Artículo 228 ...................................... 89
+Artículo 229 ...................................... 89
+Artículo 230 ...................................... 89
+
+##### CAPÍTULO 2
+ de las Reglas especiales
+
+Artículo 231 ...................................... 90
+Artículo 232 ...................................... 90
+Artículo 233 ...................................... 90
+Artículo 234 ...................................... 91
+Artículo 235 ...................................... 91
+Artículo 236 ...................................... 91
+Artículo 237 ...................................... 91
+Artículo 238 ...................................... 92
+Artículo 239 ...................................... 92
+Artículo 240 ...................................... 92
+Artículo 241 ...................................... 92
+Artículo 242 ...................................... 93
+Artículo 243 ...................................... 93
+Artículo 244 ...................................... 93
+
+##### CAPÍTULO 3
+ de las Disposiciones relativas
+a la ejecución de las medidas
+
+Artículo 245 ...................................... 94
+Artículo 246 ...................................... 95
+Artículo 247 ...................................... 95
+Artículo 248 ...................................... 95
+
+#### TÍTULO CUARTO
+ de las Disposiciones Transitorias
+y Vigencia
+
+##### CAPÍTULO ÚNICO
+
+Artículo 249 ...................................... 96
+Artículo 250 ...................................... 96
+Artículo 251 ...................................... 97
+Artículo 252 ...................................... 97
+Artículo 253 ...................................... 97
+Artículo 254 ...................................... 97
+Artículo 255 ...................................... 97
+Artículo 256 ...................................... 98
+Artículo 257 ...................................... 98
+Artículo 258 ...................................... 98
+Artículo 259 ...................................... 98
+
+## LEY Nº 1136 ... DE ADOPCIONES
+
+##### CAPÍTULO 1
+ de las Disposiciones Generales
+
+Artículo 1 ........................................ 103
+Artículo 2 ........................................ 103
+Artículo 3 ........................................ 103
+Artículo 4 ........................................ 103
+Artículo 5 ........................................ 103
+Artículo 6 ........................................ 103
+
+##### CAPÍTULO 2
+ los Sujetos
+
+Artículo 7 ........................................ 104
+Artículo 8 ........................................ 104
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-de la
+Artículo 9 ........................................ 104
+Artículo 10 ...................................... 104
+Artículo 11 ...................................... 104
+Artículo 12 ...................................... 105
+Artículo 13 ...................................... 105
+Artículo 14 ...................................... 105
+Artículo 15 ...................................... 105
+Artículo 16 ...................................... 105
 
-Código y la Niñez Adolescencia
+##### CAPÍTULO 3
+ del Consentimiento
 
-y
+Artículo 17 ...................................... 106
+Artículo 18 ...................................... 106
+Artículo 19 ...................................... 106
+Artículo 20 ...................................... 106
 
-Leyes Complementarias de Paraguay
+##### CAPÍTULO 4
+ del Mantenimiento del Vínculo Familiar
 
-9
+Artículo 21 ...................................... 107
+Artículo 22 ...................................... 107
+Artículo 23 ...................................... 107
+Artículo 24 ...................................... 107
+
+##### CAPÍTULO 5
+Adopción Internacional
+
+Artículo 25 ...................................... 108
+Artículo 26 ...................................... 108
+Artículo 27 ...................................... 108
+
+##### CAPÍTULO 6
+Centro de Adopciones
+
+Artículo 28 ...................................... 108
+Artículo 29 ...................................... 108
+Artículo 30 ...................................... 110
+Artículo 31 ...................................... 110
+Artículo 32 ...................................... 110
+
+##### CAPÍTULO 7
+ del Procedimiento
+
+Artículo 33 ...................................... 111
+Artículo 34 ...................................... 111
+Artículo 35 ...................................... 111
+Artículo 36 ...................................... 111
+Artículo 37 ...................................... 111
+Artículo 38 ...................................... 112
+Artículo 39 ...................................... 112
+Artículo 40 ...................................... 112
+Artículo 41 ...................................... 112
+Artículo 42 ...................................... 113
+Artículo 43 ...................................... 113
+Artículo 44 ...................................... 113
+Artículo 45 ...................................... 113
+Artículo 46 ...................................... 113
+Artículo 47 ...................................... 113
+Artículo 48 ...................................... 114
+Artículo 49 ...................................... 114
+Artículo 50 ...................................... 114
+Artículo 51 ...................................... 114
+Artículo 52 ...................................... 114
+Artículo 53 ...................................... 114
+Artículo 54 ...................................... 114
+Artículo 55 ...................................... 115
+
+### DISPOSICIONES TRANSITORIAS
+
+Artículo 1 ........................................ 115
+Artículo 2 ........................................ 115
+Artículo 3 ........................................ 115
+Artículo 56 ...................................... 115
+
+## LEY Nº 2169 ... QUE ESTABLECE LA MAYORÍA DE EDAD
+
+Artículo 1 ........................................ 121
+Artículo 2 ........................................ 121
+Artículo 3 ........................................ 121
+Artículo 4 ........................................ 121
+Artículo 5 ........................................ 121
+Artículo 6 ........................................ 121
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-10
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
 
 [[END OF PAGE 10]]
 
@@ -268,13 +707,13 @@ Paraguay  ratificó  esta  Convención  en 1990 y, a partir de esa fecha, ha rea
 
 El primer paso hacia el efectivo cumplimiento de este compromiso ha sido la ley que establece un nuevo régimen jurídico para  las  adopciones  nacionales  e internacionales (Ley 1136/97).
 
-En el año 2001, con la aprobación de la Ley 1680/01 -Código la Niñez y la Adolescenciase produce uno de los cambios normativos más importantes de todo el régimen jurídico nacional.
+En el año 2001, con la aprobación de la Ley 1680/01 -Código de la Niñez y la Adolescencia- se produce uno de los cambios normativos más importantes de todo el régimen jurídico nacional.
 
 Como complemento a estas disposiciones, la Ley 2169/03 ha establecido la mayoría de edad a los 18 años, homologando los límites de edades para todas las disposiciones nacionales y poniendo en concordancia al sistema jurídico paraguayo con la propia Convención Internacional sobre los Derechos del Niño.
 
 En cumplimiento de su mandato, UNICEF ha apoyado las iniciativas nacionales para este  cambio  y  continúa  apoyando  la implementación de estas leyes.
 
-Esta 5ta. edición del Código de la Niñez y la Adolescencia -ahora con sus leyes complementarias- se inscribe dentro de los  esfuerzos  de  apoyo  a  la  difusión  e implementación de la nueva normativa y pretende ser una ayuda para las acciones que  realizan  diversas  organizaciones gubernamentales y no gubernamentales para  el  efectivo  cumplimiento  de  los derechos de niños, niñas y adolescentes.
+Esta 5ta. edición del Código de la Niñez y la Adolescencia –ahora con sus leyes complementarias– se inscribe dentro de los esfuerzos de apoyo a la difusión e implementación de la nueva normativa y pretende ser una ayuda para las acciones que realizan diversas organizaciones gubernamentales y no gubernamentales para el efectivo cumplimiento de los derechos de niños, niñas y adolescentes.
 
 UNICEF Paraguay
 
@@ -284,16 +723,6 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[START OF PAGE 12]]
 
-12
-
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
 © UNICEF Paraguay / Martín Crespo
 
 [[END OF PAGE 12]]
@@ -302,31 +731,11 @@ Leyes Complementarias de Paraguay
 
 # LEY Nº 1680 CÓDIGO ... de la Niñez y la Adolescencia
 
-y
-
-Leyes Complementarias de Paraguay
-
-de la
-
-Código y la Niñez Adolescencia
-
-13
-
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-14
-
-de la
-
-Código y la Niñez Adolescencia
-
 EL CONGRESO DE LA NACIÓN SANCIONA CON FUERZA DE LEY:
-
-y
-
-Leyes Complementarias de Paraguay
 
 [[END OF PAGE 14]]
 
@@ -348,9 +757,8 @@ Este Código establece y regula los derechos, garantías y deberes del niño y d
 
 En caso de duda sobre la edad de una persona, se presumirá cuanto sigue:
 
-- entre niño o adolescente, la condición de niño; y
-
-- entre adolescente y adulto, la condición de adolescente.
+a) entre niño o adolescente, la condición de niño; y
+b) entre adolescente y adulto, la condición de adolescente.
 
 Se entenderá por adulto la persona que haya cumplido dieciocho años y hasta alcanzar la mayoría de edad.
 
@@ -378,7 +786,9 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 Cualquier persona puede requerir a la autoridad competente que exija a los obligados principales y al Estado el cumplimiento de sus obligaciones.
 
-##### DE LA OBLIGACIÓN DE DENUNCIAR ARTÍCULO 5
+##### ARTÍCULO 5
+
+###### DE LA OBLIGACIÓN DE DENUNCIAR
 
 Toda persona que tenga conocimiento de una violación a los derechos y garantías del niño o adolescente, debe comunicarla inmediatamente a la Consejería Municipal por los Derechos del Niño, Niña y Adolescente (CODENI) o, en su defecto, al Ministerio Público o al Defensor Público.
 
@@ -392,11 +802,15 @@ Al recibir la información, la Consejería Municipal por los Derechos del Niño,
 
 Las instituciones de salud y las de educación exhibirán en lugares públicos y visibles los datos concernientes a personas o instituciones a la que podrá recurrir el niño, sus padres, tutores o responsables  en  los  casos  mencionados anteriormente.
 
-##### DEL EJERCICIO DE LOS DERECHOS ARTÍCULO 7
+##### ARTÍCULO 7
+
+###### DEL EJERCICIO DE LOS DERECHOS
 
 El ejercicio de los derechos y la efectividad de las garantías consagrados en este Código, se materializarán a través del sistema de administración de justicia especializada establecido en el presente Código.
 
-##### DEL DERECHO A LA FAMILIA ARTÍCULO 8
+##### ARTÍCULO 8
+
+###### DEL DERECHO A LA FAMILIA
 
 El niño o adolescente tiene derecho a vivir y desarrollarse en su familia, y en caso de falta o insuficiencia de recursos materiales de sus familiares, el derecho a que el Estado los provea.
 
@@ -408,31 +822,13 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[START OF PAGE 17]]
 
-de la
 
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
-17
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-18
-
 ## LIBRO 1 ... de los derechos y los deberes
-
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
 
 © UNICEF Paraguay / Martín Crespo
 
@@ -459,13 +855,10 @@ Estarán obligadas a ella el progenitor y, en ausencia de éste, aquellas person
 
 Será responsabilidad del Estado:
 
-- atender a la mujer embarazada insolvente, a la que se proveerá de alojamiento, alimentación y medicamentos necesarios;
-
-- atender a la embarazada indígena, en el marco del más amplio respeto a su cultura;
-
-- elaborar planes de atención especializada para la protección de la adolescente embarazada; y,
-
-- promover la lactancia materna.
+a) atender a la mujer embarazada insolvente, a la que se proveerá de alojamiento, alimentación y medicamentos necesarios;
+b) atender a la embarazada indígena, en el marco del más amplio respeto a su cultura;
+c) elaborar planes de atención especializada para la protección de la adolescente embarazada; y,
+d) promover la lactancia materna.
 
 La mujer embarazada será sujeto de las medidas de asistencia establecidas en este artículo, aún cuando el niño naciere muerto  o  muriese  durante  el  periodo neonatal.
 
@@ -531,7 +924,9 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 21
 
-##### DE LA INTERVENCIÓN QUIRÚRGICA ANTE EL PELIGRO DE MUERTE ARTÍCULO 17
+##### ARTÍCULO 17
+
+###### DE LA INTERVENCIÓN QUIRÚRGICA ANTE EL PELIGRO DE MUERTE
 
 Las Instituciones de Salud públicas o privadas, requerirán la correspondiente autorización de los padres, tutores o responsables  cuando  deban  hospitalizar, intervenir quirúrgicamente o aplicar los tratamientos necesarios para preservar la vida o integridad del niño o adolescente.
 
@@ -539,11 +934,15 @@ En caso de oposición del padre, la madre, los tutores o responsables por razone
 
 Excepcionalmente, cuando un niño o adolescente deba ser intervenido quirúrgicamente de urgencia por hallarse en peligro de muerte, el profesional médico estará obligado a proceder como la ciencia lo indique, debiendo comunicar esta decisión al Juez de la Niñez y la Adolescencia de manera inmediata.
 
-##### DEL DERECHO A LA IDENTIDAD ARTÍCULO 18
+##### ARTÍCULO 18
+
+###### DEL DERECHO A LA IDENTIDAD
 
 El niño y el adolescente tienen derecho a la nacionalidad paraguaya en las condiciones establecidas en la Constitución y en la Ley. Tienen igualmente derecho a un nombre que se inscribirá en los registros respectivos, a conocer y permanecer con sus padres y a promover ante la Justicia las investigaciones que sobre sus orígenes estimen necesarias.
 
-##### DE LA OBLIGATORIEDAD DEL REGISTRO DE NACIMIENTO ARTÍCULO 19
+##### ARTÍCULO 19
+
+###### DE LA OBLIGATORIEDAD DEL REGISTRO DE NACIMIENTO
 
 El Estado preservará la identidad del niño y del adolescente.
 
@@ -571,15 +970,11 @@ El niño y el adolescente tienen derecho a una educación que les garantice el d
 
 El sistema educativo garantizará al niño y al adolescente, en concordancia con lo dispuesto en la Ley General de Educación:
 
-- el  derecho  a  ser  respetado  por  sus  educadores;
-
-- el derecho de organización y participación en entidades estudiantiles;
-
-- la promoción y difusión de sus derechos;
-
-- el acceso a escuelas públicas gratuitas cercanas a su residencia; y,
-
-- el respeto a su dignidad.
+a) el derecho a ser respetado por sus educadores;
+b) el derecho de organización y participación en entidades estudiantiles;
+c) la promoción y difusión de sus derechos;
+d) el acceso a escuelas públicas gratuitas cercanas a su residencia; y,
+e) el respeto a su dignidad.
 
 ##### ARTÍCULO 22
 
@@ -635,7 +1030,9 @@ Las autoridades y funcionarios que intervengan en la investigación y decisión 
 
 El niño o adolescente, sus padres, tutores, representantes legales, los defensores, así como las instituciones debidamente acreditadas que realicen investigaciones con fines científicos y quienes demuestren tener interés legítimo, tendrán acceso a las actuaciones y expedientes relativos al niño o adolescente, debiéndose resguardar su identidad cuando corresponda.
 
-##### DE LA PROHIBICIÓN DE LA PUBLICACIÓN ARTÍCULO 29
+##### ARTÍCULO 29
+
+###### DE LA PROHIBICIÓN DE LA PUBLICACIÓN
 
 Queda prohibido publicar por la prensa escrita,  radial, televisiva o por cualquier otro medio de comunicación, los nombres, las fotografías o los datos que posibiliten identificar al niño o adolescente, víctima o supuesto autor de hechos punibles. Los que infrinjan esta prohibición serán sancionados según las previsiones de la ley penal.
 
@@ -671,17 +1068,12 @@ La consideración de las circunstancias prohibidas por este artículo se hará e
 
 Se prohíbe la venta o suministro al niño o adolescente de:
 
-- armas, municiones y explosivos;
-
-- bebidas alcohólicas, tabaco y otros productos  cuyos  componentes puedan causar dependencia física o psíquica aun cuando sea por utilización indebida;
-
-- fuegos de estampido o de artificio;
-
-- revistas y materiales pornográficos;
-
-- video juegos clasificados como nocivos para su desarrollo integral; y,
-
-- internet libre o no filtrado.
+a) armas, municiones y explosivos;
+b) bebidas alcohólicas, tabaco y otros productos cuyos componentes puedan causar dependencia física o psíquica aun cuando sea por utilización indebida;
+c) fuegos de estampido o de artificio;
+d) revistas y materiales pornográficos;
+e) video juegos clasificados como nocivos para su desarrollo integral; y,
+f) internet libre o no filtrado.
 
 Este deberá estar protegido por mecanismos de seguridad cuyo control estará a cargo de la Consejería Municipal por los Derechos del Niño, Niña y Adolescente (CODENI).
 
@@ -691,7 +1083,7 @@ Este deberá estar protegido por mecanismos de seguridad cuyo control estará a 
 
 Queda prohibido el ingreso de niños o adolescentes a casas de juego.
 
-Queda prohibida la exhibición en locales habilitados para niños o adolescentes de videos  que  inciten  a  cometer  actos tipificados  como  hechos  punibles  en  el Código Penal.
+Queda prohibida la exhibición en locales habilitados para niños o adolescentes de videos que inciten a cometer actos
 
 Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
@@ -701,6 +1093,8 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 25
 
+tipificados como hechos punibles en el Código Penal.
+
 La Consejería Municipal por los Derechos del Niño, Niño y Adolescente (CODENI) deberá establecer un sistema de clasificación de los locales afectados por este artículo y ejercerá sobre los mismos el control respectivo a dicho efecto.
 
 ##### ARTÍCULO 34
@@ -709,23 +1103,15 @@ La Consejería Municipal por los Derechos del Niño, Niño y Adolescente (CODENI
 
 Cuando el niño o el adolescente se encuentre en situaciones que señalan la necesidad de protección o apoyo, se aplicarán las siguientes medidas de protección y apoyo:
 
-- la advertencia al padre, a la madre, al tutor o  responsable;
-
-- la orientación al niño o adolescente y a su grupo familiar;
-
-- el acompañamiento temporario al niño o adolescente y a su grupo familiar;
-
-- la incorporación del niño en un establecimiento de educación escolar básica y la obligación de asistencia;
-
-- el tratamiento médico y psicológico;
-
-- en caso de emergencia, la provisión material para el  sostenimiento  del niño o adolescente;
-
-- el abrigo;
-
-- la ubicación del niño o adolescente en una familia sustituta; e,
-
-- la ubicación del niño o adolescente en un hogar.
+a) la advertencia al padre, a la madre, al tutor o responsable;
+b) la orientación al niño o adolescente y a su grupo familiar;
+c) el acompañamiento temporario al niño o adolescente y a su grupo familiar;
+d) la incorporación del niño en un establecimiento de educación escolar básica y la obligación de asistencia;
+e) el tratamiento médico y psicológico;
+f) en caso de emergencia, la provisión material para el sostenimiento del niño o adolescente;
+g) el abrigo;
+h) la ubicación del niño o adolescente en una familia sustituta; e,
+i) la ubicación del niño o adolescente en un hogar.
 
 Las medidas de protección y apoyo señaladas en este artículo pueden ser ordenadas separada o conjuntamente. Además, pueden ser cambiadas o sustituidas, si el bien del niño o adolescente lo requiere.
 
@@ -759,31 +1145,11 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[START OF PAGE 27]]
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
-27
-
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-28
-
 ## LIBRO 2 ... de las Políticas de Protección y Promoción de los Derechos de la Niñez y la Adolescencia
-
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
 
 © UNICEF Paraguay / Martín Crespo
 
@@ -1287,23 +1653,15 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[START OF PAGE 40]]
 
-40
-
 ## LIBRO 3 ... de las Instituciones de Familia
-
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
 
 © UNICEF Paraguay / Martín Crespo
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+
+41
 
 ### TÍTULO PRIMERO de la Patria Potestad
 
@@ -1354,8 +1712,6 @@ Se suspenderá por declaración judicial el ejercicio de la patria potestad en l
 - por hallarse el padre o la madre cumpliendo pena de prisión;
 
 - por incumplimiento de sus deberes
-
-41
 
 Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
@@ -1957,9 +2313,7 @@ El Juez deberá nombrar tutores especiales cuando:
 
 - el niño o adolescente adquiera bienes con la cláusula de ser administrados por otra persona o de no ser administrados por su tutor;
 
-- tuviese bienes fuera de la jurisdicción del Juez de la Tutela, que no
-
-- podrán ser convenientemente administrados por el tutor; y,
+- tuviese bienes fuera de la jurisdicción del Juez de la Tutela, que no podrán ser convenientemente administrados por el tutor; y,
 
 - se tratase de negocios o de materias que exijan conocimientos especiales, o una administración distinta.
 
@@ -2281,14 +2635,6 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 ## LIBRO 4 ... de la Jurisdicción Especializada
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
 © UNICEF Paraguay / Martín Crespo
 
 [[END OF PAGE 64]]
@@ -2519,11 +2865,9 @@ Iniciada la audiencia, previamente el Juez procurará avenir a los interesados e
 
 Si no se llegase a una conciliación, las partes ofrecerán sus pruebas en la misma, y el Juez podrá:
 
-a)
+- declarar la cuestión de puro derecho;
 
-- b)
-
-declarar la cuestión de puro derecho; abrir la causa a prueba;
+- abrir la causa a prueba;
 
 Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
@@ -2533,7 +2877,9 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 70
 
-c) ordenar medidas de mejor proveer; y, d) ordenar medidas cautelares de protección.
+- ordenar medidas de mejor proveer; y,
+
+- ordenar medidas cautelares de protección.
 
 El Juez podrá rechazar las pruebas que sean  notoriamente  impertinentes,  o inconducentes al caso. Asimismo, el Juez ordenará de oficio la producción de otras pruebas que considere necesarias.
 
@@ -2573,7 +2919,7 @@ Dispuesta la apertura de la causa a prueba, el Juez ordenará el diligenciamient
 
 ###### DE LA AUDIENCIA DE PRUEBAS
 
-Las audiencias de sustanciación de pruebas serán continuas y recibidas personalmente por el Juez bajo pena de nulidad y se  llevarán  a  cabo  con  la  parte  que compareciere por sí o por apoderado. Las pruebas serán producidas primeramente por la parte actora y luego por la parte demandada. No siendo posible producir todas las pruebas en un mismo día, el Juez puede prorrogarla para el día siguiente hábil y así sucesivamente hasta que se hayan producido íntegramente, sin necesidad de otra citación que la que se hará en el acto. Concluidas las mismas, se escucharán los alegatos de las partes por su orden. Culminados los alegatos, el Juez llamará autos para sentencia.
+Las audiencias de sustanciación de pruebas serán continuas y recibidas personalmente por el Juez bajo pena de nulidad y se llevarán a cabo con la parte que compareciere por sí o por apoderado. Las pruebas serán producidas primeramente por la parte actora y luego por la parte demandada. No siendo posible producir todas las pruebas en un mismo día, el Juez puede prorrogarla para el día siguiente hábil y así sucesivamente hasta que se hayan producido íntegramente, sin necesi-
 
 Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
@@ -2582,6 +2928,8 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 [[START OF PAGE 71]]
 
 71
+
+dad de otra citación que la que se hará en el acto. Concluidas las mismas, se escucharán los alegatos de las partes por su orden. Culminados los alegatos, el Juez llamará autos para sentencia.
 
 ##### ARTÍCULO 179
 
@@ -2717,15 +3065,9 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[START OF PAGE 75]]
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
 75
+
+## LIBRO 5 ... de las Infracciones a la Ley Penal
 
 [[END OF PAGE 75]]
 
@@ -2735,13 +3077,7 @@ Leyes Complementarias de Paraguay
 
 ## LIBRO 5 ... de las Infracciones a la Ley Penal
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 © UNICEF Paraguay / Martín Crespo
 
@@ -2877,7 +3213,9 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 - abstenerse de concurrir a determinados lugares o lugares exclusivos para mayores de edad;
 
-- asistir a cursos de conducción; y, l) someterse, con acuerdo del titular de la patria potestad o del tutor, en su caso, a un tratamiento médico social por un especialista o un programa de desintoxicación.
+- asistir a cursos de conducción; y,
+
+- someterse, con acuerdo del titular de la patria potestad o del tutor, en su caso, a un tratamiento médico social por un especialista o un programa de desintoxicación.
 
 ##### ARTÍCULO 201
 
@@ -2913,7 +3251,7 @@ Las medidas correccionales no tendrán los efectos de una condena a una pena, en
 
 ###### DE LA AMONESTACIÓN
 
-La amonestación es la llamada de atención que el Juez dirige oralmente y en forma clara y comprensible al adolescente, con  el  fin  de  hacerle  consciente  de  la reprochabilidad de su conducta y su obligación de acogerse a las normas de trato familiar y convivencia social.
+La amonestación es la llamada de atención que el Juez dirige oralmente y en forma clara y comprensible al adolescente,
 
 Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
@@ -2922,6 +3260,8 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 [[START OF PAGE 81]]
 
 81
+
+con el fin de hacerle consciente de la reprochabilidad de su conducta y su obligación de acogerse a las normas de trato familiar y convivencia social.
 
 Cuando corresponda, el Juez invitará al acto a los padres, tutores o responsables y les proporcionará informaciones y sugerencias acerca de su colaboración en la prevención de futuras conductas punibles.
 
@@ -2965,7 +3305,7 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 ###### DE LA NATURALEZA DE LA MEDIDA PRIVATIVA DE LIBERTAD
 
-La medida privativa de libertad consiste en la internac ión del adolescente en un establecimiento especial, destinado a fomentar su educación y su adaptación a una vida sin delinquir.
+La medida privativa de libertad consiste en la internación del adolescente en un establecimiento especial, destinado a fomentar su educación y su adaptación a una vida sin delinquir.
 
 La medida será decretada solo cuando:
 
@@ -3081,7 +3421,7 @@ Durante el período de prueba el adolescente será sometido a un asesor de prueb
 
 ###### DE LA APLICACIÓN Y DE LA EXTINCIÓN DE LA MEDIDA
 
-Cuando, en especial por la conducta mala del  adolescente  durante  el  período  de prueba se demuestre que el hecho señalado en el veredicto sea vinculado con tendencias nocivas de tal grado que la medida sea necesaria, el Juez ordenará su aplicación para el plazo que hubiera determinado teniendo al tiempo del veredicto la seguridad sobre la existencia de estas tendencias.
+Cuando, en especial por la conducta mala del adolescente durante el período de prueba se demuestre que el hecho seña-
 
 Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
@@ -3090,6 +3430,8 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 [[START OF PAGE 85]]
 
 85
+
+lado en el veredicto sea vinculado con tendencias nocivas de tal grado que la medida sea necesaria, el Juez ordenará su aplicación para el plazo que hubiera determinado teniendo al tiempo del veredicto la seguridad sobre la existencia de estas tendencias.
 
 Cuando al final del período de prueba no se dieren los presupuestos señalados en el párrafo anterior, la medida se tendrá por extinguida.
 
@@ -3105,13 +3447,13 @@ La medida privativa de libertad se ejecutará de acuerdo con las necesidades y p
 
 ###### DE LA PLURALIDAD DE HECHOS PUNIBLES
 
-Aunque el adolescente haya realizado varios hechos punibles, el Juez los sancionará en forma unitaria, combinando, en su caso, las distintas medidas socioeducativas, correcionales o privativas de libertad procedentes, con el fin de procurar el mejor tratamiento posible. No se podrán exceder los límites máximos de la medida privativa de libertad, prevista en este Código.
+Aunque el adolescente haya realizado varios hechos punibles, el Juez los sancionará en forma unitaria, combinando, en su caso, las distintas medidas socioeducativas, correccionales o privativas de libertad procedentes, con el fin de procurar el mejor tratamiento posible. No se podrán exceder los límites máximos de la medida privativa de libertad, prevista en este Código.
 
 Cuando con anterioridad y con sentencia firme:
 
 - haya sido emitido un veredicto de reprochabilidad; o,
 
-- se  haya  decretado  una  medida soecioeducativa, la imposición de una obligación o una medida privativa de libertad todavía no plenamente ejecutada o de otra manera terminada, el Juez, incorporando la sentencia anterior, también determinará las medidas aplicables en forma unitaria.
+- se haya decretado una medida socioeducativa, la imposición de una obligación o una medida privativa de libertad todavía no plenamente ejecutada o de otra manera terminada, el Juez, incorporando la sentencia anterior, también determinará las medidas aplicables en forma unitaria.
 
 En caso de ser recomendable por razones educativas, el Juez podrá prescindir de incorporar  en  la  nueva  sentencia  hechos punibles anteriormente juzgados.
 
@@ -3217,9 +3559,7 @@ La Corte Suprema de Justicia tiene competencia para:
 
 El Tribunal de Apelación Penal de la Adolescencia será competente para:
 
-- conocer en segunda instancia de los recursos que se interpusiesen, con-
-
-forme al Código Procesal Penal;
+- conocer en segunda instancia de los recursos que se interpusiesen, conforme al Código Procesal Penal;
 
 - resolver las recusaciones que se interpongan y las cuestiones de competencia que se presenten dentro del proceso regulado por este Código; y,
 
@@ -3313,7 +3653,7 @@ El Juzgado Penal de la Adolescencia podrá ordenar la internación transitoria d
 
 ###### DE LA PRISIÓN PREVENTIVA
 
-La prisión privativa de un adolescente podrá ser decretada solo cuando con las medidas provisorias previstas en el Artículo 232, primer párrafo, de este Código no sea posible lograr su finalidad. Al considerar la proporcionalidad de la medida, se tendrá en cuenta la carga emocional que la ejecución de la misma implica para el adolescente. En caso de decretar la prisión preventiva, la orden debe manifestar expresamente las razones por las cuales otras medidas, en especial la internación transitoria en un hogar, no son suficientes y la prisión preventiva no es desproporcionada.
+La prisión preventiva de un adolescente podrá ser decretada solo cuando con las medidas provisorias previstas en el Artículo 232, primer párrafo, de este Código no sea posible lograr su finalidad. Al considerar la proporcionalidad de la medida, se tendrá en cuenta la carga emocional que la ejecución de la misma implica para el adolescente. En caso de decretar la prisión preventiva, la orden debe manifestar expresamente las razones por las cuales otras medidas, en especial la internación transitoria en un hogar, no son suficientes y la prisión preventiva no es desproporcionada.
 
 En caso de que el adolescente no haya cumplido diez y seis años, la prisión preventiva podrá ser decretada por peligro de fuga, solo cuando éste:
 
@@ -3359,7 +3699,7 @@ Si fuese menor de catorce años, cesará el procedimiento y deberá informarse i
 
 ###### DE LA PRÓRROGA ESPECIAL DE COMPETENCIA
 
-Si la persona a quien se le imputa un hecho punible realizado durante la adolescencia, fuera procesada después de haber cumplido dieciocho años de edad, pero antes de alcanzar los veinte años de edad, se prorrogará la competencia del Juzgado Penal de la Adolescencia hasta completar el  proceso,  siempre  que  no  hubiera prescripto la acción correspondiente.
+Si la persona a quien se le imputa un hecho punible realizado durante la adolescencia, fuera procesada después de haber cumplido dieciocho años de edad, pero antes de alcanzar los veinte años de edad, se prorrogará la competencia del Juzgado Penal de la Adolescencia hasta completar
 
 Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
@@ -3368,6 +3708,8 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 [[START OF PAGE 92]]
 
 92
+
+el proceso, siempre que no hubiera prescripto la acción correspondiente.
 
 En el caso previsto en el párrafo anterior, si el imputado tuviese veinte años de edad o más, la competencia corresponderá al fuero penal común, siéndole aplicables las disposiciones penales generales, salvo en lo relativo a la duración de la pena, que se regirá por lo establecido en este Código.
 
@@ -3527,9 +3869,7 @@ Al entrar en vigencia la presente ley, los Tribunales y la Corte Suprema de Just
 
 - Los procesos instruidos o resueltos, de menores en estado de abandono material o moral, peligro o riesgo y demás actuaciones relacionados con dichos estados o cualquier otro hecho no regulado como delito o crimen, deberán ser remitidos dentro de un plazo que no exceda de treinta días a la Secretaría Nacional de la Niñez y la Adolescencia;
 
-- Los  procesos en trámite, con base en hechos regulados como delito o crimen, contra adolescentes que al momento de la comisión del hecho, su edad estuviere comprendida entre  los  catorce  y  dieciocho  años, continuarán tramitándose conforme a lo dispuesto en la presente ley y se resolverán de acuerdo a la misma; y si fuere el caso, se solicitará la investigación o la ampliación de
-
-- ésta, a la Fiscalía General del Estado, o se citará a audiencia preparatoria para el juicio de la causa, la que deberá celebrarse en un término que no exceda de sesenta días. Los procesos concluidos respecto de estos adolescentes serán revisados cuando la medida se estuviere cumpliendo, para adecuarlas a la presente ley, dentro del término previsto para la revisión de las medidas; y,
+- Los procesos en trámite, con base en hechos regulados como delito o crimen, contra adolescentes que al momento de la comisión del hecho, su edad estuviere comprendida entre los catorce y dieciocho años, continuarán tramitándose conforme a lo dispuesto en la presente ley y se resolverán de acuerdo a la misma; y si fuere el caso, se solicitará la investigación o la ampliación de ésta, a la Fiscalía General del Estado, o se citará a audiencia preparatoria para el juicio de la causa, la que deberá celebrarse en un término que no exceda de sesenta días. Los procesos concluidos respecto de estos adolescentes serán revisados cuando la medida se estuviere cumpliendo, para adecuarlas a la presente ley, dentro del término previsto para la revisión de las medidas; y,
 
 - Los procesos penales con sentencia condenatoria ejecutoriada, y en cumplimiento de la pena, dictados por  el  Juzgado,  serán  revisados respecto de la sentencia, para aplicar las penas o medidas establecidas en la presente ley que sean más favorables al condenado.
 
@@ -3619,15 +3959,9 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[START OF PAGE 99]]
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
 99
+
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[END OF PAGE 99]]
 
@@ -3635,13 +3969,7 @@ Leyes Complementarias de Paraguay
 
 100
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 © UNICEF Paraguay / Martín Crespo
 
@@ -3649,17 +3977,11 @@ Leyes Complementarias de Paraguay
 
 [[START OF PAGE 101]]
 
-## LEY Nº 1136 ... de adopciones
-
-y
-
-Leyes Complementarias de Paraguay
-
-de la
-
-Código y la Niñez Adolescencia
-
 101
+
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
+
+## LEY Nº 1136 ... de adopciones
 
 [[END OF PAGE 101]]
 
@@ -3667,15 +3989,9 @@ Código y la Niñez Adolescencia
 
 102
 
-de la
-
-Código y la Niñez Adolescencia
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 EL CONGRESO DE LA NACIÓN SANCIONA CON FUERZA DE LEY:
-
-y
-
-Leyes Complementarias de Paraguay
 
 [[END OF PAGE 102]]
 
@@ -3821,7 +4137,9 @@ Deberán prestar su consentimiento:
 
 - los padres biológicos del niño que lleva más de dos años acogido bajo tutela o guarda del adoptante;
 
-- el  niño  desde  los  doce  años  de  edad,  y d) los adoptantes.
+- el niño desde los doce años de edad, y
+
+- los adoptantes.
 
 ##### ARTÍCULO 19
 
@@ -3933,9 +4251,7 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 - llevar  el  registro  de  adopciones nacionales e internacionales;
 
-- realizar el seguimiento de las adopciones. Dentro del país podrá hacerlo con la colaboración de instituciones  gubernamentales  y  no
-
-- gubernamentales  debidamente acreditadas para ese fin, y en el exterior, deberá hacerlo a través de las autoridades centrales de los países de recepción y sus organismos acreditados;
+- realizar el seguimiento de las adopciones. Dentro del país podrá hacerlo con la colaboración de instituciones gubernamentales y no gubernamentales debidamente acreditadas para ese fin, y en el exterior, deberá hacerlo a través de las autoridades centrales de los países de recepción y sus organismos acreditados;
 
 - tomar todas las medidas a su alcance necesarias para impedir el beneficio económico indebido en casos de adopción y para prevenir el secuestro, venta y comercio de niños;
 
@@ -4047,7 +4363,7 @@ El Centro de Adopciones reglamentará los siguientes  aspectos  del  procedimien
 
 ##### ARTÍCULO 37
 
-La declaración de adopción del niño o adolescente por el juez deberá ser comunicada al Centro de Adopciones, acompañando toda la documentación e información pertinente. Recibida esta comunicación, el Centro de Adopciones arbitrará las medidas necesarias para seleccionar a los posibles adoptantes.
+La declaración de adopción del niño o adolescente por el juez deberá ser comunicada al Centro de Adopciones, acompañando toda la documentación e información pertinente. Recibida esta comunicación, el Centro de Adopciones arbitrará las medi-
 
 Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
@@ -4056,6 +4372,8 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 [[START OF PAGE 112]]
 
 112
+
+das necesarias para seleccionar a los posibles adoptantes.
 
 ##### ARTÍCULO 38
 
@@ -4139,7 +4457,7 @@ Si hubiera pruebas a producir, se abrirá la causa a prueba por un término pere
 
 En la misma sentencia que otorgue la adopción, el juez fijará el seguimiento, que durará tres años y será realizado por el Centro de Adopciones.
 
-En caso de adopciones internacionales, el seguimiento se realizará a través de las autoridades centrales de los respectivos países de recepción.
+En caso de adopciones internacionales, el
 
 Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
@@ -4148,6 +4466,8 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 [[START OF PAGE 114]]
 
 114
+
+seguimiento se realizará a través de las autoridades centrales de los respectivos países de recepción.
 
 El juez se cerciorará en todos los casos que la adopción no sea utilizada con fines de lucro indebido.
 
@@ -4245,15 +4565,9 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[START OF PAGE 117]]
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
 117
+
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[END OF PAGE 117]]
 
@@ -4261,13 +4575,7 @@ Leyes Complementarias de Paraguay
 
 118
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 © UNICEF Paraguay / Martín Crespo
 
@@ -4275,19 +4583,11 @@ Leyes Complementarias de Paraguay
 
 [[START OF PAGE 119]]
 
-## LEY Nº 2169 ... que establece la mayoría de edad
-
-Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
-de la
-
-Código y la Niñez
-
 119
+
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
+
+## LEY Nº 2169 ... que establece la mayoría de edad
 
 [[END OF PAGE 119]]
 
@@ -4295,15 +4595,9 @@ Código y la Niñez
 
 120
 
-de la
-
-Código y la Niñez Adolescencia
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 EL CONGRESO DE LA NACIÓN SANCIONA CON FUERZA DE LEY:
-
-y
-
-Leyes Complementarias de Paraguay
 
 [[END OF PAGE 120]]
 
@@ -4313,35 +4607,35 @@ Leyes Complementarias de Paraguay
 
 ##### ARTÍCULO 1
 
-Modifícase el  Artículo  36  de  la  Ley  Nº 1183/85 'Código Civil',  el  cual  queda redactado de la siguiente manera:
+Modifícase el Artículo 36 de la Ley Nº 1183/85 “Código Civil”, el cual queda redactado de la siguiente manera:
 
-'Art. 36. - La capacidad de hecho consiste en la aptitud legal de ejercer uno por sí mismo o por si solo sus derechos. Este Código reputa plenamente capaz a todo ser humano que haya cumplido dieciocho años de edad y no haya sido declarado incapaz judicialmente'.
+“Art. 36.- La capacidad de hecho consiste en la aptitud legal de ejercer uno por sí mismo o por si solo sus derechos. Este Código reputa plenamente capaz a todo ser humano que haya cumplido dieciocho años de edad y no haya sido declarado incapaz judicialmente”.
 
 ##### ARTÍCULO 2
 
-Deróganse el inciso a) del artículo 39 de la Ley Nº 1183/85 'Código Civil' y el artículo 7º de la Ley Nº 1034/83 'Del Comerciante'.
+Deróganse el inciso a) del artículo 39 de la Ley Nº 1183/85 “Código Civil” y el artículo 7º de la Ley Nº 1034/83 “Del Comerciante”.
 
 ##### ARTÍCULO 3
 
 Modifícase  el  artículo  1º  de  la  Ley  Nº 1702/01, el cual queda redactado de la siguiente manera:
 
-'Art. 1º A los efectos de la interpretación y aplicación de la normas relativas a la niñez y a la adolescencia, establécese el alcance de los siguientes términos:
+“Art. 1º A los efectos de la interpretación y aplicación de la normas relativas a la niñez y a la adolescencia, establécese el alcance de los siguientes términos:
 
-- Niño : toda persona humana desde la concepción hasta los trece años de edad;
+- Niño: toda persona humana desde la concepción hasta los trece años de edad;
 
 - Adolescente: toda persona humana desde los catorce años hasta los diecisiete años de edad; y,
 
-- Mayor de edad: toda persona humana desde los dieciocho años de edad'.
+- Mayor de edad: toda persona humana desde los dieciocho años de edad”.
 
 ##### ARTÍCULO 4
 
-Modifícase el artículo 2º de la Ley Nº 1680/ 01 'Código de la Niñez y la Adolescencia' el cual queda redactado de la siguiente manera:
+Modifícase el artículo 2º de la Ley Nº 1680/01 “Código de la Niñez y la Adolescencia” el cual queda redactado de la siguiente manera:
 
-'Art. 2º En caso de duda sobre la edad de una persona, se presumirá cuanto sigue:
+“Art. 2º En caso de duda sobre la edad de una persona, se presumirá cuanto sigue:
 
 - entre niño y adolescente, la condición de niño; y,
 
-- entre adolescente y mayor de edad la condición de adolescente'.
+- entre adolescente y mayor de edad la condición de adolescente”.
 
 ##### ARTÍCULO 5
 
@@ -4375,15 +4669,9 @@ Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[START OF PAGE 123]]
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
-
 123
+
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[END OF PAGE 123]]
 
@@ -4391,12 +4679,6 @@ Leyes Complementarias de Paraguay
 
 124
 
-de la
-
-Código y la Niñez Adolescencia
-
-y
-
-Leyes Complementarias de Paraguay
+Código de la Niñez y la Adolescencia y Leyes Complementarias de Paraguay
 
 [[END OF PAGE 124]]
