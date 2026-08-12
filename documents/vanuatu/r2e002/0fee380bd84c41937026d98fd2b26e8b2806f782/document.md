@@ -24,19 +24,92 @@ January 2004
 
 [[START OF PAGE 3]]
 
+Republic of Vanuatu
+
+N
+
+Torres Is.
+Vanua Lava
+Mota
+TORBA PROVINCE
+Gaua
+Espiritu Santo
+SANMA PROVINCE
+Malo
+Ambae
+Maewo
+PENAMA PROVINCE
+Pentecost
+Malekula
+MALAMPA PROVINCE
+Ambrym
+Paama
+Epi
+Tongoa
+Emae
+SHEFA PROVINCE
+Efate
+Erromango
+TAFEA PROVINCE
+Tanna
+Aneityum
+
+0    50    100
+kilometers
+
+Northern Mariana Islands
+Marshall Islands
+Palau
+Guam
+Federated States of Micronesia
+Kiribati
+Indonesia
+Papua New Guinea
+Nauru
+Solomon Island
+Tuvalu
+Wallis
+Futuna
+Samoa
+Vanuatu
+Fiji
+Australia
+New Caledonia
+Tonga
+Niue
+Norfolk
+New Zealand
+
+Source: Vanuatu National Statistics Office
+
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+## CONTENTS
+
 Endorsement Letter
 
-INTRODUCTION Brief History of EFA Vanuatu National EFA Forum SETTING NATIONAL PLAN OF ACTION International integration Regional integration National Integration Human Rights EDUCATION BUDGET AND AID THE PRESENTATION OF THE EFA GOALS EFA Goal 1 EFA Goal 2 EFA Goal 3A EFA Goal 3B EFA Goal 4 EFA Goal 5
-
+INTRODUCTION
+Brief History of EFA
+Vanuatu National EFA Forum
+SETTING
+NATIONAL PLAN OF ACTION
+International integration
+Regional integration
+National Integration
+Human Rights
+EDUCATION BUDGET AND AID
+THE PRESENTATION OF THE EFA GOALS
+EFA Goal 1
+EFA Goal 2
+EFA Goal 3A
+EFA Goal 3B
+EFA Goal 4
+EFA Goal 5
 APPENDICES
-
-## CONTENTS
 
 4
 
@@ -62,17 +135,17 @@ The Asia Pacific Conference on EFA in Dakar, Senegal in April 2000 reaffirms our
 
 They are global objectives to which Vanuatu is firmly committed, but which must be adapted to suit the particular needs of education in Vanuatu. In 2001 the Ministry of Education appoints the first EFA forum, which the nominations were later reviewed in 2003 purposely;
 
-- To ensure that the EFA goals of Dakar are met
+1. To ensure that the EFA goals of Dakar are met
 
-- To  shape  the  development  of  government  plans,  policies  and  strategies,  especially  in  the education sector, but also in other sectors so that the goals and priorities of EFA are given due emphasis
+2. To shape the development of government plans, policies and strategies, especially in the education sector, but also in other sectors so that the goals and priorities of EFA are given due emphasis
 
-- To promote and develop effective relations of partnership by means of dialogue, collaboration and coordination
+3. To promote and develop effective relations of partnership by means of dialogue, collaboration and coordination
 
-- To harness the forces of partnership to ensure that all EFA-related planning is as effective and efficient as possible
+4. To harness the forces of partnership to ensure that all EFA-related planning is as effective and efficient as possible
 
-- To  monitor  and  report  regularly  on  national  EFA  activities  and  to  prepare  strategies  to improve performance where progress towards EFA is slow or to address new or deepening problems of access, equity or quality, and
+5. To monitor and report regularly on national EFA activities and to prepare strategies to improve performance where progress towards EFA is slow or to address new or deepening problems of access, equity or quality, and
 
-- To foster increased and sustained commitment among all partners and stakeholders, and in the society at large.
+6. To foster increased and sustained commitment among all partners and stakeholders, and in the society at large.
 
 As mandated, the forum produced the first EFA plan in 2001 and continues updating it to ensure it is coherent with national policies of education and training systems. This year the forum has revised and updated National Education For All Plan of Action 2004 version, which is well, integrated with the Government Priorities Action Agenda, the Ministry of Education 2004 to 2006 Corporate Plan and the TVET Master Plan 2003 to 2010.
 
@@ -80,7 +153,9 @@ The National Education For All Plan of Action 2004 version has the official endo
 
 …………………………..                                                    ………………………..
 
-Mr. Nicholas Brown                                                                            Date Honorable Minister Ministry of Education
+Mr. Nicholas Brown                                                    Date
+Honorable Minister
+Ministry of Education
 
 6
 
@@ -92,11 +167,11 @@ Mr. Nicholas Brown                                                              
 
 ### Brief History of EFA
 
-1990 | World Conference on Education for All: Meeting Basic Learning Needs , Jomtien, Thailand
+1990 | World Conference on Education for All: Meeting Basic Learning Needs, Jomtien, Thailand
 --- | ---
 1999 & 2000 | EFA 2000 Assessment including the Vanuatu EFA 2000 Assessment Country Report
-2000 | Asia Pacific Conference on EFA 2000 Assessment , Bangkok, Thailand
-2000 | World Education Forum , Dakar, Senegal
+2000 | Asia Pacific Conference on EFA 2000 Assessment, Bangkok, Thailand
+2000 | World Education Forum, Dakar, Senegal
 2001 | First edition Vanuatu EFA National Plan of Action
 2003 | Third edition Vanuatu EFA National Plan of Action
 
@@ -106,7 +181,7 @@ Ten years later in April 2000, delegates from all over the world, including Vanu
 
 Under the guidance of the UNESCO Office for the Pacific, Jesse Dick, the National EFA Co-ordinator  in  2000,  completed  the  2000  assessment  for  Vanuatu.  Having  almost attained the target of Universal Primary Education, the assessment highlighted the need to  address  and  improve  the  overall  quality  of  primary  education  and  to  strengthen secondary and post-secondary education in order to enhance access to and quality of the provision for students moving up from primary level. Other constraints identified were limited  resources  (financial/  human),  communication  between national headquarter and provincial  headquarters  as  well  as  communication  and  transport  problems  between islands. Donor agendas and leadership and management changes were also identified as constraints.
 
-Since Dakar the Pacific Directors of Education have expressed support for EFA at meetings both in Nauru and Samoa. Each state selected and appointed a National EFA Co-ordinator to establish a national EFA Forum and to work with that forum to develop the National EFA Plan. Joe Iautim from the Ministry of Education, Youth and Sports accepted the role of National EFA Co-ordinator for Vanuatu and attended the EFA Coordinator training workshop in March 2001 at the UNESCO Regional Office in Apia. He has since then, on a yearly basis reviewed and up-dated the EFA National Plan of Action. In 2002 an EFA consultant funded for two years by UNESCO and DFID, Dr Wolfgang Sperlich, assisted the further development of the Vanuatu National EFA Forum.
+Since Dakar the Pacific Directors of Education have expressed support for EFA at meetings both in Nauru and Samoa. Each state selected and appointed a National EFA Co-ordinator to establish a national EFA Forum and to work with that forum to develop the National EFA Plan. Joe Iautim from the Ministry of Education, Youth and Sports
 
 7
 
@@ -114,13 +189,17 @@ Since Dakar the Pacific Directors of Education have expressed support for EFA at
 
 [[START OF PAGE 8]]
 
+accepted the role of National EFA Co-ordinator for Vanuatu and attended the EFA Co-ordinator training workshop in March 2001 at the UNESCO Regional Office in Apia. He has since then, on a yearly basis reviewed and up-dated the EFA National Plan of Action.
+
+In 2002 an EFA consultant funded for two years by UNESCO and DFID, Dr Wolfgang Sperlich, assisted the further development of the Vanuatu National EFA Forum.
+
 ### VANUATU NATIONAL EFA FORUM
 
 The  Vanuatu  National  EFA  Forum  established  by  the  Minister  of  Education  is  a consultative and co-ordination body that brings together around one table the representatives of all those with a vital stake in basic education.  It is both a vehicle of partnership  and  dialogue  and  a  co-ordinating  mechanism  focused  on  the  planning, analysis and monitoring of progress towards set goals.
 
 #### How the Forum was established
 
-Letters of invitation (appendix 1) were sent to prospective forum members to attend the first EFA Forum meeting on 31 May 2001. A news article (appendix 2) was published in May 14 th 2001 to encourage participation and to raise awareness of the meeting and EFA. Media representatives were present at the first meeting.
+Letters of invitation (appendix 1) were sent to prospective forum members to attend the first EFA Forum meeting on 31 May 2001. A news article (appendix 2) was published in May 14th 2001 to encourage participation and to raise awareness of the meeting and EFA. Media representatives were present at the first meeting.
 
 Care was taken to assemble a balanced Forum, comprising both of private (NGO, churches, chiefs and others) and public sector representatives.
 
@@ -128,13 +207,13 @@ Care was taken to assemble a balanced Forum, comprising both of private (NGO, ch
 
 While the Dakar EFA Goals (given in brackets below) were already prioritized, individual EFA Forums were given the choice to re-prioritize according to local conditions. At the meeting the goals were prioritised in the following order:
 
-- EFA Goal (i) is  Vanuatu Priority 1: Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children;
+1. EFA Goal (i) is Vanuatu Priority 1: Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children;
 
-- EFA  Goal  (ii)  is  Vanuatu  Priority  2: Ensuring  that  by  the  year  2015  all  children particularly  girls,  children  in  difficult  circumstances  and  those  belonging  to  ethnic minorities, have access to and complete free and compulsory primary education of good quality;
+2. EFA Goal (ii) is Vanuatu Priority 2: Ensuring that by the year 2015 all children particularly girls, children in difficult circumstances and those belonging to ethnic minorities, have access to and complete free and compulsory primary education of good quality;
 
-- 3A.  EFA  Goal  (iii)  is  Vanuatu  Priority  3=: Ensuring  that  the  learning  needs  of  allyoung  people  and  adults  are  met  through  equitable  access  to  appropriate  learning  and life-skills programs;
+3A. EFA Goal (iii) is Vanuatu Priority 3=: Ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life-skills programs;
 
-- 3B.  EFA  Goal  (iv)  is  Vanuatu  Priority  3=: Achieving  a  50  percent  improvement  in levels of adult literacy by 2015, especially for women, and equitable access to basic and continuing education for all adults;
+3B. EFA Goal (iv) is Vanuatu Priority 3=: Achieving a 50 percent improvement in levels of adult literacy by 2015, especially for women, and equitable access to basic and continuing education for all adults;
 
 8
 
@@ -142,9 +221,9 @@ While the Dakar EFA Goals (given in brackets below) were already prioritized, in
 
 [[START OF PAGE 9]]
 
-- EFA  Goal  (vi)  is  Vanuatu  Priority  4: Improving  all  aspects  of  the  quality  of education  and  ensuring  excellence  of  all  so  that  recognised  and  measurable  learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills.
+4. EFA Goal (vi) is Vanuatu Priority 4: Improving all aspects of the quality of education and ensuring excellence of all so that recognised and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills.
 
-- EFA Goal (v) is Vanuatu Priority 5: Eliminating gender disparities in primary and secondary education by 2005, and achieving gender equality in education by 2015, with a focus on ensuring girls' full and equal access to and achievement in basic education of good quality;
+5. EFA Goal (v) is Vanuatu Priority 5: Eliminating gender disparities in primary and secondary education by 2005, and achieving gender equality in education by 2015, with a focus on ensuring girls’ full and equal access to and achievement in basic education of good quality;
 
 Two  representatives  from  UNESCO  Office  for  the  Pacific  attended  the  meeting  and outlined the role of the Forum. Information sheets were distributed to forum members to advise  of existing  plans  and  objectives  and  the  extent  to  which  they  had  been implemented to date.
 
@@ -154,51 +233,34 @@ The  forum  has  been  approved  officially  by  the  Honorable  Jacques  Sese, 
 
 #### The current Members of the Forum are:
 
-- CHAIRPERSON  -  Mr.  Jesse  Dick,  Director,  Division  of  Policy  and  Planning Services
-
-- DEPUTY  CHAIRPERSON  -  Mrs.  Janet  Bunyan,  President,  National  Pre  School Association
-
-- SECRETARY - Mr. Joe Iautim, SEO, Division of Policy and Planning Services
-
-- Mr. Pierre Gambetta, Acting Director, Division of Primary Education
-
-- Mr. John Niroa, Acting Director, Division of Secondary Education
-
-- Mr.  Johnny  Marango  Acting  Director,  Division  of  Technical,  Vocational  and Continuing Education
-
-- Mr. Kalmele Matai, Director, Division of Vanuatu Institute of Education
-
-- Mr. Daniel Lamouraux, Principle, Vanuatu Institute of Technology
-
-- Mr. William Tari, Second Political Advisor, Ministry of Education
-
-- Mr. Rex Willie, Sectoral Analyst, Department of Social and Economic Development
-
-- Mrs. Myriam Abel, Director General , Ministry of Health
-
-- Ms. SemanTalesa. , Department of Women's Affairs
-
-- Mr. Elison Bovu, Director, Vanuatu Society for Disabled People
-
-- Mr. John Liu, Director, Vanuatu Rural Development Training Centres Association
-
-- Pastor Pakoa Maraki, Secretary, Vanuatu National Council of Churches
-
-- Mr. Ralph Regenvanu, Director, Vanuatu Cultural Centre
-
-- Mr. Simon Boe, Director, World Vision
-
-- Mr. Gideon Mael, Director, VANGO
-
-- Mr. Sandy Ishmael Secretary, Vanuatu National Council of Chiefs (Malvatumauri)
-
-- Mr. Wenjio Tamao, President Vanuatu Teachers Union
+1. CHAIRPERSON - Mr. Jesse Dick, Director, Division of Policy and Planning Services
+2. DEPUTY CHAIRPERSON - Mrs. Janet Bunyan, President, National Pre School Association
+3. SECRETARY – Mr. Joe Iautim, SEO, Division of Policy and Planning Services
+4. Mr. Pierre Gambetta, Acting Director, Division of Primary Education
+5. Mr. John Niroa, Acting Director, Division of Secondary Education
+6. Mr. Johnny Marango Acting Director, Division of Technical, Vocational and Continuing Education
+7. Mr. Kalmele Matai, Director, Division of Vanuatu Institute of Education
+8. Mr. Daniel Lamouraux, Principle, Vanuatu Institute of Technology
+9. Mr. William Tari, Second Political Advisor, Ministry of Education
+10. Mr. Rex Willie, Sectoral Analyst, Department of Social and Economic Development
+11. Mrs. Myriam Abel, Director General , Ministry of Health
+12. Ms. SemanTalesa. , Department of Women’s Affairs
+13. Mr. Elison Bovu, Director, Vanuatu Society for Disabled People
+14. Mr. John Liu, Director, Vanuatu Rural Development Training Centres Association
+15. Pastor Pakoa Maraki, Secretary, Vanuatu National Council of Churches
+16. Mr. Ralph Regenvanu, Director, Vanuatu Cultural Centre
+17. Mr. Simon Boe, Director, World Vision
+18. Mr. Gideon Mael, Director, VANGO
+19. Mr. Sandy Ishmael Secretary, Vanuatu National Council of Chiefs (Malvatumauri)
+20. Mr. Wenjio Tamao, President Vanuatu Teachers Union
 
 9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+## Setting
 
 ### National Characteristics
 
@@ -219,22 +281,18 @@ Vanuatu is unique in having 80 - 100 different vernacular languages. French and 
 The Vanuatu 1999 census revealed a total population of 186,678 of which 139,475 are indigenous Ni-Vanuatu. This includes 99,682 males and 90,996 females (see table 1).
 
 POPULATION BY LOCAL GOVERNMENT REGION, 1979 TO 1999
---- | --- | --- | --- | --- | ---
 TOTAL POPULATION
 PROVINCE | 1979 | 1989 | 1999 | % CHANGE 1989 - 1999 | GROWTH RATE
+--- | --- | --- | --- | --- | ---
 TORBA | 4,958 | 5,985 | 7,757 | 29.6 | 2.5
 SANMA | 19,423 | 25,581 | 36,084 | 41.3 | 3.0
 PENAMA | 18,937 | 22,299 | 26,646 | 19.6 | 1.7
 MALAMPA | 23,566 | 28185 | 32,705 | 16.1 | 1.4
 SHEFA | 26,860 | 38,818 | 54,439 | 43.2 | 2.6
 TAFEA | 17,506 | 22,423 | 29,047 | 29.6 | 2.5
-VANUATU | 111,251 | 142,944 | 31.1 | 2.6
+VANUATU | 111,251 | 142,944 |  | 31.1 | 2.6
 
-Table 1.1 and 2000)
-
-Source: Adapted from Vanuatu National population Main Report (1989
-
-## Setting
+Table 1.1    Source: Adapted from Vanuatu National population Main Report (1989 and 2000)
 
 10
 
@@ -246,7 +304,7 @@ There  have  been  some  major  demographic  trends  that  have  occurred  in  V
 
 - overall population growth of 2.4% per year, a slight reduction from 3.1 percent during the 1867 - 79 period and
 
-- ni-Vanuatu population growth is 2.8% per year, a reduction from 3.4% for the 1967 1979 period and
+- ni-Vanuatu population growth is 2.8% per year, a reduction from 3.4% for the 1967 - 1979 period and
 
 - ni-Vanuatu population growth drops by 0.2% per year, a reduction from 2.8% since 1988.
 
@@ -342,25 +400,25 @@ In  accordance  with  the  United  Nations  Millennium  Development  Goals  (MDG
 
 As such the EFA National Plan of Action is an important tool to develop education in Vanuatu, especially with a view towards MDG No.1, namely
 
-'Eradicate extreme poverty and hunger'.
+1. “Eradicate extreme poverty and hunger”.
 
 The other MDGs are reflected in the EFA National Plan as follows:
 
-- Achieve universal primary education
+2. Achieve universal primary education
 
 As the international EFA Goal No 2 is directly linked to this MDG, it is notable that the Vanuatu priority is also No 2.
 
-- Promote gender equality and empower women
+3. Promote gender equality and empower women
 
 This MDG is reflected directly in the international EFA Goal No 5, and has the same status in the Vanuatu EFA National Plan.
 
-- Reduce child mortality
+4. Reduce child mortality
 
-- Improve maternal health
+5. Improve maternal health
 
 MDGs No 4 and 5 have no direct input in the EFA National Plan other than to point out that basic education is a necessary ingredient in achieving these goals.
 
-- Combat HIV/AIDS, malaria and other diseases
+6. Combat HIV/AIDS, malaria and other diseases
 
 This goal has high priority in the EFA National Plan and is appended to most goals by way of setting out strategies to prevent and combat HIV/AIDS at every level of education.
 
@@ -392,13 +450,15 @@ Vanuatu as a member of the South Pacific Board of Educational Achievement (SPBEA
 
 Possible up-dates from Tarja, Daniel (TVET Masterplan) and Rethinking (John Niroa)
 
-The  EFA  National  Plan  has  been  given  priority,  under  the  education  sector,  in  the Vanuatu Medium Term Development Plan (2003) also known as the Prioritized Action Agenda (PAA) which has been endorsed by the Council of Ministers and was launched at a combined donor/civil society/government development meeting in September 2003. A World Bank sponsored document entitled Education Master Plan (1999) is often cited as a key development publication, and while it does not directly refer to EFA goals, there are  many  points  in  that  document  that  now  find  expression  in  the  EFA  National  Plan. Other key Ministry of Education development plans include the Ministry of Education Corporate Plan (up-dated annually), Department Business Plan (up-dated annually) and annual  Statistical  Digests.  All  these  documents  increasingly  take  notice  of  the  EFA National Plan of Action. The newly established (2002) Provincial Education Boards also produce reports and plans which take some of the cues from the EFA National Plan of Action.  A  new  Education  Act  now  also  requires  individual  schools  to  submit  annual reports and plans and it is hoped that at this grass-roots level the EFA National Plan of Action will become a key planning tool. A national initiative on Rethinking Education in Vanuatu also has made recommendations that are in line with EFA goals.
+The EFA National Plan has been given priority, under the education sector, in the Vanuatu Medium Term Development Plan (2003) also known as the Prioritized Action Agenda (PAA) which has been endorsed by the Council of Ministers and was launched at a combined donor/civil society/government development meeting in September 2003. A World Bank sponsored document entitled Education Master Plan (1999) is often cited as a key development publication, and while it does not directly refer to EFA goals, there are many points in that document that now find expression in the EFA National Plan. Other key Ministry of Education development plans include the Ministry of Education Corporate Plan (up-dated annually), Department Business Plan (up-dated annually) and annual Statistical Digests. All these documents increasingly take notice of the EFA National Plan of Action. The newly established (2002) Provincial Education Boards also
 
 15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+produce reports and plans which take some of the cues from the EFA National Plan of Action. A new Education Act now also requires individual schools to submit annual reports and plans and it is hoped that at this grass-roots level the EFA National Plan of Action will become a key planning tool. A national initiative on Rethinking Education in Vanuatu also has made recommendations that are in line with EFA goals.
 
 The diagram below illustrates the relationships between the EFA National Plan of Action and various other national and international initiatives:
 
@@ -474,8 +534,8 @@ It should be note here also that the governmental education budget and the aid m
 
 Division | Personnel | Operating | Total 2004 Budget
 --- | --- | --- | ---
-Emoluments | Expenses
-(VT) | (VT)
+ | Emoluments | Expenses |
+ | (VT) | (VT) | (VT)
 Ministry of Education | 19,692,331 | 1,300,000 | 20,992,331
 Director General's Office | 6,881,377 | 5,140,000 | 12,021,377
 Teaching Service Commission | 4,004,918 | 2,695,000 | 6,699,918
@@ -489,7 +549,7 @@ Vanuatu Government Contribution | 0 | 86,494,000 | 86,494,000
 Youth & Sport Division | 11,906,328 | 27,907,182 | 39,813,510
 Vocational & Continuing Education | 5,982,209 | 7,532,096 | 13,514,305
 TOTALS | 1,521,624,722 | 490,876,278 | 2,012,501,000
-USD | 16,770,841
+ |  |  | USD 16,770,841
 
 ### Unit costs and efficiencies
 
@@ -527,11 +587,10 @@ UNICEF | 19,567,500 | Ministry / Department of Education | This project targets 
 [[START OF PAGE 20]]
 
 Level.
---- | --- | --- | ---
 No donor identified | 16,000,000 | Ministry / Department of Education. | The project concerns the purchase and Installation at the VMC, a ship handling watch keeping and navigation simulator, to improve training in the skills of ship handling, watch keeping and navigation. This provides opportunity to ensure there is a compliance with the standards established in the international convention on the standard of training, certification and watch keeping for seafarers as amended in 1995.
 No donor identified | 30,000,000 | Ministry / Department of Education. | The project is a request to build a new Administration office for the VMC, as continuous development of the VMC strengthening Project. This will surely assist to provide better facilities for an effective administration of the school operational activities as well as other issue relating to the progress of this Institution.
 EU EDF9 | 621,000,000 | Ministry / Department of Education. | European union, under its EDF9 financial agreement has proposed a total of this amount as its contribution to the Education sector in Vanuatu. A proposed activity budget for this allocation will be submitted to Brussels where they will then make the final recommendation.
-TOTAL | 760,739,567 USD 6,339,497
+TOTAL | 760,739,567 USD 6,339,497 |  |
 
 Of  interest  may  be  that  the  total  aid  projected  accounts  for  just  over  a  third  of  the recurrent  education  budget,  which  puts  paid  to  the  notion  that  aid  contributes  more  to education  than  local  resources.  Still  aid  is  of  course  a  major  contributor  to  capital investment costs, and by far the largest contributor for 2004 is the EU.
 
@@ -583,13 +642,13 @@ The  government  is  aware  that  children  have  the  right  to  preschool,  as
 
 - The Right to Pre-school Education
 
-- The Rights of Parents' involvement
-
 - The Right to be taught by trained ECE teachers
+
+- The Rights of Parents’ involvement
 
 - The Rights to Safe Learning Environment
 
-The Vanuatu Pre-school Association, UNICEF, Save the Children Fund - Australia, and various NGO's have played vital role in developing and monitoring this sector. The pre-schools are set up by parents and are independent, and in urban areas some are established in primary school premises. The Vanuatu Preschool Association monitors 450 pre-schools and their programmes in Vanuatu.
+The Vanuatu Pre-school Association, UNICEF, Save the Children Fund - Australia, and various NGO's have played vital role in developing and monitoring this sector. The pre-schools are set up by parents and are independent, and in urban areas some are established in primary school premises. The Vanuatu Pre-school Association monitors 450 pre-schools and their programmes in Vanuatu.
 
 The national Pre-school age population (age 3-5years) at the 1999 population census was 17,168 and will continue to rise an annual rate of 2.6 percent. The 2001 school statistics indicates that only 8,710 were enrolled.
 
@@ -607,7 +666,7 @@ The Pre-School Association has been reasonably successful in attracting donor fu
 
 - 1.4 No Incentives for teachers
 
-- 1.5 Lack of Government commitment in appointing Provincial Pre-school Coordinators through the Public Service Commission
+- 1.5 Lack of Government commitment in appointing Provincial Pre-school Co-ordinators through the Public Service Commission
 
 - 1.6 Lack of co-ordination between the Primary Teacher-Training Institute and the Ministry Pre-school Section
 
@@ -621,9 +680,9 @@ The Pre-School Association has been reasonably successful in attracting donor fu
 
 1.8 By 2005 all children should go to Preschool before Yr 1 (poor communities to be subsidised)
 
-##### Problem 1.1: Poor Infrastructure and Low carrying capacity of existing urban preschools
+##### Problem 1.1: Poor Infrastructure and Low carrying capacity of existing urban pre-schools
 
-The urban pre-school population (approximately 1,400) is increasing at annual rate of 4.2 percent. In most of the urban schools over 30 children enrol in one class, which is well over the standard ratio which is 17:1 (National standard). With the intense pressure of the growing age group, it is predicted that at least 250 children in the two main urban areas will  not  be  able  to  enter  pre-school  at  the  appropriate  age,  by  the  year  2003  if  no immediate  action  is  undertaken.    A  further  750  children  will  continue  to  attend  preschools which are sub-standard.
+The urban pre-school population (approximately 1,400) is increasing at annual rate of 4.2 percent. In most of the urban schools over 30 children enrol in one class, which is well over the standard ratio which is 17:1 (National standard). With the intense pressure of the growing age group, it is predicted that at least 250 children in the two main urban areas will not be able to enter pre-school at the appropriate age, by the year 2003 if no immediate action is undertaken. A further 750 children will continue to attend pre-schools which are sub-standard.
 
 ###### Proposed Reforms / actions required for problem 1.1:
 
@@ -637,9 +696,9 @@ A join existing schools capacity review of urban schools has recommended the fol
 
 Actions required for problem 1.1 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-1. 1.1 Establishment of 17 new pre- schools | 2004 - 2005 | Pre-school Co- ordinator - Urban (PSCU) | National Pre- school Co- ordinator (M o E) - NPSC | Completion of buildings by 2006
-1.1.2. Upgrading of facilities and resources | 2004 - 2005 | ' | ' | A document specifying Completion of upgrades
-1.1.3. Completion of existing pre- school improvement program | 2003 - 2006 | 6 Provincial Pre- school Co- ordinators (PPSC) | NPSC | Completion of building component of current Rural Pre- school Development Programme by
+1. 1.1 Establishment of 17 new pre-schools | 2004 - 2005 | Pre-school Co-ordinator - Urban (PSCU) | National Pre-school Co-ordinator (M o E) - NPSC | Completion of buildings by 2006
+1.1.2. Upgrading of facilities and resources | 2004 - 2005 | “ | “ | A document specifying Completion of upgrades
+1.1.3. Completion of existing pre-school improvement program | 2003 - 2006 | 6 Provincial Pre-school Co-ordinators (PPSC) | NPSC | Completion of building component of current Rural Pre-school Development Programme by
 
 23
 
@@ -648,14 +707,13 @@ Actions required for problem 1.1 | Timeframe | Responsibility | Monitoring | Pro
 [[START OF PAGE 24]]
 
 2007
----
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-1.1.1 Establishment of 7 new pre-schools | EU | 65.5 m | 18.1 m
-1.1.2. Upgrading of facilities and resources | 5 m
-1.1.3. Completion of existing pre- school improvement program | NZHC 3 m | 2.7 m | 2.7 m | 2.7 m
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+1.1.1 Establishment of 7 new pre-schools |  |  |  |  | 18.1 m |  |  |
+1.1.2. Upgrading of facilities and resources | EU 5 m |  | 65.5 m |  |  |  |  |
+1.1.3. Completion of existing pre-school improvement program | NZHC 3 m |  | 2.7 m |  | 2.7 m |  | 2.7 m |
 
 ###### Remarks:
 
@@ -680,13 +738,13 @@ To maintain consistency, the PSAV must;
 Actions required for problem 1.2 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 1.2.1 Completion of teacher training component | 2004 - 2008 | VNPSA / MoE | NPSC | Report produced on teacher training program
-1.2.2. Develop college-based teacher training | NPSC/VIOE | NPSC/VITE
+1.2.2. Develop college-based teacher training |  | NPSC/VIOE | NPSC/VITE |
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-1.2.1 Completion of teacher training component | See 1.1.3
-1.2.2 Develop college-based teacher training | After 2008
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+1.2.1 Completion of teacher training component | See 1.1.3 |  |  |  |  |  |  |
+1.2.2 Develop college-based teacher training |  |  |  |  |  |  | After 2008 |
 
 Remarks: 1.2.2. after 2008
 
@@ -698,7 +756,7 @@ Text: The Improvement programme in 1999 was implemented mainly in rural schools.
 
 It is proposed that Pre-school Improvement programmes must be extended to the urban schools.
 
-- 1.3.1 Extend the toy-making and facility improvement components of the current Preschool Improvement Programme into the urban schools.
+- 1.3.1 Extend the toy-making and facility improvement components of the current Pre-school Improvement Programme into the urban schools.
 
 25
 
@@ -741,16 +799,10 @@ Actions required for problem 1.4 | Timeframe | Responsibility | Monitoring | Pro
 1.4.1 Review of agreement | 2004 | VPSA/MoE/ | NPSC/MOE | A signed new agreement
 --- | --- | --- | --- | ---
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-1.4.1 Review of agreement Trained Teachers Allowances VT per month)
-(5,000 | 21 m (350
-26.4 m | 30 m
-(440 | (530
-tchers)
-tchers)
-tchers)
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+1.4.1 Review of agreement Trained Teachers Allowances (5,000 VT per month) |  |  | 21 m (350 tchers) |  | 26.4 m (440 tchers) |  | 30 m (530 tchers) |
 
 ###### Remarks:
 
@@ -760,9 +812,9 @@ Text: Poor co-ordination and follow up programmes of pre-school is caused by lac
 
 ###### Proposed reforms / actions for Problem 1.5:
 
-- 1.5.1
-
-- The Ministry of Education must directly or indirectly ensure that; 6 Provincial Pre-school Co-ordinators are permanently employed 2 Urban Pre-school Co-ordinators are recruited
+- 1.5.1 The Ministry of Education must directly or indirectly ensure that;
+  6 Provincial Pre-school Co-ordinators are permanently employed
+  2 Urban Pre-school Co-ordinators are recruited
 
 - 1.5.2  The Ministry monitors the work of the 8 co-ordinators through the National co-ordinator.
 
@@ -770,9 +822,9 @@ Text: Poor co-ordination and follow up programmes of pre-school is caused by lac
 
 Actions required for problem 1.5 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-1.5.1 Employment of 8 full time co- ordinators | 2003 | M o E | VPSA, Director Primary and Administrative services | Appointments made & Budget in place by 2003
+1.5.1 Employment of 8 full time co-ordinators | 2003 | M o E | VPSA, Director Primary and Administrative services | Appointments made & Budget in place by 2003
 1.5.2 Monitoring and co-ordination | 2004 | Division of Primary Education | NPSC
-1.5.3. Co- ordinators active role | 2004 onward | All Pre-school co- ordinators | Provincial Co- ordinators | Reports of the programmes
+1.5.3. Co-ordinators active role | 2004 onward | All Pre-school co-ordinators | Provincial Co-ordinators | Reports of the programmes
 
 27
 
@@ -780,12 +832,12 @@ Actions required for problem 1.5 | Timeframe | Responsibility | Monitoring | Pro
 
 [[START OF PAGE 28]]
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-1.5.1 Employment of 8 full time co- ordinators | Costs for 6 coordin ators | Costs for 2 coordin ators (see 1.1.1) | Costs for 6 coordin ators | Costs for 2 coordin ators (see 1.1.1) | Costs for 6 coordin ators | Costs for 8 coordin ators
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+1.5.1 Employment of 8 full time co-ordinators |  | Costs for 6 coordinators | Costs for 2 coordinators (see 1.1.1) | Costs for 6 coordinators | Costs for 2 coordinators (see 1.1.1) | Costs for 6 coordinators |  | Costs for 8 coordinators
 1.5.2. Monitoring and co-ordination
-1.5.3. Co- ordinators active role | See 1.1.3
+1.5.3. Co-ordinators active role | See 1.1.3
 
 ##### Problem 1.6: Lack of co-ordination between the Primary Teacher-Training Institute and the Ministry Pre-school Section
 
@@ -809,8 +861,7 @@ Donor | Local | Donor | Local | Donor | Local | Donor | Local
 
 [[START OF PAGE 29]]
 
-1.6.1 Addition of pre-school education to primary teacher training institute curriculum | 200,000
---- | ---
+1.6.1 Addition of pre-school education to primary teacher training institute curriculum |  |  | 200,000 |  |  |  |  |
 
 ##### Problem 1.7: Lack of knowledge about HIV/AIDS amongst teachers and parents
 
@@ -832,7 +883,7 @@ Actions required for problem 1.7 | Timeframe | Responsibility | Monitoring | Pro
 Budget VUV | 2003 | 2004 | 2005 | 2006
 --- | --- | --- | --- | --- | --- | --- | ---
 Donor | Local | Donor | Local | Donor | Local | Donor | Local
-1.7.1 | Launch of guidelines
+1.7.1 Launch of guidelines
 1.7.2 Support the work of the Government and other NGOs
 
 29
@@ -946,7 +997,7 @@ Unfortunately  the  government  has  done  very  little  directly  for  the  dis
 
 - 2.5 Parents continue to pay contribution fees
 
-- 2.6 Lack of data on progress of enrolled students, i.e. educational mile stones, dropout rates and repeaters
+- 2.6 Lack of data on progress of enrolled students, i.e. educational mile stones, drop-out rates and repeaters
 
 - 2.7 No  provision  for  the  education  of  children  with  special  needs  in  the  school system
 
@@ -982,15 +1033,15 @@ new Primary schools | establishment on completion
 --- | --- | --- | --- | ---
 2.1.2 Expansion of 14 existing primary schools | 2004 - 2007 | MOE | Directors, Primary and Planning | Document on physical expansion once project is completed
 
-##### Problem 2.2: Insufficient number of qualified primary school teachers
-
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
 2.1.1. Establishment of 8 new Primary schools
 2.1.2 Expansion of 14 existing primary schools
 
-Text: Though 50 teachers are graduating annually at the Vanuatu Institute of Education (VITE), the 2002 schools statistics show that 33 percent of the primary school teachers have not undergone any teacher training. On average the current national student/teacher ration is 24. Note that some schools, in particular the urban schools have over 40 students per class. In rural areas the community based schools have no choice but to employ extra teachers for the expanding classes, but they cannot afford trained teachers, so continue with the practise of providing temporary employment to local teachers (who at best are retired  local  teachers  or  enthusiastic  amateurs  or  at  worst  are  young  untrained  schoolleavers with little understanding about their role as a teacher).
+##### Problem 2.2: Insufficient number of qualified primary school teachers
+
+Text: Though 50 teachers are graduating annually at the Vanuatu Institute of Education (VITE), the 2002 schools statistics show that 33 percent of the primary school teachers have not undergone any teacher training. On average the current national student/teacher ration is 24. Note that some schools, in particular the urban schools have over 40 students per class. In rural areas the community based schools have no choice but to employ extra teachers for the expanding classes, but they cannot afford trained teachers, so continue with the practise of providing temporary employment to local teachers (who at best are retired local teachers or enthusiastic amateurs or at worst are young untrained school-leavers with little understanding about their role as a teacher).
 
 ###### Proposed reforms / actions for problem 2.2:
 
@@ -1004,7 +1055,7 @@ To increase the number of qualified teachers;
 
 Actions required for problem 2.2 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-2.2.1. Review fees policy | 2004 - 2008 | MOE | VIOE/DPPS/DAF S | Free Training
+2.2.1. Review fees policy | 2004 - 2008 | MOE | VIOE/DPPS/DAFS | Free Training
 2.2.2. | 2003 - 2004 | MOE | Director, VIOE | Program document
 
 35
@@ -1017,16 +1068,16 @@ Development training programs | produced by 2004
 --- | --- | --- | --- | ---
 2.2.3. Increase number of primary school teacher trainers | 2003 - 2007 | MOE | Director, VIOE, Administration | Increase enrolment
 
-##### Problem 2.3: Lack of vernacular education (see implementation via WB report and Education Master Plan, 1999; also liaison with National Language Commission)
-
-Budget VUV | 2003 | 2004 | 2005 | 2006
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
 2.2.1. Review fees policy | 3,000 | 3,000 | 3,000 | 3,000 | 3,000 | 3,000 | 3,000 | 3,000
 2.2.2. Development of training programs
 2.2.3. Increase number of primary school teacher trainers
 
-Text: Poor educational achievement and relatively high drop-out rates can be blamed on the fact that almost no students are speakers of English or French, which nevertheless are the media of instruction at primary level. Research in many countries has shown that a child learns best at first in its native language, and if necessary in a metropolitan language later on. For Vanuatu the Education Master Plan 1999 presents many arguments in favour of vernacular education and proposes means to implement such a policy. The Ministry must take firm  steps  towards  increasing  strongly  the  use  of  vernacular  in  Primary  and Secondary Education, as indicated in the Education policy document.
+##### Problem 2.3: Lack of vernacular education (see implementation via WB report and Education Master Plan, 1999; also liaison with National Language Commission)
+
+Text: Poor educational achievement and relatively high drop-out rates can be blamed on the fact that almost no students are speakers of English or French, which nevertheless are the media of instruction at primary level. Research in many countries has shown that a child learns best at first in its native language, and if necessary in a metropolitan language later on. For Vanuatu the Education Master Plan 1999 presents many arguments in favour of vernacular education and proposes means to implement such a policy. The Ministry must take firm steps towards increasing strongly the use of vernacular in Primary and Secondary Education, as indicated in the Education policy document.
 
 ###### Proposed reforms / actions for problem 2.3:
 
@@ -1213,7 +1264,7 @@ Since Vanuatu has in place its Health promoting policies, the following undertak
 
 Actions required for problem 2.8 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-2.8.1. Launch of the Health Promoting School Guidelines | 2003 | Division of Pre- school, Primary and Special Education | MoE / MoH | Progress Report from Schools
+2.8.1. Launch of the Health Promoting School Guidelines | 2003 | Division of Pre-school, Primary and Special Education | MoE / MoH | Progress Report from Schools
 2.8.2. Supporting Effort of MoH, MoE and other NGOs | 2003 onward | MoE/ MoH | MoE/EFA | Progress report from schools
 
 Budget VUV | 2003 | 2004 | 2005 | 2006
@@ -1250,7 +1301,7 @@ An  ADB  sponsored  project  (2003)  has  commissioned  a  Master  Plan  for  no
 
 The  Vanuatu  Institute  of  Technology  (VIT),  Vanuatu  Institute  of  Teacher  Education (VITE),  Vanuatu  Maritime  College,  Vanuatu  College  of  Nursing,  Vanuatu  Police College, represent the formal TVET.
 
-The Rural Training Centres and their Association, VRDTCA are important non-formal TVET  providers.  VRDTCA  is  an  NGO  that  plans  and  develops  strategies  and  coordination  for  training.  The  NFE  affiliates  are  the  women  groups,  the  youth  groups, church groups, the Foundation for the South Pacific, Vanuatu Society for Disabled, the Fishermen  Association,  and  the  Cultural  Centres,  World  Vision  and  many  more. VRDTCA  currently  support  30  RTCs  in  terms  of  management,  education,  materials, building  infrastructure  support  and  the  training  of  trainers.  As  of  2003  VRDTCA  has entered into a Memorandum of Understanding with the American volunteer service Peace Corps to cooperate in providing much needed support to RTC and VRDTCA.
+The Rural Training Centres and their Association, VRDTCA are important non-formal TVET providers. VRDTCA is an NGO that plans and develops strategies and co-ordination for training. The NFE affiliates are the women groups, the youth groups, church groups, the Foundation for the South Pacific, Vanuatu Society for Disabled, the Fishermen Association, and the Cultural Centres, World Vision and many more. VRDTCA currently support 30 RTCs in terms of management, education, materials, building infrastructure support and the training of trainers. As of 2003 VRDTCA has
 
 43
 
@@ -1258,7 +1309,9 @@ The Rural Training Centres and their Association, VRDTCA are important non-forma
 
 [[START OF PAGE 44]]
 
-The  Department  of  Youth  Development  and  Training  also  provides  co-ordination  of Youth development and training through the National Youth Council. The Department also tries to ensure proper organisational development, research and planning, educational  development,  cultural,  social  and  moral  development,  counselling  and treatment, employment development, health and physical fitness.
+entered into a Memorandum of Understanding with the American volunteer service Peace Corps to cooperate in providing much needed support to RTC and VRDTCA.
+
+The Department of Youth Development and Training also provides co-ordination of Youth development and training through the National Youth Council. The Department also tries to ensure proper organisational development, research and planning, educational development, cultural, social and moral development, counselling and treatment, employment development, health and physical fitness.
 
 The Chamber of Commerce is the major provider of private TVET. In addition to general education  it  provides  the  study  of  technologies  and  related  science,  the  acquisition  of practical skills, attitudes, understanding and knowledge relating to occupations in various sectors of the economy and social life. A growing private IT sector also provides training courses, notably (in 2003) the Edwards Computer Foundation in Port-Vila.
 
@@ -1306,13 +1359,13 @@ This does not provide the environment conducive to coordination to ensure proper
 
 - 3A.1.2 Establishment of a TVET department or division within and responsible to the Ministry.
 
+- 3A.1.3 Ensure that existing funds for TVET are transferred to the Department or Division.
+
 Actions required for problem 3A.1 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 3A.1.1. Restructuring ministerial responsibility of TVET | 2004 | Vanuatu Government | Vanuatu Government | Ministry responsible established
 3A.1.2. Establishment of TVET within Ministry | 2004 | Ministry responsible | Ministry responsible | TVET department or division established
 3A.1.3. Ensure TVET funds are transferred to the department | 2004 | Vanuatu Government | Ministry responsible | Existing Funds secured
-
-3A.1.3 Ensure that existing funds for TVET are transferred to the Department or Division.
 
 45
 
@@ -1320,16 +1373,16 @@ Actions required for problem 3A.1 | Timeframe | Responsibility | Monitoring | Pr
 
 [[START OF PAGE 46]]
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-3A.1.1. Restructur- ing ministerial responsibilit y of TVET
-3A.1.2. Establish- ment of TVET within ministry | TA 50,000 | 1.3 m VUV | TA 50,000 | 1.3 m VUV | TA 50,000 | 1.3 m VUV | TA 50,000 | 1.3 m VUV
+3A.1.1. Restructuring ministerial responsibility of TVET
+3A.1.2. Establishment of TVET within ministry | TA 50,000 | 1.3 m VUV | TA 50,000 | 1.3 m VUV | TA 50,000 | 1.3 m VUV | TA 50,000 | 1.3 m VUV
 3A.1.3. Ensure TVET funds are transferred to the department
 
 ###### Remarks:
 
-##### Problem 3A.2 : Lack of a National TVET policy for co-ordination
+##### Problem 3A.2: Lack of a National TVET policy for co-ordination
 
 Text: Lack of a national TVET policy also contributes to uncoordinated training programmes that are randomly engaging in training activities that are difficult to assess for quality of impact.  Providers seem to be doing their own thing.
 
@@ -1354,12 +1407,12 @@ Actions required for problem 3A.2 | Timeframe | Responsibility | Monitoring | Pr
 3A.2.1 Training TVET reps | 2003 | Ministry and Donors | VNTC | TVET Policy is being developed
 3A.2.2. Establishment of national TVET policy | 2003 | Ministry responsible | Ministry responsible | Published TVET policy supported as necessary by appropriate legislation
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-3A.2.1 Training TVET reps | ADB Study tour, 42,000 Consultant 185,000
-3A.2.2. Establish- ment of national TVET policy | ADB 72,000 | ADB
-3A2.3 Establish Distance Learning Policy | TA | 20 m VUV | TA | 20 m VUV | 20 m VUV | 20 m VUV
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+3A.2.1 Training TVET reps | ADB Study tour, 42,000 Consultant 185,000 |  |  |  |  |  |  |
+3A.2.2. Establishment of national TVET policy | ADB 72,000 |  | ADB |  |  |  |  |
+3A2.3 Establish Distance Learning Policy | TA | 20 m VUV | TA | 20 m VUV |  | 20 m VUV |  | 20 m VUV
 
 ##### Problem 3A.3: Lack of a national TVET system for implementation
 
@@ -1384,11 +1437,11 @@ Actions required for problem 3A.3 | Timeframe | Responsibility | Monitoring | Pr
 3A.3.1. Establishment of TVET system that provides maximum opportunities | 2003 - 2015 | Ministry responsible | Ministry responsible | Document on detailed structure will be produce by 2003
 3A.3.2 Help and support RTCs and VRDTCA
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-3A.3.1. establishment of TVET system that provides maximum opportunities | Donor | Local | Donor | Local | Donor | Local | Donor | Local
-ADB 50,000 | 60 m VUV | 60 m VUV | 60 m VUV | 60 m VUV
-3A.3.2 Help and support RTCs and VRDTCA | 25 m VUV 2 m VUV from MYDT | 25 m VUV | 25 m VUV | 25 m VUV
+3A.3.1. establishment of TVET system that provides maximum opportunities | ADB 50,000 | 60 m VUV |  | 60 m VUV |  | 60 m VUV |  | 60 m VUV
+3A.3.2 Help and support RTCs and VRDTCA | 25 m VUV 2 m VUV from MYDT |  |  | 25 m VUV |  | 25 m VUV |  | 25 m VUV
 
 48
 
@@ -1426,13 +1479,13 @@ Actions required for problem 3A.4 | Timeframe | Responsibility | Monitoring | Pr
 
 [[START OF PAGE 50]]
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-3A.4.1. | Donor | Local | Donor | Local | Donor | Local | Donor | Local
-Strengthening of VNTC | TA AUSAid 6 months | 10 m VUV | 10 m VUV | 10 m VUV | 10 m VUV
-and NFE task force | TA NZAid | 12 m VUV | 12 m VUV | 12 m VUV | 12 m VUV
-3A.4.2. Development of appropriate training | TA ADB
-3A.4.3. Ensuring equitable access to TVET programs | 5 m VUV | 5 m VUV | 5 m VUV | 5 m VUV
+3A.4.1. Strengthening of VNTC | TA AUSAid 6 months | 10 m VUV |  | 10 m VUV |  | 10 m VUV |  | 10 m VUV
+and NFE task force | TA NZAid | 12 m VUV |  | 12 m VUV |  | 12 m VUV |  | 12 m VUV
+3A.4.2. Development of appropriate training | TA ADB |  |  |  |  |  |  |
+3A.4.3. Ensuring equitable access to TVET programs |  | 5 m VUV |  | 5 m VUV |  | 5 m VUV |  | 5 m VUV
 
 ##### Problem 3A.5: Training Providers capacity is inadequate to meet training demands.
 
@@ -1444,7 +1497,9 @@ In terms of RTCs and VRDTCA a 2003 Memorandum of Understanding between VRDTCA an
 
 Strengthen the capacity of Training Providers by:
 
-3A.5.1 Ensuring adequate operating facilities in all training centers across Vanuatu, 3A.5.2  Providing  management  training  in  areas  such  as  organisational  development, strategic planning, community and business development and financial management, 3A.5.3 Involving professional exchange.
+3A.5.1 Ensuring adequate operating facilities in all training centers across Vanuatu,
+3A.5.2 Providing management training in areas such as organisational development, strategic planning, community and business development and financial management,
+3A.5.3 Involving professional exchange.
 
 50
 
@@ -1458,11 +1513,11 @@ Actions required for problem 3A.5 | Timeframe | Responsibility | Monitoring | Pr
 3A.5.2. Provision of management training | 2003 ongoing | Ministry responsible | VNTC | Report on training delivered
 3A.5.3. Involvement in professional exchanges | 2003 ongoing | Ministry responsible | VNTC | Exchange between providers program and implementation
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-3A.5.1. Ensuring operating facilities for training | Donor | Local | Donor | Local | Donor | Local | Donor | Local
-providers. | 2..5 m VUV | 2..5 m VUV | 2..5 m VUV | 2..5 m VUV
-3A.5.2 Provision of management training | 3 m VUV | 3 m VUV | 3 m VUV | 3 m VUV
+3A.5.1. Ensuring operating facilities for training providers. | 2..5 m VUV |  | 2..5 m VUV |  | 2..5 m VUV |  | 2..5 m VUV |
+3A.5.2 Provision of management training | 3 m VUV |  | 3 m VUV |  | 3 m VUV |  | 3 m VUV |
 3A.5.3 Involvement in professional exchanges | 2 m VUV | 2 m VUV | 2 m VUV | 2 m VUV | 2 m VUV | 2 m VUV | 2 m VUV | 2 m VUV
 
 ##### Problem  3A.6:  Lack  of  co-ordination  between  Formal  and  Non-Formal  TVET curricular development.
@@ -1485,18 +1540,18 @@ On  the  other  hand  non-formal  providers  may  rightfully  resent  standardiz
 
 - 3A.6.3 Provide training for TVET curricular developers
 
-Actions required for problem 3A.6 | Time-frame | Responsibilit y | Monitoring | Progress Indicator
+Actions required for problem 3A.6 | Time-frame | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 3A.6.1. National TVET curriculum and resource centre | 2003 - 2006 | Ministry responsible | Ministry responsible | A fully functional national curriculum and resource centre with capability to design, adapt and disseminate curriculum and training materials established by 2006
-3A.6.2.Acquir e, adapt, develop and certify appropriate TVET curricular and materials | 2003 ongoing | VNTC & NFE Taskforce | VNTC & NFE Taskforce | A fully functional national curriculum and resource centre with capability to design, adapt and disseminate curriculum and training materials
+3A.6.2.Acquire, adapt, develop and certify appropriate TVET curricular and materials | 2003 ongoing | VNTC & NFE Taskforce | VNTC & NFE Taskforce | A fully functional national curriculum and resource centre with capability to design, adapt and disseminate curriculum and training materials
 3A.6.3. Provider training for TVET curriculum developers | 2004 ongoing | Ministry responsible & Scholarship | VNTC | Increased in number of qualified TVET curricular developers
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-3A.6.1. National TVET curriculum and resource centre establishment | AUSAid 25,000 | 2 m VUV | 2 m VUV | 2 m VUV
-3A.6.2.Acquire, adapt, develop and certify appropriate TVET curricular and materials | AUSAid VIT ISP | 8 m VUV | 5 m VUV | 3 m VUV
-3A.6.3. Provide training for TVET curriculum developers | AUDAid NZAid | 5 m VUV | 5 m VUV | 2 m VUV | 2.5 m VUV
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+3A.6.1. National TVET curriculum and resource centre establishment | AUSAid 25,000 |  |  | 2 m VUV |  | 2 m VUV |  | 2 m VUV
+3A.6.2.Acquire, adapt, develop and certify appropriate TVET curricular and materials | AUSAid VIT ISP |  |  | 8 m VUV |  | 5 m VUV |  | 3 m VUV
+3A.6.3. Provide training for TVET curriculum developers | AUDAid NZAid | 5 m VUV |  | 5 m VUV |  | 2 m VUV |  | 2.5 m VUV
 
 52
 
@@ -1518,7 +1573,7 @@ For the RTCs there will be (from 2003 onwards) support via Peace Corps volunteer
 
 - 3A.7.3 Provide training for trainer of TVET.
 
-Actions required for problem 3A.7 | Time- frame | Responsibility | Monitoring | Progress Indicator
+Actions required for problem 3A.7 | Time-frame | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 3A.7.1. Establishment of National TVET trainer courses | 2003 ongoing | VNTC | VNTC | Relevant trainer training courses available for all TVET instructors at all levels.
 3A.7.2. Development of National Trainers certificates and or diploma | 2003 - 2010 | VNTC | VNTC & providers | Appropriate TVET trainer qualification system in place
@@ -1530,11 +1585,11 @@ Actions required for problem 3A.7 | Time- frame | Responsibility | Monitoring | 
 
 [[START OF PAGE 54]]
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | ---
-3A.7.1. Establishment of National TVET trainer courses | ADB 6,000 AUSAid 28,000 | 4 m VUV | 4 m VUV | 4 m VUV | 4 m VUV
-3A.7.2. Development of National Trainers certificates and or diploma | AUSAid NZAid | 2 m VUV | 2 m VUV
-3A.7.3. Provide training for trainer for TVET | ADB 10,000 NZAid | 5 m VUV | 5 m VUV
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+3A.7.1. Establishment of National TVET trainer courses | ADB 6,000 AUSAid 28,000 | 4 m VUV |  | 4 m VUV |  | 4 m VUV |  | 4 m VUV
+3A.7.2. Development of National Trainers certificates and or diploma | AUSAid NZAid | 2 m VUV |  | 2 m VUV |  |  |  |
+3A.7.3. Provide training for trainer for TVET | ADB 10,000 NZAid | 5 m VUV |  | 5 m VUV |  |  |  |
 
 ##### Problem 3A.8: Lack of TVET solutions and pathways for school leavers (at Y6/8) and drop-outs
 
@@ -1544,7 +1599,7 @@ Text: The concern is for over 60 percent of pupils who after completion of Y6 or
 
 3A.8.1 Develop a national certificate, which combines:
 
-- Life -skills
+- Life –skills
 
 - Basic education
 
@@ -1552,10 +1607,10 @@ Text: The concern is for over 60 percent of pupils who after completion of Y6 or
 
 3A8.2  NFE skills training
 
-Actions required for problem 3A.8 | Time- frame | Responsibility | Monitoring | Progress Indicator
+Actions required for problem 3A.8 | Time-frame | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-3A.8 1. Development of National Certificates | 2003 | Providers Taskforce | National certificate is accredited and available to training providers by 2004
-3A8.2 NFE skills training
+3A.8 1. Development of National Certificates | 2003 |  | Providers Taskforce | National certificate is accredited and available to training providers by 2004
+3A8.2 NFE skills training |  |  |  |
 
 54
 
@@ -1563,11 +1618,11 @@ Actions required for problem 3A.8 | Time- frame | Responsibility | Monitoring | 
 
 [[START OF PAGE 55]]
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-3A.8.1, Development of National Certificates | AUSAid | Incl. in normal budget | Incl. in normal budget | Incl. in normal budget | Incl. in normal budget
-3A8.2 NFE skills training | 8 m VUV | Incl. in normal budget | Incl. in normal budget | Incl. in normal budget | Incl. in normal budget
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+3A.8.1, Development of National Certificates | AUSAid | Incl. in normal budget |  | Incl. in normal budget |  | Incl. in normal budget |  | Incl. in normal budget
+3A8.2 NFE skills training | 8 m VUV | Incl. in normal budget |  | Incl. in normal budget |  | Incl. in normal budget |  | Incl. in normal budget
 
 ##### Problem 3A.9: Keep adults healthy and informed
 
@@ -1581,7 +1636,7 @@ The Ministry of Health in collaboration with the Ministry of Education will deve
 
 3.A.9.1 Support for Adult Reproductive Health programs in schools
 
-Actions required for problem 3A.9 | Time- frame | Responsibility | Monitoring | Progress Indicator
+Actions required for problem 3A.9 | Time-frame | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 3A.9.1 Support for Adult Reproductive Health | 2003 onward | MoH/MoE | MoH/MoE | Progress Report on implemention by EFA jointly with MoH
 
@@ -1602,7 +1657,7 @@ While formal TVET providers are covered by Education Acts, and while all primary
 
 ###### Proposed Reforms / actions required for problem 3A.10:
 
-Actions required for problem 3A.10 | Time- frame | Responsibility | Monitoring | Progress Indicator
+Actions required for problem 3A.10 | Time-frame | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 
 Budget in VUV | 2003 | 2004 | 2005 | 2006
@@ -1611,7 +1666,7 @@ Donor | Local | Donor | Local | Donor | Local | Donor | Local
 
 ##### 3A.11 Include TVET coordination in Provincial Education Board policies
 
-As decentralization in education proceeds, TVET should follow suit and may best be accommodated within the Provincial Education Offices. Coordination of both formal and non-formal TVET can be achieved, but without imposing formal solutions on the nonformal sector.
+As decentralization in education proceeds, TVET should follow suit and may best be accommodated within the Provincial Education Offices. Coordination of both formal and non-formal TVET can be achieved, but without imposing formal solutions on the non-formal sector.
 
 56
 
@@ -1623,14 +1678,14 @@ As decentralization in education proceeds, TVET should follow suit and may best 
 
 3A.11.1 Provide Human Resources for all 6 provinces
 
-Actions required for problem 3A.11 | Time- frame | Responsibility | Monitoring | Progress Indicator
+Actions required for problem 3A.11 | Time-frame | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 3A.11.1 Provide Human Resources for all 6 provinces
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-3A.11.1 | Donor | Local | Donor | Local | Donor | Local | Donor | Local
-Provide Human Resources for all 6 provinces | 15.5 m VUV
+3A.11.1 Provide Human Resources for all 6 provinces | 15.5 m VUV |  |  |  |  |  |  |
 
 57
 
@@ -1662,7 +1717,7 @@ The improved and equitable access to basic and continuing education for adult li
 
 ##### Problem 3B.1: Poor numeracy and literacy programmes in the communities
 
-Text: It is difficult to determine the adult literacy rate because the government does not have  sufficient  resources  to  collect  data.  Secondly,  the  forum  is  faced  with  difficulty defining  the  term  'literacy',  as  members  are  very  much  aware  of  complicated  multilingual  situation  of  Vanuatu,  which  means  that  literacy  and  numerical  knowledge acquired in indigenous languages may be quite different to literacy and numeracy rates of English and French as international languages of communication.
+Text: It is difficult to determine the adult literacy rate because the government does not have sufficient resources to collect data. Secondly, the forum is faced with difficulty defining the term “literacy”, as members are very much aware of complicated multi-lingual situation of Vanuatu, which means that literacy and numerical knowledge acquired in indigenous languages may be quite different to literacy and numeracy rates of English and French as international languages of communication.
 
 As of July 2003 UNESCO has approved the start-up phase of a national literacy survey to be led by Helen Tamtam of USP. An international panel of experts has met in September 2003 to advise. Expected completion date is 2004.
 
@@ -1683,23 +1738,23 @@ As of July 2003 UNESCO has approved the start-up phase of a national literacy su
 Actions required for problem 3B.1 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 3B.1.1. Conduct a nation-wide survey on literacy | 2003 | Statistics Office SIL, USP, World Vision | NFE and USP Taskforce | An update report on adult literacy published by 2004
-3B.1.2 coordinator | 2004 | MoE | USP
-3B.1.3. Community program on adult literacy | 2005 | Ministry Responsible | Ministry Responsible | An improvement on literacy rate - community workshops To be run
+3B.1.2 coordinator | 2004 | MoE | USP |
+3B.1.3. Community program on adult literacy | 2005 | Ministry Responsible | Ministry Responsible | An improvement on literacy rate – community workshops To be run
 
-##### Problem 3B.2 : Lack of a co-ordinated generic monitoring and evaluation  system
-
-Budget in VUV | 2003 | 2004 | 2005 | 2006
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-3B.1.1. Conduct a nation-wide survey on literacy | Donor | Local | Donor | Local | Donor | Local | Donor | Local
-9.1 m UNESCO (4 m) | 5.1 m
-3B.1.2. coordinator
-3B.1.3. Community program on adult literacy | 30 m
+3B.1.1. Conduct a nation-wide survey on literacy | 9.1 m UNESCO (4 m) |  |  | 5.1 m |  |  |  |
+3B.1.2. coordinator |  |  |  |  |  |  |  |
+3B.1.3. Community program on adult literacy |  |  |  |  | 30 m |  |  |
 
-Text: A  national  monitoring  and  evaluation  mechanism  would  provide  qualitative  and quantitative information on the delivery and appropriateness of TVET's  Formal, NonFormal, Distance Learning, Adult Literacy and Special Education.
+##### Problem 3B.2: Lack of a co-ordinated generic monitoring and evaluation system
+
+Text: A national monitoring and evaluation mechanism would provide qualitative and quantitative information on the delivery and appropriateness of TVET’s Formal, Non-Formal, Distance Learning, Adult Literacy and Special Education.
 
 ###### Proposed Reforms/Actions for Problem 3B.2:
 
-- 3B.2.1 Develop a coordinated monitoring and evaluation system for TVET's formal, non-formal, distance learning, adult literacy and Special education based on generic values, needs and skills assessment.
+- 3B.2.1 Develop a coordinated monitoring and evaluation system for TVET’s formal, non-formal, distance learning, adult literacy and Special education based on generic values, needs and skills assessment.
 
 3B.2.2 Train TVET providers to use system and collect appropriate information.
 
@@ -1711,17 +1766,18 @@ Text: A  national  monitoring  and  evaluation  mechanism  would  provide  quali
 
 Actions required for problem 3B.2 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-3B.2.1.Developm ent of TVET monitoring and evaluation system | 2004 - 2006 | VNTC & Training Providers | VNTC & Training Providers | Monitoring and evaluation established by 2005
+3B.2.1.Development of TVET monitoring and evaluation system | 2004 - 2006 | VNTC & Training Providers | VNTC & Training Providers | Monitoring and evaluation established by 2005
 3B.2.2. Training of TVET providers | 2005 | VNTC & Training Providers | VNTC & Training Providers | Training plan of the system produced by 2004
+
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+3B.2.1.Development of monitoring and evaluation system |  |  |  |  |  |  |  |
+3B.2.2. Training of TVET providers |  |  |  |  |  |  |  |
 
 ##### Problem 3B.3: No centralized data bank system
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | --- | ---
-3B.2.1.Developm ent of monitoring and evaluation | Donor | Local | Donor | Local | Donor | Local | Donor | Local
-3B.2.2. Training of TVET providers
-
-Text: Currently  there  is  no  structured  data  collection  and  monitoring  mechanism  for TVET which poses problems to proper planning of TVET, in particular the development of the rural training centers.
+Text: Currently there is no structured data collection and monitoring mechanism for TVET which poses problems to proper planning of TVET, in particular the development of the rural training centers.
 
 ###### Proposed Reforms/Actions for Problem 3B.3:
 
@@ -1729,7 +1785,7 @@ Text: Currently  there  is  no  structured  data  collection  and  monitoring  m
 
 - 3B.3.2 Provide training to TVET providers to use system.
 
-- 3B.3.3 Use data to plan for further development in all levels of TVET's system.
+- 3B.3.3 Use data to plan for further development in all levels of TVET’s system.
 
 Actions required for problem 3B.3 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
@@ -1742,10 +1798,10 @@ Actions required for problem 3B.3 | Timeframe | Responsibility | Monitoring | Pr
 
 [[START OF PAGE 61]]
 
-Budget in VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | ---
-3B.3.1. establishment of centralised data base system
-3B.3.2. Provide training TVET providers use system | to to
+Budget in VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+3B.3.1. establishment of centralised data base system |  |  |  |  |  |  |  |
+3B.3.2. Provide training to TVET providers to use system |  |  |  |  |  |  |  |
 
 ##### Problem 3B.4: Lack of provision for disabled education
 
@@ -1764,7 +1820,7 @@ Special needs teachers should avail themselves of courses run by USP.
 Actions required for problem 3B.4 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 3B.4.1. Work closely with VSDP | 2003 ongoing | Ministry responsible | VSDP | Work plan for disabled people developed by 2004
-3B.4.2. Provide transport and facility for VSDP | ' | Ministry Responsible | VSDP | A network is established between VSDP and Minister responsible
+3B.4.2. Provide transport and facility for VSDP | “ | Ministry Responsible | VSDP | A network is established between VSDP and Minister responsible
 3B.4.3. Conduct research
 
 61
@@ -1780,7 +1836,7 @@ Donor | Local | Donor | Local | Donor | Local | donor | Local
 3B.4.2. Provide transport and facility support for VSDP
 3B.4.3. Conduct research
 
-##### Problem 3B.5 : Insufficient allocation of funds to TVET
+##### Problem 3B.5: Insufficient allocation of funds to TVET
 
 Text: Establishment of systems for sustainable financing mechanisms  to ensure continuous  funding  for  TVET's  formal,  non-formal,  Distance  Learning,  Adult  Literacy and Special Education.
 
@@ -1811,7 +1867,7 @@ Budget in VUV | 2003 | 2004 | 2005 | 2006
 --- | --- | --- | --- | --- | --- | --- | ---
 Donor | Local | Donor | Local | Donor | Local | Donor | Local
 3B.5.1. Separate TVET budget
-3B.5.2.Forma lise TVET structure
+3B.5.2.Formalise TVET structure
 3B.5.3. Approval of TVET Act
 
 ##### Problem 3B.6: No sustainable funding sources
@@ -1824,9 +1880,9 @@ Text: Funding  is  the  biggest  problem  to  operating  in  particular  the  ru
 
 3B.6.2 Establish Training for management of Trust Funds.
 
-Actions required for problem 3B.6 | Timefram e | Responsibility | Monitoring | Progress Indicator
+Actions required for problem 3B.6 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-3B.6.1. | Ministry | Establishment of Trust Funds
+3B.6.1. |  |  | Ministry | Establishment of Trust Funds
 
 63
 
@@ -1834,7 +1890,7 @@ Actions required for problem 3B.6 | Timefram e | Responsibility | Monitoring | P
 
 [[START OF PAGE 64]]
 
-investigation of trust funds establishment | 2003 | Government of Vanuatu | responsible
+investigation of trust funds establishment | 2003 | Government of Vanuatu | responsible |
 --- | --- | --- | --- | ---
 3B.6.2. Establish Training for management of Trust Funds | 2005 | Government of Vanuatu | Ministry responsible | Trust Funds established
 
@@ -1863,9 +1919,9 @@ In the Action Plan the Human Rights for Quality Education are:
 
 - The Right to trained qualify teachers
 
-- The Right to Partnership with Parents
-
 - The Right to safe learning environment
+
+- The Right to Partnership with Parents
 
 - The Right to competent, appropriate, relevant curriculum leadership from the Ministry
 
@@ -1922,13 +1978,15 @@ Donor | Local | Donor | Local | Donor | Local | Donor | Local
 
 ##### Problem 4.2: Lack of Quality Assurance in Education
 
-Text: The rigorous application of professional quality  assurance  policies,  manuals  and audits is the key to establishing high standards in all areas of education. Such an approach is especially needed for the basic education sector. Primary education output as measured by PILL tests suggest poor quality outcomes. Only a marked increase in quality output will provide both the required level of education for those who exit at that point and the pool of students who will have a sound basis for entering the secondary level. Very poor output at secondary level does also point to the lack of a basic education which enables students to function well at secondary level.
+Text: The rigorous application of professional quality assurance policies, manuals and audits is the key to establishing high standards in all areas of education. Such an approach is especially needed for the basic education sector. Primary education output as measured by PILL tests suggest poor quality outcomes. Only a marked increase in quality output will provide both the required level of education for those who exit at that point and the pool of students who will have a sound basis for entering the secondary level. Very poor
 
 66
 
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
+
+output at secondary level does also point to the lack of a basic education which enables students to function well at secondary level.
 
 A MoE working Group instituted in June 2003 is charged with producing a Quality Assurance Manual for schools. The QA MANUAL will serve two major purposes, namely first as a template for QA Manuals for schools and second as a monitoring tool for school inspectors and others engaged in school audits.
 
@@ -1965,7 +2023,7 @@ Text: Though the Ministry of Education consumes 23 percent of the government bud
 
 1996 | 1997 | % | 1998 | % | 1999 | % | 2000 | %
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-1,466,058,456 | 1,216,716,951 | - 17 % | 1,624,608,971 | + 34% | 1,841,460,403 | + 3 %
+1,466,058,456 | 1,216,716,951 | - 17 % |  |  | 1,624,608,971 | + 34% | 1,841,460,403 | + 3 %
 
 Source: MoE Budgets
 
@@ -1992,7 +2050,7 @@ Actions required for problem 4.3 | Timeframe | Responsibility | Monitoring | Pro
 4.3.1. Maintain budget submission | 2003-2006 | Director General, Planning, Administration, DESD | Director General, Administrative Section | Quarterly Financial Reports
 4.3.2. Release budget on quarterly basis | 2003-2006 | Director General, Planning, Administration, MoF | Director General, Administrative Section
 4.3.3. Ensure flexibility to use left over funds | 2003-2006 | Director General, Planning, Administration | Director General, Administrative Section
-4.3.4 Establish a Task Force to conduct const- benefit study | 2004
+4.3.4 Establish a Task Force to conduct const-benefit study | 2004
 
 Budget VUV | 2003 | 2004 | 2005 | 2006
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -2000,7 +2058,7 @@ Donor | Local | Donor | Local | Donor | Local | Donor | Local
 4.3.1. Maintain budget submission
 4.3.2. Release budget on quarterly basis
 4.3.3. Ensure flexibility to use left over funds
-4.3.4 Establish a Task Force to conduct const- benefit study
+4.3.4 Establish a Task Force to conduct const-benefit study
 
 Remarks: This  is  an  ongoing  administrative  matter  and  has  to  be  negotiated  with  the Ministry of Finance within the recurrent budget.
 
@@ -2030,7 +2088,7 @@ Edukesen blong Vanuatu; lukoatem gud mo lanem ol pikinini blong oli kam ol gudfa
 
 The Republic of Vanuatu is proud of its unique identity and is committed to the development of good citizenship through the provision of a relevant, adaptable, quality driven and student centred education system, which takes into consideration the uniqueness of each child.
 
-The Ministry of Education recognises that education is the shared responsibility of education authorities, communities and parents, and will provide system, which is accommodating and inclusive and which will lead to self-development and selfrealisation for the young people of Vanuatu. This entails the provision of welltrained teachers, adequate teaching materials and appropriate infrastructure to meet local educational and training needs.
+The Ministry of Education recognises that education is the shared responsibility of education authorities, communities and parents, and will provide system, which is accommodating and inclusive and which will lead to self-development and self-realisation for the young people of Vanuatu. This entails the provision of well-trained teachers, adequate teaching materials and appropriate infrastructure to meet local educational and training needs.
 
 ###### Aims of Education
 
@@ -2090,24 +2148,26 @@ Actions required for problem 4.4 | Timeframe | Responsibility | Monitoring | Pro
 4.4.2. Curriculum review | 2004 - 2007 2003 | NCC EUVED, NZAid | Curriculum Development Unit | Launching of reviewed curricular
 4.4.3 Printing and distribution
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Loc | Donor | Loc | Donor | Local
-4.4.1. Wide consultation of curriculum review | 40,000,000
-4.4.2. Curriculum review | EU, NZAid | 260,000,000
-4.4.3Printing and distribution
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Loc | Donor | Loc | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+4.4.1. Wide consultation of curriculum review |  |  | 40,000,000 |  |  |  |  |
+4.4.2. Curriculum review | EU, NZAid |  |  |  | 260,000,000 |  |  |
+4.4.3Printing and distribution |  |  |  |  |  |  |  |
 
 ##### Problem 4.5: Full facilitation of Inspectors and advisors
 
-Text: The  inspection  and  advisory  section  has  been  established  and  urgently  needs adequate financial and other resources necessary to fulfil school inspection, initial and inservice training programs.
+Text: The inspection and advisory section has been established and urgently needs adequate financial and other resources necessary to fulfil school inspection, initial and in-service training programs.
 
-The  curriculum  review  paper  (facilitated  by  Dr  Tony  Austin,  DRAFT  August  2003: Junior Secondary School Curriculum Review Strategy Working Paper) contains a number of recommendations. The newly developed Quality Assurance Manual for inspectors also seeks  to  improve  standards.  The  CDU  also  is  working  on  a  Principal  Grading  System seeking to improve the performance of Secondary Schools performance.
+The curriculum review paper (facilitated by Dr Tony Austin, DRAFT August 2003: Junior Secondary School Curriculum Review Strategy Working Paper) contains a number
 
 72
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
+
+of recommendations. The newly developed Quality Assurance Manual for inspectors also seeks to improve standards. The CDU also is working on a Principal Grading System seeking to improve the performance of Secondary Schools performance.
 
 ###### Proposed reform for problem 4.5:
 
@@ -2122,11 +2182,11 @@ Actions required for problem 4.5 | Timeframe | Responsibility | Monitoring | Pro
 4.5.1. Inspection and advisory budget | 2003 | VIOE, Primary, Secondary | VIOE | Regular and timely inspection
 4.5.2. In-service training | 2003 | VIOE, Primary, Secondary | VITE | More teacher education programs
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-4.5.1. Inspection and advisory budget | 25,000,000
-4.5.2. In-service training | 16,000,000 | 60,000,000
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+4.5.1. Inspection and advisory budget |  |  | 25,000,000 |  |  |  |  |
+4.5.2. In-service training |  |  | 16,000,000 |  |  |  | 60,000,000 |
 
 ##### Problem 4.6: Poor Education Management Information system and administrative problems and lack of Human Resource Development Plan
 
@@ -2162,18 +2222,18 @@ Actions required for problem 4.6 | Timeframe | Responsibility | Monitoring | Pro
 4.6.2. Development of a Human Resource Development and Training Plan | 2003 | Administration | PEO, Personnel | Human Resource Training and development Plan by 2004
 4.6.3. Link EMIS to the other education offices | 2004 | Planning | SEO, Monitoring | EMIS network and training
 
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 |
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+4.6.1. Revive the EMIS program and link it to the provinces |  | 6,700 | 45 m VUV EDF9 | 6,700 | 50,000 | 6,700 | 50,000 | 6,700
+4.6.2. Development of a Human Resource Development and Training Plan |  | 1,700 |  | 1,700 |  | 1,700 |  | 1,700
+4.6.3. Networking and Training of EMIS |  |  |  |  |  |  |  |
+
 ##### Problem 4.7: Poor teacher housing conditions
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-4.6.1. Revive the EMIS program and link it to the provinces | 6,700 | 45 m VUV EDF9 | 6,700 | 50,000 | 6,700 | 50,000 | 6,700
-4.6.2. Development of a Human Resource Development and Training Plan | 1,700 | 1,700 | 1,700 | 1,700
-4.6.3. Networking and Training of EMIS
+Text: To ensure teacher motivation and welfare, the Ministry through a number of reports has been informed about very poor teacher housing in rural and mostly very remote inland schools. The semi-permanent and temporary buildings are community contributions that last for not more than 2 years (see also the 2003 Schools in TORBA report by Sperlich, Svard-Ylilehto and Willie).
 
-Text: To  ensure  teacher  motivation  and  welfare,  the  Ministry  through  a  number  of reports  has  been  informed  about  very  poor  teacher  housing  in  rural  and  mostly  very remote  inland  schools.  The  semi-permanent  and  temporary  buildings  are  community contributions that last for not more than 2 years (see also the 2003 Schools in TORBA report by Sperlich, Svard-Ylilehto and Willie).
-
-The  newly  developed  Quality  Assurance  Manual  for  inspectors  and  other  education officials has a survey section for teacher housing and should be used for regular up-dates. Minimum  standards  of  buildings  and  equipment  can  be  deduced  from  the  EUVED building code.
+The newly developed Quality Assurance Manual for inspectors and other education officials has a survey section for teacher housing and should be used for regular up-dates. Minimum standards of buildings and equipment can be deduced from the EUVED building code.
 
 75
 
@@ -2181,14 +2241,15 @@ The  newly  developed  Quality  Assurance  Manual  for  inspectors  and  other  
 
 [[START OF PAGE 76]]
 
-Building Structure | Conditions
+ | Building Structure |  |  | Conditions |  |
+ | Permanent | Semi-Permanent | Temporary | Good | Fair | Poor
 --- | --- | --- | --- | --- | --- | ---
-TORBA | Permanent 22 | Semi- Permanent 12 | Temporary 13 | Good 6 | Fair 16 | Poor 25
-SHEFA
+TORBA | 22 | 12 | 13 | 6 | 16 | 25
+SHEFA |  |  |  |  |  | 
 TAFEA | 61 | 29 | 33 | 31 | 43 | 49
-PENAMA
-MALAMPA
-SANMA
+PENAMA |  |  |  |  |  | 
+MALAMPA |  |  |  |  |  | 
+SANMA |  |  |  |  |  | 
 
 Building survey in the provinces 2001
 
@@ -2206,14 +2267,14 @@ Actions required for problem 4.7 | Timeframe | Responsibility | Monitoring | Pro
 4.7.2. Review grading of houses | 2003 - 2005 | Administration, Primary, Secondary, Planning | EFA Co-ordinator, Building and Maintenance, Primary, Secondary | Building and Maintenance Annual Year report
 4.7.3. Develop investment plans | 2003 - 2005 | Planning, Administration | Director Planning, Principal Architect | Investment Plan policies
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-4.7.1. Conduct a survey in all schools | 6,250 | 1,190
-4.7.2. Review grading of houses
-4.7.3. Develop investment plans
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 | 
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+4.7.1. Conduct a survey in all schools | 6,250 | 1,190 |  |  |  |  |  | 
+4.7.2. Review grading of houses |  |  |  |  |  |  |  | 
+4.7.3. Develop investment plans |  |  |  |  |  |  |  | 
 
-###### Remarks: .
+###### Remarks:.
 
 76
 
@@ -2242,15 +2303,15 @@ To improve the services the MoE;
 Actions required for problem 4.8 | Timeframe | Responsibility | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 4.8.1. Improve Sea transport services in the provinces | 2004 - 2007 | Primary, Secondary, Director General | Director Administration | At least all four of the provinces will operate bigger boats by 2007
-4.8.2. Link Telecommunicatio n to schools | 2003 onward | Minister of Education, Director General | Director General | At least 90 percent of schools are accessed by 2007
+4.8.2. Link Telecommunication to schools | 2003 onward | Minister of Education, Director General | Director General | At least 90 percent of schools are accessed by 2007
 4.8.3. Negotiation for the possibility to subsidise shipping | 2003 | Minister of Education, Director | Director General
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-4.8.1. MoE to operate bigger boats
-4.8.2. establishment of telecommunication services in all schools
-4.8.3. Negotiation for the possibility to subsidise shipping
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 | 
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+4.8.1. MoE to operate bigger boats |  |  |  |  |  |  |  | 
+4.8.2. establishment of telecommunication services in all schools |  |  |  |  |  |  |  | 
+4.8.3. Negotiation for the possibility to subsidise shipping |  |  |  |  |  |  |  | 
 
 77
 
@@ -2272,10 +2333,10 @@ Actions required for problem 4.9 | Timeframe | Responsibility | Monitoring | Pro
 --- | --- | --- | --- | ---
 4.9.1. Strengthen the Asset Register Unit | 2003 - 2005 | Administration, | Asset register officer | All assets register and monitored
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-4.9.1. Strengthen the Asset Register Unit
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 | 
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+4.9.1. Strengthen the Asset Register Unit |  |  |  |  |  |  |  | 
 
 78
 
@@ -2289,7 +2350,7 @@ Eliminating  gender  disparities  in  primary  and  secondary  education  by  20
 
 The Government of Vanuatu has indicated its commitment to gender equity through provisions detailed in the Constitution and the Comprehensive Reform Programme. It has also ratified two important and influential international conventions, The Convention on the Elimination of all forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).  Both these conventions legally bind the Government of Vanuatu to take steps to ensure gender equity. Finally, in May 2001 the Vanuatu Government endorsed the Pacific Islands Basic Education Action Plan.
 
-The Fundamental Rights and Duties section of the Constitution (Chapter 2, Part 1, Clause 5(1))  guarantees  that  citizens  will  not  be  discriminated  against  on  the  grounds  of  sex. Sub clause 'k' also guarantees equal treatment under the law and administrative action.  It also states that any law or action that 'makes provision for the special benefit, welfare, protection or advancement of females, children and young persons, members of underprivileged groups or inhabitants of less developed areas' will not be inconsistent with the law.  This is similar to Article 4 of The Convention on the Elimination of all forms of Discrimination Against Women (CEDAW).
+The Fundamental Rights and Duties section of the Constitution (Chapter 2, Part 1, Clause 5(1)) guarantees that citizens will not be discriminated against on the grounds of sex. Sub clause ‘k’ also guarantees equal treatment under the law and administrative action. It also states that any law or action that “makes provision for the special benefit, welfare, protection or advancement of females, children and young persons, members of under-privileged groups or inhabitants of less developed areas” will not be inconsistent with the law. This is similar to Article 4 of The Convention on the Elimination of all forms of Discrimination Against Women (CEDAW).
 
 Eliminating  gender  disparities  in  education  is  an  important  goal  of  the  Ministry  of Education.   The Education Master Plan, the Corporate Plan and Education for All Action Plan have identified and prioritised gender equity in education.  It is also an important focus of the social equity reforms of the Comprehensive Reform Programme.
 
@@ -2335,15 +2396,15 @@ Text: As pointed out in J. Strachan (2002) A Gender Analysis of the Education Se
 
 - Establish a counselling /career development at all levels of education including the Primary, Secondary  and Tertiary institutions.
 
-- provide office space
+- a) provide office space
 
 - b)Staff training
 
-- Develop training manual
+- c) Develop training manual
 
-- Awareness to parents through institutions such as the NGOs, and  through Drama, TV, Video,phamphlet PTA  meetings,
+- d) Awareness to parents through institutions such as the NGOs, and through Drama, TV, Video,phamphlet PTA meetings,
 
-- Strengthen the existing Youth Employment opportunity Unit through recruitment of a TA to address identified gender disparities in Non formal Sector.( Specified in Dr Strachan's Reports)
+- e) Strengthen the existing Youth Employment opportunity Unit through recruitment of a TA to address identified gender disparities in Non formal Sector.( Specified in Dr Strachan’s Reports)
 
 - Recommendation 2
 
@@ -2362,11 +2423,11 @@ Actions required for problem 5.1 | Timeframe | Responsibility | Monitoring | Pro
 5.1.1 Develop a Gender Equity in Education Policy | 2003 - 2004 | MoE | MoE DWA DSM | Policy document by 2003
 5.1.2 Implement recommendations of the Strachan (2002) report | 2003 - 2006 | MoE NGOs MoYD | MoE MoYTD NGOs DSM | Implementation by 2006
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-5.1.1 Develop a Gender Equity in Education Policy | 2.5 m
-5.1.2 Implement recommendations of the Strachan (2002) report | 32 m | 10.8 m
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 | 
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+5.1.1 Develop a Gender Equity in Education Policy | 2.5 m |  |  |  |  |  |  | 
+5.1.2 Implement recommendations of the Strachan (2002) report | 32 m |  | 10.8 m |  |  |  |  | 
 
 ##### Problem 5.2: Lack of counselling services
 
@@ -2389,11 +2450,11 @@ Actions required for problem 5.2 | Timeframe | Responsibility | Monitoring | Pro
 5.2.1. Training | 2004 - 2010 | MOE and Stakeholders | MoE MoYTD NGOs | Co-ordination using data of annual enrolment
 5.2.2. Establishment of the centre | 2004 | MOE | MoE MoYTD NGOs
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-5.2.1. Training | 5 m | 3.5 m
-5.2.2. Establishment and operation | 13 m
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 | 
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+5.2.1. Training | 5 m |  | 3.5 m |  |  |  |  | 
+5.2.2. Establishment and operation |  |  | 13 m |  |  |  |  | 
 
 ##### Problem 5.3: Low carrying capacity of existing secondary schools
 
@@ -2422,7 +2483,7 @@ TAFEA | 64
 
 - 5.3.2 Development of secondary school infrastructure plan
 
-- 5.3.3 Increase access through donor funding as indicated by 2 nd phase AUSAid project to provide 350 additional places [taken from workshop notes in 3A]
+- 5.3.3 Increase access through donor funding as indicated by 2nd phase AUSAid project to provide 350 additional places [taken from workshop notes in 3A]
 
 - 5.3.4 Increase by additional 1000 places [taken from workshop notes in 3A]
 
@@ -2430,7 +2491,7 @@ Actions required for problem 5.3 | Timeframe | Responsibility | Monitoring | Pro
 --- | --- | --- | --- | ---
 5.3.1. Review design capacities of school specification | 2003 | MOE Administration | Maintenance section | Design of all school buildings will be in place by 2003
 5.3.2. Development of secondary school infrastructure plan | 2003 -2004 | MOE | Maintenance section, Directors, Secondary and Planning | Plan will published in 2004
-5.3.3 Increase access through donor funding as indicated by 2 nd phase AUSAid project to provide 350 additional places
+5.3.3 Increase access through donor funding as indicated by 2nd phase AUSAid project to provide 350 additional places
 5.3.4 Increase by additional 1000 places
 
 83
@@ -2439,13 +2500,13 @@ Actions required for problem 5.3 | Timeframe | Responsibility | Monitoring | Pro
 
 [[START OF PAGE 84]]
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-5.3.1. Review design capacities of school specification
-5.3.2. Development of secondary school infrastructure plan
-5.3.3 Increase access through donor funding as indicated by 2 nd phase AUSAid project to provide 350 additional places | AUSAid 8 m AUD
-5.3.4 Increase by additional 1000 places | 20 m USD
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 | 
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+5.3.1. Review design capacities of school specification |  |  |  |  |  |  |  | 
+5.3.2. Development of secondary school infrastructure plan |  |  |  |  |  |  |  | 
+5.3.3 Increase access through donor funding as indicated by 2nd phase AUSAid project to provide 350 additional places | AUSAid 8 m AUD |  |  |  |  |  |  | 
+5.3.4 Increase by additional 1000 places |  |  | 20 m USD |  |  |  |  | 
 
 ##### Problem  5.4:  Lack  of  Junior  and  Senior  Secondary  School  Teachers  and  lack  of appropriate teaching programs
 
@@ -2477,14 +2538,14 @@ Actions required for problem 5.4 | Timeframe | Responsibility | Monitoring | Pro
 5.4.4. Development of a training proposal plan
 5.4.5 Develop and implement Technology Course in all Secondary Schools
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-5.4.1. Increase Junior and Senior Secondary Teacher Initial Training
-5.4.2. Initial training to localise the CFEB at VITE
-5.4.3. Improvement of In-service training profile
-5.4.4. Development of a training proposal plan
-5.4.5 Develop and implement Technology Course in all Secondary Schools | 40 m
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 | 
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+5.4.1. Increase Junior and Senior Secondary Teacher Initial Training |  |  |  |  |  |  |  | 
+5.4.2. Initial training to localise the CFEB at VITE |  |  |  |  |  |  |  | 
+5.4.3. Improvement of In-service training profile |  |  |  |  |  |  |  | 
+5.4.4. Development of a training proposal plan |  |  |  |  |  |  |  | 
+5.4.5 Develop and implement Technology Course in all Secondary Schools |  |  | 40 m |  |  |  |  | 
 
 85
 
@@ -2519,13 +2580,13 @@ Actions required for problem 5.5 | Timeframe | Responsibility | Monitoring | Pro
 
 [[START OF PAGE 87]]
 
-Budget VUV | 2003 | 2004 | 2005 | 2006
---- | --- | --- | --- | --- | --- | --- | ---
-Donor | Local | Donor | Local | Donor | Local | Donor | Local
-5.5.1. Establishment of Resource centre in the provinces
-5.5.2. Review of distribution policies
-5.5.3. Review procurement process
-5.5.4. Strengthening of school learning resources
+Budget VUV | 2003 |  | 2004 |  | 2005 |  | 2006 | 
+ | Donor | Local | Donor | Local | Donor | Local | Donor | Local
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+5.5.1. Establishment of Resource centre in the provinces |  |  |  |  |  |  |  | 
+5.5.2. Review of distribution policies |  |  |  |  |  |  |  | 
+5.5.3. Review procurement process |  |  |  |  |  |  |  | 
+5.5.4. Strengthening of school learning resources |  |  |  |  |  |  |  | 
 
 87
 
