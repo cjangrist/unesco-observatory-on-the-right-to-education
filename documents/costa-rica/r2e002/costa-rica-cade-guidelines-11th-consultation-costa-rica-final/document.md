@@ -36,15 +36,17 @@ Las presentes directrices tienen por objeto ayudar a los Estados Miembros a prep
 
 Habida cuenta de la agenda Educación 2030, el seguimiento de la Convención y la Recomendación es de vital importancia a fin de garantizar que la educación sea realmente inclusiva para todos y hacer  frente  a  la  persistencia  de  las  desigualdades  en  cuanto  al  acceso,  la  participación  y  los resultados del aprendizaje en todos los niveles, especialmente para los grupos más vulnerables. Esto  es  particularmente  cierto  en  el  contexto  actual,  en  el  que  los  países  se  esfuerzan  por recuperarse de la interrupción del aprendizaje causada por la pandemia de COVID-19. Las medidas concretas adoptadas por los países en consonancia con sus obligaciones jurídicas en virtud de estos instrumentos contribuyen a la aplicación de la agenda Educación 2030.
 
-Dado que el alcance y el contenido de las obligaciones jurídicas en virtud del derecho a la educación están en consonancia con las diez metas del ODS 4, se están invirtiendo esfuerzos en velar por que las  directrices  incluyan  los  componentes  de  las  metas  y  sean  una  valiosa  contribución  al seguimiento de los progresos realizados hacia la consecución de las metas del ODS 4.
+Dado que el alcance y el contenido de las obligaciones jurídicas en virtud del derecho a la educación están en consonancia con las diez metas del ODS 4, se están invirtiendo esfuerzos en velar por que
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+las directrices incluyan los componentes de las metas y sean una valiosa contribución al seguimiento de los progresos realizados hacia la consecución de las metas del ODS 4.
+
 La Convención no solo se ajusta plenamente al ODS 4, sino también al contenido normativo sobre el derecho a la educación de otros instrumentos internacionales de derechos humanos, como el Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966), la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (1979), la Convención sobre los Derechos del Niño (1989) y la Convención sobre los Derechos de las Personas con Discapacidad (2006).
 
-Esta consulta es asimismo una oportunidad para aportar una contribución a la iniciativa en curso de la UNESCO sobre la evolución del derecho a la educación dentro de una perspectiva de aprendizaje permanente 1  (puesta en marcha en diciembre de 2021). Esta iniciativa busca maneras de reforzar el derecho a la educación enmarcándolo en una perspectiva de aprendizaje permanente y tomando en consideración las nuevas exigencias que se plantean a la educación. Reposa en el informe de la Comisión Internacional sobre los Futuros de la Educación 2 , en el que se propone ampliar explícitamente nuestro enfoque del derecho a la educación a todas las edades, a todos los tiempos y a todos los espacios. La iniciativa también está en consonancia con la Declaración de visión  del  Secretario  General  de  las  Naciones  Unidas  sobre  la  transformación  de  la educación 3 y con el Informe de la Cumbre sobre la Transformación de la Educación (2022) 4 , el cual aboga por la transformación de los sistemas educativos para ' incluir a todos, independientemente de las circunstancias, el contexto o el origen ' . La iniciativa sobre la evolución del  derecho  a  la  educación  tiene  por  finalidad  poner  en  marcha  un  análisis  colaborativo  y participativo sobre el marco internacional para garantizar la observancia efectiva del derecho a la educación y al aprendizaje a lo largo de toda la vida para todos. Por último, la iniciativa se basa en diálogos  intergubernamentales  recientes,  en  particular  el  Marco  de  Acción  de  Marrakech  Aprovechar el poder transformador del aprendizaje y la educación de adultos 5  y la Declaración de Tashkent y los Compromisos de Acción para Transformar la Atención y Educación de la Primera Infancia 6 .
+Esta consulta es asimismo una oportunidad para aportar una contribución a la iniciativa en curso de la UNESCO sobre la evolución del derecho a la educación dentro de una perspectiva de aprendizaje permanente1 (puesta en marcha en diciembre de 2021). Esta iniciativa busca maneras de reforzar el derecho a la educación enmarcándolo en una perspectiva de aprendizaje permanente y tomando en consideración las nuevas exigencias que se plantean a la educación. Reposa en el informe de la Comisión Internacional sobre los Futuros de la Educación2, en el que se propone ampliar explícitamente nuestro enfoque del derecho a la educación a todas las edades, a todos los tiempos y a todos los espacios. La iniciativa también está en consonancia con la Declaración de visión del Secretario General de las Naciones Unidas sobre la transformación de la educación3 y con el Informe de la Cumbre sobre la Transformación de la Educación (2022)4, el cual aboga por la transformación de los sistemas educativos para “incluir a todos, independientemente de las circunstancias, el contexto o el origen”. La iniciativa sobre la evolución del derecho a la educación tiene por finalidad poner en marcha un análisis colaborativo y participativo sobre el marco internacional para garantizar la observancia efectiva del derecho a la educación y al aprendizaje a lo largo de toda la vida para todos. Por último, la iniciativa se basa en diálogos intergubernamentales recientes, en particular el Marco de Acción de Marrakech - Aprovechar el poder transformador del aprendizaje y la educación de adultos5 y la Declaración de Tashkent y los Compromisos de Acción para Transformar la Atención y Educación de la Primera Infancia6.
 
 Cabe señalar también que las consultas previas sobre la Convención y la Recomendación revelaron que  los  países  tienen  ahora  una  visión  más  amplia  del  derecho  a  la  educación.  La  undécima consulta, que reposa en las conclusiones de los informes nacionales anteriores, incluye diversas cuestiones que tienen repercusiones directas en el derecho a la educación como, por ejemplo, el aprendizaje  digital,  las  consideraciones  relacionadas  con  el  clima,  el  derecho  al  aprendizaje permanente y el papel de los agentes no estatales en la educación.
 
@@ -84,7 +86,7 @@ Al preparar los informes, se anima a los Estados Miembros a proporcionar informa
 
 La información pertinente proporcionada en otros informes puede reproducirse o señalarse como referencia  con  indicaciones  precisas  para  su  consulta.  Del  mismo  modo,  se  apreciarán  los hipervínculos a cualquier documento útil o texto jurídico o normativo pertinente, y también pueden añadirse textos en el anexo.
 
-Los  informes  de  los  países  presentados  en  consultas  anteriores  pueden  consultarse  en  el Observatorio sobre el Derecho a la Educación 7 , en la sección sobre el seguimiento de los perfiles de los países. La información proporcionada en los informes es valiosa tanto para el Observatorio sobre el Derecho a la Educación como para HerAtlas 8 , la herramienta de seguimiento en línea del derecho a la educación de las niñas y las mujeres. La información y los datos relativos a los sistemas educativos de los países también están disponibles en la base de datos del Instituto de Estadística de  la  UNESCO 9 .  Las  conclusiones  y  los  informes  de  las  consultas  no  solo  sirven  para  el seguimiento, sino que nutren una labor más amplia de generación de conocimientos, promoción y cooperación técnica.
+Los informes de los países presentados en consultas anteriores pueden consultarse en el Observatorio sobre el Derecho a la Educación7, en la sección sobre el seguimiento de los perfiles de los países. La información proporcionada en los informes es valiosa tanto para el Observatorio sobre el Derecho a la Educación como para HerAtlas8, la herramienta de seguimiento en línea del derecho a la educación de las niñas y las mujeres. La información y los datos relativos a los sistemas educativos de los países también están disponibles en la base de datos del Instituto de Estadística de la UNESCO9. Las conclusiones y los informes de las consultas no solo sirven para el
 
 > 7 http://www.unesco.org/education/edurights/index.php?action=home&lng=en.
 
@@ -95,6 +97,8 @@ Los  informes  de  los  países  presentados  en  consultas  anteriores  pueden 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+seguimiento, sino que nutren una labor más amplia de generación de conocimientos, promoción y cooperación técnica.
 
 ## 5. Modalidades y estructura
 
@@ -108,9 +112,9 @@ Las directrices se estructuran en torno a tres capítulos:
 
 Con miras a simplificar las directrices proporcionando al mismo tiempo la información sustantiva necesaria para orientar a los Estados Miembros en la preparación de sus respuestas sobre la base de un proceso participativo, se ofrecen orientaciones de los dos tipos siguientes :
 
-- Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente.  Tenga  en  cuenta  que  pueden  proporcionarse  múltiples  respuestas cuando sea pertinente.
+1) Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente. Tenga en cuenta que pueden proporcionarse múltiples respuestas cuando sea pertinente.
 
-- Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus respuestas a las preguntas abiertas (incluidos comentarios sobre cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
+2) Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus respuestas a las preguntas abiertas (incluidos comentarios sobre cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
 
 > 10 http://www.unesco.org/education/edurights/index.php?action=home&lng=en.
 
@@ -132,7 +136,7 @@ Nombre de la persona de contacto: Anna Katharina Müller Castro (Ministra de Edu
 
 Correo electrónico y número de teléfono de la persona de contacto: despachoministerial@mep.go.cr, katherine.muller@mep.go.cr
 
-# Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 13
+# I. Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza13
 
 ¿Es su país un Estado Parte en la Convención?
 
@@ -158,11 +162,11 @@ No aplica
 
 No aplica
 
-13
+> 13 https://www.unesco.org/es/legal-affairs/convention-against-discrimination-education.
 
-> https://www.unesco.org/es/legal-affairs/convention-against-discrimination-education.
+> 14 Consulta https://www.unesco.org/es/legal-affairs/convention-against-discrimination-education#item-2
 
-> 14  Consulta https://www.unesco.org/es/legal-affairs/convention-against-discrimination-education#item-2 15
+> 15
 
 [[END OF PAGE 7]]
 
@@ -186,7 +190,7 @@ No aplica
 
 - Resolución Nº 2021006984 de la SALA CONSTITUCIONAL DE LA CORTE SUPREMA DE JUSTICIA. San José, a las nueve horas quince minutos del nueve de abril de dos mil veintiuno.
 
-- Resolución  Nº  23074 -2022.  SALA  CONSTITUCIONAL  DE  LA  CORTE  SUPREMA  DE  JUSTICIA.  S.J., Resolución  de  las  13  horas  veintiseis  minutos  del  treinta  de  setiembre  del  dos  mil  veintidós. Referente a la discriminación por identidad de género contra persona menore de edad en e espacio educativo (No reconocimiento del nombre social).
+- Resolución Nº 23074 – 2022. SALA CONSTITUCIONAL DE LA CORTE SUPREMA DE JUSTICIA. S.J., Resolución de las 13 horas veintiseis minutos del treinta de setiembre del dos mil veintidós. Referente a la discriminación por identidad de género contra persona menore de edad en e espacio educativo (No reconocimiento del nombre social).
 
  Sí:
 
@@ -268,7 +272,7 @@ Sí
 
 - Reglamento a la Ley de Igualdad de Oportunidades para las personas con discapacidad (Decreto Ejecutivo 26831-MP-MEP).
 
-> 17 En la que se insta a los Estados a 'eliminar las disparidades de género en la educación y asegurar el acceso igualitario a to dos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad'.
+> 17 En la que se insta a los Estados a “eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad”.
 
 [[END OF PAGE 9]]
 
@@ -294,31 +298,31 @@ Sí
 
 - Ley número 7711, de 1997 'Ley de eliminación de la discriminación racial en los programas educativos y en los medios de comunicación'
 
-- Decreto número 32338MEP, de 2005 para el 'Establecimiento de la Comisión Nacional de Estudios Afroc ostarricenses'
+- Decreto número 32338-MEP, de 2005 para el “Establecimiento de la Comisión Nacional de Estudios Afrocostarricenses”
 
-- Ley número 8938, del 2011, 31 de agosto, de cada año, como 'Día de la Persona Negra y la Cultura Afrocostarricense'.
+- Ley número 8938, del 2011, 31 de agosto, de cada año, como “Día de la Persona Negra y la Cultura Afrocostarricense”.
 
-- Decreto número 38140 de 2014 ' Política Nacional para una sociedad libre de racismo, discriminación racial y xenofobia 2014-2025 y su Plan de Acción ' .
+- Decreto número 38140 de 2014 “Política Nacional para una sociedad libre de racismo, discriminación racial y xenofobia 2014-2025 y su Plan de Acción”.
 
 - Decreto 32338-MEP de 2005 Creación de la Comisión Nacional de Estudios Afrocostarricenses.
 
-- Directriz 057-MEP de 2019. 'E rradicación de la discriminación étnico-racial en los centros educativos'
+- Directriz 057-MEP de 2019. “Erradicación de la discriminación étnico-racial en los centros educativos”
 
-- Convención Internacional sobre la Eliminación de todas las Formas de Discriminación Racial (AGONU, 21-12-1965). Ev-04-01-1969.
+- Convención Internacional sobre la Eliminación de todas las Formas de Discriminación Racial (AG-ONU, 21-12-1965). Ev-04-01-1969.
 
-- Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC) (AG-ONU, 16-121966). Ev.03-01-1976.
+- Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC) (AG-ONU, 16-12-1966). Ev.03-01-1976.
 
 - Pacto Internacional de Derechos Civiles y Políticos (PIDCP) (AG-ONU,16-12-1966). Ev.23-03-1976.
 
-- Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos (AGONU, 16-121966). Ev. 23-03-1976.
+- Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos (AG-ONU, 16-12-1966). Ev. 23-03-1976.
 
-- Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (AGONU, 18-12-1979). Ev.03-09-1981.
+- Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (AG-ONU, 18-12-1979). Ev.03-09-1981.
 
 - Convención Americana sobre Derechos Humanos, 3-2-1970
 
 - Protocolo Facultativo de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (AG-ONU, 06-10-1999).
 
-- Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes (AGONU, 10-12-1984). Ev. 26-06-1987.
+- Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes (AG-ONU, 10-12-1984). Ev. 26-06-1987.
 
 - Convención sobre los Derechos del Niño (AG-ONU, 20-11-1989), 21 de agosto de 1990
 
@@ -336,9 +340,9 @@ Sí
 
 - Protocolo para instituir la comisión de conciliación y buenos oficios facultada para resolver las controversias que daría lugar a la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (Ad. AG.UNESCO 10-12-1962. Ev.24-10-1968).
 
-- Convención para la Prevención y la Sanción del Delito de Genocidio (AG-ONU, 09-12- 1948). Ev09-12-1948.
+- Convención para la Prevención y la Sanción del Delito de Genocidio (AG-ONU, 09-12- 1948). Ev-09-12-1948.
 
-- Convención Internacional sobre la Represión y el Castigo del Crimen del Apartheid (AG-ONU, 3011-1973).
+- Convención Internacional sobre la Represión y el Castigo del Crimen del Apartheid (AG-ONU, 30-11-1973).
 
 - Convención Internacional contra el Apartheid en los Deportes (AG-ONU, 10-12- 1985).
 
@@ -378,7 +382,7 @@ A título de referencia, este aspecto se abarca principalmente en la meta 4.1 de
 
 > 18 Véase el artículo/párrafo 1.1.
 
-> 19 En la cual se insta a los Estados a 'aumentar considerablemente a nivel mundial el número de becas disponibles [...] a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y program as técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones'.
+> 19 En la cual se insta a los Estados a “aumentar considerablemente a nivel mundial el número de becas disponibles [...] a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y programas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones”.
 
 > 20 Constitución, leyes, decretos, reglamentos, circulares, etc.
 
@@ -440,11 +444,11 @@ A título de referencia, este aspecto se abarca principalmente en la meta 4.1 de
 
 [[START OF PAGE 13]]
 
-- de  pruebas  de  ubicación  en  el  proceso  de  matrícula.  E.  Levantamiento  de  la  información.    F. Acogida a la población estudiantil migrante en la educación superior universitaria.
+de pruebas de ubicación en el proceso de matrícula. E. Levantamiento de la información. F. Acogida a la población estudiantil migrante en la educación superior universitaria.
 
 - Protocolo de actuación en situaciones de discriminación racial y xenofobia. MEP.
 
-- Resolución N°3566-2016 MEP: Reconocimiento de la identidad de género en la documentación ini cial'.
+- Resolución N°3566-2016 MEP: Reconocimiento de la identidad de género en la documentación inicial”.
 
 - Ley número 5360, Prohibición de todas las restricciones a la migración fundada en consideración de raza, del 11 de octubre de 1973 y sus reformas.
 
@@ -452,29 +456,29 @@ A título de referencia, este aspecto se abarca principalmente en la meta 4.1 de
 
 - Ley  número  7711,  de  1997  'Ley  de  eliminación  de  la  discriminación  racial  en  los  programas educativos y en los medios de comunicación'
 
-- Decreto  número  32338MEP,  de  2005  para  el  'Establecimiento  de  la  Comisión  Nacional  de Estudios Afrocostarricenses'
+- Decreto número 32338-MEP, de 2005 para el “Establecimiento de la Comisión Nacional de Estudios Afrocostarricenses”
 
-- Ley número 8938, del 2011, 31 de agosto, de cada año, como 'Día de la Persona Negra y la Cultura Afrocostarricense'.
+- Ley número 8938, del 2011, 31 de agosto, de cada año, como “Día de la Persona Negra y la Cultura Afrocostarricense”.
 
-- Decreto  número  38140  de  2014  'Política  Nacional  para  una  sociedad  libre  de  racismo, discriminación racial y xenofobia 20142025 y su Plan de Acción'.
+- Decreto número 38140 de 2014 “Política Nacional para una sociedad libre de racismo, discriminación racial y xenofobia 2014-2025 y su Plan de Acción”.
 
 - Decreto 32338-MEP de 2005 Creación de la Comisión Nacional de Estudios Afrocostarricenses.
 
-- Directriz  057MEP  de  2019.  'Erradicación  de  la  discriminación  étnico -racial  en  los  centros educativos'
+- Directriz 057-MEP de 2019. “Erradicación de la discriminación étnico-racial en los centros educativos”
 
-- Circular  DM-0030-07-2020  para  eliminar  de  los  reglamentos  internos  de  las  instituciones educativas, toda referencia a 'cortes de cabello permitidos', 'estilos de cabello permitidos' o 'largo  de  cabello  permitido' ,  en  virtud  de  calificarse  como  restricciones  al  ejercicio  del  libre desarrollo  de  la  personalidad,  el  derecho  de  autodeterminación  de  la  imagen,  la  identidad  de género, la integridad y la intimidad de las personas estudiantes'.
+- Circular DM-0030-07-2020 para eliminar de los reglamentos internos de las instituciones educativas, toda referencia a “cortes de cabello permitidos”, “estilos de cabello permitidos” o “largo de cabello permitido”, en virtud de calificarse como restricciones al ejercicio del libre desarrollo de la personalidad, el derecho de autodeterminación de la imagen, la identidad de género, la integridad y la intimidad de las personas estudiantes”.
 
 - Protocolo de atención al bullying contra población LGTB inserta en los centros educativos.
 
-- Circular DM-024-052015 'Declaración del Ministerio de Educación Pública como espacio libre de discriminación por orientación sexual e identidad de género '.
+- Circular DM-024-05-2015 “Declaración del Ministerio de Educación Pública como espacio libre de discriminación por orientación sexual e identidad de género”.
 
-- Circular DM-040-072018 'Lineamientos para la adecuación de trámites, documentos y registros al  reconocimiento del derecho a la identidad sexual y de género de la población estudiantil y estudiantes egresados del Sistema Educativo Costarricense' .
+- Circular DM-040-07-2018 “Lineamientos para la adecuación de trámites, documentos y registros al reconocimiento del derecho a la identidad sexual y de género de la población estudiantil y estudiantes egresados del Sistema Educativo Costarricense”.
 
 - Enumere los motivos de discriminación prohibidos en la enseñanza tal y como se recogen en los textos jurídicos.
 
-Ley Fundamental de Educación: Artículo 1.Todo habitante de la República tiene derecho a la educación y el Estado la obligación de procurar ofrecerla en la forma más amplia y adecuada. Por lo que se deberá estimular y fomentar en los educandos el aprecio por el ejercicio de los derechos humanos y la diversidad lingüística, multiétnica y pluricultural de nuestro país. Artículo 2º.Son fines de la educación costarricense: (...) f) Promover la formación de ciudadanos amantes de su patria multiétnica y pluricultural, conscientes de sus deberes, derechos y libertades fundamentales, con profundo sentido de responsabilidad y respeto a la dignidad humana sin discriminación de ningún tipo.
+Ley Fundamental de Educación: Artículo 1.- Todo habitante de la República tiene derecho a la educación y el Estado la obligación de procurar ofrecerla en la forma más amplia y adecuada. Por lo que se deberá estimular y fomentar en los educandos el aprecio por el ejercicio de los derechos humanos y la diversidad lingüística, multiétnica y pluricultural de nuestro país. Artículo 2º.- Son fines de la educación costarricense: (...) f) Promover la formación de ciudadanos amantes de su patria multiétnica y pluricultural, conscientes de sus deberes, derechos y libertades fundamentales, con profundo sentido de responsabilidad y respeto a la dignidad humana sin discriminación de ningún tipo.
 
-Código  de  la  Niñez  y  Adolescencia:  Artículo  69°Prohibición  de  prácticas  discriminatorias. Prohíbese practicar o promover, en los centros educativos, todo tipo de discriminación por género, edad, raza u origen étnico o nacional, condición socioeconómica o cualquier otra que viole la dignidad humana .
+Código de la Niñez y Adolescencia: Artículo 69°- Prohibición de prácticas discriminatorias. Prohíbese practicar o promover, en los centros educativos, todo tipo de discriminación por género, edad, raza u origen étnico o nacional, condición socioeconómica o cualquier otra que viole la dignidad humana.
 
 [[END OF PAGE 13]]
 
@@ -482,7 +486,7 @@ Código  de  la  Niñez  y  Adolescencia:  Artículo  69°Prohibición  de  prá
 
 Ley de la Persona Joven: Artículo 4º -Derechos de las personas jóvenes. La persona joven será sujeto de derechos; gozará de todos los inherentes a la persona humana garantizados en la Constitución Política de Costa Rica, en los instrumentos internacionales sobre derechos humanos o en la legislación especial sobre el tema. Además, tendrá los siguientes: (...) h) El derecho a no ser discriminado por color, origen nacional, la pertenencia a una minoría nacional, étnica o cultural, el sexo, la orientación sexual, la lengua, la religión, las opiniones, la condición social, las aptitudes físicas o la discapacidad, el lugar donde se vive, los recursos económicos  o  cualquier otra condición o circunstancia personal o social de la persona  joven.
 
-Ley  para  prevenir  la  revictimización  y  garantizar  los  derechos  de  las  personas  menores  de  edad  en  el Sistema  Educativo  Costarricense. Artículo  1Principios  rectores.  La  presente  ley  se  fundamenta  en  los principios del interés superior, igualdad y no discriminación, supervivencia y desarrollo, participación y el de autonomía progresiva, contemplados en la Convención sobre los Derechos del Niño. Conforme a los principios  enunciados,  todos  los  sujetos  que  tengan  participación  en  el  procedimiento  administrativodisciplinario abierto contra un funcionario o funcionaria docente, administrativo-docente, técnico-docente o administrativo del Ministerio de Educación Pública (MEP), en cualquiera de sus etapas, fases o instancias, están obligados a orientar sus acciones y decisiones hacia el respeto y la garantía de todos los derechos de las personas menores de edad que figuren como víctimas, denunciantes o testigos, sin excepción alguna ni discriminación.
+Ley para prevenir la revictimización y garantizar los derechos de las personas menores de edad en el Sistema Educativo Costarricense. Artículo 1- Principios rectores. La presente ley se fundamenta en los principios del interés superior, igualdad y no discriminación, supervivencia y desarrollo, participación y el de autonomía progresiva, contemplados en la Convención sobre los Derechos del Niño. Conforme a los principios enunciados, todos los sujetos que tengan participación en el procedimiento administrativo-disciplinario abierto contra un funcionario o funcionaria docente, administrativo-docente, técnico-docente o administrativo del Ministerio de Educación Pública (MEP), en cualquiera de sus etapas, fases o instancias, están obligados a orientar sus acciones y decisiones hacia el respeto y la garantía de todos los derechos de las personas menores de edad que figuren como víctimas, denunciantes o testigos, sin excepción alguna ni discriminación.
 
 Política Nacional de Niñez y Adolescencia (2024) Derecho a la educación El derecho a la educación, como derecho fundamental de las personas menores de edad, permite el desarrollo integral de sus capacidades, habilidades, actitudes, valores y conocimientos para el ejercicio de sus derechos y el disfrute de una vida plena.  Este  comprende,  entre  otros, el  derecho  al desarrollo  de  potencialidades,  la  permanencia  en  el sistema educativo formal, a la enseñanza gratuita y obligatoria, a la formación técnica, a la  educación especial y la prohibición de prácticas discriminatorias.
 
@@ -508,11 +512,11 @@ Insta a todas las comunidades educativas (alumnos, docentes, personal administra
 
 Recuerda que el artículo N. 8 del Reglamento a la Ley de Carrera Docente (N. 2235-MEP y sus reformas)  establece  como  obligaciones  del  Personal  Docente  no  incurrir  o  promover  prácticas discriminatorias  de  cualquier  tipo,  hacia  alguna  persona  servidora,  estudiante  o  externa  a  la institución  por  razón  de  su  etnia,  género,  orientación  sexual,  identidad  de  género,  religión, discapacidad o por cualquier tipo de discriminación a la dignidad humana.
 
-- Protocolo de actuación en situaciones de discriminación racial y xenofobia. MEP. PRESENTACIÓN: Los centros educativos tienen el desafío de ser espacios de convivencia donde todas las personas son iguales; se les garantiza los mismos derechos; se acepta, valora y respeta la diversidad y se evite la discriminación. (Y demás partes del protocolo)
+B. Protocolo de actuación en situaciones de discriminación racial y xenofobia. MEP. PRESENTACIÓN: Los centros educativos tienen el desafío de ser espacios de convivencia donde todas las personas son iguales; se les garantiza los mismos derechos; se acepta, valora y respeta la diversidad y se evite la discriminación. (Y demás partes del protocolo)
 
-- Resolución 3566-2016: "Reconocimiento de la identidad de género en la documentación inicial": A través de esa resolución se insta a realizar los ajustes necesarios para garantizar a las personas (funcionarias  o  estudiantes)  mayores  de  edad  (o  menores  de  edad  con  consentimiento  de representante  legal)  que  lo  soliciten,  el  reconocimiento  a  la  identidad  de  género  en  la documentación oficial del Ministerio de Educación Pública.
+C. Resolución 3566-2016: "Reconocimiento de la identidad de género en la documentación inicial": A través de esa resolución se insta a realizar los ajustes necesarios para garantizar a las personas (funcionarias o estudiantes) mayores de edad (o menores de edad con consentimiento de representante legal) que lo soliciten, el reconocimiento a la identidad de género en la documentación oficial del Ministerio de Educación Pública.
 
-D. Directriz 057MEP de 2019. 'Erradicación de la discriminación étnico -racial en los centros educativos':
+D. Directriz 057-MEP de 2019. “Erradicación de la discriminación étnico-racial en los centros educativos”:
 
 Artículo 1º -Se instruye al Ministerio de Educación Pública a promover en sus proyectos, programas e iniciativas  la  inclusión  de  los  principios  de  igualdad  de  oportunidades,  la  eliminación  de  prejuicios, estigmatizaciones y todo hecho o disposición que promueva segregación de cualquier tipo.
 
@@ -536,13 +540,11 @@ Artículo 8º -Corresponderá al Ministerio de Educación Pública y al Comision
 
 Artículo 9º -Se insta a las instituciones públicas y privadas a que, dentro de sus posibilidades y sin afectar el cumplimiento de sus propios objetivos, apoyen y coordinen sus acciones afirmativas en conjunto con la Comisión Nacional de Estudios Afrocostarricenses en el contexto de sistema educativo formal.
 
-- Circular  DM-0030-07-2020  para  eliminar  de  los  reglamentos  internos  de  las  instituciones educativas,  toda  referencia  a  'cortes  de  cabello  permitidos',  'estilos  de  cabello  permitidos'  o 'largo  de  cabello  permitido', en  virtud  de  calificarse  como  restricciones  al  ejercicio  del  libre desarrollo  de  la  personalidad,  el  derecho  de  autodeterminación  de  la  imagen,  la  identidad  de género, la integridad y la intimidad de las personas estudiantes'.
-
--Especifique.
+E. Circular DM-0030-07-2020 para eliminar de los reglamentos internos de las instituciones educativas, toda referencia a “cortes de cabello permitidos”, “estilos de cabello permitidos” o “largo de cabello permitido”, en virtud de calificarse como restricciones al ejercicio del libre desarrollo de la personalidad, el derecho de autodeterminación de la imagen, la identidad de género, la integridad y la intimidad de las personas estudiantes”.
 
  Políticas, programas e iniciativas que tienen como objetivo prohibir y prevenir la discriminación y garantizar la igualdad de acceso a la enseñanza.
 
- En la educación preprimaria ( incluido el  aprendizaje y la atención en la primera infancia)
+ En la educación preprimaria (incluido el aprendizaje y la atención en la primera infancia)
 
  En la educación primaria
 
@@ -554,6 +556,8 @@ Artículo 9º -Se insta a las instituciones públicas y privadas a que, dentro d
 
  En la educación de adultos y las demás posibilidades de aprendizaje
 
+- Especifique.
+
 Entre la legislación vigente, se cuenta con:
 
 - Ley Fundamental de Educación de Costa Rica (1957).
@@ -564,25 +568,25 @@ Entre la legislación vigente, se cuenta con:
 
 [[START OF PAGE 17]]
 
-- Política Ed5 ucativa denominada 'La persona: centro del proceso educativo y sujeto transformador de la sociedad' (2017).
+- Política Ed5ucativa denominada “La persona: centro del proceso educativo y sujeto transformador de la sociedad” (2017).
 
 - Establecimiento de la inclusión y la accesibilidad en el Sistema educativo costarricense (Decreto Ejecutivo 40955-MEP).
 
-- Política Curricular denominada 'Educar para una Nueva Ciudadanía: Fundamentación de la Transformación Curricular Costarricense' (2015).
+- Política Curricular denominada “Educar para una Nueva Ciudadanía: Fundamentación de la Transformación Curricular Costarricense” (2015).
 
-- L ey número 7426, del 21 de setiembre de 1994, que sustituye el Día de la Raza, por el 'Día de las Culturas'.
+- Ley número 7426, del 21 de setiembre de 1994, que sustituye el Día de la Raza, por el “Día de las Culturas”.
 
-- Ley número 7711, de 1997 'Ley de eliminación de la discriminación racial en los programas educativos y en los medios de comunicación'
+- Ley número 7711, de 1997 “Ley de eliminación de la discriminación racial en los programas educativos y en los medios de comunicación”
 
-- Decreto número 32338MEP, de 2005 para el 'Establecimiento de la Comisión Nacional de Estudios Afrocostarricenses'
+- Decreto número 32338-MEP, de 2005 para el “Establecimiento de la Comisión Nacional de Estudios Afrocostarricenses”
 
-- Ley número 8938, del 2011, 31 de agosto, de cada año, como 'Día de la Persona Negra y la Cultura Afrocostarricense'.
+- Ley número 8938, del 2011, 31 de agosto, de cada año, como “Día de la Persona Negra y la Cultura Afrocostarricense”.
 
-- Decreto número 38140 de 2014 'Política Nacional para una sociedad libre de racismo, discriminación racial y xenofobia 20142025 y su Plan de Acción'.
+- Decreto número 38140 de 2014 “Política Nacional para una sociedad libre de racismo, discriminación racial y xenofobia 2014-2025 y su Plan de Acción”.
 
 - Decreto 32338-MEP de 2005 Creación de la Comisión Nacional de Estudios Afrocostarricenses.
 
-- Directriz 057MEP de 2019. 'Erradicación de la discriminación étnico -racial en los centros educativos'
+- Directriz 057-MEP de 2019. “Erradicación de la discriminación étnico-racial en los centros educativos”
 
 - Protocolo de actuación en situaciones de discriminación racial y xenofobia.
 
@@ -590,9 +594,9 @@ Entre la legislación vigente, se cuenta con:
 
 - Servicio comunal estudiantil 'Alcemos la voz', orientado a la prevención de la discriminación por razones de género, particularmente contra el acoso sexual en la docencia.
 
-- Estrategia de Cambio cultural: niñez en el centro La estrategia se orienta a garantizar los un énfasis en la promoción del desarrollo de la agencia ciudadana, prácticas de salud
+- Estrategia de Cambio cultural: niñez en el centro La estrategia se orienta a garantizar los derechos de las niñas y los niños que asisten al Nivel de Educación Preescolar del MEP, con un énfasis en la promoción del desarrollo de la agencia ciudadana, prácticas de salud reflexivas, cultura de paz y prevención de todos los tipos de violencias.
 
-- derechos de las niñas y los niños que asisten al Nivel de Educación Preescolar del MEP, con reflexivas, cultura de paz y prevención de todos los tipos de violencias. El objetivo: Implementar una estrategia de cambio cultural en coherencia con las políticas aprobadas por el Consejo Superior de Educación, para que niñas y niños de esta población desarrollen una ciudadanía crítica, responsable y creativa, en comunidades educativas democráticas e igualitarias. (https://tecnoideaspreescol.wixsite.com/tecnoideas/copia-deigualdad-de-g%C3%A9nero)
+El objetivo: Implementar una estrategia de cambio cultural en coherencia con las políticas aprobadas por el Consejo Superior de Educación, para que niñas y niños de esta población desarrollen una ciudadanía crítica, responsable y creativa, en comunidades educativas democráticas e igualitarias. (https://tecnoideaspreescol.wixsite.com/tecnoideas/copia-de-igualdad-de-g%C3%A9nero)
 
  La lucha contra la discriminación se extiende a los planes de estudio:
 
@@ -642,7 +646,7 @@ El  Departamento  de  Educación  Intercultural  trabaja  en  la  revisión  de 
 
 - Está en proceso la elaboración de programas de estudio de Lengua cabécar de Ujarrás para I y II ciclos y programas de estudio de lengua y cultura Boruca para Tercer Ciclo y Educación Diversificada, con participación de los territorios involucrados en atención a sus derechos.
 
-- Se brindan acompañamientos a las Direcciones Regionales de Educación para la atención del estudiantado indígena tanto dentro como de fuera de los territorios indígenas, conforme a los objetivos del Subsistema de Educación Indígena, según Decreto Ejecutivo N°. 37801 -MEP (2013).
+- Se brindan acompañamientos a las Direcciones Regionales de Educación para la atención del estudiantado indígena tanto dentro como de fuera de los territorios indígenas, conforme a los objetivos del Subsistema de Educación Indígena, según Decreto Ejecutivo N°. 37801-MEP (2013).
 
 - Se realizan encuentros de acompañamiento a los Consejos Locales de Educación Indígena (CLEI) de los 24 territorios Indígenas del país, en atención al I Consejo Consultivo Nacional de Educación Indígena 2023 (1° CCNEI-2023), en materia curricular, específicamente para la elaboración de programas de estudios.
 
@@ -702,17 +706,17 @@ Su  implementación  se  orienta,  entre  otros  aspectos,  a  la  eliminación 
 
  Otras  medidas  adoptadas  para  prevenir  y  eliminar  la  discriminación  en  la  enseñanza  y  para garantizar la igualdad de acceso a todos los niveles y tipos de educación.
 
-- En  Costa  Rica,  existen  diversas  prácticas  educativas  que  promueven  la  igualdad  y  evitan  la discriminación en el ámbito escolar tales como:
+En Costa Rica, existen diversas prácticas educativas que promueven la igualdad y evitan la discriminación en el ámbito escolar tales como:
 
-- Inclusión: las buenas prácticas educativas incluyen a todas las personas estudiantes, evitando la discriminación y buscando el éxito en el proceso de enseñanza aprendizaje de cada una de ellas.
+1. Inclusión: las buenas prácticas educativas incluyen a todas las personas estudiantes, evitando la discriminación y buscando el éxito en el proceso de enseñanza aprendizaje de cada una de ellas.
 
-- Flexibilidad:  Las  personas  docentes  deben  ser  flexibles,  adaptándose  a  diferentes  situaciones, contextos y necesidades de los estudiantes. Por loque hace un diagnóstico de su entorno escolar para brindar los apoyos necesarios.
+2. Flexibilidad: Las personas docentes deben ser flexibles, adaptándose a diferentes situaciones, contextos y necesidades de los estudiantes. Por loque hace un diagnóstico de su entorno escolar para brindar los apoyos necesarios.
 
-- Promover los derechos humanos como eje transversal fomentando el respeto y la igualdad entre todos los miembros de la comunidad educativa.
+3. Promover los derechos humanos como eje transversal fomentando el respeto y la igualdad entre todos los miembros de la comunidad educativa.
 
-- Comunicación asertiva: Busca espacios para fomentar una buena comunicación entre las personas estudiantes y las personas docentes, que les permita entender lo que les afecta y así prevenir situaciones discriminatorias.
+4. Comunicación asertiva: Busca espacios para fomentar una buena comunicación entre las personas estudiantes y las personas docentes, que les permita entender lo que les afecta y así prevenir situaciones discriminatorias.
 
-- Resolución  creativa  de  conflictos;  es  una  estrategia  que  se  utiliza  para  buscar  en  conjunto soluciones a los problemas de manera pacífica, donde se genere un ambiente más inclusivo, libre de discriminación, en busca de la construcción de una cultura de paz.
+5. Resolución creativa de conflictos; es una estrategia que se utiliza para buscar en conjunto soluciones a los problemas de manera pacífica, donde se genere un ambiente más inclusivo, libre de discriminación, en busca de la construcción de una cultura de paz.
 
 Todas estas prácticas se reflejan en la participación estudiantil en el Programa Nacional de Convivencia Estudiantil,  promoviendo  el  respeto  a  la  diversidad,  la  participación  y  la  solidaridad.  Se  busca desarrollar  conocimientos,  habilidades  y  actitudes  para  vivir  y  convivir  de  manera  pacífica.  Este programa busca crear un ambiente educativo libre de violencia, donde estudiantes,  docentes y  la comunidad educativa se relacionen adecuadamente, basándose en los derechos humanos.
 
@@ -820,60 +824,60 @@ Asimismo, se han realizado diversos tipos de publicaciones: boletines, revistas,
 
 [[START OF PAGE 23]]
 
-- Libros:
-
-- o Ley 8661 Convención sobre los Derechos de las Personas con Discapacidad: 1000 ejemplares reimpresos, 2020
-
-- o Manual  de  Apoyo  para  las  Familias  de  la  Niñez  Costarricense  con  Trastorno  del Espectro Autista, 2018: 1000 ejemplares reimpresos, 2020
-
-- o Niñas y mujeres, personas adolescentes y adultas. Un manual de autoapoyo para las familias  2019:    1000  ejemplares  reimpresos  en  los  2020  y  1000  ejemplares reimpresos en el 2023.
-
-- o La Aventura de ComuniCAAr: 500 ejemplares impresos, 2021
-
-- o Cenarec: Su historia y aporte a la educación inclusiva costarricense 2022
-
-- o ABC de la evaluación en Comunicación Aumentativa y Alternativa: 1000 ejemplares impresos, 2023
-
-· Folletos:
-
-- o Camino a la inclusión: 1000 ejemplares impresos, 2020
-
-- o Tesauro  Compilación  de  leyes  y  normativas  internacionales  y  de  Costa  Rica,  que tutelan los derechos de las personas con discapacidad en el ámbito educativo: se mantiene su divulgación en su versión digital durante el período 2020-2023.
-
-- o Actividades sensoriales para trabajar en casa, 2020
-
-- o Plan de actividades para trabajar sistema visual en casa, 2020
-
-- o Plan de actividades para trabajar el sistema kinestésico en casa, 2020
-
-- o Plan de actividades para trabajar el sistema táctil en casa, 2020
-
-- o Plan de actividades para trabajar motricidad fina en casa, 2020
-
-- o Plan de actividades para trabajar sistema kinestésico en casa, 2020
-
-- o Plan de actividades para trabajar sistemas vestibular y propioceptivo en casa, 2020.
-
-- o Un vistazo a la cultura de la comunidad sorda y la gramática de la LESCO en el marco de la educación inclusiva
-
-· Capacitación:
-
-Con respecto a la temática de capacitación, el Cenarec ha realizado actividades de formación permanente  durante  el  período  2020-2023,  beneficiando  a  4  463  personas  capacitadas, distribuidas de la siguiente manera:
-
-Año | Total de personas capacitadas | Cantidad de temáticas | Cantidad de grupos
---- | --- | --- | ---
-2020 | 1050 | 19 | 72
-2021 | 1875 | 12 | 118
-
 - Inclusiva: Discapacidad Psicosocial: 1000 ejemplares impresos 2023
 
 - Inclusiva: Terapia Ocupacional: 1000 ejemplares impresos 2023
 
 - Desplegables:
 
-- Cenarec
+  - Cenarec
 
-- Integración Sensorial
+  - Integración Sensorial
+
+- Libros:
+
+  - Ley 8661 Convención sobre los Derechos de las Personas con Discapacidad: 1000 ejemplares reimpresos, 2020
+
+  - Manual de Apoyo para las Familias de la Niñez Costarricense con Trastorno del Espectro Autista, 2018: 1000 ejemplares reimpresos, 2020
+
+  - Niñas y mujeres, personas adolescentes y adultas. Un manual de autoapoyo para las familias 2019: 1000 ejemplares reimpresos en los 2020 y 1000 ejemplares reimpresos en el 2023.
+
+  - La Aventura de ComuniCAAr: 500 ejemplares impresos, 2021
+
+  - Cenarec: Su historia y aporte a la educación inclusiva costarricense 2022
+
+  - ABC de la evaluación en Comunicación Aumentativa y Alternativa: 1000 ejemplares impresos, 2023
+
+- Folletos:
+
+  - Camino a la inclusión: 1000 ejemplares impresos, 2020
+
+  - Tesauro Compilación de leyes y normativas internacionales y de Costa Rica, que tutelan los derechos de las personas con discapacidad en el ámbito educativo: se mantiene su divulgación en su versión digital durante el período 2020-2023.
+
+  - Actividades sensoriales para trabajar en casa, 2020
+
+  - Plan de actividades para trabajar sistema visual en casa, 2020
+
+  - Plan de actividades para trabajar el sistema kinestésico en casa, 2020
+
+  - Plan de actividades para trabajar el sistema táctil en casa, 2020
+
+  - Plan de actividades para trabajar motricidad fina en casa, 2020
+
+  - Plan de actividades para trabajar sistema kinestésico en casa, 2020
+
+  - Plan de actividades para trabajar sistemas vestibular y propioceptivo en casa, 2020.
+
+  - Un vistazo a la cultura de la comunidad sorda y la gramática de la LESCO en el marco de la educación inclusiva
+
+- Capacitación:
+
+Con respecto a la temática de capacitación, el Cenarec ha realizado actividades de formación permanente durante el período 2020-2023, beneficiando a 4 463 personas capacitadas, distribuidas de la siguiente manera:
+
+Año | Total de personas capacitadas | Cantidad de temáticas | Cantidad de grupos
+--- | --- | --- | ---
+2020 | 1050 | 19 | 72
+2021 | 1875 | 12 | 118
 
 [[END OF PAGE 23]]
 
@@ -944,7 +948,14 @@ Las temáticas de capacitación ofertadas durante el período 2020-2024 son las 
 
 Cabe  destacar  que,  toda  temática  desarrollada  en  las  actividades  propuestas  responde  a  la planificación anual, que tiene como eje transversal la promoción y visualización de las personas con discapacidad como sujetos de derechos.
 
-Por  otro  lado,  es  importante  detallar  la  inversión  del  presupuesto  ejecutado  para  estas actividades. Durante el período 20202023, el Cenarec realizó una inversión de ₵90 121 169,9 millones de colones, distribuidos de la siguiente manera:
+Por otro lado, es importante detallar la inversión del presupuesto ejecutado para estas actividades. Durante el período 2020-2023, el Cenarec realizó una inversión de ₵90 121 169,9 millones de colones, distribuidos de la siguiente manera:
+
+ | 2020 | 2021 | 2022 | 2023
+--- | --- | --- | --- | ---
+Capacitación | 15 771 404,54 | 16 043 311,30 | 14 150 063,78 | 19 387 220,26
+Impresiones | 12 414 625,00 | 1 443 982,35 | 1 375 221,27 | 5 200 605,40
+Interpretación cafecito | 941 000,00 | 972 750,00 | 743 000,00 | 1 677 986,00
+Total por año | 29 127 029,54 | 18 460 043,65 | 16 268 285,05 | 26 265 811,66
 
 Con respecto al Diseño Universal para el Aprendizaje (DU) se han implementado 40 talleres, 18 jornadas de trabajo, 52 asesoramientos y se han construido más de 500 recursos impresos y digitales entre otros.
 
@@ -1112,7 +1123,7 @@ entre estudiantes, en los centros educativos.
 
 ###### 2026
 
-- Webinario: La población afrodescendiente en la costa caribe de Costa Rica: (17001870): dinámicas socioespaciales.
+- Webinario: La población afrodescendiente en la costa caribe de Costa Rica: (1700-1870): dinámicas socioespaciales.
 
 [[END OF PAGE 27]]
 
@@ -1230,7 +1241,7 @@ entre estudiantes, en los centros educativos.
 
 ###### 2026
 
-- Webinario 'Una mirada a la identidad histórico -cultural costarricense'.
+- Webinario 'Una mirada a la identidad histórico-cultural costarricense'.
 
 - Webinario 'Direcciones Regionales de Educación llenas de cultura y diversidad'.
 
@@ -1298,15 +1309,15 @@ Existen políticas nacionales que incorporan dentro de sus ejes acciones vincula
 
 El Ministerio de Educación Pública cuenta con los Protocolos de actuación, en especial el Protocolo de actuación en situaciones de violencia física, psicológica, sexual, acoso y hostigamiento sexual, el cual se activa ante sospecha razonable de todos los fatores de violencia, así como las relaciones impropias donde las víctimas son personas menores de edad, es por ello que ante un delito de índole sexual se debe denunciar ante las autoridades judiciales del Poder Judicial y el Patronato Nacional de la Infancia, en observancia del articulo 49 de la Ley 7739, Código de la Niñez y la Adolescencia, el artículo 281 Ley 77594 Código Procesal Penal, Ley 9406 Fortalecimiento de la protección legal de las niñas y las adolescentes mujeres ante situaciones de violencia de género asociadas a relaciones abusivas, reforma Código Penal, Código Familia, Ley Orgánica TSE y Registro Civil, y Código Civil.
 
-Tal como se señaló con anterioridad, el Ministerio de Educación Pública implementalos programas de estudio de Afectividad y Sexualidad Integral , aprobados por el Consejo Superior de Educación: Programa de III Ciclo de la Educación General Básica y el de Educación Diversificada.
+Tal como se señaló con anterioridad, el Ministerio de Educación Pública implementalos programas de estudio de Afectividad y Sexualidad Integral, aprobados por el Consejo Superior de Educación: Programa de III Ciclo de la Educación General Básica y el de Educación Diversificada.
 
-El programa de II ciclo se implementa en una lección semanal de las aprobadas para la asignatura de  Ciencias,  y  el  de  Educación  Diversificada  se  imparte  en  una  lección  específica  de  la  materia denominada 'Educación para la Afectividad y Sexualidad', aproba da en el año 2017.  Esta asignatura la imparten docentes de Psicología.
+El programa de II ciclo se implementa en una lección semanal de las aprobadas para la asignatura de Ciencias, y el de Educación Diversificada se imparte en una lección específica de la materia denominada 'Educación para la Afectividad y Sexualidad', aprobada en el año 2017. Esta asignatura la imparten docentes de Psicología.
 
 Uno de los enfoques que desarrolla es el enfoque de género.
 
 Existen otras acciones de índole cocurricular como el Servicio Comunal Estudiantil.
 
-¿Qué dificultades se encontraron en lo que se refiere al logro de la igualdad de género en la educación y mediante ella? De ser necesario, se pueden añadir breves datos cuantitativos.
+- ¿Qué dificultades se encontraron en lo que se refiere al logro de la igualdad de género en la educación y mediante ella? De ser necesario, se pueden añadir breves datos cuantitativos.
 
 Los  programas  de  estudio  de  Afectividad  y  sexualidad  integral  constituyen  una  de  las  acciones curriculares  más  relevantes  para  promover  la  igualdad  de  género  en  la  educación,  además  de considerarse un derecho de las personas menores de edad; sin embargo, por disposición de la Sala Constitucional, los padres, madres o representantes legales pueden decidir si sus hijos reciben el programa mediante un mecanismo establecido por el Ministerio de Educación Pública.
 
@@ -1314,10 +1325,11 @@ Esta situación implica que no todo el estudiantado de estos ciclos, tengan acce
 
 Otra situación relevante es que el Ministerio de Educación Pública tramita un número importante de procedimientos disciplinarios por faltas cometidas por funcionariado del MEP, faltas relacionadas con situaciones de violencia y discriminación, en su mayoría, contra niñas y adolescentes mujeres. Según datos del Departamento de Gestión Disciplinaria, estos son los datos correspondientes al año 2023:
 
-AÑO 2023 CANTIDAD DENUNCIAS TRAMITADAS POR FALTAS DE CONNOTACIÓN SEXUAL
+AÑO 2023
+CANTIDAD DENUNCIAS TRAMITADAS POR FALTAS DE CONNOTACIÓN SEXUAL
+Tipo de falta | Cantidad | Víctimas mujeres | Víctimas hombres | Funcionarios investigados | Funcionarias investigadas | Tipo de institución |
+ | | | | | | Rural | Urbana
 --- | --- | --- | --- | --- | --- | --- | ---
-Tipo de falta | Cantidad | Víctimas mujeres | Víctimas hombres | Funcionarios investigados | Funcionarias investigadas | Tipo de institución
-Rural | Urbana
 HOSTIGAMIENTO SEXUAL | 207 | 202 | 5 | 203 | 4 | 93 | 114
 ABUSO SEXUAL | 17 | 17 | 0 | 17 | 0 | 11 | 6
 RELACIONES IMPROPIAS | 15 | 15 | 0 | 15 | 0 | 9 | 6
@@ -1335,13 +1347,11 @@ Por eso, la denuncia y prevención de estas faltas se refuerza con capacitación
 
 En términos generales, uno de los retos más importantes es la formación del personal docente y el desarrollo de capacidades para la promoción de la igualdad de género en el aula, procesos que deben  ser  continuos  y  que  permitan  la  revisión  profunda  de  los  mitos  y  estereotipos  que  el funcionariado maneja en relación con los roles y expectativas asignados socialmente a hombres y mujeres. Si esas ideas preconcebidas no se revisan y analizan desde derechos humanos, no podrán modificarse y, por tanto, podrían replicarse en la cotidianidad del aula, perpetuando patrones de conducta y limitando el cambio cultural.
 
-¿Se  ajusta  la  edad  mínima  legal  para  contraer  matrimonio  a  las  normas  internacionales  (18 años) 27 ?
+- ¿Se ajusta la edad mínima legal para contraer matrimonio a las normas internacionales (18 años)27?
 
 Tenga en cuenta que el matrimonio infantil es una práctica discriminatoria, ya que a menudo las niñas pueden contraer matrimonio a una edad más temprana que los niños. El matrimonio infantil viola el derecho de los niños a la educación, puesto que es más probable que los niños casados abandonen la escuela y que aquellos que no van a la escuela contraigan matrimonio.
 
- Sí 
-
-No
+ Sí  No
 
 En Costa Rica, la edad mínima legal para contraer matrimonio es de 18 años. Esto se ajusta a las normas internacionales  que  buscan  proteger  los  derechos  de  las  personas  menores  de  edad  y  prevenir situaciones de vulnerabilidad.
 
@@ -1359,21 +1369,33 @@ A título de referencia, en el artículo/párrafo 5.1.c de la Convención y la R
 
 [[START OF PAGE 33]]
 
- La  legislación  contempla  el  derecho  a  la educación de las minorías nacionales
+ La legislación contempla el derecho a la educación de las minorías nacionales
 
  Las medidas de política pretenden reforzar el derecho a la educación de las minorías nacionales
 
- La  formulación de políticas abarca consultas con las comunidades locales
+ La formulación de políticas abarca consultas con las comunidades locales
 
- Se garantiza legalmente a las minorías nacionales  el  derecho  a  llevar  a  cabo  sus propias actividades educativas
+ Se garantiza legalmente a las minorías nacionales el derecho a llevar a cabo sus propias actividades educativas
 
- Se  establecen  normas  educativas  para  los centros de enseñanza dirigidos por minorías nacionales
+ Se establecen normas educativas para los centros de enseñanza dirigidos por minorías nacionales
 
  Existen medidas de acción positiva o afirmativa para las minorías nacionales
 
  Se ofrecen incentivos financieros y becas a las minorías nacionales
 
  Otro28:
+
+ Los docentes reciben formación sobre educación intercultural
+
+ Los docentes reciben formación para luchar contra la estigmatización29
+
+ Se favorece la educación multilingüe e intercultural
+
+ Se garantiza la instrucción en la lengua materna a las minorías nacionales
+
+ Se adaptan los planes de estudio y los métodos de enseñanza y aprendizaje a las necesidades de las minorías nacionales
+
+ Los planes de estudio están libres de estereotipos30 y prejuicios
 
 - Para la promoción de la implementación del enfoque de educación intercultural, el MEP construyó la Estrategia de Educación Intercultural 2023-2026, la cual implica el trabajo operativo en cuatro áreas estratégicas, a saber:
 
@@ -1391,19 +1413,7 @@ A título de referencia, en el artículo/párrafo 5.1.c de la Convención y la R
 
 > 29 Véase la nota 15.
 
-> 30 éase la nota 16.
-
- Los docentes reciben formación sobre educación intercultural
-
- Los  docentes  reciben  formación  para  luchar contra la estigmatización29
-
- Se favorece la educación multilingüe e intercultural
-
- Se garantiza la instrucción en  la  lengua materna a las minorías nacionales
-
- Se adaptan  los  planes  de  estudio  y  los métodos  de  enseñanza  y  aprendizaje  a  las necesidades de las minorías nacionales
-
- Los planes de estudio están libres de estereotipos30 y prejuicios
+> 30 Véase la nota 16.
 
 [[END OF PAGE 33]]
 
@@ -1597,20 +1607,58 @@ Durante el curso lectivo 2020, se gestionó la compra y dotación de equipo espe
 
 estudiantado con discapacidad visual, ver cuadro resumen:
 
+Nombre del proyecto:
+Dotación de productos de apoyo para el trabajo con la población estudiantil que presenta discapacidad visual (baja visión y ceguera)
+
+Nombre del bien requerido y solicitar al menos tres facturas proforma.
+12 Máquinas para escritura en Braille, manuales o mecánicas.
+15 impresoras Braille portátiles y de papel continuo
+15 Software para transliteración de forma automática de texto a Braille.
+15 computadoras de escritorio con el paquete de Office básico
+24 bastones para movilidad, en aluminio de 70 centímetros de alto
+24 bastones para movilidad, en aluminio de 80 centímetros de alto
+24 bastones para movilidad, en aluminio de 90 centímetros
+24 bastones para movilidad, en aluminio de 1 metro de alto
+24 bastones para movilidad, en aluminio de 1.10 centímetros de alto
+
+Persona con la que se coordina la compra.
+Gilda Aguilar Montoya, Jefa del Departamento de Apoyos Educativos para el Estudiantado con Discapacidad
+
+Sileny Sánchez Durán, asesora nacional
+Departamento de Apoyos Educativos para el Estudiantado con Discapacidad
+
+Justificación de la compra, de acuerdo a los objetivos y metas incluidos en el POA 2021: Indicar razones que justifiquen el requerimiento solicitado.
+Área estratégica: Fomento a la educación inclusiva.
+
+Objetivo: Promover el aumento en la matrícula de la población estudiantil con discapacidad en los centros educativos regulares.
+
+Antecedentes: detallar las razones que originan la necesidad de la compra y problemática existente.
+Los servicios de apoyo educativo se brindan desde la Educación Especial, en los niveles Preescolar, y Primero y Segundo Ciclos de la Educación General Básica.
+
+Según la organización actual del Ministerio de Educación Pública, se ofrecen en las especialidades de problemas de aprendizaje, retraso mental (discapacidad intelectual), problemas emocionales y de conducta, audición
+
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
 Inversión asignada en los Centros de Educación Especial, en Colegios con el servicio de Tercer Ciclo y Ciclo Diversificado Vocacional, Plan Nacional y Colegios con Servicio de Apoyo en Tercer Ciclo y Educación Diversificada.
 
+Centros educativos | Inversión en equipo tecnológico
+--- | ---
+Centros de Educación Especial | ₡ 394 114 233 millones
+Colegios con el servicio de III Ciclo y Ciclo Diversificado Vocacional, Plan Nacional | ₡ 110 679 000 millones
+Colegios con Servicio de Apoyo en III Ciclo y Educación Diversificada. | ₡ 21 338 001 millones
+
+Tabla 1 Fuente: Departamento de Investigación, Desarrollo e Implementación, DRTE.
+
 Para este informe, es importante, mencionar el presupuesto asignado durante los últimos cuatro años por concepto de la Ley 8283:
 
 El  presupuesto  asignado  en  el  año  2020 fue  de  ₡  1 038 308  283,  (Mil  treinta  y  ocho millones trescientos  ocho  mil  doscientos  ochenta  y  tres colones  exactos)  distribuidos  en  dos partidas:
 
-Programa | Sub- partida | IP | F.F. Descripción | Monto Presupuesto
---- | --- | --- | --- | ---
-5734 | 60103 | 201 | 001 Juntas Administrativas Enseñanza Especial y Juntas de Educación y Administrativas. (a distribuir por el MEP para el financiamiento y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en III y IV ciclo de la educación regular y los servicios de III y IV ciclo de la Educación Especial. según ley 7972 y sus reformas).2-100-042002 Juntas de Educación y Administrativas. (a distribuir por el MEP, según artículo n° 16 de la ley 8283 del 28/05/2002 para | ₡ 251 900 000
-5734 | 70103 | 212 | 001 desarrollar el III y IV ciclo de la educación especial y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en el sistema educativo regular).2-100-042002 | ₡ 786 408 283
+Programa | Sub-partida | IP | F.F. | Descripción | Monto Presupuesto
+--- | --- | --- | --- | --- | ---
+5734 | 60103 | 201 | 001 | Juntas Administrativas Enseñanza Especial y Juntas de Educación y Administrativas. (a distribuir por el MEP para el financiamiento y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en III y IV ciclo de la educación regular y los servicios de III y IV ciclo de la Educación Especial. según ley 7972 y sus reformas).2-100-042002 | ₡ 251 900 000
+5734 | 70103 | 212 | 001 | Juntas de Educación y Administrativas. (a distribuir por el MEP, según artículo n° 16 de la ley 8283 del 28/05/2002 para desarrollar el III y IV ciclo de la educación especial y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en el sistema educativo regular).2-100-042002 | ₡ 786 408 283
 
 [[END OF PAGE 38]]
 
@@ -1628,17 +1676,17 @@ En enero 2021, se notificó mediante oficio DF-DGT-0003-2021 la devolución de l
 
 Para el año 2021, el Presupuesto asignado por la Ley 8283, fue de ₡ 777.658.924,00, (setecientos setenta  y  siete  millones,  seiscientos  cincuenta  y  ocho  mil  novecientos  veinticuatro  colones exactos) distribuidos en dos partidas:
 
-Programa | Sub- partida | IP F.F. | Descripción | Monto Presupuesto
---- | --- | --- | --- | ---
-5734 | 60103 201 | 001 | desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en III y IV ciclo de la educación regular y los servicios de III y IV ciclo de la educación especial. según ley 7972 y sus reformas).2-100-042002 | ₡ 513 664 716
+Programa | Sub-partida | IP | F.F. | Descripción | Monto Presupuesto
+--- | --- | --- | --- | --- | ---
+5734 | 60103 | 201 | 001 | Juntas Administrativas Enseñanza Especial y juntas de educación y administrativas. (a distribuir por el MEP para el financiamiento y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en III y IV ciclo de la educación regular y los servicios de III y IV ciclo de la educación especial. según ley 7972 y sus reformas).2-100-042002 | ₡ 513 664 716
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
 
-Juntas de Educación y Administrativas. (a distribuir por el MEP, según artículo n° 16 de la ley 8283 del 28/05/2002 para desarrollar
---- | --- | --- | --- | ---
-5734 | 70103 | 212 | 001 el III y IV ciclo de la educación especial y desarrollo de equipos de apoyo para | ₡ 263 994 208
+Programa | Sub-partida | IP | F.F. | Descripción | Monto Presupuesto
+--- | --- | --- | --- | --- | ---
+5734 | 70103 | 212 | 001 | Juntas de Educación y Administrativas. (a distribuir por el MEP, según artículo n° 16 de la ley 8283 del 28/05/2002 para desarrollar el III y IV ciclo de la educación especial y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en el sistema educativo regular).2-100-042002 | ₡ 263 994 208
 
 En el 2021 la Comisión Técnica Especializada de la Ley 8283, aprobó un total de 69 solicitudes, clasificadas de la siguiente forma:
 
@@ -1657,21 +1705,21 @@ La  inversión  total  fue  de  ₡526.152.817,00  lo  que  corresponde  al  67,
 Factor | Acción correctiva
 --- | ---
 Impacto generado por la emergencia sanitaria por el Covid-19 | Divulgamos a los usuarios de las distintas Direcciones Regionales, que la Comisión Técnica no interrumpió sus funciones y recibió de manera virtual los proyectos.
-En el contexto de educación combinada, los docentes no desean recargarse con trabajo extra como lo es la elaboración de los proyectos para la solicitud de este tipo de financiamiento. Políticas administrativas que generan retrasos | Se brindó el proceso de inducción, revisión y emisión de recomendaciones, por medio de reuniones en la plataforma Teams
-
+En el contexto de educación combinada, los docentes no desean recargarse con trabajo extra como lo es la elaboración de los proyectos para la solicitud de este tipo de financiamiento. | Se brindó el proceso de inducción, revisión y emisión de recomendaciones, por medio de reuniones en la plataforma Teams
+Políticas administrativas que generan retrasos en los procesos de contratación, debido a que la Dirección de Infraestructura Educativa, atraviesa un proceso de transformación mediante el cual están finalizando un procedimiento de contratación Único para proyectos de baja complejidad, todo a raíz de la modificación del artículo 145 de la Ley de Contratación Administrativa, el cual faculta a la Junta para contratar servicios profesionales para consultoría. Así las cosas, hasta que la DIE no concluya con el procedimiento para la contratación del profesional externo, ya sea para la parte de diseño o para la constructiva
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
 
-propiamente, la Comisión Técnica imposibilitada de girar recursos instituciones interesadas en financiamiento. | se ve a las nuestro
+propiamente, la Comisión Técnica se ve imposibilitada de girar recursos a las instituciones interesadas en nuestro financiamiento. | Algunas de las solicitudes de infraestructura para obra nueva se están canalizando mediante proyectos de remodelación de baja complejidad o menor cuantía
 --- | ---
 
 El Presupuesto asignado en el año 2022 por la Ley 8283, fue de ₡ 1,079,164,848 (mil setenta y nueve  millones  ciento  sesenta  y  cuatro  mil  ochocientos  cuarenta y  ocho colones  exactos) distribuidos en dos partidas:
 
-Programa | Sub- partida | IP | F.F. | Descripción | Monto Presupuesto
+Programa | Sub-partida | IP | F.F. | Descripción | Monto Presupuesto
 --- | --- | --- | --- | --- | ---
-5734 | 60103 | 201 | 001 | Juntas administrativas enseñanza especial y juntas de educación y administrativas. (a distribuir por el mep para el financiamiento y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en III y IV ciclo de la educación regular y los servicios de III y IV ciclo de la educación especial. Según ley 7972 y sus reformas).2-100-042002 Juntas de educación y administrativas. (a distribuir por el mep, según artículo n° 16 de la ley 8283 del 28/05/2002 para | ₡ 815,170,640.00
-5734 | 70103 | 212 | 001 | desarrollar el III y IV ciclo de la educación especial y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en el sistema educativo regular).2-100-042002 | ₡ 263,994,208.00
+5734 | 60103 | 201 | 001 | Juntas administrativas enseñanza especial y juntas de educación y administrativas. (a distribuir por el mep para el financiamiento y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en III y IV ciclo de la educación regular y los servicios de III y IV ciclo de la educación especial. Según ley 7972 y sus reformas).2-100-042002 | ₡ 815,170,640.00
+5734 | 70103 | 212 | 001 | Juntas de educación y administrativas. (a distribuir por el mep, según artículo n° 16 de la ley 8283 del 28/05/2002 para desarrollar el III y IV ciclo de la educación especial y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en el sistema educativo regular).2-100-042002 | ₡ 263,994,208.00
 
 En el 2022 la Comisión Técnica Especializada de la Ley 8283, aprobó un total de 106 solicitudes, provenientes de 18 direcciones regionales de educación. La distribución según plan de inversión es la siguiente:
 
@@ -1691,29 +1739,14 @@ A continuación, se detallan los factores que incidieron de forma positiva en la
 
 [[START OF PAGE 42]]
 
-Aspectos positivos
-
-Mantener  el  respaldo  de  la  Dirección  de Infraestructura Educativa (DIE), en la representación del Arquitecto Sergio Sandí Rojas, para orientar la toma de decisiones de la comisión   y guiar a los usuarios en el proceso  de,  elaboración,  presentación,  y seguimiento de las solicitudes   en materia constructiva. El  interés  y  la  responsabilidad  con  que asumen la representación, logrando conformar  un  quórum  estructural  sólido que enriquece la discusión para la efectiva toma de decisiones. Incremento en el trabajo de esta Comisión, al presentarse gran cantidad de solicitudes de ayudas técnicas. Ampliación  de  la  cobertura  debido  a  que nos ingresaron solicitudes de los CINDEA y
-
-de colegios nocturnos.
-
-La colaboración brindada por el Departamento de Gestión de Transferencias y la Unidad de Presupuesto de la Dirección de Recursos Humanos, han permitido  un  trabajo  más  expedito  y  de información fluida para el administrado.
-
-Mayor divulgación del financiamiento que brinda  la  Comisión  Técnica,  mediante  la participación, el pasado 07 de abril 2022, en la charla organizada por ASCOPA (Asociación Costarricense de personas con autismo), con el tema de apoyos técnicos a estudiantes  TEA  (trastorno  del  espectro autista).  También  se  divulgaron  nuestros manuales en la página web de este ministerio  y  de  la  Dirección  de  Desarrollo Curricular.
-
-Aspectos para mejorar
-
-Lo ajustado del quorum no permite ausencias de los miembros ni flexibilidad en la reprogramación de las sesiones.
-
-Políticas  administrativas  que  generan  retrasos en los procesos de contratación de obra nueva, retrasan  el  avance  en  los  proyectos  de  esa naturaleza.
-
-El limitado presupuesto institucional para realizar las visitas de supervisión de la inversión.
-
-Que la Dirección de Infraestructura Educativa no logre concretar los procedimientos para apoyar el trabajo de las Juntas Administrativas, para que los proyectos avancen.
-
-La entrada en vigor, el 01 de diciembre del 2022, de la nueva Ley General dde ContrataciónPúbica,  provocará  retrasos  en nuestros procesos debido a que establece que todo ente público que requiere contratar bienes o servicios debe utilizar el Sistema Integrado de Compras PÚBLICAS  (SICOP),  lo  que demandará de una curva de aprendizaje y además contiene tiempos de gestión muy prolongados. Se requiere continuar las labores de divulgación para  beneficiar  cada  vez  más  a  la  población meta,  sobre  todo de  zonas  rurales  y  estratos
-
-vulnerables.
+Aspectos positivos | Aspectos para mejorar
+--- | ---
+Mantener el respaldo de la Dirección de Infraestructura Educativa (DIE), en la representación del Arquitecto Sergio Sandí Rojas, para orientar la toma de decisiones de la comisión y guiar a los usuarios en el proceso de, elaboración, presentación, y seguimiento de las solicitudes en materia constructiva. | Lo ajustado del quorum no permite ausencias de los miembros ni flexibilidad en la reprogramación de las sesiones.
+El interés y la responsabilidad con que asumen la representación, logrando conformar un quórum estructural sólido que enriquece la discusión para la efectiva toma de decisiones. | Políticas administrativas que generan retrasos en los procesos de contratación de obra nueva, retrasan el avance en los proyectos de esa naturaleza.
+Incremento en el trabajo de esta Comisión, al presentarse gran cantidad de solicitudes de ayudas técnicas. | El limitado presupuesto institucional para realizar las visitas de supervisión de la inversión.
+Ampliación de la cobertura debido a que nos ingresaron solicitudes de los CINDEA y de colegios nocturnos. | Que la Dirección de Infraestructura Educativa no logre concretar los procedimientos para apoyar el trabajo de las Juntas Administrativas, para que los proyectos avancen.
+La colaboración brindada por el Departamento de Gestión de Transferencias y la Unidad de Presupuesto de la Dirección de Recursos Humanos, han permitido un trabajo más expedito y de información fluida para el administrado. | La entrada en vigor, el 01 de diciembre del 2022, de la nueva Ley General dde ContrataciónPúbica, provocará retrasos en nuestros procesos debido a que establece que todo ente público que requiere contratar bienes o servicios debe utilizar el Sistema Integrado de Compras PÚBLICAS (SICOP), lo que demandará de una curva de aprendizaje y además contiene tiempos de gestión muy prolongados.
+Mayor divulgación del financiamiento que brinda la Comisión Técnica, mediante la participación, el pasado 07 de abril 2022, en la charla organizada por ASCOPA (Asociación Costarricense de personas con autismo), con el tema de apoyos técnicos a estudiantes TEA (trastorno del espectro autista). También se divulgaron nuestros manuales en la página web de este ministerio y de la Dirección de Desarrollo Curricular. | Se requiere continuar las labores de divulgación para beneficiar cada vez más a la población meta, sobre todo de zonas rurales y estratos vulnerables.
 
 [[END OF PAGE 42]]
 
@@ -1723,18 +1756,27 @@ La actualización del Manual para la presentación y liquidación de productos d
 
 Para el año 2023 el presupuesto asignado fue de ₡ 1,160,049,983 (mil ciento sesenta millones cuarenta y nueve mil novecientos ochenta y tres colones exactos) distribuidos en dos partidas:
 
-Programa | Sub- partida | IP | F.F. | Descripción | Monto Presupuesto
+Programa | Sub-partida | IP | F.F. | Descripción | Monto Presupuesto
 --- | --- | --- | --- | --- | ---
-5734 | 60103 | 201 | 001 | Juntas administrativas enseñanza especial y juntas de educación y administrativas. (a distribuir por el mep para el financiamiento y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en Tercer y Cuarto Ciclo de la educación regular y los servicios de Tercer y Cuarto Ciclo de la educación especial. Según ley 7972 y sus reformas).2-100- 042002 Juntas de educación y administrativas. (a distribuir por el MEP, según artículo n° 16 de la ley 8283 | ₡ 908,475,775.00
-5734 | 70103 | 212 | 001 | desarrollar el iii y iv ciclo de la educación especial y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en el sistema educativo regular).2-100-042002 | ₡ 431,422,208.00
+5734 | 60103 | 201 | 001 | Juntas administrativas enseñanza especial y juntas de educación y administrativas. (a distribuir por el mep para el financiamiento y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en Tercer y Cuarto Ciclo de la educación regular y los servicios de Tercer y Cuarto Ciclo de la educación especial. Según ley 7972 y sus reformas).2-100-042002 | ₡ 908,475,775.00
+5734 | 70103 | 212 | 001 | Juntas de educación y administrativas. (a distribuir por el MEP, según artículo n° 16 de la ley 8283 del 28/05/2002 para desarrollar el iii y iv ciclo de la educación especial y desarrollo de equipos de apoyo para la formación de estudiantes con discapacidad matriculados en el sistema educativo regular).2-100-042002 | ₡ 431,422,208.00
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
 
-En el 2023, la Comisión Técnica Especializada de la Ley 8283, aprobó 91 solicitudes. La distribución según plan de inversión es la siguiente: • 6 proyectos de infraestructura • 64 solicitudes de productos de apoyo • 21 proyectos de equipamiento
---- | ---
+En el 2023, la Comisión Técnica Especializada de la Ley 8283, aprobó 91 solicitudes. La distribución según plan de inversión es la siguiente:
+
+- 6 proyectos de infraestructura
+- 64 solicitudes de productos de apoyo
+- 21 proyectos de equipamiento
+
+La inversión total fue de ₡1. 339.897.783,00 lo que corresponde al 100%. de ejecución.
+
+A continuación, se detallan los factores que incidieron de forma positiva en la ejecución, así como los principales elementos en que debemos mejorar.
+
 Aspectos positivos | Aspectos a mejorar
+--- | ---
 Se brinda orientación oportuna y pertinente a las solicitudes durante todo el proceso. | Actualizar y mejorar la accesibilidad de la información y comprensión de lectura fácil, del Manual para la presentación y liquidación de ayudas técnicas.
 La continuidad de las designaciones de las representaciones ha creado un equipo consolidado y con mayor compromiso | Mejorar la organización a lo interno para que cada miembro que revisa un proyecto o solicitud y lo regresa para que sea corregido, le brinde continuidad hasta la aprobación del, mismo.
 Incremento en el trabajo de esta comisión, al retomar las visitas a las regiones rurales, para orientar y promocionar los planes de financiamiento | Mejorar la plantilla de revisión de proyectos de infraestructura dado que resulta poco ágil y eficaz.
@@ -1804,13 +1846,13 @@ En el sistema educativo, además del plan de estudios básicos, se promueve el a
 
 La  educación  indígena  se  fundamenta  en  el  Decreto  N°  37801  Reforma  del  Subsistema  de Educación Indígena (2013), base para la atención de las particularidades de la educación indígena según la cosmovisión y cosmogonía de cada pueblo indígena.
 
-En consideración de la realidad particular en los territorios indígenas el MEP emite la circular DVMAC-0006-2020  con  los  Lineamientos  para  el  desarrollo  del  apoyo  educativo  a  distancia  en  los servicios  educativos  del  subsistema  de  Educación  Indígena  y  la  circular  DVM-AC-005-2021 Consideraciones para la implementación de la educación combinada en los servicios educativos del subsistema de Educación Indígena.
+En consideración de la realidad particular en los territorios indígenas el MEP emite la circular DVM-AC-0006-2020 con los Lineamientos para el desarrollo del apoyo educativo a distancia en los servicios educativos del subsistema de Educación Indígena y la circular DVM-AC-005-2021 Consideraciones para la implementación de la educación combinada en los servicios educativos del subsistema de Educación Indígena.
 
 Desde el año 2022 de manera consecutiva anualmente se ejecuta el curso de 200 horas: Formación para Laborar en Territorios Indígenas es dirigido a la población de los territorios: Boruca, Térraba, Curré, Zapatón, Quitirrisí y Matambú, con el objetivo de aplicar los saberes sobre la cosmogonía y la  cosmovisión  de  la  cultura  indígena  en  los  procesos  de  mediación  pedagógica  para  el fortalecimiento de las prácticas educativas culturalmente pertinentes y contextualizadas.
 
 Con la participación de los pueblos indígenas respectivos se elaboran programas de estudio para lenguas  y  culturas  indígenas  tanto  para  primaria  como  secundaria  en  congruencia  con  lo establecido en la Ley N° 7316, aprobación del Convenio N° 169 sobre Pueblos Indígenas y Tribales en Países Independientes (1992).
 
-Se han elaborado circulares y directrices diferenciadas o paralelas para el Subsistema de Educación Indígena, en ese sentido se han formulado circulares para la celebración del Día del Aborigen Costarricense,19 de abril que orientan a la atención de la persona estudiante indígena en todo el país, dichas circulares se socializaron con asesorías regionales indígenas. Circula DVM-AC-0023-042022 y  DVM-AC-CIR-0020-03-2024 y  las  circulares  DVM-AC-CIR-0005-002-2023  y DVM-AC-CIR0002-00-2024; Disposiciones específicas para el desarrollo del proceso educativo para la población estudiantil indígena dentro y fuera de territorio, en el marco de la promoción y cumplimiento de los derechos humanos de los pueblos indígenas.
+Se han elaborado circulares y directrices diferenciadas o paralelas para el Subsistema de Educación Indígena, en ese sentido se han formulado circulares para la celebración del Día del Aborigen Costarricense,19 de abril que orientan a la atención de la persona estudiante indígena en todo el país, dichas circulares se socializaron con asesorías regionales indígenas. Circula DVM-AC-0023-04-2022 y DVM-AC-CIR-0020-03-2024 y las circulares DVM-AC-CIR-0005-002-2023 y DVM-AC-CIR-0002-00-2024; Disposiciones específicas para el desarrollo del proceso educativo para la población estudiantil indígena dentro y fuera de territorio, en el marco de la promoción y cumplimiento de los derechos humanos de los pueblos indígenas.
 
 32 Véase la nota 16.
 
@@ -1818,8 +1860,7 @@ Se han elaborado circulares y directrices diferenciadas o paralelas para el Subs
 
 [[START OF PAGE 47]]
 
-En el año 2024 se ejecutó el Webinario: llamado 'Cosmogonías y cosmovisiones indígenas costarricenses', se realizó con el objetivo de 'Reconocer generalidades de la cosmovisión y cosmogonía de los pueblos originarios y su aporte a la identidad y cultura co starricense', en el marco de la conmemoración del día de la persona indígena costarricense (19 de abril).
----
+En el año 2024 se ejecutó el Webinario: llamado 'Cosmogonías y cosmovisiones indígenas costarricenses', se realizó con el objetivo de 'Reconocer generalidades de la cosmovisión y cosmogonía de los pueblos originarios y su aporte a la identidad y cultura costarricense', en el marco de la conmemoración del día de la persona indígena costarricense (19 de abril).
 Participación en la elaboración de orientaciones pedagógicas generales del curso lectivo 2023, 2024, en el apartado correspondiente al Subsistema de Educación Indígena.
 En el año 2024 se realizan acciones para la enseñanza y promoción de la lengua indígena en educación preescolar en los centros educativos ubicados en territorios indígenas a través del diseño de una estrategia interdepartamental (Departamento de Educación Intercultural y Departamento de Primera Infancia) para la ampliación de la enseñanza de la lengua indígena en el marco de la Política Educativa de Promoción de Idiomas (PEPRI).
 La legislación contempla el derecho a la educación de los pueblos indígenas de acuerdo con este indicador efectivamente la educación indígena se tutela por medio de los decretos 22072 y 37801- MEP, bajo el Subsistema de Educación Indígena.
@@ -1930,7 +1971,7 @@ Se deben encontrar los recursos financieros, tecnológicos, materiales y humanos
 
 Para la promoción de la implementación del enfoque de educación intercultural, el MEP construyó la Estrategia de Educación Intercultural 2023-2026, la cual implica el trabajo operativo en cuatro áreas estratégicas, a saber:
 
-Contextualización y pertinencia cultural: consiste en relacionar las acciones curriculares y cocurriculares con la realidad sociocultural del estudiantado de manera que a esta se le otorgue prioridad y significancia.
+Contextualización y pertinencia cultural: consiste en relacionar las acciones curriculares y co-curriculares con la realidad sociocultural del estudiantado de manera que a esta se le otorgue prioridad y significancia.
 
 Fortalecimiento de la identidad histórico-cultural local: busca aprovechar la historia local (costumbres, tradiciones, prácticas ancestrales, patrimonios, entre otros) en la educación, lo que promueve el sentido de pertenencia y el arraigo de las personas a sus raíces culturales.
 
@@ -1979,6 +2020,7 @@ Respecto al abordaje y las acciones que se realizan desde el Ministerio de Educa
 ##### En temas de capacitación y asesoramiento:
 ###### 2023
 
+- Asesoramiento sobre discriminación racial y xenofobia: 598 personas funcionarias de los 9 circuitos educativos de la DRE Limón.
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
@@ -2103,7 +2145,7 @@ Respecto al abordaje y las acciones que se realizan desde el Ministerio de Educa
 
 ###### 2026
 
-- Webinario 'Una mirada a la identidad histórico -cultural costarricense'.
+- Webinario 'Una mirada a la identidad histórico-cultural costarricense'.
 
 - Celebración de la Semana de Educación Intercultural.
 
@@ -2119,7 +2161,7 @@ Respecto al abordaje y las acciones que se realizan desde el Ministerio de Educa
 
 Las  acciones  que  se  han  tomado  están  orientadas  a  todas  las  personas  migrantes,  refugiados, solicitantes de refugio, apátridas y en riesgo de apatridia.
 
-¿Con  qué  dificultades  se  han  tropezado  para  hacer  efectivo  el  derecho  a  la  educación  de migrantes, refugiados, solicitantes de asilo, apátridas y desplazados internos? De ser necesario, se pueden añadir breves datos cuantitativos.
+- ¿Con qué dificultades se han tropezado para hacer efectivo el derecho a la educación de migrantes, refugiados, solicitantes de asilo, apátridas y desplazados internos? De ser necesario, se pueden añadir breves datos cuantitativos.
 
 Estos serían algunos de los riesgos que se han tenido que afrontar en los últimos años:
 
@@ -2147,14 +2189,6 @@ Estos serían algunos de los riesgos que se han tenido que afrontar en los últi
 
  Otro:
 
-- Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
-
-Los enunciados que cuenta con la simbología del asterisco (*) se han respondido en los apartados previos, por lo tanto, no se replicará la información.
-
-> 38 Véase la nota 15.
-
-> 39 Véase la nota 16.
-
  Los docentes de las escuelas ordinarias reciben formación específica sobre discapacidad *
 
  Los docentes reciben formación para luchar contra la estigmatización 38 *
@@ -2166,6 +2200,14 @@ Los enunciados que cuenta con la simbología del asterisco (*) se han respondido
  Los planes de estudio están libres de estereotipos 39 y prejuicios
 
  Se adaptan las infraestructuras educativas y el material didáctico *
+
+- Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
+
+Los enunciados que cuenta con la simbología del asterisco (*) se han respondido en los apartados previos, por lo tanto, no se replicará la información.
+
+> 38 Véase la nota 15.
+
+> 39 Véase la nota 16.
 
 [[END OF PAGE 54]]
 
@@ -2206,19 +2248,18 @@ Fecha de edición | Referencia | Objetivo | Link o carpeta
 
 [[START OF PAGE 56]]
 
-Tiene | con especial énfasis, en el centro educativo, para el abordaje del proceso de construcción de los aprendizajes de las personas estudiantes en todos los niveles y ciclos académicos.
---- | --- | --- | ---
-2022 | Ministerio de Educación Pública. (2023). "Líneas de acción para los servicios de apoyo educativo que se brindan desde la educación especial en el Sistema Educativo Costarricense. | complementar y puntualizar las orientaciones y pautas contenidas en las líneas de acción, aclarando las dudas respecto a su implementación: con la intención de facilitar la puesta en práctica de los procesos en los centros educativos y los procesos de inclusión educativa
-2022 | Ministerio de Educación Pública. (2023). Cuaderno complementario No 1. Preguntas y respuestas | El Cuaderno Complementario No 1. Preguntas y Respuestas es elaborado desde el Departamento de Apoyos Educativos para el Estudiantado con Discapacidad, DAEED, como parte de una serie de documentos adjuntos a las 'Líneas de Acción para los Servicios de Apoyo Educativo que se brindan desde la Educación Especial en el Sistema Educativo Costarricense'. El presente Cuaderno Complementario N°2. | Cuaderno complementario N° 1. PREGUNTAS Y RESPUESTAS (mep.go.cr)
-2022 | Ministerio de Educación Pública. (2023). Cuaderno complementario No. 2. Apoyo educativo en el área conductual. | tiene dos objetivos, uno de ellos es explicar aspectos específicos, (técnico- administrativos) que se deben considerar en el funcionamiento de los servicios de apoyo fijo e itinerante de Problemas Emocionales y de Conducta. El otro y también muy importante, es ofrecer una guía sobre las acciones de acompañamiento a realizar por parte de los centros educativos que no cuentan | cuaderno_ndeg2_pec_2023.pdf (mep.go.cr)
+|  |  | con especial énfasis, en el centro educativo, para el abordaje del proceso de construcción de los aprendizajes de las personas estudiantes en todos los niveles y ciclos académicos. |  |
+2022 | Ministerio de Educación Pública. (2023). "Líneas de acción para los servicios de apoyo educativo que se brindan desde la educación especial en el Sistema Educativo Costarricense. | Tiene como finalidad de complementar y puntualizar las orientaciones y pautas contenidas en las líneas de acción, aclarando las dudas respecto a su implementación: con la intención de facilitar la puesta en práctica de los procesos en los centros educativos y los procesos de inclusión educativa | MODELO DE TRABAJO (mep.go.cr)
+2022 | Ministerio de Educación Pública. (2023). Cuaderno complementario No 1. Preguntas y respuestas | El Cuaderno Complementario No 1. Preguntas y Respuestas es elaborado desde el Departamento de Apoyos Educativos para el Estudiantado con Discapacidad, DAEED, como parte de una serie de documentos adjuntos a las 'Líneas de Acción para los Servicios de Apoyo Educativo que se brindan desde la Educación Especial en el Sistema Educativo Costarricense'. | Cuaderno complementario N° 1. PREGUNTAS Y RESPUESTAS (mep.go.cr)
+2022 | Ministerio de Educación Pública. (2023). Cuaderno complementario No. 2. Apoyo educativo en el área conductual. | El presente Cuaderno Complementario N°2. tiene dos objetivos, uno de ellos es explicar aspectos específicos, (técnico-administrativos) que se deben considerar en el funcionamiento de los servicios de apoyo fijo e itinerante de Problemas Emocionales y de Conducta. El otro y también muy importante, es ofrecer una guía sobre las acciones de acompañamiento a realizar por parte de los centros educativos que no cuentan | cuaderno_ndeg2_pec_2023.pdf (mep.go.cr)
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
 
-2022 | Ministerio de Educación Pública. (2023). Cuaderno complementario No 3. Apoyo educativo en el área de discapacidad visual. | con servicios de apoyo de PEC, cuando el requerimiento de apoyo educativo de una persona estudiante sea en el área conductual. El propósito de este cuaderno específico es detallar el accionar de los servicios de apoyo educativo en discapacidad visual, con la finalidad de promover el acceso,
---- | --- | ---
-2022 | Ministerio de Educación Pública. (2023). Cuaderno complementario No 4. Apoyo Educativo en problemas de aprendizaje. | aprendizaje, Estos cuadernos, tal y como su nombre lo indica, tienen la finalidad de complementar y puntualizar las orientaciones y pautas contenidas en el documento Líneas de Acción, referente común de cada uno. El propósito de este cuaderno es aclarar y orientar aspectos relacionados con el servicio de apoyo en el área de aprendizaje
+|  |  | con servicios de apoyo de PEC, cuando el requerimiento de apoyo educativo de una persona estudiante sea en el área conductual. |  |
+2022 | Ministerio de Educación Pública. (2023). Cuaderno complementario No 3. Apoyo educativo en el área de discapacidad visual. | El propósito de este cuaderno específico es detallar el accionar de los servicios de apoyo educativo en discapacidad visual, con la finalidad de promover el acceso, aprendizaje, permanencia y participación del estudiantado en el sistema educativo y con los apoyos educativos pertinentes | Cuaderno complementario N° 1. PREGUNTAS Y RESPUESTAS (mep.go.cr)
+2022 | Ministerio de Educación Pública. (2023). Cuaderno complementario No 4. Apoyo Educativo en problemas de aprendizaje. | Cuaderno complementario 4: Problemas de aprendizaje, Estos cuadernos, tal y como su nombre lo indica, tienen la finalidad de complementar y puntualizar las orientaciones y pautas contenidas en el documento Líneas de Acción, referente común de cada uno. El propósito de este cuaderno es aclarar y orientar aspectos relacionados con el servicio de apoyo en el área de aprendizaje específicamente. | cuaderno_ndeg_4_pa.pdf (mep.go.cr)
 
 ¿Con qué dificultades se ha tropezado para hacer efectivo el derecho a la educación de las personas con discapacidad? De ser necesario, se pueden añadir breves datos cuantitativos.
 
@@ -2242,11 +2283,11 @@ Tiene | con especial énfasis, en el centro educativo, para el abordaje del proc
 
  Existen medidas de acción positiva o afirmativa
 
+ Otro:
+
  Los docentes reciben formación para luchar contra la estigmatización 40
 
  Los planes de estudio están libres de estereotipos 41 y prejuicios
-
- Otro:
 
 La  Unidad  de  Becas,  de  la  Dirección  de  Programas de  Equidad  cuenta  con el Programa  de  Becas Postsecundaria, cuyo objetivo es promover la permanencia y mejorar las oportunidades de acceso a la  educación  superior  para  personas  estudiantes  en  situación  de  pobreza  extrema,  pobreza  y vulnerabilidad, mediante la asignación de subsidios económicos destinados al pago de matrícula y materias en centros universitarios y parauniversitarios, tanto públicos como privados, en todo el país.
 
@@ -2264,7 +2305,7 @@ El subsidio de transporte consiste en aquellas ayudas económicas que se brindan
 
 El Departamento de Alimentación de Alimentación y Nutrición es el encargado de la administración de los  recursos  asignados por  el Estado  para  la  atención  de  los estudiantes  de  todos  los  niveles, mediante el servicio de comedor estudiantil.
 
-La Dirección de Programas de Equidad cuenta con el Programa de Integración, dirigido a población estudiantil  con  discapacidad  en  situación  de  pobreza  (básica  o  extrema),  residente  o  extranjera, matriculada mediante acto formal en el sistema educativo público costarricense y coyo objetivo es coadyuvar en la disminución o eliminación de las barreras identificadas en la mediación pedagógica a las que se enfrenta esta población; para lo cual, se asigna contenido presupuestario a las Juntas de educación/  administrativas,  orientado  a  la  compra  y  otorgamiento  de  productos  de  apoyo  en beneficio de la población meta.
+La Dirección de Programas de Equidad cuenta con el Programa de Integración, dirigido a población estudiantil con discapacidad en situación de pobreza (básica o extrema), residente o extranjera, matriculada mediante acto formal en el sistema educativo público costarricense y coyo objetivo es
 
 > 40 Véase la nota 15.
 
@@ -2274,13 +2315,15 @@ La Dirección de Programas de Equidad cuenta con el Programa de Integración, di
 
 [[START OF PAGE 59]]
 
+coadyuvar en la disminución o eliminación de las barreras identificadas en la mediación pedagógica a las que se enfrenta esta población; para lo cual, se asigna contenido presupuestario a las Juntas de educación/ administrativas, orientado a la compra y otorgamiento de productos de apoyo en beneficio de la población meta.
+
 - Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
 La Unidad de Becas, está impulsando una estrategia de divulgación en las DRE del MEP, así como con el  programa  Avancemos  del  IMAS  y  Municipalidades  de  algunos  cantones,  para  dar  a  conocer  el programa de Becas Postsecundaria y ampliar su cobertura
 
 El  Programa de Transporte Estudiantil se ejecuta según lo establecido en el Decreto Ejecutivo N° 42907-MEP. Dicho Reglamento es el que regula el funcionamiento de dicho programa: requisitos, alcance, población beneficiaria, modalidad de ejecución. Asignación, entre otros.
 
-- El Programa de comedor estudiantil se sustenta en la ley 5662 y sus reformas, Ley de Desarrollo Social y Asignaciones Familiares y Artículo N°78 de la Constitución Política, que establece que la educación pública es gratuita y obligatoria.
+El Programa de comedor estudiantil se sustenta en la ley 5662 y sus reformas, Ley de Desarrollo Social y Asignaciones Familiares y Artículo N°78 de la Constitución Política, que establece que la educación pública es gratuita y obligatoria.
 
 El Programa de Integración responde a la siguiente normativa:
 
@@ -2294,13 +2337,13 @@ Para tramitar la solicitud y provisión de los servicios de apoyo, el centro edu
 
 ##### DIRECTRIZ N° 060-MTSS-MDHIS
 
-'Artículo  3ºUso  obligatorio .  Se  instruye  a  las  siguientes  instituciones  a  utilizar  la  clasificación socioeconómica  y  priorización  dada  por  SINIRUBE  para  la  selección  de  personas  u  hogares beneficiarios, para los siguientes programas detallados. (…).
+“Artículo 3º—Uso obligatorio. Se instruye a las siguientes instituciones a utilizar la clasificación socioeconómica y priorización dada por SINIRUBE para la selección de personas u hogares beneficiarios, para los siguientes programas detallados. (...).
 
-¿Con  qué  dificultades  se  ha  tropezado  para  hacer  efectivo  el  derecho  a  la  educación  de  los educandos de familias pobres? De ser necesario, se pueden añadir breves datos cuantitativos.
+- ¿Con qué dificultades se ha tropezado para hacer efectivo el derecho a la educación de los educandos de familias pobres? De ser necesario, se pueden añadir breves datos cuantitativos.
 
-Las  principales  limitaciones  a  las  que  se  ha  enfrentado  el  Depto.  de  Transporte  Estudiantil  en  la ejecución del Programa han sido:
+Las principales limitaciones a las que se ha enfrentado el Depto. de Transporte Estudiantil en la ejecución del Programa han sido:
 
-- Limitación  del  Presupuesto  Ordinario  asignado  al  PTE  que  impide  una  gestión  adecuada  del Programa y una asignación efectiva que permita atender la demanda de la población estudiantil que requiere del ingreso al beneficio que se otorga debido a la aplicación de Regla Fiscal y otros temas presupuestarios.
+1. Limitación del Presupuesto Ordinario asignado al PTE que impide una gestión adecuada del Programa y una asignación efectiva que permita atender la demanda de la población estudiantil que requiere del ingreso al beneficio que se otorga debido a la aplicación de Regla Fiscal y otros temas presupuestarios.
 
 [[END OF PAGE 59]]
 
@@ -2308,23 +2351,23 @@ Las  principales  limitaciones  a  las  que  se  ha  enfrentado  el  Depto.  de 
 
 2. Limitación del Recurso Humano. Actualmente el DTE está conformado por 8 funcionarios, lo cual no es proporcional con la cantidad de gestiones que se reciben al año y presupuesto que se maneja.
 
-Las  principales  situaciones  enfrentadas  por  el  Departamento  de  Alimentación  y  Nutrición  son  el presupuesto ordinario asignado que no permite ampliar servicios según las necesidades de los centros educativos beneficiarios, limitándose su crecimiento. Adicionalmente, la carencia del recurso humano requerido para la administración del programa impide su desarrollo y brindar la atención necesaria a los beneficiarios.
+Las principales situaciones enfrentadas por el Departamento de Alimentación y Nutrición son el presupuesto ordinario asignado que no permite ampliar servicios según las necesidades de los centros educativos beneficiarios, limitándose su crecimiento. Adicionalmente, la carencia del recurso humano requerido para la administración del programa impide su desarrollo y brindar la atención necesaria a los beneficiarios.
 
 Las principales limitaciones a las que se ha enfrentado el Programa de Integración son las siguientes:
 
-- Está adscrita a la Dirección de Programas de Equidad, pero no se contempla en la estructura organizativa del Ministerio de Educación Pública, en el Decreto 38170MEP ' Organización administrativa de las oficinas centrales del Ministerio de Educación Pública '.
+1. Está adscrita a la Dirección de Programas de Equidad, pero no se contempla en la estructura organizativa del Ministerio de Educación Pública, en el Decreto 38170-MEP “Organización administrativa de las oficinas centrales del Ministerio de Educación Pública”.
 
-- Actualmente  hay  tres  profesionales  (uno  de  ellos  encargado  del  análisis  técnico  de  las solicitudes  de  las  solicitudes  de  cobertura  nacional)  para  gestionar  solicitudes  de  apoyo dirigidas a estudiantes pobres.
+2. Actualmente hay tres profesionales (uno de ellos encargado del análisis técnico de las solicitudes de las solicitudes de cobertura nacional) para gestionar solicitudes de apoyo dirigidas a estudiantes pobres.
 
-- Un  rezago  importante  en  la  gestión  de  solicitudes,  derivadas  del  recorte  presupuestario producto de la pandemia COVID 19, del poco personal para la gestión de las solicitudes, de la implementación de un nuevo procedimiento .
+3.Un rezago importante en la gestión de solicitudes, derivadas del recorte presupuestario producto de la pandemia COVID 19, del poco personal para la gestión de las solicitudes, de la implementación de un nuevo procedimiento.
 
 ## 2. Progresos realizados en la aplicación del derecho a la educación en todos los niveles y formas de educación
 
 ### 2.1 Atención y educación de la primera infancia
 
-- A fines de referencia, la atención y educación de la primera infancia (AEPI) no se menciona explícitamente en la Convención o la Recomendación. Sin embargo, a lo largo de los años, la comunidad internacional ha  ido  reconociendo  cada  vez  más  la  importancia  de  la  AEPI. El  Comité  de  los  Derechos  del  Niño reconoció  inicialmente  que ' el  derecho  a  la  educación  durante  la  primera  infancia  comienza  en  el nacimiento ' (observación general núm. 7), y esto se estableció de forma más explícita en el Marco de Acción  y  Cooperación  de  Moscú  de  2010 42 y,  más  recientemente,  en  la  Declaración  de  Taskent  y Compromisos de Acción  para  Transformar  la  Atención  y  Educación  de  la  Primera  Infancia 43 . En  el contexto actual de la agenda Educación 2030, los Estados se comprometieron, en virtud de la meta 4.2, a impartir ' al menos un año de enseñanza preescolar de calidad, gratuita y obligatoria ' .
+A fines de referencia, la atención y educación de la primera infancia (AEPI) no se menciona explícitamente en la Convención o la Recomendación. Sin embargo, a lo largo de los años, la comunidad internacional ha ido reconociendo cada vez más la importancia de la AEPI. El Comité de los Derechos del Niño reconoció inicialmente que “el derecho a la educación durante la primera infancia comienza en el nacimiento” (observación general núm. 7), y esto se estableció de forma más explícita en el Marco de Acción y Cooperación de Moscú de 2010 42 y, más recientemente, en la Declaración de Taskent y Compromisos de Acción para Transformar la Atención y Educación de la Primera Infancia 43. En el contexto actual de la agenda Educación 2030, los Estados se comprometieron, en virtud de la meta 4.2, a impartir “al menos un año de enseñanza preescolar de calidad, gratuita y obligatoria”.
 
-- Indique las medidas adoptadas para garantizar el acceso a una AEPI de calidad ( marque todos los puntos que correspondan ).
+- Indique las medidas adoptadas para garantizar el acceso a una AEPI de calidad (marque todos los puntos que correspondan).
 
  Antes de la educación preprimaria, los servicios de AEPI son gratuitos
 
@@ -2332,11 +2375,11 @@ Las principales limitaciones a las que se ha enfrentado el Programa de Integraci
 
  Los servicios de AEPI son accesibles sin discriminación alguna
 
+ Los servicios de AEPI respetan las necesidades del niño en materia de desarrollo cognitivo y social temprano, aprendizaje fundacional, cuidado sensible, nutrición, salud, seguridad, protección y juego
+
 > 42 En el que se afirma que la AEPI forma parte del derecho a la educación y constituye el pilar fundamental del desarrollo humano holístico.
 
 > 43 Mediante la cual los Estados se comprometen a mejorar los marcos políticos y jurídicos para garantizar que el derecho a la educación incluya la AEPI.
-
- Los servicios de AEPI respetan las necesidades del niño en materia de desarrollo cognitivo y social temprano, aprendizaje fundacional, cuidado sensible, nutrición, salud, seguridad, protección y juego
 
 [[END OF PAGE 60]]
 
@@ -2362,31 +2405,31 @@ El Programa de Alimentación y Nutrición atiende lo siguiente grupos beneficiar
 
 Desde la Educación Especial, se brinda atención desde el nacimiento hasta los 18 años de edad en los servicios específicos que se describen a continuación:
 
-- Servicio educativo para niños de 0 a 6 años con discapacidad o riesgo en el desarrollo: cuyo objetivo  es  la  atención  Niños  y  niñas  con  discapacidad  o  riesgo  en  el  desarrollo, desde  el nacimiento hasta los 6 años de edad que presenten alguna de las siguientes condiciones:
+- Servicio educativo para niños de 0 a 6 años con discapacidad o riesgo en el desarrollo: cuyo objetivo es la atención Niños y niñas con discapacidad o riesgo en el desarrollo, desde el nacimiento hasta los 6 años de edad que presenten alguna de las siguientes condiciones:
 
-- o Prematuridad
+  - Prematuridad
 
-- o Bajo peso, anoxia o hipoxia al nacer
+  - Bajo peso, anoxia o hipoxia al nacer
 
-- o Retraso en el desarrollo psicomotor.
+  - Retraso en el desarrollo psicomotor.
 
-- o Trastornos metabólicos.
+  - Trastornos metabólicos.
 
-- o Trastornos cromosómicos.
+  - Trastornos cromosómicos.
 
-- o Trastornos del espectro autista.
+  - Trastornos del espectro autista.
 
-- o Riesgo biológico sensorial visual.
+  - Riesgo biológico sensorial visual.
 
-- o Riesgo biológico sensorial auditivo.
+  - Riesgo biológico sensorial auditivo.
 
 - Centros de Educación Especial (CEE): destinados a población en situación de discapacidad y a que trabajan desde el nacimiento hasta la mayoría de edad.
 
-Ambos servicios específicos, se rigen bajo el Acuerdo Consejo Superior de Educación (CSE) N° 0953-2001,  el  cual  establece  las  edades  de  ingreso  y  egreso  de  las  poblaciones  estudiantiles matriculadas en dichos servicios.
+Ambos servicios específicos, se rigen bajo el Acuerdo Consejo Superior de Educación (CSE) N° 09-53-2001, el cual establece las edades de ingreso y egreso de las poblaciones estudiantiles matriculadas en dichos servicios.
 
-#### P rogresos Realizados en la Aplicación del Derecho a la Educación en Todos los Niveles y Formas de Educación desde el Departamento de Educación para la Primera Infancia
+#### Progresos Realizados en la Aplicación del Derecho a la Educación en Todos los Niveles y Formas de Educación desde el Departamento de Educación para la Primera Infancia
 
-Estudios internacionales son claros en explicar que proveer la educación en la primera infancia, amplía las oportunidades y reduce la exclusión en la educación secundaria. Eebn concordancia con esta premisa y de acuerdo con una serie de acuerdos y compromisos internacionales vinculantes sobre la primera infancia, es que Costa Rica viene fortaleciendo el reconocimiento de los niños y niñas como portadores de derechos, lo que ha llevado a la promoción de normativas, programas y estrategias para atención integral de la niñez
+Estudios internacionales son claros en explicar que proveer la educación en la primera infancia, amplía las oportunidades y reduce la exclusión en la educación secundaria. En concordancia con esta premisa y de acuerdo con una serie de acuerdos y compromisos internacionales vinculantes sobre la primera infancia, es que Costa Rica viene fortaleciendo el reconocimiento de los niños y niñas como portadores de derechos, lo que ha llevado a la promoción de normativas, programas y estrategias para atención integral de la niñez
 
 [[END OF PAGE 61]]
 
@@ -2398,15 +2441,15 @@ El Ministerio de Educación también ha fortalecido las coordinaciones interinst
 
 Desde 2015, se desarrolla la Estrategia de Educación para la Primera Infancia, definida como acciones orientadas al fortalecimiento de los procesos de articulación intersectorial e interinstitucional que asegure el acceso, la cobertura y la calidad de los servicios educativos dirigidos a niños y niñas en edad preescolar. La Estrategia se estructura en cinco componentes:
 
-- Identificación de lugares donde hay niños y niñas fuera del sistema educativo, asegurando que ningún niño o niña quede excluido del acceso a la educación.
+1. Identificación de lugares donde hay niños y niñas fuera del sistema educativo, asegurando que ningún niño o niña quede excluido del acceso a la educación.
 
-- Asignación de plazas docentes en centros de cuido y desarrollo infantil, garantizando la disponibilidad de educadores capacitados en todas las regiones del país y en diferentes ambientes (centros educativos públicos y centros infantiles públicos externos al MEP).
+2. Asignación de plazas docentes en centros de cuido y desarrollo infantil, garantizando la disponibilidad de educadores capacitados en todas las regiones del país y en diferentes ambientes (centros educativos públicos y centros infantiles públicos externos al MEP).
 
-- Análisis de la infraestructura en las zonas de menor desarrollo, con miras a proporcionar ambientes seguros y adecuados para el aprendizaje.
+3. Análisis de la infraestructura en las zonas de menor desarrollo, con miras a proporcionar ambientes seguros y adecuados para el aprendizaje.
 
-- Sensibilización a las familias sobre la importancia del componente cognitivo en el desarrollo integral de la niñez, promoviendo la participación y el compromiso de las familias para validar el derecho a la educación de los niños y niñas.
+4. Sensibilización a las familias sobre la importancia del componente cognitivo en el desarrollo integral de la niñez, promoviendo la participación y el compromiso de las familias para validar el derecho a la educación de los niños y niñas.
 
-- Mejora en la calidad de los procesos de aprendizaje, asegurando que todos los niños y niñas reciban una educación de alta calidad, adaptada a sus necesidades y contextos.
+5. Mejora en la calidad de los procesos de aprendizaje, asegurando que todos los niños y niñas reciban una educación de alta calidad, adaptada a sus necesidades y contextos.
 
 En la implementación de la Estrategia se destacan los siguientes elementos:
 
@@ -2426,11 +2469,11 @@ En la implementación de la Estrategia se destacan los siguientes elementos:
 
 [[START OF PAGE 63]]
 
--Coordinación interinstitucional e intersectorial: Necesaria para alcanzar la visión país. La colaboración entre diferentes instituciones y sectores es esencial para proporcionar una educación inclusiva y de calidad.
+- Coordinación interinstitucional e intersectorial: Necesaria para alcanzar la visión país. La colaboración entre diferentes instituciones y sectores es esencial para proporcionar una educación inclusiva y de calidad.
 
--Universalización: Buscar universalizar el derecho y la oportunidad de la educación para todos los niños y niñas de 4 y 5 años. Este objetivo asegura que todos los niños y niñas tengan las mismas oportunidades educativas desde una edad temprana.
+- Universalización: Buscar universalizar el derecho y la oportunidad de la educación para todos los niños y niñas de 4 y 5 años. Este objetivo asegura que todos los niños y niñas tengan las mismas oportunidades educativas desde una edad temprana.
 
--Interés superior: Centrarse en el interés superior de los niños y niñas, reconociendo la importancia de sumar esfuerzos entre diferentes instituciones. Este principio guía todas las acciones y políticas, asegurando que el bienestar y el desarrollo de los niños y niñas sean siempre la prioridad.
+- Interés superior: Centrarse en el interés superior de los niños y niñas, reconociendo la importancia de sumar esfuerzos entre diferentes instituciones. Este principio guía todas las acciones y políticas, asegurando que el bienestar y el desarrollo de los niños y niñas sean siempre la prioridad.
 
 ¿Existe una enseñanza preprimaria gratuita y obligatoria?
 
@@ -2440,7 +2483,7 @@ Indique la edad de matriculación y la duración.
 
 La Educación Preescolar es gratuita y obligatoria en Costa Rica, de acuerdo con los artículos 77 y 78 de la Constitución Política.
 
-- ARTÍCULO 77.La educación pública será organizada como un proceso integral correlacionado en sus diversos ciclos, desde la pre-escolar hasta la universitaria.
+- ARTÍCULO 77.- La educación pública será organizada como un proceso integral correlacionado en sus diversos ciclos, desde la pre-escolar hasta la universitaria.
 
 - ARTÍCULO 78.- La educación preescolar, general básica y diversificada son obligatorias y, en el sistema público, gratuitas y costeadas por la Nación.
 
@@ -2484,21 +2527,21 @@ No aplica
 
 Desde  la Educación  Especial ,  la  mayor  dificultad  se  debe  a  la  cobertura  de  toda  la  población identificada desde las áreas de salud, que las remite al Ministerio de Educación Pública. Lo anterior, con la particularidad de que no en todas las comunidades existen servicios específicos.
 
-#### Desde Educación de la Primera Infanci a
+#### Desde Educación de la Primera Infancia
 
 La meta de la estrategia de primera infancia fue aumentar la cobertura, sin embargo, en el transitar se presentaron varios obstáculos que en algunos casos se pudo resolver y en otros aún sigue siendo un reto para el MEP. A continuación, se describe los obstáculos que han impedido al MEP continuar con la universalización de la educación preescolar.
 
-- La modificación del Reglamento de Matrícula y Traslados en el sistema educativo hizo efectivo la obligatoriedad del Ciclo Materno Infantil (Grupo Interactivo II) y Ciclo Transición del nivel de Educación Preescolar. Sin embargo, al regir la edad de ingreso como único requisito para la matricula, los padres de familia o adultos responsables optan por decidir el ingreso de los niños y niñas a la Educación Preescolar.
+1. La modificación del Reglamento de Matrícula y Traslados en el sistema educativo hizo efectivo la obligatoriedad del Ciclo Materno Infantil (Grupo Interactivo II) y Ciclo Transición del nivel de Educación Preescolar. Sin embargo, al regir la edad de ingreso como único requisito para la matricula, los padres de familia o adultos responsables optan por decidir el ingreso de los niños y niñas a la Educación Preescolar.
 
-- El posible ingreso de la totalidad de la población en edad preescolar, supone un enorme reto en cuanto a capacidad locativa de las instituciones, sobre todo en las zonas densas del país como la  meseta central. Hasta el 2018, se abrió la posibilidad de que  en estas zonas se abriera la tercera jornada en el nivel de Educación Preescolar, no obstante, esta decisión administrativa pone en riesgo la calidad educativa. Otro gran reto en cobertura son las zonas dispersas, donde por razones geográficas, de trasporte o pobreza las familias no pueden enviar a sus niños a los centros educativos y estos no ofrecen el servicio.
+2. El posible ingreso de la totalidad de la población en edad preescolar, supone un enorme reto en cuanto a capacidad locativa de las instituciones, sobre todo en las zonas densas del país como la meseta central. Hasta el 2018, se abrió la posibilidad de que en estas zonas se abriera la tercera jornada en el nivel de Educación Preescolar, no obstante, esta decisión administrativa pone en riesgo la calidad educativa. Otro gran reto en cobertura son las zonas dispersas, donde por razones geográficas, de trasporte o pobreza las familias no pueden enviar a sus niños a los centros educativos y estos no ofrecen el servicio.
 
-- Organizacionalmente, implica una gestión regional compleja, pues se requiere elaborar rutas, justificación de códigos, levantamiento de censos, ruptura de estereotipos frente a las familias y mucha coordinación interinstitucional y aprobar presupuestos, cuando las autoridades han decretado  como  preocupante  el  presupuesto  nacional,  por  lo  que  se  han  congelado  la aprobación de código y nuevos subsidios.
+3. Organizacionalmente, implica una gestión regional compleja, pues se requiere elaborar rutas, justificación de códigos, levantamiento de censos, ruptura de estereotipos frente a las familias y mucha coordinación interinstitucional y aprobar presupuestos, cuando las autoridades han decretado como preocupante el presupuesto nacional, por lo que se han congelado la aprobación de código y nuevos subsidios.
 
-- A nivel intersectorial falta establecer estrategias sostenibles para alcanzar la universalización de la Educación Preescolar, en particular para garantizar la calidad del proceso de aprendizaje de los niños y las niñas en entornos vulnerables.
+4. A nivel intersectorial falta establecer estrategias sostenibles para alcanzar la universalización de la Educación Preescolar, en particular para garantizar la calidad del proceso de aprendizaje de los niños y las niñas en entornos vulnerables.
 
-- El  trabajo  para  el  MEP  se  complica  con  la  población  que  se  encuentra  en  centros  infantiles privados no reconocidos y en alternativas de cuido no cuentan con el componente educativo oficializado por el MEP. En este sentido, se ha logrado realizar acciones como nombrar docentes MEP en alternativas en instancias públicas, coordinar con la Red de Cuido para garantizar la asistencia a centros educativos MEP, ofrecer asesoría para el proceso de reconocer oficialmente los centros privados, acreditación de CENCINAI.
+5. El trabajo para el MEP se complica con la población que se encuentra en centros infantiles privados no reconocidos y en alternativas de cuido no cuentan con el componente educativo oficializado por el MEP. En este sentido, se ha logrado realizar acciones como nombrar docentes MEP en alternativas en instancias públicas, coordinar con la Red de Cuido para garantizar la asistencia a centros educativos MEP, ofrecer asesoría para el proceso de reconocer oficialmente los centros privados, acreditación de CENCINAI.
 
-- No existe un presupuesto exclusivo para primera infancia, lo que hace que designar códigos, programas, subsidios u otros para conducir a la universalización de la primera infancia, no pueda crecer ya que dependerá de las autoridades y las líneas de trabajo. Las recomendaciones OCDE indican que, 'La atención y educación de la primera infancia (AEPI) deberá recibir prioridad en el  gasto público y política, dado el papel vital que puede desempeñar en la lucha contra las desventajas y la pobreza'
+7. No existe un presupuesto exclusivo para primera infancia, lo que hace que designar códigos, programas, subsidios u otros para conducir a la universalización de la primera infancia, no pueda crecer ya que dependerá de las autoridades y las líneas de trabajo. Las recomendaciones OCDE indican que, 'La atención y educación de la primera infancia (AEPI) deberá recibir prioridad en el gasto público y política, dado el papel vital que puede desempeñar en la lucha contra las desventajas y la pobreza'
 
 - Explique. Se pueden añadir breves datos cuantitativos.
 
@@ -2510,17 +2553,65 @@ El servicio de educación preescolar en Costa Rica se ofrece a los estudiantes e
 
 El MEP ofrece este servicio en dos tipos de establecimientos: Jardín de Niños Independiente y Jardín de Niños (Anexo). En cuanto a la Dirección Nacional de CEN-CINAI, los establecimientos acreditados incluyen una modalidad combinada donde el servicio del MEP se brinda en los centros CEN-CINAI. En 2023, se inscribieron 129.668 niños en los ciclos de materno infantil -interactivo II- y transición, incluyendo 4.427 migrantes o refugiados. De estos estudiantes, el 48,7% se matriculó en Interactivo II, mientras que el resto ingresó al ciclo de Transición.
 
+Matrícula inicial del servicio a nivel público, privado y subvencionado
+-período 2019 - 2023-
+
+Cantidad Estudiantes
+
+Año | Matrícula Inicial Educación Privada y Subvencionada Interactivo II y Transición | Matrícula Inicial Transición Educación Preescolar Pública, Privada y Subvencionada | Matrícula Inicial Interactivo II Educación Preescolar Pública, Privada y Subvencionada
+--- | --- | --- | ---
+2019 | 14.590 | 69.068 | 67.276
+2020 | 15.954 | 69.917 | 68.128
+2021 | 14.292 | 70.064 | 64.865
+2022 | 15.580 | 67.427 | 65.099
+2023 | 15.703 | 66.546 | 63.122
+
+Años
+
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
 
-El  servicio  de  educación  preescolar  que  se  ofrece  en  establecimientos  públicos  cuenta  con  una cobertura de más del 87% de la población meta. Asimismo, al 2023 se denota un incremento del 7,63% en la matrícula inicial de educación privada o subvencionada respecto al comportamiento de 2019.
+Tasas de escolaridad bruta y neta del materno infantil -interactivo II- y transición por dependencia pública, privada y subvencionada (no incluye educación especial)
+período 2010 - 2023
+
+Tasa
+
+Años
+
+Tasa Neta Ciclos Materno Infantil y Transición
+
+Tasa Neta Ciclo Materno Infantil
+
+Tasa Neta Ciclo Transición
+
+Tasa Bruta Ciclos Materno Infantil y Transición
+
+El servicio de educación preescolar que se ofrece en establecimientos públicos cuenta con una cobertura de más del 87% de la población meta. Asimismo, al 2023 se denota un incremento del 7,63% en la matrícula inicial de educación privada o subvencionada respecto al comportamiento de 2019.
 
 Según los datos de la CGR (2023), La disminución presupuestaria en las transferencias giradas en 2022 a las Juntas de Educación, repercute en la asignación presupuestaria de subpartidas que se utilizan para la compra de materiales y recursos didácticos necesarios para la mediación pedagógica en educación preescolar, al evidenciar un decrecimiento de 10,1% y en la asignación para gastos de carácter administrativo necesario para la prestación del servicio, el cual demuestra una disminución presupuestaria de 7,6%.
 
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
+
+Inversión por estudiante con resultados avanzados para diez Direcciones Regionales de Educación con menor y mayor inversión, periodo 2021 - 2022
+
+DRE | Inversión por estudiante en colones 2021 | Inversión por estudiante en colones 2022 | Porcentaje promedio Estudiantes Interactivo II con Resultados Avanzados 2021 | Porcentaje promedio Estudiantes Interactivo II con Resultados Avanzados 2022 | Promedio Matrícula 2021-2022 Interactivo II
+--- | --- | --- | --- | --- | ---
+San José Norte | 334.621,90 | 245.927,89 | 56,9% | 56,1% | 2.583
+San José Oeste | 327.094,03 | 249.404,59 | 57,1% | 45,8% | 2.596
+Heredia | 397.244,12 | 281.395,08 | 65,1% | 55,0% | 3.630
+San José Central | 381.020,77 | 291.429,18 | 61,5% | 54,8% | 2.939
+Desamparados | 351.052,11 | 303.209,08 | 64,8% | 55,4% | 3.319
+Limón | 479.714,92 | 473.750,05 | 65,5% | 56,2% | 3.743
+Grande de Térraba | 617.550,06 | 584.849,51 | 64,7% | 54,9% | 1.233
+Coto | 617.272,71 | 604.767,49 | 57,1% | 45,4% | 1.993
+Los Santos | 705.284,10 | 690.037,05 | 62,4% | 54,4% | 546
+Sulá | 730.109,97 | 733.058,76 | 40,5% | 24,1% | 578
+Promedio | 494.096,5 | 445.782,9 | 59,6% | 50,2% | 57.852
+
+Fuente: Elaboración CGR, con información obtenida durante la ejecución de la auditoría
 
 ### 2.2 Educación primaria y secundaria
 
@@ -2645,20 +2736,37 @@ Requisito de matrícula establecido en el inciso c) del Decreto Ejecutivo 40529,
 - Indique la edad de matriculación y la duración del segundo ciclo de educación secundaria.
 
 No existe una edad establecida, sin embargo, el ciclo Educación Diversificada (segundo ciclo de educación secundaria según este documento), se constituye por décimo, undécimo y duodécimo (colegios técnicos) años y el rango de edad ronda entre los 15 años - 18 años.
----
+
 Para personas jóvenes y adultas, existen modalidades que les permite iniciar y concluir la Educación Diversificada, tras contar con 15 años o más, según la modalidad en que se matricule.
+
 Requisito de matrícula establecido en el inciso c) del Decreto Ejecutivo 40529, Reglamento de matrícula y de traslados de los estudiantes
+
 c) En el caso de séptimo año de la Educación General Básica y décimo año de la Educación Diversificada se debe presentar original y copia del Certificado de Conclusión de Estudios del Ciclo anterior y del informe al hogar Corresponde a la cada institución, velar porque la información restante llegue al lugar donde se formaliza la matrícula.
 
 - ¿Son obligatorios y gratuitos el primer y segundo ciclo de secundaria?
 
-Nota:  Lo marcado en color amarillo corresponde a la selección ya que no se permite marcar las
+ El primer ciclo de educación secundaria es obligatorio
 
- El primer ciclo de educación secundaria es obligatorio El primer ciclo de educación secundaria no es obligatorio  El primer ciclo de educación secundaria es gratuito El primer ciclo de educación secundaria no es gratuito  El segundo ciclo de educación secundaria es obligatorio El segundo ciclo de educación secundaria no es obligatorio  El segundo ciclo de educación secundaria es gratuito El segundo ciclo de educación secundaria no es gratuito casillas.
+El primer ciclo de educación secundaria no es obligatorio
 
-- Enumere las leyes y políticas pertinentes. Si procede, facilite información sobre los costos directos (por  ejemplo,  tasas  de  matrícula  y  académicas)  e  indirectos  (por  ejemplo,  derechos  de  examen, material escolar, uniformes, transporte y tasas obligatorias para los padres). Se pueden añadir breves datos cuantitativa- Indique si la edad mínima legal para trabajar coincide con la edad de finalización de la educación obligatoria.
+ El primer ciclo de educación secundaria es gratuito
+
+El primer ciclo de educación secundaria no es gratuito
+
+ El segundo ciclo de educación secundaria es obligatorio
+
+El segundo ciclo de educación secundaria no es obligatorio
+
+ El segundo ciclo de educación secundaria es gratuito
+
+El segundo ciclo de educación secundaria no es gratuito
+
+Nota: Lo marcado en color amarillo corresponde a la selección ya que no se permite marcar las casillas.
+
+- Enumere las leyes y políticas pertinentes. Si procede, facilite información sobre los costos directos (por ejemplo, tasas de matrícula y académicas) e indirectos (por ejemplo, derechos de examen, material escolar, uniformes, transporte y tasas obligatorias para los padres). Se pueden añadir breves datos cuantitativa- Indique si la edad mínima legal para trabajar coincide con la edad de finalización de la educación obligatoria.
 
 ##### Constitución Política de la República de Costa Rica
+
 ARTÍCULO 78.- La educación preescolar, general básica y diversificada son obligatorias y, en el sistema público, gratuitas y costeadas por la Nación.
 
 [[END OF PAGE 70]]
@@ -2689,11 +2797,11 @@ En Costa Rica, la edad mínima establecida para trabajar es de quince años, lo 
 
 ##### Código de la Niñez y la Adolescencia No 7739
 
-Artículo 78°Derecho al trabajo.
+Artículo 78°- Derecho al trabajo.
 
 El Estado reconocerá el derecho de las personas adolescentes mayores de quince años a trabajar con las restricciones que imponen este Código, los convenios internacionales y la ley. Este derecho podrá limitarse solamente cuando la actividad laboral importe riesgo, peligro para el desarrollo, la salud física, mental y emocional o cuando perturbe la asistencia regular al centro educativo.
 
-Artículo 86°Capacidad jurídica en materia laboral.
+Artículo 86°- Capacidad jurídica en materia laboral.
 
 [[END OF PAGE 71]]
 
@@ -2701,13 +2809,13 @@ Artículo 86°Capacidad jurídica en materia laboral.
 
 Reconócese  a  las  personas  adolescentes,  a  partir  de  los  quince  años,  plena  capacidad  laboral, individual  y  colectiva,  para  celebrar  actos  y  contratos  relacionados  con  su  actividad  laboral  y económica y para demandar, ante las autoridades administrativas y judiciales, el cumplimiento de las normas jurídicas referentes a su actividad.
 
-Artículo 87°Trabajo y educación.
+Artículo 87°- Trabajo y educación.
 
 El derecho y la obligación de educarse de las personas menores de edad deberán armonizarse con el trabajo de las personas adolescentes. Para ello, su trabajo deberá ejecutarse sin detrimento de la asistencia al centro educativo. El Ministerio de Educación Pública diseñará las modalidades y los horarios escolares que permitan la asistencia de esta población a los centros educativos.
 
-Las  autoridades  de  los  centros  educativos  velarán  porque  el  trabajo  no  afecte  la  asistencia  y  el rendimiento escolar. Deberán informar, a la Dirección Nacional e Inspección General de Trabajo del Ministerio de Trabajo y Seguridad Social, cualquier situación irregular en las condiciones laborales de los educandos.
+Las autoridades de los centros educativos velarán porque el trabajo no afecte la asistencia y el rendimiento escolar. Deberán informar, a la Dirección Nacional e Inspección General de Trabajo del Ministerio de Trabajo y Seguridad Social, cualquier situación irregular en las condiciones laborales de los educandos.
 
-Artículo 88°Facilidades para estudiar.
+Artículo 88°- Facilidades para estudiar.
 
 Los empleadores que contraten adolescentes estarán obligados a concederles las facilidades que compatibilicen su trabajo con la asistencia regular al centro educativo.
 
@@ -2721,13 +2829,13 @@ Los empleadores que contraten adolescentes estarán obligados a concederles las 
 
  Programas de baja calidad
 
+ Otro:
+
  Resultados del aprendizaje mediocres
 
  Poca preparación de los graduados de primaria
 
  Escaso número de docentes que han recibido formación profesional
-
- Otro:
 
 Una de las dificultades identificadas son los resultados de aprendizaje mediocres, esto se evidencia en dos aspectos, los resultados obtenidos en las Pruebas Faro aplicadas en el año 2021 y en los resultados de las universidades en los cursos iniciales de carrera, donde se determina que existen debilidades en la formación de estudiantes en la enseñanza secundaria.
 
@@ -2745,7 +2853,89 @@ Por otra parte, en cuanto a los resultados obtenidos por las personas estudiante
 
 [[START OF PAGE 74]]
 
-(this page came through the extractor with no text)
+Figura 1.5
+
+Descripción del nivel 3 de desempeño y proporción de estudiantes que lo alcanzaron en la prueba FARO 2021 para secundaria, según asignatura
+
+Matemáticas (2,3%)
+
+- Pueden trabajar con modelos explícitos en situaciones complejas y concretas que exigen la formulación de supuestos.
+
+- Utilizan diversas habilidades para razonar con cierta perspicacia en contextos novedosos.
+
+- Pueden seleccionar e integrar diferentes representaciones, incluidas las simbólicas, asociándolas directamente a situaciones de contextos cotidianos.
+
+- Pueden resolver problemas y comprobar argumentos basados en sus interpretaciones y acciones.
+
+Ciencias (0,8%)
+
+- Son capaces de tomar la información que se brinda o elementos aislados que se le proporcionan y organizar o establecer relaciones entre las partes, de forma que le permitan realizar conclusiones y así resolver las situaciones planteadas.
+
+Español-lectura (0,8%)
+
+- Altas probabilidades de identificar la reorganización de la comprensión literal en textos literarios y no literarios. Asimismo, capacidad de interpretar la función que desempeñan los recursos retóricos y estilísticos, el tipo de sociedad representada y el sistema de valores cuestionados o promovidos por el texto; además, logra deducir las filias y fobias derivadas, el punto de vista, tono y posición del texto ante el mundo mostrado.
+
+Fuente: Murillo, 2023a con base en MEP, 2022b.
+
+Gráfico 1.3
+
+Tasas de reprobación de cursos matriculados, por área de conocimiento, según tipo de curso a/, 2019-2021
+(porcentajes)
+
+a) UCR
+
+Área de conocimiento | Servicio | Propio
+--- | --- | ---
+Ciencias Básicas | 31,7 | 14,1
+Ciencias de la Salud | 17,8 | 3,8
+Educación | 14,7 | 5,9
+Ciencias Sociales | 16,3 | 9,0
+Computación | 13,8 | 7,2
+Ciencias Económicas | 13,9 | 9,4
+Artes y Letras | 13,7 | 9,2
+Ingeniería | 8,9 | 8,7
+Recursos Naturales | 6,5 | 8,8
+Derecho |  | 6,1
+
+b) UNA
+
+Área de conocimiento | Servicio | Propio
+--- | --- | ---
+Computación | 50,7 | 14,8
+Recursos Naturales | 32,8 | 6,7
+Ciencias de la Salud | 26,8 | 4,8
+Ingeniería | 17,7 | 6,9
+Ciencias Básicas | 16,8 | 8,1
+Ciencias Sociales | 16,2 | 8,1
+Artes y Letras | 14,8 | 8,9
+Ciencias Económicas | 12,7 | 5,1
+Educación | 5,2 | 7,3
+
+c) TEC
+
+Área de conocimiento | Servicio | Propio
+--- | --- | ---
+Educación | 21,6 | 12,3
+Computación | 18,8 | 24,6
+Ciencias Económicas | 18,2 | 11,8
+Ingeniería | 14,8 | 9,4
+Recursos Naturales | 8,3 | 4,5
+
+d) UTN
+
+Área de conocimiento | Servicio | Propio
+--- | --- | ---
+Ingeniería | 10,2 | 8,5
+Ciencias Económicas | 7,5 | 4,7
+Recursos Naturales | 6,8 | 7,1
+Ciencias Sociales | 4,6 | 3,4
+Computación | 4,6 | 8,5
+Artes y Letras | 2,7 | 5,9
+Educación | 1,5 | 2,6
+
+a/ Los cursos propios solamente los cursan estudiantes de una carrera, mientras que los cursos de servicio son compartidos por varias carreras. Típicamente se llevan en los primeros años: por ejemplo, algunos de matemáticas, que comparten todas las ingenierías, economía, estadística, varias carreras en Ciencias de la Salud y otras de ciencias, así como cursos de inglés.
+
+Fuente: García y Román, 2023.
 
 [[END OF PAGE 74]]
 
@@ -2795,7 +2985,7 @@ El monto de la beca otorgada dependerá de la cantidad de materias matriculadas:
 
 No aplica
 
-¿Con qué dificultades se ha tropezado para hacer efectiva la educación superior?
+- ¿Con qué dificultades se ha tropezado para hacer efectiva la educación superior?
 
  Acceso limitado
 
@@ -2937,7 +3127,9 @@ La población trans es una población históricamente discriminada y en atenció
 
 El cumplimiento implica también la adopción de acciones afirmativas, las cuales tienen como objetivo 'cuestionar y modificar aquellas situaciones fácticas que impiden y obstaculizan que los grupos excluidos e individuos alcancen la igualdad efectiva en el reclamo por sus derechos. La acción afirmativa restablece la igualdad de grupos sociales a los que se ha negado o restringido la posibilidad de acceder y participar en la configuración, validación y reclamos de sus derechos en igualdad de oportunidades. (Durango, 2016).
 
-Otra acción afirmativa importante, a partir del año 2015, consiste en que el MEP designó docentes para atender las necesidades educativas de hijos e hijas de mujeres víctimas de violencia, que se encuentran albergadas en los Centros de atención para mujeres que enfrentan situaciones de violencia y que se encuentran en riesgo de muerte, para garantizar su derecho a la educación. Las docentes destacadas, m ediante la modalidad 'recargo educativo', también desarrollan procesos de alfabetización dirigidos a las mujeres albergadas.
+Otra acción afirmativa importante, a partir del año 2015, consiste en que el MEP designó docentes para atender las necesidades educativas de hijos e hijas de mujeres víctimas de violencia, que se encuentran albergadas en los Centros de atención para mujeres que enfrentan situaciones de violencia y que se encuentran en riesgo de muerte, para garantizar su derecho a la educación.
+
+Las docentes destacadas, mediante la modalidad “recargo educativo”, también desarrollan procesos de alfabetización dirigidos a las mujeres albergadas.
 
 · Ambientes virtuales y a distancia.
 
@@ -2975,7 +3167,7 @@ Para apoyar a la persona que se reincorpora a las modalidades educativas, se con
 
  Escaso número de educadores que han recibido formación profesional
 
-En  relación  con  la  determinación  de  dificultades  para  el  programa  de  Educación  Abierta  MEPTransvida (Dirigido a personas trans ), la Unidad para la Promoción de la Igualdad de Género, solicitó el apoyo al Departamento de Estudios e Investigación Educativa.  Dicho Departamento realizó el estudio 'Funcionamiento  del  Proyecto  de  Educación  Abierta  MEP -Transvida  durante  el  periodo 2019-2023", se determinó que, a pesar de que el proyecto de educación abierta MEP-Transvida del 2019 al 2023, ha permitido asegurar de cierta manera la continuidad del servicio educativo, existen algunos elementos de la gestión administrativa que deben ser mejorados para optimizarlo como, por ejemplo, la infraestructura, el aula, recursos materiales y demás.
+En relación con la determinación de dificultades para el programa de Educación Abierta MEP-Transvida (Dirigido a personas trans), la Unidad para la Promoción de la Igualdad de Género, solicitó el apoyo al Departamento de Estudios e Investigación Educativa. Dicho Departamento realizó el estudio “Funcionamiento del Proyecto de Educación Abierta MEP-Transvida durante el periodo 2019-2023", se determinó que, a pesar de que el proyecto de educación abierta MEP-Transvida del 2019 al 2023, ha permitido asegurar de cierta manera la continuidad del servicio educativo, existen algunos elementos de la gestión administrativa que deben ser mejorados para optimizarlo como, por ejemplo, la infraestructura, el aula, recursos materiales y demás.
 
 La oferta educativa donde está ubicado el proyecto se ajusta a las necesidades de las estudiantes, aun  con  las  características  que  ellas  poseen.  En  este  sentido,  los  aportes  que  ha  generado  el proyecto en la vida de las personas usuarias son considerables, Transvida es un espacio libre de discriminación;  no  solo  han  retomado  su  derecho  al  acceso  a  la  educación  y  desarrollado  de habilidades  que  les  ha  permitido  progresar  como  personas,  sino  que  además  es  necesario  para eliminar  las  brechas  sociales  y  conseguir  una  vida  con  mejores  condiciones  a  las  que  tienen actualmente.
 
@@ -3041,15 +3233,17 @@ Detección de necesidad del servicio educativo, censo de población para determi
 
 Puede incluir información sobre políticas, protocolos o códigos de conducta.
 
-El  Ministerio  de  Educación  Pública  en  concordancia  con  lo  estipulado  en  el  artículo  78  de  la Constitución Política, las necesidades detectadas en las comunidades del país y en observancia de los lineamientos emitidos sobre control interno, ha definido el presente documento en el cual se integran los procedimientos definidos para apertura y cambio de modalidad y cierre de centros educativos en los diferentes niveles en que se estructura el Sistema Educativo Costarricense. Según esta premisa, el Departamento de Desarrollo de Servicios Educativos de la Dirección de Planificación Institucional  establece  un  manual  que  proporciona  los  procedimientos  que  sustentan  las  bases administrativas y técnicas necesarias para la dotación de servicios educativos en todos los niveles y modalidades del sistema.
+El Ministerio de Educación Pública en concordancia con lo estipulado en el artículo 78 de la Constitución Política, las necesidades detectadas en las comunidades del país y en observancia de
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
 
+los lineamientos emitidos sobre control interno, ha definido el presente documento en el cual se integran los procedimientos definidos para apertura y cambio de modalidad y cierre de centros educativos en los diferentes niveles en que se estructura el Sistema Educativo Costarricense. Según esta premisa, el Departamento de Desarrollo de Servicios Educativos de la Dirección de Planificación Institucional establece un manual que proporciona los procedimientos que sustentan las bases administrativas y técnicas necesarias para la dotación de servicios educativos en todos los niveles y modalidades del sistema.
+
 Manual de Procedimientos de Apertura, Reapertura, Cambios de Modalidad y Cierre de Centros Educativos: PRESENTACION (mep.go.cr)
 
-¿Con qué dificultades se ha tropezado para hacer efectiva una educación de calidad?
+- ¿Con qué dificultades se ha tropezado para hacer efectiva una educación de calidad?
 
  Entornos  de  aprendizaje  poco  estimulantes  o inadecuados
 
@@ -3097,13 +3291,13 @@ A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recom
 
 [[START OF PAGE 84]]
 
-- Proporcione detalles sobre cada una de las medidas adoptadas.
-
- Se  han  adoptado  medidas  para  aumentar  el  número  de  mujeres  en  puestos  directivos  en  la educación
+ Se han adoptado medidas para aumentar el número de mujeres en puestos directivos en la educación
 
  Otro:
 
 No aplica
+
+- Proporcione detalles sobre cada una de las medidas adoptadas.
 
 #### Formación docente se imparte sin discriminación:
 
@@ -3119,24 +3313,26 @@ Para dar un referente acerca de la consigna expuesta se extrajo la planilla con 
 
 Docente | Clases de puesto | Cantidad | Salario Total
 --- | --- | --- | ---
-Profesor de Enseñanza General Básica 1 (I y II ciclos) ( G. de E.) | 15588 | ₡ 1.122.948,72
-Profesor de Enseñanza Media (G. de E.) | 21547 | ₡ 961.193,00
-Profesor de Enseñanza Técnico Profesional (III y IV Ciclos, Enseñanza Especial y Escuela Laboratorio) (G. de E.) | 13471 | ₡ 894.149,99
-₡ 992.763,90
+ | Profesor de Enseñanza General Básica 1 (I y II ciclos) ( G. de E.) | 15588 | ₡ 1.122.948,72
+ | Profesor de Enseñanza Media (G. de E.) | 21547 | ₡ 961.193,00
+ | Profesor de Enseñanza Técnico Profesional (III y IV Ciclos, Enseñanza Especial y Escuela Laboratorio) (G. de E.) | 13471 | ₡ 894.149,99
+ |  |  | ₡ 992.763,90
 
 Fuente: Dirección de Gestión del Talento Humano, MEP (julio 2024)
 
-Se tomó, además, como referencia las calidades profesionales, con las clases de puesto de profesional 1-B y 2, siendo que el promedio salarial de estas es de 1,263,286.13, se puede observar que, a pesar de que  los  docentes  poseen  un  salario  promedio  menor  al  de  los  profesionales,  es  relativamente competitivo.
+Se tomó, además, como referencia las calidades profesionales, con las clases de puesto de profesional 1-B y 2, siendo que el promedio salarial de estas es de 1,263,286.13, se puede observar que, a pesar de
 
 [[END OF PAGE 84]]
 
 [[START OF PAGE 85]]
 
+que los docentes poseen un salario promedio menor al de los profesionales, es relativamente competitivo.
+
 Profesional | Clases de puesto | Cantidad | Salario Total
 --- | --- | --- | ---
-Profesional de Servicio Civil 1 B (G. de E.) | 1231 | ₡ 1.169.943.65
-Profesional de Servicio Civil 2 (G. de E.) | 526 | ₡ 1.356.628.13
-₡ 1.263.286.13
+ | Profesional de Servicio Civil 1 B (G. de E.) | 1231 | ₡ 1.169.943.65
+ | Profesional de Servicio Civil 2 (G. de E.) | 526 | ₡ 1.356.628.13
+ |  |  | ₡ 1.263.286.13
 
 Fuente: Dirección de Gestión del Talento Humano, MEP (julio, 2024)
 
@@ -3188,7 +3384,7 @@ Dirección de Gestión del Talento Humano-MEP (julio 2024)
 
 #### Se han establecido sistemas de supervisión del desempeño
 
-El Ministerio de Planificación Nacional y Política Económica (MIDEPLAN) emitió en noviembre de 2023 la Directriz N° 029-PLAN'Lineamientos Metodológicos Generales para la Evaluación del Desempeño de las personas servidoras públicas, cubiertas por la rectoría del Ministerio de Planificación Nacional y Política Económica, en materia de empleo público'. Actualmente, el MEP trabaja en diseñar las acciones que permitan acatar operativamente la implementación de este nuevo modelo de evaluación. Directriz disponible en este enlace
+El Ministerio de Planificación Nacional y Política Económica (MIDEPLAN) emitió en noviembre de 2023 la Directriz N° 029-PLAN- “Lineamientos Metodológicos Generales para la Evaluación del Desempeño de las personas servidoras públicas, cubiertas por la rectoría del Ministerio de Planificación Nacional y Política Económica, en materia de empleo público”. Actualmente, el MEP trabaja en diseñar las acciones que permitan acatar operativamente la implementación de este nuevo modelo de evaluación. Directriz disponible en este enlace
 
 Existen instrumentos para el acompañamiento por parte de los supervisores a los centros educativos como lo es el Manual de Supervisión de Centros Educativos disponible en este enlace.
 
@@ -3210,7 +3406,7 @@ Total general | 2.236 | 100,00%
 
 Fuente: Dirección de Gestión del Talento Humano, MEP (julio, 2024).
 
-¿Con qué dificultades ha tropezado el personal docente?
+- ¿Con qué dificultades ha tropezado el personal docente?
 
  Escasez de personal docente
 
@@ -3280,7 +3476,7 @@ Además, se desarrollan sesiones de trabajo grupal en los que se aborda el tema 
 
 191personas funcionarias participaron en los procesos realizados en el año 2023, cantidad que se espera triplicar para el 2024.
 
-> 46 En la que se insta a los Estados a 'asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesario s para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida  sostenibles,  los  derechos  humanos,  la  igualdad  de  género,  la  promoción  de  una  cultura  de  paz  y  no  violencia,  la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible'.
+> 46 En la que se insta a los Estados a “asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible”.
 
 [[END OF PAGE 88]]
 
@@ -3294,7 +3490,7 @@ A fines de referencia, en los artículos/párrafos 2.c y 5.1.b de la Convención
 
  Las  disposiciones  jurídicas  que  prohíben  la  discriminación  por  los  motivos  mencionados  en  la Convención  y  la  Recomendación 48 se  aplican  explícitamente  a  las  instituciones  educativas  no estatales. Especifique.
 
-En el Decreto Ejecutivo N° 24017MEP 'Reglamento sobre Centros Docentes Privados' publicado en La Gaceta  N° 41 del 27 de febrero de 1995; establece en materia de discriminación en su artículo 4:
+En el Decreto Ejecutivo N° 24017-MEP “Reglamento sobre Centros Docentes Privados” publicado en La Gaceta N° 41 del 27 de febrero de 1995; establece en materia de discriminación en su artículo 4:
 
 La educación que se ofrezca en los centros docentes privados será necesariamente democrática en su esencia y en su orientación general, se regirá por los principios, fines y objetivos establecidos para la Educación Costarricense en la Ley Fundamental de Educación, N° 2160 de 25 de setiembre de 1957 y en el Derecho Internacional vigente en el país.
 
@@ -3324,23 +3520,23 @@ Artículo  N°  81 ' La  dirección  oficial  de  la  enseñanza  oficial  corre
 
 Consecuentemente la Ley Fundamental de Educación Indica:
 
-A RTICULO 9º.- El Consejo Superior de Educación autorizará los planes de estudio y los programas de enseñanza para los diversos niveles y tipos de educación. Esos planes y programas serán flexibles y variarán conforme lo indiquen las condiciones y necesidades del país y el progreso de las ciencias de la educación y serán revisados periódicamente por el propio Consejo. Deberán concebirse y realizarse tomando en consideración:
+ARTICULO 9º.- El Consejo Superior de Educación autorizará los planes de estudio y los programas de enseñanza para los diversos niveles y tipos de educación. Esos planes y programas serán flexibles y variarán conforme lo indiquen las condiciones y necesidades del país y el progreso de las ciencias de la educación y serán revisados periódicamente por el propio Consejo. Deberán concebirse y realizarse tomando en consideración:
 
-- Las  correlaciones  necesarias  para  asegurar  la  unidad  y  continuidad  del  proceso  de  la enseñanza; y
+ a) Las correlaciones necesarias para asegurar la unidad y continuidad del proceso de la enseñanza; y
 
-- Las necesidades e intereses psicobiológicos y sociales de los alumnos en una sociedad caracterizada  por  ser  multiétnica  y  pluricultural,  hacia  la  búsqueda  de  relaciones  de interculturalidad.
+ b) Las necesidades e intereses psicobiológicos y sociales de los alumnos en una sociedad caracterizada por ser multiétnica y pluricultural, hacia la búsqueda de relaciones de interculturalidad.
 
 Para ello, se establecerán acciones y programas nacionales aplicables a todos los involucrados en el proceso educativo, independientemente de que la institución donde se brinde el servicio educativo sea de origen público o privado.
 
-En el Decreto Ejecutivo N° 24017MEP 'Reglamento sobre Centros Docentes Privados' publicado en La Gaceta  N° 41 del 27 de febrero de 1995; establece en su artículo d) y e) la obligación del centro educativo privado de aportar el plan de estudios de la oferta educativa y los planes correspondientes a  cada  una  de  las  asignaturas    para  los  diversos  grados,  precisamente  para  efectuar  el  estudio correspondiente que permita determinar si efectivamente los mismos cumplen  con los requisitos mínimos    establecidos  por  el  Consejo  Superior  de  Educación  y  en  consecuencia  puedan  ser equiparadas  con las del sistema educativo público. Las instituciones educativas privadas puedan enriquecer  las  ofertas  educativas  y  los  planes  de  estudio,  pero  siempre  habrá  un  mínimo  de requisitos que se deben cumplir obligatoriamente.
+En el Decreto Ejecutivo N° 24017-MEP “Reglamento sobre Centros Docentes Privados” publicado en La Gaceta N° 41 del 27 de febrero de 1995; establece en su artículo d) y e) la obligación del centro educativo privado de aportar el plan de estudios de la oferta educativa y los planes correspondientes a cada una de las asignaturas para los diversos grados, precisamente para efectuar el estudio correspondiente que permita determinar si efectivamente los mismos cumplen con los requisitos mínimos establecidos por el Consejo Superior de Educación y en consecuencia puedan ser equiparadas con las del sistema educativo público. Las instituciones educativas privadas puedan enriquecer las ofertas educativas y los planes de estudio, pero siempre habrá un mínimo de requisitos que se deben cumplir obligatoriamente.
 
  Las disposiciones jurídicas garantizan los derechos de los padres/tutores legales a dar educación religiosa y moral a sus hijos. Especifique.
 
-Constitución Política: ARTÍCULO 75.La Religión Católica, Apostólica, Romana, es la del Estado, el cual contribuye a su mantenimiento, sin impedir el libre ejercicio en la República de otros cultos que no se opongan a la moral universal ni a las buenas costumbres.
+Constitución Política: ARTÍCULO 75.- La Religión Católica, Apostólica, Romana, es la del Estado, el cual contribuye a su mantenimiento, sin impedir el libre ejercicio en la República de otros cultos que no se opongan a la moral universal ni a las buenas costumbres.
 
-Código  de  Familia: Artículo  143.Autoridad  parental  y  representación.  Derechos  y  deberes.  La autoridad parental confiere los derechos e impone los deberes de orientar, educar, cuidar, vigilar y disciplinar  a  los  hijos  y  las  hijas;  esto  no  autoriza,  en  ningún  caso,  el  uso  del  castigo  corporal  ni ninguna otra forma de trato humillante contra las personas menores de edad...
+Código de Familia: Artículo 143.- Autoridad parental y representación. Derechos y deberes. La autoridad parental confiere los derechos e impone los deberes de orientar, educar, cuidar, vigilar y disciplinar a los hijos y las hijas; esto no autoriza, en ningún caso, el uso del castigo corporal ni ninguna otra forma de trato humillante contra las personas menores de edad...
 
-Código de la Niñez y la Adolescencia: Artículo 14°Derecho a la libertad. Las personas menores de edad tendrán derecho a la libertad. Este derecho comprende la posibilidad de: a) Tener sus propias ideas, creencias y culto religioso y ejercerlo bajo la orientación de sus padres o encargados, según la evolución  de  sus  facultades  y  con  las  limitaciones  y  garantías  consagradas  por  el  ordenamiento jurídico...
+Código de la Niñez y la Adolescencia: Artículo 14°- Derecho a la libertad. Las personas menores de edad tendrán derecho a la libertad. Este derecho comprende la posibilidad de: a) Tener sus propias ideas, creencias y culto religioso y ejercerlo bajo la orientación de sus padres o encargados, según la evolución de sus facultades y con las limitaciones y garantías consagradas por el ordenamiento jurídico...
 
 [[END OF PAGE 90]]
 
@@ -3380,7 +3576,7 @@ Las  cualificaciones  del  personal  docente  que  labora  en  los  centros  edu
 
 - Explique.
 
-El marco normativo que ampara el accionar de la Dirección de Educación Privada (DEP), se basa en el  Decreto  N°  38170MEP  ' Organización  Administrativa  de  Oficinas  Centrales  del  Ministerio  de Educación Pública ' en los artículos 117 al 121 en donde establece que la DEP es el órgano técnico y administrativo responsable de la acreditación, supervisión, fiscalización, inspección y control de los centros  educativos  privados,  desde  la  Educación  Preescolar  hasta  la  Enseñanza  Diversificada  en todas sus modalidades y los Centro s de Atención Integral para Personas Adultas con Discapacidad'
+El marco normativo que ampara el accionar de la Dirección de Educación Privada (DEP), se basa en el Decreto N° 38170-MEP “Organización Administrativa de Oficinas Centrales del Ministerio de Educación Pública” en los artículos 117 al 121 en donde establece que la DEP es el órgano técnico y administrativo responsable de la acreditación, supervisión, fiscalización, inspección y control de los centros educativos privados, desde la Educación Preescolar hasta la Enseñanza Diversificada en todas sus modalidades y los Centros de Atención Integral para Personas Adultas con Discapacidad”
 
 [[END OF PAGE 91]]
 
@@ -3388,7 +3584,7 @@ El marco normativo que ampara el accionar de la Dirección de Educación Privada
 
 (CAIPAD),  dentro  de  los  límites  que  establece  la  Constitución  Política  y  el  bloque  de  legalidad aplicable, según corresponda.
 
-Por su parte en el Decreto N° 24017MEP Reglamento sobre Centros Docentes Privados' publicado en La Gaceta  N° 41 del 27 de febrero de 1995 tiene por objeto: Establecer los procedimientos en cuya virtud se oficializan, equiparan, certifican y acreditan los estudios realizados en los centros docentes privados
+Por su parte en el Decreto N° 24017-MEP Reglamento sobre Centros Docentes Privados” publicado en La Gaceta N° 41 del 27 de febrero de 1995 tiene por objeto: Establecer los procedimientos en cuya virtud se oficializan, equiparan, certifican y acreditan los estudios realizados en los centros docentes privados
 
 - ¿Con qué dificultades se ha tropezado en la impartición de educación no estatal?
 
@@ -3464,15 +3660,7 @@ Programa  Nacional  de  Formación  Tecnológica  (PNFT)  ( Programa  Nacional  
 
 [[START OF PAGE 94]]
 
-a
-
-los
-
-objetivos
-
-estratégicos
-
-regionales
+a los objetivos estratégicos regionales
 
 - Proporcione detalles sobre cada una de las medidas adoptadas.
 
@@ -3526,7 +3714,7 @@ En los diferentes instrumentos de planificación del Ministerio de Educación P�
 
 Tal como lo establece el ente rector, de manera trimestral se realiza el seguimiento del avance de las metas contempladas en el Plan Nacional de Desarrollo e Inversión Pública (PNDIP) 2023-2026, cuyos datos se registran en el sistema DELPHOS.Net del MIDEPLAN. Así mismo, de manera semestral se realiza el seguimiento del Plan Operativo Institucional (POI), que también contiene algunos indicadores vinculados al mismo Objetivo de Desarrollo Sostenible (ODS) y sus datos de avance son reportados ante el Ministerio de Hacienda.
 
-En el mes de marzo 2024, se remitió al MIDEPLAN, la matriz de 'Recopilación de información de ODS 20202023, MEP' que incluyó información de desafíos pendientes y compromisos futuros con respecto a las acciones de implementación de los ODS para ese periodo, como insumo para la conformación del III Informe Nacional voluntario de ODS.
+En el mes de marzo 2024, se remitió al MIDEPLAN, la matriz de “Recopilación de información de ODS 2020-2023, MEP” que incluyó información de desafíos pendientes y compromisos futuros con respecto a las acciones de implementación de los ODS para ese periodo, como insumo para la conformación del III Informe Nacional voluntario de ODS.
 
  Los resultados del seguimiento se hacen públicos. Indique el enlace.
 
@@ -3598,7 +3786,7 @@ La crisis fiscal que enfrenta el país en los últimos años mermó el crecimien
 
 - Explique. Se pueden añadir breves datos cuantitativos.
 
-En el cuadro siguiente se muestra el comportamiento del presupuesto MEP en los últimos años (20222024). Asimismo, se detalla la relación MEP como porcentaje del PIB, en la misma se establece que a partir del año 2022, dicha participación ha venido disminuyendo.
+En el cuadro siguiente se muestra el comportamiento del presupuesto MEP en los últimos años (2022-2024). Asimismo, se detalla la relación MEP como porcentaje del PIB, en la misma se establece que a partir del año 2022, dicha participación ha venido disminuyendo.
 
 Presupuesto, Producto Interno Bruto y presupuesto MEP como % del PIB
 
@@ -3614,7 +3802,7 @@ Año | Presupuesto MEP | Producto Interno Bruto | % MEP/PIB
 
 A fines de referencia, los órganos rectores de la UNESCO han subrayado la necesidad de llevar a cabo una labor de sensibilización. Dada la importancia de la acción normativa en el plano nacional, es preciso velar por que la Convención se difunda ampliamente, con el apoyo de las comisiones nacionales para la UNESCO.
 
-¿Se  han  llevado  a  cabo  actividades  para  familiarizar  a  las  distintas  autoridades  del  país  con  la Convención y la Recomendación y con sus disposiciones sobre el derecho a la educación, así como para sensibilizarlas a los principios de no discriminación e igualdad de oportunidades educativas? (marque todos los puntos que correspondan).
+- ¿Se han llevado a cabo actividades para familiarizar a las distintas autoridades del país con la Convención y la Recomendación y con sus disposiciones sobre el derecho a la educación, así como para sensibilizarlas a los principios de no discriminación e igualdad de oportunidades educativas? (marque todos los puntos que correspondan).
 
  Traducción de la Convención o la Recomendación a los idiomas nacionales y posiblemente a los idiomas locales
 
