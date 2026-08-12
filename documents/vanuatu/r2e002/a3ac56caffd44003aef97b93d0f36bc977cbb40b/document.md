@@ -20,11 +20,11 @@ Education Master Plan
 
 ## I.  GOALS FOR EDUCATION IN VANUATU
 
-- This document sets forth the broad strategy for the development of our education system over the next ten to fifteen years and well beyond that.  Background information and detailed strategies may be found in the annexes and in shorter strategy documents which will be developed over time, usually with technical assistance and as part of project preparation.  It must be recognized that planning is a process , not an event:  we intend to continue this planning process over time, as new data and information become available, and in order to meet the changing requirements of our developing economy and society.
+1. This document sets forth the broad strategy for the development of our education system over the next ten to fifteen years and well beyond that. Background information and detailed strategies may be found in the annexes and in shorter strategy documents which will be developed over time, usually with technical assistance and as part of project preparation. It must be recognized that planning is a process, not an event: we intend to continue this planning process over time, as new data and information become available, and in order to meet the changing requirements of our developing economy and society.
 
-- This Education Master Plan has been prepared within the mandate of the Comprehensive Reform Program (CRP). The CRP, endorsed at a National Summit held in June 1997, envisages a redirection of resources 'to the delivery of social services especially education, which is the key to personal, social, political, and economic development.'  Education is seen as playing a critical role in the whole reform process, contributing directly to economic growth by providing a more literate and better skilled labor force and being 'the single most important tool for building an equitable society.'
+2. This Education Master Plan has been prepared within the mandate of the Comprehensive Reform Program (CRP). The CRP, endorsed at a National Summit held in June 1997, envisages a redirection of resources “to the delivery of social services especially education, which is the key to personal, social, political, and economic development.” Education is seen as playing a critical role in the whole reform process, contributing directly to economic growth by providing a more literate and better skilled labor force and being “the single most important tool for building an equitable society.”
 
-- Our goals for the education system in Vanuatu include the following:
+3. Our goals for the education system in Vanuatu include the following:
 
 ### Access
 
@@ -154,7 +154,7 @@ Education Master Plan
 
 2000 - 2010
 
-7. A number of projections have been done, under varying assumptions about pass rates, repetition rates, drop-out rates, and enrollment rates.  The projections demonstrate that Vanuatu will be unable to afford ten years of basic education for all, even if there are no improvements in education quality (as reflected in higher unit costs).  They demonstrate further that eight years of basic education for all will be possible only if certain cost-savings measures are introduced and if the expansion of the system beyond basic education (i.e., Grade 9 and above) is severely restricted.  In particular, as a costsaving measure (but also for other reasons), we propose to offer Grades 1 and 2 at the community level using teachers chosen from the community who will not be paid as much as qualified primary-school teachers.
+7. A number of projections have been done, under varying assumptions about pass rates, repetition rates, drop-out rates, and enrollment rates.  The projections demonstrate that Vanuatu will be unable to afford ten years of basic education for all, even if there are no improvements in education quality (as reflected in higher unit costs).  They demonstrate further that eight years of basic education for all will be possible only if certain cost-savings measures are introduced and if the expansion of the system beyond basic education (i.e., Grade 9 and above) is severely restricted.  In particular, as a cost-saving measure (but also for other reasons), we propose to offer Grades 1 and 2 at the community level using teachers chosen from the community who will not be paid as much as qualified primary-school teachers.
 
 ### 8. Rationalization of Primary Education.
 The Ministry of Education has recently completed an up-to-date inventory of all schools in the country. On the basis of the new school map, and with a view to achieving cost savings and efficiency gains, we intend to undertake, on a community-by-community basis, a study of the feasibility of merging small primary schools where these are to be found relatively close together. We will negotiate with the various church bodies, with a view to urge the desirability of merging small primary schools, and the community will be closely involved in the discussion. This will be a difficult process, both in terms of religion and in terms of language, yet the exercise must be done if Vanuatu expects to have adequate resources to undertake and sustain all the other initiatives envisaged in this Education Master Plan.
@@ -168,7 +168,7 @@ There is inefficiency and duplication of effort in the current situation in whic
 Since Independence, we have striven to provide basic education of six years to all our children, and access at that level is now virtually universal.  We would now like to expand the basic education cycle to eight years.  The National Education Commission has determined that an eight-year cycle of basic education is a reasonable goal for Vanuatu at this point in its development.
 
 ### 11. Initial Education.
-We intend to introduce vernacular-language education in the early years of the basic-education cycle.  This proposal is discussed at length in Annex 2. We intend, over a period of ten years or more, to establish community-built and maintained schools in virtually every village and hamlet, based on Vanuatu's hundreds of existing kindergartens wherever possible, in which a preparatory year and Grades 1 and 2 will be offered in the local vernacular language.  Children will hear either English or French in the classroom from the beginning, but will be taught in a vernacular language chosen by the school committee, in cooperation with the parents.  In urban areas, the parents may choose Bislama, since almost all urban children are fluent in Bislama by school age, and it is the language they commonly use to interact with one another. Children will start studying English or French in the second half of Grade 2; instruction in Grade 3 and thereafter will continue to be in English or French.
+We intend to introduce vernacular-language education in the early years of the basic-education cycle.  This proposal is discussed at length in Annex 2. We intend, over a period of ten years or more, to establish community-built and -maintained schools in virtually every village and hamlet, based on Vanuatu's hundreds of existing kindergartens wherever possible, in which a preparatory year and Grades 1 and 2 will be offered in the local vernacular language.  Children will hear either English or French in the classroom from the beginning, but will be taught in a vernacular language chosen by the school committee, in cooperation with the parents.  In urban areas, the parents may choose Bislama, since almost all urban children are fluent in Bislama by school age, and it is the language they commonly use to interact with one another. Children will start studying English or French in the second half of Grade 2; instruction in Grade 3 and thereafter will continue to be in English or French.
 
 6
 
@@ -189,7 +189,7 @@ Education Master Plan
 14. Teachers will draw upon community knowledge for the content of their courses, based on the nationally established curriculum, and will undergo short-term training (in ten to twelve modules, over two years) in pedagogy.  A salary scale providing for lower salaries than for primary teachers will be developed.
 
 ### 15. Later Basic Education.
-If Grades 1 and 2 are progressively offered in villageand hamlet-based community schools, then the classrooms in existing primary schools used heretofore for these two Grades will become vacant and can, with suitable modifications, be used for Grades 7 and 8.  Similarly, teachers in existing primary schools will no longer need to teach Grades 1 and 2, such that through teacher redeployment and upgrading within the school, the existing teaching staff can, with appropriate in-service training, be used to teach Grades 3-8.  It will be necessary to provide each school with science and technology equipment for Grades 7 and 8 as well as a multi-purpose facility with a bush kitchen and an area for science and technology activities.  Children completing Grade 6 in areas where the vernacular-language schools have been introduced will be able to continue on to Grades 7 and 8 in the same school, without having to undergo the present Grade 6 selection examination.  Although some children live an hour or two from the nearest primary school (most of which in rural areas at present serve several villages), they will now not need to walk to it until Grade 3 (at roughly age 9 or 10).  Primary schools offering Grades 3 through 8 will continue to be built and maintained by communities with the help of the government (teachers' salaries and teaching materials) and, in some cases, the churches or other nongovernmental organizations.  This proposal has support among parents, who see two great advantages:  (i) under the new proposal, their children will be guaranteed a place in Grades 7 and 8 and (ii) their children aged 12 and 13 can stay at home and attend Grades 7 and 8 nearby, without the parents' having to send the children away to boarding school (with the related high transportation costs and boarding fees).
+If Grades 1 and 2 are progressively offered in village- and hamlet-based community schools, then the classrooms in existing primary schools used heretofore for these two Grades will become vacant and can, with suitable modifications, be used for Grades 7 and 8.  Similarly, teachers in existing primary schools will no longer need to teach Grades 1 and 2, such that through teacher redeployment and upgrading within the school, the existing teaching staff can, with appropriate in-service training, be used to teach Grades 3-8.  It will be necessary to provide each school with science and technology equipment for Grades 7 and 8 as well as a multi-purpose facility with a bush kitchen and an area for science and technology activities.  Children completing Grade 6 in areas where the vernacular-language schools have been introduced will be able to continue on to Grades 7 and 8 in the same school, without having to undergo the present Grade 6 selection examination.  Although some children live an hour or two from the nearest primary school (most of which in rural areas at present serve several villages), they will now not need to walk to it until Grade 3 (at roughly age 9 or 10).  Primary schools offering Grades 3 through 8 will continue to be built and maintained by communities with the help of the government (teachers' salaries and teaching materials) and, in some cases, the churches or other non-governmental organizations.  This proposal has support among parents, who see two great advantages:  (i) under the new proposal, their children will be guaranteed a place in Grades 7 and 8 and (ii) their children aged 12 and 13 can stay at home and attend Grades 7 and 8 nearby, without the parents' having to send the children away to boarding school (with the related high transportation costs and boarding fees).
 
 7
 
@@ -231,7 +231,7 @@ Education Master Plan
 Beginning with the proposal to introduce literacy education in vernacular languages, all of the above proposals should result in improved learning results.  In addition, a number of quality inputs discussed below, including efforts to improve the learning of the second international language, should result in a higher percentage of young people able to obtain acceptance at institutions of higher education and pursue university courses successfully.  In particular, if the teaching of the second international language is improved dramatically, students will be able to seek admission to both Anglophone and Francophone universities.  Thus young people who have been taught in the Francophone system but who have also mastered English can seek admittance to the University of the South Pacific and other Anglophone universities. Other proposals to expand opportunities for higher education will be considered on their merits.
 
 ### 21. Distance Education (Annex 4).
-Until now, distance education in Vanuatu has been provided mainly through the University of the South Pacific for students seeking to qualify for USP Foundation  (pre-tertiary) Programs and for some of the tertiary programs of that institution.  The recent establishment of a branch of the Association of Universities Teaching Entirely or Partially in French and the Group of Universities Expressing Themselves in French (AUPELF/UREF) promises similar access to Frenchmedium higher education.  We propose, when funding becomes available, to establish a distance-education system throughout the country which will offer a second chance for secondary education, particularly for those young people pushed out of formal education after Grade 6 (under the old system) or Grade 8 (under the new system).  We intend to explore whether the successful junior-secondary Distance Education Program of Papua New Guinea (Grades 7-10, and to be expanded to include Grades 11-12) offers a model for possible adoption in Vanuatu.  Over time, all courses currently offered in the classroom in secondary education will also be offered by correspondence, supplemented by radio and other media as resources permit.
+Until now, distance education in Vanuatu has been provided mainly through the University of the South Pacific for students seeking to qualify for USP Foundation  (pre-tertiary) Programs and for some of the tertiary programs of that institution.  The recent establishment of a branch of the Association of Universities Teaching Entirely or Partially in French and the Group of Universities Expressing Themselves in French (AUPELF/UREF) promises similar access to French-medium higher education.  We propose, when funding becomes available, to establish a distance-education system throughout the country which will offer a second chance for secondary education, particularly for those young people pushed out of formal education after Grade 6 (under the old system) or Grade 8 (under the new system).  We intend to explore whether the successful junior-secondary Distance Education Program of Papua New Guinea (Grades 7-10, and to be expanded to include Grades 11-12) offers a model for possible adoption in Vanuatu.  Over time, all courses currently offered in the classroom in secondary education will also be offered by correspondence, supplemented by radio and other media as resources permit.
 
 9
 
@@ -266,7 +266,7 @@ Education Master Plan
 2000 - 2010
 
 ### 24. Curriculum.
-There is general recognition that the present curriculum for both primary and junior secondary education, as reflected in the new textbooks which have recently arrived in the schools, is far more relevant to Vanuatu's needs and reality than anything available in the past.  Since the books have only recently arrived and are only beginning to be used, they are not yet well known by the public, in general, and by parents, in particular; the perception that 'education is largely irrelevant to life' may therefore change rapidly, once the new curricular materials are in wider use, and once they have been supplied in all subjects at all grades in adequate numbers.  The completion of the present unified primary curriculum materials is the single most important task in the short term.  New subjects which need to be developed for Grades 16  include physical education (play, games, fitness) and arts (drawing, dance, singing, drama).  An increase in the number of hours of teaching of language and mathematics is needed in Grades 7 and 8.
+There is general recognition that the present curriculum for both primary and junior secondary education, as reflected in the new textbooks which have recently arrived in the schools, is far more relevant to Vanuatu's needs and reality than anything available in the past.  Since the books have only recently arrived and are only beginning to be used, they are not yet well known by the public, in general, and by parents, in particular; the perception that 'education is largely irrelevant to life' may therefore change rapidly, once the new curricular materials are in wider use, and once they have been supplied in all subjects at all grades in adequate numbers.  The completion of the present unified primary curriculum materials is the single most important task in the short term.  New subjects which need to be developed for Grades 1-6 include physical education (play, games, fitness) and arts (drawing, dance, singing, drama).  An increase in the number of hours of teaching of language and mathematics is needed in Grades 7 and 8.
 
 25. In addition, some changes will be needed in both primary and secondary curricula and materials, to adapt them as necessary for use in the proposed new system. The curricula for the Preparatory Year and Grades 1 and 2 will have as their basis the existing pre-school and Grades 1 and 2 materials and will be developed by the Curriculum Development Center with the help of technical assistance from NGOs and constant consultation with the Vanuatu Teachers College and the language community in question, using written materials in the local language, wherever available.  Materials for Grade 2 will also need to be developed for the transition to English or French.  Since Grade 8 will be the final year of education for most children, only one international language (English or French), the one used previously in Grades 3-6, will be taught in Grades 7 and 8, so that upon termination of Grade 8, each student should have mastered one or the other of the international languages. Changes will also be needed to basic technology (manual arts and home economics) to give a local emphasis and use only local materials.  Other subjects (social science, agriculture, and religious education) will remain the same.  In Grades 9-12, it will be possible to blend the existing syllabus and materials for Grades 9-10 and for Grades 11-12 to make a four-year secondary-school curriculum.  The main change would be:  (i) the need for materials for the introduction of the second European language in Grade 9 and (ii) the development of a new technology subject to replace manual arts and home economics (para. 28).  Note that the existing system will continue in place for many years in those communities in which the reform has not yet been introduced, such that the existing curriculum materials can be used without modification.
 
@@ -305,7 +305,7 @@ Education Master Plan
 ## V.  QUALITY
 
 ### 29. Pre-Service Teacher Training for the Preparatory Year and Grades 1 and 2 (Annex 7).
-The provision of more and better qualified teachers is a crucial input to a higher-quality education system. We intend to entrust the training of teachers for the preparatory year largely to the Vanuatu Preschool Association, with inputs from the Ministry of Education, the Vanuatu Teachers College, and other NGOs.  Teachers chosen by the community have an enormous advantage over most qualified primaryschool teachers which at present teach at this level in that they will be known to the community and able to speak to the children and their parents in their native language. High-quality training is nevertheless essential to ensure that these teachers will provide a high-quality education to the children at this crucial stage in their lives.
+The provision of more and better qualified teachers is a crucial input to a higher-quality education system. We intend to entrust the training of teachers for the preparatory year largely to the Vanuatu Preschool Association, with inputs from the Ministry of Education, the Vanuatu Teachers College, and other NGOs.  Teachers chosen by the community have an enormous advantage over most qualified primary-school teachers which at present teach at this level in that they will be known to the community and able to speak to the children and their parents in their native language. High-quality training is nevertheless essential to ensure that these teachers will provide a high-quality education to the children at this crucial stage in their lives.
 
 ### 30. In-Service Teacher Education (Annex 7).
 The new structure proposed above in the section on Access will require substantial retraining of teachers to ensure that teaching standards are not compromised.  Primary teachers formerly teaching up to Grade 6 (especially those now teaching in Grades 5 and 6) will require retraining to teach in Grades 7-8.  Similarly, teachers formerly teaching Grades 7-10 (especially those now teaching in Grades 9 and 10) will require retraining to teach Grades 9-12.  The exact scope and nature of the training will be determined by the Vanuatu Teachers College and the Curriculum Development Center with the help of technical assistance.
@@ -374,7 +374,7 @@ Education Master Plan
 2000 - 2010
 
 ### 40. School Infrastructure (Annex 11).
-Infrastructure can make a substantial difference in educational quality.  Most rural kindergartens could benefit from better facilities, and there will also be a need for new vernacular-language community schools in many small villages.  Both these needs can be best met by providing guidelines so that communities can build improved traditional buildings that will offer larger, betterventilated and -lit playrooms and classrooms. The main infrastructure-related problems affecting existing primary schools are the lack of facilities in some and the waste of resources in others due to excess numbers of classrooms, small class sizes and the unplanned development of schools.  The immediate priority for the Ministry of Education should be to prepare plans for the amalgamation of primary schools and the transformation of schools offering Grades 1-6 to schools offering Grades 3-8.  The Ministry of Education will set standards for the location, design, and construction of new classrooms and schools by churches and community groups.  The recently completed school-mapping exercise should provide information on what facilities are needed at existing junior-secondary schools.
+Infrastructure can make a substantial difference in educational quality.  Most rural kindergartens could benefit from better facilities, and there will also be a need for new vernacular-language community schools in many small villages.  Both these needs can be best met by providing guidelines so that communities can build improved traditional buildings that will offer larger, better-ventilated and -lit playrooms and classrooms. The main infrastructure-related problems affecting existing primary schools are the lack of facilities in some and the waste of resources in others due to excess numbers of classrooms, small class sizes and the unplanned development of schools.  The immediate priority for the Ministry of Education should be to prepare plans for the amalgamation of primary schools and the transformation of schools offering Grades 1-6 to schools offering Grades 3-8.  The Ministry of Education will set standards for the location, design, and construction of new classrooms and schools by churches and community groups.  The recently completed school-mapping exercise should provide information on what facilities are needed at existing junior-secondary schools.
 
 41. Lack of good teachers' housing is seen as a major deterrent to the recruitment of teachers in the rural areas.  The majority of existing houses are inappropriate in their design and expensive to build and maintain.  Teachers' housing will not be required for vernacular-language schools but will be needed for provincial secondary schools and possibly for some primary schools.  The school-mapping exercise will help establish where housing is required, and the Ministry of Education will establish appropriate standards for rural housing.
 
@@ -457,7 +457,7 @@ There is also virtually unanimous support among ni-Vanuatu for continuing to use
 Communities are already responsible, in most cases, for building and maintaining schools at the primary level.  The proposal to introduce vernacular-language education will continue to rely on the communities to build and maintain facilities for this level of education.
 
 ### 55. Partnerships with Non-Governmental Organizations.
-A number of nongovernmental organizations are already active in educational activities in Vanuatu. Chief among these are the churches, which are discussed in the following paragraph. Others include the Vanuatu Cultural Center, the Summer Institute of Linguistics, World Vision, the Vanuatu Community Development Trust, the Vanuatu Preschool Association, and One Small Bag.  The Ministry of Education will ensure that these organizations are included and are actively involved in the development of vernacularlanguage education, since they already have an enormous amount of knowledge, materials, experience, and good will which can and should be mobilized for the common good of all.
+A number of non-governmental organizations are already active in educational activities in Vanuatu. Chief among these are the churches, which are discussed in the following paragraph. Others include the Vanuatu Cultural Center, the Summer Institute of Linguistics, World Vision, the Vanuatu Community Development Trust, the Vanuatu Preschool Association, and One Small Bag.  The Ministry of Education will ensure that these organizations are included and are actively involved in the development of vernacular-language education, since they already have an enormous amount of knowledge, materials, experience, and good will which can and should be mobilized for the common good of all.
 
 ### 56. Partnerships with Churches.
 Over time, the Government has developed various arrangements for working together with the churches to provide education.  The churches' contribution to education is very important; indeed, we recognize that it would be impossible to provide widespread education coverage without the help of the churches.  Church-related schools also tend to be well managed, and great efforts are made to obtain the best results with limited funds.  Since each of the established churches has a somewhat different arrangement, however, there is a general feeling that some churches benefit more than others. We intend to initiate negotiations with the various church bodies, with a view to reviewing the present financial arrangements for church schools.  We also intend to reconsider the draft Agreement with Church Schools developed in 1994, with a view towards developing a common agreement under which the government will provide assistance to all churches and other non-governmental organizations, which will be transparent and seen to be fair to all concerned.
@@ -530,7 +530,7 @@ Education Master Plan
 The Project Management Unit, in charge of the execution of projects financed by both the government and external donors, will draw from the experience and capacity of the other departments and units of the Ministry and will associate them as much as possible in the management of the projects.  In fact, these other units are responsible for the management of the beneficiaries having received the inputs (e.g., the schools, the teachers, the provincial offices), once a project is completed. Thus, they can provide a valuable feed-back to the Project Management Unit on all aspects of project execution, from the initial planning to the provision of inputs, to the assessment of the outputs, to the evaluation of project impact.  This unit will be headed by a senior educator, having had previous experience in project management;  this person will also liaise constantly with the donors and provide them with feed-back on project execution and evaluation.  The unit will also employ a procurement officer who will be in charge of all procurement.
 
 ### 66. Evaluation Function.
-We intend to seek donor assistance to create an evaluation function of the education process.  The outputs from the education system will be evaluated so as to assess whether they correspond to the objectives defined by the government. The evaluation function should be able to answer questions such as whether the policies adopted address the constraints of the system, whether equity in access and quality among genders, languages, social origin, and geographical distribution have been ensured, whether students learn what they are supposed to learn, whether the most costeffective solutions have been adopted.  This kind of evaluation will be located outside the Policy Planning and Research Directorate and will be at the level of an advisory unit responding directly to the Minister.  This evaluation will be done periodically (e.g., every three years) so as not to require a permanent structure (supplementary staff), which would increase the financial burden of the Ministry.  The evaluation will be the equivalent of an ad hoc study, which should benefit from some external consultancy (to be financed by a donor).  The evaluation of the inputs/outputs of projects will remain within the Policy Planning and Research Department.
+We intend to seek donor assistance to create an evaluation function of the education process.  The outputs from the education system will be evaluated so as to assess whether they correspond to the objectives defined by the government. The evaluation function should be able to answer questions such as whether the policies adopted address the constraints of the system, whether equity in access and quality among genders, languages, social origin, and geographical distribution have been ensured, whether students learn what they are supposed to learn, whether the most cost-effective solutions have been adopted.  This kind of evaluation will be located outside the Policy Planning and Research Directorate and will be at the level of an advisory unit responding directly to the Minister.  This evaluation will be done periodically (e.g., every three years) so as not to require a permanent structure (supplementary staff), which would increase the financial burden of the Ministry.  The evaluation will be the equivalent of an ad hoc study, which should benefit from some external consultancy (to be financed by a donor).  The evaluation of the inputs/outputs of projects will remain within the Policy Planning and Research Department.
 
 ### 67. Training for Ministry of Education Staff.
 We intend to seek donor assistance to help the Ministry of Education's Training and Development Unit design a training plan for Ministry staff, in accordance with the new functions defined.
@@ -572,11 +572,12 @@ Education Master Plan
 
 #### Contents
 
-- The Cost of Education in Vanuatu
+I. The Cost of Education in Vanuatu
 
-- Education Budget Trends
+II. Education Budget Trends
 
-- The Affordability of Education Reform References
+III. The Affordability of Education Reform
+References
 
 Attachment
 
@@ -650,11 +651,11 @@ Some countries facing the problem of high education costs have allowed teachers'
 
 - with B.Ed. or B.A./B.Sc. and Cert.Ed.: Grade E07.1 (VT 1,009,064 per year, or about US$7,900).
 
-- These salaries seem relatively high when compared with the salaries paid to teachers in other countries that are at a similar stage of development.  They also appear high compared to the GDP per capita of around VT 174,600 (VT 30,558 million ÷ 175,000).  Thus, a starting primary school teacher earns around 2.9 times GDP per head, and most starting secondary school teachers earn around 4.1 times GDP per head.
+13. These salaries seem relatively high when compared with the salaries paid to teachers in other countries that are at a similar stage of development.  They also appear high compared to the GDP per capita of around VT 174,600 (VT 30,558 million ÷ 175,000).  Thus, a starting primary school teacher earns around 2.9 times GDP per head, and most starting secondary school teachers earn around 4.1 times GDP per head.
 
-- Not surprisingly, there is strong resistance in Vanuatu, on a number of grounds, to the suggestion that teachers' salaries are too high.  Teachers' salaries have not been increased since 1994 and therefore, because of inflation, have declined significantly in real terms since then.  It is claimed that some teachers have difficulties living on current salary levels, especially in and around Port Vila, where costs are much higher than elsewhere.  There is also evidence that young people with good educational records are not being attracted into a career in teaching, and some teachers are leaving the profession because of the salary.
+14. Not surprisingly, there is strong resistance in Vanuatu, on a number of grounds, to the suggestion that teachers' salaries are too high.  Teachers' salaries have not been increased since 1994 and therefore, because of inflation, have declined significantly in real terms since then.  It is claimed that some teachers have difficulties living on current salary levels, especially in and around Port Vila, where costs are much higher than elsewhere.  There is also evidence that young people with good educational records are not being attracted into a career in teaching, and some teachers are leaving the profession because of the salary.
 
-###### International Comparisons of School Expenditure.
+###### 15. International Comparisons of School Expenditure.
 How much should be spent on the education of a child at each level (primary and secondary)?  This question has no simple answer because much depends on the local circumstances in each country.  However, much attention has been paid in recent years to a comparative study across 14 Asian countries commissioned by the Asian Development Bank (ADB). 4   This study found that the average unit cost of education in these countries amounted to 10 percent of GDP per head for primary schooling and 18 percent of GDP per head for secondary schooling.  The figures were for 1990 but had not changed significantly (in fact, had risen slightly) over the 1980s.
 
 > 4 Mingat 1995
@@ -673,13 +674,13 @@ Education Master Plan
 
 13. These ratios have subsequently been described as both useful and dangerous: useful in that they do indicate a benchmark for assessing education expenditure in other countries, but dangerous in that they conceal significant variations from country to country in the study. 5   The same study also found that across the same 14 Asian countries, national public education expenditure as a percentage of GDP had been rising steadily over some 40 years and averaged 3.8 percent in 1992.  Table 1 compares Vanuatu's 1998 performance against these ratios.
 
-Average of 14 Asian Countries | Vanuatu
+Table 1: International Comparison of Educational Expenditure
+
+ | Average of 14 Asian Countries | Vanuatu
 --- | --- | ---
 Public Education Expenditure as % of GDP | 3.8 | 5.4*
 Per Pupil Public Cost in Primary Schools as % of GDP per head | 10 | 14.3**
 Per Pupil Public Cost in Secondary Schools as % of GDP per head | 18*** | 45 (junior secondary) 63 (senior secondary)
-
-Table 1: International Comparison of Educational Expenditure
 
 * Exceeded only by Taiwan, China (7%) and Malaysia (5.5%)
 
@@ -687,9 +688,7 @@ Table 1: International Comparison of Educational Expenditure
 
 *** Highest was Taiwan, China (28%)
 
-Source:
-
-Mingat 1995
+Source: Mingat 1995
 
 14. The conclusions that emerge from these figures are that in Vanuatu:
 
@@ -701,7 +700,7 @@ Mingat 1995
 
 15. Recent international comparative studies of education effectiveness have also shown that high-quality, effective education can be provided without excessive cost by having relatively high student-teacher ratios and student-class ratios.  The latter apparently do not detract from the provision of high-quality education, assuming teaching resources in classrooms are adequate in both quality and quantity. 6 This last point is crucial.  Evidence from other countries shows that the quality and effectiveness of schooling at the primary and secondary levels increase significantly if the teacher has an adequate supply of good teaching materials in the classroom.
 
-16. In Vanuatu, expenditure from the national budget on the provision of teaching materials has been and continues to be very low.  Responsibility for the provision of teaching materials is largely left to schools, who have to raise the necessary funds from parents and communities.  Such active parental and community participation is welcome; there is some evidence that overall financial contributions to education from communities have declined in recent years, so such contributions should be actively encouraged.  But public authorities should be prepared to provide for the provision of at least a minimum of teaching materials, at least in those instances where the families and communities are unable to provide these to a sufficient level.  As the total education budget increases, a higher proportion of the available funds should be devoted to expenditure on teaching materials.
+16. In Vanuatu, expenditure from the national budget on the provision of teaching materials has been and continues to be very low.  Responsibility for the provision of teaching materials is largely left to schools, who have to raise the necessary funds from parents and communities.  Such active parental and community participation is welcome; there is some evidence that overall financial contributions to education from communities have declined in recent years, so such contributions should be actively encouraged.  But public authorities should be prepared to provide for the provision of at least a minimum of teaching materials, at least in those instances where the families and communities are unable to provide these to a sufficient level.  As the total education
 
 > 5  ADB 1996
 
@@ -718,6 +717,8 @@ Republic of Vanuatu
 Education Master Plan
 
 2000 - 2010
+
+budget increases, a higher proportion of the available funds should be devoted to expenditure on teaching materials.
 
 ###### Financial Arrangements with Church Schools.
 Church schools are an important part of the education system in Vanuatu.  The Government of Vanuatu has signed agreements with the Roman Catholic and Anglican churches with respect to education; the wording of these two agreements is nearly identical.  In these agreements, the Government acknowledges the need to maintain and develop Catholic and Anglican schools.
@@ -738,6 +739,8 @@ Education Master Plan
 
 2000 - 2010
 
+Table 2: Church Schools
+
 Type of School | No. of Schools | Enrollment | Teaching Posts | Teachers Posted
 --- | --- | --- | --- | ---
 Primary
@@ -754,15 +757,13 @@ Protestant | 3 | 951 | 64 | 56
 Total | 3 | 951 | 64 | 56
 Source: Ministry of Education data
 
-Table 2: Church Schools
-
 19. In primary schools, non-salary allocations are made at the same rate as in public schools, currently VT 500 per pupil.  For church primary schools, non-salary allocations are made on a block-grant basis rather than under the various functional headings for public schools.  So, nominally at least, church schools have greater discretion in spending their non-salary budgets than do public schools.  However, the total public expenditures allocated are rather less: the public budget expenditures per pupil are somewhat lower, by around 10 percent, for church schools than for public schools.   A rather small grant was allocated to SDA primary schools, VT 8.4 million for 1998.
 
 20. For junior secondary schools, private (church) schools receive overall significantly lower budget expenditure per pupil than public schools, for a number of reasons, including that the Government does not meet the cost of ancillary staff in private schools.  For senior secondary schools, surprisingly, budgeted expenditure per pupil from public funds is somewhat higher in the private (church) schools than in public schools.  This may be a result of economies of scale, since the private schools are significantly smaller than the public schools.
 
 21. In the case of very small church schools with fewer than 20 pupils, officially the Ministry does not provide any financial assistance.  But in practice the Department of Primary Education endeavors to provide one teacher from public funds, whenever possible.  Additionally, each of the Catholic and Anglican school systems is directed by a secretary, whose salary is paid from public funds.
 
-22. Overall, therefore, church schools seem to be treated rather generously from within the Ministry of Education budget.  One effect of the present financial arrangements is that relatively small church schools proliferate in many localities. Indeed, churches have a financial incentive to open new schools, since the costs of running these are largely met by the state.  A paper prepared by the National Planning Office for the CRP indicated that the Government should 'develop a policy on cost sharing arrangements with existing non-government education providers such as the churches.' 7 Apparently the Government has since indicated its willingness to review the present financial arrangements with the churches.
+22. Overall, therefore, church schools seem to be treated rather generously from within the Ministry of Education budget.  One effect of the present financial arrangements is that relatively small church schools proliferate in many localities. Indeed, churches have a financial incentive to open new schools, since the costs of running these are largely met by the state.  A paper prepared by the National Planning Office for the CRP indicated that the Government should 'develop a policy on cost sharing arrangements with existing non-government education providers such as the
 
 29
 
@@ -776,6 +777,8 @@ Education Master Plan
 
 2000 - 2010
 
+churches.' 7 Apparently the Government has since indicated its willingness to review the present financial arrangements with the churches.
+
 ###### 23. Family Contributions.
 It is Government policy that parents should pay school fees for children attending secondary schools.  Nominally, attendance of children at primary schools is free.  However, in practice, in almost all primary schools, parents do have to pay financial contributions to the school.  The National Planning Office paper commented:
 
@@ -787,7 +790,7 @@ It is Government policy that parents should pay school fees for children attendi
 
 VT 600 from families, as direct contribution to school expenses and insurance,
 
-- VT 2,200 from indirect contributions by parents or other through participation in Kermesses, the sale of produce, and other activities to raise money for the school,
++ VT 2,200 from indirect contributions by parents or other through participation in Kermesses, the sale of produce, and other activities to raise money for the school,
 
 = VT 2,800 approximate total per pupil.
 
@@ -795,9 +798,9 @@ VT 600 from families, as direct contribution to school expenses and insurance,
 
 VT 15,000 to VT 21,000 in fees (including boarding fees, required by over 80 percent of pupils),
 
-- VT 3,000 approximate contributions for school supplies,
++ VT 3,000 approximate contributions for school supplies,
 
-- VT 3,000 approximate indirect contributions,
++ VT 3,000 approximate indirect contributions,
 
 = VT 21,000 to VT 27,000 approximate total per pupil.
 
@@ -823,33 +826,35 @@ Education Master Plan
 
 Table 3: Annual School Contributions and Fees Paid by Families at Sample of Schools Visited
 
-Primary Schools Table 3 (continued)
+Primary Schools
 
 School No. | Annual Contribution (VT) | School No. | Annual Contribution (VT)
 --- | --- | --- | ---
-Public Schools | Private Schools
-Efate | 20 | 17,500
+Public Schools |  | Private Schools | 
+Efate |  | 20 | 17,500
 1 | 4,500 | 21 | 100
 2 | 3,600 | 22 | 1,500
 3 | 1,500 | 23 | 3,000
-Tanna | 24 | 6,000
+Tanna |  | 24 | 6,000
 4 | 3,000 | 25 | 4,800
 5 | 1,200 | Average Fee per private school | 5,483
-6 | 300
+6 | 300 |  | 
 7 | 450 | Overall average fee, all primary schools | 3,278
 8 | 300 | Standard Deviation* | 3,958
-9 | 1,500
-10 | 300 | Overall average fee if School No. 19 (SDA) is excluded Standard Deviation if | 2,578
-11 | 300 | School No. 19 (SDA) is excluded* | 2,681
-12 | 300
-Santo 13 | -
-14 | 9,000
-15 | 6,000
-16 | 3,000
-Malekula
-17 | 9,000
-18 | 3,000
-19 Average fee per public school | 1,800 2,582
+9 | 1,500 |  | 
+10 | 300 | Overall average fee if School No. 19 (SDA) is excluded | 2,578
+11 | 300 | Standard Deviation if School No. 19 (SDA) is excluded* | 2,681
+12 | 300 |  | 
+Santo |  |  | 
+13 | - |  | 
+14 | 9,000 |  | 
+15 | 6,000 |  | 
+16 | 3,000 |  | 
+Malekula |  |  | 
+17 | 9,000 |  | 
+18 | 3,000 |  | 
+19 | 1,800 |  | 
+Average fee per public school | 2,582 |  | 
 
 * For each of these Overall averages for Primary Schools, the Standard Deviation is larger than the Mean, therefore each of these results would fail a Statistical T-test for statistical validity.
 
@@ -865,30 +870,30 @@ Education Master Plan
 
 2000 - 2010
 
-Junior Secondary | Senior Secondary
+Table 3 (continued)
+
+Junior Secondary |  |  |  | Senior Secondary |  | 
 --- | --- | --- | --- | --- | --- | ---
 School | Tuition Fee (Vt.) | Boarding (Vt.) | Total (Vt.) | School | Tuition Fee (Vt.) | Boarding (Vt.)
-Public Schools Efate | Efate
-Ulei | 15,000 | 15,000 | 30,000 | Lycee Malapoa, | 19,500 | 10,500
-Tanna | Grades 7-10 Malapoa, | 15,000 | 45,000
-Tafea | 15,000 | 9,000 | 24,000 | Grades 11-13 | 30,000 | 45,000
+Public Schools |  |  |  |  |  | 
+Efate |  |  |  | Efate |  | 
+Ulei | 15,000 | 15,000 | 30,000 | Lycee | 19,500 | 10,500
+Tanna |  |  |  | Malapoa, Grades 7-10 | 45,000 | 15,000
+Tafea | 15,000 | 9,000 | 24,000 | Malapoa, Grades 11-13 | 45,000 | 30,000
 Imaki | 15,000 | 9,000 | 24,000 | Onesua | 28,500 | 30,000
-Ienaula Santo | 15,000 | 9,000 | 24,000 | Santo Matevulu Average for | 30,000 | 30,000
-College de Luganville | Senior
-Average Fee | 16,000 | 9,000 | 25,000 | Secondary | 29,250 | 30,000
-for Public
-Schools | 15,200 | 10,200 | 25,400
-Tanna
-Lowanatom | 15,000 | 21,000 | 36,000
-Malekulu
-Vao | 15,000 | 24,000 | 39,000
-Santo
-St. Michel | 30,000 | 6,000 | 36,000
-Average Fee for Private
-Schools | 20,000 | 17,000 | 37,000
-Overall average
-fee for Junior
-Secondary | 17,000 | 12,750 | 29,750
+Ienaula | 15,000 | 9,000 | 24,000 | Santo |  | 
+Santo |  |  |  | Matevulu | 30,000 | 30,000
+College de Luganville | 16,000 | 9,000 | 25,000 | Average for Senior Secondary | 30,000 | 29,250
+Average Fee for Public Schools | 15,200 | 10,200 | 25,400 |  |  | 
+Private Schools |  |  |  |  |  | 
+Tanna |  |  |  |  |  | 
+Lowanatom | 15,000 | 21,000 | 36,000 |  |  | 
+Malekulu |  |  |  |  |  | 
+Vao | 15,000 | 24,000 | 39,000 |  |  | 
+Santo |  |  |  |  |  | 
+St. Michel | 30,000 | 6,000 | 36,000 |  |  | 
+Average Fee for Private Schools | 20,000 | 17,000 | 37,000 |  |  | 
+Overall average fee for Junior Secondary | 17,000 | 12,750 | 29,750 |  |  | 
 
 Source: Mission visits to schools
 
@@ -962,7 +967,7 @@ Education Master Plan
 
 Table 4: Budget Expenditure for Teacher Training and Technical/Vocational Education, 1998
 
-Teacher Training (Vanuatu Teachers College) 12 | Technical and Vocational Education (INTV) 13
+ | Teacher Training (Vanuatu Teachers College) 12 | Technical and Vocational Education (INTV) 13
 --- | --- | ---
 Permanent Staff Emoluments (VT 000) | 13,072 | n/a
 Ancillary Staff (VT 000) | 3,901 | n/a
@@ -1029,15 +1034,15 @@ Education Master Plan
 
 33. The most recent economic indicators and forecasts are as shown in Table 5: 16
 
-1997 | 1998 | 1999 | 2000
+Table 5: Economic Indicators and Forecasts
+
+ | 1997 | 1998 | 1999 | 2000
 --- | --- | --- | --- | ---
 Current price GDP (VT m) | 29,110 | 30,558 | 32,086 | 34,011
 % change in GDP (nominal) | 3.5 | 5.0 | 5.0 | 6.0
 % change in CPI | 2.8 | 5.0 | 2.0 | 2.0
-Trade balance (VT m) | - 5,003 | - 8,300 | - 8,595 | - 8,581
-External current account balance (VT m) | - 2,504 | - 4,402 | - 4,254 | - 3,626
-
-Table 5: Economic Indicators and Forecasts
+Trade balance (VT m) | −5,003 | −8,300 | −8,595 | −8,581
+External current account balance (VT m) | −2,504 | −4,402 | −4,254 | −3,626
 
 Source: National Planning Office, Supplement to the 1998 Budget
 
@@ -1081,11 +1086,13 @@ Education Master Plan
 
 2000 - 2010
 
+Table 6: 1997 Education Recurrent Budget Out-turn
+
 Item | Budgeted Provision (VT 000) | Actual Spend (VT 000) | Balance (VT 000)
 --- | --- | --- | ---
 Cabinet | 18,464 | 17,565 | 899
 Youth & Sports | 32,834 | 32,525 | 309
-Director General | 3,343 | 31,549 | - 28,206
+Director General | 3,343 | 31,549 | −28,206
 Pre-Primary & Primary Education | 707,244 | 701,065 | 6,179
 Secondary & Further Education | 448,103 | 434,342 | 13,761
 Administration & Finance | 21,546 | 20,016 | 1,530
@@ -1094,8 +1101,6 @@ Teaching Service Commission | 3,332 | 3,240 | 92
 Scholarships | 138,940 | 136,710 | 2,230
 Examinations & CDC | 45,613 | 42,798 | 2,815
 Total | 1,424,885 | 1,396,092 | 28,793
-
-Table 6: 1997 Education Recurrent Budget Out-turn
 
 Source: Ministry of Finance data
 
@@ -1172,34 +1177,35 @@ Education Master Plan
 2000 - 2010
 
 Table 7: Recurrent Education Budget of Ministry of Education, Youth and Sports, 1998 (VT 000)
---- | --- | --- | --- | --- | ---
+
 Program | Public Funds | Donors | Total Expend. | Aid-in-Kind | Total Resources
-Teaching Service Commission | 4,418.6 | 4,418.6 | 4,418.6
-Director General | 11,095.0 | 11,095.0 | 11,095.0
-Planning, Stats., Progr. Mgmt. | 12,372.7 | 12,372.7 | 12,372.7
-Pre-School & Primary Education* | 822,536.7 | 822,536.7 | 33,636.0 | 856,172.7
-Junior Secondary:
-Teachers & School Grants | 161,856.7 | 161,856.7 | 161,856.7
-School Fee Supplementation | 33,442.5 | 33,442.5 | 33,442.5
-Junior Secondary Schools Project | 277,350.0 | 277,350.0
-Total | 195,299.2 | 277,350.0 | 472,649.2 | 472,649.2
-Senior Secondary:
-Teachers & School Grants | 241,874.4 | 241,874.4 | 241,874.4
-School Fee Supplementation | 29,191.5 | 29,191.5 | 29,191.5
-Total | 271,065.9 | 271,065.9 | 271,065.9
-Secondary & Further Ed. - Other | 139,265.5 | 139,265.5 | 139,265.5
+--- | --- | --- | --- | --- | ---
+Teaching Service Commission | 4,418.6 |  | 4,418.6 |  | 4,418.6
+Director General | 11,095.0 |  | 11,095.0 |  | 11,095.0
+Planning, Stats., Progr. Mgmt. | 12,372.7 |  | 12,372.7 |  | 12,372.7
+Pre-School & Primary Education* | 822,536.7 |  | 822,536.7 | 33,636.0 | 856,172.7
+Junior Secondary: |  |  |  |  | 
+Teachers & School Grants | 161,856.7 |  | 161,856.7 |  | 161,856.7
+School Fee Supplementation | 33,442.5 |  | 33,442.5 |  | 33,442.5
+Junior Secondary Schools Project |  | 277,350.0 | 277,350.0 |  | 
+Total | 195,299.2 | 277,350.0 | 472,649.2 |  | 472,649.2
+Senior Secondary: |  |  |  |  | 
+Teachers & School Grants | 241,874.4 |  | 241,874.4 |  | 241,874.4
+School Fee Supplementation | 29,191.5 |  | 29,191.5 |  | 29,191.5
+Total | 271,065.9 |  | 271,065.9 |  | 271,065.9
+Secondary & Further Ed. - Other | 139,265.5 |  | 139,265.5 |  | 139,265.5
 Secondary & Further Ed. - Total | 605,630.6 | 277,350.0 | 882,980.6 | 40,615.0 | 923,595.6
-Technical & Professional Ed.:
-Teacher Training | 26,482.1 | 26,482.1 | 26,482.1
-Technical/Vocational Ed. | 35,921.9 | 35,921.9 | 35,921.9
-Other | 14,426.7
-Total | 76,830.7 | 76,830.7 | 392,715.0 | 469,545.7
-Curriculum & Distance Ed. | 44,215.6 | 44,215.6 | 44,215.6
-Examinations | 25,858.7 | 25,858.7 | 25,858.7
-Youth & Sports | 27,639.1 | 27,639.1 | 27,639.1
-Admin., Finance & Personnel | 23,787.2 | 23,787.2 | 23,787.2
+Technical & Professional Ed.: |  |  |  |  | 
+Teacher Training | 26,482.1 |  | 26,482.1 |  | 26,482.1
+Technical/Vocational Ed. | 35,921.9 |  | 35,921.9 |  | 35,921.9
+Other | 14,426.7 |  |  |  | 
+Total | 76,830.7 |  | 76,830.7 | 392,715.0 | 469,545.7
+Curriculum & Distance Ed. | 44,215.6 |  | 44,215.6 |  | 44,215.6
+Examinations | 25,858.7 |  | 25,858.7 |  | 25,858.7
+Youth & Sports | 27,639.1 |  | 27,639.1 |  | 27,639.1
+Admin., Finance & Personnel | 23,787.2 |  | 23,787.2 |  | 23,787.2
 Total | 1,654,385.0 | 277,350.0 | 1,931,735.0 | 466,966.0 | 2,398,701.0
-PASEP | 157,000.0 | 157,000.0
+PASEP | 157,000.0 |  | 157,000.0 |  | 
 Grand Total | 1,811,385.0 | 277,350.0 | 2,088,735.0 | 466,966.0 | 2,555,701.0
 Source: National Planning Office
 Note: Figures exclude VT 39.6m for Youth and Sports
@@ -1218,6 +1224,8 @@ Education Master Plan
 
 2000 - 2010
 
+Table 8: Percentage Share of Primary Education in the Education Budget
+
 Year | %
 --- | ---
 1990 | 59.8
@@ -1229,8 +1237,6 @@ Year | %
 1996 | 52.3
 1997 | 50.7
 1998 | 49.7
-
-Table 8: Percentage Share of Primary Education in the Education Budget
 
 Figure 1: Percentage Share of Primary Education in Education Budget
 
@@ -1288,7 +1294,7 @@ Education Budget
 
 ##### D. Education Budgets to 2000
 
-- Budgets are prepared on a rolling, three-year basis, so the 1998 budget document includes forecast recurrent budget figures for the total Government and for MEYS for the years 1999 and 2000.  (It would be much more difficult if not impossible to give such advance forecasts for development expenditure, since much of this is funded by external donors and therefore depends on donors' policies and priorities.)  The recurrent budget forecast is as follows:
+49. Budgets are prepared on a rolling, three-year basis, so the 1998 budget document includes forecast recurrent budget figures for the total Government and for MEYS for the years 1999 and 2000.  (It would be much more difficult if not impossible to give such advance forecasts for development expenditure, since much of this is funded by external donors and therefore depends on donors' policies and priorities.)  The recurrent budget forecast is as follows:
 
 42
 
@@ -1302,15 +1308,17 @@ Education Master Plan
 
 2000 - 2010
 
-1999 | 2000 | % Increase
+ | 1999 | 2000 | % Increase
 --- | --- | --- | ---
 Total Government (G) | VT 7,486.9 m | VT 7,871.7 m | 5.1%
 Ministry of Education (E)* | VT 1,859.4 m | VT 2,042.6 m | 10.0%
-E/G, % | 24.8% | 25.9%
+E/G, % | 24.8% | 25.9% | 
 
 * Includes relatively small budget for Youth and Sports
 
 50. Previous reports commented on the worrying decline over time in the share of the central Government recurrent budget allocated to education. 17   This share exceeded 25 percent in each year from 1980 to 1984 and then declined steadily, to dip below 20 percent by 1990.  Table 9 and Figure 2 show that education's share of the budget recovered from 1990 to 1994, only to fall again between 1994 and 1997.  The years since 1997 have seen a marked and much welcomed recovery in relative terms.  The increased percentage for 1998 was particularly significant, and further relative increases are forecast for 1999 and 2000.
+
+Table 9: Recurrent Expenditure, 1990–2000, Government of Vanuatu and Ministry of Education
 
 Year | Government Recurrent Expenditure (G) (VT m) | Ministry of Education Recurrent Expenditure (E)* (VT m) | E/G, %
 --- | --- | --- | ---
@@ -1326,13 +1334,9 @@ Year | Government Recurrent Expenditure (G) (VT m) | Ministry of Education Recur
 1999 | 7486.9 | 1859.4 | 24.84
 2000 | 7871.7 | 2042.6 | 25.95
 
-Table 9: Recurrent Expenditure, 1990 -2000, Government of Vanuatu and Ministry of Education
-
 Source: Ministry of Finance data
 
-Note: 1990 1997: actual; 1998: budget; 1999 2000: forecast
-
-- -
+Note: 1990–1997: actual; 1998: budget; 1999–2000: forecast
 
 *includes relatively small expenditure relating to Youth and Sports
 
@@ -1349,8 +1353,6 @@ Republic of Vanuatu
 Education Master Plan
 
 2000 - 2010
-
-51. Table 10 and Figure 3 show the percentage increases in total Government recurrent expenditure and education recurrent expenditure between 1990 and 2000. 18 The overall trend has been positive and increasing, despite slight dips in 1991 and 1997. The nadir was reached in 1997 when education expenditure actually declined from the figure for the previous year.
 
 Figure 2: Public Education Expenditure as % of Government Expenditure
 
@@ -1394,6 +1396,8 @@ Year
 
 Public Education Expenditure as % of Government Expenditure
 
+51. Table 10 and Figure 3 show the percentage increases in total Government recurrent expenditure and education recurrent expenditure between 1990 and 2000. 18 The overall trend has been positive and increasing, despite slight dips in 1991 and 1997. The nadir was reached in 1997 when education expenditure actually declined from the figure for the previous year.
+
 > 18 This trend is based on actual expenditures between 1990 and 1997, and budget figures between 1998 and 2000.
 
 44
@@ -1408,6 +1412,8 @@ Education Master Plan
 
 2000 - 2010
 
+Table 10: Annual Percentage Changes in Recurrent Expenditure, Government of Vanuatu and Ministry of Education 19
+
 Year | Government Recurrent Expenditure, % increase | Ministry of Education Recurrent Expenditure, % increase
 --- | --- | ---
 1991 | 9.9 | 4.7
@@ -1416,20 +1422,14 @@ Year | Government Recurrent Expenditure, % increase | Ministry of Education Recu
 1994 | 1.5 | 9.2
 1995 | 17.8 | 7.9
 1996 | 9.4 | 10.2
-1997 | 0.0 | - 4.8
+1997 | 0.0 | −4.8
 1998 | 8.9 | 21.3*
-1999 | - 2.2 | 9.8
+1999 | −2.2 | 9.8
 2000 | 5.1 | 9.8
 
-Table 10: Annual Percentage Changes in Recurrent Expenditure, Government of Vanuatu and Ministry of Education 19
+Source: Ministry of Finance data
 
-Source:
-
-Ministry of Finance data
-
-Note:
-
-1991 -1997: actual; 1998: budget; 1999 -2000: forecast
+Note: 1991–1997: actual; 1998: budget; 1999–2000: forecast
 
 > 19 The Ministry of Finance advises that the percent increase for 1998, as given in their records and reproduced here, is misleading, due to changes in accounting practice.  Certain salary allowances were allocated to departments instead of being provided centrally.  On a basis comparable with 1997, the increase is around 10 percent, as given previously.  The percentage increases for 1999 and 2000 also show small differences from those given above, for similar reasons of definition.
 
@@ -1491,9 +1491,9 @@ Recurrent Expenditure
 
 Recurrent Expenditure
 
-- The Prime Minister, The Hon. Donald Kalpokas, has commented that the Ministry of Education budget for 1998 showed an increase of 10 percent compared to the previous year, while that for Health was increased by only 3 percent.  In addition, those for some other major ministries and departments were either held constant (Agriculture, Livestock, Forestry and Fisheries) or were reduced by 15 percent (Public Service, Public Works) to reflect the exercise of right-sizing Government.  The official Supplement to the Budget confirms this 10 percent increase in nominal terms for education over 1997 (which after allowing for inflation of 2.8 percent still gives a real increase of 7.2 percent).  This document comments that this increase is 'to cater for school enrollment growth' and that 'long-term growth also requires raising the level of education and training of the labor force in order to provide the skills that investors, both local and foreign, need for expansion.'
+52. The Prime Minister, The Hon. Donald Kalpokas, has commented that the Ministry of Education budget for 1998 showed an increase of 10 percent compared to the previous year, while that for Health was increased by only 3 percent.  In addition, those for some other major ministries and departments were either held constant (Agriculture, Livestock, Forestry and Fisheries) or were reduced by 15 percent (Public Service, Public Works) to reflect the exercise of right-sizing Government.  The official Supplement to the Budget confirms this 10 percent increase in nominal terms for education over 1997 (which after allowing for inflation of 2.8 percent still gives a real increase of 7.2 percent).  This document comments that this increase is 'to cater for school enrollment growth' and that 'long-term growth also requires raising the level of education and training of the labor force in order to provide the skills that investors, both local and foreign, need for expansion.'
 
-- The clearly increased priority now being attributed to education is indicated by the significant increase in the education budget for 1998 and the forecast relative increases of around 10 percent for 1999 (an increase in education expenditure even though total Government recurrent expenditure is budgeted to decline) and 2000.  If these forecasts can be adhered to, by 2000 the share of education in the central Government's budget will have again attained or even exceeded the level of 25 percent that was being achieved in the early 1980s.  This percentage would compare well with
+53. The clearly increased priority now being attributed to education is indicated by the significant increase in the education budget for 1998 and the forecast relative increases of around 10 percent for 1999 (an increase in education expenditure even though total Government recurrent expenditure is budgeted to decline) and 2000.  If these forecasts can be adhered to, by 2000 the share of education in the central Government's budget will have again attained or even exceeded the level of 25 percent that was being achieved in the early 1980s.  This percentage would compare well with
 
 46
 
@@ -1572,9 +1572,10 @@ Education Master Plan
 
 2000 - 2010
 
-Percentage of 5 year-olds in new | Year
+Table 11: Phasing in of New System
+
+Percentage of 5 year-olds in new system | Year
 --- | ---
-system
 10 | 2000
 20 | 2001
 30 | 2002
@@ -1585,8 +1586,6 @@ system
 80 | 2007
 90 | 2008
 100 | 2009
-
-Table 11: Phasing in of New System
 
 (b) Enrollment at all other levels is defined as:
 
@@ -1608,6 +1607,8 @@ Education Master Plan
 
 2000 - 2010
 
+Table 12: Pass and Dropout Rates (New System)
+
 Grades | Pass Rate | Dropout Rate 22
 --- | --- | ---
 Preparatory | - | 1
@@ -1621,14 +1622,14 @@ Grades 11-12 | 100 | 2
 Grades 12-13 | 51 | 0
 Grades 13-14 | 100 | 0
 
-Table 12: Pass and Dropout Rates (New System)
-
 ###### 59. The Existing System.
 The model also incorporates the children who are in the present system.  The calculation of projected number of children in non-reform schools is also based on a linear function, which can be defined as:
 
 Enrollmentt = Enrollmentt-1*(Pass Ratet-1 -Dropout Ratet-1) + Enrollmentt-1* Retention Ratet-1 where t = Grades 1 through 14
 
 The assumed pass, dropout, and retention rates are:
+
+Table 13: Pass, Dropout, and Retention Rates (Present System)
 
 Grades | Pass Rate | Dropout Rate | Retention Rate
 --- | --- | --- | ---
@@ -1642,8 +1643,6 @@ Grades 10-11 | 38 | 2 | 2
 Grades 11-12 | 100 | 2.5 | 2.5
 Grades 12-13 | 51 | 3.5 | 3.5
 Grades 13-14 | 40 | 0 | 0
-
-Table 13: Pass, Dropout, and Retention Rates (Present System)
 
 ###### 60. Results.
 The new system begins at a base of 580 children in 20 new preparatory classes in the first year.  Based on these projections, over the 10-year period the size of the preparatory class expands to slightly more than 7,000 (see Figure 4).  The expansion of the system occurs mainly in the first seven levels (preparatory through Grade 6) because the first cohort of children in the reform schools does not enter Grade 7 until 2007.  The total student population increases from 43,352 to 72,000 between 2000 and 2010, which represents a 66 percent increase over the period (see figure below).
@@ -1662,10 +1661,12 @@ Education Master Plan
 
 2000 - 2010
 
-Figure 4: Total Student Population in New and Existing System, 1997 -2010
+Figure 4: Total Student Population in New and Existing System, 1997–2010
 
 ###### 61. Cost.
 Estimates of the total cost of the reform are based on several key assumptions about unit costs and implementation. 23 The reform introduces several changes into the school system.  These include:
+
+Number of Children
 
 0
 
@@ -1747,19 +1748,19 @@ Education Master Plan
 
 2000 - 2010
 
+Table 14: Unit Costs (Base Case)
+
 System | Grades | Unit Cost (Vatu )
 --- | --- | ---
-New System | Preparatory-Grade 2 | 6,250
-Grades 3-6 | 25,000
-Grades 7-8 | 45,000
-Grades 9-12 | 110,600
-Present System | Grades 1-6 | 25,000
-Grades 7-8 | 78,300
-Grades 9-10 | 78,300
-Grades 11-12 | 110,600
-Grades 13-14 | 110,600
-
-Table 14: Unit Costs (Base Case)
+New System | Preparatory–Grade 2 | 6,250
+ | Grades 3–6 | 25,000
+ | Grades 7–8 | 45,000
+ | Grades 9–12 | 110,600
+Present System | Grades 1–6 | 25,000
+ | Grades 7–8 | 78,300
+ | Grades 9–10 | 78,300
+ | Grades 11–12 | 110,600
+ | Grades 13–14 | 110,600
 
 As expansion increases, the total costs of the system increase steadily from VT 2 million to VT 2.5 million between 2002 and 2010.  This is roughly a 33 percent increase in total cost.  The estimates are based on conservative unit costs that remain constant over the reform period.
 
@@ -1775,28 +1776,28 @@ Education Master Plan
 
 2000 - 2010
 
-2002 | 2005 | 2010
+Table 15: Total Estimated Education Recurrent Costs by Level 2002, 2005, and 2010 (VT ’000s)
+
+ | 2002 | 2005 | 2010
 --- | --- | --- | ---
-New System
-Preparatory, Grades 1-2 | 22,275 | 59,594 | 1 3 1 , 2 1 3
-Grades 3-6 | 0 | 86,475 | 415,850
-Grades 7-8 | 0 | 0 | 179,910
-Grades 9-12 | 0 | 0 | 177,292
-Grades 13-14 | 0 | 0 | 0
-Existing System
-Grades 1-6 | 947,425 | 764,300 | 3 6 5 , 1 5
-Grades 7-8 | 330,896 | 677,843 | 547,004
-Grades 9-10 | 140,470 | 364,408 | 595,158
-Grades 11-12 | 932,36 | 77,973 | 100,425
-Grades 13-14 | 33,069 | 23,668 | 33,180
-Total
-Preparatory-Grade 8 | 1,300,596 | 1,588,112 | 1 , 6 3 9 , 1
-Grades 9-14 | 266,775 | 466,050 | 906,055
+New System |  |  | 
+Preparatory, Grades 1–2 | 22,275 | 59,594 | 131,213
+Grades 3–6 | 0 | 86,475 | 415,850
+Grades 7–8 | 0 | 0 | 179,910
+Grades 9–12 | 0 | 0 | 177,292
+Grades 13–14 | 0 | 0 | 0
+Existing System |  |  | 
+Grades 1–6 | 947,425 | 764,300 | 365,150
+Grades 7–8 | 330,896 | 677,843 | 547,004
+Grades 9–10 | 140,470 | 364,408 | 595,158
+Grades 11–12 | 93,236 | 77,973 | 100,425
+Grades 13–14 | 33,069 | 23,668 | 33,180
+Total |  |  | 
+Preparatory–Grade 8 | 1,300,596 | 1,588,112 | 1,639,126
+Grades 9–14 | 266,775 | 466,050 | 906,055
 Grand Total | 1,567,371 | 2,054,161 | 2,545,181
 
-Table 15: Total Estimated Education Recurrent Costs by Level 2002, 2005, and 2010 (VT '000s)
-
-##### The Supply-Side: Availability of Public Funding
+##### B. The Supply-Side: Availability of Public Funding
 
 53
 
@@ -1834,7 +1835,7 @@ The medium growth scenario relies on more conservative assumptions of economic g
 
 The medium growth assumptions yield a trajectory that begins at a somewhat lower base of VT 1,713 million in 2000 and achieves a high of VT 2,600 million in 2010 (see Figure 5).
 
-###### ( iii) Low Growth Scenario:
+###### (iii) Low Growth Scenario:
 The low case assumes positive but lower growth, and consequently the budget for education is more constrained.  Again, the assumptions remain the same except that:
 
 54
@@ -1853,9 +1854,9 @@ Education Master Plan
 
 Using assumptions of low growth, the budget grows at a slow rate from VT 1,647 million to VT 2,452 million between 2000 and 2010.  The growth trajectory is naturally not as steep as in the case of the medium and high scenarios (see Figure 5).
 
-3,500
-
 Figure 5: Projected Growth of the Consolidated Education Budget
+
+Vt (millions)
 
 0
 
@@ -1907,6 +1908,8 @@ Medium
 
 Low
 
+Vt millions
+
 0
 
 500
@@ -1920,6 +1923,8 @@ Low
 2,500
 
 3,000
+
+3,500
 
 2002
 
@@ -1961,21 +1966,13 @@ In the case of low economic growth, the reform package quickly becomes unafforda
 ###### 67. Alternative Strategies.
 The requirements for success of the reform are strong economic growth and the Government's clear commitment to education.  Should either of these conditions falter, the fiscal sustainability of the reform would be jeopardized. For example, in a case of moderate growth, the cost of the reform and the Government's budget converge, so sustainability becomes more uncertain.  And even strong growth will not allow the Government to afford both increased spending per student universal education through Grade 10.
 
-68. Given such high risks associated with the above program, this section discusses several alternatives to the original target of universal 11-year education by 2010.  One is to implement a more modest reform, under which the Government achieves 8 years of universal education within the reform period and pursues 11 years as a longer-term goal. As Figures 9, 10, and 11 show, implementing an 8-year reform under which expansion occurs only between the preparatory year and Grade 7 reduces the risks and increases the sustainability of the reform tremendously.
+68. Given such high risks associated with the above program, this section discusses several alternatives to the original target of universal 11-year education by 2010.  One is to implement a more modest reform, under which the Government achieves 8 years of
 
-56
+Vt millions
 
 0
 
 500
-
-2002
-
-2005
-
-2010
-
-Year
 
 1,000
 
@@ -1989,11 +1986,21 @@ Year
 
 3,500
 
+2002
+
+2005
+
+2010
+
+Year
+
 Costant Unit Costs
 
 Increasing unit costs
 
 Projected Budget
+
+56
 
 [[END OF PAGE 56]]
 
@@ -2004,6 +2011,8 @@ Republic of Vanuatu
 Education Master Plan
 
 2000 - 2010
+
+universal education within the reform period and pursues 11 years as a longer-term goal.  As Figures 9, 10, and 11 show, implementing an 8-year reform under which expansion occurs only between the preparatory year and Grade 7 reduces the risks and increases the sustainability of the reform tremendously.
 
 Figure 8: Affordability of Education Reform Under the Low Growth Scenario
 
@@ -2057,6 +2066,8 @@ Education Master Plan
 
 Figure 9: The Affordability of 8-Year Universal Education Under the High Scenario
 
+Vt millions
+
 0
 
 500
@@ -2090,6 +2101,8 @@ Projected Budget
 69. In both the high and medium cases, the cost of the reform remains lower than the estimated education budget throughout the 11 years.  It is only in the case of low growth that sustainability becomes questionable in the last year or so of the reform.  Clearly this more moderate program would be more feasible; however, given the volatility of economic growth in the Pacific and the continuing strain of the East Asian economic crisis, even this option remains somewhat risky.
 
 Figure 10: The Affordability of 8-Year Universal Education Under the Medium Scenario
+
+Vt millions
 
 0
 
@@ -2136,6 +2149,8 @@ Education Master Plan
 2000 - 2010
 
 70. Another policy option that the Government has considered is to implement a program of not reducing teacher salaries for those who will teach Grades 1 and 2 in the vernacular.  The main implication of that approach is that costs will rise substantially.
+
+Vt millions
 
 0
 
@@ -2325,16 +2340,16 @@ Attachment Table 3: Breakdown of 1998 Budget Expenditure for Senior Secondary Ed
 School | Permanent Staff (VT 000) | Transfers to Govt. Schools (VT 000) | Grants to Non-Govt. Schools (VT 000) | Ancillary Staff (VT 000) | School Fee Supplement (VT 000) | Total Direct Allocations (VT 000) | Pro-Rata Adjustment Factor* | Adjusted Total Budget (VT 000) | Enrollment | Budget Expenditure per Pupil (VT)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Public Schools
-College de Santo | 23,949 | 2,625 | 6,227 | 6,570 | 39,371 | 1.164 | 45,820 | 450 | 101,822
-Matevulu | 25,308 | 3,115 | 8,509 | 5,550 | 42,482 | 1.164 | 49,441 | 430 | 114,978
-Lycée | 42,907 | 5,705 | 10,545 | 10,650 | 69,807 | 1.164 | 81,241 | 810 | 100,298
-Malapoa | 28,893 | 3,115 | 8,509 | 5,550 | 46,067 | 1.164 | 53,613 | 430 | 124,681
-Total, Public Schools | 121,057 | 14,560 | 33,790 | 28,320 | 197,727 | 1.164 | 230,115 | 2,120 | 108,545
+College de Santo | 23,949 | 2,625 | - | 6,227 | 6,570 | 39,371 | 1.164 | 45,820 | 450 | 101,822
+Matevulu | 25,308 | 3,115 | - | 8,509 | 5,550 | 42,482 | 1.164 | 49,441 | 430 | 114,978
+Lycée | 42,907 | 5,705 | - | 10,545 | 10,650 | 69,807 | 1.164 | 81,241 | 810 | 100,298
+Malapoa | 28,893 | 3,115 | - | 8,509 | 5,550 | 46,067 | 1.164 | 53,613 | 430 | 124,681
+Total, Public Schools | 121,057 | 14,560 | - | 33,790 | 28,320 | 197,727 | 1.164 | 230,115 | 2,120 | 108,545
 Private Schools
-Ranwadi | 12,302 | 1,300 | 5,369 | 2,640 | 21,611 | 1.164 | 25,151 | 200 | 125,754
-Vureas | 21,001 | 2,000 | 5,369 | 4,740 | 33,110 | 1.164 | 38,533 | 340 | 113,334
-Montmartre | 17,980 | 1,700 | 6,226 | 4,470 | 30,376 | 1.164 | 35,352 | 310 | 114,037
-Onesua | 19,594 | 2,000 | 5,370 | 4,740 | 31,704 | 1.164 | 36,897 | 340 | 108,521
+Ranwadi | 12,302 | - | 1,300 | 5,369 | 2,640 | 21,611 | 1.164 | 25,151 | 200 | 125,754
+Vureas | 21,001 | - | 2,000 | 5,369 | 4,740 | 33,110 | 1.164 | 38,533 | 340 | 113,334
+Montmartre | 17,980 | - | 1,700 | 6,226 | 4,470 | 30,376 | 1.164 | 35,352 | 310 | 114,037
+Onesua | 19,594 | - | 2,000 | 5,370 | 4,740 | 31,704 | 1.164 | 36,897 | 340 | 108,521
 Total, Private Schools | 70,877 | - | 7,000 | 22,334 | 16,590 | 116,801 | 1.164 | 135,933 | 1,190 | 114.229
 Overall Total, All Senior Secondary Schools
 Total | 191,934 | 14,560 | 7,000 | 56,124 | 44,910 | 314,528 | 1.164 | 366,048 | 3,310 | 110,588
@@ -2369,13 +2384,13 @@ Education Master Plan
 
 #### Contents
 
-- Language and Education in Vanuatu
+I. Language and Education in Vanuatu
 
-- The Case for Vernacular-Language Education
+II. The Case for Vernacular-Language Education
 
-- A Plan for Vernacular-Language Education in Vanuatu
+III. A Plan for Vernacular-Language Education in Vanuatu
 
-- Support for Vernacular-Language Education in Vanuatu
+IV. Support for Vernacular-Language Education in Vanuatu
 
 ##### Attachments:
 
@@ -2411,11 +2426,11 @@ the phrases 'cherishing our ethnic, linguistic and cultural diversity' and 'mind
 
 ##### A. Vanuatu's Linguistic Diversity
 
-- 5 5  76. Vanuatu may have the highest density of languages of any country in the world: it has 108 local languages for a population of about 177,000, or an average of about 1,600 speakers for every language.  This average masks a wide range, from languages now extinct or nearly so (10 speakers or fewer) to the more vigorous languages (over 7,000 speakers each).  About 95 languages have 100 speakers or more.  In addition to the local languages, Vanuatu uses the national language, Bislama, and two other official languages, English and French.
+- 76. Vanuatu may have the highest density of languages of any country in the world: it has 108 local languages for a population of about 177,000, or an average of about 1,600 speakers for every language.  This average masks a wide range, from languages now extinct or nearly so (10 speakers or fewer) to the more vigorous languages (over 7,000 speakers each).  About 95 languages have 100 speakers or more.  In addition to the local languages, Vanuatu uses the national language, Bislama, and two other official languages, English and French.
 
-- 5 77. The languages are in various stages of development.  English and French, the two well-established official languages, came to Vanuatu with the European colonizers, missionaries, and settlers.  Second in its stage of development is Bislama, a relatively new language.  It is a pidgin or creole with English and French vocabulary and Melanesian grammar.  It developed in the nineteenth century when the inhabitants of the islands now known as Vanuatu came into contact with Europeans.  Most of the population use it as a lingua franca, and many believe that a growing number of children learn it as a first language.  Its use and acceptance are increasing each year.  In 1998, a Bible and the second of two dictionaries were published in Bislama.  At least one newspaper has a section in Bislama, said to be read by 20,000 persons each week, and Bislama is the most frequently used language on the radio.  Because it is partially intelligible by speakers of Solomons Pijin and Tok Pisin of Papua New Guinea, it serves as a regional lingua franca.
+- 77. The languages are in various stages of development.  English and French, the two well-established official languages, came to Vanuatu with the European colonizers, missionaries, and settlers.  Second in its stage of development is Bislama, a relatively new language.  It is a pidgin or creole with English and French vocabulary and Melanesian grammar.  It developed in the nineteenth century when the inhabitants of the islands now known as Vanuatu came into contact with Europeans.  Most of the population use it as a lingua franca, and many believe that a growing number of children learn it as a first language.  Its use and acceptance are increasing each year.  In 1998, a Bible and the second of two dictionaries were published in Bislama.  At least one newspaper has a section in Bislama, said to be read by 20,000 persons each week, and Bislama is the most frequently used language on the radio.  Because it is partially intelligible by speakers of Solomons Pijin and Tok Pisin of Papua New Guinea, it serves as a regional lingua franca.
 
-- 6 78. The third group comprises a very few languages, perhaps only five, which have a recently developed and accepted orthography.  These languages have written religious books, as well as recently produced literacy and other teaching material.  They could easily be used in the early years of a vernacular-language program.  Fourth are 30 to 40 local languages that have been written at one time or another, usually by church groups. The written material is usually religious; some literacy materials are also available.  Some of these have some form of dictionary.  Fifth in development are the remaining 40 to 50 local languages, for which writing has never been attempted. 24
+- 78. The third group comprises a very few languages, perhaps only five, which have a recently developed and accepted orthography.  These languages have written religious books, as well as recently produced literacy and other teaching material.  They could easily be used in the early years of a vernacular-language program.  Fourth are 30 to 40 local languages that have been written at one time or another, usually by church groups. The written material is usually religious; some literacy materials are also available.  Some of these have some form of dictionary.  Fifth in development are the remaining 40 to 50 local languages, for which writing has never been attempted. 24
 
 - 79. The last census (1989) fails to capture the complexity of the language situation but suggests the dominance of Bislama among the population 6 years and above, as well as the population's greater knowledge of English compared to French. 25
 
@@ -2445,7 +2460,7 @@ Education Master Plan
 
 - 83. Since Independence the Government's main efforts have been to integrate the two systems, the English and French.  Vanuatu has been largely successful, unifying teacher salary scales, school fee levels, and education structure.  Vanuatu offers joint primary teacher training programs and in 1986 introduced a common lower secondary curriculum. The completed Primary and Secondary Education Project (PASEP), financed largely by the World Bank and the Australian Government, has resulted in development of common learning objectives for the primary level, as well as similar textbooks for all primary subjects, except language.
 
-##### The Current Dual Language Education System
+##### C. The Current Dual Language Education System
 
 ###### 84. Anglophone and Francophone Systems.
 By way of definition, the best phrase to use in discussing Vanuatu's education system is 'dual language instruction.'  Students are exposed to instruction in only one of the two languages of education, English or French.  For the very few who go on to secondary education, the other language is then taught as a subject.  In contrast, the term 'bilingual education' can be understood as education in two languages, using both languages as subject and medium of instruction. This term can also refer to education in a child's mother tongue (a local or vernacular language) and one of the official, international languages, English or French.  This type of education is increasingly seen now in Vanuatu, especially at the pre-school level.
@@ -2545,11 +2560,11 @@ Education Master Plan
 
 ##### A. The Pedagogical Reason
 
-- Evidence from around the world indicates that children learn basic literacy best in their mother tongue.  They acquire basic concepts much better when the examples are drawn from the life they know and are taught in the language they know.  Indeed, studies have shown that the use of the mother tongue stimulated children's cognitive development and develops their ability to think creatively and independently.  The ability of the child and the teacher to interact with the parents and the community contributes to this process.  The child also acquires confidence in himself or herself, a basic factor for success in further education.
+- 101. Evidence from around the world indicates that children learn basic literacy best in their mother tongue.  They acquire basic concepts much better when the examples are drawn from the life they know and are taught in the language they know.  Indeed, studies have shown that the use of the mother tongue stimulated children's cognitive development and develops their ability to think creatively and independently.  The ability of the child and the teacher to interact with the parents and the community contributes to this process.  The child also acquires confidence in himself or herself, a basic factor for success in further education.
 
-- Evidence from many other developing countries indicates that children not only acquire basic literacy better in their mother tongue but also that they are able to acquire foreign languages (and all subjects taught in foreign languages) better if they first become literate in their mother tongue.  Although it seems counter-intuitive, evidence from other parts of the world suggests that Vanuatu's children will be better able to acquire fluency in spoken and written English and French if they first learn in their mother tongues than if they are taught in English and French throughout their basic education.  In fact, vernacular-language instruction at the beginning of basic education may be the single most important thing which Vanuatu can do to improve the standards of spoken and written English and French in the country.
+- 102. Evidence from many other developing countries indicates that children not only acquire basic literacy better in their mother tongue but also that they are able to acquire foreign languages (and all subjects taught in foreign languages) better if they first become literate in their mother tongue.  Although it seems counter-intuitive, evidence from other parts of the world suggests that Vanuatu's children will be better able to acquire fluency in spoken and written English and French if they first learn in their mother tongues than if they are taught in English and French throughout their basic education.  In fact, vernacular-language instruction at the beginning of basic education may be the single most important thing which Vanuatu can do to improve the standards of spoken and written English and French in the country.
 
-##### 26. B.  The Cultural Reason
+##### B. The Cultural Reason
 
 - 103. Language is the bearer of culture, and culture the bearer of identity. Vanuatu's incredible linguistic richness risks being lost unless efforts are made (as the Constitution directs) to nourish and preserve the over 100 vernacular languages.  The use of the mother tongue enhances the child's sense of self and develops the child's appreciation of the setting and the traditions of the family and community.  By using the local vernacular language at the beginning of basic education, the parents and the community can also be closely involved in the educational process and can help the teacher (also someone from the village) to ensure that local cultural content, customs, and traditions are preserved.
 
@@ -2567,9 +2582,9 @@ Education Master Plan
 
 2000 - 2010
 
-##### 29. C.  The Financial Reason
+##### C. The Financial Reason
 
-- 105. Although the unit costs of education in Vanuatu are high compared to other countries in Asia and the Pacific, the results are disappointing.  Even though the Government will now be involved in community-based schools, by paying the teachers and by providing certain instructional materials, the cost of providing Grades 1 and 2 and the preparatory year will be cheaper than the present system.  This is because the Government currently pays teachers in Grades 1 and 2 the full salary of a primary school teacher, but teachers in community schools will be paid one quarter of what a primaryschool teacher earns.
+- 105. Although the unit costs of education in Vanuatu are high compared to other countries in Asia and the Pacific, the results are disappointing.  Even though the Government will now be involved in community-based schools, by paying the teachers and by providing certain instructional materials, the cost of providing Grades 1 and 2 and the preparatory year will be cheaper than the present system.  This is because the Government currently pays teachers in Grades 1 and 2 the full salary of a primary school teacher, but teachers in community schools will be paid one quarter of what a primary-school teacher earns.
 
 - 106. Another major source of savings expected from the new system derives from the pedagogical advantage of vernacular-language instruction.  Evidence from other countries around the world (in Latin America, Africa, Asia, and the Pacific) indicates that such programs result in higher attendance rates and lower repetition and drop-out rates than programs that use only an international language (Spanish, English, French).  The more efficient flow of students through the system results in lower costs throughout the system.
 
@@ -2611,7 +2626,7 @@ or French as the language of instruction, where it is indeed the mother tongue o
 
 ##### B. Teachers
 
-114. Teachers for the preparatory year and for Grade 1 and Grade 2 will be selected, to the extent possible, from mature adults within the community (e.g., retired teachers, community leaders) who have completed at least Grade 10.   These teachers will be selected by the community and approved by the Provincial Education Officer (or by some other education official, as appropriate).  Many will be adults who had completed their secondary education earlier. These people are from the village and speak the local vernacular language.  They are known to the children, the parents, and the community.  In most cases, they are respected, since they are among the few from the village who have completed Grade 10.  Many Grade 10 graduates have been unable to continue to further education, have not found employment in the modern sector, and have returned to their villages, where they do not have alternative employment.  They are happy to be offered a half-day job which pays them some cash income.  Since they have no alternative employment, they are happy to accept about onequarter of what qualified primary school teachers earn.  The Government (through the Ministry of Education) will pay these teachers.
+114. Teachers for the preparatory year and for Grade 1 and Grade 2 will be selected, to the extent possible, from mature adults within the community (e.g., retired teachers, community leaders) who have completed at least Grade 10.   These teachers will be selected by the community and approved by the Provincial Education Officer (or by some other education official, as appropriate).  Many will be adults who had completed their secondary education earlier. These people are from the village and speak the local vernacular language.  They are known to the children, the parents, and the community.  In most cases, they are respected, since they are among the few from the village who have completed Grade 10.  Many Grade 10 graduates have been unable to continue to further education, have not found employment in the modern sector, and have returned to their villages, where they do not have alternative employment.  They are happy to be offered a half-day job which pays them some cash income.  Since they have no alternative employment, they are happy to accept about one-quarter of what qualified primary school teachers earn.  The Government (through the Ministry of Education) will pay these teachers.
 
 71
 
@@ -2627,7 +2642,7 @@ Education Master Plan
 
 - 115. Teachers will be trained in a series of 10 to 12 modules held during school vacations over a period of about 2 years.  They will be trained in concepts of pedagogy and ways of working with young children, how to develop and use teaching materials in vernacular language, and how to mobilize the community in support of the local school.
 
-##### 40. D.  Written Materials and Orthographies
+##### D. Written Materials and Orthographies
 
 - 116. Before being introduced more widely, the new system will be piloted in a few areas where materials already exist in the vernacular languages.  Pilots can take place in 1999 and 2000. The new system will then be phased in over a period of about 10 years, based on a schedule to be worked out carefully by the Ministry of Education with technical assistance.  This means that the old system will continue in place in some parts of the country for up to 10 years.  Phasing is necessary for logistical and financial reasons.
 
@@ -2635,7 +2650,7 @@ Education Master Plan
 
 - 118. Missionaries have been developing written materials in a number of Vanuatu's vernacular languages for over a hundred years, and they continue to do so; at present, the Summer Institute of Linguistics, World Vision, and others are active in this area.  In addition, the University of the South Pacific has done much work in the area of Vanuatu's vernacular languages.  Interested groups have already been contacted and have expressed their desire and enthusiasm about helping in this effort.  The Government will contact them to develop orthographies and teaching materials (based on the existing curriculum for Grades 1 and 2) in the local vernacular languages.
 
-- 119. The process of developing new orthographies will be done mainly by niVanuatu, with the assistance of mission or other non-government agencies with expertise in this area.  Groups of about six ni-Vanuatu, each from an educational background, will be trained for about 6 months at the Vanuatu branch of the University of the South Pacific.  Their courses will be similar to those presently offered in Papua New Guinea, Darwin, or elsewhere. They will then return to a key target area (e.g., Tanna), where they will move around to establish orthographies for languages as yet unwritten.  In a period of about 6 months, they will be able to develop orthographies and basic vocabulary lists for all of Tanna's languages.  Toward the end of the process, linguistic specialists from the University of the South Pacific will be brought in to assist with the process of finding solutions for sounds in the local languages for which there is not a self-evident letter or group of letters in the Roman alphabet.  These linguistic teams will make it clear to the language communities that these initial materials are not the end result but rather the beginning of a process of establishing the written language.  This process will continue over a period of several years, with elders and younger people alike able to make their views known.
+- 119. The process of developing new orthographies will be done mainly by ni-Vanuatu, with the assistance of mission or other non-government agencies with expertise in this area.  Groups of about six ni-Vanuatu, each from an educational background, will be trained for about 6 months at the Vanuatu branch of the University of the South Pacific.  Their courses will be similar to those presently offered in Papua New Guinea, Darwin, or elsewhere. They will then return to a key target area (e.g., Tanna), where they will move around to establish orthographies for languages as yet unwritten.  In a period of about 6 months, they will be able to develop orthographies and basic vocabulary lists for all of Tanna's languages.  Toward the end of the process, linguistic specialists from the University of the South Pacific will be brought in to assist with the process of finding solutions for sounds in the local languages for which there is not a self-evident letter or group of letters in the Roman alphabet.  These linguistic teams will make it clear to the language communities that these initial materials are not the end result but rather the beginning of a process of establishing the written language.  This process will continue over a period of several years, with elders and younger people alike able to make their views known.
 
 72
 
@@ -2689,7 +2704,7 @@ Education Master Plan
 
 129. During the preparation of this Education Master Plan, a broad consensus has emerged which supports vernacular-language education in the early years of basic education.  A consensus-building exercise has been held throughout the country, in which all interested parties have been heard and have made their views known.  This Plan, once approved by the Cabinet, will become the official policy, which will then form the basis of national legislation that is expected to be approved with wide multi-partisan support.
 
-- 130. In addition to Government education officials at all levels, many individuals and non-governmental organizations are interested in assisting the implementation of vernacular-language education (see Attachment C for details).  These include the President of the Council of Chiefs of Vanuatu, representatives of the Vanuatu Teachers College and the Curriculum Development Center, the Summer Institute of Linguistics, World Vision, the University of the South Pacific (Vanuatu branch), the National Community Development Trust, the Vanuatu Cultural Center, the Vanuatu Preschool Association (Priskul Asosiesen Blong Vanuatu), Wan Smolbag (a theater group involved in dissemination of ideas), and others.  The Ministry of Education will draw on this group of interested stakeholders to form a Task Force which can pursue the idea of vernacularlanguage education in Vanuatu and plan how it is to be piloted and implemented.  Other countries which have successfully introduced vernacular-language education have depended on the support and collaboration of all interested stakeholders for success.
+- 130. In addition to Government education officials at all levels, many individuals and non-governmental organizations are interested in assisting the implementation of vernacular-language education (see Attachment C for details).  These include the President of the Council of Chiefs of Vanuatu, representatives of the Vanuatu Teachers College and the Curriculum Development Center, the Summer Institute of Linguistics, World Vision, the University of the South Pacific (Vanuatu branch), the National Community Development Trust, the Vanuatu Cultural Center, the Vanuatu Preschool Association (Priskul Asosiesen Blong Vanuatu), Wan Smolbag (a theater group involved in dissemination of ideas), and others.  The Ministry of Education will draw on this group of interested stakeholders to form a Task Force which can pursue the idea of vernacular-language education in Vanuatu and plan how it is to be piloted and implemented.  Other countries which have successfully introduced vernacular-language education have depended on the support and collaboration of all interested stakeholders for success.
 
 - 131. For all the reasons listed above, the Education Master Plan recommends that Vanuatu consider the adoption of vernacular-language education at the beginning of the basic education cycle.  The adoption of an Education Master Plan, after appropriate discussion and consensus-building, is expected to lead to widespread support of education in Vanuatu by donors and, in particular, of vernacular-language education at the beginning of basic education.  The World Bank, for example, is interested in supporting this proposal financially; other donors and non-governmental agencies have also demonstrated an interest in supporting the proposal.
 
@@ -2721,8 +2736,10 @@ Supervisors 3 × 960,000 VT or 2,880,000 VT | 23,000
 Supervisors Transportation 6 trips × 20,000 VT or 120,000 | 1,000
 Technical assistance Summer Institute of Linguistics | 15,000
 Training | 5,500
-Supervisors Course: USP Diploma: 13,000 VT × 8 courses or 104,000 | 2,500
-3 supervisors × 104,000 or 312,000 Writers' workshop for 30 participants | 3,000
+Supervisors Course: USP | 2,500
+Diploma: 13,000 VT × 8 courses or 104,000 VT
+3 supervisors × 104,000 or 312,000
+Writers' workshop for 30 participants | 3,000
 Lodging 20 × 1,000 VT × 14 days or 280,000 VT | 2,230
 Materials for participants 30 × 1,000 VT or 30,000 VT | 240
 Meals for 30 participants and trainers | 200
@@ -2761,10 +2778,10 @@ Storage box (metal) | 500
 Salaries and expenses | 25,000
 Supervisors | 23,000
 3 × 960,000 VT or 2,880,000 VT
-Supervisors Transportation
-6 trips × 20,000 VT or 120,000 VT | 1,000
-5 × 25,000 VT or 125,000 VT | 1,000
-Teachers (Kindergarten)
+Supervisors Transportation | 1,000
+6 trips × 20,000 VT or 120,000 VT
+Teachers (Kindergarten) | 1,000
+5 × 25,000 VT or 125,000 VT
 Technical assistance | 17,000
 Preschool specialist | 2,000
 Summer Institute of Linguistics | 15,000
@@ -2795,23 +2812,29 @@ Education Master Plan
 
 Assistance to the pilot community for physical infrastructure (water supply source and toilets) | See Annex 5
 --- | ---
-Materials Adaptation (Grade 2) | 6,600 3,000
-Translation English or French to Bislama 4 titles × 50,000 VT or 200,000 VT
-Translation Bislama to Local Language 4 titles × 500,000 VT or 200,000 VT
-Development
-Many will be developed during training workshops | --
-Other Grade 1 materials 5 × US$ 200 | 1,000
-Production (Grade 1) 5 × 30 × 3 titles × US$ 3 or US$ 1,350 | 2,100
+Materials | 6,600
+Adaptation (Grade 2) | 3,000
+Translation English or French to Bislama
+4 titles × 50,000 VT or 200,000 VT
+Translation Bislama to Local Language
+4 titles × 500,000 VT or 200,000 VT
+Development | --
+Many will be developed during training workshops
+Other Grade 1 materials | 1,000
+5 × US$ 200
+Production (Grade 1) | 2,100
+5 × 30 × 3 titles × US$ 3 or US$ 1,350
 5 × 30 × 1 title × US$ 5 or US$ 750
-Storage box (metal) 5 × US$ 100 | 500
-26,000
-Salaries and expenses Supervisors | 23,000
+Storage box (metal) | 500
+5 × US$ 100
+Salaries and expenses | 26,000
+Supervisors | 23,000
 3 × 960,000 VT or 2,880,000 VT
-Supervisors Transportation: 6 trips × 20,000 VT or 120,000 VT | 1,000
+Supervisors Transportation: | 1,000
+6 trips × 20,000 VT or 120,000 VT
 Teachers (Kindergarten and Grade 1) | 2,000
 10 × 25,000 VT or 250,000 VT
-Technical assistance
-17,000
+Technical assistance | 17,000
 Preschool specialist | 2,000
 Summer Institute of Linguistics | 15,000
 Training | 9,300
@@ -2837,34 +2860,52 @@ Education Master Plan
 
 2000 - 2010
 
-##### Year 4: Piloting Grade 2; Continuing Kindergarten US$ 119,650 and Grade 1 classes; Informal Language Development (10 languages)
+##### Year 4: Piloting Grade 2; Continuing Kindergarten and Grade 1 classes; Informal Language Development (10 languages) US$ 119,650
 
 Assistance to the pilot community for physical infrastructure (water supply source and toilets) | See Annex 5
 --- | ---
 Materials | 3,600
-Development
-Many materials will be developed during training workshops | 1,000
-5 × US$ 200 Production (Grade 2) 5 × 30 × 3 titles × US$ 3 or US$ 1,350 | 2,100
-5 × 30 × 1 title × US$ 5 or US$ 750 | 500
+Development | --
+Many materials will be developed during training workshops
+Other Grade 2 materials | 1,000
+5 × US$ 200
+Production (Grade 2) | 2,100
+5 × 30 × 3 titles × US$ 3 or US$ 1,350
+5 × 30 × 1 title × US$ 5 or US$ 750
+Storage box (metal) | 500
+5 × US$ 100
 Salaries and expenses | 51,000
-Supervisors 6 × 960,000 VT or 5,760,000 VT | 2,000
-Supervisors Transportation
-Teachers (Kindergarten, Grade 1 and Grade 2) 15 × 25,000 VT or 375,000 VT | 42,000
-Technical assistance Preschool specialist | 2,000
-Training
-1.
-Language informants meetings (50 participants × 4 weeks × 5 days) | 11,250
-Lodging 8,250 52 × 1,000 VT × 20 days or 1,040,000 VT
-Materials 800 50 × 2,000 VT or 100,000 VT Meals 400
-Transport: 2 linguists 1,400 2 × 4 mtgs × 20,000 VT or 160,000 VT
-Transport: materials 400 4 × US$ 100
-2. Supervisors Training: USP 3 × 104,000 VT or 314,400 VT | 2,500
-3. Teachers meetings Lunch | 300
-2 × 35 × 500 VT or 35,000 VT 4. Teachers workshops
-(same assumptions as Writers' Workshop in Year 1) 3 × US$ 3,000
-9,000
+Supervisors | 46,000
+6 × 960,000 VT or 5,760,000 VT
+Supervisors Transportation | 2,000
+12 trips × 20,000 VT or 240,000 VT
+Teachers (Kindergarten, Grade 1 and Grade 2) | 3,000
+15 × 25,000 VT or 375,000 VT
+Technical assistance | 42,000
+Preschool specialist | 2,000
+Summer Institute of Linguistics | 40,000
+Training | 23,050
+1. Language informants meetings | 11,250
+(50 participants × 4 weeks × 5 days)
+Lodging | 8,250
+52 × 1,000 VT × 20 days or 1,040,000 VT
+Materials | 800
+50 × 2,000 VT or 100,000 VT
+Meals | 400
+Transport: 2 linguists | 1,400
+2 × 4 mtgs × 20,000 VT or 160,000 VT
+Transport: materials | 400
+4 × US$ 100
+2. Supervisors Training: USP | 2,500
+3 × 104,000 VT or 314,400 VT
+3. Teachers meetings | 300
+Lunch
+2 × 35 × 500 VT or 35,000 VT
+4. Teachers workshops | 9,000
+(same assumptions as Writers' Workshop in Year 1)
+3 × US$ 3,000
 
-##### Year 5: Beginning Expansion into 10 New Language Groups US$ 403,250 (50 New Kindergarten Classes) ; Informal Language Development
+##### Year 5: Beginning Expansion into 10 New Language Groups (50 New Kindergarten Classes); Informal Language Development US$ 403,250
 
 78
 
@@ -2884,18 +2925,29 @@ Assistance to the pilot community for physical infrastructure (water supply sour
 --- | ---
 Materials | 193,500
 Adaptation (Grade 1) | 159,000
-Translation Bislama to 10 local languages 10 languages × 4 titles × 500,000 VT or 20,000,000 VT
-Development
-Many materials will be developed during training workshops | --
+Translation Bislama to 10 local languages
+10 languages × 4 titles × 500,000 VT or 20,000,000 VT
+Development | --
+Many materials will be developed during training workshops
 Production Kindergarten materials | 19,500
-50 classes × 20 big books × 1700 VT 13,500 or 1,700,000 VT
-50 classes × 60 small books × 250 VT 6,000 | 10,000
-50 × US$ 200 Storage boxes (metal) 50 × US$ 100 | 5,000
+50 classes × 20 big books × 1700 VT | 13,500
+or 1,700,000 VT
+50 classes × 60 small books × 250 VT | 6,000
+or 750,000 VT
+Other Kindergarten materials | 10,000
+50 × US$ 200
+Storage boxes (metal) | 5,000
+50 × US$ 100
 Salaries and expenses | 61,000
-Supervisors 6 × 960,000 VT or 5,760,000 VT | 46,000
-Teachers (Kindergarten, Grade 1 and Grade 2) 65 × 25,000 VT or 1,625,000 VT | 13,000
+Supervisors | 46,000
+6 × 960,000 VT or 5,760,000 VT
+Supervisors Transportation | 2,000
+12 trips × 20,000 VT or 240,000 VT
+Teachers (Kindergarten, Grade 1 and Grade 2) | 13,000
+65 × 25,000 VT or 1,625,000 VT
 Technical assistance | 42,000
-Summer Institute of Linguistics | 2,000 40,000
+Preschool specialist | 2,000
+Summer Institute of Linguistics | 40,000
 
 79
 
@@ -2909,13 +2961,22 @@ Education Master Plan
 
 2000 - 2010
 
-Training Language informants meetings (50 participants × 4 weeks × 5 days) (Same assumptions as for previous year) Supervisors Training: USP (continues) | 11,250
---- | ---
-Teachers meetings Lunch 2 × 300 × 500 VT or 300,000 VT 1 × 30 × 500 VT or 15,000 VT | 2,500
-Teachers workshops (same assumptions as Writers' Workshop in Year 1) | 93,000
-New language areas 3 workshops × 10 language areas × $ 3,000 or $ 90,000 Pilot area 1 workshop × $ 3,000
-
-106,750
+Training | 106,750
+Language informants meetings | 11,250
+(50 participants × 4 weeks × 5 days)
+(Same assumptions as for previous year)
+Supervisors Training: USP (continues)
+Teachers meetings | 2,500
+Lunch
+2 × 300 × 500 VT or 300,000 VT
+1 × 30 × 500 VT or 15,000 VT
+Teachers workshops | 93,000
+(same assumptions as Writers' Workshop in Year 1)
+New language areas
+3 workshops × 10 language areas × $ 3,000
+or $ 90,000
+Pilot area
+1 workshop × $ 3,000
 
 80
 
@@ -2931,7 +2992,7 @@ Education Master Plan
 
 #### ATTACHMENT B: LANGUAGES OF VANUATU
 
-- 133. Ethnologue, Languages of the World lists 115 entries for Vanuatu . 27   This number comprises:
+- 133. Ethnologue, Languages of the World lists 115 entries for Vanuatu. 27 This number comprises:
 
 - 95 languages with more than 100 speakers
 
@@ -2947,26 +3008,26 @@ Education Master Plan
 
 - 135. The discussion below groups languages in terms of the number of speakers, as follows:
 
-- 136. Thus, if the Government offers vernacular-language education in languages with 100 speakers or more, education could cover 95 languages and over 90 percent of the population. About half of the languages with speakers of 100 or more have been written at one time or another.
-
-- 137. This does not mean that the spelling, grammar usage, or vocabulary would be acceptable to the specific language community for use in schools currently.  (Janet Stahl of the Summer Institute of Linguistics in Vanuatu believes that perhaps only five languages would meet those criteria.)  It means that someone, at some time, perhaps 100 years ago, attempted to set the language down in a written form.  A draft list of these languages is below.  The language names are the ones given in the Ethnologue .  The speakers themselves may use other names, including 'Language' or as in the case of Merei and Tiale, the equivalent of 'no gat.'  That is when outsiders asked them the name of their language, they simply answered 'no' that they did not have a language.  That word for 'no' became the name of the language. 28
-
 Languages with | Number of Languages | Number of Speakers | Percentage of total
 --- | --- | --- | ---
 1,000 speakers or more | 25 | 77,775 | 69 percent
 400 speakers or more | 53 | 93,870 | 83 percent
 100 speakers or more | 95 | 102,960 | 91 percent
 
+- 136. Thus, if the Government offers vernacular-language education in languages with 100 speakers or more, education could cover 95 languages and over 90 percent of the population. About half of the languages with speakers of 100 or more have been written at one time or another.
+
 Languages with | Written | Not yet written | Total
 --- | --- | --- | ---
 1,000 speakers or more | 20 | 5 | 25
-400 - 900 speakers | 18 | 10 | 28
-100 - 375 speakers | 10 | 32 | 42
+400−900 speakers | 18 | 10 | 28
+100−375 speakers | 10 | 32 | 42
 Total | 46 | 49 | 95
 
-> 27 Ethnologue, Languages of the World , 14th edition, is edited by Barbara F. Grimes and published by the Summer Institute of Linguistics, Inc., Dallas Texas, 1996.
+- 137. This does not mean that the spelling, grammar usage, or vocabulary would be acceptable to the specific language community for use in schools currently.  (Janet Stahl of the Summer Institute of Linguistics in Vanuatu believes that perhaps only five languages would meet those criteria.)  It means that someone, at some time, perhaps 100 years ago, attempted to set the language down in a written form.  A draft list of these languages is below.  The language names are the ones given in the Ethnologue.  The speakers themselves may use other names, including 'Language' or as in the case of Merei and Tiale, the equivalent of 'no gat.'  That is when outsiders asked them the name of their language, they simply answered 'no' that they did not have a language.  That word for 'no' became the name of the language. 28
 
-> 28  The notes are mainly from the Ethnologue .  Others came from Janet Stahl at the Summer Institute of Linguistics or from Enikelen Netine at World Vision.
+> 27 Ethnologue, Languages of the World, 14th edition, is edited by Barbara F. Grimes and published by the Summer Institute of Linguistics, Inc., Dallas Texas, 1996.
+
+> 28 The notes are mainly from the Ethnologue. Others came from Janet Stahl at the Summer Institute of Linguistics or from Enikelen Netine at World Vision.
 
 81
 
@@ -2980,11 +3041,10 @@ Education Master Plan
 
 2000 - 2010
 
-Name of Language
-
 LANGUAGES OF VANUATU
 
-Estimated Number of Speakers
+Name of Language | Estimated Number of Speakers
+--- | ---
 
 ##### A. Languages with 1,000 speakers or more (25 total)
 
@@ -2992,9 +3052,7 @@ Estimated Number of Speakers
 
 Also called Raga, Lamalanga, North Raga, Vunmarama, Qatvenua, Bwatvenua, Singmel village. Spoken on Pentecost.  Bible Society has worked there. World Vision working there.
 
-2. LENAKEL
-
-6,500
+2. LENAKEL 6,500
 
 Spoken on Tanna.  Reformed Presbyterian (from Australia) working with it, doing language development and Bible translation.  World Vision also working there (in Tuhu area).
 
@@ -3002,9 +3060,7 @@ Spoken on Tanna.  Reformed Presbyterian (from Australia) working with it, doing 
 
 Spoken on Malekula.  SIL has worked with this language group.  Strong French influence. Has reading and writing, and people who would be good for this work.  Easy to do a pilot because near an airstrip.
 
-4. PAAMA LANGUAGE
-
-6,000
+4. PAAMA LANGUAGE 6,000
 
 Spoken on East Paama and Epi.  (East Ambryn language is different but related; could use same language materials.)  Terry Crowley did a grammar and dictionary, late 1980s. Strongly confident in their language.  Strongly English-speaking group.
 
@@ -3016,7 +3072,7 @@ Spoken on Ambae.  May be two languages.  Written, but contention over orthograph
 
 Spoken on Ambae.  Written.  Bible Society has worked there.
 
-7. APMA
+7. APMA 4,500
 
 Spoken on Pentecost.  Written.  Bible translation.
 
@@ -3027,8 +3083,6 @@ Spoken on Efate.  SIL has worked with this language.  Strongly English-speaking.
 9. WHITESANDS 3,500
 
 Also called Narak.  Spoken on Tanna.  SIL (Carlsons) is just beginning to work with this language.  Previous work by John Lynch.  Literacy rate in vernacular 2-5 percent.
-
-4,500
 
 82
 
@@ -3046,7 +3100,7 @@ Education Master Plan
 
 Spoken on Efate.  Also called Nguna (Guna, Tongoa, Ngunese), Buninga, Sesake, Emau, Paunangis, Livara.  Probably several languages.  Strongly English-speaking.  Literacy rate in vernacular: 30-60 percent.
 
-11. NAMAKURA
+11. NAMAKURA 2,850
 
 Spoken on North Efate, Tongoa, Tongariki.
 
@@ -3054,11 +3108,9 @@ Spoken on North Efate, Tongoa, Tongariki.
 
 Spoken on Ambryn, in Magam Community.  World Vision is working with kindergartens. May be difficult to reach in terms of supervising a pilot.
 
-13. KWAMERA
+13. KWAMERA 2,500
 
-2,500
-
-Spoken in Southeast Tanna.  Portions of the Bible translated 1878 -1883.
+Spoken in Southeast Tanna.  Portions of the Bible translated 1878−1883.
 
 14. SOUTHWEST TANNA 2,250
 
@@ -3072,8 +3124,6 @@ Spoken on Fila Island in Vila Harbor, Mele village on South Efate.  Written.  Li
 
 Spoken on Tanna.  SIL (Carlsons) is working there.  Written.  Literacy rate in vernacular below 1 percent.
 
-2,850
-
 83
 
 [[END OF PAGE 85]]
@@ -3086,9 +3136,7 @@ Education Master Plan
 
 2000 - 2010
 
-17. BIG NAMBAS
-
-1,800
+17. BIG NAMBAS 1,800
 
 Also known as Vata.  Spoken in Northwest Malekula.  World Vision working there.
 
@@ -3116,7 +3164,7 @@ Spoken on Mere Lava Island and Merig Island, Banks Group.  Portions of Bible pub
 
 Spoken on Vao Island, north Malekula.  Probably not written.
 
-24. MOTLAV
+24. MOTLAV 1,275
 
 Spoken on Mota Lava Island, Banks Group.  Probably not written.
 
@@ -3126,17 +3174,13 @@ Spoken on South Malekula.  SIL has worked there.  Portions of the Bible written 
 
 ##### B. Languages with 400 to 900 speakers (28 total)
 
-1. SIE
-
-900
+1. SIE 900
 
 Spoken on Eromanga Island.  Portions of the Bible written 1864-1914.
 
 2. LAMENU 750
 
 Spoken on Epi.  SIL (Stahls) has worked there. Translation of New Testament in progress.
-
-1,275
 
 84
 
@@ -3152,11 +3196,9 @@ Education Master Plan
 
 3. LEWO 750
 
-Spoken on Epi.  SIL (Stahls) has worked there.  Portions of the Bible translated as early as 1897; later version 1892 -1910.  Literacy rate in vernacular: below 1 percent.
+Spoken on Epi.  SIL (Stahls) has worked there.  Portions of the Bible translated as early as 1897; later version 1892−1910.  Literacy rate in vernacular: below 1 percent.
 
-4. MAE
-
-750
+4. MAE 750
 
 Spoken on Malekula.  Also called North Small Nambas language.  World Vision may be preparing booklets for kindergarten.
 
@@ -3164,13 +3206,13 @@ Spoken on Malekula.  Also called North Small Nambas language.  World Vision may 
 
 Spoken on Southeast Malekula Island.  Probably not written.
 
-6. PORT VATO
+6. PORT VATO 750
 
 Spoken on Southwest Ambrym Island.  Probably not written.
 
 7. AKEL 650
 
-Spoken in Southwestern Santo.  Portions of the Bible written 1909 -1924.
+Spoken in Southwestern Santo.  Portions of the Bible written 1909−1924.
 
 8. ANEITYUM 600
 
@@ -3182,17 +3224,17 @@ Spoken on South Ambrym.  Probably not written.
 
 10. FUTUNA 600
 
-Spoken on (West) Futuna and Aniwa Islands, east of Tanna.  Portions of the Bible written 1869 -1923.  Literacy rate in vernacular: 30-60 percent.
+Spoken on (West) Futuna and Aniwa Islands, east of Tanna.  Portions of the Bible written 1869−1923.  Literacy rate in vernacular: 30-60 percent.
 
 11. LONWOLWOL 600
 
-Spoken on West Ambryn Island and several hundred in Maat village on Efate Island. Portions of Bible written 1899 -1949.
+Spoken on West Ambryn Island and several hundred in Maat village on Efate Island. Portions of Bible written 1899−1949.
 
 12. MALFAXAL 600
 
 Spoken on South Malekula.  Portions of Bible written 1919.
 
-13. VATRATA
+13. VATRATA 600
 
 Spoken on Vanua Lava Island.  Portions of Bible published 1978.
 
@@ -3200,17 +3242,61 @@ Spoken on Vanua Lava Island.  Portions of Bible published 1978.
 
 Spoken on Maewo Island.  Selections of Bible published 1978.
 
-750
-
-600
-
 85
 
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
 
+Republic of Vanuatu
+
+Education Master Plan
+
 2000 - 2010
+
+15. AXAMB 525
+
+Spoken on South Malekula.  Probably not written.
+
+16. BURMBAR 525
+
+Spoken on Southeast Malekula.  Probably not written.
+
+17. BUTMAS-TUR 525
+
+Spoken in East central Santo.  Probably not written.
+
+18. NAVUT 525
+
+Spoken on West central Santo.  Probably not written.
+
+19. UNUA 525
+
+Spoken on East Malekula Island.  Portions of Bible written 1892−1913.
+
+20. ETON 500
+
+Spoken in Southeastern Efate Island at Eton, Pang Pang and surrounding villages. Probably not written.
+
+21. BIEREBO 450
+
+Spoken on West Epi, south of the Lamenu, north of the Baki.  Many speakers are bilingual in Baki.
+
+22. KATBOL 450
+
+Spoken on Central Malekula.  Probably not written.
+
+23. MOTA 450
+
+Spoken on Mota in the Banks group.  SIL has worked there.  Difficult location to reach. New Testament written 1885−1931.  Literacy rate in vernacular: 30-60 percent.
+
+24. NUME 450
+
+Spoken on Gaua Island.  SIL has worked there; New Testament translation in progress. Literacy rate in vernacular: 1-5 percent.
+
+25. TOLOMAKO 450
+
+Spoken in Big Bay, Santo Island.  Portions of the Bible written 1904−1909.
 
 86
 
@@ -3224,6 +3310,52 @@ Education Master Plan
 
 2000 - 2010
 
+26. LELEPA 400
+
+Spoken on Lelepa Island, and Mangaliliu and Napkoa on western Efate Island.  Portions of the Bible translated 1877−1883.  Formerly thought to be a dialect of North Efate; also related to South Efate and Eton.
+
+27. MEREI (means “no gat”) 400
+
+Spoken at Big Bay, Santo.  Written.  SIL has worked there; World Vision also.  Similar to TIALE (also “no gat”).
+
+28. MOSINA 400
+
+Spoken on Vanua Lava, Banks Group.  Bible translation in progress.
+
+##### C. Languages with 100 to 375 speakers (42 total)
+
+1. REREP 375
+
+Spoken in East Malekula Island.  Probably not written.
+
+2. TANGOA 375
+
+Spoken on Tangoa Island, off south Santo.  Portions of the Bible translated 1892−1923. SIL has worked with them.  Literacy in vernacular estimated at 30-60 percent.
+
+3. VUNAPU 375
+
+Spoken in Northwest Santo Island.  Probably not written.
+
+4. LABO 350
+
+Spoken on Southwest Bay, Malekula.  Early Bible translation (1905).
+
+5. MAEWO 350
+
+Spoken on Maewo Island.  Portions of Bible translated 1906.
+
+6. LITZLITZ 330
+
+Spoken on Malekula.  Probably not written.
+
+7. TOGA 315
+
+Spoken on Torres Islands.  Probably not written.
+
+8. AULUA 300
+
+Spoken on East Malekul.
+
 87
 
 [[END OF PAGE 89]]
@@ -3235,6 +3367,52 @@ Republic of Vanuatu
 Education Master Plan
 
 2000 - 2010
+
+9. LAKONA 300
+
+Spoken on Gaua Island, Banks Group.  Remote area.  Outside communications in Bislama. Two primary schools (English medium of instruction).  Probably not written.
+
+10. LETEMBOI 300
+
+Spoken in South Malekula.  Also known as Small Nambas language.  World Vision may be preparing booklets for kindergarten.
+
+11. MALUA BAY 300
+
+Spoken on Northwest coast of Malekula.  Probably not written.
+
+12. SEKE 300
+
+Spoken in Central Raga Island.  Probably not written.
+
+13. VALPEI 300
+
+Spoken in Northwest Santo Island.  Probably not written.
+
+14. NINDE 250
+
+South West Bay, Malekula.  World Vision.  Two teachers trained; one continues.  Four workbooks for kindergarten produced.
+
+15. SOUTHWEST BAY 250
+
+Spoken in Southwest Malekula Island.  Portions of Bible written in 1905.
+
+16. POLONOMBAUK 225
+
+Spoken in Southeast Santo Island.  Probably not written.
+
+17. SHARK BAY 225
+
+Spoken in East Santo on Litaro Island and on coast at Shark Bay.  Probably not written.
+
+18. LINGARAK 210
+
+Spoken on Malekula.  Probably not written.
+
+19. VINMAVIS 210
+
+Spoken in Central west Malekula Island.  Probably not written.
+
+20. BAKI 200
 
 Spoken on Epi.  SIL (Stahls) has worked there.  Many Bierbo use Baki as a second language.
 
@@ -3250,6 +3428,54 @@ Education Master Plan
 
 2000 - 2010
 
+21. EMAE 200
+
+Spoken on Emae, Three Hills Island, Sesake Island.  Speakers use North Efate (Tongoan) as second language.  Literacy in vernacular: below 1 percent.
+
+22. MARINO 180
+
+Spoken on North Maewo.  Probably not written.
+
+23. MPOTOVORO 180
+
+Spoken on North tip of Malekula.  Probably not written.
+
+24. BIERIA 170
+
+Also called Vovo, with some researchers considering Vovo a separate language.  Spoken on South Epi, between the Maii and the Lewo.  Early Bible portions (1898).  Speakers may be bilingual in Baki.  Literacy rate in vernacular: below 1 percent.
+
+25. WUSI 170
+
+Spoken in West Santo Island.  Probably not written.
+
+26. NARANGO 160
+
+Spoken on South Santo Island.  Probably not written.
+
+27. NOKUKU 160
+
+Spoken in Northwest Santo.  Much of New Testament has been translated.
+
+28. AMBLONG 150
+
+Spoken on South Santo.  Probably not written.
+
+29. FORTSENAL 150
+
+Spoken on Central Santo.  Probably not written.
+
+30. LAREVAT 150
+
+Spoken in Central Malekula.  Probably not written.
+
+31. LEHALI 150
+
+Spoken on Ureparapara Island, Banks Group.  Close to Lehalurup.  Probably not written.
+
+32. MOROUAS 150
+
+Spoken in Central Santo.  Probably not written.
+
 89
 
 [[END OF PAGE 91]]
@@ -3262,11 +3488,11 @@ Education Master Plan
 
 2000 - 2010
 
-33. PIAMATSINA
+33. PIAMATSINA 150
 
 Spoken in Northwest Santo Island.  Probably not written.
 
-34. RORIA
+34. RORIA 150
 
 Spoken in Central Santo Island.  Probably not written.
 
@@ -3282,9 +3508,7 @@ Spoken in North central Santo.  Probably not written.
 
 Spoken on Tutuba Island, south Santo.  Probably not written.
 
-38. HIW (HIU)
-
-120
+38. HIW (HIU) 120
 
 Spoken on Torres island.  World Vision is producing materials for kindergarten.  Difficult to get to: few flights and weather problems during part of the year.
 
@@ -3300,17 +3524,11 @@ Spoken on Gaua Island of the Banks Islands, villages of Koro and Mekeon.  Probab
 
 Spoken in Mafilau village, southwest Epi, north of the Bieria, south of the Baki.  Probably not written.
 
-42. WAILAPA
+42. WAILAPA 100
 
 Spoken in Southwest Santo Island.  Probably not written.
 
 Source: Grimes, Ethnologue, Summer Institute of Linguistics, 14th edition, 1996.
-
-100
-
-150
-
-150
 
 90
 
@@ -3323,6 +3541,8 @@ Republic of Vanuatu
 Education Master Plan
 
 2000 - 2010
+
+#### ATTACHMENT C: RESOURCES
 
 ##### Baha'i schools
 
@@ -3342,7 +3562,7 @@ Education Master Plan
 
 ##### National Komunity Development Trust (NKDT)
 
-- The NKDT has trained teachers and literacy workers for work with pre-schools and adult literacy classes in both the local languages and Bislama.  Its work emphasizes the role of the community in identifying problems and seeking solutions.  On Tanna, the Trust has trained workers for the Baha'i and World Vision programs.  Begun in 1993, NKDT received training from the University of Papua New Guinea.  They have received support from the Asia Pacific Bureau of Adult Education and Community Aid Abroad, an Australian nongovernment organization.  In August 1998, a local consultant, from Santo, began a 6-month evaluation of NKDT's work from 1993 to the present.
+- 142. The NKDT has trained teachers and literacy workers for work with pre-schools and adult literacy classes in both the local languages and Bislama.  Its work emphasizes the role of the community in identifying problems and seeking solutions.  On Tanna, the Trust has trained workers for the Baha'i and World Vision programs.  Begun in 1993, NKDT received training from the University of Papua New Guinea.  They have received support from the Asia Pacific Bureau of Adult Education and Community Aid Abroad, an Australian non-government organization.  In August 1998, a local consultant, from Santo, began a 6-month evaluation of NKDT's work from 1993 to the present.
 
 ##### Pre-school classes
 
@@ -3351,8 +3571,6 @@ Education Master Plan
 ##### Priskul Asosiesen Blong Vanuatu
 
 - 144. Vanuatu's pre-school association has existed for 15 years.  Its goal is to assist the community-based pre-schools to improve the quality of education for children aged 4 and 5.  It has a network of 52 branches through Vanuatu's six provinces.  It encourages the vernacular as the medium of communication and instruction and emphasizes the learning-through-play experiences that are appropriate for young children.  It has argued for improvement in the physical facilities for the schools, namely larger classrooms and play areas, and better light and ventilation.
-
-#### ATTACHMENT C: RESOURCES
 
 91
 
@@ -3366,7 +3584,7 @@ Education Master Plan
 
 2000 - 2010
 
-- 145. The Association trains teachers, has published a curriculum for Vanuatu preschools, and has reprinted the Kindabuk , a handbook produced by the recently completed Early Childhood Care and Education Project.  Using local materials, it plans to construct a kindergarten at the Vanuatu Teachers College to serve as a model for good pre-school facilities as well as a place for pre-school teachers to follow good teaching practices.  A grant from UNICEF has supported some of the training activities.
+- 145. The Association trains teachers, has published a curriculum for Vanuatu pre-schools, and has reprinted the Kindabuk, a handbook produced by the recently completed Early Childhood Care and Education Project.  Using local materials, it plans to construct a kindergarten at the Vanuatu Teachers College to serve as a model for good pre-school facilities as well as a place for pre-school teachers to follow good teaching practices.  A grant from UNICEF has supported some of the training activities.
 
 ##### Summer Institute of Linguistics (SIL)
 
@@ -3380,7 +3598,7 @@ Education Master Plan
 
 ##### University of the South Pacific, Pacific Languages Unit, Port Vila
 
-72. 149. The USP Pacific Languages Unit has three functions:
+- 149. The USP Pacific Languages Unit has three functions:
 
 - descriptive and historical linguistic research;
 
@@ -3503,13 +3721,13 @@ VMC | Vanuatu Maritime College (proposed)
 
 Republic of Vanuatu
 
-VNTC VRDTCA VTC
-
 Education Master Plan
 
 2000 - 2010
 
-Vanuatu National Training Council (proposed) Vanuatu Rural Development Training Centers Association Vanuatu Teachers College
+VNTC | Vanuatu National Training Council (proposed)
+VRDTCA | Vanuatu Rural Development Training Centers Association
+VTC | Vanuatu Teachers College
 
 #### I.  Technical and Vocational Education and Training in Vanuatu
 
@@ -3541,7 +3759,7 @@ INTV is the country's main provider of post-secondary, formal, pre-employment tr
 
 - 160. INTV's courses are at the craftsman or trade level.  They generally require a year 10 education for entry, last for two full-time years, and result in the award of a certificate.  The language of instruction is either French or English.  The fields of study are industrial studies (masonry, automotive mechanics, general mechanics, carpentry and joinery, electrical engineering, and arts and crafts); commercial studies (accounting and secretarial studies); hospitality; and tourism.  Some courses include work experience programs, and three Industry Advisory Committees promote further strengthening of links between training and employment.  In July 1998, the total enrollment in certificate courses was 462 students.  Of those, 166 or 36 percent were female, and 306 or 66 percent were Francophone.  Class sizes ranged from 9 to 31 students and averaged 14 for industrial studies and 27 for other fields of study.  Details of 1998 enrollments by course are provided in Attachment A.   About 200 students graduate from certificate courses at INTV each year.  Anecdotal evidence suggests that more than half of them find paid employment within six months of graduation, and that employment prospects are better for those who have followed commercial, hospitality, and tourism studies.
 
-- 161. The Principal of INTV reports to the Ministry of Education's Director of Secondary and Further Education, and receives support from French and Australian technical advisers.  Reporting to the Principal are an Assistant Principal with responsibility for administration and student affairs and a Deputy Principal with responsibility for teaching programs.  In 1998 the total number of staff was 70, including 12 administrative staff, 3 support staff, and 45 teachers, including volunteers.  The student-teacher ratio is thus about 11:1.  The teaching staff comprised 36 ni-Vanuatu teachers funded by the Government, 5 teachers funded by France, and 4 French and Peace Corps volunteers.  The distribution of teaching staff by subject area in 1997 is shown in Attachment A.  The AusAID project provides a number of advisers who support development initiatives in teaching and other areas, including in-service training of niVanuatu teachers who have little experience in teaching and assessment of performancebased curricula.
+- 161. The Principal of INTV reports to the Ministry of Education's Director of Secondary and Further Education, and receives support from French and Australian technical advisers.  Reporting to the Principal are an Assistant Principal with responsibility for administration and student affairs and a Deputy Principal with responsibility for teaching programs.  In 1998 the total number of staff was 70, including 12 administrative staff, 3 support staff, and 45 teachers, including volunteers.  The student-teacher ratio is thus about 11:1.  The teaching staff comprised 36 ni-Vanuatu teachers funded by the Government, 5 teachers funded by France, and 4 French and Peace Corps volunteers.  The distribution of teaching staff by subject area in 1997 is shown in Attachment A.  The AusAID project provides a number of advisers who support development initiatives in teaching and other areas, including in-service training of ni-Vanuatu teachers who have little experience in teaching and assessment of performance-based curricula.
 
 - 162. INTV has spacious grounds including sports fields and extensive infrastructure in 11 main buildings.  Most buildings are in fair to good condition, some having been recently renovated with AusAID assistance.  Major facilities include 18 classrooms, 8 workshops, 10 special purpose rooms, a staff room, and an administration block that includes a conference room and 6 offices.  Details of facilities are provided in Attachment A.  Male and female dormitories, a student dining room, and staff housing are currently being built in the first construction phase of the AusAID project.  Capital development at INTV, by way of new buildings and additional equipment, is not funded
 
@@ -3569,7 +3787,7 @@ VTC is located in Port Vila in the educational precinct that also includes Malap
 - 166. Curricula for the courses have been developed at VTC since 1996 and will need to be modified for new curricula currently being introduced in schools.  A general curriculum is followed for primary school teachers and includes techniques for multigrade teaching.  The curriculum for lower secondary school teachers provides for specialization in one of two areas: science and mathematics; or languages and social sciences.  The College has no provision for teaching industrial arts, home economics, or technology in the secondary program.
 
 ###### 167. Technical/Vocational Secondary Schools.
-In the category of vocational/training centers, Ministry of Education records for 1998 show two private but Government-assisted secondary schools and eight private secondary schools, which are commonly referred to as technical/vocational secondary schools (TVSSs).  Government assists the two supported TVSSs by paying the salaries of teachers and providing a fee subsidy based on enrollment.  The two Government-assisted TVSSs are College Technique San Michel on Santo, Samna Province, a Francophone school supported by the Catholic Church; and the Anglophone Onesua Technical/Vocational School on Efate, Shefa Province.  The Ministry has no data about TVSSs in its recent statistical yearbooks because none of the schools, except San Michel, has provided statistical returns.
+In the category of vocational/training centers, Ministry of Education records for 1998 show two private but Government-assisted secondary schools and eight private secondary schools, which are commonly referred to as technical/vocational secondary schools (TVSSs).  Government assists the two supported TVSSs by paying the salaries of teachers and providing a fee subsidy based on enrollment.  The two Government-assisted TVSSs are College Technique San Michel on Santo, Sanma Province, a Francophone school supported by the Catholic Church; and the Anglophone Onesua Technical/Vocational School on Efate, Shefa Province.  The Ministry has no data about TVSSs in its recent statistical yearbooks because none of the schools, except San Michel, has provided statistical returns.
 
 - 168. San Michel offers an integrated technical/vocational program in years 7 to 9, although its program documents indicate a fourth year (year 10) will be offered when resources permit.  In 1997 San Michel had an enrollment of 197, including 94 girls, and
 
@@ -3593,7 +3811,7 @@ The general secondary school curriculum provides for the subjects of industrial 
 - 170. It is left largely to the discretion of individual schools to determine if and to what level the subjects are taught.  That decision is usually based on the availability of appropriate teaching resources, including teachers and facilities for practical work.  As a result, only about half of junior secondary schools offer industrial arts and/or home economics.  And while the subjects are said to be core subjects, they are not compulsory nor are they considered in determining student progression.  As a consequence, secondary students in general do not gain an adequate understanding of modern or appropriate technologies and their place in a developing society.  Students and parents also often perceive technology education to be inferior to general academic education and do not recognize its potential for students' intellectual and practical development.
 
 ###### 171. Overseas Training.
-The Training and Scholarships Coordination Unit administers Vanuatu's national program of sponsored scholarships for overseas training. Funding for the program comes through grants from international donors and the Government.  Training is available in regional and other tertiary institutions at nondegree, undergraduate, and post-graduate levels for school leavers and public and private sectors employees.  Prime criteria for selection are the capacity of the applicant to successfully undertake the study and the relevance of the proposed study to the manpower needs of the country.  Gender is not a criterion for selection as such but, other things being equal, the program aims to provide equal representation for males and females. AusAID has been supporting TSCU through a three-year program commencing in 1997 to strengthen administrative capacity.
+The Training and Scholarships Coordination Unit administers Vanuatu's national program of sponsored scholarships for overseas training. Funding for the program comes through grants from international donors and the Government.  Training is available in regional and other tertiary institutions at non-degree, undergraduate, and post-graduate levels for school leavers and public and private sectors employees.  Prime criteria for selection are the capacity of the applicant to successfully undertake the study and the relevance of the proposed study to the manpower needs of the country.  Gender is not a criterion for selection as such but, other things being equal, the program aims to provide equal representation for males and females. AusAID has been supporting TSCU through a three-year program commencing in 1997 to strengthen administrative capacity.
 
 - 172. Since its establishment in 1988, the Training and Scholarships Coordination Unit has administered the award of over 1,000 scholarships.  In 1997 there were 328 scholarship awards: 231 continuing awards and 97 new awards.  Of previous awardees, 67 graduated from their programs and 29 had their scholarships terminated in 1997. TSCU estimates the annual value of current long-term scholarships at about VT 365 million, giving a unit cost of about of about VT 1,113,000 (US$8,750) per student.  The Government's financial support for the program commenced with a contribution of VT 5 million in 1997, and it scheduled contributions VT 10 million and VT 15 million for 1998 and 1999, respectively.
 
@@ -3618,9 +3836,9 @@ non-degree undergraduate studies.  The most popular fields of study were related
 ##### B. Other Government Bodies
 
 ###### 175. Government Training Center.
-The Government Training Center (GTC) was established in 1981 under the jurisdiction of the Public Service Department with the prime role of enhancing job skills of public servants.  In a four-year project ending in June 1998, GTC received AusAID assistance in developing and offering of a range of inservice courses assessed to be those most needed by the public service.  The courses are offered mostly in English and focus on management, administration, and office skills. Certificates in management, supervision, and office administration last about 20 days, and other courses provide from 2 to 15 days tuition.  GTC has 12 staff, including the Principal and 6 trainers.  Together with expatriate staff of the contractor for the AusAID project, they offered about 2,000 person-days of training a year in 1996 and 1997.  Figures produced by GTC indicate that the number of training days in 1998 may have been reduced to about one-third of those offered in 1997 because of budgetary constraints and the absence of the project support.
+The Government Training Center (GTC) was established in 1981 under the jurisdiction of the Public Service Department with the prime role of enhancing job skills of public servants.  In a four-year project ending in June 1998, GTC received AusAID assistance in developing and offering of a range of in-service courses assessed to be those most needed by the public service.  The courses are offered mostly in English and focus on management, administration, and office skills. Certificates in management, supervision, and office administration last about 20 days, and other courses provide from 2 to 15 days tuition.  GTC has 12 staff, including the Principal and 6 trainers.  Together with expatriate staff of the contractor for the AusAID project, they offered about 2,000 person-days of training a year in 1996 and 1997.  Figures produced by GTC indicate that the number of training days in 1998 may have been reduced to about one-third of those offered in 1997 because of budgetary constraints and the absence of the project support.
 
-- 176. To determine its annual program of courses, the Government Training Center canvasses Government departments and, within the constraints of its budget and available staff and curricula, responds to priority demands.  GTC's facility in Port Vila has a conference room, a computer room, a meeting room, and administration offices.  GTC provides most courses there but offers some programs in provincial centers.   The Center has also offered additional courses for specific Government departments or private enterprises when the requesting agency has met the costs of the program.  Some courses have been offered at discounted cost to quasi-government departments ⎯ NGOs, for example ⎯ and, when places are available, the general public can attend courses on a feepaying basis.  In March 1998 the Government approved bringing the training of police and mobile force personnel under the auspices of GTC (see below).  GTC has no formal links with INTV or other Government training providers.
+- 176. To determine its annual program of courses, the Government Training Center canvasses Government departments and, within the constraints of its budget and available staff and curricula, responds to priority demands.  GTC's facility in Port Vila has a conference room, a computer room, a meeting room, and administration offices.  GTC provides most courses there but offers some programs in provincial centers.   The Center has also offered additional courses for specific Government departments or private enterprises when the requesting agency has met the costs of the program.  Some courses have been offered at discounted cost to quasi-government departments ⎯ NGOs, for example ⎯ and, when places are available, the general public can attend courses on a fee-paying basis.  In March 1998 the Government approved bringing the training of police and mobile force personnel under the auspices of GTC (see below).  GTC has no formal links with INTV or other Government training providers.
 
 ###### 177. Finance Sector Training Unit.
 The FSTU was established in 1994 under the Ministry of Finance because of the need for formal training of accounts clerks.  Project aid from the United Kingdom supported development of the Unit until April 1998.  The aid provided equipment and advisers to assist in training staff and developing and implementing the training program.  Three trained ni-Vanuatu teachers now run the program with assistance from two volunteer advisers from the United Kingdom.  The course offered by FSTU is a Certificate in Financial Accounting, a day-release program requiring student attendance for one day and one evening per week over two years. While the course was originally envisaged as an in-service training program to upgrade the skills of Government servants, the program is now open to employees from the private sector, who currently constitute about 50 percent of enrollments.  The fee for
@@ -3647,9 +3865,9 @@ DCBD's objective is to promote the development of ni-Vanuatu owned businesses th
 - 180. The Department provides training throughout the country using its regional offices and headquarters, as well as regional training officers and other resources as required, in a variety of short (usually five-day) courses.  Clients pay a fee of about VT 3,000 for a five-day course.  In 1996 DCBD conducted 23 courses for about 350 trainees on topics such as bookkeeping, store management, credit management, committee management, business awareness, and special business development programs for women.  A training program of similar magnitude and direction is envisaged for 1998, although DCBD's staff has been cut to 29, including 19 located in five provincial offices.
 
 ###### 181. Rural Skills Training Program.
-The objective of the Rural Skills Training Program (RSTP) is to promote rural community development by facilitating the acquisition of skills needed to improve social and economic wellbeing in the village. RSTP is a quasi-government organization, being a registered NGO but manned by niVanuatu staff of the Department of Home Affairs and supported for operational expenses of about VT 20 million per year by New Zealand aid.  The New Zealand project support commenced in 1992 and has included provision of advisers and equipment; it was to be reviewed in mid-1999.
+The objective of the Rural Skills Training Program (RSTP) is to promote rural community development by facilitating the acquisition of skills needed to improve social and economic wellbeing in the village. RSTP is a quasi-government organization, being a registered NGO but manned by ni-Vanuatu staff of the Department of Home Affairs and supported for operational expenses of about VT 20 million per year by New Zealand aid.  The New Zealand project support commenced in 1992 and has included provision of advisers and equipment; it was to be reviewed in mid-1999.
 
-- 182. The Rural Skills Training Program has a staff of seven, comprising three Port Vila -based headquarters staff and four regional coordinators on the islands of Santo (one), Palma (one), and Epi (two).  On the three islands, RSTP conducts village-based participatory rural assessments to determine socioeconomic needs that could be addressed through training.  After the assessment, in about 35 villages to date, RSTP provides short informal training sessions to small groups in the communities.  The Program typically conducts training in areas such as leadership, adult and youth literacy, first aid, health and hygiene, and the construction of village infrastructure such as stoves, toilets, and systems for water supply and rubbish disposal.  RSTP's costs may be defrayed by payments from communities in either cash or kind.
+- 182. The Rural Skills Training Program has a staff of seven, comprising three Port Vila-based headquarters staff and four regional coordinators on the islands of Santo (one), Paama (one), and Epi (two).  On the three islands, RSTP conducts village-based participatory rural assessments to determine socioeconomic needs that could be addressed through training.  After the assessment, in about 35 villages to date, RSTP provides short informal training sessions to small groups in the communities.  The Program typically conducts training in areas such as leadership, adult and youth literacy, first aid, health and hygiene, and the construction of village infrastructure such as stoves, toilets, and systems for water supply and rubbish disposal.  RSTP's costs may be defrayed by payments from communities in either cash or kind.
 
 ###### 183. Fisheries and Maritime Training. (i) Fisheries Training Center:
 FTC, under the Department of Fisheries, Ministry of Agriculture, was established and supported in its operations by project aid from the European Union from 1989 to 1995. FTC is located on the outskirts of Luganville, Santo, on a seafront site of about two
@@ -3724,12 +3942,12 @@ Education Master Plan
 is to certify the competence at basic, intermediate, or upper level of technical tradesmen who have obtained their skills through informal, on-the-job training.  Consistent with this objective, the Unit's role has included provision of short-term training to help applicants for certification attain appropriate competency levels.  From 1984 to 1994, some 1,350 workers were provided training in 12 trades, with an emphasis on the trades of carpentry and building (50 percent), automotive mechanics (21 percent), and electrician (13 percent).  In recent years TTCU has done little training, limiting its role to certification.
 
 ###### 194. In-service Training.
-Some Government departments provide in-house, inservice training and staff development for various categories of their staff.  Such programs may be in conjunction with formal pre-employment training from INTV or continuing and further education programs from providers such as INTV, the Finance Sector Training Unit, the Government Training Center, or the Training and Scholarships Coordination Unit.  In-house staff training and development will likely increase as Government departments address the implications of the Comprehensive Reform Program for human resource development.
+Some Government departments provide in-house, in-service training and staff development for various categories of their staff.  Such programs may be in conjunction with formal pre-employment training from INTV or continuing and further education programs from providers such as INTV, the Finance Sector Training Unit, the Government Training Center, or the Training and Scholarships Coordination Unit.  In-house staff training and development will likely increase as Government departments address the implications of the Comprehensive Reform Program for human resource development.
 
 ###### 195. Training through Externally Assisted Projects.
-A significant amount of training is provided to ni-Vanuatu through externally assisted development projects supported by bilateral and multilateral aid agencies.   Almost all such projects include overseas institutional training, overseas work experience programs, and/or in-country, inservice training from project advisers.  Beneficiaries of the training are usually the personnel of the Government agencies that receive project support, but it is difficult to estimate their number or the extent and nature of their training.
+A significant amount of training is provided to ni-Vanuatu through externally assisted development projects supported by bilateral and multilateral aid agencies.   Almost all such projects include overseas institutional training, overseas work experience programs, and/or in-country, in-service training from project advisers.  Beneficiaries of the training are usually the personnel of the Government agencies that receive project support, but it is difficult to estimate their number or the extent and nature of their training.
 
-##### Non-Government and Religious Organizations
+##### D. Non-Government and Religious Organizations
 
 ###### 196. Rural Training Centers.
 Private, community, and church groups first established Rural Training Centers (RTCs) in the early 1980s in response to the training needs of rural youth who left the formal education system after completing only basic (Grade 6) education.  In the absence of any other education or training opportunities for these youth, RTCs aimed to provide school leavers with additional general education and, particularly, vocational skills that would enable them to make a more useful contribution to their rural communities.  RTCs initially operated in isolation from each other and independent of Government, apart from small public grants provided in the 1980s and withdrawn in 1990.
@@ -3794,7 +4012,7 @@ As noted above, there are eight private TVSSs, listed by the Ministry of Educati
 ###### 204. Other NGOs.
 The Vanuatu Association of Non-Government Organizations (VANGO) listed 74 NGO and volunteer organizations that were operating in the country in 1995.  Of those, 13 had religious affiliation; 24 were related directly to the interests of women; and 32, including VANGO itself, listed education and or training as a significant aspect of their programs and activities.  Given the NGOs' general focus on community, rural, and women's development, the training generally provided is similarly focused, and is informal and community based.
 
-##### Other Providers
+##### D. Other Providers
 
 105
 
@@ -3809,7 +4027,7 @@ Education Master Plan
 2000 - 2010
 
 ###### 205. University of the South Pacific Extension Center.
-The University of the South Pacific has an Extension Center (USPEC) in Port Vila.  It is located together with the University of the South Pacific (USP) Ismalus Campus of Law, and an Extension Sub-Center in Luganville, Santo Island.  USPEC and the Santo sub-center have modern facilities and equipment in good condition.  Both offer USP's standard English language study programs of (i) preliminary and foundation studies, for students with the educational equivalent of school years 12 and 13, respectively, who are seeking entry qualification for tertiary studies; (ii) vocational studies, providing units of non-degree (certificate and diploma) programs through the extension mode; (iii) degree studies, providing units of degree programs through the extension mode; and (iv) continuing education studies, which are short vocational skills programs (for example, computer skills, bookkeeping, and languages) through normal class work.
+The University of the South Pacific has an Extension Center (USPEC) in Port Vila.  It is located together with the University of the South Pacific (USP) Emalus Campus of Law, and an Extension Sub-Center in Luganville, Santo Island.  USPEC and the Santo sub-center have modern facilities and equipment in good condition.  Both offer USP's standard English language study programs of (i) preliminary and foundation studies, for students with the educational equivalent of school years 12 and 13, respectively, who are seeking entry qualification for tertiary studies; (ii) vocational studies, providing units of non-degree (certificate and diploma) programs through the extension mode; (iii) degree studies, providing units of degree programs through the extension mode; and (iv) continuing education studies, which are short vocational skills programs (for example, computer skills, bookkeeping, and languages) through normal class work.
 
 - 206. Total enrollment in credit programs (the first three categories above), measured by student semester units, grew by about 65 percent from an average of 698 in 1995 to 1,155 in 1997.  In 1997 about 73 percent of student semester unit enrollments were in preliminary and foundation studies; the distribution among individual study categories was foundation, 48 percent; preliminary, 25 percent; degree, 23 percent; and vocational, 4 percent.  In 1997 continuing education was offered in a total of 22 courses in one or more of three terms at USPEC and in 9 courses at the Santo sub-center. Average student term course enrollment in continuing education was 115 and 74 at the two centers, respectively.  In 1998 USPEC student fees (per unit semester or per course term) for the various study programs were as follows: preliminary and foundation, VT 15,000; vocational, about VT 7,000; degree, VT 18,000; and continuing education, between about VT 6,500 and VT 12,000.
 
@@ -3828,17 +4046,17 @@ Education Master Plan
 
 2000 - 2010
 
-- 208. In 1998 VCCI had about 3,500 members, about 75 percent of whom were niVanuatu operating small businesses.  The Chamber's policy is guided by a council with appointed members representing business and industry sectors.  Port Vila operations are managed by a General Manager and six other permanent staff, including a Training Coordinator.  Funding for the Vanuatu Chamber of Commerce and Industry is provided from a levy on business licenses and business turnover tax.  One half of VCCI's funding is allocated to the provision of training that usually is provided free of charge to members.  In 1997 the Chamber sponsored a building contractors course (in Port Vila and three regional centers), a cooking and management course in support of the Vanuatu Island Bungalow Association (in Port Vila and five regional centers), and a leather craft workshop (in Port Vila and Luganville).
+- 208. In 1998 VCCI had about 3,500 members, about 75 percent of whom were ni-Vanuatu operating small businesses.  The Chamber's policy is guided by a council with appointed members representing business and industry sectors.  Port Vila operations are managed by a General Manager and six other permanent staff, including a Training Coordinator.  Funding for the Vanuatu Chamber of Commerce and Industry is provided from a levy on business licenses and business turnover tax.  One half of VCCI's funding is allocated to the provision of training that usually is provided free of charge to members.  In 1997 the Chamber sponsored a building contractors course (in Port Vila and three regional centers), a cooking and management course in support of the Vanuatu Island Bungalow Association (in Port Vila and five regional centers), and a leather craft workshop (in Port Vila and Luganville).
 
-###### 209. T raining Organizations in the Private Sector.
+###### 209. Training Organizations in the Private Sector.
 Opportunities for private training organizations are limited to the urban commercial centers of Port Vila and Luganville and to the most saleable training products aimed at the job market.  It is understood that only two private training organizations operated in July 1998.  Both offered a range of commerce-related programs with an emphasis on business, management, and office skills, particularly computing skills.
 
 ###### 210. Training in Private Sector Urban Enterprises.
 Representatives of small and large enterprises want potential employees graduating from the general education system to have good literacy and numeracy skills.  Industrial and commercial enterprises accept INTV graduates of trades and other craft-level programs as reasonably well skilled but requiring further training.  Large enterprises are few in Vanuatu; the largest and second-largest employ about 200 and 120 staff, respectively.  Some of the large enterprises that required professional and sub-professional level staff indicate that they make their own arrangements at their own expense to train selected staff at overseas tertiary institutions.   All enterprises canvassed indicated that they conducted their own in-house training programs, ranging from informal apprenticeship-type training in small enterprises to structured staff development programs in larger enterprises.
 
-##### TVET Scope and Enrollment
+##### E. TVET Scope and Enrollment
 
-- 211. An attempt was made to quantify the scope of technical and vocational education and training in the country ⎯ that is, measuring how many agencies and institutions provide what kinds of training at what levels to how many people.  Because of the lack of data available from many training agencies, the differences in available data, and variations in the courses offered, only a rough estimate of the above measures can be provided.  Attachment E [ ATT. C? ]shows a tabulation of the available data, along with many estimates.  They are summarized as follows.  The Ministry of Education, 11 other Government agencies, and other organizations provide TVET through about 70 institutions or training centers.  They train about 1,400 students enrolled in postsecondary pre-employment programs, from which about 440 students graduate each year. Post-primary pre-employment programs train about 2,650 students, graduating about 1,010 each year.  Continuing education programs, mostly short, post-employment upgrading courses, train about 1,170 students each year.
+- 211. An attempt was made to quantify the scope of technical and vocational education and training in the country ⎯ that is, measuring how many agencies and institutions provide what kinds of training at what levels to how many people.  Because of the lack of data available from many training agencies, the differences in available data, and variations in the courses offered, only a rough estimate of the above measures can be provided.  Attachment E [ ATT. C? ]shows a tabulation of the available data, along with many estimates.  They are summarized as follows.  The Ministry of Education, 11 other Government agencies, and other organizations provide TVET through about 70 institutions or training centers.  They train about 1,400 students enrolled in post-secondary pre-employment programs, from which about 440 students graduate each year. Post-primary pre-employment programs train about 2,650 students, graduating about 1,010 each year.  Continuing education programs, mostly short, post-employment upgrading courses, train about 1,170 students each year.
 
 107
 
@@ -3948,7 +4166,7 @@ school system in which about 38 percent of students are Francophone.  Although m
 ###### 223. Gender.
 In almost all forms of technical and vocational education and training, females are underrepresented.  For example, at the Vanuatu Teachers College, females account for 43 percent of the total; courses through the Training and Scholarships Coordinating Unit, 38 percent; at INTV, 36 percent; and at Rural Training Centers, 26 percent.  Reasons cited for the under representation include the relatively low incidence of girls in upper levels of general education, the reluctance of families to send their daughters to boarding institutions, the opportunity costs of providing education to girls, and traditional perceptions of the roles women should play in society and the workforce. While all institutions have gender equity policies, INTV, VRDTCA, and TSCU have put in place proactive programs to redress the imbalance.  Many NGOs and the Department of Cooperatives and Business Development also give high priority to the training of women.
 
-##### Quality of Education and Training
+##### B. Quality of Education and Training
 
 111
 
@@ -3995,7 +4213,7 @@ institutions such as INTV that receive substantial assistance have good and fair
 
 ##### D. Cost and Efficiency
 
-###### 231 . Cost and Financing.
+###### 231. Cost and Financing.
 The various forms of TVET have different cost-sharing arrangements, many not consistent with each other.  The Government meets the major costs associated with training its own staff.  Thus, no fees are charged public servants undertaking in-service or continuing education programs in Government training centers. In specialized pre-service programs, such as those for teachers or nurses, students are charged fees to defray costs; these fees are consistent with the Government's fee policy for general access to education above the level of basic education.  Non-government employees who are allowed enrollment in Government training centers pay fees.  At the highest level of TVET, that provided through TSCU, the Government meets the entire cost (although most funds are sourced from grant assistance).  This is true for both public servants and private students, and TSCU has no arrangements for either bonding or repayment.  The Government subsidizes the operation costs of two TVSSs and provides no support to eight others; in both cases, student fees and private interests contribute to revenue.  INTV is treated differently.  The Government meets about 80 percent of INTV's recurrent costs, and the balance comes mostly from student fee revenue.
 
 - 232. In the case of non-government TVET providers ⎯ Rural Training Centers, for example ⎯ the Government gives no direct assistance.  Their funding comes from a variety of sources including student fees, communities, churches, NGOs, private interests, foreign grants, and the RTC's income-generating activities.  RTCs that are full members of VRDTCA receive limited support from the Association for the cost of salaries. VRDTCA also provides advice and support to RTCs in pursuit of its long-term objective of making RTCs financially independent by generating their own funds through commercial activities integrated with training activities.  For example, RTCs might be commercially involved in manufacturing furniture, constructing and repairing buildings, repairing motor vehicles and engines, and growing and processing agricultural products. A few TVET providers ⎯ including Rural Training Centers, technical/vocational secondary schools, and INTV, which have suitable facilities, access to markets, and entrepreneurial management ⎯ now raise a relatively small amount of their funding requirements in such ways.
@@ -4056,6 +4274,8 @@ Education Master Plan
 
 2000 - 2010
 
+#### III. Development Plans
+
 ##### A. Introduction
 
 ###### 241. Prospective Socioeconomic Development.
@@ -4068,8 +4288,6 @@ TVET development in Vanuatu should be seen in the context of the country's socio
 - 244. Surveyed trends in employment from 1982 to 1995 indicated the following: (i) at about 44 percent, growth in employment exceeded the estimated 34 percent growth in population; (ii) growth in private sector employment was 73 percent compared to growth of 49 percent in the public sector; and (iii) within the private sector, employment growth was 406 percent higher than population growth in agriculture, forestry, fishing, and, mines; in construction, 260 percent; in industry, water, and electricity, 119 percent; in hotels, restaurants, bars, and leisure, 109 percent; and in transport and communications, 63 percent.
 
 - 245. The 1995 survey canvassed employers' opinions on training and most, about 64 percent, said they arranged either in-service or external training for their employees. Employers emphasized their need for higher general education standards in literacy and numeracy in potential employees.  With respect to specific vocational training requirements, employers indicated shortages of the following: basic office skills including computing skills; business skills including management skills; trades skills (for example, mechanical, electrical, plumbing, and carpentry); skills for hotels and restaurants; and advanced professional skills.  The above data must be considered in the light of
-
-#### III.  Development Plans
 
 116
 
@@ -4093,7 +4311,7 @@ Changes introduced to the general education system through the Master Plan will 
 ###### 248. TVET in National Development.
 The current TVET system has grown in a piecemeal fashion with its component parts established for specific and unrelated purposes.  Under existing management arrangements, the substantial but fragmented resources of TVET are used inefficiently.  They are not monitored or regulated effectively and do not necessarily respond to Vanuatu's manpower development needs. Proposals for TVET development outlined below aim to redress these problems and enable the TVET system to make a substantial contribution to the county's social and economic development.
 
-##### Rural Vocational Training for School Leavers
+##### B. Rural Vocational Training for School Leavers
 
 117
 
@@ -4135,10 +4353,10 @@ The Government will restructure the private technical/vocational secondary schoo
 
 - 254. Children, including many from homes using basic technologies, will be better equipped to contribute to society and respond to change in society if they understand technological processes and applications and their relationship to a developing society. Modern programs for teaching technology are increasingly are being incorporated in general education streams in industrial countries.  They are based on helping students to understand and use technologies to solve practical problems.  This approach of analysis and problem solving contributes to both the practical and intellectual development of students.  The existing home economics and industrial arts subjects currently taught in some secondary schools have somewhat similar objectives but are considered inappropriate; the scope of technologies and processes covered are limited, the teaching approach methodology are outdated, and they inherently discriminate in terms of gender.
 
-###### 255 . Action 3:
+###### 255. Action 3:
 The Government will discontinue the industrial arts and home economics subjects currently taught in years 7 to 10.  In their place, it will (i) incorporate introductory technology concepts in years 7 and 8 of basic education; and (ii) introduce a comprehensive technology education program as a core subject for both boys and girls in years 9 to 12 of secondary schools.
 
-##### Vanuatu Maritime College
+##### D. Vanuatu Maritime College
 
 - 256. There are compelling economic reasons for establishing the proposed VMC. If the Government does not establish VMC, it will be in breach of its international obligation with respect to the International Maritime Organization and international seafaring standards (STCW).  This would expose Vanuatu to potentially severe economic consequences resulting from constraints on its domestic and international shipping.  If the proposed VMC is established, Vanuatu will gain the capacity to train engineering and deck officers to certification levels required for employment on international vessels.  On Vanuatu's international shipping registry, there are about 460 vessels, none crewed by ni-Vanuatu.  Placing ni-Vanuatu as crew on these vessels would create a substantial and continuing employment opportunity and significantly benefit those employed, and consequently the country as a whole.
 
@@ -4147,12 +4365,12 @@ The Government will establish the Vanuatu Maritime College on Santo, under the a
 
 ##### E. Agricultural Training
 
-- 258. Although about 80 percent of the population depends on mainly subsistencelevel agriculture for its livelihood, little training is aimed at improving agricultural productivity.  Tagabe Agricultural College has not trained agricultural field and extension officers for some years.  With basic education extended to Grade 8, most school leavers who become involved in subsistence agriculture in the future will have a higher level of general education.
+- 258. Although about 80 percent of the population depends on mainly subsistence-level agriculture for its livelihood, little training is aimed at improving agricultural productivity.  Tagabe Agricultural College has not trained agricultural field and extension officers for some years.  With basic education extended to Grade 8, most school leavers who become involved in subsistence agriculture in the future will have a higher level of general education.
 
 ###### 259. Action 5:
 The Government will review the need for agricultural training aimed at improving the productivity of the agricultural sector.
 
-##### National Institute of Technology of Vanuatu
+##### F. National Institute of Technology of Vanuatu
 
 119
 
@@ -4208,7 +4426,7 @@ The Government will investigate the options for rationalizing the provision of G
 ###### 269. Action 9:
 The Government will establish the proposed Vanuatu National Training Council as a statutory body under the Ministry of Education.  VNTC's mandate will be to provide the Government and others with advice on TVET with respect to costs and financing; the allocation of funds from foreign donors; training needs of the labor market; links between training providers and industry; the roles of and relationships between training providers; the accreditation of training providers and their courses; performance and skill standards; certification levels; and training regulations.
 
-##### TVET Management Structure of the Ministry of Education
+##### I. TVET Management Structure of the Ministry of Education
 
 - 270. The total management structure of the Ministry of Education is currently under review as part of the Comprehensive Reform Program, and the Government will adopt a new interim structure in the near future.  Any interim structure of the Ministry of Education will be designed to remove the current impediments to the planning and implementation of TVET.  Such impediments include insufficient recognition of the importance of TVET to national development; the large number of TVET providers and uncoordinated activities and functions; and the lack of importance given to the role of national TVET institutions.  The Government will change the structure and management of the Ministry of Education to give greater prominence to the role of technical and vocational education and training as part of the education system.
 
@@ -4244,7 +4462,7 @@ The Government will apply a training levy on business licenses to raise revenue 
 
 - 275. Approval and ratification of this Master Plan must be accompanied by the following policy and structural changes implied in the above actions.  Government legislation is required to establish VRDCTA and VNTC as statutory bodies and the funding arrangements for them (Actions 1, 9, and 11).  Approval of the Council of Ministers is required to establish the Vanuatu Maritime College (Action 4) and to rationalize Government's provision of post-secondary TVET (Action 8).  The Minister for Education and the Public Service Commission must ratify the restructuring of the Ministry of Education (Action 10) and the organizational change in INTV (Action 6). The Minister for Education needs to approve the new role proposed for technical/vocational secondary schools (Action 2), technology education in secondary education (Action 3), and development proposed for INTV (Action 7).  The proposed review of agricultural training (Action 5) would require the cooperation of the Minister for Agriculture.
 
-##### Implementation Measures
+##### B. Implementation Measures
 
 122
 
@@ -4292,7 +4510,7 @@ Education Master Plan
 - 279. It is proposed (Action 2) that the two private but Government-assisted technical/vocational secondary schools and the other eight private TVSSs be restructured as RTCs.  But being autonomous, they cannot be forced to comply.  For this proposal to be implemented, TVSS authorities must be convinced that the change will serve the best interests of their students and their schools.
 
 ###### 280. Technology Education in Secondary Education.
-The Government will introduce a comprehensive technology education program in years 9 to 12 of general education (Action 3).  The technology program would be holistic in its consideration of materials, processes, and systems applied to technologies such as food, graphics, design, information, and communications.  A workshop involving a New Zealand adviser and niVanuatu specialist teachers did preliminary work on this concept in 1996.  The workshop considered and endorsed a proposal to introduce a technology program in junior secondary education.  Because of New Zealand's experience with technology programs in its general education system and its earlier involvement in technology issues in Vanuatu, the Government will approach New Zealand to determine its interest in the program.  An integrated project provided through foreign assistance would support a survey of project requirements; design of the project and its implementation measures; development of curricula and resource materials; training or retraining of teachers; the building of new special-purpose technology practice rooms or the renovation of existing facilities; and technology teaching equipment.
+The Government will introduce a comprehensive technology education program in years 9 to 12 of general education (Action 3).  The technology program would be holistic in its consideration of materials, processes, and systems applied to technologies such as food, graphics, design, information, and communications.  A workshop involving a New Zealand adviser and ni-Vanuatu specialist teachers did preliminary work on this concept in 1996.  The workshop considered and endorsed a proposal to introduce a technology program in junior secondary education.  Because of New Zealand's experience with technology programs in its general education system and its earlier involvement in technology issues in Vanuatu, the Government will approach New Zealand to determine its interest in the program.  An integrated project provided through foreign assistance would support a survey of project requirements; design of the project and its implementation measures; development of curricula and resource materials; training or retraining of teachers; the building of new special-purpose technology practice rooms or the renovation of existing facilities; and technology teaching equipment.
 
 ###### 281. Vanuatu Maritime College.
 The Government will establish VMC in order to comply with STCW maritime training requirements and to enhance programs and facilities for fisheries training (Action 4).  It is understood that the proposal to establish VMC has been agreed to by the Government agencies involved and a submission to the Council of Ministers has been made and awaits approval.  An issue being discussed is what Government ministry should be responsible for VMC.  As may be noted from Action 4, and consistent with other actions aimed at making the Ministry of Education primarily responsible for post-secondary TVET in the country, it is proposed that the Ministry of Education should be responsible for VMC.
@@ -4401,6 +4619,8 @@ Education Master Plan
 
 2000 - 2010
 
+#### II.  INTV Facilities
+
 - General Classrooms (18)
 
 - Laboratories (2)
@@ -4425,17 +4645,17 @@ Education Master Plan
 
 - Other (3) comprising 2 Sports Grounds and 1 Covered Playground
 
-·
+•
 
-#### II.  INTV Facilities
+#### III.  INTV Budget, 1998
 
 Classification | Budget (VT)
 --- | ---
-Personnel
+Personnel |
 Paid by Government | 27,626,223
 Other | 9,538,444
 Subtotal | 37,164,667
-Non-Personnel
+Non-Personnel |
 Administrative | 3,658,600
 Educational Expenses | 8,000,000
 Small Equipment | 3,350,000
@@ -4446,11 +4666,7 @@ Development | 11,017,535
 Subtotal | 34,877,282
 Total | 72,041,949
 
-#### III.  INTV Budget, 1998
-
-Source:
-
-INTV records
+Source: INTV records
 
 128
 
@@ -4510,28 +4726,27 @@ Education Master Plan
 
 #### V.  INTV STAFF, 1997
 
-Classification | Staff
+Classification | Female | Ni-Vanuatu | Total
 --- | --- | --- | ---
-Female | Ni-Vanuatu | Total
-Non-Teaching Staff
+Non-Teaching Staff | | |
 Administration | 3 | 8 | 9
 Maintenance Staff | 1 | 4 | 4
 Subtotal | 4 | 12 | 13
-Teaching Staff
+Teaching Staff | | |
 History/Geography | 3 | 3 | 5
 Languages | 1 | 3 | 3
-Maths/Science | 1 | 2
+Maths/Science | | 1 | 2
 Secretarial | 3 | 3 | 4
 Accounting | 3 | 3 | 5
-Sales | 2 | 2
-Hospitality | 1 | 2
-Tourism | 1 | 1
-Masonry | 1 | 2
-Automotive Mechanics | 3 | 4
-General Mechanics | 1 | 1
-Electricity | 3 | 5
-Art | 1 | 1
-Physical Education | 3 | 5
+Sales | 2 | | 2
+Hospitality | | 1 | 2
+Tourism | 1 | | 1
+Masonry | | 1 | 2
+Automotive Mechanics | | 3 | 4
+General Mechanics | | 1 | 1
+Electricity | | 3 | 5
+Art | | 1 | 1
+Physical Education | | 3 | 5
 Subtotal | 13 | 26 | 42
 Grand Total | 17 | 38 | 55
 
@@ -4549,57 +4764,69 @@ Education Master Plan
 
 ### ATTACHMENT B: RURAL TRAINING CENTERS
 
-No Province | 98 VRDTCA Non 98 Affiliation 98 Staff | 98 Staff 97 Enrol 96 | Enrol Staff | 96 Enrol | 97
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Name of RTC, Island | Full Ass Exp | VR | Cm Pvt Ch | Fm Tot | Fm Tot Fm | Tot Fm Tot | Tot Fm | Tot | Fm
-Torba Province | Full | Cm | 0 | 24
-01 Losalava, Banks Group 02 Goodwill, Banks Group | Non | 13 | 0 | 2 | 4
-Sanma Province
-03 Novota, Santo 04 | Full Full | Ch 0 2 | 0 21 4 | 0 3 | 21 | 0
-Males, Santo Side River, Santo | Pvt | 1 9 | 4 0 24 | 0 3 2 | 10
-05 06 Maxime Garage, Santo | Exp | Non | Pvt | 0 | 1
-Penama Province Londua, W Ambae | Full | Ch | 3 5 | 3 0 1 1 3 | 6 32 0 6 6 16 12 82 | 36 | 3
-07 08 Vatuliu, W Ambae 09 Urembulu, W Ambae | Full | 0 1 | 42 10 18 8 13 57 | 18 71
-10 Torgil, E Ambae 11 Lowowai Manual, E | Full Full | Cm Non | Ch 1 | 5 4 | 0 12 | 0 5
-Ambae 12 Lunana, E Ambae 13 Ambanga, N Ambae | Full | Cm | Pvt | 29 | 0 16
-14 Narea, N Maewo 15 Pelsa, C Maewo 16 Angamarere, N | Full | Cm Cm | Pvt Pvt | 1 1 4 1 4 | 8 20 | 5 10 | 22 80 3 8
-17 Agape, N Pentecost | Exp Exp Exp | 2 10 | 2 | 45 127 | 0 3
-Pentecost 18 Balisa, N Pentecost | Full | Non | 8
-19 Harilau, N Pentecost
-Cm | 21
-Malampa Province 20 Norsup Station, Malekula | Ass | Cm | Pvt | 10 10
-21 Banton, Malekula 22 Marven, Malekula | Exp | 2 2 | 2 | 4
-23 Wora, N Malekula 24 Pektel, N Malekula 25 Morobian, N W Malekula 26 Abel, N E Malekula | Full Full Full | Cm Cm | 7 Pvt 7 | 5 7 2 5 | 24 1 32 0 0 | 4 12 7 27 0 28 4 19 0 6 | 2 | 5
-27 Ngaim Orsel, N E Malekula 28 Uluveu, S Malekula 29 Wuhuran, N Ambrym 30 Melwe, N Ambrym 31 Ceevee, W Ambrym | Full Ass Ass | Non Cm Cm | 10 | 24 | 1 5 | 3 2
-Ass | Cm Non | 7 | 4 2 | 3 8
-32 Rakonven, S E Ambrym | Ass Full | 5 | 1 | 8 4 29 14 36 | 9 23
-Shefa Province | Full Full | Cm Cm | Pvt Ch | 4 4 11 18 1
-33 Shefa Music, Port Vila 34 Taki, Port Vila 35 Nisu, Port Vila 36 Epule, N Efate 37 Emau, N Efate | Ass Full Ass Ass | Non | 1 | 5 | 36
-40 Senekae, Tongoa Tafea Province 41 Lorakau, Tanna 42 Tasaley, Tanna 43 Green Hill, N Tanna 44 Vetumit, S Erromango | Ass | Cm Cm | 6 10 | 42 4 13 4 10
-Grand Total | Pvt | 1
-Total | 20 9 | Cm | Pvt 11 4 17 | 6 78 95 | 33 1
-Exp | Cm Cm | 37 | 78 | 2 12 | 4 8 18 | 33 389
-7 22 | 376 376 | 58 58 | 0
-Total | Exp | 8 | 8 10 176 | 389
-7 | 25 675
-37
-675
-Distribution % | 44 45 | 3 3
-Full Full | Cm
-37
-38 Laklemer, S Efate | 2 9 | 23 9
-Cm Cm Pvt | 13 10 7
-Exp | 92
-10
-39 Tomali, S Epi
-12 30 | 16
-16 | 27 25 | 18 4 0 0
-15 4
-59 30 11 | 1
-20 | 16
-18
-No of RTCs Recorded | 15
-14
+No. | Name of RTC, Island | 98 VRDTCA | Non VR | 98 Affiliation | 98 Staff Fm | 98 Staff Tot | 98 Enrol Fm | 98 Enrol Tot | 97 Staff Fm | 97 Staff Tot | 97 Enrol Fm | 97 Enrol Tot | 96 Staff Fm | 96 Staff Tot | 96 Enrol Fm | 96 Enrol Tot
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Torba Province | | | | | | | | | | | | | | | |
+01 | Losalava, Banks Group | Full | | Cm | | | | | 0 | 2 | 4 | 24 | | | |
+02 | Goodwill, Banks Group | | Non | | | | | | | | | | | | 0 | 13
+Sanma Province | | | | | | | | | | | | | | | |
+03 | Novota, Santo | Full | | Ch | 0 | 2 | 0 | 21 | 0 | 3 | 0 | 21 | | | |
+04 | Males, Santo | Full | | Pvt | | | 4 | 4 | 0 | 3 | 2 | 10 | | | |
+05 | Side River, Santo | Exp | | Pvt | 1 | 9 | 0 | 24 | | | | | | | |
+06 | Maxime Garage, Santo | | Non | | | | | | | | | | | | |
+Penama Province | | | | | | | | | | | | | | | |
+07 | Londua, W Ambae | Full | | Ch | 0 | 3 | 0 | 42 | 1 | 3 | 6 | 32 | | | 3 | 36
+08 | Vatuliu, W Ambae | Full | | Cm | 1 | 5 | 10 | 18 | 0 | 1 | 0 | 6 | | | |
+09 | Urembulu, W Ambae | | Non | | | | | | 1 | 3 | 6 | 16 | | | 0 | 18
+10 | Torgil, E Ambae | Full | | Ch | 1 | 8 | 13 | 57 | | | 12 | 82 | | | 5 | 71
+11 | Lowowai Manual, E Ambae | Full | | Pvt | | | | | | | 0 | 12 | | | |
+12 | Lunana, E Ambae | Full | | Cm | 1 | 5 | 4 | 29 | | | 0 | 16 | | | |
+13 | Ambanga, N Ambae | Exp | | Cm | | | | | | | | | | | |
+14 | Narea, N Maewo | Full | | Cm | 1 | 4 | 8 | 20 | | | 5 | 10 | | | |
+15 | Pelsa, C Maewo | Exp | | Pvt | | | | | | | | | | | |
+16 | Angamarere, N Pentecost | Exp | | Pvt | 1 | 4 | | | | | | | | | |
+17 | Agape, N Pentecost | Full | | Cm | 2 | 10 | | | 2 | 8 | 45 | 127 | | | 22 | 80
+18 | Balisa, N Pentecost | | Non | | | | | | | | | | 0 | 3 | 3 | 8
+19 | Harilau, N Pentecost | Exp | | Cm | | | | | | | | | | | |
+Malampa Province | | | | | | | | | | | | | | | |
+20 | Norsup Station, Malekula | Ass | | Pvt | | | | | | | | | | | |
+21 | Banton, Malekula | Full | | Cm | | | | | 2 | 4 | | | | | |
+22 | Marven, Malekula | Full | | Cm | 2 | 5 | 7 | 24 | 1 | 5 | 4 | 12 | | | 10 | 21
+23 | Wora, N Malekula | Full | | Pvt | 2 | 7 | 7 | 32 | 0 | 1 | 7 | 27 | | | |
+24 | Pektel, N Malekula | | Non | | | | | | | | 0 | 28 | | | |
+25 | Morobian, N W Malekula | Full | | Cm | | | | | 0 | 5 | 4 | 19 | | | 3 | 10
+26 | Abel, N E Malekula | Ass | | Cm | 2 | 5 | 10 | 24 | | | 0 | 6 | | | 2 | 2
+27 | Ngaim Orsel, N E Malekula | Ass | | Cm | | | | | | | | | | | |
+28 | Uluveu, S Malekula | | Non | | | | | | | | | | | | 3 | 8
+29 | Wuhuran, N Ambrym | Ass | | Cm | | | | | | | | | | | |
+30 | Melwe, N Ambrym | Exp | | Cm | | | 7 | 23 | | | | | | | |
+31 | Ceevee, W Ambrym | Ass | | Pvt | | | | | | | | | | | |
+32 | Rakonven, S E Ambrym | Full | | Cm | 2 | 5 | 9 | 9 | 1 | 4 | 2 | 8 | | | 9 | 23
+Shefa Province | | | | | | | | | | | | | | | |
+33 | Shefa Music, Port Vila | Full | | Cm | | | | | | | 4 | 29 | | | |
+34 | Taki, Port Vila | Full | | Pvt | | | | | 1 | 4 | 14 | 36 | | | |
+35 | Nisu, Port Vila | Ass | | Cm | | | | | | | 4 | 12 | | | |
+36 | Epule, N Efate | Full | | Ch | | | | | | | 11 | 30 | | | 18 | 36
+37 | Emau, N Efate | Ass | | Cm | | | | | | | 18 | 42 | | | |
+38 | Laklemer, S Efate | | Non | | | | | | | | 1 | 4 | | | 4 | 13
+39 | Tomali, S Epi | Ass | | Cm | | | | | | | 5 | 13 | | | 0 | 10
+40 | Senekae, Tongoa | Ass | | Pvt | | | | | | | 4 | 10 | | | 0 | 7
+Tafea Province | | | | | | | | | | | | | | | |
+41 | Lorakau, Tanna | Full | | Cm | 1 | 6 | 10 | 33 | 1 | 4 | 8 | 18 | | | |
+42 | Tasaley, Tanna | Exp | | Cm | | | | | | | | | | | |
+43 | Green Hill, N Tanna | Exp | | Pvt | | | | | | | | | | | |
+44 | Vetumit, S Erromango | Full | | Cm | | | 6 | 16 | 2 | 8 | 10 | 25 | | | 10 | 33
+Total | | Full 20; Ass 9; Exp 8 | 7 | Cm 22; Pvt 11; Ch 4 | 17 | 78 | 95 | 376 | 12 | 58 | 176 | 675 | 0 | 3 | 92 | 389
+Grand Total | | 37 | 7 | 37 | | 78 | | 376 | | 58 | | 675 | | 3 | | 389
+
+Total | 44 | 37
+--- | --- | ---
+Distribution % | Full 45; Ass 20; Exp 18; Non 16 | Cm 59; Pvt 30; Ch 11
+
+ | 98 Staff | 98 Enrol | 97 Staff | 97 Enrol | 96 Staff | 96 Enrol
+--- | --- | --- | --- | --- | --- | ---
+No of RTCs Recorded | 14 | 15 | 15 | 27 | 1 | 16
+Average per RTC | 6 | 25 | 4 | 25 | 3 | 24
 
 Source: VRDTCA Records.  Note: Most Data are Incomplete
 
@@ -4617,28 +4844,27 @@ Education Master Plan
 
 #### V.  INTV STAFF, 1997
 
-Classification | Staff
+Classification | Female | Ni-Vanuatu | Total
 --- | --- | --- | ---
-Female | Ni-Vanuatu | Total
-Non-Teaching Staff
+Non-Teaching Staff | | |
 Administration | 3 | 8 | 9
 Maintenance Staff | 1 | 4 | 4
 Subtotal | 4 | 12 | 13
-Teaching Staff
+Teaching Staff | | |
 History/Geography | 3 | 3 | 5
 Languages | 1 | 3 | 3
-Maths/Science | 1 | 2
+Maths/Science | | 1 | 2
 Secretarial | 3 | 3 | 4
 Accounting | 3 | 3 | 5
-Sales | 2 | 2
-Hospitality | 1 | 2
-Tourism | 1 | 1
-Masonry | 1 | 2
-Automotive Mechanics | 3 | 4
-General Mechanics | 1 | 1
-Electricity | 3 | 5
-Art | 1 | 1
-Physical Education | 3 | 5
+Sales | 2 | | 2
+Hospitality | | 1 | 2
+Tourism | 1 | | 1
+Masonry | | 1 | 2
+Automotive Mechanics | | 3 | 4
+General Mechanics | | 1 | 1
+Electricity | | 3 | 5
+Art | | 1 | 1
+Physical Education | | 3 | 5
 Subtotal | 13 | 26 | 42
 Grand Total | 17 | 38 | 55
 
@@ -4656,59 +4882,71 @@ Education Master Plan
 
 ### ATTACHMENT B: RURAL TRAINING CENTERS
 
-No Province | 98 VRDTCA Non 98 Affiliation 98 Staff | 98 Staff 97 Enrol 96 | Enrol Staff | 96 Enrol | 97
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Name of RTC, Island | Full Ass Exp | VR | Cm Pvt Ch | Fm Tot | Fm Tot Fm | Tot Fm Tot | Tot Fm | Tot | Fm
-Torba Province | Full | Cm | 0 | 24
-01 Losalava, Banks Group 02 Goodwill, Banks Group | Non | 13 | 0 | 2 | 4
-Sanma Province
-03 Novota, Santo 04 | Full Full | Ch 0 2 | 0 21 4 | 0 3 | 21 | 0
-Males, Santo Side River, Santo | Pvt | 1 9 | 4 0 24 | 0 3 2 | 10
-05 06 Maxime Garage, Santo | Exp | Non | Pvt | 0 | 1
-Penama Province Londua, W Ambae | Full | Ch | 3 5 | 3 0 1 1 3 | 6 32 0 6 6 16 12 82 | 36 | 3
-07 08 Vatuliu, W Ambae 09 Urembulu, W Ambae | Full | 0 1 | 42 10 18 8 13 57 | 18 71
-10 Torgil, E Ambae 11 Lowowai Manual, E | Full Full | Cm Non | Ch 1 | 5 4 | 0 12 | 0 5
-Ambae 12 Lunana, E Ambae 13 Ambanga, N Ambae | Full | Cm | Pvt | 29 | 0 16
-14 Narea, N Maewo 15 Pelsa, C Maewo 16 Angamarere, N | Full | Cm Cm | Pvt Pvt | 1 1 4 1 4 | 8 20 | 5 10 | 22 80 3 8
-17 Agape, N Pentecost | Exp Exp Exp | 2 10 | 2 | 45 127 | 0 3
-Pentecost 18 Balisa, N Pentecost | Full | Non | 8
-19 Harilau, N Pentecost
-Cm | 21
-Malampa Province 20 Norsup Station, Malekula | Ass | Cm | Pvt | 10 10
-21 Banton, Malekula 22 Marven, Malekula | Exp | 2 2 | 2 | 4
-23 Wora, N Malekula 24 Pektel, N Malekula 25 Morobian, N W Malekula 26 Abel, N E Malekula | Full Full Full | Cm Cm | 7 Pvt 7 | 5 7 2 5 | 24 1 32 0 0 | 4 12 7 27 0 28 4 19 0 6 | 2 | 5
-27 Ngaim Orsel, N E Malekula 28 Uluveu, S Malekula 29 Wuhuran, N Ambrym 30 Melwe, N Ambrym 31 Ceevee, W Ambrym | Full Ass Ass | Non Cm Cm | 10 | 24 | 1 5 | 3 2
-Ass | Cm Non | 7 | 4 2 | 3 8
-32 Rakonven, S E Ambrym | Ass Full | 5 | 1 | 8 4 29 14 36 | 9 23
-Shefa Province | Full Full | Cm Cm | Pvt Ch | 4 4 11 18 1
-33 Shefa Music, Port Vila 34 Taki, Port Vila 35 Nisu, Port Vila 36 Epule, N Efate 37 Emau, N Efate | Ass Full Ass Ass | Non | 1 | 5 | 36
-40 Senekae, Tongoa Tafea Province 41 Lorakau, Tanna 42 Tasaley, Tanna 43 Green Hill, N Tanna 44 Vetumit, S Erromango | Ass | Cm Cm | 6 10 | 42 4 13 4 10
-Grand Total | Pvt | 1
-Total | 20 9 | Cm | Pvt 11 4 17 | 6 78 95 | 33 1
-Exp | Cm Cm | 37 | 78 | 2 12 | 4 8 18 | 33 389
-7 22 | 376 376 | 58 58 | 0
-Total | Exp | 8 | 8 10 176 | 389
-7 | 25 675
-37
-675
-Distribution % | 44 45 | 3 3
-Full Full | Cm
-37
-38 Laklemer, S Efate | 2 9 | 23 9
-Cm Cm Pvt | 13 10 7
-Exp | 92
-10
-39 Tomali, S Epi
-12 30 | 16
-16 | 27 25 | 18 4 0 0
-15 4
-59 30 11 | 1
-20 | 16
-18
-No of RTCs Recorded | 15
-14
+No. | Name of RTC, Island | 98 VRDTCA | Non VR | 98 Affiliation | 98 Staff Fm | 98 Staff Tot | 98 Enrol Fm | 98 Enrol Tot | 97 Staff Fm | 97 Staff Tot | 97 Enrol Fm | 97 Enrol Tot | 96 Staff Fm | 96 Staff Tot | 96 Enrol Fm | 96 Enrol Tot
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Torba Province | | | | | | | | | | | | | | | |
+01 | Losalava, Banks Group | Full | | Cm | | | | | 0 | 2 | 4 | 24 | | | |
+02 | Goodwill, Banks Group | | Non | | | | | | | | | | | | 0 | 13
+Sanma Province | | | | | | | | | | | | | | | |
+03 | Novota, Santo | Full | | Ch | 0 | 2 | 0 | 21 | 0 | 3 | 0 | 21 | | | |
+04 | Males, Santo | Full | | Pvt | | | 4 | 4 | 0 | 3 | 2 | 10 | | | |
+05 | Side River, Santo | Exp | | Pvt | 1 | 9 | 0 | 24 | | | | | | | |
+06 | Maxime Garage, Santo | | Non | | | | | | | | | | | | |
+Penama Province | | | | | | | | | | | | | | | |
+07 | Londua, W Ambae | Full | | Ch | 0 | 3 | 0 | 42 | 1 | 3 | 6 | 32 | | | 3 | 36
+08 | Vatuliu, W Ambae | Full | | Cm | 1 | 5 | 10 | 18 | 0 | 1 | 0 | 6 | | | |
+09 | Urembulu, W Ambae | | Non | | | | | | 1 | 3 | 6 | 16 | | | 0 | 18
+10 | Torgil, E Ambae | Full | | Ch | 1 | 8 | 13 | 57 | | | 12 | 82 | | | 5 | 71
+11 | Lowowai Manual, E Ambae | Full | | Pvt | | | | | | | 0 | 12 | | | |
+12 | Lunana, E Ambae | Full | | Cm | 1 | 5 | 4 | 29 | | | 0 | 16 | | | |
+13 | Ambanga, N Ambae | Exp | | Cm | | | | | | | | | | | |
+14 | Narea, N Maewo | Full | | Cm | 1 | 4 | 8 | 20 | | | 5 | 10 | | | |
+15 | Pelsa, C Maewo | Exp | | Pvt | | | | | | | | | | | |
+16 | Angamarere, N Pentecost | Exp | | Pvt | 1 | 4 | | | | | | | | | |
+17 | Agape, N Pentecost | Full | | Cm | 2 | 10 | | | 2 | 8 | 45 | 127 | | | 22 | 80
+18 | Balisa, N Pentecost | | Non | | | | | | | | | | 0 | 3 | 3 | 8
+19 | Harilau, N Pentecost | Exp | | Cm | | | | | | | | | | | |
+Malampa Province | | | | | | | | | | | | | | | |
+20 | Norsup Station, Malekula | Ass | | Pvt | | | | | | | | | | | |
+21 | Banton, Malekula | Full | | Cm | | | | | 2 | 4 | | | | | |
+22 | Marven, Malekula | Full | | Cm | 2 | 5 | 7 | 24 | 1 | 5 | 4 | 12 | | | 10 | 21
+23 | Wora, N Malekula | Full | | Pvt | 2 | 7 | 7 | 32 | 0 | 1 | 7 | 27 | | | |
+24 | Pektel, N Malekula | | Non | | | | | | | | 0 | 28 | | | |
+25 | Morobian, N W Malekula | Full | | Cm | | | | | 0 | 5 | 4 | 19 | | | 3 | 10
+26 | Abel, N E Malekula | Ass | | Cm | 2 | 5 | 10 | 24 | | | 0 | 6 | | | 2 | 2
+27 | Ngaim Orsel, N E Malekula | Ass | | Cm | | | | | | | | | | | |
+28 | Uluveu, S Malekula | | Non | | | | | | | | | | | | 3 | 8
+29 | Wuhuran, N Ambrym | Ass | | Cm | | | | | | | | | | | |
+30 | Melwe, N Ambrym | Exp | | Cm | | | 7 | 23 | | | | | | | |
+31 | Ceevee, W Ambrym | Ass | | Pvt | | | | | | | | | | | |
+32 | Rakonven, S E Ambrym | Full | | Cm | 2 | 5 | 9 | 9 | 1 | 4 | 2 | 8 | | | 9 | 23
+Shefa Province | | | | | | | | | | | | | | | |
+33 | Shefa Music, Port Vila | Full | | Cm | | | | | | | 4 | 29 | | | |
+34 | Taki, Port Vila | Full | | Pvt | | | | | 1 | 4 | 14 | 36 | | | |
+35 | Nisu, Port Vila | Ass | | Cm | | | | | | | 4 | 12 | | | |
+36 | Epule, N Efate | Full | | Ch | | | | | | | 11 | 30 | | | 18 | 36
+37 | Emau, N Efate | Ass | | Cm | | | | | | | 18 | 42 | | | |
+38 | Laklemer, S Efate | | Non | | | | | | | | 1 | 4 | | | 4 | 13
+39 | Tomali, S Epi | Ass | | Cm | | | | | | | 5 | 13 | | | 0 | 10
+40 | Senekae, Tongoa | Ass | | Pvt | | | | | | | 4 | 10 | | | 0 | 7
+Tafea Province | | | | | | | | | | | | | | | |
+41 | Lorakau, Tanna | Full | | Cm | 1 | 6 | 10 | 33 | 1 | 4 | 8 | 18 | | | |
+42 | Tasaley, Tanna | Exp | | Cm | | | | | | | | | | | |
+43 | Green Hill, N Tanna | Exp | | Pvt | | | | | | | | | | | |
+44 | Vetumit, S Erromango | Full | | Cm | | | 6 | 16 | 2 | 8 | 10 | 25 | | | 10 | 33
+Total | | Full 20; Ass 9; Exp 8 | 7 | Cm 22; Pvt 11; Ch 4 | 17 | 78 | 95 | 376 | 12 | 58 | 176 | 675 | 0 | 3 | 92 | 389
+Grand Total | | 37 | 7 | 37 | | 78 | | 376 | | 58 | | 675 | | 3 | | 389
 
-Source: VRDTCA Records.  Note: Most Data are Incomplete Notes: Enrol means enrollment; grads means graduates; na means not available; pw means per week; avg means average; est means estimate. See abbreviation list at the beginning of this annex for names of institutions. Source: Training institutions and World Bank estimates
+Total | 44 | 37
+--- | --- | ---
+Distribution % | Full 45; Ass 20; Exp 18; Non 16 | Cm 59; Pvt 30; Ch 11
+
+ | 98 Staff | 98 Enrol | 97 Staff | 97 Enrol | 96 Staff | 96 Enrol
+--- | --- | --- | --- | --- | --- | ---
+No of RTCs Recorded | 14 | 15 | 15 | 27 | 1 | 16
+Average per RTC | 6 | 25 | 4 | 25 | 3 | 24
+
+Source: VRDTCA Records.  Note: Most Data are Incomplete
 
 133
 
@@ -4722,31 +4960,30 @@ Education Master Plan
 
 2000 - 2010
 
-Training Center | No. | Post-secondary | Post-primary | In-Service/Continuing Education/Other | Course/ Comments
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Staff | Enrol | Grads | Staff | Enrol | Grads | Staff | Enrol | Grads
-Ministry of Education
-INTV | 1 | 45 | 461 | 200 | 2 yrs full time (1998)
-VTC | 1 | 23 | 172 | 65 | 2 yrs full time (1998)
-TVSS | 2 | 14 | 350 | 88 | 3 yrs full time (estimate)
-TSCU | 1 | na | 328 | 67 | mostly 3 yrs full time (1997)
-Subtotal | 5 | 68 | 961 | 332 | 14 | 350 | 88
-Other Ministries
-GTC | 1 | 12 | 100 | 100 | avg 10 days (estimate)
-FSTU | 1 | 5 | 40 | 18 | 2 yrs x 10 hrs pw (1998)
-DCBD | na | 29 | 350 | 350 | 23 x 5 day courses (1996)
-RSTP | na | 7 | 100 | 100 | short courses (estimate)
-FTC | 1 | 6 | 70 | 70 | 2 - 4 week courses (1997)
-MTS | 1 | 2 | 74 | 74 | various
-TAC | 1 | not operational
-PTC | 1 | 13 | 25 | 25 | (estimate 1998)
-NTS | 1 | 40 | 20 | (estimate) staff not known
-MTC | 1 | na | 20 | 20 | various short courses
-TTCU | 1 | 20 | 20 | (estimate 1998) staff not known
-Project- Sponsored | na | na | 30 | 10 | na | 60 | 60 | (estimate)
-Subtotal | 9 | 13 | 95 | 55 | 7 | 100 | 100 | 54 | 734 | 712
-
 ### ATTACHMENT C: SCOPE OF TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING
+
+Training Center | No. | Post-secondary Staff | Post-secondary Enrol | Post-secondary Grads | Post-primary Staff | Post-primary Enrol | Post-primary Grads | In-Service/Continuing Education/Other Staff | In-Service/Continuing Education/Other Enrol | In-Service/Continuing Education/Other Grads | Course/Comments
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Ministry of Education | | | | | | | | | | |
+INTV | 1 | 45 | 461 | 200 | | | | | | | 2 yrs full time (1998)
+VTC | 1 | 23 | 172 | 65 | | | | | | | 2 yrs full time (1998)
+TVSS | 2 | | | | 14 | 350 | 88 | | | | 3 yrs full time (estimate)
+TSCU | 1 | na | 328 | 67 | | | | | | | mostly 3 yrs full time (1997)
+Subtotal | 5 | 68 | 961 | 332 | 14 | 350 | 88 | | | |
+Other Ministries | | | | | | | | | | |
+GTC | 1 | | | | | | | 12 | 100 | 100 | avg 10 days (estimate)
+FSTU | 1 | | | | | | | 5 | 40 | 18 | 2 yrs x 10 hrs pw (1998)
+DCBD | na | | | | | | | 29 | 350 | 350 | 23 x 5 day courses (1996)
+RSTP | na | | | | 7 | 100 | 100 | | | | short courses (estimate)
+FTC | 1 | | | | | | | 6 | 70 | 70 | 2–4 week courses (1997)
+MTS | 1 | | | | | | | 2 | 74 | 74 | various
+TAC | 1 | | | | | | | | | | not operational
+PTC | 1 | 13 | 25 | 25 | | | | | | | (estimate 1998)
+NTS | 1 | | 40 | 20 | | | | | | | (estimate) staff not known
+MTC | 1 | | | | | | | na | 20 | 20 | various short courses
+TTCU | 1 | | | | | | | | 20 | 20 | (estimate 1998) staff not known
+Project-Sponsored | na | na | 30 | 10 | | | | na | 60 | 60 | (estimate)
+Subtotal | 9 | 13 | 95 | 55 | 7 | 100 | 100 | 54 | 734 | 712 |
 
 134
 
@@ -4760,23 +4997,25 @@ Education Master Plan
 
 2000 - 2010
 
-Training Center | No. | Post-secondary | Post-primary | In-Service/Continuing Education/Other | Course/ Comments
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Staff | Enrol | Grads | Staff | Enrol | Grads | Staff | Enrol | Grads
-Non-government
-RTC | 44 | 176 | 1,100 | 550 | 2 yrs full time (estimate 1998)
-TVSS | 8 | 44 | 1,100 | 275 | 3 yrs full time (estimate 1998)
-Other | na | na | na | NGOs short courses
-Subtotal | 52 | 220 | 2,200 | 825
-Other
-USPEC (tertiary) | 1 | na | 346 | 50 | unit semester enrol (1997) (grads est)
-USPEC (continuing) | 1 | na | 189 | 189 | unit term enrol (1997)
-VCCI | na | 150 | 150 | 12 courses (1997) (enrol estimate)
-Private | 2 | na | 100 | 100 | short course (estimate)
-Subtotal | 4 | 346 | 50 | 439 | 439
-Total | 70 | 81 | 1,402 | 437 | 241 | 2,650 | 1,013 | 54 | 1,173 | 1,151
-
 SCOPE OF TVET (continued)
+
+Training Center | No. | Post-secondary Staff | Post-secondary Enrol | Post-secondary Grads | Post-primary Staff | Post-primary Enrol | Post-primary Grads | In-Service/Continuing Education/Other Staff | In-Service/Continuing Education/Other Enrol | In-Service/Continuing Education/Other Grads | Course/Comments
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Non-government | | | | | | | | | | |
+RTC | 44 | | | | 176 | 1,100 | 550 | | | | 2 yrs full time (estimate 1998)
+TVSS | 8 | | | | 44 | 1,100 | 275 | | | | 3 yrs full time (estimate 1998)
+Other | | | | | na | na | na | | | | NGOs short courses
+Subtotal | 52 | | | | 220 | 2,200 | 825 | | | |
+Other | | | | | | | | | | |
+USPEC (tertiary) | 1 | na | 346 | 50 | | | | | | | unit semester enrol (1997) (grads est)
+USPEC (continuing) | 1 | na | | | | | | | 189 | 189 | unit term enrol (1997)
+VCCI | na | | | | | | | | 150 | 150 | 12 courses (1997) (enrol estimate)
+Private | 2 | | | | | | | na | 100 | 100 | short course (estimate)
+Subtotal | 4 | | 346 | 50 | | | | | 439 | 439 |
+Total | 70 | 81 | 1,402 | 437 | 241 | 2,650 | 1,013 | 54 | 1,173 | 1,151 |
+
+Notes: Enrol means enrollment; grads means graduates; na means not available; pw means per week; avg means average; est means estimate. See abbreviation list at the beginning of this annex for names of institutions.
+Source: Training institutions and World Bank estimates
 
 ## Annex 4
 
@@ -4799,7 +5038,7 @@ Education Master Plan
 ###### 291. Distance Education for Grades 7 to 10.
 Currently Vanuatu has no system of distance education to provide an education program equivalent to that of junior secondary schools, Grades 7 to 10.  Creating such a system will be a difficult task presenting many organizational, curricular, and technological challenges.  Fortunately, a successful Melanesian model exists.
 
-###### 292 . Action 2:
+###### 292. Action 2:
 The Government will investigate the program of distance education offered for Grades 7 to 10 in Papua New Guinea as a potential model for the creation of a comparable program in Vanuatu.
 
 ###### 293. French Degree Courses by Satellite.
@@ -4824,15 +5063,15 @@ Education Master Plan
 
 2000 - 2010
 
-Port Vila | Luganvill e | TAFEA | Other | Withdraw n | Total
+Table 1:  USP Course Enrolment by Nature of Course and Location in the Second Semester of 1998
+
+Course | Port Vila | Luganville | TAFEA | Other | Withdrawn | Total
 --- | --- | --- | --- | --- | --- | ---
-Prelimina ry | 205 | 17 | 1 | 9 | 17 | 249
-Foundati on | 425 | 35 | 2 | 18 | 34 | 514
-Vocation al | 12 | 10 | 7 | 6 | 1 | 36
+Preliminary | 205 | 17 | 1 | 9 | 17 | 249
+Foundation | 425 | 35 | 2 | 18 | 34 | 514
+Vocational | 12 | 10 | 7 | 6 | 1 | 36
 Degree | 205 | 17 | 1 | 6 | 19 | 248
 Total | 847 | 79 | 11 | 39 | 71 | 1,047
-
-Table 1:  USP Course Enrolment by Nature of Course and Location in the Second Semester of 1998
 
 297. The great experience of USP in distance education, the quality of its staff and facilities, the considerable underutilization of its facilities, and the direct contribution that the Government of Vanuatu makes to the operating costs of the university are all arguments for the greater use of this resource.
 
@@ -4863,6 +5102,8 @@ Education Master Plan
 
 302. But the number of disabled students in school is only a small portion of the disabled population, as illustrated in the following table.
 
+Table 1:  Disabled Children in School by Province, 1998
+
 Province | No. of Disabled Children | No. in School | Percentage in School
 --- | --- | --- | ---
 Torba | 17 | 0 | 0
@@ -4872,8 +5113,6 @@ Malampa | 33 | 1 | 3
 Shefa | 69 | 17 | 24.6
 Tafea | 62 | 3 | 4.8
 Total | 271 | 35 | 12.9
-
-Table 1:  Disabled Children in School by Province, 1998
 
 138
 
@@ -4921,11 +5160,11 @@ Education Master Plan
 
 #### Contents
 
-- The Macroeconomy
+I.  The Macroeconomy
 
-- The Labor Market
+II.  The Labor Market
 
-- Employment Prospects
+III.  Employment Prospects
 
 References
 
@@ -4935,7 +5174,7 @@ References
 
 - 311. Economic development in Vanuatu has been irregular, and the country now has a segmented economy and segmented labor market.  The country has a relatively diversified, if small (in employment terms), modern market sector, whereas some 80 percent of the population is supported by traditional agriculture.  The modern sector is concentrated in the two urban areas, Port Vila and Luganville, and mainly in the former. The remainder of the country is almost entirely agriculture-based, and much of it lacks adequate infrastructure such as good transport and communication links.  The more remote areas even lack regular water supply and electricity.
 
-- 312. This annex provides background to the Master Plan on such issues related to Vanuatu's economy and labor market.  Any study of the labor market in Vanuatu is hindered by the lack of adequate, up-to-date data relating to employment and unemployment.  The latest available nationwide data stem from the last national census, undertaken in 1989.  Any data collected since that date is piecemeal and incomplete. Thus, available statistics have had to be supplemented by opinions and impressions gathered from leading labor market participants.  However, such views gathered locally did not differ significantly, and the outcome was a relatively clear and coherent picture of the labor market situation in the country, even if this cannot be substantiated by up-todate statistical data.  The detailed results from the 1999 census will not become available until 2000.
+- 312. This annex provides background to the Master Plan on such issues related to Vanuatu's economy and labor market.  Any study of the labor market in Vanuatu is hindered by the lack of adequate, up-to-date data relating to employment and unemployment.  The latest available nationwide data stem from the last national census, undertaken in 1989.  Any data collected since that date is piecemeal and incomplete. Thus, available statistics have had to be supplemented by opinions and impressions gathered from leading labor market participants.  However, such views gathered locally did not differ significantly, and the outcome was a relatively clear and coherent picture of the labor market situation in the country, even if this cannot be substantiated by up-to-date statistical data.  The detailed results from the 1999 census will not become available until 2000.
 
 140
 
@@ -4961,7 +5200,7 @@ Education Master Plan
 
 - 316. In 1998 the Government was predicting economic growth in real terms of 1 percent for 1998, 3 percent for 1999, and 4 percent per year for 2000 and thereafter.  The latter figures have to be seen as ambitious forecasts but they are not impossible: the 1998 budget points to a number of positive factors that could work in favor of the Vanuatu economy.  The Government is placing high hopes on a resumption of growth in tourism after the downturn during the first quarter of 1998.  Tourism is already the largest foreign exchange earner.  Additionally, the industrial sector should benefit from the construction of the new power station in Port Vila, and there should be a better climate for increased foreign investment.  The trade and current account balances are expected to worsen during 1998 and 1999 but to improve in 2000.
 
-##### 223. B. Structure of the Economy
+##### B. Structure of the Economy
 
 - 317. Table 1 gives the breakdown of GDP by kind of economic activity in constant prices over the years 1983 -97.  Such statistics should be regarded as the best estimates that are available, rather than as precise indicators.  Table 1 shows the major role of the services sector in the Vanuatu national economy, with 63.2 percent of total GDP in 1997; within services, the largest component related to wholesale and retail trade, with 30 percent.  Even though agriculture dominates the lives of the great majority of the population, these official figures show that it accounts for only 23.8 percent of GDP, with subsistence agriculture reaching only 9.3 percent.  However, it is widely believed that these figures significantly underestimate the agriculture sector.  The industrial sector is relatively small, totaling only 13 percent; this includes a manufacturing figure of just 6.2 percent.
 
@@ -4977,9 +5216,10 @@ Education Master Plan
 
 2000 - 2010
 
-1983 | 1997 | 1983 - 97
+Table 1: Gross Domestic Product by Kind of Economic Activity, 1983–97
+
+Activity | 1983 VT m | 1983 % of total | 1997 VT m, constant (1983) prices | 1997 % of total | 1983–97 % growth, constant prices
 --- | --- | --- | --- | --- | ---
-Activity | VT m | % of total | VT m, constant (1983) prices | % of total | % growth, constant prices
 Agriculture, forestry, and fishing | 2,590 | 25.7 | 3,618 | 23.8 | 39.7
 Copra | 645 | 6.4 | 792 | 5.2 | 22.8
 Cattle | 232 | 2.3 | 621 | 4.1 | 167.7
@@ -5001,9 +5241,7 @@ Real estate and other services | 599 | 5.9 | 886 | 5.8 | 47.9
 Government services | 1,393 | 13.8 | 1,786 | 11.8 | 28.2
 Less: imputed banking charges | 465 | 4.6 | 300 | 0.7 | -35.5
 Gross domestic product | 10,091 | 100.0 | 15,189 | 100.0 | 50.5
-Annual growth, % | 3
-
-Table 1: Gross Domestic Product by Kind of Economic Activity, 1983 -97
+Annual growth, % | | | 3 | | 
 
 Source: Statistics Office and Reserve Bank of Vanuatu, Quarterly Economic Review
 
@@ -5021,11 +5259,11 @@ Education Master Plan
 
 - 318. The table also shows relatively clear trends over this period (although these have been uneven from year to year), with overall economic growth of 50.5 percent in real terms.  The large services sector grew significantly, by 42.7 percent, although rather less than the economy as a whole.  The industry sector, which is small, grew much more rapidly over this period, by 155.3 percent: the manufacturing sector more than trebled in size and construction more than doubled.  These figures may be significant indicators for future development.   However, to repeat, all such figures must be treated with considerable caution.
 
-- 319. Agriculture grew by only 39.7 percent over these years, that is, more slowly than the economy as a whole.  However, cattle output more than doubled; and from these official figures, output from the fledgling forestry and logging sector apparently multiplied by a factor of more than 10, to record by far the largest percentage growth shown in the table, 1,100 percent.   However, in the words of a recent report, 'The figures for forestry and other commercial agriculture are not credible; there has not been an increase in the forestry sector of the magnitude displayed, and nor has there been a reduction in commercial agriculture.' 29
+- 319. Agriculture grew by only 39.7 percent over these years, that is, more slowly than the economy as a whole.  However, cattle output more than doubled; and from these official figures, output from the fledgling forestry and logging sector apparently multiplied by a factor of more than 10, to record by far the largest percentage growth shown in the table, 1,100 percent.  However, in the words of a recent report, “The figures for forestry and other commercial agriculture are not credible; there has not been an increase in the forestry sector of the magnitude displayed, and nor has there been a reduction in commercial agriculture.”29
 
-- 320. Overall, Table 1 shows a movement over time away from dependence on the effects of this trend (if continued) to be felt to a significant degree:
+- 320. Overall, Table 1 shows a movement over time away from dependence on agriculture, forestry, and fishing, but at rather a slow rate.  So it will take some years for the effects of this trend (if continued) to be felt to a significant degree:
 
-- agriculture, forestry, and fishing, but at rather a slow rate.  So it will take some years for 'Given that 80% of the population live in the rural areas in the mixed cash/subsistence sector and in a traditional environment with strong communal and cultural obligations, economic change is unlikely to be rapid.  The general level of education is low, skills are in short supply, and entrepreneurship is underdeveloped in a society where modern business practices are alien.  Change in business structure reflecting the incorporation of modern technology will be slow.' 30
+> “Given that 80% of the population live in the rural areas in the mixed cash/subsistence sector and in a traditional environment with strong communal and cultural obligations, economic change is unlikely to be rapid.  The general level of education is low, skills are in short supply, and entrepreneurship is underdeveloped in a society where modern business practices are alien.  Change in business structure reflecting the incorporation of modern technology will be slow.”30
 
 - 321. Table 2 gives the composition of GDP, year by year, from 1983 to 1998.  The figures at the foot of this table show that GDP per head in constant prices has moved rather little over this period, with the figure for 1998 being just less than that for 1985.
 
@@ -5045,13 +5283,15 @@ Education Master Plan
 
 [[START OF PAGE 147]]
 
-Sector | 1983 | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 | 1998
+Table 2: Gross Domestic Product, 1983–98, at 1983 prices, in Million Vatu
+
+Sector | 1983 | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 Forecast
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Agriculture, Fishing, Forestry | 2,590 | 2,779 | 2,722 | 2,486 | 2,358 | 2,195 | 2,317 | 2,904 | 2,815 | 2,694 | 2,988 | 3,045 | 3,196 | 3,415 | 3,618 | 3,726
 Copra | 645 | 844 | 703 | 727 | 651 | 598 | 476 | 850 | 545 | 530 | 544 | 524 | 583 | 753 | 792 | 847
 Cattle | 232 | 227 | 241 | 248 | 276 | 286 | 298 | 305 | 329 | 369 | 518 | 552 | 561 | 581 | 621 | 598
 Cocoa | 90 | 54 | 67 | 103 | 94 | 61 | 123 | 145 | 144 | 92 | 143 | 82 | 110 | 64 | 123 | 126
-Co ffee | 5 | 3 | 7 | 8 | 7 | 2 | 3 | 2 | 4 | 1 | 1 | 1 | 2 | 2 | 2 | 2
+Coffee | 5 | 3 | 7 | 8 | 7 | 2 | 3 | 2 | 4 | 1 | 1 | 1 | 2 | 2 | 2 | 2
 Other Commercial Agriculture | 598 | 515 | 543 | 257 | 88 | 121 | 119 | 116 | 134 | 139 | 143 | 141 | 127 | 138 | 130 | 138
 Subsistence Agriculture | 975 | 1,006 | 1,044 | 1,065 | 1,096 | 1,047 | 1,105 | 1,129 | 1,159 | 1,186 | 1,214 | 1,266 | 1,304 | 1,353 | 1,410 | 1,459
 Forestry and Logging | 45 | 129 | 118 | 78 | 147 | 80 | 192 | 356 | 499 | 377 | 424 | 477 | 510 | 525 | 540 | 556
@@ -5067,16 +5307,13 @@ Finance and Insurance | 819 | 772 | 967 | 1,285 | 757 | 1,064 | 1,062 | 1,119 | 
 Real Estate and Other Services | 599 | 444 | 685 | 708 | 727 | 705 | 784 | 788 | 792 | 757 | 805 | 834 | 867 | 875 | 886 | 887
 Government Services | 1,393 | 1,542 | 1,629 | 1,721 | 1,614 | 1,564 | 1,390 | 1,290 | 1,380 | 1,440 | 1,652 | 1,675 | 1,792 | 1,907 | 1,786 | 1,735
 Less: Imputed Banking Charges | 465 | 410 | 548 | 654 | 160 | 340 | 198 | 254 | 331 | 305 | 331 | 302 | 294 | 300 | 300 | 300
-Gross Domestic Product
-at Producers' Prices | 10,091 | 10,183 | 10,917 | 10,689 | 10,765 | 10,897 | 11,310 | 12,598 | 13,143 | 13,048 | 13,629 | 13,804 | 14,323 | 14,819 | 15,189 | 15,342
-GDP % growth | 0.91% | 7.22% | -2.09% | 0.71% | 1.22% | 3.79% | 11.38% | 4.33% | -0.72% | 4.45% | 1.28% | 3.76% | 3.46% | 2.50% | 1.01%
+Gross Domestic Product at Producers' Prices | 10,091 | 10,183 | 10,917 | 10,689 | 10,765 | 10,897 | 11,310 | 12,598 | 13,143 | 13,048 | 13,629 | 13,804 | 14,323 | 14,819 | 15,189 | 15,342
+GDP % growth | | 0.91% | 7.22% | -2.09% | 0.71% | 1.22% | 3.79% | 11.38% | 4.33% | -0.72% | 4.45% | 1.28% | 3.76% | 3.46% | 2.50% | 1.01%
 Population | 123,500 | 126,900 | 129,100 | 132,500 | 136,000 | 139,500 | 143,500 | 147,300 | 151,500 | 155,600 | 159,800 | 164,200 | 168,400 | 172,900 | 177,400 | 182,000
-Population % growth | 2.75% | 1.73% | 2.63% | 2.64% | 2.57% | 2.87% | 2.65% | 2.85% | 2.71% | 2.70% | 2.75% | 2.56% | 2.67% | 2.60% | 2.59%
+Population % growth | | 2.75% | 1.73% | 2.63% | 2.64% | 2.57% | 2.87% | 2.65% | 2.85% | 2.71% | 2.70% | 2.75% | 2.56% | 2.67% | 2.60% | 2.59%
 GDP per person, in 1983 Vatu | 81,709 | 80,241 | 84,565 | 80,672 | 79,157 | 78,115 | 78,815 | 85,523 | 86,751 | 83,856 | 85,288 | 84,068 | 85,051 | 85,706 | 85,620 | 84,297
 CPI, 1997/1983: | 2.063487 So, prices this much higher in 1995 than in 1983.
 1997 Vatu | 168,604 | 165,577 | 174,500 | 166,465 | 163,340 | 161,189 | 162,634 | 176,475 | 179,010 | 173,036 | 175,990 | 173,474 | 175,502 | 176,854 | 176,676 | 173,945
-
-Table 2: Gross Domestic Product, 1983 -98, at 1983 prices, in Million Vatu
 
 Source: National Planning Office: 1983-89, Statistical Indicators; 1990-95: National Statistics Office, unpublished tables.
 
@@ -5105,7 +5342,7 @@ The latest available comprehensive data relating to the labor market derive from
 
 - 323. In addition, many other people whose work relates directly or indirectly to agriculture are included under other categories ⎯ for example, under wholesale and retail in Table 3 and under elementary occupations in Table 4.  A conventional estimate is that at least 80 percent of the active population has work in or related to agriculture.  There is thus a gross imbalance between the employment sectors and contribution to GDP, primarily because the agricultural sector has low productivity, with much of it at subsistence level.
 
-- 324. Table 3 (number of workers by industry) shows that, after agriculture, the sector ranking next highest is community, social, and personal services, with 12 percent. No other category reaches double figures.  Numbers of females exceed males in agriculture, but in all other sectors their numbers are much smaller than for males, suggesting that it is much more difficult for females to enter paid employment in the modern economy.  Expatriates have their strongest concentration, in proportionate terms, in the financing, insurance, real estate, and business category (reflecting the offshorefinance business), but they are also working in other sectors of the modern economy.
+- 324. Table 3 (number of workers by industry) shows that, after agriculture, the sector ranking next highest is community, social, and personal services, with 12 percent. No other category reaches double figures.  Numbers of females exceed males in agriculture, but in all other sectors their numbers are much smaller than for males, suggesting that it is much more difficult for females to enter paid employment in the modern economy.  Expatriates have their strongest concentration, in proportionate terms, in the financing, insurance, real estate, and business category (reflecting the offshore-finance business), but they are also working in other sectors of the modern economy.
 
 - 325. Table 4 (number of workers by occupation) tells a similar story: the predominance of agriculture, females concentrated mainly in agricultural work, and expatriates ('other') mainly classified under the legislators, senior officials, and managers category.
 
@@ -5125,22 +5362,22 @@ The latest available comprehensive data relating to the labor market derive from
 
 [[START OF PAGE 151]]
 
-Ni-Vanuatu | Other | Total | Ni-
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Industry | Male | Female | Total | Male | Female | Total | Male | Female | Total | % | Vanuatu % of Total
-Agriculture, hunting, forestry, and fishing | 24,737 | 24,813 | 49,550 | 122 | 138 | 260 | 24,859 | 24,951 | 49,810 | 74 | 99
-Mining and quarrying | 1 | - | 1 | - | - | - | 1 | - | 1 | 0 | 100
-Manufacturing | 652 | 157 | 809 | 59 | 24 | 83 | 711 | 181 | 892 | 1 | 91
-Electricity, gas, and water | 92 | 8 | 100 | 9 | - | 9 | 101 | 8 | 109 | 0 | 92
-Construction | 1,170 | 20 | 1,190 | 108 | 4 | 112 | 1,278 | 24 | 1,302 | 2 | 91
-Wholesale & retail, restaurants, and hotels | 1,576 | 835 | 2,411 | 199 | 103 | 302 | 1,775 | 938 | 2,713 | 4 | 89
-Transport, storage, and communications | 892 | 86 | 978 | 37 | 16 | 53 | 929 | 102 | 1,031 | 2 | 95
-Financing, insurance, real estate, business | 265 | 231 | 496 | 104 | 46 | 150 | 369 | 277 | 646 | 1 | 77
-Community, social, and personal services | 4,466 | 2,892 | 7,358 | 361 | 173 | 534 | 4,827 | 3,065 | 7,892 | 12 | 93
-Not stated | 1,060 | 1,412 | 2,472 | 43 | 46 | 89 | 1,103 | 1,458 | 2,561 | 4 | 97
-Total | 34,911 | 30,454 | 65,365 | 1,042 | 550 | 1,592 | 35,953 | 31,004 | 66,957 | 100 | 98
+Table 3: Economically Active Residents by Ethnicity, Sex, and Industry, 1989
 
-Table 3:  Economically Active Residents by Ethnicity, Sex, and Industry, 1989
+|  | Ni-Vanuatu |  |  | Other |  |  | Total |  |  | Ni-Vanuatu |  |
+| Industry | Male | Female | Total | Male | Female | Total | Male | Female | Total | % | % of Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Agriculture, hunting, forestry, and fishing | 24,737 | 24,813 | 49,550 | 122 | 138 | 260 | 24,859 | 24,951 | 49,810 | 74 | 99 |
+| Mining and quarrying | 1 | - | 1 | - | - | - | 1 | - | 1 | 0 | 100 |
+| Manufacturing | 652 | 157 | 809 | 59 | 24 | 83 | 711 | 181 | 892 | 1 | 91 |
+| Electricity, gas, and water | 92 | 8 | 100 | 9 | - | 9 | 101 | 8 | 109 | 0 | 92 |
+| Construction | 1,170 | 20 | 1,190 | 108 | 4 | 112 | 1,278 | 24 | 1,302 | 2 | 91 |
+| Wholesale & retail, restaurants, and hotels | 1,576 | 835 | 2,411 | 199 | 103 | 302 | 1,775 | 938 | 2,713 | 4 | 89 |
+| Transport, storage, and communications | 892 | 86 | 978 | 37 | 16 | 53 | 929 | 102 | 1,031 | 2 | 95 |
+| Financing, insurance, real estate, business | 265 | 231 | 496 | 104 | 46 | 150 | 369 | 277 | 646 | 1 | 77 |
+| Community, social, and personal services | 4,466 | 2,892 | 7,358 | 361 | 173 | 534 | 4,827 | 3,065 | 7,892 | 12 | 93 |
+| Not stated | 1,060 | 1,412 | 2,472 | 43 | 46 | 89 | 1,103 | 1,458 | 2,561 | 4 | 97 |
+| Total | 34,911 | 30,454 | 65,365 | 1,042 | 550 | 1,592 | 35,953 | 31,004 | 66,957 | 100 | 98 |
 
 Source: Vanuatu National Population Census, May 1989, Main Report, Statistics Office
 
@@ -5148,37 +5385,24 @@ Source: Vanuatu National Population Census, May 1989, Main Report, Statistics Of
 
 [[START OF PAGE 152]]
 
-Ni-Vanuatu | Other | Ni-Vanuatu
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Occupation | Male | Female | Total | Male | Female | Total | Male | Female | Total | % | % of Total
-Legislators, senior officials, and managers | 697 | 60 | 58.4
-757 | 428 | 111 | 539 | 1,125 | 171 | 1,296 | 2
-Professionals | 1,155 | 992 | 86.2
-2,147 | 220 | 123 | 343 | 1,375 | 1,115 | 2,490 | 4
-Technicians and associate | 955 | 172 | 89.5
-professionals | 1,127 | 100 | 32 | 132 | 1,055 | 204 | 1,259 | 2
-Clerks | 644 | 817 | 95.5
-1,461 | 17 | 52 | 69 | 661 | 869 | 1,530 | 2
-Service, shop, and market sales | 1,493 | 671 | 96.2
-workers | 2,164 | 43 | 43 | 86 | 1,536 | 714 | 2,250 | 3
-Skilled agricultural and fishery workers | 21,867 | 23,520 | 99.6
-Craft and related workers | 45,387 | 50 | 127 | 177 | 21,917 | 23,647 | 45,564 | 68
-3,269 | 586 | 96.3
-3,855 | 133 | 14 | 147 | 3,402 | 600 | 4,002 | 6 | 98.9
-Plant & machine operators and assemblers | 1,166 | 45 | 1,180 | 45 | 1,225 | 2
-Elementary | 1,204 | 1,211 | 14 | - | 14
-occupations | 1,532 | 2,736 | 99.1
-Occupations not stated | 13 | 11 | 24 | 1,217 | 1,543 | 2,760 | 4
-2,461 | 2,059 | 4,581 | 7 | 98.7
-4,520 | 24 | 37 | 61 | 2,485 | 2,096 | 97.6
-Total | 34,911 | 30,454
-65,365 | 1,042 | 550 | 1,592 | 35,953 | 31,004 | 66,957 | 100
-
 Table 4: Economically Active Residents by Ethnicity, Sex and Occupation, 1989
 
-Source:
+|  | Ni-Vanuatu |  |  | Other |  |  | Total |  |  | Ni-Vanuatu |  |
+| Occupation | Male | Female | Total | Male | Female | Total | Male | Female | Total | % | % of Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Legislators, senior officials, and managers | 697 | 60 | 757 | 428 | 111 | 539 | 1,125 | 171 | 1,296 | 2 | 58.4 |
+| Professionals | 1,155 | 992 | 2,147 | 220 | 123 | 343 | 1,375 | 1,115 | 2,490 | 4 | 86.2 |
+| Technicians and associate professionals | 955 | 172 | 1,127 | 100 | 32 | 132 | 1,055 | 204 | 1,259 | 2 | 89.5 |
+| Clerks | 644 | 817 | 1,461 | 17 | 52 | 69 | 661 | 869 | 1,530 | 2 | 95.5 |
+| Service, shop, and market sales workers | 1,493 | 671 | 2,164 | 43 | 43 | 86 | 1,536 | 714 | 2,250 | 3 | 96.2 |
+| Skilled agricultural and fishery workers | 21,867 | 23,520 | 45,387 | 50 | 127 | 177 | 21,917 | 23,647 | 45,564 | 68 | 99.6 |
+| Craft and related workers | 3,269 | 586 | 3,855 | 133 | 14 | 147 | 3,402 | 600 | 4,002 | 6 | 96.3 |
+| Plant & machine operators and assemblers | 1,166 | 45 | 1,211 | 14 | - | 14 | 1,180 | 45 | 1,225 | 2 | 98.9 |
+| Elementary occupations | 1,204 | 1,532 | 2,736 | 13 | 11 | 24 | 1,217 | 1,543 | 2,760 | 4 | 99.1 |
+| Occupations not stated | 2,461 | 2,059 | 4,520 | 24 | 37 | 61 | 2,485 | 2,096 | 4,581 | 7 | 98.7 |
+| Total | 34,911 | 30,454 | 65,365 | 1,042 | 550 | 1,592 | 35,953 | 31,004 | 66,957 | 100 | 97.6 |
 
-Vanuatu National Population Census, May 1989, Main Report, Statistics Office
+Source: Vanuatu National Population Census, May 1989, Main Report, Statistics Office
 
 [[END OF PAGE 152]]
 
@@ -5190,20 +5414,30 @@ Education Master Plan
 
 2000 - 2010
 
-Table 5: Growth of Economically Active, 1979-89 Table 5: Growth of Economically Active, 1979-89
+Table 5: Growth of Economically Active, 1979-89
+Occupation Group | 1979 | 1989 | Increase No. | %
 --- | --- | --- | --- | ---
-Occupation Group Occupation Group | 1979 1979 | 1989 1989 | Increase No. Increase No. | % %
-Prof. Admin & Managerial Prof. Admin & Managerial | 2,721 2,721 | 4,171 4,171 | 1,450 1,450 | 53.3 53.3
-Clerical, Sales & Service Clerical, Sales & Service | 4,807 4,807 | 5,822 5,822 | 1,015 1,015 | 21.1 21.1
-Agriculture & Related Agriculture & Related | 39,145 39,145 | 46,187 46,187 | 7,042 7,042 | 18 18
-Trans., Production & Laborers Trans., Production & Laborers | 4,436 4,436 | 6,196 6,196 | 1,760 1,760 | 39.7 39.7
-Total Total | 51,109 51,109 | 62,376 62,376 | 11,267 11,267 | 22 22
-Source: Vanuatu National Population Census, May 1989, Main Report, Statistics Office Source: Vanuatu National Population Census, May 1989, Main Report, Statistics Office
+Prof. Admin & Managerial | 2,721 | 4,171 | 1,450 | 53.3
+Clerical, Sales & Service | 4,807 | 5,822 | 1,015 | 21.1
+Agriculture & Related | 39,145 | 46,187 | 7,042 | 18
+Trans., Production & Laborers | 4,436 | 6,196 | 1,760 | 39.7
+Total | 51,109 | 62,376 | 11,267 | 22
+Source: Vanuatu National Population Census, May 1989, Main Report, Statistics Office
+
+Table 5: Growth of Economically Active, 1979-89
+Occupation Group | 1979 | 1989 | Increase No. | %
+--- | --- | --- | --- | ---
+Prof. Admin & Managerial | 2,721 | 4,171 | 1,450 | 53.3
+Clerical, Sales & Service | 4,807 | 5,822 | 1,015 | 21.1
+Agriculture & Related | 39,145 | 46,187 | 7,042 | 18
+Trans., Production & Laborers | 4,436 | 6,196 | 1,760 | 39.7
+Total | 51,109 | 62,376 | 11,267 | 22
+Source: Vanuatu National Population Census, May 1989, Main Report, Statistics Office
 
 ###### 327. Survey Figures.
-More recent data relating to the labor market are scarce. However, an interesting if smaller-scale study of employment carried out for the National Planning Office in 1995 provides a number of useful insights into more recent labor market trends.  This study covered employers, both public sector and private sector, but did not extend to the non-monetary sector, including the large subsistence agriculture employment, nor to small enterprises without wage-earning employees.  Only employers were surveyed, not employees.  Responses were received from 189 employers, covering 6,859 employees.  The main trends to emerge from this survey are summarized in Table 6, which gives comparisons with previous similar surveys carried out in 1973 and 1982.  Unfortunately, the 1982 survey did not include employment in the public sector, and a figure for this has been estimated prorata (see the footnote to the table).
+More recent data relating to the labor market are scarce. However, an interesting if smaller-scale study of employment carried out for the National Planning Office in 1995 provides a number of useful insights into more recent labor market trends. This study covered employers, both public sector and private sector, but did not extend to the non-monetary sector, including the large subsistence agriculture employment, nor to small enterprises without wage-earning employees. Only employers were surveyed, not employees. Responses were received from 189 employers, covering 6,859 employees. The main trends to emerge from this survey are summarized in Table 6, which gives comparisons with previous similar surveys carried out in 1973 and 1982. Unfortunately, the 1982 survey did not include employment in the public sector, and a figure for this has been estimated pro-rata (see the footnote to the table).
 
-- 328. In Table 6, the survey figures relating to agriculture have to be treated with caution, since they do not include most employment in that sector. Overall, in the 1982 -95 period, total private sector employment covered by this survey rose by 73.3 percent, public sector employment rose by 49 percent, and total employment surveyed rose by 44.3 percent, all ahead of the estimated population growth of 33.5 percent for the same period.
+- 328. In Table 6, the survey figures relating to agriculture have to be treated with caution, since they do not include most employment in that sector. Overall, in the 1982−95 period, total private sector employment covered by this survey rose by 73.3 percent, public sector employment rose by 49 percent, and total employment surveyed rose by 44.3 percent, all ahead of the estimated population growth of 33.5 percent for the same period.
 
 147
 
@@ -5217,9 +5451,10 @@ Education Master Plan
 
 2000 - 2010
 
-Sector | Employees | Increase 1982-95, | %
+Table 6: Trends in Employment by Sector, Based on Survey of Employers, 1995
+
+Sector | Employees 1973 | Employees 1982 | Employees 1995 | Increase 1982-95, % | % 1995
 --- | --- | --- | --- | --- | ---
-1973 | 1982 | 1995 | % | 1995
 Agriculture, forestry, fishing, mines | 366 | 282 | 1,428 | 406.4 | 8.0
 Industry, water, electricity | 370 | 728 | 1,594 | 119.0 | 9.0
 Construction | 1,717 | 459 | 1,654 | 260.3 | 9.3
@@ -5231,15 +5466,13 @@ Private services (excl. domestics) | 158 | 1,324 | 818 | - 38.2 | 4.6
 Total private sector (excl. domestics) | 5,408 | 6,185 | 10,719 | 73.3 | 60.2
 Public sector and education | 3,140 | 4,753 | 7,084 | 49.0 | 39.8
 Total | 8,548 | 12,334 | 17,803 | 44.3 | 100.0
-Population growth (estimated) | 95,000 | 123,661 | 165,060 | 33.5
-
-Table 6: Trends in Employment by Sector, Based on Survey of Employers, 1995
+Population growth (estimated) | 95,000 | 123,661 | 165,060 | 33.5 |
 
 Source: Adapted from Ascot Holdings Ltd. (1995), Enquete Nationale sur l'Emploi, National Planning Office
 
 Note: The 1982 figures for Public Sector and Education, Total, and Population Growth were not shown in the original: they are estimates interpolated from the 1973 and 1995 figures, pro-rata.
 
-- 329. Of particular interest is the high rate of increase for the industry category, with employment more than doubling over the 1982 -95 period.  Over the same period the increase for construction is very high, but this does no more than take employment in that sector back to near its level for 1973.  Employment growth also exceeded estimated population growth in each of the following categories: hotels, restaurants, bars, and leisure; transport and communications; banking, insurance, and real estate; and private services.  Of the employment covered by the survey, 76.8 percent was in Port Vila, 14.5 percent in Luganville, and 8.7 percent in the remainder of the country.  Those percentages show how very uneven geographically is employment in the modern economy in Vanuatu.  There is very little, if any, on individual islands other than Efate and Espiritu Santo.
+- 329. Of particular interest is the high rate of increase for the industry category, with employment more than doubling over the 1982−95 period. Over the same period the increase for construction is very high, but this does no more than take employment in that sector back to near its level for 1973. Employment growth also exceeded estimated population growth in each of the following categories: hotels, restaurants, bars, and leisure; transport and communications; banking, insurance, and real estate; and private services. Of the employment covered by the survey, 76.8 percent was in Port Vila, 14.5 percent in Luganville, and 8.7 percent in the remainder of the country. Those percentages show how very uneven geographically is employment in the modern economy in Vanuatu. There is very little, if any, on individual islands other than Efate and Espiritu Santo.
 
 - 330. At the time of the survey, 1995, employers said that they had generally found the two previous years difficult, but overall they were optimistic that the following two years would give easier conditions for their economic activities.  A major focus of this survey was training.  Over 64 percent of the responding employers make arrangements for their employees to receive some form of training, whether internally (30.7 percent), externally (9.5 percent), or both (24.3 percent). Leaving aside the question of cost, the great majority of employers wish more training to be available, especially under the following headings: 32
 
@@ -5271,7 +5504,7 @@ Education Master Plan
 
 - Scholarships for advanced-level training, such as for air pilots, airport technicians, accounting specialists, and lawyers.
 
-##### Labor Market Needs and Problems
+##### C. Labor Market Needs and Problems
 
 149
 
@@ -5321,15 +5554,15 @@ any equivalent opportunities for girls.  If girls are to get paid work in the mo
 
 - 338. Previous reports have commented on labor costs in Vanuatu, which are high and which restrict the production of labor-intensive commodities produced in economies at a stage of development similar to Vanuatu's.  The main effect of high costs is to further restrict employment opportunities.  Major potential lies in the agricultural sector for employment generation.  Tourism and construction are likely to remain growth sectors in the economy; in these sectors, skills are in short supply and benefits will be derived from continued vocational training.  Localization ⎯ that is, the replacement of expatriate staff by indigenous ni-Vanuatu ⎯ has led to problems in the past and should proceed carefully.  As the Asian Development Bank noted,
 
-'The cost of labor in Vanuatu is high.  This has arisen from a variety of factors: the high subsistence wage, shortage of skilled labor, large reliance on expatriate labor, and a tax system which relies on trade taxes on consumption as the main source of revenue.  Policies to improve labor productivity will be medium to longer term, and include:
+“The cost of labor in Vanuatu is high. This has arisen from a variety of factors: the high subsistence wage, shortage of skilled labor, large reliance on expatriate labor, and a tax system which relies on trade taxes on consumption as the main source of revenue. Policies to improve labor productivity will be medium to longer term, and include:
 
 - sustained education expenditures to raise the overall level of skills and manpower;
 
 - short-term vocational training to upgrade and improve skills;
 
-- cautious implementation of localization that efficiently replaces high cost expatriate labor.  The recent rapid pace of localization has been counter productive and resulted in loss of efficiency;
+- cautious implementation of localization that efficiently replaces high cost expatriate labor. The recent rapid pace of localization has been counter productive and resulted in loss of efficiency;
 
-- tax reform to broaden the tax base, and reduce reliance on high rates of import duties on basic consumption items.' 36
+- tax reform to broaden the tax base, and reduce reliance on high rates of import duties on basic consumption items.”36
 
 > 36 Asian Development Bank 1997
 
@@ -5347,19 +5580,18 @@ Education Master Plan
 
 #### III.  Employment Prospects
 
-- 339. Vanuatu continues to have relatively high rates of population growth, even though these have fallen somewhat over time, and may now be falling further. The high annual population growth rate of 3.4 percent recorded at the 1979 census for the 1967 -79 period decreased to 2.4 percent for the years 1979 -89.  At the current growth rate, the present population of about 175,000 is estimated to reach around 239,000 by 2010.  It is estimated that the continued drift of population into the two main urban centers has resulted in annual growth rates approaching 6 percent for Port Vila and 3 percent for Luganville.
+- 339. Vanuatu continues to have relatively high rates of population growth, even though these have fallen somewhat over time, and may now be falling further. The high annual population growth rate of 3.4 percent recorded at the 1979 census for the 1967−79 period decreased to 2.4 percent for the years 1979−89. At the current growth rate, the present population of about 175,000 is estimated to reach around 239,000 by 2010. It is estimated that the continued drift of population into the two main urban centers has resulted in annual growth rates approaching 6 percent for Port Vila and 3 percent for Luganville.
 
-- 340. Reliable estimates of future job opportunities are hard to find.  One study suggested the following figures for employment and self-employment: 37
+- 340. Reliable estimates of future job opportunities are hard to find. One study suggested the following figures for employment and self-employment:37
 
-Year | Working Age | Economically | Wage | Self-
+Year | Working Age (14-60 years) | Economically Active | Wage Employment | Self-Employment
 --- | --- | --- | --- | ---
-(14-60 years) | Active | Employment | Employment
 1990/91 | 78,000 | 54,000 | 10,000 | 44,000
 2011 | 148,000 | 105,000 | 19,500 | 85,500
 
-These figures indicate that whereas the increase in the economically active population will have been of the order of 51,000 by 2011, the growth in wage employment will have been very slow, creating only 9,500 additional jobs.  The remaining 41,500 economically active people will have to seek various possibilities for self-employment.
+These figures indicate that whereas the increase in the economically active population will have been of the order of 51,000 by 2011, the growth in wage employment will have been very slow, creating only 9,500 additional jobs. The remaining 41,500 economically active people will have to seek various possibilities for self-employment.
 
-- 341. Another report indicated that if reforms on the lines of the Comprehensive Reform Program (CRP) are introduced and proceed, by the year 2005 job creation in certain economic sectors will greatly increase.  Notable among such sector categories are 'other commercial agriculture'; construction; and hotels and restaurants.  Each of them should, according to that scenario, see annual growth rates of at least 7.5 percent by 2000 and 10 percent by 2005.  Other economic sectors that would have growth rates at or close to 6 percent per year by 2005 include forestry and logging; electricity; wholesale and retail trade; transport and communication; and real estate. 38 Programs of skills training appropriate to all these sectors would have to become a priority.
+- 341. Another report indicated that if reforms on the lines of the Comprehensive Reform Program (CRP) are introduced and proceed, by the year 2005 job creation in certain economic sectors will greatly increase. Notable among such sector categories are “other commercial agriculture”; construction; and hotels and restaurants. Each of them should, according to that scenario, see annual growth rates of at least 7.5 percent by 2000 and 10 percent by 2005. Other economic sectors that would have growth rates at or close to 6 percent per year by 2005 include forestry and logging; electricity; wholesale and retail trade; transport and communication; and real estate.38 Programs of skills training appropriate to all these sectors would have to become a priority.
 
 - 342. The Comprehensive Reform Program attached much importance to improved labor market opportunities, especially for indigenous ni-Vanuatu.  The CRP saw that it was important that an improved business environment did not benefit only the existing commercial community, which was dominated by non-indigenous interests.  The most important thing was to bring more indigenous ni-Vanuatu successfully into the world of business.  Initially, this would mean promoting small and rural business development.  It would also mean encouraging larger businesses,
 
@@ -5383,7 +5615,7 @@ both foreign and local, to create employment and training opportunities, which w
 
 - 343. The obstacles to indigenous business development should not be underestimated: most ni-Vanuatu live in rural areas, where businesses are faced with logistical problems, high costs, and rudimentary infrastructure.  There are also cultural obstacles: society's values have evolved to support a communal-based way of life, and entrepreneurial undertakings are often discouraged.  Specific encouragement needs to be given to women, both for reasons of equity and because women have been found to be generally more successful in small business than men. 39
 
-'Education and Training:
+“Education and Training:
 
 There are three distinct issues under this heading:
 
@@ -5391,7 +5623,7 @@ First, for a productive labor force the general level of education must be raise
 
 Second, many more people must have technical skills which are of economic value, ranging from farming to refrigeration to computer science.
 
-Third, if ni-Vanuatu business development is to take place there must be more training in specific business skills: management, accountancy, marketing.' 40
+Third, if ni-Vanuatu business development is to take place there must be more training in specific business skills: management, accountancy, marketing.”40
 
 - 344. The above references make clear the close linkages between education reform, training, and the labor market.  A much improved labor market situation is essential for future economic growth and prosperity in Vanuatu.  Employers are unanimous in saying that they require young people leaving schools to have both higher levels of educational skills and more maturity if they are to improve their employment prospects.
 
@@ -5447,15 +5679,11 @@ Education Master Plan
 
 #### Contents
 
-- Pre-service Training: Vanuatu Teachers College
-
-- Teacher Training and Master Plan Reforms
-
-- In-service Training
-
-- The Teaching Force and Profession
-
-- Teacher Demand and Supply, 2000 -2010
+I. Pre-service Training: Vanuatu Teachers College
+II. Teacher Training and Master Plan Reforms
+III. In-service Training
+IV. The Teaching Force and Profession
+V. Teacher Demand and Supply, 2000−2010
 
 #### I.  Pre-service Training: Vanuatu Teachers College
 
@@ -5495,9 +5723,9 @@ The curricula for the Anglophone and Francophone primary teaching programs have 
 - 353. In principle, the content of all programs should conform to the national unified curriculum, and to a considerable extent this has happened.  When it has not, the discrepancy has one of two causes.  One cause is often that the College has not quickly taken up a changed curriculum originating in the Curriculum Development Center.  A second cause  is that the published summaries of what will be taught to VTC students have not clearly differentiated between extending students' general education in a subject discipline and the national curriculum.
 
 ###### 354. French Language Primary Program.
-The stated objectives of the VTC curriculum are to train teachers who know the contents of the national curricula and who are able to teach them effectively to students using appropriate psychological and pedagogic methods.  To do this, the College requires students to take modular formal courses in the subjects and proportions shown in Table 1.
+The stated objectives of the VTC curriculum are to train teachers who know the contents of the national curricula and who are able to teach them effectively to students using appropriate psychological and pedagogic methods. To do this, the College requires students to take modular formal courses in the subjects and proportions shown in Table 1.
 
-- 355. The small proportion of time devoted to Professional Studies is complemented by four periods of teaching practice over the two-year course.  These periods last five weeks each and redress the small allocation to Professional Studies. The only other variation from professional norms is the higher percentage of time
+Table 1: Percentage of Time Allocated to Subjects Taught at VTC: Francophone Primary Program
 
 Subject | Percentage of Time Allocated
 --- | ---
@@ -5510,7 +5738,7 @@ Art | 14
 Physical Education | 14
 Total | 100
 
-Table 1:  Percentage of Time Allocated to Subjects Taught at VTC: Francophone Primary Program
+- 355. The small proportion of time devoted to Professional Studies is complemented by four periods of teaching practice over the two-year course. These periods last five weeks each and redress the small allocation to Professional Studies. The only other variation from professional norms is the higher percentage of time
 
 156
 
@@ -5527,17 +5755,9 @@ Education Master Plan
 devoted to Art and Physical Education than to Social Science and Science.  Finally, judged by the written curricular summaries only, the modules offered in French language seem to be much better prepared than those of other subjects.
 
 ###### 356. English Language Primary Program.
-The Anglophone program in its current format was reviewed in 1997.  Assisted by an Australian consultant, the staff codified and summarized all subjects.  The English language program covers the same subject areas as those of the French and has identical periods of teaching practice.  The proportion of time allocated to each subject is shown in Table 2.
+The Anglophone program in its current format was reviewed in 1997. Assisted by an Australian consultant, the staff codified and summarized all subjects. The English language program covers the same subject areas as those of the French and has identical periods of teaching practice. The proportion of time allocated to each subject is shown in Table 2.
 
-- 357. The allocations are substantially the same as for the French program.  The time given to Professional Studies is increased, at the expense of a nominal decrease in the time allocated to Language and Mathematics, and a more substantial decrease in the time for Physical Education.  Once again, on the evidence of the written curricular summaries, it appears that the work for language has been more thoroughly prepared than that for other subjects.
-
-###### 358. French Language Junior Secondary Program.
-This program is for two years and prepares students in two streams to teach either mathematics and science, or language and social science.  The program's objective is to graduate 10 students in each stream every year, and generally it has achieved this objective.
-
-###### 359. English Language Junior Secondary Program.
-The English language junior secondary program provided teacher training for 54 students from 1991 to 1993.  This was an Australia-funded component of the Primary and Secondary Education Project (PASEP).  There were two intakes for a two-year course.  The program trained 27 students in mathematics and science, 14 in English and social science, and 14 in French and social science.  Apart from some few degree and diploma students trained at the University of Papua New Guinea at Goroka, this program has been the major recruitment source for English language junior secondary teachers in this decade.
-
-- 360. English language training is scheduled to be resumed in 1999, under the Vanuatu-Australia Secondary Teacher Education Project (VASTEP).  This project is more elaborate and ambitious than PASEP.  It envisages the training of junior secondary and senior secondary teachers, and the training of ni-Vanuatu counterparts.  These counterparts should be able to sustain the training of junior secondary teachers upon the completion of the program five years from now.  The project's most significant element is the requirement to train counterparts and to
+Table 2: Percentage of Time Allocated to Subjects Taught at VTC: Anglophone Primary Program
 
 Subject | Percentage of Time Allocated
 --- | ---
@@ -5550,7 +5770,15 @@ Art | 15
 Physical Education | 5
 Total | 100
 
-Table 2:  Percentage of Time Allocated to Subjects Taught at VTC: Anglophone Primary Program
+- 357. The allocations are substantially the same as for the French program. The time given to Professional Studies is increased, at the expense of a nominal decrease in the time allocated to Language and Mathematics, and a more substantial decrease in the time for Physical Education. Once again, on the evidence of the written curricular summaries, it appears that the work for language has been more thoroughly prepared than that for other subjects.
+
+###### 358. French Language Junior Secondary Program.
+This program is for two years and prepares students in two streams to teach either mathematics and science, or language and social science. The program's objective is to graduate 10 students in each stream every year, and generally it has achieved this objective.
+
+###### 359. English Language Junior Secondary Program.
+The English language junior secondary program provided teacher training for 54 students from 1991 to 1993. This was an Australia-funded component of the Primary and Secondary Education Project (PASEP). There were two intakes for a two-year course. The program trained 27 students in mathematics and science, 14 in English and social science, and 14 in French and social science. Apart from some few degree and diploma students trained at the University of Papua New Guinea at Goroka, this program has been the major recruitment source for English language junior secondary teachers in this decade.
+
+- 360. English language training is scheduled to be resumed in 1999, under the Vanuatu-Australia Secondary Teacher Education Project (VASTEP). This project is more elaborate and ambitious than PASEP. It envisages the training of junior secondary and senior secondary teachers, and the training of ni-Vanuatu counterparts. These counterparts should be able to sustain the training of junior secondary teachers upon the completion of the program five years from now. The project's most significant element is the requirement to train counterparts and to
 
 157
 
@@ -5592,73 +5820,29 @@ Education Master Plan
 
 2000 - 2010
 
-Figure 1:  VTC Year 2 Anglophone Students by School of
-
-Origin
-
-0
-
-2
-
-4
-
-6
-
-8
-
-10
-
-1
-
-Ba Provincial School
-
-Malapoa College
-
-Napangasale JSS
+Figure 1: VTC Year 2 Anglophone Students by School of Origin
 
 Vureas High School
+Napangasale JSS
+Malapoa College
+Ba Provincial School
 
 Number of Students
+0 | 2 | 4 | 6 | 8 | 10 | 12
 
-2
+- 366. Figure 2 shows that the Lycée Louis-Antoine de Bougainville, the country's leading French language secondary school, provides the largest group for the French language program.
 
-273. 366. Figure 2 shows that the Lycée Louis-Antoine de Bougainville, the country's leading French language secondary school, provides the largest group for the French language program.
-
-0
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-Number of Students
-
-Collège d'Arep
-
-Ecole Française
-
-I NTV
-
-LAB
-
-Lycée de Nédivin
+Figure 2: VTC Year 2 Francophone Students by School of Origin
 
 School
+Lycée de Nédivin
+LAB
+INTV
+Ecole Française
+Collège d’Arep
 
-Figure 2:  VTC Year 2 Francophone Students by School of Origin
-
-274.
+Number of Students
+0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
 
 - 367. Figure 3 shows that most students in the English language program have completed 12 years of schooling before entering the College.
 
@@ -5674,85 +5858,31 @@ Education Master Plan
 
 2000 - 2010
 
-0
-
-2
-
-4
-
-6
-
-8
-
-10
-
-12
-
-14
-
-16
-
-18
-
-No of Students
-
-10
-
-11
-
-12
-
-13
+Figure 3: VTC Year 2 Anglophone Students by Years of Schooling
 
 Years of Schooling
+13
+12
+11
+10
 
-Figure 3:  VTC Year 2 Anglophone Students by Years of
-
-Schooling
+No of Students
+0 | 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18
 
 - 368. Figure 4 shows that students in the French language program have an equivalent record to those in the English language program.  Less than 5 percent of the student cohort in any year achieves the level of education that these entrants have
 
-Figure 4:  VTC Year 2 Francophone Students by Years of Schooling
+Figure 4: VTC Year 2 Francophone Students by Years of Schooling
 
-10
-
-11
-
-12
-
+Years of Schooling
 13
-
-0
-
-2
-
-4
-
-6
-
-8
-
-10
-
 12
+11
+10
 
 Number of Students
+0 | 2 | 4 | 6 | 8 | 10 | 12
 
-10
-
-11
-
-12
-
-13
-
-Years of
-
-Schooling
-
-reached, so it is
-
-- clear that teaching remains an attractive career choice for ni-Vanuatu.
+reached, so it is clear that teaching remains an attractive career choice for ni-Vanuatu.
 
 - 369. One objective that VTC has achieved is providing entry to students from all of the country's major island groups.  This equity of access is shown in Figures 5 and 6.
 
@@ -5768,85 +5898,38 @@ Education Master Plan
 
 2000 - 2010
 
-0
+Figure 5: VTC Year 2 Anglophone Students by Island of Origin
 
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-Number of Students
-
+Island
+Tanna
+Pentecost
+Paama
+Malo
+Malekula
+Maewo
+Efate
+Erromango
+Banks
+Ambryn
 Ambae
 
-Ambryn
+Number of Students
+0 | 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-Banks
-
-Erromango
-
-Efate
-
-Maewo
-
-Malekula
-
-Malo
-
-Paama
-
-Pentecost
-
-Tanna
+Figure 6: VTC Year 2 Francophone Students by Island of Origin
 
 Island
-
-Figure 5:  VTC Year 2 Anglophone Students by Island of Origin
-
-0
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-Number of Students
-
+Tongoa
+Tanna
+Santo
+Pentecost
+Malo
+Malekula
+Banks
 Ambrym
 
-Banks
-
-Malekula
-
-Malo
-
-Pentecost
-
-Santo
-
-Tanna
-
-Tongoa
-
-Island
-
-Figure 6:  VTC Year 2 Francophone Students by Island of Origin
+Number of Students
+0 | 1 | 2 | 3 | 4 | 5 | 6
 
 161
 
@@ -5867,81 +5950,34 @@ The major primary programs have achieved gender parity in enrollments.  Of the 1
 
 - 372. But the one-year primary program and the Francophone junior secondary program have not achieved gender parity.  In the junior secondary program, 21 percent of the students were female and 79 percent male, as shown in Table 3.  These
 
-0
+Figure 7: VTC Year 2 Anglophone Students by Age at Entry
 
-2
-
-4
-
-6
-
-8
-
-Number of Students
-
+Age
+26
+25
+24
+23
+22
+21
+20
+19
 18
 
-19
-
-20
-
-21
-
-22
-
-23
-
-24
-
-25
-
-26
-
-Age
-
-Figure 7:  VTC Year 2 Anglophone Students by Age at Entry
-
-1
-
-5
-
-1
-
-2
-
-1
-
-4
-
-2
-
-1
-
-0
-
-1
-
-2
-
-3
-
-4
-
-5
-
 Number of Students
+0 | 2 | 4 | 6 | 8
 
-19
+Figure 8: VTC Year 2 Francophone Students by Age at Entry
 
-21
-
-23
-
-25
-
-Age
-
-Figure 8:  VTC Year 2 Francophone Students by Age at Entry
+Age | Number of Students
+--- | ---
+19 | 1
+20 | 5
+21 | 1
+22 | 2
+23 | 1
+24 | 4
+25 | 2
+26 | 1
 
 162
 
@@ -5957,27 +5993,27 @@ Education Master Plan
 
 percentages reflect the correspondingly small proportion of Francophone female students who complete senior secondary education to the level required for entry to the Teachers College.
 
+Table 3: VTC Francophone Junior Secondary Teaching Students, by Gender, 1998
+
 Course | Male | Female
 --- | --- | ---
-Year 1
+Year 1 |  |
 Literary | 5 | 2
 Science | 6 | 1
-Year Two
+Year Two |  |
 Literary | 4 | 2
 Science | 7 | 1
 Total | 22 | 6
 
-Table 3: VTC Francophone Junior Secondary Teaching Students, by Gender, 1998
+- 373. Table 4 shows that 40 percent of the students who entered the primary one-year course in 1998 were female and 60 percent male. In this instance, the difference probably reflects the fact that these students are on average 10 years older than students in the mainstream primary program. It is evidence of the earlier pattern of access to employment.
 
-- 373. Table 4 shows that 40 percent of the students who entered the primary one-year course in 1998 were female and 60 percent male.  In this instance, the difference probably reflects the fact that these students are on average 10 years older than students in the mainstream primary program.  It is evidence of the earlier pattern of access to employment.
+Table 4: Students Entering One-Year Course for Certification of Previously Temporary Primary Teachers, by Gender, 1998
 
-Male | Female
+ | Male | Female
 --- | --- | ---
 Anglophone | 15 | 10
 Francophone | 12 | 8
 Total | 27 | 28
-
-Table 4: Students Entering One-Year Course for Certification of Previously Temporary Primary Teachers, by Gender, 1998
 
 ##### D. VTC Staff
 
@@ -5995,33 +6031,33 @@ Education Master Plan
 
 2000 - 2010
 
-No. | Male | Female | French | Ni- Vanuatu | Highest Qualification | No. Years of Post- Secondary Education | No. Years of Experience Teacher Training
---- | --- | --- | --- | --- | --- | --- | ---
-Primary Anglophone
-1. | √ | √ | M.Ed. CA | 5 | 13
-2. | √ | √ | M.A. (TESOL) | 7 | 13
-3. | √ | √ | Teaching Certificate | 3 | 4
-4. | √ | √ | DIP. TESL | 3 | 8
-5. | √ | √ | B.A. | 5 | 5
-Primary Francophone
-1. | √ | √ | DFECN | 4 | 8
-2. | √ | √ | DFECN | 4 | 4
-3. | √ | √ | DFECN | 3 | 4
-4. | √ | √ | DFECN | 3 | 13
-Secondary Francophone
-1. | √ | √ | DAES | 3 | 4
-2. | √ | √ | Doctorat | 10 | 2
-3. | √ | √ | DUT | 2 | 2
-4. | √ | √ | Licence | 3 | 1
-5. | √ | √ | Licence | 3 | 1
-6. | √ | √ | DESI | 4 | 2
-7. | √ | √ | Maîtrise | 7 | 6
-8. | √ | √ | Ingénieur | 5 | 3
-9. | √ | √ | Licence | 3 | 1
-Total/Average
-18 | 9 | 9 | 8 | 10 | 4.27 | 5.22
-
 Table 5: Qualifications and Experience of VTC Staff
+
+No. | Male | Female | French | Ni-Vanuatu | Highest Qualification | No. Years of Post-Secondary Education | No. Years of Experience Teacher Training
+--- | --- | --- | --- | --- | --- | --- | ---
+Primary Anglophone |  |  |  |  |  |  | 
+1. | √ |  |  | √ | M.Ed. CA | 5 | 13
+2. |  | √ |  | √ | M.A. (TESOL) | 7 | 13
+3. | √ |  |  | √ | Teaching Certificate | 3 | 4
+4. | √ |  |  | √ | DIP. TESL | 3 | 8
+5. |  | √ |  | √ | B.A. | 5 | 5
+Primary Francophone |  |  |  |  |  |  | 
+1. | √ |  |  | √ | DFECN | 4 | 8
+2. |  | √ |  | √ | DFECN | 4 | 4
+3. | √ |  |  | √ | DFECN | 3 | 4
+4. |  | √ |  | √ | DFECN | 3 | 13
+Secondary Francophone |  |  |  |  |  |  | 
+1. |  | √ |  | √ | DAES | 3 | 4
+2. |  | √ | √ |  | Doctorat | 10 | 2
+3. | √ |  | √ |  | DUT | 2 | 2
+4. | √ |  | √ |  | Licence | 3 | 1
+5. |  | √ | √ |  | Licence | 3 | 1
+6. |  | √ | √ |  | DESI | 4 | 2
+7. | √ |  | √ |  | Maîtrise | 7 | 6
+8. | √ |  | √ |  | Ingénieur | 5 | 3
+9. |  | √ | √ |  | Licence | 3 | 1
+Total/Average |  |  |  |  |  |  | 
+18 | 9 | 9 | 8 | 10 |  | 4.27 | 5.22
 
 ##### E. VTC Funding
 
@@ -6039,9 +6075,11 @@ Education Master Plan
 
 2000 - 2010
 
-Amount (VT) | Percentage of Total
+Table 6: Vanuatu Teachers College 1998 Budget
+
+ | Amount (VT) | Percentage of Total
 --- | --- | ---
-Revenue
+Revenue |  | 
 Grant Teacher Salaries | 10,448,761 | 43.55
 Grant Ancillary Staff Wages | 3,901,000 | 16.26
 Associate Teachers Allowance | 2,624,000 | 10.93
@@ -6051,17 +6089,15 @@ Capital Grant | 2,017,000 | 8.40
 Government Grant Total | 21,590,761 | 90.00
 Fees Charged Students | 2,400,000 | 10.00
 Revenue Total | 23,990,761 | 100.00
-Expenditure
-Personnel
+Expenditure |  | 
+Personnel |  | 
 Teaching Staff Salaries | 10,448,761 | 43.55
 Ancillary Staff Wages | 3,901,000 | 16.26
 Associate Teacher Allowances | 2,624,000 | 10.94
 Other | 7,017,000 | 29.25
 Expenditure Total | 23,990,761 | 100.00
 
-Table 6:  Vanuatu Teachers College 1998 Budget
-
-- 376. The most striking feature of the budget is that it has no allocation of funds to particular categories of expenditure, such as the different academic programs; support for boarding students by way of food, fuel, or electricity; building maintenance and capital expenditure; or administrative support for such costs as photocopying and telephone.  When the budget is tight, funds provided have gone to supply food for students, fuel, electricity, and little else.  This situation is now even more difficult.  As already noted, in 1998 the College offered, at the Government's instruction, one-year courses for training 25 Anglophone and 20 Francophone noncertificated teachers.  In sum, there has been a 30 percent budget reduction and a 30 percent increase in the number of students.
+- 376. The most striking feature of the budget is that it has no allocation of funds to particular categories of expenditure, such as the different academic programs; support for boarding students by way of food, fuel, or electricity; building maintenance and capital expenditure; or administrative support for such costs as photocopying and telephone. When the budget is tight, funds provided have gone to supply food for students, fuel, electricity, and little else. This situation is now even more difficult. As already noted, in 1998 the College offered, at the Government's instruction, one-year courses for training 25 Anglophone and 20 Francophone non-certificated teachers. In sum, there has been a 30 percent budget reduction and a 30 percent increase in the number of students.
 
 - 377. Present arrangements that may well be unsustainable now are clearly unsustainable in the long term.  The Government's objective of providing increased access to grades 7 to 10 requires a greater supply of teachers trained at that level. For Francophone schools, this training is provided through the program already described.  However, eight of the nine teachers in the program (the French nationals) are funded directly by France.  The program, as already noted, will be unsustainable if French aid is withdrawn.
 
@@ -6098,7 +6134,7 @@ education system, the Government will fund these needs at the level required for
 - 384. The College also provides houses for teaching and support staff.  Nearly all of these houses need replacement.  However, these houses could be relocated if the College lacked sufficient space for an expanded academic program and more students.  Such relocation would probably provide all the additional space necessary. The College site also houses a textbook storage building, which is part of the Curriculum Development Center, and the Examination Office.   Both of these buildings could be relocated outside of the precinct of the College.  Ideally, both would be placed adjacent to the Curriculum Development Center, which lies just outside the College boundary.
 
 ###### 385. Action 3:
-The Government will prepare a site plan that will be the overall controlling document for subsequent development at the College, thus permitting coherent, phased construction.  As a first step, the Government will commission an educational planner to develop a brief specifying the uses planned for the College site for the next 25 years.  The planner will relate this to the proposals of the Education Master Plan, and specifically to the number of teachers required under the Master Plan.  The educational planner who provides the brief will subsequently work with an architect to provide the site plan indicating the location, function, and style of the major buildings.  The plan will incorporate the buildings constructed in 1997 -98.
+The Government will prepare a site plan that will be the overall controlling document for subsequent development at the College, thus permitting coherent, phased construction. As a first step, the Government will commission an educational planner to develop a brief specifying the uses planned for the College site for the next 25 years. The planner will relate this to the proposals of the Education Master Plan, and specifically to the number of teachers required under the Master Plan. The educational planner who provides the brief will subsequently work with an architect to provide the site plan indicating the location, function, and style of the major buildings. The plan will incorporate the buildings constructed in 1997−98.
 
 166
 
@@ -6113,13 +6149,13 @@ Education Master Plan
 2000 - 2010
 
 ###### 386. Action 4:
-The Government will seek a donor to fund a complete physical renovation of the Vanuatu Teachers College campus.  All existing buildings with the exception of those constructed in 1997 -98 should be demolished and replaced.  The new buildings should be of a size and character sufficient to provide for the expanded programs required by the reformed education system foreseen in the Master Plan. The Government of Japan may be asked to revive its support for this project; otherwise an alternative donor or donors will be sought.
+The Government will seek a donor to fund a complete physical renovation of the Vanuatu Teachers College campus. All existing buildings with the exception of those constructed in 1997−98 should be demolished and replaced. The new buildings should be of a size and character sufficient to provide for the expanded programs required by the reformed education system foreseen in the Master Plan. The Government of Japan may be asked to revive its support for this project; otherwise an alternative donor or donors will be sought.
 
-#### II.  Teacher Training and Master Plan Reforms
+#### II. Teacher Training and Master Plan Reforms
 
-- 387. Teacher training is a crucial issue in the change to basic education from the preparatory year to Grade 8, as proposed under this Master Plan.  There are two main areas of training required as a consequence of this Plan: first, for new teachers for the community schools (Grades P -2) and second, for upgraded teachers for Grades 7 -8 in the primary schools.
+- 387. Teacher training is a crucial issue in the change to basic education from the preparatory year to Grade 8, as proposed under this Master Plan. There are two main areas of training required as a consequence of this Plan: first, for new teachers for the community schools (Grades P−2) and second, for upgraded teachers for Grades 7−8 in the primary schools.
 
-##### Community School, Grades P -2
+##### A. Community School, Grades P−2
 
 ###### 388. Selection of Teachers.
 Teachers for the preparatory year and for Grade 1 and Grade 2 will be selected, to the extent possible, from mature adults within the community who have completed at least Grade 10.  They may be trained former/retired teachers; current pre-school teachers; untrained kindergarten, Grade 1, or Grade 2 teachers or assistants; community or church leaders; or retired or retrenched employees of the Government or private sector.  These teachers will be selected by the community and approved by the Provincial Education Officer (or by some other education official, as appropriate).  Many will be adults who had completed their secondary education earlier. These people are from the village and speak and write the local vernacular language.  They are known to the children, the parents, and the community.  In most cases, they are respected, since they are among the few from the village who have completed Grade 10.  Many Grade 10 graduates have been unable to continue to further education, have not found employment in the modern sector, and have returned to their villages, where they do not have alternative employment.  They are happy to be offered a half-day job that pays them some cash income.
@@ -6145,45 +6181,29 @@ Education Master Plan
 
 The trainers would be Provincial Education Advisers who would undergo a 6-week training course over a long vacation.  Trainees will complete three modules before commencing teaching and complete the remaining three modules as an in-service program. There will be 20 weeks training in all.  The most likely teacher training timeline is:
 
-July 2000 - Dec 2000
-
-Designing and writing modules
-
-Dec 2000 - Feb 2001
-
-Training of trainers
-
-Feb 2001 - Feb 2002
-
-Teacher training
-
-Feb 2002
-
-New teachers start in schools
-
-(after completing 3 modules)
-
-Before Feb 2003
-
-Teachers complete the other 3 modules
+July 2000−Dec 2000 | Designing and writing modules
+Dec 2000−Feb 2001 | Training of trainers
+Feb 2001−Feb 2002 | Teacher training
+Feb 2002 | New teachers start in schools (after completing 3 modules)
+Before Feb 2003 | Teachers complete the other 3 modules
 
 - 390. High-quality training is essential to offset possible criticism that community teachers are of an inferior standard to the present lower primary teachers and that children's education at this crucial stage of school will therefore be of lower quality than it is at present.
 
 ###### 391. Action 5:
 The Government will establish criteria for the selection of community school teachers and rely heavily on the expertise of Pri-Skul Asosiesen Blong Vanuatu for the trainingn of preparatory year teachers.  The training for community school teachers will be carried out in the provinces using a modular approach over two years.
 
-##### Primary School, Grades 3 -8
+##### B. Primary School, Grades 3−8
 
 ###### 392. Selection of Teachers.
 For primary Grades 7 and 8, the upgrading of Grade 5 or 6 primary teachers is preferred over the more difficult option of transferring some existing secondary school Grade 7 and 8 teachers to primary schools.  Potential primary Grades 7 and 8 teachers will be:
 
-- trained primary teachers (Grades 1 -6), preferably teaching Grades 5 and 6 and able to undertake an upgrading in-service program in preparation to teach additional Grades 7 and 8 classes,
+- trained primary teachers (Grades 1−6), preferably teaching Grades 5 and 6 and able to undertake an upgrading in-service program in preparation to teach additional Grades 7 and 8 classes,
 
-- trained secondary teachers (Grades 7 -10) who could be transferred to teach in the primary school at Grades 7 and 8 level (however, this is unlikely because of salary problems),
+- trained secondary teachers (Grades 7−10) who could be transferred to teach in the primary school at Grades 7 and 8 level (however, this is unlikely because of salary problems),
 
-- graduates of the secondary programs of the Vanuatu Secondary Teacher Education Project or Centre de Formation de l'Education de Base (who are more likely to be required for Grades 9-12 schools in the future), or
+- graduates of the secondary programs of the Vanuatu Secondary Teacher Education Project or Centre de Formation de l’Education de Base (who are more likely to be required for Grades 9–12 schools in the future), or
 
-- future pre-service students who will undertake a course of training for Grades 3 -8 rather than the present primary Grades 1 -6 course (these graduates will not be available until later in the reform period).
+- future pre-service students who will undertake a course of training for Grades 3−8 rather than the present primary Grades 1−6 course (these graduates will not be available until later in the reform period).
 
 ###### 393. Training Program.
 The upgrading course for Grades 7 and 8 teachers initially will be a 6-week program conducted over a long vacation.  The most likely starting date will be December 2000.  The course will be prepared and delivered by lower secondary teachers with technical assistance and VTC help in planning. Teachers will be trained as either language/social science specialists or math/science specialists and be able to teach at both Grade 7 and Grade 8 levels.  They will also be required to teach other subjects such as agriculture or community skills (the exact
@@ -6215,12 +6235,12 @@ The Government will establish an upgrading course for Grades 7 and 8 teachers, i
 
 - 397. Far more than it has done up to now, Vanuatu needs to capitalize on the opportunities for further education offered by electronic technology.  For several years the Curriculum Development Center has had a schools broadcast unit, but it has not reached its full potential.  As of 1998 there were only two 15-minute radio programs per week, one in French and one in English, about teaching and the curriculum.  The effectiveness even of these programs is uncertain because radios are not officially supplied to schools.
 
-- 398. A further threat recently emerged to what little is now done.  As part of the Comprehensive Reform Program, the Vanuatu Broadcasting and Television Corporation has been called upon to stay within its assigned budget and become selfsufficient.  As a result, it has decided to curtail its time on air and to charge higher fees to organizations, such as the Ministry of Education, on whose behalf it broadcasts special interest programs.  Either or both of these changes, however advisable economically, could mean the end of broadcasts for teachers.
+- 398. A further threat recently emerged to what little is now done. As part of the Comprehensive Reform Program, the Vanuatu Broadcasting and Television Corporation has been called upon to stay within its assigned budget and become self-sufficient. As a result, it has decided to curtail its time on air and to charge higher fees to organizations, such as the Ministry of Education, on whose behalf it broadcasts special interest programs. Either or both of these changes, however advisable economically, could mean the end of broadcasts for teachers.
 
 ###### 399. Action 7:
 The Government will explore, extend, and develop the use of broadcast radio programming as a tool for in-service teacher education, and to allocate sufficient resources to make this possible.
 
-- 400. The computer, with or without Internet access, and the videocassette recorder (VCR) now have a potential perhaps greater than that of radio.  Many schools already use videocassette recorders because of the opportunities for entertainment it offers.  High-quality, cost-effective, and ubiquitous educational videos covering a multitude of training purposes are available but have not yet reached Vanuatu.  Computers using solar-generated electricity and a telephone system that already covers most villages can bring ⎯ and in some instances already are bringing ⎯ the Internet and the knowledge it offers to the country's  schools.
+- 400. The computer, with or without Internet access, and the videocassette recorder (VCR) now have a potential perhaps greater than that of radio. Many schools already use videocassette recorders because of the opportunities for entertainment it offers. High-quality, cost-effective, and ubiquitous educational videos covering a multitude of training purposes are available but have not yet reached Vanuatu. Computers using solar-generated electricity and a telephone system that already covers most villages can bring⎯and in some instances already are bringing⎯the Internet and the knowledge it offers to the country's schools.
 
 169
 
@@ -6242,12 +6262,12 @@ The Government will fund the exploration and development of VCR and computer tec
 ###### 403. Action 9:
 The Government will provide psychological and pedagogic training to teachers who were teaching at other levels before the implementation of the new school structure.  The training, which will following implementation of the new curricula for Grades 7 and 8 and Grades 9 and 10, will acquaint teachers with the content and approaches required under the new curricula.  The Government proposes to contract the University of Papua New Guinea, Goroka, as the pedagogic planning agency offering the new courses offered through USP, Port Vila.  UPNG will work in collaboration with the Curriculum Development Center or other unit of the Ministry of Education assigned responsibility for the curricular reforms.
 
-##### Training for Head Teachers and Principals
+##### B. Training for Head Teachers and Principals
 
 - 404. One major omission in the in-service training offered up to now has been management training for principals and head teachers.  In secondary schools, New Zealand aid programs have endeavored to meet this need for many years, but few if any of the primary school principals and head teachers have received any training in administration and management.  The country has more than 350 primary schools and each has a principal or head teacher.
 
 ###### 405. Action 10:
-The Government will establish, as a matter of priority, an inservice unit to provide training for secondary principals and for primary head teachers and principals. The content of the training should include techniques for providing support and feedback to teachers; basic accounting and budgeting; and internal assessment of students This unit will be based at Vanuatu Teachers College and work throughout the country with and through the Provincial Education Offices. The Government will seek donor support and technical assistance for this activity.
+The Government will establish, as a matter of priority, an in-service unit to provide training for secondary principals and for primary head teachers and principals. The content of the training should include techniques for providing support and feedback to teachers; basic accounting and budgeting; and internal assessment of students This unit will be based at Vanuatu Teachers College and work throughout the country with and through the Provincial Education Offices. The Government will seek donor support and technical assistance for this activity.
 
 170
 
@@ -6269,7 +6289,7 @@ Education Master Plan
 
 - 407. In 1998 the Government employed 1,500 teachers in its primary, junior secondary, and senior secondary schools. 41 For 1998 the number of teachers in primary schools is shown in Table 7.  The data are derived the Ministry's posting lists.  The table records these teachers' main class level, that is, the grade of the largest group of pupils they were teaching in 1998.  It is not completely accurate in that many of these same teachers were working with multiyear groups of pupils.
 
-- 408. The number of teachers in junior and senior secondary schools is shown in Table 8.  The data are derived from the Ministry's posting lists and the total is accurate.  The assignment of teachers to particular years is an estimation derived from the enrollment in those years and Ministry teacher-to-student-ratio policies, and is substantially accurate.
+Table 7:  Primary Teachers by Grade Taught
 
 Grade | Number of Teachers | Percentage
 --- | --- | ---
@@ -6281,7 +6301,7 @@ Grade | Number of Teachers | Percentage
 6. | 128 | 11.4
 Total | 1,126 | 100.00
 
-Table 7:  Primary Teachers by Grade Taught
+- 408. The number of teachers in junior and senior secondary schools is shown in Table 8.  The data are derived from the Ministry's posting lists and the total is accurate.  The assignment of teachers to particular years is an estimation derived from the enrollment in those years and Ministry teacher-to-student-ratio policies, and is substantially accurate.
 
 > 41 This information is drawn from two sources and the numbers given are not always identical.  The sources are the Ministry's teacher posting lists and its teacher payroll.  Despite the discrepancies, the data do provide an accurate insight into the current situation.
 
@@ -6297,6 +6317,8 @@ Education Master Plan
 
 2000 - 2010
 
+Table 8:  Junior and Senior Secondary Teachers by Grade Taught
+
 Grade | Number of Teachers | Percentage
 --- | --- | ---
 7 | 75 | 19.5
@@ -6311,97 +6333,24 @@ Subtotal | 290 | 75.4
 Subtotal | 95 | 24.6
 Grand Total | 385 | 100.00
 
-Table 8:  Junior and Senior Secondary Teachers by Grade Taught
-
 - 409. Figure 9 profiles teachers by age and is drawn from the Ministry payroll data. 42 The relative youth of the teaching force evident here reflects the rapid growth of the primary education system since Independence, the recent entry of many teachers to the profession, and the age structure of the country's overall population.
-
-- 410. Tables 9 and 10 show the total number of teachers by gender and marital status, respectively.  The data are from the Ministry's payroll.
 
 Figure 9:  All Teachers by Age
 
-19
-
-22
-
-25
-
-28
-
-31
-
-34
-
-37
-
-40
-
-43
-
-46
-
-49
-
-52
-
-55
-
-58
-
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
 Frequency
-
-19
-
-22
-
-25
-
-28
-
-31
-
-34
-
-37
-
-40
-
-43
-
-46
-
-49
-
-52
-
-55
-
-58
-
+70 60 50 40 30 20 10 0
+19 22 25 28 31 34 37 40 43 46 49 52 55 58
 Age
 
-Number | Percentage
+- 410. Tables 9 and 10 show the total number of teachers by gender and marital status, respectively.  The data are from the Ministry's payroll.
+
+Table 9:  Teachers by Gender
+
+ | Number | Percentage
 --- | --- | ---
 Female | 659 | 44
 Male | 841 | 56
 Total | 1,500 | 100
-
-Table 9:  Teachers by Gender
 
 > 42 This figure profiles only 78 percent of all teachers.
 
@@ -6417,13 +6366,13 @@ Education Master Plan
 
 2000 - 2010
 
-Number | Percentage
+Table 10:  Teachers by Marital Status
+
+ | Number | Percentage
 --- | --- | ---
 Married | 691 | 46
 Single | 809 | 54
 Total | 1,500 | 100
-
-Table 10:  Teachers by Marital Status
 
 ##### B. Teacher Salaries and Benefits
 
@@ -6446,33 +6395,33 @@ Education Master Plan
 
 2000 - 2010
 
-Province/ Church | Number of | Salary
---- | --- | --- | --- | --- | ---
-Teachers | Gender | Minimum | Maximum | Average
-Malampa | 72 | F | 344,544 | 1,109,688 | 538,330
-125 | M | 455,088 | 1,109,688 | 603,185
-Penama | 58 | F | 455,088 | 1,164,240 | 566,362
-110 | M | 455,088 | 1,164,240 | 641,481
-Santo Malo | 97 | F | 344,544 | 1,091,496 | 568,104
-104 | M | 455,088 | 1,230,936 | 665,371
-Shefa | 189 | F | 420,936 | 1,230,936 | 591,754
-174 | M | 344,544 | 1,303,728 | 656,886
-Tafea | 63 | F | 455,088 | 1,091,496 | 558,503
-112 | M | 455,088 | 1,091,496 | 559,967
-Torba | 11 | F | 455,088 | 824,664 | 597,362
-33 | M | 344,544 | 1,091,496 | 571,505
-Catholic | 119 | F | 455,088 | 824,664 | 508,950
-98 | M | 288,636 | 824,664 | 522,149
-Protestant | 6 | F | 455,088 | 455,088 | 455,088
-18 | M | 455,088 | 667,320 | 480,456
-1,500
-
 Table 11:  Teachers by Province or Church Administration, Gender, and Salary Range
+
+Province/Church | Number of Teachers | Gender | Salary |  | 
+ |  |  | Minimum | Maximum | Average
+--- | --- | --- | --- | --- | ---
+Malampa | 72 | F | 344,544 | 1,109,688 | 538,330
+ | 125 | M | 455,088 | 1,109,688 | 603,185
+Penama | 58 | F | 455,088 | 1,164,240 | 566,362
+ | 110 | M | 455,088 | 1,164,240 | 641,481
+Santo Malo | 97 | F | 344,544 | 1,091,496 | 568,104
+ | 104 | M | 455,088 | 1,230,936 | 665,371
+Shefa | 189 | F | 420,936 | 1,230,936 | 591,754
+ | 174 | M | 344,544 | 1,303,728 | 656,886
+Tafea | 63 | F | 455,088 | 1,091,496 | 558,503
+ | 112 | M | 455,088 | 1,091,496 | 559,967
+Torba | 11 | F | 455,088 | 824,664 | 597,362
+ | 33 | M | 344,544 | 1,091,496 | 571,505
+Catholic | 119 | F | 455,088 | 824,664 | 508,950
+ | 98 | M | 288,636 | 824,664 | 522,149
+Protestant | 6 | F | 455,088 | 455,088 | 455,088
+ | 18 | M | 455,088 | 667,320 | 480,456
+ | 1,500 |  |  |  | 
 
 ###### 414. Salary Scales.
 Teachers' conditions of service are regulated by the Teaching Service Staff Rules issued by the Ministry of Education in 1993.  Teachers are placed in one of nine salary categories (EO1 to EO9) according to their qualification and position.  Each category has six internal steps.  The categories and the qualification and/or position to which they respond are set out in Table 12.
 
-- 415. In principle, teachers can advance one step up their scale every two years, depending on a satisfactory confidential report.  The profession perceives it as unjust
+Table 12: Teacher Salary Categories
 
 Category | Qualification/ Position | Minimum Salary | Maximum Salary
 --- | --- | --- | ---
@@ -6486,7 +6435,7 @@ EO7 | University Graduate with Training | 1,009,064 | 1,100,033
 EO8 | Principal, Junior Secondary School | 1,142,475 | 1,233,444
 EO9 | Principal, Junior/Senior Secondary School | 1,261,948 | 1,372,889
 
-Table 12: Teacher Salary Categories
+- 415. In principle, teachers can advance one step up their scale every two years, depending on a satisfactory confidential report.  The profession perceives it as unjust
 
 174
 
@@ -6524,7 +6473,7 @@ Education Master Plan
 
 - 418. Universal basic education to Grade 8, as proposed in this Master Plan, will require the Government to provide a greater number of primary teachers for Grades 3 to 8.  The exact number will require careful assessment in the light of the Government's desired class size and enrollment projections, as well as a calculation of the number of teachers displaced from Grades 1 and 2 (see below) who will be available to teach in other grades of the proposed system offering Grades 3 to 8.
 
-###### 419 . Action 12:
+###### 419. Action 12:
 the government will increase the number of primary teachers it trains to provide enough teachers for universal basic education from grades p to 8, under the structure proposed in this master plan and after further assessment of likely enrollment.
 
 - 420. As elaborated elsewhere, central to the proposed reforms is the provision of education in the vernacular language at community schools covering Grades P to 2.  The Government will institute a new class of teachers to provide this education. These teachers will be Grade 10 graduates, will draw upon community knowledge for the content of their courses, and will undergo short-term training in pedagogy. For these teachers, the Government proposes a salary scale substantially lower than that of graduates of the Teachers College.
@@ -6553,11 +6502,11 @@ Education Master Plan
 
 #### Contents
 
-- Background and Principles
+I. Background and Principles
 
-- The Present System of Inspection in Schools
+II. The Present System of Inspection in Schools
 
-- A Ratings System
+III. A Ratings System
 
 #### I.  Background and Principles
 
@@ -6593,15 +6542,11 @@ demotion.  The objective of inspection is thus to establish, maintain and improv
 
 - 428. As of 1998, 870 local trained and 373 semi-trained teachers serve in 677 kindergartens and provide pre-primary education.  Table 1 shows the number of kindergartens, enrollments and teachers in each province.
 
-- 429. Kindergartens are organized and looked after by the community.  Apart from day care activities, teachers in the schools assist in teaching children to read and write in English or French and sometimes in both French and English.
+Table 1: Estimated Numbers of Pre-School Enrollments, Pre-Schools, Trained and Untrained Teachers
 
-- 430. There is a casual approach to providing professional assistance to teachers in the kindergartens.  Those who are responsible for the school offer advice on how the children may be taught and cared for during the day.  They set some standards and expect these to be achieved by the teacher or teachers in the school.
-
-- 431. Where the school is attached to or on the same premises as the primary school, some inspection does take place.  The head teacher of the primary school is assumed to help.  The head teacher of the primary school may observe the teacher's
-
-Number of | Teachers
---- | --- | --- | --- | ---
+ | Number of |  | Teachers | 
 Province | Pre-Schools | Enrollment | Trained | Untrained
+--- | --- | --- | --- | ---
 Torba | 36 | 178 | 40 | 18
 Sanma | 170 | 6,093 | 185 | 90
 Penama | 111 | 4,778 | 86 | 53
@@ -6609,8 +6554,13 @@ Malampa | 125 | 2,126 | 214 | 41
 Shefa | 100 | 9,721 | 115 | 34
 Tafea | 135 | 3,029 | 230 | 137
 Total | 677 | 25,925 | 870 | 373
+Source: Ministry of Education, Youth and Sports
 
-Table 1: Estimated Numbers of Pre-School Enrollments, Pre-Schools, Trained and Untrained Teachers
+- 429. Kindergartens are organized and looked after by the community.  Apart from day care activities, teachers in the schools assist in teaching children to read and write in English or French and sometimes in both French and English.
+
+- 430. There is a casual approach to providing professional assistance to teachers in the kindergartens.  Those who are responsible for the school offer advice on how the children may be taught and cared for during the day.  They set some standards and expect these to be achieved by the teacher or teachers in the school.
+
+- 431. Where the school is attached to or on the same premises as the primary school, some inspection does take place.  The head teacher of the primary school is assumed to help.  The head teacher of the primary school may observe the teacher's
 
 178
 
@@ -6628,28 +6578,27 @@ teaching, check on the preparation, and offer assistance on how teaching may be 
 
 ##### B. Primary School
 
-- 432. There are 6 Provincial Education Advisors and 12 zone leaders.  The 16 of them are expected to ensure that the quality of education in their particular province is established, maintained or improved.  Table 2 shows the estimated numbers of schools, enrollments and teachers from 1998 to 2000. Table 2: Estimated
+- 432. There are 6 Provincial Education Advisors and 12 zone leaders.  The 16 of them are expected to ensure that the quality of education in their particular province is established, maintained or improved.  Table 2 shows the estimated numbers of schools, enrollments and teachers from 1998 to 2000.
 
-Schools | Enrollments | Teachers
+Table 2: Estimated Number and Type of Schools, Enrollments, and Teachers in Primary Schools, 1998−2000
+
+ | Schools |  |  | Enrollments |  |  | Teachers |  | 
+Province | 1998 | 1999 | 2000 | 1998 | 1999 | 2000 | 1998 | 1999 | 2000
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1998 | 1999 | 2000 | 1998 | 1999 | 2000 | 1998 | 1999 | 2000
-Province
 Torba | 19 | 21 | 23 | 1,444 | 1,515 | 1,588 | 48 | 50 | 53
 Sanma | 44 | 46 | 48 | 4,108 | 4,250 | 4,396 | 137 | 142 | 147
 Penama | 44 | 46 | 48 | 3,935 | 4,077 | 4,223 | 131 | 137 | 140
 Malapa | 56 | 58 | 60 | 4,754 | 4,892 | 5,038 | 158 | 163 | 168
 Tafea | 51 | 53 | 55 | 4,168 | 4,310 | 4,456 | 139 | 144 | 149
 Shefa | 56 | 58 | 60 | 6,911 | 7,053 | 7,199 | 230 | 235 | 240
-Religion
+Religion |  |  |  |  |  |  |  |  | 
 Catholic | 55 | 51 | 59 | 6,707 | 6,848 | 6,995 | 224 | 228 | 233
 Protestant | 27 | 29 | 31 | 1,125 | 1,196 | 1,269 | 38 | 40 | 42
-Language
-Anglophone
-Francophone
-Total | 352 | 362 | 384 | 33,15 2 | 34,14 1 | 35,164 | 1,105 | 1,139 | 1,172
+Language |  |  |  |  |  |  |  |  | 
+Anglophone |  |  |  |  |  |  |  |  | 
+Francophone |  |  |  |  |  |  |  |  | 
+Total | 352 | 362 | 384 | 33,152 | 34,141 | 35,164 | 1,105 | 1,139 | 1,172
 Source: Ministry of Education, Department of Pre-School and Primary Education
-
-Number and Type of Schools, Enrollments, and Teachers in Primary Schools, 1998 -2000
 
 179
 
@@ -6689,10 +6638,10 @@ Education Master Plan
 
 2000 - 2010
 
-District | 1-Day | 3-Day | 5-Day
+Table 3: Estimated Costs of Primary Inspection Visits, Tafea Province
+
+District | 1-Day Visit (Vatu) | 3-Day Visit (Vatu) | 5-Day Visit (Vatu)
 --- | --- | --- | ---
-Visit | Visit | Visit
-(Vatu) | (Vatu) | (Vatu)
 Futuna | 11,400 | 34,200 | 171,000
 Erromango | 11,400 | 34,200 | 171,000
 Aneityum | 7,000 | 21,000 | 105,000
@@ -6701,27 +6650,22 @@ Tanna | 1,200 | 3,600 | 18,000
 Total | 38,000 | 114,000 | 570,000
 Source: Interviews with Advisors and Senior Officers
 
-Table 3: Estimated Costs of Primary Inspection Visits, Tafea Province
-
 - 440. Table 4 shows the estimated minimum time that is expected to be spent by the advisor with a teacher, head teacher and related school activities in one-, three-, five-, or ten-teacher schools.
 
-Activity | Minimu | One- | Three- | Five- | Ten-
+Table 4: Estimated Annual Time Required to Be Spent by Advisor at Each Level of School
+
+Activity | Minimum Time Required | One-Teacher School | Three-Teacher School | Five-Teacher School | Ten-Teacher School
 --- | --- | --- | --- | --- | ---
-m Time
-Teacher | Teacher | Teacher | Teacher
-Required | School | School | School | School
-Lesson Visits School Assembly | 0.50 0.50 | 1.50 1.50 | (time in 4.50 1.50 | hours) 7.50 1.50 | 15 1.50
+Lesson Visits | 0.50 | 1.50 | 4.50 | 7.50 | 15
+School Assembly | 0.50 | 1.50 | 1.50 | 1.50 | 1.50
 Teacher Interviews | 0.66 | 2 | 6 | 10 | 20
 Staff Meeting | 0.50 | 1.50 | 1.50 | 1.50 | 1.50
 In-service Training | 0.50 | 1.50 | 1.50 | 1.50 | 1.50
 School Committee | 0.50 | 1.50 | 1.50 | 1.50 | 1.50
 Facility Check | 0.66 | 2 | 2 | 2 | 2
-Headteacher Meeting | 1 | 1 | 1 | 1
-1
+Headteacher Meeting | 1 | 1 | 1 | 1 | 1
 Total | 4.82 | 12.50 | 19.50 | 26.50 | 44
 Source: Interviews with head teachers
-
-Table 4: Estimated Annual Time Required to Be Spent by Advisor at Each Level of School
 
 181
 
@@ -6735,7 +6679,7 @@ Education Master Plan
 
 2000 - 2010
 
-- 441. Every teacher, head teacher and related activities may require extra time. Therefore, only competent of ficers must be recruited and retained to carry out the work of Inspector.
+- 441. Every teacher, head teacher and related activities may require extra time. Therefore, only competent officers must be recruited and retained to carry out the work of Inspector.
 
 ##### C. Secondary School
 
@@ -6761,21 +6705,21 @@ Education Master Plan
 
 2000 - 2010
 
-No. of Schools | No. of Students | No. of Teachers
+Table 5: Numbers of Schools, Students, and Teachers By Language of Instruction in Secondary Schools and Provinces, 1997
+
+Province | No. of Schools |  |  | No. of Students |  |  | No. of Teachers |  |  |  | 
+ | E | F | Total | E | F | Total | Anglophone |  | Francophone |  | Total
+ |  |  |  |  |  |  | M | F | M | F | 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Provin ce | Anglophone | Francophon e
-E | F | Total | E | F | Total | M | F | M | F | Tota l
-Torba | 1 | - | 1 | 134 | 134 | 3 | 2 | 5
+Torba | 1 | - | 1 | 134 |  | 134 | 3 | 2 |  |  | 5
 Sanma | 3 | 3 | 6 | 867 | 543 | 1,410 | 23 | 14 | 17 | 6 | 60
 Malapa | 5 | 5 | 10 | 569 | 258 | 827 | 18 | 2 | 4 | 3 | 27
 Penama | 7 | 2 | 9 | 820 | 228 | 1,048 | 23 | 10 | 9 | 1 | 43
 Shefa | 5 | 3 | 8 | 1,095 | 1,123 | 2,218 | 19 | 9 | 29 | 20 | 77
 Tafea | 2 | 3 | 5 | 376 | 164 | 540 | 5 | 4 | 5 | 2 | 16
-Total | 23 | 16 | 39 | 3,861 | 2,316 | 6,177 | 91 | 41 | 64 | 32
+Total | 23 | 16 | 39 | 3,861 | 2,316 | 6,177 | 91 | 41 | 64 | 32 | 
 Note: E means English, F means French, M and F mean male and female
 Source: Ministry of Education, Youth and Sports
-
-Table 5: Numbers of Schools, Students, and Teachers By Language of Instruction in Secondary Schools and Provinces, 1997
 
 ##### D. Vocational Centers
 
@@ -6811,7 +6755,7 @@ discussion are for the principal to praise the teacher for the good work he has 
 
 - 453. The DSFE should assess the reports and offer comments and recommendations to the Director General, who then makes comments and decides on the report.  A teacher may be offered an acting job in head office as a result of his annual report.  A school could receive further assistance, or a proposal to change a field of study, based on information and decisions arising from the report.  The DSFE is expected to facilitate the implementation of the comments and the decisions by the DG.
 
-##### Teacher Education
+##### G. Teacher Education
 
 184
 
@@ -6882,13 +6826,13 @@ Education Master Plan
 
 #### Contents
 
-- The Current State of Curriculum and Textbooks in Vanuatu
+I. The Current State of Curriculum and Textbooks in Vanuatu
 
-- Issues and Options in Curriculum and Textbooks
+II. Issues and Options in Curriculum and Textbooks
 
-- The Curriculum Development Center
+III. The Curriculum Development Center
 
-- A Development Program, 2000 -2010
+IV. A Development Program, 2000−2010
 
 #### Attachments
 
@@ -6976,7 +6920,7 @@ curriculum for junior secondary Grades 7 -10 were purchased or produced and dist
 
 - 468. By the time the project closed, textbooks in language (English and French), mathematics, science, and social studies were available at schools at the ratio of one set of textbooks per student.  The textbooks are loan-free to students. Other teaching materials have also been distributed to schools, including curriculum, syllabi, and teachers guides accompanying textbooks; reading books; references; science work-cards; and simple apparatus.
 
-##### 378. B. Curriculum Development
+##### B. Curriculum Development
 
 - 469. Although developments in the pre-school, primary, and secondary programs have been independent of each other, the three programs are relevant, based upon sound educational principles, and are being implemented in kindergartens and schools with varying degrees of success.  However, curriculum development is never static, and this is particularly true of the present Vanuatu primary curriculum.  The process of introducing a true unified curriculum is not yet complete, and the policy of basic education from pre-school to Grade 8 (described below) will require the Government to modify present plans for its completion.  This will have a flow-on effect to the Grades 9 -12 curriculum.  Quality still needs improvement also.
 
@@ -7000,7 +6944,7 @@ Education Master Plan
 
 2000 - 2010
 
-- 473. The teachers guides, textbooks, and other materials were to be written in one language of instruction and translated into the other.  It was decided to focus on language, mathematics, social science, and basic science because long-term overseas advisers were assigned to those subjects.  An adviser for the arts made three shortterm visits, but there was no adviser for physical education.  As a consequence, there were only limited draft materials prepared in these two subjects, mainly by one of the ni-Vanuatu writers.
+- 473. The teachers guides, textbooks, and other materials were to be written in one language of instruction and translated into the other.  It was decided to focus on language, mathematics, social science, and basic science because long-term overseas advisers were assigned to those subjects.  An adviser for the arts made three short-term visits, but there was no adviser for physical education.  As a consequence, there were only limited draft materials prepared in these two subjects, mainly by one of the ni-Vanuatu writers.
 
 - 474. Only half the material in the main subject areas has been published, and some upper primary textbooks and teachers guides have yet to be written.  The aim of PASEP was to have writers, assisted by advisers, writing original textbooks and teachers guides.  This aim was modified when PASEP was reactivated in 1995 to one of adapting books from suitable overseas countries.  This change has been successful to date.  In social and basic science, draft materials have been consolidated into teachers guides and textbooks.  Grades 1 -2 materials are already in schools, and Grades 3 -6 books are in progress at the Curriculum Development Center (CDC).
 
@@ -7036,7 +6980,7 @@ Education Master Plan
 
 - 483. Proposals to produce a parallel Francophone PSSC program (agreed to by SPBEA) did not proceed because of a lack of finance. 45 There are plans for a Baccalauréat du Pacifique as a parallel course to New Zealand Bursary.  This is still in the developmental stage but was scheduled to commence in 1999.  Both Anglophone and Francophone students can also attend USP Foundation courses after Grade 12 if they wish.  The other option available for Francophone students is to attend the private school Ecole Francaise in Port Vila, which offers the French baccalaureate and with it the opportunity to study at French universities.
 
-##### Textbooks and Teachers Guides
+##### C. Textbooks and Teachers Guides
 
 ###### 484. Availability of Materials.
 At the primary school level, textbooks are available in schools the core subjects of language, mathematics, science, and social studies at the ratio of one book per student in English and in French in the first two grades.  In primary mathematics, textbooks are available up to Grade 4 in English and up to Grade 6 in French.  At the junior secondary level, textbooks in general science are available for all years in both languages.  The complete mathematics series in English (except Grade 10) and in French has been distributed to schools.  In addition, other teaching and learning materials, including curricula, syllabi, teachers guides, reading books, and references, have been delivered to schools in sufficient quantities.
@@ -7064,7 +7008,7 @@ set out by the Ministry of Education as to the availability of materials in thos
 ###### 487. Materials Production and Procurement.
 Many of the textbooks and teacher materials were written by staff of the Curriculum Development Center, an agency of the Ministry of Education established under the project.  Teachers in the field were periodically convened in curriculum panels to review manuscripts, and CDC writers and editors revised their work on the basis of the review.  Some materials, mostly reading and supplementary books, French language textbooks, and teachers guides, were purchased from publishers and booksellers in the region.
 
-- 488. The project also set new milestones in book publishing in Vanuatu.  It successfully negotiated the translation and reprinting rights to a textbook series from an international education association.  The project also undertook the revision of some previously published but out-of-print Government textbooks that teachers had judged effective tools in teaching.  These accomplishments are significant in that the former showed an innovative alternative to the time-consuming, frequently errorprone process of writing and testing and revising materials in-house by understaffed curriculum teams at CDC.  The latter exemplified publishing value-added: by improving existing textbooks, rather than developing new ones, books became available earlier, saving years of development investment in staff salaries and materials.
+- 488. The project also set new milestones in book publishing in Vanuatu.  It successfully negotiated the translation and reprinting rights to a textbook series from an international education association.  The project also undertook the revision of some previously published but out-of-print Government textbooks that teachers had judged effective tools in teaching.  These accomplishments are significant in that the former showed an innovative alternative to the time-consuming, frequently error-prone process of writing and testing and revising materials in-house by understaffed curriculum teams at CDC.  The latter exemplified publishing value-added: by improving existing textbooks, rather than developing new ones, books became available earlier, saving years of development investment in staff salaries and materials.
 
 ###### 489. A Program for Future Coverage.
 Based on the PASEP accomplishments and lessons of implementation experience, a program can be designed for the completion of textbook coverage in all subjects and grades and the periodic replenishment of the supply of textbooks and related materials in the school system.  For a 10-year basic education system, maintaining a provision program only for textbooks and teachers guides would require an annual investment ranging from VT 3.2 to VT 3.4 million per year.  This investment would allow for the maintenance of the textbook supply, which would be replenished once every 10 years. Revision of textbook series or provision of supplementary materials (reading books) would add an estimated VT 2 million annually.  In its steady state, the program would require budgetary appropriations totaling VT 5 million per year
@@ -7093,7 +7037,7 @@ Education Master Plan
 
 - 493. Vanuatu faces challenging issues in curriculum development and the provision of learning materials as its education system undergoes this considerable change.  The main challenge will be to provide an integrated basic education covering the preparatory year (P) to Grade 8, followed by a smooth transition to the secondary Grades 9-12 program.  The overriding goal should be to produce a Grades P-12 national unified curriculum for Vanuatu using vernacular languages, English, and French as the media of instruction at various stages of the program.  The implications of the Master Plan for curriculum development and the supply of textbooks and other materials are discussed below.
 
-##### Pre-school
+##### B. Pre-school
 
 - 494. With children currently starting Grade 1 at age 6, the pre-school movement has catered for children aged 4 and 5 nationwide.  The proposed
 
@@ -7213,7 +7157,7 @@ Education Master Plan
 
 2000 - 2010
 
-make students truly bilingual, so Francophone students' entry and success at Englishspeaking universities are expected to become increasingly feasible.
+make students truly bilingual, so Francophone students' entry and success at English-speaking universities are expected to become increasingly feasible.
 
 #### III.  The Curriculum Development Center
 
@@ -7233,7 +7177,9 @@ make students truly bilingual, so Francophone students' entry and success at Eng
 
 ##### B. A Changing Role
 
-515. There are several options for restructuring CDC to make it more adaptable to changing needs.  For example, the number of staff could be reduced to a core specialist group with the power to co-opt and/or contract persons as required.  This is important because CDC is now involved with secondary as well as primary curriculum development, so it needs the help of people with extra skills that the present staff do not have.  These people could be contracted to write or revise specific materials. 516. Some of CDC's original functions, including producing books, may be less important in the future.  Writing original material is time consuming, and in many cases, similar high-quality materials are already available.  The reactivated Primary and Secondary Education Project took existing mathematics textbooks from Mali, for example, and adapted them to the Vanuatu context.  Even neighboring countries may have textbooks and other materials that, with some revisions, would be appropriate for Vanuatu.  The private sector could also play a role in translating, publishing, and printing new materials.  In addition, private companies could be involved in the distribution of materials, as happened with primary and secondary books under PASEP.  And with less in-house production, the printery could be scaled back and its staff reassigned, for example, to service the Examinations and Assessment Unit.
+- 515. There are several options for restructuring CDC to make it more adaptable to changing needs.  For example, the number of staff could be reduced to a core specialist group with the power to co-opt and/or contract persons as required.  This is important because CDC is now involved with secondary as well as primary curriculum development, so it needs the help of people with extra skills that the present staff do not have.  These people could be contracted to write or revise specific materials.
+
+- 516. Some of CDC's original functions, including producing books, may be less important in the future.  Writing original material is time consuming, and in many cases, similar high-quality materials are already available.  The reactivated Primary and Secondary Education Project took existing mathematics textbooks from Mali, for example, and adapted them to the Vanuatu context.  Even neighboring countries may have textbooks and other materials that, with some revisions, would be appropriate for Vanuatu.  The private sector could also play a role in translating, publishing, and printing new materials.  In addition, private companies could be involved in the distribution of materials, as happened with primary and secondary books under PASEP.  And with less in-house production, the printery could be scaled back and its staff reassigned, for example, to service the Examinations and Assessment Unit.
 
 198
 
@@ -7251,13 +7197,13 @@ Education Master Plan
 
 - 518. CDC should not be a stand-alone institution.  It should both seek advice and provide advice to strengthen the quality and impact of its work.  It should have strong links with the Vanuatu Teachers College, which will disseminate new materials to the teachers of the future, and to the Examinations and Assessment Unit, where papers should be set to examine the learning objectives of the curriculum materials.  Finally, CDC should renew its work with subject committees.  These committees have performed an important evaluative function with the materials produced so far at CDC.  Some committees have ceased to function, and they should be reactivated when the need arises.  Committees should include both Anglophones and Francophones as members to maintain the spirit of a unified curriculum.
 
-##### National Curriculum Commission
+##### C. National Curriculum Commission
 
 - 519. Vanuatu currently has no monitoring system in place to review and authorize completed curriculum materials.  The Government will therefore establish a National Curriculum Commission. This body will have a senior education officer as Chair.  The Chair would  appoint appropriate persons as members of the Commission according to program, curriculum, or subject.  The purpose of the Commission is to review and evaluate curricula and materials and to authorize the release of curricula and materials to schools.
 
 #### IV. A Development Program: 2000 -2010
 
-- The Government plans to take the following steps to address the needs and issues presented in this annex.  An implementation timetable is below.
+- 520. The Government plans to take the following steps to address the needs and issues presented in this annex.  An implementation timetable is below.
 
 ###### 521. Action 1:
 The Government will complete the remainder of the Grades 1-6 and 7-10 PASEP curriculum materials as a matter of urgency.  Because the curriculum materials for the new system will not be fully introduced for several more years, the completion of these revised materials is of high priority.
@@ -7301,7 +7247,7 @@ The Government will weigh the advantages of translating the Pacific Secondary Sc
 ###### 530. Action 10:
 The Government will reorganize the Curriculum Development Center into a small and flexible unit capable of managing contracts with individuals and firms in the private sector for the writing, designing, production, and distribution of textbooks and other instructional materials. Government will consider assigning staff of the in-house printery to service the Examinations and Assessment Unit, retaining the services only of key technical staff.
 
-###### 531 . Action 11:
+###### 531. Action 11:
 The Government will consider expanding the Curriculum Development Center's distance education function beyond its present concentration on radio broadcasts.
 
 ###### 532. Action 12:
@@ -7319,6 +7265,8 @@ Education Master Plan
 
 2000 - 2010
 
+##### Table 1:  Implementation Timetable
+
 Year | Task
 --- | ---
 1999 - 2000 | Completion of present school program curriculum materials Grades 1 - 6 and 7 - 10 Planning for community school component Present pre-school and Grades 1 - 2 curriculum materials adapted for use in community schools
@@ -7328,8 +7276,6 @@ Feb 2002 | Community school Grade 1 classes commence Primary school Grade 7 clas
 2002 - 2004 | Grades P-8 physical education and arts materials prepared Language syllabuses and materials for Grades 3 - 12 reviewed and revised
 Feb 2003 | Community school Grade 2 classes commence Primary school Grade 8 classes commence
 2007 - 2008 | Present Grades 9 - 10 and Grades 11 - 12 materials revised for use in the provincial secondary school program Grades 9-12 technology subject prepared
-
-##### Table 1:  Implementation Timetable
 
 201
 
@@ -7343,32 +7289,32 @@ Education Master Plan
 
 2000 - 2010
 
-##### INSTRUCTIONAL MATERIALS FOR GRADES 7 10
+#### ATTACHMENT A:
 
-#### ATTACHMENT A: -
+##### INSTRUCTIONAL MATERIALS FOR GRADES 7-10
 
 ###### Attachment Table 1: Textbooks and Teachers Guides for Grades 7 -10, Recommended by Task Force 2000
 
-Textbooks | Reading Books | Teachers Guides | Others | Total
+ | Textbooks | Reading Books | Teachers Guides | Others | Total
 --- | --- | --- | --- | --- | ---
-Anglophone Series
-Agriculture (English & French) | 11 | 11
+Anglophone Series |  |  |  |  | 
+Agriculture (English & French) |  |  | 11 |  | 11
 English Language | 5 | 13 | 12 | 1 | 31
-French as Second Language | 4 | 1 | 5
-Basic Science | 8 | 9 | 10 | 27
-Mathematics | 9 | 1 | 10
-Religious Education | 5 | 1 | 6
-Social Science | 15 | 6 | 21
+French as Second Language | 4 |  |  | 1 | 5
+Basic Science | 8 |  | 9 | 10 | 27
+Mathematics | 9 |  | 1 |  | 10
+Religious Education |  |  | 5 | 1 | 6
+Social Science | 15 |  | 6 |  | 21
 Total Anglophone Series | 41 | 13 | 44 | 13 | 111
-Francophone Series
-Agriculture (English & French) | 11 | 11
-French Language | 5 | 2 | 4 | 11
-English as Foreign Language | 2 | 6 | 8
-Physical and Natural Sciences | 8 | 9 | 10 | 27
-Mathematics | 7 | 1 | 8
-Religious Education | 5 | 1 | 6
-Social Sciences | 17 | 5 | 22
-Total Francophone Series | 39 | 39 | 15 | 93
+Francophone Series |  |  |  |  | 
+Agriculture (English & French) |  |  | 11 |  | 11
+French Language | 5 |  | 2 | 4 | 11
+English as Foreign Language | 2 |  | 6 |  | 8
+Physical and Natural Sciences | 8 |  | 9 | 10 | 27
+Mathematics | 7 |  | 1 |  | 8
+Religious Education |  |  | 5 | 1 | 6
+Social Sciences | 17 |  | 5 |  | 22
+Total Francophone Series | 39 |  | 39 | 15 | 93
 Total Titles | 80 | 13 | 72 | 28 | 193
 
 202
@@ -7383,28 +7329,29 @@ Education Master Plan
 
 2000 - 2010
 
-Attachment A: for Secondary Grades 7 10
+#### Attachment A:
 
-###### Table 2: PASEP-Provided Textbooks and Teachers Guides -
+###### Table 2: PASEP-Provided Textbooks and Teachers Guides for Secondary Grades 7-10
 
-Textbooks | Reading Books | Teachers Guides | Others | Total
+ | Textbooks | Reading Books | Teachers Guides | Others | Total
 --- | --- | --- | --- | --- | ---
-Anglophone Series
-Agriculture | 6 | 6
-English Language
-French as Second Language
-Basic Science | 6 | 6 | 17 | 29
-Mathematics | 3 | 3
-Religious Education | 0
-Social Science | 0
+Anglophone Series |  |  |  |  | 
+Agriculture |  |  | 6 |  | 6
+English Language |  |  |  |  | 
+French as Second Language |  |  |  |  | 
+Basic Science | 6 |  | 6 | 17 | 29
+Mathematics | 3 |  |  |  | 3
+Religious Education |  |  |  |  | 0
+Social Science |  |  |  |  | 0
 Total Anglophone Series | 9 | 0 | 12 | 17 | 38
-Francophone Series
-Agriculture | 8 | 8
-French Language | 1 | 1
-English as Foreign Language
-Physical and Natural Sciences | 6 | 6 | 17 | 29
-Mathematics
-Religious Education
+Francophone Series |  |  |  |  | 
+Agriculture |  |  | 8 |  | 8
+French Language | 1 |  |  |  | 1
+English as Foreign Language |  |  |  |  | 
+Physical and Natural Sciences | 6 |  | 6 | 17 | 29
+Mathematics |  |  |  |  | 
+Religious Education |  |  |  |  | 
+Social Sciences |  |  |  |  | 
 Total Francophone Series | 7 | 0 | 14 | 17 | 38
 Total Titles | 16 | 0 | 26 | 34 | 76
 
@@ -7419,26 +7366,27 @@ Total Titles | 16 | 0 | 26 | 34 | 76
 ##### RATIO OF TEXTBOOKS TO BASIC EDUCATION STUDENTS
 ###### Attachment Table 1: Ratio of Textbooks to Basic Education Students, by Grade Level, July 1997
 
-1 | 2 | 3 | 4 | 5 | 6 | Subtotal | 7 | 8 | 9 | 10 | Subtotal
+Students by Grade and Sex
+ | 1 | 2 | 3 | 4 | 5 | 6 | Subtotal | 7 | 8 | 9 | 10 | Subtotal
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Male | 3,465 | 3,033 | 2,811 | 2,657 | 2,280 | 2,420 | 16,666 | 896 | 806 | 622 | 554 | 2,878
 Female | 3,136 | 2,666 | 2,499 | 2,381 | 2,031 | 2,368 | 15,081 | 807 | 714 | 520 | 491 | 2,532
 Total | 6,601 | 5,699 | 5,310 | 5,038 | 4,311 | 4,788 | 31,747 | 1,703 | 1,520 | 1,142 | 1,045 | 5,410
 Textbooks Distributed as of 7/27/98
-Anglophone Students | 3,987 | 3,442 | 3,207 | 3,043 | 2,604 | 2,892 | 1,032 | 921 | 692 | 633
-English | 3,600 | 5,000 | 5,000 | 3,017
-Math | 3,801 | 3,981 | 3,319 | 3,035 | 928 | 885 | 701
-Science | 3,779 | 2,000 | 928 | 885 | 1,402 | 1,119
-Social Studies | 3,648 | 4,022 | 3,068
-Book:pupil (b:p) ratio | 3.72 | 4.36 | 2.59 | 2.01 | 1.04 | 1.80 | 1.92 | 3.04 | 1.77
-Net b:p ratio | 0.93 | 1.09 | 0.65 | 0.50 | 0.26 | 0.45 | 0.48 | 0.76 | 0.44
-Francophone Students | 2,614 | 2,257 | 2,103 | 1,995 | 1,707 | 1,896 | 671 | 599 | 450 | 412
-French | 2,881 | 2,840 | 4,243 | 2,961 | 2,961 | 2,961 | 2,961
-Math | 2,970 | 2,867 | 2,683 | 2,018 | 2,111 | 2,003
-Science | 2,950 | 2,867 | 886 | 778 | 1,432 | 1,162
-Social Studies | 2,708 | 2,867 | 2,487
-Book:pupil ratio | 4.40 | 5.07 | 1.28 | 4.38 | 1.24 | 1.06 | 5.73 | 6.24 | 9.76 | 10.01
-Net b:p ratio | 1.10 | 1.27 | 0.32 | 1.10 | 0.31 | 0.26 | 1.43 | 1.56 | 2.44 | 2.50
+Anglophone Students | 3,987 | 3,442 | 3,207 | 3,043 | 2,604 | 2,892 |  | 1,032 | 921 | 692 | 633 | 
+English | 3,600 | 5,000 | 5,000 |  |  | 3,017 |  |  |  |  |  | 
+Math | 3,801 | 3,981 | 3,319 | 3,035 |  |  |  | 928 | 885 | 701 |  | 
+Science | 3,779 | 2,000 |  |  |  |  |  | 928 | 885 | 1,402 | 1,119 | 
+Social Studies | 3,648 | 4,022 |  | 3,068 |  |  |  |  |  |  |  | 
+Book:pupil (b:p) ratio | 3.72 | 4.36 | 2.59 | 2.01 |  | 1.04 |  | 1.80 | 1.92 | 3.04 | 1.77 | 
+Net b:p ratio | 0.93 | 1.09 | 0.65 | 0.50 |  | 0.26 |  | 0.45 | 0.48 | 0.76 | 0.44 | 
+Francophone Students | 2,614 | 2,257 | 2,103 | 1,995 | 1,707 | 1,896 |  | 671 | 599 | 450 | 412 | 
+French | 2,881 | 2,840 |  | 4,243 |  |  |  | 2,961 | 2,961 | 2,961 | 2,961 | 
+Math | 2,970 | 2,867 | 2,683 | 2,018 | 2,111 | 2,003 |  |  |  |  |  | 
+Science | 2,950 | 2,867 |  |  |  |  |  | 886 | 778 | 1,432 | 1,162 | 
+Social Studies | 2,708 | 2,867 |  | 2,487 |  |  |  |  |  |  |  | 
+Book:pupil ratio | 4.40 | 5.07 | 1.28 | 4.38 | 1.24 | 1.06 |  | 5.73 | 6.24 | 9.76 | 10.01 | 
+Net b:p ratio | 1.10 | 1.27 | 0.32 | 1.10 | 0.31 | 0.26 |  | 1.43 | 1.56 | 2.44 | 2.50 | 
 
 [[END OF PAGE 210]]
 
@@ -7456,17 +7404,17 @@ Education Master Plan
 
 #### Contents
 
-- The Current System for Assessing Education Outcomes at the National Level
+I. The Current System for Assessing Education Outcomes at the National Level
 
-- School-based Assessment Programs
+II. School-based Assessment Programs
 
-- Training in Education Assessment Methodology
+III. Training in Education Assessment Methodology
 
-- The Vanuatu Examinations and Assessment Unit
+IV. The Vanuatu Examinations and Assessment Unit
 
-- Actions
+V. Actions
 
-- Costs
+VI. Costs
 
 #### Attachments
 
@@ -7474,7 +7422,7 @@ Attachment A:  Characteristics of Individual Examinations
 
 Attachment B: 1997 National Year 6 and Year 10 Examination Results
 
-- Attachment C: Pacific Islands Literacy Levels (PILL) Summary Data
+Attachment C: Pacific Islands Literacy Levels (PILL) Summary Data
 
 #### I.  Current System for Assessing Education Outcomes at the National Level
 
@@ -7496,6 +7444,8 @@ Education Master Plan
 
 2000 - 2010
 
+###### Table 1:  Current Education Assessment System, by Level and Responsible Authority
+
 Level | Examination/Test | Responsible Authority
 --- | --- | ---
 Grade 4 | Pacific Islands Literacy Levels Test 1 (PILL) | South Pacific Board for Educational Assessment (SPBEA)
@@ -7507,8 +7457,6 @@ Grade 12 | Diplôme de l'Année Douze | Lycée Bougainville
 Grade 13 | New Zealand University Entrance, Bursaries and Scholarships (UEBS) | New Zealand Qualifications Authority (NZQA)
 Grade 13 | Foundation Course | University of the South Pacific (USP)
 Grade 14 | Diplôme de l'Année Quatorze | Université Française du Pacifique
-
-###### Table 1:  Current Education Assessment System, by Level and Responsible Authority
 
 ##### C. Grade 6 and Grade 10 National Examinations
 
@@ -7562,13 +7510,13 @@ Education Master Plan
 ###### 544. Processing and Reporting of Examination Marks.
 All processing of both external and internal examination marks is carried out by the Examinations and Assessment Unit, using programs developed by the SPBEA.  Both the entering and processing of data are carried out efficiently.
 
-- 545. Once all marks, both internal and external, have been processed, the Examinations and Assessment Unit produces complete lists of results as required by the Vanuatu National Examinations Board.  Marks in each subject are first placed on a 15point scale, with fixed proportions of marks at each point.  These are then aggregated to produce rank order lists of candidates for each qualification.  The Unit produces separate lists of Anglophone and Francophone students.  The National Examinations Board is responsible for the final approval of the marks and rank order listings, and for the selection and placement of students for Grade 7, and for Grade 11 or INTV.
+- 545. Once all marks, both internal and external, have been processed, the Examinations and Assessment Unit produces complete lists of results as required by the Vanuatu National Examinations Board.  Marks in each subject are first placed on a 15-point scale, with fixed proportions of marks at each point.  These are then aggregated to produce rank order lists of candidates for each qualification.  The Unit produces separate lists of Anglophone and Francophone students.  The National Examinations Board is responsible for the final approval of the marks and rank order listings, and for the selection and placement of students for Grade 7, and for Grade 11 or INTV.
 
 - 546. In addition to reporting results to the National Examinations Board, the Examinations and Assessment Unit also reports results to schools and to individual students.  Each school receives a printout of all the results for its students.  Students receive an attractive certificate showing their grade out of 15 in each subject.  Grades are not aggregated in any way on the certificates.  The back of the certificate classifies the 15-point scale into five broad bands of achievement.
 
 - 547. The concept of pass or fail is not recorded anywhere on the certificates. Students are selected to go on for further education or they are not, based on their ranking and the number of places available.  In practice, people often refer to those who have been selected as having passed, and those who have not as having failed.  This concept of pass or fail is not related to set standards but to the number of places available in the respective Anglophone and Francophone systems.  Those not selected may re-sit the examination.  But students who are entering for the Grade 6 examination for a third time are automatically excluded from the selection process for Grade 7, as are students older than 13.
 
-#### 454. II.  School-based Assessment Programs
+#### II.  School-based Assessment Programs
 
 - 548. Most teachers assess their students regularly. 46 Often this takes the form of a Friday test on the week's work in one or more subjects.  The tests have a summative purpose; all marks are collected into the teacher's workbook and are used when reporting to parents on student progress.  The tests are returned to students and go into the students' own workbooks.  To this extent they have a formative function: students can, if they wish, look at their performance in a test to see what they did well and where they need to improve.  However, this is often difficult for an individual student to do, and teachers in general have not been trained to help individual students review and learn from their performance in tests.
 
@@ -7608,7 +7556,7 @@ Education Master Plan
 
 - 551. Training in education assessment methodology was not systematically included in the program for primary Anglophone trainees at the Vanuatu Teachers College up to 1998.  A professional studies program has now been prepared and a lecturer appointed; the program includes a module on assessment.  A module on assessment is being included in the new course for secondary Anglophone trainees.  Francophone primary and secondary trainees are taught assessment methodology within each subject program; responsibility for this rests with individual subject lecturers.
 
-- 552. In-service training in assessment has been included in the past in general inservice training programs, but not as a major component in the programs.  As already mentioned, more emphasis has been placed recently on in-service training in assessment for primary teachers as part of the BELS program sponsored by UNESCO.  In particular, two of the provincial advisors are carrying out this work.
+- 552. In-service training in assessment has been included in the past in general in-service training programs, but not as a major component in the programs.  As already mentioned, more emphasis has been placed recently on in-service training in assessment for primary teachers as part of the BELS program sponsored by UNESCO.  In particular, two of the provincial advisors are carrying out this work.
 
 - 553. Since the introduction in 1996 of an internal assessment component into most Grade 10 examinations, there has been an emphasis on assessment in in-service training for secondary school teachers.  As previously noted, the teachers' role in Grade 10 internal assessment is currently limited to administering and marking the tasks.  It is readily acknowledged that this was the most appropriate way to introduce internal assessment into the Grade 10 examinations.  It is, however, not a cost-effective form of internal assessment.  In the longer term, as teachers and trainees receive more training in assessment methodology, it should be possible to consider including the results of teacher-prepared tasks as a part of the internal assessment component of the Grade 10 examinations.  Similarly, internal assessment should become part of the new Grade 8 examinations that will be necessary as the Government progressively provides access to Grade 8 for all students.
 
@@ -7662,7 +7610,7 @@ Education Master Plan
 
 - 560. The building currently housing the Examinations and Assessment Unit has been extended and improved in recent years.  Security of confidential material is, however, still a concern.  Proposals are well advanced to construct a new building for the Examinations and Assessment Unit adjacent to the current Curriculum Development Center building.  This will allow, among other things, a more rational sharing between the Examinations and Assessment Unit and the Curriculum Development Center of resources such as transport, photocopiers, printers, computers, and meeting space. Careful thought will need to be given to maximizing the use of a new building while ensuring security of examination materials.
 
-#### 470. V.  Actions
+#### V.  Actions
 
 - 561. The Government will take the following measures to improve the quality of assessment and therefore the quality of teaching and learning in Vanuatu.  Additional assessments are not required.  It is the quality rather than the quantity of assessments, and the use made of assessment results, that are important.  These actions are based on the Government's plan of access for all students to Grade 8 by 2010.  They include the national systems that will be required during the phase-in period up to 2010 and the structures that should be in place by 2010.
 
@@ -7670,12 +7618,10 @@ Education Master Plan
 
 - 562. During the transition period when Vanuatu is moving from six years of universal basic education to eight years, the national assessment system will need to be flexible.  The Government plans to take the following steps.
 
-###### 473. National Assessment System by 2010
+###### National Assessment System by 2010
 
 ###### 563. Action 1:
 The Government will have in place the following national assessment system by 2010:
-
-475.
 
 Level | Test / Examination | Purpose
 --- | --- | ---
@@ -7754,7 +7700,7 @@ The Government will have Anglophone students continue to sit the PSSC examinatio
 
 ###### Grade 13/14 Examinations
 
-###### 573 . Action 11:
+###### 573. Action 11:
 The Government will modify the Grade 13/14 examinations as needed to meet the needs of students in the respective Anglophone and Francophone systems.  It will also continue with the current New Zealand University Bursaries examination offered in Vanuatu (see Attachment A).
 
 ###### 574. Action 12:
@@ -7765,7 +7711,7 @@ The Government will fully investigate the implications of introducing a Baccalau
 ###### 575. Action 13:
 The Government will make school-based assessment (internal assessment) a part of all national examinations from Grade 8 onward.
 
-##### The Examinations and Assessment Unit
+##### B. The Examinations and Assessment Unit
 
 214
 
@@ -7788,7 +7734,7 @@ The Government will provide training for Assessment Officers and others in the U
 ###### 578. Action 16:
 The Government will conduct a review of the use of data from national tests and examinations (including the PILL tests) to improve the quality of education offered by schools.  The review will consider the most efficient means of processing, analyzing, and disseminating the data, and the steps to be taken when the data identify schools with high numbers of at-risk students.
 
-###### 579 . Action 17:
+###### 579. Action 17:
 The Government will place all examiners and moderators for national examinations on performance-based contracts.  To improve the reliability and validity of national assessments, the Government will also undertake a review to determine the most suitable methods of appointing, training, and supervising Grade 6 and Grade 10 (and eventually Grade 8) examiners and markers.
 
 ###### 580. Action 18:
@@ -7797,7 +7743,7 @@ The Government will prepare subject prescriptions and blueprints for the Grade 6
 ###### 581. Action 19:
 The Government will carry out a review of the material needs (for example: storage, transport, printing, computers) of the Examinations and Assessment Unit and the Curriculum Development Center.  This review will be done in conjunction with the construction of new premises for the Examinations and Assessment Unit in order to maximize the use of the available facilities.
 
-##### 495. C. Training in Education Assessment Methodology
+##### C. Training in Education Assessment Methodology
 
 ###### 582. Action 20:
 The Government will review current training in assessment methodology provided at the Vanuatu Teachers College.  The review will include Anglophone and Francophone programs at both primary and secondary levels.  The review will evaluate the extent to which the College emphasizes the diagnostic and formative functions of assessment as well as its summative function.
@@ -7809,7 +7755,7 @@ The Government will offer common programs in assessment methodology to both Angl
 The Government will provide training for Provincial Education Officers, pedagogical advisers, head teachers, and principals in the effective use of assessment in classrooms, so that this can form an important part of their in-service training programs.
 
 ###### 585. Action 23:
-The Government will also give training at both pre-service and inservice levels in the ongoing evaluation of teaching programs.
+The Government will also give training at both pre-service and in-service levels in the ongoing evaluation of teaching programs.
 
 #### VI.  Costs
 
@@ -7860,26 +7806,18 @@ Subjects | Language (English or French); number
 Assessment | A single written test including language and number sections
 Preparation and administration | The test is prepared in English by SPBEA and administered by the Vanuatu Examinations and Assessment Unit. It is translated into French by the Examinations and Assessment Unit for Vanuatu's Francophone students.
 Purpose | Diagnostic. The test is used in a number of Pacific Island states. It is intended to provide feedback to national agencies and schools on the literacy and numeracy levels of Grade 4 students.
-Outcomes | A report prepared by the Vanuatu Examinations and Assessment Unit. This includes sets of provincial and national performance data for Anglophone and Francophone students, and for both groups combined. There is also a comment on performance in some individual low- achieving and high-achieving schools in the 1996 report.
-Comments | First used in 1994. The reports for 1994 - 96 have been published by the Vanuatu Examinations and Assessment Unit but not widely distributed. Feedback has in general not been provided to individual schools.
+Outcomes | A report prepared by the Vanuatu Examinations and Assessment Unit. This includes sets of provincial and national performance data for Anglophone and Francophone students, and for both groups combined. There is also a comment on performance in some individual low-achieving and high-achieving schools in the 1996 report.
+Comments | First used in 1994. The reports for 1994-96 have been published by the Vanuatu Examinations and Assessment Unit but not widely distributed. Feedback has in general not been provided to individual schools.
+
+The 1996 report notes that “in both 1994 and 1995, reports were written and presented to the Ministry of Education for consideration and follow up. The information collected is believed to be the most comprehensive and valid ever gathered in Vanuatu, especially in Grade 4. It is indeed a tragedy that there is hardly any attempt to follow up the reports and findings in a meaningful way.”
 
 ###### Pacific Islands Literacy Levels Test 2 (PILL 2)
 
-Candidates
-
-All Grade 6 students, Anglophone and Francophone
-
-Subjects
-
-Language (English or French); number
-
-Assessment
-
-A single written test including language and number sections
-
-Preparation and
-
-The test is prepared in English by the SPBEA and administered by the
+Candidates | All Grade 6 students, Anglophone and Francophone
+--- | ---
+Subjects | Language (English or French); number
+Assessment | A single written test including language and number sections
+Preparation and | The test is prepared in English by the SPBEA and administered by the
 
 217
 
@@ -7893,19 +7831,13 @@ Education Master Plan
 
 2000 - 2010
 
-administration by the Examinations and Assessment Unit for Vanuatu's Francophone
+administration | Vanuatu Examinations and Assessment Unit.  It is translated into French by the Examinations and Assessment Unit for Vanuatu's Francophone students.
 
-Vanuatu Examinations and Assessment Unit.  It is translated into French students.
+Purpose | Diagnostic.  The test is used in a number of Pacific Island states.  It is intended to provide feedback to national agencies and schools on the literacy and numeracy levels of Grade 6 students.
 
-Purpose Diagnostic.  The test is used in a number of Pacific Island states.  It is intended to provide feedback to national agencies and schools on the literacy and numeracy levels of Grade 6 students.
+Outcomes | A report prepared by the Vanuatu Examinations and Assessment Unit. This includes sets of provincial and national performance data for Anglophone and Francophone students, and for both groups combined.
 
-Outcomes This includes sets of provincial and national performance data for
-
-A report prepared by the Vanuatu Examinations and Assessment Unit. Anglophone and Francophone students, and for both groups combined.
-
--
-
-Comments First used in 1995.  The reports for 1995 96 have been published by the Vanuatu Examinations and Assessment Unit but not widely distributed. Feedback has not been provided to individual schools.
+Comments | First used in 1995.  The reports for 1995-96 have been published by the Vanuatu Examinations and Assessment Unit but not widely distributed. Feedback has not been provided to individual schools.
 
 No work has yet been carried out on a longitudinal comparison of the progress made by students in individual schools between Grade 4 and Grade 6.  Such comparisons could be used as a measurement of the 'value added' to students by individual schools.
 
@@ -7925,31 +7857,16 @@ Education Master Plan
 
 ###### National Primary Examination / Examen Primaire National
 
-Candidates
+Candidates | All Grade 6 students, Anglophone and Francophone
+--- | ---
+Subjects | Language (English or French); mathematics; general knowledge
+Assessment | A written examination in each subject
+Preparation and administration | The examination is prepared and administered through the Vanuatu Examinations and Assessment Unit.  The Anglophone and Francophone examination in each subject is prepared separately by a Chief Examiner and Assistant Chief Examiner, and moderated by an independent moderator.  The papers are largely prepared during a one-week workshop held in August of the year before the examination, and attended by an Assessment Officer from the SPBEA.  Papers are then completed by the Chief Examiners in their own time.  Examiners and moderators come mainly from Curriculum Development and Teachers College staff. Virtually no material in any of the papers is common between the examinations in the two languages.
+Purpose | Selection.  Results from the examination determine which students will go on to junior secondary school (Grade 7).
+Outcomes | Students are ranked on a 15-point scale in each of the three subjects, for an overall score of up to 45.  There is a separate ranking list for Anglophone and Francophone students.  The rankings are then used to select students to go on to Grade 7 according to the number of secondary school places available in the respective systems.  The cut-off point for Anglophone students in 1997 was 27/45 and for Francophone students, 22/45.
+Comments | In 1997, 34.3 percent of Anglophone and 58.7 percent of Francophone students were selected to go on to Grade 7.  These percentages have nothing to do with the relative abilities of the two cohorts; they are determined by the places available nationally in Grade 7.  (See Attachment B for a summary of 1997 results.)  On the contrary, the 1996 PILL 2 test data (see Attachment C) indicate that the Grade 6 Anglophone students are stronger in both literacy and numeracy than the Francophone students.  These two factors (the proportional number of places available in Anglophone and Francophone secondary schools and the comparative ability level of the students as measured by the PILL tests) suggest that the overall ability of students entering secondary school is weaker in Francophone than in Anglophone secondary schools.
 
-All Grade 6 students, Anglophone and Francophone
-
-Subjects
-
-Language (English or French); mathematics; general knowledge
-
-Assessment
-
-A written examination in each subject
-
-Preparation and administration
-
-Purpose The examination is prepared and administered through the Vanuatu Examinations and Assessment Unit.  The Anglophone and Francophone examination in each subject is prepared separately by a Chief Examiner and Assistant Chief Examiner, and moderated by an independent moderator.  The papers are largely prepared during a one-week workshop held in August of the year before the examination, and attended by an Assessment Officer from the SPBEA.  Papers are then completed by the Chief Examiners in their own time.  Examiners and moderators come mainly from Curriculum Development and Teachers College staff. Virtually no material in any of the papers is common between the examinations in the two languages.
-
-Selection.  Results from the examination determine which students will go on to junior secondary school (Grade 7).
-
-Outcomes Students are ranked on a 15-point scale in each of the three subjects, for an overall score of up to 45.  There is a separate ranking list for Anglophone and Francophone students.  The rankings are then used to select students to go on to Grade 7 according to the number of secondary school places available in the respective systems.  The cut-off point for Anglophone students in 1997 was 27/45 and for Francophone students, 22/45.
-
-Comments PILL 2 test data (see Attachment C) indicate that the Grade 6 Anglophone
-
-In 1997, 34.3 percent of Anglophone and 58.7 percent of Francophone students were selected to go on to Grade 7.  These percentages have nothing to do with the relative abilities of the two cohorts; they are determined by the places available nationally in Grade 7.  (See Attachment B for a summary of 1997 results.)  On the contrary, the 1996 students are stronger in both literacy and numeracy than the Francophone students.  These two factors (the proportional number of places available in Anglophone and Francophone secondary schools and the comparative ability level of the students as measured by the PILL tests) suggest that the overall ability of students entering secondary school is weaker in Francophone than in Anglophone secondary schools.
-
-Students who are entering for the examination for a third time are automatically excluded from the selection process for Grade 7, as are students older than 13.  While the exclusion of repeat testers can be justified, the age exclusion could be denying very capable students who were unable to qualify at age 13 or younger, through no fault of their own (e.g., illness, isolation), the chance to continue their education.
+Students who are entering for the examination for a third time are automatically excluded from the selection process for Grade 7, as are students older than 13.  While the exclusion of repeat testers can be justified, the age exclusion could be denying very capable students who
 
 219
 
@@ -7962,6 +7879,8 @@ Republic of Vanuatu
 Education Master Plan
 
 2000 - 2010
+
+were unable to qualify at age 13 or younger, through no fault of their own (e.g., illness, isolation), the chance to continue their education.
 
 ###### Grade 10 Examination / Examen de l'Année Dix
 
@@ -8001,21 +7920,19 @@ Teachers in some schools have complained that some of the examiners are teaching
 
 ###### Pacific Senior Secondary Certificate (PSSC)
 
-Candidates
+Candidates Grade 12 Anglophone students
 
-Subjects Grade 12 Anglophone students Thirteen subjects are available; 11 of these are taught in the three Anglophone schools teaching Grade 12 students (Malapoa and Matevulu Colleges and Aore Adventist Academy).  Most candidates enter five subjects; some candidates at Malapoa enter in six (or occasionally more) subjects.  The average in 1996 was 5.4 subjects.
+Subjects Thirteen subjects are available; 11 of these are taught in the three Anglophone schools teaching Grade 12 students (Malapoa and Matevulu Colleges and Aore Adventist Academy).  Most candidates enter five subjects; some candidates at Malapoa enter in six (or occasionally more) subjects.  The average in 1996 was 5.4 subjects.
 
 Assessment A written examination plus internal assessment (IA) in each subject.  In most subjects the ratio is 60:40 EXAM:IA; two subjects have a 50:50 ratio.
 
-Preparation and administration
+Preparation and administration The examination is prepared by the SPBEA and administered by the Vanuatu Examinations and Assessment Unit.
 
-Purpose The examination is prepared by the SPBEA and administered by the Vanuatu Examinations and Assessment Unit.
-
-Further studies, either by scholarship in a secondary school overseas; to Grade 13 in Malapoa or Matevulu Colleges to prepare for the New Zealand University Bursaries examination; to a Foundation course at the University of the South Pacific (USP) in Port Vila; or to a preparatory course at USP in Fiji.  Students may follow further studies as above, go to INTV, or seek to enter the workforce.
+Purpose Further studies, either by scholarship in a secondary school overseas; to Grade 13 in Malapoa or Matevulu Colleges to prepare for the New Zealand University Bursaries examination; to a Foundation course at the University of the South Pacific (USP) in Port Vila; or to a preparatory course at USP in Fiji.  Students may follow further studies as above, go to INTV, or seek to enter the workforce.
 
 Outcomes Students receive a grade from 1 to 9 in each subject.  A grade of 12 or better in 'English plus best three other subjects' has become the recognized achievement level within the SPBEA countries for students aspiring to the chance for education at university level.
 
-Comments In 1996, 28.4 percent of Vanuatu candidates achieved a total of 12 or better in 'English plus best three other subjects' ⎯ 40 candidates total.  A further 25.5 percent of candidates (36 in total) achieved a total of 15 or less; some of these could be expected to achieve successfully at university level.  Vanuatu has a higher proportion of its PSSC candidature achieving top grades than many other PSSC countries.  Vanuatu is also more rigorously selective in the proportion of students entering senior secondary school than most other PSSC countries, and its percentage of the whole age group achieving PSSC success is a little less than the regional average.  The 1996 SPBEA report notes that 'there may be greater numbers of [Anglophone] students in Vanuatu who could gain from a Grade 12 education than are currently able to do so.'
+Comments In 1996, 28.4 percent of Vanuatu candidates achieved a total of 12 or better in 'English plus best three other subjects' ⎯ 40 candidates total.  A further 25.5 percent of candidates (36 in total) achieved a total of 15 or
 
 221
 
@@ -8029,31 +7946,23 @@ Education Master Plan
 
 2000 - 2010
 
+less; some of these could be expected to achieve successfully at university level.  Vanuatu has a higher proportion of its PSSC candidature achieving top grades than many other PSSC countries.  Vanuatu is also more rigorously selective in the proportion of students entering senior secondary school than most other PSSC countries, and its percentage of the whole age group achieving PSSC success is a little less than the regional average.  The 1996 SPBEA report notes that 'there may be greater numbers of [Anglophone] students in Vanuatu who could gain from a Grade 12 education than are currently able to do so.'
+
 ###### Diplôme de l'Année Douze
 
-Candidates
+Candidates Grade 12 Francophone students at the Lycée Bougainville
 
-Subjects
+Subjects Eight subjects; students study all eight.  Results are weighted according to whether students are following 'la section littéraire ou scientifique.'
 
-Assessment
+Assessment A written examination (25 percent) plus internal assessment (25 percent per term) in each subject.
 
-Preparation and administration
+Preparation and administration The examination is prepared and administered by teachers at the Lycée.
 
-Purpose
+Purpose Selection for a further two years at the Lycée.  Selection is based on internal assessment results; students must also pass the end-of-year examination.
 
-Outcomes Grade 12 Francophone students at the Lycée Bougainville Eight subjects; students study all eight.  Results are weighted according to whether students are following 'la section littéraire ou scientifique.'
+Outcomes Further studies at the Lycée.  Those not selected may go to the Vanuatu Teachers College (CFEB), the INTV, or the University of the South Pacific, or they may enter the workforce.
 
-A written examination (25 percent) plus internal assessment (25 percent per term) in each subject.
-
-The examination is prepared and administered by teachers at the Lycée.
-
-Selection for a further two years at the Lycée.  Selection is based on internal assessment results; students must also pass the end-of-year examination.
-
-Further studies at the Lycée.  Those not selected may go to the Vanuatu Teachers College (CFEB), the INTV, or the University of the South Pacific, or they may enter the workforce.
-
-Comments assistance for this.  A proposal was put forward some years ago to prepare such as translation and printing would have to be met by Vanuatu, and the proposal was abandoned on cost grounds.  The proposal may be revisited.
-
-Since this is an examination set and a qualification gained entirely within a single school, there is currently no external quality check on standards. In 1999 the Collège de Santo will have Année 12 students, and the examination will need to be set in common by and for the two schools. The Vanuatu Examinations and Assessment Unit could provide some a French version of the PSSC examination for Vanuatu's Francophone students.  The SPBEA advised that all costs associated with activities It would have the advantage, if properly arranged, of providing a Pacificwide standards benchmark for Vanuatu's Francophone students at senior secondary level.
+Comments Since this is an examination set and a qualification gained entirely within a single school, there is currently no external quality check on standards.  In 1999 the Collège de Santo will have Année 12 students, and the examination will need to be set in common by and for the two schools.  The Vanuatu Examinations and Assessment Unit could provide some assistance for this.  A proposal was put forward some years ago to prepare a French version of the PSSC examination for Vanuatu's Francophone students.  The SPBEA advised that all costs associated with activities such as translation and printing would have to be met by Vanuatu, and the proposal was abandoned on cost grounds.  The proposal may be revisited.  It would have the advantage, if properly arranged, of providing a Pacific-wide standards benchmark for Vanuatu's Francophone students at senior secondary level.
 
 ###### New Zealand University Entrance, Bursaries and Scholarships (UEBS)
 
@@ -8089,19 +7998,13 @@ Comments In 1997, 14 out of 24 candidates from Malapoa College and 7 out of 30 c
 
 ###### University of the South Pacific Foundation Course
 
-Candidates
+Candidates Grade 13 Anglophone students
 
-Grade 13 Anglophone students
+Subjects Fourteen subjects are available in the sciences and social sciences.  From 1999, only the science courses will be available through the Port Vila campus of the University of the South Pacific; students wishing to qualify for entry to degree studies in social sciences will be able to study Foundation social sciences through Extension Studies' distance education course packages.
 
-Subjects
+Assessment A written examination in each subject plus internal assessment
 
-Assessment
-
-Preparation and Fourteen subjects are available in the sciences and social sciences.  From 1999, only the science courses will be available through the Port Vila campus of the University of the South Pacific; students wishing to qualify for entry to degree studies in social sciences will be able to study Foundation social sciences through Extension Studies' distance education course packages.
-
-A written examination in each subject plus internal assessment
-
-The examination is prepared and administered by USP.
+Preparation and The examination is prepared and administered by USP.
 
 223
 
@@ -8117,45 +8020,27 @@ Education Master Plan
 
 administration
 
-Purpose
+Purpose To gain admission to degree studies at USP.
 
-Outcomes
+Outcomes Students require passes in seven courses to qualify for further studies at USP.  Minimum pass requirements in specific subjects are set for admission to B.Sc. and B.A. programs.
 
-Comments To gain admission to degree studies at USP.
-
-Students require passes in seven courses to qualify for further studies at USP.  Minimum pass requirements in specific subjects are set for admission to B.Sc. and B.A. programs.
-
-Students who are successful in the Grade 12 PSSC examination are offered places in courses either in Grade 13 at Malapoa or Matevulu Colleges, or in the Foundation course, according to their preferences and the places available in each institution.  The New Zealand Government provides some scholarships for students to attend the Foundation courses; these scholarships are now available only for science courses.  Foundation course teaching personnel feel that the best students are being selected for the two senior secondary colleges.  If so, this may reflect the expressed preferences of the students concerned.
+Comments Students who are successful in the Grade 12 PSSC examination are offered places in courses either in Grade 13 at Malapoa or Matevulu Colleges, or in the Foundation course, according to their preferences and the places available in each institution.  The New Zealand Government provides some scholarships for students to attend the Foundation courses; these scholarships are now available only for science courses.  Foundation course teaching personnel feel that the best students are being selected for the two senior secondary colleges.  If so, this may reflect the expressed preferences of the students concerned.
 
 ###### Diplôme de l'Année Quatorze
 
-Candidates
+Candidates Grade 14 Francophone students at the Lycée in Port Vila
 
-Grade 14 Francophone students at the Lycée in Port Vila
+Subjects Seven subjects; students study all seven.
 
-Subjects
+Assessment Students must pass a written examination at the end of Grade 13 to qualify for Grade 14.  There is a written examination at the end of Grade 14, in November.  Students must pass this examination and also have satisfactory internal assessment marks during the year.  'Un examen de rattrapage' can be taken in February by students who do not pass the November examination.
 
-Seven subjects; students study all seven.
+Preparation and administration Teachers at the Lycée prepare the papers, and the Lycée administers the examination.  Papers are marked by lecturers at the Université Française du Pacifique in Nouméa.
 
-Assessment qualify for Grade 14.  There is a written examination at the end of Grade
+Purpose To gain admission to first-year degree studies at the Université Française du Pacifique.
 
-Students must pass a written examination at the end of Grade 13 to 14, in November.  Students must pass this examination and also have satisfactory internal assessment marks during the year.  'Un examen de rattrapage' can be taken in February by students who do not pass the
+Outcomes Successful students receive scholarships to go on to study in Nouméa.  This includes students who pass the November examinations and those who pass the 'catch-up' examination in February.  Other students go on to tertiary studies in Vanuatu, Fiji, or New Zealand, or join the workforce.
 
-November examination.
-
-Teachers at the Lycée prepare the papers, and the Lycée administers the examination.  Papers are marked by lecturers at the Université Française du Pacifique in Nouméa.
-
-To gain admission to first-year degree studies at the Université Française du Pacifique.
-
-Successful students receive scholarships to go on to study in Nouméa. This includes students who pass the November examinations and those who pass the 'catch-up' examination in February.  Other students go on to tertiary studies in Vanuatu, Fiji, or New Zealand, or join the workforce.
-
-Preparation and administration
-
-Purpose
-
-Outcomes
-
-Comments Students who obtain good results in the DEUG (a diploma awarded after two years' university study) in Nouméa can receive scholarships to further their studies at universities in France.  There is concern about the narrow range of opportunities for university studies (essentially limited to the Université Française du Pacifique in Nouméa) available for students who gain this qualification.  Whether the Année 14 should continue has been debated.  Some wish to see a baccalauréat (a Baccalauréat du Pacifique) re-established as the qualification for Francophone students in Vanuatu, though this will require an improvement in student standards, particularly in French language.  Another option is to improve the Francophone students' ability in English so that they become bilingual to the point that they could qualify for entrance to universities in, for example, New Zealand, Australia, or Fiji.
+Comments Students who obtain good results in the DEUG (a diploma awarded after two years' university study) in Nouméa can receive scholarships to further their studies at universities in France.  There is concern about the narrow range of opportunities for university studies (essentially limited to the Université Française du Pacifique in Nouméa) available for students who gain this qualification.  Whether the Année 14 should continue has
 
 224
 
@@ -8168,6 +8053,8 @@ Republic of Vanuatu
 Education Master Plan
 
 2000 - 2010
+
+been debated.  Some wish to see a baccalauréat (a Baccalauréat du Pacifique) re-established as the qualification for Francophone students in Vanuatu, though this will require an improvement in student standards, particularly in French language.  Another option is to improve the Francophone students' ability in English so that they become bilingual to the point that they could qualify for entrance to universities in, for example, New Zealand, Australia, or Fiji.
 
 225
 
@@ -8190,8 +8077,8 @@ Education Master Plan
 Anglophone | Francophone | Total
 --- | --- | --- | ---
 Total students | 3,350 | 1,552 | 4,902
-Students selected for Grade 7 | 1,149 (34.3%) | 911 (58.7%) | 2,060
-Students not selected for further education | 2,201 (65.7%) | 641 (41.3%) | 2,842 (58.
+Students selected for Grade 7 | 1,149 (34.3%) | 911 (58.7%) | 2,060 (42.0%)
+Students not selected for further education | 2,201 (65.7%) | 641 (41.3%) | 2,842 (58.0%)
 Cut-off mark for selection (maximum possible mark 45) | 27 | 22
 
 ###### Attachment Table 2:  Year 10 Examination Results, 1997
@@ -8222,7 +8109,7 @@ Education Master Plan
 
 ##### PACIFIC ISLANDS LITERACY LEVELS (PILL) SUMMARY DATA
 
-###### Attachment Table 1: Vanuatu PILL 1 (Year 4) 1996 - Summary
+###### Attachment Table 1: Vanuatu PILL 1 (Year 4) 1996 – Summary
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Subject | Gender | Number | Level 5 | Level 4 | Level 3 | Level 2 | Level 1 | % Level 1
 Français | garçons | 819 | 5 | 36 | 113 | 182 | 483 | 59%
@@ -8252,7 +8139,7 @@ Education Master Plan
 
 2000 - 2010
 
-###### Attachment Table 2: Vanuatu PILL 2 (Year 6) 1996 - Summary
+###### Attachment Table 2: Vanuatu PILL 2 (Year 6) 1996 – Summary
 --- | --- | --- | --- | --- | --- | --- | ---
 Subject | Gender | Number | Level 4 | Level 3 | Level 2 | Level 1 | % Level 1
 Français - | garçons | 768 | 39 | 104 | 195 | 430 | 56%
@@ -8272,12 +8159,13 @@ filles | 778 | 8 | 180 | 447 | 143 | 18%
 Total | 1534 | 18 | 328 | 860 | 328 | 21%
 Numeracy | boys | 1490 | 290 | 534 | 420 | 246 | 17%
 girls | 1471 | 263 | 563 | 431 | 214 | 15%
+Total | 2961 | 553 | 1097 | 851 | 460 | 16%
 
 Notes: 73 Francophone and 138 Anglophone schools are included in the data. Level 4 is the highest grade obtainable in Grade 6 in both language and numeracy.  Level 1 students are 'at risk'; they have acquired no significant knowledge in the subject.
 
 ## Annex 11
 
-Republic of Vanuatu · Education Master Plan, 2000 -2010
+Republic of Vanuatu • Education Master Plan, 2000–2010
 
 228
 
@@ -8295,30 +8183,30 @@ Education Master Plan
 
 #### Contents
 
-- School Mapping
+I. School Mapping
 
-- School Building Design and Construction
+II. School Building Design and Construction
 
-- School Maintenance
+III. School Maintenance
 
-- School Furniture, Water Supply, and Toilets
+IV. School Furniture, Water Supply, and Toilets
 
 #### Attachment:
 
 Attachment A: School Mapping: Criteria for School Renovation and Construction
 
-- 591. This annex focuses on the main issues that will affect school design, construction, and maintenance at pre-school, primary, and secondary levels under the new basic education system of this Master Plan.  These issues are the completion of a comprehensive school map; the establishment of appropriate standards for the design of classrooms and other facilities at all levels; the provision of teachers' housing, clean water, appropriate toilets, and correctly sized furniture; and the construction, repair, and maintenance of school facilities.
+505. 591. This annex focuses on the main issues that will affect school design, construction, and maintenance at pre-school, primary, and secondary levels under the new basic education system of this Master Plan.  These issues are the completion of a comprehensive school map; the establishment of appropriate standards for the design of classrooms and other facilities at all levels; the provision of teachers' housing, clean water, appropriate toilets, and correctly sized furniture; and the construction, repair, and maintenance of school facilities.
 
-- 592. The new school structure outlined in this Master Plan greatly affects Vanuatu's school construction plans.  Under the new system, an increasing number of children will attend pre-school, all children will have a basic education from Grade 1 to Grade 8, a minority will go on to Grades 9, 10, 11, and 12, and a smaller number will then go on to Grade 13.  The new system, described in detail elsewhere in this Plan, will be as follows:
-
-- 593. Pre-school and Grades 1 and 2 will form community schools, supported and run to a large extent by small communities.  Primary schools will serve larger villages or groups of villages, and they will probably be built by agencies such as churches acting for the Government.  Provincial secondary schools will offer secondary education to children within a province, a change designed to do away with the need to send children to other islands.  Senior secondary schools will be centers of excellence for the small number of children moving on to further education.
+506. 592. The new school structure outlined in this Master Plan greatly affects Vanuatu's school construction plans.  Under the new system, an increasing number of children will attend pre-school, all children will have a basic education from Grade 1 to Grade 8, a minority will go on to Grades 9, 10, 11, and 12, and a smaller number will then go on to Grade 13.  The new system, described in detail elsewhere in this Plan, will be as follows:
 
 Pre-school | Age 5 | Grade 0
 --- | --- | ---
-Community School | Ages 6 - 7 | Grades 1 - 2
-Primary School | Ages 8 - 13 | Grades 3 - 8
-Provincial Secondary School | Ages 14 - 18 | Grades 9 - 12
+Community School | Ages 6–7 | Grades 1–2
+Primary School | Ages 8–13 | Grades 3–8
+Provincial Secondary School | Ages 14–18 | Grades 9–12
 Senior Secondary School | Age 19 | Grade 13 (14)
+
+507. 593. Pre-school and Grades 1 and 2 will form community schools, supported and run to a large extent by small communities.  Primary schools will serve larger villages or groups of villages, and they will probably be built by agencies such as churches acting for the Government.  Provincial secondary schools will offer secondary education to children within a province, a change designed to do away with the need to send children to other islands.  Senior secondary schools will be centers of excellence for the small number of children moving on to further education.
 
 #### I.  School Mapping
 
@@ -8334,14 +8222,14 @@ Education Master Plan
 
 2000 - 2010
 
-- 594. Vanuatu already has many primary schools and more are still being built.  A number of junior secondary schools are also being established or developed from primary schools.  The Ministry of Education has no accurate records of these schools or of the communities that they serve.  But there are probably too many small or underused primary schools, which therefore represent a waste of scarce resources.  The Ministry urgently needs a complete and up-to-date school map showing all schools in the country and their facilities.  With that tool, the Ministry can plan for the closure of redundant schools, the construction of new schools, the provision of additional facilities where required, and for the renovation and maintenance of existing facilities at all levels of the education system. When locating new schools, especially provincial high schools, the Government will take into account the advice of the Rural Water Supply Unit so that schools will have a dependable, clean water supply, if possible.
+508. 594. Vanuatu already has many primary schools and more are still being built.  A number of junior secondary schools are also being established or developed from primary schools.  The Ministry of Education has no accurate records of these schools or of the communities that they serve.  But there are probably too many small or underused primary schools, which therefore represent a waste of scarce resources.  The Ministry urgently needs a complete and up-to-date school map showing all schools in the country and their facilities.  With that tool, the Ministry can plan for the closure of redundant schools, the construction of new schools, the provision of additional facilities where required, and for the renovation and maintenance of existing facilities at all levels of the education system.  When locating new schools, especially provincial high schools, the Government will take into account the advice of the Rural Water Supply Unit so that schools will have a dependable, clean water supply, if possible.
 
-- 595. The 1993 school map was a good start to the school mapping exercise.  The type of information required to complete that exercise includes details of the type of construction, size, and present condition of all school buildings, lavatories, and water supplies.  The map should also have information about enrollment, teachers, communities served, and other key data.  Details are in Attachment A.
+509. 595. The 1993 school map was a good start to the school mapping exercise.  The type of information required to complete that exercise includes details of the type of construction, size, and present condition of all school buildings, lavatories, and water supplies.  The map should also have information about enrollment, teachers, communities served, and other key data.  Details are in Attachment A.
 
-###### 596. Action 1:
+###### 510. 596. Action 1:
 The Government will re-enter the details of the 1993 school map, updated and completed, into the Ministry of Education's database.
 
-###### 597. Action 2:
+###### 511. 597. Action 2:
 The Government will establish criteria for locating the new community schools under the Master Plan; for selecting the existing primary schools that are to be kept and developed as larger primary schools; and for locating the new provincial high schools.
 
 #### II.  School Building Design and Construction
@@ -8360,23 +8248,23 @@ Education Master Plan
 
 2000 - 2010
 
-- 598. The need for pre-school facilities can probably be best met by assisting communities to build improved traditional buildings that would offer larger, better ventilated, and better lit spaces than those presently being used.  Perfectly adequate buildings can be provided in this way.  But they will require much maintenance, and components such as the thatched roof will require changing every three years or so.  They will not be cyclone-proof and will probably have to be replaced after cyclones. Classroom size should be at least 2m² per child.  A covered play space in the form of a veranda that can be supervised should be provided if possible.  Space should also be made available for an outside play area that can also be properly supervised.  It should be equipped with basic play equipment such as a climbing frame, a sand-pit, and swings, all of which could be made of local materials.  Improvements could be made to these traditional buildings, for instance, by providing a concrete floor if funds are available.
+512. 598. The need for pre-school facilities can probably be best met by assisting communities to build improved traditional buildings that would offer larger, better ventilated, and better lit spaces than those presently being used.  Perfectly adequate buildings can be provided in this way.  But they will require much maintenance, and components such as the thatched roof will require changing every three years or so.  They will not be cyclone-proof and will probably have to be replaced after cyclones.  Classroom size should be at least 2m² per child.  A covered play space in the form of a veranda that can be supervised should be provided if possible.  Space should also be made available for an outside play area that can also be properly supervised.  It should be equipped with basic play equipment such as a climbing frame, a sand-pit, and swings, all of which could be made of local materials.  Improvements could be made to these traditional buildings, for instance, by providing a concrete floor if funds are available.
 
-- 599. A better standard of facility in the form of semi-permanent buildings could be provided if funds are available from private bodies such as church organizations. Communities or village builders are capable of constructing adequate semi-permanent buildings, but they need good designs and skilled supervision to ensure that the buildings are properly built and have adequate cyclone-proofing.
+513. 599. A better standard of facility in the form of semi-permanent buildings could be provided if funds are available from private bodies such as church organizations.  Communities or village builders are capable of constructing adequate semi-permanent buildings, but they need good designs and skilled supervision to ensure that the buildings are properly built and have adequate cyclone-proofing.
 
-- 600. Preliminary designs for pre-schools using local materials, showing recommended classroom sizes and related information, have been prepared.  The preschools could form community schools along with primary schools in small communities.
+514. 600. Preliminary designs for pre-schools using local materials, showing recommended classroom sizes and related information, have been prepared.  The pre-schools could form community schools along with primary schools in small communities.
 
-###### 601. Action 3:
-The Government will assist communities in building improved traditional pre-school buildings and encourage schools to seek private funds for semipermanent buildings.  The Government will also assist pre-schools  in providing clean drinking water supplies and appropriate, functioning toilets.
+###### 515. 601. Action 3:
+The Government will assist communities in building improved traditional pre-school buildings and encourage schools to seek private funds for semi-permanent buildings.  The Government will also assist pre-schools in providing clean drinking water supplies and appropriate, functioning toilets.
 
-##### Community and Primary Schools
+##### B. Community and Primary Schools
 
-- 602. The main issues affecting primary school facilities are unplanned development of schools, the lack of facilities in some communities, and the waste of resources in other communities because of low attendance, too many classrooms, and small class sizes. Such inefficiency is related to the lack of standards for classroom design and the general oversizing of classrooms.  Other issues are the poor standard of construction of many school buildings and the absence of any regular or cyclical maintenance program that has led to many schools to need major renovations.  Many if not most rural schools also lack clean drinking water supplies and appropriate toilets.  Another problem is the presence of dangerous asbestos cladding in many of the older schools.  The Ministry will prepare a program for constructing new small community schools of local materials, but the Ministry will seek to stop the unplanned development of schools by churches and community groups.
+516. 602. The main issues affecting primary school facilities are unplanned development of schools, the lack of facilities in some communities, and the waste of resources in other communities because of low attendance, too many classrooms, and small class sizes.  Such inefficiency is related to the lack of standards for classroom design and the general oversizing of classrooms.  Other issues are the poor standard of construction of many school buildings and the absence of any regular or cyclical maintenance program that has led to many schools to need major renovations.  Many if not most rural schools also lack clean drinking water supplies and appropriate toilets.  Another problem is the presence of dangerous asbestos cladding in many of the older schools.  The Ministry will prepare a program for constructing new small community schools of local materials, but the Ministry will seek to stop the unplanned development of schools by churches and community groups.
 
-###### 603. Action 4:
+###### 517. 603. Action 4:
 The Government will prepare a plan for closing down unwanted schools, locating additional required community and primary schools, and renovating and extending the existing primary schools that are retained.  The Ministry of Education will prepare this plan, to be phased in over a number of years, after completing the national school map.  The Ministry must approve any schools that are to be developed by any group in the future, and those schools should conform to the requirements of the school map.
 
-###### 604. Classroom Size.
+###### 518. 604. Classroom Size.
 Classrooms for both community schools and new primary schools will be based on a 36-student class seated at double desks.  Under the proposed new system, primary schools will take children up to Grade 8.  The schools will therefore require larger furniture and thus larger classroom sizes than the community schools that take children up to Grade 2.  Preliminary designs developed for both have been prepared.
 
 231
@@ -8393,22 +8281,22 @@ Education Master Plan
 
 The community school classroom is 6.0m wide × 7.8m long, giving a classroom area of 46.8m² and an area per student of 1.3m².  The primary school classroom is 7.0m wide × 7.8m long, giving a classroom area of 54.6m² and an area per student of 1.51m².
 
-###### 605. Classroom Requirements.
-Community schools will be one- or twoclassroom schools serving small communities and built of traditional or semi-permanent materials by the local residents themselves.  They may also incorporate a pre-school, as stated above.  Primary schools will consist of 6 classrooms (or 12 if the school has two streams) and include a multi-purpose room, a head teacher's office, a bursar's office, a staff room, and stores.  If the traditional front-access veranda is not provided, an equivalent floor area can be used instead for a larger covered veranda between two classrooms.  This change creates an additional space for teaching or other purposes.  It also removes an element, the front-access veranda, that is difficult to cyclone-proof.
+###### 519. 605. Classroom Requirements.
+Community schools will be one- or two-classroom schools serving small communities and built of traditional or semi-permanent materials by the local residents themselves.  They may also incorporate a pre-school, as stated above.  Primary schools will consist of 6 classrooms (or 12 if the school has two streams) and include a multi-purpose room, a head teacher's office, a bursar's office, a staff room, and stores.  If the traditional front-access veranda is not provided, an equivalent floor area can be used instead for a larger covered veranda between two classrooms.  This change creates an additional space for teaching or other purposes.  It also removes an element, the front-access veranda, that is difficult to cyclone-proof.
 
-- 606. Under the new system, an additional 3,223 children in Grades 7 and 8 must be accommodated at the enlarged primary schools.  In theory, Vanuatu currently has enough classroom spaces to accommodate them, even counting only the concrete block and stone classrooms (though most of these would require complete renovation).  Multi-purpose rooms would have to be built at approximately 138 primary schools, but these need only be fairly basic rooms without electricity or running water.
+520. 606. Under the new system, an additional 3,223 children in Grades 7 and 8 must be accommodated at the enlarged primary schools.  In theory, Vanuatu currently has enough classroom spaces to accommodate them, even counting only the concrete block and stone classrooms (though most of these would require complete renovation).  Multi-purpose rooms would have to be built at approximately 138 primary schools, but these need only be fairly basic rooms without electricity or running water.
 
-###### 607. Construction.
+###### 521. 607. Construction.
 As the system expands, primary schools offering Classes 3 through 8 will continue to be built and maintained by communities with the help of the government (teachers' salaries and materials).  Communities may construct primary school buildings of traditional, semi-permanent, or permanent materials.  Recent research in Southern Africa by the International Institute for Educational Planning has indicated a strong link between improved reading in Grade 6 and the extent to which school heads perceive their school buildings to be in need of major repair or total rebuilding.  In other words, good buildings in a better state of repair can produce better educational results.
 
-- 608. In addition, the overall number of schools should be reduced through the school mapping exercise, and fewer of the larger Grade 3 to 8 primary schools will be required.  In light of this reduced requirement, and the above research, it would be better for communities to build the Grade 3 to 8 primary schools of permanent materials.  Such materials as concrete floor slabs, rendered concrete block walls, timber shutters, and color-bond roof sheets and ceilings should be used if possible.  The buildings, even if constructed of permanent materials, will be simple and not require electricity or running water.  However, competent supervision will be required to ensure that they are built properly.  The Government will seek donor funds when necessary.
+522. 608. In addition, the overall number of schools should be reduced through the school mapping exercise, and fewer of the larger Grade 3 to 8 primary schools will be required.  In light of this reduced requirement, and the above research, it would be better for communities to build the Grade 3 to 8 primary schools of permanent materials.  Such materials as concrete floor slabs, rendered concrete block walls, timber shutters, and color-bond roof sheets and ceilings should be used if possible.  The buildings, even if constructed of permanent materials, will be simple and not require electricity or running water.  However, competent supervision will be required to ensure that they are built properly.  The Government will seek donor funds when necessary.
 
-- 609. If well constructed, the buildings will require less maintenance, but a proper maintenance program should be established for all primary schools to protect the public's investment.  The buildings will have the further advantage of being able to serve as refuges for students and members of the communities during cyclones.  The schools built with asbestos sheets for cladding should be replaced as soon as possible and the asbestos disposed of safely.  Finally, it is essential that clean drinking water supplies and appropriate, functioning toilets are provided at every school.
+523. 609. If well constructed, the buildings will require less maintenance, but a proper maintenance program should be established for all primary schools to protect the public's investment.  The buildings will have the further advantage of being able to serve as refuges for students and members of the communities during cyclones.  The schools built with asbestos sheets for cladding should be replaced as soon as possible and the asbestos disposed of safely.  Finally, it is essential that clean drinking water supplies and appropriate, functioning toilets are provided at every school.
 
-###### 610. Action 5:
+###### 524. 610. Action 5:
 The Government will establish standard classroom sizes and school construction standards for both community schools and new primary schools built by church and community groups.  Grades 3 to 8 primary schools will be built of permanent materials, when possible, and have clean water and toilets.  The Government will encourage each school to establish a maintenance program.
 
-##### Provincial Secondary Schools
+##### C. Provincial Secondary Schools
 
 232
 
@@ -8422,22 +8310,22 @@ Education Master Plan
 
 2000 - 2010
 
-- 611. The main issue affecting the junior secondary system is the lack of schools and student places.  The total enrollment is only 31 percent of the school age population aged 12 to 16.  Among the other issues is the inappropriate level of provision of some facilities at the newer schools.  Another is the poor quality and insufficient number of teaching and dormitory facilities at many of the rural primary schools that have been converted to junior secondary schools.  Many schools also do not have regular repair and cyclical maintenance, or adequate clean water supplies and appropriate toilets.
+525. 611. The main issue affecting the junior secondary system is the lack of schools and student places.  The total enrollment is only 31 percent of the school age population aged 12 to 16.  Among the other issues is the inappropriate level of provision of some facilities at the newer schools.  Another is the poor quality and insufficient number of teaching and dormitory facilities at many of the rural primary schools that have been converted to junior secondary schools.  Many schools also do not have regular repair and cyclical maintenance, or adequate clean water supplies and appropriate toilets.
 
-- 612. The proposed changes in the school system, described earlier, will help address the shortage of schools and student places.  If the present system were to be retained, the country would need a large expansion at the junior secondary level. Vanuatu's population of children in the 12-16 age group is approximately 17,500, the equivalent of 486 classes (at 36 students per class).  But only 5,410 children are enrolled, the equivalent of 150 classes.  There is therefore a shortfall for all children in the age group of 336 classes, or the equivalent of approximately 84 single-stream junior secondary schools.  If Vanuatu were to build these 84 schools, they would require fairly sophisticated specialist rooms, such as laboratories and workshops, together with electricity and running water; the majority would also require boarding accommodation. The construction program would therefore be very expensive.
+526. 612. The proposed changes in the school system, described earlier, will help address the shortage of schools and student places.  If the present system were to be retained, the country would need a large expansion at the junior secondary level.  Vanuatu's population of children in the 12–16 age group is approximately 17,500, the equivalent of 486 classes (at 36 students per class).  But only 5,410 children are enrolled, the equivalent of 150 classes.  There is therefore a shortfall for all children in the age group of 336 classes, or the equivalent of approximately 84 single-stream junior secondary schools.  If Vanuatu were to build these 84 schools, they would require fairly sophisticated specialist rooms, such as laboratories and workshops, together with electricity and running water; the majority would also require boarding accommodation.  The construction program would therefore be very expensive.
 
-###### 613 . Needs and Specifications.
-Under the new system, the present junior and senior secondary schools will become provincial secondary schools for Grades 9 to 12. Vanuatu currently has 2,823 children in this age group, a total of 78 classes at 36 per class.  There are already 155 classes available, so the country does not need an immediate classroom building program to accommodate them.  But it does need a (phased) program to renovate nearly all of the existing buildings, to build specialist classrooms and proper dormitories, and to provide electricity and running water.  This program will not be as expensive as the program to build the junior secondary schools that would be required if the present system were retained.
+###### 527. 613. Needs and Specifications.
+Under the new system, the present junior and senior secondary schools will become provincial secondary schools for Grades 9 to 12.  Vanuatu currently has 2,823 children in this age group, a total of 78 classes at 36 per class.  There are already 155 classes available, so the country does not need an immediate classroom building program to accommodate them.  But it does need a (phased) program to renovate nearly all of the existing buildings, to build specialist classrooms and proper dormitories, and to provide electricity and running water.  This program will not be as expensive as the program to build the junior secondary schools that would be required if the present system were retained.
 
-- 614. Two-stream provincial secondary schools would make more efficient use of the specialist facilities to be provided, so the Government will encourage this option wherever the numbers of students justify it.  The program will include a proper maintenance program, clean drinking water supplies, and appropriate, functioning toilets for every secondary school.
+528. 614. Two-stream provincial secondary schools would make more efficient use of the specialist facilities to be provided, so the Government will encourage this option wherever the numbers of students justify it.  The program will include a proper maintenance program, clean drinking water supplies, and appropriate, functioning toilets for every secondary school.
 
-###### 615. Action 6:
+###### 529. 615. Action 6:
 The Government will adopt the new school structure because it is not only more appropriate for the educational needs of the country but is also the more economic option for expanding enrollment.
 
-###### 616. Action 7:
+###### 530. 616. Action 7:
 The Government will examine the specifications for classrooms, specialist rooms, and equipment for the provincial secondary schools, and adopt more appropriate sizes and specifications.
 
-##### Senior Secondary Schools
+##### D. Senior Secondary Schools
 
 233
 
@@ -8470,29 +8358,25 @@ Education Master Plan
 
 2000 - 2010
 
-- 619. The lack of teachers' housing is a great deterrent to the recruitment of good teachers in the rural areas at both primary and secondary levels.  The majority of existing houses are inappropriate in their design and expensive to build and maintain (many are run-down).
+533. 619. The lack of teachers' housing is a great deterrent to the recruitment of good teachers in the rural areas at both primary and secondary levels.  The majority of existing houses are inappropriate in their design and expensive to build and maintain (many are run-down).
 
-- 620. Teachers' housing will not be required for vernacular-language schools, but provincial secondary schools and possibly for some primary schools will require housing.  Semi-permanent or permanent houses will be built to an appropriate design to fit in with the Melanesian way of living.  These will
+534. 620. Teachers' housing will not be required for vernacular-language schools, but provincial secondary schools and possibly for some primary schools will require housing.  Semi-permanent or permanent houses will be built to an appropriate design to fit in with the Melanesian way of living.  These will have adequate, secure bedroom accommodation, small inside living spaces, and covered verandas or outside living spaces.  They will also have covered outside kitchens, rainwater storage tanks, and VIP Latrines.
 
-have
-
-adequate, secure bedroom accommodation, small inside living spaces, and covered verandas or outside living spaces.  They will also have covered outside kitchens, rainwater storage tanks, and VIP Latrines.
-
-###### 621. Action 9:
+###### 535. 621. Action 9:
 The Government will determine where housing is required through the school mapping exercise and establish appropriate standards for rural housing.
 
 #### III.  School Maintenance
 
-- 622. Very few if any Government or Government-assisted schools at any level are receiving adequate regular funding for maintenance.  The result is that many if not most school buildings at all levels are in a very poor condition.  Funding for maintenance for any Government building is an easy target when funds are short.  However, money spent on regular maintenance saves money on capital expenditure in the long run.  Buildings that are not maintained will have a shorter useful life than buildings that are regularly maintained.
+536. 622. Very few if any Government or Government-assisted schools at any level are receiving adequate regular funding for maintenance.  The result is that many if not most school buildings at all levels are in a very poor condition.  Funding for maintenance for any Government building is an easy target when funds are short.  However, money spent on regular maintenance saves money on capital expenditure in the long run.  Buildings that are not maintained will have a shorter useful life than buildings that are regularly maintained.
 
-###### 623. Community and School Role.
+###### 537. 623. Community and School Role.
 There is very little if any community or student involvement in school repair or maintenance apart from cleaning school compounds.  If communities themselves build pre-schools and community schools, using local materials, they will sense local ownership of these schools and be more willing to maintain them.  At the new extended primary schools and provincial secondary schools, maintenance will be more difficult.  They will probably serve more than one community and will therefore be farther away from some communities than others.  Developing community ownership of schools and building communities' interest in maintaining the schools will be difficult.
 
-- 624. One way of involving students while helping to build a culture of maintenance in Vanuatu society would be to make maintenance of school facilities and equipment part of the school curriculum.  This would give students practical training in building and vocational skills (including such skills such as motor maintenance), which they could use in the future, while also reducing the cost of maintenance.
+538. 624. One way of involving students while helping to build a culture of maintenance in Vanuatu society would be to make maintenance of school facilities and equipment part of the school curriculum.  This would give students practical training in building and vocational skills (including such skills such as motor maintenance), which they could use in the future, while also reducing the cost of maintenance.
 
-- 625. One approach to building local ownership is the Foundation for the Peoples of the South Pacific's community maintenance program at primary schools renovated by the European Union.  This program has not yet had enough time to prove itself, but it seems to be a promising approach that the Government should support and build upon.  The Government can also help establish school councils and involve them more in school maintenance.  The Government can use the school maintenance handbook developed by the Ministry of Public Works as a training and implementing tool for head teachers, students, school councils, and communities.
+539. 625. One approach to building local ownership is the Foundation for the Peoples of the South Pacific's community maintenance program at primary schools renovated by the European Union.  This program has not yet had enough time to prove itself, but it seems to be a promising approach that the Government should support and build upon.  The Government can also help establish school councils and involve them more in school maintenance.  The Government can use the school maintenance handbook developed by the Ministry of Public Works as a training and implementing tool for head teachers, students, school councils, and communities.
 
-###### 626 . Action 10:
+###### 540. 626. Action 10:
 The Government will look for ways to involve communities in school maintenance and repair.
 
 235
@@ -8507,27 +8391,27 @@ Education Master Plan
 
 2000 - 2010
 
-###### 627. Government Role.
+###### 541. 627. Government Role.
 The Government must also commit more funds for regular school maintenance so that maintenance becomes a partnership between the Government, schools, and communities.  The amount of Government funding should be between 1 and 2 percent of the cost of construction per annum.
 
-- 628. Maintenance staff at the Ministry of Education in Port Vila and the provinces do not currently have the necessary skills to ensure that new buildings are properly designed, built, and then maintained.  They require training in construction, maintenance, and supervision to ensure that new buildings are properly built and maintained and that they comply with the Ministry's standards.  A good standard of construction will be achieved only if the building work is properly supervised.
+542. 628. Maintenance staff at the Ministry of Education in Port Vila and the provinces do not currently have the necessary skills to ensure that new buildings are properly designed, built, and then maintained.  They require training in construction, maintenance, and supervision to ensure that new buildings are properly built and maintained and that they comply with the Ministry's standards.  A good standard of construction will be achieved only if the building work is properly supervised.
 
-###### 629. Action 11:
+###### 543. 629. Action 11:
 The Government will commit more budget funds for school maintenance and provide training for school maintenance staff at the Ministry of Education and the provinces.
 
 #### 544. IV.  School Furniture, Water Supply, and Toilets
 ##### A. School Furniture
 
-- 630. Most schools at all levels have insufficient, badly made, or ill-fitting furniture of varying types and conditions of repair.  Pupils need furniture that fits them and is comfortable so they can concentrate on what is happening in the classroom.  The furniture must also be robust enough to stand up to rough treatment.  Ideally, the furniture would be made and repaired by village carpenters or rural training centers.
+545. 630. Most schools at all levels have insufficient, badly made, or ill-fitting furniture of varying types and conditions of repair.  Pupils need furniture that fits them and is comfortable so they can concentrate on what is happening in the classroom.  The furniture must also be robust enough to stand up to rough treatment.  Ideally, the furniture would be made and repaired by village carpenters or rural training centers.
 
-- 631. To design appropriate furniture, the Government needs a survey of the standing height of students.  A random sample of at least 100 students of each sex in each age group will be taken and their standing height measured.  The easiest way of doing this is to use teachers to measure their students' height.  Using this standing height, the furniture designer can convert the ratios of part-body measurements to standing height into actual measurements for each furniture size, using a standard table of ratios. 50 Timber is available in most parts of the country, so the Government will probably design the furniture so it can be made and repaired out of local timber.  Timber for furniture could also be donated by communities as part of their participation in the school's operations and development.
+546. 631. To design appropriate furniture, the Government needs a survey of the standing height of students.  A random sample of at least 100 students of each sex in each age group will be taken and their standing height measured.  The easiest way of doing this is to use teachers to measure their students' height.  Using this standing height, the furniture designer can convert the ratios of part-body measurements to standing height into actual measurements for each furniture size, using a standard table of ratios.50 Timber is available in most parts of the country, so the Government will probably design the furniture so it can be made and repaired out of local timber.  Timber for furniture could also be donated by communities as part of their participation in the school's operations and development.
 
-###### 632. Action 12:
+###### 547. 632. Action 12:
 The Government will design a range of furniture to suit children of the pre-school, primary, and secondary age groups.
 
-##### School Water Supplies and Toilets
+##### B. School Water Supplies and Toilets
 
-- 633. Many if not most existing schools have inadequate or no clean water supplies. If they have toilets, they are often inadequate or inappropriate.  No school at pre-school, primary, or secondary level should be built or renovated without a dependable water supply and appropriate, working toilets.  All new or renovated schools without access to a dependable gravity feed water supply should be supplied with rainwater storage tanks of a size and number suitable to the number of students and staff.  All new or renovated schools should have an adequate number of appropriate toilets that will require minimum maintenance.  In the rural areas, these will usually be VIP latrines.
+548. 633. Many if not most existing schools have inadequate or no clean water supplies.  If they have toilets, they are often inadequate or inappropriate.  No school at pre-school, primary, or secondary level should be built or renovated without a dependable water supply and appropriate, working toilets.  All new or renovated schools without access to a dependable gravity feed water supply should be supplied with rainwater storage tanks of a size and number suitable to the number of students and staff.  All new or renovated schools should have an adequate number of appropriate toilets that will require minimum maintenance.  In the rural areas, these will usually be VIP latrines.
 
 > 50 Educational Building Digest No. 18, published by UNESCO, Bangkok, illustrates ways of collecting anthropometric data and how it can be used for educational building and furniture design.
 
@@ -8543,11 +8427,11 @@ Education Master Plan
 
 2000 - 2010
 
-- 634. The DoE should liaise closely with the Rural Water Supply Unit over the supply of drinking water to rural schools and with the Rural Sanitation Project over the design and construction of appropriate toilets.
+549. 634. The DoE should liaise closely with the Rural Water Supply Unit over the supply of drinking water to rural schools and with the Rural Sanitation Project over the design and construction of appropriate toilets.
 
-- 635. Heath education already forms part of the primary school curriculum and the necessity for clean drinking water and proper working toilets should be emphasized. The proper upkeep of the water supply and toilets could also form part of the curriculum.
+550. 635. Heath education already forms part of the primary school curriculum and the necessity for clean drinking water and proper working toilets should be emphasized.  The proper upkeep of the water supply and toilets could also form part of the curriculum.
 
-###### 636. Action 13:
+###### 551. 636. Action 13:
 The Government will include water supply and toilets in plans for all schools to be built or renovated.
 
 237
@@ -8567,43 +8451,43 @@ Education Master Plan
 
 ##### CRITERIA FOR PRIMARY SCHOOL RENOVATION
 
-- The Ministry of Education, assisted by the Provincial Education Officers, should prepare proposals for primary school renovation and rehabilitation for all provinces based upon the following criteria.  These criteria will be used to establish, in detail, the existing situation with regard to the numbers and locations of primary school age children and the locations of all schools:
+552. The Ministry of Education, assisted by the Provincial Education Officers, should prepare proposals for primary school renovation and rehabilitation for all provinces based upon the following criteria.  These criteria will be used to establish, in detail, the existing situation with regard to the numbers and locations of primary school age children and the locations of all schools:
 
-- Present and projected numbers of children of primary school age
+1. Present and projected numbers of children of primary school age
 
-- Location of all existing schools and projected future needs
+2. Location of all existing schools and projected future needs
 
-- Condition of existing schools
+3. Condition of existing schools
 
-- School construction and supervision capabilities
+4. School construction and supervision capabilities
 
-###### Children of primary school age
+###### 1. Children of primary school age
 
-- The present number of pupils in each school, government, private and religious, in each province, by class, age and sex should be determined.
+a) The present number of pupils in each school, government, private and religious, in each province, by class, age and sex should be determined.
 
-- Estimates should be prepared of the numbers of primary school age children in each settlement in all provinces until 2010 and thus the annual need for primary school places.
+b) Estimates should be prepared of the numbers of primary school age children in each settlement in all provinces until 2010 and thus the annual need for primary school places.
 
-###### Location of schools
+###### 2. Location of schools
 
-- A school map should be prepared to scale for each province showing boundaries; rivers, bridges and main roads; the location of all primary schools, government, private and religious and their catchment areas; and the size and location of all settlements, clearly indicating the ones that the schools serve.
+a) A school map should be prepared to scale for each province showing boundaries; rivers, bridges and main roads; the location of all primary schools, government, private and religious and their catchment areas; and the size and location of all settlements, clearly indicating the ones that the schools serve.
 
-- The size, condition, ownership and adequacy of the existing site of each school should be established together with its physical access, i.e., whether by road or track, by vehicle or foot, or by ship/canoe, ease of access, etc.
+b) The size, condition, ownership and adequacy of the existing site of each school should be established together with its physical access, i.e., whether by road or track, by vehicle or foot, or by ship/canoe, ease of access, etc.
 
-- Establish the availability or otherwise of sites for schools that might be required in the future, and examine the criteria for determining the size of school sites to see if they are still relevant.  Determine the cost of land and whether communities are prepared to donate sites for schools, with or without compensation.
+c) Establish the availability or otherwise of sites for schools that might be required in the future, and examine the criteria for determining the size of school sites to see if they are still relevant.  Determine the cost of land and whether communities are prepared to donate sites for schools, with or without compensation.
 
-- Establish the numbers and qualifications of teachers in each of the schools in the province.
+d) Establish the numbers and qualifications of teachers in each of the schools in the province.
 
-###### Condition of schools
+###### 3. Condition of schools
 
-- The date of construction of schools should be established together with the numbers and types of all buildings, i.e., classrooms, offices, stores, teachers' rooms, and staff housing.
+a) The date of construction of schools should be established together with the numbers and types of all buildings, i.e., classrooms, offices, stores, teachers' rooms, and staff housing.
 
-- The type of construction of all buildings should be listed together with their size, condition, any repairs that are required and the expected life of the building after repair.
+b) The type of construction of all buildings should be listed together with their size, condition, any repairs that are required and the expected life of the building after repair.
 
-- The type, amount and general condition of any furniture and equipment should be listed.
+c) The type, amount and general condition of any furniture and equipment should be listed.
 
-- The existence of services such as main water and electricity supplies should be noted together with comments on whether and when they operate.  The existence of wells or roof storage tanks; their condition, i.e., whether full or empty, covered or open or provided with a pump and storage tank should also be noted.
+d) The existence of services such as main water and electricity supplies should be noted together with comments on whether and when they operate.  The existence of wells or roof storage tanks; their condition, i.e., whether full or empty, covered or open or provided with a pump and storage tank should also be noted.
 
-- The type and number of toilets on the site, their location and working order should be
+e) The type and number of toilets on the site, their location and working order should be
 
 238
 
@@ -8629,41 +8513,41 @@ Education Master Plan
 
 ##### B. Proposals for Primary School Renovation and Rehabilitation
 
-- When the location of primary schools, numbers of children, etc., have been established using the above criteria, the Ministry of Education, assisted by the Provincial Educational Officers, should prepare detailed proposals for the consolidation and renovation or rehabilitation of the existing primary schools.  These proposals should include the following:
+553. When the location of primary schools, numbers of children, etc., have been established using the above criteria, the Ministry of Education, assisted by the Provincial Educational Officers, should prepare detailed proposals for the consolidation and renovation or rehabilitation of the existing primary schools.  These proposals should include the following:
 
-###### A school map showing the location of existing schools, any consolidation of existing schools and any proposed new schools:
+###### 1. A school map showing the location of existing schools, any consolidation of existing schools and any proposed new schools:
 
-- The location and size of all existing primary schools and their catchment areas.
+a) The location and size of all existing primary schools and their catchment areas.
 
-- Proposals for the consolidation of existing primary schools where there are more than one on a site or where there are schools with excess capacity within a distance of 2 kilometers of each other except in remote rural areas where populations are very low.
+b) Proposals for the consolidation of existing primary schools where there are more than one on a site or where there are schools with excess capacity within a distance of 2 kilometers of each other except in remote rural areas where populations are very low.
 
-- The availability of teachers in each province should be established once plans for consolidation or construction of new schools have been completed.
+c) The availability of teachers in each province should be established once plans for consolidation or construction of new schools have been completed.
 
-###### Renovation or rehabilitation of existing schools
+###### 2. Renovation or rehabilitation of existing schools
 
-- A schedule for each existing primary school that is being retained, of all necessary repairs and maintenance work and a program showing how the work to all schools will be completed, whether by a contractor or by the community.
+a) A schedule for each existing primary school that is being retained, of all necessary repairs and maintenance work and a program showing how the work to all schools will be completed, whether by a contractor or by the community.
 
-- Proposals for giving head teachers and communities more autonomy in the maintenance of their schools by giving adequate funding to the schools or communities direct for repairs and maintenance based on numbers of pupils or classrooms.
+b) Proposals for giving head teachers and communities more autonomy in the maintenance of their schools by giving adequate funding to the schools or communities direct for repairs and maintenance based on numbers of pupils or classrooms.
 
-- A maintenance handbook to give guidance to head teachers and school councils on carrying out regular maintenance and minor repairs together with a simple reporting system by which the head teacher can report more serious maintenance problems and the measures taken to remedy them. The Provincial Education Officers can use this to monitor the condition of schools.
+c) A maintenance handbook to give guidance to head teachers and school councils on carrying out regular maintenance and minor repairs together with a simple reporting system by which the head teacher can report more serious maintenance problems and the measures taken to remedy them.  The Provincial Education Officers can use this to monitor the condition of schools.
 
-###### Construction of new classrooms or schools
+###### 3. Construction of new classrooms or schools
 
-- Standard designs for new classrooms and other school buildings taking into account that community participation in the construction process is to be desired and that locally available materials should be used where possible.
+a) Standard designs for new classrooms and other school buildings taking into account that community participation in the construction process is to be desired and that locally available materials should be used where possible.
 
-###### Provision of furniture
+###### 4. Provision of furniture
 
-- Standard designs for classroom furniture in a range of sizes to suit the age groups of pupils in primary schools.  The furniture should be designed for manufacture and repair if possible at the village level out of locally available materials.
+a) Standard designs for classroom furniture in a range of sizes to suit the age groups of pupils in primary schools.  The furniture should be designed for manufacture and repair if possible at the village level out of locally available materials.
 
-- Working drawings and schedules of materials to assist village carpenters to manufacture the furniture.
+b) Working drawings and schedules of materials to assist village carpenters to manufacture the furniture.
 
-- Schedules of numbers and sizes of furniture required by existing and proposed new schools.  A simple method should be proposed that would allow head teachers to dispose of, and account for, broken and worn out furniture in order that it does not take up valuable classroom or storage space.
+c) Schedules of numbers and sizes of furniture required by existing and proposed new schools.  A simple method should be proposed that would allow head teachers to dispose of, and account for, broken and worn out furniture in order that it does not take up valuable classroom or storage space.
 
-###### Provision of drinking water and toilets.
+###### 5. Provision of drinking water and toilets.
 
-- Provision of adequate supplies of clean drinking water on sites that have no reliable main water supplies, through the provision of rainwater storage tanks or the construction of wells with covers.
+a) Provision of adequate supplies of clean drinking water on sites that have no reliable main water supplies, through the provision of rainwater storage tanks or the construction of wells with covers.
 
-- Adequate toilet provision on sites that have no dependable main water supplies through the construction of VIP latrines or Pour-Flush Privies.
+b) Adequate toilet provision on sites that have no dependable main water supplies through the construction of VIP latrines or Pour-Flush Privies.
 
 240
 
@@ -8679,31 +8563,31 @@ Education Master Plan
 
 ##### CRITERIA FOR PROVINCIAL SECONDARY SCHOOL CONSTRUCTION
 
-- The Ministry of Education should, assisted by the Provincial Education Officers, prepare proposals for the construction of new provincial secondary schools or the expansion of existing primary schools to form provincial secondary schools, based upon the following criteria.  These criteria will be used to establish, in detail, the existing situation with regard to the numbers and location of provincial secondary school age children and the locations of all schools:
+554. The Ministry of Education should, assisted by the Provincial Education Officers, prepare proposals for the construction of new provincial secondary schools or the expansion of existing primary schools to form provincial secondary schools, based upon the following criteria.  These criteria will be used to establish, in detail, the existing situation with regard to the numbers and location of provincial secondary school age children and the locations of all schools:
 
-- Present and projected numbers of children of provincial secondary school age
+1. Present and projected numbers of children of provincial secondary school age
 
-- Location of all existing schools and projected future needs
+2. Location of all existing schools and projected future needs
 
-- Condition of existing schools
+3. Condition of existing schools
 
-- School construction and supervision capabilities
+4. School construction and supervision capabilities
 
-###### Children of provincial secondary school age
+###### 1. Children of provincial secondary school age
 
-- The number of pupils in each of the existing junior secondary schools, government, religious and private, in all provinces, by class, age and sex should be determined.
+a) The number of pupils in each of the existing junior secondary schools, government, religious and private, in all provinces, by class, age and sex should be determined.
 
-- Estimates should be prepared of the numbers of provincial secondary school age children in each settlement in all provinces until 2010 and thus the annual need for provincial secondary school places and the need for new schools.
+b) Estimates should be prepared of the numbers of provincial secondary school age children in each settlement in all provinces until 2010 and thus the annual need for provincial secondary school places and the need for new schools.
 
-###### Location of schools
+###### 2. Location of schools
 
-- A school map should be prepared to scale for each province showing boundaries; rivers, bridges and main roads; the location of all existing junior secondary schools, government, religious and private and their catchment areas; and the size and location of all settlements, clearly indicating the ones that the schools serve.
+a) A school map should be prepared to scale for each province showing boundaries; rivers, bridges and main roads; the location of all existing junior secondary schools, government, religious and private and their catchment areas; and the size and location of all settlements, clearly indicating the ones that the schools serve.
 
-- The size, condition, ownership and adequacy of the existing site of each school (or schools) should be established together with its physical access, i.e., whether by road or track, by ship/canoe, by vehicle or foot, ease of access, etc.
+b) The size, condition, ownership and adequacy of the existing site of each school (or schools) should be established together with its physical access, i.e., whether by road or track, by ship/canoe, by vehicle or foot, ease of access, etc.
 
-- Establish the availability or otherwise of sites, including those that may have been vacated by primary schools during the consolidation process, for schools that are required now and examine the criteria for determining the size of school sites to see if it is still relevant.  Determine the cost of land and whether communities are prepared to donate sites for schools, with or without compensation.
+c) Establish the availability or otherwise of sites, including those that may have been vacated by primary schools during the consolidation process, for schools that are required now and examine the criteria for determining the size of school sites to see if it is still relevant.  Determine the cost of land and whether communities are prepared to donate sites for schools, with or without compensation.
 
-- Establish the number and qualifications of teachers at all junior secondary schools in each province.
+d) Establish the number and qualifications of teachers at all junior secondary schools in each province.
 
 241
 
@@ -8719,41 +8603,41 @@ Education Master Plan
 
 ##### C. Proposals for Provincial Secondary School Construction
 
-- When the location of existing junior secondary schools, numbers of children, etc., have been established using the above criteria, the Ministry of Education, assisted by the Provincial Education Officers, should prepare detailed proposals for the construction of new provincial secondary schools.  These proposals should include the following:
+555. When the location of existing junior secondary schools, numbers of children, etc., have been established using the above criteria, the Ministry of Education, assisted by the Provincial Education Officers, should prepare detailed proposals for the construction of new provincial secondary schools.  These proposals should include the following:
 
-###### Location of new schools
+###### 1. Location of new schools
 
-- The location and size of all existing primary and junior secondary schools and their catchment areas.
+a) The location and size of all existing primary and junior secondary schools and their catchment areas.
 
-- Proposals for the use of sites or buildings vacated by primary schools through the consolidation process.
+b) Proposals for the use of sites or buildings vacated by primary schools through the consolidation process.
 
-- The location and size of any proposed new provincial secondary schools and the cost and procedure for acquiring the sites if necessary.  The construction of new schools on new sites should only be considered after all other alternatives such as the use of vacated primary school sites or buildings or the expansion of existing junior secondary schools, has been explored.
+c) The location and size of any proposed new provincial secondary schools and the cost and procedure for acquiring the sites if necessary.  The construction of new schools on new sites should only be considered after all other alternatives such as the use of vacated primary school sites or buildings or the expansion of existing junior secondary schools, has been explored.
 
-- The availability and qualifications of teachers in each province should be established once a plan for the provision of new schools has been completed.
+d) The availability and qualifications of teachers in each province should be established once a plan for the provision of new schools has been completed.
 
 ###### 2. Construction of new schools
 
-- The purchase of adequately sized sites for new schools.
+a) The purchase of adequately sized sites for new schools.
 
-- Standard designs for classrooms and other school buildings.
+b) Standard designs for classrooms and other school buildings.
 
-- Site and soil surveys for new school sites.
+c) Site and soil surveys for new school sites.
 
-- Working drawings, site layouts, schedules of materials and tender documents to enable the construction of school buildings by local contractors.
+d) Working drawings, site layouts, schedules of materials and tender documents to enable the construction of school buildings by local contractors.
 
-- Proposals for giving head teachers and communities more autonomy in the maintenance of their schools by giving adequate funding to schools or communities direct for repairs and maintenance based on numbers of pupils or classrooms.
+e) Proposals for giving head teachers and communities more autonomy in the maintenance of their schools by giving adequate funding to schools or communities direct for repairs and maintenance based on numbers of pupils or classrooms.
 
-- A maintenance handbook to give guidance to head teachers on carrying out regular maintenance and minor repairs together with a simple reporting system by which the head teacher can report more serious maintenance problems and the measures taken to remedy them. The Provincial authorities can also use this to monitor the condition of schools.
+f) A maintenance handbook to give guidance to head teachers on carrying out regular maintenance and minor repairs together with a simple reporting system by which the head teacher can report more serious maintenance problems and the measures taken to remedy them.  The Provincial authorities can also use this to monitor the condition of schools.
 
 ###### 3. Provision of furniture
 
-- Standard designs for classroom furniture to suit the range of age groups of pupils in provincial secondary schools.  The furniture should be designed for manufacture at the village level out of locally available materials.
+a) Standard designs for classroom furniture to suit the range of age groups of pupils in provincial secondary schools.  The furniture should be designed for manufacture at the village level out of locally available materials.
 
-- Working drawings and schedules of materials to assist village carpenters to manufacture the furniture.
+b) Working drawings and schedules of materials to assist village carpenters to manufacture the furniture.
 
-- Schedules of numbers and sizes of furniture required by existing and proposed new schools.  A simple method should be proposed that would allow head teachers to dispose of, and account for, broken and worn out furniture in order that it does not take up valuable classroom or storage space.
+c) Schedules of numbers and sizes of furniture required by existing and proposed new schools.  A simple method should be proposed that would allow head teachers to dispose of, and account for, broken and worn out furniture in order that it does not take up valuable classroom or storage space.
 
-###### Provision of drinking water and toilets
+###### 4. Provision of drinking water and toilets
 
 242
 
@@ -8767,9 +8651,9 @@ Education Master Plan
 
 2000 - 2010
 
-- Provision of adequate supplies of clean drinking water on sites that have no consistent main water supplies, through the construction of wells with covers and hand pumps.
+a) Provision of adequate supplies of clean drinking water on sites that have no consistent main water supplies, through the construction of wells with covers and hand pumps.
 
-- Adequate toilet provision on sites that have no consistent main water supplies through the construction of VIP latrines or Pour-Flush Privies.
+b) Adequate toilet provision on sites that have no consistent main water supplies through the construction of VIP latrines or Pour-Flush Privies.
 
 243
 
