@@ -14,6 +14,42 @@ April 2007
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+## Table of Contents
+
+Foreword........................................................................................................................6
+1. Introduction............................................................................................................9
+2. Vision...................................................................................................................12
+3. Goals, Management, Strategies, Outcomes and Objectives ................................13
+Goals ........................................................................................................................13
+Management, Organisation, Co-ordination..............................................................13
+Strategies..................................................................................................................13
+Outcomes .................................................................................................................14
+Objectives ................................................................................................................15
+Design of the National Education Action Plan........................................................17
+5. Basic Education .......................................................................................................19
+6. Indicators, Targets, Minimum standards, PAF and SIEMIS ...................................20
+7. Early Childhood Education......................................................................................23
+7.1 Current Situation..........................................................................................23
+7.2 Future Directions .........................................................................................28
+8 Primary Education ...............................................................................................36
+8.1 Current Situation..........................................................................................36
+8.2 Future Directions .........................................................................................40
+9 Junior Secondary Education ................................................................................51
+9.1 Current Situation..........................................................................................51
+9.2 Future Directions .........................................................................................56
+10 Senior Secondary Education................................................................................67
+10.1 Current Situation..........................................................................................67
+10.2 Future Directions .........................................................................................71
+11 Tertiary Education ..................................................................................................77
+11.1 Current Situation..........................................................................................77
+11.2 Future Directions .........................................................................................82
+12 Technical and Vocational Education and Training..............................................85
+12.1 Current Situation..........................................................................................85
+12.2. Future Directions .....................................................................................89
+13. Roles of Stakeholders and Management of Resources........................................95
+14. Basis for logical framework of National Education Action Plan (2007-2009) ...100
+15 Schedule of Activities ...........................................................................................103
+
 2
 
 [[END OF PAGE 2]]
@@ -23,6 +59,26 @@ Solomon Islands National Education Action Plan, 2007-2009
 Solomon Islands National Education Action Plan, 2007-2009
 
 ## List of Tables
+
+Table 1: ECE Teaching Staff, Number of Centres, Enrolments by Gender, by Province, 2005 .............................................................................................................25
+Table 2: ECE Enrolments by Age and Gender, 2005 ..................................................26
+Table 3: Total ECE Teachers, By Gender and Percentage Qualified, 2005................27
+Table 4: Solomon Islands ECE Potential Growth, 2007 to 2010 ................................29
+Table 5: Total Primary School Teaching Staff and Enrolments, by Province, 2005...36
+Table 6: Total Primary School Teachers by Gender and Percentage Qualified, 2005 39
+Table 7: Solomon Islands Primary School Growth Projections, 2007 to 2010 ...........42
+Table 8: Number of Secondary Schools By Type, 2003-2005 ....................................51
+Table 9: Junior Secondary School Enrolments By Gender, 2005 ...............................51
+Table 10: Numbers of Secondary Teachers by Province, and Percentage Qualified, 2005..............................................................................................................................52
+Table 11: Enrolments By Class Level, 2005 ...............................................................54
+Table 12: Growth Potential for Solomon Islands Junior Secondary Schools, 2007 to 2010..............................................................................................................................57
+Table 13: Form 1 Projections, Solomon Islands, By Province, 2007-2010.................58
+Table 14: Junior Secondary School 100% Progression, Solomon Islands Students, to 2009..............................................................................................................................58
+Table 15: Senior Secondary School Enrolments by Gender, 2005..............................68
+Table 16: Growth Projections, Solomon Islands Senior Secondary Schools, 2007 to 2010..............................................................................................................................71
+Table 17: SICHE Enrolments by Gender, School and Year of Study, 2005 ...............79
+Table 18: SICHE Enrolments by Province of Origin and by School, 2005 ................80
+Table 19: TVET Teaching staff, TVET Centres and Enrolments by Province,2006 .86
 
 3
 
@@ -130,7 +186,7 @@ One  of  the  key  objectives  of  the Education  Strategic  Plan  2004-2006 was
 
 This National Education Action Plan 2007-2009 is the next step in establishing a firm initial foundation to work towards the goal of access to universal basic education. It is a synthesis of the provincial plans developed for each of the provinces in the Solomon Islands.  It incorporates the outcomes of the series of provincial workshops that have been undertaken to date. This plan, as its name suggests, is now focused on action.
 
-The challenges of ensuring every child in the Solomon Islands gets access to a basic education are considerable, given the history and geography of our country. We need to  overcome the challenges of isolation and difficult access to schooling in parts of our country and the difficulty of providing adequate resources to support education in every one of our provinces.
+The challenges of ensuring every child in the Solomon Islands gets access to a basic education are considerable, given the history and geography of our country. We need
 
 6
 
@@ -139,6 +195,8 @@ The challenges of ensuring every child in the Solomon Islands gets access to a b
 [[START OF PAGE 7]]
 
 Solomon Islands National Education Action Plan, 2007-2009
+
+to overcome the challenges of isolation and difficult access to schooling in parts of our country and the difficulty of providing adequate resources to support education in every one of our provinces.
 
 Other key challenges are
 
@@ -158,7 +216,7 @@ Our  Government  will  soon  sign  the  Arrangement  for  ESIRP,  phase  II  (20
 
 The National Education Action Plan 2007-2009 is  intended to be a dynamic, living document,  since  priorities  can  be  expected  to  alter  and  evolve  as  circumstances change over time. The intention is that the achievement of the objectives set out in this plan will be regularly monitored by our Ministry and adjusted if necessary.
 
-Implementation of this plan will also require effective partnerships to deliver financial resources and support. The Government of the Solomon Islands intends to continue to devote  a  significant  proportion  of  its  annual  budget  to  support  education,  but  the resources that central Government can afford are limited, and Government resources on  their  own  will  not  be  sufficient  to  ensure  the  success  of  this  plan.  We  are particularly  grateful  to  the  European  Union  and  to  the  New  Zealand  Agency  for International  Development for the extensive financial support provided to date, and for  their  ongoing  commitment  to  support  of  education  in  the  Solomon  Islands.  We also  acknowledge  the  generous  support  from  other  Development  Partners  like Republic  of  China,  Embassy  of  Japan,  AusAid  in  infrastructure  and  UNICEF  and UNESCO for their continuous investments in improving the quality of education. In the longer run, we hope these partners could join our new Arrangement to the ESIRP II, 2007-2009 in order to create a bigger development partners group which agrees on principles of donor harmonisation, alignment with government processes and achievement of common goals in the education sector.
+Implementation of this plan will also require effective partnerships to deliver financial resources and support. The Government of the Solomon Islands intends to continue to devote a significant proportion of its annual budget to support education, but the resources that central Government can afford are limited, and Government resources on their own will not be sufficient to ensure the success of this plan. We are particularly grateful to the European Union and to the New Zealand Agency for International Development for the extensive financial support provided to date, and for their ongoing commitment to support of education in the Solomon Islands. We also acknowledge the generous support from other Development Partners like Republic of China, Embassy of Japan, AusAid in infrastructure and UNICEF and UNESCO for their continuous investments in improving the quality of education. In
 
 7
 
@@ -167,6 +225,8 @@ Implementation of this plan will also require effective partnerships to deliver 
 [[START OF PAGE 8]]
 
 Solomon Islands National Education Action Plan, 2007-2009
+
+the longer run, we hope these partners could join our new Arrangement to the ESIRP II, 2007-2009 in order to create a bigger development partners group which agrees on principles of donor harmonisation, alignment with government processes and achievement of common goals in the education sector.
 
 There is much to be done to improve access and to lift the quality of achievement in our schools, and in pre-school, basic- and post-school education provision. All those involved  in  education  (students,  their  parents,  teachers,  administrators  and  other stakeholders) have an important part to play. The extent of the improvements needed in  education  in  the  Solomon  Islands  is  such  that  not  all  changes  we  wish  to  bring about can realistically be achieved in the short span of three years.
 
@@ -220,7 +280,7 @@ Following  this  workshop,  further  amendments  were  made  to  the  organisati
 
 The National Education Action Plan 2007-2009 is a national planning document that reflects the general needs of all provinces and needs specific to individual provinces. It has been compiled from the recommendations and agreements that emerged in the development  of  the  ten  provincial  education  action  plans,  and  from  the  considered advice of participants at two national workshops. It synthesises the outcomes of the ten  provincial  education  action  plans  by  incorporating  them  into  this  planning document.  This National Education Action Plan 2007-2009 has  a  three-year focus, from  2007  to  2009.  It  has  been  designed  as  a  complementary  document  to  the Education Strategic Framework 2007-2015 .
 
-Because  the  broad  aims  of  the  original  education  strategic  plan  are  educationally sound,  and  because  of  the  need  for  continuity  with  the  strategic  direction  of  the previous three years, the vision and broad strategic goals of the Education Strategic Plan  2004-2006 have  been  adopted  without  substantial  change  in  this National Education Action Plan  2007-2009 and in the Education Strategic Framework 20072015 . .
+Because the broad aims of the original education strategic plan are educationally sound, and because of the need for continuity with the strategic direction of the previous three years, the vision and broad strategic goals of the Education Strategic Plan 2004-2006 have been adopted without substantial change in this National Education Action Plan 2007-2009 and in the Education Strategic Framework 2007-2015. .
 
 The Solomon Islands National Education Action Plan:
 
@@ -250,9 +310,9 @@ The national education action plan builds on the achievements of the past three 
 
 - it has a practical focus on implementation;
 
-- it targets the immediate priorities of the next three years;
-
 - it is selective in the choice of priority actions for implementation;
+
+- it targets the immediate priorities of the next three years;
 
 - it  is  strongly action-oriented by specifying what actions are required, and by when;
 
@@ -400,7 +460,7 @@ The following objectives are derived from the strategic goals and outcomes:
 
 - 4.1 Strengthening planning, budgeting, management, co-ordination and monitoring
 
-- To produce a logical framework for the SWAp which creates interlinkages and increased cohesion between ESIRP II, NEAP (2007-2009) and ESF (20072015) as well as among the different sub sectors and stakeholders involved
+- To produce a logical framework for the SWAp which creates interlinkages and increased cohesion between ESIRP II, NEAP (2007-2009) and ESF (2007-2015) as well as among the different sub sectors and stakeholders involved
 
 15
 
@@ -418,17 +478,17 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - To develop a strong sector secretariat and sector co-ordination team
 
-- To strengthen the role of Provincial Government and Authorities in planning, implementing and monitoring NEAP
-
 - To develop a PAF and strengthen utilisation of SIEMIS.
+
+- To strengthen the role of Provincial Government and Authorities in planning, implementing and monitoring NEAP
 
 - 4.2 To develop, revise or finalise policies for the different sub sectors or cross cutting areas
 
 - To revitalise the TWG's for policy
 
-- Organise  inputs  and  participation  from  all  kinds  of  actors  (Government, Development  Partners,  Civil  Society,  Private  sector,  NGO's,  international agencies
-
 - Make an inventory of all policies to be developed, revised and finalised
+
+- Organise inputs and participation from all kinds of actors (Government, Development Partners, Civil Society, Private sector, NGO's, international agencies
 
 4.3 On  the  basis  of  a  national  demand,  to  ensure  longer  term  interest,  technical assistance  (including  the  development  of  a  national  TA-pool)  and  funding  from Development Partners for the SWAp, ESIRPII, NEAP (2007-2009), ESF (2007-2015
 
@@ -436,7 +496,7 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 4.4. To develop and implement a programme of Human Resource Development and capacity building
 
-- To start  an  Institutional  and  Organisational  Analysis  (IOA)  including  a  HRneeds  analysis  to  support  for  the  development  of  a  programme  for  Human Resource Development and capacity building
+- To start an Institutional and Organisational Analysis (IOA) including a HR-needs analysis to support for the development of a programme for Human Resource Development and capacity building
 
 4.5 To develop and implement an improved and harmonised grants system to support school operations in primary, secondary education and in TVET
 
@@ -468,13 +528,15 @@ The diagram on the next page sets out the relationship between the high level st
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+## 4. Design of the National Education Action Plan
+
 Strategic Goal 1
 
 Strategic Goal 2
 
 Strategic Goal 3
 
-## 4. Design of the National Education Action Plan
+6 Strategies
 
 Outcome
 
@@ -516,6 +578,14 @@ Activity
 
 programme
 
+6 strategies that
+
+reflect the way
+
+forward for
+
+education
+
 4 outcome statements
 
 that reflect the key
@@ -528,31 +598,21 @@ One or more objectives under
 
 each outcome. These answer
 
-the question 'What needs to
+the question “What needs to
 
 happen to achieve the
 
-outcome?'
+outcome?”
 
 One or more activities or outputs
 
 under each objective. These answer
 
-the question 'What needs to happen
+the question “What needs to happen
 
 now to make an immediate start on
 
-achieving the objective?'
-
-6 strategies that
-
-reflect the way
-
-forward for
-
-education
-
-6 Strategies
+achieving the objective?”
 
 18
 
@@ -604,7 +664,7 @@ Each province takes responsibility for ensuring that schools or educational inst
 
 The Solomon Islands identified education targets and indicators till date for the period 2004-2006 were:
 
-- The net enrolment ratio 1 for the early childhood sector (ECE) in the Solomon Islands  will be 20% or better;
+1. The net enrolment ratio 1 for the early childhood sector (ECE) in the Solomon Islands will be 20% or better;
 
 > 1 A net enrolment ratio refers to the number of students in the official age group for a given level of education  expressed  as  a  percentage  of  the  total  population  in  that  age  group.  NER  values  cannot exceed 100%. Net enrolment ratios less than 100% indicate students of the appropriate age group are not attending school. This situation may occur because some students have never enrolled or attended school, or because they have dropped out.
 
@@ -616,39 +676,39 @@ The Solomon Islands identified education targets and indicators till date for th
 
 Solomon Islands National Education Action Plan, 2007-2009
 
-- The net enrolment ratio for primary education in the Solomon Islands will be 100%;
+2. The net enrolment ratio for primary education in the Solomon Islands will be 100%;
 
-- The met enrolment ratio for secondary education in the Solomon Islands will be 20% or better;
+3. The met enrolment ratio for secondary education in the Solomon Islands will be 20% or better;
 
-- The proportion of teachers who are certified will be greater than 70% (teachers are certified who have completed a teaching certificate);
+4. The proportion of teachers who are certified will be greater than 70% (teachers are certified who have completed a teaching certificate);
 
-- The average teacher-pupil ratio in the ECE sector will be 1:15 or less;
+5. The average teacher-pupil ratio in the ECE sector will be 1:15 or less;
 
-- The average teacher: pupil ratio in the primary education sector will be 1:30 or less;
+6. The average teacher: pupil ratio in the primary education sector will be 1:30 or less;
 
-- The average teacher: pupil ratio in the community high schools will be 1:30 or less;
+7. The average teacher: pupil ratio in the community high schools will be 1:30 or less;
 
-- The average teacher: pupil ratio in the provincial secondary schools will 1:30 or less
+8. The average teacher: pupil ratio in the provincial secondary schools will 1:30 or less
 
-- The average teacher: pupil ratio in the national secondary schools will be 1:30 or less
+9. The average teacher: pupil ratio in the national secondary schools will be 1:30 or less
 
-- The  percentage  of  students  who  attain  the  literacy  standard  at  standard  4 (SISTA) will be greater than 60%;
+10. The percentage of students who attain the literacy standard at standard 4 (SISTA) will be greater than 60%;
 
-- The  percentage  of  students  who  attain  the  numeracy  standard  at  standard  4 (SISTA)  will be greater than 60%;
+11. The percentage of students who attain the numeracy standard at standard 4 (SISTA) will be greater than 60%;
 
-- The average number of pupils per primary classroom will be less than 30 in primary schools;
+12. The average number of pupils per primary classroom will be less than 30 in primary schools;
 
-- The average number of pupils per secondary classroom will be less than 30 in secondary schools
+13. The average number of pupils per secondary classroom will be less than 30 in secondary schools
 
-- The average toilet to pupil ratio in all schools will be less than 1:50;
+14. The average toilet to pupil ratio in all schools will be less than 1:50;
 
-- The average pupil to dormitory ratio in all schools will be less than 50:1;
+15. The average pupil to dormitory ratio in all schools will be less than 50:1;
 
-- The percentage of schools/education institutions with access to clean and safe water will be 100% (clean and safe water is defined as the provision of piped water  and/or  a  tank,  and/or  access  to  a  well  with  drinkable  water,  where available  water  sources  and  equipment  are  considered  to  be  in  good  or  fair condition).
+16. The percentage of schools/education institutions with access to clean and safe water will be 100% (clean and safe water is defined as the provision of piped water and/or a tank, and/or access to a well with drinkable water, where available water sources and equipment are considered to be in good or fair condition).
 
 A minimum standard was also identified in 2004:
 
-- The proportion of teachers with the minimum qualification in teaching will be greater than 70% (currently the minimum qualification for primary teachers to teach is a form 5 qualification, and for secondary teachers to teach is a form 6 qualification)
+17. The proportion of teachers with the minimum qualification in teaching will be greater than 70% (currently the minimum qualification for primary teachers to teach is a form 5 qualification, and for secondary teachers to teach is a form 6 qualification)
 
 The achievement of the Solomon Islands against these targets and indicators as reported in the Digest of Education Statistics 2005 is as follows:
 
@@ -738,7 +798,7 @@ International  experience  and  research  highlights  the  importance  of  early
 
 Some early childhood education was introduced to the Solomon Islands prior to the 1980s by individuals, groups or voluntary organisations, mainly in urban centres such as Honiara, Gizo and Auki.  During that period missionaries and wives of employed expatriates  opened  early  childhood  centres  to  cater  for  their  own  needs  as  well  as those  of  others.    These  centres  were  in  operation  until  the  expatriates  left,  and Solomon  Islands  women  took  over  on  a  commercial  basis.    A  commission  then recommended that an additional year of primary education be established, which was called the 'preparatory year'.   In 1981, the Honiara Pre-School Association (HOPA) was  established  to  cater  for  six  preschools.    Its  aim  was  to  ensure  proper  use  of teaching materials, and to maintain the training of trainers.  By 1984, the Government initiated preparatory classes on a pilot basis with the assistance of UNICEF. During the same year, the 'Preparatory Year' was incorporated into the general structure of the  primary  education  system  as  part  of  the  national  policy  guidelines.    With  this development, more and more parents realised that beginning the education of children at  an  early  stage  appeared  to  assist  a  child's  development  later  on  in  the  formal education system.  As a result of this realisation, many kindergartens were organised by  various  individuals  and  interested  groups.    It  is  because  of  the  establishment  of these kindergartens that HOPA was able to be formed.
 
-Although more and more kindergartens were set up, there was concern that most of those who operated the ECE centres were not trained for their roles in education. A community based early childhood programme delivered outside of the school system was initiated with New Zealand assistance in the mid-90's.  This project addressed the issue of training for early childhood education.  The report of this project commented that  'this  project  was  initiated  at  the  request  of  the  Solomon  Islands  Government, which was conscious of the need to improve the skills of the teachers in the rapidly growing  number  of  kindergartens.'  (Taylor  and  Foote,  1997).    As  a  result  of  this project,  one  of  the  country's  training  programmes,  field-based  training  (FBT)  was developed to train the kindergarten teachers who were working in the ECE centres up until 1996.  By 1998, another training programme was developed and commenced in the Solomon Islands College of Higher Education (SICHE) for the formal training of the  early  childhood  education  (ECE)  teachers.    The  first  SICHE  intakes  for  the Certificate  in  Teaching  (ECE)  were  from  the  first  cohort  of  teachers  who  had undergone field-based training.
+Although more and more kindergartens were set up, there was concern that most of those who operated the ECE centres were not trained for their roles in education. A community based early childhood programme delivered outside of the school system was initiated with New Zealand assistance in the mid-90's. This project addressed the issue of training for early childhood education. The report of this project commented
 
 23
 
@@ -748,6 +808,8 @@ Although more and more kindergartens were set up, there was concern that most of
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+that “this project was initiated at the request of the Solomon Islands Government, which was conscious of the need to improve the skills of the teachers in the rapidly growing number of kindergartens.” (Taylor and Foote, 1997). As a result of this project, one of the country's training programmes, field-based training (FBT) was developed to train the kindergarten teachers who were working in the ECE centres up until 1996. By 1998, another training programme was developed and commenced in the Solomon Islands College of Higher Education (SICHE) for the formal training of the early childhood education (ECE) teachers. The first SICHE intakes for the Certificate in Teaching (ECE) were from the first cohort of teachers who had undergone field-based training.
+
 The Education Strategic Plan 2004 - 2006 has proposed that the 'Preparatory Year' should be phased out from the primary education sector, and merged into the ECE sector.  It  observed  that  preparatory  classes  were  offered  in  primary  schools,  often delivered by inadequately trained teachers, and that recent experience indicated that these classes may in fact undo the benefits of community-based learning.
 
 The  Minister  of  Education  is  currently  consulting  stakeholders  on  whether  this proposal should be supported, or whether the 'Preparatory Year' should be regarded as the first year of primary education. An associated issue on which the Minister is consulting  with  communities  is  whether  the  appropriate  age  for  starting  primary school should be age 6 or age 7, and whether attendance at school at that age should be compulsory for Solomon Islands children.
@@ -756,9 +818,9 @@ Issues and constraints affecting ECE in the Solomon Islands include:
 
 - the difficulty communities have in affording financial support for ECE;
 
-- a lack of quality learning resources and equipment;
-
 - a lack of trained ECE teachers;
+
+- a lack of quality learning resources and equipment;
 
 - poor facilities in existing ECE centres, and very few ECE spaces specifically designed with the needs of young children in mind; and
 
@@ -774,6 +836,8 @@ Table 1 sets out a breakdown by province of the number of ECE teaching staff in 
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+Table 1: ECE Teaching Staff, Number of Centres, Enrolments by Gender, by Province, 2005
+
 Province | Teaching Staff | No. of Centres | Males | Females | Total enrolment
 --- | --- | --- | --- | --- | ---
 Central | 22 | 8 | 193 | 181 | 374
@@ -787,8 +851,6 @@ Rennell & Bellona | 20 | 12 | 133 | 120 | 253
 Temotu | 33 | 23 | 407 | 363 | 770
 Western | 98 | 51 | 904 | 858 | 1762
 Total | 739 | 330 | 5706 | 5488 | 11194
-
-Table  1:  ECE  Teaching  Staff,  Number  of  Centres,  Enrolments  by  Gender,  by Province, 2005
 
 #### 7.1.1 Access and Equity
 
@@ -808,6 +870,8 @@ There  are  no  significant  gender  issues  with  respect  to  ECE  enrolments 
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+Table 2: ECE Enrolments by Age and Gender, 2005
+
 Age | Female | Male | Total
 --- | --- | --- | ---
 3 | 1148 | 1074 | 2222
@@ -818,8 +882,6 @@ Age | Female | Male | Total
 8 | 94 | 128 | 222
 9 | 43 | 40 | 83
 Total | 5523 | 5728 | 11251
-
-Table 2: ECE Enrolments by Age and Gender, 2005
 
 Information  is  not  available  to  determine  if  there  are  equity  issues  with  respect  to access to early childhood education for the disabled (e.g. children who are physically disabled,  visually  impaired,  hearing  impaired,  intellectually  disabled,  or  who  have other types of disability).
 
@@ -847,6 +909,8 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 The  total  number  of  ECE  teachers  in  the  Solomon  Islands  in  2005  was  739  (652 women and 87 men) . Over 80% of these teachers were unqualified, although many of these  unqualified  teachers  may  have  had  some  field-based  training.    Teachers  who have completed field-based training are technically classified as 'untrained' and need to  go  on  and  complete  the  ECE  teacher  training  programme  at  SICHE  in  order  to qualify as a trained ECE teacher. The key need is to provide training to upgrade the skills of the ECE teachers who are unqualified. Table 3 below sets out further detail.
 
+Table 3: Total ECE Teachers, By Gender and Percentage Qualified, 2005
+
 Province | Female | Male | Total | % Qualified
 --- | --- | --- | --- | ---
 Central | 16 | 6 | 22 | 13.6%
@@ -860,8 +924,6 @@ Rennell & Bellona | 18 | 2 | 20 | 0%
 Temotu | 26 | 7 | 33 | 30.3%
 Western | 93 | 5 | 98 | 16.3%
 Total | 652 | 87 | 739 | 18.3%
-
-Table 3: Total ECE Teachers, By Gender and Percentage Qualified, 2005
 
 The  teacher  pupil  ratio  for  ECE  in  2005  was  1:15.2 21 .  This  ratio  is  close  to  the recommended  1:15  teacher  pupil  guidelines,  and  suggests  that  teacher  supply  is adequate, although there may be a slight overall shortage of ECE teachers in parts of the country. There is certainly a shortage of well-trained and qualified ECE teachers.
 
@@ -891,11 +953,11 @@ A National Workshop was held in Honiara on 11 & 12 October 2006 to consider a dr
 
 - Need for provision of well-trained teachers in the ECE sector, including Head Teachers;
 
-- Need for provision of institutional arrangements  to train ECE teachers;
-
-- Need for provision of finance from Government to assist in managing ECE Centres, with particular attention being given to payment teacher salaries.
+- Need for provision of institutional arrangements to train ECE teachers;
 
 - Need for an increased number of early childhood education spaces;
+
+- Need for provision of finance from Government to assist in managing ECE Centres, with particular attention being given to payment teacher salaries.
 
 Participants at the workshop wished the Government to strengthen its role in ECE (in areas such as finance, payment of salaries of all teachers, provision of supplies, and for the Government to take action to build institutions to train teachers).
 
@@ -923,11 +985,11 @@ The  actual  enrolments  in  ECE  in  2005  in  Solomon  Islands  (11,251)  repr
 
 Table 4 sets out the population projections for the 3-5 age group for the four years 2007 to 2010 for the Solomon Islands.
 
+Table 4: Solomon Islands ECE Potential Growth, 2007 to 2010
+
 Year | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | ---
 Population projections, 3-5 age group | 40568 | 41360 | 42050 | 43157
-
-Table 4: Solomon Islands ECE Potential Growth, 2007 to 2010
 
 Source: 1999 Census Provincial Projections
 
@@ -1003,9 +1065,9 @@ The following guidelines would apply when considering the establishment or reviv
 
 - communities will be responsible for building facilities;
 
-- a standardised design for an ECE space or classroom would be followed in constructing ECE facilities; and
-
 - early childhood centres would be attached to a primary school where possible;
+
+- a standardised design for an ECE space or classroom would be followed in constructing ECE facilities; and
 
 - minimum standards for facilities (including appropriate water supply & sanitation facilities) will apply.
 
@@ -1033,7 +1095,7 @@ In planning for gradual expansion in ECE by the end of 2009, it will be necessar
 
 In order to upgrade the skills and competencies of existing ECE teachers, and to meet the  requirement  for  trained  ECE  teachers  in  future,  the  following  strategies  and activities will be implemented:
 
-- the  Solomon  Islands  will  develop  a  teacher  training  plan  for  the  period 2007 to 2009, in which the need for ECE teachers to be specially trained will be recognised,  and consequently teachers who have undergone fieldbased training will be a priority for further training at SICHE;
+- the Solomon Islands will develop a teacher training plan for the period 2007 to 2009, in which the need for ECE teachers to be specially trained will be recognised, and consequently teachers who have undergone field-based training will be a priority for further training at SICHE;
 
 32
 
@@ -1055,7 +1117,7 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - training  packages  for    ECE  teachers  through  field-based  training  will  be developed at provincial centres, in liaison with SICHE, to ensure there are sufficient ECE  teachers trained in each year (2007, 2008 and 2009);
 
-- each province will establish 'lighthouse' or 'model centres' where fieldbased    training  can  take  place,    and  where  teachers  can  learn  to  set  up spaces  for ECE requirements;
+- each province will establish 'lighthouse' or 'model centres' where field-based training can take place, and where teachers can learn to set up spaces for ECE requirements;
 
 - SICHE  teacher  training  scholarships  for  ECE  teachers  will  be  made available  to  each  province  on  an  equitable  population  basis  (based  on  a quota system); and
 
@@ -1115,7 +1177,7 @@ Each ECE centre is responsible for managing provision of early childhood educati
 
 - To establish policy for ECE;
 
-- To provide seconded staff for training, inspection and assessment of fieldbased staff  and probationers;
+- To provide seconded staff for training, inspection and assessment of field-based staff and probationers;
 
 - To secure appropriate funding for resources and support of ECE;
 
@@ -1131,17 +1193,17 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - To meet the cost of salaries of trained ECE teachers;
 
-- To assist in seeking sponsors to fund buildings.
-
 - To support curriculum development and production of learning materials;
+
+- To assist in seeking sponsors to fund buildings.
 
 ##### Provincial Education Authority roles
 
 - To assist in providing in-service training for teachers;
 
-- To  support  field-based  training  for  ECE  teachers  (provided  by  ECE coordinators) before selection for further training takes place;
+- To ensure that ECE teachers are properly trained;
 
-- To ensure that ECE teachers are properly  trained;
+- To support field-based training for ECE teachers (provided by ECE coordinators) before selection for further training takes place;
 
 - To manage monitoring and evaluation of ECE centres;
 
@@ -1193,6 +1255,8 @@ The  overall  purpose  of  primary  education  is  to  develop  children's  lite
 
 According to the Digest of Education Statistics 2005, the Solomon  Islands has a total of 533 primary schools, as well as 117 community high schools, all of which have a primary  school  attached,  church  schools  included,  making  a  total  of  650  schools offering  primary  schooling.  There  is  a  total  student  enrolment  of  100,356  primary school  children  in  the  country.  This  figure  includes  21,082  pupils  enrolled  in  the preparatory year. There were 3,964 primary school teachers teaching in the province's primary schools in 2005. The teacher pupil ratio is therefore 1:25.3. Table 5 below provides  data  on  teaching  staff  and  total  enrolments  in  primary  education  by provinces.
 
+Table 5: Total Primary School Teaching Staff and Enrolments, by Province, 2005
+
 Province | Teaching Staff | Males | Females | Total Enrolments
 --- | --- | --- | --- | ---
 Central | 200 | 2772 | 2532 | 5304
@@ -1206,8 +1270,6 @@ Rennell & Bellona | 65 | 353 | 343 | 696
 Temotu | 201 | 2406 | 2184 | 4590
 Western | 557 | 7490 | 6928 | 14418
 Total | 3964 | 53146 | 47210 | 100356
-
-Table  5:  Total  Primary  School  Teaching  Staff  and  Enrolments,  by  Province, 2005
 
 Source: Digest of Education Statistics 2005
 
@@ -1223,9 +1285,9 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - a shortage of trained teachers;
 
-- poor facilities (including inadequate water supply and poor sanitation at many schools)
-
 - a lack of good quality curriculum resources; and
+
+- poor facilities (including inadequate water supply and poor sanitation at many schools)
 
 - lack of teaching resources
 
@@ -1261,7 +1323,7 @@ In addition, all primary school land in the Solomon Islands needs to be register
 
 #### 8.1.3 Curriculum
 
-Curriculum  development  will  remain  centralised  within  the  Ministry  of  Education. The  primary  school  curriculum  is  currently  being  reviewed,  with  work  on  primary mathematics  and  English  for  standards  1  to  6  under  way.  Development  of  other subjects will follow with financial assistance provided by NZAID.
+Curriculum development will remain centralised within the Ministry of Education. The primary school curriculum is currently being reviewed, with work on primary
 
 38
 
@@ -1271,11 +1333,15 @@ Curriculum  development  will  remain  centralised  within  the  Ministry  of  E
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+mathematics and English for standards 1 to 6 under way. Development of other subjects will follow with financial assistance provided by NZAID.
+
 A sound curriculum in the primary education sector is essential, for it is at this level that the essential basic skills of reading, writing, speaking and listening are developed.
 
 #### 8.1.4 Teacher Supply and Demand
 
 What does need to be monitored carefully, however, and improved, is the quality of the primary school teaching staff. A key issue is the number of unqualified primary school teachers in the Solomon Islands.  Table 6 provides details of primary school teachers in the Solomon Islands by province, by gender, and sets out the percentage of teachers who are qualified.
+
+Table 6: Total Primary School Teachers by Gender and Percentage Qualified, 2005
 
 Province | Female | Male | Total | % Qualified
 --- | --- | --- | --- | ---
@@ -1290,8 +1356,6 @@ Rennell & Bellona | 15 | 50 | 65 | 64.6%
 Temotu | 74 | 127 | 201 | 76.6%
 Western | 282 | 275 | 557 | 68.9%
 Total | 1595 | 2369 | 3964 | 67.3%
-
-Table 6: Total Primary School Teachers by Gender and Percentage Qualified, 2005
 
 Approximately one third of primary teachers in the country in 2005 were unqualified. This  figure  is  too  high,  and  strategies  need  to  be  developed  to  address  how  the untrained  teachers  will  be  upskilled.  This  issue  requires  immediate  attention  to improve the quality of education in the Solomon Islands primary schools.
 
@@ -1339,7 +1403,7 @@ The National Workshop held in Honiara on 11 and 12 October 2006 endorsed four ke
 
 - Management
 
-Participants at the workshop raised a number of issues that impacted upon priorities for  the  future  direction  of  the  primary  school  sector.  The  MEHRD  was  urged  to continue with the plans to develop school infrastructure, and to continue its support for  training  teachers.  There  was  a  general  desire  to  devolve  more  decision-making powers to the provinces, and to decentralise decision-making where possible. It was recognised  that  school  administrators  such  as  Principals  and  senior  staff  need management training. There was discussion about whether the Solomon Islands needs another teacher training institution to increase the output of trained teachers. Language  and  mother  tongue  issues  were  also  discussed,  and  the  value  of  an education in a vernacular language (at least for children entering primary school) was endorsed, in the context of considering effective strategies to improve literacy.
+Participants at the workshop raised a number of issues that impacted upon priorities for the future direction of the primary school sector. The MEHRD was urged to continue with the plans to develop school infrastructure, and to continue its support for training teachers. There was a general desire to devolve more decision-making powers to the provinces, and to decentralise decision-making where possible. It was recognised that school administrators such as Principals and senior staff need
 
 40
 
@@ -1348,6 +1412,8 @@ Participants at the workshop raised a number of issues that impacted upon priori
 [[START OF PAGE 41]]
 
 Solomon Islands National Education Action Plan, 2007-2009
+
+management training. There was discussion about whether the Solomon Islands needs another teacher training institution to increase the output of trained teachers. Language and mother tongue issues were also discussed, and the value of an education in a vernacular language (at least for children entering primary school) was endorsed, in the context of considering effective strategies to improve literacy.
 
 #### 8.2.1 Access and Equity
 
@@ -1367,12 +1433,12 @@ If it was assumed that the average age of entry to the preparatory level in the 
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+Table 7: Solomon Islands Primary School Growth Projections, 2007 to 2010
+
 Year | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | ---
 Projected population, ages 6-12 (Scenario 1) | 88,789 | 89,793 | 91,737 | 91,751
 Enrolment projections (Scenario 2) | 106,054 | 109,024 | 112,076 | 115,214
-
-Table 7: Solomon Islands Primary School Growth Projections, 2007 to 2010
 
 Source: Source: Scenario 1, 1999 Census Provincial Population Projections
 
@@ -1434,9 +1500,9 @@ Programme)  need  to  be  better  coordinated,  but  still  allow  for  differen
 
 - extension schools should be improved;
 
-- staff housing should be standardised,  based on a set of minimum standards;
-
 - appropriate furniture needs to be provided for classrooms;
+
+- staff housing should be standardised, based on a set of minimum standards;
 
 - land where schools are located needs to be registered in order to avoid future land disputes; and
 
@@ -1492,7 +1558,7 @@ Well  trained  teachers  are  the  backbone  of  a  quality  education  system. 
 
 A range of strategies needs to be developed to train these unqualified teachers to an acceptable standard, and also to upgrade the skills of teachers currently in the teaching service. These strategies include an extension to numbers of trainees at the Solomon Islands  College  of  Higher  Education,  enrolment  in  USP  programmes,  mentoring  of existing untrained teachers by experienced professionals, and provision of professional development opportunities through in-service training.
 
-It appears there are sufficient teachers in the country at a system level to meet current requirements for the immediate future, although there may be supply requirements in particular  isolated  localities.  However,  the  Solomon  Islands  may  wish  to  review  its supply  of  teachers  and  assess  attrition  rates  and  future  retirements  in  the  existing teacher  work  force  in  order  to  plan  for  the  future.  The  provincial  education  action plans have identified a supply need for more than 100 teacher trainees to be trained each year in 2007, 2008 and 2009.  It is necessary to plan to train new teachers now to avoid any future teacher shortages.
+It appears there are sufficient teachers in the country at a system level to meet current requirements for the immediate future, although there may be supply requirements in particular isolated localities. However, the Solomon Islands may wish to review its supply of teachers and assess attrition rates and future retirements in the existing teacher work force in order to plan for the future. The provincial education action
 
 45
 
@@ -1502,7 +1568,9 @@ It appears there are sufficient teachers in the country at a system level to mee
 
 Solomon Islands National Education Action Plan, 2007-2009
 
-So  that  the  Solomon  Islands  develops  a  fully  trained  primary  teaching  force,  the following strategies and activities will be carried out:
+plans have identified a supply need for more than 100 teacher trainees to be trained each year in 2007, 2008 and 2009. It is necessary to plan to train new teachers now to avoid any future teacher shortages.
+
+So that the Solomon Islands develops a fully trained primary teaching force, the following strategies and activities will be carried out:
 
 - a comprehensive policy framework for the education and training of primary school teachers will be developed;
 
@@ -1512,7 +1580,7 @@ So  that  the  Solomon  Islands  develops  a  fully  trained  primary  teaching 
 
 - additional  teacher  trainees  need  to  be  recruited  and  enrolled  with  SICHE  to gain appropriate teaching qualifications;
 
-- as many teachers as can be accommodated within the existing capacity limits of  SICHE  will  be  trained  each  year,  for  the  next  3  years,  through  the  preservice teacher training programme (including some of the untrained teachers);
+- as many teachers as can be accommodated within the existing capacity limits of SICHE will be trained each year, for the next 3 years, through the pre-service teacher training programme (including some of the untrained teachers);
 
 - multi  class  teaching  modules  will  be  included  in  the  SICHE  School  of Education  curriculum,  with  appropriate  training  for  the  teachers  to  manage composite classes including children at different levels;
 
@@ -1646,7 +1714,7 @@ Policy  and  guidelines  for  the  management  of  schools  is  set  out  in  th
 
 - each  Provincial  Education  Authority  will  be  more  active  in  organising education  tours  and  school  visits , in  providing  updates  for  schools,  and  in arranging school inspections.
 
-School management committees and provincial and church education authorities will continue playing a major role in the running of primary schools. The roles of these organisations  are  set  out  in  the  later  section  of  this  national  education  action  plan 'Roles of Stakeholders'.
+School management committees and provincial and church education authorities will continue playing a major role in the running of primary schools. The roles of these
 
 49
 
@@ -1655,6 +1723,8 @@ School management committees and provincial and church education authorities wil
 [[START OF PAGE 50]]
 
 Solomon Islands National Education Action Plan, 2007-2009
+
+organisations are set out in the later section of this national education action plan 'Roles of Stakeholders'.
 
 50
 
@@ -1672,6 +1742,8 @@ Junior secondary schools provide education for students in forms 1, 2 and 3.This
 
 Data about the number of secondary schools is available for 2005 only. Table 8 sets out the number of secondary schools in the Solomon Islands
 
+Table 8: Number of Secondary Schools By Type, 2003-2005
+
 School Type | 2003 | 2004 | 2005
 --- | --- | --- | ---
 NSS | 9 | 9 | 9
@@ -1679,9 +1751,9 @@ PSS | 16 | 16 | 16
 CHS | 105 | 109 | 115
 Total | 130 | 134 | 140
 
-Table 8: Number of Secondary Schools By Type, 2003-2005
-
 There  were  17,215  students  in  total  enrolled  in  forms  1,  2  and  3  in  the  Solomon Islands in 2005. Table 9 sets out details of enrolments by gender.
+
+Table 9: Junior Secondary School Enrolments By Gender, 2005
 
 Form 1 | Form 2 | Form 3
 --- | --- | --- | --- | --- | ---
@@ -1689,8 +1761,6 @@ Male | Female | Male | Female | Male | Female
 3,576 | 2,946 | 3,226 | 2,613 | 2,726 | 2,128
 Total | Total | Total
 6,522 | 5,839 | 4,854
-
-Table 9: Junior Secondary School Enrolments By Gender, 2005
 
 Source: Digest of Education Statistics, 2005
 
@@ -1705,6 +1775,8 @@ Secondary teachers will typically teach at both junior and senior levels in a sc
 Solomon Islands National Education Action Plan, 2007-2009
 
 Table 10 sets out the number of secondary teachers by province, and the percentage that are qualified. Note that some of these teachers will teach at both junior and senior secondary levels.
+
+Table 10: Numbers of Secondary Teachers by Province, and Percentage Qualified, 2005
 
 Province | Number of Secondary Teachers | % Qualified
 --- | --- | --- | --- | ---
@@ -1721,23 +1793,21 @@ Temotu | 26 | 8 | 34 | 61.8%
 Western | 113 | 47 | 160 | 83.1%
 Total | 698 | 240 | 938 | 79.5%
 
-Table  10:  Numbers  of  Secondary  Teachers  by  Province,  and  Percentage Qualified, 2005
-
 Major constraints and issues in the junior secondary level are as follows:
 
 - a lack of classroom spaces at existing junior secondary schools;
 
-- a lack of boarding facilities in the existing community high schools;
-
 - a lack of curriculum resources and equipment;
+
+- a lack of boarding facilities in the existing community high schools;
 
 - a shortage of trained teachers in all subject areas;
 
-- a  lack  of  specialised  classrooms  e.g.  for  home  economics,  science,  and industrial arts;
-
 - the deteriorating state of school buildings;
 
-- gender imbalance in enrolments;  and
+- a lack of specialised classrooms e.g. for home economics, science, and industrial arts;
+
+- gender imbalance in enrolments; and
 
 - the geographical location of current community high schools hinders day schooling for many children.
 
@@ -1773,6 +1843,8 @@ A scrutiny of enrolment patterns by class level, as set out in Table 11, indicat
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+Table 11: Enrolments By Class Level, 2005
+
 School Level | Total Enrolled
 --- | ---
 Kindergarten | 11,251
@@ -1791,8 +1863,6 @@ Form 5 | 3,029
 Form 6 | 881
 Form 7 | 189
 Total | 136,624
-
-Table 11: Enrolments By Class Level, 2005
 
 The  objective  of  ensuring  access  to  universal  basic  education  for  all  students  from standard 1 to form 3 means the apparent cycle of gradual attrition demonstrated in the enrolment figures above will need to be broken. One of the critical points at which onward progression is interrupted is at the transition between standard six and form 1.
 
@@ -1830,7 +1900,7 @@ It is evident from informed professional opinion that there is a shortage of ade
 
 #### 9.1.5 Financing
 
-The  Solomon  Islands  Government  provides  funding  for  the  salaries  of  junior secondary teachers and a school operating grant.  The allocation of secondary school grants is based on SBD500 per day school student and SBD750 per boarding school student.
+The  Solomon  Islands  Government  provides  funding  for  the  salaries  of  junior secondary teachers and a school operating grant. The allocation of secondary school
 
 55
 
@@ -1840,15 +1910,17 @@ The  Solomon  Islands  Government  provides  funding  for  the  salaries  of  ju
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+grants is based on SBD500 per day school student and SBD750 per boarding school student.
+
 The recommended unit costs for the junior secondary level are: SBD1,200 for a day student and SBD1,800 for a boarding student.
 
 The concept of Community Standard Funding was developed to encourage partnership  in  education  which  clearly  states  the  contribution  levels  of  the  various stakeholders. The  accepted basis of Community  Standard  Funding  for junior secondary schools is as follows:
 
-- Solomon Islands Government: contribution to 60%  total costs;
-
-- Parents and community: contribution to 10% of total costs.
+- Solomon Islands Government: contribution to 60% total costs;
 
 - Provincial Education Authorities: contribution to 30% of total costs;
+
+- Parents and community: contribution to 10% of total costs.
 
 Additional income is also generated through school fees, and fundraising activities.
 
@@ -1882,16 +1954,16 @@ Finally, a need was recognised for a coherent development plan to be designed fo
 
 Table  12  summarises  the  population  projections  for  the  13-15  age  cohort  in  the Solomon Islands from 2007 to 2010. The data in Scenario 1 is derived from the 1999 census population projections. No enrolment projections based on the recent SIEMIS 2005 enrolment data are available. The enrolment projections based on 2004 data are available, but since they are based on outdated information, they are flawed and have not  been  considered  here.  The  data  in  Scenario  2  is  derived  from  the  actual  2005 junior  secondary  school  enrolment  figure  (17,  215),  increased  by  a  straight  line increase of 2.8% a year.
 
+Table 12: Growth Potential for Solomon Islands Junior Secondary Schools, 2007 to 2010
+
 Year | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | ---
-Population projections, 13- 15 age group (Scenario 1) | 32,176 | 33,773 | 34,977 | 56,964
-Enrolment projections, 13- 15 age group (Scenario 2) | 18,298 | 18,810 | 19,337 | 19,878
-
-Table 12: Growth Potential for Solomon Islands Junior Secondary Schools, 2007 to 2010
+Population projections, 13-15 age group (Scenario 1) | 32,176 | 33,773 | 34,977 | 56,964
+Enrolment projections, 13-15 age group (Scenario 2) | 18,298 | 18,810 | 19,337 | 19,878
 
 Source: Scenario 1: 1999 Census Provincial Population Projections
 
-The enrolment increase could potentially be greater than indicated by the numbers in Scenario  2  if  the  Government  makes  a  decision  to  phase  out  the  Solomon  Islands Secondary Entrance Examination, as suggested in the Education Strategic Plan 20042006 .  If  all  Solomon Islands students in the 13-15 age group were to be enrolled in junior secondary schools, the gap between the numbers in Scenario 1 and the numbers in Scenario 2 would need to be bridged.
+The enrolment increase could potentially be greater than indicated by the numbers in Scenario  2  if  the  Government  makes  a  decision  to  phase  out  the  Solomon  Islands Secondary Entrance Examination, as suggested in the Education Strategic Plan 2004-2006. If all Solomon Islands students in the 13-15 age group were to be enrolled in junior secondary schools, the gap between the numbers in Scenario 1 and the numbers in Scenario 2 would need to be bridged.
 
 The Ministry of Education has therefore developed a series of provincial projections for  junior  secondary  schools,  based  on  actual  current  enrolments  for  the  relevant cohorts  already  in  the  system  in  the  country's  primary  schools.  These  forecasts  are likely  to  be  considerably  more  accurate  than  the  enrolment  projections  based  on census  data  (Scenario  1),  or  enrolment  projections  based  on  past  performance increased by a percentage population increase factor (Scenario 2). Table 13 sets out the anticipated numbers in form 1 classes for the Solomon Islands junior secondary schools from 2007 to 2010.
 
@@ -1903,43 +1975,43 @@ The Ministry of Education has therefore developed a series of provincial project
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+Table 13: Form 1 Projections, Solomon Islands, By Province, 2007-2010
+
 Year | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Province | M | F | Tot | M | F | Tot | M | F | Tot | M | F | Tot
 Central | 362 | 287 | 649 | 344 | 316 | 660 | 407 | 416 | 823 | 478 | 418 | 896
 Choiseul | 295 | 293 | 588 | 373 | 374 | 747 | 396 | 363 | 759 | 407 | 338 | 745
-Guadalca nal | 120 7 | 104 3 | 2250 | 127 9 | 116 9 | 2448 | 137 9 | 131 6 | 2695 | 163 3 | 147 4 | 3107
+Guadalcanal | 1207 | 1043 | 2250 | 1279 | 1169 | 2448 | 1379 | 1316 | 2695 | 1633 | 1474 | 3107
 Honiara | 664 | 588 | 1252 | 648 | 626 | 1274 | 733 | 674 | 1407 | 777 | 679 | 1456
 Isabel | 272 | 259 | 531 | 341 | 331 | 672 | 312 | 279 | 591 | 436 | 375 | 811
 Makira & Ulawa | 500 | 382 | 882 | 585 | 508 | 1093 | 573 | 527 | 1100 | 686 | 598 | 1284
-Malaita | 187 3 | 151 5 | 3388 | 199 9 | 170 9 | 3708 | 227 1 | 184 6 | 4117 | 266 0 | 231 2 | 4972
+Malaita | 1873 | 1515 | 3388 | 1999 | 1709 | 3708 | 2271 | 1846 | 4117 | 2660 | 2312 | 4972
 Rennell & Bellona | 55 | 45 | 100 | 57 | 52 | 109 | 64 | 63 | 127 | 47 | 61 | 108
 Temotu | 356 | 275 | 631 | 365 | 287 | 652 | 363 | 414 | 777 | 436 | 385 | 821
-Western | 102 9 | 921 | 1950 | 103 1 | 936 | 1967 | 110 2 | 106 6 | 2168 | 122 6 | 110 9 | 2335
-Total | 661 3 | 560 8 | 1222 1 | 702 2 | 630 8 | 1333 0 | 760 0 | 696 4 | 1456 4 | 878 6 | 774 9 | 1653 5
-
-Table 13: Form 1 Projections, Solomon Islands, By Province, 2007-2010
+Western | 1029 | 921 | 1950 | 1031 | 936 | 1967 | 1102 | 1066 | 2168 | 1226 | 1109 | 2335
+Total | 6613 | 5608 | 12221 | 7022 | 6308 | 13330 | 7600 | 6964 | 14564 | 8786 | 7749 | 16535
 
 Source: Ministry of Education and Human Resource Development,
 
-Junior Secondary Projections: Form 1 Classes Required 2006 to 2010 .
+Junior Secondary Projections: Form 1 Classes Required 2006 to 2010.
 
 M=males; F=females, Tot= Total.
 
 The  indication  in  Table  13  is  that  if  all  students  currently  enrolled  in  the  relevant primary class level cohorts progressed into junior secondary schools, by 2009 there would  potentially  be  a  total  enrolment  of  40,115  students  in  the  province's  junior secondary schools. This number has been calculated as set out in Table 14:
+
+Table 14: Junior Secondary School 100% Progression, Solomon Islands Students, to 2009
 
 Identified Class | Level in 2009 | Nrs Enrolled (100%)
 --- | --- | ---
 Form 1 2009 (Table 13) | Form 1 2009 | 14,564
 Form 1 2008 (Table 15) | Form 2 2009 | 13,330
 Form 1 2007 (Table 15) | Form 3 2009 | 12,221
-Total | 40,115
-
-Table 14: Junior Secondary School 100%  Progression, Solomon Islands Students, to 2009
+Total | | 40,115
 
 With 100% progression, this number of enrolments would increase to 44,429 in junior secondary  schools  in  the  year  2010.  By  comparison,  there  were 17,215  students enrolled in the Solomon Islands junior secondary schools in 2005.
 
-The Government's objective is to achieve universal basic education (that is, education for all junior secondary students) by 2015. The consequence of pursuing this policy is that, if all students currently in the relevant levels coming through the primary schools were  to  be  enrolled  in  a  junior  secondary  school,  the  number  of  places  needed  in junior secondary schools in 2009 (40,115) would need to be approximately two and a third times the number of forms 1-3 places available in 2005 in the Solomon Islands junior secondary school system (17,215).
+The Government's objective is to achieve universal basic education (that is, education for all junior secondary students) by 2015. The consequence of pursuing this policy is that, if all students currently in the relevant levels coming through the primary schools were to be enrolled in a junior secondary school, the number of places needed in
 
 58
 
@@ -1949,11 +2021,13 @@ The Government's objective is to achieve universal basic education (that is, edu
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+junior secondary schools in 2009 (40,115) would need to be approximately two and a third times the number of forms 1-3 places available in 2005 in the Solomon Islands junior secondary school system (17,215).
+
 There  is  an  urgent  need  to  develop  detailed  plans  to  provide  as  many  additional teachers  and  facilities  as  possible.  Based  on  a  teacher:  pupil  ratio  of  1:30,  it  is estimated  that,  say,  doubling  present  capacity  by  2009  to  34,430  students  would require  1148  teachers  and  1148  classrooms  in  total  to  cope  with  the  anticipated student numbers. On the basis of a current junior secondary enrolment of 17,215 it is assumed  that  there  may  be  approximately  574  teachers  currently  available  in  the education system (using a teacher pupil ratio of 1:30), and possibly about the same number (574) of classrooms available. Potentially therefore another 574 teachers and 574 classrooms are needed by 2009, and possibly more by 2015. The Solomon Islands therefore has to assess the maximum number of additional teachers it can train in the time  available,  and  the  number  of  additional  classrooms  (or  new  junior  secondary schools) that can be constructed.
 
 Realistically, it is not likely to be possible to double present capacity in the time frame of  three  years,  given  the  existing  constraints  of  the  SICHE  (which  will  restrict  the numbers of teachers who  can be trained) and the resource constraints that communities would face in constructing new classrooms. However, some expansion will be possible. Expansion will be necessary in the planning period 2007 to 2009 to achieve the goal of universal basic education by 2015. The Solomon Islands needs to begin planning immediately to ensure it has both the necessary facilities and sufficient teachers  by  2015,  or,  alternatively,  modify  its  objectives  with  respect  to  universal basic education.
 
-In order to have universal access to basic education up to form 3, it is anticipated that most community high schools, and all the provincial and national secondary schools in the provinces, might need to accommodate double streams by 2009/2010. The plan to  make  double  streams  available  in  140  junior  secondary  schools  will  provide additional places initially in form 1 (theoretically 30 places in each of the schools). These form 1 students would then move on into forms 2 and 3 in subsequent years (the  'pipeline'),  thus  increasing  the  need  for  additional  facilities  and  additional trained teachers. The actual form 1 enrolment in 2005 was 6,522, and by 2007 it is projected that form 1 enrolments could increase on that figure (potentially to 12,221 see Table 13). If an additional stream was to be established in all the existing junior secondary  schools  by  2009,  it  is  estimated  there  would  be  4,200  additional  places available  (140  x  30),  or  approximately  one  third  of  the  spaces  available  that  are needed.  Achieving  the  objective  of  catering  for  a  significantly  increased  intake  in 2007, however, will probably not be possible, as neither the trained teachers nor the spaces are currently available.
+In order to have universal access to basic education up to form 3, it is anticipated that most community high schools, and all the provincial and national secondary schools in the provinces, might need to accommodate double streams by 2009/2010. The plan to  make  double  streams  available  in  140  junior  secondary  schools  will  provide additional places initially in form 1 (theoretically 30 places in each of the schools). These form 1 students would then move on into forms 2 and 3 in subsequent years (the “pipeline”), thus increasing the need for additional facilities and additional trained teachers. The actual form 1 enrolment in 2005 was 6,522, and by 2007 it is projected that form 1 enrolments could increase on that figure (potentially to 12,221 – see Table 13). If an additional stream was to be established in all the existing junior secondary  schools  by  2009,  it  is  estimated  there  would  be  4,200  additional  places available  (140  x  30),  or  approximately  one  third  of  the  spaces  available  that  are needed.  Achieving  the  objective  of  catering  for  a  significantly  increased  intake  in 2007, however, will probably not be possible, as neither the trained teachers nor the spaces are currently available.
 
 The  Solomon  Islands  needs  to  formulate  a  detailed  plan  to  cater  for  potentially explosive growth in junior secondary schools over the planning period 2007 to 2009. It is suggested that the country plans a phased expansion programme. It may not be possible to double junior secondary  enrolments  in the planning period of three years, but  the  country  will  need  to  aim  at  achieving  this  objective  if  it  wishes  to  achieve universal basic education up to form 3 by the end of 2015.
 
@@ -2041,9 +2115,9 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - teachers will participate in the writing of modules for practical subjects;
 
-- ensure that learning materials are  produced by the Curriculum Development Centre  to ensure availability and easy access, and that  SICHE and CDC put procedures in place to let teachers know about curriculum materials that are sent to schools;
-
 - tools will be provided for practical subjects (based on the TVET policy);
+
+- ensure that learning materials are produced by the Curriculum Development Centre to ensure availability and easy access, and that SICHE and CDC put procedures in place to let teachers know about curriculum materials that are sent to schools;
 
 - curriculum  resources  will  be  delivered  directly  to  schools,  and    not  through education authorities;
 
@@ -2191,9 +2265,9 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - junior secondary schools should have non-teaching Principals;
 
-- management  training  should  be  provided  for  Principals  of  junior  secondary schools;
-
 - Principals should remain in the position in their schools for at least 3 years;
+
+- management training should be provided for Principals of junior secondary schools;
 
 - it is desirable that junior secondary school Principals should have a qualification in administration and management;
 
@@ -2229,9 +2303,9 @@ Issues  and  constraints  affecting  senior  secondary  education  in  the  Solo
 
 - some gender imbalance in enrolments, and unequitable access for girls;
 
-- a lack of curriculum resources and equipment;
-
 - very poor facilities, both academic and boarding;
+
+- a lack of curriculum resources and equipment;
 
 - a shortage of qualified trained teachers; and
 
@@ -2241,7 +2315,7 @@ Issues  and  constraints  affecting  senior  secondary  education  in  the  Solo
 
 Access  to  senior  secondary  education  is  restricted  by  space  and  by  a  shortage  of trained teachers, as well as resources. Alongside efforts to improve access at junior secondary levels, access to senior secondary education also needs to improve.
 
-A proposal that junior secondary forms be phased out from the provincial secondary schools  and  national  secondary  schools,  if  adopted,  would  enable  access  to  senior secondary education to improve. The proposal is that all provincial secondary schools and national secondary schools in the Solomon Islands would be converted into senior secondary  schools  to  accommodate  only  students  in  forms  4  to  7  inclusive.  The current  community  high  schools  in  the  province  would  accommodate  all  junior secondary  forms  (forms  1-3).  Transition  into  senior  secondary  classes  would  be controlled. However, since it is a higher priority to ensure that continuing access is available for all students in forms 1, 2 and 3, it is desirable to defer implementation of this  policy.  The  provincial  and  national  secondary  schools  will  need  to  continue  to enrol students in forms 1, 2 and 3 to help ensure that all students in the country at these levels gain access to secondary schooling. It is likely to be some years before the  Solomon  Islands  is  in  a  position  to  implement  a    policy  to  close  off  access  to forms 1, 2 and 3 in the way proposed at  provincial secondary schools and national secondary schools.
+A proposal that junior secondary forms be phased out from the provincial secondary schools  and  national  secondary  schools,  if  adopted,  would  enable  access  to  senior secondary education to improve. The proposal is that all provincial secondary schools and national secondary schools in the Solomon Islands would be converted into senior secondary  schools  to  accommodate  only  students  in  forms  4  to  7  inclusive.  The current  community  high  schools  in  the  province  would  accommodate  all  junior secondary  forms  (forms  1-3).  Transition  into  senior  secondary  classes  would  be controlled. However, since it is a higher priority to ensure that continuing access is
 
 67
 
@@ -2251,7 +2325,11 @@ A proposal that junior secondary forms be phased out from the provincial seconda
 
 Solomon Islands National Education Action Plan, 2007-2009
 
-Table  15  sets  out  details  of  senior  secondary  school  enrolments  by  gender  for  the 2005 year.
+available for all students in forms 1, 2 and 3, it is desirable to defer implementation of this policy. The provincial and national secondary schools will need to continue to enrol students in forms 1, 2 and 3 to help ensure that all students in the country at these levels gain access to secondary schooling. It is likely to be some years before the Solomon Islands is in a position to implement a policy to close off access to forms 1, 2 and 3 in the way proposed at provincial secondary schools and national secondary schools.
+
+Table 15 sets out details of senior secondary school enrolments by gender for the 2005 year.
+
+Table 15: Senior Secondary School Enrolments by Gender, 2005
 
 Year Level | Male | Female | Total
 --- | --- | --- | ---
@@ -2260,8 +2338,6 @@ Form 5 | 1823 | 1206 | 3029
 Form 6 | 563 | 318 | 881
 Form 7 | 135 | 54 | 189
 Total | 4701 | 3101 | 7802
-
-Table 15: Senior Secondary School Enrolments by Gender, 2005
 
 Source: Digest of Education Statistics, 2005
 
@@ -2305,7 +2381,7 @@ The  variety  of  curricula  offered  at  the  senior  level  (for  example,  th
 
 There is no definitive data available about how many teachers could be regarded as predominantly  senior  secondary  teachers.    In  2005  there  were  239  teachers  in provincial  secondary  schools  and  195  teachers  in  national  secondary  schools,  but these  teachers  may  teach  junior  secondary  students  as  well  as  senior  secondary students. While most secondary teachers at community high schools teach at forms 1, 2 and 3 levels, there are an increasing number of students enrolling in forms 4 and 5 in these schools. Some teachers at community high schools are also therefore teaching some classes at senior secondary school levels.
 
-What is known from professional assessments is that there is a shortage of adequately trained teachers at the senior secondary levels in the Solomon Islands. The Digest of Education Statistics 200 5 reported that 20.5% of secondary teachers were categorised as unqualified (see Table 10). It is not known what proportion of those unqualified secondary teachers would be categorised as senior secondary teachers. While SICHE can  produce  teachers  for  junior  secondary  schools,  that  institution  does  not  deliver graduates with degree qualifications. It is expensive to produce teachers with degree qualifications because they have to be trained overseas or through degree programmes offered by the University of the South Pacific.
+What is known from professional assessments is that there is a shortage of adequately trained teachers at the senior secondary levels in the Solomon Islands. The Digest of Education Statistics 2005 reported that 20.5% of secondary teachers were categorised as unqualified (see Table 10). It is not known what proportion of those unqualified secondary teachers would be categorised as senior secondary teachers. While SICHE can  produce  teachers  for  junior  secondary  schools,  that  institution  does  not  deliver graduates with degree qualifications. It is expensive to produce teachers with degree qualifications because they have to be trained overseas or through degree programmes offered by the University of the South Pacific.
 
 69
 
@@ -2341,9 +2417,9 @@ Good management contributes to quality education. Senior secondary schools in th
 
 - senior secondary schools should have non-teaching Principals;
 
-- the post of Principal, as well as all other teaching vacancies, should  be advertised and candidates should be interviewed before being appointed;
+- the Principal should remain in a school for at least 3 years;
 
-- the Principal should  remain in a school for at least 3 years;
+- the post of Principal, as well as all other teaching vacancies, should be advertised and candidates should be interviewed before being appointed;
 
 70
 
@@ -2355,7 +2431,7 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - Principals should be trained teachers and should have had management training; and
 
-- negotiations should be initiated with banks or with local commercial firms to reestablish bank agencies or suitable teacher payroll payment arrangements close to schools.
+- negotiations should be initiated with banks or with local commercial firms to re-establish bank agencies or suitable teacher payroll payment arrangements close to schools.
 
 ### 10.2 Future Directions
 
@@ -2367,12 +2443,12 @@ The issues for secondary education raised by the National Workshop held in Honia
 
 Table  16  sets  out  two  scenarios  for  growth  in  senior  secondary  schooling  in  the Solomon Islands.  Scenario 1 is the population projection for the 16-18 age group in the Solomon Islands, based on the 1999 census. (The 19-year-old age group has been omitted). This scenario sets out the potential population which could be enrolled in forms 4, 5 and 6 if 100% of the relevant school age cohort was enrolled. Achieving enrolments at this level will be a long term goal. Scenario 2 is a straight line increase of  the  actual  2005  enrolments, increased by 2.8% a year. Scenario 2 is likely to be closer to the actual enrolments achieved, unless significant interventions are undertaken to increase access, such as an increased number of trained teachers, and extension and improvement to school facilities.
 
+Table 16: Growth Projections, Solomon Islands Senior Secondary Schools, 2007 to 2010
+
 Year | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | ---
 Population Projections, age 16-18 (Scenario 1) | 31358 | 32076 | 31793 | 32050
 Projected enrolments (Scenario 2) | 8245 | 8475 | 8713 | 8957
-
-Table 16: Growth Projections, Solomon Islands Senior Secondary Schools, 2007 to 2010
 
 Source: Scenario 1 1999 Census Provincial Population Projections
 
@@ -2442,9 +2518,9 @@ In order to address issues in the senior secondary curriculum, the following str
 
 - subject specialisation will start in form 4;
 
-- production of curriculum materials and equipment to schools will be improved to achieve an improved  pupil: textbook ratio; and
-
 - in-service training will be provided on new curriculum materials produced;
+
+- production of curriculum materials and equipment to schools will be improved to achieve an improved pupil: textbook ratio; and
 
 - the Curriculum Development Centre will be properly resourced so that schools have access to quality learning materials produced.
 
@@ -2558,15 +2634,15 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - appointment of Principals;
 
-- posting of teachers;
-
 - advertising of vacancies;
+
+- posting of teachers;
 
 - recruitment of teachers;
 
-- general administration of the province's education system.
-
 - discipline of teachers; and
+
+- general administration of the province's education system.
 
 76
 
@@ -2586,7 +2662,7 @@ The Solomon Islands Centre of the University of the South Pacific (USP) provides
 
 The  Solomon  Islands  College  of  Higher  Education  (SICHE)  is  a  statutory  body established by an Act of Parliament, and is the main state supported tertiary institution in the Solomon Islands. It was established under the College of Higher Education Act 1984  by  amalgamating  the  Solomon  Islands  Teachers  College,  Honiara  Technical Institute  and  the  Solomon  Islands  School  of  Nursing.  It  has  expanded  considerably since, with facilities, equipment and resources provided under donor projects funded by  development  agencies  such  as  the  World  Bank,  AusAID,  NZAID,  the  United Kingdom  Department  for  International  Development  (DFID)  and  the  European Union. As the largest tertiary institution in the Solomon Islands, SICHE has a key role to play in the economic and social development of the country.
 
-SICHE offers courses in both academic and technical and vocational areas, leading to formal awards from certificate to advanced diploma levels. The broad areas of study include teacher education, nursing and health education, finance and administration/secretarial  skills,  natural  resources  including  agriculture  and  forestry, basic trades and marine engineering, and courses that develop skills for the maritime and fisheries industries.
+SICHE offers courses in both academic and technical and vocational areas, leading to formal awards from certificate to advanced diploma levels. The broad areas of study
 
 77
 
@@ -2596,7 +2672,9 @@ SICHE offers courses in both academic and technical and vocational areas, leadin
 
 Solomon Islands National Education Action Plan, 2007-2009
 
-The Solomon Islands relies on overseas universities and colleges to meet its degreequalified human resources needs. Most of the Solomon Islanders studying for a degree enrol with the University of the South Pacific, or attend universities and colleges in Papua  New  Guinea.    A  significant  number  also  attend  universities  and  colleges  in Australia and New Zealand.
+include teacher education, nursing and health education, finance and administration/secretarial skills, natural resources including agriculture and forestry, basic trades and marine engineering, and courses that develop skills for the maritime and fisheries industries.
+
+The Solomon Islands relies on overseas universities and colleges to meet its degree-qualified human resources needs. Most of the Solomon Islanders studying for a degree enrol with the University of the South Pacific, or attend universities and colleges in Papua New Guinea. A significant number also attend universities and colleges in Australia and New Zealand.
 
 In  2006,  over  800  students  were  studying  in  universities  and  colleges  abroad, supported  by  the  Solomon  Islands  Government  as  well  as  foreign  governments through  Third  Country  Scholarship  Awards.  The  average  annual  cost  of  each scholarship is well in excess of SBD52,  000. Overseas scholarship training opportunities  (opportunity  lists)  are  determined  by  the  availability  of  scholarships rather  than  by  any  predetermined  needs  of  the  economy  of  the  country  and  this  is being addressed by the Ministry OF Education and Human Resources Development (MEHRD).
 
@@ -2616,9 +2694,11 @@ SICHE enrolments by gender, school and year of study for 2005 are set out in Tab
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+Table 17: SICHE Enrolments by Gender, School and Year of Study, 2005
+
 School | Year 1 | Year 2 | Year 3 | Year 4 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-F | M | F | M | F | M | F | M | F | M
+ | F | M | F | M | F | M | F | M | F | M
 Education | 238 | 248 | 94 | 105 | 33 | 53 | 0 | 0 | 365 | 406
 Finance and Administration | 168 | 146 | 83 | 99 | 0 | 0 | 0 | 0 | 251 | 245
 Industrial Development | 1 | 89 | 7 | 47 | 0 | 19 | 1 | 24 | 9 | 179
@@ -2627,8 +2707,6 @@ Nursing and Health Studies | 71 | 14 | 41 | 17 | 0 | 0 | 0 | 0 | 112 | 31
 Natural Resources | 28 | 36 | 19 | 35 | 0 | 0 | 0 | 0 | 47 | 71
 Totals by Gender | 506 | 573 | 244 | 303 | 33 | 72 | 1 | 24 | 784 | 972
 Grand Total | 1079 | 547 | 105 | 25 | 1756
-
-Table 17: SICHE Enrolments by Gender, School and Year of Study, 2005
 
 Generally the 'flagship' courses at SICHE are of two years full-time duration, such as the business studies diploma and the business studies certificate, the nursing diploma, and the certificates in forestry and tropical agriculture.  The teacher training diploma courses are three years full-time in length, while teaching certificate courses are two years in length and the Advanced Standing Courses for degree graduates who wish to enter the teaching profession are one year in length. Other shorter courses are offered.
 
@@ -2648,6 +2726,8 @@ Enrolments at SICHE by province of origin and by school in 2005 are set out in T
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+Table 18: SICHE Enrolments by Province of Origin and by School, 2005
+
 Province | Education | Finance | Indust Devpt | Marine Res'ces | Nursing | Natural Res'ces | Totals
 --- | --- | --- | --- | --- | --- | --- | ---
 Blank | 26 | 8 | 0 | 0 | 0 | 0 | 34
@@ -2664,8 +2744,6 @@ Vanuatu | 0 | 0 | 1 | 0 | 0 | 0 | 1
 Western | 77 | 99 | 28 | 3 | 19 | 25 | 251
 Fiji | 0 | 0 | 0 | 1 | 0 | 0 | 1
 Total | 771 | 496 | 188 | 40 | 143 | 118 | 1756
-
-Table 18: SICHE Enrolments by Province of Origin and by School, 2005
 
 #### 11.1.2 Facilities
 
@@ -2691,13 +2769,13 @@ Part and parcel of the ongoing restructuring programme, has been the reviews of 
 
 There has generally been at times, severe lecturer shortages in the technical/professional areas of teaching as Accounting and Marine engineering. But this reflects the national trend of shortage of trained manpower in these areas, rather than any peculiarity only to SICHE. Present reviews will lead to the establishment of a  staff  work-load  model  for  determining  SICHE  staffing.  Once  this  is  established, staffing at SICHE would be better controlled with improved accountability.
 
-It  is  SICHE  policy  to  employ  only  qualified  staff.  It  does  this  either  through  the development of its own staff or recruitment of qualified people. Demand for qualified staff  varied from School to School and is reflective of the fact that SICHE is a multifaced, academic/practical split Institution. Just as the School of Education, the most academically  regarded  School  of  SICHE,  boasts  some  of  the  most  highly  qualified academic  staff  within  SICHE,  so  is  the  School  of  Industrial  Development  boasting some of the most highly qualified practical staff of the College, in the areas of Basic Trades. The number of staff with Masters Degrees has increased substantively across the  College,  with  the  first  PhD  graduated  staff,  already  serving  at  the  School  of Education.
+It is SICHE policy to employ only qualified staff. It does this either through the development of its own staff or recruitment of qualified people. Demand for qualified staff varied from School to School and is reflective of the fact that SICHE is a multi-faced, academic/practical split Institution. Just as the School of Education, the most academically regarded School of SICHE, boasts some of the most highly qualified academic staff within SICHE, so is the School of Industrial Development boasting some of the most highly qualified practical staff of the College, in the areas of Basic Trades. The number of staff with Masters Degrees has increased substantively across the College, with the first PhD graduated staff, already serving at the School of Education.
 
 The  review  of  the  School  of  Education  in  2005 23 noted  that  a  key  strength  of  the School of Education was the academic qualifications of its staff.  Some 87% of the SoE  staff  hold  a  Bachelors  degree  or  higher  from  a  recognised  international university; 21% hold a Masters degree or Doctorate, making it a very well qualified school.
 
 #### 11.1.5 Financing
 
-Annually,  SICHE  is  financed  jointly  by  the  Solomon  Islands  Government,  donor funding from foreign Governments, and fees from students and sponsors. The level of revenues  from  these  sources  in  2006  was,  Solomon  Islands  Government  SI$11.5 million; NZAid SI$13.07 million; and Fees SI$5.9 million. Funds from the Solomon Islands Government are a form of grant, and is in addition to the fees and allowances it pays for students it sponors each year. The SICHE has the potential to increase its revenues from fees and income generation activities. SICHE fees are in the categories for tuition, boarding and, meals.
+Annually, SICHE is financed jointly by the Solomon Islands Government, donor funding from foreign Governments, and fees from students and sponsors. The level of revenues from these sources in 2006 was, Solomon Islands Government SI$11.5 million; NZAid SI$13.07 million; and Fees SI$5.9 million. Funds from the Solomon Islands Government are a form of grant, and is in addition to the fees and allowances
 
 > 23 Lester Taylor and Bob Pollard, School of Education: Review  Report  and Development Plan, March 2005
 
@@ -2709,6 +2787,8 @@ Annually,  SICHE  is  financed  jointly  by  the  Solomon  Islands  Government, 
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+it pays for students it sponors each year. The SICHE has the potential to increase its revenues from fees and income generation activities. SICHE fees are in the categories for tuition, boarding and, meals.
+
 The improvement and strengthening of SICHE's financial management and control systems, are major areas of focus under the ongoing restructuring and reorganization of the Corporate Services of the College. These systems collapsed to a certain extent in  the  height  of  the  '99/'2000,  ethnic  tensions.  New  and  better  systems  have  been established and management is quickly getting used to these through application and a series of in-house  staff development  and  training  activities. Already,  there is significant improvement in the management and control of finances as transparency and  need  for  efficient  use  of  scarce  finances  and  resources  are  increasingly  valued college  wide.  All  of  these  achievements  are  possible  through  the  input  of  an international Technical Adviser through European Union assistance. It won't be long before regular Financial Statements are produced and audited.
 
 #### 11.1.6 Management
@@ -2717,7 +2797,7 @@ SICHE is governed, managed, and administered according to the Act of Parliament 
 
 ### 11.2 Future Directions
 
-Tertiary education is an important sub sector in the national education system, just as the Early Childhood, Primary, and Secondary education sub sectors are. As such, it must  also  be  featured  prominently  in  the  national  education  system  structure.  A national set of policies to guide expansion/investment, provision, equity, and access, is  needed.  These  should  at  least  pose  the  question  of  how  long  can  the  country continue to afford the present scheme of things. Strategies to implement the policies should  then  be  drawn  up.  Should  the  country  start  investing  in  creating  more opportunities at home rather than relying on the expensive scholarships abroad? The basis  for  addressing  the  issues  of  provision,  access  and  equity,  need  to  be  clearly researched  and  established.  Considerations  must  be  given  to  making  government investments in this sub sector proportionate to the needs of the other sub sectors. The principle that education provided in-country is generally cheaper than that provided abroad is worth considering. The ongoing structural reform of SICHE will hopefully lead  to  the  rationalization  of    programs  of  TVET  nature  between  SICHE  and  other tertiary providers. Guidelines towards this are already in the national TVET policies to be adapted by the Government.
+Tertiary education is an important sub sector in the national education system, just as the Early Childhood, Primary, and Secondary education sub sectors are. As such, it must also be featured prominently in the national education system structure. A national set of policies to guide expansion/investment, provision, equity, and access, is needed. These should at least pose the question of how long can the country continue to afford the present scheme of things. Strategies to implement the policies should then be drawn up. Should the country start investing in creating more opportunities at home rather than relying on the expensive scholarships abroad? The basis for addressing the issues of provision, access and equity, need to be clearly researched and established. Considerations must be given to making government
 
 82
 
@@ -2727,7 +2807,9 @@ Tertiary education is an important sub sector in the national education system, 
 
 Solomon Islands National Education Action Plan, 2007-2009
 
-The principle of rationalization is also to be observed in the relationship between USP and  SICHE  with  regards  to  the  plans  for  establishment  of  the  USP  Campus  in Honiara.  This  is  to  avoid  duplication,  and  competition,  but  instead  encourages  the ongoing  co-operation  and  complementary  approaches  to  meeting  the  country's manpower needs. USP Campus and other tertiary providers co-existing with SICHE in  this  manner  could  lead  to  the  efficient  provision  of  tertiary  education  within  the Solomon Islands in the short and longer term. The 2004 feasibility differs from the Irvine-report  (1999)  in  when  to  develop  close  ties  between  USP  and  SICHE.  The former  recommends  development  of  USP  firstly  as  SICHE  is  yet  to  change  into  a more  conducive  learning  environment,  the  latter  recommends  close  ties  from  the beginning.  There  are  clear  benefits  however  to  develop  a  Solomon  Islands-USPcampus.  Fewer  students  have  to  leave  the  country,  lower  costs  therefore  to  be expected in the longer term, the opportunity of adapting the courses to the needs in Solomon Islands, increased local research opportunities. But on the other hand there is also need for caution: to establish a small-sized campus that is yet financially viable, the  limited  ability  of  students  to  pay  for  courses  and  the  limited  ability  of  the government  to  fund  this  sub-sector  within  its  sector  wide  approach  which  needs attention for all sub-sectors, in particular basic education. Furthermore encouraging of face-to-face-teaching  requires  facilities,  student  accommodation  at  low  rates  of  rent and  more  staffing.  In  other  words,  USP-campus  development  needs  an  increased contribution from SI, in particular during the initial phases of new construction.
+investments in this sub sector proportionate to the needs of the other sub sectors. The principle that education provided in-country is generally cheaper than that provided abroad is worth considering. The ongoing structural reform of SICHE will hopefully lead to the rationalization of programs of TVET nature between SICHE and other tertiary providers. Guidelines towards this are already in the national TVET policies to be adapted by the Government.
+
+The principle of rationalization is also to be observed in the relationship between USP and SICHE with regards to the plans for establishment of the USP Campus in Honiara. This is to avoid duplication, and competition, but instead encourages the ongoing co-operation and complementary approaches to meeting the country's manpower needs. USP Campus and other tertiary providers co-existing with SICHE in this manner could lead to the efficient provision of tertiary education within the Solomon Islands in the short and longer term. The 2004 feasibility differs from the Irvine-report (1999) in when to develop close ties between USP and SICHE. The former recommends development of USP firstly as SICHE is yet to change into a more conducive learning environment, the latter recommends close ties from the beginning. There are clear benefits however to develop a Solomon Islands-USP-campus. Fewer students have to leave the country, lower costs therefore to be expected in the longer term, the opportunity of adapting the courses to the needs in Solomon Islands, increased local research opportunities. But on the other hand there is also need for caution: to establish a small-sized campus that is yet financially viable, the limited ability of students to pay for courses and the limited ability of the government to fund this sub-sector within its sector wide approach which needs attention for all sub-sectors, in particular basic education. Furthermore encouraging of face-to-face-teaching requires facilities, student accommodation at low rates of rent and more staffing. In other words, USP-campus development needs an increased contribution from SI, in particular during the initial phases of new construction.
 
 The  World  Bank/NZAID  study  to  assist  in  the  development  of  a  National  Skills Training  Plan  will  be  important  for  the  future  direction  of  tertiary  education  in  the Solomon Islands. The report of this study is expected to be available in the beginning of 2007. This proposed plan is intended to provide a basis for the Government to plan for its future investment in the skills training and education of the nation's work force. The  intention  is  that  this  plan  will  be  linked  to  the  future  skilled  manpower  needs (both formal and informal) of the economy.
 
@@ -2787,15 +2869,15 @@ There are major constraints and issues in the TVET area. These include:
 
 - Limited spaces available at TVET centres.
 
-- Lack of curriculum materials and syllabus.
-
 - Limitations on the range, diversity and quality of courses offered.
+
+- Lack of curriculum materials and syllabus.
 
 - A shortage of training TVET-instructors; and
 
-- General disconnection with labour demand in formal and non-formal sectors
-
 - Non-availability of resources, equipment, tools and proper facilities.
+
+- General disconnection with labour demand in formal and non-formal sectors
 
 Table 19 sets out detail of numbers of TVET teaching staff, numbers of TVET centres and enrolments by province. The data for the number of centres and enrolments was supplied by SIARTC.
 
@@ -2809,9 +2891,11 @@ Table 19 sets out detail of numbers of TVET teaching staff, numbers of TVET cent
 
 Solomon Islands National Education Action Plan, 2007-2009
 
+Table 19: Total TVET Teaching staff, TVET Centres and Enrolments by Province, 2006
+
 Province | Teaching staff | No. of centres | Enrolment
 --- | --- | --- | --- | ---
-Male | Female
+ |  |  | Male | Female
 Central | - | - | 0 | 0
 Choiseul | 6 | 1 | 30 | 15
 Guadalcanal | 62 | 8 | 445 | 149
@@ -2823,8 +2907,6 @@ Rennell & bellona | 6 | 1 | 18 | 8
 Temotu | 6 | 1 | 50 | 12
 Western | 55 | 5 | 477 | 146
 Total | 240 | 30 | 1747 | 669
-
-Table  19:  Total  TVET  Teaching  staff,  TVET  Centres  and  Enrolments  by Province, 2006
 
 #### 12.1.1. Access and equity
 
@@ -2844,7 +2926,7 @@ The table above indicates enrolment by provinces and where the RTCs are located,
 
 There are few opportunities for the physically disadvantaged to access TVET. Both gender equity and equity for the disadvantaged will need to be considered.
 
-What  is  also  clear  from  these  figures,  and  from  the  comments  provided  in  the discussions  around  the  provincial  education  action  plans,  is  that  within  the  current provision of TVET in the Solomon Islands there is room for improved development in this  area,  as  the  current  enrolments  meet  only  a  small  proportion  of  the  potential demand  for  technical  and  vocational  education  and  training.  It  is  essential  for  the future development of the country's economy that a range of skilled workers is trained and connected with the demands of the labour market.
+What is also clear from these figures, and from the comments provided in the discussions around the provincial education action plans, is that within the current
 
 86
 
@@ -2853,6 +2935,8 @@ What  is  also  clear  from  these  figures,  and  from  the  comments  provided
 [[START OF PAGE 87]]
 
 Solomon Islands National Education Action Plan, 2007-2009
+
+provision of TVET in the Solomon Islands there is room for improved development in this area, as the current enrolments meet only a small proportion of the potential demand for technical and vocational education and training. It is essential for the future development of the country's economy that a range of skilled workers is trained and connected with the demands of the labour market.
 
 #### 12.1.2. Facilities
 
@@ -2918,9 +3002,9 @@ The National Workshop held in Honiara on 11 and 12 October 2006 made a number of
 
 - The management of TVET in provincial offices needed to be strengthened.
 
-- It  would  be  useful  to  ensure  that  a  source  of  up-to-date  TVET  data  was available,  as  accurate  information  is  essential  for  the  development  of  sound policy. A way of addressing this issue was the proposal to include TVET data in the MEHRD annual Digest of Statistics in future (using SIEMIS).
-
 - The workshop supported the need for formulation of a TVET action plan.
+
+- It would be useful to ensure that a source of up-to-date TVET data was available, as accurate information is essential for the development of sound policy. A way of addressing this issue was the proposal to include TVET data in the MEHRD annual Digest of Statistics in future (using SIEMIS).
 
 - The workshop discussed issues around the age of entry to TVET (should entry to TVET be permitted by school leavers at form 3, by school leavers at form 5, or should entry be restricted only to older age cohorts?)
 
@@ -2974,27 +3058,27 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 The following strategies will be adopted in order to improve or develop facilities for TVET:
 
-- proper equipment and facilities will  be made available to centres;
+- proper equipment and facilities will be made available to centres;
 
 - water supply will be improved and sanitation facilities will be constructed at existing centres;
 
-- specialised classrooms and workshops need to be  constructed;
-
-- consideration will be given to establishing new centres where demand warrants their establishment, with the following basic facilities:
+- specialised classrooms and workshops need to be constructed;
 
 - standardised sports facilities and equipment need to be made available; and
 
-- girls' dormitory;
+- consideration will be given to establishing new centres where demand warrants their establishment, with the following basic facilities:
 
-- dining hall/kitchen;
+- girls' dormitory;
 
 - boys' dormitory;
 
+- dining hall/kitchen;
+
 - woodwork workshop;
 
-- agriculture classrooms and facilities (garden plots, etc);
+- general classrooms for English, maths and business studies;
 
-- general classrooms for  English, maths and business studies;
+- agriculture classrooms and facilities (garden plots, etc);
 
 - life skills (home economics);
 
@@ -3042,7 +3126,7 @@ The following strategies will be carried out in order to meet the demand for tra
 
 Financing is required both for capital development and expansion, and for the ongoing operation  of  TVET  Centres,  including  both  the  salaries  of  tutors  and  the  cost  of regular operations. There  are public benefits from  high  quality technical  and vocational  education  and  training  which  justify  public  investment  in  this  training. There are also personal benefits that accrue to the students, in terms of an ability to generate  a  higher  personal  income,  which  suggest  students  (and  their  parents)  also need to make a contribution.
 
-> 26 One of the managers of the Fiji Institute of Technology, Mr. Viliame Rabici, gave a presentation at the MEHRD (3 rd of April 2007) about the Learning Centre of FIT and the possibilities for franchising courses, doing consultancies etc.
+> 26 One of the managers of the Fiji Institute of Technology, Mr. Viliame Rabici, gave a presentation at the MEHRD (3rd of April 2007) about the Learning Centre of FIT and the possibilities for franchising courses, doing consultancies etc.
 
 92
 
@@ -3132,9 +3216,9 @@ The key roles of the Ministry of Education and Human Resources Development are s
 
 - Calculation, budgeting, payment and accounting of education grants;
 
-- Facilitating the supply of equipment and materials to schools;
-
 - Development of curriculum materials and examinations;
+
+- Facilitating the supply of equipment and materials to schools;
 
 - Collecting, processing, analysing and dissemination of data;
 
@@ -3150,19 +3234,19 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - Liaising and meeting with Education Authorities;
 
-- Recruitment and posting of Provincial Education Officers and School Inspectors;
-
 - Confirmation of appointment, promotion and transfer of teachers;
+
+- Recruitment and posting of Provincial Education Officers and School Inspectors;
 
 - Contribution to and provision of human resources development and teacher training;
 
 - Provision of the Government maintenance portion of the grants to Education Authorities;
 
-- Provision of  school supplies (chalks, exercise books, stationeries, etc);
+- Provision of school supplies (chalks, exercise books, stationeries, etc);
+
+- Provision of grants direct to secondary schools;
 
 - Payment of teachers' salaries on behalf of Education Authorities;
-
-- Provision of  grants direct to secondary schools;
 
 - Approval of school fee levels and school calendars.
 
@@ -3170,21 +3254,21 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - Approval of establishment of new schools;
 
-- Registration and deregistration of schools, authorities and teachers;
-
 - Approval of registration of Education Authorities;
+
+- Registration and deregistration of schools, authorities and teachers;
 
 - Setting of curriculum, assessment and examination Standards;
 
-- Discipline of teachers;
-
 - Inspection and monitoring of schools and education authorities;
+
+- Discipline of teachers;
 
 - Inspection of teachers;
 
-- Approval of curriculum and examinations;
-
 - Closure of schools;
+
+- Approval of curriculum and examinations;
 
 - Prescribing the language of teaching, etc.
 
@@ -3220,37 +3304,37 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 - Provision of annual reports and statements of accounts to MEHRD;
 
-- Recommending of  recruitment, promotion, demotion, retirement, suspension, termination and discipline of teachers,  and reporting to MEHRD;
+- Maintenance of school(s), which are established under its/their jurisdiction;
 
-- Maintenance of school(s), which are  established under its/their jurisdiction;
+- Recommending of recruitment, promotion, demotion, retirement, suspension, termination and discipline of teachers, and reporting to MEHRD;
 
 - Contracting, posting and transfer of teachers;
 
-- Coordinating and facilitating in-service training;
-
 - Approval of teacher travel;
+
+- Coordinating and facilitating in-service training;
 
 - Regular professional visits to schools, and reports;
 
-- Provision of accommodation for teachers;
-
 - Conduct of education awareness programmes;
 
-- Administration of  Board of Appeal for student termination/expulsion;
+- Provision of accommodation for teachers;
 
-- Assist Provincial Inspectors to conduct inspections of teachers;
+- Administration of Board of Appeal for student termination/expulsion;
 
 - Support for Provincial Officers;
 
-- Recommendation of  teachers for further studies (locally and overseas);
+- Assist Provincial Inspectors to conduct inspections of teachers;
 
-- Oversight  of disciplinary policy for teachers, as stipulated in the Teaching Service Handbook;
+- Recommendation of teachers for further studies (locally and overseas);
+
+- Oversight of disciplinary policy for teachers, as stipulated in the Teaching Service Handbook;
 
 - Appointment of Board members;
 
-- Seeking outside support for scholarships, rather than through NTU.
-
 - Establishment of Memoranda of Agreement with landowners; and
+
+- Seeking outside support for scholarships, rather than through NTU.
 
 ### 13.4 Role of School Committees
 
@@ -3258,29 +3342,29 @@ The roles of School Committees are set out below.
 
 - Formulating and establishing school policy;
 
-- Provision of a good clear area for the school, and a large open playing area for the children;
-
 - Responsibility for overall governance of the school;
+
+- Provision of a good clear area for the school, and a large open playing area for the children;
 
 - Contribution to the development of a school development plan and budget which includes planning for improved infrastructure, quality and management,
 
 - Formulate advice to school principals, head masters in all matters which are of importance to the community
 
-- Ensuring that any wishes and concerns of the local community in respect of the teaching staff, students, fees etc. are communicated  to the Education Authority;
+- Ensuring that any wishes and concerns of the local community in respect of the teaching staff, students, fees etc. are communicated to the Education Authority;
 
-- Provision of  sets of guidelines/rules for students; and
-
-- Promotion of a sense of ownership of the school;
+- Provision of sets of guidelines/rules for students; and
 
 - Carrying out awareness programmes for communities and staff;
 
-- Initiation of community support for raising finance to support the school.
+- Promotion of a sense of ownership of the school;
 
-- Formulation and establishment of a school health and safety policy;
+- Initiation of community support for raising finance to support the school.
 
 - Ensuring that all children of the right age are enrolled;
 
-- Supervision of  the health needs of the school children;
+- Formulation and establishment of a school health and safety policy;
+
+- Supervision of the health needs of the school children;
 
 97
 
@@ -3314,9 +3398,9 @@ Parents' roles include:
 
 - encouraging their children to complete their homework;
 
-- discussing school plans;
-
 - talking about school projects and assignments;
+
+- discussing school plans;
 
 - assisting in educating children about cultural/traditional beliefs, practices and values;
 
@@ -3388,7 +3472,7 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 Strategic Goals | Strategies | Outcomes | Objectives
 --- | --- | --- | ---
-3. To manage resources in an efficient, effective and transparent manner. | To strengthen planning, management, co- ordination and monitoring of the SWAp, in particular of NEAP On the basis of a national demand, to ensure longer term interest, technical assistance (including the development of a national TA-pool) and funding from Development Partners for the SWAp, ESIRPII, NEAP and ESF To develop and implement a programme of Human Resource Development and capacity building | The management of the Solomon Islands education system is effective and efficient, including effective education policy development, planning and budgeting, effective management of human and financial resources, a sound system of monitoring and evaluation, and effective development of appropriate skills and competencies in the education work force | To produce a logical framework for the SWAp which creates interlinkages and increased cohesion between ESIRP II, NEAP (2007-2009) and ESF (2007-2015) as well as among the different sub sectors and stakeholders involved To timely produce more outcome oriented and cohesive annual budgeting, planning and reporting based on SIEMIS and a Performance Assessment Framework (PAF) To develop a 3-year, outcome oriented Mid Term Expenditure Framework (MTEF) To develop a strong sector secretariat and sector co-ordination team To develop a PAF and strengthen utilisation of SIEMIS. To strengthen the role of Provincial Government and Authorities in planning, implementing and monitoring NEAP To develop, revise or finalise policies for the different sub sectors or cross cutting areas To revitalise the TWG's for policy, finance and planning, and monitoring and develop new TWG's for any other necessary area To finalise and to sign the Arrangement between Development Partners and SIG and to make amendments as necessary. To start an Institutional and Organisational Analysis (IOA) including a HR-needs analysis to support for the development of a programme for Human Resource Development and capacity
+3. To manage resources in an efficient, effective and transparent manner. | To strengthen planning, management, co-ordination and monitoring of the SWAp, in particular of NEAP On the basis of a national demand, to ensure longer term interest, technical assistance (including the development of a national TA-pool) and funding from Development Partners for the SWAp, ESIRPII, NEAP and ESF To develop and implement a programme of Human Resource Development and capacity building | The management of the Solomon Islands education system is effective and efficient, including effective education policy development, planning and budgeting, effective management of human and financial resources, a sound system of monitoring and evaluation, and effective development of appropriate skills and competencies in the education work force | To produce a logical framework for the SWAp which creates interlinkages and increased cohesion between ESIRP II, NEAP (2007-2009) and ESF (2007-2015) as well as among the different sub sectors and stakeholders involved To timely produce more outcome oriented and cohesive annual budgeting, planning and reporting based on SIEMIS and a Performance Assessment Framework (PAF) To develop a 3-year, outcome oriented Mid Term Expenditure Framework (MTEF) To develop a strong sector secretariat and sector co-ordination team To develop a PAF and strengthen utilisation of SIEMIS. To strengthen the role of Provincial Government and Authorities in planning, implementing and monitoring NEAP To develop, revise or finalise policies for the different sub sectors or cross cutting areas To revitalise the TWG's for policy, finance and planning, and monitoring and develop new TWG's for any other necessary area To finalise and to sign the Arrangement between Development Partners and SIG and to make amendments as necessary. To start an Institutional and Organisational Analysis (IOA) including a HR-needs analysis to support for the development of a programme for Human Resource Development and capacity building
 
 102
 
@@ -3407,8 +3491,8 @@ Solomon Islands National Education Action Plan, 2007-2009
 ##### Outcome 1 (ACCESS and EQUITY): All children in the Solomon Islands regardless of gender, ethnicity, religion, location or disability have access to Basic Education, which is including pre-school, primary, and secondary junior school till Form 3, achieved through an adequate number of schools, classrooms, desks, dormitories and other infrastructure and financial support from government and other stakeholders
 ###### Objective 1.1: Provision of an adequate number of schools, classrooms, desks, dormitories and other infrastructure
 No | Expected Output (per level) | Activity | Time frame | Responsibility
-1. | Survey for all schools | Survey schools to verify actual school roll numbers by main school and extension schools, the state of current school facilities, and forecast enrolment numbers for 2008-2009 | By end of 2007 | Inspectorate with PE and SE- division, PCRU, Provincial Education Authorities
-2. | Stock taking for all schools and data base in place (SIEMIS capturing these data) | Undertake a stock take of all ECD-, primary and secondary school infrastructure including classrooms, specialist classrooms, provision of water and sanitation, furniture and equipment in schools, staff housing, & dormitories to establish a database of current school infrastructure in the Solomon Islands education system, to assess the condition of all buildings, and to evaluate gaps and the occupancy rates of classrooms (both under- use and over-crowding) | By mid of 2008 | Infrastructure team with Inspectorate, Primary & Secondary Division, Provincial Education Authorities (Provincial Teams)
+1. | Survey for all schools | Survey schools to verify actual school roll numbers by main school and extension schools, the state of current school facilities, and forecast enrolment numbers for 2008-2009 | By end of 2007 | Inspectorate with PE and SE-division, PCRU, Provincial Education Authorities
+2. | Stock taking for all schools and data base in place (SIEMIS capturing these data) | Undertake a stock take of all ECD-, primary and secondary school infrastructure including classrooms, specialist classrooms, provision of water and sanitation, furniture and equipment in schools, staff housing, & dormitories to establish a database of current school infrastructure in the Solomon Islands education system, to assess the condition of all buildings, and to evaluate gaps and the occupancy rates of classrooms (both under-use and over-crowding) | By mid of 2008 | Infrastructure team with Inspectorate, Primary & Secondary Division, Provincial Education Authorities (Provincial Teams)
 3. | Guidelines for improved school infrastructure development for all schools | Formulate guidelines for school infrastructure development | By end of 2007 | PCRU, Infrastructure Team, Division Primary & Secondary, Provincial Authorities
 4. | National School Infrastructure Plan | Prepare a National School Infrastructure Development Plan (a school facilities development plan) for the Solomon Islands, including mapping and provincial planning, and a list in priority order of primary and secondary schools where facilities require development or maintenance based on need (according to three categories: urgent priority, high priority, medium priority), and identifying the specific facilities required. | Completed by the end of 2008 | PCRU, Infrastructure team, Division Primary and Secondary, Provincial Education Authorities (provincial teams)
 
@@ -3427,8 +3511,8 @@ N | Expected Output (per level) | Activity | Time frame | Responsibility
 6. | Housing and transport plan for inspectors produced | Develop a plan for housing and means of transport for inspectors | Mid of 2008 | Inspectorate
 7. | Survey on ECE (see also 1 and 2) | Conduct baseline survey of all communities in the Solomon Islands to ascertain the current uptake of ECE, the unmet demand for ECE, and the state of current ECE facilities, and develop an ECE information system to support planning for development of new ECE centres and the maintenance or strengthening of existing ECE centres. | By 31 December 2007 | ECE-and PE-division, Provincial Education Authorities, Provincial ECE officers, SIEMIS
 8. | ECE facility plan developed Upgrading of ECE-facilities | Prepare an early child education facilities development plan for the Solomon Islands, including priorities for the establishment of new facilities and the maintenance of existing facilities. Upgrade and improve ECE facilities in the light of the MEHRD standard design | Completed by 31 December 2008 From 2009 onwards | ECE and PE-division, PCRU, Infrastructure team, Provincial Education Authorities
-9. | Increased number of ECE- centres | Expand provision of early childhood education by establishing ECE centres attached to existing primary schools where appropriate, or as stand-alone centres | By the end of 2009, as specified in Provincial Education Action Plans | Primary and ECE-division, Provincial Education Authorities
-10. | Report with recommendations on improved school infrastructure project for PE | Completion of Primary Infrastructure Project Phase 1 Independent Review | Completed by 30 March 2007 | PCRU, Review Team, PE- Division
+9. | Increased number of ECE-centres | Expand provision of early childhood education by establishing ECE centres attached to existing primary schools where appropriate, or as stand-alone centres | By the end of 2009, as specified in Provincial Education Action Plans | Primary and ECE-division, Provincial Education Authorities
+10. | Report with recommendations on improved school infrastructure project for PE | Completion of Primary Infrastructure Project Phase 1 Independent Review | Completed by 30 March 2007 | PCRU, Review Team, PE-Division
 11. | Model developed to predict SE-enrolments at junior and senior level (see also 1, 2) | Develop and/or refine a model to forecast numbers of students likely to enter junior and senior secondary schools at each class level over the period 2007-2015 | By end of 2008 | PCRU, SIEMIS
 
 104
@@ -3502,14 +3586,12 @@ Solomon Islands National Education Action Plan, 2007-2009
 #### Strategic Goal 2: To provide equitable access to community, technical, vocational and tertiary education that will meet individual, regional and national needs for a knowledgeable, skilled, competent and complete people
 
 ##### Outcome 2 (ACCESS and EQUITY): People in the Solomon Islands regardless of gender, ethnicity, religion, location or disability have improved access to relevant, demand oriented community, technical, vocational or tertiary education achieved through an adequate number of schools or centres, classrooms, desks, dormitories, equipment and other infrastructure and financial support from government and other stakeholders
-#### Strategic Goal 1 and 2: To provide equitable access to quality basic education for all children in the Solomon Islands and access to community, technical, vocational, and tertiary education that will meet individual, regional and national needs for a knowledgeable, skilled, competent and complete people
-##### Outcome 3 (QUALITY) : All levels and dimensions of the Solomon Islands education system consistently demonstrate standards of excellence and deliver a quality education, which means high quality of learning achieved through provision of an adequate number of qualified teachers and other workers, in the education sector, relevant national school curriculum and local curricula, adequate number of modern, relevant teaching and learning materials or facilities, sound standards of student literacy and numeracy
 
 ###### Objective 1.1. Provision of an adequate number of schools, centres, classrooms, desks, dormitories and other infrastructure
 --- | --- | --- | --- | ---
 No | Expected output (per level) | Activity | Timeframe | Responsibility
-23. | To improve access to post- secondary education | Prepare a forecast of unsatisfied demand for TVET over the period 2007- 2015 | By end of 2008 | TVET-division, Provincial Education Authorities (with TA)
-24. | Market research and student-tracking done for Senior Secondary Schools | Undertake a market research exercise to collect data on a sample of students of senior secondary school age (approximate ages 16-19) to track where they go, and to interview students (both those at school and those who have left school, and adults in the community) to find out in which tertiary or TVET courses they would be interested in enrolling, and why | By end of 2009 | PCRU, SIEMIS, TVET- division, SICHE, Provincial Education Authorities
+23. | To improve access to post-secondary education | Prepare a forecast of unsatisfied demand for TVET over the period 2007-2015 | By end of 2008 | TVET-division, Provincial Education Authorities (with TA)
+24. | Market research and student-tracking done for Senior Secondary Schools | Undertake a market research exercise to collect data on a sample of students of senior secondary school age (approximate ages 16-19) to track where they go, and to interview students (both those at school and those who have left school, and adults in the community) to find out in which tertiary or TVET courses they would be interested in enrolling, and why | By end of 2009 | PCRU, SIEMIS, TVET-division, SICHE, Provincial Education Authorities
 25. | National Post-secondary Facilities Development plan | Develop a national post-secondary education facilities development plan for the Solomon Islands, including TVET Centre facilities development, and consider expanding facilities at TVET Centres and post-secondary institutions as resources permit | By the end of 2008 | TVET -division and National Committee for Skills Training, Communities. PMT
 26. | SICHE Facilities Development Plan | Prepare a SICHE facilities development plan, that links with the national post-secondary facilities development plan, and includes provision to meet national priorities for tertiary education and TVET, and upgrading of existing facilities where appropriate | By the end of 2009 | SICHE, National Committee for Skills Training, PMT
 27. | USP extension in SI | Make land and funds available for proposed expansion of USP campus in SI Construction of new facilities | From 2007 onwards | MoF, PS, USP
@@ -3521,6 +3603,12 @@ No | Expected output (per level) | Activity | Timeframe | Responsibility
 [[START OF PAGE 109]]
 
 Solomon Islands National Education Action Plan, 2007-2009
+
+#### Strategic Goal 1 and 2: To provide equitable access to quality basic education for all children in the Solomon Islands and access to community, technical, vocational, and tertiary education that will meet individual, regional and national needs for a knowledgeable, skilled, competent and complete people
+
+##### Outcome 3 (QUALITY): All levels and dimensions of the Solomon Islands education system consistently demonstrate standards of excellence and deliver a quality education, which means high quality of learning achieved through provision of an adequate number of qualified teachers and other workers, in the education sector, relevant national school curriculum and local curricula, adequate number of modern, relevant teaching and learning materials or facilities, sound standards of student literacy and numeracy
+
+###### Objective 3.1 Provision of an adequate number of qualified teachers and other workers in the education sector
 
 No | Expected output (per level) | Activity | Time frame | Responsibility
 --- | --- | --- | --- | ---
@@ -3546,7 +3634,7 @@ Outcome 3 (QUALITY) : All levels and dimensions of the Solomon Islands education
 No | Expected output (per level) | Activity | Time frame | Responsibility
 34. | NTTDP reviewed and finalised | Review the National Teacher Training and Development Plan (NTTDP), including clarification of its status, and revision and redevelopment if necessary, and implement the plan | Review completed by 30 June 2007 NTTD Plan published by 30 September 2007 Implementation from 2008 | Teaching Services Division, TTDO, SOE, Development Partners
 35. | Improved teacher education and training programme for untrained teachers | SICHE(SOE) review and development of Teacher Education programmes | Begin in 2007 Progress report by end of 2007 | SICHE(SOE), TTDO, with University of Waikato assistance
-36. | Training reform at SOE for certificate and diploma courses | Agree on the improvements to the programme and/or structure of the three- year Diploma in Teaching to replace existing two and three-year teacher education courses, and provide the resources required to deliver this course. | By end of 2007 | SICHE(SOE), TTDO, with University of Waikato
+36. | Training reform at SOE for certificate and diploma courses | Agree on the improvements to the programme and/or structure of the three-year Diploma in Teaching to replace existing two and three-year teacher education courses, and provide the resources required to deliver this course. | By end of 2007 | SICHE(SOE), TTDO, with University of Waikato
 37. | To improve the quality of the ECE teaching work force | Establish ECE 'demonstration centres' as ECE Pilot Projects in each province to provide models for field-based training. | Initial centres by end of 2007, & subsequent centres by end of 2008 | ECE-and PE-division, Provincial Education Authorities
 38. | TVET instructors development plan produced | Prepare a TVET tutor/instructor development plan in order to train additional instructors with specialist technical qualifications at a high level Implement the plan | Plan prepared by the mid of 2008 Implementation begins in second part of 2008, ongoing in 2009 | TVET-division, SICHE, Vanga Teachers' College, Provincial & Private Education Authorities, SIARTC
 39. | Study on quality assurance for TVET and tertiary education | Conduct study on how qualifications development and quality assurance of tertiary education qualifications for TVET and tertiary education can be ensured in the Solomon Islands | By end of 2009 | SICHE, TVET-division, Vanga Teachers' College, USP and TA
@@ -3604,8 +3692,8 @@ Outcome 3 (QUALITY) : All levels and dimensions of the Solomon Islands education
 --- | --- | --- | --- | ---
 No | Expected output (per level) | Activity | Time frame | Responsibility
 49. | Quality of teacher training facilities improved | Develop improved teacher training facilities | Progress report at end of 2007 | SICHE(SOE) with PCRU, Infrastructure team
-50. | Teachers' guides and student texts books developed, produced and distributed to schools Adequate and good quality tools and equipment provided for Forms 1-3 Pilot started for Form 1-3 | Continue development and production of teachers' guides and student text- books to support the national curriculum, with a focus on learning materials to support the learning of English, Maths , 3 primary subjects (Science, Social Studies, Health Education) and 9 secondary subjects (English, Maths, Science, Social Studies, Agriculture, Business, Home Economics, Technology, Physical Education) Supply an adequate number of tools and equipment for junior secondary schools (Forms 1-3) in particular for the practical skill subjects and science in order to enable teachers to teach the new syllabus and practical skill subjects Piloting Form 1-3 new syllabus and teaching materials in practical subjects Provision of ICT-equipment for 100 schools | Ongoing, 2007-2009 From 2007 onwards From 2007 onwards | CDC, in cooperation with international publisher (Pearson Longman) CDC, Development Partner(s) CDC, Development Partner(s)
-51. | ICT-equipment provided Improved facilities for printing and storage of teaching and learning materials and CDC-staff housing | Renovation/extension of CDC-building, CDC-printery, installation of generator and water tank, improvement of CDC-staff housing and ERU- facilities | From 2007 onwards From 2007 onwards | CDC, Development Partner(s) CDC, ERU, Development Partner(s)
+50. | Teachers' guides and student texts books developed, produced and distributed to schools Adequate and good quality tools and equipment provided for Forms 1-3 Pilot started for Form 1-3 ICT-equipment provided | Continue development and production of teachers' guides and student text-books to support the national curriculum, with a focus on learning materials to support the learning of English, Maths , 3 primary subjects (Science, Social Studies, Health Education) and 9 secondary subjects (English, Maths, Science, Social Studies, Agriculture, Business, Home Economics, Technology, Physical Education) Supply an adequate number of tools and equipment for junior secondary schools (Forms 1-3) in particular for the practical skill subjects and science in order to enable teachers to teach the new syllabus and practical skill subjects Piloting Form 1-3 new syllabus and teaching materials in practical subjects Provision of ICT-equipment for 100 schools | Ongoing, 2007-2009 From 2007 onwards From 2007 onwards From 2007 onwards | CDC, in cooperation with international publisher (Pearson Longman) CDC, Development Partner(s) CDC, Development Partner(s) CDC, Development Partner(s)
+51. | Improved facilities for printing and storage of teaching and learning materials and CDC-staff housing | Renovation/extension of CDC-building, CDC-printery, installation of generator and water tank, improvement of CDC-staff housing and ERU-facilities | From 2007 onwards | CDC, ERU, Development Partner(s)
 52. | Increased number of PE and SE-schools with well functioning libraries | Promotion of libraries and readership Support to establishment and expansion of libraries and provision of reading materials | Ongoing, 2007-2009 | NLS, Provincial Authorities
 53. | Increased number of functioning libraries in provinces | Revive provincial libraries Connect provincial libraries to Internet Expand School Library Association with provincial representatives | From 2008 onwards | NLS, Provincial Authorities
 54. | National post-secondary institutions and RTC's strengthened Increased financial support to these institutions | Strengthen national post-secondary institutions, vocational training centres (VTCs) and rural training centres (RTCs), and invest in their development. Expenditure issues to be addressed in MEHRD budget process and Budget support | By end of 2008 Resources to be identified in time for 2009 budget | SICHE, NTU ,TVET-division, USP and VTC's and RTC's, with TA
@@ -3626,9 +3714,9 @@ Outcome 3 (QUALITY) : All levels and dimensions of the Solomon Islands education
 --- | --- | --- | --- | ---
 No | Expected output (per level) | Activity | Time frame | Responsibility
 55. | Increased number of quality in-service training to teachers and increased participation of teachers in in-service training | Offer professional development opportunities (in-service training) to existing teachers to improve teaching skills and qualifications, including through USP Distance and Flexible Learning (DFL) and summer schools Increase co-operation between CDC, TTDO, SOE in designing a capacity building strategy and in-service training packages for teachers and education staff | Ongoing, 2007-2009 | TTDO and SICHE(SOE), with CDC, USP, & Provincial Education Authorities
-56. | Increased number of quality in-service training to ECE- teachers and increased participation of ECE- teachers in in-service training | Develop plans and training packages for ECE teachers at provincial centres, including strategies on how to upgrade the skills and competencies of ECE teachers who have undertaken some field-based training | Implemented in 2008 & 2009 | SICHE(SOE), CDC, ECE- division, Provincial & Private Education Authorities
+56. | Increased number of quality in-service training to ECE-teachers and increased participation of ECE-teachers in in-service training | Develop plans and training packages for ECE teachers at provincial centres, including strategies on how to upgrade the skills and competencies of ECE teachers who have undertaken some field-based training | Implemented in 2008 & 2009 | SICHE(SOE), CDC, ECE-division, Provincial & Private Education Authorities
 57. | Special In service training for PE- and SE- teachers organised | Provision of in service training for teachers in revised syllabus areas • Follow up for year 5, 6 NguzuNguzu English and Maths-materials • Repeat for NguzuNguzu English and Maths, year 1-6 Dissemination, follow up and in-service training for 3 primary subjects (Science, Social Studies, Health) and 9 secondary subjects (English, Maths, Science, Social Studies, Agriculture, Business studies, Home Economics, Technology, Physical Education) | Ongoing, 2007-2009 | CDC,TTDO, PE-division, graduates assistance programme
-58. | In-service training for SE- school teachers | Train senior secondary teachers each year, focusing on specialised subjects (e.g. science, mathematics, practical subjects) | Ongoing, 2007, 2008 & 2009 | Secondary School Division, TTDO, SICHE(SOE) & USP
+58. | In-service training for SE-school teachers | Train senior secondary teachers each year, focusing on specialised subjects (e.g. science, mathematics, practical subjects) | Ongoing, 2007, 2008 & 2009 | Secondary School Division, TTDO, SICHE(SOE) & USP
 59. | Capacity building for CDC and ERU organised | Develop an ongoing in-house capacity building programme (fitting in the overall HRD-strategic plan) for the Curriculum Development Centre Organise training courses for CDC-printery and ERU | Begin in 2007, and ongoing from 2008 to 2009 | CDC with the available TA
 60. | Capacity building plan for inspectors developed and implemented | Within the HRD-strategic plan, strengthen the inspectorate division at all levels to ensure staff are appropriately skilled and resourced to undertake efficient and effective monitoring and evaluation of the performance of the Solomon Islands education system | By 31 December 2007 Implementation from 2008 onwards | Inspectorate and TA
 
@@ -3661,7 +3749,7 @@ Outcome 3 (QUALITY) : All levels and dimensions of the Solomon Islands education
 ###### Objective 3.6. Monitoring and assessment of sound standards of student literacy and numeracy and students' progress in other subjects
 No | Expected output (per level) | Activity | Time frame | Responsibility
 62. | Pilot scheme introduced for use of vernacular Improved performance of PE-pupils in literacy and numeracy Policy development for vernacular in PE | Improve student language development, including establishment of a pilot scheme for use of the vernacular in primary schooling as a medium of instruction, and improve student performance in literacy (English and reading) and numeracy (mathematics) | Ongoing, 2007-2009 Pilot starts in 2007 Policy developed in 2008 | Curriculum Development Centre, NESU and PE-division
-63. | Assessment resources tool for teaching and learning (ARTTLe) developed and implemented SISTA and SBA implemented Improved standards of numeracy and literacy Exams for different levels timely and orderly organised | Development of Assessment Resources Tool for Teaching and Learning (ARTTLe) Organisation of SISTA-2 (grade 6) Organisation of Secondary School based Assessment (SBA) On request of Provincial Authorities and Schools Revise Form 3 and 5 examinations prescriptions Annual and timely organisation of SISEE, SIF3, SISC and PSSC | From 2007 onwards 3 rd quarter of 2007 2 nd quarter of 2007 Continuously 2 nd quarter of 2007 On going from 2007 till 2009 | NESU, PRIDE NESU, SPBEA NESU NESU, Provincial Education Authorities
+63. | Assessment resources tool for teaching and learning (ARTTLe) developed and implemented SISTA and SBA implemented Improved standards of numeracy and literacy Exams for different levels timely and orderly organised | Development of Assessment Resources Tool for Teaching and Learning (ARTTLe) Organisation of SISTA-2 (grade 6) Organisation of Secondary School based Assessment (SBA) On request of Provincial Authorities and Schools Revise Form 3 and 5 examinations prescriptions Annual and timely organisation of SISEE, SIF3, SISC and PSSC | From 2007 onwards 3rd quarter of 2007 2nd quarter of 2007 Continuously 2nd quarter of 2007 On going from 2007 till 2009 | NESU, PRIDE NESU, SPBEA NESU NESU, Provincial Education Authorities
 64. | In-service training on ARTTle organised SBA introduced in other SBA subjects | Organise In-service training for ARTTLe for teachers Introduce SBA for other SISC-subjects | From 2008 onwards From 2008 onwards | NESU, PRIDE NESU
 65. | In-service training for examiners, moderators organised Development of SBA Pacific Vocational Interest Analysis (PVIA) organised | In- service training for examiners, moderators and moderation of SBA Devise new school based assessment (SBA) instruments Renorming and administration of Form 3 in order to measure interest for vocational education and training through a Pacific Vocational Interest Analysis | From 2009 onwards From 2009 onwards From 2009 onwards | NESU, SPBAE NESU NESU and Development Partner(s)
 
@@ -3678,9 +3766,9 @@ Strategic Goal 1 and 2: To provide equitable access to quality basic education f
 Outcome 3 (QUALITY) : All levels and dimensions of the Solomon Islands education system consistently demonstrate standards of excellence and deliver a quality education, which means high quality of learning achieved through provision of an adequate number of qualified teachers and other workers, in the education sector, relevant national school curriculum and local curricula, adequate number of modern, relevant teaching and learning materials or facilities, sound standards of student literacy and numeracy .
 ###### Objective 3.7. Improvement of efficiency and effectiveness of sub sector education systems in particular tertiary education by giving it a more (labour) demand oriented direction
 No | Expected output (per level) | Activity | Time frame | Responsibility
-66. | Improved quality of and access to post-secondary education | Develop a strategic plan for tertiary education and skills training (a National Skills Training Plan), having regard to the 2006/2007 World Bank/NZAID report on skills development, and develop and approve policy on Government assistance for delivery of TVET services and support for TVET providers Implementation and expenditure issues to be addressed in MEHRD budget process and Budget support Implement the National Skills Training Plan | National Skills Training Plan developed by the end of 2008 Resource requirements to be identified in time for consideration in 2009 budget By the end of 2009 | PMT, PS, SICHE, NTU, TVET- division, with support of local or international TA
-67. | Feasibility study done for technical, tertiary education and training | Conduct a feasibility study on options for delivery of higher-level institution- based and work-based skill development, including whether a single centrally-located technical institute in the Solomon Islands is viable | Study completed mid 2008 | SICHE, TVET-division, with TA
-68. | Follow up study on USP- campus developments and links with other tertiary education | Undertake a follow-up study to assess progress on the establishment of a campus of USP in the Solomon Islands, including whether and how provision of tertiary education at such a campus could complement tertiary education offered through SICHE | Study completed, report analysed, costs identified, and recommendations made to Minister by end of 2008 | PS, PMT, USP
+66. | Improved quality of and access to post-secondary education | Develop a strategic plan for tertiary education and skills training (a National Skills Training Plan), having regard to the 2006/2007 World Bank/NZAID report on skills development, and develop and approve policy on Government assistance for delivery of TVET services and support for TVET providers Implementation and expenditure issues to be addressed in MEHRD budget process and Budget support Implement the National Skills Training Plan | National Skills Training Plan developed by the end of 2008 Resource requirements to be identified in time for consideration in 2009 budget By the end of 2009 | PMT, PS, SICHE, NTU, TVET-division, with support of local or international TA
+67. | Feasibility study done for technical, tertiary education and training | Conduct a feasibility study on options for delivery of higher-level institution-based and work-based skill development, including whether a single centrally-located technical institute in the Solomon Islands is viable | Study completed mid 2008 | SICHE, TVET-division, with TA
+68. | Follow up study on USP-campus developments and links with other tertiary education | Undertake a follow-up study to assess progress on the establishment of a campus of USP in the Solomon Islands, including whether and how provision of tertiary education at such a campus could complement tertiary education offered through SICHE | Study completed, report analysed, costs identified, and recommendations made to Minister by end of 2008 | PS, PMT, USP
 
 117
 
@@ -3696,10 +3784,10 @@ Solomon Islands National Education Action Plan, 2007-2009
 ###### Objective 4.1 Strengthening planning, budgeting, management, co-ordination and monitoring
 No | Expected outputs | Activity | Time frame | Responsibility
 69. | Improved cohesion between main national planning documents and clear aims, expected outputs etc. of ESIRP II, NEAP and ESF | Development of a logical framework for the SWAp which creates interlinkages and increased cohesion between ESIRP II, NEAP (2007-2009) and ESF (2007-2015) | By end of 2007 | CT, PIU and DP's
-70. | Improved annual planning, budgeting and (fin.) reporting process based on informed decision making TWG-Planning/Budgeting established Increased role of Provincial actors in national and provincial education planning, budgeting | To timely produce more outcome oriented and cohesive annual budgeting and planning based on semi-annual reporting system by utilisation of SIEMIS, a Performance Assessment Framework (PAF) and recommendations at the Annual Joint Review, Accounting reports and TA Technical Working Group (TWG) on Planning/Budgeting established to assist in more comprehensive planning and development of Mid Term Expenditure Framework To strengthen the role of Provincial Government and Authorities in planning, implementing and monitoring NEAP | From 3 rd quarter 2007 onwards From 2 nd quarter 2007 From 3 rd quarter 2007 onwards | PS, CT, PMT, Accounts, TA and Development Partners PS, CT, PMT, PCRU, Accounts PS, CT, PMT, PCRU, Provincial Authorities
-71. | Development of MTEF | To develop a 3-year, outcome oriented Mid Term Expenditure Framework (MTEF) | From 2 nd quarter 2007 onwards | TWG on Planning/Budgeting, PS, Accounts, MoF, MoPAC, MPS
-72. | Improved access to funds Improved responsiveness from MoF and Accounts section | Directors facilitated by having easier and quicker access to funding for their different activities Directors do timely prepare their requests and timely retire imprest funding | From 2 nd quarter of 2007 onwards | Accounts, MoF, TA
-73. | Sector co-ordination team and secretariat installed and operational Improved sector co- ordination, organisation of meetings, customers' relationship Improved cohesion and quality of activities in SWAp/NEAP | To develop a strong sector co-ordination team and secretariat Advertise 2 positions in the sector secretariat and select personnel Guarantee skills transfer by existing secretariat staff | Co-ordination team established in 1 st quarter 2007 Sector secretariat established from 2 nd quarter 2007 onwards | CT CT, Sector secretariat
+70. | Improved annual planning, budgeting and (fin.) reporting process based on informed decision making TWG-Planning/Budgeting established Increased role of Provincial actors in national and provincial education planning, budgeting | To timely produce more outcome oriented and cohesive annual budgeting and planning based on semi-annual reporting system by utilisation of SIEMIS, a Performance Assessment Framework (PAF) and recommendations at the Annual Joint Review, Accounting reports and TA Technical Working Group (TWG) on Planning/Budgeting established to assist in more comprehensive planning and development of Mid Term Expenditure Framework To strengthen the role of Provincial Government and Authorities in planning, implementing and monitoring NEAP | From 3rd quarter 2007 onwards From 2nd quarter 2007 From 3rd quarter 2007 onwards | PS, CT, PMT, Accounts, TA and Development Partners PS, CT, PMT, PCRU, Accounts PS, CT, PMT, PCRU, Provincial Authorities
+71. | Development of MTEF | To develop a 3-year, outcome oriented Mid Term Expenditure Framework (MTEF) | From 2nd quarter 2007 onwards | TWG on Planning/Budgeting, PS, Accounts, MoF, MoPAC, MPS
+72. | Improved access to funds Improved responsiveness from MoF and Accounts section | Directors facilitated by having easier and quicker access to funding for their different activities Directors do timely prepare their requests and timely retire imprest funding | From 2nd quarter of 2007 onwards | Accounts, MoF, TA
+73. | Sector co-ordination team and secretariat installed and operational Improved sector co-ordination, organisation of meetings, customers' relationship Improved cohesion and quality of activities in SWAp/NEAP | To develop a strong sector co-ordination team and secretariat Advertise 2 positions in the sector secretariat and select personnel Guarantee skills transfer by existing secretariat staff | Co-ordination team established in 1st quarter 2007 Sector secretariat established from 2nd quarter 2007 onwards | CT CT, Sector secretariat
 
 118
 
@@ -3711,11 +3799,11 @@ Solomon Islands National Education Action Plan, 2007-2009
 
 Strategic Goal 3: to manage resources in an efficient, effective and transparent manner.
 --- | --- | --- | --- | ---
-4 (MANAGEMENT): The management of the Solomon Islands education system is effective and efficient, including effective education policy development, planning and budgeting, effective management of human and financial resources, a sound system of monitoring and evaluation, and effective development of appropriate skills and competencies in the education work force. Objective 4.1 Strengthening planning, budgeting, management, co-ordination and monitoring
+Outcome 4 (MANAGEMENT): The management of the Solomon Islands education system is effective and efficient, including effective education policy development, planning and budgeting, effective management of human and financial resources, a sound system of monitoring and evaluation, and effective development of appropriate skills and competencies in the education work force. Objective 4.1 Strengthening planning, budgeting, management, co-ordination and monitoring
 No | Expected outputs | Activity | Time frame | Responsibility
-74. | Technical Working Group on Monitoring established PAF developed and agreed upon Monitoring and evaluation system in place | Establish a Task Force on Monitoring to develop an output-based Monitoring and Evaluation System (including a Performance Assessment Framework), which provides for measuring and reporting of progress in the SWAp against the expected outcomes of NEAP and which is based on data available in SIEMIS | From 2 nd quarter 2007 PAF developed and agreed upon at AJR (July 2007) From 3 rd quarter 2007 onwards | CT, PCRU and TWG- Monitoring
+74. | Technical Working Group on Monitoring established PAF developed and agreed upon Monitoring and evaluation system in place | Establish a Task Force on Monitoring to develop an output-based Monitoring and Evaluation System (including a Performance Assessment Framework), which provides for measuring and reporting of progress in the SWAp against the expected outcomes of NEAP and which is based on data available in SIEMIS | From 2nd quarter 2007 PAF developed and agreed upon at AJR (July 2007) From 3rd quarter 2007 onwards | CT, PCRU and TWG-Monitoring
 75. | Integration of data for TVET/tertiary education sector in SIEMIS | Modify the Education Management Information System to track participation in tertiary education, including TVET (or include a tertiary education component in SIEMIS) | By end of 2007 | PCRU, TVET, SICHE. Uniquest (TA)
-76. | Improved SIEMIS and improved utilisation of SIEMIS for purposes of planning | Develop in co-operation with TA a transition plan which reflects areas for improvement Implement plan Enhance the Solomon Islands Education Management Information System to support planning for school development | By 2 nd quarter 2007 From 2 nd quarter 2007 onwards From 2008 onwards | PCRU, CT, PMT, Uniquest (TA)
+76. | Improved SIEMIS and improved utilisation of SIEMIS for purposes of planning | Develop in co-operation with TA a transition plan which reflects areas for improvement Implement plan Enhance the Solomon Islands Education Management Information System to support planning for school development | By 2nd quarter 2007 From 2nd quarter 2007 onwards From 2008 onwards | PCRU, CT, PMT, Uniquest (TA)
 77. | Review of scholarships done Improved procedure in place for selection, monitoring progress and expenditures for scholarships | Strengthen the management of scholarships in the Solomon Islands by ensuring equitable and transparent policies for allocation and monitoring of tertiary scholarships are developed, approved and implemented, and effective procedures for forecasting and control of any downstream financial implications of scholarship awards are in place | By 30 June 2007 | PS, NTU, CT with support from DP's
 
 119
@@ -3730,13 +3818,13 @@ Strategic Goal 3: to manage resources in an efficient, effective and transparent
 --- | --- | --- | --- | ---
 ###### Objective 4.2 To develop, revise or finalise policies for the different sub-sectors or cross cutting areas
 No | Expected outputs | Activity | Time frame | Responsibility
-78. | TWG-policy re-established | Re-establish Technical Working Group on Policies | 2 nd quarter 2007 | CT
-79. | Inventory done on all policies and list them according to needs for new development, revision, finalisation | Inventory of all education policies for all sectors in the light of the goals in the Education Strategic Framework and the programme set out in this National Education Action Plan , identify areas where existing policies need to be modified or where new policies are required, and consider whether structures in MEHRD are appropriate to ensure Solomon Islands education policy development and dissemination is coherent, effective and consistent | Completed by 31 December 2007 Ongoing monitoring and evaluation of policy development, 2007 to 2009 | TWG on Policies, NEB, PS, CT, PMT
+78. | TWG-policy re-established | Re-establish Technical Working Group on Policies | 2nd quarter 2007 | CT
+79. | Inventory done on all policies and list them according to needs for new development, revision, finalisation | Inventory of all education policies for all sectors in the light of the goals in the Education Strategic Framework and the programme set out in this National Education Action Plan, identify areas where existing policies need to be modified or where new policies are required, and consider whether structures in MEHRD are appropriate to ensure Solomon Islands education policy development and dissemination is coherent, effective and consistent | Completed by 31 December 2007 Ongoing monitoring and evaluation of policy development, 2007 to 2009 | TWG on Policies, NEB, PS, CT, PMT
 80. | Finalisation of ECE-policy | Finalise Early Childhood Education (ECE) policy, setting out the policy on access to ECE, teacher training, facilities development, the relationships between MEHRD, Provincial and Private Education Authorities and communities, the ECE curriculum, and how funding of teacher salaries and ECE participation will be managed. | By 31 December 2007 | Primary and ECE-division, Provincial Education Authorities, Provincial ECE officers, TA
 81. | Standards developed for classroom design in ECE | Develop a standard classroom design for ECE to set a standard for all centres | By 31 Dec 2007 | Primary and ECE-division, PRIDE/TA
 82. | Registration and licensing criteria for ECE-centres produced | Establish policy and criteria for registration and/or licensing of ECE Centres, and license only those Centres that meet minimum quality standards | By end of 2007 | Primary and ECE-division Provincial Education Authorities
 83. | Policy produced on establishment of new schools | Develop, formalise and communicate policy on establishment of new schools | By 31 December 2007 | Primary and Secondary division
-84. | Policy produced on MEHRD- provincial education authorities relationship and decentralisation process | Develop policy to ensure improved co-ordination between the MEHRD and provincial and private education authorities, so that there are procedures in place to ensure more effective joint or decentralised decision-making on policies with significant downstream financial implications for central Government, such as establishment of new community high schools or primary schools. | By end of 2008 | TWG on Policy, NEB, Provincial Authorities, PS, PMT
+84. | Policy produced on MEHRD-provincial education authorities relationship and decentralisation process | Develop policy to ensure improved co-ordination between the MEHRD and provincial and private education authorities, so that there are procedures in place to ensure more effective joint or decentralised decision-making on policies with significant downstream financial implications for central Government, such as establishment of new community high schools or primary schools. | By end of 2008 | TWG on Policy, NEB, Provincial Authorities, PS, PMT
 85. | Policy developed for 3-year tenure for head teachers and principals | Policy developed, and minimum three year tenure for Head Teachers, Principals in place | By end of 2007 | TWG on Policy, NEB, PS, PMT Director Teaching Service, Primary, & Secondary Division & Teaching Service Commission
 
 120
@@ -3747,16 +3835,17 @@ No | Expected outputs | Activity | Time frame | Responsibility
 
 Solomon Islands National Education Action Plan, 2007-2009
 
-Strategic Goal 3: to manage resources in an efficient, effective and transparent manner. (MANAGEMENT): The management of the Solomon Islands education system is effective and efficient, including effective education policy development,
+Strategic Goal 3: to manage resources in an efficient, effective and transparent manner.
+Outcome 4 (MANAGEMENT): The management of the Solomon Islands education system is effective and efficient, including effective education policy development, planning and budgeting, effective management of human and financial resources, a sound system of monitoring and evaluation, and effective development of appropriate skills and competencies in the education work force.
 --- | --- | --- | --- | ---
 Objective 4.2 To develop, revise or finalise policies for the different sub-sectors or cross cutting areas
 No | Expected outputs | Activity | Time frame | Responsibility
 86. | Efficient procedures in place for appointing, transferring teachers Equitable deployment of teachers | Develop and apply revised procedures for appointing and transferring teachers within and between Authorities | By end of 2007 | Teaching Service Division
-87. | Improved management of teachers Reliable and up-to-date teacher information available | Implement teacher validation exercise, and implement the recommendations, including reconciling the teacher payroll with posting lists in order to eliminate 'ghosts' (teachers who are on the payroll but not actually teaching in schools), and achieve savings | 2 nd and 3 rd quarter 2007 | Teaching Service Division
+87. | Improved management of teachers Reliable and up-to-date teacher information available | Implement teacher validation exercise, and implement the recommendations, including reconciling the teacher payroll with posting lists in order to eliminate 'ghosts' (teachers who are on the payroll but not actually teaching in schools), and achieve savings | 2nd and 3rd quarter 2007 | Teaching Service Division
 88. | Phasing out of SISEE and introduction of school based assessment at primary school | Develop a plan and timetable to phase out the Solomon Islands Secondary Entrance Examination, including the introduction of school-based assessment into the primary school, and commence phasing out the SISEE. | By end of 2009 | NESU, Primary and Secondary Division, Provincial Education Authorities
-89. | Development of a policy for tertiary education National Committee for Skills Training established | Review existing tertiary education practice, and develop a tertiary education policy (including revision of the policy on TVET) to address the social, economic and development needs of the Solomon Islands, including consideration of the establishment of a Tertiary Education Commission or National Skills and Training Committee, in order to guide MEHRD decision- making Establish National Committee for Skills Training | By end of 2008 1 st Draft tertiary education policy developed by 31 December 2007 By end of 2007 | TWG-Policy, NEB, Tertiary Education Working Group (established by PS), TVET- division, NTU, SICHE, with TA
+89. | Development of a policy for tertiary education National Committee for Skills Training established | Review existing tertiary education practice, and develop a tertiary education policy (including revision of the policy on TVET) to address the social, economic and development needs of the Solomon Islands, including consideration of the establishment of a Tertiary Education Commission or National Skills and Training Committee, in order to guide MEHRD decision-making Establish National Committee for Skills Training | By end of 2008 1st Draft tertiary education policy developed by 31 December 2007 By end of 2007 | TWG-Policy, NEB, Tertiary Education Working Group (established by PS), TVET-division, NTU, SICHE, with TA
 90. | Appropriate registration of post secondary providers | Establish register of post secondary providers | By mid 2008 | SICHE, NTU
-91. | Review of post secondary institutions done | Review post-secondary institutions in the Solomon Islands Expenditure issues to be addressed in MEHRD budget process and Budget support | By end of 2008 | PMT/PS, SICHE, NTU, TVET- division (with TA)
+91. | Review of post secondary institutions done | Review post-secondary institutions in the Solomon Islands Expenditure issues to be addressed in MEHRD budget process and Budget support | By end of 2008 | PMT/PS, SICHE, NTU, TVET-division (with TA)
 
 121
 
@@ -3771,7 +3860,7 @@ Strategic Goal 3: to manage resources in an efficient, effective and transparent
 Outcome 4 (MANAGEMENT): The management of the Solomon Islands education system is effective and efficient, including effective education policy development, planning and budgeting, effective management of human and financial resources, a sound system of monitoring and evaluation, and effective development of appropriate skills and competencies in the education work force.
 ###### Objective 4.3 On the basis of a national demand, to ensure longer term interest, technical assistance (including development of a national TA-pool) and funding from Development Partners for the SWAp, ESIRPII, NEAP (2007-2009) and ESF (2007-2015)
 No | Expected outputs | Activity | Time frame | Responsibility
-92. | Arrangement for ESIRP II, NEAP (2007-2009) signed between SIG and main development partners (NZAID, EU) | Develop an Arrangement accepted by main development partners and government which is clearly reflecting roles, duties, expectations, modalities of TA and financial support to ESIRP II and NEAP (2007-2009) | 1 st quarter 2007 | Minister, PS, CT, PMT, Development Partners
+92. | Arrangement for ESIRP II, NEAP (2007-2009) signed between SIG and main development partners (NZAID, EU) | Develop an Arrangement accepted by main development partners and government which is clearly reflecting roles, duties, expectations, modalities of TA and financial support to ESIRP II and NEAP (2007-2009) | 1st quarter 2007 | Minister, PS, CT, PMT, Development Partners
 93. | Modify ESF (2007-2015) | Modify the Education Strategic Framework (ESF), 2007-2015, according to changed policies, outcomes of the AJR's, annual reporting and data in SIEMIS | From 2008 onwards | CT, PMT, Development Partners
 94. | Increased Development Partners' support to ESIRP II and period after 2009 Demand oriented TA Increase of local TA | Develop a communication strategy to get more Development Partners interested in joining and long term supporting the SWAp, NEAP (2007-2009) and ESF (2007-2015) Within the framework of a Human Resource Development Plan, ensure tailor made and demand oriented Technical Assistance from different sources Encourage TA provided from national financial and human resources | From mid 2007 onwards From mid 2007 onwards | PS, CT, PMT, Development Partners PS, CT, PMT, Development Partners
 
@@ -3788,10 +3877,10 @@ Strategic Goal 3: to manage resources in an efficient, effective and transparent
 Outcome 4 (MANAGEMENT): The management of the Solomon Islands education system is effective and efficient, including effective education policy development, planning and budgeting, effective management of human and financial resources, a sound system of monitoring and evaluation, and effective development of appropriate skills and competencies in the education work force.
 ###### Objective 4.4 Develop and implement a programme of Human Resource Development and capacity building
 No | Expected outputs | Activity | Time frame | Responsibility
-95. | IOA and Training needs analysis done in MEHRD | Start an Institutional and Organisational Analysis (IOA) including a HR- needs analysis to support for the development of a programme for Human Resource Development and capacity building. Include the merging of PIU/Stabex 99-project activities and related skills into the MEHRD and provinces | By mid 2007 | CT, with support from PIU, NZAid, WB
+95. | IOA and Training needs analysis done in MEHRD | Start an Institutional and Organisational Analysis (IOA) including a HR-needs analysis to support for the development of a programme for Human Resource Development and capacity building. Include the merging of PIU/Stabex 99-project activities and related skills into the MEHRD and provinces | By mid 2007 | CT, with support from PIU, NZAid, WB
 96. | IOA implemented also for actors in the provinces | Expand IAO to provinces and audit the existing education staff in provinces: Provincial Officers, Education Authorities, and school managers and educational institutions to identify competencies and skill gaps. | By end of 2007 | CT, with support from PIU, NZAid, WB
 97. | HRD strategic plan designed for education sector | Design a Human Resources Development Strategic Plan for capacity building for MEHRD staff, and Provincial and Private Education Authorities, and school managers, with a view to decentralising decision-making and strengthening all Provincial and Private Education Authorities. As part of the plan, agree on revised roles and functions for the MEHRD, Education Authorities, school heads and boards of management and implement any consequent restructuring. | First quarter of 2008 | CT, with support from PIU, NZAid, WB
-98. | Implementation of the HRD- strategic plan | Develop an appropriate, pragmatic delivery model to deliver a HRD- programme that can lead to certification and also to clear changes and improved performance on the work floor and different divisions Identify an institutional partner to deliver a programme | From 2 nd quarter of 2008 onwards | CT, with support from PIU, NZAid, WB
+98. | Implementation of the HRD-strategic plan | Develop an appropriate, pragmatic delivery model to deliver a HRD-programme that can lead to certification and also to clear changes and improved performance on the work floor and different divisions Identify an institutional partner to deliver a programme | From 2nd quarter of 2008 onwards | CT, with support from PIU, NZAid, WB
 
 123
 
@@ -3826,7 +3915,7 @@ Outcome 4 (MANAGEMENT): The management of the Solomon Islands education system i
 ###### Objective 4.6 Develop and implement an improved and harmonised school infrastructure programme for primary, secondary education and TVET
 No | Expected outputs | Activity | Time frame | Responsibility
 104. | Improved monitoring of school infrastructure programmes for PE and SE | Undertake regular and systematic monitoring and evaluation of the school infrastructure programme Capture data into SIEMIS | From 2008 onwards | PCRU, PE, SE, PIU and provincial authorities
-105. | Improved co-ordination and harmonisation of all infrastructure programmes | Coordination and harmonisation of all infrastructure programmes supported by SIG and different Development Partners, based on the recommendations of the review on primary education infrastructure programme and internal reviews by PIU on the infrastructure for secondary schools Implementation of agreed findings by review team on primary education infrastructure programme Strengthening of infrastructure team in MEHRD | From 2 nd quarter 2007 onwards | PCRU, PE, SE, PIU and provincial authorities
+105. | Improved co-ordination and harmonisation of all infrastructure programmes | Coordination and harmonisation of all infrastructure programmes supported by SIG and different Development Partners, based on the recommendations of the review on primary education infrastructure programme and internal reviews by PIU on the infrastructure for secondary schools Implementation of agreed findings by review team on primary education infrastructure programme Strengthening of infrastructure team in MEHRD | From 2nd quarter 2007 onwards | PCRU, PE, SE, PIU and provincial authorities
 106. | Provincial education authorities and communities trained in management and operation of school infrastructure programme | Strengthening of provincial education offices, school committees and school boards in management and operation of the school infrastructure programme | From mid 2007 onwards | PCRU, PE, SE, PIU and provincial authorities
 
 125
