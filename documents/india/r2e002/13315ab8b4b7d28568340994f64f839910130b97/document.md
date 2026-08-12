@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-Eleventh Five Year Plan 2007-12
+Eleventh Five Year Plan 2007–12
 
-Volume  I I
+Volume II
 
-# Eleventh Five Year Plan 2007-12
+# Eleventh Five Year Plan 2007–12
 
-## V o l u m e   I I SOCIAL  SECTOR
+## Volume II SOCIAL SECTOR
 
 Planning Commission
 
@@ -16,7 +16,7 @@ Government of India
 
 [[START OF PAGE 2]]
 
-# Eleventh Five Year Plan (2007-2012)
+# Eleventh Five Year Plan (2007–2012)
 
 ## Social Sector
 
@@ -64,9 +64,30 @@ Published by Oxford University Press YMCA Library Building, Jai Singh Road, New 
 
 [[START OF PAGE 4]]
 
-1
+iii
 
 # Contents
+
+List of Tables v
+List of Figures vii
+List of Boxes viii
+List of Annexures x
+List of Acronyms xi
+1. EDUCATION 1
+1.1 Elementary Education and Literacy 1
+1.2 Secondary Education and Vocational Education (VE) 14
+1.3 Higher and Technical Education 21
+2. YOUTH AFFAIRS AND SPORTS AND ART AND CULTURE 41
+2.1 Youth Affairs and Sports 41
+2.2 Art and Culture 48
+3. HEALTH AND FAMILY WELFARE AND AYUSH 57
+3.1 Health and Family Welfare 57
+3.2 Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy (AYUSH) 108
+4. NUTRITION AND SOCIAL SAFETY NET 128
+4.1 Food and Nutrition 128
+4.2 Social Security 149
+5. DRINKING WATER, SANITATION, AND CLEAN LIVING CONDITIONS 162
+6. TOWARDS WOMEN’S AGENCY AND CHILD RIGHTS 184
 
 [[END OF PAGE 4]]
 
@@ -78,31 +99,125 @@ Published by Oxford University Press YMCA Library Building, Jai Singh Road, New 
 
 [[START OF PAGE 6]]
 
-1
+v
 
 # Tables
+
+1.1.1 GER in Primary and Upper Primary Schools 3
+1.1.2 Number of Female Teachers per 100 Male Teachers 4
+1.1.3 Dropout Rates by Social Composition, 2004–05 4
+1.1.4 Learning Achievements at Elementary Level 5
+1.1.5 Distribution of SSA 6
+1.1.6 Schools without Basic Facilities, 2005–06 8
+1.1.7 Elementary Schools by Management 8
+1.2.1 Secondary Education—Enrolment and Dropout, 2004–05 15
+1.3.1 Growth of Higher Education System 22
+1.3.2 Disparities in GER, 2004–05 22
+2.1.1 Plan Expenditure on Youth Affairs and Sports 45
+3.1.1 Health Indicators among Selected Countries 58
+3.1.2 Goals and Achievements during the Tenth Plan 59
+3.1.3 Urban/Rural Health Indicators 61
+3.1.4 Disease Burden Estimation, 2005 62
+3.1.5 Shortfall in Health Infrastructure—All India 64
+3.1.6 Shortfall in Health Personnel—All India 66
+3.1.7 Percentage Share of Household Expenditure on Health and Drugs in Various States 77
+3.2.1 Registered Medical Practitioners under AYUSH 110
+3.2.2 Details of Educational Institutions and their Capacity 110
+3.2.3 System-wise Details of Manufacturing Units 111
+4.1.1 Distribution of Children by Protein-calorie Adequacy Status 130
+4.1.2 Changes in Average per capita Cereal Consumption in 15 States in Physical Terms over the Last Decade in Major States 130
+4.1.3 Composition of Food Consumption, All-India, Rural, and Urban, 1972–73 to 2004–05 131
+4.1.4 Trends in Childhood (0–3 Years of Age)—Malnutrition in India 131
+4.1.5 Per Capita Intake of Calorie and Protein 132
+4.1.6 Procurement of Rice in DCP States during Kharif Marketing Season 134
+4.1.7 Food Subsidy 134
+4.1.8 PDS Implied Leakage—Offtake vs Consumption 138
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-(this page came through the extractor with no text)
+vi Tables
+
+5.1 Percentage of Population Covered with Water Supply Facilities 162
+5.2 Status of Water Supply, Wastewater Generation, and Treatment in Class I Cities/Class II Towns in 2003–04 176
+6.1 Work Participation Rates by Sex (1972 to 2005) 188
+6.2 Average Wage/Salary Earnings (Rs Per Day) Received by Regular Wage/Salaried Employees of Age 15–59 Years for Different Education Levels 189
+6.3 Women in the Government Sector 190
+6.4 Women’s Political Participation: Global Picture 191
+6.5 Sectoral Allocation and Expenditure in Budget for Children (BFC) as percentage of the Union Budget 204
+6.6 Monitorable Targets for the Tenth Plan and Achievements 205
+6.7 Health Status of Children in India vis-à-vis in Other E-9 Countries 205
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-1
+vii
 
 # Figures
+
+1.1.1 Enrolment in Elementary Education 3
+1.1.2 Reduction in Out-of-School Children 4
+1.2.1 Secondary Schools by Management 15
+2.1.1 Centre vs State Share of Plan Expenditure 45
+3.1.1 Trends in Contraceptive Use (%) (currently married women in 15–49 age group) 59
+3.1.2 MMR in India: Trends Based on Log-linear Model, 1997–2012 60
+3.1.3 Trends in Full Immunization Coverage 60
+3.1.4 IMR in India 60
+3.1.5 Number of AIDS Cases in States, 2006 62
+3.1.6 Malaria Cases and Pf Cases, India 63
+3.1.7 Percentage of Cataract Surgeries with IOL 64
+3.1.8 NRHM—Illustrative Structure 65
+3.1.9 Number of Persons per Specialist at CHCs, 2006 66
+3.1.10 Percentage of Cases of Hospitalized Treatment by Type of Hospital in Rural Areas 68
+3.1.11 Percentage of Cases of Hospitalized Treatment by Type of Hospital in Urban Areas 68
+3.1.12 Percentage of Treated Ailments Receiving Non-hospitalized Treatment from Government Sources 69
+3.1.13 Average Medical Expenditure (Rs) per Hospitalization Case 69
+3.1.14 Unmet Need for Family Planning (currently married women, age 15–49) 95
+3.1.15 Source of Health Care Financing in India, 2001–02 106
+3.1.16 Growth of per capita Health Expenditure by Centre and States—Nominal and Real Terms 107
+6.1 Child Workers 216
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-1
+viii
 
 # Boxes
+
+1.1.1 Best Practices under MDMS 8
+1.1.2 National Commission on Education 9
+1.1.3 Eleventh Plan Targets and Special Focus Areas 13
+1.3.1 Private Sector Participation in Higher Education 24
+1.3.2 Basic Features of a Model CU 27
+1.3.3 Mohali Knowledge City—Advantages of Clustering 30
+1.3.4 Faculty Augmentation and Development in Science and Technology 31
+2.1.1 Objectives of the Eleventh Plan—Youth Affairs 43
+2.1.2 Commonwealth Games (CG) 2010 and Commonwealth Youth Games (CYG) 2008 44
+2.1.3 Objectives for Eleventh Plan—Sports and Physical Education 46
+2.2.1 Strategies for the Eleventh Plan 52
+2.2.2 Specific Plan of Action for Art and Culture 53
+3.1.1 Drawbacks of the Public Health System 67
+3.1.2 Vertical Programmes 67
+3.1.3 Sarva Swasthya Abhiyan 70
+3.1.4 Five Planks of the NRHM 71
+3.1.5 Akha—Ship of Hope 74
+3.1.6 Cultural Alignment 75
+3.1.7 Essential Drug Supply—Tamil Nadu Experience 77
+3.1.8 Role of PRIs 79
+3.1.9 Communitization in Nagaland 79
+3.1.10 Public–Private Partnership (PPP) 81
+3.1.11 Making Health Care Affordable—The Experience of Jan Swasthya Sahyog (JSS) 86
+3.1.12 Telemedicine 87
+3.1.13 Home Based Newborn Care—Gadchiroli Model 91
+3.1.14 Strengthening Immunization 93
+3.1.15 Innovative School Health Programme—Udaipur Model 93
+3.1.16 Older Persons’ Health 94
+3.1.17 Janani—Using RHPs 95
+3.1.18 Facilitating Action by Private Sector 96
+3.1.19 Human Resources for Health 97
 
 [[END OF PAGE 9]]
 
@@ -110,41 +225,127 @@ Published by Oxford University Press YMCA Library Building, Jai Singh Road, New 
 
 Boxes ix
 
+3.1.20 Role of RMPs as Sahabhaagis in NRHM 98
+3.1.21 Some Innovative Financing Mechanisms 105
+3.2.1 AYUSH Interventions under NRHM 109
+3.2.2 Research Initiatives 112
+3.2.3 Important New Initiatives during the Eleventh Plan 114
+4.1.1 Performance Evaluation of TPDS 135
+5.1 Success Stories in Sustainability—Ooranis—The Lifelines of Rural Tamil Nadu 164
+5.2 Urban Slum Water Supply 168
+5.3 Public Utilities Board (PUB) Singapore 169
+5.4 PPP in Urban Water Supply 170
+5.5 Sea Water Desalination Initiative by National Institute of Ocean Technology (NIOT), Chennai, Pure Water at Six Paise per Litre 171
+5.6 How Suravadi Panchayat in Phaltan Block in Satara District of Maharashtra won the Nirmal Gram Puraskar (NGP) 174
+5.7 Success in SWM—The Case of Surat 177
+6.1 Essence of the Approach 185
+6.2 Schemes (major) for Women during Tenth Plan 185
+6.3 Learn More, Earn More, Discriminate More 187
+6.4 Ordinary Women Who Did the Extraordinary 193
+6.5 Ensuring Equality for Muslim Women: A Big Challenge 195
+6.6 Leadership Development of Minority Women: A Proposed Pilot Scheme 196
+6.7 Hope for Single Women 197
+6.8 Panchayat Women: Ground Realities 198
+6.9 Tenth Plan Schemes for Children 203
+6.10 State of ICDS 204
+6.11 Socio-Economic Status of Children 206
+6.12 Child Immunization: South Asia Performance 206
+6.13 Nutrition Status of Children 207
+6.14 Balwadis and Phoolwaris: Focussing on Under Threes 211
+6.15 Child Protection 212
+
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-1
+x
 
 # Annexures
+
+1.2.1 Major Education Statistics, 2004–05 37
+1.3.1 National Institutions 39
+1.3.2 Oversight Committee—Sector-wise Expenditure 40
+2.1.1 Youth Affairs and Sports—Outlay and Anticipated Expenditure of the Tenth Plan 56
+2.2.1 Culture—Outlay and Expenditure of the Tenth Plan 56
+3.1.1 Department of Health and Family Welfare (Other than NRHM) Scheme-wise Outlay and Actual Expenditure during the Tenth Plan 116
+3.1.2 Department of Health (H) and Family Welfare (FW)—NRHM 119
+3.1.3 Health—State Plan Outlays and Expenditure 120
+3.1.4 Maternal Mortality Ratio—India and Major States 121
+3.1.5 Sex Ratio (0–6 Years) (India and States/UTs) 122
+3.1.6 Infant Mortality Rate—India and States/UTs 123
+3.1.7 Total Fertility Rate—India and Major States 124
+3.1.8 Schemes under Health and Family Welfare 124
+3.2.1 State-wise/System-wise Number of AYUSH Hospitals with their Bed Strength in India as on 1.4.2007 125
+3.2.2 State-wise/System-wise Number of AYUSH Dispensaries in India as on 1.4.2007 126
+3.2.3 Department of AYUSH—Scheme-wise Tenth Plan Outlay and Expenditure 127
+3.2.4 Schemes under Department of AYUSH 127
+4.1.1 Malnutrition of Children (0–3 Years), by State 156
+4.1.2 State-wise Malnutrition Rate of Children in Various Age Groups 157
+4.1.3 Anaemia among Women (15–49 Years) 158
+4.1.4 Distribution of Cardholders among Poor and Non-poor 159
+4.1.5 PDS Benefits—Rice and Wheat 160
+4.1.6 Beneficiaries of any Programme (Annapurna, FFW, ICDS, MDM) 161
+5.1 Cases and Deaths due to Water-borne Diseases in Various States 182
+5.2 Burden of Major Communicable Diseases in Various States 183
+6.1 Selected Development Indicators Relating to Women 219
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-1
+xi
 
 # Acronyms
 
-A&N Islands AABY | Andaman and Nicobar Islands | BRCs | Block Resource Centres Commission for
---- | --- | --- | ---
-AAY | Aam Admi Bima Yojana Antyodaya Anna Yojana | CACP | Agricultural Costs and Prices
-AICTE | All India Council for Technical Education | CBHI CBSE | Community Based Health Insurance Central Board of Secondary
-AIDS | Acquired Immune Defficiency Syndrome | CCIM | Education Central Council of Indian Medicine
-AIE ANC | Alternative and Innovative Education Antenatal Care | CCRAS | Central Council for Research in Ayurveda & Siddha
-ANM APL | Auxiliary Nurse Midwife Above Poverty Line | CCRT | Centre for Cultural Resources and Training
-ARI ARV | Acute Respiratory Infections Antiretroviral | CEC | Consortium for Educational Communication Centre
-ARWSP | Accelerated Rural Water Supply Programme | CEP CG | Continuing Education Programmes Commonwealth Games
-ASCs | Academic Staff Colleges | CGHS | Central Government Health Scheme
-ASHA | Accredited Social Health Activist | CHCs | Community Health Centres
-ASI | Archaeological Survey of India | CICT | Central Institute of Classical Tamil
-ASU&H | Ayurveda, Siddha, Unani, and Homeopathy | CIIL CIP | Central Institute of Indian Languages Central Issue Prices
-AUWSP | Accelerated Urban Water Supply Programme | CME CP | Continuing Medical Education Community Polytechnics
-AVIs AWW | Accredited Vocational Institutes Anganwadi Worker | CRCs | Cluster Resource Centres Central sector scheme
-AYUSH | Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy | CS CSIR | Council of Scientific and Industrial Research
-BFC | Budget for Children | CSO | Civil Society Organization
-BITS | Birla Institute of Technology & Science | CSO CSS | Central Statistical Organization Centrally sponsored scheme
-BMI BPL | Body Mass Index Below Poverty Line | CSWB CTE | Central Social Welfare Board College of Teacher Education
+A&N Islands Andaman and Nicobar Islands
+AABY Aam Admi Bima Yojana
+AAY Antyodaya Anna Yojana
+AICTE All India Council for Technical Education
+AIDS Acquired Immune Defficiency Syndrome
+AIE Alternative and Innovative Education
+ANC Antenatal Care
+ANM Auxiliary Nurse Midwife
+APL Above Poverty Line
+ARI Acute Respiratory Infections
+ARV Antiretroviral
+ARWSP Accelerated Rural Water Supply Programme
+ASCs Academic Staff Colleges
+ASHA Accredited Social Health Activist
+ASI Archaeological Survey of India
+ASU&H Ayurveda, Siddha, Unani, and Homeopathy
+AUWSP Accelerated Urban Water Supply Programme
+AVIs Accredited Vocational Institutes
+AWW Anganwadi Worker
+AYUSH Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy
+BFC Budget for Children
+BITS Birla Institute of Technology & Science
+BMI Body Mass Index
+BPL Below Poverty Line
+BRCs Block Resource Centres
+CACP Commission for Agricultural Costs and Prices
+CBHI Community Based Health Insurance
+CBSE Central Board of Secondary Education
+CCIM Central Council of Indian Medicine
+CCRAS Central Council for Research in Ayurveda & Siddha
+CCRT Centre for Cultural Resources and Training
+CEC Consortium for Educational Communication Centre
+CEP Continuing Education Programmes
+CG Commonwealth Games
+CGHS Central Government Health Scheme
+CHCs Community Health Centres
+CICT Central Institute of Classical Tamil
+CIIL Central Institute of Indian Languages
+CIP Central Issue Prices
+CME Continuing Medical Education
+CP Community Polytechnics
+CRCs Cluster Resource Centres
+CS Central sector scheme
+CSIR Council of Scientific and Industrial Research
+CSO Civil Society Organization
+CSO Central Statistical Organization
+CSS Centrally sponsored scheme
+CSWB Central Social Welfare Board
+CTE College of Teacher Education
 
 [[END OF PAGE 12]]
 
@@ -152,85 +353,157 @@ BMI BPL | Body Mass Index Below Poverty Line | CSWB CTE | Central Social Welfare
 
 xii Acronyms
 
-CTSs | Central Tibetan Schools | GER | Gross Enrolment Ratio
---- | --- | --- | ---
-CU | Central University | GLV | Green Leafy Vegetables
-CVDs | Cardiovascular Diseases | GMP | Good Manufacturing Practices
-CWSN | Children with Special Needs | GO | Government Organization
-CYG | Commonwealth Youth Games | GoI | Government of India
-CYP | Commonwealth Youth Programme | HAMA | Hindu Adoption and Maintenance
-D&N Haveli | Dadra and Nagar Haveli | Act
-DAE | Department of Atomic Energy | HBNC | Home Based Newborn Care
-DBT | Department of Biotechnology | HIV | Human Immunodeficiency Virus
-DCPU | District Child Protection Unit | HLC | High-level Committee
-DDWS | Department of Drinking Water Supply | HMIS | Health Management Information System
-DIETs | District Institutes of Education and Training | IASE | Institute of Advanced Study in Education
-DISE | District Information System for Education | ICAR | Indian Council of Agricultural Research
-DIT | Department of Information Technology | ICDS | Integrated Child Development Services
-DLHS | District Level Health Surveys | ICMR | Indian Council of Medical Research
-DMHP | District Mental Health Programme | ICPS | Integrated Child Protection Scheme
-DOC DoT | Department of Culture Department of Telecommunications | ICTs | Information and Communication Technologies
-DOTS | Directly Observed Treatment, Short Course | IDA IDD | Iron Deficiency Anaemia Iodine Deficiency Disorders
-DPA | Dowry Prohibition Act | IDSP | Integrated Disease Surveillance Project
-DPEP DRC | District Primary Education Programme District Resource Centre | IEC | Information, Education, and Communication
-Educationally Backward Blocks | Disabled Children Inclusive Education for the Disabled
-EBB ECCE | Technology Early Childhood Care and | IEDSS | at Secondary Stage
-Education Electrocardiogram | IFA | Iron Folic Acid Indira Gandhi National Centre
-ECG | Education Satellite | IGNCA | for Arts
-EDUSAT EFA | Education For All Education Guarantee | IGNOU | Indira Gandhi National Open University
-EGS EmOC | Scheme Emergency Obstetric Care | International Institute of Information Technology
-EPFO | Employees' Provident Fund Organization | IIIT IIM | Indian Institute of Management
-ESIC | Employees State Insurance Corporation | IIPS | International Institute for Population Sciences
-FCI | Food Corporation of India | IISc | Indian Institute of Science
-FPS | Fair Price Shop | IISER | Indian Institute of Science
-First Referral Units | Education and Research Integrated Information System
-FRUs GBS | Gross Budgetary Support | IISFM | for
-GDP | Foodgrains Management
-Gross Domestic Product
+CTSs Central Tibetan Schools
+CU Central University
+CVDs Cardiovascular Diseases
+CWSN Children with Special Needs
+CYG Commonwealth Youth Games
+CYP Commonwealth Youth Programme
+D&N Haveli Dadra and Nagar Haveli
+DAE Department of Atomic Energy
+DBT Department of Biotechnology
+DCPU District Child Protection Unit
+DDWS Department of Drinking Water Supply
+DIETs District Institutes of Education and Training
+DISE District Information System for Education
+DIT Department of Information Technology
+DLHS District Level Health Surveys
+DMHP District Mental Health Programme
+DOC Department of Culture
+DoT Department of Telecommunications
+DOTS Directly Observed Treatment, Short Course
+DPA Dowry Prohibition Act
+DPEP District Primary Education Programme
+DRC District Resource Centre
+DST Department of Science and Technology
+EBB Educationally Backward Blocks
+ECCE Early Childhood Care and Education
+ECG Electrocardiogram
+EDUSAT Education Satellite
+EFA Education For All
+EGS Education Guarantee Scheme
+EmOC Emergency Obstetric Care
+EPFO Employees’ Provident Fund Organization
+ESIC Employees State Insurance Corporation
+FCI Food Corporation of India
+FPS Fair Price Shop
+FRUs First Referral Units
+GBS Gross Budgetary Support
+GDP Gross Domestic Product
+GER Gross Enrolment Ratio
+GLV Green Leafy Vegetables
+GMP Good Manufacturing Practices
+GO Government Organization
+GoI Government of India
+HAMA Hindu Adoption and Maintenance Act
+HBNC Home Based Newborn Care
+HIV Human Immunodeficiency Virus
+HLC High-level Committee
+HMIS Health Management Information System
+IASE Institute of Advanced Study in Education
+ICAR Indian Council of Agricultural Research
+ICDS Integrated Child Development Services
+ICMR Indian Council of Medical Research
+ICPS Integrated Child Protection Scheme
+ICTs Information and Communication Technologies
+IDA Iron Deficiency Anaemia
+IDD Iodine Deficiency Disorders
+IDSP Integrated Disease Surveillance Project
+IEC Information, Education, and Communication
+IEDC Integrated Education for the Disabled Children
+IEDSS Inclusive Education for the Disabled at Secondary Stage
+IFA Iron Folic Acid
+IGNCA Indira Gandhi National Centre for Arts
+IGNOU Indira Gandhi National Open University
+IIIT International Institute of Information Technology
+IIM Indian Institute of Management
+IIPS International Institute for Population Sciences
+IISc Indian Institute of Science
+IISER Indian Institute of Science Education and Research
+IISFM Integrated Information System for Foodgrains Management
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-Acronyms
+Acronyms xiii
 
-xiii
-
-IIT | Indian Institute of Technology International Labour Organization | MDGs MDM | Millennium Development Goals Mid-Day Meal
---- | --- | --- | ---
-ILO IMNCI | Integrated Management of Neonatal and Childhood Illness | MDMS ME | Mid-Day Meal Scheme Monitoring and Evaluation
-IMR | Infant Mortality Rate | MHRD | Ministry of Human Resources
-INDEST | Indian National Digital Library for Engineering Sciences and Technology | MIS MLD | Development Management Information System Million Litres per Day
-INFLIBNET | Information for Library Network | MMR | Maternal Mortality Ratio
-IOL | Intra Ocular Lens | MOEF | Ministry of Environment and Forests
-IPERPO | Intellectual Property Education, Research, and Public Outreach | MoHFW MO | Ministry of Health and Family Welfare Medical Officers Ministry of Rural Development
-IPHS | Indian Public Health Service Standards | MoRD MoU | Memorandum of Understanding Madhya Pradesh
-IPR | Intellectual Property Right Indian Systems of | MP | Member of Parliament
-ISM | Medicine | MP
-ISRO | Indian Space Research Organization | MPCC | Multipurpose Cultural Complexes Multipurpose Workers
-IT | Information Technology | MPWs
-ITPA | Immoral Traffic (Prevention) Act | MS | Mahila Samakhya
-J&K | Jammu and Kashmir | MSP | Minimum Support Price
-JNNURM | Jawaharlal Nehru National Urban Renewal Mission | MTP NAAC | Medical Termination of Pregnancy National Accreditation Assessment
-JRF | Junior Research Fellowship | Council
-JSK | Jansankhya Sthirata Kosh | NABH | National Accreditation Board for Hospitals and Health Care
-JSS JSS | Jan Shikshan Sansthan Jan Swasthya Sahyog | NACO | Providers National AIDS Control Organization
-JSY | Janani Suraksha Yojana | NACP | National AIDS Control Programme
-KGBVS | Kasturba Gandhi Balika Vidyalaya Scheme | NAI NBA | National Archives of India National Board of Accreditation
-LBW | Low Birth Weight | NBT | National Book Trust
-LEAP | Lifelong Education and Awareness Programme | NCCP | National Cancer Control Non-communicable Diseases
-NCDs | Programme
-LF LHVs | Lymphatic Filariasis Lady Health Visitors | NCDC NCERT | National Centre for Disease Control National Council of Educational
-LKA LNIPE | Lalit Kala Akademi Laxmibai National Institute Physical Education | NCEUS | Research and Training National Commission for in the Unorganized Sector
-LPCD | of Day | Enterprises
-Litres Per Capita per | NCF | National Curriculum Framework
-M/o WCD | Ministry of Women and Child Development | NCF NCMH | National Culture Fund National Commission on
-MBA MCA | Master of Computer Maternal and Child Health | National Council of Science
-MASCs | Multi-Application Smart Cards Master of Business Administration Applications | NCMP | Macroeconomics and Health National Common Minimum Programme
-MCH | NCSM | Museums
-National Council for Teacher
-MCI | Medical Council of India
-MDA | Mass Drug Administration | NCTE | Education
+IIT Indian Institute of Technology
+ILO International Labour Organization
+IMNCI Integrated Management of Neonatal and Childhood Illness
+IMR Infant Mortality Rate
+INDEST Indian National Digital Library for Engineering Sciences and Technology
+INFLIBNET Information for Library Network
+IOL Intra Ocular Lens
+IPERPO Intellectual Property Education, Research, and Public Outreach
+IPHS Indian Public Health Service Standards
+IPR Intellectual Property Right
+ISM Indian Systems of Medicine
+ISRO Indian Space Research Organization
+IT Information Technology
+ITPA Immoral Traffic (Prevention) Act
+J&K Jammu and Kashmir
+JNNURM Jawaharlal Nehru National Urban Renewal Mission
+JRF Junior Research Fellowship
+JSK Jansankhya Sthirata Kosh
+JSS Jan Shikshan Sansthan
+JSS Jan Swasthya Sahyog
+JSY Janani Suraksha Yojana
+KGBVS Kasturba Gandhi Balika Vidyalaya Scheme
+KVs Kendriya Vidyalayas
+LBW Low Birth Weight
+LEAP Lifelong Education and Awareness Programme
+LF Lymphatic Filariasis
+LHVs Lady Health Visitors
+LKA Lalit Kala Akademi
+LNIPE Laxmibai National Institute of Physical Education
+LPCD Litres Per Capita per Day
+M/o WCD Ministry of Women and Child Development
+MASCs Multi-Application Smart Cards
+MBA Master of Business Administration
+MCA Master of Computer Applications
+MCH Maternal and Child Health
+MCI Medical Council of India
+MDA Mass Drug Administration
+MDGs Millennium Development Goals
+MDM Mid-Day Meal
+MDMS Mid-Day Meal Scheme
+ME Monitoring and Evaluation
+MHRD Ministry of Human Resources Development
+MIS Management Information System
+MLD Million Litres per Day
+MMR Maternal Mortality Ratio
+MOEF Ministry of Environment and Forests
+MoHFW Ministry of Health and Family Welfare
+MO Medical Officers
+MoRD Ministry of Rural Development
+MoU Memorandum of Understanding
+MP Madhya Pradesh
+MP Member of Parliament
+MPCC Multipurpose Cultural Complexes
+MPWs Multipurpose Workers
+MS Mahila Samakhya
+MSP Minimum Support Price
+MTP Medical Termination of Pregnancy
+NAAC National Accreditation Assessment Council
+NABH National Accreditation Board for Hospitals and Health Care Providers
+NACO National AIDS Control Organization
+NACP National AIDS Control Programme
+NAI National Archives of India
+NBA National Board of Accreditation
+NBE National Board of Examinations
+NBT National Book Trust
+NCCP National Cancer Control Programme
+NCDs Non-communicable Diseases
+NCDC National Centre for Disease Control
+NCERT National Council of Educational Research and Training
+NCEUS National Commission for Enterprises in the Unorganized Sector
+NCF National Curriculum Framework
+NCF National Culture Fund
+NCMH National Commission on Macroeconomics and Health
+NCMP National Common Minimum Programme
+NCSM National Council of Science Museums
+NCTE National Council for Teacher Education
 
 [[END OF PAGE 14]]
 
@@ -238,104 +511,161 @@ MDA | Mass Drug Administration | NCTE | Education
 
 xiv Acronyms
 
-NCW | National Commission for Women | NSS | National Sample Surveys
---- | --- | --- | ---
-NDA | National Drug Authority | NSSO | National Sample Survey
-NE | North East, North Eastern | Organization
-NER | North Eastern Region | NSVS | National Service Volunteers
-NERIST | North Eastern Regional Institute of | Scheme
-NET | Science and Technology National Education Testing | NUEPA | National University of Educational Planning Administration
-NFHS | National Family Health Survey | NUHM | National Urban Health Mission
-NGCP | National Goitre Control Programme | NVs | Navodaya Vidyalayas
-NGO | Non-Governmental Organization | NVQ | National Vocational Qualification
-NHA | National Health Account | NYKS | Nehru Yuva Kendra Sangathan
-NIC | National Informatics Centre | O&M | Operation and Maintenance
-NICD | National Institute of | OBC | Other Backward Classes
-Communicable Diseases | OPD | Out Patient Department
-NIDDCP | National Iodine Deficiency | OP/IP | Out Patient/In Patient
-Disorders Control Programme | ORS | Oral Rehydration Solution
-NIOS | National Institute of Open Schooling | OSC | Oversight Committee
-NITs | National Institutes of Technology | PC&PNDT | Act Pre-Conception and Pre-Natal
-NITTTRs | National Institutes of Technical | Diagnostic Techniques Act
-Teachers Training and Research | PDS | Public Distribution System
-NLM | National Literacy Mission | PEM | Protein-Energy Malnutrition
-NLSI | New Linguistic Survey of India | PEO | Programme Evaluation
-NMBS | National Maternity Benefit Scheme | Organization
-NMHP | National Mental Health Programme | Pf | Plasmodium falciparum
-NMPB | National Medicinal Plants Board | PFA | Prevention of Food Adulteration
-NNAP | National Nutritional Anaemia Prophylaxis | PGDM | Post Graduate Diploma in Management
-NNMB | National Nutrition Monitoring Bureau | PHC PHFI | Primary Health Centre Public Health Foundation of India
-NMR | Neonatal Mortality Rate | PIP | Project Implementation Plan
-NOAPS | National Old Age Pension Scheme | PLP | Post Literacy Projects
-NPE | National Policy of Education | PLWHA | People Living With HIV/AIDS
-NPEGEL | National Programme for Education of Girls at Elementary Level | PMR | Physical Medicine and Rehabilitation
-NPTEL | National Programme on | PMSSY | Pradhan Mantri Swasthya Suraksha
-NREGA | Technology Enhanced Learning National Rural Employment | Yojana
-Act | PPP | Public-Private Partnership Institutions
-Guarantee | PRIs | Panchayati Raj
-NREGP | National Rural Employment | PSE | Pre-school Education
-Guarantee Programme | PTR | Pupil Teacher Ratio
-NRHM | National Rural Health Mission | PUB | Public Utilities Board
-NSAP | National Social Assistance | PWDVA | Protection of Women from Domestic Violence Act
-Programme
-NSERB | National Science and Engineering | PYKKA | Panchayat Yuva Krida Aur Khel
-Research Board | Abhiyan
-NSFs | National Sports Federations | R&D | Research and Development
-NSS | National Service Scheme | RCH | Reproductive and Child Health
+NCW National Commission for Women
+NDA National Drug Authority
+NE North East, North Eastern
+NER North Eastern Region
+NERIST North Eastern Regional Institute of Science and Technology
+NET National Education Testing
+NFHS National Family Health Survey
+NGCP National Goitre Control Programme
+NGO Non-Governmental Organization
+NHA National Health Account
+NIC National Informatics Centre
+NICD National Institute of Communicable Diseases
+NIDDCP National Iodine Deficiency Disorders Control Programme
+NIOS National Institute of Open Schooling
+NITs National Institutes of Technology
+NITTTRs National Institutes of Technical Teachers Training and Research
+NLM National Literacy Mission
+NLSI New Linguistic Survey of India
+NMBS National Maternity Benefit Scheme
+NMHP National Mental Health Programme
+NMPB National Medicinal Plants Board
+NNAP National Nutritional Anaemia Prophylaxis
+NNMB National Nutrition Monitoring Bureau
+NMR Neonatal Mortality Rate
+NOAPS National Old Age Pension Scheme
+NPE National Policy of Education
+NPEGEL National Programme for Education of Girls at Elementary Level
+NPTEL National Programme on Technology Enhanced Learning
+NREGA National Rural Employment Guarantee Act
+NREGP National Rural Employment Guarantee Programme
+NRHM National Rural Health Mission
+NSAP National Social Assistance Programme
+NSERB National Science and Engineering Research Board
+NSFs National Sports Federations
+NSS National Service Scheme
+NSS National Sample Surveys
+NSSO National Sample Survey Organization
+NSVS National Service Volunteers Scheme
+NUEPA National University of Educational Planning Administration
+NUHM National Urban Health Mission
+NVs Navodaya Vidyalayas
+NVQ National Vocational Qualification
+NYKS Nehru Yuva Kendra Sangathan
+O&M Operation and Maintenance
+OBC Other Backward Classes
+OPD Out Patient Department
+OP/IP Out Patient/In Patient
+ORS Oral Rehydration Solution
+OSC Oversight Committee
+PC&PNDT Act Pre-Conception and Pre-Natal Diagnostic Techniques Act
+PDS Public Distribution System
+PEM Protein-Energy Malnutrition
+PEO Programme Evaluation Organization
+Pf Plasmodium falciparum
+PFA Prevention of Food Adulteration
+PGDM Post Graduate Diploma in Management
+PHC Primary Health Centre
+PHFI Public Health Foundation of India
+PIP Project Implementation Plan
+PLP Post Literacy Projects
+PLWHA People Living With HIV/AIDS
+PMR Physical Medicine and Rehabilitation
+PMSSY Pradhan Mantri Swasthya Suraksha Yojana
+PPP Public–Private Partnership
+PRIs Panchayati Raj Institutions
+PSE Pre-school Education
+PTR Pupil Teacher Ratio
+PUB Public Utilities Board
+PWDVA Protection of Women from Domestic Violence Act
+PYKKA Panchayat Yuva Krida Aur Khel Abhiyan
+R&D Research and Development
+RCH Reproductive and Child Health
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-Acronyms
+Acronyms xv
 
-xv
-
-RGNDWM | Rajiv Gandhi National Drinking Water Mission | TBAs TEQIP | Traditional Birth Attendants Technical Education Quality
---- | --- | --- | ---
-RGNIYD | Rajiv Gandhi National Institute of | Improvement Programme
-Youth Development | TFC | Twelfth Finance Commission
-RHP | Rural Health Practitioners | TFR | Total Fertility Rate
-RMP | Registered Medical Practitioner | THRs | Take Home Ration
-RNTCP | Revised National Tuberculosis | TISS | Tata Institute of Social Sciences
-Control Programme | TLC | Total Literacy Campaigns
-RSY | Rashtriya Sadbhavana Yojana | TLE | Teaching Learning Equipment
-RTI | Reproductive Tract Infections | TMSSML | Thanjavur Maharaja Serofji
-RTE | Ready To Eat | Saraswati Mahal Library
-S&T | Science and Technology | TPA | Third Party Administrator
-SA | Sahitya Akademi | TPDS | Targeted Public Distribution
-SAI | Sports Authority of India | System
-SBAs | Skilled Birth Attendants | TSC | Total Sanitation Campaign
-SC | Sub-centre | TSP | Tribal Sub Plan
-SC | Scheduled Caste | TTIs | Teacher Training Institutions
-SCERT | State Council for Educational | UEE | Universalization of Elementary
-Research and Training | Education
-SCSP | Scheduled Caste Sub-Plan | UFW | Unaccounted For Water
-SDM | Skill Development Mission | UGC | University Grants Commission
-SET | State Eligibility Test | UIDSSMT | Urban Infrastructure Development
-SEWA | Self Employed Women's | Scheme for Small and Medium Towns
-Association | UIT | Urban Improvement Trust
-SFDs | Special Focus Districts | ULB | Urban Local Body
-SHGs | Self-help Groups | UNESCO | United Nations Educational,
-SIEs | State Institutes of Education | Scientific and Cultural
-SLIET | Sant Longowal Institute of | Organization
-Engineering Technology | UNICEF | United Nations International
-SNA SNP | Sangeet Natak Akademi Supplementary Nutrition Programme | UP | Children's Emergency Fund Uttar Pradesh
-SOS | State Open Schools | UPS | Upper Primary Schools
-SOUs | State Open Universities | UPS | Uninterrupted Power Supply
-SRB | Sex Ratio at Birth | UT | Union Territory
-SRCs | State Resource Centres | VAD | Vitamin A Deficiency
-SRS | Sample Registration System | VAW | Violence Against Women
-SSA | Sarva Shiksha Abhiyan | VE | Vocational Education
-ST | Scheduled Tribe | VECs | Village Education Committees
-STD | Sexually Trasmitted Disease | VHSCs | Village Health and Sanitation
-STEP | Support to Training and | Committees
-Employment Programme | VO | Voluntary Organization
-STI | Sexually Transmitted Infections | WB | West Bengal
-SUCCESS | Scheme for Universalization of Access | WCD | Women and Child Development
-and Improvement of Quality | WCU | World Class Universities
-of Secondary Education | WHO | World Health Organization
-SWM | Solid Waste Management | ZBB | Zero Based Budgeting
+RGNDWM Rajiv Gandhi National Drinking Water Mission
+RGNIYD Rajiv Gandhi National Institute of Youth Development
+RHP Rural Health Practitioners
+RMP Registered Medical Practitioner
+RNTCP Revised National Tuberculosis Control Programme
+RSY Rashtriya Sadbhavana Yojana
+RTI Reproductive Tract Infections
+RTE Ready To Eat
+S&T Science and Technology
+SA Sahitya Akademi
+SAI Sports Authority of India
+SBAs Skilled Birth Attendants
+SC Sub-centre
+SC Scheduled Caste
+SCERT State Council for Educational Research and Training
+SCSP Scheduled Caste Sub-Plan
+SDM Skill Development Mission
+SET State Eligibility Test
+SEWA Self Employed Women’s Association
+SFDs Special Focus Districts
+SHGs Self-help Groups
+SIEs State Institutes of Education
+SLIET Sant Longowal Institute of Engineering Technology
+SNA Sangeet Natak Akademi
+SNP Supplementary Nutrition Programme
+SOS State Open Schools
+SOUs State Open Universities
+SRB Sex Ratio at Birth
+SRCs State Resource Centres
+SRS Sample Registration System
+SSA Sarva Shiksha Abhiyan
+ST Scheduled Tribe
+STD Sexually Trasmitted Disease
+STEP Support to Training and Employment Programme
+STI Sexually Transmitted Infections
+SUCCESS Scheme for Universalization of Access and Improvement of Quality of Secondary Education
+SWM Solid Waste Management
+TA Technical Assistance
+TBAs Traditional Birth Attendants
+TEQIP Technical Education Quality Improvement Programme
+TFC Twelfth Finance Commission
+TFR Total Fertility Rate
+THRs Take Home Ration
+TISS Tata Institute of Social Sciences
+TLC Total Literacy Campaigns
+TLE Teaching Learning Equipment
+TMSSML Thanjavur Maharaja Serofji Saraswati Mahal Library
+TPA Third Party Administrator
+TPDS Targeted Public Distribution System
+TSC Total Sanitation Campaign
+TSP Tribal Sub Plan
+TTIs Teacher Training Institutions
+UEE Universalization of Elementary Education
+UFW Unaccounted For Water
+UGC University Grants Commission
+UIDSSMT Urban Infrastructure Development Scheme for Small and Medium Towns
+UIT Urban Improvement Trust
+ULB Urban Local Body
+UNESCO United Nations Educational, Scientific and Cultural Organization
+UNICEF United Nations International Children’s Emergency Fund
+UP Uttar Pradesh
+UPS Upper Primary Schools
+UPS Uninterrupted Power Supply
+UT Union Territory
+VAD Vitamin A Deficiency
+VAW Violence Against Women
+VE Vocational Education
+VECs Village Education Committees
+VHSCs Village Health and Sanitation Committees
+VO Voluntary Organization
+WB West Bengal
+WCD Women and Child Development
+WCU World Class Universities
+WHO World Health Organization
+ZBB Zero Based Budgeting
+ZCCs Zonal Cultural Centres
 
 [[END OF PAGE 16]]
 
@@ -351,25 +681,25 @@ SWM | Solid Waste Management | ZBB | Zero Based Budgeting
 
 ## 1.1 ELEMENTARY EDUCATION AND LITERACY
 
-- 1.1.1 The role of education in facilitating  social and economic progress is well recognized. It opens up opportunities leading to both individual and group entitlements. Education, in its broadest sense of development of youth, is the most crucial input for empowering people with skills and knowledge and giving  them access to productive employment in future.  Improvements in education are not only expected to enhance efficiency but also augment the overall quality of life. The Eleventh Plan places the highest priority on education as a central instrument for achieving rapid and inclusive growth. It presents a comprehensive strategy for strengthening the education sector covering all segments of the education pyramid.
+1.1.1 The role of education in facilitating social and economic progress is well recognized. It opens up opportunities leading to both individual and group entitlements. Education, in its broadest sense of development of youth, is the most crucial input for empowering people with skills and knowledge and giving them access to productive employment in future. Improvements in education are not only expected to enhance efficiency but also augment the overall quality of life. The Eleventh Plan places the highest priority on education as a central instrument for achieving rapid and inclusive growth. It presents a comprehensive strategy for strengthening the education sector covering all segments of the education pyramid.
 
-- 1.1.2 Elementary education, that is, classes I-VIII consisting of primary (I-V) and upper primary (VI-VIII) is  the  foundation of the pyramid in the education system and has received a major push in the Tenth Plan through the Sarva Shiksha Abhiyan (SSA).
+1.1.2 Elementary education, that is, classes I–VIII consisting of primary (I–V) and upper primary (VI–VIII) is the foundation of the pyramid in the education system and has received a major push in the Tenth Plan through the Sarva Shiksha Abhiyan (SSA).
 
-- 1.1.3 In view of the demands of rapidly changing technology and the growth of knowledge economy, a mere eight years of elementary education would be grossly inadequate for our young children to acquire necessary skills to compete in the job market. Therefore, a  Mission for Secondary Education is essential to consolidate the gains of SSA and to move forward in establishing a knowledge society.
+1.1.3 In view of the demands of rapidly changing technology and the growth of knowledge economy, a mere eight years of elementary education would be grossly inadequate for our young children to acquire necessary skills to compete in the job market. Therefore, a Mission for Secondary Education is essential to consolidate the gains of SSA and to move forward in establishing a knowledge society.
 
-- 1.1.4 The Eleventh Plan must also pay attention to the problems in the higher education sector, where there is  a  need  to  expand the system and also to improve quality.
+1.1.4 The Eleventh Plan must also pay attention to the problems in the higher education sector, where there is a need to expand the system and also to improve quality.
 
-- 1.1.5 The Eleventh Plan will also have to address major challenges including bridging regional, social, and gender gaps at all levels of education.
+1.1.5 The Eleventh Plan will also have to address major challenges including bridging regional, social, and gender gaps at all levels of education.
 
 ### ELEMENTARY EDUCATION IN THE TENTH PLAN
 
 #### Major Schemes in the Tenth Plan
 
-- 1.1.6 The Tenth Plan laid emphasis on Universalization of Elementary Education (UEE) guided by five parameters: (i) Universal Access, (ii) Universal Enrolment, (iii) Universal Retention, (iv) Universal Achievement, and (v) Equity. The major schemes of elementary education sector during the Tenth Plan included SSA, District Primary Education Programme (DPEP), National Programme of Nutritional Support to Primary Education, commonly known as Mid-Day Meal Scheme (MDMS), Teacher Education Scheme, and Kasturba Gandhi Balika Vidyalaya Scheme (KGBVS). The schemes of Lok Jumbish and Shiksha Karmi were completed but DPEP will extend up to November 2008. KGBV has now been subsumed within SSA.
+1.1.6 The Tenth Plan laid emphasis on Universalization of Elementary Education (UEE) guided by five parameters: (i) Universal Access, (ii) Universal Enrolment, (iii) Universal Retention, (iv) Universal Achievement, and (v) Equity. The major schemes of elementary education sector during the Tenth Plan included SSA, District Primary Education Programme (DPEP), National Programme of Nutritional Support to Primary Education, commonly known as Mid-Day Meal Scheme (MDMS), Teacher Education Scheme, and Kasturba Gandhi Balika Vidyalaya Scheme (KGBVS). The schemes of Lok Jumbish and Shiksha Karmi were completed but DPEP will extend up to November 2008. KGBV has now been subsumed within SSA.
 
 ##### Sarva Shiksha Abhiyan (SSA)
 
-- 1.1.7 SSA, the principal programme for UEE, is the culmination of all previous endeavours and experiences in implementing various education programmes.
+1.1.7 SSA, the principal programme for UEE, is the culmination of all previous endeavours and experiences in implementing various education programmes.
 
 [[END OF PAGE 18]]
 
@@ -377,81 +707,92 @@ SWM | Solid Waste Management | ZBB | Zero Based Budgeting
 
 2 Eleventh Five Year Plan
 
-While each of these programmes and projects had a specific focus-Operation Blackboard on improving physical infrastructure; DPEP on primary education; Shiksha Karmi Project on teacher absenteeism, and Lok Jumbish Project on girls' education-SSA has been the single largest holistic programme addressing all aspects of elementary education covering over one million elementary schools and Education Guarantee Centre (EGS)/Alternate and Innovative Education (AIE) Centres and about 20 crore children.
+While each of these programmes and projects had a specific focus—Operation Blackboard on improving physical infrastructure; DPEP on primary education; Shiksha Karmi Project on teacher absenteeism, and Lok Jumbish Project on girls’ education—SSA has been the single largest holistic programme addressing all aspects of elementary education covering over one million elementary schools and Education Guarantee Centre (EGS)/Alternate and Innovative Education (AIE) Centres and about 20 crore children.
 
 ##### Performance of SSA and Related Schemes in Tenth Plan
 
 1.1.8 The specific goals of SSA during the Tenth Plan period were as follows:
 
-- All children to be in regular school, EGS, AIE, or 'Back-to-School' camp by 2005;
-
+- All children to be in regular school, EGS, AIE, or ‘Back-to-School’ camp by 2005;
 - Bridging all gender and social category gaps at primary stage by 2007 and at elementary education level by 2010;
-
 - Universal retention by 2010;
-
 - Focus on elementary education of satisfactory quality with emphasis on education for life.
 
 ###### UNIVERSAL ACCESS
 
-1.1.9 SSA has brought primary education to the doorstep of millions of children and enrolled them, including first generation learners, through successive fast track initiatives in hitherto unserved and underserved habitations. According to the VII Educational Survey (2002), the number of habitations that had a primary school within a distance of 1 km was 10.71 lakh (87%), the uncovered habitations numbered 1.61 lakh (13%), whereas, the number of habitations that had an upper primary school within a distance of 3 km was 9.61 lakh (78%). With the opening up of 1.32 lakh primary schools and 56000 EGS/AIE centres access to primary education is nearly achieved. About 0.89 lakh upper primary schools (UPS) have been provided up to 200607. At primary and at upper primary level the number of habitations remaining to be covered is estimated at almost 1 lakh.
+1.1.9 SSA has brought primary education to the doorstep of millions of children and enrolled them, including first generation learners, through successive fast track initiatives in hitherto unserved and underserved habitations. According to the VII Educational Survey (2002), the number of habitations that had a primary school within a distance of 1 km was 10.71 lakh (87%), the uncovered habitations numbered 1.61 lakh (13%), whereas, the number of habitations that had an upper primary school within a distance of 3 km was 9.61 lakh (78%). With the opening up of 1.32 lakh primary schools and 56000 EGS/AIE centres access to primary education is nearly achieved. About 0.89 lakh upper primary schools (UPS) have been provided up to 2006–07. At primary and at upper primary level the number of habitations remaining to be covered is estimated at almost 1 lakh.
 
-1.1.10 The number of primary schools (PS) in the country increased from 6.64 lakh in 2001-02 to 7.68 lakh in 2004-05. In the same period, the number of UPS increased at a faster rate from 2.20 lakh to 2.75 lakh. The sanction of 2.23 lakh new PS/UPS, 1.88 lakh new school buildings, and 6.70 lakh additional classrooms has made a big dent in reducing the school infrastructure gap.
+1.1.10 The number of primary schools (PS) in the country increased from 6.64 lakh in 2001–02 to 7.68 lakh in 2004–05. In the same period, the number of UPS increased at a faster rate from 2.20 lakh to 2.75 lakh. The sanction of 2.23 lakh new PS/UPS, 1.88 lakh new school buildings, and 6.70 lakh additional classrooms has made a big dent in reducing the school infrastructure gap.
 
 ###### UNIVERSAL ENROLMENT
 
 1.1.11 SSA had a sluggish start as States took considerable time to prepare district perspective plans. By the time the States realized the full potential of SSA, two and a half years had already rolled on. The urgency called for fast track initiatives. Household surveys, school mapping, constitution of Village Education Committees (VECs), setting up of Mother Teacher Associations and Parent Teacher Associations, and a series of campaigns for enrolment and context-specific strategies, all learnt from the experience of implementing DPEP, were used for good results in the next two and a half years. As a result, the second phase of enrolment drive by the States/union territories (UTs) was more systematic with household survey data reflecting substantially improved Gross Enrolment Ratio (GER) and a significant reduction in the number of out-of-school children. The strategy of providing AIE grants to Maktabs/Madarsas for introducing teaching of general subjects to minority children was also very fruitful.
 
-1.1.12 Consequently, the total enrolment at elementary education level increased from 159 million in 2001-02 to 182 million in 2004-05, an increase of over 23 million (Figure 1.1.1).
+1.1.12 Consequently, the total enrolment at elementary education level increased from 159 million in 2001–02 to 182 million in 2004–05, an increase of over 23 million (Figure 1.1.1).
 
-1.1.13 The following Table 1.1.1 shows GER for primary, upper primary, and elementary level from 2001-02 to 2004-05.
+1.1.13 The following Table 1.1.1 shows GER for primary, upper primary, and elementary level from 2001–02 to 2004–05.
 
 1.1.14 Social and gender disparity, existing at both primary and upper primary education levels, continues to be an issue to be tackled with more concerted and sustained efforts, especially in Bihar, Rajasthan, Jharkhand, Madhya Pradesh (MP), Gujarat, and Uttar Pradesh (UP).
 
-1.1.15 SSA interventions have brought down the number of out-of-school children from 32 million in 200102 to 7.0 million in 2006-07 (Figure 1.1.2). 48 districts in 10 States accounted for over 50000 out-of-school
+1.1.15 SSA interventions have brought down the number of out-of-school children from 32 million in 2001–02 to 7.0 million in 2006–07 (Figure 1.1.2). 48 districts in 10 States accounted for over 50000 out-of-school
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-Education
+Education 3
 
-3
+Primary Class (I–V)
+Number (in million)
+2002: Boys 63.6; Girls 50.3; Total 113.9
+2005: Boys 69.7; Girls 61.1; Total 130.8
 
-Source: Selected Educational Statistics, 2004-05 .
+Upper Primary Class (VI–VIII)
+Number (in million)
+2002: Boys 26.1; Girls 18.7; Total 44.8
+2005: Boys 28.5; Girls 22.7; Total 51.2
+
+Elementary (Class I–VIII)
+Number (in million)
+2002: Boys 89.7; Girls 69; Total 158.7
+2005: Boys 98.2; Girls 83.8; Total 182
+
+Boys Girls Total
+
+Source: Selected Educational Statistics, 2004–05.
 
 FIGURE 1.1.1: Enrolment in Elementary Education
 
-Stages | Gross Enrolment Ratio | %age point increase
+TABLE 1.1.1
+GER in Primary and Upper Primary Schools
+
+Stages | Gross Enrolment Ratio |  |  |  | %age point increase
 --- | --- | --- | --- | --- | ---
-2001-02 | 2002-03 | 2003-04 | 2004-05
-Primary (I-V)
+ | 2001–02 | 2002–03 | 2003–04 | 2004–05 |
+Primary (I–V) | | | | |
 Boys | 105.3 | 97.5 | 100.6 | 110.7 | 5.4
 Girls | 86.9 | 93.1 | 95.6 | 104.7 | 17.8
 All | 96.3 | 95.3 | 98.2 | 107.8 | 11.3
-Upper Primary (VI-VIII)
+Upper Primary (VI–VIII) | | | | |
 Boys | 67.8 | 65.3 | 66.8 | 74.3 | 6.5
 Girls | 52.1 | 56.2 | 57.6 | 65.1 | 13.0
 All | 60.2 | 61.0 | 62.4 | 69.9 | 9.7
-Elementary (I-VIII)
+Elementary (I–VIII) | | | | |
 Boys | 90.7 | 85.4 | 87.9 | 96.9 | 6.2
 Girls | 73.6 | 79.3 | 81.4 | 89.9 | 16.3
 All | 82.4 | 82.5 | 84.8 | 93.5 | 11.1
 
-TABLE 1.1.1 GER in Primary and Upper Primary Schools
+Source: Selected Educational Statistics, 2004–05.
 
-Source:
+children, each. The number of such districts declined to 29 in 2005–06. An independent study¹ estimated that about 6.9% of the total children in the 6–13 age groups were out of school and of them 2.1% accounted for dropouts and 4.8% for never-enrolled children, a bulk of whom apparently belonged to the poorer segments of rural households.
 
-Selected Educational Statistics, 2004-05 .
+1 Social and Rural Research Institute (2005), New Delhi.
 
-children, each. The number of such districts declined to 29 in 2005-06. An independent study 1 estimated that about 6.9% of the total children in the 6-13 age groups were out of school and of them 2.1% accounted for dropouts and 4.8% for never-enrolled children, a bulk of whom apparently belonged to the poorer segments of rural households.
-
-> 1 Social and Rural Research Institute (2005), New Delhi.
-
-1.1.16 The social  composition  of  out-of-school children indicates that 9.97% of Muslim children, 9.54% of Scheduled Tribes (STs), 8.17% of Scheduled Castes (SCs), and 6.97% of Other Backward Class (OBC) children were out of school and an overwhelming majority (68.7%) was concentrated in five States, viz.,  Bihar (23.6%), UP (22.2%), West Bengal (WB) (9%), MP (8%), and Rajasthan (5.9%).
+1.1.16 The social composition of out-of-school children indicates that 9.97% of Muslim children, 9.54% of Scheduled Tribes (STs), 8.17% of Scheduled Castes (SCs), and 6.97% of Other Backward Class (OBC) children were out of school and an overwhelming majority (68.7%) was concentrated in five States, viz., Bihar (23.6%), UP (22.2%), West Bengal (WB) (9%), MP (8%), and Rajasthan (5.9%).
 
 ###### UNIVERSAL RETENTION
 
-1.1.17 It is increasingly realized that retaining the disadvantaged children enrolled in schools is a far more challenging task than enrolling them into educational system. Around 22% children dropped out in classes I and II. Several factors, apart from their adverse socioeconomic conditions are responsible for this. The opportunity cost of girl-child education is quite high in the rural set up and she is often a 'nowhere child' , Source: Ministry of Human Resources Development (MHRD).
+1.1.17 It is increasingly realized that retaining the disadvantaged children enrolled in schools is a far more challenging task than enrolling them into educational system. Around 22% children dropped out in classes I and II. Several factors, apart from their adverse socio-economic conditions are responsible for this. The opportunity cost of girl-child education is quite high in the rural set up and she is often a ‘nowhere child’,
 
 [[END OF PAGE 20]]
 
@@ -459,59 +800,24 @@ children, each. The number of such districts declined to 29 in 2005-06. An indep
 
 4 Eleventh Five Year Plan
 
-3.20
-
-2.49
-
-1.16
-
-1.35
-
-0.95
-
-0.70
-
-0.00
-
-0.50
-
-1.00
-
-1.50
-
-2.00
-
-2.50
-
-3.00
-
-3.50
-
 Children (crore)
+2001–02 3.20
+2002–03 2.49
+2003–04 1.16
+2004–05 1.35
+2005–06 0.95
+2006–07 (July ’06) 0.70
 
-2001-02
-
-2002-03
-
-2003-04
-
-2004-05
-
-2005-06
-
-2006-07
-
-(July '06)
+Source: Ministry of Human Resources Development (MHRD).
 
 FIGURE 1.1.2: Reduction in Out-of-School Children
 
-neither in the school nor in the labour force but doing domestic work, mostly sibling care. It is well documented that the presence of female teachers often serves as a role model for girls and positively influences their enrolment and attendance. But, then, in the educationally backward States, there are few women teachers to particularly attract girls to school and retain them. 2
+neither in the school nor in the labour force but doing domestic work, mostly sibling care. It is well documented that the presence of female teachers often serves as a role model for girls and positively influences their enrolment and attendance. But, then, in the educationally backward States, there are few women teachers to particularly attract girls to school and retain them.²
 
-1.1.18 SSA stipulates  that  50%  of  additionally recruited  teachers  should  be  women.  Given  the emphasis on improving girls' enrolment, which is critically dependent upon the presence of female teachers, there is a need to increase the proportion to 75% in the recruitment of female teachers in educationally fragile States.
+1.1.18 SSA stipulates that 50% of additionally recruited teachers should be women. Given the emphasis on improving girls’ enrolment, which is critically dependent upon the presence of female teachers, there is a need to increase the proportion to 75% in the recruitment of female teachers in educationally fragile States.
 
 TABLE 1.1.2
-
-Number of Female Teachers per 100 Male T eachers
+Number of Female Teachers per 100 Male Teachers
 
 States | High | States | Low
 --- | --- | --- | ---
@@ -521,75 +827,66 @@ Pondicherry | 279 | MP | 36
 Tamil Nadu | 221 | Rajasthan | 38
 Delhi | 221 | UP | 40
 
-Source:
+Source: Selected Educational Statistics, 2004–05.
 
-Selected Educational Statistics, 2004-05.
+1.1.19 The fact that children drop out of school early or fail to acquire basic literacy and numeracy skills partially reflects poor quality of education.³ The average school attendance was around 70% of the enrolment in 2004–05. In States like UP and Bihar, the average attendance was as low as 57% and 42%, respectively. One-third of the teachers in MP, 25% in Bihar, and 20% in UP do not attend schools.⁴ Besides, the repetition rates in such States are also very high, resulting in wastage of human and material resources. Teacher attendance, ability, and motivation appear to be the weakest links of elementary education programmes. Lack of universal pre-schooling (Early Childhood Care and Education, ECCE) and consequent poor vocabulary and poor conceptual development of mind makes even enrolled children less participative in the class, even for learning by rote.⁵
 
-> 2  UNESCO (2007), EFA-Global Monitoring Report.
+TABLE 1.1.3
+Dropout Rates by Social Composition, 2004–05
 
-> 3 ibid.
-
-> 4  MHRD (2007), PPT Presentation in the Steering Committee meeting held in Planning Commission.
-
-> 5 Lynn Erickson (2007), Concept Based Curriculum and Instruction for the Thinking Classroom , Crowing Press, A Sage Publication Company, Thousand Oaks, California, chapter 5, p. 98.
-
-1.1.19 The fact  that  children  drop  out  of  school  early or fail  to  acquire  basic  literacy  and  numeracy  skills  partially reflects poor quality of education. 3 The average school attendance was around 70% of the enrolment in 200405. In States like UP and Bihar, the average attendance was as low as 57% and 42%, respectively. One-third of the teachers in MP, 25% in Bihar, and 20% in UP do not attend schools. 4 Besides, the repetition rates in such States are also very high, resulting in wastage of human and material resources. Teacher attendance, ability, and motivation appear to be the weakest links of  elementary education programmes. Lack of universal pre-schooling (Early Childhood Care and Education, ECCE) and consequent poor vocabulary and poor conceptual development of mind makes even enrolled children less participative in the class, even for learning by rote. 5
-
-Categories | Primary (I-V) | Elementary (I-VIII)
+Categories | Primary (I–V) |  |  | Elementary (I–VIII) |  |
 --- | --- | --- | --- | --- | --- | ---
-Boys | Girls | Total | Boys | Girls | Total
+ | Boys | Girls | Total | Boys | Girls | Total
 SCs | 32.7 | 36.1 | 34.2 | 55.2 | 60.0 | 57.3
 STs | 42.6 | 42.0 | 42.3 | 65.0 | 67.1 | 65.9
 All | 31.8 | 25.4 | 29.0 | 50.5 | 51.3 | 50.8
 
-TABLE 1.1.3 Dropout Rates by Social Composition, 2004-05
+Source: Selected Educational Statistics, 2004–05.
 
-Source: Selected Educational Statistics, 2004-05.
+2 UNESCO (2007), EFA-Global Monitoring Report.
+3 ibid.
+4 MHRD (2007), PPT Presentation in the Steering Committee meeting held in Planning Commission.
+5 Lynn Erickson (2007), Concept Based Curriculum and Instruction for the Thinking Classroom, Crowing Press, A Sage Publication Company, Thousand Oaks, California, chapter 5, p. 98.
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-Education
+Education 5
 
-5
-
-1.1.20 The dropout rate in primary classes which has been decreasing at a very low average rate of 0.5% per annum since 1960s showed a steeper decline by 10.03% over the  first  three  years  of  the  T enth  Plan  (29%  in  200405 as  compared  to  39.03%  in  2001-02).  The  dropout  rate reduction has been faster for girls as compared to that for boys. However, the dropout rate at the elementary level (classes I-VIII) has remained very high at 50.8% .
+1.1.20 The dropout rate in primary classes which has been decreasing at a very low average rate of 0.5% per annum since 1960s showed a steeper decline by 10.03% over the first three years of the Tenth Plan (29% in 2004–05 as compared to 39.03% in 2001–02). The dropout rate reduction has been faster for girls as compared to that for boys. However, the dropout rate at the elementary level (classes I–VIII) has remained very high at 50.8%.
 
 1.1.21 The dropout rates at primary levels for SCs (34.2%) and STs (42.3%) are substantially higher than the national average (29%) (Table 1.1.3). The gap in respect of SCs is very wide in Goa, UP, Tamil Nadu, WB, Haryana, and Himachal Pradesh. The gap in respect of STs is very large in Maharashtra, Andhra Pradesh, Orissa, and Gujarat. The social gap in dropout rate is acute in respect of girls. Two-thirds of the tribal students just do not go beyond class VIII.
 
 ###### UNIVERSAL ACHIEVEMENT AND EQUITY
 
-1.1.22 Two major issues yet to be addressed satisfactorily under UEE are quality and equity. The results of learning achievement surveys conducted by National Council  for  Education  Research  and  Training (NCERT) (Table 1.1.4) and also by independent agencies (Annual Status of Education Report, 2005) highlight poor quality of learning.
+1.1.22 Two major issues yet to be addressed satisfactorily under UEE are quality and equity. The results of learning achievement surveys conducted by National Council for Education Research and Training (NCERT) (Table 1.1.4) and also by independent agencies (Annual Status of Education Report, 2005) highlight poor quality of learning.
 
-TABLE 1.1.4 Learning Achievements at Elementary Level
-
+TABLE 1.1.4
+Learning Achievements at Elementary Level
 (Percentage)
 
 Stages of education | Math. | Language | EVS/ Science | Social Science
 --- | --- | --- | --- | ---
-At the end of Class III | 58.25 | 63.12 | - | -
-Class V | 46.51 | 58.57 | 50.3 | -
+At the end of Class III | 58.25 | 63.12 | – | –
+Class V | 46.51 | 58.57 | 50.3 | –
 Class VII | 29.87 | 53 | 35.98 | 32.96
 Class VIII | 38.47 | 52.45 | 40.54 | 45
 
-Source:
+Source: NCERT (2004–05).
 
-NCERT (2004-05).
+1.1.23 SSA did attempt to strengthen a range of inputs that impact on quality, viz. recruitment of 7.95 lakh additional teachers to improve the pupil teacher ratio (PTR) from 44 to 40:1 at primary level, regular annual in-service training of teachers for a period of 20 days, curriculum renewal and textbook development, free distribution of textbooks for primary and upper primary classes to about 6.69 crore SCs, STs, and girl students, computer-aided learning in over 20000 schools, regular academic support to primary and UPS through 6746 Block Resource Centres (BRCs) and 70388 Cluster Resource Centres (CRCs), monitoring of performance of schools including the pass percentage at exit levels; at least 10% better achievement in pass percentage as in 2006–07 over the benchmarking level in 2005–06, and running of learning enhancement programmes especially for the early primary grades in 19 States. However, the impact has not been very encouraging.
 
-1.1.23 SSA did attempt to strengthen a range of inputs that impact on quality, viz. recruitment of 7.95 lakh additional teachers to improve the pupil teacher ratio (PTR) from 44 to 40:1 at primary level, regular annual in-service training of teachers for a period of 20 days, curriculum renewal and textbook development, free distribution of textbooks for primary and upper primary classes to about 6.69 crore SCs, STs, and girl students, computer-aided learning in over 20000 schools, regular academic support to primary and UPS through 6746 Block Resource Centres (BRCs) and 70388 Cluster Resource Centres (CRCs), monitoring of performance of schools including the pass percentage at exit levels; at least 10% better achievement in pass percentage as in 2006-07 over the benchmarking level in 200506, and running of learning enhancement programmes especially for the early primary grades in 19 States. However, the impact has not been very encouraging.
-
-1.1.24 314 Special Focus Districts (SFDs) have been identified for need-based interventions in resource allocation, micro-planning, and development. There is  a  focus on girls' education by targeting additional resources to Educationally Backward Blocks (EBBs) under National Programme for Education of Girls at Elementary Level (NPEGEL). Under KGBV scheme 2180 residential schools for girls belonging to SCs, STs, OBCs, minorities, and below poverty line (BPL) families were sanctioned in the EBBs.
+1.1.24 314 Special Focus Districts (SFDs) have been identified for need-based interventions in resource allocation, micro-planning, and development. There is a focus on girls’ education by targeting additional resources to Educationally Backward Blocks (EBBs) under National Programme for Education of Girls at Elementary Level (NPEGEL). Under KGBV scheme 2180 residential schools for girls belonging to SCs, STs, OBCs, minorities, and below poverty line (BPL) families were sanctioned in the EBBs.
 
 ###### Parameters for EBBs as per Census 2001
 
 - Rural Female Literacy below the national average (46.13%);
-
 - Gender gap in literacy more than the national average (21.59%).
 
 1.1.25 Such EBBs total up to 3073. Another 212 Blocks with SC concentration, 142 Blocks with ST concentration, and 52 Blocks with minority concentration have been identified, making the total number of EBBs to 3479. NPEGEL has its own EBBs. There seem to be different criteria and definitions of EBBs. Relevant criteria would be framed in the Eleventh Plan and EBBs re-identified.
 
-1.1.26 During the Tenth Plan, 11542 primary and UPS and 32250 EGS centres were sanctioned in the minority  concentration districts. EGS and AIE centres enrolled 120.90 lakh and 11.3 lakh children, respectively. The Madarsas (8309) affiliated to the State Boards were assisted and 4867 Maktabs/Madarsas were taken up under EGS/AIE. Free textbooks are provided to all minority girls from classes I-VIII and Urdu textbooks are provided for Urdu medium schools. The number of KGBVs sanctioned in minority Blocks is 270.
+1.1.26 During the Tenth Plan, 11542 primary and UPS and 32250 EGS centres were sanctioned in the minority concentration districts. EGS and AIE centres enrolled 120.90 lakh and 11.3 lakh children, respectively. The Madarsas (8309) affiliated to the State Boards were assisted and 4867 Maktabs/Madarsas were taken up under EGS/AIE. Free textbooks are provided to all minority girls from classes I–VIII and Urdu textbooks are provided for Urdu medium schools. The number of KGBVs sanctioned in minority Blocks is 270.
 
 [[END OF PAGE 22]]
 
@@ -597,26 +894,29 @@ NCERT (2004-05).
 
 6 Eleventh Five Year Plan
 
-1.1.27 The 86th Constitutional Amendment Act has given a new thrust to Children with Special Needs (CWSN). A multi-option model for educating CWSN is being adopted. The programme has been successful in  enrolling  1.99  million  out  of  the  identified  2.4 million CWSN (81%) in schools.
+1.1.27 The 86th Constitutional Amendment Act has given a new thrust to Children with Special Needs (CWSN). A multi-option model for educating CWSN is being adopted. The programme has been successful in enrolling 1.99 million out of the identified 2.4 million CWSN (81%) in schools.
 
-1.1.28 Although SSA was launched in November 2000, only three States in the North East (NE) (Assam, Mizoram, and Nagaland) could start it in 2001-02; by 2004-05, Meghalaya, Sikkim, Tripura, Arunachal Pradesh, and Manipur had also started the programme. Lack of capacities to handle various components of SSA and default on States' share and its subsequent effect on the flow of funds from the Government of India (GoI) affected full utilization. A one-time special dispensation was provided for the years 2005-06 and 2006-07 to the NE States whereby Non Lapsable Central Pool of Resources provided three-fifth of the State share and the NE States contributed only twofifth under SSA. Learning achievements of children in schools in North East Region (NER) are very low.
+1.1.28 Although SSA was launched in November 2000, only three States in the North East (NE) (Assam, Mizoram, and Nagaland) could start it in 2001–02; by 2004–05, Meghalaya, Sikkim, Tripura, Arunachal Pradesh, and Manipur had also started the programme. Lack of capacities to handle various components of SSA and default on States’ share and its subsequent effect on the flow of funds from the Government of India (GoI) affected full utilization. A one-time special dispensation was provided for the years 2005–06 and 2006–07 to the NE States whereby Non Lapsable Central Pool of Resources provided three-fifth of the State share and the NE States contributed only two-fifth under SSA. Learning achievements of children in schools in North East Region (NER) are very low.
 
 ##### Outlay and Expenditure in SSA in the Tenth Plan
-1.1.29 The Tenth Plan outlay for  Elementary  Education and Literacy was Rs 30000 crore. The actual expenditure  has  been  Rs  48201  crore,  out  of  which  SSA  (Rs  28077 crore) and MDMS (Rs 13827 crore) account for 88%. Prarambhik Shiksha Kosh, a non-lapsable fund for crediting the education cess proceeds, has been set up.
+
+1.1.29 The Tenth Plan outlay for Elementary Education and Literacy was Rs 30000 crore. The actual expenditure has been Rs 48201 crore, out of which SSA (Rs 28077 crore) and MDMS (Rs 13827 crore) account for 88%. Prarambhik Shiksha Kosh, a non-lapsable fund for crediting the education cess proceeds, has been set up.
 
 1.1.30 The States of UP (19%), MP (10%), Rajasthan and Bihar (7% each), Maharashtra and WB (6% each), Andhra Pradesh, Tamil Nadu, and Karnataka (5% each) accounted for 70% of the total expenditure incurred by the Central and State Governments under SSA during the Tenth Plan.
 
 ###### SECTORAL EXPENDITURE UNDER SSA
 
-1.1.31 A pragmatic decision was taken to relax the civil works ceiling (33%) under SSA to accelerate bridging school infrastructure gaps in selected States. Consequently, the share of expenditure on civil works increased from 35.5% in 2003-04 to 46.2% in 2006-07 and that on teacher's salary from 15.7% to 20.8%. With EGS centres being converted into regular primary schools, their share has declined from 10.3% in 200304 to 6.8% in 2006-07 (see Table 1.1.5).
+1.1.31 A pragmatic decision was taken to relax the civil works ceiling (33%) under SSA to accelerate bridging school infrastructure gaps in selected States. Consequently, the share of expenditure on civil works increased from 35.5% in 2003–04 to 46.2% in 2006–07 and that on teacher’s salary from 15.7% to 20.8%. With EGS centres being converted into regular primary schools, their share has declined from 10.3% in 2003–04 to 6.8% in 2006–07 (see Table 1.1.5).
 
-S. No. | Expenditure | Percentages
+Table 1.1.5
+Distribution of SSA
+
+S. No. | Expenditure | 2003–04 | 2006–07 | Tenth Plan
 --- | --- | --- | --- | ---
-2003-04 | 2006-07 | Tenth Plan
 1 | Civil Works | 36 | 46 | 43.84
-2 | Teacher's Salary | 16 | 21 | 19.37
+2 | Teacher’s Salary | 16 | 21 | 19.37
 3 | EGS/AIE | 10 | 7 | 5.00
-4 | Teacher's Training | 5 | 3 | 2.92
+4 | Teacher’s Training | 5 | 3 | 2.92
 5 | Text Books | 6 | 3 | 4.89
 6 | BRC/CRC | 3 | 3 | 3.64
 7 | TLE | 4 | 1 | 2.07
@@ -624,97 +924,94 @@ S. No. | Expenditure | Percentages
 9 | Innovative Activities | 3 | 2 | 0.91
 10 | Others | 14 | 10 | 14.69
 
-Table 1.1.5 Distribution of SSA
-
 Source: MHRD.
 
-1.1.32 Low expenditures on components relating to quality dimensions of the programme, such as Teacher's Training, Teaching Learning Equipment (TLE) (including Information and Communication Technology, ICT) Innovative Activities, School/Teacher Grants etc., need to be sharply stepped up during the Eleventh Plan. Moreover, SSA should not fund teachers appointed in the Tenth Plan but pay only for the new teachers, with a view to addressing the serious problem of singleteacher and multi-grade teaching.
+1.1.32 Low expenditures on components relating to quality dimensions of the programme, such as Teacher’s Training, Teaching Learning Equipment (TLE) (including Information and Communication Technology, ICT) Innovative Activities, School/Teacher Grants etc., need to be sharply stepped up during the Eleventh Plan. Moreover, SSA should not fund teachers appointed in the Tenth Plan but pay only for the new teachers, with a view to addressing the serious problem of single-teacher and multi-grade teaching.
 
 ##### Kasturba Gandhi Balika Vidyalaya Scheme (KGBVS)
 
-1.1.33 The KGBVS was launched in July 2004 for setting up of residential schools at upper primary level for  girls,  predominantly belonging to the SCs, STs, OBCs, and minorities in EBBs. A minimum of 75% of the enrolment in KGBVS is reserved for girls from the target groups and the remaining 25% is open for girls belonging to the BPL category. The Tenth Plan allocation for the scheme was Rs 427 crore.
+1.1.33 The KGBVS was launched in July 2004 for setting up of residential schools at upper primary level for girls, predominantly belonging to the SCs, STs, OBCs, and minorities in EBBs. A minimum of 75% of the enrolment in KGBVS is reserved for girls from the target groups and the remaining 25% is open for girls belonging to the BPL category. The Tenth Plan allocation for the scheme was Rs 427 crore.
 
-1.1.34 As soon as the schools were sanctioned under KGBV, the States rented premises and sought funds without waiting for the buildings to come up. The targeted 750 schools (Model I-364 schools, Model II117  schools,  and  Model  III-269  schools)  were sanctioned between December 2004 and May 2005. By December 2006, 1039 schools were operational with a  total  enrolment of 63921 girls. In February 2006, 430 schools and in March 2007 additional 1000 schools were sanctioned, raising the total to 2180 schools. The allotments of KGBVs to States were not in proportion to the number of EBBs. The skewed distribution of KGBVs would be set right in the Eleventh Plan.
+1.1.34 As soon as the schools were sanctioned under KGBV, the States rented premises and sought funds without waiting for the buildings to come up. The targeted 750 schools (Model I—364 schools, Model II—117 schools, and Model III—269 schools) were sanctioned between December 2004 and May 2005. By December 2006, 1039 schools were operational with a total enrolment of 63921 girls. In February 2006, 430 schools and in March 2007 additional 1000 schools were sanctioned, raising the total to 2180 schools. The
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-Education
+Education 7
 
-7
+allotments of KGBVs to States were not in proportion to the number of EBBs. The skewed distribution of KGBVs would be set right in the Eleventh Plan.
 
 ##### District Primary Education Programme (DPEP)
-1.1.35 DPEP, an externally aided project, aimed at the holistic development of primary education, covering classes I to V . It has specific objectives of reducing the dropout rate to less than 10%, reducing disparities among gender and social groups in the enrolment to less  than  5%,  and  improving the level of learning achievement compared to the baseline surveys. However, these ambitious targets could not be achieved.
 
-- 1.1.36 Nevertheless, DPEP has brought a sea change in the implementation of school education programme with its decentralized approach and focus on community participation and provided complete wherewithal for handling ECCE, Non-formal Education Centres, BRCs, CRCs, out-of-school children, and education of  girls.  The  success  of  SSA  owes  much  to  DPEP. Since its  inception,  external  assistance  of  Rs  6938 crore-comprising Rs 5137 crore as credit from IDA and Rs 1801 crore from development partners, European Commission, Department for International Development, UNICEF, and Netherlands-has been tied  up  for  DPEP. At  its  peak,  DPEP  covered  273 districts  in  17  States.  Now  it  continues  in  only  17 districts  of  Orissa  and  Rajasthan  where  it  would be completed in 2008.
+1.1.35 DPEP, an externally aided project, aimed at the holistic development of primary education, covering classes I to V. It has specific objectives of reducing the dropout rate to less than 10%, reducing disparities among gender and social groups in the enrolment to less than 5%, and improving the level of learning achievement compared to the baseline surveys. However, these ambitious targets could not be achieved.
+
+1.1.36 Nevertheless, DPEP has brought a sea change in the implementation of school education programme with its decentralized approach and focus on community participation and provided complete wherewithal for handling ECCE, Non-formal Education Centres, BRCs, CRCs, out-of-school children, and education of girls. The success of SSA owes much to DPEP. Since its inception, external assistance of Rs 6938 crore—comprising Rs 5137 crore as credit from IDA and Rs 1801 crore from development partners, European Commission, Department for International Development, UNICEF, and Netherlands—has been tied up for DPEP. At its peak, DPEP covered 273 districts in 17 States. Now it continues in only 17 districts of Orissa and Rajasthan where it would be completed in 2008.
 
 ##### Mahila Samakhya (MS)
 
-- 1.1.37 MS, an externally aided project for women's empowerment, was started with Dutch assistance in 1989. Since 2005-06 it is being funded by GoI. The programme endeavours to create an environment for women to learn at their own pace, set their own priorities, and seek knowledge and information to make informed choices. It has strengthened women's abilities to effectively participate in village level education programmes. The programme is implemented in 9 States covering 83 districts, 339 blocks, including 233 EBBs, and 20380 villages. The States of MP and Chhattisgarh have registered MS societies through which the programme is initiated. It provides for vocational and skill development as well as educational development of adolescent girls and women in rural
-
-areas. MS runs residential schools, bridge courses, viz., Jagjagi and Mahila Shikshan Kendras.
+1.1.37 MS, an externally aided project for women’s empowerment, was started with Dutch assistance in 1989. Since 2005–06 it is being funded by GoI. The programme endeavours to create an environment for women to learn at their own pace, set their own priorities, and seek knowledge and information to make informed choices. It has strengthened women’s abilities to effectively participate in village level education programmes. The programme is implemented in 9 States covering 83 districts, 339 blocks, including 233 EBBs, and 20380 villages. The States of MP and Chhattisgarh have registered MS societies through which the programme is initiated. It provides for vocational and skill development as well as educational development of adolescent girls and women in rural areas. MS runs residential schools, bridge courses, viz., Jagjagi and Mahila Shikshan Kendras.
 
 ##### Mid-Day Meal Scheme (MDMS)
 
-1.1.38 MDMS was launched in 1995 to enhance enrolment, retention, and participation of children in primary  schools,  simultaneously  improving  their nutritional status.
+1.1.38 MDMS was launched in 1995 to enhance enrolment, retention, and participation of children in primary schools, simultaneously improving their nutritional status.
 
-- 1.1.39 The MDMS was revised and universalized in September 2004 and central assistance was provided at the rate of Re. 1.00 per child per school day for converting food grains into hot cooked meals for children in classes I-V in government, local body, and government-aided schools, and EGS and AIE centres. MDMS provided nutritional support to students in droughtaffected areas during summer vacation. The maximum permissible transport subsidy was revised for Special Category States from Rs 50 to Rs 100 per quintal and for other States to Rs 75 per quintal.
+1.1.39 The MDMS was revised and universalized in September 2004 and central assistance was provided at the rate of Re. 1.00 per child per school day for converting food grains into hot cooked meals for children in classes I–V in government, local body, and government-aided schools, and EGS and AIE centres. MDMS provided nutritional support to students in drought-affected areas during summer vacation. The maximum permissible transport subsidy was revised for Special Category States from Rs 50 to Rs 100 per quintal and for other States to Rs 75 per quintal.
 
-- 1.1.40 The scheme was further revised in June 2006 to enhance the minimum cooking cost to Rs 2.00 per child per school day to provide 450 calories and 12 grams of protein. The revised scheme also provided assistance for construction of kitchen-cum-stores at the rate of Rs 60000 per unit in a phased manner in primary schools and procurement of kitchen devices (utensils, etc.) at the rate of Rs 5000 per school. Besides providing free foodgrains, cooking cost, transport subsidy, and Management Monitoring and Evaluation, 94500 schools were also sanctioned kitchen sheds and 2.6 lakh schools were sanctioned kitchen equipment.
+1.1.40 The scheme was further revised in June 2006 to enhance the minimum cooking cost to Rs 2.00 per child per school day to provide 450 calories and 12 grams of protein. The revised scheme also provided assistance for construction of kitchen-cum-stores at the rate of Rs 60000 per unit in a phased manner in primary schools and procurement of kitchen devices (utensils, etc.) at the rate of Rs 5000 per school. Besides providing free foodgrains, cooking cost, transport subsidy, and Management Monitoring and Evaluation, 94500 schools were also sanctioned kitchen sheds and 2.6 lakh schools were sanctioned kitchen equipment.
 
-- 1.1.41 The number of children covered under the programme has risen from 3.34 crore in 3.22 lakh schools in 1995 to 12 crore in 9.5 lakh primary schools/ EGS centres in 2006-07.
+1.1.41 The number of children covered under the programme has risen from 3.34 crore in 3.22 lakh schools in 1995 to 12 crore in 9.5 lakh primary schools/EGS centres in 2006–07.
 
-- 1.1.42 A review of MDMS indicates absence of proper management structure in many States. Even the reported average number of school days on which meals are provided varied widely. National University of  Educational Planning Administration (NUEPA) reports  209  days  per  annum,  while  Ministry  of Human Resource Development (MHRD) reports 230 days at the national level. Steering Committees at State/
+1.1.42 A review of MDMS indicates absence of proper management structure in many States. Even the reported average number of school days on which meals are provided varied widely. National University of Educational Planning Administration (NUEPA) reports 209 days per annum, while Ministry of Human Resource Development (MHRD) reports 230 days at the national level. Steering Committees at State/
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-8
+8 Eleventh Five Year Plan
 
-Eleventh Five Year Plan
+district levels for effective monitoring are yet to be set up in some States. There are no details on coverage and facilities in EGS/AIE centres in urban areas. The Planning Commission has undertaken a detailed evaluation study in 2006–07 to assess the impact of the MDMS. On the whole, despite the prevalence of good practices, a systematic supervision and monitoring of the programme and transparency in implementation are lacking in most of the States.
 
-###### Box 1.1.1 Best Practices under MDMS
-
-In Tamil Nadu, Health Cards are issued to all children and School Health Day is observed every Thursday. Curry leaves and drum-stick trees are grown in the school premises. In Karnataka, all schools have gas-based cooking. In Pondicherry, in addition to the mid-day meal (MDM), Rajiv Gandhi Breakfast Scheme provides for a glass of hot milk and biscuits. In Bihar, Bal Sansad (Child Cabinet) is actively involved in the orderly distribution of MDM. In Uttaranchal, mothers are appointed as Bhojan Mata and Sahayika in primary schools. In Gujarat, Chhattisgarh, and MP children are provided micronutrients and deworming medicines under MDMS.
-
-district levels for effective monitoring are yet to be set up in some States. There are no details on coverage and facilities in EGS/AIE centres in urban areas. The Planning Commission has undertaken a detailed evaluation study in 2006-07 to assess the impact of the MDMS. On the whole, despite the prevalence of good practices, a systematic supervision and monitoring of the programme and transparency in implementation are lacking in most of the States.
-
-1.1.43 Notwithstanding these shortcomings, MDMS appears to have had a positive impact on school attendance and nutritional status of children through removal of classroom hunger. 6  The latest National Sample Survey (NSS) (61st Round) covered MDMS along with Annapurna Integrated Child Development Services (ICDS) Scheme, and Food for Work Programme. It is reported that MDMS has benefited 8.1% of rural population and 3.2% of urban population. The total coverage of all the four programmes was 11% in rural and 4.1% in urban areas. MDMS has catered to the nutritional needs of low-income groups in both rural and urban areas.
+1.1.43 Notwithstanding these shortcomings, MDMS appears to have had a positive impact on school attendance and nutritional status of children through removal of classroom hunger.⁶ The latest National Sample Survey (NSS) (61st Round) covered MDMS along with Annapurna Integrated Child Development Services (ICDS) Scheme, and Food for Work Programme. It is reported that MDMS has benefited 8.1% of rural population and 3.2% of urban population. The total coverage of all the four programmes was 11% in rural and 4.1% in urban areas. MDMS has catered to the nutritional needs of low-income groups in both rural and urban areas.
 
 ### ELEVENTH PLAN: GOALS, TARGETS, AND STRATEGIES IN ELEMENTARY EDUCATION
 
 1.1.44 The Constitution of India was amended in 2002 to make elementary education a justiciable Fundamental Right. However, 7.1 million children being out of school and over 50% dropping out at elementary level are matters of serious concern. SSA would, therefore, be reoriented to meet the challenges of equity, retention, and high-quality education. This would require a strong rights orientation within the programme. It is necessary to consider passing appropriate legislation for this purpose. SSA would be restructured into a National Mission for Quality Elementary Education to ensure minimum norms and standards for schools (both government and private). It would address access, quality, and equity holistically though a systems approach.
 
-1.1.45 The backlog for additional classrooms is about 6.87  lakh.  Opening  of  about  20000  new  primary schools and upgradation of about 70000 primary schools are required.
+1.1.45 The backlog for additional classrooms is about 6.87 lakh. Opening of about 20000 new primary schools and upgradation of about 70000 primary schools are required.
 
+TABLE 1.1.6
+Schools without Basic Facilities, 2005–06
 (Percentages)
+
+Facilities | Primary |  | Upper Primary |
 --- | --- | --- | --- | ---
-2004-05 | 2005-06 | 2004-05 | 2005-06
+ | 2004–05 | 2005–06 | 2004–05 | 2005–06
 Building | 3.5 | 3.0 | 2.8 | 2.4
 Toilets | 51.4 | 44.6 | 16.8 | 15.3
 Drinking water | 16.3 | 15.1 | 4.7 | 4.8
 
-TABLE 1.1.6 Schools without Basic Facilities, 2005-06
-
-Source:
-
-DISE data, 2005-06, NUEPA.
+Source: DISE data, 2005–06, NUEPA.
 
 1.1.46 Unless there is a strong effort to address the systemic issues of regular functioning of schools, teacher attendance and competence, accountability of educational administrators, pragmatic teacher transfer and promotion policies, effective decentralization of school management, and transfer of powers to Panchayati Raj Institutions (PRIs), it would be difficult to build upon the gains of SSA. It is important to focus on good quality education of common standards, pedagogy, and syllabi to ensure minimum learning levels.
 
-Stages of Education | Govt. | Local Bodies | Private Aided | Private Unaided | (in lakh) Total
+TABLE 1.1.7
+Elementary Schools by Management
+(in lakh)
+
+Stages of Education | Govt. | Local Bodies | Private Aided | Private Unaided | Total
 --- | --- | --- | --- | --- | ---
-I-V | 3.32 | 3.60 | 0.20 | 0.55 | 7.67
-VI-VIII | 1.18 | 0.80 | 0.18 | 0.59 | 2.75
-I-VIII | 4.50 | 4.40 | 0.38 | 1.14 | 10.42
+I–V | 3.32 | 3.60 | 0.20 | 0.55 | 7.67
+VI–VIII | 1.18 | 0.80 | 0.18 | 0.59 | 2.75
+I–VIII | 4.50 | 4.40 | 0.38 | 1.14 | 10.42
 
-TABLE 1.1.7 Elementary Schools by Management
+Source: Selected Educational Statistics, 2004–05.
 
-Source: Selected Educational Statistics, 2004-05.
+6 J. Dreze and A. Goyal (2003), The Future of Mid-day Meals, EPW, 38(44), Nov. 1–7, pp. 4673–84.
 
-> 6 J. Dreze and A. Goyal (2003), The Future of Mid-day Meals, EPW , 38(44), Nov. 1-7, pp. 4673-84.
+###### Box 1.1.1 Best Practices under MDMS
+
+In Tamil Nadu, Health Cards are issued to all children and School Health Day is observed every Thursday. Curry leaves and drum-stick trees are grown in the school premises. In Karnataka, all schools have gas-based cooking. In Pondicherry, in addition to the mid-day meal (MDM), Rajiv Gandhi Breakfast Scheme provides for a glass of hot milk and biscuits. In Bihar, Bal Sansad (Child Cabinet) is actively involved in the orderly distribution of MDM. In Uttaranchal, mothers are appointed as Bhojan Mata and Sahayika in primary schools. In Gujarat, Chhattisgarh, and MP children are provided micronutrients and de-worming medicines under MDMS.
 
 [[END OF PAGE 25]]
 
@@ -830,7 +1127,7 @@ Education
 
 - Special attention to districts with high SCs, STs, and minority population. Innovative funds for SFDs to be doubled.
 
-- Focus on improving the learning levels of SC, ST, minority children through remedial coaching in schools and also in habitations through educated youth of Nehru Yuva Kendra Sangathan (NYKS), NSS, Self-help Groups (SHGs), and local nongovernmental organizations (NGOs).
+- Focus on improving the learning levels of SC, ST, minority children through remedial coaching in schools and also in habitations through educated youth of Nehru Yuva Kendra Sangathan (NYKS), NSS, Self-help Groups (SHGs), and local non-governmental organizations (NGOs).
 
 - Special schools for slum children in 35 cities with million plus population.
 
@@ -848,7 +1145,7 @@ Education
 
 #### Pre-school Education (PSE)
 
-1.1.55 The PSE component of ICDS-Anganwadi is very weak with repetition high and learning levels low. This in turn discourages many children from continuing their education. SSA will have a component of oneyear pre-primary, which can be universalized to cover 2.4 crore children in a phased manner. 9 This is critical for school readiness/entry with increased basic vocabulary and conceptual abilities that help school retention. Besides, it will free the girl child of sibling care. The existing coverage of pre-primary classes in schools is over 11 million. A large number of primary schools in States like UP and Rajasthan already have ECCE. Primary schools within the habitations are ideal for such ECCE. In other habitations, ICDS-Anganwadi will be supported.
+1.1.55 The PSE component of ICDS-Anganwadi is very weak with repetition high and learning levels low. This in turn discourages many children from continuing their education. SSA will have a component of one-year pre-primary, which can be universalized to cover 2.4 crore children in a phased manner. 9 This is critical for school readiness/entry with increased basic vocabulary and conceptual abilities that help school retention. Besides, it will free the girl child of sibling care. The existing coverage of pre-primary classes in schools is over 11 million. A large number of primary schools in States like UP and Rajasthan already have ECCE. Primary schools within the habitations are ideal for such ECCE. In other habitations, ICDS-Anganwadi will be supported.
 
 #### Madarsas/Maktabs
 
@@ -906,7 +1203,7 @@ Eleventh Five Year Plan
 
 1.1.61 Literacy is the most essential prerequisite for individual empowerment. A new thrust was given to adult literacy in the National Policy on Education 1986
 
-and the Plan of Action 1992, which advocated a threepronged strategy of adult education, elementary education, and non-formal education to eradicate illiteracy. The National Literacy Mission (NLM) was set up in 1988 with an initial target to make 80 million persons literate by 1995, which was later enhanced to 100 million by 1997 and the revised target is to achieve a threshold level of 75% literacy by 2007.
+and the Plan of Action 1992, which advocated a three-pronged strategy of adult education, elementary education, and non-formal education to eradicate illiteracy. The National Literacy Mission (NLM) was set up in 1988 with an initial target to make 80 million persons literate by 1995, which was later enhanced to 100 million by 1997 and the revised target is to achieve a threshold level of 75% literacy by 2007.
 
 1.1.62 Dominant strategies of the NLM and the Total Literacy Campaigns (TLC) were 'area specific, time bound, volunteer based, cost effective and result oriented.' The efforts made by the TLCs and Post Literacy Projects (PLP) to eradicate illiteracy yielded commendable results:  rise  in  literacy  from  52.2%  in  1991  to 64.8% in 2001. The urban-rural literacy differential also decreased during the period. The literacy rates for females increased at a faster rate than that for males. However, gender and regional disparities in literacy still continue to persist.
 
@@ -948,7 +1245,7 @@ Education
 
 ##### Jan Shikshan Sansthan (JSS)
 
-1.1.71 The objective of JSS Scheme is educational, vocational, and occupational development of socioeconomically backward and educationally disadvantaged groups of urban/rural population, particularly neo-literates, semi-literates, SCs, STs, women and girls, slum dwellers, migrant workers, etc. By linking literacy with vocational training, JSSs seek to improve the quality of life of the beneficiaries. JSSs offered around 284 different types of vocational courses-from candle and agarbatti making to computer training and hospital/ health care. The total number of JSSs is 198.
+1.1.71 The objective of JSS Scheme is educational, vocational, and occupational development of socio-economically backward and educationally disadvantaged groups of urban/rural population, particularly neo-literates, semi-literates, SCs, STs, women and girls, slum dwellers, migrant workers, etc. By linking literacy with vocational training, JSSs seek to improve the quality of life of the beneficiaries. JSSs offered around 284 different types of vocational courses—from candle and agarbatti making to computer training and hospital/health care. The total number of JSSs is 198.
 
 #### Major Weaknesses in Adult Education Programmes
 
@@ -1023,7 +1320,7 @@ Eleventh Five Year Plan
 
 1.2.4 The enrolment in 1.02 lakh secondary and 0.50 lakh higher secondary schools is 24.3 million and 12.7 million, respectively (2004-05). The GER for secondary education (IX and X) is 51.65% and that for higher secondary 27.82%. The combined GER for both the levels is only 39.91%. The dropout rate at secondary level is as high as 62% (Table 1.2.1).
 
-1.2.5 There are glaring inter-State and intra-State variations in enrolment, dropouts, and access to secondary and higher secondary schools (Annexure 1.2.1). At the national level, the average number of secondary/higher secondary schools per 1 lakh population is as low as 14 and it is lower than the national average in Bihar (4), UP (7), WB (10), and also Jharkhand (4) and Chhattisgarh (12). The national average number of secondary and higher secondary schools per 100 sq. km is only four, and Bihar, UP, Rajasthan, MP, Chhattisgarh, and Jharkhand fall below this national average. Consequently, the GER in these States is lower than the national average of 39.91%.
+1.2.5 There are glaring inter-State and intra-State variations in enrolment, dropouts, and access to
 
 [[END OF PAGE 31]]
 
@@ -1033,30 +1330,32 @@ Education
 
 15
 
+secondary and higher secondary schools (Annexure 1.2.1). At the national level, the average number of secondary/higher secondary schools per 1 lakh population is as low as 14 and it is lower than the national average in Bihar (4), UP (7), WB (10), and also Jharkhand (4) and Chhattisgarh (12). The national average number of secondary and higher secondary schools per 100 sq. km is only four, and Bihar, UP, Rajasthan, MP, Chhattisgarh, and Jharkhand fall below this national average. Consequently, the GER in these States is lower than the national average of 39.91%.
+
+TABLE 1.2.1
+Secondary Education—Enrolment and Dropout, 2004–05
+
 S. No. | Indicators Enrolment (in crore) | Boys | Girls | Total
 --- | --- | --- | --- | ---
-1 | Secondary (IX-X) | 1.42 (57.39) | 1.01 (45.28) | 2.43 (51.65)
-2 | Hr Secondary (XI-XII) | 0.74 | 0.53 | 1.27
-3 | Secondary & Hr Sec. (IX-XII) | 2.16 (44.26) | 1.54 (35.05) | 3.70 (39.91)
-4 | Dropout (%) Rates (I-X) | 60.41 | 63.88 | 61.92
+1 | Secondary (IX–X) | 1.42 (57.39) | 1.01 (45.28) | 2.43 (51.65)
+2 | Hr Secondary (XI–XII) | 0.74 (30.82) | 0.53 (24.46) | 1.27 (27.82)
+3 | Secondary & Hr Sec. (IX–XII) | 2.16 (44.26) | 1.54 (35.05) | 3.70 (39.91)
+4 | Dropout (%) Rates (I–X) | 60.41 | 63.88 | 61.92
 
-TABLE 1.2.1 Secondary Education-Enrolment and Dropout, 2004-05
-
-Note:
-
-Figures in the parentheses are GER.
-
-Source:
-
-Selected Educational Statistics (2004-05), MHRD.
+Note: Figures in the parentheses are GER.
+Source: Selected Educational Statistics (2004–05), MHRD.
 
 1.2.6 During the decade ending 2004-05, enrolment at the secondary and higher secondary levels increased at an average annual rate of 5.32%. During the three years of the Tenth Plan upto 2004-05, it increased at a faster rate of 6.75% per annum and an additional 7.5 million children were enrolled. There will be further acceleration  in  secondary  enrolments  during  the Eleventh Plan period as the primary dropout rates are declining and the transition rate from primary to upper primary is getting closer to 90%.
 
 1.2.7 Nearly 60% of secondary schools are with private management both aided and unaided, almost in equal proportions. The share of government and local body schools and private aided schools has shown a declining trend with private unaided schools showing an increase from 15% in 1993-94 to 24% in 2001-02 and further to 30% in 2004-05 (see Figure 1.2.1). The doubling of the share of private unaided schools indicates that parents are willing to pay for education that
 
-Source:
+Management | 1993–94 | 2001–02 | 2004–05
+--- | --- | --- | ---
+Govt | 47 | 42 | 41
+Unaided | 15 | 24 | 30
+Aided | 38 | 34 | 29
 
-Selected Educational Statistics (2004-05), MHRD.
+Source: Selected Educational Statistics (2004–05), MHRD.
 
 FIGURE 1.2.1: Secondary Schools by Management
 
@@ -1068,7 +1367,7 @@ is perceived to be of good quality. The factors underlying this perception inclu
 
 #### Girls' Education
 
-1.2.9 The Central Advisory Board of Education Committee Report on Girls Education noted a gross shortage of secondary schools for girls (both co-educational and girls' schools). The dropout of girls is extremely high mainly in the northern States, not only because the parental priority for girls' education is low, but also due to the poor access to schools in the rural areas. Opening of schools exclusively for girls appears to be necessary to overcome the gender disparity. States have to undertake, on priority, school mapping for girl's education, especially for Muslim girls.
+1.2.9 The Central Advisory Board of Education Committee Report on Girls Education noted a gross shortage of secondary schools for girls (both co-educational and girls' schools). The dropout of girls is extremely high mainly in the northern States, not only because the parental priority for girls' education is low, but also due to the poor access to schools in the rural areas. Opening of schools exclusively for girls appears to be
 
 [[END OF PAGE 32]]
 
@@ -1077,6 +1376,8 @@ is perceived to be of good quality. The factors underlying this perception inclu
 16
 
 Eleventh Five Year Plan
+
+necessary to overcome the gender disparity. States have to undertake, on priority, school mapping for girl’s education, especially for Muslim girls.
 
 1.2.10 The Union Government has been implementing  the  scheme 'Strengthening  of  Boarding  and Hostel Facilities for Girl Students of Secondary and Higher Secondary Schools (Access & Equity)' . Under the scheme, financial assistance is given to societies and NGOs to provide boarding and hostel facilities to girls, predominantly belonging to the rural, desert, and hilly areas, and particularly for those belonging to SCs, STs, and educationally backward minorities. The performance of the scheme is not up to the mark. The scheme will be restructured and merged with the new umbrella scheme of 'Universalization of Access and Improvement of Quality of Secondary Education' .
 
@@ -1101,7 +1402,7 @@ Eleventh Five Year Plan
 
 ### SECONDARY EDUCATION: GOALS, TARGETS, AND STRATEGIES FOR THE ELEVENTH PLAN
 
-1.2.16 The Eleventh Plan aims to: (i) raise the minimum level of education to class X and accordingly universalize access to secondary education; (ii) ensure good quality secondary education with focus on Science,  Mathematics, and English; and (iii) aim towards major reduction in gender, social, and regional gaps in enrolments, dropouts, and school retention. The norm will be to provide a secondary school within 5 km and a higher secondary school within 7-8 km of every habitation. The GER in secondary education is targeted to increase from 52% in 200405 to 75% by 2011-12 and the combined secondary and senior secondary GER from 40% to 65% in the same period.
+1.2.16 The Eleventh Plan aims to: (i) raise the minimum level of education to class X and accordingly
 
 [[END OF PAGE 33]]
 
@@ -1110,6 +1411,8 @@ Eleventh Five Year Plan
 Education
 
 17
+
+universalize access to secondary education; (ii) ensure good quality secondary education with focus on Science, Mathematics, and English; and (iii) aim towards major reduction in gender, social, and regional gaps in enrolments, dropouts, and school retention. The norm will be to provide a secondary school within 5 km and a higher secondary school within 7–8 km of every habitation. The GER in secondary education is targeted to increase from 52% in 2004–05 to 75% by 2011–12 and the combined secondary and senior secondary GER from 40% to 65% in the same period.
 
 #### Scheme for Universal Access and Quality at the Secondary Stage (SUCCESS)
 
@@ -1141,7 +1444,7 @@ Education
 
 1.2.20 There has been a significant impact of ICT in the delivery of educational services across the world. ICT infrastructure will be established at government and government-aided secondary and senior secondary schools during the Eleventh Plan period. There are about 1.4 lakh such schools out of which 1.08 lakh are government and government-aided schools. About 28000 schools are in far flung areas. About 80000 schools are proposed to be connected on Internet through terrestrial/wireless broadband mode and the remaining 28000 schools will be provided Internet connectivity through broadband Very Small Aperture Terminals. The latter mode of connectivity (satellite) has been proposed as the terrestrial infrastructure in the far flung and Schedule V regions is quite weak and service providers have no immediate plans to extend the broadband infrastructure in these regions. UPS with battery backups and solar power panels for uninterrupted power supply will also be provided as per requirements.
 
-1.2.21 An amount of Rs 5000 crore is being provided during the Eleventh Plan for providing ICT infrastructure in schools. Under this programme, each school will be provided with ICT infrastructure consisting of a networked computer lab with at least ten computers, a server, a printer connected on Local Area Network and broadband Internet connectivity of 2 Mbps. Every school will also have a technology classroom, with audio visual equipment for enhancing the learning. A dedicated programme for content creation as per the curricula will be undertaken as an integral part of this initiative. In addition, educational content on CDs for embellishing classroom teaching will also be made available. Training of teachers in the use of computers and teaching through computers will be another important component of this initiative.
+1.2.21 An amount of Rs 5000 crore is being provided during the Eleventh Plan for providing ICT infrastructure in schools. Under this programme, each school will be provided with ICT infrastructure consisting of
 
 [[END OF PAGE 34]]
 
@@ -1150,6 +1453,8 @@ Education
 18
 
 Eleventh Five Year Plan
+
+a networked computer lab with at least ten computers, a server, a printer connected on Local Area Network and broadband Internet connectivity of 2 Mbps. Every school will also have a technology classroom, with audio visual equipment for enhancing the learning. A dedicated programme for content creation as per the curricula will be undertaken as an integral part of this initiative. In addition, educational content on CDs for embellishing classroom teaching will also be made available. Training of teachers in the use of computers and teaching through computers will be another important component of this initiative.
 
 1.2.22 This revamped scheme of ICT in schools will be implemented in partnership with the States and private providers. This will be a sub-Mission of the National Mission of ICT of MHRD.
 
@@ -1175,7 +1480,7 @@ Eleventh Five Year Plan
 
 #### Teacher Education
 
-1.2.28 During the Tenth Plan, the thrust areas for Teacher Education are development and strengthening of teacher education institutes, improvement in quality of pre-service and in-service teacher education, professional development of teacher education, and assessment of students. All these were to ensure that teacher education leads to qualitative improvement of schools. The performance of teacher education programmes has not, however, been satisfactory. The objective of setting up DIETs was to influence the quality of teacher education through innovative pre-service and in-service education programmes. However, there seems to be no evidence of DIETs taking off, constrained as they are by several factors that are proposed to be addressed in the Eleventh Plan. The scheme of Restructuring and Reorganizing of Teacher Education, a CSS, has built up a large infrastructure base with 571 DIETs/DRCs, 104 Colleges of Teacher Education (CTEs), and 31 Institutes of Advanced Study in Education (IASEs) up to 2006-07. However, in view of the acute shortage of teachers, States have appointed a large number of para-teachers through VECs.
+1.2.28 During the Tenth Plan, the thrust areas for Teacher Education are development and strengthening of teacher education institutes, improvement in quality of pre-service and in-service teacher education, professional development of teacher education, and assessment of students. All these were to ensure that teacher education leads to qualitative improvement of schools. The performance of teacher education programmes has not, however, been satisfactory. The objective of setting up DIETs was to influence the
 
 [[END OF PAGE 35]]
 
@@ -1185,11 +1490,13 @@ Education
 
 19
 
-- 1.2.29 DIETs have not justified their existence in terms of outcomes despite their existence for about two decades. DIETs were in acute shortage of quality faculty and several DIETs were headless during the Tenth Plan. Structural problems and the absence of linkages with higher education seem to have isolated DIETs from current trends in research as well as from the academic community. The quality of teacher training leaves much to be desired. SCERTs have also not yet measured up to their expectations. It appears that quality faculty for DIETs needs to be outsourced or else DIETs should adopt the PPP mode, in partnership with reputed institutions to take up intensive and useful training activities. The Eleventh Plan should ensure that the DIETs fulfil their mandate.
+quality of teacher education through innovative pre-service and in-service education programmes. However, there seems to be no evidence of DIETs taking off, constrained as they are by several factors that are proposed to be addressed in the Eleventh Plan. The scheme of Restructuring and Reorganizing of Teacher Education, a CSS, has built up a large infrastructure base with 571 DIETs/DRCs, 104 Colleges of Teacher Education (CTEs), and 31 Institutes of Advanced Study in Education (IASEs) up to 2006–07. However, in view of the acute shortage of teachers, States have appointed a large number of para-teachers through VECs.
+
+1.2.29 DIETs have not justified their existence in terms of outcomes despite their existence for about two decades. DIETs were in acute shortage of quality faculty and several DIETs were headless during the Tenth Plan. Structural problems and the absence of linkages with higher education seem to have isolated DIETs from current trends in research as well as from the academic community. The quality of teacher training leaves much to be desired. SCERTs have also not yet measured up to their expectations. It appears that quality faculty for DIETs needs to be outsourced or else DIETs should adopt the PPP mode, in partnership with reputed institutions to take up intensive and useful training activities. The Eleventh Plan should ensure that the DIETs fulfil their mandate.
 
 - 1.2.30 A holistic framework cross-connecting various teacher education institutions ranging from those run by universities and research organizations to SCERTs, DIETs, BRCs, and CRCs is needed. A core team drawn from apex agencies and universities should be set up to evolve linkages and to draw up standards for teacher education, along with a plan for academic support at each level. This team will also formulate detailed guidelines for recruitment of teacher educators, academic responsibility, affiliation, and accountability.
 
-- 1.2.31 A grading system of DIETs/SCERTs will be evolved through NCERT/State Institute of Educational Management and Training (SIEMAT). All teacher training for elementary education will be brought under a single major head. All in-service training, preservice training, special courses, training for remedial
+1.2.31 A grading system of DIETs/SCERTs will be evolved through NCERT/State Institute of Educational Management and Training (SIEMAT). All teacher training for elementary education will be brought under a single major head. All in-service training, pre-service training, special courses, training for remedial
 
 coaching, training of master trainers, etc., will be brought under the aegis of DIETs. BRCs and CRCs will  be  organically  linked  with  DIETs. All  training institutions  (NCERT  to  CRCs)  will  be  properly strengthened and funded to enable them to conduct programmes of high standards.
 
@@ -1247,7 +1554,7 @@ There is a need to address the teacher training requirements in polytechnics. Te
 
 1.2.38 The Kothari Commission on Educational Reforms, 1964-66, had visualized that 25% of the students at the secondary stage would go for the vocational stream. The Kulandaiswamy Committee Report had targeted this figure at 15% to be achieved by 2000. According to the recent National Sample Survey Organization (NSSO) data, only 5% of the population of 19-24 age group in India have acquired some sort of skills through VE. The corresponding figure for Korea is 96%.
 
-1.2.39 The CSS of Vocationalization of Secondary Education at +2 level is being implemented since 1988. The revised scheme is in operation since 1992-93. The scheme provides financial assistance to States for setting up administrative structures, carrying out areavocational surveys, preparing curriculum guides training manuals, organizing teacher training programmes, strengthening technical support system for research and development (R&D), etc. It also provides financial assistance to NGOs and voluntary organizations (VO) for implementation of specific innovative projects for conducting short-term courses. Under the scheme, an enrolment capacity of over 10 lakh students in 9583 schools with about 21000 sections have been created so far.
+1.2.39 The CSS of Vocationalization of Secondary Education at +2 level is being implemented since 1988. The revised scheme is in operation since 1992–93. The scheme provides financial assistance to States for setting up administrative structures, carrying out area-vocational surveys, preparing curriculum guides training manuals, organizing teacher training programmes, strengthening technical support system for research and development (R&D), etc. It also provides financial assistance to NGOs and voluntary organizations (VO) for implementation of specific innovative projects for conducting short-term courses. Under the
 
 [[END OF PAGE 37]]
 
@@ -1256,6 +1563,8 @@ There is a need to address the teacher training requirements in polytechnics. Te
 Education
 
 21
+
+scheme, an enrolment capacity of over 10 lakh students in 9583 schools with about 21000 sections have been created so far.
 
 ### VOCATIONAL EDUCATION: STRATEGY AND TARGETS IN THE ELEVENTH PLAN
 
@@ -1305,43 +1614,41 @@ Eleventh Five Year Plan
 
 1.3.4 The focus of the Tenth Plan was on primary education with an expenditure of over Rs 50000 crore, whereas, the expenditure on university and higher education was below Rs 8000 crore. The growth of higher education system during the Tenth Plan is given in Table 1.3.1.
 
+TABLE 1.3.1
+Growth of Higher Education System
+
 No. of Institutions | 2002 | 2007
 --- | --- | ---
 Universities | 201 | 378
 Colleges | 12342 | 18064
-NAAC Accredited:
+NAAC Accredited: | |
 (i) Universities | 61 | 140
 (ii) Colleges | 198 | 3492
-Enrolment(lakh) | 75 | 140
+Enrolment (lakh) | 75 | 140
 
-TABLE 1.3.1 Growth of Higher Education System
-
-Source:
-
-UGC-NAAC.
+Source: UGC-NAAC.
 
 1.3.5 Our GER of around 11% is very low compared to the world average of 23.2%, 36.5% for countries in transition, 54.6% for the developed countries, and 22% for Asian countries. Further, with high disparities (Table 1.3.2), inclusive education has been an elusive target. 370 districts with GER less than the national average need enrolment drives and rapid expansion of higher education institutions.
 
+TABLE 1.3.2
+Disparities in GER, 2004–05
+
 Disparities | GER
---- | --- | ---
-Area:
-(i) | Rural | 6.70
-(ii) | Urban | 19.90
-Gender:
-(i) | Male | 12.40
-(ii) | Female | 9.10
-Social:
-(i) | SCs | 6.57
-(ii) | STs | 6.52
-(iii) | OBCs | 8.77
-(iv) | Others | 17.22
+--- | ---
+Area: |
+(i) Rural | 6.70
+(ii) Urban | 19.90
+Gender: |
+(i) Male | 12.40
+(ii) Female | 9.10
+Social: |
+(i) SCs | 6.57
+(ii) STs | 6.52
+(iii) OBCs | 8.77
+(iv) Others | 17.22
 ALL | 11.00
 
-TABLE 1.3.2 Disparities in GER, 2004-05
-
-Source:
-
-UGC.
+Source: UGC.
 
 1.3.6 We should aim to increase the GER to 21% by the end of the Twelfth Plan with an interim target of 15% by 2011-12. To achieve this, the enrolments in universities/colleges need to be substantially raised at an annual rate of 8.9% to reach 21 million by 2011-12.
 
@@ -1493,7 +1800,7 @@ They need to set their own goals and targets to assess their achievements and su
 
 (ii) Governance  related  autonomy  enables  the Governing Board and its Academic Councils to decide on personnel policies of the institutes, faculty recruitment and development plans, core areas  of  academics,  research  and  consultancy related strengths, delegation of administrative authority, and its performance review processes for faculty and non-faculty personnel.
 
-(iii) Financial Autonomy will enable institutions to mobilize resources from user fees, review feestructures, consultancy services, and donations. They can rationalize their fee structures according to the degree of excellence achieved both in terms of academic achievement and market value. It will also unshackle the institutions, enabling them to take bold initiatives regarding campus accretions/ additions, starting new faculties and new disciplines, creating competencies in new knowledge domains, expanding infrastructure, and enlarging
+(iii) Financial Autonomy will enable institutions to mobilize resources from user fees, review fee-structures, consultancy services, and donations. They can rationalize their fee structures according to the degree of excellence achieved both in terms of academic achievement and market value. It will also unshackle the institutions, enabling them to take bold initiatives regarding campus accretions/additions, starting new faculties and new disciplines, creating competencies in new knowledge domains, expanding infrastructure, and enlarging
 
 [[END OF PAGE 42]]
 
@@ -1531,7 +1838,7 @@ student outreach. The Governing Board should be left free to evolve policies rel
 
 1.3.27 30 CU will be set up including 16 on the basis of one CU in each of the 16 uncovered States such as Bihar, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, J&K, Jharkhand, Karnataka, Kerala, MP, Orissa,  Punjab,  Rajasthan,  Tamil  Nadu,  and Uttarakhand. The Indira Gandhi National Tribal University will be set up as a CU. In addition, it is proposed to establish 14 new CU aiming at world class standards. These universities will be set up through a single umbrella Central legislation and will be subject to the State providing land free of cost and signing a Memorandum of Understanding (MoU) for a minimum set of educational reforms in its university system whereby the new institutions serve as benchmarks of excellence for other universities and colleges.
 
-1.3.28 The proposed 14 World Class Universities (WCU) need to be carefully planned to have various schools including medical and engineering. Their establishment should be implemented in a creative mode, by setting up an autonomous project team comprising eminent people for each of the proposed WCU, who would design and implement the project creatively. The location of these institutions should be determined by competitively evaluating alternative offers of land by State. The location decision should balance the desire for achieving a greater geographical spread and the potential synergies arising from colocation with the existing reputed institutions and laboratories (e.g., Council of Scientific and Industrial Research [CSIR] laboratories). The setting up of WCU will take time, especially for them to come up to  full  strength.  But  locations  and  initiation  of work should get top priority during the Eleventh Plan so as to enable India to become the global knowledge hub and set benchmark for Central and other universities.
+1.3.28 The proposed 14 World Class Universities (WCU) need to be carefully planned to have various schools including medical and engineering. Their establishment should be implemented in a creative mode, by setting up an autonomous project team comprising eminent people for each of the proposed WCU, who would design and implement the project creatively. The location of these institutions should be determined by competitively evaluating alternative offers of land by State. The location decision should balance the desire for achieving a greater geographical spread and the potential synergies arising from co-location with the existing reputed institutions and laboratories (e.g., Council of Scientific and Industrial
 
 [[END OF PAGE 43]]
 
@@ -1541,19 +1848,21 @@ Education
 
 27
 
+Research [CSIR] laboratories). The setting up of WCU will take time, especially for them to come up to full strength. But locations and initiation of work should get top priority during the Eleventh Plan so as to enable India to become the global knowledge hub and set benchmark for Central and other universities.
+
 #### Supporting State Universities and Colleges
 
-1.3.29 About 8800 affiliated colleges of State universities,  mainly undergraduate colleges, are technically under the purview of UGC but do not get assistance as they do not meet the minimum eligibility norms in terms of physical facilities  and  human resources. During the Eleventh Plan, about 6000 colleges and 150 universities with focus on under served areas will  be  strengthened to enable these institutions to fulfil the criteria for UGC assistance. Each college and university will be provided Rs 2.0 crore and Rs 10 crore, respectively, based on DPR. But there must be corresponding funds from States plus willingness to raise funds internally.
+1.3.29 About 8800 affiliated colleges of State universities, mainly undergraduate colleges, are technically under the purview of UGC but do not get assistance as they do not meet the minimum eligibility norms in terms of physical facilities and human resources. During the Eleventh Plan, about 6000 colleges and 150 universities with focus on under served areas will be strengthened to enable these institutions to fulfil the criteria for UGC assistance. Each college and university will be provided Rs 2.0 crore and Rs 10 crore, respectively, based on DPR. But there must be corresponding funds from States plus willingness to raise funds internally.
+
+1.3.30 Although assistance is provided through UGC to about 160 State universities and 5625 colleges through development grants, due to the budgetary constraints the funding is low and insufficient affecting the quality of interventions. During the Eleventh Plan, these colleges and universities will be provided one-time assistance at the rate of Rs 1.0 crore and Rs 5.0 crore, again based on DPR. This support will be subject to the matching commitments on funding and reforms from the Centre, States, and institutions.
 
 #### Correcting Regional Imbalances: Establishing 370 New Degree Colleges
 
-1.3.31 States like Bihar, MP , and Orissa have low GER. To ensure better access with equity, a new CSS will be launched with a Central-State funding pattern of 1:2 (1:1 for Special Category States) for increasing intake capacity in the existing institutions or starting new institutions. Further, 370 new degree colleges will be established in districts with low GER based on careful selection.
+1.3.31 States like Bihar, MP, and Orissa have low GER. To ensure better access with equity, a new CSS will be launched with a Central–State funding pattern of 1:2 (1:1 for Special Category States) for increasing intake capacity in the existing institutions or starting new institutions. Further, 370 new degree colleges will be established in districts with low GER based on careful selection.
 
 #### Initiatives for Inclusive Education in States
 
-1.3.32 Focus on the disadvantaged sections (SCs, STs, OBCs, and minorities) holds the key to achieving the GER of 15% for the Plan. Financial assistance will be provided to the States on the basis of specific projects submitted for these social groups. Girl's hostels will be  constructed  in  districts  with  low  female  GER  and  high concentration of SCs STs, OBCs, and minorities. About 2000 hostels with a unit cost of Rs 1.0 crore will be provided during the Eleventh Plan subject to the recurrent expenditure being borne by the States/beneficiaries and hostels being managed by the respective institutions.
-
-1.3.30 Although assistance  is  provided  through UGC to about 160 State universities  and  5625 colleges through development grants, due to the budgetary constraints the funding is low and insufficient affecting  the  quality  of  interventions.  During  the Eleventh Plan, these colleges and universities will be provided one-time assistance at the rate of Rs 1.0 crore and Rs 5.0 crore, again based on DPR. This support will  be  subject  to  the  matching  commitments  on funding and reforms from the Centre, States, and institutions.
+1.3.32 Focus on the disadvantaged sections (SCs, STs, OBCs, and minorities) holds the key to achieving the GER of 15% for the Plan. Financial assistance will be provided to the States on the basis of specific projects submitted for these social groups. Girl’s hostels will be constructed in districts with low female GER and high concentration of SCs STs, OBCs, and minorities. About 2000 hostels with a unit cost of Rs 1.0 crore will be provided during the Eleventh Plan subject to the recurrent expenditure being borne by the States/beneficiaries and hostels being managed by the respective institutions.
 
 ### TECHNICAL EDUCATION
 
@@ -1641,7 +1950,7 @@ Eleventh Five Year Plan
 
 #### Tenth Plan Performance
 
-1.3.36 The Tenth Plan period saw a big increase in the number of technical and management institutions, mainly due to private initiatives. During the T enth Plan, the number of AICTE approved Degree Engineering/ Technology institutions has risen from 1057 to 1522 and the annual intake from 2.96 lakh to 5.83 lakh. The aggregate number of technical institutions and the intake capacity by the end of Tenth Plan were 4512 and 7.83 lakh, respectively.
+1.3.36 The Tenth Plan period saw a big increase in the number of technical and management institutions, mainly due to private initiatives. During the Tenth Plan, the number of AICTE approved Degree Engineering/Technology institutions has risen from 1057 to 1522 and the annual intake from 2.96 lakh to 5.83 lakh. The aggregate number of technical institutions and the intake capacity by the end of Tenth Plan were 4512 and 7.83 lakh, respectively.
 
 1.3.37 During the Tenth Plan the University of Roorkee was upgraded to an IIT and the number of IITs increased to seven. Seventeen RECs, two Indian Institutes of Science Education and Research (IISERs) at  Pune  and  Kolkata  were  also  set  up  and  three other institutions  were  upgraded  to  NIT  level. A new Indian Institute of Information Technology, Manufacturing and Design was established at Jabalpur making it the third institute in the series. All the four Technical Teacher Training Institutes were upgraded as  NITTTR. Several engineering colleges were conferred with Deemed to-be-University status. Many private universities became operational imparting technical education through legislation of various State Governments. Bengal Engineering College, a deemed university, was conferred with the status of unitary university and redesignated as Bengal University of Science and Technology. In several States, technical institutions were brought under the purview of new Technical  Universities  and  this  improved  quality and standards.
 
@@ -1657,7 +1966,7 @@ Education
 
 The AICTE has set up 106 virtual classrooms in identified  technical  institutions  under  Education Satellite (EDUSAT) scheme to share the knowledge of premier and well-established institutions with other institutions.
 
-- 1.3.39 To enhance learning effectiveness and to expand access to high-quality digital video-based courses, an NPTEL has been launched. The TEQIP aims at upscaling and supporting ongoing efforts of the GoI to improve quality of technical education. Under the scheme, 40 lead institutions (including 18 Centrally funded NITs) and 88 State engineering/network institutions (including 20 polytechnics) in 13 States have participated.  The  programme targets 10000 graduating students each year. It also imparts superior  skills  and  training  to  enhance  the  professional development of 1000 teachers. TEQIP Phase II is still  under negotiation and it is expected to be substantially  enlarged,  diversified,  made  more flexible and allow for greater involvement of States in design and implementation.
+1.3.39 To enhance learning effectiveness and to expand access to high-quality digital video-based courses, an NPTEL has been launched. The TEQIP aims at up-scaling and supporting ongoing efforts of the GoI to improve quality of technical education. Under the scheme, 40 lead institutions (including 18 Centrally funded NITs) and 88 State engineering/network institutions (including 20 polytechnics) in 13 States have participated. The programme targets 10000 graduating students each year. It also imparts superior skills and training to enhance the professional development of 1000 teachers. TEQIP Phase II is still under negotiation and it is expected to be substantially enlarged, diversified, made more flexible and allow for greater involvement of States in design and implementation.
 
 1.3.40 The Tenth Plan outlay for the technical education sub-sector was Rs 4700 crore, against which an expenditure of only Rs 3416 crore was incurred (73%).
 
@@ -1671,13 +1980,13 @@ The AICTE has set up 106 virtual classrooms in identified  technical  institutio
 
 #### Expansion of Intake Capacity in the Existing Central Institutions
 
-1.3.43 The recent recommendations of the OSC to increase the intake capacities of the Cen-trally funded technical institutions in the categories of IITs, NITs, IIITs, NITTTRs, and IIMs provide for an opportunity for major capacity expansion of high level technical and management institutions while providing for social equity.
+1.3.43 The recent recommendations of the OSC to increase the intake capacities of the Centrally funded technical institutions in the categories of IITs, NITs, IIITs, NITTTRs, and IIMs provide for an opportunity for major capacity expansion of high level technical and management institutions while providing for social equity.
 
 - 1.3.44 Considering the urgency in expanding the intake capacity due to the acceleration in demand for technical education, a quick feasibility study will be undertaken to decide upon the optimum intake capacity of the Central institutions and support them for additional infrastructure, etc. In view of the increasing demand particularly for MBAs, Departments/Institutes of Management and Business Administration in the university system will also be strengthened.
 
 #### Strengthening State Technical Institutions
 
-1.3.45 The State Engineering Colleges suffer from severe deficiencies in academic infrastructure, equipment, faculty, library facilities,  and  other  physical facilities. T op ranking students in entrance examination of the States opt for these institutions in view of relatively low fee structure and government recognition.  These  are  supposed to be model institutions for the private sector institutions to benchmark their standards. If standards and norms are insisted upon for private institutions, the government cannot keep its institutions in unsatisfactory condition.
+1.3.45 The State Engineering Colleges suffer from severe deficiencies in academic infrastructure, equipment, faculty, library facilities, and other physical facilities. Top ranking students in entrance examination of the States opt for these institutions in view of relatively low fee structure and government recognition. These are supposed to be model institutions for the private sector institutions to benchmark their standards. If standards and norms are insisted upon for private institutions, the government cannot keep its institutions in unsatisfactory condition.
 
 - 1.3.46 TEQIP Phase II is expected to be substantially enlarged to cover additional 200 State engineering institutions,  diversified,  made  more  flexible  and allow  for  greater  involvement  of  States  in  design and implementation. There will be one-time assistance for project-based support and funds will be released on performance and the State Government accepting a  minimum set of reforms including curriculum revision, internal assessments, faculty upgradation, adoption of seminar-tutorials,  and  the  semester system, etc. Proper appraisal system of the projects and effective Monitoring and Evaluation (ME) system will be established . TEQIP-II projects will be on log frame.
 
@@ -1695,19 +2004,17 @@ Eleventh Five Year Plan
 
 - Building cluster in strategic location enables innovation. Characteristically, in a cluster, research, technology management, investment and business skills, technology incubators and parks for startups are co-located, functionally linked, based on a common vision. The vision of such a cluster is to create necessary synergies and sharing of resources, ideas, and facilities.
 
-1.3.47 Efforts will be made to establish 50 centres for training and research in frontier areas like Biotechnology,  Bio-informatics,  Nano-materials and Nanotechnologies, Mechatronics, MEMS, High Performance Computing, Engineering, etc. However, these will be funded on the basis of specific proposals and on a competitive basis.
+1.3.47 Efforts will be made to establish 50 centres for training and research in frontier areas like Biotechnology, Bio-informatics, Nano-materials and Nano-technologies, Mechatronics, MEMS, High Performance Computing, Engineering, etc. However, these will be funded on the basis of specific proposals and on a competitive basis.
 
 ### SCIENCE AND TECHNOLOGY (S&T): THE CUTTING EDGE
 
-1.3.48 In the current knowledge era, our development depends crucially on the ability to harness S&T to find innovative solutions. Capabilities in S&T, therefore, are reckoned as a benchmark for establishing the status of the development of a nation. India must occupy a frontline position in this listing. The Eleventh Five Y ear Plan approach to S&T will be guided by this ambition and emphasis will be on:
+1.3.48 In the current knowledge era, our development depends crucially on the ability to harness S&T to find innovative solutions. Capabilities in S&T, therefore, are reckoned as a benchmark for establishing the status of the development of a nation. India must occupy a frontline position in this listing. The Eleventh Five Year Plan approach to S&T will be guided by this ambition and emphasis will be on:
 
 - Evolving an integrated S&T Plan involving UGC, Department of Science and Technology (DST), CSIR, Indian Council of Agricultural Research (ICAR), Departments of Atomic Energy and Space to provide the resources needed for substantially stepping up support to basic research, setting up a national level mechanism for evolving policies, and providing direction to basic research.
 
-- Enlarging the pool of scientific manpower and stren-gthening the S&T infrastructure. Focused efforts will be made to identify and nurture bright young students who can take up scientific research as a career.
+- Enlarging the pool of scientific manpower and strengthening the S&T infrastructure. Focused efforts will be made to identify and nurture bright young students who can take up scientific research as a career.
 
-- Promoting strong linkages with other countries in
-
-- the area of S&T, including participation in mega international science initiatives.
+- Promoting strong linkages with other countries in the area of S&T, including participation in mega international science initiatives.
 
 - Evolving an empowered National Science and Technology Commission responsible for all matters relating  to  S&T  (Administrative, Financial, and Scientific)  including scientific audit and performance assessment of scientists and scientific institutions through peer review.
 
@@ -1719,7 +2026,7 @@ Eleventh Five Year Plan
 
 #### National Science and Engineering Research Board (NSERB)
 
-1.3.50 Upgradation of science education and research infrastructure in the universities is a major challenge. The DST would adopt a two-pronged strategy to achieve this objective: (i) expansion and strengthening of S&T base in the universities through appropriate HRD measures and building up of research capabilities of the academic sector and (ii) funding for undertaking internationally competitive and front-ranking major research programmes. For this purpose, the existing Science and Engineering Research Council mechanism of the DST would be restructured into NSERB and a special program for rejuvenation of research in universities would be initiated. The proposed Board will address these issues and follow global best practices.
+1.3.50 Upgradation of science education and research infrastructure in the universities is a major challenge. The DST would adopt a two-pronged strategy to achieve this objective: (i) expansion and strengthening
 
 [[END OF PAGE 47]]
 
@@ -1728,6 +2035,8 @@ Eleventh Five Year Plan
 Education
 
 31
+
+of S&T base in the universities through appropriate HRD measures and building up of research capabilities of the academic sector and (ii) funding for undertaking internationally competitive and front-ranking major research programmes. For this purpose, the existing Science and Engineering Research Council mechanism of the DST would be restructured into NSERB and a special program for rejuvenation of research in universities would be initiated. The proposed Board will address these issues and follow global best practices.
 
 #### Reducing Wide Regional Disparities
 
@@ -1745,7 +2054,7 @@ reservation to OBCs without affecting the number of general seats. Of this, Rs 7
 
 1.3.54 At present, fees vary across universities, but generally these have been kept very low, in many cases not even covering 5% of the operating cost. The Centre and State Governments must either be able to subsidize university education massively or try to mobilize a reasonable amount from those who can afford it by way of fees that cover a reasonable part of the running cost. Since most university students come from the top 10% of the population by income levels, they would be able to pay fees amounting up to 20% of the operating cost of general university education. The fees for professional courses could be much higher. The fee levels
 
-##### Box 1.3.4 Faculty Augmentation and Development in Science and T echnology
+##### Box 1.3.4 Faculty Augmentation and Development in Science and Technology
 
 - Substantial increase in the intake in Junior Research Fellowship (JRF);
 
@@ -1911,7 +2220,7 @@ Education
 
 1.3.78 The proposed NLSI will focus on 22 languages in the Eighth Schedule and their geo-space but would also pay special attention to the top 15 Non-Scheduled languages and also to the sign languages that are as complex as spoken languages. The Survey will be conducted by the Central Institute of Indian Languages (CIIL), Mysore, and the Departments in select universities that have a strong base in sociology, anthropology, etc.
 
-1.3.79 At present there is no scheme or organization devoted exclusively for the development of NonSchedule VIII languages. A new scheme for the preservation and development of languages not covered by the Eighth Schedule, namely the Bharat Bhasha Vikas Yojana would be taken up.
+1.3.79 At present there is no scheme or organization devoted exclusively for the development of Non-Schedule VIII languages. A new scheme for the preservation and development of languages not covered by the Eighth Schedule, namely the Bharat Bhasha Vikas Yojana would be taken up.
 
 1.3.80 The National Translation Mission would cover Translators' Education: running short-term training programmes; creating a course for translators as a part of language teaching programme; developing specialized  courses  in  translation  technology  and  related areas; information dissemination; etc.
 
@@ -1947,67 +2256,62 @@ Eleventh Five Year Plan
 
 [[START OF PAGE 54]]
 
-( Annexure 1.2.1 contd. )
+### ANNEXURE 1.2.1 Major Education Statistics, 2004–05
 
-Lakh of Population per Institution | College Tech- nical | 17 | 1.97 | 5.70 | 25.34 | 43.87 18.25 | 1.57 | 5.55 | 2.20 | 7.00 | 6.64 | 18.93 | 1.84 | 2.68 | 6.15 | 2.99 | 11.25 | 24.1 4.60 | 6.90 | 7.05 5.52 | 10.71 1.87 | 1.51 16.6
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-16 | 0.59 | 1.14 | 0.88 1.18 | 1.03 | 0.61 | 1.05 | 1.35 0.71 | 2.12 | 2.43 | 0.59 | 1.76 | 0.84 | 0.84 | 0.39 | 0.45 0.35 | 0.56 0.54 | 1.20 0.98 | 2.8 | 1.44 | 2.37
-Univ- ersity | 15 | 31.6 | 11.4 | 46.5 46.2 | 43.8 | 14.1 | 26.6 | 24.9 | 9 11.8 | 35.5 | 20.3 | 40.9 | 30.5 | 24.8 | 11.25 | 24.1 | 9.2 20.7 | 25.4 28.2 | 24 | 2.8 16.4 | 33.2
-Tenth Plan SSA Exp. | Per capita 6-14 age | 14 | 1387 | 8179 | 2186 1319 | 3513 | 1119 | 1096 | 1800 | 3658 | 2518 2480 | 1909 | 893 | 2844 | 1327 | 1389 | 1897 8826 | 1708 | 2315 1486 | 2089 | 2848 1965 | 3622
-% of Total | 13 | 5.09 0.53 | 3.28 6.99 | 4.06 | 0.05 | 2.74 | 2.07 1.03 | 1.36 | 4.03 | 4.81 | 1.10 | 9.96 | 6.22 | 0.15 | 0.27 0.40 | 0.20 | 4.25 1.70 | 7.16 | 0.08 4.91 | 0.60
-(Rs cr) | 12 | 1806.75 187.30 | 1165.14 | 2479.49 | 1439.83 | 19.03 | 972.75 | 732.96 366.50 | 482.54 | 1429.56 | 1707.17 | 390.72 | 3534.59 | 2205.65 | 52.07 | 94.10 141.21 | 69.86 | 1506.65 602.66 | 2540.85 | 29.33 1742.08 | 214.40
-Schools per lakh population | Sec./ Hr Sec | 11 | 22 19 | 19 4 | 12 | 31 | 14 | 23 37 | 13 | 4 | 21 | 16 | 13 18 | 31 | 29 56 | 18 | 23 | 16 17 | 29 14 | 20
-Elem. | 10 | 99 163 | 137 57 | 203 | 76 | 73 | 63 212 | 153 76 | 97 | 30 | 205 | 67 | 150 317 | 263 97 | 162 | 62 137 | 155 63 | 84
-PTR | UP | 9 | 31 30 | 16 75 | 46 | 17 | 39 | 30 30 | 16 | 61 | 37 | 27 | 30 | 37 | 20 | 16 8 | 16 | 44 19 | 34 | 25 41 | 15
-Primary | 8 | 33 34 | 42 104 | 48 | 21 | 35 | 44 | 24 | 34 81 | 26 | 28 | 43 | 37 | 30 | 44 17 | 19 | 53 43 | 49 | 22 33 | 54
-GER Drop- out | Classes (I-X) | 7 | 63.69 70.79 | 74.96 83.06 | 0.00 | 40.65 | 59.29 | 32.48 -6.98 | 53.75 | 0.00 | 59.38 | 7.15 | 64.70 | 54.16 | 43.02 | 79.15 | 66.95 97.29 | 64.42 44.06 | 73.87 82.30 | 55.19 | 73.36
-Classes (I-VIII) | 6 | 86.99 | 106.70 | 91.92 65.16 | 112.63 | 106.04 | 101.70 | 80.01 108.74 | 74.45 | 75.82 | 98.76 | 95.35 | 114.09 | 105.70 | 129.65 | 121.93 | 109.51 75.76 | 108.47 72.57 | 102.67 | 111.49 113.96 | 109.59
-Literacy 2001 | 5 | 60.5 | 54.3 | 63.3 47.0 | 64.7 | 82.0 | 69.1 | 67.9 | 76.5 55.5 | 53.6 | 66.6 | 90.9 | 63.7 | 76.9 | 70.5 | 62.6 | 88.8 66.6 | 63.1 | 69.7 60.4 | 68.8 73.5 | 73.2
-Population (Cr) | 6-14 age 2004 | 4 | 1.30 0.02 | 0.53 1.88 | 0.41 | 0.02 | 0.89 | 0.41 | 0.10 0.19 | 0.58 | 0.89 | 0.44 | 1.24 | 1.66 0.04 | 0.05 0.02 | 0.04 0.65 | 0.41 | 1.22 | 0.01 0.89 | 0.06
-Total Census 2001 | 3 | 7.62 | 0.11 | 2.67 8.30 | 2.08 | 0.13 | 5.06 | 2.11 | 0.61 1.01 | 2.69 | 5.28 | 3.18 | 6.03 | 9.69 0.22 | 0.23 0.09 | 0.20 | 3.68 2.43 | 5.65 | 0.05 6.24 | 0.32
-State/UT | 2 | Andhra Pradesh Arunachal Pradesh Assam | Bihar | Chhattisgarh | Goa | Gujarat | Haryana | Himachal Pradesh Jammu & Kashmir | Jharkhand | Karnataka | Kerala | Madhya Pradesh | Maharashtra | Manipur | Meghalaya | Mizoram | Nagaland Orissa | Punjab Rajasthan | Sikkim Tamil Nadu | Tripura
+S. No. | State/UT | Population (Cr) |  | Literacy 2001 | GER | Drop-out | PTR |  | Schools per lakh population |  | Tenth Plan SSA Exp. |  |  | Lakh of Population per Institution |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Total Census 2001 | 6–14 age 2004 |  | Classes (I–VIII) | Classes (I–X) | Primary | UP | Elem. | Sec./Hr Sec | (Rs cr) | % of Total | Per capita 6–14 age | University | College | Technical
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17
+1. | Andhra Pradesh | 7.62 | 1.30 | 60.5 | 86.99 | 63.69 | 33 | 31 | 99 | 22 | 1806.75 | 5.09 | 1387 | 31.6 | 0.59 | 1.97
+2. | Arunachal Pradesh | 0.11 | 0.02 | 54.3 | 106.70 | 70.79 | 34 | 30 | 163 | 19 | 187.30 | 0.53 | 8179 | 11.4 | 1.14 | 5.70
+3. | Assam | 2.67 | 0.53 | 63.3 | 91.92 | 74.96 | 42 | 16 | 137 | 19 | 1165.14 | 3.28 | 2186 | 46.5 | 0.88 | 25.34
+4. | Bihar | 8.30 | 1.88 | 47.0 | 65.16 | 83.06 | 104 | 75 | 57 | 4 | 2479.49 | 6.99 | 1319 | 46.2 | 1.18 | 43.87
+5. | Chhattisgarh | 2.08 | 0.41 | 64.7 | 112.63 | 0.00 | 48 | 46 | 203 | 12 | 1439.83 | 4.06 | 3513 | 43.8 | 1.03 | 18.25
+6. | Goa | 0.13 | 0.02 | 82.0 | 106.04 | 40.65 | 21 | 17 | 76 | 31 | 19.03 | 0.05 | 1119 | 14.1 | 0.61 | 1.57
+7. | Gujarat | 5.06 | 0.89 | 69.1 | 101.70 | 59.29 | 35 | 39 | 73 | 14 | 972.75 | 2.74 | 1096 | 26.6 | 1.05 | 5.55
+8. | Haryana | 2.11 | 0.41 | 67.9 | 80.01 | 32.48 | 44 | 30 | 63 | 23 | 732.96 | 2.07 | 1800 | 24.9 | 1.35 | 2.20
+9. | Himachal Pradesh | 0.61 | 0.10 | 76.5 | 108.74 | -6.98 | 24 | 30 | 212 | 37 | 366.50 | 1.03 | 3658 | 9 | 0.71 | 7.00
+10. | Jammu & Kashmir | 1.01 | 0.19 | 55.5 | 74.45 | 53.75 | 34 | 16 | 153 | 13 | 482.54 | 1.36 | 2518 | 11.8 | 2.12 | 6.64
+11. | Jharkhand | 2.69 | 0.58 | 53.6 | 75.82 | 0.00 | 81 | 61 | 76 | 4 | 1429.56 | 4.03 | 2480 | 35.5 | 2.43 | 18.93
+12. | Karnataka | 5.28 | 0.89 | 66.6 | 98.76 | 59.38 | 26 | 37 | 97 | 21 | 1707.17 | 4.81 | 1909 | 20.3 | 0.59 | 1.84
+13. | Kerala | 3.18 | 0.44 | 90.9 | 95.35 | 7.15 | 28 | 27 | 30 | 16 | 390.72 | 1.10 | 893 | 40.9 | 1.76 | 2.68
+14. | Madhya Pradesh | 6.03 | 1.24 | 63.7 | 114.09 | 64.70 | 43 | 30 | 205 | 13 | 3534.59 | 9.96 | 2844 | 30.5 | 0.84 | 6.15
+15. | Maharashtra | 9.69 | 1.66 | 76.9 | 105.70 | 54.16 | 37 | 37 | 67 | 18 | 2205.65 | 6.22 | 1327 | 24.8 | 0.84 | 2.99
+16. | Manipur | 0.22 | 0.04 | 70.5 | 129.65 | 43.02 | 30 | 20 | 150 | 31 | 52.07 | 0.15 | 1389 | 11.25 | 0.39 | 11.25
+17. | Meghalaya | 0.23 | 0.05 | 62.6 | 121.93 | 79.15 | 44 | 16 | 317 | 29 | 94.10 | 0.27 | 1897 | 24.1 | 0.45 | 24.1
+18. | Mizoram | 0.09 | 0.02 | 88.8 | 109.51 | 66.95 | 17 | 8 | 263 | 56 | 141.21 | 0.40 | 8826 | 9.2 | 0.35 | 4.60
+19. | Nagaland | 0.20 | 0.04 | 66.6 | 75.76 | 97.29 | 19 | 16 | 97 | 18 | 69.86 | 0.20 | 1708 | 20.7 | 0.56 | 6.90
+20. | Orissa | 3.68 | 0.65 | 63.1 | 108.47 | 64.42 | 53 | 44 | 162 | 23 | 1506.65 | 4.25 | 2315 | 25.4 | 0.54 | 7.05
+21. | Punjab | 2.43 | 0.41 | 69.7 | 72.57 | 44.06 | 43 | 19 | 62 | 16 | 602.66 | 1.70 | 1486 | 28.2 | 1.20 | 5.52
+22. | Rajasthan | 5.65 | 1.22 | 60.4 | 102.67 | 73.87 | 49 | 34 | 137 | 17 | 2540.85 | 7.16 | 2089 | 24 | 0.98 | 10.71
+23. | Sikkim | 0.05 | 0.01 | 68.8 | 111.49 | 82.30 | 22 | 25 | 155 | 29 | 29.33 | 0.08 | 2848 | 2.8 | 2.8 | 1.87
+24. | Tamil Nadu | 6.24 | 0.89 | 73.5 | 113.96 | 55.19 | 33 | 41 | 63 | 14 | 1742.08 | 4.91 | 1965 | 16.4 | 1.44 | 1.51
+25. | Tripura | 0.32 | 0.06 | 73.2 | 109.59 | 73.36 | 54 | 15 | 84 | 20 | 214.40 | 0.60 | 3622 | 33.2 | 2.37 | 16.6
 
-### ANNEXURE 1.2.1 Major Education Statistics, 2004-05
+(Annexure 1.2.1 contd.)
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
 
-17 | 11.76 | 4.46 | 8.86 | 1.95 | 3.33 | 2.39 | 1.90 | 3.69 | 1.01
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-16 | 1.75 | 1.04 | 2.23 | 1.3 | 0.83 | 1.9 | 2.4 | 0.92
-15 | 45.2 | 9.9 | 34.7 | 3.33 | 1 | 10.1
-14 | 1878 | 3258 | 1438 | 2592 | 1146 | 975 | 479 | 358 | 53 | 981
-13 | 19.27 | 1.51 | 5.78 | 0.04 | 0.05 | 0.01 | 0.00 | 0.25 | 0.00 | 0.04
-12 | 6836.31 | 533.95 | 2051.18 | 15.29 | 16.04 | 3.90 | 0.91 | 88.91 | 0.10 | 13.83
-11 | 7 | 21 | 10 | 24 | 12 | 9 | 15 | 11 | 16 | 22
-10 | 95 | 207 | 63 | 69 | 3 | 91 | 40 | 20 | 38 | 45
-9 | 35 | 18 | 44 | 18 | 29 | 43 | 29 | 26 | 16 | 21
-8 | 58 | 25 | 54 | 20 | 41 | 62 | 43 | 40 | 21 | 24
-7 | 43.77 | 0.00 | 78.03 | 36.97 | 16.73 | 67.06 | 43.43 | 46.92 | 18.88 | 16.89
-6 | 87.04 | 106.39 | 94.67 | 107.97 | 71.87 | 113.70 | 128.85 | 91.84 | 58.75 | 121.34
-5 | 56.3 | 71.6 | 68.6 | 81.3 | 81.9 | 57.6 | 78.2 | 81.7 | 86.7 | 81.2
-4 | 3.64 | 0.16 | 1.43 | 0.01 | 0.01 | 0.00 | 0.00 | 0.25 | 0.00 | 0.01
-3 | 16.62 | 0.85 | 8.02 | 0.03 | 0.09 | 0.02 | 0.06 | 1.38 | 0.01 | 0.1
-Nicobar | Haveli
-Nagar | Diu
-Bengal | & | &
-Pradesh | &
-Lakshadweep
-Dadra
-Daman
-Uttar
-Uttaranchal | Islands | Chandigarh
-West
-2 | Delhi
-Andaman
-29.
+(Annexure 1.2.1 contd.)
 
-( Annexure 1.2.1 contd. )
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+26. | Uttar Pradesh | 16.62 | 3.64 | 56.3 | 87.04 | 43.77 | 58 | 35 | 95 | 7 | 6836.31 | 19.27 | 1878 | 45.2 | 1.75 | 11.76
+27. | Uttaranchal | 0.85 | 0.16 | 71.6 | 106.39 | 0.00 | 25 | 18 | 207 | 21 | 533.95 | 1.51 | 3258 | 9.9 | 1.04 | 4.46
+28. | West Bengal | 8.02 | 1.43 | 68.6 | 94.67 | 78.03 | 54 | 44 | 63 | 10 | 2051.18 | 5.78 | 1438 | 34.7 | 2.23 | 8.86
+29. | Andaman & Nicobar Islands | 0.03 | 0.01 | 81.3 | 107.97 | 36.97 | 20 | 18 | 69 | 24 | 15.29 | 0.04 | 2592 |  | 1.3 | 1.95
+30. | Chandigarh | 0.09 | 0.01 | 81.9 | 71.87 | 16.73 | 41 | 29 | 3 | 12 | 16.04 | 0.05 | 1146 | 3.33 | 0.83 | 3.33
+31. | Dadra & Nagar Haveli | 0.02 | 0.00 | 57.6 | 113.70 | 67.06 | 62 | 43 | 91 | 9 | 3.90 | 0.01 | 975 |  |  | 2.39
+32. | Daman & Diu | 0.06 | 0.00 | 78.2 | 128.85 | 43.43 | 43 | 29 | 40 | 15 | 0.91 | 0.00 | 479 |  | 1.9 | 1.90
+33. | Delhi | 1.38 | 0.25 | 81.7 | 91.84 | 46.92 | 40 | 26 | 20 | 11 | 88.91 | 0.25 | 358 | 1 | 2.4 | 3.69
+34. | Lakshadweep | 0.01 | 0.00 | 86.7 | 58.75 | 18.88 | 21 | 16 | 38 | 16 | 0.10 | 0.00 | 53 |  |  | 
+35. | Pondicherry | 0.1 | 0.01 | 81.2 | 121.34 | 16.89 | 24 | 21 | 45 | 22 | 13.83 | 0.04 | 981 | 10.1 | 0.92 | 1.01
+India | 102.86 | 19.46 | 64.8 | 93.54 | 61.92 | 46 | 35 | 97 | 14 | 35473.61 | 100.0 | 1823 | 27.4 | 1.04 | 4.36
 
-> GER: Gross Enrolment Ratio; PTR: Pupil Teacher Ratio; UP: Upper Primary.
-
-Note: Source: Selected Educational Statistics, 2004-05.
+Note: GER: Gross Enrolment Ratio; PTR: Pupil Teacher Ratio; UP: Upper Primary.
+Source: Selected Educational Statistics, 2004–05.
 
 [[END OF PAGE 55]]
 
@@ -2016,6 +2320,8 @@ Note: Source: Selected Educational Statistics, 2004-05.
 Education
 
 39
+
+### ANNEXURE 1.3.1 National Institutions
 
 S. No. | State/UT | Population (Cr) | IITs | IIMs | CU | CSIR | ICAR | DST | ICMR | Others* | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -2056,8 +2362,6 @@ S. No. | State/UT | Population (Cr) | IITs | IIMs | CU | CSIR | ICAR | DST | ICM
 34 | Lakshadweep | 0.01 | 0
 35 | Pondicherry | 0.1 | 1 | 1 | 2
 India | 102.86 | 7 | 6 | 23 | 40 | 95 | 14 | 29 | 25 | 237
-
-### ANNEXURE 1.3.1 National Institutions
 
 Note: * Others include DBT, DOC, DAE, MOEF.
 
@@ -2110,7 +2414,7 @@ Item 8: For ICT enabled networked digital campuses with each student having acce
 
 #### Existing Schemes and Programmes
 
-2.1.2 At present, 12 schemes and programmes are being implemented for the development of youth and adolescents. These schemes can be broadly categorized into two groups, viz., youth based organizations and youth development activities. The NYKS and National Service Scheme (NSS) are the two flagship programmes encompassing a major part of its activities in institutional, functional, and financial terms (60%). The Rajiv Gandhi National Institute of Youth Development (RGNIYD), established in 1993, has been engaged in education, training, and research on youth development. The scheme of Youth Hostel aims at promoting youth travel and provides boarding and lodging facilities at very subsidized rates. The National Service Volunteers Scheme (NSVS) and Rashtriya Sadbhavana Yojana (RSY) aim at providing opportunities  to  educated  youths  other  than  students  to involve themselves voluntarily in youth and community  developmental activities. The schemes are for performing activities related to vocational training, development of adolescents, national integration and adventure, for which financial assistance is provided to NYKS and other NGOs/institutions. Grant-in-aid is provided to Bharat Scouts and Guides for conducting training camps and holding of jamborees, etc., throughout the country. The scheme of 'Cultural Y outh Programmes with Commonwealth Countries' is an effective institution for promoting exchange of ideas, values,  and  culture  among  youth  and  strengthens better relations.
+2.1.2 At present, 12 schemes and programmes are being implemented for the development of youth and adolescents. These schemes can be broadly categorized into two groups, viz., youth based organizations and youth development activities. The NYKS and National Service Scheme (NSS) are the two flagship programmes encompassing a major part of its activities in institutional, functional, and financial terms (60%). The Rajiv Gandhi National Institute of Youth Development (RGNIYD), established in 1993, has been engaged in education, training, and research on youth development. The scheme of Youth Hostel aims at promoting youth travel and provides boarding and lodging facilities at very subsidized rates. The National Service Volunteers Scheme (NSVS) and Rashtriya Sadbhavana Yojana (RSY) aim at providing opportunities to educated youths other than students to involve themselves voluntarily in youth and community developmental activities. The schemes are for performing activities related to vocational training, development of adolescents, national integration and adventure, for which financial assistance is provided to NYKS and other NGOs/institutions. Grant-in-aid is provided to Bharat Scouts and Guides for conducting training camps and holding of jamborees, etc., throughout the country. The scheme of 'Cultural Youth Programmes with Commonwealth Countries' is an effective institution for promoting exchange of ideas, values, and culture among youth and strengthens better relations.
 
 #### Performance during the Plan Period
 
@@ -2129,14 +2433,14 @@ Eleventh Five Year Plan
 2.1.5 The NSS has been included as one of the priority areas under the National Common Minimum Programme (NCMP), which emphasizes the need to  provide  opportunities  for  the  youth  to  involve themselves in national and social development through educational institutions. Under the revised 20-Point Programme, RSY and NSS have been made a part of the specific monitorable targets. The NSS motto 'you, not me' seeks to invite a spirit of volunteerism and community service in youth minds.
 
 #### Review of Performance during the Tenth Plan
-2.1.6 As against the Tenth Plan outlay of Rs 677.64 crore, an amount of Rs 642.06 crore was provided in the annual plans and the aggregate expenditure was Rs 522.64 crore accounting for 77% of outlay and 81% of allocations (Annexure 2.1.1). The physical achievements under the various schemes were short of the target. The NYKS could not extend its activities beyond 500 districts that were covered by end of the Ninth Plan. A logical linkage between grassroots youth organizations such as youth clubs, sports clubs, mahila mandal s, etc., and NYKS could not fully materialize. Although the progress of NSS has been relatively better, it had not kept pace with desired expansion to universities, colleges, and +2 school networks. RGNYID continued to suffer teething problems and could start functioning only during the latter part of Tenth Plan. Presently, there are 72 youth hostels, 18 are under construction, and 32 have been approved in-principle. Only a few government-owned youth hostels could get affiliation to the International Y outh Hostels Association as they failed to meet the prescribed standards on accommodation, reception, hygiene, security, etc. The mega youth exchange programme with China, as a part of the activities during the India-China Friendship Year, 2006, has however, been a major success.
+2.1.6 As against the Tenth Plan outlay of Rs 677.64 crore, an amount of Rs 642.06 crore was provided in the annual plans and the aggregate expenditure was Rs 522.64 crore accounting for 77% of outlay and 81% of allocations (Annexure 2.1.1). The physical achievements under the various schemes were short of the target. The NYKS could not extend its activities beyond 500 districts that were covered by end of the Ninth Plan. A logical linkage between grassroots youth organizations such as youth clubs, sports clubs, mahila mandals, etc., and NYKS could not fully materialize. Although the progress of NSS has been relatively better, it had not kept pace with desired expansion to universities, colleges, and +2 school networks. RGNYID continued to suffer teething problems and could start functioning only during the latter part of Tenth Plan. Presently, there are 72 youth hostels, 18 are under construction, and 32 have been approved in-principle. Only a few government-owned youth hostels could get affiliation to the International Youth Hostels Association as they failed to meet the prescribed standards on accommodation, reception, hygiene, security, etc. The mega youth exchange programme with China, as a part of the activities during the India–China Friendship Year, 2006, has however, been a major success.
 
-2.1.7 Considering huge and ever-increasing youth population in India, and to achieve the goals set for the  Tenth  Plan,  the  National Youth  Policy  1998 was replaced by a New National Youth Policy-2003 with four thrust areas, viz. (i) Y outh Empowerment; (ii) Gender Justice; (iii) Inter-sectoral Approach; and (iv) Information and Research Network.
+2.1.7 Considering huge and ever-increasing youth population in India, and to achieve the goals set for the Tenth Plan, the National Youth Policy 1998 was replaced by a New National Youth Policy-2003 with four thrust areas, viz. (i) Youth Empowerment; (ii) Gender Justice; (iii) Inter-sectoral Approach; and (iv) Information and Research Network.
 
-2.1.8 The policy accords priority to the following groups of young people including (i) Rural and Tribal Youth; (ii)  Out-of-School Youth; (iii) Adolescents, particularly female adolescents; (iv) Youth with disabilities; and (v) Y outh under especially difficult circumstances like victims of trafficking, orphans, and street children.
+2.1.8 The policy accords priority to the following groups of young people including (i) Rural and Tribal Youth; (ii) Out-of-School Youth; (iii) Adolescents, particularly female adolescents; (iv) Youth with disabilities; and (v) Youth under especially difficult circumstances like victims of trafficking, orphans, and street children.
 
 #### Approach and Strategy for the Eleventh Plan
-2.1.9 The Eleventh Plan envisages a holistic approach and comprehensive strategy to enable the development and realization of the full potential of the youth in the country and channelize their energy towards socioeconomic development and growth of the nation. To achieve the goals of empowering and enabling the youth to become effective and productive participants in the socio-economic changes, a de novo look at the existing policies, instruments and institutions, initiation of innovative policies, efficient and effective instruments, and creative ways to rejuvenate institutions would be taken up. Synergy and convergence of efforts will be ensured. Evaluation of existing schemes/ programmes, through an independent agency, would be mandatory and restructuring of schemes under Zero Based Budgeting (ZBB) will be a regular annual budgetary exercise.
+2.1.9 The Eleventh Plan envisages a holistic approach and comprehensive strategy to enable the development and realization of the full potential of the youth in the country and channelize their energy towards socio-economic development and growth of the nation. To achieve the goals of empowering and enabling the youth to become effective and productive participants in the socio-economic changes, a de novo look at the existing policies, instruments and institutions, initiation of innovative policies, efficient and effective instruments, and creative ways to rejuvenate institutions would be taken up. Synergy and convergence of efforts will be ensured. Evaluation of existing schemes/programmes, through an independent agency, would be mandatory and restructuring of schemes under Zero Based Budgeting (ZBB) will be a regular annual budgetary exercise.
 
 [[END OF PAGE 59]]
 
@@ -2150,9 +2454,9 @@ Youth Affairs and Sports and Art and Culture
 
 ##### (i) NEHRU YUVA KENDRA SANGATHAN (NYKS)
 
-2.1.10 The thrust of the NYKS would be on a consolidating, expanding, and energizing the youth club movement. There would be a paradigm shift in the manner of its  functioning  and  implementation. The services of NYKS would be utilized for fostering secular values, national unity, and against extremism in the country through a number of existing and new programmes. A flexible approach would be adopted to  register  active  clubs.  The  youth  clubs  would  be regrouped into three categories 'A' , 'B' , and 'C' as per their performance and activeness. Focus would be on encouraging the clubs to move up the ladder and become active and self-sustaining/self-reliant. The reach of NYKS would be extended to all 609 districts in the country. Female membership would be increased
+2.1.10 The thrust of the NYKS would be on a consolidating, expanding, and energizing the youth club movement. There would be a paradigm shift in the manner of its functioning and implementation. The services of NYKS would be utilized for fostering secular values, national unity, and against extremism in the country through a number of existing and new programmes. A flexible approach would be adopted to register active clubs. The youth clubs would be regrouped into three categories 'A', 'B', and 'C' as per their performance and activeness. Focus would be on encouraging the clubs to move up the ladder and become active and self-sustaining/self-reliant. The reach of NYKS would be extended to all 609 districts in the country. Female membership would be increased through special campaigns. Computerized Management Information System (MIS) would be introduced for monitoring purposes. The selection procedure for filling up the posts would be reviewed. NYKS would involve State Governments in implementation of various programme activities.
 
-##### Box 2.1.1 Objectives of the Eleventh Plan-  Youth Affairs
+##### Box 2.1.1 Objectives of the Eleventh Plan— Youth Affairs
 
 - Holistic adolescent development through convergence of schemes;
 
@@ -2162,13 +2466,11 @@ Youth Affairs and Sports and Art and Culture
 
 - Greater female participation in youth development programmes;
 
-- Special  focus  on  engaging  rural  youths  in  nationbuilding  activities  transcending  beyond  social, economic, religious, and linguistic boundaries.
-
-through special campaigns. Computerized Management Information System (MIS) would be introduced for  monitoring purposes. The selection procedure for  filling  up  the  posts  would  be  reviewed.  NYKS would involve State Governments in implementation of various programme activities.
+- Special focus on engaging rural youths in nation-building activities transcending beyond social, economic, religious, and linguistic boundaries.
 
 ##### (ii) NATIONAL SERVICE SCHEME (NSS)
 
-- 2.1.11 NSS would be strengthened and expanded from 2.60 million to 5.10 million volunteers and made more effective through qualitative improvements in the programme activities. NSS would be extended to uncovered universities, colleges, technical institutes, and senior secondary schools. The feasibility of extending NSS to class IX will be examined separately. The funding pattern would be revised from the existing 70:50 to 75:25, at par with National Cadet Corps, for normal States and 90:10 in the case of NE States.
+2.1.11 NSS would be strengthened and expanded from 2.60 million to 5.10 million volunteers and made more effective through qualitative improvements in the programme activities. NSS would be extended to uncovered universities, colleges, technical institutes, and senior secondary schools. The feasibility of extending NSS to class IX will be examined separately. The funding pattern would be revised from the existing 70:50 to 75:25, at par with National Cadet Corps, for normal States and 90:10 in the case of NE States.
 
 ##### (iii) RAJIV GANDHI NATIONAL INSTITUTE OF YOUTH DEVELOPMENT (RGNIYD)
 
@@ -2176,11 +2478,11 @@ through special campaigns. Computerized Management Information System (MIS) woul
 
 ##### (iv) YOUTH HOSTELS
 
-- 2.1.13 To encourage youth travel, youth hostels are envisaged at historical, cultural, and tourist places in the country as a joint venture between the Central and the State Governments. The construction and maintenance and operations could be taken up in a self-sustaining manner in the PPP/franchising mode. Some portion of the hostels could also be earmarked with differential tariff and facilities so as to generate additional resource to meet maintenance and up keep of the campus.
+2.1.13 To encourage youth travel, youth hostels are envisaged at historical, cultural, and tourist places in the country as a joint venture between the Central and the State Governments. The construction and maintenance and operations could be taken up in a self-sustaining manner in the PPP/franchising mode. Some portion of the hostels could also be earmarked with differential tariff and facilities so as to generate additional resource to meet maintenance and up keep of the campus.
 
 ##### (v) NATIONAL PROGRAMME FOR YOUTH AND ADOLESCENT DEVELOPMENT
 
-- 2.1.14 The programmes/schemes being funded through grant-in-aid/financial assistance under 'Yuva
+2.1.14 The programmes/schemes being funded through grant-in-aid/financial assistance under 'Yuva
 
 [[END OF PAGE 60]]
 
@@ -2194,7 +2496,7 @@ Shakti Abhiyan' for youth and adolescent development will be restructured and pl
 
 ##### (vi) OTHER SCHEMES
 
-2.1.15 The volunteers under NSVS and RSY are the backbone of NYKS. These schemes should be merged with  NYKS and should be renamed as 'National Volunteer Scheme' . The existing scheme, namely, CYP would be strengthened. The mega youth exchange programme with China will be continued as a regular feature. Scouting and Guiding would be continued with  renewed  focus  to  develop  the  character  of young boys and girls and inculcate in them a spirit of patriotism, social service, and communal harmony. There is a wider scope for PPP especially in respect of adventure sports, tourism, and eco-tourism. A road map will be drawn through a stakeholders' consultative process to broad-base the movement and mainstream it as a part of a larger India Y outh Network.
+2.1.15 The volunteers under NSVS and RSY are the backbone of NYKS. These schemes should be merged with NYKS and should be renamed as 'National Volunteer Scheme'. The existing scheme, namely, CYP would be strengthened. The mega youth exchange programme with China will be continued as a regular feature. Scouting and Guiding would be continued with renewed focus to develop the character of young boys and girls and inculcate in them a spirit of patriotism, social service, and communal harmony. There is a wider scope for PPP especially in respect of adventure sports, tourism, and eco-tourism. A road map will be drawn through a stakeholders' consultative process to broad-base the movement and mainstream it as a part of a larger India Youth Network.
 
 ### SPORTS AND PHYSICAL EDUCATION
 
@@ -2224,31 +2526,35 @@ Youth Affairs and Sports and Art and Culture
 
 2.1.18 The National Sports Policy, 1984, was the first move towards developing an organized and systematic framework for the development and promotion of  sports  in  the  country,  and  the  precursor  of  the present National Sports Policy, 2001. The policy, inter alia,  emphasized  the  need  for  making  sports  and physical education an integral part of the curriculum. This resolve has also been stated in the National Policy of Education 1986, which calls for making sports and physical education an integral part of the learning process, and provides for its inclusion in the evaluation of performance. However, a review of Eighth Plan investments in Youth Affairs and Sports both at the national and State levels showed gross inadequacy considering the magnitude of youth population as indicated in Table 2.1.1.
 
-Government | Eighth Plan | Ninth Plan | (Rs crore) Tenth Plan
+TABLE 2.1.1 Plan Expenditure on Youth Affairs and Sports
+
+(Rs crore)
+
+Government | Eighth Plan | Ninth Plan | Tenth Plan
 --- | --- | --- | ---
 Centre | 434 (38) | 895 (44) | 1832 (41)
 States/UTs | 712 (62) | 1143 (56) | 2649 (59)
 Total | 1146 (100) | 2038 (100) | 4481 (100)
 
-TABLE 2.1.1 Plan Expenditure on Youth Affairs and Sports
-
-Note:
-
-The figures in parenthesis indicate percentage.
-
-Source:
-
-Planning Commission, State Plans Division.
-
-2.1.19 The per capita plan expenditure at the central and State level works out to only Rs 8.94 and Rs 12.92 per youth per annum, respectively, and the national per capita expenditure at Rs 21.86 per youth per year during Tenth Plan. The per capita State Plan
-
+Note: The figures in parenthesis indicate percentage.
 Source: Planning Commission, State Plans Division.
 
+2.1.19 The per capita plan expenditure at the central and State level works out to only Rs 8.94 and Rs 12.92 per youth per annum, respectively, and the national per capita expenditure at Rs 21.86 per youth per year during Tenth Plan. The per capita State Plan expenditure was much lower than the national average in several major States like Kerala, Haryana, UP, Orissa, Gujarat, MP, and Bihar. It has also been observed from the structure of Plan expenditure, the State share of Plan expenditure has declined from 62% in the Eighth Plan to 59% in the Tenth Plan (Figure 2.1.1). Among the major States, while Andhra Pradesh, Karnataka, West Bengal, Maharashtra, and Tamil Nadu topped the Plan expenditure, Gujarat, Rajasthan, Himachal Pradesh were in the lower order of expenditure.
+
+2.1.20 There is a need for reforms in sports management and governance to make it dynamic, responsive, and result-oriented. Some of the problems and issues identified by Parliamentary Standing Committee include: (i) Lack of a sports culture and consciousness in the country; (ii) Non-integration of sports with education; (iii) Lack of proper co-ordination amongst the Centre, States, federations/associations, and various private and public sector undertakings; (iv) Lack of infrastructure in the rural areas and its concentration in urban/metropolitan centres; (v) Underutilization of available infrastructure and its poor maintenance and upkeep; (vi) Lack of good quality and affordable sports equipments; (vii) Absence of adequate incentives for the youth to take up sports as a career; (viii) Unfair selection procedure and last minute finalization of teams; and (ix) Lack of adequate exposure and specialized training/coaching of international standards. It is noted that most of the State Governments do not have their State Sports Policy. These would be addressed in the Eleventh Plan.
+
+Eighth Plan Expenditure
+38%
+62%
+Centre States/UTs
+
+Tenth Plan Expenditure
+41%
+59%
+Centre States/UTs
+
+Source: Planning Commission, State Plans Division.
 FIGURE 2.1.1: Centre vs State Share of Plan Expenditure
-
-expenditure was much lower than the national average in several major States like Kerala, Haryana, UP, Orissa, Gujarat, MP, and Bihar. It has also been observed from the structure of Plan expenditure, the State share of Plan expenditure has declined from 62% in the Eighth Plan to 59% in the Tenth Plan (Figure 2.1.1). Among the major States, while Andhra Pradesh, Karnataka, West Bengal, Maharashtra, and Tamil Nadu topped the Plan expenditure, Gujarat, Rajasthan, Himachal Pradesh were in the lower order of expenditure.
-
-2.1.20 There is a need for reforms in sports management and governance to make it dynamic, responsive, and result-oriented. Some of the problems and issues identified by Parliamentary Standing Committee include: (i) Lack of a sports culture and consciousness in  the  country; (ii)  Non-integration of sports with education; (iii) Lack of proper co-ordination amongst the Centre, States, federations/associations, and various private and public sector undertakings; (iv) Lack of infrastructure in the rural areas and its concentration  in  urban/metropolitan  centres;  (v)  Underutilization of  available  infrastructure  and  its  poor maintenance and upkeep; (vi) Lack of good quality and affordable sports equipments; (vii) Absence of adequate incentives for the youth to take up sports as a  career;  (viii)  Unfair  selection  procedure  and  last minute finalization of teams; and (ix) Lack of adequate exposure and specialized training/coaching of international standards. It is noted that most of the State Governments do not have their State Sports Policy. These would be addressed in the Eleventh Plan.
 
 [[END OF PAGE 62]]
 
@@ -2262,12 +2568,12 @@ Eleventh Five Year Plan
 
 2.1.21 The thrust areas identified for the Tenth Plan were creation of infrastructure, training facilities, upgradation of coaching skills, promotion of research and scientific support systems, creation of a drug-free environment, welfare and incentives for sportspersons, and tapping of resources from the private/public sector and individuals for the development of sports. Sports Authority of India (SAI) is an apex body for promotion of sports excellence in the country. The qualitative performance of SAI has to be seen in the light of three distinct aspects, i.e. (i) academics, which include  the  schemes  for  the  training  of  coaches and other scientific staff, and programmes related to physical education; (ii) the collaboration with the National Sports Federations (NSFs) pertaining to the training of identified elite athletes and teams in different disciplines; and (iii) operations, which include schemes pertaining to the spotting and nurturing of  talent.  There  is  an  acute  shortage  of  coaches  in the country. Efforts made by SAI under its Training centres and Special Area Games scheme have not yet yielded results.
 
-2.1.22 The CSS related to sports infrastructure was transferred to States w.e.f. 1.4.2005 with provision for  meeting the committed liability of continuing projects till the end of the T enth Plan. The performance of district and State level competitions under Rural Sports Programme and Promotion of Sports and Games in Schools had not been satisfactory. Adequate participation from corporate/private sector could not forth come under National Sports Development Fund and for setting up of State Sports Academies. The scheme relating to Talent Search and Training was a bit slow to take off, but in the last two to three years, the scheme helped a number of players in achieving excellence at the international level. The progress of pre-project activities for the development of infrastructure for CG 2010, Delhi, and CYG 2008, Pune, is satisfactory.
+2.1.22 The CSS related to sports infrastructure was transferred to States w.e.f. 1.4.2005 with provision for meeting the committed liability of continuing projects till the end of the Tenth Plan. The performance of district and State level competitions under Rural Sports Programme and Promotion of Sports and Games in Schools had not been satisfactory. Adequate participation from corporate/private sector could not forth come under National Sports Development Fund and for setting up of State Sports Academies. The scheme relating to Talent Search and Training was a bit slow to take off, but in the last two to three years, the scheme helped a number of players in achieving excellence at the international level. The progress of pre-project activities for the development of infrastructure for CG 2010, Delhi, and CYG 2008, Pune, is satisfactory.
 
 2.1.23 Against the outlay of Rs 1145.36 crore and allocation of Rs 1463.69 crore for Sports and Physical Education, the anticipated expenditure was Rs 1306.41 crore (89.25%) during Tenth Plan (Annexure 2.1.1). SAI incurred 47% of expenditure followed by assistance to NSFs (16%), CG-2010 (15%), and infrastructure schemes (9%).
 
 #### Approach and Programmes for Eleventh Plan
-2.1.24 The approach and strategy for the Eleventh Plan would encompass the twin objectives of 'Broadbasing of Sports' and 'Promotion of Sports Excellence' . Despite initiating of a variety of steps taken by the Central Government, in terms of establishing structures and schemes for the development and promotion of sports, the desired results seem exclusive and therefore, there is an urgent need to review and reorient the system and procedures pertaining to coaching and organizing camps, provision of scientific back-up, and support during training/coaching camps and at the competition stage.
+2.1.24 The approach and strategy for the Eleventh Plan would encompass the twin objectives of 'Broad-basing of Sports' and 'Promotion of Sports Excellence'. Despite initiating of a variety of steps taken by the Central Government, in terms of establishing structures and schemes for the development and promotion of sports, the desired results seem exclusive and therefore, there is an urgent need to review and reorient the system and procedures pertaining to coaching and organizing camps, provision of scientific back-up, and support during training/coaching camps and at the competition stage.
 
 2.1.25 There is also a need for clear delineation of the roles and responsibilities of the related organizations/ institutions, viz., SAI, Indian Olympic Association, and NSFs, together with action to co-opt the private sector in the form of adoption of disciplines/teams, sponsorship, etc., to supplement the efforts of the government. To achieve this, a close coordination and convergence would be required of all stakeholders.
 
@@ -2299,15 +2605,15 @@ There is a need for transparency and accountability in the functions of sports b
 
 #### BROAD-BASING: INTRODUCTION OF PANCHAYAT YUVA KRIDA AUR KHEL ABHIYAN (PYKKA)
 
-2.1.26 Broad-basing of Sports is the key to the promotion and development of a sports culture. The emphasis on sports should be on fitness of body of every  individual  and  particularly  youth  and  not relegated to entertainment and related activities as listed in the concurrent list. In order to make sports as  mass  movement, a new CSS under the title of 'Panchayat Yuva Krida Aur Khel Abhiyan (PYKKA)' would be launched for filling up the gaps at the subdistrict level. The objective of the scheme is to create basic infrastructure and facilities for sports and games at the village and town levels, generating a sports culture among the rural youth, organizing competition and non-competition sporting activities at the village level,  and developing a competition structure up to the  district  level.  PYKKA  would  be  implemented during Eleventh and Twelfth Plan in a Mission Mode with the involvement of the PRIs and the 2.50 lakh Rural Youth and Sports Clubs under NYKS and other schemes of the State Governments in a phased manner. The existing scheme of Rural Sports Programme will be subsumed in PYKKA. As the sports and games is  State  subject,  the  State  Governments should also share costs and be accountable.
+2.1.26 Broad-basing of Sports is the key to the promotion and development of a sports culture. The emphasis on sports should be on fitness of body of every individual and particularly youth and not relegated to entertainment and related activities as listed in the concurrent list. In order to make sports as mass movement, a new CSS under the title of 'Panchayat Yuva Krida Aur Khel Abhiyan (PYKKA)' would be launched for filling up the gaps at the sub-district level. The objective of the scheme is to create basic infrastructure and facilities for sports and games at the village and town levels, generating a sports culture among the rural youth, organizing competition and non-competition sporting activities at the village level, and developing a competition structure up to the district level. PYKKA would be implemented during Eleventh and Twelfth Plan in a Mission Mode with the involvement of the PRIs and the 2.50 lakh Rural Youth and Sports Clubs under NYKS and other schemes of the State Governments in a phased manner. The existing scheme of Rural Sports Programme will be subsumed in PYKKA. As the sports and games is State subject, the State Governments should also share costs and be accountable.
 
 2.1.27 For purposes of funding under the scheme, it is proposed to bring in the greatest possible synergy and convergence between various schemes of the Central Government, such as the National Rural Employment Guarantee Scheme, Backward Regions Grant Fund, relevant schemes of the Ministry of Tribal Affairs and Department for the Development of the North Eastern Region, MP Local Area Development Scheme (and similar schemes of State Governments), funds available to the PRIs through devolution and the schemes of the State Governments for development of sports infrastructure.
 
 #### PROMOTION OF SPORTS EXCELLENCE
 
-2.1.28 The broad-basing of sports could gradually yield a pool of one lakh talented youth at the SubJunior, Junior, and Senior levels, who would require systematic and scientific nurturing and focused training to achieve excellence at the national/international levels. This would require multiple measures, including  spotting/identification  of  national  probables based on proficiency, performance, and potential; establishment of training infrastructure arrangements; coaching facilities; strengthening scientific and technical supports system; supply of quality sports goods and equipment; and use of media to bring sports consciousness. There is a need to maintain  a  computerized inventory of assets relating to sports at State, district, and block levels. NGOs, outstanding sportspersons, and corporate entities would be  encouraged to get involved in the creation of facilities to promote sports excellence, in the form of academies, etc.
+2.1.28 The broad-basing of sports could gradually yield a pool of one lakh talented youth at the Sub-Junior, Junior, and Senior levels, who would require systematic and scientific nurturing and focused training to achieve excellence at the national/international levels. This would require multiple measures, including spotting/identification of national probables based on proficiency, performance, and potential; establishment of training infrastructure arrangements; coaching facilities; strengthening scientific and technical supports system; supply of quality sports goods and equipment; and use of media to bring sports consciousness. There is a need to maintain a computerized inventory of assets relating to sports at State, district, and block levels. NGOs, outstanding sportspersons, and corporate entities would be encouraged to get involved in the creation of facilities to promote sports excellence, in the form of academies, etc.
 
-2.1.29 Recognizing the role of media in creating sports consciousness in the country, all efforts would be made to ensure their support in promoting and broadbasing of sports, particularly rural sports. The government will have to build in some regulations to ensure covering of sporting events apart from cricket and tennis to make good lack of adequate sponsorship. Special programmes and capsules also need to be prepared and aired, from time to time, about excellence promotion programmes such as coaching camps, talent-spotting exercise, selection trials, etc., to generate  awareness about the development of sports in the country.
+2.1.29 Recognizing the role of media in creating sports consciousness in the country, all efforts would be made to ensure their support in promoting and broad-basing of sports, particularly rural sports. The government will have to build in some regulations to ensure covering of sporting events apart from cricket and tennis to make good lack of adequate sponsorship. Special programmes and capsules also need to be prepared and aired, from time to time, about excellence promotion programmes such as coaching camps, talent-spotting exercise, selection trials, etc., to generate awareness about the development of sports in the country.
 
 2.1.30 As regards the development of physical education, steps would need to be taken to develop and bring about an integral relationship between related institutions,  including  the  possible  reorganization of Laxmibai National College of Physical Education, Thiruvananthapuram as a Regional Centre (South) of the Laxmibai National Institute of Physical Education (LNIPE), Gwalior, which itself is a Deemed University.  This  would  be  in  addition  to  other  measures pertaining to synergy and complimentary between LNIPE and SAI. LNIPE would set up regional centres in the north east, east, west, and north. Besides, the infrastructure  facilities  at  LNIPE  itself  would  be strengthened, upgraded, and modernized. The recommendation of NCERT that Health and Physical Education should be a core subject up to class X and an elective subject up to plus two levels should be implemented.
 
@@ -2455,15 +2761,13 @@ Eleventh Five Year Plan
 
 2.2.23 The two UNESCO Conventions, one 'to safeguard and protect Intangible Heritage' and the other on 'Cultural Diversity' , have urged governments to initiate proactive measures to safeguard and protect cultural diversity and the various expressions of intangible heritage facing the risk of disappearance. The spirit of these two conventions would permeate the schemes of Ministry of Culture and its bodies during the Eleventh Plan period.
 
-the first  two quarters, proper expenditure planning including phasing of expenditure in sub-sectors other than Akademies and ASI. In the field of art and culture, several schemes are being implemented without assessing the process and impact. Therefore, all the schemes will be evaluated.
+2.2.24 The upkeep and maintenance of museums and archaeological sites will be considerably improved with introduction of modern technology and re-deployment of existing staff. Security services are already outsourced. The possibility for outsourcing in areas like consultancy and maintenance needs to be examined. PPP models may be explored for development of monuments not protected by ASI with the involvement of States. Delhi should be developed as a heritage city by making some of its monuments world-class, preferably before 2010 CG. Publication through private sector should be encouraged as they have modern technology and know-how to produce the best. Repository work is done well by the private sector. As Ministry of Culture has been facing recurrent cuts in outlay due to poor spending during the first two quarters, proper expenditure planning including phasing of expenditure in sub-sectors other than Akademies and ASI. In the field of art and culture, several schemes are being implemented without assessing the process and impact. Therefore, all the schemes will be evaluated.
 
 ### RESTRUCTURING OF SCHEMES AND SECTORAL THRUSTS
 
 #### Performing Arts
 
-2.2.24 The upkeep and maintenance of museums and archaeological sites will be considerably improved with introduction of modern technology and redeployment of existing staff. Security services are already outsourced. The possibility for outsourcing in areas like consultancy and maintenance needs to be examined. PPP models may be explored for development of monuments not protected by ASI with the involvement of States. Delhi should be developed as a  heritage  city  by  making  some  of  its  monuments world-class, preferably before 2010 CG. Publication through private sector should be encouraged as they have modern technology and know-how to produce the best. Repository work is done well by the private sector. As Ministry of Culture has been facing recurrent  cuts  in  outlay  due  to  poor  spending  during
-
-2.2.25 The existing scheme of 'Financial Assistance to Professional Groups and Individuals for Specified Performing Art Projects' will be bifurcated into two schemes, viz., Salary and Production Grants with revisions in the cost structure. The scheme of 'Financial Assistance for Research Support to Voluntary Organizations engaged in cultural activities' will be modified as  the  scheme of 'Financial Assistance for Research, Seminar and Performance to voluntary organizations engaged in cultural activities' . The existing scheme of ' Award of Senior/Junior Fellowship to Outstanding Artists in the field of Performing, Literary and Classical  Arts'  would  be  added  with  a  new  component, namely 'Fellowship of National Eminence', with fellowships to outstanding scholars selected through a search process and peer review.
+2.2.25 The existing scheme of 'Financial Assistance to Professional Groups and Individuals for Specified Performing Art Projects' will be bifurcated into two schemes, viz., Salary and Production Grants with revisions in the cost structure. The scheme of 'Financial Assistance for Research Support to Voluntary Organizations engaged in cultural activities' will be modified as the scheme of 'Financial Assistance for Research, Seminar and Performance to voluntary organizations engaged in cultural activities'. The existing scheme of 'Award of Senior/Junior Fellowship to Outstanding Artists in the field of Performing, Literary and Classical Arts' would be added with a new component, namely 'Fellowship of National Eminence', with fellowships to outstanding scholars selected through a search process and peer review.
 
 ##### Box 2.2.1 Strategies for the Eleventh Plan
 
@@ -2521,7 +2825,7 @@ Youth Affairs and Sports and Art and Culture
 
 2.2.26 A new component under performing arts is the creation of a 'National Artists Welfare Fund'-with a corpus of Rs 5.00 crore for meeting medical emergencies of artists-as an independent administered fund with facilities to receive contributions from any lawful sources.
 
-2.2.27 The Akademies and the ZCCs will have a new scheme called 'Protecting the Intellectual Property Rights of the artists and of cultural industries'especially of folk and tribal artists-along with the creation of a national apparatus to work as a watchdog and facilitator in this area. A Cultural Centre at  Kolkata  will  be  set  up  in  PPP  with  Calcutta Museum of Modern Art in collaboration with the State Government with provision for funding by the three Akademies.
+2.2.27 The Akademies and the ZCCs will have a new scheme called 'Protecting the Intellectual Property Rights of the artists and of cultural industries'—especially of folk and tribal artists—along with the creation of a national apparatus to work as a watch-dog and facilitator in this area. A Cultural Centre at Kolkata will be set up in PPP with Calcutta Museum of Modern Art in collaboration with the State Government with provision for funding by the three Akademies.
 
 #### Museums and Visual Arts
 
@@ -2580,7 +2884,7 @@ Youth Affairs and Sports and Art and Culture
 
 Eleventh Five Year Plan
 
-### ANNEXURE 2.1.1 Youth Affairs and Sports-Outlay and Expenditure of the T enth Plan
+### ANNEXURE 2.1.1 Youth Affairs and Sports—Outlay and Expenditure of the Tenth Plan
 
 (Rs Crore)
 
@@ -2596,7 +2900,7 @@ Source:
 
 Ministry of Youth Affairs and Sports.
 
-### ANNEXURE 2.2.1 Culture-Outlay and Expenditure of the T enth Plan
+### ANNEXURE 2.2.1 Culture—Outlay and Expenditure of the Tenth Plan
 
 (Rs Crore)
 
@@ -2633,19 +2937,19 @@ Ministry of Culture.
 
 ### INTRODUCTION
 
-- 3.1.1 The health of a nation is an essential component of development, vital to the nation's economic growth and internal stability. Assuring a minimal level of health care to the population is a critical constituent of the development process.
+3.1.1 The health of a nation is an essential component of development, vital to the nation's economic growth and internal stability. Assuring a minimal level of health care to the population is a critical constituent of the development process.
 
-- 3.1.2 Since Independence, India has built up a vast health infrastructure and health personnel at primary, secondary, and tertiary care in public, voluntary, and private sectors. For producing skilled human resources, a  number of medical and paramedical institutions including Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy (AYUSH) institutions have been set up.
+3.1.2 Since Independence, India has built up a vast health infrastructure and health personnel at primary, secondary, and tertiary care in public, voluntary, and private sectors. For producing skilled human resources, a number of medical and paramedical institutions including Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy (AYUSH) institutions have been set up.
 
-- 3.1.3 Considerable achievements have been made over the last six decades in our efforts to improve health standards, such as life expectancy, child mortality, infant mortality, and maternal mortality. Small pox and guinea worm have been eradicated and there is hope that poliomyelitis will be contained in the near future. Nevertheless, problems abound. Malnutrition affects a large proportion of children. An unacceptably high proportion of the population continues to suffer and die from new diseases that are emerging; apart from continuing and new threats posed by the existing ones. Pregnancy and childbirth related complications also contribute to the suffering and mortality.
+3.1.3 Considerable achievements have been made over the last six decades in our efforts to improve health standards, such as life expectancy, child mortality, infant mortality, and maternal mortality. Small pox and guinea worm have been eradicated and there is hope that poliomyelitis will be contained in the near future. Nevertheless, problems abound. Malnutrition affects a large proportion of children. An unacceptably high proportion of the population continues to suffer and die from new diseases that are emerging; apart from continuing and new threats posed by the existing ones. Pregnancy and childbirth related complications also contribute to the suffering and mortality.
 
-- 3.1.4 The strong link between poverty and ill health needs to be recognized. The onset of a long and expensive illness can drive the non-poor into poverty. Ill  health  creates  immense stress even among those who are financially secure. High health care costs can lead to entry into or exacerbation of poverty. The importance of public provisioning of quality health care to enable access to affordable and reliable heath services cannot be underestimated. This is specially so, in the context of preventing the non-poor from entering into poverty or in terms of reducing the suffering of those who are already below poverty line.
+3.1.4 The strong link between poverty and ill health needs to be recognized. The onset of a long and expensive illness can drive the non-poor into poverty. Ill health creates immense stress even among those who are financially secure. High health care costs can lead to entry into or exacerbation of poverty. The importance of public provisioning of quality health care to enable access to affordable and reliable heath services cannot be underestimated. This is specially so, in the context of preventing the non-poor from entering into poverty or in terms of reducing the suffering of those who are already below poverty line.
 
-- 3.1.5 The country has to deal with rising costs of health care and growing expectations of the people. The challenge of quality health services in remote rural regions has to be urgently met. Given the magnitude of the problem, we need to transform public health care into an accountable, accessible, and affordable system of quality services during the Eleventh Five Year Plan.
+3.1.5 The country has to deal with rising costs of health care and growing expectations of the people. The challenge of quality health services in remote rural regions has to be urgently met. Given the magnitude of the problem, we need to transform public health care into an accountable, accessible, and affordable system of quality services during the Eleventh Five Year Plan.
 
 ### VISION FOR HEALTH
 
-- 3.1.6 The Eleventh Five Year Plan will provide an opportunity to restructure policies to achieve a New Vision based on faster, broad-based, and inclusive growth. One objective of the Eleventh Five Year Plan is to achieve good health for people, especially the poor and the underprivileged. In order to do this, a comprehensive approach is needed that encompasses individual  health  care,  public  health,  sanitation, clean drinking water, access to food, and knowledge of
+3.1.6 The Eleventh Five Year Plan will provide an opportunity to restructure policies to achieve a New Vision based on faster, broad-based, and inclusive growth. One objective of the Eleventh Five Year Plan is to achieve good health for people, especially the poor and the underprivileged. In order to do this, a comprehensive approach is needed that encompasses individual health care, public health, sanitation, clean drinking water, access to food, and knowledge of
 
 [[END OF PAGE 74]]
 
@@ -2685,6 +2989,8 @@ hygiene, and feeding practices. The Plan will facilitate convergence and develop
 
 3.1.9 The comparative picture with regard to health indicators such as life  expectancy,  TFR,  IMR, and MMR points that countries placed in almost similar situations such as Indonesia, Sri Lanka, and China have performed much better than India (Table 3.1.1).
 
+TABLE 3.1.1 Health Indicators among Selected Countries
+
 Country | IMR (per 1000 live births) | Life Expectancy M/F (in years) | MMR (per 100000 live births) | TFR
 --- | --- | --- | --- | ---
 India | 58 | 63.9/66.9* | 301 | 2.9
@@ -2698,8 +3004,6 @@ Bangladesh | 52 | 63.3/65.1 | 380 | 3.04
 Nepal | 58 | 62.4/63.4 | 740 | 3.40
 Pakistan | 73 | 64.0/64.3 | 500 | 3.87
 Sri Lanka | 15 | 72.2/77.5 | 92 | 1.89
-
-TABLE 3.1.1 Health Indicators among Selected Countries
 
 Note: * Projected (2001-06).
 
@@ -2719,7 +3023,7 @@ Health and Family Welfare and AYUSH
 
 ##### DECADAL RATE OF POPULATION GROWTH/ TOTAL FERTILITY RATE (TFR)
 
-3.1.11 The decadal growth of population during 1991-2001 had been 21.5%, on account of the momentum built from high levels of fertility in the past. The good news is that we are right on course with respect to the first of the three T enth Plan monitorable targets related to the health sector. The projected decadal population growth rate is 15.9% for 2001-11. The two important demographic goals of the National Population Policy (2000) are: achieving the population replacement level (TFR 2.1) by 2010 and a stable population by 2045. TFR, which in the early 1950s was 6.0, has declined to 2.9 in 2005. Thus, India is moving towards its goal of replacement-level fertility of 2.1. The percentage of married women using contraception has increased from a level of just over 10% in the early
+3.1.11 The decadal growth of population during 1991-2001 had been 21.5%, on account of the momentum built from high levels of fertility in the past. The good news is that we are right on course with respect to the first of the three Tenth Plan monitorable targets related to the health sector. The projected decadal population growth rate is 15.9% for 2001-11. The two important demographic goals of the National Population Policy (2000) are: achieving the population replacement level (TFR 2.1) by 2010 and a stable population by 2045. TFR, which in the early 1950s was 6.0, has declined to 2.9 in 2005. Thus, India is moving towards its goal of replacement-level fertility of 2.1. The percentage of married women using contraception has increased from a level of just over 10% in the early
 
 1970s to 41% in 1992-93, 48% in 1998-99, and to 56% by 2005-06 (Figure 3.1.1). However, there are huge differentials amongst various States.
 
@@ -2731,15 +3035,15 @@ Health and Family Welfare and AYUSH
 
 3.1.13 IMR is 58 per 1000 live births (Sample Registration System [SRS], 2005). It is higher in rural areas (64) and lower in the urban areas (40) of the country.
 
+TABLE 3.1.2 Goals and Achievements during the Tenth Plan
+
 Indicator | Goal for Tenth Plan | Achievements
 --- | --- | ---
 Decadal Rate of Population Growth | 16.2% | 15.9% for 2001-11 (Projected) 1
 IMR | 45 per 1000 live births | 58 per 1000 live births 2
 MMR | 2 per 1000 live births | 3.01 per 1000 live births 3
 
-TABLE 3.1.2 Goals and Achievements during the T enth Plan
-
-Notes: 1.  T echnical  Group  on  Population Projections set up by National Commission on Population (December 2006), RGI, GoI; 2. SRS 2005; 3. 2001-03 Special Survey of Deaths using RHIME (routine, re-sampled, household interview of mortality with medical evaluation), RGI (2006), GoI.
+Notes: 1. Technical Group on Population Projections set up by National Commission on Population (December 2006), RGI, GoI; 2. SRS 2005; 3. 2001-03 Special Survey of Deaths using RHIME (routine, re-sampled, household interview of mortality with medical evaluation), RGI (2006), GoI.
 
 37
 
@@ -2801,11 +3105,86 @@ It also varies across States. Neo-natal mortality (at 37 per 1000 live births) c
 
 Eleventh Five Year Plan
 
-Source:
+426
+377
+349
+328
+313
+300
+289
+280
+271
+264
+257
+251
+245
+240
+235
+231
 
-RGI (2006).
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+
+Ratio
+Year
+
+Source: RGI (2006).
 
 FIGURE 3.1.2: MMR in India: Trends Based on Log-linear Model, 1997-2012
+
+31
+51
+36
+37
+61
+42
+39
+58
+44
+
+0
+10
+20
+30
+40
+50
+60
+70
+
+NFHS-I, 1992-93
+NFHS-II, 1998-99
+NFHS-III, 2005-06
+
+Rural
+Urban
+Total
 
 Source: NFHS-3, IIPS (2005-06).
 
@@ -2823,23 +3202,23 @@ FIGURE 3.1.3: Trends in Full Immunization Coverage
 
 72
 
-58
-
-58
-
-60
-
-63
-
-66
-
-68
-
-70
+71
 
 72
 
-71
+70
+
+68
+
+66
+
+63
+
+60
+
+58
+
+58
 
 0
 
@@ -2903,25 +3282,23 @@ infant and maternal mortality, and diseases (National Commission on Macroeconomi
 
 3.1.16 Public health care system in rural areas in many States and regions is in shambles. Extreme inequalities and disparities persist both in terms of access to health care as well as health outcomes (Table 3.1.3). This large disparity across India places the burden on the poor, especially women, scheduled castes, and tribes. Inequity is also reflected in the availability of public resources between the advanced and less developed States.
 
-government hospitals in urban areas, a large chunk of the homeless and those living in slums or temporary settlements are left out of the proper health care system. Thus, even though there is a concentration of health care facilities in urban areas, the urban poor lack access; initiatives in the country to date have been limited and fragmented.
+3.1.17 Urban growth has led to increase in number of urban poor. Population projections postulate that slum growth is expected to surpass the capacity of civic authorities to respond to their health and infrastructure needs. As per 2001 census, 4.26 crore lived in urban slums spread over 640 towns and cities. The number is growing. Though the coverage of health and family welfare services in urban areas is much better than the rural, lack of water and sanitation and the high population density in slums leads to rapid spread of infections. These settlements have high incidence of vector-borne diseases, asthma, tuberculosis, malaria, coronary heart diseases, diabetes, etc. Poor housing conditions, exposure to heat and cold, air and water pollution, and occupational hazards add to the environmental risks for the poor. They are vulnerable as they have no backup savings, food stocks, or social support systems to tide over the crisis of illness. Despite the presence of many private and government hospitals in urban areas, a large chunk of the homeless and those living in slums or temporary settlements are left out of the proper health care system. Thus, even though there is a concentration of health care facilities in urban areas, the urban poor lack access; initiatives in the country to date have been limited and fragmented.
 
 #### Disease Burden
 
-3.1.17 Urban growth has led to increase in number of urban poor. Population projections postulate that slum growth is expected to surpass the capacity of civic authorities to respond to their health and infrastructure needs. As per 2001 census, 4.26 crore lived in urban slums spread over 640 towns and cities. The number is growing. Though the coverage of health and family welfare services in urban areas is much better than the rural, lack of water and sanitation and the high population density in slums leads to rapid spread of infections. These settlements have high incidence of vector-borne diseases, asthma, tuberculosis,  malaria, coronary heart diseases, diabetes, etc. Poor housing conditions, exposure to heat and cold, air and water pollution, and occupational hazards add to the environmental risks for the poor. They are vulnerable as they have no backup savings, food stocks, or social support systems to tide over the crisis of illness.  Despite  the  presence  of  many  private  and
-
-3.1.18 India is in the midst of an epidemiological and demographic transition with increasing burden of chronic diseases, decline in mortality and fertility rates, and ageing of the population. An estimated 2-3.1 million people in the country are living with HIV/ AIDS, a communicable disease, with a potential to undermine the health and developmental gains India has made since Independence. Non-communicable diseases (NCDs) such as cardiovascular diseases (CVDs), cancer, blindness, mental illness, etc., have imposed the chronic disease burden on the already over-stretched health care system of the country. The NCMH 2005 figures of disease burden are given in Table 3.1.4.
+3.1.18 India is in the midst of an epidemiological and demographic transition with increasing burden of chronic diseases, decline in mortality and fertility rates, and ageing of the population. An estimated 2-3.1 million people in the country are living with HIV/AIDS, a communicable disease, with a potential to undermine the health and developmental gains India has made since Independence. Non-communicable diseases (NCDs) such as cardiovascular diseases (CVDs), cancer, blindness, mental illness, etc., have imposed the chronic disease burden on the already over-stretched health care system of the country. The NCMH 2005 figures of disease burden are given in Table 3.1.4.
 
 ##### COMMUNICABLE DISEASES
 
 3.1.19 AIDS is acquiring a female face, that is, gradually the gap between females and males is narrowing as far as number of cases and infections are concerned. The youth are becoming increasingly vulnerable. The prevalence rate of more than 1% amongst pregnant women was reported from five States, that is, Andhra Pradesh, Maharashtra, Karnataka, Manipur, and Nagaland. GoI responded to HIV/AIDS threat by preventive awareness, targeted interventions, and care and support programmes. As on 31 December 2006, a total of 162257 cases of AIDS were reported. The risk of tuberculosis infection in HIV positive
 
-Crude Birth Rate (per 1000) | Crude Death Rate (per 1000) | IMR (per 1000 live births) | Prevalence of Anaemia among Children (6-35 months) (%) | Prevalence of Anaemia among Pregnant Women (%)
+TABLE 3.1.3 Urban/Rural Health Indicators
+
+ | Crude Birth Rate (per 1000) | Crude Death Rate (per 1000) | IMR (per 1000 live births) | Prevalence of Anaemia among Children (6-35 months) (%) | Prevalence of Anaemia among Pregnant Women (%)
 --- | --- | --- | --- | --- | ---
 Urban | 19.1 | 6.0 | 40 | 72.7 | 54.6
 Rural | 25.6 | 8.1 | 64 | 81.2 | 59.0
 Total | 23.8 | 7.6 | 58 | 79.2 | 57.9
-
-TABLE 3.1.3 Urban/Rural Health Indicators
 
 Source: Ministry of Health and Family Welfare (MoHFW), GoI (2006) and NHFS-3, IIPS (2005-06).
 
@@ -2969,6 +3346,19 @@ million patients have been initiated on treatment, and the programme has achieve
 
 3.1.21 A National Vector Borne Disease Control Programme was initiated during the Tenth Plan with the convergence of ongoing programmes on malaria, kala-azar, filariasis, Japanese encephalitis, and dengue.
 
+Other States
+34%
+Tamil Nadu
+35%
+Karnataka
+3%
+Gujarat
+4%
+Maharashtra
+9%
+Andhra Pradesh
+15%
+
 Source: National Health Profile (2006).
 
 FIGURE 3.1.5: Number of AIDS Cases in States, 2006
@@ -2981,9 +3371,36 @@ Health and Family Welfare and AYUSH
 
 63
 
-Malaria cases in India declined from 3.04 in 1996 to 1.82 million cases in the year 2005. The number of Plasmodium falciparum ( Pf ) cases has also been decreasing (Figure 3.1.6). More than 80% of malaria cases and deaths are reported from NE States, Chhattisgarh, Jharkhand, MP, Orissa, Andhra Pradesh, Maharashtra, Gujarat, Rajasthan, WB, and Karnataka. Under the Enhanced Malaria Control Project, 100% support was provided in 100 districts of 8 States, predominantly inhabited by tribal population. These areas reported a 45% decline in malaria cases.
+Malaria cases in India declined from 3.04 in 1996 to 1.82 million cases in the year 2005. The number of Plasmodium falciparum (Pf) cases has also been decreasing (Figure 3.1.6). More than 80% of malaria cases and deaths are reported from NE States, Chhattisgarh, Jharkhand, MP, Orissa, Andhra Pradesh, Maharashtra, Gujarat, Rajasthan, WB, and Karnataka. Under the Enhanced Malaria Control Project, 100% support was provided in 100 districts of 8 States, predominantly inhabited by tribal population. These areas reported a 45% decline in malaria cases.
 
-3.1.22 An estimated population of 130 million is exposed to the risk of kala-azar in the endemic areas. The annual incidence of disease has come down from 77099 cases in 1992 to 31217 cases in 2005 and deaths from 1419 to 157, respectively. Lymphatic Filariasis (LF) remains endemic in about 250 districts in 20 States and UTs. The population at risk is over 500 million. To achieve elimination of LF, the GoI has launched nationwide Annual Mass Drug Administration (MDA) with annual single recommended dose of diethylcarbamazine citrate tablets in addition to scaling up home based foot care and hydrocele operations. In 2005, 243 endemic districts implemented MDA targeting a population of about 554 million with a coverage rate of 80%. Dengue fever and Chikungunya are emerging as major threats in urban, peri-urban, and rural areas in many States/UTs.
+2085484
+1005236
+1841229
+897446
+1869403
+857101
+1915363
+890152
+1817093
+805699
+
+0
+500000
+1000000
+1500000
+2000000
+2500000
+
+2001
+2002
+2003
+2004
+2005
+
+Year
+Number of Cases
+Malaria Cases
+Pf Cases
 
 Source: MoHFW, GoI (2006).
 
@@ -3083,23 +3500,21 @@ FIGURE 3.1.7: Percentage of Cataract Surgeries with IOL
 
 #### Health Care Infrastructure and Human Resources: The Gaps
 
-- 3.1.28 To address the gaps in health infrastructure and human resources, the National Rural Health Mission (NRHM) was launched on 12 April 2005. A generic public  health  delivery  system  envisioned  under NRHM from the village to block level is illustrated in Figure 3.1.8.
+3.1.28 To address the gaps in health infrastructure and human resources, the National Rural Health Mission (NRHM) was launched on 12 April 2005. A generic public health delivery system envisioned under NRHM from the village to block level is illustrated in Figure 3.1.8.
 
-- 3.1.29 The details of existing and required physical infrastructure have been provided in Table 3.1.5. Maximum shortage at the Community Health Centres (CHCs) level is adversely affecting the secondary health care and linkages.
+3.1.29 The details of existing and required physical infrastructure have been provided in Table 3.1.5. Maximum shortage at the Community Health Centres (CHCs) level is adversely affecting the secondary health care and linkages.
 
-- 3.1.30 Availability  of  appropriate  and  adequately trained human resources is an essential concomitant of Rural Health Infrastructure. The present position, requirement, and shortfall regarding public health care human resources have been shown in Table 3.1.6. Across rural areas, there are considerable shortfalls plus
+3.1.30 Availability of appropriate and adequately trained human resources is an essential concomitant of Rural Health Infrastructure. The present position, requirement, and shortfall regarding public health care human resources have been shown in Table 3.1.6. Across rural areas, there are considerable shortfalls plus a large number of vacant positions of doctors, nurses, and paramedical personnel. There is also wide variation in number of persons served by a specialist in rural areas (Figure 3.1.9). Despite the existing shortages, whatever few formally trained and qualified doctors are available, are mainly through the public health care system. A large proportion of population visits private providers for their health care needs. The challenge is to resolve these problems and provide the poor access to subsidized or free public health services.
 
-- a large number of vacant positions of doctors, nurses, and paramedical personnel. There is also wide variation in number of persons served by a specialist in rural areas (Figure 3.1.9). Despite the existing shortages, whatever few formally trained and qualified doctors are available, are mainly through the public health care system. A large proportion of population visits private  providers  for  their  health  care  needs.  The challenge is to resolve these problems and provide the poor access to subsidized or free public health services.
+3.1.31 During the last few years there has been a great change in the availability of secondary and tertiary health care facilities in the country. Number of government hospitals increased from 4571 in 2000 to 7663 in 2006, that is, an increase of 67.6%. Number of beds in these hospitals increased from 430539 to 492698, that is, an increase of 14.4%. Current figures are not available on number of private and NGO hospitals as well as on human resources in the
 
-- 3.1.31 During the last few years there has been a great change in the availability of secondary and tertiary health  care  facilities  in  the  country.  Number  of government hospitals increased from 4571 in 2000 to 7663 in 2006, that is, an increase of 67.6%. Number of beds  in  these  hospitals  increased  from  430539 to  492698,  that  is,  an  increase  of  14.4%.  Current figures are not available on number of private and NGO hospitals as well as on human resources in the
+TABLE 3.1.5 Shortfall in Health Infrastructure—All India
 
 As per 2001 Population | Required | Existing | Shortfall | % Shortfall
 --- | --- | --- | --- | ---
 Sub-Centres | 158792 | 144998 | 20903 | 13.16
-PHCs | 026022 | 022669 | 04803 | 18.46
-CHCs | 006491 | 003910 | 02653 | 40.87
-
-TABLE 3.1.5 Shortfall in Health Infrastructure-All India
+PHCs | 26022 | 22669 | 4803 | 18.46
+CHCs | 6491 | 3910 | 2653 | 40.87
 
 Notes: All India shortfall is derived by adding State-wise figures of shortfall ignoring the existing surplus in some of the States.
 
@@ -3112,6 +3527,50 @@ Source: Bulletin of Rural Health Statistics in India, Special Revised Edition, M
 Health and Family Welfare and AYUSH
 
 65
+
+BLOCK LEVEL HEALTH OFFICE
+Health Manager
+Accountant
+Store Keeper
+
+Accredit private providers for public health goals
+
+100000
+Population
+100 Villages
+
+BLOCK LEVEL HOSPITAL
+Ambulance
+Telephone
+Obstetric/Surgical Medical
+Emergencies 24 × 7
+Round the Clock Services;
+
+Strengthen Ambulance/Transport Services
+Increase Availability of Nurses
+Provide Telephones
+Encourage Fixed Day Clinics
+
+30-40 Villages
+
+CLUSTER OF GPs—PHC LEVEL
+3 Staff Nurses; 1 LHV for 4-5 SHCs;
+Ambulance/Hired Vehicle; Fixed Day MCH/Immunization
+Clinics; Telephone; MO i/c.; AYUSH Doctor;
+Emergencies that can be handled by Nurses—24 × 7;
+Round the Clock Services; Drugs; TB/Malaria etc. tests
+
+5-6 Villages
+
+GRAM PANCHAYAT—SUB HEALTH CENTRE LEVEL
+Skill upgradation of educated RMPs/2 ANMs, 1 male MPW FOR 5-6 Villages;
+Telephone Link; MCH/Immunization Days; Drugs; MCH Clinic
+
+VILLAGE LEVEL—ASHA, AWW, VH & SC
+1 ASHA, AWWs in every village; Village Health Day
+Drug Kit, Referral chains
+
+8
 
 Notes: TB = Tuberculosis, MO = Medical Officer, MCH = Maternal and Child Health.
 
@@ -3131,7 +3590,9 @@ private sector but in 2002, the country had 11345 private/NGO hospitals (allopat
 
 Eleventh Five Year Plan
 
-For the Existing Infrastructure | Required (R) | Sanctioned (S) | In Position (P) | Vacant (S-P) | Shortfal (R-P)
+TABLE 3.1.6 Shortfall in Health Personnel—All India
+
+For the Existing Infrastructure | Required (R) | Sanctioned (S) | In Position (P) | Vacant (S-P) | Shortfall (R-P)
 --- | --- | --- | --- | --- | ---
 Multipurpose Workers (Female)/ANM at Sub-Centres and PHCs | 167657 | 162772 | 149695 | 13126 (8.06%) | 18318 (10.93%)
 Health Workers (Male)/MPWs (M) at Sub-Centres | 144998 | 94924 | 65511 | 29437 (31.01%) | 74721 (51.53%)
@@ -3143,73 +3604,46 @@ Radiographers at CHCs | 3910 | 2400 | 1782 | 620 (25.83%) | 1330 (34.02%)
 Pharmacists at PHCs and CHCs | 26579 | 22816 | 18419 | 4445 (19.48%) | 4389 (16.51%)
 Lab Technician at PHCs and CHCs | 26579 | 15143 | 12351 | 2792 (18.44%) | 9509 (35.78%)
 
-TABLE 3.1.6 Shortfall in Health Personnel-All India
+Note: For calculating the overall percentages of vacancy and shortfall, the States/UTs for which the human resources position is not available, have been excluded. Also, all India shortfall is derived by adding State-wise figures of shortfall ignoring the existing surplus in some of the States.
 
-Note: For calculating the overall percentages of vacancy and shortfall, the States/UTs for which the human resources position is not available, have been excluded. Also, all India shortfall is derived by adding State-wise figures of shortfall ignoring the existing surplus in some of the States. Source: Bulletin of Rural Health Statistics in India, Special Revised Edition, MOHFW, GoI (2006).
-
-447880
-
-409986
-
-351564
-
-261953
-
-214168
-
-98367
-
-97286
-
-80590
-
-35643
+Source: Bulletin of Rural Health Statistics in India, Special Revised Edition, MOHFW, GoI (2006).
 
 996392
+447880
+409986
+351564
+261953
+214168
+98367
+97286
+80590
+35643
 
 0
-
 200000
-
 400000
-
 600000
-
 800000
-
 1000000
-
 1200000
 
-Madhya
-
-Pradesh
-
+Madhya Pradesh
 Haryana
-
 Gujarat
-
 Uttar Pradesh
-
-Andhra
-
-Pradesh
-
+Andhra Pradesh
 Kerala
-
 West Bengal
-
 Punjab
-
 Rajasthan
-
 Karnataka
 
 State
-
 Persons
 
-Source: Bulletin of Rural Health Statistics in India, Special Revised Edition, MOHFW, GoI (2006). FIGURE 3.1.9: Number of Persons per Specialist at CHCs, 2006
+Source: Bulletin of Rural Health Statistics in India, Special Revised Edition, MOHFW, GoI (2006).
+
+FIGURE 3.1.9: Number of Persons per Specialist at CHCs, 2006
 
 [[END OF PAGE 83]]
 
@@ -3218,39 +3652,6 @@ Source: Bulletin of Rural Health Statistics in India, Special Revised Edition, M
 Health and Family Welfare and AYUSH
 
 67
-
-###### Technology-centric
-
-- See the disease as being caused by an agent (parasite/virus/bacteria) and fail to see its social and ecological setting.
-
-- Response is heavily dependant on technology.
-
-###### Fragmented
-
-- Only one or two of all the factors that go into the disease setting (and that too in isolation) are addressed.
-###### Administration
-
-- The entire planning and packaging is done centrally.
-
-- Only local aspect is the application (under a chain of command).
-
-- Limited role for community participation.
-
-###### The Result
-
-- An inappropriate package for local needs.
-
-- Local people are indifferent-sometimes even resistant.
-
-- Even the administration cannot in perpetuity keep its attention on the programme alone.
-
-#### Growth of Private Sector, Health Care Utilization, and Cost
-
-3.1.33 The growth of private health sector in India has been considerable in both provision and financing. There is diversity in the composition of the private sector, which ranges from voluntary, not-for-profit, for-profit,  corporate,  trusts,  stand-alone  specialist services, diagnostic services to pharmacy shops and a range of highly qualified to unqualified providers, each addressing different market segments.
-
-3.1.34 We have a flourishing private sector, primarily because of a failing in the public sector. The growth of private hospitals and diagnostic centres was also encouraged by the Central and State Governments by offering tax exemptions and land at concessional rates, in return for provision of free treatment for the poor as a certain proportion of outpatients and inpatients. Apart from subsidies, private corporate hospitals receive huge amounts of public funds in the form of reimbursements from the public sector undertakings, the Central and the State Governments for treating their employees.
-
-3.1.35 The cost of health care in the private sector is  much higher than the public sector. Many small providers have poor knowledge base and tend to follow irrational, ineffective, and sometimes even harmful practices for treating minor ailments. Bulk of the qualified medical practitioners and nurses are subject to  self-regulation  by  their  respective  State  Medical Councils under central legislation. In practice, however, regulation of these professionals is weak and close to non-existent.
 
 ##### Box 3.1.1 Drawbacks of the Public Health System
 
@@ -3268,11 +3669,45 @@ Health and Family Welfare and AYUSH
 
 - No prescribed standards of quality
 
-- Inability of system to mobilize action in areas of safe water, sanitation, hygiene, and nutrition (key determinants of health in the context of our country)-lack of convergence
+- Inability of system to mobilize action in areas of safe water, sanitation, hygiene, and nutrition (key determinants of health in the context of our country)—lack of convergence
 
 - Inability to mobilize AYUSH and RMPs and other locally available human resources
 
 ##### Box 3.1.2 Vertical Programmes
+
+###### Technology-centric
+
+- See the disease as being caused by an agent (parasite/virus/bacteria) and fail to see its social and ecological setting.
+
+- Response is heavily dependant on technology.
+
+###### Fragmented
+
+- Only one or two of all the factors that go into the disease setting (and that too in isolation) are addressed.
+
+###### Administration
+
+- The entire planning and packaging is done centrally.
+
+- Only local aspect is the application (under a chain of command).
+
+- Limited role for community participation.
+
+###### The Result
+
+- An inappropriate package for local needs.
+
+- Local people are indifferent—sometimes even resistant.
+
+- Even the administration cannot in perpetuity keep its attention on the programme alone.
+
+#### Growth of Private Sector, Health Care Utilization, and Cost
+
+3.1.33 The growth of private health sector in India has been considerable in both provision and financing. There is diversity in the composition of the private sector, which ranges from voluntary, not-for-profit, for-profit, corporate, trusts, stand-alone specialist services, diagnostic services to pharmacy shops and a range of highly qualified to unqualified providers, each addressing different market segments.
+
+3.1.34 We have a flourishing private sector, primarily because of a failing in the public sector. The growth of private hospitals and diagnostic centres was also encouraged by the Central and State Governments by offering tax exemptions and land at concessional rates, in return for provision of free treatment for the poor as a certain proportion of outpatients and inpatients. Apart from subsidies, private corporate hospitals receive huge amounts of public funds in the form of reimbursements from the public sector undertakings, the Central and the State Governments for treating their employees.
+
+3.1.35 The cost of health care in the private sector is much higher than the public sector. Many small providers have poor knowledge base and tend to follow irrational, ineffective, and sometimes even harmful practices for treating minor ailments. Bulk of the qualified medical practitioners and nurses are subject to self-regulation by their respective State Medical Councils under central legislation. In practice, however, regulation of these professionals is weak and close to non-existent.
 
 [[END OF PAGE 84]]
 
@@ -3286,98 +3721,66 @@ Eleventh Five Year Plan
 
 ##### HEALTH CARE UTILIZATION
 
-3.1.37 Despite a steady increase in public health care infrastructure, utilization of public health facilities by population for outpatient and inpatient care has not improved. The NSSO (1986-2004) data clearly show a  major decline in utilization of the public health facilities  for  inpatient  care  and  a  corresponding increase in utilization of the same from private health care providers in both rural and urban areas (Figures 3.1.10 and 3.1.11). With the exception of a few States, there has been very low utilization for outpatient care as well (Figure 3.1.12). Despite higher costs in the private sector, this shift shows the people's growing lack of trust in the public system. Critical shortage of health personnel, inadequate incentives, poor working conditions, lack of transparency in posting of doctors in rural areas, absenteeism, long wait, inconvenient clinic hours, poor outreach, time of service, insensitivity to local needs, inadequate planning, management, and monitoring of service/facilities appear to be the main reasons for low utilization.
+3.1.37 Despite a steady increase in public health care infrastructure, utilization of public health facilities by population for outpatient and inpatient care has not improved. The NSSO (1986-2004) data clearly show a major decline in utilization of the public health facilities for inpatient care and a corresponding increase in utilization of the same from private health care providers in both rural and urban areas (Figures 3.1.10 and 3.1.11). With the exception of a few States, there has been very low utilization for outpatient care as well (Figure 3.1.12). Despite higher costs in the private sector, this shift shows the people's growing lack of trust in the public system. Critical shortage of health personnel, inadequate incentives, poor working conditions, lack of transparency in posting of doctors in rural areas, absenteeism, long wait, inconvenient clinic hours, poor outreach, time of service, insensitivity to local needs, inadequate planning, management, and monitoring of service/facilities appear to be the main reasons for low utilization.
 
 ##### COST OF TREATMENT BY HOUSEHOLDS
 
-3.1.38 According to NSSO (60th Round), the average expenditure for hospitalized treatment from a public
+3.1.38 According to NSSO (60th Round), the average expenditure for hospitalized treatment from a public hospital was less than half that of private hospital in rural areas and about one-third in urban areas (Figure 3.1.12). There are also inter-State variations. The cost per hospitalization in government hospital was lowest in Tamil Nadu (Rs 637 in rural areas and Rs 1666 in the urban areas) and highest in rural Haryana (Rs 11665) and urban Bihar (Rs 30822). The cost of hospitalization in private hospitals was highest in Himachal Pradesh (Rs 14652 in rural areas and Rs 23447 in urban areas) and lowest in rural Kerala (Rs 4565) and urban Chhattisgarh (Rs 4359), respectively.
+
+3.1.39 As per NSSO 60th Round, during 2004, 24% of the episodes of ailments among the poor were untreated in rural areas and 22% in urban areas. Lack of finances was cited as a reason by 28% of persons with untreated episodes in rural areas and 20% in urban areas. It is also notable that 12% cited lack of medical facility as the cause of not receiving treatment in rural areas.
+
+### Review of Tenth Plan Schemes
+
+3.1.40 The Tenth Five Year Plan (2002-2007) indicated the dismal picture of the health services infrastructure and emphasized the need to invest more on building good primary-level care and referral services. The plan emphasized on restructuring and developing the health infrastructure, especially at the primary level. The plan highlighted the importance of the role of decentralization but did not state how this would be achieved. Programme-driven health care was in focus. Verticality and technical solutions were
 
 59.7
-
-43.8
-
-41.7
-
 40.3
-
+43.8
 56.2
-
+41.7
 58.3
 
 0
-
 10
-
 20
-
 30
-
 40
-
 50
-
 60
-
 70
 
 1986-87 (42nd)
-
 1995-96 (52nd)
-
 2004 (60th)
 
 Government
-
 Private
 
 Source: NSSO 60th Round (2004).
 
 FIGURE 3.1.10: Percentage of Cases of Hospitalized Treatment by Type of Hospital in Rural Areas
 
-hospital was less than half that of private hospital in  rural  areas  and  about  one-third  in  urban  areas (Figure 3.1.12). There are also inter-State variations. The cost per hospitalization in government hospital was lowest in Tamil Nadu (Rs 637 in rural areas and Rs 1666 in the urban areas) and highest in rural Haryana (Rs 11665) and urban Bihar (Rs 30822). The cost of hospitalization in private hospitals was highest  in  Himachal  Pradesh  (Rs  14652  in  rural areas and Rs 23447 in urban areas) and lowest in rural Kerala (Rs 4565) and urban Chhattisgarh (Rs 4359), respectively.
-
-3.1.39 As per NSSO 60th Round, during 2004, 24% of the episodes of ailments among the poor were untreated in rural areas and 22% in urban areas. Lack of finances was cited as a reason by 28% of persons with untreated episodes in rural areas and 20% in urban areas. It is also notable that 12% cited lack of medical facility as the cause of not receiving treatment in rural areas.
-
-### Review of Tenth Plan Schemes
-
-3.1.40 The Tenth Five Year Plan (2002-2007) indicated the dismal picture of the health services infrastructure and emphasized the need to invest more on building  good primary-level care and referral services. The plan emphasized on restructuring and developing the health infrastructure, especially at the primary level.  The  plan  highlighted  the  importance  of  the role  of  decentralization  but  did  not  state  how  this would be achieved. Programme-driven health care was in focus. Verticality and technical solutions were
-
 60.3
-
-43.1
-
-38.2
-
 39.7
-
+43.1
 56.9
-
+38.2
 61.8
 
 0
-
 10
-
 20
-
 30
-
 40
-
 50
-
 60
-
 70
 
 1986-87 (42nd)
-
 1995-96 (52nd)
-
 2004 (60th)
 
 Government
-
 Private
 
 Source: NSSO 60th Round (2004).
@@ -3393,108 +3796,73 @@ Health and Family Welfare and AYUSH
 69
 
 21
-
-19
-
-22
-
 24
-
+19
 20
-
+22
 19
 
 0
-
 5
-
 10
-
 15
-
 20
-
 25
-
 30
 
 1986-87 (42nd)
-
 1995-96 (52nd)
-
 2004 (60th)
 
 NSSO Round
-
 Percentage
-
 Rural
-
 Urban
 
 Source: NSSO 60th Round (2004).
 
 FIGURE 3.1.12: Percentage of Treated Ailments Receiving Non-hospitalized Treatment from Government Sources
 
-given more importance than comprehensive primary health care. The review of the plan not only throws light on the gap between the rhetoric and reality but also  the  framework within which the policies were formulated.
-
-3.1.41 It was important to question whether it is only the low investment in health that is the main reason for the present status of the health system or is it also to do with the framework, design, and approach within which the policies were formulated. Keeping this in view the NRHM was launched.
-
-3.1.42 The original approved health and family welfare outlay for the T enth Plan CSS and CS was Rs 36378 crore. However, the sum of annual outlay increased to Rs 41585 crore. Against this, the actual expenditure has been Rs 34950.45 crore, that is, 84.05% of the sum of annual outlay. In 2005-06, all family welfare schemes and major disease control programmes were put under the umbrella of the NRHM. Scheme-wise details of Tenth Plan outlay and expenditure are provided in Annexures 3.1.1 and 3.1.2. State Plan outlay and expenditure during Tenth Plan have been provided in Annexure 3.1.3.
-
-3.1.43 Review of the NRHM at the end of the Tenth Plan reveals that in order to improve the public health delivery, the situation needs to change on a fast track mode at the grassroots. The status as on 1 April 2007 is as under:
-
+2195
 5344
-
+3877
 11553
-
+2080
 4300
-
+3238
 7408
 
-2195
-
-3877
-
-2080
-
-3238
-
 0
-
 2000
-
 4000
-
 6000
-
 8000
-
 10000
-
 12000
-
 14000
 
 1995-96
-
 2004
-
 1995-96
-
 2004
 
-Urban                                  Rural
-
+Urban
+Rural
 Medical Expenditure
-
 Government Hospital
-
 Private Hospital
 
 Source: NSSO 60th Round (2004).
 
-FIGURE 3.1.13:  Average Medical Expenditure (Rs) per Hospitalization Case
+FIGURE 3.1.13: Average Medical Expenditure (Rs) per Hospitalization Case
+
+given more importance than comprehensive primary health care. The review of the plan not only throws light on the gap between the rhetoric and reality but also the framework within which the policies were formulated.
+
+3.1.41 It was important to question whether it is only the low investment in health that is the main reason for the present status of the health system or is it also to do with the framework, design, and approach within which the policies were formulated. Keeping this in view the NRHM was launched.
+
+3.1.42 The original approved health and family welfare outlay for the Tenth Plan CSS and CS was Rs 36378 crore. However, the sum of annual outlay increased to Rs 41585 crore. Against this, the actual expenditure has been Rs 34950.45 crore, that is, 84.05% of the sum of annual outlay. In 2005-06, all family welfare schemes and major disease control programmes were put under the umbrella of the NRHM. Scheme-wise details of Tenth Plan outlay and expenditure are provided in Annexures 3.1.1 and 3.1.2. State Plan outlay and expenditure during Tenth Plan have been provided in Annexure 3.1.3.
+
+3.1.43 Review of the NRHM at the end of the Tenth Plan reveals that in order to improve the public health delivery, the situation needs to change on a fast track mode at the grassroots. The status as on 1 April 2007 is as under:
 
 - 17318 Village Health and Sanitation Committees (VHSCs) have been constituted against the target of 1.80 lakh by 2007.
 
@@ -3506,15 +3874,15 @@ FIGURE 3.1.13:  Average Medical Expenditure (Rs) per Hospitalization Case
 
 - 9000 Primary Health Centres (PHCs) are expected to be functional with three staff nurses by 2007. This has been achieved at 2297 PHCs.
 
-- There has been a shortfall of 9413 (60.19%) specialists  at  the  CHCs. As  against  the  1950  CHCs expected to be functional with 7 specialists and 9 staff nurses by 2007, none have reached that level.
+- There has been a shortfall of 9413 (60.19%) specialists at the CHCs. As against the 1950 CHCs expected to be functional with 7 specialists and 9 staff nurses by 2007, none have reached that level.
 
 - CHCs have not been released untied or annual maintenance grant envisaged under the NRHM as they have not reached upto the expected level.
 
-- Number of districts  where  annual  integrated action  plan  under  NRHM have been prepared for 2006-07 are 211.
+- Number of districts where annual integrated action plan under NRHM have been prepared for 2006-07 are 211.
 
 ### TOWARDS FINDING SOLUTIONS
 
-3.1.44 The Eleventh Five Year Plan will aim for inclusive  growth by introducing National Urban Health Mission (NUHM), which along with NRHM, will form Sarva Swasthya Abhiyan .
+3.1.44 The Eleventh Five Year Plan will aim for inclusive growth by introducing National Urban Health
 
 [[END OF PAGE 86]]
 
@@ -3524,11 +3892,13 @@ FIGURE 3.1.13:  Average Medical Expenditure (Rs) per Hospitalization Case
 
 Eleventh Five Year Plan
 
+Mission (NUHM), which along with NRHM, will form Sarva Swasthya Abhiyan.
+
 #### National Rural Health Mission (NRHM)
 
-- 3.1.45 NRHM was launched to address infirmities and problems across primary health care and bring about improvement in the health system and the health status of those who live in the rural areas. The Mission aims to provide universal access to equitable, affordable, and quality health care that is accountable and at the same time responsive to the needs of the people. The Mission is expected to achieve the goals set under the National Health Policy and the Millennium Development Goals (MDGs).
+3.1.45 NRHM was launched to address infirmities and problems across primary health care and bring about improvement in the health system and the health status of those who live in the rural areas. The Mission aims to provide universal access to equitable, affordable, and quality health care that is accountable and at the same time responsive to the needs of the people. The Mission is expected to achieve the goals set under the National Health Policy and the Millennium Development Goals (MDGs).
 
-- 3.1.46 To  achieve  these  goals,  NRHM  facilitates increased access and utilization of quality health services by all, forges a partnership between the Central, State, and the local governments, sets up a platform for  involving  the  PRIs  and  the  community  in  the management of primary health programmes and infrastructure,  and  provides  an  opportunity  for promoting equity and social justice. The NRHM establishes  a  mechanism  to  provide  flexibility  to the States and the community to promote local initiatives  and  develop  a  framework  for  promoting intersectoral convergence for promotive and preventive health care. The Mission has also defined core and supplementary strategies.
+3.1.46 To achieve these goals, NRHM facilitates increased access and utilization of quality health services by all, forges a partnership between the Central, State, and the local governments, sets up a platform for involving the PRIs and the community in the management of primary health programmes and infrastructure, and provides an opportunity for promoting equity and social justice. The NRHM establishes a mechanism to provide flexibility to the States and the community to promote local initiatives and develop a framework for promoting intersectoral convergence for promotive and preventive health care. The Mission has also defined core and supplementary strategies.
 
 ##### 3.1.47 STRATEGIES OF NRHM
 
@@ -3580,18 +3950,6 @@ Health and Family Welfare and AYUSH
 
 71
 
-##### Box 3.1.4 Five Planks of the NRHM
-
-The Mission is expected to address the gaps in the provision of effective health care to rural population with a special focus on 18 States, which have weak public health indicators and/or weak infrastructure.
-
-The Mission is a shift away from the vertical health and family welfare programmes to a new architecture of all inclusive health development in which societies under different programmes will be merged and resources pooled at the district level.
-
-The Mission aims at the effective integration of health concerns with determinants of health like safe drinking water, sanitation, and nutrition through integrated District Plans for Health. There is a provision for flexible funds so that the States can utilize them in the areas they feel are important.
-
-The Mission provides for appointment of ASHA in each village and strengthening of the public health infrastructure, including outreach through mobile clinics. It emphasizes involvement of the non-profit sector, especially in the under-served areas. It also aims at flexibility at the local level by providing for untied funds.
-
-The Mission, in its supplementary strategies, aims at fostering PPPs; improving equity and reducing out of pocket expenses; introducing effective risk-pooling mechanisms and social health insurance; and taking advantage of local health traditions.
-
 - Promotion of PPPs for achieving public health goals.
 
 - Reorienting medical education to support health issues including regulation of Medical Care and Medical Ethics.
@@ -3618,7 +3976,7 @@ The Mission, in its supplementary strategies, aims at fostering PPPs; improving 
 
 - Leprosy Prevalence Rate-reduce from 1.8 per 10000 in 2005 to less that 1 per 10000 thereafter.
 
-- Tuberculosis  DOTS-maintain 85% cure rate through entire Mission Period and also sustain planned case detection rate.
+- Tuberculosis DOTS-maintain 85% cure rate through entire Mission Period and also sustain planned case detection rate.
 
 - Upgrading all health establishments in the district to IPHS.
 
@@ -3626,9 +3984,9 @@ The Mission, in its supplementary strategies, aims at fostering PPPs; improving 
 
 3.1.49 Under the NRHM, it is planned to have:
 
-- Over 5 lakh ASHAs, one for every 1000 population/ large habitation, in 18 Special Focus States and in tribal pockets of all States by 2008
+- Over 5 lakh ASHAs, one for every 1000 population/large habitation, in 18 Special Focus States and in tribal pockets of all States by 2008
 
-- All  SCs  (nearly  1.75  lakh)  functional  with  two ANMs by 2010
+- All SCs (nearly 1.75 lakh) functional with two ANMs by 2010
 
 - All PHCs (nearly 30000) with three staff nurses to provide 24 × 7 services by 2010
 
@@ -3638,9 +3996,21 @@ The Mission, in its supplementary strategies, aims at fostering PPPs; improving 
 
 - Mobile Medical Units for each District by 2009
 
-- Functional Hospital Development Committees in all  CHCs, Sub Divisional Hospitals, and District Hospitals by 2009
+- Functional Hospital Development Committees in all CHCs, Sub Divisional Hospitals, and District Hospitals by 2009
 
 - Untied grants and annual maintenance grants to every SC, PHC, and CHC released regularly and utilized for local health action by 2008
+
+##### Box 3.1.4 Five Planks of the NRHM
+
+The Mission is expected to address the gaps in the provision of effective health care to rural population with a special focus on 18 States, which have weak public health indicators and/or weak infrastructure.
+
+The Mission is a shift away from the vertical health and family welfare programmes to a new architecture of all inclusive health development in which societies under different programmes will be merged and resources pooled at the district level.
+
+The Mission aims at the effective integration of health concerns with determinants of health like safe drinking water, sanitation, and nutrition through integrated District Plans for Health. There is a provision for flexible funds so that the States can utilize them in the areas they feel are important.
+
+The Mission provides for appointment of ASHA in each village and strengthening of the public health infrastructure, including outreach through mobile clinics. It emphasizes involvement of the non-profit sector, especially in the under-served areas. It also aims at flexibility at the local level by providing for untied funds.
+
+The Mission, in its supplementary strategies, aims at fostering PPPs; improving equity and reducing out of pocket expenses; introducing effective risk-pooling mechanisms and social health insurance; and taking advantage of local health traditions.
 
 [[END OF PAGE 88]]
 
@@ -3686,27 +4056,25 @@ Health and Family Welfare and AYUSH
 
 73
 
-- 3.1.55 NUHM would cover all cities with a population of more than 100000. It would cover slum dwellers; other marginalized urban dwellers like rickshaw pullers, street vendors, railway and bus station coolies, homeless people, street children, construction site workers, who may be in slums or on sites.
+3.1.55 NUHM would cover all cities with a population of more than 100000. It would cover slum dwellers; other marginalized urban dwellers like rickshaw pullers, street vendors, railway and bus station coolies, homeless people, street children, construction site workers, who may be in slums or on sites.
 
-- 3.1.56 The existing Urban Health Posts and Urban Family  Welfare  Centres  would  continue  under NUHM. They will be marked on a map and classified as  the  Urban  Health Centres on the basis of their current population coverage. All the existing human resources will then be suitably reorganized and rationalized.  These  centres  will  also  be  considered  for upgradation.
+3.1.56 The existing Urban Health Posts and Urban Family Welfare Centres would continue under NUHM. They will be marked on a map and classified as the Urban Health Centres on the basis of their current population coverage. All the existing human resources will then be suitably reorganized and rationalized. These centres will also be considered for upgradation.
 
-- 3.1.57 Intersectoral  coordination mechanism and convergence will be planned between the Jawaharlal Nehru National Urban Renewal Mission (JNNURM) and the NUHM.
+3.1.57 Intersectoral coordination mechanism and convergence will be planned between the Jawaharlal Nehru National Urban Renewal Mission (JNNURM) and the NUHM.
 
 #### Strengthening Existing Health System
 
-- 3.1.58 There is need to shift to decentralization of functions to hospital units/health centres and local bodies. The States need to move away from the narrow focus on the implementation of budgeted programmes and vertical schemes. They need to develop systems that comprehensively address the health needs of all citizens. Thus, in order to improve the health care services in the country, the Eleventh Five Y ear Plan will insist on Integrated District Health Plans and Block Specific Health Plans. It will mandate involvement of all health related sectors and emphasize partnership with PRIs, local bodies, communities, NGOs, Voluntary and Civil Society Organizations.
+3.1.58 There is need to shift to decentralization of functions to hospital units/health centres and local bodies. The States need to move away from the narrow focus on the implementation of budgeted programmes and vertical schemes. They need to develop systems that comprehensively address the health needs of all citizens. Thus, in order to improve the health care services in the country, the Eleventh Five Year Plan will insist on Integrated District Health Plans and Block Specific Health Plans. It will mandate involvement of all health related sectors and emphasize partnership with PRIs, local bodies, communities, NGOs, Voluntary and Civil Society Organizations.
 
 ##### PRIMARY HEALTH CARE
 
-- 3.1.59 During the Eleventh Five Year Plan, major focus will be on NRHM initiatives. Efforts will be made for restructuring and reorganizing all health facilities below district level into the Three Tier Rural Primary Health Care System. These will serve the populations in a well-defined area and have referral linkages with each other. Population-centric norms, which continue to drive the provisioning of health infrastructure, will be modified. These will be replaced with flexible norms comprising habitation-based needs, community-based
+3.1.59 During the Eleventh Five Year Plan, major focus will be on NRHM initiatives. Efforts will be made for restructuring and reorganizing all health facilities below district level into the Three Tier Rural Primary Health Care System. These will serve the populations in a well-defined area and have referral linkages with each other. Population-centric norms, which continue to drive the provisioning of health infrastructure, will be modified. These will be replaced with flexible norms comprising habitation-based needs, community-based needs, and disease pattern-based needs. Steps will also be taken to reorganize Urban Primary Health Care Institutions and make them responsible for the health care of people living in a defined geographic area, particularly slum dwellers.
 
-needs, and disease pattern-based needs. Steps will also be taken to reorganize Urban Primary Health Care Institutions and make them responsible for the health care of people living in a defined geographic area, particularly slum dwellers.
+3.1.60 The Approach Paper on Eleventh Five Year Plan stated accessibility as a major issue, especially in rural areas, where habitations are scattered and women and children continue to die en route to hospital. Policy interventions, therefore, have to be evidence based and responsive to area specific differences as shown in Assam (Box 3.1.5). Concerted action will be taken such as enabling pregnant women to have skilled attendance at birth and receive nutritional supplements. PHCs and CHCs will be connected by all weather roads so that they can be reached quickly in emergencies (accessibility to hospital would be measured in travel time, not just distance from nearest PHC). Home-based neonatal care will be provided, including emergency life saving measures. Achievement of health objectives will, therefore, involve much more than curative or even preventive health care, an integrated approach will be adopted.
 
-- 3.1.60 The Approach Paper on Eleventh Five Year Plan stated accessibility as a major issue, especially in rural areas, where habitations are scattered and women and children continue to die en route to hospital. Policy interventions, therefore, have to be evidence based and responsive to area specific differences as shown in Assam (Box 3.1.5). Concerted action will be taken such as enabling pregnant women to have skilled attendance at birth and receive nutritional supplements. PHCs and CHCs will be connected by all weather roads so that they can be reached quickly in  emergencies (accessibility to hospital would be measured in travel time, not just distance from nearest PHC). Home-based neonatal care will be provided, including emergency life saving measures. Achievement of health objectives will, therefore, involve much more than curative or even preventive health care, an integrated approach will be adopted.
+3.1.61 The Eleventh Five Year Plan will ensure availability of essential drugs and supplies, vaccines, medical equipment, along with the basic infrastructure like electricity, water supply, toilets, telecommunications, and computers for maintaining records. All States will be encouraged to implement the Tamil Nadu model in which close to 58% of the health centres are functioning round the clock. Success models of various States such as higher salary to health workers posted in tribal regions of Himachal Pradesh and KBK districts of Orissa can be considered and replicated.
 
-- 3.1.61 The Eleventh Five Year Plan will ensure availability of essential drugs and supplies, vaccines, medical equipment, along with the basic infrastructure like electricity, water supply, toilets, telecommunications, and computers for maintaining records. All States will  be  encouraged to implement the Tamil Nadu model in which close to 58% of the health centres are functioning round the clock. Success models of various States such as higher salary to health workers posted in tribal regions of Himachal Pradesh and KBK districts of Orissa can be considered and replicated.
-
-- 3.1.62 Tribal  population in India is considered to be the most socio-economically disadvantaged group. The National Population Policy (2000) has made special  mention of tribal areas in terms of improving basic  health  and  Reproductive  and  Child  Health (RCH) services. In order to ensure adequate access to health care services for the tribal population, apart from dispensaries and mobile health clinics, 20284 SCs, 3230 PHCs, and 750 CHCs have been established.
+3.1.62 Tribal population in India is considered to be the most socio-economically disadvantaged group. The National Population Policy (2000) has made special mention of tribal areas in terms of improving basic health and Reproductive and Child Health (RCH) services. In order to ensure adequate access to health care services for the tribal population, apart from dispensaries and mobile health clinics, 20284 SCs, 3230 PHCs, and 750 CHCs have been established.
 
 [[END OF PAGE 90]]
 
@@ -3716,9 +4084,9 @@ needs, and disease pattern-based needs. Steps will also be taken to reorganize U
 
 Eleventh Five Year Plan
 
-##### Box 3.1.5 Akha -Ship of Hope
+##### Box 3.1.5 Akha—Ship of Hope
 
-On the sapori s or river islands of Assam that are inundated with floods every time the mighty Brahmaputra unleashes its fury, life is a constant struggle against disease and deprivation. Some 30 lakh people live in 2300 remote, floating villages on the Brahmaputra in Upper Assam. Here, there are no functional anganwadi s, no health centres, no schools, no power, not even drinking water. Till recently, immunization, Antenatal Care (ANC), disease management, and treatment were all unheard of. Then in 2005 the Centre for North East Studies and Policy Research intervened. They partnered with NRHM, UNICEF, and the government of Assam, to start Akha (meaning hope in Assamese)-a 22-metre long, four-metre wide ship that carries hope and health care to 10000 forgotten people in Tinsukhia, Dhemaji, and Dibrugarh districts of Upper Assam. The 120 hp powered Akha has an Out Patient Department (OPD) room, cabins for medical staff and ship crew, medicine storage space, a kitchen, two toilet cum bathrooms, and a general store. A generator set and 200 litre water reservoir are also installed to ensure that the medical team that travels to the saporis has adequate power and water supply.
+On the saporis or river islands of Assam that are inundated with floods every time the mighty Brahmaputra unleashes its fury, life is a constant struggle against disease and deprivation. Some 30 lakh people live in 2300 remote, floating villages on the Brahmaputra in Upper Assam. Here, there are no functional anganwadis, no health centres, no schools, no power, not even drinking water. Till recently, immunization, Antenatal Care (ANC), disease management, and treatment were all unheard of. Then in 2005 the Centre for North East Studies and Policy Research intervened. They partnered with NRHM, UNICEF, and the government of Assam, to start Akha (meaning hope in Assamese)—a 22-metre long, four-metre wide ship that carries hope and health care to 10000 forgotten people in Tinsukhia, Dhemaji, and Dibrugarh districts of Upper Assam. The 120 hp powered Akha has an Out Patient Department (OPD) room, cabins for medical staff and ship crew, medicine storage space, a kitchen, two toilet cum bathrooms, and a general store. A generator set and 200 litre water reservoir are also installed to ensure that the medical team that travels to the saporis has adequate power and water supply.
 
 The idea behind Akha is simple-use the river to tackle the problems and challenges created by it. Doctors and ANMs who are unwilling and unable to survive on these remote islands, live on this ship stocked with medicine and other supplies and hold health camps on the saporis. They immunize, treat, provide medicines, and advise people on preventive measures. They even take critically ill patients to the nearest health centre in Dibrugarh.
 
@@ -3728,7 +4096,7 @@ Most of the centrally  sponsored  disease  control programmes have a focus on th
 
 3.1.63 Challenges such as demand side constraints, human resource development issues, and the providers' attitude are particularly acute in tribal areas. During the Eleventh Five Year Plan, therefore, renewed efforts  will  be  made  to  provide  need-based quality integrated health and family welfare services, improvement of service coverage, promotion of community participation,  encouragement of tribal  system of medicine under AYUSH and replication of successful efforts (See Box 3.1.6).
 
-3.1.64 The challenge of increasing urbanization with growth of slums and low-income families in cities has made access to health care for the urban poor a priority of the Eleventh Five Y ear Plan. Therefore, the thrust during the Eleventh Five Year Plan will be to locate the services in or around urban slums, Minorities, and SC basti s  and  SC  concentration areas having 20% or more SC/ST population. With a view to improving health status of people in urban slums, the Eleventh Five Year Plan will provide support to the Comprehensive Project Implementation Plan (PIP) for vulnerable groups, which covers population in urban slums and other vulnerable groups in cities and towns with a population up to one lakh. The Plan will  develop  mechanism to address this particular issue. This will be in addition to the NUHM described above.
+3.1.64 The challenge of increasing urbanization with growth of slums and low-income families in cities has made access to health care for the urban poor a priority of the Eleventh Five Year Plan. Therefore, the thrust during the Eleventh Five Year Plan will be to locate the services in or around urban slums, Minorities, and SC bastis and SC concentration areas having 20% or more SC/ST population. With a view to improving health status of people in urban slums, the Eleventh Five Year Plan will provide support to the Comprehensive Project Implementation Plan (PIP) for vulnerable groups, which covers population in urban slums and other vulnerable groups in cities and towns with a population up to one lakh. The Plan will develop mechanism to address this particular issue. This will be in addition to the NUHM described above.
 
 3.1.65 In order to meet the objectives of reducing various types of inequities and imbalances, interregional and rural-urban, the Eleventh Five Year Plan will increase the sectoral outlay in the primary health sector. While recognizing the role of primary heath sector, the National Health Policy (2002) sets out an increased allocation of 55% of the total public health outlay for primary care; the secondary and tertiary health sectors being targeted for 35% and 10% respectively. The Policy also states that the increased aggregate outlays for primary health care should be utilized for  strengthening  existing  facilities  and  opening additional public health service outlets, consistent with the norms.
 
@@ -3742,7 +4110,7 @@ Health and Family Welfare and AYUSH
 
 ##### Box 3.1.6 Cultural Alignment
 
-Often cultural alienation coupled with the apathy of doctors drives the tribals away from big hospitals and government health care facilities. The best way of delivering health care to the tribals is to do so in an environment that is familiar to them. This is what has been done in Gadchiroli. The SEARCH hospital is a habitat of huts built between trees. The reception area resembles a Ghotulthe traditional place for social and cultural events in a Gond village. The patients don't stay in  wards but in individual huts with their families. Everything from bedsheets to towels is of khadi. The tribals often feel  isolated  and  scared  in  big  buildings.  Here,  surrounded  by their natural environment and loved ones, patients feel at home. The result: thousands of tribal patients from 10 blocks of Chandrapur and Gadchiroli flock to this hospital for treatment.
+Often cultural alienation coupled with the apathy of doctors drives the tribals away from big hospitals and government health care facilities. The best way of delivering health care to the tribals is to do so in an environment that is familiar to them. This is what has been done in Gadchiroli. The SEARCH hospital is a habitat of huts built between trees. The reception area resembles a Ghotul—the traditional place for social and cultural events in a Gond village. The patients don't stay in wards but in individual huts with their families. Everything from bedsheets to towels is of khadi. The tribals often feel isolated and scared in big buildings. Here, surrounded by their natural environment and loved ones, patients feel at home. The result: thousands of tribal patients from 10 blocks of Chandrapur and Gadchiroli flock to this hospital for treatment.
 
 SEARCH has also demonstrated how tribal beliefs can be used to disseminate health education. Every year, a jatra is organized in Shodhgram (SEARCH campus at Gadchiroli) in honour of Goddess Danteshwari, the deity revered by tribals. Representatives from as many as 40 tribal villages participate in this jatra. At the end of it, an Aarogya Sansad is held where the tribals are asked to enumerate their health concerns. After voting, one health problem is identified as the year's priority. Representatives then go back to the villages and start working on the identified problem. This is regarded as a command from the Goddess herself which no one can oppose. For instance, one year, the tribals voted for eradication of malaria. They were shocked to learn that malaria was caused by a mosquito bite and immediately wanted to know how to check the breeding of mosquitoes. By communicating with the tribals in a language that they understand, SEARCH has been able to tackle many superstitions and unhealthy practices.
 
@@ -3750,7 +4118,7 @@ SEARCH has also demonstrated how tribal beliefs can be used to disseminate healt
 
 ##### SECONDARY AND TERTIARY HEALTH CARE
 
-- 3.1.67 Secondary and Tertiary health care will receive attention.  There  is  an  urgent  need  to  take  a  fresh look at how public and private sector can be better utilized during the Eleventh Five Y ear Plan. The NRHM addresses these issues through a few strategies. Priorities  will  be  given  to  strategies  involving  PPPs,  riskpooling mechanisms, and cross subsidization.
+3.1.67 Secondary and Tertiary health care will receive attention. There is an urgent need to take a fresh look at how public and private sector can be better utilized during the Eleventh Five Year Plan. The NRHM addresses these issues through a few strategies. Priorities will be given to strategies involving PPPs, risk-pooling mechanisms, and cross subsidization.
 
 - 3.1.68 Administration of the secondary and tertiary care hospitals will be professionalized and trained professionals posted as Medical Superintendents. Hospitals will be allowed to recruit various staff including junior doctors on ad hoc and contract basis. Drugs purchase should be made through centralized rate
 
@@ -3758,7 +4126,7 @@ contract and decentralized distribution with zero stock at headquarter level. Em
 
 - 3.1.69 District hospitals, which play a key role in providing health services to the poor, need substantial improvement in infrastructure and other facilities to perform their role more effectively. This would also be a key intermediate step in the health strategy, till the vision of health care through PHCs and community  health  centres  is  fully  realized.  The  Plan  will also complete setting up of 6 AIIMS-like institutions, upgrading 13 existing medical institutes under the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY) and strengthening the Central Government hospitals. Adoption of PPP mode will be explored for these activities.
 
-- 3.1.70 It is often observed that Government Medical Colleges  and  Hospitals  are  on  the  verge  of  derecognition mainly because they fail to adhere to the infrastructure, equipment, and staff norms, as laid down by MCI. This is thought to be due to lack of funding. The Centre and States will have to make provisions for strengthening these institutions.
+3.1.70 It is often observed that Government Medical Colleges and Hospitals are on the verge of de-recognition mainly because they fail to adhere to the infrastructure, equipment, and staff norms, as laid down by MCI. This is thought to be due to lack of funding. The Centre and States will have to make provisions for strengthening these institutions.
 
 [[END OF PAGE 92]]
 
@@ -3802,7 +4170,7 @@ Eleventh Five Year Plan
 
 - Including all essential drugs under a system of price monitoring
 
-- Implementing and reinforcing the concept of Standard Treatment Guidelines in the in-service and preservice training programmes of the doctors and health workers.
+- Implementing and reinforcing the concept of Standard Treatment Guidelines in the in-service and pre-service training programmes of the doctors and health workers.
 
 ##### FOOD SAFETY AND QUALITY CONTROL
 
@@ -3816,9 +4184,11 @@ Health and Family Welfare and AYUSH
 
 77
 
-State | Share of Health to Total Household Expenditure | Share of Drug Expenditure to Total Household Health Expenditure
+TABLE 3.1.7 Percentage Share of Household Expenditure on Health and Drugs in Various States
+
+State | Share of Health to Total Household Expenditure |  | Share of Drug Expenditure to Total Household Health Expenditure |
 --- | --- | --- | --- | ---
-Rural | Urban | Rural | Urban
+ | Rural | Urban | Rural | Urban
 Andhra Pradesh | 6.56 | 4.13 | 72.42 | 71.36
 Assam | 2.47 | 4.04 | 70.65 | 68.49
 Bihar | 4.40 | 2.96 | 89.14 | 82.16
@@ -3840,11 +4210,9 @@ UP | 8.20 | 5.64 | 86.76 | 81.47
 WB | 4.64 | 4.84 | 72.89 | 67.80
 All India | 6.05 | 4.91 | 77.33 | 69.18
 
-TABLE 3.1.7 Percentage Share of Household Expenditure on Health and Drugs in Various States
+Source: NCMH (2005).
 
-Source:
-
-NCMH (2005).
+##### Box 3.1.7 Essential Drug Supply—Tamil Nadu Experience
 
 ###### Activities
 
@@ -3878,9 +4246,7 @@ Rational use of drugs
 
 Availability of accurate up to date stock information on the computer
 
-Linkage of all warehouses telephonically with the TNMSC headquarters in Chennai labelling, following actions will be undertaken during the Eleventh Five Year Plan:
-
-##### Box 3.1.7 Essential Drug Supply-Tamil Nadu Experience
+Linkage of all warehouses telephonically with the TNMSC headquarters in Chennai
 
 [[END OF PAGE 94]]
 
@@ -3889,6 +4255,8 @@ Linkage of all warehouses telephonically with the TNMSC headquarters in Chennai 
 78
 
 Eleventh Five Year Plan
+
+labelling, following actions will be undertaken during the Eleventh Five Year Plan:
 
 - Creating Food Safety Authority for speedy enforcement of safety standards.
 
@@ -3904,7 +4272,7 @@ Eleventh Five Year Plan
 
 ##### ROLE OF PRIs
 
-3.1.76 PRIs have the mandate to manage the primary health system. Communitiza-tion through ownership by PRIs is necessary for an efficient and effective health system. Implementation of the NRHM will have to be closely watched to ensure that the involvement of Panchayats is total and complete. The various tiers of PRIs will decide the local priorities and also supervise  functioning of health facilities,  functionaries, and functions through their participation in various committees.
+3.1.76 PRIs have the mandate to manage the primary health system. Communitization through ownership by PRIs is necessary for an efficient and effective health system. Implementation of the NRHM will have to be closely watched to ensure that the involvement of Panchayats is total and complete. The various tiers of PRIs will decide the local priorities and also supervise functioning of health facilities, functionaries, and functions through their participation in various committees.
 
 3.1.77 Since one-third of elected members at the local bodies are women, this is an opportunity to promote a gender-sensitive, multi-sectoral agenda for population stabilization with the help of village level health committees. All this will remain rhetoric until the elected women are trained and empowered. Under the NRHM, ASHAs are envisaged to be selected by and be accountable to the village Panchayats. Involvement of PRIs will also be necessary to improve the coverage and quality of registration of births, deaths, marriages, and pregnancies in all States.
 
@@ -3912,7 +4280,7 @@ Eleventh Five Year Plan
 
 ##### ROLE OF CIVIL SOCIETY
 
-3.1.79 Community Based Health Partnership is the key to sustaining health action even with limited resources. This can take many forms, through the PRIs, community-based and NGOs, and of people participating  at  all  levels  of  health  interventions. This cannot be achieved only by giving financial and administrative powers to the Panchayats, it needs active  participation  of  the  people  for  local  action. Partnership with community groups (through youth, mahila mandal s,  SHGs, and Gram Sabhas) is necessary  for  local  solutions  to  local  problems.  In  this regard, successful communitization of health services in  Nagaland should be studied and replicated (Box 3.1.9) .
+3.1.79 Community Based Health Partnership is the key to sustaining health action even with limited resources. This can take many forms, through the PRIs, community-based and NGOs, and of people participating at all levels of health interventions. This cannot be achieved only by giving financial and administrative powers to the Panchayats, it needs active participation of the people for local action. Partnership with community groups (through youth, mahila mandals, SHGs, and Gram Sabhas) is necessary for local solutions to local problems. In this regard, successful communitization of health services in Nagaland should be studied and replicated (Box 3.1.9).
 
 3.1.80 The NRHM envisages community participation such as described above. Under the framework for implementation, the Mission tries to ensure that more than 70% of the resources are spent through bodies that are managed by peoples' organizations and at least 10% of the resources are spent through grants-in-aids to NGOs. The mechanism of untied funds at the local level is meant to give them a little flexibility. During the Eleventh Five Year Plan, efforts will be made to promote various community-based initiatives.
 
@@ -3984,7 +4352,7 @@ to 4% in 1988 and then to 22% in 2001. It is now acknowledged that unless 100% c
 
 3.1.84 During the last few years, the Centre as well as the State Governments have initiated a wide variety of PPP arrangements to meet peoples' growing health care needs (few examples provided in Box 3.1.10). Besides these examples, services like cleaning and maintenance of buildings, security, waste management, scavenging, laundry, diet have been contracted out to the private sector by many States.
 
-3.1.85 The existing evidence for PPP does not allow easy generalization. Contracting is the predominant model for PPP in India. Some partnerships are simple contracts (like laundry, diet, cleaning, etc.), others are more complex involving many stakeholders with their  respective  responsibilities.  For  example,  the Yeshaswini Health Insurance scheme for farmers in Karnataka includes the State Department of Cooperatives, the Y eshaswini Trust with its almost 200 private hospitals,  a  corporate  Third  Party  Administrator (TPA), and beneficiaries with the eligibility conditions. It is seen that in most partnerships, the State Health Department is the principal partner with limited stakeholder consultation. However, true partnerships that mean equality among partners, mutual commitment to goals, shared decision making, and risk taking are rarely seen.
+3.1.85 The existing evidence for PPP does not allow easy generalization. Contracting is the predominant model for PPP in India. Some partnerships are simple contracts (like laundry, diet, cleaning, etc.), others are more complex involving many stakeholders with their respective responsibilities. For example, the Yeshaswini Health Insurance scheme for farmers in Karnataka includes the State Department of Cooperatives, the Yeshaswini Trust with its almost 200 private hospitals, a corporate Third Party Administrator (TPA), and beneficiaries with the eligibility conditions. It is seen that in most partnerships, the State Health Department is the principal partner with limited stakeholder consultation. However, true partnerships that mean equality among partners, mutual commitment to goals, shared decision making, and risk taking are rarely seen.
 
 3.1.86 Findings of existing case studies also bring forth concerns such as absence of the beneficiary in the entire process, lack of effective governance mechanisms for ensuring accountability, non transparent mechanisms, lack of appropriate monitoring and governance systems, and institutionalized management structures to handle the task. For example, while contracting out PHCs, the State Governments sometimes hand over the worst performing PHCs to NGOs. Not paying the initial instalment to NGOs at the start of the project is another problem. The NGOs are never sure whether the money will eventually be released and if so, how much to expect. Management of health facilities should be handed over to NGOs only if the process is completely transparent and there is a strong local  monitoring mechanism. This is the objective of Government-NGO partnership envisaged in the Eleventh Five Year Plan.
 
@@ -3998,103 +4366,71 @@ Health and Family Welfare and AYUSH
 
 81
 
+##### Box 3.1.10 Public-Private Partnership (PPP)
+
 - Rajasthan:
 
-- West Bengal:
+Partners: Medicare Relief Society, SMS Hospital, Jaipur, and Vardhman Scanning and Imaging Private Ltd.
 
-Partners:
-
-Medicare Relief Society, SMS Hospital, Jaipur, and Vardhman Scanning and Imaging Private Ltd.
-
-Services:
-
-Contracting in Radiological diagnostic services in the public hospitals.
+Services: Contracting in Radiological diagnostic services in the public hospitals.
 
 Provision of quality drugs and supplies cheaper than market rate. All this free for BPL patients above 70 years of age and freedom fighters; pre-negotiated rates for others.
 
-Partners:
+- West Bengal:
 
-Services:
+Partners: Government of West Bengal, Mediclue, District Health & FW Societies, Private partners, M/S Doctors Laboratory and Non Profit NGOs.
+
+Services: CT Scan in seven medical colleges, MRI in one medical college hospital, diagnostic facilities in 30 rural hospitals, and running of 133 ambulances for emergency transport under management of NGOs/CBOs at the level of Block PHCs.
 
 - Uttarakhand:
 
+Partners: Government of Uttarakhand, DST, GoI and Uttaranchal Institute of Scientific Research, Bhimtal (NGO).
+
+Services: Mobile Health Services—Diagnostic, Laboratory, and Clinical Services through mobile vans. Dedicated health camps in 6 districts of western part of Uttarakhand.
+
 - Karnataka:
 
-Partners: Services:
+Partners: Government of Karnataka and Apollo Hospitals Enterprises Ltd, Hyderabad Rajiv Gandhi Super Specialty Hospital, Raichur handed to Apollo Hospital under management contract.
 
-Government of Uttarakhand, DST, GoI and Uttaranchal Institute of Scientific Research, Bhimtal (NGO). Mobile Health Services-Diagnostic, Laboratory, and Clinical Services through mobile vans. Dedicated health camps in 6 districts of western part of Uttarakhand.
+Services: 350 bedded hospital. Free services to BPL patients, 40% beds for BPL (government reimburses the charges) and remaining patients treated under special rates.
 
-Partners:
+Partners: Government of Karnataka & Karuna Trust.
 
-Services:
+Services: Contracting out adoption and management of PHCs and affiliated SCs in remote, rural, and tribal areas in the State.
 
-Partners:
-
-Services:
+24 hrs health services—OPD, emergency services, electrocardiogram (ECG), X-ray, laboratory, immunization, national health programmes, RCH programme, 20 bed patient ward, and ambulance.
 
 - Gujarat:
 
+Partners: Government of Gujarat and Private Doctors (Obstetricians and Gynecologists).
+
+Services: Chiranjeevi Yojana: Private Doctors (Obstetricians) are contracted for deliveries both normal and caesarian of BPL women at their facilities.
+
 - Arunachal Pradesh:
+
+Partners: Government of Arunachal Pradesh & VHAI, Karuna Trust, Future Generations, and Prayas.
+
+Services: Management of selected PHCs.
 
 - Andhra Pradesh:
 
-- Tamil Nadu:
+Partners: Government of Andhra Pradesh and Social Action for Integrated Development Services, Adilabad (NGO)
 
-Partners:
+Services: Urban Slum health care project. Contracting in (performance contract but without any public premises being handed over to the private partner).
 
-Government of Gujarat and Private Doctors (Obstetricians and Gynecologists).
+Partners: Government of Andhra Pradesh & New India Assurance Company.
 
-Services:
-
-Chiranjeevi Yojana: Private Doctors (Obstetricians) are contracted for deliveries both normal and caesarian of BPL women at their facilities.
-
-Partners:
-
-Government of Arunachal Pradesh & VHAI, Karuna Trust, Future Generations, and Prayas. Management of selected PHCs.
-
-Services:
-
-Partners:
-
-Government of Andhra Pradesh and Social Action for Integrated Development Services, Adilabad (NGO) Urban Slum health care project. Contracting in (performance contract but without any public premises being handed over to the private partner).
-
-Services :
-
-Partners:
-
-Government of Andhra Pradesh & New India Assurance Company.
-
-Services :
-
-Arogya Raksha Scheme based on vouchers.
+Services: Arogya Raksha Scheme based on vouchers.
 
 Funded by the government, operational management by the public sector company, and service delivery by private health service providers.
 
-Partners:
+- Tamil Nadu:
 
-Government of Tamil Nadu & the Seva Nilayam Society in association with Ryder-Cheshire Foundation (NGOs).
+Partners: Government of Tamil Nadu & the Seva Nilayam Society in association with Ryder-Cheshire Foundation (NGOs).
 
-Services:
-
-Performance contract for the provision of emergency ambulance services in the region. Ambulances are owned by the government.
+Services: Performance contract for the provision of emergency ambulance services in the region. Ambulances are owned by the government.
 
 Note: FW = Family Welfare.
-
-##### Box 3.1.10 Public-Private Partnership (PPP)
-
-Government of West Bengal, Mediclue, District Health & FW Societies, Private partners, M/S Doctors Laboratory and Non Profit NGOs.
-
-CT Scan in seven medical colleges, MRI in one medical college hospital, diagnostic facilities in 30 rural hospitals, and running of 133 ambulances for emergency transport under management of NGOs/CBOs at the level of Block PHCs.
-
-Government of Karnataka and Apollo Hospitals Enterprises Ltd, Hyderabad Rajiv Gandhi Super Specialty Hospital, Raichur handed to Apollo Hospital under management contract.
-
-350 bedded hospital. Free services to BPL patients, 40% beds for BPL (government reimburses the charges) and remaining patients treated under special rates.
-
-Government of Karnataka & Karuna Trust.
-
-Contracting out adoption and management of PHCs and affiliated SCs in remote, rural, and tribal areas in the State.
-
-24 hrs health services-OPD, emergency services, electrocardiogram (ECG), X-ray, laboratory, immunization, national health programmes, RCH programme, 20 bed patient ward, and ambulance.
 
 [[END OF PAGE 98]]
 
@@ -4112,7 +4448,7 @@ to develop a generic framework for different categories of PPPs at primary, seco
 
 3.1.89 The 60th Round of the NSSO (2004-05), has clearly brought out the fact that in rural government hospitals,  an  out-of-pocket  expenditure  of  more than Rs 3000 is made during every hospitalization. In rural private hospitals, it is more than Rs 7000. The expenditure in the urban areas in private hospitals is more than Rs 11000 and about three times higher than the public hospitals. Today, this expenditure would have increased substantially. Private out-of-pocket expenditure can be reduced through Comprehensive Health Insurance, on a risk pooling basis for all, particularly the poor.
 
-3.1.90 Coverage of health insurance in India is pathetically limited. Current health insurance in government and private sector covers around 11% of the population. The existing Employees State Insurance Scheme, Central Government Health Scheme (CGHS), and Ex-Servicemen Contributory Health Scheme provide services to industrial workers, government employees, and ex-Armed Forces Personnel along with their families. Mediclaim covers mainly the upper-middle income groups. Private health insurance schemes are mainly urban oriented and they have problems like unaffordable premiums, delay in settling claims, nontransparent procedures in deciding reimbursements, etc. Even though the system of TPAs has facilitated cash payments and expanded access to providers it is yet to show evidence of having been able to control cost or provide appropriate care.
+3.1.90 Coverage of health insurance in India is pathetically limited. Current health insurance in government and private sector covers around 11% of the population. The existing Employees State Insurance Scheme, Central Government Health Scheme (CGHS), and Ex-Servicemen Contributory Health Scheme provide services to industrial workers, government employees, and ex-Armed Forces Personnel along with their families. Mediclaim covers mainly the upper-middle income groups. Private health insurance schemes are mainly urban oriented and they have problems like unaffordable premiums, delay in settling claims, non-transparent procedures in deciding reimbursements, etc. Even though the system of TPAs has facilitated cash payments and expanded access to providers it is yet to show evidence of having been able to control cost or provide appropriate care.
 
 ##### ENCOURAGE COMMUNITY RISK-POOLING
 
@@ -4145,7 +4481,7 @@ Health and Family Welfare and AYUSH
 
 #### Central Government Health Scheme (CGHS)
 
-3.1.98 CGHS was started in 1954 and at present 24 cities are covered with total of 9.12 lakh card holders and 33.01 lakh beneficiaries (as on 31 March 2006). 72.5% card holders are serving employees, 25.4% are pensioners, and rest belong to the categories such as freedom fighters, Members of Parliament (MPs), exMPs, journalists, and others. Services covered under CGHS include hospitalization, outpatient consultation and treatment, diagnostics, drugs, etc. For these services there are 247 allopathic dispensaries, 82 AYUSH dispensaries, 19 polyclinics, and 65 laboratories in the cities covered. For hospitalization, the services are largely outsourced to selected private hospitals, all government hospitals are included. Out Patient Department (OPD) and diagnostic services are also partly outsourced to selected private hospitals and diagnostic centres.
+3.1.98 CGHS was started in 1954 and at present 24 cities are covered with total of 9.12 lakh card holders and 33.01 lakh beneficiaries (as on 31 March 2006). 72.5% card holders are serving employees, 25.4% are pensioners, and rest belong to the categories such as freedom fighters, Members of Parliament (MPs), ex-MPs, journalists, and others. Services covered under CGHS include hospitalization, outpatient consultation and treatment, diagnostics, drugs, etc. For these services there are 247 allopathic dispensaries, 82 AYUSH dispensaries, 19 polyclinics, and 65 laboratories in the cities covered. For hospitalization, the services are largely outsourced to selected private hospitals, all government hospitals are included. Out Patient Department (OPD) and diagnostic services are also partly outsourced to selected private hospitals and diagnostic centres.
 
 3.1.99 Mid Term Appraisal for the Tenth Plan has made the following recommendations regarding CGHS:
 
@@ -4167,9 +4503,7 @@ Eleventh Five Year Plan
 
 3.1.101 Fixed  subscription  is  contributed  by  the beneficiary irrespective of the size of the family and the magnitude of services being availed. Present subscription rates are based upon the basic pay or pension of the government servant or pensioner. Since there is no linkage between subscription rates (fixed) and cost of services  (dynamic),  the  already  huge gap between beneficiary contributions and actual expenditure is progressively widening. To arrest the increasing trend, following options will be considered during Eleventh Five Year Plan:
 
-- Linking the rate of subscription to total cost of CGHS system so that beneficiaries contribute a fixed
-
-- percentage of CGHS cost and remaining cost is borne by the government.
+- Linking the rate of subscription to total cost of CGHS system so that beneficiaries contribute a fixed percentage of CGHS cost and remaining cost is borne by the government.
 
 - Contribution should be per person/beneficiary and not per CGHS card issued to the family.
 
@@ -4185,7 +4519,7 @@ Eleventh Five Year Plan
 
 3.1.103 All  State  Councils  will  be  encouraged  to shift to a system of periodical renewal of registration, possibly every three to five years. A specialist's or a super specialist's qualifications should also be required to be registered. These details should get transferred to a National Register to be maintained and updated by each apex council. There is need for a system of accreditation of various courses offered by Medical, Dental, and Nursing educational institutions. The Human Resource Development Ministry has already established  a  system  for  accreditation  and  rating of universities. Such a system is also needed in the medical  education  sector.  The  proposed  Health Sciences Grants Commission should be given this responsibility.
 
-3.1.104 In the field of paramedical education, priority  will  be  given  for  establishment of National Para Medical Council as an apex body to determine standards and to ensure uniform enforcement throughout  the  country.  On  similar  lines,  councils  for physiotherapy and occupational therapy should also be established.
+3.1.104 In the field of paramedical education, priority will be given for establishment of National Para
 
 [[END OF PAGE 101]]
 
@@ -4195,7 +4529,9 @@ Health and Family Welfare and AYUSH
 
 85
 
-3.1.105 National Accreditation Board for Hospitals and Health care Providers (NABH), a constituent Board of Quality Council of India, has adopted standards and accreditation process in line  with worldwide accreditation  practices.  Academy  of Hospital Administration had formulated a standard for NABH. Other organizations like Indian Confederation for Health Care Accreditation and financial rating  organizations  like  ICRA  have  started  the process of accreditation and rating the health institutions.
+Medical Council as an apex body to determine standards and to ensure uniform enforcement throughout the country. On similar lines, councils for physiotherapy and occupational therapy should also be established.
+
+3.1.105 National Accreditation Board for Hospitals and Health care Providers (NABH), a constituent Board of Quality Council of India, has adopted standards and accreditation process in line with worldwide accreditation practices. Academy of Hospital Administration had formulated a standard for NABH. Other organizations like Indian Confederation for Health Care Accreditation and financial rating organizations like ICRA have started the process of accreditation and rating the health institutions.
 
 3.1.106 Of late, the government has given approval for introducing the Clinical Establishments (Registration and Regulation) Bill in the Parliament. The proposed legislation will cover all clinical organizations in  different  streams of medicine including AYUSH systems. Under this legislation, all the clinical establishments including diagnostic centres will be registered  and  regulated  by  the  National  Council  of Standards.  The  council  will  prescribe  minimum standards for health services and maintain national register of clinical establishments.
 
@@ -4213,7 +4549,7 @@ Health and Family Welfare and AYUSH
 
 - Setting up a National Paramedical and other Councils for regulating education and service delivery.
 
-- Recognition of RMPs as sahabhaagi s in NRHM.
+- Recognition of RMPs as sahabhaagis in NRHM.
 
 #### Emerging Technologies
 
@@ -4225,7 +4561,7 @@ Health and Family Welfare and AYUSH
 
 ##### ROLE OF e-HEALTH
 
-3.1.111 Appropriate use of IT for an enhanced role in health care and governance will be aimed at during the Eleventh Five Year Plan. It is feasible to set up a National Grid to be shared by health care providers, trainers, beneficiaries, and civil society. The country already has the advantage of a strong fibre backbone and indigenous satellite communication technology with trained human resources in this regard. A number of pilot projects on e-Health over the past years by private concerns, corporate, NGOs, medical colleges, and research institutions have been set up. The successful outcome of many of these initiatives needs to be evaluated and scaled up.
+3.1.111 Appropriate use of IT for an enhanced role in health care and governance will be aimed at during the Eleventh Five Year Plan. It is feasible to set up a National Grid to be shared by health care providers, trainers, beneficiaries, and civil society. The country already has the advantage of a strong fibre backbone
 
 [[END OF PAGE 102]]
 
@@ -4235,11 +4571,14 @@ Health and Family Welfare and AYUSH
 
 Eleventh Five Year Plan
 
-3.1.112 Health Management Information System (HMIS) would be an important new initiative utilizing developments in the field of IT. A computerized web enabled data capturing and analytical system will be established to provide valid and reliable data and reports for use at all levels. This would not only facilitate proper ME of different programmes under implementation but will also help in various aspects of service delivery. The HMIS will also integrate the various vertical systems having their own reporting machinery into an integrated umbrella of holistic ME to cater to the needs of Sarva Swasthya Abhiyan. The data  will  flow  directly  from  the  periphery. The Integrated Disease Surveillance Project (IDSP) will eventually be a by-product of the HMIS. As the system stabilizes and the penetration of computerization at the block level increases, the system will be modular enough to expand the scope to the remotest areas. Wastage of drugs due to date expiry also needs to be curtailed by demand-driven management and redistribution of medicines nearing date of expiry. HMIS when fully developed and implemented will track demand and supply and continuously monitor the drug situation.
+and indigenous satellite communication technology with trained human resources in this regard. A number of pilot projects on e-Health over the past years by private concerns, corporate, NGOs, medical colleges, and research institutions have been set up. The successful outcome of many of these initiatives needs to be evaluated and scaled up.
+
+3.1.112 Health Management Information System (HMIS) would be an important new initiative utilizing developments in the field of IT. A computerized web enabled data capturing and analytical system will be established to provide valid and reliable data and reports for use at all levels. This would not only facilitate proper M&E of different programmes under implementation but will also help in various aspects of service delivery. The HMIS will also integrate the various vertical systems having their own reporting machinery into an integrated umbrella of holistic M&E to cater to the needs of Sarva Swasthya Abhiyan. The data will flow directly from the periphery. The Integrated Disease Surveillance Project (IDSP) will eventually be a by-product of the HMIS. As the system stabilizes and the penetration of computerization at the block level increases, the system will be modular enough to expand the scope to the remotest areas. Wastage of drugs due to date expiry also needs to be curtailed by demand-driven management and redistribution of medicines nearing date of expiry. HMIS when fully developed and implemented will track demand and supply and continuously monitor the drug situation.
 
 3.1.113 Telemedicine could help to bring specialized health care to the remotest corners of the country. Telemedicine is likely to provide the advantages of telediagnosis, especially in the areas of cardiology, pathology, dermatology, and radiology besides continuing medical education (CME). It will be of immense use for diagnostic and consultative purposes for patients getting  treatment from the secondary level health care facilities. The efficacy of telemedicine has already been shown through the network established by the Indian Space Research Organization (ISRO) that has connected 42 super-specialty hospitals with 8 mobile telemedicine vans and 200 rural and remote hospitals
 
-##### Box 3.1.11 Making Health Care AffordableThe Experience of Jan Swasthya Sahyog (JSS)
+##### Box 3.1.11 Making Health Care Affordable—
+The Experience of Jan Swasthya Sahyog (JSS)
 
 For the last seven years, a group of dedicated young doctors from institutes like CMC, Vellore and AIIMS have been working to make health in the hinterlands, available, accessible, and affordable. The JSS team has given up lucrative jobs, sparkling city lights, and hefty pay packets to develop cheap, accurate and easy-to-use technology that can be used for prevention, diagnosis, and treatment of diseases in remote, tribal areas of Bilaspur and Chhattisgarh. So, the JSS method for early detection of UTIs costs less than Rs 2 per test, anaemia Re 1, diabetes Rs 2, pregnancy Rs 3. They have also developed low cost mosquito repellent creams, breath counters for detection of pneumonia among children, easy-to-read BP instruments to prevent preeclampsia, and a simple water purification method whereby one can cycle for 15 minutes and get a bucket of potable water treated by UV light. Low cost delivery kits with everything needed for the mother and child in the first 24 hours-gloves, large plastic sheets, soap, disinfectant, blade, gauze, sterilized threads, cotton cloth to wrap the baby, thick sanitary pads for women-are available for just Rs 40. These simple techniques are so designed that they can be used by illiterate and semi-literate village women and school students. Then there are the more complicated tests like sputum concentration system for increasing the sensitivity of microscopic diagnosis of tuberculosis and electrophoresis for detection of sickle cell anaemia, a common malady in the area. While electrophoresis costs Rs 300 in the market, using JSS technology it costs just Rs 20.
 
@@ -4267,31 +4606,32 @@ across the country through its geostationary satellites. So far about 3 lakh peo
 
 #### Gender Responsive Health Care
 
-3.1.115 The GoI has taken several policy measures to reduce gender bias. The practice of gender budgeting in Health will be made mandatory in all programmes of  the  Centre  and  the  States.  The  performance  of
+3.1.115 The GoI has taken several policy measures to reduce gender bias. The practice of gender budgeting in Health will be made mandatory in all programmes of the Centre and the States. The performance of different health programmes will be judged on the basis of gender disaggregated data.
 
 ##### Box 3.1.12 Telemedicine
 
-Telemedicine programmes are being actively supported by: ISRO
-
+Telemedicine programmes are being actively supported by:
+ISRO
 DIT
-
 NEC Telemedicine programme for NE States
-
 State Governments
-
 NGOs
 
 Various projects have been commissioned. Few examples are:
-
-NE Project Jammu & Kashmir (J&K) Project Southern India Project Armed Forces Medical Services Project Asia Heart Foundation South India Project Sankara Netharalaya Telemedicine Project Wockhardt Hospital and Heart Institute Project
-
-Apollo Hospitals Project different health programmes will be judged on the basis of gender disaggregated data.
+NE Project
+Jammu & Kashmir (J&K) Project
+Southern India Project
+Armed Forces Medical Services Project
+Asia Heart Foundation South India Project
+Sankara Netharalaya Telemedicine Project
+Wockhardt Hospital and Heart Institute Project
+Apollo Hospitals Project
 
 3.1.116 To reduce maternal mortality, several initiatives have been taken to make the maternal health programme broad based and client friendly. The major interventions include providing additional ANMs and Staff Nurses in certain health care facilities; referral transport; 24-hours delivery service at PHCs and CHCs; essential and emergency obstetric care; and optimal operationalization of FRUs. All these interventions will have to actually be done on a large scale during the Eleventh Five Year Plan. The goal is to reduce MMR to 100 per 100000 live births by 2012. State specific goals have also been suggested (Annexure 3.1.4).
 
 ##### SEX RATIO
 
-3.1.117 The Eleventh Five Year Plan target is to raise the sex ratio for age group 0-6 to 935 by 2011-12 and subsequently to 950 by 2016-17. State-specific goals have also been suggested (Annexure 3.1.5). Apart from ensuring effective implementation of the PreConception and Pre-Natal Diagnostic Techniques (PC & PNDT) Act, relentless public awareness measures will  be  undertaken. Other steps for integrating the issue of prenatal sex selection in the initiatives and programmes include the following:
+3.1.117 The Eleventh Five Year Plan target is to raise the sex ratio for age group 0–6 to 935 by 2011–12 and subsequently to 950 by 2016–17. State-specific goals have also been suggested (Annexure 3.1.5). Apart from ensuring effective implementation of the Pre-Conception and Pre-Natal Diagnostic Techniques (PC & PNDT) Act, relentless public awareness measures will be undertaken. Other steps for integrating the issue of prenatal sex selection in the initiatives and programmes include the following:
 
 - Increasing community awareness through ASHAs
 
@@ -4341,10 +4681,10 @@ financial  benefits  to  States  that  have  improved SRB.  From 2007 onwards, t
 
 3.1.122 Attention will be paid by ASHAs, Anganwadi Workers (AWWs), and TBAs to make arrangements for transport to hospital for EmOC, early detection, and management of infections. All pregnant women from poor households will be covered by social insurance schemes to facilitate access to reliable maternal care. In this context, all States will be encouraged to experiment with schemes for maternity care (like Chiranjeevi scheme in Gujarat). Positive outcomes will be upscaled and replicated. Every district will have fully equipped Mother and Child Hospital. The existing maternal and child hospitals in the districts will also be upgraded.
 
-3.1.123 It  is  now recognized globally that the countries successful in bringing down maternal mortality are the ones where the provision of skilled attendance at every birth and its linkage with appropriate referral services for complicated cases has been ensured. This has also been ratified by WHO. Guidelines for normal delivery and management of obstetric complications at PHCs and CHCs for MO and guidelines for ANC and skilled birth attendance at birth for ANMs and Lady Health Visitors (LHVs) have been formulated and disseminated to the States. During the Eleventh Five Year Plan, emphasis will be given to ensure the services of skilled birth attendant at child birth, both for home deliveries and in institutional settings. Since home deliveries will remain the norm across many States, effort will be made to provide skilled birth attendant training to dai s who are ubiquitous in every nook and corner of the country.
+3.1.123 It is now recognized globally that the countries successful in bringing down maternal mortality are the ones where the provision of skilled attendance at every birth and its linkage with appropriate referral services for complicated cases has been ensured. This has also been ratified by WHO. Guidelines for normal delivery and management of obstetric complications at PHCs and CHCs for MO and guidelines for ANC and skilled birth attendance at birth for ANMs and Lady Health Visitors (LHVs) have been formulated and disseminated to the States. During the Eleventh Five Year Plan, emphasis will be given to ensure the services of skilled birth attendant at child birth, both for home deliveries and in institutional settings. Since home deliveries will remain the norm across many States, effort will be made to provide skilled birth attendant training to dais who are ubiquitous in every nook and corner of the country.
 
 ##### ESSENTIAL AND EMERGENCY OBSTETRIC CARE
-3.1.124 Operationalization of FRUs and skilled attendance at birth go hand in hand. Therefore simultaneous steps have been taken to ensure tackling obstetric emergencies. Under the NRHM, efforts are being made to make FRUs operational for providing Emergency and Essential Obstetric Care. Other steps include training of MBBS doctors in life saving anaesthetic skills for EmOC, establishment of blood storage at FRUs, and guidelines for operationalization of the FRUs. There is also a plan for training MBBS doctors in management of obstetric cases including caesarean section with the help of professional organizations of obstetricians and gynaecologists. Over the next five years, efforts will be made to improve the Emergency Obstetric Care in all CHCs in a phased manner. CHCs will have well equipped operation theatre, access to safe banked blood, qualified obstetricians, paediatricians, and anaesthetists. Roads linking habitations to CHCs will get special attention. The objective is to ensure availability of EmOC facilities within two hours of travel time.
+3.1.124 Operationalization of FRUs and skilled attendance at birth go hand in hand. Therefore simultaneous
 
 [[END OF PAGE 105]]
 
@@ -4353,6 +4693,8 @@ financial  benefits  to  States  that  have  improved SRB.  From 2007 onwards, t
 Health and Family Welfare and AYUSH
 
 89
+
+steps have been taken to ensure tackling obstetric emergencies. Under the NRHM, efforts are being made to make FRUs operational for providing Emergency and Essential Obstetric Care. Other steps include training of MBBS doctors in life saving anaesthetic skills for EmOC, establishment of blood storage at FRUs, and guidelines for operationalization of the FRUs. There is also a plan for training MBBS doctors in management of obstetric cases including caesarean section with the help of professional organizations of obstetricians and gynaecologists. Over the next five years, efforts will be made to improve the Emergency Obstetric Care in all CHCs in a phased manner. CHCs will have well equipped operation theatre, access to safe banked blood, qualified obstetricians, paediatricians, and anaesthetists. Roads linking habitations to CHCs will get special attention. The objective is to ensure availability of EmOC facilities within two hours of travel time.
 
 ##### ESSENTIAL POSTPARTUM CARE
 
@@ -4396,7 +4738,7 @@ Health and Family Welfare and AYUSH
 
 Eleventh Five Year Plan
 
-- perform emergency obstetrical procedures, especially c-sections
+perform emergency obstetrical procedures, especially c-sections
 
 - Providing additional ANMs and Public Health and Staff Nurses in certain SCs, PHCs, and CHCs
 
@@ -4426,9 +4768,9 @@ Eleventh Five Year Plan
 
 3.1.132 The GoI has recently approved the implementation of HBNC based on the Gadchiroli model (Box
 
-3.1.13), where appreciable decline in IMR has been documented on the basis of work done by a VO called SEARCH. Gadchiroli has shown how ordinary women can do extraordinary things: a well-trained local woman can not only lower neonatal mortality but can also bring about attitudinal change. The women Shishu Rakshak s of Gadchiroli have managed to  dispel  many myths surrounding pregnancy and have been able to ensure better nutrition, care, immunization, and hygiene.
+3.1.13), where appreciable decline in IMR has been documented on the basis of work done by a VO called SEARCH. Gadchiroli has shown how ordinary women can do extraordinary things: a well-trained local woman can not only lower neonatal mortality but can also bring about attitudinal change. The women Shishu Rakshaks of Gadchiroli have managed to dispel many myths surrounding pregnancy and have been able to ensure better nutrition, care, immunization, and hygiene.
 
-3.1.133 During the Eleventh Five Year Plan, ASHAs will be trained on identified aspects of newborn care during their training. This initiative will be initially implemented in the five  high  focus  States  (MP, UP, Orissa, Rajasthan, and Bihar). To supervise and provide onsite training and support to ASHAs, mentor-facilitators will be introduced for effective implementation. The national strategy during the Plan will be to introduce and make available high-quality HBNC services in all districts/areas with an IMR more than 45 per 1000 live births. Apart from performance incentive to ASHAs, an award will be given to ASHAs and village community if no mother-newborn or child death is reported in a year. For effective linkages, model Intensive Care Units will also be set up at the  district  level,  particularly  in  States  with  poor health indicators, in order to make facility based curative newborn care available.
+3.1.133 During the Eleventh Five Year Plan, ASHAs will be trained on identified aspects of newborn care during their training. This initiative will be initially implemented in the five high focus States (MP, UP, Orissa, Rajasthan, and Bihar). To supervise and provide onsite training and support to ASHAs, mentor-facilitators will be introduced for effective implementation. The national strategy during the Plan will be to introduce and make available high-quality HBNC services in all districts/areas with an IMR more than 45 per 1000 live births. Apart from performance incentive to ASHAs, an award will be given to ASHAs and village community if no mother–newborn or child death is reported in a year. For effective linkages, model Intensive Care Units will also be set up at the district level, particularly in States with poor health indicators, in order to make facility based curative newborn care available.
 
 ##### INTEGRATED MANAGEMENT OF NEONATAL AND CHILDHOOD ILLNESS (IMNCI)
 
@@ -4450,6 +4792,18 @@ Health and Family Welfare and AYUSH
 
 91
 
+community based IMNCI. 104 districts all over the country have initiated implementation of IMNCI. During the Eleventh Five Year Plan, efforts will be made to implement the IMNCI programme coupled with home-based neonatal care throughout the country in a phased manner.
+
+##### HBNC AND IMNCI: DIFFERENT BUT COMPLEMENTARY ROLES
+
+3.1.136 In order to reduce infant and child mortality a continuum of care is needed at the community as well as facility level. Of the two main packages available for reducing child mortality, the HBNC operates at the community level and has a strong evidence of feasibility and reducing child mortality. It should be used to deliver care at home through ASHAs and ANMs. IMNCI training is primarily facility-based and has been shown to improve neonatal care. Hence the IMNCI should focus on improving newborn and child care in the district hospitals and CHCs. This will avoid duplication of efforts and, at the same time, provide continuum of care.
+
+##### SKILLED CARE AT BIRTH
+
+3.1.137 The underlying principle of effective care at birth is that wherever she is born whether at home or facility, she is provided clean care, warmth, resuscitation, and exclusive breastfeeding. She is weighed and examined, and if clinical needs are not manageable at the place of delivery, she is referred and managed at an
+
+##### Box 3.1.13 Home Based Newborn Care—Gadchiroli Model
+
 ###### Requirements
 
 - Transparent selection of best motivated
@@ -4467,8 +4821,6 @@ Health and Family Welfare and AYUSH
 - Health education of mothers and the community
 
 - Attending home delivery with TBA
-
-·
 
 - Care of baby at birth
 
@@ -4503,18 +4855,6 @@ Health and Family Welfare and AYUSH
 - 85% mothers and newborns can be covered
 
 - The various components of HBNC including the management of birth asphyxia in home deliveries and the diagnosis and treatment of newborn sepsis by using injectable gentamicin could be safely and effectively delivered by trained CHWs working under supervision
-
-community based IMNCI. 104 districts all over the country have initiated implementation of IMNCI. During the Eleventh Five Y ear Plan, efforts will be made to implement the IMNCI programme coupled with home-based neonatal care throughout the country in a phased manner.
-
-##### HBNC AND IMNCI: DIFFERENT BUT COMPLEMENTARY ROLES
-
-3.1.136 In order to reduce infant and child mortality a continuum of care is needed at the community as well as facility level. Of the two main packages available for reducing child mortality, the HBNC operates at the community level and has a strong evidence of feasibility and reducing child mortality. It should be used to deliver care at home through ASHAs and ANMs. IMNCI training is primarily facility-based and has been shown to improve neonatal care. Hence the IMNCI should focus on improving newborn and child care in the district hospitals and CHCs. This will avoid duplication of efforts and, at the same time, provide continuum of care.
-
-##### SKILLED CARE AT BIRTH
-
-3.1.137 The underlying principle of effective care at birth is that wherever she is born whether at home or facility, she is provided clean care, warmth, resuscitation, and exclusive breastfeeding. She is weighed and examined, and if clinical needs are not manageable at the place of delivery, she is referred and managed at an
-
-##### Box 3.1.13 Home Based Newborn Care-Gadchiroli Model
 
 [[END OF PAGE 108]]
 
@@ -4577,7 +4917,7 @@ Health and Family Welfare and AYUSH
 
 #### Adolescent Health
 
-3.1.143 Adolescents in India represent nearly onethird of the population. The last two decades witnessed a rapid increase in their population. Some of the public health challenges for adolescents include pregnancy, excess  risk  of  maternal  and  infant  mortality,  STI, RTI, and the rapidly rising incidence of HIV. The use of  health  services  by  adolescents  is  limited  due  to poor knowledge and lack of awareness. Pregnancy is associated with significantly higher obstetric risk in adolescent girls. Many of them suffer from malnutrition and anaemia. This combined with poor ANC leads not only to increased morbidity in the mother but also to high incidence of Low Birth Weight (LBW) and perinatal mortality. Poor child-rearing practices add to the morbidity and undernutrition in infants, thus perpetuating the inter-generational cycle of undernutrition and ill health. Thus, ill health during adolescence has profound implications for maternal and infant morbidity and mortality.
+3.1.143 Adolescents in India represent nearly one-third of the population. The last two decades witnessed a rapid increase in their population. Some of the public health challenges for adolescents include pregnancy, excess risk of maternal and infant mortality, STI, RTI, and the rapidly rising incidence of HIV. The use of health services by adolescents is limited due to poor knowledge and lack of awareness. Pregnancy is associated with significantly higher obstetric risk in adolescent girls. Many of them suffer from malnutrition and anaemia. This combined with poor ANC leads not only to increased morbidity in the mother but also to high incidence of Low Birth Weight (LBW) and perinatal mortality. Poor child-rearing practices add to the morbidity and undernutrition in infants, thus perpetuating the inter-generational cycle of undernutrition and ill health. Thus, ill health during adolescence has profound implications for maternal and infant morbidity and mortality.
 
 3.1.144 The urgent need for appropriate nutrition and health education for adolescents will be met by advocacy for delay in age at marriage and optimum health and nutrition interventions during pregnancy. Knowledge and skills will be given to health service delivery personnel catering to the adolescents' reproductive and sexual health needs.
 
@@ -4621,9 +4961,9 @@ Eleventh Five Year Plan
 
 Census, there are 76.6 million people over the age of sixty, constituting about 7.4 % of the total population. Life expectancy has been increasing and the proportion of older persons in India will rise in the next few decades.
 
-3.1.147 The health services need to be responsive to the special needs of older persons. Provision of specialty  based  clinics  in  secondary  and  tertiary  care facilities would help. A counselling and medical care facility to look after health needs of older persons and an emergency facility to reach those in acute need and transport them to a hospital is needed. This will include acute care, long-term care, and communitybased rehabilitation.
+3.1.147 The health services need to be responsive to the special needs of older persons. Provision of specialty based clinics in secondary and tertiary care facilities would help. A counselling and medical care facility to look after health needs of older persons and an emergency facility to reach those in acute need and transport them to a hospital is needed. This will include acute care, long-term care, and community-based rehabilitation.
 
-3.1.148 To improve the access to promotive, preventive, curative, and emergency health care among older persons, a range of services will be provided under the programme for health care of older persons. First, a home health service, which means home visits intended to detect health problems, and as a psychological  support by health personnel sensitized on such issues. Second, a community-based health centre for them for educational and preventive activity. This will be integrated with the NRHM and an allocation made specifically for geriatric care. The ASHAs under the NRHM will be trained in geriatric care. Third, the outpatient medical service that serves as the base for home health service will be enhanced. Finally, an improved hospital-based support service focused on their  health  care  needs  will  be  established.  Specific
+3.1.148 To improve the access to promotive, preventive, curative, and emergency health care among older persons, a range of services will be provided under the programme for health care of older persons. First, a home health service, which means home visits intended to detect health problems, and as a psychological support by health personnel sensitized on such issues. Second, a community-based health centre for them for educational and preventive activity. This will be integrated with the NRHM and an allocation made specifically for geriatric care. The ASHAs under the NRHM will be trained in geriatric care. Third, the outpatient medical service that serves as the base for home health service will be enhanced. Finally, an improved hospital-based support service focused on their health care needs will be established. Specific provisions will also be made for widows and a few centres on geriatric health especially focused on elderly women.
 
 ##### Box 3.1.16 Older Persons' Health
 
@@ -4633,11 +4973,9 @@ Census, there are 76.6 million people over the age of sixty, constituting about 
 
 - Women are more frequently afflicted with immobility
 
-- Many older people take ill health in their stride as a part of 'usual/normal ageing' .
+- Many older people take ill health in their stride as a part of 'usual/normal ageing'.
 
 - Self perceived health status is an important indicator of health service utilization and compliance to treatment interventions.
-
-provisions will also be made for widows and a few centres  on  geriatric  health  especially  focused  on elderly women.
 
 3.1.149 During the Eleventh Five Year Plan, thus, following actions will be taken:
 
@@ -4665,23 +5003,62 @@ Health and Family Welfare and AYUSH
 
 95
 
-Source: NFHS-3, IIPS (2005-06).
+%
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Meghalaya 35.1
+Nagaland 26.3
+Jharkhand 23.7
+Bihar 23.1
+UP 21.9
+Arunachal Pradesh 19.3
+Mizoram 17.4
+Sikkim 16.9
+J&K 15
+Orissa 15
+Rajasthan 14.7
+Goa 13.2
+India 13.2
+Manipur 12.6
+MP 11.8
+Uttaranchal 11.3
+Assam 10.8
+Chhattisgarh 10.5
+Tripura 10.5
+Karnataka 10.2
+Maharashtra 9.1
+Kerala 9
+Tamil Nadu 8.9
+WB 8.8
+Haryana 8.3
+Gujarat 8.2
+Delhi 8
+Punjab 7.4
+Himachal Pradesh 7.3
+Andhra Pradesh 5
 
-FIGURE 3.1.14: Unmet Need for Family Planning (currently married women, age 15-49)
+Source: NFHS-3, IIPS (2005–06).
 
-Source: NFHS-3, IIPS (2005-06).
+FIGURE 3.1.14: Unmet Need for Family Planning (currently married women, age 15–49)
 
 ##### INVOLVEMENT OF CIVIL SOCIETY AND NGOS
 
-3.1.153 As per the NFHS data, less than 10% of rural women report that they are visited by the ANMs during a year. On the other hand, there is a large pool of formally or informally qualified Rural Health Practitioners (RHPs) who meet the day-to-day health care needs of people in 6 lakh villages, 24×7. In the Eleventh Five Year Plan, it is proposed to enlist their services for many tasks including the delivery of non-clinical methods of contraception and referring the clinical cases to the PHCs or FRUs. The successful experiment by a VO, Janani , in Bihar may be studied and replicated.
+3.1.153 As per the NFHS data, less than 10% of rural women report that they are visited by the ANMs during a year. On the other hand, there is a large pool of formally or informally qualified Rural Health Practitioners (RHPs) who meet the day-to-day health care needs of people in 6 lakh villages, 24×7. In the Eleventh Five Year Plan, it is proposed to enlist their services for many tasks including the delivery of non-clinical methods of contraception and referring the clinical cases to the PHCs or FRUs. The successful experiment by a VO, Janani, in Bihar may be studied and replicated.
 
 3.1.154 There is an urgent need to increase the involvement of CSO, VOs, and NGOs including private sector in the delivery of family planning services, especially in areas where the public sector is weak. Jansankhya Sthirata Kosh (JSK) (National Population Stabilization  Fund) is  a  registered  society  of  the  MoHFW to accelerate population stabilization efforts. JSK is expected  to  work  in  close  cooperation  with  the government, private, and voluntary sectors to promote small and healthy families. State governments, district officials, and other organizations will be encouraged to suggest innovations in enhancing family planning services which can be supported by JSK on a pilot scale.
 
-Expertise of the Population Foundation of India will be sought to scale up good pilots in the country. Centres of excellence (such as one in Tamil NaduBox 3.1.18) can also play a vital role.
+Expertise of the Population Foundation of India will be sought to scale up good pilots in the country. Centres of excellence (such as one in Tamil Nadu—Box 3.1.18) can also play a vital role.
 
 3.1.155 During the Eleventh Five Year Plan greater focus will be on the following for voluntary fertility reduction:
 
-##### Box 3.1.17 Janani-Using RHPs
+##### Box 3.1.17 Janani—Using RHPs
 
 An NGO, Janani, set up a network of more than 21000 Titli (Butterfly) centres and more than 500 Surya (Sun) clinics in the States of Bihar, Jharkhand, and MP. Surya clinics are referral clinics run in towns by formally qualified,  State-registered  doctors. Titli  centres  are  situated in villages and run by RHPs who have been trained to provide family planning counselling and sell non-clinical contraceptives. Since RHPs are males, they work with a Woman Health Partner who is generally a member of  their  family  (in  most  cases,  wife).  RHPs  and  their female counterparts hold a two-day training programme on family planning counselling. Female partners help reach  out  to  the  village  women  who  are  hesitant  to approach male health providers on reproductive health matters.
 
@@ -4693,12 +5070,6 @@ An NGO, Janani, set up a network of more than 21000 Titli (Butterfly) centres an
 
 Eleventh Five Year Plan
 
-##### Box 3.1.18 Facilitating Action by Private Sector
-
-Tamil Nadu Government established a Centre of Excellence, 'Sterilization and Recanalization Training-cum-Service Centre' at Kilpauk Medical College, Chennai, in 1987 with core officers-a female gynaecologist and a male urologist. It conducts workshops and trains doctors in standard procedures of male and female sterilizations. The centre also provides services by conducting sterilization and recanalization operations for males and females.
-
-In Tamil Nadu, private sector participation is strengthened to improve family welfare programmes in the State. Private nursing homes have been approved to provide family welfare services in the State. Nearly 25% of the sterilizations are performed by voluntary and approved private institutions. Contraceptive stocks are freely supplied to these institutions to provide better services to needy couples to improve spacing between births.
-
 - Expanding the basket of contraceptive choices
 
 - Improving social marketing
@@ -4708,6 +5079,12 @@ In Tamil Nadu, private sector participation is strengthened to improve family we
 - Enhancing role of mass media for behavioural change
 
 - Disseminating through satisfied users
+
+##### Box 3.1.18 Facilitating Action by Private Sector
+
+Tamil Nadu Government established a Centre of Excellence, 'Sterilization and Recanalization Training-cum-Service Centre' at Kilpauk Medical College, Chennai, in 1987 with core officers—a female gynaecologist and a male urologist. It conducts workshops and trains doctors in standard procedures of male and female sterilizations. The centre also provides services by conducting sterilization and recanalization operations for males and females.
+
+In Tamil Nadu, private sector participation is strengthened to improve family welfare programmes in the State. Private nursing homes have been approved to provide family welfare services in the State. Nearly 25% of the sterilizations are performed by voluntary and approved private institutions. Contraceptive stocks are freely supplied to these institutions to provide better services to needy couples to improve spacing between births.
 
 #### Human Resources for Health
 
@@ -4733,9 +5110,35 @@ Health and Family Welfare and AYUSH
 
 97
 
+- Efforts of the National Board of Examinations (NBE) will be enhanced for overcoming the shortage of specialists and also to improve the quality of training.
+
+- Councils to create a scientific data bank of health professionals.
+
+- Re-registration of all medical and dental practitioners including specialists after every five years till they are practising or serving.
+
+- New medical, nursing, and dental colleges will be established in the underserved areas.
+
+- As recommended by the NCMH (2005), priority will be given to reducing the existing inequality by establishing 60 medical colleges in deficit States (UP, Rajasthan, MP, Orissa, Chhattisgarh, etc.) and 225 new nursing colleges in underserved areas. PPP will be used to bridge this gap.
+
+- Experiences of University of Health Sciences set up in various States during the Tenth Plan, against medical colleges that are part of the general universities to be evaluated before more such universities are set up during the Eleventh Five Year Plan.
+
+- Implementation of recommendations of OSC for development of Human Resources for health.
+
+- Equip medical graduates with the skills essential for providing broad-based community health care.
+
+- Stem the high rate of attrition of academics; teaching in professional colleges to be made attractive. Need to enhance the salary structure and provide an innovative programme of incentives. Private OPDs in the medical colleges to be considered as one such incentive.
+
+- RMPs, after training, can contribute towards activities under NRHM. Few suggested roles have been listed in Box 3.1.20.
+
+#### Public Health Education
+
+3.1.159 Currently several institutions are engaged in imparting public health and related education in the country. Various medical organizations are in the process of starting new Public Health Courses at the Masters level, namely Indian Council of Medical Research (ICMR), AIIMS, PGIMER, etc. The supply position is bound to improve after institutions of Public Health under Public Health Foundation of India (PHFI) and new Public Health Schools are set up within the existing Medical Institutions.
+
+##### Box 3.1.19 Human Resources for Health
+
 ###### Issues
 
-- Growing shortage of all key cadre in rural areas-Doctor, Paramedicals, ANMs, Nurses, Lab Technicians, and OT Assistants.
+- Growing shortage of all key cadre in rural areas—Doctor, Paramedicals, ANMs, Nurses, Lab Technicians, and OT Assistants.
 
 - Problems of absenteeism and irregular staff attendance.
 
@@ -4765,41 +5168,13 @@ Health and Family Welfare and AYUSH
 
 - Accountability to local communities and Panchayats.
 
-- Devolution of power and functions to local health care institutions-provide resources and flexibility to ensure service guarantee.
+- Devolution of power and functions to local health care institutions—provide resources and flexibility to ensure service guarantee.
 
 - Resources, flexibility, and powers to ensure that IPHS are achieved.
 
 - Adequate staff nurses and a minimum OPD attendance and service provision
 
 - Improved and assured tele-linkages.
-
-- Efforts of the National Board of Examinations (NBE) will be enhanced for overcoming the shortage of specialists and also to improve the quality of training.
-
-- Councils to create a scientific data bank of health professionals.
-
-- Re-registration of all medical and dental practitioners including specialists after every five years till they are practising or serving.
-
-- New medical, nursing, and dental colleges will be established in the underserved areas.
-
-- As recommended by the NCMH (2005), priority will be given to reducing the existing inequality by establishing 60 medical colleges in deficit States (UP, Rajasthan, MP, Orissa, Chhattisgarh, etc.) and 225 new nursing colleges in underserved areas. PPP will be used to bridge this gap.
-
-- Experiences of University of Health Sciences set up in  various  States  during  the  T enth  Plan,  against  medical colleges that are part of the general universities to
-
-##### Box 3.1.19 Human Resources for Health
-
-- be evaluated before more such universities are set up during the Eleventh Five Year Plan.
-
-- Implementation of recommendations of OSC for development of Human Resources for health.
-
-- Equip medical graduates with the skills essential for providing broad-based community health care.
-
-- Stem the high rate of attrition of academics; teaching in professional colleges to be made attractive. Need to enhance the salary structure and provide an innovative programme of incentives. Private OPDs in the medical colleges to be considered as one such incentive.
-
-- RMPs, after training, can contribute towards activities under NRHM. Few suggested roles have been listed in Box 3.1.20.
-
-##### Public Health Education
-
-3.1.159 Currently several institutions are engaged in  imparting  public  health  and  related  education in the country. Various medical organizations are in the process of starting new Public Health Courses at the Masters level, namely Indian Council of Medical Research (ICMR), AIIMS, PGIMER, etc. The supply position is bound to improve after institutions of Public Health under Public Health Foundation of India (PHFI) and new Public Health Schools are set up within the existing Medical Institutions.
 
 [[END OF PAGE 114]]
 
@@ -4815,7 +5190,7 @@ Eleventh Five Year Plan
 
 3.1.161 With the development and use of sophisticated tools of modern biology, a better understanding of complex interplay between the host, agent, and environment is emerging. This is resulting in the generation of new knowledge. This scientific knowledge is to be used to develop drugs, diagnostics, devices, and vaccines that should find a place in the health systems of  the  country. A  vibrant  inter-phase  between the research community, the industry, and the health systems is the only way to facilitate this. It is not only the  technological  advances  in  public  health  and medicine that influence health of the population. The epidemiology of disease extends beyond biology. A sociological perspective is important to understand the occurrence, persistence, and cure of a disease. The diseases are not rooted in biological causes alone, but are multifactorial. This calls for an inter-disciplinary approach to health research.
 
-3.1.162 The Eleventh Five Year Plan, therefore, will mark a departure in orientation to research in health. No amount of pure bio-medical research will be able to find solutions to health issues unless it addresses upfront the social determinants of health. While health research has made appreciable progress, there remains an unacceptable lag time in translating the research outcomes into tangible health products or in application of the knowledge generated through research. Thus, the task is how best to mobilize research to bridge the gap between what is known and what is donethe 'know-do' gap. Equally important is to ensure that the products of health research reach and are used for and by the people who need it most. Health research during the Eleventh Five Year Plan will be directed to provide ways and means of bringing about equity and improving access to health technologies.
+3.1.162 The Eleventh Five Year Plan, therefore, will mark a departure in orientation to research in health. No amount of pure bio-medical research will be able to find solutions to health issues unless it addresses upfront the social determinants of health. While health research has made appreciable progress, there remains an unacceptable lag time in translating the research outcomes into tangible health products or in application of the knowledge generated through research. Thus, the task is how best to mobilize research to bridge the gap between what is known and what is done—the 'know-do' gap. Equally important is to ensure that the products of health research reach and are used for and by the people who need it most. Health research during the Eleventh Five Year Plan will be directed to provide ways and means of bringing about equity and improving access to health technologies.
 
 3.1.163 With a view to re-organize the medical research establishments in the country in order to keep
 
@@ -4895,7 +5270,7 @@ Eleventh Five Year Plan
 
 - Increases understanding of both the molecular and biological mechanisms underlying diseases as well as the psychosocial, economic, and environmental determinants of health
 
-- Develops new vaccines, diagnostic tools, and costeffective therapies
+- Develops new vaccines, diagnostic tools, and cost-effective therapies
 
 - Deepens understanding of underlying social and behavioural causes of injuries and lifestyle diseases
 
@@ -4905,7 +5280,7 @@ Eleventh Five Year Plan
 
 #### From Vertical to Horizontal: Affecting Integration
 
-3.1.167 The Eleventh Five Year Plan will not allow any vertical structures to be created below district level under different programmes. The existing programmes will  be  integrated  horizontally  at  the  district  level, as  the  emphasis during the Plan would be systemcentric  rather  than  disease  centric. Already  under NRHM, some programmes like the ones dealing with vector-borne diseases, tuberculosis,  leprosy, blindness, and iodine deficiency disorders (IDD) have been integrated under a single District Health Society. Other programmes and activities described below will also be brought under one umbrella.
+3.1.167 The Eleventh Five Year Plan will not allow any vertical structures to be created below district level under different programmes. The existing programmes will be integrated horizontally at the district level, as the emphasis during the Plan would be system-centric rather than disease centric. Already under NRHM, some programmes like the ones dealing with vector-borne diseases, tuberculosis, leprosy, blindness, and iodine deficiency disorders (IDD) have been integrated under a single District Health Society. Other programmes and activities described below will also be brought under one umbrella.
 
 ##### NATIONAL AIDS CONTROL PROGRAMME (NACP)
 
@@ -4915,9 +5290,9 @@ Eleventh Five Year Plan
 
 - Preventing new infections in high risk groups and general population through:
 
--Saturation of coverage of high risk groups with targeted interventions.
+  - Saturation of coverage of high risk groups with targeted interventions.
 
--Scaled up interventions in the general population.
+  - Scaled up interventions in the general population.
 
 - Increasing the proportion of PLWHA who receive care, support, and treatment.
 
@@ -4986,7 +5361,7 @@ Health and Family Welfare and AYUSH
 
 - Development of strategies and policies for prevention by intersectoral coordination
 
-· Community empowerment for prevention of NCDs
+- Community empowerment for prevention of NCDs
 
 ##### NATIONAL MENTAL HEALTH PROGRAMME (NMHP)
 
@@ -4994,7 +5369,7 @@ Health and Family Welfare and AYUSH
 
 3.1.174 The Plan will strengthen District Mental Health Programme (DMHP) and enhance its visibility at grass root level by promoting greater family and community participation and creating para professionals equipped to address the mental health needs of the community from within. It will fill up human resource gap in the field of psychiatry, psychology, psychiatric social work, and DMHP. The plan will strive to incorporate mental health modules into the existing  training  of  health  personnel.  It  will  also harness NGOs' and CSOs' help in this endeavour, especially family care of persons with mental illness, and focus on preventive and restorative components of Mental Health. The Eleventh Five Year Plan, recognizing the importance of mental health care, will provide counselling, medical services, and establish help lines  for  people  affected  by  calamities,  riots, violence (including domestic), and other traumas. To achieve these, a greater outlay will be allocated to mental health.
 
-3.1.175 During the Eleventh Five Year Plan, the Restrategized NMHP will be implemented all over the country with the following objectives:
+3.1.175 During the Eleventh Five Year Plan, the Re-strategized NMHP will be implemented all over the country with the following objectives:
 
 - To recognize mental illnesses at par with other illnesses  and  extending  the  scope  of  medical insurance and other benefits to individuals suffering with them
 
@@ -5014,7 +5389,7 @@ Eleventh Five Year Plan
 
 - To empower the primary care doctor and support staff to be able to offer psychiatric and psychological  care  to  patients  at  PHCs  besides  educating family carers on core aspects of the illness.
 
-- To improve public awareness and facilitate familycarer  participation by empowering members of the family and community in psychological interventions.
+- To improve public awareness and facilitate family-carer participation by empowering members of the family and community in psychological interventions.
 
 - To provide greater emphasis on public private participation  in  the  delivery  of  mental  health services.
 
@@ -5050,7 +5425,7 @@ Eleventh Five Year Plan
 
 - To upgrade and develop two Physical Medicine and Rehabilitation (PMR) departments in the country to act as Model Centres
 
-- To set up PMR Departments in 30 Medical Colleges/ Teaching Institutions (at least one in each State) and each such department to adopt districts, CHCs,
+- To set up PMR Departments in 30 Medical Colleges/Teaching Institutions (at least one in each State) and each such department to adopt districts, CHCs,
 
 [[END OF PAGE 119]]
 
@@ -5060,7 +5435,7 @@ Health and Family Welfare and AYUSH
 
 103
 
-- and PHCs for developing medical rehabilitation services
+and PHCs for developing medical rehabilitation services
 
 - To train medical and rehabilitation professionals in adequate number for providing secondary and tertiary level rehabilitation services
 
@@ -5134,7 +5509,7 @@ Eleventh Five Year Plan
 
 - To encourage R&D in the field of Transfusion Medicine and related technology.
 
-- To take adequate regulatory and legislative steps for ME of blood transfusion services and to take steps to eliminate profiteering in blood banks.
+- To take adequate regulatory and legislative steps for M&E of blood transfusion services and to take steps to eliminate profiteering in blood banks.
 
 #### Pilot Projects
 
@@ -5192,25 +5567,15 @@ Health and Family Welfare and AYUSH
 
 ##### Box 3.1.21 Some Innovative Financing Mechanisms
 
-In  Kozhikode,  risk  pools  constituted  around  professionals  or  occupational  groups,  SHGs  or micro credit groups, weavers, fishermen, farmers, agricultural labourers, and other informal groups. Almost 90% of the population is covered under some form of network or the other.
+Kerala: In Kozhikode, risk pools constituted around professionals or occupational groups, SHGs or micro credit groups, weavers, fishermen, farmers, agricultural labourers, and other informal groups. Almost 90% of the population is covered under some form of network or the other.
 
-Voucher scheme for RCH services piloted in seven blocks of Agra for BPL population. The scheme was launched in March 2007 and funded by State Innovations in Family Planning Services Agency.
+Uttar Pradesh: Voucher scheme for RCH services piloted in seven blocks of Agra for BPL population. The scheme was launched in March 2007 and funded by State Innovations in Family Planning Services Agency.
 
-In order to promote institutional delivery and routine immunization, a voucher scheme was introduced in December 2005 in all 22 districts. Vouchers are issued to BPL pregnant women at the time registration of pregnancy. She is entitled to have the delivery at any government facility or at accredited private health providers.
+Jharkhand: In order to promote institutional delivery and routine immunization, a voucher scheme was introduced in December 2005 in all 22 districts. Vouchers are issued to BPL pregnant women at the time registration of pregnancy. She is entitled to have the delivery at any government facility or at accredited private health providers.
 
-Vikalp-an innovative approach to financing urban primary health care for the poor through a combination of PPPs and risk pooling using capitation fees for a package of primary health care services with the State Health Department and private providers.
+Haryana: Vikalp—an innovative approach to financing urban primary health care for the poor through a combination of PPPs and risk pooling using capitation fees for a package of primary health care services with the State Health Department and private providers.
 
-Yeshasvini Co-operative Health Care Scheme is a health insurance scheme targeted to benefit the poor. The scheme was initiated by Narayana Hrudayalaya, a super-specialty heart-hospital in Bangalore and by the Department of Co-operatives of the Government of Karnataka. All farmers who have been members of a cooperative society for at least a year are eligible to participate, regardless of their medical histories. The scheme provides coverage for all major surgeries.
-
-Kerala:
-
-Uttar Pradesh:
-
-Jharkhand:
-
-Haryana:
-
-Karnataka:
+Karnataka: Yeshasvini Co-operative Health Care Scheme is a health insurance scheme targeted to benefit the poor. The scheme was initiated by Narayana Hrudayalaya, a super-specialty heart-hospital in Bangalore and by the Department of Co-operatives of the Government of Karnataka. All farmers who have been members of a cooperative society for at least a year are eligible to participate, regardless of their medical histories. The scheme provides coverage for all major surgeries.
 
 [[END OF PAGE 122]]
 
@@ -5220,25 +5585,33 @@ Karnataka:
 
 Eleventh Five Year Plan
 
+State Government 12.60%
+Local Government 1.30%
+NGOs 0.10%
+Central Government 6.40%
+External Support 2.30%
+Firms 5.30%
+Households 72%
+
 Source: NHA Cell, MoHFW, GoI (2005).
 
-FIGURE: 3.1.15: Source of Health Care Financing in India, 2001-02
+FIGURE: 3.1.15: Source of Health Care Financing in India, 2001–02
 
 ditures  on  health  (through  the  Central  and  State Governments), as a percentage of total government expenditure, have declined from 3.12% in 1992-93 to 2.99% in 2003-04. Similarly, the combined expenditure  on  health  as  a  percentage  of  GDP  has  also marginally declined from 1.01% of GDP in 1992-93 to 0.99% in 2003-04. In nominal terms, the per capita public health expenditure increased from Rs 89 in 1993-94 to Rs 214 in 2003-04, which in real terms is Rs 122 (Figure 3.1.16).
 
-- 3.1.196 Health care is financed primarily by State Governments, and State allocations on health are usually affected by any fiscal stress they encounter. Besides chronic under funding, the sector has been plagued with instances of inefficiencies at several levels resulting in waste, duplication, and sub optimal use of scarce resources. All these factors combined have had an adverse impact on the public health sector's ability to provide health care services to the people.
+3.1.196 Health care is financed primarily by State Governments, and State allocations on health are usually affected by any fiscal stress they encounter. Besides chronic under funding, the sector has been plagued with instances of inefficiencies at several levels resulting in waste, duplication, and sub optimal use of scarce resources. All these factors combined have had an adverse impact on the public health sector's ability to provide health care services to the people.
 
-- 3.1.197 There was also a  gradual  decline  in  the proportion of funds released to States by Central Government when the States were themselves under fiscal stress. This resulted in sharp reduction in capital investment in public hospitals, low priority to preventive  and  promotive  care,  and  inefficiencies  in allocations under national health programmes. The financing system is equally dysfunctional as funds are released in five-year cycles, divided under different  and  complex budget heads-revenue, capital,
+3.1.197 There was also a gradual decline in the proportion of funds released to States by Central Government when the States were themselves under fiscal stress. This resulted in sharp reduction in capital investment in public hospitals, low priority to preventive and promotive care, and inefficiencies in allocations under national health programmes. The financing system is equally dysfunctional as funds are released in five-year cycles, divided under different and complex budget heads—revenue, capital,
 
 etc.,  providing for little flexibility to respond to any health emergency. To address these issues, government has initiated several interventions under the NRHM such as District Health Action Plan, National Health Accounting systems, management capacity at all levels,  improved  financial  management, and close monitoring.
 
-- 3.1.198 It is estimated that in order to meet the target expenditure level, total Plan expenditure will need to grow at 29.7 % annually during the first three years of the Eleventh Five Year Plan, which breaks down to 30.2 % for the Centre and 29.2 % for the States. As a result, total health expenditure of the Centre and States, respectively, will rise to 0.55% of GDP and 0.85% of GDP in 2009-10. In the last two years of the Plan, total  Plan  expenditure will need to rise at about 48% annually. This will result in a total health expenditure of 0.87% of GDP by the Centre and 1.13% by States in 2011-12. Therefore, during the Eleventh Five Y ear Plan, while the Central Government makes every effort to augment resources for health, State Governments will be persuaded to assign at least 7-8% of State expenditures towards health care.
+3.1.198 It is estimated that in order to meet the target expenditure level, total Plan expenditure will need to grow at 29.7 % annually during the first three years of the Eleventh Five Year Plan, which breaks down to 30.2 % for the Centre and 29.2 % for the States. As a result, total health expenditure of the Centre and States, respectively, will rise to 0.55% of GDP and 0.85% of GDP in 2009–10. In the last two years of the Plan, total Plan expenditure will need to rise at about 48% annually. This will result in a total health expenditure of 0.87% of GDP by the Centre and 1.13% by States in 2011–12. Therefore, during the Eleventh Five Year Plan, while the Central Government makes every effort to augment resources for health, State Governments will be persuaded to assign at least 7–8% of State expenditures towards health care.
 
 3.1.199 During the Plan, the objective of every State will be to increase competition among providers, create  options  for  consumers,  and  ensure  oversight through elected local bodies and Panchayats. State governments will also focus on integrating public health programmes with other public health interventions like  drinking  water,  sanitation,  nutrition,  primary education, roads, and connectivity. State governments will be persuaded to allocate more resources for these sectors  through  better  fiscal  management  and reprioritization.
 
 ##### MONITORING OUTCOMES VERSUS OUTLAYS
 
-3.1.200 The allocation of funds among different levels (namely primary, secondary, and tertiary) and disease control programmes has been changing. The manner in which resources are allocated shows a wide disparity in spending and outcomes. It is therefore necessary to focus on health outcomes rather than health outlays, including a disaggregated examination by gender, class, caste, etc. to assess their impact on different groups. During the Eleventh Five Year Plan, norms and indicators for outputs and outcomes will be developed to enable government and other agencies to measure the efficiency of health spending by the Centre and the States and allocations adjusted accordingly. The practice of gender budgeting by the States will be necessary.
+3.1.200 The allocation of funds among different levels (namely primary, secondary, and tertiary) and disease control programmes has been changing. The manner in which resources are allocated shows a wide disparity in spending and outcomes. It is therefore necessary to focus on health outcomes rather than health outlays, including a disaggregated examination by gender, class, caste, etc. to assess their impact on different groups. During the Eleventh Five Year Plan,
 
 [[END OF PAGE 123]]
 
@@ -5248,9 +5621,32 @@ Health and Family Welfare and AYUSH
 
 107
 
-FIGURE 3.1.16: Growth of per capita Health Expenditure by Centre and States-Nominal and Real T erms
+Rupees
+250
+200
+150
+100
+50
+0
+1993–94 89 89
+1994–95 98.19 87
+1995–96 112.21 91.82
+1996–97 119.44 93.83
+1997–98 134.63 101.38
+1998–99 155.9 110.73
+1999–2000 175.18 120.56
+2000–01 184.5 118.54
+2001–02 183.47 113.75
+2002–03 202.22 121.23
+2003–04 214.62 122.01
+Nominal
+Real
 
 Source: NCMH (2005).
+
+FIGURE 3.1.16: Growth of per capita Health Expenditure by Centre and States—Nominal and Real Terms
+
+norms and indicators for outputs and outcomes will be developed to enable government and other agencies to measure the efficiency of health spending by the Centre and the States and allocations adjusted accordingly. The practice of gender budgeting by the States will be necessary.
 
 ##### BLOCK BUDGETING
 
@@ -5258,12 +5654,12 @@ Source: NCMH (2005).
 
 3.1.202 One approach to address this situation is to follow the equity principles of 'equal resources for equal need' and 'greater resources for greater need' . With this approach, it is possible to work out a system of block budgeting wherein people in either urban or rural areas, whether in developed or less developed States anywhere in the country would receive the same baseline level of public health resources eliminating existing inequities in public health resource allocation.
 
-Added to this, there would need to be recognition of special needs (for women, children, adivasi s, and other disadvantaged groups) that would merit additional resources being allocated for services for these groups. During the Plan, block budgeting will be piloted in selected districts.
+Added to this, there would need to be recognition of special needs (for women, children, adivasis, and other disadvantaged groups) that would merit additional resources being allocated for services for these groups. During the Plan, block budgeting will be piloted in selected districts.
 
 ##### SCHEMES AND OUTLAYS FOR ELEVENTH FIVE YEAR PLAN
-3.1.203 To  achieve  the  desired  outcomes  in  the health sector, a substantially enhanced outlay for the Department of Health and Family Welfare has been earmarked during the Eleventh Five Year Plan (20072012).  The  total  projected  GBS  for  the  Eleventh Plan is Rs 120374.00 crore (at 2006-07 prices) and Rs 136147.00 crore (at current prices). This enhanced outlay is about four times the initial outlay for the Tenth Plan (Rs 36378.00 crore). A large proportion of this  amount,  i.e.,  Rs  89478.00  crore  (65.72  %)  is for NRHM, the flagship of the GoI. Another Rs 625 crore  is  to  be  contributed  by  the  Department  of AYUSH to make a total of Rs 90103 crore for NRHM during the Eleventh Five Year Plan. For the other ongoing schemes, a total of Rs 23995.05 crore has been earmarked. For the new initiatives it is Rs 20846.95 crore. Rs 1827.00 crore has also been earmarked for OSC.
+3.1.203 To achieve the desired outcomes in the health sector, a substantially enhanced outlay for the Department of Health and Family Welfare has been earmarked during the Eleventh Five Year Plan (2007–2012). The total projected GBS for the Eleventh Plan is Rs 120374.00 crore (at 2006–07 prices) and Rs 136147.00 crore (at current prices). This enhanced outlay is about four times the initial outlay for the Tenth Plan (Rs 36378.00 crore). A large proportion of this amount, i.e., Rs 89478.00 crore (65.72 %) is for NRHM, the flagship of the GoI. Another Rs 625 crore is to be contributed by the Department of AYUSH to make a total of Rs 90103 crore for NRHM during the Eleventh Five Year Plan. For the other on-going schemes, a total of Rs 23995.05 crore has been earmarked. For the new initiatives it is Rs 20846.95 crore. Rs 1827.00 crore has also been earmarked for OSC.
 
-3.1.204 Annexure 3.1.8 indicates the number of schemes that were in operation during 2006-07 and the  schemes  that  will  be  operational  during  the Eleventh Five Year Plan. The scheme-wise outlays of Department of Health and Family Welfare during the Eleventh Five Year Plan are given in Appendix of Volume III.
+3.1.204 Annexure 3.1.8 indicates the number of schemes that were in operation during 2006–07 and
 
 [[END OF PAGE 124]]
 
@@ -5272,6 +5668,8 @@ Added to this, there would need to be recognition of special needs (for women, c
 108
 
 Eleventh Five Year Plan
+
+the schemes that will be operational during the Eleventh Five Year Plan. The scheme-wise outlays of Department of Health and Family Welfare during the Eleventh Five Year Plan are given in Appendix of Volume III.
 
 #### Eleventh Five Year Plan Agenda
 
@@ -5365,7 +5763,7 @@ Eleventh Five Year Plan
 
 -Launching new initiatives (Rabies, Fluorosis, Leptospirosis)
 
-- Providing  focus  to  Health  System  and  BioMedical research
+- Providing focus to Health System and Bio-Medical research
 
 -Focusing on conditions specific to our country
 
@@ -5379,7 +5777,7 @@ Eleventh Five Year Plan
 
 ### INTRODUCTION
 
-- 3.2.1 There is a resurgence of interest in holistic systems of health care, especially, in the prevention and management of chronic lifestyle related noncommunicable diseases and systemic diseases. Health
+3.2.1 There is a resurgence of interest in holistic systems of health care, especially, in the prevention and management of chronic lifestyle related non-communicable diseases and systemic diseases. Health
 
 [[END OF PAGE 125]]
 
@@ -5393,7 +5791,7 @@ sector  trends  suggest  that  no  single  system  of health care has the capaci
 
 ### VISION FOR AYUSH
 
-3.2.2 To mainstream AYUSH by designing strategic interventions for wider utilization of AYUSH both domestically and globally, the thrust areas in the Eleventh Five YearPlan are: strengthening professional education, strategic research programmes, promotion of best  clinical  practices,  technology  upgradation  in industry, setting internationally acceptable pharmacopoeial standards, conserving medicinal flora, fauna, metals, and minerals, utilizing human resources of AYUSH in the national health programmes, with the ultimate aim of enhancing the outreach of AYUSH health care in an accessible, acceptable, affordable, and qualitative manner.
+3.2.2 To mainstream AYUSH by designing strategic interventions for wider utilization of AYUSH both domestically and globally, the thrust areas in the Eleventh Five Year Plan are: strengthening professional education, strategic research programmes, promotion of best clinical practices, technology upgradation in industry, setting internationally acceptable pharmacopoeial standards, conserving medicinal flora, fauna, metals, and minerals, utilizing human resources of AYUSH in the national health programmes, with the ultimate aim of enhancing the outreach of AYUSH health care in an accessible, acceptable, affordable, and qualitative manner.
 
 ### CURRENT SCENARIO AND CHALLENGES
 
@@ -5401,9 +5799,9 @@ sector  trends  suggest  that  no  single  system  of health care has the capaci
 
 #### Health Care Services under AYUSH
 
-3.2.4 The AYUSH sector across the country supported a network of 3203 hospitals and 21351 dispensaries. The health services provided by this network largely focused on primary health care. The sector has a marginal presence in secondary and tertiary health care. In  the  private  and  not-for-profit  sector,  there  are several  thousand AYUSH clinics and around 250 hospitals and nursing homes for in patient care and specialized therapies like Panchkarma .
+3.2.4 The AYUSH sector across the country supported a network of 3203 hospitals and 21351 dispensaries. The health services provided by this network largely focused on primary health care. The sector has a marginal presence in secondary and tertiary health care. In the private and not-for-profit sector, there are several thousand AYUSH clinics and around 250 hospitals and nursing homes for in patient care and specialized therapies like Panchkarma.
 
-3.2.5 In clinics and nursing homes there are anecdotal reports  of  the  role  of  AYUSH  in  the  successful management of several communicable and noncommunicable diseases. However, there is no macrodata available about the contribution of AYUSH to major national programmes for the management of communicable and NCDs. System and State-wise details  of  hospitals  and  dispensaries under AYUSH have been provided in Annexures 3.2.1 and 3.2.2. A major challenge in Eleventh Five Year Plan is to identify reputed clinical centres and support upgradation of their facilities via PPP schemes so that the country can boast of a national network of high-quality clinical facilities developed for rendering specialized health care in strength areas of AYUSH.
+3.2.5 In clinics and nursing homes there are anecdotal reports of the role of AYUSH in the successful management of several communicable and non-communicable diseases. However, there is no macro-data available about the contribution of AYUSH to major national programmes for the management of communicable and NCDs. System and State-wise details of hospitals and dispensaries under AYUSH have been provided in Annexures 3.2.1 and 3.2.2. A major challenge in Eleventh Five Year Plan is to identify reputed clinical centres and support upgradation of their facilities via PPP schemes so that the country can boast of a national network of high-quality clinical facilities developed for rendering specialized health care in strength areas of AYUSH.
 
 #### AYUSH under NRHM
 
@@ -5431,6 +5829,8 @@ sector  trends  suggest  that  no  single  system  of health care has the capaci
 
 Eleventh Five Year Plan
 
+TABLE 3.2.1 Registered Medical Practitioners under AYUSH
+
 System | Number of Practitioners
 --- | ---
 Ayurveda | 453661
@@ -5440,11 +5840,7 @@ Naturopathy | 888
 Homeopathy | 217850
 Total | 725383
 
-TABLE 3.2.1 Registered Medical Practitioners under AYUSH
-
-Source:
-
-Department of AYUSH, status as on 1 January 2007.
+Source: Department of AYUSH, status as on 1 January 2007.
 
 #### Human Resources Development in AYUSH
 
@@ -5458,17 +5854,17 @@ Department of AYUSH, status as on 1 January 2007.
 
 3.2.10 System-wise details of manufacturing units have been provided in Table 3.2.3. The turnover of AYUSH industry is estimated to be more than Rs 8000 crore. 70% of the Indian exports from the AYUSH sector consist largely of raw materials and are estimated to be of the order of Rs 1000 crore per annum. The balance (around 30%) consists of finished products including herbal extracts. Indian exports are at present led by a trader's vision rather than a vision inspired by value added knowledge products. The major challenge for industry is to transform its global image from that of a raw material supplier to a knowledge products industry.  This  transformation  will  call  for  major
 
-Ayurveda | Yoga | Unani | Siddha | Homeopathy | Naturopathy | Total
---- | --- | --- | --- | --- | --- | --- | ---
-Undergraduate Colleges | 240 | - | 39 | 7 | 183 | 10 | 479
-Admission Capacity | 11225 | - | 1750 | 350 | 13425 | 385 | 27135
-Colleges with Postgraduate Courses | 62 | - | 7 | 3 | 33 | - | 105
-Admission Capacity | 991 | - | 67 | 110 | 1084 | - | 2252
-Exclusive Postgraduate Institutes | 2 | - | 1 | 1 | 2 | - | 6
-Admission Capacity | 40 | 28 | 30 | 99 | - | 197
-Total Institutions | 242 | - | 40 | 8 | 185 | 10 | 485
-
 TABLE 3.2.2 Details of Educational Institutions and their Capacity
+
+ | Ayurveda | Yoga | Unani | Siddha | Homeopathy | Naturopathy | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+Undergraduate Colleges | 240 | – | 39 | 7 | 183 | 10 | 479
+Admission Capacity | 11225 | – | 1750 | 350 | 13425 | 385 | 27135
+Colleges with Postgraduate Courses | 62 | – | 7 | 3 | 33 | – | 105
+Admission Capacity | 991 | – | 67 | 110 | 1084 | – | 2252
+Exclusive Postgraduate Institutes | 2 | – | 1 | 1 | 2 | – | 6
+Admission Capacity | 40 | – | 28 | 30 | 99 | – | 197
+Total Institutions | 242 | – | 40 | 8 | 185 | 10 | 485
 
 Source: Department of AYUSH, status as on 1 April 2007.
 
@@ -5480,22 +5876,20 @@ Health and Family Welfare and AYUSH
 
 111
 
-System | Manufacturing Units
+investments in upgrading processing technology, R&D including collaborative research with reputed international institutions and quality control. It will also call for intersectoral cooperation among AYUSH, CSIR, ICMR, private sector R&D, NGOs, and Ministry of Commerce for meeting global requirements of quality and safe natural medicinal products. Technical and financial support to the industry in this direction could go a long way in improving our exports.
+
+TABLE 3.2.3 System-wise Details of Manufacturing Units
+
+System | Manufacturing Units | 
 --- | --- | ---
-Numbers | Proportion
+ | Numbers | Proportion
 Ayurveda | 7621 | 85.68
 Unani | 321 | 3.61
 Siddha | 325 | 3.65
 Homeopathy | 628 | 7.06
 Total | 8895 | 100.00
 
-TABLE 3.2.3 System-wise Details of Manufacturing Units
-
-Source:
-
-Department of AYUSH, status as on 1 April 2007.
-
-investments in upgrading processing technology, R&D including collaborative research with reputed international institutions and quality control. It will also call for intersectoral cooperation among AYUSH, CSIR, ICMR, private sector R&D, NGOs, and Ministry of Commerce for meeting global requirements of quality  and  safe  natural  medicinal  products.  Technical and financial support to the industry in this direction could go a long way in improving our exports.
+Source: Department of AYUSH, status as on 1 April 2007.
 
 #### Standardization and Quality Control of Ayurveda, Siddha, Unani, and Homeopathy (ASU&H) Drugs
 
@@ -5503,13 +5897,13 @@ investments in upgrading processing technology, R&D including collaborative rese
 
 #### Research Activities
 
-3.2.12 The Central Government has established research councils for Ayurveda and Siddha (Central Council for Research in Ayurveda and Siddha, CCRAS), Unani (Central Council for Research in Unani Medicine), Homeopathy Central Council for Research in Homeopathy, and Yoga and Naturopathy (Central Council of Yoga and Naturopathy). These Councils have carried out a wide range of research activities. Other government departments like ICMR, CSIR, DST, Department of Biotechnology (DBT), and ICAR also have research centres and focused programmes related to specific aspects of AYUSH. Department of AYUSH also administers an Extramural Research Scheme supporting project based research studies from accredited scientific and medical institutions.
+3.2.12 The Central Government has established research councils for Ayurveda and Siddha (Central Council for Research in Ayurveda and Siddha, CCRAS), Unani (Central Council for Research in Unani Medicine), Homeopathy (Central Council for Research in Homeopathy), and Yoga and Naturopathy (Central Council of Yoga and Naturopathy). These Councils have carried out a wide range of research activities. Other government departments like ICMR, CSIR, DST, Department of Biotechnology (DBT), and ICAR also have research centres and focused programmes related to specific aspects of AYUSH. Department of AYUSH also administers an Extramural Research Scheme supporting project based research studies from accredited scientific and medical institutions.
 
-3.2.13 One of the socially  important outputs of research in the AYUSH sector has been the pharmacopeias and formularies of the various systems of medicine. Whereas numerous important research projects have been undertaken in the last three decades across the various research councils on important public  health  problems like malaria, filariasis, hepatitis, anaemia, there is no critical report on the quality or impact of these projects on the health sector in India. The current research investments are extremely low. One challenge is to step up research investments and support reputed research organizations in the government, non-government, and private sector and promote collaborative research with reputed international institutions . The challenge of addressing strategic research needs in disease areas of national and global importance is attempted to be met through Golden Triangle Research Programme from development of ASU&H drugs.
+3.2.13 One of the socially important outputs of research in the AYUSH sector has been the pharmacopoeias and formularies of the various systems of medicine. Whereas numerous important research projects have been undertaken in the last three decades across the various research councils on important public health problems like malaria, filariasis, hepatitis, anaemia, there is no critical report on the quality or impact of these projects on the health sector in India. The current research investments are extremely low. One challenge is to step up research investments and support reputed research organizations in the government, non-government, and private sector and promote collaborative research with reputed international institutions. The challenge of addressing strategic research needs in disease areas of national and global importance is attempted to be met through Golden Triangle Research Programme for development of ASU&H drugs.
 
 #### Natural Resource Base of AYUSH
 
-3.2.14 The resource base of AYUSH is largely plants. Around 6000 species of medicinal plants are documented in published medical and ethno-botanical literature. Wild populations of several hundreds of these species are under threat in their natural habitats. In the Tenth Plan, a National Medicinal Plants Board (NMPB) was established for supporting conservation of gene pools and large scale cultivation of medicinal plants. The NMPB has also promoted the creation of Literary Research Medico-historical studies, Transcription/translation of rare works Fundamental Research Pharmacopoeial work and standardization of formulations/therapies.
+3.2.14 The resource base of AYUSH is largely plants. Around 6000 species of medicinal plants are documented in published medical and ethno-botanical literature. Wild populations of several hundreds of these species are under threat in their natural habitats. In the Tenth Plan, a National Medicinal Plants Board (NMPB) was established for supporting conservation of gene pools and large scale cultivation of medicinal plants. The NMPB has also promoted the creation of
 
 [[END OF PAGE 128]]
 
@@ -5519,35 +5913,15 @@ investments in upgrading processing technology, R&D including collaborative rese
 
 Eleventh Five Year Plan
 
-Drug Research
-
-Medico-Botanical survey, Pharmacognostical/Phytochemical studies
-
-Clinical Research
-
-Therapeutic trials of drugs for specified diseases Drug proving or Homeopathic Pathogenetic Trials
-
-Tribal Health Care Research Programme, Family Welfare and RCH Related Research
-
-Pippalyadi Yoga )
-
-Oral Contraceptive ( Spermicidal Agent ( Neem oil )
-
-Bal Rasayan and Ayush Ghutti for children's health
-
-Scientific validation of Ayurvedic and Siddha Medicines for RCH Programme
-
-Development of cosmaceutical/neutraceutical products based on traditional medicine knowledge
-
-State Medicinal Plants Boards in most of the States. In  addition  to  plants,  there  are  also  around  300 species of medicinal fauna and around 70 different metals and minerals used by AYUSH. However, there have been no official efforts so far to conserve these resources. The key challenges in the Eleventh Five Year Plan will be to conserve gene pools of red listed species, support large-scale cultivation of species that are in high trade, involve forestry sector in plantation of medicinal tree species, and establish modern processing zones for post-harvest management of medicinal plants.
+State Medicinal Plants Boards in most of the States. In addition to plants, there are also around 300 species of medicinal fauna and around 70 different metals and minerals used by AYUSH. However, there have been no official efforts so far to conserve these resources. The key challenges in the Eleventh Five Year Plan will be to conserve gene pools of red listed species, support large-scale cultivation of species that are in high trade, involve forestry sector in plantation of medicinal tree species, and establish modern processing zones for post-harvest management of medicinal plants.
 
 #### Centrally Funded Institutions
 
-3.2.15 Institutions for all the core functions (Regulatory, Research, Education, Laboratory, and Manufacture)  have  been  established  and/or  strengthened by Central funding for establishing benchmarks for others to follow.
+3.2.15 Institutions for all the core functions (Regulatory, Research, Education, Laboratory, and Manufacture) have been established and/or strengthened by Central funding for establishing benchmarks for others to follow.
 
 #### Review of Tenth Plan Schemes
 
-3.2.16 Original approved outlay for the Department for  the  Tenth  Plan  was Rs 775.00 crore, which was increased to Rs 1214.00 crore. Year-wise allocation and corresponding expenditure substantially increased during Tenth Plan, particularly from the year 2004-05 onwards. Scheme wise details for Tenth Plan have been provided in Annexure 3.2.3.
+3.2.16 Original approved outlay for the Department for the Tenth Plan was Rs 775.00 crore, which was increased to Rs 1214.00 crore. Year-wise allocation and corresponding expenditure substantially increased during Tenth Plan, particularly from the year 2004–05 onwards. Scheme wise details for Tenth Plan have been provided in Annexure 3.2.3.
 
 ### TOWARDS FINDING SOLUTIONS
 
@@ -5555,9 +5929,39 @@ State Medicinal Plants Boards in most of the States. In  addition  to  plants,  
 
 #### Systems Strengthening
 
-3.2.18 The ongoing schemes namely, strengthening the Department of AYUSH, Statutory Institutions, hospitals and dispensaries, strengthening of pharmacopoeial  laboratories,  IEC,  and  other  programmes  and schemes have been merged as 'Systems Strengthening' . Adequate budgetary provisions will be made for this in the Eleventh Five Year Plan.
+3.2.18 The ongoing schemes namely, strengthening the Department of AYUSH, Statutory Institutions, hospitals and dispensaries, strengthening of pharmacopoeial laboratories, IEC, and other programmes and schemes have been merged as ‘Systems Strengthening’. Adequate budgetary provisions will be made for this in the Eleventh Five Year Plan.
 
 ##### Box 3.2.2 Research Initiatives
+
+Literary Research
+
+Medico-historical studies, Transcription/translation of rare works
+
+Fundamental Research
+
+Pharmacopoeial work and standardization of formulations/therapies.
+
+Drug Research
+
+Medico-Botanical survey, Pharmacognostical/Phytochemical studies
+
+Clinical Research
+
+Therapeutic trials of drugs for specified diseases
+
+Drug proving or Homeopathic Pathogenetic Trials
+
+Tribal Health Care Research Programme, Family Welfare and RCH Related Research
+
+Oral Contraceptive (Pippalyadi Yoga)
+
+Spermicidal Agent (Neem oil)
+
+Bal Rasayan and Ayush Ghutti for children’s health
+
+Scientific validation of Ayurvedic and Siddha Medicines for RCH Programme
+
+Development of cosmaceutical/neutraceutical products based on traditional medicine knowledge
 
 [[END OF PAGE 129]]
 
@@ -5581,7 +5985,7 @@ Health and Family Welfare and AYUSH
 
 #### Medicinal Flora and Fauna
 
-3.2.23 The NMPB is functioning with a very small component of staff as an extension of the Department. Manifold increase in outlay for the Eleventh Five Year Plan is to restructure the NMPB as an autonomous body and provide sufficient manpower to undertake its wide mandate. A Centrally Sponsored component for cultivation, processing, and marketing of medicinal plants is being started from the outlay of NMPB. This will have sub components for financial allocation: cultivation of prioritized medicinal plants species over 75000 hectares; raising of 50 lakh seedlings; setting up of Centralized Seed Centre and Nursery for cultivating planting materials for 15 States; setting up of six medicinal plants zones in agro-climatic zones of the country; and market development assistance fund for plan building and marketing support. Another existing Central Sector component is regarding programme for in-situ conservation, creation of Gene Bank for medicinal plants, ex-situ conservation of prioritized medicinal plants, R&D for quality standards, and certification and programme for IEC.
+3.2.23 The NMPB is functioning with a very small component of staff as an extension of the Department. Manifold increase in outlay for the Eleventh Five Year Plan is to restructure the NMPB as an autonomous body and provide sufficient manpower to undertake its wide mandate. A Centrally Sponsored component for cultivation, processing, and marketing of medicinal plants is being started from the outlay of NMPB. This will have sub components for financial allocation: cultivation of prioritized medicinal plants species over 75000 hectares; raising of 50 lakh seedlings; setting up of Centralized Seed Centre and Nursery for cultivating planting materials for 15 States; setting up of six medicinal plants zones in agro-climatic zones of the country; and market development assistance fund for brand building and marketing support. Another existing Central Sector component is regarding programme for in-situ conservation, creation of Gene Bank for medicinal plants, ex-situ conservation of prioritized medicinal plants, R&D for quality standards, and certification and programme for IEC.
 
 #### Hospitals and Dispensaries
 
@@ -5589,7 +5993,7 @@ Health and Family Welfare and AYUSH
 
 #### Industry
 
-3.2.25 AYUSH industry at present suffers from small scale of operation and low technology that needs to be upgraded. Majority of the 5000 GMP compliance manufacturing units are of small and medium size. Even though back ended subsidy to these units under the Centrally sponsored component 'Drug Quality Control' for establishing in-house quality control will be provided, these units also require other infrastructure like sophisticated packing machine, medicinal plants storage, testing facilities, other common quality  control R&D facilities, and marketing assistance. Therefore 20 AYUSH industry clusters have been identified and an initiative for development of common facilities  for  these  clusters  will  be  made  during  the Eleventh Five Year Plan. They will be able to set benchmarks for quality  control,  packaging,  testing  of medicinal plants, brand development, and marketing development network, which are very necessary for globalizing AYUSH industry to capture a fair share of the global herbal market.
+3.2.25 AYUSH industry at present suffers from small scale of operation and low technology that needs to be upgraded. Majority of the 5000 GMP compliance manufacturing units are of small and medium size. Even though back ended subsidy to these units under the Centrally sponsored component ‘Drug Quality
 
 [[END OF PAGE 130]]
 
@@ -5598,6 +6002,8 @@ Health and Family Welfare and AYUSH
 114
 
 Eleventh Five Year Plan
+
+Control’ for establishing in-house quality control will be provided, these units also require other infrastructure like sophisticated packing machine, medicinal plants storage, testing facilities, other common quality control R&D facilities, and marketing assistance. Therefore 20 AYUSH industry clusters have been identified and an initiative for development of common facilities for these clusters will be made during the Eleventh Five Year Plan. They will be able to set benchmarks for quality control, packaging, testing of medicinal plants, brand development, and marketing development network, which are very necessary for globalizing AYUSH industry to capture a fair share of the global herbal market.
 
 #### Drugs Quality Control
 
@@ -5623,7 +6029,7 @@ Eleventh Five Year Plan
 
 - Support for validation and revitalization of local health traditions
 
-- Development of backward and forward linkages for insitu conservation and ex-situ cultivation of medicinal plants for a sustainable ASU&H Industry
+- Development of backward and forward linkages for in-situ conservation and ex-situ cultivation of medicinal plants for a sustainable ASU&H Industry
 
 - Provision of marketing and value-added services to medicinal plant farmers
 
@@ -5639,11 +6045,11 @@ Health and Family Welfare and AYUSH
 
 ### Eleventh Five Year Plan Agenda
 
-- 3.2.31 Successful  implementation  of  the  abovementioned initiatives will enable AYUSH systems to contribute significantly to the health care of population while being an integral component of the health care system of our country.
+3.2.31 Successful implementation of the above-mentioned initiatives will enable AYUSH systems to contribute significantly to the health care of population while being an integral component of the health care system of our country.
 
 3.2.32 The key interventions and strategies in the Eleventh Five Year Plan are enumerated below:
 
-- Documenting measurable outputs for annual plan as well as for the five year plans that will facilitate designing and implementing systematic ME systems.
+- Documenting measurable outputs for annual plan as well as for the five year plans that will facilitate designing and implementing systematic M&E systems.
 
 - Training in Public Health for AYUSH personnel is envisaged as an essential part of education and CME.
 
@@ -5683,39 +6089,49 @@ Health and Family Welfare and AYUSH
 
 Eleventh Five Year Plan
 
-### ANNEXURE 3.1.1 Department of Health and Family Welfare (Other than NRHM)- Scheme-wise Outlay and Actual Expenditure during the T enth Plan
+### ANNEXURE 3.1.1 Department of Health and Family Welfare (Other than NRHM)—Scheme-wise Outlay and Actual Expenditure during the Tenth Plan
 
-S. No. | Name of the Schemes/Institutions | Outlay Tenth Plan (2002-07) | Tenth Plan (2002-07) Sum of Annual Outlay | Tenth Plan (2002-07) Actual Exp.
+(Rs in Crores)
+
+S. No. | Name of the Schemes/Institutions | Outlay Tenth Plan (2002–07) | Tenth Plan (2002–07) Sum of Annual Outlay | Tenth Plan (2002–07) Actual Exp.
 --- | --- | --- | --- | ---
 1 | 2 | 3 | 4 | 5
 I. | CENTRALLY SPONSORED PROGRAMMES | 2045.80 | 3097.82 | 2718.36
-Control | of Communicable Diseases | 1392.80 | 2165.17 | 2055.55
-1 NACP and | National STD Control Programme | 1392.80 | 2165.17 | 2055.55
-Control | of NCDs | 405.00 | 516.00 | 359.13
+ | Control of Communicable Diseases | 1392.80 | 2165.17 | 2055.55
+1 | NACP and National STD Control Programme | 1392.80 | 2165.17 | 2055.55
+ | Control of NCDs | 405.00 | 516.00 | 359.13
 2 | Cancer | 266.00 | 333.00 | 252.63
-(i) NCCP | 266.00 | 333.00 | 252.63
-(ii) Tobacco Control Programme | 0.00 | 0.00 | 0.00
+ | (i) NCCP | 266.00 | 333.00 | 252.63
+ | (ii) Tobacco Control Programme | 0.00 | 0.00 | 0.00
 3 | NMHP | 139.00 | 183.00 | 106.50
-Other Programmes | 248.00 | 355.65 | 299.45
+ | Other Programmes | 248.00 | 355.65 | 299.45
 4 | Assistance to State for Capacity Building for Trauma Care | 110.00 | 140.00 | 142.03
 5 | Assistance to States for Drug & PFA Control | 138.00 | 215.65 | 157.42
-New | Initiatives under CSS | 0.00 | 61.00 | 4.23
-(i) Telemedicine | (ii) National Programme for Prevention and Control of Diabetes, (iii)CVD, and Stroke | 0.00 0.00 0.00 | 15.00 5.00 15.00 | 0.00 0.00
-(iv) National Programme for Deafness (v) Other Initiatives | 0.00 | 26.00 | 4.23 0.00
+ | (i) Drugs Control | 60.00 |  | 
+ | (ii) PFA Control | 78.00 |  | 
+ | New Initiatives under CSS | 0.00 | 61.00 | 4.23
+6 | Initiatives during 2006–07 | 0.00 | 61.00 | 4.23
+ | (i) Telemedicine | 0.00 | 15.00 | 0.00
+ | (ii) National Programme for Prevention and Control of Diabetes, |  |  | 
+ | (iii) CVD, and Stroke | 0.00 | 5.00 | 0.00
+ | (iv) National Programme for Deafness | 0.00 | 15.00 | 4.23
+ | (v) Other Initiatives | 0.00 | 26.00 | 0.00
 II | CENTRAL SECTOR SCHEMES (CS) | 5176.20 | 4926.58 | 3858.60
-Control | 199.80 | 203.63
-7 | 50.00 | 65.00 | 62.17
-(i) Ongoing Activities (including (ii) Strengthening of the | 4.00 | 161.48 49.93
-NICD | of Communicable Diseases | 3.49
-10 | Guineaworm & Yaws Eradication) Institute | 15.00 | 0.00 31.18
-8 | National Tuberculosis Institute, Bangalore | 10.30 | 9.73
-9 | BCG Vaccine Laboratory, Guindy, Chennai Pasteur Institute of India, Coonoor | 19.50 35.00 | 17.27 44.00 | 9.48
-Central Leprosy Training & Research | 54.50 5.50
-11 12 | Lala Ram Sarup Institute of Tuberculosis and Allied Diseases, Mehrauli, Delhi Institute, Chengalpattu (Tamil Nadu) | 52.55 | 55.54 4.73
+ | Control of Communicable Diseases | 199.80 | 203.63 | 161.48
+7 | NICD | 65.00 | 62.17 | 49.93
+ | (i) Ongoing Activities (including Guineaworm & Yaws Eradication) | 50.00 |  | 
+ | (ii) Strengthening of the Institute | 15.00 | 4.00 | 0.00
+8 | National Tuberculosis Institute, Bangalore | 10.30 | 9.73 | 3.49
+9 | BCG Vaccine Laboratory, Guindy, Chennai | 19.50 | 17.27 | 9.48
+10 | Pasteur Institute of India, Coonoor | 35.00 | 44.00 | 31.18
+11 | Lala Ram Sarup Institute of Tuberculosis and Allied Diseases, Mehrauli, Delhi | 54.50 | 52.55 | 55.54
+12 | Central Leprosy Training & Research Institute, Chengalpattu (Tamil Nadu) | 5.50 | 7.00 | 4.73
 13 | Regional Institute of Training, Research & Treatment under Leprosy Control Programme: | 10.00 | 10.91 | 7.13
-7.00
+ | (i) RLTRI, Aska (Orissa) | 2.00 | 2.35 | 0.37
+ | (ii) RLTRI, Raipur (MP) | 1.00 | 0.96 | 0.71
+ | (iii) RLTRI, Gauripur (WB) | 7.00 | 7.60 | 6.05
 
-( Annexure 3.1.1 contd. )
+(Annexure 3.1.1 contd.)
 
 [[END OF PAGE 133]]
 
@@ -5727,9 +6143,9 @@ Health and Family Welfare and AYUSH
 
 ( Annexure 3.1.1 contd. )
 
-2 | 3 | 4 | 5
+1 | 2 | 3 | 4 | 5
 --- | --- | --- | --- | ---
-Hospitals & Dispensaries | 567.00 | 796.03 | 609.22
+ | Hospitals & Dispensaries | 567.00 | 796.03 | 609.22
 14 | Central Government Health Scheme | 80.00 | 132.50 | 122.43
 15 | Central Institute of Psychiatry, Ranchi | 50.00 | 62.20 | 30.17
 16 | All India Institute of Physical Medicine & Rehabilitation, Mumbai | 20.00 | 17.60 | 13.60
@@ -5737,40 +6153,40 @@ Hospitals & Dispensaries | 567.00 | 796.03 | 609.22
 18 | Dr RML Hospital, New Delhi | 150.00 | 175.64 | 138.35
 19 | Institute for Human Behaviour & Allied Sciences, Shahdara, Delhi | 7.00 | 4.00 | 0.00
 20 | All India Institute of Speech & Hearing, Mysore | 30.00 | 37.00 | 34.21
-Medical Education, Training, & Research | 2981.10 | 3077.17 | 2774.62
+ | Medical Education, Training, & Research | 2981.10 | 3077.17 | 2774.62
 (a) | Medical Education: | 1951.00 | 1992.19 | 1649.56
 21 | All India Institute of Medical Sciences and its Allied Departments, New Delhi | 675.00 | 787.12 | 636.50
 22 | PGIMER, Chandigarh | 200.00 | 153.00 | 234.00
 23 | JIPMER, Pondicherry | 150.00 | 182.00 | 118.61
 24 | Lady Hardinge Medical College & Smt. SK Hospital, New Delhi | 200.00 | 95.00 | 68.33
-25 | Kalawati Saran Children's Hospital, New Delhi | 140.00 | 39.56 | 34.39
+25 | Kalawati Saran Children’s Hospital, New Delhi | 140.00 | 39.56 | 34.39
 26 | Indira Gandhi Institute of Health & Medical Sciences for North East Region at Shillong | 380.00 | 447.78 | 274.99
 27 | NIMHANS, Bangalore | 120.00 | 173.96 | 180.98
 28 | Kasturba Health Society, Wardha | 50.00 | 56.80 | 59.57
 29 | National Medical Library, New Delhi | 35.00 | 45.00 | 34.82
 30 | NBE, New Delhi | 1.00 | 11.97 | 7.37
 (b) | Training | 95.00 | 110.39 | 73.82
-31 | Development of Nursing Services | 82.00 | 102.00 8.39 | 70.14 3.68
-32 | Nursing Colleges | 13.00 | 2.69
-(i) RAK College of Nursing, New Delhi | 11.00 | 6.46
-(ii) Lady Reading Health School | 2.00 | 1.93 | 0.99
+31 | Development of Nursing Services | 82.00 | 102.00 | 70.14
+32 | Nursing Colleges | 13.00 | 8.39 | 3.68
+ | (i) RAK College of Nursing, New Delhi | 11.00 | 6.46 | 2.69
+ | (ii) Lady Reading Health School | 2.00 | 1.93 | 0.99
 (c) | Research | 870.00 | 841.00 | 962.00
 33 | ICMR, New Delhi | 870.00 | 841.00 | 962.00
-(d) | Public Health | 27.50 5.00 | 83.35 73.00 | 48.83 43.00
-34 | PHFI | 5.83
-35 | All India Institute of Hygiene & Public Health, Kolkata (AIIH&PH) and Serologist and Chemical Examiner, Kolkata | 22.50 | 10.35
-(i) AIIH&PH, Kolkota | 20.00 | 8.90 | 5.22
-(ii) Serologist & Chemical Examiner, Kolkata | 2.50 | 1.45 | 0.61
+(d) | Public Health | 27.50 | 83.35 | 48.83
+34 | PHFI | 5.00 | 73.00 | 43.00
+35 | All India Institute of Hygiene & Public Health, Kolkata (AIIH&PH) and Serologist and Chemical Examiner, Kolkata | 22.50 | 10.35 | 5.83
+ | (i) AIIH&PH, Kolkota | 20.00 | 8.90 | 5.22
+ | (ii) Serologist & Chemical Examiner, Kolkata | 2.50 | 1.45 | 0.61
 (e) | Others | 37.60 | 50.24 | 40.41
 36 | Indian Nursing Council | 2.10 | 3.20 | 2.50
 37 | VP Chest Institute, Delhi | 23.00 | 30.30 | 31.80
 38 | National Academy of Medical Sciences, New Delhi | 2.50 | 2.74 | 1.75
 39 | MCI, New Delhi | 5.00 | 5.00 | 4.36
 40 | Medical Grants Commission | 5.00 | 9.00 | 0.00
-Other Programmes | 429.30 | 441.75 | 283.02
-(a) Health Education, Research, & Accounts | 19.40 | 16.64 | 3.37
-41 Health Education | 12.60 | 8.20 | 0.79
-42 Health Intelligence and Health Accounts | 6.80 | 8.44 | 2.58
+ | Other Programmes | 429.30 | 441.75 | 283.02
+(a) | Health Education, Research, & Accounts | 19.40 | 16.64 | 3.37
+41 | Health Education | 12.60 | 8.20 | 0.79
+42 | Health Intelligence and Health Accounts | 6.80 | 8.44 | 2.58
 
 ( Annexure 3.1.1 contd. )
 
@@ -5782,13 +6198,15 @@ Other Programmes | 429.30 | 441.75 | 283.02
 
 Eleventh Five Year Plan
 
-1 2 | 3 | 4 | 5
+(Annexure 3.1.1 contd.)
+
+1 | 2 | 3 | 4 | 5
 --- | --- | --- | --- | ---
-(i) Intelligence | 3.80 | 4.44 | 2.58
-(ii) Accounts | 3.00 | 4.00 | 0.00
+ | (i) Intelligence | 3.80 | 4.44 | 2.58
+ | (ii) Accounts | 3.00 | 4.00 | 0.00
 (b) | Strengthening of DGHS/Ministry: | 20.00 | 23.40 | 16.55
 43 | I. Strengthening of Departments under the Ministry | 12.00 | 15.00 | 11.68
-II. Strengthening of DGHS | 8.00 | 8.40 | 4.87
+ | II. Strengthening of DGHS | 8.00 | 8.40 | 4.87
 (c) | Emergency Medical Relief | 30.00 | 87.00 | 35.96
 44 | Health Sector Disaster Preparedness and Management | 30.00 | 47.00 | 23.25
 45 | Emergency Medical Relief (including Avian Flu) | 0.00 | 40.00 | 12.71
@@ -5798,19 +6216,17 @@ II. Strengthening of DGHS | 8.00 | 8.40 | 4.87
 48 | PFA | 78.00 | 47.20 | 14.95
 49 | Central Drug Standard & Control Organization (CDSCO) | 52.00 | 62.90 | 35.37
 50 | Port Health Authority | 9.00 | 7.23 | 1.32
-(i) Jawaharlal Nehru Port Sheva | 1.50 | 2.03 | 1.30
-(ii) Setting up of offices at 8 newly created international airports | 7.50 | 5.20 | 0.02
+ | (i) Jawaharlal Nehru Port Sheva | 1.50 | 2.03 | 1.30
+ | (ii) Setting up of offices at 8 newly created international airports | 7.50 | 5.20 | 0.02
 51 | PMSSY | 999.00 | 385.00 | 20.94
-Dropped/Transferred Schemes | 43.00 | 62.40 | 44.62
+ | Dropped/Transferred Schemes | 43.00 | 62.40 | 44.62
 1 | Hospital Waste Management | 10.00 | 10.00 | 10.82
 2 | UNDP Pilot Initiatives for Community Health | 0.00 | 8.90 | 0.00
 3 | Training of MO of CHS | 0.00 | 0.00 | 0.01
 4 | RHTC, Najafgarh | 0.00 | 0.00 | 1.48
-5 | Drug De-addition Control Programme | 33.00 | 20.50 | 22.99
+5 | Drug De-addiction Control Programme | 33.00 | 20.50 | 22.99
 6 | Bhuj Hospital | 0.00 | 23.00 | 9.32
-Grand Total | 7265.00 | 8063.80 | 6612.26
-
-( Annexure 3.1.1 contd. )
+ | Grand Total | 7265.00 | 8063.80 | 6612.26
 
 Note: Exp. stands for Expenditure; MO stands for Medical Officers.
 
@@ -5824,88 +6240,114 @@ Health and Family Welfare and AYUSH
 
 119
 
-S. No. | Name of the Schemes | Outlay Tenth Plan (2002-07) | Tenth Plan (2002-07) Sum of Annual Outlay | (Rs in Crores) Tenth Plan (2002-07) Actual Exp.
+### ANNEXURE 3.1.2 Department of Health (H) and Family Welfare (FW)—NRHM#
+
+(Rs in Crores)
+
+S. No. | Name of the Schemes | Outlay Tenth Plan (2002–07) | Tenth Plan (2002–07) Sum of Annual Outlay | Tenth Plan (2002–07) Actual Exp.
 --- | --- | --- | --- | ---
 1 | 2 | 3 | 4 | 5
-CENTRALLY SPONSORED SCHEMES (CSS)
-OF FAMILY WELFARE | 24169.20 | 28011.97 | 23854.74
-11 | Direction & Administration | 1100.00 | 1176.66 | 999.93
-12 | Rural FW Services (SCs) | 9663.00 | 8881.29 | 7561.01
-13 | Urban FW Services | 580.00 | 638.17 | 539.48
-14 | Grants to State Training Institutions | 480.00 | 500.37 | 411.08
-15 | Free Distribution of Contraceptives | 940.00 | 760.22 | 627.97
-16 | Sterilization (Beds)-(Weeded) | 12.00 | 10.25 | 8.78
-17 | Family Welfare Linked Health Insurance | 150.00 | 105.10 | 10.63
-18 | Training | 250.00 | 143.81 | 71.60
-19 | Procurement of Supplies and Materials | 994.98 | 1141.30 | 335.14
+ | CENTRALLY SPONSORED SCHEMES (CSS) OF FAMILY WELFARE | 24169.20 | 28011.97 | 23854.74
+1 | Direction & Administration | 1100.00 | 1176.66 | 999.93
+2 | Rural FW Services (SCs) | 9663.00 | 8881.29 | 7561.01
+3 | Urban FW Services | 580.00 | 638.17 | 539.48
+4 | Grants to State Training Institutions | 480.00 | 500.37 | 411.08
+5 | Free Distribution of Contraceptives | 940.00 | 760.22 | 627.97
+6 | Sterilization (Beds)—(Weeded) | 12.00 | 10.25 | 8.78
+7 | Family Welfare Linked Health Insurance | 150.00 | 105.10 | 10.63
+8 | Training | 250.00 | 143.81 | 71.60
+9 | Procurement of Supplies and Materials | 994.98 | 1141.30 | 335.14
 10 | Routine Immunization | 1557.88 | 1625.50 | 783.44
 11 | Pulse Polio Immunization | 3110.00 | 3887.70 | 3999.56
 12 | IEC | 539.50 | 569.87 | 542.42
 13 | Area Projects | 1750.00 | 1838.14 | 1250.60
 14 | Flexible Pool for State PIPs | 3041.84 | 6733.59 | 6713.10
-CENTRAL SECTOR SCHEMES (CS) OF FAMILY WELFARE | 1367.80 | 1611.53 | 1180.69
-11 | Social Marketing Area Projects | 20.00 | 35.00 | 0.00
-12 | Social Marketing of Contraceptives | 660.00 | 790.04 | 599.70
-13 | FW Training and Res. Centre, Bombay | 10.00 | 10.53 | 2.31
-14 | NIHFW, New Delhi | 20.00 | 25.45 | 19.91
-15 | IIPS, Mumbai | 10.00 | 9.57 | 8.09
-16 | Rural Health Training Centre, Najafgarh | 45.00 | 12.42 | 1.56
-17 | Population Research Centres | 45.00 | 39.13 | 30.01
-18 | CDRI, Lucknow | 12.00 | 12.65 | 12.85
-19 | ICMR and IRR | 100.00 | 150.00 | 162.44
+ | CENTRAL SECTOR SCHEMES (CS) OF FAMILY WELFARE | 1367.80 | 1611.53 | 1180.69
+1 | Social Marketing Area Projects | 20.00 | 35.00 | 0.00
+2 | Social Marketing of Contraceptives | 660.00 | 790.04 | 599.70
+3 | FW Training and Res. Centre, Bombay | 10.00 | 10.53 | 2.31
+4 | NIHFW, New Delhi | 20.00 | 25.45 | 19.91
+5 | IIPS, Mumbai | 10.00 | 9.57 | 8.09
+6 | Rural Health Training Centre, Najafgarh | 45.00 | 12.42 | 1.56
+7 | Population Research Centres | 45.00 | 39.13 | 30.01
+8 | CDRI, Lucknow | 12.00 | 12.65 | 12.85
+9 | ICMR and IRR | 100.00 | 150.00 | 162.44
 10 | Travel of Experts/Conference/Meetings etc. (Melas) | 57.00 | 17.00 | 47.84
 11 | International Co-operation | 9.00 | 8.44 | 6.73
 12 | NPSF/National Commission on Population | 100.00 | 116.00 | 104.08
 13 | NGOs (PPP) | 130.00 | 241.61 | 88.95
 14 | Other Schemes | 149.80 | 143.69 | 96.22
-TRANSFERRED TO STATES/WEEDED DURING TENTH PLAN | 589.00 | 417.50 | 291.12
-11 | District Projects | 51.00 | 105.00 | 40.95
-12 | Community Incentive Scheme | 200.00 | 62.00 | 0.00
-13 | Transport | 313.00 | 223.00 | 248.02
-14 | New Initiatives | 25.00 | 27.50 | 2.15
-TO NACO | 0.00 | 200.00 | 265.99
-FAMILY WELFARE (TOTAL) | 26126.00 | 30241.00 | 25592.54
-DISEASE CONTROL PROGRAMMES OF HEALTH | 2987.00 | 3280.20 | 2745.65
-11 | Vector-borne (CSS) | 1349.00 | 1496.03 | 1186.11
-12 | Tuberculosis (CSS) | 662.00 | 758.17 | 756.88
-13 | Leprosy (CSS) | 236.00 | 288.00 | 224.54
-14 | IDD (CSS) | 35.00 | 49.00 | 42.71
-15 | Blindness (CSS) | 445.00 | 439.00 | 458.15
-16 Integrated | Disease Surveillance (CS) GRAND TOTAL | 260.00 | 250.00 33521.20 | 77.26
-29113.00 | 28338.19
+ | TRANSFERRED TO STATES/WEEDED DURING TENTH PLAN | 589.00 | 417.50 | 291.12
+1 | District Projects | 51.00 | 105.00 | 40.95
+2 | Community Incentive Scheme | 200.00 | 62.00 | 0.00
+3 | Transport | 313.00 | 223.00 | 248.02
+4 | New Initiatives | 25.00 | 27.50 | 2.15
+ | TO NACO | 0.00 | 200.00 | 265.99
+ | FAMILY WELFARE (TOTAL) | 26126.00 | 30241.00 | 25592.54
+ | DISEASE CONTROL PROGRAMMES OF HEALTH | 2987.00 | 3280.20 | 2745.65
+1 | Vector-borne (CSS) | 1349.00 | 1496.03 | 1186.11
+2 | Tuberculosis (CSS) | 662.00 | 758.17 | 756.88
+3 | Leprosy (CSS) | 236.00 | 288.00 | 224.54
+4 | IDD (CSS) | 35.00 | 49.00 | 42.71
+5 | Blindness (CSS) | 445.00 | 439.00 | 458.15
+6 | Integrated Disease Surveillance (CS) | 260.00 | 250.00 | 77.26
+ | GRAND TOTAL | 29113.00 | 33521.20 | 28338.19
 
-### ANNEXURE 3.1.2 Department of Health (H) and Family Welfare (FW)-NRHM #
+Note: # Includes corresponding H&FW schemes of NRHM up to 2004–05. To accommodate PMSSY, the approved Tenth Plan Outlay of the Department of Family Welfare was reduced from 27125 crore to Rs 26126 crore (Rs 999 crore was transferred to the Department of Health).
 
-Note: # Includes corresponding H&FW schemes of NRHM up to 2004-05. To accommodate PMSSY, the approved Tenth Plan Outlay of the Department of Family Welfare was reduced from 27125 crore to Rs 26126 crore (Rs 999 crore was transferred to the Department of Health).
-
-MoHFW.
-
-Source:
+Source: MoHFW.
 
 [[END OF PAGE 136]]
 
 [[START OF PAGE 137]]
 
-### ANNEXURE 3.1.3 Health-State Plan Outlays and Expenditure
-RE stands for Revised Estimate.
+### ANNEXURE 3.1.3 Health—State Plan Outlays and Expenditure
 
-(Rs lakhs) | RE | 12 | 53574.24 3850.00 21399.00 13822.00 25165.69 4495.00 45994.00 11450.00 19948.92 21864.25 16225.00 48151.64 9650.00 23193.47 88228.54 3215.00 4750.00 4102.06 2578.00 3002.20 5019.10 21822.16 1790.00 38074.55 8376.42 189570.00 18600.00 38482.68 3657.00 3587.00 470.00 424.50 76160.30 178.00 12681.40 | 843552.12
---- | --- | --- | --- | ---
-2006-07 | Outlay | 11 | 53574.24 1970.00 21399.00 13700.00 33249.90 4495.00 45994.00 11450.00 19948.92 21864.25 26800.00 34098.61 9650.00 16961.91 88228.54 2837.00 4750.00 4000.00 2363.00 4052.20 5019.10 20615.60 1690.00 46564.75 6459.60 188763.00 18600.00 44289.68 3657.00 3587.00 470.00 414.00 69120.00 178.00 9485.00 | 840299.30
-2005-06 | Exp. | 10 | 33964.48 1478.36 4203.54 15426.00 10035.86 4579.65 43494.00 10000.50 19629.56 21954.04 14020.07 26602.68 10196.62 20747.97 35138.73 558.20 4676.31 3378.10 1991.93 7659.27 1247.13 15384.70 1984.87 39745.00 4831.84 91526.63 17710.21 25440.14 2832.22 2983.27 561.27 462.84 54336.37 236.70 5665.74 | 554684.80
-Outlay | 9 | 43269.24 1828.82 5687.00 12721.80 14287.44 4132.99 43494.00 10200.00 18476.60 21061.70 15000.00 33239.29 10035.00 20587.00 77874.10 499.00 4484.00 3480.00 2263.00 14348.19 2743.13 18605.59 1840.00 26874.17 2662.21 85421.00 8790.92 40207.80 3321.00 3392.00 400.00 350.00 60600.00 242.00 5635.00 | 618053.99
-2004-05 | Outlay Exp. | 7 8 | 40995.44 31427.72 2781.35 3185.00 6529.00 6529.00 14182.02 14389.78 15076.00 12462.52 3521.33 3149.21 25294.00 25294.00 7124.00 5843.76 18295.79 19734.27 16330.87 17748.78 14040.00 13371.59 18011.51 15731.51 10130.00 6813.87 20298.09 17763.95 18663.93 31192.05 1915.91 789.52 4042.00 4071.31 3000.00 2950.10 2114.87 10281.41 2133.32 9736.64 2200.56 17402.60 3040.42 38352.82 9978.76 15392.06 2382.96 3355.33 403.20 301.03 46989.16 166.73 4196.59 | 2207.15 11739.19 7508.93 10811.56 2210.00 19400.66 2535.36 33009.00 8759.31 23739.80 2390.00 3477.00 343.00 290.00 53775.00 225.00 4160.00 426812.20 400876.40
-2003-04 | Exp. | 6 35362.36 2099.23 7882.00 12343.11 8083.00 2568.54 21472.13 5757.51 18066.07 13752.90 6339.98 19189.66 5170.31 15444.43 33244.78 940.96 3773.09 4185.67 2514.00 9256.11 5971.99 5434.80 1454.87 15963.39 2243.86 19745.93 6302.53 18590.41 2312.26 3546.75 301.67 282.85 38942.11 264.90 3259.04 | 227.00 352063.20
-2002-03 | Exp. Outlay | 5 | 4 22008.16 40995.00 2181.01 2201.00 8194.35 7682.00 10731.11 13699.00 5550.00 8083.00 1888.48 3175.00 15192.32 25221.00 2233.22 7800.00 12905.15 19517.00 12861.04 14864.00 6498.00 9700.00 17715.31 13974.00 7916.65 9748.00 14520.93 18105.00 21632.92 76435.00 304.23 2280.00 3219.79 3550.00 2725.99 2975.00 1562.14 7283.09 6483.49 4034.19 1408.04 14285.27 1407.34 25950.00 5768.50 14137.89 2119.64 3944.93 269.57 217.68 33043.43 232.33 3000.21 | 2383.00 21694.00 10450.00 8236.00 1606.00 16314.00 2013.00 33927.00 7359.00 21193.00 2150.00 3111.00 266.00 228.00 42692.00 3205.00 293426.40 457058.00
-3 24309.00 2181.00 8648.00 13703.00 6935.00 1895.00 21387.00 6280.00 13414.00 13000.00 11575.00 19247.00 7135.00 14016.00 40740.00 1415.00 3020.00 2860.00 1548.00 12777.00 9298.00 12778.00 1600.00 10440.00 1480.00 27826.00 4286.00 27898.00 2050.00 3803.65 238.00 194.15 38970.00 275.20 3272.09 | 370494.09
-Tenth Plan | Outlay | 133024.00 23129.00 57069.00 107920.00 43418.00 13135.00 116616.00 96062.00 78772.00 79666.00 65000.00 153052.00 40840.00 71533.00 110666.00 8173.00 18000.00 12370.00 7965.00 52139.00 53081.00 56892.00 8000.00 70000.00 25072.00 240543.00 38767.00 103618.00 11400.00 22426.00 1225.00 1750.00 238150.00 901.30 16360.00
-Outlay | 2 | 2176734.30
+(Rs lakhs)
 
-Note:
+State/UT | Tenth Plan Outlay | 2002–03 Outlay | 2002–03 Exp. | 2003–04 Outlay | 2003–04 Exp. | 2004–05 Outlay | 2004–05 Exp. | 2005–06 Outlay | 2005–06 Exp. | 2006–07 Outlay | 2006–07 RE
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Andhra Pradesh | 133024.00 | 24309.00 | 22008.16 | 40995.00 | 35362.36 | 40995.44 | 31427.72 | 43269.24 | 33964.48 | 53574.24 | 53574.24
+Arunachal Pradesh | 23129.00 | 2181.00 | 2181.01 | 2201.00 | 2099.23 | 2781.35 | 3185.00 | 1828.82 | 1478.36 | 1970.00 | 3850.00
+Assam | 57069.00 | 8648.00 | 8194.35 | 7682.00 | 7882.00 | 6529.00 | 6529.00 | 5687.00 | 4203.54 | 21399.00 | 21399.00
+Bihar | 107920.00 | 13703.00 | 10731.11 | 13699.00 | 12343.11 | 14182.02 | 14389.78 | 12721.80 | 15426.00 | 13700.00 | 13822.00
+Chhattisgarh | 43418.00 | 6935.00 | 5550.00 | 8083.00 | 8083.00 | 15076.00 | 12462.52 | 14287.44 | 10035.86 | 33249.90 | 25165.69
+Goa | 13135.00 | 1895.00 | 1888.48 | 3175.00 | 2568.54 | 3521.33 | 3149.21 | 4132.99 | 4579.65 | 4495.00 | 4495.00
+Gujarat | 116616.00 | 21387.00 | 15192.32 | 25221.00 | 21472.13 | 25294.00 | 25294.00 | 43494.00 | 43494.00 | 45994.00 | 45994.00
+Haryana | 96062.00 | 6280.00 | 2233.22 | 7800.00 | 5757.51 | 7124.00 | 5843.76 | 10200.00 | 10000.50 | 11450.00 | 11450.00
+Himachal Pradesh | 78772.00 | 13414.00 | 12905.15 | 19517.00 | 18066.07 | 18295.79 | 19734.27 | 18476.60 | 19629.56 | 19948.92 | 19948.92
+J&K | 79666.00 | 13000.00 | 12861.04 | 14864.00 | 13752.90 | 16330.87 | 17748.78 | 21061.70 | 21954.04 | 21864.25 | 21864.25
+Jharkhand | 65000.00 | 11575.00 | 6498.00 | 9700.00 | 6339.98 | 14040.00 | 13371.59 | 15000.00 | 14020.07 | 26800.00 | 16225.00
+Karnataka | 153052.00 | 19247.00 | 17715.31 | 13974.00 | 19189.66 | 18011.51 | 15731.51 | 33239.29 | 26602.68 | 34098.61 | 48151.64
+Kerala | 40840.00 | 7135.00 | 7916.65 | 9748.00 | 5170.31 | 10130.00 | 6813.87 | 10035.00 | 10196.62 | 9650.00 | 9650.00
+MP | 71533.00 | 14016.00 | 14520.93 | 18105.00 | 15444.43 | 20298.09 | 17763.95 | 20587.00 | 20747.97 | 16961.91 | 23193.47
+Maharashtra | 110666.00 | 40740.00 | 21632.92 | 76435.00 | 33244.78 | 18663.93 | 31192.05 | 77874.10 | 35138.73 | 88228.54 | 88228.54
+Manipur | 8173.00 | 1415.00 | 304.23 | 2280.00 | 940.96 | 1915.91 | 789.52 | 499.00 | 558.20 | 2837.00 | 3215.00
+Meghalaya | 18000.00 | 3020.00 | 3219.79 | 3550.00 | 3773.09 | 4042.00 | 4071.31 | 4484.00 | 4676.31 | 4750.00 | 4750.00
+Mizoram | 12370.00 | 2860.00 | 2725.99 | 2975.00 | 4185.67 | 3000.00 | 2950.10 | 3480.00 | 3378.10 | 4000.00 | 4102.06
+Nagaland | 7965.00 | 1548.00 | 1562.14 | 2383.00 | 2514.00 | 2207.15 | 2114.87 | 2263.00 | 1991.93 | 2363.00 | 2578.00
+Orissa | 52139.00 | 12777.00 | 7283.09 | 21694.00 | 9256.11 | 11739.19 | 10281.41 | 14348.19 | 7659.27 | 4052.20 | 3002.20
+Punjab | 53081.00 | 9298.00 | 6483.49 | 10450.00 | 5971.99 | 7508.93 | 2133.32 | 2743.13 | 1247.13 | 5019.10 | 5019.10
+Rajasthan | 56892.00 | 12778.00 | 4034.19 | 8236.00 | 5434.80 | 10811.56 | 9736.64 | 18605.59 | 15384.70 | 20615.60 | 21822.16
+Sikkim | 8000.00 | 1600.00 | 1408.04 | 1606.00 | 1454.87 | 2210.00 | 2200.56 | 1840.00 | 1984.87 | 1690.00 | 1790.00
+Tamil Nadu | 70000.00 | 10440.00 | 14285.27 | 16314.00 | 15963.39 | 19400.66 | 17402.60 | 26874.17 | 39745.00 | 46564.75 | 38074.55
+Tripura | 25072.00 | 1480.00 | 1407.34 | 2013.00 | 2243.86 | 2535.36 | 3040.42 | 2662.21 | 4831.84 | 6459.60 | 8376.42
+UP | 240543.00 | 27826.00 | 25950.00 | 33927.00 | 19745.93 | 33009.00 | 38352.82 | 85421.00 | 91526.63 | 188763.00 | 189570.00
+Uttaranchal | 38767.00 | 4286.00 | 5768.50 | 7359.00 | 6302.53 | 8759.31 | 9978.76 | 8790.92 | 17710.21 | 18600.00 | 18600.00
+WB | 103618.00 | 27898.00 | 14137.89 | 21193.00 | 18590.41 | 23739.80 | 15392.06 | 40207.80 | 25440.14 | 44289.68 | 38482.68
+A&N Islands | 11400.00 | 2050.00 | 2119.64 | 2150.00 | 2312.26 | 2390.00 | 2382.96 | 3321.00 | 2832.22 | 3657.00 | 3657.00
+Chandigarh | 22426.00 | 3803.65 | 3944.93 | 3111.00 | 3546.75 | 3477.00 | 3355.33 | 3392.00 | 2983.27 | 3587.00 | 3587.00
+D&N Haveli | 1225.00 | 238.00 | 269.57 | 266.00 | 301.67 | 343.00 | 403.20 | 400.00 | 561.27 | 470.00 | 470.00
+Daman & Diu | 1750.00 | 194.15 | 217.68 | 228.00 | 282.85 | 290.00 | 301.03 | 350.00 | 462.84 | 414.00 | 424.50
+Delhi | 238150.00 | 38970.00 | 33043.43 | 42692.00 | 38942.11 | 53775.00 | 46989.16 | 60600.00 | 54336.37 | 69120.00 | 76160.30
+Lakshadweep | 901.30 | 275.20 | 232.33 | 227.00 | 264.90 | 225.00 | 166.73 | 242.00 | 236.70 | 178.00 | 178.00
+Pondicherry | 16360.00 | 3272.09 | 3000.21 | 3205.00 | 3259.04 | 4160.00 | 4196.59 | 5635.00 | 5665.74 | 9485.00 | 12681.40
+Total | 2176734.30 | 370494.09 | 293426.40 | 457058.00 | 352063.20 | 426812.20 | 400876.40 | 618053.99 | 554684.80 | 840299.30 | 843552.12
 
-Planning Commissioin.
+Note: RE stands for Revised Estimate.
 
-Source:
+Source: Planning Commission.
 
 [[END OF PAGE 137]]
 
@@ -5950,19 +6392,21 @@ Source:
 
 Eleventh Five Year Plan
 
-S. No. | State/UT | Current Level | Goal by 2011-12 | Goal by 2016-17
+### ANNEXURE 3.1.5 Sex Ratio (0–6 Years) (India and States/UTs)
+
+S. No. | State/UT | Current Level | Goal by 2011–12 | Goal by 2016–17
 --- | --- | --- | --- | ---
 1 | 2 | 3 | 4 | 5
-India | 927 | 935 | 950
-11 | A&N Islands | 957 | 965 | 981
-12 | Andhra Pradesh | 961 | 969 | 985
-13 | Arunachal Pradesh | 964 | 972 | 988
-14 | Assam | 965 | 973 | 989
-15 | Bihar | 942 | 950 | 965
-16 | Chandigarh | 845 | 875 | 900
-17 | Chhattisgarh | 975 | 983 | 999
-18 | Dadra & Nagar Haveli | 979 | 987 | 999
-19 | Daman & Diu | 926 | 934 | 949
+ | India | 927 | 935 | 950
+1 | A&N Islands | 957 | 965 | 981
+2 | Andhra Pradesh | 961 | 969 | 985
+3 | Arunachal Pradesh | 964 | 972 | 988
+4 | Assam | 965 | 973 | 989
+5 | Bihar | 942 | 950 | 965
+6 | Chandigarh | 845 | 875 | 900
+7 | Chhattisgarh | 975 | 983 | 999
+8 | Dadra & Nagar Haveli | 979 | 987 | 999
+9 | Daman & Diu | 926 | 934 | 949
 10 | Delhi | 868 | 875 | 900
 11 | Goa | 938 | 946 | 961
 12 | Gujarat | 883 | 891 | 905
@@ -5990,9 +6434,7 @@ India | 927 | 935 | 950
 34 | Uttarakhand | 908 | 916 | 931
 35 | WB | 960 | 968 | 984
 
-### ANNEXURE 3.1.5 Sex Ratio (0-6 Years) (India and States/UTs)
-
-Source: Curent Level, Census 2001.
+Source: Current Level, Census 2001.
 
 [[END OF PAGE 139]]
 
@@ -6002,22 +6444,22 @@ Health and Family Welfare and AYUSH
 
 123
 
-### ANNEXURE 3.1.6 Infant Mortality Rate-India and States/UTs
+### ANNEXURE 3.1.6 Infant Mortality Rate—India and States/UTs
 
 (per 1000 live births)
 
-lS. No. | Current Level | Eleventh Five Year Plan Goal
+S. No. | State/UT | Current Level | Eleventh Five Year Plan Goal
 --- | --- | --- | ---
-India | 58 | 28
-11 | Andhra Pradesh | 57 | 28
-12 | Assam | 68 | 33
-13 | Bihar | 61 | 29
-14 | Chhattisgarh | 63 | 30
-15 | Delhi | 35 | 17
-16 | Gujarat | 54 | 26
-17 | Haryana | 60 | 29
-18 | J&K | 50 | 24
-19 | Jharkhand | 50 | 24
+ | India | 58 | 28
+1 | Andhra Pradesh | 57 | 28
+2 | Assam | 68 | 33
+3 | Bihar | 61 | 29
+4 | Chhattisgarh | 63 | 30
+5 | Delhi | 35 | 17
+6 | Gujarat | 54 | 26
+7 | Haryana | 60 | 29
+8 | J&K | 50 | 24
+9 | Jharkhand | 50 | 24
 10 | Karnataka | 50 | 24
 11 | Kerala | 14 | 7
 12 | MP | 76 | 37
@@ -6045,7 +6487,7 @@ India | 58 | 28
 34 | Lakshadweep | 22 | 11
 35 | Pondicherry | 28 | 14
 
-Source: Current level-SRS Bulletin, Vol. 41, No. 1, October 2006.
+Source: Current level—SRS Bulletin, Vol. 41, No. 1, October 2006.
 
 [[END OF PAGE 140]]
 
@@ -6055,18 +6497,20 @@ Source: Current level-SRS Bulletin, Vol. 41, No. 1, October 2006.
 
 Eleventh Five Year Plan
 
+### ANNEXURE 3.1.7 Total Fertility Rate—India and Major States
+
 S. No. | State | Current Level | Eleventh Five Year Plan Goal
 --- | --- | --- | ---
-India | 2.9 | 2.1
-11 | Andhra Pradesh | 2.1 | 1.8
-12 | Assam | 2.9 | 2.3
-13 | Bihar | 4.3 | 3.0
-14 | Chhattisgarh | 3.3 | 2.4
-15 | Delhi | 2.1 | 1.8
-16 | Gujarat | 2.8 | 2.2
-17 | Haryana | 3.0 | 1.9
-18 | Himachal Pradesh | 2.1 | 1.8
-19 | J&K | 2.4 | 2.0
+ | India | 2.9 | 2.1
+1 | Andhra Pradesh | 2.1 | 1.8
+2 | Assam | 2.9 | 2.3
+3 | Bihar | 4.3 | 3.0
+4 | Chhattisgarh | 3.3 | 2.4
+5 | Delhi | 2.1 | 1.8
+6 | Gujarat | 2.8 | 2.2
+7 | Haryana | 3.0 | 1.9
+8 | Himachal Pradesh | 2.1 | 1.8
+9 | J&K | 2.4 | 2.0
 10 | Jharkhand | 3.5 | 2.5
 11 | Karnataka | 2.3 | 1.8
 12 | Kerala | 1.7 | 1.7
@@ -6079,22 +6523,20 @@ India | 2.9 | 2.1
 19 | UP | 4.4 | 3.0
 20 | WB | 2.2 | 1.8
 
-### ANNEXURE 3.1.7 Total Fertility Rate-India and Major States
-
 Note: Figures for other States are not available.
 
-Source: Current level-Statistical Report, RGI (2004).
-
-S. no. | Ministry/ Department | No. of Schemes Towards the End of Tenth Plan | Weeded/Transferred Towards the End of Tenth Plan | To be Continued During Eleventh Five Year Plan | New Schemes During Eleventh Five Year Plan | Total Schemes During Eleventh Five Year Plan
---- | --- | --- | --- | --- | --- | ---
-Central Sector Schemes (CS)
-1 | Health | 49 | 3 | 6 ( Ongoing Schemes clubbed as 6 Schemes) | 6 | 12
-2 | Family Welfare | 14 | Nil | - (Ongoing Schemes clubbed with above)
-Centrally Sponsored Schemes (CSS)
-1 | Health | 14 | 3 | 6 (Ongoing Schemes merged into 6 Schemes) | 7 | 13
-2 | Family Welfare | 14 | 1 | - (Ongoing Schemes merged with above)
+Source: Current level—Statistical Report, RGI (2004).
 
 ### ANNEXURE 3.1.8 Schemes under Health and Family Welfare
+
+S. no. | Ministry/Department | No. of Schemes Towards the End of Tenth Plan | Weeded/Transferred Towards the End of Tenth Plan | To be Continued During Eleventh Five Year Plan | New Schemes During Eleventh Five Year Plan | Total Schemes During Eleventh Five Year Plan
+--- | --- | --- | --- | --- | --- | ---
+ | Central Sector Schemes (CS) |  |  |  |  | 
+1 | Health | 49 | 3 | 6 (Ongoing Schemes clubbed as 6 Schemes) | 6 | 12
+2 | Family Welfare | 14 | Nil | – (Ongoing Schemes clubbed with above) |  | 
+ | Centrally Sponsored Schemes (CSS) |  |  |  |  | 
+1 | Health | 14 | 3 | 6 (Ongoing Schemes merged into 6 Schemes) | 7 | 13
+2 | Family Welfare | 14 | 1 | – (Ongoing Schemes merged with above) |  | 
 
 [[END OF PAGE 141]]
 
@@ -6104,19 +6546,19 @@ Health and Family Welfare and AYUSH
 
 125
 
-S. No. | States/UTs & others | Ayurveda | Unani | Siddha | Yoga | Naturo- pathy | Homoeo- pathy | Total
+### ANNEXURE 3.2.1 State-wise/System-wise Number of AYUSH Hospitals with their Bed Strength in India as on 1.4.2007
+
+S. No. | States/UTs & others | Ayurveda Hosp. | Ayurveda Beds | Unani Hosp. | Unani Beds | Siddha Hosp. | Siddha Beds | Yoga Hosp. | Yoga Beds | Naturopathy Hosp. | Naturopathy Beds | Homoeopathy Hosp. | Homoeopathy Beds | Total Hosp. | Total Beds
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Hosp. | Beds | Hosp. | Beds | Hosp. | Beds | Hosp. | Beds | Hosp. | Beds | Hosp. | Beds | Hosp. | Beds
-(1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) | (13) | (14) | (15) | (16)
-11 | Andhra Pradesh | 9 | 584 | 6 | 310 | 0 | 0 | 0 | 0 | 1 | 120 | 6 | 300 | 22 | 1314
-12 | Arunachal Pradesh | 1 | 10 | 0 | 0 | 0 | 0 | 1 | 10 | 0 | 0 | 1 | 50 | 3 | 70
-13 | Assam | 1 | 100 | 0 | 0 | 0 | 0 | 1 | 25 | 0 | 0 | 3 | 105 | 5 | 230
-14 | Bihar | 11 | 1356 | 4 | 459 | 0 | 0 | 0 | 0 | 0 | 0 | 11 | 510 | 26 | 2325
-15 | Chhattisgarh | 8 | 365 | 1 | 90 | 0 | 0 | 0 | 0 | 1 | 50 | 3 | 100 | 13 | 605
-16 | Delhi | 10 | 643 | 2 | 111 | 0 | 0 | 2 | 65 | 4 | 125 | 2 | 150 | 20 | 1094
-17 | Goa | 1 | 40 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 25 | 2 | 65
-18 | Gujarat | 48 | 1855 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14 | 873 | 62 | 2728
-19 | Haryana | 8 | 835 | 1 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 50 | 10 | 895
+1 | Andhra Pradesh | 9 | 584 | 6 | 310 | 0 | 0 | 0 | 0 | 1 | 120 | 6 | 300 | 22 | 1314
+2 | Arunachal Pradesh | 1 | 10 | 0 | 0 | 0 | 0 | 1 | 10 | 0 | 0 | 1 | 50 | 3 | 70
+3 | Assam | 1 | 100 | 0 | 0 | 0 | 0 | 1 | 25 | 0 | 0 | 3 | 105 | 5 | 230
+4 | Bihar | 11 | 1356 | 4 | 459 | 0 | 0 | 0 | 0 | 0 | 0 | 11 | 510 | 26 | 2325
+5 | Chhattisgarh | 8 | 365 | 1 | 90 | 0 | 0 | 0 | 0 | 1 | 50 | 3 | 100 | 13 | 605
+6 | Delhi | 10 | 643 | 2 | 111 | 0 | 0 | 2 | 65 | 4 | 125 | 2 | 150 | 20 | 1094
+7 | Goa | 1 | 40 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 25 | 2 | 65
+8 | Gujarat | 48 | 1855 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14 | 873 | 62 | 2728
+9 | Haryana | 8 | 835 | 1 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 50 | 10 | 895
 10 | Himachal Pradesh | 24 | 420 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 10 | 1 | 25 | 26 | 455
 11 | J&K | 2 | 155 | 3 | 200 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 355
 12 | Jharkhand | 1 | 160 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 82 | 3 | 242
@@ -6139,22 +6581,18 @@ Hosp. | Beds | Hosp. | Beds | Hosp. | Beds | Hosp. | Beds | Hosp. | Beds | Hosp.
 29 | WB | 4 | 409 | 1 | 60 | 0 | 0 | 0 | 0 | 0 | 0 | 12 | 630 | 17 | 1099
 30 | A&N Islands | 1 | 10 | 1 | 5 | 1 | 5 | 0 | 0 | 0 | 0 | 1 | 10 | 4 | 30
 31 | Chandigarh | 1 | 120 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 25 | 2 | 145
-32 | Dadra & Nagar Haveli | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+32 | Dadra & Nagar Haveli | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 33 | Daman & Diu | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-34 | Lakshadweep | 0 | 0 | 0 | 0 | 0 | 0 | 0 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+34 | Lakshadweep | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 35 | Puducherry | 1 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 10
 36 | CGHS | 1 | 25 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 25
-24 | 0 | 0 | 0 | 44 | 1050
-37 38 | Research Council Ministry of Railways | 0 | 600 0 | 12 0 | 280 0 | 2 | 85 0 | 0 0 | 0 0 | 0 0 | 0 0 | 6 | 85 | 0 | 0 0
-39 | Ministry of Labour | 0 | 0 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 0 | 0 0 | 0 | 0
-40 | Ministry of Coal | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-Total | 2398 | 42963 268 | 4489 | 281 | 2401 | 8 | 135 | 18 | 722 | 230 | 10851 | 3203 | 61561
+37 | Research Council | 24 | 600 | 12 | 280 | 2 | 85 | 0 | 0 | 0 | 0 | 6 | 85 | 44 | 1050
+38 | Ministry of Railways | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+39 | Ministry of Labour | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+40 | Ministry of Coal | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Total |  | 2398 | 42963 | 268 | 4489 | 281 | 2401 | 8 | 135 | 18 | 722 | 230 | 10851 | 3203 | 61561
 
-### ANNEXURE 3.2.1 State-wise/System-wise Number of AYUSH Hospitals with their Bed Strength in India as on 1.4.2007
-
-Note:
-
-Figures are provisional; Hosp. = Hospitals.
+Note: Figures are provisional; Hosp. = Hospitals.
 
 Source: State governments and certain Central Government organizations.
 
@@ -6166,56 +6604,53 @@ Source: State governments and certain Central Government organizations.
 
 Eleventh Five Year Plan
 
-S.No. | States/UTs and Others | Ayurveda | Unani | Siddha | Yoga | Naturopathy | Homoeopathy | Total
---- | --- | --- | --- | --- | --- | --- | --- | ---
-(1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9)
-11 | Andhra Pradesh | 620 | 193 | - | - | - | 283 | 1096
-12 | Arunachal Pradesh | 2 | - | - | 1 | - | 44 | 47
-13 | Assam | 380 | 1 | - | 25 | 2 | 75 | 483
-14 | Bihar | 311 | 144 | - | - | - | 179 | 634
-15 | Chhattisgarh | 634 | 6 | - | - | - | 52 | 692
-16 | Delhi | 148 | 25 | - | 4 | 2 | 98 | 277
-17 | Goa | 11 | - | - | - | 3 | 14
-18 | Gujarat | 501 | - | - | 1 | 8 | 216 | 726
-19 | Haryana | 472 | 19 | - | - | - | 20 | 511
-10 | Himachal Pradesh | 1105 | 3 | - | - | - | 14 | 1122
-11 | J&K | 273 | 235 | - | - | - | 0 | 508
-12 | Jharkhand | 122 | 30 | - | - | - | 54 | 206
-13 | Karnataka | 589 | 51 | - | - | 5 | 42 | 687
-14 | Kerala | 740 | 1 | 6 | - | - | 580 | 1327
-15 | MP | 1427 | 50 | - | - | - | 146 | 1623
-16 | Maharashtra | 490 | 25 | - | - | 1 | 0 | 516
-17 | Manipur | 0 | - | - | - | - | 9 | 9
-18 | Meghalaya | 12 | - | - | - | - | 10 | 22
-19 | Mizoram | 0 | - | - | - | - | 1 | 1
-20 | Nagaland | - | - | - | - | - | - | 0
-21 | Orissa | 624 | 9 | - | 35 | 30 | 603 | 1301
-22 | Punjab | 507 | 35 | - | 1 | - | 107 | 650
-23 | Rajasthan | 3496 | 92 | - | 4 | 147 | 3739
-24 | Sikkim | 1 | - | - | - | - | 1 | 2
-25 | Tamil Nadu | 32 | 21 | 435 | 1 | 1 | 43 | 533
-26 | Tripura | 55 | - | - | - | - | 93 | 148
-27 | UP | 340 | 49 | - | - | - | 1482 | 1871
-28 | Uttrakhand | 467 | 3 | - | - | - | 60 | 530
-29 | WB | 295 | 3 | - | - | - | 1220 | 1518
-30 | A&N Islands | 1 | - | - | - | - | 8 | 9
-31 | Chandigarh | 6 | - | - | - | - | 5 | 11
-32 | Dadra & Nagar Haveli | 3 | - | - | - | - | 1 | 4
-33 | Daman & Diu | 1 | - | - | - | - | - | 1
-34 | Lakshadweep | 2 | - | - | - | - | 1 | 3
-35 | Puducherry | 16 | - | 16 | - | - | 7 | 39
-36 | CGHS | 31 | 9 | 2 | 3 | 3 | 34 | 82
-37 | Research Council | 6 | 5 | 2 | - | - | 40 | 53
-38 | Ministry of Railways | 39 | - | - | - | - | 129 | 168
-39 | Ministry of Labour | 127 | 1 | 3 | - | - | 29 | 160
-40 | Ministry of Coal | 28 | - | - | - | - | - | 28
-Total | 13914 | 1010 | 464 | 71 | 56 | 5836 | 21351
-
 ### ANNEXURE 3.2.2 State-Wise/System-wise Number of AYUSH Dispensaries in India as on 1.4.2007
 
-Note:
+S. No. | States/UTs and Others | Ayurveda | Unani | Siddha | Yoga | Naturopathy | Homoeopathy | Total
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+1 | Andhra Pradesh | 620 | 193 | – | – | – | 283 | 1096
+2 | Arunachal Pradesh | 2 | – | – | 1 | – | 44 | 47
+3 | Assam | 380 | 1 | – | 25 | 2 | 75 | 483
+4 | Bihar | 311 | 144 | – | – | – | 179 | 634
+5 | Chhattisgarh | 634 | 6 | – | – | – | 52 | 692
+6 | Delhi | 148 | 25 | – | 4 | 2 | 98 | 277
+7 | Goa | 11 | – | – | – | – | 3 | 14
+8 | Gujarat | 501 | – | – | 1 | 8 | 216 | 726
+9 | Haryana | 472 | 19 | – | – | – | 20 | 511
+10 | Himachal Pradesh | 1105 | 3 | – | – | – | 14 | 1122
+11 | J&K | 273 | 235 | – | – | – | 0 | 508
+12 | Jharkhand | 122 | 30 | – | – | – | 54 | 206
+13 | Karnataka | 589 | 51 | – | – | 5 | 42 | 687
+14 | Kerala | 740 | 1 | 6 | – | – | 580 | 1327
+15 | MP | 1427 | 50 | – | – | – | 146 | 1623
+16 | Maharashtra | 490 | 25 | – | – | 1 | 0 | 516
+17 | Manipur | 0 | – | – | – | – | 9 | 9
+18 | Meghalaya | 12 | – | – | – | – | 10 | 22
+19 | Mizoram | 0 | – | – | – | – | 1 | 1
+20 | Nagaland | – | – | – | – | – | – | 0
+21 | Orissa | 624 | 9 | – | 35 | 30 | 603 | 1301
+22 | Punjab | 507 | 35 | – | 1 | – | 107 | 650
+23 | Rajasthan | 3496 | 92 | – | 4 | – | 147 | 3739
+24 | Sikkim | 1 | – | – | – | – | 1 | 2
+25 | Tamil Nadu | 32 | 21 | 435 | 1 | 1 | 43 | 533
+26 | Tripura | 55 | – | – | – | – | 93 | 148
+27 | UP | 340 | 49 | – | – | – | 1482 | 1871
+28 | Uttrakhand | 467 | 3 | – | – | – | 60 | 530
+29 | WB | 295 | 3 | – | – | – | 1220 | 1518
+30 | A&N Islands | 1 | – | – | – | – | 8 | 9
+31 | Chandigarh | 6 | – | – | – | – | 5 | 11
+32 | Dadra & Nagar Haveli | 3 | – | – | – | – | 1 | 4
+33 | Daman & Diu | 1 | – | – | – | – | – | 1
+34 | Lakshadweep | 2 | – | – | – | – | 1 | 3
+35 | Puducherry | 16 | – | 16 | – | – | 7 | 39
+36 | CGHS | 31 | 9 | 2 | 3 | 3 | 34 | 82
+37 | Research Council | 6 | 5 | 2 | – | – | 40 | 53
+38 | Ministry of Railways | 39 | – | – | – | – | 129 | 168
+39 | Ministry of Labour | 127 | 1 | 3 | – | – | 29 | 160
+40 | Ministry of Coal | 28 | – | – | – | – | – | 28
+Total |  | 13914 | 1010 | 464 | 71 | 56 | 5836 | 21351
 
-Figures are provisional; - = Nil.
+Note: Figures are provisional; – = Nil.
 
 Source: State governments and certain Central Government organizations.
 
@@ -6227,36 +6662,37 @@ Health and Family Welfare and AYUSH
 
 127
 
-(Rs in crore)
---- | --- | --- | --- | ---
-S. | Name of Scheme | 2002-07 Tenth Plan | 2002-07 Sum of | 2002-07 Sum of Actual Expenditure
-No. 1 | 2 | Approved Outlay 3 | Annual Outlay 4 | 5
-11 | Development of Institutions | 120.00 | 155.72 | 120.81
-12 | Hospitals and Dispensaries | 59.00 | 243.85 | 310.15
-13 | Drugs Quality Control | 45.40 | 43.56 | 56.67
-Total CSS | 224.40 | 443.13 | 487.63
-11 | Strengthening of Department of AYUSH | 22.50 | 28.56 | 27.02
-12 | Statutory Institutions | 2.65 | 2.75 | 0.69
-13 | Hospitals and Dispensaries | 28.94 | 61.69 | 15.72
-14 | Strengthening of Pharmacopoeial Laboratories | 26.50 | 36.17 | 9.97
-15 | IEC | 19.00 | 18.71 | 19.27
-16 | Educational Institutions | 116.50 | 147.75 | 125.18
-17 | Research Councils | 140.50 | 206.78 | 195.64
-18 | Medicinal Plants | 93.50 | 134.21 | 141.47
-19 | Other Programmes and Schemes | 100.46 | 134.20 | 6.95
-10 | New Initiatives | 0.05 | 0.05 | 0.01
-Total CS | 550.60 | 770.87 | 541.92
-Total: (CSS + CS) | 775.00 | 1214.00 | 1029.55
+### ANNEXURE 3.2.3 Department of AYUSH—Scheme-wise Tenth Plan Outlay and Expenditure
 
-### ANNEXURE 3.2.3 Department of AYUSH-Scheme-wise Tenth Plan Outlay and Expenditure
+(Rs in crore)
+
+S. No. | Name of Scheme | 2002–07 Tenth Plan Approved Outlay | 2002–07 Sum of Annual Outlay | 2002–07 Sum of Actual Expenditure
+--- | --- | --- | --- | ---
+1 | 2 | 3 | 4 | 5
+1 | Development of Institutions | 120.00 | 155.72 | 120.81
+2 | Hospitals and Dispensaries | 59.00 | 243.85 | 310.15
+3 | Drugs Quality Control | 45.40 | 43.56 | 56.67
+ | Total CSS | 224.40 | 443.13 | 487.63
+1 | Strengthening of Department of AYUSH | 22.50 | 28.56 | 27.02
+2 | Statutory Institutions | 2.65 | 2.75 | 0.69
+3 | Hospitals and Dispensaries | 28.94 | 61.69 | 15.72
+4 | Strengthening of Pharmacopoeial Laboratories | 26.50 | 36.17 | 9.97
+5 | IEC | 19.00 | 18.71 | 19.27
+6 | Educational Institutions | 116.50 | 147.75 | 125.18
+7 | Research Councils | 140.50 | 206.78 | 195.64
+8 | Medicinal Plants | 93.50 | 134.21 | 141.47
+9 | Other Programmes and Schemes | 100.46 | 134.20 | 6.95
+10 | New Initiatives | 0.05 | 0.05 | 0.01
+ | Total CS | 550.60 | 770.87 | 541.92
+ | Total: (CSS + CS) | 775.00 | 1214.00 | 1029.55
 
 ### ANNEXURE 3.2.4 Schemes under Department of AYUSH
 
-S. No. | Ministry/ Department | Number of Schemes towards the end of Tenth Plan | Weeded/ Transferred towards the end of Tenth Plan | To be continued during Eleventh Plan | New Schemes during Eleventh Plan | Total Schemes during Eleventh Plan
+S. No. | Ministry/Department | Number of Schemes towards the end of Tenth Plan | Weeded/Transferred towards the end of Tenth Plan | To be continued during Eleventh Plan | New Schemes during Eleventh Plan | Total Schemes during Eleventh Plan
 --- | --- | --- | --- | --- | --- | ---
-Central Sector Schemes (CS)
-1 | AYUSH | 10 | 0 | 5 | 3 | 8
-Centrally Sponsored Schemes (CSS)
+ | Central Sector Schemes (CS) |  |  |  |  | 
+1 | AYUSH | 10 | 0 | 5 (Ongoing Schemes clubbed as 5 Schemes) | 3 | 8
+ | Centrally Sponsored Schemes (CSS) |  |  |  |  | 
 1 | AYUSH | 3 | 0 | 1 (Ongoing Schemes merged into 1 Scheme) | 2 | 3
 
 [[END OF PAGE 144]]
@@ -6281,7 +6717,7 @@ Centrally Sponsored Schemes (CSS)
 
 #### Some Conceptual Issues
 
-4.1.4 Malnutrition reflects an imbalance of both macro and micro-nutrients that may be due to inappropriate intake and/or inefficient biological utilization due to the internal/external environment. Poor feeding practices in infancy and early childhood, resulting in malnutrition, contribute to impaired cognitive and social development, poor school performance, and reduced productivity in later life. Malnutrition therefore is a major threat to social and economic development as it is among the most serious obstacles to attaining and maintaining health of this important age group.
+4.1.4 Malnutrition reflects an imbalance of both macro and micro-nutrients that may be due to inappropriate intake and/or inefficient biological utilization due to the internal/external environment. Poor feeding practices
 
 [[END OF PAGE 145]]
 
@@ -6291,11 +6727,13 @@ Nutrition and Social Safety Net
 
 129
 
-- 4.1.5 When poor nutrition starts in utero, it extends throughout the life cycle, particularly in girls and women. This not only amplifies the risks to the individual's health but also increases the likelihood of damage to future generations, through further foetal retardation. Low birth weight increases the risk of infant and child mortality and those who survive are usually undernourished, fall ill frequently, and fail to develop optimally, both physically and mentally. Further, undernourished adults are functionally impaired and unable to sustain productive physical activity throughout the day. Nutrition-related disabilities, such as memory disturbances, osteoporosis, etc., are found among elderly.
+in infancy and early childhood, resulting in malnutrition, contribute to impaired cognitive and social development, poor school performance, and reduced productivity in later life. Malnutrition therefore is a major threat to social and economic development as it is among the most serious obstacles to attaining and maintaining health of this important age group.
 
-- 4.1.6 When nutritional needs are not met, recovery from an illness also takes longer. Malnutrition is also linked to the growing HIV/AIDS pandemic. Malnutrition  makes adults more susceptible to the virus. Inadequate infant feeding aggravates its transmission from mother to child; and evidence suggests that malnutrition makes ARV drugs less effective. In addition,  good nutrition can help to extend the period when the person with HIV/AIDS is well and working. There are also new dimensions to the malnutrition problem. The epidemic of obesity and diet-related NCDs is spreading in India slowly but steadily. India is beginning to suffer from a double burden of  undernutrition and obesity. This phenomenon, called 'nutrition transition' , means that the national health systems now have to cope with the high cost of treating diet-related NCDs and at the same time, fight under nutrition and the traditional communicable diseases.
+4.1.5 When poor nutrition starts in utero, it extends throughout the life cycle, particularly in girls and women. This not only amplifies the risks to the individual’s health but also increases the likelihood of damage to future generations, through further foetal retardation. Low birth weight increases the risk of infant and child mortality and those who survive are usually undernourished, fall ill frequently, and fail to develop optimally, both physically and mentally. Further, undernourished adults are functionally impaired and unable to sustain productive physical activity throughout the day. Nutrition-related disabilities, such as memory disturbances, osteoporosis, etc., are found among elderly.
 
-- 4.1.7 Therefore the challenges that still remains include:
+4.1.6 When nutritional needs are not met, recovery from an illness also takes longer. Malnutrition is also linked to the growing HIV/AIDS pandemic. Malnutrition makes adults more susceptible to the virus. Inadequate infant feeding aggravates its transmission from mother to child; and evidence suggests that malnutrition makes ARV drugs less effective. In addition, good nutrition can help to extend the period when the person with HIV/AIDS is well and working. There are also new dimensions to the malnutrition problem. The epidemic of obesity and diet-related NCDs is spreading in India slowly but steadily. India is beginning to suffer from a double burden of undernutrition and obesity. This phenomenon, called ‘nutrition transition’, means that the national health systems now have to cope with the high cost of treating diet-related NCDs and at the same time, fight under nutrition and the traditional communicable diseases.
+
+4.1.7 Therefore the challenges that still remains include:
 
 - High levels of adult malnutrition affecting a third of the country's adults,
 
@@ -6311,11 +6749,11 @@ Nutrition and Social Safety Net
 
 #### Empirical Evidence
 
-- 4.1.8 The absolute weights and heights of Indians on average have not shown significant improvement over the last 25 years. A staggering percentage of babies in India are born with LBW, a problem that began in utero. A mean deficit of 1.4 to 1.6 kg in weight at one year worsens to a deficit of about 9 kg at 10 years and 13-18 kg when adults. A similar trend is seen in the case of heights (where a deficit of 1cm at 1 year reaches 12-13 cm when adult). It is therefore, not surprising that about half of children are under weight (moderate to severe under nutrition) or are stunted. There are no differences in the nutritional status between girls and boys; however, the mean heights and weights of children from SC/ST and other marginalized sections are below the national mean values. In addition, about 30% of all adults have BMI<18.5 (33% of women and 28% of men), which defines adult malnutrition.
+4.1.8 The absolute weights and heights of Indians on average have not shown significant improvement over the last 25 years. A staggering percentage of babies in India are born with LBW, a problem that began in utero. A mean deficit of 1.4 to 1.6 kg in weight at one year worsens to a deficit of about 9 kg at 10 years and 13–18 kg when adults. A similar trend is seen in the case of heights (where a deficit of 1cm at 1 year reaches 12–13 cm when adult). It is therefore, not surprising that about half of children are under weight (moderate to severe under nutrition) or are stunted. There are no differences in the nutritional status between girls and boys; however, the mean heights and weights of children from SC/ST and other marginalized sections are below the national mean values. In addition, about 30% of all adults have BMI<18.5 (33% of women and 28% of men), which defines adult malnutrition.
 
-- 4.1.9 Some of the reasons for this grim picture in India are as follows: With a 500-600 kcal deficit in energy intake (almost 40% of their requirement) and multiple nutrient deficiencies such as fat, calcium, iron, riboflavin, vitamin C (all 50% deficit), and vitamin A (70% deficit), it is not surprising that there is massive inadequacy/hunger leading to malnutrition in children and adolescents. Studies from 10 States show that less than 30% of children have protein-calorie adequacy (Table 4.1.1).
+4.1.9 Some of the reasons for this grim picture in India are as follows: With a 500–600 kcal deficit in energy intake (almost 40% of their requirement) and multiple nutrient deficiencies such as fat, calcium, iron, riboflavin, vitamin C (all 50% deficit), and vitamin A (70% deficit), it is not surprising that there is massive inadequacy/hunger leading to malnutrition in children and adolescents. Studies from 10 States show that less than 30% of children have protein-calorie adequacy (Table 4.1.1).
 
-- 4.1.10 On further scrutiny of the diet surveys, it is obvious that over 70 to 80% of the calories consumed by the children (even though inadequate) are derived from cereals and pulses. This results in two things:
+4.1.10 On further scrutiny of the diet surveys, it is obvious that over 70 to 80% of the calories consumed by the children (even though inadequate) are derived from cereals and pulses. This results in two things:
 
 (i) Children cannot consume more cereals to make up for the calorie deficiency because of its sheer monotony and lack of energy density.
 
@@ -6333,17 +6771,18 @@ TABLE 4.1.1 Distribution of Children by Protein-calorie Adequacy Status
 
 (%)
 
-Age (yrs) | %
---- | ---
-1-3 | 31.8
-4-6 | 28.2
-7-9 | 28.1
-10-12 | 26.0 32.9
-13-15 | 34.7 43.1
-16-17 | 50.2 64.0
-Adult Sedentary | Men-68.8 Women-81.8
-Pregnant Women | 64.3
-Lactation Women | 62.2
+Age (yrs) | % | %
+--- | --- | ---
+ | Boys | Girls
+1–3 | 31.8 | 
+4–6 | 28.2 | 
+7–9 | 28.1 | 
+10–12 | 26.0 | 32.9
+13–15 | 34.7 | 43.1
+16–17 | 50.2 | 64.0
+Adult Sedentary | Men—68.8 | Women—81.8
+Pregnant Women | 64.3 | 
+Lactation Women | 62.2 | 
 
 Source: National Nutrition Monitoring Bureau (NNMB) Reports 2002.
 
@@ -6351,44 +6790,43 @@ iron deficiency anaemia (IDA), further worsens their appetite.
 
 4.1.11 Therefore in the absence of foods other than cereals  and  pulses  in  the  diets  of  children  and  the inability of children in the age groups of (1-18 years)
 
-to derive and satisfy their protein-calorie and other nutrient needs from cereals, the malnutrition scenario can only get worse. Even fats that provide energy density in the diets are not available in adequate quantities (normally fats should provide 30-40% of calorie needs). It is therefore not surprising that there is massive hunger leading to multiple nutrient deficiencies. This is not hidden hunger; it is hunger for nutrientrich foods.
+to derive and satisfy their protein-calorie and other nutrient needs from cereals, the malnutrition scenario can only get worse. Even fats that provide energy density in the diets are not available in adequate quantities (normally fats should provide 30–40% of calorie needs). It is therefore not surprising that there is massive hunger leading to multiple nutrient deficiencies. This is not hidden hunger; it is hunger for nutrient-rich foods.
 
 ### TRENDS IN ALL-INDIA PATTERN OF CONSUMPTION FOOD EXPENDITURE SINCE 1972-73
 
 4.1.12 Per capita cereal consumption of the Indian population has been declining in both rural and urban areas over the past  two or  three  decades. Table 4.1.2 gives per capita quantity of cereal consumption per month in 15 major States as estimated from the 50th (1993-94), 55th (1999-2000), and 61st (2004-05) rounds of NSS, (Ministry of Statistics and Programme Implementation, GoI). It shows that the decline is spread over all the major States
 
-Year | RURAL Monthly per capita cereal consumption (kg.) in
+TABLE 4.1.2 Changes in Average per capita Cereal Consumption in 15 States in Physical Terms over the Last Decade in Major States
+
+RURAL
+
+Year | AP | ASM | BHR* | GUJ | HAR | KTK | KRL | MP#
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-AP | ASM | BHR* | GUJ | HAR | KTK | KRL | MP#
-1993-94 | 13.3 | 13.2 | 14.3 | 10.7 | 12.9 | 13.2 | 10.1 | 14.2
-1999-2000 | 12.65 | 12.63 | 13.75 | 10.19 | 11.37 | 11.53 | 9.89 | 12.94
-2004-05 | 12.07 | 13.04 | 13.08 | 10.07 | 10.66 | 10.73 | 9.53 | 12.16
-MAH | ORS | PUN | RAJ | TN | UP^ | WB | IND
-1993-94 | 11.4 | 15.9 | 10.8 | 14.9 | 11.7 | 13.9 | 15.0 | 13.4
-1999-2000 | 11.32 | 15.09 | 10.58 | 14.19 | 10.66 | 13.62 | 13.59 | 12.72
-2004-05 | 10.50 | 13.98 | 9.92 | 12.68 | 10.89 | 12.87 | 13.18 | 12.12
-
-TABLE 4.1.2 Changes in Average per capita Cereal Consumption in 15 States in Physical T erms over the Last Decade in Major States
-
-Year
-
-AP | ASM | BHR* | GUJ | HAR | KTK | KRL | MP#
+1993–94 | 13.3 | 13.2 | 14.3 | 10.7 | 12.9 | 13.2 | 10.1 | 14.2
+1999–2000 | 12.65 | 12.63 | 13.75 | 10.19 | 11.37 | 11.53 | 9.89 | 12.94
+2004–05 | 12.07 | 13.04 | 13.08 | 10.07 | 10.66 | 10.73 | 9.53 | 12.16
+Year | MAH | ORS | PUN | RAJ | TN | UP^ | WB | IND
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-1993-94 | 11.3 | 12.1 | 12.8 | 9.0 | 10.5 | 10.9 | 9.5 | 11.3
-1999-2000 | 10.94 | 12.26 | 12.70 | 8.49 | 9.36 | 10.21 | 9.25 | 11.09
-2004-05 | 10.51 | 11.92 | 12.21 | 8.29 | 9.15 | 9.71 | 8.83 | 10.63
-MAH | ORS | PUN | RAJ | TN | UP^ | WB | IND
-1993-94 | 9.4 | 13.4 | 9.0 | 11.5 | 10.1 | 11.1 | 11.6 | 10.6
-1999-2000 | 9.35 | 14.51 | 9.21 | 11.56 | 9.65 | 10.79 | 11.17 | 10.42
-2004-05 | 8.39 | 13.11 | 9.01 | 10.84 | 9.48 | 10.94 | 10.39 | 9.94
+1993–94 | 11.4 | 15.9 | 10.8 | 14.9 | 11.7 | 13.9 | 15.0 | 13.4
+1999–2000 | 11.32 | 15.09 | 10.58 | 14.19 | 10.66 | 13.62 | 13.59 | 12.72
+2004–05 | 10.50 | 13.98 | 9.92 | 12.68 | 10.89 | 12.87 | 13.18 | 12.12
 
-URBAN Monthly per capita cereal consumption (kg.) in
+URBAN
 
-Note: *includes Jharkhand;  #  includes Chhattisgarh; ^ includes Uttaranchal
+Year | AP | ASM | BHR* | GUJ | HAR | KTK | KRL | MP#
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+1993–94 | 11.3 | 12.1 | 12.8 | 9.0 | 10.5 | 10.9 | 9.5 | 11.3
+1999–2000 | 10.94 | 12.26 | 12.70 | 8.49 | 9.36 | 10.21 | 9.25 | 11.09
+2004–05 | 10.51 | 11.92 | 12.21 | 8.29 | 9.15 | 9.71 | 8.83 | 10.63
+Year | MAH | ORS | PUN | RAJ | TN | UP^ | WB | IND
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+1993–94 | 9.4 | 13.4 | 9.0 | 11.5 | 10.1 | 11.1 | 11.6 | 10.6
+1999–2000 | 9.35 | 14.51 | 9.21 | 11.56 | 9.65 | 10.79 | 11.17 | 10.42
+2004–05 | 8.39 | 13.11 | 9.01 | 10.84 | 9.48 | 10.94 | 10.39 | 9.94
 
-Source:
+Note: *includes Jharkhand; # includes Chhattisgarh; ^ includes Uttaranchal
 
-NSS 50th, 55th, and 61st Rounds.
+Source: NSS 50th, 55th, and 61st Rounds.
 
 [[END OF PAGE 147]]
 
@@ -6400,42 +6838,40 @@ Nutrition and Social Safety Net
 
 and affects both rural and urban sectors to a similar extent.
 
-4.1.13 In both rural and urban India, the share of food in total expenditure continued to fall throughout the three decades prior to 2004-05. The overall fall was from 73% to 55% in rural areas and from 64.5% to 42% in urban areas (Table 4.1.3). In urban India, not only the shares of cereals and pulses have fallen, but there has been a fall in the shares of other food groups as well, such as milk and milk products, edible oil, and sugar. In rural India, however, the shares of milk and milk products, egg, fish and meat, and fruits and nuts have increased by about 1 percentage point each, the share of vegetables has increased by 2.5 percentage points,  and  that  of  beverages,  refreshments,  and that in Africa on average. In fact, South Asian countries have the world's worst rate of malnutrition, and India's rate of malnutrition is among the worst in South Asia (together with Nepal and Bangladesh). Even the best State in India, Kerala, has a rate of child malnutrition comparable to that for Africa's average rate.
+4.1.13 In both rural and urban India, the share of food in total expenditure continued to fall throughout the three decades prior to 2004–05. The overall fall was from 73% to 55% in rural areas and from 64.5% to 42% in urban areas (Table 4.1.3). In urban India, not only the shares of cereals and pulses have fallen, but there has been a fall in the shares of other food groups as well, such as milk and milk products, edible oil, and sugar. In rural India, however, the shares of milk and milk products, egg, fish and meat, and fruits and nuts have increased by about 1 percentage point each, the share of vegetables has increased by 2.5 percentage points, and that of beverages, refreshments, and processed food has increased by 2 percentage points since 1972–73; only the shares of sugar and pulses (the latter, largely during the last decade) have declined noticeably, apart from cereals. In any case, the increase in the share of non-cereals is not enough to compensate for the decline in cereal consumption.
 
-4.1.15 Even more worrying is the fact that the rate of malnutrition, defined as underweight children relative to an internationally accepted reference population, has not declined significantly over the last decade and a half. In 1992-93 (NFHS-1) it was 54%; in 1998-99 (NFHS-2), it was 46%, and in 2005-06 (NFHS-3) it was 46%-hardly any change over a period in which the economy has been growing at over 6% p.a. on average. Naturally, given the increase in population,
+TABLE 4.1.3 Composition of Food Consumption, All-India, Rural, and Urban, 1972–73 to 2004–05
 
-Sector | Year | % share of major food groups in total expenditure
+Sector | Year | All food | Cereals | Pulses | Milk and milk products | Edible oil | Egg, fish and meat | Vegetables | Fruits and nuts | Sugar | Beverages, etc.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-All food | Cereals | Pulses | Milk and milk products | Edible oil | Egg, fish and meat | Vege- tables | Fruits and nuts | Sugar | Beve- rages, etc.
-Rural | 72-73 | 72.9 | 40.6 | 4.3 | 7.3 | 3.5 | 2.5 | 3.6 | 1.1 | 3.8 | 2.4
-87-88 | 64.0 | 26.3 | 4.0 | 8.6 | 5.0 | 3.3 | 5.2 | 1.6 | 2.9 | 3.9
-93-94 | 63.2 | 24.2 | 3.8 | 9.5 | 4.4 | 3.3 | 6.0 | 1.7 | 3.1 | 4.2
-99-00 | 59.4 | 22.2 | 3.8 | 8.8 | 3.7 | 3.3 | 6.2 | 1.7 | 2.4 | 4.2
-04-05 | 55.0 | 18.0 | 3.1 | 8.5 | 4.6 | 3.3 | 6.1 | 1.9 | 2.4 | 4.5
-Urban | 72-73 | 64.5 | 23.3 | 3.4 | 9.3 | 4.9 | 3.3 | 4.4 | 2.0 | 3.6 | 7.6
-87-88 | 56.4 | 15.0 | 3.4 | 9.5 | 5.3 | 3.6 | 5.3 | 2.5 | 2.4 | 6.8
-93-94 | 54.7 | 14.0 | 3.0 | 9.8 | 4.4 | 3.4 | 5.5 | 2.7 | 2.4 | 7.2
-99-00 | 48.1 | 12.4 | 2.8 | 8.7 | 3.1 | 3.1 | 5.1 | 2.4 | 1.6 | 6.4
-04-05 | 42.5 | 10.1 | 2.1 | 7.9 | 3.5 | 2.7 | 4.5 | 2.2 | 1.5 | 6.2
-
-TABLE 4.1.3 Composition of Food Consumption, All-India, Rural, and Urban, 1972-73 to 2004-05
-
-processed food has increased by 2 percentage points since 1972-73; only the shares of sugar and pulses (the latter,  largely  during  the  last  decade)  have  declined noticeably, apart from cereals. In any case, the increase in the share of non-cereals is not enough to compensate for the decline in cereal consumption.
+Rural | 72–73 | 72.9 | 40.6 | 4.3 | 7.3 | 3.5 | 2.5 | 3.6 | 1.1 | 3.8 | 2.4
+ | 87–88 | 64.0 | 26.3 | 4.0 | 8.6 | 5.0 | 3.3 | 5.2 | 1.6 | 2.9 | 3.9
+ | 93–94 | 63.2 | 24.2 | 3.8 | 9.5 | 4.4 | 3.3 | 6.0 | 1.7 | 3.1 | 4.2
+ | 99–00 | 59.4 | 22.2 | 3.8 | 8.8 | 3.7 | 3.3 | 6.2 | 1.7 | 2.4 | 4.2
+ | 04–05 | 55.0 | 18.0 | 3.1 | 8.5 | 4.6 | 3.3 | 6.1 | 1.9 | 2.4 | 4.5
+Urban | 72–73 | 64.5 | 23.3 | 3.4 | 9.3 | 4.9 | 3.3 | 4.4 | 2.0 | 3.6 | 7.6
+ | 87–88 | 56.4 | 15.0 | 3.4 | 9.5 | 5.3 | 3.6 | 5.3 | 2.5 | 2.4 | 6.8
+ | 93–94 | 54.7 | 14.0 | 3.0 | 9.8 | 4.4 | 3.4 | 5.5 | 2.7 | 2.4 | 7.2
+ | 99–00 | 48.1 | 12.4 | 2.8 | 8.7 | 3.1 | 3.1 | 5.1 | 2.4 | 1.6 | 6.4
+ | 04–05 | 42.5 | 10.1 | 2.1 | 7.9 | 3.5 | 2.7 | 4.5 | 2.2 | 1.5 | 6.2
 
 ### THE PROBLEM WITH CHILD MALNUTRITION
 
-4.1.14 Sixty years after independence, nearly half of India's children under three are malnourished (see Table 4.1.4). India has the largest number of children in the world who are malnourished. Even more significantly, India's rate of malnutrition is worse than Note: Figures  of  NFHS-1  above  are  for  0-4  years.  However, NFHS-1 later generated data for below 3 years children with 51.5% children being underweight.
+4.1.14 Sixty years after independence, nearly half of India’s children under three are malnourished (see Table 4.1.4). India has the largest number of children in the world who are malnourished. Even more significantly, India’s rate of malnutrition is worse than that in Africa on average. In fact, South Asian countries have the world’s worst rate of malnutrition, and India’s rate of malnutrition is among the worst in South Asia (together with Nepal and Bangladesh). Even the best State in India, Kerala, has a rate of child malnutrition comparable to that for Africa’s average rate.
 
-Nutritional | 1992-93 | 1998-99 | 2005-06
+TABLE 4.1.4 Trends in Childhood (0–3 Years of Age)—Malnutrition in India
+
+Nutritional Parameter | 1992–93 NFHS-1 | 1998–99 NFHS-2 | 2005–06 NFHS-3
 --- | --- | --- | ---
-Parameter | NFHS-1 | NFHS-2 | NFHS-3
 Stunted | 52.0 | 45.5 | 38.4
 Wasted | 17.5 | 15.5 | 19.1
 Underweight | 53.4 | 47.0 | 45.9
 
-TABLE 4.1.4 Trends in Childhood (0-3 Years of Age)Malnutrition in India
+Note: Figures of NFHS-1 above are for 0–4 years. However, NFHS-1 later generated data for below 3 years children with 51.5% children being underweight.
 
 Source: NFHS surveys, IIPS, MoHFW, GoI.
+
+4.1.15 Even more worrying is the fact that the rate of malnutrition, defined as underweight children relative to an internationally accepted reference population, has not declined significantly over the last decade and a half. In 1992–93 (NFHS-1) it was 54%; in 1998–99 (NFHS-2), it was 46%, and in 2005–06 (NFHS-3) it was 46%—hardly any change over a period in which the economy has been growing at over 6% p.a. on average. Naturally, given the increase in population,
 
 [[END OF PAGE 148]]
 
@@ -6455,19 +6891,18 @@ the number of malnourished is likely to have actually increased.
 
 4.1.18 In other words, what emerges is that first, per capita availability of cereals has declined, and second, the share of non-cereals in food consumption has not grown to compensate for the decline in cereal availability. Even if the latter has grown there may well be a problem for significant sections of the population who may be feeling the distress caused by falling per capita cereal availability, and who also do not have the purchasing power to diversify their food consumption away from cereals.
 
-4.1.19 In any case, the significant point is that overall per capita intake of calories and protein has declined consistently over a 20-year period from 1983 to 200405,  according to NSS data (see Table 4.1.5). Rural calorie consumption per day has fallen from 2221 to 2047, an 8% decline. Similarly, the urban calorie consumption fell by 3.3%, from 2080 to 2020. The rural protein consumption fell by 8% over the same period and urban consumption remained the same over the 20-year period. Since this data is for households, it does not  capture  the  impact  of  intra-household  food distribution. It is well known that women and girls in poor households receive poorer quality food and less food in a normal, patriarchal household.
-
-Calorie (K cal/day) | Protein (gm/day)
---- | --- | --- | --- | ---
-Rural | Urban | Rural | Urban
-1983 (NSS 38th Round) | 2221 | 2089 | 62.0 | 57.0
-1993-94 (NSS 50th Round) | 2153 | 2071 | 60.2 | 57.2
-1999-2000 (NSS 55th Round) | 2149 | 2156 | 59.1 | 58.5
-2004-05 (NSS 61st Round) | 2047 | 2020 | 57.0 | 57.0
+4.1.19 In any case, the significant point is that overall per capita intake of calories and protein has declined consistently over a 20-year period from 1983 to 2004–05, according to NSS data (see Table 4.1.5). Rural calorie consumption per day has fallen from 2221 to 2047, an 8% decline. Similarly, the urban calorie consumption fell by 3.3%, from 2080 to 2020. The rural protein consumption fell by 8% over the same period and urban consumption remained the same over the 20-year period. Since this data is for households, it does not capture the impact of intra-household food distribution. It is well known that women and girls in poor households receive poorer quality food and less food in a normal, patriarchal household.
 
 TABLE 4.1.5 Per Capita Intake of Calorie and Protein
 
-Source: NSS  Report  No.  513,  Nutritional  Intake  in  India, 2004-05.
+Year | Calorie Rural (K cal/day) | Calorie Urban (K cal/day) | Protein Rural (gm/day) | Protein Urban (gm/day)
+--- | --- | --- | --- | ---
+1983 (NSS 38th Round) | 2221 | 2089 | 62.0 | 57.0
+1993–94 (NSS 50th Round) | 2153 | 2071 | 60.2 | 57.2
+1999–2000 (NSS 55th Round) | 2149 | 2156 | 59.1 | 58.5
+2004–05 (NSS 61st Round) | 2047 | 2020 | 57.0 | 57.0
+
+Source: NSS Report No. 513, Nutritional Intake in India, 2004–05.
 
 4.1.20 So taken together we have a set of overlapping problems in the country. First, the calorie consumption on average in  rural  areas  has  fallen  way  below the  calorie-norm for the rural poverty line (2400 calories). It was lower than that norm 20 years ago and it  has  actually  fallen  since  then  on  average. Similarly, the poverty line threshold for urban areas for calorie consumption is 2100 and urban consumption too was lower on average than the norm two decades ago and has also fallen. It is obvious that the  non-poor consume more calories on average than the poor. Hence, to allow for distributional inequity that prevails in any society, calorie availability  on  average in the country as a whole should be at least 20% higher than the per capita requirement (i.e.  2100  calories  for  urban  and  2400  calories  for rural areas). Even 20 years ago, Indian consumption of calories on average was way below the requirements. So inevitably the poor, let alone the extremely poor, were and still are consuming calories that are way below the norm. And the intra-household allocation, not just among the poor but also among those who are marginally above the poverty line, is likely to be highly skewed against women and girls. When one combines this fact with the well-known fact (established in repeated NFHS since the early 1990s) that women and girls are less likely to access health services  when  they  fall  sick,  it  is  hardly  surprising that the sex ratio in the population is as low as it is, and falling.
 
@@ -6479,7 +6914,7 @@ Nutrition and Social Safety Net
 
 133
 
-4.1.21 The state of PEM has shown little no or signs of  improvement over several decades. It is in this context  that  the  Minimum Support Price (MSP) and the Public Distribution System (PDS) become significant.
+4.1.21 The state of PEM has shown little or no signs of improvement over several decades. It is in this context that the Minimum Support Price (MSP) and the Public Distribution System (PDS) become significant.
 
 ### MINIMUM SUPPORT PRICE, FOOD PROCUREMENT POLICY, AND THE PUBLIC DISTRIBUTION SYSTEM
 
@@ -6487,7 +6922,7 @@ Nutrition and Social Safety Net
 
 #### Minimum Support Price (MSP)
 
-4.1.23 Foodgrains are procured at the MSP fixed by  the  government  mostly  in  a  small  number  of grain-surplus States in the north of India, which are  then  transported across the country to deficit States  (the  latter  mostly  in  the  south  and  west  of the country). MSPs are fixed on rates recommended by Commission for Agricultural Costs and Prices (CACP), which are set using mainly cost of cultivation.  These grain stocks essentially supply the PDS of the country. Through the PDS, cereals are made available  to  BPL  households,  as  well  as  to  Above Poverty  Line  (APL)  households-at  differential prices.  There  is  a  third  category  of  beneficiariesAntyodaya card  holders. Under the Antyodaya Anna Yojana (AAY), 35 kg of foodgrains are being provided to the poorest of the poor families at the highly subsidized rate of Rs 2 per kg for wheat and Rs 3 per kg for rice.
+4.1.23 Foodgrains are procured at the MSP fixed by the government mostly in a small number of grain-surplus States in the north of India, which are then transported across the country to deficit States (the latter mostly in the south and west of the country). MSPs are fixed on rates recommended by Commission for Agricultural Costs and Prices (CACP), which are set using mainly cost of cultivation. These grain stocks essentially supply the PDS of the country. Through the PDS, cereals are made available to BPL households, as well as to Above Poverty Line (APL) households—at differential prices. There is a third category of beneficiaries—Antyodaya card holders. Under the Antyodaya Anna Yojana (AAY), 35 kg of foodgrains are being provided to the poorest of the poor families at the highly subsidized rate of Rs 2 per kg for wheat and Rs 3 per kg for rice.
 
 4.1.24 During the years of accumulation of stocks in  the  Central  Pool  until  2001-02,  it  was  believed that  excess  procurement  was  on  account  of  the government's decision to fix the MSP for paddy and wheat in excess of the levels prescribed by the CACP. Grain stocks have declined since then.
 
@@ -6495,11 +6930,11 @@ Nutrition and Social Safety Net
 
 4.1.25 Given the limited purchasing power of the poor, there is a need to contain cereal price rises. For this purpose government maintains foodgrains buffer stocks through the Food Corporation of India (FCI). Stocks had reached to 256.17 lakh tonnes (rice) and 324.15 lakh tonnes (wheat) for the year 2001-02. But in 2007, the stocks of these two foodgrains fell to 131.71 lakh tonnes (rice) and 45.63 lakh tonnes (wheat), respectively.
 
-4.1.26 To achieve the cereal price stabilization objective  of  PDS , food stocks with FCI should be at a reasonable level. In recent years, both procurement and stocks with FCI have tended to fall. If the needs of procurement to maintain adequate stocks requires procurement prices to be higher than MSP, a transparent mechanism is needed that enables government to undertake commercial purchases at prices comparable to those paid by private traders. This could be done if  the  procurement price (i.e. MSP plus bonus) was announced at the beginning of the purchase season, along with a procurement target in terms of quantity. After the procurement target was met, the bonus would be suspended. However, if procurement quantities, even with bonus are not met, FCI should be able to tender from both domestic as well as international markets, after standard procurement operations, to make up the deficit to maintain stocks with the FCI.
+4.1.26 To achieve the cereal price stabilization objective of PDS, food stocks with FCI should be at a reasonable level. In recent years, both procurement and stocks with FCI have tended to fall. If the needs of procurement to maintain adequate stocks requires procurement prices to be higher than MSP, a transparent mechanism is needed that enables government to undertake commercial purchases at prices comparable to those paid by private traders. This could be done if the procurement price (i.e. MSP plus bonus) was announced at the beginning of the purchase season, along with a procurement target in terms of quantity. After the procurement target was met, the bonus would be suspended. However, if procurement quantities, even with bonus are not met, FCI should be able to tender from both domestic as well as international markets, after standard procurement operations, to make up the deficit to maintain stocks with the FCI.
 
 #### Decentralized Procurement
 
-4.1.27 Unlike the mid-1990s, cereal procurement was earlier concentrated in a few northern States. However, under the decentralized procurement scheme introduced in 1997-98, the State Governments themselves undertake direct purchase of paddy and wheat and procurement of levy rice on behalf of the GoI. Purchase centres are opened by the State Governments and their agencies as per their requirements. The State Governments procure, store, and distribute foodgrains under Targeted Public Distribution System (TDPS) and other welfare schemes. In the event of the total quantity of wheat and rice thus procured falling short of the total allocation made by the Central Government, FCI meets the deficit out of the Central Pool stocks. Under this scheme, State-specific economic cost is determined by the GoI and the difference between the economic cost so fixed and the central issue prices (CIP) is passed on to the State as food subsidy.
+4.1.27 Unlike the mid-1990s, cereal procurement was earlier concentrated in a few northern States. However, under the decentralized procurement scheme introduced in 1997–98, the State Governments themselves undertake direct purchase of paddy and wheat and procurement of levy rice on behalf of the GoI. Purchase centres are opened by the State Governments and their agencies as per their requirements. The State Governments procure, store, and distribute foodgrains under Targeted Public Distribution System (TDPS) and other welfare schemes. In the event of the total quantity of wheat and rice thus procured falling short of the total allocation made by the Central Government, FCI meets the deficit out of the Central Pool stocks. Under this scheme, State-specific economic cost is determined by the GoI and the difference
 
 [[END OF PAGE 150]]
 
@@ -6509,17 +6944,17 @@ Nutrition and Social Safety Net
 
 Eleventh Five Year Plan
 
-4.1.28 The Decentralized Procurement Scheme, which is  presently in operation in 11 States, has been very successful  in  increasing  procurement  of  rice  in many non-traditional States, as can be seen below in Table 4.1.6.
+between the economic cost so fixed and the central issue prices (CIP) is passed on to the State as food subsidy.
+
+4.1.28 The Decentralized Procurement Scheme, which is presently in operation in 11 States, has been very successful in increasing procurement of rice in many non-traditional States, as can be seen below in Table 4.1.6.
 
 4.1.29 There is a need for States to increase procurement to reduce their requirement of foodgrains from the Central Pool. There is also a need for more States with large production, such as Bihar for wheat and rice and Assam for rice, to adopt the Decentralized Procurement scheme. If this were to happen, there could be a considerable saving in terms of transportation costs.
 
-with higher MSPs declared more recently, there is a danger that the subsidy is likely to rise (see Table 4.1.7) due to increase in MSP, announcement of bonus, and carrying cost of FCI. The Table 4.1.7 gives the figures of food subsidy of the GoI.
+TABLE 4.1.6 Procurement of Rice in DCP States during Kharif Marketing Season
 
-#### Public Distribution System
+(Figures in lakh tonnes)
 
-4.1.32 The PDS is a major State intervention in the country aimed at ensuring food security to all the people, especially the poor. The PDS operates through a  large  distribution  network  of  around  4.89  lakh fair price shops (FPS), and is supplemental in nature. Under the PDS, the Central Government is responsible  for  the  procurement  and  transportation  of foodgrains up to the principal distribution centres of the FCI while the State Governments are responsible for the identification of families living below the
-
-S. No. | State | 2002-03 | 2003-04 | 2004-05 | 2005-06 | 2006-07*
+S. No. | State | 2002–03 | 2003–04 | 2004–05 | 2005–06 | 2006–07*
 --- | --- | --- | --- | --- | --- | ---
 1 | WB | 1.26 | 9.25 | 9.44 | 12.75 | 5.19
 2 | UP | 13.60 | 25.54 | 29.71 | 31.51 | 21.01
@@ -6530,35 +6965,35 @@ S. No. | State | 2002-03 | 2003-04 | 2004-05 | 2005-06 | 2006-07*
 7 | Tamil Nadu | 1.07 | 2.07 | 6.52 | 9.26 | 10.38
 7 | Kerala | - | - | 0.33 | 0.94 | 1.05
 8 | Karnataka | - | - | 0.21 | 0.48 | 0.12
-Total (a) | 40.06 | 77.56 | 94.10 | 108.80 | 78.86
-
-TABLE 4.1.6 Procurement of Rice in DCP States during Kharif Marketing Season
+ | Total (a) | 40.06 | 77.56 | 94.10 | 108.80 | 78.86
 
 Note: *Position as on 19.04.07.
 
 #### Food Subsidy
 
-4.1.30 Food subsidy is provided in the Budget of the Department of Food and Public Distribution to meet the difference between the economic cost of foodgrains procured by FCI and their sales realization at CIP for TPDS and other welfare schemes. In addition, the Central Government also procures foodgrains for meeting the requirements of buffer stock. Hence, part of  the  food  subsidy  also  goes  towards  meeting the carrying cost of buffer stock.
+4.1.30 Food subsidy is provided in the Budget of the Department of Food and Public Distribution to meet the difference between the economic cost of foodgrains procured by FCI and their sales realization at CIP for TPDS and other welfare schemes. In addition, the Central Government also procures foodgrains for meeting the requirements of buffer stock. Hence, part of the food subsidy also goes towards meeting the carrying cost of buffer stock.
 
-4.1.31 The food subsidy bill of the GoI peaked in 2004-05 and declined as stocks declined. However,
+4.1.31 The food subsidy bill of the GoI peaked in 2004–05 and declined as stocks declined. However, with higher MSPs declared more recently, there is a danger that the subsidy is likely to rise (see Table 4.1.7) due to increase in MSP, announcement of bonus, and carrying cost of FCI. The Table 4.1.7 gives the figures of food subsidy of the GoI.
 
-(Figures in lakh tonnes)
+TABLE 4.1.7 Food Subsidy
 
 Year | Food Subsidy (Rs in crore)
 --- | ---
-1996-97 | 5166
-1997-98 | 7500
-1998-99 | 8700
-1999-2000 | 9200
-2000-01 | 12010
-2001-02 | 17494
-2002-03 | 24176
-2003-04 | 25160
-2004-05 | 25746
-2005-06 | 23071
-2006-07 | 23827
+1996–97 | 5166
+1997–98 | 7500
+1998–99 | 8700
+1999–2000 | 9200
+2000–01 | 12010
+2001–02 | 17494
+2002–03 | 24176
+2003–04 | 25160
+2004–05 | 25746
+2005–06 | 23071
+2006–07 | 23827
 
-TABLE 4.1.7 Food Subsidy
+#### Public Distribution System
+
+4.1.32 The PDS is a major State intervention in the country aimed at ensuring food security to all the people, especially the poor. The PDS operates through a large distribution network of around 4.89 lakh fair price shops (FPS), and is supplemental in nature. Under the PDS, the Central Government is responsible for the procurement and transportation of foodgrains up to the principal distribution centres of the FCI while the State Governments are responsible for the identification of families living below the
 
 [[END OF PAGE 151]]
 
@@ -6568,21 +7003,19 @@ Nutrition and Social Safety Net
 
 135
 
-poverty line, the issue of ration cards, and the distribution  of  foodgrains  to  the  vulnerable  sections through FPSs. PDS seems to have failed in serving the second objective of making foodgrains available to the poor. If it had, the consumption levels of cereals should not have fallen on average-as it has consistently over the last two decades.
+poverty line, the issue of ration cards, and the distribution of foodgrains to the vulnerable sections through FPSs. PDS seems to have failed in serving the second objective of making foodgrains available to the poor. If it had, the consumption levels of cereals should not have fallen on average—as it has consistently over the last two decades.
 
-4.1.33 With a view to improving its efficiency, the PDS was redesigned as  TDPS  with  effect  from June 1997. The TPDS envisages identifying the poor households and giving them a fixed entitlement of foodgrains at subsidized prices. Under the TPDS, higher rates of subsidies are being given to the poor and the poorest among the poor. The APL families are  also  being  given  foodgrains  under  TPDS  but with lower subsidy. The scale of issue under TDPS for Antyodaya cardholders began with 10 kg per family  per  month,  which  has  been  progressively increased to 35 kg per family per month with effect from April 2002.
+4.1.33 With a view to improving its efficiency, the PDS was redesigned as TDPS with effect from June 1997. The TPDS envisages identifying the poor households and giving them a fixed entitlement of foodgrains at subsidized prices. Under the TPDS, higher rates of subsidies are being given to the poor and the poorest among the poor. The APL families are also being given foodgrains under TPDS but with lower subsidy. The scale of issue under TDPS for Antyodaya cardholders began with 10 kg per family per month, which has been progressively increased to 35 kg per family per month with effect from April 2002.
 
-beneficiaries was to be limited to the State-wise poverty estimates (1993-94) of the Planning Commission projected to the population as on 1.03.2000. Against a total ceiling of 6.52 crore BPL households (as per the poverty estimates of the Planning Commission for 1993-94 and population projection of the Registrar General as on 01.03.2000), more than 8 crore BPL ration cards have been issued. Similarly against the figure of 18.03 crore households in the country (as per the population projections as on 1.03.2000 of the Registrar  General  of  India),  the  total  number  of ration cards issued is around 22.32 crore. This does raise problems at the field level.
+4.1.34 Under the TPDS, the identification of BPL families was to be carried out by the State Governments based on criteria adopted by the Ministry of Rural Development (MoRD). However, the total number of beneficiaries was to be limited to the State-wise poverty estimates (1993–94) of the Planning Commission projected to the population as on 1.03.2000. Against a total ceiling of 6.52 crore BPL households (as per the poverty estimates of the Planning Commission for 1993–94 and population projection of the Registrar General as on 01.03.2000), more than 8 crore BPL ration cards have been issued. Similarly against the figure of 18.03 crore households in the country (as per the population projections as on 1.03.2000 of the Registrar General of India), the total number of ration cards issued is around 22.32 crore. This does raise problems at the field level.
 
 ##### Major Deficiencies of TPDS
 
-4.1.35 As identified by various studies, the major deficiencies of the TPDS include: (i) high exclusion and inclusion errors, (ii) non-viability of FPSs, (iii) failure in  fulfilling  the  price  stabilization  objective,  and (iv) leakages.
+4.1.35 As identified by various studies, the major deficiencies of the TPDS include: (i) high exclusion and inclusion errors, (ii) non-viability of FPSs, (iii) failure in fulfilling the price stabilization objective, and (iv) leakages.
 
 ###### (I) HIGH EXCLUSION AND INCLUSION ERRORS
 
-4.1.34 Under the TPDS, the identification of BPL families was to be carried out by the State Governments based on criteria adopted by the Ministry of Rural Development (MoRD). However, the total number of
-
-4.1.36 The Programme Evaluation Organization's (PEO's) Study (2005) establishes large-scale exclusion and inclusion errors in most States (see Box 4.1.1). It  also  questions  the  BPL  methodology  used  for
+4.1.36 The Programme Evaluation Organization’s (PEO’s) Study (2005) establishes large-scale exclusion and inclusion errors in most States (see Box 4.1.1). It also questions the BPL methodology used for
 
 ###### Box 4.1.1
 
@@ -6632,7 +7065,7 @@ identification of households at State level. There are two problems here. One is
 
 ###### (III) REGIONAL ALLOCATION AND PRICE STABILIZATION OBJECTIVE
 
-4.1.40 One of the objectives of the PDS has always been to ensure price stabilization in the country by transferring grain from cereals-surplus to cerealsdeficit regions. Targeted PDS has reduced the effectiveness of this objective. This is because under TPDS, the demand for cereals is no longer determined by State Governments (based on their requirements and in practical terms on past utilization) but on allocations decided by the Central Government (based on poverty estimates prepared by the Planning Commission). The new system of allocation, as pointed out by the HLC, has led to imbalances between actual allocations and 'allocations necessary to meet the difference between cereals production and requirement' .
+4.1.40 One of the objectives of the PDS has always been to ensure price stabilization in the country by transferring grain from cereals-surplus to cereals-deficit regions. Targeted PDS has reduced the effectiveness of this objective. This is because under TPDS, the demand for cereals is no longer determined by State Governments (based on their requirements and in practical terms on past utilization) but on allocations decided by the Central Government (based on poverty estimates prepared by the Planning Commission). The new system of allocation, as pointed out by the HLC, has led to imbalances between actual allocations and ‘allocations necessary to meet the difference between cereals production and requirement’.
 
 ###### (IV) LEAKAGES AND DIVERSION
 
@@ -6706,15 +7139,15 @@ Eleventh Five Year Plan
 
 ###### (IV) VILLAGE GRAIN BANK SCHEME
 
-4.1.53 The Village Grain Bank Scheme, which was hitherto with the Ministry of Tribal Affairs, has been transferred to the Department of Food and Public Distribution w.e.f. The objective of the scheme is to establish Grain Banks in chronically food-scarce area and to provide safeguard against starvation during the lean period. The scheme is also to mitigate droughtinduced migration and food shortages by making foodgrains available within the village during such calamities. During 2006-07, there was a budget provision of Rs 50 crore for setting up 8591 Village Grain Banks in food-scarce areas.
+4.1.53 The Village Grain Bank Scheme, which was hitherto with the Ministry of Tribal Affairs, has been transferred to the Department of Food and Public Distribution w.e.f. The objective of the scheme is to establish Grain Banks in chronically food-scarce area and to provide safeguard against starvation during the lean period. The scheme is also to mitigate drought-induced migration and food shortages by making foodgrains available within the village during such calamities. During 2006–07, there was a budget provision of Rs 50 crore for setting up 8591 Village Grain Banks in food-scarce areas.
 
 ##### Further Innovations Needed to Strengthen TPDS and the Way Forward
 
-4.1.54 One of the long-standing criticisms of the TPDS has been that offtake of PDS cereals (rice and wheat) by States from FCI does not match with NSS estimates of PDS consumption of those same grains
+4.1.54 One of the long-standing criticisms of the TPDS has been that offtake of PDS cereals (rice and wheat) by States from FCI does not match with NSS estimates of PDS consumption of those same grains (as we noted earlier). For instance, Table 4.1.8 shows that, according to NSS, over 1993–94, 1999–2000, and 2004–05, consumption of PDS grains rose. It also shows that offtake of PDS grain from FCI by States increased much more than consumption over the same decade. The difference between the two shows the extent of leakage of PDS wheat and rice. This leakage [defined as 1—{ratio of (a) to (b)}] was 28% for wheat and rice together in 1993–94, but it had risen to 54% by 2004–05—a very significant increase in leakage. These facts clearly show that TPDS is in urgent need of reform.
 
-(as we noted earlier). For instance, Table 4.1.8 shows that, according to NSS, over 1993-94, 1999-2000, and 2004-05, consumption of PDS grains rose. It also shows that offtake of PDS grain from FCI by States increased much more than consumption over the same decade. The difference between the two shows the extent of leakage of PDS wheat and rice. This leakage [defined as 1-{ratio of (a) to (b)}] was 28% for wheat and rice together in 1993-94, but it had risen to 54% by 2004-05-a very significant increase in leakage. These facts clearly show that TPDS is in urgent need of reform.
+TABLE 4.1.8 PDS Implied Leakage—Offtake vs Consumption
 
-1993-94 | 1999-2000 | 2004-05
+ | 1993–94 | 1999–2000 | 2004–05
 --- | --- | --- | ---
 (a) NSS PDS consumption (m. tons)
 Rice | 7.20 | 9.30 | 9.98
@@ -6729,15 +7162,11 @@ Rice | 0.81 | 0.82 | 0.60
 Wheat | 0.59 | 0.52 | 0.27
 Total | 0.72 | 0.72 | 0.46
 
-TABLE 4.1.8 PDS Implied Leakage-Offtake vs Consumption
+Source: NSS.
 
-Source:
+4.1.55 These facts are further underlined by Annexure 4.1.4, which demonstrates the massive leakage of the fiscal subsidy to the non-poor on the one hand and the ineffective targeting of the poor by the cardholder-based TPDS system.
 
-NSS.
-
-4.1.55 These facts are further underlined by Annexure 4.1.4, which demonstrates the massive leakage of the fiscal subsidy to the non-poor on the one hand and the ineffective  targeting  of  the  poor  by  the cardholder-based TPDS system.
-
-4.1.56 Annexure 4.1.5 drives home the point about the poor targeting by TPDS benefits. It estimates the benefits in rupees per household of PDS grain beneficiaries [calculated as PDS quantity consumed* (PDS Price-Average Market Price)]. It shows that the benefits  to  the  household are dependent upon whether you have a card or not (and which card you haveAPL, BPL, or Antyodaya), and not on whether you are poor or non-poor. In fact, it demonstrates that there is very little difference between the benefits (in Rs/household) of poor and non-poor households when one compares poor BPL cardholders with nonpoor BPL cardholders, or when comparing poor AAY cardholders with non-poor AAY cardholders.
+4.1.56 Annexure 4.1.5 drives home the point about the poor targeting by TPDS benefits. It estimates the benefits in rupees per household of PDS grain beneficiaries [calculated as PDS quantity consumed* (PDS Price—Average Market Price)]. It shows that the benefits to the household are dependent upon whether you have a card or not (and which card you have—APL, BPL, or Antyodaya), and not on whether you are poor or non-poor. In fact, it demonstrates that there is very little difference between the benefits (in Rs/household) of poor and non-poor households when one compares poor BPL cardholders with non-poor BPL cardholders, or when comparing poor AAY cardholders with non-poor AAY cardholders.
 
 [[END OF PAGE 155]]
 
@@ -6769,7 +7198,7 @@ Eleventh Five Year Plan
 
 ###### INTRODUCTION OF FOOD STAMPS
 
-4.1.62 If markets are integrated, food stamps system may be introduced, which is supposed to be more effective  than the present system. On food stamps/ coupons, the HLC has observed as follows: 'In the long run, as markets get better in tegrated, the PDS function need not remain restricted to designated FPS and a food coupon system valid even outside PDS outlets may become possible. Food coupons may allow wider choice of consumers in terms of commodities and outlets. In the Committee's view, this is a course which should be followed with considerable caution in view of the experience of other countries, and the possibility  of  counterfeiting. However, the more important reason food stamps have not been successful elsewhere has been the erosion in the value of the coupons where it was fixed in nominal terms. If the coupon system is to  succeed  the  PDS  suggested  above,  the  value  of the coupon should be indexed to food inflation. The coupon system should not lead to a dilution of the Central Government commitment to food security'. Cash for food subsidies (sometimes known as food stamps) eliminate the need for dual retail marketing mechanisms. This can resolve the endemic problem of uneconomic viability of FPS. As a way of restoring economic viability, the HLC on Grain Policy recommended that FPS should be allowed to sell other commodities. This recommendation of the HLC needs to be considered by the States.
+4.1.62 If markets are integrated, food stamps system may be introduced, which is supposed to be more effective than the present system. On food stamps/coupons, the HLC has observed as follows: ‘In the long run, as markets get better integrated, the PDS function need not remain restricted to designated FPS and a food coupon system valid even outside PDS outlets may become possible. Food coupons may allow wider choice of consumers in terms of commodities and outlets. In the Committee’s view, this is a course which should be followed with considerable caution in view of the experience of other countries, and the possibility of counterfeiting. However, the more important reason food stamps have not been successful elsewhere has been the erosion in the value of the coupons where it was fixed in nominal terms. If the coupon system is to succeed the PDS suggested above, the value of the coupon should be indexed to food inflation. The coupon system should not lead to a dilution of the Central Government commitment to food security’. Cash for food subsidies (sometimes known as food stamps) eliminate the need for dual retail marketing mechanisms. This can resolve the endemic problem of uneconomic viability of FPS. As a way of restoring economic viability, the HLC on Grain Policy recommended that FPS should be allowed to sell other commodities. This recommendation of the HLC needs to be considered by the States.
 
 ###### MULTI-APPLICATION SMART CARDS (MASCS)
 
@@ -6911,7 +7340,7 @@ Also, the overall prevalence has increased from 74.2% (1998-99) to 79.2% (2005-0
 
 - 4.1.78 India was the first developing country to take up a  National  Nutritional  Anaemia  Prophylaxis Programme (NNAP) in 1972 to prevent anaemia among pregnant women and children. However, coverage under the programme needs improvement as  only  22.3% of pregnant women consumed iron and folic acid for 90 days and only 50.7% had at least  three  antenatal  visits  for  their  last  child  birth (NFHS-3, 2005-06).
 
-- 4.1.79 The current strategy,  included  as  part  of RCH Programme under NRHM, recommends that pregnant and lactating women, 6-12 months infants, school children, 6-10 year olds, and adolescents (1118 year old) should be targeted in the NAPP as per the recommended dosage.
+- 4.1.79 The current strategy, included as part of RCH Programme under NRHM, recommends that pregnant and lactating women, 6–12 months infants, school children, 6–10 year olds, and adolescents (11–18 year old) should be targeted in the NAPP as per the recommended dosage.
 
 #### Iodine Deficiency Disorders (IDD)
 
@@ -6921,7 +7350,7 @@ Also, the overall prevalence has increased from 74.2% (1998-99) to 79.2% (2005-0
 
 4.1.82 IDDs have been recognized as a public health problem in India since the 1920s. No State in India is completely free from IDDs. A third of all children in the world that are born with IDD-related mental damage live in India.
 
-- 4.1.83 The Indian National Goitre Control Programme (NGCP) was started in 1962 with a focus on the goitre belt in the country. However, the programme of universal iodization was introduced only in 1984, when all edible salt in the market was required to offer 30 ppm (parts per million) iodine at the production level. This was legalized through the PFA (Prevention of Food Adulteration) Act of 1988 that also banned the availability of crystalline salt (non-iodized) as an edible product. It was accepted variably by the different States, some putting only a partial ban and others none at all. Based on the recommendations of the Central Council of Health, the government took a policy decision to iodise the entire edible salt in the country by 1992. Since 1992, the National Iodine Deficiency Disorders Control Programme (NIDDCP) is the new name given to the erstwhile NGCP. This change has been effected with a view to cover the wide spectrum of iodine deficiency such as mental and physical retardation, deaf-mutism, and cretinism under the programme. Due to various research reports, the Central Government lifted the ban on the sale of noniodized salt in 2000. The States chose to retain or revoke the ban depending upon their own assessment.
+- 4.1.83 The Indian National Goitre Control Programme (NGCP) was started in 1962 with a focus on the goitre belt in the country. However, the programme of universal iodization was introduced only in 1984, when all edible salt in the market was required to offer 30 ppm (parts per million) iodine at the production level. This was legalized through the PFA (Prevention of Food Adulteration) Act of 1988 that also banned the availability of crystalline salt (non-iodized) as an edible product. It was accepted variably by the different States, some putting only a partial ban and others none at all. Based on the recommendations of the Central Council of Health, the government took a policy decision to iodise the entire edible salt in the country by 1992. Since 1992, the National Iodine Deficiency Disorders Control Programme (NIDDCP) is the new name given to the erstwhile NGCP. This change has been effected with a view to cover the wide spectrum of iodine deficiency such as mental and physical retardation, deaf-mutism, and cretinism under the programme. Due to various research reports, the Central Government lifted the ban on the sale of non-iodized salt in 2000. The States chose to retain or revoke the ban depending upon their own assessment.
 
 [[END OF PAGE 162]]
 
@@ -6931,7 +7360,7 @@ Also, the overall prevalence has increased from 74.2% (1998-99) to 79.2% (2005-0
 
 Eleventh Five Year Plan
 
-In 2005, a country-wide universal ban on sale of noniodized salt for human consumption has again been promulgated by the Central Government.
+In 2005, a country-wide universal ban on sale of non-iodized salt for human consumption has again been promulgated by the Central Government.
 
 4.1.84 Studies indicate that after a certain level, the prevalence of goitre does not decrease by iodination alone due to role of various other factors like goitrogens in food, pollutants in water, etc. Definite identification of the active agents and knowledge of their biological  and  physicochemical  properties  may permit public health officials to develop procedures for eliminating these compounds at the community level and eradicating goitre from endemic areas.
 
@@ -6969,7 +7398,7 @@ Nutrition and Social Safety Net
 
 147
 
-4.1.92 Vitamin A supplementation and nutrition education is being implemented through the PHCs, Sub Centres, and the Anganwadis. The services of ICDS Programme, under the MoWCD, are utilized for the distribution of vitamin A to children in the ICDS blocks and for educa-tion of mothers in prevention of VAD.
+4.1.92 Vitamin A supplementation and nutrition education is being implemented through the PHCs, Sub Centres, and the Anganwadis. The services of ICDS Programme, under the MoWCD, are utilized for the distribution of vitamin A to children in the ICDS blocks and for education of mothers in prevention of VAD.
 
 #### Other Micronutrient Deficiencies
 
@@ -6987,7 +7416,7 @@ Nutrition and Social Safety Net
 
 - programmes are in existence and that too not covering the entire high risk group.
 
-- There is inadequate monitoring of micronutrient deficiencies in the country. NFHS undertaken every six years covers only anaemia levels in women and children under three years and projects only Statelevel picture. NNMB exists only in few States giving State-level projections for the eight States only.
+- There is inadequate monitoring of micronutrient deficiencies in the country. NFHS undertaken every six years covers only anaemia levels in women and children under three years and projects only State-level picture. NNMB exists only in few States giving State-level projections for the eight States only.
 
 - Dietary diversification and nutrition education have not been given the required thrust.
 
@@ -7083,11 +7512,11 @@ invalidity,  and  old  age.  In  the  Eleventh  Plan  social security will be tr
 
 ### CONSTITUTIONAL PROVISION
 
-4.2.4 Articles 39(a) and 41 of the constitution require that the State should within the limits of its economic capacity, make effective provision for securing the right to work, to education, and to public assistance in case of unemployment, old age, sickness, and disablement. Though social security is not viewed as a fundamental right, Article 42 requires that the State should make provision for securing just and humane conditions of work and for maternity relief. Article 43 states that States shall endeavour to secure to all workersagricultural, industrial, or otherwise, a living wage, such conditions of work that ensure a decent standard of  life.  Article  47  requires  that  the  State  should,  as its  primary duty, raise the level of nutrition and the standard of living of its people and improve public health.
+4.2.4 Articles 39(a) and 41 of the constitution require that the State should within the limits of its economic capacity, make effective provision for securing the right to work, to education, and to public assistance in case of unemployment, old age, sickness, and disablement. Though social security is not viewed as a fundamental right, Article 42 requires that the State should make provision for securing just and humane conditions of work and for maternity relief. Article 43 states that States shall endeavour to secure to all workers—agricultural, industrial, or otherwise, a living wage, such conditions of work that ensure a decent standard of life. Article 47 requires that the State should, as its primary duty, raise the level of nutrition and the standard of living of its people and improve public health.
 
 ### LEGISLATIVE SUPPORT
 
-4.2.5 Currently,  there  are  contributory  and  noncontributory social  security  laws  in  our  country. The contributory laws are those that provide for financing  of  the  social  security  programmes  by contributions paid by workers and employers and in some cases supplemented by contribution/grants from the government. The important contributory schemes include the Employees State Insurance Act,  1948  and  the  Provident  Fund,  Pension  and Deposit linked insurance schemes framed under Employees Provident Funds and Miscellaneous Provisions Act, 1952. The major non-contributory social  security  measures  are  provided  for  under the Workmen's Compensation Act, 1923, the Maternity Benefit Act, 1961, and the Payment of Gratuity Act, 1972.
+4.2.5 Currently, there are contributory and non-contributory social security laws in our country. The contributory laws are those that provide for financing of the social security programmes by contributions paid by workers and employers and in some cases supplemented by contribution/grants from the government. The important contributory schemes include the Employees State Insurance Act, 1948 and the Provident Fund, Pension and Deposit linked insurance schemes framed under Employees Provident Funds and Miscellaneous Provisions Act, 1952. The major non-contributory social security measures are provided for under the Workmen’s Compensation Act, 1923, the Maternity Benefit Act, 1961, and the Payment of Gratuity Act, 1972.
 
 ### EXISTING SOCIAL SECURITY SCENARIO
 
@@ -7109,15 +7538,15 @@ Nutrition and Social Safety Net
 
 4.2.9 The EPFO is one of the largest provident fund institutions in the world in terms of members and volume of financial transactions that it has been carrying on. The EPFO caters to: (i) every establishment that is engaged in any one or more of the industries specified in the Act or any activity notified by Central Government, employing 20 or more persons, (ii) all cinema theatres employing five or more persons, other than those under the control of Central/State/local government that provide equivalent/better benefits of social security, and co-operative societies employing less than 50 persons and working without the aid of power, and (iii) any other establishment seeking coverage under the scheme voluntarily. As on 31.03.2006, 429.53 lakh persons were members of the Employees' Provident Fund, while 323.89 lakh persons were members of the Pension Fund.
 
-4.2.10 The ESI Act was originally applicable to nonseasonal factories using power and employing 20 or more persons; but it is now applicable to non-seasonal power using factories employing 10 or more persons and non-power using factories employing 20 or more persons. The ESI Scheme has now been extended to shops, hotels, restaurants, cinemas including preview theatre, road motor transport undertakings, and newspaper establishments employing 20 or more persons. The existing wage limit for coverage is Rs 10000 per month (with effect from 1.10.2006). The ESI Scheme is being implemented area-wise by stages and it now covers all  the  States  except  Nagaland,  Manipur,  Tripura, Sikkim,  Arunachal Pradesh, and Mizoram; and in Union Territories of Delhi, Chandigarh, and Pondicherry.
+4.2.10 The ESI Act was originally applicable to non-seasonal factories using power and employing 20 or more persons; but it is now applicable to non-seasonal power using factories employing 10 or more persons and non-power using factories employing 20 or more persons. The ESI Scheme has now been extended to shops, hotels, restaurants, cinemas including preview theatre, road motor transport undertakings, and newspaper establishments employing 20 or more persons. The existing wage limit for coverage is Rs 10000 per month (with effect from 1.10.2006). The ESI Scheme is being implemented area-wise by stages and it now covers all the States except Nagaland, Manipur, Tripura, Sikkim, Arunachal Pradesh, and Mizoram; and in Union Territories of Delhi, Chandigarh, and Pondicherry.
 
 4.2.11 A scheme for providing employment to persons with disabilities  in  the  organized  sector  has been proposed to be launched. The main objective of the scheme is to provide incentives to the employers in  the  organized  sector  for  promotion  of  regular employment to persons with disabilities. Under this scheme, the government would reimburse the employers' contribution of EPF and ESI for the first three years, aiming at creation of one lakh jobs for the physically challenged persons.
 
 ### WORKERS WITHOUT INSTITUTIONALIZED SOCIAL SECURITY COVER
 
-4.2.12 Workers in the informal economy include: (i) the vast majority of the workers in the unorganized/ informal as well as; (ii) the workers employed in an informal capacity in the organized sector-the two together account for 93% of workforce. This category of the workforce is excluded from the institutionalized social security cover referred to above.
+4.2.12 Workers in the informal economy include: (i) the vast majority of the workers in the unorganized/informal as well as; (ii) the workers employed in an informal capacity in the organized sector—the two together account for 93% of workforce. This category of the workforce is excluded from the institutionalized social security cover referred to above.
 
-4.2.13 A number of schemes and systems are in operation in the nature of social security to workers in  the  informal  economy, following four different major models. However, the major deficiency in this approach is the limited coverage (geographical areas and industrial activity). The benefits are confined to only about 5-6% of the informal sector workers. The National Farming benefit scheme that provides an assistance of Rs 10000 in the event of death of family breadwinner and the National Old Age Pension to destitutes above 65 years of age are other elements of existing social security structure.
+4.2.13 A number of schemes and systems are in operation in the nature of social security to workers in the informal economy, following four different major models. However, the major deficiency in this approach is the limited coverage (geographical areas and industrial activity). The benefits are confined to only about 5–6% of the informal sector workers. The National Family benefit scheme that provides an assistance of Rs 10000 in the event of death of family breadwinner and the National Old Age Pension to destitutes above 65 years of age are other elements of existing social security structure.
 
 - 4.2.14 The Social Insurance Schemes available to the unorganized sector are operated through the LIC such as Social Security Group Insurance Scheme. All persons in the age group of 18 to 60 years belonging to the 24 approved occupation groups, that is, beedi workers, brick-kiln workers, carpenters, cobblers, fishermen, hamals, handicraft artisans, handloom weavers, handloom and khadi weavers, lady tailors, leather and tannery workers, papad workers attached to Self-Employed Women's Association (SEWA), physically handicapped self-employed persons, primary milk producers, rickshaw pullers/auto drivers, safai karmcharies, salt growers, tendu leaf collectors, urban poor, forest workers, sericulture, toddy tappers, powerloom workers, women in remote rural hilly
 
@@ -7170,7 +7599,7 @@ Nutrition and Social Safety Net
 
 #### Health Insurance Scheme for Unorganized Sector BPL Workers, 2007 (Rashtriya Swasthaya Bima Yojana)
 
-4.2.24 In order to provide accessible, affordable, and accountable quality health services to households in rural areas, the government has launched the NRHM. The principle thrust of NRHM is to make public system fully functional at all levels and to place a framework that would reduce the distress of households in seeking health care system through Health Insurance Scheme. Many efforts in the past for providing health insurance for the rural poor have not been successful because of inadequacies in design and implementation. The cost of insurance coupled with lack of perception of the benefits in the target group, and the procedure for claiming reimbursements have posed serious challenges in the administration. A transparent scheme that lists the entitlements, administered through a smart card obviating the need for out-ofpocket expenses is expected to streamline the administration, ensuring the benefits. With these objectives in view, the government has introduced the Rashtriya Swasthya Bima Yojana to cover all BPL unorganized sector workers and their families (of five members), whose identity will be verified by the implementing agency and be issued a smart card. The cost of smart card will be borne by Central government, and the beneficiary will be required to pay Rs 30 per annum as registration/renewal fee. The prescribed premium of Rs 750 per member-family will be borne by the Central and State Governments in the ratio of 75:25. The package of benefits will include: (i) cashless attendance to all covered ailments; (ii) hospitalization expenses, taking care of most common illnesses, (iii) all pre-existing diseases to be covered, (iv) transportation costs subject to prescribed limits payable to the beneficiary. Flexibility is provided to the States to add to  the  benefits  by  meeting the additional premium requirements from their own resources. State governments would decide the Implementing Agency and also bear the administrative costs.
+4.2.24 In order to provide accessible, affordable, and accountable quality health services to households in rural areas, the government has launched the NRHM. The principle thrust of NRHM is to make public system fully functional at all levels and to place a framework that would reduce the distress of households in seeking health care system through Health Insurance Scheme. Many efforts in the past for providing health insurance for the rural poor have not been successful because of inadequacies in design and implementation. The cost of insurance coupled with lack of perception of the benefits in the target group, and the procedure for claiming reimbursements have posed serious challenges in the administration. A transparent scheme that lists the entitlements, administered through a smart card obviating the need for out-of-pocket expenses is expected to streamline the administration, ensuring the benefits. With these objectives in view, the government has introduced the Rashtriya Swasthya Bima Yojana to cover all BPL unorganized sector workers and their families (of five members), whose identity will be verified by the implementing agency and be issued a smart card. The cost of smart card will be borne by Central government, and the beneficiary will be required to pay Rs 30 per annum as registration/renewal fee. The prescribed premium of Rs 750 per member-family will be borne by the Central and State Governments in the ratio of 75:25. The package of benefits will include: (i) cashless attendance to all covered ailments; (ii) hospitalization expenses, taking care of most common illnesses, (iii) all pre-existing diseases to be covered, (iv) transportation costs subject to prescribed limits payable to the beneficiary. Flexibility is provided to the States to add to the benefits by meeting the additional premium requirements from their own resources. State governments would decide the Implementing Agency and also bear the administrative costs.
 
 [[END OF PAGE 170]]
 
@@ -7186,9 +7615,9 @@ Eleventh Five Year Plan
 
 4.2.26 The National Social Assistance Programme (NSAP) came into effect from 15 August 1995 as a 100% Centrally Sponsored Programme, with three components namely, NOAPS, National Family Benefit  Scheme, and NMBS. The NMBS has since been transferred to the MoHFW with effect from 1.4.2001. The NSAP aims at providing social security in case of old age, death of primary breadwinner, and maternity. The main objective of the NOAPS is ensure a minimum national standard of social assistance in addition to the benefit that States are already providing, without displacing the expenditure by States on social protection schemes. The scheme is aimed at senior citizens, that is, over 65 years or above, who are destitute in the sense of having little or no regular means of subsistence from his/her own sources of income or through support from family members or other sources. Major modifications in NSAP are being proposed in the Eleventh Plan to provide more comprehensive coverage to the old (details in Chapter 3, Vol. III).
 
-#### Unorganized Sector Workers-Conditions of Service Law
+#### Unorganized Sector Workers—Conditions of Service Law
 
-4.2.27 The unorganized section of agricultural sector (consisting of crop cultivation and other agricultural activities such as forestry, livestock, and fishing), not protected under the Plantations Workers Act, has neither formal system of social security nor regulation  of  conditions  of  work.  The  government  has taken note of the concerns expressed by the NCEUS and is examining the desirability of enacting laws regulating the minimum conditions of work of agricultural wage workers and provide a measure of social security to agricultural wage workers and marginal and small  farmers  in  the  unorganized  sector.  Similar provisions would be made for other workers in the non-agricultural unorganized sector as well as informal/unorganized workers in the organized sector consisting  of  wage  workers,  independent  selfemployed, and workers who are self-employed at home, whose minimum conditions of work are not regulated by any other legislation. The provision of a statutory package of National Minimum Social Security to which all unorganized (agricultural and non-agricultural) workers are entitled need to be considered. There may be Social Security Advisory Boards and dispute resolution mechanisms to oversee and monitor the implementation and ensure that each such worker has the sense of being provided with what is due to him/her.
+4.2.27 The unorganized section of agricultural sector (consisting of crop cultivation and other agricultural activities such as forestry, livestock, and fishing), not protected under the Plantations Workers Act, has neither formal system of social security nor regulation of conditions of work. The government has taken note of the concerns expressed by the NCEUS and is examining the desirability of enacting laws regulating the minimum conditions of work of agricultural wage workers and provide a measure of social security to agricultural wage workers and marginal and small farmers in the unorganized sector. Similar provisions would be made for other workers in the non-agricultural unorganized sector as well as informal/unorganized workers in the organized sector consisting of wage workers, independent self-employed, and workers who are self-employed at home, whose minimum conditions of work are not regulated by any other legislation. The provision of a statutory package of National Minimum Social Security to which all unorganized (agricultural and non-agricultural) workers are entitled need to be considered. There may be Social Security Advisory Boards and dispute resolution mechanisms to oversee and monitor the implementation and ensure that each such worker has the sense of being provided with what is due to him/her.
 
 ### SOCIAL SECURITY: APPROACH AND STRATEGY FOR THE ELEVENTH FIVE YEAR PLAN
 
@@ -7216,19 +7645,19 @@ Nutrition and Social Safety Net
 
 Eleventh Five Year Plan
 
-### ANNEXURE 4.1.1 Malnutrition of Children (0-3 Years), by State
+### ANNEXURE 4.1.1 Malnutrition of Children (0–3 Years), by State
 
-S.No. | State | Current level of Wt-for-age below-2 SD | Eleventh Plan Goal-redn. by 50%
+S.No. | State | Current level of Wt-for-age below–2 SD | Eleventh Plan Goal-redn. by 50%
 --- | --- | --- | ---
-11 | Andhra Pradesh | 36.5 | 18.3
-12 | Arunachal Pradesh | 36.9 | 18.5
-13 | Assam | 40.4 | 20.2
-14 | Bihar | 58.4 | 29.2
-15 | Jharkhand | 59.2 | 29.6
-16 | Goa | 29.3 | 14.7
-17 | Gujarat | 47.4 | 23.7
-18 | Haryana | 41.9 | 21.0
-19 | Himachal Pradesh | 36.2 | 18.1
+1 | Andhra Pradesh | 36.5 | 18.3
+2 | Arunachal Pradesh | 36.9 | 18.5
+3 | Assam | 40.4 | 20.2
+4 | Bihar | 58.4 | 29.2
+5 | Jharkhand | 59.2 | 29.6
+6 | Goa | 29.3 | 14.7
+7 | Gujarat | 47.4 | 23.7
+8 | Haryana | 41.9 | 21.0
+9 | Himachal Pradesh | 36.2 | 18.1
 10 | J&K | 29.4 | 14.7
 11 | Karnataka | 41.1 | 20.6
 12 | Kerala | 28.8 | 14.4
@@ -7249,15 +7678,13 @@ S.No. | State | Current level of Wt-for-age below-2 SD | Eleventh Plan Goal-redn
 27 | Uttarakhand | 38.0 | 19.0
 28 | WB | 43.5 | 21.8
 29 | Delhi | 33.1 | 16.6
-INDIA | 45.9 | 23.0
+ | INDIA | 45.9 | 23.0
 
-Note: 1. Figures for current level are that of NFHS 2005-06.
+Note: 1. Figures for current level are that of NFHS 2005–06.
 
-> 2. For State level figures, pro-rata reduction has been applied on the basis of targeted reduction at All India level. Figures for other States are not available.
+2. For State level figures, pro-rata reduction has been applied on the basis of targeted reduction at All India level. Figures for other States are not available.
 
-Source:
-
-NFHS 2005-06.
+Source: NFHS 2005–06.
 
 [[END OF PAGE 173]]
 
@@ -7267,7 +7694,9 @@ Nutrition and Social Safety Net
 
 157
 
-State | Children age 0-5 months exclusively breastfed (%) | Children age 6-9 months receiving solid or semi-solid food and breast milk (%) | Children under 3 years who are underweight (%)
+### ANNEXURE 4.1.2 State-wise Malnutrition Rate of Children in Various Age Groups
+
+State | Children age 0–5 months exclusively breastfed (%) | Children age 6–9 months receiving solid or semi-solid food and breast milk (%) | Children under 3 years who are underweight (%)
 --- | --- | --- | ---
 India | 46.3 | 55.8 | 45.9
 Andhra Pradesh | 62.7 | 63.7 | 36.5
@@ -7300,11 +7729,7 @@ UP | 51.3 | 45.5 | 47.3
 Uttaranchal | 31.2 | 51.6 | 38.0
 WB | 58.6 | 55.9 | 43.5
 
-### ANNEXURE 4.1.2 State-wise Malnutrition Rate of Children in Various Age Groups
-
-Source:
-
-NFHS-3 (2005-06), IIPS, MoHFW, GoI.
+Source: NFHS-3 (2005–06), IIPS, MoHFW, GoI.
 
 [[END OF PAGE 174]]
 
@@ -7314,18 +7739,20 @@ NFHS-3 (2005-06), IIPS, MoHFW, GoI.
 
 Eleventh Five Year Plan
 
+### ANNEXURE 4.1.3 Anaemia among Women (15–49 Years)
+
 S. No. | State | Current Level | Eleventh Plan Goal: reduction by 50%
 --- | --- | --- | ---
-India | 56.1 | 28.1
-11 | Delhi | 43.4 | 21.7
-12 | Haryana | 56.5 | 28.3
-13 | Himachal Pradesh | 40.9 | 20.5
-14 | J&K | 53.1 | 26.6
-15 | Punjab | 38.4 | 19.2
-16 | Rajasthan | 53.1 | 26.6
-17 | MP | 57.6 | 28.8
-18 | Chattisgarh | 57.6 | 28.8
-19 | UP | 50.8 | 25.4
+ | India | 56.1 | 28.1
+1 | Delhi | 43.4 | 21.7
+2 | Haryana | 56.5 | 28.3
+3 | Himachal Pradesh | 40.9 | 20.5
+4 | J&K | 53.1 | 26.6
+5 | Punjab | 38.4 | 19.2
+6 | Rajasthan | 53.1 | 26.6
+7 | MP | 57.6 | 28.8
+8 | Chattisgarh | 57.6 | 28.8
+9 | UP | 50.8 | 25.4
 10 | Uttarakhand | 47.6 | 23.8
 11 | Bihar | 68.3 | 34.2
 12 | Jharkhand | 70.4 | 35.2
@@ -7347,15 +7774,13 @@ India | 56.1 | 28.1
 28 | Tamil Nadu | 53.3 | 26.7
 29 | Tripura | 67.4 | 33.7
 
-### ANNEXURE 4.1.3 Anaemia among Women (15-49 Years)
+Notes: 1. Figures for current level are that of NFHS 2005–06.
 
-Notes: 1. Figures for current level are that of NFHS 2005-06.
+2. For State-level figures, pro-rata reduction has been applied on the basis of targeted reduction at All India level.
 
-> 2.  For  State-level  figures,  pro-rata  reduction  has  been  applied  on  the  basis  of  targeted  reduction  at All India level.
+3. Figures for other States are not available.
 
-> 3. Figures for other States are not available.
-
-Source: NFHS 2005-06.
+Source: NFHS 2005–06.
 
 [[END OF PAGE 175]]
 
@@ -7365,7 +7790,9 @@ Nutrition and Social Safety Net
 
 159
 
-% poor having no ration card | % of poor having BPL/AAY cards | % BPL/AAY cards with non-poor | % non-poor having BPL/AAY cards
+### ANNEXURE 4.1.4 Distribution of Cardholders among Poor and Non-poor
+
+ | % poor having no ration card | % of poor having BPL/AAY cards | % BPL/AAY cards with non-poor | % non-poor having BPL/AAY cards
 --- | --- | --- | --- | ---
 J&K | 7.9 | 55.1 | 85.4 | 17.2
 Himachal Pradesh | 3.3 | 45.1 | 73.6 | 13.7
@@ -7389,11 +7816,7 @@ Kerala | 10.0 | 48.4 | 74.8 | 25.0
 Tamil Nadu | 9.0 | 29.7 | 63.1 | 15.0
 All India | 19.1 | 36.0 | 59.8 | 20.7
 
-### ANNEXURE 4.1.4 Distribution of Cardholders among Poor and Non-poor
-
-Source:
-
-NSS, 61st Round, 2004-05.
+Source: NSS, 61st Round, 2004–05.
 
 [[END OF PAGE 176]]
 
@@ -7403,13 +7826,13 @@ NSS, 61st Round, 2004-05.
 
 Eleventh Five Year Plan
 
-### ANNEXURE 4.1.5 PDS Benefits-Rice and Wheat
+### ANNEXURE 4.1.5 PDS Benefits—Rice and Wheat
 
 (Rs per Household)
 
-Poor | Non poor
+ | Poor |  |  |  | Non poor |  |  | 
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-No card | APL card | BPL card | Antyodaya card | No card | APL card | BPL card | Antyodaya card
+ | No card | APL card | BPL card | Antyodaya card | No card | APL card | BPL card | Antyodaya card
 J&K | 33.73 | 78.19 | 278.72 | 333.96 | 22.77 | 53.89 | 206.43 | 286.26
 Himachal Pradesh | 0.00 | 43.83 | 124.94 | 262.10 | 2.72 | 21.84 | 122.38 | 204.55
 Punjab | 0.00 | 0.00 | 1.96 | 111.54 | -0.58 | -0.07 | 1.38 | 0.00
@@ -7434,7 +7857,7 @@ All India | 6.69 | 15.64 | 81.45 | 176.18 | 2.28 | 12.56 | 74.59 | 146.92
 
 Source:
 
-NSS 61st Round, 2004-05.
+NSS 61st Round, 2004–05.
 
 [[END OF PAGE 177]]
 
@@ -7448,12 +7871,12 @@ Nutrition and Social Safety Net
 
 (%)
 
-Poor | Non-poor
+ | Poor |  |  | Non-poor |  | 
 --- | --- | --- | --- | --- | --- | ---
-No card | APL | BPL/AAY | No card | APL | BPL/AAY
-J&K | 4.5 | 12.7 | 1.0 | 2.1 | 7.8
+ | No card | APL | BPL/AAY | No card | APL | BPL/AAY
+J&K |  | 4.5 | 12.7 | 1.0 | 2.1 | 7.8
 Himachal Pradesh | 23.3 | 70.0 | 72.2 | 23.8 | 34.7 | 37.8
-Punjab | 6.2 | 13.9 | 1.8 | 3.3 | 8.3
+Punjab |  | 6.2 | 13.9 | 1.8 | 3.3 | 8.3
 Uttranchal | 33.9 | 41.9 | 57.5 | 6.2 | 20.4 | 37.0
 Haryana | 13.8 | 37.1 | 31.3 | 9.6 | 19.5 | 34.3
 Rajasthan | 19.2 | 29.8 | 54.5 | 9.2 | 24.6 | 45.2
@@ -7475,7 +7898,7 @@ All India | 31.6 | 34.2 | 49.0 | 17.4 | 20.6 | 36.9
 
 Source:
 
-NSS, 61st Round, 2004-05.
+NSS, 61st Round, 2004–05.
 
 [[END OF PAGE 178]]
 
@@ -7491,13 +7914,13 @@ NSS, 61st Round, 2004-05.
 
 - 5.2 Lack of covered toilets nearby imposes a severe hardship on women and girls. Also provision of clean drinking water without at the same time of provision for sanitation and clean environment would be less effective  in  improving  health.  The  two  should  be treated together as complementary needs.
 
-- 5.3 The status of provision of water and sanitation has improved slowly. According to Census 1991, 55.54% of the rural population had access to an improved water source. As on 1 April 2007, the Department of Drinking Water Supply's figures show that out of a total of 1507349 rural habitations in the country, 74.39% (1121366 habitations) are fully covered and 14.64% (220165 habitations) are partially covered. Further, present estimates shows that out of the 2.17 lakh water quality affected habitation as on 1.4.05, about 70000 habitations have since been addressed for providing safe
-
-- drinking water . Also, from the reported coverage, there are slippages in the prescribed supply level, reducing the per capita availability due to a variety of reasons.
+- 5.3 The status of provision of water and sanitation has improved slowly. According to Census 1991, 55.54% of the rural population had access to an improved water source. As on 1 April 2007, the Department of Drinking Water Supply’s figures show that out of a total of 1507349 rural habitations in the country, 74.39% (1121366 habitations) are fully covered and 14.64% (220165 habitations) are partially covered. Further, present estimates shows that out of the 2.17 lakh water quality affected habitation as on 1.4.05, about 70000 habitations have since been addressed for providing safe drinking water. Also, from the reported coverage, there are slippages in the prescribed supply level, reducing the per capita availability due to a variety of reasons.
 
 - 5.4 Water supply in urban areas is also far from satisfactory. As  on  31  March  2004,  about  91%  of the urban population has got access to water supply facilities.  However,  this  access  does  not  ensure  adequacy and equitable distribution, and the per capita availability is not as per norms in many areas. Average access to drinking water is highest in class I towns (73%), followed by class II towns (63%), class III towns (61%), and other towns (58%). Poor people in slums and squatter settlements are generally deprived of these basic amenities. The population coverage in the past decades and as of March 2004 is as shown in Table 5.1 below:
 
 - 5.5 The quantity of urban water supply is also poor. Water is supplied only for few hours of the day that
+
+TABLE 5.1 Percentage of Population Covered with Water Supply Facilities
 
 Year | Urban Population (million) | Percentage of Population Covered with Water Supply
 --- | --- | ---
@@ -7505,8 +7928,6 @@ Year | Urban Population (million) | Percentage of Population Covered with Water 
 1991 | 217 | 84
 2001 | 285 | 89
 2004 | 308 (projected) | 91
-
-TABLE 5.1 Percentage of Population Covered with Water Supply Facilities
 
 [[END OF PAGE 179]]
 
@@ -7528,9 +7949,7 @@ leads to a lot of waste as taps are kept open and water is stored not all of whi
 
 #### PAST PROGRAMMES AND OUTLAYS
 
-- 5.9 The GoI's major intervention in water sector started in 1972-73 through Accelerated Rural Water Supply Programme (ARWSP) for assisting States/UTs to accelerate the coverage of drinking water supply. In 1986, the entire programme was given a mission approach with the launch of the Technology Mission on Drinking Water and Related Water Management. This Technology Mission was later renamed as Rajiv Gandhi National Drinking Water Mission (RGNDWM) in 1991-92. In 1999, Department of Drinking Water Supply (DDWS) was formed under the MoRD to give emphasis to rural water supply as well as on sanitation. In the same year, new initiatives in water sector had been
-
-- initiated through Sector Reform Project, later it was scaled up as Swajaldhara in  2002. With sustained interventions, DDWS remains an important institution to support the States/UTs in serving the rural population with water and sanitation related services all across India.
+- 5.9 The GoI’s major intervention in water sector started in 1972–73 through Accelerated Rural Water Supply Programme (ARWSP) for assisting States/UTs to accelerate the coverage of drinking water supply. In 1986, the entire programme was given a mission approach with the launch of the Technology Mission on Drinking Water and Related Water Management. This Technology Mission was later renamed as Rajiv Gandhi National Drinking Water Mission (RGNDWM) in 1991–92. In 1999, Department of Drinking Water Supply (DDWS) was formed under the MoRD to give emphasis to rural water supply as well as on sanitation. In the same year, new initiatives in water sector had been initiated through Sector Reform Project, later it was scaled up as Swajaldhara in 2002. With sustained interventions, DDWS remains an important institution to support the States/UTs in serving the rural population with water and sanitation related services all across India.
 
 - 5.10 An investment of about Rs 72600 crore has been made (under both State and Central Plans) from the beginning of the planned era of development in rural water supply sector. As per available information, this investment has helped to create assets of over 41.55 lakh hand pumps, around 15.77 lakh public stand posts,  around  1.60  lakh  mini-piped  water  supply schemes, and 45000 multi village schemes in the country under the Rural Water Supply Programme. Of these systems, 88.21% hand pumps, 93.49% stand posts, 91.95% mini schemes, and 96.26% multi village schemes are reported functional by the States. During the Tenth Plan, the approved outlay for the programme was Rs 13245 crore. The programme was well funded during the Tenth Plan (being a part of Bharat Nirman Programme) and by the end of March 2007, an amount of Rs 16,103 crore was released to the States under the scheme. On the physical achievement side, 352992 habitations have been reported covered by the States during Tenth Plan.
 
@@ -7552,7 +7971,7 @@ Eleventh Five Year Plan
 
 5.13 Habitations that are covered in the earlier years slip  back  to  not  covered  or  partially  covered  status due to reasons such as sources going dry or lowering of groundwater, sources which are quality affected, systems working below their capacity due to poor O&M, and normal depreciation. Increasing population leading to emergence of new habitations also increase the number of unserved habitation.
 
-5.14 Sustainability of the Rural Water Supply Programme has emerged as a major issue and the Eleventh Plan aims at arresting the slip backs. The rate of habitation slippages from fully covered to partially covered and partially covered to not covered is increasing. In addition to this the increase in the number of qualityaffected habitations that are dependent on ground water source is adding to these slippages. This can be gauged from the fact that there are about 6.83 lakh partially covered and not covered habitations as per the 2003 survey. The Mid-Term Appraisal of the Tenth Plan observed that over-reliance on groundwater for rural  water  supply  programme has resulted in the twin problem of sustainability and water quality and suggested a shift to surface water sources for tackling this  issue.  Restoration  of  tanks  can  provide  a  local solution (see Box 5.1). It is important to apply the principle of subsidiarity to collect water, store water, use water, and manage waste water as close to the source as possible.
+5.14 Sustainability of the Rural Water Supply Programme has emerged as a major issue and the Eleventh Plan aims at arresting the slip backs. The rate of habitation slippages from fully covered to partially covered and partially covered to not covered is increasing. In addition to this the increase in the number of quality-affected habitations that are dependent on ground water source is adding to these slippages. This can be gauged from the fact that there are about 6.83 lakh partially covered and not covered habitations as per the 2003 survey. The Mid-Term Appraisal of the Tenth Plan observed that over-reliance on groundwater for rural water supply programme has resulted in the twin problem of sustainability and water quality and suggested a shift to surface water sources for tackling this issue. Restoration of tanks can provide a local solution (see Box 5.1). It is important to apply the principle of subsidiarity to collect water, store water, use water, and manage waste water as close to the source as possible.
 
 ##### Water Quality
 
@@ -7562,7 +7981,7 @@ Eleventh Five Year Plan
 
 ###### Box 5.1
 
-###### Success Stories in SustainabilityOoranis -The Lifelines of Rural Tamil Nadu
+###### Success Stories in Sustainability—Ooranis—The Lifelines of Rural Tamil Nadu
 
 For the people of Tamil Nadu the traditional ooranis or ponds have truly proved to be a blessing. The ooranis were developed as the main supply systems in Tamil Nadu centuries back. These earthen bunded ponds were constructed by the collective efforts of the people over the ages and have been designed hydrologically to have adequate and assured inflow of surface runoffs. Almost all ooranis are well connected with irrigation tanks called Kanmoi.
 
@@ -7612,7 +8031,7 @@ per school works out to Rs 924 crore. The coverage of schools could be best achi
 
 ##### The Way Forward
 
-5.23 The problems of sustainability of water availability, maintenance of supply system, and dealing with the issue of water quality are the major challenges in the Eleventh Five Y ear Plan. The conjunctive use of groundwater, surface water, and rooftop rainwater harvesting systems will be required to be encouraged as the means of improving sustainability and drinking water security . While convergence of various programmes for funds and physical sustenance is most important, States should put in place an effective coordinating mechanism for attaining success. Otherwise the vicious cycle of coverage and slip back would continue in the next plan also. The Eleventh Five Year Plan proposes to deal with the various issues as follows:
+5.23 The problems of sustainability of water availability, maintenance of supply system, and dealing with the issue of water quality are the major challenges in the Eleventh Five Year Plan. The conjunctive use of groundwater, surface water, and rooftop rainwater harvesting systems will be required to be encouraged as the means of improving sustainability and drinking water security. While convergence of various programmes for funds and physical sustenance is most important, States should put in place an effective coordinating mechanism for attaining success. Otherwise the vicious cycle of coverage and slip back would continue in the next plan also. The Eleventh Five Year Plan proposes to deal with the various issues as follows:
 
 5.24 The TFC awards for maintaining the water supply systems by local bodies must be implemented and schemes transferred to Panchayats. State can share a part of the O&M cost of such Panchayat as a hand-holding support for first few years before the local bodies become self-sustainable. To enable local bodies, an effective MIS for knowing the status of water supply in every habitation in the State should be put in place and every State should earmark funds for this purpose. All the States' information systems should be connected to the all-India server at Delhi and this MIS should be web-enabled for moving to  the  larger  objective  of  public  monitoring. Also adequate training at local bodies' level should be undertaken for enhancing their technical capacities for maintaining the water supply systems. The implementing agencies must be made accountable to the local bodies for providing water supply services. However major engineering schemes can continue to be with the State-level agencies.
 
@@ -7624,7 +8043,7 @@ per school works out to Rs 924 crore. The coverage of schools could be best achi
 
 5.27 Another alternative is to bunch the habitations into large numbers and involve the technically sound private service providers to cover the quality-affected habitations on an annuity basis for a certain period. Meanwhile parallel efforts to restore the source through water augmentation programme should continue in these habitations as an alternative arrangement, provided such systems are proposed by and have the consent of the PRIs and local bodies.
 
-5.28 Involvement of the community in the monitoring  of  the  water  supply  works  should  be  made  a primary condition for release of funds for completed work. The DDWS has initiated monitoring of the water quality under the National Rural Drinking Water Quality Monitoring and Surveillance Programme (NRDWQMSP) under which the Gram Panchayat/ Village Water and Sanitation Committee provided with  user-friendly  field  test  kits  for  testing  both bacteriological and chemical contaminants followed by testing of the samples at district- and State-level laboratories. Such initiatives need to be extended to the  other  regular  programmes under the ARWSP also.  Involving  the  community in bringing quality and sustainability to the village-level drinking water supply systems should be encouraged, rewarded, and recognized in an appropriate manner along the lines of  the Nirmal Gram Puraskar that  has  galvanized communities and local bodies for an enthusiastic and effective response to the TSC of the GoI.
+5.28 Involvement of the community in the monitoring of the water supply works should be made a primary condition for release of funds for completed work. The DDWS has initiated monitoring of the water quality under the National Rural Drinking Water Quality Monitoring and Surveillance Programme (NRDWQMSP) under which the Gram Panchayat/Village Water and Sanitation Committee provided
 
 [[END OF PAGE 183]]
 
@@ -7633,6 +8052,8 @@ per school works out to Rs 924 crore. The coverage of schools could be best achi
 Drinking Water, Sanitation, and Clean Living Conditions
 
 167
+
+with user-friendly field test kits for testing both bacteriological and chemical contaminants followed by testing of the samples at district- and State-level laboratories. Such initiatives need to be extended to the other regular programmes under the ARWSP also. Involving the community in bringing quality and sustainability to the village-level drinking water supply systems should be encouraged, rewarded, and recognized in an appropriate manner along the lines of the Nirmal Gram Puraskar that has galvanized communities and local bodies for an enthusiastic and effective response to the TSC of the GoI.
 
 - 5.29 While our programme guidelines do recognize the role of women in planning and post implementation  maintenance  with  some  success  stories  of women maintaining the hand pumps and tube wells, the success has to spread far and wide. Of late, the country is realizing the potential of women in the form of SHGs. Women SHGs are functioning well in  States  such  as  Tamil  Nadu and Gujarat. Women SHGs also should be given the responsibility for collection  of  maintenance  funds  after  the  source is  handed  over  to  them  for  maintenance. Women SHGs should be encouraged for taking up the O&M of  the  existing  functional  systems.  If  the  source  is dysfunctional, the State should incur one-time expenditure to set it right and encourage SHG to take them over.
 
@@ -7662,7 +8083,7 @@ Eleventh Five Year Plan
 
 providing institutions of Chennai and Bangalore are meeting their O&M expenditure from the revenue generated from water tariff. The capital city of Delhi's service provider Delhi Jal Board is performing far below the desirable levels both in terms of service provision,  persistence  of  large  amount  of  unpaid and unaccounted for water (UFW) as well as in tariff realization.
 
-5.35 However the Tenth Five Year Plan has triggered the  realization  that  institutions  have  to  be  selfsustaining and efficient service is the key to realize that. The lesson to be learnt is in today's scenario, in urban areas, people are willing to pay for the services, provided they are reliable both in quantity as well as in quality. The experience of Bangalore is reflected in Box 5.2 below.
+5.35 However the Tenth Five Year Plan has triggered the realization that institutions have to be self-sustaining and efficient service is the key to realize that. The lesson to be learnt is in today’s scenario, in urban areas, people are willing to pay for the services, provided they are reliable both in quantity as well as in quality. The experience of Bangalore is reflected in Box 5.2 below.
 
 ##### Box 5.2 Urban Slum Water Supply
 
@@ -7694,7 +8115,7 @@ Drinking Water, Sanitation, and Clean Living Conditions
 
 ##### Demand and Supply Management
 
-5.42 There is a huge gap between the demand and supply of water in urban areas, which is also growing due to population and urbanization. Norms for various places depending upon the level of development have been established and it is maximum for metropolitan cities. The regular Plan programmes by the States are heavily tilted in favour of supply side management. Recycling and reuse of water, reducing the water demand through rainwater harvesting, using water-efficient household equipment, including flushing cisterns would go a long way in conserving water and reducing demand. Proper metering of water and rational tariff would reduce water demand and encourage conservation. We need to have a concept of waterefficient homes in urban areas and for this there is a need to have a well-orchestrated information campaign. Long distance piped water transfer and desalination of water in coastal areas as augmentation measures are very capital-intensive. Demand management is necessary to achieve sustainability. An integrated water supply and use strategy such as used in Singapore (see Box 5.3) should be encouraged.
+5.42 There is a huge gap between the demand and supply of water in urban areas, which is also growing due to population and urbanization. Norms for various places depending upon the level of development have been established and it is maximum for metropolitan cities. The regular Plan programmes by the States are heavily tilted in favour of supply side management. Recycling and reuse of water, reducing the water demand through rainwater harvesting, using water-efficient household equipment, including flushing cisterns would go a long way in conserving water and reducing demand. Proper metering of water and rational tariff would reduce water demand and encourage conservation. We need to have a concept of water-efficient homes in urban areas and for this there is a need to have a well-orchestrated information campaign. Long distance piped water transfer and desalination of water in coastal areas as augmentation measures are very capital-intensive. Demand management is necessary to achieve sustainability. An integrated water supply and use strategy such as used in Singapore (see Box 5.3) should be encouraged.
 
 ##### Financing and Institutional Issues
 
@@ -7702,7 +8123,7 @@ Drinking Water, Sanitation, and Clean Living Conditions
 
 ###### Box 5.3 Public Utilities Board (PUB) Singapore
 
-PUB is the National Water Agency in Singapore charged with water, wastewater, and storm water management in the city state. The public agency services about 4.5 million people and a number of major industries with intensive water use. The development and implementation of the complete management system is ongoing but has taken over a period of about 40 years.PUB's holistic approach has resulted in a lower dependence on external water sources by diversification of water sources including water reuse, desalination, storm water storage in new water storages, and supply of very high-quality recycled water to industry with some internal reuse of this supply. Singapore presents a challenging environment for water resources management, as it is a small but densely populated island city state.In its own operations PUB has significantly reduced water losses due to leakage in pipes and inaccurate meters. It has 100% servicing of its population with water and waste water services and strong political and public acceptance of its policies and services.It has been accompanied by a major change in water pricing and access policy, which aims to use the rate structure to encourage the more efficient use of water. PUB has been able to provide lowered costs of delivered water of improved higher quality to industry and the community. Reclaimed water branded NEWater in Singapore is recognized for its high quality. Singapore has also been able to maintain low water costs for households on the lowest tariff water supply despite the major capital investments in new equipment and systems. Its household directed campaign of 'Water-efficient homes' helps residents to save water at home and reduce their water bills.Through an extensive partnering programme with the water industry in all aspects of implementation it has been a model of outsourcing skills. From this it has developed an industry capable of transferring this knowledge and skills to the region as well as attracting a broad rage of industry skills and capabilities as well as research in Singapore.The PUB story would fit well as a study example in the education of water managers. PUB has won the prestigious 2007 Stockholm Industry Water Award.
+PUB is the National Water Agency in Singapore charged with water, wastewater, and storm water management in the city state. The public agency services about 4.5 million people and a number of major industries with intensive water use. The development and implementation of the complete management system is ongoing but has taken over a period of about 40 years. PUB’s holistic approach has resulted in a lower dependence on external water sources by diversification of water sources including water reuse, desalination, storm water storage in new water storages, and supply of very high-quality recycled water to industry with some internal reuse of this supply. Singapore presents a challenging environment for water resources management, as it is a small but densely populated island city state. In its own operations PUB has significantly reduced water losses due to leakage in pipes and inaccurate meters. It has 100% servicing of its population with water and waste water services and strong political and public acceptance of its policies and services. It has been accompanied by a major change in water pricing and access policy, which aims to use the rate structure to encourage the more efficient use of water. PUB has been able to provide lowered costs of delivered water of improved higher quality to industry and the community. Reclaimed water branded NEWater in Singapore is recognized for its high quality. Singapore has also been able to maintain low water costs for households on the lowest tariff water supply despite the major capital investments in new equipment and systems. Its household directed campaign of ‘Water-efficient homes’ helps residents to save water at home and reduce their water bills. Through an extensive partnering programme with the water industry in all aspects of implementation it has been a model of outsourcing skills. From this it has developed an industry capable of transferring this knowledge and skills to the region as well as attracting a broad rage of industry skills and capabilities as well as research in Singapore. The PUB story would fit well as a study example in the education of water managers. PUB has won the prestigious 2007 Stockholm Industry Water Award.
 
 PUB website: www.pub.gov.sg
 
@@ -7714,29 +8135,29 @@ PUB website: www.pub.gov.sg
 
 Eleventh Five Year Plan
 
-###### Box 5.4 PPP in Urban Water Supply
+5.44 The large number of institutional issues in water supply sector discussed during the formulation of the Tenth Plan are still valid. The rationale of financing water supply schemes fully or partly as grant, inability of the urban local bodies (ULBs) to raise funds due to low tariff recovery, their weak financial position preventing any augmentation efforts, tossing around the responsibility of water supply from the State level utility to local bodies/Panchayats with large liabilities, etc. are continuing.
 
-Tamil Nadu has emerged as forerunner in attracting PPP in urban water supply sector. At 42%, it is a highly urbanized State in the country. The State has already commissioned the 'Tirupur Water Supply and Sewerage project' at a cost of Rs 1023 crore. The cost per kilo litre of water at estimate stage is Rs 30, which is high due to recovery of the sewerage capital cost, operating expenses, and capital cost. The next project on PPP is 100 million litres per day (MLD) desalination project for Chennai Water Supply.
-
-5.44 The large number of institutional issues in water supply sector discussed during the formulation of the Tenth Plan are still valid. The rationale of financing water supply schemes fully or partly as grant, inability of the urban local bodies (ULBs) to raise funds due to  low tariff  recovery,  their  weak financial position preventing any augmentation efforts, tossing around the responsibility of water supply from the State level utility to local bodies/Panchayats with large liabilities, etc. are continuing.
-
-5.45 Despite the large grants by TFC for local bodies to maintain the water supply systems, things have yet to  improve  a  lot  on  the  ground.  Overlapping  of responsibilities between various institutions like ULBs, State-level agencies, and departments dilutes the accountability and responsibility to the customers.
+5.45 Despite the large grants by TFC for local bodies to maintain the water supply systems, things have yet to improve a lot on the ground. Overlapping of responsibilities between various institutions like ULBs, State-level agencies, and departments dilutes the accountability and responsibility to the customers.
 
 ##### Tariff and O&M
 
-5.46 Evolving realistic water tariff so as to discourage excessive use of treated/potable water is one of the important management tools for demand management. Not much has been done on this important aspect in many urban local bodies in the country except a few larger cities that have undertaken some measures by way of installing water meters for consumers. The major reason for slow progress in this regard is that good quality meters are not available on  a  large  scale  since  the  meter  manufacturing facility is vested with small-scale industries at present, which do not have the capacity to produce meters on a large scale.
+5.46 Evolving realistic water tariff so as to discourage excessive use of treated/potable water is one of the important management tools for demand management. Not much has been done on this important aspect in many urban local bodies in the country except a few larger cities that have undertaken some measures by way of installing water meters for consumers. The major reason for slow progress in this regard is that good quality meters are not available on a large scale since the meter manufacturing facility is vested with small-scale industries at present, which do not have the capacity to produce meters on a large scale.
 
-5.47 Poor O&M due to inadequate financial resources is  one  of  the  primary reasons for low sustainability and equity in water supply. The responsibility of operation, maintenance, and revenue collection is generally  vested  with  the  elected  ULB,  while  the specialized  bodies  are  not  able  to  raise  the  water tariff  without  the  approval  of  the  provincial  governments. The local bodies generally receive grant assistance  ranging  from  10%  to  60%  for  capital works on water supply and sanitation from the State Government. Usually, they do not receive any grant assistance for O&M of water supply and sewerage. Municipal bodies in many parts of the country suffer from inadequate resources. Assessment of demand and 'willingness to pay' by the communities would help to arrive at a basis for pricing water management services and to clarify the scope for adopting 'full  cost  recovery'  policies  to  achieve  financial sustainability.
+5.47 Poor O&M due to inadequate financial resources is one of the primary reasons for low sustainability and equity in water supply. The responsibility of operation, maintenance, and revenue collection is generally vested with the elected ULB, while the specialized bodies are not able to raise the water tariff without the approval of the provincial governments. The local bodies generally receive grant assistance ranging from 10% to 60% for capital works on water supply and sanitation from the State Government. Usually, they do not receive any grant assistance for O&M of water supply and sewerage. Municipal bodies in many parts of the country suffer from inadequate resources. Assessment of demand and ‘willingness to pay’ by the communities would help to arrive at a basis for pricing water management services and to clarify the scope for adopting ‘full cost recovery’ policies to achieve financial sustainability.
 
 #### ELEVENTH FIVE YEAR PLAN PROGRAMMES FOR URBAN WATER SUPPLY
 
-- 5.48 With a view to provide 100% water supply accessibility to the entire urban population by the end of the Eleventh Plan in 2012, it has been estimated that Rs 53666 crore is required. With a view to provide reform-linked infrastructure facilities in the urban areas, the GoI has launched the two new programmes namely-
+- 5.48 With a view to provide 100% water supply accessibility to the entire urban population by the end of the Eleventh Plan in 2012, it has been estimated that Rs 53666 crore is required. With a view to provide reform-linked infrastructure facilities in the urban areas, the GoI has launched the two new programmes namely—
 
 (i) JNNURM covering 63 cities with population above one million as per 2001 census, including 35 metro cities and other State capitals and culturally important towns.
 
 (ii) UIDSSMT for the remaining 5098 towns having population less than one million to cover all the towns as per 2001 census, irrespective of the population criteria.
 
-- 5.49 JNNURM is envisaged for implementation over a seven-year period starting from 2005 to 2012 with a tentative outlay of Rs 100000 crore, which includes contribution of Rs 50000 crore to be made by the States  and  ULBs. Water  supply  and  sanitation  is accorded priority under the programme and is likely to receive 40% of plan funds. It is important to tap the other sources like higher Central and State sector outlays,  institutional  financing,  PPP,  and  external assistance.
+- 5.49 JNNURM is envisaged for implementation over a seven-year period starting from 2005 to 2012 with a tentative outlay of Rs 100000 crore, which includes contribution of Rs 50000 crore to be made by the States and ULBs. Water supply and sanitation is accorded priority under the programme and is likely to receive 40% of plan funds. It is important to tap the other sources like higher Central and State sector outlays, institutional financing, PPP, and external assistance.
+
+###### Box 5.4 PPP in Urban Water Supply
+
+Tamil Nadu has emerged as forerunner in attracting PPP in urban water supply sector. At 42%, it is a highly urbanized State in the country. The State has already commissioned the ‘Tirupur Water Supply and Sewerage project’ at a cost of Rs 1023 crore. The cost per kilo litre of water at estimate stage is Rs 30, which is high due to recovery of the sewerage capital cost, operating expenses, and capital cost. The next project on PPP is 100 million litres per day (MLD) desalination project for Chennai Water Supply.
 
 [[END OF PAGE 187]]
 
@@ -7758,7 +8179,7 @@ Drinking Water, Sanitation, and Clean Living Conditions
 
 - Under JNNURM and UIDSSMT programmes, special attention will be given to towns and cities
 
-affected by surface and groundwater contamination due to the presence of chemicals such as iron, manganese, fluoride, salinity, arsenic, pesticides, etc. in excess of the prescribed limits. Such droughtprone and water shortage areas as well as the cities and towns having water quality problems would be given top priority in the selection process by State Governments/ULBs.
+affected by surface and groundwater contamination due to the presence of chemicals such as iron, manganese, fluoride, salinity, arsenic, pesticides, etc. in excess of the prescribed limits. Such drought-prone and water shortage areas as well as the cities and towns having water quality problems would be given top priority in the selection process by State Governments/ULBs.
 
 ##### Maintenance of Assets
 
@@ -7770,7 +8191,7 @@ affected by surface and groundwater contamination due to the presence of chemica
 
 - Telescopic water tariff/user charges should be formulated and levied to discourage excessive use of water while providing a basic quantity of water at a low tariff. Metering of water supplies should be made mandatory in a phased manner with a view to conserve water as well as to generate revenue on a realistic basis.
 
-##### Box 5.5 Sea Water Desalination Initiative by National Institute of Ocean T echnology (NIOT), Chennai, Pure Water at Six Paise per Litre
+##### Box 5.5 Sea Water Desalination Initiative by National Institute of Ocean Technology (NIOT), Chennai, Pure Water at Six Paise per Litre
 
 The NIOT, Chennai, has succeeded in putting together and operating a desalination system with a capacity of 1 million litres a day. The quality of water is tested and found above international standards. For instance, the total dissolved solids was found to be less than 10 parts per million (PPM) as against international standard of 500 ppm. The system that works on the principle of flash evaporation works on mounted barge off shore, drawing water from sea at different levels to accomplish the task. The technology involved was turning surface sea water into vapour in a vacuum chamber and then condensing the vapour using the cold water drawn from the sea itself from a depth of 600 m. For transporting the one million litre water from offshore barge to the shore, specially designed water bags of special material were made that could hold and carry 2 lakh litres and could be towed to shore using small fishing boats. The NIOT would now focus on desalination plant with 10 MLD with the help of private sector. The water costs 6 paise per litre. The NIOT has already installed one lakh litre desalination plant at Lakshadweep Island during 2006.
 
@@ -7814,7 +8235,7 @@ such labs already exist, they should be strengthened with  equipment, chemicals,
 
 - 5.52 Sanitation is to be seen as a basic need, as basic as drinking water or food. A sanitary toilet, within or near home, provides privacy and dignity to women. Mahatma Gandhi emphasized the link between sanitation and health as a key goal for our society.
 
-- 5.53 Sanitation coverage, which ought to be a way of life to safeguard health, is inadequate in our country. In fact, problems like open defecation continue to remain the only form of sanitation for the majority of the population in rural areas. The practice of open defecation in India is due to a combination of factorsthe most prominent of them being the traditional behavioural pattern and lack of awareness of the people about the associated health hazards.
+- 5.53 Sanitation coverage, which ought to be a way of life to safeguard health, is inadequate in our country. In fact, problems like open defecation continue to remain the only form of sanitation for the majority of the population in rural areas. The practice of open defecation in India is due to a combination of factors—the most prominent of them being the traditional behavioural pattern and lack of awareness of the people about the associated health hazards.
 
 [[END OF PAGE 189]]
 
@@ -7826,7 +8247,7 @@ Drinking Water, Sanitation, and Clean Living Conditions
 
 5.54 Recognizing the link between healthy environment and sanitation, the MDGs stipulate, inter alia, halving, by 2015, the proportion of people without sustainable access to safe drinking water and basic sanitation. The TSC programme, the flagship programme of the government, has set an ambitious target beyond the MDGs and aims to achieve universal  sanitation coverage in the country by the end of the Eleventh Plan.
 
-#### PERFORMANCE REVIEW OF RURAL SANITATION SECTOR-TSC IN TENTH PLAN
+#### PERFORMANCE REVIEW OF RURAL SANITATION SECTOR—TSC IN TENTH PLAN
 
 5.55 The TSC is being implemented in 578 districts of 30 States/UTs with support from the Central Government and the respective State/UT governments. Against a target of 10.85 crore individual household toilets,  the  toilets  reported  completed is about 2.89 crore up to January 2007. In addition, about 3.12 lakh school toilets,  8900  sanitary  complex  for  women, and 99150 balwadi toilets  have  been  constructed. The approved outlay for the programme in the Tenth Plan was Rs 955 crore and the anticipated financial utilization is about Rs 2000 crore. The Eleventh Five Year Plan targets to complete 7.29 crore individual toilets for achieving universal sanitation coverage in rural areas.
 
@@ -7842,7 +8263,7 @@ awareness is now picking up and the programme needs to capitalize on this for in
 
 5.58 While the hardware part of the programme for assisting the States in providing the various types of sanitation would continue, the focus now should be more on changing behaviour patterns. The Nirmal Gram Puraskar (described later) has brought a sea change in the attitudes of the community and it is promoting a healthy competition among the Panchayats for  achieving total sanitation. Low-cost technology options for constructing the toilets should be tried and community should be given freedom to choose the various options. The focus on school sanitation needs to continue. In addition, SWM in villages should be the next focus area. Ten per cent of the TSC funds are earmarked for this purpose already. Adequate funding for the programme would have to be provided so that the momentum generated is not lost.
 
-#### IEC AND NIRMAL GRAM PURASKAR (NGP)SUCCESS STORIES
+#### IEC AND NIRMAL GRAM PURASKAR (NGP)—SUCCESS STORIES
 
 5.59 To add vigour to the TSC, in June 2003, the GoI initiated an incentive scheme for fully sanitized and open defecation free Gram Panchayats, blocks, and districts  called  the  NGP.  The  incentive  pattern  is based on population criteria. The NGP is given to the following:
 
@@ -7858,9 +8279,9 @@ awareness is now picking up and the programme needs to capitalize on this for in
 
 Eleventh Five Year Plan
 
-5.60 The incentive scheme has caught on like wild fire and the number of Panchayats who have received this Puraskar is steadily going up. From a mere 40 village/ block panchayats from six States that received the award in 2005, in the year 2007, the number of awardees have gone up to 4959 from 22 States. Maharashtra, which got 13 awards in 2005, received 1974 awards in 2007a significant achievement-followed by Gujarat with 576 awards. Box 5.6 highlights the efforts of Suravadi Panchayat in this area.
+5.60 The incentive scheme has caught on like wild fire and the number of Panchayats who have received this Puraskar is steadily going up. From a mere 40 village/block panchayats from six States that received the award in 2005, in the year 2007, the number of awardees have gone up to 4959 from 22 States. Maharashtra, which got 13 awards in 2005, received 1974 awards in 2007—a significant achievement—followed by Gujarat with 576 awards. Box 5.6 highlights the efforts of Suravadi Panchayat in this area.
 
-##### Beyond Nirmal Gram-Monitoring for Sustainability
+##### Beyond Nirmal Gram—Monitoring for Sustainability
 
 5.61 Once the village, block, or district Panchayat has received the Puraskar, there is a responsibility thrust on them, to maintain the Nirmal Gram status. The sustainability features mentioned in the Maharashtra success  story  on  sanitation  are  worth  emulating. Specially, community involvement with women and children would sustain the Nirmal Gram status. Such grams have to move now to the next stage of sustained SWM and proper street drainages.
 
@@ -7882,13 +8303,15 @@ Everybody is using toilets in the village today. Recognition of community is sho
 
 To sustain the programme women and children get regular knowledge on cleanliness through school. Extra classes have been organized for students on promotion of sanitation and hygiene activities in the schools. The village now has a better school facility and the Panchayat is fully involved, as it had initiated this campaign. There is a feeling of pride with their becoming the first village in the entire State to get the NGP award.
 
-Present sanitation status in the village is as follows :
+Present sanitation status in the village is as follows:
 
-Number of Households:
+Number of Households: 412
 
-412 100% using toilets Community Complexes (28 users) 10 Gobar gas plants linked to toilets
+Status of Toilets: 100% using toilets
 
-Status of Toilets:
+Community Complexes (28 users)
+
+10 Gobar gas plants linked to toilets
 
 [[END OF PAGE 191]]
 
@@ -7938,6 +8361,8 @@ management as business models under various employment and self-employment progr
 
 Eleventh Five Year Plan
 
+TABLE 5.2 Status of Water Supply, Wastewater Generation, and Treatment in Class I Cities/Class II Towns in 2003–04
+
 Parameters | Class I Cities | Class II Towns | Total
 --- | --- | --- | ---
 Number (as per 2001 census) | 423 | 498 | 921
@@ -7946,12 +8371,8 @@ Water Supply (MLD) | 29782 | 3035 | 32817
 Water Supply (LPCD) | 160 | 81 | 146
 Wastewater generated (MLD) | 23826 | 2428 | 26054
 Wastewater generation (LPCD) | 127 | 65 | 116
-Wastewater treated | 6955 | 89 | 7044
-(MLD) | (29%) | (3.67%) | (27%)
-Wastewater | 16871 | 2339 | 19210
-untreated (MLD) | (71%) | (96.33%) | (73%)
-
-TABLE 5.2 Status of Water Supply, Wastewater Generation, and Treatment in Class I Cities/Class II T owns in 2003-04
+Wastewater treated (MLD) | 6955 (29%) | 89 (3.67%) | 7044 (27%)
+Wastewater untreated (MLD) | 16871 (71%) | 2339 (96.33%) | 19210 (73%)
 
 Water and sanitation diseases are responsible for 60% of the environmental health burden. The single major cause of this burden of disease is diarrhoea, which disproportionately affects the children under the age of five.
 
@@ -7963,7 +8384,7 @@ Water and sanitation diseases are responsible for 60% of the environmental healt
 
 5.70 There has been no major effort in the past to create community awareness, either about the likely perils due to poor waste management or the simple steps that every citizen can take, which will help in reducing waste generation and promote effective management of solid waste generated. The degree of community sensitization and public awareness is low.
 
-5.71 Since  in  most  of  our  cities  there  are  many unauthorized housing colonies that are not provided sewerage facilities, their waste go untreated polluting the water bodies in which it is drained. Cities need to treat the sewage from the entire city.
+5.71 Since in most of our cities there are many unauthorized housing colonies that are not provided sewerage facilities, their waste go untreated polluting
 
 [[END OF PAGE 193]]
 
@@ -7972,6 +8393,8 @@ Water and sanitation diseases are responsible for 60% of the environmental healt
 Drinking Water, Sanitation, and Clean Living Conditions
 
 177
+
+the water bodies in which it is drained. Cities need to treat the sewage from the entire city.
 
 - 5.72 Growing urbanization has made storm water draining systems inadequate increasing the frequency of flooding of cities like Mumbai.
 
@@ -7997,7 +8420,7 @@ population is proposed to be covered with appropriate SWM. It has been estimated
 
 - Recycling and reuse of sewage after the desired degree of treatment (depending upon the end use) for various non-potable purposes should be encouraged. Industries and commercial establishments must be persuaded to adopt reuse of treated sewage and recycle treated trade effluents to the extent possible in order to cut down the fresh water demand.
 
-##### Box 5.7 Success in SWM-The Case of Surat
+##### Box 5.7 Success in SWM—The Case of Surat
 
 The outbreak of a plague-like disease in Surat in 1994 brought solid waste to the attention of the public. The contrast between the scrupulously clean Indian homes and the heaps of rubbish and filth commonly found in the urban public spaces was much discussed in the newspapers of the day. Urban filth was deemed to be bad for both public health and the urban economy.
 
@@ -8023,9 +8446,7 @@ Moreover, incentives in the form of rebate on water cess,  concessions in custom
 
 ##### SOLID WASTE MANAGEMENT (SWM)
 
-- Urban waste management by ULBs is already under stress because of paucity of resources and inadequacies of the system. Unless concerted efforts are  made  to  improve  the  flow  of  resources  to SWM and build up systems that incorporate the basic requirements of a proper waste management
-
-- practice, the problem of urban waste will be further aggravated and cause environmental health problems.
+- Urban waste management by ULBs is already under stress because of paucity of resources and inadequacies of the system. Unless concerted efforts are made to improve the flow of resources to SWM and build up systems that incorporate the basic requirements of a proper waste management practice, the problem of urban waste will be further aggravated and cause environmental health problems.
 
 - It is recommended that all the cities and towns have to be provided with appropriate SWM facilities giving due emphasis to the magnitude of the problem.
 
@@ -8047,23 +8468,23 @@ Drinking Water, Sanitation, and Clean Living Conditions
 
 179
 
-- collectors, a lot is left to be disposed off. To keep cities clean, citizen involvement is essential to sort waste at source and minimize waste that needs to be collected and disposed. A programme should be implemented to obtain citizens' cooperation. NGOs should be encouraged to provide organizational support and identity to the rag pickers so that better recycling occurs. Adequate land should be earmarked/allotted at the planning stage itself by the respective ULBs for setting up of sanitary landfills, compost plants, and other processing units including provision for future expansion.
+collectors, a lot is left to be disposed off. To keep cities clean, citizen involvement is essential to sort waste at source and minimize waste that needs to be collected and disposed. A programme should be implemented to obtain citizens’ cooperation. NGOs should be encouraged to provide organizational support and identity to the rag pickers so that better recycling occurs. Adequate land should be earmarked/allotted at the planning stage itself by the respective ULBs for setting up of sanitary landfills, compost plants, and other processing units including provision for future expansion.
 
 - Awareness campaigns on various aspects of water quality, importance of safe drinking water, its handling and storage, water conservation in homes, use of sanitary toilets, separate storage of dry and wet garbage and its hygienic disposal, vector control, personal hygiene, etc. should be mounted.
 
 #### PPP IN URBAN SANITATION AND SWM
 
-- 5.80 Though privatization of water supply and sanitation sector could not make significant progress as of now, there is substantial potential and urgent need for the same in near future. By and large, the tariff rates being charged from the consumers are very low and there is a general reluctance for enhancing the same. Under the circumstances, without aiming at full cost recovery, privatization cannot be a successful proposition. It is felt that it would be easier and convenient to  introduce privatization in new areas where the private companies will have a free hand to take up the task of planning, designing, execution, O&M, billing, and collection including tapping of raw water from the  selected  source  either  on  Build  Own  Operate (BOO) or Build Own Operate Transfer (BOOT) basis.  Few examples to infuse confidence in private entrepreneurs are-the successful award of Chennai service  contract  for  O&M of 61 sewage pumping stations in the city, and of Rajkot and Surat contracting out a number of municipal services to private firms as well as community groups.
+- 5.80 Though privatization of water supply and sanitation sector could not make significant progress as of now, there is substantial potential and urgent need for the same in near future. By and large, the tariff rates being charged from the consumers are very low and there is a general reluctance for enhancing the same. Under the circumstances, without aiming at full cost recovery, privatization cannot be a successful proposition. It is felt that it would be easier and convenient to introduce privatization in new areas where the private companies will have a free hand to take up the task of planning, designing, execution, O&M, billing, and collection including tapping of raw water from the selected source either on Build Own Operate (BOO) or Build Own Operate Transfer (BOOT) basis. Few examples to infuse confidence in private entrepreneurs are—the successful award of Chennai service contract for O&M of 61 sewage pumping stations in the city, and of Rajkot and Surat contracting out a number of municipal services to private firms as well as community groups.
 
 - 5.81 There were some public concerns on PPP projects in the water supply sector in the country because of which the projects were either stalled or dropped. If the community could be involved in PPP projects there would be more acceptability to such projects. PPP can
 
-be redesigned as Public-Private Community Partnership to overcome the hurdle.
+be redesigned as Public–Private Community Partnership to overcome the hurdle.
 
 ### CLEAN LIVING CONDITIONS
 
 #### INTRODUCTION
 
-5.82 Achievement of health objectives involves much more than curative or preventive medical care. Many of the communicable diseases in India can be prevented through a combination of health and nonhealth  interventions.  We  need  a  comprehensive approach that encompasses individual health care, public health, sanitation, clean drinking water, access to  food and knowledge about hygiene and feeding practice,  etc.  A  direct  relationship  exists  between water, sanitation, and health. Safe drinking water and sanitation are critical determinants, which directly contribute nearly 70-80% in reducing the burden of communicable diseases. Inadequate provision of safe drinking water, improper disposal of human waste, and lack of adequate systems for disposal of sewage and solid wastes leads to unhealthy and unhygienic conditions. This coupled with overall ignorance of personal and environmental hygiene are the main causes of a large number of water-borne diseases in the country.
+5.82 Achievement of health objectives involves much more than curative or preventive medical care. Many of the communicable diseases in India can be prevented through a combination of health and non-health interventions. We need a comprehensive approach that encompasses individual health care, public health, sanitation, clean drinking water, access to food and knowledge about hygiene and feeding practice, etc. A direct relationship exists between water, sanitation, and health. Safe drinking water and sanitation are critical determinants, which directly contribute nearly 70–80% in reducing the burden of communicable diseases. Inadequate provision of safe drinking water, improper disposal of human waste, and lack of adequate systems for disposal of sewage and solid wastes leads to unhealthy and unhygienic conditions. This coupled with overall ignorance of personal and environmental hygiene are the main causes of a large number of water-borne diseases in the country.
 
 #### CLEAN WATER SUPPLY
 
@@ -8083,15 +8504,7 @@ Eleventh Five Year Plan
 
 5.85 Sanitation covers the whole range of activities including human waste disposal, liquid and solid wastes from household, and industrial waste. Lack of drains and the presence of ditches create unsanitary conditions, which contaminate water, breed mosquitoes, and cause water-borne diseases. Malaria, typhoid, jaundice,  cholera,  dengue,  and  diarrhoea  are  all connected to unsanitary conditions (Annexure 5.2). Chikungunya fever has emerged as an epidemic outbreak after more than three decades. These diseases can be prevented by appropriate sanitation system. Unfortunately, access to sanitation facilities continues to be grossly inadequate.
 
-5.86 Census 2001 indicates that of the 200 million dwelling units across the country, only some 40 million dwelling units have a toilet inside the house. Only 61% households in urban areas and 17% households in  rural  areas  have  access  to  improved  sanitation. 1 While households having bathroom facility within the house is abysmally low in rural areas and urban areas in the poor performing States, the position in respect of connectivity for wastewater outlet is even more alarming. While closed drainage is available in the urban areas at least in the developed States, a large percentage of bathrooms across all States in the country have no drainage system particularly in the rural areas. This percentage is as high as 73.88 in Orissa, 72.69 in Assam and 71.81 in Chhattisgarh. The nonavailability of toilets within the house is as high in Bihar (71.94%), Chhattisgarh (76.78%), and in Jharkhand
-
-> 1 Census of India 2001, Registrar General of India.
-
-> 2 Census of India 2001, Registrar General of India.
-
-> 3 A. Kotwal (2007), Environment and Health, in O.P. Gupta and O.P. Ghai (eds), Text Book of Preventive & Social Medicine, 2nd edn, New Delhi: C.B.S Publishers.
-
-(73.03%). In urban areas, the percentage of households not having toilet is marked in the case of Goa (15.26%), Maharashtra (17.75%), Chandigarh (17.83%), Delhi (19.58%), and Tamil Nadu (14.84%). 2  Top priority needs to be accorded to improving sanitary conditions and ensuring a clean microenvironment at home and at the workplace, which must now include factories, coalmines, quarries, and roads. The TSC aims to eliminate the practice of open defecation completely by 2012.
+5.86 Census 2001 indicates that of the 200 million dwelling units across the country, only some 40 million dwelling units have a toilet inside the house. Only 61% households in urban areas and 17% households in rural areas have access to improved sanitation. 1 While households having bathroom facility within the house is abysmally low in rural areas and urban areas in the poor performing States, the position in respect of connectivity for wastewater outlet is even more alarming. While closed drainage is available in the urban areas at least in the developed States, a large percentage of bathrooms across all States in the country have no drainage system particularly in the rural areas. This percentage is as high as 73.88 in Orissa, 72.69 in Assam and 71.81 in Chhattisgarh. The non-availability of toilets within the house is as high in Bihar (71.94%), Chhattisgarh (76.78%), and in Jharkhand (73.03%). In urban areas, the percentage of households not having toilet is marked in the case of Goa (15.26%), Maharashtra (17.75%), Chandigarh (17.83%), Delhi (19.58%), and Tamil Nadu (14.84%). 2 Top priority needs to be accorded to improving sanitary conditions and ensuring a clean microenvironment at home and at the workplace, which must now include factories, coalmines, quarries, and roads. The TSC aims to eliminate the practice of open defecation completely by 2012.
 
 #### ENVIRONMENTAL POLLUTION
 
@@ -8099,7 +8512,13 @@ Eleventh Five Year Plan
 
 5.88 Cooking and heating with solid fuels on open fires or traditional stoves results in high levels of indoor air pollution. Indoor smoke contains a range of health-damaging pollutants, such as small particles and carbon monoxide.
 
-5.89 Indian women spend nearly 60% of their reproductive life in either pregnancy or breast-feeding. 3 Most of the women keep their children in the kitchen when they are cooking, thereby exposing the children to the pollutants too. This, combined with malnutrition may retard growth and lead to smaller lungs and a  greater  prevalence of chronic bronchitis. There is an urgent need for the implementation of control programs to reduce levels of particulate and other pollutant emissions. To be effective, these programs should include the participation of the different stakeholders and initiate activities to identify and characterize  air  pollution  problems,  as  well  to  estimate potential health impacts. A full understanding of the problem and its potential consequences for the local setting is essential for effectively targeting interventions to reduce the harmful impacts of air pollution.
+5.89 Indian women spend nearly 60% of their reproductive life in either pregnancy or breast-feeding. 3 Most of the women keep their children in the kitchen when they are cooking, thereby exposing the children to the pollutants too. This, combined with malnutrition may retard growth and lead to smaller lungs and a greater prevalence of chronic bronchitis. There is an urgent need for the implementation of control programs to reduce levels of particulate and other pollutant emissions. To be effective, these programs should include the participation of the different stakeholders and initiate activities to identify and characterize air pollution problems, as well to estimate potential health impacts. A full understanding of the problem and its potential consequences for the local setting is essential for effectively targeting interventions to reduce the harmful impacts of air pollution.
+
+> 1 Census of India 2001, Registrar General of India.
+
+> 2 Census of India 2001, Registrar General of India.
+
+> 3 A. Kotwal (2007), Environment and Health, in O.P. Gupta and O.P. Ghai (eds), Text Book of Preventive & Social Medicine, 2nd edn, New Delhi: C.B.S Publishers.
 
 [[END OF PAGE 197]]
 
@@ -8137,9 +8556,11 @@ Drinking Water, Sanitation, and Clean Living Conditions
 
 Eleventh Five Year Plan
 
-States | Diarrhoeal Disease (2006) | Viral Hepatitis (2006) | Typhoid (2006)
+### ANNEXURE 5.1 Cases and Deaths due to Water-borne Diseases in Various States
+
+States | Diarrhoeal Disease (2006) |  | Viral Hepatitis (2006) |  | Typhoid (2006) | 
 --- | --- | --- | --- | --- | --- | ---
-Cases | Deaths | Cases | Deaths | Cases | Deaths
+ | Cases | Deaths | Cases | Deaths | Cases | Deaths
 Andhra Pradesh | 1215659 | 124 | 17846 | 28 | 135550 | 12
 Arunachal Pradesh | 32032 | 30 | 553 | 6 | 9098 | 23
 Assam | .. | .. | .. | .. | .. | ..
@@ -8177,9 +8598,7 @@ Lakshadweep | 7316 | 0 | 86 | 0 | 6 | 0
 Pondicherry | 137443 | 8 | 615 | 7 | 1936 | 1
 Total | 10079263 | 3124 | 146433 | 673 | 726484 | 651
 
-### ANNEXURE 5.1 Cases and Deaths due to Water-borne Diseases in Various States
-
-Note: ' .. ' means not reported.
+Note: ‘..’ means not reported.
 
 Source: MoHFW, GoI, 2006.
 
@@ -8191,9 +8610,11 @@ Drinking Water, Sanitation, and Clean Living Conditions
 
 183
 
-States | Malaria (2005) | TB (2006) | ARI
+### ANNEXURE 5.2 Burden of Major Communicable Diseases in Various States
+
+States | Malaria (2005) |  | TB (2006) |  | ARI | 
 --- | --- | --- | --- | --- | --- | ---
-Cases | Deaths | Cases | Deaths | Cases | Deaths
+ | Cases | Deaths | Cases | Deaths | Cases | Deaths
 Andhra Pradesh | 39099 | 0 | 142057 | 1184 | 2465743 | 434
 Arunachal Pradesh | 31215 | 0 | 1593 | 38 | 43426 | 1
 Assam | 67885 | 113 | .. | .. | .. | ..
@@ -8231,13 +8652,9 @@ Lakshadweep | 0 | 0 | 39 | 0 | 32093 | 0
 Puducherry | 44 | 0 | 7738 | 125 | 584161 | 1
 Total | 1816342 | 963 | 789135 | 7073 | 25807722 | 3467
 
-### ANNEXURE 5.2 Burden of Major Communicable Diseases in Various States
+Note: ‘..’ means not reported.
 
-Note: '..' means not reported.
-
-Source:
-
-National Health Profile 2006, CBHI, DGHS-MoHFW.
+Source: National Health Profile 2006, CBHI, DGHS—MoHFW.
 
 [[END OF PAGE 200]]
 
@@ -8259,7 +8676,7 @@ National Health Profile 2006, CBHI, DGHS-MoHFW.
 
 - 6.4 The Eleventh Plan recognizes that women and children are not homogenous categories; they belong to  diverse  castes,  classes,  communities,  economic groups, and are located within a range of geographic and development zones. Consequently, some groups are more vulnerable than others. Mapping and addressing the specific deprivations that arise from these multiple locations is essential for the success of planned interventions. Thus apart from the general programme interventions, special targeted interventions catering to the differential needs of these groups will be undertaken during the Eleventh Plan.
 
-- 6.5 The gender perspectives incorporated in the plan are the outcome of extensive consultations with different stakeholders, including a Group of Feminist Economists. In the Eleventh Plan, for the first time, women are recognized not just as equal citizens but as agents of economic and social growth. The approach to gender equity is based on the recognition that interventions in favour of women must be multi-pronged and they must: (i) provide women with basic entitlements, (ii) address the reality of globalization and its impact on women by prioritizing economic empowerment, (iii) ensure an environment free from all forms of violence against women (VAW)-physical,
+- 6.5 The gender perspectives incorporated in the plan are the outcome of extensive consultations with different stakeholders, including a Group of Feminist Economists. In the Eleventh Plan, for the first time, women are recognized not just as equal citizens but as agents of economic and social growth. The approach to gender equity is based on the recognition that interventions in favour of women must be multi-pronged and they must: (i) provide women with basic entitlements, (ii) address the reality of globalization and its impact on women by prioritizing economic empowerment, (iii) ensure an environment free from all forms of violence against women (VAW)—physical,
 
 [[END OF PAGE 201]]
 
@@ -8285,6 +8702,10 @@ economic, social, psychological etc., (iv) ensure the participation and adequate
 
 - Reduce malnutrition among children of age group 0-3 to half its present level.
 
+- Reduce anaemia among women and girls by 50% by the end of the Eleventh Plan.
+
+- Reduce dropout rate for primary and secondary schooling by 10% for both girls as well as boys.
+
 #### Box 6.1 Essence of the Approach
 
 - Recognition of the right of every woman and child to develop to her/his full potential
@@ -8295,27 +8716,23 @@ economic, social, psychological etc., (iv) ensure the participation and adequate
 
 - Partnership with civil society to create permanent institutional mechanisms that incorporate the experiences, capacities and knowledge of VOs and women's groups in the process of development planning.
 
-- Reduce anaemia among women and girls by 50% by the end of the Eleventh Plan.
-
-- Reduce dropout rate for primary and secondary schooling by 10% for both girls as well as boys.
-
 ### STATUS OF WOMEN: A BRIEF OVERVIEW
 
 6.8 Due to the untiring  efforts  of  the  women's movement,  the  country  amended  and  enacted women-related legislations during the Tenth Plan. The Married Women's Property Act (1874), the Hindu Succession Act (1956) were amended and the Protection of Women from Domestic Violence Act (PWDVA) (2005) was passed. The Union Budget 2005-06, for the first time, included a separate statement highlighting the gender sensitivities of the budgetary allocation under 10 demands for grants. Gender Budgeting Cells were set up in 52 Central ministries/departments to review public expenditure, collect gender disaggregated data, and conduct gender-based impact analysis. Under Women Component Plan (WCP), efforts were made to ensure that not less than 30% of funds/benefits under various schemes of all ministries/departments were earmarked for women. The performance however has been far from satisfactory. The Mid Term Appraisal of Tenth Plan revealed that while 42.37% of the GBS to the Department of Education flowed to women under WCP, only 5% of the GBS of Ministry of  Labour (against 33.5% in the Ninth Plan) went to women in the first three years of the Tenth Plan. Several  ministries  and/or  departments  that  had
 
 #### Box 6.2
 
-#### Schemes (major) for  Women during  T enth Plan
+#### Schemes (major) for Women during Tenth Plan
 
-- Swayamsidha -Implemented in 650 selected blocks. Target: 16000 SHGs. Achievement: 1767.
+- Swayamsidha—Implemented in 650 selected blocks. Target: 16000 SHGs. Achievement: 1767.
 
-- Support to Training and Employment Programme for Women (STEP)-Target: provide training to 2.5 lakh. Achievement: 2.31 lakh.
+- Support to Training and Employment Programme for Women (STEP)—Target: provide training to 2.5 lakh. Achievement: 2.31 lakh.
 
-- Swawlamban SchemeTarget: 5 lakh. Achievement: 2.32 lakh.
+- Swawlamban Scheme—Target: 5 lakh. Achievement: 2.32 lakh.
 
-- Hostels for Working Women -Target: construct 125 hostels benefiting 12500 women. Achievement: 111 hostels were constructed during the Plan benefiting 6976 women.
+- Hostels for Working Women—Target: construct 125 hostels benefiting 12500 women. Achievement: 111 hostels were constructed during the Plan benefiting 6976 women.
 
-- Swadhar -To provide shelter, food, clothing, and care to the women living in difficult circumstances. No specific target. Achievement: 21464 women benefited.
+- Swadhar—To provide shelter, food, clothing, and care to the women living in difficult circumstances. No specific target. Achievement: 21464 women benefited.
 
 [[END OF PAGE 202]]
 
@@ -8335,21 +8752,21 @@ earlier reported on the WCP in their sectoral budgets stopped doing so. Within t
 
 6.11 During the decade 1991-2001, 70 districts in 16 States and union territories recorded more than a 50 points decline in sex ratio. Fatehgarh Sahib district in Punjab 2 registered the lowest sex ratio at 754. What is truly worrying is the dip in child sex ratio in economically prosperous States like Punjab (793), 3 Delhi (865), Haryana (820), and Gujarat (878). 4 This negates the popular belief that female foeticide stems from illiteracy and poverty and will cease with economic growth (see Box 6.3). The Census of 2001 and Sachar Committee report (2006) also reveal that the sex ratio varies across communities and social groups. At 950, child sex ratio for Muslims is much higher than Hindus (925).
 
-> 1 Registrar General of India 2003.
-
-> 2 Missing: Mapping the Adverse Child Sex Ratio in India , 2003, Booklet compiled by Registrar General of India and Census Commissioner, the M/o Health and Family Welfare and UNFPA.
-
-> 3 Sansarwal village of Patiala District, Punjab. A health survey showed an alarming figure of 438 girls for 1000 boys ( Hindustan Times , 11 November 2007).
-
-> 4 Missing: Mapping the Adverse Child Sex Ratio in India , 2003.
-
-> 5 India, Registrar General and Census Commissioner (2004). Primary Census Abstract Total Population: Census of India 2001, New Delhi, p. iii.
-
 #### HEALTH AND FAMILY WELFARE
 
-6.12 Discrimination against women and girls impinges upon their right to health and manifests itself in the form of worsening health and nutrition indices. Thus, India continues to grapple with unacceptably high MMR, IMR, and increasing rates of anaemia, malnutrition, HIV/AIDS among women. According to NFHS-3, incidence of anaemia has risen from 49.7% to 57.9% in pregnant women and from 51.8% to 56.2% in ever-married women within a period of seven years (1998-99 to 2005-06). This has raised anaemia among children by 5 percentage points (to 79.2%) and is also partially  responsible  for  the  high  MMR. Maternal mortality has a direct correlation with lack of accessibility to health care facilities. Paucity of resources and age old discriminatory practices deny large number of women access to good nutrition and care before, during, and after child birth, thus increasing their mortality. Only 22% of mothers consume Iron Folic Acid (IFA) tablets for 90 days or more, and less than half  of  them  receive  three ANC visits. As many as 51.7% births take place without assistance from any health personnel. Practices such as female foeticide also affect women's health, as they are forced to go through multiple  pregnancies  and  abortions. As  a  result, although MMR has fallen from 398 in 1998 to 301 in 2001-03 (SRS), we are far from meeting the Tenth Plan target of reducing MMR to 200 per 100000 live births. States like UP(707), Uttaranchal (517), Assam (409), and MP (498) have very high MMRs. 5
+6.12 Discrimination against women and girls impinges upon their right to health and manifests itself in the form of worsening health and nutrition indices. Thus, India continues to grapple with unacceptably high MMR, IMR, and increasing rates of anaemia, malnutrition, HIV/AIDS among women. According to NFHS-3, incidence of anaemia has risen from 49.7% to 57.9% in pregnant women and from 51.8% to 56.2% in ever-married women within a period of seven years (1998-99 to 2005-06). This has raised anaemia among children by 5 percentage points (to 79.2%) and is also partially responsible for the high MMR. Maternal mortality has a direct correlation with lack of accessibility to health care facilities. Paucity of resources and age old discriminatory practices deny large number of women access to good nutrition and care before, during, and after child birth, thus increasing their mortality. Only 22% of mothers consume Iron Folic Acid (IFA) tablets for 90 days or more, and less than half of them receive three ANC visits. As many as 51.7% births take place without assistance from any health personnel. Practices such as female foeticide also affect women's health, as they are forced to go through multiple pregnancies and abortions. As a result, although MMR has fallen from 398 in 1998 to 301 in 2001-03 (SRS), we are far from meeting the Tenth Plan target of reducing MMR to 200 per 100000 live births. States like UP(707), Uttaranchal (517), Assam (409), and MP (498) have very high MMRs. 5
 
 6.13 While the mean age of marriage of women has increased from 15.5 years in 1961 to 19.5 in 1997, 44.5% of women are still married off by the age of 18.
+
+> 1 Registrar General of India 2003.
+
+> 2 Missing: Mapping the Adverse Child Sex Ratio in India, 2003, Booklet compiled by Registrar General of India and Census Commissioner, the M/o Health and Family Welfare and UNFPA.
+
+> 3 Sansarwal village of Patiala District, Punjab. A health survey showed an alarming figure of 438 girls for 1000 boys (Hindustan Times, 11 November 2007).
+
+> 4 Missing: Mapping the Adverse Child Sex Ratio in India, 2003.
+
+> 5 India, Registrar General and Census Commissioner (2004). Primary Census Abstract Total Population: Census of India 2001, New Delhi, p. iii.
 
 [[END OF PAGE 203]]
 
@@ -8395,7 +8812,7 @@ Certain States  such  as  Jharkhand  (61.2%),  Bihar (60.3%), and Rajasthan (57.
 
 6.15 Inadequacies of clean cooking fuels adversely impacts women and children's work burden, health, and nutrition. Till date, 92% of rural domestic energy comes from unprocessed biofuels (firewood, crop waste, cattle dung), and 85% of rural cooking fuel is gathered from forests, village commons, and fields. Women and girls spend a great deal of time gathering fuel, adversely affecting their productivity and education.  Use  of  firewood  and  inferior  fuels  such  as weeds or crop wastes leads to smoke-related ailments including respiratory diseases, cancer, and cataracts resulting in blindness.
 
-6.16 Then there are sexually transmitted diseases (STDs). NACO estimates that one in three persons living with HIV in India is a woman. The National Council for Applied Economic Research survey shows that women account for more than 70% of the caregivers, 21% of who are themselves HIV positive. Disowned by family and disinherited from property, they are unable to access drugs to prevent mother-to-childtransmission. Nearly 60% of HIV-positive widows are less than 30 years of age and live with their natal families;  91% of them receive no financial support from their marital homes. Thus not only are women more vulnerable to getting infected, but when they are found positive they face much greater discrimination than their male counterparts.
+6.16 Then there are sexually transmitted diseases (STDs). NACO estimates that one in three persons living with HIV in India is a woman. The National Council for Applied Economic Research survey shows that women account for more than 70% of the caregivers, 21% of who are themselves HIV positive. Disowned by family and disinherited from property, they are unable to access drugs to prevent mother-to-child-transmission. Nearly 60% of HIV-positive widows are less than 30 years of age and live with their natal families; 91% of them receive no financial support from their marital homes. Thus not only are women more vulnerable to getting infected, but when they are found positive they face much greater discrimination than their male counterparts.
 
 [[END OF PAGE 204]]
 
@@ -8407,7 +8824,7 @@ Eleventh Five Year Plan
 
 #### EDUCATION
 
-6.17 The growth rate for female literacy in the last decade has been 3% higher than the growth rate for male literacy resulting in a decline in the absolute numbers of illiterate women-from 200.7 million in 1991 to 190 million in 2001. Gender differential in education, however, continues to be high at 21.7%. This can be attributed to a number of factors-lack of access to schools, lack of toilets and drinking water, parents feeling insecure about sending girl children, poor quality of education in government schools, and high fees charged by the private ones. Also with increasing feminization of agriculture, the pressure of looking after younger siblings, collecting cooking fuel, water and maintaining the household, all fall upon the girl child, putting a stop to her education and development.
+6.17 The growth rate for female literacy in the last decade has been 3% higher than the growth rate for male literacy resulting in a decline in the absolute numbers of illiterate women—from 200.7 million in 1991 to 190 million in 2001. Gender differential in education, however, continues to be high at 21.7%. This can be attributed to a number of factors—lack of access to schools, lack of toilets and drinking water, parents feeling insecure about sending girl children, poor quality of education in government schools, and high fees charged by the private ones. Also with increasing feminization of agriculture, the pressure of looking after younger siblings, collecting cooking fuel, water and maintaining the household, all fall upon the girl child, putting a stop to her education and development.
 
 #### WORK AND EMPLOYMENT
 
@@ -8421,22 +8838,21 @@ Eleventh Five Year Plan
 
 > 8  NSSO 2004-05.
 
-TABLE 6.1 Work Participation Rates by Sex (1972 to 2005)
+TABLE 6.1
+Work Participation Rates by Sex (1972 to 2005)
 
 (in %)
 
-Year | Rural | Urban
+Year | Rural |  | Urban |
 --- | --- | --- | --- | ---
-Female | Male | Female | Male
+ | Female | Male | Female | Male
 1972-73 | 31.8 | 54.5 | 13.4 | 50.1
 1987-88 | 32.3 | 53.9 | 15.2 | 50.6
 1996-97 | 29.1 | 55.0 | 13.1 | 52.1
 2000-01 | 28.7 | 54.4 | 14.0 | 53.1
 2004-05 | 32.7 | 54.6 | 16.6 | 54.9
 
-Source:
-
-NSSO.
+Source: NSSO.
 
 6.20 As in the case of education, women's employment characterization  differs  across  communities.  The Sachar Committee Report shows that work participation rate among Muslim women is 25%, and as low as 18% in urban areas. A larger proportion (73%) of Muslim women is self-employed compared to 55% Hindu women. A much smaller proportion of SC/ST women are self-employed; 45% of SC/ST women are casual workers compared to around 20% Muslim and 15% of upper caste Hindu women.
 
@@ -8450,21 +8866,21 @@ Towards Women's Agency and Child Rights
 
 189
 
-Category | Rural males | Rural females | Urban males | Urban females
+TABLE 6.2
+Average Wage/Salary Earnings (Rs Per Day) Received by Regular Wage/Salaried
+Employees of Age 15–59 Years for Different Education Levels
+
+Category | Rural males |  | Rural females |  | Urban males |  | Urban females |
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-1999-2000 | 2004-05 | 1999-2000 | 2004-05 | 1999-2000 | 2004-05 | 1999-2000 | 2004-05
+ | 1999–2000 | 2004–05 | 1999–2000 | 2004–05 | 1999–2000 | 2004–05 | 1999–2000 | 2004–05
 Not literate | 71.2 | 72.5 | 40.3 | 35.7 | 87.6 | 98.8 | 51.8 | 48.7
 Literate upto primary | 91.6 | 98.6 | 161.5 | 97.8 | 105.1 | 111.4 | 64.4 | 64.8
 Sec/H.Sec | 148.2 | 158.0 | 126.1 | 100.2 | 168.2 | 182.6 | 145.7 | 150.4
-Dip/Cert | - | 214.4 | - | 200.4 | - | 274.9 | - | 237.0
+Dip/Cert | – | 214.4 | – | 200.4 | – | 274.9 | – | 237.0
 Graduate and others | 220.9 | 270.0 | 159.9 | 172.7 | 281.6 | 366.8 | 234.7 | 269.2
 All | 127.3 | 144.9 | 113.3 | 85.5 | 169.7 | 203.3 | 140.3 | 153.2
 
-TABLE 6.2 Average Wage/Salary Earnings (Rs Per Day) Received by Regular Wage/Salaried Employees of Age 15-59 Years for Different Education Levels
-
-Source:
-
-NSSO 55th and 61st Round.
+Source: NSSO 55th and 61st Round.
 
 ##### Unorganized Sector
 
@@ -8498,19 +8914,20 @@ NSSO 55th and 61st Round.
 
 Eleventh Five Year Plan
 
-Year | Central government | State government | Local bodies | Total (In million)
+TABLE 6.3
+Women in the Government Sector
+
+Year | Central government |  |  | State government |  |  | Local bodies |  |  | Total (In million) |  |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Female | Total | Female % | Female | Total | Female % | Female | Total | Female % | Female | Total | Female%
+ | Female | Total | Female % | Female | Total | Female % | Female | Total | Female % | Female | Total | Female%
 1981 | 0.14 | 3.19 | 4.3 | 0.65 | 5.67 | 11.4 | 0.41 | 2.04 | 20.4 | 1.2 | 10.91 | 11
 2004 | 0.25 | 3.03 | 8.25 | 1.46 | 7.22 | 20.22 | 0.58 | 2.13 | 27.23 | 2.29 | 12.38 | 18.5
-
-TABLE 6.3 Women in the Government Sector
 
 Source: Directorate General of Employment and Training, Ministry of Labour, New Delhi.
 
 #### Violence against Women (VAW)
 
-6.27 Despite improving education levels and consistent economic growth, every form of violence against women including female foeticide, rape, abduction, trafficking, dowry death, domestic violence, and witchhunting, has been increasing. We have 10 million missing girls in India and this number is rising. Dowry deaths rose from 6822 in 2002 to 7026 in 2004. In 2005, highest number of dowry deaths were registered in UP, followed by Bihar, and MP. NFHS-3 shows that more than half of all Indian women believe that husbands can beat wives if they have an appropriate reason and 37% admit to being victims of spousal violence. Data from NCRB reveals little or no change in crime trends in rape and molestation. In 84-89% of the rape cases in the years 2002-04, the victim knew the offenders. In 9% cases, the offender was the father, family member, or close relative, highlighting the prevalence of incestuous and child sexual abuse. Abduction and trafficking for sexual and other exploitations accounted for 19.4% and 7.2% cases registered in 2005. Campaigns and stricter laws notwithstanding, 8.3% of registered cases in 2005 were dowry deaths, a fall of 0.3% from 2004.
+6.27 Despite improving education levels and consistent economic growth, every form of violence against women including female foeticide, rape, abduction, trafficking, dowry death, domestic violence, and witch-hunting, has been increasing. We have 10 million missing girls in India and this number is rising. Dowry deaths rose from 6822 in 2002 to 7026 in 2004. In 2005, highest number of dowry deaths were registered in UP, followed by Bihar, and MP. NFHS-3 shows that more than half of all Indian women believe that husbands can beat wives if they have an appropriate reason and 37% admit to being victims of spousal violence. Data from NCRB reveals little or no change in crime trends in rape and molestation. In 84–89% of the rape cases in the years 2002–04, the victim knew the offenders. In 9% cases, the offender was the father, family member, or close relative, highlighting the prevalence of incestuous and child sexual abuse. Abduction and trafficking for sexual and other exploitations accounted for 19.4% and 7.2% cases registered in 2005. Campaigns and stricter laws notwithstanding, 8.3% of registered cases in 2005 were dowry deaths, a fall of 0.3% from 2004.
 
 Despite the high incidence of VAW, reporting is rare and conviction rates for reported cases, abysmally low; conviction rate for cruelty by husband was 19.2% and 25.5% each for dowry and rape. 12
 
@@ -8521,8 +8938,6 @@ Despite the high incidence of VAW, reporting is rare and conviction rates for re
 (i) Ensuring economic empowerment.
 
 (ii) Engineering social empowerment.
-
-> 12 National Crime Record Bureau, 2005.
 
 (iii) Enabling political empowerment.
 
@@ -8540,9 +8955,11 @@ Despite the high incidence of VAW, reporting is rare and conviction rates for re
 
 ###### WOMEN IN AGRICULTURE
 
-6.30 The challenge in the Eleventh Plan is to improve the availability of agricultural inputs, credit, marketing facilities, technology, and skill training for the increasing number of women farmers. Resource pooling and group investment, financial and infrastructural support will be provided. Women in agriculture will be on the top of the Eleventh Plan agenda and a twopronged strategy will be adopted: (i) ensuring effective  and  independent land rights for women, and (ii) strengthening women's agricultural capacities.
+6.30 The challenge in the Eleventh Plan is to improve the availability of agricultural inputs, credit, marketing facilities, technology, and skill training for the increasing number of women farmers. Resource pooling and group investment, financial and infrastructural support will be provided. Women in agriculture will be on the top of the Eleventh Plan agenda and a two-pronged strategy will be adopted: (i) ensuring effective and independent land rights for women, and (ii) strengthening women's agricultural capacities.
 
-6.31 A specific scheme will be devised by MoWCD for  identifying and helping women in States where
+6.31 A specific scheme will be devised by MoWCD for identifying and helping women in States where
+
+> 12 National Crime Record Bureau, 2005.
 
 [[END OF PAGE 207]]
 
@@ -8552,22 +8969,21 @@ Towards Women's Agency and Child Rights
 
 191
 
-Country | Women in Government/ Ministerial Level(2005) | Gender Empower- ment measure | Seats in parliament held by women | Female legislator | Female Professional workers | Ratio estimated Female/male earned income
+TABLE 6.4
+Women's Political Participation: Global Picture
+
+Country | Women in Government/Ministerial Level (2005) | Gender Empowerment measure | Seats in parliament held by women | Female legislator | Female Professional workers | Ratio estimated Female/male earned income
 --- | --- | --- | --- | --- | --- | ---
-India | 3.4 | - | 9.2 | - | - | 0.31
-Nepal | 7.4 | - | 6.7 | - | - | 0.50
-Pakistan | 5.6 | 0.377 | 2.04 | 2 | 26 | 0.29
+India | 3.4 | – | 9.2 | – | – | 0.31
+Nepal | 7.4 | – | 6.7 | – | – | 0.50
+Pakistan | 5.6 | 0.377 | 20.4 | 2 | 26 | 0.29
 Bangladesh | 8.3 | 0.374 | 14.8 | 23 | 12 | 0.46
 Sri Lanka | 10.3 | 0.372 | 4.9 | 21 | 46 | 0.42
 Malaysia | 9.1 | 0.500 | 13.1 | 23 | 40 | 0.36
-UnitedStates | 14.3 | 0.808 | 15.0 | 42 | 55 | 0.62
+United States | 14.3 | 0.808 | 15.0 | 42 | 55 | 0.62
 Mexico | 9.4 | 0.597 | 25 | 25 | 42 | 0.39
 
-TABLE 6.4 Women's Political Participation: Global Picture
-
-Source:
-
-Human Development Report 2006, UNDP.
+Source: Human Development Report 2006, UNDP.
 
 agrarian crisis has ravaged families. Women's vulnerabilities resulting from farmer suicides due to crop failure and inability to pay loans will be addressed.
 
@@ -8607,15 +9023,15 @@ Eleventh Five Year Plan
 
 6.39 International evidence shows that women's access to land or homestead is positively linked to the family's food security, child survival, health, education, and children's exposure to domestic violence. Women with land and house are also at lower risk from spousal violence, have greater bargaining power in the labour market, and are better able to protect themselves and their children from destitution if the father dies from ill health, natural disaster, or HIV/AIDS. Indirectly, it also reduces maternal mortality both by enhancing women's nutrition and medical support and reducing the risk of domestic violence during pregnancy. These synergies and interlinkages are what make asset creation in women's hands a critical part of the Eleventh Plan agenda for women's economic empowerment.
 
-> 13 World Bank, 2007.
-
 ###### Amenities for Urban Poor Women
 
-6.40 The Eleventh Plan recognizes slum dwellers, most of whom are employed in the informal sector, as important contributors to cities' economy. Even though relocation of slums may sometimes be inevitable, appropriate measures need to be taken to ensure that the  slum  dwellers,  especially  women,  do  not  lose access to livelihood opportunities and basic amenities. Today, almost 30-40% of India's urban population lives in slums. Over 62% of this population does not have access to sanitation services and 25% does not have access to water. 13 Since it is generally women who fetch water, they spend much of their time and energy at water pumps, in water queues, or walking to other colonies. The Asian Development Bank (2007) estimates that India's housing shortage is as high as 40 million units, suggesting that more than 200 million people are living in chronically poor housing conditions or on the pavements . In the absence of toilets, poor women are forced to defecate in public places such as railway tracks, parks, open spaces, or even public pavements. Not only do they feel ashamed by this, but it is a serious health and security hazard as they can only use these public spaces in the dark. Thus provision of clean drinking water, toilets, and sanitation in urban slums will be an important challenge for ensuring gender justice in the Eleventh Plan.
+6.40 The Eleventh Plan recognizes slum dwellers, most of whom are employed in the informal sector, as important contributors to cities' economy. Even though relocation of slums may sometimes be inevitable, appropriate measures need to be taken to ensure that the slum dwellers, especially women, do not lose access to livelihood opportunities and basic amenities. Today, almost 30-40% of India's urban population lives in slums. Over 62% of this population does not have access to sanitation services and 25% does not have access to water. 13 Since it is generally women who fetch water, they spend much of their time and energy at water pumps, in water queues, or walking to other colonies. The Asian Development Bank (2007) estimates that India's housing shortage is as high as 40 million units, suggesting that more than 200 million people are living in chronically poor housing conditions or on the pavements. In the absence of toilets, poor women are forced to defecate in public places such as railway tracks, parks, open spaces, or even public pavements. Not only do they feel ashamed by this, but it is a serious health and security hazard as they can only use these public spaces in the dark. Thus provision of clean drinking water, toilets, and sanitation in urban slums will be an important challenge for ensuring gender justice in the Eleventh Plan.
 
 ###### Homes and Homesteads for Poor Women
 
 6.41 Home ownership not only provides shelter but also serves as collateral in credit markets and increases social status and security in the event of natural or manmade disasters. As more than half the women workers in the unorganized, non-agricultural sector work from their own homes, a home is a productive and wealth-generating asset for millions of low-income women. There is well-documented evidence to show that in both the urban and rural context, women's ownership of housing offers a vital form of security against poverty and enhances associated economic and social status. There are three main sources of access to land: family, State, and market. The challenge in the Eleventh Plan is to tap all these three sources. With the amendment of the Hindu Succession Act we have already taken the first step towards enhancing women's claims through inheritance. This should be strengthened by enacting gender-equal laws, adopting vigilance in recording women's claims, increasing legal awareness, and providing legal aid. All housing provided by the government during the Eleventh Plan should either be half in the name of the woman in the household or in the single name of the woman. Single women, widows, and women in difficult circumstances will be given priority. Finally, the Eleventh Plan agenda will strive to support women's access via banks by developing a system of reaching housing finance at reasonable rates to poor women. This will require provision of subsidized credit, changes in land tenure policies, and in norms for mortgages and housing loans.
+
+> 13 World Bank, 2007.
 
 [[END OF PAGE 209]]
 
@@ -8659,7 +9075,7 @@ Plan recognizes the gender dimension of health problems and seeks to address iss
 
 6.47 The high rates of MMR and IMR, poor prenatal and postnatal care, combined with the low proportion of institutional deliveries is a grave cause of concern. Empowering adolescent girls through information about health, sexuality, and increased awareness to negotiate rights with families, future partners, and in the workplace is equally important. The challenge is to create an enabling environment with information, services, and health programmes for women to exercise  their  rights  and  choices.  The  Eleventh  Plan commitment to reduce MMR and IMR is detailed in Chapter 3.
 
-6.48 The effect on women of HIV/AIDS is a critical area. There is an increase of mother to child transmission of HIV and paediatric HIV cases. The Eleventh Plan will commit resources to move towards a multisectoral, decentralized, gender-sensitive, communitybased health service of which HIV/AIDS prevention and treatment is an integral part. It will prioritize information dissemination on a mass scale for prevention and treatment of HIV/AIDS. Resources will have to be made available to address the socio-economic problems faced by HIV positive women, including access to ARV treatment, medical services, child care, and livelihood security. Enacting legislation that protects HIV-positive women against discrimination in education,  livelihood  opportunities,  workplace, medical treatment, and community will be the gender equity agenda for the Eleventh Plan.
+6.48 The effect on women of HIV/AIDS is a critical area. There is an increase of mother to child transmission of HIV and paediatric HIV cases. The Eleventh Plan will commit resources to move towards a multi-sectoral, decentralized, gender-sensitive, community-based health service of which HIV/AIDS prevention and treatment is an integral part. It will prioritize information dissemination on a mass scale for prevention and treatment of HIV/AIDS. Resources will have to be made available to address the socio-economic problems faced by HIV positive women, including access to ARV treatment, medical services, child care, and livelihood security. Enacting legislation that protects HIV-positive women against discrimination in education, livelihood opportunities, workplace, medical treatment, and community will be the gender equity agenda for the Eleventh Plan.
 
 6.49 Many other factors affect the health of women. For instance women's risk of mortality from indoor air pollution resulting from use of unprocessed fuels is estimated to be 50% higher than of men. While over time, community investment in low cost clean fuel such as biogas will be encouraged, in the interim, firewood needs to be made available. Provision of clean drinking water and sanitation facilities are also important for good health. Intersectoral convergence to ensure the health and well being of women in this regard is a major challenge before the Eleventh Plan.
 
@@ -8702,7 +9118,7 @@ and more context-specific programming. This calls for strategies  to  increase  
 
 ###### Zero Tolerance for Discrimination against SC/ST Women
 
-6.56 It  is  critical  that  the Ministries of WCD, Social Justice and Empowerment, and HRD join hands to enforce penalties for blatant violations of the constitution and the Scheduled Caste and Scheduled Tribes (Prevention of Atrocities) Act, 1989. Crimes of castebased discrimination, untouchability, devadasi/jogini , and manual scavenging will be strictly punished according to law. Institutions like NCW, National Human Rights Commission, SC/ST Commission, Safai Karmacharis Commission will be urged to take up SC/ ST women's issues as priority. Implementation of the  Scheduled Caste Sub-Plan (SCSP) and Tribal Sub-Plan (TSP) will be maximized by earmarking of the  funds  in  proportion  to  the  SC/ST  population under all schemes of the various line Departments. Distinct provisions for SC women will be made in the planning of programmes, allocation of finances, and in distribution of reservation facilities in education and employment.
+6.56 It is critical that the Ministries of WCD, Social Justice and Empowerment, and HRD join hands to enforce penalties for blatant violations of the constitution and the Scheduled Caste and Scheduled Tribes (Prevention of Atrocities) Act, 1989. Crimes of caste-based discrimination, untouchability, devadasi/jogini, and manual scavenging will be strictly punished according to law. Institutions like NCW, National Human Rights Commission, SC/ST Commission, Safai Karmacharis Commission will be urged to take up SC/ST women's issues as priority. Implementation of the Scheduled Caste Sub-Plan (SCSP) and Tribal Sub-Plan (TSP) will be maximized by earmarking of the funds in proportion to the SC/ST population under all schemes of the various line Departments. Distinct provisions for SC women will be made in the planning of programmes, allocation of finances, and in distribution of reservation facilities in education and employment.
 
 [[END OF PAGE 212]]
 
@@ -8716,7 +9132,7 @@ Eleventh Five Year Plan
 
 ###### MINORITY WOMEN
 
-6.58 Minority women are typically engaged in homebased, subcontracted work with lowest levels of earnings. The Sachar Committee Report has pointed out the absence of adequate social and physical infrastructure and civic amenities in Muslim-dominated habitations and the multiple discriminations faced by Muslim women. To fulfil its agenda for inclusive growth, the Eleventh Plan will ensure that Muslim localities are provided with universal benefits of primary and elementary schools, water, sanitation, electricity, public health facilities (PHCs), anganwadis, ration shops, roads, transport facilities, access to government development schemes and facilities, such as BPL cards and widow pensions. Education will be made accessible for Muslim girls by locating educational institutions near Muslim areas, establishing some girls' schools, and increasing scholarships for Muslim girls. The challenge is to make technical and higher education opportunities available to minority women and to link them to employment. Access to low interest credit, markets, technical training, leadership training, and skill development for Muslim female home-based workers and entrepreneurs will be ensured. Representation of religious minorities in public employment will be increased and minority women will be provided access to institutional and policy level decision-making.
+6.58 Minority women are typically engaged in home-based, subcontracted work with lowest levels of earnings. The Sachar Committee Report has pointed out the absence of adequate social and physical infrastructure and civic amenities in Muslim-dominated habitations and the multiple discriminations faced by Muslim women. To fulfil its agenda for inclusive growth, the Eleventh Plan will ensure that Muslim localities are provided with universal benefits of primary and elementary schools, water, sanitation, electricity, public health facilities (PHCs), anganwadis, ration shops, roads, transport facilities, access to government development schemes and facilities, such as BPL cards and widow pensions. Education will be made accessible for Muslim girls by locating educational institutions near Muslim areas, establishing some girls' schools, and increasing scholarships for Muslim girls. The challenge is to make technical and higher education opportunities available to minority women and to link them to employment. Access to low interest credit, markets, technical training, leadership training, and skill development for Muslim female home-based workers and entrepreneurs will be ensured. Representation of religious minorities in public employment will be increased and minority women will be provided access to institutional and policy level decision-making.
 
 6.59 In view of the double discrimination faced by Muslim women, the Prime Minister's 15-point
 
@@ -8740,15 +9156,15 @@ Towards Women's Agency and Child Rights
 
 ###### Box 6.7 Hope for Single Women
 
-Tagore's poem 'Ekla Chalo Re' , which exuded confidence in self, truth, and dignity, finds echo in the ideals of the Ekal Nari Shakti Sangathan -Association of Strong Single Women established in January 2000 in Rajasthan. This grass roots mass membership organization has widows, separated, abandoned, and abused women as its members. In the last seven years, the Sangathan has sought to address every day issues of these women. It has altered the destiny of many, fighting injustice, redtapism, and parochial mindsets. By mid-2007, Ekal Nari had 21325 members in 26 of the 32 districts of Rajasthan.
+Tagore's poem 'Ekla Chalo Re', which exuded confidence in self, truth, and dignity, finds echo in the ideals of the Ekal Nari Shakti Sangathan—Association of Strong Single Women established in January 2000 in Rajasthan. This grass roots mass membership organization has widows, separated, abandoned, and abused women as its members. In the last seven years, the Sangathan has sought to address every day issues of these women. It has altered the destiny of many, fighting injustice, red-tapism, and parochial mindsets. By mid-2007, Ekal Nari had 21325 members in 26 of the 32 districts of Rajasthan.
 
-This organization is a mass movement. These Ekal women have achieved the impossible-from closing down liquor shops and revolting against age-old practices to increasing pensions and assistance for widows. The group has also introduced pension for low income, separated women. Using both satyagraha and open defiance as strategy, the Sangathan has ensured employment to women who were facing manipulation and threats. Today the movement has spread to Himachal Pradesh, Jharkhand, and Gujarat.
+This organization is a mass movement. These Ekal women have achieved the impossible—from closing down liquor shops and revolting against age-old practices to increasing pensions and assistance for widows. The group has also introduced pension for low income, separated women. Using both satyagraha and open defiance as strategy, the Sangathan has ensured employment to women who were facing manipulation and threats. Today the movement has spread to Himachal Pradesh, Jharkhand, and Gujarat.
 
 suffer  psychological  and  physical  trauma.  The Eleventh Plan is committed to mitigating the negative impact on women of displacement due to natural or manmade calamities, incidents of communal violence, or social upheaval and development projects. It will formulate gender-sensitive relief and rehabilitation policies; women will have joint rights to any land or assets that are part of rehabilitation packages.
 
 ###### WOMEN WITH DISABILITY
 
-6.61 Women with disabilities are considered a financial  burden and social liability by their families; denied opportunities of mobility and access to education; viewed as asexual, helpless, and dependant; taken advantage of and abused; denied aspirations for marriage and motherhood; and are isolated and neglected with no hope of a normal life. Although a rights-based approach today defines the disability rights  movement, the specific concerns of women with disabilities have to be adequately reflected in the  planning  process.  RCH  programmes will pay attention to reproductive health needs of women with disabilities. Violation of their reproductive rights through forced sterilization, contraception and abortion especially in institutions will be dealt with severely. In the Eleventh Plan, women with disabilities will be specifically included in gender equity programmes, both as beneficiaries and as project workers. The Eleventh Plan sensitization prog-rammes of government departments, police, and health care personnel will include sensitization to the needs of women with disabilities. Laws will be strictly enforced in cases of discrimination.
+6.61 Women with disabilities are considered a financial burden and social liability by their families; denied opportunities of mobility and access to education; viewed as asexual, helpless, and dependant; taken advantage of and abused; denied aspirations for marriage and motherhood; and are isolated and neglected with no hope of a normal life. Although a rights-based approach today defines the disability rights movement, the specific concerns of women with disabilities have to be adequately reflected in the planning process. RCH programmes will pay attention to reproductive health needs of women with disabilities. Violation of their reproductive rights through forced sterilization, contraception and abortion especially in institutions will be dealt with severely. In the Eleventh Plan, women with disabilities will be specifically included in gender equity programmes, both as beneficiaries and as project workers. The Eleventh Plan sensitization programmes of government departments, police, and health care personnel will include sensitization to the needs of women with disabilities. Laws will be strictly enforced in cases of discrimination.
 
 ###### WOMEN AFFECTED BY DISASTERS
 
@@ -8774,9 +9190,9 @@ Eleventh Five Year Plan
 
 - 6.66 The Eleventh Plan will undertake the following measures to accelerate the process of women's political empowerment and participation in PRIs:
 
-- The no-confidence clause is often used to remove women sarpanche s. State governments will be advised to ensure that women sarpanches cannot be removed for at least a year and a half by a noconfidence motion. If a no-confidence vote is passed, the replacing incumbent should also be a woman from the same social group as the earlier incumbent;
+- The no-confidence clause is often used to remove women sarpanches. State governments will be advised to ensure that women sarpanches cannot be removed for at least a year and a half by a no-confidence motion. If a no-confidence vote is passed, the replacing incumbent should also be a woman from the same social group as the earlier incumbent;
 
-- prevent those who have more than two children from holding office. This law has been repealed across some States because it was found to be used against women in that it disproportionately impacted poor, SC, ST, Muslim, and tribals. More tragically, the norm led to increasing female foeticide;
+- States should revisit the two-child norm laws that prevent those who have more than two children from holding office. This law has been repealed across some States because it was found to be used against women in that it disproportionately impacted poor, SC, ST, Muslim, and tribals. More tragically, the norm led to increasing female foeticide;
 
 - Increase resource allocation for capacity building of all PRI members (male and female) in diverse areas pertaining to gender sensitization and women's rights, as well as in the political skill-building of women members of PRIs;
 
@@ -8784,11 +9200,9 @@ Eleventh Five Year Plan
 
 - Funds for time-series evaluations of the impact of women on PRIs, and on enabling policy conditions and contextual factors for women's political participation;
 
-- Accelerate  the  State  Governments'  process  of devolution and decentralization of powers, so that PRIs are not handicapped in carrying out their mandated duties.
+- Accelerate the State Governments' process of devolution and decentralization of powers, so that PRIs are not handicapped in carrying out their mandated duties.
 
 #### EFFECTIVE IMPLEMENTATION OF WOMEN-RELATED LEGISLATIONS
-
-- States should revisit the two-child norm laws that
 
 6.67 During the Tenth Plan period, some important legislations have been passed and amended. For example, besides the Hindu Succession (Amendment) Act 2005 and PWDVA 2005 mentioned earlier, the Dowry Prohibition Act was reviewed. A very active civil society has been relentlessly campaigning on these
 
@@ -8798,7 +9212,7 @@ Eleventh Five Year Plan
 
 Till some time back, Kanjiguzhy village panchayat in Allepey district of Kerala was a backward area of the district. Today it has an annual turnover of over Rs 10 crore, thanks to an active Panchayat Samiti headed by a dynamic woman pradhan Jalaja Chandra . Ask her about the number of families in her area, number of SHGs, employment statistics, net profit, amount spent on different development works and she answers confidently. It is not difficult to see why this village has prospered. Kotli village in Fatehgarh Sahib district of Punjab is headed by Paramjeet Kaur who has managed to convince her villagers to let their girl children live. So in a district that made headlines for having the worst child sex ratio in the country, Kotli now boasts of a positive sex ratio. While these and many such women have clearly demonstrated what political empowerment of women can achieve, in many parts of the country woman panchayat members are yet to get their due.
 
-In Bhimra village of Barmer district of Rajasthan, the sarpanch is a woman. She never opens her mouth; it is always the husband who speaks. The fate of her ghoonghatclad counterpart in a Kol village in eastern UP is no different. Here the Pradhanpati makes all decisions. In Bihar, power rests with the MPs and SPsMukhiyapati s and Sarpanchpatis i.e. husbands of women Mukhyas and Sarpanches. In Ongna village of Udaipur district (Rajasthan), the women panchayat members rue the day they were elected. 'We have no powers; we are never allowed to attend meetings. When villagers come and ask us why we haven't done anything, what do we say?' they question.
+In Bhimra village of Barmer district of Rajasthan, the sarpanch is a woman. She never opens her mouth; it is always the husband who speaks. The fate of her ghoonghat-clad counterpart in a Kol village in eastern UP is no different. Here the Pradhanpati makes all decisions. In Bihar, power rests with the MPs and SPs—Mukhiyapatis and Sarpanchpatis i.e. husbands of women Mukhyas and Sarpanches. In Ongna village of Udaipur district (Rajasthan), the women panchayat members rue the day they were elected. 'We have no powers; we are never allowed to attend meetings. When villagers come and ask us why we haven't done anything, what do we say?' they question.
 
 [[END OF PAGE 215]]
 
@@ -8816,7 +9230,7 @@ issues. Their experiences and recommendations will be taken on board to ascertai
 
 6.70 The MoWCD will ensure the enactment of the bill to prevent sexual harassment at the workplace. The Immoral Traffic (Prevention) Act (ITPA) is already being reviewed to ensure that women in prostitution are  not  victimized further. In addition to this, the Eleventh Plan will strengthen inter-regional networks to  check  forced  migration and trafficking. Special police officers will be appointed to promote community level vigilance to reduce trafficking. There will be special  training  modules on trafficking for police, judiciary,  and  other  government personnel. More rehabilitation homes will be established.
 
-6.71 To tackle the conflict-related V AW, the Eleventh Plan will ensure the inclusion of provisions of sexual violence in the draft law on the prevention of communal violence. It will look into setting up Special Courts to deal with cases of V AW in conflict situations, including those involving security personnel. It will encourage women's involvement in peace keeping, community dialogues, and conflict resolution. There will be special measures for compensation, financial assistance, and support to widows and female headed households in conflict areas.
+6.71 To tackle the conflict-related VAW, the Eleventh Plan will ensure the inclusion of provisions of sexual violence in the draft law on the prevention of communal violence. It will look into setting up Special Courts to deal with cases of VAW in conflict situations, including those involving security personnel. It will encourage women's involvement in peace keeping, community dialogues, and conflict resolution. There will be special measures for compensation, financial assistance, and support to widows and female headed households in conflict areas.
 
 6.72 The Eleventh Plan will foster women's access to legal services through a range of measures. Women will  be  exempted from paying fees to fight cases of human rights violations. Funds for legal assistance will be provided to poor women seeking legal redress. Legal awareness programmes will be carried out in all States  in  collaboration  with  NGOs working at the grassroots level. Legal Aid Cells consisting of committed and gender-sensitive lawyers will be set up at the Panchayat level to provide information and support to rural women, especially poor women. Lok Adalats will be organized to encourage alternate dispute settlement mechanisms for efficacious settlement of cases. The Plan will also work towards increasing the percentage of women in police and judicial services. Training on use of gender specific laws will be provided to all Members and Authorities involved in providing legal services. Concept of Jan Sunwaiye will be adopted to listen to people's voices. 14
 
@@ -8839,7 +9253,7 @@ Eleventh Five Year Plan
 
 10 departments and the total magnitude of the Gender Budget (that is, women specific allocations) was recorded at 4.8% of total Union Government expenditure. In 2006-07, 24 departments of the Union Government were included and the magnitude of the Gender Budget was 3.8% of total budget estimates. It was found that schemes, which do not have a 100% women's component, also found a mention as women specific schemes. The Eleventh Plan will therefore ensure that each ministry/department of both Centre and State should put in place a systematic and comprehensive monitoring and auditing mechanism for outcome assessment. In addition, the Ministry of WCD, Ministry of Finance, and Planning Commission will facilitate national level gender outcome assessments through spatial mapping of gender gaps and resource gaps. They will undertake gender audits of public expenditure, programmes, and policies, and ensure the collection of standardized, gender disaggregated data (including data disaggregated for SC/ST and minority women) at national, State, and district levels.
 
-6.76 In the Eleventh Plan period, the existing system of gender-based planning will be extended to other ministries and departments and not confined only to those that have historically been perceived as 'womenrelated' .  Ministries and departments, such as Education, Health and Family Welfare, Agriculture, Rural Development, Labour, Tribal Affairs, Social Justice, and Empowerment, which have the potential to exceed the 30% WCP requirement, will be encouraged to administer  more women related programmes. During the Eleventh Plan, efforts will be made to extend the concept of gender based plan component to PRIs and to the 29 subjects transferred to them under the 73rd constitutional amendment. Recognizing that some women suffer greater deprivation and discrimination than others, the Eleventh Plan will refine the norms of WCP to prioritize the most vulnerable as beneficiaries, particularly SC, ST women, Muslim women, single women, differently abled, and HIV-positive women, among others.
+6.76 In the Eleventh Plan period, the existing system of gender-based planning will be extended to other ministries and departments and not confined only to those that have historically been perceived as 'women-related'. Ministries and departments, such as Education, Health and Family Welfare, Agriculture, Rural Development, Labour, Tribal Affairs, Social Justice, and Empowerment, which have the potential to exceed the 30% WCP requirement, will be encouraged to administer more women related programmes. During the Eleventh Plan, efforts will be made to extend the concept of gender based plan component to PRIs and to the 29 subjects transferred to them under the 73rd constitutional amendment. Recognizing that some women suffer greater deprivation and discrimination than others, the Eleventh Plan will refine the norms of WCP to prioritize the most vulnerable as beneficiaries, particularly SC, ST women, Muslim women, single women, differently abled, and HIV-positive women, among others.
 
 6.77 The Eleventh Plan period will seek to make all national policies and programmes gender sensitive right from their inception and formulation stages. The MoWCD is the nodal Ministry for Gender Budgeting and the coordination mechanism for gender budgeting will ensure that all policies including fiscal and monetary policies, agricultural policies, non-farm sector,  information and technology policies, public policy on migration, health insurance schemes, disaster management policies, media policy, and the legal regime among others are relevant from a gender perspective and are thoroughly examined. It will ensure that all legislations before they are presented to Parliament for enactment are cleared by the Parliamentary Committee on Women's Empowerment.
 
@@ -8958,9 +9372,12 @@ In Jehangirpuri, in Delhi, ICDS centres do not have weighing scales and they hav
 
 In States like Himachal, Kerala, and Tamil Nadu, the ICDS programme is doing better. In Chamba in Himachal, toilets are being built at AWCs. In Tamil Nadu, there is a proper preschool curriculum followed by the AWW. Children are well fed and stay at the AWC for almost six hours. They have sleeping mats, toys, even mirrors to comb their hair and stay clean. In Chamarkundi village of Ganjam district of Orissa, women's SHG supplement the Anganwadi food with eggs and vegetables.
 
-Year | Health | Development | Education | Protection | BfC
+TABLE 6.5
+Sectoral Allocation and Expenditure in Budget for Children (BFC) as percentage of the Union Budget
+
+Year | Health |  | Development |  | Education |  | Protection |  | BfC |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-BE | AE | BE | AE | BE | AE | BE | AE | BE | AE
+ | BE | AE | BE | AE | BE | AE | BE | AE | BE | AE
 2000-01 | 0.542 | 0.38 | 0.358 | 0.39 | 1.466 | 1.34 | 0.023 | 0.02 | 2.389 | 2.14
 2001-02 | 0.469 | 0.37 | 0.407 | 0.43 | 1.414 | 1.39 | 0.029 | 0.03 | 2.319 | 2.2
 2002-03 | 0.505 | 0.35 | 0.448 | 0.48 | 1.452 | 1.40 | 0.036 | 0.03 | 2.441 | 2.25
@@ -8970,9 +9387,9 @@ BE | AE | BE | AE | BE | AE | BE | AE | BE | AE
 2006-07 | 0.837 | NA | 0.829 | NA | 3.534 | NA | 0.035 | NA | 5.236 | NA
 Average | 0.61 | 0.41 | 0.52 | 0.44 | 1.94 | 1.55 | 0.03 | 0.03 | 3.10 | 2.42
 
-TABLE 6.5 Sectoral Allocation and Expenditure in Budget for Children (BFC) as percentage of the Union Budget
+Note: Actual Expenditure is available till 2004-05, so the average for the actual expenditure has been calculated for that period only.
 
-Note: Actual Expenditure is available till 2004-05, so the average for the actual expenditure has been calculated for that period only. Source: Demand for Grants-All Ministries, HAQ: Centre for Child Rights, New Delhi.
+Source: Demand for Grants—All Ministries, HAQ: Centre for Child Rights, New Delhi.
 
 #### SOCIO-ECONOMIC INDICATORS
 
@@ -8990,6 +9407,9 @@ Towards Women's Agency and Child Rights
 
 205
 
+TABLE 6.6
+Monitorable Targets for the Tenth Plan and Achievements
+
 S. No. | Indicators | Target Set | Current Status
 --- | --- | --- | ---
 1. | IMR | 45 by 2007 and 28 by 2012 | 57 (NFHS-3) 58 (SRS 2005)
@@ -8999,29 +9419,26 @@ S. No. | Indicators | Target Set | Current Status
 5 | Literacy | All children in school by 2003 | 0.95 crore out of school children
 6. | Five years of schooling | For all children by 2007 | Drop out rate for Primary level-29%; Middle Level-50.8% (2004-05)
 
-TABLE 6.6 Monitorable Targets for the T enth Plan and Achievements
+Source: Selected Educational Statistics, MoHRD, 2004-05.
 
-Source:
+TABLE 6.7
+Health Status of Children in India vis-à-vis in Other E-9 Countries
 
-Selected Educational Statistics, MoHRD, 2004-05.
-
-Country Name | Under-5 mortality rate (per thousand) | Progress towards MDG for reducing under-5 and Infant | %ageof under-5s with stunting | GDP per capita (PPP US$, 2001)
+Country Name | Under-5 mortality rate (per thousand) |  | Progress towards MDG for reducing under-5 and Infant Mortality Rates by two-thirds | %age of under-5s with stunting (1995-2001) | GDP per capita (PPP US$, 2001)
 --- | --- | --- | --- | --- | ---
-1960 | 2001 | Mortality Rates by two-thirds | (1995-2001)
+ | 1960 | 2001 |  |  |
 Bangladesh | 248 | 77 | On track | 45 | 1610
 Brazil | 177 | 36 | On Track | 11 | 7360
 China | 225 | 39 | Far Behind | 17 | 4020
 Egypt | 282 | 41 | On Track | 19 | 3520
 India | 242 | 93 | Lagging | 46 | 2840
-Indonesia | 216 | 45 | On Track | - | 2940
+Indonesia | 216 | 45 | On Track | – | 2940
 Mexico | 134 | 29 | On Track | 18 | 8430
 Nigeria | 207 | 183 | Far behind | 46 | 850
-Pakistan | 227 | 109 | Far behind | - | -
-E9 Average | 218 | 72 | 29 | 3717
+Pakistan | 227 | 109 | Far behind | – | –
+E9 Average | 218 | 72 |  | 29 | 3717
 
-TABLE 6.7 Health Status of Children in India vis-à-vis in Other E-9 Countries
-
-Source: The State of the World's Children (2003), UNICEF; Human Development Report (2003), UNDP in ECCE in E-9 Countries: Status and Outlook. Prepared for the Fifth E-9 Ministerial Meeting .
+Source: The State of the World's Children (2003), UNICEF; Human Development Report (2003), UNDP in ECCE in E-9 Countries: Status and Outlook. Prepared for the Fifth E-9 Ministerial Meeting.
 
 6.97 A study by International Labour Organization (ILO) in 2002, 17 found that children of HIV-infected parents are forced to face significant decline in income and heavy discrimination. Children orphaned by AIDS, especially girls, tend to become vulnerable to prostitution due to their disadvantaged socio-cultural status.  In  India,  of  the  70000  children  in  urgent need of ARV treatment, only 1048 (1.5%) are currently receiving this lifesaving therapy. 18  NACO with support from UNICEF, Indian Academy of Paediatrics, Clinton Foundation, WHO, and the GoI has recently launched a new initiative that had, till May 2007, reached out to 4100 children needing ARV.
 
@@ -9073,11 +9490,11 @@ poor sanitation, is the second leading cause of death among children. Yet only 5
 
 ##### Nutrition
 
-6.100 One of every three malnourished children in the world lives in India; every second child is underweight. NFHS-3 data shows that despite various interventions, incidence of under-nutrition, stunting, and wasting among children continues to be very high with an increase in the number of under-weight children in States of Bihar, Haryana, and Gujarat. As children grow up, poor nutrition and ill health affects  their  learning  abilities  and  preparedness for schooling. An assessment of diet and nutritional status carried out by the NNMB in 2006 revealed that the proportion of adolescent girls who could be considered 'at risk' due to stunting was 35.5% and those under weight was 38.5%.
+6.100 One of every three malnourished children in the world lives in India; every second child is underweight. NFHS-3 data shows that despite various interventions, incidence of under-nutrition, stunting, and wasting among children continues to be very high with an increase in the number of under-weight children in States of Bihar, Haryana, and Gujarat. As children grow up, poor nutrition and ill health affects their learning abilities and preparedness for schooling. An assessment of diet and nutritional status carried out by the NNMB in 2006 revealed that the proportion of adolescent girls who could be considered 'at risk' due to stunting was 35.5% and those under weight was 38.5%.
+
+6.101 Childhood anaemia below 3 years has gone up from 74.2% in NFHS-2 to 79.2% in NFHS-3 while Bihar has seen an increase of 7% in rates of anaemia in this age group. This is partly because of food insecurity at the household level. Poor breastfeeding practices together with lack of complementary feeding also aggravates child malnutrition.
 
 > 19 Infochangeagenda-June 2007.
-
-6.101 Childhood anaemia below 3 years has gone up from 74.2% in NFHS-2 to 79.2% in NFHS-3 while Bihar has seen an increase of 7% in rates of anaemia in this age group. This is partly because of food insecurity  at  the  household  level.  Poor  breastfeeding practices together with lack of complementary feeding also aggravates child malnutrition.
 
 [[END OF PAGE 223]]
 
@@ -9089,11 +9506,11 @@ Towards Women's Agency and Child Rights
 
 ##### Education
 
-6.102 The education strategy in primary and secondary  schooling  is  the  most  important  intervention for giving children their due rights. The Eleventh Plan strategy in this respect is discussed in the chapter on Education. The Plan envisions to reach out to all categories of children, including children with disabilities,  who are discriminated against in the education system. According to the 2001 Census Report, 1.67% of the total population in the 0-19 age group is differently abled. The SRI-IMRB report (2005) estimates that 38% of CWSN are out of school. The percentage of children with disability, both in primary and upper primary classes, is below 1% of the total enrolment in classes. Y et only 4.50% primary schools and 8.15% integrated higher secondary schools have the provision for ramps.
+6.102 The education strategy in primary and secondary schooling is the most important intervention for giving children their due rights. The Eleventh Plan strategy in this respect is discussed in the chapter on Education. The Plan envisions to reach out to all categories of children, including children with disabilities, who are discriminated against in the education system. According to the 2001 Census Report, 1.67% of the total population in the 0-19 age group is differently abled. The SRI-IMRB report (2005) estimates that 38% of CWSN are out of school. The percentage of children with disability, both in primary and upper primary classes, is below 1% of the total enrolment in classes. Yet only 4.50% primary schools and 8.15% integrated higher secondary schools have the provision for ramps.
 
 ##### Exploitation, Violence, and Abuse
 
-6.103 India  has  the  highest  number  of  child labourers.The Census report clearly point to the increase in the number of child labourers in the country from 11.28 million in 1991 to 12.59 million in 2001. 20 Although the number of children employed in the agricultural sector, in domestic work, roadside restaurants  and  sweet  meat  shop,  automobile  mechanic units, rice mills, Indian-made foreign liquor outlets and most such sectors considered as 'non-hazardous' , there is ample evidence to suggest that more and more children are entering the labour force and are also
+6.103 India has the highest number of child labourers. The Census report clearly point to the increase in the number of child labourers in the country from 11.28 million in 1991 to 12.59 million in 2001. 20 Although the number of children employed in the agricultural sector, in domestic work, roadside restaurants and sweet meat shop, automobile mechanic units, rice mills, Indian-made foreign liquor outlets and most such sectors considered as 'non-hazardous', there is ample evidence to suggest that more and more children are entering the labour force and are also exploited by their employers. In many cases such children are forced to work for long durations, without food and for very low wages. Many of the live-in domestic workers are in a situation of near slavery with constant violation of their human rights. There is a need to address the rehabiliatation of these children including shelter, education, food, health and other needs and return to families based on review of their situations.
 
 ###### Box 6.13 Nutrition Status of Children
 
@@ -9101,27 +9518,25 @@ Towards Women's Agency and Child Rights
 
 - Every second new born has reduced learning capacity due to iodine deficiency
 
-- Children (0-3 years) underweight are 46% in NFHS3, a marginal decrease from 47% in NFHS-2
+- Children (0-3 years) underweight are 46% in NFHS-3, a marginal decrease from 47% in NFHS-2
 
 - Children under 3 with anaemia are 79% (NFHS-3), an increase from 74.2% in NFHS-2
 
-- Only 23.4% children are breastfed within the first hour of  birth  and  46.3%  are  exclusively  breastfed  for  6 months ( NFHS-3)
+- Only 23.4% children are breastfed within the first hour of birth and 46.3% are exclusively breastfed for 6 months (NFHS-3)
 
-> 20 RGI, Census of India 1991, 2001.
+6.104 Crimes against children continue to spiral with rising figures for kidnapping and abduction (3518 in 2005), infanticide (187 in 2005), and foeticide (86 in 2005). Children's vulnerability to physical abuse is exposed in the grim statistics of child rapes that have increased from 2532 cases in 2002 to 4026 cases in 2005. 21 Porous borders and increasing poverty has increased procuring, buying, and selling of girls for prostitution. Falling sex ratios and annihilation of the girl child has led to an increase in child marriages.
 
-> 21  NCRB, 2005.
-
-exploited by their employers. In many cases such children are forced to work for long durations, without food and for very low wages. Many of the live-in domestic workers are in a situation of near slavery with constant violation of their human rights. There is a need to address the rehabiliatation of these children including shelter, education, food, health and other needs and return to families based on review of their situations.
-
-6.104 Crimes against children continue to spiral with rising figures for kidnapping and abduction (3518 in  2005),  infanticide  (187  in  2005),  and  foeticide (86 in 2005). Children's vulnerability to physical abuse is  exposed in the grim statistics of child rapes that have increased from 2532 cases in 2002 to 4026 cases in  2005. 21 Porous  borders  and  increasing  poverty has  increased  procuring,  buying,  and  selling  of girls for prostitution. Falling sex ratios and annihilation of the girl child has led to an increase in child marriages.
-
-6.105 Over 44000 children go missing every year, of which more than 11000 children remain untraced. Traditional forms of violence and abuse against children such as child marriage, economic exploitation, Devadasi tradition  continues in many parts of the country. Further physical and psychological punishment in the name of discipline is rampant and even culturally  acceptable  in  schools  and  homes  across the country.
+6.105 Over 44000 children go missing every year, of which more than 11000 children remain untraced. Traditional forms of violence and abuse against children such as child marriage, economic exploitation, Devadasi tradition continues in many parts of the country. Further physical and psychological punishment in the name of discipline is rampant and even culturally acceptable in schools and homes across the country.
 
 6.106 Violent situations, circumstances like forced evictions, displacement due to development projects, war and conflict, communal riots and natural disasters, all take their toll on children and affect their physiological and social development.
 
 ##### Voicelessness
 
 6.107 In spite of legislations in the past, children have no right to be heard in either administrative or judicial processes. This limits their access to information and to choice, and often to the possibility of seeking help outside their immediate circle.
+
+> 20 RGI, Census of India 1991, 2001.
+
+> 21 NCRB, 2005.
 
 [[END OF PAGE 224]]
 
@@ -9137,7 +9552,7 @@ Eleventh Five Year Plan
 
 6.109 Successful integration of survival, development, protection, and participation is closely linked to all aspects of a child's well being. Often, the same child is prone to malnutrition and illness, deprived of early stimulation, is out-of-school, and more likely to be abused and exploited. An immunized child who is constantly  beaten  will  not  be  healthy;  a  school-going child taunted and abused for his or her ethnicity won't enjoy a good learning environment; and an adolescent sold into prostitution will not be empowered to participate in and contribute to society. Sexual abuse and violence in schools can be a hidden factor behind low retention rates. Violence can be behind many of the unexplained injuries that are treated at health centres, or even the cause of long-term disability. These links have to be recognized to ensure a holistic approach to child rights, particularly children's right to protection.
 
-6.110 At the same time it is important to remember that while children have equal rights, their situations are not uniform. Their needs and entitlements are area-specific, group-specific, culture-specific, settingspecific, and age-specific and demand different sets of interventions . They live  and  struggle  for  growth and well-being in the contextual frame of who they are and where they are located, and how that identity includes or excludes them from social and State provisions and benefits. While some children are in difficult circumstances and have suffered violence, abuse, and exploitation, there are others who are not in any of these adverse situations and yet need to be protected in order to ensure that they remain within the social security net. It is critical that interventions destined for children do not 'exclude' anyone.
+6.110 At the same time it is important to remember that while children have equal rights, their situations are not uniform. Their needs and entitlements are area-specific, group-specific, culture-specific, setting-specific, and age-specific and demand different sets of interventions. They live and struggle for growth and well-being in the contextual frame of who they are and where they are located, and how that identity includes or excludes them from social and State provisions and benefits. While some children are in difficult circumstances and have suffered violence, abuse, and exploitation, there are others who are not in any of these adverse situations and yet need to be protected in order to ensure that they remain within the social security net. It is critical that interventions destined for children do not 'exclude' anyone.
 
 6.111 In the light of the above, the following strategies will be adopted during the Eleventh Plan to ensure that every child enjoys her childhood and all her rights without any fear and without the need to work:
 
@@ -9189,15 +9604,15 @@ Towards Women's Agency and Child Rights
 
 #### ENSURING EARLY CHILDHOOD DEVELOPMENT AND CARE
 
-6.113 As per Census 2001, the country has approximately 60 million children in the age group of 3-6 years. The 86 th amendment to the constitution, making education for children in the 6-14 age group a fundamental right, leaves out under six years of age. It is for this age group that early childhood care in the form of childcare programmes, crèche programmes, and preschool interventions are critical. Current figures suggest that preschooling under ICDS and other private initiatives covers about 34 million children; approximately 26 million children are left out of preschool activities. Thus, the gap between the number of preschool children and available preschool services is large. Moreover, there are disparities in provision of ECCE in rural and urban areas. As per findings of a study conducted by the National Institute of Urban Affairs (year), though the share of urban population in the country is approximately 27.78% (expected to go up by 33%), corresponding provision of ECCE facilities in these areas is insufficient. Urban slums are under-represented in ICDS.
+6.113 As per Census 2001, the country has approximately 60 million children in the age group of 3-6 years. The 86th amendment to the constitution, making education for children in the 6-14 age group a fundamental right, leaves out under six years of age. It is for this age group that early childhood care in the form of childcare programmes, crèche programmes, and preschool interventions are critical. Current figures suggest that preschooling under ICDS and other private initiatives covers about 34 million children; approximately 26 million children are left out of preschool activities. Thus, the gap between the number of preschool children and available preschool services is large. Moreover, there are disparities in provision of ECCE in rural and urban areas. As per findings of a study conducted by the National Institute of Urban Affairs (year), though the share of urban population in the country is approximately 27.78% (expected to go up by 33%), corresponding provision of ECCE facilities in these areas is insufficient. Urban slums are under-represented in ICDS.
 
 6.114 Early childhood care and rights of working mothers are interconnected. Exclusive breastfeeding, recommended for the first six months of life, before complementary feeding is introduced, requires constant proximity of mother and child. The Eleventh Plan will, hence ensure Maternity Entitlements to support exclusive breastfeeding.
 
 ##### ICDS
 
-6.115 Currently ICDS is the only programme that reaches out to millions of women and children living in  remote villages, dhani s  (small  settlements),  and sapori s (river islands) in our country. It is and will continue  to  be  the  flagship  programme  of  the MoWCD. However, during the Eleventh Plan, ICDS needs to be restructured in a manner that addresses some of the weaknesses that have emerged and is suitable for universalization. The programme must effectively  integrate  the  different  elements  that  affect nutrition and reflect the different needs of children in different age groups. For the purpose the programme needs to be restructured in a Mission Mode with a Mission Structure at the central level and a similar structure at the State level. The MoWCD will prepare proposal for restructuring along these lines so that the restructured programme can become effective on 1 April 2008.
+6.115 Currently ICDS is the only programme that reaches out to millions of women and children living in remote villages, dhanis (small settlements), and saporis (river islands) in our country. It is and will continue to be the flagship programme of the MoWCD. However, during the Eleventh Plan, ICDS needs to be restructured in a manner that addresses some of the weaknesses that have emerged and is suitable for universalization. The programme must effectively integrate the different elements that affect nutrition and reflect the different needs of children in different age groups. For the purpose the programme needs to be restructured in a Mission Mode with a Mission Structure at the central level and a similar structure at the State level. The MoWCD will prepare proposal for restructuring along these lines so that the restructured programme can become effective on 1 April 2008.
 
-6.116 Universalization with quality entails that the existing ICDS scheme is thoroughly examined and evaluated to identify gaps. Various surveys show that high expectations from the ICDS scheme along with lack of proper training, implementation, monitoring, and financial  resources  are  the  reasons  why  our anganwadis have been unable to deliver. At present, the AWW is expected to perform 21 tasks. In addition to  this,  given  her  proximity  to  the  people  in  the villages, she is often used for non-ICDS duties. So, in the Eleventh Plan targets for child nutrition, health care, immunization, early childhood education, etc. will be set for AWWs. Since the condition of children and their problems vary from region to region and even within districts in the country, these targets and objectives  will  be  district  or  block  specific. At  the  district-level  a  committee  comprising  the District  Collector,  District  Health  Officer,  women Panchayat members, and mothers groups will be set  up  to  decide  the  targets  for  ICDS. Performance of the ICDS centres will be evaluated against these targets and well-performing centres will be rewarded. Besides, streamlining the work and expectations from the AWW, the new ICDS will also tackle issues of programme design, implementation, and financial allocations.
+6.116 Universalization with quality entails that the existing ICDS scheme is thoroughly examined and evaluated to identify gaps. Various surveys show that
 
 [[END OF PAGE 226]]
 
@@ -9207,7 +9622,9 @@ Towards Women's Agency and Child Rights
 
 Eleventh Five Year Plan
 
-6.117 In the Eleventh Plan, community involvement will  be  the  strategy  for  ensuring  better  functioning of ICDS centres. Communitization of education has proved to be a success in Nagaland. Involving the local community not only creates a sense of ownership and facilitates monitoring, it also ensures that the program-me is tailored according to local needs. A Village Committee comprising mothers or representatives 'of  mothers'  groups,  AWW, ANM, ASHA, women Panchayat members will be constituted to look at  issues  like  appointment  of AWWs  and  helpers (which should take place through an open Gram Sabha with at least 60% attendance), content of SNP, procurement and preparation, meeting the targets set for the ICDS, and organization of monthly Mother and Child Health Days. The AWW will be answerable to  this  committee and the committee should have the power to recommend to the district-level committee  (which  will  have  the  power  to  remove  nonperforming workers) removal of the AWW, ANM, ASHA, or helper by a simple majority. It is this committee that would be entrusted with the proper use of flexi-funds being suggested for AWCs. Since many of the issues are interlinked, the Eleventh Plan proposes the merging of this committee with the VHSC.
+high expectations from the ICDS scheme along with lack of proper training, implementation, monitoring, and financial resources are the reasons why our anganwadis have been unable to deliver. At present, the AWW is expected to perform 21 tasks. In addition to this, given her proximity to the people in the villages, she is often used for non-ICDS duties. So, in the Eleventh Plan targets for child nutrition, health care, immunization, early childhood education, etc. will be set for AWWs. Since the condition of children and their problems vary from region to region and even within districts in the country, these targets and objectives will be district or block specific. At the district-level a committee comprising the District Collector, District Health Officer, women Panchayat members, and mothers groups will be set up to decide the targets for ICDS. Performance of the ICDS centres will be evaluated against these targets and well-performing centres will be rewarded. Besides, streamlining the work and expectations from the AWW, the new ICDS will also tackle issues of programme design, implementation, and financial allocations.
+
+6.117 In the Eleventh Plan, community involvement will be the strategy for ensuring better functioning of ICDS centres. Communitization of education has proved to be a success in Nagaland. Involving the local community not only creates a sense of ownership and facilitates monitoring, it also ensures that the program-me is tailored according to local needs. A Village Committee comprising mothers or representatives 'of mothers' groups, AWW, ANM, ASHA, women Panchayat members will be constituted to look at issues like appointment of AWWs and helpers (which should take place through an open Gram Sabha with at least 60% attendance), content of SNP, procurement and preparation, meeting the targets set for the ICDS, and organization of monthly Mother and Child Health Days. The AWW will be answerable to this committee and the committee should have the power to recommend to the district-level committee (which will have the power to remove non-performing workers) removal of the AWW, ANM, ASHA, or helper by a simple majority. It is this committee that would be entrusted with the proper use of flexi-funds being suggested for AWCs. Since many of the issues are interlinked, the Eleventh Plan proposes the merging of this committee with the VHSC.
 
 6.118 The modalities for the feeding component present some choices. One approach is to rely on hot cooked meals according to local taste and provided at the anganwadi centres. Preparation of meals will be entrusted to SHGs or mothers' groups, as per decision of the Village Committee. An alternative approach is to rely upon RTE micronutrient fortified hygienically prepared food. The decision between these two options needs to be based on a careful evaluation of pros and cons and will be an important part of the proposed restructuring. The choice between the two could also be left to decentralized decision making.
 
@@ -9223,13 +9640,7 @@ Towards Women's Agency and Child Rights
 
 211
 
-###### Box 6.14 Balwadis and Phoolwaris: Focussing on Under Threes
-
-Sewa Mandir in Udaipur has been running Balwadis for young children under three. For a meagre monthly fee, often Rs 5, poor tribal women leave their children at the Balwadis. The centres run from 6-8 hours; timings are decided by the community. Often other women from the community chip in to help the worker take care of the children.
-
-In the tribal hinterlands of Bilaspur in Chattisgarh, the JSS has started Phoolwaris . Two to three women from the community volunteer to take care of children below age three. The community provides them with premises. Sarees are made into slings, where the little ones are lulled to sleep by the workers. They have neat little kerchiefs pinned to  their  front  and  are  fed  by  the  volunteers  with  love and affection. The doctors who run the programme are confident that this  is  the  way  to  fight  malnutrition. The programme also enables the poor tribal women to carry on with their work so that the family does not lose income.
-
-districts of the country. The Village Health Sanitation and Nutrition Committee will be funded for providing  at  least  three  meals  per  child  per  day  at  these crèches. It  will  also  be  provided  money  for  crèche workers. From appointment of crèche workers, to crèche timings and constitution of meals, everything will be left to the Village Committee. They will even be allowed to collect a small user fee, if the village Panchayat agrees. The Committee will be responsible for ensuring that the health workers visit the crèche on a monthly basis for immunization and health check-ups of children. Continuation of the scheme in the village will depend on the performance of the village crèches. In areas where the new programme is not introduced, children under three will continue to get THRs and will be provided home-based care through the ASHA.
+districts of the country. The Village Health Sanitation and Nutrition Committee will be funded for providing at least three meals per child per day at these crèches. It will also be provided money for crèche workers. From appointment of crèche workers, to crèche timings and constitution of meals, everything will be left to the Village Committee. They will even be allowed to collect a small user fee, if the village Panchayat agrees. The Committee will be responsible for ensuring that the health workers visit the crèche on a monthly basis for immunization and health check-ups of children. Continuation of the scheme in the village will depend on the performance of the village crèches. In areas where the new programme is not introduced, children under three will continue to get THRs and will be provided home-based care through the ASHA.
 
 6.121 PSE for children in the 3-6 years age group is another important issue. The approach paper to the Eleventh Plan had suggested that this component be taken up under SSA to streamline the functioning of ICDS centres. There are varying opinions on this but the basic proposal that children will get preschool education must be implemented.
 
@@ -9239,13 +9650,21 @@ districts of the country. The Village Health Sanitation and Nutrition Committee 
 
 6.123 Recruiting a second AWW or converging the ASHA and ANM alone will not make the AWCs effective. During the Eleventh Plan, the AWW and helper, along with the ASHA, will receive on-going training in child care, health, nutrition, and hygiene.
 
-6.124 The ICDS centres will collect a host of data that can provide valuable insights into the State of health and nutrition in the villages. If collected properly and checked regularly (through random sampling) this data can also indicate the performance of the AWCs. DLHS will be used to gauge the impact of ICDS and other interventions. Based on this information, a performance appraisal system for AWCs will be worked out. Wellperforming AWCs will be incentivized. Efficient AWWs and helpers will be encouraged by providing monetary incentives and by getting promotions to senior posts of supervisors, etc. Social audits by NGOs and by Village Level Committees will be encouraged. At the same time, a system of concurrent third party evaluation through professional bodies will be established.
+6.124 The ICDS centres will collect a host of data that can provide valuable insights into the State of health and nutrition in the villages. If collected properly and checked regularly (through random sampling) this data can also indicate the performance of the AWCs. DLHS will be used to gauge the impact of ICDS and other interventions. Based on this information, a performance appraisal system for AWCs will be worked out. Well-performing AWCs will be incentivized. Efficient AWWs and helpers will be encouraged by providing monetary incentives and by getting promotions to senior posts of supervisors, etc. Social audits by NGOs and by Village Level Committees will be encouraged. At the same time, a system of concurrent third party evaluation through professional bodies will be established.
 
 ###### Financial  Allocation
 
 6.125 In the Eleventh Plan, allocation of resources under ICDS has been increased substantially to not just expand coverage but to ensure availability of adequate infrastructure. For the proper functioning of an ICDS centre, it should be housed in a building with a kitchen, have baby-friendly toilet, drinking water facilities, and with adequate space for children to play. Availability of toys, utensils, weighing machine, mats, and IFA tablets might be ensured in the Eleventh Plan. Every AWC will be provided with a flexi-fund administered by the Village Committee.
 
-6.126 Finally, NGOs and even corporate houses will be encouraged to adopt local anganwadi centres and to augment their resources. For instance, they could provide buildings, toys, additional SNP (like a glass of  milk or eggs), impart training, sponsor severely malnourished children, offer the services of a teacher to  strengthen the preschool component, etc. They could also help with the management of AWCs.
+6.126 Finally, NGOs and even corporate houses will be encouraged to adopt local anganwadi centres and
+
+###### Box 6.14 Balwadis and Phoolwaris: Focussing on Under Threes
+
+Sewa Mandir in Udaipur has been running Balwadis for young children under three. For a meagre monthly fee, often Rs 5, poor tribal women leave their children at the Balwadis. The centres run from 6-8 hours; timings are decided by the community. Often other women from the community chip in to help the worker take care of the children.
+
+In the tribal hinterlands of Bilaspur in Chattisgarh, the JSS has started Phoolwaris. Two to three women from the community volunteer to take care of children below age three. The community provides them with premises. Sarees are made into slings, where the little ones are lulled to sleep by the workers. They have neat little kerchiefs pinned to their front and are fed by the volunteers with love and affection. The doctors who run the programme are confident that this is the way to fight malnutrition.
+
+The programme also enables the poor tribal women to carry on with their work so that the family does not lose income.
 
 [[END OF PAGE 228]]
 
@@ -9255,13 +9674,15 @@ districts of the country. The Village Health Sanitation and Nutrition Committee 
 
 Eleventh Five Year Plan
 
+to augment their resources. For instance, they could provide buildings, toys, additional SNP (like a glass of milk or eggs), impart training, sponsor severely malnourished children, offer the services of a teacher to strengthen the preschool component, etc. They could also help with the management of AWCs.
+
 6.127 No amount of restructuring will however be able to bring about a change in the health status of children unless it is supported by parallel measures outside the ICDS system. Diarrhoea caused due to unavailability of clean drinking water is the leading cause of childhood morbidity and consequently malnutrition  and  death. Providing clean drinking water at Anganwadis is essential but we must remember that the child primarily drinks water at home. Unless clean drinking water is available all day, diarrhoea diseases will  continue. Similarly, toilets at ICDS centres are important to inculcate the habit among children, but  unless  the  homes  have  toilets,  children  will continue to defecate in the open and be susceptible to  worms and diseases. Detection of diseases and referral  services  at  ICDS  centre  will  be  effective  if and only if there is a functioning PHC where the child  can  get  treatment.  Thus  ICDS  will  provide results only in a conducive environment. Currently, there are many schemes to tackle the multifarious problems which assail our villages, towns and cities. Convergence is the key.
 
 ##### RAJIV GANDHI CRÈCHE SCHEME
 
 6.128 The scheme in its present form is neither widespread nor able to provide meaningful day care services to children below 6. The Eleventh Plan will therefore review and restructure the scheme. Some changes proposed are:
 
-- Eligibility criteria will be widened to allow diverse agencies/organizations to participate, for example, SHGs, Mahila Mandal s,  women's organizations, labour unions, cooperatives, schools, panchayats, and tribal associations.
+- Eligibility criteria will be widened to allow diverse agencies/organizations to participate, for example, SHGs, Mahila Mandals, women's organizations, labour unions, cooperatives, schools, panchayats, and tribal associations.
 
 - Programme standards that are measurable through input and process indicators will be laid down.
 
@@ -9310,7 +9731,7 @@ recognition is underpinned by the fact that every child has a right to protectio
 
 6.131 Its several facets will be the following:
 
-- Reducing child vulnerability by focusing on systematic  preventive  measures  to  address  protection failures at various levels. Provisions and services of various sectors will be converged-like health, child day care, education to strengthen families and reduce the likelihood of child neglect, abuse, and vulnerability.
+- Reducing child vulnerability by focusing on systematic preventive measures to address protection failures at various levels. Provisions and services of various sectors will be converged—like health, child day care, education to strengthen families and reduce the likelihood of child neglect, abuse, and vulnerability.
 
 - Promoting non-institutional care: Institutionalization  will  be  used  as  a  measure  of  last  resort. Constant review of cases to encourage release from institutions will be carried out.
 
@@ -9320,9 +9741,7 @@ recognition is underpinned by the fact that every child has a right to protectio
 
 - Building capacities: Capacities of all those in contact with children will be strengthened on a continuing basis. Thrust will be on strengthening the family's capabilities to care for and protect the child by capacity building, family counselling, and support services and linking it to development and community support services.
 
-- Providing professional child protection services at all levels : Special services for the many situations of child neglect, exploitation, and abuse, including
-
-- shelter, care, psychological recovery, social reintegration, legal services, etc. will be provided.
+- Providing professional child protection services at all levels: Special services for the many situations of child neglect, exploitation, and abuse, including shelter, care, psychological recovery, social reintegration, legal services, etc. will be provided.
 
 - Strengthening crisis management system at all levels: First response and coordinated intersectoral actions for responding to crisis will be established and institutionalized.
 
@@ -9336,7 +9755,7 @@ recognition is underpinned by the fact that every child has a right to protectio
 
 6.132 Towards integrating child protection
 
-- 24-hour emergency helpline Childline to be extended to all districts/cities and setting up of dropin shelters in urban areas.
+- 24-hour emergency helpline Childline to be extended to all districts/cities and setting up of drop-in shelters in urban areas.
 
 - Steps to streamline adoption process by addressing identified  bottlenecks;  reaching  out  to  children whose parents are unable to care for them.
 
@@ -9376,7 +9795,7 @@ each district and strengthen their service delivery. It will also take up traini
 
 ##### Ensuring a Balanced Sex Ratio
 
-6.136 Sex selection/female foeticide will be treated as a crime and not just a social evil. Preventive, corrective/regulatory, and punitive actions to address foeticide and sex selection will be strengthened by ensuring coordination  with  the  MoHFW.  It  will  seek  the review of the PC & PNDT Act with law enforcement authorities to ensure its implementation. It will also review the current Appropriate Authorities under the PC & PNDT Act for granting, suspending or cancelling  registration  of  Genetic  Counselling  Centres and investigating complaints. It will ensure stringent penalties  and  punitive  action  against  erring  persons . Capacity building for State and WCD officials and their participation in Appropriate Authorities for  monitoring implementation of the Act will be ensured. The nationwide sensitization and advocacy campaign with specific focus on the girl child will continue.
+6.136 Sex selection/female foeticide will be treated as a crime and not just a social evil. Preventive, corrective/regulatory, and punitive actions to address foeticide and sex selection will be strengthened by ensuring coordination with the MoHFW. It will seek the review of the PC & PNDT Act with law enforcement authorities to ensure its implementation. It will also review the current Appropriate Authorities under the PC & PNDT Act for granting, suspending or cancelling registration of Genetic Counselling Centres and investigating complaints. It will ensure stringent penalties and punitive action against erring persons. Capacity building for State and WCD officials and their participation in Appropriate Authorities for monitoring implementation of the Act will be ensured. The nationwide sensitization and advocacy campaign with specific focus on the girl child will continue.
 
 ##### Education
 
@@ -9403,11 +9822,11 @@ Towards Women's Agency and Child Rights
 
 ##### Prohibition of Child Marriage
 
-6.141 Enforcement mechanisms for implementation  of  the  Prohibition  of  Child  Marriage  Act, 2006 will  be  strengthened. MoWCD will partner with Civil Society groups, PRIs, community-based organizations,  SHGs, maulvi s/ pandit s/priests/ other  religious  leaders  to  mobilize,  develop,  and promote community initiatives to support delayed marriage. Compulsory Registration of Marriages will be ensured.
+6.141 Enforcement mechanisms for implementation of the Prohibition of Child Marriage Act, 2006 will be strengthened. MoWCD will partner with Civil Society groups, PRIs, community-based organizations, SHGs, maulvis/pandits/priests/other religious leaders to mobilize, develop, and promote community initiatives to support delayed marriage. Compulsory Registration of Marriages will be ensured.
 
 ##### CONSUMERISM AND THE GIRL CHILD
 
-6.142 The Eleventh Plan will fund initiatives that raise awareness to ensure that the market economy, increasing  consumerism, and resultant family planning practices do not enhance gender inequality and lead to 'male child planning' .
+6.142 The Eleventh Plan will fund initiatives that raise awareness to ensure that the market economy, increasing consumerism, and resultant family planning practices do not enhance gender inequality and lead to 'male child planning'.
 
 #### REACHING OUT TO THE MARGINALIZED AND MOST VULNERABLE
 
@@ -9417,7 +9836,7 @@ Towards Women's Agency and Child Rights
 
 ###### Eliminating Child Labour
 
-6.144 Child labour as such is not illegal in India except  in  specific  hazardous  occupations.  With effect  from  October 2006, the Ministry of Labour has  included  domestic  work  and  employment in dhaba s,  tea  stalls,  and  restaurants  in  the  schedule of prohibited occupations under the Act. As a result a large number of children may be laid off, especially in  metropolitan  cities  and  big  towns.  It  will  be necessary to take adequate measures for the protection,  rehabilitation,  and  education  of  these children.
+6.144 Child labour as such is not illegal in India except in specific hazardous occupations. With effect from October 2006, the Ministry of Labour has included domestic work and employment in dhabas, tea stalls, and restaurants in the schedule of prohibited occupations under the Act. As a result a large number of children may be laid off, especially in metropolitan cities and big towns. It will be necessary to take adequate measures for the protection, rehabilitation, and education of these children.
 
 [[END OF PAGE 232]]
 
@@ -9427,6 +9846,28 @@ Towards Women's Agency and Child Rights
 
 Eleventh Five Year Plan
 
+Chattisgarh
+Jharkhand
+West Bengal
+Uttar Pradesh
+Tamilnadu
+Rajasthan
+Punjab
+Orissa
+Maharastra
+Madhya Pradesh
+Kerala
+Karnataka
+Himachal Pradesh
+Haryana
+Gujarat
+Bihar
+Assam
+Andhra Pradesh
+0 | 500000 | 1000000 | 1500000 | 2000000 | 2500000
+Numbers
+2001 | 1991
+Source: Census of India
 FIGURE 6.1: Child Workers
 
 ##### Eliminating Child Trafficking, Commercial Sexual Exploitation of Children, Child Pornography, Child Sex Tourism
@@ -9435,17 +9876,15 @@ FIGURE 6.1: Child Workers
 
 ##### HIV/AIDS-Infected/Affected Children
 
-6.146 Among the estimated 5.7 million people in India living with HIV/AIDS, 220000 (15%) are children under 15 years of age. 23 There are many affected children whose parents are infected and alive. Stigma and discrimination, often associated with HIV infection, can lead to exclusion and isolation along with emotional and psychological distress. It ruins a child's chances to receive an education or a normal childhood. Economic hardship resulting from their parents' inability to work may cause children to drop out of school or become child labourers. Children orphaned by HIV/AIDS are exposed to exploitation, abuse, and violence. The challenge in the Eleventh Plan is to end the discrimination and reach out to children affected/ infected by HIV/AIDS to ensure that they are protected, treated, and get an opportunity to develop according to their full potential. The chapter on Health details Eleventh Plan commitment in this regard.
+6.146 Among the estimated 5.7 million people in India living with HIV/AIDS, 220000 (15%) are children under 15 years of age. 23 There are many affected children whose parents are infected and alive. Stigma and discrimination, often associated with HIV infection, can lead to exclusion and isolation along with emotional and psychological distress. It ruins a child's chances to receive an education or a normal childhood. Economic hardship resulting from their parents' inability to work may cause children to drop out of school or become child labourers. Children orphaned by HIV/AIDS are exposed to exploitation, abuse, and violence. The challenge in the Eleventh Plan is to end the discrimination and reach out to children affected/infected by HIV/AIDS to ensure that they are protected, treated, and get an opportunity to develop according to their full potential. The chapter on Health details Eleventh Plan commitment in this regard.
 
-##### Children in Conflict with LawSocial Integration
+##### Children in Conflict with Law—Social Integration
 
-6.147 The Eleventh Plan will review the conditions of State-run homes and fund their development through the new ICPS scheme. The basic mandate of rehabilitating and reintegrating children in conflict with law will be upheld, by urging training for law enforcement and child welfare officers. The Plan will stress on the protection of children from violence, abuse, and exploitation inside institutions, and will adopt a paradigm that recognizes that children in conflict with law also need care and protection. The challenge for the Eleventh Plan is to condense the long judicial process for children, appoint more child-friendly officers, and ensure the proper implementation of the JJ Act.
+6.147 The Eleventh Plan will review the conditions of State-run homes and fund their development through the new ICPS scheme. The basic mandate of rehabilitating and reintegrating children in conflict with law will be upheld, by urging training for law enforcement and child welfare officers. The Plan will stress on the protection of children from violence, abuse, and exploitation inside institutions, and will adopt a paradigm that recognizes that children in conflict with law also need care and protection. The challenge for the Eleventh Plan is to condense the long judicial process
 
-> 22  NHRC Action Research on Trafficking, Orient Longman, 2005, New Delhi.
+> 22 NHRC Action Research on Trafficking, Orient Longman, 2005, New Delhi.
 
-> 23  UNAIDS 2004.
-
-Source: Census of India
+> 23 UNAIDS 2004.
 
 [[END OF PAGE 233]]
 
@@ -9455,7 +9894,9 @@ Towards Women's Agency and Child Rights
 
 217
 
-##### Special Provisions for Children in Distress/ Difficult  Circumstances
+for children, appoint more child-friendly officers, and ensure the proper implementation of the JJ Act.
+
+##### Special Provisions for Children in Distress/Difficult Circumstances
 
 6.148 Migration to cities by families forces children to drop out of schools who then find themselves on the streets. Most are unable to continue their education and end up becoming child labourers or beggars. Away from the secure environment of the villages, many are exposed to substance, drug, and sexual abuse.
 
@@ -9473,7 +9914,7 @@ Towards Women's Agency and Child Rights
 
 ##### Ensuring Child Mental Health
 
-6.153 At any given time, 7-15% or 65 million Indian children suffer from significant mental disorder. 26 This is in addition to the stress-related suicides and deaths that are a leading cause of mortality among young adults. There is currently no budgetary allocation for child and adolescent mental health. Mental health of children is an issue that the Eleventh Plan will fund and take up on priority basis. Counsellors will be appointed in all schools and helplines will be set up especially during exams.
+6.153 At any given time, 7-15% or 65 million Indian children suffer from significant mental disorder. 26 This is in addition to the stress-related suicides and deaths that are a leading cause of mortality among young adults. There is currently no budgetary allocation for
 
 > 24 M.L. Kataria, 'War against disability-fighting for the right of the child' , 29.5.2002, www.tribuneindia.com
 
@@ -9488,6 +9929,8 @@ Towards Women's Agency and Child Rights
 218
 
 Eleventh Five Year Plan
+
+child and adolescent mental health. Mental health of children is an issue that the Eleventh Plan will fund and take up on priority basis. Counsellors will be appointed in all schools and helplines will be set up especially during exams.
 
 ##### Simplifying Adoption Procedures and Preventing Unscrupulous Practices
 
@@ -9507,7 +9950,7 @@ Eleventh Five Year Plan
 
 6.158 The Eleventh Plan marks a big step forward in the area of women agency and child rights. It is entrenched in a rights framework that views women and children as agents, not recipients. It recognizes heterogeneity within groups, acknowledges multiple discriminations,  and  suggests  pilots  to  tackle  them.  Some  of  these pilots, it is  hoped will develop into full-fledged schemes after the mid-term appraisal of the Plan. The aim of these schemes, pilots and the Plan in general is not just to meet the monitorable targets set out; rather to develop a new paradigm wherein women and children find place within all sectors, ministries, departments, and schemes. This alone can ensure that the status of women and children grows exponentially at the beginning of the Twelfth Plan. This alone can carry forward the momentum for justice and equality set by the government through several Eleventh Plan initiatives.
 
-6.159 The total projected GBS for the Eleventh Five Year Plan for the MoWCD is Rs 48420 crore (at 200607 prices) and Rs 54765 crore (at current prices). Details are given in Appendix to Volume III.
+6.159 The total projected GBS for the Eleventh Five Year Plan for the MoWCD is Rs 48420 crore (at 2006–07 prices) and Rs 54765 crore (at current prices). Details are given in Appendix to Volume III.
 
 [[END OF PAGE 235]]
 
@@ -9516,6 +9959,8 @@ Eleventh Five Year Plan
 Towards Women's Agency and Child Rights
 
 219
+
+### ANNEXURE 6.1 Selected Development Indicators Relating to Women
 
 Sl. No. | Indicators | Women | Men | Total | Women | Men | Total
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -9534,33 +9979,31 @@ Health
 10. | MMR (1997-98 & 2001-03) | 398 | - | - | 301 | - | -
 Literacy and Education
 11. | Literacy Rates (1991 & 2004-05) | 39.3 | 64.1 | 52.2 | 57.00 | 77.00 | 67.30
-Literacy Rates, SCs | 23.8 | 49.9 | 37.4 | 41.9 | 66.6 | 54.7
-Literacy Rates, STs | 18.1 | 40.7 | 29.6 | 34.8 | 59.2 | 47.1
-12. | Gross Enrolment Ratio (1990-91 & 2004-05)
-Classes I-V | 85.5 | 114.0 | 100.1 | 104.67 | 110.70 | 107.80
-Classes I-VIII | 70.8 | 100.0 | 86.0 | 89.87 | 96.91 | 93.54
-Classes VI-VIII | 47.0 | 76.6 | 62.1 | 65.13 | 74.30 | 69.93
-13. | Dropout Rate (1990-91 & 2004-05 [Provisional])
-Classes I-V | 46.0 | 40.1 | 42.6 | 25.42 | 31.81 | 29.00
-Classes I-VIII | 65.1 | 59.1 | 60.9 | 51.28 | 50.49 | 50.84
-Classes I-X | 76.9 | 67.5 | 71.3 | 63.88 | 60.41 | 61.92
-SC Classes I-X | 83.4 | 74.3 | 77.7 | 74.17 | 69.11 | 71.25
-ST Classes I-X | 87.7 | 83.3 | 85.0 | 80.66 | 77.75 | 78.97
+ | Literacy Rates, SCs | 23.8 | 49.9 | 37.4 | 41.9 | 66.6 | 54.7
+ | Literacy Rates, STs | 18.1 | 40.7 | 29.6 | 34.8 | 59.2 | 47.1
+12. | Gross Enrolment Ratio (1990-91 & 2004-05) |  |  |  |  |  | 
+ | Classes I-V | 85.5 | 114.0 | 100.1 | 104.67 | 110.70 | 107.80
+ | Classes I-VIII | 70.8 | 100.0 | 86.0 | 89.87 | 96.91 | 93.54
+ | Classes VI-VIII | 47.0 | 76.6 | 62.1 | 65.13 | 74.30 | 69.93
+13. | Dropout Rate (1990-91 & 2004-05 [Provisional]) |  |  |  |  |  | 
+ | Classes I-V | 46.0 | 40.1 | 42.6 | 25.42 | 31.81 | 29.00
+ | Classes I-VIII | 65.1 | 59.1 | 60.9 | 51.28 | 50.49 | 50.84
+ | Classes I-X | 76.9 | 67.5 | 71.3 | 63.88 | 60.41 | 61.92
+ | SC Classes I-X | 83.4 | 74.3 | 77.7 | 74.17 | 69.11 | 71.25
+ | ST Classes I-X | 87.7 | 83.3 | 85.0 | 80.66 | 77.75 | 78.97
 Work and Employment
 14. | Work Participation Rate (1991 & 2001) | 22.3 | 51.6 | - | 25.7 | 51.9 | -
 15. | Organized Sector (No. in lakh in 1991 & 1999) | 3.8 | 23.0 | 26.7 | 4.8 | 23.3 | 28.1
 16. | Government (No. in lakh in 1997) | 1.6 | 9.1 | 10.7 | - | - | -
 Decision Making (Administrative & Political)
-17. | Administrative (IAS in 1997 & 2000) | 512 | 4479 | 4991 | 535 (10.4%) | 4624 | 5159
-18. | PRIs (Figures in thousand for 2006) | (10.2%) | 916.61 (42.8% | 1225 | 2141.61
-19. | Parliament (No. in 2001 & 2005) | 70 | 750 | 820 | of total) 73 | 717 | 790
-20. | Central Council of Ministers (1985 & 2001) | (8.5%) 4 (10.0%) | 36 | 40 | (9.24%) 8 (10.8%) | 66 | 74
+17. | Administrative (IAS in 1997 & 2000) | 512 (10.2%) | 4479 | 4991 | 535 (10.4%) | 4624 | 5159
+18. | PRIs (Figures in thousand for 2006) |  |  |  | 916.61 (42.8% of total) | 1225 | 2141.61
+19. | Parliament (No. in 2001 & 2005) | 70 (8.5%) | 750 | 820 | 73 (9.24%) | 717 | 790
+20. | Central Council of Ministers (1985 & 2001) | 4 (10.0%) | 36 | 40 | 8 (10.8%) | 66 | 74
 Crime against women
 21. | 2001 & 2005 | 143795 | - | - | 155553 | - | -
 
-### ANNEXURE 6.1 Selected Development Indicators Relating to Women
-
-Source: 1 to 4-Census of India; 5-SRS, Registrar General of India; 6 to 10-Family Welfare Statistics in India, 2006; 11 to 13-Selected Educational Statistics, 2004-05; 14 to 16-Census of India, Registrar General of India; 17, 19, 20-NRCW Website; 18-Statistics on Women, National Institute of Public Cooperation and Child Development 2007; 21-NCRB Website.
+Source: 1 to 4—Census of India; 5—SRS, Registrar General of India; 6 to 10—Family Welfare Statistics in India, 2006; 11 to 13—Selected Educational Statistics, 2004-05; 14 to 16—Census of India, Registrar General of India; 17, 19, 20—NRCW Website; 18—Statistics on Women, National Institute of Public Cooperation and Child Development 2007; 21—NCRB Website.
 
 [[END OF PAGE 236]]
 
