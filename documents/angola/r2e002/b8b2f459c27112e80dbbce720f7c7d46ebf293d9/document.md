@@ -26,7 +26,7 @@ Destacando  que  a  Constituição  da  República  de  Angola  se  filia  e  en
 
 Invocando a memória dos nossos antepassados e apelando à sabedoria das lições da nossa história comum, das nossas raízes seculares e das culturas que enriquecem a nossa unidade;
 
-Inspirados  pelas  melhores  lições  da  tradição  africana  -  substrato  fundamental  da cultura e da identidade angolanas;
+Inspirados pelas melhores lições da tradição africana – substrato fundamental da cultura e da identidade angolanas;
 
 Revestidos  de  uma  cultura  de  tolerância  e  profundamente  comprometidos  com  a reconciliação, a igualdade, a justiça e o desenvolvimento;
 
@@ -34,7 +34,7 @@ Decididos  a  construir  uma  sociedade  fundada  na  equidade  de  oportunidade
 
 Determinados  a  edificar,  todos  juntos,  uma  sociedade  justa  e  de  progresso  que respeita a vida, a igualdade, a diversidade e a dignidade das pessoas;
 
-Relembrando  que  a  actual  Constituição  representa  o  culminar  do  processo  de transição  constitucional  iniciado  em  1991,  com  a  aprovação,  pela  Assembleia  do Povo, da Lei n.º 12/91, que consagrou a democracia multipartidária, as garantias dos direitos e liberdades fundamentais dos cidadãos e o sistema económico de mercado, mudanças aprofundadas, mais tarde, pela Lei de Revisão Constitucional n.º 23/92;
+Relembrando que a actual Constituição representa o culminar do processo de transição constitucional iniciado em 1991, com a aprovação, pela Assembleia do
 
 2
 
@@ -42,7 +42,9 @@ Relembrando  que  a  actual  Constituição  representa  o  culminar  do  proces
 
 [[START OF PAGE 3]]
 
-Reafirmando o nosso comprometimento com os valores e princípios fundamentais da  Independência,  Soberania  e  Unidade  do  Estado  democrático  de  direito,  do pluralismo  de  expressão  e  de  organização  política,  da  separação  e  equilíbrio  de poderes dos órgãos de soberania, do sistema económico de mercado e do respeito e garantia  dos  direitos  e  liberdades  fundamentais  do ser  humano, que constituem as traves mestras que suportam e estruturam a presente Constituição;
+Povo, da Lei n.º 12/91, que consagrou a democracia multipartidária, as garantias dos direitos e liberdades fundamentais dos cidadãos e o sistema económico de mercado, mudanças aprofundadas, mais tarde, pela Lei de Revisão Constitucional n.º 23/92;
+
+Reafirmando o nosso comprometimento com os valores e princípios fundamentais da Independência, Soberania e Unidade do Estado democrático de direito, do pluralismo de expressão e de organização política, da separação e equilíbrio de poderes dos órgãos de soberania, do sistema económico de mercado e do respeito e garantia dos direitos e liberdades fundamentais do ser humano, que constituem as traves mestras que suportam e estruturam a presente Constituição;
 
 Conscientes de que uma Constituição como a presente é, pela partilha dos valores, princípios  e  normas  nela  plasmados,  um  importante  factor  de  unidade  nacional  e uma forte alavanca para o desenvolvimento do Estado e da sociedade;
 
@@ -100,9 +102,9 @@ Angola é uma República soberana e independente, baseada na dignidade da pessoa
 
 - O disposto no número anterior não prejudica as adições que tenham sido ou que venham a ser estabelecidas por tratados internacionais.
 
-- A  República  de  Angola  organiza-se  territorialmente,  para  fins  políticoadministrativos,  em  Províncias  e  estas  em  Municípios,  podendo  ainda estruturar-se em Comunas e em entes territoriais equivalentes, nos termos da Constituição e da lei.
+- A República de Angola organiza-se territorialmente, para fins político-administrativos, em Províncias e estas em Municípios, podendo ainda estruturar-se em Comunas e em entes territoriais equivalentes, nos termos da Constituição e da lei.
 
-- A definição  dos  limites  e  das  características  dos  escalões  territoriais,  a  sua criação, modificação ou extinção, no âmbito da organização políticoadministrativa,  bem  como  a  organização  territorial  para  fins  especiais,  tais como económicos, militares, estatísticos, ecológicos ou similares, são fixadas por lei.
+- A definição dos limites e das características dos escalões territoriais, a sua criação, modificação ou extinção, no âmbito da organização político-administrativa, bem como a organização territorial para fins especiais, tais como económicos, militares, estatísticos, ecológicos ou similares, são fixadas por lei.
 
 - A lei fixa a estruturação, a designação e a progressão das unidades urbanas e dos aglomerados populacionais.
 
@@ -726,7 +728,7 @@ O  regime  jurídico  dos  direitos,  liberdades  e  garantias  enunciados  nest
 
 [[START OF PAGE 22]]
 
-- efectiva ou iminente por forças estrangeiras, de grave ameaça ou perturbação da ordem constitucional democrática ou de calamidade pública.
+efectiva ou iminente por forças estrangeiras, de grave ameaça ou perturbação da ordem constitucional democrática ou de calamidade pública.
 
 - A opção pelo estado de guerra, estado de sítio ou estado de emergência, bem como a respectiva declaração e execução, devem sempre limitar-se às acções necessárias  e  adequadas  à  manutenção  da  ordem  pública,  à  protecção  do interesse  geral,  ao  respeito  do  princípio  da  proporcionalidade  e  limitar-se, nomeadamente  quanto  à  sua  extensão,  duração  e  meios  utilizados,  ao estritamente necessário ao pronto restabelecimento da normalidade constitucional.
 
@@ -820,7 +822,7 @@ Toda a pessoa privada da liberdade deve ser informada, no momento da sua prisão
 
 [[START OF PAGE 24]]
 
-- respectivos  pressupostos,  aplicando-se  retroactivamente  as  leis  penais  de conteúdo mais favorável ao arguido.
+respectivos pressupostos, aplicando-se retroactivamente as leis penais de conteúdo mais favorável ao arguido.
 
 - Ninguém deve ser julgado mais do que uma vez pelo mesmo facto.
 
@@ -1228,7 +1230,7 @@ O  sistema  fiscal  visa  satisfazer  as  necessidades  financeiras  do  Estado 
 
 - A  criação,  modificação  e  extinção  de  contribuições  especiais  devidas  pela prestação de serviços públicos, utilização do domínio público e demais casos previstos na lei devem constar de lei reguladora do seu regime jurídico.
 
-- As  contribuições  para  a  segurança  social,  as  contraprestações  devidas  por actividades  ou  serviços  prestados  por  entidades  ou  organismos  públicos, segundo normas de direito privado, bem como outras previstas na lei, regemse por legislação específica.
+- As  contribuições  para  a  segurança  social,  as  contraprestações  devidas  por actividades  ou  serviços  prestados  por  entidades  ou  organismos  públicos, segundo normas de direito privado, bem como outras previstas na lei, regem-se por legislação específica.
 
 ##### Artigo 104.º (Orçamento Geral do Estado)
 
@@ -1276,7 +1278,7 @@ O Presidente da República e os Deputados à Assembleia Nacional são eleitos po
 
 - O Presidente da República é o Chefe de Estado, o titular do Poder Executivo e o Comandante-em-Chefe das Forças Armadas Angolanas.
 
-- O Presidente da República exerce o poder executivo, auxiliado por um VicePresidente, Ministros de Estado e Ministros.
+- O Presidente da República exerce o poder executivo, auxiliado por um Vice-Presidente, Ministros de Estado e Ministros.
 
 36
 
@@ -1812,9 +1814,9 @@ No exercício de poderes delegados pelo Presidente de República, os Ministros d
 
 ##### Artigo 138.º (Incompatibilidades)
 
-- Os cargos de Ministro de Estado, Ministro, Secretário de Estado e de ViceMinistro são incompatíveis com o mandato de Deputado e com o exercício da actividade de magistrado judicial ou do Ministério Público.
+- Os cargos de Ministro de Estado, Ministro, Secretário de Estado e de Vice-Ministro são incompatíveis com o mandato de Deputado e com o exercício da actividade de magistrado judicial ou do Ministério Público.
 
-- Os cargos de Ministro de Estado, Ministro, Secretário de Estado e de ViceMinistro são ainda incompatíveis com uma das seguintes actividades:
+- Os cargos de Ministro de Estado, Ministro, Secretário de Estado e de Vice-Ministro são ainda incompatíveis com uma das seguintes actividades:
 
 - Empregos  remunerados  em  qualquer  instituição  pública  ou  privada, excepto as de docência ou investigação científica;
 
@@ -1878,7 +1880,7 @@ A Assembleia Nacional é composta por Deputados eleitos nos termos da Constitui�
 
 - São inelegíveis a Deputados:
 
-- Os magistrados judicias e do Ministério Público no exercício de funções;
+- Os magistrados judiciais e do Ministério Público no exercício de funções;
 
 - Os militares e os membros das forças militarizadas no activo;
 
@@ -2394,7 +2396,7 @@ Relativamente a outros órgãos, compete à Assembleia Nacional:
 
 ##### Artigo 173.º (Processo de urgência)
 
-- A requerimento do Presidente da Republica, de dez Deputados em efectividade de funções, de qualquer Grupo Parlamentar e das Comissões de Trabalho  Especializadas, pode  ser solicitada  à  Assembleia  Nacional  a urgência  na  discussão  de  qualquer  projecto  ou  proposta  de  lei  ou  de resolução.
+- A requerimento do Presidente da República, de dez Deputados em efectividade de funções, de qualquer Grupo Parlamentar e das Comissões de Trabalho  Especializadas, pode  ser solicitada  à  Assembleia  Nacional  a urgência  na  discussão  de  qualquer  projecto  ou  proposta  de  lei  ou  de resolução.
 
 - A  Assembleia  Nacional  pode,  a  requerimento  de  dez  Deputados  ou  de qualquer  Grupo  Parlamentar,  declarar  a  urgência  na  discussão  de  qualquer assunto de interesse nacional.
 
@@ -2472,7 +2474,7 @@ Os tribunais gozam de autonomia administrativa e financeira, devendo a lei defin
 
 - Os juízes em exercício de funções não podem exercer qualquer outra função pública  ou  privada,  excepto  as  de  docência  e  de  investigação  científica  de natureza jurídica.
 
-- Os juízes em exercício de funções não podem filiar-se em partidos políticos ou associações de natureza política nem  exercer actividades políticopartidárias.
+- Os juízes em exercício de funções não podem filiar-se em partidos políticos ou associações de natureza política nem  exercer actividades político-partidárias.
 
 - Aos juízes é reconhecido o direito de associação socioprofissional, sendo-lhes vedado o exercício do direito à greve.
 
@@ -2490,7 +2492,7 @@ Os tribunais gozam de autonomia administrativa e financeira, devendo a lei defin
 
 - Apreciar preventivamente a constitucionalidade das leis do parlamento;
 
-- Exercer jurisdição sobre outras questões de natureza jurídicoconstitucional, eleitoral e político-partidária, nos termos da Constituição e da lei;
+- Exercer jurisdição sobre outras questões de natureza jurídico-constitucional, eleitoral e político-partidária, nos termos da Constituição e da lei;
 
 - Apreciar  em  recurso  a  constitucionalidade  das  decisões  dos  demais Tribunais que recusem a aplicação de qualquer norma com fundamento na sua inconstitucionalidade;
 
@@ -2788,7 +2790,7 @@ Os magistrados do Ministério Público só podem ser presos depois de culpa form
 
 - O  Governador  Provincial  é  o  representante  da  administração  central  na respectiva Província, a quem incumbe, em geral , conduzir a governação da província  e  assegurar  o  normal  funcionamento  da  Administração  local  do Estado.
 
-- O Governador Provincial é nomeado pelo Presidente da República, perante quem responde politica e institucionalmente.
+- O Governador Provincial é nomeado pelo Presidente da República, perante quem responde política e institucionalmente.
 
 72
 
@@ -2944,19 +2946,20 @@ As autarquias locais têm o direito de recorrer judicialmente, a fim de assegura
 
 - As Autarquias Locais organizam-se nos municípios.
 
-- Tendo  em  conta as especificidades culturais, históricas e o grau de desenvolvimento, podem ser constituídas autarquias de nível supramunicipal.
+- Tendo em conta as especificidades culturais, históricas e o grau de desenvolvimento, podem ser constituídas autarquias de nível supra-municipal.
 
 - A lei pode ainda estabelecer, de acordo com as condições específicas, outros escalões  infra-municipais  da  organização  territorial  da  Administração  local autónoma.
 
 ##### Artigo 219.º (Atribuições)
 
-As  autarquias  locais  têm,  de  entre  outras  e  nos  termos  da  lei,  atribuições  nos domínios  da educação, saúde, energias, águas, equipamento  rural e urbano, património, cultura e ciência, transportes e comunicações, tempos livres e desportos, habitação,  acção  social,  protecção  civil,  ambiente  e  saneamento  básico,  defesa  do consumidor,  promoção  do  desenvolvimento  económico  e  social,  ordenamento  do território, polícia municipal, cooperação descentralizada e geminação.
+As autarquias locais têm, de entre outras e nos termos da lei, atribuições nos domínios da educação, saúde, energias, águas, equipamento rural e urbano, património, cultura e ciência, transportes e comunicações, tempos livres e desportos,
 
 77
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
+habitação, acção social, protecção civil, ambiente e saneamento básico, defesa do consumidor, promoção do desenvolvimento económico e social, ordenamento do território, polícia municipal, cooperação descentralizada e geminação.
 
 ##### Artigo 220.º (Órgãos das Autarquias)
 
@@ -3035,8 +3038,6 @@ São passíveis de fiscalização da constitucionalidade todos os actos que cons
 - Os tratados, convenções e acordos internacionais;
 
 - A revisão constitucional;
-
-- d)
 
 - O referendo.
 
@@ -3238,13 +3239,13 @@ JOSÉ EDUARDO DOS SANTOS
 
 [[START OF PAGE 86]]
 
-## ANEXO I - BANDEIRA NACIONAL
+## ANEXO I – BANDEIRA NACIONAL
 
 A Bandeira Nacional tem duas cores dispostas em duas faixas horizontais. A faixa superior é de cor vermelho-rubra e a inferior de cor preta e representam:
 
 - Vermelho-rubra: O sangue derramado pelos angolanos durante a opressão colonial, a luta de libertação nacional e a defesa da Pátria;
 
-- Preta - O continente africano.
+- Preta – O continente africano.
 
 No centro, figura uma composição constituída por uma secção de uma roda dentada, símbolo dos trabalhadores  e  da  produção  industrial,  por  uma  catana,  símbolo  dos  camponeses,  da  produção agrícola e da luta armada e por uma estrela, símbolo da solidariedade internacional e do progresso.
 
@@ -3272,7 +3273,7 @@ A Insígnia  da  República  de  Angola  é  formada  por  uma  secção  de  um
 
 Na  base  do  conjunto,  existe  um  livro  aberto,  símbolo  da  educação  e  cultura  e  o  sol  nascente, significando  o  novo  País.  Ao  centro  está  colocada  uma  catana  e  uma  enxada,  simbolizando  o trabalho e o início da luta armada. Ao cimo figura a estrela, símbolo da solidariedade internacional e do progresso.
 
-Na  parte  inferior  do  emblema  está  colocada  uma  faixa  dourada  com  a  inscrição  'República  de ANGOLA'.
+Na  parte  inferior  do  emblema  está  colocada  uma  faixa  dourada  com  a  inscrição  “República  de ANGOLA”.
 
 Vista  e  aprovada  pela  Assembleia  Constituinte ,  aos  21  de  Janeiro  de  2010  e,  na sequência do Acórdão do Tribunal Constitucional n.º 111/2010, de 30 de Janeiro, aos 03 de Fevereiro de 2010.
 
@@ -3290,29 +3291,42 @@ JOSÉ EDUARDO DOS SANTOS
 
 [[START OF PAGE 88]]
 
-## ANEXO III - HINO NACIONAL
+## ANEXO III – HINO NACIONAL
 
-### 'Angola Avante'
+### “Angola Avante”
 
 Ó Pátria nunca mais esqueceremos
---- | ---
-Os heróis do 4 de Fevereiro | Levantemos nossas vozes libertadas
-Ó Pátria nós saudámos os teus filhos | Para a Glória dos Povos africanos
-Tombados pela nossa independência | Marchemos combatentes angolanos
-Honrámos o passado, a nossa história | Solidários com os Povos oprimidos
-Construímos no trabalho o homem novo | Orgulhosos lutaremos pela Paz
-Honrámos o passado, a nossa história | Com as forças Progressistas do mundo
-Construímos no trabalho o homem novo | Orgulhosos lutaremos pela Paz
-Com as forças Progressistas do mundo
+Os heróis do 4 de Fevereiro
+Ó Pátria nós saudámos os teus filhos
+Tombados pela nossa independência
+Honrámos o passado, a nossa história
+Construímos no trabalho o homem novo
+Honrámos o passado, a nossa história
+Construímos no trabalho o homem novo
 Angola avante, Revolução
-Pelo poder Popular | Angola avante, Revolução
-Pátria unida, liberdade | Pelo poder Popular
-Um só Povo uma só Nação | Pátria unida, liberdade
+Pelo poder Popular
+Pátria unida, liberdade
 Um só Povo uma só Nação
 Angola avante, Revolução
-Pelo poder Popular | Angola avante, Revolução
-Pátria unida, liberdade | Pelo poder Popular
-Um só Povo uma só Nação | Pátria unida, liberdade
+Pelo poder Popular
+Pátria unida, liberdade
+Um só Povo uma só Nação
+
+Levantemos nossas vozes libertadas
+Para a Glória dos Povos africanos
+Marchemos combatentes angolanos
+Solidários com os Povos oprimidos
+Orgulhosos lutaremos pela Paz
+Com as forças Progressistas do mundo
+Orgulhosos lutaremos pela Paz
+Com as forças Progressistas do mundo
+Angola avante, Revolução
+Pelo poder Popular
+Pátria unida, liberdade
+Um só Povo uma só Nação
+Angola avante, Revolução
+Pelo poder Popular
+Pátria unida, liberdade
 Um só Povo uma só Nação
 
 Vista  e  aprovada  pela  Assembleia  Constituinte ,  aos  21  de  Janeiro  de  2010  e,  na sequência do Acórdão do Tribunal Constitucional n.º 111/2010, de 30 de Janeiro, aos 03 de Fevereiro de 2010.
@@ -3333,7 +3347,7 @@ JOSÉ EDUARDO DOS SANTOS
 
 ## LEGISLADORES CONSTITUINTES
 
-FERNANDO  DA  PIEDADE  DIAS DOS SANTOS  Presidente da Assembleia  Nacional;  JOÃO  MANUEL GONÇALVES LOURENÇO - 1º Vice-Presidente da Assembleia Nacional; JOANA LINA RAMOS BAPTISTA  -  2º Vice-Presidente da Assembleia Nacional;  ERNESTO JOAQUIM  MULATO  -  3º Vice-Presidente da Assembleia Nacional; PEDRITO CUCHIRI - 4º Vice-Presidente da Assembleia Nacional; CARLOS MAGALHÃES - 1º  Secretário  de  Mesa  da  Assembleia  Nacional;  EMÍLIA CARLOTA S. CELESTINO DIAS -  2º  Secretário  de  Mesa  da  Assembleia Nacional; CARLOS DE OLIVEIRA FONTOURA - 3º Secretário de Mesa da Assembleia Nacional; RAÚL JOSÉ BARCELOS - 4º Secretário de Mesa da Assembleia Nacional; ABÍLIO J. A.  KAMALATA  NUMA;  ADÃO CAMPOS CONGO; ADÃO CRISTOVÃO NETO; ADÉLIA MARIA PIRES C.  DE  CARVALHO;  ADELINO  MARQUES  DE  ALMEIDA;  ADRIANO SOFIA CACUASSA BENTO; ADRIANO BOTELHO DE VASCONCELOS; ADRIANO  MENDES  DE  CARVALHO;  AFONSO  DOMINGOS  PEDRO VAN-DÚNEM;  AFONSO  MARIA  VABA;  AFONSO  MORAIS  KUEDI; AGATA  MARIA FLORINDA  MBAKA  RAIMUNDO;  AGOSTINHO NDJAKA;  ALBERTINA  CUNGINGOMOCO  MUXINDO;  ALBERTINA TERESA  JOSÉ;  ALDA  JULIANA  PAULO  SACHIAMBO;  ALFREDO BERNER; ALFREDO FURTADO  DE AZEVEDO  JUNIOR; ALICE PAULINO DOMBOLO CHIVACA; ALMERINDO JAKA JAMBA; AMARO  CACOMA  DA  SILVA;  ANA  MARAVILHA  BORGES  A. FERNANDES; ANA MARIA DE OLIVEIRA; ANA MARIA MANUEL J. TAVEIRA; ANABELA M. DOS SANTOS ALBERTO; ANABELA TRINDADE J. DA SILVA; ANÍBAL JOÃO S. MELO; ANTÓNIO FILIPE TCHIYULO  JEREMIAS;  ANTÓNIO  D.  VENTURA  DE  AZEVEDO; ANTÓNIO DOS SANTOS FRANÇA; ANTÓNIO FRANCISCO CORTÊZ; ANTÓNIO  F. FERREIRA  JÚNIOR; ANTÓNIO  FILIPE  TCHIYULO JEREMIAS;  ANTÓNIO  SAMBUQUILA;  ARMANDO  DALA;  AURORA JUNJO CASSULE; BENTO JOAQUIM S. FRANCISCO BENTO; BERNARDA  G.  MARTINS  H.  DA  SILVA;  BORNITO  DE  SOUSA  B. DIOGO; CARLOS ALBERTO FERREIRA PINTO; CARLOS FRANCISCO CONDE;  CARLITO  ROBERTO;  CAROLINA  CERQUEIRA;  CAROLINA CRISTINA  ELIAS;  CASSONGO  JOÃO  DA  CRUZ;  CATARINA  PEDRO DOMINGOS; CLARISSE M. M. CAPUTU; CESALTINA DA CONCEIÇÃO MAJOR; CONSTANTINO M. DOS SANTOS; CRISTÓVÃO DOMINGOS F.  DA  CUNHA;  DANIEL  ANTÓNIO;  DELFINA  HELENA  INÁCIO;
+FERNANDO  DA  PIEDADE  DIAS DOS SANTOS - Presidente da Assembleia  Nacional;  JOÃO  MANUEL GONÇALVES LOURENÇO - 1º - Vice-Presidente da Assembleia Nacional; JOANA LINA RAMOS BAPTISTA  -  2º Vice-Presidente da Assembleia Nacional;  ERNESTO JOAQUIM  MULATO  -  3º Vice-Presidente da Assembleia Nacional; PEDRITO CUCHIRI - 4º Vice-Presidente da Assembleia Nacional; CARLOS MAGALHÃES - 1º  Secretário  de  Mesa  da  Assembleia  Nacional;  EMÍLIA CARLOTA S. CELESTINO DIAS -  2º  Secretário  de  Mesa  da  Assembleia Nacional; CARLOS DE OLIVEIRA FONTOURA - 3º Secretário de Mesa da Assembleia Nacional; RAÚL JOSÉ BARCELOS - 4º Secretário de Mesa da Assembleia Nacional; ABÍLIO J. A.  KAMALATA  NUMA;  ADÃO CAMPOS CONGO; ADÃO CRISTOVÃO NETO; ADÉLIA MARIA PIRES C.  DE  CARVALHO;  ADELINO  MARQUES  DE  ALMEIDA;  ADRIANO SOFIA CACUASSA BENTO; ADRIANO BOTELHO DE VASCONCELOS; ADRIANO  MENDES  DE  CARVALHO;  AFONSO  DOMINGOS  PEDRO VAN-DÚNEM;  AFONSO  MARIA  VABA;  AFONSO  MORAIS  KUEDI; AGATA  MARIA FLORINDA  MBAKA  RAIMUNDO;  AGOSTINHO NDJAKA;  ALBERTINA  CUNGINGOMOCO  MUXINDO;  ALBERTINA TERESA  JOSÉ;  ALDA  JULIANA  PAULO  SACHIAMBO;  ALFREDO BERNER; ALFREDO FURTADO  DE AZEVEDO  JUNIOR; ALICE PAULINO DOMBOLO CHIVACA; ALMERINDO JAKA JAMBA; AMARO  CACOMA  DA  SILVA;  ANA  MARAVILHA  BORGES  A. FERNANDES; ANA MARIA DE OLIVEIRA; ANA MARIA MANUEL J. TAVEIRA; ANABELA M. DOS SANTOS ALBERTO; ANABELA TRINDADE J. DA SILVA; ANÍBAL JOÃO S. MELO; ANTÓNIO FILIPE TCHIYULO  JEREMIAS;  ANTÓNIO  D.  VENTURA  DE  AZEVEDO; ANTÓNIO DOS SANTOS FRANÇA; ANTÓNIO FRANCISCO CORTÊZ; ANTÓNIO  F. FERREIRA  JÚNIOR; ANTÓNIO  FILIPE  TCHIYULO JEREMIAS;  ANTÓNIO  SAMBUQUILA;  ARMANDO  DALA;  AURORA JUNJO CASSULE; BENTO JOAQUIM S. FRANCISCO BENTO; BERNARDA  G.  MARTINS  H.  DA  SILVA;  BORNITO  DE  SOUSA  B. DIOGO; CARLOS ALBERTO FERREIRA PINTO; CARLOS FRANCISCO CONDE;  CARLITO  ROBERTO;  CAROLINA  CERQUEIRA;  CAROLINA CRISTINA  ELIAS;  CASSONGO  JOÃO  DA  CRUZ;  CATARINA  PEDRO DOMINGOS; CLARISSE M. M. CAPUTU; CESALTINA DA CONCEIÇÃO MAJOR; CONSTANTINO M. DOS SANTOS; CRISTÓVÃO DOMINGOS F.  DA  CUNHA;  DANIEL  ANTÓNIO;  DELFINA  HELENA  INÁCIO;
 
 2
 
