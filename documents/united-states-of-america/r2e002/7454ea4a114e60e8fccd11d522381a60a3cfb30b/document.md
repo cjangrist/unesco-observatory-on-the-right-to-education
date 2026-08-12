@@ -1100,8 +1100,6 @@ PUBLIC LAW 108-446-DEC. 3, 2004
 
 VerDate 11-MAY-2000
 
-is-
-
 ''(i)  the  number  of  children  with  disabilities  in the  State  who  are  receiving  special  education  and related services-
 
 ''(I)  aged  3  through  5  if  the  State  is  eligible for a grant under section 619; and
@@ -1110,7 +1108,7 @@ is-
 
 ''(ii)  40  percent  of  the  average  per-pupil  expenditure in public elementary schools and secondary schools in the United States; and
 
-''(B)  for  fiscal  year  2007  and  subsequent  fiscal  years
+''(B)  for  fiscal  year  2007  and  subsequent  fiscal  years is-
 
 ''(i)  the  number  of  children  with  disabilities  in the  2004-2005  school  year  in  the  State  who  received special education and related services-
 
@@ -1138,7 +1136,7 @@ described in subsection (d)(3)(A)(i)(II); and
 
 ''(ii) to provide each freely associated State a grant in the amount that such freely associated State received for fiscal year 2003 under this part, but only if  the  freely  associated  State  meets  the  applicable requirements of this part, as well as the requirements of  section  611(b)(2)(C)  as  such  section  was  in  effect on the day before the date of enactment of the Individuals  with  Disabilities  Education  Improvement  Act  of 2004.
 
-''(B) SPECIAL RULE.-The provisions of Public Law 95134, permitting the consolidation of grants by the outlying areas,  shall  not  apply  to  funds  provided  to  the  outlying areas  or  the  freely  associated  States  under  this  section.
+''(B) SPECIAL RULE.-The provisions of Public Law 95-134, permitting the consolidation of grants by the outlying areas,  shall  not  apply  to  funds  provided  to  the  outlying areas  or  the  freely  associated  States  under  this  section.
 
 ''(C)  DEFINITION.-In  this  paragraph,  the  term  'freely associated  States'  means  the  Republic  of  the  Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
@@ -1178,7 +1176,7 @@ VerDate 11-MAY-2000
 
 Jkt 039139
 
-''(1)  IN GENERAL.-The  Secretary  may  reserve  not  more than  1 /2 of  1  percent  of  the  amounts  appropriated  under  this part for each fiscal year to provide technical assistance activities authorized under section 616(i).
+''(1)  IN GENERAL.-The  Secretary  may  reserve  not  more than  1⁄2 of  1  percent  of  the  amounts  appropriated  under  this part for each fiscal year to provide technical assistance activities authorized under section 616(i).
 
 ''(2)  MAXIMUM AMOUNT.-The  maximum  amount  the  Secretary  may  reserve  under  paragraph  (1)  for  any  fiscal  year is  $25,000,000,  cumulatively  adjusted  by  the  rate  of  inflation as  measured by the percentage increase, if any, from the preceding fiscal  year  in  the  Consumer  Price  Index  For  All  Urban Consumers,  published  by  the  Bureau  of  Labor  Statistics  of the Department of Labor.
 
@@ -1186,7 +1184,7 @@ Jkt 039139
 
 ''(1) IN GENERAL.-After reserving funds for technical assistance, and for payments to the outlying areas, the freely associated States, and the Secretary of the Interior under subsections (b)  and  (c)  for  a  fiscal  year,  the  Secretary  shall  allocate  the remaining  amount  among  the  States  in  accordance  with  this subsection.
 
-''(2) SPECIAL RULE FOR USE OF FISCAL YEAR 1999 AMOUNT.If  a  State  received  any  funds  under  this  section  for  fiscal year  1999  on  the  basis  of  children  aged  3  through  5,  but does  not  make  a  free  appropriate  public  education  available to  all  children  with  disabilities  aged  3  through  5  in  the  State in  any  subsequent  fiscal  year,  the  Secretary  shall  compute the  State's  amount  for  fiscal  year  1999,  solely  for  the  purpose of  calculating  the  State's  allocation  in  that  subsequent  year under paragraph (3) or (4), by subtracting the amount allocated to the State for fiscal year 1999 on the basis of those children.
+''(2) SPECIAL RULE FOR USE OF FISCAL YEAR 1999 AMOUNT.-If  a  State  received  any  funds  under  this  section  for  fiscal year  1999  on  the  basis  of  children  aged  3  through  5,  but does  not  make  a  free  appropriate  public  education  available to  all  children  with  disabilities  aged  3  through  5  in  the  State in  any  subsequent  fiscal  year,  the  Secretary  shall  compute the  State's  amount  for  fiscal  year  1999,  solely  for  the  purpose of  calculating  the  State's  allocation  in  that  subsequent  year under paragraph (3) or (4), by subtracting the amount allocated to the State for fiscal year 1999 on the basis of those children.
 
 ''(3) INCREASE IN FUNDS.-If the amount available for allocations  to  States  under  paragraph  (1)  for  a  fiscal  year  is  equal to  or  greater  than  the  amount  allocated  to  the  States  under this  paragraph  for  the  preceding  fiscal  year,  those  allocations shall be calculated as follows:
 
@@ -1238,7 +1236,7 @@ VerDate 11-MAY-2000
 
 ''(aa) the amount the State received under this section for fiscal year 1999; and
 
-''(bb) 1 /3 of  1  percent  of  the  amount  by which  the  amount  appropriated  under  subsection (i) for the fiscal year exceeds  the amount appropriated for this section for fiscal year 1999;
+''(bb) 1⁄3 of  1  percent  of  the  amount  by which  the  amount  appropriated  under  subsection (i) for the fiscal year exceeds  the amount appropriated for this section for fiscal year 1999;
 
 ''(II) the sum of-
 
@@ -1426,7 +1424,7 @@ PO 00446
 
 ''(viii)  To  support  capacity  building  activities  and improve  the  delivery  of  services  by  local  educational agencies  to  improve  results  for  children  with  disabilities.
 
-''(ix)  Alternative  programming  for  children  with disabilities  who  have  been  expelled  from  school,  and services  for  children  with  disabilities  in  correctional facilities,  children  enrolled  in  State-operated  or  Statesupported  schools,  and  children  with  disabilities  in charter schools.
+''(ix)  Alternative  programming  for  children  with disabilities  who  have  been  expelled  from  school,  and services  for  children  with  disabilities  in  correctional facilities,  children  enrolled  in  State-operated  or  State-supported  schools,  and  children  with  disabilities  in charter schools.
 
 ''(x)  To  support  the  development  and  provision  of appropriate accommodations for children with disabilities,  or  the  development  and  provision  of  alternate assessments  that  are  valid  and  reliable  for  assessing the performance of children with disabilities, in accordance with sections 1111(b) and 6111 of the Elementary and Secondary Education Act of 1965.
 
@@ -1466,11 +1464,14 @@ VerDate 11-MAY-2000
 
 ''(II)  to  support  innovative  and  effective  ways of cost sharing by the State, by a local educational agency, or among a consortium of local educational agencies,  as  determined  by  the  State  in  coordination  with  representatives  from  local  educational agencies, subject to subparagraph (B)(ii).
 
-''(ii) DEFINITION OF LOCAL EDUCATIONAL AGENCY.In  this  paragraph  the  term  'local  educational  agency' includes  a  charter  school  that  is  a  local  educational agency,  or  a  consortium  of  local  educational  agencies. ''(B) LIMITATION ON USES OF FUNDS.-
+''(ii) DEFINITION OF LOCAL EDUCATIONAL AGENCY.-
+In  this  paragraph  the  term  'local  educational  agency' includes  a  charter  school  that  is  a  local  educational agency,  or  a  consortium  of  local  educational  agencies.
+
+''(B) LIMITATION ON USES OF FUNDS.-
 
 ''(i)  ESTABLISHMENT OF HIGH COST FUND.-A State shall not use any of the funds the State reserves pursuant  to  subparagraph  (A)(i),  but  may  use  the  funds the  State  reserves  under  paragraph  (1),  to  establish and support the high cost fund.
 
-''(ii)  INNOVATIVE AND EFFECTIVE COST SHARING.A  State  shall  not  use  more  than  5  percent  of  the funds  the  State  reserves  pursuant  to  subparagraph (A)(i)  for  each  fiscal  year  to  support  innovative  and effective ways of cost sharing among consortia of local educational agencies.
+''(ii)  INNOVATIVE AND EFFECTIVE COST SHARING.-A  State  shall  not  use  more  than  5  percent  of  the funds  the  State  reserves  pursuant  to  subparagraph (A)(i)  for  each  fiscal  year  to  support  innovative  and effective ways of cost sharing among consortia of local educational agencies.
 
 ''(C) STATE PLAN FOR HIGH COST FUND.-
 
@@ -1542,7 +1543,7 @@ Jkt 039139
 
 ''(ii)  to  authorize  a  State  educational  agency  or local  educational  agency  to  establish  a  limit  on  what may  be  spent  on  the  education  of  a  child  with  a  disability.
 
-''(G)  SPECIAL RULE FOR RISK POOL AND HIGH NEED ASSISTANCE PROGRAMS IN EFFECT AS OF JANUARY 1, 2004.Notwithstanding the provisions of subparagraphs (A) through  (F),  a  State  may  use  funds  reserved  pursuant to  this  paragraph  for  implementing  a  placement  neutral cost  sharing  and  reimbursement  program  of  high  need, low  incidence,  catastrophic,  or  extraordinary  aid  to  local educational  agencies  that  provides  services  to  high  need students  based  on  eligibility  criteria  for  such  programs that  were  created  not  later  than  January  1,  2004,  and are currently in operation, if such program serves children that meet the requirement of the definition of a high need
+''(G)  SPECIAL RULE FOR RISK POOL AND HIGH NEED ASSISTANCE PROGRAMS IN EFFECT AS OF JANUARY 1, 2004.-Notwithstanding the provisions of subparagraphs (A) through  (F),  a  State  may  use  funds  reserved  pursuant to  this  paragraph  for  implementing  a  placement  neutral cost  sharing  and  reimbursement  program  of  high  need, low  incidence,  catastrophic,  or  extraordinary  aid  to  local educational  agencies  that  provides  services  to  high  need students  based  on  eligibility  criteria  for  such  programs that  were  created  not  later  than  January  1,  2004,  and are currently in operation, if such program serves children that meet the requirement of the definition of a high need
 
 PO 00446
 
@@ -1958,7 +1959,7 @@ Jkt 039139
 
 ''(8)  CONFIDENTIALITY.-Agencies in the State comply with section  617(c)  (relating  to  the  confidentiality  of  records  and information).
 
-''(9)  TRANSITION FROM PART C TO PRESCHOOL PROGRAMS.Children participating in early intervention programs assisted under  part  C,  and  who  will  participate  in  preschool  programs assisted  under  this  part,  experience  a  smooth  and  effective transition to those preschool programs in a manner consistent with  section  637(a)(9).  By  the  third  birthday  of  such  a  child, an individualized education program or, if consistent with sections  614(d)(2)(B)  and  636(d),  an  individualized  family  service plan,  has  been  developed  and  is  being  implemented  for  the child. The local educational agency will participate in transition planning  conferences  arranged  by  the  designated  lead  agency under section 635(a)(10).
+''(9)  TRANSITION FROM PART C TO PRESCHOOL PROGRAMS.-Children participating in early intervention programs assisted under  part  C,  and  who  will  participate  in  preschool  programs assisted  under  this  part,  experience  a  smooth  and  effective transition to those preschool programs in a manner consistent with  section  637(a)(9).  By  the  third  birthday  of  such  a  child, an individualized education program or, if consistent with sections  614(d)(2)(B)  and  636(d),  an  individualized  family  service plan,  has  been  developed  and  is  being  implemented  for  the child. The local educational agency will participate in transition planning  conferences  arranged  by  the  designated  lead  agency under section 635(a)(10).
 
 ''(10) CHILDREN IN PRIVATE SCHOOLS.-
 
@@ -2098,7 +2099,7 @@ forward the documentation of the consultation process to the State educational a
 
 ''(aa)  by  employees  of  a  public  agency;  or ''(bb) through contract by the public agency with an individual, association, agency, organization, or other entity.
 
-''(II)  SECULAR,  NEUTRAL,  NONIDEOLOGICAL.Special  education  and  related  services  provided to  parentally  placed  private  school  children  with disabilities,  including  materials  and  equipment, shall be secular, neutral, and nonideological.
+''(II)  SECULAR,  NEUTRAL,  NONIDEOLOGICAL.-Special  education  and  related  services  provided to  parentally  placed  private  school  children  with disabilities,  including  materials  and  equipment, shall be secular, neutral, and nonideological.
 
 ''(vii)  PUBLIC CONTROL OF FUNDS.-The  control  of funds  used  to  provide  special  education  and  related services  under  this  subparagraph,  and  title  to  materials,  equipment,  and  property  purchased  with  those funds,  shall  be  in  a  public  agency  for  the  uses  and purposes  provided  in  this  title,  and  a  public  agency shall administer the funds and property.
 
@@ -2254,11 +2255,11 @@ Jkt 039139
 
 ''(i) AGENCY FINANCIAL RESPONSIBILITY.-An identification  of,  or  a  method  for  defining,  the  financial responsibility  of  each  agency  for  providing  services described in subparagraph (B)(i) to ensure a free appropriate  public  education  to  children  with  disabilities, provided that the financial responsibility of each public agency  described  in  subparagraph  (B),  including  the State  medicaid  agency  and  other  public  insurers  of children  with  disabilities,  shall  precede  the  financial responsibility  of  the  local  educational  agency  (or  the State  agency  responsible  for  developing  the  child's IEP).
 
-''(ii) CONDITIONS AND TERMS OF REIMBURSEMENT.The  conditions,  terms,  and  procedures  under  which a local educational agency shall be reimbursed by other agencies.
+''(ii) CONDITIONS AND TERMS OF REIMBURSEMENT.-The  conditions,  terms,  and  procedures  under  which a local educational agency shall be reimbursed by other agencies.
 
 ''(iii) INTERAGENCY DISPUTES.-Procedures for resolving  interagency  disputes  (including  procedures under  which  local  educational  agencies  may  initiate proceedings) under the agreement or other mechanism to secure reimbursement from other agencies or otherwise  implement  the  provisions  of  the  agreement  or mechanism.
 
-''(iv)  COORDINATION OF SERVICES PROCEDURES.Policies  and procedures for agencies to determine and identify  the  interagency  coordination  responsibilities of each agency to promote the coordination and timely and appropriate delivery of services described in subparagraph (B)(i).
+''(iv)  COORDINATION OF SERVICES PROCEDURES.-Policies  and procedures for agencies to determine and identify  the  interagency  coordination  responsibilities of each agency to promote the coordination and timely and appropriate delivery of services described in subparagraph (B)(i).
 
 ''(B) OBLIGATION OF PUBLIC AGENCY.-
 
@@ -2918,7 +2919,7 @@ Jkt 039139
 
 ''(A)  USES.-Notwithstanding  paragraph  (2)(A)  or  section  612(a)(17)(B)  (relating  to  commingled  funds),  funds provided  to  the  local  educational  agency  under  this  part may be used for the following activities:
 
-''(i)  SERVICES AND AIDS THAT ALSO BENEFIT NONDISABLED CHILDREN.-For the costs of special education and related services, and supplementary aids and services,  provided  in  a  regular  class  or  other  educationrelated setting to a child with a disability in accordance with the individualized education program of the child, even  if  1  or  more  nondisabled  children  benefit  from such services.
+''(i)  SERVICES AND AIDS THAT ALSO BENEFIT NONDISABLED CHILDREN.-For the costs of special education and related services, and supplementary aids and services,  provided  in  a  regular  class  or  other  education-related setting to a child with a disability in accordance with the individualized education program of the child, even  if  1  or  more  nondisabled  children  benefit  from such services.
 
 ''(ii)  EARLY INTERVENING SERVICES.-To  develop and  implement  coordinated,  early  intervening  educational services in accordance with subsection (f).
 
@@ -2972,7 +2973,7 @@ VerDate 11-MAY-2000
 
 ''(1)  IN GENERAL.-If  a  local  educational  agency  or  State agency  has  on  file  with  the  State  educational  agency  policies and  procedures  that  demonstrate  that  such  local  educational agency,  or  such  State  agency,  as  the  case  may  be,  meets  any requirement of subsection (a), including any policies and procedures  filed  under  this  part  as  in  effect  before  the  effective date  of  the  Individuals  with  Disabilities  Education  Improvement Act of 2004, the State educational agency shall consider such  local  educational  agency  or  State  agency,  as  the  case may be, to have met such requirement for purposes of receiving assistance under this part.
 
-''(2) MODIFICATION MADE BY LOCAL EDUCATIONAL AGENCY.Subject  to  paragraph  (3),  an  application  submitted  by  a  local educational agency in accordance with this section shall remain
+''(2) MODIFICATION MADE BY LOCAL EDUCATIONAL AGENCY.-Subject  to  paragraph  (3),  an  application  submitted  by  a  local educational agency in accordance with this section shall remain
 
 12:14 Jan 11, 2005
 
@@ -3120,11 +3121,11 @@ VerDate 11-MAY-2000
 
 ''(A)  the  number  of  students  served  under  this  subsection; and
 
-''(B)  the  number  of  students  served  under  this  subsection  who  subsequently  receive  special  education  and related  services  under  this  title  during  the  preceding  2year period.
+''(B)  the  number  of  students  served  under  this  subsection  who  subsequently  receive  special  education  and related  services  under  this  title  during  the  preceding  2-year period.
 
 ''(5) COORDINATION WITH ELEMENTARY AND SECONDARY EDUCATION ACT OF 1965.-Funds  made  available  to  carry  out  this subsection  may  be  used  to  carry  out  coordinated,  early  intervening  services  aligned  with  activities  funded  by,  and  carried out  under,  the  Elementary  and  Secondary  Education  Act  of 1965 if  such  funds  are  used  to  supplement,  and  not  supplant, funds  made  available  under  the  Elementary  and  Secondary Education  Act  of  1965  for  the  activities  and  services  assisted under this subsection.
 
-''(g)  DIRECT SERVICES BY THE STATE EDUCATIONAL AGENCY.''(1)  IN GENERAL.-A  State  educational  agency  shall  use the  payments  that  would  otherwise  have  been  available  to a  local  educational  agency  or  to  a  State  agency  to  provide special education and related services directly to children with disabilities residing in the area served by that local educational agency,  or  for  whom  that  State  agency  is  responsible,  if  the State educational agency determines that the local educational agency or State agency, as the case may be-
+''(g)  DIRECT SERVICES BY THE STATE EDUCATIONAL AGENCY.-''(1)  IN GENERAL.-A  State  educational  agency  shall  use the  payments  that  would  otherwise  have  been  available  to a  local  educational  agency  or  to  a  State  agency  to  provide special education and related services directly to children with disabilities residing in the area served by that local educational agency,  or  for  whom  that  State  agency  is  responsible,  if  the State educational agency determines that the local educational agency or State agency, as the case may be-
 
 ''(A) has not provided the information needed to establish the eligibility of such local educational agency or State agency under this section;
 
@@ -3510,7 +3511,7 @@ VerDate 11-MAY-2000
 
 ''(3)  PARENTAL CONSENT.-Each  local  educational  agency shall  obtain  informed  parental  consent,  in  accordance  with subsection  (a)(1)(D),  prior  to  conducting  any  reevaluation  of a  child  with  a  disability,  except  that  such  informed  parental consent  need  not  be  obtained  if  the  local  educational  agency can  demonstrate  that  it  had  taken  reasonable  measures  to obtain such consent and the child's parent has failed to respond.
 
-''(4) REQUIREMENTS IF ADDITIONAL DATA ARE NOT NEEDED.If  the  IEP  Team  and  other  qualified  professionals,  as  appropriate,  determine that no additional data are needed to determine whether the child continues to be a child with a disability and  to  determine  the  child's  educational  needs,  the  local  educational agency-
+''(4) REQUIREMENTS IF ADDITIONAL DATA ARE NOT NEEDED.-If  the  IEP  Team  and  other  qualified  professionals,  as  appropriate,  determine that no additional data are needed to determine whether the child continues to be a child with a disability and  to  determine  the  child's  educational  needs,  the  local  educational agency-
 
 ''(A) shall notify the child's parents of-
 
@@ -3716,7 +3717,7 @@ Jkt 039139
 
 ''(A)  IN GENERAL.-At  the  beginning  of  each  school year, each local educational agency, State  educational agency,  or  other  State  agency,  as  the  case  may  be,  shall have  in  effect,  for  each  child  with  a  disability  in  the agency's jurisdiction, an individualized education program, as defined in paragraph (1)(A).
 
-''(B)  PROGRAM FOR CHILD AGED 3 THROUGH 5.-In  the case  of  a  child  with  a  disability  aged  3  through  5  (or, at  the  discretion  of  the  State  educational  agency,  a  2year-old child with a disability who will turn age 3 during the school year), the IEP Team shall consider the individualized  family  service  plan  that  contains  the  material described  in  section  636,  and  that  is  developed  in  accordance with this section, and the individualized family service plan  may serve as the IEP of the child if  using  that  plan as the IEP is-
+''(B)  PROGRAM FOR CHILD AGED 3 THROUGH 5.-In  the case  of  a  child  with  a  disability  aged  3  through  5  (or, at  the  discretion  of  the  State  educational  agency,  a  2-year-old child with a disability who will turn age 3 during the school year), the IEP Team shall consider the individualized  family  service  plan  that  contains  the  material described  in  section  636,  and  that  is  developed  in  accordance with this section, and the individualized family service plan  may serve as the IEP of the child if  using  that  plan as the IEP is-
 
 PO 00446
 
@@ -3872,7 +3873,7 @@ VerDate 11-MAY-2000
 
 ''(A) PILOT PROGRAM.-
 
-''(i)  PURPOSE.-The  purpose  of  this  paragraph  is to  provide  an  opportunity  for  States  to  allow  parents and local educational agencies the opportunity for longterm  planning  by  offering  the  option  of  developing a comprehensive multi-year IEP, not to exceed 3 years, that is designed to coincide with the natural transition points for the child.
+''(i)  PURPOSE.-The  purpose  of  this  paragraph  is to  provide  an  opportunity  for  States  to  allow  parents and local educational agencies the opportunity for long-term  planning  by  offering  the  option  of  developing a comprehensive multi-year IEP, not to exceed 3 years, that is designed to coincide with the natural transition points for the child.
 
 ''(ii)  AUTHORIZATION.-In  order  to  carry  out  the purpose of this paragraph, the Secretary is authorized to  approve  not  more  than  15  proposals  from  States to carry out the activity described in clause (i).
 
@@ -4096,7 +4097,7 @@ in  accordance  with  subsection  (c)(2)  (which  shall  remain  confidential)-
 
 ''(I)  the  name of the child, the address of the residence  of  the  child  (or  available  contact  information in  the  case  of  a  homeless  child),  and  the  name  of the school the child is attending;
 
-''(II)  in  the  case  of  a  homeless  child  or  youth (within the meaning of section 725(2) of the McKinneyVento Homeless Assistance Act (42 U.S.C. 11434a(2)), available  contact  information  for  the  child  and  the name of the school the child is attending;
+''(II)  in  the  case  of  a  homeless  child  or  youth (within the meaning of section 725(2) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11434a(2)), available  contact  information  for  the  child  and  the name of the school the child is attending;
 
 ''(III)  a  description  of  the  nature  of  the  problem of  the  child  relating  to  such  proposed  initiation  or change,  including  facts  relating  to  such  problem;  and
 
@@ -4182,7 +4183,7 @@ Jkt 039139
 
 ''(II) SUFFICIENCY.-A response filed by a local educational agency pursuant to subclause (I) shall not be construed to preclude such local educational agency from asserting that the parent's due process  complaint  notice  was  insufficient  where appropriate.
 
-''(ii)  OTHER PARTY RESPONSE.-Except as provided in  clause  (i),  the  non-complaining  party  shall,  within 10  days  of  receiving  the  complaint,  send  to  the  complaint a response that specifically addresses the issues raised in the complaint.
+''(ii)  OTHER PARTY RESPONSE.-Except as provided in  clause  (i),  the  non-complaining  party  shall,  within 10  days  of  receiving  the  complaint,  send  to  the  complainant a response that specifically addresses the issues raised in the complaint.
 
 ''(C)  TIMING.-The  party  providing  a  hearing  officer notification under subparagraph  (A) shall provide the notification within 15 days of receiving the complaint.
 
@@ -4518,7 +4519,7 @@ officer  from  ordering  a  local  educational  agency  to comply  with  procedu
 
 ''(1)  the  right  to  be  accompanied  and  advised  by  counsel and  by  individuals  with  special  knowledge  or  training  with respect to the problems of children with disabilities;
 
-''(2)  the  right  to  present  evidence  and  confront,  crossexamine, and compel the attendance of witnesses;
+''(2)  the  right  to  present  evidence  and  confront,  cross-examine, and compel the attendance of witnesses;
 
 ''(3) the right to a written, or, at the option of the parents, electronic verbatim record of such hearing; and
 
@@ -4646,7 +4647,7 @@ VerDate 11-MAY-2000
 
 ''(E)  EXCEPTION TO PROHIBITION ON ATTORNEYS'  FEES AND RELATED COSTS.-Notwithstanding  subparagraph  (D), an award of attorneys' fees and related costs may be made to  a  parent  who  is  the  prevailing  party  and  who  was substantially justified in rejecting the settlement offer.
 
-''(F)  REDUCTION IN AMOUNT OF ATTORNEYS'  FEES.Except  as  provided  in  subparagraph  (G),  whenever  the court finds that-
+''(F)  REDUCTION IN AMOUNT OF ATTORNEYS'  FEES.-Except  as  provided  in  subparagraph  (G),  whenever  the court finds that-
 
 ''(i)  the  parent,  or  the  parent's  attorney,  during the  course  of  the  action  or  proceeding,  unreasonably protracted the final resolution of the controversy;
 
@@ -4660,7 +4661,7 @@ the court shall reduce, accordingly, the amount of the attorneys' fees awarded u
 
 ''(G)  EXCEPTION TO REDUCTION IN AMOUNT OF ATTORNEYS' FEES.-The provisions of subparagraph (F) shall not apply  in  any  action  or  proceeding  if  the  court  finds  that the  State  or  local  educational  agency  unreasonably  protracted  the  final  resolution  of  the  action  or  proceeding or there was a violation of this section.
 
-''(j)  MAINTENANCE OF CURRENT EDUCATIONAL PLACEMENT.Except  as  provided  in  subsection  (k)(4),  during  the  pendency  of
+''(j)  MAINTENANCE OF CURRENT EDUCATIONAL PLACEMENT.-Except  as  provided  in  subsection  (k)(4),  during  the  pendency  of
 
 12:14 Jan 11, 2005
 
@@ -4824,7 +4825,9 @@ and  of  all  procedural  safeguards  accorded  under  this  section.
 
 ''(A)  the  child  shall  remain  in  the  interim  alternative educational  setting  pending  the  decision  of  the  hearing officer  or  until  the  expiration  of  the  time  period  provided for  in  paragraph  (1)(C),  whichever  occurs  first,  unless  the parent  and  the  State  or  local  educational  agency  agree otherwise; and
 
-''(B) the State or local educational agency shall arrange for an expedited hearing, which shall occur within 20 school days of the date the hearing is requested and shall result in a determination within 10 school days after the hearing. ''(5)  PROTECTIONS FOR CHILDREN NOT YET ELIGIBLE FOR
+''(B) the State or local educational agency shall arrange for an expedited hearing, which shall occur within 20 school days of the date the hearing is requested and shall result in a determination within 10 school days after the hearing.
+
+''(5)  PROTECTIONS FOR CHILDREN NOT YET ELIGIBLE FOR
 
 SPECIAL EDUCATION AND RELATED SERVICES.-
 
@@ -4910,7 +4913,9 @@ Notification.
 
 12:14 Jan 11, 2005
 
-of the child are transmitted for consideration by the appropriate  authorities  to  whom  the  agency  reports  the  crime. ''(7) DEFINITIONS.-In this subsection:
+of the child are transmitted for consideration by the appropriate  authorities  to  whom  the  agency  reports  the  crime.
+
+''(7) DEFINITIONS.-In this subsection:
 
 ''(A)  CONTROLLED SUBSTANCE.-The  term  'controlled substance'  means  a  drug  or  other  substance  identified under  schedule  I,  II,  III,  IV,  or  V  in  section  202(c)  of the Controlled Substances Act (21 U.S.C. 812(c)).
 
@@ -4979,9 +4984,7 @@ electronic  mail  (e-mail)  communication,  if  the  agency  makes  such option 
 
 ''(i) oversight of the exercise of general supervision by  the  States,  as  required  in  section  612(a)(11);  and
 
-''(ii) the State performance plans, described in sub-
-
-section (b);
+''(ii) the State performance plans, described in subsection (b);
 
 ''(B)  enforce  this  part  in  accordance  with  subsection (e); and
 
@@ -5175,7 +5178,9 @@ VerDate 11-MAY-2000
 
 Jkt 039139
 
-''(B)  NOTICE AND OPPORTUNITY FOR A HEARING.-For determinations  made  under  clause  (iii)  or  (iv)  of  subparagraph  (A),  the  Secretary  shall  provide  reasonable  notice and  an  opportunity  for  a  hearing  on  such  determination. ''(e) ENFORCEMENT.-
+''(B)  NOTICE AND OPPORTUNITY FOR A HEARING.-For determinations  made  under  clause  (iii)  or  (iv)  of  subparagraph  (A),  the  Secretary  shall  provide  reasonable  notice and  an  opportunity  for  a  hearing  on  such  determination.
+
+''(e) ENFORCEMENT.-
 
 ''(1)  NEEDS ASSISTANCE.-If  the  Secretary  determines,  for 2  consecutive  years,  that  a  State  needs  assistance  under  subsection  (d)(2)(A)(ii)  in  implementing  the  requirements  of  this part, the Secretary shall take 1 or more of the following actions:
 
@@ -5363,9 +5368,13 @@ plan,  the  State  educational  agency  shall  prohibit  the  local  educational
 
 #### ''SEC. 617. ADMINISTRATION.
 
-''(a)  RESPONSIBILITIES OF SECRETARY.-The  Secretary  shall''(1)  cooperate  with,  and  (directly  or  by  grant  or  contract) furnish  technical  assistance  necessary  to,  a  State  in  matters relating to-
+''(a)  RESPONSIBILITIES OF SECRETARY.-The  Secretary  shall-
 
-''(A)  the  education  of  children  with  disabilities;  and ''(B) carrying out this part; and
+''(1)  cooperate  with,  and  (directly  or  by  grant  or  contract) furnish  technical  assistance  necessary  to,  a  State  in  matters relating to-
+
+''(A)  the  education  of  children  with  disabilities;  and
+
+''(B) carrying out this part; and
 
 ''(2)  provide  short-term  training  programs  and  institutes.
 
@@ -5441,9 +5450,7 @@ Deadline. Public information.
 
 ''(III) The number of children with disabilities who are  subject  to  long-term  suspensions  or  expulsions.
 
-''(B)  The  number  and  percentage  of  children  with  disabil-
-
-ities,  by  race,  gender,  and  ethnicity,  who  are  receiving  early intervention services.
+''(B)  The  number  and  percentage  of  children  with  disabilities,  by  race,  gender,  and  ethnicity,  who  are  receiving  early intervention services.
 
 ''(C)  The  number  and  percentage  of  children  with  disabilities,  by  race,  gender,  and  ethnicity,  who,  from  birth  through age  2,  stopped  receiving  early  intervention  services  because of program completion or for other reasons.
 
@@ -5615,7 +5622,7 @@ VerDate 11-MAY-2000
 
 ''(aa) the amount the State received under this section for fiscal year 1997; and
 
-''(bb) 1 /3 of  1  percent  of  the  amount  by which  the  amount  appropriated  under  subsection (j) for the fiscal year exceeds  the amount appropriated for this section for fiscal year 1997;
+''(bb) 1⁄3 of  1  percent  of  the  amount  by which  the  amount  appropriated  under  subsection (j) for the fiscal year exceeds  the amount appropriated for this section for fiscal year 1997;
 
 ''(II) the sum of-
 
@@ -5809,7 +5816,9 @@ Jkt 039139
 
 ''(4) to enhance the capacity of families to meet the special needs of their infants and toddlers with disabilities; and
 
-''(5)  to  enhance  the  capacity  of  State  and  local  agencies and service providers to identify, evaluate, and meet the needs of  all  children,  particularly  minority,  low-income,  inner  city, and  rural  children,  and  infants  and  toddlers  in  foster  care. ''(b)  POLICY.-It  is  the  policy  of  the  United  States  to  provide financial assistance to States-
+''(5)  to  enhance  the  capacity  of  State  and  local  agencies and service providers to identify, evaluate, and meet the needs of  all  children,  particularly  minority,  low-income,  inner  city, and  rural  children,  and  infants  and  toddlers  in  foster  care.
+
+''(b)  POLICY.-It  is  the  policy  of  the  United  States  to  provide financial assistance to States-
 
 ''(1) to develop and implement a statewide, comprehensive, coordinated,  multidisciplinary,  interagency  system  that  provides  early  intervention  services  for  infants  and  toddlers  with disabilities and their families;
 
@@ -5875,7 +5884,9 @@ VerDate 11-MAY-2000
 
 ''(E) include-
 
-''(i)  family  training,  counseling,  and  home  visits; ''(ii) special instruction;
+''(i)  family  training,  counseling,  and  home  visits;
+
+''(ii) special instruction;
 
 ''(iii) speech-language pathology and audiology services, and sign language and cued language services;
 
@@ -5901,7 +5912,9 @@ VerDate 11-MAY-2000
 
 ''(xiv)  transportation  and  related  costs  that  are necessary  to  enable  an  infant  or  toddler  and  the infant's  or  toddler's  family  to  receive  another  service described in this paragraph;
 
-''(F)  are  provided  by  qualified  personnel,  including''(i) special educators;
+''(F)  are  provided  by  qualified  personnel,  including-
+
+''(i) special educators;
 
 ''(ii) speech-language pathologists and audiologists;
 
@@ -6085,7 +6098,7 @@ to  provide  early  intervention  services  under  this  part; and
 
 ''(B) may include-
 
-''(i)  training personnel to work in rural and innercity areas; and
+''(i)  training personnel to work in rural and inner-city areas; and
 
 ''(ii) training personnel in the emotional and social development of young children.
 
@@ -6495,7 +6508,7 @@ VerDate 11-MAY-2000
 
 ''(4)  with  the  written  consent  of  the  parents,  to  continue to provide early intervention services under this part to children with  disabilities  from  their  3rd  birthday  until  such  children enter,  or  are  eligible  under  State  law  to  enter,  kindergarten, in lieu of a free appropriate public education provided in accordance with part B; and
 
-''(5)  in  any  State  that  does  not  provide  services  for  atrisk infants and toddlers under section 637(a)(4), to strengthen the  statewide  system  by  initiating,  expanding,  or  improving collaborative  efforts  related  to  at-risk  infants  and  toddlers, including establishing linkages with appropriate public or private  community-based  organizations,  services,  and  personnel for the purposes of-
+''(5)  in  any  State  that  does  not  provide  services  for  at-risk infants and toddlers under section 637(a)(4), to strengthen the  statewide  system  by  initiating,  expanding,  or  improving collaborative  efforts  related  to  at-risk  infants  and  toddlers, including establishing linkages with appropriate public or private  community-based  organizations,  services,  and  personnel for the purposes of-
 
 ''(A) identifying and evaluating at-risk infants and toddlers;
 
@@ -6727,7 +6740,7 @@ VerDate 11-MAY-2000
 
 ''(M)  MENTAL HEALTH AGENCY.-Not less than 1 member  shall  be  a  representative  from  the  State  agency responsible for children's mental health.
 
-''(2) OTHER MEMBERS.-The council may include other members selected by the Governor, including a representative from the  Bureau of Indian Affairs (BIA), or where there is no BIAoperated or BIA-funded school, from the Indian Health Service or the tribe or tribal council.
+''(2) OTHER MEMBERS.-The council may include other members selected by the Governor, including a representative from the  Bureau of Indian Affairs (BIA), or where there is no BIA-operated or BIA-funded school, from the Indian Health Service or the tribe or tribal council.
 
 ''(c)  MEETINGS.-The  council  shall  meet,  at  a  minimum,  on a  quarterly  basis,  and  in  such  places  as  the  council  determines necessary.  The  meetings  shall  be  publicly  announced,  and,  to  the extent appropriate, open and accessible to the general public.
 
@@ -6883,7 +6896,7 @@ Jkt 039139
 
 ''(2)  MINIMUM ALLOTMENTS.-Except  as  provided  in  paragraph (3), no State shall receive an amount under this section for any fiscal year that is less than the greater of-
 
-''(A)  1 /2 of 1 percent of the remaining amount described in paragraph (1); or
+''(A)  1⁄2 of 1 percent of the remaining amount described in paragraph (1); or
 
 ''(B) $500,000.
 
@@ -7149,7 +7162,7 @@ Jkt 039139
 
 ''(3)  MINIMUM ALLOTMENT.-The amount of any State educational agency's allotment under this subsection for any fiscal year shall not be less than-
 
-''(A)  the  greater  of  $500,000  or 1 /2 of  1  percent  of the  total  amount  available  under  this  subsection  for  that year,  in  the  case  of  each  of  the  50  States,  the  District of  Columbia,  and  the  Commonwealth  of  Puerto  Rico;  and
+''(A)  the  greater  of  $500,000  or 1⁄2 of  1  percent  of the  total  amount  available  under  this  subsection  for  that year,  in  the  case  of  each  of  the  50  States,  the  District of  Columbia,  and  the  Commonwealth  of  Puerto  Rico;  and
 
 ''(B) $80,000, in the case of an outlying area.
 
@@ -7291,7 +7304,7 @@ Jkt 039139
 
 ''(3)  REQUIREMENT.-The  State  application  shall  contain an assurance that the State educational agency will carry out each of the strategies described in subsection (b)(4).
 
-''(b)  ELEMENTS OF STATE PERSONNEL DEVELOPMENT PLAN.Each  State  personnel  development  plan  under  subsection  (a)(2) shall-
+''(b)  ELEMENTS OF STATE PERSONNEL DEVELOPMENT PLAN.-Each  State  personnel  development  plan  under  subsection  (a)(2) shall-
 
 ''(1)  describe  a  partnership  agreement  that  is  in  effect for  the  period  of  the  grant,  which  agreement  shall  specify-
 
@@ -7527,9 +7540,9 @@ Jkt 039139
 
 ''(B)  initiatives  to  promote  the  recruitment  and  retention of early intervention personnel; and
 
-''(C)  interagency  activities  to  ensure  that  early  inter-
+''(C)  interagency  activities  to  ensure  that  early  intervention  personnel  are  adequately  prepared  and  trained.
 
-vention  personnel  are  adequately  prepared  and  trained. ''(b)  OTHER ACTIVITIES.-A State educational agency that receives  a  grant  under  this  subpart  shall  use  the  grant  funds to  support  activities  in  accordance  with  the  State's  plan  described in section 653, including 1 or more of the following:
+''(b)  OTHER ACTIVITIES.-A State educational agency that receives  a  grant  under  this  subpart  shall  use  the  grant  funds to  support  activities  in  accordance  with  the  State's  plan  described in section 653, including 1 or more of the following:
 
 ''(1)  Reforming  special  education  and  regular  education teacher certification (including recertification) or licensing requirements to ensure that-
 
@@ -7847,7 +7860,9 @@ improved  collaboration  between  general  educators,  special education teacher
 
 ''(A)  Enhancing  and  restructuring  existing  programs or  developing  preservice  teacher  education  programs  to prepare  special  education  teachers,  at  colleges  or  departments of education within institutions of higher education, by  incorporating  an  extended  (such  as  an  additional  5th year) clinical  learning  opportunity,  field  experience,  or supervised practicum into such programs.
 
-''(B)  Creating  or  supporting  teacher-faculty  partnerships  (such  as  professional  development  schools)  that''(i) consist of not less than-
+''(B)  Creating  or  supporting  teacher-faculty  partnerships  (such  as  professional  development  schools)  that-
+
+''(i) consist of not less than-
 
 ''(I)  1  or  more institutions of higher education with  special  education  personnel  preparation  programs;
 
@@ -7979,7 +7994,7 @@ VerDate 11-MAY-2000
 
 ''(2) IDENTIFIED STATE NEEDS.-
 
-''(A)  REQUIREMENT TO ADDRESS IDENTIFIED NEEDS.An  application  for  assistance  under  subsection  (b),  (c),  or (d) shall include information demonstrating to the satisfaction  of  the  Secretary  that  the  activities  described  in  the application  will  address  needs  identified  by  the  State  or States the eligible entity proposes to serve.
+''(A)  REQUIREMENT TO ADDRESS IDENTIFIED NEEDS.-An  application  for  assistance  under  subsection  (b),  (c),  or (d) shall include information demonstrating to the satisfaction  of  the  Secretary  that  the  activities  described  in  the application  will  address  needs  identified  by  the  State  or States the eligible entity proposes to serve.
 
 ''(B)  COOPERATION WITH STATE EDUCATIONAL AGENCIES.-An  eligible  entity  that  is  not  a  local  educational agency  or  a  State  educational  agency  shall  include  in  the eligible  entity's  application  information  demonstrating  to the  satisfaction  of  the  Secretary  that  the  eligible  entity and  1  or  more  State  educational  agencies  or  local  educational agencies will cooperate in carrying out and monitoring the proposed project.
 
@@ -8413,7 +8428,7 @@ Jkt 039139
 
 ''(1) improving  the  quality of interim alternative  educational settings; and
 
-''(2)  providing increased behavioral supports and researchbased, systemic interventions in schools.
+''(2)  providing increased behavioral supports and research-based, systemic interventions in schools.
 
 ''(b)  AUTHORIZED ACTIVITIES.-In carrying out this section, the Secretary may support activities to-
 
@@ -8967,7 +8982,9 @@ Jkt 039139
 
 ''(C) have a demonstrated ability to significantly leverage  Federal  funds  through  other  public  and  private  contributions,  as  well  as  through  the  expansive  use  of  volunteers.
 
-''(e)  NATIONAL INSTRUCTIONAL MATERIALS ACCESS CENTER.''(1)  IN GENERAL.-The  Secretary  shall  establish  and  support,  through  the  American  Printing  House  for  the  Blind,  a center  to  be  known  as  the  'National  Instructional  Materials Access Center' not later than 1 year after the date of enactment of  the  Individuals  with  Disabilities  Education  Improvement Act of 2004.
+''(e)  NATIONAL INSTRUCTIONAL MATERIALS ACCESS CENTER.-
+
+''(1)  IN GENERAL.-The  Secretary  shall  establish  and  support,  through  the  American  Printing  House  for  the  Blind,  a center  to  be  known  as  the  'National  Instructional  Materials Access Center' not later than 1 year after the date of enactment of  the  Individuals  with  Disabilities  Education  Improvement Act of 2004.
 
 ''(2)  DUTIES.-The  duties  of  the  National  Instructional Materials Access Center are the following:
 
@@ -9081,7 +9098,7 @@ Jkt 039139
 
 entity  to  demonstrate  how  the  eligible  entity  will  address  the needs of children with disabilities from minority backgrounds.
 
-''(2)  REQUIRED OUTREACH AND TECHNICAL ASSISTANCE.Notwithstanding any other provision of this title, the Secretary shall  reserve  not  less  than  2  percent  of  the  total  amount  of funds  appropriated  to  carry  out  subparts  2  and  3  for  either or both of the following activities:
+''(2)  REQUIRED OUTREACH AND TECHNICAL ASSISTANCE.-Notwithstanding any other provision of this title, the Secretary shall  reserve  not  less  than  2  percent  of  the  total  amount  of funds  appropriated  to  carry  out  subparts  2  and  3  for  either or both of the following activities:
 
 ''(A)  Providing  outreach  and  technical  assistance  to historically Black colleges and universities, and to institutions of higher education with minority enrollments of not less  than  25  percent,  to  promote  the  participation  of  such colleges,  universities,  and  institutions  in  activities  under this subpart.
 
@@ -9537,7 +9554,7 @@ VerDate 11-MAY-2000
 
 (D) in section 116(c)(4)(A)(ii) (20 U.S.C. 9516(c)(4)(A)(ii),  by  inserting  ''special  education  experts,'' after ''early childhood experts,''.
 
-(3) ELEMENTARY AND SECONDARY EDUCATION ACT OF 1965.Section 1117(a)(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6317(a)(3)) is amended by striking ''part E'' and inserting ''part D''.
+(3) ELEMENTARY AND SECONDARY EDUCATION ACT OF 1965.-Section 1117(a)(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6317(a)(3)) is amended by striking ''part E'' and inserting ''part D''.
 
 ## SEC. 202. NATIONAL BOARD FOR EDUCATION SCIENCES.
 
@@ -9603,7 +9620,7 @@ Section  1004  of  the  Children's  Health  Act  of  2000  (42  U.S.C. 285g note
 
 (c) EDUCATION SCIENCES REFORM ACT OF 2002.-
 
-(1) NATIONAL CENTER FOR SPECIAL EDUCATION RESEARCH.Sections  175,  176,  and  177  (other  than  section  177(c))  of  the Education Sciences  Reform  Act  of  2002,  as  enacted  by  section 201(a)(2) of this Act, shall take effect on the date of enactment of this Act.
+(1) NATIONAL CENTER FOR SPECIAL EDUCATION RESEARCH.-Sections  175,  176,  and  177  (other  than  section  177(c))  of  the Education Sciences  Reform  Act  of  2002,  as  enacted  by  section 201(a)(2) of this Act, shall take effect on the date of enactment of this Act.
 
 (2) PLAN.-Section 177(c) of the Education Sciences Reform Act  of  2002,  as  enacted  by  section  201(a)(2)  of  this  Act,  shall take effect on October 1, 2005.
 
@@ -9737,7 +9754,7 @@ VerDate 11-MAY-2000
 
 (2) by striking ''1401(17)'' and inserting ''1401''.
 
-(g)  ELEMENTARY AND SECONDARY EDUCATION ACT OF 1965.The  Elementary  and  Secondary  Education  Act  of  1965  (20  U.S.C. 6301 et seq.) is amended-
+(g)  ELEMENTARY AND SECONDARY EDUCATION ACT OF 1965.-The  Elementary  and  Secondary  Education  Act  of  1965  (20  U.S.C. 6301 et seq.) is amended-
 
 (1)  in  section  1111(b)(2)(I)(ii)  (20  U.S.C.  6311(b)(2)(I)(ii)), by striking ''612(a)(17)(A)'' and inserting ''612(a)(16)(A)'';
 
@@ -9747,7 +9764,7 @@ VerDate 11-MAY-2000
 
 (h)  REHABILITATION ACT OF 1973.-The  Rehabilitation  Act  of 1973 (29 U.S.C. 701 et seq.) is amended-
 
-(1)  in  section  101(a)(11)(D)(ii)  (29  U.S.C.  721(a)(11)(D)(ii)), by  striking  ''(as  added  by  section  101  of  Public  Law  10517)'';
+(1)  in  section  101(a)(11)(D)(ii)  (29  U.S.C.  721(a)(11)(D)(ii)), by  striking  ''(as  added  by  section  101  of  Public  Law  105-17)'';
 
 (2)  in  section  105(b)(1)(A)(ii)  (29  U.S.C.  725(b)(1)(A)(ii)), by  striking  ''682(a)  of  the  Individuals  with  Disabilities  Education  Act  (as  added  by  section  101  of  the  Individuals  with Disabilities  Education  Act  Amendments  of  1997;  Public  Law 105-17)'' and inserting ''671 of the Individuals with Disabilities Education Act'';
 
@@ -9901,7 +9918,7 @@ The  District  of  Columbia  School  Reform  Act  of  1995  (Public  Law 104-134
 
 ## SEC. 306. COPYRIGHT.
 
-Section  121  of  title  17,  United  States  Code,  is  amended(1) by redesignating subsection (c) as subsection (d);
+Section  121  of  title  17,  United  States  Code,  is  amended-(1) by redesignating subsection (c) as subsection (d);
 
 (2) by inserting after subsection (b) the following:
 
