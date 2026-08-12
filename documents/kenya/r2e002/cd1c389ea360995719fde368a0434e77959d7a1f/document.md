@@ -16,17 +16,148 @@ Reforming Education and Training in Kenya.
 
 ## TABLE OF CONTENTS
 
+DEFINITIONS OF TERMS ..........................................................................................................viii
+SECTION ONE: INTRODUCTION ................................................................................................ 1
+CHAPTER ONE: BACKGROUND TO THE EDUCATION AND TRAINING SECTOR IN
+KENYA..........................................................................................................................................1
+Basic Education .........................................................................................................................2
+The Tertiary Sector ....................................................................................................................2
+The TIVET Sector......................................................................................................................3
+Teacher Education, Development and Management. ................................................................3
+Teacher Management.................................................................................................................3
+University Education .................................................................................................................3
+Kenya Qualifications Framework ..............................................................................................4
+Evolution of Policy on Education and Training ........................................................................4
+Articles in the Constitution Relevant to Education and Training..............................................5
+Implications of the Constitution to Education and Training......................................................7
+Growth of the Education and Training Sector...........................................................................9
+CHAPTER TWO: PHILOSOPHY, VISION, MISSION MANDATE AND GOALS OF
+EDUCATION SECTOR..............................................................................................................12
+Introduction..............................................................................................................................12
+Philosophy of Education ..........................................................................................................12
+Vision.......................................................................................................................................12
+Mission.....................................................................................................................................12
+Guiding Principles ...................................................................................................................13
+National Goals of Education and Training ..............................................................................14
+CHAPTER THREE: MACROECONOMIC CONTEXT............................................................15
+Pre-Primary Education.............................................................................................................17
+Secondary Education ...............................................................................................................18
+Special Needs Education..........................................................................................................19
+Alternative Provision to Basic Education ................................................................................19
+Adult and Continuing Education .............................................................................................20
+Technical Industrial Vocational and Entrepreneurship Training.............................................20
+Teacher Education ...................................................................................................................20
+University Education ...............................................................................................................21
+Private Sector Provision of Education .....................................................................................21
+Role of Education and Training in the Realization of Vision 2030.........................................21
+SECTION TWO: BASIC EDUCATION AND TRAINING ......................................................... 25
+CHAPTER FOUR: ENHANCING ACCESS, EQUITY, QUALITY AND RELEVANCE.......25
+Introduction..............................................................................................................................25
+Vision.......................................................................................................................................25
+Mission.....................................................................................................................................25
+Guiding principles....................................................................................................................25
+Goals of Basic Education.........................................................................................................26
+Status of access, equity, quality and relevance in basic education ..........................................31
+
 i
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+CHAPTER FIVE: EDUCATION FOR MARGINALISED, HARD-TO-REACH AND
+VULNERABLE GROUPS ..........................................................................................................41
+CHAPTER SIX: CURRICULUM AND ASSESSMENT...........................................................44
+Relevance of the Curriculum ...................................................................................................44
+Curriculum content ..................................................................................................................45
+Assessment and Examinations.................................................................................................46
+Standards and Quality Assurance (QAS).................................................................................47
+Mentoring, Moulding and Nurturing of National Values........................................................48
+CHAPTER SEVEN: INFORMATION AND COMMUNICATION TECHNOLOGY, OPEN
+AND DISTANCE LEARNING IN EDUCATION AND TRAINING .......................................51
+Information and Communication Technology.........................................................................51
+Open and Distance Learning (ODL)........................................................................................53
+CHAPTER EIGHT: GOVERNANCE AND MANAGEMENT OF EDUCATION AND
+TRAINING ..................................................................................................................................55
+Governance of the Education Sector........................................................................................55
+Management of the Education Sector......................................................................................57
+Human Resource Development and Management...................................................................58
+CHAPTER NINE: TEACHER EDUCATION AND DEVELOPMENT....................................61
+Pre-school teacher education ...................................................................................................62
+Primary school teacher education ............................................................................................62
+Secondary school teacher education ........................................................................................63
+Special Needs...........................................................................................................................64
+CHAPTER TEN: TEACHER MANAGEMENT........................................................................66
+Introduction..............................................................................................................................66
+Challenges in Teacher Management........................................................................................67
+Teacher Registration ................................................................................................................67
+Recruitment..............................................................................................................................67
+Teacher Deployment................................................................................................................68
+Deployment of Institutional Administrators............................................................................69
+Teacher Promotion...................................................................................................................69
+Teacher Discipline ...................................................................................................................70
+Teacher Quality Assurance and Standards ..............................................................................71
+Employee Separation ...............................................................................................................71
+Financing Of Teacher Management.........................................................................................72
+CHAPTER ELEVEN: PLANNING, IMPLEMENTATION, MONITORING AND
+EVALUATION............................................................................................................................74
+Planning of basic Education.....................................................................................................74
+Monitoring and Evaluation ......................................................................................................76
+CHAPTER TWELVE: FINANCING AND RESOURCE MOBILIZATION ............................77
+Pre-Primary..............................................................................................................................78
+Primary.....................................................................................................................................79
+Special Education.....................................................................................................................81
+Secondary Education ...............................................................................................................82
+Adult and Continuing Education .............................................................................................84
+
 ii
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+CHAPTER THIRTEEN: PUBLIC-PRIVATE PARTNERSHIP IN EDUCATION AND
+TRAINING ..................................................................................................................................85
+CHAPTER FOURTEEN: LEGAL FRAMEWORK ...................................................................87
+The Constitution.......................................................................................................................87
+International Conventions........................................................................................................87
+Legislation to be implemented.................................................................................................88
+SECTION THREE: TECHNICAL VOCATIONAL EDUCATION AND TRAINING ............... 90
+CHAPTER FIFTEEN: TVET SECTOR IN KENYA .................................................................90
+Introduction..............................................................................................................................90
+TVET Philosophy ....................................................................................................................90
+TVET Vision............................................................................................................................90
+TVET Mission .........................................................................................................................90
+Goal of TVET ..........................................................................................................................91
+TVET Objectives.....................................................................................................................91
+Guiding Principles ...................................................................................................................91
+Enhancing Access, Equity, Quality and Relevance in TVET..................................................92
+Quality and Relevance .............................................................................................................94
+Curriculum and Assessment in TVET.....................................................................................95
+Centres of Excellence ..............................................................................................................97
+Linkages with Industry ............................................................................................................97
+Re-Branding TVET..................................................................................................................99
+TVET Trainer Education and Management...........................................................................100
+Financing of TVET................................................................................................................101
+Management and Governance of TVET................................................................................102
+SECTION FOUR: UNIVERSITY EDUCATION........................................................................ 104
+CHAPTER SIXTEEN: UNIVERSITY EDUCATION .............................................................104
+Introduction............................................................................................................................104
+Vision, Mission, Principles and Objectives of University Education....................................104
+Objectives ..............................................................................................................................104
+Expanding Access and Equity ...............................................................................................105
+Improving Quality and Relevance .........................................................................................107
+Financing of University Education ........................................................................................109
+Human Resource in Support of University Education...........................................................111
+Governance, Management and Institutional Structures.........................................................112
+SECTION FIVE: KENYA QUALIFICATIONS FRAMEWORK .............................................. 115
+CHAPTER SEVENTEEN: KENYAQUALIFICATIONS FRAMEWORK................................ 115
+National Philosophy and Concept of Kenya Qualifications Framework...............................115
+Relevance of qualifications....................................................................................................117
+Exemption and Credits Transfer System ...............................................................................117
+The National frame ................................................................................................................117
+Policy Objectives of NQF......................................................................................................118
+Issues/Challenges of KQF......................................................................................................119
 
 iii
 
@@ -133,6 +264,7 @@ KJVCET | Kenya Junior Vocational Certificate of Education and Training
 KLB | Kenya Literature Bureau
 KNALS | Kenya National Adult Literacy Survey
 KNATCOM | Kenya National Commission for UNESCO
+KNEC | Kenya National Examinations Council
 
 v
 
@@ -438,13 +570,13 @@ ix
 
 ### CHAPTER ONE: BACKGROUND TO THE EDUCATION AND TRAINING SECTOR IN KENYA
 
-- 1.1 Education  is  seen  as  the  primary  means  of  social  mobility,  national  cohesion  and  socioeconomic development. Since independence the Government of Kenya has been committed to  the  provision  of  education  to  her  citizens.  Kenya  like  other  parts  of  the  world  has experienced  the  impact  of  globalisation,  increasing  inter-dependence  between  and  within states and the  need for people to become  responsible  citizens both nationally and internationally. Similarly, trade and communications have been revolutionised, while human capital  requirements,  especially  as  a  result  of  the  ICT  revolution,  has  experienced  rapid growth. Consequently, the government has continued to reform the education and training sector  to  respond  to  these  emerging  challenges  thus  ensuring  that  the  country's  goals  and aspirations are realised.
+- 1.1 Education  is  seen  as  the  primary  means  of  social  mobility,  national  cohesion  and  socio-economic development. Since independence the Government of Kenya has been committed to  the  provision  of  education  to  her  citizens.  Kenya  like  other  parts  of  the  world  has experienced  the  impact  of  globalisation,  increasing  inter-dependence  between  and  within states and the  need for people to become  responsible  citizens both nationally and internationally. Similarly, trade and communications have been revolutionised, while human capital  requirements,  especially  as  a  result  of  the  ICT  revolution,  has  experienced  rapid growth. Consequently, the government has continued to reform the education and training sector  to  respond  to  these  emerging  challenges  thus  ensuring  that  the  country's  goals  and aspirations are realised.
 
 - 1.2 The Constitution of Kenya (2010) has the Bill of Rights at its core while the Kenya Vision 2030, acknowledges the need to reform the education and training to create a sector fit for purpose. This has led to the policy provisions embodied in this document which address the constitutional requirements and national aspirations as well as offer direction in modernising and re-branding the country's education and training system.
 
 - 1.3 Kenya  Vision  2030  places  great  emphasis  on  the  link  between  education  and  the  labour market,  the  need  to  create  entrepreneurial  skills  and  competences,  and  strong  public  and private  sector  partnerships.  It  articulates  the  development  of  a  middle-income  country  in which  all  citizens  will:  have  embraced  entrepreneurship,  be  able  to  engage  in  lifelong learning, perform more non-routine tasks, be capable of more complex problem-solving, be able to take more decisions, understand more about what they are working on, require less supervision, assume more responsibility, and as vital tools towards these ends, have better reading,  quantitative  reasoning  and  expository  skills.  This  has  considerable  importance  for the kind of education and training system required to deliver the requisite skills, competencies and attitudes. As such there will be need to address issues related to quality, service delivery, curriculum, relevance, teacher development and management at all levels as well as trainers in the areas of technology and entrepreneurial skill development.
 
-- 1.4 In  order  to  address  these  issues,  the  government  provides  policy  direction  for  reforms  in education service delivery through introduction of technical, talent and academic curriculum pathways.  Information  Communication  Technologies  (ICT)  will  be  used  as  a  teachinglearning tool.  Kenya  Vision 2030 also recognises the need for a literate  citizenry  and sets goals for eliminating adult illiteracy while increasing learning achievements.
+- 1.4 In  order  to  address  these  issues,  the  government  provides  policy  direction  for  reforms  in education service delivery through introduction of technical, talent and academic curriculum pathways.  Information  Communication  Technologies  (ICT)  will  be  used  as  a  teaching-learning tool.  Kenya  Vision 2030 also recognises the need for a literate  citizenry  and sets goals for eliminating adult illiteracy while increasing learning achievements.
 
 - 1.5 Under the Constitution, education and training in Kenya is governed and managed under a two-tier government, the National Government and the County Governments. Education and training  is  structured  as  follows;  basic  education,  TIVET  and  University  education.  Basic education  covers  two  years  of  pre-school,  8  years  of  primary  education  and  4  years  of secondary  education.  Tertiary  education  comprises  TIVET,  teacher  training  and  higher education. TIVET constitutes technical, vocational education and training and is offered at all
 
@@ -464,7 +596,7 @@ levels  from  basic  to  University  education.  University  education  is  a  m
 
 #### The Tertiary Sector
 
-- 1.8 The objective of Kenya's Vision 2030 is to make Kenya 'a newly industrialising, middleincome country, providing high quality life for all its citizens, by the year 2030'. In order to achieve this, Kenya will be aiming to produce goods and services of industrial nature that can be sold beyond her borders to generate real income for the country. It has however long been recognised by development economists that a country is only able to realise such progress if its economy is innovative. An innovative economy on the other hand is to be realised through technological innovation . Any country that intends to make a breakthrough in industrialisation and technological development must begin by ensuring that it has a critical mass of well qualified technologists and engineers.
+- 1.8 The objective of Kenya's Vision 2030 is to make Kenya 'a newly industrialising, middle-income country, providing high quality life for all its citizens, by the year 2030'. In order to achieve this, Kenya will be aiming to produce goods and services of industrial nature that can be sold beyond her borders to generate real income for the country. It has however long been recognised by development economists that a country is only able to realise such progress if its economy is innovative. An innovative economy on the other hand is to be realised through technological innovation . Any country that intends to make a breakthrough in industrialisation and technological development must begin by ensuring that it has a critical mass of well qualified technologists and engineers.
 
 - 1.9 The broad engineering profession is typically considered to be comprised of five cadres of staff, namely; engineer, technologist, technician, crafts-people and artisan . For the effective execution of the engineering function within an economy, it is important that each of these cadres is represented in appropriate proportions. For most developed countries the ideal ratio for the four categories of professional is 1:2:4:16. 1 For a typical developing country however,
 
@@ -482,7 +614,7 @@ it is considered that the more realistic ratios would be 1:3:12:60 which Kenya w
 
 #### Teacher Education, Development and Management.
 
-- 1.11 Teacher education in Kenya is provided to meet the demands of following levels: preprimary, primary, secondary and tertiary level. The institutes offering training include: ECDE and DICECE training centres, primary teacher education colleges, diploma teacher education colleges  and  the  universities.  Pre-primary  and  primary  teacher  training  courses  focus  on pedagogy and subject knowledge content. Secondary teacher training courses are provided in two models i.e. consecutive and concurrent models. In the consecutive model, the trainees undertake  the  subject  area  first  and  graduate  with  either  Bachelor  of  Arts  or  Bachelor  of Science degree and later undertake a nine month postgraduate diploma to qualify as trained teachers. In the concurrent model, the trainees study both the subject area and pedagogy at the  same  time  and  graduate  with  a  Bachelor  of  Education.  Both  pre-primary  and  primary certificate  and  the  diploma  awards  are  examined  by  the  Kenya  National  Examinations Council, while the degrees are awarded by the respective universities. The training of TIVET teachers  and  trainers  is  spread  out  in  different  institutions  depending  on  level  of  training. Continuous Professional development of teachers is conducted by several players including KEMI, KISE, KIE and CEMASTEA and DICECE.
+- 1.11 Teacher education in Kenya is provided to meet the demands of following levels: pre-primary, primary, secondary and tertiary level. The institutes offering training include: ECDE and DICECE training centres, primary teacher education colleges, diploma teacher education colleges  and  the  universities.  Pre-primary  and  primary  teacher  training  courses  focus  on pedagogy and subject knowledge content. Secondary teacher training courses are provided in two models i.e. consecutive and concurrent models. In the consecutive model, the trainees undertake  the  subject  area  first  and  graduate  with  either  Bachelor  of  Arts  or  Bachelor  of Science degree and later undertake a nine month postgraduate diploma to qualify as trained teachers. In the concurrent model, the trainees study both the subject area and pedagogy at the  same  time  and  graduate  with  a  Bachelor  of  Education.  Both  pre-primary  and  primary certificate  and  the  diploma  awards  are  examined  by  the  Kenya  National  Examinations Council, while the degrees are awarded by the respective universities. The training of TIVET teachers  and  trainers  is  spread  out  in  different  institutions  depending  on  level  of  training. Continuous Professional development of teachers is conducted by several players including KEMI, KISE, KIE and CEMASTEA and DICECE.
 
 #### Teacher Management
 
@@ -510,7 +642,7 @@ university  education  system.  As  a  nation,  Kenyans  will  rely  on  this  s
 
 #### Evolution of Policy on Education and Training
 
-- 1.17 Kenya  has  made  great  strides  in  education  and  training  since  1963.  This  has  been demonstrated by the  growth of;  the  number  of  institutions,  increased  enrolment,  increased transition rates, increased teacher numbers, enhancement of equity, gender parity, improved relevance and quality across all levels among others. These milestones are largely attributed to  the  implementation  of  recommendations  of  various  Commissions,  Committees  and Taskforces  on  education  and  training.  Despite  these  successes,  the  sector  faces  challenges arising out of demands of the 21 st century, Vision 2030 and the Constitution (2010).
+- 1.17 Kenya  has  made  great  strides  in  education  and  training  since  1963.  This  has  been demonstrated by the  growth of;  the  number  of  institutions,  increased  enrolment,  increased transition rates, increased teacher numbers, enhancement of equity, gender parity, improved relevance and quality across all levels among others. These milestones are largely attributed to  the  implementation  of  recommendations  of  various  Commissions,  Committees  and Taskforces  on  education  and  training.  Despite  these  successes,  the  sector  faces  challenges arising out of demands of the 21st century, Vision 2030 and the Constitution (2010).
 
 - 1.18 The major education reports that have had a significant impact on education and training
 
@@ -520,7 +652,7 @@ university  education  system.  As  a  nation,  Kenyans  will  rely  on  this  s
 
 [[START OF PAGE 15]]
 
-in Kenya include the Kenya Education Commission report, 1964, which sought to reform the education system inherited from the colonial government and to make it more responsive to the needs of independent Kenya. The Report of the Presidential Working Party on the Second University  in  Kenya  (The  Mackay  Report,  1981),  led  to  the  expansion  of  other  postsecondary training institutions. In addition to the establishment of second University, it also recommended the establishment of the 8:4:4 system which removed the advanced (A) level of secondary education.
+in Kenya include the Kenya Education Commission report, 1964, which sought to reform the education system inherited from the colonial government and to make it more responsive to the needs of independent Kenya. The Report of the Presidential Working Party on the Second University  in  Kenya  (The  Mackay  Report,  1981),  led  to  the  expansion  of  other  post-secondary training institutions. In addition to the establishment of second University, it also recommended the establishment of the 8:4:4 system which removed the advanced (A) level of secondary education.
 
 - 1.19 The Report of the Presidential Working Party on Education and Manpower Training for the Next Decade and beyond (The Kamunge Report, 1988) focused on improving education financing, quality and relevance. The report had a major departure on financing of education and  training  in  Kenya  as  it  recommended  a  policy  of  cost  sharing  between  government, parents and communities.
 
@@ -530,7 +662,7 @@ in Kenya include the Kenya Education Commission report, 1964, which sought to re
 
 #### Articles in the Constitution Relevant to Education and Training
 
-- 1.22 The  functions  of  Educational  and  training  are  shared  between  the  national  and  county governments as contained in Schedule 4  of  the Constitution. The functions of the National Government are: education policy, standards, curriculum, examinations, granting of university  charters,  universities,  tertiary  educational  institutions,  institutions  of  research, higher  learning,  primary  schools,  special  education,  secondary  schools,  special  education institutions  and  promotion  of  sports  and  sports  education.  The  functions  of  the  County Government in relation to education are: pre-primary education, village polytechnics, homecraft centres and childcare facilities.
+- 1.22 The  functions  of  Educational  and  training  are  shared  between  the  national  and  county governments as contained in Schedule 4  of  the Constitution. The functions of the National Government are: education policy, standards, curriculum, examinations, granting of university  charters,  universities,  tertiary  educational  institutions,  institutions  of  research, higher  learning,  primary  schools,  special  education,  secondary  schools,  special  education institutions  and  promotion  of  sports  and  sports  education.  The  functions  of  the  County Government in relation to education are: pre-primary education, village polytechnics, home-craft centres and childcare facilities.
 
 - 1.23 All  the  reforms  contained  in  this  Policy  document  are  anchored  in  the  Bill  of  Rights contained  in  the  Constitution  of  Kenya  (2010).  The  Constitution  makes  provision  for  the rights of Kenyan people to education.
 
@@ -610,13 +742,13 @@ establishing County Education Boards (CEB).
 
 (iv) The cost of transferred, new and proposed, functions and services.
 
-- 1.30 While  it  is  usual  practice  to  define  functions  and  then  determine  resource  needs,  the current situation in Kenya has been in the reverse, with funding having been defined up-front and resourcing the exact functions of the ministries and districts determined by that. With devolution it will be necessary for Government to fully embrace programme-based, demanddriven budgeting.
+- 1.30 While  it  is  usual  practice  to  define  functions  and  then  determine  resource  needs,  the current situation in Kenya has been in the reverse, with funding having been defined up-front and resourcing the exact functions of the ministries and districts determined by that. With devolution it will be necessary for Government to fully embrace programme-based, demand-driven budgeting.
 
 ##### Management
 
-- 1.31 There are issues related to the management of the sector, especially as the Constitution makes the Teacher Services' Commission (Teacher Management), a former SemiAutonomous  Government  Agency  (SAGA),  a  Constitutional  Commission.  For  functional purposes, its relationship with the MoE will have to be clarified and established.
+- 1.31 There are issues related to the management of the sector, especially as the Constitution makes the Teacher Services' Commission (Teacher Management), a former Semi-Autonomous  Government  Agency  (SAGA),  a  Constitutional  Commission.  For  functional purposes, its relationship with the MoE will have to be clarified and established.
 
-- 1.32 Similarly,  there  are  the  other  SAGAS  with  specific  mandates,  which  will  have  to  be reviewed  in  light  of  the  Constitution,  including  the  Kenya  Institute  of  Education  (KIE)  Curriculum  Development,  the  Kenya  Education  Management  Institute  (KEMI)  -  Sector capacity  building  and  development,  the  Kenya  National  Examination  Council  (KNEC)  Examinations and Certification, the Jomo Kenyatta Foundation (JKF), the Kenya Literature Bureau  (KLB),  the  Kenya  Institute  of  Special  Education  (KISE)  and  the  Centre  for Mathematics, Science and Technology in Africa (CEMASTEA),  School Equipment Production Unit (SEPU), Board of Adult Education (BAE).
+- 1.32 Similarly,  there  are  the  other  SAGAS  with  specific  mandates,  which  will  have  to  be reviewed  in  light  of  the  Constitution,  including  the  Kenya  Institute  of  Education  (KIE) - Curriculum  Development,  the  Kenya  Education  Management  Institute  (KEMI)  -  Sector capacity  building  and  development,  the  Kenya  National  Examination  Council  (KNEC) - Examinations and Certification, the Jomo Kenyatta Foundation (JKF), the Kenya Literature Bureau  (KLB),  the  Kenya  Institute  of  Special  Education  (KISE)  and  the  Centre  for Mathematics, Science and Technology in Africa (CEMASTEA),  School Equipment Production Unit (SEPU), Board of Adult Education (BAE).
 
 8
 
@@ -648,7 +780,7 @@ establishing County Education Boards (CEB).
 
 [[START OF PAGE 20]]
 
-curriculum provides for vocational skills to young people in primary and secondary school schools.  Some  specialized  vocational  training  programmes  however  also  exist  in  various ministries and fall under the supervision of the respective sector ministries. TVET in Kenya is  delivered  by  both  government  and  private  providers,  which  include  for-profit  and  nonprofit, NGOs and church-based institutions.
+curriculum provides for vocational skills to young people in primary and secondary school schools.  Some  specialized  vocational  training  programmes  however  also  exist  in  various ministries and fall under the supervision of the respective sector ministries. TVET in Kenya is  delivered  by  both  government  and  private  providers,  which  include  for-profit  and  non-profit, NGOs and church-based institutions.
 
 - 1.38 The TVET sector in Kenya currently includes two (2) polytechnic university  colleges, two  (2)  national  polytechnics,  one  (1)  technical  teachers  training  college,  twenty-six  (26) technical training institutes (TTIs) and seventeen (17) institutes of technology (ITs) under the Ministry of Higher Education Science and Technology (MoHEST). In addition, the Ministry of  Labour  and  Human  Resources  Development  (MoLHRD)  manages  three  (3)  industrial training centres, one (1) vocational training centre, and the Kenya Textile Training Institute. There are 697 Youth Polytechnics (YPs) Currently under the Ministry of Youth Affairs and Sports (MoYAS). There are also 87 other institutions spread in 15 other Ministries and about 1,000  vocational  training  institutions  under  private,  commercial,  civil  society  and  faith organizations including some company-based training.
 
@@ -778,11 +910,20 @@ various  curriculum  and  instruction  designs  including  among  others  standa
 
 - 3.2 The Kenyan economy grew at 5.1% in 2004, 7.0% in 2007 but experienced a major decline to 1.5% in 2008 before rising sharply to 5.6% in 2010.This is as shown in figure 3.In spite of the  erratic  performance  of  the  economy;  the  government  has  continued  to  allocate  a substantial amount of its revenue (6.5% of the GDP) which translates to about 27% of the total  government  spending  to  the  education  sector.  This  has  been  accompanied  by  major reforms  in  this  sector  including  the  introduction  of  FPE  and  FDSE.  The  reforms  have resulted  in  increased  access  to  primary  and  secondary  education.  Equally,  TVET  and University sector have recorded phenomenal growth over the last 10 years.
 
-- 3.3 The growth in the economy has been due to a number of factors. Figure 3.2 shows the main sectors  contributing  to  GDP  growth  from  2007-2011.  From  figure  3.2,  transport  and communications contributed 20%, Wholesale & Retail Trade 18.5%, Manufacturing 10.3 %, education 8.5% and Financial Intermediation 6.8%. Education is one of the major sectors of the economy and continued investments in the sector would contribute more to growth of the country and effectively raising the standards of living.
-
 Figure 3.1: Gross Domestic Product: 2004-2011
 
+% GDP Growth
+8
+6
+4
+2
+0
+2004 2005 2006 2007 2008 2009 2010 2011
+% GDP Growth
+
 Source: Economic surveys 2004-2011
+
+- 3.3 The growth in the economy has been due to a number of factors. Figure 3.2 shows the main sectors  contributing  to  GDP  growth  from  2007-2011.  From  figure  3.2,  transport  and communications contributed 20%, Wholesale & Retail Trade 18.5%, Manufacturing 10.3 %, education 8.5% and Financial Intermediation 6.8%. Education is one of the major sectors of the economy and continued investments in the sector would contribute more to growth of the country and effectively raising the standards of living.
 
 15
 
@@ -791,10 +932,21 @@ Source: Economic surveys 2004-2011
 [[START OF PAGE 26]]
 
 Figure 3.2: Main Sectors Contributing to GDP Growth, 2007-2011
+25
+20
+15
+10
+5
+0
+transport
+wsale and retail
+manf
+education
+Financial...
 
 Source: Economic Survey, 2011
 
-- 3.4 The macroeconomic environment has faced a number of challenges including high inflation and the weakening shilling as well as high population growth rates. Unemployment levels are also  relatively  high;  the  working-age  population  (persons  aged  15-64  years)  in  Kenya  is estimated  at  19.8  million  persons  with  a  labour  force  participation  rate  (the  ratio  of  total labour force to the working-age population) of 73%. Youth (persons aged 15-24) unemployment rate (25%) is relatively high when compared with the overall unemployment rate  of  12.7%.  Prospects  of  wage  employment  in  the  formal  sector  are  limited  with  about 80% of the workforce working in the informal and non-wage employment sector. Further, although the country created about 500,000 jobs during the Economic Recovery Strategy for Wealth and Employment Creation (ERSWEC) time frame (2003-2007), more than 80% of these jobs are in the informal sector. The formal (public and private sectors) accounted for about  20%  of  wage  employment.  If  additional  labour  force  has  to  contribute  to  economic development, then education and training must be geared towards relevant skills  and  selfemployment. This calls for radical changes in education sector. Such changes would include reforms  in  curriculum,  teacher  education,  training  and  management.  This  also  requires additional investment in infrastructure and equipment.
+- 3.4 The macroeconomic environment has faced a number of challenges including high inflation and the weakening shilling as well as high population growth rates. Unemployment levels are also relatively high; the working-age population (persons aged 15-64 years) in Kenya is estimated at 19.8 million persons with a labour force participation rate (the ratio of total labour force to the working-age population) of 73%. Youth (persons aged 15-24) unemployment rate (25%) is relatively high when compared with the overall unemployment rate of 12.7%. Prospects of wage employment in the formal sector are limited with about 80% of the workforce working in the informal and non-wage employment sector. Further, although the country created about 500,000 jobs during the Economic Recovery Strategy for Wealth and Employment Creation (ERSWEC) time frame (2003-2007), more than 80% of these jobs are in the informal sector. The formal (public and private sectors) accounted for about 20% of wage employment. If additional labour force has to contribute to economic development, then education and training must be geared towards relevant skills and self-employment. This calls for radical changes in education sector. Such changes would include reforms in curriculum, teacher education, training and management. This also requires additional investment in infrastructure and equipment.
 
 - 3.5 The education sector in Kenya has experienced massive expansion in enrolment and number of institutions over time. Table 3.1 shows the performance of selected indicators in education and training. The number of public and private primary schools increased from 6,058 in 1963 to 27,489 in 2010, while the number of secondary schools has increased from 151 to 7308 over  the  same  period.  Enrolment  in  primary  education  has  grown  from  892,000  pupils  in 1963 to about 9.4 million pupils in 2010, while enrolment in secondary education has grown from around 30,000 students in 1963 to 1.8 million students in 2011. The increase has been accelerated by the introduction of Free  Primary  Education (FPE) and Free Day Secondary Education  (FDSE)  programmes  in  2003  and  2008  respectively.  At  the  TIVET  level enrolments  stood  at  82,843  in  2010.  Enrolment  into  the  university  sub  sector  stood  at 180,978 in 2010.
 
@@ -803,6 +955,8 @@ Source: Economic Survey, 2011
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+Table 3.1 Selected Indicators in Education and Training
 
 Indicator | 2010 | 2011 | % change
 --- | --- | --- | ---
@@ -818,8 +972,6 @@ Pupil/teacher ratio (pub Pry) | 54:1 | 57:1
 Student/teacher ratio pub Sec | 31.1 | 31.1
 Enrolment in university | 177618 | 198260 | 0.116
 Enrolment in TVET 82,843
-
-Table 3.1 Selected Indicators in Education and Training
 
 Source: Economic survey, 2011
 
@@ -1005,7 +1157,7 @@ opportunity for participation in
 
 economic development
 
-Source: Vision 2030 - The National Economic and Social Council of Kenya
+Source: Vision 2030 – The National Economic and Social Council of Kenya
 
 22
 
@@ -1015,7 +1167,7 @@ Source: Vision 2030 - The National Economic and Social Council of Kenya
 
 - 3.26 In  order  to  achieve  Vision  2030,  an  underlying  challenge  is  the  attitudinal  mind-set change  needed  to  create  and  sustain  a  responsible  and  a  cohesive  society.  As  the  country recasts and develops the various social systems, education and training will be challenged to impart knowledge and skills to improve management of social systems, change of mind-set (attitude change) towards nurturing a cohesive and knowledgeable society, with a culture of national values and value for life and basic human rights. At the same time, this society will embrace  Science,  Technology  and  Innovation  (ST&I),  conserve,  sustain  and  exploit  our environment for sustainable development and above all, a society that exploits opportunities and takes responsibility. Figures 3.3 and 3.4 show the direct requirements on education and training sector in spearheading growth and development of the social and political pillars.
 
-Figure 3.3: Linkage between Education and Training and Social Pillar Figure1. 2: Linkage Between Education and Training Sector to the Social Pillar
+Figure 3.3: Linkage between Education and Training and Social Pillar
 
 Health
 
@@ -1101,7 +1253,7 @@ and value for life and basic human
 
 rights
 
-Source: Vision 2030 - The National Economic and Social Council of Kenya
+Source: Vision 2030 – The National Economic and Social Council of Kenya
 
 23
 
@@ -1167,7 +1319,7 @@ rule of law
 
 #### Introduction
 
-- 4.1 Basic  education  refers  to  the  whole  range  of  educational  activities  taking  place  in  formal, non-formal and informal settings.  It  comprises  pre-primary,  primary  and  secondary  levels. According to the Bill of Rights, basic education is a fundamental human right and it is free and compulsory .This implies that citizens can hold the state accountable for ensuring that every child below the age of 18 years has access to quality basic education. This section also discusses Adult and Continuing Education  ACE  , Special  Needs Education  SNE  , Alternative  Provision  of    Basic  Education  (APBE),  Expanding  Education  Opportunities  in ASAL and Teacher Education, Development and Management.
+- 4.1 Basic education refers to the whole range of educational activities taking place in formal, non-formal and informal settings. It comprises pre-primary, primary and secondary levels. According to the Bill of Rights, basic education is a fundamental human right and it is free and compulsory .This implies that citizens can hold the state accountable for ensuring that every child below the age of 18 years has access to quality basic education. This section also discusses Adult and Continuing Education (ACE), Special Needs Education (SNE), Alternative Provision of Basic Education (APBE), Expanding Education Opportunities in ASAL and Teacher Education, Development and Management.
 
 #### Vision
 
@@ -1181,19 +1333,19 @@ rule of law
 
 - 4.4 The principles of basic education are
 
-- All children, youth and adults have a right to education.
+a) All children, youth and adults have a right to education.
 
-- Responsive education service delivery  efforts  are made to support learners with special needs including those in marginalised and most vulnerable.
+b) Responsive education service delivery efforts are made to support learners with special needs including those in marginalised and most vulnerable.
 
-- In collaboration with stakeholders, meet the basic needs of food, clothing, shelter, health and psycho-socio wellbeing for vulnerable learners to effectively participate in education process.
+c) In collaboration with stakeholders, meet the basic needs of food, clothing, shelter, health and psycho-socio wellbeing for vulnerable learners to effectively participate in education process.
 
-- Provide alternative education to augment existing efforts in providing formal education to those currently excluded.
+d) Provide alternative education to augment existing efforts in providing formal education to those currently excluded.
 
-- All learners to have access to a safe, friendly and protective learning environment.
+e) All learners to have access to a safe, friendly and protective learning environment.
 
-- The education provided to all children shall be free and compulsory.
+f) The education provided to all children shall be free and compulsory.
 
-- The education provided shall be relevant and of quality in order to enhance abilities for productive gain and sustainable livelihoods.
+g) The education provided shall be relevant and of quality in order to enhance abilities for productive gain and sustainable livelihoods.
 
 25
 
@@ -1201,13 +1353,13 @@ rule of law
 
 [[START OF PAGE 36]]
 
-- Recognition of education as a basic human right and the Kenya government commitment to EFA, MDGs and vision 2030.
+h) Recognition of education as a basic human right and the Kenya government commitment to EFA, MDGs and vision 2030.
 
-- Major focus is 'service delivery' of good quality education which is sensible to the needs of mobile, SNE and other vulnerable learners and their families.
+i) Major focus is 'service delivery' of good quality education which is sensible to the needs of mobile, SNE and other vulnerable learners and their families.
 
-- Equitable access to services that meet the needs of individual learners with special needs and disabilities within diverse learning environments.
+j) Equitable access to services that meet the needs of individual learners with special needs and disabilities within diverse learning environments.
 
-- Learner-centred curriculum and responsive learning systems and materials .
+k) Learner-centred curriculum and responsive learning systems and materials.
 
 #### Goals of Basic Education
 
@@ -1399,7 +1551,7 @@ The objectives of alternative provision of basic education are to:
 
 (i) Acquire literacy, numeracy, creativity, manipulative and communication skills;
 
-(ii) Develop  appreciation  of  inter-dependence  and  ability  to  utilize  senses  for  selfreliance;
+(ii) Develop appreciation of inter-dependence and ability to utilize senses for self-reliance;
 
 (iii) Develop into self-disciplined, physically fit and healthy person;
 
@@ -1445,17 +1597,17 @@ The following are the objectives of primary teacher education:
 
 (iii) Bearing in mind the child as the centre of learning, teacher education will prepare a teacher who can:
 
-- Provide suitable learning opportunities.
+a) Provide suitable learning opportunities.
 
-- Develop the child's communicative skills
+b) Develop the child's communicative skills
 
-- Develop the individual child's potential abilities to their maximum through a variety of creative learning experiences.
+c) Develop the individual child's potential abilities to their maximum through a variety of creative learning experiences.
 
-- Develop the child's sense of citizenship.
+d) Develop the child's sense of citizenship.
 
-- Develop the child's ability in critical and imaginative thinking in problem solving and self-expression.
+e) Develop the child's ability in critical and imaginative thinking in problem solving and self-expression.
 
-- Develop positive attitude to the moral and religious values of his /her community.
+f) Develop positive attitude to the moral and religious values of his /her community.
 
 (iv) To create a national consciousness for educational excellence in every teacher
 
@@ -1577,23 +1729,23 @@ weak  management  of  teachers,  and  gender  and  regional  disparities.  The  
 
 (x) Review, adopt and implement:
 
-- The Policy Framework for Nomadic Education in Kenya of 2010
+a. The Policy Framework for Nomadic Education in Kenya of 2010
 
-- The National Adult and Continuing Education Policy of 2010.
+b. The National Adult and Continuing Education Policy of 2010.
 
-- The National Special Needs Education Policy Framework of 2009.
+c. The National Special Needs Education Policy Framework of 2009.
 
-- The policy for Alternative Provision of Basic Education and Training  APBET  of 2009.
+d. The policy for Alternative Provision of Basic Education and Training (APBET) of 2009.
 
-- The School Health and Nutrition Policy of 2011.
+e. The School Health and Nutrition Policy of 2011.
 
-- The Gender Policy in Education of 2007.
+f. The Gender Policy in Education of 2007.
 
-- The Education Sector Policy on HIV and AIDs of 2004.
+g. The Education Sector Policy on HIV and AIDs of 2004.
 
-- National ICT Strategy for Education and Training 2006
+h. National ICT Strategy for Education and Training 2006
 
-- Teacher Proficiency Course  TPC  policy
+i. Teacher Proficiency Course (TPC) policy
 
 33
 
@@ -1651,7 +1803,7 @@ weak  management  of  teachers,  and  gender  and  regional  disparities.  The  
 
 #### Secondary Education
 
-- 4.23 Th e Government  is  already  implementing  measures  to  improve  access  and  quality  in secondary education through the implementation of Free Day Secondary Education (FDSE). This has led to increased enrolment from 1.03 million students in 2006 to over 1.9 million students by 2012, with an increase in the transition rate from 60% in 2006 to over 74% in 2012.  In  addition  to  these  measures,  the  MoE,  through  Kenya  Education  Management Institute  (KEMI),  continues  to  strengthen  the  capacities  of  secondary  school  managers. Under  targeted  programmes,  the  Government  is  constructing/rehabilitating  schools  and improving  the  provision  of  teaching  and  learning  materials.  There  are  only  17  public secondary schools that integrate special needs education within their formal programmes that are inadequate.
+- 4.23 The Government is already implementing measures to improve access and quality in secondary education through the implementation of Free Day Secondary Education (FDSE). This has led to increased enrolment from 1.03 million students in 2006 to over 1.9 million students by 2012, with an increase in the transition rate from 60% in 2006 to over 74% in 2012. In addition to these measures, the MoE, through Kenya Education Management Institute (KEMI), continues to strengthen the capacities of secondary school managers. Under targeted programmes, the Government is constructing/rehabilitating schools and improving the provision of teaching and learning materials. There are only 17 public secondary schools that integrate special needs education within their formal programmes that are inadequate.
 
 - 4.24 Expanding provision for all in the secondary education sub-sector is a major challenge because of limited facilities. In addition, opportunity and other costs, the imposition of levies and  other  fees  by  schools,  the  perceived  lack  of  relevance  of  the  curriculum  and  the mismatch between what is taught and the needs of the world of work. This situation does not motivate  parents  to  keep  their  children  in  school  and  students  to  remain  in  school.  An unfriendly environment in some schools, teacher absenteeism and lateness, especially in rural areas, poverty at the household level, negative effects of the HIV and AIDS pandemic and rising repetition rates, all drive learners away from secondary schooling.
 
@@ -1729,7 +1881,7 @@ Provide free and compulsory secondary education to all children.
 
 #### Special Needs Education
 
-- 4.30 Special  Needs  Education  SNE  requires  appropriate  adaptations  to  curricula,  teaching methods, educational resources, medium of communication and the learning environment in order to cater for individual differences in learning. Special Needs Education is important for human capital development as it prepares those who would otherwise be dependents to be self-reliant. Traditionally, SNE has been provided in special schools, integrated schools and in special units attached to regular schools. Provision of educational services has often been skewed towards  four  traditional  categories,  that  is  hearing  impairment,  visual  impairment, mentally  handicapped  and  physical  handicap  leaving  out  all  other  areas.  Areas  left  out included learners with Autism, Gifted and Talented, Emotional and Behavioural Difficulties, Deafblind and other specific learning disabilities. More recently, provision has been extended to such children in regular schools through the policy of inclusivity.
+- 4.30 Special Needs Education (SNE) requires appropriate adaptations to curricula, teaching methods, educational resources, medium of communication and the learning environment in order to cater for individual differences in learning. Special Needs Education is important for human capital development as it prepares those who would otherwise be dependents to be self-reliant. Traditionally, SNE has been provided in special schools, integrated schools and in special units attached to regular schools. Provision of educational services has often been skewed towards four traditional categories, that is hearing impairment, visual impairment, mentally handicapped and physical handicap leaving out all other areas. Areas left out included learners with Autism, Gifted and Talented, Emotional and Behavioural Difficulties, Deafblind and other specific learning disabilities. More recently, provision has been extended to such children in regular schools through the policy of inclusivity.
 
 - 4.31 The  main  challenges  relating  to  access  and  equity  in  the  provision  of  education  and training to children with special needs include: cultural prejudice and negative attitude, the slow implementation of guidelines on SNE policy and inclusive education, inadequate data on the number of children with special needs, inadequate tools and skills for assessing and identifying learners  with special needs, inadequate  funding,  inadequate  facilities  and teachers.
 
@@ -1749,7 +1901,7 @@ Provide free and compulsory secondary education to all children.
 
 [[START OF PAGE 48]]
 
-(ii) Restructure Kenya Institute of Special Education  KISE  and enhance its capacity to enable it to play a more effective role in the training of teachers and other personnel working for and with learners with special needs and disabilities.
+(ii) Restructure Kenya Institute of Special Education (KISE) and enhance its capacity to enable it to play a more effective role in the training of teachers and other personnel working for and with learners with special needs and disabilities.
 
 (iii) Review the  SNE curriculum  at  KISE  to  also  offer  degree  courses  for  teachers  and introduce  tailored  courses  for  Head  teachers  and  educational  managers  to  support inclusive education.
 
@@ -1793,7 +1945,7 @@ Provide free and compulsory secondary education to all children.
 
 revealed high regional and gender disparities in literacy achievements with Nairobi recording the highest at 87.1% and North Eastern province recording the lowest at 8%. The Medium Term Plan for Kenya's Vision 2030 recognizes the need to have literate citizens and sets a target of increasing the adult literacy rate from the current 61.5% to 80% by 2012.
 
-- 4.35 Challenges  that  have  affected  Adult  and  Continuing  Education  programmes  over  the years include inadequate trained literacy and adult education teachers, a high turnover of staff and volunteer teachers, limited resource allocations and inappropriate infrastructure, lack of capitation  grants  for  instructional  materials,  school  going  children  attending  adult  classes, gender  imbalance,  negative  attitudes  and  perceptions  towards  adult  learning,  inadequate teachers  and  learning  centres,  poor  definition  of  literacy  .  Although  the  Government established  the  Directorate  of  Adult  and  Continuing  Education  to  coordinate  the  relevant programmes, it has not  been  adequately  resourced. As  a result, access to ACE and APBE programmes  are  low  while  gender  disparities  are  high.  ACE  and  APBE  is  affected  by  a negative image. The lack of teaching and learning materials, the application of appropriate quality  assurance  mechanisms,  and  without  co-ordinated  service  delivery,  leaves  the  subsector in need of major reform and resourcing. A further issue concerns the transition of adult learners from primary to secondary education and the appropriateness of the curriculum.
+- 4.35 Challenges that have affected Adult and Continuing Education programmes over the years include inadequate trained literacy and adult education teachers, a high turnover of staff and volunteer teachers, limited resource allocations and inappropriate infrastructure, lack of capitation grants for instructional materials, school going children attending adult classes, gender imbalance, negative attitudes and perceptions towards adult learning, inadequate teachers and learning centres, poor definition of literacy . Although the Government established the Directorate of Adult and Continuing Education to coordinate the relevant programmes, it has not been adequately resourced. As a result, access to ACE and APBE programmes are low while gender disparities are high. ACE and APBE is affected by a negative image. The lack of teaching and learning materials, the application of appropriate quality assurance mechanisms, and without co-ordinated service delivery, leaves the sub-sector in need of major reform and resourcing. A further issue concerns the transition of adult learners from primary to secondary education and the appropriateness of the curriculum.
 
 4.36 In order to address these challenges, the Government shall adopt the following policy:
 
@@ -1809,9 +1961,9 @@ Provide quality ACE and APBE services, programmes, and opportunities for life-lo
 
 (iv) Review and implement ACE and APBE policy.
 
-- Implement  National  Qualification  Framework  (NQF)  with  clear  linkages  to  the formal education and training system
+a) Implement National Qualification Framework (NQF) with clear linkages to the formal education and training system
 
-- Harmonise all legal provisions dealing with ACE and APBE.
+b) Harmonise all legal provisions dealing with ACE and APBE.
 
 (vi) Establish  and  implement  programmes  to  work  with  other  private  sector partners and NGOs to mobilise funds to develop and implement targeted ACE and APBE programmes.
 
@@ -1861,7 +2013,7 @@ Provide quality ACE and APBE services, programmes, and opportunities for life-lo
 
 [[START OF PAGE 51]]
 
-### CHAPTER FIVE: EDUCATION FOR MARGINALISED, HARDTO-REACH AND VULNERABLE GROUPS
+### CHAPTER FIVE: EDUCATION FOR MARGINALISED, HARD-TO-REACH AND VULNERABLE GROUPS
 
 - 5.1 The Government has endeavoured to promote access, equity and transition in education and training through the introduction of Free Primary Education (2003) and Free Day Secondary in (2008). The MOE together with other stakeholders has implemented various programmes with varying degrees of success to support the Most Vulnerable Children (MVC), girls, and women in the Arid and Semi-Arid lands, urban slums.
 
@@ -1919,7 +2071,7 @@ Provide quality ACE and APBE services, programmes, and opportunities for life-lo
 
 (xviii) Obtain  data  on  the  number  of  un-enrolled  children  in  urban  informal settlements.
 
-(xix) Prioritize  the  introduction  of  capitation/development  grants  to  all  NonFormal Education Centres/Schools to ensure availability of funds for tuition and relevant instructional materials.
+(xix) Prioritize  the  introduction  of  capitation/development  grants  to  all  Non-Formal Education Centres/Schools to ensure availability of funds for tuition and relevant instructional materials.
 
 42
 
@@ -2247,7 +2399,7 @@ Adopt  distance  and  open  learning  approaches  including  home  learning  acr
 
 (ii) Mainstream ODL in the education system in Kenya.
 
-(iii) Initiate  the  development  of  ODL  approaches  to  meet  the  educational  needs  of  eLearners, Online learners and Distance learning students at all levels of education, and in ASAL  areas,  pastoral  communities,  marginalized  groups,  special  needs  education  and non -formal education
+(iii) Initiate  the  development  of  ODL  approaches  to  meet  the  educational  needs  of  e-Learners, Online learners and Distance learning students at all levels of education, and in ASAL  areas,  pastoral  communities,  marginalized  groups,  special  needs  education  and non -formal education
 
 (iv) Develop a regulatory and legal framework for all institutions to enable them to establish open learning opportunities.
 
@@ -2289,9 +2441,9 @@ Adopt  distance  and  open  learning  approaches  including  home  learning  acr
 
 - 8.4 Education  in  the  Provinces  has  been  managed  by  the  PDEs  and  assisted  by  DEOs  in  the districts. Management primary education in seven municipalities is under Ministry of Local Government. However, the management of special education and secondary education within the Municipalities is under the Ministry of Education.
 
-- 8.5 A  challenge  of  the  present  governance  structures  is  inefficiency  in  the  management  of resources and utilisation. Funds disbursed directly to institutions and those managed by MoE offices  are  at  times  not  properly  utilized  for  intended  purposes.  Other  challenges  include weak  accountability,  inefficient  monitoring  and  tracking  systems  coupled  with  an  overcentralized, hierarchical and bureaucratic decision-making system, which encourages mismanagement.
+- 8.5 A  challenge  of  the  present  governance  structures  is  inefficiency  in  the  management  of resources and utilisation. Funds disbursed directly to institutions and those managed by MoE offices  are  at  times  not  properly  utilized  for  intended  purposes.  Other  challenges  include weak  accountability,  inefficient  monitoring  and  tracking  systems  coupled  with  an  over-centralized, hierarchical and bureaucratic decision-making system, which encourages mismanagement.
 
-- 8.6 Lack  of  harmonisation  of  institutional  and  identification  codes  between  the  MoE  and  its SAGAs cause a challenge in terms of accountability and reliability of data. Unreliable data has rendered the Educational Management  Information System (EMIS) functionally ineffective.  In  the  absence  of  legal  provisions  guarding  against  misinformation  or  noncooperation of required data, heads of units and institutions provide inaccurate data to suit their unique circumstances.
+- 8.6 Lack  of  harmonisation  of  institutional  and  identification  codes  between  the  MoE  and  its SAGAs cause a challenge in terms of accountability and reliability of data. Unreliable data has rendered the Educational Management  Information System (EMIS) functionally ineffective.  In  the  absence  of  legal  provisions  guarding  against  misinformation  or  non-cooperation of required data, heads of units and institutions provide inaccurate data to suit their unique circumstances.
 
 - 8.7 There  is  conflict  over  the  role  of  Sponsors  and  the  Ministry  of  Education  with  regard  to ownership,  management  and  appointment  of  head  teachers  and  teachers  of  faith-based sponsored institutions.
 
@@ -2335,7 +2487,7 @@ Parents' Teachers' Associations (PTAs) contribute to the management of schools, 
 
 (ix) Recognise  and  strengthen  the  role  of  Parents'  Teachers'  Associations (PTA), teacher professional bodies such as the Kenya Heads Associations in the legal provisions.
 
-(x) Establish  and  strengthen  the  Education  Office  at  the  county  and  sub  county levels.
+(x) Establish  and  strengthen  the  Education  Office  at  the  county  and  sub – county levels.
 
 (xi) Establish  a  Board  of  Management  (BoM)  and  Parents'  Teachers' Association (PTA) at institutional level.
 
@@ -2373,7 +2525,7 @@ Parents' Teachers' Associations (PTAs) contribute to the management of schools, 
 
 - 8.12 Basic Education in Kenya is managed by the Ministry of Education and its Constitutional and statutory institutions. The sector faces challenges in management  performance, governance, financial management, high staff turnover, quality of education, and infrastructural gap in a number of education and training institutions.
 
-- 8.13 Issues  exist  over  the  capacity  of  provincial  and  district  auditors  to  undertake  the  work required, and while procedures and rules governing the financial management of institutions exist,  they  are  not  being  effectively  applied.  This  is  because  audit  functions  are  underprovided at school, district and provincial levels.
+- 8.13 Issues  exist  over  the  capacity  of  provincial  and  district  auditors  to  undertake  the  work required, and while procedures and rules governing the financial management of institutions exist,  they  are  not  being  effectively  applied.  This  is  because  audit  functions  are  under-provided at school, district and provincial levels.
 
 - 8.14 Training  and  capacity  development  for  School  Management  Committees,  heads  of institutions and Boards of Governors in financial management, procurement and governance is  inadequate. Other gaps include coordination of different players, mapping and planning, shortage of teachers leading to poor institutional management and short tenure of office of SMCs leading to high turnover.
 
@@ -2753,7 +2905,7 @@ combinations in the Humanities, Kiswahili, Physics and Computer Studies. The cha
 
 - Establish and maintain a Teacher Management Information System.
 
-- Maintain a 5 years ' stay policy' for all teachers on first appointment.
+- Maintain a 5 years 'stay policy' for all teachers on first appointment.
 
 - For teachers in hard to reach areas maintain and review incentives periodically.
 
@@ -2933,7 +3085,7 @@ Institute  mechanisms  for  paying  teachers  retirement  benefits  within  60  
 
 - 10.41 The  commission  currently  depends  on  the  exchequer  to  provide  funds  for  personal emolument of its employees and for operations and maintenance. Under article 249(3) of the Constitution of Kenya 2010, parliament is expected to allocate adequate funds to enable the commission perform its functions.
 
-- 10.42 The social pillar in the Kenya Vision 2030 singles out education and training as a vehicle that  will  drive  the  country  into  becoming  a  middle-income  economy.  However,  the realization of this goal may be hampered by perennial shortage of teachers, brought about by the introduction of Structural Adjustment Programs (SAPs)that put a ceiling of teacher sat 235,000 (1998), introduction of free primary education(2002), free Day secondary education(2008) and construction of numerous schools through CDF and LATF. Even after the government lifted the ceiling in subsequent years, recruitment of additional teachers has depended on available of budgetary provision at a given financial year.
+- 10.42 The social pillar in the Kenya Vision 2030 singles out education and training as a vehicle that  will  drive  the  country  into  becoming  a  middle-income  economy.  However,  the realization of this goal may be hampered by perennial shortage of teachers, brought about by the introduction of Structural Adjustment Programs (SAPs)that put a ceiling of teachers at 235,000 (1998), introduction of free primary education(2002), free Day secondary education(2008) and construction of numerous schools through CDF and LATF. Even after the government lifted the ceiling in subsequent years, recruitment of additional teachers has depended on available of budgetary provision at a given financial year.
 
 - 10.43 As guided by article 6 (2) of Fiscal management Act (2009), the government will;
 
@@ -3001,7 +3153,7 @@ Institute  mechanisms  for  paying  teachers  retirement  benefits  within  60  
 
 spread  very  thinly  thereby  reducing  the  impact  of  its  work.  The  absence  of  institutional Strategic  Plans,  and  Provincial,  District  and  School  Development  Plans  demonstrate  this weakness, and justifies the establishment of a cadre of Education Planning Professionals.
 
-- 11.6 With devolution, there will be an increase in the number of basic education managers and stakeholders  involved  in  the  management  of  education  institutions.  As  a  consequence,  it shall be necessary to decentralise certain planning functions to the county and school level. Roles and functions of these various actors in the sector shall need to be clarified to ensure that planning, management and accountability in the sector is efficient. Currently, decisionmaking  in  education  and  training  management  is  highly  centralised  at  the  ministry headquarters with limited capacity at district level where actual education and training and management services are delivered. This situation will be reversed by undertaking a staffing and  skills  needs  analysis  at  national  and  county  level,  and,  where  necessary,  transferring Education Officers to the County level offices.
+- 11.6 With devolution, there will be an increase in the number of basic education managers and stakeholders  involved  in  the  management  of  education  institutions.  As  a  consequence,  it shall be necessary to decentralise certain planning functions to the county and school level. Roles and functions of these various actors in the sector shall need to be clarified to ensure that planning, management and accountability in the sector is efficient. Currently, decision-making  in  education  and  training  management  is  highly  centralised  at  the  ministry headquarters with limited capacity at district level where actual education and training and management services are delivered. This situation will be reversed by undertaking a staffing and  skills  needs  analysis  at  national  and  county  level,  and,  where  necessary,  transferring Education Officers to the County level offices.
 
 - 11.7 To  address  these  planning  challenges,  the  Government  will  implement  the  following policies:
 
@@ -3081,11 +3233,11 @@ spread  very  thinly  thereby  reducing  the  impact  of  its  work.  The  absen
 
 - 12.1 Public spending on education and training increased from Ksh.92.6 billion in 2005/6 to Ksh.160 billion in 2009/10; accounting for 28 percent of the aggregate public expenditure in 2005/6 and 26 percent in 2009/10. The country's education expenditure as a percentage of GDP remained fairly constant, ranging from 6.1% in 2005/6 to 6.4 % in 2009/10. Recurrent spending,  predominantly  administration  and  teachers'  salaries,  accounted  for  91%  of education sector public spending in 2009/10.
 
-- 12.2 The  unit  public  spending  at  secondary  education  was  3.8  times  higher  than  that  of primary education in 2010 and constituted 58 percent of the GDP per capita. Technical and university  education  public  unit  spending  were  8  times  and  14  times  higher  than  that  of primary  education;  respectively.  Public  spending  per  capita  at  Technical  and  university education were 124 and 214 percent of the GDP per capita which was about Ksh.56,267 in 2010 at market prices. These costs exclude the off-budget expenditures such as household spending  on  education  and  off-budget  financing  by  development  partners  and  NonGovernment Organisations. These disparities shall be addressed.
+- 12.2 The  unit  public  spending  at  secondary  education  was  3.8  times  higher  than  that  of primary education in 2010 and constituted 58 percent of the GDP per capita. Technical and university  education  public  unit  spending  were  8  times  and  14  times  higher  than  that  of primary  education;  respectively.  Public  spending  per  capita  at  Technical  and  university education were 124 and 214 percent of the GDP per capita which was about Ksh.56,267 in 2010 at market prices. These costs exclude the off-budget expenditures such as household spending  on  education  and  off-budget  financing  by  development  partners  and  Non-Government Organisations. These disparities shall be addressed.
 
 - 12.3 Although  low  income  groups  benefit  more  from  primary  education  expenditures,  they benefit the least from investments at secondary and tertiary education compared to high and medium income groups. The gains for poorest quintile at primary level are estimated at 24.7 percent; 9.5 percent for secondary and 1.9 percent for tertiary education. Gains for richest quintile  are  27.2  percent  and  70  percent,  at  secondary  and  tertiary  education  respectively. This  points  to  the  need  to  increase  access  to  post  primary  education  among  low  income groups  in  order  for  education  and  training  to  play  a  more  significant  role  in  poverty reduction  and  to  address  income  inequalities,  and  ensure  sustainable  development  and  in developing high technology skills identified in Kenya Vision 2030.
 
-- 12.4 Despite the introduction of FPE and FDSE, 1.9 million primary school age children and 2.7 million secondary school age children were out of school in 2009 (2009 Census). This was mainly because school managers in both public primary and secondary school levels reintroduced levies. These levies comprise of PTA charges, extra tuition charges, examination fees, sports fees and boarding fees, among others. All these off-budget expenditures add to the  high  cost  of  schooling  in  Kenya.  Fees  in  private  education  institutions  are  high  when compared  to  public  education  institutions,  yet  increasing  numbers  of  parents  are  sending their children to private schools; arguing that quality is better and teacher absenteeism lower.
+- 12.4 Despite the introduction of FPE and FDSE, 1.9 million primary school age children and 2.7 million secondary school age children were out of school in 2009 (2009 Census). This was mainly because school managers in both public primary and secondary school levels re-introduced levies. These levies comprise of PTA charges, extra tuition charges, examination fees, sports fees and boarding fees, among others. All these off-budget expenditures add to the  high  cost  of  schooling  in  Kenya.  Fees  in  private  education  institutions  are  high  when compared  to  public  education  institutions,  yet  increasing  numbers  of  parents  are  sending their children to private schools; arguing that quality is better and teacher absenteeism lower.
 
 - 12.5 Co-ordinating  the  mobilization  of  resources  in  the  sector  is  a  challenge.  Physical infrastructure development especially those funded through decentralized funds such as the Constituency Development Fund (CDF) and Local  Government Transfer Fund (LATF) is not clearly linked to  central government spending and recurrent sector spending. This has resulted in the  emergence of small and unviable schools in some localities, many without qualified teachers or with limited numbers of teachers.
 
@@ -3097,11 +3249,11 @@ spread  very  thinly  thereby  reducing  the  impact  of  its  work.  The  absen
 
 [[START OF PAGE 88]]
 
-- private  sector  providers  of  educational  services,  religious  organizations,  civil  society, foundations, the private sector and Non-Governmental Organisations; households, communities and other stakeholders.
+private  sector  providers  of  educational  services,  religious  organizations,  civil  society, foundations, the private sector and Non-Governmental Organisations; households, communities and other stakeholders.
 
 - 12.7 The envisaged expansion of the education sector also assumes an increased participation by the private sector in the provision and financing of education particularly at the primary and  secondary.  The  government  shall  develop  and  implement  a  policy  framework  that promotes  private  investment  across  all  levels  of  education.  It  shall  also  improve  and facilitate  private  school  registration  as  well  as  learn  from  the  private  sector  on  how  to inculcate the culture and practice of quality assurance and supervision. The aim will be to remove constraints and to facilitate on private participation in education while maintaining quality standards, and to make private education more attractive to private investors.
 
-- 12.8 The government shall uphold the overall policy for quality improvement but will aim to reduce the cost of education to households through the provision of teachers, teaching and learning  materials  and  grants  to  schools  to  cover  operational  and  maintenance  expenses under FPE and FDSE policy. Needs-based capitation grants shall be allocated to learners in ECDE, primary, secondary, special needs education, adult education and not-for-profit nonformal schools that meet set criteria.
+- 12.8 The government shall uphold the overall policy for quality improvement but will aim to reduce the cost of education to households through the provision of teachers, teaching and learning  materials  and  grants  to  schools  to  cover  operational  and  maintenance  expenses under FPE and FDSE policy. Needs-based capitation grants shall be allocated to learners in ECDE, primary, secondary, special needs education, adult education and not-for-profit non-formal schools that meet set criteria.
 
 - 12.9 The  building  of  new  schools/classrooms  and  the  rehabilitation  and  maintenance  of existing facilities will  continue  to  be  the  responsibility of  the  (central  and  county) government, communities and households. Community and household support will be based on agreed guidelines and aimed at reducing the cost burden of education on communities and households.
 
@@ -3121,7 +3273,7 @@ evidence  that  operators  of  Pre-Primary  centres  consider  the  needs of chi
 
 - 12.12 To address these challenges, the Government will adopt the following policies:
 
-(i) Mainstream Pre-Primary into basic education and ensure automatic transition from PrePrimary to primary education;
+(i) Mainstream Pre-Primary into basic education and ensure automatic transition from Pre-Primary to primary education;
 
 (ii) Promote increased private sector financing of Pre-Primary services;
 
@@ -3181,7 +3333,7 @@ efficient staffing norms, improved value added from teachers, cutting the levels
 
 (i) Finance  primary  education  through  the  provision  of  teachers;  teaching  and  learning materials, operational costs and capacity building of teachers;
 
-(ii) Develop a Financial Management System for schools to capture both budgetary and offbudget resources in schools;
+(ii) Develop a Financial Management System for schools to capture both budgetary and off-budget resources in schools;
 
 (iii) Ensure budgetary allocations to schools are on the basis of identified individual school needs and unit cost;
 
@@ -3295,7 +3447,7 @@ efficient staffing norms, improved value added from teachers, cutting the levels
 
 - 12.25 To address the above policies, the government will implement the following strategies:
 
-(i) Develop and institutionalise the use of a linked in school-CountyHeadquarters  Financial  Management  Information  System  to  capture  both budgetary and off budget financing (including user fee charges) to the sector while  empowering parents  and  community members to make better choices and participate more effectively in school financial management.
+(i) Develop and institutionalise the use of a linked in school-County-Headquarters  Financial  Management  Information  System  to  capture  both budgetary and off budget financing (including user fee charges) to the sector while  empowering parents  and  community members to make better choices and participate more effectively in school financial management.
 
 (ii) Improve  access  to  secondary  education  through  reduction  of  unit  costs  at secondary  education  and  the  introduction  of  automatic  progression  and transition through the various grades and levels.
 
@@ -3497,7 +3649,7 @@ Adopt and operationalize a public-private  partnership  (PPP)  framework  for  t
 
 #### TVET Philosophy
 
-- 15.2 The TVET philosophy is based on national development agenda and in particular, Vision 2030.  It  is  also  focused  on  providing  skills  that  meet  the  workplace  as  well  as  selfemployment. Tertiary education, including TVET, is premised on the principle 'education and  training  for  the  workplace'.  TVET  will  therefore  be  provided  for  the  purpose  of guaranteeing human and economic development. The outcomes of TVET must therefore be human resources fit  for  the  job  market.  Vocational  Education  and  Training  component  is responsible for the production of skilled operators to service construction, maintenance and operation of equipment and infrastructure.
+- 15.2 The TVET philosophy is based on national development agenda and in particular, Vision 2030.  It  is  also  focused  on  providing  skills  that  meet  the  workplace  as  well  as  self-employment. Tertiary education, including TVET, is premised on the principle 'education and  training  for  the  workplace'.  TVET  will  therefore  be  provided  for  the  purpose  of guaranteeing human and economic development. The outcomes of TVET must therefore be human resources fit  for  the  job  market.  Vocational  Education  and  Training  component  is responsible for the production of skilled operators to service construction, maintenance and operation of equipment and infrastructure.
 
 - 15.3 In  addition,  TVET  component  is  responsible  for  producing  graduates  who  perform supervisory and management functions in industry. It is essential therefore that the TVET graduates possess the right attitudes to work, have the right core values and above all, can be relied upon to deliver at the workplace. It is important to entrench soft or generic skills such as integrity; ethics, professionalism and accountability in TVET.
 
@@ -3537,7 +3689,7 @@ Adopt and operationalize a public-private  partnership  (PPP)  framework  for  t
 
 (vi) Provide  a  dynamic  curriculum  responsive  to  the  manpower  needs  of  a  dynamic economy;
 
-(vii) Impart marketable skills, technical know-how  and attitudes that respond to contemporary labour market demands by the industry, informal sector and for selfemployment;
+(vii) Impart marketable skills, technical know-how  and attitudes that respond to contemporary labour market demands by the industry, informal sector and for self-employment;
 
 (viii) Build on gains acquired in prior learning by promoting and sustaining entrepreneurial and technological innovations among the youth in TVET;
 
@@ -3549,7 +3701,7 @@ Adopt and operationalize a public-private  partnership  (PPP)  framework  for  t
 
 - 15.9 This  policy  promotes  the  Government's  endeavours  to  operate  within  the  following principles:
 
-(i) Access and equity Every Kenyan has a right to access quality and relevant education and training. The policy shall therefore create an enabling environment, opportunities and
+(i) Access and equity – Every Kenyan has a right to access quality and relevant education and training. The policy shall therefore create an enabling environment, opportunities and
 
 91
 
@@ -3559,25 +3711,25 @@ Adopt and operationalize a public-private  partnership  (PPP)  framework  for  t
 
 - mechanisms to provide pathways to those seeking to pursue quality technical training at all levels.
 
-(ii) Inclusivity  and  respect  for  cultural  and  social  diversityNational  values  shall  be respected  and  promoted  in  all  TVET  institutions  and  this  includes  principles  that  pay attention to the people with disability and respect human dignity while ensuring equity, equality and protection of marginalized societies.
+(ii) Inclusivity  and  respect  for  cultural  and  social  diversity- National  values  shall  be respected  and  promoted  in  all  TVET  institutions  and  this  includes  principles  that  pay attention to the people with disability and respect human dignity while ensuring equity, equality and protection of marginalized societies.
 
-(iii) Non-discriminationThere  shall  be  no  discrimination  on  grounds  of  race,  colour, gender, religion, national or social origin, economic status, political or other opinions.
+(iii) Non-discrimination- There  shall  be  no  discrimination  on  grounds  of  race,  colour, gender, religion, national or social origin, economic status, political or other opinions.
 
-(iv) Quality  and  Relevance  Emphasis  shall  be  placed  on  demand  driven  training.  This principle shall promote technical, professionalism, knowledge and qualification needed in the various sectors of the economy.
+(iv) Quality  and  Relevance –Emphasis  shall  be  placed  on  demand  driven  training.  This principle shall promote technical, professionalism, knowledge and qualification needed in the various sectors of the economy.
 
-(v) National integrationEmployment opportunities, occupational standards and development prospects within TVET structures shall be made available to all Kenyans
+(v) National integration- Employment opportunities, occupational standards and development prospects within TVET structures shall be made available to all Kenyans
 
-(vi) Life-long  LearningThe  training  will  be  designed  to  operate  within  a  framework  of open-ended and flexible structures in the context of lifelong education and training. This is the principle for continuing training for improvement of professional qualifications and updating of knowledge, skills and understanding.
+(vi) Life-long  Learning- The  training  will  be  designed  to  operate  within  a  framework  of open-ended and flexible structures in the context of lifelong education and training. This is the principle for continuing training for improvement of professional qualifications and updating of knowledge, skills and understanding.
 
 (vii) Entrepreneurship  Culture -  TVET  examination  and  competence  assessment shall be centred on promoting and developing innovation, creativity and entrepreneurial minds for self-reliance.
 
 (viii) Complimentality -Education for those receiving technical, industrial, vocational and  entrepreneurship  training  in  the  form  of  on-the-job  training  or  other  training  in institutions or other facilities.
 
-(ix) Environment Protection of the environment and the common heritage of the country.
+(ix) Environment –Protection of the environment and the common heritage of the country.
 
-(x) Partnerships  Creating  and  promoting  an  enabling  environment  for  Public-Private Partnerships for enhancing investment in technical training
+(x) Partnerships – Creating  and  promoting  an  enabling  environment  for  Public-Private Partnerships for enhancing investment in technical training
 
-(xi) Information and Communication -  P romoting integration of information and marketing of training opportunities through ICT.
+(xi) Information and Communication – Promoting integration of information and marketing of training opportunities through ICT.
 
 (xii) Leadership: Leadership within TVET Structure and organs shall be based on the principles of serving people with integrity, ethical practices, respect for the people and fairness among others.
 
@@ -3759,7 +3911,7 @@ Identify  and  develop  centres  of  excellence  linked  and  aligned  with  nat
 
 - 15.32 Close and productive interaction between academia, private sector and public institutions in all fields is vital in harnessing the existing potential in a coordinated manner. However, research  institutions,  academia  and  industry  in  Kenya  have  for  long  been  operating  in separate  domains.  This  situation  needs  clear  policy  interventions  to  promote  interaction between  academia,  private  sector  and  public  institutions  when  county  governments  are established. While the situation is slowly changing, policy must be proactive in recognizing and taking advantage of the prevailing constitutional regime.
 
-- 15.33 The  intersecting  needs  and  mutually  interdependent  relationships  call  for  a  wellconceived integration between the public sector, academia and industry. In this regard, the national and county governments will be key players in the integration process through the enactment of various enabling policy instruments and availing the necessary incentives to support the integration process. The rationale for academia to work closely with industry is based  on  the  increasing  complexity  in  academia  and  business  world  and  the  constantly changing needs of industry. Further, the increasing interdependence between academia and industry  require  TVET to reform the linkage with industry  for continuous sustenance and innovation.
+- 15.33 The  intersecting  needs  and  mutually  interdependent  relationships  call  for  a  well-conceived integration between the public sector, academia and industry. In this regard, the national and county governments will be key players in the integration process through the enactment of various enabling policy instruments and availing the necessary incentives to support the integration process. The rationale for academia to work closely with industry is based  on  the  increasing  complexity  in  academia  and  business  world  and  the  constantly changing needs of industry. Further, the increasing interdependence between academia and industry  require  TVET to reform the linkage with industry  for continuous sustenance and innovation.
 
 - 15.34 To address these challenges the Government will adopt the following policies:
 
@@ -3815,7 +3967,7 @@ Re-brand TVET to reposition the sector in society and attract the best students 
 
 (iv) Integrate role modelling and mentoring in TVET sector;
 
-(v) Integrate Pro -Active Job -Skill Matching by seeking business opportunities and jobs through domestic and international labour market intelligence;
+(v) Integrate Pro-Active Job-Skill Matching by seeking business opportunities and jobs through domestic and international labour market intelligence;
 
 99
 
@@ -3823,9 +3975,9 @@ Re-brand TVET to reposition the sector in society and attract the best students 
 
 [[START OF PAGE 110]]
 
-(vi) Implement  the  principles  of  multiple  entry  and  exit,  self -paced/modular  paced/modular learning,  industry  learning  and  assessment,  recognition  of  prior  learning  and  national recognition/accreditation for acquired competencies;
+(vi) Implement  the  principles  of  multiple  entry  and  exit,  self-paced/modular  paced/modular learning,  industry  learning  and  assessment,  recognition  of  prior  learning  and  national recognition/accreditation for acquired competencies;
 
-(vii) Widening  industry  partnerships  to  provide  the  students  with  an  authentic  learning environment and exposure to real -life industry projects and applications;
+(vii) Widening  industry  partnerships  to  provide  the  students  with  an  authentic  learning environment and exposure to real-life industry projects and applications;
 
 (viii) Develop  new  products  and  engage  TVET  students  in  programmes  and  projects  of national importance;
 
@@ -4096,7 +4248,7 @@ enrolment;
 
 (ix) Ensure at least 40 per cent enrolment of female students into science-based university academic programmes;
 
-(x) Enable  institutions  to  increase  enrolment  of  students  with  special  needs  through affirmative action, appropriate out-reach programmes targeting them and through preentry programmes;
+(x) Enable  institutions  to  increase  enrolment  of  students  with  special  needs  through affirmative action, appropriate out-reach programmes targeting them and through pre-entry programmes;
 
 (xi) Continue to support the marginalized and the poor to ensure broader participation in priority programmes;
 
@@ -4116,7 +4268,7 @@ enrolment;
 
 (xix) Require  students  whose  tuition  and  fees  exceed  the  scholarship  value  of  their preferred programme to top-up the difference;
 
-(xx) Disseminate  information  on  career  guidance  to  students  and  schools,  to  promote informed  programme  and  career  choice,  especially  as  relates  to  employability,  jobcreation, and student ability.
+(xx) Disseminate  information  on  career  guidance  to  students  and  schools,  to  promote informed  programme  and  career  choice,  especially  as  relates  to  employability,  job-creation, and student ability.
 
 #### Improving Quality and Relevance
 
@@ -4416,7 +4568,7 @@ council chairpersons taken as a group.
 
 [[START OF PAGE 127]]
 
-- long and continuing learning skills, project development, research and innovation skills and the ability to work autonomously are also critical and shall be covered under the KQF.
+long and continuing learning skills, project development, research and innovation skills and the ability to work autonomously are also critical and shall be covered under the KQF.
 
 - 17.12 Thus in its simplified form, every KQF descriptor illustrates two divisions of academic qualification;  i.e.  critical  knowledge  and  educational  level  on  the  one  part  and  relevant employable  skill  competences  associated  with  the  level  on  the  other  part.  Experience, number of credits or advanced standing awards for prior learning and other factors can be brought  into  play  as  necessary  to  equate  or  determine  a  qualification's  place  within  the national frame.
 
@@ -4440,7 +4592,7 @@ council chairpersons taken as a group.
 
 [[START OF PAGE 128]]
 
-education  may  influence  the  decision  to  have  the  frame  structured  in  two  separate  subframes  so  as  to  give  the  framework  for  academic  qualifications  emphasizing  on  the knowledge taxonomy under the cognitive domain and a framework for TVET qualifications emphasizing on skills taxonomy under the psychomotor and affective domains.
+education  may  influence  the  decision  to  have  the  frame  structured  in  two  separate  sub-frames  so  as  to  give  the  framework  for  academic  qualifications  emphasizing  on  the knowledge taxonomy under the cognitive domain and a framework for TVET qualifications emphasizing on skills taxonomy under the psychomotor and affective domains.
 
 - 17.17 Harmonization with best practice in other systems in the World is vital, especially on the need  to  provide  an  integrated  system  that  takes  into  account  life-long  learning  including assessment and certification of prior learning. Many countries have settled for the academic qualifications framework because of its inherent cost-effectiveness. However, countries that have  vibrant  workforce  development  systems  have  deliberately  invested  heavily,  and prudently so, in TVET qualifications framework in order to drive their science, technology and innovation agenda, to which TVET is directly linked.
 
@@ -4551,7 +4703,8 @@ No. | Cycle | KQF Level | Qualification | Holder's Nomenclature-ISCED 97
 
 No. | Cycle | KQF Level | Qualification | Holder's Nomenclature-ISCED 97
 --- | --- | --- | --- | ---
-5. | Cycle IV : UPPER SECONDARY EDUCATION | 4 | certificate KVCET KCSE | Semi-skilled school leaver Unskilled school leaver
+ |  |  | KCSE+ non employment skill certificate |
+5. | Cycle IV : UPPER SECONDARY EDUCATION | 4 | KVCET KCSE | Semi-skilled school leaver Unskilled school leaver
 6. | Cycle III : JUNIOR SECONDARY EDUCATION | 3 | KJCVET KJSE Artisan Cert. (Theory and Practice) Artisan Cert. (Practice) | Semi-skilled Unskilled Skilled Artisan Skilled Operator
 7. | Cycle II: UPPER PRIMARY Cycle I: ECDE & LOWER PRIMARY EDUCATION | 2 1 | CPE + GTT Cert. I CPE + GTT II CPE + GTT III | Teenager Skilled Operative Semi-skilled Semi-skilled Child
 
