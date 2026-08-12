@@ -1,8 +1,23 @@
 [[START OF PAGE 1]]
 
-# Sindh Education Sector Plan 2013 - 2016
+# Sindh Education Sector Plan 2013 – 2016
 
 ## Sub-sector Plans Submitted for
+
+4: Early Childhood Education
+5: Primary and Elementary Education
+6: Secondary and Higher Secondary Education
+7: Literacy and Non-formal Education
+8: Teacher Education and Development
+9: Curriculum and Assessment
+10 Education InfrastructureDevelopment
+11: Cross-Cutting Issues and Priorities
+11.1 Management and Governance
+11.2 Gender Equity
+11.3 Public Private Partnership
+11.4 Social Cohesion and Resilience
+11.5 ICT
+11.6 Education in Emergency
 
 June 2013
 
@@ -14,7 +29,7 @@ Page 1 of 155
 
 ## 4.EARLY CHILDHOOD EDUCATION (ECE)
 
-‗Improvements in quality of ECE shall be based on a concept of holistic development of the child that provides a stimulating, interactive environment, including play, rather thana focus on regimes that require rote learning and rigid achievement standards.' (NEP 2009, p. 27)
+‘Improvements in quality of ECE shall be based on a concept of holistic development of the child that provides a stimulating, interactive environment, including play, rather than a focus on regimes that require rote learning and rigid achievement standards.’ (NEP 2009, p. 27)
 
 Pakistan  struggles  with  incessant  poverty,  lack  of  basic  necessities  and  deteriorating  social support  structures;  thus,  investments  in  Early  Childhood  Education  (ECE)  become  more significant  than  ever  before.  This  is  truer  for  situation  in  Sindh.  Therefore,  broad-based investment in young children's survival, development and education becomes a corner stone of SESP (2013- 2016).
 
@@ -50,11 +65,11 @@ The above table shows that an important milestone in ECE was achieved by develop
 
 During the past decade, a greater emphasis on Early Childhood Education and Development has been  witnessed  both,  in  the  public  as  well  as  non-governmental  sector.  During  this  period, multiple early childhood programs had been developed by a number of organizations; however, most of these belong to the private sector, and were initiated in form of projects, which implies that the efforts were not sustained over a period of time. A number of projects initiated in Sindh were,  primarily,  through  NGOs  working  for  ECE  promotion.  Some  significant  projects,  for instance, are listed below. The following table presents past project on ECE in Sindh.
 
+Table 4.2: Examples of Past Projects on ECE in Sindh
+
 Agency | Project title | Timeline | Areas covered | Description
 --- | --- | --- | --- | ---
 CRI | Interactive teaching and learning program | 2006-2009 | Karachi, Hyderabad | Program initiated with the funding from USAID
-
-Table 4.2: Examples of Past Projects on ECE in Sindh
 
 Page 3 of 155
 
@@ -74,13 +89,13 @@ The current education policy has put significant emphasis on Early Childhood Edu
 
 ##### Policy Actions for ECE - NEP 2009
 
-Policy Action  1
+Policy Action 1
 
-Policy Action  2
+Improvements in quality of ECE shall be based on a concept of holistic development of the child that provides a stimulating, interactive environment, including play, rather than a focus on regimes that require rote learning and rigid achievement standards.
 
-Improvements in quality of ECE shall be based on a concept of holistic development of  the  child  that  provides  a  stimulating,  interactive  environment,  including  play, rather  than  a  focus  on  regimes  that  require  rote  learning  and  rigid  achievement standards.
+Policy Action 2
 
-ECE age group shall be recognized as comprising 3 to 5 years. At least one year preprimary education shall be provided by the State and universal access to ECE shall be ensured within the next ten years.
+ECE age group shall be recognized as comprising 3 to 5 years. At least one year pre-primary education shall be provided by the State and universal access to ECE shall be ensured within the next ten years.
 
 Page 4 of 155
 
@@ -88,34 +103,34 @@ Page 4 of 155
 
 [[START OF PAGE 5]]
 
-Policy Action  3
+Policy Action 3
 
-Policy Action  4
+Provision of ECE shall be attached to primary schools which shall be provided with additional budget, teachers and assistants for this purpose.
 
-Policy Action  5
+Policy Action 4
 
-Provision of ECE shall be attached to primary schools which shall be provided with additional budget, teachers and assistants for this purpose .
+For ECE teachers, a two-year specialized training in dealing with young children shall be a necessary requirement.
 
-For  ECE  teachers,  a  two-year  specialized  training  in  dealing  with  young  children shall be a necessary requirement.
+Policy Action 5
 
-This  training  shall  be  on  the  basis  of  the  revised  ECE  National  Curriculum.  The curriculum and support material for ECE shall take account of the cultural diversity of particular areas.
+This training shall be on the basis of the revised ECE National Curriculum. The curriculum and support material for ECE shall take account of the cultural diversity of particular areas.
 
 (cf. NEP 2009)
 
 In response to ECE related commitments, a number of donor agencies have also initiated some ECE specific interventions; for instance:
+
+Table 4.3: Current and Future ECE Interventions in Sindh (Donor-funded)
 
 Donor | Nature of Intervention | Nature of support
 --- | --- | ---
 UNESCO | a) ECE Resource Center: Continuation of technical assistance to ECE Resource Center established at PITE, Nawabshah b) Guidebooks: Improvement, printing and dissemination of teacher guidebooks on ECE c) Training of Trainers workshops on ECE methodologies ( This has been and being done by UNICEF also ) | Technical and financial assistance to the implementing agency
 World Bank | Opening of new schools under public private partnership with ECE as inbuilt feature of the schools | Technical and financial support to the implementing agency
 
-Table 4.3: Current and Future ECE Interventions in Sindh (Donor-funded)
-
 The Early Childhood Education initiatives though are undertaken by the government, there is still a need to identify a generic implementation framework to streamline ECE in schools.
 
 #### 4.1.2 Theoretical Analysis
 
-Educational  research  suggests  that  early  experiences  of  a  child  have  profound  effect  on  their attainments at later stages in life (both, positive and negative). Therefore, it is important to invest on  child's  education  to  provide  positive  and  enabling  experiences  right  from  their  early  age. Adequate early childhood programs not only help in the development of brain but also contribute to the physical, emotional and social development of child.
+Educational research suggests that early experiences of a child have profound effect on their attainments at later stages in life (both, positive and negative). Therefore, it is important to invest
 
 Page 5 of 155
 
@@ -123,19 +138,22 @@ Page 5 of 155
 
 [[START OF PAGE 6]]
 
-There are several curricular approaches to preparing children through early childhood programs such as: (1) The Creative Curriculum; (2) High/ Scope; (3) Project Approach; (4) Reggio Emilia; and  (5)  Montessori.  The  ECE  curriculum  developed  in  Pakistan  is  widely  influenced  by  the High-scope  approach, as the document  states, 'The  National  ECE  Curriculum  has  been influenced by the High/Scope Curriculum, which is a developmentally appropriate model, based on Jean Piaget's theory of cognitive development. Great care has been taken to ensure that the active  learning  model  in  this  curriculum  is  culturally  relevant,  and  is  firmly  grounded  in  the Pakistani context and the needs of our society.' 1
+on child’s education to provide positive and enabling experiences right from their early age. Adequate early childhood programs not only help in the development of brain but also contribute to the physical, emotional and social development of child.
+
+There are several curricular approaches to preparing children through early childhood programs such as: (1) The Creative Curriculum; (2) High/ Scope; (3) Project Approach; (4) Reggio Emilia; and (5) Montessori. The ECE curriculum developed in Pakistan is widely influenced by the High-scope approach, as the document states, ‘The National ECE Curriculum has been influenced by the High/Scope Curriculum, which is a developmentally appropriate model, based on Jean Piaget's theory of cognitive development. Great care has been taken to ensure that the active learning model in this curriculum is culturally relevant, and is firmly grounded in the Pakistani context and the needs of our society.’¹
 
 #### 4.1.3 Analyzing the Current Situation
 
 According to SEMIS Census 2011-12, the total enrolment in katchi class is more than half a million. This figure includes both, un-admitted and admitted children. Yet,  it  is  a  significant  number  of  students  that  come  to schools in their early age. In spite of this large number of
 
-2009-2010 | 2011-2012
+Table 4.4: Enrolment of katchi class
+
+ | 2009-2010 | 2011-2012
 --- | --- | ---
 Boys | 395,886 | 324,841
 Girls | 308,684 | 271,439
 Total | 704,570 | 596,308
-
-Table 4.4: Enrolment of katchi class
+Source: SEMIS 2009-2010 and 2011-2012
 
 students, there is still a huge shortage of professionally developed teachers in ECE curriculum.
 
@@ -153,28 +171,27 @@ Page 6 of 155
 
 The Annual Status of Education Report (ASER) 2012 indicates that around 62.4% children of ECE age were out of school in Sindh. ASER report is based on a survey conducted in 17 districts of Sindh. The same report further indicates that 37.6% children are attending some kind of early education: 89.9% of these are going to government schools, whereas, 9.2% are going to public schools. Madarasah is a source of ECE/ pre-schooling for 0.4% of the children. There is hardly any  data  providing  evidence  that  these  ‗enrolled'  students  are  receiving  age  appropriate education.
 
-Table 4.5: Percentage Distribution of Children according to Age and School
+Table 4.5: Percentage Distribution of Children according to Age and School type
 
-type
-
-Age group | Govt. | Pvt. | Madrasah | Others | Out-of- school 2011 | Out-of- school 2010
+Age group | Govt. | Pvt. | Madrasah | Others | Out-of-school 2011 | Out-of-school 2010
 --- | --- | --- | --- | --- | --- | ---
 3 | 10.6 | 0.7 | 0.0 | 0.0 | 88.7 | 91.8
 4 | 28.0 | 3.1 | 0.3 | 0.1 | 68.6 | 76.1
 5 | 55.3 | 5.8 | 0.3 | 0.3 | 38.3 | 43.8
-3-5 | 33.8 | 3.5 | 0.2 | 0.1 | 62.4
+3-5 | 33.8 | 3.5 | 0.2 | 0.1 | 62.4 |
 Total | 37.6 | 62.4
 By Type | 89.9 | 9.2 | 0.5 | 0.4
 
 Source: ASER 2012
 
-there is no separate identification of ECE schools in the SEMIS  data.  Moreover,  the  SEMIS  data  collection form  also  does  not  contain  category  for  pre-primary schooling,  suggesting  that  the  pre-primary  schooling does not stand on its own as a separate entity.
+There is a general lack of reliable statistics due to lack of clarity on the definition of various ECE approaches. Since ECE has not been formalized, there is no separate identification of ECE schools in the SEMIS data. Moreover, the SEMIS data collection form also does not contain category for pre-primary schooling, suggesting that the pre-primary schooling does not stand on its own as a separate entity.
 
-The current available statistics (number of enrolments), as mentioned earlier, do not necessarily mean that the children  in katchi class  are  actually  benefiting  from ECE. The ECE class demands child-friendly environment,  a  variety  of  learning  resources  and  age appropriate  methodologies.  Mere  attendance  and/  or There is a general lack of reliable statistics  due  to  lack of clarity on the definition  of  various ECE approaches. Since  ECE  has  not been formalized,
+The current available statistics (number of enrolments), as mentioned earlier, do not necessarily mean that the children in katchi class are actually benefiting from ECE. The ECE class demands child-friendly environment, a variety of learning resources and age appropriate methodologies. Mere attendance and/ or enrolment in akatchi class donot serve the purposes envisaged by the ECE curriculum.
 
-Number of | Type of Schools
+Table: 4.6: Availability of Rooms at Schools
+
+Number of Rooms | Boys | Girls | Mix
 --- | --- | --- | ---
-Rooms | Boys | Girls | Mix
 5 rooms | 450 | 416 | 898
 6 rooms | 164 | 151 | 385
 7 rooms | 108 | 93 | 212
@@ -183,11 +200,7 @@ Rooms | Boys | Girls | Mix
 10+ Rooms | 166 | 165 | 339
 Total | 1028 | 944 | 2053
 
-Table: 4.6: Availability of Rooms at Schools
-
 Source: SEMIS 2010-11
-
-enrolment in a katchi class donot serve the purposes envisaged by the ECE curriculum.
 
 Most of the pre-primary classes ( katchi ) are attached to primary schools with or without proper rooms allocated. Sometimes, these children are treated as non-enrolled children and, therefore, not formally considered or counted in the enrolment figures. In Sindh, there are a total of 44,522 primary schools. Of these schools, there are merely 4025 schools which have 5 or more rooms. Table 4.6 indicates the distribution of schools according the number of rooms.
 
@@ -257,12 +270,12 @@ Page 9 of 155
 
 Next, Table 4.7 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
 
+Table 4.7: ECE: Objectives, Strategies, Targets and Activities
+
 Objectives | Strategies | Targets (2013-2016) | Activities
 --- | --- | --- | ---
 Strategic Objective 1 Develop ECE policy and minimum standards for ECE (e.g., space, enrollment, teacher requirements, teaching learning material, etc.) |  Mobilizing stakeholders through advocacy for policy approval/ legislation  Documentation of the existing ECE models, particularly, in Pakistan  Reviewing the international experiences in ECE  Dialogue and review with stakeholders |  By the end of 2014, ECE policy is developed and approved through legislation  Minimum standards for ECE developed and approved through BoC by 2014 |  Arranging dialogue on ECE policy  Development of ECE policy through consultative process  Arranging dialogue on the minimum standards for ECE  Formulating ECE standards through broad-based consultation process  Ensuring that both public and private schools are following the standards through regulations  Development of the appropriate teacher learning resources
 Strategic Objective 2 Phase-wise establishment of model ECE Centers across the province and transforming katchi classes into ECE classes |  Phase-wise establishment of model ECE centers at every district and taluka  Use of existing physical infrastructure of the schools  Development of existing teachers as ECE master trainers  Engaging the private sector for the professional development and recruitment of the teachers  Regular review and provision of theteacher resource learning material to ensure that it is appropriate and effective to support children learning |  121 ECE Resource Centers are established and running by 2016  By the end of 2016, at least 6,000Katchi classes are transformed into ECE |  Identify the schools based on established criteria  Set up the ECE resource centers in schools  Establish proper ECE classrooms in selected government schools  Establish community based ECE model, where physical space is not available  Mobilize SMCs for ECEs for the enrollment in ECE  Develop ECE infrastructure
-
-Table 4.7: ECE: Objectives, Strategies, Targets and Activities
 
 Page 10 of 155
 
@@ -285,11 +298,11 @@ Page 11 of 155
 
 ## 5. PRIMARY AND ELEMENTRY EDUCATION
 
-‗The foundation for future prosperity is based upon present basic schooling'
+‘The foundation for future prosperity is based upon present basic schooling’
 
 Elementary education consists of 8 years of schooling (from Class1 to 8); mostly in two stages Primary (Class 1 to 5) and Middle (Class 6-8). The children are enrolled in primary schools at the age of 5+. There are three categories of schools (on the basis of gender) for a child to  get enrolled in: girls, boys and mixed or co-education schools. The mixed schools constitute 61% of schools in the province, in which primary-only schools constitute 91%.  Some schools are run in two shifts - morning and afternoon. The medium of instruction at the primary level is Sindhi, Urdu  and  English,  and  a  majority  of  schools  are  Sindhi  medium.  English  is  also  taught  as  a subject in all schools, from Class 1 onwards.
 
-Elementary  education  is  evidently  the  most  concerted  area,  and  most  of  the  resources  are consumed at this level. However, all the efforts and resources combined have not produced the desired  results.  In  Sindh,  as  in  other  parts  of  the  country,  the  elementary  education  caters  to children  of  age  5  to  12.  With  the  18th  Constitutional  Amendment,  education  has  become  the provincial  subject  and  due  to  the  inclusion  of  Article  25-A,  which  states  that  the  -State  shall provide free and compulsory education to all children of the age of five to sixteen years in such manner as may be determined by law‖, education has become compulsory. This constitutional amendment would largely influence the elementary education in each province. Sindh is the first province that has passed Free and Compulsory Education Bill under Article 25-A of the 18th Constitutional Amendment.
+Elementary education is evidently the most concerted area, and most of the resources are consumed at this level. However, all the efforts and resources combined have not produced the desired results. In Sindh, as in other parts of the country, the elementary education caters to children of age 5 to 12. With the 18th Constitutional Amendment, education has become the provincial subject and due to the inclusion of Article 25-A, which states that the “State shall provide free and compulsory education to all children of the age of five to sixteen years in such manner as may be determined by law”, education has become compulsory. This constitutional amendment would largely influence the elementary education in each province. Sindh is the first province that has passed Free and Compulsory Education Bill under Article 25-A of the 18th Constitutional Amendment.
 
 ### 5.1. Policy Context and Situation Analysis
 
@@ -297,7 +310,7 @@ Elementary  education  is  evidently  the  most  concerted  area,  and  most  of
 
 Historically, since the inception of the country, numerous programmes and attempts have been made  to  achieve  universal  primary  education  and  to  increase  the  overall  literacy  level  in  the country. However, the level of commitment and capacities required to achieve these overarching goals  were  lacking,  since  no  policy  has  been  implemented/  enforced.  What  follows  is  a  brief synopsis of the past education policies and the policy directions.
 
-Table 5.1: Historical Overview of Education Policies related to Primary/ Elementary Education It is evident from the past policy analysis that the main focus of all educational policies was to achieve Universal Primary Education. However, the targets tend to get revised with each policy. Since 1998, there has been a growing realization that the government did not have the necessary capacity to achieve the targets instantly; rather, some benchmarking needed to be done for every three or five years. ESR Action plan document is a representative example of such a policy shift.
+Table 5.1: Historical Overview of Education Policies related to Primary/ Elementary Education
 
 Page 12 of 155
 
@@ -310,7 +323,7 @@ Timelines | Policy | Policy directions/ considerations | Strategies
 1947 | National Education Conference |  Emphasized free and compulsory primary education  Considered problems of medium of instruction, teacher training, physical education, etc.  Achieve UPE in two decades |  Levy a special tax to finance primary education  Primary school age group 6-11  Encourage private sector to open schools
 1951 | National Plan of Educational Development |  66% children in the age group of 6 to 11 were out of school  The principal constraint was the lack of trained teachers as 50% teachers in primary schools were untrained and the expansion of primary schools would require over 86,000 additional teachers |  Establish over 24,000 new primary schools with a total capacity of 3.7 million pupils  Develop more teacher training institutions to fill in the teacher gap
 1959 | Report of the Commission on National Education |  Less than 50 percent of the children of primary school age were enrolled in schools  Achieve UPE within a period of 15 years |  Eight years compulsory education to make the child literate  Female teachers for primary education  Resource mobilization for additional funds
-1970 | The New Education Policy |  Reaffirmed the government's commitment -to the objective of universal elementary education‖  Achieve UPE by 1980  Particular stress on girls education |  Rapid expansion of primary schools  Emphasis on female enrolment  Female teachers for primary schools
+1970 | The New Education Policy |  Reaffirmed the government's commitment “to the objective of universal elementary education”  Achieve UPE by 1980  Particular stress on girls education |  Rapid expansion of primary schools  Emphasis on female enrolment  Female teachers for primary schools
 1972 | The Education Policy |  Equalizing access to education through provision of special facilities for women, under-privileged groups.  Free and universal up to Class X  Achieve UPE for boys by 1979 and for girls by 1984  Achieve UEE up to Class VIII for boys by 1982 and for girls by 1987 |  Construct 61,000 additional classrooms for primary classes  Train 150,000 teachers  Recruit an additional 75,000 teachers through the National Literacy Corps
 1979 | National Education Policy and Implementation Program |  Achieve the Boys UPE by 1987 and Girls UPE by 1992  Eliminate wastage to achieve 60 percent retention rate by 1983 and 100 percent thereafter |  Reconstruct/ improve 17,000 existing primary schools  Open 13,000 new primary schools, mainly in rural areas
 
@@ -323,8 +336,8 @@ Page 13 of 155
  Establish 5000 mosque schools for boys
 --- | --- | --- | ---
 1986 | Various schemes were given to national education plan, e.g. Drop-in schools, Nationwide Literacy Program, Nai Roshni Schools, Etc. |  To provide an opportunity toschool dropouts and out of school children, especially, children of low income strata to complete primary education  To impart lower secondary education through non-formal methods to 2,25,000 children and enable them to join formal upper secondary classes by 1989 |  Reduce drop-out population/ out of school children through school monitoring and community mobilization  Introduce a system of non-formal primary education
-1992 | National Education Policy |  Basic education for all shall be pursued not merely as a sector-based target, but as an integral part of human development plan  Emphasis on female teacher recruitment Eliminate disparity  Achieve UPE by 2002  Increase the literacy rate to 70 per cent by the year 2002  Make primary education compulsory |  Setting up model schools (male and female) in rural areas;  Introducing compulsory social service for students;  Opening of 107,000 new primary and mosque schools  Training and recruitment of 265000
-1998 | National Education Policy |  Double the rate of literacy by the year 2000  Involvement of donor agencies  The Policy relating to elementary education was based on agreed themes and strategies of Social Action Program  Key issues: more than 5.5 million primary school age (5-9) children are left-outs; high dropout rates; teacher absenteeism ; weak instructional supervision; about one-fourth of the primary school teachers are untrained and the present training infrastructure does not appear to improve the quality of instruction  By 2002-03, 90 percent of the children in the primary age group (5-9) will be in schools and by the year 2010, the gross enrolment will rise to 105 per cent  Consequently, the promulgation and enforcement of Compulsory Primary Education Act will be possible by 2004-05‖ | new primary teachers  The Policy proposed to construct 190,000 new formal primary schools, 250,000 non- formal basic education centers, and 57,000 mosque schools, upgrade 60,000 primary schools, begin double shifts in 20,000 existing primary schools, and recruit 527,000 additional teachers  Necessary resources were also been pledged at the highest level to raise the expenditure on education from 2.2 to 4 percent of GNP
+1992 | National Education Policy |  Basic education for all shall be pursued not merely as a sector-based target, but as an integral part of human development plan  Emphasis on female teacher recruitment Eliminate disparity  Achieve UPE by 2002  Increase the literacy rate to 70 per cent by the year 2002  Make primary education compulsory |  Setting up model schools (male and female) in rural areas;  Introducing compulsory social service for students;  Opening of 107,000 new primary and mosque schools  Training and recruitment of 265000 new primary teachers
+1998 | National Education Policy |  Double the rate of literacy by the year 2000  Involvement of donor agencies  The Policy relating to elementary education was based on agreed themes and strategies of Social Action Program  Key issues: more than 5.5 million primary school age (5-9) children are left-outs; high dropout rates; teacher absenteeism ; weak instructional supervision; about one-fourth of the primary school teachers are untrained and the present training infrastructure does not appear to improve the quality of instruction  By 2002-03, 90 percent of the children in the primary age group (5-9) will be in schools and by the year 2010, the gross enrolment will rise to 105 per cent  Consequently, the promulgation and enforcement of Compulsory Primary Education Act will be possible by 2004-05” |  The Policy proposed to construct 190,000 new formal primary schools, 250,000 non-formal basic education centers, and 57,000 mosque schools, upgrade 60,000 primary schools, begin double shifts in 20,000 existing primary schools, and recruit 527,000 additional teachers  Necessary resources were also been pledged at the highest level to raise the expenditure on education from 2.2 to 4 percent of GNP
 2004 | Education Sector Reform-Action Plan |  Universal Primary/ Elementary Education is the most challenging milestone for the Government of Pakistan Targets  Access: Increase participation rate at |  National Ordinance for Compulsory Primary Education  Improving infrastructure in
 
 Page 14 of 155
@@ -333,30 +346,29 @@ Page 14 of 155
 
 [[START OF PAGE 15]]
 
-primary level (I-V) by 4% annually (baseline 89%) through formal and non- formal delivery systems  Equity : Reduce gender disparity by 10% annually  Completion: Increase completion rate by 3% annually (baseline 50%)  Increasing gross participation rate from 89 percent to 100 percent (4% per annum)  Reducing gender disparity by 10% annually  Enhancing primary completion rate from 50 percent to 70 percent (6% per annum) | existing primary schools  Construction of new schools  Upgrading of existing primary schools to elementary facilities  Initiating Early Childhood Education in existing katchi classes  Capacity building for Decentralized management at district and local level
---- | ---
+primary level (I-V) by 4% annually (baseline 89%) through formal and non-formal delivery systems  Equity : Reduce gender disparity by 10% annually  Completion: Increase completion rate by 3% annually (baseline 50%)  Increasing gross participation rate from 89 percent to 100 percent (4% per annum)  Reducing gender disparity by 10% annually  Enhancing primary completion rate from 50 percent to 70 percent (6% per annum) | existing primary schools  Construction of new schools  Upgrading of existing primary schools to elementary facilities  Initiating Early Childhood Education in existing katchi classes  Capacity building for Decentralized management at district and local level
 
-In light of the above inconsistent policy measures and deteriorating indicators of education, the current National Education Policy 2009 was formulated. Like the previous policies, this policy also  indicates  its  commitment  to  achieving  universal  primary  education.  However,  it  also highlighted the loopholes in the system, suggesting some action points to fill in the gaps.
+It is evident from the past policy analysis that the main focus of all educational policies was to achieve Universal Primary Education. However, the targets tend to get revised with each policy. Since 1998, there has been a growing realization that the government did not have the necessary capacity to achieve the targets instantly; rather, some benchmarking needed to be done for every three or five years. ESR Action plan document is a representative example of such a policy shift.
+
+In light of the above inconsistent policy measures and deteriorating indicators of education, the current National Education Policy 2009 was formulated. Like the previous policies, this policy also indicates its commitment to achieving universal primary education. However, it also highlighted the loopholes in the system, suggesting some action points to fill in the gaps.
 
 ##### Policy Provisions for Primary/ Elementary - NEP 2009
 
+Policy Action 1
+
 Achieve UPE by 2015.
+
+Policy Action 2
 
 Official age for primary education shall be 6 to 10 years
 
-Efforts to provide the necessary financial resources to achieve the EFA goals
+Policy Action 3
 
-.
+Efforts to provide the necessary financial resources to achieve the EFA goals.
+
+Policy Action 4
 
 Wherever feasible, primary schools shall be upgraded to middle level.
-
-Policy Action  1
-
-Policy Action  2
-
-Policy Action  3
-
-Policy Action  4
 
 Page 15 of 155
 
@@ -364,40 +376,40 @@ Page 15 of 155
 
 [[START OF PAGE 16]]
 
+Policy Action 5
+
 International development partners shall be invited through a well-developed plan for expanding school facilities.
+
+Policy Action 6
 
 High priority shall be paid to reducing the drop-out rates.
 
+Policy Action 7
+
 Food based incentives shall be introduced to increase enrolment and improve retention and completion rates, especially for girls.
+
+Policy Action 8
 
 Schools shall be made more attractive by providing attractive learning environment, missing basic facilities and other measures.
 
+Policy Action 9
+
 Government shall establish at least one residential school in each province.
+
+Policy Action 10
 
 Every child, on admission in Grade I, shall be allotted a unique ID that will continue to remain with the child throughout his or her academic career.
 
 (cf. NEP 2009)
 
-Policy Action  5
+In recent years, the GoS has not only increased the overall education budget by 15%, but has also tapped on the international funding through development partners. As a result, there have been a number of projects designed and delivered through international development agencies and through ADPs. Some of the recent education programs initiated in Sindh since last five years are indicated in the following table.
 
-Policy Action  6
-
-Policy Action  7
-
-Policy Action 8
-
-Policy Action  9
-
-Policy Action 10
-
-In recent years, the GoS has not only increased the overall education budget by 15%, but has also tapped on the international funding through development partners. As a result, there have been a number  of  projects  designed  and  delivered  through  international  development  agencies  and through ADPs. Some of the recent education programs initiated in Sindh since last five years are indicated in the following table.
+Table 5.3: Recent Education Programmes (in response to the current education policy directives)
 
 Programs | Salient Features | Response to Policy
 --- | --- | ---
 Sindh Education Reform Programme (SERP 1)- 2008 to 2011 (Funded by the World Bank and European Union |  School rehabilitation and improvement  Free textbooks  Girls stipend  Upgrading SEMIS  Gauging learning outcomes of students Assessments  Opening up of schools through public private partnerships  Merit based Recruitment of Teachers,  Education Management Reform  School Management Committees | Improving access, International development agencies involvement, schools with better learning environment, Student profiling
 Education Fund For |  Work predominantly with low cost private and | Improving access,
-
-Table 5.3: Recent Education Programmes (in response to the current education policy directives)
 
 Page 16 of 155
 
@@ -451,7 +463,9 @@ Page 18 of 155
 
 [[START OF PAGE 19]]
 
-Similarly, the percentage of male staff is much higher (triple and double) than the female staff in primary and middle schools respectively. Both of the indicators  show  that  there  are  huge gender disparities in the system; especially,  the  proportion  of  female staff  is  quite  alarming.  The  provision of female staff has a positive relationship with the enrolment of
+Similarly, the percentage of male staff is much higher (triple and double) than the female staff in primary and middle schools respectively. Both of the indicators show that there are huge gender disparities in the system; especially, the proportion of female staff is quite alarming. The provision of female staff has a positive relationship with the enrolment of girls, as in the rural culture of Sindh, communities are generally reluctant to send their girls to the schools where male teachers are teaching in the classes.
+
+Table 5.5: Elementary Schools’ Basic Statistics
 
 Indicators | Primary | Middle | Elementary
 --- | --- | --- | ---
@@ -463,15 +477,13 @@ Girls enrolment ratio | 0.41 | 0.48 | 0.52
 Percent male staff | 0.72 | 0.63 | 0.48
 Percent female staff | 0.28 | 0.37 | 0.52
 
-Table 5.5: Elementary Schools' Basic Statistics
-
 Source: SEMIS 2011-12
-
-girls, as in the rural culture of Sindh, communities are generally reluctant to send their girls to the schools where male teachers are teaching in the classes.
 
 It is evident from Table 5.6 that the girls-only schools are much lesser than the mixed schools i.e. only 16% girls' schools exist in the province. Although a large number of mixed schools also exist in the system, the average strength of girls in girls-only schools is 75% as compared to 25% in the mixed schools and 14% in the boys' schools. This clearly shows that the communities are much  more  inclined  towards  sending  their  girls  in  girls'  only  schools,  and  it  is  important  to establish separate facilities for girls.
 
-The trend of availability of schools in the last five years  (see  Table  5.6) depicts that the growth rate of schools is  decreasing,  i.e.  instead  of  increase in  the  number  of  schools,  there  is actually  a  reduction  of  schools  in  the overall  public  elementary  education system.  The  reduction  of  schools  is
+The trend of availability of schools in the last five years (see Table 5.6) depicts that the growth rate of schools is decreasing, i.e. instead of increase in the number of schools, there is actually a reduction of schools in the overall public elementary education system. The reduction of schools is mostly related to the closure of non-viable schools and clustering of schools (school consolidation). Currently, around 2200 new schools have been identified to expand the access to education in the province.
+
+Table 5.6: Gender-wise Number of Schools for 5 years
 
 Year | Boys | Girls | Mixed | Growth Rate %
 --- | --- | --- | --- | ---
@@ -481,19 +493,15 @@ Year | Boys | Girls | Mixed | Growth Rate %
 2010 | 12,055 | 7,870 | 27,102 | -1.44
 2011 | 10,990 | 7,202 | 27,451 | -2.94
 
-Table 5.6: Gender-wise Number of Schools for 5 years
-
 Source: SEMIS 2011-12
 
-mostly related to the closure of non-viable schools and clustering of schools (school consolidation). Currently, around 2200 new schools have been identified to expand the access to education in the province.
-
 In addition to existing school facilities, the status of the building conditions (see Table 5.7) is another hindering factor relevant to access and equity (it also relates well to the issue of quality ): Only one-third of the buildings are in satisfactory condition, with little or no resources such as, electricity, water or toilet.
+
+Table 5.7 Conditions of School buildings
 
 N=35896 | Satisfactory | Need Repair | Dangerous | No info
 --- | --- | --- | --- | ---
 Boys | 2,613 | 4,493 | 1,470 | 87
-
-Table 5.7 Conditions of School buildings
 
 Page 19 of 155
 
@@ -501,81 +509,51 @@ Page 19 of 155
 
 [[START OF PAGE 20]]
 
-##### Efficiency
-
-Every education system must be assessed on the basis of how efficient it is to impart consistent
-
-education to the children. On reviewing some basic efficiency-based  statistics  (see  Table  5.8),  it  is evident  that  the  education  in  Sindh  is  lagging  far behind the desirable or acceptable level. For example, the transition rate from primary to middle grade (i.e. how many children in Class 5 actually get enrolled in Class 6) is about 60%. This means that  more  than  one-third  of  the  children  do  not continue their education after primary level.
-
-Enrolment | 1,890,162 | 1,370,412 | 3,260,574
---- | --- | --- | ---
-Teachers | 78,844 | 32,473 | 111,317
-
-Table 5.9: Enrolment vis-à-vis No. of Teachers
-
+Girls | 1,576 | 2,975 | 1,080 | 66
+Mixed | 6,175 | 11,370 | 3,825 | 166
+Total | 10,364 | 18,838 | 6,375 | 319
 Source: SEMIS 2011-12
 
-The  situation  is  more  critical  if  the  retention rate of children from Grade 1 to 5 and Grade 1 to  8  is  considered.  Only  50%  of  the  students actually  survive  from  Class  1  to  5,  which implies  that  the  dropout  of  the  children  at  the primary  level  is  quite  alarming.  The  situation
+##### Efficiency
 
-becomes graver in higher classes, as the available figures depict that out of every 100 children, the system is able to retain only 27 children in the school. After reviewing these simple statistics, it  is  quite  obvious  evident  that  the  elementary  education  system  needs  to  be  revamped  and revamped on war footing, if UPE targets are to be achieved by 2020.
+Every education system must be assessed on the basis of how efficient it is to impart consistent education to the children. On reviewing some basic efficiency-based statistics (see Table 5.8), it is evident that the education in Sindh is lagging far behind the desirable or acceptable level. For example, the transition rate from primary to middle grade (i.e. how many children in Class 5 actually get enrolled in Class 6) is about 60%. This means that more than one-third of the children do not continue their education after primary level.
 
-##### Quality
-
-Quality of education is a determining factor for completion. The performance of Sindh in terms of the quality  of  education  in  Sindh  is  perhaps  lower  than any other indicators. The recent ASER survey indicates  that  even  the  basic  literacy  and  numeracy
-
-14
-
-11
-
-11
-
-20
-
-17
-
-16
-
-5
-
-10
-
-15
-
-20
-
-25
-
-URDU
-
-ENGLISH
-
-MATHS
-
-F I G .   5 . 2   A S E R   B A S I C   C O M P E T E N C Y
-
-L E V E L   I N   S I N D H   ( % A G E )
-
-Girls
-
-Boys
-
-competencies are not imparted to the students and their test results are not more than 20%.
+Table 5.8: Efficiency Indicators
 
 Transition rate from primary to middle | 62%
 --- | ---
 Retention rate from grade 1 to grade 5 | 49%
 Retention rate from grade 1 to grade 8 | 27%
 
-Table 5.8: Efficiency Indicators
+Source: SEMIS 2011-12
+
+The situation is more critical if the retention rate of children from Grade 1 to 5 and Grade 1 to 8 is considered. Only 50% of the students actually survive from Class 1 to 5, which implies that the dropout of the children at the primary level is quite alarming. The situation becomes graver in higher classes, as the available figures depict that out of every 100 children, the system is able to retain only 27 children in the school. After reviewing these simple statistics, it is quite obvious evident that the elementary education system needs to be revamped and revamped on war footing, if UPE targets are to be achieved by 2020.
+
+Table 5.9: Enrolment vis-à-vis No. of Teachers
+
+Enrolment | 1,890,162 | 1,370,412 | 3,260,574
+--- | --- | --- | ---
+Teachers | 78,844 | 32,473 | 111,317
 
 Source: SEMIS 2011-12
 
-Girls | 1,576 | 2,975 | 1,080 | 66
---- | --- | --- | --- | ---
-Mixed | 6,175 | 11,370 | 3,825 | 166
-Total | 10,364 | 18,838 | 6,375 | 319
+##### Quality
 
-Source: SEMIS 2011-12
+Quality of education is a determining factor for completion. The performance of Sindh in terms of the quality of education in Sindh is perhaps lower than any other indicators. The recent ASER survey indicates that even the basic literacy and numeracy competencies are not imparted to the students and their test results are not more than 20%.
+
+FIG. 5.2 ASER BASIC COMPETENCY LEVEL IN SINDH (%AGE)
+
+ | Girls | Boys
+--- | --- | ---
+URDU | 14 | 20
+ENGLISH | 11 | 17
+MATHS | 11 | 16
+
+5
+10
+15
+20
+25
 
 Page 20 of 155
 
@@ -583,21 +561,9 @@ Page 20 of 155
 
 [[START OF PAGE 21]]
 
-The  quality  of  education  is  attributed  through  multiple  factors ranging from quality of teachers, learning environment, children's health,  and  support  mechanisms  for  the  children  both,  at  school and  at  home.  Even  on  the  very  basic  aspect  of  the  learning environment i.e., the physical infrastructure and support, the poor quality of infrastructure is  evident from the fact that the majority of  schools  lack  basic  facilities  e.g.  electricity,  toilet  and  water facilities.  Facilities,  such  as  labs  and  libraries  are  virtually  nonexistent  (at  only  0.3%).  Moreover,  the  system  also  needs  to improve the quality of teachers (discussed in Section 8), and the overall system's  management (discussed in Section 10) to improve the overall quality of education.
+The quality of education is attributed through multiple factors ranging from quality of teachers, learning environment, children’s health, and support mechanisms for the children both, at school and at home. Even on the very basic aspect of the learning environment i.e., the physical infrastructure and support, the poor quality of infrastructure is evident from the fact that the majority of schools lack basic facilities e.g. electricity, toilet and water facilities. Facilities, such as labs and libraries are virtually non-existent (at only 0.3%). Moreover, the system also needs to improve the quality of teachers (discussed in Section 8), and the overall system’s management (discussed in Section 10) to improve the overall quality of education.
 
-### 5.2. Key Issues and Challenges
-
-From the above analysis, it is quite evident that the system is facing some serious issues, which are being synthesized in the following lines:
-
- Low primary enrolment and increasing gender disparity in participation  - the situation gets further deteriorated with the transition rate of students from one grade to another and from one education level to another.
-
- High prevalence of small schools (e.g. 50% one-room, 50% one-teacher) leading to wider use of teaching through combining  multiple grades and poor education quality, discouraging the school from becoming an efficient and effective institution with proper system and procedures in place.
-
- Lack  of  basic  facilities  (e.g.,  proper  classrooms,  washrooms,  drinking  water,  security, etc.) is a major constraint, especially, in the rural areas.
-
- Shortage of qualified and specialized teaching force, especially, for the females (and at the middle and higher levels, and in rural areas) is an important issue. Further, the quality of  teaching  is  more  important  because  incompetent  teachers  may  account  more  for  the wastage in the system.
-
- Limited capacity for effective school governance and education management at all levels; especially,  the  supervisory  and  accountability  system  is  quite  weak.  Basic  student profiling data is not part of the province's education management information system due to  which  important  indicators  of  student  retention  and  drop-out  cannot  be  obtained reliably.
+Table 5.10 : Basic Facilities in Schools in percentage
 
 Electricity | 38.44
 --- | ---
@@ -609,9 +575,21 @@ Library | 0.39
 Play Ground | 25.15
 SMC | 87.02
 
-Table 5.10 : Basic Facilities in Schools in percentage
-
 Source: SEMIS 2011-12
+
+### 5.2. Key Issues and Challenges
+
+From the above analysis, it is quite evident that the system is facing some serious issues, which are being synthesized in the following lines:
+
+ Low primary enrolment and increasing gender disparity in participation - the situation gets further deteriorated with the transition rate of students from one grade to another and from one education level to another.
+
+ High prevalence of small schools (e.g. 50% one-room, 50% one-teacher) leading to wider use of teaching through combining multiple grades and poor education quality, discouraging the school from becoming an efficient and effective institution with proper system and procedures in place.
+
+ Lack of basic facilities (e.g., proper classrooms, washrooms, drinking water, security, etc.) is a major constraint, especially, in the rural areas.
+
+ Shortage of qualified and specialized teaching force, especially, for the females (and at the middle and higher levels, and in rural areas) is an important issue. Further, the quality of teaching is more important because incompetent teachers may account more for the wastage in the system.
+
+ Limited capacity for effective school governance and education management at all levels; especially, the supervisory and accountability system is quite weak. Basic student profiling data is not part of the province's education management information system due to which important indicators of student retention and drop-out cannot be obtained reliably.
 
 Page 21 of 155
 
@@ -643,11 +621,11 @@ From the above analysis, the following objectives have been formulated.
 
 Next, Table 5.10 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
 
+Table: 5.10: Primary and Elementary Education: Objectives, Strategies, Targets and Activities
+
 Objectives | Strategies | Target/ Indicators (2013 - 2016) | Activities
 --- | --- | --- | ---
 Strategic Objective 1 |  Document best practices in the region and local issues to access, especially for marginalized groups |  Document best practices to improve access by 2014  Document issues |  Document best practices to improve access  Conduct research study, addressing issues of
-
-Table: 5.10: Primary and Elementary Education: Objectives, Strategies, Targets and Activities
 
 Page 22 of 155
 
@@ -691,24 +669,24 @@ Page 25 of 155
 
 ## 6. SECONDARY AND HIGHER SECONDARY EDUCATION
 
--While elementary education determines the contours of the life pursuits of an individual, Secondary and Higher Secondary education determine the manner and measure of an individual's performance as a citizen and as a contributor to the economy both, for individual and State benefits‖ (White Paper 2007)
+“While elementary education determines the contours of the life pursuits of an individual, Secondary and Higher Secondary education determine the manner and measure of an individual’s performance as a citizen and as a contributor to the economy both, for individual and State benefits” (White Paper 2007)
 
 This  section  presents  the  analysis,  priorities  and  plan  pertaining  to  the  Secondary  and  Higher Secondary  Education  in  the  province.  In  the  context  of  Sindh,  the  secondary  education  (also known  as  matriculation)  refers  to  Grades  9 -10,  while  higher  secondary  education  refers  to Grades 11 -12, which is also known as Intermediate Education.
 
 The current education system in Sindh requires young students to make early choices for their future  careers  into  the  streams  of  Science(further  divided  in  Biology  and  Computer  Science), Arts, Commerce and Home Economics (for Girls only). After graduating from secondary school, a student has the following choices:
 
+Table 6.1: Existing Streams for Career Choices at Secondary Level
+
 Category | Choices
 --- | ---
-Science subjects (Physics, Chemistry, Biology, Mathematics, Computer Science) |  In science stream, a student can choose either pre - engineering or pre- medical group  Student has option to take other streams of science, arts, commerce and computer studies  The graduate can join intermediate college or a higher secondary school
+Science subjects (Physics, Chemistry, Biology, Mathematics, Computer Science) |  In science stream, a student can choose either pre-engineering or pre-medical group  Student has option to take other streams of science, arts, commerce and computer studies  The graduate can join intermediate college or a higher secondary school
 Graduating with Science, Arts, Commerce and Home Economics |  The graduate can only opt for subjects in the same stream  The graduate can join intermediate college or a higher secondary school
-
-Table 6.1: Existing Streams for Career Choices at Secondary Level
 
 ### 6.1. Policy Context and Situation Analysis
 
 #### 6.1.1. Policy Context: Historical Roots and Current Policy
 
-Secondary education has always been acknowledged as an important milestone in education. For instance,  the  Constitution  of  Pakistan,  in  its  Article  37-B,  commits  to  provision  of  secondary education:  -The  State  shall  remove  illiteracy  and  provide  free  and  compulsory  secondary education  within  minimum  possible  period.‖    The  newly  inducted  Article  25-A  reiterates  the same commitment.  The article says:
+Secondary education has always been acknowledged as an important milestone in education. For instance, the Constitution of Pakistan, in its Article 37-B, commits to provision of secondary education: “The State shall remove illiteracy and provide free and compulsory secondary
 
 Page 26 of 155
 
@@ -716,22 +694,24 @@ Page 26 of 155
 
 [[START OF PAGE 27]]
 
--The State shall provide free and compulsory education to all children of the age  of  five  to  sixteen  years  in  such  manner  as  may  be  determined  by  law.‖ (Article 25-A,Constitution of Pakistan 1973)
+education within minimum possible period.” The newly inducted Article 25-A reiterates the same commitment. The article says:
+
+“The State shall provide free and compulsory education to all children of the age of five to sixteen years in such manner as may be determined by law.” (Article 25-A,Constitution of Pakistan 1973)
 
 Recently,  the  Government  of  Sindh  has  passed  The  Sindh  Right  of  Children  to  Free  and Compulsory Education Bill, 2013.
 
 The following matrix provides an overview of historical development from the perspective of national educational policies.
 
+Table 6.2: Overview of Historical Development - National Educational Policies’ Context
+
 National Educational Policies | Focus on Secondary/ Higher Secondary Education
 --- | ---
-1947 First Educational Conference |  The ‗Committee of Primary and Secondary Education' of the Conference proposed that ‗the intermediate stage should be abolished and these classes i.e. XI and XII should be added to the secondary level'
-1951 Second Educational Conference |  The policy was concerned about untrained teacher and emphasized teachers' training at secondary levels
+1947 First Educational Conference |  The ‘Committee of Primary and Secondary Education’ of the Conference proposed that ‘the intermediate stage should be abolished and these classes i.e. XI and XII should be added to the secondary level’
+1951 Second Educational Conference |  The policy was concerned about untrained teacher and emphasized teachers’ training at secondary levels
 1957 National Education Commission |  Based on thorough analysis, emphasized that secondary education should be recognized as a complete stage in itself  At secondary level of education, the curriculum should offer a common core of subjects compulsory for all students and a variety of elective courses designed to prepare students for careers
 1969-70 The New Education Policy |  Building on 1959 policy, it proposed the creation of a District School Authority in each district. The Authority was to be autonomous with specific functions, to streamline the primary and secondary school system
 1972-80 The Education Policy |  Noticed the malpractices in the system of terminal examinations by the Boards of Intermediate and Secondary Education and put emphasis on making every effort to eliminate these malpractices- a goal yet to be achieved
 1979 National Education Policy |  Proposed replacement of the existing four-tier system; namely, primary, secondary, college, university to three tiers, namely, elementary, secondary and university. All schools need to be upgraded as higher secondary schools
-
-Table 6.2: Overview of Historical Development - National Educational Policies' Context
 
 Page 27 of 155
 
@@ -739,7 +719,7 @@ Page 27 of 155
 
 [[START OF PAGE 28]]
 
-1992 National Education Policy |  The policy proposed shifting of classes XI and XI1 from the colleges to the general schools and vocational schools
+1992 National Education Policy |  The policy proposed shifting of classes XI and XII from the colleges to the general schools and vocational schools
 --- | ---
 1998-2010 National Education Policy |  Proposed a conceptual framework to reform secondary education. The features were: enhancing access to secondary, integration with technical and vocational education based on our experiences and adequate development of a student to enter into world of work or further studies
 
@@ -761,7 +741,7 @@ Policy Action 2 | Student support shall be increased to prevent students from dr
 Policy Action 3 | Schools shall introduce more student-centered pedagogies.
 Policy Action 4 | Counseling facilities shall be made available to students from the elementary level onwards, in order to constructively utilize their energies, to deal with any displays of aggression amongst young students and to address any other psychological distress that a student may be in, by suggesting a suitable remedy.
 Policy Action 5 | Life Skills-Based Education (LSBE) shall be promoted.
-Policy Action 6 | Counseling at higher secondary level must also address the career concerns of young students and encourage them to take up studies as per their aptitude other than the -accepted‖ fields of study, be it technical, vocational or any other area of study.
+Policy Action 6 | Counseling at higher secondary level must also address the career concerns of young students and encourage them to take up studies as per their aptitude other than the “accepted” fields of study, be it technical, vocational or any other area of study.
 
 Page 28 of 155
 
@@ -769,21 +749,10 @@ Page 28 of 155
 
 [[START OF PAGE 29]]
 
-Policy Action  7
-
-Policy Action 8
-
-Policy Action  9
-
-Policy Action 10
-
-Schooling shall also be made more attractive by adding community service programmes.
-
-Grades XI and XII shall not be part of the college level and shall be merged with the school level, forming part of existing secondary schools where needed and provision of  necessary  human  and  physical  resources  shall  be  ensured.  This  exercise  shall  be undertaken after a detailed study of the failures of similar previous efforts.
-
-A  system  for  ranking  of  primary  and  secondary  educational  institutions  across  the country shall be introduced with rankings based on  result outcomes, extra-curricular activities and facilities provided to the students. This will encourage  healthy competition amongst schools.
-
-To create an order for excellence in the country, a -National Merit Programme‖ shall be introduced to award bright students
+Policy Action 7 | Schooling shall also be made more attractive by adding community service programmes.
+Policy Action 8 | Grades XI and XII shall not be part of the college level and shall be merged with the school level, forming part of existing secondary schools where needed and provision of necessary human and physical resources shall be ensured. This exercise shall be undertaken after a detailed study of the failures of similar previous efforts.
+Policy Action 9 | A system for ranking of primary and secondary educational institutions across the country shall be introduced with rankings based on result outcomes, extra-curricular activities and facilities provided to the students. This will encourage healthy competition amongst schools.
+Policy Action 10 | To create an order for excellence in the country, a “National Merit Programme” shall be introduced to award bright students
 
 (cf. NEP 2009, Section 5.3, pp. 29-30)
 
@@ -793,41 +762,34 @@ The NEP 2009 emphasizes on enhancing access, reducing drop-outs, improving emplo
 
 #### Access and Equity
 
-The  issues  of  access  and  equity  are inextricably  linked  with  each  other. The  following  paragraphs  analyze  the current situation of secondary and higher secondary education using statistics available through SEMIS. The  Table  6.3  shows  that  boys  and girls  schools  at  secondary  and  higher secondary  levels  are  almost  the  same
+The issues of access and equity are inextricably linked with each other. The following paragraphs analyze the current situation of secondary and higher secondary education using statistics available through SEMIS. The Table 6.3 shows that boys and girls schools at secondary and higher secondary levels are almost the same and, in addition to that, mixed schools where both, boys and girls, can enroll are also present.
 
-Boys | Girls | Mixed | Total
+Table 6.3: Distribution of Secondary and Higher Secondary Schools (Gender wise)
+
+ | Boys | Girls | Mixed | Total
 --- | --- | --- | --- | ---
 Secondary | 641 | 513 | 485 | 1639
 Higher Secondary | 101 | 86 | 88 | 275
 Total | 742 | 699 | 573 | 1914
 
-Table 6.3: Distribution of Secondary and Higher Secondary Schools (Gender wise)
-
 Source: SEMIS 2011-12
 
-and, in addition to that, mixed schools where both, boys and girls, can enroll are also present.
-
-The  real  problem  of  access  gets  underscored when all  types  of  schools  are  compared.  Figure 6.1  provides  a  summary  of  recent  figures  on public schools.
-
-Page 29 of 155
-
-96%
-
-3%
-
-1%
-
-1%
+The real problem of access gets underscored when all types of schools are compared. Figure 6.1 provides a summary of recent figures on public schools.
 
 Fig. 6.1
 
 Public Schools
 
 Primary & Elementary
-
 Secondary
-
 Higher Secondary
+
+96%
+3%
+1%
+1%
+
+Page 29 of 155
 
 [[END OF PAGE 29]]
 
@@ -835,7 +797,9 @@ Higher Secondary
 
 The figure shows a huge gap in terms of access to education when comparison is made between elementary and secondary level. The school facilities at secondary level make only 4 % of the total public schools. This ratio needs to be improved urgently. Moreover, there is very modest up-gradation of the secondary and higher secondary schools. The following tables provide data on number of secondary and higher secondary schools over the past five years.
 
-Boys | Girls | Mixed | Total
+Table 6.4: Secondary Schools (over past five years)
+
+ | Boys | Girls | Mixed | Total
 --- | --- | --- | --- | ---
 2007 | 638 | 491 | 472 | 1601
 2008 | 762 | 476 | 366 | 1604
@@ -843,15 +807,15 @@ Boys | Girls | Mixed | Total
 2010 | 684 | 513 | 444 | 1641
 2011 | 641 | 513 | 485 | 1639
 
-Table 6.4: Secondary Schools (over past five years)
-
 Source: SEMIS EDUCATION PROFILE (ASC 2011-12)
 
 The Table 6.4 shows that over the last five years,  only  38  schools  were  added  or upgraded. The picture is quite dismal from this  perspective.  Similarly,  the  following table  provides  data  for  higher  secondary schools for the last  five years.  The  Table 6.5 shows that there had been an average increase  of  10  schools  per  year  for  boys,
 
 while the average increase in girls' schools  was  only  5  per  year.  Another important aspect of physical access is the physical status of the school buildings that also do not present a very  promising picture. Table 6.6 provides a summary of the  physical  status  of  the  secondary  and higher secondary schools.
 
-Boys | Girls | Mixed | Total
+Table 6.5: Higher Secondary Schools (over past five years)
+
+ | Boys | Girls | Mixed | Total
 --- | --- | --- | --- | ---
 2007 | 49 | 66 | 83 | 198
 2008 | 73 | 72 | 71 | 216
@@ -859,24 +823,22 @@ Boys | Girls | Mixed | Total
 2010 | 88 | 75 | 83 | 246
 2011 | 101 | 86 | 88 | 275
 
-Table 6.5: Higher Secondary Schools (over past five years)
-
 Source: SEMIS EDUCATION PROFILE (ASC 2011-12)
 
-Satisfactory Buildings | Need Repair | Dangerous | No information
+Table 6.6: Physical Status of School Buildings
+
+ | | Satisfactory Buildings | Need Repair | Dangerous | No information
 --- | --- | --- | --- | --- | ---
 Secondary | Boys | 170 | 353 | 85 | 5
-Girls | 183 | 254 | 55 | 5
-Mixed | 79 | 304 | 91 | 1
-Total | 432 | 911 | 231 | 11
-Percentage | 27.26% | 57.48% | 14.57% | 0.69%
-Higher | Boys | 16 | 66 | 18 | 0
-Secondary | Girls | 27 | 52 | 6 | 1
-Mixed | 14 | 59 | 14 | 1
-Total | 57 | 177 | 38 | 2
-Percentage | 20.80% | 64.60% | 13.87% | 0.73%
-
-Table 6.6: Physical Status of School Buildings
+ | Girls | 183 | 254 | 55 | 5
+ | Mixed | 79 | 304 | 91 | 1
+ | Total | 432 | 911 | 231 | 11
+ | Percentage | 27.26% | 57.48% | 14.57% | 0.69%
+Higher Secondary | Boys | 16 | 66 | 18 | 0
+ | Girls | 27 | 52 | 6 | 1
+ | Mixed | 14 | 59 | 14 | 1
+ | Total | 57 | 177 | 38 | 2
+ | Percentage | 20.80% | 64.60% | 13.87% | 0.73%
 
 Source: SEMIS EDUCATION PROFILE (ASC 2011-12)
 
@@ -890,39 +852,31 @@ The above table shows that less than one-third of the school buildings are at sa
 
 #### Enrollments
 
-The  overall  pattern  of  enrollments  is presented  in  the  Figure  6.2.  The  figure shows that only 23% students are enrolled  at  secondary  level.  More  than half of the students enrolled at the primary  and  elementary  level  do  not reach  to  the  secondary  level.  Within
-
-77%
-
-16%
-
-7%
-
-7%
+The overall pattern of enrollments is presented in the Figure 6.2. The figure shows that only 23% students are enrolled at secondary level. More than half of the students enrolled at the primary and elementary level do not reach to the secondary level. Within secondary education, the enrollments are given in Table 6.7.
 
 Fig. 6.2
 
 Enrollments
 
 Primary & Elementary
-
 Secondary
-
 Higher Secondary
 
-secondary education, the enrollments are given in Table 6.7.
-
-Boys | Girls | Total | Comments
---- | --- | --- | --- | --- | ---
-Secondary | 393,984 | 278,079 | 672,063 | 58.62% 41.38% | Males Females
-Higher | 179,161 | 110,362 | 289,523 | 61.88% | Males Females
-Secondary | 38.12%
+77%
+16%
+7%
+7%
 
 Table 6.7: Enrollments at Secondary and Higher Secondary Schools (Gender wise)
 
-The Table 6.7 shows that the gap between male and female enrollments is around 17%  at  the  secondary  level, but it gets acute (.i.e., around 24%) at the higher secondary level.
+ | Boys | Girls | Total | Comments
+--- | --- | --- | --- | ---
+Secondary | 393,984 | 278,079 | 672,063 | 58.62% Males 41.38% Females
+Higher Secondary | 179,161 | 110,362 | 289,523 | 61.88% Males 38.12% Females
 
 Source: SEMIS EDUCATION PROFILE (ASC 2011-12)
+
+The Table 6.7 shows that the gap between male and female enrollments is around 17% at the secondary level, but it gets acute (.i.e., around 24%) at the higher secondary level.
 
 #### Teachers
 
@@ -952,50 +906,44 @@ Page 31 of 155
 
 [[START OF PAGE 32]]
 
-Male | Female | Total | Percentages
+Table 6.8: Male and Female Teachers at Secondary and Higher Secondary Level
+
+ | Male | Female | Total | Percentages
 --- | --- | --- | --- | ---
 Secondary | 16,104 | 11,005 | 27,109 | 59.40% Males 40.60% Females
 Higher Secondary | 4,972 | 2,705 | 7,677 | 64.76% Males 35.24% Females
 
-Table 6.8: Male and Female Teachers at Secondary and Higher Secondary Level
-
 Source: SEMIS EDUCATION PROFILE (ASC 2011-12)
-
-secondary level.
-
-#### Quality
-
-This  section  maps  the  quality  in secondary  and  higher  secondary education, using UNICEF's framework  (2000)  for  quality  in education. The framework has five  dimensions:  learner,  learning environment, content, processes
 
 #### Efficiency
 
-Table 6.9 indicates that the dropout  rate  is  increasing  both, from elementary to secondary education and also from secondary  to higher  secondary education. Around 80% students leave the system at higher
+Table 6.9 indicates that the dropout rate is increasing both, from elementary to secondary education and also from secondary to higher secondary education. Around 80% students leave the system at higher secondary level.
 
-Dropout Rates | ASC 2010- 11 | ASC 2011- 12
+Table 6.9: Dropout Rates (Grades 8 – 11)
+
+Dropout Rates | ASC 2010-11 | ASC 2011-12
 --- | --- | ---
 Dropout rate from class 8 to 9 | 8.2% | 11.1%
 Dropout rate from grade 10 to 11 | 77.9% | 88.9%
 
-Table 6.9: Dropout Rates (Grades 8 - 11)
-
 Source: SEMIS EDUCATION PROFILE
 
-and outcomes. Firstly, quantitative data, mainly available through SEMIS, is presented and, then, the overall description is provided using anecdotal evidences.
+#### Quality
 
-The  physical  status  of  secondary  and  higher  secondary  schools  is  already  presented  and discussed in the above paragraphs which showed that only a small fraction of schools is in good shape, whereas majority of the schools need repair. Table 6.10 gives the break-up of facilities at secondary and higher secondary schools.
+This section maps the quality in secondary and higher secondary education, using UNICEF’s framework (2000) for quality in education. The framework has five dimensions: learner, learning environment, content, processes and outcomes. Firstly, quantitative data, mainly available through SEMIS, is presented and, then, the overall description is provided using anecdotal evidences.
 
-Total Schools | Lab | Library | Playground | SMC | Average
---- | --- | --- | --- | --- | --- | ---
-Secondary | 1,639 | 847 | 482 | 814 | 1600 | 57.07%
-51.58% | 29.41% | 49.66% | 97.62%
-Higher | 275 | 201 | 144 | 154 | 264 | 69.36%
-Secondary | 73.09% | 52.36% | 56% | 96%
+The physical status of secondary and higher secondary schools is already presented and discussed in the above paragraphs which showed that only a small fraction of schools is in good shape, whereas majority of the schools need repair. Table 6.10 gives the break-up of facilities at secondary and higher secondary schools.
 
 Table 6.10: Facilities at Secondary and Higher Secondary Schools
 
+ | Total Schools | Lab | Library | Playground | SMC | Average
+--- | --- | --- | --- | --- | --- | ---
+Secondary | 1,639 | 847 51.58% | 482 29.41% | 814 49.66% | 1600 97.62% | 57.07%
+Higher Secondary | 275 | 201 73.09% | 144 52.36% | 154 56% | 264 96% | 69.36%
+
 Source: SEMIS EDUCATION PROFILE (ASC 2011-12)
 
-The  above  table  shows  that  more  than  70%  secondary  schools  do  not  have  library  facilities, which has implications for learning environment. Similarly, around half of the higher secondary schools  do  not  house  a  library.  In  the  paragraphs  below,  the  subject  specific  distribution  of science labs is presented.
+The above table shows that more than 70% secondary schools do not have library facilities, which has implications for learning environment. Similarly, around half of the higher secondary
 
 Page 32 of 155
 
@@ -1003,41 +951,43 @@ Page 32 of 155
 
 [[START OF PAGE 33]]
 
-The  following  table  provides  data  on  the  current  scenario  of  lab  facilities  at  the  government schools.
+schools do not house a library. In the paragraphs below, the subject specific distribution of science labs is presented.
 
-Home Economics | Physics | Chemistry | Biology | Computer | Total | %
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Rural | 13 | 69 | 62 | 75 | 57 | 276 | 23.79%
-Urban | 19 | 265 | 245 | 237 | 118 | 884 | 76.21%
-Boys | Total | 32 | 334 | 307 | 312 | 175 | 1160 | 100%
-Rural | 15 | 30 | 23 | 33 | 29 | 130 | 16.09%
-Urban | 58 | 170 | 169 | 170 | 111 | 678 | 83.91%
-Girls | Total | 73 | 200 | 192 | 203 | 140 | 808 | 100%
-Mixed | Rural | 9 | 86 | 88 | 107 | 43 | 333 | 76.73%
-Urban | 4 | 27 | 25 | 30 | 15 | 101 | 23.27%
-Total | 13 | 113 | 113 | 137 | 58 | 434 | 100%
-Grand Total | 118 | 647 | 612 | 652 | 373 | 2402
+The following table provides data on the current scenario of lab facilities at the government schools.
 
 Table 6.11: Lab Facilities at Secondary Schools
+
+ | | Home Economics | Physics | Chemistry | Biology | Computer | Total | %
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Boys | Rural | 13 | 69 | 62 | 75 | 57 | 276 | 23.79%
+ | Urban | 19 | 265 | 245 | 237 | 118 | 884 | 76.21%
+ | Total | 32 | 334 | 307 | 312 | 175 | 1160 | 100%
+Girls | Rural | 15 | 30 | 23 | 33 | 29 | 130 | 16.09%
+ | Urban | 58 | 170 | 169 | 170 | 111 | 678 | 83.91%
+ | Total | 73 | 200 | 192 | 203 | 140 | 808 | 100%
+Mixed | Rural | 9 | 86 | 88 | 107 | 43 | 333 | 76.73%
+ | Urban | 4 | 27 | 25 | 30 | 15 | 101 | 23.27%
+ | Total | 13 | 113 | 113 | 137 | 58 | 434 | 100%
+Grand Total | | 118 | 647 | 612 | 652 | 373 | 2402 |
 
 Source: SEMIS EDUCATION PROFILE (ASC 2011-12)
 
 The  above  table  provides  interesting  insights  into  the  lab  facilities  available  in  secondary schools.  For  example,  the  biology  lab  has  the  largest  number  and  other  subjects  which  are offered in the same group (such as, physics and chemistry) do not have the same number of labs. The table further shows that the number of computer labs is nearly half of that of Biology labs; and there is no data available regarding the functionality of these labs.
 
-Home Economics | Physics | Chemistry | Biology | Computer | Total | %
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Rural | 4 | 28 | 38 | 39 | 31 | 140 | 56.45%
-Urban | 2 | 30 | 28 | 23 | 25 | 108 | 43.55%
-Boys | Total | 6 | 58 | 66 | 62 | 56 | 248 | 100%
-Rural | 2 | 16 | 13 | 14 | 20 | 65 | 31.25%
-Urban | 15 | 30 | 32 | 33 | 33 | 143 | 68.75%
-Girls | Total | 17 | 46 | 45 | 47 | 53 | 208 | 100%
-Mixed | Rural | 4 | 48 | 46 | 47 | 36 | 181 | 95.26%
-Urban | 0 | 1 | 1 | 4 | 3 | 9 | 4.74%
-Total | 4 | 49 | 47 | 51 | 39 | 190 | 100%
-Grand Total | 27 | 163 | 158 | 160 | 148 | 656
-
 Table 6.12: Lab Facilities at Higher Secondary Schools
+
+ | | Home Economics | Physics | Chemistry | Biology | Computer | Total | %
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Boys | Rural | 4 | 28 | 38 | 39 | 31 | 140 | 56.45%
+ | Urban | 2 | 30 | 28 | 23 | 25 | 108 | 43.55%
+ | Total | 6 | 58 | 66 | 62 | 56 | 248 | 100%
+Girls | Rural | 2 | 16 | 13 | 14 | 20 | 65 | 31.25%
+ | Urban | 15 | 30 | 32 | 33 | 33 | 143 | 68.75%
+ | Total | 17 | 46 | 45 | 47 | 53 | 208 | 100%
+Mixed | Rural | 4 | 48 | 46 | 47 | 36 | 181 | 95.26%
+ | Urban | 0 | 1 | 1 | 4 | 3 | 9 | 4.74%
+ | Total | 4 | 49 | 47 | 51 | 39 | 190 | 100%
+Grand Total | | 27 | 163 | 158 | 160 | 148 | 656 |
 
 Source: SEMIS EDUCATION PROFILE (ASC 2011-12)
 
@@ -1051,29 +1001,29 @@ The above table shows that the facility of Home Economics lab is the lowest as c
 
 ##### Teachers Professional Qualification
 
-Level | PTC | CT | B. Ed. | M.Ed. | Other | Un - trained | NoInfo | Total
+Table 6.13: Teachers’ Professional Qualification at Secondary and H. Secondary Levels
+
+Level | | PTC | CT | B. Ed. | M.Ed. | Other | Un-trained | NoInfo | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Secondary | Male | 139 | 1,246 | 4,209 | 7,471 | 1,889 | 294 | 136 | 15,384
-Female | 116 | 1,026 | 5,037 | 3,312 | 532 | 68 | 75 | 10,166
-Total | 255 | 2,272 | 9,246 | 10,783 | 2,421 | 362 | 211 | 25,550
+ | Female | 116 | 1,026 | 5,037 | 3,312 | 532 | 68 | 75 | 10,166
+ | Total | 255 | 2,272 | 9,246 | 10,783 | 2,421 | 362 | 211 | 25,550
 HigherSec. | Male | 24 | 234 | 915 | 2,807 | 353 | 75 | 38 | 4,446
-Female | 22 | 104 | 689 | 1,150 | 83 | 32 | 4 | 2,084
-Total | 46 | 338 | 1,604 | 3,957 | 436 | 107 | 42 | 6,530
+ | Female | 22 | 104 | 689 | 1,150 | 83 | 32 | 4 | 2,084
+ | Total | 46 | 338 | 1,604 | 3,957 | 436 | 107 | 42 | 6,530
 
-Table 6.13: Teachers' Professional Qualification at Secondary and H. Secondary Levels
-
-Source: SEMIS 2009 -10
+Source: SEMIS 2009-10
 
 There is an obvious need to develop indicators that can measure the quality in secondary and higher secondary education more comprehensively. The following table provides an overview of quality at the secondary level.
 
+Table 6.14: Overview of Quality in Secondary Education (Using UNICEF framework)
+
 Dimension | Observations / Findings
 --- | ---
-Quality Learner |  There is no data available on students' profile entering into secondary education and/or leaving secondary education except academic results
-Quality Learning Environments |  There is no documentation of different aspects of learning environment (such as information regarding students club and forums) beyond basic physical facilities and student-teacher ratios
+Quality Learner |  There is no data available on students’ profile entering into secondary education and/or leaving secondary education except academic results
+Quality Learning Environments |  There is no documentation of different aspects of learning environment (such as information regarding students club and forums) beyond basic physical facilities and student–teacher ratios
 Quality Content |  Current content does not cover and relate well with market-oriented skills s well as life skills (NEP 2009)
-Quality Processes |  Text-based and ‗barren' teaching learning processes (relevant policy action is also proposed by NEP 2009)  Quite limited opportunities for teachers learning (details in Chapter 8)
-
-Table 6.14: Overview of Quality in Secondary Education (Using UNICEF framework)
+Quality Processes |  Text-based and ‘barren’ teaching learning processes (relevant policy action is also proposed by NEP 2009)  Quite limited opportunities for teachers learning (details in Chapter 8)
 
 Page 34 of 155
 
@@ -1089,19 +1039,19 @@ Quality Outcomes |  There is some data available such as PEACE, ASER, and SAT
 
 Based  on  current  policy  and  deliberations  of  the  Technical  Working  Group  (Secondary education), the issues and challenges relevant to secondary and higher secondary education are summarized in this section. These issues, in broader terms, can be seen as extension of issues raised in the discussions of elementary education.
 
-As  indicated  in  NEP  2009,  there  is  a  limited  provision  of  secondary  and  higher  secondary education that has resulted in ‗structural drop out' of a large number of students from the system. The  graduates  of  secondary  and  secondary  education  do  not  have  the  relevant  market  skills. This  issue  highlights  the  challenge  of  developing  more  relevant  curriculum  for  secondary education.
+As indicated in NEP 2009, there is a limited provision of secondary and higher secondary education that has resulted in ‘structural drop out’ of a large number of students from the system. The graduates of secondary and secondary education do not have the relevant market skills. This issue highlights the challenge of developing more relevant curriculum for secondary education.
 
 In the following table, the issues and challenges have been presented.
+
+Table 16: Synthesis of Issues and Challenges
 
 Issues | Challenges
 --- | ---
 Access and Equity |  Limited provision of secondary and higher secondary education.
- Low enrolment in existing schools
- Non availability of subject specialist (Science, Math, English)
- Subject specific lab facilities
- Limited options for females , particularly in rural areas
-
-Table 16: Synthesis of Issues and Challenges
+ |  Low enrolment in existing schools
+ |  Non availability of subject specialist (Science, Math, English)
+ |  Subject specific lab facilities
+ |  Limited options for females , particularly in rural areas
 
 Page 35 of 155
 
@@ -1109,16 +1059,15 @@ Page 35 of 155
 
 [[START OF PAGE 36]]
 
-Efficiency (internal and |  Management capacity to address issues of access and quality
---- | ---
-external) |  Prevalent malpractices in examination system
- Low transition rates from secondary to higher secondary
- No provision for career counseling
- Quality standards / minimum specifications for educational processes and outcomes are missing
+Efficiency (internal and external) |  Management capacity to address issues of access and quality
+ |  Prevalent malpractices in examination system
+ |  Low transition rates from secondary to higher secondary
+ |  No provision for career counseling
+ |  Quality standards / minimum specifications for educational processes and outcomes are missing
 Quality |  Examination promotes rote learning
- Existing curriculum does not fulfill the individual and societal needs
- Lack of professional harmony between subject specialist and teachers
- Lack of accountability at individual and system level
+ |  Existing curriculum does not fulfill the individual and societal needs
+ |  Lack of professional harmony between subject specialist and teachers
+ |  Lack of accountability at individual and system level
 
 The  above  table  indicates  specific  areas  of  intervention  to  improve  secondary  and  higher secondary  education  in  Sindh.  Based  on  the  above  analysis,  the  following  sections  present strategic objectives and strategies for the betterment of secondary education.
 
@@ -1148,13 +1097,14 @@ Page 36 of 155
 
 [[START OF PAGE 37]]
 
-GOAL: Improving the provision and quality of Secondary and Higher Secondary Education in Sindh
---- | --- | --- | ---
-Strategic Objective | Strategies | Targets (2013-2016) | Activities
-Strategic Objective 1 Expand the provision of Secondary and Higher Secondary Education |  Upgrading of large elementary schools as secondary schools  Upgrading of large secondary schools as higher secondary schools  New comprehensive schools construction  Recruitment of subject specialists for higher secondary schools  Upgrading of lab facilities in higher secondary schools |  100 schools get upgraded as higher secondary school by 2016  200 Schools added as secondary schools by 2016  100 new comprehensive schools get constructed by 2016  Subject specialists recruited by 2016 |  Identify list of elementary/ secondary schools for upgrading  Get criteria for up- gradation approved  Identify sites for new schools  Construct new secondary schools  Prepare SNEs for additional staff (need based)  Hire staff through a competitive process (merit based and need based)  Enhance number of campus based schools, where primary and secondary are within one boundary  Rationalize existing placements at school level
-Strategic Objective 2 Increase enrollments in the existing Secondary and Higher Secondary Schools |  Scholarships for female students from disadvantaged backgrounds  Increased infrastructure facilities at the schools  Student-centered |  Increase in transition by 5% annually  5 % improvement in GPI  Increase Net Enrolment Rate by 5% districts, sex and location |  Financial support for scholarships for females  Conduct infrastructure audit of secondary and higher secondary schools for enabling learning environment  Add facilities on the basis of audit
-
 Table 6.17: Secondary and Higher Secondary Education: Objectives, Strategies, Targets and Activities
+
+GOAL: Improving the provision and quality of Secondary and Higher Secondary Education in Sindh
+
+Strategic Objective | Strategies | Targets (2013-2016) | Activities
+--- | --- | --- | ---
+Strategic Objective 1 Expand the provision of Secondary and Higher Secondary Education |  Upgrading of large elementary schools as secondary schools  Upgrading of large secondary schools as higher secondary schools  New comprehensive schools construction  Recruitment of subject specialists for higher secondary schools  Upgrading of lab facilities in higher secondary schools |  100 schools get upgraded as higher secondary school by 2016  200 Schools added as secondary schools by 2016  100 new comprehensive schools get constructed by 2016  Subject specialists recruited by 2016 |  Identify list of elementary/ secondary schools for upgrading  Get criteria for up-gradation approved  Identify sites for new schools  Construct new secondary schools  Prepare SNEs for additional staff (need based)  Hire staff through a competitive process (merit based and need based)  Enhance number of campus based schools, where primary and secondary are within one boundary  Rationalize existing placements at school level
+Strategic Objective 2 Increase enrollments in the existing Secondary and Higher Secondary Schools |  Scholarships for female students from disadvantaged backgrounds  Increased infrastructure facilities at the schools  Student-centered |  Increase in transition by 5% annually  5 % improvement in GPI  Increase Net Enrolment Rate by 5% districts, sex and location |  Financial support for scholarships for females  Conduct infrastructure audit of secondary and higher secondary schools for enabling learning environment  Add facilities on the basis of audit
 
 Page 37 of 155
 
@@ -1165,7 +1115,7 @@ Page 37 of 155
 GOAL: Improving the provision and quality of Secondary and Higher Secondary Education in Sindh
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013-2016) | Activities
-pedagogies in the schools  Enhancement of SMCs' role to increase transition rates from elementary education to secondary education |  Drive enrollment through SMCs  Secondary schools develop and implement enrollment enhancement programs in collaboration with nearby schools (elementary, middle).  Create provision of boarding facilities for girls  Rationalize lab facilities for secondary schools  Organize school based (and school initiated) professional development sessions to improve students participation in learning processes  Mobilize SMCs to enhance the retention capacity of schools through developing more conducing learning environment
+ | pedagogies in the schools  Enhancement of SMCs’ role to increase transition rates from elementary education to secondary education | |  Drive enrollment through SMCs  Secondary schools develop and implement enrollment enhancement programs in collaboration with nearby schools (elementary, middle).  Create provision of boarding facilities for girls  Rationalize lab facilities for secondary schools  Organize school based (and school initiated) professional development sessions to improve students participation in learning processes  Mobilize SMCs to enhance the retention capacity of schools through developing more conducing learning environment
 Strategic Objective 3 Develop contextually relevant and broad based curriculum |  Review of existing curriculum  Study to identify market relevant skills for youth in Sindh  Provision of co- curricular activities in every school |  Curriculum enrichment manual is developed and implemented  Study report is available on market relevant skills for youth in Sindh by 2013  Weightage is given to co-curricular activities in school performance criteria/ standard |  Develop life skills curriculum  Create school based students' clubs, such as environment club, sports club, drama club, writing club and health and hygiene club  Develop network of schools for enhanced students activities
 
 Page 38 of 155
@@ -1187,8 +1137,10 @@ Page 39 of 155
 [[START OF PAGE 40]]
 
 GOAL: Improving the provision and quality of Secondary and Higher Secondary Education in Sindh
---- | --- | --- | ---
+
 Strategic Objective | Strategies | Targets (2013-2016) | Activities
+--- | --- | --- | ---
+ | | | activities
 Strategic Objective 6 Strengthen management and supervision capacity for Secondary and Higher Secondary Education |  Development and implementation of school ranking system  Capacity building of Principals in school improvement  Development implementation of school based quality assurance mechanism |  System of school ranking is developed by 2014  100% of Principals of higher secondary schools have received PD by 2015  75 % of higher secondary schools have internal quality assurance mechanism in place (and have produced, at least, one internal QA report) |  Identify core team to develop ranking criteria for secondary schools through participatory approaches  Pilot ranking system in 4 districts  Revise and implement the ranking system  Develop QA mechanism at school level  Implement accountability QA mechanism at school level
 
 Page 40 of 155
@@ -1201,7 +1153,7 @@ Page 40 of 155
 
 Basic education is a fundamental human right, as it is a vehicle for human development. The Government of Pakistan (GoP) is constitutionally committed to provide education for all:
 
-TheState  shall‗remove  illiteracyand  provide  freeand  compulsory  secondary educationwithinminimum possibleperiod'. (Constitution of Pakistan 1973, Article 37-B)
+TheState shall‘remove illiteracyand provide freeand compulsory secondary educationwithinminimum possibleperiod’. (Constitution of Pakistan 1973, Article 37-B)
 
 Literacy, being a key learning tool, is the first step towards basic education. The Sindh Vision 2030 can only be realized through building an educated and literate society. With the Eighteenth Constitutional  Amendment,  the  responsibility  of  educating  masses  has  shifted  solely  to  the provinces. The Eighteenth Constitutional Amendment has made education as a provincial subject (by  deleting  it  from  Concurrent  List)  and  the  amendment  has  also  introduced  a  new  article, Article 25-A, which says:
 
@@ -1209,20 +1161,20 @@ The State shall provide free and compulsory education to all children of the age
 
 Within  this  context  of  compulsory  education,  it  becomes  both,  urgent  and  important  for educational planners and managers to take meticulous stock of the situation. Leaving aside the issue  of  quality  learning  outcomes  (which  is  an  important  dimension)  for  the  time  being,  the following table simply presents basic data on children who ever attended school.
 
-Table  7.1  shows  that  40  %  of  the  population  never  went  to  school.  Further,  the  data  clearly indicates Table 7.1: Percentage of population that has ever attended school (percentage)
+Table 7.1 shows that 40 % of the population never went to school. Further, the data clearly indicates the discrepancies in terms of location and gender.
 
-the discrepanci es  in  terms of location and  gender.
+Table 7.1: Percentage of population that has ever attended school (percentage)
 
-Percentage of Population ever Attended School (%)
+ | Percentage of Population ever Attended School (%) | |
 --- | --- | --- | ---
-M | F | Both
+ | M | F | Both
 Urban | 82 | 69 | 76
 Rural | 61 | 22 | 43
 Overall | 72 | 47 | 60
 
-Overall, Source:  PSLM 2010 -11
+Source: PSLM 2010-11
 
-more than 50 % females never attended school and the same is true for the rural population in Sindh. Unfortunately, the issue becomes compounded for rural females, where around 88 % have never attended school. Given this situation, providing access to education for rural females is an urgent priority. The current literacy rate for Sindh, using the above definition, is given in Table 7.2.
+Overall, more than 50 % females never attended school and the same is true for the rural population in Sindh. Unfortunately, the issue becomes compounded for rural females, where around 88 % have never attended school. Given this situation, providing access to education for rural females is an urgent priority. The current literacy rate for Sindh, using the above definition, is given in Table 7.2.
 
 Table 7.2: Percentage of Literate Population 10 Years and Older (percentage)
 
@@ -1232,9 +1184,7 @@ Page 41 of 155
 
 [[START OF PAGE 42]]
 
-The  table  shows  that  the  overall  literacy  rate  in Sindh is 59%. The table underlines that in addition to the disparities between rural and urban, there are continued disparities  between  male  and female literacy rates. This gender disparity combined with rural - urban disparity becomes worse to the extent that only 22 % females are literate as compared to
-
-Male | Female | Both
+ | Male | Female | Both
 --- | --- | --- | ---
 Urban | 82 | 68 | 75
 Rural | 60 | 22 | 42
@@ -1242,20 +1192,18 @@ Overall | 71 | 46 | 59
 
 Source: PSLM 2010- 2011
 
-60% for males in rural. Given the Sindh Vision 2030 and the existing situation, improving the literacy rate of females becomes an important priority.
+The table shows that the overall literacy rate in Sindh is 59%. The table underlines that in addition to the disparities between rural and urban, there are continued disparities between male and female literacy rates. This gender disparity combined with rural – urban disparity becomes worse to the extent that only 22 % females are literate as compared to 60% for males in rural. Given the Sindh Vision 2030 and the existing situation, improving the literacy rate of females becomes an important priority.
 
 As Education & Literacy Department, Government of Sindh is committed to providing quality learning  opportunities  and  Education  for  All,  besides  formal  school  system,  the  following educational provisions have been made available for out-of-school children and adults who have missed the opportunity.
 
-The  Directorate  of  Literacy and Non Formal Basic Education (DL&NFBE) is responsible  for  programmes on literacy and non-formal education  in  Sindh  and  has recently developed Sindh
-
-Age Cohort | Provision
---- | ---
-5- 14 Year | Non- Formal Basic Education - accelerated program
-10 + Year | Adult Literacy
+The Directorate of Literacy and Non Formal Basic Education (DL&NFBE) is responsible for programmes on literacy and non-formal education in Sindh and has recently developed Sindh Literacy Plan 2010- 2015 with a vision of ‘Literate, educated and prosperous Sindh province’. However, with high illiteracy rate (male 35 %, female 68 %: cf. PSLM 2011) and huge discrepancies, the overall task needs strong commitment.
 
 Table 7.3: Non Formal Education (NFE) Provisions
 
-Literacy Plan 2010- 2015 with a vision of ‗Literate, educated and prosperous Sindh province'. However,  with  high  illiteracy  rate  (male  35  %,  female  68  %:  cf.  PSLM  2011)  and  huge discrepancies, the overall task needs strong commitment.
+Age Cohort | Provision
+--- | ---
+5- 14 Year | Non- Formal Basic Education – accelerated program
+10 + Year | Adult Literacy
 
 ### 7.1 Policy Context and Situation Analysis
 
@@ -1285,7 +1233,7 @@ Box 7.1 :Literacy - International Commitments
 
 Despite the fact that increase in literacy rate has been consistently mentioned as a policy target in almost all educational policies, our progress with literacy has been least encouraging. The overall growth rate in literacy has been under 1% over the years. In absolute terms, there is a continuous increase in the number of illiterates in Sindh.
 
-This discouraging progress in literacy had been due to different reasons. UNESCO's report on ‗Literacy  Trends  and Statistics in Pakistan' has  noted that adult literacy  is a neglected area in terms  of  planned  action  in  Pakistan,  whereas  ‗Guidelines  for  Strategic  Frame  of  Action  for United Nations Literacy Decade (2003-2012) in Pakistan' identifies lack of political will, weak organizational  structure  and  inadequate  finances  as  major  contributing  factors  to  the  current literacy scenario in Pakistan.
+This discouraging progress in literacy had been due to different reasons. UNESCO’s report on ‘Literacy Trends and Statistics in Pakistan’ has noted that adult literacy is a neglected area in terms of planned action in Pakistan, whereas ‘Guidelines for Strategic Frame of Action for United Nations Literacy Decade (2003-2012) in Pakistan’ identifies lack of political will, weak organizational structure and inadequate finances as major contributing factors to the current literacy scenario in Pakistan.
 
 ##### Current Policy Context
 
@@ -1315,29 +1263,12 @@ Overall, the policy analysis refers to the dire need of linking such programs to
 
 ##### Policy Actions for Adult Literacy and Non-formal Education - NEP 2009
 
-Policy Action  1
-
-Policy Action  2
-
-Policy Action  3
-
-Policy Action  4
-
-Policy Action  5
-
-Policy Action  6
-
-Literacy  rate  shall  be  increased  up  to  86%  by  2015  through  up-scaling  of  ongoing programmes of adult literacy and non formal basic education in the country.
-
-Sustainability of adult literacy and NFE programmes shall be ensured by strengthening organizational structure, coordination and enhancing budgetary allocation for this neglected sub sector.
-
-Government shall develop a national literacy curriculum and identify the instructional material,  teacher  training  modules  and  professional  development  programmes  to support the curriculum. The curriculum shall be objectives driven, so as to facilitate assimilation  of  trainees  into  mainstream  economic  activity,  by  imparting  skills training as per local needs and market trends.
-
-Government shall develop and enforce minimum quality standards for organizations involved in literacy in the form of literacy certification and accreditation regime. The literacy providers shall be required to offer the literacy programmes according to the specified standards.
-
-A system shall be developed to mainstream the students of non-formal programmes into the regular education system, and a system of equivalence shall be developed to permit such mainstreaming. New literates shall receive formal certification so as to facilitate their entry into government schools.
-
-Provinces  and  district  governments  shall  allocate  a  minimum  of  4%  of  education budget for literacy and non-formal basic education (NFBE).
+Policy Action 1 | Literacy rate shall be increased up to 86% by 2015 through up-scaling of ongoing programmes of adult literacy and non formal basic education in the country.
+Policy Action 2 | Sustainability of adult literacy and NFE programmes shall be ensured by strengthening organizational structure, coordination and enhancing budgetary allocation for this neglected sub sector.
+Policy Action 3 | Government shall develop a national literacy curriculum and identify the instructional material, teacher training modules and professional development programmes to support the curriculum. The curriculum shall be objectives driven, so as to facilitate assimilation of trainees into mainstream economic activity, by imparting skills training as per local needs and market trends.
+Policy Action 4 | Government shall develop and enforce minimum quality standards for organizations involved in literacy in the form of literacy certification and accreditation regime. The literacy providers shall be required to offer the literacy programmes according to the specified standards.
+Policy Action 5 | A system shall be developed to mainstream the students of non-formal programmes into the regular education system, and a system of equivalence shall be developed to permit such mainstreaming. New literates shall receive formal certification so as to facilitate their entry into government schools.
+Policy Action 6 | Provinces and district governments shall allocate a minimum of 4% of education budget for literacy and non-formal basic education (NFBE).
 
 Page 44 of 155
 
@@ -1345,41 +1276,15 @@ Page 44 of 155
 
 [[START OF PAGE 45]]
 
-Policy Action  7
-
-Policy Action 8
-
-Policy Action  9
-
-Policy Action 10
-
-Policy Action  11
-
-Policy Action  12
-
-Policy Action  13
-
-Policy Action  14
-
-Policy Action  15
-
-Linkages of non-formal education with industry and internship programmes shall be developed to enhance economic benefits of participation.
-
-Horizontal  linkages  between  schools  and  vocational/skills  training  centres  shall  be established.
-
-Government  schools  shall  initiate  non-formal  education  (NFE)  stream  for  child labourers. Children involved in various jobs or work shall be brought within the ambit of non formal education system through need-based schedules and timings.
-
-National Education Foundation (NEF) programmes, currently in practice up to grade 5 shall be expanded up to grade 10, wherever required.
-
-Special literacy skills programmes shall target older child labourers, boys and girls (aged between 14 and 17 years). Special educational stipends shall be introduced to rehabilitate child labourers.
-
-Arrangements shall be made to use school buildings (where available) for adult literacy after school hours.
-
-Government  shall develop guidelines for post-programme  initiatives. Regular follow-up shall be made a part of the literacy programs.
-
-Steps shall be taken to ensure that teachers for adult learners and non-formal education are properly trained and have a well defined career structure allowing them to move into mainstream education.
-
-International  Development  Partners,  community  and  private  sector  involvement  in awareness programmes, content, design and availability of facilities, shall be mobilised.
+Policy Action 7 | Linkages of non-formal education with industry and internship programmes shall be developed to enhance economic benefits of participation.
+Policy Action 8 | Horizontal linkages between schools and vocational/skills training centres shall be established.
+Policy Action 9 | Government schools shall initiate non-formal education (NFE) stream for child labourers. Children involved in various jobs or work shall be brought within the ambit of non formal education system through need-based schedules and timings.
+Policy Action 10 | National Education Foundation (NEF) programmes, currently in practice up to grade 5 shall be expanded up to grade 10, wherever required.
+Policy Action 11 | Special literacy skills programmes shall target older child labourers, boys and girls (aged between 14 and 17 years). Special educational stipends shall be introduced to rehabilitate child labourers.
+Policy Action 12 | Arrangements shall be made to use school buildings (where available) for adult literacy after school hours.
+Policy Action 13 | Government shall develop guidelines for post-programme initiatives. Regular follow-up shall be made a part of the literacy programs.
+Policy Action 14 | Steps shall be taken to ensure that teachers for adult learners and non-formal education are properly trained and have a well defined career structure allowing them to move into mainstream education.
+Policy Action 15 | International Development Partners, community and private sector involvement in awareness programmes, content, design and availability of facilities, shall be mobilised.
 
 (cf. NEP 2009, Section 5.4, pp. 30-31)
 
@@ -1403,26 +1308,26 @@ The purpose of this section is to describe the current situation so as to help i
 
 If we look at the current provision of adult literacy in the province under purview of DL&NFBE, the  current  curriculum  was  developed  and  approved  by  the  Federal  Ministry  of  Education  in 2007. The following table provides the figures on the number of literacy centers, enrollments and teachers (gender wise).
 
-Year | # of Centers | Enrolment | Number of Teachers
+Table 7.4: Total Number of Adult Literacy Centers by Enrollment and Teachers
+
+Year | # of Centers | Enrolment | | | Number of Teachers | |
 --- | --- | --- | --- | --- | --- | --- | ---
-Male | Female | Total | Male | Female | Total
+ | | Male | Female | Total | Male | Female | Total
 2007 | 2886 | 28593 | 35979 | 64572 | 1154 | 1439 | 2593
 2008 | - | - | - | - | -
 2009 | 217 | 1040 | 5490 | 6530 | 34 | 183 | 217
 2010 | 100 | 330 | 2670 | 3000 | 11 | 89 | 100
 2011 | 100 | 600 | 2400 | 3000 | 20 | 80 | 100
 
-Table 7.4: Total Number of Adult Literacy Centers by Enrollment and Teachers
-
 Source: Directorate of Literacy & NFE Sindh
 
 The above table shows that in recent years, there has been no increase in the number of literacy centers;  rather,  the  figure  has  dropped  to  100  in  2010  from  217  in  2009.  In  2011,  the  female enrollment dropped from 89% to 80%. There has been a similar dip in the gender composition of teachers in 2011 as compared to the one in 2010. The following table provides the figures on the number of NFBE centers, enrollments and teachers (gender wise) in the province under purview of DL&NFBE.
 
-Year | # of | Student Enrolment | Number of Teachers
---- | --- | --- | --- | --- | --- | ---
-Schools | Male | Female | Total | Male | Female | Total
-
 Table 7.5: Total Number of Non-Formal Basic education Schools (NFBES) by Enrollment and Teachers
+
+Year | # of Schools | Student Enrolment | | | Number of Teachers | |
+--- | --- | --- | --- | --- | --- | --- | ---
+ | | Male | Female | Total | Male | Female | Total
 
 Page 46 of 155
 
@@ -1442,25 +1347,13 @@ The  above  table  indicates  that  in  the  current  provision  of  NFBE,  fema
 
 The Directorate of Literacy and NFBE was established in 2002, yet it has limited professional and  management  capacity  to  design,  develop  and  implement  literacy  and  non-formal  basic education  programs  effectively.  Currently,  the  Directorate  has  some  management  positions without  any  professional  wing.  Similarly,  at  district  level,  only  one  post  of  Deputy/  DO (Literacy) exists without any professional support staff. There are no sanctioned positions at the taluka and UC levels where the actual actions take place.
 
-The DL&NFBE is staffed by regular employees both, at the provincial and district level, from school education and there do not exist any special criteria for posting and placement except the grade seniority. Limited staffing with no professional support raises serious questions about the management and professional capacity of the apex institutions responsible for literacy and nonformal  basic  education  programs.  The  following  figure  indicates  the  structure  of  DL&NFBE both, at provincial and district level.
+The DL&NFBE is staffed by regular employees both, at the provincial and district level, from school education and there do not exist any special criteria for posting and placement except the grade seniority. Limited staffing with no professional support raises serious questions about the management and professional capacity of the apex institutions responsible for literacy and non-formal basic education programs. The following figure indicates the structure of DL&NFBE both, at provincial and district level.
+
+Provinical Level | DL&NFBE
+District Level | DO (Lit) | DO (Lit)
+Taluka Level | No Staff | No Staff
 
 Figure 7.1: Structure of DL&NFBE
-
-Taluka Level
-
-District Level
-
-Provinical Level
-
-DL&NFBE
-
-DO (Lit)
-
-No Staff
-
-DO (Lit)
-
-No Staff
 
 Given the above situation, there is an urgent need to strengthen the DL&NFBE both, in technical and  administrative  terms,  such  as  enhancing  expertise  for  training,  material  development, supervision  research and evaluation. It is important to note that there is no regular budget for the regular  functioning  of  Literacy  Centers,  all  these  centers  are  being  financed  through  ADP schemes including teachers' salaries. Though in each district l one DO (Literacy) is posted, yet, in most cases, monitoring of NFE is done through the services of an NGO.
 
@@ -1476,7 +1369,7 @@ From  an  instructional  perspective, the analysis of adult literacy programs is
 
 Box 7.3: Literacy Definition
 
-The 1998 national census adopted the definition of literacy as a person of above10 years who can ‗read a newspaperand write a simple letter, in any language'.
+The 1998 national census adopted the definition of literacy as a person of above10 years who can ‘read a newspaperand write a simple letter, in any language’.
 
 Functions | Design responsibility | Implementation responsibility | Monitoring
 --- | --- | --- | ---
@@ -1492,7 +1385,7 @@ Table 7.6 shows that the teaching-learning processes are not well supported and 
 
 Box 7.4:Non- Formal Basic Education
 
-In Sindh, non-formal basic education aims to provide access to primary education to children from 6-14 who are out of formal school system.
+In Sindh, non-formal basic education aims to provide access to primary education to children
 
 Page 48 of 155
 
@@ -1500,7 +1393,9 @@ Page 48 of 155
 
 [[START OF PAGE 49]]
 
-###### Functional AnalysisAdult Literacy Programs
+from 6-14 who are out of formal school system.
+
+###### Functional Analysis- Adult Literacy Programs
 
 Next, in the following paragraphs, the provision of NFBE under DL&NFBE will be discussed.
 
@@ -1520,14 +1415,14 @@ The above table shows that most of the teaching - learning process and their man
 
 Education Policy 2009 has noted that the quality of NFE programs is quite questionable and, as noted by the policy, the major reason is the lack of quality of teachers. The following table maps the academic qualifications and professional development of the NFE teachers.
 
+Table 7.8: Percentage of NFE Teachers by Qualification, Training and Participation
+
 Type of course | Number of Non-Formal Teachers
 --- | --- | --- | --- | --- | --- | --- | ---
-Qualification | Training | Participation
-NFBES | % Below Matric | % Matric | % Above Matric | % Trained | % Un- Trained | % Full Time | % Part Time
-Nil | 29% | 71% | - | - | 100% | -
+ | Qualification | Training | Participation
+NFBES | % Below Matric | % Matric | % Above Matric | % Trained | % Un-Trained | % Full Time | % Part Time
+ | Nil | 29% | 71% | - | - | 100% | -
 Adult | Nil | 20% | 80% | - | - | - | 100%
-
-Table 7.8: Percentage of NFE Teachers by Qualification, Training and Participation
 
 Page 49 of 155
 
@@ -1542,15 +1437,15 @@ Source:
 
 The  above  table  shows  that  29  %  of  NFBE  teachers  possess  matric  qualification  only.  Using UNICEF framework, the following table has summarized challenges related to five dimensions of quality.
 
+Table 7.9: Overview of Quality in Literacy and NFE Programmes (Using UNICEF framework)
+
 Quality Dimension | Observations/ Findings
 --- | ---
 Quality Learner |  There is no data available on the profile of students entering into literacy and NFE programmes. Anecdotal records show that leaners did not find relevance of the programs to their lives
 Quality Learning Environments |  There is no documentation of the different aspects of learning environment  Unfriendly learning environment
 Quality Content |  A well-thought out curriculum to increase literacy and life skills does not exist either; the current content does not relate well to the market needs  Inadequate learning support materials
 Quality Processes |  Lack of standards for supervision, monitoring and support  Lack of coordination amongst different implementing agencies  lack of community participation and support  Issue of monitoring and supervision of the learning processes
-Quality Outcomes |  There is no data available except for limited data on academic achievements - mechanism to assess the student's progress systematically does not exist.  Students qualified through literacy/ NFBE centres have been facing numerous problems regarding their admissions into the regular stream and post literacy employment
-
-Table 7.9: Overview of Quality in Literacy and NFE  Programmes  (Using UNICEF framework)
+Quality Outcomes |  There is no data available except for limited data on academic achievements – mechanism to assess the student’s progress systematically does not exist.  Students qualified through literacy/ NFBE centres have been facing numerous problems regarding their admissions into the regular stream and post literacy employment
 
 ### 7.2 Key Issues and Challenges
 
@@ -1564,6 +1459,8 @@ The key stakeholders were consulted (using FGDs, individual conversations) to un
 
 In the context of 18th Constitutional Amendment,  the responsibility of planning and implementing literacy development programs has shifted to the provinces. This major shift of responsibility will also bring in more accountability for provincial government on this front.
 
+Table 7.10: Synthesis of Issues and Challenges
+
 Issues | Challenges
 --- | ---
 Access and Equity |  Given the dimensions of the problem, the access to NFBE and AL is very limited
@@ -1575,12 +1472,11 @@ Access and Equity |  Given the dimensions of the problem, the access to NFBE 
  Lack of gender sensitive HR policies
 Efficiency (internal and external) |  NFE activities are implemented on ad hoc basis, without a comprehensive policy, coherent programme and strategy. For example, there is no Additional Secretary is designated to look after NFE
  No regular funding for running the program
- No regular monitoring system in terms of literacy program and its out put  Community participation is not taken care of
+ No regular monitoring system in terms of literacy program and its out put
+ Community participation is not taken care of
  Lack of performance based appraisal system
  Data not gathered for NFE and AL classes
  Lack of comprehensive and an integrated database to calculate efficiency
-
-Table 7.10: Synthesis of Issues and Challenges
 
 Page 51 of 155
 
@@ -1602,7 +1498,7 @@ Literacy and non-formal basic education programmes are important focus to addres
 
 In  our  context,  we  have  mainly  tried  to  replicate  traditional  teaching-learning  model  (led  by teacher in a face to face setting). The availability of quality teachers and scale of the problem has always humbled to efforts and resources spent on this issue. There is an urgent need to look for alternatives that necessarily engage technology to reduce the need of scarce human resource and to enhance access and quality of the provision.
 
-The advances in Information and Communication Technology (ICT) have opened up new venues to deal innovatively with the issues of scale and scarcity of human resource.  Low-cost and lowliteracy  touch-screen  technologies  present  themselves  as  alternatives  for  the  illiterate  and  with great potential to empower the poor. For example, in India, the Simputer Trust, has developed the  Simputer  (Simple,  Inexpensive,  Multilingual,  People's  Computer).  Similar  work,  titled ‗Volkscomputer', is another example from Brazil. Users need not to be literate in order to use it. Therefore, search for more viable models may be a stepping stone to formulate policy for NFE in the province.
+The advances in Information and Communication Technology (ICT) have opened up new venues to deal innovatively with the issues of scale and scarcity of human resource. Low-cost and low-literacy touch-screen technologies present themselves as alternatives for the illiterate and with great potential to empower the poor. For example, in India, the Simputer Trust, has developed the Simputer (Simple, Inexpensive, Multilingual, People’s Computer). Similar work, titled ‘Volkscomputer’, is another example from Brazil. Users need not to be literate in order to use it. Therefore, search for more viable models may be a stepping stone to formulate policy for NFE in the province.
 
 ### 7.3 Objectives, Targets , Strategies and Activities
 
@@ -1632,12 +1528,12 @@ Page 52 of 155
 
 Next, Table 7.11 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
 
+Table 7.11: Literacy and Non-Formal Basic Education: Objectives, Strategies, Targets and Activities
+
 GOAL: Improving access and standards for Literacy and Non-formal Basic Education in Sindh
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
 Strategic Objective 1 Develop a comprehensive policy for NFE and AL in Sindh followed by the allocation of mainstreamed budget on a regular basis. Special Note: NFE and ALC should be reconceptualised to make it relevant to diverse needs and age groups |  Commission policy research for the development of a comprehensive policy |  Policy Developed and budget streamlined by 2014.  Evidence based plans should be made. |  Commission a policy research for NFE and AL  Notify a core group for policy formulation incorporating NFE/ALP  Develop policy through a consultative process and get approved  Develop rules and regulation and get approved  Develop implementation framework with clear action plan  Allocate resource for the plan
-
-Table 7.11: Literacy and Non-Formal Basic Education: Objectives, Strategies, Targets and Activities
 
 Page 53 of 155
 
@@ -1648,7 +1544,7 @@ Page 53 of 155
 GOAL: Improving access and standards for Literacy and Non-formal Basic Education in Sindh
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
-Strategic Objective 2 Improve access to literacy and non- formal education especially for girls in rural areas |  Learn from successful models of NCHD, SEF, and UNESCO to increase access.  Opening up of new adult literacy centres in the most disadvantaged districts by 2015  Opening up of new NFBECs in the most disadvantaged districts by 2015 |  Study report on best practices by 2014  20,000 new NFE centres are opened in the most disadvantaged districts by 2015  10,000 opened in 2014 and 10,000 in 2015. |  Commission a study on best practices / model to inform planning and implementation for enhanced access to NFE and AL  Identify the districts/UCs with highest out-of-school and drop-out ratios.  Recruit new teachers (especially local females) and provide pre-service education  Prepare academic calendar  Provide learning materials
+Strategic Objective 2 Improve access to literacy and non- formal education especially for girls in rural areas |  Learn from successful models of NCHD, SEF, and UNESCO to increase access.  Opening up of new adult literacy centres in the most disadvantaged districts by 2015  Opening up of new NFBECs in the most disadvantaged districts by 2015 |  Study report on best practices by 2014  20,000 new NFE centres are opened in the most disadvantaged districts by 2015  10,000 opened in 2014 and 10,000 in 2015. |  Commission a study on best practices / model to inform planning and implementation for enhanced access to NFE and AL  Identify the districts/UCs with highest out-of-school and drop-out ratios.  Recruit new teachers (especially local females) and provide pre-service education  Prepare academic calendar  Provide learning materials for NFEs and ALCs.
 Strategic Objective 3 Improve quality and relevance of learning through curriculum and learning material development |  Develop relevant curriculums fulfilling needs of diverse groups (different age groups, working /nonworking group)  Review of existing learning materials ( relevance to different groups)  Development of new learning materials/ text books in the light of curriculum.  Engaging public sector key |  Curriculum/textbooks development process initiated in 2013  Current learning materials are reviewed by 2014  Relevant topics are identified by 2014-15  Improved materials are available for use and are being used by 2015  100 % new teachers participate in induction program |  Take stock of the current learning materials and identify improvement needs with special emphasis on life skills and functional literacy  Identification of relevant topics  Prepare curriculum/ accelerated curriculum ( for different working and non- working children) and assessment for NFE in collaboration with BOC and PITE  Development of textbook /Supplementary materials by relevant Government
 
 Page 54 of 155
@@ -1660,9 +1556,9 @@ Page 54 of 155
 GOAL: Improving access and standards for Literacy and Non-formal Basic Education in Sindh
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
-institutions for the development of textbooks/ learning materials | Institutes i.e. STB, PITE, BOC, STEDA etc. (The said institutes are to be mandated formally for this.)
+ | institutions for the development of textbooks/ learning materials | | Institutes i.e. STB, PITE, BOC, STEDA etc. (The said institutes are to be mandated formally for this.)
 Strategic Objective 4 Build capacity of literacy and NFE teachers for improved student learning outcomes on a continuous basis |  Identification of minimum competency framework for graduates  Approved mechanism for skill based capacity building of existing teachers  Design and delivery of in-service training program. |  100 % new teachers participate in induction program  NFE teachers have on going in-service training programme |  Formulate working group of stakeholders to develop and design minimum competency framework for NFE graduates and teachers  Engage STEDA/PITE/ BoC to assist in preparation of a sound teacher education programme  Develop and implement capacity building plan for NFE teachers
-Strategic Objective 5 Use innovative, technology based approaches for NFE with the help of private sector |  Take stock of effective innovative practices - both local and regional  Develop and implement innovate NFE programs to reach -hard to reach children‖ inclusive of Distance learning, mobile schools etc, as appropriate | At least three innovative program piloted and scaled up by 2015 |  Conduct a study to identify innovative technology based models to deliver NFE  Design and develop a technology based program  Pilot test the program  Implement the program  Review and document the achievements and challenges for further program development and delivery
+Strategic Objective 5 Use innovative, technology based approaches for NFE with the help of private sector |  Take stock of effective innovative practices – both local and regional  Develop and implement innovate NFE programs to reach “hard to reach children” inclusive of Distance learning, mobile schools etc, as appropriate | At least three innovative program piloted and scaled up by 2015 |  Conduct a study to identify innovative technology based models to deliver NFE  Design and develop a technology based program  Pilot test the program  Implement the program  Review and document the achievements and challenges for further program development and delivery
 Strategic Objective 6 Develop accreditation and certification |  Develop, approve and implement policy of equivalency and |  Framework for equivalence developed, piloted and implemented by |  Identify core working team to work on mainstreaming NFE students  Develop and implement
 
 Page 55 of 155
@@ -1692,11 +1588,11 @@ Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
 
 ## 8. TEACHER EDUCATION AND DEVELOPMENT
 
--The reform of teaching quality is of the highest priority‖.
+“The reform of teaching quality is of the highest priority”.
 
 (cf. NEP 2009, 106, 6.1, p.33)
 
-The  National  Education  Policy  2009  identifies  the  quality  of  teachers  as  one  of  the  six  basic pillars of quality in education, and puts it on top priority. Teacher education and development, no doubt, is a critical factor in improving school effectiveness and student learning outcomes. This chapter,  therefore,  presents  the  sub-sector  review  and  analysis  of  Teacher  Education  (TE)  in Sindh and has mainly been adapted from the ‗Teacher Education Strategy 2018: Addressing the Issue of Quality (Sindh)' (May 2012).
+The National Education Policy 2009 identifies the quality of teachers as one of the six basic pillars of quality in education, and puts it on top priority. Teacher education and development, no doubt, is a critical factor in improving school effectiveness and student learning outcomes. This chapter, therefore, presents the sub-sector review and analysis of Teacher Education (TE) in Sindh and has mainly been adapted from the ‘Teacher Education Strategy 2018: Addressing the Issue of Quality (Sindh)’ (May 2012).
 
 ### 8.1 Policy Context and Situation Analysis
 
@@ -1712,18 +1608,18 @@ Page 57 of 155
 
 [[START OF PAGE 58]]
 
-Similarly,  to  resolve  the  problem  of  non-availability  of  teachers  (especially,  for  rural  areas' schools), different policies created different provisions- e.g. ‗construction of residences'(cf. Fifth Five  Year  Plan1978-83);introducing  ‗ Razakar  Muallim '  or  volunteer  teacher  (cf.  National Literacy  Plan  1984-86);  emphasis  on  specially  trained  teachers  in  ‗non-formal  system  of education' under the Nai Roshni Schools (1986-90). To address the issue of shortage of trained and qualified female teachers and teacher absenteeism in rural primary schools, policy provisions included, for example, some flexibility in application of recruitment rules (hiring of intermediates and graduates or teachers without a PTC as primary teachers), part-time, contract based hiring offemale teachers, including the retired ones (cf. the Seventh Five Year Plan 198893). The Second Five Year Plan (1960-65) puts emphasis on teaching aids, whereas, the Third Five Year Plan (1965-70) included reforms in teacher salary. Major policies concerning teacher education,  however,  appeared  in  the  National  Education  Policy  of  1992,  where  emphasis  was placed  on  improving  the  quality  of  instruction  through  extensive  in-service  teachers'  training program. Consequently, the Eight Five Year Plan (1993-98) proposed the development and use of ‗activity oriented' instructional material for teachers to make the learning process interesting.
+Similarly, to resolve the problem of non-availability of teachers (especially, for rural areas’ schools), different policies created different provisions– e.g. ‘construction of residences’(cf. Fifth Five Year Plan1978-83);introducing ‘Razakar Muallim’ or volunteer teacher (cf. National Literacy Plan 1984-86); emphasis on specially trained teachers in ‘non-formal system of education’ under theNai Roshni Schools (1986-90). To address the issue of shortage of trained and qualified female teachers and teacher absenteeism in rural primary schools, policy provisions included, for example, some flexibility in application of recruitment rules (hiring of intermediates and graduates or teachers without a PTC as primary teachers), part-time, contract based hiring offemale teachers, including the retired ones (cf. the Seventh Five Year Plan 1988-93). The Second Five Year Plan (1960-65) puts emphasis on teaching aids, whereas, the Third Five Year Plan (1965-70) included reforms in teacher salary. Major policies concerning teacher education, however, appeared in the National Education Policy of 1992, where emphasis was placed on improving the quality of instruction through extensive in-service teachers’ training program. Consequently, the Eight Five Year Plan (1993-98) proposed the development and use of ‘activity oriented’ instructional material for teachers to make the learning process interesting.
 
 Criticizing  the  lack  of/  limited  use  of  teaching  kits  (as  being  kept  under  lock  and  key  in  the headteacher's  room),  the  NEP  (1998-2010)  put  emphasis  on,  for  instance,creating  a  matching relationship between the demand and supply of teachers; institutionalizing in-service training of teachers, teacher trainers and educational administrators; introducing parallel programs of longer duration at post-secondary and post-degree levels (to upgrade the quality of pre-service teacher training programs); and developing a viable framework for policy planning and development of in-service and pre-service TE programs.Massive involvement of foreign donor agencies in the education  was  one  of  the  highlights  of  the  1998  Policy.  1998  onwards,  therefore,  marks  the period  of  substantive  inputs  by  donors  in  education,  in  general,  and  teacher  education,  in particular,  which  included  a  focus  on  introducing  new  concepts,  techniques  and  innovations, structural and policy reforms under various projects.
+
+Table 8.1: Major TE Developments from 1958-1980
 
 Time Frame | Major TE Developments in Sindh (1958-80)
 --- | ---
 1958 |  A primary teacher education institution established in Karachi
 1960 |  Regional Education Extension Centers (REECs) established in 3 districts for in-service TE
-1960s & 1970s |  ‗Teacher Training Schools' were set up in almost all districts
+1960s & 1970s |  ‘Teacher Training Schools’ were set up in almost all districts
 Early 70s |  Crash in-service TE programs were introduced, trained more than 70,000 primary teachers
-
-Table 8.1: Major TE Developments from 1958-1980
 
 Page 58 of 155
 
@@ -1756,7 +1652,7 @@ Page 59 of 155
 2007 - 2012 | Ed-Links - Links to Learning Project (USAID):  Project focus was improving the quality of middle- and secondary-school  Four core subjects (English, science, math, and computer technology) were focused
 --- | ---
 2008 - 2011 | Sindh Education Reform Programme (SERP-1): (WB, EU, USAID etc.) Improving TE was one of its key reform areas and key achievements include:  TED Policy approved (2009)  Need and merit based recruitment of 14,000 teachers (PST/JST/HST)  Sindh Teacher Education Development Authority's (STEDA) secretariat at RSU  Piloting of Associate Degree in Education (ADE-2 years) & B.Ed. (Hon., 4 years)  CPD Accreditation Criteria developed/piloted  CPD Delivery piloted in 3 EMR Districts
-2011 - on- going | Pre-Step (USAID) Pre-Service Teacher Education Program (2011-2013): Focuses on the improvement of TE programmes through the standardization of pre-service teacher education and development  Developing Teacher Education Strategy 2018  Building capacity of TEIs  Strengthening collaboration among and across teacher education institutions in Sindh
+2011 – on-going | Pre-Step (USAID) Pre-Service Teacher Education Program (2011-2013): Focuses on the improvement of TE programmes through the standardization of pre-service teacher education and development  Developing Teacher Education Strategy 2018  Building capacity of TEIs  Strengthening collaboration among and across teacher education institutions in Sindh
 2012 |  STEDA Bill was passed at the Sindh Assembly
 
 Source: Adapted from Teacher Education Strategy 2018
@@ -1765,13 +1661,13 @@ The following lines describe the current policy context for teacher education an
 
 ##### Current Policy Context
 
-The National Education Policy 2009 indicates the need for reform in all areas, including ‗preservice training and standardization of qualifications; professional development; teacher remuneration,  career  progression  and  status;  and  governance  and  management  of  the  teaching workforce'. Additionally, it highlights the ‗growth of private sector' as adding ‗new complexities to  the  teaching  profession'  and,  therefore,  needs  to  be  taken  into  account  while  planning  any reform of the system. The policy directives are presented below.
+The National Education Policy 2009 indicates the need for reform in all areas, including ‘pre-service training and standardization of qualifications; professional development; teacher remuneration, career progression and status; and governance and management of the teaching workforce’. Additionally, it highlights the ‘growth of private sector’ as adding ‘new complexities to the teaching profession’ and, therefore, needs to be taken into account while planning any reform of the system. The policy directives are presented below.
 
-##### Policy Actions for Improving Teacher Quality - NEP 2009
+##### Policy Actions for Improving Teacher Quality – NEP 2009
 
-Policy Action  1
+Policy Action 1
 
-ABachelorsdegree,withaB.Ed.,shallbetheminimumrequirementforteachingatthe elementary level.AMasterslevelfor thesecondary andhighersecondary,with aB.Ed., shallbeensuredby2018.PTCandCTshallbephasedoutthroughencouraging the presentsetof  teachers  toimprovetheirqualifications,  while newhiring shallbe based on theadvancedcriteria.Exceptionsshallbemadeincaseoflessdevelopedareaswhere teacherswithrelevantqualificationsarenotavailable.  DiplomainEducation(D.Ed.)may be used asan intermediatequalification tillB.Ed.teachers areavailable universally All aspects of teacher education i.e. recruitment, promotion and teacher rationalization need to be integrated. To provide a comprehensive framework in response to NEP 2009, the Government of Sindh (GoS) took an important initiative to improve Teacher Education and Development (TED) Policy 2009; the policy guides reforms in the following three areas:
+A Bachelors degree, with a B.Ed., shall be the minimum requirement for teaching at the elementary level. A Masters level for the secondary and higher secondary, with a B.Ed., shall be ensured by 2018. PTC and CT shall be phased out through encouraging the present set of teachers to improve their qualifications, while new hiring shall be based on the advanced criteria. Exceptions shall be made in case of less developed areas where teachers with relevant qualifications are not available. Diploma in Education (D.Ed.) may be used as an intermediate qualification till B.Ed. teachers are available universally
 
 Page 60 of 155
 
@@ -1779,159 +1675,69 @@ Page 60 of 155
 
 [[START OF PAGE 61]]
 
-Teacher training arrangements,accreditationand certification proceduresshallbe
+Policy Action 2
 
-standardised andinstitutionalized
+Teacher training arrangements, accreditation and certification procedures shall be standardised and institutionalized
 
-Teachereducationcurriculum
+Policy Action 3
 
-shallbeadjustedtotheneedsoftheschoolcurriculum
+Teacher education curriculum shall be adjusted to the needs of the school curriculum and scheme of studies. The curriculum shall include training for student-centred teaching, cross-curricular competencies, and an on-site component.
 
-and
+Policy Action 4
 
-schemeofstudies.Thecurriculum shallincludetrainingforstudent-centredteaching, cross-
+A separate cadre of specialised teacher trainers shall be developed.
 
-curricularcompetencies, andan on-site component.
+Policy Action 5
 
-Aseparate cadreofspecialised teachertrainersshallbedeveloped.
+Governments shall take steps to ensure that teacher recruitment, professional development, promotions and postings are based on merit alone.
 
-Governments  shall  take  steps  to  ensure  that  teacher  recruitment,  professional
+Policy Action 6
 
-development, promotions and postings are basedon meritalone.
+All teachers shall have opportunities for professional development through a programme organized on a three-year cyclic basis. Progress in career shall be linked to such professional development.
 
-Allteachersshallhaveopportunitiesforprofessionaldevelopmentthroughaprogramme
+Policy Action 7
 
-organizedonathree-yearcyclicbasis.Progressin
+In-service teachers training in mathematics shall be provided, with due attention to developing conceptual understanding, procedural knowledge, problem solving and practical reasoning skills.
 
-careershallbelinkedtosuch
+Policy Action 8
 
-professionaldevelopment.
+In-service teacher training in sciences shall be based on real life situations, use of science kits and provision of science kits to all primary and middle schools.
 
-In-service
+Policy Action 9
 
-teachers
+Teacher allocation plans, likewise, shall be based on school needs and qualifications of teachers. Over the next two years, Governments shall develop a rationalised and need-based school allocation of teachers, which should be reviewed and modified annually.
 
-training
+Policy Action 10
 
-inmathematics
+Provincial and Area Administrations shall develop effective accountability mechanisms, including EMIS data on teacher deployment, to control absenteeism and multiple job-holding
 
-shallbeprovided,with
+Policy Action 11
 
-dueattention
+Institutionalised and standardised in-service teacher training regime shall be established in those provinces where it has not already been done.
 
-to
+Policy Action 12
 
-developingconceptualunderstanding,proceduralknowledge,problem
+In-service training shall cover a wide range of areas: pedagogy and pedagogical content knowledge; subject content knowledge; testing and assessment practices; multi-grade teaching, monitoring and evaluation; and programmes to cater to emerging needs like trainings in languages and ICT.
 
-solvingand
+Policy Action 13
 
-practicalreasoningskills.
+Training needs shall be assessed on the basis of research and training programmes.
 
-In-serviceteachertraininginscienceshallbebasedonreallifesituations,useofscience
+Policy Action 14
 
-kits
+Governments shall take steps to improve social status and morale of teachers. These include: up-scaling of teacher salaries as part of establishing a separate teaching cadre and teaching career; teachers’ professional development, and a reward system based on performance measures.
 
-andprovision ofscience kitsto allprimaryand middleschools.
+Policy Action 15
 
-Teacherallocationplans,likewise,shallbebasedonschoolneedsandqualificationsof
+Incentives shall be given to teachers in rural or other hard areas, at least to compensate for loss in salary through reduction of various allowances given for urban but not for rural postings.
 
-teachers.Over
+Policy Action 16
 
-thenexttwoyears,Governmentsshalldeveloparationalised
+The teaching workforce shall be managed on a truly professional basis, organized as a specialised function.
 
-andneed-
+Policy Action 17
 
-basedschoolallocation of teachers, whichshould bereviewed and modified annually.
-
-ProvincialandAreaAdministrationsshalldevelopeffectiveaccountabilitymechanisms,
-
-includingEMISdataonteacherdeployment,tocontrolabsenteeismandmultiplejob-
-
-holding
-
-Institutionalisedandstandardisedin-serviceteachertrainingregimeshallbeestablished
-
-in
-
-thoseprovinces whereithas notalreadybeen done.
-
-In-servicetrainingshallcoverawiderangeofareas:pedagogyandpedagogicalcontent
-
-knowledge;subjectcontentknowledge;testing
-
-andassessmentpractices;multi-grade
-
-teaching,monitoring
-
-andevaluation;andprogrammestocatertoemerging
-
-needslike
-
-trainings inlanguages and ICT.
-
-Trainingneeds shallbeassessedon the basis ofresearch andtrainingprogrammes.
-
-Governmentsshalltakestepstoimprovesocialstatusandmoraleofteachers.These
-
-include:up-scalingofteachersalariesaspartofestablishingaseparateteachingcadre
-
-and
-
-teachingcareer;teachers'
-
-professionaldevelopment,andarewardsystem
-
-basedon
-
-performance measures.
-
-Incentivesshallbegiventoteachersinruralorotherhardareas,atleasttocompensate
-
-forlossinsalarythroughreductionofvariousallowancesgivenforurbanbutnotfor
-
-ruralpostings.
-
-Theteachingworkforceshallbemanagedonatrulyprofessionalbasis,organizedasa
-
-specialised function.
-
-In-service  teacher  training  institutions  shall  emphasise  developing  the  capacity  of
-
-teachers  and  school  managers  for  school  development  plans,  to  overcome  low
-
-achievementscores.
-
-Policy Action  2
-
-Policy Action  3
-
-Policy Action  4
-
-Policy Action  5
-
-Policy Action  6
-
-Policy Action  7
-
-Policy Action  8
-
-Policy Action  9
-
-Policy Action  10
-
-Policy Action  11
-
-Policy Action  12
-
-Policy Action  13
-
-Policy Action  14
-
-Policy Action  15
-
-Policy Action  16
-
-Policy Action  17
+In-service teacher training institutions shall emphasise developing the capacity of teachers and school managers for school development plans, to overcome low achievement scores.
 
 Page 61 of 155
 
@@ -1939,49 +1745,31 @@ Page 61 of 155
 
 [[START OF PAGE 62]]
 
-Specialshorttermcoursesforimprovementoflanguageskillsforruralareateachers
+Policy Action 18
 
-shallbedesigned.
+Special short term courses for improvement of language skills for rural area teachers shall be designed.
 
-Thevoiceofteachersassociationsshallbegivendueconsiderationindecisionson
+Policy Action 19
 
-collective
+The voice of teachers associations shall be given due consideration in decisions on collective issues affecting teachers.
 
-issues affectingteachers.
+Policy Action 20
 
-Governmentshallaimtodrawuponresourcesfromtheprivatesectorthroughpublic-
+Government shall aim to draw upon resources from the private sector through public-private partnerships, especially in the areas of teacher education and professional development programmes.
 
-privatepartnerships,especially
+Policy Action 21
 
-intheareasofteachereducationandprofessional
+International Development Partners’ resources shall be harnessed within a broad national programme of teacher improvement for the country as a whole through inter-tier collaboration.
 
-developmentprogrammes.
+Policy Action 22
 
-InternationalDevelopmentPartners'resourcesshallbeharnessedwithinabroadnational
+Maximum age limit shall be waived off for recruitment of female teachers.
 
-programmeofteacherimprovementforthecountry
+All aspects of teacher education i.e. recruitment, promotion and teacher rationalization need to be integrated. To provide a comprehensive framework in response to NEP 2009, the Government of Sindh (GoS) took an important initiative to improve Teacher Education and Development (TED) Policy 2009; the policy guides reforms in the following three areas:
 
-asawholethroughinter-tier
-
-collaboration.
-
-Maximumage limitshallbe waived offforrecruitmentoffemaleteachers.
-
-Policy Action  18
-
-Policy Action  19
-
-Policy Action  20
-
-Policy Action  21
-
-Policy Action  22
-
-- Initial Teacher Education (ITE) or pre-service teacher education;
-
-- Continuous Professional Development (CPD) of teachers or in-service teacher education; and
-
-- The overall management of teacher quality (teacher education and development).
+1. Initial Teacher Education (ITE) or pre-service teacher education;
+2. Continuous Professional Development (CPD) of teachers or in-service teacher education; and
+3. The overall management of teacher quality (teacher education and development).
 
 #### 8.1.2 Theoretical Analysis
 
@@ -2007,20 +1795,44 @@ Access  and  equity  is  seen  here  in  terms  of  availability  of  teachers  
 
 ###### Size of the Teaching Workforce
 
-The  disparity between  the  numbers  of male and female teachers is quite distinct at  the  primary  level.  In  Figure  8.1,  it  is evident that the provisions of female teachers have been consistently low in all sectors.  The  Figure  8.2  below  indicates that primary school teachers make up more than two-third of the total workforce in the public  schools  from  the  primary  to  the
+The disparity between the numbers of male and female teachers is quite distinct at the primary level. In Figure 8.1, it is evident that the provisions of female teachers have been consistently low in all sectors. The Figure 8.2 below indicates that primary school teachers make up more than two-third of the total workforce in the public schools from the primary to the higher secondary level. This implies that the most significant allocation of attention and resources needs to be to primary school teachers across all efforts to improve the quality of education in the province.
+
+Figure 8.1: Distribution of Gender at Primary Level
+140000
+120000
+100000
+80000
+60000
+40000
+20000
+0
+2006-07
+2007-08
+2008-09
+Primary(Male)
+Primary (Female)
+Total
 
 Source: Academy of Educational Planning and Management
 
-higher  secondary  level.  This  implies  that  the  most  significant  allocation  of  attention  and resources  needs  to  be  to  primary  school  teachers  across  all  efforts  to  improve  the  quality  of education in the province.
+Figure 8.2: Teachers by School Level
+Primary
+70%
+Middle
+7%
+Secondary
+18%
+High sec.
+5%
 
 Source: Statistical Bulletin ASC (2010-2011)
 
-Table 8.2: Teacher Workforce byDesignation and Gender
---- | --- | --- | ---
-Staff | No. of Teachers | Total | % Total
-Male | Female
+Furthermore, Table 8.2 represents the teacher workforce according to their gender and designation/ nomenclature, and it is quite evident that Primary School Teachers (at 66.58%) comprise the major bulk of the workforce.
 
-Furthermore, Table 8.2 represents the teacher workforce according to their gender and  designation/  nomenclature,  and  it  is quite evident that Primary School Teachers (at 66.58%) comprise the major bulk of the workforce.
+Table 8.2: Teacher Workforce byDesignation and Gender
+Staff | No. of Teachers | | Total | % Total
+--- | --- | --- | --- | ---
+ | Male | Female | |
 
 Page 63 of 155
 
@@ -2074,55 +1886,49 @@ Page 64 of 155
 
 ##### Quality of Learning
 
-More than 37,000 teachers are qualified for either the intermediate level or less-a figure that falls significantly  below  the  National    Education  Policy 2009 standards. These teachers need to be encouraged to enhance their academic and professional qualifications through flexible programmes.
+More than 37,000 teachers are qualified for either the intermediate level or less—a figure that falls significantly below the National Education Policy 2009 standards. These teachers need to be encouraged to enhance their academic and professional qualifications through flexible programmes.
 
+Figure 8.3: Distribution of Academic Qualification at All Levels
 0
-
 10000
-
 20000
-
 30000
-
 40000
-
 50000
-
 60000
-
 Middle
-
 Matric
-
 F.A/F.Sc
-
-B.A/B.Sc M.A/M.Sc
-
-Figure 8.3: Distribution of Academic
-
-Qualification at All Levels
-
+B.A/B.Sc
+M.A/M.Sc
 Primary
-
 Middle
-
 High
-
 Higher Sec
 
-It is quite evident that nearly half of the teacher body (at least 48% of the teacher work force)
+It is quite evident that nearly half of the teacher body (at least 48% of the teacher work force) will need to improve their professional qualifications—if not academic qualifications – throughbridging programmes.
 
-will need to improve their professional qualifications-if not academic qualifications -throughbridging programmes.
+Figure 8.4: Distribution of Professional Qualifications at All Levels
+39%
+9%
+28%
+16%
+3%
+2%
+3%
+P.T.C
+C.T
+B.Ed
+M.Ed
+Other Trained
+Un- trained
+Not Mentioned
 
 ###### Quality of Faculty/ Teacher Educators
 
-Likewise, the academic qualifications of teacher educators (GECE's faculty) also require closer scrutiny.
+Likewise, the academic qualifications of teacher educators (GECE’s faculty) also require closer scrutiny.
 
-The table indicates that the faculty with Arts subjects
-
-is  roughly  three  times  larger  than  the  faculty members  who  have  an  academic  background in  science  subjects.  Also,  the  majority  of  the faculty with the Arts has a Master's degree in the Sindhi language. The colleges of education need a wider distribution of subjects for implementation of ADE and B.Ed. (Honors).
-
-In  addition,  Figure 8.5 presents a comparison of gender distribution in selected subjects. As evident, there is greater number of male versus female teachers (76  male  and  43 females). Furthermore, Computer teachers outnumber those in all other subjects, especially, as compared  to  Chemistry  and  Biology,  which have the lowest numbers of teachers.
+The table indicates that the faculty with Arts subjects is roughly three times larger than the faculty members who have an academic background in science subjects. Also, the majority of the faculty with the Arts has a Master’s degree in the Sindhi language. The colleges of education need a wider distribution of subjects for implementation of ADE and B.Ed. (Honors).
 
 Table 8.4: Academic and Professional Qualification of Faculty in GECE
 --- | --- | --- | --- | --- | ---
@@ -2136,97 +1942,20 @@ BSc | - | 2 | 9 | - | 11
 BA | 1 | 2 | - | 3 | 6
 Total | 26 | 21 | 163 | 8 | 218
 
-While  reviewing  the  current  provision  of  preservice and in-service teacher education in Sindh in terms of quality, it is important to mention that  the  situation  has  somewhat  modified  after  the  recent  interventions  of  ADE  Programme. Some  of  the  positive  features  of  the  ADE  program  include:  change  in  the  overall  quality  of students  enrolled  in  ADE  Programme;  evidences  of  programme  marketing  and  merit-based enrolments;  infrastructure  is  being  developed  at  TEIs;  resources  are  being  provided;  teacher educators'  capacity  building  exercises  (such  as  mentoring,  use  of  IT,  co-planning,  etc.)An important area that needs attention is how to scale up the ADE Programme in, for example, the other TE colleges where it is not being offered currently. The issue of resources and capacity building would need to be considered. The systems and mechanisms need to be put in place to ensure  that  the  quality  of  the  ADE  Programme  is  sustained  even  after  the  Pre-STEP  Project (USAID)  is  over.  It  is  important  that  research  studies  are  conducted  to  gain  deeper  insights regarding  the  impact,  outcomes,  issue  and  successes  of  the  ADE  Programmes  so  that  these insights and lessons learnt can be used to inform further interventions.
+In addition, Figure 8.5 presents a comparison of gender distribution in selected subjects. As evident, there is greater number of male versus female teachers (76 male and 43 females). Furthermore, Computer teachers outnumber those in all other subjects, especially, as compared to Chemistry and Biology, which have the lowest numbers of teachers.
 
-19
-
-14
-
-10
-
-8
-
-5
-
-5
-
-7
-
-7
-
-7
-
-6
-
-3
-
-3
-
-26
-
-21
-
-17
-
-14
-
-8
-
-8
-
-Computer
-
-English
-
-Mathematics
-
-Physics
-
-Chemistry
-
-Biology
-
-Figure 8.5: New Recruitments in GECEs- Gender
-
-Distribution
-
+Figure 8.5: New Recruitments in GECEs– Gender Distribution
 Male
-
 Female
-
 Total
+Computer 19 7 26
+English 14 7 21
+Mathematics 10 7 17
+Physics 8 6 14
+Chemistry 5 3 8
+Biology 5 3 8
 
-39%
-
-9%
-
-28%
-
-16%
-
-3%
-
-2%
-
-3%
-
-Figure 8.4: Distribution of Professional
-
-Qualifications at All Levels
-
-P.T.C
-
-C.T
-
-B.Ed
-
-M.Ed
-
-Other Trained
-
-Un- trained
-
-Not Mentioned
+While reviewing the current provision of pre-
 
 Page 65 of 155
 
@@ -2234,16 +1963,18 @@ Page 65 of 155
 
 [[START OF PAGE 66]]
 
+service and in-service teacher education in Sindh in terms of quality, it is important to mention that the situation has somewhat modified after the recent interventions of ADE Programme. Some of the positive features of the ADE program include: change in the overall quality of students enrolled in ADE Programme; evidences of programme marketing and merit-based enrolments; infrastructure is being developed at TEIs; resources are being provided; teacher educators’ capacity building exercises (such as mentoring, use of IT, co-planning, etc.)An important area that needs attention is how to scale up the ADE Programme in, for example, the other TE colleges where it is not being offered currently. The issue of resources and capacity building would need to be considered. The systems and mechanisms need to be put in place to ensure that the quality of the ADE Programme is sustained even after the Pre-STEP Project (USAID) is over. It is important that research studies are conducted to gain deeper insights regarding the impact, outcomes, issue and successes of the ADE Programmes so that these insights and lessons learnt can be used to inform further interventions.
+
 ### 8.2. Key Issues and Challenges
 
-The detailed situation analysis above and stakeholders' input and deliberations (e.g. TWG, FGDs, and  meeting  with  DPMs-RSU)  highlight  a  number  of  issues  related  to  teacher  quality  and development. These are synthesized below along the four key dimensions of system performance (i.e. access and equity, internal and external efficiency, and quality of learning). It is important to realize  that  one  of  the  biggest  challenges  faced  by  provinces,  in  general,  and  Sindh,  more specifically,  is  in  relation  to  the  18 th Constitutional  Amendment  -  i.e.  the  scale  of  system  and management challenges posed by this provision. Both, the abolition of the Concurrent List and the insertion of the Article 25A, offer challenges (i.e. heavy mandates and increased responsibility) as well  as  opportunities  (i.e.  empowerment  and  autonomy)  in  relation  to  teacher  education  in  the province.  In  order  to  fulfill  the  demands  of  the  post-constitutional  amendment  scenario,  the province  needs  to  reposition  itself,  revisit  its  roles,  build  capacity,  and  put  in  place  appropriate mechanisms.
+The detailed situation analysis above and stakeholders’ input and deliberations (e.g. TWG, FGDs, and meeting with DPMs-RSU) highlight a number of issues related to teacher quality and development. These are synthesized below along the four key dimensions of system performance (i.e. access and equity, internal and external efficiency, and quality of learning). It is important to realize that one of the biggest challenges faced by provinces, in general, and Sindh, more specifically, is in relation to the 18th Constitutional Amendment – i.e. the scale of system and management challenges posed by this provision. Both, the abolition of the Concurrent List and the insertion of the Article 25A, offer challenges (i.e. heavy mandates and increased responsibility) as well as opportunities (i.e. empowerment and autonomy) in relation to teacher education in the province. In order to fulfill the demands of the post-constitutional amendment scenario, the province needs to reposition itself, revisit its roles, build capacity, and put in place appropriate mechanisms.
+
+Table 8.5: Key Issues Facing Teacher Education and Development in Sindh – A Synthesis
 
 Issues | Details
 --- | --- | ---
 Access and Equity | 18th Amendment Scenario: Implications of Article 25-A |  To ensure quality while meeting the demands of 25-A in terms of required number of qualified teachers would be a major challenge
 Teacher Shortage |  Need for female teachers at secondary and higher secondary levels, particularly. in rural areas to help increase female enrolment and retention at that level  Non availability of subject specialist teachers (Science, Math,
-
-Table 8.5: Key Issues Facing Teacher Education and Development in Sindh - A Synthesis
 
 Page 66 of 155
 
@@ -2279,9 +2010,9 @@ Page 68 of 155
 
 [[START OF PAGE 69]]
 
-in-service providers need to be finalized, communicated and implemented across the province  Lack of a professional body for the purpose of evaluating the teaching/learning operational process of schools and educational institutions  STEDA is there as a professional unit to work towards determining the extent to which national educational policies are being implemented and standards are maintained; however, STEDA is facing some challenges in relation to effective execution of its role, which include - a critical lack of capacity in terms of the required human resource - Absence of Notified Rules of Business for the authority - Website not being actively updated due to lack of website management system - Teacher Education and Development Database System (TEDDS) is not in place, creating difficulties in evidence-based planning  The recruitment, education and professional development of
+in-service providers need to be finalized, communicated and implemented across the province  Lack of a professional body for the purpose of evaluating the teaching/learning operational process of schools and educational institutions  STEDA is there as a professional unit to work towards determining the extent to which national educational policies are being implemented and standards are maintained; however, STEDA is facing some challenges in relation to effective execution of its role, which include - a critical lack of capacity in terms of the required human resource - Absence of Notified Rules of Business for the authority - Website not being actively updated due to lack of website management system - Teacher Education and Development Database System (TEDDS) is not in place, creating difficulties in evidence-based planning  The recruitment, education and professional development of teachers is also not based on rigorous professional standards
 --- | ---
-Sustainability Mechanism | teachers is also not based on rigorous professional standards  Need for integration of donor-funding and creation of synergy in interventions in Sindh  Issue of continuation and sustainability of interventions/ initiatives (e.g. impact and scaling up of ADE and B.Ed. Hons Programme)  Need for long-term vision and/or strategy at the provincial level, based on the concept of teacher development as life-long learning process, and use of constructivist philosophies and approaches for teacher development  Need to integrate all the various, existing plans and strategy documents to come up with a comprehensive, coherent and consistent plan to implement teacher education in Sindh
+Sustainability Mechanism |  Need for integration of donor-funding and creation of synergy in interventions in Sindh  Issue of continuation and sustainability of interventions/ initiatives (e.g. impact and scaling up of ADE and B.Ed. Hons Programme)  Need for long-term vision and/or strategy at the provincial level, based on the concept of teacher development as life-long learning process, and use of constructivist philosophies and approaches for teacher development  Need to integrate all the various, existing plans and strategy documents to come up with a comprehensive, coherent and consistent plan to implement teacher education in Sindh
 
 ### 8.3. Objectives, Targets and Strategies
 
@@ -2305,12 +2036,12 @@ Page 69 of 155
 
 Next, Table 8.6 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
 
+Table 8.6: Teacher Education and Development: Objectives, Strategies, Targets and Activities
+
 GOAL: To improve the quality of teachers in Sindh through improving Teacher Education and Development
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
-Strategic Objective 1 Enhance the provision and quality of Initial Teacher Education (pre- service) in Sindh |  Capacity building of teachers in the identified areas of need  Ensure minimum knowledge facilities at TEIs (physical infrastructure and learning resources)  Enhance TEIs' quality of intake, teacher educators, teaching and learning processes  Upgrading of GECEs into B.Ed. offering institutions  Expand the provision especially for females, and in rural Sindh |  Enhanced capacity of % teacher educators in the identified areas by 2016 - ECE - Conflict sensitivity, diversity management in classrooms, promoting social cohesion; - Non-formal Education (NFE) and Adult Literacy Centers (ALCs) - ICT - Evidence-based planning (monitoring, implementation and mentoring)  % of teachers capacity building plan in the identified areas is developed  TEIs mapping carried out against Provincial Standards for minimum knowledge |  Develop (enrich) ITE programmes in the following areas: ECE; conflict sensitivity, diversity management and social cohesion; NFE and ADLCs  Develop standards for minimum knowledge facilities at TEIs(NACTE standards could be adapted and piloted)  Map TEIs against identified standards  Develop plan for improving the physical infrastructure and resource provision based on the outcomes of mapping (prioritizing the lowest on the index)  Prepare capacity building programmes for TEI faculty/ teacher educators (e.g. language competence, IT, research knowledge and skills)  Develop mechanisms for entry performance test  Improve the quality of teaching learning processes (e.g. more integration of ICT, enhanced use of constructivist learning approaches, enhanced assessment procedures, etc.)  Detailed study is commissioned to assess system's current capacity to offer ITE programmes (e.g. ADE & B.Ed.) and develop informed plan for scaling up and upgrading of ITE programmes  Initiate ADE and B.Ed. programmes in the remaining TEIs, prioritizing female teacher- students, and rural areas  Commission impact studies and/ or internal and external evaluations of ADE & B.Ed.
-
-Table 8.6: Teacher Education and Development: Objectives, Strategies, Targets and Activities
+Strategic Objective 1 Enhance the provision and quality of Initial Teacher Education (pre- service) in Sindh |  Capacity building of teachers in the identified areas of need  Ensure minimum knowledge facilities at TEIs (physical infrastructure and learning resources)  Enhance TEIs’ quality of intake, teacher educators, teaching and learning processes  Upgrading of GECEs into B.Ed. offering institutions  Expand the provision especially for females, and in rural Sindh |  Enhanced capacity of % teacher educators in the identified areas by 2016 - ECE - Conflict sensitivity, diversity management in classrooms, promoting social cohesion; - Non-formal Education (NFE) and Adult Literacy Centers (ALCs) - ICT - Evidence-based planning (monitoring, implementation and mentoring)  % of teachers capacity building plan in the identified areas is developed  TEIs mapping carried out against Provincial Standards for minimum knowledge |  Develop (enrich) ITE programmes in the following areas: ECE; conflict sensitivity, diversity management and social cohesion; NFE and ADLCs  Develop standards for minimum knowledge facilities at TEIs(NACTE standards could be adapted and piloted)  Map TEIs against identified standards  Develop plan for improving the physical infrastructure and resource provision based on the outcomes of mapping (prioritizing the lowest on the index)  Prepare capacity building programmes for TEI faculty/ teacher educators (e.g. language competence, IT, research knowledge and skills)  Develop mechanisms for entry performance test  Improve the quality of teaching learning processes (e.g. more integration of ICT, enhanced use of constructivist learning approaches, enhanced assessment procedures, etc.)  Detailed study is commissioned to assess system’s current capacity to offer ITE programmes (e.g. ADE & B.Ed.) and develop informed plan for scaling up and upgrading of ITE programmes  Initiate ADE and B.Ed. programmes in the remaining TEIs, prioritizing female teacher-students, and rural areas  Commission impact studies and/ or internal and external evaluations of ADE & B.Ed.
 
 Page 70 of 155
 
@@ -2321,8 +2052,8 @@ Page 70 of 155
 GOAL: To improve the quality of teachers in Sindh through improving Teacher Education and Development
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
-facilities  Robust mechanism for marketing of ITE programmes is in place by 2014  Use of a variety of relevant teaching and learning methods at % TEIs by 2016  % of Teacher educators' capacity building in (content- specific and andragogy related) by 2016 (taking phased approach)  Scaling up of existing initiatives of ADE in all existing TEIs, and B.Ed. in selected TEIs
-Strategic Objective 2 Enhance the provision and quality of provision of Continuous Professional Development (in-service) |  Provision for on-going, need-based professional development of teachers based on a comprehensive CPD framework  Enhanced capacity of % teacher educators in the identified areas by 2015 - ECE; - Conflict sensitivity, diversity management in classrooms, promoting social cohesion; - Non-formal Education (NFE) and Adult Literacy | by 2016  A comprehensive CPD Framework, based on teachers needs and Curriculum 2006, is developed and in use by 2014-15  Framework for bridging courses is developed and in use by 2016  Induction plan for newly recruited teachers (around 19,000) is in place by 2014 and in use by 2014-15 for phase wise induction of teachers |  Identify teachers' CPD needs based on Curriculum 2006  Assess system's capacity to offer CPD (regular, bridging courses) or induction programme to inform planning for capacity building  Develop, pilot, approve and implement a comprehensive CPD Framework  Develop CPD as credit-based programmes, aligned with ITE programmes  Develop need-based, quality programmes for CPD  Develop (enrich) CPD programmes in the following areas: ECE; conflict sensitivity, diversity management and social cohesion; NFE and ADLCs  Design and implement bridging courses for in- service teachers along with mechanisms for offering these programmes (taking a phase wise approach to cater to the extensive needs of existing teachers)
+ | | facilities  Robust mechanism for marketing of ITE programmes is in place by 2014  Use of a variety of relevant teaching and learning methods at % TEIs by 2016  % of Teacher educators’ capacity building in (content-specific and andragogy related) by 2016 (taking phased approach)  Scaling up of existing initiatives of ADE in all existing TEIs, and B.Ed. in selected TEIs by 2016 |
+Strategic Objective 2 Enhance the provision and quality of provision of Continuous Professional Development (in-service) |  Provision for on-going, need-based professional development of teachers based on a comprehensive CPD framework  Enhanced capacity of % teacher educators in the identified areas by 2015 - ECE; - Conflict sensitivity, diversity management in classrooms, promoting social cohesion; - Non-formal Education (NFE) and Adult Literacy |  A comprehensive CPD Framework, based on teachers needs and Curriculum 2006, is developed and in use by 2014-15  Framework for bridging courses is developed and in use by 2016  Induction plan for newly recruited teachers (around 19,000) is in place by 2014 and in use by 2014-15 for phase wise induction of teachers |  Identify teachers’ CPD needs based on Curriculum 2006  Assess system’s capacity to offer CPD (regular, bridging courses) or induction programme to inform planning for capacity building  Develop, pilot, approve and implement a comprehensive CPD Framework  Develop CPD as credit-based programmes, aligned with ITE programmes  Develop need-based, quality programmes for CPD  Develop (enrich) CPD programmes in the following areas: ECE; conflict sensitivity, diversity management and social cohesion; NFE and ADLCs  Design and implement bridging courses for in-service teachers along with mechanisms for offering these programmes (taking a phase wise approach to cater to the extensive needs of existing teachers)
 
 Page 71 of 155
 
@@ -2333,7 +2064,7 @@ Page 71 of 155
 GOAL: To improve the quality of teachers in Sindh through improving Teacher Education and Development
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
-Centers (ALCs) - Evidence-based planning (monitoring, implementation and mentoring) - ICT  Provision of bridging courses to bring at par with ADE and B.Ed. degrees  Creation of opportunities for on- going school-based professional development opportunities (Mentoring and PLCs)  Capacity assessment for informed and realistic planning  Enhanced opportunities for relevant CPD are available for % female teachers and especially |  Variety of newly developed CPD programmes, based on emerging needs, are developed by 2015-16 (which could use alternative pedagogies and flexible approaches; for instance, through use of ICT)  Professional learning communities (PLCs) are developed and working at school/ TEI level by 2016  TORs for school level mentors and advisors are developed by 2015 |  Design, pilot and implement Induction Programme for newly appointed teachers, aligned with ITE and CPD programmes  Create and provide on-going support to the school- based professional development opportunities - professional learning communities (PLCs) - School-based mentoring and supervision
+Centers (ALCs) - Evidence-based planning (monitoring, implementation and mentoring) - ICT  Provision of bridging courses to bring at par with ADE and B.Ed. degrees  Creation of opportunities for on-going school-based professional development opportunities (Mentoring and PLCs)  Capacity assessment for informed and realistic planning  Enhanced opportunities for relevant CPD are available for % female teachers and especially from rural areas |  Variety of newly developed CPD programmes, based on emerging needs, are developed by 2015-16 (which could use alternative pedagogies and flexible approaches; for instance, through use of ICT)  Professional learning communities (PLCs) are developed and working at school/ TEI level by 2016  TORs for school level mentors and advisors are developed by 2015 |  Design, pilot and implement Induction Programme for newly appointed teachers, aligned with ITE and CPD programmes  Create and provide on-going support to the school-based professional development opportunities - professional learning communities (PLCs) - School-based mentoring and supervision
 Strategic Objective 3 Enhance the provision of specialized teachers, especially females, and in rural Sindh |  Need-based and rationalized recruitment of specialized teachers, prioritizing female teachers and for rural areas |  Need assessment of specialized teachers to be completed by 2014  Initiate phase-wise recruitment for additionally required teachers through TPV by 2016 |  Carry out needs assessment, especially based on and informed by teacher rationalization exercises  Create SNEs for new appointees based on needs assessment  Department notification and advertisement  Recruit additional teachers through TPV in the following areas, for instance: - Middle level subject specialist (Science, Math, English) male teachers for urban (%) and rural (%) - Middle level subject specialist (Science, Math, English) female teachers for urban (%) and rural (%) - ECE, female teachers (%)
 
 Page 72 of 155
@@ -2346,8 +2077,8 @@ GOAL: To improve the quality of teachers in Sindh through improving Teacher Educ
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
 - Non-formal teachers (%)
-Strategic Objective 4 Improve the overall Management of Teacher Education and Development |  Role rationalization, through consultative process, of BoC-EW, PITE, STEDA, BISE, STBB, TEIs (including DETRC, REEC), Universities, Directorate of school education and Director of colleges, especially, in relationship to each other  18th Amendment to serve as a guiding |  Rationalize institutional roles, build capacity, and create synergy within TED System by 2015- 16  Institutional mandate and TORs are reflective of the requirements of the 18th Amendment Scenario by 2014-15 |  Get the recommendations of existing committee (set up for the purpose of role rationalization) approved by BoG, STEDA and disseminate widely  Plan and implement stepwise capacity building of TE institutions vis-à-vis rationalized roles  Prepare MoU and comprehensive framework for university-GECEs' collaboration  Strengthen linkages between TEIs and schools  Enhance provision of school-based professional development component  Enhance and improved coordination between public and private TE service providers and institutions
-framework  Evidence-based, need- based and rationalized planning for teacher education and development |  Knowledge management infrastructure is in place by 2014-15  Management's capacity for evidence based planning is enhanced by 2015  Evidence-based planning is in practice by 2015-16  Donor-funding and interventions in Sindh are synergistically integrated and linked to the education sector plan |  Develop, use and update teacher education and development data system (TEDDS) for need-based and rationalized teacher recruitment, teacher deployment, teacher education, and management  Reports are generated to indicate e.g. teacher demand and supply needs; placement, deployment or transfer needs; number and relevant details on professionally developed teachers, TE service providers, etc.  BISE data report is used (e.g. by PITE) to inform teacher education/ preparation in the areas of low performance by students  Identify research directions  Develop and implement plan for enhancing system's capacity for conducting research and making use of findings  In the meantime, commission TE specific studies and disseminate and use findings across the system for informed decision making  Hold donor coordination meetings more frequently to ensure that donor-funding and interventions in Sindh are synergistically integrated and linked to
+Strategic Objective 4 Improve the overall Management of Teacher Education and Development |  Role rationalization, through consultative process, of BoC-EW, PITE, STEDA, BISE, STBB, TEIs (including DETRC, REEC), Universities, Directorate of school education and Director of colleges, especially, in relationship to each other  18th Amendment to serve as a guiding framework |  Rationalize institutional roles, build capacity, and create synergy within TED System by 2015-16  Institutional mandate and TORs are reflective of the requirements of the 18th Amendment Scenario by 2014-15 |  Get the recommendations of existing committee (set up for the purpose of role rationalization) approved by BoG, STEDA and disseminate widely  Plan and implement stepwise capacity building of TE institutions vis-à-vis rationalized roles  Prepare MoU and comprehensive framework for university-GECEs’ collaboration  Strengthen linkages between TEIs and schools  Enhance provision of school-based professional development component  Enhance and improved coordination between public and private TE service providers and institutions
+ |  Evidence-based, need-based and rationalized planning for teacher education and development |  Knowledge management infrastructure is in place by 2014-15  Management’s capacity for evidence based planning is enhanced by 2015  Evidence-based planning is in practice by 2015-16  Donor-funding and interventions in Sindh are synergistically integrated and linked to the education sector plan |  Develop, use and update teacher education and development data system (TEDDS) for need-based and rationalized teacher recruitment, teacher deployment, teacher education, and management  Reports are generated to indicate e.g. teacher demand and supply needs; placement, deployment or transfer needs; number and relevant details on professionally developed teachers, TE service providers, etc.  BISE data report is used (e.g. by PITE) to inform teacher education/ preparation in the areas of low performance by students  Identify research directions  Develop and implement plan for enhancing system’s capacity for conducting research and making use of findings  In the meantime, commission TE specific studies and disseminate and use findings across the system for informed decision making  Hold donor coordination meetings more frequently to ensure that donor-funding and interventions in Sindh are synergistically integrated and linked to
 
 Page 73 of 155
 
@@ -2359,8 +2090,8 @@ GOAL: To improve the quality of teachers in Sindh through improving Teacher Educ
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
 the education sector plan
- Provide career laddering; improve recruitment and service rules, etc. | Revised recruitment and service rules and amendments for both, teachers and teacher educators are available by 2015 SoPs for integrating gender sensitization are available by 2015 SoPs for integrating conflict sensitization, diversity management and social cohesionare available by 2015 |  Create necessary provision for - Strengthening linkages between professional development and career path - Performance-based promotions - Recruitment and professional development of teachers linked to rigorous professional standards  Review and revise policies and implementation framework to make them gender-sensitive  Review and revise policies and implementation framework to address issues related to conflict sensitivity, diversity management and social cohesion  Address ECE teacher recruitment related issues (e.g. create specific designation for ECE teachers, resolve issues of regular and ELP teachers in
- Improve and strengthen the Quality Assurance mechanisms for teacher education |  Policy and implementation framework for QA is in place (by 2014) and in use by 2015  Agreed professional standards are available for use by 2014  M&E framework and implementation plan for TEIs and other TE institutions is in place by 2014 and in use by 2015  A number of programmes and TE service providers are accredited by 2015  Teacher licensing mechanism is in place by 2014 and in use by 2016  STEDA website and | project schools)  Develop, approve, pilot and implement policy framework for QA for TE programmes and institutions  Put in place internal and external QA mechanism for TE  Develop, approve, pilot and implement Accreditation framework (taking guidance from NACTE standards); accredit a number of TE service providers and offer accredited programmes  Develop, approve, pilot and implement Teacher Licensing mechanism (policies, procedures) for system-wide use  Enhance STEDA's capacity for effective execution of its role as a Regulatory Authority (e.g. to ensure that policies are implemented and standards are maintained; e.g. do the following: - Hire required human resource - Notify Rules of Business for the authority - Ensure effective use and updating of a comprehensive and functional website for
+ Provide career laddering; improve recruitment and service rules, etc. | Revised recruitment and service rules and amendments for both, teachers and teacher educators are available by 2015 SoPs for integrating gender sensitization are available by 2015 SoPs for integrating conflict sensitization, diversity management and social cohesionare available by 2015 |  Create necessary provision for - Strengthening linkages between professional development and career path - Performance-based promotions - Recruitment and professional development of teachers linked to rigorous professional standards  Review and revise policies and implementation framework to make them gender-sensitive  Review and revise policies and implementation framework to address issues related to conflict sensitivity, diversity management and social cohesion  Address ECE teacher recruitment related issues (e.g. create specific designation for ECE teachers, resolve issues of regular and ELP teachers in project schools)
+ Improve and strengthen the Quality Assurance mechanisms for teacher education |  Policy and implementation framework for QA is in place (by 2014) and in use by 2015  Agreed professional standards are available for use by 2014  M&E framework and implementation plan for TEIs and other TE institutions is in place by 2014 and in use by 2015  A number of programmes and TE service providers are accredited by 2015  Teacher licensing mechanism is in place by 2014 and in use by 2016  STEDA website and |  Develop, approve, pilot and implement policy framework for QA for TE programmes and institutions  Put in place internal and external QA mechanism for TE  Develop, approve, pilot and implement Accreditation framework (taking guidance from NACTE standards); accredit a number of TE service providers and offer accredited programmes  Develop, approve, pilot and implement Teacher Licensing mechanism (policies, procedures) for system-wide use  Enhance STEDA’s capacity for effective execution of its role as a Regulatory Authority (e.g. to ensure that policies are implemented and standards are maintained; e.g. do the following: - Hire required human resource - Notify Rules of Business for the authority - Ensure effective use and updating of a comprehensive and functional website for
 
 Page 74 of 155
 
@@ -2368,11 +2099,10 @@ Page 74 of 155
 
 [[START OF PAGE 75]]
 
-Strategic Objective | Targets (2013 - 2016) | Activities
---- | --- | ---
-website management system is in place, updated and in regular use by 2014  System wide capacity building plan for QA is in place by 2014 and in use by 2015 | planning and dissemination - Put in place TEDDS  Develop and ensure phase-wise implementation of system wide capacity building for QA, e.g.: - human resource management and utilization, - infrastructure, including ICT and operational mobility - appropriate financial resourcing, alongside more efficient and effective utilization of existing resources - communication strategy and information sharing with stakeholders - mentoring and supervisory roles - knowledge management structure including research culture
-
 GOAL: To improve the quality of teachers in Sindh through improving Teacher Education and Development
+--- | --- | --- | ---
+Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
+ | | website management system is in place, updated and in regular use by 2014  System wide capacity building plan for QA is in place by 2014 and in use by 2015 | planning and dissemination - Put in place TEDDS  Develop and ensure phase-wise implementation of system wide capacity building for QA, e.g.: - human resource management and utilization, - infrastructure, including ICT and operational mobility - appropriate financial resourcing, alongside more efficient and effective utilization of existing resources - communication strategy and information sharing with stakeholders - mentoring and supervisory roles - knowledge management structure including research culture
 
 ## 9. CURRICULUM AND ASSESSMENT
 
@@ -2418,13 +2148,11 @@ Page 76 of 155
 
 [[START OF PAGE 77]]
 
-Through ‗Joint Declaration of Education' (2011) signed by the Prime Minister and Provincial Ministries,  the  NEP  2009  has  been
-
 apply the same.
 
-(Cf.  Government of Sindh Act for Free and Compulsory Education, 2013, Chapter V, Section 20)
+(Cf. Government of Sindh Act for Free and Compulsory Education, 2013, Chapter V, Section 20)
 
-accepted as jointly owned national document subject to such adaptations  as necessitated by the 18th Constitutional Amendment.
+Through ‘Joint Declaration of Education’ (2011) signed by the Prime Minister and Provincial Ministries, the NEP 2009 has been accepted as jointly owned national document subject to such adaptations as necessitated by the 18th Constitutional Amendment.
 
 The Government of Sindh Act for Free and Compulsory Education (2013) describes principles for curriculum and evaluation procedures (see Box 9.1).
 
@@ -2447,13 +2175,11 @@ Page 77 of 155
 
 [[START OF PAGE 78]]
 
-Policy Action
-
-Policy Action
-
-Policy Action
-
-Policy Action
+Policy Action | School Health Education and School Safety shall be infused within the curricula and learning materials with focus on improving school environment, enriching health education content, instituting regular mechanisms for health screening and health services of students and nutritional support to needy children in coordination with the Departments of Health, Environment and Population at the Federal, Provincial and District levels
+--- | ---
+Policy Action | Entrepreneurial Studies shall be introduced to develop entrepreneurial and business skills in students of general education to make them productive and self oriented citizens
+Policy Action | There shall be an ongoing feedback and evaluation mechanism so that a continuous Improvement process is institutionalized. Feedback should flow from the primary providers of education to the curriculum development process with the full involvement of all intermediary players
+Policy Action | Matric-Tech scheme shall be re-introduced at secondary level.
 
 Next, the policy provisions related to textbooks are presented below:
 
@@ -2466,31 +2192,16 @@ Policy Action | A Provincial /Area Committee comprising representatives of the e
 Policy Action | Federal and Provincial Governments shall arrange for the Textbook Boards to provide assistance in capacity development for the national and/or provincial publishing industry to become competitive players in an expanded education publishing market
 Policy Action | Government shall ensure availability of quality paper at reasonable cost for printing of textbooks
 
-School Health Education and School Safety shall be infused within the curricula and learning  materials  with  focus  on  improving  school  environment,  enriching  health education  content,  instituting  regular  mechanisms  for  health  screening  and  health services of students and nutritional support to needy children in coordination with the Departments of Health, Environment and Population at  the Federal, Provincial and District levels
-
-Entrepreneurial Studies shall  be introduced to develop entrepreneurial and business skills  in  students  of  general  education  to  make  them  productive  and  self  oriented citizens
-
-There shall be an ongoing feedback and evaluation mechanism so that a continuous Improvement  process  is  institutionalized.  Feedback  should  flow  from  the  primary providers of education to the curriculum development process with the full involvement of all intermediary players
-
-Matric-Tech scheme shall be re-introduced at secondary level.
-
 Page 78 of 155
 
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
 
-Policy Action
-
-Policy Action
-
-Policy Action
-
-Textbooks at primary level shall be developed within the context of local cultures
-
-Special textbooks shall be prepared to cater to multi-grade environments. Alternately, supplementary reading material that helps self-learning must be developed for such environments
-
-Curriculum  Wing  of  Ministry  of  Education  and  provincial  textbook  boards  shall ensure  elimination  of  all  types  of  gender  biases  from  textbooks.  Also  adequate representation  of  females  shall  be  ensured  in  all  curriculum  and  textbooks  review committees
+Policy Action | Textbooks at primary level shall be developed within the context of local cultures
+--- | ---
+Policy Action | Special textbooks shall be prepared to cater to multi-grade environments. Alternately, supplementary reading material that helps self-learning must be developed for such environments
+Policy Action | Curriculum Wing of Ministry of Education and provincial textbook boards shall ensure elimination of all types of gender biases from textbooks. Also adequate representation of females shall be ensured in all curriculum and textbooks review committees
 
 Assessment systems are quality measures that cater to a number of requirements of the education system.  These  can  be  used  to  measure  the  overall  system's  efficiency  as  well  as  individual student's  performance  for  progression  in  the  education  system.  A  comprehensive  assessment design  would  provide  feedback  for  improvement  at  all  tiers,  starting  from  changes  in  the classroom to improvements in the national systems.
 
@@ -2510,33 +2221,14 @@ Page 79 of 155
 
 [[START OF PAGE 80]]
 
-Policy Action  2
-
-Policy Action  3
-
-Policy Action  4
-
-Policy Action  5
-
-Policy Action  6
-
-Policy Action  7
-
-Policy Action 8
-
-Student performance shall be based on assessing competence in a specialised area that requires a given skill set. There shall be periodic reviews of the assessment system
-
-Multiple assessment tools in addition to traditional examinations shall be explored, to ensure  the  right  balance  between  the  uses  of  formative  assessment  approaches combined with the summative approach of high-stakes examinations
-
-National  standards  shall  be  developed  to  reduce  the  differences  in  quality  across regions.  Assessment  processes  shall  be  standardised  to  become  uniform  across  the Boards over time, so that students appearing in examinations under different Boards are assessed against standardized benchmarks
-
-Examination  systems  shall  be  standardised  to  reduce  differentials  across  students appearing in different boards of examinations, either through gradual reduction of the number  of  boards  or  any  other  mechanism  deemed  workable  by  the  province/area government
-
-The Examination boards shall  be  responsible  for  capacity  building  of  paper  setters and examiners
-
-A comprehensive plan shall be prepared to eliminate cheating and use of other unfair means from examinations including addressing social attitudes towards the issue
-
-A  quality  cycle  management  shall  link  the  various  systems  of  assessment  and institutions  involved  in  assessment  (examinations,  NEAS/  PEACE,  continuous assessment) to provide feedback to curriculum development, textbooks development and teacher education and professional development
+Policy Action 2 | Student performance shall be based on assessing competence in a specialised area that requires a given skill set. There shall be periodic reviews of the assessment system
+--- | ---
+Policy Action 3 | Multiple assessment tools in addition to traditional examinations shall be explored, to ensure the right balance between the uses of formative assessment approaches combined with the summative approach of high-stakes examinations
+Policy Action 4 | National standards shall be developed to reduce the differences in quality across regions. Assessment processes shall be standardised to become uniform across the Boards over time, so that students appearing in examinations under different Boards are assessed against standardized benchmarks
+Policy Action 5 | Examination systems shall be standardised to reduce differentials across students appearing in different boards of examinations, either through gradual reduction of the number of boards or any other mechanism deemed workable by the province/area government
+Policy Action 6 | The Examination boards shall be responsible for capacity building of paper setters and examiners
+Policy Action 7 | A comprehensive plan shall be prepared to eliminate cheating and use of other unfair means from examinations including addressing social attitudes towards the issue
+Policy Action 8 | A quality cycle management shall link the various systems of assessment and institutions involved in assessment (examinations, NEAS/ PEACE, continuous assessment) to provide feedback to curriculum development, textbooks development and teacher education and professional development
 
 #### 9.1.2. Analyzing the Current Situation
 
@@ -2544,7 +2236,7 @@ A  quality  cycle  management  shall  link  the  various  systems  of  assessmen
 
 Though the 18th amendment has devolved the responsibility for curriculum development to the provinces,  yet  due  to  absence  of  new  legislation  and  laws,  the  functioning  of  BOC  has  been facing  hindrances  in  terms  of  delivering  the  outputs.  The  Provincial  Curriculum  Act  is  under review by the Legal Department, GoS. There is a legal requirement for an institution (in this case BoC) to function as curriculum authority in the province.
 
-The National Curriculum 2006 has been adopted by Sindh, but it has not been implemented fully so  far  because  of  various  reasons  including  institutional  capacity,  resources  and  expertise. Currently, the Bureau of Curriculum is deficient in human, material and financial resources. For instance, there are only 6 subject specialists against 21 subject areas. There are then additional issues, such as, available competence in curriculum development and translations, especially in Sindhi language.
+The National Curriculum 2006 has been adopted by Sindh, but it has not been implemented fully so far because of various reasons including institutional capacity, resources and expertise. Currently, the Bureau of Curriculum is deficient in human, material and financial resources. For
 
 Page 80 of 155
 
@@ -2552,7 +2244,9 @@ Page 80 of 155
 
 [[START OF PAGE 81]]
 
-The  overall  top  down  approaches  and  limited  curriculum  continues  to  remain  the  norm  for curriculum development, probably, due to limited resources and competence in curriculum.
+instance, there are only 6 subject specialists against 21 subject areas. There are then additional issues, such as, available competence in curriculum development and translations, especially in Sindhi language.
+
+The overall top down approaches and limited curriculum continues to remain the norm for curriculum development, probably, due to limited resources and competence in curriculum.
 
 ##### Textbooks
 
@@ -2566,7 +2260,7 @@ The  Government  of  the  Sindh  provides  free  textbooks  to  enhance  enrolme
 
 There seems no comprehensive assessment policy and framework to guide the school assessment practices in the public education system, Sindh. This includes absence of large scale standardized testing of individual students prior to Grades 9 and 10 in the public education system. Even these large scale tests are often criticized in assessment reports for the low quality of items and that based  on  text-books  based  contents  besides  unfair  means  in  examinations.    At  most  levels/ grades, teacher developed tests are given to students but as these tests are not standardized, it is difficult to draw system wide inferences on the basis of students performance. In addition to that, there  is  little  attention  to  systematize  classroom-based  assessment  to  help  teachers  and  school leaders to focus on periodical progress of individual students.
 
-Overall, the current assessment practices neither help students to improve (being summative in nature) nor enable the teacher to improve their practice. Similarly, there is a lack of systematic results analysis, reporting and feedback mechanism that could help the policy makers, decision makers, teachers and educational managers through providing information on what students have learnt during their school years. This information is very crucial for informed decision making and  system's  learning.    PEAC  was  established  to  provide  help  in  system  improvement  for assessment and through assessment data. However, PEAC still has a long way to go for effective realization of this objective.  The most recent assessment reforms (SAT) initiated by GoS can potentially contribute a lot in improving educational decisions and practices in the province.
+Overall, the current assessment practices neither help students to improve (being summative in nature) nor enable the teacher to improve their practice. Similarly, there is a lack of systematic results analysis, reporting and feedback mechanism that could help the policy makers, decision makers, teachers and educational managers through providing information on what students have learnt during their school years. This information is very crucial for informed decision making and system's learning. PEAC was established to provide help in system improvement for assessment and through assessment data. However, PEAC still has a long way to go for effective
 
 Page 81 of 155
 
@@ -2574,7 +2268,9 @@ Page 81 of 155
 
 [[START OF PAGE 82]]
 
-There are  some  other  assessment  related  initiatives  in  the  province.  For  example,  ASER  does measure  sample-based  student  achievements  to  construct  a  baseline  of  student  outcomes; however, how this data is currently being used at system's level to improve educational situation in Sindh is not clear.
+realization of this objective. The most recent assessment reforms (SAT) initiated by GoS can potentially contribute a lot in improving educational decisions and practices in the province.
+
+There are some other assessment related initiatives in the province. For example, ASER does measure sample-based student achievements to construct a baseline of student outcomes; however, how this data is currently being used at system's level to improve educational situation in Sindh is not clear.
 
 ### 9.2. Key Issues and Challenges
 
@@ -2586,13 +2282,15 @@ National Curriculum 2006 has not yet been implemented due to the challenges of c
 
 There  are  more  than  70%  schools  with  Sindhi  as  medium  of  instruction  whereas  the  2006 curriculum  is  in  English  language  which  should  be  translated  into  Sindhi  as  well  as  Urdu languages to make it more user friendly.
 
-Moreover, revised and contextually more relevant curriculum for ECE, Primary, Adult Literacy, NFBE,  and  for  Secondary  classes  is  an  urgent  need.  The  Curriculum  also  needs  to  take  up emerging interests (for example, ICT and entrepreneurial education) and consider pressing social issues,  such  as  School  Health,  Prevention  Education  against  HIV/AIDS  and  other  infectious diseases,  Life Skills  Based Education, Environmental Education, Population and Development Education,  Human  Rights  Education,  School  Safety  and  Disaster  and  Risk  Reduction  and Management, Peace Education and inter-faith harmony, detection and prevention of child abuse, etc.  In  addition  to  that,  there  is  no  on-  going  feedback  and  evaluation  mechanism  to  keep  the curriculum updated.
+Moreover, revised and contextually more relevant curriculum for ECE, Primary, Adult Literacy, NFBE, and for Secondary classes is an urgent need. The Curriculum also needs to take up emerging interests (for example, ICT and entrepreneurial education) and consider pressing social issues, such as School Health, Prevention Education against HIV/AIDS and other infectious
 
 Page 82 of 155
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
+
+diseases, Life Skills Based Education, Environmental Education, Population and Development Education, Human Rights Education, School Safety and Disaster and Risk Reduction and Management, Peace Education and inter-faith harmony, detection and prevention of child abuse, etc. In addition to that, there is no on-going feedback and evaluation mechanism to keep the curriculum updated.
 
 #### Textbooks
 
@@ -2620,12 +2318,12 @@ The other issues related to assessment are: malpractices in examination and, the
 
 Based on the analysis of policy context and discussions with key stakeholders, in this section, the key issues and challenges are summarized.
 
-Curriculum | Textbook | Assessment
---- | --- | --- | ---
-Access and Equity |  Majority of the teachers do not have access to the curriculum document  The curriculum is not responsive to the ethnic and social diversity in the province (it must promote social cohesion)  National curriculum 2006 has not yet been implemented  Translation of curriculum in Urdu and Sindhi has not been implemented  BoC has only 5 subject specialists against a need of 21 subject areas  Challenges in undertaking research in schools due to non- availability of curriculum and research centre at the district level |  Lack of implementation of the National Textbook Learning Material Development Policy 2007  Lack of comprehensive textbooks/ learning materials developing criteria to ensure social cohesion and harmony  Lack of subject specialists for review of the textbooks  Lack of textbooks and teaching learning materials for multi-grade teaching |  Lack of expertise in the area of assessment, measurement, reporting examination results, documentation of processes, data analysis and technology based assessment practices.  Non-availability of funds vis-à-vis assessment activities as it generally remains as a donor-driven initiative and mainly depends on external funding and technical assistance
-Efficiency |  Lack of coordination and communication between and among key relevant |  No provincial policy for textbook development in |  Lack of transportation and other financial resources
-
 Table 9.1: Overview of Issues and Challenges
+
+ | Curriculum | Textbook | Assessment
+--- | --- | --- | ---
+Access and Equity |  Majority of the teachers do not have access to the curriculum document  The curriculum is not responsive to the ethnic and social diversity in the province (it must promote social cohesion)  National curriculum 2006 has not yet been implemented  Translation of curriculum in Urdu and Sindhi has not been implemented  BoC has only 5 subject specialists against a need of 21 subject areas  Challenges in undertaking research in schools due to non-availability of curriculum and research centre at the district level |  Lack of implementation of the National Textbook Learning Material Development Policy 2007  Lack of comprehensive textbooks/ learning materials developing criteria to ensure social cohesion and harmony  Lack of subject specialists for review of the textbooks  Lack of textbooks and teaching learning materials for multi-grade teaching |  Lack of expertise in the area of assessment, measurement, reporting examination results, documentation of processes, data analysis and technology based assessment practices.  Non-availability of funds vis-à-vis assessment activities as it generally remains as a donor-driven initiative and mainly depends on external funding and technical assistance
+Efficiency |  Lack of coordination and communication between and among key relevant |  No provincial policy for textbook development in |  Lack of transportation and other financial resources
 
 Page 84 of 155
 
@@ -2663,12 +2361,12 @@ Page 85 of 155
 
 Next, Table 9.2 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
 
+Table 9.2: Curriculum and Assessment: Objectives, Strategies, Targets and Activities
+
 GOAL: Improving Curriculum and Assessment
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013-2016) | Activities
-Strategic Objective 1 Develop strong linkages and collaboration among organizations related with curriculum, textbook and assessment including key Higher Education Institutions, Social Research Centers and Civil Society |  Study of current practices of communication and collaboration among apex organizations  Development of institutional ToRs indicating ‗transactions' between and among apex organizations  Development of a 3- year collaborative plan for organizational development  Use technology to increase collaboration and co- |  Govt. notifications are issued regarding clearly defined roles and responsibilities of apex organizations (RSU/ BoC/ PITE/ PEACE/ STBB/ STEDA/ BISEs) by 2013  Strengthened communication and coordination mechanism is in place between STEDA, BOC, STBB, PITE, and TIEs by 2016 |  Commission study on current practices of communication and coordination among key organizations  Disseminate report for identification of collaboration areas and best practices  Identify a lead group representing all apex organizations to lead the process  Develop and get approved new institutional TORs vis-à-vis collaborative roles  Identify areas of collaboration/ interdependence  Use the potential of technology to enhance collaboration among organizations  Prepare collaboration plan 2015-
-
-Table 9.2: Curriculum and Assessment: Objectives, Strategies, Targets and Activities
+Strategic Objective 1 Develop strong linkages and collaboration among organizations related with curriculum, textbook and assessment including key Higher Education Institutions, Social Research Centers and Civil Society |  Study of current practices of communication and collaboration among apex organizations  Development of institutional ToRs indicating ‘transactions’ between and among apex organizations  Development of a 3-year collaborative plan for organizational development  Use technology to increase collaboration and co- |  Govt. notifications are issued regarding clearly defined roles and responsibilities of apex organizations (RSU/ BoC/ PITE/ PEACE/ STBB/ STEDA/ BISEs) by 2013  Strengthened communication and coordination mechanism is in place between STEDA, BOC, STBB, PITE, and TIEs by 2016 |  Commission study on current practices of communication and coordination among key organizations  Disseminate report for identification of collaboration areas and best practices  Identify a lead group representing all apex organizations to lead the process  Develop and get approved new institutional TORs vis-à-vis collaborative roles  Identify areas of collaboration/ interdependence  Use the potential of technology to enhance collaboration among organizations  Prepare collaboration plan 2015-
 
 Page 86 of 155
 
@@ -2679,8 +2377,9 @@ Page 86 of 155
 GOAL: Improving Curriculum and Assessment
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013-2016) | Activities
-Organizations. Strategic Objective 2 Enriching the curriculum to make it more relevant to the needs of Sindh | ordination.  Identification of emerging needs of youth/ graduates in Sindh through research and wider consultation.  Development of curriculum enrichment framework, materials and strategies for curriculum relevance in the areas of social |  Evidence based identification of emerging issues is available by 2013  Enrichment materials in the area of ICT, EiE, Social Cohesion, emergency etc. are developed by 2015 | 2017  Approve resources for the committee/ consultant to study emerging issues  Develop a framework of curriculum enrichment  Identify thematic teams to develop learning materials for curriculum enrichment  Pilot and implement enrichment materials  Capacity building of teachers to use enriched materials
-Strategic Objective 3 Develop assessment policy, framework and process and enhance effective use of assessment data at all levels | integration and DRR  PEACE to develop policy recommendation, framework and guidelines through a consultative process.  Formulate a plan for strengthening of PEACE  Develop systems capacity in assessment in improved utilization of assessment findings for improved classroom learning and evidence based decision making |  Assessment policy, framework and guidelines developed by 2013.  Institutional capacity building of PEAC by 2014  % Capacity of teachers and examinations personnel in assessments and measurement.  % of educational managers professionally developed for using assessment data for educational decision making |  Putting in place a comprehensive assessment policy, framework and guidelines.  Putting in place strategies to make assessment data more valid and credible  Capacity building of PEAC  Capacity building of school teachers and examinations personnel in assessments and measurement.  Capacity building of school leadership for enhanced use of assessment data for school improvement  Enhance use of assessment data for TE programs, curriculum reforms and other educational decisions
+Organizations. | ordination. |  | 2017
+Strategic Objective 2 Enriching the curriculum to make it more relevant to the needs of Sindh |  Identification of emerging needs of youth/ graduates in Sindh through research and wider consultation.  Development of curriculum enrichment framework, materials and strategies for curriculum relevance in the areas of social cohesion, economic development, EiE, technology integration and DRR |  Evidence based identification of emerging issues is available by 2013  Enrichment materials in the area of ICT, EiE, Social Cohesion, emergency etc. are developed by 2015 |  Approve resources for the committee/ consultant to study emerging issues  Develop a framework of curriculum enrichment  Identify thematic teams to develop learning materials for curriculum enrichment  Pilot and implement enrichment materials  Capacity building of teachers to use enriched materials
+Strategic Objective 3 Develop assessment policy, framework and process and enhance effective use of assessment data at all levels |  PEACE to develop policy recommendation, framework and guidelines through a consultative process.  Formulate a plan for strengthening of PEACE  Develop systems capacity in assessment in improved utilization of assessment findings for improved classroom learning and evidence based decision making |  Assessment policy, framework and guidelines developed by 2013.  Institutional capacity building of PEAC by 2014  % Capacity of teachers and examinations personnel in assessments and measurement.  % of educational managers professionally developed for using assessment data for educational decision making |  Putting in place a comprehensive assessment policy, framework and guidelines.  Putting in place strategies to make assessment data more valid and credible  Capacity building of PEAC  Capacity building of school teachers and examinations personnel in assessments and measurement.  Capacity building of school leadership for enhanced use of assessment data for school improvement  Enhance use of assessment data for TE programs, curriculum reforms and other educational decisions
 
 Page 87 of 155
 
@@ -2723,7 +2422,7 @@ Page 89 of 155
 
 With the goal of ‗Education for All', school has become second home for child. Therefore, better planning,  designing,  construction,  maintenance  and  repair  of  a  school  become  the  basic requirements for quality provision of education.
 
-Keeping in view the current situation of school infrastructure and available resources in Sindh discussed earlier as a part of sub-sector review, the need for strategic planning is strongly felt to rationalize,  consolidate,  rehabilitate  and  construct  additional  infrastructure  on  the  basis  of demographic trends, culture and socio-economic condition of district. It is important to optimize the  number  of  schools  and  built  only  those  schools  in  the  first  phase  which  are  viable  and feasible and in consonance with catchment areas' present and future demands.
+Keeping in view the current situation of school infrastructure and available resources in Sindh discussed earlier as a part of sub-sector review, the need for strategic planning is strongly felt to rationalize, consolidate, rehabilitate and construct additional infrastructure on the basis of
 
 Page 90 of 155
 
@@ -2731,7 +2430,9 @@ Page 90 of 155
 
 [[START OF PAGE 91]]
 
-This section in the sector plan, therefore, presents a quick recap, review and synthesis of School Infrastructure  situation  in  Sindh  and  presents  school  infrastructure  development  plan.  For instance, it includes a quick snapshot of the available number of schools in Sindh, wide primary and  post-primary  gap  resulting  in  low  enrollment  in  higher  classes,  available  quality  of infrastructure, missing basic facilities like water and sanitation, energy crises, indoor environment of school, furniture availability and quality, and an overall discussion on the issues related to education system's infrastructure.
+demographic trends, culture and socio-economic condition of district. It is important to optimize the number of schools and built only those schools in the first phase which are viable and feasible and in consonance with catchment areas' present and future demands.
+
+This section in the sector plan, therefore, presents a quick recap, review and synthesis of School Infrastructure situation in Sindh and presents school infrastructure development plan. For instance, it includes a quick snapshot of the available number of schools in Sindh, wide primary and post-primary gap resulting in low enrollment in higher classes, available quality of infrastructure, missing basic facilities like water and sanitation, energy crises, indoor environment of school, furniture availability and quality, and an overall discussion on the issues related to education system's infrastructure.
 
 The discussion on school infrastructure  also  sets  out  the  key  issues  that  should  be  considered when  choosing  a  school  site,  layout  of  the  building,  and  in  designing  appropriate  buildings. Getting the location and design right is essential for the provision of effective spaces for teaching and learning, ensuring access for all, reducing risks from natural disasters, and achieving value for money.
 
@@ -2743,7 +2444,7 @@ The information given in the next sections discusses the quality of infrastructu
 
 #### 10.1.1 Policy Context
 
-In order to guide districts to rationalize,  rehabilitate and construct additional infrastructure on the basis of demographic  trends, culture and socio-economic  condition of district, the development of a District Wise School Infrastructure Development Plan is proposed. The basic objective of the District Wise School Infrastructure Development Plan is to ensure the increase of  enrollment,  especially,  that  of  elementary  and  secondary  education  as  a  main  emphasis. Discipline wise Policy Context is discussed below.
+In order to guide districts to rationalize, rehabilitate and construct additional infrastructure on the basis of demographic trends, culture and socio-economic condition of district, the development of a District Wise School Infrastructure Development Plan is proposed. The basic
 
 Page 91 of 155
 
@@ -2751,11 +2452,15 @@ Page 91 of 155
 
 [[START OF PAGE 92]]
 
+objective of the District Wise School Infrastructure Development Plan is to ensure the increase of enrollment, especially, that of elementary and secondary education as a main emphasis.
+
+Discipline wise Policy Context is discussed below.
+
 ##### District Wise School Infrastructure Development Plan (DSIDP)
 
 The DSIDPs will be a guiding document for all concerned government department districts, local government,  provincial  and  federal  government,  donor  funding  agencies,  NGOs,  MNA,  MPA schemes and others for the selection of only need-based schools for infrastructure development. This DSIDPs will assist the Government of Sindh to avoid ad hoc ,  politically driven or biased (with vested interest) school schemes selection. The plans will be prepared and endorsed through Education & Literacy Department and Planning & Development Department to ensure that all education  sector  development  schemes  are  in  conjunction  with  the  educational  infrastructure development plans.
 
-The  education  infrastructure  development  plans  will  be  prepared  after  reviewing  the  socioeconomic,  demographic,  cultural,  and  existing  educational  system  e.g.  through  analysis  of secondary data (SEMIS), field visits of at least 25% of infrastructure of each district to ascertain the current situation, meeting with key stakeholders to identify the gray areas, gap analysis of the existing  education  system's  current  infrastructure  vis-à-vis  current  and  future  demands.  The plans  will  be  prepared  keeping  in  view  many  variables,  to  roll  out  reform  agenda  so  as  to increase the enrollment rate,  improve and increase the infrastructure to provide better environment to the school children, eliminate girls/ boys school discrimination, provide high and elementary schools, where required and improve the overall quality of education in Sindh. The plan  will  also  guide  the  Government  of  Sindh  in  appropriate  and  effective  allocation  of  the development budget for education sector.
+The education infrastructure development plans will be prepared after reviewing the socio-economic, demographic, cultural, and existing educational system e.g. through analysis of secondary data (SEMIS), field visits of at least 25% of infrastructure of each district to ascertain the current situation, meeting with key stakeholders to identify the gray areas, gap analysis of the existing education system's current infrastructure vis-à-vis current and future demands. The plans will be prepared keeping in view many variables, to roll out reform agenda so as to increase the enrollment rate, improve and increase the infrastructure to provide better environment to the school children, eliminate girls/ boys school discrimination, provide high and elementary schools, where required and improve the overall quality of education in Sindh. The plan will also guide the Government of Sindh in appropriate and effective allocation of the development budget for education sector.
 
 ##### Rationalization, Up-gradation and Whole School Development Concept Adaptation
 
@@ -2789,28 +2494,28 @@ Page 93 of 155
 
 [[START OF PAGE 94]]
 
-Resources  can  be  targeted  most  effectively  for  individual  priorities  at  schools  if  an  effective process of participatory planning is used involving through community participation. This may take various forms but should result in a prioritized list of improvements discussed and agreed upon  by  the  school,  the  pupils  and  the  community.  Then,  as  resources  become  available,  the priorities can be addressed. To be effective, this process should be designed in a way that school and community members can be taken through it step by step, identifying the actual needs and at the same time build capacity.
+Resources can be targeted most effectively for individual priorities at schools if an effective process of participatory planning is used involving through community participation. This may take various forms but should result in a prioritized list of improvements discussed and agreed upon by the school, the pupils and the community. Then, as resources become available, the priorities can be addressed. To be effective, this process should be designed in a way that school and community members can be taken through it step by step, identifying the actual needs and at the same time build capacity.
+
+Table 10.1: Design Parameters for Classrooms and other Basic Facilities
 
 Classroom size | 1 to 1.4 square meter per child means a class of 25-35 students requires an area of 25 -39 square meter or 260 to 500 square foot
 --- | ---
 Toilet Facilities | 25:1 for girls students 40:1 for boys
 Water Facilities | For domestic use: 45-100 liters per head Separate drinking water system 4-6 liters per head
 
-Table 10.1: Design Parameters for Classrooms and other Basic Facilities
-
 #### 10.1.2 Describing Current Situation
 
 The government school system is extensive, comprising of roughly 43,000 functional schools, with a reported enrollment of 3.65 million students in grades 1-12 and 148,000 teachers (Annual School  Census  data  2011-12).  Slightly  more  than  90%  of  functional  government  schools  are primary schools (grades 1-5), and 72% of these primary schools have only one or two teachers. Roughly 20% of the schools have very low reported enrollment (less than 25 students), and 52% have  poor-quality  or  no  facilities  and  amenities. 3 Most  schools  have  little  or  no  educational inputs apart from assigned teachers and textbooks.
 
-The number of primary schools versus post primary schools in percentage is 91-09% including almost  10,000  shelter-less  schools,  which  creates  an  opportunity  gap  for  the  students  passing primary  school  to  get  enrolled  into  elementary  and  secondary  classes.  The  steep  decrease  in enrollment trend is evident through the figures provided in Table 10.2 below.
+The number of primary schools versus post primary schools in percentage is 91-09% including almost 10,000 shelter-less schools, which creates an opportunity gap for the students passing primary school to get enrolled into elementary and secondary classes. The steep decrease in enrollment trend is evident through the figures provided in Table 10.2 below.
+
+Table 10.2: NER at Primary, Middle and Secondary Level
 
 Indicator | Latest Available Value (%)
 --- | ---
 Net Enrollment Rate (NER), Primary Level ages (6-10) years | 61.6
 NER Middle Level, ages (11-13) years | 35.7
 NER Matric Level, ages (14-15) years | 23.1
-
-Table 10.2: NER at Primary, Middle and Secondary Level
 
 > 3 Having poor-quality or no facilities and amenities is defined as (1) lacking a school building, (2) having a school building but the building is reported to be in a dangerous condition, and (3) having a building but lacking toilets.
 
@@ -2860,13 +2565,15 @@ The  size  and  shape  of  the  site,  the  terrain  and  the  prevailing  clima
 
 #### Key Issues in Relation to Disaster Risk Reduction
 
-The  2005  earthquake  in  northern  Pakistan  alone  killed  at  least  17,000  and  seriously  injured 50,000 students and in total over 300,000 children were affected. An estimate of 6,500 primary schools were destroyed or badly damaged and in some districts, 80% of schools were destroyed. The poor seismic resistance of the existing building stock was a significant factor in the large death  toll  amongst  children.  The  issue  of  ‗school  safety'  incorporating  adequate  building standards and construction quality has now been put high on the reconstruction agenda. In Sindh, during  the  floods  of  2010  and  2011,  many  schools  were  damaged  and  inundated  in  water  for months.  The  hazards  identification  process  is  not  well  defined  and  adopted  which  results  in unfortunate  loss  of  lives  and  national  wealth/  resources  in  case  of  school  damages.  Hazards mapping should be part of school design during planning stage.
+The 2005 earthquake in northern Pakistan alone killed at least 17,000 and seriously injured 50,000 students and in total over 300,000 children were affected. An estimate of 6,500 primary schools were destroyed or badly damaged and in some districts, 80% of schools were destroyed. The poor seismic resistance of the existing building stock was a significant factor in the large death toll amongst children. The issue of ‘school safety’ incorporating adequate building standards and construction quality has now been put high on the reconstruction agenda. In Sindh, during the floods of 2010 and 2011, many schools were damaged and inundated in water for months. The hazards identification process is not well defined and adopted which results in
 
 Page 96 of 155
 
 [[END OF PAGE 96]]
 
 [[START OF PAGE 97]]
+
+unfortunate loss of lives and national wealth/ resources in case of school damages. Hazards mapping should be part of school design during planning stage.
 
 .
 
@@ -2876,14 +2583,14 @@ Currently, there is no planning tool available for the key government offices re
 
 #### Maintenance and Repair
 
-Management  and  repair  are  overloaded  with  the  theft  of  accessories  culture,  such  as  water motors, fans, lighting bulbs, water taps and others. Where the school administration is powerful, such practices are not common, but in schools located in outskirts, such practices are common.
+Management and repair are overloaded with the theft of accessories culture, such as water motors, fans, lighting bulbs, water taps and others. Where the school administration is powerful, such practices are not common, but in schools located in outskirts, such practices are common.
+
+Table 10.3: Synthesis of Issues and Challenges
 
 Issues | Challenges
 --- | ---
 Need Assessment/ Prioritization
 According to the SEMIS data 2012, it is estimated that approximately 15000 schools in Sindh carry 70 percentile weightage of student's enrollment. This secondary data requires onsite validation, based on which a strategy for the priority investment for schools can be formulated. The elimination of schools which were politically driven is not an easy job to perform. People in Sindh are acculturated to live in groups/ cohorts and they want their own culture system. Consolidation of schools will only be possible after close community participation. Selection of schools for up-gradation needs social, cultural, economic and spacious assessment. The selection of schools to be up-graded shall be done through the development of District Wise School Infrastructure Development Plan which shall be | Political will may be a big challenge in accepting the reform agenda and in selection of upcoming schemes through the District Wise Education Infrastructure Development Plan. Policy Framework needs to be devised to work with the proposed reform agenda. The agenda is to invest in schools which have high number of enrollment and which could provide all facilities on priority basis.
-
-Table 10.3: Synthesis of Issues and Challenges
 
 Page 97 of 155
 
@@ -2929,19 +2636,19 @@ Page 99 of 155
 
 The reform initiative is titled as school consolidation - converting two or more schools into a single school.
 
-The  need  for  school  system  consolidation  has  arisen  due  to  the  past  proliferation  of  schools, precipitated by poor planning and arbitrariness. Many of the schools set up as a result of these practices are two-room, one-teacher schools, which tend to have the poorest quality of service delivery. The following table provides an overview of the situation by describing the number of teachers and students with respect to the number of classrooms in a school.
+The need for school system consolidation has arisen due to the past proliferation of schools, precipitated by poor planning and arbitrariness. Many of the schools set up as a result of these practices are two-room, one-teacher schools, which tend to have the poorest quality of service delivery. The following table provides an overview of the situation by describing the number of teachers and students with respect to the number of classrooms in a school.
 
-Rooms - School | Schools | Teachers | Students | Average Teacher /Students
+Table 10.5: Overview of Schools (No. of classrooms), Teachers and Students - Sindh
+
+Rooms – School | Schools | Teachers | Students | Average Teacher /Students
 --- | --- | --- | --- | ---
 0-2 | 35,021 | 50,224 | 1,666,633 | 1.43/48
 3-4 | 4,679 | 15,294 | 458,320 | 3.26/98
 05+ | 7,857 | 80,585 | 2,079,207 | 10.26/267
 
-Table 10.5: Overview of Schools (No. of classrooms), Teachers and Students - Sindh
+There are nearly 49,000 schools in the GoS's current inventory, most of which are non-functional, poorly located, undersized (one or two-rooms), understaffed, and/ or poorly constructed. Further, teacher absenteeism is chronic. In addition, it is now common to have several ‘schools’ situated on the same premises, each with separate administration personnel. Finally, there has been an under-investment in school facilities to provide for students beyond Class 5, which has left a few options for children to continue their education beyond the primary level, particularly for girls and in rural areas. The cumulative effect of these factors is: multi-tier poorly performing schools i.e., primary, middle, elementary, lower secondary, secondary and higher secondary schools.
 
-There  are  nearly  49,000  schools  in  the  GoS's  current  inventory,  most  of  which  are  nonfunctional, poorly located, undersized (one or two-rooms),  understaffed, and/ or poorly constructed.  Further,  teacher  absenteeism  is  chronic.  In  addition,  it  is  now  common  to  have several  ‗schools'  situated  on  the  same  premises,  each  with  separate  administration  personnel. Finally, there has been an under-investment in school facilities to provide for students beyond Class 5, which has left a few options for children to continue their education beyond the primary level, particularly for girls and in rural areas. The cumulative effect of these factors is: multi-tier poorly  performing  schools  i.e.,  primary,  middle,  elementary,  lower  secondary,  secondary  and higher secondary schools.
-
-Such school fragmentation has turned school management into a real challenge, especially with the current set of management abilities. The National Education Policy 2009 stipulates gradual phasing out of middle schools (Grade 6 - 8) and establishment of elementary schools (Grade 18). The current School Consolidation policy will help in realizing this goal.
+Such school fragmentation has turned school management into a real challenge, especially with the current set of management abilities. The National Education Policy 2009 stipulates gradual phasing out of middle schools (Grade 6 – 8) and establishment of elementary schools (Grade 1–8). The current School Consolidation policy will help in realizing this goal.
 
 School consolidation covers three types of schools: (a) adjoining schools; (b) embedded/ same premise schools; (c) schools that are within a stipulated distance of each other and one strategic school among them having the horizontal and/or vertical space for expansion to accommodate students in merged schools. In other words, through this initiative, distinct government schools operating in the same campus, or catering to the same child population in the local community are converted into a single functional school.
 
@@ -2951,18 +2658,25 @@ Page 100 of 155
 
 [[START OF PAGE 101]]
 
-The Box 10.1 gives some description of policy reforms for rationalizing school facilities and resources. As of December 2012, 1068 government schools have been consolidated in seven districts: 414 consolidated schools and 648 merged schools. | Box 10.1: Policy Reforms The first policy reform is to consolidate several small schools that exist in a village or neighborhood into a single, properly managed facility. The second policy reform is to support the merging of several schools that are operating in a single location into a single school operating under a streamlined administrative structure. The third policy initiative is to upgrade primary/ middle schools to include facilities and teachers for elementary and high school-age
---- | ---
+The Box 10.1 gives some description of policy reforms for rationalizing school facilities and resources. As of December 2012, 1068 government schools have been consolidated in seven districts: 414 consolidated schools and 648 merged schools.
+
+Box 10.1: Policy Reforms
+
+The first policy reform is to consolidate several small schools that exist in a village or neighborhood into a single, properly managed facility.
+
+The second policy reform is to support the merging of several schools that are operating in a single location into a single school operating under a streamlined administrative structure.
+
+The third policy initiative is to upgrade primary/ middle schools to include facilities and teachers for elementary and high school-age students.
 
 The  Government  of  Sindh
 
 approved the policy of School Consolidation in 2012 in February 2012 as a major move. The purpose  of  the  policy  was  to  enhance  the  provision  of  quality  education  while  ensuring  the access to education at the same time. In the following exhibit, the policy framework is presented to contextualize the situation analysis.
 
+Table 10.6: Policy of School Consolidation
+
 Policy Section | Policy Provisions
 --- | ---
-(A) Campus School | Campus School Definition: A main, functional school formed by merging adjoining, embedded or nearby schools. School Level: The highest grade taught in the school will decide the 'level' of the campus school. Principal: Campus Schools will work under one principal. The Principal will be the administrator, instructional leader and manager of the merged schools. SEMIS Code: The campus school will have one SEMIS code. All merged schools will cease to have separate SEMIS codes and these will be surrendered to RSU-SEMIS. Surplus Staff: There will be NO surplus staff. All staff will be accommodated in the Campus Schools strategically. SMC Funds: Existing SMC funds will be used as planned. The remaining funds in defunct SMCs will be managed and spent by the old SMCs with the support of Academic ln charge(s). Teaching and Non-teaching staff: All teaching and non-teaching staff will report to Principal of the Campus School. Seniority and Service matters: Teaching and non-teaching staff will maintain their separate cadre and seniority as per existing rules. School Medium: If the schools merged had different medium of instructions, the campus school will be declared bi-lingual. Each medium of instruction will be assigned a different section within the Campus School.
-
-Table 10.6: Policy of School Consolidation
+(A) Campus School | Campus School Definition: A main, functional school formed by merging adjoining, embedded or nearby schools. School Level: The highest grade taught in the school will decide the 'level' of the campus school. Principal: Campus Schools will work under one principal. The Principal will be the administrator, instructional leader and manager of the merged schools. SEMIS Code: The campus school will have one SEMIS code. All merged schools will cease to have separate SEMIS codes and these will be surrendered to RSU-SEMIS. Surplus Staff: There will be NO surplus staff. All staff will be accommodated in the Campus Schools strategically. SMC Funds: Existing SMC funds will be used as planned. The remaining funds in defunct SMCs will be managed and spent by the old SMCs with the support of Academic In charge(s). Teaching and Non-teaching staff: All teaching and non-teaching staff will report to Principal of the Campus School. Seniority and Service matters: Teaching and non-teaching staff will maintain their separate cadre and seniority as per existing rules. School Medium: If the schools merged had different medium of instructions, the campus school will be declared bi-lingual. Each medium of instruction will be assigned a different section within the Campus School.
 
 Page 101 of 155
 
@@ -2970,7 +2684,7 @@ Page 101 of 155
 
 [[START OF PAGE 102]]
 
-School Shifts: In case merged schools have afternoon/evening shifts, the headteacher/ headmaster of the merged schools will continue to act as 'Academic ln charge" of the afternoon shift of the school. The Academic ln charge will report to Campus Principal. School Gender: The merged schools will keep their 'gender characteristic'. Each gender will be treated as a section within the school. The head teacher/headmaster of the section will report to Campus Principal. Notification: On the recommendation of District Education Officer, Director Schools Education is the authorized officer to form and notify Campus Schools. Specimen is attached. One time Grant: Campus schools will receive one time grant from provincial government to carry-out necessary spatial changes and repair and renovate school. The grant amount will be calculated as per the following formula Campus School Grant: [Total Room *Rs. 25,000] +[Total Enrollment * 3,600]
+School Shifts: In case merged schools have afternoon/evening shifts, the headteacher/ headmaster of the merged schools will continue to act as 'Academic In charge' of the afternoon shift of the school. The Academic In charge will report to Campus Principal. School Gender: The merged schools will keep their 'gender characteristic'. Each gender will be treated as a section within the school. The head teacher/headmaster of the section will report to Campus Principal. Notification: On the recommendation of District Education Officer, Director Schools Education is the authorized officer to form and notify Campus Schools. Specimen is attached. One time Grant: Campus schools will receive one time grant from provincial government to carry-out necessary spatial changes and repair and renovate school. The grant amount will be calculated as per the following formula Campus School Grant: [Total Room *Rs. 25,000] +[Total Enrollment * 3,600]
 --- | ---
 (B) Powers of Campus Principal | Campus principal will be no less than BPS-17 officer. The appropriate grade for each campus will be decided on case to case basis. DDO Powers: Campus Principal will have DDO power. The principal office will be supported by an administrative section, comprising of Superintendent, Account Officer, Transport Officer, Nurse, and Computer Operator(s)/ Clerk(s). Hiring/transferring powers: Campus Principal will have the powers to surrender nonperforming teachers after due diligence. Campus Principal will also have the powers to hire "academic interns" from pre-screened pool.
 
@@ -3014,11 +2728,11 @@ GoS  has  followed  a  phased  approach  in  implementing  the  policy,  holding
 
 Given the benefits of the policy and commitment of the GoS, USAID and the World Bank have committed to also support the School Consolidation Policy.
 
+Table 10.7: Overview of USAID and World Bank Support to Consolidation Policy
+
 Donor | Key Features
 --- | ---
 USAID |  GoS and USAID will invest USD 30 million to support school consolidation policy
-
-Table 10.7: Overview of USAID and World Bank Support to Consolidation Policy
 
 Page 103 of 155
 
@@ -3026,15 +2740,15 @@ Page 103 of 155
 
 [[START OF PAGE 104]]
 
-(Sindh Basic Education Program) |  Mapping exercise in target districts to prepare an effective consolidation strategy  Support in constructing, furnishing and equipping an agreed number of schools in carefully selected locations in the seven focus districts in the Northern Sindh and selected towns in Karachi  School location criteria: where dangerous school buildings need to be demolished; where larger facilities that encompass a broader catchment area should be located; and where administratively it makes most sense to merge ‗schools' operating in a single location, and include facilities for Grades 1-10.  Consolidation of schools affected by floods: The 2010 floods affected approximately 5,000 schools in Sindh of which approximately 2,500 schools were completely destroyed. The consolidation plan will include a mapping of flood damaged/ destroyed schools and offer recommendations for building
+(Sindh Basic Education Program) |  Mapping exercise in target districts to prepare an effective consolidation strategy  Support in constructing, furnishing and equipping an agreed number of schools in carefully selected locations in the seven focus districts in the Northern Sindh and selected towns in Karachi  School location criteria: where dangerous school buildings need to be demolished; where larger facilities that encompass a broader catchment area should be located; and where administratively it makes most sense to merge ‘schools’ operating in a single location, and include facilities for Grades 1-10.  Consolidation of schools affected by floods: The 2010 floods affected approximately 5,000 schools in Sindh of which approximately 2,500 schools were completely destroyed. The consolidation plan will include a mapping of flood damaged/ destroyed schools and offer recommendations for building better schools at suitable locations.
 --- | ---
 World Bank |  The World Bank has signed USD 400 million IDA credit with the Government of Sindh.  The Bank plans to promote the consolidation policy via Disbursement Linked Indicators. E&LD will have to consolidate identified schools every year to become eligible to access funds.  In terms of TA, while schools that operate in the same building or compound or more readily identifiable, project TA funds are made available for contracting a firm to provide technical, advisory, and monitoring support to districts and schools undergoing school consolidation.
 
 The  School  Consolidation  policy,  however,  is  likely  to  face  several  challenges  during  its implementation. Some of the challenges are highlighted below:
 
-- Resistance to Change : The rationalization of schools and bringing them to one chain of command  is  expected  to  create  some  resentment  and  resistance  among  the  staff.  The Consolidation Policy has attempted to mitigate this by mandating that old In-charges of defunct schools will continue to work as section In-charges but will report to headmaster and principal of the school.
+a) Resistance to Change: The rationalization of schools and bringing them to one chain of command is expected to create some resentment and resistance among the staff. The Consolidation Policy has attempted to mitigate this by mandating that old In-charges of defunct schools will continue to work as section In-charges but will report to headmaster and principal of the school.
 
-Though, in case of merging of embedded and adjoining schools, community of the area is not  likely  to  feel  any  physical  change  they  may  feel  the  change  when  nearby  smaller schools  in  dilapidated  conditions  are  merged  into  a  strategically  located  schools  with additional  classrooms.  To  address  this  challenge  the  School  Consolidation  Policy  puts emphasis  on  community  ownership  and  readiness  for  consolidation.  The  third  type  of school consolidation can only happen with community's permission.
+Though, in case of merging of embedded and adjoining schools, community of the area is not likely to feel any physical change they may feel the change when nearby smaller schools in dilapidated conditions are merged into a strategically located schools with additional classrooms. To address this challenge the School Consolidation Policy puts
 
 Page 104 of 155
 
@@ -3042,9 +2756,11 @@ Page 104 of 155
 
 [[START OF PAGE 105]]
 
-- Reversal of School Consolidation : Another challenge to the policy is in its implementation. The policy can encounter challenges if it is not implemented adequately. School consolidation is likely to bring better managerial control over resources and thus improve  the  quality  of  education.  However,  if  SEMIS  codes  are  not  removed  or administrative staff is not posted or appropriate authority and powers not allocated (such as, drawing and disbursement powers), the policy may face reversal of the process.
+emphasis on community ownership and readiness for consolidation. The third type of school consolidation can only happen with community’s permission.
 
-- Tribal, Clan and Religious Affiliations: There are localities in Sindh where schools are divided on the lines of tribal and communal affiliations. Though the long term objective is  to  bring these communities together in the schools to foster social cohesion in shortterm, school consolidation policy will have to be sensitive to these differences and only areas where community shows willingness, schools should be consolidated.
+b) Reversal of School Consolidation: Another challenge to the policy is in its implementation. The policy can encounter challenges if it is not implemented adequately. School consolidation is likely to bring better managerial control over resources and thus improve the quality of education. However, if SEMIS codes are not removed or administrative staff is not posted or appropriate authority and powers not allocated (such as, drawing and disbursement powers), the policy may face reversal of the process.
+
+c) Tribal, Clan and Religious Affiliations: There are localities in Sindh where schools are divided on the lines of tribal and communal affiliations. Though the long term objective is to bring these communities together in the schools to foster social cohesion in short-term, school consolidation policy will have to be sensitive to these differences and only areas where community shows willingness, schools should be consolidated.
 
 In  addition  to  the  above  set  of  challenges,  mainly  related  to  politics  and  power,  there  are additional  challenges  such  as  low  quality/  access  due  to  missing  facilities,  lack  of  monitoring system to ensure that school consolidation is maintained and issues are resolved efficiently, and inefficient use of resources due to irrational placement of schools is minimized. The objective of school consolidation policy is, thus, to improve access and quality of education by rationalization school  facilities  and  resources.  This  will  help  to  provide  better  resources  to  schools,  such  as school based management, improved facilities, and enhanced SMC and non-salary budgets.
 
@@ -3056,7 +2772,7 @@ Based  on  an  analysis  of  the  situation  as  well  as  suggestions  and  rec
 
 - Improve the gap between no of primary and post primary schools to improve access at post primary level
 
-- Prepare  District  Wise  School  Infrastructure  Development  Plans to  invest  in  only  needbased schemes (and avoid duplication and adhocism)
+- Prepare District Wise School Infrastructure Development Plans to invest in only need-based schemes (and avoid duplication and adhocism)
 
 - Effective implementation of School Consolidation policy
 
@@ -3078,14 +2794,14 @@ Page 105 of 155
 
 Next, Table 10.4 presents the department's priorities for the next 3 years in terms of objectives, targets and key strategies.
 
+Table 10.4: School Infrastructure and Consolidation: Objectives, Targets and Strategies
+
 GOAL: Improving the Provision and Quality of School Infrastructure in Sindh
 --- | --- | --- | ---
 Objectives | Strategies | Targets 2013-2016 | Activities
 Strategic Objective 1 Improve the gap between no of primary and post primary schools to improve access at post primary level |  Improve the access at post primary level through addressing the infrastructural gap |  Achieve primary and post primary balance from 91% - 09% to 70% - 30% |  Notify a high powered committee to integrate the measure the contributions of infrastructure related initiatives (such as school up-gradation, consolidation and whole school development through District Wise Education Infrastructure Plans)  Committee develop plan to achieve target and monitor on regular basis
 Strategic Objective 2 Prepare District Wise School Infrastructure Development Plans to invest in only need-based schemes (and avoid duplication and adhocism) |  Prepare District Wise School Infrastructure Development Plans |  Development of Plans by April 2014  Approval of Plans by June 2014 |  Identify core teams to prepare District Wise School Infrastructure Development Plans  Develop plans and their implementation framework  Get the plans approved
 Strategic Objective 3 |  Enhancing community |  School consolidation plan with phase- wise |  Conduct a study on best practices of community
-
-Table 10.4: School Infrastructure and Consolidation: Objectives, Targets and Strategies
 
 Page 106 of 155
 
@@ -3109,7 +2825,7 @@ Page 107 of 155
 GOAL: Improving the Provision and Quality of School Infrastructure in Sindh
 --- | --- | --- | ---
 Objectives | Strategies | Targets 2013-2016 | Activities
-Strategic Objective 6 Ensure balanced and similar infrastructure facilities in the province and build capacity at all levels through dissemination of standards |  Develop infrastructural standards  Well defined budget allocations for school related facilities  Capacity building for the approved standards |  Elimination of disparity in quality of construction, testing and execution of generic designs for different topographical and climatic regions for all types of educational infrastructure by June 2014  Approval of schools design framework and related services by December 2014  Conduct regional level workshops for dissemination of information / standards developed with the key stakeholders by March 2015 |  Carryout audit to analyze current situation and practices related to school infrastructure  Prepare proposal for approval of School Building Codes/ Standards related to building layout and placement, air circulation, natural lighting into the class rooms, sizing of class rooms, water facilities, toilets etc.  Prepare proposal for approval/ notification to stop building load bearing/ wall bearing obsolete infrastructure and to use instead framed structure with safety provision against any unfortunate natural calamity  Prepare proposal for well- defined budget allocations and get it approved ( 55-75% for classroom development while 25-45% for other facilities such as boundary walls with school gate, drinking and domestic water facilities, separate toilets for girls and boys, provision of alternate sources of electricity where required)  Conduct regional level workshops for dissemination of information / standards developed with the key stakeholders  Develop capacity to improve management practices related to for maintenance and repair
+Strategic Objective 6 Ensure balanced and similar infrastructure facilities in the province and build capacity at all levels through dissemination of standards |  Develop infrastructural standards  Well defined budget allocations for school related facilities  Capacity building for the approved standards |  Elimination of disparity in quality of construction, testing and execution of generic designs for different topographical and climatic regions for all types of educational infrastructure by June 2014  Approval of schools design framework and related services by December 2014  Conduct regional level workshops for dissemination of information / standards developed with the key stakeholders by March 2015 |  Carryout audit to analyze current situation and practices related to school infrastructure  Prepare proposal for approval of School Building Codes/ Standards related to building layout and placement, air circulation, natural lighting into the class rooms, sizing of class rooms, water facilities, toilets etc.  Prepare proposal for approval/ notification to stop building load bearing/ wall bearing obsolete infrastructure and to use instead framed structure with safety provision against any unfortunate natural calamity  Prepare proposal for well-defined budget allocations and get it approved ( 55-75% for classroom development while 25-45% for other facilities such as boundary walls with school gate, drinking and domestic water facilities, separate toilets for girls and boys, provision of alternate sources of electricity where required)  Conduct regional level workshops for dissemination of information / standards developed with the key stakeholders  Develop capacity to improve management practices related to for maintenance and repair
 Strategic Objective 7 |  Placement of a |  Sanctioning/ hiring of |  Develop standards for ex-
 
 Page 108 of 155
@@ -3122,7 +2838,7 @@ GOAL: Improving the Provision and Quality of School Infrastructure in Sindh
 --- | --- | --- | ---
 Objectives | Strategies | Targets 2013-2016 | Activities
 Ensure the provision of construction supervision and quality assurance | qualified civil design engineer and architect in the office of XEN with all accessories at district level  Budget allocation for construction supervision | architect and design engineer with all allied services in the office of XEN Works and Services at the district level for the implementation of School Infrastructure  Development targets and quality assurance in 2 years (2014-2016) | procurement and construction supervision services  The XEN office to also hire top supervision of consultants for ex-procurement and construction supervision services  Prepare proposal for approval of budget allocation of 2.5 % for construction supervision
-Strategic Objective 8 Enhance operation and maintenance |  Developing enabling context for school administration to maintain the institutional resources |  A mechanism to be drafted and approved by 2014 |  Prepare a proposal for approval of annual ‗operation and maintenance budget' to be utilized by the head of the institution/ school  Encourage HTs for utilization of these provisions effectively  The mechanism for monitoring school's progress on maintenance of resources
+Strategic Objective 8 Enhance operation and maintenance |  Developing enabling context for school administration to maintain the institutional resources |  A mechanism to be drafted and approved by 2014 |  Prepare a proposal for approval of annual ‘operation and maintenance budget’ to be utilized by the head of the institution/ school  Encourage HTs for utilization of these provisions effectively  The mechanism for monitoring school's progress on maintenance of resources
 
 #### Budget and Cost
 
@@ -3156,15 +2872,15 @@ c. Support and monitoring firm
 
 The  exact  costing  will  depend  on  the  design  of  the  support  and  monitoring program but it is estimated that cost will not exceed Rs. 1,000 per school.
 
-## 11. CROSS-CUTTING ISSUES AND PRIORORITIES
+## 11. CROSS-CUTTING ISSUES AND PRIORITIES
 
 ### 11.1. Management and Governance
 
--Governance in the educational system is very weak. The Educational Policy, informed by the ideals of democratic governance, implying a partnership amongst the principal societal actors in the making and implementation of public policy, would try to effect a better allocation and management of public resources‖. (NEP 2009, section 1.3, pt. 19, p.4)
+“Governance in the educational system is very weak. The Educational Policy, informed by the ideals of democratic governance, implying a partnership amongst the principal societal actors in the making and implementation of public policy, would try to effect a better allocation and management of public resources”. (NEP 2009, section 1.3, pt. 19, p.4)
 
 #### 11.1.1 Policy Context and Situation Analysis
 
-Within the context of educational policies in Pakistan, the management of education has been reflected as a serious concern in most of the education policies (e.g.  1970; 1972; 1992, 19982001). The National Education Policy 2009, a current policy document for Sindh, particularly, focuses on educational governance and considers failure in the commitment and implementation gaps  as  key  reasons  of  poor  performance  of  the  education  system.  There  is  a  gap  between ‗espoused' commitment and ‗commitment in action'. This lack of commitment has been a major reason of persistent failure in achieving goals in educational policies in Pakistan.
+Within the context of educational policies in Pakistan, the management of education has been reflected as a serious concern in most of the education policies (e.g. 1970; 1972; 1992, 1998-2001). The National Education Policy 2009, a current policy document for Sindh, particularly, focuses on educational governance and considers failure in the commitment and implementation gaps as key reasons of poor performance of the education system. There is a gap between ‘espoused’ commitment and ‘commitment in action’. This lack of commitment has been a major reason of persistent failure in achieving goals in educational policies in Pakistan.
 
 Page 110 of 155
 
@@ -3200,29 +2916,29 @@ The following matrix provides the proposed policy actions against each governanc
 
 Issue
 
-Policy Actions
-
-Issue
-
-Policy Actions
-
-Issue
-
 Developing a Whole-Sector View
 
-- A comprehensive Human Resource Development (HRD) policy shall be developed integrating  all  types  and  branches  of  HRD  institutions  from  Early  Childhood Education (ECE) to tertiary education. The policy must keep market needs in view, including the flexibility in market trends, for Higher and Technical and Vocational Education.
+Policy Actions
 
-- Organizational fragmentation of education at federal and provincial levels shall be assessed  for  rationalisation  and  where  feasible  various  streams,  including  literacy, shall be managed by one organization.
+- A comprehensive Human Resource Development (HRD) policy shall be developed integrating all types and branches of HRD institutions from Early Childhood Education (ECE) to tertiary education. The policy must keep market needs in view, including the flexibility in market trends, for Higher and Technical and Vocational Education.
 
-- Sector-wide planning shall be co-ordinated by the Ministry of Education in order to bring  together  responsibilities  for  different  sub-sectors  of  education,  training  and learning.
+- Organizational fragmentation of education at federal and provincial levels shall be assessed for rationalisation and where feasible various streams, including literacy, shall be managed by one organization.
+
+- Sector-wide planning shall be co-ordinated by the Ministry of Education in order to bring together responsibilities for different sub-sectors of education, training and learning.
+
+Issue
 
 Ensuring Policy Coherence
 
-- The  Ministry  of  Education  shall  be  responsible  for  ensuring  coherence  with  other socioeconomic policies of the Government
+Policy Actions
+
+- The Ministry of Education shall be responsible for ensuring coherence with other socioeconomic policies of the Government
 
 - Inter-Provincial/Area exchange of students and teachers shall be encouraged with a view to promote cultural harmony, mutual understanding, tolerance, social integration and brotherhood.
 
 - A mechanism for a strong coordination among different entities at the Federal and Provincial levels shall be developed to ensure harmony amongst different sub-sectors of education, training and learning.
+
+Issue
 
 Overcoming Fragmented Governance
 
@@ -3234,11 +2950,7 @@ Page 111 of 155
 
 Policy Actions
 
-Issue
-
-Policy Actions
-
-- To  remove  ambiguities  between  the  different  roles  of  Federal  and  Provincial Governmentsinthefieldofeducation,theirrespectiveroleandresponsibilitiesshallbe mapped and clarified through national consultative processes involving  the  federal governmentas wellas provincial/area governments.
+- To remove ambiguities between the different roles of Federal and Provincial Governmentsinthefieldofeducation,theirrespectiveroleandresponsibilitiesshallbe mapped and clarified through national consultative processes involving the federal governmentas wellas provincial/area governments.
 
 - TheFederalroleshallbethatofafacilitatorandcoordinator.Thisshouldapplynotonly totheschoollevelbutalsootherlevelsandstreamsofeducation,includingtechnicaland vocationaleducation.
 
@@ -3252,11 +2964,15 @@ Policy Actions
 
 - Decentralisation  within  the  framework  of  devolution  shall  focus  on  delegation  of educationalfunctionsand notmerelyon delegation ofadministrative powers.
 
+Issue
+
 Bridging the Public-Private Divide
+
+Policy Actions
 
 - Availableeducationalresourcesintheprivatesectorshallbemappedandinformation madeavailabletoall.Theresourcesinthiscasewouldincludemorethansimplyprivate schools which arealready partofthe overalleducationcensus.
 
-- Transparentandclear  proceduresshall  beinitiatedin    the    education    sectorto    allow utilizationofprivatesectorinputs.Systemsshallbedevelopedthroughinvolvementof allstakeholders:thepublicsector,theprivatesectorandthecommunity;keepinginview MinistryofEducation'sdocument-PublicPrivatePartnershipsinPakistan'sEducation Sector‖ 8 .
+- Transparentandclear proceduresshall beinitiatedin the education sectorto allow utilizationofprivatesectorinputs.Systemsshallbedevelopedthroughinvolvementof allstakeholders:thepublicsector,theprivatesectorandthecommunity;keepinginview MinistryofEducation‘sdocument “PublicPrivatePartnershipsinPakistan‘sEducation Sector” 8.
 
 - Provincial  Governmentsshall  encourage  private    educationattheschoollevel  asan optionavailabletothosewhocanaffordsucheducation.Atthesametime,Governments shalltakestepstoencouragepublicsectorinstitutionstodrawbenefitfromtheresources availableinthe private sector.
 
@@ -3272,21 +2988,17 @@ Page 112 of 155
 
 [[START OF PAGE 113]]
 
-Issue
-
-Policy Actions
-
-Issue
-
-Policy Actions
-
 regulatorybodies have alreadybeen developed,thoseshallbereinvigorated.
 
 - ProvincialandAreagovernmentsshalltakestepstobuildcapacityoftheregulatorsto enable themto effectivelymonitorcompliancebyprivatesectorinstitutions.
 
 - Non-profiteducationalinstitutionsshould be providedtaxincentives.
 
+Issue
+
 Overcoming Structural Divides
+
+Policy Actions
 
 - The state shall provide greater opportunities to the citizens and areas that have been largely excluded from  mainstream  development  and  participation  in  the  national processes, by ensuring even and equitable human development across Pakistan.
 
@@ -3306,9 +3018,13 @@ Overcoming Structural Divides
 
 - A  comprehensive  school  language  policy  shall  be  developed  in  consultation with provincial and area governments and other stakeholders
 
-- Federal,  provincial  and  area  governments  shall  develop  joint  strategies  with main Madrassah  systems,  through  consultations,  to formally integrate   marketoriented  and skills-based  subjects  in  the  Madrassahs'  curricula  -  subjects  that would    enable    the  children  graduating  from  Deeni  Madaris  to  have  wider employment options.
+- Federal, provincial and area governments shall develop joint strategies with main Madrassah systems, through consultations, to formally integrate market-oriented and skills-based subjects in the Madrassahs' curricula - subjects that would enable the children graduating from Deeni Madaris to have wider employment options.
+
+Issue
 
 Building Management and Planning Capacity
+
+Policy Actions
 
 - A  management  cadre for education, with specific training and qualification requirements, shall be introduced.
 
@@ -3324,10 +3040,6 @@ Page 113 of 155
 
 [[START OF PAGE 114]]
 
-Issue
-
-Policy Actions
-
 allocation across institutions.
 
 - A  Personnel Management  Information System (PMIS) as well as Financial Management Information System (FMIS) shall be developed to support the planning, implementation  and  evaluation  function.  These  shall  be  linked  to  the  existing Educational Management and Information System (EMIS).
@@ -3340,7 +3052,11 @@ allocation across institutions.
 
 - A separate data base for literacy shall be developed.
 
+Issue
+
 Getting the Community Involved
+
+Policy Actions
 
 - School Management Committees (SMC) shall be strengthened through involvement of students, teachers, educationists, parents and society (STEPS).
 
@@ -3352,13 +3068,13 @@ Getting the Community Involved
 
 - Awareness campaigns shall be launched, at the District, Tehsil and Union levels to sensitise communities about their role in school education.
 
-Within the context of 18 th Constitutional Amendment, the key features of the overall structure of management of education in Sindh are captured in the following exhibit.
+Within the context of 18th Constitutional Amendment, the key features of the overall structure of management of education in Sindh are captured in the following exhibit.
+
+Table 11.1.1: Key Features of Overall Education Management Structure in Sindh – Post 18th Amendment Scenario
 
 Management level | Key Features | Comments/ Capacity Development Needs
 --- | --- | ---
 Provincial level |  Overall policymaking and providing leadership in curriculum, educational standards, assessment, textbook development, program design and implementation.  The provincial Education Departments are |  These are the new roles, andreconceptualization of roles and capacity development is required
-
-Table 11.1.1: Key Features of Overall Education Management Structure in Sindh - Post 18 th Amendment Scenario
 
 Page 114 of 155
 
@@ -3373,7 +3089,7 @@ School Based Leadership |  Mainly responsible for provision of learning resou
 
 Educational  planning  as  well  as  implementation  is,  generally,  characterized  by  disconnected, isolated and fragmented approaches. Such approaches will continue to have limited impact if a holistic view of sector view is not developed and implemented.
 
-NEP 2009 has observed that the current educational governance is alien to the ‗standardization culture'.  Standards  or  statements  of  minimum  requirements  help  to  manage  the  process  and outcomes  objectively.  With  the  Eighteenth  Constitutional  Amendment,  the  responsibility  of developing  relevant  standards  for  educational  process  and  their  outcomes  has  become  an important provincial role.
+NEP 2009 has observed that the current educational governance is alien to the ‘standardization culture’. Standards or statements of minimum requirements help to manage the process and outcomes objectively. With the Eighteenth Constitutional Amendment, the responsibility of developing relevant standards for educational process and their outcomes has become an important provincial role.
 
 On the one hand, planning and management need to be guided by standards and on the other hand,  the  decision  related  to  planning  and  implementation  decisions  need  to  be  informed  and evidence-based (e.g. decisions taken on the basis of data or information that is comprehensive, accurate, valid and reliable) has long been identified and acknowledged. The current efforts at developing data management systems (e.g. EMIS data) exemplify this emphasis. No doubt, the existing efforts are acknowledged and appreciated. There is, however, a need to further enhance the potential of the data generation, its management and utilization, to meaningfully, effectively and  consistently  inform  planning  efforts  and  reform  initiatives.  This  comes  across  as  an important priority.
 
@@ -3387,14 +3103,14 @@ Page 115 of 155
 
 Listed below are some of the key issues relating to educational management in the province:
 
+Table 11.1.2: Synthesis of Key Issues relating to Educational Management in Sindh
+
 Issue | Details
 --- | ---
 Lack of wholesector approach |  Limited inter-departmental coordination (e.g., with finance, civil service commission, health) and uneven flow of communication
 Absence of standards and minimum criteria for educational inputs, processes and educational outcomes |  Lack of clear performance and quality standards (some examples): - Learning environment - Lack of job description; no criteria for recruitment, selection and placement nor performance audit - Standards for teaching-learning processes - School ranking
 Limited capacity for evidence based planning |  Lack of data skills resulting in absence of evidence based decision making
 Limited professionalism among educational managers |  There are no special requirements for a teacher to be inducted as educational manager in the system  The retention and promotion as educational managers do not get, by and large, informed/ influenced by any professional criteria - only the length of service matters
-
-Table 11.1.2: Synthesis of Key Issues relating to Educational Management in Sindh
 
 #### 11.1.3. Objectives, Strategies, Targets and Activities
 
@@ -3418,14 +3134,14 @@ Page 116 of 155
 
 Next, Table 11.1.3 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
 
+Table11.1.3: Management and Governance: Objectives, Strategies, Targets and Activities
+
 GOAL : To strengthen management capacity at all levels: Provincial, District and School
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013-2016) | Activities
 Strategic Objective 1 Develop whole sector approach |  Review of current management policies and practices  Developing governance framework with whole sector approach  Capacity building for district sector planning |  Study report on current practices is available by 2015  Legal framework with whole sector approach is in place 2015  District Sector Plans are developed and in place by 2015 |  Identify a core team to review current policies and management practices  Develop ToRs for the core team  Team submits findings  Based on the findings, develop an integrative framework for governance  Develop capacity for district sector planning  Develop and implement district sector plans
 Strategic Objective 2 Develop and implement standards for educational inputs, processes and educational outcomes |  Capacity building for preparing standards for managing and monitoring educational programs  Standards identification  Pilot testing in both, rural and urban settings |  Standards for managing and monitoring educational programs identified by 2016 |  Develop minimum standards on school infrastructure  Develop performance standards and benchmarks for teachers'/ managers' recruitment and performance  Develop a school ranking system  Facilitate the development of academic calendar for all schools
 Strategic Objective 3 |  Capacity building of district based |  Procedure and protocols for |  Plan to improve processes of data collection
-
-Table11.1.3: Management and Governance: Objectives, Strategies, Targets and Activities
 
 Page 117 of 155
 
@@ -3443,7 +3159,7 @@ Note:  Management issues related to a subsector specifically are discussed in th
 
 ### 11.2. Gender Equity
 
-The Constitution of Pakistan affirms an egalitarian view of education based on values responding to the requirements of economic growth…instilling moral values and of providing education to all citizens irrespective of gender, caste, creed, or race…‖
+The Constitution of Pakistan affirms an egalitarian view of education based on values responding to the requirements of economic growth…instilling moral values and of providing education to all citizens irrespective of gender, caste, creed, or race…”
 
 (NEP 2009, Section 2.1, point 43, p.9)
 
@@ -3453,7 +3169,7 @@ Page 118 of 155
 
 [[START OF PAGE 119]]
 
-The  significance  of  female  education  and  participation  in  educational  processes  is  wellestablished  and  recognized  widely.  The  focus  has  emerged  repeatedly,  though  with  varied emphasis,  in  various  policies  and  plans  in  past.  The  very  first  conference  on  education  in Pakistan (November  1947)  takes it up as a focus and formulates sub-committees for recommendations on ‗Women's Education' though it was not identified as an issue as such due to weak gender awareness (White Paper 2007). In essence, it was in mid-60's that gender was taken  as  an  issue,  with  special  reference  to  the  existing  co-educational  context  and  need  for segregated provision to address the orthodox views and concerns. The focus and emphasis kept shifting  in  the  subsequent  policies,  including,  for  instance:  gender  segregated  provisions  and special arrangements (e.g. separate girls schools and universities) to ensure female participation; linking  girls'  enrolment  to  the  availability  of  female  teachers  and,  consequently,  increasing number  of  female  teachers,  providing  training  to  female  teachers  and  allowing  some  flexible policy provision for hiring of female teachers).
+The significance of female education and participation in educational processes is well-established and recognized widely. The focus has emerged repeatedly, though with varied emphasis, in various policies and plans in past. The very first conference on education in Pakistan (November 1947) takes it up as a focus and formulates sub-committees for recommendations on ‘Women’s Education’ though it was not identified as an issue as such due to weak gender awareness (White Paper 2007). In essence, it was in mid-60’s that gender was taken as an issue, with special reference to the existing co-educational context and need for segregated provision to address the orthodox views and concerns. The focus and emphasis kept shifting in the subsequent policies, including, for instance: gender segregated provisions and special arrangements (e.g. separate girls schools and universities) to ensure female participation; linking girls’ enrolment to the availability of female teachers and, consequently, increasing number of female teachers, providing training to female teachers and allowing some flexible policy provision for hiring of female teachers).
 
 However,  despite  this emphasis  and  recognition,  gender  inequalities continue  to  plague education,  in  general,  and  society  at  large.  The  current  structural  arrangements  in  Sindh  have promoted  gender  disparities,  which  have  also  contributed  to  the  vicious  cycle  of  sustained poverty  in  the  province.  Gender  inequalities  are  present  in  different forms,  requiring  a comprehensive plan and implementation strategy so as to meet the needs of the girls having no/ limited  access  to  educational  provision  and  related  opportunities,  and  for  female  teachers working  in  the  Department  of  Education  (including  females  working  at  the  management positions).  Low  female  literacy  rates  contribute  significantly  to  the  negative  social  conditions causing  further  gender  inequalities  and  disparities.  Therefore,  one  important  strategy  is  to improve female adult literacy on a war footing.
 
@@ -3465,7 +3181,7 @@ Box 11.2.1. Aims and Objectives
 
 To equalize access to education through provision of basic facilities for girls and boys alike, underprivileged/ marginalized groups and special children and adults.
 
-To organize a national process for educational Likewise,  the  international  commitments (Millennium Development, MDGs-Ed and EFA Goals) also require enhancing female participation and gender parity as key development that will reduce disparities across provinces and areas and support coordination and sharing of experiences.‖ (Section 2.3, pp. 9 -1 0)
+To organize a national process for educational
 
 Page 119 of 155
 
@@ -3473,35 +3189,34 @@ Page 119 of 155
 
 [[START OF PAGE 120]]
 
-objectives  set  for  2015.  However,  despite  all  the  emphasis,  Pakistan  is  still  very  far  from fulfilling its commitment in relation to Universal Primary Education by 2015. With low retention rates and high drop-out rates, Gender disparities continue to increase. Moreover, females in the rural areas are further disadvantaged.
+development that will reduce disparities across provinces and areas and support coordination and sharing of experiences.”
+(Section 2.3, pp. 9-10)
 
-The data indicates that at primary level, the gender parity index is very low and the lowest at the To
+Likewise, the international commitments (Millennium Development, MDGs-Ed and EFA Goals) also require enhancing female participation and gender parity as key objectives set for 2015. However, despite all the emphasis, Pakistan is still very far from fulfilling its commitment in relation to Universal Primary Education by 2015. With low retention rates and high drop-out rates, Gender disparities continue to increase. Moreover, females in the rural areas are further disadvantaged.
 
-Indicators | Value
---- | --- | ---
-GPI: | Grade 1-5 | 0.69
-GPI: | Grade 6-8 | 0.99
-GPI: | Grade 9-10 | 0.70
-GPI: | Grade 11-12 | 0.57
+The data indicates that at primary level, the gender parity index is very low and the lowest at the higher secondary level. To address this concern, there is a general consensus among educational planners and managers in Sindh that female education is important. The overall national and international policy context is supportive, too. The policy directives are to ensure elimination of all types of gender biases from textbooks, and that there is adequate representation of females in all curriculum and textbooks review committees. Likewise, SEMIS collects gender segregated data. The Government of Sindh has taken some effective measures to reduce gender disparities through stipends/incentives for girls. So far, approximately Rs. 1.2 billion has been spent on the programme; its impact, however, needs to be assessed.
 
 Table 11.2.1: Gender Parity Index (GPI), 2010-11
 
+Indicators | Value
+--- | ---
+GPI: Grade 1-5 | 0.69
+GPI: Grade 6-8 | 0.99
+GPI: Grade 9-10 | 0.70
+GPI: Grade 11-12 | 0.57
+
 Source: Statistical Bulletin Annual School Census (2010-2011)
-
-higher secondary level. address this concern, there is a general consensus among educational planners and managers in  Sindh  that  female education is important. The overall national and international  policy  context  is supportive, too. The policy directives are to ensure elimination of all types of
-
-gender  biases  from  textbooks,  and  that  there  is  adequate  representation  of  females  in  all curriculum and textbooks review committees. Likewise, SEMIS collects gender segregated data. The  Government  of  Sindh  has  taken  some  effective  measures  to  reduce  gender  disparities through stipends/incentives for girls. So far, approximately Rs. 1.2 billion has been spent on the programme; its impact, however, needs to be assessed.
 
 #### 11.2.2 Key Issues and Challenges
 
 Listed below are some of the key issues relating to gender education in the province:
 
-Issue | Details
---- | --- | ---
-High gender disparities |  Primary NER gender gap is 28 % (boys 64% vs. girls 36%); Secondary NER gender gap is 19.6 % (boys 59.8 % vs. girls 40.2%)
-High rates | female dropout at all levels of |  Possible factors include: (i) early marriages; (ii) lack of awareness amongst parents and guardians; (iii) opportunity cost; (iv) lack of school
-
 Table 11.2.2: Synthesis of Key Issues relating to Gender and Education
+
+Issue | Details
+--- | ---
+High gender disparities |  Primary NER gender gap is 28 % (boys 64% vs. girls 36%); Secondary NER gender gap is 19.6 % (boys 59.8 % vs. girls 40.2%)
+High female dropout rates at all levels of |  Possible factors include: (i) early marriages; (ii) lack of awareness amongst parents and guardians; (iii) opportunity cost; (iv) lack of school
 
 Page 120 of 155
 
@@ -3520,12 +3235,12 @@ In addition to the above, issues such as those of ghost schools, cultural comple
 
 All the subsectors have identified gender sensitive objectives and strategies, discussed separately within each sub sector, some specific examples of which are provided below.
 
+Table 11.2.3: Some Examples of Gender related Objectives Identified in the Sub-sector Plans
+
 Sub-sector | Strategic Objectives
 --- | ---
 Early Child Education |  Recruiting qualified female teachers for ECE programs  Enhancing use of child centric approaches and  Ensure provision of better opportunities for girls
 Secondary and Higher Secondary Education |  Concerted efforts for increased girls' enrollment, broad based curriculum to make it more relevant to female interest, and improving schools' capacity to retain the female students (which includes, for instance, provision of necessary facilities and sufficient infrastructure, appropriate and effective learning environment)
-
-Table 11.2.3: Some Examples of Gender related Objectives Identified in the Sub-sector Plans
 
 Page 121 of 155
 
@@ -3567,13 +3282,13 @@ Page 122 of 155
 
 Next, Table 11.2.4 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
 
+Table 11.2.4: Gender Equity: Objectives, Strategies, Targets and Activities
+
 GOAL: To enhance Gender Equity across the provision of education in Sindh
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
 Strategic Objective 1 Ensure implementation of national laws and policies that deal with gender inequities/ violence (including development of anti- harassment policies for Education & Literacy Department) |  Regular gender audit at the provincial level for informing policies and standards  Redressing cases relating to anti-harassment  Review of gender discriminatory legislation and its implementation at all levels of education in the province |  Gender unit is established at the provincial level by 2015  Anti-harassment policy for females students and teachers/ managers at workplace is developed by 2015 and implemented by 2016  Review of gender discriminatory legislation and its implementation at all levels of education in the province by 2016 |  Gender unit is established at the provincial level that conducts gender audit for policy and standards, and develops guidelines for curriculum development, teacher development and HR management  The unit also serves as redresser of cases relating to anti-harassment  Develop and approve comprehensive ToRs for the unit  Approval of SNE's for induction in the Gender Unit  Hire relevant and competent staff to address gender related issues in the province  Develop, approve and put in place anti-harassment policy for females  Develop relevant legislative framework and plan for implementation at all levels of education in the province
 Strategic Objective 2 Develop management capacity to promote gender equality and empower women |  Relevant planning for promoting gender equality at all levels in the system  Establishment of Gender Focal Points at district level  Gender sensitization |  District plans reflect their gender equity related targets and measureable indicators by 2015  Gender Focal Points are established at district |  Develop district plans for promoting gender equality  Establish gender focal persons  Assess the effectiveness of stipends to females and other gender- sensitive initiatives in place  Notify and establish Gender Focal
-
-Table 11.2.4: Gender Equity: Objectives, Strategies, Targets and Activities
 
 Page 123 of 155
 
@@ -3614,21 +3329,21 @@ Existence of insulated parallel systems of public and private education in Pakis
 
 The  education  scenario  in  Sindh  is  not  only  disappointing,  but  also  lacks  hope  of  future betterment. Even though during the last decade, there have been numerous education initiatives and projects for the improvement of education status in the province, but, ironically, despite all efforts, the crises of the educational scenario have further intensified.
 
-Despite the government's concerted efforts to make education free and compulsory (with free textbooks, stipends and, in some cases, uniforms and food provisions), the crises in the sector continue to remain limited to issues of ‗access' and ‗poor quality education' in both, public and mushrooming low-cost private  school  systems.  In  a  situation  where  the  system's  mechanisms have weakened and there is a dearth of resources, partnerships between key stakeholders is a key strategy to join forces and resources for improving the state of the education sector. The role of public-private  partnerships  for  providing  access  to  quality  education  cannot  be  ignored  in  the current scenario. Since mid-1990s, public private partnership has become an important part of Pakistan's education policy discourse and the government started to encourage involvement of the  private  sector  and  civil  society  organizations  (CSOs)  in  the  financing,  management  and delivery of education services in Pakistan.
+Despite the government’s concerted efforts to make education free and compulsory (with free textbooks, stipends and, in some cases, uniforms and food provisions), the crises in the sector continue to remain limited to issues of ‘access’ and ‘poor quality education’ in both, public and mushrooming low-cost private school systems. In a situation where the system’s mechanisms have weakened and there is a dearth of resources, partnerships between key stakeholders is a key strategy to join forces and resources for improving the state of the education sector. The role of public-private partnerships for providing access to quality education cannot be ignored in the current scenario. Since mid-1990s, public private partnership has become an important part of Pakistan’s education policy discourse and the government started to encourage involvement of the private sector and civil society organizations (CSOs) in the financing, management and delivery of education services in Pakistan.
 
 #### 11.3.1 Policy Context and Situation Analysis
 
 Historically, the provision of education through Public Private Partnership has been supported by the  education  policies  and  plans  such  as  education  policy  of  1992,  ESR-Action  plan,  MTDF (2005-2010) and 2009 Education Policy. Especially, the NEP 2009 puts some extra emphasis on public private partnership.
 
-##### Policy Actions for Enhancing Public Private Partnership - NEP 2009
+##### Policy Actions for Enhancing Public Private Partnership – NEP 2009
 
-Policy Action  1
-
-Policy Action  2
+Policy Action 1
 
 Available educational resources in the private sector shall be mapped and information made available to all. The resources in this case would include more than simply private schools which are already part of the overall education census.
 
-Transparent and clear procedures shall be initiated in the education sector to allow utilization of private sector inputs. Systems shall be developed through involvement of all stakeholders: the public sector, the private sector and the community; keeping in view Ministry of Education's document -Public Private Partnerships in Pakistan's Education Sector‖
+Policy Action 2
+
+Transparent and clear procedures shall be initiated in the education sector to allow utilization of private sector inputs. Systems shall be developed through involvement of all stakeholders: the public sector, the private sector and the community; keeping in view Ministry of Education’s document “Public Private Partnerships in Pakistan’s Education Sector”
 
 Page 126 of 155
 
@@ -3636,27 +3351,27 @@ Page 126 of 155
 
 [[START OF PAGE 127]]
 
-Policy Action  3
+Policy Action 3
 
-Policy Action  4
+Provincial Governments shall encourage private education at the school level as an option available to those who can afford such education. At the same time, Governments shall take steps to encourage public sector institutions to draw benefit from the resources available in the private sector.
 
-Policy Action  5
+Policy Action 4
 
-Policy Action  6
+A common curricular framework in general as well as professional education shall be applied to educational institutions in both the public and the private sector. Government shall take steps to bring the public and private sectors in harmony through common standards, quality and regulatory regimes.
 
-Policy Action  7
+Policy Action 5
 
-Policy Action 8
+Where a private school already exists with additional admission space, the children shall be accommodated in it, through public financing and the public sector new school shall either be developed in separate vicinity or for different levels. Private sector schools shall be provided permission to operate on a need- cum- quality basis.
 
-Provincial Governments shall encourage private education at the school level as an option  available  to  those  who  can  afford  such  education.  At  the  same  time, Governments shall take steps to encourage public sector institutions to draw benefit from the resources available in the private sector.
+Policy Action 6
 
-A common curricular framework in general as well as professional education shall be applied  to educational  institutions in both  the public and  the private sector. Government  shall  take  steps  to  bring  the  public  and  private  sectors  in  harmony through common standards, quality and regulatory regimes.
+Provincial and Area Governments shall develop regulations for establishing and running private sector institutions that include transparent accountability procedures. Where such regulatory bodies have already been developed, those shall be reinvigorated.
 
-Where a private school already exists with additional admission space, the children shall  be  accommodated  in  it,  through  public  financing  and  the  public  sector  new school shall either be developed in separate vicinity or for different levels. Private sector schools shall be provided permission to operate on a need- cum- quality basis.
-
-Provincial  and  Area  Governments  shall  develop  regulations  for  establishing  and running private sector institutions that include transparent accountability procedures. Where  such regulatory bodies have already been developed, those shall be reinvigorated.
+Policy Action 7
 
 Provincial and Area governments shall take steps to build capacity of the regulators to enable them to effectively monitor compliance by private sector institutions.
+
+Policy Action 8
 
 Non-profit educational institutions should be provided tax incentives.
 
@@ -3672,25 +3387,25 @@ In province Sindh, the Sindh Education Foundation (SEF) has played a frontline r
 
 Community Based Education School (CBES) program, Support to Private Education Institutions Program (SPIEP); and most recently Promoting Private Schooling in Rural Sindh (PPRS) and Integrated  Education  Learning  Program  (IELP)  -  all  these  have  been  run  by  the  foundation. However, the foundation's efforts are mostly confined to the provision of primary education in
 
-Sindh and access to children of rural areas. Some other  examples  of  public  private  partnerships  can be seen through some CSR activities of corporate firms and through donor initiated projects through which managers, teachers and policy makers gain access to more specialized professional competencies  from  the  private  institutions.  AKUIED is one such example through which hundreds of public sector education personnel received specialized  training.  Important  initiatives  are  also taken by the Reform Support Unit through which the management contracts were awarded to private institutions, in order to run and manage the public schools.
+Sindh and access to children of rural areas. Some other examples of public private partnerships can be seen through some CSR activities of corporate firms and through donor initiated projects through which managers, teachers and policy makers gain access to more specialized professional competencies from the private institutions. AKU-IED is one such example through which hundreds of public sector education personnel received specialized training. Important initiatives are also taken by the Reform Support Unit through which the management contracts were awarded to private institutions, in order to run and manage the public schools.
 
 Box 11.1: Where the private sector can assist?
 
-- School construction
+1. School construction
 
-- Textbooks development
+2. Textbooks development
 
-- Libraries development including provision of supplementary reading material
+3. Libraries development including provision of supplementary reading material
 
-- Teacher education
+4. Teacher education
 
-- Transportation
+5. Transportation
 
-- Food supplement to poor children
+6. Food supplement to poor children
 
-- Literacy programmes
+7. Literacy programmes
 
-- Information Communication Technology (ICT)
+8. Information Communication Technology (ICT)
 
 (NEP 2009, p.18)
 
@@ -3700,11 +3415,11 @@ There is, thus, a need is to broaden the scope of the public private partnership
 
 Listed below are some of the key issues relating to social cohesion in the province:
 
+Table: 11.3.1: Public Private Partnership – Synthesis of Key Issues and Challenges
+
 Issue | Details
 --- | ---
 Lack of database/ mapping of educational | There is no comprehensive database that maps the available educational resources in the private sector. This database should be available
-
-Table: 11.3.1: Public Private Partnership - Synthesis of Key Issues and Challenges
 
 Page 128 of 155
 
@@ -3733,12 +3448,12 @@ Based  on  an  analysis  of  the  situation  as  well  as  suggestions  and  rec
 
 Next, Table 11.3.2 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
 
+Table 11.3.2: Public Private Partnership: Objectives, Targets, Strategies and Activities
+
 GOAL: Develop Public Private Partnership for enhanced access and improved quality of education provision
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
 Strategic Objective 1 Map educational resources in |  Design of a comprehensive MIS for mapping educational resources in private |  MIS is ready by 2015 and used the stakeholders whenever required |  Identify information needs for productive public private partnership for quality provision of
-
-Table 11.3.2:  Public Private Partnership: Objectives, Targets, Strategies and Activities
 
 Page 129 of 155
 
@@ -3755,7 +3470,7 @@ Strategic Objective 3 Ensure sustainability of existing successful PPP initiativ
 
 ### 11.4. Social Cohesion
 
--The imperative of uniformity in Pakistan's educational system flows from the Constitution of Pakistan, which entrusts the State with the responsibility of organizing an equitable and effective education system, with an aim to enhance the overall well-being of Pakistanis‖ (NEP 2009, section 1.3, pt. 16, p.3)
+“The imperative of uniformity in Pakistan’s educational system flows from the Constitution of Pakistan, which entrusts the State with the responsibility of organizing an
 
 Page 130 of 155
 
@@ -3763,17 +3478,19 @@ Page 130 of 155
 
 [[START OF PAGE 131]]
 
-The Constitution of Pakistan obligates the state to provide equal educational opportunity for all. Article  38  (d)  of  the  Constitution,  particularly,  refers  to  equal  provision  of  education  to  all citizens irrespective of gender, caste, creed, or race. In Sindh, there are various distinct ethnic, social,  economic,  religious,  political  groups  and  communities  that  form  a  broad  spectrum  of diversity in the province. This diversity, with careful and comprehensive planning and effective implementation, can lead to enhanced educational outcomes in the province. Failure in building on the potential of diversity, on the other hand, can be divisive and can result in social conflicts and disintegration. Hence, the issue needs to be attended, and that also on urgent basis.
+equitable and effective education system, with an aim to enhance the overall well-being of Pakistanis” (NEP 2009, section 1.3, pt. 16, p.3)
+
+The Constitution of Pakistan obligates the state to provide equal educational opportunity for all. Article 38 (d) of the Constitution, particularly, refers to equal provision of education to all citizens irrespective of gender, caste, creed, or race. In Sindh, there are various distinct ethnic, social, economic, religious, political groups and communities that form a broad spectrum of diversity in the province. This diversity, with careful and comprehensive planning and effective implementation, can lead to enhanced educational outcomes in the province. Failure in building on the potential of diversity, on the other hand, can be divisive and can result in social conflicts and disintegration. Hence, the issue needs to be attended, and that also on urgent basis.
 
 #### 11.4.1. Policy Context and Situation Analysis
 
 One  of  the  key  aims  of  education  is  social  transformation,  that  is,  through  reducing  social inequalities.  This  emphasis  as  well  as  the  urgency  of  the  matter  is  evidently  reflected  in  the current National Education Policy 2009; for instance, in the following comments:
 
--Education is not only about the individual; it has a societal  role  --a  societal  role  of  selecting, classifying,  distributing,  transmitting  and  evaluating  the  educational  knowledge,  reflecting  both the distribution of power and the principle of social contract. In a country with alarming inequities of  income  and  opportunities,  reducing  the  social  exclusion  needs  to  be  one  of  the  principle objectives of the Policy.‖ (NEP 2009, section 1.5, pt. 26, p.5)
+“Education is not only about the individual; it has a societal role --a societal role of selecting, classifying, distributing, transmitting and evaluating the educational knowledge, reflecting both the distribution of power and the principle of social contract. In a country with alarming inequities of income and opportunities, reducing the social exclusion needs to be one of the principle objectives of the Policy.” (NEP 2009, section 1.5, pt. 26, p.5)
 
--Educational system is supposed to ensure the right of an individual to grow in income and stature on the basis of his/her excellence in education and training.‖ (NEP 2009, section 1.5, pt. 27, p.6)
+“Educational system is supposed to ensure the right of an individual to grow in income and stature on the basis of his/her excellence in education and training.” (NEP 2009, section 1.5, pt. 27, p.6)
 
-However, as noted by NEP 2009, most of the educational policies and plans, by and large, have failed  to  promote  social  inclusiveness  by  reducing  social  stratification  and  ensuring  social mobility through education and training. There are various factors that have contributed to the current  social  fragmentation,  which  includes  differences  related  to  faith,  poverty,  unequal distribution of power and access to resources, and lack of political stability. Besides the socioeconomic structures, two more issues, as identified by NEP 2009, have impacted social cohesion very  badly:  Parallel  system  of  education  and  language  issue.  There  are  parallel  systems  of education  (public,  private  and  Madrassahs)  and  within  each  category  also,  there  are  multiple layers that exist. Each category of school is accessible to a particular social group only, and is rigidly bound so as to discourage any social mobility. Moreover, the role of language in social cohesion  is  very  crucial.  In  addition  to  parallel  school  system,  another  crucial  factor  creating social  inequality  and  disintegration  is  the  language  of  instruction.  The  issue  of  language  of instruction has remained a burning issue for quite a long time now. There are several languages besides Sindhi and Urdu language that are spoken in Sindh. The key challenge is achieving a creative balance between the use of mother tongue and other languages that have national (such as Urdu) or international relevance (e.g. English).
+However, as noted by NEP 2009, most of the educational policies and plans, by and large, have failed to promote social inclusiveness by reducing social stratification and ensuring social mobility through education and training. There are various factors that have contributed to the current social fragmentation, which includes differences related to faith, poverty, unequal distribution of power and access to resources, and lack of political stability. Besides the socio-economic structures, two more issues, as identified by NEP 2009, have impacted social cohesion very badly: Parallel system of education and language issue. There are parallel systems of education (public, private and Madrassahs) and within each category also, there are multiple layers that exist. Each category of school is accessible to a particular social group only, and is rigidly bound so as to discourage any social mobility. Moreover, the role of language in social cohesion is very crucial. In addition to parallel school system, another crucial factor creating social inequality and disintegration is the language of instruction. The issue of language of instruction has remained a burning issue for quite a long time now. There are several languages
 
 Page 131 of 155
 
@@ -3781,13 +3498,15 @@ Page 131 of 155
 
 [[START OF PAGE 132]]
 
-The other dimensions of social inequality that also needs to be addressed include whether some other marginalized groups get an equitable access of educational provision and opportunities e.g. the minorities, the children with special needs, and females. The list also includes children from  rural  and  extremely  disadvantaged  contexts.  The  issues  facing  each  kind  of  group  may differ in nature and scope; however, primarily, the issues relate to access and equitable provision, the absence of which has been contributing to societal disintegration and fragmentation.
+besides Sindhi and Urdu language that are spoken in Sindh. The key challenge is achieving a creative balance between the use of mother tongue and other languages that have national (such as Urdu) or international relevance (e.g. English).
+
+The other dimensions of social inequality that also needs to be addressed include whether some other marginalized groups get an equitable access of educational provision and opportunities – e.g. the minorities, the children with special needs, and females. The list also includes children from rural and extremely disadvantaged contexts. The issues facing each kind of group may differ in nature and scope; however, primarily, the issues relate to access and equitable provision, the absence of which has been contributing to societal disintegration and fragmentation.
 
 In  order  to  address  the  issue  of  social  inequality,  the  National  Education  Policy  the  National Education Policy 2009, which is the current policy document for Sindh, takes a very clear and firm stance on it: The broader aims and objectives, for instance, include:
 
 Box 11.4.1:Aims and Objectives
 
--To promote national cohesion by respecting all faiths and religions and recognise cultural and ethnic diversity.
+“To promote national cohesion by respecting all faiths and religions and recognise cultural and ethnic diversity.
 
 To promote social and cultural harmony through the conscious use of the educational process.
 
@@ -3813,45 +3532,45 @@ Page 132 of 155
 
 [[START OF PAGE 133]]
 
-Policy Action  2
+Policy Action 2
 
-Policy Action  3
+Governments shall identify schools in less developed areas for prioritisation in resource allocation and management for improving quality.
 
-Policy Action  4
+Policy Action 3
 
-Policy Action  5
+Ministry of Education, in consultation with Provincial and Area education departments, relevant professional bodies and the wider public, shall develop a comprehensive plan of action for implementing the English language policy in the shortest possible time, paying particular attention to disadvantaged groups and less developed regions.
 
-Policy Action  6
-
-Policy Action  7
-
-Policy Action 8
-
-Policy Action  9
-
-Policy Action 10
-
-#### 11.4.2 Key Issues and Challenges
-
-Governments  shall  identify  schools  in  less  developed  areas  for  prioritisation  in resource allocation and management for improving quality.
-
-Ministry of Education, in consultation with Provincial and Area education departments,  relevant  professional  bodies  and  the  wider  public,  shall  develop  a comprehensive plan of action for implementing the English language policy in the shortest possible time, paying particular attention to disadvantaged groups and  less developed regions.
+Policy Action 4
 
 The curriculum from Class I onward shall comprise of English (as a subject), Urdu, one regional language and mathematics, along with an integrated subject.
 
+Policy Action 5
+
 The Provincial and Area Education Departments shall have the choice to select the medium of instruction up to Class V.
 
-English  shall  be  used  as  the  medium  of  instruction  for  sciences  and  mathematics from class IV onwards.
+Policy Action 6
+
+English shall be used as the medium of instruction for sciences and mathematics from class IV onwards.
+
+Policy Action 7
 
 For the first five years, Provinces shall have the option to teach mathematics and science in English or Urdu/ official regional language; but after five years the teaching of these subjects shall be in English only.
 
+Policy Action 8
+
 Opportunities shall be provided to children from low socio-economic strata to learn English language.
 
-A  comprehensive  school  language  policy  shall  be  developed  in  consultation with provincial and area governments and other stakeholders.
+Policy Action 9
 
-Federal,  provincial  and  area  governments  shall  develop  joint  strategies  with main Madrassah systems, through consultations, to formally integrate marketoriented and skills-based  subjects  in  the  Madrassahs'  curricula  -  subjects  that would  enable  the children graduating from Deeni Madaris to have wider employment options.
+A comprehensive school language policy shall be developed in consultation with provincial and area governments and other stakeholders.
+
+Policy Action 10
+
+Federal, provincial and area governments shall develop joint strategies with main Madrassah systems, through consultations, to formally integrate market-oriented and skills-based subjects in the Madrassahs’ curricula - subjects that would enable the children graduating from Deeni Madaris to have wider employment options.
 
 (cf. NEP 2009, Section 3.5, p. 9)
+
+#### 11.4.2 Key Issues and Challenges
 
 Page 133 of 155
 
@@ -3865,12 +3584,12 @@ Initiatives such as the ‗Adopt a school' (SEF), or ‗voucher scheme' enabling
 
 Similarly, the issue of streamlining ‗Madrassah' education is yet to be addressed - though due to the sensitive nature of the issue, it needs very serious planning based on consultative process. Finally,  the  policy  provisions  establish  minorities'  rights  against  any  discriminatory  behavior against minorities and opportunities for their religious development; however, the situation on ground needs to be studied in some depth. Anecdotal evidence indicates that minorities do face some  difficulties  when  it  comes  to  religious  education.  For  instance,  there  is,  generally,  a provision for the minorities that they can opt out of studying Islamiat as a subject and can take ethics or the like instead as an alternative. However, in many cases, the schools do not have any provision for these alternate subject teachers, thus, leaving them with not much choice in this matter.
 
-Based  on  the  situation  analysis,  listed  below  are  some  of  the  key  issues  relating  to  social cohesion in the province.
+Based on the situation analysis, listed below are some of the key issues relating to social cohesion in the province.
+
+Table: 11.4.1: Social Cohesion – Synthesis of Key Issues and Challenges
 
 Issue | Details
 --- | ---
-
-Table: 11.4.1: Social Cohesion - Synthesis of Key Issues and Challenges
 
 Page 134 of 155
 
@@ -3888,7 +3607,7 @@ Governance in education system: |  Lack of proper mechanism of coordination b
 
 One important emphasis that is evident in the current educational reforms and past efforts is to involve  community,  enhance  their  participation  and  ownership  in  the  educational  processes. School  Management  Committees  (SMC)  is  an  important  initiative  in  this  regard  to  not  only involve  parents  and  community  in  the  decision  making  process  for  more  ownership  and accountability,  but  as  a  means  to  achieve  social  cohesion  through  developing  a  self-reliant, resilient and socially responsible community. The community participation initiatives also aim to ensure success and sustainability of initiatives.
 
-Box 11.4.2: Policy Actions for Strengthening SchoolManagementCommittees(SMCs)
+Box 11.4.2: Policy Actions for Strengthening School Management Committees (SMCs)
 
 Page 135 of 155
 
@@ -3896,15 +3615,15 @@ Page 135 of 155
 
 [[START OF PAGE 136]]
 
-- SchoolManagementCommittees(SMC)shallbestrengthenedthroughinvolvementof students, teachers,educationists, parentsand society(STEPS).
+1. School Management Committees (SMC) shall be strengthened through involvement of students, teachers, educationists, parents and society (STEPS).
 
-- ThetenureoftheSMCsshallbeenhanced,sothatthemembersareabletomakeuseof theirexperience.
+2. The tenure of the SMCs shall be enhanced, so that the members are able to make use of their experience.
 
-- Topromotegreaterutilisationofallocated funds,Governmentsshallmovefromfinancial audit toperformance oroutputbasedauditsystemforSMCs.
+3. To promote greater utilisation of allocated funds, Governments shall move from financial audit to performance or output based audit system for SMCs.
 
-- Head teachers shall be trained in social mobilisation to involve the community effectively.
+4. Head teachers shall be trained in social mobilisation to involve the community effectively.
 
-- Awarenesscampaignsshallbelaunched,attheDistrict,TehsilandUnionlevelsto sensitisecommunities about theirrolein schooleducation.
+5. Awareness campaigns shall be launched, at the District, Tehsil and Union levels to sensitise communities about their role in school education.
 
 (Cf. NEP 2009, p.22, section 3.7)
 
@@ -3914,7 +3633,7 @@ The Department of Education and Literacy has also made efforts in this regard; f
 
  Capacity building done for selected SMCs in 8 districts, last year (2012) - capacity building for  these  SMCs  to  work  as  ideal  SMCs  and  to,  consequentially,  build  capacity  of  other SMCS through them (Cf. Minutes of RSU meeting, dated..)
 
-Although  the  policy  directives  for  -marginalized  groups  of  society‖  include  -females‖,  the Education Sector Plan deals with it separately for special emphasis, addressing gender related disparities being an important goal and commitment at both, national and international level.
+Although the policy directives for “marginalized groups of society” include “females”, the Education Sector Plan deals with it separately for special emphasis, addressing gender related disparities being an important goal and commitment at both, national and international level.
 
 #### 11.4.3. Objectives, Targets and Strategies
 
@@ -3922,21 +3641,33 @@ Based  on  an  analysis  of  the  situation  as  well  as  suggestions  and  rec
 
 ##### Objectives
 
-- To ensure that the Curriculum and Textbooks adequately address the issue of  Social Cohesion
+1. To ensure that the Curriculum and Textbooks adequately address the issue of Social Cohesion
 
-- To enhance community participation and ownership, and strengthen school-community linkages
+2. To enhance community participation and ownership, and strengthen school-community linkages
 
-- Develop students charter and mechanism for its implementation
+3. Develop students charter and mechanism for its implementation
 
-- Ensure that overall environment of schools should meet the Child Friendly School (CFS) Standards, and support safe, protective and peaceful learning environment
+4. Ensure that overall environment of schools should meet the Child Friendly School (CFS) Standards, and support safe, protective and peaceful learning environment
 
-- Develop mechanism for mainstreaming literacy and non-formal students
+5. Develop mechanism for mainstreaming literacy and non-formal students
 
 Page 136 of 155
 
 [[END OF PAGE 136]]
 
 [[START OF PAGE 137]]
+
+6. Understand and assess the capacity of the system to take a decision regarding mainstreaming children with special needs in education
+
+7. Develop a comprehensive school language policy through consultative process with key stakeholders
+
+8. Prepare a comprehensive plan to implement English Language Policy
+
+9. Promote respect for all faiths and religions, and provide adequate opportunities to minorities for their cultural and religious development
+
+Next, Table 11.4.2 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
+
+Table 11.4.2: Social Cohesion: Objectives, Strategies, Targets and Activities
 
 GOAL:
 
@@ -3945,19 +3676,7 @@ To provide education in a manner that it leads to social cohesion
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
 --- | --- | --- | ---
 Strategic Object 1 Ensure that the Curriculum and Textbooks adequately address the issue of Social Cohesion |  Curriculum review, enhancement and enrichment through adding some relevant sections on social cohesion  Textbook development in light of the revised curriculum |  Curriculum enrichment of 2006 curriculum to be done by 2014-15 to include social cohesion as a cross cutting theme from Classes 1 to 12  Textbook development in accordance with 2006 Curriculum (enriched) to be completed by 2015  Necessary legislation (if it does not exist) to be put in place for implementation in all school systems by 2016 |  Notify and constitute Curriculum review and enrichment committee, based on a social cohesion experts  Literature review of the existing studies is conducted by the social cohesion experts  Carry out curriculum review  Prepare supplementary reading material  Put in place implementation plan  Review, develop, disseminate, pilot and accordingly implement the revised curriculum and textbooks and pedagogy in selected districts (prioritized as being conflict-ridden)  Make available the revised textbooks to schools and teachers
-Strategic Object 2 Enhance community participation and ownership, and strengthen school- community linkages |  Sensitizing, capacity building and awareness raising programmes for SMCs, parents and community at large in targeted districts (prioritized as being conflict-ridden) |  Community mobilization in targeted areas by 2016  Student representation in all SMCs achieved by 2014-15  Female participation enhanced in SMCs in all schools by 2016; ensure that all or most of the members in |  Conduct needs assessment, selecting two districts (representing rural and urban)  Develop supplementary material for capacity building and awareness raising  Capacity building and awareness raising of General Bodies of schools of targeted districts  Capacity building and awareness raising of
-
-- Understand and assess the capacity of the system to take a decision regarding mainstreaming children with special needs in education
-
-- Develop a comprehensive school language policy  through consultative process with key stakeholders
-
-- Prepare a comprehensive plan to implement English Language Policy
-
-- Promote respect for all faiths and religions, and provide adequate opportunities to minorities for their cultural and religious development
-
-Next, Table 11.4.2 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
-
-Table 11.4.2: Social Cohesion: Objectives, Strategies, Targets and Activities
+Strategic Object 2 Enhance community participation and ownership, and strengthen school-community linkages |  Sensitizing, capacity building and awareness raising programmes for SMCs, parents and community at large in targeted districts (prioritized as being conflict-ridden) |  Community mobilization in targeted areas by 2016  Student representation in all SMCs achieved by 2014-15  Female participation enhanced in SMCs in all schools by 2016; ensure that all or most of the members in |  Conduct needs assessment, selecting two districts (representing rural and urban)  Develop supplementary material for capacity building and awareness raising  Capacity building and awareness raising of General Bodies of schools of targeted districts  Capacity building and awareness raising of
 
 Page 137 of 155
 
@@ -3978,7 +3697,7 @@ Page 138 of 155
 
 mainstreaming children with special needs in education | profile of special children to be catered for)  Strategize based on system's capacity and available models | local/regional level for integration of special children into mainstream education  A comprehensive framework and feasibility plan is developed in relation to possible integration of the children with special needs into mainstream education
 --- | --- | --- | ---
-Strategic Object 5 Develop a comprehensive school language policy through consultative process with key stakeholders |  Develop policy through rigorous and systematic consultative process (given the sensitive nature of the issue) |  Comprehensive language policy is prepared, approved and its implementation process is initiated by 2016 |  Develop detailed plan for carrying out consultative process  Relevant groups of key stakeholders formed for consultations  Meeting and deliberations of stakeholders' groups  Consolidate, pilot, approve, and disseminate recommendations of the groups  Develop implement Language Policy and
+Strategic Object 5 Develop a comprehensive school language policy through consultative process with key stakeholders |  Develop policy through rigorous and systematic consultative process (given the sensitive nature of the issue) |  Comprehensive language policy is prepared, approved and its implementation process is initiated by 2016 |  Develop detailed plan for carrying out consultative process  Relevant groups of key stakeholders formed for consultations  Meeting and deliberations of stakeholders' groups  Consolidate, pilot, approve, and disseminate recommendations of the groups  Develop implement Language Policy and implementation plan
 Strategic Object 6 Prepare a comprehensive plan to implement English Language Policy |  Understand and analyze existing situation and strategize to build capacity |  Understand the existing situation and challenges faced in relation to teaching and learning of English by 2015  Carry out detailed assessment of the existing capacity of the system to teach English as a language by 2015  Develop a comprehensive strategic plan to enhance system's capacity to teach English as a language by 2016 |  Commission studies to - conduct situation analysis - carry out system's capacity audit - understand existing models at local/regional level for accelerated learning of as a language  For implementing language policy based on capacity assessment, develop detailed and comprehensive plan, inclusive of strategies, for instance: - for ensuring equitable access for improving the English language skills of children from low socio-economic strata, girls, and children from rural areas - for using English as the medium of instruction for sciences and mathematics from class IV onwards - for teacher rationalization for English language teaching
 Strategic Object 7 |  Understand existing situation |  Carry out situation analysis in relation to the treatment of |  In-depth study is conducted on the existing - practices in the education system
 
@@ -4011,41 +3730,41 @@ Page 140 of 155
 
 [[START OF PAGE 141]]
 
-Policy Action  1
+Policy Action 1
 
-Policy Action  2
+Awareness shall be raised amongst the students regarding emergency situations, natural disasters and school safety so as to enable them to take appropriate preventive measures and informed decisions in emergencies or crises.
 
-Policy Action  3
-
-Policy Action  4
-
-Policy Action  5
-
-Policy Action  6
-
-Policy Action  7
-
-Policy Action 8
-
-Awareness  shall  be  raised  amongst  the  students  regarding  emergency  situations, natural disasters and school safety so as to enable them to take appropriate preventive measures and informed decisions in emergencies or crises.
+Policy Action 2
 
 Curriculum, especially of Social Studies, Geography, Languages, and Literacy shall include themes on emergencies, natural disasters and trauma management based on latest international best practices and shall also include information about response in an emergency or disaster.
 
+Policy Action 3
+
 Teacher education and training curricula shall include provisions to enable the teacher to address education in emergencies.
 
-A  repository  of  all  emergency  related  materials,  manuals,  guidelines,  minimum standards  and  research  pertaining  to  education  shall  be  maintained  at  the  teachers training institutions, schools, colleges and universities.
+Policy Action 4
 
-National  Disaster  Management  Authority  shall  provide  guidelines  and  code  of conduct  to  the  building  departments  to  construct  school  infrastructure  according  to the international standards.
+A repository of all emergency related materials, manuals, guidelines, minimum standards and research pertaining to education shall be maintained at the teachers training institutions, schools, colleges and universities.
 
-The authorities in planning (at Federal Ministry of Education, Planning Commission and  Provincial  Planning  &  Development  Departments)  shall  ensure  that  guidelines and code of conduct for construction of school infrastructure regarding disaster have been followed while recommending the education projects for approval.
+Policy Action 5
+
+National Disaster Management Authority shall provide guidelines and code of conduct to the building departments to construct school infrastructure according to the international standards.
+
+Policy Action 6
+
+The authorities in planning (at Federal Ministry of Education, Planning Commission and Provincial Planning & Development Departments) shall ensure that guidelines and code of conduct for construction of school infrastructure regarding disaster have been followed while recommending the education projects for approval.
+
+Policy Action 7
 
 National Disaster Management Authority shall make available the Standard Operating Procedures (SOPs) for the educational institutions to follow pre and post emergency situations.
+
+Policy Action 8
 
 Disaster Management Plans shall include education delivery mechanism for rehabilitation.
 
 (Cf. p.42)
 
-Due to its geographic location, Sindh is suffering from the shift of monsoon rains towards the western parts of Pakistan, resulting in heavier and more frequent floods all over the province. Between 2010 and 2012, all 23 districts of Sindh have been affected to one extent or another by the floods. By late 2012, 19 out of the 23 districts had been hit twice or even three years in a row, virtually leaving no area without risk of having its infrastructures destroyed, roads blocked and hundreds  of  thousands  of  people  displaced.  Besides,  the  coastal  areas  of  Sindh,  especially Karachi and its more than 20 million people population, can be affected by cyclones, such as the one which hit the southern districts of Thatta, Badin and Tharparkar in 1999, displaced 50,000 people and damaged more than 100,000 buildings.
+Due to its geographic location, Sindh is suffering from the shift of monsoon rains towards the western parts of Pakistan, resulting in heavier and more frequent floods all over the province. Between 2010 and 2012, all 23 districts of Sindh have been affected to one extent or another by the floods. By late 2012, 19 out of the 23 districts had been hit twice or even three years in a row, virtually leaving no area without risk of having its infrastructures destroyed, roads blocked and hundreds of thousands of people displaced. Besides, the coastal areas of Sindh, especially
 
 Page 141 of 155
 
@@ -4053,7 +3772,9 @@ Page 141 of 155
 
 [[START OF PAGE 142]]
 
-As for earthquakes, while the majority of Sindh risks only low to moderate hazard, Karachi sits close to a plate boundary and south-eastern parts of the province around Thatta have suffered from severe earthquake damage in the past. Being in a seismically active region, coastal areas of Sindh  are  also  at  risk  of  tsunamis,  such  as  the  one  which  killed  more  than  4,000  people  and destroyed entire villages only 50 km west of Karachi in 1945.
+Karachi and its more than 20 million people population, can be affected by cyclones, such as the one which hit the southern districts of Thatta, Badin and Tharparkar in 1999, displaced 50,000 people and damaged more than 100,000 buildings.
+
+As for earthquakes, while the majority of Sindh risks only low to moderate hazard, Karachi sits close to a plate boundary and south-eastern parts of the province around Thatta have suffered from severe earthquake damage in the past. Being in a seismically active region, coastal areas of Sindh are also at risk of tsunamis, such as the one which killed more than 4,000 people and destroyed entire villages only 50 km west of Karachi in 1945.
 
 Sindh is also home to increasingly frequent and deadly sectorial violence in Karachi and northern districts of the province. While targeted attacks, bombings and civil unrest in Karachi are usually accompanied by shut down of public services for a few days, long term tribal/ethnic feuds in the districts  of  Kashmore,  Shikarpur,  Jacobabad,  Gothki,  Naushahro  Feroze  and  Dadu  result  in closing down of schools for periods ranging from a few days to several months, or in parents not sending their children to school due to fears for their security.
 
@@ -4075,12 +3796,12 @@ Page 142 of 155
 
 [[START OF PAGE 143]]
 
+Table 11.5.1: Key Issues related to Education in/ for Emergencies
+
 Issue | Details | Implications for Planning
 --- | --- | ---
-Damaged School Buildings : | Following floods:  Roads are impracticable,  School buildings are either partially or completely damaged,  The remaining safe schools are used as temporary shelters by IDPs, who often burn school furniture and infrastructure, thus indirectly damaging more schools than the ones originally destroyed by waters  More than 10,600 schools were damaged by floods in the last three years and 27% were used as IDP shelters  In 2011-12, 4,150 schools were still reported to be closed as a consequence of the preceding floods 6  Floods and occupation of schools also result in the destruction of teaching and learning materials 7 | Education in emergencies response should focus on  quickly solving issues of access, e.g., through - Rehabilitation of partially damaged schools; - Set up of Temporary Learning Centres (TLCs);  also on rebuilding infrastructures able to resist future floods and earthquakes
-Interrupti on of learning |  As a result of natural disasters or tribal/ ethnic violence, children's education is interrupted for periods ranging 2-3 months (high waters) to several months/ years (when schools have been destroyed or in the case of tribal/ ethnic clashes)  Children's education can also get disrupted because their families move to provinces where the language of instruction is different; in this case students either drop out school or sit in classes but do not understand content of the lessons  Most often, once education services have started again, students resume their studies directly to the next level, without benefiting | Coordination by department needs to focus on  monitoring of teachers' presence;  informing families, students and teachers about reopening of the schools;  lessons by teachers knowing the language of the province of origin of the students (if numbers allow);  remedial classes for those who missed education for a long time; and  catch up lessons for those who had their education interrupted for a
-
-Table 11.5.1: Key Issues related to Education in/ for Emergencies
+Damaged School Buildings: | Following floods:  Roads are impracticable,  School buildings are either partially or completely damaged,  The remaining safe schools are used as temporary shelters by IDPs, who often burn school furniture and infrastructure, thus indirectly damaging more schools than the ones originally destroyed by waters  More than 10,600 schools were damaged by floods in the last three years and 27% were used as IDP shelters  In 2011-12, 4,150 schools were still reported to be closed as a consequence of the preceding floods 6  Floods and occupation of schools also result in the destruction of teaching and learning materials 7 | Education in emergencies response should focus on  quickly solving issues of access, e.g., through - Rehabilitation of partially damaged schools; - Set up of Temporary Learning Centres (TLCs);  also on rebuilding infrastructures able to resist future floods and earthquakes
+Interruption of learning |  As a result of natural disasters or tribal/ ethnic violence, children's education is interrupted for periods ranging 2-3 months (high waters) to several months/ years (when schools have been destroyed or in the case of tribal/ ethnic clashes)  Children's education can also get disrupted because their families move to provinces where the language of instruction is different; in this case students either drop out school or sit in classes but do not understand content of the lessons  Most often, once education services have started again, students resume their studies directly to the next level, without benefiting | Coordination by department needs to focus on  monitoring of teachers' presence;  informing families, students and teachers about reopening of the schools;  lessons by teachers knowing the language of the province of origin of the students (if numbers allow);  remedial classes for those who missed education for a long time; and  catch up lessons for those who had their education interrupted for a
 
 > 6 In addition to the 1,100 existing schools which are closed on a permanent basis.
 
@@ -4094,9 +3815,11 @@ Page 143 of 155
 
 from catch up lessons | few weeks only
 --- | --- | ---
-Issue of Girls' Education : |  When roads and schools have been damaged, in areas where insecurity prevails, girls are the ones who stay longest out of school due to their parents' fears for their safety  During past disasters, displaced girls have suffered from harassment and assault when on the move and in temporary shelters | Coordination by department needs to focus on  prioritizingthe rebuilding of rural girls' schools first, then, mixed rural schools; and  coordinating interventions with the authorities/ cluster in charge of logistics to prioritize reopening of roads leading to girl's and mixed schools  For this purpose, female and rural educational facilities should be surveyed first
+Issue of Girls’ Education: |  When roads and schools have been damaged, in areas where insecurity prevails, girls are the ones who stay longest out of school due to their parents’ fears for their safety  During past disasters, displaced girls have suffered from harassment and assault when on the move and in temporary shelters | Coordination by department needs to focus on  prioritizing the rebuilding of rural girls’ schools first, then, mixed rural schools; and  coordinating interventions with the authorities/ cluster in charge of logistics to prioritize reopening of roads leading to girl’s and mixed schools  For this purpose, female and rural educational facilities should be surveyed first
 
 With reference to the issues discussed above, the following are some of the key challenges faced:
+
+Table 11.5.2: Education in Emergencies: List of Key Challenges
 
 Key Challenges
 --- | ---
@@ -4105,11 +3828,9 @@ Teachers related |  Lack of awareness regarding need for teacher preparation 
 Commitment related |  Lack of commitment from key stakeholders  Lack of budget to respond to emergency situations
 Awareness related |  Lack of general awareness
 
-Table 11.5.2: Education in Emergencies: List of Key Challenges
-
 In effect, lack of systematic mechanism to help in understanding the impact of emergencies on dropout  and  enrolment  rates,  their  contribution  to  social  disparities  as  well  as  to  the  overall education status - this is a key challenge in preparing a well-integrated response for emergency situations.
 
-Given potential disasters and their effect on education, but also because of its limited resources, the  Education  Department  will  need  to  focus  on  preparedness  and  coordination  of  education activities, addressing the key issues and challenges listed above. For this purpose, an Education in  Emergencies  (EiE)  Cell  (or  alternatively,  a  Provincial  Disaster  Management  Authority  PMDA, as indicated by the NEP 2009) will be created within the Education Department with two dedicated staff 8 : one Coordinator and an Information Management Officer (for specific roles and responsibilities of the Education Department EiE Cell, see Appendix #).
+Given potential disasters and their effect on education, but also because of its limited resources, the Education Department will need to focus on preparedness and coordination of education activities, addressing the key issues and challenges listed above. For this purpose, an Education in Emergencies (EiE) Cell (or alternatively, a Provincial Disaster Management Authority – PMDA, as indicated by the NEP 2009) will be created within the Education Department with
 
 Page 144 of 155
 
@@ -4117,7 +3838,9 @@ Page 144 of 155
 
 [[START OF PAGE 145]]
 
-Objectives and activities will be implemented by using the Minimum Standards for Education in Emergencies to achieve decent levels of access to education for all, improve quality of teaching and learning, and to ensure the accountability of all stakeholders. The following action plan will be  reflected  and  adapted  in  the  department's  upcoming  ‗Education  in  Emergencies  Policy Framework'.
+two dedicated staff⁸: one Coordinator and an Information Management Officer (for specific roles and responsibilities of the Education Department EiE Cell, see Appendix #).
+
+Objectives and activities will be implemented by using the Minimum Standards for Education in Emergencies to achieve decent levels of access to education for all, improve quality of teaching and learning, and to ensure the accountability of all stakeholders. The following action plan will be reflected and adapted in the department's upcoming ‘Education in Emergencies Policy Framework’.
 
 #### 11.4.3. Objectives, Targets and Strategies
 
@@ -4125,21 +3848,21 @@ Based  on  an  analysis  of  the  situation  as  well  as  suggestions  and  rec
 
 ##### Objectives
 
-- Developing capacity of educational managers and school management committees to manage education in emergencies
+1. Developing capacity of educational managers and school management committees to manage education in emergencies
 
-- Preparing teachers for education in emergencies
+2. Preparing teachers for education in emergencies
 
-- Large scale and broad-based awareness on education in emergencies
+3. Large scale and broad-based awareness on education in emergencies
 
 Next, Table 11.5.3 presents the department's priorities for the next 3 years in terms of objectives, key strategies and targets.
 
 Table 11.5.3: Education in Emergencies: Objectives, Strategies, Targets and Activities
 
+GOAL: To ensure provision of and preparedness for Education in/ for Emergencies
+
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
 --- | --- | --- | ---
 Strategic Object 1 Develop capacity of educational managers and school management |  Creation of a Special Unit or Cell in the education department  Capacity building of management and SMCs  Development of an |  Creation of a Special Unit or Cell in the education department by 2014  Capacity building of management and SMCs by 2015  Development of an Emergency Response Plan (ERP) at district |  Create a Disaster Management Unit/ Cell in the education department  Identify personnel for the Disaster Management Unit/ Cell with clear ToRs  Identify focal person at taluka
-
-GOAL: To ensure provision of and preparedness for Education in/ for Emergencies
 
 > 8 Funding by UNICEF - Education Department multi-year work plan or World Bank until GPE is approved.
 
@@ -4152,7 +3875,7 @@ Page 145 of 155
 GOAL: To ensure provision of and preparedness for Education in/ for Emergencies
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
-committees to manage education in emergencies | Emergency Response Plan (ERP) at district level | level by 2015 | level  Develop and implement a plan for capacity building of managers and SMCs  Conduct capacity development programmes at taluka level, prioritising talukas that are more likely to be affected by emergencies  Prepare an updated ERP for each
+committees to manage education in emergencies | Emergency Response Plan (ERP) at district level | level by 2015 | level  Develop and implement a plan for capacity building of managers and SMCs  Conduct capacity development programmes at taluka level, prioritising talukas that are more likely to be affected by emergencies  Prepare an updated ERP for each district
 Strategic Objective 2 Prepare teachers for education in emergencies |  Preparation/ professional development of teachers and teacher educators through CPD Programmes |  % of teachers is better prepared for handling education in emergencies by 2014 |  Design CPD programme for preparing teacher educators in handling education in emergencies  Develop 1-2 teacher educators per TEI in handling education in emergencies  Design CPD programme for preparing teachers in handling education in emergencies  Offer CPD to % teachers in handling education in emergencies, prioritizing based on gender and talukas that are more likely to be affected by emergencies
 Strategic Objective 3 Large scale and broad-based awareness on education in emergencies |  Understanding existing best practices in EiE at national or regional level  Conducting awareness raising sessions  Curriculum enrichment on EiE |  Awareness raising on education in emergencies by 2016, prioritizing talukas that are more likely to be affected by emergencies |  Commission study of best practices in EiE, and put in place plan for its wider dissemination  Undertake curriculum enrichment exercise to include information on EiE, especially, strategies to handle disaster  Special and focused adult literacy programs to raise awareness  Conduct awareness sessions for
 
@@ -4200,23 +3923,23 @@ Page 147 of 155
 
 Policy Action 1
 
+In-service training shall cover a wide range of areas: pedagogy and pedagogical content knowledge;… and programmes to cater to emerging needs like trainings in languages and ICT (cf. p.34)
+
 Policy Action 2
+
+Use of Information Communication Technologies (ICTs) in Education shall be promoted in line with Ministry of Education’s “National Information and Communication Technology Strategy for Education in Pakistan” (cf. p.36)
 
 Policy Action 3
 
-Policy Action 4
-
-In-service training shall cover a wide range of areas: pedagogy and pedagogical  content  knowledge;…  and  programmes  to  cater  to  emerging needs like trainings in languages and ICT (cf. p.34)
-
-Use of Information Communication Technologies (ICTs) in Education shall be promoted in line with Ministry of Education's -National Information and Communication Technology Strategy for Education in Pakistan‖ (cf. p.36)
-
 ICTs shall be utilized creatively to assist teachers and students with a wide range of abilities and from varied socio-economic backgrounds (cf. p.36)
 
-ICTs  shall  be  used  to  strengthen  the  quality  of  teaching  and  educational management (cf. p.36)
+Policy Action 4
+
+ICTs shall be used to strengthen the quality of teaching and educational management (cf. p.36)
 
 No  doubt,  ICT  is  a  very  important  area  of  investment  for  the  public  education  sector.  As discussed  above,  one  important  purposes  of  education  is  to  create  social  cohesion  through addressing  issues  of  inequalities  and  promoting  equitable  provision  of  opportunities;  ICT  can certainly  serve  as  a  very  important  resource  in  reaching  out  to  the  most  disadvantaged  and  in ensuring access to a wide variety of resources. Likewise, ICT can not only create an enriching learning  environment  for  the  mainstream  classes,  but  can  also  serve  as  an  important  tool  to promote adult literacy  and  non-formal  education.  Moreover,  the  use  of  technology  for  quality assurance, effective management and evidence-based planning is also a potential use.
 
-The current scenario of ICT use in the public sector education system is though not very bright at the moment, it still holds potential for a promising future, provided that a comprehensive and feasible  plan  is  in  place  and  implemented,  and  department's  necessary  commitment  and sustained interest is there. For instance, since Computer Science is an alternate career pathway (subject choice) for students at the secondary and higher secondary level, computer laboratories have been established, often under various projects (e.g. USAID based Ed-links Project), so as to enable  students  to  pursue  studies  in  the  field  of  Computer  Science.  However,  no  systematic assessment has been carried out nor studies conducted so far to understand the current capacity of  the  system  for  provision  of  functional  ICT  facilities  or  insights  in  relation  to  its  impact  on teaching,  learning  and  educational  management.  Nearly,  all  apex  educational  institutions  teacher education colleges, district education offices and PITE, are equipped with computers and printers. However, the effective use of these resources still remains an issue. Numerous studies and  reports  (e.g.  Sindh  Study  Report,  2007;  Bengali,  1997)  provide  evidence  that  the  ICT/ technology related resources provided in past have largely remained under-utilized or misused;
+The current scenario of ICT use in the public sector education system is though not very bright at the moment, it still holds potential for a promising future, provided that a comprehensive and feasible plan is in place and implemented, and department's necessary commitment and sustained interest is there. For instance, since Computer Science is an alternate career pathway (subject choice) for students at the secondary and higher secondary level, computer laboratories have been established, often under various projects (e.g. USAID based Ed-links Project), so as to enable students to pursue studies in the field of Computer Science. However, no systematic assessment has been carried out nor studies conducted so far to understand the current capacity of the system for provision of functional ICT facilities or insights in relation to its impact on teaching, learning and educational management. Nearly, all apex educational institutions – teacher education colleges, district education offices and PITE, are equipped with computers and printers. However, the effective use of these resources still remains an issue. Numerous studies and reports (e.g. Sindh Study Report, 2007; Bengali, 1997) provide evidence that the ICT/ technology related resources provided in past have largely remained under-utilized or misused;
 
 Page 148 of 155
 
@@ -4228,11 +3951,11 @@ for instance, computers have often remained under lock and key either due to sec
 
 An important reference in this regard is the District Educational Technology Resource Centres (DETRCs) (established in  Dadu,  Mirpurkhas,  Sanghar,  Badin  and  Thatta)  established  in  past, however,  remain  dysfunctional.  Some  educational  projects  in  past  made  such  investments, however, these resources turned into system wastage.
 
-Recently, some shifts are visible in current interventions, e.g. in relation to current pre-service teacher education programmatic interventions. For instance, as reported in the Teacher Education Strategy  2018,  some  shifts  were  visible:  Use  of  technology-based  learning  came  across  as  a major component in student-teachers' (pre-service ADE) images of future of education and their aspirations; their assignments reflected use of computers. Likewise, there were evidences also of faculty's use of computers and laptops for information sharing and other professional work in some of the urban areas. Students' desire and aspiration to utilize technology was much more evident as compared to their teachers. Despite some technological obstacles noted by the studentteachers  (difficulties  mentioned  included  ‗power  breakdown,'  ‗non-availability  of  sufficient time',  or  lack  of  ‗personal  computers'),  there  seemed  to  be  some  increase  in  the  use  of technology. Capacity building sessions have been organized for teacher educators in ICT under USAID-based Pre-STEP Project; laptops were also provided to the faculty. Similarly, CIDA has been helping to provide computers to enhance resources of computer labs.
+Recently, some shifts are visible in current interventions, e.g. in relation to current pre-service teacher education programmatic interventions. For instance, as reported in the Teacher Education Strategy 2018, some shifts were visible: Use of technology-based learning came across as a major component in student-teachers’ (pre-service ADE) images of future of education and their aspirations; their assignments reflected use of computers. Likewise, there were evidences also of faculty’s use of computers and laptops for information sharing and other professional work in some of the urban areas. Students’ desire and aspiration to utilize technology was much more evident as compared to their teachers. Despite some technological obstacles noted by the student-teachers (difficulties mentioned included ‘power breakdown,’ ‘non-availability of sufficient time’, or lack of ‘personal computers’), there seemed to be some increase in the use of technology. Capacity building sessions have been organized for teacher educators in ICT under USAID-based Pre-STEP Project; laptops were also provided to the faculty. Similarly, CIDA has been helping to provide computers to enhance resources of computer labs.
 
 However, the TEIs faculty (teacher educators) use of technology was mostly evident in major cities  only,  but  their  comfort  level  and  skills  still  need  to  be  enhanced  in  order  for  them  to facilitate the student-teachers in using ICT. Other teachers, in general, still seemed to be afraid of letting go of their traditional ways of teaching.
 
-At the management  level also,  government  managers 9 have attended capacity building programmes  at,  for  instance,  the  AKU-IED,  which  included  ICT  as  a  necessary  component. Likewise, some capacity building sessions for efficient system management have been conducted at  RSU,  for  instance.  MoE,  RSU  and  STEDA  have  web  presence  and  there  are  some  other projects  in  the  pipeline  to  enhance  the  use  of  ICT  in  educational  management  (e.g.  TEDDS). These include,  for  instance,  the  use  of  IT  for  monitoring  and  evaluation  for  improved  system performance. Another example is UNESCO's forthcoming project in collaboration with RSU of using mobile technology for promoting literacy in the province. These are all good examples to indicate an opening for ICT integration; however, these initiatives need to be carefully nurtured and studied to understand the process of implementation, the nature and issues and challenges faced and, most importantly, the impact of such initiatives.
+At the management level also, government managers⁹ have attended capacity building programmes at, for instance, the AKU-IED, which included ICT as a necessary component. Likewise, some capacity building sessions for efficient system management have been conducted at RSU, for instance. MoE, RSU and STEDA have web presence and there are some other projects in the pipeline to enhance the use of ICT in educational management (e.g. TEDDS). These include, for instance, the use of IT for monitoring and evaluation for improved system performance. Another example is UNESCO's forthcoming project in collaboration with RSU of using mobile technology for promoting literacy in the province. These are all good examples to indicate an opening for ICT integration; however, these initiatives need to be carefully nurtured
 
 > 9 Teachers/ teacher educators also
 
@@ -4242,18 +3965,20 @@ Page 149 of 155
 
 [[START OF PAGE 150]]
 
-Private Service providers offer great opportunity to build system's capacity for use of ICT and public-private  partnership  could  be  used  to  tap  on  existing  resources  in  the  province.  The outreach programmes by INGOs such as iEARN are good examples.
+and studied to understand the process of implementation, the nature and issues and challenges faced and, most importantly, the impact of such initiatives.
+
+Private Service providers offer great opportunity to build system's capacity for use of ICT and public-private partnership could be used to tap on existing resources in the province. The outreach programmes by INGOs such as iEARN are good examples.
 
 #### 11.6.2 Key Issues and Challenges
 
-The  following  are  some  of  the  key  issues  and  challenges  relating  to  ICT  in  public  education system in Sindh.
+The following are some of the key issues and challenges relating to ICT in public education system in Sindh.
+
+Table 11.6.1: Key Issues related to ICT in Education in Sindh
 
 Issue | Details
 --- | ---
-Lack of comprehensive policy framework and implementation plan for provision and use of ICT in the province |  The department, currently, does not have available a comprehensive policy framework and implementation plan to promote the use of ICT in Sindh  Though, at national level, such document is available in form of ‗The National ICT Strategy for Education in Pakistan'; however, the strategy needs to updated in terms of its relevance for the province  Donor support has been there in past to build capacity in this area to some extent, however, it has remained sporadic and fragmented, not as a mega project to provide a comprehensive strategy
+Lack of comprehensive policy framework and implementation plan for provision and use of ICT in the province |  The department, currently, does not have available a comprehensive policy framework and implementation plan to promote the use of ICT in Sindh  Though, at national level, such document is available in form of ‘The National ICT Strategy for Education in Pakistan’; however, the strategy needs to updated in terms of its relevance for the province  Donor support has been there in past to build capacity in this area to some extent, however, it has remained sporadic and fragmented, not as a mega project to provide a comprehensive strategy
 Availability of/ access to ICT related physical resources and infrastructure |  Availability of ICT related resources (e.g. computers) is limited, especially in rural or disadvantaged areas, and far-flung areas  The available resources are not optimally utilized, rather they are under-utilized or misused  Even where the computers are available, the necessary support and infrastructure is not available; some related issues, for instance, include: - Limited availability of electricity (especially, the extensive load-shedding) - Limited or no internet connectivity - Limited/ lack of technical support available in case the equipment has a problem
-
-Table 11.6.1: Key Issues related to ICT in Education in Sindh
 
 Page 150 of 155
 
@@ -4292,8 +4017,8 @@ Page 151 of 155
 GOAL: Enhancing teaching, learning and management of education by using ICT
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
-Strategic Objective 1 Developing policy framework for promoting ICTinEducation |  Put in place ‗ICT in Education' policy framework based on existing national strategy document and findings of policy research |  Policy related research findings regarding use of ICT in education and management are available for informing policy by 2015-16  Policy framework for use of ICT in education is developed, approved and implemented by 2016  Implementation framework for use of ICT in education is developed and approved by 2016 |  Commission policy research to gain relevant insights  Adapt and update ‗The National ICT Strategy for Education in Pakistan' to make it relevant for the provincial needs  Develop policy framework  Develop implementation framework
-Strategic Objective 2 Capacity building of system for ICT provision |  System's capacity audit for provision of ICT  System's capacity building for creating ICT provision based on audit  Public-private partnership  Inviting donor support |  System's capacity audit for ICT provision is undertaken by 2015  Comprehensive plan for need- based and rationalized provision of resources and phase-wise capacity building is in place by 2015-16 |  Develop and approve plan for capacity audit of the system in relation to ICT provision (physical resources and teachers' capacity)  Carry out capacity audit  Based on findings, put in place resource rationalization plan  Enhance provision of ICT resources based on system's available/ sanctioned resources and/or donor support  Invite private sector to help in system- wide and phase-wise capacity of the system (teachers, teacher educators and technical staff)  Hire relevant teachers/ staff wherever needed (based on rationalization)
+Strategic Objective 1 Developing policy framework for promoting ICTinEducation |  Put in place ‘ICT in Education’ policy framework based on existing national strategy document and findings of policy research |  Policy related research findings regarding use of ICT in education and management are available for informing policy by 2015-16  Policy framework for use of ICT in education is developed, approved and implemented by 2016  Implementation framework for use of ICT in education is developed and approved by 2016 |  Commission policy research to gain relevant insights  Adapt and update ‘The National ICT Strategy for Education in Pakistan’ to make it relevant for the provincial needs  Develop policy framework  Develop implementation framework
+Strategic Objective 2 Capacity building of system for ICT provision |  System's capacity audit for provision of ICT  System's capacity building for creating ICT provision based on audit  Public-private partnership  Inviting donor support |  System's capacity audit for ICT provision is undertaken by 2015  Comprehensive plan for need-based and rationalized provision of resources and phase-wise capacity building is in place by 2015-16 |  Develop and approve plan for capacity audit of the system in relation to ICT provision (physical resources and teachers' capacity)  Carry out capacity audit  Based on findings, put in place resource rationalization plan  Enhance provision of ICT resources based on system's available/ sanctioned resources and/or donor support  Invite private sector to help in system-wide and phase-wise capacity of the system (teachers, teacher educators and technical staff)  Hire relevant teachers/ staff wherever needed (based on rationalization)
 Strategic Objective 3 Effective use of ICT |  Teacher development through CPD for enhancing their use of ICT for/in teaching |  Phase wise plan for teaches/ faculty's phase wise capacity building is in place by 2015  Enhance use of ICT at schools, |  Use findings of system's capacity audit to develop phase wise plan for teachers' capacity building  Use ICT policy framework for
 
 Page 152 of 155
@@ -4306,7 +4031,7 @@ GOAL: Enhancing teaching, learning and management of education by using ICT
 --- | --- | --- | ---
 Strategic Objective | Strategies | Targets (2013 - 2016) | Activities
 for teaching and learning at schools, colleges and TEIs |  Enhanced use of technology at schools, colleges, TEIs | colleges, TEIs by 2016 | provincial needs to develop ICT in Education programmes and courses  Provide context-based mentoring/ support to teachers to help them in implementing their learning from programmes
-Strategic Objective 4 Effective use of ICT in/ for educational management |  System's capacity audit for provision of ICT  Provision and maintenance of necessary ICT infrastructure  System's capacity enhancement to use ICT for management  Public-private partnership  Inviting donor support |  Necessary ICT infrastructure is in place by 2016  Promote technology literacy among the sector personnel by 2016 |  Identify ICT needs of educational managers  Equip all education administrations with IT facilities and supporting infrastructure  Develop a maintenance system for ICT equipment  Enhance functionality, updating and effective use of websites of apex institutions  Enhance provision of ICT resources based on system's available/ sanctioned resources and/or donor support  Invite private sector to help in system- wide and phase-wise capacity of the system (education managers, officials, technical staff)  Hire relevant staff wherever needed (based on rationalization)
+Strategic Objective 4 Effective use of ICT in/ for educational management |  System's capacity audit for provision of ICT  Provision and maintenance of necessary ICT infrastructure  System's capacity enhancement to use ICT for management  Public-private partnership  Inviting donor support |  Necessary ICT infrastructure is in place by 2016  Promote technology literacy among the sector personnel by 2016 |  Identify ICT needs of educational managers  Equip all education administrations with IT facilities and supporting infrastructure  Develop a maintenance system for ICT equipment  Enhance functionality, updating and effective use of websites of apex institutions  Enhance provision of ICT resources based on system's available/ sanctioned resources and/or donor support  Invite private sector to help in system-wide and phase-wise capacity of the system (education managers, officials, technical staff)  Hire relevant staff wherever needed (based on rationalization)
 
 Page 153 of 155
 
@@ -4322,13 +4047,15 @@ The  Education  Department  EiE  Cell  will  be  part  of  …  Unit  and  will 
 
 The EiE cell will call and lead the Sindh EiE working group comprising all current members of the Education Cluster and NGOs/donors active in the field of education in emergencies. Monthly meetings of the EiE working group will be initiated and led by the EiE Cell and include the focal points  from  UNICEF,  OCHA  and  PDMA.  Minutes  of  meetings  and  the  most  important information will be shared with the Education Cluster at the national level. Staff from the EiE Cell will also attend OCHA Inter-Cluster Coordination Meetings and donor coordination forums.
 
-At the district level the same responsibilities will rest with the District Education Officer and a counterpart from an NGO active locally (resources of district education authorities and NGOs will be complementary as NGOs often dispose of more resources and have the benefit of being closer  to  local  populations).  The  Education  Department  EiE  Cell  will  work  closely  with  the DEOs  and  NGO  counterparts  to  monitor  implementation  on  the  objectives  and  planned interventions on the agreed timeline. At the district level, meetings will also be held monthly, as part or following the DEO meetings and comprise all current members of the Education Cluster and UN agencies/NGOs active in the field of Education in Emergencies, plus OCHA. The DEO and/or  NGO  counterpart  will  also  attend  OCHA  Inter-Cluster  Coordination  Meetings  at  the district level.
+At the district level the same responsibilities will rest with the District Education Officer and a counterpart from an NGO active locally (resources of district education authorities and NGOs will be complementary as NGOs often dispose of more resources and have the benefit of being closer  to  local  populations).  The  Education  Department  EiE  Cell  will  work  closely  with  the DEOs  and  NGO  counterparts  to  monitor  implementation  on  the  objectives  and  planned
 
 Page 154 of 155
 
 [[END OF PAGE 154]]
 
 [[START OF PAGE 155]]
+
+interventions on the agreed timeline. At the district level, meetings will also be held monthly, as part or following the DEO meetings and comprise all current members of the Education Cluster and UN agencies/NGOs active in the field of Education in Emergencies, plus OCHA. The DEO and/or NGO counterpart will also attend OCHA Inter-Cluster Coordination Meetings at the district level.
 
 The Education Department EiE Cell will concentrate its capacity building efforts at the district level, so as to ensure the quickest and best response possible following an emergency. This will include training of staff, visits to the districts, providing transport and communication means.
 
@@ -4338,7 +4065,8 @@ In  the  event  national  or  provincial  authorities  call  for  reactivation  
 
 #### Annexes
 
-ToR District-level Education Coordination Mechanism Education Department Needs Assessment format
+ToR District-level Education Coordination Mechanism
+Education Department Needs Assessment format
 
 Page 155 of 155
 
