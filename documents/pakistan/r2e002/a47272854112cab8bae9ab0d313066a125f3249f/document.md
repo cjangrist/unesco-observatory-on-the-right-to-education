@@ -2,7 +2,7 @@
 
 # THE CONSTITUTION OF THE ISLAMIC REPUBLIC OF PAKISTAN
 
-[As modified upto the 31 st  May, 2018]
+[As modified upto the 31st May, 2018]
 
 NATIONAL ASSEMBLY OF PAKISTAN
 
@@ -10,43 +10,29 @@ NATIONAL ASSEMBLY OF PAKISTAN
 
 [[START OF PAGE 2]]
 
-# 10 th PREFACE
+# PREFACE
 
-The  National  Assembly  of  Pakistan  passed  the  Constitution  on
+The National Assembly of Pakistan passed the Constitution on 10th April, 1973, the President of the Assembly authenticated it on 12th April, 1973 and the Assembly published the Constitution of the Islamic Republic of Pakistan. Since then, a number of amendments have been made therein and it has become necessary and expedient that an up-to-date and authentic version of the Constitution be published by the Assembly.
 
-April,  1973,  the  President  of  the  Assembly  authenticated  it  on  12
-
-th
-
-April,  1973  and  the  Assembly  published  the  Constitution  of  the  Islamic
-
-Republic  of  Pakistan.  Since  then,  a  number  of  amendments  have  been
-
-made therein and it has become necessary and expedient that an up-to-date
-
-and authentic version of the Constitution be published by the Assembly.
-
-This  Eighth  Edition,  which  is  intended  to  provide  an  updated
-
-version  of  the  Constitution,  incorporates  all  amendments  made  in  it  till
-
-date.
-
-ISLAMABAD :
-
-The 31 st  May, 2018
+This Eighth Edition, which is intended to provide an updated version of the Constitution, incorporates all amendments made in it till date.
 
 TAHIR HUSSAIN
 
 Secretary,
 
-National Assembly of Pakistan .
+National Assembly of Pakistan.
+
+ISLAMABAD :
+
+The 31st May, 2018
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 CONSTITUTION OF PAKISTAN
+
+i
 
 # THE CONSTITUTION OF THE ISLAMIC REPUBLIC OF PAKISTAN
 
@@ -56,7 +42,61 @@ __________
 
 __________
 
-i
+Articles                                                                 Page
+
+Preamble ........................................................................................................................... 1
+
+PART I .............................................................................................................................. 3
+
+Introductory ..................................................................................................................... 3
+
+1. The Republic and its territories .................................................................... 3
+2. Islam to be State religion ............................................................................... 3
+2A. The Objectives Resolution to form part of substantive provisions ............ 3
+3. Elimination of exploitation ............................................................................ 4
+4. Right of individuals to be dealt with in accordance with law, etc. ............. 4
+5. Loyalty to State and obedience to Constitution and law ............................. 4
+6. High treason .................................................................................................... 4
+
+PART II ............................................................................................................................. 6
+
+Fundamental Rights and Principles of Policy ................................................................ 6
+
+7. Definition of the State ..................................................................................... 6
+
+CHAPTER 1. – FUNDAMENTAL RIGHTS .................................................................... 6
+
+8. Laws inconsistent with or in derogation of Fundamental Rights to be void .......................................................................................................................... 6
+9. Security of person ........................................................................................... 7
+10. Safeguards as to arrest and detention ........................................................... 7
+10A. Right to fair trial ............................................................................................ 9
+11. Slavery, forced labour, etc., prohibited ........................................................ 9
+12. Protection against retrospective punishment ............................................. 10
+13. Protection against double punishment and self incrimination ................. 10
+14. Inviolability of dignity of man, etc. ............................................................. 10
+15. Freedom of movement, etc. .......................................................................... 11
+16. Freedom of assembly .................................................................................... 11
+17. Freedom of association ................................................................................. 11
+18. Freedom of trade, business or profession ................................................... 11
+19. Freedom of speech, etc. ................................................................................ 12
+19A. Right to information ..................................................................................... 12
+20. Freedom to profess religion and to manage religious institutions ............ 12
+21. Safeguard against taxation for purposes of any particular religion ........ 12
+22. Safeguards as to educational institutions in respect of religion, etc. ....... 13
+23. Provision as to property ............................................................................... 13
+24. Protection of property rights ....................................................................... 13
+25. Equality of citizens ....................................................................................... 15
+25A. Right to education ........................................................................................ 15
+26. Non-discrimination in respect of access to public places .......................... 15
+27. Safeguard against discrimination in services ............................................. 15
+28. Preservation of language, script and culture ............................................. 16
+
+CHAPTER 2. – PRINCIPLES OF POLICY .................................................................... 16
+
+29. Principles of Policy ....................................................................................... 16
+30. Responsibility with respect to Principles of Policy .................................... 17
+31. Islamic way of life ......................................................................................... 17
+32. Promotion of local Government institutions .............................................. 17
 
 [[END OF PAGE 3]]
 
@@ -66,6 +106,65 @@ CONSTITUTION OF PAKISTAN
 
 ii
 
+33. Parochial and other similar prejudices to be discouraged ........................ 18
+34. Full participation of women in national life ............................................... 18
+35. Protection of family, etc. .............................................................................. 18
+36. Protection of minorities ................................................................................ 18
+37. Promotion of social justice and eradication of social evils ........................ 18
+38. Promotion of social and economic well being of the people ...................... 19
+39. Participation of people in Armed Forces .................................................... 20
+40. Strengthening bonds with Muslim world and promoting international peace .............................................................................................................. 20
+
+PART III .......................................................................................................................... 21
+
+The Federation of Pakistan ........................................................................................... 21
+
+CHAPTER 1.—THE PRESIDENT ................................................................................. 21
+
+41. The President ................................................................................................ 21
+42. Oath of President .......................................................................................... 22
+43. Conditions of President’s office ................................................................... 22
+44. Term of office of President .......................................................................... 22
+45. President’s power to grant pardon, etc. ..................................................... 22
+46. President to be kept informed ..................................................................... 23
+47. Removal [or impeachment] of President .................................................... 23
+48. President to act on advice, etc. .................................................................... 24
+49. Chairman or Speaker to act as, or perform functions of, President ........ 25
+
+CHAPTER 2. – THE [MAJLIS-E-SHOORA (PARLIAMENT)] .................................... 25
+
+Composition, Duration and Meetings of 1 [Majlis-e-Shoora (Parliament)] ................ 25
+
+50. Majlis-e-Shoora (Parliament) ...................................................................... 25
+51. National Assembly ........................................................................................ 25
+52. Duration of National Assembly ................................................................... 27
+53. Speaker and Deputy Speaker of National Assembly ................................. 27
+54. Summoning and prorogation of Majlis-e-Shoora (Parliament) ............... 28
+55. Voting in Assembly and quorum ................................................................. 29
+56. Address by President .................................................................................... 29
+57. Right to speak in [Majlis-e-Shoora (Parliament)] ..................................... 30
+58. Dissolution of National Assembly ................................................................ 30
+59. The Senate ..................................................................................................... 31
+60. Chairman and Deputy Chairman ............................................................... 32
+61. Other provisions relating to Senate ............................................................ 33
+
+Provisions as to Members of [Majlis-e-Shoora (Parliament)] ..................................... 33
+
+62. Qualifications for membership of Majlis-e-Shoora (Parliament) ............ 33
+63. Disqualifications for membership of Majlis-e-Shoora (Parliament) ........ 34
+63A. Disqualification on grounds of defection, etc. ............................................ 37
+64. Vacation of seats ........................................................................................... 39
+65. Oath of Members .......................................................................................... 39
+66. Privileges of members, etc. .......................................................................... 39
+
+Procedure Generally ....................................................................................................... 40
+
+67. Rules of procedure, etc. ............................................................................... 40
+68. Restriction on discussion in Majlis-e-Shoora (Parliament) ...................... 41
+69. Courts not to inquire into proceedings of Majlis-e-Shoora (Parliament) 41
+
+Legislative Procedure ...................................................................................................... 41
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -73,6 +172,66 @@ ii
 CONSTITUTION OF PAKISTAN
 
 iii
+
+70. Introduction and passing of Bills ................................................................ 41
+71. Mediation Committee ................................................................................... 42
+72. Procedure at joint sittings ............................................................................ 42
+73. Procedure with respect to Money Bills ....................................................... 42
+74. Federal Government’s consent required for financial measures ............. 44
+75. President’s assent to Bills ............................................................................. 44
+76. Bill not to lapse on prorogation, etc. ........................................................... 45
+77. Tax to be levied by law only ........................................................................ 45
+
+Financial Procedure ........................................................................................................ 45
+
+78. Federal Consolidated Fund and Public Account ....................................... 45
+79. Custody, etc., of Federal Consolidated Fund and Public Account ........... 46
+80. Annual Budget Statement ............................................................................ 46
+81. Expenditure charged upon Federal Consolidated Fund ........................... 46
+82. Procedure relating to Annual Budget Statement ....................................... 47
+83. Authentication of schedule of authorized expenditure .............................. 48
+84. Supplementary and excess grants ............................................................... 48
+85. Votes on account ........................................................................................... 49
+86. Power to authorize expenditure when Assembly stands dissolved ........... 49
+87. Secretariats of Majlis-e-Shoora (Parliament) ............................................ 49
+88. Finance Committees ..................................................................................... 50
+
+Ordinances ....................................................................................................................... 50
+
+89. Power of President to promulgate Ordinances .......................................... 50
+
+CHAPTER 3. – THE FEDERAL GOVERNMENT ........................................................ 52
+
+90. Exercise of executive authority of the Federation ..................................... 52
+91. The Cabinet ................................................................................................... 52
+92. Federal Ministers and Ministers of State ................................................... 53
+93. Advisers ......................................................................................................... 54
+94. Prime Minister continuing in office ............................................................ 54
+95. Vote of no-confidence against Prime Minister ........................................... 54
+96. [Omitted] ........................................................................................................ 55
+97. Extent of executive authority of Federation ............................................... 55
+98. Conferring of functions on subordinate authorities .................................. 55
+99. Conduct of business of Federal Government ............................................. 55
+100. Attorney-General for Pakistan .................................................................... 56
+
+PART IV .......................................................................................................................... 57
+
+Provinces ......................................................................................................................... 57
+
+CHAPTER 1. – THE GOVERNORS ............................................................................... 57
+
+101. Appointment of Governor ........................................................................... 57
+102. Oath of Office ............................................................................................... 57
+103. Conditions of Governor’s office .................................................................. 58
+104. Speaker Provincial Assembly to act as, or perform functions of Governor in his absence ................................................................................................ 58
+105. Governor to act on advice, etc. .................................................................... 58
+
+CHAPTER 2. – PROVINCIAL ASSEMBLIES .............................................................. 59
+
+106. Constitution of Provincial Assemblies ........................................................ 59
+107. Duration of Provincial Assembly ................................................................ 60
+108. Speaker and Deputy Speaker ...................................................................... 60
+109. Summoning and prorogation of Provincial Assembly .............................. 61
 
 [[END OF PAGE 5]]
 
@@ -82,6 +241,63 @@ CONSTITUTION OF PAKISTAN
 
 iv
 
+110. Right of Governor to address Provincial Assembly .................................. 61
+111. Right to speak in Provincial Assembly ....................................................... 61
+112. Dissolution of Provincial Assembly ............................................................. 61
+113. Qualifications and disqualifications for membership of Provincial Assembly ....................................................................................................... 62
+114. Restriction on discussion in Provincial Assembly ...................................... 62
+115. Provincial Government’s consent required for financial measures ......... 62
+116. Governor’s assent to Bills ............................................................................ 63
+117. Bill not to lapse on prorogation, etc. ........................................................... 64
+
+Financial Procedure ........................................................................................................ 64
+
+118. Provincial Consolidated Fund and Public Account ................................... 64
+119. Custody, etc., of Provincial Consolidated Fund and Public Account ...... 65
+120. Annual Budget Statement ............................................................................ 65
+121. Expenditure charged upon Provincial Consolidated Fund ....................... 65
+122. Procedure relating to Annual Budget Statement ....................................... 66
+123. Authentication of schedule of authorized expenditure .............................. 66
+124. Supplementary and excess grant ................................................................. 67
+125. Votes on account ........................................................................................... 67
+126. Power to authorize expenditure when Assembly stands dissolved ........... 67
+127. Provisions relating to National Assembly, etc., to apply to Provincial Assembly, etc. ................................................................................................. 68
+
+Ordinances ....................................................................................................................... 69
+
+128. Power of Governor to promulgate Ordinances ......................................... 69
+
+CHAPTER 3. – THE PROVINCIAL GOVERNMENTS ................................................ 69
+
+129. Exercise of executive authority of the Province ......................................... 69
+130. The Cabinet ................................................................................................... 70
+131. Governor to be kept informed ..................................................................... 71
+132. Provincial Ministers ..................................................................................... 71
+133. Chief Minister continuing in office ............................................................. 72
+134. [Omitted] ........................................................................................................ 72
+135. [Omitted] ........................................................................................................ 72
+136. Vote of no-confidence against Chief Minister ............................................ 72
+137. Extent of executive authority of Province .................................................. 72
+138. Conferring of functions on subordinate authorities .................................. 73
+139. Conduct of business of Provincial Government ......................................... 73
+140. Advocate General for a Province ................................................................ 73
+140A. Local Government ........................................................................................ 73
+
+PART V ........................................................................................................................... 75
+
+Relations Between Federation and Provinces .............................................................. 75
+
+CHAPTER 1. – DISTRIBUTION OF LEGISLATIVE POWERS .................................. 75
+
+141. Extent of Federal and Provincial laws ........................................................ 75
+142. Subject-matter of Federal and Provincial laws ......................................... 75
+143. Inconsistency between Federal and Provincial law ................................... 75
+144. Power of Majlis-e-Shoora (Parliament) to legislate for [One] or more Provinces by consent .................................................................................... 76
+
+CHAPTER 2. – ADMINISTRATIVE RELATIONS BETWEEN FEDERATION AND PROVINCES ................................................................................................................... 76
+
+145. Power of President to direct Governor to discharge certain functions as
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
@@ -89,6 +305,63 @@ iv
 CONSTITUTION OF PAKISTAN
 
 v
+
+his Agent ........................................................................................................ 76
+146. Power of Federation to confer powers, etc., on Provinces, in certain cases ........................................................................................................................ 76
+147. Power of the Provinces to entrust functions to the Federation ................. 77
+148. Obligation of Provinces and Federation ..................................................... 77
+149. Directions to Provinces in certain cases ...................................................... 77
+150. Full faith and credit for public acts, etc. ..................................................... 78
+151. Inter-Provincial trade .................................................................................. 78
+152. Acquisition of land for Federal purposes ................................................... 79
+
+CHAPTER 3. – SPECIAL PROVISIONS ....................................................................... 79
+
+152A. [Omitted] ........................................................................................................ 79
+153. Council of Common Interests ...................................................................... 79
+154. Functions and rules of procedure ............................................................... 80
+155. Complaints as to interference with water supplies .................................... 80
+156. National Economic Council ......................................................................... 81
+157. Electricity ...................................................................................................... 82
+158. Priority of requirements of natural gas ...................................................... 83
+159. Broadcasting and telecasting ....................................................................... 83
+
+PART VI .......................................................................................................................... 85
+
+Finance, Property, Contracts and Suits ....................................................................... 85
+
+CHAPTER 1. – FINANCE .............................................................................................. 85
+
+Distribution of Revenues between the Federation and the Provinces .............................. 85
+
+160. National Finance Commission ..................................................................... 85
+161. Natural gas and hydro-electric power ........................................................ 87
+162. Prior sanction of President required to Bills affecting taxation in which Provinces are interested ............................................................................... 87
+163. Provincial taxes in respect of professions, etc. ........................................... 88
+
+Miscellaneous Financial Provisions ................................................................................ 88
+
+164. Grants out of Consolidated Fund ................................................................ 88
+165. Exemption of certain public property from taxation ................................ 88
+165A. Power of Majlis-e-Shoora (Parliament) to impose tax on the income of certain corporations, etc. ............................................................................. 88
+
+CHAPTER 2. – BORROWING AND AUDIT ................................................................ 89
+
+166. Borrowing by Federal Government ............................................................ 89
+167. Borrowing by Provincial Government ....................................................... 89
+
+Audit and Accounts .......................................................................................................... 90
+
+168. Auditor-General of Pakistan ....................................................................... 90
+169. Functions and powers of Auditor-General ................................................. 91
+170. Power of Auditor-General to give directions as to accounts ..................... 91
+171. Reports of Auditor-General ........................................................................ 91
+
+CHAPTER 3. – PROPERTY, CONTRACTS, LIABILITIES AND SUITS ................... 92
+
+172. Ownerless property ...................................................................................... 92
+173. Power to acquire property and to make contracts, etc. ............................ 92
+174. Suits and proceedings ................................................................................... 93
 
 [[END OF PAGE 7]]
 
@@ -98,6 +371,66 @@ CONSTITUTION OF PAKISTAN
 
 vi
 
+PART VII ......................................................................................................................... 94
+
+The Judicature ................................................................................................................ 94
+
+CHAPTER 1. – THE COURTS ....................................................................................... 94
+
+175. Establishment and jurisdiction of courts .................................................... 94
+175A. Appointment of Judges to the Supreme Court, High Courts and the Federal Shariat Court .................................................................................. 94
+
+CHAPTER 2. – THE SUPREME COURT OF PAKISTAN ........................................... 98
+
+176. Constitution of Supreme Court ................................................................... 98
+177. Appointment of Supreme Court Judges ..................................................... 98
+178. Oath of Office ............................................................................................... 98
+179. Retiring age ................................................................................................... 99
+180. Acting Chief Justice ..................................................................................... 99
+181. Acting Judges ................................................................................................ 99
+182. Appointment of ad-hoc Judges .................................................................... 99
+183. Seat of the Supreme Court ........................................................................ 100
+184. Original Jurisdiction of Supreme Court .................................................. 100
+185. Appellate jurisdiction of Supreme Court ................................................. 101
+186. Advisory Jurisdiction ................................................................................. 102
+186A. Power of Supreme Court to transfer cases ............................................... 102
+187. Issue and execution of processes of Supreme Court ................................ 102
+188. Review of judgments or orders by the Supreme Court ........................... 102
+189. Decisions of Supreme Court binding on other Courts ............................ 103
+190. Action in aid of Supreme Court ................................................................ 103
+191. Rules of procedure ..................................................................................... 103
+
+CHAPTER 3. – THE HIGH COURTS .......................................................................... 103
+
+192. Constitution of High Court ........................................................................ 103
+193. Appointment of High Court Judges .......................................................... 104
+194. Oath of Office ............................................................................................. 104
+195. Retiring age ................................................................................................. 105
+196. Acting Chief Justice ................................................................................... 105
+197. Additional Judges ....................................................................................... 105
+198. Seat of the High Court ............................................................................... 106
+199. Jurisdiction of High Court ......................................................................... 107
+200. Transfer of High Court Judges ................................................................. 109
+201. Decision of High Court binding on subordinate Courts ......................... 110
+202. Rules of procedure ..................................................................................... 110
+203. High Court to superintend subordinate Courts ....................................... 110
+203A. Provisions of Chapter to override other provisions of Constitution ...... 110
+203B. Definitions ................................................................................................... 111
+203C. The Federal Shariat Court ........................................................................ 111
+203CC. [Omitted] ..................................................................................................... 113
+203D. Powers, jurisdiction and functions of the Court ...................................... 113
+203DD. Revisional and other jurisdiction of the Court ....................................... 114
+203E. Powers and procedure of the Court .......................................................... 115
+203F. Appeal to Supreme Court .......................................................................... 116
+203G. Bar of jurisdiction ...................................................................................... 117
+203GG. Decision of Court binding on High Court and courts subordinate to it 117
+203H. Pending proceedings to continue, etc. ...................................................... 117
+203J. Power to make rules ................................................................................... 118
+
+CHAPTER 4. – GENERAL PROVISIONS RELATING TO THE JUDICATURE ..... 119
+
+204. Contempt of Court ..................................................................................... 119
+
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
@@ -105,6 +438,62 @@ vi
 CONSTITUTION OF PAKISTAN
 
 vii
+
+205. Remuneration etc., of judges ..................................................................... 119
+206. Resignation .................................................................................................. 120
+207. Judge not to hold office of profit, etc. ....................................................... 120
+208. Officers and servants of Courts ................................................................. 121
+209. Supreme Judicial Council .......................................................................... 121
+210. Power of Council to enforce attendance of persons, etc. .......................... 122
+211. Bar of jurisdiction ...................................................................................... 123
+212. Administrative Courts and Tribunals ...................................................... 123
+212A. [Omitted] ...................................................................................................... 124
+212B. [Omitted] ...................................................................................................... 124
+
+PART VIII ...................................................................................................................... 125
+
+Elections ........................................................................................................................ 125
+
+CHAPTER 1. – CHIEF ELECTION COMMISSIONER AND ELECTION [COMMISSION] ............................................................................................................ 125
+
+213. Chief Election Commissioner .................................................................... 125
+214. Oath of Office ............................................................................................. 126
+215. Term of office of Commissioner [and members] ..................................... 126
+216. Commissioner [and members] not to hold office of profit ...................... 127
+217. Acting Commissioner ................................................................................. 128
+218. Election Commission .................................................................................. 128
+219. Duties of Commission ................................................................................. 129
+220. Executive authorities to assist Commission, etc. ...................................... 129
+221. Officers and staff ........................................................................................ 129
+
+CHAPTER 2. – ELECTORAL LAWS AND CONDUCT OF ELECTIONS ................ 130
+
+222. Electoral laws .............................................................................................. 130
+223. Bar against double membership ................................................................ 130
+224. Time of Election and bye-election ............................................................. 131
+224A. 2 [Resolution by Committee or Election Commission ............................... 133
+225. Election dispute .......................................................................................... 134
+226. Elections by secret ballot ........................................................................... 134
+
+PART IX ......................................................................................................................... 135
+
+Islamic Provisions ......................................................................................................... 135
+
+227. Provisions relating to the Holy Quran and Sunnah ................................ 135
+228. Composition, etc., of Islamic Council ....................................................... 135
+229. Reference by [Majlis-e-Shoora (Parliament)], etc., to Islamic Council . 136
+230. Functions of the Islamic Council ............................................................... 136
+231. Rules of procedure ..................................................................................... 137
+
+PART X .......................................................................................................................... 138
+
+Emergency Provisions .................................................................................................. 138
+
+232. Proclamation of emergency on account of war, internal disturbance, etc. ................................................................................................................. 138
+233. Power to suspend Fundamental Rights, etc., during emergency period 140
+234. Power to issue Proclamation in case of failure of Constitutional machinery in a Province ............................................................................ 141
+235. Proclamation in case of financial emergency ........................................... 143
+236. Revocation of Proclamation, etc. ............................................................... 144
 
 [[END OF PAGE 9]]
 
@@ -114,6 +503,66 @@ CONSTITUTION OF PAKISTAN
 
 viii
 
+237. [Majlis-e-Shoora (Parliament)] may make laws of indemnity, etc. ......... 144
+
+PART XI ........................................................................................................................ 145
+
+Amendment of Constitution ........................................................................................ 145
+
+238. Amendment of Constitution ...................................................................... 145
+239. Constitution, amendment Bill .................................................................... 145
+
+PART XII ....................................................................................................................... 146
+
+Miscellaneous ................................................................................................................ 146
+
+CHAPTER 1. – SERVICES ........................................................................................... 146
+
+240. Appointments to service of Pakistan and conditions of service .............. 146
+241. Existing rules, etc., to continue .................................................................. 146
+242. Public Service Commission ........................................................................ 146
+
+CHAPTER 2. – ARMED FORCES ............................................................................... 147
+
+243. Command of Armed Forces ...................................................................... 147
+244. Oath of Armed Forces ................................................................................ 147
+245. Functions of Armed Forces ....................................................................... 148
+
+CHAPTER 3. – TRIBAL AREAS ................................................................................. 148
+
+246. Tribal Areas ................................................................................................ 148
+247. [* * * * * *] ................................................................................................. 150
+
+CHAPTER 4. – GENERAL ........................................................................................... 150
+
+248. Protection to President, Governor, Minister, etc. ..................................... 150
+249. Legal proceedings ....................................................................................... 151
+250. Salaries, allowances, etc., of the President, etc. ........................................ 151
+251. National language ....................................................................................... 152
+252. Special provisions in relation to major ports and aerodromes ............... 153
+253. Maximum limits as to property, etc. .......................................................... 153
+254. Failure to comply with requirement as to time does not render an act invalid .......................................................................................................... 153
+255. Oath of Office ............................................................................................. 154
+256. Private armies forbidden ........................................................................... 154
+257. Provision relating to the State of Jammu and Kashmir .......................... 154
+258. Government of territories outside Provinces ........................................... 154
+259. Awards ........................................................................................................ 154
+
+CHAPTER 5. – INTERPRETATION ............................................................................ 155
+
+260. Definitions ................................................................................................... 155
+261. Person acting in office not to be regarded as successor to previous occupant of office, etc. ................................................................................. 159
+262. Gregorian calendar to be used .................................................................. 159
+263. Gender and number ................................................................................... 159
+264. Effect of repeal of laws ............................................................................... 159
+
+CHAPTER 6. – TITLE, COMMENCEMENT AND REPEAL ..................................... 160
+
+265. Title of Constitution and commencement ................................................ 160
+266. Repeal .......................................................................................................... 161
+
+CHAPTER 7. – TRANSITIONAL ................................................................................ 161
+
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
@@ -122,11 +571,60 @@ CONSTITUTION OF PAKISTAN
 
 ix
 
+267. Power of President to remove difficulties ................................................. 161
+267A. Power to remove difficulties ...................................................................... 161
+267B. Removal of doubt ....................................................................................... 162
+268. Continuance in force, and adaptation of certain laws ............................. 162
+269. Validation of law, acts, etc. ........................................................................ 163
+270. Temporary validation of certain laws, etc. ................................................ 163
+270A. Affirmation of President’s Orders, etc. .................................................... 164
+270AA. Declaration and continuance of laws etc. ............................................... 166
+270B. Elections to be deemed to be held under Constitution ............................ 168
+270BB. General Elections 2008 .............................................................................. 168
+271. First National Assembly ............................................................................. 169
+272. First [constitution of] Senate ..................................................................... 170
+273. First Provincial Assembly .......................................................................... 171
+274. Vesting of property, assets, rights, liabilities and obligations ................. 172
+275. Continuance in office of persons in service of Pakistan, etc. .................. 173
+276. Oath of first President ................................................................................ 175
+277. Transitional financial, provisions .............................................................. 175
+278. Accounts not audited before commencing day ........................................ 175
+279. Continuance of taxes .................................................................................. 175
+280. Continuance of Proclamation of Emergency ........................................... 176
+
+[ANNEX ........................................................................................................................ 177
+
+[FIRST SCHEDULE ...................................................................................................... 179
+
+Laws exempted from the operation of Article 8 (1) and (2) ...................................... 179
+
+[SECOND SCHEDULE ................................................................................................. 184
+
+Election of President .................................................................................................... 184
+
+THIRD SCHEDULE ....................................................................................................... 188
+
+Oaths of Office .............................................................................................................. 188
+
+FOURTH SCHEDULE ................................................................................................... 204
+
+LEGISLATIVE LISTS .................................................................................................. 204
+
+PART I ........................................................................................................................... 204
+
+PART II .......................................................................................................................... 209
+
+FIFTH SCHEDULE ........................................................................................................ 211
+
+Remuneration and Terms and Conditions of Service of Judges ............................... 211
+
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 CONSTITUTION OF PAKISTAN
+
+بسم الله الرحمن الرحيم
 
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
@@ -192,55 +690,55 @@ ______________
 
 CONSTITUTION OF PAKISTAN
 
-1.
-
 # PART I
 
 ## Introductory
 
+1.
+
 ### The Republic and its territories
 
-- 1 1. (1) Pakistan  shall  be  Federal  Republic  to  be  known  as  the Islamic Republic of Pakistan, hereinafter referred to as Pakistan.
+1 1. (1) Pakistan shall be a Federal Republic to be known as the Islamic Republic of Pakistan, hereinafter referred to as Pakistan.
 
-- 2 [(2) The territories of Pakistan shall comprise-
+2 [(2) The territories of Pakistan shall comprise—
 
 (a) the Provinces of 3 [Balochistan], the 4 [Khyber Pakhtunkhwa], the Punjab and 5 [Sindh];
 
-(b) the  Islamabad  Capital  Territory,  hereinafter  referred to as the Federal Capital; 6 [and]
+(b) the Islamabad Capital Territory, hereinafter referred to as the Federal Capital; 6 [and]
 
-- 6 [(c) * * * * * *]
+6 [(c) * * * * * *]
 
 6 [(c)] such States and territories as are or may be included in Pakistan, whether by accession or otherwise.
 
-- 7 [Majlis-e-Shoora (Parliament)] may by law admit into the Federation new States or areas on such terms and conditions as it thinks fit.]
+(3) 7 [Majlis-e-Shoora (Parliament)] may by law admit into the Federation new States or areas on such terms and conditions as it thinks fit.]
 
 2.
 
 ### Islam to be State religion
 
-- Islam shall be the State religion of Pakistan.
+2. Islam shall be the State religion of Pakistan.
 
 2A.
 
 ### The Objectives Resolution to form part of substantive provisions
 
-8 [ 2A . The principles and provisions set out in the Objectives Resolution reproduced  in  the Annex  are  hereby  made  substantive  part  of  the Constitution and shall have effect accordingly].
+8 [2A. The principles and provisions set out in the Objectives Resolution reproduced in the Annex are hereby made substantive part of the Constitution and shall have effect accordingly].
 
-> 1 The provisions of the Constitution except those of Articles 6, 8 to 28, (both inclusive), clauses 2 and (2a) of Article 101, Articles 199, 213 to 216 (both inclusive) and 270-A, brought into force with effect from 10th March, 1985, ride S.R.O. No. 212(I)/85. dated 10th March, 1985, Gazette of Pakistan, Extraordinary, Part-II, page 279 and the aforesaid Articles brought into force with effect from 30th December, 1985, vide S.R.O. No. 1273(I)/85 dated 29th December. 1985, Gazette of Pakistan, Extraordinary, Part-I1, page 3185.
+> 1 The provisions of the Constitution except those of Articles 6, 8 to 28 (both inclusive), clauses (2) and (2A) of Article 101, Articles 199, 213 to 216 (both inclusive) and 270-A, brought into force with effect from 10th March, 1985, vide S.R.O. No. 212(I)/85, dated 10th March, 1985, Gazette of Pakistan, Extraordinary, Part-II, page 279 and the aforesaid Articles brought into force with effect from 30th December, 1985, vide S.R.O. No. 1273(I)/85, dated 29th December, 1985, Gazette of Pakistan, Extraordinary, Part-II, page 3185.
 
-> 2 Subs. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 2, for "clauses (2), (3) and (4)" (w.e.f; the 4th May, 1974).
+> 2 Subs. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 2, for "clauses (2), (3) and (4)" (w.e.f. the 4th May, 1974).
 
-> 3 Subs. By the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 3 for 'Balochistan.'
+> 3 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 3 for “Baluchistan”.
 
-> 4 Subs. ibid., for 'North-West-Frontier'.
+> 4 Subs. ibid., for “North-West-Frontier”.
 
-> 5 Subs. ibid., for 'Sindh'.
+> 5 Subs. ibid., for “Sind”.
 
-> 6 Amended by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018), s. 2. w.e.f. 31-05-2018.
+> 6 Amended by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018), s. 2, w.e.f. 31-05-2018.
 
 > 7 Subs. by the Revival of the Constitution of 1973 Order, 1985 (P.O. No. 14 of 1985), Art. 2 and Sch., for "Parliament".
 
-> 8 New Article 2A Ins. Ibid.
+> 8 New Article 2A ins. ibid.
 
 3
 
@@ -248,33 +746,33 @@ CONSTITUTION OF PAKISTAN
 
 [[START OF PAGE 15]]
 
-3.
-
 CONSTITUTION OF PAKISTAN
+
+3.
 
 ### Elimination of exploitation
 
-- The State shall ensure the elimination of all forms of exploitation and  the  gradual  fulfillment  of  the  fundamental  principle,  from  each according to his ability to each according to his work.
+3. The State shall ensure the elimination of all forms of exploitation and the gradual fulfillment of the fundamental principle, from each according to his ability to each according to his work.
 
 4.
 
-### Right of individuals  to  be  dealt  with  in  accordance  with  law, etc.
+### Right of individuals to be dealt with in accordance with law, etc.
 
-4. (1) To enjoy the protection of law and to be treated in accordance with law is the inalienable right of every citizen. Wherever he may be, and of every other person for the time being within Pakistan.
+4. (1) To enjoy the protection of law and to be treated in accordance with law is the inalienable right of every citizen, wherever he may be, and of every other person for the time being within Pakistan.
 
-- In particular-
+(2) In particular—
 
-(a) no action detrimental to the life, liberty, body, reputation  or  property  of  any  person  shall  be  taken except in accordance with law;
+(a) no action detrimental to the life, liberty, body, reputation or property of any person shall be taken except in accordance with law;
 
-(b) no  person  shall  be  prevented  from  or  be  hindered  in doing that which is not prohibited by law; and
+(b) no person shall be prevented from or be hindered in doing that which is not prohibited by law; and
 
-(c) no person shall be compelled to do that which the law does not required him to do.
-
-### Loyalty to State and obedience to Constitution and law
+(c) no person shall be compelled to do that which the law does not require him to do.
 
 5.
 
-(1) Loyalty to the State is the basic duty of every citizen.
+### Loyalty to State and obedience to Constitution and law
+
+5. (1) Loyalty to the State is the basic duty of every citizen.
 
 (2) Obedience to the Constitution and law is the 1 [inviolable] obligation of every citizen wherever he may be and of every other person for the time being within Pakistan.
 
@@ -288,9 +786,9 @@ CONSTITUTION OF PAKISTAN
 
 > 1 Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "basic".
 
-> 2 Subs. by the Constitution (Eighteenth Amdt.) Act. 2010 (10 of 2010), s.4 for 'clause (1)'.
+> 2 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 4 for “clause (1)”.
 
-> 3 Ins. Ibid.
+> 3 Ins. ibid.
 
 4
 
@@ -300,27 +798,15 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-1
+1 [(2A) An act of high treason mentioned in clause (1) or clause (2) shall not be validated by any court including the Supreme Court and a High Court.]
 
-2
-
-1
-
-(3) 2 the punishment of persons found guilty of high treason.
-
-[(2A) An act of high treason mentioned in clause (1) or clause (2) shall  not  be  validated  by  any  court  including  the  Supreme  Court and a High Court.] [Majlis-e-Shoora  (Parliament)]  shall  by  law  provide  for
+(3) 2 [Majlis-e-Shoora (Parliament)] shall by law provide for the punishment of persons found guilty of high treason.
 
 _________
 
-New clause (2A) ins.
+> 1 New clause (2A) ins. ibid.
 
-ibid.
-
-footnote 6 on page 3
-
-See
-
-, supra.
+> 2 See footnote 6 on page 3, supra.
 
 5
 
@@ -328,19 +814,19 @@ See
 
 [[START OF PAGE 17]]
 
-7.
-
 CONSTITUTION OF PAKISTAN
 
 # PART II
 
 ## Fundamental Rights and Principles of Policy
 
+7.
+
 ### Definition of the State
 
-7. In  this  Part,  unless  the  context  otherwise  requires,  "the  State" means the Federal Government, 1 [Majlis-e-Shoora (Parliament)], a Provincial  Government,  a  Provincial  Assembly,  and  such  local  or  other authorities in Pakistan as are by law empowered to impose any tax or cess.
+7. In this Part, unless the context otherwise requires, "the State" means the Federal Government, 1 [Majlis-e-Shoora (Parliament)], a Provincial Government, a Provincial Assembly, and such local or other authorities in Pakistan as are by law empowered to impose any tax or cess.
 
-## CHAPTER 1. - FUNDAMENTAL RIGHTS
+## CHAPTER 1. – FUNDAMENTAL RIGHTS
 
 8.
 
@@ -348,19 +834,19 @@ CONSTITUTION OF PAKISTAN
 
 8. (1) Any law, or any custom or usage having the force of law, in so far as it is inconsistent with the rights conferred by this Chapter, shall, to the extent of such inconsistency, be void.
 
-(2) The  State  shall  not  make  any  law  which  takes  away  or abridges the rights so conferred and any law made in contravention of this clause shall, to the extent of such contravention, be void.
+(2) The State shall not make any law which takes away or abridges the rights so conferred and any law made in contravention of this clause shall, to the extent of such contravention, be void.
 
-- The Provisions of this Article shall not apply to-
+(3) The Provisions of this Article shall not apply to—
 
-(a)  any law relating to members of the Armed Forces, or of the police or of such other forces as are charged with the maintenance of public order, for the purpose of ensuring the proper discharge of their duties or the maintenance of discipline among them; or
+(a) any law relating to members of the Armed Forces, or of the police or of such other forces as are charged with the maintenance of public order, for the purpose of ensuring the proper discharge of their duties or the maintenance of discipline among them; or
 
-2 [(b) any of the -
+2 [(b) any of the—
 
-(i)  laws specified in the First  Schedule  as  in force immediately before the commencing day or as amended by any of the laws specified in that Schedule;
+(i) laws specified in the First Schedule as in force immediately before the commencing day or as amended by any of the laws specified in that Schedule;
 
-> 1 See footnote 6 on page 3 , supra
+> 1 See footnote 6 on page 3, supra.
 
-> 2 Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 2, for "paragraph (b)", (w.e.f the 21st November, 1985), which was previously amended by Act 33 of 1974, s. 3, (w.e.f 4th May, 1974).
+> 2 Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 2, for "paragraph (b)", (w.e.f. the 21st November, 1975), which was previously amended by Act 33 of 1974, s. 3, (w.e.f. 4th May, 1974).
 
 6
 
@@ -378,7 +864,7 @@ and no such law nor any provision thereof shall be void on the ground that such 
 
 Provided that the appropriate Legislature may by resolution extend the said period of two years by a period not exceeding six months.
 
-Explanation.If in respect of any law 2 [Majlis-e-Shoora (Parliament)]  is  the  appropriate  Legislature,  such  resolution  shall  be  a resolution of the National Assembly.
+Explanation.— If in respect of any law 2 [Majlis-e-Shoora (Parliament)] is the appropriate Legislature, such resolution shall be a resolution of the National Assembly.
 
 (5) The rights conferred by this Chapter shall not be suspended except as expressly provided by the Constitution.
 
@@ -394,13 +880,13 @@ Explanation.If in respect of any law 2 [Majlis-e-Shoora (Parliament)]  is  the  
 
 10. (1) No  person  who  is  arrested  shall  be  detained  in  custody without being informed, as soon as may be, of the grounds for such arrest, nor  shall  he  be  denied  the  right  to  consult  and  be  defended  by  a  legal practitioner of his choice.
 
-(2) Every person who is arrested and detained in custody shall be produced before a magistrate within a period of twenty-four hours of such arrest, excluding the time necessary for the journey from the place of arrest to the court of the nearest magistrate, and no such person shall be detained  in  custody  beyond  the  said  period  with  out  the  authority  of  a magistrate.
+(2) Every person who is arrested and detained in custody shall be produced before a magistrate within a period of twenty-four hours of such arrest, excluding the time necessary for the journey from the place of arrest to the court of the nearest magistrate, and no such person shall be detained in custody beyond the said period without the authority of a magistrate.
 
 (3) Nothing  in  clauses  (1)  and  (2)  shall  apply  to  any  person who  is  arrested  or  detained  under  any  law  providing  for  preventive detention.
 
-> 1 Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of I975), s. 2, for "the First Schedule, not being a law which relates to, or is connected with, economic reforms."
+> 1 Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 2, for "the First Schedule, not being a law which relates to, or is connected with, economic reforms."
 
-> 2 See footnote 6 on page 3 , supra
+> 2 See footnote 6 on page 3, supra.
 
 7
 
@@ -410,25 +896,25 @@ Explanation.If in respect of any law 2 [Majlis-e-Shoora (Parliament)]  is  the  
 
 CONSTITUTION OF PAKISTAN
 
-(4) No law providing for preventive detention shall be made except to  deal  with  persons  acting  in  a  manner  prejudicial  to  the  integrity, security or defence of Pakistan or any part thereof, or external affairs of Pakistan, or public order, or the maintenance of supplies or services, and no  such  law  shall  authorise  the  detention  of  a  person  for  a  period exceeding 1 [three months] unless the appropriate Review Board has, after affording him an opportunity of being heard in person, reviewed his case and reported, before the expiration of the said period, that there is, in its opinion,  sufficient  cause  for  such  detention,  and,  if  the  detention  is continued after the said period of '[three months], unless the appropriate Review Board has reviewed his case and reported, before the expiration of each period of three months, that there is, in its opinion, sufficient cause for such detention.
+(4) No law providing for preventive detention shall be made except to deal with persons acting in a manner prejudicial to the integrity, security or defence of Pakistan or any part thereof, or external affairs of Pakistan, or public order, or the maintenance of supplies or services, and no such law shall authorise the detention of a person for a period exceeding 1 [three months] unless the appropriate Review Board has, after affording him an opportunity of being heard in person, reviewed his case and reported, before the expiration of the said period, that there is, in its opinion, sufficient cause for such detention, and, if the detention is continued after the said period of 1 [three months], unless the appropriate Review Board has reviewed his case and reported, before the expiration of each period of three months, that there is, in its opinion, sufficient cause for such detention.
 
-Explanation I.-  In  this  Article, " the  appropriate  Review  Board" means,
+Explanation I.— In this Article, "the appropriate Review Board" means,
 
 (i) in the case of a person detained under a Federal law, a Board appointed by the Chief Justice of Pakistan and consisting of a Chairman and two other persons, each of whom is or has been a Judge of the Supreme Court or a High Court; and
 
 (ii) in the case of a person detained under a Provincial law, a Board appointed by the Chief Justice of the High Court concerned and consisting of a Chairman and two other persons, each of whom is or has been a Judge of a High Court.
 
-Explanation II.-The opinion of a Review Board shall be expressed in terms of the views of the majority of its members.
+Explanation II.—The opinion of a Review Board shall be expressed in terms of the views of the majority of its members.
 
-(5) When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order  shall, 2 [within  fifteen  days]  from  such  detention,  communicate  to such  person  the  grounds  on  which  the  order  has  been  made,  and  shall afford him the earliest opportunity of making a representation against the order :
+(5) When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall, 2 [within fifteen days] from such detention, communicate to such person the grounds on which the order has been made, and shall afford him the earliest opportunity of making a representation against the order :
 
 Provided that the authority making any such order may refuse to disclose facts which such authority considers it to be against the public interest to disclose.
 
-(6) The authority making the order shall furnish to the appropriate  Review  Board  all  documents  relevant  to  the  case  unless  a
+(6) The authority making the order shall furnish to the appropriate Review Board all documents relevant to the case unless a
 
-> 1 Subs.  by  the  Constitution  (Third  Amdt.)  Act,  1975  (22  of  1975),  s.  2,  for  "one  month"  ( w.e., f. the  13th February. 1975).
+> 1 Subs. by the Constitution (Third Amdt.) Act, 1975 (22 of 1975), s. 2, for "one month" (w.e.f. the 13th February, 1975).
 
-> 2 Subs. ibid., for "as soon as may be, but not later than one week" ( w.e.f. the 13th February, 1975).
+> 2 Subs. ibid., for "as soon as may be, but not later than one week" (w.e.f. the 13th February, 1975).
 
 8
 
@@ -442,7 +928,7 @@ certificate,  signed  by  a  Secretary  to  the  Government  concerned,  to  the
 
 (7) Within a period of twenty-four months commencing on the day  of  his  first  detention  in  pursuance  of  an  order  made  under  a  law providing for preventive detention, no person shall be detained in pursuance of any such order for more than a total period of eight months in the case of a person detained for acting in a manner prejudicial to public order and twelve months in any other case :
 
-Provided  that  this  clause  shall  not  apply  to  any  person  who  is employed  by,  or  works  for,  or  acts  on  instructions  received  from,  the enemy  1 [, or who is acting or attempting to act in a manner prejudicial to the  integrity,  security  or  defence  of  Pakistan  or  any  part  thereof  or  who commits or attempts to commit any act which amounts to an anti-national activity  as  defined  in  a  Federal  law  or  is  a  member  of  any  association which  has  for  its  objects,  or  which  indulges  in,  any  such  anti  national activity].
+Provided that this clause shall not apply to any person who is employed by, or works for, or acts on instructions received from, the enemy 1 [, or who is acting or attempting to act in a manner prejudicial to the integrity, security or defence of Pakistan or any part thereof or who commits or attempts to commit any act which amounts to an anti-national activity as defined in a Federal law or is a member of any association which has for its objects, or which indulges in, any such anti-national activity].
 
 (8) The appropriate Review Board shall determine the place of detention of the person detained and fix a reasonable subsistence allowance for his family.
 
@@ -476,7 +962,7 @@ Provided  that  this  clause  shall  not  apply  to  any  person  who  is employ
 
 CONSTITUTION OF PAKISTAN
 
-- Nothing in this Article shall be deemed to affect compulsory service
+(4) Nothing in this Article shall be deemed to affect compulsory service
 
 (a) by any person undergoing punishment for an offence against any law; or
 
@@ -488,31 +974,31 @@ Provided that no compulsory service shall be of a cruel nature or incompatible w
 
 ### Protection against retrospective punishment
 
-(1) No law shall authorize the punishment of a person-
+12. (1) No law shall authorize the punishment of a person—
 
-(a) for  an  act  or  omission  that  was  not  punishable  by law at the time of the act or omission; or
+(a) for an act or omission that was not punishable by law at the time of the act or omission; or
 
-(b) for an offence by a penalty greater than, or of a kind different  from,  the  penalty  prescribed  by  law  for  that offence at the time the offence was committed.
+(b) for an offence by a penalty greater than, or of a kind different from, the penalty prescribed by law for that offence at the time the offence was committed.
 
-- Nothing in clause (1) or in Article 270 shall apply to any law making acts of abrogation or subversion of a Constitution in force in Pakistan  at  any  time  since  the  twenty-third  day  of  March,  one  thousand nine hundred and fifty-six, an offence.
+(2) Nothing in clause (1) or in Article 270 shall apply to any law making acts of abrogation or subversion of a Constitution in force in Pakistan at any time since the twenty-third day of March, one thousand nine hundred and fifty-six, an offence.
 
 13.
 
 ### Protection against double punishment and self incrimination
 
-- No person-
+13. No person—
 
-(a) shall be prosecuted or punished for the  same offence more than once; or
+(a) shall be prosecuted or punished for the same offence more than once; or
 
 (b) shall, when accused of an offence, be compelled to be a witness against himself.
 
-### Inviolability of dignity of man, etc.
-
 14.
 
-(1) The  dignity  of  man  and,  subject  to  law,  the  privacy  of home, shall be inviolable.
+### Inviolability of dignity of man, etc.
 
-- No person shall be subjected to torture for the purpose of extracting evidence.
+14. (1) The dignity of man and, subject to law, the privacy of home, shall be inviolable.
+
+(2) No person shall be subjected to torture for the purpose of extracting evidence.
 
 10
 
@@ -556,7 +1042,7 @@ Provided that nothing in this Article shall prevent-
 
 (b) the regulation of trade, commerce or industry in the interest of free competition therein; or
 
-> 1 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 6.for 'Article 17'.
+> 1 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 6, for “Article 17”.
 
 11
 
@@ -566,33 +1052,33 @@ Provided that nothing in this Article shall prevent-
 
 CONSTITUTION OF PAKISTAN
 
-19.
+(c) the carrying on, by the Federal Government or a Provincial Government, or by a corporation controlled by any such Government, of any trade, business, industry or service, to the exclusion, complete or partial, of other persons.
 
-(c) the  carrying  on,  by  the  Federal  Government or a Provincial Government, or by a corporation controlled by any such Government, of any trade, business, industry or  service,  to  the  exclusion,  complete  or partial, of other persons.
+19.
 
 ### Freedom of speech, etc.
 
-19. Every  citizen  shall  have  the  right  to  freedom  of  speech  and expression,  and  there  shall  be  freedom  of  the  press,  subject  to  any reasonable  restrictions  imposed  by  law  in  the  interest  of  the  glory  of Islam or the integrity, security or defence of Pakistan or any part thereof, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, 1 [commission of] or incitement to an offence.
+19. Every citizen shall have the right to freedom of speech and expression, and there shall be freedom of the press, subject to any reasonable restrictions imposed by law in the interest of the glory of Islam or the integrity, security or defence of Pakistan or any part thereof, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, 1 [commission of] or incitement to an offence.
 
 19A.
 
 ### Right to information.
 
-2 [ 19A. Every citizen shall have the right to have access to information in all  matters  of  public  importance  subject  to  regulation  and  reasonable restrictions imposed by law].
+2 [19A. Every citizen shall have the right to have access to information in all matters of public importance subject to regulation and reasonable restrictions imposed by law].
 
 ### 20. Freedom to profess religion and to manage religious institutions
 
-20. Subject to law, public order and morality,-
+20. Subject to law, public order and morality,—
 
-(a) every  citizen  shall  have  the  right  to  profess,  practice  and propagate his religion; and
+(a) every citizen shall have the right to profess, practice and propagate his religion; and
 
-(b) every  religious  denomination  and  every  sect  thereof  shall have the right to establish, maintain and manage  its religious institutions.
+(b) every religious denomination and every sect thereof shall have the right to establish, maintain and manage its religious institutions.
 
-### 21. Safeguard  against  taxation  for  purposes  of  any  particular religion
+### 21. Safeguard against taxation for purposes of any particular religion
 
 21. No person shall be compelled to pay any special tax the proceeds of which are to be spent on the propagation or maintenance of any religion other than his own.
 
-> 1 Subs.  by  the  Constitution  (Fourth  Amdt.)  Act,  1975  (71  of  1975),  s.  4,  for  "defamation"  ( w.e.f the  21st November, 1975).
+> 1 Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 4, for "defamation" (w.e.f. the 21st November, 1975).
 
 > 2 New Article 19A ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 7.
 
@@ -640,7 +1126,7 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-- Nothing in this Article shall affect the validity of-
+(3) Nothing in this Article shall affect the validity of—
 
 (a) any law permitting the compulsory acquisition or taking possession of any property for preventing danger to life, property or public health; or
 
@@ -656,7 +1142,7 @@ CONSTITUTION OF PAKISTAN
 
 (ii) providing housing and public facilities and services such  as  roads,  water  supply,  sewerage,  gas  and electric power  to  all or  any  specified  class of citizens; or
 
-(iii)providing maintenance to those who, on account of unemployment,  sickness,  infirmity  or  old  age,  are unable to maintain themselves; or
+(iii) providing maintenance to those who, on account of unemployment, sickness, infirmity or old age, are unable to maintain themselves; or
 
 (f)  any  existing  law  or  any  law  made  in  pursuance  of Article 253.
 
@@ -1635,7 +2121,7 @@ Provided  that  till  Article  63A  substituted  as  aforesaid comes  into  effe
 
 [[START OF PAGE 51]]
 
-67.
+
 
 CONSTITUTION OF PAKISTAN
 
@@ -1655,11 +2141,13 @@ Provided that any such law-
 
 ### Procedure Generally
 
+67.
+
 ### Rules of procedure, etc.
 
 67. (1) Subject  to  the  Constitution,  a  House  may  make 2 rules  for regulating  its  procedure  and  the  conduct  of  its  business,  and  shall  have power to act notwithstanding any vacancy in the membership thereof, and any proceedings in the House shall not be invalid on the ground that some persons who were not entitled to do so sat, voted or otherwise took part in the proceedings.
 
-(2) Until  rules  are  made  under  clause  (1),  the  procedure  and conduct of business in a House shall be regulated by the rules of procedure made by the President.
+(2) Until rules are made under clause (1), the procedure and conduct of business in a House shall be regulated by the rules of procedure
 
 > 1 See footnote 6 on page 3, supra.
 
@@ -1675,6 +2163,8 @@ Provided that any such law-
 
 CONSTITUTION OF PAKISTAN
 
+made by the President.
+
 68.
 
 ### Restriction on discussion in Majlis-e-Shoora (Parliament)
@@ -1685,7 +2175,7 @@ CONSTITUTION OF PAKISTAN
 
 69. (1) The validity of any proceedings in 1 [Majlis-e-Shoora (Parliament)]  shall  not  be  called  in  question  on  the  ground  of  any irregularity of procedure.
 
-(2) No officer or member of 1 [Majlis-e-Shoora Parliament)] in whom  powers  are  vested  by  or  under  the  Constitution  for  regulating procedure or the conduct of business, or for maintaining order in 1 [Majlise-Shoora (Parliament)], shall be subject to the jurisdiction of any court in respect of the exercise by him of those powers.
+(2) No officer or member of 1 [Majlis-e-Shoora (Parliament)] in whom powers are vested by or under the Constitution for regulating procedure or the conduct of business, or for maintaining order in 1 [Majlis-e-Shoora (Parliament)], shall be subject to the jurisdiction of any court in respect of the exercise by him of those powers.
 
 (3) In this  Article, 1 [Majlis-e-Shoora  (Parliament)]  has  the same meaning as in Article 66.
 
@@ -1699,7 +2189,7 @@ CONSTITUTION OF PAKISTAN
 
 (2) If a Bill transmitted to a House under clause (1) is passed with amendments it shall be sent back to the House in which it originated and  if  that  House  passes  the  Bill  with  those  amendments  it  shall  be presented to the President for assent.
 
-(3) If a Bill transmitted to a House under clause (1) is rejected or is not passed within ninety days of its laying in the House or a Bill sent to a House under clause (2) with amendments is not passed by that House with such amendments, the Bill, at the request of the House in which it originated, shall be considered in a joint sitting and if passed by the votes of  the  majority  of  the  members  present  and  voting  in  the  joint  sitting  it shall be presented to the President for assent.
+(3) If a Bill transmitted to a House under clause (1) is rejected or is not passed within ninety days of its laying in the House or a Bill sent to a House under clause (2) with amendments is not passed by that House
 
 > 1 See footnote 6 on page 3, supra.
 
@@ -1712,6 +2202,8 @@ CONSTITUTION OF PAKISTAN
 [[START OF PAGE 53]]
 
 CONSTITUTION OF PAKISTAN
+
+with such amendments, the Bill, at the request of the House in which it originated, shall be considered in a joint sitting and if passed by the votes of the majority of the members present and voting in the joint sitting it shall be presented to the President for assent.
 
 (4) In this Article and the succeeding provisions of the Constitution, "Federal Legislative List" means the Federal Legislative List in the Fourth Schedule.]
 
@@ -1743,7 +2235,7 @@ Provided  that  simultaneously  when  a  Money  Bill,  including  the Finance Bi
 
 3 [(1A)  The National Assembly shall, consider the recommendations of the Senate and after the Bill has been passed by the
 
-> 1 For the Parliament (Joint Sitting), Rules 1973, see Gaz. of Pak. 1973, Ext. Pt. 11, pp. 1657-1672.
+> 1 For the Parliament (Joint Sitting), Rules 1973, see Gaz. of Pak. 1973, Ext. Pt. II, pp. 1657-1672.
 
 > 2 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 25, for 'clause (1)'.
 
@@ -1777,7 +2269,7 @@ Assembly  with  or  without  incorporating  the  recommendations  of  the Senate
 
 *
 
-- For the purposes of this Chapter, a Bill or amendment shall be deemed to be a Money Bill if it contains provisions dealing with all or any of the following matters, namely: -
+(2) For the purposes of this Chapter, a Bill or amendment shall be deemed to be a Money Bill if it contains provisions dealing with all or any of the following matters, namely: -
 
 (a) the imposition, abolition, remission, alteration or regulation of any tax;
 
@@ -1793,13 +2285,13 @@ Assembly  with  or  without  incorporating  the  recommendations  of  the Senate
 
 (g) any matter incidental to any of the matters specified in the preceding paragraphs.
 
-- A Bill shall not be deemed to be a Money Bill by reason only that it provides-
+(3) A Bill shall not be deemed to be a Money Bill by reason only that it provides-
 
 (a) for the imposition or alteration of any  fine or other pecuniary  penalty,  or  for  the  demand  or  payment  of  a licence fee or a fee or charge for any service rendered; or
 
 (b) for the imposition, abolition, remission, alteration or regulation  of  any  tax  by  any  local  authority  or  body  for local purposes.
 
-- If any question arises whether a Bill is a Money Bill or not, the  decision  of  the  Speaker  of  the  National  Assembly  thereon  shall  be final.
+(4) If any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the National Assembly thereon shall be final.
 
 > 1 Existing clause (1A) stands omitted as consequence of the (Eighteenth Amdt.) Act, 2010 (10 of 2010), see section 2.
 
@@ -1829,9 +2321,9 @@ CONSTITUTION OF PAKISTAN
 
 (b) in the case of a Bill other than a Money Bill, return the Bill to the Majlis-e-Shoora (Parliament) with a message requesting that the Bill or any specified provision thereof, be  reconsidered  and  that  any  amendment  specified  in  the message be considered.
 
-4 [(2) When  the  President  has  returned  a  Bill  to  the  Majlis-eShoora  (Parliament),  it  shall  be  reconsidered  by  the  Majlis-e-Shoora (Parliament)  in  joint  sitting  and,  if  it  is  again  passed,  with  or  without amendment,  by  the  Majlis-e-Shoora  (Parliament),  by  the  votes  of  the majority  of  the  members  of  both  Houses  present  and  voting,  it  shall  be deemed for the purposes of the Constitution to have been passed by both Houses  and  shall  be  presented  to  the  President,  and  the  President  shall give his assent within ten days, failing which such assent shall be deemed to have been given.]
+4 [(2) When the President has returned a Bill to the Majlis-e-Shoora (Parliament), it shall be reconsidered by the Majlis-e-Shoora (Parliament) in joint sitting and, if it is again passed, with or without amendment, by the Majlis-e-Shoora (Parliament), by the votes of the majority of the members of both Houses present and voting, it shall be deemed for the purposes of the Constitution to have been passed by both Houses and shall be presented to the President, and the President shall give his assent within ten days, failing which such assent shall be deemed to have been given.]
 
-(3) When  the  President  has  assented 5 [or  is  deemed  to  have assented] to a Bill, it shall become law and be called an Act of Majlis-eShoora (Parliament).
+(3) When the President has assented 5 [or is deemed to have assented] to a Bill, it shall become law and be called an Act of Majlis-e-Shoora (Parliament).
 
 > 1 See footnote 6 on page 3. supra .
 
@@ -1849,7 +2341,7 @@ CONSTITUTION OF PAKISTAN
 
 [[START OF PAGE 56]]
 
-78.
+
 
 CONSTITUTION OF PAKISTAN
 
@@ -1873,11 +2365,13 @@ CONSTITUTION OF PAKISTAN
 
 ### Financial Procedure
 
+78.
+
 ### Federal Consolidated Fund and Public Account
 
 78. (1) All revenues received by the Federal Government, all loans raised by that Government, and all moneys received by it in repayment of any  loan,  shall  form  part  of  a  consolidated  fund,  to  be  known  as  the Federal Consolidated Fund.
 
-- All other moneys-
+(2) All other moneys-
 
 (a) received by or on behalf of the Federal Government; or
 
@@ -1905,7 +2399,7 @@ CONSTITUTION OF PAKISTAN
 
 80. (1) The Federal Government shall, in respect of every financial year,  cause  to  be  laid  before  the  National  Assembly  a  statement  of  the estimated receipt and expenditure of the Federal Government for that year, in this Part, referred to as the Annual Budget Statement.
 
-- The Annual Budget Statement shall show separately-
+(2) The Annual Budget Statement shall show separately-
 
 (a) the  sums  required  to  meet  expenditure  described  by  the Constitution as expenditure charged upon  the Federal Consolidated Fund; and
 
@@ -1937,7 +2431,7 @@ and shall distinguish expenditure on revenue account from other expenditure.
 
 CONSTITUTION OF PAKISTAN
 
-82.
+
 
 (iii) the Chairman and the Deputy Chairman;
 
@@ -1945,13 +2439,15 @@ CONSTITUTION OF PAKISTAN
 
 (v) the Auditor-General;
 
-- 1 [(b) the  administrative  expenses,  including  the  remuneration payable to officers and 2 [staff],  of  the  Supreme Court, the Islamabad  High  Court,  the  department  of  the  AuditorGeneral,  the  Office  of  the  Chief  Election  Commissioner and of the Election Commission and the Secretariats of the Senate and the National Assembly;]
+1 [(b) the administrative expenses, including the remuneration payable to officers and 2 [staff], of the Supreme Court, the Islamabad High Court, the department of the Auditor-General, the Office of the Chief Election Commissioner and of the Election Commission and the Secretariats of the Senate and the National Assembly;]
 
 (c) all debt charges for which the Federal Government is liable, including interest,  sinking  fund  charges,  the  repayment  or amortisation of capital, and other expenditure in connection with the raising of loans, and the service and redemption of debt on the security of the Federal Consolidated Fund;
 
 (d) any  sums  required  to  satisfy  any  judgement,  decree  or award against Pakistan by any court or tribunal; and
 
 (e) any other sums declared by the Constitution or by Act of 3 [Majlis-e-Shoora (Parliament)] to be so charged.
+
+82.
 
 ### Procedure relating to Annual Budget Statement
 
@@ -1997,7 +2493,7 @@ whichever occurs later, a demand shall be deemed to have been assented to  witho
 
 ### Supplementary and excess grants
 
-- If in respect of any financial year it is found-
+84. If in respect of any financial year it is found-
 
 (a) that the amount authorized to be expended for a particular service for the current financial year is insufficient, or that a  need  has  arisen  for  expenditure  upon  some  new  service not included in the Annual Budget Statement for that year; or
 
@@ -2075,7 +2571,7 @@ CONSTITUTION OF PAKISTAN
 
 (i) before the National Assembly if it 4 [contains provisions  dealing  with  all  or  any  of  the  matters specified in clause (2) of Article 73], and shall stand repealed  at  the  expiration  of 5 [one  hundred  and twenty days] from its promulgation or, if before the expiration of that period a resolution disapproving it is passed by the Assembly, upon the passing of that resolution 6 [:]
 
-> 1 For the National Assembly (Finance Committee) Rules, 1973, see Gaz. of Pak., 1973. Ext., Part II, pp. 24512454.
+> 1 For the National Assembly (Finance Committee) Rules, 1973, see Gaz. of Pak., 1973. Ext., Part II, pp. 2451-2454.
 
 > For the Senate (Finance Committee) Rules, 1973, see ibid., pp. 2479-2482.
 
@@ -2109,9 +2605,9 @@ Provided further that extension for a further period may be made only once; and]
 
 (b) may be withdrawn at any time by the President.
 
-- 6 [(3) without prejudice to the provisions of clause (2),-
+6 [(3) without prejudice to the provisions of clause (2),-
 
-(a) an Ordinance laid before the National Assembly under subparagraph (i) of paragraph (a) of clause (2) shall be deemed to be a Bill introduced in the National Assembly; and
+(a) an Ordinance laid before the National Assembly under sub-paragraph (i) of paragraph (a) of clause (2) shall be deemed to be a Bill introduced in the National Assembly; and
 
 (b) an Ordinance laid before both Houses under sub-paragraph (ii) of paragraph (a) of clause (2) shall be deemed to be a Bill introduced in the House where it was first laid.]
 
@@ -2135,9 +2631,11 @@ Provided further that extension for a further period may be made only once; and]
 
 CONSTITUTION OF PAKISTAN
 
-90.
+
 
 ## CHAPTER 3. - THE FEDERAL GOVERNMENT
+
+90.
 
 ### Exercise of executive authority of the Federation
 
@@ -2195,7 +2693,7 @@ Provided  that  nothing  contained  in  this  clause  shall  apply  to  a Minist
 
 ### Federal Ministers and Ministers of State
 
-92. (1) Subject to clauses 1 [(9) and (10) of Article 91, the President shall  appoint Federal Ministers and Ministers of State from amongst the members  of  Majlis-e-Shoora  (Parliament)  on  the  advice  of  the  Prime Minister :
+92. (1) Subject to clauses 1 [(9) and (10)] of Article 91, the President shall appoint Federal Ministers and Ministers of State from amongst the members of Majlis-e-Shoora (Parliament) on the advice of the Prime Minister :
 
 > 1 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 30, for '(7) and (8)'.
 
@@ -2207,7 +2705,7 @@ Provided  that  nothing  contained  in  this  clause  shall  apply  to  a Minist
 
 CONSTITUTION OF PAKISTAN
 
-Provided  that  the  number  of  Federal  Ministers  and  Ministers  of State  who  are  members  of  the  Senate  shall  not  at  any  time  exceed  onefourth of the number of Federal Ministers 1 [:]
+Provided that the number of Federal Ministers and Ministers of State who are members of the Senate shall not at any time exceed one-fourth of the number of Federal Ministers 1 [:]
 
 2 [Provided further that the total strength of the Cabinet, including Ministers of State, shall not exceed eleven percent of the total membership of Majlis-e-Shoora (Parliament):
 
@@ -2265,7 +2763,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Extent of executive authority of Federation
 
-97. Subject to the Constitution, the executive authority of the federation  shall  extend  to  the  matters  with  respect  to  which 1 [Majlis-eShoora (Parliament)] has power to make laws, including exercise of rights, authority and jurisdiction in and in relation to areas outside Pakistan :
+97. Subject to the Constitution, the executive authority of the federation shall extend to the matters with respect to which 1 [Majlis-e-Shoora (Parliament)] has power to make laws, including exercise of rights, authority and jurisdiction in and in relation to areas outside Pakistan :
 
 Provided  that  the  said  authority  shall  not,  save  as  expressly provided  in  the  Constitution  or  in  any  law  made  by 1 [Majlis-e-Shoora (Parliament)], extend in any Province to a matter with respect to which the Provincial Assembly has also power to make laws.
 
@@ -2273,7 +2771,7 @@ Provided  that  the  said  authority  shall  not,  save  as  expressly provided 
 
 ### Conferring of functions on subordinate authorities
 
-98. On  the  recommendation  of  the  Federal  Government, 1 [Majlis-eShoora  (Parliament)]  may  by  law  confer  functions  upon  officers  or authorities subordinate to the Federal Government.
+98. On the recommendation of the Federal Government, 1 [Majlis-e-Shoora (Parliament)] may by law confer functions upon officers or authorities subordinate to the Federal Government.
 
 99.
 
@@ -2281,7 +2779,7 @@ Provided  that  the  said  authority  shall  not,  save  as  expressly provided 
 
 2 [ 99. (1) All  executive  actions  of  the  Federal  Government  shall  be expressed to be taken in the name of the President.
 
-(2) The 3 [Federal  Government]  shall  by  rules  specify  the manner in which orders and other instruments made and executed 4 [in his name of the President] shall be authenticated, and the validity of any order or instrument so authenticated shall not be questioned in any court on the ground that it was not made or executed by the President. 1 [(3)
+(2) The 3 [Federal Government] shall by rules specify the manner in which orders and other instruments made and executed 4 [in the name of the President] shall be authenticated, and the validity of any order or instrument so authenticated shall not be questioned in any court on the
 
 > 1 See footnote 6 on page 3, supra .
 
@@ -2299,7 +2797,9 @@ Provided  that  the  said  authority  shall  not,  save  as  expressly provided 
 
 CONSTITUTION OF PAKISTAN
 
-The  Federal  Government  shall  also  make  rules  for  the allocation and transaction of its business.]]
+ground that it was not made or executed by the President.
+
+1 [(3) The Federal Government shall also make rules for the allocation and transaction of its business.]]
 
 ### 100. Attorney-General for Pakistan
 
@@ -2319,7 +2819,7 @@ ___________
 
 CONSTITUTION OF PAKISTAN
 
-101.
+
 
 # PART IV
 
@@ -2327,63 +2827,29 @@ CONSTITUTION OF PAKISTAN
 
 ## CHAPTER 1. - THE GOVERNORS
 
+101.
+
 ### Appointment of Governor
 
-- 1 [(1) There shall be a Governor for each Province, who shall be appointed by the President on the advise of the Prime Minister].
+101. 1 [(1) There shall be a Governor for each Province, who shall be appointed by the President on the advise of the Prime Minister].
 
-- A  person  shall  not  be  appointed  a  Governor  unless  he  is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age 2 [and is a registered voter and resident of the Province concerned.] 3 [:]
+(2) A person shall not be appointed a Governor unless he is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age 2 [and is a registered voter and resident of the Province concerned.] 3 [:]
 
-4
+4 * * * * * * * * *
 
-4
+4 * * * * * * * * *
 
-*
+(3) The Governor shall hold office during the pleasure of the President 5 [and shall be entitled to such salary, allowances and privileges as the President may determine].
 
-*
+(4) The Governor may, by writing under his hand addressed to the President, resign his office.
 
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-- The Governor shall hold office during the pleasure of the President 5 [and shall be entitled to such salary, allowances and privileges as the President may determine].
-
-- The Governor may, by writing under his hand addressed to the President, resign his office.
-
-- 6 [(5) The President may make such provision as he thinks fit for the  discharge  of  the  functions  of  a  Governor 7 [in  any  contingency  not provided for in this Part.]
+6 [(5) The President may make such provision as he thinks fit for the discharge of the functions of a Governor 7 [in any contingency not provided for in this Part.]]
 
 102.
 
 ### Oath of Office
 
-- Before  entering  upon  office,  the  Governor  shall  make  before  the Chief  Justice  of  the  High  Court  oath  in  the  form  set  out  in  the  Third Schedule.
+102. Before entering upon office, the Governor shall make before the Chief Justice of the High Court oath in the form set out in the Third Schedule.
 
 > 1 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 33, for 'clause (1)'.
 
@@ -2471,7 +2937,7 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-- 1 [(3) Where  the  Governor  dissolves  the  Provincial  Assembly, notwithstanding anything contained in clause (1), he shall,-
+1 [(3) Where the Governor dissolves the Provincial Assembly, notwithstanding anything contained in clause (1), he shall,-
 
 (a) appoint a date, not later than ninety days from the date of dissolution,  for  the  holding  of  a  general  election  to  the Assembly; and
 
@@ -2479,7 +2945,7 @@ CONSTITUTION OF PAKISTAN
 
 2 * * * * * * * * *
 
-- The  provisions  of  clause 3 [(2)  of  Article  48  shall  have effect in relation to a Governor as if reference therein to "President" were reference to "Governor".]
+(5) The provisions of clause 3 [(2)] of Article 48 shall have effect in relation to a Governor as if reference therein to "President" were reference to "Governor".]
 
 ## CHAPTER 2. - PROVINCIAL ASSEMBLIES
 
@@ -2487,9 +2953,9 @@ CONSTITUTION OF PAKISTAN
 
 ### Constitution of Provincial Assemblies
 
-- 4 [ 106. (1) Each Provincial Assembly shall consist of general seats and seats reserved for women and non-Muslims as specified herein below:-
+4 [106. (1) Each Provincial Assembly shall consist of general seats and seats reserved for women and non-Muslims as specified herein below:-
 
-General seats | Women | Non-Muslims | Total
+ | General seats | Women | Non-Muslims | Total
 --- | --- | --- | --- | ---
 Balochistan | 51 | 11 | 3 | 65
 5 [Khyber Pakhtunkhwa | 115 | 26 | 4 | 145]
@@ -2508,7 +2974,7 @@ Provided that elections to the aforesaid seats shall be held within one year aft
 
 > 3 Subs. by the Constitution (Eighth Amdt.) Act. 1985 (18 of 1985) s. 12 for "(3)".
 
-> 4 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 36, for 'Article 106' and shall be deemed always to have been so, subs. with effect from 21 st day of August, 2002.
+> 4 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 36, for 'Article 106' and shall be deemed always to have been so, subs. with effect from 21st day of August, 2002.
 
 > 5 Subs. by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018) s. 6. w.e.f. 31-05-2018.
 
@@ -2522,7 +2988,7 @@ Provided that elections to the aforesaid seats shall be held within one year aft
 
 CONSTITUTION OF PAKISTAN
 
-- A person shall be entitled to vote if-
+(2) A person shall be entitled to vote if-
 
 (a) he is a citizen of Pakistan;
 
@@ -2532,13 +2998,13 @@ CONSTITUTION OF PAKISTAN
 
 (d) he is not declared by a competent court to be of unsound mind.
 
-- For the purpose of election to a Provincial Assembly,-
+(3) For the purpose of election to a Provincial Assembly,-
 
 (a) the  constituencies  for  the  general  seats  shall  be  single member  territorial  constituencies  and  the  members  to  fill such seats shall be elected by direct and free vote;
 
 (b) each  Province  shall  be  a  single  constituency  for  all  seats reserved  for  women  and  non-Muslims  allocated  to  the respective Provinces under clause (1);
 
-(c) the  members  to  fill  seats  reserved  for  women  and  nonMuslims allocated to a Province under clause (1) shall be elected in accordance with law through proportional representation system of political parties' lists of candidates on the basis of the total number of general seats secured by each political party in the Provincial Assembly:
+(c) the members to fill seats reserved for women and non-Muslims allocated to a Province under clause (1) shall be elected in accordance with law through proportional representation system of political parties' lists of candidates on the basis of the total number of general seats secured by each political party in the Provincial Assembly:
 
 Provided that for the purpose of this sub-clause, the total number of  general  seats  won  by  a  political  party  shall  include  the  independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.]
 
@@ -2560,13 +3026,15 @@ Provided that for the purpose of this sub-clause, the total number of  general  
 
 [[START OF PAGE 72]]
 
-109.
+
 
 CONSTITUTION OF PAKISTAN
 
+109.
+
 ### Summoning and prorogation of Provincial Assembly
 
-- The Governor may from time to time-
+109. The Governor may from time to time-
 
 (a) summon the Provincial Assembly to meet at such time and place as he thinks fit; and
 
@@ -2678,11 +3146,11 @@ CONSTITUTION OF PAKISTAN
 
 [[START OF PAGE 75]]
 
-118.
+
 
 CONSTITUTION OF PAKISTAN
 
-the  votes  of  the  majority  of  the  members  of  the  Provincial  Assembly present  and  voting,  it  shall  be  again  presented  to  the  Governor  and  the Governor shall 1 [give his assent within ten days, failing which such assent shall be deemed to have been given].
+the votes of the majority of the members of the Provincial Assembly present and voting, it shall be again presented to the Governor and the Governor shall 1 [give his assent within ten days, failing which such assent shall be deemed to have been given].]
 
 (4) When  the  Governor  has  assented 2 [or  is  deemed  to  have assented] to a Bill, it shall become law and be called an Act of Provincial Assembly.
 
@@ -2698,11 +3166,13 @@ the  votes  of  the  majority  of  the  members  of  the  Provincial  Assembly p
 
 ### Financial Procedure
 
+118.
+
 ### Provincial Consolidated Fund and Public Account
 
 118. (1) All  revenues  received  by  the  Provincial  Government,  all loans  raised  by  that  Government,  and  all  moneys  received  by  it  in repayment of any loan, shall form part of a consolidated fund, to be known as the Provincial Consolidated Fund.
 
-- All other moneys-
+(2) All other moneys-
 
 (a) received by or on behalf of the Provincial Government; or
 
@@ -2732,7 +3202,7 @@ CONSTITUTION OF PAKISTAN
 
 120. (1) The  Provincial  Government  shall,  in  respect  of  every financial year, cause to be laid before the Provincial Assembly statement of the estimated receipts and expenditure of the Provincial Government for that year, in this Chapter referred to as the Annual Budget Statement.
 
-- The Annual Budget Statement shall show separately-
+(2) The Annual Budget Statement shall show separately—
 
 (a) the  sums  required  to  meet  expenditure  described  by  the constitution  as  expenditure  charged  upon  the  Provincial Consolidated Fund; and
 
@@ -2760,8 +3230,6 @@ and shall distinguish expenditure on revenue account from other expenditure.
 
 [[START OF PAGE 77]]
 
-122.
-
 CONSTITUTION OF PAKISTAN
 
 (c) all  debt  charges  for  which  the  Provincial  Government  is liable, including interest, sinking fund charges, the repayment or amortisation of capital, and other expenditure in connection with the raising of loans, and the service and redemption  of  debt on the security of the Provincial Consolidated Fund;
@@ -2770,11 +3238,13 @@ CONSTITUTION OF PAKISTAN
 
 (e) any other sums declared by the Constitution or by Act of the Provincial Assembly to be so charged.
 
+122.
+
 ### Procedure relating to Annual Budget Statement
 
 122. (1) So  much  of  the  Annual  Budget  Statement  as  relates  to expenditure  charged  upon  the  Provincial  Consolidated  Fund  may  be discussed  in,  but  shall  not  be  submitted  to  the  vote  of  the  Provincial Assembly.
 
-- So much of the Annual Budget Statement as relates to other expenditure shall be submitted to the Provincial Assembly in the form of demands for grants, and that Assembly shall have power to assent to, or to refuse to assent to, any demand, or to assent to any demand subject to a reduction of the amount specified therein:
+(2) So much of the Annual Budget Statement as relates to other expenditure shall be submitted to the Provincial Assembly in the form of demands for grants, and that Assembly shall have power to assent to, or to refuse to assent to, any demand, or to assent to any demand subject to a reduction of the amount specified therein:
 
 1
 
@@ -2794,7 +3264,7 @@ CONSTITUTION OF PAKISTAN
 
 *
 
-- No  demand  for  a  grant  shall  be  made  except  on  the recommendation of the Provincial Government.
+(3) No  demand  for  a  grant  shall  be  made  except  on  the recommendation of the Provincial Government.
 
 123.
 
@@ -2824,7 +3294,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Supplementary and excess grant
 
-- If in respect of any financial year it is found-
+124. If in respect of any financial year it is found—
 
 (a) that the amount authorized to be expended for a particular service for the current financial year is insufficient, or that a  need  has  arisen  for  expenditure  upon  some  new  service not included in the Annual Budget Statement for that year; or
 
@@ -2858,7 +3328,7 @@ stands  dissolved,  the  Provincial  Government  may  authorize  expenditure fro
 
 127. Subject to the Constitution, the provisions of clauses (2) to (8) of Article 53, clauses (2) and (3) of Article 54, Article 55, Articles 63 to 67, Article  69,  Article  77,  Article  87  and  Article  88  shall  apply  to  and  in relation to a Provincial Assembly or a committee or members thereof or the Provincial Government but so that-
 
-(a) any reference in those provisions to 1 Majlis-e-Shoora (Parliament)],  a  House  or  the  National  Assembly  shall  be read as a reference to the Provincial Assembly ;
+(a) any reference in those provisions to 1 [Majlis-e-Shoora (Parliament)],  a  House  or  the  National  Assembly  shall  be read as a reference to the Provincial Assembly ;
 
 (b) any reference in those provisions to the President shall be read as a reference to the Governor of the Province;
 
@@ -2870,7 +3340,7 @@ stands  dissolved,  the  Provincial  Government  may  authorize  expenditure fro
 
 (f) any reference in those provisions to the National Assembly of  Pakistan  shall  be  read  as  a  reference  to  the  Provincial Assembly in existence immediately before the commencing day 3 [; and]
 
-- 4 [(g) the said clause (2) of Article 54 shall have effect as if, in the proviso thereto, for the words "one hundred and thirty" the word ' 5 [one hundred]' were substituted.]
+- 4 [(g) the said clause (2) of Article 54 shall have effect as if, in the proviso thereto, for the words "one hundred and thirty" the word “5 [one hundred]” were substituted.]
 
 > 1 See footnote 6 on page 3, supra .
 
@@ -2888,11 +3358,11 @@ stands  dissolved,  the  Provincial  Government  may  authorize  expenditure fro
 
 [[START OF PAGE 80]]
 
-128.
-
 CONSTITUTION OF PAKISTAN
 
 ### Ordinances
+
+128.
 
 ### Power of Governor to promulgate Ordinances
 
@@ -3044,7 +3514,7 @@ CONSTITUTION OF PAKISTAN
 
 137. Subject to the Constitution, the executive authority of the Province shall extend to the matters with respect to which the Provincial Assembly has power to make laws :
 
-Provided that, in any matter with respect to which both 2 [Majlis-eShoora  (Parliament)]  and  the  Provincial  Assembly  of  a  Province  have power  to  make  laws,  the  executive  authority  of  the  Province  shall  be subject to, and limited by, the executive authority expressly conferred by the Constitution or by law made by 2 [Majlis-e-Shoora (Parliament)] upon the Federal Government or authorities thereof.
+Provided that, in any matter with respect to which both 2 [Majlis-e-Shoora  (Parliament)]  and  the  Provincial  Assembly  of  a  Province  have power  to  make  laws,  the  executive  authority  of  the  Province  shall  be subject to, and limited by, the executive authority expressly conferred by the Constitution or by law made by 2 [Majlis-e-Shoora (Parliament)] upon the Federal Government or authorities thereof.
 
 > 1 Subs. by P. O. No. 14 of 1985, Art. 2 and Sch.. for "Art. 136".
 
@@ -3056,9 +3526,9 @@ Provided that, in any matter with respect to which both 2 [Majlis-eShoora  (Parl
 
 [[START OF PAGE 84]]
 
-138.
-
 CONSTITUTION OF PAKISTAN
+
+138.
 
 ### Conferring of functions on subordinate authorities
 
@@ -3082,15 +3552,15 @@ CONSTITUTION OF PAKISTAN
 
 (2) It shall be the duty of the Advocate-General to give advice to  the  Provincial  Government  upon  such  legal  matters,  and  to  perform such other duties of a legal character, as may be referred or assigned to him by the Provincial Government.
 
-- The Advocate-General shall hold office during the pleasure of the Governor 5 [and shall not engage in private practice so long as he holds the office of the Advocate-General].
+(3) The Advocate-General shall hold office during the pleasure of the Governor 5 [and shall not engage in private practice so long as he holds the office of the Advocate-General].
 
-- The  Advocate-General  may,  by  writing  under  his  hand addressed to the Governor, resign his office.
+(4) The  Advocate-General  may,  by  writing  under  his  hand addressed to the Governor, resign his office.
 
 6 * * * * * * * *
 
 ### 140A.  Local Government
 
-7 [ 140A. (1) Each  Province  shall, by law, establish a local government  system  and  devolve  political,  administrative  and  financial responsibility  and  authority  to  the  elected  representatives  of  the  local governments. (2) Elections  to  the  local  governments  shall  be  held  by  the Election Commission of Pakistan.]
+7 [140A. (1) Each  Province  shall, by law, establish a local
 
 > 1 Subs. by P O. No. 14 of 1985, Art. 2 and Sch., for "Article 139".
 
@@ -3114,6 +3584,10 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
+government system and devolve political, administrative and financial responsibility and authority to the elected representatives of the local governments.
+
+(2) Elections to the local governments shall be held by the Election Commission of Pakistan.]
+
 ___________
 
 74
@@ -3123,8 +3597,6 @@ ___________
 [[START OF PAGE 86]]
 
 CONSTITUTION OF PAKISTAN
-
-143.
 
 # PART V
 
@@ -3152,9 +3624,11 @@ CONSTITUTION OF PAKISTAN
 
 - 4 [(d) Majlis-e-Shoora (Parliament) shall have exclusive power to make  laws  with  respect  to  all  matters  pertaining  to  such areas in the Federation as are not included in any Province].
 
+143.
+
 ### Inconsistency between Federal and Provincial law
 
-5 [ 143. If any provision of an Act of a Provincial Assembly is repugnant to any provision of an Act of Majlis-e-Shoora (Parliament) which Majlis-eShoora  (Parliament)  is  competent  to  enact,  then  the  Act  of  Majlis-eShoora  (Parliament),  whether  passed  before  or  after  the  Act  of  the Provincial Assembly, shall prevail and the Act of the Provincial Assembly shall, to the extent of the repugnancy, be void.]
+5 [143. If any provision of an Act of a Provincial Assembly is repugnant to any provision of an Act of Majlis-e-Shoora (Parliament) which Majlis-e-Shoora  (Parliament)  is  competent  to  enact,  then  the  Act  of  Majlis-e-Shoora  (Parliament),  whether  passed  before  or  after  the  Act  of  the Provincial Assembly, shall prevail and the Act of the Provincial Assembly shall, to the extent of the repugnancy, be void.]
 
 > 1 See footnote 6 on page 3, supra .
 
@@ -3202,19 +3676,19 @@ CONSTITUTION OF PAKISTAN
 
 ## CHAPTER 2. - ADMINISTRATIVE RELATIONS BETWEEN FEDERATION AND PROVINCES
 
-### Power  of  President  to  direct  Governor  to  discharge  certain functions as his Agent
-
 145.
 
-(1) The President may direct the Governor of any Province to discharge as his Agent, either generally or in any particular matter, such functions relating to such areas in the Federation which are not included in any Province as may be specified in the direction.
+### Power  of  President  to  direct  Governor  to  discharge  certain functions as his Agent
 
-- The  provisions  of  Article  105  shall  not apply  to the discharge by the Governor of his functions under clause (1).
+145. (1) The President may direct the Governor of any Province to discharge as his Agent, either generally or in any particular matter, such functions relating to such areas in the Federation which are not included in any Province as may be specified in the direction.
+
+(2) The  provisions  of  Article  105  shall  not apply  to the discharge by the Governor of his functions under clause (1).
 
 ### 146. Power  of  Federation  to  confer  powers,  etc.,  on  Provinces,  in certain cases
 
-(1) Notwithstanding anything contained in the Constitution, the Federal  Government  may,  with  the  consent  of  the  Government  of  a Province, entrust either conditionally or unconditionally to that Government, or to its officers functions in relation to any matter to which the executive authority of the Federation extends.
+146. (1) Notwithstanding anything contained in the Constitution, the Federal  Government  may,  with  the  consent  of  the  Government  of  a Province, entrust either conditionally or unconditionally to that Government, or to its officers functions in relation to any matter to which the executive authority of the Federation extends.
 
-- An  Act  of 2 [Majlis-e-Shoora  (Parliament)]  may,  notwithstanding  that  it  relates  to  a  matter  with  respect  to  which  a  Provincial Assembly has no power to make laws, confer powers and impose duties upon a Province or officers and authorities thereof.
+(2) An  Act  of 2 [Majlis-e-Shoora  (Parliament)]  may,  notwithstanding  that  it  relates  to  a  matter  with  respect  to  which  a  Provincial Assembly has no power to make laws, confer powers and impose duties upon a Province or officers and authorities thereof.
 
 > 1 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 51, for 'Two'.
 
@@ -3246,11 +3720,11 @@ CONSTITUTION OF PAKISTAN
 
 ### Obligation of Provinces and Federation
 
-(1) The  executive  authority  of  every  Province  shall  be  so exercised as to secure compliance with Federal laws which apply in that Province.
+148. (1) The  executive  authority  of  every  Province  shall  be  so exercised as to secure compliance with Federal laws which apply in that Province.
 
-- Without prejudice to any other provision of this Chapter, in the exercise of the executive authority of the Federation in any Province regard shall be had to the interests of that Province.
+(2) Without prejudice to any other provision of this Chapter, in the exercise of the executive authority of the Federation in any Province regard shall be had to the interests of that Province.
 
-- It  shall  be  the  duty  of  the  Federation  to  protect  every Province  against  external  aggression  and  internal  disturbances  and  to ensure that the Government of every Province is carried on in accordance with the provisions of the Constitution.
+(3) It  shall  be  the  duty  of  the  Federation  to  protect  every Province  against  external  aggression  and  internal  disturbances  and  to ensure that the Government of every Province is carried on in accordance with the provisions of the Constitution.
 
 149.
 
@@ -3470,7 +3944,7 @@ CONSTITUTION OF PAKISTAN
 
 (4) The  Council  shall  meet  at  least  twice  in  a  year  and  the quorum  for  a  meeting  of  the  Council  shall  be  one-half  of  its  total membership.
 
-(5) The  Council  shall  be  responsible  to  the  Majlis-e-Shoora (Parliament) and shall submit an Annual Report to each House of Majlise-Shoora (Parliament)].
+(5) The  Council  shall  be  responsible  to  the  Majlis-e-Shoora (Parliament) and shall submit an Annual Report to each House of Majlis-e-Shoora (Parliament)].
 
 157.
 
@@ -3584,7 +4058,7 @@ CONSTITUTION OF PAKISTAN
 
 > 2 See footnote 6 on page 3, supra .
 
-> 3 Subs. by the Constitution (Fifth Arndt.) Act, 1976 (62 of 1976), s. 3, for the "original paragraph (ii)", ( w.e.f. the 13th September, 1976).
+> 3 Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 3, for the "original paragraph (ii)", ( w.e.f. the 13th September, 1976).
 
 85
 
@@ -3628,7 +4102,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Natural gas and hydro-electric power
 
-- 1 [(1) Notwithstanding the provisions of Article 78
+161. 1 [(1) Notwithstanding the provisions of Article 78
 
 (a) the  net  proceeds  of  the  Federal  duty  of  excise  on  natural gas levied at well-head  and  collected by  the  Federal Government,  and  of  the  royalty  collected  by  the  Federal Government, shall not form part of the Federal Consolidated  Fund  and  shall  be  paid  to  the  Province  in which the well-head of natural gas is situated.
 
@@ -3636,7 +4110,7 @@ CONSTITUTION OF PAKISTAN
 
 (2) The net profits earned by the Federal Government, or any undertaking established or administered by the Federal Government from the bulk generation of power at a hydro-electric station shall be paid to the Province in which the hydro-electric station is situated.
 
-Explanation .-For the purposes of this clause "net profits" shall be computed by deducting from the revenues accruing from the bulk supply of  power  from  the  bus-bars  of  a  hydro-electric  station  at  a  rate  to  be determined by the Council of Common Interests, the operating expenses of  the  station,  which  shall  include  any  sums  payable  as  taxes,  duties, interest or return  on  investment, and  depreciations  and  element  of obsolescence, and over-heads, and provision for reserves.
+Explanation.—For the purposes of this clause "net profits" shall be computed by deducting from the revenues accruing from the bulk supply of  power  from  the  bus-bars  of  a  hydro-electric  station  at  a  rate  to  be determined by the Council of Common Interests, the operating expenses of  the  station,  which  shall  include  any  sums  payable  as  taxes,  duties, interest or return  on  investment, and  depreciations  and  element  of obsolescence, and over-heads, and provision for reserves.
 
 162.
 
@@ -3652,9 +4126,9 @@ Explanation .-For the purposes of this clause "net profits" shall be computed by
 
 [[START OF PAGE 99]]
 
-163.
-
 CONSTITUTION OF PAKISTAN
+
+163.
 
 ### Provincial taxes in respect of professions, etc.
 
@@ -3662,11 +4136,11 @@ CONSTITUTION OF PAKISTAN
 
 ### Miscellaneous Financial Provisions
 
-### Grants out of Consolidated Fund
-
 164.
 
-164. The  Federation  or  a  Province  may  make  grants  for  any  purpose, notwithstanding that the purpose is not one with respect to which 1 [Majlise-Shoora (Parliament)] or, as the case may be, a Provincial Assembly may make laws.
+### Grants out of Consolidated Fund
+
+164. The  Federation  or  a  Province  may  make  grants  for  any  purpose, notwithstanding that the purpose is not one with respect to which 1 [Majlis-e-Shoora (Parliament)] or, as the case may be, a Provincial Assembly may make laws.
 
 165.
 
@@ -3686,7 +4160,7 @@ CONSTITUTION OF PAKISTAN
 
 > 1 See footnote 6 on page 3, supra .
 
-> 2 Added by the Constitution (Arndt.) Order. 1985 (P. O. No. 11 of 1985), Art. 2.
+> 2 Added by the Constitution (Amdt.) Order. 1985 (P. O. No. 11 of 1985), Art. 2.
 
 88
 
@@ -3728,7 +4202,9 @@ on  the  income  of  a  corporation,  company  or  other  body  or  institution 
 
 CONSTITUTION OF PAKISTAN
 
-(3) A  Province  may  not,  without  the  consent  of  the  Federal Government, raise any loan if there is still outstanding any part of a loan made to the Province by the Federal Government, or in respect of which guarantee has been given by the Federal Government; and consent under this  clause  may  be  granted  subject  to  such  conditions,  if  any,  as  the Federal Government may think fit to impose.
+fixed under Article 166 are not exceeded give guarantees in respect of loans raised by, any Province, and any sums required for the purpose of making loans to a Province shall be charged upon the Federal Consolidated Fund.
+
+(3) A Province may not, without the consent of the Federal Government, raise any loan if there is still outstanding any part of a loan made to the Province by the Federal Government, or in respect of which guarantee has been given by the Federal Government; and consent under this clause may be granted subject to such conditions, if any, as the Federal Government may think fit to impose.
 
 1 [(4) A  Province  may  raise  domestic  or  international  loan,  or give guarantees on the security of the Provincial Consolidated Fund within such  limits  and  subject  to  such  conditions  as  may  be  specified  by  the National Economic Council.]
 
@@ -3742,9 +4218,9 @@ CONSTITUTION OF PAKISTAN
 
 (2) Before  entering  upon  office,  the  Auditor-General  shall make before the Chief Justice of Pakistan oath in the form set out in the Third Schedule.
 
-2 (3) The  Auditor-General  shall,  unless  he  sooner  resigns  or  is removed from office in accordance with clause (5), hold office for a term of four years from the date on which he assumes such office or attains the age of sixty-five years, whichever is earlier.]
+2 [(3) The Auditor-General shall, unless he sooner resigns or is removed from office in accordance with clause (5), hold office for a term of four years from the date on which he assumes such office or attains the age of sixty-five years, whichever is earlier.]
 
-3 [(3A)  The other terms and conditions of service of the AuditorGeneral shall be determined by Act of Majlis-e-Shoora (Parliament); and, until so determined, by Order of the President.]
+3 [(3A) The other terms and conditions of service of the Auditor-General shall be determined by Act of Majlis-e-Shoora (Parliament); and, until so determined, by Order of the President.]
 
 (4) A person who has held office as Auditor-General shall not be  eligible  for  further  appointment  in  the  service  of  Pakistan  before  the expiration of two years after he has ceased to hold that office.
 
@@ -3766,13 +4242,13 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-vacant  or  the  Auditor-General  is  absent  or  is  unable  to  perform  the functions of his office due to any cause, 1 [the President may appoint the most senior officer in the Office of the Auditor-General to] at as AuditorGeneral and perform the functions of that office.
+vacant or the Auditor-General is absent or is unable to perform the functions of his office due to any cause, 1 [the President may appoint the most senior officer in the Office of the Auditor-General to] act as Auditor-General and perform the functions of that office.
 
 169.
 
 ### Functions and powers of Auditor-General
 
-- The Auditor-General shall, in relation to-
+169. The Auditor-General shall, in relation to—
 
 (a) the accounts of the Federation and of the Provinces; and
 
@@ -3834,7 +4310,7 @@ CONSTITUTION OF PAKISTAN
 
 (3) All contracts made  in the exercise of the executive authority of the Federation or of a Province shall be expressed to be made in the name of the President or, as the case may be, the Governor of the Province, and all such contracts and all assurances of property made in the exercise of that authority shall be executed on behalf of the President or Governor  by  such  persons  and  in  such  manner  as  he  may  direct  or authorize.
 
-(4) Neither the President, nor the Governor of a Province, shall be  personally  liable  in  respect  of  any  contract  or  assurance  made  or executed in the exercise of the executive authority of the Federation or, as the case may be, the Province, nor shall any person making or executing any  such  contract  or  assurance  on  behalf  of  any  of  them  be  personally liable in respect thereof. Transfer of land by the Federal Government or a Provincial
+(4) Neither the President, nor the Governor of a Province, shall be personally liable in respect of any contract or assurance made or executed in the exercise of the executive authority of the Federation or, as
 
 > 1 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.65, for 'within'.
 
@@ -3848,7 +4324,9 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-(5) Government shall be regulated by law.
+the case may be, the Province, nor shall any person making or executing any such contract or assurance on behalf of any of them be personally liable in respect thereof.
+
+(5) Transfer of land by the Federal Government or a Provincial Government shall be regulated by law.
 
 174.
 
@@ -3866,29 +4344,29 @@ ___________
 
 CONSTITUTION OF PAKISTAN
 
-175.
-
 # PART VII
 
 ## The Judicature
 
 ## CHAPTER 1. - THE COURTS
 
+175.
+
 ### Establishment and jurisdiction of courts
 
-(1) There shall be a Supreme Court of Pakistan, a High Court for each Province 1 [and a High Court for the Islamabad Capital Territory] and such other courts as may be established by law.
+175. (1) There shall be a Supreme Court of Pakistan, a High Court for each Province 1 [and a High Court for the Islamabad Capital Territory] and such other courts as may be established by law.
 
-- 2 [ Explanation .-  The  word  'High  Court'  wherever  occurring  in the  Constitution  shall  include  the  High  Court  for  the  Islamabad  Capital Territory.]
+2 [Explanation.— The word “High Court” wherever occurring in the Constitution shall include the High Court for the Islamabad Capital Territory.]
 
-- No court shall have any jurisdiction save as is or may be conferred on it by the Constitution or by or under any law.
+(2) No court shall have any jurisdiction save as is or may be conferred on it by the Constitution or by or under any law.
 
-- The  Judiciary  shall  be  separated  progressively  from  the Executive within 3 [fourteen] years from the commencing day 5 [:]
+(3) The Judiciary shall be separated progressively from the Executive within 3 [fourteen] years from the commencing day 5 [:]
 
 4 [* * * * * * * * *]
 
-5 ['Provided  that  the  provisions  of  this  Article  shall  have  no application  to  the  trial  of  persons  under  any  of  the  Acts  mentioned  at Serial  No.  6  and  7  of  sub-part  III  of  Part  I  of  the  First  Schedule,  who claim,  or  are  known,  to  belong  to  any  terrorist  group  or  organization misusing the name of religion or a sect.
+5 [“Provided that the provisions of this Article shall have no application to the trial of persons under any of the Acts mentioned at Serial No. 6 and 7 of sub-part III of Part I of the First Schedule, who claim, or are known, to belong to any terrorist group or organization misusing the name of religion or a sect.
 
-Explanation.In  this  proviso  the expression 'sect' means a sect of religion and does not include any religious or political party regulated under the Political Parties Order, 2002.'.]
+Explanation.— In this proviso the expression “sect” means a sect of religion and does not include any religious or political party regulated under the Political Parties Order, 2002.”.]
 
 ### 175A.  Appointment  of  Judges  to  the  Supreme  Court,  High  Courts and the Federal Shariat Court
 
@@ -3919,14 +4397,14 @@ CONSTITUTION OF PAKISTAN
 (i) | Chief Justice of Pakistan; | Chairman
 --- | --- | ---
 (ii) | 1 [four] most senior Judges of the Supreme Court; | Members
-(iii) | a former Chief Justice or a former Judge of the Supreme Court of Pakistan to be nominated by the Chief Justice of Pakistan, in consultation with the 5 [four] member Judges, for a term of two years; | Member
+(iii) | a former Chief Justice or a former Judge of the Supreme Court of Pakistan to be nominated by the Chief Justice of Pakistan, in consultation with the 1 [four] member Judges, for a term of two years; | Member
 (iv) | Federal Minister for Law and Justice; | Member
 (v) | Attorney-General for Pakistan; and | Member
 (vi) | a Senior Advocate of the Supreme Court of Pakistan nominated by the Pakistan Bar Council for a term of two years. | Member
 
 (3) Notwithstanding anything contained in clause (1) or clause (2),  the  President  shall  appoint  the  most  senior  Judge  of  the  Supreme Court as the Chief Justice of Pakistan.
 
-- The Commission may make rules regulating its procedure.
+(4) The Commission may make rules regulating its procedure.
 
 (5) For appointment of Judges of a High Court, the Commission in clause (2) shall also include the following, namely:-
 --- | --- | ---
@@ -3951,7 +4429,7 @@ Provided that  for  appointment  of  the  Chief  Justice of  a  High  Court,  th
 
 Provided  further  that  if  for  any  reason  the  Chief Justice of High Court is not available, he shall be substituted  by  a  former  Chief  Justice  or  former  Judge  of that Court, to be nominated by the Chief Justice of Pakistan in consultation with the four member  Judges  of  the Commission mentioned in paragraph (ii) of clause (2).]
 
-- For  appointment  of  Judges  of  the  Islamabad  High  Court, the Commission in clause (2) shall also include the following, namely:-
+(6) For appointment of Judges of the Islamabad High Court, the Commission in clause (2) shall also include the following, namely:—
 
 (i) Chief Justice of the Islamabad High Court; Member and
 
@@ -3961,7 +4439,7 @@ Provided that for initial appointment of the 1 [Chief Justice  and  the]  Judges
 
 Provided further that subject to the foregoing proviso, in case of appointment of Chief Justice of Islamabad  High  Court,  the  provisos  to  clause  (5)  shall, mutatis mutandis , apply.
 
-- For appointment of Judges of the Federal Shariat Court, the Commission  in  clause  (2)  shall  also  include  the  Chief  Justice  of  the Federal  Shariat  Court  and  the  most  senior  Judge  of  that  Court  as  its members:
+(7) For appointment of Judges of the Federal Shariat Court, the Commission in clause (2) shall also include the Chief Justice of the Federal Shariat Court and the most senior Judge of that Court as its members:
 
 - Provided that for appointment of Chief Justice of Federal Shariat Court, the provisos, to clause (5) shall, mutatis mutandis , apply.
 
@@ -4011,8 +4489,6 @@ Provided  further that if a nomination  is not confirmed,  the Commission shall 
 
 [[START OF PAGE 109]]
 
-178.
-
 CONSTITUTION OF PAKISTAN
 
 1 [(15)  The meetings of the Committee shall be held in camera and the record of its proceedings shall be maintained.
@@ -4040,6 +4516,8 @@ CONSTITUTION OF PAKISTAN
 (a) has for a period of, or for periods aggregating, not less than five years been a judge of a High Court (including a High Court  which  existed  in  Pakistan  at  any  time  before  the commencing day); or
 
 (b) has for a period of, or for periods aggregating, not less than fifteen years been an advocate of a High Court (including a High Court which existed in Pakistan at any time before the commencing day).
+
+178.
 
 ### Oath of Office
 
@@ -4069,7 +4547,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Acting Chief Justice
 
-- At any time when-
+180. At any time when—
 
 (a) the office of Chief Justice of Pakistan is vacant; or
 
@@ -4081,7 +4559,7 @@ the  President  shall  appoint 2 [the  most  senior  of  the  other  Judges  of 
 
 ### Acting Judges
 
-(1) At any time when-
+181. (1) At any time when—
 
 (a) the office of a Judge of the Supreme Court is vacant ; or
 
@@ -4097,9 +4575,9 @@ the  President  may,  in  the  manner  provided  in  clause  (1)  of  Article  1
 
 ### Appointment of ad-hoc Judges
 
-182. If at any time it is not possible for want of quorum of Judges of the Supreme  Court  to  hold  or  continue  any  sitting  of  the  Court,  or  for  any other reason it is necessary to increase temporarily the number of Judges of  the  Supreme  Court,  the  Chief  Justice  of  Pakistan 1 [,  in  Consultation with the Judicial Commission as provided in clause (2) of Article 175A,] may, in writing,-
+182. If at any time it is not possible for want of quorum of Judges of the Supreme Court to hold or continue any sitting of the Court, or for any
 
-> 1 Article 179 subs. by the Constitution (Seventeenth Arndt.) Act, 2003 (3 of 2003), s.6. which was previously amended by various enactments ( see also Article 267B).
+> 1 Article 179 subs. by the Constitution (Seventeenth Amdt.) Act, 2003 (3 of 2003), s.6. which was previously amended by various enactments (see also Article 267B).
 
 > 2 Subs. by P. O. No. 14 of 1985. Art. 2 and Sch., for certain words.
 
@@ -4112,6 +4590,8 @@ the  President  may,  in  the  manner  provided  in  clause  (1)  of  Article  1
 [[START OF PAGE 111]]
 
 CONSTITUTION OF PAKISTAN
+
+other reason it is necessary to increase temporarily the number of Judges of the Supreme Court, the Chief Justice of Pakistan 1 [, in consultation with the Judicial Commission as provided in clause (2) of Article 175A,] may, in writing,—
 
 (a) with the approval of the President, request any person who has held the office of a Judge of that Court and since whose ceasing to hold that office three years have not elapsed ; or
 
@@ -4135,11 +4615,11 @@ to attend sittings of the Supreme Court as an ad hoc Judge for such period as ma
 
 184. (1) The Supreme Court shall, to the exclusion of every other court, have original jurisdiction in any dispute between any two or more Governments.
 
-Explanation .-In  this  clause, " Governments "   means  the  Federal Government and the Provincial Governments.
+Explanation.—In this clause, "Governments" means the Federal Government and the Provincial Governments.
 
 (2) In the exercise of the jurisdiction conferred on it by clause (1), the Supreme Court shall pronounce declaratory judgements only.
 
-- Without  prejudice  to  the  provisions  of  Article  199,  the
+(3) Without prejudice to the provisions of Article 199, the
 
 > 1 Inserted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 5.
 
@@ -4169,7 +4649,7 @@ Supreme Court shall, if it considers that a question of public importance with  
 
 (c) if  the  High  Court  has  imposed  any  punishment  on  any person for contempt of the High Court; or
 
-(d) if  the amount or value of the subject-matter of the dispute in  the  court  of  first  instance  was,  and  also  in  dispute  in appeal is, not less than fifty thousand rupees or such other sum as may be specified in that behalf by Act of 1 [Majlis-eShoora  (Parliament)]  and  the  judgment,  decree  or  final order appealed from has varied or set aside the judgment, decree or final order of the court immediately below ; or
+(d) if the amount or value of the subject-matter of the dispute in the court of first instance was, and also in dispute in appeal is, not less than fifty thousand rupees or such other sum as may be specified in that behalf by Act of 1 [Majlis-e-Shoora (Parliament)] and the judgment, decree or final order appealed from has varied or set aside the judgment, decree or final order of the court immediately below ; or
 
 (e) if  the  judgment,  decree  or  final  order  involves  directly  or indirectly some claim or question respecting property of the like  amount  or  value  and  the  judgment,  decree  or  final order appealed from has varied or set aside the judgment, decree or final order of the court immediately below; or
 
@@ -4213,7 +4693,7 @@ Constitution.
 
 188.
 
-### Review of judgments of orders by the Supreme Court
+### Review of judgments or orders by the Supreme Court
 
 > 1 New Art. 186A ins. by P. O. No 14 of 1985, Art. 2 and Sch.,
 
@@ -4273,7 +4753,7 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-(4) The jurisdiction of a High Court may, by Act of 1 [Majlis-eShoora (Parliament)], be extended to any area in Pakistan not forming part of a Province.
+(4) The jurisdiction of a High Court may, by Act of 1 [Majlis-e-Shoora (Parliament)], be extended to any area in Pakistan not forming part of a Province.
 
 193.
 
@@ -4305,7 +4785,7 @@ CONSTITUTION OF PAKISTAN
 
 > 3 Subs. ibid. for 'forty' and shall be deemed always to have been so, subs. with effect from 21 st day of August, 2002.
 
-> 4 Explanation added by the Constitution (First Arndt.) Act, 1974 (33 of 1974), s. 8, (w.e.f. the 4th May, 1974).
+> 4 Explanation added by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 8, (w.e.f. the 4th May, 1974).
 
 104
 
@@ -4363,15 +4843,15 @@ the President shall appoint 4 [one of the other Judges of the High Court, or may
 
 [[START OF PAGE 117]]
 
-198.
-
 CONSTITUTION OF PAKISTAN
 
 such period, if any, as may be prescribed by law.
 
+198.
+
 ### Seat of the High Court
 
-198. 1 [(l)] Each  High  Court  in  existence  immediately  before  the commencing  day  shall  continue  to  have  its  principal  seat  at  the  place where it had such seat before that day.
+198. 1 [(1)] Each High Court in existence immediately before the commencing day shall continue to have its principal seat at the place where it had such seat before that day.
 
 2 [(1A)  The High Court for Islamabad Capital Territory shall have its principal seat at Islamabad.]
 
@@ -4471,49 +4951,31 @@ the Court shall not make an interim order unless the prescribed law officer has 
 
 [[START OF PAGE 120]]
 
-200.
-
 CONSTITUTION OF PAKISTAN
 
 Provided that the matter shall be finally decided by the High Court within six months from the date on which the interim order is made.]
 
 1 * * * * * * * * *
 
-- In this Article, unless the context otherwise requires,-
+(5) In this Article, unless the context otherwise requires,—
 
-"person" includes any body politic or corporate, any authority of or under the control of the Federal Government or of a Provincial Government, and any Court or tribunal, other than the Supreme Court, a High Court or a Court or tribunal  established  under  a  law  relating  to  the  Armed Forces of Pakistan ; and
+"person" includes any body politic or corporate, any authority of or under the control of the Federal Government or of a Provincial Government, and any Court or tribunal, other than the Supreme Court, a High Court or a Court or tribunal established under a law relating to the Armed Forces of Pakistan ; and
 
-"prescribed law officer" means-
+"prescribed law officer" means—
 
-(a) in  relation  to  an  application  affecting  the  Federal Government or an authority of or under the control of the Federal Government, the Attorney-General, and
+(a) in relation to an application affecting the Federal Government or an authority of or under the control of the Federal Government, the Attorney-General, and
 
-(b) in any  other case,  the  Advocate-General  for  the Province in which the application is made.
+(b) in any other case, the Advocate-General for the Province in which the application is made.
+
+200.
 
 ### Transfer of High Court Judges
 
-200. (1) The President may transfer a Judge of a High Court from one High Court to another High Court, but no Judge shall be so transferred except  with  his  consent  and  after  consultation  by  the  President  with  the Chief Justice of Pakistan and the Chief Justices of both High Courts 2 [:]
+200. (1) The President may transfer a Judge of a High Court from one High Court to another High Court, but no Judge shall be so transferred except with his consent and after consultation by the President with the Chief Justice of Pakistan and the Chief Justices of both High Courts 2 [:]
 
-3
+3 * * * * * * * * *
 
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-Explanation .-In  this  Article,  "Judge"  does  not  include  a  Chief Justice 4 [but includes a Judge for the time being acting as Chief Justice of a High Court other than a Judge of the Supreme Court acting as such in pursuance of a request made under paragraph (b) of Article 196].]
+Explanation.—In this Article, "Judge" does not include a Chief Justice 4 [but includes a Judge for the time being acting as Chief Justice of a High Court other than a Judge of the Supreme Court acting as such in pursuance of a request made under paragraph (b) of Article 196].]
 
 5 [(2) Where a Judge is so transferred or is appointed to an office other than that of Judge at a place other than the principal seat of the High Court, he shall,  during  the  period  for  which  he  serves  as  a  Judge  of  the High  Court  to  which  he  is  transferred,  or  holds  such  other  office,  be entitled to such allowances and privileges, in addition to his salary, as the President may, by Order, determine.]
 
@@ -4541,29 +5003,7 @@ Provided  that  a  Judge  shall  not  be  so  required  except  with  his consen
 
 2 [ Explanation .- In this Article, "High Court" includes a Bench of a High Court.]
 
-3
-
-3
-
-201.
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
+3 * * * * * * * * *
 
 ### Decision of High Court binding on subordinate Courts
 
@@ -4573,13 +5013,13 @@ Provided  that  a  Judge  shall  not  be  so  required  except  with  his consen
 
 ### Rules of procedure
 
-- Subject to the Constitution and law, a High Court may make rules regulating  the  practice  and  procedure  of  the  Court  or  of  any  court subordinate to it.
+202. Subject to the Constitution and law, a High Court may make rules regulating the practice and procedure of the Court or of any court subordinate to it.
 
 203.
 
 ### High Court to superintend subordinate Courts
 
-- Each High Court shall supervise and control all courts subordinate to it.
+203. Each High Court shall supervise and control all courts subordinate to it.
 
 ## 4 [CHAPTER 3A. - FEDERAL SHARIAT COURT
 
@@ -4615,15 +5055,7 @@ CONSTITUTION OF PAKISTAN
 
 (c) "law " includes any custom or usage having the force of law but does not include the Constitution, Muslim personal law, any law relating to the  procedure of any court or tribunal or, until the expiration of 3 [ten] years from the commencement of this Chapter, any fiscal law or any law relating  to  the  levy  and  collection  of  taxes  and  fees  or banking or insurance practice and procedure ; and
 
-4
-
-*
-
-*
-
-*
-
-*
+4 * * * * * * * * *
 
 ### 203C.  The Federal Shariat Court
 
@@ -4650,16 +5082,6 @@ CONSTITUTION OF PAKISTAN
 > 8 Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 74.
 
 > 9 Subs. by the Constitution (Third Amdt.) Order 1985 (P. O. No. 24 of 1985), Art. 4, for "clause(3)".
-
-*
-
-*
-
-*
-
-*
-
-*
 
 111
 
@@ -4739,7 +5161,7 @@ Provided that where a Judge is already drawing a pension for any other post in t
 
 ### 203CC. [Omitted]
 
-203CC. [Penal  of  Ulema  and  Ulema  members.]  Omitted  by  the Constitution  (Second  Amdt.)  Order,  1981  (P.O.  No.  7  of  1981),  Art.  3, which was previously ins. by P.O. No. 5 of 1981, Art. 2.
+203CC. [Panel of Ulema and Ulema members.] Omitted by the Constitution (Second Amdt.) Order, 1981 (P.O. No. 7 of 1981), Art. 3, which was previously ins. by P.O. No. 5 of 1981, Art. 2.
 
 ### 203D.  Powers, jurisdiction and functions of the Court
 
@@ -4781,33 +5203,15 @@ and specify the day on which the decision shall take effect 1 [:]
 
 (b) such law or provision shall, to the extent to which it is held to  be  so  repugnant,  cease  to  have  effect  on  the  day  on which the decision of the Court takes effect.
 
-5
-
-*
+5 * * * * * * * * *
 
 203DD.
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
 
 ### Revisional and other jurisdiction of the Court
 
 6 [ 203DD. (1)  The Court may call for and examine the record of any case decided by any criminal court under any law relating to the enforcement of Hudood for the purpose of satisfying itself as to the correctness, legality or propriety of any finding, sentence or order recorded or passed by, and as to the regularity of any proceedings of, such court and may, when calling for  such  record,  direct  that  the  execution  of  any  sentence  be  suspended and, if the accused is in confinement, that he be released on bail or on his own bond pending the examination of the record.
 
-(2) In any case the record of which has been called for by the Court, the Court may pass such order as it may deem fit and may enhance the sentence:
+(2) In any case the record of which has been called for by the Court, the Court may pass such order as it may deem fit and may enhance
 
 > 1 Subs. and shall be deemed always to have been so subs. by the Constitution (Amdt.) order, 1984 (P.O. No. 1 of 1984), Art. 2, for the full stop.
 
@@ -4829,7 +5233,8 @@ and specify the day on which the decision shall take effect 1 [:]
 
 CONSTITUTION OF PAKISTAN
 
-Provided that nothing in this Article shall be deemed to authorise the Court to convert a finding of acquittal into one of conviction and no order  under  this  Article  shall  be  made  to  the  prejudice  of  the  accused unless he has had an opportunity of being heard in his own defence.
+the sentence:
+Provided that nothing in this Article shall be deemed to authorise the Court to convert a finding of acquittal into one of conviction and no order under this Article shall be made to the prejudice of the accused unless he has had an opportunity of being heard in his own defence.
 
 (3) The  Court  shall  have  such  other  jurisdiction  as  may  be conferred on it by or under any law.]
 
@@ -4853,7 +5258,7 @@ Provided that nothing in this Article shall be deemed to authorise the Court to 
 
 (5) For being eligible to have his name borne on the panel of jurisconsults referred to in clause (4), a person shall be an aalim who, in the opinion of the Court, is well-versed in Shariat.
 
-(6) A  legal  practitioner  or  jurisconsult  representing  a  party before the Court shall not plead for the party but shall state, expound and interpret the Injunctions of Islam relevant to the proceedings so far as may be  known  to  him  and  submit  to  the  Court  a  written  statement  of  his interpretation of such Injunctions of Islam.
+(6) A legal practitioner or jurisconsult representing a party before the Court shall not plead for the party but shall state, expound and
 
 115
 
@@ -4863,7 +5268,9 @@ Provided that nothing in this Article shall be deemed to authorise the Court to 
 
 CONSTITUTION OF PAKISTAN
 
-(7) The  Court  may  invite  any  person  in  Pakistan  or  abroad whom  the  Court  considers  to  be  well-versed  in  Islamic  law  to  appear before it and render such assistance as may be required of him.
+interpret the Injunctions of Islam relevant to the proceedings so far as may be known to him and submit to the Court a written statement of his interpretation of such Injunctions of Islam.
+
+(7) The Court may invite any person in Pakistan or abroad whom the Court considers to be well-versed in Islamic law to appear before it and render such assistance as may be required of him.
 
 (8) No court fee shall be payable in respect of any petition or application made to the Court under 1 [Article 203D.]
 
@@ -4986,7 +5393,7 @@ CONSTITUTION OF PAKISTAN
 
 2 [ 204. (1) In this Article, "Court" means the Supreme Court or a High Court.
 
-- A Court shall have power to punish any person who-
+(2) A Court shall have power to punish any person who—
 
 (a) abuses,  interferes  with  or  obstructs  the  process  of  the Court in any way or disobeys any order of the Court ;
 
@@ -5002,7 +5409,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Remuneration etc., of judges
 
-205. The remuneration and other terms and conditions of service of a Judge of the Supreme Court or of a High Court shall be as provided in the Fifth Schedule.
+205. The remuneration and other terms and conditions of service of a Judge of the Supreme Court or of a High Court shall be as provided in the
 
 > 1 Paragraphs (c), (d) and (e) added ibid .
 
@@ -5016,11 +5423,13 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
+Fifth Schedule.
+
 206.
 
 ### Resignation
 
-206. 1 [(1)] A  Judge  of  the  Supreme  Court  or  of  a  High  Court  may Resignation. resign his office by writing under his hand addressed to the President.
+206. 1 [(1)] A Judge of the Supreme Court or of a High Court may resign his office by writing under his hand addressed to the President.
 
 2 [(2) A Judge of a High Court who does not accept appointment as a Judge of the Supreme Court shall be deemed to have retired from his office  and,  on  such  retirement,  shall  be  entitled  to  receive  a  pension calculated  on  the  basis  of  the  length  of  his  service  as  Judge  and  total service, if any, in the service of Pakistan.]
 
@@ -5028,7 +5437,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Judge not to hold office of profit, etc.
 
-(1) A  Judge  of  the  Supreme  Court  or  of  a  High  Court  shall not-
+207. (1) A Judge of the Supreme Court or of a High Court shall not—
 
 (a)   hold any other office of profit in the service of Pakistan if his remuneration is thereby increased; or
 
@@ -5036,7 +5445,7 @@ CONSTITUTION OF PAKISTAN
 
 (2) A person who has held office  as  a  Judge  of  the  Supreme Court or of a High Court shall not hold any office of profit in the service of  Pakistan,  not  being  a  judicial  or quasi-judicial office  or  the  office  of Chief  Election  Commissioner  or  of  Chairman  or  member  of  a  Law Commission  or  of  Chairman  or  member  of  the  Council  of  Islamic Ideology, before the expiration of two  years after he has ceased to hold that office.
 
-- A person who has held office as a permanent Judge-
+(3) A person who has held office as a permanent Judge—
 
 (a) of the Supreme Court, shall not plead or act in any court or before any authority in Pakistan;
 
@@ -5056,9 +5465,9 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-208.
+shall not plead or act in any court or before any authority within the jurisdiction of the principal seat of that High Court or, as the case may be, the permanent bench of that High Court to which he was assigned.
 
-shall  not  plead  or  act  in  any  court  or  before  any authority within the jurisdiction of the principal seat of that High Court or, as the case may be, the permanent bench of that High Court to which he was assigned.
+208.
 
 ### Officers and servants of Courts
 
@@ -5070,7 +5479,7 @@ shall  not  plead  or  act  in  any  court  or  before  any authority within the
 
 209. (1) There shall be a Supreme Judicial Council of Pakistan, in this Chapter referred to as the Council.
 
-- The Council shall consist of-
+(2) The Council shall consist of—
 
 (a) the Chief Justice of Pakistan ;
 
@@ -5202,13 +5611,13 @@ __________
 
 CONSTITUTION OF PAKISTAN
 
-213.
-
 # PART VIII
 
 ## Elections
 
 ## CHAPTER 1. - CHIEF ELECTION COMMISSIONER AND ELECTION  1 [COMMISSION]
+
+213.
 
 ### Chief Election Commissioner
 
@@ -5256,7 +5665,7 @@ Provided 4 [further] that when the National Assembly is dissolved and a vacancy 
 
 214.
 
-Oath of Of ice
+Oath of Office
 
 ### [ 7 **]Oath of Office
 
@@ -5306,29 +5715,11 @@ CONSTITUTION OF PAKISTAN
 
 Provided also that the term of office of a member appointed to fill a casual vacancy shall be the un-expired term of the office of the member whose vacancy he has filled.]
 
-1
+1 * * * * * * * * *
 
-*
+(2) The Commissioner 2 [or a member] shall not be removed from office except in the manner prescribed in Article 209 for the removal from office of a Judge and, in the application of the Article for the purposes of this clause, any reference in that Article to a Judge shall be construed as a reference to the Commissioner 1 [or, as the case may be, a member].
 
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-- The  Commissioner 2 [or  a  member]  shall  not  be  removed from office except in the manner prescribed in Article 209 for the removal from  office  of  a  Judge  and,  in  the  application  of  the  Article  for  the purposes of this clause, any  reference in that Article to a Judge shall be construed as a reference to the Commissioner 1 [or, as the case may be, a member].
-
-- The Commissioner  3 [or a member] may, by writing under his hand addressed to the President, resign his office.
+(3) The Commissioner 3 [or a member] may, by writing under his hand addressed to the President, resign his office.
 
 - 4 [(4) Vacancy  in  the  office  of  the  Commissioner  or  a  member shall be filled within forty-five days.]
 
@@ -5336,13 +5727,13 @@ Provided also that the term of office of a member appointed to fill a casual vac
 
 ### Commissioner  5 [and members] not to hold office of profit
 
-(1) The Commissioner  6 [or a member] shall not-
+216. (1) The Commissioner 6 [or a member] shall not—
 
 (a) hold any other office of profit in the service of Pakistan; or
 
 (b) occupy  any  other  position  carrying  the  right  to  remuneration for the rendering of services.
 
-- A  person  who  has  held  office  as  Commissioner 7 [or  a member]  shall  not  hold  any  office  of  profit  in  the  service  of  Pakistan before the expiration of two years after he has ceased to hold that office 8 [.]
+(2) A person who has held office as Commissioner 7 [or a member] shall not hold any office of profit in the service of Pakistan before the expiration of two years after he has ceased to hold that office 8 [.]
 
 9 * * * * * * * * *
 
@@ -5374,13 +5765,13 @@ Provided also that the term of office of a member appointed to fill a casual vac
 
 [[START OF PAGE 139]]
 
-217.
-
 CONSTITUTION OF PAKISTAN
+
+217.
 
 ### Acting Commissioner
 
-- At any time when-
+217. At any time when—
 
 (a) the office of Commissioner is vacant, or
 
@@ -5392,7 +5783,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Election Commission
 
-218. 2 [(1) For  the  purpose  of  election  to  both  Houses  of  Majlis-eShoora (Parliament), Provincial Assemblies and for election to such other public offices as may  be  specified by law, a permanent Election Commission shall be constituted in accordance with this Article.]
+218. 2 [(1) For the purpose of election to both Houses of Majlis-e-Shoora (Parliament), Provincial Assemblies and for election to such other public offices as may be specified by law, a permanent Election Commission shall be constituted in accordance with this Article.]
 
 - 3 [(2) The Election Commission shall consist of-
 
@@ -5426,7 +5817,7 @@ CONSTITUTION OF PAKISTAN
 
 219. The  1 [Commission] shall be charged with the duty of-
 
-- 2 [(a) preparing electoral rolls for election to the National Assembly,  Provincial  Assemblies  and  local  governments, and  revising  such  rolls  periodically  to  keep  them  up-todate;]
+- 2 [(a) preparing electoral rolls for election to the National Assembly, Provincial Assemblies and local governments, and revising such rolls periodically to keep them up-to-date;]
 
 (b) organizing and conducting election to the Senate or to fill casual vacancies in a House or a Provincial Assembly; and
 
@@ -5438,17 +5829,15 @@ CONSTITUTION OF PAKISTAN
 
 6 [Provided  that  till  such  time  as  the  members  of  the Commission are first appointed in accordance with the provisions of  paragraph  (b)  of  clause  (2)  of  Article  218  pursuant  to  the Constitution  (Eighteenth  Amendment)  Act,  2010,  and  enter  upon their office, the Commissioner shall remain charged with the duties enumerated in paragraphs (a), (b) and (c) of this Article.]
 
-### Executive authorities to assist Commission, etc.
-
 220.
+
+### Executive authorities to assist Commission, etc.
 
 220. It  shall  be  the  duty  of  all  executive  authorities  in  the  Federation and  in the  Provinces to assist  the  Commissioner  and  the  Election Commission in the discharge of his or their functions.
 
-2
+221.
 
-1.
-
-Of icers and staf
+Officers and staff
 
 ### Officers and  7 [staff]
 
@@ -5464,9 +5853,7 @@ Of icers and staf
 
 > 5 Subs. by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.7.
 
-> 6 Inserted Ibid
-
-, s.7
+> 6 Inserted Ibid, s.7
 
 > 7 Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 10.
 
@@ -5486,11 +5873,11 @@ Of icers and staf
 
 [[START OF PAGE 141]]
 
-222.
-
 CONSTITUTION OF PAKISTAN
 
 ## CHAPTER 2. - ELECTORAL LAWS AND CONDUCT OF ELECTIONS
+
+222.
 
 ### Electoral laws
 
@@ -5514,7 +5901,7 @@ but no such law shall have the effect of taking away or abridging any of the pow
 
 ### Bar against double membership
 
-(1) No person shall, at the same time, be a member of-
+223. (1) No person shall, at the same time, be a member of—
 
 (a) both Houses; or
 
@@ -5576,7 +5963,7 @@ CONSTITUTION OF PAKISTAN
 
 Provided 3 [also]  that  the  Members  of  the  Federal  and  Provincial care-taker  Cabinets  shall  be  appointed  on  the  advice  of  the  care-taker Prime Minister or the care-taker Chief Minister, as the case may be.
 
-(1B) Members  of  the  care-taker  Cabinets  including  the  caretaker Prime Minister and the care-taker Chief Minister and their immediate family members shall not be eligible to contest the immediately following elections to such Assemblies.
+(1B) Members of the care-taker Cabinets including the care-taker Prime Minister and the care-taker Chief Minister and their immediate family members shall not be eligible to contest the immediately following elections to such Assemblies.
 
 Explanation. - In this clause, 'immediate family members' means spouse and children.]
 
@@ -5590,7 +5977,7 @@ Explanation. - In this clause, 'immediate family members' means spouse and child
 
 1 [(6) When  a  seat  reserved  for  women  or  non-Muslims  in  the National Assembly or a Provincial Assembly falls vacant, on account of death, resignation or disqualification of a member, it shall be filled by the next person in order of precedence from the party list of the candidates to be  submitted  to  the  Election  Commission  by  the  political  party  whose member has vacated such seat.]
 
-> 1 New Clauses (6)  ins. and shall  be  deemed always to have been so ins.  with effect  from  the  21 st day  of August 2002 by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 83.
+> 1 New Clauses (6) ins. and shall be deemed always to have been so ins. with effect from the 21st day of August 2002 by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 83.
 
 132
 
@@ -5602,27 +5989,9 @@ CONSTITUTION OF PAKISTAN
 
 1 [Provided  that  if  at  any  time  the  party  list  is  exhausted,  the concerned political party may submit a name for any vacancy which may occur thereafter.]
 
-2
+2 * * * * * * * * *
 
 224A.
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
 
 ### 2 [Resolution by Committee or Election Commission
 
@@ -5678,11 +6047,11 @@ _____________
 
 CONSTITUTION OF PAKISTAN
 
-227.
-
 # PART IX
 
 ## Islamic Provisions
+
+227.
 
 ### Provisions relating to the Holy Quran and Sunnah
 
@@ -5692,7 +6061,7 @@ CONSTITUTION OF PAKISTAN
 
 (2) Effect shall be given to the provisions of clause (1) only in the manner provided in this Part.
 
-(3) Nothing in this Part shall affect the personal laws of nonMuslim citizens or their status as citizens.
+(3) Nothing in this Part shall affect the personal laws of non-Muslim citizens or their status as citizens.
 
 228.
 
@@ -5740,7 +6109,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Functions of the Islamic Council
 
-(1) The functions of the Islamic Council shall be-
+230. (1) The functions of the Islamic Council shall be—
 
 (a) to make recommendations to 3 [Majlis-e-Shoora (Parliament)] and the Provincial Assemblies as to the ways and  means  of  enabling  and  encouraging  the  Muslims  of Pakistan to order their lives individually and collectively in all respects in accordance with the principles and concepts of Islam as enunciated in the Holy Quran and Sunnah;
 
@@ -5764,7 +6133,7 @@ CONSTITUTION OF PAKISTAN
 
 and the stages by which such measures should be brought into effect; and
 
-(d) to compile in a suitable form, for the guidance of 1 [Majlise-Shoora (Parliament)] and the Provincial Assemblies, such Injunctions of Islam as can be given legislative effect.
+(d) to compile in a suitable form, for the guidance of 1 [Majlis-e-Shoora (Parliament)] and the Provincial Assemblies, such Injunctions of Islam as can be given legislative effect.
 
 (2) When, under Article 299, a question is referred by a House, a Provincial Assembly, the President or a Governor to the Islamic Council, the  Council  shall,  within  fifteen  days  thereof,  inform  the  House,  the Assembly, the President or the Governor, as the case may be, of the period within which the Council expects to be able to furnish that advice.
 
@@ -5784,7 +6153,7 @@ __________
 
 > 1 See footnote 6 on page 3, supra .
 
-> 2 For the Council of Islamic Ideology (Procedure Rules), 1974, see Gaz. of Pak., 1974. Ext., Pt. II, pp. 771773.
+> 2 For the Council of Islamic Ideology (Procedure Rules), 1974, see Gaz. of Pak., 1974. Ext., Pt. II, pp. 771-773.
 
 137
 
@@ -5804,7 +6173,7 @@ CONSTITUTION OF PAKISTAN
 
 2 [Provided  that for imposition  of  emergency  due  to  internal disturbances beyond the powers of a Provincial Government to control, a resolution from  the Provincial Assembly  of  that Province  shall be required:
 
-Provided  further that if the President acts on  his own,  the Proclamation of Emergency shall be placed before both Houses of Majlise-Shoora (Parliament) for approval by each House within ten days.]
+Provided further that if the President acts on his own, the Proclamation of Emergency shall be placed before both Houses of Majlis-e-Shoora (Parliament) for approval by each House within ten days.]
 
 (2) Notwithstanding  anything  in  the  Constitution, while  a Proclamation of Emergency is in force-
 
@@ -5846,7 +6215,7 @@ Provided that nothing in paragraph (c) shall authorise the Federal Government to
 
 (5) A  law  made  by 1 [Majlis-e-Shoora  (Parliament)]  which 1 [Majlis-e-Shoora (Parliament)] would not but for the issue of a Proclamation  of  Emergency  have  been  competent  to  make,  shall,  to  the extent  of  the  incompetency,  cease  to  have  effect  on  the  expiration  of  a period of six months after the Proclamation of Emergency has ceased to be in force, except as respects things done or omitted to be done before the expiration of the said period.
 
-(6) While a Proclamation of emergency is in force, 1 [Majlis-eShoora  (Parliament)]  may  by  law  extend  the  term  of  the  National Assembly for a period not exceeding one year and not extending in any case beyond a period of six months after the Proclamation has ceased to be in force.
+(6) While a Proclamation of emergency is in force, 1 [Majlis-e-Shoora (Parliament)] may by law extend the term of the National Assembly for a period not exceeding one year and not extending in any case beyond a period of six months after the Proclamation has ceased to be in force.
 
 > 1 See footnote 6 on page 3, supra .
 
@@ -5862,7 +6231,7 @@ CONSTITUTION OF PAKISTAN
 
 (a) shall  cease  to  be  in  force  at  the  expiration  of  two  months unless  before  the  expiration  of  that  period  it  has  been approved by a resolution 1 of the joint sitting; and
 
-- 2 [(b) shall, subject to the provisions of paragraph (a), cease to be in  force  upon  a  resolution  disapproving  the  proclamation being  passed  by  the  votes  of  the  majority  of  the  total membership of the two Houses in joint sitting.]
+2 [(b) shall, subject to the provisions of paragraph (a), cease to be in  force  upon  a  resolution  disapproving  the  proclamation being  passed  by  the  votes  of  the  majority  of  the  total membership of the two Houses in joint sitting.]
 
 (8) Notwithstanding  anything  contained  in  clause  (7),  if  the National Assembly stands dissolved at the time when a Proclamation of Emergency is issued, the Proclamation shall continue in force for a period of four months but, if a general election to the Assembly is not held before the expiration of that period; it shall cease to be in force at the expiration of  that  period  unless  it  has  earlier  been  approved  by  a  resolution  of  the Senate.
 
@@ -5916,7 +6285,7 @@ CONSTITUTION OF PAKISTAN
 
 > For resolution approving the continuance in force of the President's Order of the 14th August, 1973, for a further period of six months, .see Gaz. of Pak., 1974. Ext., Pt. III, p. 343. The joint sitting passed the following resolution on 10-6-1998.
 
-"That the joint sitting approves the Order made by the President on the 28th May, 1998, under clause (2) of Article 233 of the Constitution." see Gaz. of Pak. 1998. Part Ill, p. 647.
+"That the joint sitting approves the Order made by the President on the 28th May, 1998, under clause (2) of Article 233 of the Constitution." see Gaz. of Pak. 1998. Part III, p. 647.
 
 > 4 The words 'or otherwise' omitted by Act No. 10 of 2010, s. 88.
 
@@ -6010,13 +6379,11 @@ __________
 
 CONSTITUTION OF PAKISTAN
 
-238.
-
 # PART XI
 
 ## Amendment of Constitution
 
-### Amendment of Constitution
+### 238. Amendment of Constitution
 
 238. Subject to this  Part,  the  Constitution  may  be  amended  by  Act  of 1 [Majlis-e-Shoora (Parliament)].
 
@@ -6050,19 +6417,17 @@ ___________
 
 CONSTITUTION OF PAKISTAN
 
-240.
-
 # PART XII
 
 ## Miscellaneous
 
 ## CHAPTER 1. - SERVICES
 
-### Appointments to service of Pakistan and conditions of service
+### 240. Appointments to service of Pakistan and conditions of service
 
 240. Subject to the Constitution, the appointments to and the conditions of service of persons in the service of Pakistan shall be determined-
 
-(a) in  the  case  of  the  services  of  the  Federation,  posts  in connection  with  the  affairs  of  the  Federation  and  AllPakistan  Services,  by  or  under  Act  of 1 [Majlis-e-Shoora (Parliament)]; and
+(a) in  the  case  of  the  services  of  the  Federation,  posts  in connection  with  the  affairs  of  the  Federation  and  All-Pakistan  Services,  by  or  under  Act  of 1 [Majlis-e-Shoora (Parliament)]; and
 
 (b) in  the  case  of  the  services  of  a  Province  and  posts  in connection with the affairs of a Province, by or under Act of the Provincial Assembly.
 
@@ -6094,8 +6459,6 @@ Explanation .-In this Article, "All-Pakistan Service" means  a service  common  
 
 [[START OF PAGE 158]]
 
-243.
-
 CONSTITUTION OF PAKISTAN
 
 1 [(1B)  The Chairman of the Public Service Commission constituted in  relation  to  affairs  of  a  Province  shall  be  appointed  by  the Governor on advice of the Chief Minister.]
@@ -6104,13 +6467,13 @@ CONSTITUTION OF PAKISTAN
 
 ## CHAPTER 2. - ARMED FORCES
 
-### Command of Armed Forces
+### 243. Command of Armed Forces
 
-2 [ 243. (1) The Federal Government shall have control and command of the Armed Forces.
+2 [243. (1) The Federal Government shall have control and command of the Armed Forces.
 
 (2) Without prejudice to the generality of the foregoing provision, the Supreme Command of the Armed Forces shall vest in the President.
 
-- The President shall subject to law, have power-
+(3) The President shall subject to law, have power—
 
 (a) to raise and maintain the Military, Naval and Air Forces of Pakistan; and the Reserves of such Forces; and
 
@@ -6162,11 +6525,9 @@ Provided  that  this clause shall not be deemed  to  affect  the jurisdiction  o
 
 ## CHAPTER 3. - TRIBAL AREAS
 
-### Tribal Areas
+### 246. Tribal Areas
 
-246.
-
-246. In the Constitution,-
+246. In the Constitution,—
 
 (a) "Tribal Areas" means the areas in Pakistan which, immediately  before  the  commencing  day,  were  Tribal Areas, and includes-
 
@@ -6218,7 +6579,7 @@ includes  Kalam) 1 [the Tribal Area  in  Kohistan district,] Malakand Protected 
 
 3 [(iva)  Tribal Areas adjoining Tank district;]
 
-- 5 [(v) Bajaur Agency;
+5 [(v) Bajaur Agency;
 
 (va) Orakzai Agency;]
 
@@ -6260,8 +6621,6 @@ includes  Kalam) 1 [the Tribal Area  in  Kohistan district,] Malakand Protected 
 
 CONSTITUTION OF PAKISTAN
 
-248.
-
 (b) in  sub-paragraph (ii),  shall  stand  merged  in the Province of Balochistan; and
 
 (ii) paragraph (c), shall stand merged in the Province of Khyber Pakhtunkhwa.]
@@ -6270,17 +6629,17 @@ CONSTITUTION OF PAKISTAN
 
 ## CHAPTER 4. - GENERAL
 
-### Protection to President, Governor, Minister, etc.
+### 248. Protection to President, Governor, Minister, etc.
 
-(1) The  President,  a  Governor,  the  Prime  Minister,  a  Federal Minister, a Minister of State, the Chief Minister and a Provincial Minister shall  not  be  answerable  to  any  court  for  the  exercise  of  powers  and performance of functions of their respective offices or for any act done or purported to be done in the exercise of those powers and performance of those functions:
+248. (1) The  President,  a  Governor,  the  Prime  Minister,  a  Federal Minister, a Minister of State, the Chief Minister and a Provincial Minister shall  not  be  answerable  to  any  court  for  the  exercise  of  powers  and performance of functions of their respective offices or for any act done or purported to be done in the exercise of those powers and performance of those functions:
 
 Provided that nothing in this clause shall be construed as restricting the  right  of  any  person  to  bring  appropriate  proceedings  against  the Federation or a Province.
 
-- No criminal proceedings whatsoever shall be instituted or continued against the President or a Governor in any court during his term of office.
+(2) No criminal proceedings whatsoever shall be instituted or continued against the President or a Governor in any court during his term of office.
 
-- No process for the arrest or imprisonment of the President or a Governor shall issue from any court during his term of office.
+(3) No process for the arrest or imprisonment of the President or a Governor shall issue from any court during his term of office.
 
-- No civil proceedings in which relief is claimed against the President  or  a  Governor  shall  be  instituted  during  his  term  of  office  in respect  of  any  thing  done  or  not  done  by  him  in  his  personal  capacity whether before or after he enters upon his office unless, at least sixty days before the proceedings are instituted, notice in writing has been delivered to him, or sent to him in the manner prescribed by law, stating the nature of the proceedings, the cause of action, the name, description and place of residence of the party by whom the proceedings are to be instituted and the relief which the party claims.
+(4) No civil proceedings in which relief is claimed against the President  or  a  Governor  shall  be  instituted  during  his  term  of  office  in respect  of  any  thing  done  or  not  done  by  him  in  his  personal  capacity whether before or after he enters upon his office unless, at least sixty days before the proceedings are instituted, notice in writing has been delivered to him, or sent to him in the manner prescribed by law, stating the nature of the proceedings, the cause of action, the name, description and place of residence of the party by whom the proceedings are to be instituted and the relief which the party claims.
 
 > 1 Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018) s. 9. w.e.f. 31-05-2018.
 
@@ -6306,7 +6665,7 @@ CONSTITUTION OF PAKISTAN
 
 250. (1) Within  two  years  from  the  commencing  day,  provision shall  be  made  by  law  for  determining  the  salaries,  allowances  and privileges of the President, the Speaker and Deputy Speaker and a member of  the  National  Assembly  or  a  Provincial  Assembly,  the  Chairman  and Deputy  Chairman  and  a  member  of  the  Senate,  the  Prime  Minister,  a Federal Minister, a Minister of State, 1 * * a Chief Minister, a Provincial Minister and the Chief Election Commissioner.
 
-- Until other provision is made by law,-
+(2) Until other provision is made by law,—
 
 (a) the salaries, allowances and privileges of the President, the Speaker  or  Deputy  Speaker  or  a  member  of  the  National Assembly or a Provincial Assembly, a Federal Minister, a Minister  of  State, 1 *    *  a  Chief  Minister,  a  Provincial Minister  and  the  Chief  Election  Commissioner  shall  be same as the salaries, allowances and privileges to which the President, the Speaker or Deputy Speaker or member of the National Assembly of Pakistan or a Provincial Assembly, a Federal Minister, a Minister of State, 1 * * a Chief Minister,
 
@@ -6374,7 +6733,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Maximum limits as to property, etc.
 
-(1) 1 [Majlis-e-Shoora (Parliament)] may by law-
+253. (1) 1 [Majlis-e-Shoora (Parliament)] may by law—
 
 (a) prescribe  the  maximum  limits  as  to  property  or  any  class thereof which may be owned, held, possessed or controlled by any person; and
 
@@ -6470,7 +6829,7 @@ CONSTITUTION OF PAKISTAN
 
 "Chairman" means the Chairman of the Senate and, except in Article 49, includes a person acting as Chairman of the Senate;
 
-- 4 ["Chief  Justice",  in  relation  to  the  Supreme  Court  or  a  High  Court, includes the Judge for the time being acting as Chief Justice of the Court;]
+4 ["Chief  Justice",  in  relation  to  the  Supreme  Court  or  a  High  Court, includes the Judge for the time being acting as Chief Justice of the Court;]
 
 "citizen" means a citizen of Pakistan as defined by law;
 
@@ -6526,7 +6885,7 @@ CONSTITUTION OF PAKISTAN
 
 "existing law" has the same meaning as in clause (7) of Article 268;
 
-" Federal law" means a law made by or under the authority of 2 [Majlise-Shoora (Parliament)];
+"Federal law" means a law made by or under the authority of 2 [Majlis-e-Shoora (Parliament)];
 
 "financial year" means a year commencing on the first day of July;
 
@@ -6554,7 +6913,7 @@ CONSTITUTION OF PAKISTAN
 
 "Judge" in relation to the Supreme Court or a High Court, includes the Chief Justice of the Court and also includes-
 
-(a) in relation to the Supreme Court, a person who is acting as a Judge of the Court; an
+(a) in relation to the Supreme Court, a person who is acting as a Judge of the Court; and
 
 (b) in relation to the High Court, a person who is an Additional Judge of the Court;
 
@@ -6620,15 +6979,13 @@ CONSTITUTION OF PAKISTAN
 
 [[START OF PAGE 170]]
 
-261.
-
 CONSTITUTION OF PAKISTAN
 
 finality of the Prophethood of Muhammad (peace be upon him), the last  of  the  prophets,  and  does  not  believe  in,  or recognize  as  a  prophet  or  religious  reformer,  any  person who claimed or claims to be a prophet, in any sense of the word  or  of  any  description  whatsoever,  after  Muhammad (peace be upon him); and
 
 (b) "non-Muslim"  means  a  person  who  is  not  a  Muslim  and includes a person belonging to the Christian, Hindu, Sikh, Budhist  or  Parsi  community,  a  person  of  the  Quadiani group or the Lahori group (who call themselves 'Ahmadis' or by any other name), or a Bahai, and a person belonging to any of the scheduled castes.]
 
-### Person  acting  in  office  not  to  be  regarded  as  successor  to previous occupant of office, etc.
+### 261. Person  acting  in  office  not  to  be  regarded  as  successor  to previous occupant of office, etc.
 
 261. For the purposes of the Constitution, a person who acts in an office shall not be regarded as the successor to the person who held that office before him or as the predecessor to the person who holds that office after him.
 
@@ -6642,17 +6999,15 @@ finality of the Prophethood of Muhammad (peace be upon him), the last  of  the  
 
 ### Gender and number
 
-- In the Constitution,-
+263. In the Constitution,—
 
 (a) words  importing  the  masculine  gender  shall  be  taken  to include females; and
 
 (b) words in the singular shall include the plural, and words in the plural shall include the singular.
 
-### Effect of repeal of laws
+### 264. Effect of repeal of laws
 
-264.
-
-264. Where a law is repealed, or is deemed to have been repealed, by, under,  or  by  virtue  of  the  Constitution,  the  repeal  shall  not,  except  as otherwise provided in the Constitution,-
+264. Where a law is repealed, or is deemed to have been repealed, by, under,  or  by  virtue  of  the  Constitution,  the  repeal  shall  not,  except  as otherwise provided in the Constitution,—
 
 (a) revive anything not in force or existing at the time at which the repeal takes effect;
 
@@ -6684,7 +7039,7 @@ and any such investigation, legal proceeding or remedy may be instituted, contin
 
 (2) Subject to clauses (3) and (4), the Constitution shall come into force on the fourteenth day of August, one thousand nine hundred and seventy-three or on such earlier day as the President may, by notification in  the  official  Gazette,  appoint,  in  the  Constitution  referred  to  as  the "commencing day".
 
-- The Constitution shall, to the extent necessary-
+(3) The Constitution shall, to the extent necessary—
 
 (a) for the constitution of the first Senate;
 
@@ -6714,9 +7069,7 @@ CONSTITUTION OF PAKISTAN
 
 ## CHAPTER 7. - TRANSITIONAL
 
-### Power of President to remove difficulties
-
-267.
+### 267. Power of President to remove difficulties
 
 267. (1) At  any  time  before  the  commencing  day  or  before  the expiration of three months from the commencing day, the President may, for the purpose of removing any difficulties, or for bringing the provisions of  the  Constitution  into  effective  operation,  by  Order,  direct  that  the provisions  of  the  Constitution  shall,  during  such  period  as  may  be specified in the Order, have effect, subject to such adaptations, whether by way  of  modification,  addition  or  omission,  as  he  may  deem  to  be necessary or expedient.
 
@@ -6796,7 +7149,7 @@ Explanation .-In  this  Article,  "in  force",  in  relation  to  any  law, mean
 
 ### Validation of law, acts, etc.
 
-269. (1) All Proclamations, President ' s Orders, Martial Law Regulations,  Martial  Law  Orders  and  all  other  laws  made  between  the twentieth day of December, one thousand nine hundred and seventy-one and the twentieth day of April, one thousand nine hundred and seventytwo  (both  days  inclusive),  are  hereby  declared  notwithstanding  any judgment of any court, to have been validly made by competent authority and shall not be called in question in any court on any ground whatsoever.
+269. (1) All Proclamations, President's Orders, Martial Law Regulations,  Martial  Law  Orders and all other laws made between the twentieth day of December, one thousand nine hundred and seventy-one and the twentieth day of April, one thousand nine hundred and seventy-two  (both  days  inclusive),  are  hereby  declared  notwithstanding  any judgment of any court, to have been validly made by competent authority and shall not be called in question in any court on any ground whatsoever.
 
 (2) All  orders  made,  proceedings  taken  and  acts  done  by  any authority, or by any person, which were made, taken or done, or purported to  have  been  made,  taken  or  done,  between  the  twentieth  day of December, one thousand nine hundred and seventy-one, and the twentieth day  of  April,  one  thousand  nine  hundred  and  seventy-two  (both  days inclusive), in exercise of the powers derived from any President's Orders, Martial Law Regulations, Martial Law Orders, enactments, notifications, rules, orders or bye-laws, or in execution of any orders made or sentences passed by any authority in the exercise or purported exercise of powers as aforesaid, shall, notwithstanding any judgment of any court, be deemed to be and always to have been validly made, taken or done and shall not be called in question in any court on any ground whatsoever.
 
@@ -6806,7 +7159,7 @@ Explanation .-In  this  Article,  "in  force",  in  relation  to  any  law, mean
 
 ### Temporary validation of certain laws, etc.
 
-270. (1) 1 [Majlis-e-Shoora  (Parliament)]  may  by  law  made  in  the manner  prescribed  for  legislation  for  a  matter  in  Part  I  of  the  Federal Legislative  List  validate  all  Proclamations,  President's  Orders,  Martial Law Regulations, Martial Law Orders and other laws made between the twenty-fifth day of March, one thousand nine hundred and sixty-nine, and the nineteenth day of December, one thousand nine hundred and seventyone (both days inclusive).
+270. (1) 1 [Majlis-e-Shoora  (Parliament)]  may  by  law  made  in  the manner  prescribed  for  legislation  for  a  matter  in  Part  I  of  the  Federal Legislative  List  validate  all  Proclamations,  President's  Orders,  Martial Law Regulations, Martial Law Orders and other laws made between the twenty-fifth day of March, one thousand nine hundred and sixty-nine, and the nineteenth day of December, one thousand nine hundred and seventy-one (both days inclusive).
 
 > 1 See footnote 6 on page 3, supra .
 
@@ -6822,7 +7175,7 @@ CONSTITUTION OF PAKISTAN
 
 (3) Notwithstanding the provisions of clause (1), and a judgment of any court to the contrary, for a period of two years from the commencing day, the validity of all such instruments as are referred to in clause (1) shall not be called in question before any court on any ground whatsoever.
 
-(4) All orders, made, proceedings taken, and acts done by any authority, or any person, which were made, taken or done, or purported to have been made, taken or done, between the twenty-fifth day of March, one thousand nine hundred and sixty-nine and nineteenth day of December,  one  thousand  nine  hundred  and  seventy-one  (both  days inclusive),  in  exercise  of  powers  derived  from  any  President's  Orders, Martial Law Regulations, Martial Law Orders, enactments, notifications, rules, orders or bye-laws, or in execution of any order made or sentence passed by any authority in the exercise or purported exercise of power as aforesaid shall, notwithstanding any judgment of any court, be deemed to be and always to have been validly made, taken or done, so however that any such order, proceeding or act may be declared invalid by 1 [Majlis-eShoora (Parliament)]  at  any  time  within  a  period  of  two  years  from  the commencing day by resolution of both Houses, or in case of disagreement between the two Houses, by such resolution passed at a joint sitting and shall not be called in question before any court on any ground, whatsoever.
+(4) All orders, made, proceedings taken, and acts done by any authority, or any person, which were made, taken or done, or purported to have been made, taken or done, between the twenty-fifth day of March, one thousand nine hundred and sixty-nine and nineteenth day of December,  one  thousand  nine  hundred  and  seventy-one  (both  days inclusive),  in  exercise  of  powers  derived  from  any  President's  Orders, Martial Law Regulations, Martial Law Orders, enactments, notifications, rules, orders or bye-laws, or in execution of any order made or sentence passed by any authority in the exercise or purported exercise of power as aforesaid shall, notwithstanding any judgment of any court, be deemed to be and always to have been validly made, taken or done, so however that any such order, proceeding or act may be declared invalid by 1 [Majlis-e-Shoora (Parliament)]  at  any  time  within  a  period  of  two  years  from  the commencing day by resolution of both Houses, or in case of disagreement between the two Houses, by such resolution passed at a joint sitting and shall not be called in question before any court on any ground, whatsoever.
 
 ### 270A. Affirmation of President's Orders, etc.
 
@@ -6832,7 +7185,7 @@ CONSTITUTION OF PAKISTAN
 
 > 2 Articles 270A and 270B ins. by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
-> 3 Article 270A subs. by the Constitution (Eighth Amdt.) Act. 1985 (18 of 1985) s. 19, for "Art. 270A" ( w.e.f. 30-12-1985) vide S.R.O. No. 1279(1)/85, dated 29-12-85 read with Proclamation of Withdrawal of Martial Law, dated 30-12-85, see Gaz. of Pak., 1985, Ext., Pt. 1. pp. 431-432.
+> 3 Article 270A subs. by the Constitution (Eighth Amdt.) Act. 1985 (18 of 1985) s. 19, for "Art. 270A" ( w.e.f. 30-12-1985) vide S.R.O. No. 1279(I)/85, dated 29-12-85 read with Proclamation of Withdrawal of Martial Law, dated 30-12-85, see Gaz. of Pak., 1985, Ext., Pt. I. pp. 431-432.
 
 > 4 Certain words omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 95.
 
@@ -6908,7 +7261,7 @@ CONSTITUTION OF PAKISTAN
 
 (5) No  suit,  prosecution  or  other  legal  proceedings  including writ petitions, shall lie in any court or forum against any authority or any person, for or on account of or in respect of any order made, Proceedings taken  or  act  done  whether  in  the  exercise  or  purported  exercise  of  the powers  referred  to  in  clause  (2)  or  clause  (4)  or  in  execution  of  or  in compliance with orders made or sentences passed in exercise or purported exercise of such powers.
 
-(6) Notwithstanding  omission  of  the  Concurrent  Legislative List by the Constitution (Eighteenth Amendment) Act, 2010, all laws with respect,  to  any  of  the  matters  enumerated  in  the  said  List  (including Ordinances,  Orders,  rules,  bye-laws,  regulations  and  notifications  and other legal instruments having the force of law) in force in Pakistan or any part thereof, or having extra-territorial operation, immediately before the commencement  of  the  Constitution  (Eighteenth  Amendment)  Act  2010, shall continue to remain in force until altered, repealed or amended by the competent authority.
+(6) Notwithstanding  omission  of  the  Concurrent  Legislative List by the Constitution (Eighteenth Amendment) Act, 2010, all laws with respect,  to  any  of  the  matters  enumerated  in  the  said  List  (including Ordinances,  Orders,  rules,  bye-laws,  regulations  and  notifications  and
 
 167
 
@@ -6917,6 +7270,8 @@ CONSTITUTION OF PAKISTAN
 [[START OF PAGE 179]]
 
 CONSTITUTION OF PAKISTAN
+
+other legal instruments having the force of law) in force in Pakistan or any part thereof, or having extra-territorial operation, immediately before the commencement  of  the  Constitution  (Eighteenth  Amendment)  Act  2010, shall continue to remain in force until altered, repealed or amended by the competent authority.
 
 (7) Notwithstanding anything contained in the Constitution, all taxes  and  fees  levied  under  any  law  in  force  immediately  before  the commencement of the  Constitution  (Eighteenth  Amendment)  Act,  2010, shall continue to be levied until they are varied or abolished by an Act of the appropriate legislature.
 
@@ -6946,9 +7301,9 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-271.
-
 1 * * * * * * * * *
+
+271.
 
 ### First National Assembly
 
@@ -7024,8 +7379,6 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-273.
-
 (b) the  members elected or  chosen as members of the Senate shall be divided into two groups by drawing of lots, the first group consisting of five members from each Province, two members  from  the  Federally  Administered  Tribal  Areas and one member from the Federal Capital and the second group consisting of five members from each Province one member  from  the  said  Areas  and  one  member  from  the Federal Capital;
 
 (c) the term of office of members of the first group and of the second  group  shall  respectively  be  two  years  and  four years;
@@ -7037,6 +7390,8 @@ CONSTITUTION OF PAKISTAN
 (f) as soon  as the first general election to the National Assembly is held, there shall be elected to the Senate four additional members from each Province and two additional members  from  the  Federally  Administered  Tribal  Areas; and
 
 (g) the  term  of  office  of  such  half  of  the  members  elected under  paragraph  (f)  as  may  be  determined  by  drawing  of lots shall be the unexpired term of office of the members of the first group and the term of office of the other half shall be the unexpired term of the members of the second group.
+
+273.
 
 ### First Provincial Assembly
 
@@ -7078,7 +7433,7 @@ Provided that no person holding an office of profit in the service of Pakistan  
 
 ### Vesting of property, assets, rights, liabilities and obligations
 
-274. (1) All  property  and  assets  which,  immediately  before  the commencing day, were vested in the President or the Federal Government shall, as from that day, vest in the Federal Government unless they were used for purposes which, on that day, became purposes of the Government of  a  Province,  in  which  case  they  shall,  as  from  that  day,  vest  in  the Government of the Province.
+274. (1) All  property  and  assets  which,  immediately  before  the
 
 > 1 Ins. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 11, (w.e.f. the 21st November, 1975).
 
@@ -7090,6 +7445,8 @@ Provided that no person holding an office of profit in the service of Pakistan  
 
 CONSTITUTION OF PAKISTAN
 
+commencing day, were vested in the President or the Federal Government shall, as from that day, vest in the Federal Government unless they were used for purposes which, on that day, became purposes of the Government of  a  Province,  in  which  case  they  shall,  as  from  that  day,  vest  in  the Government of the Province.
+
 (2) All  property  and  assets  which,  immediately  before  the commencing day, were vested in the Government of a Province, shall, as from that day, continue to be vested in the Government of that Province, unless they were used for purposes, which on that day, became purposes of the Federal Government in which case they shall, as from that day, vest in the Federal Government.
 
 (3) All rights, liabilities and obligations of the Federal Government or of the Government of a Province, whether arising out of contract or otherwise, shall as from the commencing day, continue to be respectively the rights, liabilities and obligations of the Federal Government or of the Government of the Province, except that -
@@ -7098,9 +7455,9 @@ CONSTITUTION OF PAKISTAN
 
 (b) all  rights,  liabilities  and  obligations  relating  to  any  matter which, immediately before that day, was the responsibility of  the  Government  of  a  Province,  but  which  under  the Constitution,  has  become the responsibility of the Federal Government, shall devolve upon the Federal Government.
 
-### Continuance in office of persons in service of Pakistan, etc.
-
 275.
+
+### Continuance in office of persons in service of Pakistan, etc.
 
 275. (1) Subject  to  the  Constitution  and  until  law  is  made  under Article  240  any  person  who,  immediately  before  the  commencing  day, was  in  the  service  of  Pakistan  shall,  as  from  that  day,  continue  in  the service of Pakistan on the same terms and conditions as were applicable to him  under  the  Interim  Constitution  of  the  Islamic  Republic  of  Pakistan immediately before that day.
 
@@ -7132,7 +7489,7 @@ CONSTITUTION OF PAKISTAN
 
 (4) Any  person  who,  under  this  Article,  is  continued  in  an office in respect of which a form of oath is set out in the Third Schedule shall, as soon as is practicable after the commencing day make before the appropriate person oath in that form.
 
-- Subject to the Constitution and law-
+(5) Subject to the Constitution and law—
 
 (a) all civil, criminal and revenue courts exercising jurisdiction and  functions  immediately  before  the  commencing  day shall, as from that day, continue to exercise their respective jurisdictions and functions; and
 
@@ -7170,9 +7527,9 @@ CONSTITUTION OF PAKISTAN
 
 (c) any reference in those provisions to the Federal Consolidated  Fund  shall  be  read  as  a  reference  to  the Provincial Consolidated Fund of the Province.
 
-### Accounts not audited before commencing day
-
 278.
+
+### Accounts not audited before commencing day
 
 278. The Auditor-General shall perform the same functions and exercise the same powers in relation to accounts which have not been completed or audited before the commencing day as. by virtue of the Constitution, he is empowered  to  perform  or  exercise  in  relation  to  other  accounts,  and Article 171 shall, with the necessary modifications, apply accordingly.
 
@@ -7180,7 +7537,7 @@ CONSTITUTION OF PAKISTAN
 
 ### Continuance of taxes
 
-- Notwithstanding anything contained in  the  Constitution,  all  taxes
+279. Notwithstanding anything contained in the Constitution, all taxes
 
 175
 
@@ -7215,6 +7572,8 @@ CONSTITUTION OF PAKISTAN
 (Article 2A)
 
 ## The Objectives Resolution
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 (In the name of Allah, the most beneficent, the most merciful.)
 
@@ -7274,29 +7633,29 @@ CONSTITUTION OF PAKISTAN
 
 ## I.   President's Orders
 
-- The Acceding State (Property) Order, 1961 (P. O. No. 12 of 1961).
+1. The Acceding State (Property) Order, 1961 (P. O. No. 12 of 1961).
 
-- The Economic Reforms Order, 1972 (P. O. No. 1 of 1972).
+2. The Economic Reforms Order, 1972 (P. O. No. 1 of 1972).
 
 ## II.   Regulations
 
-- The Land Reforms Regulation, 1972.
+1. The Land Reforms Regulation, 1972.
 
-- The  Land  Reforms  (Balochistan  Pat  Feeder  Canal)  Regulation, 1972.
+2. The Land Reforms (Balochistan Pat Feeder Canal) Regulation, 1972.
 
-- The  Economic  Reforms  (Protection  of  Industries)  Regulation, 1972.
+3. The Economic Reforms (Protection of Industries) Regulation, 1972.
 
-- The  Distribution  of  Property  (Chitral)  Regulation,  1974  (II  of 1974).
+4. The Distribution of Property (Chitral) Regulation, 1974 (II of 1974).
 
-- The  Settlement  of  Disputes  of  Immovable  Property  (Chitral) Regulation, 1974 (III of 1974).
+5. The Settlement of Disputes of Immovable Property (Chitral) Regulation, 1974 (III of 1974).
 
-- The  Dir  and  Swat  (Devolution  and  Distribution  of  Property  and Settlement of Disputes of Immovable Property) (Amendment) Regulation, 1975 (II of 1975).
+6. The Dir and Swat (Devolution and Distribution of Property and Settlement of Disputes of Immovable Property) (Amendment) Regulation, 1975 (II of 1975).
 
 - 2 [7. The  Settlement  of  Disputes  of  Immovable  Property  (Chitral) (Amendment) Regulation, 1976 (II of 1976)].
 
 ## III. Federal Acts
 
-- The Land Reforms (Amendment) Act, 1974         (XXX of 1974).
+1. The Land Reforms (Amendment) Act, 1974 (XXX of 1974).
 
 > 1 The First Schedule as amended by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 17, ( w.e.f. the 4th May, 1974), has been subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 12, ( w.e.f . the 21st November, 1975).
 
@@ -7310,19 +7669,19 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-- The Land Reforms (Amendment) Act, 1975       (XXXIX of 1975).
+2. The Land Reforms (Amendment) Act, 1975 (XXXIX of 1975).
 
 - 1 [3. The Flour Milling Control and Development Act, 1976 (LVII  of 1976).
 
-- The Rice Milling Control and Development Act, 1976 (LVIII  of 1976).
+4. The Rice Milling Control and Development Act, 1976 (LVIII of 1976).
 
-- The Cotton Ginning Control and Development Act, 1976 (LIX of 1976).]
+5. The Cotton Ginning Control and Development Act, 1976 (LIX of 1976).]
 
 - 2 [ * * * * * * * * *]
 
 - 3 [6. The Pakistan Army Act, 1952 (XXXIX of 1952).
 
-- The Anti-Terrorism Act, 1997 (XXVII of 1997), only to the extent of sub-clause (iv) of clause (d) of sub-section (1) of section 2 of the Pakistan Army Act, 1952 (XXXIX of 1952), added through the Pakistan Army (Amendment) Act, 2017 (XI of 2017).]
+7. The Anti-Terrorism Act, 1997 (XXVII of 1997), only to the extent of sub-clause (iv) of clause (d) of sub-section (1) of section 2 of the Pakistan Army Act, 1952 (XXXIX of 1952), added through the Pakistan Army (Amendment) Act, 2017 (XI of 2017).]
 
 ## IV.   Ordinance Promulgated by the President
 
@@ -7330,9 +7689,9 @@ The Land Reforms (Amendment) Ordinance, 1975 (XXI of 1975), and the Federal Act 
 
 ## V.    Provincial Acts
 
-- The Land Reforms (Balochistan Amendment) Act, 1974 (Balochistan Act XI of 1974).
+1. The Land Reforms (Balochistan Amendment) Act, 1974 (Balochistan Act XI of 1974).
 
-- The  Land  Reforms  (Pat  Feeder  Canal  Regulation)  (Amendment) Act, 1975 (Balochistan Act VII of 1975).
+2. The Land Reforms (Pat Feeder Canal Regulation) (Amendment) Act, 1975 (Balochistan Act VII of 1975).
 
 ## 4 [VI. Provincial Ordinance
 
@@ -7360,41 +7719,41 @@ CONSTITUTION OF PAKISTAN
 
 ## I.   President's Orders
 
-- The Minerals (Acquisition and Transfer) Order, 1961 (P. O. No. 8 of 1961).
+1. The Minerals (Acquisition and Transfer) Order, 1961 (P. O. No. 8 of 1961).
 
-- The  Companies  (Managing  Agency  and  Election  of  Directors) Order, 1972 (P. O. No. 2 of 1972).
+2. The Companies (Managing Agency and Election of Directors) Order, 1972 (P. O. No. 2 of 1972).
 
-- The Co-operative Societies (Reforms) Order, 1972 (P. O. No. 9 of 1972).
+3. The Co-operative Societies (Reforms) Order, 1972 (P. O. No. 9 of 1972).
 
-- The Life Insurance (Nationalization) Order, 1972 (P. O. No. 10 of 1972).
+4. The Life Insurance (Nationalization) Order, 1972 (P. O. No. 10 of 1972).
 
-- The Martial Law (Pending Proceedings) Order, 1972 (P. O. No. 14 of 1972).
+5. The Martial Law (Pending Proceedings) Order, 1972 (P. O. No. 14 of 1972).
 
-- The  Rulers  of  Acceding  States  (Abolition  of  Privy  Purses  and Privileges) Order, 1972 (P. O. No. 15 of 1972).
+6. The Rulers of Acceding States (Abolition of Privy Purses and Privileges) Order, 1972 (P. O. No. 15 of 1972).
 
-- The Industrial Sanctions and Licences (Cancellation) Order, 1972 (P. O. No. 16 of 1972).
+7. The Industrial Sanctions and Licences (Cancellation) Order, 1972 (P. O. No. 16 of 1972).
 
-- The Criminal Law Amendment (Special Court) Order, 1972 (P. O. No. 20 of 1972).
+8. The Criminal Law Amendment (Special Court) Order, 1972 (P. O. No. 20 of 1972).
 
 ## II.   Regulations
 
-- Rawalpindi (Requisition of Property) Regulation, 1959.
+1. Rawalpindi (Requisition of Property) Regulation, 1959.
 
-- The Pakistan Capital Regulation, 1960.
+2. The Pakistan Capital Regulation, 1960.
 
-- The Scrutiny of Claims (Evacuee Property) Regulation, 1961.
+3. The Scrutiny of Claims (Evacuee Property) Regulation, 1961.
 
-- The  Income  Tax  (Correction  of  Returns  and  False  Declaration) Regulation, 1969.
+4. The Income Tax (Correction of Returns and False Declaration) Regulation, 1969.
 
-- The Improper Acquisition of Property Regulation, 1969.
+5. The Improper Acquisition of Property Regulation, 1969.
 
-- The Removal from Service (Special Provisions) Regulation, 1969.
+6. The Removal from Service (Special Provisions) Regulation, 1969.
 
-- The  Living  Beyond  Ostensible  Means  (Punishment)  Regulation, 1969.
+7. The Living Beyond Ostensible Means (Punishment) Regulation, 1969.
 
-- The Government Agricultural Land (Recovery of Illegal Possession) Regulation, 1969.
+8. The Government Agricultural Land (Recovery of Illegal Possession) Regulation, 1969.
 
-- The Enemy  Property (Payment of  Money Due to Enemy) Regulation, 1970.
+9. The Enemy Property (Payment of Money Due to Enemy) Regulation, 1970.
 
 181
 
@@ -7404,41 +7763,41 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-- The Withdrawal of Currency Notes (High Denomination) Regulation, 1971.
+10. The Withdrawal of Currency Notes (High Denomination) Regulation, 1971.
 
-- The  Price  of  Evacuee  Property  and  Public  Dues  (Recovery) Regulation, 1971.
+11. The Price of Evacuee Property and Public Dues (Recovery) Regulation, 1971.
 
-- The Peshawar District and Tribal Areas (Settlement of Disputes) Regulation, 1971.
+12. The Peshawar District and Tribal Areas (Settlement of Disputes) Regulation, 1971.
 
-- The Convention Muslim League and Awami League (Scrutiny of Funds) Regulation, 1971.
+13. The Convention Muslim League and Awami League (Scrutiny of Funds) Regulation, 1971.
 
-- The Foreign Exchange Repatriation Regulation, 1972.
+14. The Foreign Exchange Repatriation Regulation, 1972.
 
-- The Foreign Assets (Declaration) Regulation, 1972.
+15. The Foreign Assets (Declaration) Regulation, 1972.
 
-- The Removal from Service (Review Petition) Regulation, 1972.
+16. The Removal from Service (Review Petition) Regulation, 1972.
 
-- The  privately  Managed  Schools  and  Colleges  (Taking  Over) Regulation, 1972.
+17. The privately Managed Schools and Colleges (Taking Over) Regulation, 1972.
 
-- The Enemy Property (Revocation of Sales) Regulation, 1972.
+18. The Enemy Property (Revocation of Sales) Regulation, 1972.
 
-- The  Dir  and  Swat  (Devolution  and  Distribution  of  Property) Regulation, 1972.
+19. The Dir and Swat (Devolution and Distribution of Property) Regulation, 1972.
 
-- The Dir and Swat (Settlement of Disputes of Immovable Property) Regulation, 1972.
+20. The Dir and Swat (Settlement of Disputes of Immovable Property) Regulation, 1972.
 
-- The West Pakistan Industrial Development Corporation (Revocation of Sale or Transfer) Regulation, 1972.
+21. The West Pakistan Industrial Development Corporation (Revocation of Sale or Transfer) Regulation, 1972.
 
-- The  National  Press  Trust  (Suspension  of  Board  of  Trustees  and Directors) Regulation, 1972.
+22. The National Press Trust (Suspension of Board of Trustees and Directors) Regulation, 1972.
 
-- The Co-operative Banks (Repayment of Loans) (Punjab) Regulation, 1972.
+23. The Co-operative Banks (Repayment of Loans) (Punjab) Regulation, 1972.
 
-- The Co-operative Societies (Repayment of Loans) (Sindh) Regulation, 1972.
+24. The Co-operative Societies (Repayment of Loans) (Sindh) Regulation, 1972.
 
 ## III.    Ordinances Promulgated by the President
 
-- The Control of Shipping Ordinance, 1959 (XIII of 1959).
+1. The Control of Shipping Ordinance, 1959 (XIII of 1959).
 
-- The Jammu and Kashmir (Administration of Property) Ordinance, 1961 (III of 1961).
+2. The Jammu and Kashmir (Administration of Property) Ordinance, 1961 (III of 1961).
 
 182
 
@@ -7448,13 +7807,13 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-- The Muslim Family Laws Ordinance, 1961 (VIII of 1961).
+3. The Muslim Family Laws Ordinance, 1961 (VIII of 1961).
 
-- The Security of Pakistan (Amendment) Ordinance, 1961 (XIV of 1961).
+4. The Security of Pakistan (Amendment) Ordinance, 1961 (XIV of 1961).
 
-- The Associated Press of Pakistan (Taking Over) Ordinance, 1961 (XX of 1961).
+5. The Associated Press of Pakistan (Taking Over) Ordinance, 1961 (XX of 1961).
 
-- The Trade Organisations Ordinance, 1961 (XLV of 1961).
+6. The Trade Organisations Ordinance, 1961 (XLV of 1961).
 
 ## IV.    Federal Acts
 
@@ -7462,21 +7821,21 @@ The Censorship of Films Act, 1963 (XVIII of 1963).
 
 ## V.   Ordinances Promulgated by the Governor of Former Province of West Pakistan
 
-- The West Pakistan Government Educational and Training Institutions Ordinance, 1960 (W.P. Ordinance No. XI of 1960).
+1. The West Pakistan Government Educational and Training Institutions Ordinance, 1960 (W.P. Ordinance No. XI of 1960).
 
-- The  West Pakistan Wakf  Properties Ordinance, 1961 (W.P. Ordinance No. XXVIII of 1961).
+2. The West Pakistan Wakf Properties Ordinance, 1961 (W.P. Ordinance No. XXVIII of 1961).
 
-- The Societies Registration (West Pakistan Amendment) Ordinance, 1962 (W.P. Ordinance No. IX of 1962).
+3. The Societies Registration (West Pakistan Amendment) Ordinance, 1962 (W.P. Ordinance No. IX of 1962).
 
-- The  West  Pakistan  Industries  (Control  on  Establishment  and Enlargement) Ordinance, 1963 (W.P. Ordinance No. IV of 1963).
+4. The West Pakistan Industries (Control on Establishment and Enlargement) Ordinance, 1963 (W.P. Ordinance No. IV of 1963).
 
 ## VI.   Ordinances Promulgated by the Governor of the North-West Frontier Province
 
-- The  North-West  Frontier  Province  Government  Educational  and Training  Institutions  Ordinance,  1971  (N.W.F.P.  Ordinance  No.  III  of 1971).
+1. The North-West Frontier Province Government Educational and Training Institutions Ordinance, 1971 (N.W.F.P. Ordinance No. III of 1971).
 
-- The  North-West  Frontier  Province  Chashma  Right  Bank  Canal Project (Control and Prevention of Speculation in Land) Ordinance, 1971 (N.W.F.P. Ordinance No. V of 1971).
+2. The North-West Frontier Province Chashma Right Bank Canal Project (Control and Prevention of Speculation in Land) Ordinance, 1971 (N.W.F.P. Ordinance No. V of 1971).
 
-- The  North-West  Frontier  Province  Gomal  Zam  Project  (Control and  Prevention  of  Speculation  in  Land)  Ordinance,  1971  (N.W.F.P. Ordinance No. VIII of 1971).]
+3. The North-West Frontier Province Gomal Zam Project (Control and Prevention of Speculation in Land) Ordinance, 1971 (N.W.F.P. Ordinance No. VIII of 1971).]
 
 ___________
 
@@ -7500,7 +7859,7 @@ CONSTITUTION OF PAKISTAN
 
 3. The Chief Election Commissioner shall by public notification fix the time and place for depositing nomination papers, holding a scrutiny, making withdrawals, if any, and holding the poll, if necessary.
 
-4. At  any  time  before  noon  on  the  day  fixed  for  nomination  any member of the Majlis-e-Shoora (Parliament) or of a Provincial Assembly may nominate for election as President a person qualified for election as President  by  delivering  to  the  Presiding  Officer  a  nomination  paper, signed  by  himself  as  proposer  and  by  another  member  of  the  Majlis-eShoora  (Parliament)  or,  as  the  case  may  be  Assembly  as  seconder, together with a statement signed by the person nominated that he concents to the nomination:
+4. At any time before noon on the day fixed for nomination any member of the Majlis-e-Shoora (Parliament) or of a Provincial Assembly may nominate for election as President a person qualified for election as President by delivering to the Presiding Officer a nomination paper, signed by himself as proposer and by another member of the Majlis-e-Shoora (Parliament) or, as the case may be Assembly as seconder, together with a statement signed by the person nominated that he concents to the nomination:
 
 Provided that no person shall subscribe, whether as proposer or as seconder, more than one nomination paper at any one election.
 
@@ -7550,7 +7909,7 @@ CONSTITUTION OF PAKISTAN
 
 15. If a ballot paper is spoiled by a person voting he may return it to the Presiding Officer, who shall issue a second ballot paper, canceling the first ballot paper and marking the cancellation on the appropriate counterfoil.
 
-- A ballot paper shall be invalid if-
+16. A ballot paper shall be invalid if—
 
 (i) there is upon it any name, word or mark, by which the person voting may be identified; or
 
@@ -7582,7 +7941,7 @@ CONSTITUTION OF PAKISTAN
 
 Explanation .-In  this  paragraph,  "total  number  of  seats"  includes seats reserved for non-Muslims and women.
 
-- A fraction shall be rounded off to the nearest whole.
+(2) A fraction shall be rounded off to the nearest whole.
 
 19. The  candidate  who  has  obtained  the  largest  number  of  votes compiled in the manner specified in paragraph 18 shall be declared by the Chief Election Commissioner to be elected.
 
@@ -7612,6 +7971,8 @@ CONSTITUTION OF PAKISTAN
 
 [ Article 42 ]
 
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,  ____________________________,  do  solemnly  swear  that  I  am  a Muslim  and  believe  in  the  Unity  and  Oneness  of  Almighty  Allah,  the Books of Allah, the Holy Quran being the last of them, the Prophethood of Muhammad (peace be upon him) as the last of the Prophets and that there can  be  no  Prophet after him,  the  Day  of  Judgement,  and  all  the requirements and teachings of the Holy Quran and Sunnah.
@@ -7630,7 +7991,7 @@ That, in all circumstances, I will do right to all manner of people, according t
 
 And that I will not directly or indirectly communicate or reveal to any person any matter which shall be brought under my consideration or shall  become  known  to  me  as  President  of  Pakistan,  except  as  may  be required for the due discharge of my duties as President.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -7647,6 +8008,8 @@ CONSTITUTION OF PAKISTAN
 ### PRIME MINISTER
 
 [Article 91 1 [(5)]]
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
@@ -7666,7 +8029,7 @@ That, in all circumstances, I will do right to all manner of people, according t
 
 And that I will not directly or indirectly communicate or reveal to any person any matter which shall be brought under my consideration or shall become known to me as Prime Minister, except as may be required for the due discharge of my duties as Prime Minister.
 
-2 [May Allah Almighty help and guide me (A'meen).]
+2 [May Allah Almighty help and guide me (A’meen).]
 
 __________
 
@@ -7686,6 +8049,8 @@ CONSTITUTION OF PAKISTAN
 
 [Article 92 (2)]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I, _________________________________ do solemnly swear that I will bear true faith and allegiance to Pakistan :
@@ -7702,7 +8067,7 @@ That, in all circumstances, I will do right to all manner of people, according t
 
 And that I will not directly or indirectly communicate or reveal to any person any matter which shall be brought under my consideration or shall  become  known  to  me  as  Federal  Minister  (or  Minister  of  State), except as may be required for the due discharge of my duties as Federal Minister  (or  Minister  of  State),  or  as  may  be  specially  permitted  by  the Prime Minister.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -7720,6 +8085,8 @@ CONSTITUTION OF PAKISTAN
 
 [ Articles 53(2) and 61 ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful)
 
 I,___________________________________,  do  solemnly  swear that I will bear true faith and allegiance to Pakistan :
@@ -7734,7 +8101,7 @@ That  I  will  preserve,  protect  and  defend  the  Constitution  of  the Islam
 
 And  that,  in  all  circumstances,  I  will  do  right  to  all  manner  of people, according to law, without fear or favour, affection or ill-will.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -7752,6 +8119,8 @@ CONSTITUTION OF PAKISTAN
 
 [ Articles 53 (2) and 61 ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,__________________________________,  do solemnly swear that I will bear true faith and allegiance to Pakistan :
@@ -7766,7 +8135,7 @@ That  I  will  preserve,  protect  and  defend  the  Constitution  of  the Islam
 
 And  that,  in  all  circumstances,  I  will  do  right  to  all  manner  of people, according to law, without fear or favour, affection or ill-will.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -7784,6 +8153,8 @@ CONSTITUTION OF PAKISTAN
 
 [ Article 65 ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,___________________________________,  do  solemnly  swear that I will bear true faith and allegiance to Pakistan :
@@ -7794,7 +8165,7 @@ That  I  will  strive  to  preserve  the  Islamic  Ideology  which  is  the basi
 
 And that I will preserve, protect and defend the Constitution of the Islamic Republic of Pakistan.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 __________
 
@@ -7812,6 +8183,8 @@ CONSTITUTION OF PAKISTAN
 
 [Article 102]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,____________________________________, do solemnly swear that I will bear true faith and allegiance to Pakistan :
@@ -7828,7 +8201,7 @@ That, in all circumstances, I will do right to all manner of people, according t
 
 And that I will not directly or indirectly communicate or reveal to any person any matter which shall be brought under my consideration or shall become known to me as Governor of the Province of ……………..………except as may be required for the due discharge of my duties as Governor.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 > 1 Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
@@ -7843,6 +8216,8 @@ CONSTITUTION OF PAKISTAN
 ### CHIEF MINISTER OR PROVINCIAL MINISTER
 
 [ Articles 1 [130 (5)] and 132 (2) ]
+
+بسم الله الرحمن الرحيم
 
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
@@ -7860,7 +8235,7 @@ That, in all circumstances, I will do right to all manner of people, according t
 
 And that I will not directly or indirectly communicate or reveal to any person any matter which shall be brought under my consideration or shall become known to me as Chief Minister (or Minister) except as may be  required  for  the  due  discharge  of  my  duties  as  Chief  Minister  (or Minister or as may be specially permitted by the Chief Minister).
 
-2 [May Allah Almighty help and guide me (A'meen).]
+2 [May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -7880,6 +8255,8 @@ CONSTITUTION OF PAKISTAN
 
 [ Articles 53(2) and 127 ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,_________________________________, do solemnly swear that I will bear true faith and allegiance to Pakistan:
@@ -7894,7 +8271,7 @@ That  I  will  preserve,  protect  and  defend  the  Constitution  of  the Islam
 
 And  that,  in  all  circumstances,  I  will  do  right  to  all  manner  of people, according to law, without fear or favour, affection or ill-will.
 
-2 [May Allah Almighty help and guide me (A'meen).]
+2 [May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -7914,6 +8291,8 @@ CONSTITUTION OF PAKISTAN
 
 [ Articles 53 (2) and 127 ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,________________________________, do solemnly swear that I will bear true faith and allegiance to Pakistan:
@@ -7928,7 +8307,7 @@ That  I  will  preserve,  protect  and  defend  the  Constitution  of  the Islam
 
 And  that,  in  all  circumstances,  I  will  do  right  to  all  manner  of people, according to law, without fear or favour, affection or ill-will.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -7946,6 +8325,8 @@ CONSTITUTION OF PAKISTAN
 
 [ Articles 65 and 127 ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,_____________________________,  do  solemnly  swear  that  I will bear true faith and allegiance to Pakistan:
@@ -7956,7 +8337,7 @@ That  I  will  strive  to  preserve  the  Islamic  Ideology  which  is  the basi
 
 And that I will preserve, protect and defend the Constitution of the Islamic Republic of Pakistan :
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -7974,13 +8355,15 @@ CONSTITUTION OF PAKISTAN
 
 [ Article 168 (2) ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,________________________________, do solemnly swear that I will bear true faith and allegiance to Pakistan:
 
 That, as  Auditor-General of Pakistan,  I will discharge my duties, and  perform  my  functions,  honestly,  faithfully,  in  accordance  with  the Constitution of the Islamic Republic of Pakistan, and the law and to the best  of  my  knowledge,  ability  and  judgement,  without  fear  or  favour, affection  or  ill-will,  and  that  I  will  not  allow  my  personal  interest  to influence my official conduct or my official decisions.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 ____________
 
@@ -7998,6 +8381,8 @@ CONSTITUTION OF PAKISTAN
 
 [ Articles 178 and 194 ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,_______________________________, do solemnly swear that I will bear true faith and allegiance to Pakistan:
@@ -8012,7 +8397,7 @@ That  I  will  preserve,  protect  and  defend  the  Constitution  of  the Islam
 
 And  that,  in  all  circumstances,  I  will  do  right  to  all  manner  of people, according to law, without fear or favour, affection or ill-will.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -8030,6 +8415,8 @@ CONSTITUTION OF PAKISTAN
 
 [ Article 203C (7) ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,_______________________________, do solemnly swear that I will bear true faith and allegiance to Pakistan :
@@ -8044,7 +8431,7 @@ That  I  will  preserve,  protect  and  defend  the  Constitution  of  the Islam
 
 And  that,  in  all  circumstances,  I  will  do  right  to  all  manner  of people, according to law, without fear or favour, affection or ill-will.
 
-May Allah Almighty help and guide me (A'meen).]
+May Allah Almighty help and guide me (A’meen).]
 
 ___________
 
@@ -8062,11 +8449,13 @@ CONSTITUTION OF PAKISTAN
 
 [ Article 214 ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,________________________________,  do  solemnly  swear  that as Chief Election Commissioner 1 [or, as the case may be, member of the Election Commission of Pakistan] I will discharge my duties, and perform my functions, honestly, to the best of my ability, faithfully, in accordance with the Constitution of the Islamic Republic of Pakistan and the law, and without fear or favour, affection or ill-will, and that I will not allow my personal interest to influence my official conduct or my official decisions.
 
-2 [May Allah Almighty help and guide me (A'meen).]
+2 [May Allah Almighty help and guide me (A’meen).]
 
 __________
 
@@ -8086,11 +8475,13 @@ CONSTITUTION OF PAKISTAN
 
 [ Article 244 ]
 
+بسم الله الرحمن الرحيم
+
 (In the name of Allah, the most Beneficent, the most Merciful.)
 
 I,_______________________________, do solemnly swear that I will bear true faith and allegiance to Pakistan and uphold the Constitution of the Islamic Republic of Pakistan which embodies the will of the people, that I will not engage myself in any political activities whatsoever and that I will honestly and faithfully serve Pakistan in the Pakistan Army (or Navy or Air Force) as required by and under the law.
 
-1 [May Allah Almighty help and guide me (A'meen).]
+1 [May Allah Almighty help and guide me (A’meen).]
 
 > 1 Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
@@ -8112,21 +8503,21 @@ CONSTITUTION OF PAKISTAN
 
 # PART I
 
-- The defence of the Federation or any part thereof in peace or war; the military, naval  and  air forces of the  Federation and  any other armed forces raised or maintained by the Federation ; any armed forces which are not forces of the Federation but are attached to or operating with any of the Armed Forces of the Federation including civil Armed Forces; Federal Intelligence  Bureau;  preventive  detention  for  reasons  of  State  connected with  defence,  external  affairs,  or  the  security  of  Pakistan  or  any  part thereof  ;  persons  subjected  to  such  detention;  industries  declared  by Federal  law  to  be  necessary  for  the  purpose  of  defence  or  for  the prosecution of war.
+1. The defence of the Federation or any part thereof in peace or war; the military, naval  and  air forces of the  Federation and  any other armed forces raised or maintained by the Federation ; any armed forces which are not forces of the Federation but are attached to or operating with any of the Armed Forces of the Federation including civil Armed Forces; Federal Intelligence  Bureau;  preventive  detention  for  reasons  of  State  connected with  defence,  external  affairs,  or  the  security  of  Pakistan  or  any  part thereof  ;  persons  subjected  to  such  detention;  industries  declared  by Federal  law  to  be  necessary  for  the  purpose  of  defence  or  for  the prosecution of war.
 
-- Military,  naval  and  air  force  works;  local  self-government  in cantonment  areas,  the  constitution  and  powers  within  such  areas  of cantonment  authorities,  the  regulation  of  house  accommodation  in  such areas, and the delimitation of such areas.
+2. Military,  naval  and  air  force  works;  local  self-government  in cantonment  areas,  the  constitution  and  powers  within  such  areas  of cantonment  authorities,  the  regulation  of  house  accommodation  in  such areas, and the delimitation of such areas.
 
-- External  affairs;  the  implementing  of  treaties  and  agreements, including  educational  and  cultural  pacts  and  agreements,  with  other countries;  extradition,  including  the  surrender  of  criminals  and  accused persons to Governments outside Pakistan.
+3. External  affairs;  the  implementing  of  treaties  and  agreements, including  educational  and  cultural  pacts  and  agreements,  with  other countries;  extradition,  including  the  surrender  of  criminals  and  accused persons to Governments outside Pakistan.
 
-- Nationality, citizenship and naturalisation.
+4. Nationality, citizenship and naturalisation.
 
-- Migration from or into, or settlement in, a Province or the Federal Capital.
+5. Migration from or into, or settlement in, a Province or the Federal Capital.
 
-- Admission  into,  and  emigration  and  expulsion  from,  Pakistan, including in relation thereto the regulation of the movements in Pakistan of  persons  not  domiciled  in  Pakistan,  pilgrimages  to  places  beyond Pakistan.
+6. Admission  into,  and  emigration  and  expulsion  from,  Pakistan, including in relation thereto the regulation of the movements in Pakistan of  persons  not  domiciled  in  Pakistan,  pilgrimages  to  places  beyond Pakistan.
 
-- Posts and telegraphs, including telephones, wireless, broadcasting and other like forms of communications; Post Office Saving Bank.
+7. Posts and telegraphs, including telephones, wireless, broadcasting and other like forms of communications; Post Office Saving Bank.
 
-- Currency, coinage and legal tender.
+8. Currency, coinage and legal tender.
 
 204
 
@@ -8144,9 +8535,9 @@ CONSTITUTION OF PAKISTAN
 
 12. Federal pensions, that is to say, pensions payable by the Federation or out of the Federal Consolidated Fund.
 
-- Federal Ombudsman.
+13. Federal Ombudsman.
 
-- Administrative Courts and Tribunals for Federal subjects.
+14. Administrative Courts and Tribunals for Federal subjects.
 
 15. Libraries, museums, and similar institutions controlled or financed by the Federation.
 
@@ -8154,7 +8545,7 @@ CONSTITUTION OF PAKISTAN
 
 17. Education  as  respects  Pakistani  students  in  foreign  countries  and foreign students in Pakistan.
 
-18. Nuclear energy, including-
+18. Nuclear energy, including—
 
 (a) mineral  resources  necessary  for  the  generation  of  nuclear energy;
 
@@ -8162,7 +8553,7 @@ CONSTITUTION OF PAKISTAN
 
 (c) ionizing radiations. 1 [; and]
 
-- 2 [(d) boilers.]
+2 [(d) boilers.]
 
 19. Port  quarantine,  seamen's  and  marine  hospitals  and  hospitals connected with port quarantine.
 
@@ -8182,27 +8573,27 @@ CONSTITUTION OF PAKISTAN
 
 1 * * * * * * * * * *
 
-- Aircraft and air navigation; the provision of aerodromes; regulation and organisation of air traffic and of aerodromes.
+22. Aircraft and air navigation; the provision of aerodromes; regulation and organisation of air traffic and of aerodromes.
 
-- Lighthouses, including lightships, beacons and other provisions for the safety of shipping and aircraft.
+23. Lighthouses, including lightships, beacons and other provisions for the safety of shipping and aircraft.
 
-- Carriage of passengers and goods by sea or by air.
+24. Carriage of passengers and goods by sea or by air.
 
-- Copyright, inventions, designs, trade-marks and merchandise marks.
+25. Copyright, inventions, designs, trade-marks and merchandise marks.
 
-- Opium so far as regards sale for export.
+26. Opium so far as regards sale for export.
 
-- Import  and  export  across  customs  frontiers  as  defined  by  the Federal  Government,  inter-provincial  trade  and  commerce,  trade  and commerce  with  foreign  countries;  standard  of  quality  of  goods  to  be exported out of Pakistan.
+27. Import  and  export  across  customs  frontiers  as  defined  by  the Federal  Government,  inter-provincial  trade  and  commerce,  trade  and commerce  with  foreign  countries;  standard  of  quality  of  goods  to  be exported out of Pakistan.
 
-- State  Bank  of  Pakistan;  banking,  that  is  to  say,  the  conduct  of banking  business  by  corporations  other  than  corporations  owned  or controlled  by  a  Province  and  carrying  on  business  only  within  that Province.
+28. State  Bank  of  Pakistan;  banking,  that  is  to  say,  the  conduct  of banking  business  by  corporations  other  than  corporations  owned  or controlled  by  a  Province  and  carrying  on  business  only  within  that Province.
 
-- The law of insurance, except as respects insurance undertaken by a Province, and the regulation of the conduct of insurance business, except as  respects  business  undertaken  by  a  Province;  Government  insurance, except so far as undertaken by a Province by virtue of any matter within the legislative competence of the Provincial Assembly.
+29. The law of insurance, except as respects insurance undertaken by a Province, and the regulation of the conduct of insurance business, except as  respects  business  undertaken  by  a  Province;  Government  insurance, except so far as undertaken by a Province by virtue of any matter within the legislative competence of the Provincial Assembly.
 
-- Stock exchanges and futures markets with objects and business not confined to one Province.
+30. Stock exchanges and futures markets with objects and business not confined to one Province.
 
-- Corporations,  that  is  to  say,  the  incorporation,  regulation  and winding-up  of  trading  corporations,  including  banking,  insurance  and financial corporations, but not including corporations owned or controlled by  a  Province  and  carrying  on  business  only  within  that  Province,  or cooperative  societies,  and  of  corporations,  whether  trading  or  not,  with objects not confined to a Province, but not including universities.
+31. Corporations,  that  is  to  say,  the  incorporation,  regulation  and winding-up  of  trading  corporations,  including  banking,  insurance  and financial corporations, but not including corporations owned or controlled by  a  Province  and  carrying  on  business  only  within  that  Province,  or cooperative  societies,  and  of  corporations,  whether  trading  or  not,  with objects not confined to a Province, but not including universities.
 
-- 2 [32. International treaties, conventions and agreements and International arbitration.]
+2 [32. International treaties, conventions and agreements and International arbitration.]
 
 > 1 Entry '21' omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101.
 
@@ -8216,137 +8607,37 @@ CONSTITUTION OF PAKISTAN
 
 CONSTITUTION OF PAKISTAN
 
-1
+1 * * * * * * * * * *
 
-*
+34. National highways and strategic roads.
 
-*
+35. Federal surveys including geological surveys and Federal meteorological organisations.
 
-*
+36. Fishing and fisheries beyond territorial waters.
 
-*
+37. Works,  lands  and  buildings  vested  in,  or  in  the  possession  of Government for the purposes of the Federation (not being military, naval or air force works), but, as regards property situate in a Province, subject always to Provincial legislation, save in so far as Federal law otherwise provides.
 
-*
+1 * * * * * * * * * *
 
-*
+39. Establishment of standards of weights and measures.
 
-*
+1 * * * * * * * * * *
 
-*
+41. Elections to the office of President, to the National Assembly, the Senate and the Provincial Assemblies; Chief Election Commissioner and Election Commissions.
 
-*
+42. The salaries,  allowances  and  privileges  of  the  President,  Speaker and  Deputy  Speaker  of  the  National  Assembly,  Chairman  and  Deputy Chairman of the Senate, Prime Minister, Federal Ministers, Ministers of State, the salaries, allowances and privileges of the members of the Senate and the National Assembly; and the punishment of persons who refuse to give evidence or produce documents before committees thereof.
 
-*
+43. Duties of customs, including export duties.
 
-- National highways and strategic roads.
+44. Duties of excise, including duties on salt, but not including duties on alcoholic liquors, opium and other narcotics.
 
-- Federal surveys including geological surveys and Federal meteorological organisations.
+2 * * * * * * * * * *
 
-- Fishing and fisheries beyond territorial waters.
+2 * * * * * * * * * *
 
-- Works,  lands  and  buildings  vested  in,  or  in  the  possession  of Government for the purposes of the Federation (not being military, naval or air force works), but, as regards property situate in a Province, subject always to Provincial legislation, save in so far as Federal law otherwise provides.
+47. Taxes on income other than agricultural income.
 
-1
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-- Establishment of standards of weights and measures.
-
-1
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-- Elections to the office of President, to the National Assembly, the Senate and the Provincial Assemblies; Chief Election Commissioner and Election Commissions.
-
-- The salaries,  allowances  and  privileges  of  the  President,  Speaker and  Deputy  Speaker  of  the  National  Assembly,  Chairman  and  Deputy Chairman of the Senate, Prime Minister, Federal Ministers, Ministers of State, the salaries, allowances and privileges of the members of the Senate and the National Assembly; and the punishment of persons who refuse to give evidence or produce documents before committees thereof.
-
-- Duties of customs, including export duties.
-
-- Duties of excise, including duties on salt, but not including duties on alcoholic liquors, opium and other narcotics.
-
-2
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-2
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-- Taxes on income other than agricultural income.
-
-- Taxes on corporations.
+48. Taxes on corporations.
 
 > 1 Entries 33, 38 and 40 omitted ibid .
 
@@ -8400,6 +8691,8 @@ ___________
 
 CONSTITUTION OF PAKISTAN
 
+# PART II
+
 1. Railways.
 
 2. Mineral  oil  and  natural  gas;  liquids  and  substances  declared  by Federal law to be dangerously inflammable.
@@ -8425,8 +8718,6 @@ CONSTITUTION OF PAKISTAN
 > 1 Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 19, for "West Pakistan Water and Power Development  Authority  and  the  West  Pakistan  Industrial  Development  Corporation"  (w.e.f.  the  13th September, 1976).
 
 > 2 New entries 4, 5, 6, 7, 8, 9, 10, 11, 12 and 13 ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101.
-
-# PART II
 
 209
 
@@ -8466,8 +8757,6 @@ ___________
 
 CONSTITUTION OF PAKISTAN
 
-(w.e., the said salary.
-
 #  FIFTH SCHEDULE
 
 [ Article 205 ]
@@ -8489,15 +8778,13 @@ Judge | Minimum Amount | Maximum Amount
 Chief Justice | Rs. 7,000 | Rs. 8,000
 Other Judge | Rs. 6,250 | Rs. 7,125.]
 
-
-
-> w.e.f. 1-12-2001, the salary of the Chief Justice of Pakistan and other Judges of the Supreme Court has been determined by the President to be Rs. 55,000 and Rs. 52,000 respectively vide P.O. No. 2 of 2002, paragraph 2 (1), which was previously amended by P.O. No. 9 of 1991, P.O. No. 3 of 1995 and P.O. No. 4 of 1995. f.  27-7-1991,  vide  P.  O.  No.  2  of  1997)  the  Chief  Justice  and  a  Judge  of  the  Supreme  Court  on  his retirement  or  resignation  shall  be  entitled  to  the  minimum  amount  of  pension  equal  to  70%  to  the  Chief Justice of his salary or as the case may be, a Judge plus 5% of salary for each completed year of service either as the Chief Justice or as the Judge not exceeding the maximum amount of pension equal to 85% of
+>  w.e.f. 1-12-2001, the salary of the Chief Justice of Pakistan and other Judges of the Supreme Court has been determined by the President to be Rs. 55,000 and Rs. 52,000 respectively vide P.O. No. 2 of 2002, paragraph 2 (1), which was previously amended by P.O. No. 9 of 1991, P.O. No. 3 of 1995 and P.O. No. 4 of 1995. (w.e.,f. 27-7-1991, vide P. O. No. 2 of 1997) the Chief Justice and a Judge of the Supreme Court on his retirement or resignation shall be entitled to the minimum amount of pension equal to 70% to the Chief Justice of his salary or as the case may be, a Judge plus 5% of salary for each completed year of service either as the Chief Justice or as the Judge not exceeding the maximum amount of pension equal to 85% of the said salary.
 
 > 1 Subs. by the Constitution (Twelfth Amdt.) Act., 1991 (14 of 1991), s. 3, for "7,900" and "7,400", which was previously amended by P.O. No. 6 of 1985, Art. 2 (w.e.f. 1-7-1983).
 
-> 2 Added ibid .,
+> 2 Added ibid.,
 
-> 3 Subs. ibid ., for "paragraph 3rd."
+> 3 Subs. ibid., for "paragraph 3rd."
 
 211
 
@@ -8507,19 +8794,19 @@ Other Judge | Rs. 6,250 | Rs. 7,125.]
 
 CONSTITUTION OF PAKISTAN
 
-1 [4. The widow of a Judge of the Supreme Court shall be entitled to a pension at the following rates, namely :-
+1 [4. The widow of a Judge of the Supreme Court shall be entitled to a pension at the following rates, namely :—
 
-(a) if the Judge dies after retirement-50 per cent of the net pension payable to him; or
+(a) if the Judge dies after retirement–50 per cent of the net pension payable to him; or
 
-(b) if the Judge dies after having rendered not less than three years' service as Judge and while still serving as such-50 per cent of the pension admissible to him at the minimum rate.
+(b) if the Judge dies after having rendered not less than three years' service as Judge and while still serving as such–50 per cent of the pension admissible to him at the minimum rate.
 
 5. The  pension  shall  be  payable  to  the  widow  for  life  or,  if  she remarries, until her marriage.
 
-- If the widow dies, the pension shall be payable-
+6. If the widow dies, the pension shall be payable—
 
 (a) to the sons of the judge who are less than twenty-one years of age, until they attain that age; and
 
-(b) to  the  unmarried  daughters  of  the  Judge  who  are.  less  than twenty-one  years  of  age,  until  they  attain  that  age  or  are married, whichever first occurs.]
+(b) to  the  unmarried  daughters  of  the  Judge  who  are  less  than twenty-one  years  of  age,  until  they  attain  that  age  or  are married, whichever first occurs.]
 
 > 1 Added by P. O. No. 6 of 1985, Art. 2, (w.e.f. the 1st July, 1981).
 
@@ -8546,9 +8833,9 @@ Judge | Minimum amount. | Maximum amount.
 Chief Justice | Rs. 5,640 | Rs. 7,050
 Other Judge | Rs. 5,040 | Rs. 6,300.]
 
-4 [4. The  widow  of  a  Judge  of  the  High  Court  shall  be  entitled  to  a pension at the following rates, namely :-
+4 [4. The  widow  of  a  Judge  of  the  High  Court  shall  be  entitled  to  a pension at the following rates, namely :—
 
-(a)   if  the  Judge  dies  after  retirement-50  per  cent  of  the  net pension payable to him; or
+(a)   if  the  Judge  dies  after  retirement—50  per  cent  of  the  net pension payable to him; or
 
 
 
@@ -8568,43 +8855,24 @@ Other Judge | Rs. 5,040 | Rs. 6,300.]
 
 [[START OF PAGE 225]]
 
-1
-
-*
-
 CONSTITUTION OF PAKISTAN
 
-(b)   if the Judge dies after having rendered not less than five years' service as Judge and while still serving as such-50 per cent of the pension admissible to him at the minimum rate.
+(b)   if the Judge dies after having rendered not less than five years' service as Judge and while still serving as such–50 per cent of the pension admissible to him at the minimum rate.
 
 5. The  pension  shall  be  payable  to  the  widow  for  life  or,  if  she remarries, until her marriage.
 
-- If the widow dies, the pension shall be payable
+6. If the widow dies, the pension shall be payable
 
 (a) to the sons of the Judge who are less than twenty-one years of age, until they attain that age; and
 
 (b) to  the  unmarried  daughters  of  the  Judge  who  are  less  than twenty-one  years  of  age,  until  they  attain  that  age  or  are married, whichever first occurs.]
 
-*
-
-*
-
-*
-
-*
-
-*
+1
+* * * * * * * * * *
 
 __________
 
 > 1 Sixth Schedule and Seventh Schedule omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 102.
-
-*
-
-*
-
-*
-
-*
 
 214
 
