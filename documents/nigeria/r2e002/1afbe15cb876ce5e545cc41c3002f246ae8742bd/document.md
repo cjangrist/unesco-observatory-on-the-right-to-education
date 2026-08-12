@@ -14,35 +14,35 @@ Main provisions
 
 Chapters:
 
-- Basic and Secondary Education Commission
+1. Basic and Secondary Education Commission
 
-- Tertiary Education Regulatory Commission
+2. Tertiary Education Regulatory Commission
 
-- National Education Resource Commission
+3. National Education Resource Commission
 
-- National Examination Certification Council
+4. National Examination Certification Council
 
-- National Business and Technical Examination Board
+5. National Business and Technical Examination Board
 
-- National Examination Council
+6. National Examination Council
 
-- West African Examination Council
+7. West African Examination Council
 
-- Joint Admissions and Matriculation Board
+8. Joint Admissions and Matriculation Board
 
-- National Library and Information Centre
+9. National Library and Information Centre
 
-- Special Education Commission
+10.Special Education Commission
 
-- National Mathematical Centre
+11.National Mathematical Centre
 
-- Teachers Regulatory Council of Nigeria
+12.Teachers Regulatory Council of Nigeria
 
-- Education Trust Fund
+13.Education Trust Fund
 
-PART | 3 | Administrative provisions
---- | --- | ---
-PART | 4 | Final provisions
+PART 3 Administrative provisions
+
+PART 4 Final provisions
 
 1
 
@@ -64,19 +64,19 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria as follows -
 
 ## Power of Minister to formulate National Policy on Education
 
-(1)  There  shall  be  a  National  Policy  on  Education  for  the  Federal Republic of Nigeria (the 'Policy').
+1. (1) There shall be a National Policy on Education for the Federal Republic of Nigeria (the 'Policy').
 
-- The  Minister  shall  advise  the  President,  Commander  -in-Chief  of  the Armed Force of the Federal Republic of Nigeria on the National Policy on Education for Nigeria.
+(2) The Minister shall advise the President, Commander -in-Chief of the Armed Force of the Federal Republic of Nigeria on the National Policy on Education for Nigeria.
 
-- In  formulating  the  Policy  the  Minster  shall  consider  the  following matters -
+(3) In formulating the Policy the Minster shall consider the following matters -
 
-- due cognizance shall be taken of the United Nations programmes on education, the Millennium Development Goals (MDGs) and the National Economic Empowerment and Development Strategy (NEEDS);
+a. due cognizance shall be taken of the United Nations programmes on education, the Millennium Development Goals (MDGs) and the National Economic Empowerment and Development Strategy (NEEDS);
 
-- due  cognizance  shall  be  taken  of  the  Educational  Objectives under  section  18  of  the  1999  Constitution  of  the  Federal Republic of Nigeria;
+b. due cognizance shall be taken of the Educational Objectives under section 18 of the 1999 Constitution of the Federal Republic of Nigeria;
 
-- the views of stakeholder and the Nigerian public
+c. the views of stakeholder and the Nigerian public
 
-- The  Policy  which  is  a  statement  of    intent  by  the  people  and government of Nigeria shall include the following -
+2. The Policy which is a statement of intent by the people and government of Nigeria shall include the following -
 
 2
 
@@ -84,21 +84,21 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria as follows -
 
 [[START OF PAGE 3]]
 
-- general guidelines for holistic and  integrated approach  to education in Nigeria;
+a. general guidelines for holistic and integrated approach to education in Nigeria;
 
-- an  outline  of  the  mission,  aims,  objectives,  implementation strategies and plan of action for effective administration of the education sector in Nigeria;
+b. an outline of the mission, aims, objectives, implementation strategies and plan of action for effective administration of the education sector in Nigeria;
 
-- strategies  for  ensuring  that  Governments  at  all  levels,  the Organised Private Sector and International Development Partners contribute to the development of education in Nigeria; and
+c. strategies for ensuring that Governments at all levels, the Organised Private Sector and International Development Partners contribute to the development of education in Nigeria; and
 
-- the period of review of the Policy shall be five years..
+d. the period of review of the Policy shall be five years..
 
 ## Short title
 
-- This Act shall be known as Education Reform Act, 2007.
+3. This Act shall be known as Education Reform Act, 2007.
 
 ## Interpretation
 
-- In this Act unless the Context otherwise admits -
+4. In this Act unless the Context otherwise admits -
 
 'academic units' includes departments, faculties, schools, colleges, institutes, centres and all such academic divisions in the universities at the post-graduates, under-graduate, pre-degree and non-degree levels;
 
@@ -122,15 +122,15 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria as follows -
 
 'book' includes -
 
-- all forms in which documentary or oral records are published;
+a. all forms in which documentary or oral records are published;
 
-- all  literary  works  such  as  books,  pamphlets,  sheets  of  music,  maps charts, plans, tables and compilations;
+b. all literary works such as books, pamphlets, sheets of music, maps charts, plans, tables and compilations;
 
-- any work written in distinct parts by different authors or in which a part or parts of work of different authors is or are incorporated, and every part or division of such a work; and
+c. any work written in distinct parts by different authors or in which a part or parts of work of different authors is or are incorporated, and every part or division of such a work; and
 
-- collective works or similar works such as encyclopedias, dictionaries, year  books  or  similar  works,  newspapers,  magazines  and  similar periodicals;
+d. collective works or similar works such as encyclopedias, dictionaries, year books or similar works, newspapers, magazines and similar periodicals;
 
-- dramatic works;
+e. dramatic works;
 
 'Centre' means the National Mathematical Centre established by section (1) of this Act;
 
@@ -166,7 +166,7 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria as follows -
 
 'Minister'  means  the  Minister  charged  with  responsibility  for  matters relating to higher education, and 'Ministry' shall be construed accordingly;
 
-'Registrar'  means  ~he  Registrar  of  the  Board  appointed  in  pursuant  to section 6 of this Act;
+'Registrar' means the Registrar of the Board appointed in pursuant to section 6 of this Act;
 
 'repealed Act' means any of the Acts listed in section 161 of this Act.
 
@@ -188,7 +188,7 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria as follows -
 
 'publisher' means any person engaged with the printing and distribution of books within or outside Nigeria.
 
-'Pupil' where used without qualification, means a persons of any for whom education is provided under this Act;
+'Pupil' where used without qualification, means a person of any age for whom education is provided under this Act;
 
 'Registrar'  means  the  Registrar  of  the  Board  appointed  pursuant  to section 58 of this Act.
 
@@ -198,7 +198,7 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria as follows -
 
 'State' includes the Federal Capital Territory, Abuja;
 
-'Universal  Basic  Education'  means  early  childhood  care  ad  education,  the nine  years  of  formal  schooling,  adult  literacy  and  non-formal  education, skills  acquisition  programmes  and  the  education  of  special  groups  such  as nomads and migrants, girl -child and woman, almajiri, street children and disabled groups.
+'Universal Basic Education' means early childhood care and education, the nine years of formal schooling, adult literacy and non-formal education, skills acquisition programmes and the education of special groups such as nomads and migrants, girl -child and woman, almajiri, street children and disabled groups.
 
 'Tertiary  institutions'  means  any  University  in  Nigeria  providing  courses leading to the award of first degrees.
 
@@ -216,27 +216,27 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria as follows -
 
 #### Establishment
 
-(1) The Basic and Secondary Education Commission is established (the 'Commission')
+3. (1) The Basic and Secondary Education Commission is established (the 'Commission')
 
-- The Commission is a body corporate with perpetual succession and a common seal and may:
+(2) The Commission is a body corporate with perpetual succession and a common seal and may:
 
-- acquire, hold and dispose of real and personal property;
+a. acquire, hold and dispose of real and personal property;
 
-- sue and be sued; and
+b. sue and be sued; and
 
-- so far as is possible for a body corporate, exercise the rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
+c. so far as is possible for a body corporate, exercise the rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
 
 #### Consolidation of certain bodies
 
-- The Universal Basic Education Commission and the Federal Inspectorate  Service  Department  of  the  Federal  Ministry  of  Education  are hereby consolidated into one body known as Basic and Secondary Education Regulatory Commission established under section 3 of this Part of this Act.
+4. The Universal Basic Education Commission and the Federal Inspectorate Service Department of the Federal Ministry of Education are hereby consolidated into one body known as Basic and Secondary Education Regulatory Commission established under section 3 of this Part of this Act.
 
 #### Purpose clause
 
-- The main purposes of this Part of this Act are to -
+5. The main purposes of this Part of this Act are to -
 
-- repeal the Compulsory, Free Universal Basic Act, 2004 and the Education (National Minimum Standard and Establishment of Institutions) Act and all the amendments to the Act;
+a. repeal the Compulsory, Free Universal Basic Act, 2004 and the Education (National Minimum Standard and Establishment of Institutions) Act and all the amendments to the Act;
 
-- consolidate  the  functions  of  the  Universal  Basic  Education Commission  and  the  Federal  Inspectorate  Service  of  the Federal  Ministry  of  Education  now  under  the  name  Basic and Secondary Education Commission;
+b. consolidate the functions of the Universal Basic Education Commission and the Federal Inspectorate Service of the Federal Ministry of Education now under the name Basic and Secondary Education Commission;
 
 7
 
@@ -244,23 +244,23 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria as follows -
 
 [[START OF PAGE 8]]
 
-- strengthen and empowered the Basic and Secondary Commission  to  perform  its  regulatory  responsibility  more effectively; and
+c. strengthen and empowered the Basic and Secondary Commission to perform its regulatory responsibility more effectively; and
 
-- ensure that Government at all levels in Nigeria provide free, compulsory and universal basic education for every child of school age.
+d. ensure that Government at all levels in Nigeria provide free, compulsory and universal basic education for every child of school age.
 
-- Without prejudice to the provisions of item 30 of Part ll of the second schedule  and  item  2(a)  of  the  fourth  schedule  to  the  1999  Constitution dealing with primary school education, the Federal Government intervention under this Act shall only be an assistance to the States and Local Councils in Nigeria for the purposes of uniform and qualitative basic education throughout Nigeria;
+6. Without prejudice to the provisions of item 30 of Part II of the second schedule and item 2(a) of the fourth schedule to the 1999 Constitution dealing with primary school education, the Federal Government intervention under this Act shall only be an assistance to the States and Local Councils in Nigeria for the purposes of uniform and qualitative basic education throughout Nigeria;
 
-(1) Subject to the provisions of this Act, the provisions of section 15 of the Child Rights Act 2003 shall apply in relation to the following -
+7. (1) Subject to the provisions of this Act, the provisions of section 15 of the Child Rights Act 2003 shall apply in relation to the following -
 
-- the duty of every government at all levels in Nigeria to provide free and compulsory basic education to every child in Nigeria;
+a. the duty of every government at all levels in Nigeria to provide free and compulsory basic education to every child in Nigeria;
 
-- the duty of every parent or guardian to ensure that his child or ward attends and complete basic education; and
+b. the duty of every parent or guardian to ensure that his child or ward attends and complete basic education; and
 
-- the right of every child of school age in Nigeria to receives full-time basic  education  suitable  to  his  age,  ability  and  aptitude  by  regular attendance at school.
+c. the right of every child of school age in Nigeria to receives full-time basic education suitable to his age, ability and aptitude by regular attendance at school.
 
 #### Governing Board
 
-(1)  The  Governing  Board  of  the  Commission  shall  consist  of  a Chairperson and the following members -
+8. (1) The Governing Board of the Commission shall consist of a Chairperson and the following members -
 
 (a) one person to represent the Federal Ministry of Education;
 
@@ -314,11 +314,11 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria as follows -
 
 of  the  total  cost  of  projects  to  be  executed  in  the  State  as  its  own commitment in the execution of the projects.
 
-- The administration and disbursement of funds under the Universal Basic Education  programme  shall  be  through  the  State  Basic  and  Secondary Education Board or any equivalent body in the State.
+(4) The administration and disbursement of funds under the Universal Basic Education programme shall be through the State Basic and Secondary Education Board or any equivalent body in the State.
 
 #### Functions of the Commission
 
-- The functions of the Commission shall include the following -
+13. The functions of the Commission shall include the following -
 
 (a) to implement the provisions of this Part of this Act;
 
@@ -364,9 +364,9 @@ of  the  total  cost  of  projects  to  be  executed  in  the  State  as  its  o
 
 #### Establishment,  Etc  of  States  Basic  and  Secondary  Education  Board  and Local Council Basic and Secondary Education Authority
 
-(1) Each State of the Federation shall establish a body to be known as Basic and Secondary Education Board (the 'Board').
+14. (1) Each State of the Federation shall establish a body to be known as Basic and Secondary Education Board (the 'Board').
 
-- The structure, functions, composition, remuneration, tenure of office and conditions of appointment of the Chairperson and members of the Board
+(2) The structure, functions, composition, remuneration, tenure of office and conditions of appointment of the Chairperson and members of the Board
 
 11
 
@@ -384,13 +384,13 @@ shall  be  prescribed  by  a  law  enacted  for  that  purpose,  by  the  House 
 
 15. (1)  The  Commission shall establish in every State of the Federation and  the  Federal  Capital  Territory  the  Quality  Assurance  Department  (the 'Department').
 
-- The Department shall be headed by the Chief Education Inspector who shall be appointed by the Minister on the recommendation of the Commission.
+(2) The Department shall be headed by the Chief Education Inspector who shall be appointed by the Minister on the recommendation of the Commission.
 
-- The Department shall have power to appoint qualified persons as Education Inspectors.
+(3) The Department shall have power to appoint qualified persons as Education Inspectors.
 
-- Only registered teachers who have acquired practical experience of teaching in Basic and Secondary institutions in Nigeria for at least 15  years  or  persons  who  have  previously  or  are  serving  as Education Officers are qualified to be appointed Education Inspector.
+(4) Only registered teachers who have acquired practical experience of teaching in Basic and Secondary institutions in Nigeria for at least 15 years or persons who have previously or are serving as Education Officers are qualified to be appointed Education Inspector.
 
-- In  the  case  of  Education  Officers,  to  qualify  for  appointment  as Education  Inspector,  the  Education  Officer  must  have  received induction training for  a  period  exceeding  seven  days  and  a pupilage period exceeding six months.
+(5) In the case of Education Officers, to qualify for appointment as Education Inspector, the Education Officer must have received induction training for a period exceeding seven days and a pupilage period exceeding six months.
 
 17. The  Department shall  on  behalf  of  the  Commission  exercise  the following powers -
 
@@ -512,7 +512,7 @@ c. so far as is possible for a body corporate, exercise the rights, powers and p
 
 25. The purposes of this Part of this Act are to -
 
-- to merge the National Universities Commission (NUC), the National Board for Technical Education (NBTE) and the National Commission for  Colleges  of  Education  (NCCE)  into  one  body  to  be  known  as Tertiary  Education  Commission  which  shall  be  charged  with  the responsibility  of  regulating  all  Federal  Government  owned  tertiary institutions in Nigeria;
+a. to merge the National Universities Commission (NUC), the National Board for Technical Education (NBTE) and the National Commission for Colleges of Education (NCCE) into one body to be known as Tertiary Education Commission which shall be charged with the responsibility of regulating all Federal Government owned tertiary institutions in Nigeria;
 
 17
 
@@ -520,25 +520,25 @@ c. so far as is possible for a body corporate, exercise the rights, powers and p
 
 [[START OF PAGE 18]]
 
-- to strengthen the Tertiary Education Commission to enable the body promote  research  and  development  in  support  of  the  industry  in Nigeria;
+b. to strengthen the Tertiary Education Commission to enable the body promote research and development in support of the industry in Nigeria;
 
-- improve on the carrying capacity of the universities, particularly given their inability to accommodate a vast number of applicants;
+c. improve on the carrying capacity of the universities, particularly given their inability to accommodate a vast number of applicants;
 
-- to  eliminate  the  desperate  desire  for  University  education  as  against other tertiary institutions;
+d. to eliminate the desperate desire for University education as against other tertiary institutions;
 
-- to eliminate the perception that certain tertiary institutions are superior to others;
+e. to eliminate the perception that certain tertiary institutions are superior to others;
 
-- to reduce huge  overhead  cost by consolidating the supervisory agencies  (National  Universities  Commission,  National  Board  for Technical Education and National Commission  for  Colleges of Education);  the  Boards  of  the  three  Parastatals  and  37  Governing Councils, Chief Executives, Registrars and other principal officers;
+f. to reduce huge overhead cost by consolidating the supervisory agencies (National Universities Commission, National Board for Technical Education and National Commission for Colleges of Education); the Boards of the three Parastatals and 37 Governing Councils, Chief Executives, Registrars and other principal officers;
 
-- to  improve  funding  to  universities  in  area  of  infrastructural  and instructional facilities, research, scholarly publications and staff training and development through the consolidation of Education Tax Fund intervention; and
+g. to improve funding to universities in area of infrastructural and instructional facilities, research, scholarly publications and staff training and development through the consolidation of Education Tax Fund intervention; and
 
-- to  facilitate  the  creative  use  of  underutilized  physical  assets  by converting  under-populated  tertiary  institutions  into  campuses  of Innovative Enterprise Institutes;
+h. to facilitate the creative use of underutilized physical assets by converting under-populated tertiary institutions into campuses of Innovative Enterprise Institutes;
 
 #### Governing Board
 
-(1)  The  Governing  Board  of  the  Commission  shall  consist  of  a Chairperson and the following members -
+26. (1) The Governing Board of the Commission shall consist of a Chairperson and the following members -
 
-- one member representing each of the following Federal Ministries -
+a. one member representing each of the following Federal Ministries -
 
 (i) Education,
 
@@ -558,7 +558,7 @@ c. so far as is possible for a body corporate, exercise the rights, powers and p
 
 [[START OF PAGE 19]]
 
-- one member representing each of the following disciplines-
+b. one member representing each of the following disciplines-
 
 (i) Agriculture and Veterinary Sciences,
 
@@ -578,9 +578,9 @@ c. so far as is possible for a body corporate, exercise the rights, powers and p
 
 (ix) Vocational and Entrepreneurial Training;
 
-- two persons, with wide knowledge and experience to be appointed on individual merit to represent private sector interest; and
+c. two persons, with wide knowledge and experience to be appointed on individual merit to represent private sector interest; and
 
-- the Executive Secretary of the Commission.
+d. the Executive Secretary of the Commission.
 
 #### Executive Secretary and Staff of the Commission
 
@@ -592,9 +592,9 @@ c. so far as is possible for a body corporate, exercise the rights, powers and p
 
 #### Functions of the Commission
 
-(1) The functions of the Commission shall include -
+30. (1) The functions of the Commission shall include -
 
-- to  takeover  the  functions  which  were  before  the  commencement  of this  Act  performed  by  the  National  University  Commission,  the National  Business  and  Technical  Education  Board  and  the  National
+a. to takeover the functions which were before the commencement of this Act performed by the National University Commission, the National Business and Technical Education Board and the National
 
 19
 
@@ -604,21 +604,21 @@ c. so far as is possible for a body corporate, exercise the rights, powers and p
 
 Commission  for  Colleges  of  Education  as  they  relate  only  to  the training of high-level skilled manpower;
 
-- to  advise  the  President,  the  Governors  of  the  States,  through  the Minister, on the creation of new universities;
+b. to advise the President, the Governors of the States, through the Minister, on the creation of new universities;
 
-- to prescribe minimum standards for all universities in the Federation and to accredit their degrees and other academic awards in accordance with guidelines as may be laid down from time to time and approved by the President through the Minister;
+c. to prescribe minimum standards for all universities in the Federation and to accredit their degrees and other academic awards in accordance with guidelines as may be laid down from time to time and approved by the President through the Minister;
 
-- to prepare, after consultation with all Governments in Nigeria and the universities,  the  industry,  the  National  Manpower  Board  and  such other  bodies  as  it  considers  appropriate  short  and  long  term  master plans for the balanced and coordinated development of all universities in Nigeria and such plans shall include-
+d. to prepare, after consultation with all Governments in Nigeria and the universities, the industry, the National Manpower Board and such other bodies as it considers appropriate short and long term master plans for the balanced and coordinated development of all universities in Nigeria and such plans shall include-
 
 (i) promote research and development in support of the industry in Nigeria;
 
-(ii) the  general  programmes  to  be  pursued  by  the  universities  in order to ensure that they are fully adequate to meet national needs and objectives;
+(ii) the general programmes to be pursued by the universities in order to ensure that they are fully adequate to meet national needs and objectives;
 
 (iii) recommendations for the establishment of new academic units in existing universities or the approval or disapproval of proposals to establish such academic units;
 
-- to  inquire  into  and  advise  the  Federal  Government  on  the  financial needs,  both  recurrent  and  capital,  of  university  education  in  Nigeria and, in particular, to investigate and study the financial needs of the university research and to ensure that adequate provision is made for this in the universities;
+e. to inquire into and advise the Federal Government on the financial needs, both recurrent and capital, of university education in Nigeria and, in particular, to investigate and study the financial needs of the university research and to ensure that adequate provision is made for this in the universities;
 
-- to  take  into  account,  in  advising  the  Federal  and  State  Governments on university finances, such grants as may be made to the universities by State Governments and by persons and institutions in and outside Nigeria;
+f. to take into account, in advising the Federal and State Governments on university finances, such grants as may be made to the universities by State Governments and by persons and institutions in and outside Nigeria;
 
 20
 
@@ -626,27 +626,27 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 [[START OF PAGE 21]]
 
-- to  collate,  analyse  and  publish  information  relating  to  university education in Nigeria and from other sources where such information is relevant to the discharge of its functions under this Act;
+g. to collate, analyse and publish information relating to university education in Nigeria and from other sources where such information is relevant to the discharge of its functions under this Act;
 
-- to undertake periodic reviews of the terms and conditions of service of personnel engaged in the universities and to make recommendations thereon to the Federal Government where appropriate;
+h. to undertake periodic reviews of the terms and conditions of service of personnel engaged in the universities and to make recommendations thereon to the Federal Government where appropriate;
 
-- to make recommendations to the Minister on the regulations necessary to stem the prevalence of all forms of social ills such as examination malpractices,  cultism  and  sexual  harassment  in  tertiary  education institutions  in  Nigeria  and  ensure  that  offenders  under  regulations made  by  the  Minister  are  prosecuted  by  the  appropriate  authority under the appropriate law;
+i. to make recommendations to the Minister on the regulations necessary to stem the prevalence of all forms of social ills such as examination malpractices, cultism and sexual harassment in tertiary education institutions in Nigeria and ensure that offenders under regulations made by the Minister are prosecuted by the appropriate authority under the appropriate law;
 
-- to recommend to the visitor of a university that a visitation be made to such university as and when it considers it necessary;
+j. to recommend to the visitor of a university that a visitation be made to such university as and when it considers it necessary;
 
-- to act as the agency for channeling all external aid to the universities in Nigeria;
+k. to act as the agency for channeling all external aid to the universities in Nigeria;
 
-- with the approval of the Minister, to invest its funds in any form of investments and securities in accordance with the appropriate law; and
+l. with the approval of the Minister, to invest its funds in any form of investments and securities in accordance with the appropriate law; and
 
-- to carry out such other activities as are conducive to the discharge of its functions under this Part; and
+m. to carry out such other activities as are conducive to the discharge of its functions under this Part; and
 
-(2) In  the  exercise  of  the  powers  conferred  on  the  Commission  under subsection  (l)  of  this  section,  the  Commission  shall  have  regard  to  the matters mentioned in schedule 4 of this Act.
+(2) In the exercise of the powers conferred on the Commission under subsection (1) of this section, the Commission shall have regard to the matters mentioned in schedule 4 of this Act.
 
 (3) Without prejudice to the provision of any other law, the Commission shall have the power to develop and maintain minimum standards in tertiary education institutions in Nigeria.
 
 (4) The Commission  may  recommend  to the National Council of Ministers through the Minister the need to take any of the following actions with respect to any tertiary education institution in Nigeria-
 
-- institute a Visitation Panel;
+a. institute a Visitation Panel;
 
 21
 
@@ -654,9 +654,9 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 [[START OF PAGE 22]]
 
-- suspend or withdraw its operating licence; or
+b. suspend or withdraw its operating licence; or
 
-- any other action as the Commission may deem fit in the circumstances.
+c. any other action as the Commission may deem fit in the circumstances.
 
 22
 
@@ -670,15 +670,15 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 #### Establishment
 
-31 (1) The National Education Resource Commission (the 'Commission') is established.
+31. (1) The National Education Resource Commission (the 'Commission') is established.
 
 (2) The Commission is a body corporate with perpetual succession and a common seal and may:
 
-- acquire, hold and dispose of real and personal property;
+a. acquire, hold and dispose of real and personal property;
 
-- sue and be sued; and
+b. sue and be sued; and
 
-- so  far  as  is  possible  for  a  body  corporate,  exercise  the  rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
+c. so far as is possible for a body corporate, exercise the rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
 
 #### Consolidation of certain bodies
 
@@ -688,7 +688,7 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 33. The purposes of this Part of this Act are to -
 
-- to  consolidate  the  National  Teachers  Institute  (NTI)  Kaduna, the Nigerian Educational  Development  Council  (NERDC) Sheda, Abuja and the National Institute for Educational Planning  &  Administration  (NIEPA)  Ondo  are  consolidated into one body known as National Education Resources Commission established under section 31 of this Act;
+a. to consolidate the National Teachers Institute (NTI) Kaduna, the Nigerian Educational Development Council (NERDC) Sheda, Abuja and the National Institute for Educational Planning & Administration (NIEPA) Ondo are consolidated into one body known as National Education Resources Commission established under section 31 of this Act;
 
 23
 
@@ -696,37 +696,37 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 [[START OF PAGE 24]]
 
-- to takeover the functions previously performed by the National Teachers  Institute  (NTI)  Kaduna,  the  Nigerian  Educational Development Council (NERDC) Sheda, Abuja and the National Institute  for  Educational  Planning  &  Administration  (NIEPA) Ondo;
+b. to takeover the functions previously performed by the National Teachers Institute (NTI) Kaduna, the Nigerian Educational Development Council (NERDC) Sheda, Abuja and the National Institute for Educational Planning & Administration (NIEPA) Ondo;
 
-- to  provide  effective  management  of  the  resources  (Teachers, Curriculum and Administration) required in for the success of the Education Sector in Nigeria;
+c. to provide effective management of the resources (Teachers, Curriculum and Administration) required in for the success of the Education Sector in Nigeria;
 
 #### Governing Board
 
-(1) The Governing Board of the Commission (the 'Board') shall consist of the Chairperson and the following members -
+34. (1) The Governing Board of the Commission (the 'Board') shall consist of the Chairperson and the following members -
 
-- one representative from the Federal Ministry of Education;
+a. one representative from the Federal Ministry of Education;
 
-- one representative of the National Planning Commission,
+b. one representative of the National Planning Commission,
 
-- one  representative  of  the  United  Nations  Educational  and Scientific Organisation country office in Nigeria;
+c. one representative of the United Nations Educational and Scientific Organisation country office in Nigeria;
 
-- one  representative of  the  Basic  and  Secondary  Education Commission;
+d. one representative of the Basic and Secondary Education Commission;
 
-- one representative of the Tertiary Education Regulatory Commission;
+e. one representative of the Tertiary Education Regulatory Commission;
 
-- one  representative  of  the  National  Examination  Regulatory Council;
+f. one representative of the National Examination Regulatory Council;
 
-- one  person  representing  the  Teacher  Registration  Council  of Nigeria;
+g. one person representing the Teacher Registration Council of Nigeria;
 
-- the Director-General of the Commission;
+h. the Director-General of the Commission;
 
-- one persons representing women group; and
+i. one persons representing women group; and
 
-- six person with relevant knowledge and experience selected on the basis of one from each geo-political zone of Nigeria.
+j. six person with relevant knowledge and experience selected on the basis of one from each geo-political zone of Nigeria.
 
 #### Director-General and Staff of the Commission
 
-- There  shall  appointed  the  Director-General  who  shall  be  the  Chief Executive and responsible for the day to day administration of the Commission.
+35. There shall appointed the Director-General who shall be the Chief Executive and responsible for the day to day administration of the Commission.
 
 24
 
@@ -742,19 +742,19 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 38. (1) The functions of the Commission shall include to -
 
-- takeover  the  functions  previously  performed  by  the  National Teachers  Institute  (NTI)  Kaduna,  the  Nigerian  Educational Development Council (NERDC) Sheda, Abuja and the National Institute  for  Educational  Planning  &  Administration  (NIEPA) Ondo;
+a. takeover the functions previously performed by the National Teachers Institute (NTI) Kaduna, the Nigerian Educational Development Council (NERDC) Sheda, Abuja and the National Institute for Educational Planning & Administration (NIEPA) Ondo;
 
-- provide effective management  of  the  resources (Teachers, Curriculum and Administration) required for the success of the Education Sector in Nigeria;
+b. provide effective management of the resources (Teachers, Curriculum and Administration) required for the success of the Education Sector in Nigeria;
 
-- encouragement,  promote,  coordinate  and  compile  a  list  of educational research programmes carried out in Nigeria;
+c. encouragement, promote, coordinate and compile a list of educational research programmes carried out in Nigeria;
 
-- promote the development of curricular at all levels of educational system;
+d. promote the development of curricular at all levels of educational system;
 
-- formulate and implement a national policy on book development for Nigeria;
+e. formulate and implement a national policy on book development for Nigeria;
 
-- promote the development and publication of educational research materials;
+f. promote the development and publication of educational research materials;
 
-- maintain relationships with corresponding educational research development and planning bodies any where in the world;
+g. maintain relationships with corresponding educational research development and planning bodies any where in the world;
 
 25
 
@@ -762,19 +762,19 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 [[START OF PAGE 26]]
 
-- organize and provide programmes for the training, development,  upgrading  and  certification  of  teachers  at  all levels of educational development in Nigeria;
+h. organize and provide programmes for the training, development, upgrading and certification of teachers at all levels of educational development in Nigeria;
 
-- promote  the  study  and  practice  of  educational  planning  and administration in Nigeria and explore all relevant and available avenues, potentials and resources to make the Commission an active learning centre in skills acquisition in educational planning and administration;
+i. promote the study and practice of educational planning and administration in Nigeria and explore all relevant and available avenues, potentials and resources to make the Commission an active learning centre in skills acquisition in educational planning and administration;
 
-- development and implementation of programmes for in-service training, re-training and orientation of workers of the education sector at all levels of the educational sector in Nigeria;
+j. development and implementation of programmes for in-service training, re-training and orientation of workers of the education sector at all levels of the educational sector in Nigeria;
 
-- award  certificates  of  attendance,  certificates  and  diplomas  to persons  who  have  completed  the  courses  of  study  undertaken by the Commission;
+k. award certificates of attendance, certificates and diplomas to persons who have completed the courses of study undertaken by the Commission;
 
-- to  act  as  the  agency  for  channeling  all  external  aid  to  the Commission in Nigeria;
+l. to act as the agency for channeling all external aid to the Commission in Nigeria;
 
-- to invest its funds in any form of investments and securities in accordance with the appropriate law;  and
+m. to invest its funds in any form of investments and securities in accordance with the appropriate law; and
 
-- to  carry  out  such  other  activities  as  may  be  directed  by  the Minister which are conducive to the discharge of its functions under this Part of this Act.
+n. to carry out such other activities as may be directed by the Minister which are conducive to the discharge of its functions under this Part of this Act.
 
 26
 
@@ -792,23 +792,23 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 (2) The  Council  is  a  body  corporate  with  perpetual  succession  and  a common seal and may -
 
-- acquire, hold and dispose of real and personal property;
+a. acquire, hold and dispose of real and personal property;
 
-- sue and be sued; and
+b. sue and be sued; and
 
-- so far as is possible for a body corporate, exercise the rights, powers and privileges and  incur  the  liabilities  and  obligations  of  a  natural person of full age and capacity.
+c. so far as is possible for a body corporate, exercise the rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
 
 (3) Schedule 1 has effect with respect to the constitution and   proceedings of the Council.
 
 #### Purpose Clause
 
-- The purposes of this Part in this Act are -
+40. The purposes of this Part in this Act are -
 
-- to establish a body that will serve as an umbrella institution responsible for driving the technological convergence of the Examination Bodies;
+a. to establish a body that will serve as an umbrella institution responsible for driving the technological convergence of the Examination Bodies;
 
-- to institute the application of Information and Communication Technology into examination management process in Nigeria with a view to reducing the occurrence of examination malpractices, overlaps, duplication and promote cost savings;
+b. to institute the application of Information and Communication Technology into examination management process in Nigeria with a view to reducing the occurrence of examination malpractices, overlaps, duplication and promote cost savings;
 
-- to  retain  the  existing  four  examination  bodies  by  repealing  and  reenacting incorporating amendments the National Business and Technical  Examination  Board  Act  1993,  the  National  Examination Council Act 2002, West African Examinations Council (WAEC) and the Joint Admissions and Matriculation Board 1978; and
+c. to retain the existing four examination bodies by repealing and re-enacting incorporating amendments the National Business and Technical Examination Board Act 1993, the National Examination Council Act 2002, West African Examinations Council (WAEC) and the Joint Admissions and Matriculation Board 1978; and
 
 27
 
@@ -816,7 +816,7 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 [[START OF PAGE 28]]
 
-- if the need arises, to establish more examination bodies for Nigeria.
+d. if the need arises, to establish more examination bodies for Nigeria.
 
 #### Board of the Council
 
@@ -858,21 +858,21 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 #### Functions of the Council
 
-- The functions of the Council shall include the following -
+45. The functions of the Council shall include the following -
 
-- to establish a body that will serve as an umbrella institution responsible for driving the technological convergence of the Examination Bodies;
+a. to establish a body that will serve as an umbrella institution responsible for driving the technological convergence of the Examination Bodies;
 
-- to institute the application of Information and Communication Technology into examination management process in Nigeria with a view to reducing the occurrence of examination malpractices, overlaps, duplication and promote cost savings;
+b. to institute the application of Information and Communication Technology into examination management process in Nigeria with a view to reducing the occurrence of examination malpractices, overlaps, duplication and promote cost savings;
 
-- to  retain  the  existing  four  examination  bodies  by  repealing  and  reenacting incorporating amendments the National Business and Technical  Examination  Board  Act  1993,  the  National  Examination Council Act 2002, West African Examinations Council (WAEC) and the Joint Admissions and Matriculation Board 1978; and
+c. to retain the existing four examination bodies by repealing and re-enacting incorporating amendments the National Business and Technical Examination Board Act 1993, the National Examination Council Act 2002, West African Examinations Council (WAEC) and the Joint Admissions and Matriculation Board 1978; and
 
-- to coordinate the activities of the Examination bodies in Nigeria;
+d. to coordinate the activities of the Examination bodies in Nigeria;
 
-- to  invest  its  funds  in  any  form  of  investments  and  securities  in accordance with the appropriate law;
+e. to invest its funds in any form of investments and securities in accordance with the appropriate law;
 
-- to develop and enforce a Code of Conduct for examination conducted by the Examination Bodies established under this Act; and
+f. to develop and enforce a Code of Conduct for examination conducted by the Examination Bodies established under this Act; and
 
-- to advise the National Council of Minister through the Minister on the need to establish more examination bodies for Nigeria.
+g. to advise the National Council of Minister through the Minister on the need to establish more examination bodies for Nigeria.
 
 #### Establishment and functions of the examinations investigation committee, etc
 
@@ -892,7 +892,7 @@ Commission  for  Colleges  of  Education  as  they  relate  only  to  the traini
 
 47. The functions of the Committee include -
 
-- to conduct preliminary investigation into all reported cases of examination malpractices; and
+a. to conduct preliminary investigation into all reported cases of examination malpractices; and
 
 b. make appropriate recommendations to the Board.
 
@@ -914,31 +914,31 @@ b. make appropriate recommendations to the Board.
 
 (2) The  Board  shall  continue  to  be  a  body  corporate  with  perpetual succession and a common seal and may -
 
-- acquire, hold and dispose of real and personal property;
+a. acquire, hold and dispose of real and personal property;
 
-- sue and be sued; and
+b. sue and be sued; and
 
-- so far as is possible for a body corporate, exercise the rights, powers and privileges and  incur  the  liabilities  and  obligations  of  a  natural person of full age and capacity.
+c. so far as is possible for a body corporate, exercise the rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
 
 #### Governing Board
 
 50. (1)  The  Governing  Board  of  the  National  Business  and  Technical Examination  Board  shall  consist  of  a  Chairperson  and  the  following members-
 
-- one representative of the Federal Ministry of Education;
+a. one representative of the Federal Ministry of Education;
 
-- one representative of the Examination Regulatory Council of Nigeria;
+b. one representative of the Examination Regulatory Council of Nigeria;
 
-- one representative of the Basic and Secondary Education Regulatory Commission;
+c. one representative of the Basic and Secondary Education Regulatory Commission;
 
-- one representative of the Tertiary Education Regulatory Commission;
+d. one representative of the Tertiary Education Regulatory Commission;
 
-- one representative of the Teachers Registration Council of Nigeria;
+e. one representative of the Teachers Registration Council of Nigeria;
 
-- one representative of the National Education Resource Commission;
+f. one representative of the National Education Resource Commission;
 
-- one representative of the Nigerian Employees Consultative Association;
+g. one representative of the Nigerian Employees Consultative Association;
 
-- one representative of the interest of women;
+h. one representative of the interest of women;
 
 31
 
@@ -946,35 +946,35 @@ b. make appropriate recommendations to the Board.
 
 [[START OF PAGE 32]]
 
-- one representative of COR Engineers of Nigeria;
+i. one representative of COR Engineers of Nigeria;
 
-- the  Registrar  of  the  Joint  Admission  and  Matriculation  Board  or  his representative;
+j. the Registrar of the Joint Admission and Matriculation Board or his representative;
 
-- one representative of interests not otherwise represented as above; and
+k. one representative of interests not otherwise represented as above; and
 
-- the Registrar of the Board.
+l. the Registrar of the Board.
 
 #### Registrar and Staff of the Board
 
-- There shall appointed the Registrar who shall be the Chief Executive and responsible for the day to day administration of the Council.
+51. There shall appointed the Registrar who shall be the Chief Executive and responsible for the day to day administration of the Council.
 
-- The  Council  shall  appoint  suitable  qualified  persons  as  staff  of  the Council to assist the Registrar in the performance of his functions under this Act.
+52. The Council shall appoint suitable qualified persons as staff of the Council to assist the Registrar in the performance of his functions under this Act.
 
-- The  appointment,  tenure  of  office,  remuneration  and  allowances, removal and other conditions of service of the Chairperson, members of the Board, Registrar  and Staff of the Council shall be as contained in Part 3 of this Act.
+53. The appointment, tenure of office, remuneration and allowances, removal and other conditions of service of the Chairperson, members of the Board, Registrar and Staff of the Council shall be as contained in Part 3 of this Act.
 
 #### Functions of the Board
 
-- The functions of the Board shall include the following -
+54. The functions of the Board shall include the following -
 
-- to conduct examinations leading to the award of the -
+a. to conduct examinations leading to the award of the -
 
-- National  Technical  certificate  /  National  Business  Certificate for  certified  craftsmen  in  all  fields  covering  all  sectors  of  the Nigerian economy,,
+(1)National Technical certificate / National Business Certificate for certified craftsmen in all fields covering all sectors of the Nigerian economy,,
 
-- Advanced National Technical Certificate / Advanced National Business  Certificate for master  craftsmen, technicians  and foremen/supervisory cadres,
+(2)Advanced National Technical Certificate / Advanced National Business Certificate for master craftsmen, technicians and foremen/supervisory cadres,
 
-- Modular Certificate for artisans, non-formal learners, apprentices, etc.
+(3)Modular Certificate for artisans, non-formal learners, apprentices, etc.
 
-- Higher National Technical Certificate / Higher National Business Certificate for middle level manpower and Advanced Enterprise Institutions / Career Institutions and holders Advanced National Technical Certificate / Advanced National Business Certificate;
+(4)Higher National Technical Certificate / Higher National Business Certificate for middle level manpower and Advanced Enterprise Institutions / Career Institutions and holders Advanced National Technical Certificate / Advanced National Business Certificate;
 
 32
 
@@ -982,25 +982,25 @@ b. make appropriate recommendations to the Board.
 
 [[START OF PAGE 33]]
 
-- implement Federal Government policy of repositioning Technical and Vocational  Education  as  the  driving  force  for    Nigeria's  economic development  and  an  antidote  to  the  prevailing  unemployment  and poverty in the country;
+b. implement Federal Government policy of repositioning Technical and Vocational Education as the driving force for Nigeria's economic development and an antidote to the prevailing unemployment and poverty in the country;
 
-- establish and empower regional offices in the six geo-political zones to make for greater efficiency and effectiveness in the performance of its functions;
+c. establish and empower regional offices in the six geo-political zones to make for greater efficiency and effectiveness in the performance of its functions;
 
-- collaborate with the Royal Society of Arts of London, City and Guilds of London and other international examination bodies with the aim of working together and / or jointly issuing vocational qualifications to Nigerians for international job mobility;
+d. collaborate with the Royal Society of Arts of London, City and Guilds of London and other international examination bodies with the aim of working together and / or jointly issuing vocational qualifications to Nigerians for international job mobility;
 
-- production of adequate manpower in the lower and middle cadre for the Nigerian economy;
+e. production of adequate manpower in the lower and middle cadre for the Nigerian economy;
 
-- issue results and  certificates  and  make  awards  in  examinations conducted by the Board;
+f. issue results and certificates and make awards in examinations conducted by the Board;
 
-- collaborate  with  the  National  Examination  Regulatory  Council  and other examination bodies in Nigeria in developing a common platform for  the  computerisation  and  provision  of  other  ICT  facilities  for  all public examination processes in Nigeria;
+g. collaborate with the National Examination Regulatory Council and other examination bodies in Nigeria in developing a common platform for the computerisation and provision of other ICT facilities for all public examination processes in Nigeria;
 
-- facilitate and participate in training workshops for staff of the Board to  acquire  ICT  skills  in  e-examinations,  multimedia  facilities,  office productivity tools, the use of internet and the like;
+h. facilitate and participate in training workshops for staff of the Board to acquire ICT skills in e-examinations, multimedia facilities, office productivity tools, the use of internet and the like;
 
-- update on demarcation and diversification of trades such as Tourism Studies, Mining Craft Practice, Cassava Studies, GSM Operation and Maintenance, etc. to reflect modern technology and the needs of the Nigerian economy;
+i. update on demarcation and diversification of trades such as Tourism Studies, Mining Craft Practice, Cassava Studies, GSM Operation and Maintenance, etc. to reflect modern technology and the needs of the Nigerian economy;
 
-- generate additional revenue for the Board through consultancy services;
+j. generate additional revenue for the Board through consultancy services;
 
-- sensitize  stakeholders  on  technical  and  vocational  education  and training  with  a  view  to  increasing  opportunities  for  Nigerian  youths for self employment;
+k. sensitize stakeholders on technical and vocational education and training with a view to increasing opportunities for Nigerian youths for self employment;
 
 33
 
@@ -1008,15 +1008,15 @@ b. make appropriate recommendations to the Board.
 
 [[START OF PAGE 34]]
 
-- accredit  all  Innovative  Enterprise  Institutions/Career  institutions  and appropriately certify all its products;
+l. accredit all Innovative Enterprise Institutions/Career institutions and appropriately certify all its products;
 
-- collaborate with professional bodies, regulatory authorities and other relevant  stakeholders  in  the  conduct  research,  publish  statistics  and other information in order to develop appropriate examinations, tests and syllable in technical and business services;
+m. collaborate with professional bodies, regulatory authorities and other relevant stakeholders in the conduct research, publish statistics and other information in order to develop appropriate examinations, tests and syllable in technical and business services;
 
-- prepare and submit to the Minister an annual report on standards of examinations and other related matters;
+n. prepare and submit to the Minister an annual report on standards of examinations and other related matters;
 
-- with the approval of the Minister, to invest its funds in any form of investments and securities in accordance with the appropriate law; and
+o. with the approval of the Minister, to invest its funds in any form of investments and securities in accordance with the appropriate law; and
 
-- carry out such other activities as are necessary or expedient for the full discharge of all or any of the functions conferred on it under this Act.
+p. carry out such other activities as are necessary or expedient for the full discharge of all or any of the functions conferred on it under this Act.
 
 34
 
@@ -1034,33 +1034,33 @@ b. make appropriate recommendations to the Board.
 
 (2) The  Council  shall  continue  to  be  a  body  corporate  with  perpetual succession and a common seal and may -
 
-- acquire, hold and dispose of real and personal property;
+a. acquire, hold and dispose of real and personal property;
 
-- sue and be sued; and
+b. sue and be sued; and
 
-- so far as is possible for a body corporate, exercise the rights, powers and privileges and  incur  the  liabilities  and  obligations  of  a  natural person of full age and capacity.
+c. so far as is possible for a body corporate, exercise the rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
 
 #### Governing Board
 
 56. (1)  The  Council  shall  have  a  Governing  Board  (the  'Board')  which shall consist of a Chairperson and the following members -
 
-- one representative of the Federal Ministry of Education;
+a. one representative of the Federal Ministry of Education;
 
-- six persons, one to represent each of the six geo-political zones of the country;
+b. six persons, one to represent each of the six geo-political zones of the country;
 
-- one  representative  of  the  All  Nigeria  Conference  of  Principals  of Secondary Schools;
+c. one representative of the All Nigeria Conference of Principals of Secondary Schools;
 
-- one representative of the Tertiary Education Regulatory Commission;
+d. one representative of the Tertiary Education Regulatory Commission;
 
-- one representative of the Nigeria Employers Consultative Association;
+e. one representative of the Nigeria Employers Consultative Association;
 
-- the  Registrar  of  the  Joint  Admission  and  Matriculation  Board  or  his representative;
+f. the Registrar of the Joint Admission and Matriculation Board or his representative;
 
-- one  person  to  represent  the  National  Parents  Teachers  Association (NPTA); and
+g. one person to represent the National Parents Teachers Association (NPTA); and
 
-- one representative of the Education Resource Commission;
+h. one representative of the Education Resource Commission;
 
-- the Registrar of the Council.
+i. the Registrar of the Council.
 
 35
 
@@ -1070,33 +1070,33 @@ b. make appropriate recommendations to the Board.
 
 #### Registrar and Staff of the Council
 
-- There shall appointed the Registrar who shall be the Chief Executive and responsible for the day to day administration of the Council.
+57. There shall appointed the Registrar who shall be the Chief Executive and responsible for the day to day administration of the Council.
 
-- The  Council  shall  appoint  suitable  qualified  persons  as  staff  of  the Council to assist the Registrar in the performance of his functions under this Act.
+58. The Council shall appoint suitable qualified persons as staff of the Council to assist the Registrar in the performance of his functions under this Act.
 
-- The  appointment,  tenure  of  office,  remuneration  and  allowances, removal and other conditions of service of the Chairperson, members of the Board, Registrar  and Staff of the Council shall be as contained in Part 3 of this Act.
+59. The appointment, tenure of office, remuneration and allowances, removal and other conditions of service of the Chairperson, members of the Board, Registrar and Staff of the Council shall be as contained in Part 3 of this Act.
 
 #### Functions
 
 60. The functions of the Council shall include -
 
-- conduct examinations leading to the award of the following certificates -
+a. conduct examinations leading to the award of the following certificates -
 
-- Junior Secondary School Certificate,
+i. Junior Secondary School Certificate,
 
-- National Common Entrance Examinations for admission into Federal Government College,
+ii. National Common Entrance Examinations for admission into Federal Government College,
 
-- examinations into the Suleja Academy,
+iii. examinations into the Suleja Academy,
 
-- Internal Senior Secondary School Certificate Examinations, and
+iv. Internal Senior Secondary School Certificate Examinations, and
 
-- external Senior Secondary School Certificate Examinations;
+v. external Senior Secondary School Certificate Examinations;
 
-- monitor,  collect  and  keep  records  of  continuous  assessment  of candidates in respect of examinations conducted by the Council;
+b. monitor, collect and keep records of continuous assessment of candidates in respect of examinations conducted by the Council;
 
-- conduct Standard National Assessment of Educational Performance at junior and senior Secondary School levels;
+c. conduct Standard National Assessment of Educational Performance at junior and senior Secondary School levels;
 
-- conduct  research  leading  to  national  improvement  of  testing  and examination  procedures  at  Junior  and  Senior  Secondary  School Levels;
+d. conduct research leading to national improvement of testing and examination procedures at Junior and Senior Secondary School Levels;
 
 36
 
@@ -1104,25 +1104,25 @@ b. make appropriate recommendations to the Board.
 
 [[START OF PAGE 37]]
 
-- implement Federal Government policy on Universal Basic Education programme;
+e. implement Federal Government policy on Universal Basic Education programme;
 
-- establish and empower regional offices in the six geo-political zones to make for greater efficiency and effectiveness in the performance of its functions;
+f. establish and empower regional offices in the six geo-political zones to make for greater efficiency and effectiveness in the performance of its functions;
 
-- issue  results  and  certificates  and  make  awards  in  examinations conducted by the Board;
+g. issue results and certificates and make awards in examinations conducted by the Board;
 
-- collaborate with the National Examination Regulatory Council and other  examination  bodies  in  Nigeria  in  developing  a  common platform for the computerisation and provision of other  ICT facilities for all public examination processes in Nigeria;
+h. collaborate with the National Examination Regulatory Council and other examination bodies in Nigeria in developing a common platform for the computerisation and provision of other ICT facilities for all public examination processes in Nigeria;
 
-- facilitate and participate in training workshops for staff of the Board to acquire ICT skills in e-examinations, multimedia facilities, office productivity tools, the use of internet and the like;
+i. facilitate and participate in training workshops for staff of the Board to acquire ICT skills in e-examinations, multimedia facilities, office productivity tools, the use of internet and the like;
 
-- generate  additional  revenue  for  the  Board  through  consultancy services;
+j. generate additional revenue for the Board through consultancy services;
 
-- to  invest  its  funds  in  any  form  of  investments  and  securities  in accordance with the appropriate law.
+k. to invest its funds in any form of investments and securities in accordance with the appropriate law.
 
-- collaborate with professional bodies, regulatory authorities and other relevant stakeholders in the conduct research, publish statistics and other  information  in  order  to  develop  appropriate  examination process in Nigeria;
+l. collaborate with professional bodies, regulatory authorities and other relevant stakeholders in the conduct research, publish statistics and other information in order to develop appropriate examination process in Nigeria;
 
-- prepare and submit to the Minister an annual report on standards of examinations and other related matters; and
+m. prepare and submit to the Minister an annual report on standards of examinations and other related matters; and
 
-- carry out such other activities as are necessary or expedient for the full discharge of all or any of the functions conferred on it under this Part of this Act.
+n. carry out such other activities as are necessary or expedient for the full discharge of all or any of the functions conferred on it under this Part of this Act.
 
 37
 
@@ -1138,11 +1138,11 @@ b. make appropriate recommendations to the Board.
 
 WHEREAS:
 
-- The Revised Convention establishing the West African Examination Council  has  been  duly  adopted  by  Ghana,  Liberia,  Nigeria,  Sierra Leone and The Gambia.
+1. The Revised Convention establishing the West African Examination Council has been duly adopted by Ghana, Liberia, Nigeria, Sierra Leone and The Gambia.
 
-- The Federal Republic of Nigeria being a signatory to the Convention is desirous of adhering to the said Revised Convention.
+2. The Federal Republic of Nigeria being a signatory to the Convention is desirous of adhering to the said Revised Convention.
 
-- Ii  is  necessary  and  expedient  to  make  legislative  provision  for  the enforcement in Nigeria of the said Revised Convention by way of an Act of the National Assembly
+3. It is necessary and expedient to make legislative provision for the enforcement in Nigeria of the said Revised Convention by way of an Act of the National Assembly
 
 #### Establishment
 
@@ -1156,7 +1156,7 @@ WHEREAS:
 
 ## CHAPTER 8
 
-### JOINT ADMISSIONS AND MATRICULA TION BOARD
+### JOINT ADMISSIONS AND MATRICULATION BOARD
 
 #### Establishment
 
@@ -1164,29 +1164,29 @@ WHEREAS:
 
 (2) The  Board  shall  continue  to  be  a  body  corporate  with  perpetual succession and a common seal and may -
 
-- acquire, hold and dispose of real and personal property;
+a. acquire, hold and dispose of real and personal property;
 
-- sue and be sued; and
+b. sue and be sued; and
 
-- so far as is possible for a body corporate, exercise the rights, powers and privileges and  incur  the  liabilities  and  obligations  of  a  natural person of full age and capacity.
+c. so far as is possible for a body corporate, exercise the rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
 
 #### The Governing Board
 
 63. (1) The Governing Board of the Joint Admissions and Matriculation Board shall consist of the Chairperson and the following members -
 
-- one representative of the Federal Ministry of Education;
+a. one representative of the Federal Ministry of Education;
 
-- one representative one representative of the Tertiary Education Regulatory Commission;
+b. one representative one representative of the Tertiary Education Regulatory Commission;
 
-- one representative of the Committee of Vice-Chancellors;
+c. one representative of the Committee of Vice-Chancellors;
 
-- one representative of the Nigerian Conference of Principals of Basic and Secondary Education Schools;
+d. one representative of the Nigerian Conference of Principals of Basic and Secondary Education Schools;
 
-- one  representative  of  the  National  Examination  Regulatory Council;
+e. one representative of the National Examination Regulatory Council;
 
-- one representative of the National Education Resource Commission;
+f. one representative of the National Education Resource Commission;
 
-- one representative of the Women societies;
+g. one representative of the Women societies;
 
 39
 
@@ -1194,31 +1194,31 @@ WHEREAS:
 
 [[START OF PAGE 40]]
 
-- one person to represent interests  not  otherwise  represented  on the, Board;
+h. one person to represent interests not otherwise represented on the, Board;
 
-- one representative of the Nigeria Employers  Consultative Association;
+i. one representative of the Nigeria Employers Consultative Association;
 
-- one person to represent the National Parents Teachers Association; and
+j. one person to represent the National Parents Teachers Association; and
 
-- the Registrar of the Joint Admission and Matriculation Board.
+k. the Registrar of the Joint Admission and Matriculation Board.
 
 #### Registrar and Staff of the Board
 
-- There shall appointed the Registrar who shall be the Chief Executive and responsible for the day to day administration of the Board.
+64. There shall appointed the Registrar who shall be the Chief Executive and responsible for the day to day administration of the Board.
 
-- The  Board  shall  appoint  suitable  qualified  persons  as  staff  of  the Board to assist the Registrar in the performance of his functions under this Act.
+65. The Board shall appoint suitable qualified persons as staff of the Board to assist the Registrar in the performance of his functions under this Act.
 
-- The  appointment,  tenure  of  office,  remuneration  and  allowances, removal and other conditions of service of the Chairperson, members of the Board, Registrar  and Staff of the Board shall be as contained in Part 3 of this Act.
+66. The appointment, tenure of office, remuneration and allowances, removal and other conditions of service of the Chairperson, members of the Board, Registrar and Staff of the Board shall be as contained in Part 3 of this Act.
 
 #### Functions
 
 67. (1) The functions of the Board shall include the following -
 
-- the  general  control  of  the  conduct  of  matriculation  examinations leading to undergraduate (excluding post-graduate) admissions into all universities in Nigeria;
+a. the general control of the conduct of matriculation examinations leading to undergraduate (excluding post-graduate) admissions into all universities in Nigeria;
 
-- the appointment of examiners, moderators, invigilators, members of subject  panels  and  committees  and  other  persons  with  respect  to matriculation  examinations  and  any  other  incidental  or  connected matter;
+b. the appointment of examiners, moderators, invigilators, members of subject panels and committees and other persons with respect to matriculation examinations and any other incidental or connected matter;
 
-- to  facilitate  and  participate  in  the  training  of  its  officers,  staff  and other employees on modern examination processes;
+c. to facilitate and participate in the training of its officers, staff and other employees on modern examination processes;
 
 40
 
@@ -1226,7 +1226,7 @@ WHEREAS:
 
 [[START OF PAGE 41]]
 
-- the placement of suitable qualified candidates in the tertiary institutions having taken into account-
+d. the placement of suitable qualified candidates in the tertiary institutions having taken into account-
 
 (i) the vacancies available in each tertiary institution,
 
@@ -1236,17 +1236,17 @@ WHEREAS:
 
 (iv)  such  other  matters  as  the  Board  may  be  directed  by  the Minister to consider, or the Board itself may consider appropriate in the circumstances;
 
-- the collection and dissemination of information on all matters relating to admissions into tertiary institutions or to any other matter relevant to the discharge of the functions of the Board under this Act;
+e. the collection and dissemination of information on all matters relating to admissions into tertiary institutions or to any other matter relevant to the discharge of the functions of the Board under this Act;
 
-- to provide consultancy services to both the private and public sector;
+f. to provide consultancy services to both the private and public sector;
 
-- with the approval of the Minister, to invest its funds in any form of investments and securities in accordance with the appropriate law;
+g. with the approval of the Minister, to invest its funds in any form of investments and securities in accordance with the appropriate law;
 
-- to  collaborate  with  the  National  Examination  Regulatory  Council  in the  development  of  Information  and  Communication  Technology facilities;
+h. to collaborate with the National Examination Regulatory Council in the development of Information and Communication Technology facilities;
 
 55. (1)  The  body  corporate  constituted  under  section  1  of  the  National Examination  Council  (NECO)  Establishment)  Act  2002  as  the  National Examination Council (the 'Council') is preserved and continues to be a body corporate for the purposes of this Act so that its corporate identity and its rights and obligations are not affected by the repeal of that Act.
 
-- to carry out such other activities as are necessary or expedient for the full discharge of all or any of the functions conferred on it under this Act.
+i. to carry out such other activities as are necessary or expedient for the full discharge of all or any of the functions conferred on it under this Act.
 
 41
 
@@ -1264,19 +1264,19 @@ WHEREAS:
 
 (2) The  National  Library  shall  continue  to  be  a  body  corporate  with perpetual succession and a common seal and may:
 
-- acquire, hold and dispose of real and personal property;
+a. acquire, hold and dispose of real and personal property;
 
-- sue and be sued; and
+b. sue and be sued; and
 
-- so far as is possible for a body corporate, exercise the rights, powers and  privileges  and  incur  the  liabilities  and  obligations  of  a  natural person of full age and capacity.
+c. so far as is possible for a body corporate, exercise the rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
 
 #### Purpose clause
 
-- The purpose of this chapter are as follows-
+69. The purpose of this chapter are as follows-
 
-- to strengthened  the National  Library in the performance  of  its functions under this Act;
+a. to strengthened the National Library in the performance of its functions under this Act;
 
-- to provide adequate sanctions to deal with author and publishers who default in complying with the deposit of publications.
+b. to provide adequate sanctions to deal with author and publishers who default in complying with the deposit of publications.
 
 #### Governing Board
 
@@ -1310,19 +1310,19 @@ WHEREAS:
 
 #### Director-General and Staff of the Board
 
-- There  shall  appointed  the  Director-General  who  shall  be  the  Chief Executive and responsible for the day to day administration of the National Library.
+71. There shall appointed the Director-General who shall be the Chief Executive and responsible for the day to day administration of the National Library.
 
-- The National Library shall appoint suitable qualified persons as staff of the National Library to assist the Director-General in the performance of his functions under this Act.
+72. The National Library shall appoint suitable qualified persons as staff of the National Library to assist the Director-General in the performance of his functions under this Act.
 
-- The  appointment,  tenure  of  office,  remuneration  and  allowances, removal and other conditions of service of the Chairperson, members of the Board  of  the  National  Library,  Director-General  and  Staff  of  the  National Library shall be as contained in Part 3 of this Act.
+73. The appointment, tenure of office, remuneration and allowances, removal and other conditions of service of the Chairperson, members of the Board of the National Library, Director-General and Staff of the National Library shall be as contained in Part 3 of this Act.
 
 #### Functions
 
-- 74 . (1) The functions of the Board of the National Library shall be-
+74. (1) The functions of the Board of the National Library shall be-
 
-- to act as a national depository institution for books and other research materials in Nigeria;
+a. to act as a national depository institution for books and other research materials in Nigeria;
 
-- to act as the focal institution and advisory body to  individual, corporate and Government institutions on library and information matters;
+b. to act as the focal institution and advisory body to individual, corporate and Government institutions on library and information matters;
 
 43
 
@@ -1330,19 +1330,19 @@ WHEREAS:
 
 [[START OF PAGE 44]]
 
-- to acquire, process, organize, disseminate as well as provide links to information resources to Nigerians and non - Nigerians alike, for their educational pursuit and for informed decision making;
+c. to acquire, process, organize, disseminate as well as provide links to information resources to Nigerians and non - Nigerians alike, for their educational pursuit and for informed decision making;
 
-- to  assemble  and  maintain  a  collection  of  all  books,  periodicals, newspapers,  maps,  gazettes,  Acts,  Laws,  Bye-Laws,  all  subsidiary legislations, notices, orders  and other government publications which are published in Nigeria;
+d. to assemble and maintain a collection of all books, periodicals, newspapers, maps, gazettes, Acts, Laws, Bye-Laws, all subsidiary legislations, notices, orders and other government publications which are published in Nigeria;
 
-- to  assemble  and  maintain  a  collection  of  all  musical  recording  and films produced in Nigeria;
+e. to assemble and maintain a collection of all musical recording and films produced in Nigeria;
 
-- to  establish  and  maintain  the  National  Library  and  Information Service Centre in each of the six geo-political zones of the federation;
+f. to establish and maintain the National Library and Information Service Centre in each of the six geo-political zones of the federation;
 
-- to develop networks and linkages with other libraries in Nigeria and anywhere in the world;
+g. to develop networks and linkages with other libraries in Nigeria and anywhere in the world;
 
-- to prepare catalogues, indexes and similar research aids;
+h. to prepare catalogues, indexes and similar research aids;
 
-- to make the facilities of the National Library and Information Service Center available to members of the public and others on proper terms, which may includes provision for-
+i. to make the facilities of the National Library and Information Service Center available to members of the public and others on proper terms, which may includes provision for-
 
 (i) registration of persons admitted to use the library facilities;
 
@@ -1350,11 +1350,11 @@ WHEREAS:
 
 (iii) safe - guarding the property of the Board.
 
-- to provide consultancy services to individuals, communities, corporate bodies,  agencies  and  other  government  bodies  wishing  to  establish libraries;
+j. to provide consultancy services to individuals, communities, corporate bodies, agencies and other government bodies wishing to establish libraries;
 
-- to develop the national bibliography of Nigeria and national bibliography centre or elsewhere;
+k. to develop the national bibliography of Nigeria and national bibliography centre or elsewhere;
 
-- to  prescribe  the  rules  and  procedure  for  granting  applications  for ISBN / ISSN / NBN / CIP, etc;
+l. to prescribe the rules and procedure for granting applications for ISBN / ISSN / NBN / CIP, etc;
 
 44
 
@@ -1362,21 +1362,21 @@ WHEREAS:
 
 [[START OF PAGE 45]]
 
-- to engage in research on any subject of national interest and publish its findings for public use;
+m. to engage in research on any subject of national interest and publish its findings for public use;
 
-- to provide and encourage staff to undertake capacity building and skill acquisition programmes to enhance their skills in the performance of their duties to the Board;
+n. to provide and encourage staff to undertake capacity building and skill acquisition programmes to enhance their skills in the performance of their duties to the Board;
 
-- to  engage  in  readership  campaign  with  a  view  to  encouraging readership culture and awareness among Nigerians;
+o. to engage in readership campaign with a view to encouraging readership culture and awareness among Nigerians;
 
-- to  provide  leadership  initiative  in  the  area  of  resource  sharing  and library cooperation;
+p. to provide leadership initiative in the area of resource sharing and library cooperation;
 
-- to  audit  the  source  of  unrecorded  information  such  as  indigenous knowledge  which  are  required  for  continued  research  into  national origin of our history and culture;
+q. to audit the source of unrecorded information such as indigenous knowledge which are required for continued research into national origin of our history and culture;
 
-- to  develop  Information  and  Communications  Technologies  (ICT) facilities  to  ensure  that  the  services  of  the  National  Library  and Information Service Centre are offered in real time, more widely and more efficiently;
+r. to develop Information and Communications Technologies (ICT) facilities to ensure that the services of the National Library and Information Service Centre are offered in real time, more widely and more efficiently;
 
-- to develop a Virtual Library for Nigeria;  and
+s. to develop a Virtual Library for Nigeria; and
 
-- to provide in accordance with this Act such services as in the opinion on  the  Board  are  usually  provided  by  national  libraries  all  over  the world;
+t. to provide in accordance with this Act such services as in the opinion on the Board are usually provided by national libraries all over the world;
 
 #### Deposits of published works
 
@@ -1408,29 +1408,29 @@ WHEREAS:
 
 ### SPECIAL EDUCATION COMMISSION
 
-(1) The Special Education Commission is established.
+76. (1) The Special Education Commission is established.
 
 (2) The Commission is a body corporate with perpetual succession and a common seal and may:
 
-- acquire, hold and dispose of real and personal property;
+a. acquire, hold and dispose of real and personal property;
 
-- sue and be sued; and
+b. sue and be sued; and
 
-- so  far  as  is  possible  for  a  body  corporate,  exercise  the  rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
+c. so far as is possible for a body corporate, exercise the rights, powers and privileges and incur the liabilities and obligations of a natural person of full age and capacity.
 
-- Schedule 1 has effect with respect to the constitution and proceedings of the Commission
+(3) Schedule 1 has effect with respect to the constitution and proceedings of the Commission
 
 #### Consolidation of certain bodies
 
-77. From the commencement of this Act, the bodies presently known as the Nigerian French Language Village (NFLV), the Nigerian Arabic Language Village  (NALV),  National  Commission  for  Nomadic  Education  and  the National Commission for Adult Education, Mass Literacy and Non-Formal Education are consolidated into one body known as the Special Education Commission established under section 76 of this Act.
+77. From the commencement of this Act, the bodies presently known as the Nigerian French Language Village (NFLV), the Nigerian Arabic Language Village (NALV), National Commission for Nomadic Education and the National Commission for Adult Education, Mass Literacy and Non-Formal Education are consolidated into one body known as the Special Education Commission established under section 76 of this Act.
 
 #### Purpose clause
 
 78. The purposes of this Part of this Act are to -
 
-- consolidate the Nigerian French Language Village (NFLV), the Nigerian Arabic Language Village (NALV), National Commission for Nomadic Education and the National Commission  for  Adult  Education,  Mass  Literacy  and  NonFormal Education into one body known as the Special Education Commission established under section 76 of this Act;
+a. consolidate the Nigerian French Language Village (NFLV), the Nigerian Arabic Language Village (NALV), National Commission for Nomadic Education and the National Commission for Adult Education, Mass Literacy and Non-Formal Education into one body known as the Special Education Commission established under section 76 of this Act;
 
-- establish a body known as the Special Education Commission to takeover the functions previously performed by the Nigerian
+b. establish a body known as the Special Education Commission to takeover the functions previously performed by the Nigerian
 
 47
 
@@ -1440,39 +1440,39 @@ WHEREAS:
 
 French Language Village (NFLV), the Nigerian Arabic Language Village (NALV), National Commission for Nomadic Education  and  the  National  Commission  for  Adult  Education, Mass Literacy and Non-Formal Education; and
 
-- to  pursue  the  objective  of  the  Federal  Government  vision  of Education for All by addressing perceived gaps in groups that mainstream education system has ignored.
+c. to pursue the objective of the Federal Government vision of Education for All by addressing perceived gaps in groups that mainstream education system has ignored.
 
 #### Governing Board
 
 79. (1) The Governing Board of the Commission (the 'Board') shall consist of the Chairperson and the following members -
 
-- one representative from the Federal Ministry of Education;
+a. one representative from the Federal Ministry of Education;
 
-- one representative of the Federal Ministry of Information;
+b. one representative of the Federal Ministry of Information;
 
-- one representative of the Federal Ministry of Health;
+c. one representative of the Federal Ministry of Health;
 
-- one representative of the National Planning Commission;
+d. one representative of the National Planning Commission;
 
-- all Heads of Language Villages established by the Commission;
+e. all Heads of Language Villages established by the Commission;
 
-- one representative of National Association of Linguistic Teachers;
+f. one representative of National Association of Linguistic Teachers;
 
-- one representative of the National Educational Research and Planning Bureau;
+g. one representative of the National Educational Research and Planning Bureau;
 
-- one persons representing women group;
+h. one persons representing women group;
 
-- six  person  with  relevant  knowledge  and  experience  selected  on  the basis of one from each geo-political zone of Nigeria; and
+i. six person with relevant knowledge and experience selected on the basis of one from each geo-political zone of Nigeria; and
 
-- the Director-General of the Commission.
+j. the Director-General of the Commission.
 
 #### Director-General and Staff of the Commission
 
 80. There  shall  appointed  the  Director-General  who  shall  be  the  Chief Executive and responsible for the day to day administration of the Commission.
 
-- The  Commission  shall  appoint  suitable  qualified  persons  as  staff  of the  Commission  to  assist  the  Director-General  in  the  performance  of  his functions under this Act.
+81. The Commission shall appoint suitable qualified persons as staff of the Commission to assist the Director-General in the performance of his functions under this Act.
 
-- The  appointment,  tenure  of  office,  remuneration  and  allowances, removal and other conditions of service of the Chairperson, members of the
+82. The appointment, tenure of office, remuneration and allowances, removal and other conditions of service of the Chairperson, members of the
 
 48
 
@@ -1486,21 +1486,21 @@ Commission,  Director-General    and  Staff  of  the  Commission  shall  be  as 
 
 83. (1) The functions of the Commission shall include to -
 
-- takeover the functions previously performed by the Nigerian French Language  Village  (NFLV),  the  Nigerian  Arabic  Language  Village (NALV),  the  National  Commission  for  Nomadic  Education  and  the National  Commission for Adult Education, Mass Literacy and NonFormal Education;
+a. takeover the functions previously performed by the Nigerian French Language Village (NFLV), the Nigerian Arabic Language Village (NALV), the National Commission for Nomadic Education and the National Commission for Adult Education, Mass Literacy and Non-Formal Education;
 
-- collaborate with all levels of Government to implement the objectives of the Federal Government vision of Education for All and the United Nations  Millennium  Development  Goals  (MGDs)  by  addressing perceived  gaps  in  groups  that  mainstream  education  system  has ignored;
+b. collaborate with all levels of Government to implement the objectives of the Federal Government vision of Education for All and the United Nations Millennium Development Goals (MGDs) by addressing perceived gaps in groups that mainstream education system has ignored;
 
-- make recommendations to the National Council of Ministers through the Minister on the need to establish a language immersion village in Nigeria in respect of any language spoken in Nigeria or anywhere in the world;
+c. make recommendations to the National Council of Ministers through the Minister on the need to establish a language immersion village in Nigeria in respect of any language spoken in Nigeria or anywhere in the world;
 
-- provide  language  immersion  programme  for  graduate  and  postgraduate students in tertiary institutions in Nigeria;
+d. provide language immersion programme for graduate and post-graduate students in tertiary institutions in Nigeria;
 
-- provide  intensive  training  for  individuals  and  corporate  bodies  in languages  approved  by  the  Commission  and  award  certificate  of attendance and diploma to participants;
+e. provide intensive training for individuals and corporate bodies in languages approved by the Commission and award certificate of attendance and diploma to participants;
 
-- produce  and  publish  educational  materials,  develop  languages  and interpretation laboratory infrastructures;
+f. produce and publish educational materials, develop languages and interpretation laboratory infrastructures;
 
-- advance the integration of cultures among the people of Nigeria and promote the foreign policy of the Federal Government through the use of language development;
+g. advance the integration of cultures among the people of Nigeria and promote the foreign policy of the Federal Government through the use of language development;
 
-- provide the opportunity for the rural and urban adults, nomads and all migrant  groups,  school  drop-outs,  social  miscreants, almajai, prison
+h. provide the opportunity for the rural and urban adults, nomads and all migrant groups, school drop-outs, social miscreants, almajai, prison
 
 49
 
@@ -1508,17 +1508,17 @@ Commission,  Director-General    and  Staff  of  the  Commission  shall  be  as 
 
 [[START OF PAGE 50]]
 
-- inmates  and  all  persons  not  provided  for  in  the  system  of  formal education the opportunity to receive education Basic education;
+inmates and all persons not provided for in the system of formal education the opportunity to receive education Basic education;
 
-- establish and support institutions engaged in providing special education to the physically and mentally challenged and other disadvantaged persons in our society;
+i. establish and support institutions engaged in providing special education to the physically and mentally challenged and other disadvantaged persons in our society;
 
-- award certificates of attendance, certificates and diplomas to persons who  have completed the courses of study undertaken by the Commission;
+j. award certificates of attendance, certificates and diplomas to persons who have completed the courses of study undertaken by the Commission;
 
-- to act as the agency for channeling all external aid to the Commission in Nigeria;
+k. to act as the agency for channeling all external aid to the Commission in Nigeria;
 
-- to  invest  its  funds  in  any  form  of  investments  and  securities  in accordance with the appropriate law;  and
+l. to invest its funds in any form of investments and securities in accordance with the appropriate law; and
 
-- to  carry  out  such  other  activities  as  may  be  directed  by  the  Minister which are conducive to the discharge of its functions under this Part of this Act.
+m. to carry out such other activities as may be directed by the Minister which are conducive to the discharge of its functions under this Part of this Act.
 
 #### Continued existence of the Arabic and French Language Villages
 
@@ -1582,15 +1582,15 @@ Commission,  Director-General    and  Staff  of  the  Commission  shall  be  as 
 
 #### Director-General and Staff of the Centre
 
-- There  shall  appointed  the  Director-General  who  shall  be  the  Chief Executive and responsible for the day to day administration of the Centre.
+88. There shall appointed the Director-General who shall be the Chief Executive and responsible for the day to day administration of the Centre.
 
-- The  Centre  shall  appoint  suitable  qualified  persons  as  staff  of  the Centre  to  assist  the  Director-General  in  the  performance  of  his  functions under this Act.
+89. The Centre shall appoint suitable qualified persons as staff of the Centre to assist the Director-General in the performance of his functions under this Act.
 
-- The  appointment,  tenure  of  office,  remuneration  and  allowances, removal and other conditions of service of the Chairperson, members of the Board, Director-General  and Staff of the Council shall be as contained in Part 3 of this Act.
+90. The appointment, tenure of office, remuneration and allowances, removal and other conditions of service of the Chairperson, members of the Board, Director-General and Staff of the Council shall be as contained in Part 3 of this Act.
 
 #### Functions
 
-- The functions of the Centre shall include the following-
+91. The functions of the Centre shall include the following-
 
 - to  provide  support  in  the  development  of  science  and  technology  in Nigeria;
 
@@ -1620,7 +1620,7 @@ Commission,  Director-General    and  Staff  of  the  Commission  shall  be  as 
 
 - to perform such other functions that are related to those set out in this section and do such other things as are, in the opinion of the Board necessary for carrying out the functions of the Centre under this Act.
 
-- The Centre shall have the power to establish Academic Board to assist it in the performance of its functions under this Act.
+92. The Centre shall have the power to establish Academic Board to assist it in the performance of its functions under this Act.
 
 53
 
@@ -1678,11 +1678,11 @@ Commission,  Director-General    and  Staff  of  the  Commission  shall  be  as 
 
 #### The Registrar-General and Staff
 
-- There  shall  appointed  the  Registrar-General  who  shall  be  the  Chief Executive and responsible for the day to day administration of the Centre.
+96. There shall appointed the Registrar-General who shall be the Chief Executive and responsible for the day to day administration of the Centre.
 
-- The  Council  shall  appoint  suitable  qualified  persons  as  staff  of  the Council to assist the Registrar-General in the performance of his functions under this Act.
+97. The Council shall appoint suitable qualified persons as staff of the Council to assist the Registrar-General in the performance of his functions under this Act.
 
-- The  appointment,  tenure  of  office,  remuneration  and  allowances, removal and other conditions of service of the Chairperson, members of the Board, Registrar-General  and Staff of the Council shall be as contained in Part 3 of this Act.
+98. The appointment, tenure of office, remuneration and allowances, removal and other conditions of service of the Chairperson, members of the Board, Registrar-General and Staff of the Council shall be as contained in Part 3 of this Act.
 
 #### Functions of the Council
 
@@ -1750,7 +1750,7 @@ Commission,  Director-General    and  Staff  of  the  Commission  shall  be  as 
 
 - to  keep  the  register  and  lists  to  deposited  available  at  all reasonable times for inspection by members of the public.
 
-- In the performance of his functions if the Registrar - General may-
+(2) In the performance of his functions if the Registrar - General may-
 
 - send  by  post  to  any  registered  person,  a  registered  letter addressed  to  him  at  his  address  on  the  register  enquiring whether the registered particulars relating to him are correct and receives  no  reply  to  the  letter  within  the  period  of  six months from the date of posting it; and
 
@@ -1766,13 +1766,13 @@ Commission,  Director-General    and  Staff  of  the  Commission  shall  be  as 
 
 #### Registration with the Council
 
-(1) Applicants for registration with the Council must:
+102. (1) Applicants for registration with the Council must:
 
 - pass a qualifying examination accepted by Council and completes  the  practical  teaching  prescribed  by  the  Council under this decree;
 
 - not  being  a  Nigerian,  he  holds  a  qualification  granted  outside Nigeria which for the time being is recognized by the Council and  he  is  by  law  entitled  to  practice  the  profession  in  the country in which the qualification was granted provided that the other country accords Nigerian professional teachers the same reciprocal treatment and that he satisfies the Council that he has had sufficient practical experience as a teacher.
 
-- Applicant for registration shall, in addition to evidence of qualification, satisfy the Council that -
+(2) Applicant for registration shall, in addition to evidence of qualification, satisfy the Council that -
 
 - he is of good character;
 
@@ -1780,9 +1780,9 @@ Commission,  Director-General    and  Staff  of  the  Commission  shall  be  as 
 
 - he has not been convicted in Nigeria or elsewhere of an offence involving fraud or dishonesty.
 
-- The Council shall, from time to time, publish in the gazette particulars of  qualifications  for  the  time  being  accepted  by  the  Council  for purposes of registration.
+(3) The Council shall, from time to time, publish in the gazette particulars of qualifications for the time being accepted by the Council for purposes of registration.
 
-(1)  The  Council  may  approve  an  institution  for  the  purposes  of  this Act, and may for those purposes approve -
+103. (1) The Council may approve an institution for the purposes of this Act, and may for those purposes approve -
 
 - any  course  of  training  at  any  approved  institution  which  is intended for persons who are seeking to become or are already teachers and which the Council considers is designed to confer on  persons  completing  it  sufficient  knowledge  and  skill  for admission as professional teachers;
 
@@ -1914,7 +1914,7 @@ but no visitor shall interfere with the giving of any instruction or the holding
 
 - one representative of the National Education Resource Commission;
 
-- six  members  of  the  Council  representing  each  of  the  six  geopolitical zones in Nigeria.
+- six members of the Council representing each of the six geo-political zones in Nigeria.
 
 (3) No person who is connected with either the investigation of a complaint or the decision by the Council to present a complaint against a Teacher for determination shall sit as a member of the Committee.
 
@@ -2184,11 +2184,11 @@ is  severally  guilty  of  that  offence  and  liable  to  be  proceeded  agains
 
 #### Unity Schools Trust Department
 
-(1) The Board of Trustees shall establish a Department to be known as the Unity Schools Trust Department.
+130. (1) The Board of Trustees shall establish a Department to be known as the Unity Schools Trust Department.
 
-- The Unity Trust Department shall be responsible for raising funds form the day to day running of the Unity Schools in Nigeria.
+(2) The Unity Trust Department shall be responsible for raising funds form the day to day running of the Unity Schools in Nigeria.
 
-- The funds of the Unity Trust Department shall consist of -
+(3) The funds of the Unity Trust Department shall consist of -
 
 a.
 
@@ -2204,15 +2204,15 @@ c.
 
 #### Establishment of School Management Organisations (SMO)
 
-- 131 . (1) From the commencement of this Act, each Unity School in Nigeria shall be managed by a School Management Organisation.
+131. (1) From the commencement of this Act, each Unity School in Nigeria shall be managed by a School Management Organisation.
 
-- The  School  Management  Organisation  shall  be  a  body  corporate registered  under  the  Companies  and  Allied  Matters  Act  as  a  Private Company Limited by guarantee.
+(2) The School Management Organisation shall be a body corporate registered under the Companies and Allied Matters Act as a Private Company Limited by guarantee.
 
 #### Membership of the School Management Organisation
 
 .
 
-(1) The School Management Organisation of each Unity School shall consist of-
+132. (1) The School Management Organisation of each Unity School shall consist of-
 
 - the Principal who shall be the Chairperson;
 
@@ -2256,7 +2256,7 @@ c.
 
 - invest and finance the expansion of the facilities of the school (using fund  raised by it , operating surpluses generated internally and expansion grants);
 
-- provide continuous training and development of the teachers and nonacademic staff;
+- provide continuous training and development of the teachers and non-academic staff;
 
 - comply with the conditions of service for teachers and non academic staff set by the trust in line with the guidelines;
 
@@ -2304,7 +2304,7 @@ c.
 
 - with  intend  to  defraud,  fails  to  disclose  to  the  Board  any  material information  within  his  knowledge,    he  shall  be  guilty  of  an  offence and liable on conviction to a fine of N50,000  or imprisonment for a term  not exceeding twelve months or both.
 
-- For the purpose of achieving purposeful and efficient administration of loan scheme, the following shall be the required guidelines, that is-
+135. For the purpose of achieving purposeful and efficient administration of loan scheme, the following shall be the required guidelines, that is-
 
 - the institution of learning shall be required to certified that the student seeking a loan is its bona fide student;
 
@@ -2316,7 +2316,7 @@ c.
 
 - the loan shall attract an interest rate of 7 per cent.
 
-- 136 . (1)  Every  loan  granted  by  the  Board  of  Trustees  shall  be  due  for repayment within a period of two years from the graduation or immediately the student is employed which ever is earlier.
+136. (1) Every loan granted by the Board of Trustees shall be due for repayment within a period of two years from the graduation or immediately the student is employed which ever is earlier.
 
 75
 
@@ -2340,7 +2340,7 @@ c.
 
 (3) The guarantors of a beneficiary outside Nigeria shall become liable in the case of default in the repayment of the loan as and when due.
 
-(4)  Where,  after  leaving  the  tertiary  or  institution  of  higher  learning  a borrower  becomes  self-employed,  whether  in  Nigeria  or  abroad,  he  shall make payment of every sum payable under this Act directly to the Board of Trustees on such terms and conditions as the Board of Trustees may direct and the Board of Trustees shall be empowered to recover such sum in any manner it may deem appropriate or expedient in the circumstances.
+(4) Where, after leaving the tertiary or institution of higher learning a borrower becomes self-employed, whether in Nigeria or abroad, he shall make payment of every sum payable under this Act directly to the Board of
 
 76
 
@@ -2348,9 +2348,11 @@ c.
 
 [[START OF PAGE 77]]
 
+Trustees on such terms and conditions as the Board of Trustees may direct and the Board of Trustees shall be empowered to recover such sum in any manner it may deem appropriate or expedient in the circumstances.
+
 (5) For the purposes of this section, the Board of Trustees may commence an action for the recovery of the loan in a court of competent jurisdiction.
 
-130. (1)  For  the  purposes  of  the  provisions  of  this  Act,  the  Executive Secretary may by notice in writing either generally or otherwise require any borrower to furnish information in respect of any matter and in such manner as may be specified by him.
+139. (1) For the purposes of the provisions of this Act, the Executive Secretary may by notice in writing either generally or otherwise require any borrower to furnish information in respect of any matter and in such manner as may be specified by him.
 
 (2) Any borrower required to furnish any information under subsection (1) of  this  section  shall  within  two  months  from  the  notice  comply  with  the notice.
 
@@ -2364,7 +2366,7 @@ c.
 
 - to extend from time to time the period of repayment of any loan, or compound or release any loan or part of the loan upon such terms and conditions as may be necessary.
 
-(3) Where any property devolves upon the Board of Trustees for the purpose of the enforcement of any security given in any agreement entered into under this Act, the Board of Trustees may either manage and hold such property or sell or otherwise dispose of it as may be necessary.
+(3) Where any property devolves upon the Board of Trustees for the purpose of the enforcement of any security given in any agreement entered into under
 
 77
 
@@ -2372,7 +2374,9 @@ c.
 
 [[START OF PAGE 78]]
 
-(4) Where it appears to the Board of Trustees that any sum, being the whole or  part  of  the  loan  made  by  it  has  not  been  applied  for  the  purposes  for which the loan was made, it may order that such sum be repaid within the time  mentioned  in  the  order  and  any  sum  so  ordered  to  be  repaid  shall become a debt due to the Board of Trustees.
+this Act, the Board of Trustees may either manage and hold such property or sell or otherwise dispose of it as may be necessary.
+
+(4) Where it appears to the Board of Trustees that any sum, being the whole or part of the loan made by it has not been applied for the purposes for which the loan was made, it may order that such sum be repaid within the time mentioned in the order and any sum so ordered to be repaid shall become a debt due to the Board of Trustees.
 
 78
 
@@ -2428,7 +2432,7 @@ c.
 
 (10) Schedule 2 has effect with respect to the proceedings of the Governing Board of the bodies established under this Act.
 
-144. (1) The President shall on the recommendation of the Minister appoint for the each body established under Part 2 of this Act a Chief Executive who is  referred  to  under  different  names  as  the  Executive  Secretary,  DirectorGeneral or Registrar respectively.
+144. (1) The President shall on the recommendation of the Minister appoint for the each body established under Part 2 of this Act a Chief Executive who is referred to under different names as the Executive Secretary, Director-General or Registrar respectively.
 
 (2) The Chief Executive shall be responsible for the execution of the policy and the day-to-day running of the affairs of the body.
 
@@ -2460,7 +2464,7 @@ c.
 
 b. appeals by such staff against dismissal or other disciplinary measures,
 
-and until such regulations are made,  any instrument relating to the conditions  of  service  of  the  officers  in  the  civil  service  of  the  Federation shall be applicable, with such modifications as may be necessary to the staff of the Commission.
+and until such regulations are made, any instrument relating to the conditions of service of the officers in the civil service of the Federation
 
 81
 
@@ -2468,11 +2472,13 @@ and until such regulations are made,  any instrument relating to the conditions 
 
 [[START OF PAGE 82]]
 
-(6) Staff regulations made under subsection (4) of this section, shall not have effect until approved by the Minister and published in the Gazette .
+shall be applicable, with such modifications as may be necessary to the staff of the Commission.
 
-(7) Service in the any body established under Part 2 of Act shall be approved service for the purposes to the Pensions Reform Act, 2004.
+(6) Staff regulations made under subsection (4) of this section, shall not have effect until approved by the Minister and published in the Gazette.
 
-(8)  For  the  purpose  of  the  application  of  the  provisions  of  the  Pensions Reform Act, 2004 any power exercisable by the Minister or other authority of  the  Government  of  the  Federation,  other  than  the  power  to  make regulations under the Pension Act is vested in and shall be exercisable by the Commission, and by any other person or authority.
+(7) Service in any body established under Part 2 of this Act shall be approved service for the purposes of the Pensions Reform Act, 2004.
+
+(8) For the purpose of the application of the provisions of the Pensions Reform Act, 2004 any power exercisable by the Minister or other authority of the Government of the Federation, other than the power to make regulations under the Pension Act is vested in and shall be exercisable by the Commission, and not by any other person or authority.
 
 (9) Nothing in this section shall prevent the appointment of a person to an office on terms, which preclude the grant of pension and gratuity in respect of that office.
 
@@ -2514,7 +2520,7 @@ and until such regulations are made,  any instrument relating to the conditions 
 
 - for reimbursing expenses as may be expressly authorised by the body in accordance with the rates approved by the Minister;
 
-- to  the  payment  of  salaries,  fees  or  other  remunerations,  allowances, and  pensions  supernnuation  allowances  and  gratuities,  payable  to officers and staff;
+- to the payment of salaries, fees or other remunerations, allowances, and pensions superannuation allowances and gratuities, payable to officers and staff;
 
 - for the maintenance of any property vested in the body ; and
 
@@ -2522,7 +2528,7 @@ and until such regulations are made,  any instrument relating to the conditions 
 
 151. (1) Every body established under this Act must promote the general policy of government on accountability and transparency.
 
-(2) Every body established under this Act must submit to the Minister not later than 30 th June in each financial year an estimate of its expenditure and income during the next succeeding financial year.
+(2) Every body established under this Act must submit to the Minister not later than 30th June in each financial year an estimate of its expenditure and income during the next succeeding financial year.
 
 (3) Every body established under this Act must keep proper accounts in respect  of  each  financial  year  (and  proper  records  in  relation  to  those accounts) and shall cause its accounts to be audited as soon as may be after the end of each financial year by the Auditor-General of the Federation.
 
@@ -2532,7 +2538,7 @@ and until such regulations are made,  any instrument relating to the conditions 
 
 [[START OF PAGE 84]]
 
-152. Every body established under this Act must prepare and submit to the National Council of Ministers, through the Minister, not later than 30th June in the financial year a report in such form as he may direct on the activities of  the  body  during  the  immediate  proceeding  financial  year,  and  shall include in  such  report  a  copy  of  the  audited  accounts  of  the  body  for  that year and the Auditor-General's report on the accounts.
+152. Every body established under this Act must prepare and submit to the National Council of Ministers, through the Minister, not later than 30th June in the financial year a report in such form as he may direct on the activities of the body during the immediately preceding financial year, and shall include in such report a copy of the audited accounts of the body for that year and the Auditor-General's report on the accounts.
 
 153. (1)  The  Minister  may  with  the  approval  of  the  National  Council  of Ministers  make  regulations  in  relation  to  the  performance  of  any  of  the functions of a body established under this Act.
 
@@ -2560,7 +2566,7 @@ i. cause of action; ii. the particulars of the claim; iii. the name and place or
 
 157. A member of the Governing Board, the Chief Executive or staff of a body established under this Act shall be indemnified out of the assets of the body  against  any  liability  incurred  by  him  in  defending  any  proceeding, whether  civil  or  criminal,  if  the  proceeding  is  brought  against  him  in  his capacity as a member, Chief Executive or staff of the body.
 
-158. A body established under this Act may from time to time, establish any committee or sub-committee to advice it on such matters concerning its functions.
+158. A body established under this Act may from time to time, establish any committee or sub-committee to advise it on such matters concerning its functions.
 
 85
 
@@ -2574,7 +2580,7 @@ i. cause of action; ii. the particulars of the claim; iii. the name and place or
 
 159. In  so  far  as  anything  done  under  an  Act  repealed  by  this  Act  could have been done under a corresponding provision of this Act it shall not be invalidated by the repeal but shall have effect as if done under that provision.
 
-160. (1) For  the  avoidance  and  without  further  assurance,  the  funds, resources, assets (movable or immovable), rights, interests, obligations and liabilities  vested  in  a  body  established  under  an  Act  repealed  by  this  Act shall be assigned to and vested in the body established by this Act to replace the body established under the repealed Act.
+160. (1) For the avoidance of doubt and without further assurance, the funds, resources, assets (movable or immovable), rights, interests, obligations and liabilities vested in a body established under an Act repealed by this Act shall be assigned to and vested in the body established by this Act to replace the body established under the repealed Act.
 
 (2). Any proceedings or cause of action pending or existing against a body established under an Act which is repealed under this Act in respect of any right, interest, obligation or liability of the body may be continued or as the case may be, commenced and any determination of a court of law, tribunal or  other  authority  or  person  may  be  enforced  by  or  against  the  body established under this Act to replace the body established under the repealed Act to the same extent that such proceedings, cause of action or determination  might  have  been  continued,  commenced  or  enforced  by  or against the dissolved body as if this Act had not been enacted..
 
@@ -2638,7 +2644,7 @@ Section 143(10)
 
 ### Proceedings
 
-1. Subject to this Act and section 27 of the Interpretation Act (which provides for decisions of a statutory body to be taken by a majority of its members  and  for  the  Chairperson  to  have  a  second  or  casting  vote),  the Governing  Board  may  make  standing  orders  regulating  its  proceedings  or any of its committee.
+1. Subject to this Act and section 27 of the Interpretation Act (which provides for decisions of a statutory body to be taken by a majority of its members and for the Chairperson to have a second or casting vote), the Governing Board may make standing orders regulating its proceedings or those of any of its committees.
 
 2.  Every  meeting  of  the  Governing  Board  shall  be  presided  over  by the  Chairperson  or,  if  the  Chairperson  is  unable  to  attend  a  particular meeting, the members present at the meeting shall elect one of their number to preside at the meeting.
 
@@ -2648,7 +2654,7 @@ Section 143(10)
 
 ### Committees
 
-5. (1) Subject to its standing order, the Governing Board may appoint such number of standing and ad-hoc committees as it this fit to consider and report on any matter with which the Governing Board is concerned.
+5. (1) Subject to its standing orders, the Governing Board may appoint such number of standing and ad-hoc committees as it thinks fit to consider and report on any matter with which the Governing Board is concerned.
 
 (2) Every committee appointed under the foregoing provisions of this paragraph shall be presided over by a member of the Governing Board and shall be made up of such number of persons, not necessarily members of the Governing Board, as the Governing Board may determine in each case.
 
@@ -2658,23 +2664,23 @@ Section 143(10)
 
 [[START OF PAGE 89]]
 
-- The quorum of any committee set up by the Governing Board shall be as may be determined by the committee
+(3) The quorum of any committee set up by the Governing Board shall be as may be determined by the committee
 
-- Where  standing  orders  made  pursuant  to  paragraph  1  of  this Schedule provide for a committee of the Governing Board to consist of or co-opt persons who are not members of the Governing Board, the committee may advise the Governing Board on any matter referred to it.
+6. Where standing orders made pursuant to paragraph 1 of this Schedule provide for a committee of the Governing Board to consist of or co-opt persons who are not members of the Governing Board, the committee may advise the Governing Board on any matter referred to it.
 
-- The fixing of the seal of the Governing Board shall be authenticated by the signature of the Chairperson or the Chief Executive of the Governing Board.
+7. The fixing of the seal of the Governing Board shall be authenticated by the signature of the Chairperson or the Chief Executive of the Governing Board.
 
-- Any contract or instrument which if made by a person not being a body  corporate,  would  not  be  required  to  be  under  seal  may  be  made  or executed on behalf of the Governing Board by the Chief Executive or by any other person generally or specially authorised to act for that purpose by the Governing Board.
+8. Any contract or instrument which if made by a person not being a body corporate, would not be required to be under seal may be made or executed on behalf of the Governing Board by the Chief Executive or by any other person generally or specially authorised to act for that purpose by the Governing Board.
 
-- Any  document  purporting  to  be  a  contract,  instrument  or  other document  duly  sign  or  sealed  on  behalf  of  the  Governing  Board  shall  be received  in  evidence  and,  unless  the  contrary  be  proved,  be  presumed without further proof to have been so signed or sealed.
+9. Any document purporting to be a contract, instrument or other document duly signed or sealed on behalf of the Governing Board shall be received in evidence and, unless the contrary be proved, be presumed without further proof to have been so signed or sealed.
 
-- The validity of any proceedings of the Governing Board or a committee shall not be affected -
+10. The validity of any proceedings of the Governing Board or a committee shall not be affected -
 
-(a) by  any  vacancy  in  the  membership  of  the  Governing  Board  or committee; or
+(a) by any vacancy in the membership of the Governing Board or committee; or
 
 (b) by any defect in the appointment of a member of the Governing Board or committee.
 
-- Any member of the Governing Board or a committee who has a personal interest  in  any  contract  or  arrangement  entered  into  or  proposed  to  be considered by the Governing Board or committee shall forthwith disclose his interest to the Governing Board or committee and not vote on any question relating to the contract or arrangement.
+11. Any member of the Governing Board or a committee who has a personal interest in any contract or arrangement entered into or proposed to be considered by the Governing Board or committee shall forthwith disclose his interest to the Governing Board or committee and not vote on any question relating to the contract or arrangement.
 
 89
 
@@ -2692,7 +2698,7 @@ S.  13(c)
 
 (1)  The  responsibility  for  the  establishment  and  maintenance  of  minimum standards in pre-primary and primary schools and similar institutions in the Federation is hereby vested in the Minister.
 
-- In prescribing the minimum standards the Minister shall have regard to the following matters-
+(2) In prescribing the minimum standards the Minister shall have regard to the following matters-
 
 - to effect a smooth transition from home to school;
 
@@ -2706,23 +2712,23 @@ S.  13(c)
 
 - to instill in the child the need for co-operation with others and team spirits;
 
-- to  teach  the  children  the  rudiments  of  numbers,  colours, shapes and forms through pay; and
+- to teach the children the rudiments of numbers, colours, shapes and forms through play; and
 
 - to teach children good habits especially good health habits.
 
 ### Primary education
 
-- The purpose of primary education shall be -
+(1) The purpose of primary education shall be -
 
 - the inculcation of permanent literacy and numeracy and the ability to communicate effectively;
 
-- the laying of a sound basis for scientific and relative thinking;
+- the laying of a sound basis for scientific and reflective thinking;
 
 - citizenship  education  as  a  basis  for  effective  participation  in  and contribution to the life of the society;
 
 - character and moral training and the development of sound attitudes;
 
-- to develop in the child the ability to his changing environment;
+- to develop in the child the ability to adapt to his changing environment;
 
 90
 
@@ -2752,7 +2758,7 @@ S.  13(c)
 
 - to foster Nigerian unity with emphasis on the common ties that unite us in our diversity;
 
-- to inspire students with a desire for achievement and selfimprovement both at school and later on in life.
+- to inspire students with a desire for achievement and self-improvement both at school and later on in life.
 
 (3) Secondary education shall be of six years duration and be given at two stages of three years duration each, that is -
 
@@ -2766,11 +2772,11 @@ S.  13(c)
 
 [[START OF PAGE 92]]
 
-(4)  Curricula  activities  of  the  junior  secondary  school  shall  be  both  prevocational  and  academic  and  shall  include  all  basic  subjects  which  will enable pupils to acquire further knowledge and develop skills.
+(4) Curricula activities of the junior secondary school shall be both pre-vocational and academic and shall include all basic subjects which will enable pupils to acquire further knowledge and develop skills.
 
 (5)  The  senior  secondary  school  shall  be  comprehensive  and  shall  have  a core curriculum designed to broaden pupils' knowledge and outlook.
 
-(6)  In  order  to  ensure  that  minimum  standards  are  complied  within  the Minister may by notice published in the Federal Gazette give directives in respect  of  the  curriculum  to  be  followed  in  junior  and  senior  secondary schools.
+(6) In order to ensure that minimum standards are complied with the Minister may by notice published in the Federal Gazette give directives in respect of the curriculum to be followed in junior and senior secondary schools.
 
 (5)  The  core  and  optional  subjects  specified  in  any  directives  given  under Part shall be subject to revision from time to time by the Minister.
 
@@ -2794,7 +2800,7 @@ S.  13(c)
 
 - The  making  of optimum  contributions to national  development through the training of higher level manpower.
 
-- The  promotion  of  national  unity  by  ensuring  that  admission  of students and recruitment of staff into universities and other institutions of higher learning shall, as far as possible, be on a broad nation basis.
+- The promotion of national unity by ensuring that admission of students and recruitment of staff into universities and other institutions of higher learning shall, as far as possible, be on a broad national basis.
 
 - The promotion and encouragement of scholarship and research.
 
@@ -2819,7 +2825,7 @@ For the achievement of its mission, the Council is committed to:
 
 - ¾ Awarding certificates that enjoy international recognition;
 
-- ¾ Promotion  the  ideals  of  hard  work  and  honesty  in  the youth through the recognition and celebration of excellence;
+- ¾ Promoting the ideals of hard work and honesty in the youth through the recognition and celebration of excellence;
 
 - ¾ Providing efficient and affordable service to its clientele through rational utilization of resources; and
 
@@ -2837,7 +2843,7 @@ The Republic of SIERRA LEONE
 
 [[START OF PAGE 95]]
 
-REAFFIRMING  our  belief  in  the  CONVENTION  establishing  The  West African Examinations Council signed in Monrovia, Liberia, on the 23 rd day of March 1982,
+REAFFIRMING our belief in the CONVENTION establishing The West African Examinations Council signed in Monrovia, Liberia, on the 23rd day of March 1982,
 
 RECOGNIZING  the  importance  of the proposals made  by  Member Countries for the revision of the CONVENTION,
 
@@ -2847,31 +2853,31 @@ HAVE  DECIDED  to  revise  the  CONVENTION  establishing  The  West African Exam
 
 ### ARTICLE 1
 
-- There is hereby established the institutions of The West African Examinations Council, referred to in this Convention as 'the Council'.
-
-- Subject to the provisions of this article, the main governing body, referred to in this Convention as 'Council', shall be composed of the following members -
-
-- Chairperson;
-
-- two persons appointed by the Government of The Gambia;
-
-- four persons appointed by the Government of Ghana;
-
-- two persons appointed by the Government of Liberia;
-
-- five persons appointed by the Government of Nigeria;
-
-- three persons appointed by the Government of Sierra Leone;
-
-- one  person  representing  universities  in  The  Gambia  to  be appointed  in  a  manner  prescribed  by  the  Gambia  National Committee;
-
-- one person representing universities in Ghana to be appointed in a manner prescribed by the Ghana National Committee;
-
-- one person representing universities in Liberia to be appointed in a manner prescribed by the Liberia  National Committee;
-
-- four  persons  person  representing  universities  in  Nigeria  to  be appointed  in  a  manner  prescribed  by  the  Nigeria    National Committee;
-
 Establishment and Constitution of the Council
+
+1. There is hereby established the institutions of The West African Examinations Council, referred to in this Convention as “the Council”.
+
+2. Subject to the provisions of this article, the main governing body, referred to in this Convention as “Council”, shall be composed of the following members -
+
+a. Chairperson;
+
+b. two persons appointed by the Government of The Gambia;
+
+c. four persons appointed by the Government of Ghana;
+
+d. two persons appointed by the Government of Liberia;
+
+e. five persons appointed by the Government of Nigeria;
+
+f. three persons appointed by the Government of Sierra Leone;
+
+g. one person representing universities in The Gambia to be appointed in a manner prescribed by the Gambia National Committee;
+
+h. one person representing universities in Ghana to be appointed in a manner prescribed by the Ghana National Committee;
+
+i. one person representing universities in Liberia to be appointed in a manner prescribed by the Liberia National Committee;
+
+j. four persons person representing universities in Nigeria to be appointed in a manner prescribed by the Nigeria National Committee;
 
 95
 
@@ -2879,31 +2885,31 @@ Establishment and Constitution of the Council
 
 [[START OF PAGE 96]]
 
-- one  person  representing  universities  in  Sierra  Leone  to  be appointed in a manner prescribed by the Sierra Leone National Committee;
+k. one person representing universities in Sierra Leone to be appointed in a manner prescribed by the Sierra Leone National Committee;
 
-- one person elected by The Gambia National Committee;
+l. one person elected by The Gambia National Committee;
 
-- two persons elected by the Ghana National Committee;
+m. two persons elected by the Ghana National Committee;
 
-- one person elected by the Liberia National Committee;
+n. one person elected by the Liberia National Committee;
 
-- three elected by the Nigeria National Committee;
+o. three elected by the Nigeria National Committee;
 
-- one person by the Sierra Leone National Committee and;
+p. one person by the Sierra Leone National Committee and;
 
-- the Registrar (ex-officio, non-voting) who shall also be Secretary to the Council.
+q. the Registrar (ex-officio, non-voting) who shall also be Secretary to the Council.
 
-- The  Chairperson  of  Council  shall  be  elected  by  the  Council from among persons nominated by the National Committees in accordance  with  a  rotational  principle  to  be  spelt  out  in  the Standing Orders.
+3. The Chairperson of Council shall be elected by the Council from among persons nominated by the National Committees in accordance with a rotational principle to be spelt out in the Standing Orders.
 
-- The nomination for Chairperson of Council shall be approved by  the  Government  of  the  National  Committees  making  the nomination acting through the Ministry of Education.
+4. The nomination for Chairperson of Council shall be approved by the Government of the National Committees making the nomination acting through the Ministry of Education.
 
-- The  Chairperson  of  Council  shall  preside  over  meetings  of Council  and  all  international  committees  of  Council  at  which he is present. He shall take precedence over all the members of Council.  In  an  emergency  he  shall,  in  consultation  with  the Registrar, act in the best interest of the Council and such action shall be subject to ratification by Council.
+5. The Chairperson of Council shall preside over meetings of Council and all international committees of Council at which he is present. He shall take precedence over all the members of Council. In an emergency he shall, in consultation with the Registrar, act in the best interest of the Council and such action shall be subject to ratification by Council.
 
-- There  shall  be  a  Vice-Chairperson  of  Council  who  shall  be elected annually from among the representatives of the Member Country where the meeting of Council is being held.
+6. There shall be a Vice-Chairperson of Council who shall be elected annually from among the representatives of the Member Country where the meeting of Council is being held.
 
-- The Vice-Chairperson shall act as Chairperson during a period of  absence  or  during  a  period  of  temporary  incapacity  from illness or other cause of the Chairperson and at such other times as  the  Chairperson  may  determine,  and  shall  exercise  such powers as Council may delegate to him.
+7. The Vice-Chairperson shall act as Chairperson during a period of absence or during a period of temporary incapacity from illness or other cause of the Chairperson and at such other times as the Chairperson may determine, and shall exercise such powers as Council may delegate to him.
 
-- Where  at  any  time  before  the  next  meeting  of  Council  the Chairpersonship  of  Council  becomes  vacant  in  circumstances other than those stated in paragraph 7 of this Article, the Vice-
+8. Where at any time before the next meeting of Council the Chairpersonship of Council becomes vacant in circumstances other than those stated in paragraph 7 of this Article, the Vice-
 
 96
 
@@ -2913,23 +2919,23 @@ Establishment and Constitution of the Council
 
 Chairperson shall act as Chairperson until the next meeting of Council when Council shall elect a new Chairperson.
 
-- Twelve  members,  including  at  least  one  from  each  Member Country, shall constitute a quorum of Council.
+9. Twelve members, including at least one from each Member Country, shall constitute a quorum of Council.
 
 ### ARTICLE 2
 
-- The  Chairperson  of  Council  shall  hold  office  for  a  period  not exceeding three years from the date of his election.
-
-- A  member  appointed  under  paragraph  2(b)  to  (f)  of  Article  1  of this  Convention  shall  retain  his  membership  of  Council  at  the pleasure of the Government by whom he has been appointed and the  termination  of  such  membership  shall  take  effect  as  soon  as notice  of  such  termination  is  received  by  the  Registrar  to  the Council.
-
-- A person elected Vice-Chairperson shall hold office for a period of one year from the date of election.
-
-- A  member  appointed  or  elected  under  paragraph  2(g)  to  (p)  of Article 1 of this Convention shall retain his membership of Council for  a  period  not  exceeding  three  years  from  the  date  of  his appointment or election.
-
-- Any member of Council other than the Chairperson shall, on the termination  of  his  membership,  be  eligible  for  re-appointment, provided that where a member of Council is appointed or elected to Council  or  a  committee  of  Council  by  virtue  of  an  office  or  his representation  of  a  particular  interest,  he  shall  cease  to  be  a member  of  Council  upon  his  ceasing  the  hold  the  office  or  to represent the interest.
-
-- Any member of Council appointed by virtue of an office held by him is entitled to nominate from among his immediate subordinates in office, by written notice to the Council, an alternate member to attend any particular meeting of Council in his place, and the alternate member whom he has replaced until such member notifies  the  Council  that  he  proposes  to  resume  his  attendance  at
-
 Tenure of office
+
+1. The Chairperson of Council shall hold office for a period not exceeding three years from the date of his election.
+
+2. A member appointed under paragraph 2(b) to (f) of Article 1 of this Convention shall retain his membership of Council at the pleasure of the Government by whom he has been appointed and the termination of such membership shall take effect as soon as notice of such termination is received by the Registrar to the Council.
+
+3. A person elected Vice-Chairperson shall hold office for a period of one year from the date of election.
+
+4. A member appointed or elected under paragraph 2(g) to (p) of Article 1 of this Convention shall retain his membership of Council for a period not exceeding three years from the date of his appointment or election.
+
+5. Any member of Council other than the Chairperson shall, on the termination of his membership, be eligible for re-appointment, provided that where a member of Council is appointed or elected to Council or a committee of Council by virtue of an office or his representation of a particular interest, he shall cease to be a member of Council upon his ceasing to hold the office or to represent the interest.
+
+6. Any member of Council appointed by virtue of an office held by him is entitled to nominate from among his immediate subordinates in office, by written notice to the Council, an alternate member to attend any particular meeting of Council in his place, and the alternate member shall have all the powers and authority of the member whom he has replaced until such member notifies the Council that he proposes to resume his attendance at
 
 97
 
@@ -2937,29 +2943,29 @@ Tenure of office
 
 [[START OF PAGE 98]]
 
-- meetings  of  Council  or  until  the  term  of  office  of  the  member expires, whichever is earlier.
+meetings of Council or until the term of office of the member expires, whichever is earlier.
 
-- If a member of Council other than a member to whom paragraph 6 of  this  Article  applies  is  incapacitated  by  illness  or  other  cause from performing the duty of his office, a temporary member may be appointed in the same manner and in accordance with the same procedure  applied  to  the  incapacitated  member  to  fill  that  office until the member's incapacity ceases or until the term of office of the  member  expires,  whichever  is  earlier,  and  the  temporary member shall have during his tenure of office all the powers and authority of the incapacitated member.
+7. If a member of Council other than a member to whom paragraph 6 of this Article applies is incapacitated by illness or other cause from performing the duty of his office, a temporary member may be appointed in the same manner and in accordance with the same procedure applied to the incapacitated member to fill that office until the member's incapacity ceases or until the term of office of the member expires, whichever is earlier, and the temporary member shall have during his tenure of office all the powers and authority of the incapacitated member.
 
 ### ARTICLE 3
 
-- The Council shall continue to be a body corporate with perpetual succession  and  a  Common  Seal  and  may  sue  and  be  sued  in  its corporate name.
+Incorporation and seal of the Council
 
-- Council shall have power to regulate the use of the Common Seal by its members and by the officers of the Council.
+1. The Council shall continue to be a body corporate with perpetual succession and a Common Seal and may sue and be sued in its corporate name.
 
-- The  Registrar  shall  have  custody  of  the  Common  Seal  unless otherwise directed by Council
+2. Council shall have power to regulate the use of the Common Seal by its members and by the officers of the Council.
+
+3. The Registrar shall have custody of the Common Seal unless otherwise directed by Council
 
 ### ARTICLE 4
 
+Duties of the Council
+
 The duties of the Council are:
 
-(a) to  review  and  consider  annually,  in  consultation    with  the Member Countries, the examinations to be held in the Member Countries in the public interest;
+(a) to review and consider annually, in consultation with the Member Countries, the examinations to be held in the Member Countries in the public interest;
 
-(b) to  conduct,  in  consultation  with  the  Member  Countries,  such examinations  as  determined  by  the  Member  Countries  in  the public interest and as appropriate under this Convention and to award certificates and diplomas on the results of such examinations;
-
-Incorporation and seal of the Council
-
-Duties of the Council
+(b) to conduct, in consultation with the Member Countries, such examinations as determined by the Member Countries in the public interest and as appropriate under this Convention and to award certificates and diplomas on the results of such examinations;
 
 98
 
@@ -2967,13 +2973,13 @@ Duties of the Council
 
 [[START OF PAGE 99]]
 
-(c) with  the  consent  of  the  Member  Countries  and  Associate Member Countries, to consider the advisability of inviting and if  thought  fit  to  invite  any  other  examining  body  to  conduct examinations in the Member Countries and Association Member Countries, and
+(c) with the consent of the Member Countries and Associate Member Countries, to consider the advisability of inviting and if thought fit to invite any other examining body to conduct examinations in the Member Countries and Associate Member Countries, and
 
 (i) to award certificates and diplomas on the results of the examinations;
 
 (ii) to advise any body invited on such adaptations of their examinations as the Council may think necessary for the purpose of this Convention;
 
-(d) if  invited  by  the  Government  of  any  Member  Country  to conduct any other examination considered by that Government to be examination considered by that Government to be in the public interest and conduct the examination after due consultation;
+(d) if invited by the Government of any Member Country to conduct any other examination considered by that Government to be in the public interest, to conduct the examination after due consultation;
 
 (e) to  receive  from  the  committees  of  Council  established  under Articles 5 and 7 of this Convention reports and recommendations  on  any  matters  relevant  for  the  purpose  of this Convention and to consider the reports and recommendations;
 
@@ -2981,13 +2987,13 @@ Duties of the Council
 
 ### ARTICLE 5
 
-- The Council may:
-
-(a) enter  into  contracts  and  do  all  things  necessary  for    or incidental to the implementation of this Convention;
-
-(b) acquire  and  hold  movable  and  immovable  property  and sell, mortgage, lease or otherwise deal with the property;
-
 Powers of the council
+
+1. The Council may:
+
+(a) enter into contracts and do all things necessary for or incidental to the implementation of this Convention;
+
+(b) acquire and hold movable and immovable property and sell, mortgage, lease or otherwise deal with the property;
 
 99
 
@@ -3001,21 +3007,21 @@ Powers of the council
 
 (e) receive on such terms as it may decide gifts whether in cash or in kind.
 
-- Council shall appoint from its members an Administrative and Finance  Committee  to  which  it  may  delegate  power  to  act  in between  meetings  of  Council  on  any  matter  within  Council's competence.
+2. Council shall appoint from its members an Administrative and Finance Committee to which it may delegate power to act in between meetings of Council on any matter within Council's competence.
 
-- Council may appoint from its members such other committees as it considers necessary and shall specify the duties and powers of any committee appointed under this paragraph.
+3. Council may appoint from its members such other committees as it considers necessary and shall specify the duties and powers of any committee appointed under this paragraph.
 
-- Council may appoint other committees with such composition as  it  considers  appropriate  for  the  purpose,  to  consider  and report on matters Council may assign to them. Any committee so appointed shall be presided over by such person as Council may decide.
+4. Council may appoint other committees with such composition as it considers appropriate for the purpose, to consider and report on matters Council may assign to them. Any committee so appointed shall be presided over by such person as Council may decide.
 
-- Council may at any time invite any person or body to assist in the deliberations of Council but no such person or body shall be entitled to vote on any question for decision by Council.
+5. Council may at any time invite any person or body to assist in the deliberations of Council but no such person or body shall be entitled to vote on any question for decision by Council.
 
 ### ARTICLE 6
 
-- Council  shall  ordinarily  meet  for  the  dispatch  of  business  at such times and places as it may determine but shall meet at least once  in  every  year  provided  that  an  annual  meeting  shall  not exceed a period of four days.
-
-- The Chairperson:
-
 Powers of the council
+
+1. Council shall ordinarily meet for the dispatch of business at such times and places as it may determine but shall meet at least once in every year provided that an annual meeting shall not exceed a period of four days.
+
+2. The Chairperson:
 
 100
 
@@ -3025,21 +3031,21 @@ Powers of the council
 
 (a) may call a special meeting at such time and place as he may determine if he considers it expedient to do so;
 
-(b) shall call a special meeting at such time and place as he may determine if at least nine members of Council from not  less  than  three  Member  Countries  make  a  written request  for  the  meeting,  but  not  more  than  three  of  the members shall come from one Member Country.
+(b) shall call a special meeting at such time and place as he may determine if at least nine members of Council from not less than three Member Countries make a written request for the meeting, but not more than three of the members shall come from one Member Country.
 
-- No  meeting  shall  be  convened  unless  a  notice  a  notice  of  at least fourteen days has been given.
+3. No meeting shall be convened unless a notice of at least fourteen days has been given.
 
-- At every meeting of Council, the Chairperson, if present, shall preside, and in his absence the Vice-Chairperson shall preside, and  in  the  absence  of  both  the  Chairperson  and  the  ViceChairperson, Council shall elect one of its members present to preside.
+4. At every meeting of Council, the Chairperson, if present, shall preside, and in his absence the Vice-Chairperson shall preside, and in the absence of both the Chairperson and the Vice-Chairperson, Council shall elect one of its members present to preside.
 
-- Every matter that comes before Council for determination shall be decided by a majority of the votes of the members present, except that Council shall wherever possible determine matters before it by consensus.
+5. Every matter that comes before Council for determination shall be decided by a majority of the votes of the members present, except that Council shall wherever possible determine matters before it by consensus.
 
-- Twelve  members  including  at  least  one  from  each  of  the Member Countries shall form a quorum at any meeting.
+6. Twelve members including at least one from each of the Member Countries shall form a quorum at any meeting.
 
-- Every  member  of  Council,  except  the  Registrar  and  associate members, shall have a right to vote at any meeting of Council, and  the  Chairperson,  or  Vice-Chairperson  presiding  over  the meeting, shall have a casting vote.
+7. Every member of Council, except the Registrar and associate members, shall have a right to vote at any meeting of Council, and the Chairperson, or Vice-Chairperson presiding over the meeting, shall have a casting vote.
 
-- The  minutes  of  the  proceedings  of  every  meeting  of  Council shall  be  entered  in  a  book  to  be  kept  for  that  purpose  and minutes of proceedings shall after approval at the next meeting be signed by the Chairperson.
+8. The minutes of the proceedings of every meeting of Council shall be entered in a book to be kept for that purpose and minutes of proceedings shall after approval at the next meeting be signed by the Chairperson.
 
-- Council may make Standing Orders not inconsistence with the provisions of this Convention with regard to notice to convene meetings  of  Council  and  to  regulate  the  proceedings  of  its meetings.
+9. Council may make Standing Orders not inconsistent with the provisions of this Convention with regard to notice to convene meetings of Council and to regulate the proceedings of its meetings.
 
 101
 
@@ -3049,31 +3055,31 @@ Powers of the council
 
 ### ARTICLE 7
 
-- A National Committee shall be established by Council in each of  the  Member  Countries  and  in  any  other  country  in  West Africa that may accede to this Convention in accordance with Article 18 paragraph 2 of this Convention.
+Establishment and Constitution of National Committees
 
-- Each National Committee established under this Article shall be composed of such persons or holders of such offices as Council may determine.
+1. A National Committee shall be established by Council in each of the Member Countries and in any other country in West Africa that may accede to this Convention in accordance with Article 18 paragraph 2 of this Convention.
 
-- Each National Committee  shall be chaired by the Chief Government Nominee of the respective country to Council.
+2. Each National Committee established under this Article shall be composed of such persons or holders of such offices as Council may determine.
 
-- A  member  of  a  National  Committee  shall  hold  office  for  a period of four years from the date of his appointment and shall be eligible for re-appointment.
+3. Each National Committee shall be chaired by the Chief Government Nominee of the respective country to Council.
 
-- The  National  Committee  shall  be  the  highest  shall  be  the highest Committee of Council in each Member Country.
+4. A member of a National Committee shall hold office for a period of four years from the date of his appointment and shall be eligible for re-appointment.
+
+5. The National Committee shall be the highest Committee of Council in each Member Country.
 
 ### ARTICLE 8
 
-- It is the duty of every National Committee:
+Duties of National Committee
+
+1. It is the duty of every National Committee:
 
 (a) to advise Council on any matter that may be referred to it by Council,
 
-(b) to elect such numbers  to Council as  Council  may determine; and
+(b) to elect such members to Council as Council may determine; and
 
 (c) to carry out such functions as Council may assign to it.
 
-- At  National  Committee  may  at  any  time  make  a  report  or recommendation  to  Council  on  any  matter  relevant  to  the provisions of this Convention.
-
-Establishmen t and Constitution of National Committees
-
-Duties of National Committee
+2. A National Committee may at any time make a report or recommendation to Council on any matter relevant to the provisions of this Convention.
 
 102
 
@@ -3081,33 +3087,33 @@ Duties of National Committee
 
 [[START OF PAGE 103]]
 
-- A National Committee may appoint such committees with such composition  as  it  considers  fit  to  carry  out  such  duties  that  it may assign them.
+3. A National Committee may appoint such committees with such composition as it considers fit to carry out such duties that it may assign them.
 
 ### ARTICLE 9
 
-- Council may admit as an Associate Member any West African country  other  than  the  Member  Countries  which  wishes  to  be associated with the work of the Council.
+Associate Membership
 
-- The power to admit Associate Member shall be exercised by a resolution of Council passed by a simple majority of members present  and  voting  at  an  annual  meeting  of  Council  after application  for  admission  has  been  received  from  the  country concerned and in such manner as Council may decide.
+1. Council may admit as an Associate Member any West African country other than the Member Countries which wishes to be associated with the work of the Council.
+
+2. The power to admit Associate Member shall be exercised by a resolution of Council passed by a simple majority of members present and voting at an annual meeting of Council after application for admission has been received from the country concerned and in such manner as Council may decide.
 
 ### ARTICLE 10
 
-- Every  Associate  Member  Country  has  the  right  to  appoint  as many  members  as  Council  may,  by  resolutions  passed  at  an annual  meeting  determine,  to  attend  any  of  the  following meetings:
+Powers and privileges of Associate Member countries
+
+1. Every Associate Member Country has the right to appoint as many members as Council may, by resolutions passed at an annual meeting determine, to attend any of the following meetings:
 
 (a) annual general meeting of Council, and
 
 (b) meetings of any of the following:
 
-(i) all  international  committees  except  the  International Appointments Committee;
+(i) all international committees except the International Appointments Committee;
 
 (ii) all working parties engaged on revision of any examination syllabus; and
 
 (iii) all National committees, except the National Appointments Committee, unless the Registrar direct otherwise.
 
-- An Associate Member Country shall be served with copies of the  minutes  and  all  other  relevant  documents  of  any  meeting
-
-Associate Member ship
-
-Powers and privileges of Associate Member countries which it is entitled to attend under paragraph 1 of this Article, but the delegates of an Associate Member nor count towards a quorum.
+2. An Associate Member Country shall be served with copies of the minutes and all other relevant documents of any meeting
 
 103
 
@@ -3115,9 +3121,11 @@ Powers and privileges of Associate Member countries which it is entitled to atte
 
 [[START OF PAGE 104]]
 
-- An  Associate  Member  Country  shall  bear  the  full  cost  of sending  its  delegates  to  meetings  of  Council  and  any  of  its Committees.
+which it is entitled to attend under paragraph 1 of this Article, but the delegates of an Associate Member do not count towards a quorum.
 
-- The privileges of an Associate Member Country include:
+3. An Associate Member Country shall bear the full cost of sending its delegates to meetings of Council and any of its Committees.
+
+4. The privileges of an Associate Member Country include:
 
 (a) the use at cost of the test development, research and data processing facilities of the Council in such manner as the Registrar shall direct; and
 
@@ -3125,15 +3133,15 @@ Powers and privileges of Associate Member countries which it is entitled to atte
 
 ### ARTICLE 11
 
-- Any  right  or  privilege  conferred  on  an  Associate  Member Country by virtue of its association with the Council under this Convention shall cease:
-
-(a) upon sic months written notice served on Council by the Associate Member Country that it no longer wishes to be associated with the Council; or
-
-(b)        upon  six  months  written  notice  served  on  the  Associate Member Country by Council that its association with the council has been terminated except that Council shall not serve notice unless it is satisfied  that  the  Associate  Member  Country  id  no  longer  ready  or able to discharge the obligations of an Associate Member under this Convention or that its continued association with the Council is not in the best interest of the Council.
-
-- During the period of six months referred to in paragraph 1 of this  Article,  the  Associate  Member  Country  shall  observe  the provisions  of  this  Convention  and  shall  remain  liable  for  the discharge of its obligations thereunder.
-
 Termination of status of associate member
+
+1. Any right or privilege conferred on an Associate Member Country by virtue of its association with the Council under this Convention shall cease:
+
+(a) upon six months written notice served on Council by the Associate Member Country that it no longer wishes to be associated with the Council; or
+
+(b) upon six months written notice served on the Associate Member Country by Council that its association with the Council has been terminated except that Council shall not serve notice unless it is satisfied that the Associate Member Country is no longer ready or able to discharge the obligations of an Associate Member under this Convention or that its continued association with the Council is not in the best interest of the Council.
+
+2. During the period of six months referred to in paragraph 1 of this Article, the Associate Member Country shall observe the provisions of this Convention and shall remain liable for the discharge of its obligations thereunder.
 
 104
 
@@ -3143,31 +3151,31 @@ Termination of status of associate member
 
 ### ARTICLE 12
 
-- Each Member Country shall make an annual contribution to the funds  of  the  Council  based  on  a  ratio  to  be  determined  by Council.
+Finance
 
-- The funds of the Council shall include -
+1. Each Member Country shall make an annual contribution to the funds of the Council based on a ratio to be determined by Council.
+
+2. The funds of the Council shall include –
 
 (a) all moneys raised for the general purpose of the Council;
 
-(b) all moneys accruing to the Council either by way of grants in aide, endowment, donation or otherwise;
+(b) all moneys accruing to the Council either by way of grants in aid, endowment, donation or otherwise;
 
 (c) all charges, dues and fees received by the Council; and
 
 (d) all interest on moneys invested by the Council.
 
-- Any sum of money received on account of the Council shall be paid  into  such  banks  as  may  be  approved  by  Council  for  the credit of the Council's general current or deposit account.
+3. Any sum of money received on account of the Council shall be paid into such banks as may be approved by Council for the credit of the Council's general current or deposit account.
 
-- The funds of the council shall be applied by the Council for the accomplishment of the aims and purposes of the Council as set out in this Convention.
+4. The funds of the Council shall be applied by the Council for the accomplishment of the aims and purposes of the Council as set out in this Convention.
 
-- The Council shall maintain accounts, including accounts for the lodgment and transfer of convertible currency, in each Member Country to facilitate the efficient discharge of the duties of the Headquarters in the Member Countries.
+5. The Council shall maintain accounts, including accounts for the lodgment and transfer of convertible currency, in each Member Country to facilitate the efficient discharge of the duties of the Headquarters in the Member Countries.
 
-- The  accounts maintained in the Member  country  by  the Headquarters shall be under the control of the Registrar.
+6. The accounts maintained in the Member Country by the Headquarters shall be under the control of the Registrar.
 
-- The  Council  shall  keep  proper  records  of  accounts  and  shall cause to be prepared not later than six months from the end of the preceding financial year a Statement of Accounts relating to the preceding financial year.
+7. The Council shall keep proper records of accounts and shall cause to be prepared not later than six months from the end of the preceding financial year a Statement of Accounts relating to the preceding financial year.
 
-- The  accounts  of  the  Council  shall  be  audited  by  the  External Auditors and as soon as the accounts of the Council have been
-
-Finance audited,  the  Council  shall  cause  the  Statement  of  Accounts together with the External Auditors report thereon to be published in such manner as it thinks fit.
+8. The accounts of the Council shall be audited by the External Auditors and as soon as the accounts of the Council have been
 
 105
 
@@ -3175,29 +3183,31 @@ Finance audited,  the  Council  shall  cause  the  Statement  of  Accounts toget
 
 [[START OF PAGE 106]]
 
+audited, the Council shall cause the Statement of Accounts together with the External Auditors report thereon to be published in such manner as it thinks fit.
+
 ### ARTICLE 13
 
-- For the purpose of Article 12, the Council shall appoint annually its External Auditors.
+External Auditors
 
-- Council may make regulations governing the terms and conditions of service of the External Auditors.
+1. For the purpose of Article 12, the Council shall appoint annually its External Auditors.
+
+2. Council may make regulations governing the terms and conditions of service of the External Auditors.
 
 ### ARTICLE 14
 
-- The Member Countries and Associate Member Countries of the Council  undertake,  so  soon  after  the  coming  into  force  of  his Convention and admission as Associate Member Countries, to enact  laws,  in  accordance  with  their  legislative  processes, incorporating  into  their  respective  laws  the  provisions  of  this Convention.
+Incorporation into Local Laws
 
-- Such laws incorporated in accordance with paragraph 1 of this Article  shall,  without  prejudice  to  existing  laws  such  as  those dealing with forgery, fraud and similar offences, include offences relating to malpractices in examinations and the award of certificates and diplomas for examinations conducted by the Council under this Convention.
+1. The Member Countries and Associate Member Countries of the Council undertake, so soon after the coming into force of this Convention and admission as Associate Member Countries, to enact laws, in accordance with their legislative processes, incorporating into their respective laws the provisions of this Convention.
 
-- The laws with amendments whenever made shall be deposited with the Registrar to the Council who shall normally circulate same to the Member Countries and Associate Member Countries.
+2. Such laws incorporated in accordance with paragraph 1 of this Article shall, without prejudice to existing laws such as those dealing with forgery, fraud and similar offences, include offences relating to malpractices in examinations and the award of certificates and diplomas for examinations conducted by the Council under this Convention.
+
+3. The laws with amendments whenever made shall be deposited with the Registrar to the Council who shall normally circulate same to the Member Countries and Associate Member Countries.
 
 ### ARTICLE 15
 
-- The Secretariat shall  be  composed of the Registrar, who shall be Chief Executive of the Council and Head of the Secretariat, and  such  other  staff  as  Council  may  appoint  to  assist  the Registrar.
-
-External Au ditors
-
-Incorporatio n into Local Laws
-
 Termination of status of associate member
+
+1. The Secretariat shall be composed of the Registrar, who shall be Chief Executive of the Council and Head of the Secretariat, and such other staff as Council may appoint to assist the Registrar.
 
 106
 
@@ -3205,25 +3215,25 @@ Termination of status of associate member
 
 [[START OF PAGE 107]]
 
-- The Registrar shall be appointed for a period of five years and the appointment may  be renewed for further period not exceeding two years.
+2. The Registrar shall be appointed for a period of five years and the appointment may be renewed for further period not exceeding two years.
 
-- The  Registrar  shall  be  a  person  of  proven  competence  and integrity with considerable knowledge of the conduct of examinations.
+3. The Registrar shall be a person of proven competence and integrity with considerable knowledge of the conduct of examinations.
 
-- Council,  in  appointing  the  Registrar  and  other  staff  of  the Council,  shall  have  due  regard  to  maintaining  an  equitable geographical  distribution  of  positions  among  nationals  of  the Member Countries, subject to ensuring the highest standard of efficiency and competence.
+4. Council, in appointing the Registrar and other staff of the Council, shall have due regard to maintaining an equitable geographical distribution of positions among nationals of the Member Countries, subject to ensuring the highest standard of efficiency and competence.
 
-- The  Headquarters  of  the  Council  shall  be  situated  in  Accra, Ghana.
+5. The Headquarters of the Council shall be situated in Accra, Ghana.
 
-- The Council shall have offices in each of the  Member Countries.
+6. The Council shall have offices in each of the Member Countries.
 
-- The Secretariat shall maintain such records as may be necessary for efficient discharge of the functions of the Council and shall prepare,  collage  and  circulate  the  documents  and  information that may be required for the work of the Council.
+7. The Secretariat shall maintain such records as may be necessary for efficient discharge of the functions of the Council and shall prepare, collate and circulate the documents and information that may be required for the work of the Council.
 
-- The Registrar shall prepare and submit to Council the financial statement for each year and the budget estimates
+8. The Registrar shall prepare and submit to Council the financial statement for each year and the budget estimates
 
-- The  Registrar  shall  keep  Member  Countries  and  Associate Member  Countries  of  the  Countries  of  the  Council  informed with respect to the activities of the Council.
+9. The Registrar shall keep Member Countries and Associate Member Countries of the Council informed with respect to the activities of the Council.
 
-- In  the  performance of their duties, the Registrar and the other staff of the Council shall not be subject to any authority other than Council.
+10. In the performance of their duties, the Registrar and the other staff of the Council shall not be subject to any authority other than Council.
 
-- The  Registrar  shall  perform  the  duties  assigned  to  him  under this  Convention  and  such  other  duties  as  may  be  assigned  to him by Council.
+11. The Registrar shall perform the duties assigned to him under this Convention and such other duties as may be assigned to him by Council.
 
 107
 
@@ -3233,23 +3243,27 @@ Termination of status of associate member
 
 ### ARTICLE 16
 
-- The  Council  shall  enjoy  legal  personality  as  an  international organization within the territorial limits of the Member Countries and Associate Member Countries.
+STATUS, Privileges and Immunities
 
-- The Council shall have in each Member Country and Associate Member Country;
+1. The Council shall enjoy legal personality as an international organization within the territorial limits of the Member Countries and Associate Member Countries.
+
+2. The Council shall have in each Member Country and Associate Member Country;
 
 (a) the legal capacity required for the performance of its functions under this Convention; and
 
 (b) the power to acquire and dispose of movable and immovable property.
 
-- The  Council,  in  exercise  of  its  legal  personality  under  the Article, shall be represented by the Registrar, or any of the staff of the Council as he may appoint in writing.
+3. The Council, in exercise of its legal personality under this Article, shall be represented by the Registrar, or any of the staff of the Council as he may appoint in writing.
 
-- The Chairperson, Members of Council, Registrar and members of his staff shall severally or collectively be accorded diplomatic  privileges  or  status  in  accordance  with  the  rules, regulations and policies governing diplomatic immunities within  the  territories  of  the  Member  Countries  and  Associate Member Countries.
+4. The Chairperson, Members of Council, Registrar and members of his staff shall severally or collectively be accorded diplomatic privileges or status in accordance with the rules, regulations and policies governing diplomatic immunities within the territories of the Member Countries and Associate Member Countries.
 
-- Where in any Member Country as issue arises that relates to the performance  or  execution  of  duties  by  staff  of  the  Council  in the  Member  Country  giving  rise  to  serious  concern  of  the Government, the Member Country is enjoined to refrain from taking  direct  disciplinary,  administrative  or  other  action  and shall make a report to the Registrar who shall, in consultation with the Chairperson and the Member Country concerned, take immediate and necessary action.
+5. Where in any Member Country an issue arises that relates to the performance or execution of duties by staff of the Council in the Member Country giving rise to serious concern of the Government, the Member Country is enjoined to refrain from taking direct disciplinary, administrative or other action and shall make a report to the Registrar who shall, in consultation with the Chairperson and the Member Country concerned, take immediate and necessary action.
 
 ### ARTICLE 17
 
-Any  dispute among  Member  Countries  and Associate  Member Countries concerning the interpretation or application of this Convention which cannot be resolved by Council shall be referred to STATUS, Privileges and Immunities Settlement of disputes the  Commission  of  Mediation,  Conciliation  and  Arbitration  of  the African Union for determination.
+Settlement of disputes
+
+Any dispute among Member Countries and Associate Member Countries concerning the interpretation or application of this Convention which cannot be resolved by Council shall be referred to
 
 108
 
@@ -3257,23 +3271,25 @@ Any  dispute among  Member  Countries  and Associate  Member Countries concernin
 
 [[START OF PAGE 109]]
 
+the Commission of Mediation, Conciliation and Arbitration of the African Union for determination.
+
 ### ARTICLE 18
-
-- This revised Convention shall enter into force upon the deposit of instruments of ratification by the Member Countries with the Government of Ghana who shall formally inform the Member Countries of the deposit.
-
-- Any country in West Africa may accede to this Convention on such  terms  and  conditions  as  Council  may  determine.  The instrument of Accession shall be deposited with the Government  of  Ghana  which  shall  notify  all  the  Member Countries  and  Associate  Member  Countries.  This  Convention shall  come  into  force  in  relation  to  an  Accruing  Country  on such date as its Instrument of Accession is deposited.
-
-### ARTICLE 19
-
-- A Member Country may submit proposals for the amendment of this Convention.
-
-- Any  such  proposal  shall  be  submitted  to  the  Registrars  who shall  communicate  same  to  other  Member  Countries  not  later than  thirty  days  of  the  receipt  of  the  proposal.  The  proposal shall not  be  considered  by  Council  unless  each  Member Country has been given one month's notice thereof.
-
-- Approval of an amendment  to this Convention shall be determined  in  conformity  with  the  procedure  laid  down  in Article 6 paragraph 5 and shall thereupon enter into force.
 
 Entry into Force
 
+1. This revised Convention shall enter into force upon the deposit of instruments of ratification by the Member Countries with the Government of Ghana who shall formally inform the Member Countries of the deposit.
+
+2. Any country in West Africa may accede to this Convention on such terms and conditions as Council may determine. The instrument of Accession shall be deposited with the Government of Ghana which shall notify all the Member Countries and Associate Member Countries. This Convention shall come into force in relation to an Acceding Country on such date as its Instrument of Accession is deposited.
+
+### ARTICLE 19
+
 Amendments
+
+1. A Member Country may submit proposals for the amendment of this Convention.
+
+2. Any such proposal shall be submitted to the Registrar who shall communicate same to other Member Countries not later than thirty days of the receipt of the proposal. The proposal shall not be considered by Council unless each Member Country has been given one month's notice thereof.
+
+3. Approval of an amendment to this Convention shall be determined in conformity with the procedure laid down in Article 6 paragraph 5 and shall thereupon enter into force.
 
 109
 
@@ -3283,23 +3299,23 @@ Amendments
 
 ### ARTICLE 20
 
-- Any Member Country wishing to withdraw from Council shall give to the Registrar one year's written notice of its intention to withdraw, and at the end of that, if the notice is not withdrawn, cease to be a Member of the Council.
+Withdrawal
 
-- During the period of one year referred to in paragraph 1 of this Article,  the  Member  Country  shall  nevertheless  observe  the provisions  of  the  Convention  and  shall  remain  liable  for  the discharge of its obligations under the Convention.
+1. Any Member Country wishing to withdraw from Council shall give to the Registrar one year's written notice of its intention to withdraw, and at the end of that period, if the notice is not withdrawn, cease to be a Member of the Council.
+
+2. During the period of one year referred to in paragraph 1 of this Article, the Member Country shall nevertheless observe the provisions of the Convention and shall remain liable for the discharge of its obligations under the Convention.
 
 ### ARTICLE 21
 
-This present Convention and all instruments of ratification shall be deposited with the Government of Ghana, who shall transit certified true copies of this Convention and instruments of ratification to the Member Countries and Associate Member Countries and shall register this Convention with the African Union, the United Nations Organisation, and such other organizations as Council may determine.
+Depository of the Convention
+
+This present Convention and all instruments of ratification shall be deposited with the Government of Ghana, who shall transmit certified true copies of this Convention and instruments of ratification to the Member Countries and Associate Member Countries and shall register this Convention with the African Union, the United Nations Organisation, and such other organizations as Council may determine.
 
 ### ARTICLE 22
 
-- Where there is any hindrance to the acquisition of any land in Member  Country  required  for  carrying  into  effect  any  of  the Government of the Member Country may upon the application of the Council and after such enquiry as it may think fit, declare that the land is required for the service of the Council and upon such  appropriate  law  relating  to  the  acquisition  of  land  in  the Member Country, be deemed to be land required in the public interest, and the Government of the Member country may direct that proceedings be taken under the provisions of the said law of the Member  Country  for acquiring the land and for determining the compensation to be paid to the party who has interest in the land.
-
-Withdrawal
-
-Depository of the Convention
-
 Miscellaneous Acquisition of Land
+
+1. Where there is any hindrance to the acquisition of any land in a Member Country required for carrying into effect any of the provisions of this Convention, the Government of the Member Country may upon the application of the Council and after such enquiry as it may think fit, declare that the land is required for the service of the Council and upon such declaration the land shall, under the appropriate law relating to the acquisition of land in the Member Country, be deemed to be land required in the public interest, and the Government of the Member Country may direct that proceedings be taken under the provisions of the said law of the Member Country for acquiring the land and for determining the compensation to be paid to the party who has interest in the land.
 
 110
 
@@ -3307,27 +3323,27 @@ Miscellaneous Acquisition of Land
 
 [[START OF PAGE 111]]
 
-- When any land has been acquired under the provisions of the said  law  of  the  Member  Country  consequent  upon  a  direction given under paragraph 1 of this Article, the Government of the Member Country may vest the land in the Council by means of a  certificate  under  the  hand  and  seal  of  the  person  to  be authorized  by  the  Government  of  the  Member  Country  to  the effect that the land has been transferred to the Council.
+2. When any land has been acquired under the provisions of the said law of the Member Country consequent upon a direction given under paragraph 1 of this Article, the Government of the Member Country may vest the land in the Council by means of a certificate under the hand and seal of the person to be authorized by the Government of the Member Country to the effect that the land has been transferred to the Council.
 
-- The compensation, if any for such acquisition, shall in the first instance be paid by the Government of the Member Country but the Council may be required to refund to the Government any compensation so paid and all expenses incidental to the acquisition incurred by the Government.
+3. The compensation, if any, for such acquisition, shall in the first instance be paid by the Government of the Member Country but the Council may be required to refund to the Government any compensation so paid and all expenses incidental to the acquisition incurred by the Government.
 
 ### ARTICLE 23
 
-- A  pensionable  employee  of  the  Council  confirmed  in  office shall on reaching the age of sixty years retire from the service of  the  Council  and  shall  be  paid  pension  and  gratuity  in accordance with his conditions of service.
+Pensionable Office
 
-- The  Council  shall  operate  and  administer  its  own  Pension Scheme, funded by the Council.
+1. A pensionable employee of the Council confirmed in office shall on reaching the age of sixty years retire from the service of the Council and shall be paid pension and gratuity in accordance with his conditions of service.
+
+2. The Council shall operate and administer its own Pension Scheme, funded by the Council.
 
 ### ARTICLE 24
 
-Council shall be determine the fees chargeable to entrants to, and regulate the conduct of, any examination conducted under Article 4(b) of this Convention, including but without prejudice to, the generality of the foregoing:
+Power to Regulate Certain Matters
 
-(a) the  persons  or  categories  of  persons  who  may  enter  for such examinations; and
+Council shall determine the fees chargeable to entrants to, and regulate the conduct of, any examination conducted under Article 4(b) of this Convention, including but without prejudice to, the generality of the foregoing:
+
+(a) the persons or categories of persons who may enter for such examinations; and
 
 (b) the conduct of entrants during such examinations.
-
-Pensionable Office
-
-Power to Regulate Certain Matters
 
 111
 
@@ -3337,29 +3353,31 @@ Power to Regulate Certain Matters
 
 ### ARTICLE 25
 
-- Every employee of the Council who is in receipt of an annual salary of not less than such a fixed sum as Council may from time to time determine or whose appointment contains provisions  for  increase  in  salary  and  who  may  receive  a maximum annual salary thereunder exceeding such a fixed sum as Council may from time to time determine shall be subject to
+Discipline
 
-Article 7 of this Convention;
+1. Every employee of the Council who is in receipt of an annual salary of not less than such a fixed sum as Council may from time to time determine or whose appointment contains provisions for increase in salary and who may receive a maximum annual salary thereunder exceeding such a fixed sum as Council may from time to time determine shall be subject to Article 7 of this Convention;
 
-'West Africa' means The Gambia, Ghana, Liberia, Nigeria and Sierra Leone; and any other country by which this Convention may be adopted collectively;
+### ARTICLE 26
+
+Interpretation
+
+“West Africa” means The Gambia, Ghana, Liberia, Nigeria and Sierra Leone; and any other country by which this Convention may be adopted collectively;
 
 words in the singular include the plural and words in the plural include the singular; male includes the female and vice versa.
 
 ### ARTICLE 27
 
-On the coming into force of this Convention, Member Countries shall take appropriate legislative measures to amend any of the following enactments as is applicable in the Member Country -
+Amendment of Existing Enactments
+
+On the coming into force of this Convention, Member Countries shall take appropriate legislative measures to amend any of the following enactments as is applicable in the Member Country –
 
 (a) The West African Examinations Council Act, 1972 (The Gambia)
 
-(b) The  West  African  Examinations  Council  Law,  1991 (Ghana)
+(b) The West African Examinations Council Law, 1991 (Ghana)
 
-(c) The  West  African  Examinations  Council  Decree,  1973 (Nigeria)
+(c) The West African Examinations Council Decree, 1973 (Nigeria)
 
-(d) The  West  African Examinations  Council Act,  1972 (Sierra Leone)
-
-Discipline
-
-Amendment of Existing Enactments
+(d) The West African Examinations Council Act, 1972 (Sierra Leone)
 
 112
 
@@ -3369,13 +3387,13 @@ Amendment of Existing Enactments
 
 ### ARTICLE 28
 
-- Upon  the  entry  into  force  of  this  revised  Convention,  the Convention of The West African Examinations Council of 1982 shall cease to have effect.
-
-- Notwithstanding paragraph 1 of this Article, all decisions made, resolutions passed and agreements entered into by the Council under the Convention of 1982 and in force upon the entry into force of this revised Convention shall remain valid and in force until otherwise dealt with in accordance with the provisions of this revised Convention.
-
-IN FAITH WHEREOF  WE, THE REPRESENTATIVES OF STATES  AND  GOVERNMENTS  OF  THE  GAMBIA,  GHANA, LIBERIA,  NIGERIA,  AND  SIERRA  LEONE  IN  WEST  AFRICA HAVE SIGNED THIS CONVENTION.
-
 Transitional and saving provisions
+
+1. Upon the entry into force of this revised Convention, the Convention of The West African Examinations Council of 1982 shall cease to have effect.
+
+2. Notwithstanding paragraph 1 of this Article, all decisions made, resolutions passed and agreements entered into by the Council under the Convention of 1982 and in force upon the entry into force of this revised Convention shall remain valid and in force until otherwise dealt with in accordance with the provisions of this revised Convention.
+
+IN FAITH WHEREOF WE, THE REPRESENTATIVES OF STATES AND GOVERNMENTS OF THE GAMBIA, GHANA, LIBERIA, NIGERIA, AND SIERRA LEONE IN WEST AFRICA HAVE SIGNED THIS CONVENTION.
 
 113
 
