@@ -15,7 +15,7 @@ At the Court at Buckingham Palace, the 31st day of May 1978 Present,
 
 The Queen's Most Excellent Majesty in Council
 
-Her Majesty, by virtue and in exercise of the powers in that behalf by the Foreign Jurisdiction Act 1890 (a) or otherwise in Her Majesty vested, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follow:-
+Her Majesty, by virtue and in exercise of the powers in that behalf by the Foreign Jurisdiction Act 1890 (a) or otherwise in Her Majesty vested, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:-
 
 ## Citation and commencement
 
@@ -49,7 +49,7 @@ existing Constitution;
 
 ## Revocations
 
-3. -(1) The British Solomon Islands Order 1974, the British Solomon Islands (Amendment) Order 1975, the British Solomons Islands (Name of Territory) Order 1975, the Solomon Islands Courts Order 1975, the Solomon Islands (Appeals to Privy Council) Order 1975 (a) , the Solomon Islands (Amendment) Order 1975, the Solomon Islands (Amendment) Order 1976, and the Solomon Islands (Amendment) Order 1977 are revoked.
+3. -(1) The British Solomon Islands Order 1974, the British Solomon Islands (Amendment) Order 1975, the British Solomon Islands (Name of Territory) Order 1975, the Solomon Islands Courts Order 1975, the Solomon Islands (Appeals to Privy Council) Order 1975 (a) , the Solomon Islands (Amendment) Order 1975, the Solomon Islands (Amendment) Order 1976, and the Solomon Islands (Amendment) Order 1977 are revoked.
 
 [[END OF PAGE 2]]
 
@@ -61,7 +61,7 @@ existing Constitution;
 
 ## Establishment of Constitution
 
--(1) Subject to the provisions of this Order, the Constitution shall come into effect in Solomon Islands on the appointed day.
+4.-(1) Subject to the provisions of this Order, the Constitution shall come into effect in Solomon Islands on the appointed day.
 
 (2) The Governor (as defined for the purposes of the existing Constitution) may at any time after this subsection comes into operation exercise any of the powers conferred upon the Governor-General by section 5 of this Order or by the Constitution to such extent as may in his opinion be necessary or expedient to enable the Constitution to function as from the appointed day.
 
@@ -71,19 +71,31 @@ existing Constitution;
 
 (c) 1978 c. 15
 
-(2) Where any matter that falls to be prescribed or otherwise provided for under the Constitution by Parliament or by any other authority or person is prescribed or provided for by or under an existing law (including any amendment to any such law made under this section) or is otherwise prescribed or provided for immediately before the appointed day by or under the existing Orders that prescription or provision shall, as from that day, have effect (with such modifications, adaptations, qualifications and exceptions as may be necessary to bring it into conformity with the Solomon Islands Act 1978 and this Order) as if it had been made under the Constitution by Parliament or, as the case may require, by the other authority or person. (3) The Governor-General may, by order published in the Gazette, at any time before 31st December 1978 make such amendments to any existing law (other than the Solomon Islands Act 1978 or this Order) as may appear to him to be necessary or expedient for bringing that law into conformity with the provisions of this Order or otherwise for giving effect or enabling effect to be given to those provisions. (4) An order made under this section may be amended or revoked by Parliament or, in relation to any existing law affected thereby, by any other authority having power to amend, repeal or revoke that existing law. (5) It is hereby declared, for the avoidance of doubt, that, save as otherwise provided either expressly or by necessary implication, nothing in this Order shall be construed as affecting the continued operation of any existing law. (6) The provisions of this section shall be without prejudice to any powers conferred by this Order or any other law upon any person or authority to make provision for any matter, including the amendment or repeal of any existing law.
+(2) Where any matter that falls to be prescribed or otherwise provided for under the Constitution by Parliament or by any other authority or person is prescribed or provided for by or under an existing law (including any amendment to any such law made under
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-## First Governor General
+this section) or is otherwise prescribed or provided for immediately before the appointed day by or under the existing Orders that prescription or provision shall, as from that day, have effect (with such modifications, adaptations, qualifications and exceptions as may be necessary to bring it into conformity with the Solomon Islands Act 1978 and this Order) as if it had been made under the Constitution by Parliament or, as the case may require, by the other authority or person.
 
-6. Notwithstanding the provisions of section 27(1) of the Constitution, the first GovernorGeneral shall be appointed by Her Majesty in accordance with such address as may have been made to Her before the appointed day by the existing Legislative Assembly, and any such appointment shall take effect as from the appointed day.
+(3) The Governor-General may, by order published in the Gazette, at any time before 31st December 1978 make such amendments to any existing law (other than the Solomon Islands Act 1978 or this Order) as may appear to him to be necessary or expedient for bringing that law into conformity with the provisions of this Order or otherwise for giving effect or enabling effect to be given to those provisions.
+
+(4) An order made under this section may be amended or revoked by Parliament or, in relation to any existing law affected thereby, by any other authority having power to amend, repeal or revoke that existing law.
+
+(5) It is hereby declared, for the avoidance of doubt, that, save as otherwise provided either expressly or by necessary implication, nothing in this Order shall be construed as affecting the continued operation of any existing law.
+
+(6) The provisions of this section shall be without prejudice to any powers conferred by this Order or any other law upon any person or authority to make provision for any matter, including the amendment or repeal of any existing law.
+
+## First Governor-General
+
+6. Notwithstanding the provisions of section 27(1) of the Constitution, the first Governor-General shall be appointed by Her Majesty in accordance with such address as may have been made to Her before the appointed day by the existing Legislative Assembly, and any
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+such appointment shall take effect as from the appointed day.
 
 ## Ministers
 
@@ -129,7 +141,8 @@ Provided that any person who under the existing Constitution or any existing law
 
 Provided that any such person who under the provisions of the existing Constitution would have been required to vacate his office on the expiration of any period or at any other time specified in the instrument by which he was appointed shall vacate his office at the expiration of that period or at that time.
 
-(2) Subsection (1) of this section applies to the following offices of members of Commissions established by Chapter V of the existing Constitution(a) any member of the Public Service Commission;
+(2) Subsection (1) of this section applies to the following offices of members of Commissions established by Chapter V of the existing Constitution-
+(a) any member of the Public Service Commission;
 
 [[END OF PAGE 7]]
 
@@ -155,7 +168,8 @@ Provided that any such person who under the provisions of the existing Constitut
 
 ## Provincial government
 
-13. Until further provision is made by Parliament under section 114 of the Constitution(a) provincial government in Solomon Islands shall be regulated by the provisions of the Local Government Ordinance (a) subject to such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with the provisions of the Constitution; and
+13. Until further provision is made by Parliament under section 114 of the Constitution-
+(a) provincial government in Solomon Islands shall be regulated by the provisions of the Local Government Ordinance (a) subject to such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with the provisions of the Constitution; and
 
 (a) Cap. 14.
 
@@ -175,66 +189,6 @@ ______
 
 [[START OF PAGE 10]]
 
-SECTION
-
-- THE STATE AND HEAD OF STATE
-
-- CONSTITUTION IS SUPREME LAW
-
-#### CHAPTER II
-
-PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
-
-- FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
-
-- PROTECTION OF RIGHT TO LIFE
-
-- PROTECTION OF RIGHT TO PERSONAL LIBERTY
-
-- PROTECTION FROM SLAVERY AND FORCED LABOUR
-
-- PROTECTION FROM INHUMAN TREATMENT
-
-- PROTECTION FROM DEPRIVATION OF PROPERTY
-
-- PROTECTION FOR PRIVACY OF HOME AND OTHER PROPERTY
-
-- PROVISIONS TO SECURE PROTECTION OF LAW
-
-- PROTECTION OF FREEDOM OF CONSCIENCE
-
-- PROTECTION OF FREEDOM OF EXPRESSION
-
-- PROTECTION OF FREEDOM OF ASSEMBLY AND ASSOCIATION
-
-- PROTECTION OF FREEDOM OF MOVEMENT
-
-- PROTECTION FROM DISCRIMINATION ON GROUNDS OF RACE, ETC.
-
-- PROVISIONS FOR PERIODS OF PUBLIC EMERGENCY
-
-- COMPENSATION FOR CONTRAVENTION OF RIGHTS AND FREEDOMS
-
-- ENFORCEMENT OF PROTECTIVE PROVISIONS
-
-- INTERPRETATION AND SAVINGS
-
-#### CHAPTER III
-
-CITIZENSHIP
-
-- PERSONS WHO BECOME CITIZENS ON INDEPENDENCE DAY
-
-- PERSONS ENTITLED TO BE REGISTERED AS CITIZENS AFTER
-
-INDEPENDENCE DAY
-
-- PERSONS BORN ON OR AFTER INDEPENDENCE DAY
-
-- AVOIDANCE OF DUAL NATIONALITY
-
-- COMMONWEALTH CITIZENS
-
 ## SCHEDULE
 
 ### ARRANGEMENT OF SECTIONS
@@ -243,201 +197,263 @@ INDEPENDENCE DAY
 
 THE STATE AND THE CONSTITUTION
 
+SECTION
+
+1. THE STATE AND HEAD OF STATE
+
+2. CONSTITUTION IS SUPREME LAW
+
+#### CHAPTER II
+
+PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
+
+3. FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
+
+4. PROTECTION OF RIGHT TO LIFE
+
+5. PROTECTION OF RIGHT TO PERSONAL LIBERTY
+
+6. PROTECTION FROM SLAVERY AND FORCED LABOUR
+
+7. PROTECTION FROM INHUMAN TREATMENT
+
+8. PROTECTION FROM DEPRIVATION OF PROPERTY
+
+9. PROTECTION FOR PRIVACY OF HOME AND OTHER PROPERTY
+
+10. PROVISIONS TO SECURE PROTECTION OF LAW
+
+11. PROTECTION OF FREEDOM OF CONSCIENCE
+
+12. PROTECTION OF FREEDOM OF EXPRESSION
+
+13. PROTECTION OF FREEDOM OF ASSEMBLY AND ASSOCIATION
+
+14. PROTECTION OF FREEDOM OF MOVEMENT
+
+15. PROTECTION FROM DISCRIMINATION ON GROUNDS OF RACE, ETC.
+
+16. PROVISIONS FOR PERIODS OF PUBLIC EMERGENCY
+
+17. COMPENSATION FOR CONTRAVENTION OF RIGHTS AND FREEDOMS
+
+18. ENFORCEMENT OF PROTECTIVE PROVISIONS
+
+19. INTERPRETATION AND SAVINGS
+
+#### CHAPTER III
+
+CITIZENSHIP
+
+20. PERSONS WHO BECOME CITIZENS ON INDEPENDENCE DAY
+
+21. PERSONS ENTITLED TO BE REGISTERED AS CITIZENS AFTER
+INDEPENDENCE DAY
+
+22. PERSONS BORN ON OR AFTER INDEPENDENCE DAY
+
+23. AVOIDANCE OF DUAL NATIONALITY
+
+24. COMMONWEALTH CITIZENS
+
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-25. POWERS OF PARLIAMENT 26. INTERPRETATION
+25. POWERS OF PARLIAMENT
+26. INTERPRETATION
 
 #### CHAPTER IV THE GOVERNOR-GENERAL
 
-- ESTABLISHMENT OF OFFICE OF GOVERNOR-GENERAL
+27. ESTABLISHMENT OF OFFICE OF GOVERNOR-GENERAL
 
-- ACTING GOVERNOR-GENERAL
+28. ACTING GOVERNOR-GENERAL
 
-- OATHS TO BE TAKEN BY GOVERNOR-GENERAL
+29. OATHS TO BE TAKEN BY GOVERNOR-GENERAL
 
 #### CHAPTER V
 
 THE EXECUTIVE
 
-- EXECUTIVE AUTHORITY OF SOLOMON ISLANDS
+30. EXECUTIVE AUTHORITY OF SOLOMON ISLANDS
 
-- EXERCISE OF GOVERNOR-GENERAL'S FUNCTIONS
+31. EXERCISE OF GOVERNOR-GENERAL'S FUNCTIONS
 
-- GOVERNOR-GENERAL TO BE KEPT INFORMED
+32. GOVERNOR-GENERAL TO BE KEPT INFORMED
 
-- MINISTERS
+33. MINISTERS
 
-- TENURE OF OFFICE OF MINISTERS
+34. TENURE OF OFFICE OF MINISTERS
 
-- THE CABINET
+35. THE CABINET
 
-- PROCEEDINGS IN CABINET
+36. PROCEEDINGS IN CABINET
 
-- ASSIGNMENT OF RESPONSIBILITIES TO MINISTERS
+37. ASSIGNMENT OF RESPONSIBILITIES TO MINISTERS
 
-- PERFORMANCE OF PRIME MINISTER'S FUNCTIONS DURING ILLNESS OR ABSENCE
+38. PERFORMANCE OF PRIME MINISTER'S FUNCTIONS DURING ILLNESS OR ABSENCE
 
-- OATHS TO BE TAKEN BY MEMBERS OF CABINET
+39. OATHS TO BE TAKEN BY MEMBERS OF CABINET
 
-- DIRECTION, ETC OF GOVERNMENT DEPARTMENTS
+40. DIRECTION, ETC OF GOVERNMENT DEPARTMENTS
 
-- SECRETARY TO CABINET
+41. SECRETARY TO CABINET
 
-- ATTORNEY-GENERAL
+42. ATTORNEY-GENERAL
 
-- COMMISSIONER OF POLICE
+43. COMMISSIONER OF POLICE
 
-- CONSTITUTION OF OFFICES
+44. CONSTITUTION OF OFFICES
 
-- PREROGATIVE OF MERCY
+45. PREROGATIVE OF MERCY
 
 #### CHAPTER VI THE NATIONAL LEGISLATURE
 
 ##### Part I - Parliament
 
-- ESTABLISHMENT OF PARLIAMENT
+46. ESTABLISHMENT OF PARLIAMENT
 
-- COMPOSITION OF PARLIAMENT
+47. COMPOSITION OF PARLIAMENT
 
-- QUALIFICATION FOR MEMBERSHIP
+48. QUALIFICATION FOR MEMBERSHIP
 
-- DISQUALIFICATION FROM MEMBERSHIP
+49. DISQUALIFICATION FROM MEMBERSHIP
 
-- VACATION OF SEATS BY MEMBERS
+50. VACATION OF SEATS BY MEMBERS
 
-- VACATION OF SEAT ON SENTENCE, ETC
+51. VACATION OF SEAT ON SENTENCE, ETC
 
-- DETERMINATION OF QUESTIONS AS TO MEMBERSHIP
+52. DETERMINATION OF QUESTIONS AS TO MEMBERSHIP
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- CONSTITUENCY BOUNDARIES COMMISSION
+53. CONSTITUENCY BOUNDARIES COMMISSION
 
-- CONSTITUENCIES
+54. CONSTITUENCIES
 
-- QUALIFICATIONS AND DISQUALIFICATIONS FOR REGISTRATION AS AN ELECTOR
+55. QUALIFICATIONS AND DISQUALIFICATIONS FOR REGISTRATION AS AN ELECTOR
 
-- RIGHT TO VOTE AT ELECTION
+56. RIGHT TO VOTE AT ELECTION
 
-- ELECTORAL COMMISSION
+57. ELECTORAL COMMISSION
 
-- FUNCTIONS OF ELECTORAL COMMISSION
+58. FUNCTIONS OF ELECTORAL COMMISSION
 
 ##### Part II - Legislation and Procedure in Parliament
 
-- POWER TO MAKE LAWS
+59. POWER TO MAKE LAWS
 
-- INTRODUCTION OF BILLS, ETC
+60. INTRODUCTION OF BILLS, ETC
 
-- ALTERATION OF CONSTITUTION
+61. ALTERATION OF CONSTITUTION
 
-- RULES OF PROCEDURE OF PARLIAMENT
+62. RULES OF PROCEDURE OF PARLIAMENT
 
-- OATH OF ALLEGIANCE
+63. OATH OF ALLEGIANCE
 
-- THE SPEAKER AND DEPUTY SPEAKER
+64. THE SPEAKER AND DEPUTY SPEAKER
 
-- PRESIDING IN PARLIAMENT
+65. PRESIDING IN PARLIAMENT
 
-- LEADERS OF OPPOSITION AND INDEPENDENT GROUPS IN PARLIAMENT
+66. LEADERS OF OPPOSITION AND INDEPENDENT GROUPS IN PARLIAMENT
 
-- QUORUM
+67. QUORUM
 
-- PROCEEDINGS IN PARLIAMENT
+68. PROCEEDINGS IN PARLIAMENT
 
-- PRIVILEGES OF PARLIAMENT AND ITS MEMBERS
+69. PRIVILEGES OF PARLIAMENT AND ITS MEMBERS
 
-- 69A. MEMBERS OF PARLIAMENT (ENTITLEMENTS) COMMISSION
+69A. MEMBERS OF PARLIAMENT (ENTITLEMENTS) COMMISSION
 
-- 69B. DETERMINATION OF ENTITLEMENTS OF PARLIAMENTARIANS
+69B. DETERMINATION OF ENTITLEMENTS OF PARLIAMENTARIANS
 
-- 69C. ADMISSIBILITY OF ENTITLEMENTS TO BE IN ACCORDANCE WITH REGULATIONS
+69C. ADMISSIBILITY OF ENTITLEMENTS TO BE IN ACCORDANCE WITH REGULATIONS
 
-- PROCEEDINGS OF PARLIAMENT TO BE HELD IN PUBLIC
+70. PROCEEDINGS OF PARLIAMENT TO BE HELD IN PUBLIC
 
-- VOTING
+71. VOTING
 
-- SESSIONS OF PARLIAMENT
+72. SESSIONS OF PARLIAMENT
 
-- PROROGATION AND DISSOLUTION
+73. PROROGATION AND DISSOLUTION
 
-- GENERAL ELECTIONS
+74. GENERAL ELECTIONS
 
 #### CHAPTER VII THE LEGAL SYSTEM
 
 ##### Part I - The Application of Laws
 
-75. APPLICATION OF LAWS 76. COMMON LAW AND CUSTOMARY LAW, ETC
+75. APPLICATION OF LAWS
+76. COMMON LAW AND CUSTOMARY LAW, ETC
 
 ##### Part II - The Judiciary
 
 ###### (a) The High Court
 
-77. ESTABLISHMENT OF HIGH COURT 78. APPOINTMENT OF JUDGES OF HIGH COURT
+77. ESTABLISHMENT OF HIGH COURT
+78. APPOINTMENT OF JUDGES OF HIGH COURT
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- ACTING JUDGES AND COMMISSIONERS OF HIGH COURT
+79. ACTING JUDGES AND COMMISSIONERS OF HIGH COURT
 
-- TENURE OF OFFICE OF JUDGES OF HIGH COURT
+80. TENURE OF OFFICE OF JUDGES OF HIGH COURT
 
-- JUDGE MAY SIT AFTER APPOINTMENT HAS TERMINATED
+81. JUDGE MAY SIT AFTER APPOINTMENT HAS TERMINATED
 
-- SEAL OF HIGH COURT
+82. SEAL OF HIGH COURT
 
-- JURISDICTION OF HIGH COURT IN CONSTITUTIONAL QUESTIONS
+83. JURISDICTION OF HIGH COURT IN CONSTITUTIONAL QUESTIONS
 
-- HIGH COURT AND SUBORDINATE COURTS
+84. HIGH COURT AND SUBORDINATE COURTS
 
 ###### (b) The Court of Appeal
 
-- ESTABLISHMENT OF COURT OF APPEAL
+85. ESTABLISHMENT OF COURT OF APPEAL
 
-- APPOINTMENT OF JUDGES OF COURT OF APPEAL
+86. APPOINTMENT OF JUDGES OF COURT OF APPEAL
 
-- TENURE OF OFFICE OF JUDGES OF COURT OF APPEAL
+87. TENURE OF OFFICE OF JUDGES OF COURT OF APPEAL
 
-- JUDGE MAY SIT AFTER APPOINTMENT HAS TERMINATED
+88. JUDGE MAY SIT AFTER APPOINTMENT HAS TERMINATED
 
-- SEAL OF COURT OF APPEAL
+89. SEAL OF COURT OF APPEAL
 
 ###### (c) Rules of Court
 
-- RULES OF COURT
+90. RULES OF COURT
 
 ##### Part III-The Director of Public Prosecutions and the Public Solicitor
 
-- DIRECTOR OF PUBLIC PROSECUTIONS
+91. DIRECTOR OF PUBLIC PROSECUTIONS
 
-- PUBLIC SOLICITOR
+92. PUBLIC SOLICITOR
 
 #### CHAPTER VIII
 
 LEADERSHIP CODE
 
-- APPLICATION OF THIS CHAPTER
+93. APPLICATION OF THIS CHAPTER
 
-- RESPONSIBILITIES OF OFFICE
+94. RESPONSIBILITIES OF OFFICE
 
-- FURTHER PROVISIONS
+95. FURTHER PROVISIONS
 
 #### CHAPTER IX
 
 THE OMBUDSMAN
 
-- OFFICE OF OMBUDSMAN
+96. OFFICE OF OMBUDSMAN
 
-- FUNCTIONS OF OMBUDSMAN
+97. FUNCTIONS OF OMBUDSMAN
 
-- DISCHARGE OF FUNCTIONS OF OMBUDSMAN
+98. DISCHARGE OF FUNCTIONS OF OMBUDSMAN
 
-- FURTHER PROVISIONS
+99. FURTHER PROVISIONS
 
 #### CHAPTER X FINANCE
 
@@ -445,121 +461,121 @@ THE OMBUDSMAN
 
 [[START OF PAGE 14]]
 
-- CONSOLIDATED FUND AND SPECIAL FUNDS
+100. CONSOLIDATED FUND AND SPECIAL FUNDS
 
-- WITHDRAWAL OF MONEY FROM CONSOLIDATED FUND
+101. WITHDRAWAL OF MONEY FROM CONSOLIDATED FUND
 
-- AUTHORISATION OF EXPENDITURE
+102. AUTHORISATION OF EXPENDITURE
 
-- AUTHORISATION OF EXPENDITURE IN ADVANCE OF APPROPRIATION
+103. AUTHORISATION OF EXPENDITURE IN ADVANCE OF APPROPRIATION
 
-- DELAY IN APPROPRIATION ACT OWING TO DISSOLUTION
+104. DELAY IN APPROPRIATION ACT OWING TO DISSOLUTION
 
-- PUBLIC DEBT AND BORROWING
+105. PUBLIC DEBT AND BORROWING
 
-- IMPOSITION OF TAXATION
+106. IMPOSITION OF TAXATION
 
-- REMUNERATION OF CERTAIN OFFICERS
+107. REMUNERATION OF CERTAIN OFFICERS
 
-- AUDITOR-GENERAL
+108. AUDITOR-GENERAL
 
-- INTERPRETATION
-
-- LAND
-
-- NON-CUSTOMARY LAND
-
-- CUSTOMARY LAND
-
-- SAVINGS AND INTERPRETATION
-
-#### CHAPTER XII
-
-POLITICAL DIVISIONS
-
-- GOVERNMENT OF HONIARA CITY AND PROVINCES
-
-#### CHAPTER XIII
-
-THE PUBLIC SERVICE
-
-- PUBLIC SERVICE COMMISSION
-
-- APPOINTMENTS ETC. OF PUBLIC OFFICERS
-
-- 116A. TEACHING SERVICE COMMISSION
-
-- 116B. APPOINTMENTS ETC. OF TEACHERS
-
-- JUDICIAL AND LEGAL SERVICE COMMISSION
-
-- APPOINTMENTS ETC. OF JUDICIAL AND LEGAL OFFICERS
-
-- POLICE AND PRISONS SERVICE COMMISSION
-
-- APPOINTMENTS OF OFFICERS IN POLICE FORCE
-
-- REMOVAL AND DISCIPLINE OF MEMBERS OF POLICE FORCE
-
-- APPEAL
-
-- APPOINTMENTS OF OFFICERS IN PRISONS SERVICE
-
-- REMOVAL AND DISCIPLINE OF MEMBERS OF PRISONS SERVICE
-
-- APPEAL
-
-- REMOVAL FROM OFFICE OF MEMBERS OF COMMISSION
-
-- APPOINTMENTS ETC. TO PARTICULAR OFFICES
+109. INTERPRETATION
 
 #### CHAPTER XI
 
 LAND
 
+110. LAND
+
+111. NON-CUSTOMARY LAND
+
+112. CUSTOMARY LAND
+
+113. SAVINGS AND INTERPRETATION
+
+#### CHAPTER XII
+
+POLITICAL DIVISIONS
+
+114. GOVERNMENT OF HONIARA CITY AND PROVINCES
+
+#### CHAPTER XIII
+
+THE PUBLIC SERVICE
+
+115. PUBLIC SERVICE COMMISSION
+
+116. APPOINTMENTS ETC. OF PUBLIC OFFICERS
+
+116A. TEACHING SERVICE COMMISSION
+
+116B. APPOINTMENTS ETC. OF TEACHERS
+
+117. JUDICIAL AND LEGAL SERVICE COMMISSION
+
+118. APPOINTMENTS ETC. OF JUDICIAL AND LEGAL OFFICERS
+
+119. POLICE AND PRISONS SERVICE COMMISSION
+
+120. APPOINTMENTS OF OFFICERS IN POLICE FORCE
+
+121. REMOVAL AND DISCIPLINE OF MEMBERS OF POLICE FORCE
+
+122. APPEAL
+
+123. APPOINTMENTS OF OFFICERS IN PRISONS SERVICE
+
+124. REMOVAL AND DISCIPLINE OF MEMBERS OF PRISONS SERVICE
+
+125. APPEAL
+
+126. REMOVAL FROM OFFICE OF MEMBERS OF COMMISSION
+
+127. APPOINTMENTS ETC. TO PARTICULAR OFFICES
+
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-- APPOINTMENT OF PERMANENT SECRETARIES
+128. APPOINTMENT OF PERMANENT SECRETARIES
 
-- TENURE OF OFFICE OF CERTAIN PUBLIC OFFICERS
+129. TENURE OF OFFICE OF CERTAIN PUBLIC OFFICERS
 
-- APPLICABILITY OF PENSIONS LAW
+130. APPLICABILITY OF PENSIONS LAW
 
-- PENSIONS ETC. CHARGED ON THE CONSOLIDATED FUND
+131. PENSIONS ETC. CHARGED ON THE CONSOLIDATED FUND
 
-- GRAND AND WITHHOLDING OF PENSIONS ETC
+132. GRANT AND WITHHOLDING OF PENSIONS ETC
 
 #### CHAPTER XIV
 
 MISCELLANEOUS
 
-- POWERS OF APPOINTMENT AND ACTING APPOINTMENTS
+133. POWERS OF APPOINTMENT AND ACTING APPOINTMENTS
 
-- REAPPOINTMENTS AND CONCURRENT APPOINTMENTS
+134. REAPPOINTMENTS AND CONCURRENT APPOINTMENTS
 
-- REMOVAL FROM OFFICE
+135. REMOVAL FROM OFFICE
 
-- RESIGNATIONS
+136. RESIGNATIONS
 
-- PERFORMANCE OF FUNCTIONS OF COMMISSIONS, ETC
+137. PERFORMANCE OF FUNCTIONS OF COMMISSIONS, ETC
 
-- SAVING FOR JURISDICTION OF COURTS
+138. SAVING FOR JURISDICTION OF COURTS
 
-- POWER TO AMEND AND REVOKE INSTRUMENTS, ETC
+139. POWER TO AMEND AND REVOKE INSTRUMENTS, ETC
 
-- CONSULTATION
+140. CONSULTATION
 
-- OATHS
+141. OATHS
 
-- NATIONAL SEAL
+142. NATIONAL SEAL
 
-- ESTABLISHMENT OF CERTAIN OFFICES
+143. ESTABLISHMENT OF CERTAIN OFFICES
 
-- INTERPRETATION
+144. INTERPRETATION
 
-- REFERENCES TO PUBLIC OFFICE, ETC
+145. REFERENCES TO PUBLIC OFFICE, ETC
 
 #### SCHEDULE 1
 FORMS OF OATHS AND AFFIRMATIONS
@@ -570,23 +586,48 @@ APPLICATION OF LAWS
 
 ----------------------------
 
-[ Sections 1 to 84 & 90 to 145 - 7th July 1978. Sections 85 to 89 - 1 December 1982 ]
+LN 43 of 1978
+14 of 1982
+1 of 1983
+1 of 1989
+10 of 1992
+
+[Sections 1 to 84 & 90 to 145 - 7th July 1978.
+Sections 85 to 89 - 1 December 1982]
 
 We the people of Solomon Islands, proud of the wisdom and the worthy customs of our ancestors, mindful of our common and diverse heritage and conscious of our common destiny, do now, under the guiding hand of God, establish the sovereign democratic State of Solomon Islands;
-
-LN 43 of 1978 14 of 1982 1 of 1983 1 of 1989 10 of 1992
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-As a basis of our united nation DECLARE that (a) all power in Solomon Islands belongs to its people and is exercised on their behalf by the legislature, the executive and the judiciary established by this Constitution; (b) the natural resources of our country are vested in the people and the government of Solomon Islands; AGREE AND PLEDGE that (a) our government shall be based on democratic principles of universal suffrage and the responsibility of executive authorities to elected assemblies; (b) we shall uphold the principles of equality, social justice and the equitable distribution of incomes; (c) we shall respect and enhance human dignity and strengthen and build on our communal solidarity; (d) we shall cherish and promote the different cultural traditions within Solomon Islands; (e) we shall ensure that participation of our people in the governance of their affairs and provide within the framework of our national unity for the decentralisation of power; AND for these purposes we now give ourselves this Constitution.
+As a basis of our united nation
+
+DECLARE that -
+
+(a) all power in Solomon Islands belongs to its people and is exercised on their behalf by the legislature, the executive and the judiciary established by this Constitution;
+
+(b) the natural resources of our country are vested in the people and the government of Solomon Islands;
+
+AGREE AND PLEDGE that -
+
+(a) our government shall be based on democratic principles of universal suffrage and the responsibility of executive authorities to elected assemblies;
+
+(b) we shall uphold the principles of equality, social justice and the equitable distribution of incomes;
+
+(c) we shall respect and enhance human dignity and strengthen and build on our communal solidarity;
+
+(d) we shall cherish and promote the different cultural traditions within Solomon Islands;
+
+(e) we shall ensure the participation of our people in the governance of their affairs and provide within the framework of our national unity for the decentralisation of power;
+
+AND for these purposes we now give ourselves this Constitution.
 
 ### CHAPTER I THE STATE AND THE CONSTITUTION
 
 ###### The State and Head of State
 
-1 .-(1) Solomon Islands shall be a sovereign democratic State. (2) Her Majesty shall be the Head of State of Solomon Islands.
+1.-(1) Solomon Islands shall be a sovereign democratic State. (2) Her Majesty shall be the Head of State of Solomon Islands.
 
 ###### Constitution is supreme law
 
@@ -600,9 +641,15 @@ As a basis of our united nation DECLARE that (a) all power in Solomon Islands be
 
 ###### Fundamental rights and freedoms of the individual
 
-3. Whereas every person in Solomon Islands is entitled to the fundamental rights and freedoms of the individual, that is to say, the right, whatever his race, place of origin, of others and for the public interest, to each and all of the following, namely:(a) life, liberty, security of the person and the protection of the law; (b) freedom of conscience of expression and of assembly and association; and (c) protection for the privacy of his home and other property and from deprivation of
+3. Whereas every person in Solomon Islands is entitled to the fundamental rights and freedoms of the individual, that is to say, the right, whatever his race, place of origin, political opinions, colour, creed or sex, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following, namely:-
 
-political opinions, colour, creed or sex, but subject to respect for the rights and freedoms property without compensation, the provisions of this Chapter shall have effect for the purpose of affording protection of those rights and freedoms subject to such limitations of that protection as are contained in those provisions, being limitations designed to ensure that the enjoyment of the said rights and freedoms by an individual does not prejudice the rights and freedoms of others or the public interest.
+(a) life, liberty, security of the person and the protection of the law;
+
+(b) freedom of conscience, of expression and of assembly and association; and
+
+(c) protection for the privacy of his home and other property and from deprivation of property without compensation,
+
+the provisions of this Chapter shall have effect for the purpose of affording protection of those rights and freedoms subject to such limitations of that protection as are contained in those provisions, being limitations designed to ensure that the enjoyment of the said rights and freedoms by an individual does not prejudice the rights and freedoms of others or the public interest.
 ###### Protection of right to life
 4. -(1) No person shall be deprived of his life intentionally save in execution of the sentence of a court in respect of a criminal offence under the law in force in Solomon Islands of which he has been convicted. (2) A person shall not be regarded as having been deprived of his life in contravention of this section if he dies as the result of the use, to such extent and in such circumstances as
 
@@ -616,17 +663,43 @@ are permitted by law, of such force as is reasonably justifiable-
 
 ###### Protection of right to personal liberty
 
-5. -(1) No person shall be deprived of his personal liberty save as may be authorised by law in any of the following cases, that is to say (a) in consequence of his unfitness to plead to a criminal charge; (b) in execution of the sentence or order of a court, whether established for Solomon Islands or some other country, in respect of a criminal offence of which he has been convicted; (c) in execution of the order of a court of record punishing him for contempt of that court or of a court inferior to it; (d) in execution of the order of a court made to secure the fulfilment of any obligation imposed on him by law; (e) for the purpose of bringing him before a court in execution of the order of a court; (f) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence under the law in force in Solomon Islands; (g) in the case of a person who has not attained the age of eighteen years, under the order of a court or with the consent of his parent or guardian, for the purpose of his education or welfare; (h) for the purpose of preventing the spread of an infectious or contagious disease; (i) in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, for the purpose of his care or treatment or the protection of the community; (j) for the purpose of preventing the unlawful entry of that person into Solomon Islands, or for the purpose of effecting the expulsion, extradition or other lawful removal of that person from Solomon Islands or for the purpose of restricting that person while he is being conveyed through Solomon Islands in the course of his extradition or removal as a convicted prisoner from one country to another; or (k) to such extent as may be necessary in the execution of a lawful order of a court requiring that person to remain within a specified area within Solomon Islands or prohibiting him from being within such an area, or to such extent as may be reasonably justifiable for the taking of proceedings against that person relating to the making of any such order, or to such extent as may be reasonably justifiable for restraining that person during any visit that he is permitted to make to any part of Solomon Islands in which, in consequence of any such order, his presence would otherwise be unlawful.
+5.-(1) No person shall be deprived of his personal liberty save as may be authorised by law in any of the following cases, that is to say -
+
+(a) in consequence of his unfitness to plead to a criminal charge;
+
+(b) in execution of the sentence or order of a court, whether established for Solomon Islands or some other country, in respect of a criminal offence of which he has been convicted;
+
+(c) in execution of the order of a court of record punishing him for contempt of that court or of a court inferior to it;
+
+(d) in execution of the order of a court made to secure the fulfilment of any obligation imposed on him by law;
+
+(e) for the purpose of bringing him before a court in execution of the order of a court;
+
+(f) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence under the law in force in Solomon Islands;
+
+(g) in the case of a person who has not attained the age of eighteen years, under the order of a court or with the consent of his parent or guardian, for the purpose of his education or welfare;
+
+(h) for the purpose of preventing the spread of an infectious or contagious disease;
+
+(i) in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, for the purpose of his care or treatment or the protection of the community;
+
+(j) for the purpose of preventing the unlawful entry of that person into Solomon Islands, or for the purpose of effecting the expulsion, extradition or other lawful removal of that person from Solomon Islands or for the purpose of restricting that person while he is being conveyed through Solomon Islands in the course of his extradition or removal as a convicted prisoner from one country to another; or
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
+(k) to such extent as may be necessary in the execution of a lawful order of a court requiring that person to remain within a specified area within Solomon Islands or prohibiting him from being within such an area, or to such extent as may be reasonably justifiable for the taking of proceedings against that person relating to the making of any such order, or to such extent as may be reasonably justifiable for restraining that person during any visit that he is permitted to make to any part of Solomon Islands in which, in consequence of any such order, his presence would otherwise be unlawful.
+
 (2) Any person who is arrested or detained shall be informed as soon as reasonably practicable, and in a language that he understands, of the reasons for his arrest or detention.
 
-(3) Any person who is arrested or detained (a) for the purpose of brining him before a court in execution of the order of a court; (b) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence under the law in force in Solomon Islands,
+(3) Any person who is arrested or detained -
 
-and who is not released, shall be brought without undue delay before a court; and if any person arrested or detained upon reasonable suspicion of his having committed or being about to commit a criminal offence is not tried within a reasonable time, then, without prejudice to any further proceedings that may be brought against him, he shall be released either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonable necessary to ensure that he appears at a later date for trial or for proceedings preliminary to trial.
+(a) for the purpose of bringing him before a court in execution of the order of a court;
+
+(b) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence under the law in force in Solomon Islands,
+
+and who is not released, shall be brought without undue delay before a court; and if any person arrested or detained upon reasonable suspicion of his having committed or being about to commit a criminal offence is not tried within a reasonable time, then, without prejudice to any further proceedings that may be brought against him, he shall be released either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that he appears at a later date for trial or for proceedings preliminary to trial.
 
 ###### Protection from slavery and forced labour
 
@@ -634,7 +707,7 @@ and who is not released, shall be brought without undue delay before a court; an
 
 [[START OF PAGE 20]]
 
-6. -(1) No person shall be held in slavery or servitude. (2) No person shall be required to perform forced labour. (3) For the purposes of this section, the expression "forced labour" does not include (a) any labour required in consequence of the sentence or order of a court; (b) any labour required of any person while he is lawfully detained that, though not required in consequence of the sentence or order of a court, is reasonably necessary in the interests of hygiene or for the maintenance of the place at which he is detained; (c) any labour required of a member of a disciplined force in pursuance of his duties as such or, in the case of a person who has conscientious objections to service as a member of a naval, military or air force, any labour that that person is required by law to perform in place of such service; (d) any labour required during any period of public emergency or in the event of any other emergency or calamity that threatens the life and well-being of the community, to the extent that the requiring of such labour is reasonably justifiable in the circumstances of any situation arising or existing during that period or as a result of that other emergency or calamity, for the purpose of dealing with that situation; or (e) any labour reasonably required as part of reasonable and normal communal or other civic obligations.
+6.-(1) No person shall be held in slavery or servitude. (2) No person shall be required to perform forced labour. (3) For the purposes of this section, the expression "forced labour" does not include - (a) any labour required in consequence of the sentence or order of a court; (b) any labour required of any person while he is lawfully detained that, though not required in consequence of the sentence or order of a court, is reasonably necessary in the interests of hygiene or for the maintenance of the place at which he is detained; (c) any labour required of a member of a disciplined force in pursuance of his duties as such or, in the case of a person who has conscientious objections to service as a member of a naval, military or air force, any labour that that person is required by law to perform in place of such service; (d) any labour required during any period of public emergency or in the event of any other emergency or calamity that threatens the life and well-being of the community, to the extent that the requiring of such labour is reasonably justifiable in the circumstances of any situation arising or existing during that period or as a result of that other emergency or calamity, for the purpose of dealing with that situation; or (e) any labour reasonably required as part of reasonable and normal communal or other civic obligations.
 
 ###### Protection from inhuman treatment
 
@@ -650,7 +723,23 @@ and who is not released, shall be brought without undue delay before a court; an
 
 (a) the taking of possession or acquisition is necessary or expedient in the interests of defence, public safety, public order, public morality, public health, town or country planning or the development or utilisation of any property in such a manner as to promote the public benefit; and (b) there is reasonable justification for the causing of any hardship that may result to any person having an interest in or right over the property; and (c) provision is made by a law applicable to that taking of possession or acquisition (i) for the payment of reasonable compensation (the valuable consideration of which may take the form of cash or some other form and may be payable by way of lump sum or by instalments) within a reasonable period of time having due regard to all the relevant circumstances; and (ii) securing to any person having an interest in or right over the property a right of access to the High Court, whether direct or on appeal from any other authority, for the determination of his interest or right, the legality of the taking of possession or acquisition of the property, interest or right, and the reasonableness of the compensation
 
-and the period of time within which it shall be paid. (2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section (a) to the extent that the law in question makes provision for the taking of possession or acquisition of any property (i) in satisfaction of any tax, rate or duty; (ii) by way of penalty for breach of the law of forfeiture in consequence of a breach of the law; (iii) as an incident of a lease, tenancy, mortgage, charge, bill of sale, pledge or contract; (iv) in the execution of judgments or orders of a court in proceedings for the determination of civil rights or obligations; (v) in circumstances where it is reasonably necessary so to do because the property is in a dangerous state or injurious to the health of human beings, animals or plants; (iv) in consequence of any law with respect to the limitation of actions or acquisitive prescription; or
+and the period of time within which it shall be paid.
+
+(2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section -
+
+(a) to the extent that the law in question makes provision for the taking of possession or acquisition of any property -
+
+(i) in satisfaction of any tax, rate or duty;
+
+(ii) by way of penalty for breach of the law or forfeiture in consequence of a breach of the law;
+
+(iii) as an incident of a lease, tenancy, mortgage, charge, bill of sale, pledge or contract;
+
+(iv) in the execution of judgments or orders of a court in proceedings for the determination of civil rights or obligations;
+
+(v) in circumstances where it is reasonably necessary so to do because the property is in a dangerous state or injurious to the health of human beings, animals or plants;
+
+(vi) in consequence of any law with respect to the limitation of actions or acquisitive prescription; or
 
 [[END OF PAGE 21]]
 
@@ -666,7 +755,23 @@ and the period of time within which it shall be paid. (2) Nothing contained in o
 
 9. -(1) Except with his own consent, no person shall be subjected to the search of his
 
-person or his property or the entry by others on his premises. (2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision (a) in the interests of defence, public safety, public order, the prevention and investigation of breaches of the law, public morality, public health, town or country planning, the development and utilisation of mineral resources, or the development or utilisation of any other property in such a manner as to promote the public benefit; (b) for the purpose of protection the rights or freedoms of other persons; (c) for the purpose of authorising an officer or agent of the Government, an authority of the property of Honiara city or of a provincial government or a body corporate established by law for a public purpose to enter on the premises of any person in order to inspect those premises or anything thereon for the purpose of any tax, rate or duty or in order to carry out work connected with any property that is lawfully on those premises and that belongs to the Government, that authority or that body corporate, as the case may be; 1 of 1983, Sched. (d) for the purpose of authorising the entry upon any premises in pursuance of an order of a court for the purpose of enforcing the judgment or order of a court in any proceedings; or (e) for the purpose of authorising the entry upon any premises for the purpose of preventing or detecting criminal offences, and except so far as that provision or, as the case may be, anything done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
+person or his property or the entry by others on his premises.
+
+(2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision -
+
+(a) in the interests of defence, public safety, public order, the prevention and investigation of breaches of the law, public morality, public health, town or country planning, the development and utilisation of mineral resources, or the development or utilisation of any other property in such a manner as to promote the public benefit;
+
+(b) for the purpose of protecting the rights or freedoms of other persons;
+
+(c) for the purpose of authorising an officer or agent of the Government, an authority of the government of Honiara city or of a provincial government or a body corporate established by law for a public purpose to enter on the premises of any person in order to inspect those premises or anything thereon for the purpose of any tax, rate or duty or in order to carry out work connected with any property that is lawfully on those premises and that belongs to the Government, that authority or that body corporate, as the case may be;
+
+1 of 1983, Sched.
+
+(d) for the purpose of authorising the entry upon any premises in pursuance of an order of a court for the purpose of enforcing the judgment or order of a court in any proceedings; or
+
+(e) for the purpose of authorising the entry upon any premises for the purpose of preventing or detecting criminal offences,
+
+and except so far as that provision or, as the case may be, anything done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
 ###### Provisions to secure protection of law
 
@@ -674,19 +779,51 @@ person or his property or the entry by others on his premises. (2) Nothing conta
 
 [[START OF PAGE 24]]
 
-10. -(1) If any person is charged with a criminal offence, then, unless the charge is withdrawn, that person shall be afforded a fair hearing within a reasonable time by an independent and impartial court established by law. (2) Every person who is charged with a criminal offence (a) shall be presumed to be innocent until he is proved or has pleaded guilty; (b) shall be informed as soon as reasonably practicable, in detail and in a language that he understands, of the nature of the offence charged; (c) shall be given adequate time and facilities for the preparation of his defence; (d) shall be permitted to defend himself before the court in person or, at his own expense, by a legal representative of his own choice; (e) shall be afforded facilities to examine in person or by his legal representative the witnesses called by the prosecution before the court, and to obtain the attendance and carry out the examination of witnesses to testify on his behalf before the court on the same conditions as those applying to witnesses called by the prosecution; and (f) shall be permitted to have without payment the assistance of an interpreter if he cannot understand the language used at the trial of the charge, and, except with his own consent, the trial shall not take place in his absence unless he so conducts himself as to render the continuance of the proceedings in his presence impracticable and the court has ordered him to be removed and the trial to proceed in his absence. (3) When a person is tried for any criminal offence, the accused person or any person authorised by him in that behalf shall, if he so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgement a copy for the use of the accused person of any record of the proceedings made by or on behalf of the court. (4) No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed. (5) No person who shows that he has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he could have been convicted at the trial for that offence, save upon the order of a superior court in the course of appeal of review proceedings relating to the conviction or acquittal. (6) No person shall be tried for a criminal offence if he shows that he has been pardoned for that offence. (7) No person who is tried for a criminal offence shall be compelled to give evidence at the trial. (8) Any court or other adjudicating authority prescribed by law for the determination of the existence or extent of any civil right or obligation shall be established or recognised by law and shall be independent and impartial; and where proceedings for such a determination are instituted by any person before such a court or other adjudicating authority, that person shall be given a fair hearing within a reasonable time. (9) Except with the agreement of all the parties thereto, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other adjudicating authority, including the announcement of the decision of the court or other authority, shall be held in public. authority from excluding from the proceedings persons other than the parties thereto and
+10.-(1) If any person is charged with a criminal offence, then, unless the charge is withdrawn, that person shall be afforded a fair hearing within a reasonable time by an independent and impartial court established by law.
+
+(2) Every person who is charged with a criminal offence -
+
+(a) shall be presumed to be innocent until he is proved or has pleaded guilty;
+
+(b) shall be informed as soon as reasonably practicable, in detail and in a language that he understands, of the nature of the offence charged;
+
+(c) shall be given adequate time and facilities for the preparation of his defence;
+
+(d) shall be permitted to defend himself before the court in person or, at his own expense, by a legal representative of his own choice;
+
+(e) shall be afforded facilities to examine in person or by his legal representative the witnesses called by the prosecution before the court, and to obtain the attendance and carry out the examination of witnesses to testify on his behalf before the court on the same conditions as those applying to witnesses called by the prosecution; and
+
+(f) shall be permitted to have without payment the assistance of an interpreter if he cannot understand the language used at the trial of the charge,
+
+and, except with his own consent, the trial shall not take place in his absence unless he so conducts himself as to render the continuance of the proceedings in his presence impracticable and the court has ordered him to be removed and the trial to proceed in his absence.
+
+(3) When a person is tried for any criminal offence, the accused person or any person authorised by him in that behalf shall, if he so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgement a copy for the use of the accused person of any record of the proceedings made by or on behalf of the court.
+
+(4) No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed.
+
+(5) No person who shows that he has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he could have been convicted at the trial for that offence, save upon the order of a superior court in the course of appeal or review proceedings relating to the conviction or acquittal.
+
+(6) No person shall be tried for a criminal offence if he shows that he has been pardoned for that offence.
+
+(7) No person who is tried for a criminal offence shall be compelled to give evidence at the trial.
+
+(8) Any court or other adjudicating authority prescribed by law for the determination of the existence or extent of any civil right or obligation shall be established or recognised by law and shall be independent and impartial; and where proceedings for such a determination are instituted by any person before such a court or other adjudicating authority, that person shall be given a fair hearing within a reasonable time.
+
+(9) Except with the agreement of all the parties thereto, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other adjudicating authority, including the announcement of the decision of the court or other authority, shall be held in public.
+
+(10) Nothing in the preceding subsection shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-(10) Nothing in the preceding subsection shall prevent the court or other adjudicating their legal representatives to such extent as the court or other authority -
+their legal representatives to such extent as the court or other authority -
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-(a) may by law be empowered so to do and may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice or in interlocutory proceedings or in the interests of decency, public morality, the welfare of persons under the age of eighteen years or the protection of the private lives of persons concerned in the proceedings; or (b) may by law be empowered or required so to do in the interests of defence, public safety or public order; (11) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of (a) subsection (2) (a) of this section to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts; (b) Subsection (2) (e) of this section to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or (c) subsection (5) of this section to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that
+(a) may by law be empowered so to do and may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice or in interlocutory proceedings or in the interests of decency, public morality, the welfare of persons under the age of eighteen years or the protection of the private lives of persons concerned in the proceedings; or (b) may by law be empowered or required so to do in the interests of defence, public safety or public order; (11) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of - (a) subsection (2)(a) of this section to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts; (b) Subsection (2)(e) of this section to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or (c) subsection (5) of this section to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that
 
 disciplinary law.
 
@@ -698,49 +835,45 @@ disciplinary law.
 
 [[START OF PAGE 27]]
 
-(2) Every religious community shall be entitled, at its own expense, to establish and maintain places of education and to manage any place of education which it wholly maintains. (3) No religious community shall be prevented from providing religious instruction for persons of that community in the course of any education provided at any place of education which it wholly maintains or in the course of any education which it otherwise provides. (4) Except with his own consent (or, if he is a person who has not attained the age of eighteen years, the consent of his guardian) no person attending any place of education shall be requires to receive religious instruction or take part in or attend any religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his own. (5) No person shall be compelled to take any oath which is contrary to his religion or belief or to take any oath in a manner which is contrary to his religion or belief. (6) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision which is reasonably required (a) in the interest of defence, public safety, public order, public morality or public health; or (b) for the purpose of protecting the rights and freedoms of other persons, including the right to practise and observe any religion without the unsolicited intervention of members of any other religion, and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably be justifiable in a democratic society. (7) Nothing in this section shall affect the power of Parliament to prescribe the curriculum and related matters in all places of education within Solomon Islands.
+(2) Every religious community shall be entitled, at its own expense, to establish and maintain places of education and to manage any place of education which it wholly maintains. (3) No religious community shall be prevented from providing religious instruction for persons of that community in the course of any education provided at any place of education which it wholly maintains or in the course of any education which it otherwise provides. (4) Except with his own consent (or, if he is a person who has not attained the age of eighteen years, the consent of his guardian) no person attending any place of education shall be required to receive religious instruction or take part in or attend any religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his own. (5) No person shall be compelled to take any oath which is contrary to his religion or belief or to take any oath in a manner which is contrary to his religion or belief. (6) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision which is reasonably required - (a) in the interests of defence, public safety, public order, public morality or public health; or (b) for the purpose of protecting the rights and freedoms of other persons, including the right to practise and observe any religion without the unsolicited intervention of members of any other religion, and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society. (7) Nothing in this section shall affect the power of Parliament to prescribe the
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-(8) References in this section to a religion shall be construed as including references to a religious denomination, and cognate expressions shall be construed accordingly.
+curriculum and related matters in all places of education within Solomon Islands. (8) References in this section to a religion shall be construed as including references to a religious denomination, and cognate expressions shall be construed accordingly.
 ###### Protection of freedom of expression
-12. -(1) Except with his own consent, no person shall be hindered in the enjoyment of his freedom of expression, and for the purposes of this section the said freedom includes the freedom to hold opinions without interference, freedom to receive ideas and information without interference, freedom to communicate ideas and information without interference and freedom from interference with his correspondence. (2) Nothing contain in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision(a) in the interest of defence, public safety, public order, public morality or public health; (b) for the purpose of protecting the reputations, rights and freedoms of other persons or the private lives of persons concerned in legal proceedings, preventing the disclosure of information received in confidence, maintaining the authority and independence of the courts, or regulating the administration or the technical operation of telephony, telegraphy, posts, wireless, broadcasting or television; or (c) that imposes restriction upon public officers, and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
+12.-(1) Except with his own consent, no person shall be hindered in the enjoyment of his freedom of expression, and for the purposes of this section the said freedom includes the freedom to hold opinions without interference, freedom to receive ideas and information without interference, freedom to communicate ideas and information without interference and freedom from interference with his correspondence. (2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision - (a) in the interests of defence, public safety, public order, public morality or public health; (b) for the purpose of protecting the reputations, rights and freedoms of other persons or the private lives of persons concerned in legal proceedings, preventing the disclosure of information received in confidence, maintaining the authority and independence of the courts, or regulating the administration or the technical operation of telephony, telegraphy, posts, wireless, broadcasting or television; or (c) that imposes restrictions upon public officers, and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 ###### Protection of freedom of assembly and association
-13. -(1) Except with his own consent, no person shall be hindered in the enjoyment of his
-
-freedom of assembly and association, that is to say, his right to assemble freely and associate with other persons and in particular to form or belong to political parties or to form or belong to trade unions or other associations for the protection of his interests. (2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision (a) to the interests of defence, public safety, public order, public morality or public health; (b) for the purpose of protecting the rights or freedoms of other persons; or (c) that imposes restrictions upon public officers, and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
+13.-(1) Except with his own consent, no person shall be hindered in the enjoyment of his freedom of assembly and association, that is to say, his right to assemble freely and
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
+associate with other persons and in particular to form or belong to political parties or to form or belong to trade unions or other associations for the protection of his interests. (2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision - (a) in the interests of defence, public safety, public order, public morality or public health; (b) for the purpose of protecting the rights or freedoms of other persons; or (c) that imposes restrictions upon public officers, and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
+
 ###### Protection of freedom of movement
 
-14. -(1) No person shall be deprived of his freedom of movement, and for the purposes of this section the said freedom means the right to move freely throughout Solomon Islands, the right to reside in any part of Solomon Islands, the right to enter Solomon Islands and
-
-immunity from expulsion from Solomon Islands. (2) Any restriction on a person's freedom of movement that is involved in his lawful detention shall not be held to be inconsistent with or in contravention of this section. (3) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision (a) for the imposition of restrictions on the movement or residence within Solomon Islands of any person or on any person's right to leave Solomon Islands that are
-
-reasonably required in the interests of defence, public safety or public order;
+14.-(1) No person shall be deprived of his freedom of movement, and for the purposes of this section the said freedom means the right to move freely throughout Solomon Islands, the right to reside in any part of Solomon Islands, the right to enter Solomon Islands and immunity from expulsion from Solomon Islands. (2) Any restriction on a person's freedom of movement that is involved in his lawful detention shall not be held to be inconsistent with or in contravention of this section. (3) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision - (a) for the imposition of restrictions on the movement or residence within Solomon Islands of any person or on any person's right to leave Solomon Islands that are reasonably required in the interests of defence, public safety or public order;
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-(b) for the imposition of restriction on the movement or residence within Solomon Islands or on the right to leave Solomon Islands of persons generally or any class of persons that are reasonably required in the interests of defence, public safety, public order, public morality or public health; (c) for the imposition of restrictions on the movement or residence within Solomon Islands of any person who is not a citizen of Solomon Islands or the exclusion or expulsion from Solomon Islands of any such person; (d) for the imposition of restrictions on the acquisition or use by any person of land or other property in Solomon Islands; (e) for the imposition of restrictions upon the movement or residence within Solomon Islands of public officers; (f) for the removal of a person from Solomon Islands to be tried or punished in some other country for a criminal offence under the law of that other country or to undergo imprisonment in that other country in execution of the sentence of a court in respect of a criminal offence under the law in force in Solomon Islands of which he has been convicted; or (g) for the imposition of restrictions, by order of a court, on the movement or residence within Solomon Islands of any person or on any person's right to leave Solomon Islands either in consequence of his having been found guilty of a criminal offence under the law in force in Solomon Islands or for the purpose of ensuring that he appears before a court at a later date for trial or for proceedings relating to his extradition or lawful removal from Solomon Islands, and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society. (4) If any person whose freedom of movement has been restricted by virtue only of such
-
-a provision as is referred to in subsection (3) (a) or (b) of this section so request at any time during the period of that restriction not earlier than six months after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal presided over by a person, qualified to be admitted to practise in Solomon Islands as an advocate or as a barrister and solicitor, appointed by the Chief Justice.
+(b) for the imposition of restrictions on the movement or residence within Solomon Islands or on the right to leave Solomon Islands of persons generally or any class of persons that are reasonably required in the interests of defence, public safety, public order, public morality or public health; (c) for the imposition of restrictions on the movement or residence within Solomon Islands of any person who is not a citizen of Solomon Islands or the exclusion or expulsion from Solomon Islands of any such person; (d) for the imposition of restrictions on the acquisition or use by any person of land or other property in Solomon Islands; (e) for the imposition of restrictions upon the movement or residence within Solomon Islands of public officers; (f) for the removal of a person from Solomon Islands to be tried or punished in some other country for a criminal offence under the law of that other country or to undergo imprisonment in that other country in execution of the sentence of a court in respect of a criminal offence under the law in force in Solomon Islands of which he has been convicted; or (g) for the imposition of restrictions, by order of a court, on the movement or residence within Solomon Islands of any person or on any person's right to leave Solomon Islands either in consequence of his having been found guilty of a criminal offence under the law in force in Solomon Islands or for the purpose of ensuring that he appears before a court at a later date for trial or for proceedings relating to his extradition or lawful removal from Solomon Islands, and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society. (4) If any person whose freedom of movement has been restricted by virtue only of such a provision as is referred to in subsection (3)(a) or (b) of this section so requests at any time during the period of that restriction not earlier than six months after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal presided over by a person, qualified to be admitted to practise in
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
+Solomon Islands as an advocate or as a barrister and solicitor, appointed by the Chief Justice.
+
 (5) On any review by a tribunal in pursuance of the preceding subsection of the case of a person whose freedom of movement has been restricted, the decision of the tribunal concerning the necessity or expediency of continuing the restriction shall be binding on the authority by which it was ordered.
 
 ###### Protection from discrimination on grounds of race, etc.
 
-15. -(1) Subject to the provisions of subsections (5), (6) and (9) of this section, no law shall make any provision that is discriminatory either of itself or in its effect. (2) Subject to the provisions of subsections (7), (8) and (9) of this section, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or performance of the function of any public office or any public authority. (3) Subject to the provision of subsection (9) of this section, no person shall be treated in a discriminatory manner in respect of access to shops, hotels, lodging-houses, public restaurants, eating-houses or places of public entertainment or in respect of access to places of public resort maintained wholly or partly out of public funds or dedicated to the use of the general public. (4) In this section, the expression "discriminatory" means affording different treatment to
+15.-(1) Subject to the provisions of subsections (5), (6) and (9) of this section, no law shall make any provision that is discriminatory either of itself or in its effect. (2) Subject to the provisions of subsections (7), (8) and (9) of this section, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority. (3) Subject to the provisions of subsection (9) of this section, no person shall be treated in a discriminatory manner in respect of access to shops, hotels, lodging-houses, public restaurants, eating-houses or places of public entertainment or in respect of access to places of public resort maintained wholly or partly out of public funds or dedicated to the use of the general public. (4) In this section, the expression "discriminatory" means affording different treatment to
 
 different persons attributable wholly or mainly to their respective descriptions by race, place of origin, political opinions, colour, creed or sex whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
 
@@ -748,7 +881,9 @@ different persons attributable wholly or mainly to their respective descriptions
 
 [[START OF PAGE 32]]
 
-(5) Subsection (1) of this section shall not apply to any law so far as that law makes provision(a) for the imposition of taxation or the appropriation of revenue by the Government or the government of Honiara city, or any provincial government, or the Honiara city council or any provincial or any provincial assembly for local purposes; 1 of 1983, Sched. (b) with respect to persons who are not citizens of Solomon Islands; (c) for the application, in the case of persons of any such description as is mentioned in the preceding subsection (or of persons connected with such persons), of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters that is the personal law applicable to persons of that description; (d) for the application of customary law; (e) with respect to land, the tenure of land, the resumption and acquisition of land and other like purposes; (f) for the advancement of the more disadvantaged members of the community; or (g) where persons of any such description as is mentioned in the preceding subsection may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society. (6) Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection (1) of this section to the extent that it makes provision with respect to standards or qualifications (not being standards or qualification specifically relating to race, place of origin, political opinions, colour, creed or sex) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, any office in the service of the government of Honiara city or any provincial government or any office in a body corporate established directly by any law for public purposes, or who wishes to engage in any trade or business.
+(5) Subsection (1) of this section shall not apply to any law so far as that law makes provision - (a) for the imposition of taxation or the appropriation of revenue by the Government or the government of Honiara city, or any provincial government, or the Honiara city council or any provincial assembly for local purposes;
+1 of 1983, Sched.
+(b) with respect to persons who are not citizens of Solomon Islands; (c) for the application, in the case of persons of any such description as is mentioned in the preceding subsection (or of persons connected with such persons), of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters that is the personal law applicable to persons of that description; (d) for the application of customary law; (e) with respect to land, the tenure of land, the resumption and acquisition of land and other like purposes; (f) for the advancement of the more disadvantaged members of the community; or (g) where persons of any such description as is mentioned in the preceding subsection may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society. (6) Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection (1) of this section to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to race, place of origin, political opinions, colour, creed or sex) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, any office in the service of the government of Honiara city or any provincial government or any office in a body corporate established directly by any law for public purposes, or who wishes to engage in any trade or business.
 
 1 of 1983, Sched.
 
@@ -760,7 +895,7 @@ different persons attributable wholly or mainly to their respective descriptions
 
 (8) Subsection (2) of this section shall not affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
-(9) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection (4) of this section may be subjected to any restriction on the rights and freedoms guaranteed by section 9, 11, 12, 13 and 14 of this Constitution, being such a restriction as is authorised by section 9(2), 11(6), 12(2), 13(2) or 14(3), as the case may be.
+(9) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection (4) of this section may be subjected to any restriction on the rights and freedoms guaranteed by sections 9, 11, 12, 13 and 14 of this Constitution, being such a restriction as is authorised by section 9(2), 11(6), 12(2), 13(2) or 14(3), as the case may be.
 
 ###### Provisions for periods of public emergency
 
@@ -774,7 +909,7 @@ different persons attributable wholly or mainly to their respective descriptions
 
 [[START OF PAGE 34]]
 
-Provided that, if a declaration is made during any period when Parliament is not sitting, Parliament shall be convened not later than two weeks after the day on which the declaration is made and the period of seven days referred to in this subsection shall commence on the day on which Parliament convened. (4) A declaration made under subsection (2) of this section may at any time before it has been approved by a resolution of Parliament be revoked by the Governor-General by a proclamation published in the Gazette. (5) A declaration made under subsection (2) of this section and approved by a resolution of Parliament under subsection (3) shall continue in force until the expiration of a period of four months commencing with the day on which the declaration is made or until such earlier date as may be specified in the resolution. (6) Notwithstanding the provisions of subsection (5) of this section, a declaration made under subsection (2) and approved by a resolution of Parliament under subsection (3) may at any time be revoked by a resolution of Parliament supported by the votes of a majority of all the members thereof. (7) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of section 5, 6(2), 9, 11, 12, 13, 14, or 15 of this Constitution to the extent that the law in question makes in relation to any period of public emergency provision, or authorises the doing during any such period of any thing, that is reasonably justifiable in circumstances of any situation arising or existing during the period for the purpose of dealing with that situation. (8) Where a person is detained by virtue of a law that authorises the taking during a
+Provided that, if a declaration is made during any period when Parliament is not sitting, Parliament shall be convened not later than two weeks after the day on which the declaration is made and the period of seven days referred to in this subsection shall commence on the day on which Parliament convened. (4) A declaration made under subsection (2) of this section may at any time before it has been approved by a resolution of Parliament be revoked by the Governor-General by a proclamation published in the Gazette. (5) A declaration made under subsection (2) of this section and approved by a resolution of Parliament under subsection (3) shall continue in force until the expiration of a period of four months commencing with the day on which the declaration is made or until such earlier date as may be specified in the resolution. (6) Notwithstanding the provisions of subsection (5) of this section, a declaration made under subsection (2) and approved by a resolution of Parliament under subsection (3) may at any time be revoked by a resolution of Parliament supported by the votes of a majority of all the members thereof. (7) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of sections 5, 6(2), 9, 11, 12, 13, 14 or 15 of this Constitution to the extent that the law in question makes in relation to any period of public emergency provision, or authorises the doing during any such period of anything, that is reasonably justifiable in the circumstances of any situation arising or existing during the period for the purpose of dealing with that situation. (8) Where a person is detained by virtue of a law that authorises the taking during a
 
 period of public emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists in Solomon Islands during that period, the following provisions shall apply, that is to say -
 
@@ -782,7 +917,7 @@ period of public emergency of measures that are reasonably justifiable for the p
 
 [[START OF PAGE 35]]
 
-(a) he shall, as soon as reasonable practicable, be furnished with a statement in writing, in a language that he understands, specifying in detail the grounds upon which he is detained; (b) the announcement of his detention shall be made as soon as possible, and not more than fourteen days after the commencement of his detention a notification shall be publish in the Gazette stating that he has been detained and giving particulars of the provision of law under which his detention is authorised. (c) not more than one month after the commencement of his detention and thereafter during his detention at intervals of not more than six months, his case shall be reviewed by an independent and impartial tribunal established by law consisting of a Chairman appointed by the Chief Justice and two other persons appointed by the Judicial and Legal Service Commission; (d) he shall be afforded reasonable facilities to consult a legal representative of his own choice who shall be permitted to make representations to the tribunal; and (e) at the hearing of his case by the tribunal he shall be permitted to appear in person or by a legal representative of his own choice. (9) On any review by a tribunal in pursuance of subsection (8) of this section of the case of a detained person, the decision of the tribunal concerning the necessity or expediency of continuing his detention shall be binding on the authority by which it was ordered. (10) Nothing contained in paragraph (d) or (e) of subsection (8) of this section shall be
+(a) he shall, as soon as reasonably practicable, be furnished with a statement in writing, in a language that he understands, specifying in detail the grounds upon which he is detained; (b) the announcement of his detention shall be made as soon as possible, and not more than fourteen days after the commencement of his detention a notification shall be published in the Gazette stating that he has been detained and giving particulars of the provision of law under which his detention is authorised; (c) not more than one month after the commencement of his detention and thereafter during his detention at intervals of not more than six months, his case shall be reviewed by an independent and impartial tribunal established by law consisting of a Chairman appointed by the Chief Justice and two other persons appointed by the Judicial and Legal Service Commission; (d) he shall be afforded reasonable facilities to consult a legal representative of his own choice who shall be permitted to make representations to the tribunal; and (e) at the hearing of his case by the tribunal he shall be permitted to appear in person or by a legal representative of his own choice. (9) On any review by a tribunal in pursuance of subsection (8) of this section of the case of a detained person, the decision of the tribunal concerning the necessity or expediency of continuing his detention shall be binding on the authority by which it was ordered. (10) Nothing contained in paragraph (d) or (e) of subsection (8) of this section shall be
 
 construed as entitling a person to legal representation at public expense.
 
@@ -796,17 +931,17 @@ construed as entitling a person to legal representation at public expense.
 
 [[START OF PAGE 36]]
 
-18. -(1) Subject to the provisions of subsection (6) of this section, if any person alleges that any of the provisions of sections 3 to 16 (inclusive) of this Constitution has been, is being or is likely to be contravened in relation to him (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained is lawfully available, that person (or that other person) may apply to the High Court for
-
-person) then, without prejudice to any other action with respect to the same matter which redress. (2) The High Court shall have original jurisdiction(a) to hear and determine any application made by any person in pursuance of the preceding subsection; (b) to determine any question arising in the case of any person which is referred to it in pursuance of the next following subsection, and may make such orders, issue such writs and give such directions, including the payment of compensation, as it may consider appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of sections 3 to 16 (inclusive) of this Constitution: Provided that the High Court may decline to exercise its powers under this subsection if it is satisfied that adequate means of redress for the contravention alleged are or have been available to the person concerned under any other law. (3) If in any proceedings in any subordinate court any question arises as to the contravention of any of the provisions of sections 3 to 16 (inclusive) of this Constitution, the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the High Court unless, in his opinion, the raising of the question is merely frivolous or vexatious. (4) Any person aggrieved by any determination of the High Court under this section may appeal therefrom to the Court of Appeal: Provided that no appeal shall lie from a determination of the High Court under this section dismissing an application on the ground that it is frivolous or vexatious. (5) Parliament may confer upon the High Court powers additional to those conferred by this section for the purpose of enabling that court more effectively to exercise the jurisdiction conferred upon it by this section. (6) Rules of court making provision with respect to the practise and procedure of the High Court in relation to the jurisdiction conferred on it by or under this section (including rules with respect to the time within which any application or reference shall or may be made or brought) may be made by the person or authority for the time being having power to make rules of court with respect to the practice and procedure of that court generally.
+18.-(1) Subject to the provisions of subsection (6) of this section, if any person alleges that any of the provisions of sections 3 to 16 (inclusive) of this Constitution has been, is being or is likely to be contravened in relation to him (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person) then, without prejudice to any other action with respect to the same matter which is lawfully available, that person (or that other person) may apply to the High Court for redress. (2) The High Court shall have original jurisdiction - (a) to hear and determine any application made by any person in pursuance of the preceding subsection; (b) to determine any question arising in the case of any person which is referred to it in pursuance of the next following subsection, and may make such orders, issue such writs and give such directions, including the payment of compensation, as it may consider appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of sections 3 to 16 (inclusive) of this Constitution: Provided that the High Court may decline to exercise its powers under this subsection if it is satisfied that adequate means of redress for the contravention alleged are or have been available to the person concerned under any other law. (3) If in any proceedings in any subordinate court any question arises as to the contravention of any of the provisions of sections 3 to 16 (inclusive) of this Constitution, the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the High Court unless, in his opinion, the raising of the question is merely frivolous or vexatious. (4) Any person aggrieved by any determination of the High Court under this section may
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
+appeal therefrom to the Court of Appeal: Provided that no appeal shall lie from a determination of the High Court under this section dismissing an application on the ground that it is frivolous or vexatious. (5) Parliament may confer upon the High Court powers additional to those conferred by this section for the purpose of enabling that court more effectively to exercise the jurisdiction conferred upon it by this section. (6) Rules of court making provision with respect to the practice and procedure of the High Court in relation to the jurisdiction conferred on it by or under this section (including rules with respect to the time within which any application or reference shall or may be made or brought) may be made by the person or authority for the time being having power to make rules of court with respect to the practice and procedure of that court generally.
+
 ###### Interpretation and savings
 
-19. -(1) In this Chapter, unless the context otherwise requires "contravention", in relation to any requirement, includes a failure to comply with that requirement, and cognate expressions shall be construed accordingly; "court" means any court of law having jurisdiction in Solomon Islands, other than a court established by a disciplinary law, and includes in sections 4 and 6 of this Constitution a court established by a disciplinary law; "disciplinary law" means a law regulating the discipline of any disciplined force; "disciplined force" means (a) any naval, military or air force; (b) the Solomon Islands Fire Service; (c) the Prisons Service; (d) the Marine Division; (e) the Police Force;
+19.-(1) In this Chapter, unless the context otherwise requires - "contravention", in relation to any requirement, includes a failure to comply with that requirement, and cognate expressions shall be construed accordingly; "court" means any court of law having jurisdiction in Solomon Islands, other than a court established by a disciplinary law, and includes in sections 4 and 6 of this Constitution a court established by a disciplinary law; "disciplinary law" means a law regulating the discipline of any disciplined force; "disciplined force" means - (a) any naval, military or air force; (b) the Solomon Islands Fire Service; (c) the Prisons Service; (d) the Marine Division; (e) the Police Force;
 
 [[END OF PAGE 37]]
 
@@ -814,7 +949,7 @@ person) then, without prejudice to any other action with respect to the same mat
 
 (f) the Special Constabulary; or (g) any other constabulary or police force established by Parliament;
 
-"member", in relation to a disciplined force, includes any person who, under the law regulating the discipline of that force, is subject to that discipline. (2) Nothing contained in sections 12, 13, and 14 of this Constitution shall be construed as precluding the inclusion in the terms and conditions of service of public officers of reasonable requirements as to their communication or association with other persons or as to their movements or residence. (3) In relation to any person who is a member of a disciplined force of Solomon islands, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter other than sections 4, 6, 7, 8 and 15. (4) In relation to any person who is a member of a disciplined force that is not a disciplined force of Solomon Islands and who is present in Solomon Islands in pursuance of arrangements made between the Government of Solomon Islands and another Government or an international organisation, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter. (5) No measure taken in relation to a person who is a member of a disciplined force of a country with which Solomon Islands is at war and no law, to the extent that it authorises the taking of any such measures, shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter.
+"member", in relation to a disciplined force, includes any person who, under the law regulating the discipline of that force, is subject to that discipline. (2) Nothing contained in sections 12, 13, and 14 of this Constitution shall be construed as precluding the inclusion in the terms and conditions of service of public officers of reasonable requirements as to their communication or association with other persons or as to their movements or residence. (3) In relation to any person who is a member of a disciplined force of Solomon Islands, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter other than sections 4, 6, 7, 8 and 15. (4) In relation to any person who is a member of a disciplined force that is not a disciplined force of Solomon Islands and who is present in Solomon Islands in pursuance of arrangements made between the Government of Solomon Islands and another Government or an international organisation, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter. (5) No measure taken in relation to a person who is a member of a disciplined force of a country with which Solomon Islands is at war and no law, to the extent that it authorises the taking of any such measures, shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter.
 
 ### CHAPTER III CITIZENSHIP
 
@@ -824,25 +959,21 @@ person) then, without prejudice to any other action with respect to the same mat
 
 ###### Persons who become citizens on Independence Day
 
--(1) (a) Every person who is immediately before Independence Day an indigenous Solomon Islander shall become a citizen of Solomon Islands on Independence Day.
+20.-(1) (a) Every person who is immediately before Independence Day an indigenous Solomon Islander shall become a citizen of Solomon Islands on Independence Day.
 
 (b) Every person who was born in Solomon Islands before Independence Day and who has or had two grandparents who are or were members of a group, tribe or line indigenous to Papua New Guinea or the New Hebrides shall become a citizen of Solomon Islands on Independence Day.
 
-- Every person who before Independence Day has made, or been included in, an application to the Government for citizenship of Solomon Islands containing the information specified in subsection (4) of this section and who at the time of making such application possessed any of the qualifications specified in subsection (3) of this section shall become a citizen of Solomon Islands on Independence Day.
+(2) Every person who before Independence Day has made, or been included in, an application to the Government for citizenship of Solomon Islands containing the information specified in subsection (4) of this section and who at the time of making such application possessed any of the qualifications specified in subsection (3) of this section shall become a citizen of Solomon Islands on Independence Day.
 
-- The qualifications referred to in subsection (2) of this section and subsection (1) of the next following section are that the person concerned, not being an indigenous Solomon Islander, is -
+(3) The qualifications referred to in subsection (2) of this section and subsection (1) of the next following section are that the person concerned, not being an indigenous Solomon Islander, is -
 
 (a) a woman married to an indigenous Solomon Islander; or
 
 (b) a citizen of the United Kingdom and Colonies or a British protected person who was born in Solomon Islands; or
 
-(c) a citizen of the United Kingdom and Colonies or a British protected person having acquired such status under the British Nationality Acts 1948 to 1965( a ) by virtue of his having been naturalised or registered under those Acts, or naturalised as a British subject before 1949, by the Governor of the former protectorate of the Solomon Islands; or
+(c) a citizen of the United Kingdom and Colonies or a British protected person having acquired such status under the British Nationality Acts 1948 to 1965(a) by virtue of his having been naturalised or registered under those Acts, or naturalised as a British subject before 1949, by the Governor of the former protectorate of the Solomon Islands; or
 
-(
-
-a
-
-) 1948 c. 56; 1958 c. 10; 1964 c. 22; 1964 c. 54; 1965 c. 34.
+(a) 1948 c. 56; 1958 c. 10; 1964 c. 22; 1964 c. 54; 1965 c. 34.
 
 (d) a citizen of the United Kingdom and Colonies or a British protected person whose father possesses, or at his death possessed, one of the qualifications specified in paragraph (b) or (c) or (d) of this subsection; or
 
@@ -850,7 +981,7 @@ a
 
 [[START OF PAGE 40]]
 
-(e) a woman who has been married to a person who possesses, or at his death possesses, one of the qualifications specified in paragraph (b) , (c) or (d) of this section; or (f) a citizen of the United Kingdom and Colonies or a British protected person who was deemed to belong to Solomon Islands because such person (i) has lawfully resided in Solomon Islands for any period of seven years during which he has not been absent therefrom for a period or periods amounting in all to more than eighteen months and since the completion of such period of residence has not been ordinarily resident continuously for a period of two years or more in any other territory within the Commonwealth in circumstances in which he has acquired or retained a right of residence in that territory; or (ii) is the wife of a person to whom the foregoing subparagraph applies not living apart from such person under a decree of a court or a deed of separation; or (iii) is the Child, step-child or child adopted in a manner recognised by law under the age of eighteen years of a person to whom either of the foregoing subparagraphs applies. (4) The information required to be contained in an application for the purposes of this section and the next following section is as follows (a) the name, date and place of birth (so far as is known) of the applicant, of any other person included in the application or of a minor on whose behalf the application is made, together with, where applicable, the date of naturalisation or registration; (b) a statement by the applicant whether or not he is including in his application his wife and minor children, if any, and in the case of an application including a wife, a statement by her that she consents to her inclusion in the application; (c) if the applicant is applying on grounds that his father was born, naturalised or registration in Solomon Islands, also the father's name, place and date of birth (so far as is known) and, if relevant, the date of the father's naturalisation or registration; (d) if the application is made by or on behalf of a woman on grounds of marriage to a man who, or whose father, was born, naturalised or registered in Solomon Islands, also the name, place and date of birth (so far as is known) and, if relevant, the date of naturalisation or registration of the man and, if necessary, his father;
+(e) a woman who has been married to a person who possesses, or at his death possessed, one of the qualifications specified in paragraph (b), (c) or (d) of this section; or (f) a citizen of the United Kingdom and Colonies or a British protected person who was deemed to belong to Solomon Islands because such person - (i) has lawfully resided in Solomon Islands for any period of seven years during which he has not been absent therefrom for a period or periods amounting in all to more than eighteen months and since the completion of such period of residence has not been ordinarily resident continuously for a period of two years or more in any other territory within the Commonwealth in circumstances in which he has acquired or retained a right of residence in that territory; or (ii) is the wife of a person to whom the foregoing subparagraph applies not living apart from such person under a decree of a court or a deed of separation; or (iii) is the child, step-child or child adopted in a manner recognised by law under the age of eighteen years of a person to whom either of the foregoing subparagraphs applies. (4) The information required to be contained in an application for the purposes of this section and the next following section is as follows - (a) the name, date and place of birth (so far as is known) of the applicant, of any other person included in the application or of a minor on whose behalf the application is made, together with, where applicable, the date of naturalisation or registration; (b) a statement by the applicant whether or not he is including in his application his wife and minor children, if any, and in the case of an application including a wife, a statement by her that she consents to her inclusion in the application; (c) if the applicant is applying on grounds that his father was born, naturalised or registered in Solomon Islands, also the father's name, place and date of birth (so far as is known) and, if relevant, the date of the father's naturalisation or registration; (d) if the application is made by or on behalf of a woman on grounds of marriage to a man who, or whose father, was born, naturalised or registered in Solomon Islands, also the name, place and date of birth (so far as is known) and, if relevant, the date of naturalisation or registration of the man and, if necessary, his father;
 
 [[END OF PAGE 40]]
 
@@ -860,13 +991,13 @@ a
 
 ###### Persons entitled to be registered as citizens after Independence Day
 
-21. -(1) Every person who immediately before the Independence Day possessed any of the qualifications specified in subsection (3) of the preceding section and who within the prescribed period has made, or been included in, an application to the Government for citizenship of Solomon Islands continuing the information specified in subsection (4) of the preceding section shall be registered as a citizen of Solomon Islands. (2) For the purpose of subsection (1) of this section, "the prescribed period" means the period beginning on the Independence Day and expiring two years thereafter: Provided that the Minister responsible for citizenship matters may extend that period in
-
-respect of such applications or classes of application where the applicant was, by reason of his absence from Solomon Islands or other reasonable cause, unaware of his right to apply, as he may think fit.
+21.-(1) Every person who immediately before the Independence Day possessed any of the qualifications specified in subsection (3) of the preceding section and who within the prescribed period has made, or been included in, an application to the Government for citizenship of Solomon Islands containing the information specified in subsection (4) of the preceding section shall be registered as a citizen of Solomon Islands. (2) For the purpose of subsection (1) of this section, "the prescribed period" means the period beginning on the Independence Day and expiring two years thereafter: Provided that the Minister responsible for citizenship matters may extend that period in respect of such applications or classes of application where the applicant was, by reason
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+of his absence from Solomon Islands or other reasonable cause, unaware of his right to apply, as he may think fit.
 
 ###### Persons born on or after Independence Day
 
@@ -884,9 +1015,7 @@ Islands by virtue of section 20(2) or 21 of this Constitution and who is a natio
 
 [[START OF PAGE 43]]
 
-24. -(1) Every person who under this Chapter or any other law is a citizen of Solomon section applies is a citizen of that country shall, by virtue of that citizenship, have the
-
-Islands or under any enactment for the time being in force in any country to which this status of a Commonwealth citizen. (2) Every person who is a British subject without citizenship under the British Nationality Act 1948, who continues to be a British subject under section 2 of that Act or is a British subject under the British Nationality Act 1965 shall, by virtue of that status, have the status of a Commonwealth citizen. (3) Save as may be otherwise provided by parliament, the countries to which this section applies are Australia, The Bahamas, Bangladesh, Barbados, Botswana, Canada, Cyprus,
+24.-(1) Every person who under this Chapter or any other law is a citizen of Solomon Islands or under any enactment for the time being in force in any country to which this section applies is a citizen of that country shall, by virtue of that citizenship, have the status of a Commonwealth citizen. (2) Every person who is a British subject without citizenship under the British Nationality Act 1948, who continues to be a British subject under section 2 of that Act or is a British subject under the British Nationality Act 1965 shall, by virtue of that status, have the status of a Commonwealth citizen. (3) Save as may be otherwise provided by Parliament, the countries to which this section applies are Australia, The Bahamas, Bangladesh, Barbados, Botswana, Canada, Cyprus,
 
 Fiji, The Gambia, Ghana, Grenada, Guyana, India, Jamaica, Kenya, Lesotho, Malawi, Malaysia, Malta, Mauritius, Nauru, New Zealand, Nigeria, Papua New Guinea, Seychelles, Sierra Leone, Singapore, Southern Rhodesia, Sri Lanka, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Uganda, The United Kingdom and Colonies, Western Samoa and Zambia.
 
@@ -946,7 +1075,7 @@ Constitution.
 
 (2) Save as otherwise provided in this constitution, that authority may be exercised on behalf of the Head of State by the Governor-General either directly or through officers subordinate to him.
 
-(3) Nothing in this section shall preclude persons or authorities other than the GovernorGeneral from exercising such functions as may be conferred upon them by any law.
+(3) Nothing in this section shall preclude persons or authorities other than the Governor-General from exercising such functions as may be conferred upon them by any law.
 
 ###### Exercise of Governor-General's functions
 
@@ -958,39 +1087,41 @@ Constitution.
 
 ###### Governor-General to be kept informed
 
-32. The Prime Minister shall keep the Governor-General fully informed concerning the general conduct of the government of Solomon Islands and shall furnish the Governor- General with such information as he may request with respect to any particular matter relating to the government of Solomon Islands.
+32. The Prime Minister shall keep the Governor-General fully informed concerning the general conduct of the government of Solomon Islands and shall furnish the Governor-
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
 
+General with such information as he may request with respect to any particular matter relating to the government of Solomon Islands.
+
 ###### Ministers
 
-33. -(1) There shall be a Prime Minister who shall be elected as such by the members of Parliament from amongst their number in accordance with the provisions of Schedule 2 to this Constitution.
+33.-(1) There shall be a Prime Minister who shall be elected as such by the members of Parliament from amongst their number in accordance with the provisions of Schedule 2 to this Constitution.
 
-- There shall be, in addition to the office of Prime Minister, such other offices of Minister of the Government, not exceeding eleven or such greater number as Parliament may prescribe, as may be established by the Governor General, acting in accordance with the advice of the Prime Minister.
+(2) There shall be, in addition to the office of Prime Minister, such other offices of Minister of the Government, not exceeding eleven or such greater number as Parliament may prescribe, as may be established by the Governor-General, acting in accordance with the advice of the Prime Minister.
 
 Provided that one of such offices of Minister of the Government shall be that of Deputy Prime Minister.
 
-- The Ministers other than the Prime Minister shall be appointed by the GovernorGeneral, acting in accordance with the advice of the Prime Minister, from among the members of Parliament:
+(3) The Ministers other than the Prime Minister shall be appointed by the Governor-General, acting in accordance with the advice of the Prime Minister, from among the members of Parliament:
 
 Provided that if occasion arises for making an appointment while Parliament is dissolved a person who was a member of Parliament immediately before the dissolution may be appointed.
 
 ###### Tenure of office of Ministers
 
-34.(1) If a resolution of no confidence in the Prime Minister is passed by Parliament by an absolute majority of the votes of members thereof the Governor-General shall remove the Prime Minister from office, whereupon the members of Parliament shall meet as soon as possible during the same session of Parliament to elect a new Prime Minister in accordance with the provisions of Schedule 2 to this Constitution. (2) A motion for a resolution of no confidence in the Prime Minister shall not be passed by Parliament unless notice of the motion has been given to the Speaker at least seven clear days before it is introduced. (3) The office of Prime Minister shall also become vacant (a) when, after a general election, the members of Parliament meet to elect a Prime Minister in accordance with the provisions of Schedule 2 to this Constitution; (b) if he ceases to be a member of Parliament for any reason other than a dissolution of Parliament; (c) if he is elected as a Speaker or Deputy Speaker; or (d) if he resigns such office by writing under his hand addressed to the GovernorGeneral. (4) Subject to the next following subsection, during any period when the office of Prime Minister is vacant, the person who held that office immediately before the vacancy arose shall continue to perform the functions of Prime Minister until a person is elected to the office of Prime Minister in accordance with the provisions of Schedule 2 to this Constitution. (5) If the person holding the office of Prime Minister dies, the Governor-General shall, after consultation with the other Ministers, appoint one of them to perform the functions of Prime Minister until a person is elected to the office of Prime Minister in accordance with the provisions of Schedule 2 to this Constitution.
+34.-(1) If a resolution of no confidence in the Prime Minister is passed by Parliament by an absolute majority of the votes of members thereof the Governor-General shall remove the Prime Minister from office, whereupon the members of Parliament shall meet as soon as possible during the same session of Parliament to elect a new Prime Minister in
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-(6) The office of a Minister other than the Prime Minister shall become vacant (a) upon the election of any person to the office of Prime Minister in accordance with the provisions of Schedule 2 to this Constitution;
+accordance with the provisions of Schedule 2 to this Constitution. (2) A motion for a resolution of no confidence in the Prime Minister shall not be passed by Parliament unless notice of the motion has been given to the Speaker at least seven clear days before it is introduced. (3) The office of Prime Minister shall also become vacant - (a) when, after a general election, the members of Parliament meet to elect a Prime Minister in accordance with the provisions of Schedule 2 to this Constitution; (b) if he ceases to be a member of Parliament for any reason other than a dissolution of Parliament; (c) if he is elected as a Speaker or Deputy Speaker; or (d) if he resigns such office by writing under his hand addressed to the Governor-General. (4) Subject to the next following subsection, during any period when the office of Prime Minister is vacant, the person who held that office immediately before the vacancy arose shall continue to perform the functions of Prime Minister until a person is elected to the office of Prime Minister in accordance with the provisions of Schedule 2 to this Constitution. (5) If the person holding the office of Prime Minister dies, the Governor-General shall, after consultation with the other Ministers, appoint one of them to perform the functions of Prime Minister until a person is elected to the office of Prime Minister in accordance with the provisions of Schedule 2 to this Constitution. (6) The office of a Minister other than the Prime Minister shall become vacant - (a) upon the election of any person to the office of Prime Minister in accordance with the provisions of Schedule 2 to this Constitution;
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
-(b) if he ceases to be a member of Parliament for any reason other than a dissolution of Parliament; (c) if he is elected as Speaker or Deputy Speaker; (d) if he resigns such office by writing under his hand addressed to the GovernorGeneral; or (e) if his appointment to the office of a Minister is revoked by the Governor-General, acting in accordance with the advice of the Prime Minister.
+(b) if he ceases to be a member of Parliament for any reason other than a dissolution of Parliament; (c) if he is elected as Speaker or Deputy Speaker; (d) if he resigns such office by writing under his hand addressed to the Governor-General; or (e) if his appointment to the office of a Minister is revoked by the Governor-General, acting in accordance with the advice of the Prime Minister.
 
 ###### The Cabinet
 
@@ -1008,79 +1139,128 @@ Provided that if occasion arises for making an appointment while Parliament is d
 
 ###### Assignment of responsibilities to Ministers
 
-37. The Governor-General, acting in accordance with the advice of the Prime Minister, may, by directions in writing, assign to the Prime Minister or any other Minister responsibility for the conduct (subject to the provisions of this Constitution and any other law) of any business of the Government, including responsibility for the administration of any department of the Government.
+37. The Governor-General, acting in accordance with the advice of the Prime Minister, may, by directions in writing, assign to the Prime Minister or any other Minister responsibility for the conduct (subject to the provisions of this Constitution and any other
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+law) of any business of the Government, including responsibility for the administration of any department of the Government.
 
-###### Performance of Prime Minister's functions during illness of absence
+###### Performance of Prime Minister's functions during illness or absence
 
-38. -(1) Whenever the Prime Minister is unable, by reason of illness or absence from Solomon Islands, to perform the functions conferred on him by this Constitution, those functions shall be performed by the Deputy Prime Minister or, if he too is unable to do perform those functions (other than the functions conferred by this section) and that Minister may perform those functions until his authority is revoked by the Governor-
+38.-(1) Whenever the Prime Minister is unable, by reason of illness or absence from Solomon Islands, to perform the functions conferred on him by this Constitution, those functions shall be performed by the Deputy Prime Minister or, if he too is unable to do so, the Governor-General may, by directions in writing, authorise some other Minister to perform those functions (other than the functions conferred by this section) and that Minister may perform those functions until his authority is revoked by the Governor-General.
 
-so, the Governor-General may, by directions in writing, authorise some other Minister to General. (2) The powers of the Governor-General under this section shall be exercised by him in accordance with the advice of the Prime Minister: Provided that if the Governor-General, acting in his own deliberate judgement, considers
+(2) The powers of the Governor-General under this section shall be exercised by him in accordance with the advice of the Prime Minister:
 
-that is impracticable to obtain the advice of the Prime Minister owing to the Prime Minster's illness or absence, the Governor-General may exercise those powers without that advice and in his own deliberate judgement.
+Provided that if the Governor-General, acting in his own deliberate judgement, considers that it is impracticable to obtain the advice of the Prime Minister owing to the Prime Minister's illness or absence, the Governor-General may exercise those powers without that advice and in his own deliberate judgement.
 
 ###### Oaths to be taken by members of Cabinet
 
-39. Before assuming the functions of his office every member of the Cabinet shall make before the Governor-General, or some person authorised in that behalf by the GovernorGeneral, oaths of allegiance and for the due execution of his office in the forms set out in the Schedule 1 to this Constitution.
+39. Before assuming the functions of his office every member of the Cabinet shall make before the Governor-General, or some person authorised in that behalf by the Governor-General, oaths of allegiance and for the due execution of his office in the forms set out in Schedule 1 to this Constitution.
 
 ###### Directions, etc. of Government departments
 
-40. Where any Minister has been charged with responsibility for the administration of any department of the Government, he shall exercise general direction and control over of a Minister (including the office of the Prime Minister or any other Minister) shall be that department and, subject to such direction and control, any department in the charge under the supervision of a Permanent Secretary or some other supervising officer whose office shall be a public office: Provided that (a) any such department may be under the joint supervision of two or more supervising officers; and (b) different parts of any such department may respectively be under the supervision of different supervising officers.
-
-###### Secretary to Cabinet
-
-41.(1) There shall be a Secretary to the Cabinet whose office shall be that of a Permanent Secretary. (2) The Secretary to the Cabinet shall have charge of the office of the Cabinet and shall be responsible, in accordance with such instructions as may be given to him by the Prime Minister, for arranging the business for, and keeping the minutes of, the meetings of the Cabinet and for conveying the decisions of the Cabinet to the appropriate person or authority, and shall have such other functions as the Prime Minister may from time to time direct.
-
-###### Attorney-General
-
-42. -(1) There shall be an Attorney-General whose office shall be a public office and who shall be the principal legal adviser to the Government. (2) The Attorney-General shall be appointed by the Judicial and Legal Service Commission acting in accordance with the advice of the Prime Minister.
+40. Where any Minister has been charged with responsibility for the administration of
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
-(this page came through the extractor with no text)
+any department of the Government, he shall exercise general direction and control over that department and, subject to such direction and control, any department in the charge of a Minister (including the office of the Prime Minister or any other Minister) shall be under the supervision of a Permanent Secretary or some other supervising officer whose office shall be a public office:
+
+Provided that -
+
+(a) any such department may be under the joint supervision of two or more supervising officers; and
+
+(b) different parts of any such department may respectively be under the supervision of different supervising officers.
+
+###### Secretary to Cabinet
+
+41.-(1) There shall be a Secretary to the Cabinet whose office shall be that of a Permanent Secretary.
+
+(2) The Secretary to the Cabinet shall have charge of the office of the Cabinet and shall be responsible, in accordance with such instructions as may be given to him by the Prime Minister, for arranging the business for, and keeping the minutes of, the meetings of the Cabinet and for conveying the decisions of the Cabinet to the appropriate person or authority, and shall have such other functions as the Prime Minister may from time to time direct.
+
+###### Attorney-General
+
+42.-(1) There shall be an Attorney-General whose office shall be a public office and who shall be the principal legal adviser to the Government.
+
+(2) The Attorney-General shall be appointed by the Judicial and Legal Service Commission acting in accordance with the advice of the Prime Minister.
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
 
-(3) No person shall be qualified to hold the office of Attorney-General unless he is entitled practise in Solomon Islands as an advocate or as a barrister and solicitor.
+(3) No person shall be qualified to hold the office of Attorney-General unless he is entitled to practise in Solomon Islands as an advocate or as a barrister and solicitor.
 
-(4) If the Minister responsible for justice is not a person entitles to practise in Solomon Islands as an advocate or as a barrister and solicitor, the person holding the office of Attorney-General shall be entitled to take part in the proceedings of Parliament as adviser to the Government:
+(4) If the Minister responsible for justice is not a person entitled to practise in Solomon Islands as an advocate or as a barrister and solicitor, the person holding the office of Attorney-General shall be entitled to take part in the proceedings of Parliament as adviser to the Government:
 
 Provided that he shall not be entitled to vote in Parliament or in any election for the office of Prime Minister.
 
 ###### Commissioner of Police
 
-43. -(1) There shall be a Commissioner of Police, whose office shall be a public office. (2) The Commissioner of Police shall be appointed by the Governor-General, acting in accordance with the advice of the Prime Minister tendered after the Prime Minister has consulted the Police and Prisons Service Commission. (3) The Police Force shall be under the command of the Commissioner of Police. (4) The Prime Minister, or such other Minister as may be authorised in that behalf by the Prime Minister, may give to the Commissioner of Police such general directions of policy with regard to the maintenance of public safety and public order as he may consider necessary and the Commissioner shall comply with such directions or cause them to be complied with. (5) Nothing in this section shall be construed as precluding the assignment to a Minister of responsibility under section 37 of this Constitution for the organisation, maintenance
+43.-(1) There shall be a Commissioner of Police, whose office shall be a public office.
 
-and administration of the Police Force, but the Commissioner of Police shall be responsible for determining the use and controlling the operations of the Force and, except as provided in the preceding subsection, the Commissioner shall not, in the exercise of his responsibilities and powers with respect to the use and operational control of the Force, be subject to the direction or control of any person or authority.
+(2) The Commissioner of Police shall be appointed by the Governor-General, acting in accordance with the advice of the Prime Minister tendered after the Prime Minister has consulted the Police and Prisons Service Commission.
+
+(3) The Police Force shall be under the command of the Commissioner of Police.
+
+(4) The Prime Minister, or such other Minister as may be authorised in that behalf by the Prime Minister, may give to the Commissioner of Police such general directions of policy with regard to the maintenance of public safety and public order as he may consider necessary and the Commissioner shall comply with such directions or cause them to be complied with.
+
+(5) Nothing in this section shall be construed as precluding the assignment to a Minister of responsibility under section 37 of this Constitution for the organisation, maintenance and administration of the Police Force, but the Commissioner of Police shall be
 
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
 
+responsible for determining the use and controlling the operations of the Force and, except as provided in the preceding subsection, the Commissioner shall not, in the exercise of his responsibilities and powers with respect to the use and operational control of the Force, be subject to the direction or control of any person or authority.
+
 ###### Constitution of offices
 
-44. Subject to the provisions of this Constitution and of any other law, the GovernorGeneral, acting on the advice of the Prime Minister, may constitute offices for Solomon Islands, make appointments to any such office and terminate any such appointment.
+44. Subject to the provisions of this Constitution and of any other law, the Governor-General, acting on the advice of the Prime Minister, may constitute offices for Solomon Islands, make appointments to any such office and terminate any such appointment.
 
 ###### Prerogative of Mercy
 
-45. -(1) The Governor-General may, in the name and on behalf of the Head of State (a) grant to any person convicted of any offence under the law of Solomon Islands a pardon, either free or subject to lawful conditions; (b) grant to any person a respite, either indefinite or for a specified period, of the execution of any punishment imposed on that person for such an offence; (c) substitute a less severe form of punishment for any punishment imposed on any person for such an offence; or (d) remit the whole or any part of any punishment imposed on any person for such an
+45.-(1) The Governor-General may, in the name and on behalf of the Head of State -
 
-offence or any penalty or forfeiture otherwise due to the Crown on account of such an offence. (2) There shall be a Committee on the Prerogative of Mercy (in this section referred to as "the Committee") which shall consist of the following members (a) a Chairman and two other persons, one of whom shall be a qualified medical practitioner and the other of whom shall be a social worker, appointed by the GovernorGeneral in his own deliberate judgment; and (b) one person nominated -
+(a) grant to any person convicted of any offence under the law of Solomon Islands a pardon, either free or subject to lawful conditions;
+
+(b) grant to any person a respite, either indefinite or for a specified period, of the execution of any punishment imposed on that person for such an offence;
+
+(c) substitute a less severe form of punishment for any punishment imposed on any person for such an offence; or
+
+(d) remit the whole or any part of any punishment imposed on any person for such an offence or any penalty or forfeiture otherwise due to the Crown on account of such an offence.
+
+(2) There shall be a Committee on the Prerogative of Mercy (in this section referred to as "the Committee") which shall consist of the following members -
+
+(a) a Chairman and two other persons, one of whom shall be a qualified medical practitioner and the other of whom shall be a social worker, appointed by the Governor-General in his own deliberate judgment; and
+
+(b) one person nominated -
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
 
-(i) by the Honiara city council, if the person whose case is being reviewed ordinarily resides in Honiara city; (ii) by the provincial assembly of a province, if such a person ordinarily resides in that province. 1 of 1983, Sch. (3) The Honiara city council and the provincial assembly of every province shall as soon as they are respectively elected nominate a person for the purposes of subsection (2) (b) of this section for such period as they deem appropriate. 1 of 1983, Sch. (4) A member of the Committee appointed under subsection (2) (a) of this section shall vacate his seat on the Committee (a) at the expiration of the term of his appointment (if any) specified in the instrument of his appointment; or (b) if his appointment is revoked by the Governor-General, acting in his own deliberate judgment. (5) In the exercise of the powers conferred upon him by subsection (1) of this section, the Governor-General shall act in accordance with the advice of the Committee. (6) The validity of the transaction of any business by the Committee shall not be affected by reason only of the fact that some person who was not entitled to do so took part in the proceedings. (7) Whenever any person has been sentenced to death (otherwise than by a court-martial)
+(i) by the Honiara city council, if the person whose case is being reviewed ordinarily resides in Honiara city;
 
-- for an offence, a report on the case by the judge who presided at the trial (or, if a report cannot be obtained from that judge, a report on the case by the Chief Justice), together with such other information derived from the record of the case or elsewhere as may be
+(ii) by the provincial assembly of a province, if such a person ordinarily resides in that province.
+
+1 of 1983, Sch.
+
+(3) The Honiara city council and the provincial assembly of every province shall as soon as they are respectively elected nominate a person for the purposes of subsection (2)(b) of this section for such period as they deem appropriate.
+
+1 of 1983, Sch.
+
+(4) A member of the Committee appointed under subsection (2)(a) of this section shall vacate his seat on the Committee -
+
+(a) at the expiration of the term of his appointment (if any) specified in the instrument of his appointment; or
+
+(b) if his appointment is revoked by the Governor-General, acting in his own deliberate judgment.
+
+(5) In the exercise of the powers conferred upon him by subsection (1) of this section, the Governor-General shall act in accordance with the advice of the Committee.
+
+(6) The validity of the transaction of any business by the Committee shall not be affected by reason only of the fact that some person who was not entitled to do so took part in the proceedings.
+
+(7) Whenever any person has been sentenced to death (otherwise than by a court-martial) for an offence, a report on the case by the judge who presided at the trial (or, if a report cannot be obtained from that judge, a report on the case by the Chief Justice), together with such other information derived from the record of the case or elsewhere as may be
 
 [[END OF PAGE 55]]
 
@@ -1094,17 +1274,17 @@ required by or furnished to the Committee shall be taken into consideration at a
 
 ###### Establishment of Parliament
 
-- There shall be a national legislature for Solomon Islands, which shall consist of a single chamber and shall be known as the National Parliament of Solomon Islands.
+46. There shall be a national legislature for Solomon Islands, which shall consist of a single chamber and shall be known as the National Parliament of Solomon Islands.
 
 ###### Composition of Parliament
 
--(1) Parliament shall consist of persons elected in accordance with the provisions of this Constitution and, subject thereto, in such manner as may be prescribed.
+47.-(1) Parliament shall consist of persons elected in accordance with the provisions of this Constitution and, subject thereto, in such manner as may be prescribed.
 
-- Each of the constituencies prescribed under section 54(1) of this Constitution shall return one member of Parliament.
+(2) Each of the constituencies prescribed under section 54(1) of this Constitution shall return one member of Parliament.
 
 ###### Qualification for membership
 
-- Subject to the provisions of the next following section, a person shall be qualified for election as a member of Parliament if, and shall not be so qualified unless -
+48. Subject to the provisions of the next following section, a person shall be qualified for election as a member of Parliament if, and shall not be so qualified unless -
 
 (a) he is a citizen of Solomon Islands; and
 
@@ -1128,37 +1308,73 @@ required by or furnished to the Committee shall be taken into consideration at a
 
 [[START OF PAGE 58]]
 
-(c) if he is elected as Speaker; (d) if he is appointed as Governor-General; (e) if he is absent from two consecutive meetings of Parliament without having obtained from the person presiding, before the termination of either meeting, permission to be or to remain absent therefrom unless, in the opinion of the Speaker (or, if the office of Speaker is vacant or he is for any reason unable to perform the functions of his office, the Deputy Speaker), such absence was due to causes beyond the member's control; (f) if any circumstance arises that, if he were not a member of Parliament, would cause him to be disqualified from election thereto by virtue of paragraph (a) , (b) , (d) , (f) or (g) of subsection (1) of the preceding section; or (g) in the circumstances mentioned in the next following section.
+(c) if he is elected as Speaker;
+
+(d) if he is appointed as Governor-General;
+
+(e) if he is absent from two consecutive meetings of Parliament without having obtained from the person presiding, before the termination of either meeting, permission to be or to remain absent therefrom unless, in the opinion of the Speaker (or, if the office of Speaker is vacant or he is for any reason unable to perform the functions of his office, the Deputy Speaker), such absence was due to causes beyond the member's control;
+
+(f) if any circumstance arises that, if he were not a member of Parliament, would cause him to be disqualified from election thereto by virtue of paragraph (a), (b), (d), (f) or (g) of subsection (1) of the preceding section; or
+
+(g) in the circumstances mentioned in the next following section.
 
 ###### Vacation of seat on sentence, etc.
 
-51. -(1) Subject to the provisions of this section, if a member of Parliament is sentenced by a court in any part of the world to death or to imprisonment (by whatever name called) for a term of, or exceeding, six months, including a suspended sentence, he shall forthwith cease to perform his functions as a member of Parliament, and his seat in Parliament shall become vacant at the expiration of a period of thirty days thereafter: Provided that the Speaker (or, if the office of Speaker is vacant or he is for any reason unable to perform the functions of his office, the Deputy Speaker) may, at the request of the member, from time to time extend that period for thirty days to enable the member to pursue any appeal in respect of his conviction or sentence so however that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval of Parliament signified by resolution. (2) If at any time before the member vacates his seat he is granted a free pardon or his six months or a punishment other than imprisonment is substituted, his seat in Parliament
+51.-(1) Subject to the provisions of this section, if a member of Parliament is sentenced by a court in any part of the world to death or to imprisonment (by whatever name called) for a term of, or exceeding, six months, including a suspended sentence, he shall forthwith cease to perform his functions as a member of Parliament, and his seat in Parliament shall become vacant at the expiration of a period of thirty days thereafter:
 
-conviction is set aside or his sentence is reduced to a term of imprisonment of less than shall not become vacant under the provisions of this section, and he may again perform his functions as a member of Parliament. (3) For the purposes of this section (a) two or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms; and (b) no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.
+Provided that the Speaker (or, if the office of Speaker is vacant or he is for any reason unable to perform the functions of his office, the Deputy Speaker) may, at the request of the member, from time to time extend that period for thirty days to enable the member to pursue any appeal in respect of his conviction or sentence so however that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval of Parliament signified by resolution.
+
+(2) If at any time before the member vacates his seat he is granted a free pardon or his conviction is set aside or his sentence is reduced to a term of imprisonment of less than six months or a punishment other than imprisonment is substituted, his seat in Parliament shall not become vacant under the provisions of this section, and he may again perform
 
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
 
+his functions as a member of Parliament.
+
+(3) For the purposes of this section -
+
+(a) two or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms; and
+
+(b) no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.
+
 ###### Determination of questions as to membership
 
-52. -(1) The High Court shall have jurisdiction to hear and determine any question whether (a) any person has been validly elected as a member of Parliament; or (b) any member of Parliament has vacated his seat therein or is required by virtue of section 51 of this Constitution to cease to perform his functions as a member.
+52.-(1) The High Court shall have jurisdiction to hear and determine any question whether -
+
+(a) any person has been validly elected as a member of Parliament; or
+
+(b) any member of Parliament has vacated his seat therein or is required by virtue of section 51 of this Constitution to cease to perform his functions as a member.
 
 (2) No appeal shall lie from any decision of the High Court in proceedings under the preceding subsection.
 
 ###### Constituency Boundaries Commission
 
-53. -(1) There shall be a Constituency Boundaries Commission consisting of (a) a Chairman and two other members (in this section referred to as "the appointed members") appointed by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission; and (b) the persons for the time being holding the offices of Surveyor-General and Head of the Government's Statistical Services, who shall be members of the Commission ex officio .
+53.-(1) There shall be a Constituency Boundaries Commission consisting of -
 
-(2) A person shall not be qualified to be an appointed member of the Commission if he is a member of, or a candidate for election to, Parliament or any provincial assembly. (3) Subject to the provisions of the next following subsection, an appointed member of the Commission shall vacate his office (a) at the expiration of the period specified in the instrument by which he was appointed; or (b) if any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified from appointment as such. (4) The provisions of section 126 of this Constitution shall apply to an appointed member of the Constituency Boundaries Commission as they apply to a member of the Public Service Commission except that subsection (7) shall apply as if for the words "in accordance with the advice of the Prime Minister" there were substituted the words "in accordance with the advice of the Judicial and Legal Service Commission".
+(a) a Chairman and two other members (in this section referred to as "the appointed members") appointed by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission; and
+
+(b) the persons for the time being holding the offices of Surveyor-General and Head of the Government's Statistical Services, who shall be members of the Commission ex officio.
+
+(2) A person shall not be qualified to be an appointed member of the Commission if he is
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
+a member of, or a candidate for election to, Parliament or any provincial assembly.
+
+(3) Subject to the provisions of the next following subsection, an appointed member of the Commission shall vacate his office -
+
+(a) at the expiration of the period specified in the instrument by which he was appointed; or
+
+(b) if any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified from appointment as such.
+
+(4) The provisions of section 126 of this Constitution shall apply to an appointed member of the Constituency Boundaries Commission as they apply to a member of the Public Service Commission except that subsection (7) shall apply as if for the words "in accordance with the advice of the Prime Minister" there were substituted the words "in accordance with the advice of the Judicial and Legal Service Commission".
+
 ###### Constituencies
 
-54. -(1) For the purpose of the election of members of Parliament, Solomon Islands shall be divided into such number of constituencies, being not less than thirty and not more than fifty, and each constituency shall have such boundaries, as may be prescribed by Parliament by resolution on a recommendation of the Constituency Boundaries Commission in accordance with subsection (4) of this section.
+54.-(1) For the purpose of the election of members of Parliament, Solomon Islands shall be divided into such number of constituencies, being not less than thirty and not more than fifty, and each constituency shall have such boundaries, as may be prescribed by Parliament by resolution on a recommendation of the Constituency Boundaries Commission in accordance with subsection (4) of this section.
 
 (2) The Constituency Boundaries Commission shall make recommendations to Parliament with respect to the number and boundaries of constituencies as soon as practicable after the commencement of this Constitution; and thereafter the Commission may review the number and boundaries of the constituencies whenever they consider this to be desirable and shall do so not later than ten years after they last reviewed them, and may make recommendations to Parliament for alterations in the number and boundaries of the constituencies.
 
@@ -1230,7 +1446,7 @@ Parliament.
 
 ###### Power to make laws
 
-59.(1) Subject to the provisions of this Constitution, Parliament may make laws for the peace, order and good government of Solomon Islands. (2) The laws referred to in this section shall take the form of Bills passed by Parliament; and when a Bill has been passed by Parliament it shall be presented to the GovernorGeneral who shall assent to it forthwith on behalf of the Head of State, and when such assent is given the Bill shall become law. (3) No law shall come into operation until it has been published in the Gazette but Parliament may postpone the coming into operation of any such law and may make laws, subject to section 10(4) of this Constitution with retrospective effect. (4) All laws made by Parliament shall be styled "Acts of Parliament" and the words of
+59.-(1) Subject to the provisions of this Constitution, Parliament may make laws for the peace, order and good government of Solomon Islands. (2) The laws referred to in this section shall take the form of Bills passed by Parliament; and when a Bill has been passed by Parliament it shall be presented to the Governor-General who shall assent to it forthwith on behalf of the Head of State, and when such assent is given the Bill shall become law. (3) No law shall come into operation until it has been published in the Gazette but Parliament may postpone the coming into operation of any such law and may make laws, subject to section 10(4) of this Constitution with retrospective effect. (4) All laws made by Parliament shall be styled "Acts of Parliament" and the words of
 
 enactment shall be "Enacted by the National Parliament of Solomon Islands".
 
@@ -1240,19 +1456,57 @@ enactment shall be "Enacted by the National Parliament of Solomon Islands".
 
 ###### Introduction of Bills, etc.
 
-60. Except on the recommendation of the Cabinet signified by a Minister, Parliament shall not (a) proceed upon any Bill (including any amendment to a Bill) which, in the opinion of the person presiding, makes provision for imposing or increasing any tax, for imposing or increasing any charge on the Consolidated Fund or other funds of Solomon Islands, or for altering any such charge otherwise than by reducing it, or for compounding or remitting any debt due to Solomon Islands; (b) proceed upon any motion (including any amendment to a motion) which would, in the opinion of the person presiding, if the motion were carried, require the introduction of such a Bill as is referred to in paragraph (a) to give effect to the motion; or (c) receive any petition which, in the opinion of the person presiding, requests that provision be made for any of the purposes aforesaid.
+60. Except on the recommendation of the Cabinet signified by a Minister, Parliament shall not -
+
+(a) proceed upon any Bill (including any amendment to a Bill) which, in the opinion of the person presiding, makes provision for imposing or increasing any tax, for imposing or increasing any charge on the Consolidated Fund or other funds of Solomon Islands, or for altering any such charge otherwise than by reducing it, or for compounding or remitting any debt due to Solomon Islands;
+
+(b) proceed upon any motion (including any amendment to a motion) which would, in the opinion of the person presiding, if the motion were carried, require the introduction of such a Bill as is referred to in paragraph (a) to give effect to the motion; or
+
+(c) receive any petition which, in the opinion of the person presiding, requests that provision be made for any of the purposes aforesaid.
 
 ###### Alteration of Constitution
 
-61. -(1) Subject to the provisions of this section, Parliament may alter this Constitution.
+61.-(1) Subject to the provisions of this section, Parliament may alter this Constitution.
 
-(2) A Bill for an Act of Parliament to alter any of the following provisions of this Constitution, that is to say (a) this section; (b) Chapters II, VII and IX; (c) sections 46 to 58 (inclusive), and 108; and (d) Chapter XIV to the extent that it relates to any of visions specified in the preceding paragraphs,
+(2) A Bill for an Act of Parliament to alter any of the following provisions of this Constitution, that is to say -
 
-shall not be passed by Parliament unless it is supported at the final voting on two separate readings in Parliament by the votes of not less than three-quarters of all the members of Parliament. (3) A Bill for an Act of Parliament to alter any provision of this Constitution (but which does not alter any of the provisions of this Constitution as specified in subsection (2) of this section) shall not be passed by Parliament unless it is supported at the final voting on two separate readings in Parliament by the votes of not less than two-thirds of all the members of Parliament. (4) Without prejudice to the provisions of subsections (2) and (3) of this section, a Bill for an Act of Parliament under this section shall not be passed by Parliament unless (a) notice of the Bill has been given to the Speaker at least four weeks before the first reading of the Bill in Parliament; and (b) the Bill is clearly expressed to be a Bill for an Act of Parliament to alter the Constitution. (5) In this section (a) references to this Constitution or to any particular provision thereof include references to any other law in so far as that law alters the Constitution or, as the case may be, that provision; and (b) references to altering this Constitution or any particular provision thereof include references (i) to repealing it, with or without re-enactment thereof or the making of different provision in lieu thereof; (ii) to modifying it, whether by omitting or amending any of its provisions or inserting additional provisions in it or otherwise; (iii) to suspending its operation for any period, or terminating any such suspension; and (iv) to making any other provision that is repugnant to or otherwise inconsistent with it.
+(a) this section;
+
+(b) Chapters II, VII and IX;
+
+(c) sections 46 to 58 (inclusive), and 108; and
+
+(d) Chapter XIV to the extent that it relates to any of the provisions specified in the preceding paragraphs,
+
+shall not be passed by Parliament unless it is supported at the final voting on two separate readings in Parliament by the votes of not less than three-quarters of all the members of
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
+
+Parliament.
+
+(3) A Bill for an Act of Parliament to alter any provision of this Constitution (but which does not alter any of the provisions of this Constitution as specified in subsection (2) of this section) shall not be passed by Parliament unless it is supported at the final voting on two separate readings in Parliament by the votes of not less than two-thirds of all the members of Parliament.
+
+(4) Without prejudice to the provisions of subsections (2) and (3) of this section, a Bill for an Act of Parliament under this section shall not be passed by Parliament unless -
+
+(a) notice of the Bill has been given to the Speaker at least four weeks before the first reading of the Bill in Parliament; and
+
+(b) the Bill is clearly expressed to be a Bill for an Act of Parliament to alter the Constitution.
+
+(5) In this section -
+
+(a) references to this Constitution or to any particular provision thereof include references to any other law in so far as that law alters the Constitution or, as the case may be, that provision; and
+
+(b) references to altering this Constitution or any particular provision thereof include references -
+
+(i) to repealing it, with or without re-enactment thereof or the making of different provision in lieu thereof;
+
+(ii) to modifying it, whether by omitting or amending any of its provisions or inserting additional provisions in it or otherwise;
+
+(iii) to suspending its operation for any period, or terminating any such suspension; and
+
+(iv) to making any other provision that is repugnant to or otherwise inconsistent with it.
 
 ###### Rules of procedure of Parliament
 
@@ -1264,7 +1518,7 @@ shall not be passed by Parliament unless it is supported at the final voting on 
 
 ###### Oath of allegiance
 
-63. No member of Parliament shall be permitted to take part in the proceedings of Parliament (other than proceedings necessary for the purpose of this section) until he has made before parliament an oath of allegiance in the form set out in Schedule 1 to this Constitution.
+63. No member of Parliament shall be permitted to take part in the proceedings of Parliament (other than proceedings necessary for the purpose of this section) until he has made before Parliament an oath of allegiance in the form set out in Schedule 1 to this Constitution.
 
 ###### The Speaker and Deputy Speaker
 
@@ -1276,23 +1530,47 @@ shall not be passed by Parliament unless it is supported at the final voting on 
 
 [[START OF PAGE 68]]
 
-(i) if he ceases to be a member of Parliament or if, under the provisions of section 51 of this Constitution, he is required to cease to perform his functions as a member of Parliament; (ii) if he becomes a Minister; (iii) if he is elected as Speaker; or
+(i) if he ceases to be a member of Parliament or if, under the provisions of section 51 of this Constitution, he is required to cease to perform his functions as a member of Parliament;
 
-(iv) if he becomes a recognised leader in Parliament of any political party. (3) If the office of Speaker or Deputy Speaker becomes vacant Parliament shall, unless it is sooner dissolved, elect a person qualified under this section to fill the vacancy at its next sitting after the occurrence of the vacancy or as soon as practicable thereafter. (4) No business shall be transacted in Parliament (other than the election of a Speaker) at any time when the office of Speaker is vacant. (5) Save as otherwise provided in this Constitution or any other law, the Speaker shall not hold any other office.
+(ii) if he becomes a Minister;
+
+(iii) if he is elected as Speaker; or
+
+(iv) if he becomes a recognised leader in Parliament of any political party.
+
+(3) If the office of Speaker or Deputy Speaker becomes vacant Parliament shall, unless it is sooner dissolved, elect a person qualified under this section to fill the vacancy at its next sitting after the occurrence of the vacancy or as soon as practicable thereafter.
+
+(4) No business shall be transacted in Parliament (other than the election of a Speaker) at any time when the office of Speaker is vacant.
+
+(5) Save as otherwise provided in this Constitution or any other law, the Speaker shall not hold any other office.
 
 ###### Presiding in Parliament
 
-65. The Speaker or in his absence the Deputy Speaker or in their absence a member of Parliament (not being a Minister) elected by Parliament for the sitting, shall preside at any sitting of Parliament: Provided that at the first sitting of Parliament after any general election, until a Speaker is elected there shall preside the person who last held office as Speaker or, in his absence, the person who last held office as Deputy Speaker.
+65. The Speaker or in his absence the Deputy Speaker or in their absence a member of Parliament (not being a Minister) elected by Parliament for the sitting, shall preside at any sitting of Parliament:
+
+Provided that at the first sitting of Parliament after any general election, until a Speaker is elected there shall preside the person who last held office as Speaker or, in his absence, the person who last held office as Deputy Speaker.
 
 ###### Leaders of opposition and independent groups in Parliament
 
-66. -(1) If at any time it appears to the Governor-General, acting in accordance with the advice of the Speaker, that the leader of an opposition group, by reason of the numerical strength of that opposition group or by reason of the support which he receives from the members of opposition groups generally, should be appointed as Leader of the Official Opposition, the Governor-General shall appoint him as such leader. (2) If at anytime it appears to the Governor-General, acting in accordance with the advice of the Speaker, that the leader of an independent group, by reason of the numerical strength of that independent group or by reason of the support which he receives from the members of independent groups generally, should be appointed as Leader of the Independent Members, the Governor-General shall appoint him as such leader. (3) If the Governor-General, acting in accordance with the advice of the Speaker, considers that the Leader of the Official Opposition is no longer the person who, if the office of Leader of the Official Opposition were vacant, would be appointed thereto under subsection (1) of this section, the Governor-General shall remove the Leader of the Official Opposition from office. (4) If the Governor-General, acting in accordance with the advice of the Speaker, considers that the Leader of the Independent Members is no longer the person who, if the office of Leader of the Independent Members were vacant, would be appointed thereto under subsection (2) of this section, the Governor-General shall remove the Leader of the Independent Members from office. (5) Before tendering advice to the Governor-General under subsections (1) and (3) of this section, the Speaker shall consult with the leaders and members of the opposition groups and such other persons as he deems appropriate, and before tendering advice under subsections (2) and (4) of this section, the Speaker shall consult with the leaders and members of the independent groups and such other persons as he deems appropriate. is required under section 51 of this Constitution to cease to perform his functions as a
+66.-(1) If at any time it appears to the Governor-General, acting in accordance with the advice of the Speaker, that the leader of an opposition group, by reason of the numerical
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
 
-(6) If the Leader of the Official Opposition or the Leader of the Independent Members (a) member of Parliament;
+strength of that opposition group or by reason of the support which he receives from the members of opposition groups generally, should be appointed as Leader of the Official Opposition, the Governor-General shall appoint him as such leader.
+
+(2) If at any time it appears to the Governor-General, acting in accordance with the advice of the Speaker, that the leader of an independent group, by reason of the numerical strength of that independent group or by reason of the support which he receives from the members of independent groups generally, should be appointed as Leader of the Independent Members, the Governor-General shall appoint him as such leader.
+
+(3) If the Governor-General, acting in accordance with the advice of the Speaker, considers that the Leader of the Official Opposition is no longer the person who, if the office of Leader of the Official Opposition were vacant, would be appointed thereto under subsection (1) of this section, the Governor-General shall remove the Leader of the Official Opposition from office.
+
+(4) If the Governor-General, acting in accordance with the advice of the Speaker, considers that the Leader of the Independent Members is no longer the person who, if the office of Leader of the Independent Members were vacant, would be appointed thereto under subsection (2) of this section, the Governor-General shall remove the Leader of the Independent Members from office.
+
+(5) Before tendering advice to the Governor-General under subsections (1) and (3) of this section, the Speaker shall consult with the leaders and members of the opposition groups and such other persons as he deems appropriate, and before tendering advice under subsections (2) and (4) of this section, the Speaker shall consult with the leaders and members of the independent groups and such other persons as he deems appropriate.
+
+(6) If the Leader of the Official Opposition or the Leader of the Independent Members -
+
+(a) is required under section 51 of this Constitution to cease to perform his functions as a member of Parliament;
 
 [[END OF PAGE 69]]
 
@@ -1300,21 +1578,31 @@ shall not be passed by Parliament unless it is supported at the final voting on 
 
 (b) otherwise ceases to be such a member; or
 
-(c) is elected as Deputy Speaker, his office shall become vacant. (7) For the purposes of this section "opposition group" means a group of members of Parliament in opposition to the Government, whose number includes a leader who commands their support; "independent group" means a group of members of Parliament whose members are independent both of the Government and of any opposition group and whose number includes a leader who commands their support. (8) Parliament may by resolution supported by an absolute majority of the members
+(c) is elected as Deputy Speaker,
 
-thereof prescribe the minimum number of members of opposition or independent groups there must be before the Leader of the Official Opposition or of the Independent Members, as the case may be, is appointed under this section.
+his office shall become vacant.
+
+(7) For the purposes of this section -
+
+"opposition group" means a group of members of Parliament in opposition to the Government, whose number includes a leader who commands their support;
+
+"independent group" means a group of members of Parliament whose members are independent both of the Government and of any opposition group and whose number includes a leader who commands their support.
+
+(8) Parliament may by resolution supported by an absolute majority of the members thereof prescribe the minimum number of members of opposition or independent groups there must be before the Leader of the Official Opposition or of the Independent Members, as the case may be, is appointed under this section.
 
 ###### Quorum
 
-67 . If objection is taken by any member of Parliament present that there are present in Parliament (besides the person presiding) less than half of all the members thereof and, after such interval as may be prescribed in the rules of procedure of Parliament, the person presiding ascertains that the number of members present is still less than half of all the members, he shall thereupon adjourn Parliament.
+67. If objection is taken by any member of Parliament present that there are present in Parliament (besides the person presiding) less than half of all the members thereof and, after such interval as may be prescribed in the rules of procedure of Parliament, the person presiding ascertains that the number of members present is still less than half of all the members, he shall thereupon adjourn Parliament.
 
 ###### Proceedings in Parliament
 
-68. Subject to the provisions of the preceding section, Parliament shall not be disqualified from the transaction of business by reason of any vacancy in its membership, and any proceedings in Parliament shall be valid notwithstanding that some person who was not entitled to do so took part in those proceedings.
+68. Subject to the provisions of the preceding section, Parliament shall not be disqualified from the transaction of business by reason of any vacancy in its membership, and any proceedings in Parliament shall be valid notwithstanding that some person who was not
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
+
+entitled to do so took part in those proceedings.
 
 ###### Privileges of Parliament and its members
 
@@ -1322,7 +1610,21 @@ thereof prescribe the minimum number of members of opposition or independent gro
 
 ###### Members of Parliament (Entitlements) Commission
 
-1 of 1983, s. 2 69A. -(1) There shall be a Members of Parliament (Entitlements) Commission consisting of the Chairman and four other members. (2) The Chairman and two of the members (in this section referred to as the "appointed members"), shall be appointed by the Governor-General on the advice of the Prime Minister. (3) The person for the time being holding the office of the Minister of Finance, and the person for the time being holding the office of the Chairman, Public Accounts Committee appointed under Standing Order 69 of the Standing Orders of the National Parliament of Solomon Islands, shall be the other two members. (4) A person shall not be qualified to be appointed as the Chairman or an appointed member of the Commission if he is a member of, or a candidate for election to, Parliament. (5) The office of the Chairman and an appointed member shall become vacant (a) at the expiration of such period not exceeding three years as may be specified in the instrument by which he was appointed; or (b) on death, or by resignation in writing addressed to the Governor-General; or
+1 of 1983, s. 2
+
+69A.-(1) There shall be a Members of Parliament (Entitlements) Commission consisting of the Chairman and four other members.
+
+(2) The Chairman and two of the members (in this section referred to as the "appointed members"), shall be appointed by the Governor-General on the advice of the Prime Minister.
+
+(3) The person for the time being holding the office of the Minister of Finance, and the person for the time being holding the office of the Chairman, Public Accounts Committee appointed under Standing Order 69 of the Standing Orders of the National Parliament of Solomon Islands, shall be the other two members.
+
+(4) A person shall not be qualified to be appointed as the Chairman or an appointed member of the Commission if he is a member of, or a candidate for election to, Parliament.
+
+(5) The office of the Chairman and an appointed member shall become vacant -
+
+(a) at the expiration of such period not exceeding three years as may be specified in the instrument by which he was appointed; or
+
+(b) on death, or by resignation in writing addressed to the Governor-General; or
 
 [[END OF PAGE 71]]
 
@@ -1336,19 +1638,51 @@ thereof prescribe the minimum number of members of opposition or independent gro
 
 1 of 1983, s. 2
 
-- 69B. -(1) Power to determine the entitlements of the parliamentarians and to amend them by yearly review shall vest in the Members of Parliament (Entitlements) Commission. (2) In the exercise of their powers, the Members of Parliament (Entitlements) Commission shall (a) consider such representations as they may receive from persons or body of persons, within such time as may be notified by them; (b) have regard to such information as may be supplied to them by the Government, Parliament or any other organisation in relation to the following matters (i) the state of the national economy and the financial position of the Government; (ii) movements in the level of the pay and other entitlements admissible to other persons in employment; and (iii) changes in the retail price index and other relevant indicator showing the cost of maintaining the standard of living that Parliamentarians might reasonably be expected to enjoy. (c) make regulations and having made them, amend those regulations, in accordance with section 137 of this Constitution, providing for the following matters (i) the scales of salaries and other entitlements payable to Parliamentarians; (ii) the terms, conditions and manner of payment of such salaries and entitlements and of
+69B.-(1) Power to determine the entitlements of the parliamentarians and to amend them by yearly review shall vest in the Members of Parliament (Entitlements) Commission.
 
-- loans and advances on such salaries;
+(2) In the exercise of their powers, the Members of Parliament (Entitlements) Commission shall -
+
+(a) consider such representations as they may receive from persons or body of persons, within such time as may be notified by them;
+
+(b) have regard to such information as may be supplied to them by the Government, Parliament or any other organisation in relation to the following matters -
+
+(i) the state of the national economy and the financial position of the Government;
+
+(ii) movements in the level of the pay and other entitlements admissible to other persons in employment; and
+
+(iii) changes in the retail price index and other relevant indicator showing the cost of maintaining the standard of living that Parliamentarians might reasonably be expected to enjoy.
+
+(c) make regulations and having made them, amend those regulations, in accordance with section 137 of this Constitution, providing for the following matters -
+
+(i) the scales of salaries and other entitlements payable to Parliamentarians;
+
+(ii) the terms, conditions and manner of payment of such salaries and entitlements and of loans and advances on such salaries;
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
 
-(iii) exemptions of such salaries and entitlements from taxes and other liabilities; (iv) such other matters, including matters specified in subsection (3) of this section as may facilitate the discharge of their functions as Parliamentarians.
+(iii) exemptions of such salaries and entitlements from taxes and other liabilities;
 
-(3) In making or amending the regulations, the Members of Parliament (Entitlements) Commission shall (a) consider, in relation to Parliamentarians and their families the following matters, namely, accommodation during sittings of Parliament, housing, medical treatment, internal transport, external transport, travelling imprest, death and retirement benefits, appointment and terminal grants, advances and loans, additional payment for service in of their functions as Parliamentarians; (b)
+(iv) such other matters, including matters specified in subsection (3) of this section as may facilitate the discharge of their functions as Parliamentarians.
 
-committees of Parliament, insurance and such other matter as may facilitate the discharge secure that the salaries and other entitlements of Parliamentarians increase at no less a rate than the rate of increase, if any, of salaries and entitlements (taken as a whole) of the public officers. (4) Every regulation made or amended under this section (a) shall come into force on 1st April (i) of the year in which it is made, if it is made on that day; or (ii) of the year next following the date on which it is made, if it is made on any other date: Provided that the Members of Parliament (Entitlements) Commission may, in order to comply with the requirement of subsection (3) (b) of this section, enforce any such regulation from such other date prospectively or retrospectively, as they may specify in that regulation; and (b) shall, during the period such regulation is in force, have effect as if it were a provision of this Constitution.
+(3) In making or amending the regulations, the Members of Parliament (Entitlements) Commission shall -
+
+(a) consider, in relation to Parliamentarians and their families the following matters, namely, accommodation during sittings of Parliament, housing, medical treatment, internal transport, external transport, travelling imprest, death and retirement benefits, appointment and terminal grants, advances and loans, additional payment for service in committees of Parliament, insurance and such other matter as may facilitate the discharge of their functions as Parliamentarians;
+
+(b) secure that the salaries and other entitlements of Parliamentarians increase at no less a rate than the rate of increase, if any, of salaries and entitlements (taken as a whole) of the public officers.
+
+(4) Every regulation made or amended under this section -
+
+(a) shall come into force on 1st April -
+
+(i) of the year in which it is made, if it is made on that day; or
+
+(ii) of the year next following the date on which it is made, if it is made on any other date:
+
+Provided that the Members of Parliament (Entitlements) Commission may, in order to comply with the requirement of subsection (3)(b) of this section, enforce any such regulation from such other date prospectively or retrospectively, as they may specify in that regulation; and
+
+(b) shall, during the period such regulation is in force, have effect as if it were a provision of this Constitution.
 
 ###### Admissibility of entitlements to be in accordance with the regulations
 
@@ -1378,21 +1712,21 @@ committees of Parliament, insurance and such other matter as may facilitate the 
 
 (b) the Deputy Speaker or a member elected by Parliament for the sitting under section 65 of this Constitution, he shall not have an original vote but shall have and shall exercise a casting vote if on any question the votes are equally divided.
 
-(3) Subject to the provisions of subsection (2) (b) of this section, if upon any question the votes are equally divided the motion shall be declared lost.
+(3) Subject to the provisions of subsection (2)(b) of this section, if upon any question the votes are equally divided the motion shall be declared lost.
 
 ###### Sessions of Parliament
 
-72. -(1) Subject to the provisions of this section, each session of Parliament shall be held at such place within Solomon Islands and shall commence at such time as the GovernorGeneral may appoint by proclamation published in the Gazette.
+72.-(1) Subject to the provisions of this section, each session of Parliament shall be held at such place within Solomon Islands and shall commence at such time as the Governor-General may appoint by proclamation published in the Gazette.
 
 (2) Sessions of Parliament shall be held so that a period of twelve months does not intervene between the end of one session and the first sitting of Parliament in the next session.
 
 ###### Prorogation and dissolution
 
-73. -(1) If at any time Parliament decides by resolution supported by the votes of an absolute majority of the members of Parliament that Parliament should be prorogued or
+73.-(1) If at any time Parliament decides by resolution supported by the votes of an absolute majority of the members of Parliament that Parliament should be prorogued or dissolved, the Governor-General shall forthwith prorogue or, as the case may be, dissolve Parliament by proclamation published in the Gazette.
 
-dissolved, the Governor-General shall forthwith prorogue or, as the case may be, dissolve Parliament by proclamation published in the Gazette. (2) A motion for a resolution under the preceding subsection shall not be passed by Parliament unless notice of the motion has been given to the Speaker at least seven clear days before it is introduced. continue for four years from the date of the first sitting of Parliament after any general
+(2) A motion for a resolution under the preceding subsection shall not be passed by Parliament unless notice of the motion has been given to the Speaker at least seven clear days before it is introduced.
 
-(3) Parliament, unless sooner dissolved under subsection (1) of this section, shall election and shall then stand dissolved.
+(3) Parliament, unless sooner dissolved under subsection (1) of this section, shall continue for four years from the date of the first sitting of Parliament after any general election and shall then stand dissolved.
 
 [[END OF PAGE 75]]
 
@@ -1456,9 +1790,17 @@ office unless he consents to its abolition.
 
 ###### Appointment of judges of High Court
 
-(2) The puisne judges shall be appointed by the Governor-General, acting in accordance (3) A person shall not be qualified for appointment as a judge of the High Court unless he holds, or has held, high judicial office in any country in the Commonwealth or in he is qualified to practise as a barrister or solicitor in such a country and he has been
+78.-(1) The Chief Justice shall be appointed by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission.
 
-78. -(1) The Chief Justice shall be appointed by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission. with the advice of the Judicial and Legal Service Commission. (a) any country outside the Commonwealth that may be prescribed by Parliament; or (b) so qualified for not less than five years. (4) In computing, for the purposes of the preceding subsection, the period during which
+(2) The puisne judges shall be appointed by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission.
+
+(3) A person shall not be qualified for appointment as a judge of the High Court unless -
+
+(a) he holds, or has held, high judicial office in any country in the Commonwealth or in any country outside the Commonwealth that may be prescribed by Parliament; or
+
+(b) he is qualified to practise as a barrister or solicitor in such a country and he has been so qualified for not less than five years.
+
+(4) In computing, for the purposes of the preceding subsection, the period during which
 
 [[END OF PAGE 77]]
 
@@ -1472,23 +1814,49 @@ any person has been qualified to practise as a barrister or solicitor, any perio
 
 any reason unable to perform the functions of his office, the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission, may appoint a puisne judge or some other person qualified for appointment as a judge of the High Court to act as Chief Justice. (2) If the office of a puisne judge is vacant or if a person holding the office of puisne judge is acting as Chief Justice or is for any reason unable to perform the functions of his office, the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission, may appoint a person qualified for appointment as a judge of the High Court to act as a puisne judge. (3) Any person appointed under the provisions of this section to act as a judge of the High Court shall, unless he earlier resigns his acting office or is removed therefrom under the next following section, continue so to act until the end of the period for which he was appointed or, if he was not appointed for a specified period, until his appointment is revoked by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission: Provided that a person whose appointment has expired or whose appointment has been revoked may continue to act as such for so long thereafter as may be necessary to enable him to deliver judgment or to do any other thing in relation to any proceedings that were commenced before him previously thereto.
 
-(4) Whenever he is satisfied that no judge of the High Court is available to attend to the business of the Court, the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission, may appoint some person to perform (a) all or any of the functions of a judge, either generally or in respect of any particular case or class of cases; (b) such functions of a judge as it shall appear to that person require to be performed without delay, subject to such limitations and conditions, if any, as may be specified in the instrument of appointment.
+(4) Whenever he is satisfied that no judge of the High Court is available to attend to the
 
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
 
+business of the Court, the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission, may appoint some person to perform -
+
+(a) all or any of the functions of a judge, either generally or in respect of any particular case or class of cases;
+
+(b) such functions of a judge as it shall appear to that person require to be performed without delay,
+
+subject to such limitations and conditions, if any, as may be specified in the instrument of appointment.
+
 (5) Any person appointed under the provisions of the preceding subsection shall be styled a Commissioner of the High Court; all things done by him in accordance with the terms of his appointment shall have the same validity and effect as if they had been done by a judge of the High Court; in respect thereof he shall have the same powers and enjoy the same immunities as if he had been a judge of the High Court; and, notwithstanding that the period of his appointment has expired or his appointment has been revoked, he may sit as a Commissioner of the High Court for the purpose of delivering judgment or doing any other thing in relation to any proceedings that were commenced before him whilst his appointment was subsisting.
 
 ###### Tenure of office of Judges of High Court
 
-80. -(1) Subject to the provisions of this section, a judge of the High Court shall hold office until he attains the age of sixty years. (2) Notwithstanding the preceding subsection, a person who is not a citizen of Solomon Islands and is over the age of sixty years may be appointed as a judge of the High Court for a term of years and shall cease to hold office at the expiration of that term, and shall not otherwise cease to hold office except in accordance with this section. (3) Nothing done by a judge of the High Court shall be invalid by reason only that he has attained the age at which he is required by this section to vacate his office. (4) A judge of the High Court may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section. (5) A judge of the High Court shall be removed from office by the Governor-General if the question of the removal of that judge from office has been referred to a tribunal appointed under the next following subsection and the tribunal has advised the GovernorGeneral that he ought to be removed from office for inability as aforesaid or for misbehaviour. (6) If the Governor-General considers that the question of removing a judge of the High Court from office for inability as aforesaid or for misbehaviour ought to be investigated, then(a) the Governor-General shall appoint a tribunal which shall consist of a chairman and not less than two other members, selected by the Governor-General from among persons who hold or have held high judicial office in some part of the Commonwealth; and (b) the tribunal shall enquire into the matter and report on the facts thereof to the Governor-General and advise the Governor-General whether that judge should be removed under this section. (7) If the question of removing a judge of the High Court from office has been referred to a tribunal under the preceding subsection, the Governor-General may suspend the judge from performing the functions of his office, and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the tribunal advises the Governor-General that that judge should not be removed from office. (8) Except as provided in subsection (5) of this section, the functions of the GovernorGeneral under this section shall be exercised by him in his own deliberate judgment.
+80.-(1) Subject to the provisions of this section, a judge of the High Court shall hold office until he attains the age of sixty years.
+
+(2) Notwithstanding the preceding subsection, a person who is not a citizen of Solomon Islands and is over the age of sixty years may be appointed as a judge of the High Court for a term of years and shall cease to hold office at the expiration of that term, and shall not otherwise cease to hold office except in accordance with this section.
+
+(3) Nothing done by a judge of the High Court shall be invalid by reason only that he has
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
 
-(this page came through the extractor with no text)
+attained the age at which he is required by this section to vacate his office.
+
+(4) A judge of the High Court may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
+
+(5) A judge of the High Court shall be removed from office by the Governor-General if the question of the removal of that judge from office has been referred to a tribunal appointed under the next following subsection and the tribunal has advised the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehaviour.
+
+(6) If the Governor-General considers that the question of removing a judge of the High Court from office for inability as aforesaid or for misbehaviour ought to be investigated, then-
+
+(a) the Governor-General shall appoint a tribunal which shall consist of a chairman and not less than two other members, selected by the Governor-General from among persons who hold or have held high judicial office in some part of the Commonwealth; and
+
+(b) the tribunal shall enquire into the matter and report on the facts thereof to the Governor-General and advise the Governor-General whether that judge should be removed under this section.
+
+(7) If the question of removing a judge of the High Court from office has been referred to a tribunal under the preceding subsection, the Governor-General may suspend the judge from performing the functions of his office, and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the tribunal advises the Governor-General that that judge should not be removed from office.
+
+(8) Except as provided in subsection (5) of this section, the functions of the Governor-General under this section shall be exercised by him in his own deliberate judgment.
 
 [[END OF PAGE 80]]
 
@@ -1504,27 +1872,43 @@ delivering judgment or doing any other thing in relation to any proceedings that
 ###### Jurisdiction of High Court in constitutional questions
 83. -(1) Subject to the provisions of section 31(3) and 98(1) of, and paragraph 10 of Schedule 2 to, this Constitution, if any person alleges that any provision of this Constitution (other than Chapter II) has been contravened and that his interests are being or are likely to be affected by such contravention, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply to the High Court for a declaration and for relief under this section. (2) The High Court shall have jurisdiction, in any application made by any person in pursuance of the preceding subsection or in any other proceedings lawfully brought before the Court, to determine whether any provision of this Constitution (other than Chapter II) has been contravened and to make a declaration accordingly: Provided that the High Court shall not make a declaration in pursuance of the jurisdiction conferred by this subsection unless it is satisfied that the interests of the person by whom
 
-the application under the preceding subsection is made or, in the case of other proceedings before the Court, a party to those proceedings, are being or are likely to be affected. (3) Where the High Court makes a declaration in pursuance of the preceding subsection that any provision of the Constitution has been contravened and the person by whom the application under subsection (1) of this section was made or, in the case of other proceedings before the Court, the party in those proceedings in respect of whom the declaration is made, seeks relief, the High Court may grant to that person such remedy, being a remedy available against any person in any proceedings in the High Court under any law for the time being in force in Solomon Islands, as the Court considers appropriate. (4) Nothing in this section shall confer jurisdiction on the High Court to hear or determine any such question as is referred to in section 52 of this Constitution otherwise than upon an application made in accordance with the provisions of that section.
+the application under the preceding subsection is made or, in the case of other proceedings before the Court, a party to those proceedings, are being or are likely to be
 
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
 
+affected.
+
+(3) Where the High Court makes a declaration in pursuance of the preceding subsection that any provision of the Constitution has been contravened and the person by whom the application under subsection (1) of this section was made or, in the case of other proceedings before the Court, the party in those proceedings in respect of whom the declaration is made, seeks relief, the High Court may grant to that person such remedy, being a remedy available against any person in any proceedings in the High Court under any law for the time being in force in Solomon Islands, as the Court considers appropriate.
+
+(4) Nothing in this section shall confer jurisdiction on the High Court to hear or determine any such question as is referred to in section 52 of this Constitution otherwise than upon an application made in accordance with the provisions of that section.
+
 ###### High Court and subordinate courts
 
-84. -(1) The High Court shall have jurisdiction to supervise any civil or criminal proceedings before any subordinate court and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of ensuring that justice
+84.-(1) The High Court shall have jurisdiction to supervise any civil or criminal proceedings before any subordinate court and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of ensuring that justice is duly administered by any such court.
 
-is duly administered by any such court. (2) Where any question as to the interpretation of any provision of this Constitution other than Chapter II arises in any subordinate court and the court is of opinion that the question involves a substantial question of law, the court shall refer the question to the High Court. (3) Where any question is referred to the High Court in pursuance of the preceding subsection, the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Court of Appeal, in accordance with the decision of the Court of Appeal.
+(2) Where any question as to the interpretation of any provision of this Constitution other than Chapter II arises in any subordinate court and the court is of opinion that the question involves a substantial question of law, the court shall refer the question to the High Court.
+
+(3) Where any question is referred to the High Court in pursuance of the preceding subsection, the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
 
+that decision is the subject of an appeal to the Court of Appeal, in accordance with the decision of the Court of Appeal.
+
 ###### (b) The Court of Appeal
 
 ###### Establishment of Court of Appeal
 
-85. -(1) There shall be a Court of Appeal for Solomon Islands which shall have such jurisdiction and powers to hear and determine appeals in civil and criminal matters as may be conferred on it by this Constitution or by Parliament. (2) The judges of the Court of Appeal shall be (a) a President and such number of other Justices of Appeal, if any, as may be prescribed by Parliament; and (b) the Chief Justice and the puisne judges of the High Court, who shall be judges of the Court ex officio .
+85.-(1) There shall be a Court of Appeal for Solomon Islands which shall have such jurisdiction and powers to hear and determine appeals in civil and criminal matters as may be conferred on it by this Constitution or by Parliament.
+
+(2) The judges of the Court of Appeal shall be -
+
+(a) a President and such number of other Justices of Appeal, if any, as may be prescribed by Parliament; and
+
+(b) the Chief Justice and the puisne judges of the High Court, who shall be judges of the Court ex officio.
 
 ###### Appointment of judges of Court of Appeal
 
@@ -1536,23 +1920,49 @@ an appeal -
 
 [[START OF PAGE 84]]
 
-(a) from any decision given by himself or any decision given by any court of which he was sitting as a member; or (b)
+(a) from any decision given by himself or any decision given by any court of which he was sitting as a member; or
 
-against a conviction or sentence if he was the judge by or before whom the appellant was convicted. (5) If the office of President of the Court of Appeal is vacant or if the person holding that office is for any reason unable to perform the functions of his office, then, until a person has been appointed to and has assumed the functions of that office or until the holder thereof has resumed those functions, as the case may be, the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission, may appoint one of the other judges of the Court of Appeal or some other person qualified for appointment to that office to act as President of the Court of Appeal: Provided that a person appointed under this subsection who is not a judge of the Court of Appeal may, notwithstanding the assumption or resumption of the functions of the office of President of the Court of Appeal by the holder of that office, continue to act as a judge of the Court of Appeal for so long thereafter as may be necessary to enable him to deliver judgment or do any other thing in relation to any proceedings that were commenced before him previously thereto. (6) Nothing in this section or the preceding section shall preclude the offices of Chief Justice and President of the Court of Appeal from being held by the same person.
+(b) against a conviction or sentence if he was the judge by or before whom the appellant was convicted.
+
+(5) If the office of President of the Court of Appeal is vacant or if the person holding that office is for any reason unable to perform the functions of his office, then, until a person has been appointed to and has assumed the functions of that office or until the holder thereof has resumed those functions, as the case may be, the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission, may appoint one of the other judges of the Court of Appeal or some other person qualified for appointment to that office to act as President of the Court of Appeal:
+
+Provided that a person appointed under this subsection who is not a judge of the Court of Appeal may, notwithstanding the assumption or resumption of the functions of the office of President of the Court of Appeal by the holder of that office, continue to act as a judge of the Court of Appeal for so long thereafter as may be necessary to enable him to deliver judgment or do any other thing in relation to any proceedings that were commenced before him previously thereto.
+
+(6) Nothing in this section or the preceding section shall preclude the offices of Chief Justice and President of the Court of Appeal from being held by the same person.
+
 ###### Tenure of office of judges of Court of Appeal
-87. -(1) Subject to the provisions of this section, a judge of the Court of Appeal shall hold office until he attains the age of sixty years. (2) Notwithstanding the preceding subsection, a person who is not a citizen of Solomon
 
-Islands and is over the age of sixty years may be appointed as a judge of the Court of Appeal for a term of years and shall cease to hold office at the expiration of that term, and shall not otherwise cease to hold office except in accordance with this section. (3) Nothing done by a judge of the Court of Appeal shall be invalid by reason only that he has attained the age at which he is required by this section to vacate his office. (4) A judge of the Court of Appeal may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and shall not be so removed except in accordance with the provisions of this section. (5) A judge of the Court of Appeal shall be removed from office by the GovernorGeneral if the question of the removal of that judge from office has been referred to a tribunal appointed under the next following subsection and the tribunal has advised the Governor-General that he ought to be removed from office for an inability as aforesaid or for misbehaviour. (6) If the Governor-General considers that the question of removing a judge of the Court of Appeal from office for inability as aforesaid or for misbehaviour ought to be investigated, then (a) the Governor-General shall appoint a tribunal which shall consist of a chairman and not less than two other members, selected by the Governor-General from among persons who hold or have held high judicial office in some part of the Commonwealth; and (b) the tribunal shall enquire into the matter and report on the facts thereof to the Governor-General and advise the Governor-General whether that judge should be removed under this section. (7) If the question of removing a judge of the Court of Appeal from office has beep referred to a tribunal under the preceding subsection, the Governor-General may suspend the judge from performing the functions of his office, and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the tribunal advises the Governor-General that that judge should not be removed from office. (8) Except as provided in subsection (5) of this section, the functions of the Governor- General under this section shall be exercised by him in his own deliberate judgment.
+87.-(1) Subject to the provisions of this section, a judge of the Court of Appeal shall hold office until he attains the age of sixty years.
+
+(2) Notwithstanding the preceding subsection, a person who is not a citizen of Solomon Islands and is over the age of sixty years may be appointed as a judge of the Court of Appeal for a term of years and shall cease to hold office at the expiration of that term,
 
 [[END OF PAGE 84]]
 
 [[START OF PAGE 85]]
 
-(this page came through the extractor with no text)
+and shall not otherwise cease to hold office except in accordance with this section.
+
+(3) Nothing done by a judge of the Court of Appeal shall be invalid by reason only that he has attained the age at which he is required by this section to vacate his office.
+
+(4) A judge of the Court of Appeal may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and shall not be so removed except in accordance with the provisions of this section.
+
+(5) A judge of the Court of Appeal shall be removed from office by the Governor-General if the question of the removal of that judge from office has been referred to a tribunal appointed under the next following subsection and the tribunal has advised the Governor-General that he ought to be removed from office for an inability as aforesaid or for misbehaviour.
+
+(6) If the Governor-General considers that the question of removing a judge of the Court of Appeal from office for inability as aforesaid or for misbehaviour ought to be investigated, then -
+
+(a) the Governor-General shall appoint a tribunal which shall consist of a chairman and not less than two other members, selected by the Governor-General from among persons who hold or have held high judicial office in some part of the Commonwealth; and
+
+(b) the tribunal shall enquire into the matter and report on the facts thereof to the Governor-General and advise the Governor-General whether that judge should be removed under this section.
+
+(7) If the question of removing a judge of the Court of Appeal from office has been referred to a tribunal under the preceding subsection, the Governor-General may suspend the judge from performing the functions of his office, and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the tribunal advises the Governor-General that that judge should not be removed from
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
+
+office.
+
+(8) Except as provided in subsection (5) of this section, the functions of the Governor-General under this section shall be exercised by him in his own deliberate judgment.
 
 ###### Judge may sit after appointment has terminated
 
@@ -1578,33 +1988,79 @@ Provided that rules regulating the admission of legal practitioners to practise 
 
 ###### Director of Public Prosecutions
 
--(1) There shall be a Director of Public Prosecutions whose office shall be a public office. (2) The Director of Public Prosecutions shall be appointed by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission. (3) A person shall not be qualified to hold or act in the office of Director of Public Prosecutions unless he is entitled to practise in Solomon Islands as an advocate or as a barrister and solicitor. (4) The Director of Public Prosecutions shall have power in any case in which he considers it desirable to do so (a) to institute and undertake criminal proceedings against any person before any court (other than a court-martial) in respect of any offence alleged to have been committed by that person; (b) to take over and continue any such criminal proceedings that have been instituted or undertaken by any other person or authority; and (c) to discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or any other person or authority. (5) The powers of the Director of Public Prosecutions under the preceding subsection
+91.-(1) There shall be a Director of Public Prosecutions whose office shall be a public office.
 
-- may be exercised by him in person or through other persons acting in accordance with his
+(2) The Director of Public Prosecutions shall be appointed by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission.
+
+(3) A person shall not be qualified to hold or act in the office of Director of Public Prosecutions unless he is entitled to practise in Solomon Islands as an advocate or as a barrister and solicitor.
+
+(4) The Director of Public Prosecutions shall have power in any case in which he considers it desirable to do so -
+
+(a) to institute and undertake criminal proceedings against any person before any court (other than a court-martial) in respect of any offence alleged to have been committed by that person;
+
+(b) to take over and continue any such criminal proceedings that have been instituted or undertaken by any other person or authority; and
+
+(c) to discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or any other person or authority.
+
+(5) The powers of the Director of Public Prosecutions under the preceding subsection may be exercised by him in person or through other persons acting in accordance with his
 
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
 
-general or specific instructions. (6) The powers conferred on the Director of Public prosecutions by paragraphs (b) and (c) of subsection (4) of this section shall be vested in him to the exclusion of any other person or authority: Provided that where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority and with the leave of the court. (7) In the exercise of the powers conferred on him by this section the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority: Provided that, where any case in any way concerns the defence, security or international relations of Solomon Islands, the Director of Public Prosecutions shall bring the matter to the attention of the Minister responsible for justice and shall, in the exercise of his powers in relation to that case, act in accordance with any directions that Minister may give to him. (8) For the purposes of this section, any appeal from any judgment in any criminal proceedings before any court, or any case stated or question of law reserved for the purpose of any such proceedings to any other court, shall be deemed to be part of those proceedings: Provided that the power conferred on the Director of Public Prosecutions by paragraph (c) of subsection (4) of this section shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person. (9) During any period when the office of Director of Public Prosecutions is vacant or the holder of that office is for any reason unable to perform the functions of his office, those functions shall be performed by the Attorney-General.
+general or specific instructions.
+
+(6) The powers conferred on the Director of Public prosecutions by paragraphs (b) and (c) of subsection (4) of this section shall be vested in him to the exclusion of any other person or authority:
+
+Provided that where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority and with the leave of the court.
+
+(7) In the exercise of the powers conferred on him by this section the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority:
+
+Provided that, where any case in any way concerns the defence, security or international relations of Solomon Islands, the Director of Public Prosecutions shall bring the matter to the attention of the Minister responsible for justice and shall, in the exercise of his powers in relation to that case, act in accordance with any directions that Minister may give to him.
+
+(8) For the purposes of this section, any appeal from any judgment in any criminal proceedings before any court, or any case stated or question of law reserved for the purpose of any such proceedings to any other court, shall be deemed to be part of those proceedings:
+
+Provided that the power conferred on the Director of Public Prosecutions by paragraph (c) of subsection (4) of this section shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
+
+(9) During any period when the office of Director of Public Prosecutions is vacant or the
 
 [[END OF PAGE 88]]
 
 [[START OF PAGE 89]]
 
+holder of that office is for any reason unable to perform the functions of his office, those functions shall be performed by the Attorney-General.
+
 ###### Public Solicitor
 
-92. -(1) There shall be a Public Solicitor, whose office shall be a public office. (2) The Public Solicitor shall be appointed by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission. (3) A person shall not be qualified to hold or act in the office of Public Solicitor unless he is entitled to practise in Solomon Islands as an advocate or as a barrister and solicitor. (4) The functions of the Public Solicitor are to provide legal aid, advice and assistance to persons in need in such circumstances and subject to such conditions as may be prescribed by Parliament, and in particular (a) to provide legal aid, advice and assistance to any person in need who has been charged with a criminal offence; and (b) to provide legal aid, advice and assistance to any person when directed to do so by the High Court. (5) A person aggrieved by a refusal of the Public Solicitor to provide legal aid, advice and assistance to him may apply to the High Court for a direction under paragraph (b) of the preceding subsection. (6) Parliament may make provision for the Public Solicitor to make a reasonable charge for services provided by him to persons in need whom he considers are able to make a contribution towards the cost of those services. (7) Except as provided in paragraph (b) of subsection (4) of this section, in the exercise of the functions conferred on him by or under this section the Public Solicitor shall not be subject to the direction or control of any other person or authority.
+92.-(1) There shall be a Public Solicitor, whose office shall be a public office.
+
+(2) The Public Solicitor shall be appointed by the Governor-General, acting in accordance with the advice of the Judicial and Legal Service Commission.
+
+(3) A person shall not be qualified to hold or act in the office of Public Solicitor unless he is entitled to practise in Solomon Islands as an advocate or as a barrister and solicitor.
+
+(4) The functions of the Public Solicitor are to provide legal aid, advice and assistance to persons in need in such circumstances and subject to such conditions as may be prescribed by Parliament, and in particular -
+
+(a) to provide legal aid, advice and assistance to any person in need who has been charged with a criminal offence; and
+
+(b) to provide legal aid, advice and assistance to any person when directed to do so by the High Court.
+
+(5) A person aggrieved by a refusal of the Public Solicitor to provide legal aid, advice and assistance to him may apply to the High Court for a direction under paragraph (b) of the preceding subsection.
+
+(6) Parliament may make provision for the Public Solicitor to make a reasonable charge for services provided by him to persons in need whom he considers are able to make a contribution towards the cost of those services.
+
+(7) Except as provided in paragraph (b) of subsection (4) of this section, in the exercise of
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
 
+the functions conferred on him by or under this section the Public Solicitor shall not be subject to the direction or control of any other person or authority.
+
 #### CHAPTER VIII LEADERSHIP CODE
 
 ###### Application of this Chapter
 
-- The provisions of this Chapter apply to and in relation to -
+93. The provisions of this Chapter apply to and in relation to -
 
 (a) the Governor-General;
 
@@ -1630,9 +2086,9 @@ general or specific instructions. (6) The powers conferred on the Director of Pu
 
 ###### Responsibilities of office
 
--(1) A person to whom this Chapter applies has a duty to conduct himself in such a way, both in his public or official life and his private life, and in his associations with other persons, as not (a) to place himself in a position in which he has or could have a conflict of interests or in
+94.-(1) A person to whom this Chapter applies has a duty to conduct himself in such a way, both in his public or official life and his private life, and in his associations with other persons, as not -
 
-- which the fair exercise of his public or official duties might be compromised;
+(a) to place himself in a position in which he has or could have a conflict of interests or in which the fair exercise of his public or official duties might be compromised;
 
 [[END OF PAGE 90]]
 
@@ -1654,7 +2110,23 @@ is guilty of misconduct in office.
 
 [[START OF PAGE 92]]
 
-95. Subject to the provisions of this Constitution, for the purposes of this Chapter, Parliament(a) may make provision for the disclosure of the personal and business incomes and financial affairs of persons to whom this Chapter applies, and of their families and associates, and in particular of interests in contracts with governmental bodies and of directorships and similar offices held by them (including powers to nominate directors, trustees or agents, or similar officers); (b) may make provision for the disposal or temporary control of the assets or income of a person to whom this Chapter applies where this seems to be desirable for attaining the objects of this Chapter; (c) may prescribe specific acts or omissions as constituting misconduct in office; (d) may create offences (including offences by persons to whom this Chapter applies and offences by other persons) and prescribe penalties for such offences; (e) shall provide for the investigation of cases of alleged or suspected misconduct in office; (f) shall provide for the reference of cases of alleged or suspected misconduct in office to such independent courts or tribunals as may be prescribed, and for the investigation and determination by such courts or tribunals of any such cases that may be referred to them in the manner prescribed; (g) shall make provision with respect to the powers and procedure of such courts or tribunals as may be prescribed under the preceding paragraph and shall prescribe the penalties or other consequences that may result from a lawful determination by any such court or tribunal that a person to whom this Chapter applies is guilty of misconduct in office; and (h) may make such other provision as may appear necessary or expedient for attaining the
+95. Subject to the provisions of this Constitution, for the purposes of this Chapter, Parliament -
+
+(a) may make provision for the disclosure of the personal and business incomes and financial affairs of persons to whom this Chapter applies, and of their families and associates, and in particular of interests in contracts with governmental bodies and of directorships and similar offices held by them (including powers to nominate directors, trustees or agents, or similar officers);
+
+(b) may make provision for the disposal or temporary control of the assets or income of a person to whom this Chapter applies where this seems to be desirable for attaining the objects of this Chapter;
+
+(c) may prescribe specific acts or omissions as constituting misconduct in office;
+
+(d) may create offences (including offences by persons to whom this Chapter applies and offences by other persons) and prescribe penalties for such offences;
+
+(e) shall provide for the investigation of cases of alleged or suspected misconduct in office;
+
+(f) shall provide for the reference of cases of alleged or suspected misconduct in office to such independent courts or tribunals as may be prescribed, and for the investigation and determination by such courts or tribunals of any such cases that may be referred to them in the manner prescribed;
+
+(g) shall make provision with respect to the powers and procedure of such courts or tribunals as may be prescribed under the preceding paragraph and shall prescribe the penalties or other consequences that may result from a lawful determination by any such court or tribunal that a person to whom this Chapter applies is guilty of misconduct in office; and
+
+(h) may make such other provision as may appear necessary or expedient for attaining the
 
 objects of this Chapter.
 
@@ -1682,11 +2154,13 @@ objects of this Chapter.
 ###### Discharge of functions of Ombudsman
 98. -(1) In the discharge of his functions the Ombudsman shall not be subject to the direction or control of any other person or authority and no proceedings of the Ombudsman shall be called in question in any court of law. (2) The Ombudsman shall not conduct an investigation in respect of any matter if he has been given notice by the Prime Minister that the investigation of that matter would not be in the interests of the security of Solomon Islands. (3) The Ombudsman shall make an annual report and may make such additional reports to Parliament as he deems appropriate concerning the discharge of his functions, and may
 
-draw attention to any defects which appear to him to exist in the administration or any law.
+draw attention to any defects which appear to him to exist in the administration or any
 
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
+
+law.
 
 ###### Further provisions
 
@@ -1696,9 +2170,15 @@ draw attention to any defects which appear to him to exist in the administration
 
 ###### Consolidated Fund and Special Funds
 
-100. -(1) All revenues or other moneys raised or received by or for the purposes of the Government (not being revenues or other moneys that are payable by or under any law into some other fund established for any specific purpose or that may, by or under any law, be retained by the authority that received them for the purpose of defraying the expenses of that authority) shall be paid into and form one Consolidated Fund. (2) Parliament may make provision for the establishment of Special Funds, which shall not form part of the Consolidated Fund. (3) The receipts, earnings and accruals of Special Funds established under this section and the balance of such funds at the close of each financial year shall not be paid into the Consolidated Fund but shall be retained for the purposes of those funds.
+100.-(1) All revenues or other moneys raised or received by or for the purposes of the Government (not being revenues or other moneys that are payable by or under any law into some other fund established for any specific purpose or that may, by or under any law, be retained by the authority that received them for the purpose of defraying the expenses of that authority) shall be paid into and form one Consolidated Fund.
+
+(2) Parliament may make provision for the establishment of Special Funds, which shall not form part of the Consolidated Fund.
+
+(3) The receipts, earnings and accruals of Special Funds established under this section and the balance of such funds at the close of each financial year shall not be paid into the Consolidated Fund but shall be retained for the purposes of those funds.
+
 ###### Withdrawal of money from the Consolidated Fund
-101. -(1) No money shall be issued from the Consolidated Fund except upon the authority
+
+101.-(1) No money shall be issued from the Consolidated Fund except upon the authority
 
 of a warrant under the hand of the Minister of Finance.
 
@@ -1710,19 +2190,29 @@ of a warrant under the hand of the Minister of Finance.
 
 ###### Authorisation of expenditure
 
-102. -(1) The Minister of Finance shall cause to be prepared and laid before Parliament before the commencement of each financial year estimates of the revenues and expenditure of the Government for that year, provided that in exceptional circumstances which shall be explained to Parliament the Minister may cause the estimates to be laid before Parliament not later than ninety days after the commencement of the financial year. (2) The heads of expenditure contained in the estimates (other than statutory expenditure) shall be included in a bill to be known as an Appropriation Bill which shall be introduced into Parliament to provide for the issue from the Consolidated Fund of the sums necessary to supply those heads and the appropriation of those sums for the purposes specified therein. (3) If in respect of any financial year it is found that the sum appropriated by the Appropriation Act for any purpose is insufficient or that a need has arisen for expenditure for a purpose for which no sum has been appropriated by that law, a supplementary estimate showing the sums required shall be included in a Supplementary Appropriation Bill for appropriation. (4) If at the close of account for any financial year it is found that any moneys have been
+102.-(1) The Minister of Finance shall cause to be prepared and laid before Parliament before the commencement of each financial year estimates of the revenues and expenditure of the Government for that year, provided that in exceptional circumstances which shall be explained to Parliament the Minister may cause the estimates to be laid before Parliament not later than ninety days after the commencement of the financial year.
 
-expended on any head in excess of the sum appropriated for that head by an Appropriation Act or for a purpose for which no money has been appropriated, the excess or the sum expended but not appropriated as the case may be shall be included in a statement of heads in excess which, together with the report of the Public Accounts Committee thereon, shall be presented to Parliament.
+(2) The heads of expenditure contained in the estimates (other than statutory expenditure) shall be included in a bill to be known as an Appropriation Bill which shall be introduced into Parliament to provide for the issue from the Consolidated Fund of the sums necessary to supply those heads and the appropriation of those sums for the purposes specified therein.
+
+(3) If in respect of any financial year it is found that the sum appropriated by the Appropriation Act for any purpose is insufficient or that a need has arisen for expenditure for a purpose for which no sum has been appropriated by that law, a supplementary estimate showing the sums required shall be included in a Supplementary Appropriation Bill for appropriation.
+
+(4) If at the close of account for any financial year it is found that any moneys have been expended on any head in excess of the sum appropriated for that head by an
 
 [[END OF PAGE 96]]
 
 [[START OF PAGE 97]]
 
+Appropriation Act or for a purpose for which no money has been appropriated, the excess or the sum expended but not appropriated as the case may be shall be included in a statement of heads in excess which, together with the report of the Public Accounts Committee thereon, shall be presented to Parliament.
+
 (5) Statutory expenditure shall not be voted on by Parliament but, without further authority of Parliament, shall be paid out of the Consolidated Fund by warrant under the hand of the Minister of Finance.
 
 ###### Authorisation of expenditure in advance of appropriation
 
-103. -(1) If the Appropriation Act in respect of any financial year has not come into operation by the beginning of that financial year, Parliament by resolution may empower the Minister of Finance to authorise the issue of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the public services at a level not exceeding the level of these services in the previous financial year, until the expiration of four months from the beginning of that financial year or the coming into operation of the Appropriation Act, whichever is the earlier. (2) Where in respect of any financial year the Minister is satisfied that an urgent and unforeseen need has arisen to authorise for any purpose issues from the Consolidated Fund for expenditure in excess of the sum appropriated for that purpose by an Appropriation Act, or for a purpose for which no sum has been so appropriated, he may, subject to the provisions of any law or regulations for the time being in force in that regard, authorise, with the prior approval of the Cabinet, such issues by warrant and shall include such amount in a Supplementary Appropriation Bill for appropriation at the meeting of Parliament next following the date on which the warrant was issued: Provided that if there shall be no further meeting in the same financial year, the Bill may
+103.-(1) If the Appropriation Act in respect of any financial year has not come into operation by the beginning of that financial year, Parliament by resolution may empower the Minister of Finance to authorise the issue of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the public services at a level not exceeding the level of these services in the previous financial year, until the expiration of four months from the beginning of that financial year or the coming into operation of the Appropriation Act, whichever is the earlier.
+
+(2) Where in respect of any financial year the Minister is satisfied that an urgent and unforeseen need has arisen to authorise for any purpose issues from the Consolidated Fund for expenditure in excess of the sum appropriated for that purpose by an Appropriation Act, or for a purpose for which no sum has been so appropriated, he may, subject to the provisions of any law or regulations for the time being in force in that regard, authorise, with the prior approval of the Cabinet, such issues by warrant and shall include such amount in a Supplementary Appropriation Bill for appropriation at the meeting of Parliament next following the date on which the warrant was issued:
+
+Provided that if there shall be no further meeting in the same financial year, the Bill may
 
 be deferred to any meeting held before the end of the following financial year.
 
@@ -1782,9 +2272,7 @@ public funds in Solomon Islands as may be so prescribed.
 
 ###### Non-customary land
 
-111. Parliament may, in regard to land which has ceased to be customary land:(a) provide for the conversion into a fixed-term interest of any perpetual interest in such land held by a person who is not entitled under the preceding section to hold such a perpetual interest; (b) provide for the compulsory acquisition where necessary of such land or any right over or interest in such land; (c) prescribe the criteria to be adopted in regard to the assessment and payment of but need not be limited to, the following factors: the purchase price, the value of improvements made between the date of purchase and the date of acquisition, the current
-
-- compensation for such conversion or compulsory acquisition (which may take account of, use value of the land, and the fact of its abandonment or dereliction).
+111. Parliament may, in regard to land which has ceased to be customary land:- (a) provide for the conversion into a fixed-term interest of any perpetual interest in such land held by a person who is not entitled under the preceding section to hold such a perpetual interest; (b) provide for the compulsory acquisition where necessary of such land or any right over or interest in such land; (c) prescribe the criteria to be adopted in regard to the assessment and payment of compensation for such conversion or compulsory acquisition (which may take account of, but need not be limited to, the following factors: the purchase price, the value of improvements made between the date of purchase and the date of acquisition, the current use value of the land, and the fact of its abandonment or dereliction).
 
 [[END OF PAGE 101]]
 
@@ -1810,25 +2298,11 @@ so far as practicable the interest so acquired shall be limited to a fixed-term 
 
 ###### Savings and interpretation
 
-113.
+113. -(1) Nothing in this Chapter shall be construed as enabling Parliament to make any provision which is inconsistent with the provisions of section 8 (1) (c) of this Constitution.
 
--(1) Nothing in this Chapter shall be construed as enabling Parliament to make any
+(2) In this Chapter "Solomon Islander" has the same meaning as in the Land and Titles Act (a).
 
-provision which is inconsistent with the provisions of section 8 (1)
-
-Constitution.
-
-(2) In this Chapter "Solomon Islander" has the same meaning as in the Land and Titles
-
-Act (
-
-a
-
-).
-
-(c)
-
-of this
+(a) Cap. 133
 
 #### CHAPTER XII POLITICAL DIVISIONS
 
@@ -1836,19 +2310,9 @@ of this
 
 1 of 1983, s. 3
 
-114.
+114. (1) Notwithstanding anything contained in the Solomon Islands Independence Order 1978(a) Solomon Islands shall be divided into Honiara city and provinces.
 
-(1) Notwithstanding anything contained in the Solomon Islands Independence Order
-
-1978(
-
-a
-
-) Solomon Islands shall be divided into Honiara city and provinces.
-
-( a ) U.K. SI 1978 No. 783
-
-( a ) Cap. 133
+(a) U.K. SI 1978 No. 783
 
 [[END OF PAGE 102]]
 
@@ -1888,9 +2352,7 @@ a
 
 (3) The provisions of this section shall not apply in relation to (a) the office of any judge of the High Court or the Court of Appeal; (b) the office of Ombudsman, Director of Public Prosecutions, Public Solicitor or Auditor-General; (c) any office to which section 116B or 118 of this Constitution applies; 14 of 1982, s. 2 (d) the office of any member of the Police Force or the Prisons Service; or (e) any office to which section 127 of this Constitution applies. (4) The Public Service Commission shall not exercise any of its powers in relation to any office on the personal staff of the Governor-General or in relation to any person holding or acting in any such office without the concurrence of the Governor-General, acting in his own deliberate judgment. (5) Before making any appointment to any office on the staff of the Ombudsman, the Public Service Commission shall consult the Ombudsman. (6) Before making any appointment to the office of Clerk to the Legislature, the Public Service Commission shall consult the Speaker.
 ###### Teaching Service Commission
-14 of 1982, s. 2 116A. (1) There shall be a Teaching Service Commission comprised of (a) the Chairman of the Public Service Commission who shall be Chairman of the Commission; (b) not less than two nor more than three other members appointed by the Governor-
-
-- General for such period being not less than three nor more than six years as may be specified in their respective instruments of appointment.
+14 of 1982, s. 2 116A. (1) There shall be a Teaching Service Commission comprised of - (a) the Chairman of the Public Service Commission who shall be Chairman of the Commission; (b) not less than two nor more than three other members appointed by the Governor-General for such period being not less than three nor more than six years as may be specified in their respective instruments of appointment.
 
 [[END OF PAGE 105]]
 
@@ -1922,7 +2384,7 @@ delegate any of its powers under this section by directions in writing to any me
 
 ###### Appointments etc. of judicial and legal officers
 
-118. -(1) Power to make appointments to the offices to which this section applies (including power to confirm appointments) and to remove and to exercise disciplinary control over persons holding or acting in such offices is vested in the Judicial and Legal Service Commission. (2) This section applies to (a) all public offices for which a legal qualification is required, except those of AttorneyGeneral, judge of the High Court or the Court of Appeal, Director of Public Prosecutions and Public Solicitor; (b) magistrates engaged in full time judicial and related duties; and (c) such other officers, including registrars of the High Court and the Court of Appeal, as
+118. -(1) Power to make appointments to the offices to which this section applies (including power to confirm appointments) and to remove and to exercise disciplinary control over persons holding or acting in such offices is vested in the Judicial and Legal Service Commission. (2) This section applies to (a) all public offices for which a legal qualification is required, except those of Attorney-General, judge of the High Court or the Court of Appeal, Director of Public Prosecutions and Public Solicitor; (b) magistrates engaged in full time judicial and related duties; and (c) such other officers, including registrars of the High Court and the Court of Appeal, as
 
 may be prescribed.
 
@@ -1978,9 +2440,7 @@ Commission. (2) The following powers are vested in the Commissioner of Police (a
 
 [[START OF PAGE 112]]
 
--(1) Save as provided in subsection (2) of this section, power to remove and to exercise disciplinary control over persons holding or acting in offices in the Prisons Service is vested in the Police and Prisons Service Commission. (2) The following powers are vested in the Superintendent of Prisons (a) in respect of officers of or above the rank of Prison Officer, the power to administer reprimands; (b) in respect of Assistant Prison Officers, the power to exercise disciplinary control other than removal or reduction in rank; and (c) in respect of officers below the rank of Assistant Prison Officer, the power to exercise disciplinary control including the power of removal. (3) The Superintendent of Prisons may, by directions in writing, and subject to such other than the power of removal, but an appeal from any award of punishment by such an
-
-conditions as he thinks fit, delegate to any officer in the Prisons Service of or above the rank of Assistant Prison Officer any of his powers under subsection (2) (c) of this section officer shall lie to the Superintendent of Prisons.
+124. -(1) Save as provided in subsection (2) of this section, power to remove and to exercise disciplinary control over persons holding or acting in offices in the Prisons Service is vested in the Police and Prisons Service Commission. (2) The following powers are vested in the Superintendent of Prisons - (a) in respect of officers of or above the rank of Prison Officer, the power to administer reprimands; (b) in respect of Assistant Prison Officers, the power to exercise disciplinary control other than removal or reduction in rank; and (c) in respect of officers below the rank of Assistant Prison Officer, the power to exercise disciplinary control including the power of removal. (3) The Superintendent of Prisons may, by directions in writing, and subject to such conditions as he thinks fit, delegate to any officer in the Prisons Service of or above the rank of Assistant Prison Officer any of his powers under subsection (2)(c) of this section other than the power of removal, but an appeal from any award of punishment by such an officer shall lie to the Superintendent of Prisons.
 
 ###### Appeal
 
@@ -2008,11 +2468,9 @@ section, the Governor-General may suspend the Commissioner from performing the f
 
 [[START OF PAGE 114]]
 
-(5) The offices to which this section applies are those of members of the Public Service Commission, appointed members of the Teaching Service Commission under section 116A (1) (b) of this Constitution, members of the Judicial and Legal Service Commission appointed under section 117(3) of this Constitution, and member of the Police and Prisons Service Commission appointed under section 119(3) of this Constitution. 14 of 1982, s. 2 10 of 1992, s. 3 (6) A tribunal appointed under this section shall consist of a chairman and two other members, and 10 of 1992, s. 3 (a) in the case of a tribunal to investigate the removal of a member of the Judicial and Legal Service Commission appointed under section 117(3) of this Constitution, all members of the tribunal shall be persons who hold or have held high judicial office in some part of the Commonwealth; and (b) in any other case, the chairman shall be a person who holds or has held such office. (7) Except as provided in subsection (2) of this section, the functions of the GovernorGeneral under this section shall be exercised by him in accordance with the advice of the Prime Minister.
+(5) The offices to which this section applies are those of members of the Public Service Commission, appointed members of the Teaching Service Commission under section 116A (1) (b) of this Constitution, members of the Judicial and Legal Service Commission appointed under section 117(3) of this Constitution, and member of the Police and Prisons Service Commission appointed under section 119(3) of this Constitution. 14 of 1982, s. 2 10 of 1992, s. 3 (6) A tribunal appointed under this section shall consist of a chairman and two other members, and 10 of 1992, s. 3 (a) in the case of a tribunal to investigate the removal of a member of the Judicial and Legal Service Commission appointed under section 117(3) of this Constitution, all members of the tribunal shall be persons who hold or have held high judicial office in some part of the Commonwealth; and (b) in any other case, the chairman shall be a person who holds or has held such office. (7) Except as provided in subsection (2) of this section, the functions of the Governor-General under this section shall be exercised by him in accordance with the advice of the Prime Minister.
 ###### Appointments etc. to particular offices
-127 .-(1) Power to make appointments to the offices to which this section applies control over persons holding or acting in such offices is vested in the Governor-General,
-
-(including power to confirm appointments) and to remove and to exercise disciplinary acting in accordance with the advice of the Prime Minister tendered after the Prime Minister has consulted the Public Service Commission.
+127. -(1) Power to make appointments to the offices to which this section applies (including power to confirm appointments) and to remove and to exercise disciplinary control over persons holding or acting in such offices is vested in the Governor-General, acting in accordance with the advice of the Prime Minister tendered after the Prime Minister has consulted the Public Service Commission.
 
 [[END OF PAGE 114]]
 
@@ -2036,17 +2494,15 @@ any other cause) or for misbehaviour and shall not be so removed except in accor
 
 [[START OF PAGE 116]]
 
-(4) A person to whom this section applies shall be removed from office by the GovernorGeneral if the question of his removal from office has been referred to a tribunal appointed under subsection (5) of this section and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or
-
-for misbehaviour. (5) If the Governor-General considers that the question of removing a person to whom this section applies from office for inability as aforesaid or for misbehaviour ought to be investigated, or if the Prime Minister represents to the Governor-General that that question ought to be investigated, then (a) the Governor-General shall appoint a tribunal, which shall consist of a Chairman who is a person who holds or has held high judicial office in some part of the Commonwealth, and not less than two other members; and (b) the tribunal shall inquire into the matter and report on the facts thereof to the Governor-General and recommend to the Governor-General whether the person ought to be removed from office for inability as aforesaid or for misbehaviour. (6) If the question of removing a person to whom this section applies has been referred to a tribunal under subsection (5) of this section, the Governor-General may suspend the person from performing the functions of his office, and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the tribunal recommends to the Governor-General that the person should not be removed. (7) Except as provided in subsection (4) of this section, the functions of the GovernorGeneral under this section shall be exercised by him (a) in relation to the office of Auditor-General, in accordance with the advice of the Public Service Commission; (b) in relation to the office of Director of Public Prosecutions or Public Solicitor, in accordance with the advice of the Judicial and Legal Service Commission; and (c) in relation to the office of Commissioner of Police, in his own deliberate judgment.
+(4) A person to whom this section applies shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under subsection (5) of this section and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehaviour. (5) If the Governor-General considers that the question of removing a person to whom this section applies from office for inability as aforesaid or for misbehaviour ought to be investigated, or if the Prime Minister represents to the Governor-General that that question ought to be investigated, then - (a) the Governor-General shall appoint a tribunal, which shall consist of a Chairman who is a person who holds or has held high judicial office in some part of the Commonwealth, and not less than two other members; and (b) the tribunal shall inquire into the matter and report on the facts thereof to the Governor-General and recommend to the Governor-General whether the person ought to be removed from office for inability as aforesaid or for misbehaviour. (6) If the question of removing a person to whom this section applies has been referred to a tribunal under subsection (5) of this section, the Governor-General may suspend the person from performing the functions of his office, and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the tribunal recommends to the Governor-General that the person should not be removed. (7) Except as provided in subsection (4) of this section, the functions of the Governor-General under this section shall be exercised by him - (a) in relation to the office of Auditor-General, in accordance with the advice of the Public Service Commission; (b) in relation to the office of Director of Public Prosecutions or Public Solicitor, in accordance with the advice of the Judicial and Legal Service Commission; and (c) in relation to the office of Commissioner of Police, in his own deliberate judgment.
 
 [[END OF PAGE 116]]
 
 [[START OF PAGE 117]]
 
-- The provisions of this section shall not apply in relation to a person appointed to act in any office referred to in subsection (1) of this section during any period when that office is vacant or the holder thereof is unable to perform the functions of his office; and the appointment of such a person may be revoked by the Governor-General at any time before the expiration of that period.
+(8) The provisions of this section shall not apply in relation to a person appointed to act in any office referred to in subsection (1) of this section during any period when that office is vacant or the holder thereof is unable to perform the functions of his office; and the appointment of such a person may be revoked by the Governor-General at any time before the expiration of that period.
 
-(a) Nothing in this section shall prevent the appointment of a person who is not a citizen of Solomon Islands to any office to which this section applies for a term of years. (b) A person appointed to an office to which this section applies under this subsection shall cease to hold office on the expiration of the term for which he was appointed but shall otherwise be removed from office only in accordance with the provisions of this section.
+(9) (a) Nothing in this section shall prevent the appointment of a person who is not a citizen of Solomon Islands to any office to which this section applies for a term of years. (b) A person appointed to an office to which this section applies under this subsection shall cease to hold office on the expiration of the term for which he was appointed but shall otherwise be removed from office only in accordance with the provisions of this section.
 
 ###### Applicability of pensions law
 
@@ -2068,11 +2524,9 @@ for misbehaviour. (5) If the Governor-General considers that the question of rem
 
 ###### Grant and withholding of pensions etc.
 
-132. -(1) The power to grant any award under any pensions law for the time being in force in Solomon Islands (other than an award to which, under that law, the person to whom it is payable is entitled as of right) and, in accordance with any provisions in that behalf in any such law, to withhold, reduce in amount or suspend any award payable under any
+132. -(1) The power to grant any award under any pensions law for the time being in force in Solomon Islands (other than an award to which, under that law, the person to whom it is payable is entitled as of right) and, in accordance with any provisions in that behalf in any such law, to withhold, reduce in amount or suspend any award payable under any such law shall vest in the Governor-General.
 
-such law shall vest in the Governor-General. been a public officer, was, immediately before the date on which he ceased to hold public
-
-(2) The power vested in the Governor-General by subsection (1) of this section shall be exercised by him (a) in the case of an award payable in respect of the services of any person who, having office; serving as a judge of the High Court or the Court of Appeal, or Commissioner of Police, in his own deliberate judgment;
+(2) The power vested in the Governor-General by subsection (1) of this section shall be exercised by him - (a) in the case of an award payable in respect of the services of any person who, having been a public officer, was, immediately before the date on which he ceased to hold public office; serving as a judge of the High Court or the Court of Appeal, or Commissioner of Police, in his own deliberate judgment;
 
 [[END OF PAGE 118]]
 
@@ -2088,13 +2542,13 @@ such law shall vest in the Governor-General. been a public officer, was, immedia
 
 133. -(1) Any reference in this Constitution to power to make appointments to any public office shall be construed as including a reference to power to make appointments on promotion and transfer to that office and to power to appoint a person to act in that office during any period during which it is vacant or the holder thereof is unable to perform the functions of that office.
 
-(2) In this Constitution, unless the context otherwise requires, a reference to the holder of an office by the term designating his office shall be construed as including a reference to any person who is for the time being lawfully acting in or performing the functions of that office. an office if the holder thereof is unable to perform the functions of that office, the validity
+(2) In this Constitution, unless the context otherwise requires, a reference to the holder of an office by the term designating his office shall be construed as including a reference to any person who is for the time being lawfully acting in or performing the functions of that office.
 
 [[END OF PAGE 119]]
 
 [[START OF PAGE 120]]
 
-(3) Where by this Constitution any person is directed, or power is conferred on any person or authority to appoint a person, to act in or otherwise to perform the functions of of any performance of those functions by the person so directed or of any appointment made in exercise of that power shall not be called in question in any court on the ground that the holder of the office is not unable to perform the functions of the office.
+(3) Where by this Constitution any person is directed, or power is conferred on any person or authority to appoint a person, to act in or otherwise to perform the functions of an office if the holder thereof is unable to perform the functions of that office, the validity of any performance of those functions by the person so directed or of any appointment made in exercise of that power shall not be called in question in any court on the ground that the holder of the office is not unable to perform the functions of the office.
 
 ###### Reappointments and concurrent appointments
 
@@ -2171,23 +2625,33 @@ of this Constitution as they apply in relation to a Commission established by th
 
 [[START OF PAGE 126]]
 
-1 of 1983, Sch.
-
-"Parliament" means the National Parliament of Solomon Islands established by this Constitution; "the Police Force" means the Solomon Islands Police Force; "prescribed" means prescribed in a law: Provided that (a) in relation to anything that may be prescribed only by Parliament, it means prescribed in an Act of Parliament; and (b) in relation to anything that may be prescribed only by some other specified person or authority, it means prescribed in an order made by that other person or authority; "the Prisons Service" means the Solomon Islands Prisons Service; "provincial government officer" means a person holding or acting in any office of emolument in the service of a provincial government authority; "public office" means, subject to the provisions of the next following section, an office of emolument in the public service; "public officer" means a person holding or acting in any public office; "public service" means the service of the Crown in a civil capacity in respect of the government of Solomon Islands; "session" means the sittings of Parliament commencing when Parliament first meets after its prorogation or dissolution at any time and ending when Parliament is prorogued or dissolved without having been prorogued; "sitting" means, in relation to Parliament, a period during which Parliament sits without adjournment and includes any period during which Parliament is in committee; "Solomon Islands" means the territory which immediately before Independence Day constituted the territory under Her Majesty's protection known as the Solomon Islands; "the Speaker" means the Speaker of Parliament. (2) The provisions referring to Her Majesty shall extend to Her Majesty's Heirs and Successors in the sovereignty of the United Kingdom of Great Britain and Northern Ireland.
+"Parliament" means the National Parliament of Solomon Islands established by this Constitution; "the Police Force" means the Solomon Islands Police Force; "prescribed" means prescribed in a law: Provided that - (a) in relation to anything that may be prescribed only by Parliament, it means prescribed in an Act of Parliament; and (b) in relation to anything that may be prescribed only by some other specified person or authority, it means prescribed in an order made by that other person or authority; "the Prisons Service" means the Solomon Islands Prisons Service;
+LN 1 of 1983, Sch.
+"provincial government officer" means a person holding or acting in any office of emolument in the service of a provincial government authority; "public office" means, subject to the provisions of the next following section, an office of emolument in the public service; "public officer" means a person holding or acting in any public office; "public service" means the service of the Crown in a civil capacity in respect of the government of Solomon Islands; "session" means the sittings of Parliament commencing when Parliament first meets after its prorogation or dissolution at any time and ending when Parliament is prorogued or dissolved without having been prorogued; "sitting" means, in relation to Parliament, a period during which Parliament sits without adjournment and includes any period during which Parliament is in committee; "Solomon Islands" means the territory which immediately before Independence Day constituted the territory under Her Majesty's protection known as the Solomon Islands; "the Speaker" means the Speaker of Parliament. (2) The provisions referring to Her Majesty shall extend to Her Majesty's Heirs and Successors in the sovereignty of the United Kingdom of Great Britain and Northern Ireland.
 
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
 
-(3) Save as otherwise provided in this Constitution, the Interpretation Act 1889( a ) shall apply, with the necessary adaptations, for the purpose of interpreting this Constitution, and otherwise in relation thereto, as it applies for the purpose of interpreting, and in relation to, Acts of the Parliament of the United Kingdom.
+(3) Save as otherwise provided in this Constitution, the Interpretation Act 1889(a) shall apply, with the necessary adaptations, for the purpose of interpreting this Constitution, and otherwise in relation thereto, as it applies for the purpose of interpreting, and in relation to, Acts of the Parliament of the United Kingdom.
 
-( a ) 1889 c.63
+(a) 1889 c.63
 
 ###### References to public office, etc.
 
-145. -(1) In this Constitution the expression "public office" shall be construed (a) as including the office of any judge of the High Court or the Court of Appeal and the office of member of any other court of law in Solomon Islands, unless the context otherwise requires; (b) as not including (i) the office of any Minister, Leader of the Official Opposition, Leader of the Independent Members, Speaker or member of Parliament; or (ii) the office of member of any Commission established by this Constitution or of the Committee on the Prerogative of Mercy. (2) For the purposes of this Constitution a person shall not be treated as holding, or acting in, a public office by reason only that he 1 of 1983, Sch (a) is on leave of absence pending relinquishment of a public office, or is on leave of absence without salary from a public office; (b) is receiving a pension or other like allowance from the Crown; (c) is a special constable or a retired or reserve member of Her Majesty's forces; (d) is an officer of the government of Honiara city; (dd) is a provincial government officer; or (e) is the holder of an office in the service or appointment of the Crown, or is performing
-
-- any functions on behalf of the Crown, if the only payments he receives in respect of that
+145. -(1) In this Constitution the expression "public office" shall be construed -
+(a) as including the office of any judge of the High Court or the Court of Appeal and the office of member of any other court of law in Solomon Islands, unless the context otherwise requires;
+(b) as not including -
+(i) the office of any Minister, Leader of the Official Opposition, Leader of the Independent Members, Speaker or member of Parliament; or
+(ii) the office of member of any Commission established by this Constitution or of the Committee on the Prerogative of Mercy.
+(2) For the purposes of this Constitution a person shall not be treated as holding, or acting in, a public office by reason only that he -
+(a) is on leave of absence pending relinquishment of a public office, or is on leave of absence without salary from a public office;
+(b) is receiving a pension or other like allowance from the Crown;
+(c) is a special constable or a retired or reserve member of Her Majesty's forces;
+(d) is an officer of the government of Honiara city;
+LN 1 of 1983, Sch.
+(dd) is a provincial government officer; or
+(e) is the holder of an office in the service or appointment of the Crown, or is performing any functions on behalf of the Crown, if the only payments he receives in respect of that
 
 [[END OF PAGE 127]]
 
@@ -2207,14 +2671,14 @@ Sections 29, 39, 63 and 141
 
 ###### 1. Oath of Allegiance
 
-I, ..................., do swear [ or solemnly affirm] that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth II, Her Heirs and Successors, according to law. [So help me God.]
+I, ..................., do swear [or solemnly affirm] that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth II, Her Heirs and Successors, according to law. [So help me God.]
 
-###### Oath for the due execution of the office of Governor-General
+###### 2. Oath for the due execution of the office of Governor-General
 
-I, ...................., do swear [ or solemnly affirm] that I will well and truly serve Her Majesty Queen Elizabeth II, Her Heirs and Successors, in the office of Governor-General of Solomon Islands. [So help me God.]
+I, ...................., do swear [or solemnly affirm] that I will well and truly serve Her Majesty Queen Elizabeth II, Her Heirs and Successors, in the office of Governor-General of Solomon Islands. [So help me God.]
 
 ###### 3. Oath for the due execution of the office of member of the Cabinet.
-I, ....................., being a member of the Cabinet, do swear [ or solemnly affirm] that I will to the best of my judgment, at all times when so required, freely give my counsel and advice to the Governor-General of Solomon Islands (or any other person for the time being lawfully performing the functions of that office) for the good management of the public affairs of Solomon Islands, and I do further swear [ or solemnly affirm] that I will not on any account, at any time whatsoever, disclose the counsel, advice, opinion or vote of any particular member of the Cabinet, and that I will not, except with the authority of the Cabinet and to such extent as may be required for the good management of the affairs
+I, ....................., being a member of the Cabinet, do swear [or solemnly affirm] that I will to the best of my judgment, at all times when so required, freely give my counsel and advice to the Governor-General of Solomon Islands (or any other person for the time being lawfully performing the functions of that office) for the good management of the public affairs of Solomon Islands, and I do further swear [or solemnly affirm] that I will not on any account, at any time whatsoever, disclose the counsel, advice, opinion or vote of any particular member of the Cabinet, and that I will not, except with the authority of the Cabinet and to such extent as may be required for the good management of the affairs
 
 [[END OF PAGE 128]]
 
@@ -2224,22 +2688,22 @@ of Solomon Islands, directly or indirectly reveal the business or proceedings of
 
 ______
 
+Section 33(1)
+
 #### SCHEDULE 2 TO THE CONSTITUTION
 ##### ELECTION OF PRIME MINISTER
 
 ###### Calling of election meeting
 
-1. As soon as possible after a general election of members of Parliament, or whenever there is a vacancy in the office of Prime Minister, the Governor-General shall convene a meeting of members for the purpose of electing a Prime Minister by issuing to each member a notice stating(a) the date, place and time of the election meeting; (b) the place at and the date and time on which nomination papers are to be delivered to the Governor-General which time shall be not later than four days before the date
-
-appointed for the election meeting.
+1. As soon as possible after a general election of members of Parliament, or whenever there is a vacancy in the office of Prime Minister, the Governor-General shall convene a meeting of members for the purpose of electing a Prime Minister by issuing to each member a notice stating-
+(a) the date, place and time of the election meeting;
+(b) the place at and the date and time on which nomination papers are to be delivered to the Governor-General which time shall be not later than four days before the date appointed for the election meeting.
 
 ###### List of candidates
 
 2. A list specifying all candidates nominated and their respective nominators shall be submitted by or by direction of the Governor-General to each member prior to the election meeting.
 
 ###### Candidature
-
-Section 33(1)
 
 [[END OF PAGE 129]]
 
@@ -2249,29 +2713,36 @@ Section 33(1)
 
 (3) Any candidate may withdraw his candidature at any time before the conclusion of the election.
 ###### Election may be countermanded or suspended
-4. If, at any stage of the election, a candidate dies or in the opinion of the GovernorGeneral is seriously incapacitated, or if for any other reason the election in the opinion of the Governor-General cannot or is unlikely to be successfully completed in accordance with paragraph 7 of this Schedule, the Governor-General may either(a) countermand the election in which case the electoral procedure shall be commenced de novo ; or (b) suspend the election proceedings until some later time or day.
+4. If, at any stage of the election, a candidate dies or in the opinion of the Governor-General is seriously incapacitated, or if for any other reason the election in the opinion of the Governor-General cannot or is unlikely to be successfully completed in accordance with paragraph 7 of this Schedule, the Governor-General may either-
+(a) countermand the election in which case the electoral procedure shall be commenced de novo; or
+(b) suspend the election proceedings until some later time or day.
 ###### Method of voting
 5. -(1) The election shall be by secret ballot. (2) Each member shall have only one vote at the first and at each subsequent ballot, if any, held in accordance with paragraph 7 of this Schedule.
 ###### Conduct of meeting
--(1) The election meeting shall be presided over and the election conducted by the
+6. -(1) The election meeting shall be presided over and the election conducted by the Governor-General.
 
-6. Governor-General.
-
-- The Governor-General may for the purpose of counting votes and for any other
+(2) The Governor-General may for the purpose of counting votes and for any other
 
 [[END OF PAGE 130]]
 
 [[START OF PAGE 131]]
 
-- purpose relating to the conduct of the election enlist the assistance of such number of public officers as he shall consider necessary. (3) No person other than the Governor-General, a member, or a public officer whose assistance is enlisted under the preceding sub-paragraph shall be present at an election meeting.
+purpose relating to the conduct of the election enlist the assistance of such number of public officers as he shall consider necessary.
+(3) No person other than the Governor-General, a member, or a public officer whose assistance is enlisted under the preceding sub-paragraph shall be present at an election meeting.
 ###### Voting procedure
-7. -(1) If any candidate should at any ballot receive an absolute majority of votes he shall thereby be elected Prime Minister. (2) If no candidate should receive an absolute majority of votes at the first ballot a further ballot shall be held wherein(a) the candidate who received fewest votes at the first ballot shall thereby be eliminated; or (b) if there is a tie between two or more candidates for the fewest number of votes received at the first ballot, the Governor-General shall decide by lot which one of such candidates shall be eliminated. (3) If in a second ballot no candidate should receive an absolute majority of votes, subject to subparagraph (5) of this paragraph, further ballots shall be held until one candidate receives an absolute majority of votes. (4) The procedure specified in subparagraphs (1) and (2) of this paragraph relating to the first and second ballots shall apply in relation to subsequent ballots. (5) If, after one or more ballots, all candidates save two have been eliminated, only one further ballot shall be conducted to decide the election between these two candidates at which the candidate receiving the greater number of votes shall be elected Prime Minister.
+7. -(1) If any candidate should at any ballot receive an absolute majority of votes he shall thereby be elected Prime Minister.
+(2) If no candidate should receive an absolute majority of votes at the first ballot a further ballot shall be held wherein-
+(a) the candidate who received fewest votes at the first ballot shall thereby be eliminated; or
+(b) if there is a tie between two or more candidates for the fewest number of votes received at the first ballot, the Governor-General shall decide by lot which one of such candidates shall be eliminated.
+(3) If in a second ballot no candidate should receive an absolute majority of votes, subject to subparagraph (5) of this paragraph, further ballots shall be held until one candidate receives an absolute majority of votes.
+(4) The procedure specified in subparagraphs (1) and (2) of this paragraph relating to the first and second ballots shall apply in relation to subsequent ballots.
+(5) If, after one or more ballots, all candidates save two have been eliminated, only one further ballot shall be conducted to decide the election between these two candidates at which the candidate receiving the greater number of votes shall be elected Prime Minister.
 
 [[END OF PAGE 131]]
 
 [[START OF PAGE 132]]
 
-(6) If the ballot conducted in accordance with the preceding subparagraph results in a tie between the two candidates, one further ballot shall be conducted to decide the election between these two candidates and if there is a tie between them again, the GovernorGeneral shall countermand the election and the election procedure shall be commenced de novo .
+(6) If the ballot conducted in accordance with the preceding subparagraph results in a tie between the two candidates, one further ballot shall be conducted to decide the election between these two candidates and if there is a tie between them again, the Governor-General shall countermand the election and the election procedure shall be commenced de novo.
 
 (7) No ballot shall be held within a period of less than six hours after the conclusion of the preceding ballot.
 
@@ -2281,7 +2752,8 @@ Section 33(1)
 
 ###### Notification of result
 
-9. Upon the election of a Prime Minister, the Governor-General shall cause that fact and the identity of the Prime Minister(a) to be made known to the public in such manner as to him may seem appropriate; and
+9. Upon the election of a Prime Minister, the Governor-General shall cause that fact and the identity of the Prime Minister-
+(a) to be made known to the public in such manner as to him may seem appropriate; and
 
 (b) to be published as soon as may be in the Gazette.
 
@@ -2299,23 +2771,32 @@ Section 33(1)
 
 ______
 
+Section 76
+
 #### SCHEDULE 3 TO THE CONSTITUTION
 
 ##### APPLICATION OF LAWS
 
-1. Subject to this Constitution and to any Act of Parliament, the Acts of the Parliament of the United Kingdom of general application and in force on 1st January 1961 shall have effect as part of the law of Solomon Islands, with such changes to names, titles, offices, persons and institutions, and as to such other formal and non-substantive matters, as may be necessary to facilitate their application to the circumstances of Solomon Islands from
-
-time to time. 2. -(1) Subject to this paragraph, the principles and rules of the common law and equity shall have effect as part of the law of Solomon Islands, save in so far as:(a) they are inconsistent with this Constitution or any Act of Parliament; (b) they are inapplicable to or inappropriate in the circumstances of Solomon Islands from time to time; or (c) in their application to any particular matter, they are inconsistent with customary law applying in respect of that matter. (2) The principles and rules of the common law and equity shall so have effect notwithstanding any revision of them by any Act of the Parliament of the United
-
-Kingdom which does not have effect as part of the law of Solomon Islands.
-
-Section 76
+1. Subject to this Constitution and to any Act of Parliament, the Acts of the Parliament of the United Kingdom of general application and in force on 1st January 1961 shall have effect as part of the law of Solomon Islands, with such changes to names, titles, offices, persons and institutions, and as to such other formal and non-substantive matters, as may be necessary to facilitate their application to the circumstances of Solomon Islands from time to time.
+2. -(1) Subject to this paragraph, the principles and rules of the common law and equity shall have effect as part of the law of Solomon Islands, save in so far as:-
+(a) they are inconsistent with this Constitution or any Act of Parliament;
+(b) they are inapplicable to or inappropriate in the circumstances of Solomon Islands from time to time; or
+(c) in their application to any particular matter, they are inconsistent with customary law applying in respect of that matter.
+(2) The principles and rules of the common law and equity shall so have effect notwithstanding any revision of them by any Act of the Parliament of the United Kingdom which does not have effect as part of the law of Solomon Islands.
 
 [[END OF PAGE 133]]
 
 [[START OF PAGE 134]]
 
-3. -(1) Subject to this paragraph, customary law shall have effect as part of the law of Solomon Islands. (2) The preceding subparagraph shall not apply in respect of any customary law that is, and to the extent that it is, inconsistent with this Constitution or an Act of Parliament. (3) An Act of Parliament may:(a) provide for the proof and pleading of customary law for any purpose; (b) regulate the manner in which or the purposes for which customary law may be recognised; and (c) provide for the resolution of conflicts of customary law. 4. -(1) No court of Solomon Islands shall be bound by any decision of a foreign court given on or after 7th July 1978. (2) Subject to the preceding provisions of this Schedule or any provision in that regard made by Parliament, the operation in Solomon Islands of the doctrine of judicial precedent shall be regulated by practice directions given by the Chief Justice. 5.
+3. -(1) Subject to this paragraph, customary law shall have effect as part of the law of Solomon Islands.
+(2) The preceding subparagraph shall not apply in respect of any customary law that is, and to the extent that it is, inconsistent with this Constitution or an Act of Parliament.
+(3) An Act of Parliament may:-
+(a) provide for the proof and pleading of customary law for any purpose;
+(b) regulate the manner in which or the purposes for which customary law may be recognised; and
+(c) provide for the resolution of conflicts of customary law.
+4. -(1) No court of Solomon Islands shall be bound by any decision of a foreign court given on or after 7th July 1978.
+(2) Subject to the preceding provisions of this Schedule or any provision in that regard made by Parliament, the operation in Solomon Islands of the doctrine of judicial precedent shall be regulated by practice directions given by the Chief Justice.
+5.
 
 The provisions of this Schedule are without prejudice to the provisions of section 5 of the Order to which the Constitution is scheduled.
 
