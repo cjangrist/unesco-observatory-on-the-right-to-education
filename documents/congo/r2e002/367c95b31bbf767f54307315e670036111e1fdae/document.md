@@ -24,34 +24,83 @@ Brazzaville, novembre  2002
 
 ## SOMMAIRE
 
-3
-
-5
-
-6
-
-8
-
-8
-
-8
-
-8
-
-9
-
-9
-
-9
-
-30
-
+Page
+Sommaire 3
+Sigles et abréviations 5
+Introduction 6
+CHAPITRE I : PRESENTATION DU CONGO 8
+1 Données sur le milieu physique 8
+1.1. Situation et limites 8
+1.2. Climat et végétation 8
+1.3. Réseau hydraulique et sols 9
+2 Aspects démographiques 9
+3 Cadre institutionnel 9
+4 Organisation administrative 10
+5 Principales tendances économiques 10
+5.1. Secteur primaire 10
+5.2. Secteur secondaire 11
+5.3. Secteur tertiaire 12
+5.4 Monnaie et crédit 13
+5.5 Evolution des finances publiques 13
+5.6 Evolution de la balance de paiements 13
+6 Principales contraintes de développement 13
+6.1 Contraintes économiques et financières 14
+6.2 Contraintes sociales 14
+6.3 Contraintes institutionnelles et organisationnelles 14
+6.4 Contraintes liées au financement de l'éducation 15
+CHAPITRE II: DESCRIPTION DU SYSTEME EDUCATIF 16
+1 Cadre juridique, organisation, structure, gestion et financement 16
+1.1. Cadre juridique 16
+1.2 Organisation 16
+1.3 Structure 17
+1.4 Gestion 17
+1.5 Financement 18
+CHAPITRE III: DIAGNOSTIC DU SYSTEME EDUCATIF 19
+1 L'éducation formelle 19
+1.1 Le développement de la petite enfance 19
+1.2 L'enseignement primaire 21
+1.3 L'enseignement secondaire général 23
+1.4 L'enseignement technique et professionnel 25
+1.5 L'enseignement privé 26
+2 L'éducation non formelle 27
+2.1 L'alphabétisation 27
+2.2 L'éducation qualifiante des jeunes et des adultes 28
+3 Le financement de l'éducation 28
+3.1 Les dépenses d'éducation 29
+3.2 Les sources de financement 29
+3.3 La répartition des dépenses 29
+4 La gestion du système éducatif 30
+4.1 Le secteur formel 30
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+4.2 Le secteur non formel 31
+CHAPITRE IV: PRINCIPES DIRECTEURS DU PLAN NATIONAL D'ACTION ET
+STRATETGIES DE DEVELOPPEMENT DE L'EDUCATION DE BASE 32
+1 Principes directeurs du plan national d'action 32
+1.1 La diversification et l'amélioration de l'offre d'éducation 32
+1.2 La décentralisation ou la déconcentration renforcée 32
+1.3 Le renforcement des partenariats 32
+1.4 L'éducation de qualité pour tous (égalité et équité) 32
+1.5. L'amélioration de l'enseignement dispensé (qualité) 32
+1.61 La gestion transparente et efficiente (responsabilité) 33
+2 Orientations générales du plan d'action 33
+3 Stratégies de développement de l'éducation de base 34
+3.1. Les stratégies globales 34
+3.2 Les stratégies spécifiques 35
+4.6 Plan d'actions 39
+4.1 Le développement de la petite enfance 39
+4.2 L'enseignement primaire 47
+4.3 L'éducation non formelle 60
+4.4 L'éducation des filles dans l'enseignement primaire et secondaire 65
+4.5 L'éducation qualifiante des jeunes et des adultes 70
+4.6 Tableau récapitulatif du budget par sous secteur et par composante 77
+4.7 La mise en œuvre, le suivi et l'évaluation du plan 78
+Conclusion 80
+Bibliographie 81
 4
 
 [[END OF PAGE 4]]
@@ -96,13 +145,13 @@ Le processus de l'élaboration du plan national  d'action  de  l'éducation  pou
 
 Dans ce plan, il est d'abord procédé à un état des lieux de chaque sous secteur concerné par l'éducation de base, du financement et de la gestion  du système éducatif. Par la suite, des orientations stratégiques globales et spécifiques ont été retenues suivies du plan d'actions à mener pour atteindre les  objectifs  de  l'éducation  pour  tous  de  2003  à  2015.  En  définitive,  le  plan    national  d'action  de l' éducation pour tous du Congo est structuré  en quatre chapitres  qui se présentent ainsi qu'il suit :
 
-- Présentation du Congo ;
+1. Présentation du Congo ;
 
-- Description du secteur éducatif ;
+2. Description du secteur éducatif ;
 
-- Diagnostic du système éducatif ;
+3. Diagnostic du système éducatif ;
 
-- Principes directeurs du plan national d'action et stratégies de développement de l'éducation de base.
+4. Principes directeurs du plan national d'action et stratégies de développement de l'éducation de base.
 
 De nombreuses difficultés ont été rencontrées dans l'élaboration de ce plan. En premier lieu les contraintes  liées  à  l'information  et  à  la  communication.  Le  deuxième  type  de  contrainte  a  été  le l'insuffisance  des  compétences  nationales  dans  le  domaine  de  l'analyse    et  de  la  formulation  des politiques.  La  préparation  de  ce  plan  a  souffert  du  manque  de  personnel  spécialisé  notamment  en modèle de simulation. En troisième lieu, il faut noter les contraintes d'ordre financier caractérisées par la faiblesse de l'appui aussi bien au niveau national que des partenaires extérieurs.
 
@@ -122,7 +171,7 @@ Les membres de la commission chargé de l'élaboration du plan national d'action
 
 #### 1.1.SITUATION ET LIMITES
 
-Bordée par l'Océan Atlantique sur une longueur de 170 km, la République du Congo est un pays  d'Afrique  Centrale  dont  la  situation  géographique  lui  confère  un  rôle  stratégique  dans  la  sousrégion. Placé au cœur du continent africain, à cheval sur l'équateur, ce pays s'étend sur 342.000 Km 2 . Il est limité au nord par le Cameroun et la République Centrafricaine, au sud par l'Angola (avec l'enclave du Cabinda), à l'est par la République Démocratique du Congo dont il est séparé par le fleuve Congo et son  affluent  l'Oubangui,  enfin  à  l'ouest  par  le  Gabon  et  l'Océan  Atlantique.  Il  convient  en  outre  de souligner que bien que n'étant pas présent  à la Convention de Montego-Bay (1982) sur le nouveau droit de la mer, le Congo revendique une Zone Economique Exclusive (ZEE) d'une superficie de 62.900 Km 2 sur laquelle il entend exercer sa souveraineté tant sur les ressources biologiques ou renouvelables,  les  ressources  halieutiques  notamment,  que  sur  les  ressources  minérales  ou  non renouvelables, dont le pétrole (essentiellement offshore).
+Bordée par l'Océan Atlantique sur une longueur de 170 km, la République du Congo est un pays  d'Afrique  Centrale  dont  la  situation  géographique  lui  confère  un  rôle  stratégique  dans  la  sous-région. Placé au cœur du continent africain, à cheval sur l'équateur, ce pays s'étend sur 342.000 Km 2 . Il est limité au nord par le Cameroun et la République Centrafricaine, au sud par l'Angola (avec l'enclave du Cabinda), à l'est par la République Démocratique du Congo dont il est séparé par le fleuve Congo et son  affluent  l'Oubangui,  enfin  à  l'ouest  par  le  Gabon  et  l'Océan  Atlantique.  Il  convient  en  outre  de souligner que bien que n'étant pas présent  à la Convention de Montego-Bay (1982) sur le nouveau droit de la mer, le Congo revendique une Zone Economique Exclusive (ZEE) d'une superficie de 62.900 Km 2 sur laquelle il entend exercer sa souveraineté tant sur les ressources biologiques ou renouvelables,  les  ressources  halieutiques  notamment,  que  sur  les  ressources  minérales  ou  non renouvelables, dont le pétrole (essentiellement offshore).
 
 Ce positionnement  naturel  fait  de  la  République  du  Congo  la  principale  porte  d'entrée  et  de sortie  de  l'Afrique  centrale,  ce  qui  lui  vaut  sa  vocation  de  pays  de  transit.  Ses  infrastructures  de transport facilitent, en effet, le passage des marchandises en provenance et à destination d'autres pays de la sous-région.
 
@@ -292,9 +341,11 @@ L'économie congolaise est caractérisée par une anisotropie tant sur le plan s
 
 #### 6.1.    CONTRAINTES ECONOMIQUES ET FINANCIERES
 
-- Les principales contraintes économiques et financières du développement du Congo sont : -un  système  productif  peu  dynamique  et  peu  diversifié,  qui  doit  faire  face  à  des contraintes  structurelles  énormes :  inefficacité  des  entreprises  publiques,  détérioration  des infrastructures  économiques,  faiblesse  des  capacités  managériales  et  manque  de  culture d'entreprise ; -un système productif fondé essentiellement sur l'exploitation du pétrole et du bois, faible créateur d'emplois formels générant un chômage structurel élevé ; -un système financier incapable de soutenir l'activité économique, en pleine restructuration, ce qui a rendu difficile sa privatisation ; un  endettement  extérieur  qui  représentait  323%  du  PIB  en  1999  et  394%  des exportations du pays plaçant les pouvoirs publics dans l'incapacité de payer régulièrement le service de la dette (estimé à près de 98,48% des recettes fiscales de l'Etat en 1999) et de
-
--dégager les ressources nécessaires à l'investissement.
+Les principales contraintes économiques et financières du développement du Congo sont :
+- un système productif peu dynamique et peu diversifié, qui doit faire face à des contraintes structurelles énormes : inefficacité des entreprises publiques, détérioration des infrastructures économiques, faiblesse des capacités managériales et manque de culture d'entreprise ;
+- un système productif fondé essentiellement sur l'exploitation du pétrole et du bois, faible créateur d'emplois formels générant un chômage structurel élevé ;
+- un système financier incapable de soutenir l'activité économique, en pleine restructuration, ce qui a rendu difficile sa privatisation ;
+- un endettement extérieur qui représentait 323% du PIB en 1999 et 394% des exportations du pays plaçant les pouvoirs publics dans l'incapacité de payer régulièrement le service de la dette (estimé à près de 98,48% des recettes fiscales de l'Etat en 1999) et de dégager les ressources nécessaires à l'investissement.
 
 #### 6.2.   CONTRAINTES SOCIALES
 
@@ -336,7 +387,7 @@ Le  financement  de  l'éducation  au  Congo  comme  dans  la  plupart  des  pay
 
 ## DESCRIPTION DU SYSTEME EDUCATIF
 
-### CADRE JURIDIQUE, ORGANISATION, STRUCTURE,  GESTION ET FINANCEMENT
+### 1. CADRE JURIDIQUE, ORGANISATION, STRUCTURE,  GESTION ET FINANCEMENT
 
 #### 1.1.  CADRE JURIDIQUE
 
@@ -432,9 +483,9 @@ Le Congo est l'un des pays le plus scolarisé du continent africain. A la fin de
 
 #### 1.1   LE DEVELOPPEMENT DE LA PETITE ENFANCE
 
-La petite enfance (0 à 8 ans)  est prise en charge dans les crèches pour les enfants de 0 à 3ans, les garderies d'enfants  ou les écoles maternelles publiques et privées pour les enfants de 3 à 5 ans. Les crèches existent exclusivement dans les deux grandes villes du Congo (Brazzaville et PointeNoire). Leur nombre est très insignifiant pour créer un quelconque impact dans l'environnement de la petite  enfance. Il  faut  noter  que  les  programmes d'éveil de la petite enfance se poursuivent jusqu'en troisième année du primaire.
+La petite enfance (0 à 8 ans)  est prise en charge dans les crèches pour les enfants de 0 à 3ans, les garderies d'enfants  ou les écoles maternelles publiques et privées pour les enfants de 3 à 5 ans. Les crèches existent exclusivement dans les deux grandes villes du Congo (Brazzaville et Pointe-Noire). Leur nombre est très insignifiant pour créer un quelconque impact dans l'environnement de la petite  enfance. Il  faut  noter  que  les  programmes d'éveil de la petite enfance se poursuivent jusqu'en troisième année du primaire.
 
-L'éducation préscolaire qui intéresse les enfants de 3 à 5 ans constitue le premier niveau du système éducatif. Sa finalité est de contribuer au plein épanouissement physique, intellectuel et affectif de l 'enfant et de le préparer  à s'adapter dans les meilleures conditions à l'enseignement primaire. Son accès  est  conditionné  par  le  paiement  des  frais  d'écolage  qui  ne  sont  pas  souvent  à  la  portée  des familles  peu    nanties.  Cette  situation  explique  probablement  le  développement  très  lent  de  cet enseignement  malgré  la  création  de  nombreux  centres  privés  ces  trois  dernières  années.  La  quasitotalité  de  ces  centres  existent  dans  les  grandes  villes  illustrant  ainsi  la  forte  disparité  entre  la  zone urbaine et la  zone rurale où l'on ne  compte parfois qu'un seul centre d'éducation préscolaire installé au chef-lieu de la région.
+L'éducation préscolaire qui intéresse les enfants de 3 à 5 ans constitue le premier niveau du système éducatif. Sa finalité est de contribuer au plein épanouissement physique, intellectuel et affectif de l 'enfant et de le préparer  à s'adapter dans les meilleures conditions à l'enseignement primaire. Son accès  est  conditionné  par  le  paiement  des  frais  d'écolage  qui  ne  sont  pas  souvent  à  la  portée  des familles  peu    nanties.  Cette  situation  explique  probablement  le  développement  très  lent  de  cet enseignement  malgré  la  création  de  nombreux  centres  privés  ces  trois  dernières  années.  La  quasi-totalité  de  ces  centres  existent  dans  les  grandes  villes  illustrant  ainsi  la  forte  disparité  entre  la  zone urbaine et la  zone rurale où l'on ne  compte parfois qu'un seul centre d'éducation préscolaire installé au chef-lieu de la région.
 
 En  2001,  le  Congo  compte    250    centres  d'éducation  préscolaire  dont  179  établissements privés soit 71,6%. L'ensemble de ces centres accueille 9 636 enfants dont 7 205 au privé soit 74,8%. Entre 1997 et 2001, les effectifs du préscolaire se sont en moyenne accrus de 27,0%  par an grâce à l'important apport du privé dans les deux principales villes du pays que sont Brazzaville et Pointe-Noire. Malgré la création de nombreux centres privés qui ont fait augmenter les effectifs, le taux d'admission au préscolaire se situe aux environs de 3%.
 
@@ -506,7 +557,7 @@ L'examen  des  effectifs  de  l'enseignement  primaire  entre  1990  et  2000  m
 L'analyse  du  taux  brut  de  scolarisation  de  1990  à  2000  se  caractérise  par  une  baisse relativement faible jusqu'en 1995 où il se situe entre 126,12 % et 114, %. A partir de 1996, ce taux décroît de manière plus prononcée pour chuter à 49,33% en 1999. Une amélioration est signalée en 2000 (72,68 %) avec la reprise de l'école sur toute l'étendue du territoire national. Cette situation illustre de manière éloquente la sensibilité de la contrainte stratégique que constitue la paix pour un pays. La transition des élèves du primaire vers le secondaire est appréciable. En effet, 84,63% d'élèves entrent en première année du secondaire 1 er  cycle.
 
 ###### Le réseau scolaire :
-En 2001, le Congo compte 2 495 écoles primaires dont 737 dans le secteur privé.  Plus  d'écoles  sont  implantées  en  zone  rurale  (1  570)  contre  925  en  zone  urbaine.  La  quasitotalité des écoles privées se trouve en zone urbaine (697 contre 40 en zone rurale). Du point de vue des  structures  d'accueil,  le  réseau  scolaire  du  Congo  se  singularise  par  la  vétusté  des  bâtiments scolaires  renforcée  par  l'absence  d'une  politique  d'entretien  du  patrimoine  bâti.  A  la  faveur  des opérations d'urgence entreprises après la guerre de 1998, des actions de réhabilitation des bâtiments scolaires ont été entreprises notamment à Brazzaville grâce aux efforts combinés du Gouvernement, des organisations non gouvernementales (ONG), de la coopération française, des sociétés pétrolières comme  ELF  Congo,  des  institutions  comme  l'UNICEF.  Ces  efforts  sont  à  poursuivre  car  le  besoin important de réhabilitation de salles  de classes, de blocs administratifs  et d'hygiène à travers tout le Congo se fait grandement sentir.
+En 2001, le Congo compte 2 495 écoles primaires dont 737 dans le secteur privé.  Plus  d'écoles  sont  implantées  en  zone  rurale  (1  570)  contre  925  en  zone  urbaine.  La  quasi-totalité des écoles privées se trouve en zone urbaine (697 contre 40 en zone rurale). Du point de vue des  structures  d'accueil,  le  réseau  scolaire  du  Congo  se  singularise  par  la  vétusté  des  bâtiments scolaires  renforcée  par  l'absence  d'une  politique  d'entretien  du  patrimoine  bâti.  A  la  faveur  des opérations d'urgence entreprises après la guerre de 1998, des actions de réhabilitation des bâtiments scolaires ont été entreprises notamment à Brazzaville grâce aux efforts combinés du Gouvernement, des organisations non gouvernementales (ONG), de la coopération française, des sociétés pétrolières comme  ELF  Congo,  des  institutions  comme  l'UNICEF.  Ces  efforts  sont  à  poursuivre  car  le  besoin important de réhabilitation de salles  de classes, de blocs administratifs  et d'hygiène à travers tout le Congo se fait grandement sentir.
 
 ###### Les  effectifs  scolaires :
 Au  titre  de  l'année  scolaire  2000-  2001,  les  effectifs  scolaires  se chiffrent  à  500  921  élèves  dont  241  654  filles  soit  48,24  %.  Ce  pourcentage  est  relativement  stable d'une année à l'autre. Cette population scolarisée se retrouve en majorité en zone urbaine avec 294 618  élèves  soit  58,81%  contre  206  303  élèves  en  zone  rurale.  Les  effectifs  des  filles  respectent  la même tendance     (145 956 en zone urbaine contre 95 698 en zone rurale). . Malgré l'essor du secteur privé ces dernières années, le secteur public demeure prédominant avec 410 656 élèves soit 81,98 % du total. Entre 1997 et 2001, ces effectifs se sont accrus en moyenne de 0,07% par an. Le caractère spécifiquement urbain de l'enseignement privé apparaît dans les effectifs avec 86 426 élèves contre 3 839 en zone rurale. Comme l'enseignement privé est payant, il est formellement démontré que ceux qui peuvent effectivement payer les études de leurs enfants sont en ville. D'une année à l'autre, les effectifs de l'enseignement primaire se sont en moyenne accrus de 3,8%.
@@ -653,10 +704,11 @@ Face  à  ce  diagnostic  qui  a  mis  en  évidence  l'état  désastreux  de  
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+technique a ainsi été ouvert à un nombre plus important de jeunes congolais demandeurs d'emplois avec l'intervention du secteur privé.
 
 #### 1.5   L'ENSEIGNEMENT PRIVE
 
-Après la nationalisation de l'enseignement en 1965, ce secteur a été de nouveau libéralisé par la  loi  n°  25/95  du  17  novembre  1995  portant  réorganisation  du  système  éducatif  en  République  du Congo.  En  effet,  l'article  1  alinéa  2  de  cette  loi  stipule  que  le  droit  de  créer  les  écoles  privées  est garantie, les écoles privées sont soumises à l'approbation de l'Etat et régies par la loi. Le décret n° 96211 du 13 mai 1996 portant réglementation de l'exercice privé de l'enseignement fixe les conditions de création  et  d'ouverture  des  établissements  scolaires  privés,  les  obligations  morales,  civiles,  sociales, administratives, pédagogiques et financières.
+Après la nationalisation de l'enseignement en 1965, ce secteur a été de nouveau libéralisé par la  loi  n°  25/95  du  17  novembre  1995  portant  réorganisation  du  système  éducatif  en  République  du Congo.  En  effet,  l'article  1  alinéa  2  de  cette  loi  stipule  que  le  droit  de  créer  les  écoles  privées  est garantie, les écoles privées sont soumises à l'approbation de l'Etat et régies par la loi. Le décret n° 96-211 du 13 mai 1996 portant réglementation de l'exercice privé de l'enseignement fixe les conditions de création  et  d'ouverture  des  établissements  scolaires  privés,  les  obligations  morales,  civiles,  sociales, administratives, pédagogiques et financières.
 
 Les établissements scolaires privés comme indiqué précédemment se retrouvent notamment dans les grands centres urbains comme Brazzaville, Pointe-Noire et Dolisie.  En 2001, le secteur privé au Congo compte 179 centres d'éducation préscolaire avec 7 205 élèves soit 74,8% de l'ensemble, 737 écoles primaires privées qui accueillent 90 265 élèves soit 18% du total.  La zone urbaine compte 96% du total  des    effectifs  du  primaire.  Il  convient  de  signaler  que  le  privé  laïc  est  prédominant  du préscolaire au secondaire avec des établissements appartenant  à des promoteurs privés. En effet, la libéralisation  de  l'offre  d'éducation  au  privé  s'est  traduite  par  une  prolifération  d'écoles  privées implantées de manière anarchique dans les centres urbains du fait qu'en milieu rural, les ménages n'ont pas  les  moyens  de  s'acquitter  des  frais  de  scolarité.  La  paupérisation  croissante  des  campagnes n'encourage    pas  l'installation  des  infrastructures  scolaires  privées  en  zone  rurale  où  l'on  note  la fermeture de nombreuses écoles publiques  faute d'enseignants.
 
@@ -678,13 +730,13 @@ Somme toute, le système éducatif congolais  qui est en proie à des difficult�
 
 [[START OF PAGE 27]]
 
-### L'EDUCATION  NON FORMELLE
+### 2. L'EDUCATION  NON FORMELLE
 
 #### 2.1.  L'ALPHABETISATION
 
 Le taux d'analphabétisme  de la population congolaise estimée en 1995 à  2 505 000 habitants est  de  24,9  % . La  population  analphabète  était  estimée  à  353.000  dont  239.000  femmes  Avec  la mauvaise  qualité de l'enseignement dispensé  dans  le système  formel, il est à craindre  que l'analphabétisme de retour vienne réduire les efforts fournis dans  le passé.
 
-L'alphabétisation  et  l'éducation  non  formelle  des  jeunes  et  des  adultes  ont  toujours  été  une préoccupation du Gouvernement et des institutions de la société civile bien que la scolarisation soit une priorité affirmée. Dans ce domaine, des progrès significatifs ont été réalisés et des pronostics favorables ont même été avancés. Cependant, il a été noté les difficultés à maîtriser les statistiques de ce soussecteur pour un bon pilotage à cause des données démographiques obsolètes.
+L'alphabétisation  et  l'éducation  non  formelle  des  jeunes  et  des  adultes  ont  toujours  été  une préoccupation du Gouvernement et des institutions de la société civile bien que la scolarisation soit une priorité affirmée. Dans ce domaine, des progrès significatifs ont été réalisés et des pronostics favorables ont même été avancés. Cependant, il a été noté les difficultés à maîtriser les statistiques de ce sous-secteur pour un bon pilotage à cause des données démographiques obsolètes.
 
 Au fil des années, suite à de nombreuses contraintes nées aussi bien des mesures drastiques des politiques d'ajustement structurel, de la dévaluation du franc CFA que des soubresauts consécutifs à l'entrée du pays dans l'ère de la démocratisation politique, tous les espoirs ont été déçus. Le constat devient  de  plus  alarmant  chaque  jour  qui  passe  avec  l'agression  des  nouvelles  technologies  de l'information et de la communication qui fait de nouvelles victimes. Le ralentissement des activités est manifeste. En 2001, la situation de l'alphabétisation au Congo se caractérise par :
 
@@ -716,11 +768,11 @@ Au fil des années, suite à de nombreuses contraintes nées aussi bien des mesu
 
 Face  à  cette  situation  préoccupante,  le  plan  d'action  national  de  l'éducation  pour  tous poursuivra trois objectifs qui sont :
 
-- réduire  les  taux  d'analphabétisme  en  amont  (analphabétisme  des  jeunes)  et  en aval (analphabétisme des adultes) ;
+1. réduire  les  taux  d'analphabétisme  en  amont  (analphabétisme  des  jeunes)  et  en aval (analphabétisme des adultes) ;
 
-- accroître  la  qualité  et  la  pertinence  de  l'alphabétisation  par  l'amélioration  de  la fonctionnalité  des  programmes,  la  production  des  matériels  didactiques  adéquats,  la formation des formateurs ;
+2. accroître  la  qualité  et  la  pertinence  de  l'alphabétisation  par  l'amélioration  de  la fonctionnalité  des  programmes,  la  production  des  matériels  didactiques  adéquats,  la formation des formateurs ;
 
-- renforcer la démarche  partenariale déjà engagée  d'une  part, les capacités institutionnelles et les mécanismes de coordination d'autre part.
+3. renforcer la démarche  partenariale déjà engagée  d'une  part, les capacités institutionnelles et les mécanismes de coordination d'autre part.
 
 27
 
@@ -864,7 +916,7 @@ Ce  secteur    qui  souffre  d'une  absence  de  stratégie  nationale  suscepti
 
 ## PRINCIPES DIRECTEURS DU PLAN NATIONAL D'ACTION ET STRATEGIES DE DEVELOPPEMENT DE L'EDUCATION DE BASE
 
-### PRINCIPES DIRECTEURS DU PLAN NATIONAL D'ACTION
+### 1. PRINCIPES DIRECTEURS DU PLAN NATIONAL D'ACTION
 
 Le plan national d'action du Congo repose sur les principes directeurs ci-après dont certains découlent de la loi 25-95 du 17 novembre 1995 modifiant la loi scolaire n° 08/90 du 6 septembre 1990 et portant réorganisation du système éducatif  en République du Congo.
 
@@ -879,10 +931,10 @@ La  centralisation  a montré  ses  limites  notamment  dans  la  gestion  du  s
 Devant  l'amenuisement  des  ressources financières allouées par l'Etat à l'éducation et compte tenu du rôle éminemment important joué par les associations des parents d'élèves d'une part  et de  l'émergence du mouvement associatif dans notre pays  d'autre  part,  le  partenariat  demeure  incontournable.  Le  Gouvernement  devra  en  conséquence mieux le développer en l'organisant de manière large et efficace de sorte que les ressources de toute nature disponibles chez les divers acteurs et partenaires puissent être investies mieux qu' avant dans le secteur éducatif.
 
 #### 1.4.  L'éducation de qualité pour tous (égalité et équité) :
-L'article 2 de la loi suscitée stipule que « Tout enfant vivant sur le territoire de la République du Congo a droit sans distinction d'origine, de nationalité, de sexe, de croyance, d'opinion ou de fortune  à une éducation qui lui assure le plein épanouissement  de ses aptitudes intellectuelles, artistiques, morales et physiques ainsi que sa formation  civique  et  intellectuelle ».    L'application  concrète  de  cette  disposition  générale  suppose la prise des mesures devant notamment promouvoir l'égalité et l'équité dans l'allocation des ressources, dans les questions liées au genre ou aux handicaps de toute nature, ainsi qu'une diversification des contenus des programmes en fonction des besoins et des possibilités des individus.
+L'article 2 de la loi sus-citée stipule que « Tout enfant vivant sur le territoire de la République du Congo a droit sans distinction d'origine, de nationalité, de sexe, de croyance, d'opinion ou de fortune  à une éducation qui lui assure le plein épanouissement  de ses aptitudes intellectuelles, artistiques, morales et physiques ainsi que sa formation  civique  et  intellectuelle ».    L'application  concrète  de  cette  disposition  générale  suppose la prise des mesures devant notamment promouvoir l'égalité et l'équité dans l'allocation des ressources, dans les questions liées au genre ou aux handicaps de toute nature, ainsi qu'une diversification des contenus des programmes en fonction des besoins et des possibilités des individus.
 
 #### 1.5.    L'amélioration  de    l'enseignement  dispensé (qualité)  :
-La qualité de l'éducation dépend de plusieurs facteurs. Elle résulte en effet de la maximisation des efforts de tous les intervenants directs et d'une bonne coordination de l'action de toutes les structures pour promouvoir à tous les niveaux une école d'excellence.  Il s'agit dans le cadre des projets d'école et d'établissement d'améliorer  tous  les  facteurs  de  qualité  afin  de  promouvoir  une  école  performante  où  tous  les apprenants sont aidés à réussir et aller aussi loin que possible dans les apprentissages. Pour ce faire, une  attention  particulière  sera  accordée  à  la  mise  en  place  des  programmes  scolaires  performants maîtrisés par des enseignants dont les compétences seront régulièrement renforcées par des stages de recyclage dans le cadre de la formation continue. Un bon dispositif d'évaluation et de rémédiation sera également  nécessaire avec la mise à disposition des manuels,  du matériel didactique  et du mobilier scolaire  pour  améliorer  les  conditions  de  travail  des  élèves  et  des  enseignants.  Il  faudra  par  ailleurs absolument veiller à la motivation des enseignants qui sont au cœur même de l'acte pédagogique.  La motivation du personnel enseignant  et d'encadrement devra être prise en compte afin de réunir toutes les conditions optimales d'une éducation de qualité.
+La qualité de l'éducation dépend de plusieurs facteurs. Elle résulte en effet de la maximisation des efforts de tous les intervenants directs et d'une bonne coordination de l'action de toutes les structures pour promouvoir à tous les niveaux une école d'excellence.  Il s'agit dans le cadre des projets d'école et d'établissement
 
 32
 
@@ -890,19 +942,27 @@ La qualité de l'éducation dépend de plusieurs facteurs. Elle résulte en effe
 
 [[START OF PAGE 33]]
 
+d'améliorer  tous  les  facteurs  de  qualité  afin  de  promouvoir  une  école  performante  où  tous  les apprenants sont aidés à réussir et aller aussi loin que possible dans les apprentissages. Pour ce faire, une  attention  particulière  sera  accordée  à  la  mise  en  place  des  programmes  scolaires  performants maîtrisés par des enseignants dont les compétences seront régulièrement renforcées par des stages de recyclage dans le cadre de la formation continue. Un bon dispositif d'évaluation et de rémédiation sera également  nécessaire avec la mise à disposition des manuels,  du matériel didactique  et du mobilier scolaire  pour  améliorer  les  conditions  de  travail  des  élèves  et  des  enseignants.  Il  faudra  par  ailleurs absolument veiller à la motivation des enseignants qui sont au cœur même de l'acte pédagogique.  La motivation du personnel enseignant  et d'encadrement devra être prise en compte afin de réunir toutes les conditions optimales d'une éducation de qualité.
+
 #### 1.6.  La gestion transparente et efficace (responsabilité) :
 
 L'amélioration des rendements scolaires passe aussi par une gestion rigoureuse des établissements scolaires. C'est ainsi que des dispositions devront être prises pour la responsabilisation aux  différents  niveaux  hiérarchiques  des  cadres  compétents  et  dévoués  avec  une  obligation  de résultats. La gestion transparente et efficace des ressources allouées au système seront des critères d'évaluation à ériger en principes de travail et en critères d'appréciation aux postes de  responsabilité
 
-### ORIENTATIONS GENERALES DU PLAN D'ACTION
+### 2. ORIENTATIONS GENERALES DU PLAN D'ACTION
 
 Un  certain  nombre  de  problèmes  relatifs  à  l'accès,  à  la  qualité  des  apprentissages,  à l'organisation et à la gestion  du système éducatif, à l'équipement,  à l'entretien des structures  ont été identifiés. Le Cadre d'action de Dakar a défini six objectifs pour permettre à tous les individus d'exercer leur droit d'apprendre et d'exercer leur responsabilité en contribuant au développement de la société. Ces objectifs se présentent comme suit :
 
-- développer et améliorer sous tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés ;
+i) développer et améliorer sous tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés ;
 
-- ii) faire  en  sorte  que  d'ici  2015  tous  les  enfants,  notamment  les  filles  et  les  enfants  en difficulté, aient la possibilité d'accéder à un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme ; iii) répondre aux besoins éducatifs de tous les jeunes en assurant un accès équitable à des programmes adéquats ayant pour objet l'acquisition de connaissances ainsi que de compétences nécessaires dans la vie courante ; iv) améliorer de 50% les niveaux d'alphabétisation des adultes, et notamment des femmes, d'ici 2015, et assurer à tous les adultes un accès équitable aux programmes d'éducation de base et d'éducation permanente ; v) éliminer les disparités entre les sexes dans l'enseignement primaire et secondaire d'ici 2005 et instaurer l'égalité dans ce domaine en 2015 en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base efficace et de qualité ; améliorer sous tous ses aspects la qualité de l'éducation de façon à obtenir pour tous les résultats  d'apprentissage  reconnus  et  quantifiables  notamment  en  ce  qui  concerne  la  lecture,
+ii) faire  en  sorte  que  d'ici  2015  tous  les  enfants,  notamment  les  filles  et  les  enfants  en difficulté, aient la possibilité d'accéder à un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme ;
 
-- vi) l'écriture et le calcul et les compétences indispensables dans la vie courante.
+iii) répondre aux besoins éducatifs de tous les jeunes en assurant un accès équitable à des programmes adéquats ayant pour objet l'acquisition de connaissances ainsi que de compétences nécessaires dans la vie courante ;
+
+iv) améliorer de 50% les niveaux d'alphabétisation des adultes, et notamment des femmes, d'ici 2015, et assurer à tous les adultes un accès équitable aux programmes d'éducation de base et d'éducation permanente ;
+
+v) éliminer les disparités entre les sexes dans l'enseignement primaire et secondaire d'ici 2005 et instaurer l'égalité dans ce domaine en 2015 en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base efficace et de qualité ;
+
+vi) améliorer sous tous ses aspects la qualité de l'éducation de façon à obtenir pour tous les résultats  d'apprentissage  reconnus  et  quantifiables  notamment  en  ce  qui  concerne  la  lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante.
 
 33
 
@@ -916,21 +976,21 @@ Un  certain  nombre  de  problèmes  relatifs  à  l'accès,  à  la  qualité  
 
 En  s'appuyant  sur  les  principes  directeurs  ci-dessus  énoncés,  la  stratégie  fondamentale    du plan national d'action est de rendre opérationnelle la volonté politique notamment par la mise en place d'un cadre permanent de formulation et de suivi de la politique éducative, de définition  des priorités et de mobilisation optimale des ressources nécessaires à la réalisation des objectifs de l'éducation pour tous. Six axes prioritaires ont été retenus :
 
-- améliorer l'équité et l'accès aux différentes formes  d'éducation de base et l'acquisition réelle des apprentissages ;
+1. améliorer l'équité et l'accès aux différentes formes  d'éducation de base et l'acquisition réelle des apprentissages ;
 
-- améliorer la qualité et l'efficacité interne de l'éducation à tous les niveaux ;
+2. améliorer la qualité et l'efficacité interne de l'éducation à tous les niveaux ;
 
-- améliorer  la  pertinence  des  contenus  et  les  adapter  constamment  aux  besoins socioculturels ;
+3. améliorer  la  pertinence  des  contenus  et  les  adapter  constamment  aux  besoins socioculturels ;
 
-- renforcer  le  système  de  collecte  des  données  statistiques  et  de  connaissances  des besoins réels du système d'éducation ;
+4. renforcer  le  système  de  collecte  des  données  statistiques  et  de  connaissances  des besoins réels du système d'éducation ;
 
-- développer et renforcer les capacités de gestion et de mobilisation des ressources en partenariat ;
+5. développer et renforcer les capacités de gestion et de mobilisation des ressources en partenariat ;
 
-- assurer la décentralisation progressive de la gestion du système éducatif.
+6. assurer la décentralisation progressive de la gestion du système éducatif.
 
 La réalisation des ces six axes prioritaires nécessitera :
 
-##### Une gestion optimale des ressources financières et matérielles par :
+##### a) Une gestion optimale des ressources financières et matérielles par :
 
  la  mise  en  place  d'une  politique  de  gestion  optimale  centrée  sur  les  principales activités  relatives  à  la  rentrée,  le  budget,  le  mouvement  du  personnel,  le  calendrier scolaire ;
 
@@ -976,7 +1036,7 @@ La réalisation des ces six axes prioritaires nécessitera :
 
 [[START OF PAGE 35]]
 
-##### Un renforcement du réseau scolaire par :
+##### d) Un renforcement du réseau scolaire par :
 
  la réhabilitation, la construction et l'équipement des structures d'accueil ;
 
@@ -986,7 +1046,7 @@ La réalisation des ces six axes prioritaires nécessitera :
 
 #### 3.2.  LES STRATEGIES SPECIFIQUES
 
-Concrètement,  ces  objectifs  seront  réalisés  de  façon  spécifique  au  niveau  des  quatre  soussecteurs composant l'éducation pour tous à savoir : le préscolaire, l'enseignement primaire, l'alphabétisation avec l'éducation qualifiante des jeunes et des adultes et l'éducation spécialisée.
+Concrètement,  ces  objectifs  seront  réalisés  de  façon  spécifique  au  niveau  des  quatre  sous-secteurs composant l'éducation pour tous à savoir : le préscolaire, l'enseignement primaire, l'alphabétisation avec l'éducation qualifiante des jeunes et des adultes et l'éducation spécialisée.
 
 ##### 3.2.1. L'éducation préscolaire :
 Les objectifs à réaliser se résument à favoriser la promotion de l'éducation préscolaire par des promoteurs privés et des communautés de base afin d'améliorer le taux  d'inscription  de  10%  alors    qu'il  est  d'environ  2  %  aujourd'hui.  Les  axes  stratégiques  sont  les suivants :
@@ -1228,9 +1288,9 @@ Action 1 Mobilisation sociale en faveur de l'éducation de la petite enfance | -
 
 [[START OF PAGE 41]]
 
-Actions | Stratégies | Résultats attendus | Activités | Période | Coût (en millions )
---- | --- | --- | --- | --- | ---
-Action 1 (suite) Mobilisation sociale en faveur de l'éducation de la petite enfance | -Enquêtes ou études du milieu ; -Recensement des enfants de 3 à 5 ans ; -Mise à contribution des confessions religieuses pour la sensibilisation des communautés. | -Frais d'écolage en fonction du milieu social fixés -Nombre d'enfants bénéficiaires des programmes d'éveil augmenté | -Organiser des entretiens avec les différents groupes sociaux, information, éducation, communication avec les membres de la communauté éducative. -Collecter les données dans les centres d'éducation préscolaire | 2003- 2015
+Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions )
+--- | --- | --- | --- | --- | --- | ---
+Action 1 (suite) Mobilisation sociale en faveur de l'éducation de la petite enfance |  | -Enquêtes ou études du milieu ; -Recensement des enfants de 3 à 5 ans ; -Mise à contribution des confessions religieuses pour la sensibilisation des communautés. | -Frais d'écolage en fonction du milieu social fixés -Nombre d'enfants bénéficiaires des programmes d'éveil augmenté | -Organiser des entretiens avec les différents groupes sociaux, information, éducation, communication avec les membres de la communauté éducative. -Collecter les données dans les centres d'éducation préscolaire | 2003- 2015 |
 
 41
 
@@ -1340,9 +1400,9 @@ Action 5 Réduction et élimination des disparités | - Améliorer la carte scol
 
 [[START OF PAGE 49]]
 
-Actions | Stratégies | Résultats attendus | Activités | Période | Coût (en millions )
---- | --- | --- | --- | --- | ---
-Action 5 (suite) Réduction et élimination des disparités | -Réhabilitation des logements administratifs au sein des établissements scolaires | -Logements administratifs réhabilités au sein des établissements scolaires | Mobiliser les communautés en milieu rural en vue de la réhabilitation des logements administratifs. | 2003-2015 | 2 000
+Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions )
+--- | --- | --- | --- | --- | --- | ---
+Action 5 (suite) Réduction et élimination des disparités |  | -Réhabilitation des logements administratifs au sein des établissements scolaires | -Logements administratifs réhabilités au sein des établissements scolaires | Mobiliser les communautés en milieu rural en vue de la réhabilitation des logements administratifs. | 2003-2015 | 2 000
 
 ;
 
@@ -1364,7 +1424,7 @@ Action 6 Soutien aux écoles privées | Promouvoir et appuyer l'enseignement pri
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions )
 --- | --- | --- | --- | --- | --- | ---
-Action 7 Développement de l'éducatrice iintégratrice | -Elargir l'accès et renforcer la gestion institutionnelle du sous- secteur | -Construction et équipement d'un centre pour déficient mentaux ; -Construction dans les capitales de chaque région des écoles spécialisées | Structures spécialisées construites et équipées | -Recenser les enfants handicapés en sériant les types d'handicaps et en tenir compte dans la coordination du plan national d'action de l'EPT ; -Prendre en compte les besoins spécifiques dans le curriculum ; -Renforcer la formation des enseignants spécialisés. | 2003-2015 | 2 000
+Action 7 Développement de l'éducatrice iintégratrice | -Elargir l'accès et renforcer la gestion institutionnelle du sous-secteur | -Construction et équipement d'un centre pour déficient mentaux ; -Construction dans les capitales de chaque région des écoles spécialisées | Structures spécialisées construites et équipées | -Recenser les enfants handicapés en sériant les types d'handicaps et en tenir compte dans la coordination du plan national d'action de l'EPT ; -Prendre en compte les besoins spécifiques dans le curriculum ; -Renforcer la formation des enseignants spécialisés. | 2003-2015 | 2 000
 
 51
 
@@ -1386,8 +1446,8 @@ Action 1 Réduction des redoublements et des abandons scolaires | Mettre en plac
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût ( en millions )
 --- | --- | --- | --- | --- | --- | ---
-Action 2 Amélioration du taux de transition au secondaire | Augmenter le nombre d'enfants entrant en classe de 6 ème | -Renforcement du suivi et de l'encadrement des élèves de sixième année du primaire; -Renforcement des capacités et des compétences des enseignants et des personnels d'encadrement (séminaires, journées de réflexion et d'échange…) | -Elèves de 6 ème du primaire mieux suivis et mieux encadrés ; Personnels plus aptes et compétents ; Séminaires et journées organisés ; Enseignants formés. | -Renforcer les actions de contrôle et d'évaluation au niveau des classes de sixième année du primaire ; -Développer des procédures et des instruments d'évaluation des apprentissages ; -Systématiser l'émulation scolaire ; -Intensifier le contrôle et l'animation pédagogique. | 2003-2015 | 2 100
-Action 3 Développement d'un nouveau curriculum de l'éducation de base | -Accroître la pertinence, la fiabilité et la globalité des apprentissages en donnant du sens à l'éducation par le développement des compétences liées à la vie courante et à l'insertion sociale | -Elaboration des curricula centrés sur l'apprenant qui intègrent les nouveaux concepts comme : l'éducation en matière de population, l'éducation à la vie familiale, à l'hygiène et la santé, l'éducation à a paix et à la citoyenneté, l'initiation à la production. | Curricula élaborés et diffusés, enseignants formés | -Définir les compétences et les domaines de formation à installer ; -Mettre en place un système de planification des apprentissages ; -Développer une pédagogie active, intégratrice et interative ; -Elaborer, éditer, diffuser et utiliser des supports didactiques et pédagogiques appropriés ; -Introduire dans les programme l'initiation aux nouvelles technologies | 2003-2 015 | 1 300
+Action 2 Amélioration du taux de transition au secondaire | Augmenter le nombre d'enfants entrant en classe de 6ème | -Renforcement du suivi et de l'encadrement des élèves de sixième année du primaire; -Renforcement des capacités et des compétences des enseignants et des personnels d'encadrement (séminaires, journées de réflexion et d'échange…) | -Elèves de 6ème du primaire mieux suivis et mieux encadrés ; Personnels plus aptes et compétents ; Séminaires et journées organisés ; Enseignants formés. | -Renforcer les actions de contrôle et d'évaluation au niveau des classes de sixième année du primaire ; -Développer des procédures et des instruments d'évaluation des apprentissages ; -Systématiser l'émulation scolaire ; -Intensifier le contrôle et l'animation pédagogique. | 2003-2015 | 2 100
+Action 3 Développement d'un nouveau curriculum de l'éducation de base | -Accroître la pertinence, la fiabilité et la globalité des apprentissages en donnant du sens à l'éducation par le développement des compétences liées à la vie courante et à l'insertion sociale | -Elaboration des curricula centrés sur l'apprenant qui intègrent les nouveaux concepts comme : l'éducation en matière de population, l'éducation à la vie familiale, à l'hygiène et la santé, l'éducation à a paix et à la citoyenneté, l'initiation à la production. | Curricula élaborés et diffusés, enseignants formés | -Définir les compétences et les domaines de formation à installer ; -Mettre en place un système de planification des apprentissages ; -Développer une pédagogie active, intégratrice et interative ; -Elaborer, éditer, diffuser et utiliser des supports didactiques et pédagogiques appropriés ; -Introduire dans les programme l'initiation aux nouvelles technologies | 2003-2015 | 1 300
 
 53
 
@@ -1430,7 +1490,7 @@ Action 9 Introduction et promotion des langues | Promouvoir l'introduction et l'
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 10 Evaluation des apprentissages | Promouvoir une culture de suivi et d'évaluation des performances des élèves et des écoles | Mise en place d'un dispositif d'évaluation d'apprentissage du niveau central à la classe | -Un référentiel pour l'évaluation des apprentissages réalisé ; -Un dispositif pour développer un système d'évaluation interne mis en place -Evaluation standardisée réalisée. | ; -Faire le bilan des expériences en matière d'évaluation standardisée ; -Former les acteurs ; -Analyser les programmes ; -Produire, valider et capitaliser les épreuves ; Analyser les résultats des apprentissages ; -Analyser et apprécier les épreuves ; Adapter les textes d'organisation des examens d'Etat (CEPE et concours d'entrée en 6 ème ) | 2003-2015 | 325
+Action 10 Evaluation des apprentissages | Promouvoir une culture de suivi et d'évaluation des performances des élèves et des écoles | Mise en place d'un dispositif d'évaluation d'apprentissage du niveau central à la classe | -Un référentiel pour l'évaluation des apprentissages réalisé ; -Un dispositif pour développer un système d'évaluation interne mis en place ; -Evaluation standardisée réalisée. | -Faire le bilan des expériences en matière d'évaluation standardisée ; -Former les acteurs ; -Analyser les programmes ; -Produire, valider et capitaliser les épreuves ; Analyser les résultats des apprentissages ; -Analyser et apprécier les épreuves ; Adapter les textes d'organisation des examens d'Etat (CEPE et concours d'entrée en 6ème) | 2003-2015 | 325
 
 57
 
@@ -1442,7 +1502,7 @@ Action 10 Evaluation des apprentissages | Promouvoir une culture de suivi et d'�
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 1 Amélioration de la gestion du sous- secteur | - Faire le bilan des acquis et des insuffisances en gestion ; Introduire les réformes identifiées; -Equiper de manière progressive les structures en outil informatique ; -Renforcer l'encadrement rapproché des enseignants et l'implication de la communauté éducative ; -Rationaliser le découpage des inspections d'enseignement primaire, des zones et des secteurs | -Sensibilisation de la communauté éducative et élaboration des textes adéquats ; -Renforcement de la gestion décentralisée du sous-secteur ; -Mise en place des communautés éducatives et des projets d'écoles. | -Diagnostic de la gestion du secteur fait ; -Réformes identifiées et introduites ; -Structures dotées en matériel informatique ; -Encadrement rapproché des enseignants renforcé ; -Communauté éducative totalement impliquée dans la gestion de l'école. | -Sensibiliser la communauté éducative ; -Elaborer les textes adéquats ; -Renforcer la gestion décentralisée ; -Mettre en place les communautés éducatives et les projets d'écoles. -Equiper les structures en outil informatique | 2003- 2015 | 1 000
+Action 1 Amélioration de la gestion du sous-secteur | - Faire le bilan des acquis et des insuffisances en gestion ; Introduire les réformes identifiées; -Equiper de manière progressive les structures en outil informatique ; -Renforcer l'encadrement rapproché des enseignants et l'implication de la communauté éducative ; -Rationaliser le découpage des inspections d'enseignement primaire, des zones et des secteurs | -Sensibilisation de la communauté éducative et élaboration des textes adéquats ; -Renforcement de la gestion décentralisée du sous-secteur ; -Mise en place des communautés éducatives et des projets d'écoles. | -Diagnostic de la gestion du secteur fait ; -Réformes identifiées et introduites ; -Structures dotées en matériel informatique ; -Encadrement rapproché des enseignants renforcé ; -Communauté éducative totalement impliquée dans la gestion de l'école. | -Sensibiliser la communauté éducative ; -Elaborer les textes adéquats ; -Renforcer la gestion décentralisée ; -Mettre en place les communautés éducatives et les projets d'écoles. -Equiper les structures en outil informatique | 2003- 2015 | 1 000
 Action 2 Renforcement des capacités de gestion du secteur privé | Contribuer à l'amélioration de la gestion des établissements scolaires privés | Diagnostic du fonctionnement des établissements scolaires privés au plan administratif et pédagogique. | Etablissements scolaires privés bien gérés selon les textes en vigueur | -Identifier les problèmes de gestion qui se posent au secteur privé ; -Produire des supports et organiser des séminaires de formation en gestion au profit des équipes de maîtrise des établissements scolaires privés | 2003-2015 | 300
 
 58
@@ -1453,8 +1513,8 @@ Action 2 Renforcement des capacités de gestion du secteur privé | Contribuer �
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 2 Recherche / Action | Réaliser des études pour une meilleure prise en compte des valeurs socio- culturelles de base | Organisation des études et enquêtes | Banque de données disponible sur les valeurs socio- culturelles | -Identifier les thèmes à développer -Mettre en place des commissions d'études ; -Réaliser les enquêtes nécessaires | 2003-2015 | 1 000
-Action 3 Suivi et évaluation | Assurer un suivi- évaluation en vue d'apporter les correctifs nécessaires pour une meilleure réalisation des objectifs éducatifs | -Installation des organes de suivi- évaluation ; -Elaboration et production des instruments de suivi- évaluation | -Organes de suivi- évaluation installés ; -Instruments de suivi-évaluation élaborés et produits ; -Actions de suivi- évaluation réalisées | -Elaborer un dispositif de suivi-évaluation des indicateurs de développement de l'éducation ; -Réaliser le suivi-évaluation. | 2003-2015 | 800
+Action 2 Recherche / Action | Réaliser des études pour une meilleure prise en compte des valeurs socio-culturelles de base | Organisation des études et enquêtes | Banque de données disponible sur les valeurs socio-culturelles | -Identifier les thèmes à développer -Mettre en place des commissions d'études ; -Réaliser les enquêtes nécessaires | 2003-2015 | 1 000
+Action 3 Suivi et évaluation | Assurer un suivi-évaluation en vue d'apporter les correctifs nécessaires pour une meilleure réalisation des objectifs éducatifs | -Installation des organes de suivi-évaluation ; -Elaboration et production des instruments de suivi-évaluation | -Organes de suivi-évaluation installés ; -Instruments de suivi-évaluation élaborés et produits ; -Actions de suivi-évaluation réalisées | -Elaborer un dispositif de suivi-évaluation des indicateurs de développement de l'éducation ; -Réaliser le suivi-évaluation. | 2003-2015 | 800
 Action 4 Renforcement des capacités de gestion du secteur privé | Améliorer la gestion des établissements scolaires privés | -Sensibilisation des promoteurs -Formation des gestionnaires des établissements scolaires privés | -Promoteurs sensibilisés et informés sur les textes réglementant l'enseignement privé ; -Gestionnaires formés et aptes à mieux gérer les établissements | -Organiser des réunions régulières avec les promoteurs en vue de la vulgarisation des textes sur l'enseignement privé ; -Organiser des sessions de formation à l'intention des gestionnaires ; -Assurer l'encadrement régulier des gestionnaires | 2003-2015 | 50
 SOUS- TOTAL ENSEIGNEMENT PRIMAIRE (en millions de F FCA) | 587 398
 
@@ -1472,7 +1532,7 @@ SOUS- TOTAL ENSEIGNEMENT PRIMAIRE (en millions de F FCA) | 587 398
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 1 Réouverture des centres d'alphabétisation fermés, des foyers féminins et création des nouveaux centres | -Augmenter l'accès aux programmes d'alphabétisation et de post- alphabétisation; -Réduire le taux global d'analphabétisme | -Réhabilitation des centres d'alphabétisation fermés ; -Création de nouveaux centres d'alphabétisation surtout en zone rurale ; -Réhabilitation et création des foyers féminins d'alphabétisation -Sensibilisation et mobilisation des communautés | Taux d'analphabétisme réduit, hommes alphabétisés à 90% et femmes à 80% | -Identifier les centres d'alphabétisation fermés en vue de leur réouverture ; -Négocier avec les autorités locales, les chefs d'entreprises, les chefs militaires et les autorités religieuses en vue de l'ouverture de nouveaux centre(au moins 1 par quartier, chef-lieu de district et de région, entreprises et églises) ; -Mise en place des structures facilitant l'autonomie de la femme ; -Recruter de nouveaux animateurs | 2003-2015 | 750
+Action 1 Réouverture des centres d'alphabétisation fermés, des foyers féminins et création des nouveaux centres | -Augmenter l'accès aux programmes d'alphabétisation et de post-alphabétisation; -Réduire le taux global d'analphabétisme | -Réhabilitation des centres d'alphabétisation fermés ; -Création de nouveaux centres d'alphabétisation surtout en zone rurale ; -Réhabilitation et création des foyers féminins d'alphabétisation -Sensibilisation et mobilisation des communautés | Taux d'analphabétisme réduit, hommes alphabétisés à 90% et femmes à 80% | -Identifier les centres d'alphabétisation fermés en vue de leur réouverture ; -Négocier avec les autorités locales, les chefs d'entreprises, les chefs militaires et les autorités religieuses en vue de l'ouverture de nouveaux centre(au moins 1 par quartier, chef-lieu de district et de région, entreprises et églises) ; -Mise en place des structures facilitant l'autonomie de la femme ; -Recruter de nouveaux animateurs | 2003-2015 | 750
 
 60
 
@@ -1487,7 +1547,7 @@ Action 2 Création des centres d'alphabétisation des minorités, des personnes 
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 1 Amélioration des actions d'alphabétisation | -Obtenir pour tous des résultats d'apprentissage reconnus notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables à la vie courante | -Réalisation d'études pour connaître les besoins spécifiques des jeunes et des adultes ; -Conception et mise en œuvre des programmes spéciaux d'alphabétisation destinés à chaque catégorie cible | -Services éducatifs plus ouverts et adaptés à chaque groupe cible ; -Programmes rendus disponibles ; -Manuels d'alphabétisation pour jeunes et adultes élaborés | -Elaborer les termes de référence et réaliser les études ; - Elaborer et produire des guides d'animation et un code d'encadrement de contrôle et d'encadrement ; - Elaborer et produire des manuels d'alphabétisation (lecture, écriture, mathématiques et éducation socio- économique…) -Elaborer des grilles d'évaluation des apprentissages | 2003-2015 | 2 800
+Action 1 Amélioration des actions d'alphabétisation | -Obtenir pour tous des résultats d'apprentissage reconnus notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables à la vie courante | -Réalisation d'études pour connaître les besoins spécifiques des jeunes et des adultes ; -Conception et mise en œuvre des programmes spéciaux d'alphabétisation destinés à chaque catégorie cible | -Services éducatifs plus ouverts et adaptés à chaque groupe cible ; -Programmes rendus disponibles ; -Manuels d'alphabétisation pour jeunes et adultes élaborés | -Elaborer les termes de référence et réaliser les études ; - Elaborer et produire des guides d'animation et un code d'encadrement de contrôle et d'encadrement ; - Elaborer et produire des manuels d'alphabétisation (lecture, écriture, mathématiques et éducation socio-économique…) -Elaborer des grilles d'évaluation des apprentissages | 2003-2015 | 2 800
 
 61
 
@@ -1502,7 +1562,7 @@ Action 2 Amélioration des actions de formation | Renforcer les compétences des
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 1 Consolidation et développement des acquis de l'alphabétisation | -Pérenniser les connaissances acquises ; - Faire acquérir aux jeunes et aux adultes (hommes et femmes ) des connaissances et des compétences nécessaires à la vie courante | -Création des centres de rescolarisation ; -Intégration des activités de post- alphabétisation dans les projets de développement ; -Production et vulgarisation des supports imprimés ; | -Jeunes précocement déscolarisés réinsérés dans le système formel ; -Adultes alphabétisés et capables d'utiliser leurs connaissances et compétences dans le vie courante ; | -Identifier les jeunes déscolarisés ainsi que leurs besoins en formation ; -Elaborer les programmes appropriés pour les jeunes , les adultes (hommes et femmes) ; -Valider, imprimer et diffuser les programmes ; -Produire des manuels de post- alphabétisation ; -Créer et faire fonctionner les centres de remise à niveau pour les jeunes ; -Créer et équiper les centres d'apprentissage d'activités génératrices de revenus. | 2003-2015 | 2 000
+Action 1 Consolidation et développement des acquis de l'alphabétisation | -Pérenniser les connaissances acquises ; - Faire acquérir aux jeunes et aux adultes (hommes et femmes ) des connaissances et des compétences nécessaires à la vie courante | -Création des centres de rescolarisation ; -Intégration des activités de post-alphabétisation dans les projets de développement ; -Production et vulgarisation des supports imprimés ; | -Jeunes précocement déscolarisés réinsérés dans le système formel ; -Adultes alphabétisés et capables d'utiliser leurs connaissances et compétences dans le vie courante ; | -Identifier les jeunes déscolarisés ainsi que leurs besoins en formation ; -Elaborer les programmes appropriés pour les jeunes , les adultes (hommes et femmes) ; -Valider, imprimer et diffuser les programmes ; -Produire des manuels de post-alphabétisation ; -Créer et faire fonctionner les centres de remise à niveau pour les jeunes ; -Créer et équiper les centres d'apprentissage d'activités génératrices de revenus. | 2003-2015 | 2 000
 
 62
 
@@ -1510,9 +1570,9 @@ Action 1 Consolidation et développement des acquis de l'alphabétisation | -Pé
 
 [[START OF PAGE 63]]
 
-Action 2 Production des brochures éducatives | -Rendre disponibles les supports didactiques | -Formation des spécialistes ; -Création des bibliothèques.. | -Rédacteurs des manuels formés ; -Bibliothèques disponibles dans les centres de post- alphabétisation | -Réhabiliter et équiper le centre de recherche et de formation des adultes (CRFA) ; -Organiser des sessions de recyclage pour les spécialistes des métiers du livre ; -Aménager et équiper les locaux | 2003-2015 | 1 000
+Action 2 Production des brochures éducatives | -Rendre disponibles les supports didactiques | -Formation des spécialistes ; -Création des bibliothèques.. | -Rédacteurs des manuels formés ; -Bibliothèques disponibles dans les centres de post-alphabétisation | -Réhabiliter et équiper le centre de recherche et de formation des adultes (CRFA) ; -Organiser des sessions de recyclage pour les spécialistes des métiers du livre ; -Aménager et équiper les locaux | 2003-2015 | 1 000
 --- | --- | --- | --- | --- | --- | ---
-Action 3 Développement des activités d'alphabétisation des femmes | Faire acquérir aux femmes des connaissances, des et des aptitudes en vue de leur autonomisation | -Etude des besoins spécifiques des femmes ; -Equipement des centres et foyers féminins -Elaboration des programmes spécifiques -Sensibilisation et mobilisation des communautés | -Programmes spécifiques élaborés ; -Centres et foyers féminins équipés ; -Communautés sensibilisées ; | -Identifier les besoins spécifiques des femmes ; -Elaborer les programmes spécifiques par catégorie d'activités ; - Equiper les centres et foyers féminins ; - Mettre en place les mécanismes facilitant l'autonomisation de la femme ; -Mener des actions d'IEC en direction des communautés ; - Développer des plaidoyers en direction des partenaires. | 1 800
+Action 3 Développement des activités d'alphabétisation des femmes | Faire acquérir aux femmes des connaissances, des et des aptitudes en vue de leur autonomisation | -Etude des besoins spécifiques des femmes ; -Equipement des centres et foyers féminins -Elaboration des programmes spécifiques -Sensibilisation et mobilisation des communautés | -Programmes spécifiques élaborés ; -Centres et foyers féminins équipés ; -Communautés sensibilisées ; | -Identifier les besoins spécifiques des femmes ; -Elaborer les programmes spécifiques par catégorie d'activités ; - Equiper les centres et foyers féminins ; - Mettre en place les mécanismes facilitant l'autonomisation de la femme ; -Mener des actions d'IEC en direction des communautés ; - Développer des plaidoyers en direction des partenaires. |  | 1 800
 
 63
 
@@ -1598,7 +1658,7 @@ Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période 
 --- | --- | --- | --- | --- | --- | ---
 Action 1 Création d'un observatoire de la scolarisation des filles | -Veiller à la scolarisation des filles, à leur maintien à l'école | -Etude de la faisabilité d'une telle structure ; -Elaboration d'un manuel de procédure | -Etude et manuel de procédures disponibles | -Réaliser l'étude de faisabilité ; -Elaborer un manuel de procédures ; -Organiser les séminaires de partage sur les missions de l'observatoire, les modalités de fonctionnement | 200 | 80
 Action 2 Mise en œuvre de l'observatoire | -Orienter les prises de décisions politiques | Intégration des différentes structures de gestion de l'approche « genre » | -Données sur le genre disponibles ; -Orientations données de manière régulière | - Mettre en place un observatoire ; -Equiper et faire fonctionner l'observatoire | 2003-2015 | 60
-Action 3 Mise en place du dispositif de suivi- évaluation | -Evaluer les progrès réalisés, contrôler de manière régulière les indicateurs, -faire des bilans d'étapes et proposer des améliorations | Création des cellules de suivi à tous les niveaux | -Informations disponibles à tout moment ; -Bilan d'étape réalisé ; -Mesures de correction proposées. | -Elaborer un cadre de suivi - évaluation ; -Former le personnel au suivi et à l'évaluation. | 2003-2015 | 50
+Action 3 Mise en place du dispositif de suivi-évaluation | -Evaluer les progrès réalisés, contrôler de manière régulière les indicateurs, -faire des bilans d'étapes et proposer des améliorations | Création des cellules de suivi à tous les niveaux | -Informations disponibles à tout moment ; -Bilan d'étape réalisé ; -Mesures de correction proposées. | -Elaborer un cadre de suivi-évaluation ; -Former le personnel au suivi et à l'évaluation. | 2003-2015 | 50
 
 68
 
@@ -1642,7 +1702,7 @@ Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période 
 --- | --- | --- | --- | --- | --- | ---
 Action 4 Construction, réhabilitation et équipement des structures appropriées pour répondre aux besoins spécifiques | Elargir l'accès en créant des places disponibles | -Faire appel aux ONG, aux collectivités locales, aux entreprises, aux confessions religieuses ; -Acquérir des sites dans les régions les plus défavorisées | -11 centres dont 1 dans chaque chef lieu de région réhabilités ou construits ; -Centres équipés en outillage et matière d'œuvre ; -Population cible touchée par le programme connue. | -Construire ou réhabiliter les locaux devant abriter les centres ; -Equiper les salles de classes en mobilier et autres intrants ; -Construire et équiper des internats | 2003- 2015 | 2 000
 Action 5 Relance et redynamisation des centres existants | Réhabiliter les centres de formation agricoles (CFA) de Boko et de Ewo | Faire appel aux ONG, aux collectivités locales, aux entreprises et aux confessions religieuses. | -Ateliers réhabilités et fonctionnels ; -Outillage agricole et matière d'œuvre disponible ; --Formation assurée. | -Réhabiliter les locaux abritant les salles de cours, les ateliers et l'internat ; -Equiper les deux établissements. | 2003- 2005 | 1 000
-Action 6 Equipement d'appui en vue de la sauvegarde de la scolarité de la jeune fille | -Prévenir l'abandon de l'école par la jeune fille ; -Améliorer les conditions de vie des jeunes filles notamment des filles- mères | -Développement du partenariat et de la collaboration entre tous les acteurs de l'école ; -Renforcement de la participation sociale de la communauté à la gestion de l'école -Développement chez les acteurs de l'école la conscience d'une communauté éducative harmonieuse. | -Séjour de la jeune fille à l'école prolongé ; -Taux de survie des cohortes de jeunes filles amélioré ; -Conditions d'existence des adolescentes sans ressources améliorées. | -Vulgariser les textes réglementaires favorables à la jeune fille (brochures, dépliants, affiches, émissions radio-télévisées) : -Intensification de l'IEC sur les droits de la santé sexuelle, la planification familiale dans les établissements scolaires ; -Activités d'apprentissage et de réalisation des micro-projets et d'insertion socio-économique ; -Accorder une aide matérielle et financière par micro-crédits aux parents des jeunes filles en difficulté. | 2003-2015 | 500
+Action 6 Equipement d'appui en vue de la sauvegarde de la scolarité de la jeune fille | -Prévenir l'abandon de l'école par la jeune fille ; -Améliorer les conditions de vie des jeunes filles notamment des filles-mères | -Développement du partenariat et de la collaboration entre tous les acteurs de l'école ; -Renforcement de la participation sociale de la communauté à la gestion de l'école -Développement chez les acteurs de l'école la conscience d'une communauté éducative harmonieuse. | -Séjour de la jeune fille à l'école prolongé ; -Taux de survie des cohortes de jeunes filles amélioré ; -Conditions d'existence des adolescentes sans ressources améliorées. | -Vulgariser les textes réglementaires favorables à la jeune fille (brochures, dépliants, affiches, émissions radio-télévisées) : -Intensification de l'IEC sur les droits de la santé sexuelle, la planification familiale dans les établissements scolaires ; -Activités d'apprentissage et de réalisation des micro-projets et d'insertion socio-économique ; -Accorder une aide matérielle et financière par micro-crédits aux parents des jeunes filles en difficulté. | 2003-2015 | 500
 
 71
 
@@ -1654,7 +1714,7 @@ Action 6 Equipement d'appui en vue de la sauvegarde de la scolarité de la jeune
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 7 Réhabilitation et création des structures socio- éducatives pour les jeunes filles | -Répondre aux besoins concrets et spécifiques de la jeune fille | Implication des communautés et des ONG, des confessions religieuses avec apport financier de l'Etat | -Centre d'apprentissage pour les jeunes filles ouvert dans chaque chef-lieu de région et autres, -Activités des foyers féminins relancés presque partout ; -Structures équipées en outillage et en matière d'œuvre. | -Construire et/ou réhabiliter les locaux devant abriter les ateliers d'apprentissage de la jeune fille ; -Organiser l'alphabétisation fonctionnelle et l'apprentissage des petits métiers ; -Créer une maison pour la promotion de la jeune fille. | 2003- 2015 | 2 000
+Action 7 Réhabilitation et création des structures socio-éducatives pour les jeunes filles | -Répondre aux besoins concrets et spécifiques de la jeune fille | Implication des communautés et des ONG, des confessions religieuses avec apport financier de l'Etat | -Centre d'apprentissage pour les jeunes filles ouvert dans chaque chef-lieu de région et autres, -Activités des foyers féminins relancés presque partout ; -Structures équipées en outillage et en matière d'œuvre. | -Construire et/ou réhabiliter les locaux devant abriter les ateliers d'apprentissage de la jeune fille ; -Organiser l'alphabétisation fonctionnelle et l'apprentissage des petits métiers ; -Créer une maison pour la promotion de la jeune fille. | 2003- 2015 | 2 000
 Action 8 Equipement d'appui à l'intégration de l'enfant handicapé dans le système éducatif | -Répondre aux besoins concrets et spécifiques de l'enfant handicapé | Implication des communautés et des ONG, des confessions religieuses avec apport financier de l'Etat et des organismes internationaux | L'enfant handicapé pris en compte dans le système éducatif formel dans des structures spécifiques et appropriées | -Construire de nouveaux établissements dans les principales villes du pays ; -Etendre les 7 établissements publics et privés existants par la construction de 21 nouvelles salles et de 7 ateliers ; -Aménager dans les centres d'éducation préscolaire des salles pour déficients mentaux | 2003-2015 | 3 000
 
 72
@@ -1667,8 +1727,8 @@ Action 8 Equipement d'appui à l'intégration de l'enfant handicapé dans le sys
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 1 Elaboration des programmes adaptés au public cible | -Disposer des programmes pertinents selon les filières ; -Répondre à la diversité des besoins d'apprentissage des jeunes adultes impliqués dans les programmes ; -Renforcer les actions éducatives et de formation professionnelle des enfants en situation difficile ; -Mettre en œuvre des programmes qui s'appuient sur les micro-entreprises, l'économie et le micro- crédit et développer les programmes de formation . | Elaboration des programmes et des horaires de l'éducation qualifiante des jeunes et des adultes sur la base des études sur les filières et les besoins ; -Construction et expérimentation des différentes composantes ; -Généralisation à partir des évaluations de l'expérimentation | Programmes pertinents disponibles après validation des équipes pédagogiques. | Elaboration des programmes après correction par la recherche-action. | 2003-2014 | 300
-Action 2 Appui à la formation professionnelle des handicapés | Faire acquérir aux publics- cibles les compétences requises en tenant compte du handicap pour l'exercice d'un petit métier | Elaboration des programmes et horaires spécifiques. | -Bibliothèques appropriées installées dans les écoles d'éducation spécialisée ; -Centres équipés en matériel technique, en mobilier et fournitures scolaires. | -Identifier des manuels et équipement des bibliothèques ; -Equiper les centres en matériel didactique. | 2003- 2015 | 1 000
+Action 1 Elaboration des programmes adaptés au public cible | -Disposer des programmes pertinents selon les filières ; -Répondre à la diversité des besoins d'apprentissage des jeunes adultes impliqués dans les programmes ; -Renforcer les actions éducatives et de formation professionnelle des enfants en situation difficile ; -Mettre en œuvre des programmes qui s'appuient sur les micro-entreprises, l'économie et le micro-crédit et développer les programmes de formation . | Elaboration des programmes et des horaires de l'éducation qualifiante des jeunes et des adultes sur la base des études sur les filières et les besoins ; -Construction et expérimentation des différentes composantes ; -Généralisation à partir des évaluations de l'expérimentation | Programmes pertinents disponibles après validation des équipes pédagogiques. | Elaboration des programmes après correction par la recherche-action. | 2003-2014 | 300
+Action 2 Appui à la formation professionnelle des handicapés | Faire acquérir aux publics-cibles les compétences requises en tenant compte du handicap pour l'exercice d'un petit métier | Elaboration des programmes et horaires spécifiques. | -Bibliothèques appropriées installées dans les écoles d'éducation spécialisée ; -Centres équipés en matériel technique, en mobilier et fournitures scolaires. | -Identifier des manuels et équipement des bibliothèques ; -Equiper les centres en matériel didactique. | 2003- 2015 | 1 000
 
 73
 
@@ -1713,15 +1773,15 @@ Action 2 Création des partenariats novateurs et dynamiques | -Mobiliser les com
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 3 Equipement des services d'encadrement et de supervision | -Pourvoir les différentes structures de supervision en moyens logistiques nécessaires | Les agents des services d'encadrement et de supervision équipes et mobiles sur le terrain pratique | -Identifier les services dépourvus de moyens ; .-Equiper les services en moyens logistiques nécessaires | 2003-2015 | 300
+Action 3 Equipement des services d'encadrement et de supervision | -Pourvoir les différentes structures de supervision en moyens logistiques nécessaires |  | Les agents des services d'encadrement et de supervision équipes et mobiles sur le terrain pratique | -Identifier les services dépourvus de moyens ; .-Equiper les services en moyens logistiques nécessaires | 2003-2015 | 300
 Action 4 Mise en place des mécanismes de financement | Mobiliser des moyens financiers nécessaires pour l'insertion des jeunes et des adultes au moyen des micro-projets | Plaidoyer auprès de l'Etat et des institutions financières nationales | .Structures privées bénéficiaires d'un appui financier de l'Etat et des institutions financières de l'Etat | Soutenir un plaidoyer permanent auprès de l'Etat et des institutions financières | 2003-2015 | 25
 
 ###### COMPOSANTE : RENFORCEMENT DE l'EFFICACITE EXTERNE
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 1 Mise en œuvre des projets d'insertion sur la base de l'auto- emploi | -Assurer l'insertion des jeunes dans la vie active à travers des petits métiers d'utilité immédiate | Enquête participative sur l'étude du marché du travail | Jeune sortant du sous- secteur détenteur d'un emploi | Créer un bureau de conseil sur la gestion d'un micro-projet | 2003-2015 | 300
-Action 2 Mobilisation d'un fonds de soutien des micro-projets | -Garantir le financement des projets d'insertion socio-professionnelle des jeunes par la mobilisation des crédits | -Octroi des crédits remboursables à très faible taux d'intérêt ; -Dotation en outillage en matériel technique | Mécanismes de décaissement, de gestion et de remboursement des fonds maîtrisés par les jeunes | -Créer une caisse de micro- projets en faveur des jeunes | 2003-2015 | 150
+Action 1 Mise en œuvre des projets d'insertion sur la base de l'auto-emploi | -Assurer l'insertion des jeunes dans la vie active à travers des petits métiers d'utilité immédiate | Enquête participative sur l'étude du marché du travail | Jeune sortant du sous-secteur détenteur d'un emploi | Créer un bureau de conseil sur la gestion d'un micro-projet | 2003-2015 | 300
+Action 2 Mobilisation d'un fonds de soutien des micro-projets | -Garantir le financement des projets d'insertion socio-professionnelle des jeunes par la mobilisation des crédits | -Octroi des crédits remboursables à très faible taux d'intérêt ; -Dotation en outillage en matériel technique | Mécanismes de décaissement, de gestion et de remboursement des fonds maîtrisés par les jeunes | -Créer une caisse de micro-projets en faveur des jeunes | 2003-2015 | 150
 
 76
 
@@ -1733,18 +1793,18 @@ Action 2 Mobilisation d'un fonds de soutien des micro-projets | -Garantir le fin
 
 Actions | Objectifs | Stratégies | Résultats attendus | Activités | Période | Coût (en millions)
 --- | --- | --- | --- | --- | --- | ---
-Action 3 Suivi et évaluation des activités des sortants du sous- secteur | -Mesurer le degré d'efficience de la formation assurée ; -Informer les partenaires sur les réalités et décalage par rapport aux orientations ; -Apporter un appui multiforme aux jeunes entrepreneurs ; Evaluer l'impact réel de la formation reçue ; -Elaborer un fichier sur l'insertion des produits finis du sous-secteur | Enquête sur le terrain ; -Suivi de l'insertion des jeunes. | -Rapports de suivi et d'évaluation de l'impact élaborés et diffusés ; -Plans de remédiations élaborés et mis à la disposition des jeunes. | -Elaborer les fiches d'enquête et de suivi ; -Collecter des informations ; -Elaborer et diffuser les différents rapports. | 2003-2015 | 300
+Action 3 Suivi et évaluation des activités des sortants du sous-secteur | -Mesurer le degré d'efficience de la formation assurée ; -Informer les partenaires sur les réalités et décalage par rapport aux orientations ; -Apporter un appui multiforme aux jeunes entrepreneurs ; Evaluer l'impact réel de la formation reçue ; -Elaborer un fichier sur l'insertion des produits finis du sous-secteur | Enquête sur le terrain ; -Suivi de l'insertion des jeunes. | -Rapports de suivi et d'évaluation de l'impact élaborés et diffusés ; -Plans de remédiations élaborés et mis à la disposition des jeunes. | -Elaborer les fiches d'enquête et de suivi ; -Collecter des informations ; -Elaborer et diffuser les différents rapports. | 2003-2015 | 300
 SOUS-TOTAL EDUCATION QUALIFIANTE DES JEUNES ET DES ADULTES (en millions de F CFA) | 13 285
 
 #### 4.6. TABLEAU RECAPITULATIF DU BUDGET PAR SOUS SECTEUR ET PAR COMPOSANTE (en millions de francs CFA)
 
-SOUS SECTEUR | ACCES | QUALITE | GESTION | POST- ALPHABETI- SATION | EFFICACITE EXTERNE | Total
+SOUS SECTEUR | ACCES | QUALITE | GESTION | POST-ALPHABETISATION | EFFICACITE EXTERNE | Total
 --- | --- | --- | --- | --- | --- | ---
-Développement de la petite enfance | 62 575 | 5 200 | 1080 | 68 855
-Enseignement primaire | 97 423 | 486 825 | 3 150 | 587 398
-Education non formelle | 3 750 | 5 600 | 2 000 | 4 800 | 16 150
-Education des filles dans l'enseignement primaire | 1 975 | 1 720 | 290 | 3 985
-Education qualifiante des jeunes et des adultes | 9 450 | 2 360 | 725 | 750 | 13 285
+Développement de la petite enfance | 62 575 | 5 200 | 1080 |  |  | 68 855
+Enseignement primaire | 97 423 | 486 825 | 3 150 |  |  | 587 398
+Education non formelle | 3 750 | 5 600 | 2 000 | 4 800 |  | 16 150
+Education des filles dans l'enseignement primaire | 1 975 | 1 720 | 290 |  |  | 3 985
+Education qualifiante des jeunes et des adultes | 9 450 | 2 360 | 725 |  | 750 | 13 285
 Budget total du Plan d'Action National de l'EPT (en millions de F CFA) | 175 173 | 501 705 | 7 195 | 4 800 | 750 | 689 673
 
 77
@@ -1805,29 +1865,29 @@ L'éducation pour tous : tenir nos engagements collectifs. Telle est la substanc
 
 ## BIBLIOGRAPHIE
 
-- Cadre d'action de  Dakar, Dakar avril 2000. p.4.
+1. Cadre d'action de  Dakar, Dakar avril 2000. p.4.
 
-- La nouvelle espérance, Dénis Sassou Nguesso, Brazzaville, 2002, p. 64
+2. La nouvelle espérance, Dénis Sassou Nguesso, Brazzaville, 2002, p. 64
 
-- Politique, Planification et Gestion de l'éducation de base pour tous en Afrique, pratiques et leçons à midécennie, UNESCO Dakar 1996. p.23 et annexe
+3. Politique, Planification et Gestion de l'éducation de base pour tous en Afrique, pratiques et leçons à mi-décennie, UNESCO Dakar 1996. p.23 et annexe
 
-- Programme d'Action de Harare pour la décennie de l'éducation en Afrique (1997-2006) OU A, 1999. p. 17.
+4. Programme d'Action de Harare pour la décennie de l'éducation en Afrique (1997-2006) OU A, 1999. p. 17.
 
-- Esquisse de plan national d'action de l'éducation pour tous au Congo (2001-2015)  MEPSSRS, Brazzaville, avril 2000. p. 16
+5. Esquisse de plan national d'action de l'éducation pour tous au Congo (2001-2015)  MEPSSRS, Brazzaville, avril 2000. p. 16
 
-- Annuaire statistique 2000-2001, DEP/MEPSSRS, Brazzaville,août 2002. p.380
+6. Annuaire statistique 2000-2001, DEP/MEPSSRS, Brazzaville,août 2002. p.380
 
-- Lettre d'information de l'ADEA, volume 14, numéro 3, ADEA juillet 2002.p. 12.
+7. Lettre d'information de l'ADEA, volume 14, numéro 3, ADEA juillet 2002.p. 12.
 
-- Rapport national sur le développement humain 2002, République du Congo, PNUD, Brazzaville janvier 2002, p. 127
+8. Rapport national sur le développement humain 2002, République du Congo, PNUD, Brazzaville janvier 2002, p. 127
 
-- Plan d'actions prioritaires à 3 ans pour le secteur éducatif au Congo, PNUD-UNESCO, décembre 1998, p.147
+9. Plan d'actions prioritaires à 3 ans pour le secteur éducatif au Congo, PNUD-UNESCO, décembre 1998, p.147
 
-- Les déterminants de la réussite scolaire au Congo, enquête sur les causes du faible rendement de l'enseignement primaire congolais, Miala Diambomba, Roland Ouelet GERPS/CONFEMEN, Décembre 1995, p.311
+10. Les déterminants de la réussite scolaire au Congo, enquête sur les causes du faible rendement de l'enseignement primaire congolais, Miala Diambomba, Roland Ouelet GERPS/CONFEMEN, Décembre 1995, p.311
 
-- Education et Formation, Etat, Perspectives et Propositions, UNESCO-PNUD, octobre 1994, p.178
+11. Education et Formation, Etat, Perspectives et Propositions, UNESCO-PNUD, octobre 1994, p.178
 
-- Projet de renforcement de la qualité et de l'efficacité et de redynamisation du système éducatif, Groupe de la Banque Africaine de Développement, UNESCO , mars 1997, p.196
+12. Projet de renforcement de la qualité et de l'efficacité et de redynamisation du système éducatif, Groupe de la Banque Africaine de Développement, UNESCO , mars 1997, p.196
 
 81
 
