@@ -23,7 +23,28 @@ showing the law as at 31 December 2009
 
 This is a revised edition of the law, prepared by the Law Revision Commissioner under the authority of the Law Commission Act, Cap. 1.03.
 
-This edition contains a consolidation of the following laws-
+This edition contains a consolidation of the following laws—
+
+Page
+
+EDUCATION ACT 3
+
+Act 9 of 2005 … in force 1st June 2005
+
+Amended by: Act 17 of 2007
+
+Regulations – Section 172
+
+EDUCATION (SCHOOL ATTENDANCE COUNSELOR) ORDER 86
+
+EDUCATION (IMMUNIZATION) REGULATIONS 87
+
+EDUCATION (APPEAL TRIBUNAL) REGULATIONS 90
+
+EDUCATION (PREMISES OF EDUCATIONAL INSTITUTIONS)
+REGULATIONS 93
+
+EDUCATION (STUDENT DISCIPLINE) REGULATIONS 101
 
 Prepared under Authority by The Regional Law Revision Centre Inc. ANGUILLA
 
@@ -47,43 +68,52 @@ CAP. 13.01
 
 Revision Date: 31 Dec 2009
 
-- Short title
+# CHAPTER 13.01
+# EDUCATION ACT
 
-- Interpretation
+## ARRANGEMENT OF SECTIONS
+
+### PART I
+
+#### PRELIMINARY
+
+1. Short title
+
+2. Interpretation
 
 ##### DIVISION 1
 
 ###### ADMINISTRATION OF THE EDUCATION SYSTEM
 
-- Goals and objectives
+3. Goals and objectives
 
-- Responsibilities of the Minister
+4. Responsibilities of the Minister
 
-- Powers of Minister
+5. Powers of Minister
 
-- Annual Report
+6. Annual Report
 
 ##### DIVISION 2
 
 ###### RESPONSIBILITIES OF THE CHIEF EDUCATION OFFICER
 
-- Duties of Chief Education Officer
+7. Duties of Chief Education Officer
 
-- Delegation of authority by the Minister
+8. Delegation of authority by the Minister
 
 ##### DIVISION 3
 
 ###### ESTABLISHMENT AND FUNCTIONS OF THE EDUCATION ADVISORY BOARD
 
-- Establishment of Education Advisory Board
+9. Establishment of Education Advisory Board
 
-- Functions of Advisory Board
+10. Functions of Advisory Board
 
-- Powers of the Board to hold public hearing
+11. Powers of the Board to hold public hearing
 
-- Minister not bound by advice of Board
+12. Minister not bound by advice of Board
 
-- Special Committees
+13. Special Committees
 
 ### PART 3
 
@@ -93,24 +123,15 @@ Revision Date: 31 Dec 2009
 
 ###### STUDENTS RIGHTS AND RESPONSIBILITIES
 
-- Right to education
+14. Right to education
 
-- Responsibility to students
+15. Responsibility to students
 
-- Free tuition
+16. Free tuition
 
-- Student responsibilities
+17. Student responsibilities
 
-- Students accountable to teacher, principal, and Ministry
-
-# CHAPTER 13.01
-# EDUCATION ACT
-
-## ARRANGEMENT OF SECTIONS
-
-### PART I
-
-#### PRELIMINARY
+18. Students accountable to teacher, principal, and Ministry
 
 [[END OF PAGE 3]]
 
@@ -128,81 +149,81 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 ##### DIVISION 2
 
-###### PARENTS' RIGHTS AND RESPONSIBILITIES
+###### PARENTS’ RIGHTS AND RESPONSIBILITIES
 
-- Rights and responsibilities of parents
+20. Rights and responsibilities of parents
 
-- Choice of education
+21. Choice of education
 
-- Student records and reports
+22. Student records and reports
 
-- Damage to school property
+23. Damage to school property
 
-- Parent Teacher Associations
+24. Parent Teacher Associations
 
-- Wishes of parents to be considered in education of students
+25. Wishes of parents to be considered in education of students
 
 ##### DIVISION 3
 
 ###### ADMISSION AND ATTENDANCE OF STUDENTS
 
-- Compulsory school attendance
+26. Compulsory school attendance
 
-- Mode of admission
+27. Mode of admission
 
-- Prohibition of discrimination
+28. Prohibition of discrimination
 
-- Age limit for secondary schools
+29. Age limit for secondary schools
 
-- Student's Register
+30. Student’s Register
 
-- Transfer of students
+31. Transfer of students
 
-- Effect of contagious diseases
+32. Effect of contagious diseases
 
-- Readmission of student on production of medical certificate
+33. Readmission of student on production of medical certificate
 
-- Temporary or permanent closing of schools
+34. Temporary or permanent closing of schools
 
-- Zoning of schools
+35. Zoning of schools
 
 ##### DIVISION 4
 
 ###### ENFORCEMENT OF COMPULSORY SCHOOL ATTENDANCE
 
-- Duty of parent to enforce attendance
+36. Duty of parent to enforce attendance
 
-- Valid excuses from attendance
+37. Valid excuses from attendance
 
-- School attendance counsellors
+38. School attendance counsellors
 
-- Responsibility of school attendance counsellor
+39. Responsibility of school attendance counsellor
 
-- Power to enter premises and question children
+40. Power to enter premises and question children
 
-- Offences against school attendance counsellors
+41. Offences against school attendance counsellors
 
-- Power to deliver absent student
+42. Power to deliver absent student
 
-- Duties of school attendance counsellor
+43. Duties of school attendance counsellor
 
-- Reports by principals
+44. Reports by principals
 
-- Liability of parent
+45. Liability of parent
 
-- Compulsory school age and offences
+46. Compulsory school age and offences
 
-- Legal proceedings
+47. Legal proceedings
 
 ##### DIVISION 5
 
 ###### DISCIPLINE, SUSPENSION AND EXPULSION OF STUDENTS
 
-- School rules to govern discipline
+48. School rules to govern discipline
 
-- Corporal punishment
+49. Corporal punishment
 
-- Abolition of corporal punishment
+50. Abolition of corporal punishment
 
 Revision Date:
 
@@ -221,6 +242,72 @@ Education Act
 CAP. 13.01
 
 5
+
+51. Suspension for minor offences
+
+52. Suspension for major offences
+
+53. Action by Chief Education Officer
+
+### PART 4
+
+#### ADMINISTRATION OF EDUCATIONAL INSTITUTIONS
+
+##### DIVISION 1
+
+###### MANAGEMENT OF PUBLIC PRIMARY SCHOOLS
+
+54. Establishment and maintenance of primary schools
+
+55. Management of public primary schools
+
+56. Boards of Management
+
+57. Members of a Board of Management
+
+58. Functions of a Board of Management for a primary school
+
+59. Submission of reports, statements and estimates
+
+60. Special or general directions
+
+##### DIVISION 2
+
+###### MANAGEMENT OF PUBLIC SECONDARY SCHOOLS
+
+61. Application of Division
+
+62. Management of public secondary schools
+
+63. Establishment of Board of Management
+
+64. Functions of Board of Management for secondary schools
+
+65. Funds and resources of a Board of Management
+
+66. Accounts and audit
+
+67. Annual report, statement of accounts of estimates
+
+68. Minutes of board receivable in evidence
+
+##### DIVISION 3
+
+###### MANAGEMENT OF ASSISTED PRIVATE SCHOOLS
+
+69. Management of private assisted primary schools
+
+70. Management of private assisted secondary schools
+
+71. Denomination or proprietor may add duties
+
+72. Appointment of joint Board of Management
+
+##### DIVISION 4
+
+###### MANAGEMENT OF TERTIARY INSTITUTIONS
+
+73. Establishment and management of tertiary institutions
 
 [[END OF PAGE 5]]
 
@@ -242,6 +329,66 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 ###### FORMS AND STAGES OF EDUCATION
 
+74. Stages of public education
+
+##### DIVISION 2
+
+###### EARLY CHILDHOOD EDUCATION SERVICES
+
+75. Establishment of early childhood education services
+
+76. Programmes and policies
+
+77. Insurance
+
+78. Council on early childhood education services
+
+79. Regulations
+
+##### DIVISION 3
+
+###### HOME EDUCATION
+
+80. Home education
+
+81. Termination of programme
+
+##### DIVISION 4
+
+###### SPECIAL EDUCATION
+
+82. Special education
+
+83. Determination of special educational needs
+
+84. Special needs appeals
+
+85. Council on special education
+
+### PART 6
+
+#### CATEGORIES OF EDUCATIONAL INSTITUTIONS
+
+86. Organization of schools
+
+##### DIVISION 1
+
+###### PUBLIC SCHOOLS
+
+87. Status of public schools
+
+##### DIVISION 2
+
+###### PRIVATE EDUCATIONAL INSTITUTIONS
+
+88. Interpretation
+
+89. Body without legal personality
+
+90. Applicability
+
+91. References and objects
+
 Revision Date: 31 Dec 2009
 
 [[END OF PAGE 6]]
@@ -258,6 +405,88 @@ CAP. 13.01
 
 Revision Date: 31 Dec 2009
 
+92. Permit
+
+93. Presumption
+
+94. Existing private educational institutions
+
+95. Private educational institutions register
+
+96. Application for registration
+
+97. Eligibility for registration
+
+98. Refusal
+
+99. Limitation on instruction
+
+100. Number of students
+
+101. Content of permit
+
+102. Vocational education
+
+103. Duration and renewal of permits
+
+104. Modification
+
+105. Transfer
+
+106. Information
+
+107. Visits to private educational institutions
+
+108. Notice to comply
+
+109. Cancellation of registration
+
+110. Appeal
+
+111. Registration and closure
+
+112. Returns
+
+113. Health and sanitation
+
+114. Disqualification of teachers
+
+115. Prohibition of discrimination
+
+##### DIVISION 3
+
+###### ASSISTED PRIVATE SCHOOLS
+
+116. Creation of assisted private schools
+
+117. Agreement to establish assisted private schools
+
+118. Publication of list of assisted private schools
+
+119. Religious education in assisted private schools
+
+120. Loans to assisted private schools
+
+##### DIVISION 4
+
+###### DENOMINATIONAL SCHOOLS
+
+121. Status of denominational schools
+
+122. Regulations for denominational schools
+
+### PART 7
+
+#### TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING
+
+123. Establishment of Technical and Vocational Education Council
+
+124. Functions of Council
+
+125. Directions
+
+126. Appointment of committees and functions thereof
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
@@ -270,77 +499,77 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-- Additional functions of a committee
+127. Additional functions of a committee
 
-- Training schemes
+128. Training schemes
 
-- System for monitoring
+129. System for monitoring
 
-- Regulations by Council
+130. Regulations by Council
 
-- Annual report
+131. Annual report
 
-- National policy
+132. National policy
 
-- Plans for technical and vocational education
+133. Plans for technical and vocational education
 
-- Regulations by Minister
+134. Regulations by Minister
 
 ### PART 8
 
 #### PROFESSIONAL DUTIES AND RESPONSIBILITIES OF TEACHERS AND PRINCIPALS
 
-- Qualifications of teachers
+135. Qualifications of teachers
 
-- Rights of teachers
+136. Rights of teachers
 
-- Exercise of general professional duties
+137. Exercise of general professional duties
 
-- Duties of teachers
+138. Duties of teachers
 
-- Duties of Deputy Principal
+139. Duties of Deputy Principal
 
-- General responsibilities of principals
+140. General responsibilities of principals
 
 ### PART 9
 
 #### CURRICULUM AND ASSESSMENT OF STUDENTS
 
-- National curriculum
+141. National curriculum
 
-- Core and foundation subjects
+142. Core and foundation subjects
 
-- Key stages of assessment
+143. Key stages of assessment
 
-- Determination of attainment targets
+144. Determination of attainment targets
 
-- Subjects panels
+145. Subjects panels
 
-- Collective worship and religious education
+146. Collective worship and religious education
 
-- Religious education in public schools
+147. Religious education in public schools
 
 ### PART 10
 
 #### ISLAND SCHOLARSHIPS AND GRANTS
 
-- Island scholarships
+148. Island scholarships
 
-- Value of scholarships
+149. Value of scholarships
 
-- Qualifications for scholarship
+150. Qualifications for scholarship
 
-- Examination for scholarship
+151. Examination for scholarship
 
-- Entry at proposed institution
+152. Entry at proposed institution
 
-- Forfeiture of scholarship
+153. Forfeiture of scholarship
 
-- Scholar to sign undertaking
+154. Scholar to sign undertaking
 
-- Travel grant
+155. Travel grant
 
-- Award of grants and bursaries
+156. Award of grants and bursaries
 
 Revision Date: 31 Dec 2009
 
@@ -364,6 +593,70 @@ CAP. 13.01
 
 ##### DIVISION 1
 
+###### INSPECTION OF EDUCATIONAL INSTITUTIONS
+
+157. Inspection of educational institutions
+
+158. Educational institutions to be open for inspections and visits
+
+159. Offences
+
+##### DIVISION 2
+
+###### REVIEW OF THE EDUCATION SYSTEM
+
+160. Appointment of Education Review Committee
+
+161. Review and report of Education Review Committee
+
+### PART 12
+
+#### APPEALS
+
+162. Establishment of Education Appeal Tribunal
+
+163. Functions of Tribunal
+
+164. Mediation
+
+165. Procedure of Tribunal
+
+166. Power of the Tribunal
+
+167. Matters to be considered
+
+168. Enforcement of order
+
+### PART 13
+
+#### MISCELLANEOUS PROVISIONS
+
+169. Vendors on school premises
+
+170. Prohibition of sale of alcoholic beverages and tobacco
+
+171. Loitering etc on school premises
+
+172. Regulations
+
+173. Repeal
+
+FIRST SCHEDULE: Education Advisory Board
+
+SECOND SCHEDULE: Constitution, Procedure, and Functions of Boards of Management
+
+THIRD SCHEDULE: Procedure of Technical and Vocational Education Council
+
+FOURTH SCHEDULE: Constitution of Committees Appointed by the Technical and Vocational Education Council
+
+FIFTH SCHEDULE: Education (School Attendance Counselor) Order
+
+SIXTH SCHEDULE: Education (Immunization) Regulations
+
+SEVENTH SCHEDULE: Education (Appeal Tribunal) Regulations
+
+EIGHTH SCHEDULE: Education (Premises of Educational Institutions) Regulations
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
@@ -376,36 +669,6 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-###### Short title.
-
-- This Act may be cited as the Education Act.
-
-###### Interpretation.
-
-- In this Act, unless the context otherwise requires-
-
-'adult education' means-
-
-(a)  continuing education; and
-
-(b)  training  activities  organized  on  a  part-time  basis  suitable  to  the requirements of person over compulsory school age and designed to enhance  knowledge,  skills,  attitudes  or  cultural  awareness,  but  does not include tertiary education;
-
-'assembly' means the gathering together of the staff and students for widening the scope  of  the  student  experience,  developing  a  favourable  school  spirit  and building wholesome school-community relationship;
-
-(Inserted by Act 17 of 2007)
-
-'Board' means the Education Advisory Board established by section 9 of this Act;
-
-'Chief  Education  Officer'  means  a  person  appointed  in  accordance  with  the provisions  of  the  Constitution  to  discharge  the  functions  of  Chief  Education Officer;
-
-'class', in relation to a particular student and a particular subject, means the teaching group in which a student is regularly taught that subject or, where there are two or more groups, such one of them as may be designated by the principal of the school;
-
-'compulsory  school  age'  means  the  ages  prescribed  by  the  Minister  during  which students are obliged to attend school under section 26(1) of this Act;
-
-'early childhood education' means education provided either within a primary school or in an institution specially designed for that purpose and suitable to the needs of children three years of age or older but under five years of age;
-
-'denominational school' means an educational institution established, managed and maintained by a religious community at its own expense;
-
 # CHAPTER 13.01
 
 # EDUCATION ACT
@@ -415,6 +678,36 @@ AN ACT TO PROVIDE FOR A REGULATORY SYSTEM FOR THE DELIVERY OF EDUCATIONAL SERVIC
 ## PART 1
 
 ### PRELIMINARY
+
+###### Short title.
+
+1. This Act may be cited as the Education Act.
+
+###### Interpretation.
+
+2. In this Act, unless the context otherwise requires—
+
+“adult education” means—
+
+(a) continuing education; and
+
+(b) training activities organized on a part-time basis suitable to the requirements of person over compulsory school age and designed to enhance knowledge, skills, attitudes or cultural awareness, but does not include tertiary education;
+
+“assembly” means the gathering together of the staff and students for widening the scope of the student experience, developing a favourable school spirit and building wholesome school-community relationship;
+
+(Inserted by Act 17 of 2007)
+
+“Board” means the Education Advisory Board established by section 9 of this Act;
+
+“Chief Education Officer” means a person appointed in accordance with the provisions of the Constitution to discharge the functions of Chief Education Officer;
+
+“class”, in relation to a particular student and a particular subject, means the teaching group in which a student is regularly taught that subject or, where there are two or more groups, such one of them as may be designated by the principal of the school;
+
+“compulsory school age” means the ages prescribed by the Minister during which students are obliged to attend school under section 26(1) of this Act;
+
+“early childhood education” means education provided either within a primary school or in an institution specially designed for that purpose and suitable to the needs of children three years of age or older but under five years of age;
+
+“denominational school” means an educational institution established, managed and maintained by a religious community at its own expense;
 
 Revision Date:
 
@@ -434,45 +727,45 @@ CAP. 13.01
 
 11
 
-'distance education' means an educational process in which a significant proportion of the teaching is conducted through one medium or a combination of media by persons removed in space or time from the learners;
+“distance education” means an educational process in which a significant proportion of the teaching is conducted through one medium or a combination of media by persons removed in space or time from the learners;
 
-'educational institution' means any school, training centre, or college or such other institution of higher education as may be prescribed;
+“educational institution” means any school, training centre, or college or such other institution of higher education as may be prescribed;
 
-'educational  programme'  means  a  course  of  study  whether  conducted  in  an educational  institution  or  otherwise  that  is  designed  to  meet  the  specified learning needs of an individual or group of persons;
+“educational programme” means a course of study whether conducted in an educational institution or otherwise that is designed to meet the specified learning needs of an individual or group of persons;
 
-'Minister' means the Minister of Education;
+“Minister” means the Minister of Education;
 
-'Ministry' means the Ministry of Education;
+“Ministry” means the Ministry of Education;
 
-'parent', in relation to any child, includes a guardian and every person who is liable to maintain or has the custody of any child and a person living as husband with the mother of a child whether or not he is the father and a person living as wife with the father of a child whether or not she is the mother;
+“parent”, in relation to any child, includes a guardian and every person who is liable to maintain or has the custody of any child and a person living as husband with the mother of a child whether or not he is the father and a person living as wife with the father of a child whether or not she is the mother;
 
-'primary education' means full-time education suited to the requirements of students of primary school age;
+“primary education” means full-time education suited to the requirements of students of primary school age;
 
-'primary  student'  means  a  student  who  at  the  beginning  of  the  school  year  has attained  the  age  prescribed  under  section  26  or  will  attain  that  age  on December 31 of that same year but has not attained the age of sixteen years;
+“primary student” means a student who at the beginning of the school year has attained the age prescribed under section 26 or will attain that age on December 31 of that same year but has not attained the age of sixteen years;
 
-'principal' means the head of an educational institution under this Act;
+“principal” means the head of an educational institution under this Act;
 
-'private educational institutions' mean schools other than public schools and assisted private  schools  and  which  are  owned,  managed,  and  financed  by  trusts, individuals, bodies or any incorporated or unincorporated bodies and include-
+“private educational institutions” mean schools other than public schools and assisted private schools and which are owned, managed, and financed by trusts, individuals, bodies or any incorporated or unincorporated bodies and include—
 
-(a)  a school; or
+(a) a school; or
 
-(b)  a class; or
+(b) a class; or
 
-(c)  an educational institution attended by twelve or more  students continuously  for  more  than  eight  hours  per  week  and  which  is  in possession of a permit issued by the Minister;
+(c) an educational institution attended by twelve or more students continuously for more than eight hours per week and which is in possession of a permit issued by the Minister;
 
-'public schools' means schools which are wholly or mainly maintained at the public expense  and  to  which  the  general  public  has  access  without  any  conditions other than those authorized by or under this Act;
+“public schools” means schools which are wholly or mainly maintained at the public expense and to which the general public has access without any conditions other than those authorized by or under this Act;
 
-'secondary  education'  means  full-time  education  suited  to  the  requirements  of students of secondary school age;
+“secondary education” means full-time education suited to the requirements of students of secondary school age;
 
-'student' means a person of any age for whom education is provided under this Act;
+“student” means a person of any age for whom education is provided under this Act;
 
-'Teachers College' means an educational institution established for the purpose of training teachers for service in educational institutions;
+“Teachers College” means an educational institution established for the purpose of training teachers for service in educational institutions;
 
-'Technical  College'  means  a  school  or  other  institution  that  provides  for  studies, training or research in technology, science, commerce or art;
+“Technical College” means a school or other institution that provides for studies, training or research in technology, science, commerce or art;
 
-'tertiary education' means-
+“tertiary education” means—
 
-(a)  education  suitable  to  the  requirements  of  persons  over  compulsory school age who are not enrolled for secondary education in any school or,  if  enrolled  in  secondary  education,  have  completed  a  course  of secondary education; and
+(a) education suitable to the requirements of persons over compulsory school age who are not enrolled for secondary education in any school or, if enrolled in secondary education, have completed a course of secondary education; and
 
 [[END OF PAGE 11]]
 
@@ -558,7 +851,7 @@ CAP. 13.01
 
 (h)  to increase awareness and appreciation of the natural environment of the state;
 
-(i) to  promote  a  national  and  a  Caribbean  identity  through  regional  cooperation and integration;
+(i) to promote a national and a Caribbean identity through regional co-operation and integration;
 
 (j) to develop an understanding of the historical and contemporary role of labour and business in society; and
 
@@ -778,7 +1071,7 @@ Revision Date: 31 Dec 2009
 
 ###### Functions of Advisory Board.
 
-(1)  The Board shall advise the Minister on matters
+10. (1) The Board shall advise the Minister on matters
 
 (a)  connected with education as it thinks fit;
 
@@ -810,43 +1103,23 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-###### Right to education.
-
-14. Subject to available resources, all persons are entitled to receive an educational programme appropriate to their needs in accordance with the provisions of this Act.
-
-###### Educational program.
-
-15. (1)  The Chief Education Officer shall provide to every compulsory school-age person  who  resides  in  the  island  an  educational  programme  consistent  with  the requirements of this Act and regulations made under the Act.
-
-(Amended by Act 17 of 2007)
-
-(2)  For the purposes of providing the educational programme to the student, the Chief Education Officer shall-
-
-(a)  enroll  the  student  in  an  educational  programme,  offered  by  the Ministry of Education; or
-
-(b)  direct  the  student  to  attend  an  educational  programme  offered  by another educational institution where it is reasonable to do so.
-
-Revision Date:
-
-31 Dec 2009
-
-(2)  The  Minister  may  require  the  Board  to  hold  a  public  hearing  respecting any matter affecting the promotion of education and when so required, the Board may adopt the procedure outlined in subsection (1) which it considers most appropriate.
+(2) The Minister may require the Board to hold a public hearing respecting any matter affecting the promotion of education and when so required, the Board may adopt the procedure outlined in subsection (1) which it considers most appropriate.
 
 ###### Minister not bound by advice of Board.
 
-12. (1)  The  Minister  shall  not  be  bound  to  accept  the  advice  of  the  Board,  and where the Minister considers it advisable the Minister may refer a matter back to the Board for reconsideration.
+12. (1) The Minister shall not be bound to accept the advice of the Board, and where the Minister considers it advisable the Minister may refer a matter back to the Board for reconsideration.
 
-(2)  Where, after reconsideration, pursuant to subsection (1) the Board adheres to the advice it had previously given, the Minister may reject the advice or adopt it either  wholly  or  with  such  modification,  additions  or  adaptations  as  the  Minister thinks fit.
+(2) Where, after reconsideration, pursuant to subsection (1) the Board adheres to the advice it had previously given, the Minister may reject the advice or adopt it either wholly or with such modification, additions or adaptations as the Minister thinks fit.
 
 ###### Special Committees.
 
-13. (1)  Notwithstanding section 9, the Minister may appoint such special committees as the Minister considers necessary to advise the Minister with respect to any specific matter which may arise from time to time.
+13. (1) Notwithstanding section 9, the Minister may appoint such special committees as the Minister considers necessary to advise the Minister with respect to any specific matter which may arise from time to time.
 
-(2)  A special committee shall-
+(2) A special committee shall—
 
-(a)  comprise such members as the Minister appoints; and
+(a) comprise such members as the Minister appoints; and
 
-(b)  have such duties as the Minister specifies.
+(b) have such duties as the Minister specifies.
 
 ## PART 3
 
@@ -854,7 +1127,27 @@ Revision Date:
 
 #### DIVISION 1
 
-##### STUDENTS' RIGHTS AND RESPONSIBILITIES
+##### STUDENTS’ RIGHTS AND RESPONSIBILITIES
+
+###### Right to education.
+
+14. Subject to available resources, all persons are entitled to receive an educational programme appropriate to their needs in accordance with the provisions of this Act.
+
+###### Educational program.
+
+15. (1) The Chief Education Officer shall provide to every compulsory school-age person who resides in the island an educational programme consistent with the requirements of this Act and regulations made under the Act.
+
+(Amended by Act 17 of 2007)
+
+(2) For the purposes of providing the educational programme to the student, the Chief Education Officer shall—
+
+(a) enroll the student in an educational programme, offered by the Ministry of Education; or
+
+(b) direct the student to attend an educational programme offered by another educational institution where it is reasonable to do so.
+
+Revision Date:
+
+31 Dec 2009
 
 [[END OF PAGE 18]]
 
@@ -908,7 +1201,7 @@ Revision Date: 31 Dec 2009
 
 ###### Students accountable to teacher, principal, and Ministry.
 
-(1)  Every student shall be accountable-
+18. (1) Every student shall be accountable—
 
 (a)  to  the  teacher  for  his  or  her  conduct  on  the  school  premises  during school hours and during such hours as the teacher is in charge of the student  in  class  or  while  engaged  in  authorized  school  activities conducted during out-of-school hours; and
 
@@ -1050,7 +1343,7 @@ Revision Date: 31 Dec 2009
 
 24. (1)  Parents and teachers may, in accordance with regulations made under this Act form associations, to be known as Parent Teacher Associations.
 
-- The Minister shall encourage and assist in the formation of-
+(2) The Minister shall encourage and assist in the formation of—
 
 (a)  Parent Teacher Associations; and
 
@@ -1210,13 +1503,13 @@ Revision Date: 31 Dec 2009
 
 ###### Readmission of student on production of medical certificate.
 
-33. (1)  A student who has been refused admission to a school on the ground that the  student  is  suffering  from  or  exposed  to  a  contagious  disease  shall  not  be  readmitted except upon production of a medical certificate from a medical practitioner registered  under  the  Medical  Act  to  the  effect  that  such  student  is  free  from  such disease and is unlikely to be a source of infection to other persons in the school.
+33. (1) A student who has been refused admission to a school on the ground that the student is suffering from or exposed to a contagious disease shall not be re-admitted except upon production of a medical certificate from a medical practitioner registered under the Medical Act to the effect that such student is free from such disease and is unlikely to be a source of infection to other persons in the school.
 
 (2)  The medical certificate required by subsection (1) shall be issued free of charge by any Government medical officer issuing the same.
 
 ###### Temporary or permanent closing of schools.
 
-(1)  Where-
+34. (1) Where—
 
 (a)  as a result of the total or partial destruction by hurricane, earthquake, fire,  flood of all or any of the buildings used in connection with any public school or assisted private school; or
 
@@ -1328,7 +1621,7 @@ CAP. 13.01
 
 ###### Offences against school attendance counsellors.
 
-(1)  A person commits an offence if that person-
+41. (1)  A person commits an offence if that person-
 
 (a)  assaults,  obstructs,  or  uses  insulting,  threatening  obscene,  abusive  or indecent language to-
 
@@ -1372,7 +1665,7 @@ Revision Date: 31 Dec 2009
 
 ###### Duties of school attendance counsellor.
 
-- A school attendance counsellor shall-
+43. A school attendance counsellor shall-
 
 (a)  report monthly to the Chief Education Officer;
 
@@ -1388,7 +1681,7 @@ Revision Date: 31 Dec 2009
 
 ###### Reports by principals.
 
-- Every principal of a school shall-
+44. Every principal of a school shall-
 
 (a)  report, in accordance with such regulations as maybe prescribed, to the school  attendance  counsellor,  the  names,  ages  and  residences  of  all pupils of compulsory age who have not attended school as required;
 
@@ -1448,6 +1741,8 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
 ###### Legal proceedings.
 
 47. (1)  Prosecutions  under  sections  45  and  46  may  be  instituted  by  the  Chief Education Officer.
@@ -1486,10 +1781,6 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 (2)  Corporal punishment may be administered where no other punishment is considered suitable  or effective,  and  only  by  the  principal,  deputy  principal  or  any
 
-Revision Date:
-
-31 Dec 2009
-
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
@@ -1520,7 +1811,7 @@ teacher  appointed  by  the  principal  for  that  purpose,  in  a  manner  whic
 
 51. (1)  A principal may suspend a student for a period not exceeding two school days for any breach by the student of the duties specified in section 17.
 
-- When a student has been suspended, the principal shall-
+(2)  When a student has been suspended, the principal shall-
 
 (a)  make  every  effort  possible  to  inform  the  student's  parents  of  the suspension and the reason for it; and
 
@@ -1886,6 +2177,8 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
 ###### Annual report, statement of accounts of estimates.
 
 67. (1)  Every  Board  of  Management  under  this  Division  shall  submit  to  the Minister-
@@ -1927,10 +2220,6 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 ###### Management of private assisted secondary schools.
 
 70. (1)  Every  secondary  school  or  educational  institution  which  is  an  assisted private  school  shall  be  administered  by  a  Board  of  Management  of  not  more  than twelve members appointed by the Minister in the following manner-
-
-Revision Date:
-
-31 Dec 2009
 
 [[END OF PAGE 38]]
 
@@ -2112,6 +2401,8 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
 ###### Council on early childhood education services.
 
 78. (1)  The Minister may, when he or she deems it desirable, establish a Council on  Early  Childhood  Education  to  advise  him  or  her  on  policies  to  guide  the implementation of this Division.
@@ -2153,8 +2444,6 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 80. (1)  A parent of a student may provide, at home, a home education programme for the student if the parent complies with this section and if the programme meets the goals and objectives outlined in section 3.(3) of this Act.
 
 (2)  The  parent  shall,  prior  to  the  commencement  of  a  home  education programme for the student and on an annual basis thereafter for as long as the home education  programme  is  offered,  register  the  student  with  the  Chief  Education Officer.
-
-Revision Date: 31 Dec 2009
 
 [[END OF PAGE 42]]
 
@@ -2218,6 +2507,12 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
+#### DIVISION 4
+
+##### SPECIAL EDUCATION
+
 ###### Special education.
 
 82. (1)  The Chief Education Officer shall provide special education programmes for students of compulsory school age who by virtue of intellectual, communicative, behavioural, physical or multiple exceptionalities are in need of special education.
@@ -2246,15 +2541,7 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 (g)  the parents shall be provided with information concerning the right of appeal to the Education Appeal Tribunal.
 
-(2)  Subject  to  subsection  (1),  the  principal,  in  consultation  with  professional staff  and  parents  or,  where  a  child  is  not  in  attendance  at  a  school,  the  Chief Education  Officer  and  professional  staff  and  educational  needs,  and,  if  so,  what special education programme is appropriate to meet the needs of that student.
-
-#### DIVISION 4
-
-##### SPECIAL EDUCATION
-
-Revision Date:
-
-31 Dec 2009
+(2)  Subject to subsection (1), the principal, in consultation with professional staff and parents or, where a child is not in attendance at a school, the Chief Education Officer and professional staff shall determine whether the student has special educational needs, and, if so, what special education programme is appropriate to meet the needs of that student.
 
 [[END OF PAGE 44]]
 
@@ -2280,7 +2567,7 @@ Revision Date: 31 Dec 2009
 
 ###### Special needs appeals.
 
-(1)  If a disagreement arises respecting a decision concerning-
+84. (1)  If a disagreement arises respecting a decision concerning-
 
 (a)  the identification of a student with special educational needs;
 
@@ -2324,31 +2611,7 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-###### Status of public schools.
-
-- All public schools existing at the commencement of this Act shall be deemed to have been established by this Act and shall continue as public schools under this Act.
-
-#### DIVISION 2
-
-##### PRIVATE EDUCATIONAL INSTITUTIONS
-
-###### Interpretation.
-
-- The word 'institution' or 'school' where used in this Division to refer to the subject of rights or obligations, mean the person operating the institution or school to which the provision concerned applies.
-
-###### Body without legal personality.
-
-(1)  In the case of a body not endowed with legal personality, the provisions of this Act shall apply as if the body were endowed with legal personality.
-
-(2)  The  obligations  to  comply  with  the  provisions  of  this  Act  lies  with  the persons responsible for the administration of the body.
-
-- In the case of an institution established by partnership, the obligation lies with both the partnership and the partners.
-
-###### Applicability.
-
-- This Act applies to every private educational institution dispensing all or some of the educational services belonging to one or more of the following categories-
-
-(a)  early childhood educational services;
+Revision Date: 31 Dec 2009
 
 ## PART 6
 
@@ -2370,9 +2633,31 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 ##### PUBLIC SCHOOLS
 
-Revision Date:
+###### Status of public schools.
 
-31 Dec 2009
+87. All public schools existing at the commencement of this Act shall be deemed to have been established by this Act and shall continue as public schools under this Act.
+
+#### DIVISION 2
+
+##### PRIVATE EDUCATIONAL INSTITUTIONS
+
+###### Interpretation.
+
+88. The word 'institution' or 'school' where used in this Division to refer to the subject of rights or obligations, mean the person operating the institution or school to which the provision concerned applies.
+
+###### Body without legal personality.
+
+89. (1)  In the case of a body not endowed with legal personality, the provisions of this Act shall apply as if the body were endowed with legal personality.
+
+(2)  The  obligations  to  comply  with  the  provisions  of  this  Act  lies  with  the persons responsible for the administration of the body.
+
+(3)  In the case of an institution established by partnership, the obligation lies with both the partnership and the partners.
+
+###### Applicability.
+
+90. This Act applies to every private educational institution dispensing all or some of the educational services belonging to one or more of the following categories-
+
+(a)  early childhood educational services;
 
 [[END OF PAGE 46]]
 
@@ -2442,19 +2727,11 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-###### Refusal.
-
-98. (1)  The  Minister  may  refuse  to  issue  a  permit  if,  during  the  three  years preceding the application, a permit held by the applicant was revoked.
-
-(2)  Where  an  application  for  a  permit  to  establish  a  private  educational institution is refused, the applicant shall be notified in writing
-
-(a)  of the refusal and of the reasons for refusal; and
-
 Revision Date: 31 Dec 2009
 
 (3)  The  Chief  Education Officer shall annually certify a copy of the Private Educational Institutions Register and the copy so certified shall be published in the Gazette on such date as the Minister may determine.
 
-(4)  The Chief Education Officer shall certify any amendment to the Register and the amendment shall be published in the Gazette .
+(4)  The Chief Education Officer shall certify any amendment to the Register and the amendment shall be published in the Gazette.
 
 ###### Application for registration.
 
@@ -2481,6 +2758,14 @@ Revision Date: 31 Dec 2009
 (g)  that  the  private  educational  institution  will  have  at  its  disposal  the adequate  human  and  material  resources  required  for  dispensing  the educational  services  for  which  the  permit  is  issued  and  sufficient financial resources for that purposes; and
 
 (h)  the applicant has paid the fee fixed by regulations.
+
+###### Refusal.
+
+98. (1)  The  Minister  may  refuse  to  issue  a  permit  if,  during  the  three  years preceding the application, a permit held by the applicant was revoked.
+
+(2)  Where  an  application  for  a  permit  to  establish  a  private  educational institution is refused, the applicant shall be notified in writing
+
+(a)  of the refusal and of the reasons for refusal; and
 
 [[END OF PAGE 48]]
 
@@ -2680,7 +2965,7 @@ Revision Date: 31 Dec 2009
 
 (2)  The  requirements  of  section  97  shall  apply  to  an  application  under subsection (1).
 
-(3)  From  the  date  on  which  the  cancellation  of  the  registration  of  a  private educational institution takes effect, the institution shall remain closed until it is reregistered.
+(3)  From  the  date  on  which  the  cancellation  of  the  registration  of  a  private educational institution takes effect, the institution shall remain closed until it is re-registered.
 
 (4)  Where the Minister is satisfied that the notice served under section 108 has been complied with, the Minister may re-register the private educational institution subject to any condition which the Minister may specify.
 
@@ -2754,7 +3039,7 @@ Revision Date: 31 Dec 2009
 
 117. (1)  An  assisted  private  school  comes  into  existence  by  mutual  agreement between the Minister and the proprietor of the school.
 
-- An agreement under subsection (1) shall-
+(2)  An agreement under subsection (1) shall-
 
 (a)  be in writing;
 
@@ -2824,7 +3109,7 @@ or subsidy or other form of financial assistance designed to meet in whole or in
 
 ###### Regulations for denominational schools.
 
-- The Minister may make regulations relating to-
+122. The Minister may make regulations relating to-
 
 (a)  the registration of denominational schools;
 
@@ -2880,6 +3165,8 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
 ###### Functions of Council.
 
 124. The functions of the Technical and Vocational Education Council are-
@@ -2923,10 +3210,6 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 (a)  to  undertake  research  or  assist  persons  in  undertaking  research  into matters relating to technical and vocational education;
 
 (b)  to  advise  the  Technical  and  Vocational  Education  and  Training Council on specified aspects of technical and vocational education;
-
-Revision Date:
-
-31 Dec 2009
 
 [[END OF PAGE 56]]
 
@@ -3536,7 +3819,7 @@ Provided that students shall be required to attend school assembly, but shall no
 
 150. (1)  There shall be established scholarships to be called the Saint Christopher and Nevis Scholarships.
 
-- The scholarships shall be open to public competition each year.
+(2)  The scholarships shall be open to public competition each year.
 
 (3)  The scholarships shall be tenable at the University of the West Indies or at any university, college or institution approved by the Cabinet.
 
@@ -3696,6 +3979,8 @@ commits an offence and is liable, on summary conviction, to a fine not exceeding
 
 (2)  A person who contravenes any provision of this Act or Regulations made under this Act, for which no penalty is specified, commits an offence punishable on summary conviction.
 
+(Inserted by Act 17 of 2007)
+
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
@@ -3802,7 +4087,7 @@ Revision Date: 31 Dec 2009
 
 (4)  The  chairperson  and  members  of  the  Tribunal  shall  be  appointed  by  the Minister, after consulting the Attorney General, for such period not exceeding three years  as  is  specified  in  the  member's  instrument  of  appointment,  except  that  the member is eligible for re-appointment.
 
-(5)  The Chairperson and members of the Tribunal shall swear an oath of nondisclosure in the form prescribed by the Minister for information gained during the determination of Appeals under this Act.
+(5)  The Chairperson and members of the Tribunal shall swear an oath of non-disclosure in the form prescribed by the Minister for information gained during the determination of Appeals under this Act.
 
 (6)  No member of the Tribunal shall be suspended or dismissed except-
 
@@ -3938,21 +4223,21 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 ###### Loitering etc. on school premises.
 
-173. (1)  Any person who-
+173. (1)  Any person who—
 
 (a)  is found loitering, wandering or otherwise trespassing on the premises of any educational institution;
 
 (b)  creates a disturbance on the premises of any educational institution;
 
-(c)  while on the premises of any educational institution-
+(c)  while on the premises of any educational institution—
 
-(i)  uses threatening or insulting language or in any manner interferes with  any  student  or  member  of  the  staff  of  the  educational institution; or
+(i)  uses threatening or insulting language or in any manner interferes with any student or member of the staff of the educational institution; or
 
 (ii)  assaults, insults or abuses a teacher or student;
 
-(iii)  commits  any  damage  to  any  school  building  or  other  property found on the premises of, or forming part of the compound of the educational institution;
+(iii)  commits any damage to any school building or other property found on the premises of, or forming part of the compound of the educational institution;
 
-(d)  while  in  a  public  place,  causes  or  makes  a  noise  that  disturbs  or  is likely to disturb any lawful activity carried out on the premises of an educational institution; or
+(d)  while in a public place, causes or makes a noise that disturbs or is likely to disturb any lawful activity carried out on the premises of an educational institution; or
 
 (e)  commits any damage to any school building or other property found on the premises of, or forming part of the compound of the educational institution,
 
@@ -3962,19 +4247,19 @@ commits an offence and is liable, on summary conviction, to a fine not exceeding
 
 (3)  A person who commits an offence under subsection (1), may be arrested by any member of the Police Force, with or without a warrant.
 
-(4)  A  prosecution  for  an  offence  under  this  section  in  relation  to  a  public school  or  an  assisted  private  school  may  be  brought  in  the  name  of  the  Chief Education Officer.
+(4)  A prosecution for an offence under this section in relation to a public school or an assisted private school may be brought in the name of the Chief Education Officer.
 
 ###### Regulations.
 
 174. (1)  Subject to the provisions of this Act, the Minister may make regulations generally for the proper carrying out of the goals and objectives of this Act.
 
-(2)  Without restricting the generality of subsection (1), the Minister may make regulations-
+(2)  Without restricting the generality of subsection (1), the Minister may make regulations—
 
-(a)  concerning  the  management  and  conduct  of  public  schools  and assisted private schools;
+(a)  concerning the management and conduct of public schools and assisted private schools;
 
-(b)  concerning the control and management and conduct and registration of private educational institutions and, in particular, in respect of-
+(b)  concerning the control and management and conduct and registration of private educational institutions and, in particular, in respect of—
 
-(i)  the  size  of  the  classrooms  and  their  equipment,  the  number  of students  that  may  occupy  each  classroom  and  the  necessary sanitary facilities to be provided;
+(i)  the size of the classrooms and their equipment, the number of students that may occupy each classroom and the necessary sanitary facilities to be provided;
 
 (ii)  the registers and other records to be kept by proprietors of private schools and the particulars to be furnished to the Ministry by the proprietors;
 
@@ -3996,7 +4281,7 @@ Revision Date: 31 Dec 2009
 
 (iii)  the suitability of premises;
 
-(iv)  the  suitability  of  the  curriculum  and  courses  and  methods  of instruction;
+(iv)  the suitability of the curriculum and courses and methods of instruction;
 
 (v)  generally for more effectively carrying out the provisions of this Act respecting private educational institutions;
 
@@ -4004,19 +4289,19 @@ Revision Date: 31 Dec 2009
 
 (d)  concerning the purposes for which the premises of a public school may be used;
 
-(e)  prescribing the financial or other assistance and the conditions subject to  which  such  assistance  is  given  to  any  educational  institution,  or class of educational institutions specified in such regulations;
+(e)  prescribing the financial or other assistance and the conditions subject to which such assistance is given to any educational institution, or class of educational institutions specified in such regulations;
 
-(f) concerning  the  admission  of  students  to  public  schools  and  assisted private schools, the discipline of such students, the keeping by public schools and assisted private schools of a school record of each student, the  particulars  to  be  included  in  the  record  and  the  disposal  of  the record;
+(f)  concerning the admission of students to public schools and assisted private schools, the discipline of such students, the keeping by public schools and assisted private schools of a school record of each student, the particulars to be included in the record and the disposal of the record;
 
-(g)  concerning  the  admission  of  persons  to  teachers'  colleges  and  the conditions of admission;
+(g)  concerning the admission of persons to teachers’ colleges and the conditions of admission;
 
-(h)  respecting-
+(h)  respecting—
 
 (i)  the admission or transfer of students to public secondary schools and assisted private secondary schools; and
 
 (ii)  the qualifying examinations for admission;
 
-(i) concerning the management and accounting by principals and teachers of public schools and assisted private schools of-
+(i)  concerning the management and accounting by principals and teachers of public schools and assisted private schools of—
 
 (i)  moneys or property payable to or vested in the school;
 
@@ -4024,17 +4309,17 @@ Revision Date: 31 Dec 2009
 
 (iii)  moneys and other property derived by way of gift, bequest, trust, or donations, or in any other manner;
 
-(j) prescribing the division into which students of teachers' colleges are to be classified and the conditions for the selection of students for those divisions  and  for  their  admission  to  or  continuation,  in  or  removal from, teachers' colleges in those divisions;
+(j)  prescribing the division into which students of teachers’ colleges are to be classified and the conditions for the selection of students for those divisions and for their admission to or continuation, in or removal from, teachers’ colleges in those divisions;
 
-(k)  prescribing  the  course  and  curricula  for  students  of  the  various divisions in teachers' colleges;
+(k)  prescribing the course and curricula for students of the various divisions in teachers’ colleges;
 
-(l) providing for the certification and registration of teachers completing courses of training;
+(l)  providing for the certification and registration of teachers completing courses of training;
 
-(m) concerning  the  terms  of  employment  including  grading,  promotion, and leave and payment of salaries and other remuneration to teachers;
+(m)  concerning the terms of employment including grading, promotion, and leave and payment of salaries and other remuneration to teachers;
 
-(n)  concerning the establishment, administration, organization, inspection and classification and discontinuance of schools, including preprimary schools and schools for children with special needs;
+(n)  concerning the establishment, administration, organization, inspection and classification and discontinuance of schools, including pre-primary schools and schools for children with special needs;
 
-(o)  concerning the award of bursaries, grants and other financial assistance  for  tertiary  education  and  specifying  the  value  and  other
+(o)  concerning the award of bursaries, grants and other financial assistance for tertiary education and specifying the value and other
 
 [[END OF PAGE 77]]
 
@@ -4048,37 +4333,19 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-#### Temporary appointment.
-
-- In the absence or in the case of the inability to act of a member, the Minister may appoint any person from the group that member represents to act temporarily in place of that member.
-
-#### Resignation of members.
-
-(1)  A member of the Board, other than the chairperson, may at any time resign from the Board by instrument in writing addressed to the Minister and transmitted through the chairperson, and the member shall, from the date of the receipt of the instrument by the Minister, cease to be a member of the Board.
-
-(2)  The chairperson may, at any time, resign his or her office as a member of the  Board by instrument in writing addressed to the Minister, and such resignation shall take effect from the date of the receipt of the instrument by the Minister.
-
-#### Loss of membership.
-
-- A member of the Board who fails to attend three consecutive meetings of the Board without reasonable excuse shall cease to be a member of the Board henceforth.
-
-#### Filling of vacancies.
-
-4. If any vacancy occurs in the membership of the Board such vacancy shall be filled by the appointment of another member who may, subject to this Schedule, hold office for the remainder of the period for which the previous member was appointed,
-
 Revision Date: 31 Dec 2009
 
-- conditions subject to which grants, and bursaries may be held or other financial assistance given;
+conditions subject to which grants, and bursaries may be held or other financial assistance given;
 
 (p)  prescribing the academic year, hours of school, terms and vacations of public schools and assisted private schools;
 
 (q)  prescribing the cases in which, and the matters for which, fees may be charged in public schools;
 
-(r) concerning  the  inspection  of  public  schools,  assisted  private  schools and private educational institutions;
+(r)  concerning the inspection of public schools, assisted private schools and private educational institutions;
 
-(s)  concerning  the  constitution,  rights,  powers  and  responsibilities  of Student Councils and of the National Students Council;
+(s)  concerning the constitution, rights, powers and responsibilities of Student Councils and of the National Students Council;
 
-(t) embodying any collective agreement arrived at between the Ministry of Education and the Union of Teachers concerning the conditions of service of teachers represented by that union, or between the Ministry and any other body representing members of the teaching profession in respect of such members;
+(t)  embodying any collective agreement arrived at between the Ministry of Education and the Union of Teachers concerning the conditions of service of teachers represented by that union, or between the Ministry and any other body representing members of the teaching profession in respect of such members;
 
 (u)  prescribing anything which by this Act is to be prescribed.
 
@@ -4089,6 +4356,24 @@ ___________
 (Section 9(6))
 
 ### EDUCATION ADVISORY BOARD
+
+#### Temporary appointment.
+
+1. In the absence or in the case of the inability to act of a member, the Minister may appoint any person from the group that member represents to act temporarily in place of that member.
+
+#### Resignation of members.
+
+2. (1)  A member of the Board, other than the chairperson, may at any time resign from the Board by instrument in writing addressed to the Minister and transmitted through the chairperson, and the member shall, from the date of the receipt of the instrument by the Minister, cease to be a member of the Board.
+
+(2)  The chairperson may, at any time, resign his or her office as a member of the Board by instrument in writing addressed to the Minister, and such resignation shall take effect from the date of the receipt of the instrument by the Minister.
+
+#### Loss of membership.
+
+3. A member of the Board who fails to attend three consecutive meetings of the Board without reasonable excuse shall cease to be a member of the Board henceforth.
+
+#### Filling of vacancies.
+
+4. If any vacancy occurs in the membership of the Board such vacancy shall be filled by the appointment of another member who may, subject to this Schedule, hold office for the remainder of the period for which the previous member was appointed,
 
 [[END OF PAGE 78]]
 
@@ -4108,37 +4393,37 @@ but such appointment shall be made in the same manner and from the same category
 
 #### Publication of membership.
 
-- The names of all members of the Board as first constituted, and every change in the membership shall be published in the Official Gazette .
+5. The names of all members of the Board as first constituted, and every change in the membership shall be published in the Official Gazette.
 
 #### Constitution not affected by vacancy.
 
-- The Board shall be deemed to be properly constituted for the purpose of this Schedule  notwithstanding  any  vacancy  among  its  members  or  any  defect  in  their appointments.
+6. The Board shall be deemed to be properly constituted for the purpose of this Schedule notwithstanding any vacancy among its members or any defect in their appointments.
 
 #### Meetings.
 
-(1)  The Board shall meet at least three times a year, and at such other times as may be convenient or expedient for the transaction of business, and at such places as the chairperson may determine.
+7. (1)  The Board shall meet at least three times a year, and at such other times as may be convenient or expedient for the transaction of business, and at such places as the chairperson may determine.
 
-- Subject to this Schedule, the Board may regulate its own procedure.
+(2)  Subject to this Schedule, the Board may regulate its own procedure.
 
 #### Special meetings.
 
-- The chairperson may at any time call a special meeting of the Board and shall call a special meeting within fourteen days of a requisition for that purpose addressed to him or her by any five members.
+8. The chairperson may at any time call a special meeting of the Board and shall call a special meeting within fourteen days of a requisition for that purpose addressed to him or her by any five members.
 
 #### Person to preside at meetings.
 
-- The chairperson or, in his absence, the deputy chairperson shall preside at the meetings of the Board, and in the case of the absence of both the chairperson and deputy  chairperson,  the  members  present  and  constituting  a  quorum  shall  elect  a temporary chairperson from among the members present.
+9. The chairperson or, in his absence, the deputy chairperson shall preside at the meetings of the Board, and in the case of the absence of both the chairperson and deputy chairperson, the members present and constituting a quorum shall elect a temporary chairperson from among the members present.
 
 #### Voting.
 
-- The decisions  of  the  Board  shall  be  by  a  majority  of  votes  of  the  members present  and,  in  addition  to  an  original  vote,  the  chairperson  or  any  other  person presiding at the meeting shall have a casting vote on any case in which the voting is equal.
+10. The decisions of the Board shall be by a majority of votes of the members present and, in addition to an original vote, the chairperson or any other person presiding at the meeting shall have a casting vote on any case in which the voting is equal.
 
 #### Quorum.
 
-- The quorum of the Board at any meeting shall be six.
+11. The quorum of the Board at any meeting shall be six.
 
 #### Minutes.
 
-- Minutes of the proceeding of the Board shall be kept in proper form.
+12. Minutes of the proceeding of the Board shall be kept in proper form.
 
 __________
 
@@ -4154,6 +4439,8 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
 ## SECOND SCHEDULE
 
 (Sections 56, 63, 69 and 70)
@@ -4162,41 +4449,37 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 #### Interpretation.
 
-- In  this  Schedule  'Board'  means  a  Board  of  Management  appointed  under sections 56, 63, 69 and 70 of the Education Act.
+1. In this Schedule “Board” means a Board of Management appointed under sections 56, 63, 69 and 70 of the Education Act.
 
 #### Chairperson and Deputy Chairperson.
 
-(1)  Except in cases of Boards established under sections 69 and 70 of this Act, a Board shall elect a chairperson and a deputy chairperson from among its members.
+2. (1)  Except in cases of Boards established under sections 69 and 70 of this Act, a Board shall elect a chairperson and a deputy chairperson from among its members.
 
-(2)  The  membership of a Board as first constituted and any changes therein shall be notified in the Gazette .
+(2)  The membership of a Board as first constituted and any changes therein shall be notified in the Gazette.
 
 #### Filling of vacancies.
 
-3. If  any  vacancy  occurs  in  the  membership  of  a  Board  such  vacancy  shall  be filled by the appointment of another member in the manner indicated in sections 56, 63, 69 and 70, and such person shall hold office for the remainder of the period for which the previous member was appointed, provided that such appointment shall be made  in  the  same  manner  and  from  the  same  category  of  persons,  if  any,  as  the appointment of the previous member.
+3. If any vacancy occurs in the membership of a Board such vacancy shall be filled by the appointment of another member in the manner indicated in sections 56, 63, 69 and 70, and such person shall hold office for the remainder of the period for which the previous member was appointed, provided that such appointment shall be made in the same manner and from the same category of persons, if any, as the appointment of the previous member.
 
 #### Employment of member.
 
-(1)  No  member  of  a  Board  may  be  appointed  to  any  office  or  employment under the Board of which he or she is a member or any other Board.
+4. (1)  No member of a Board may be appointed to any office or employment under the Board of which he or she is a member or any other Board.
 
 (2)  No person is eligible for appointment to any office or employment under a Board within one year from the date on which the person last held office or acted as a member of that Board.
 
 #### Duration of membership.
 
-5. (1)  A  member of a Board shall hold office for a term of three years unless, before the end of the term the member dies, resigns, is removed from office for any cause by the Minister or the appointing authority under sections 69 and 70 of this Act or ceases to be a member in accordance with sub-paragraph (4).
+5. (1)  A member of a Board shall hold office for a term of three years unless, before the end of the term the member dies, resigns, is removed from office for any cause by the Minister or the appointing authority under sections 69 and 70 of this Act or ceases to be a member in accordance with sub-paragraph (4).
 
 (2)  A member of the Board is eligible for reappointment.
 
-(3)  A  member  of  the  Board  who  fails,  without  reasonable  cause,  to  attend three consecutive meetings of the Board shall cease to be a member of the Board.
+(3)  A member of the Board who fails, without reasonable cause, to attend three consecutive meetings of the Board shall cease to be a member of the Board.
 
 (4)  A member of the Board may at any time resign his office by instrument addressed to the Minister and transmitted through the chairperson, in cases of Boards established in public schools, and through the denomination or proprietor, in cases of Boards established for private assisted schools, and the resignation shall be effective from the date of receipt by the Minister of the instrument.
 
 (5)  The chairperson may, at any time, resign office by instrument addressed to
 
 (a)  the Minister, in cases of Boards established in public schools; and
-
-Revision Date:
-
-31 Dec 2009
 
 [[END OF PAGE 80]]
 
@@ -4212,31 +4495,31 @@ CAP. 13.01
 
 81
 
-(b)  the  denomination  or  proprietor,  in  cases  of  Boards  established  in private assisted schools;
+(b)  the denomination or proprietor, in cases of Boards established in private assisted schools;
 
 and the resignation shall be effective from the date of receipt by the Minister of the instrument.
 
 #### Meetings.
 
-6. (1)  A  Board shall meet at least once in every school term and at such other times as may be necessary or expedient for the transaction of its business and such meetings shall be held on such days and at such places and time as the chairperson may determine.
+6. (1)  A Board shall meet at least once in every school term and at such other times as may be necessary or expedient for the transaction of its business and such meetings shall be held on such days and at such places and time as the chairperson may determine.
 
-(2)  The chairperson-
+(2)  The chairperson—
 
 (a)  may at any time summon a meeting of a Board; and
 
 (b)  shall summon a meeting of the Board within seven days
 
-(i)  upon  a  request  for  that  purpose  addressed  to  the  chairperson  by any three members of the Board; or
+(i)  upon a request for that purpose addressed to the chairperson by any three members of the Board; or
 
 (ii)  upon a direction to that effect addressed to the chairperson by the Minister.
 
-(3)  The  chairperson,  or  in  his  or  her  absence  the  deputy  chairperson,  shall preside at any meeting of the Board.
+(3)  The chairperson, or in his or her absence the deputy chairperson, shall preside at any meeting of the Board.
 
 (4)  Where the Chairperson and the Deputy Chairperson are absent from any meeting of a Board, or are incapacitated to act, the members of the Board present at the meeting shall elect one of their members to preside at that meeting.
 
 #### Quorum.
 
-7. At  any  meeting  of  a  Board  the  quorum  shall  be  the  minimum  number constituting a majority of the total members of the Board.
+7. At any meeting of a Board the quorum shall be the minimum number constituting a majority of the total members of the Board.
 
 #### Decisions.
 
@@ -4244,13 +4527,13 @@ and the resignation shall be effective from the date of receipt by the Minister 
 
 #### Minutes.
 
-9. (1)  Minutes, in proper form, of each meeting of a Board shall be kept by the secretary  or  such  person  as  the  Board  may  appoint  for  the  purpose  and  shall  be confirmed by the Board at its next meeting and signed by the chairperson or other person presiding at that meeting, and the secretary of the Board.
+9. (1)  Minutes, in proper form, of each meeting of a Board shall be kept by the secretary or such person as the Board may appoint for the purpose and shall be confirmed by the Board at its next meeting and signed by the chairperson or other person presiding at that meeting, and the secretary of the Board.
 
-(2)  A  copy  of  the  Minutes  of  each  meeting  as  recorded  by  the  secretary  or such person as is referred to in sub-paragraph (1) shall be submitted to the Minister within one month of the confirmation of the Minutes.
+(2)  A copy of the Minutes of each meeting as recorded by the secretary or such person as is referred to in sub-paragraph (1) shall be submitted to the Minister within one month of the confirmation of the Minutes.
 
 #### Attendance of Chief Education Officer.
 
-10. (1)  The  Chief  Education  Officer  may  attend  any  meeting  of  a  Board  or  a committee or sub-committee of the Board or may be represented at the meeting by a public officer authorised by him or her in that behalf.
+10. (1)  The Chief Education Officer may attend any meeting of a Board or a committee or sub-committee of the Board or may be represented at the meeting by a public officer authorised by him or her in that behalf.
 
 [[END OF PAGE 81]]
 
@@ -4264,29 +4547,27 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-Revision Date:
+Revision Date: 31 Dec 2009
 
-31 Dec 2009
-
-- The Chief Education Officer or his or her representative may take part in the proceedings of the meeting but shall not be entitled to vote or otherwise take part in the decision-making process of the meeting.
+(2)  The Chief Education Officer or his or her representative may take part in the proceedings of the meeting but shall not be entitled to vote or otherwise take part in the decision-making process of the meeting.
 
 #### Appointment of committees.
 
-11. (1)  A  Board may appoint a committee for any of the purposes of the Board which in its opinion would be better regulated or managed by means of a committee, with or without restrictions or conditions, as it thinks fit.
+11. (1)  A Board may appoint a committee for any of the purposes of the Board which in its opinion would be better regulated or managed by means of a committee, with or without restrictions or conditions, as it thinks fit.
 
-(2)  The  number  of  members of  a  committee  appointed  under  this  paragraph and their terms of office shall be fixed by the Board.
+(2)  The number of members of a committee appointed under this paragraph and their terms of office shall be fixed by the Board.
 
 (3)  A committee appointed under this paragraph may include persons who are not members of the Board but the chairperson and at least two-thirds of the members of every committee shall be members of the Board.
 
 (4)  Any committee apointed by a Board under this paragraph may, subject to any restrictions imposed by the Board, appoint a sub-committee of its members as it may determine.
 
-(5)  Any sub-committee appointed under this paragraph shall be constituted in such manner as, subject to any restrictions imposed by the Board, may be determined by  the  appointing  committee,  but  the  chairperson  and  at  least  two-thirds  of  the members of every sub-committee shall be members of the Board.
+(5)  Any sub-committee appointed under this paragraph shall be constituted in such manner as, subject to any restrictions imposed by the Board, may be determined by the appointing committee, but the chairperson and at least two-thirds of the members of every sub-committee shall be members of the Board.
 
-(6)  Subject  to  any  restrictions  imposed  by  the  Board,  where  a  committee appointed  by  the  Board  appoints  a  sub-committee  in  the  exercise  of  the  powers conferred on it by sub-paragraph (4), it may delegate to the sub-committee, with or without restrictions or conditions as it thinks fit, any of its functions.
+(6)  Subject to any restrictions imposed by the Board, where a committee appointed by the Board appoints a sub-committee in the exercise of the powers conferred on it by sub-paragraph (4), it may delegate to the sub-committee, with or without restrictions or conditions as it thinks fit, any of its functions.
 
 #### Power to delegate.
 
-12. Without  prejudice  to  paragraph  11,  a  Board,  after  consultation  with  the Minister,  may  delegate  to  any  committee  such  of  its  functions  as  it  considers appropriate subject to such restrictions or conditions as it thinks fit.
+12. Without prejudice to paragraph 11, a Board, after consultation with the Minister, may delegate to any committee such of its functions as it considers appropriate subject to such restrictions or conditions as it thinks fit.
 
 __________
 
@@ -4298,11 +4579,11 @@ __________
 
 #### Definition.
 
-- In  the  Schedule,  'Council'  means  the  Technical  and  Vocational  Education Council appointed under section 123 of this Act.
+1. In the Schedule, “Council” means the Technical and Vocational Education Council appointed under section 123 of this Act.
 
 #### Duration of appointment.
 
-- A member of the Council shall hold office for a term of 3 years unless he or she dies, resigns or has his or her appointment revoked before the end of that term, but-
+2. A member of the Council shall hold office for a term of 3 years unless he or she dies, resigns or has his or her appointment revoked before the end of that term, but—
 
 [[END OF PAGE 82]]
 
@@ -4318,41 +4599,41 @@ CAP. 13.01
 
 Revision Date: 31 Dec 2009
 
-(a)  a  person  who  is  appointed  to  fill  a  vacancy  created  by  the  death, registration or removal from office of a member shall hold office only for the unexpired portion of the term of the former member; and
+(a)  a person who is appointed to fill a vacancy created by the death, registration or removal from office of a member shall hold office only for the unexpired portion of the term of the former member; and
 
-(b)  every member  is,  on  the  expiration  of  the  term  of  his or her appointment, eligible for re-appointment.
+(b)  every member is, on the expiration of the term of his or her appointment, eligible for re-appointment.
 
 #### Leave of absence.
 
-- The Minister may grant leave of absence to a member of the Council and may appoint a person to act temporarily in the place of that member.
+3. The Minister may grant leave of absence to a member of the Council and may appoint a person to act temporarily in the place of that member.
 
 #### Resignation of member.
 
-- A member of the  Council,  other  than  the  chairperson,  may  resign  office  by instrument addressed to the Minister transmitted through the chairperson and, from the date of the receipt of the instrument by the Minister, if no date is specified in that instrument, the member shall cease to be a member of the Council.
+4. A member of the Council, other than the chairperson, may resign office by instrument addressed to the Minister transmitted through the chairperson and, from the date of the receipt of the instrument by the Minister, if no date is specified in that instrument, the member shall cease to be a member of the Council.
 
 #### Resignation of chairperson.
 
-- The chairperson may, at any time, resign his office by instrument addressed to the Minister and, from the date of the receipt of the instrument by the Minister, if no date is specified in that instrument, he or she shall cease to be chairperson and to be a member of the Council.
+5. The chairperson may, at any time, resign his office by instrument addressed to the Minister and, from the date of the receipt of the instrument by the Minister, if no date is specified in that instrument, he or she shall cease to be chairperson and to be a member of the Council.
 
 #### Quorum.
 
-- Four members of the Council shall form a quorum.
+6. Four members of the Council shall form a quorum.
 
 #### Decisions.
 
-- Decisions of the Council shall be made by a majority of the members present and voting, and where the voting is equal the chairperson, in addition to his or her original vote, shall have a casting vote.
+7. Decisions of the Council shall be made by a majority of the members present and voting, and where the voting is equal the chairperson, in addition to his or her original vote, shall have a casting vote.
 
 #### Frequency of meetings.
 
-- The Council shall meet at such times as may be expedient for the transaction of its business and such meetings shall be held at such places and times and on such days as the Council may determine.
+8. The Council shall meet at such times as may be expedient for the transaction of its business and such meetings shall be held at such places and times and on such days as the Council may determine.
 
 #### Special meeting.
 
-- The chairperson or, in the event of his or her being absent from the Federation or for any reason is unable to act, the deputy chairperson, shall call a special meeting within seven days after receiving a requisition to do so by any four members of the Council.
+9. The chairperson or, in the event of his or her being absent from the Federation or for any reason is unable to act, the deputy chairperson, shall call a special meeting within seven days after receiving a requisition to do so by any four members of the Council.
 
 #### Minutes.
 
-10. Minutes  of  each  meeting  shall  be  kept  by  the  Secretary  or  another  person appointed by the Council for the purpose, and shall be confirmed by the Council at its next meeting and signed by the chairperson or other person presiding at that meeting and the Secretary.
+10. Minutes of each meeting shall be kept by the Secretary or another person appointed by the Council for the purpose, and shall be confirmed by the Council at its next meeting and signed by the chairperson or other person presiding at that meeting and the Secretary.
 
 [[END OF PAGE 83]]
 
@@ -4366,13 +4647,15 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
 #### Co-opting of other persons.
 
-- The Council may co-opt persons to attend any of its meetings for the purpose of assisting or advising it on any matter with which the Council is dealing, except that a co-opted member shall not vote at any meeting of the Council.
+11. The Council may co-opt persons to attend any of its meetings for the purpose of assisting or advising it on any matter with which the Council is dealing, except that a co-opted member shall not vote at any meeting of the Council.
 
 #### Procedure.
 
-- Subject to this Schedule, the Council may regulate its own procedure.
+12. Subject to this Schedule, the Council may regulate its own procedure.
 
 #### Documents.
 
@@ -4388,29 +4671,25 @@ __________
 
 #### Definition.
 
-- In this Schedule-
+1. In this Schedule—
 
-(a)  'Council'  means  the  Technical  and  Vocational  Education  Council appointed under section 123 of this Act; and
+(a)  “Council” means the Technical and Vocational Education Council appointed under section 123 of this Act; and
 
-(b)  'committee'  means  a  committee  appointed  by  the  Council  under section 126 of this Act.
+(b)  “committee” means a committee appointed by the Council under section 126 of this Act.
 
 #### Composition.
 
-- A committee shall comprise of not more than 5 persons, and the Council shall, in respect of the committee, appoint one member of that committee to be chairperson.
+2. A committee shall comprise of not more than 5 persons, and the Council shall, in respect of the committee, appoint one member of that committee to be chairperson.
 
 #### Acting member.
 
-(1)  A member of a committee may, with the permission of the chairperson of that committee, appoint a person to act for him or her in case of his or her absence from a particular meeting.
+3. (1)  A member of a committee may, with the permission of the chairperson of that committee, appoint a person to act for him or her in case of his or her absence from a particular meeting.
 
-(2)  No person appointed to act as a member of a committee in pursuance of sub-paragraph  (1)  may  appoint  a  person  to  act  for  himself  or  herself  nor  may  be appointed to act for more than one member; otherwise he or she may perform all the functions of a member of that committee.
+(2)  No person appointed to act as a member of a committee in pursuance of sub-paragraph (1) may appoint a person to act for himself or herself nor may be appointed to act for more than one member; otherwise he or she may perform all the functions of a member of that committee.
 
 #### Duration of membership.
 
-- A member of a committee shall hold office for a period not exceeding three years, but is eligible for re-appointment.
-
-Revision Date:
-
-31 Dec 2009
+4. A member of a committee shall hold office for a period not exceeding three years, but is eligible for re-appointment.
 
 [[END OF PAGE 84]]
 
@@ -4428,15 +4707,15 @@ Revision Date: 31 Dec 2009
 
 #### Vacancy.
 
-- Where a vacancy occurs in respect of a committee, the Council may appoint a person to fill that vacancy for the unexpired portion of the period in respect of which the vacancy occurs.
+5. Where a vacancy occurs in respect of a committee, the Council may appoint a person to fill that vacancy for the unexpired portion of the period in respect of which the vacancy occurs.
 
 #### Revocation of membership.
 
-- The Council may revoke the appointment of a member of a committee who-
+6. The Council may revoke the appointment of a member of a committee who—
 
-(a)  is  absent  from  three  consecutive  meetings  of  the  committee  without leave of the Council;
+(a)  is absent from three consecutive meetings of the committee without leave of the Council;
 
-(b)  is  absent  from  the  Federation  for  three  months  or  more  without notifying the Council;
+(b)  is absent from the Federation for three months or more without notifying the Council;
 
 (c)  is unable to perform his or her duties as a member of the committee; or
 
@@ -4444,19 +4723,19 @@ Revision Date: 31 Dec 2009
 
 #### Secretary.
 
-- The Council may assign a person to be the secretary of a committee.
+7. The Council may assign a person to be the secretary of a committee.
 
 #### Frequency of meetings.
 
-- A committee shall meet as often as the chairperson decides, but at intervals not exceeding three months.
+8. A committee shall meet as often as the chairperson decides, but at intervals not exceeding three months.
 
 #### Quorum.
 
-- A quorum of a committee shall consist of three members one of whom shall be the chairperson.
+9. A quorum of a committee shall consist of three members one of whom shall be the chairperson.
 
 #### Decisions.
 
-- Decisions of a committee shall be by majority of votes, and where voting is equal,  the  chairperson  shall,  in  addition  to  his  or  her  original  vote,  have  a  casting vote.
+10. Decisions of a committee shall be by majority of votes, and where voting is equal, the chairperson shall, in addition to his or her original vote, have a casting vote.
 
 #### Co-opting.
 
@@ -4464,7 +4743,7 @@ Revision Date: 31 Dec 2009
 
 #### Establishment of Sub-committees.
 
-12. A  committee  may  establish  a  sub-committee  to  assist  the  committee  in  the performance of its functions and may co-opt any person, whose assistance and advice the  committee  considers  necessary  for  the  purpose  for  which  the  sub-committee  is established, to the sub-committee.
+12. A committee may establish a sub-committee to assist the committee in the performance of its functions and may co-opt any person, whose assistance and advice the committee considers necessary for the purpose for which the sub-committee is established, to the sub-committee.
 
 _________
 
@@ -4480,13 +4759,21 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
+## FIFTH SCHEDULE
+
+(Section 38)
+
+### EDUCATION (SCHOOL ATTENDANCE COUNSELOR) ORDER
+
 #### Citation.
 
 This Order may be cited as the Education (School Attendance Counselor) Order.
 
 #### School attendance counselor.
 
-The following  person  is  hereby  designated  a  School  Attendance  Counselor  for  the purposes of the Education Act:
+The following person is hereby designated a School Attendance Counselor for the purposes of the Education Act:
 
 SAMANTHA FOX
 
@@ -4500,41 +4787,23 @@ ___________
 
 #### ARRANGEMENT OF REGULATIONS
 
-- Citation
+1. Citation
 
-- Interpretation
+2. Interpretation
 
-- Immunization requirement
+3. Immunization requirement
 
-- Immunization before enrollment
+4. Immunization before enrollment
 
-- Student admitted but not immunized
+5. Student admitted but not immunized
 
-- Suspension for non-compliance
+6. Suspension for non-compliance
 
-- Medical exemption
+7. Medical exemption
 
-- Appeals
+8. Appeals
 
-- Out-break of disease
-
-#### Citation.
-
-- These Regulations may be cited as the Education (Immunization) Regulations.
-
-#### Interpretation.
-
-- In these Regulations-
-
-'Act' means the Education Act, Cap. 13.01;
-
-'BCG' means Bacilli Calmette-Guerin;
-
-## FIFTH SCHEDULE
-
-(Section 38)
-
-### EDUCATION (SCHOOL ATTENDANCE COUNSELOR) ORDER
+9. Out-break of disease
 
 __________
 
@@ -4542,9 +4811,17 @@ __________
 
 ### EDUCATION (IMMUNIZATION) REGULATIONS
 
-Revision Date:
+#### Citation.
 
-31 Dec 2009
+1. These Regulations may be cited as the Education (Immunization) Regulations.
+
+#### Interpretation.
+
+2. In these Regulations—
+
+“Act” means the Education Act, Cap. 13.01;
+
+“BCG” means Bacilli Calmette-Guerin;
 
 [[END OF PAGE 86]]
 
@@ -4560,49 +4837,49 @@ CAP. 13.01
 
 Revision Date: 31 Dec 2009
 
-'DPT' means Diphtheria, Whooping Cough, Tetanus;
+“DPT” means Diphtheria, Whooping Cough, Tetanus;
 
-'DT' means Diphtheria and Tetanus Toxoids;
+“DT” means Diphtheria and Tetanus Toxoids;
 
-'HepB' means Hepatitis B;
+“HepB” means Hepatitis B;
 
-'Hib' means Haemophilus Influenza type B;
+“Hib” means Haemophilus Influenza type B;
 
-'HIV' means Human Immunodeficiency Virus;
+“HIV” means Human Immunodeficiency Virus;
 
-'IPV' means Intra-muscular Polio Vaccine;
+“IPV” means Intra-muscular Polio Vaccine;
 
-'MMR' means Measles, Mumps and Rubella;
+“MMR” means Measles, Mumps and Rubella;
 
-'OPV' means Oral Polio Vaccine.
+“OPV” means Oral Polio Vaccine.
 
 #### Immunization Requirement.
 
-- The immunization requirement for students is provided in the Schedule.
+3. The immunization requirement for students is provided in the Schedule.
 
 #### Immunization before enrollment.
 
 4. (1)  Subject to regulations 5 and 7 a student entering public school or assisted private school shall be age appropriately immunized before enrollment.
 
-(2)  Health  records  of  such  immunization  shall  be  provided  for  the  purposes  of enrollment of the student.
+(2)  Health records of such immunization shall be provided for the purposes of enrollment of the student.
 
 #### Student admitted but not immunized.
 
 5. Where a principal identifies a student who has not been immunized or is not age appropriately immunized
 
-(a)  the principal shall, immediately advise the parents of the student that the  student  is  to  be  immunized  within  one  week  of  the  date  of  the issuance of the advice;
+(a)  the principal shall, immediately advise the parents of the student that the student is to be immunized within one week of the date of the issuance of the advice;
 
-(b)  where  evidence  of  such  immunization  is  not  produced  within  the stipulated  period,  the  principal  shall  immediately  inform  the  Chief Education Officer of the matter;
+(b)  where evidence of such immunization is not produced within the stipulated period, the principal shall immediately inform the Chief Education Officer of the matter;
 
-(c)  the  Chief  Education  Officer  shall,  upon  receipt  of  such  information from a principal, write to the parents advising that the student has an extension  of  one  week  to  be  immunized  and  to  provide  evidence  of such immunization.
+(c)  the Chief Education Officer shall, upon receipt of such information from a principal, write to the parents advising that the student has an extension of one week to be immunized and to provide evidence of such immunization.
 
 #### Suspension for non-compliance.
 
-6. Where, subsequent to the advice of the Chief Education Officer, no evidence of the immunization of the student is presented, the student shall be suspended from school  in  accordance  with  sections  52(1)(d),  52(2)  and  53(1)(a)  of  the  Act  until evidence of immunization or exemption is submitted by the parent.
+6. Where, subsequent to the advice of the Chief Education Officer, no evidence of the immunization of the student is presented, the student shall be suspended from school in accordance with sections 52(1)(d), 52(2) and 53(1)(a) of the Act until evidence of immunization or exemption is submitted by the parent.
 
 #### Medical exemption.
 
-7. (1)  Subject to sub-regulation (2) and (3), a student shall be exempted from the provisions  of  these  Regulations  for  an  immunization  where  his  or  her  physician certifies that immunization may be detrimental to the health of the student.
+7. (1)  Subject to sub-regulation (2) and (3), a student shall be exempted from the provisions of these Regulations for an immunization where his or her physician certifies that immunization may be detrimental to the health of the student.
 
 (2)  A medical exemption may be temporary or permanent.
 
@@ -4618,21 +4895,19 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-Revision Date:
+Revision Date: 31 Dec 2009
 
-31 Dec 2009
-
-(3)  When  an  exemption  is  temporary  and  a  physician  determines  that  the immunization  is  no  longer  detrimental  to  the  health  of  the  student  the  exemption ceases to be valid and the student shall be immunized.
+(3)  When an exemption is temporary and a physician determines that the immunization is no longer detrimental to the health of the student the exemption ceases to be valid and the student shall be immunized.
 
 (4)  Temporary exemptions may also be granted when it has been verified that the supply of vaccine is not available or when the spacing between doses in a vaccine series has been exceeded.
 
 #### Appeals.
 
-8. A parent  of  a  student  suspended  in  accordance  with  the  provisions  of  these Regulations have the right to appeal the decision to suspend the student pursuant to sections 20(1)(c) of the Act.
+8. A parent of a student suspended in accordance with the provisions of these Regulations have the right to appeal the decision to suspend the student pursuant to sections 20(1)(c) of the Act.
 
 #### Out-break of disease.
 
-9. If  there  is  an  epidemic  of  a  disease  for  which  immunization is an admission requirement,  a  student  who  is  not  immunized  for  that  disease,  in  accordance  with regulations  5  and  7,  shall  not  be  permitted  to  attend  school  for  the  period  of  the epidemic.
+9. If there is an epidemic of a disease for which immunization is an admission requirement, a student who is not immunized for that disease, in accordance with regulations 5 and 7, shall not be permitted to attend school for the period of the epidemic.
 
 __________
 
@@ -4644,14 +4919,15 @@ __________
 
 Recommended Doses | Age | Type of vaccine | Condition
 --- | --- | --- | ---
-Birth - one month old | BCG
+ | Birth – one month old | BCG |
 1st dose | 2 months | DPT/Hep B/Hib OPV or IPV DPT | IPV for all childrenof HIV positive mothers.
-2nd dose | 4 months | DPT/Hep B/Hib OPV or IPV DPT | ''
-3rd dose | 6 months | DPT/Hep B/Hib OPV or IPV DPT | ''
-1st dose | 1 year | MMR
-1st booster | 18 months | OPV or IPV DPT | ''
-2nd booster | 4 years - 5 years 2 years - 5 years | OPV or IPV DPT MMR | ''
-3rd booster | 16 years | DT OPV or IPV | ''
+2nd dose | 4 months | DPT/Hep B/Hib OPV or IPV DPT | ”
+3rd dose | 6 months | DPT/Hep B/Hib OPV or IPV DPT | ”
+1st dose | 1 year | MMR |
+1st booster | 18 months | OPV or IPV DPT | ”
+2nd booster | 4 years – 5 years
+2 years – 5 years | OPV or IPV DPT MMR | ”
+3rd booster | 16 years | DT OPV or IPV | ”
 
 ___________
 
@@ -4669,41 +4945,47 @@ CAP. 13.01
 
 89
 
+## SEVENTH SCHEDULE
+
+(Section 172)
+
+### EDUCATION (APPEAL TRIBUNAL) REGULATIONS
+
 #### Citation.
 
-- These Regulations may be cited as the Education (Appeal Tribunal) Regulations.
+1. These Regulations may be cited as the Education (Appeal Tribunal) Regulations.
 
 #### Interpretation.
 
-- In these Regulations-
+2. In these Regulations—
 
-'Act' means the Education Act, Cap. 13.01;
+“Act” means the Education Act, Cap. 13.01;
 
-'Tribunal' means the Education Appeal Tribunal established by section 162 of the Act.
+“Tribunal” means the Education Appeal Tribunal established by section 162 of the Act.
 
 #### Time and documents.
 
-- An appeal to the Tribunal shall be made within fourteen days of the date the Ministry made the decision in question and shall be accompanied by-
+3. An appeal to the Tribunal shall be made within fourteen days of the date the Ministry made the decision in question and shall be accompanied by—
 
-(a)  a copy of the Ministry's decision, referred to in regulation 3; and
+(a)  a copy of the Ministry’s decision, referred to in regulation 3; and
 
 (b)  a copy of the receipt for the payment referred to in sub-regulation 5(1).
 
 #### Request for appeal.
 
-(1)  A request for an appeal shall be addressed to the Secretary of the Tribunal.
+4. (1)  A request for an appeal shall be addressed to the Secretary of the Tribunal.
 
-- The  Secretary  of  the  Tribunal  shall  acknowledge  receipt  of  each  request for an appeal.
+(2)  The Secretary of the Tribunal shall acknowledge receipt of each request for an appeal.
 
 #### Fees.
 
-(1)  The fee for making an appeal to the Tribunal shall be five hundred dollars.
+5. (1)  The fee for making an appeal to the Tribunal shall be five hundred dollars.
 
-- The  fee  referred  to  in  sub-regulation  (1)  shall  be  paid  to  the  Accountant General by way of cheque or money order.
+(2)  The fee referred to in sub-regulation (1) shall be paid to the Accountant General by way of cheque or money order.
 
 #### Notice of request.
 
-(1)  A copy of the request for an appeal shall, within fourteen days of receipt of the request be transmitted by the Secretary to-
+6. (1)  A copy of the request for an appeal shall, within fourteen days of receipt of the request be transmitted by the Secretary to—
 
 (a)  each member of the Tribunal; and
 
@@ -4711,17 +4993,11 @@ CAP. 13.01
 
 #### Notice of appeal hearing.
 
-- A notice  of  the  date  set  for  the  hearing  of  an  appeal  shall  be  issued  within twenty-one days of the receipt of the request for the appeal.
+7. A notice of the date set for the hearing of an appeal shall be issued within twenty-one days of the receipt of the request for the appeal.
 
 #### Place of hearing.
 
-- Subject to subsection 165 (5) of the Act, a request for an appeal related to a matter-
-
-## SEVENTH SCHEDULE
-
-(Section 172)
-
-### EDUCATION (APPEAL TRIBUNAL) REGULATIONS
+8. Subject to subsection 165 (5) of the Act, a request for an appeal related to a matter—
 
 [[END OF PAGE 89]]
 
@@ -4733,11 +5009,13 @@ LAWS OF SAINT CHRISTOPHER
 
 Revision Date: 31 Dec 2009
 
-(a)  in the Island of Saint Christopher shall be heard in the Island of Saint Christopher; or (b)  in the Island of Nevis shall be heard in the Island of Nevis.
+(a)  in the Island of Saint Christopher shall be heard in the Island of Saint Christopher; or
+
+(b)  in the Island of Nevis shall be heard in the Island of Nevis.
 
 #### Right to legal representation.
 
-- A party to an appeal has a right to legal representation.
+9. A party to an appeal has a right to legal representation.
 
 #### Oath or affirmation.
 
@@ -4745,9 +5023,9 @@ Revision Date: 31 Dec 2009
 
 #### Failure to appear.
 
-11. (1)  Where the party who requested an appeal hearing fails to appear and gives no  reasonable  excuse,  within  forty-eight  hours,  the  Tribunal  may  have  the  matter struck out without prejudice. (2)  Where the representative of the Ministry of Education is not present at the
+11. (1)  Where the party who requested an appeal hearing fails to appear and gives no reasonable excuse, within forty-eight hours, the Tribunal may have the matter struck out without prejudice.
 
-appeal hearing, the Tribunal shall proceed to hear the matter.
+(2)  Where the representative of the Ministry of Education is not present at the appeal hearing, the Tribunal shall proceed to hear the matter.
 
 #### Decisions of the Tribunal.
 
@@ -4757,7 +5035,7 @@ appeal hearing, the Tribunal shall proceed to hear the matter.
 
 #### Resignation of members of Tribunal.
 
-13. A  member  of  the  Tribunal  may  at  any  time  resign  from  the  Tribunal  by instrument  in  writing  addressed  to  the  Minister  and  the  member  shall,  one  month after the date of receipt of the instrument by the minister, cease to be a member of the Tribunal.
+13. A member of the Tribunal may at any time resign from the Tribunal by instrument in writing addressed to the Minister and the member shall, one month after the date of receipt of the instrument by the minister, cease to be a member of the Tribunal.
 
 #### Exemption from liability.
 
@@ -4789,15 +5067,17 @@ Revision Date: 31 Dec 2009
 
 I ……………………………………..., do swear by Almighty God that the evidence I shall give to the Education Appeals Tribunal shall be the truth, the whole truth and nothing but the truth to the best of my knowledge information and belief.
 
-Sworn to at…………….…, this……………………day of………………20……..… Before me………………………………….
+Sworn to at…………….…, this……………………day of………………20……..…
+Before me………………………………….
 
 OR
 
 ###### AFFIRMATION TO BE TAKEN BY PARTIES TO AN EDUCATION APPEAL HEARING
 
-I  ……….., do solemnly, sincerely, and truly declare and affirm that the evidence I shall give to the Education Appeals Tribunal shall be the truth, the whole truth and nothing but the truth to the best of my knowledge information and belief.
+I ……….., do solemnly, sincerely, and truly declare and affirm that the evidence I shall give to the Education Appeals Tribunal shall be the truth, the whole truth and nothing but the truth to the best of my knowledge information and belief.
 
-Affirmed to at,………………………..…this……………………day of……….…20 Before me………………………………..
+Affirmed to at,………………………..…this……………………day of……….…20
+Before me………………………………..
 
 ___________
 
@@ -4809,35 +5089,35 @@ ___________
 
 #### ARRANGEMENT OF REGULATIONS
 
-- Citation
+1. Citation
 
-- Public school facilities
+2. Public school facilities
 
-- Assisted private school and private school facilities
+3. Assisted private school and private school facilities
 
-- Standard of premises of educational institutions
+4. Standard of premises of educational institutions
 
-- School maintenance manual
+5. School maintenance manual
 
-- Inspection of school for defects
+6. Inspection of school for defects
 
-- Weather protection
+7. Weather protection
 
-- Dramage
+8. Dramage
 
-- Ventilation
+9. Ventilation
 
-- Acoustics
+10. Acoustics
 
-- Lighting
+11. Lighting
 
-- Electrical connections and extensions
+12. Electrical connections and extensions
 
-- Water supply
+13. Water supply
 
-- Washrooms
+14. Washrooms
 
-- Sickrooms
+15. Sickrooms
 
 [[END OF PAGE 91]]
 
@@ -4851,57 +5131,57 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-- Staffrooms and principal's offices
+Revision Date: 31 Dec 2009
 
-- Health, safety and welfare
+16. Staffrooms and principal’s offices
 
-- Fire safety
+17. Health, safety and welfare
 
-- Use of open flames prohibited
+18. Fire safety
 
-- Match bombs prohibited
+19. Use of open flames prohibited
 
-- Other purposes for which premises of public school may be used
+20. Match bombs prohibited
 
-- Sale of alcoholic beverage, controlled and other items prohibited
+21. Other purposes for which premises of public school may be used
 
-- Police assistance SCHEDULE
+22. Sale of alcoholic beverage, controlled and other items prohibited
+
+23. Police assistance
 
 _________
+
+#### SCHEDULE
 
 ### EDUCATION (PREMISES OF EDUCATIONAL INSTITUTIONS) REGULATIONS
 
 #### Citation.
 
-- These  Regulations  may  be  cited  as  the  Education  (Premises  of  Educational Institutions) Regulations.
+1. These Regulations may be cited as the Education (Premises of Educational Institutions) Regulations.
 
 #### Public school facilities.
 
-- The  Minister  shall  ensure  that  at  all  times  the  necessary  facilities  that  are essential to the functioning of a school are provided to a public school.
+2. The Minister shall ensure that at all times the necessary facilities that are essential to the functioning of a school are provided to a public school.
 
 #### Assisted private school and private school facilities.
 
-- The Board of Management of an assisted private school  or  a  private  school shall  ensure  that  at  all  times  the  necessary  facilities  that  are  essential  to  the functioning  of  a  school  are  provided  to  the  assisted  private  school  or  the  private school.
+3. The Board of Management of an assisted private school or a private school shall ensure that at all times the necessary facilities that are essential to the functioning of a school are provided to the assisted private school or the private school.
 
 #### Standard of premises of educational institutions.
 
-(1)  A school's buildings, premises and facilities shall conform to the standards and  satisfy  the  conditions  determined  by  the  Minister  and  the  laws  relating  to  the standards of building for public use.
+4. (1)  A school’s buildings, premises and facilities shall conform to the standards and satisfy the conditions determined by the Minister and the laws relating to the standards of building for public use.
 
-- The Minister, subject to the advice of the Chief Medical Officer, the Chief Environmental  Health  Officer,  the  Chief  Engineer,  or  the  Chief  Physical  Planner, may from time to time make such decisions relating to specifications, plans, sites, and methods of construction and equipment of school buildings as may be appropriate to the requirements of the level of education which the building is intended to provide.
+(2)  The Minister, subject to the advice of the Chief Medical Officer, the Chief Environmental Health Officer, the Chief Engineer, or the Chief Physical Planner, may from time to time make such decisions relating to specifications, plans, sites, and methods of construction and equipment of school buildings as may be appropriate to the requirements of the level of education which the building is intended to provide.
 
-- A school building shall-
+(3)  A school building shall—
 
 (a)  at all times be maintained in proper sanitary conditions;
 
-(b)  at  all  times  be  in  a  state  of  good  repair  in  accordance  with  the standards of building for public use; and
+(b)  at all times be in a state of good repair in accordance with the standards of building for public use; and
 
-(c)  in all respects, be  suitable for the purpose  of  a  school  to  the satisfaction of the Minister.
+(c)  in all respects, be suitable for the purpose of a school to the satisfaction of the Minister.
 
-(4)  Where a school building is not maintained in the proper sanitary condition and  repair  or  is  not  suitable  for  the  purpose  of  a  school  to  the  satisfaction  of  the
-
-Revision Date:
-
-31 Dec 2009
+(4)  Where a school building is not maintained in the proper sanitary condition and repair or is not suitable for the purpose of a school to the satisfaction of the
 
 [[END OF PAGE 92]]
 
@@ -4921,7 +5201,7 @@ Minister, the Minister may, after consultation with the Board of Management (whe
 
 #### School maintenance manual.
 
-5. (1)  Not later than twelve months after the commencement of these Regulations-
+5. (1)  Not later than twelve months after the commencement of these Regulations—
 
 (a)  the Minister; or
 
@@ -4933,11 +5213,11 @@ shall cause to be prepared and issued to each school a maintenance manual.
 
 #### Inspection of school for defects.
 
-6. (1)  The Minister shall, for the purpose of detecting any structural, electrical or other defects, cause an inspection of the school to be made annually or at such times as  may  be  specified  in  the  school  maintenance  manual  or  at  other  times  as  the circumstances may require.
+6. (1)  The Minister shall, for the purpose of detecting any structural, electrical or other defects, cause an inspection of the school to be made annually or at such times as may be specified in the school maintenance manual or at other times as the circumstances may require.
 
-(2)  Every  inspection  referred  to  in  sub-regulation  (1)  shall  be  made  by  a competent  person  and  every  school  shall  be  kept  open  at  all  times  during  school hours for the carrying out of such inspection.
+(2)  Every inspection referred to in sub-regulation (1) shall be made by a competent person and every school shall be kept open at all times during school hours for the carrying out of such inspection.
 
-- The principal may, with the approval of-
+(3)  The principal may, with the approval of—
 
 (a)  the Minister; or
 
@@ -4945,13 +5225,13 @@ shall cause to be prepared and issued to each school a maintenance manual.
 
 designate such competent persons who shall from time to time inspect the school or any part thereof in order that defects therein may be detected at a very early stage.
 
-(4)  Where  an  inspection  is  carried  out  under  sub-regulation  (1)  or  (3),  the person conducting the inspection shall within fifteen working days of the conduct of the  inspection  prepare  a  report  of  the  inspection  and  submit  a  copy  thereof  to  the Chief Education Officer and the principal.
+(4)  Where an inspection is carried out under sub-regulation (1) or (3), the person conducting the inspection shall within fifteen working days of the conduct of the inspection prepare a report of the inspection and submit a copy thereof to the Chief Education Officer and the principal.
 
 (5)  The principal shall be given no less than two days notice of the intention to inspect the school pursuant to sub-regulation (1).
 
 #### Weather protection.
 
-- A  school  building  shall  provide  adequate  resistance  to  penetration  by  rain, wind and to moisture rising from the ground.
+7. A school building shall provide adequate resistance to penetration by rain, wind and to moisture rising from the ground.
 
 #### Drainage.
 
@@ -4973,25 +5253,27 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
 #### Acoustics.
 
 10. Each room or other teaching space in a school building shall have the acoustic conditions and the insulation against disturbance by noise appropriate to its normal use.
 
 #### Lighting.
 
-- Each  room  or  other  teaching  space  in  a  school  building  shall  have  lighting appropriate to its normal use.
+11. Each room or other teaching space in a school building shall have lighting appropriate to its normal use.
 
 #### Electrical connections and extensions.
 
-- Electrical connections and extensions and the installation of electrical equipment at and for the school shall be done by a certified electrician.
+12. Electrical connections and extensions and the installation of electrical equipment at and for the school shall be done by a certified electrician.
 
 #### Water supply.
 
-13. The  school  shall  have  a  potable  supply  of  water  for  domestic  purposes including a supply of drinking water.
+13. The school shall have a potable supply of water for domestic purposes including a supply of drinking water.
 
 #### Washrooms.
 
-(1)  There  shall  be  adequate  washroom  facilities  on  the  school  premises, having regard to-
+14. (1)  There shall be adequate washroom facilities on the school premises, having regard to—
 
 (a)  the ages of the students;
 
@@ -5003,7 +5285,7 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 (e)  any special requirements students or staff may have.
 
-- There shall be separate washroom facilities for
+(2)  There shall be separate washroom facilities for
 
 (a)  male teachers and staff;
 
@@ -5015,11 +5297,11 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 (3)  Water closets and urinals shall have an adequate supply of cold water.
 
-(4)  Wash  basins,  sinks,  baths  and  showers  shall  have  an  adequate  supply  of hot and cold water.
+(4)  Wash basins, sinks, baths and showers shall have an adequate supply of hot and cold water.
 
 #### Sickrooms.
 
-15. (1)  There shall be separate sickroom facilities for-
+15. (1)  There shall be separate sickroom facilities for—
 
 (a)  teachers and staff;
 
@@ -5027,11 +5309,7 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 (c)  female students.
 
-(2)  Each  sickroom  shall  contain  the  necessary  associated  facilities  including washrooms.
-
-Revision Date:
-
-31 Dec 2009
+(2)  Each sickroom shall contain the necessary associated facilities including washrooms.
 
 [[END OF PAGE 94]]
 
@@ -5047,17 +5325,17 @@ CAP. 13.01
 
 95
 
-#### Staffrooms and principal's offices.
+#### Staffrooms and principal’s offices.
 
-16. There shall be separate staff work space including-
+16. There shall be separate staff work space including—
 
-(a)  a principal's office;
+(a)  a principal’s office;
 
 (b)  accommodation for use by the teachers for the purposes of work.
 
 #### Health, safety and welfare.
 
-17. The school's premises shall be such that the health, safety and welfare of the occupants are reasonably assured.
+17. The school’s premises shall be such that the health, safety and welfare of the occupants are reasonably assured.
 
 #### Fire safety.
 
@@ -5065,7 +5343,7 @@ CAP. 13.01
 
 #### Use of open flames prohibited.
 
-19. (1)  The  principal  shall  not  allow  any  fire  or  open  flame  inside  a  school building except a fire or open flame emitted by a stove, a Bunsen burner, an alcohol lamp or such other like device required to be used in an instructional class with the appropriate supervision.
+19. (1)  The principal shall not allow any fire or open flame inside a school building except a fire or open flame emitted by a stove, a Bunsen burner, an alcohol lamp or such other like device required to be used in an instructional class with the appropriate supervision.
 
 (2)  Where a barbecue grill or fire is to be used on the premises of the school, the principal shall ensure that the barbecue grill or fire shall be kept at a reasonable distance from the school building and outside the reach of students.
 
@@ -5075,19 +5353,19 @@ CAP. 13.01
 
 #### Other purposes for which premises of public school may be used.
 
-21. (1)  A  public  school  building  or  premises  shall  not  be  used  for  any  purpose, other  than  a  purpose  of  the  school,  except  with  the  written  approval  of  the  Chief Education Officer.
+21. (1)  A public school building or premises shall not be used for any purpose, other than a purpose of the school, except with the written approval of the Chief Education Officer.
 
-(2)  The  guidelines  respecting  the  use  of  school  buildings  or  premises  and setting  out  the  mandatory  conditions  which  must  be  satisfied  for  the  use  of  such school  building  or  premises,  for  non-school  purposes,  are  as  provided  in  the Schedule.
+(2)  The guidelines respecting the use of school buildings or premises and setting out the mandatory conditions which must be satisfied for the use of such school building or premises, for non-school purposes, are as provided in the Schedule.
 
-(3)  The  Chief  Education  Officer  shall  furnish  every  principal  of  a  public school with a copy of such guidelines.
+(3)  The Chief Education Officer shall furnish every principal of a public school with a copy of such guidelines.
 
-(4)  Without prejudice to the generality of sub-regulation (2)-
+(4)  Without prejudice to the generality of sub-regulation (2)—
 
 (a)  every application for permission to use a public school building shall be made to the Chief Education Officer through the principal of that public school;
 
 (b)  a fee may be charged for the use of the school building;
 
-(c)  the applicant shall pay the expenses arising from any loss or damage caused to  the  building,  the  furniture  and  fixtures  in  connection  with the use of the premises and where a deposit is required, that deposit may be forfeited;
+(c)  the applicant shall pay the expenses arising from any loss or damage caused to the building, the furniture and fixtures in connection with the use of the premises and where a deposit is required, that deposit may be forfeited;
 
 [[END OF PAGE 95]]
 
@@ -5101,9 +5379,9 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 Revision Date: 31 Dec 2009
 
-(d)  the applicant shall-
+(d)  the applicant shall—
 
-(i)  be  responsible  for  the  cleaning  of  the  school  building,  premises and facilities;
+(i)  be responsible for the cleaning of the school building, premises and facilities;
 
 (ii)  ensure that the school building is ready for school use before the next school day; and
 
@@ -5113,31 +5391,31 @@ Revision Date: 31 Dec 2009
 
 (6)  Notwithstanding sub-regulation 4(b) the Government shall not be charged for the use of a public school building.
 
-(7)  A person who is desirous of using a school building, premises or facilities for an event or purpose shall make an application in writing to the Chief Education Officer  for  the  use  of  the  building,  premises  or  facilities,  not  later  than  thirty  days prior to the date of the holding of the event.
+(7)  A person who is desirous of using a school building, premises or facilities for an event or purpose shall make an application in writing to the Chief Education Officer for the use of the building, premises or facilities, not later than thirty days prior to the date of the holding of the event.
 
-(8)  Subject  to  sub-regulation  (10),  the  Chief  Education  Officer  may  on  a written  application  issue  a  permit  to  the  applicant  to  use  the  school  building  or premises of a public school for-
+(8)  Subject to sub-regulation (10), the Chief Education Officer may on a written application issue a permit to the applicant to use the school building or premises of a public school for—
 
-(a)  any  religious,  charitable,  educational,  recreational,  social  or  civic purpose; and
+(a)  any religious, charitable, educational, recreational, social or civic purpose; and
 
 (b)  the purpose of a political meeting.
 
-(9)  Where the buildings of a public school are owned  by  a  religious denomination, the buildings or premises may not be used for any purpose, without the prior approval of that religious denomination.
+(9)  Where the buildings of a public school are owned by a religious denomination, the buildings or premises may not be used for any purpose, without the prior approval of that religious denomination.
 
-(10)  Where  the  Chief  Education  Officer  issues  a  permit  for  the  use  of  the school building, premises or facilities under these Regulations, the Chief Education Officer  shall  signify  the  permission  in  writing  and  shall  as  soon  as  practicable, forward a copy of the permission to the principal.
+(10)  Where the Chief Education Officer issues a permit for the use of the school building, premises or facilities under these Regulations, the Chief Education Officer shall signify the permission in writing and shall as soon as practicable, forward a copy of the permission to the principal.
 
 #### Sale of alcoholic beverage, controlled and other items prohibited.
 
-22. (1)  A person shall not-
+22. (1)  A person shall not—
 
 (a)  sell, buy, trade in or consume any alcoholic beverage; or
 
-(b)  sell,  buy,  trade  in  or  consume,  smoke or use any controlled drug, on the premises of a school.
+(b)  sell, buy, trade in or consume, smoke or use any controlled drug, on the premises of a school.
 
 (2)  A person shall not, at the venue where a fund raising activity is held under these Regulations, sell or serve any drink in a glass container or bottle.
 
-(3)  The  principal  shall  ensure  that  alcoholic  beverages  are  not  sold,  bought, served  or  consumed  on  the  school  premises  during  the  staging  of  any  function organised for or on behalf of the school by the staff, Parent Teacher Association or such other group affiliated with the school.
+(3)  The principal shall ensure that alcoholic beverages are not sold, bought, served or consumed on the school premises during the staging of any function organised for or on behalf of the school by the staff, Parent Teacher Association or such other group affiliated with the school.
 
-(4)  A teacher who participates in any school activity involving students shall for  the  duration  of  that  activity  and  while  in  the  presence  of  the  students  refrain from-
+(4)  A teacher who participates in any school activity involving students shall for the duration of that activity and while in the presence of the students refrain from—
 
 (a)  smoking; or
 
@@ -5149,9 +5427,7 @@ Revision Date: 31 Dec 2009
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-Revision Date:
-
-31 Dec 2009
+Revision Date: 31 Dec 2009
 
 Education Act
 
@@ -5159,11 +5435,11 @@ CAP. 13.01
 
 97
 
-(5)  A  student  shall  not  sell  his  or  her  personal  items  during  a  fund  raising activity, except with the written approval of the principal.
+(5)  A student shall not sell his or her personal items during a fund raising activity, except with the written approval of the principal.
 
 #### Police assistance.
 
-- The principal of a school may, where he or she considers it appropriate, seek the assistance of the police in relation to the holding of activities involving members of the public.
+23. The principal of a school may, where he or she considers it appropriate, seek the assistance of the police in relation to the holding of activities involving members of the public.
 
 __________
 
@@ -5175,23 +5451,23 @@ __________
 
 ###### Supervision.
 
-- Applicant shall provide sufficient, competent adult and/or special supervision. The amount of adequate supervision will be agreed upon at the time the authorisation is issued. The applicant must provide adult leadership. Under no circumstances will a group  be  admitted  before  the  assigned  adult  leader  arrives.  The  adult  leader  shall check in and out with the school custodian (or designated school employee) and shall be  the  last  to  leave  the  building  following  each  session.  Reported  unsupervised participants outside of the designated area may result in denial of future permission to use the school or its premises.
+1. Applicant shall provide sufficient, competent adult and/or special supervision. The amount of adequate supervision will be agreed upon at the time the authorisation is issued. The applicant must provide adult leadership. Under no circumstances will a group be admitted before the assigned adult leader arrives. The adult leader shall check in and out with the school custodian (or designated school employee) and shall be the last to leave the building following each session. Reported unsupervised participants outside of the designated area may result in denial of future permission to use the school or its premises.
 
 ###### User/Applicant Responsibility.
 
-- The  user/applicant  is  responsible  for  the  enforcement  of  all  use  regulations, and  is  responsible  for  all  participants,  spectators,  and  personnel.  Profane  language and boisterous conduct by any person is unacceptable behaviour.
+2. The user/applicant is responsible for the enforcement of all use regulations, and is responsible for all participants, spectators, and personnel. Profane language and boisterous conduct by any person is unacceptable behaviour.
 
 ###### Tobacco/Alcohol/Narcotics/Firearms.
 
-- Use of tobacco products, alcoholic beverages, narcotics, and firearms SHALL NOT be  permitted  in  school  buildings  or  on  school  premises  and  on  grounds  at anytime.
+3. Use of tobacco products, alcoholic beverages, narcotics, and firearms SHALL NOT be permitted in school buildings or on school premises and on grounds at anytime.
 
 ###### Gym Use.
 
-- Proper gym shoes are required in gymnasiums for all activity-type games. No one  is  allowed  to  use  Physical  Education  equipment  without  prior  approval  of  the principal and proper supervision.
+4. Proper gym shoes are required in gymnasiums for all activity-type games. No one is allowed to use Physical Education equipment without prior approval of the principal and proper supervision.
 
 ###### Equipment Use.
 
-- School equipment cannot be used without prior approval of the principal and may  incur  a  charge  for  specific  equipment.  No  equipment  or  furniture  shall  be removed  from  or  relocated  within  the  facility  without  prior  approval.  Custodians should not be asked to set up equipment or to provide additional equipment that is not indicated on the use form.
+5. School equipment cannot be used without prior approval of the principal and may incur a charge for specific equipment. No equipment or furniture shall be removed from or relocated within the facility without prior approval. Custodians should not be asked to set up equipment or to provide additional equipment that is not indicated on the use form.
 
 [[END OF PAGE 97]]
 
@@ -5205,41 +5481,39 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
+Revision Date: 31 Dec 2009
+
 ###### Decorations and Alterations.
 
-- Plans for decorating must be approved in advance by the principal. Decorations which permanently alter or cause damage to the facility are prohibited. All  decorations  must  be  removed  and  properly  disposed  of  immediately  upon completion of the event.
+6. Plans for decorating must be approved in advance by the principal. Decorations which permanently alter or cause damage to the facility are prohibited. All decorations must be removed and properly disposed of immediately upon completion of the event.
 
 ###### Clean up.
 
-- Applicants are responsible for special set-up requirements and clean up unless specifically  requested  in  the  application.  Applicants  shall  remove,  at  their  expense, equipment, decorations, furnishings or rubbish immediately following use. Facilities should be left in the condition they were found.
+7. Applicants are responsible for special set-up requirements and clean up unless specifically requested in the application. Applicants shall remove, at their expense, equipment, decorations, furnishings or rubbish immediately following use. Facilities should be left in the condition they were found.
 
 ###### Access.
 
-- Keys to buildings or facilities will not be issued to any individual or group for entering  the  building  for  meetings  or  social  gatherings.  Doors  will  be  opened  by custodians or another authorised person. A Ministry Official or an adult agreeable to the Ministry shall be present at all times. The custodian on duty is in complete charge of  the  building  and/or  facilities  and  have  authority  for  decisions  concerning  school use, except when another employee has been designated.
+8. Keys to buildings or facilities will not be issued to any individual or group for entering the building for meetings or social gatherings. Doors will be opened by custodians or another authorised person. A Ministry Official or an adult agreeable to the Ministry shall be present at all times. The custodian on duty is in complete charge of the building and/or facilities and have authority for decisions concerning school use, except when another employee has been designated.
 
 ###### Use of Kitchen.
 
-- Any required use of kitchens or equipment must be approved by the principal. In some cases a food service employee may need to be hired at an additional cost to the applicant. Kitchens shall not be entered by a group prior to scheduled time unless prior  approval  of  the  principal  is  granted.  Certain  food  handling  permits  may  be required.
+9. Any required use of kitchens or equipment must be approved by the principal. In some cases a food service employee may need to be hired at an additional cost to the applicant. Kitchens shall not be entered by a group prior to scheduled time unless prior approval of the principal is granted. Certain food handling permits may be required.
 
 ###### Use of Concession.
 
-- An applicant will require approval of the principal and specific arrangements for use of concession equipment.
+10. An applicant will require approval of the principal and specific arrangements for use of concession equipment.
 
 ###### Use of AV Room or Theatre.
 
-- An applicant will require approval of the principal for the use of AV room or theatre  and  additional  fees  may  be  charged  for  theater  lighting,  stage  management, and technical crew members.
+11. An applicant will require approval of the principal for the use of AV room or theatre and additional fees may be charged for theater lighting, stage management, and technical crew members.
 
 ###### Computer Lab Use.
 
-- Applicant will require special approval of the principal and may require on-site staff to monitor use of equipment for an additional charge.
+12. Applicant will require special approval of the principal and may require on-site staff to monitor use of equipment for an additional charge.
 
 ###### Use of Fields/Grounds/Other Outdoor Facilities.
 
-- The applicant will require approval of the principal and may require additional staff time for clean up if necessary. The use must be appropriate and compatible with each playing field and its surrounding area. Such use shall not result in destruction, damage, or undue wear or pose a hazard to children and others. Should damage to fields  and  lawns  occur,  an  assessment  of  the  damage  will  be  undertaken  and  the applicant shall be responsible for paying for such damage.
-
-Revision Date:
-
-31 Dec 2009
+13. The applicant will require approval of the principal and may require additional staff time for clean up if necessary. The use must be appropriate and compatible with each playing field and its surrounding area. Such use shall not result in destruction, damage, or undue wear or pose a hazard to children and others. Should damage to fields and lawns occur, an assessment of the damage will be undertaken and the applicant shall be responsible for paying for such damage.
 
 [[END OF PAGE 98]]
 
@@ -5253,13 +5527,11 @@ CAP. 13.01
 
 99
 
-Revision Date:
-
-31 Dec 2009
+Revision Date: 31 Dec 2009
 
 ###### Security Deposit.
 
-- A security deposit specified by the Chief Education Officer may be required for the use of the school. The deposit or part thereof may be forfeited to cover the cost of any damage to the school building or premises.
+14. A security deposit specified by the Chief Education Officer may be required for the use of the school. The deposit or part thereof may be forfeited to cover the cost of any damage to the school building or premises.
 
 ###### Payment.
 
@@ -5267,11 +5539,11 @@ Revision Date:
 
 ###### Staff Fees.
 
-- Additional staff requirements will be assessed by the Chief Education Officer, after consultation with the principal.
+16. Additional staff requirements will be assessed by the Chief Education Officer, after consultation with the principal.
 
 ###### Approval.
 
-17. Approval  of  building  use,  for  purposes  similar  to  school  purposes,  is  at  the discretion of the principal.  The  principal may  consult  with  other  appropriate Government  officials,  such  as,  the  Chief  Environmental  Health  Officer,  the  Chief Physical Planner, or the Chief Engineer.
+17. Approval of building use, for purposes similar to school purposes, is at the discretion of the principal. The principal may consult with other appropriate Government officials, such as, the Chief Environmental Health Officer, the Chief Physical Planner, or the Chief Engineer.
 
 ###### Cancellation.
 
@@ -5279,7 +5551,7 @@ Revision Date:
 
 ###### Violation.
 
-- Non-adherence to these guidelines may result in cancellation of future use of facilities and additional charges for damage to school property.
+19. Non-adherence to these guidelines may result in cancellation of future use of facilities and additional charges for damage to school property.
 
 __________
 
@@ -5293,45 +5565,7 @@ Education Act
 
 LAWS OF SAINT CHRISTOPHER AND NEVIS
 
-#### Citation.
-
-1. These  Regulations  may  be  cited  as the Education  (Student  Discipline) Regulations.
-
-#### Interpretation.
-
-- In these Regulations, 'Act' means the Education Act, Cap. 13.01.
-
-#### Duty of school regarding discipline.
-
-(1)  A principal or teacher employed at a school shall-
-
-(a)  ensure  the  establishment  and  enforcement  of  a  student  disciplinary policy and rules of the school; and
-
-(b)  institute  ways  to  monitor  violent  incidents  committed  by  students enrolled at the school.
-
-(2)  A  principal  or  teacher  shall  in  and  out  of  school  use  such  necessary measures-
-
-(a)  to promote and maintain a high level of discipline among students; and
-
-(b)  to  set  an  example  in  matters  of  respect  for  constituted  authority, commitment  to  duty,  punctuality,  regularity  and  exemplary  conduct and mode of dress.
-
-(3)  In  the  exercise  of  discipline  or  administration  of  punishment,  principals and teachers shall respect the rights of students to be heard in their own defense and to be treated with impartiality.
-
-#### Student disciplinary policy.
-
-(1)  The student disciplinary policy of a school shall-
-
-(a)  contain such guidelines and procedures as the Chief Education Officer may issue and establish pursuant to sections 48 and 49 of the Act; and
-
-(b)  be based on the following-
-
-(i)  the disciplinary policy shall be established or formulated with the participation  of  the  Parent  Teacher  Association  and  Student Council of the school;
-
-(ii)  the  disciplinary  policy  shall  outline  appropriate  procedures  and responses to be used with students;
-
-(iii)  the disciplinary policy shall be consistently enforced, but shall be flexible enough to provide for reasonable adjustment in variable circumstances;
-
-(iv)  that discipline is an integral part of education which teaches and promotes  the  development  of  integrity,  accountability,  personal ethics and self-management;
+Revision Date: 31 Dec 2009
 
 ## NINTH SCHEDULE
 
@@ -5339,7 +5573,45 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 (section 172)
 
-Revision Date: 31 Dec 2009
+#### Citation.
+
+1. These Regulations may be cited as the Education (Student Discipline) Regulations.
+
+#### Interpretation.
+
+2. In these Regulations, “Act” means the Education Act, Cap. 13.01.
+
+#### Duty of school regarding discipline.
+
+3. (1)  A principal or teacher employed at a school shall—
+
+(a)  ensure the establishment and enforcement of a student disciplinary policy and rules of the school; and
+
+(b)  institute ways to monitor violent incidents committed by students enrolled at the school.
+
+(2)  A principal or teacher shall in and out of school use such necessary measures—
+
+(a)  to promote and maintain a high level of discipline among students; and
+
+(b)  to set an example in matters of respect for constituted authority, commitment to duty, punctuality, regularity and exemplary conduct and mode of dress.
+
+(3)  In the exercise of discipline or administration of punishment, principals and teachers shall respect the rights of students to be heard in their own defense and to be treated with impartiality.
+
+#### Student disciplinary policy.
+
+4. (1)  The student disciplinary policy of a school shall—
+
+(a)  contain such guidelines and procedures as the Chief Education Officer may issue and establish pursuant to sections 48 and 49 of the Act; and
+
+(b)  be based on the following—
+
+(i)  the disciplinary policy shall be established or formulated with the participation of the Parent Teacher Association and Student Council of the school;
+
+(ii)  the disciplinary policy shall outline appropriate procedures and responses to be used with students;
+
+(iii)  the disciplinary policy shall be consistently enforced, but shall be flexible enough to provide for reasonable adjustment in variable circumstances;
+
+(iv)  that discipline is an integral part of education which teaches and promotes the development of integrity, accountability, personal ethics and self-management;
 
 [[END OF PAGE 100]]
 
@@ -5369,7 +5641,7 @@ Revision Date: 31 Dec 2009
 
 5. (1)  Except as otherwise provided, corporal punishment shall be administered on the palms of the hands of a student.
 
-(2)  The instrument to be used in administering corporal punishment shall be-
+(2)  The instrument to be used in administering corporal punishment shall be—
 
 (a)  a leather strap eighteen inches long, one and a quarter inches wide and not more than a quarter inches thick; or
 
@@ -5377,7 +5649,7 @@ Revision Date: 31 Dec 2009
 
 (3)  Where  corporal  punishment  is  being  administered,  no  more  than  four strokes shall be administered to a student on the same day.
 
-(4)  When corporal punishment or detention is being administered to a student by  a  person  other  than  the  principal,  the  principal  shall  where  practicable  ensure that-
+(4)  When corporal punishment or detention is being administered to a student by  a  person  other  than  the  principal,  the  principal  shall  where  practicable  ensure that—
 
 (a)  the person administering such punishment is of the same gender as the student; or
 
@@ -5391,7 +5663,7 @@ Revision Date: 31 Dec 2009
 
 (3)  Every  adult  student  seeking  admission  or  a  transfer  to  a  school  shall signify in writing, in the Parent or Guardian or Adult Student Agreement set out in Part II of the Schedule, his consent to be searched by the principal or an authorized person.
 
-(4)  Where  the  principal  has  reasonable  grounds  to  suspect  that  a  student enrolled at the school and on the premises has in his possession or on his person a weapon, any controlled drug or other prohibited article or substance, the principal or any  authorized  person  may  stop  and  search  the  student  or  cause  the  student  to  be searched.
+(4)  Where  the  principal  has  reasonable  grounds  to  suspect  that  a  student enrolled at the school and on the premises has in his possession or on his person a weapon, any controlled drug or other prohibited article or substance, the principal or
 
 [[END OF PAGE 101]]
 
@@ -5405,17 +5677,19 @@ LAWS OF SAINT CHRISTOPHER AND NEVIS
 
 Revision Date: 31 Dec 2009
 
+any authorized person may stop and search the student or cause the student to be searched.
+
 (5)  The principal shall ensure a student is searched by a teacher of the same gender as the student and that the search is conducted in the presence of at least one other adult person of the same gender as the teacher and student.
 
 (6)  A student shall not be strip searched.
 
 (7)  Subject  to  the  direction  of  the  Police  Commissioner,  every  weapon  or prohibited article or substance found in the control, custody or possession of a student shall  be  taken  away  from  the  student  and  may  be  destroyed  or  disposed  of  in accordance with the direction of the Police Commissioner.
 
-(8)  For  the  purpose  of  this  regulation,  'authorized  person'  means  a  police officer,  a  competent  member  of  staff,  a  person  authorized  by  the  Chief  Education Officer or the principal.
+(8)  For  the  purpose  of  this  regulation,  “authorized  person”  means  a  police officer,  a  competent  member  of  staff,  a  person  authorized  by  the  Chief  Education Officer or the principal.
 
 #### Possession of a controlled drug.
 
-7. (1)  Where a controlled drug or other prohibited article or substance is found in the  control,  custody  or  possession  of  a  student  enrolled  at  a  school,  the  principal shall-
+7. (1)  Where a controlled drug or other prohibited article or substance is found in the  control,  custody  or  possession  of  a  student  enrolled  at  a  school,  the  principal shall—
 
 (a)  communicate  the  information  to  the  parent  and  the  Chief  Education Officer; and
 
@@ -5451,7 +5725,7 @@ Revision Date: 31 Dec 2009
 
 #### Patrols.
 
-- The Ministry shall, in collaboration with the Police Force, ensure that-
+8. The Ministry shall, in collaboration with the Police Force, ensure that—
 
 (a)  regular patrols of the school building and premises are conducted; and
 
@@ -5475,7 +5749,7 @@ Revision Date: 31 Dec 2009
 
 11. (1)  A  student  shall  not  display  or  participate  in  the  display  of  undesirable conduct or behaviour pattern which may reasonably be associated with a gang.
 
-(2)  A  principal  may  refuse  admission  to  a  student,  or  may  suspend  or recommend the expulsion of a student-
+(2)  A  principal  may  refuse  admission  to  a  student,  or  may  suspend  or recommend the expulsion of a student—
 
 (a)  whose hairstyle, conduct, mode of dress or other undesirable conduct or behaviour pattern may reasonably be associated with a gang; or
 
@@ -5507,13 +5781,13 @@ Revision Date: 31 Dec 2009
 
 (3)  Where a parent fails or refuses to withdraw a student after a request for withdrawal  by  the  principal  has  been  made  pursuant  to  sub-regulation  (7),  the principal shall recommend the expulsion of the student.
 
-(4)  A principal shall-
+(4)  A principal shall—
 
 (a)  thoroughly research and investigate the circumstances surrounding any misconduct that would result in suspension or expulsion of a student from school before suspending or recommending the expulsion of the student; and
 
 (b)  facilitate  any  investigation  respecting  the  misconduct  referred  to  in paragraph (a) that the Chief Education Officer may direct.
 
-(5)  Where a student has been suspended or expelled, the principal shall within two days of the suspension or expulsion, forward a full written report respecting the suspension  or  expulsion  to  the  Ministry  and  the  parent  of  the  student  clearly outlining-
+(5)  Where a student has been suspended or expelled, the principal shall within two days of the suspension or expulsion, forward a full written report respecting the suspension  or  expulsion  to  the  Ministry  and  the  parent  of  the  student  clearly outlining—
 
 (a)  the reason or reasons for the suspension or expulsion; and
 
@@ -5521,7 +5795,7 @@ Revision Date: 31 Dec 2009
 
 (6)  Where  a  student  is  on  suspension  and  an  examination  in  relation  to  the student  is  scheduled  to  be  held  during  the  period  of  suspension,  the  principal  may permit the student on the school premises only to write the examination.
 
-(7)  The principal may in writing-
+(7)  The principal may in writing—
 
 (a)  request a parent to withdraw the student from the school for reason of indiscipline; or
 
@@ -5529,7 +5803,7 @@ Revision Date: 31 Dec 2009
 
 (8)  A request for withdrawal or recommendation for expulsion from a school made  pursuant  to  this  regulation,  shall  satisfy  the  requirements  of  the  Act,  these Regulations and the school rules and policy regarding withdrawal or expulsion from school.
 
-(9)  Notwithstanding the generality of subsection (8), a request for withdrawal shall be in accordance with the following-
+(9)  Notwithstanding the generality of subsection (8), a request for withdrawal shall be in accordance with the following—
 
 (a)  the request or recommendation shall be made by a person entitled to make the request or recommendation;
 
@@ -5537,7 +5811,7 @@ Revision Date: 31 Dec 2009
 
 (c)  the nature of the problem occasioning the withdrawal or expulsion;
 
-(d)  the  student  and  the  parent  shall  be  given  adequate  warning  of  the student's indiscipline before a withdrawal or expulsion is requested or recommended;
+(d)  the  student  and  the  parent  shall  be  given  adequate  warning  of  the student’s indiscipline before a withdrawal or expulsion is requested or recommended;
 
 [[END OF PAGE 104]]
 
@@ -5583,13 +5857,13 @@ __________
 
 ###### NATIONAL SCHOOL POLICY
 
-If for any reason a student is unable to comply with any of policies, of the National School Policy, it is the responsibility of the parent to inform the principal by letter, phone or any other reasonable form of communication. It is the parent's responsibility to ensure that the information is communicated to the principal.
+If for any reason a student is unable to comply with any of policies, of the National School Policy, it is the responsibility of the parent to inform the principal by letter, phone or any other reasonable form of communication. It is the parent’s responsibility to ensure that the information is communicated to the principal.
 
 ###### REGULARITY
 
-(1)  Each student must attend school on every day prescribed for school.
+1. (1)  Each student must attend school on every day prescribed for school.
 
-(2)  If a student is unable to attend school, this must be communicated to the principal  by  letter,  phone  or  some  other  reasonable  form  of  communication  by  the student's parent within a reasonable time.
+(2)  If a student is unable to attend school, this must be communicated to the principal  by  letter,  phone  or  some  other  reasonable  form  of  communication  by  the student’s parent within a reasonable time.
 
 [[END OF PAGE 105]]
 
@@ -5645,7 +5919,7 @@ Revision Date: 31 Dec 2009
 
 (12)  No hair colouring is permitted.
 
-(13)  Boy's hair must be cut low at all times. Designs, such as afros, plaits and pig-tails are not allowed.
+(13)  Boy’s hair must be cut low at all times. Designs, such as afros, plaits and pig-tails are not allowed.
 
 ###### ASSEMBLY
 
@@ -5683,7 +5957,7 @@ Revision Date: 31 Dec 2009
 
 ###### HOME WORK
 
-- Students are expected to complete all homework assignments set by teachers.
+7. Students are expected to complete all homework assignments set by teachers.
 
 ###### BOOKS AND EQUIPMENT
 
@@ -5729,15 +6003,15 @@ Revision Date: 31 Dec 2009
 
 ###### EATING AND DRINKING
 
-(1)  Eating and drinking are not allowed during class time.
+11. (1)  Eating and drinking are not allowed during class time.
 
-- Chewing gum is strictly forbidden.
+(2)  Chewing gum is strictly forbidden.
 
 ###### RESPECT FOR OTHERS
 
 12. (1)  Students  must  respect  themselves  as  well  as  the  rights  and  privileges  of others.
 
-- The following will not be tolerated-
+(2)  The following will not be tolerated—
 
 (a)  destroying personal property or work projects;
 
@@ -5745,7 +6019,7 @@ Revision Date: 31 Dec 2009
 
 (c)  assaults either physical or verbal of another student, teacher or other school employee.
 
-- The following are strictly forbidden:
+(3)  The following are strictly forbidden:
 
 (a)  fighting;
 
@@ -5815,7 +6089,7 @@ Revision Date: 31 Dec 2009
 
 (7)  Each school is required to establish school clubs and each student shall be required to be a member of at least one school club.
 
-(8)  Each school is required to establish and maintain a student's profile which should be forwarded to secondary schools with the Grade 6 students.
+(8)  Each school is required to establish and maintain a student’s profile which should be forwarded to secondary schools with the Grade 6 students.
 
 (9)  All teachers must be involved in maintaining order and discipline in their daily interaction with children.
 
@@ -5823,7 +6097,7 @@ Revision Date: 31 Dec 2009
 
 ###### POLICY WHEN STUDENTS ARE FOUND WITH WEAPONS
 
-(1)  Weapons, such as:
+16. (1)  Weapons, such as:
 
 (a)  knives;
 
@@ -5899,7 +6173,7 @@ Revision Date: 31 Dec 2009
 
 19. (1)  The use and/or possession of illicit drugs and/or gambling by students is prohibited.
 
-- Any student found engaged in such activities will be referred to the Police.
+(2)  Any student found engaged in such activities will be referred to the Police.
 
 (3)  The  student  will  be  suspended  from  school  and  will  remain  suspended until a determination on the matter by the Police or Court.
 
@@ -5921,13 +6195,13 @@ CAP. 13.01
 
 Revision Date: 31 Dec 2009
 
-- Parents  of  such  students  must  be  actively  involved  in  the  counseling programme.
+(2)  Parents  of  such  students  must  be  actively  involved  in  the  counseling programme.
 
-- Community Counselors may initiate and supervise the Parenting Programmes in collaboration with the Ministry of Social Development and Gender Affairs.
+(3)  Community Counselors may initiate and supervise the Parenting Programmes in collaboration with the Ministry of Social Development and Gender Affairs.
 
 ###### RULES TO REMAIN IN FORCE
 
-- Every policy shall remain in force and be valid unless or until it is changed by the Minister. The Minister may at any time add or subtract from these policies.
+21. Every policy shall remain in force and be valid unless or until it is changed by the Minister. The Minister may at any time add or subtract from these policies.
 
 ##### PART II
 
