@@ -2177,7 +2177,7 @@ Provided that  in  computing  the  said  period  of  sixty days no account shall
 
 THE CONSTITUTION OF INDIA
 
-Decision on questions as to disqualifications  of members.
+Disqualifications for membership.
 
 ( Part V.-The Union.-Arts. 101-103.)
 
@@ -2199,6 +2199,8 @@ the  House  is  prorogued  or  is  adjourned  for  more  than four consecutive d
 1 [ Explanation. -For  the  purposes  of  this  clause]  a person  shall  not  be  deemed  to  hold  an  office  of  profit under  the  Government  of  India  or  the  Government  of any State by reason only that he is a Minister either for the Union or for such State.
 
 2 [(2)  A  person  shall  be  disqualified  for  being  a member  of  either  House  of  Parliament  if  he  is  so disqualified under the Tenth Schedule.]
+
+Decision on questions as to disqualifications of members.
 
 ###### 3 [ 103.
 (1)  If  any  question  arises  as  to  whether  a member of either House of Parliament has become subject to any of the disqualifications mentioned in clause (1) of article 102, the question shall be referred for the decision of  the  President and his decision shall be final.
@@ -2233,11 +2235,13 @@ If  a  person sits or votes as a member of either House  of  Parliament  before 
 
 (3)  In  other  respects,  the  powers,  privileges  and immunities  of  each  House  of  Parliament,  and  of  the members  and  the  committees  of  each  House,  shall  be such as may from time to time be defined by Parliament by  law,  and,  until  so  defined, 1 [shall  be  those  of  that House and of its members and committees immediately before  the  coming  into  force  of  section  15  of  the Constitution (Forty-fourth Amendment) Act, 1978].
 
-(4)  The  provisions  of  clauses  (1),  (2)  and  (3)  shall apply  in  relation  to  persons  who  by  virtue  of  this Constitution have the right to speak in, and otherwise to Penalty  for  sitting and  voting  before making oath or affirmation  under article  99  or  when not qualified or when disqualified.
+(4)  The  provisions  of  clauses  (1),  (2)  and  (3)  shall apply  in  relation  to  persons  who  by  virtue  of  this Constitution have the right to speak in, and otherwise to
+
+Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified.
+
+Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof.
 
 > 1 Subs.  by  the  Constitution  (Forty-fourth  Amendment)  Act,  1978,  s.  15,  for  certain  words (w.e.f.  20-6-1979).
-
-Powers,  privileges, etc., of the Houses of Parliament  and  of the  members  and committees thereof.
 
 [[END OF PAGE 77]]
 
@@ -2292,7 +2296,7 @@ THE CONSTITUTION OF INDIA
 
 ( c ) more than six months elapse from the date of the reception of the Bill by the other House without the Bill being passed by it,
 
-the President may, unless the Bill has elapsed by reason of a dissolution of the House of the People, notify to the Houses  by  message  if  they  are  sitting  or  by  public notification  if  they  are  not  sitting,  his  intention  to summon them to meet in a joint sitting for the purpose of  deliberating and voting on the Bill:
+the President may, unless the Bill has lapsed by reason of a dissolution of the House of the People, notify to the Houses  by  message  if  they  are  sitting  or  by  public notification  if  they  are  not  sitting,  his  intention  to summon them to meet in a joint sitting for the purpose of  deliberating and voting on the Bill:
 
 Provided that nothing in this clause shall apply to a Money Bill.
 
@@ -2492,9 +2496,11 @@ cause  to  be  laid  before  both  the  Houses  of  Parliament another statement
 ###### 116.
 (1)  Notwithstanding anything in the foregoing provisions of this Chapter, the House of the People shall have power-
 
-( a ) to make any grant in advance in respect of the estimated  expenditure  for  a  part  of  any  financial Supplementary, additional or excess grants.
+( a ) to make any grant in advance in respect of the estimated  expenditure  for  a  part  of  any  financial
 
-Votes  on  account, votes  of  credit  and exceptional grants.
+Supplementary, additional or excess grants.
+
+Votes on account, votes of credit and exceptional grants.
 
 [[END OF PAGE 85]]
 
@@ -2551,9 +2557,11 @@ alteration or regulation of any tax by any local authority or body for local pur
 (4) At a joint sitting of the two Houses the Speaker of the House of the People, or in his absence such person as may be determined by rules of procedure made under clause (3), shall preside.
 
 ###### 119.
-Parliament may, for the purpose of the timely completion  of  financial  business,  regulate  by  law  the procedure of, and the conduct of business in, each House of  Parliament  in  relation  to  any  financial  matter  or  to any  Bill  for  the  appropriation  of  moneys  out  of  the Consolidated  Fund  of  India,  and,  if  and  so  far  as  any provision of any law so made is inconsistent with any rule made by a House of Parliament under clause (1) of article  118  or  with  any  rule  or  standing  order  having Rules of procedure.
+Parliament may, for the purpose of the timely completion  of  financial  business,  regulate  by  law  the procedure of, and the conduct of business in, each House of  Parliament  in  relation  to  any  financial  matter  or  to any  Bill  for  the  appropriation  of  moneys  out  of  the Consolidated  Fund  of  India,  and,  if  and  so  far  as  any provision of any law so made is inconsistent with any rule made by a House of Parliament under clause (1) of article  118  or  with  any  rule  or  standing  order  having
 
-Regulation  by  law  of procedure in Parliament in  relation  to  financial business.
+Rules of procedure.
+
+Regulation by law of procedure in Parliament in relation to financial business.
 
 [[END OF PAGE 87]]
 
@@ -2611,7 +2619,7 @@ THE CONSTITUTION OF INDIA
 
 ( b )  may  be  withdrawn  at  any  time  by  the President.
 
-Explanation.Where  the  Houses  of  Parliament  are summoned to reassemble on different dates, the period of  six  weeks  shall  be  reckoned  from  the  later  of  those dates for the purposes of this clause.
+Explanation.—Where  the  Houses  of  Parliament  are summoned to reassemble on different dates, the period of  six  weeks  shall  be  reckoned  from  the  later  of  those dates for the purposes of this clause.
 
 (3)  If  and  so  far  as  an  Ordinance  under  this  article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.
 
@@ -2640,11 +2648,11 @@ Explanation.Where  the  Houses  of  Parliament  are summoned to reassemble on di
 
 *
 
-> 1 CI.  (4)  was  ins.  by  the  Constitution  (Thirty-eighth  Amendment) Act,  1975,  s.  2  (retrospectively)  and omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 16 (w.e.f. 20-6-1979).
+> 1 Cl.  (4)  was  ins.  by  the  Constitution  (Thirty-eighth  Amendment) Act,  1975,  s.  2  (retrospectively)  and omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 16 (w.e.f. 20-6-1979).
 
 > 2 Now ' thirty ',  vide the Supreme Court (Number of Judges) Amendment Act, 2008 (11 of 2009).
 
-> 3 Subs. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 2, for 'after consultation with such of the Judges of the Supreme Court and of the High Court in the States as the President may deem necessary for the purpose' (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court's order dated 16th October, 2015 in the Supreme Court Advocates' on Record Association Vs. Union of India.
+> 3 Subs. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 2, for 'after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the President may deem necessary for the purpose' (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court's order dated 16th October, 2015 in the Supreme Court Advocates' on Record Association Vs. Union of India.
 
 > 4 First proviso omitted by s. 2, ibid. (w.e.f. 13-4-2015). Before amendment, the first proviso was as under:'Provided that in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of India shall always be consulted:'.
 
@@ -2711,9 +2719,9 @@ THE CONSTITUTION OF INDIA
 
 ( c )  the  Union  Minister  in  charge  of  Law  and Justice-Member, ex officio ;
 
-( d ) two eminent persons to be nominated by the committee constiting of the Prime Minister, the Chief Justice of India and the Leader of Opposition in the House of the People or where there is no such Leader of  Opposition,  then,  the  Leader  of  single  largest Opposition  Party  in  the  House  of  the  PeopleMembers:
+( d ) two eminent persons to be nominated by the committee consisting of the Prime Minister, the Chief Justice of India and the Leader of Opposition in the House of the People or where there is no such Leader of Opposition, then, the Leader of single largest Opposition Party in the House of the People—Members:
 
-Provided  that  one  of  the  eminent  person  shall  be nominated from amongst the persons belonging to the Scheduled Caste, the Scheduled Tribes, Other Backward Classes, Minorities or Women:
+Provided that one of the eminent persons shall be nominated from amongst the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Minorities or Women:
 
 Provided  further  that  an  eminent  person  shall  be nominated for a period of three years and shall not be eligible for renomination.
 
@@ -2941,19 +2949,24 @@ THE CONSTITUTION OF INDIA
 
 ( Part V.-The Union.-Arts. 134A-139.)
 
-- Until Parliament by law otherwise provides, the Supreme Court shall also have jurisdiction and powers with  respect  to  any  matter  to  which  the  provisions  of article 133 or article 134 do not apply if jurisdiction and powers in relation to that matter were exercisable by the Federal  Court  immediately  before  the  commencement of  this  Constitution under any existing law.
+###### 135.
+Until Parliament by law otherwise provides, the Supreme Court shall also have jurisdiction and powers with  respect  to  any  matter  to  which  the  provisions  of article 133 or article 134 do not apply if jurisdiction and powers in relation to that matter were exercisable by the Federal  Court  immediately  before  the  commencement of  this  Constitution under any existing law.
 
+###### 136.
 (1)  Notwithstanding  anything  in  this  Chapter, the  Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of  India.
 
-- Nothing in clause (1) shall apply to any judgment, determination, sentence or order passed or made by any court or tribunal constituted by or under any law relating to  the Armed Forces.
+(2) Nothing in clause (1) shall apply to any judgment, determination, sentence or order passed or made by any court or tribunal constituted by or under any law relating to  the Armed Forces.
 
-- Subject  to  the  provisions  of  any  law  made  by Parliament  or  any  rules  made  under  article  145,  the Supreme Court shall have power to review any judgment pronounced or order made by it.
+###### 137.
+Subject  to  the  provisions  of  any  law  made  by Parliament  or  any  rules  made  under  article  145,  the Supreme Court shall have power to review any judgment pronounced or order made by it.
 
+###### 138.
 (1)  the  Supreme Court shall have such further jurisdiction and powers with respect to any of the matters in  the  Union List as Parliament may by law confer.
 
-- The  Supreme  Court  shall  have  such  further jurisdiction  and  powers  with  respect  to  any  matter  as the  Government  of  India  and  the  Government  of  any State may by special agreement confer, if Parliament by law  provides  for  the  exercise  of  such  jurisdiction  and powers by the Supreme Court.
+(2) The  Supreme  Court  shall  have  such  further jurisdiction  and  powers  with  respect  to  any  matter  as the  Government  of  India  and  the  Government  of  any State may by special agreement confer, if Parliament by law  provides  for  the  exercise  of  such  jurisdiction  and powers by the Supreme Court.
 
-- Parliament may by law confer on the Supreme Court power to issue directions, orders or writs, including writs in the nature of habeas corpus , mandamus , prohibition, quo  warranto and certiorari ,  or  any  of  them,  for  any purposes  other  than  those  mentioned  in  clause  (2)  of article  32.
+###### 139.
+Parliament may by law confer on the Supreme Court power to issue directions, orders or writs, including writs in the nature of habeas corpus , mandamus , prohibition, quo  warranto and certiorari ,  or  any  of  them,  for  any purposes  other  than  those  mentioned  in  clause  (2)  of article  32.
 
 Jurisdiction and powers of the Federal Court under existing  law  to  be exercisable  by  the Supreme Court.
 
@@ -2988,12 +3001,15 @@ Enforcement of decrees and orders of Supreme  Court  and orders as to discovery,
 
 Provided  that  the  Supreme  Court  may  after determining the said questions of law return any case so withdrawn together with a copy of its judgment on such questions  to  the  High  Court  from  which  the  case  has been  withdrawn,  and  the  High  Court  shall  on  receipt thereof, proceed to dispose of the case in conformity with such judgment.]
 
-- The Supreme Court may, if it deems it expedient so to do for the ends of justice, transfer any case, appeal or other proceedings pending before any High Court to any other High Court.]
+(2) The Supreme Court may, if it deems it expedient so to do for the ends of justice, transfer any case, appeal or other proceedings pending before any High Court to any other High Court.]
 
-- Parliament  may  by  law  make  provision  for conferring upon the Supreme Court such supplemental powers  not  inconsistent  with  any  of  the  provisions  of this  Constitution  as  may  appear  to  be  necessary  or desirable  for  the  purpose  of  enabling  the  Court  more effectively to exercise the jurisdiction conferred upon it by or under this Constitution.
+###### 140.
+Parliament  may  by  law  make  provision  for conferring upon the Supreme Court such supplemental powers  not  inconsistent  with  any  of  the  provisions  of this  Constitution  as  may  appear  to  be  necessary  or desirable  for  the  purpose  of  enabling  the  Court  more effectively to exercise the jurisdiction conferred upon it by or under this Constitution.
 
-- The law declared by the Supreme Court shall be binding on all courts within the territory of India.
+###### 141.
+The law declared by the Supreme Court shall be binding on all courts within the territory of India.
 
+###### 142.
 (1)  The  Supreme  Court  in  the  exercise  of  its jurisdiction may pass such decree or make such order as is  necessary  for  doing  complete  justice  in  any  cause  or matter  pending  before  it,  and  any  decree  so  passed  or
 
 1 Ins.  by  the  Constitution (Forty-second Amendment) Act, 1976, s. 24 (w.e.f. 1-2-1977).
@@ -3031,13 +3047,7 @@ Civil  and  judicial authorities  to  act  in aid  of  the  Supreme Court.
 
 > 1 See the Supreme Court (Decrees and Orders) Enforcement Order, 1954 (C.O. 47).
 
-i
-
-2 The  words,  brackets  and  figure  'clause  (
-
-)  of '  omitted  by  the  Constitution  (Seventh  Amendment)
-
-> Act, 1956, s. 29 and Sch.
+> 2 The words, brackets and figure 'clause (i) of ' omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 
 > 3 Subs. by s. 29 and Sch., ibid., for 'said clause'.
 
@@ -3143,7 +3153,7 @@ In  this  Chapter  and  in  Chapter  V  of  Part  VI, references  to  any  subst
 #### CHAPTER V.-COMPTROLLER AND AUDITOR-GENERAL OF INDIA
 
 ###### 148.
-(1)  There  shall  be  a  Comptroller  and  AuditorGeneral of India who shall be appointed by the President by  warrant  under  his  hand  and  seal  and  shall  only  be removed  from  office  in  like  manner  and  on  the  like grounds as a Judge of the Supreme Court.
+(1)  There  shall  be  a  Comptroller  and  Auditor-General of India who shall be appointed by the President by  warrant  under  his  hand  and  seal  and  shall  only  be removed  from  office  in  like  manner  and  on  the  like grounds as a Judge of the Supreme Court.
 
 (2)  Every  person  appointed  to  be  the  Comptroller and Auditor-General of India shall, before he enters upon his  office,  make  and  subscribe  before  the  President,  or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in  the  Third Schedule.
 
@@ -3176,9 +3186,9 @@ of the States as were conferred on or exercisable by the Auditor-General  of  In
 The accounts of  the  Union  and  of  the  States shall be kept in such form as the President may,  2 [on the advice of] the Comptroller and Auditor-General of India, prescribe.]
 
 ###### 151.
-(1) The reports of the Comptroller and AuditorGeneral  of  India  relating  to  the  accounts  of  the  Union shall be submitted to the President, who shall cause them to  be  laid  before  each  House of Parliament.
+(1) The reports of the Comptroller and Auditor-General  of  India  relating  to  the  accounts  of  the  Union shall be submitted to the President, who shall cause them to  be  laid  before  each  House of Parliament.
 
-(2)  The  reports  of  the  Comptroller  and  AuditorGeneral of India relating to the accounts of a State shall be submitted to the Governor  3 *** of the State, who shall cause them to be laid before the Legislature of the State.
+(2)  The  reports  of  the  Comptroller  and  Auditor-General of India relating to the accounts of a State shall be submitted to the Governor  3 *** of the State, who shall cause them to be laid before the Legislature of the State.
 
 > 1 Subs. by the Constitution  (Forty-second  Amendment)  Act,  1976,  s.  27,  for  art.  150 (w.e.f.  1-4-1977).
 
@@ -3186,7 +3196,7 @@ The accounts of  the  Union  and  of  the  States shall be kept in such form as 
 
 > 3 The  words  'or  Rajpramukh'  omitted  by  the  Constitution  (Seventh  Amendment)  Act,  1956, s.  29  and  Sch.
 
-Duties  and  powers of  the  Comptroller and AuditorGeneral.
+Duties  and  powers of  the  Comptroller and Auditor-General.
 
 Form of accounts of the Union and of the States.
 
@@ -3276,7 +3286,9 @@ No person shall be eligible for appointment as Governor  unless  he  is  a  citi
 (4) The emoluments and allowances of the Governor shall not be diminished during his term of office.
 
 ###### 159.
-Every Governor and every person discharging the functions of the Governor shall, before entering upon his  office,  make  and  subscribe  in  the  presence  of  the Chief Justice of the High Court exercising jurisdiction in relation  to  the  State,  or,  in  his  absence,  the  seniormost Qualifications for appointment as Governor.
+Every Governor and every person discharging the functions of the Governor shall, before entering upon his  office,  make  and  subscribe  in  the  presence  of  the Chief Justice of the High Court exercising jurisdiction in relation  to  the  State,  or,  in  his  absence,  the  seniormost
+
+Qualifications for appointment as Governor.
 
 > 1 Ins.  by  the  Constitution (Seventh Amendment) Act, 1956, s. 7.
 
@@ -3302,7 +3314,9 @@ Council of Ministers to  aid  and  advise Governor.
 
 Judge of that Court available, an oath or affirmation in the following form, that is to say-
 
-execute the office of Governor (or discharge the functions of the Governor) of ..... ( name of the State ) and will to the best  of  my  ability  preserve,  protect  and  defend  the Constitution and the law and that I will devote myself to the service and well-being of the people of.........( name of the  State ). '
+“I, A.B., do swear in the name of God
+solemnly affirm that I will faithfully
+execute the office of Governor (or discharge the functions of the Governor) of ..... (name of the State) and will to the best of my ability preserve, protect and defend the Constitution and the law and that I will devote myself to the service and well-being of the people of.........(name of the State).”
 
 ###### 160.
 The President may make such provision as he thinks  fit  for  the  discharge  of  the  functions  of  the Governor of a State in any contingency not provided for in  this  Chapter.
@@ -3621,7 +3635,7 @@ Right of Governor to address  and  send messages to the House or Houses.
 
 Special  address  by the Governor.
 
-Rights  of  Ministers and AdvocateGeneral  as  respects the Houses.
+Rights  of  Ministers and Advocate-General  as  respects the Houses.
 
 ( Part VI.-The States.-Arts. 174-177.)
 
@@ -3671,7 +3685,7 @@ Council, both Houses, and to speak in, and otherwise to take  part  in  the  pro
 Every Legislative Assembly of a State shall, as soon as may be, choose two members of the Assembly to be respectively Speaker and Deputy Speaker thereof and, so often as the office of Speaker or Deputy Speaker becomes  vacant,  the  Assembly  shall  choose  another member to be Speaker  or  Deputy  Speaker,  as  the  case may be.
 
 ###### 179.
-Amember holding office as Speaker or Deputy Speaker of an Assembly-
+A member holding office as Speaker or Deputy Speaker of an Assembly-
 
 ( a )  shall  vacate  his  office  if  he  ceases  to  be  a member of the Assembly;
 
@@ -3719,7 +3733,7 @@ THE CONSTITUTION OF INDIA
 The  Legislative  Council  of  every  State  having such  Council  shall,  as  soon  as  may  be,  choose  two members of the Council to be respectively Chairman and Deputy Chairman thereof and, so often as the office of Chairman  or  Deputy  Chairman  becomes  vacant,  the Council shall choose another member to be Chairman or Deputy Chairman, as the case may be.
 
 ###### 183.
-Amember holding office as Chairman or Deputy Chairman of a Legislative Council-
+A member holding office as Chairman or Deputy Chairman of a Legislative Council-
 
 ( a )  shall  vacate  his  office  if  he  ceases  to  be  a member of the Council;
 
@@ -3807,7 +3821,7 @@ The Speaker or Chairman, or person acting as such, shall  not  vote  in  the  fi
 
 (2) A House of the Legislature of a State shall have power  to  act  notwithstanding  any  vacancy  in  the membership  thereof,  and  any  proceedings  in  the Legislature of a State shall be valid notwithstanding that it is discovered subsequently that some person who was not entitled so to do sat or voted or otherwise took part in  the  proceedings.
 
-(3) Until the Legislature of the State by law otherwise provides, the quorum to constitute a meeting of a House of the Legislature of a State shall be ten members or onetenth  of  the  total  number  of  members  of  the  House, whichever is greater.
+(3) Until the Legislature of the State by law otherwise provides, the quorum to constitute a meeting of a House of the Legislature of a State shall be ten members or one-tenth  of  the  total  number  of  members  of  the  House, whichever is greater.
 
 (4) If at any time during a meeting of the Legislative Assembly or the Legislative Council of a State there is no  quorum,  it  shall  be  the  duty  of  the  Speaker  or Chairman,  or  person  acting  as  such,  either  to  adjourn the  House  or  to  suspend  the  meeting  until  there  is  a quorum.
 
@@ -3818,7 +3832,9 @@ The Speaker or Chairman, or person acting as such, shall  not  vote  in  the  fi
 
 (2) No person shall be a member of the Legislatures of two or more States specified in the First Schedule and if  a  person  is  chosen  a  member  of  the  Legislatures  of two or more such States, then, at the expiration of such period  as  may  be  specified  in  rules 1 made  by  the President,  that  person's  seat  in  the  Legislatures  of  all such States shall become vacant, unless he has previously resigned his seat in the Legislatures of all but one of the States.
 
-(3)  If  a  member  of  a  House  of  the  Legislature  of  a State- Vacation of seats.
+(3)  If  a  member  of  a  House  of  the  Legislature  of  a State—
+
+Vacation of seats.
 
 > 1 See the  Prohibition  of  Simultaneous  Membership  Rules,  1950  published  with  the  Ministry  of  Law Notification No. F. 46/50-C, dated the 26th January, 1950, Gazette of India, Extraordinary, p. 678.
 
@@ -3883,7 +3899,9 @@ THE CONSTITUTION OF INDIA
 (2) Before giving any decision on any such question, the  Governor  shall  obtain  the  opinion  of  the  Election Commission and shall act according to such opinion.]
 
 ###### 193.
-If  a  person  sits  or  votes  as  a  member  of  the Legislative Assembly or the Legislative Council of a State before he has complied with the requirements of article 188, or when he knows that he is not qualified or that he is  disqualified  for  membership  thereof,  or  that  he  is prohibited from so doing by the provisions of any law made by Parliament or the Legislature of the State, he Decision on questions as to disqualifications  of members.
+If  a  person  sits  or  votes  as  a  member  of  the Legislative Assembly or the Legislative Council of a State before he has complied with the requirements of article 188, or when he knows that he is not qualified or that he is  disqualified  for  membership  thereof,  or  that  he  is prohibited from so doing by the provisions of any law made by Parliament or the Legislature of the State, he
+
+Decision on questions as to disqualifications  of members.
 
 Penalty  for  sitting and  voting  before making oath or affirmation  under article  188  or  when not qualified or when disqualified.
 
@@ -6620,29 +6638,28 @@ THE CONSTITUTION OF INDIA
 
 ( Part XII.-Finance, Property, Contracts and Suits.Arts. 276-278.)
 
-(1) Notwithstanding anything in article 246, no law of the Legislature of a State relating to taxes for the benefit  of  the  State  or  of  a  municipality,  district  board, local board or other local authority therein in respect of professions,  trades,  callings  or  employments  shall  be invalid on the ground that it relates to a tax on income.
+Taxes on professions, trades, callings and employments.
 
-- The total amount payable in respect of any one person to  the  State  or  to  any  one  municipality,  district board, local board or other local authority in the State by way  of  taxes  on  professions,  trades,  callings  and employments shall not exceed  1 [two thousand and five hundred rupees] per annum.
+###### 276.
+(1) Notwithstanding anything in article 246, no law of the Legislature of a State relating to taxes for the benefit of the State or of a municipality, district board, local board or other local authority therein in respect of professions, trades, callings or employments shall be invalid on the ground that it relates to a tax on income.
 
-2 *
+(2) The total amount payable in respect of any one person to the State or to any one municipality, district board, local board or other local authority in the State by way of taxes on professions, trades, callings and employments shall not exceed 1 [two thousand and five hundred rupees] per annum.
 
-*
+2* * * *
 
-*
-
-*
-
-- The power of the Legislature of a State to make laws  as  aforesaid  with  respect  to  taxes  on  professions, trades, callings and employments shall not be construed as limiting in any way the power of Parliament to make laws with respect to taxes on income accruing from or arising  out  of  professions,  trades,  callings  and employments.
-
-- Any  taxes,  duties,  cesses  or  fees  which, immediately  before  the  commencement  of  this Constitution,  were  being  lawfully  levied  by  the Government of any State or by any municipality or other local  authority  or  body  for  the  purposes  of  the  State, municipality,  district  or  other  local  area  may, notwithstanding that those taxes, duties, cesses or fees are  mentioned in the Union List, continue to be levied and to be applied to the same purposes until provision to  the  contrary is made by Parliament by law.
-
-[ Agreement  with  States  in  Part  B  of  the  First Schedule with regard to certain financial matters. ] Rep. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-
-> 1 Subs. by the Constitution (Sixtieth Amendment) Act, 1988, s. 2, for 'two hundred and fifty rupees'. 2 Proviso omitted by s. 2, ibid.
-
-Taxes on professions, trades,  callings  and employments.
+(3) The power of the Legislature of a State to make laws as aforesaid with respect to taxes on professions, trades, callings and employments shall not be construed as limiting in any way the power of Parliament to make laws with respect to taxes on income accruing from or arising out of professions, trades, callings and employments.
 
 Savings.
+
+###### 277.
+Any taxes, duties, cesses or fees which, immediately before the commencement of this Constitution, were being lawfully levied by the Government of any State or by any municipality or other local authority or body for the purposes of the State, municipality, district or other local area may, notwithstanding that those taxes, duties, cesses or fees are mentioned in the Union List, continue to be levied and to be applied to the same purposes until provision to the contrary is made by Parliament by law.
+
+###### 278.
+[Agreement with States in Part B of the First Schedule with regard to certain financial matters.] Rep. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
+
+> 1 Subs. by the Constitution (Sixtieth Amendment) Act, 1988, s. 2, for “two hundred and fifty rupees”.
+
+> 2 Proviso omitted by s. 2, ibid.
 
 [[END OF PAGE 201]]
 
@@ -6672,7 +6689,7 @@ Finance Commission.
 
 ( a )  the  distribution  between  the  Union  and  the States of the net proceeds of taxes which are to be, or may be, divided between them under this Chapter and the allocation between the States of the respective shares of such proceeds;
 
-( b ) the principles which should govern the grantsin-aid  of  the  revenues  of  the  States  out  of  the Consolidated Fund of India;
+( b ) the principles which should govern the grants-in-aid of the revenues of the States out of the Consolidated Fund of India;
 
 [[END OF PAGE 202]]
 
@@ -6704,8 +6721,10 @@ Recommendations of the Finance Commission.
 
 Expenditure defrayable by the Union or a State out of its revenues.
 
+Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the public accounts.
+
 ###### 283.
-(1)  The  custody  of  the  Consolidated  Fund  of India and the Contingency Fund of India, the payment of moneys into such Funds, the withdrawal of moneys therefrom, the custody of public moneys other than those credited to such Funds received by or on behalf of the Government  of  India,  their  payment  into  the  public account  of  India  and  the  withdrawal  of  moneys  from such  account  and  all  other  matters  connected  with  or Custody, etc., of Consolidated Funds, Contingency  Funds and moneys credited to the public accounts.
+(1) The custody of the Consolidated Fund of India and the Contingency Fund of India, the payment of moneys into such Funds, the withdrawal of moneys therefrom, the custody of public moneys other than those credited to such Funds received by or on behalf of the Government of India, their payment into the public account of India and the withdrawal of moneys from such account and all other matters connected with or
 
 > 1 Ins.  by  the  Constitution (Seventy-third Amendment) Act, 1992, s. 3 (w.e.f. 24-4-1993).
 
@@ -6738,7 +6757,7 @@ All moneys received by or deposited with-
 
 ( b )  any  court  within  the  territory  of  India  to  the credit of any cause, matter, account or persons,
 
-shall be paid into the public account of India or the public account of State, as the case may be.
+shall be paid into the public account of India or the public account of the State, as the case may be.
 
 ###### 285.
 (1)  The property of the Union shall, save in so far  as  Parliament  may  by  law  otherwise  provide,  be exempt  from  all  taxes  imposed  by  a  State  or  by  any authority within a State.
@@ -6756,6 +6775,8 @@ THE CONSTITUTION OF INDIA
 177
 
 ( Part XII.-Finance, Property, Contracts and Suits.Arts. 286-287.)
+
+Restrictions as to imposition of tax on the sale or purchase of goods.
 
 ###### 286.
 (1) No law of a State shall impose, or authorise the imposition of, a tax on the sale or purchase of goods where such sale or purchase takes place-
@@ -6776,22 +6797,20 @@ or export of the goods out of, the territory of India. 1 * * * *
 
 be subject to such restrictions and conditions in regard to the system of levy, rates and other incidents of the tax as Parliament may by law specify.] ]
 
+Exemption from taxes on electricity.
+
 ###### 287.
-Save  in  so  far  as  Parliament  may  by  law otherwise  provide,  no  law  of  a  State  shall  impose,  or authorise the imposition of, a tax on the consumption or sale of electricity (whether produced by a Government or other persons) which is-
+Save in so far as Parliament may by law otherwise provide, no law of a State shall impose, or authorise the imposition of, a tax on the consumption or sale of electricity (whether produced by a Government or other persons) which is-
 
-( a )  consumed  by  the  Government  of  India,  or sold to the Government of India for consumption by that Government; or
+( a ) consumed by the Government of India, or sold to the Government of India for consumption by that Government; or
 
-( b )  consumed in the construction, maintenance or operation of any railway by the Government of India or a railway company operating that railway, or  sold  to  that  Government  or  any  such  railway Restrictions  as  to imposition of tax on the  sale  or  purchase of  goods.
+( b ) consumed in the construction, maintenance or operation of any railway by the Government of India or a railway company operating that railway, or sold to that Government or any such railway
 
-1
+> 1 Explanation to cl. (1) omitted by the Constitution (Sixth Amendment) Act, 1956, s. 4.
 
-> Explanation to  cl.  (1)  omitted  by  the  Constitution (Sixth Amendment) Act, 1956, s. 4.
-
-> 2 Subs. by s. 4, ibid. ,  for  cls.  (2)  and  (3).
+> 2 Subs. by s. 4, ibid., for cls. (2) and (3).
 
 > 3 Subs. by the Constitution (Forty-sixth Amendment) Act, 1982, s. 3, for cl. (3).
-
-Exemption from taxes on electricity.
 
 [[END OF PAGE 205]]
 
@@ -6837,6 +6856,8 @@ in respect of a trade or business of any kind carried on by,  or  on  behalf  of
 
 (3) Nothing in clause (2) shall apply to any trade or business,  or  to  any  class  of  trade  or  business,  which Parliament  may  by  law  declare  to  be  incidental  to  the ordinary functions of Government.
 
+Adjustment in respect of certain expenses and pensions.
+
 ###### 290.
 Where under the provisions of this Constitution the expenses of any court or Commission, or the pension payable  to  or  in  respect  of  a  person  who  has  served before the commencement of this Constitution under the Crown  in  India  or  after  such  commencement  in connection with the affairs of the Union or of a State, are charged  on  the  Consolidated  Fund  of  India  or  the Consolidated Fund of a State, then, if-
 
@@ -6846,12 +6867,12 @@ Where under the provisions of this Constitution the expenses of any court or Com
 
 there  shall  be  charged  on  and  paid  out  of  the Consolidated Fund of the State or, as the case may be, the Consolidated Fund of India or the Consolidated Fund of  the  other  State,  such  contribution  in  respect  of  the expenses  or  pension  as  may  be  agreed,  or  as  may  in default of agreement be determined by an arbitrator to be appointed by the Chief Justice of India.
 
+Annual payment to certain Devaswom Funds.
+
 ###### 1 [ 290A.
-A sum of forty-six lakhs and fifty thousand rupees  shall  be  charged  on,  and  paid  out  of,  the Consolidated Fund of the State of Kerala every year to Adjustment in respect  of  certain expenses and pensions.
+A sum of forty-six lakhs and fifty thousand rupees shall be charged on, and paid out of, the Consolidated Fund of the State of Kerala every year to
 
-> 1 Ins.  by  the  Constitution (Seventh Amendment) Act, 1956, s. 19.
-
-Annual  payment  to certain  Devaswom Funds.
+> 1 Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 19.
 
 [[END OF PAGE 207]]
 
@@ -6867,7 +6888,7 @@ Borrowing by States.
 
 ( Part XII.-Finance, Property, Contracts and Suits.Arts. 290 A -293 . )
 
-the Travancore Devaswom Fund; and a sum of thirteen lakhs and fifty thousand rupees shall be charged on, and paid out of, the Consolidated Fund of the State of  1 [Tamil Nadu] every year to the Devaswom Fund established in that  State  for  the  maintenance  of  Hindu  temples  and shrines in the territories transferred to that State on the 1st day of November, 1956, from the State of TravancoreCochin.]
+the Travancore Devaswom Fund; and a sum of thirteen lakhs and fifty thousand rupees shall be charged on, and paid out of, the Consolidated Fund of the State of 1 [Tamil Nadu] every year to the Devaswom Fund established in that State for the maintenance of Hindu temples and shrines in the territories transferred to that State on the 1st day of November, 1956, from the State of Travancore-Cochin.]
 
 ###### 291.
 [ Privy purse sums of Rulers. ] Rep. by the Constitution (Twenty-sixth Amendment) Act, 1971, s. 2 .
@@ -6900,21 +6921,23 @@ THE CONSTITUTION OF INDIA
 
 #### CHAPTER III.-PROPERTY, CONTRACTS, RIGHTS, LIABILITIES, OBLIGATIONS AND SUITS
 
+Succession to property, assets, rights, liabilities and obligations in certain cases.
+
 ###### 294.
 As from the commencement of this Constitution-
 
-( a )  all  property  and  assets  which  immediately before  such  commencement  were  vested  in  His Majesty for the purposes of the Government of the Dominion of India and all property and assets which immediately before such commencement were vested in His Majesty for the purposes of the Government of each Governor's Province shall vest respectively in  the  Union and the corresponding State, and
+( a ) all property and assets which immediately before such commencement were vested in His Majesty for the purposes of the Government of the Dominion of India and all property and assets which immediately before such commencement were vested in His Majesty for the purposes of the Government of each Governor's Province shall vest respectively in the Union and the corresponding State, and
 
-( b )  all  rights,  liabilities  and  obligations  of  the Government  of  the  Dominion  of  India  and  of  the Government of each Governor's Province, whether arising out of any contract or otherwise, shall be the rights, liabilities and obligations respectively of the Government of India and the Government of each corresponding State,
+( b ) all rights, liabilities and obligations of the Government of the Dominion of India and of the Government of each Governor's Province, whether arising out of any contract or otherwise, shall be the rights, liabilities and obligations respectively of the Government of India and the Government of each corresponding State,
 
-subject to any adjustment made or to be made by reason of  the  creation  before  the  commencement  of  this Constitution  of  the  Dominion  of  Pakistan  or  of  the Provinces of West Bengal, East Bengal, West Punjab and East Punjab.
+subject to any adjustment made or to be made by reason of the creation before the commencement of this Constitution of the Dominion of Pakistan or of the Provinces of West Bengal, East Bengal, West Punjab and East Punjab.
+
+Succession to property, assets, rights, liabilities and obligations in other cases.
 
 ###### 295.
-(1)  As  from  the  commencement  of  this Constitution-
+(1) As from the commencement of this Constitution-
 
-( a )  all  property  and  assets  which  immediately before  such  commencement  were  vested  in  any Indian  State  corresponding  to  a  State  specified  in Part B of the First Schedule shall vest in the Union, if  the  purposes for which such property and assets were held immediately before such commencement will thereafter be purposes of the Union relating to any  of  the  matters  enumerated  in  the  Union  List, and Succession to property, assets, rights, liabilities and obligations in certain cases.
-
-Succession to property, assets, rights, liabilities and obligations  in  other cases.
+( a ) all property and assets which immediately before such commencement were vested in any Indian State corresponding to a State specified in Part B of the First Schedule shall vest in the Union, if the purposes for which such property and assets were held immediately before such commencement will thereafter be purposes of the Union relating to any of the matters enumerated in the Union List, and
 
 [[END OF PAGE 209]]
 
@@ -6951,28 +6974,30 @@ THE CONSTITUTION OF INDIA
 
 ( Part XII.-Finance, Property, Contracts and Suits.Arts. 297-299.)
 
+Things of value within territorial waters or continental shelf and resources of the exclusive economic zone to vest in the Union.
+
 ###### 1 [ 297.
 (1) All lands, minerals and other things of value underlying the ocean within the territorial waters, or the continental shelf, or the exclusive economic zone, of India shall vest in the Union and be held for the purposes of the Union.
 
-- All other resources of the exclusive economic zone of India shall also vest in the Union and be held for the purposes of the Union.
+(2) All other resources of the exclusive economic zone of India shall also vest in the Union and be held for the purposes of the Union.
 
-- The limits of the territorial waters, the continental shelf, the exclusive economic zone, and other maritime zones, of India shall be such as may be specified, from time to time, by or under any law made by Parliament.]
+(3) The limits of the territorial waters, the continental shelf, the exclusive economic zone, and other maritime zones, of India shall be such as may be specified, from time to time, by or under any law made by Parliament.]
+
+Power to carry on trade, etc.
 
 ###### 2 [ 298.
-The executive power of the Union and of each State  shall  extend  to  the  carrying  on  of  any  trade  or business and to the acquisition, holding and disposal of property and the making of contracts for any purpose:
+The executive power of the Union and of each State shall extend to the carrying on of any trade or business and to the acquisition, holding and disposal of property and the making of contracts for any purpose:
 
 Provided that-
 
-( a ) the said executive power of the Union shall, in so far as such trade or business or such purpose is not one with respect to which Parliament may make laws,  be  subject  in  each  State  to  legislation  by  the State;  and
+( a ) the said executive power of the Union shall, in so far as such trade or business or such purpose is not one with respect to which Parliament may make laws, be subject in each State to legislation by the State; and
 
-( b )  the  said  executive  power  of  each  State  shall, in so far as such trade or business or such purpose is not one with respect to which the State Legislature may  make  laws,  be  subject  to  legislation  by Parliament.]
-
-###### 299.
-(1)  All  contracts  made  in  the  exercise  of  the executive  power  of  the  Union  or  of  a  State  shall  be expressed  to  be  made  by  the  President,  or  by  the Governor 3 *** of the State, as the case may be, and all such contracts  and  all  assurances  of  property  made  in  the exercise of that power shall be executed on behalf of the Things of value within territorial waters or continental shelf  and  resources of the exclusive economic  zone  to vest in the Union.
-
-Power  to  carry  on trade, etc.
+( b ) the said executive power of each State shall, in so far as such trade or business or such purpose is not one with respect to which the State Legislature may make laws, be subject to legislation by Parliament.]
 
 Contracts.
+
+###### 299.
+(1) All contracts made in the exercise of the executive power of the Union or of a State shall be expressed to be made by the President, or by the Governor 3 *** of the State, as the case may be, and all such contracts and all assurances of property made in the exercise of that power shall be executed on behalf of the
 
 > 1 Subs. by the Constitution (Fortieth Amendment) Act, 1976, s. 2, for art. 297 (w.e.f. 27-5-1976).
 
@@ -7026,29 +7051,31 @@ No person shall  be  deprived  of  his  property save by authority of law.]
 
 ### TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA
 
+Freedom of trade, commerce and intercourse.
+
 ###### 301.
-Subject to the other provisions of this Part, trade, commerce  and  intercourse  throughout  the  territory  of India shall be free.
+Subject to the other provisions of this Part, trade, commerce and intercourse throughout the territory of India shall be free.
+
+Power of Parliament to impose restrictions on trade, commerce and intercourse.
 
 ###### 302.
-Parliament may by law impose such restrictions on  the  freedom  of  trade,  commerce  or  intercourse between one State and another or within any part of the territory of India as may be required in the public interest.
+Parliament may by law impose such restrictions on the freedom of trade, commerce or intercourse between one State and another or within any part of the territory of India as may be required in the public interest.
+
+Restrictions on the legislative powers of the Union and of the States with regard to trade and commerce.
 
 ###### 303.
-(1)  Notwithstanding  anything  in  article  302, neither  Parliament  nor  the  Legislature  of  a  State  shall have power to make any law giving, or authorising the giving  of,  any  preference  to  one  State  over  another,  or making, or authorising the making of, any discrimination between one State and another, by virtue of any entry relating to trade and commerce in any of the Lists in the Seventh Schedule.
+(1) Notwithstanding anything in article 302, neither Parliament nor the Legislature of a State shall have power to make any law giving, or authorising the giving of, any preference to one State over another, or making, or authorising the making of, any discrimination between one State and another, by virtue of any entry relating to trade and commerce in any of the Lists in the Seventh Schedule.
 
-(2)  Nothing  in  clause  (1)  shall  prevent  Parliament from making any law giving, or authorising the giving of, any preference or making, or authorising the making of, any discrimination if it is declared by such law that it  is  necessary to do so for the purpose of dealing with a situation arising from scarcity of goods in any part of the territory of India.
+(2) Nothing in clause (1) shall prevent Parliament from making any law giving, or authorising the giving of, any preference or making, or authorising the making of, any discrimination if it is declared by such law that it is necessary to do so for the purpose of dealing with a situation arising from scarcity of goods in any part of the territory of India.
+
+Restrictions on trade, commerce and intercourse among States.
 
 ###### 304.
 Notwithstanding anything in article 301 or article 303, the Legislature of a State may by law-
 
-( a )  impose on goods imported from other States 1 [or  the  Union territories]  any  tax  to  which  similar goods  manufactured  or  produced  in  that  State  are subject, so, however, as not to discriminate between goods  so  imported  and  goods  so  manufactured  or produced; and Freedom  of  trade, commerce and intercourse.
+( a ) impose on goods imported from other States 1 [or the Union territories] any tax to which similar goods manufactured or produced in that State are subject, so, however, as not to discriminate between goods so imported and goods so manufactured or produced; and
 
-> 1 Ins.  by  the  Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-
-Power of Parliament to impose restrictions on  trade,  commerce and intercourse.
-
-Restrictions  on  the legislative powers of the Union and of the States with regard to trade and commerce.
-
-Restrictions on trade, commerce and intercourse  among States.
+> 1 Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 
 185
 
@@ -7091,28 +7118,30 @@ Parliament may by law appoint such authority as it considers appropriate for car
 
 #### CHAPTER I.-SERVICES
 
+Interpretation.
+
 ###### 308.
-In  this  Part,  unless  the  context  otherwise requires,  the  expression ' State ' 1 [does  not  include  the State of Jammu and Kashmir].
+In this Part, unless the context otherwise requires, the expression 'State' 1 [does not include the State of Jammu and Kashmir].
+
+Recruitment and conditions of service of persons serving the Union or a State.
 
 ###### 309.
-Subject  to  the  provisions  of  this  Constitution, Acts  of  the  appropriate  Legislature  may  regulate  the recruitment,  and  conditions  of  service  of  persons appointed,  to  public  services  and  posts  in  connection with the affairs of the Union or of any State:
+Subject to the provisions of this Constitution, Acts of the appropriate Legislature may regulate the recruitment, and conditions of service of persons appointed, to public services and posts in connection with the affairs of the Union or of any State:
 
-Provided that it shall be competent for the President or such person as he may direct in the case of services and  posts  in  connection  with  the  affairs  of  the  Union, and for the Governor  2 *** of a State or such person as he may direct in the case of services and posts in connection with the affairs of the State, to make rules regulating the recruitment,  and  the  conditions  of  service  of  persons appointed, to such services and posts until provision in that behalf is made by or under an Act of the appropriate Legislature  under  this  article,  and  any  rules  so  made shall  have  effect  subject  to  the  provisions  of  any  such Act.
+Provided that it shall be competent for the President or such person as he may direct in the case of services and posts in connection with the affairs of the Union, and for the Governor 2 *** of a State or such person as he may direct in the case of services and posts in connection with the affairs of the State, to make rules regulating the recruitment, and the conditions of service of persons appointed, to such services and posts until provision in that behalf is made by or under an Act of the appropriate Legislature under this article, and any rules so made shall have effect subject to the provisions of any such Act.
+
+Tenure of office of persons serving the Union or a State.
 
 ###### 310.
-(1)  Except  as  expressly  provided  by  this Constitution, every person who is a member of a defence service  or  of  a  civil  service  of  the  Union  or  of  an all-India service or holds any post connected with defence or any civil post under the Union holds office during the pleasure  of  the  President,  and  every  person  who  is  a member of a civil  service  of  a  State  or  holds  any  civil post  under  a  State  holds  office  during  the  pleasure  of the Governor  3 *** of the State.
+(1) Except as expressly provided by this Constitution, every person who is a member of a defence service or of a civil service of the Union or of an all-India service or holds any post connected with defence or any civil post under the Union holds office during the pleasure of the President, and every person who is a member of a civil service of a State or holds any civil post under a State holds office during the pleasure of the Governor 3 *** of the State.
 
-(2)  Notwithstanding  that  a  person  holding  a  civil post under the Union or a State holds office during the Interpretation.
+(2) Notwithstanding that a person holding a civil post under the Union or a State holds office during the
 
-> 1 Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for 'means a State specified in  Part A or Part B of the First Schedule'.
+> 1 Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for 'means a State specified in Part A or Part B of the First Schedule'.
 
 > 2 The words 'or Rajpramukh' omitted by s. 29 and Sch., ibid.
 
 > 3 The words 'or, as the case may be, the Rajpramukh' omitted by s. 29 and Sch., ibid.
-
-Recruitment and conditions of service of  persons  serving the Union or a State.
-
-Tenure  of  office  of persons  serving  the Union or a State.
 
 187
 
@@ -7163,7 +7192,7 @@ THE CONSTITUTION OF INDIA
 
 ( c )  where  the  President  or  the  Governor,  as  the case  may  be,  is  satisfied  that  in  the  interest  of  the security of the State it is not expedient to hold such inquiry.
 
-(3)  If,  in  respect  of  any  such  person  as  aforesaid,  a question arises whether it is reasonably particable to hold such inquiry as is referred to in clause (2), the decision thereon of the authority empowered to dismiss or remove such person or to reduce him in rank shall be final.]
+(3) If, in respect of any such person as aforesaid, a question arises whether it is reasonably practicable to hold such inquiry as is referred to in clause (2), the decision thereon of the authority empowered to dismiss or remove such person or to reduce him in rank shall be final.]
 
 ###### 312.
 (1)  Notwithstanding  anything  in 1 [Chapter  VI of Part VI or Part XI], if the Council of States has declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient  in  the  national  interest  so  to  do,  Parliament may  by  law  provide  for  the  creation  of  one  or  more all-India  services 2 [(including  an  all-India  judicial service)]  common  to  the  Union  and  the  States,  and, subject to the other provisions of this Chapter, regulate the recruitment, and the conditions of service of persons appointed, to any such service.
@@ -7195,7 +7224,7 @@ as may be necessary for giving effect to the provisions of that  law  and  no  s
 ###### 1 [ 312A.
 (1)  Parliament may by law-
 
-( a )  vary  or  revoke,  whether  prospectively  or retrospectively, the conditions of services as respects remuneration,  leave  and  pension  and  the  rights  as respects disciplinary matters of persons who, having been appointed by the Secretary of State or Secretary of State in Council to a civil service of the Crown in India before the commencement of this Constitution, continue  on  and  after  the  commencement  of  the Constitution (Twenty-eighth Amendment) Act, 1972, to serve under the Government of India or of a State in  any service or post;
+( a ) vary or revoke, whether prospectively or retrospectively, the conditions of service as respects remuneration, leave and pension and the rights as respects disciplinary matters of persons who, having been appointed by the Secretary of State or Secretary of State in Council to a civil service of the Crown in India before the commencement of this Constitution, continue on and after the commencement of the Constitution (Twenty-eighth Amendment) Act, 1972, to serve under the Government of India or of a State in any service or post;
 
 ( b )  vary  or  revoke,  whether  prospectively  or retrospectively, the conditions of service as respects pension of persons who, having been appointed by the Secretary of State or Secretary of State in Council to  a  civil  service  of  the  Crown  in  India  before  the commencement  of  this  Constitution,  retired  or otherwise  ceased  to  be  in  service  at  any  time before  the  commencement  of  the  Constitution (Twenty-eighth Amendment) Act, 1972:
 
@@ -7287,8 +7316,10 @@ Provided that-
 
 (3) A person who holds office as a member of a Public Service Commission shall, on the expiration of his term of office, be ineligible for re-appointment to that office.
 
+Removal and suspension of a member of a Public Service Commission.
+
 ###### 317.
-(1)  Subject  to  the  provisions  of  clause  (3),  the Chairman  or  any  other  member  of  a  Public  Service Commission  shall  only  be  removed  from  his  office  by order  of  the  President  on  the  ground  of  misbehaviour Removal and suspension of a member  of  a  Public Service Commission.
+(1) Subject to the provisions of clause (3), the Chairman or any other member of a Public Service Commission shall only be removed from his office by order of the President on the ground of misbehaviour
 
 > 1 Ins.  by  the  Constitution (Fifteenth Amendment) Act, 1963, s. 11.
 
@@ -7332,29 +7363,31 @@ THE CONSTITUTION OF INDIA
 
 ( Part XIV.-Services under the Union and the States.Arts. 318-319.)
 
+Power to make regulations as to conditions of service of members and staff of the Commission.
+
 ###### 318.
-In the case of the Union Commission or a Joint Commission,  the  President  and,  in  the  case  of  a  State Commission,  the  Governor 1 ***  of  the  State  may  by regulations-
+In the case of the Union Commission or a Joint Commission, the President and, in the case of a State Commission, the Governor 1 *** of the State may by regulations-
 
-( a )  determine  the  number  of  members  of  the Commission and their conditions of service; and
+( a ) determine the number of members of the Commission and their conditions of service; and
 
-( b ) make provision with respect to the number of members of the  staff  of  the  Commission  and  their conditions of service:
+( b ) make provision with respect to the number of members of the staff of the Commission and their conditions of service:
 
 Provided that the conditions of service of a member of a Public Service Commission shall not be varied to his disadvantage after his appointment.
+
+Prohibition as to the holding of offices by members of Commission on ceasing to be such members.
 
 ###### 319.
 On ceasing to hold office-
 
-( a )  the  Chairman  of  the  Union  Public  Service Commission  shall  be  ineligible for further employment either under the Government of India or under the Government of a State;
+( a ) the Chairman of the Union Public Service Commission shall be ineligible for further employment either under the Government of India or under the Government of a State;
 
-( b )  the  Chairman  of  a  State  Public  Service Commission shall be eligible for appointment as the Chairman or any other member of the Union Public Service Commission or as the Chairman of any other State  Public  Service  Commission,  but  not  for  any other employment either under the Government of India or under the Government of a State;
+( b ) the Chairman of a State Public Service Commission shall be eligible for appointment as the Chairman or any other member of the Union Public Service Commission or as the Chairman of any other State Public Service Commission, but not for any other employment either under the Government of India or under the Government of a State;
 
-( c )  a  member  other  than  the  Chairman  of  the Union  Public  Service  Commission  shall  be  eligible for appointment as the Chairman of the Union Public Service Commission, or as the Chairman of a State Public  Service  Commission,  but  not  for  any  other employment either under the Government of India or under the Government of a State;
+( c ) a member other than the Chairman of the Union Public Service Commission shall be eligible for appointment as the Chairman of the Union Public Service Commission, or as the Chairman of a State Public Service Commission, but not for any other employment either under the Government of India or under the Government of a State;
 
-( d ) a member other than the Chairman of a State Public  Service  Commission  shall  be  eligible  for appointment as the Chairman or any other member Power to make regulations as to conditions of service of members and staff of  the  Commission.
+( d ) a member other than the Chairman of a State Public Service Commission shall be eligible for appointment as the Chairman or any other member
 
-> 1 The  words  'or  Rajpramukh'  omitted  by  the  Constitution  (Seventh  Amendment)  Act,  1956, s.  29  and  Sch.
-
-Prohibition as to the holding  of  offices by members of Commission on ceasing  to  be  such members.
+> 1 The words 'or Rajpramukh' omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 
 [[END OF PAGE 223]]
 
@@ -7405,7 +7438,7 @@ Provided that the President as respects the all-India services and also as respe
 
 (4) Nothing in clause (3) shall require a Public Service Commission to be consulted as respects the manner in which any provision referred to in clause (4) of article 16 may be made or as respects the manner in which effect may be given to the provisions of article 335.
 
-(5)  All  regulations  made  under  the  proviso  to clause (3) by the President or the Governor  1 *** of a State shall  be  laid  for  not  less  than  fourteen  days  before  each House of Parliament or the House or each House of the Legislature  of  the  State,  as  the  case  may  be,  as  soon  as possible after they are made, and shall be subject to such modifications, whether by way of repeal or amendment, as both Houses of Parliament or the House or both Houses Power to extend functions  of  Public Service Commissions.
+(5) All regulations made under the proviso to clause (3) by the President or the Governor 1 *** of a State shall be laid for not less than fourteen days before each House of Parliament or the House or each House of the Legislature of the State, as the case may be, as soon as possible after they are made, and shall be subject to such modifications, whether by way of repeal or amendment, as both Houses of Parliament or the House or both Houses
 
 > 1 The  words  'or  Rajpramukh'  omitted  by  the  Constitution  (Seventh  Amendment)  Act,  1956, s.  29  and  Sch.
 
@@ -7419,6 +7452,7 @@ Provided that the President as respects the all-India services and also as respe
 
 THE CONSTITUTION OF INDIA
 
+Power to extend functions of Public Service Commissions.
 Expenses  of  Public Service Commissions.
 
 Reports  of  Public Service Commissions.
@@ -7427,13 +7461,16 @@ Reports  of  Public Service Commissions.
 
 of  the  Legislature  of  the  State  may  make  during  the session in which they are so laid.
 
-- An Act made by Parliament or, as the case may be, the Legislature of a State may provide for the exercise of  additional  functions  by  the  Union  Public  Service Commission or the State Public Service Commission as respects the services of the Union or the State and also as respects the services of any local authority or other body corporate constituted by law or of any public institution.
+###### 321.
+An Act made by Parliament or, as the case may be, the Legislature of a State may provide for the exercise of  additional  functions  by  the  Union  Public  Service Commission or the State Public Service Commission as respects the services of the Union or the State and also as respects the services of any local authority or other body corporate constituted by law or of any public institution.
 
-- The  expenses  of  the  Union  or  a  State  Public Service Commission, including any salaries, allowances and pensions payable to or in respect of the members or staff  of  the  Commission,  shall  be  charged  on  the Consolidated Fund of India or, as the case may be, the Consolidated Fund of the State.
+###### 322.
+The  expenses  of  the  Union  or  a  State  Public Service Commission, including any salaries, allowances and pensions payable to or in respect of the members or staff  of  the  Commission,  shall  be  charged  on  the Consolidated Fund of India or, as the case may be, the Consolidated Fund of the State.
 
+###### 323.
 (1) It shall be the duty of the Union Commission to  present  annually  to  the  President  a  report  as  to  the work  done  by  the  Commission  and  on  receipt  of  such report the President shall cause a copy thereof together with a memorandum explaining, as respects the cases, if any,  where  the  advice  of  the  Commission  was  not accepted, the reasons for such non-acceptance to be laid before each House of Parliament.
 
-- It  shall  be  the  duty  of  a  State  Commission  to present annually to the Governor  1 *** of the State a report as to the work done by the Commission, and it shall be the  duty  of  a  Joint  Commission  to  present  annually  to the Governor  1 *** of each of the States the needs of which are  served  by  the  Joint  Commission  a  report  as  to  the work done by the Commission in relation to that State, and in either case the Governor  2 ***, shall, on receipt of such  report,  cause  a  copy  thereof  together  with  a memorandum explaining,  as  respects  the  cases,  if  any, where the advice of the Commission was not accepted, the reasons for such non-acceptance to be laid before the Legislature of the State.
+(2) It  shall  be  the  duty  of  a  State  Commission  to present annually to the Governor  1 *** of the State a report as to the work done by the Commission, and it shall be the  duty  of  a  Joint  Commission  to  present  annually  to the Governor  1 *** of each of the States the needs of which are  served  by  the  Joint  Commission  a  report  as  to  the work done by the Commission in relation to that State, and in either case the Governor  2 ***, shall, on receipt of such  report,  cause  a  copy  thereof  together  with  a memorandum explaining,  as  respects  the  cases,  if  any, where the advice of the Commission was not accepted, the reasons for such non-acceptance to be laid before the Legislature of the State.
 
 > 1 The  words  'or  Rajpramukh'  omitted  by  the  Constitution  (Seventh  Amendment)  Act,  1956, s.  29  and  Sch.
 
@@ -7622,11 +7659,14 @@ THE CONSTITUTION OF INDIA
 
 205
 
-- Subject  to  the  provisions  of  this  Constitution, Parliament may from time to time by law make provision with respect to all matters relating to, or in connection with,  elections  to  either  House  of  Parliament  or  to the  House  or  either  House  of  the  Legislature  of  a State  including  the  preparation  of  electoral  rolls,  the delimitation  of  constituencies  and  all  other  matters necessary for securing the due constitution of such House or Houses.
+###### 327.
+Subject  to  the  provisions  of  this  Constitution, Parliament may from time to time by law make provision with respect to all matters relating to, or in connection with,  elections  to  either  House  of  Parliament  or  to the  House  or  either  House  of  the  Legislature  of  a State  including  the  preparation  of  electoral  rolls,  the delimitation  of  constituencies  and  all  other  matters necessary for securing the due constitution of such House or Houses.
 
-- Subject  to  the  provisions  of  this  Constitution and in so far as provision in that behalf is not made by Parliament, the Legislature of a State may from time to time by law make provision with respect to all matters relating  to,  or  in  connection  with,  the  elections  to  the House  or  either  House  of  the  Legislature  of  the  State including the preparation of electoral rolls and all other matters  necessary  for  securing  the  due  constitution  of such House or Houses.
+###### 328.
+Subject  to  the  provisions  of  this  Constitution and in so far as provision in that behalf is not made by Parliament, the Legislature of a State may from time to time by law make provision with respect to all matters relating  to,  or  in  connection  with,  the  elections  to  the House  or  either  House  of  the  Legislature  of  the  State including the preparation of electoral rolls and all other matters  necessary  for  securing  the  due  constitution  of such House or Houses.
 
-- 1 [Notwithstanding anything in this Constitution 2 ***-]
+###### 329.
+1 [Notwithstanding anything in this Constitution 2 ***-]
 
 ( a )  the  validity  of  any  law  relating  to  the delimitation of constituencies or the allotment of seats to  such  constituencies,  made  or  purporting  to  be made under  article  327  or  article  328,  shall  not  be called in question in any court;
 
@@ -7670,7 +7710,7 @@ Reservation  of  seats for Scheduled Castes and Scheduled Tribes in  the  House 
 
 3 [(3)  Notwithstanding  anything  contained  in  clause (2),  the  number  of  seats  reserved  in  the  House  of  the People  for  the  Scheduled  Tribes  in  the  autonomous districts of Assam shall bear to the total number of seats allotted  to  that  State  a  proportion  not  less  than  the population  of  the  Scheduled  Tribes  in  the  said autonomous districts bears to the total population of the State.]
 
-4 [ Explanation.In  this  article  and  in  article  332,  the expression ' population ' means  the  population  as
+4 [Explanation.—In this article and in article 332, the expression 'population' means the population as
 
 > 1 Subs. by the Constitution (Fifty-first Amendment) Act, 1984, s. 2, for sub-clause ( b )  (w.e.f.  16-6-1986).
 
@@ -7696,6 +7736,8 @@ ascertained  at  the  last  preceding  census  of  which  the relevant figures h
 
 Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been  published  shall,  until  the  relevant  figures  for  the first  census  taken  after  the  year 1 [2026]  have  been published,  be  construed  as  a  reference  to  the 2 [2001] census.]
 
+Representation of the Anglo-Indian community in the House of the People.
+
 ###### 331.
 Notwithstanding  anything  in  article  81,  the President may, if he is of opinion that the Anglo-Indian community is not adequately represented in the House of the People, nominate not more than two members of that community to the House of the People.
 
@@ -7706,9 +7748,11 @@ Notwithstanding  anything  in  article  81,  the President may, if he is of opin
 
 (3) The number of seats reserved for the Scheduled Castes  or  the  Scheduled  Tribes  in  the  Legislative Assembly  of  any  State  under  clause  (1)  shall  bear,  as nearly as may be, the same proportion to the total number of  seats  in  the  Assembly  as  the  population  of  the Scheduled Castes in the State or of the Scheduled Tribes in  the  State  or  part  of  the  State,  as  the  case  may  be,  in respect of which seats are so reserved, bears to the total population of the State.
 
-5 [(3A) Notwithstanding anything contained in clause (3),  until  the  taking  effect,  under  article  170,  of  the re-adjustment, on the basis of the first census after the year 6 [2026],  of  the  number  of  seats  in  the  Legislative Representation of the A n g l o - I n d i a n community  in  the House of the People.
+5 [(3A) Notwithstanding anything contained in clause (3),  until  the  taking  effect,  under  article  170,  of  the re-adjustment, on the basis of the first census after the year 6 [2026],  of  the  number  of  seats  in  the  Legislative
 
-> 1 Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 6, for '2000' and '1971' respectively. 2 Subs. by the Constitution (Eighty-seventh Amendment) Act, 2003, s. 5, for '1991'.
+> 1 Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 6, for '2000' and '1971' respectively.
+
+> 2 Subs. by the Constitution (Eighty-seventh Amendment) Act, 2003, s. 5, for '1991'.
 
 > 3 Subs.  by  the  Constitution  (Fifty-first  Amendment)  Act,  1984,  s.  3,  for  certain  words (w.e.f.  16-6-1986).
 
@@ -7736,7 +7780,7 @@ Assemblies  of  the  States  of  Arunachal  Pradesh, Meghalaya, Mizoram and Naga
 
 ( b )  in  any  other  case,  such  number  of  seats  as bears to the total number of seats, a proportion not less than the number (as on the said date) of members belonging  to  the  Scheduled  Tribes  in  the  existing Assembly bears to the total  number of  seats  in  the existing Assembly.]
 
-1 [(3B) Notwithstanding anything contained in clause (3), until the re-adjustment, under article 170, takes effect on the basis of the first census after the year 2 [2026], of the  number of seats  in  the  Legislative Assembly  of  the State of Tripura, the seats which shall be reserved for the Scheduled  Tribes  in  the  Legislative  Assembly  shall  be, such  number  of  seats  as  bears  to  the  total  number  of seats,  a  proportion  not  less  than  the  number,  as  on  the date  of  coming  into  force  of  the  Constitution  (Seventysecond Amendment) Act, 1992, of members belonging to the  Scheduled  Tribes  in  the  Legislative  Assembly  in existence  on  the  said  date  bears  to  the  total  number  of seats in that Assembly.]
+1 [(3B) Notwithstanding anything contained in clause (3), until the re-adjustment, under article 170, takes effect on the basis of the first census after the year 2 [2026], of the  number of seats  in  the  Legislative Assembly  of  the State of Tripura, the seats which shall be reserved for the Scheduled  Tribes  in  the  Legislative  Assembly  shall  be, such  number  of  seats  as  bears  to  the  total  number  of seats,  a  proportion  not  less  than  the  number,  as  on  the date  of  coming  into  force  of  the  Constitution  (Seventy-second Amendment) Act, 1992, of members belonging to the  Scheduled  Tribes  in  the  Legislative  Assembly  in existence  on  the  said  date  bears  to  the  total  number  of seats in that Assembly.]
 
 (4) The number of seats reserved for an autonomous district in the Legislative Assembly of the State of Assam shall bear to the total number of seats in that Assembly a proportion not less than the population of the district bears to the total population of the State.
 
@@ -7839,7 +7883,7 @@ THE CONSTITUTION OF INDIA
 
 During every succeeding period of three  years  the grants  may  be  less  by  ten  per  cent.  than  those  for  the immediately preceding period of three years:
 
-Provided  that  at  the  end  of  ten  years  from  the commencement of this Constitution such grants, to the extent to which they are a special concession to the AngloIndian community, shall cease:
+Provided  that  at  the  end  of  ten  years  from  the commencement of this Constitution such grants, to the extent to which they are a special concession to the Anglo-Indian community, shall cease:
 
 Provided further that no educational institution shall be entitled to receive any grant under this article unless at least forty per cent. of the annual admissions therein are  made  available  to  members  of  communities  other than the Anglo-Indian community.
 
@@ -7918,10 +7962,12 @@ THE CONSTITUTION OF INDIA
 
 2 [(10)]  In  this  article,  references  to  the  Scheduled Castes 1 *** shall be construed as including references to such  other  backward  classes  as  the  President  may,  on receipt of the report of a Commission appointed under clause (1) of article 340, by order specify and also to the Anglo-Indian community.
 
+National Commission for Scheduled Tribes.
+
 ###### 3 [338A.
 (1)  There  shall  be  a  Commission  for  the Scheduled  Tribes  to  be  known  as  the  National Commission for the Scheduled Tribes.
 
-(2) Subject to the provisions of any law made in this behalf by Parliament, the Commission shall consist of a Chairperson, Vice-Chairperson and three other Members and the conditions of service and tenure of office of the National  Commission for  Scheduled Tribes.
+(2) Subject to the provisions of any law made in this behalf by Parliament, the Commission shall consist of a Chairperson, Vice-Chairperson and three other Members and the conditions of service and tenure of office of the
 
 > 1 The words 'and Scheduled Tribes' omitted by the Constitution (Eighty-ninth Amendment) Act, 2003, s.  2,  (w.e.f.  19-2-2004).
 
@@ -8028,9 +8074,7 @@ The order may define the composition, powers and procedure  of  the  Commission 
 
 > 1 Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for 'any such State'.
 
-> Subs.  by  the  Constitution  (First  Amendment) Act,  1951,  s.  10,  for  'may,  after  consultation  with  the
-
-> 2 Governor or Rajpramukh of a State'.
+> 2 Subs.  by  the  Constitution  (First  Amendment) Act,  1951,  s.  10,  for  'may,  after  consultation  with  the Governor or Rajpramukh of a State'.
 
 > 3 Ins.  by  the  Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 
@@ -8172,7 +8216,7 @@ Provided  that  if  two  or  more  States  agree  that  the Hindi  language  sho
 ###### 347.
 On  a  demand  being  made  in  that  behalf  the President  may,  if  he  is  satisfied  that  a  substantial proportion of the population of a State desire the use of any language spoken by them to be recognised by that State,  direct  that  such  language  shall  also  be  officially recognised throughout that State or any part thereof for such purpose as he may specify.
 
-#### HIGH COURTS, ETC.
+#### CHAPTER III.-LANGUAGE OF THE SUPREME COURT, HIGH COURTS, ETC.
 
 ###### 348.
 (1)  Notwithstanding anything in the foregoing provisions of this Part, until Parliament by law otherwise provides-
@@ -8195,7 +8239,7 @@ THE CONSTITUTION OF INDIA
 
 ( ii )  of  all  Acts  passed  by  Parliament  or  the Legislature  of  a  State  and  of  all  Ordinances promulgated  by  the  President  or  the  Governor 1 ***  of  a  State,  and
 
-( iii )  of  all  orders,  rules,  regulations  and  byelaws issued under this Constitution or under any law made by Parliament or the Legislature of a State,
+( iii )  of  all  orders,  rules,  regulations  and  bye-laws issued under this Constitution or under any law made by Parliament or the Legislature of a State,
 
 shall be in the English language.
 
@@ -8203,7 +8247,7 @@ shall be in the English language.
 
 Provided that nothing in this clause shall  apply  to any judgment, decree or order passed or made by such High Court.
 
-(3)  Notwithstanding  anything  in  sub-clause  ( b )  of clause (1), where the Legislature of a State has prescribed any language other than the English language for use in Bills introduced in, or Acts passed by, the Legislature of the State or in Ordinances promulgated by the Governor 1 *** of the State or in any order, rule, regulation or byelaw  referred  to  in  paragraph  ( iii )  of  that  sub-clause,  a translation of the same in the English language published under the authority of the Governor  1 *** of the State in the Official Gazette of that State shall be deemed to be the  authoritative  text  thereof  in  the  English  language under this article.
+(3)  Notwithstanding  anything  in  sub-clause  ( b )  of clause (1), where the Legislature of a State has prescribed any language other than the English language for use in Bills introduced in, or Acts passed by, the Legislature of the State or in Ordinances promulgated by the Governor 1 *** of the State or in any order, rule, regulation or bye-law  referred  to  in  paragraph  ( iii )  of  that  sub-clause,  a translation of the same in the English language published under the authority of the Governor  1 *** of the State in the Official Gazette of that State shall be deemed to be the  authoritative  text  thereof  in  the  English  language under this article.
 
 > 1 The  words  'or  Rajpramukh'  omitted  by  the  Constitution  (Seventh  Amendment)  Act,  1956, s.  29  and  Sch.
 
@@ -8227,11 +8271,13 @@ Directive for development  of  the Hindi language.
 
 ( Part XVII.-Official Language.-Arts. 349-351.)
 
-- During  the  period  of  fifteen  years  from  the commencement of this Constitution, no Bill or amendment making provision for the language to be used for any of the purposes mentioned in clause (1) of article 348 shall be introduced or moved in either House of Parliament without the previous sanction of the President, and the President shall not give his sanction to the introduction of any such Bill or the moving of any such amendment except after he has taken into consideration the recommendations of the Commission constituted under clause (1) of article 344 and the report of the Committee constituted under clause (4) of that article.
+###### 349.
+During  the  period  of  fifteen  years  from  the commencement of this Constitution, no Bill or amendment making provision for the language to be used for any of the purposes mentioned in clause (1) of article 348 shall be introduced or moved in either House of Parliament without the previous sanction of the President, and the President shall not give his sanction to the introduction of any such Bill or the moving of any such amendment except after he has taken into consideration the recommendations of the Commission constituted under clause (1) of article 344 and the report of the Committee constituted under clause (4) of that article.
 
 #### CHAPTER IV.-SPECIAL DIRECTIVES
 
-- Every  person  shall  be  entitled  to  submit  a representation  for  the  redress  of  any  grievance  to  any officer or authority of the Union or a State in any of the languages used in the Union or in the State, as the case may be.
+###### 350.
+Every  person  shall  be  entitled  to  submit  a representation  for  the  redress  of  any  grievance  to  any officer or authority of the Union or a State in any of the languages used in the Union or in the State, as the case may be.
 
 ###### 1 [ 350A.
 It shall be the endeavour of every State and of  every  local  authority  within  the  State  to  provide adequate  facilities  for  instruction  in  the  mother-tongue at the primary stage of education to children belonging to linguistic minority groups; and the President may issue such directions to any State as he considers necessary or proper for securing the provision of such facilities.
@@ -8239,9 +8285,10 @@ It shall be the endeavour of every State and of  every  local  authority  within
 ###### 350B.
 (1) There shall be a Special Officer for linguistic minorities to be appointed by the President.
 
-- It  shall  be  the  duty  of  the  Special  Officer  to investigate all matters relating to the safeguards provided for linguistic minorities under this Constitution and report to the President upon those matters at such intervals as the  President  may  direct,  and  the  President  shall  cause all  such  reports  to  be  laid  before  each  House  of Parliament,  and  sent  to  the  Governments  of  the  States concerned.]
+(2) It  shall  be  the  duty  of  the  Special  Officer  to investigate all matters relating to the safeguards provided for linguistic minorities under this Constitution and report to the President upon those matters at such intervals as the  President  may  direct,  and  the  President  shall  cause all  such  reports  to  be  laid  before  each  House  of Parliament,  and  sent  to  the  Governments  of  the  States concerned.]
 
-- It  shall  be the duty of the Union to promote the spread of the Hindi language, to develop it so that it may
+###### 351.
+It  shall  be the duty of the Union to promote the spread of the Hindi language, to develop it so that it may
 
 1 Ins.  by  the  Constitution (Seventh Amendment) Act, 1956, s. 21.
 
@@ -8270,7 +8317,7 @@ Proclamation of Emergency.
 ###### 352.
 (1)  If  the  President  is  satisfied  that  a  grave emergency exists whereby the security of India or of any part  of  the  territory  thereof  is  threatened,  whether  by war or external aggression or  1 [armed rebellion], he may, by  Proclamation,  make  a  declaration  to  that  effect 2 [in respect  of  the  whole  of  India  or  of  such  part  of  the territory thereof as may be specified in the Proclamation].
 
-3 [ Explanation.A Proclamation  of  Emergency declaring  that  the  security  of  India  or  any  part  of  the territory  thereof  is  threatened  by  war  or  by  external aggression  or  by  armed  rebellion  may  be  made  before the actual occurrence of war or of any such aggression or rebellion, if the President is satisfied that there is imminent danger thereof.]
+3 [ Explanation.—A Proclamation  of  Emergency declaring  that  the  security  of  India  or  any  part  of  the territory  thereof  is  threatened  by  war  or  by  external aggression  or  by  armed  rebellion  may  be  made  before the actual occurrence of war or of any such aggression or rebellion, if the President is satisfied that there is imminent danger thereof.]
 
 4 [(2) A Proclamation issued under clause (1) may be varied or revoked by a subsequent Proclamation.
 
@@ -8316,11 +8363,11 @@ THE CONSTITUTION OF INDIA
 
 ( Part XVIII.-Emergency Provisions.-Art. 352.)
 
-- For the purposes of clauses (4) and (5), a resolution may be passed by either House of Parliament only by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting.
+(6) For the purposes of clauses (4) and (5), a resolution may be passed by either House of Parliament only by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting.
 
-- Notwithstanding  anything  contained  in  the foregoing  clauses,  the  President  shall  revoke  a Proclamation issued under clause (1) or a Proclamation varying  such  Proclamation  if  the  House  of  the  People passes a resolution disapproving, or, as the case may be, disapproving  the  continuance  in  force  of,  such Proclamation.
+(7) Notwithstanding  anything  contained  in  the foregoing  clauses,  the  President  shall  revoke  a Proclamation issued under clause (1) or a Proclamation varying  such  Proclamation  if  the  House  of  the  People passes a resolution disapproving, or, as the case may be, disapproving  the  continuance  in  force  of,  such Proclamation.
 
-- Where a notice in writing signed by not less than one-tenth of the total number of members of the House of the People has been given, of their intention to move a resolution for disapproving, or, as the case may be, for disapproving the continuance in force of, a Proclamation issued under clause (1) or a Proclamation varying such Proclamation,-
+(8) Where a notice in writing signed by not less than one-tenth of the total number of members of the House of the People has been given, of their intention to move a resolution for disapproving, or, as the case may be, for disapproving the continuance in force of, a Proclamation issued under clause (1) or a Proclamation varying such Proclamation,—
 
 ( a )  to  the  Speaker,  if  the  House  is  in  session;  or
 
@@ -8328,25 +8375,17 @@ THE CONSTITUTION OF INDIA
 
 a special sitting of the House shall be held within fourteen days from the date on which such notice is received by the Speaker, or, as the case may be, by the President, for the purpose of considering such resolution.]
 
-- 1 [ 2 [(9)] The power conferred on the President by this article  shall  include  the  power  to  issue  different Proclamations on different grounds, being war or external aggression or  3 [armed rebellion] or imminent danger of war or external aggression or  3 [armed rebellion], whether or  not  there  is  a  Proclamation  already  issued  by  the President  under  clause  (1)  and  such  Proclamation  is  in operation.
+1 [ 2 [(9)] The power conferred on the President by this article  shall  include  the  power  to  issue  different Proclamations on different grounds, being war or external aggression or  3 [armed rebellion] or imminent danger of war or external aggression or  3 [armed rebellion], whether or  not  there  is  a  Proclamation  already  issued  by  the President  under  clause  (1)  and  such  Proclamation  is  in operation.
 
-4 *
+4* * * *]
 
-*
+> 1 Ins.  by  the  Constitution (Thirty-eighth Amendment) Act, 1975, s. 5 (retrospectively).
 
-*
-
-*]
-
-> 1 Ins.  by  the  Constitution (Thirty-eighth Amendment) Act, 1975, s. 5 (retrospectively). 2 Cl.  (4)  renumbered  as  cl.  (9)  by  the  Constitution  (Forty-fourth  Amendment)  Act,  1978,  s.  37 (w.e.f.  20-6-1979).
+> 2 Cl.  (4)  renumbered  as  cl.  (9)  by  the  Constitution  (Forty-fourth  Amendment)  Act,  1978,  s.  37 (w.e.f.  20-6-1979).
 
 > 3 Subs. by s. 37, ibid. ,  for  'internal  disturbance' (w.e.f. 20-6-1979).
 
-4
-
-Cl.  (5)  omitted by s. 37, ibid.
-
-(w.e.f.  20-6-1979).
+> 4 Cl.  (5)  omitted by s. 37, ibid. (w.e.f.  20-6-1979).
 
 [[END OF PAGE 254]]
 
@@ -8396,10 +8435,12 @@ Provisions  in  case  of failure of constitutional machinery in States.
 
 ( Part XVIII.-Emergency Provisions.-Arts. 354-356.)
 
-- Every order made under clause (1) shall, as soon as may be after it is made, be laid before each House of Parliament.
+(2) Every order made under clause (1) shall, as soon as may be after it is made, be laid before each House of Parliament.
 
-- It shall be the duty of the Union to protect every State against external aggression and internal disturbance and  to  ensure  that  the  Government  of  every  State  is carried  on  in  accordance  with  the  provisions  of  this Constitution.
+###### 355.
+It shall be the duty of the Union to protect every State against external aggression and internal disturbance and  to  ensure  that  the  Government  of  every  State  is carried  on  in  accordance  with  the  provisions  of  this Constitution.
 
+###### 356.
 (1) If the President, on receipt of a report from the Governor  1 *** of a State or otherwise, is satisfied that a  situation  has  arisen  in  which  the  Government  of  the State  cannot  be  carried  on  in  accordance  with  the provisions  of  this  Constitution,  the  President  may  by Proclamation-
 
 ( a ) assume to himself all or any of the functions of the  Government  of  the  State  and  all  or  any  of  the powers vested in or exercisable by the Governor  2 *** or any body or authority in the State other than the Legislature of the State;
@@ -8615,7 +8656,7 @@ THE CONSTITUTION OF INDIA
 
 ( c ) shall cease to operate at the expiration of two months, unless before the expiration of that period it has been approved by resolutions of both Houses of  Parliament:
 
-Provided that if any such Proclamation is issued at a time when the House of the People has been dissolved or the dissolution of the House of the People takes place during  the  period  of  two  months  referred  to  in  subclause ( c ), and if a resolution approving the Proclamation has  been  passed  by  the  Council  of  States,  but  no resolution  with  respect  to  such  Proclamation  has  been passed by the House of the People before the expiration of that period, the Proclamation shall cease to operate at the expiration of thirty days from the date on which the House of the People first sits after its reconstitution unless before the expiration of the said period of thirty days a resolution  approving  the  Proclamation  has  been  also passed by the House of the People.]
+Provided that if any such Proclamation is issued at a time when the House of the People has been dissolved or the dissolution of the House of the People takes place during  the  period  of  two  months  referred  to  in  sub-clause ( c ), and if a resolution approving the Proclamation has  been  passed  by  the  Council  of  States,  but  no resolution  with  respect  to  such  Proclamation  has  been passed by the House of the People before the expiration of that period, the Proclamation shall cease to operate at the expiration of thirty days from the date on which the House of the People first sits after its reconstitution unless before the expiration of the said period of thirty days a resolution  approving  the  Proclamation  has  been  also passed by the House of the People.]
 
 (3)  During  the  period  any  such  Proclamation  as  is mentioned  in  clause  (1)  is  in  operation,  the  executive authority  of  the  Union  shall  extend  to  the  giving  of directions to any State to observe such canons of financial propriety as may be specified in the directions, and to the giving of such other directions as the President may deem necessary and adequate for the purpose.
 
@@ -8662,6 +8703,7 @@ THE CONSTITUTION OF INDIA
 ### MISCELLANEOUS
 
 ###### 361.
+Protection of President and Governors and Rajpramukhs.
 (1)  The  President,  or  the  Governor  or Rajpramukh of a State, shall not be answerable to any court  for  the  exercise  and  performance  of  the  powers and duties of his office or for any act done or purporting to  be  done  by  him  in  the  exercise  and  performance  of those powers and duties:
 
 Provided that the conduct of the President may be brought  under  review  by  any  court,  tribunal  or  body appointed or designated by either House of Parliament for the investigation of a charge under article 61:
@@ -8672,7 +8714,7 @@ Provided further that nothing in this clause shall be construed as restricting t
 
 (3) No process for the arrest or imprisonment of the President,  or  the  Governor 1 ***  of  a  State,  shall  issue from any court during his term of office.
 
-(4)  No  civil  proceedings  in  which  relief  is  claimed against  the  President,  or  the  Governor 1 ***  of  a  State, shall be instituted during his term of office in any court in respect of any act done or purporting to be done by him in his personal capacity, whether before or after he entered upon his office as President, or as Governor  1 *** of  such  State,  until  the  expiration  of  two  months  next after notice in writing has been delivered to the President or  the  Governor 2 ***,  as  the  case  may  be,  or  left  at  his office stating the nature of the proceedings, the cause of action  therefor,  the  name,  description  and  place  of Protection of President and  Governors  and Rajpramukhs.
+(4)  No  civil  proceedings  in  which  relief  is  claimed against  the  President,  or  the  Governor 1 ***  of  a  State, shall be instituted during his term of office in any court in respect of any act done or purporting to be done by him in his personal capacity, whether before or after he entered upon his office as President, or as Governor  1 *** of  such  State,  until  the  expiration  of  two  months  next after notice in writing has been delivered to the President or  the  Governor 2 ***,  as  the  case  may  be,  or  left  at  his office stating the nature of the proceedings, the cause of action  therefor,  the  name,  description  and  place  of
 
 > 1 The  words  'or  Rajpramukh'  omitted  by  the  Constitution  (Seventh  Amendment)  Act,  1956, s.  29  and  Sch.
 
@@ -8703,12 +8745,12 @@ Provided  that  nothing  in  this  clause  shall  apply  to the publication of a
 
 (2)  Clause  (1)  shall  apply  in  relation  to  reports  or matters  broadcast  by  means  of  wireless  telegraphy  as part of any programme or service provided by means of a broadcasting station as it applies in relation to reports or matters published in a newspaper.
 
-Explanation.In this article, ' newspaper ' includes a news agency report containing material for publication in  a  newspaper.]
+Explanation.—In this article, ' newspaper ' includes a news agency report containing material for publication in  a  newspaper.]
 
 ###### 2 [361B.
 A member  of  a  House  belonging  to  any political party who is disqualified for being a member of the House under paragraph 2 of the Tenth Schedule shall also  be  disqualified  to  hold  any  remunerative  political post  for  duration  of  the  period  commencing  from  the date  of  his  disqualification  till  the  date  on  which  the term  of  his  office  as  such  member  would  expire  or  till the date on which he contests an election to a House and is  declared elected, whichever is earlier.
 
-Explanation .-For the purposes of this article,-
+Explanation.—For the purposes of this article,—
 
 ( a )  the  expression  'House'  has  the  meaning assigned to it in clause ( a ) of paragraph 1 of the Tenth Schedule;
 
@@ -8800,29 +8842,19 @@ Where any State has failed to comply with, or to give effect to, any directions 
 ###### 366.
 In this Constitution, unless the context otherwise requires,  the  following  expressions  have  the  meanings hereby respectively assigned to them, that is to say-
 
-' agricultural  income ' means  agricultural income as defined for the purposes of the enactments relating to Indian income-tax;
+(1) ' agricultural  income ' means  agricultural income as defined for the purposes of the enactments relating to Indian income-tax;
 
-' an  Anglo-Indian ' means  a  person  whose father or any of whose other male progenitors in the male line is or was of European descent but who is domiciled within the territory of India and is or was born  within  such  territory  of  parents  habitually resident  therein  and  not  established  there  for temporary purposes only;
+(2) ' an  Anglo-Indian ' means  a  person  whose father or any of whose other male progenitors in the male line is or was of European descent but who is domiciled within the territory of India and is or was born  within  such  territory  of  parents  habitually resident  therein  and  not  established  there  for temporary purposes only;
 
-' article ' means an article of this Constitution;
+(3) ' article ' means an article of this Constitution;
 
-' borrow ' includes  the  raising  of  money  by the grant of annuities, and ' loan ' shall be construed accordingly;
+(4) ' borrow ' includes  the  raising  of  money  by the grant of annuities, and ' loan ' shall be construed accordingly;
 
-1
+1* * * * *
 
-*
+(5) ' clause ' means a clause of the article in which the expression occurs;
 
-*
-
-*
-
-*
-
-*
-
-' clause ' means a clause of the article in which the expression occurs;
-
-' corporation tax ' means any tax on income, so far as that tax is payable by companies and is a tax in the case of which the following conditions are fulfilled:-
+(6) ' corporation tax ' means any tax on income, so far as that tax is payable by companies and is a tax in the case of which the following conditions are fulfilled:-
 
 ( a )  that  it  is  not  chargeable  in  respect  of agricultural income;
 
@@ -8952,7 +8984,7 @@ races or tribes as are deemed under article 341 to be Scheduled  Castes  for the
 
 ( b ) a tax on the transfer of property in goods (whether  as  goods  or  in  some  other  form) involved in the execution of a works contract;
 
-( c )  a  tax  on  the  delivery  of  goods  on  hirepurchase  or  any  system  of  payment  by instalments;
+( c )  a  tax  on  the  delivery  of  goods  on  hire-purchase  or  any  system  of  payment  by instalments;
 
 ( d )  a  tax  on  the  transfer  of  the  right  to  use any goods for any purpose (whether or not for a specified period) for cash, deferred payment or other valuable consideration;
 
@@ -9052,7 +9084,7 @@ before the Bill making provision for such amendment is presented to the Presiden
 
 1 [(3)  Nothing  in  article  13  shall  apply  to  any amendment made under this article.]
 
-2 [(4) No amendment of this Constitution (including the  provisions  of  Part  III)  made  or  purporting  to  have been made under this article [whether before or after the commencement of section 55 of the Constitution (Fortysecond Amendment) Act, 1976] shall be called in question in  any court on any ground.
+2 [(4) No amendment of this Constitution (including the  provisions  of  Part  III)  made  or  purporting  to  have been made under this article [whether before or after the commencement of section 55 of the Constitution (Forty-second Amendment) Act, 1976] shall be called in question in  any court on any ground.
 
 (5) For the removal of doubts, it is hereby declared that  there  shall  be  no  limitation  whatever  on  the constituent  power  of  Parliament  to  amend  by  way  of addition,  variation  or  repeal  the  provisions  of  this Constitution under this article.]
 
@@ -9108,7 +9140,9 @@ Explanation. -For  the  purposes  of  this  article,  the Government of the Stat
 
 ( c ) the provisions of article 1 and of this article shall apply in relation to that State;
 
-( d ) such of the other provisions of this Constitution shall  apply  in  relation  to  that  State  subject  to  such Temporary  provisions with  respect  to  the State  of  Jammu  and Kashmir.
+( d ) such of the other provisions of this Constitution shall  apply  in  relation  to  that  State  subject  to  such
+
+Temporary provisions with respect to the State of Jammu and Kashmir.
 
 > 1 In exercise of the powers conferred by this article the President, on the recommendation of the Constituent Assembly of the State of Jammu and Kashmir, declared that, as from the 17th day of November, 1952, the said art.  370  shall  be  operative  with  the  modification  that  for  the Explanation in  cl.  (1)  thereof,  the  following Explanation is  substituted, namely:-
 
@@ -9142,6 +9176,7 @@ Provided further that no such order which relates to  matters  other  than  thos
 
 Provided that the recommendation of the Constituent Assembly of the State  referred  to  in  clause  (2)  shall  be necessary before the President issues such a notification.
 
+###### 2 [371. 3* * * *
 (2) Notwithstanding anything in this Constitution, the President may by order made with respect to  5 [the State
 
 > 1 See the Constitution (Application to Jammu and Kashmir) Order, 1954 (C.O. 48) as amended from time to  time,  in Appendix I.
@@ -9187,7 +9222,9 @@ of  Maharashtra  or  Gujarat],  provide  for  any  special responsibility of the
 
 shall apply to the State of Nagaland unless the Legislative Assembly of Nagaland by a resolution so decides;
 
-( b )  the  Governor of Nagaland shall have special responsibility  with  respect  to  law  and  order  in  the Special provision with  respect  to  the State of Nagaland.
+( b )  the  Governor of Nagaland shall have special responsibility  with  respect  to  law  and  order  in  the
+
+Special provision with respect to the State of Nagaland.
 
 > 1 Subs.  by  the  Bombay  Reorganisation  Act,  1960  (11  of  1960),  s.  85,  for  'the  rest  of  Maharashtra,' (w.e.f.  1-5-1960).
 
@@ -9203,7 +9240,7 @@ THE CONSTITUTION OF INDIA
 
 ( Part XXI.-Temporary, Transitional and Special Provisions.-Art. 371 A. )
 
-State  of  Nagaland  for  so  long  as  in  his  opinion internal  disturbances  occurring  in  the  Naga  HillsTuensang Area immediately before the formation of that State continue therein or in any part thereof and in  the  discharge  of  his  functions  in  relation  thereto the  Governor  shall,  after  consulting  the  Council  of Ministers, exercise his individual judgment as to the action to be taken:
+State  of  Nagaland  for  so  long  as  in  his  opinion internal  disturbances  occurring  in  the  Naga  Hills-Tuensang Area immediately before the formation of that State continue therein or in any part thereof and in  the  discharge  of  his  functions  in  relation  thereto the  Governor  shall,  after  consulting  the  Council  of Ministers, exercise his individual judgment as to the action to be taken:
 
 Provided that if any question arises whether any matter  is  or  is  not  a  matter  as  respects  which  the Governor is under this sub-clause required to act in the exercise of his individual judgment, the decision of the Governor in his discretion shall be final, and the validity of anything done by the Governor shall not be called in question on the ground that he ought or  ought  not  to  have  acted  in  the  exercise  of  his individual judgment:
 
@@ -9315,7 +9352,7 @@ Notwithstanding anything in this Constitution,  the  President  may,  by  order 
 ###### 3 [ 371C.
 (1)  Notwithstanding  anything  in  this Constitution,  the  President  may,  by  order  made  with respect  to  the  State  of  Manipur,  provide  for  the constitution  and  functions  of  a  committee  of  the Legislative Assembly of the State consisting of members of that Assembly elected from the Hill Areas of that State, for the modifications to be made in the rules of business of the Government and in the rules of procedure of the Legislative  Assembly  of  the  State  and  for  any  special responsibility  of  the  Governor  in  order  to  secure  the proper functioning of such committee.
 
-- The  Governor  shall  annually,  or  whenever  so required by the President, make a report to the President regarding the administration of the Hill Areas in the State of Manipur and the executive power of the Union shall extend to the giving of directions to the State as to the administration of the said areas.
+(2) The  Governor  shall  annually,  or  whenever  so required by the President, make a report to the President regarding the administration of the Hill Areas in the State of Manipur and the executive power of the Union shall extend to the giving of directions to the State as to the administration of the said areas.
 
 Explanation. -In  this  article,  the  expression ' Hill Areas ' means such areas as the President may, by order, declare to be Hill Areas.]
 
@@ -9356,9 +9393,7 @@ THE CONSTITUTION OF INDIA
 
 > 1 Ins.  by  the  Constitution (Thirty-second Amendment) Act, 1973, s. 3 (w.e.f. 1-7-1974).
 
-> 2 Subs. by the Andhra Pradesh Reorganisation Act, 2014, s. 97, for 'the State of Andhra Pradesh' (w.e.f.
-
-> 2-6-2014).
+> 2 Subs. by the Andhra Pradesh Reorganisation Act, 2014, s. 97, for 'the State of Andhra Pradesh' (w.e.f. 2-6-2014).
 
 > 3 Subs. by s. 97, ibid for clause (1) (w.e.f. 2-6-2014).
 
@@ -9649,7 +9684,9 @@ THE CONSTITUTION OF INDIA
 
 (3)  Nothing in clause (2) shall be deemed-
 
-( a )  to  empower  the  President  to  make  any adaptation  or  modification  of  any  law  after  the expiration of  2 [three years] from the commencement of  this  Constitution; or Continuance in force of existing laws and their adaptation.
+( a )  to  empower  the  President  to  make  any adaptation  or  modification  of  any  law  after  the expiration of  2 [three years] from the commencement of  this  Constitution; or
+
+Continuance in force of existing laws and their adaptation.
 
 > 1 See the  Adaptation  of  Laws  Order,  1950,  dated  the  26th  January,  1950,  Gazette  of  India, Extraordinary, p. 449, as amended by Notification No. S.R.O. 115, dated the 5th June, 1950, Gazette of India, Extraordinary, Part II, Section 3, p. 51, Notification No. S.R.O. 870, dated the 4th November, 1950, Gazette of India, Extraordinary, Part II, Section 3, p. 903, Notification No. S.R.O. 508, dated the 4th April, 1951, Gazette of  India,  Extraordinary,  Part  II,  Section  3,  p.  287,  Notification  No.  S.R.O.  1140B,  dated  the  2nd  July,  1952, Gazette of India, Extraordinary, Part II, Section 3, p. 616/I; and the Adaptation of the Travancore-Cochin Land Acquisition  Laws  Order,  1952,  dated  the  20th  November,  1952,  Gazette  of  India,  Extraordinary,  Part  II, Section 3, p. 923.
 
@@ -9706,7 +9743,9 @@ Until  provision  is  made  by  Parliament  under clause (7) of article 22, or u
 
 (2)  All  suits,  appeals  and  proceedings,  civil  or criminal,  pending  in  the  Federal  Court  at  the commencement of this Constitution shall stand removed to the Supreme Court, and the Supreme Court shall have jurisdiction  to  hear  and  determine  the  same,  and  the judgments and orders of the Federal Court delivered or made before the commencement of this Constitution shall have  the  same  force  and  effect  as  if  they  had  been delivered or made by the Supreme Court.
 
-(3)  Nothing  in  this  Constitution  shall  operate  to invalidate the exercise of jurisdiction by His Majesty in Council to dispose of appeals and petitions from, or in Power  of  President to  make  order  in respect  of  persons under preventive detention  in  certain cases.
+(3)  Nothing  in  this  Constitution  shall  operate  to invalidate the exercise of jurisdiction by His Majesty in Council to dispose of appeals and petitions from, or in
+
+Power of President to make order in respect of persons under preventive detention in certain cases.
 
 Provisions as to Judges of  the  Federal  Court and proceedings pending in the Federal Court  or  before  His Majesty in Council.
 
@@ -9758,7 +9797,9 @@ The  Auditor-General  of  India  holding  office immediately  before  the  comme
 ###### 378.
 (1)  The  members  of  the  Public  Service Commission  for  the  Dominion  of  India  holding  office immediately  before  the  commencement  of  this Constitution  shall,  unless  they  have  elected  otherwise, become  on  such  commencement  the  members  of  the Public  Service  Commission  for  the  Union  and  shall, notwithstanding  anything  in  clauses  (1)  and  (2)  of article 316 but subject to the proviso to clause (2) of that article,  continue  to  hold  office  until  the  expiration  of their term of office as determined under the rules which were applicable immediately before such commencement to  such members.
 
-(2) The members of a Public Service Commission of a Province or of a Public Service Commission serving the needs of a group of Provinces holding office immediately before  the  commencement  of  this  Constitution  shall, Provisions as to Comptroller and Auditor-General  of India.
+(2) The members of a Public Service Commission of a Province or of a Public Service Commission serving the needs of a group of Provinces holding office immediately before  the  commencement  of  this  Constitution  shall,
+
+Provisions as to Comptroller and Auditor-General of India.
 
 Provisions as to Public Service Commissions.
 
@@ -9801,32 +9842,34 @@ Provided that no such order shall be made after the first  meeting  of  Parliame
 
 ## PART XXII
 
-### SHORT TITLE, COMMENCEMENT  1 [, AUTHORITATIVE TEXT IN HINDI] AND REPEALS
+### SHORT TITLE, COMMENCEMENT 1[, AUTHORITATIVE TEXT IN HINDI] AND REPEALS
+
+Short title.
 
 ###### 393.
-This Constitution may be called the Constitution of  India.
+This Constitution may be called the Constitution of India.
+
+Commencement.
 
 ###### 394.
 This article and articles 5, 6, 7, 8, 9, 60, 324, 366, 367, 379, 380, 388, 391, 392 and 393 shall come into force at once, and the remaining provisions of this Constitution shall come into force on the twenty-sixth day of January, 1950, which day is referred to in this Constitution as the commencement of this Constitution.
 
-###### 2 [ 394A.
-(1) The President shall cause to be published under his authority,-
-
-( a ) the translation of this Constitution in the Hindi language, signed by the members of the Constituent Assembly,  with  such  modifications  as  may  be necessary to bring it in conformity with the language, style  and  terminology adopted in the authoritative texts  of  Central  Acts  in  the  Hindi  language,  and incorporating  therein  all  the  amendments  of  this Constitution made before such publication; and
-
-( b ) the translation in the Hindi language of every amendment of this Constitution made in the English language.
-
-(2) The translation of this Constitution and of every amendment thereof published under clause (1) shall be construed  to  have  the  same  meaning  as  the  original thereof and if any difficulty arises in so construing any part  of  such  translation,  the  President  shall  cause  the same to be revised suitably.
-
-(3) The translation of this Constitution and of every amendment thereof published under this article shall be Short title.
-
-> 1 Ins.  by  the  Constitution (Fifty-eighth Amendment) Act, 1987, s. 2.
-
-> 2 Ins.  by  s.  3, ibid.
-
-Commencement.
-
 Authoritative text in the Hindi language.
+
+###### 2 [ 394A.
+(1) The President shall cause to be published under his authority,—
+
+(a) the translation of this Constitution in the Hindi language, signed by the members of the Constituent Assembly, with such modifications as may be necessary to bring it in conformity with the language, style and terminology adopted in the authoritative texts of Central Acts in the Hindi language, and incorporating therein all the amendments of this Constitution made before such publication; and
+
+(b) the translation in the Hindi language of every amendment of this Constitution made in the English language.
+
+(2) The translation of this Constitution and of every amendment thereof published under clause (1) shall be construed to have the same meaning as the original thereof and if any difficulty arises in so construing any part of such translation, the President shall cause the same to be revised suitably.
+
+(3) The translation of this Constitution and of every amendment thereof published under this article shall be
+
+> 1 Ins. by the Constitution (Fifty-eighth Amendment) Act, 1987, s. 2.
+
+> 2 Ins. by s. 3, ibid.
 
 273
 
@@ -9838,36 +9881,29 @@ Authoritative text in the Hindi language.
 
 THE CONSTITUTION OF INDIA
 
+( Part XXII.—Short Title, Commencement, Authoritative Text in Hindi and Repeals.—Arts. 394A-395.)
+
+deemed to be, for all purposes, the authoritative text thereof in the Hindi language.]
+
 Repeals.
 
-( Part XXII.-Short Title, Commencement, Authoritative Text in Hindi and Repeals.-Arts. 394 A -395.)
-
-deemed  to  be,  for  all  purposes,  the  authoritative  text thereof in the Hindi language.]
-
 ###### 395.
-The  Indian  Independence  Act,  1947,  and  the Government  of  India  Act,  1935,  together  with  all enactments  amending  or  supplementing  the  latter Act, but  not  including  the  Abolition  of  Privy  Council Jurisdiction Act, 1949, are hereby repealed.
+The Indian Independence Act, 1947, and the Government of India Act, 1935, together with all enactments amending or supplementing the latter Act, but not including the Abolition of Privy Council Jurisdiction Act, 1949, are hereby repealed.
 
 [[END OF PAGE 302]]
 
 [[START OF PAGE 303]]
 
-Name
-
-- Andhra Pradesh
-
-- Assam
-
 ## 1 [ FIRST SCHEDULE
 
 [Articles 1 and 4]
 
-### I.  THE STATES
+### I. THE STATES
 
-Territories
-
-2 [The  territories  specified  in  sub-section  (1)  of section  3  of  the  Andhra  State  Act,  1953, sub-section  (1)  of  section  3  of  the  States Reorganisation  Act,  1956,  the  First  Schedule  to the Andhra Pradesh and Madras (Alteration of Boundaries) Act,  1959,  and  the  Schedule  to  the Andhra  Pradesh  and  Mysore  (Transfer  of Territory) Act, 1968, but excluding the territories specified  in  the  Second  Schedule  to  the Andhra  Pradesh  and  Madras  (Alteration  of Boundaries)  Act,  1959 3 [and  the  territories specified  in  section  3  of  the  Andhra  Pradesh Reorganisation Act, 2014.]
-
-The  territories  which  immediately  before  the commencement  of  this  Constitution  were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the  territories  specified  in  the  Schedule  to  the Assam (Alteration of Boundaries) Act, 1951  4 [and the  territories  specified  in  sub-section  (1)  of section 3 of the State of Nagaland Act, 1962]  5 [and the territories specified in sections 5, 6 and 7 of the  North-Eastern  Areas  (Reorganisation)  Act, 1971 6 [and the territories referred to in Part I of the  Second  Schedule  to  the  Constitution  (One Hundredth Amendment) Act, 2015, notwithstanding anything contained in clause (a) of  section  3  of  the  Constitution  (Ninth Amendment) Act, 1960, so far as it relates to the territories  referred  to  in  Part  I  of  the  Second Schedule  to  the  Constitution  (One  Hundredth Amendment) Act, 2015.]
+Name | Territories
+--- | ---
+1. Andhra Pradesh | 2 [The territories specified in sub-section (1) of section 3 of the Andhra State Act, 1953, sub-section (1) of section 3 of the States Reorganisation Act, 1956, the First Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959, and the Schedule to the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968, but excluding the territories specified in the Second Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959 3 [and the territories specified in section 3 of the Andhra Pradesh Reorganisation Act, 2014.]
+2. Assam | The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951 4 [and the territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962] 5 [and the territories specified in sections 5, 6 and 7 of the North-Eastern Areas (Reorganisation) Act, 1971 6 [and the territories referred to in Part I of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015, notwithstanding anything contained in clause (a) of section 3 of the Constitution (Ninth Amendment) Act, 1960, so far as it relates to the territories referred to in Part I of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015.]
 
 > 1 Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 2, for the First Sch.
 
@@ -9890,6 +9926,8 @@ The  territories  which  immediately  before  the commencement  of  this  Consti
 276
 
 THE CONSTITUTION OF INDIA
+
+( First Schedule )
 
 Name
 
@@ -9916,7 +9954,7 @@ Territories
 
 > 7 Ins.  by  the  Andhra  Pradesh  and  Madras  (Alteration  of  Boundaries)  Act,  1959  (56  of  1959),  s.  6 (w.e.f.  1-4-1960).
 
-( First  Schedule )
+
 
 [[END OF PAGE 304]]
 
@@ -9925,6 +9963,8 @@ Territories
 THE CONSTITUTION OF INDIA
 
 277
+
+( First Schedule )
 
 Name
 
@@ -9953,7 +9993,7 @@ and sub-section (1) of section 4 of the Andhra State Act, 1953 and 1 [the territ
 
 > 9 Ins.  by  the  Punjab Reorganisation Act, 1966 (31 of 1966), s. 7 (w.e.f. 1-11-1966).
 
-( First  Schedule )
+
 
 [[END OF PAGE 305]]
 
@@ -9962,6 +10002,8 @@ and sub-section (1) of section 4 of the Andhra State Act, 1953 and 1 [the territ
 278
 
 THE CONSTITUTION OF INDIA
+
+( First Schedule )
 
 Name
 
@@ -9982,7 +10024,7 @@ Territories
 
 > 5 Added by the Constitution (One Hundredth Amendment) Act, 2015, s. 3 (w.e.f. 31-7-2015).
 
-( First  Schedule )
+
 
 [[END OF PAGE 306]]
 
@@ -9992,13 +10034,15 @@ THE CONSTITUTION OF INDIA
 
 279
 
+( First Schedule )
+
 Name
 
 Territories
 
 Hundredth Amendment) Act, 2015, notwithstanding anything contained in cluase (c) of section 3 of the Constitution (Ninth Amendment) Act, 1960, so far as it relates to the territories referred to in Part III of the First Schedule and the territories referred to in Part III of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015].
 --- | --- | ---
-[15.] | Jammu and Kashmir | The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir.
+1 [15.] | Jammu and Kashmir | The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir.
 2 [16. | Nagaland | The territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962.]
 3 [17. | Haryana | 4 [The territories specified in sub-section (1) of section 3 of the Punjab Reorganisation Act, 1966 and the territories specified in clause (a) of sub- section (1) of section 4 of the Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979, but excluding the territories specified in clause (v) of sub-section (1) of section 4 of that Act.]
 5 [18. | Himachal Pradesh | The territories which immediately before the commencement of this Constitution were being administered as if they were Chief Commissioners' Provinces under the names of Himachal Pradesh and Bilaspur and the territories specified in sub-section (1) of section 5 of the Punjab Reorganisation Act, 1966.]
@@ -10015,7 +10059,7 @@ Hundredth Amendment) Act, 2015, notwithstanding anything contained in cluase (c)
 
 > 5 Ins.  by  the  State  of  Himachal Pradesh Act, 1970 (53 of 1970), s. 4 (w.e.f. 25-1-1971). 6 Ins.  by  the  North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 9 (w.e.f. 21-1-1972). 7 Added by the Constitution (One Hundredth Amendment) Act, 2015, s. 3 (w.e.f. 31-7-2015).
 
-( First  Schedule )
+
 
 [[END OF PAGE 307]]
 
@@ -10029,7 +10073,8 @@ THE CONSTITUTION OF INDIA
 
 Name | Territories
 --- | --- | ---
-21. | Meghalaya | Part II of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015]. The territories specified in section 5 of the North- Eastern Areas (Reorganisation) Act, 1971 1 [and the territories referred to in Part I of the First Schedule but excluding the territories referred to in Part II of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015.]
+| | territories referred to in Part II of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015, notwithstanding anything contained in clause (d) of section 3 of the Constitution (Ninth Amendment) Act, 1960, so far as it relates to the territories referred to in Part II of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015].
+21. | Meghalaya | The territories specified in section 5 of the North-Eastern Areas (Reorganisation) Act, 1971 1 [and the territories referred to in Part I of the First Schedule but excluding the territories referred to in Part II of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015.]
 2 [22. | Sikkim | The territories which immediately before the commencement of the Constitution (Thirty-sixth Amendment) Act, 1975, were comprised in Sikkim.]
 3 [23. | Mizoram | The territories specified in section 6 of the North- Eastern Areas (Reorganisation) Act, 1971.]
 4 [24. | Arunachal Pradesh | The territories specified in section 7 of the North- Eastern Areas (Reorganisation) Act, 1971.]
@@ -10123,27 +10168,19 @@ Name | Extent
 
 #### PROVISIONS AS TO THE PRESIDENT AND THE GOVERNORS OF STATES 1***
 
-- There  shall  be  paid  to  the  President  and  to  the  Governors  of  the States 1 ***  the  following emoluments per mensem, that is to say:-
-
-- There shall also be paid to the President and to the Governors of the States 2 ***  such  allowances  as  were  payable  respectively  to  the  GovernorGeneral of the Dominion of India and to the Governors of the corresponding Provinces immediately before the commencement of this Constitution.
-
-- The  President  and  the  Governors  of 3 [the  States]  throughout  their respective terms of office shall be entitled to the same privileges to which the Governor-General and the Governors of the corresponding Provinces were respectively  entitled  immediately  before  the  commencement  of  this Constitution.
-
-- While the Vice-President or any other person is discharging the functions of, or is acting as, President, or any person is discharging the functions of the Governor,  he  shall  be  entitled  to  the  same  emoluments,  allowances  and privileges as the President or the Governor whose functions he discharges or for whom he acts, as the case may be.
+1. There shall be paid to the President and to the Governors of the States 1 *** the following emoluments per mensem, that is to say:—
 
 The President | .. | 10,000 rupees*.
 --- | --- | ---
 The Governor of a State | .. | 5,500 rupees**.
 
-4 *
+2. There shall also be paid to the President and to the Governors of the States 2 *** such allowances as were payable respectively to the Governor-General of the Dominion of India and to the Governors of the corresponding Provinces immediately before the commencement of this Constitution.
 
-*
+3. The President and the Governors of 3 [the States] throughout their respective terms of office shall be entitled to the same privileges to which the Governor-General and the Governors of the corresponding Provinces were respectively entitled immediately before the commencement of this Constitution.
 
-*
+4. While the Vice-President or any other person is discharging the functions of, or is acting as, President, or any person is discharging the functions of the Governor, he shall be entitled to the same emoluments, allowances and privileges as the President or the Governor whose functions he discharges or for whom he acts, as the case may be.
 
-*
-
-*
+4* * * * *
 
 > 1 The words and letter 'specified in Part A of the First Schedule' omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 
@@ -10178,6 +10215,8 @@ There shall be paid to the Speaker of the House of the People and the Chairman o
 There  shall  be  paid  to  the  Speaker  and  the  Deputy  Speaker  of  the Legislative Assembly  3 *** and to the Chairman and the Deputy Chairman of the  Legislative  Council  of 4 [a  State]  such  salaries  and  allowances  as  were payable respectively to the Speaker and the Deputy Speaker of the Legislative Assembly  and  the  President  and  the  Deputy  President  of  the  Legislative Council of the corresponding Province immediately before the commencement of this Constitution and, where the corresponding Province had no Legislative Council immediately before such commencement, there shall be paid to the Chairman and the Deputy Chairman of the Legislative Council of the State such salaries and allowances as the Governor of the State may determine.
 
 ### PART D
+
+#### PROVISIONS AS TO THE JUDGES OF THE SUPREME COURT AND OF THE HIGH COURTS 5 ***
 
 ##### 9.
 (1) There shall be paid to the Judges of the Supreme  Court, in respect of time spent on actual service, salary at the following rates per mensem, that is  to  say:-
@@ -10242,13 +10281,16 @@ THE CONSTITUTION OF INDIA
 
 ( Second Schedule )
 
-in  connection  with  travelling  as  the  President  may  from  time  to  time prescribe.
+in connection with travelling as the President may from time to time prescribe.
 
-- The rights in respect of leave of absence (including leave allowances) and pension of the Judges of the Supreme Court shall be governed by the provisions which, immediately before the commencement of this Constitution, were applicable to the Judges of the Federal Court.
+(5) The rights in respect of leave of absence (including leave allowances) and pension of the Judges of the Supreme Court shall be governed by the provisions which, immediately before the commencement of this Constitution, were applicable to the Judges of the Federal Court.
 
-- 1 [(1) There shall be paid to the Judges of High Courts, in respect of time spent on actual service, salary at the following rates per mensem, that is  to  say,-
+##### 10.
+1 [(1) There shall be paid to the Judges of High Courts, in respect of time spent on actual service, salary at the following rates per mensem, that is to say,—
 
-The Chief Justice .. 2 [9,000 rupees]* Any other Judge .. 3 [8,000 rupees]:**
+The Chief Justice | .. | 2 [9,000 rupees]*
+--- | --- | ---
+Any other Judge | .. | 3 [8,000 rupees]:**
 
 Provided that if a Judge of a High Court at the time of his appointment is in receipt of a pension (other than a disability or wound pension) in respect of  any  previous  service  under  the  Government  of  India  or  any  of  its predecessor Governments or under the Government of a State or any of its predecessor Governments, his salary in respect of service in the High Court shall be reduced-
 
@@ -10320,7 +10362,7 @@ THE CONSTITUTION OF INDIA
 ##### 12.
 (1)  There  shall  be  paid  to  the  Comptroller  and  Auditor-General  of India a salary at the rate of *four thousand rupees per mensem.
 
-(2)  The  person  who  was  holding  office  immediately  before  the commencement  of  this  Constitution  as  Auditor-General  of  India  and  has become  on  such  commencement  the  Comptroller  and  Auditor-General  of India  under  article  377  shall  in  addition  to  the  salary  specified  in  subparagraph (1) of this paragraph be entitled to receive as special pay an amount equivalent  to  the  difference  between  the  salary  so  specified  and  the  salary which he was drawing as Auditor-General of India immediately before such commencement.
+(2) The person who was holding office immediately before the commencement of this Constitution as Auditor-General of India and has become on such commencement the Comptroller and Auditor-General of India under article 377 shall in addition to the salary specified in sub-paragraph (1) of this paragraph be entitled to receive as special pay an amount equivalent to the difference between the salary so specified and the salary which he was drawing as Auditor-General of India immediately before such commencement.
 
 (3)  The rights in respect of leave of absence and pension and the other conditions of service of the Comptroller and Auditor-General of India shall be  governed  or  shall  continue  to  be  governed,  as  the  case  may  be,  by  the provisions which were applicable to the Auditor-General of India immediately before  the  commencement  of  this  Constitution  and  all  references  in  those provisions  to  the  Governor-General  shall  be  construed  as  references  to  the President.
 
@@ -10340,13 +10382,17 @@ THE CONSTITUTION OF INDIA
 
 ##### Form of oath of office for a Minister for the Union:-
 
-allegiance  to  the  Constitution  of  India  as  by  law  established, 1 [that  I  will uphold  the  sovereignty  and  integrity  of  India,]  that  I  will  faithfully  and conscientiously discharge my duties as a Minister for the Union and that I will do right to all manner of people in accordance with the Constitution and the law, without fear or favour, affection or ill-will. '
+“I, A.B., do swear in the name of God
+solemnly affirm
+that I will bear true faith and allegiance to the Constitution of India as by law established, 1 [that I will uphold the sovereignty and integrity of India,] that I will faithfully and conscientiously discharge my duties as a Minister for the Union and that I will do right to all manner of people in accordance with the Constitution and the law, without fear or favour, affection or ill-will.”
 
 #### II
 
 ##### Form of oath of secrecy for a Minister for the Union:-
 
-communicate or reveal to any person or persons any matter which shall be brought under my consideration or shall become known to me as a Minister for the Union except as may be required for the due discharge of my duties as such Minister. '
+“I, A.B., do swear in the name of God
+solemnly affirm
+that I will not directly or indirectly communicate or reveal to any person or persons any matter which shall be brought under my consideration or shall become known to me as a Minister for the Union except as may be required for the due discharge of my duties as such Minister.”
 
 #### 2 [III
 
@@ -10380,11 +10426,9 @@ THE CONSTITUTION OF INDIA
 
 ###### Form of oath or affirmation to be made by a member of Parliament:-
 
-' I, A.B., having been elected (or nominated) a member of the Council of swear in the name of God
-
-States  (or  the  House  of  the  People)  do solemnly affirm that  I  will
-
-bear true faith and allegiance to the Constitution of India as by law established, that  I  will  uphold  the  sovereignty  and  integrity  of  India  and  that  I  will faithfully discharge the duty upon which I am about to enter. ' ]
+“I, A.B., having been elected (or nominated) a member of the Council of States (or the House of the People) do swear in the name of God
+solemnly affirm
+that I will bear true faith and allegiance to the Constitution of India as by law established, that I will uphold the sovereignty and integrity of India and that I will faithfully discharge the duty upon which I am about to enter.”]
 
 #### IV
 
@@ -10400,11 +10444,9 @@ Constitution of India as by law established,  1 [that I will uphold the sovereig
 
 ##### Form of oath of office for a Minister for a State:-
 
-' I,  A.B.,  do swear in the name of God solemnly affirm that  I  will  bear  true  faith  and
-
-allegiance  to  the  Constitution  of  India  as  by  law  established, 1 [that  I  will uphold  the  sovereignty  and  integrity  of  India,]  that  I  will  faithfully  and conscientiously discharge my duties as a Minister for the State of...............and that I will do right to all manner of people in accordance with the Constitution '
-
-- and the law without fear or favour, affection or ill-will.
+“I, A.B., do swear in the name of God
+solemnly affirm
+that I will bear true faith and allegiance to the Constitution of India as by law established, 1 [that I will uphold the sovereignty and integrity of India,] that I will faithfully and conscientiously discharge my duties as a Minister for the State of...............and that I will do right to all manner of people in accordance with the Constitution and the law without fear or favour, affection or ill-will.”
 
 #### VI
 
@@ -10449,9 +10491,9 @@ bear true faith and allegiance to the Constitution of India as by law establishe
 ##### Form of oath or affirmation to be made by the Judges of a High Court:-
 ' I,  A.B.,  having  been  appointed  Chief  Justice  (or  a  Judge)  of  the  High Court at (or of)............ do swear in the name of God solemnly affirm that I will bear true faith and allegiance to the Constitution of India as by law established,  2 [that I will uphold the sovereignty and integrity of India,] that I will duly and faithfully and to the best of my ability, knowledge and judgment perform the duties of my office without fear or favour, affection or ill-will and that I will uphold the Constitution and the laws. '
 
-> Ins.  by  s.  5, ibid.
+> 1 Subs. by the Constitution (Sixteenth Amendment) Act, 1963, s. 5, for Form VII.
 
-1 Subs. by the Constitution (Sixteenth Amendment) Act, 1963, s. 5, for Form VII. 2
+> 2 Ins. by s. 5, ibid.
 
 [[END OF PAGE 318]]
 
@@ -10467,7 +10509,7 @@ To each  State  or  Union  territory  specified  in  the  first  column  of  the
 
 #### TABLE
 
-1. | ABLE Andhra Pradesh..................................................... | 2 [11]
+1. | Andhra Pradesh..................................................... | 2 [11]
 --- | --- | ---
 3 [2. | Telangana ................................................................ | 7]
 4 [3. | Assam ...................................................................... | 7
@@ -10485,31 +10527,41 @@ To each  State  or  Union  territory  specified  in  the  first  column  of  the
 8 [ 4 [15.]] | 17 [Odisha] ................................................................ | 10
 8 [ 4 [16.]] | Punjab ...................................................................... | 18 [7]
 
-> 1 Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 3, for the Fourth Schedule. 2 Subs. by Andhra Pradesh Reorganisation Act, 2014, s. 12, for '18' (w.e.f. 2-6-2014). 3 Ins.  by  s.  12, ibid. (w.e.f.  2-6-2014).
+> 1 Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 3, for the Fourth Schedule.
 
-> 5 Subs. by the Bihar Reorganisation Act, 2000 (30 of 2000), s. 7, for '22' (w.e.f. 15-11-2000). 6 Ins.  by  s.  7, ibid .  (w.e.f.  15-11-2000).
+> 2 Subs. by Andhra Pradesh Reorganisation Act, 2014, s. 12, for “18” (w.e.f. 2-6-2014).
 
-> 4 Entries 2 to 30 renumbered as entries 3 to 31 respectively by s. 12, ibid. (w.e.f.  2-6-2014).
+> 3 Ins. by s. 12, ibid. (w.e.f. 2-6-2014).
 
-> 7 Ins.  by  the  Goa,  Daman and Diu Reorganisation Act, 1987 (18 of 1987), s. 6 (w.e.f. 30-5-1987).
+> 4 Entries 2 to 30 renumbered as entries 3 to 31 respectively by s. 12, ibid. (w.e.f. 2-6-2014).
 
-> 9 Subs.  by  the  Bombay  Reorganisation  Act,  1960  (11  of  1960),  s.  6,  for  entry  '4'  (renumbered  as  6*) (w.e.f.  1-5-1960).
+> 5 Subs. by the Bihar Reorganisation Act, 2000 (30 of 2000), s. 7, for “22” (w.e.f. 15-11-2000).
 
-> 8 Entries 4 to 29 renumbered as entries 5 to 30 by the Bihar Reorganisation Act, 2000 (30 of 2000), s. 7 (w.e.f.  15-11-2000).
+> 6 Ins. by s. 7, ibid. (w.e.f. 15-11-2000).
 
-> 10 Ins.  by  the  Punjab Reorganisation Act, 1966 (31 of 1966), s. 9 (w.e.f. 1-11-1966).
+> 7 Ins. by the Goa, Daman and Diu Reorganisation Act, 1987 (18 of 1987), s. 6 (w.e.f. 30-5-1987).
 
-> 13 Subs.  by  the  Madras  State  (Alteration  of  Name)  Act,  1968  (53  of  1968),  s.  5,  for  '*8.  Madras' (renumbered as *11) (w.e.f. 14-1-1969).
+> 8 Entries 4 to 29 renumbered as entries 5 to 30 by the Bihar Reorganisation Act, 2000 (30 of 2000), s. 7 (w.e.f. 15-11-2000).
 
-> 11 Subs. by the Madhya Pradesh Reorganisation Act, 2000 (28 of 2000), s. 7, for '16' (w.e.f. 1-11-2000). 12 Ins.  by  s.  7, ibid .  (w.e.f.  1.11.2000).
+> 9 Subs. by the Bombay Reorganisation Act, 1960 (11 of 1960), s. 6, for entry “4” (renumbered as 6*) (w.e.f. 1-5-1960).
 
-> 14 Subs. by the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959 (56 of 1959), s. 8, for '17' (w.e.f. 1-4-1960).
+> 10 Ins. by the Punjab Reorganisation Act, 1966 (31 of 1966), s. 9 (w.e.f. 1-11-1966).
 
-> 16 Subs.  by  the  Mysore  State  (Alteration  of  Name)  Act,  1973  (31  of  1973),  s.  5,  for  '10.  Mysore' (renumbered as '13' (w.e.f. 1-11-1973).
+> 11 Subs. by the Madhya Pradesh Reorganisation Act, 2000 (28 of 2000), s. 7, for “16” (w.e.f. 1-11-2000).
 
-> 15 Ins.  by  the  Bombay Reorganisation Act, 1960 (11 of 1960), s. 6 (w.e.f. 1-5-1960).
+> 12 Ins. by s. 7, ibid. (w.e.f. 1.11.2000).
 
-> 17 Subs. by the Orissa (Alteration of Name) Act, 2011 (15 of 2011) s. 7, for 'Orissa' (w.e.f. 1-11-2011). 18 Subs. by the Punjab Reorganisation Act, 1966 (31 of 1966), s. 9, for '11' (w.e.f. 1-11-1966).
+> 13 Subs. by the Madras State (Alteration of Name) Act, 1968 (53 of 1968), s. 5, for “*8. Madras” (renumbered as *11) (w.e.f. 14-1-1969).
+
+> 14 Subs. by the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959 (56 of 1959), s. 8, for “17” (w.e.f. 1-4-1960).
+
+> 15 Ins. by the Bombay Reorganisation Act, 1960 (11 of 1960), s. 6 (w.e.f. 1-5-1960).
+
+> 16 Subs. by the Mysore State (Alteration of Name) Act, 1973 (31 of 1973), s. 5, for “10. Mysore” (renumbered as “13” (w.e.f. 1-11-1973).
+
+> 17 Subs. by the Orissa (Alteration of Name) Act, 2011 (15 of 2011) s. 7, for “Orissa” (w.e.f. 1-11-2011).
+
+> 18 Subs. by the Punjab Reorganisation Act, 1966 (31 of 1966), s. 9, for “11” (w.e.f. 1-11-1966).
 
 291
 
@@ -10577,21 +10629,21 @@ Total ............................................................... | 12 [233]
 
 ##### GENERAL
 
-###### 1. Interpretation.
--In this Schedule, unless the context otherwise requires, the  expression ' State ' 1 *  *  *  does  not  include  the 2 [States  of  Assam 3 [, 4 [  Meghalaya, Tripura and Mizoram.]]]
+###### 1. Interpretation.—
+In this Schedule, unless the context otherwise requires, the expression 'State' 1 * * * does not include the 2 [States of Assam 3 [, 4 [Meghalaya, Tripura and Mizoram.]]]
 
-###### 2. Executive  power  of  a  State  in  Scheduled  Areas.
--Subject  to  the provisions  of  this  Schedule,  the  executive  power  of  a  State  extends  to  the Scheduled Areas therein.
+###### 2. Executive power of a State in Scheduled Areas.—
+Subject to the provisions of this Schedule, the executive power of a State extends to the Scheduled Areas therein.
 
-###### 3. Report  by  the  Governor 5 *  *  *  to  the  President  regarding  the administration of Scheduled Areas.
--The Governor  5 * * * of each State having Scheduled  Areas  therein  shall  annually,  or  whenever  so  required  by  the President, make a report to the President regarding the administration of the Scheduled Areas  in  that  State  and  the  executive  power  of  the  Union  shall extend to the giving of directions to the State as to the administration of the said areas.
+###### 3. Report by the Governor 5 * * * to the President regarding the administration of Scheduled Areas.—
+The Governor 5 * * * of each State having Scheduled Areas therein shall annually, or whenever so required by the President, make a report to the President regarding the administration of the Scheduled Areas in that State and the executive power of the Union shall extend to the giving of directions to the State as to the administration of the said areas.
 
 #### PART B
 
 ##### ADMINISTRATION AND CONTROL OF SCHEDULED AREAS AND SCHEDULED TRIBES
 
-###### 4. Tribes Advisory Council.
-(1) There shall be established in each State having Scheduled Areas therein and, if the President so directs, also in any State  having  Scheduled  Tribes  but  not  Scheduled  Areas  therein,  a  Tribes Advisory Council consisting of not more than twenty members of whom, as nearly as may be, three-fourths shall be the representatives of the Scheduled Tribes in the Legislative Assembly of the State:
+###### 4. Tribes Advisory Council.—
+(1) There shall be established in each State having Scheduled Areas therein and, if the President so directs, also in any State having Scheduled Tribes but not Scheduled Areas therein, a Tribes Advisory Council consisting of not more than twenty members of whom, as nearly as may be, three-fourths shall be the representatives of the Scheduled Tribes in the Legislative Assembly of the State:
 
 > 1 The words and letters 'means a State specified in Part A or Part B of the First Schedule but' omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 
@@ -10627,8 +10679,8 @@ Provided that if the number of representatives of the Scheduled Tribes in the Le
 
 ( c )  all  other  incidental  matters.
 
-###### 5. Law applicable to Scheduled Areas.
-(1)  Notwithstanding anything in this Constitution, the Governor 1 * * * may by public notification direct that any particular Act of Parliament or of the Legislature of the State shall not apply to a Scheduled Area or any part thereof in the State or shall apply to a Scheduled Area or any part thereof in the State subject to such exceptions and  modifications  as  he  may  specify  in  the  notification  and  any  direction given  under  this  sub-paragraph  may  be  given  so  as  to  have  retrospective effect.
+###### 5. Law applicable to Scheduled Areas.—
+(1) Notwithstanding anything in this Constitution, the Governor 1 * * * may by public notification direct that any particular Act of Parliament or of the Legislature of the State shall not apply to a Scheduled Area or any part thereof in the State or shall apply to a Scheduled Area or any part thereof in the State subject to such exceptions and modifications as he may specify in the notification and any direction given under this sub-paragraph may be given so as to have retrospective effect.
 
 (2)  The  Governor 1 *  *  *  may  make  regulations  for  the  peace  and  good government of any area in a State which is for the time being a Scheduled Area.
 
@@ -10664,8 +10716,8 @@ THE CONSTITUTION OF INDIA
 
 ##### SCHEDULED AREAS
 
-###### 6. Scheduled Areas.
-(1) In this Constitution, the expression ' Scheduled Areas ' means  such  areas  as  the  President  may  by  order 3 declare  to  be Scheduled Areas.
+###### 6. Scheduled Areas.—
+(1) In this Constitution, the expression 'Scheduled Areas' means such areas as the President may by order 3 declare to be Scheduled Areas.
 
 (2)  The President may at any time by order 4 -
 
@@ -10705,7 +10757,7 @@ and any such order may contain such incidental and consequential provisions as a
 
 ##### AMENDMENT OF THE SCHEDULE
 
-###### 7. Amendment of the Schedule.
+###### 7. Amendment of the Schedule.—
 (1) Parliament may from time to time by law amend by way of addition, variation or repeal any of the provisions of this Schedule and, when the Schedule is so amended, any reference to this Schedule in this Constitution shall be construed as a reference to such Schedule as so amended.
 
 (2) No such law as is mentioned in sub-paragraph (1) of this paragraph shall be deemed to be an amendment of this Constitution for the purposes of  article  368.
@@ -10722,8 +10774,8 @@ and any such order may contain such incidental and consequential provisions as a
 
 ### Provisions as to the Administration of Tribal Areas in  1 [the States of Assam, Meghalaya, Tripura and Mizoram]
 
-#### 2 1. Autonomous districts and autonomous regions.
-(1)  Subject  to  the provisions of this paragraph, the tribal areas in each item of  3 [ 4 [Parts I, II and IIA] and in Part III] of the table appended to paragraph 20 of this Schedule shall be an autonomous district.
+#### 2 1. Autonomous districts and autonomous regions.—
+(1) Subject to the provisions of this paragraph, the tribal areas in each item of 3 [4 [Parts I, II and IIA] and in Part III] of the table appended to paragraph 20 of this Schedule shall be an autonomous district.
 
 (2) If there are different Scheduled Tribes in an autonomous district, the Governor may, by public notification, divide the area or areas inhabited by them into autonomous regions.
 
@@ -10747,7 +10799,7 @@ and any such order may contain such incidental and consequential provisions as a
 
 Provided that no order shall be made by the Governor under clauses ( c ), ( d ),  ( e )  and ( f )  of this sub-paragraph except after consideration of the report of a Commission appointed under sub-paragraph (1) of paragraph 14 of this Schedule:
 
-6 [Provided further that any order made by the Governor under this subparagraph  may  contain  such  incidental  and  consequential  provisions (including  any  amendment of paragraph 20 and of any item in any of the
+6 [Provided further that any order made by the Governor under this sub-paragraph may contain such incidental and consequential provisions (including any amendment of paragraph 20 and of any item in any of the
 
 > 1 Subs. by the State of Mizoram Act, 1986 (34 of 1986), s. 39, for certain words (w.e.f. 20-2-1987).
 
@@ -10857,6 +10909,8 @@ specified  in  sub-paragraph  (6)  of  this  paragraph  and  may  also  make  ru
 ( b )  generally  all  matters  relating  to  the  transaction  of  business pertaining to the administration of the district or region, as the case may be:
 
 Provided that until rules are made by the District or the Regional Council under  this  sub-paragraph  the  rules  made  by  the  Governor  under  subparagraph (6) of this paragraph shall have effect in respect of elections to, the officers and staff of, and the procedure and the conduct of business in, each such Council.
+
+2 * * * * *
 
 #### 3 3. Powers of the District Councils and Regional Councils to make laws.
 (1) The Regional Council for an autonomous region in respect of all
@@ -11453,11 +11507,38 @@ For  the  purposes  of  elections  to 2 [the Legislative Assembly of Assam or Me
 
 THE CONSTITUTION OF INDIA
 
-- 5 [1. Khasi Hills District.
+( Sixth Schedule )
 
-- Jaintia Hills District.]
+(2) Any direction given by the Governor under clause ( a ) of sub-paragraph (1)  of  this  paragraph may be given so as to have retrospective effect.
 
-- The Garo Hills District.
+(3) All  regulations  made  under  clause  ( b )  of  sub-paragraph  (1)  of  this paragraph shall be submitted forthwith to the President and, until assented to  by  him, shall have no effect.
+
+#### 1 [20. Tribal areas.
+(1) The areas specified in Parts I, II 2 [, IIA] and III of the table below shall respectively be the tribal areas within the State of Assam, the State of Meghalaya  2 [, the State of Tripura] and the  3 [State] of Mizoram.
+
+(2) 4 [Any reference in Part I, Part II or Part III of the table below] to any district shall be construed as a reference to the territories comprised within the  autonomous  district  of  that  name  existing  immediately  before  the  day appointed  under  clause  ( b )  of  section  2  of  the  North-Eastern  Areas (Reorganisation) Act, 1971:
+
+Provided that for the purposes of clauses ( e ) and ( f ) of sub-paragraph (1) of  paragraph 3, paragraph 4, paragraph 5, paragraph 6, sub-paragraph (2), clauses ( a ), ( b ) and ( d ) of sub-paragraph (3) and sub-paragraph (4) of paragraph 8  and  clause  ( d )  of  sub-paragraph  (2)  of  paragraph  10  of  this  Schedule,  no part of the area comprised within the municipality of Shillong shall be deemed to  be  within the 5 [Khasi Hills District].
+
+2 [(3)  The  reference  in  Part  IIA  in  the  table  below  to  the ' Tripura Tribal Areas District ' shall be construed as a reference to the territory comprising the  tribal  areas  specified  in  the  First  Schedule  to  the  Tripura  Tribal  Areas Autonomous District Council Act, 1979.]
+
+##### TABLE
+
+###### PART I
+
+1. The North Cachar Hills District.
+
+2. 6 [The Karbi Anglong District.]
+
+7 [3. The Bodoland Territorial Areas District.]
+
+###### PART II
+
+5 [1. Khasi Hills District.
+
+2. Jaintia Hills District.]
+
+3. The Garo Hills District.
 
 > 1 Subs. by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 71( i )  and Eighth Sch., for paragraphs 20 and 20A (w.e.f. 21-1-1972).
 
@@ -11473,33 +11554,6 @@ THE CONSTITUTION OF INDIA
 
 > 7 Ins.  by  the  State  of  Assam  by  the  Sixth  Schedule  to  the  Constitution  (Amendment)  Act,  2003 (44 of 2003), s. 2.
 
-( Sixth Schedule )
-
-- Any direction given by the Governor under clause ( a ) of sub-paragraph (1)  of  this  paragraph may be given so as to have retrospective effect.
-
-- All  regulations  made  under  clause  ( b )  of  sub-paragraph  (1)  of  this paragraph shall be submitted forthwith to the President and, until assented to  by  him, shall have no effect.
-
-#### 1 [20. Tribal areas.
-(1) The areas specified in Parts I, II 2 [, IIA] and III of the table below shall respectively be the tribal areas within the State of Assam, the State of Meghalaya  2 [, the State of Tripura] and the  3 [State] of Mizoram.
-
-- 4 [Any reference in Part I, Part II or Part III of the table below] to any district shall be construed as a reference to the territories comprised within the  autonomous  district  of  that  name  existing  immediately  before  the  day appointed  under  clause  ( b )  of  section  2  of  the  North-Eastern  Areas (Reorganisation) Act, 1971:
-
-Provided that for the purposes of clauses ( e ) and ( f ) of sub-paragraph (1) of  paragraph 3, paragraph 4, paragraph 5, paragraph 6, sub-paragraph (2), clauses ( a ), ( b ) and ( d ) of sub-paragraph (3) and sub-paragraph (4) of paragraph 8  and  clause  ( d )  of  sub-paragraph  (2)  of  paragraph  10  of  this  Schedule,  no part of the area comprised within the municipality of Shillong shall be deemed to  be  within the 5 [Khasi Hills District].
-
-- 2 [(3)  The  reference  in  Part  IIA  in  the  table  below  to  the ' Tripura Tribal Areas District ' shall be construed as a reference to the territory comprising the  tribal  areas  specified  in  the  First  Schedule  to  the  Tripura  Tribal  Areas Autonomous District Council Act, 1979.]
-
-##### TABLE
-
-###### PART I
-
-- The North Cachar Hills District.
-
-- 6 [The Karbi Anglong District.]
-
-- 7 [3. The Bodoland Territorial Areas  District.]
-
-###### PART II
-
 [[END OF PAGE 344]]
 
 [[START OF PAGE 345]]
@@ -11508,13 +11562,21 @@ THE CONSTITUTION OF INDIA
 
 317
 
-2 ***
+( Sixth Schedule )
 
-3 [1.  The  Chakma District.
+###### 1 [PART IIA
 
-4 [2.  The  Mara District.
+Tripura Tribal Areas District.]
 
-3.  The Lai District.]]
+###### PART III
+
+2 * * *
+
+3 [1. The Chakma District.
+
+4 [2. The Mara District.
+
+3. The Lai District.]]
 
 #### 5 [20A. Dissolution of the Mizo District Council.
 (1) Notwithstanding anything in this Schedule, the District Council of the Mizo District existing immediately before the prescribed date (hereinafter referred to as the Mizo District Council) shall stand dissolved and cease to exist.
@@ -11538,14 +11600,6 @@ THE CONSTITUTION OF INDIA
 > 4 Subs.  by  the  Sixth  Schedule  to  the  Constitution  (Amendment) Act,  1988  (67  of  1988),  s.  2,  for  serial numbers 2 and 3 and the entries relating thereto.
 
 > 5 Subs.  by  the  Government  of  Union  Territories  (Amendment)  Act,  1971  (83  of  1971),  s.  13,  for paragraph 20A (w.e.f. 29-4-1972).
-
-( Sixth Schedule )
-
-###### 1 [PART IIA
-
-Tripura Tribal Areas District.]
-
-###### PART III
 
 [[END OF PAGE 345]]
 
@@ -11685,41 +11739,41 @@ the  State ' )  were  references  to  the  Union  territory  of  Mizoram  and re
 
 THE CONSTITUTION OF INDIA
 
-- War and peace.
-
-- Foreign jurisdiction.
-
-- Citizenship, naturalisation and aliens.
-
-- Extradition.
-
-- Admission into, and emigration and expulsion from, India; passports and visas.
-
-- Pilgrimages to places outside India.
-
-- Piracies and crimes committed on the high seas or in the air; offences against the law of nations committed on land or the high seas or in the air.
-
-- Railways.
-
-- Highways declared by or under law made by Parliament to be national highways.
-
-- Shipping and navigation on inland waterways, declared by Parliament by law to be national waterways, as regards mechanically propelled vessels; the rule of the road on such waterways.
-
-- Maritime shipping and navigation, including shipping and navigation on tidal waters; provision of education and training for the mercantile marine and regulation of such education and training provided by States and other agencies.
-
-- Lighthouses,  including  lightships,  beacons  and  other  provision  for the safety of shipping and aircraft.
-
-- Ports declared by or under law made by Parliament or existing law to be major ports, including their delimitation, and the constitution and powers of  port  authorities therein.
-
-- Port  quarantine,  including  hospitals  connected  therewith;  seamen's and marine hospitals.
-
-- Airways;  aircraft  and  air  navigation;  provision  of  aerodromes; regulation  and  organisation  of  air  traffic  and  of  aerodromes;  provision  for aeronautical  education  and  training  and  regulation  of  such  education  and training provided by States and other agencies.
-
-- Carriage of passengers and goods by railway, sea or air, or by national waterways in mechanically propelled vessels.
-
-- Posts  and  telegraphs;  telephones,  wireless,  broadcasting  and  other like  forms of communication.
-
 ( Seventh Schedule )
+
+15. War and peace.
+
+16. Foreign jurisdiction.
+
+17. Citizenship, naturalisation and aliens.
+
+18. Extradition.
+
+19. Admission into, and emigration and expulsion from, India; passports and visas.
+
+20. Pilgrimages to places outside India.
+
+21. Piracies and crimes committed on the high seas or in the air; offences against the law of nations committed on land or the high seas or in the air.
+
+22. Railways.
+
+23. Highways declared by or under law made by Parliament to be national highways.
+
+24. Shipping and navigation on inland waterways, declared by Parliament by law to be national waterways, as regards mechanically propelled vessels; the rule of the road on such waterways.
+
+25. Maritime shipping and navigation, including shipping and navigation on tidal waters; provision of education and training for the mercantile marine and regulation of such education and training provided by States and other agencies.
+
+26. Lighthouses,  including  lightships,  beacons  and  other  provision  for the safety of shipping and aircraft.
+
+27. Ports declared by or under law made by Parliament or existing law to be major ports, including their delimitation, and the constitution and powers of  port  authorities therein.
+
+28. Port  quarantine,  including  hospitals  connected  therewith;  seamen's and marine hospitals.
+
+29. Airways;  aircraft  and  air  navigation;  provision  of  aerodromes; regulation  and  organisation  of  air  traffic  and  of  aerodromes;  provision  for aeronautical  education  and  training  and  regulation  of  such  education  and training provided by States and other agencies.
+
+30. Carriage of passengers and goods by railway, sea or air, or by national waterways in mechanically propelled vessels.
+
+31. Posts  and  telegraphs;  telephones,  wireless,  broadcasting  and  other like  forms of communication.
 
 [[END OF PAGE 350]]
 
@@ -12931,35 +12985,35 @@ THE CONSTITUTION OF INDIA
 
 ( Ninth Schedule )
 
-- Amendments made to the Uttar Pradesh Zamindari Abolition and Land Reforms Act, 1950 (Uttar Pradesh Act I of 1951) by the Uttar Pradesh Land Laws (Amendment) Act, 1971 (Uttar Pradesh Act 21 of 1971) and the Uttar Pradesh Land Laws (Amendment) Act, 1974 (Uttar Pradesh Act 34 of 1974).
+179. Amendments made to the Uttar Pradesh Zamindari Abolition and Land Reforms Act, 1950 (Uttar Pradesh Act I of 1951) by the Uttar Pradesh Land Laws (Amendment) Act, 1971 (Uttar Pradesh Act 21 of 1971) and the Uttar Pradesh Land Laws (Amendment) Act, 1974 (Uttar Pradesh Act 34 of 1974).
 
-- The  Uttar  Pradesh  Imposition  of  Ceiling  on  Land  Holdings (Amendment) Act, 1976 (Uttar Pradesh Act 20 of 1976).
+180. The Uttar Pradesh Imposition of Ceiling on Land Holdings (Amendment) Act, 1976 (Uttar Pradesh Act 20 of 1976).
 
-- The  West  Bengal  Land  Reforms  (Second  Amendment)  Act,  1972 (West Bengal Act XXVIII of 1972).
+181. The West Bengal Land Reforms (Second Amendment) Act, 1972 (West Bengal Act XXVIII of 1972).
 
-- The West Bengal Restoration of Alienated Land Act, 1973 (West Bengal Act XXIII of 1973).
+182. The West Bengal Restoration of Alienated Land Act, 1973 (West Bengal Act XXIII of 1973).
 
-- The West Bengal Land Reforms (Amendment) Act, 1974 (West Bengal Act XXXIII of 1974).
+183. The West Bengal Land Reforms (Amendment) Act, 1974 (West Bengal Act XXXIII of 1974).
 
-- The West Bengal Land Reforms (Amendment) Act, 1975 (West Bengal Act XXIII of 1975).
+184. The West Bengal Land Reforms (Amendment) Act, 1975 (West Bengal Act XXIII of 1975).
 
-- The West Bengal Land Reforms (Amendment) Act, 1976 (West Bengal Act XII of 1976).
+185. The West Bengal Land Reforms (Amendment) Act, 1976 (West Bengal Act XII of 1976).
 
-- The  Delhi  Land  Holdings  (Ceiling)  Amendment  Act,  1976 (Central Act 15 of 1976).
+186. The Delhi Land Holdings (Ceiling) Amendment Act, 1976 (Central Act 15 of 1976).
 
-- The Goa, Daman and Diu Mundkars (Protection from Eviction) Act, 1975 (Goa, Daman and Diu Act 1 of 1976).
+187. The Goa, Daman and Diu Mundkars (Protection from Eviction) Act, 1975 (Goa, Daman and Diu Act 1 of 1976).
 
-- The  Pondicherry Land Reforms (Fixation of Ceiling on Land) Act, 1973 (Pondicherry Act 9 of 1974).]
+188. The Pondicherry Land Reforms (Fixation of Ceiling on Land) Act, 1973 (Pondicherry Act 9 of 1974).]
 
-- 1 [189.  The  Assam  (Temporarily  Settled  Areas)  Tenancy  Act,  1971 (Assam Act XXIII of 1971).
+1[189. The Assam (Temporarily Settled Areas) Tenancy Act, 1971 (Assam Act XXIII of 1971).
 
-- The Assam (Temporarily Settled Areas) Tenancy (Amendment) Act, 1974 (Assam Act XVIII of 1974).
+190. The Assam (Temporarily Settled Areas) Tenancy (Amendment) Act, 1974 (Assam Act XVIII of 1974).
 
-- The Bihar Land Reforms (Fixation of Ceiling Area and Acquisition of Surplus Land) (Amendment) Amending Act, 1974 (Bihar Act 13 of 1975).
+191. The Bihar Land Reforms (Fixation of Ceiling Area and Acquisition of Surplus Land) (Amendment) Amending Act, 1974 (Bihar Act 13 of 1975).
 
-- The Bihar Land Reforms (Fixation of Ceiling Area and Acquisition of  Surplus Land) (Amendment) Act, 1976 (Bihar Act 22 of 1976).
+192. The Bihar Land Reforms (Fixation of Ceiling Area and Acquisition of Surplus Land) (Amendment) Act, 1976 (Bihar Act 22 of 1976).
 
-- The Bihar Land Reforms (Fixation of Ceiling Area and Acquisition of  Surplus Land) (Amendment) Act, 1978 (Bihar Act VII of 1978).
+193. The Bihar Land Reforms (Fixation of Ceiling Area and Acquisition of Surplus Land) (Amendment) Act, 1978 (Bihar Act VII of 1978).
 
 1 Ins.  by  the  Constitution (Forty-seventh Amendment) Act, 1984, s. 2 (w.e.f. 26-8-1984).
 
@@ -12973,37 +13027,37 @@ THE CONSTITUTION OF INDIA
 
 ( Ninth Schedule )
 
-- The Land Acquisition (Bihar Amendment) Act, 1979 (Bihar Act 2 of 1980).
+194. The Land Acquisition (Bihar Amendment) Act, 1979 (Bihar Act 2 of 1980).
 
-- The  Haryana  Ceiling  on  Land  Holdings  (Amendment)  Act,  1977 (Haryana Act 14 of 1977).
+195. The Haryana Ceiling on Land Holdings (Amendment) Act, 1977 (Haryana Act 14 of 1977).
 
-- The  Tamil  Nadu  Land  Reforms  (Fixation  of  Ceiling  on  Land) Amendment Act, 1978 (Tamil Nadu Act 25 of 1978).
+196. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Amendment Act, 1978 (Tamil Nadu Act 25 of 1978).
 
-- The  Tamil  Nadu  Land  Reforms  (Fixation  of  Ceiling  on  Land) Amendment Act, 1979 (Tamil Nadu Act 11 of 1979).
+197. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Amendment Act, 1979 (Tamil Nadu Act 11 of 1979).
 
-- The  Uttar  Pradesh  Zamindari  Abolition  Laws  (Amendment)  Act, 1978 (Uttar Pradesh Act 15 of 1978).
+198. The Uttar Pradesh Zamindari Abolition Laws (Amendment) Act, 1978 (Uttar Pradesh Act 15 of 1978).
 
-- The West Bengal Restoration of Alienated Land (Amendment) Act, 1978 (West Bengal Act XXIV of 1978).
+199. The West Bengal Restoration of Alienated Land (Amendment) Act, 1978 (West Bengal Act XXIV of 1978).
 
-- The West Bengal Restoration of Alienated Land (Amendment) Act, 1980 (West Bengal Act LVI of 1980).
+200. The West Bengal Restoration of Alienated Land (Amendment) Act, 1980 (West Bengal Act LVI of 1980).
 
-- The  Goa,  Daman  and  Diu  Agricultural  Tenancy  Act,  1964  (Goa, Daman and Diu Act 7 of 1964).
+201. The Goa, Daman and Diu Agricultural Tenancy Act, 1964 (Goa, Daman and Diu Act 7 of 1964).
 
-- The Goa, Daman and Diu Agricultural Tenancy (Fifth Amendment) Act, 1976 (Goa, Daman and Diu Act 17 of 1976).]
+202. The Goa, Daman and Diu Agricultural Tenancy (Fifth Amendment) Act, 1976 (Goa, Daman and Diu Act 17 of 1976).]
 
-- 1 [203.  The Andhra Pradesh Scheduled Areas Land Transfer Regulation, 1959 (Andhra Pradesh Regulation 1 of 1959).
+1[203. The Andhra Pradesh Scheduled Areas Land Transfer Regulation, 1959 (Andhra Pradesh Regulation 1 of 1959).
 
-- The  Andhra  Pradesh  Scheduled  Areas  Laws  (Extension  and Amendment) Regulation, 1963 (Andhra Pradesh Regulation 2 of 1963).
+204. The Andhra Pradesh Scheduled Areas Laws (Extension and Amendment) Regulation, 1963 (Andhra Pradesh Regulation 2 of 1963).
 
-- The Andhra Pradesh Scheduled Areas Land Transfer (Amendment) Regulation, 1970 (Andhra Pradesh Regulation 1 of 1970).
+205. The Andhra Pradesh Scheduled Areas Land Transfer (Amendment) Regulation, 1970 (Andhra Pradesh Regulation 1 of 1970).
 
-- The Andhra Pradesh Scheduled Areas Land Transfer (Amendment) Regulation, 1971 (Andhra Pradesh Regulation 1 of 1971).
+206. The Andhra Pradesh Scheduled Areas Land Transfer (Amendment) Regulation, 1971 (Andhra Pradesh Regulation 1 of 1971).
 
-- The Andhra Pradesh Scheduled Areas Land Transfer (Amendment) Regulation, 1978 (Andhra Pradesh Regulation 1 of 1978).
+207. The Andhra Pradesh Scheduled Areas Land Transfer (Amendment) Regulation, 1978 (Andhra Pradesh Regulation 1 of 1978).
 
-- The Bihar Tenancy Act, 1885 (Bihar Act 8 of 1885).
+208. The Bihar Tenancy Act, 1885 (Bihar Act 8 of 1885).
 
-- The  Chota  Nagpur  Tenancy  Act,  1908  (Bengal  Act  6  of  1908) (Chapter VIII-sections 46, 47, 48, 48A and 49; Chapter X-sections 71, 71A and 71B; and Chapter XVIII-sections 240, 241 and 242).
+209. The Chota Nagpur Tenancy Act, 1908 (Bengal Act 6 of 1908) (Chapter VIII—sections 46, 47, 48, 48A and 49; Chapter X—sections 71, 71A and 71B; and Chapter XVIII—sections 240, 241 and 242).
 
 1 Entries 203 to 257 ins. by the Constitution (Sixty-sixth Amendment) Act, 1990, s. 2.
 
@@ -13035,7 +13089,7 @@ THE CONSTITUTION OF INDIA
 
 218. The Bombay Land Revenue (Gujarat Second Amendment) Act, 1980 (Gujarat Act 37 of 1980).
 
-- The Bombay Land Revenue Code and Land Tenure Abolition Laws (Gujarat Amendment) Act, 1982 (Gujarat Act 8 of 1982).
+219. The Bombay Land Revenue Code and Land Tenure Abolition Laws (Gujarat Amendment) Act, 1982 (Gujarat Act 8 of 1982).
 
 220.  The  Himachal  Pradesh  Transfer  of  Land  (Regulation)  Act,  1968 (Himachal Pradesh Act 15 of 1969).
 
@@ -13061,37 +13115,37 @@ THE CONSTITUTION OF INDIA
 
 ( Ninth Schedule )
 
-- The  Madhya  Pradesh Akrishik  Jot  Uchchatam  Seema Adhiniyam, 1981 (Madhya Pradesh Act 11 of 1981).
+227. The Madhya Pradesh Akrishik Jot Uchchatam Seema Adhiniyam, 1981 (Madhya Pradesh Act 11 of 1981).
 
-- The  Madhya  Pradesh  Ceiling  on  Agricultural  Holdings (Second Amendment) Act, 1976 (Madhya Pradesh Act 1 of 1984).
+228. The Madhya Pradesh Ceiling on Agricultural Holdings (Second Amendment) Act, 1976 (Madhya Pradesh Act 1 of 1984).
 
-- The Madhya Pradesh Ceiling on Agricultural Holdings (Amendment) Act, 1984 (Madhya Pradesh Act 14 of 1984).
+229. The Madhya Pradesh Ceiling on Agricultural Holdings (Amendment) Act, 1984 (Madhya Pradesh Act 14 of 1984).
 
-- The Madhya Pradesh Ceiling on Agricultural Holdings (Amendment) Act, 1989 (Madhya Pradesh Act 8 of 1989).
+230. The Madhya Pradesh Ceiling on Agricultural Holdings (Amendment) Act, 1989 (Madhya Pradesh Act 8 of 1989).
 
-- The Maharashtra Land Revenue Code, 1966 (Maharashtra Act 41 of 1966), sections 36, 36A and 36B.
+231. The Maharashtra Land Revenue Code, 1966 (Maharashtra Act 41 of 1966), sections 36, 36A and 36B.
 
-- The  Maharashtra  Land  Revenue  Code  and  the  Maharashtra Restoration  of  Lands  to  Scheduled  Tribes  (Second  Amendment)  Act,  1976 (Maharashtra Act 30 of 1977).
+232. The Maharashtra Land Revenue Code and the Maharashtra Restoration of Lands to Scheduled Tribes (Second Amendment) Act, 1976 (Maharashtra Act 30 of 1977).
 
-- The Maharashtra Abolition of Subsisting Proprietary Rights to Mines and Minerals in certain Lands Act, 1985 (Maharashtra Act 16 of 1985).
+233. The Maharashtra Abolition of Subsisting Proprietary Rights to Mines and Minerals in certain Lands Act, 1985 (Maharashtra Act 16 of 1985).
 
-- The  Orissa  Scheduled  Areas  Transfer  of  Immovable  Property (by Scheduled Tribes) Regulation, 1956 (Orissa Regulation 2 of 1956).
+234. The Orissa Scheduled Areas Transfer of Immovable Property (by Scheduled Tribes) Regulation, 1956 (Orissa Regulation 2 of 1956).
 
-- The  Orissa  Land  Reforms  (Second  Amendment)  Act,  1975 (Orissa Act 29 of 1976).
+235. The Orissa Land Reforms (Second Amendment) Act, 1975 (Orissa Act 29 of 1976).
 
-- The Orissa Land Reforms (Amendment) Act, 1976 (Orissa Act 30 of 1976).
+236. The Orissa Land Reforms (Amendment) Act, 1976 (Orissa Act 30 of 1976).
 
-- The  Orissa  Land  Reforms  (Second  Amendment)  Act,  1976 (Orissa Act 44 of 1976).
+237. The Orissa Land Reforms (Second Amendment) Act, 1976 (Orissa Act 44 of 1976).
 
-- The Rajasthan Colonisation (Amendment) Act, 1984 (Rajasthan Act 12 of 1984).
+238. The Rajasthan Colonisation (Amendment) Act, 1984 (Rajasthan Act 12 of 1984).
 
-- The Rajasthan Tenancy (Amendment) Act, 1984 (Rajasthan Act 13 of 1984).
+239. The Rajasthan Tenancy (Amendment) Act, 1984 (Rajasthan Act 13 of 1984).
 
-- The Rajasthan Tenancy (Amendment) Act, 1987 (Rajasthan Act 21 of 1987).
+240. The Rajasthan Tenancy (Amendment) Act, 1987 (Rajasthan Act 21 of 1987).
 
-- The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Second Amendment Act, 1979 (Tamil Nadu Act 8 of 1980).
+241. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Second Amendment Act, 1979 (Tamil Nadu Act 8 of 1980).
 
-- The  Tamil  Nadu  Land  Reforms  (Fixation  of  Ceiling  on  Land) Amendment Act, 1980 (Tamil Nadu Act 21 of 1980).
+242. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Amendment Act, 1980 (Tamil Nadu Act 21 of 1980).
 
 [[END OF PAGE 379]]
 
@@ -13143,35 +13197,35 @@ THE CONSTITUTION OF INDIA
 
 ( Ninth Schedule )
 
-1 [257A.  The  Tamil  Nadu  Backward  Classes,  Scheduled  Castes  and Scheduled  Tribes  (Reservation  of  Seats  in  Educational  Institutions  and  of appointments or posts in the Services under the State) Act, 1993 (Tamil Nadu Act 45 of 1994).]
+1[257A. The Tamil Nadu Backward Classes, Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of appointments or posts in the Services under the State) Act, 1993 (Tamil Nadu Act 45 of 1994).]
 
-- 2 [258.  The  Bihar  Privileged  Persons  Homestead  Tenancy  Act,  1947 (Bihar Act 4 of 1948).
+2[258. The Bihar Privileged Persons Homestead Tenancy Act, 1947 (Bihar Act 4 of 1948).
 
-- The Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956 (Bihar Act 22 of 1956).
+259. The Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956 (Bihar Act 22 of 1956).
 
-- The Bihar Consolidation of Holdings and Prevention of Fragmentation (Amendment) Act, 1970 (Bihar Act 7 of 1970).
+260. The Bihar Consolidation of Holdings and Prevention of Fragmentation (Amendment) Act, 1970 (Bihar Act 7 of 1970).
 
-- The Bihar Privileged Persons Homestead Tenancy (Amendment) Act, 1970 (Bihar Act 9 of 1970).
+261. The Bihar Privileged Persons Homestead Tenancy (Amendment) Act, 1970 (Bihar Act 9 of 1970).
 
-- The Bihar Consolidation of Holdings and Prevention of Fragmentation (Amendment) Act, 1973 (Bihar Act 27 of 1975).
+262. The Bihar Consolidation of Holdings and Prevention of Fragmentation (Amendment) Act, 1973 (Bihar Act 27 of 1975).
 
-- The Bihar Consolidation of Holdings and Prevention of Fragmentation (Amendment) Act, 1981 (Bihar Act 35 of 1982).
+263. The Bihar Consolidation of Holdings and Prevention of Fragmentation (Amendment) Act, 1981 (Bihar Act 35 of 1982).
 
-- The Bihar Land Reforms (Fixation of Ceiling Area and Acquisition of  Surplus Land) (Amendment) Act, 1987 (Bihar Act 21 of 1987).
+264. The Bihar Land Reforms (Fixation of Ceiling Area and Acquisition of Surplus Land) (Amendment) Act, 1987 (Bihar Act 21 of 1987).
 
-- The Bihar Privileged Persons Homestead Tenancy (Amendment) Act, 1989 (Bihar Act 11 of 1989).
+265. The Bihar Privileged Persons Homestead Tenancy (Amendment) Act, 1989 (Bihar Act 11 of 1989).
 
-- The  Bihar  Land  Reforms  (Amendment) Act,  1989  (Bihar Act  11  of 1990).
+266. The Bihar Land Reforms (Amendment) Act, 1989 (Bihar Act 11 of 1990).
 
-- The Karnataka Scheduled Castes and Scheduled Tribes (Prohibition of  Transfer  of  Certain  Lands)  (Amendment) Act,  1984  (Karnataka Act  3  of 1984).
+267. The Karnataka Scheduled Castes and Scheduled Tribes (Prohibition of Transfer of Certain Lands) (Amendment) Act, 1984 (Karnataka Act 3 of 1984).
 
-- The Kerala Land Reforms (Amendment) Act, 1989 (Kerala Act 16 of 1989).
+268. The Kerala Land Reforms (Amendment) Act, 1989 (Kerala Act 16 of 1989).
 
-- The  Kerala  Land  Reforms  (Second Amendment) Act,  1989  (Kerala Act 2 of 1990).
+269. The Kerala Land Reforms (Second Amendment) Act, 1989 (Kerala Act 2 of 1990).
 
-- The Orissa Land Reforms (Amendment) Act, 1989 (Orissa Act 9 of 1990).
+270. The Orissa Land Reforms (Amendment) Act, 1989 (Orissa Act 9 of 1990).
 
-- The Rajasthan Tenancy (Amendment) Act, 1979 (Rajasthan Act 16 of 1979).
+271. The Rajasthan Tenancy (Amendment) Act, 1979 (Rajasthan Act 16 of 1979).
 
 > 1 Ins.  by  the  Constitution (Seventy-sixth Amendment) Act, 1994, s. 2.
 
@@ -13187,33 +13241,33 @@ THE CONSTITUTION OF INDIA
 
 ( Ninth Schedule )
 
-- The Rajasthan Colonisation (Amendment) Act, 1987 (Rajasthan Act 2  of  1987).
+272. The Rajasthan Colonisation (Amendment) Act, 1987 (Rajasthan Act 2 of 1987).
 
-- The Rajasthan Colonisation (Amendment) Act, 1989 (Rajasthan Act 12 of 1989).
+273. The Rajasthan Colonisation (Amendment) Act, 1989 (Rajasthan Act 12 of 1989).
 
-- The  Tamil  Nadu  Land  Reforms  (Fixation  of  Ceiling  on  Land) Amendment Act, 1983 (Tamil Nadu Act 3 of 1984).
+274. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Amendment Act, 1983 (Tamil Nadu Act 3 of 1984).
 
-- The  Tamil  Nadu  Land  Reforms  (Fixation  of  Ceiling  on  Land) Amendment Act, 1986 (Tamil Nadu Act 57 of 1986).
+275. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Amendment Act, 1986 (Tamil Nadu Act 57 of 1986).
 
-- The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Second Amendment Act, 1987 (Tamil Nadu Act 4 of 1988).
+276. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Second Amendment Act, 1987 (Tamil Nadu Act 4 of 1988).
 
-- The  Tamil  Nadu  Land  Reforms  (Fixation  of  Ceiling  on  Land) (Amendment) Act, 1989 (Tamil Nadu Act 30 of 1989).
+277. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) (Amendment) Act, 1989 (Tamil Nadu Act 30 of 1989).
 
-- The West Bengal Land Reforms (Amendment) Act, 1981 (West Bengal Act 50 of 1981).
+278. The West Bengal Land Reforms (Amendment) Act, 1981 (West Bengal Act 50 of 1981).
 
-- The West Bengal Land Reforms (Amendment) Act, 1986 (West Bengal Act 5 of 1986).
+279. The West Bengal Land Reforms (Amendment) Act, 1986 (West Bengal Act 5 of 1986).
 
-- The  West  Bengal  Land  Reforms  (Second  Amendment)  Act,  1986 (West Bengal Act 19 of 1986).
+280. The West Bengal Land Reforms (Second Amendment) Act, 1986 (West Bengal Act 19 of 1986).
 
-- The  West  Bengal  Land  Reforms  (Third  Amendment)  Act,  1986 (West Bengal Act 35 of 1986).
+281. The West Bengal Land Reforms (Third Amendment) Act, 1986 (West Bengal Act 35 of 1986).
 
-- The West Bengal Land Reforms (Amendment) Act, 1989 (West Bengal Act 23 of 1989).
+282. The West Bengal Land Reforms (Amendment) Act, 1989 (West Bengal Act 23 of 1989).
 
-- The West Bengal Land Reforms (Amendment) Act, 1990 (West Bengal Act 24 of 1990).
+283. The West Bengal Land Reforms (Amendment) Act, 1990 (West Bengal Act 24 of 1990).
 
-- The West Bengal Land Reforms Tribunal Act, 1991 (West Bengal Act 12 of 1991).]
+284. The West Bengal Land Reforms Tribunal Act, 1991 (West Bengal Act 12 of 1991).]
 
-Explanation. -Any acquisition  made  under  the  Rajasthan  Tenancy  Act, 1955  (Rajasthan Act  III  of  1955),  in  contravention  of  the  second  proviso  to clause (1) of article 31A shall, to the extent of the contravention, be void.]
+Explanation.—Any acquisition made under the Rajasthan Tenancy Act, 1955 (Rajasthan Act III of 1955), in contravention of the second proviso to clause (1) of article 31A shall, to the extent of the contravention, be void.]
 
 [[END OF PAGE 382]]
 
@@ -13225,19 +13279,19 @@ Explanation. -Any acquisition  made  under  the  Rajasthan  Tenancy  Act, 1955  
 
 ### Provisions as to disqualification on ground of defection
 
-#### 1. Interpretation.
-In  this  Schedule,  unless  the  context  otherwise requires,-
+#### 1. Interpretation.—
+In this Schedule, unless the context otherwise requires,—
 
-( a ) ' House ' means  either  House  of  Parliament  or  the  Legislative Assembly  or,  as  the  case  may  be,  either  House  of  the  Legislature  of  a State;
+(a) “House” means either House of Parliament or the Legislative Assembly or, as the case may be, either House of the Legislature of a State;
 
-( b ) ' legislature party ' ,  in  relation to a member of a House belonging to any political party in accordance with the provisions of paragraph 2 or 2 ***  paragraph  4,  means  the  group  consisting  of  all  the  members  of that  House  for  the  time  being  belonging  to  that  political  party  in accordance with the said provisions;
+(b) “legislature party”, in relation to a member of a House belonging to any political party in accordance with the provisions of paragraph 2 or 2*** paragraph 4, means the group consisting of all the members of that House for the time being belonging to that political party in accordance with the said provisions;
 
-( c ) ' original political party ' , in relation to a member of a House, means the  political  party  to  which  he  belongs  for  the  purposes  of sub-paragraph (1) of paragraph 2;
+(c) “original political party”, in relation to a member of a House, means the political party to which he belongs for the purposes of sub-paragraph (1) of paragraph 2;
 
-( d ) ' paragraph ' means a paragraph of this Schedule.
+(d) “paragraph” means a paragraph of this Schedule.
 
-#### 2. Disqualification on ground of defection.
-(1) Subject to the provisions of 3 [paragraphs  4  and  5],  a  member  of  a  House  belonging  to  any  political party shall be disqualified for being a member of the House-
+#### 2. Disqualification on ground of defection.—
+(1) Subject to the provisions of 3[paragraphs 4 and 5], a member of a House belonging to any political party shall be disqualified for being a member of the House—
 
 ( a )  if  he  has  voluntarily  given  up  his  membership  of  such  political party; or
 
@@ -13261,37 +13315,29 @@ THE CONSTITUTION OF INDIA
 
 ( Tenth Schedule )
 
-Explanation .-For the purposes of this sub-paragraph,-
+Explanation.—For the purposes of this sub-paragraph,—
 
-( a )  an  elected  member of a House shall be deemed to belong to the political party, if any, by which he was set up as a candidate for election as such member;
+(a) an elected member of a House shall be deemed to belong to the political party, if any, by which he was set up as a candidate for election as such member;
 
-( b )  a  nominated member of a House shall,-
+(b) a nominated member of a House shall,—
 
-( i )  where he is a member of any political party on the date of his nomination  as  such  member,  be  deemed  to  belong  to  such  political party;
+(i) where he is a member of any political party on the date of his nomination as such member, be deemed to belong to such political party;
 
-( ii ) in any other case, be deemed to belong to the political party of which he becomes, or, as the case may be, first becomes, a member before the expiry of six months from the date on which he takes his seat after complying with the requirements of article 99 or, as the case may be, article 188.
+(ii) in any other case, be deemed to belong to the political party of which he becomes, or, as the case may be, first becomes, a member before the expiry of six months from the date on which he takes his seat after complying with the requirements of article 99 or, as the case may be, article 188.
 
 (2) An elected member of a House who has been elected as such otherwise than  as  a  candidate  set  up  by  any  political  party  shall  be  disqualified  for being a member of the House if he joins any political party after such election.
 
 (3)  A  nominated  member  of  a  House  shall  be  disqualified  for  being  a member of the House if he joins any political  party  after  the  expiry  of  six months from the date on which he takes his seat after complying with the requirements of article 99 or, as the case may be, article 188.
 
-(4)  Notwithstanding  anything  contained  in  the  foregoing  provisions  of this  paragraph,  a  person  who,  on  the  commencement  of  the  Constitution (Fifty-second Amendment) Act, 1985, is a member of a House (whether elected or nominated as such) shall,-
+(4) Notwithstanding anything contained in the foregoing provisions of this paragraph, a person who, on the commencement of the Constitution (Fifty-second Amendment) Act, 1985, is a member of a House (whether elected or nominated as such) shall,—
 
-( i ) where he was a member of political party immediately before such commencement,  be  deemed,  for  the  purposes  of  sub-paragraph  (1)  of this  paragraph,  to  have  been  elected  as  a  member  of  such  House  as  a candidate set up by such political party;
+(i) where he was a member of political party immediately before such commencement, be deemed, for the purposes of sub-paragraph (1) of this paragraph, to have been elected as a member of such House as a candidate set up by such political party;
 
-( ii )  in  any  other  case,  be  deemed  to  be  an  elected  member  of  the House who has been elected as such otherwise than as a candidate set up by  any  political  party  for  the  purposes  of  sub-paragraph  (2)  of  this paragraph or, as the case may be, be deemed to be a nominated member of  the  House for the purposes of sub-paragraph (3) of this paragraph.
+(ii) in any other case, be deemed to be an elected member of the House who has been elected as such otherwise than as a candidate set up by any political party for the purposes of sub-paragraph (2) of this paragraph or, as the case may be, be deemed to be a nominated member of the House for the purposes of sub-paragraph (3) of this paragraph.
 
-1 *
-
-*
-
-*
-
-*
+1* * * * *
 
 > 1 Paragraph 3 omitted by the Constitution (Ninety-first Amendment) Act, 2003, s. 5.
-
-*
 
 [[END OF PAGE 384]]
 
@@ -13303,28 +13349,28 @@ THE CONSTITUTION OF INDIA
 
 ( Tenth Schedule )
 
-#### 4. Disqualification  on  ground  of  defection  not  to  apply  in  case  of merger.
-(1)  A  member  of  a  House  shall  not  be  disqualified  under  subparagraph (1) of paragraph 2 where his original political party merges with another political party and he claims that he and any other members of his original political party-
+#### 4. Disqualification on ground of defection not to apply in case of merger.—
+(1) A member of a House shall not be disqualified under sub-paragraph (1) of paragraph 2 where his original political party merges with another political party and he claims that he and any other members of his original political party—
 
-( a ) have become members of such other political party or, as the case may be, of a new political party formed by such merger; or
+(a) have become members of such other political party or, as the case may be, of a new political party formed by such merger; or
 
-( b ) have not accepted the merger and opted to function as a separate group,
+(b) have not accepted the merger and opted to function as a separate group,
 
-and from the time of such merger, such other political party or new political party or group, as the case may be, shall be deemed to be the political party to  which  he  belongs  for  the  purposes  of  sub-paragraph  (1)  of  paragraph  2 and to be his original political party for the purposes of this sub-paragraph.
+and from the time of such merger, such other political party or new political party or group, as the case may be, shall be deemed to be the political party to which he belongs for the purposes of sub-paragraph (1) of paragraph 2 and to be his original political party for the purposes of this sub-paragraph.
 
-(2) For the purposes of sub-paragraph (1) of this paragraph, the merger of  the  original  political  party  of  a  member  of  a  House  shall  be  deemed  to have taken place if, and only if, not less than two-thirds of the members of the legislature party concerned have agreed to such merger.
+(2) For the purposes of sub-paragraph (1) of this paragraph, the merger of the original political party of a member of a House shall be deemed to have taken place if, and only if, not less than two-thirds of the members of the legislature party concerned have agreed to such merger.
 
-#### 5. Exemption.
-Notwithstanding anything contained in this Schedule, a person  who  has  been  elected  to  the  office  of  the  Speaker  or  the  Deputy Speaker of the House of the People or the Deputy Chairman of the Council of States or the Chairman or the Deputy Chairman of the Legislative Council of a State or the Speaker or the Deputy Speaker of the Legislative Assembly of  a  State,  shall  not  be  disqualified  under  this  Schedule,-
+#### 5. Exemption.—
+Notwithstanding anything contained in this Schedule, a person who has been elected to the office of the Speaker or the Deputy Speaker of the House of the People or the Deputy Chairman of the Council of States or the Chairman or the Deputy Chairman of the Legislative Council of a State or the Speaker or the Deputy Speaker of the Legislative Assembly of a State, shall not be disqualified under this Schedule,—
 
-( a ) if he, by reason of his election to such office, voluntarily gives up the membership of the political party to which he belonged immediately before such election and does not, so long as he continues to hold such office thereafter, rejoin that political party or become a member of another political party; or
+(a) if he, by reason of his election to such office, voluntarily gives up the membership of the political party to which he belonged immediately before such election and does not, so long as he continues to hold such office thereafter, rejoin that political party or become a member of another political party; or
 
-( b )  if  he,  having given up by reason of his election to such office his membership  of  the  political  party  to  which  he  belonged  immediately before such election, rejoins such political party after he ceases to hold such office.
+(b) if he, having given up by reason of his election to such office his membership of the political party to which he belonged immediately before such election, rejoins such political party after he ceases to hold such office.
 
-#### 6. Decision on questions as to disqualification on ground of defection.
-(1)  If  any  question  arises  as  to  whether  a  member  of  a  House  has  become subject to disqualification under this Schedule, the question shall be referred for the decision of the Chairman or, as the case may be, the Speaker of such House and his decision shall be final:
+#### 6. Decision on questions as to disqualification on ground of defection.—
+(1) If any question arises as to whether a member of a House has become subject to disqualification under this Schedule, the question shall be referred for the decision of the Chairman or, as the case may be, the Speaker of such House and his decision shall be final:
 
-Provided that where the question which has arisen is as to whether the Chairman  or  the  Speaker  of  a  House  has  become  subject  to  such
+Provided that where the question which has arisen is as to whether the Chairman or the Speaker of a House has become subject to such
 
 [[END OF PAGE 385]]
 
@@ -13340,23 +13386,23 @@ disqualification, the question shall be referred for the decision of such member
 
 (2) All proceedings under sub-paragraph (1) of this paragraph in relation to  any  question  as  to  disqualification  of  a  member  of  a  House  under  this Schedule shall be deemed to be proceedings in Parliament within the meaning of article 122 or, as the case may be, proceedings in the Legislature of a State within the meaning of article 212.
 
-#### *7. Bar  of  jurisdiction  of  courts.
-Notwithstanding  anything  in  this Constitution,  no  court  shall  have  any  jurisdiction  in  respect  of  any  matter connected  with  the  disqualification  of  a  member  of  a  House  under  this Schedule.
+#### *7. Bar of jurisdiction of courts.—
+Notwithstanding anything in this Constitution, no court shall have any jurisdiction in respect of any matter connected with the disqualification of a member of a House under this Schedule.
 
-#### 8. Rules.
-(1)  Subject  to  the  provisions  of  sub-paragraph  (2)  of  this paragraph,  the  Chairman  or  the  Speaker  of  a  House  may  make  rules  for giving effect to the provisions of this Schedule, and in particular, and without prejudice to the generality of the foregoing, such rules may provide for-
+#### 8. Rules.—
+(1) Subject to the provisions of sub-paragraph (2) of this paragraph, the Chairman or the Speaker of a House may make rules for giving effect to the provisions of this Schedule, and in particular, and without prejudice to the generality of the foregoing, such rules may provide for—
 
-( a )  the  maintenance  of  registers  or  other  records  as  to  the  political parties, if  any,  to  which different members of the House belong;
+(a) the maintenance of registers or other records as to the political parties, if any, to which different members of the House belong;
 
-( b )  the  report  which  the  leader  of  a  legislature  party  in  relation  to  a member of a House shall furnish with regard to any condonation of the nature  referred  to  in  clause  ( b )  of  sub-paragraph  (1)  of  paragraph  2  in respect  of  such  member,  the  time  within  which  and  the  authority  to whom such report shall be furnished;
+(b) the report which the leader of a legislature party in relation to a member of a House shall furnish with regard to any condonation of the nature referred to in clause (b) of sub-paragraph (1) of paragraph 2 in respect of such member, the time within which and the authority to whom such report shall be furnished;
 
-( c )  the  reports  which  a  political  party  shall  furnish  with  regard  to admission to such political party of any members of the House and the officer of the House to whom such reports shall be furnished; and
+(c) the reports which a political party shall furnish with regard to admission to such political party of any members of the House and the officer of the House to whom such reports shall be furnished; and
 
-( d )  the  procedure  for  deciding  any  question  referred  to  in  subparagraph  (1)  of  paragraph  6  including  the  procedure  for  any  inquiry which may be made for the purpose of deciding such question.
+(d) the procedure for deciding any question referred to in sub-paragraph (1) of paragraph 6 including the procedure for any inquiry which may be made for the purpose of deciding such question.
 
-(2)  The  rules  made  by  the  Chairman  or  the  Speaker  of  a  House  under sub-paragraph (1) of this paragraph shall be laid as soon as may be after they are  made before the House for a total period of thirty days which may be comprised in one session or in two or more successive sessions and shall take effect upon the expiry of the said period of thirty days unless they are sooner
+(2) The rules made by the Chairman or the Speaker of a House under sub-paragraph (1) of this paragraph shall be laid as soon as may be after they are made before the House for a total period of thirty days which may be comprised in one session or in two or more successive sessions and shall take effect upon the expiry of the said period of thirty days unless they are sooner
 
-* Paragraph 7 declared invalid  for  want  of  ratification  in  accordance  with  the  proviso  to  clause  (2)  of article  368  as  per  majority  opinion in Kihoto Hollohon Vs. Zachilhu and others (1992) 1 S.C.C. 309.
+* Paragraph 7 declared invalid for want of ratification in accordance with the proviso to clause (2) of article 368 as per majority opinion in Kihoto Hollohon Vs. Zachilhu and others (1992) 1 S.C.C. 309.
 
 [[END OF PAGE 386]]
 
@@ -13380,47 +13426,47 @@ approved with or without modifications or disapproved by the House and where the
 
 (Article 243G)
 
-- Agriculture, including agricultural extension.
+1. Agriculture, including agricultural extension.
 
-- Land  improvement,  implementation  of  land  reforms,  land consolidation and soil conservation.
+2. Land improvement, implementation of land reforms, land consolidation and soil conservation.
 
-- Minor irrigation, water management and watershed development.
+3. Minor irrigation, water management and watershed development.
 
-- Animal husbandry, dairying and poultry.
+4. Animal husbandry, dairying and poultry.
 
-- Fisheries.
+5. Fisheries.
 
-- Social forestry and farm forestry.
+6. Social forestry and farm forestry.
 
-- Minor forest produce.
+7. Minor forest produce.
 
-- Small scale industries, including food processing industries.
+8. Small scale industries, including food processing industries.
 
-- Khadi, village and cottage industries.
+9. Khadi, village and cottage industries.
 
-- Rural housing.
+10. Rural housing.
 
-- Drinking water.
+11. Drinking water.
 
-- Fuel and fodder.
+12. Fuel and fodder.
 
-- Roads,  culverts,  bridges,  ferries,  waterways  and  other  means  of communication.
+13. Roads, culverts, bridges, ferries, waterways and other means of communication.
 
-- Rural electrification, including distribution of electricity.
+14. Rural electrification, including distribution of electricity.
 
-- Non-conventional energy sources.
+15. Non-conventional energy sources.
 
-- Poverty alleviation programme.
+16. Poverty alleviation programme.
 
-- Education, including primary and secondary schools.
+17. Education, including primary and secondary schools.
 
-- Technical training and vocational education.
+18. Technical training and vocational education.
 
-- Adult and non-formal education.
+19. Adult and non-formal education.
 
-- Libraries.
+20. Libraries.
 
-- Cultural activities.
+21. Cultural activities.
 
 > 1 Added by the Constitution (Seventy-third Amendment) Act, 1992, s. 4 (w.e.f. 24-4-1993).
 
@@ -13434,23 +13480,23 @@ THE CONSTITUTION OF INDIA
 
 361
 
-- Markets and fairs.
-
-- Health  and  sanitation,  including  hospitals,  primary  health  centres and dispensaries.
-
-- Family welfare.
-
-- Women and child development.
-
-- Social  welfare,  including  welfare  of  the  handicapped  and  mentally retarded.
-
-- Welfare of  the  weaker  sections,  and  in  particular,  of  the  Scheduled Castes and the Scheduled Tribes.
-
-- Public distribution system.
-
-- Maintenance of community assets.]
-
 ( Eleventh Schedule )
+
+22. Markets and fairs.
+
+23. Health and sanitation, including hospitals, primary health centres and dispensaries.
+
+24. Family welfare.
+
+25. Women and child development.
+
+26. Social welfare, including welfare of the handicapped and mentally retarded.
+
+27. Welfare of the weaker sections, and in particular, of the Scheduled Castes and the Scheduled Tribes.
+
+28. Public distribution system.
+
+29. Maintenance of community assets.]
 
 [[END OF PAGE 389]]
 
@@ -13460,41 +13506,41 @@ THE CONSTITUTION OF INDIA
 
 (Article 243W)
 
-- Urban planning including town planning.
+1. Urban planning including town planning.
 
-- Regulation of land-use and construction of buildings.
+2. Regulation of land-use and construction of buildings.
 
-- Planning for economic and social development.
+3. Planning for economic and social development.
 
-- Roads and bridges.
+4. Roads and bridges.
 
-- Water supply for domestic, industrial and commercial purposes.
+5. Water supply for domestic, industrial and commercial purposes.
 
-- Public health, sanitation conservancy and solid waste management.
+6. Public health, sanitation conservancy and solid waste management.
 
-- Fire services.
+7. Fire services.
 
-- Urban  forestry,  protection  of  the  environment  and  promotion  of ecological aspects.
+8. Urban forestry, protection of the environment and promotion of ecological aspects.
 
-- Safeguarding  the  interests  of  weaker  sections  of  society,  including the handicapped and mentally retarded.
+9. Safeguarding the interests of weaker sections of society, including the handicapped and mentally retarded.
 
-- Slum improvement and upgradation.
+10. Slum improvement and upgradation.
 
-- Urban poverty alleviation.
+11. Urban poverty alleviation.
 
-- Provision  of  urban  amenities  and  facilities  such  as  parks,  gardens, playgrounds.
+12. Provision of urban amenities and facilities such as parks, gardens, playgrounds.
 
-- Promotion of cultural, educational and aesthetic aspects.
+13. Promotion of cultural, educational and aesthetic aspects.
 
-- Burials  and  burial  grounds;  cremations,  cremation  grounds;  and electric  crematoriums.
+14. Burials and burial grounds; cremations, cremation grounds; and electric crematoriums.
 
-- Cattle pounds; prevention of cruelty to animals.
+15. Cattle pounds; prevention of cruelty to animals.
 
-- Vital statistics including registration of births and deaths.
+16. Vital statistics including registration of births and deaths.
 
-- Public amenities including street lighting, parking lots, bus stops and public conveniences.
+17. Public amenities including street lighting, parking lots, bus stops and public conveniences.
 
-- Regulation of slaughter houses and tanneries.]
+18. Regulation of slaughter houses and tanneries.]
 
 > 1 Added by the Constitution (Seventy-fourth Amendment) Act, 1992, s. 4 (w.e.f. 1-6-1993).
 
@@ -13516,13 +13562,13 @@ In  exercise  of  the  powers  conferred  by  clause  (1)  of  article  370  of 
 
 (2) It shall come into force on the fourteenth day of May, 1954, and shall thereupon supersede the Constitution (Application to Jammu and Kashmir) Order, 1950.
 
-2. 2 [The provisions of the Constitution as in force on the 20th day of June, 1964  and  as  amended  by  the  Constitution  (Nineteenth  Amendment)  Act, 1966, the Constitution (Twenty-first Amendment) Act, 1967, section 5 of the Constitution (Twenty-third Amendment) Act, 1969, the Constitution (Twentyfourth  Amendment)  Act,  1971,  section  2  of  the  Constitution  (Twenty-fifth Amendment) Act, 1971, the Constitution (Twenty-sixth Amendment) Act, 1971, the Constitution (Thirtieth Amendment) Act, 1972, section 2 of the Constitution (Thirty-first  Amendment)  Act,  1973,  section  2  of  the  Constitution  (Thirtythird Amendment) Act, 1974, sections 2, 5, 6 and 7 of the Constitution (Thirtyeighth Amendment) Act, 1975, the Constitution (Thirty-ninth Amendment) Act, 1975, the Constitution (Fortieth Amendment) Act, 1976, sections 2, 3 and 6 of the Constitution (Fifty-second Amendment) Act, 1985 and the Constitution (Sixty-first Amendment) Act, 1988 which, in addition to article 1 and article 370,  shall  apply  in  relation  to  the  State  of  Jammu  and  Kashmir  and  the exceptions and modifications subject to which they shall so apply shall be as follows:-]
+2. 2[The provisions of the Constitution as in force on the 20th day of June, 1964 and as amended by the Constitution (Nineteenth Amendment) Act, 1966, the Constitution (Twenty-first Amendment) Act, 1967, section 5 of the Constitution (Twenty-third Amendment) Act, 1969, the Constitution (Twenty-fourth Amendment) Act, 1971, section 2 of the Constitution (Twenty-fifth Amendment) Act, 1971, the Constitution (Twenty-sixth Amendment) Act, 1971, the Constitution (Thirtieth Amendment) Act, 1972, section 2 of the Constitution (Thirty-first Amendment) Act, 1973, section 2 of the Constitution (Thirty-third Amendment) Act, 1974, sections 2, 5, 6 and 7 of the Constitution (Thirty-eighth Amendment) Act, 1975, the Constitution (Thirty-ninth Amendment) Act, 1975, the Constitution (Fortieth Amendment) Act, 1976, sections 2, 3 and 6 of the Constitution (Fifty-second Amendment) Act, 1985 and the Constitution (Sixty-first Amendment) Act, 1988 which, in addition to article 1 and article 370, shall apply in relation to the State of Jammu and Kashmir and the exceptions and modifications subject to which they shall so apply shall be as follows:—]
 
-#### (1)  THE PREAMBLE.
+#### (1) THE PREAMBLE.
 
-#### PART I.
+#### (2) PART I.
 
-To article 3, there shall be added the following further proviso, namely:-
+To article 3, there shall be added the following further proviso, namely:—
 
 ' Provided further that no Bill providing for increasing or diminishing the  area  of  the  State  of  Jammu  and  Kashmir  or  altering  the  name  or
 
@@ -13658,8 +13704,8 @@ THE CONSTITUTION OF INDIA
 
 (j) After article 35, the following new article shall be added, namely:-
 
-##### ' 35A. Saving of laws with respect to permanent residents and their rights.
-Notwithstanding anything contained in this Constitution, no existing law in force in the State of Jammu and Kashmir, and no law hereafter enacted by the Legislature of the State,-
+##### “35A. Saving of laws with respect to permanent residents and their rights.—
+Notwithstanding anything contained in this Constitution, no existing law in force in the State of Jammu and Kashmir, and no law hereafter enacted by the Legislature of the State,—
 
 (a) defining the classes of persons who are, or shall be, permanent residents of the State of Jammu and Kashmir; or
 
@@ -13693,7 +13739,7 @@ THE CONSTITUTION OF INDIA
 
 shall be void on the ground that it is inconsistent with or takes away or abridges  any  rights  conferred  on  the  other  citizens  of  India  by  any provision of this Part. ' .
 
-#### PART V.
+#### (5) PART V.
 
 1 [(a) For the purposes of article 55, the population of the State of Jammu and Kashmir shall be deemed to be sixty-three lakhs.
 
@@ -13723,7 +13769,7 @@ THE CONSTITUTION OF INDIA
 
 ( Appendix I )
 
-(a) The Delimitation Commission shall associate with itself for the purpose of assisting it in its duties in respect of the State, five persons who shall be members of the House of the People representing the State.
+(4) (a) The Delimitation Commission shall associate with itself for the purpose of assisting it in its duties in respect of the State, five persons who shall be members of the House of the People representing the State.
 
 (b) The persons to be so associated from the State shall be nominated by  the  Speaker  of  the  House  of  the  People  having  due  regard  to  the composition of the House.
 
@@ -13741,25 +13787,15 @@ THE CONSTITUTION OF INDIA
 
 2 [(e)] Articles 135, 3 ***  and 139 shall be omitted.
 
-4
+4* * * * *
 
-*
-
-> 1 Ins.  by  C.O. 98.
+> 1 Ins. by C.O. 98.
 
 > 2 Cls. (c) and (d) relettered as cls. (d) and (e), ibid.
 
-> 3 The figures '136' omitted by C.O. 60.
+> 3 The figures “136” omitted by C.O. 60.
 
-> 4 Cls. (f)  and (g) omitted by C.O. 56.
-
-*
-
-*
-
-*
-
-*
+> 4 Cls. (f) and (g) omitted by C.O. 56.
 
 [[END OF PAGE 396]]
 
@@ -13769,30 +13805,32 @@ THE CONSTITUTION OF INDIA
 
 369
 
+( Appendix I )
+
 #### 1 [(5A) PART VI.
 
-2 [(a) Articles 153 to 217, article 219, article 221, articles 223, 224, 224A and 225 and articles 227 to 237 shall be omitted.]
+2[(a) Articles 153 to 217, article 219, article 221, articles 223, 224, 224A and 225 and articles 227 to 237 shall be omitted.]
 
-(b)  In  article  220,  references  to  the  commencement  of  the  Constitution shall  be  construed  as  references  to  the  commencement  of  the  Constitution (Application to Jammu and Kashmir) Amendment Order, 1960.
+(b) In article 220, references to the commencement of the Constitution shall be construed as references to the commencement of the Constitution (Application to Jammu and Kashmir) Amendment Order, 1960.
 
-3 [(c)  In  article  222,  after  clause  (1),  the  following  new  clause  shall  be inserted, namely:-
+3[(c) In article 222, after clause (1), the following new clause shall be inserted, namely:—
 
-' (1A) Every such transfer from the High Court of Jammu and Kashmir or to that High Court shall be made after consultation with the Governor. ' .]]
+“(1A) Every such transfer from the High Court of Jammu and Kashmir or to that High Court shall be made after consultation with the Governor.”.]]
 
-#### (6)  PART XI.
+#### (6) PART XI.
 
-4 [(a)  In  article  246,  for  the  words,  brackets  and  figures ' clauses (2) and (3) ' occurring in clause (1), the word, brackets and figure ' clause (2) ' shall be substituted, and the words, brackets and figure ' Notwithstanding anything in clause (3), ' occurring in clause (2) and the whole of clauses (3) and (4) shall be omitted.]
+4[(a) In article 246, for the words, brackets and figures “clauses (2) and (3)” occurring in clause (1), the word, brackets and figure “clause (2)” shall be substituted, and the words, brackets and figure “Notwithstanding anything in clause (3),” occurring in clause (2) and the whole of clauses (3) and (4) shall be omitted.]
 
-5 [ 6 [(b) For article 248, the following article shall be substituted, namely:-
+5[6[(b) For article 248, the following article shall be substituted, namely:—
 
-##### ' 248. Residuary powers of legislation.
-- Parliament has exclusive power to  make any law with respect to-
+##### “248. Residuary powers of legislation.—
+Parliament has exclusive power to make any law with respect to—
 
-7 [(a) Prevention of activities involving terrorist acts directed towards overawing the Government as by law established or striking terror in the people or any section of the people or alienating any section of the people or adversely affecting the harmony amongst different sections of  the  people;]
+7[(a) Prevention of activities involving terrorist acts directed towards overawing the Government as by law established or striking terror in the people or any section of the people or alienating any section of the people or adversely affecting the harmony amongst different sections of the people;]
 
-8 [(aa)] 9 [Prevention of other activities] directed towards disclaiming, questioning or disrupting the sovereignty and territorial integrity of
+8[(aa)] 9[Prevention of other activities] directed towards disclaiming, questioning or disrupting the sovereignty and territorial integrity of
 
-> 1 Ins.  by  C.O. 60 (w.e.f. 26-1-1960).
+> 1 Ins. by C.O. 60 (w.e.f. 26-1-1960).
 
 > 2 Subs. by C.O. 89, for cl. (a).
 
@@ -13804,13 +13842,11 @@ THE CONSTITUTION OF INDIA
 
 > 6 Subs. by C.O. 93, for cl. (b).
 
-> 7 Ins.  by  C.O. 122.
+> 7 Ins. by C.O. 122.
 
-> 8 Cl.  (a)  relettered  as  cl.  (aa), ibid.
+> 8 Cl. (a) relettered as cl. (aa), ibid.
 
-> 9 Subs., ibid., for  'prevention of activities'.
-
-( Appendix I )
+> 9 Subs., ibid., for “prevention of activities”.
 
 [[END OF PAGE 397]]
 
@@ -13832,53 +13868,33 @@ India or bringing about cession of a part of the territory of India or secession
 
 (iii)  postal  articles,  including  money  orders,  phonograms  and telegrams. ' .]
 
-1 [ Explanation. -In this  article, ' terrorist  act ' means  any  act  or  thing  by using  bombs,  dynamite  or  other  explosive  substances  or  inflammable substances or firearms or other lethal weapons or poisons or noxious gases or other chemicals or any other substances (whether biological or otherwise) of  a  hazardous nature.]
+1[Explanation.—In this article, “terrorist act” means any act or thing by using bombs, dynamite or other explosive substances or inflammable substances or firearms or other lethal weapons or poisons or noxious gases or other chemicals or any other substances (whether biological or otherwise) of a hazardous nature.]
 
 2 [(bb) In article 249, in clause (1), for the words ' any matter enumerated in the State List specified in the resolution ' , the words ' any matter specified in the resolution, being a matter which is not enumerated in the Union List or in the Concurrent List ' shall be substituted.]]
 
 (c) In article 250, for the words ' to any of the matters enumerated in the State List ' , the words ' also to matters not enumerated in the Union List ' shall be substituted.
 
-3
+3* * * * *
 
-*
+(e) To article 253, the following proviso shall be added, namely:—
 
-*
+“Provided that after the commencement of the Constitution (Application to Jammu and Kashmir) Order, 1954, no decision affecting the disposition of the State of Jammu and Kashmir shall be made by the Government of India without the consent of the Government of that State.”.
 
-*
+4* * * * *
 
-*
+5[(f)] Article 255 shall be omitted.
 
-*
+5[(g)] Article 256 shall be re-numbered as clause (1) of that article, and the
 
-(e)  To  article  253,  the  following  proviso  shall  be  added, namely:-
-
-' Provided that after the commencement of the Constitution (Application to Jammu and Kashmir) Order, 1954, no decision affecting the disposition of the State of Jammu and Kashmir shall be made by the Government of India without the consent of the Government of that State. ' .
-
-4
-
-*
-
-*
-
-*
-
-- 5 [(f)] Article  255  shall  be  omitted.
-
-5 [(g)] Article 256 shall be re-numbered as clause (1) of that article, and the
-
-> 1 Ins.  by  C.O. 122.
+> 1 Ins. by C.O. 122.
 
 > 2 Subs. by C.O. 129, for cl. (bb).
 
 > 3 Cl. (d) omitted, ibid.
 
-> 4 Cl.  (f)  omitted  by  C.O.  66.
+> 4 Cl. (f) omitted by C.O. 66.
 
 > 5 Cls. (g) and (h) relettered as cls. (f) and (g), ibid.
-
-*
-
-*
 
 [[END OF PAGE 398]]
 
@@ -13888,79 +13904,49 @@ THE CONSTITUTION OF INDIA
 
 371
 
-*
-
 ( Appendix I )
 
-following new clause shall be added thereto, namely:-
+following new clause shall be added thereto, namely:—
 
-' (2) The State of Jammu and Kashmir shall so exercise its executive power as to facilitate the discharge by the Union of its duties and responsibilities under the Constitution in relation to that State; and in particular, the said State shall, if so required by the Union, acquire or requisition property on behalf and at the expense of the Union, or if the property belongs to the State,  transfer  it  to  the  Union  on  such  terms  as  may  be  agreed,  or  in default of agreement, as may be determined by an arbitrator appointed by the Chief Justice of India. ' .
+“(2) The State of Jammu and Kashmir shall so exercise its executive power as to facilitate the discharge by the Union of its duties and responsibilities under the Constitution in relation to that State; and in particular, the said State shall, if so required by the Union, acquire or requisition property on behalf and at the expense of the Union, or if the property belongs to the State, transfer it to the Union on such terms as may be agreed, or in default of agreement, as may be determined by an arbitrator appointed by the Chief Justice of India.”.
 
-1
+1* * * * *
 
-*
+2[(h)] In clause (2) of article 261, the words “made by Parliament” shall be omitted.
 
-*
+#### (7) PART XII.
 
-*
+3* * * * *
 
-*
+4[(a)] Clause (2) of article 267, article 273, clause (2) of article 283 5[and article 290] shall be omitted.
 
-*
+4[(b)] In articles 266, 282, 284, 298, 299 and 300, references to the State or States shall be construed as not including references to the State of Jammu and Kashmir.
 
-2 [(h)]  In  clause  (2)  of  article  261,  the  words ' made by Parliament ' shall be omitted.
+4[(c)] In articles 277 and 295, references to the commencement of the Constitution shall be construed as references to the commencement of this order.
 
-#### (7)  PART XII.
+#### (8) PART XIII.
 
-3
+6*** In clause (1) of article 303, the words “by virtue of any entry relating to trade and commerce in any of the Lists in the Seventh Schedule” shall be omitted.
 
-*
+6* * * * *
 
-*
+#### (9) PART XIV.
 
-*
+7[In article 312, after the words “the States”, the brackets and words “(including the State of Jammu and Kashmir)” shall be inserted.]
 
-*
+> 1 Cl. (i) omitted by C.O. 56.
 
-- 4 [(a)]  Clause (2) of article 267, article 273, clause (2) of article 283 5 [and article  290]  shall  be  omitted.
-
-- 4 [(b)] In articles 266, 282, 284, 298, 299 and 300, references to the State or States shall be construed as not including references to the State of Jammu and Kashmir.
-
-- 4 [(c)]  In  articles  277  and  295,  references  to  the  commencement  of  the Constitution  shall  be  construed  as  references  to  the  commencement  of  this order.
-
-#### (8)  PART XIII.
-
-- 6 *** In clause (1) of article 303, the words ' by virtue of any entry relating to trade and commerce in any of the Lists in the Seventh Schedule ' shall be omitted.
-
-6
-
-*
-
-#### (9)  PART XIV.
-
-7 [In  article  312,  after  the  words ' the  States ' ,  the  brackets  and  words ' (including the State of Jammu and Kashmir) ' shall be inserted.]
-
-> 1 Cl.  (i)  omitted  by  C.O.  56.
-
-> 2 Cl.  (j)  relettered  as  cl.  (i)  by  C.O.  56  and  again  relettered  as  cl.  (h)  by  C.O.  66.
+> 2 Cl. (j) relettered as cl. (i) by C.O. 56 and again relettered as cl. (h) by C.O. 66.
 
 > 3 Cls. (a) and (b) inserted by C.O. 55 have been omitted by C.O. 56.
 
-> 4 Cls. (a), (b) and (c) [relettered as cls. (c), (d) and (e) respectively by C.O. 55] have again been relettered as cls.  (a),  (b)  and  (c)  respectively  by  C.O.  56.
+> 4 Cls. (a), (b) and (c) [relettered as cls. (c), (d) and (e) respectively by C.O. 55] have again been relettered as cls. (a), (b) and (c) respectively by C.O. 56.
 
-> 5 Subs. by C.O. 94, for 'articles 290 and 291'.
+> 5 Subs. by C.O. 94, for “articles 290 and 291”.
 
-> 6 Brackets and letter '(a)' and cl. (b) omitted by C.O. 56.
+> 6 Brackets and letter “(a)” and cl. (b) omitted by C.O. 56.
 
 > 7 Subs., ibid., for the previous modification.
-
-*
-
-*
-
-*
-
-*
 
 [[END OF PAGE 399]]
 
@@ -13970,63 +13956,53 @@ following new clause shall be added thereto, namely:-
 
 THE CONSTITUTION OF INDIA
 
-#### 1 [(10)  PART XV.
+( Appendix I )
+
+#### 1 [(10) PART XV.
 
 (a) In clause (1) of article 324, the reference to the Constitution shall, in relation to elections to either House of the Legislature of Jammu and Kashmir, be construed as a reference to the Constitution of Jammu and Kashmir.
 
-- 2 [(b)  In  articles  325,  326,  327  and  329,  the  reference  to  a  State  shall  be construed as not including a reference to the State of Jammu and Kashmir.
+2[(b) In articles 325, 326, 327 and 329, the reference to a State shall be construed as not including a reference to the State of Jammu and Kashmir.
 
 (c) Article 328 shall be omitted.]
 
-(d) In article 329, the words and figures ' or article 328 ' shall be omitted.]]
+(d) In article 329, the words and figures “or article 328” shall be omitted.]]
 
-- 3 [(e)  In  article  329A,  clauses  (4)  and  (5)  shall  be  omitted.]
+3[(e) In article 329A, clauses (4) and (5) shall be omitted.]
 
-#### PART XVI.
+#### (11) PART XVI.
 
-4
+4* * * * *
 
-*
+5[(a)] Articles 331, 332, 333, 6[336 and 337] shall be omitted.
 
-*
+5[(b)] In articles 334 and 335, references to the State or the States shall be construed as not including references to the State of Jammu and Kashmir.
 
-*
+7[(c) In clause (1) of article 339, the words “the administration of the Scheduled Areas and” shall be omitted.]
 
-*
+#### (12) PART XVII.
 
-*
+The provisions of the Part shall apply only in so far as they relate to—
 
-5 [(a)] Articles 331, 332, 333,  6 [336 and 337] shall be omitted.
-
-- 5 [(b)] In articles 334 and 335, references to the State or the States shall be construed as not including references to the State of Jammu and Kashmir.
-
-- 7 [(c)  In  clause  (1)  of  article  339,  the  words ' the  administration  of  the Scheduled Areas and ' shall be omitted.]
-
-#### PART XVII.
-
-The provisions of the Part shall apply only in so far as they relate to-
-
-(i)  the  official  language  of  the  Union;
+(i) the official language of the Union;
 
 (ii) the official language for communication between one State and another, or between a State and the Union; and
 
-(iii)  the  language of the proceedings in the Supreme Court.
+(iii) the language of the proceedings in the Supreme Court.
 
 > 1 Subs. by C.O. 60, for sub-paragraph (10) (w.e.f. 26-1-1960).
 
 > 2 Subs. by C.O. 75, for cls. (b) and (c).
 
-> 3 Ins.  by  C.O. 105.
+> 3 Ins. by C.O. 105.
 
-> 4 Cl.  (a)  omitted by C.O. 124.
+> 4 Cl. (a) omitted by C.O. 124.
 
 > 5 Cls. (b) and (c) relettered as cls. (a) and (b), ibid.
 
-> 6 Subs., ibid .,  for  '336,  337,  339  and  342'.
+> 6 Subs., ibid., for “336, 337, 339 and 342”.
 
 > 7 Ins., ibid.
-
-( Appendix I )
 
 [[END OF PAGE 400]]
 
@@ -14035,6 +14011,8 @@ The provisions of the Part shall apply only in so far as they relate to-
 THE CONSTITUTION OF INDIA
 
 373
+
+(Appendix I)
 
 #### (13) PART XVIII.
 
@@ -14056,9 +14034,9 @@ THE CONSTITUTION OF INDIA
 
 #### (14) PART XIX.
 ---
-6 * * * *
+6 * * * * *
 7 [(a)] 8 [Article 365] shall be omitted.
-9 * * * *
+9 * * * * *
 
 > 1 Subs. by C.O. 104, for '(4)'.
 
@@ -14078,7 +14056,7 @@ THE CONSTITUTION OF INDIA
 
 > 9 Original cl. (c) omitted by C.O. 56.
 
-( Appendix I )
+
 
 [[END OF PAGE 401]]
 
@@ -14140,7 +14118,7 @@ THE CONSTITUTION OF INDIA
 
 ( Appendix I )
 
-Provided  that  in  respect  of  any  period  prior  to  the  10th  day  of April,  1965,  such  references  shall  be  construed  as  references  to  the person recognised by the President as the Sadar-i-Riyasat of Jammu and Kashmir and as including references to any person recognised by the President as being competent to exercise the powers of the Sadari-Riyasat.] ' .
+Provided  that  in  respect  of  any  period  prior  to  the  10th  day  of April,  1965,  such  references  shall  be  construed  as  references  to  the person recognised by the President as the Sadar-i-Riyasat of Jammu and Kashmir and as including references to any person recognised by the President as being competent to exercise the powers of the Sadar-i-Riyasat.] ' .
 
 #### (15) PART XX.
 
@@ -14182,6 +14160,8 @@ shall have any effect unless such law has, after having been reserved for the co
 
 THE CONSTITUTION OF INDIA
 
+(Appendix I)
+
 (b)  In  article  372-
 
 (i)  clauses  (2)  and  (3)  shall  be  omitted;
@@ -14201,6 +14181,10 @@ Articles 394 and 395 shall be omitted.
 #### (19) SECOND SCHEDULE.
 
 1
+
+*
+
+*
 
 *
 
@@ -14232,11 +14216,7 @@ Forms V, VI, VII and VIII shall be omitted.
 
 > 5 The words and figures 'the words 'and records' in entry 67' omitted by C.O. 95.
 
-( Appendix I )
 
-*
-
-*
 
 [[END OF PAGE 404]]
 
@@ -14246,11 +14226,13 @@ THE CONSTITUTION OF INDIA
 
 377
 
-1 *
+(Appendix I)
+
+1
 
 *
 
-( Appendix I )
+*
 
 *
 
@@ -14328,6 +14310,12 @@ THE CONSTITUTION OF INDIA
 
 *
 
+*
+
+*
+
+*
+
 > 1 Subs. by C.O. 69, for cl. (c).
 
 > 2 Subs. by C.O. 70, for item (i).
@@ -14337,12 +14325,6 @@ THE CONSTITUTION OF INDIA
 > 4 Subs. by C.O. 122, for sub-clauses (ia) and (ib).
 
 > 5 Items (ii) and (iii) omitted by C.O. 74.
-
-*
-
-*
-
-*
 
 [[END OF PAGE 406]]
 
@@ -14355,6 +14337,8 @@ THE CONSTITUTION OF INDIA
 ( Appendix I )
 
 1 [ 2 [(ii)]  for  entry  30,  the  entry  '30.  Vital  statistics  in  so  far  as  they relate to births and deaths including registration of births and deaths.' shall be substituted;]
+
+3 * * * * *
 
 4 [(iii) entry 3, entries 5 to 10 (both inclusive), entries 14, 15, 17, 20, 21, 27,  28,  29,  31,  32,  37,  38,  41  and  44  shall  be  omitted;
 
@@ -14373,6 +14357,8 @@ THE CONSTITUTION OF INDIA
 8 [64B.] The Jammu and Kashmir Tenancy Act (No. II of Svt. 1980).
 
 8 [64C.] The Jammu and Kashmir Alienation of Land Act (No. V of Svt. 1995).
+
+9 * * * * *
 
 10 [64D.]  The  Jammu  and  Kashmir  Big  Landed  Estates Abolition Act (No. XVII of Svt. 2007).
 
@@ -14492,7 +14478,7 @@ THE CONSTITUTION OF INDIA
 
 having so migrated to the territory now included in Pakistan, returns to the territory of that State under a permit for resettlement in that State or permanent return issued by or under the authority of any law made by the Legislature of that State, and every such person shall be deemed to be a citizen of India. '
 
-#### PART III.
+#### (4) PART III.
 
 (a) Article 13.- References to the commencement of the Constitution shall be construed as references to the commencement of the Constitution (Application to Jammu and Kashmir) Order, 1954 (C.O. 48), i.e., the 14th day of May, 1954.
 
@@ -14526,6 +14512,8 @@ having so migrated to the territory now included in Pakistan, returns to the ter
 
 ( g ) After article 30, insert the following, namely:-
 
+#### ' Right to Property
+
 ##### 31. Compulsory acquisition of property.
 (1) No person shall be deprived of his property save by authority of law.
 
@@ -14538,12 +14526,6 @@ having so migrated to the territory now included in Pakistan, returns to the ter
 THE CONSTITUTION OF INDIA
 
 383
-
-( i ) Article 31A.-
-
-( A )  In  clause  (1),-
-
-( i )  for ' article  14  or  article  19 ' ,  substitute ' article  14,  article  19  or article  31 ' ;
 
 ( Appendix II )
 
@@ -14561,7 +14543,11 @@ Provided  that  in  making  any  law  providing  for  the  compulsory acquisitio
 
 *
 
-- Nothing in clause (2) shall affect-
+*
+
+*
+
+(5) Nothing in clause (2) shall affect-
 
 ( a )  the  provisions of any existing law; or
 
@@ -14581,15 +14567,17 @@ Provided  that  in  making  any  law  providing  for  the  compulsory acquisitio
 
 *
 
+*
+
 ( h ) After article 31, omit the following sub-heading, namely:-
 
 ' Saving of Certain Laws '
 
-*
+( i ) Article 31A.-
 
-*
+( A )  In  clause  (1),-
 
-*
+( i )  for ' article  14  or  article  19 ' ,  substitute ' article  14,  article  19  or article  31 ' ;
 
 [[END OF PAGE 411]]
 
@@ -14678,7 +14666,7 @@ This  part  is  not  applicable  to  the  State  of  Jammu  and Kashmir.
 #### (6)  PART  IVA.-
 This  part  is  not  applicable  to  the  State  of  Jammu  and Kashmir.
 
-#### PART V.
+#### (7) PART V.
 
 ( a ) Article 55.-
 
@@ -14793,6 +14781,8 @@ THE CONSTITUTION OF INDIA
 
 389
 
+( Appendix II )
+
 ( d ) Article 226.-
 
 (A) Renumber clause (2) as clause (1A);
@@ -14832,7 +14822,7 @@ This  part  is  not  applicable  to  the  State  of  Jammu  and Kashmir.
 
 ( ii )  inland air travel;
 
-( Appendix II )
+
 
 [[END OF PAGE 417]]
 
@@ -14846,7 +14836,7 @@ THE CONSTITUTION OF INDIA
 
 ( iii ) postal articles, including money orders, phonograms and telegrams.
 
-Explanation.In this article, ' terrorist act ' means any act or thing by  using  bombs,  dynamite  or  other  explosive  substances  or inflammable substances or firearms or other lethal weapons or poisons or noxious gases or other chemicals or any other substances (whether biological or otherwise) of a hazardous nature.'.
+Explanation.—In this article, ' terrorist act ' means any act or thing by  using  bombs,  dynamite  or  other  explosive  substances  or inflammable substances or firearms or other lethal weapons or poisons or noxious gases or other chemicals or any other substances (whether biological or otherwise) of a hazardous nature.'.
 
 ( bb ) Article 249, in clause (1), for ' any matter enumerated in the State List  specified  in  the  resolution ' ,  substitute ' any matter specified in the resolution, being a matter which is not enumerated in the Union List or in  the  Concurrent List ' .
 
@@ -14922,6 +14912,8 @@ This part is not applicable to the State of Jammu and Kashmir.
 
 THE CONSTITUTION OF INDIA
 
+( Appendix II )
+
 #### (17) PART XVI.
 
 Original clause (a) omitted and clauses (b) and (c) relettered as clauses (a)  and (b).
@@ -14958,7 +14950,7 @@ The provisions of this Part shall apply to the State of Jammu and Kashmir only i
 
 Provided that if any such Proclamation is issued at a time when the House of the People has been dissolved or the dissolution of the House  of  the  People  takes  place  during  the  period  of  two  months referred  to  in  sub-clause  (c),  and  if  a  resolution  approving  the Proclamation  has  been  passed  by  the  Council  of  States  but  no
 
-( Appendix II )
+
 
 [[END OF PAGE 420]]
 
@@ -15510,19 +15502,19 @@ THE CONSTITUTION OF INDIA
 
 ( Annexure )
 
-(v) Haripal/Khutadah/Battoli/Sapameri/LNpur (Patari) (NaogaonMalda) area
+(v) Haripal/Khutadah/Battoli/Sapameri/LNpur (Patari) (Naogaon-Malda) area
 
 The boundary shall be drawn as line joining from existing Boundary Pillar No. 242/S/13, to Boundary Pillar No. 243/7-S/ 5  and as jointly surveyed and agreed in June, 2011.
 
 ( vi ) Berubari (Panchagarh-Jalpaiguri area)
 
-The boundary in the area Berubari (Panchagarh-Jalpaiguri) adversely  held  by  Bangladesh,  and  Berubari  and  SinghaparaKhudipara (Panchagarh-Jalpaiguri), adversely held by India shall be drawn as jointly demarcated during 1996-1998.
+The boundary in the area Berubari (Panchagarh-Jalpaiguri) adversely held by Bangladesh, and Berubari and Singhapara-Khudipara (Panchagarh-Jalpaiguri), adversely held by India shall be drawn as jointly demarcated during 1996-1998.
 
 (b)  Meghalaya Sector
 
 (i) Lobachera-Nuncherra
 
-The boundary from existing Boundary Pillar No. 1315/4-S to  Boundary  Pillar  No.  1315/15-S  in  Lailong  -  Balichera, Boundary Pillar No. 1316/1-S to Boundary Pillar No. 1316/11S in Lailong- Noonchera, Boundary Pillar No. 1317 to Boundary Pillar  No.  1317/13-S  in  Lailong-  Lahiling  and  Boundary  Pillar No.  1318/1-S  to  Boundary  Pillar  No.  1318/2-S  in  LailongLobhachera shall be drawn to follow the edge of tea gardens as jointly  surveyed and agreed in December, 2010.
+The boundary from existing Boundary Pillar No. 1315/4-S to Boundary Pillar No. 1315/15-S in Lailong - Balichera, Boundary Pillar No. 1316/1-S to Boundary Pillar No. 1316/11-S in Lailong- Noonchera, Boundary Pillar No. 1317 to Boundary Pillar No. 1317/13-S in Lailong- Lahiling and Boundary Pillar No. 1318/1-S to Boundary Pillar No. 1318/2-S in Lailong-Lobhachera shall be drawn to follow the edge of tea gardens as jointly surveyed and agreed in December, 2010.
 
 (ii)  Pyrdiwah/Padua Area
 
@@ -15530,13 +15522,13 @@ The boundary shall be drawn from existing Boundary Pillar No. 1270/1-S as per jo
 
 (iii)  Lyngkhat  Area
 
-(aa) Lyngkhat-I/Kulumcherra and Lyngkhat-11/ Kulumcherra
+(aa) Lyngkhat-I/Kulumcherra and Lyngkhat-II/ Kulumcherra
 
 The  boundary  shall  be  drawn  from  existing  Boundary Pillar No. 1264/4-S to Boundary Pillar No. 1265 and BP No. 1265/6-S to 1265/9-S as per jointly surveyed and mutually agreed line.
 
 (ab)  Lyngkhat-III/Sonarhat
 
-The  boundary  shall  be  drawn  from  existing  Boundary Pillar No. 1266/13-S along the nallah southwards till it meets another nallah in the east-west direction, thereafter it shall run along the northern edge of the nallah in east till it meets the existing International Boundary north of Reference Pillar Nos. l267/4-R-B and 1267/3-R-I.
+The boundary shall be drawn from existing Boundary Pillar No. 1266/13-S along the nallah southwards till it meets another nallah in the east-west direction, thereafter it shall run along the northern edge of the nallah in east till it meets the existing International Boundary north of Reference Pillar Nos. 1267/4-R-B and 1267/3-R-I.
 
 [[END OF PAGE 436]]
 
@@ -15590,15 +15582,16 @@ The boundary shall be drawn from existing Boundary Pillar No.  1370/3-S  to  137
 
 THE CONSTITUTION OF INDIA
 
-##### III.  LIST  OF  EXCHANGE  OF  ENCLAVES  BETWEEN  INDIA  AND BANGLADESH IN PURSUANT TO ARTICLE 1 (12) OF THE AGREEMENT DATED 16TH MAY, 1974 AND THE PROTOCOL TO THE AGREEMENT DATED 6TH SEPTEMBER, 2011
 ( Annexure )
+
+##### III.  LIST  OF  EXCHANGE  OF  ENCLAVES  BETWEEN  INDIA  AND BANGLADESH IN PURSUANT TO ARTICLE 1 (12) OF THE AGREEMENT DATED 16TH MAY, 1974 AND THE PROTOCOL TO THE AGREEMENT DATED 6TH SEPTEMBER, 2011
 
 ###### A. EXCHANGEABLE  INDIAN  ENCLAVES  IN  BANGLADESH  WITH AREA
 
 Sl. No. | Name of Chhits | Chhit No. | Lying within Police station Bangladesh | Lying within Police station W. Bengal | Area in acres
 --- | --- | --- | --- | --- | ---
 1 | 2 | 3 | 4 | 5 | 6
-###### A. Enclaves with independent
+###### A. Enclaves with independent chhits
 1. | Garati | 75 | Pochagar | Haldibari | 58.23
 2. | Garati | 76 | Pochagar | Haldibari | 0.79
 3. | Garati | 77 | Pochagar | Haldibari | 18
@@ -15644,7 +15637,7 @@ THE CONSTITUTION OF INDIA
 30. | Nataktoka | 32 | Boda | Haldibari | 162.26
 31. | Nataktoka | 33 | Boda | Haldibari | 0.26
 32. | Beuladanga Chhat | 35 | Boda | Haldibari | 0.83
-33. | Balapara Iagrabar | 3 | Debiganj | Haldibari | 1752.44
+33. | Balapara Khagrabari | 3 | Debiganj | Haldibari | 1752.44
 34. | Bara Khankikharija Citaldaha | 30 | Dimla | Haldibari | 7.71
 35. | Bara Khankikharija Citaldaha | 29 | Dimla | Haldibari | 36.83
 36. | Barakhangir | 28 | Dimla | Haldibari | 30.53
@@ -15758,15 +15751,15 @@ THE CONSTITUTION OF INDIA
 
 1 | 2 | 3 | 4 | 5 | 6
 --- | --- | --- | --- | --- | ---
-108. | l chhit* without name & JL No. at the southern and of JL No. 38 & southern and of JL No. 39 (locally known as Ashokabari**) | Patgram | Mathabhanga | 3.5
-###### Enclaves | with | Fragmented Chhits
+108. | 1 chhit* without name & JL No. at the southern end of JL No. 38 & southern end of JL No. 39 (locally known as Ashokabari**) |  | Patgram | Mathabhanga | 3.5
+###### B. Enclaves with Fragmented Chhits
 109. | (i) Bewladanga | 34 | Haldibari | Boda | 862.46
 (ii) Bewladanga | Fragment | Haldibari | Debiganj
 110. | (i) Kotbhajni | 2 | Haldibari | Debiganj | 2012.27
 (ii) Kotbhajni | Fragment | Haldibari | Debiganj
 (iii) Kotbhajni | Fragment | Haldibari | Debiganj
 (iv) Kotbhajni | Fragment | Haldibari | Debiganj
-111. | (i) Dahala | Khagrabri | Haldibari | Debiganj | 2650.35
+111. | (i) Dahala Khagrabari | 1 | Haldibari | Debiganj | 2650.35
 (ii) Dahala | Fragment | Haldibari | Debiganj
 (iii) Dahala | Fragment | Haldibari | Debiganj
 (iv) Dahala | Fragment | Haldibari | Debiganj
@@ -15774,7 +15767,7 @@ THE CONSTITUTION OF INDIA
 (vi) Dahala | Fragment | Haldibari | Debiganj
 17160.63
 
-The  above  given  details  of  enclaves  have  been  jointly  compared  and reconciled  with  records  held  by  India  and  Bangladesh  during  the  IndoBangladesh Conference held at Calcutta during 9th-12th October, 1996 as well as during joint field inspection at Jalpaiguri (West Bengal) Panchagarh (Bangladesh) sector during 21-24 November, 1996.
+The above given details of enclaves have been jointly compared and reconciled with records held by India and Bangladesh during the Indo-Bangladesh Conference held at Calcutta during 9th-12th October, 1996 as well as during joint field inspection at Jalpaiguri (West Bengal) Panchagarh (Bangladesh) sector during 21-24 November, 1996.
 
 Note: Name of enclave in Sl. No. 108 above has been identified as Ashokabari by joint ground verification during field season 1996-97.
 
@@ -15871,25 +15864,25 @@ THE CONSTITUTION OF INDIA
 ( Annexure )
 
 1 | 2 | 3 | 4 | 5 | 6
---- | --- | --- | --- | --- | --- | ---
-43. | (i) | Chhit Nalgram | Sitalkuchi | Patgarm | 66 | 49.5
-(ii) | Chhit Nalgram (Fragment) | Sitalkuchi | Patgarm | 66
-44. | (i) | Batrigachh | Dinhata | Kaliganj | 81 | 577.37
-(ii) | Batrigachh (Fragment) | Dinhata | Kaliganj | 81
-(iii) | Batrigachh (Fragment) | Dinhata | Phulbari | 9
-45. | (i) | Karala | Dinhata | Phulbari | 9 | 269.91
-(ii) | Karala (fragment) | Dinhata | Phulbari | 9
-(iii) | Karala (fragment) | Dinhata | Phulbari | 8
-46. | (i) | Sipprasad Mustati | Dinhata | Phulbari | 8 | 373.2
-(ii) | Sipprasad Mustati (Fragment) | Dinhata | Phulbari | 6
-47. | (i) | Dakshin Masaldanga | Dinhata | Bhurungamari | 6 | 571.38
-(ii) | Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
-(iii) | Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
-(iv) | Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
-(v) | Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
-(vi) | Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
-48. | (i) | Paschim Masaldanga | Dinhata | Bhurungamari | 4 | 29.49
-(ii) | Paschim Masaldanga (Fragment) | Dinhata | Bhurungamari | 4
+--- | --- | --- | --- | --- | ---
+43. | (i) Chhit Nalgram | Sitalkuchi | Patgarm | 66 | 49.5
+(ii) Chhit Nalgram (Fragment) | Sitalkuchi | Patgarm | 66
+44. | (i) Batrigachh | Dinhata | Kaliganj | 81 | 577.37
+(ii) Batrigachh (Fragment) | Dinhata | Kaliganj | 81
+(iii) Batrigachh (Fragment) | Dinhata | Phulbari | 9
+45. | (i) Karala | Dinhata | Phulbari | 9 | 269.91
+(ii) Karala (fragment) | Dinhata | Phulbari | 9
+(iii) Karala (fragment) | Dinhata | Phulbari | 8
+46. | (i) Sipprasad Mustati | Dinhata | Phulbari | 8 | 373.2
+(ii) Sipprasad Mustati (Fragment) | Dinhata | Phulbari | 6
+47. | (i) Dakshin Masaldanga | Dinhata | Bhurungamari | 6 | 571.38
+(ii) Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
+(iii) Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
+(iv) Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
+(v) Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
+(vi) Dakshin Masaldanga (Fragment) | Dinhata | Bhurungamari | 6
+48. | (i) Paschim Masaldanga | Dinhata | Bhurungamari | 4 | 29.49
+(ii) Paschim Masaldanga (Fragment) | Dinhata | Bhurungamari | 4
 
 [[END OF PAGE 445]]
 
@@ -15903,16 +15896,16 @@ THE CONSTITUTION OF INDIA
 
 1 | 2 | 3 | 4 | 5 | 6
 --- | --- | --- | --- | --- | ---
-49. (i) | Purba Chhit Masaldanga | Dinhata | Bhurungamari | 10 | 35.01
-(ii) Purba Chhit | Dinhata | Bhurungamari | 10
-50. (i) | Purba Masaldanga | Dinhata | Bhurungamari | 11 | 153.89
-(ii) Purba | Dinhata | Bhurungamari | 11
-51. (i) | Uttar Dhaldanga | Tufanganj | Bhurungamari | 14 | 24.98
-(ii) | Uttar Dhaldanga (Fragment) | Tufanganj | Bhurungamari | 14
-(iii) | Uttar Dhaldanga (Fragment) | Tufanganj | Bhurungamari | 14
+49. | (i) Purba Chhit Masaldanga | Dinhata | Bhurungamari | 10 | 35.01
+(ii) Purba Chhit Masaldanga (Fragment) | Dinhata | Bhurungamari | 10
+50. | (i) Purba Masaldanga | Dinhata | Bhurungamari | 11 | 153.89
+(ii) Purba Masaldanga (Fragment) | Dinhata | Bhurungamari | 11
+51. | (i) Uttar Dhaldanga | Tufanganj | Bhurungamari | 14 | 24.98
+(ii) Uttar Dhaldanga (Fragment) | Tufanganj | Bhurungamari | 14
+(iii) Uttar Dhaldanga (Fragment) | Tufanganj | Bhurungamari | 14
 Total Area | 7,110.02
 
-The  above  given  details  of  enclaves  have  been  jointly  compared  and reconciled  with  records  held  by  India  and  Bangladesh  during  the  IndoBangladesh Conference held at Calcutta during 9th-12th October, 1996 as well as during joint field inspection at Jalpaiguri (West Bengal) - Panchagarh (Bangladesh) sector during 21-24 November, 1996.
+The above given details of enclaves have been jointly compared and reconciled with records held by India and Bangladesh during the Indo-Bangladesh Conference held at Calcutta during 9th-12th October, 1996 as well as during joint field inspection at Jalpaiguri (West Bengal) - Panchagarh (Bangladesh) sector during 21-24 November, 1996.
 
 Brig. J.R.  Peter Director Land Records & Survey ( Ex-Officio )  West  Bengal, India & Director, Eastern Circle Survey of India, Calcutta.
 
@@ -15928,13 +15921,84 @@ Md. Shafi Uddin Director General, Land Records and Surveys, Bangladesh.
 
 [[START OF PAGE 448]]
 
-INDEX
+421
 
-### A
+INDEX
 
 ARTICLE/SCHEDULE
 
-421
+### A
+
+ABOLITION of privy purses ................................................................... 363A.
+
+ACCOUNTS—
+Form of—of the Union and States ................................................. 150.
+
+ACQUISITION—
+of estates, etc., saving of laws providing for ............................... 31A.
+of property, compulsory ................................................................... Sch. VII, List III-42.
+amount for—of any property of an educational institution
+established and administered by a minority ......................... 30(1A).
+
+ACTS—
+Validation of certain—and Regulations ........................................ 31B, Sch. IX.
+
+ADAPTATION OF LAWS—See PRESIDENT.
+
+ADMINISTRATION OF JUSTICE ........................................................... Sch. VII, List III-11A.
+
+ADMINISTRATIVE RELATIONS between the Union and States ...... 256—262.
+
+ADMINISTRATOR—
+appointment of—for Union territory ............................................. 239(1).
+power of—of Union territory to promulgate Ordinances ......... 239B.
+
+ADMINISTRATOR-GENERAL ................................................................ Sch. VII, List III-11.
+
+ADMIRALTY jurisdiction ......................................................................... Sch. VII, List I-95.
+
+ADOPTION ................................................................................................. Sch. VII, List III-5.
+
+ADULTERATION OF FOODSTUFFS, ETC. ......................................... Sch. VII, List III-18.
+
+ADULT SUFFRAGE—See ELECTIONS.
+
+ADVISORY BOARD—See PREVENTIVE DETENTION.
+
+ADVOCATE-GENERAL—
+appointment of ................................................................................... 165(1).
+duties of ............................................................................................... 165(2).
+qualifications for appointment of ................................................... 165(1).
+remuneration, etc., of ........................................................................ 165(3).
+right of—to take part in proceedings of State Legislature ....... 177.
+term of office of ................................................................................. 165(3).
+
+AERODROMES .......................................................................................... Sch. VII, List I-29.
+definition of ........................................................................................ 364(2).
+regulation and organisation of air traffic and of ........................ Sch. VII, List I-29.
+special provision as to extension of laws to ................................ 364(1).
+
+AERONAUTICAL EDUCATION, ETC. ................................................. Sch. VII, List I-29.
+
+AGRICULTURAL INCOME, definition of ............................................ 366(1).
+
+AGRICULTURAL INDEBTEDNESS, relief of ...................................... Sch. VII, List II-30.
+
+AGRICULTURE .......................................................................................... Sch. VII, List II-14.
+
+AGRICULTURE AND ANIMAL HUSBANDRY,
+organisation of ................................................................................... 48.
+
+ALIENS ...................................................................................................... Sch. VII, List I-17.
+
+ALL-INDIA SERVICES—See SERVICES.
+
+AMMUNITION—See ARMS.
+
+ANCIENT AND HISTORICAL MONUMENTS AND
+RECORDS .............................................................................................. Sch. VII, List I-67.
+
+ANDAMAN AND NICOBAR ISLANDS, territory of........................ Sch. I.
 
 [[END OF PAGE 448]]
 
@@ -15946,300 +16010,1492 @@ INDEX
 
 ARTICLE/SCHEDULE
 
+ANDHRA PRADESH—
+allocation of seats in the Council of States to ............................. Sch. IV.
+establishment of Central University in ......................................... 371E.
+Legislative Council for ..................................................................... 168.
+special provision for the Legislative Assembly of ...................... 378A.
+special provisions with respect to the State of............................ 371D.
+State of ................................................................................................. Sch. I.
+
+ANGLO-INDIANS—
+definition of ........................................................................................ 366(2).
+educational grants for benefit of .................................................... 337.
+special provisions for :—
+appointment of—to certain services ...................................... 336.
+nomination of—to the House of the People ....................... 331.
+representation of—in State Legislative Assembly .............. 333.
+special representation of—to cease after 70 years .............. 334.
+
+ANIMALS—
+prevention of cruelty to ................................................................... Sch. VII, List III-17.
+protection of wild—and birds ......................................................... Sch. VII, List III-17B.
+
+ANNUAL FINANCIAL STATEMENT—
+before Parliament ............................................................................... 112.
+before State Legislature .................................................................... 202.
+
+ARBITRATION ........................................................................................... Sch. VII, List III-13.
+
+ARCHAEOLOGICAL SITES AND REMAINS—
+of national importance ..................................................................... Sch. VII, List I-67.
+Others ................................................................................................... Sch. VII, List III-40.
+
+ARMED FORCES—
+court or tribunal constituted under law relating to—High
+Court has no power of superintendence over .................... 227(4).
+deployment of armed forces or other forces of—, in any
+State in aid of the civil power ............................................... Sch. VII, List I-2A.
+Fundamental Rights : Parliament may restrict or abrogate, in
+their application to ................................................................... 33.
+Judgment, determination, sentence or order of court or
+tribunal constituted under law relating to—Supreme
+Court has no power to interfere ............................................ 136(2).
+of Union .............................................................................................. Sch. VII, List I-2.
+
+ARMS, FIREARMS, AMMUNITION AND EXPLOSIVES ................. Sch. VII, List I-5.
+
+ARTICLE, definition of ............................................................................. 366(3).
+
+ARUNACHAL PRADESH—
+allocation of seats in the Council of States to ............................. Sch. IV.
+special provision with respect to the State of ............................. 371H.
+territory of ........................................................................................... Sch. I.
+
+ASSAM—
+allocation of seats in the Council of States to ............................. Sch. IV.
+formation of an autonomous State in ........................................... 244A.
+special provision with respect to the State of ............................. 371B.
+State of ................................................................................................. Sch. I.
+
+ASSOCIATIONS, literary, scientific and religious ............................... Sch. VII, List II-32.
+
 [[END OF PAGE 449]]
 
 [[START OF PAGE 450]]
 
+423
+
 INDEX
 
 ARTICLE/SCHEDULE
 
-423
+ATOMIC ENERGY .................................................................................... Sch. VII, List I-6.
+
+ATTORNEY-GENERAL—
+appointment of ................................................................................... 76(1).
+duties of ............................................................................................... 76(2).
+right of audience in all courts of ................................................... 76(3).
+right of—to take part in proceedings in Parliament .................. 88.
+salary and allowances, etc., of ........................................................ 76(4).
+
+AUDIT OF UNION AND STATE ACCOUNTS ................................... Sch. VII, List I-76.
+
+AUDITOR-GENERAL—See COMPTROLLER AND
+AUDITOR-GENERAL.
+
+### B
+
+BACKWARD CLASSES—
+Commission to investigate the conditions of .............................. 340.
+making of special provisions for the advancement of .............. 15(4).
+reservation of appointments, etc., for............................................ 16(4).
+
+BANKING.................................................................................................... Sch. VII, List I-45.
+
+BANKING CORPORATIONS .................................................................. Sch. VII, List I-43.
+
+BANKRUPTCY AND INSOLVENCY ..................................................... Sch. VII, List III-9.
+
+BEACONS .................................................................................................... Sch. VII, List I-26.
+
+BETTING AND GAMBLING ................................................................... Sch. VII, List II-34.
+
+BHARAT—See INDIA.
+
+BIHAR—
+allocation of seats in the Council of States to ............................. Sch. IV.
+Legislative Council for ..................................................................... 168.
+State of ................................................................................................. Sch. I.
+
+BILLS—
+affecting taxation in which States are interested, prior
+recommendation of President ................................................. 274.
+appropriation—
+in Parliament .............................................................................. 114.
+in State Legislature ................................................................... 204.
+assent to—
+by Governor ............................................................................... 200.
+by President ............................................................................... 111.
+financial—
+special provisions as to—
+in Parliament ..................................................................... 117.
+in State Legislature ........................................................... 207.
+introduction, passing and lapsing of—
+in joint sitting ............................................................................ 100 & 108.
+in Parliament .............................................................................. 107.
+in State Legislature ................................................................... 196.
+Money—in Parliament—
+definition of ................................................................................ 110.
+procedure in respect of ............................................................ 109.
 
 [[END OF PAGE 450]]
 
 [[START OF PAGE 451]]
-
 424
-
 INDEX
-
 ARTICLE/SCHEDULE
-
-#### BILLScontd
-
-.
-
+#### BILLS—contd.
+Money—in State Legislature—
+definition of ........................................................................................ 199.
+procedure in respect of .................................................................... 198.
+reservation of—by Governor for President .................................. 201.
+BILLS OF EXCHANGE—cheques, promissory notes, etc. ................ Sch. VII, List I-46.
+BIRTHS AND DEATHS ............................................................................ Sch. VII, List III-30.
+BOILERS ...................................................................................................... Sch. VII, List III-37.
+BONA VACANTIA, right to property accruing as .............................. 296.
+BOOKS ......................................................................................................... Sch. VII, List III-39.
+BORROWING, definition of .................................................................... 366(4).
+See also FINANCE.
+BORSTAL INSTITUTIONS ....................................................................... Sch. VII, List II-4.
+BRIDGES AND FERRIES .......................................................................... Sch. VII, List II-13.
+BROADCASTING ...................................................................................... Sch. VII, List I-31.
+BURIALS AND BURIAL GROUNDS .................................................... Sch. VII, List II-10.
+### C
+CANALS ...................................................................................................... Sch. VII, List II-17.
+CANTONMENTS ....................................................................................... Sch. VII, List I-3.
+CARRIAGE OF PASSENGERS AND GOODS—
+by air, rail or sea ............................................................................... Sch. VII, List I-30.
+on inland waterways ........................................................................ Sch. VII, List III-32.
+CASES, TRANSFER OF—
+relating to same question of law .................................................... 139A.
+CENSUS ....................................................................................................... Sch. VII, List I-69.
+CERTIORARI
+power of High Court to issue ........................................................ 226.
+CHANDIGARH, territory of ................................................................... Sch. I.
+CHARITIES ................................................................................................. Sch. VII, List III-28.
+CHHATTISGARH—
+allocation of seats in the Council of States to ............................. Sch. IV.
+State of .............................................................................................. Sch. I.
+CHIEF JUSTICE—
+of High Court—See HIGH COURT.
+of Supreme Court—See SUPREME COURT.
+CHIEF MINISTER—
+appointment of ................................................................................... 164.
+Council of Ministers,—is head of .................................................. 163.
+duty of—to furnish information, etc., to Governor .................... 167.
+CHILDREN—
+employment of—See FUNDAMENTAL RIGHTS.
+free and compulsory education for—State to provide .............. 45.
+CINEMAS .................................................................................................... Sch. VII, List II-33.
+CINEMATOGRAPH FILMS—
+sanction of—for exhibition .............................................................. Sch. VII, List I-60.
+CITIZENS OF INDIA, persons voluntarily acquiring citizenship
+of a foreign State, not to be ............................................................ 9.
+CITIZENSHIP ............................................................................................. Sch. VII, List I-17.
+at the commencement of the Constitution ................................. 5.
+Parliament to regulate—by law ...................................................... 11.
+right of—
+continuance of ............................................................................ 10.
 [[END OF PAGE 451]]
 
 [[START OF PAGE 452]]
-
 INDEX
-
 ARTICLE/SCHEDULE
-
 425
-
-#### CITIZENSHIPcontd .
-
+#### CITIZENSHIP—contd.
+of migrants from Pakistan ....................................................... 6.
+of migrants to Pakistan ............................................................ 7.
+of persons of Indian origin residing outside India ............ 8.
+CIVIL CODE, uniform for all citizens ................................................... 44.
+CIVIL PROCEDURE .................................................................................. Sch. VII, List III-13.
+CLAUSE, definition of .............................................................................. 366(5).
+COLLECTIVE RESPONSIBILITY ............................................................ 75(3).
+COLONIZATION ....................................................................................... Sch. VII, List II-18.
+COMMERCE—See TRADE, COMMERCE, ETC.
+COMMERCIAL MONOPOLIES, combines and trusts ....................... Sch. VII, List III-21.
+COMMUNICATIONS—
+Posts and Telegraphs, etc. ................................................................ Sch. VII, List I-31.
+roads, municipal tramways, etc. ..................................................... Sch. VII, List II-13.
+COMPTROLLER AND AUDITOR-GENERAL ..................................... Sch. VII, List I-75.
+administrative expenses of—to be charged on the Consolidated
+Fund of India ............................................................................. 148(6).
+appointment of ................................................................................... 148(1).
+audit reports by ................................................................................. 151.
+conditions of service, etc., of ........................................................... 148(5).
+duties and powers of ........................................................................ 149.
+ineligibility for future appointment of .......................................... 148(4).
+oath of office by ................................................................................. 148(2).
+power of—to give direction re: manner of keeping accounts .... 150.
+removal from office of ...................................................................... 148(1).
+salary, etc., of ...................................................................................... 148(3), Sch. II, Pt. E.
+transitional period, special provisions as to ................................ 377.
+CONCURRENT LIST ................................................................................ Sch. VII, List III.
+CONSOLIDATED FUND—
+of India—See FINANCE.
+of States—See FINANCE.
+CONSTITUTION OF INDIA, the—
+amendment of—power of Parliament to amend—and
+procedure therefor .................................................................... 368.
+authoritative text of—, in the Hindi language ............................ 394A.
+commencement of ............................................................................. 394.
+interpretation of—, Provisions of General Clauses Act to
+apply to ....................................................................................... 367.
+Short title ............................................................................................. 393.
+CONSULAR REPRESENTATION ........................................................... Sch. VII, List I-11.
+CONTEMPT OF COURT—
+of courts other than the Supreme Court ...................................... Sch. VII, List III-14.
+power of State to make laws relating to ...................................... 19(2).
+See also HIGH COURT and SUPREME COURT.
+CONTINENTAL SHELF—
+things lying in territorial waters or—vest in the Union ........... 297.
+CONTINGENCY FUND—See FINANCE.
+CONTRACTS—
+by the Union or States to be made in the name of the
+President or Governor .............................................................. 299.
+other than those relating to agricultural land ............................. Sch. VII, List III-7.
 [[END OF PAGE 452]]
 
 [[START OF PAGE 453]]
-
 426
-
 INDEX
-
 ARTICLE/SCHEDULE
-
+CO-OPERATIVE SOCIETIES—
+application to multi-state ................................................................. 243ZR.
+application to Union territories ...................................................... 243ZS.
+as state subject ................................................................................... Sch. VII, List II-32.
+audit of accounts of .......................................................................... 243ZM.
+convening of general body meetings of ....................................... 243ZN.
+incorporation, regulation and winding up of .............................. 243ZI.
+promotion of ....................................................................................... 43B.
+to form (as a citizen’s right) ............................................................ 19.
+CO-OPERATIVE SOCIETIES ................................................................... Sch. VII, List II-32.
+CO-ORDINATION between States ......................................................... 263.
+COPYRIGHT .............................................................................................. Sch. VII, List I-49.
+CORPORATIONS—
+incorporation, regulation and winding up—
+of trading—, including banking, insurance and
+financial .............................................................................. Sch. VII, List I-43.
+of—, whether trading or not, with objects not confined
+to one State ........................................................................ Sch. VII, List I-44.
+of—, other than above, and universities .............................. Sch. VII, List II-32.
+municipal ............................................................................................. Sch. VII, List II-5.
+CORPORATION TAX, definition of ....................................................... 366(6).
+See also FINANCE.
+CORRESPONDING—
+Province, Indian State, State, etc., definition of .......................... 366(7).
+COTTAGE INDUSTRIES, State to promote .......................................... 43.
+COUNCIL OF MINISTERS—
+for States—
+advice to Governor by—. No court to enquire into .......... 163(3).
+Chief Minister—See CHIEF MINISTER.
+collective responsibility of ....................................................... 164(2).
+functions of ................................................................................. 163(1).
+Ministers—
+appointment of .......................................................................... 164(1).
+oath of office and secrecy by .................................................. 164(3).
+right of—to take part in the proceedings of either House ...... 177.
+salaries, etc., of .......................................................................... 164(5), Sch. VII,
+List II-40.
+total number of—including Chief Minister not to
+exceed fifteen per cent. of the total members ..................... 164(1A).
+for the Union—
+advice to President by—. No court to enquire into ............ 74(2).
+collective responsibility of ...................................................... 75(3).
+functions of ................................................................................ 74.
+Ministers—
+appointment of .......................................................................... 75(1).
+oath of office and secrecy by .................................................. 75(4).
+qualifications for the office of ................................................ 75(5).
+right of—to take part in proceedings of either House ..... 88.
+salaries, etc., of .......................................................................... 75(6), Sch. VII,
+List I-75.
+total number of—including Prime Minister not to exceed
+fifteen per cent. of the total number of Members of the
+House of the People ................................................................. 75(1A).
+Prime Minister—See PRIME MINISTER.
 [[END OF PAGE 453]]
 
 [[START OF PAGE 454]]
-
 INDEX
-
 427
-
 ARTICLE/SCHEDULE
-
+COUNCIL OF STATES—
+allocation of seats in ......................................................................... 80(2), Sch. IV.
+Chairman of—
+not to preside while a resolution for his removal is under
+consideration ...................................................................... 92.
+salaries, etc., of ................................................................................... 97, Sch. II, Part C,
+Sch. VII, List I-73.
+Vice-President of India to be ex officio .......................................... 64, 89(1).
+composition of ..................................................................................... 80.
+decision of—by majority .................................................................. 100(1).
+Deputy Chairman of—
+acts for Chairman ..................................................................... 91.
+choosing of ................................................................................. 89(2).
+not to preside while a resolution for his removal is
+under consideration ......................................................... 92.
+removal from office of ............................................................. 90(c).
+resignation of office by ............................................................ 90(b).
+salaries, etc., of .......................................................................... 97, Sch. II, Part C,
+Sch. VII, List I-73.
+vacation of office by ................................................................. 90(a).
+vote, casting ............................................................................... 100.
+duration of ......................................................................................... 83(1).
+quorum for a meeting of ................................................................. 100(3) & (4).
+rules of procedure ............................................................................. 118.
+secretarial staff of .............................................................................. 98(1).
+See also PARLIAMENT.
+COURTS—
+additional—, creation of ................................................................... 247.
+continuance of functions .................................................................. 375.
+jurisdiction and powers of—in respect of matters in List I ..... Sch. VII, List I-95.
+other than High Courts and Supreme Court, constitution
+and organisation of ................................................................... Sch. VII, List II-3.
+other than Supreme Court, jurisdiction and powers of—
+in respect of matters in Concurrent List .............................. Sch. VII, List III-46.
+in respect of matters in State List ......................................... Sch. VII, List II-65.
+COURTS OF WARDS—
+for estates of Rulers .......................................................................... Sch. VII, List I-34.
+for other estates ................................................................................. Sch. VII, List II-22.
+COWS, SLAUGHTER OF, State to prohibit ......................................... 48.
+CREMATIONS AND CREMATION GROUNDS ................................. Sch. VII, List II-10.
+CRIMINAL LAW ........................................................................................ Sch. VII, List III-1.
+CRIMINAL PROCEDURE ........................................................................ Sch. VII, List III-2.
+CURRENCY, COINAGE AND LEGAL TENDER ............................... Sch. VII, List I-36.
+CUSTOMS—
+duties, See FINANCE.
+frontiers, etc. ....................................................................................... Sch. VII, List I-41.
+### D
+DADRA AND NAGAR HAVELI, territory of ...................................... Sch. I.
+DAMAN AND DIU, territory of ............................................................ Sch. I.
+DEBT—
+definition of ........................................................................................ 366(8).
+public—of the States ......................................................................... Sch. VII, List II-43.
+public—of the Union ........................................................................ Sch. VII, List I-35.
 [[END OF PAGE 454]]
 
 [[START OF PAGE 455]]
-
 428
-
 INDEX
-
 ARTICLE/SCHEDULE
-
+DEFENCE OF INDIA ................................................................................ Sch. VII, List I-1.
+industries necessary for the purpose of ....................................... Sch. VII, List I-7.
+preventive detention for reasons connected with ....................... Sch. VII, List I-9.
+DEFINITION OF—
+certain expressions ............................................................................ 366.
+“Consolidated Fund”—
+of India ........................................................................................ 266(1).
+of the State ................................................................................. 266(1).
+“Contingency Fund”—
+of India ........................................................................................ 267(1).
+of the State ................................................................................. 267(2).
+“Indian State” ..................................................................................... 363(2)(a).
+“Money Bill”—
+in State Legislature ................................................................... 199.
+in Parliament .............................................................................. 110.
+“net proceeds” .................................................................................... 279(1).
+“Ruler” ................................................................................................. 363(2)(b).
+“Scheduled Areas” ............................................................................ Sch. V, Part C, Para 6.
+“State” for purposes of Part III ...................................................... 12.
+“State” for purposes of Part IV ...................................................... 36.
+DELHI—
+allocation of seats in the Council of States to ............................. Sch. IV.
+territory of ........................................................................................... Sch. I.
+DEVASWOM FUND—
+annual payments to .......................................................................... 290A.
+in the State of Kerala ........................................................................ 290A.
+in the State of Tamil Nadu .............................................................. 290A.
+DEVELOPMENT BOARDS—
+establishment of separate—for parts of Maharashtra and
+Gujarat ......................................................................................... 371(2).
+DIPLOMATIC REPRESENTATION ........................................................ Sch. VII, List I-11.
+DIRECTIVE PRINCIPLES OF STATE POLICY .................................... Part IV.
+agriculture and animal husbandry, State to organise ................ 48.
+application of ...................................................................................... 37.
+assistance in case of unemployment, old age, etc., State, to
+provide ........................................................................................ 41.
+Civil Code, uniform for all citizens, State to secure .................. 44.
+cottage industries, State to promote .............................................. 43.
+cows, etc., slaughter of, State to prohibit ..................................... 48.
+education, free and compulsory for children, State to provide .... 45.
+equal justice and free legal aid ....................................................... 39A.
+international peace and security, etc., State to promote ............ 51.
+judiciary, separation of, from executive, State to take steps
+for ................................................................................................. 50.
+just and humane conditions of work, State to secure ............... 42.
+level of nutrition and standard of living, raising of, State to
+regard as its primary duty ...................................................... 47.
 [[END OF PAGE 455]]
 
 [[START OF PAGE 456]]
-
 INDEX
-
 429
-
 ARTICLE/SCHEDULE
-
+#### DIRECTIVE PRINCIPLES OF STATE POLICY—contd.
+living wage, etc., for workers, State to secure ............................... 43.
+maternity relief, State to make provision for securing ................. 42.
+monuments, etc., State to protect ...................................................... 49.
+participation of workers in management of industry .................. 43A.
+principles of policy to be followed by the State ............................ 39.
+prohibition of intoxicating drinks and drugs, State to bring
+about ............................................................................................... 47.
+right to work, to education and to public assistance in cases of
+unemployment, etc., State to secure ........................................ 41.
+saving of laws giving effect to certain ............................................. 31C.
+Scheduled Castes and Scheduled Tribes, etc., State to protect
+from social injustice and exploitation ...................................... 46.
+the State, definition of, for the purposes of Part IV ..................... 36.
+village panchayats, State to organise ............................................... 40.
+DISEASES AND PESTS—
+prevention of extension of—from one State to another ............... Sch. VII, List III-29.
+DISPLACED PERSONS, relief and rehabilitation of ............................. Sch. VII, List III-27.
+DISPUTES—
+industrial and labour ........................................................................... Sch. VII, List III-22.
+DISQUALIFICATION—
+decision on questions as to disqualifications of members ........... 103 & 192.
+DISQUALIFICATION FOR APPOINTMENT ON REMUNERATIVE
+POLITICAL POSTS .............................................................................. 361B.
+DISSOLUTION—
+duration of Houses of Parliament .................................................... 83.
+duration of State Legislatures ............................................................ 172.
+Sessions of Parliament, prorogation and dissolution .................... 85.
+Sessions of the State Legislature, prorogation and dissolution .. 174.
+DISTRICT BOARDS ...................................................................................... Sch. VII, List II-5.
+DISTRICT JUDGES—
+appointment of ...................................................................................... 233.
+recruitment of persons other than—to judicial service ................ 234.
+validation of appointment, etc., of certain ...................................... 233A.
+DOUBLE JEOPARDY ................................................................................... 20(2).
+DIVORCE ........................................................................................................ Sch. VII, List III-5.
+DRUGS ......................................................................................................... Sch. VII, List III-19.
+DUTIES—
+Fundamental .......................................................................................... 51A.
+See also under FINANCE.
+DUTY OF UNION—
+to promote spread of Hindi language ............................................. 351.
+to protect States against aggression and disturbances ................. 355.
+### E
+EDUCATION ................................................................................................. 21A, 45, Sch. VII,
+List III-25.
+free and compulsory—for children—See DIRECTIVE
+PRINCIPLES AND FUNDAMENTAL RIGHTS.
+See also UNIVERSITY.
+in mother tongue in primary stage .................................................. 350A.
+Institutions for—
+higher education, co-ordination and determination of
+standards ............................................................................... Sch. VII, List I-66.
+professional, vocational, etc., training .............................................. Sch. VII, List I-65.
+scientific and technical ........................................................................ Sch. VII, List I-64.
 [[END OF PAGE 456]]
 
 [[START OF PAGE 457]]
-
 430
-
 INDEX
-
 ARTICLE/SCHEDULE
-
+ELECTIONS ................................................................................................. Part XV.
+adult suffrage ........................................................................................ 326.
+Election Commission ........................................................................... 324, Sch. VII,
+List I-72.
+Commissioners—
+appointment of Chief Election and other Election ............... 324(2) & (3).
+conditions of service, etc., of ..................................................... 324(5).
+Regional ......................................................................................... 324(4).
+removal from office of ................................................................ 324(5) Provisos.
+constitution of ............................................................................... 324(2).
+Governor to consult—on questions of disqualification of
+a member of State Legislature .......................................... 192(2).
+President to consult—on questions of disqualification of a
+member of Parliament ........................................................ 103(2).
+staff of ............................................................................................ 324(6).
+superintendence, direction and control of elections to vest
+in ............................................................................................. 324(1).
+elections to Parliament and State Legislatures, power of
+Parliament to make laws relating to ............................... 327, Sch. VII,
+List I-72.
+elections to State Legislatures, power of State Legislature
+to make laws relating to .................................................... 328, Sch. VII,
+List II-37.
+electoral matters, bar to interference by courts in ................ 329.
+electoral roll, to be general ........................................................ 325.
+readjustment of territorial constituencies after each census .. 82.
+suffrage, adult ............................................................................... 326.
+ELECTRICITY, taxes on—See under FINANCE.
+EMERGENCY—
+financial—
+direction to States in case of ...................................................... 360(3).
+proclamation in case of ............................................................... 360(1).
+revocation, etc., of ........................................................................ 360(2).
+freedom of speech, etc., right to, suspension of provisions
+re: during ............................................................................... 358.
+fundamental rights, suspension of the enforcement of,
+during .................................................................................... 359.
+See also under FUNDAMENTAL RIGHTS.
+Proclamation of ..................................................................................... 352.
+definition of ................................................................................... 366(18).
+duration of ..................................................................................... 352(4) & (5).
+effect of ........................................................................................... 353.
+laying of—before each House of Parliament ......................... 352(4).
+revocation of ................................................................................. 352(2) & (7).
+EMERGENCY PROVISIONS—
+Proclamation of, in the case of failure of constitutional
+machinery in a State .................................................................... 356.
+duration of ............................................................................................. 356(4).
+laying of—before each House of Parliament .................................. 356(3).
 [[END OF PAGE 457]]
 
 [[START OF PAGE 458]]
-
 INDEX
-
 431
-
 ARTICLE/SCHEDULE
-
+#### EMERGENCY PROVISIONS—contd.
+legislative powers, exercise of, during ............................................. 357.
+revocation, variation, etc., of .............................................................. 356(2).
+provisions re: distribution of revenues, application of, during .. 354.
+EMPLOYMENT AND UNEMPLOYMENT ............................................. Sch. VII, List III-23.
+ENDOWMENTS, charitable and religious ............................................... Sch. VII, List III-28.
+ENEMY ALIEN—
+no protection to—against arrest and detention .............................. 22(3).
+ENTERTAINMENTS AND AMUSEMENTS ............................................ Sch. VII, List II-33.
+ENTRUSTMENT OF STATE FUNCTIONS—
+on Union ................................................................................................ 258A.
+ENVIRONMENT, protection and improvement of ................................ 48A.
+EQUALITY—
+of opportunity for public employment ............................................ 16(3).
+of status and opportunity, securing of right to, before law ........ Preamble, 14.
+See also FUNDAMENTAL RIGHTS.
+ESCHEAT, property accruing by ............................................................... 296.
+ESSENTIAL SUPPLIES AND SERVICES, preventive detention for
+maintenance of ...................................................................................... Sch. VII, List III-3.
+ESTATE DUTY—
+definition of ........................................................................................... 366(9).
+in respect of agricultural land ........................................................... Sch. VII, List II-48.
+in respect of other property ............................................................... Sch. VII, List I-87.
+EVACUEE PROPERTY, custody, management and disposal of .......... Sch. VII, List III-41.
+EVIDENCE ................................................................................................. Sch. VII, List III-12.
+EXCISE, duties of. See under FINANCE.
+EXCLUSIVE ECONOMIC ZONES ............................................................ 297.
+EXECUTIVE POWER—UNION—STATES ............................................... 53, 154.
+extent of executive power
+power to carry on business ................................................................. 53, 154, 298.
+power to acquire, hold and dispose property
+power to carry on trade ...................................................................... 298.
+EXISTING LAW, definition of .................................................................... 366(10).
+EXPLOSIVES ................................................................................................. Sch. VII, List I-5.
+EXTRADITION .............................................................................................. Sch. VII, List I-18.
+### F
+FACTORIES ................................................................................................. Sch. VII, List III-36.
+FAIRS—See MARKETS AND FAIRS.
+FAMILY PLANNING—
+Population control and ........................................................................ Sch. VII, List III-20A.
+FEDERAL COURT—
+definition of ........................................................................................... 366(11).
+provisions as to Judges of .................................................................. 374(1).
+provisions as to suits, etc., pending in ............................................ 374(2).
+FEES—
+in respect of matters in Concurrent List excepting court fees .... Sch. VII, List III-47.
+in respect of matters in State List excepting court fees ............... Sch. VII, List II-66.
+in respect of matters in Union List excepting court fees ............. Sch. VII, List I-96.
 [[END OF PAGE 458]]
 
 [[START OF PAGE 459]]
-
 432
-
 INDEX
-
 ARTICLE/SCHEDULE
-
+#### FEES—contd.
+taken in courts other than Supreme Court ..................................... Sch. VII, List II-3.
+taken in Supreme Court ...................................................................... Sch. VII, List I-77.
+FINANCE—
+adjustment in respect of certain expenses and pensions between
+Union and States .......................................................................... 290.
+annual financial statement—See ANNUAL FINANCIAL
+STATEMENT.
+annual payments to Devaswom Funds ........................................... 290A.
+Bills, financial—
+in Parliament ................................................................................. 117.
+in State Legislature ...................................................................... 207.
+Bills, regarding taxation affecting States .......................................... 274.
+See also BILLS.
+Commission—
+constitution of ............................................................................... 280(1).
+duty of ............................................................................................ 280(3).
+powers of—, Parliament to determine .................................... 280(4).
+qualifications for membership of .............................................. 280(2).
+recommendations of—to be laid before each House of
+Parliament ............................................................................. 281.
+Consolidated Fund of India ............................................................... 266.
+borrowing on the security of ..................................................... 292.
+custody, etc., of ............................................................................. 283(1).
+definition of ................................................................................... 266(1).
+expenditure charged on .............................................................. 112(3).
+not subject to vote of Parliament ............................................. 113(1).
+Consolidated Fund of the States ....................................................... 266.
+borrowing on the security of ..................................................... 293.
+custody, etc., of ............................................................................. 283(2).
+definition of ................................................................................... 266(1).
+expenditure charged on .............................................................. 202(3).
+not subject to vote of Legislature ............................................. 203(1).
+Contingency Fund of India ................................................................ 267(1).
+custody, etc., of ............................................................................. 283(1).
+Contingency Fund of States ............................................................... 267(2).
+custody, etc., of ............................................................................. 283(2).
+duties—
+collected by Union and distributed between Union and
+States ...................................................................................... 270.
+in respect of succession to agricultural land .......................... Sch. VII, List II-47.
+in respect of succession to property other than agricultural
+land ......................................................................................... Sch. VII, List I-88.
+levied by Union and collected and appropriated
+by States ................................................................................ 268.
+of customs including export duties .......................................... Sch. VII, List I-83.
+of excise, on alcoholic liquors, opium, Indian hemp, etc. ... Sch. VII, List II-51.
 [[END OF PAGE 459]]
 
 [[START OF PAGE 460]]
-
 INDEX
-
 433
-
-#### FINANCEcontd .
-
+#### FINANCE—contd.
 ARTICLE/SCHEDULE
-
+of excise, on tobacco, etc. .................................................................... Sch. VII, List I-84.
+stamp, other than duties or fees collected by judicial stamp ..... Sch. VII, List III-44.
+stamp, rates of, in respect of bills of exchange, etc. ..................... Sch. VII, List I-91.
+surcharge on certain, for purposes of Union .................................. 271.
+grants by the Union or States for public purposes ....................... 282.
+grants by Union to certain States ..................................................... 275.
+grants to certain States in lieu of export duty on jute and
+jute products ................................................................................. 273.
+Interpretation of, for the purposes of Part XII,
+“Finance Commission” ................................................................ 264.
+“net proceeds”, etc., calculation of ........................................... 279.
+public account of India and the States .................................... 266(2).
+custody, etc., of money credited to .......................................... 283.
+suitors’ deposits and other moneys received by the public
+servants and courts to be paid into ................................ 284.
+revenues, distribution of, between the Union and the
+States—
+levied by the Union and shared with the States .................. 270.
+levied by the Union but collected and appropriated by
+the States ............................................................................... 268.
+on export of jute, etc., grant in lieu of, to certain States ..... 273.
+surcharge on, for purposes of Union, Parliament may
+impose .................................................................................... 271.
+sales tax, restriction as to imposition of .......................................... 286.
+Service Tax—
+levied by Union and collected and appropriated by the Union
+and the States ................................................................................... 268A.
+State taxation—
+exemption from—in respect of water or electricity in certain
+cases ................................................................................................ 287-288.
+exemption of Union property from .................................................. 285.
+Supplementary grants—See SUPPLEMENTARY GRANTS.
+tax—
+capitation ................................................................................................ Sch. VII, List II-61.
+corporation ............................................................................................. Sch. VII, List I-85.
+on advertisements in newspapers ..................................................... Sch. VII, List I-92.
+on other advertisements ...................................................................... Sch. VII, List II-55.
+on agricultural income ........................................................................ Sch. VII, List II-46.
+on animals and boats .......................................................................... Sch. VII, List II-58.
+on capital value of assets, exclusive of agricultural land, of
+individuals and companies and on capital of companies ... Sch. VII, List I-86.
+on consignment of goods .................................................................... Sch. VII, List I-92B.
+on consumption or sale of electricity ............................................... Sch. VII, List II-53.
+on entry of goods into local areas .................................................... Sch. VII, List II-52.
+on goods and passengers carried by road or on inland
+waterways ...................................................................................... Sch. VII, List II-56.
 [[END OF PAGE 460]]
 
 [[START OF PAGE 461]]
-
 434
-
-#### FINANCEcontd .
-
+#### FINANCE—contd.
 INDEX
-
 ARTICLE/SCHEDULE
-
+on income, definition of ............................................................. 366(29).
+on income, other than agricultural income ............................ Sch. VII, List I-82.
+on lands and buildings ............................................................... Sch. VII, List II-49.
+on luxuries, including taxes on entertainments, amusements,
+betting and gambling .......................................................... Sch. VII, List II-62.
+on mineral rights .......................................................................... Sch. VII, List II-50.
+on professions, trades, callings and employments ................ 276, Sch. VII, List II-60.
+on railway fares and freights .................................................... Sch. VII, List I-89.
+on sale or purchase of goods .................................................... Sch. VII, List II-54, 286,
+................................................................................................. Sch. VII, List I-92A.
+on sale or purchase of newspaper ........................................... Sch. VII, List I-92.
+on services ..................................................................................... Sch. VII, List I-92C.
+on transactions in stock exchanges and futures markets,
+other than stamp duties ..................................................... Sch. VII, List I-90.
+on vehicles, suitable for use on roads, including
+tramcars ................................................................................. Sch. VII, List II-57.
+recovery of—in a State for claims arising outside that
+State ........................................................................................ Sch. VII, List III-43.
+terminal—on goods or passengers ........................................... Sch. VII, List I-89.
+taxation, definition of .................................................................. 366(28).
+taxes not to be levied except by authority of law ................ 265.
+taxes levied and collected by the Union but assigned to
+the States ............................................................................... 269.
+taxes, etc., existing, levied by State Governments or local
+authorities to continue notwithstanding that they are
+mentioned in the Union List ............................................. 277.
+Union taxation, exemption of State property and income
+from ........................................................................................ 289.
+FINANCE COMMISSION—See FINANCE.
+FINANCIAL CORPORATIONS—See CORPORATIONS.
+FISHERIES ................................................................................................. Sch. VII, List II-21.
+FISHING AND FISHERIES beyond territorial waters .......................... Sch. VII, List I-57.
+FOREIGN
+exchange ................................................................................................. Sch. VII, List I-36.
+jurisdiction ............................................................................................. Sch. VII, List I-16.
+loans ........................................................................................................ Sch. VII, List I-37.
+FOREIGN AFFAIRS ...................................................................................... Sch. VII, List I-10.
+Preventive detention for reasons connected with .......................... Sch. VII, List I-9.
+FOREIGN STATE, definition of .................................................................. 367(3).
+FORESTS ......................................................................................................... 48A, Sch. VII,
+List III-17A.
+FRATERNITY, promotion of ....................................................................... Preamble.
+FREE LEGAL AID—
+equal justice and—State to provide .................................................. 39A.
+FUNDAMENTAL DUTIES .......................................................................... Part IVA.
+FUNDAMENTAL RIGHTS .......................................................................... Part III.
+Cultural and educational rights—
+protection of interests of minorities .......................................... 29.
+right of minorities to establish and administer
+educational institutions ...................................................... 30.
 [[END OF PAGE 461]]
 
 [[START OF PAGE 462]]
-
 INDEX
-
 435
-
-#### FUNDAMENTAL RIGHTScontd .
-
+#### FUNDAMENTAL RIGHTS—contd.
 ARTICLE/SCHEDULE
-
+kirpans, wearing and carrying of, by Sikhs ..................................... 25.
+laws inconsistent with, or in derogation of—
+State not to make ......................................................................... 13(2).
+to be void ...................................................................................... 13(1).
+legislation to give effect to ................................................................. 35.
+power of Parliament to modify, in their application to Armed
+Forces .............................................................................................. 33.
+protection against arrest and detention ........................................... 22.
+protection in respect of—
+(i) conviction for offences; (ii) being tried more than
+once for the same offence; and (iii) appearing as a
+witness against himself ......................................................... 20.
+protection of life and personal liberty ............................................. 21.
+restriction on—while Martial Law is in force ................................ 34.
+right against exploitation—
+power of State to impose compulsory service for public
+purposes ................................................................................ 23(2).
+prohibition of employment of children in factories, etc. ..... 24.
+prohibition of traffic in human beings and forced labour .. 23(1).
+right of citizens—
+to assemble peaceably ................................................................. 19(1)(b) & (3).
+to form associations ..................................................................... 19(1)(c) & (4).
+to freedom of speech ................................................................... 19(1)(a) & (2).
+to move throughout India .......................................................... 19(1)(d) & (5).
+to practise any profession .......................................................... 19(1)(g) & (6).
+to reside and settle anywhere in India .................................... 19(1)(e) & (5).
+right to constitutional remedies ......................................................... 32-35.
+remedies for enforcement of—
+by moving Supreme Court by appropriate proceedings .... 32.
+suspension of, during emergency ............................................. 359.
+See also under EMERGENCY.
+right to education ................................................................................. 21A.
+right to equality—
+abolition of titles .......................................................................... 18.
+See also under TITLES.
+abolition of untouchability ......................................................... 17.
+equality before law ...................................................................... 14.
+equality of opportunity in matters of public employment . 16.
+power of State to make special provision for—
+backward classes, Scheduled Castes and Scheduled Tribes .. 15(4).
+women and children ................................................................... 15(3).
+prohibition of discrimination against any citizen on
+grounds of religion, race, caste, sex or place of birth . 15(1).
+right of citizen as to access to, and use of, public place ..... 15(2).
+right to freedom of religion—
+freedom as to attendance at religious instruction or religious
+worship in certain educational institutions ............................ 28.
 [[END OF PAGE 462]]
 
 [[START OF PAGE 463]]
-
 436
-
 INDEX
-
 ARTICLE/SCHEDULE
-
-#### FUNDAMENTAL RIGHTScontd .
-
+#### FUNDAMENTAL RIGHTS—contd.
+freedom as to payment of taxes for promotion of any
+particular religion ................................................................ 27.
+freedom of conscience and free profession, practice and
+propagation of religion ....................................................... 25.
+freedom to manage religious affairs ........................................ 26.
+the State, definition of, for purposes of Part III ............................ 12.
+### G
+GAMBLING—See BETTING.
+GAS AND GAS WORKS ............................................................................. Sch. VII, List II-25.
+GENERAL CLAUSES ACT, provisions of, to apply to interpretation
+of the Constitution ............................................................................... 367.
+GOA—
+allocation of seats in the Council of States to ................................ Sch. IV.
+special provision with respect to the State of ................................ 371-I.
+territory of .............................................................................................. Sch. I.
+GOODS—
+carriage of—
+by air, rail or sea, and by national waterways ...................... Sch. VII, List I-30.
+by inland waterways ................................................................... Sch. VII, List III-32.
+taxes on—See under FINANCE.
+definition of ........................................................................................... 366(12).
+production, supply and distribution of ........................................... Sch. VII, List II-27.
+standards of quality for—for export or inter-State transport ...... Sch. VII, List I-51.
+taxes on entry of—into a local area—See under FINANCE.
+GOVERNMENT OF INDIA ACT—
+Repeal of ................................................................................................ 395.
+Transition from provisions of—, President’s power to make
+provisions for ................................................................................ 392.
+GOVERNORS ................................................................................................. 153.
+address by .............................................................................................. 175-176.
+allowances, etc., for .............................................................................. 158.
+annual financial statement,—to cause to be laid before the
+Legislature ..................................................................................... 202(1).
+appointment of ...................................................................................... 155.
+appointment of—as administrators for Union territories ............ 239(2).
+Bills—
+assent to ......................................................................................... 200.
+reservation of—for the consideration of President ............... 200.
+common—for two or more States ..................................................... 153.
+conditions of office of .......................................................................... 158.
+Council of Ministers to aid and advise ........................................... 163.
+decision of—on question as to disqualification of members of
+Legislature ..................................................................................... 192(1).
+discharge of the functions of—on certain contingencies .............. 160.
 [[END OF PAGE 463]]
 
 [[START OF PAGE 464]]
-
 INDEX
-
 437
-
-#### GOVERNORScontd .
-
+#### GOVERNORS—contd.
 ARTICLE/SCHEDULE
-
+discretionary power of ........................................................................ 163(1)&(2), Sch. VI,
+paras. 9 & 18.
+emoluments, allowances, privileges and rights in respect of
+leave of absence of ...................................................................... 158(3), Sch. II, Part A,
+Sch. VII, List I-75.
+executive action of State Government to be expressed in the
+name of .......................................................................................... 166(1).
+executive power of State to vest in .................................................. 154.
+legislative powers of ............................................................................ 213.
+See also under ORDINANCE.
+oath or affirmation by ......................................................................... 159.
+power of—
+to apply Part VI, Chapter VI, to magistrates ......................... 237.
+to appoint—
+(i) Advocate-General—See ADVOCATE-GENERAL.
+(ii) member of State Legislative Assembly to fill
+temporarily vacancies in the office of Speaker ............. 180(1).
+(iii) member of State Legislative Council to fill vacancies
+for the office of Chairman ................................................. 184(1).
+(iv) members of Public Service Commission—See
+PUBLIC SERVICE COMMISSION.
+(v) Ministers—See COUNCIL OF MINISTERS.
+to consult Election Commission in cases relating to disqualification
+of a member of legislature ........................................................ 192(2).
+to entrust State functions on Union Government ......................... 258A.
+to frame regulations regarding conditions of service, etc., of
+Chairman and members of the State Public Service
+Commission ................................................................................... 318.
+to frame rules—
+regarding authentication of orders and other instruments .... 166(2).
+regarding convenient transaction of Government business ........ 166(3).
+regarding procedure in respect of communications between
+the Houses of State Legislature ........................................ 208(3).
+regarding recruitment of officers, etc., for a High Court .... 229(1) Proviso.
+regarding recruitment of secretarial staff of Houses of
+Legislature ............................................................................. 187(3).
+to grant pardons, etc., and to suspend, remit or commute
+sentences ................................................................................ 161.
+to nominate Anglo-Indians to Legislative Assembly ............ 333.
+to nominate members to Legislative Council ........................ 171(3)(e) & 171(5).
+protection of—from legal proceedings ............................................. 361.
+qualifications for appointment as ..................................................... 157.
+recommendation of—
+demand for a grant to be made on ......................................... 203(3).
+necessary for introduction of Money Bills .............................. 207.
 [[END OF PAGE 464]]
 
 [[START OF PAGE 465]]
-
 438
-
-#### GOVERNORScontd .
-
+#### GOVERNORS—contd.
 INDEX
-
 ARTICLE/SCHEDULE
-
+to be regarded as matter of procedure .................................... 255.
+resignation of office by ........................................................................ 156(2).
+right of—to address and send messages to the Legislature ........ 175.
+right of—to summon, prorogue and dissolve Legislature ........... 174.
+special address by ................................................................................ 176.
+special responsibility of ....................................................................... 371(2).
+supplementary grants,—cause to be laid before Legislature ....... 205(1).
+term of office of ..................................................................................... 156.
+GRAM SABHA .............................................................................................. 243A.
+GUARANTEE, definition of ....................................................................... 366(13).
+GUJARAT—
+allocation of seats in the Council of States to ................................ Sch. IV.
+special responsibility of the Governor for establishment of
+development boards .................................................................... 371(2).
+State of ................................................................................................. Sch. I.
+### H
+HABEAS CORPUS
+power of High Court to issue ........................................................... 226.
+HARYANA—
+allocation of seats in the Council of States to ................................ Sch. IV.
+State of ................................................................................................. Sch. I.
+HIGH COURTS, in the States .................................................................... 214.
+administrative expenses of—to be charged on the Consolidated
+Fund of the State ......................................................................... 229(3).
+application of certain provisions relating to Supreme Court to ... 218.
+Chief Justice—
+acting—, appointment of ............................................................ 223.
+appointment of—See Chief Justice and other Judges below.
+power of—
+to appoint acting Judges .................................................... 224(2).
+to appoint additional Judges ............................................. 224(1).
+to appoint officers and servants of High Court ............ 229(1).
+to appoint retired Judges at sittings of High Courts ... 224A.
+to be consulted regarding appointment of other
+Judges .............................................................................. 217(1).
+Chief Justice and other Judges—
+age of retirement of ..................................................................... 217(1), 224(3).
+appointment and conditions of office of ................................. 217, 224, 224A.
+conduct of—not to be discussed—
+in Parliament ........................................................................ 121.
+in State Legislature .............................................................. 211.
+determination of age of .............................................................. 217(3).
+oath or affirmation by ................................................................. 219.
+prohibition of practice after ceasing to hold office ............... 220.
+qualifications for appointment as ............................................. 217(2).
+removal from office of ................................................................ 217(1) Proviso (b).
+procedure regarding .................................................................... 218.
 [[END OF PAGE 465]]
 
 [[START OF PAGE 466]]
-
 INDEX
-
 439
-
-#### HIGH COURTS, in the Statescontd .
-
+#### HIGH COURTS, in the States—contd.
 ARTICLE/SCHEDULE
-
+resignation of office by ............................................................... 217(1) Proviso (a).
+salaries, etc., of ............................................................................. 221, Sch. II, Part D,
+Para 10.
+transfer of—from one High Court to another ....................... 222.
+vacation of office of ..................................................................... 217(1) Proviso (c).
+constitution and organisation of .................................................... 216, Sch. VII, List I-78.
+court of record .............................................................................. 215.
+definition of ................................................................................... 366(14).
+establishment of a common High Court for two or more
+States ...................................................................................... 231.
+for Union territories .................................................................... 241.
+jurisdiction of ................................................................................ 225.
+extension of—to or exclusion from Union territories .................. 230, Sch. VII, List I-79.
+Language in—See LANGUAGE.
+officers of—appointment, etc., of .............................................. 229.
+power of—
+to issue certain writs ........................................................... 226.
+to punish for contempt ...................................................... 215.
+power of superintendence of ............................................ 227.
+retirement of additional or acting Judge ........................ 224(3).
+subordinate courts, control over, to vest in ................... 235.
+transfer of certain cases to ................................................. 228.
+transitional period, provisions as to ................................ 376.
+HIGHWAYS, declared by Parliament to be national ............................. Sch. VII, List I-23.
+HIMACHAL PRADESH—
+allocation of seats in the Council of States to ................................ Sch. IV.
+State of ................................................................................................. Sch. I.
+HINDU RELIGIOUS INSTITUTION ......................................................... 25(2)(b).
+HOSPITALS AND DISPENSARIES ........................................................... Sch. VII, List II-6.
+hospitals, Seamen’s and marine ........................................................ Sch. VII, List I-28.
+HOUSE OF THE PEOPLE—
+composition of ....................................................................................... 81.
+decisions of—by majority ................................................................... 100(1).
+Deputy Speaker of—See SPEAKER.
+duration of ............................................................................................. 83.
+Member of—See MEMBERS OF PARLIAMENT.
+power of—to make rules of procedure ............................................ 118(1).
+quorum for a meeting of .................................................................... 100(3).
+representation (nomination) of Anglo-Indians in .......................... 331.
+representation of Scheduled Castes and Scheduled Tribes,
+etc., in ................................................................................................ 330.
+representation of Union territories in ............................................... 81(1)(b).
+Secretarial staff, appointment, etc., of .............................................. 98.
+Speaker and Deputy Speaker of—
+casting vote of .............................................................................. 100(1).
+choosing of .................................................................................... 93.
 [[END OF PAGE 466]]
 
 [[START OF PAGE 467]]
-
 440
-
 INDEX
-
 ARTICLE/SCHEDULE
-
-#### HOUSE OF THE PEOPLEcontd .
-
+#### HOUSE OF THE PEOPLE—contd.
+not to preside while a resolution for removal from office is
+under consideration ..................................................................... 96.
+performance of duties of office of—during the absence of ........... 95.
+removal from office of ......................................................................... 94(c) & 96.
+resignation of office by ........................................................................ 94(b).
+salaries and allowances, etc., of ........................................................ 97, Sch. VII, List I-73 &
+Sch. II, Part C, Para 7.
+vacation of office by ............................................................................ 94(a).
+voting in ................................................................................................. 100.
+### I
+IMPEACHMENT of President—See PRESIDENT.
+IMPROVEMENT TRUSTS ........................................................................... Sch. VII, List II-5.
+INDIA—
+admission into, emigration and expulsion from ............................ Sch. VII, List I-19.
+a Union of States .................................................................................. 1(1).
+admission of new States into ............................................................. 2.
+Bharat, the name of .............................................................................. 1(1).
+languages of ........................................................................................... Sch. VIII.
+security of .............................................................................................. Sch. VII, List I-9.
+territory of .............................................................................................. 1(3).
+INDIAN INDEPENDENCE ACT, 1947, the, repeal of .......................... 395.
+INDIAN STATE, definition of .................................................................... 366(15).
+INDUSTRIAL AND LABOUR DISPUTES ............................................... Sch. VII, List III-22.
+INDUSTRIAL DISPUTES, concerning Union employees ..................... Sch. VII, List I-61.
+INDUSTRIAL MONOPOLIES, COMBINES AND TRUSTS ................. Sch. VII, List III-21.
+INDUSTRIES—
+declared by Parliament to be necessary for defence or for
+prosecution of war ....................................................................... Sch. VII, List I-7.
+other ................................................................................................. Sch. VII, List II-24.
+under Union control ............................................................................ Sch. VII, List I-52.
+participation of workers in management of ................................... 43A.
+INFLAMMABLE LIQUIDS AND SUBSTANCES ................................... Sch. VII, List I-53.
+INNS AND INN KEEPERS ......................................................................... Sch. VII, List II-31.
+INQUIRIES, surveys and statistics—
+connected with matters in List I ....................................................... Sch. VII, List I-94.
+connected with matters in Lists II and III ...................................... Sch. VII, List III-45.
+INSOLVENCY—See BANKRUPTCY.
+INSTITUTIONS—
+charitable and religious ....................................................................... Sch. VII, List III-28.
+Imperial War Museum, Indian Museum, Indian War
+Memorial, National Library, Victoria Memorial .................... Sch. VII, List I-62.
+instructions in mother tongue ........................................................... 350A.
 [[END OF PAGE 467]]
 
 [[START OF PAGE 468]]
-
 INDEX
-
 441
-
-#### INSTITUTIONScontd .
-
+#### INSTITUTIONS—contd.
 ARTICLE/SCHEDULE
-
+Union and agencies, for purposes of technical training,
+research, etc. .................................................................................... Sch. VII, List I-65 & 66.
+See also UNIVERSITIES.
+INSURANCE ................................................................................................. Sch. VII, List I-47.
+INSURANCE CORPORATIONS—See under CORPORATIONS.
+INTELLIGENCE AND INVESTIGATION—
+Central Bureau of ................................................................................. Sch. VII, List I-8.
+INTER-STATE—
+Council ................................................................................................... 263.
+river waters dispute ............................................................................. 262.
+trade or commerce ............................................................................... 286.
+INTERNATIONAL AGREEMENTS—
+implementation of treaties, etc. ......................................................... Sch. VII, List I-14.
+legislation to give effect to ................................................................. 253.
+INTERNATIONAL CONFERENCES, ETC.—
+participation in—, and implementation of decisions of ............... Sch. VII, List I-13.
+INTERNATIONAL PEACE AND SECURITY, ETC., promotion
+of—See DIRECTIVE PRINCIPLES.
+INTERPRETATION—
+of Constitution for Chapter IV of Part V and Chapter V of
+Part VI ............................................................................................ 147.
+of Constitution in general ................................................................... 367.
+of “district judge” for Chapter VI of Part VI ................................. 236(a).
+of “Finance Commission” for Part XII ............................................. 264.
+of judicial service for Chapter VI of Part VI .................................. 236(b).
+of “State” for Part VI ........................................................................... 152.
+of “State” for Part XIV ........................................................................ 308.
+of “State” for Schedule V .................................................................... Sch. V, Part A, Para 1.
+INTOXICATING DRINKS, ETC.—See PROHIBITION.
+INTOXICATING LIQUORS, production, manufacture, purchase,
+sale, etc., of .................................................................................... Sch. VII, List II-8.
+INVENTIONS AND DESIGNS .................................................................. Sch. VII, List I-49.
+IRRIGATION, subject to entry 56 of Union List .................................... Sch. VII, List II-17.
+### J
+JAMMU AND KASHMIR—
+allocation of seats in the Council of States to ................................ Sch. IV.
+State of ................................................................................................. Sch. I.
+temporary provisions with respect to .............................................. 370.
+JHARKHAND—
+allocation of seats in the Council of States to ................................ Sch. IV.
+State of ................................................................................................. Sch. I.
+JOINT SITTING—Houses of Parliament .................................................. 100, 108.
+JUDGES—
+district—
+appointment of ............................................................................. 233(1).
+definition of ................................................................................... 236(a).
+eligibility for appointment as .................................................... 233(2).
+eligibility for appointment as—who are not citizens of
+India ....................................................................................... 376.
 [[END OF PAGE 468]]
 
 [[START OF PAGE 469]]
-
 442
-
 INDEX
-
 ARTICLE/SCHEDULE
-
+#### JUDGES—contd.
+validation of appointment, etc., of certain .............................. 233A.
+High Court—See HIGH COURTS.
+SUPREME COURT—See SUPREME COURT.
+JUDICIAL PROCEEDINGS, recognition of .............................................. Sch. VII, List III-12.
+JUDICIAL SERVICE—
+appointment to—of a State ................................................................. 234.
+definition of ........................................................................................... 236(b).
+JUDICIARY, separation of, from the executive—See DIRECTIVE
+PRINCIPLES.
+JURISDICTION—
+of courts—
+barred in disputes arising out of treaties, agreements, etc.,
+with Indian States ........................................................................ 363.
+barred in electoral matters .................................................................. 329.
+officers and members of Parliament not subject to ....................... 122(2).
+officers and members of State Legislature not subject to ............ 212(2).
+JUSTICE—
+administration of .................................................................................. Sch. VII, List III-11A.
+equal—and free legal aid .................................................................... 39A.
+social, economic and political, securing of ...................................... Preamble, 38.
+### K
+KARNATAKA—
+allocation of seats in the Council of States to ................................ Sch. IV.
+Legislative Council for ........................................................................ 168.
+Special provision with respect to the State of ................................ 371J.
+State of ................................................................................................. Sch. I.
+KERALA—
+allocation of seats in the Council of States to ................................ Sch. IV.
+State of .................................................................................................... Sch. I.
+KIRPANS—See FUNDAMENTAL RIGHTS.
+### L
+LABOUR—
+disputes ................................................................................................. Sch. VII, List III-22.
+regulation of—in mines and oilfields ............................................... Sch. VII, List I-55.
+vocational and technical training of ................................................. Sch. VII, List III-25.
+welfare of ............................................................................................... Sch. VII, List III-24.
+LAKSHADWEEP, territory of ..................................................................... Sch. I.
+LAND—
+rights over land tenures, etc. ............................................................. Sch. VII, List II-18.
+revenue, assessment and collection of, maintenance of land
+records, etc. .................................................................................... Sch. VII, List II-45.
+LANGUAGE—
+enactment of laws relating to—, special provision as to ............. 349.
+facilities for instruction in mother tongue ...................................... 350A.
+Hindi, duty of Union to develop ...................................................... 351.
+linguistic minorities, special officer for ............................................ 350B.
+of authoritative text of bills, etc. ....................................................... 348(1)(b) & 348(3).
+Authoritative text in Hindi language ............................................... 394A.
 [[END OF PAGE 469]]
 
 [[START OF PAGE 470]]
-
 INDEX
-
 443
-
-#### LANGUAGEcontd .
-
+#### LANGUAGE—contd.
 ARTICLE/SCHEDULE
-
+Official—
+Commission and Committee of Parliament on ..................... 344.
+English to continue for fifteen years as .................................. 343(2).
+for communications between Union and a State or
+States inter se ........................................................................ 346.
+of a State ............................................................................... 345.
+of the Union to be Hindi ................................................... 343.
+of Supreme Court and High Courts ........................................ 348.
+spoken by a section of the population of a State, special
+provisions as to .................................................................... 347.
+to be used in Parliament ............................................................ 120.
+to be used in representation for redress of grievances ........ 350.
+to be used in State Legislatures ................................................ 210.
+LANGUAGES OF INDIA ............................................................................ Sch. VIII.
+LAWS—
+existing—
+continuance of ............................................................................... 372(1).
+definition of ................................................................................... 366(10).
+void, if inconsistent with provisions of Part III ............ 13(1).
+existing laws and laws providing for State monopolies,
+saving of ........................................................................................ 305.
+imposing restrictions on right to freedom of speech, etc. ........... 19(2) to (6).
+See also FUNDAMENTAL RIGHTS.
+offences against—
+relating to matters in List I ........................................................ Sch. VII, List I-93.
+relating to matters in List II ...................................................... Sch. VII, List II-64.
+recognition of ........................................................................................ Sch. VII, List III-12.
+LEGAL PROCEEDINGS—suits and proceedings by or against the
+Union and the States ........................................................................... 300.
+LEGISLATIVE ASSEMBLIES—See the STATES.
+LEGISLATIVE COUNCIL—See the STATES.
+LEGISLATIVE RELATIONS between the Union and the States ......... 245-255.
+LIBERTY of thought, expression, belief, faith and worship,
+securing of ............................................................................................. Preamble.
+LIBRARIES—controlled by the States ....................................................... Sch. VII, List II-12.
+See also INSTITUTIONS.
+LIGHTHOUSES ............................................................................................. Sch. VII, List I-26.
+LIMITATION ................................................................................................. Sch. VII, List III-13.
+LINGUISTIC MINORITIES, special officer for ....................................... 350B.
+LIVING WAGE TO WORKERS—See DIRECTIVE
+PRINCIPLES.
+LOAN, definition of ..................................................................................... 366(4).
+LOCAL GOVERNMENT ............................................................................. Sch. VII, List II-5.
+LOTTERIES—organised by Government ................................................. Sch. VII, List I-40.
+LUNACY AND MENTAL DEFICIENCY—lunatics and mental
+deficients ............................................................................................... Sch. VII, List III-16.
 [[END OF PAGE 470]]
 
 [[START OF PAGE 471]]
-
 444
-
 INDEX
-
 ARTICLE/SCHEDULE
-
 ### M
-
-MINISTERSSee COUNCIL OF MINISTERS.
-
+MADHYA PRADESH—
+allocation of seats in the Council of States to ................................ Sch. IV.
+Legislative Council for ........................................................................ 168.
+State of ................................................................................................. Sch. I.
+MAHARASHTRA—
+allocation of seats in the Council of States to ................................ Sch. IV.
+Legislative Council for ........................................................................ 168.
+special responsibility of the Governor for establishment of
+development boards .................................................................... 371(2).
+State of ................................................................................................. Sch. I.
+MAJOR PORTS .............................................................................................. Sch. VII, List I-27.
+definition of ........................................................................................... 364(2)(a).
+special provision as to extension of laws to ................................... 364(1).
+MANDAMUS
+Power of High Court to issue writ of ............................................. 226(1).
+MANIPUR—
+allocation of seat in the Council of States to .................................. Sch. IV.
+special provision with respect to the State of ................................ 371C.
+State of ................................................................................................. Sch. I.
+MARITIME ZONES
+lands, minerals and other valuable things within territorial
+waters, continental shelf and resources of the exclusive
+economic zones to vest in the Union ...................................... 297.
+MARKETS AND FAIRS ............................................................................... Sch. VII, List II-28.
+MARRIAGE ................................................................................................. Sch. VII, List III-5.
+MARTIAL LAW, power of Parliament to indemnify for acts done
+in areas under ....................................................................................... 34.
+MEGHALAYA—
+allocation of seat in the Council of States to .................................. Sch. IV.
+State of ................................................................................................. Sch. I.
+tribal areas in ........................................................................................ Sch. VI.
+MEMBERS OF PARLIAMENT—See under PARLIAMENT.
+MEMORIALS—See under INSTITUTIONS.
+MERCHANTILE MARINE, education and training for ....................... Sch. VII, List I-25.
+METEOROLOGICAL ORGANISATIONS ................................................ Sch. VII, List I-68.
+MIGRANTS TO AND FROM PAKISTAN—See CITIZENSHIP.
+MIGRATION, inter-State ............................................................................. Sch. VII, List I-81.
+MINES AND MINERALS—
+regulation and development of—
+under Union control .................................................................... Sch. VII, List I-54.
+in other case .................................................................................. Sch. VII, List II-23.
+See also LABOUR.
+MINISTERS—See COUNCIL OF MINISTERS.
 [[END OF PAGE 471]]
 
 [[START OF PAGE 472]]
-
 INDEX
-
 445
-
 ARTICLE/SCHEDULE
-
+MINORITIES, protection, etc., of—
+See FUNDAMENTAL RIGHTS.
+See also SCHEDULED CASTES AND SCHEDULED TRIBES.
+MIZORAM—
+allocation of seat in the Council of States to .................................. Sch. IV.
+special provision with respect to the State of ................................ 371G.
+territory of .............................................................................................. Sch. I.
+tribal areas in ......................................................................................... Sch. VI.
+MINORS—infants and minors ................................................................... Sch. VII, List III-5.
+MONEY BILLS—See BILLS.
+MONEY-LENDING AND MONEY-LENDERS ....................................... Sch. VII, List II-30.
+MONOPOLIES, saving of existing laws and laws providing
+for State ................................................................................................. 305.
+MONUMENTS—
+ancient and historical—
+of national importance ................................................................ Sch. VII, List I-67.
+others .............................................................................................. Sch. VII, List II-12.
+protection, etc., of—See DIRECTIVE PRINCIPLES.
+MUNICIPAL CORPORATIONS—See under CORPORATIONS.
+MUNICIPALITIES—
+audit of accounts of ............................................................................. 243Z.
+composition of ....................................................................................... 243R.
+constitution and composition of wards committees ..................... 243S.
+constitution of ....................................................................................... 243Q.
+definitions ............................................................................................... 243P.
+disqualifications for membership of ................................................. 243V.
+duration of ............................................................................................. 243U.
+elections to the ...................................................................................... 243ZA.
+powers, authority and responsibilities of ........................................ 243W and Sch. XII.
+powers to impose taxes by, and funds of ....................................... 243X.
+reservation of seats ............................................................................... 243T.
+MUNICIPAL TRAMWAYS .......................................................................... Sch. VII, List II-13.
+MUSEUMS—controlled by States .............................................................. Sch. VII, List II-12.
+See also INSTITUTIONS.
+### N
+NAGALAND—
+allocation of seat in the Council of States to .................................. Sch. IV.
+special provision with respect to the State of ................................ 371A.
+State of ................................................................................................. Sch. I.
+NATIONAL INSTITUTIONS—See INSTITUTIONS.
+NATIONAL JUDICIAL APPOINTMENTS COMMISSION .................. 124A.
+Functions of Commission ................................................................... 124B.
+NATURALISATION ...................................................................................... Sch. VII, List I-17.
+NET PROCEEDS, calculation of—See FINANCE.
+NEWSPAPERS ............................................................................................... Sch. VII, List III-39.
+NUMERALS for official purposes of Union ........................................... 343(1).
 [[END OF PAGE 472]]
 
 [[START OF PAGE 473]]
-
 446
-
 INDEX
-
 ARTICLE/SCHEDULE
-
 ### O
-
+OATHS ............................................................................................................ Sch. VII, List III-12.
+forms of—or affirmations ................................................................... Sch. III.
+OBLIGATIONS of Union and States, provisions relating to, under
+the Constitution .................................................................................... 294-295.
+ODISHA—
+allocation of seats in the Council of States to ................................ Sch. IV.
+State of .................................................................................................... Sch. I.
+OFFICIAL LANGUAGE .............................................................................. 343.
+Commission and Committee of Parliament on .............................. 344.
+OFFICIAL TRUSTEES .................................................................................. Sch. VII, List III-11.
+OIL—
+oilfields and mineral oil resources, regulation and development
+of ...................................................................................................... Sch. VII, List I-53.
+regulation of labour and safety in mines and oilfields ................ Sch. VII, List I-55.
+OPIUM—
+cultivation, manufacture and sale for export of ............................ Sch. VII, List I-59.
+duties of excise on—See under FINANCE.
+ORDINANCE—
+Administrator’s power to promulgate—during recess of Union
+territories Legislature .................................................................. 239B.
+Governor’s power to promulgate—during recess of State
+Legislature ..................................................................................... 213.
+President’s power to promulgate—during recess of Parliament ........ 123.
+### P
+PANCHAYATS—
+application to Union Territories ........................................................ 243L.
+audit of accounts of ............................................................................. 243J.
+bar to interference by courts in electoral matters .......................... 243O.
+composition of ....................................................................................... 243C.
+constitution of ....................................................................................... 243B.
+constitution of Finance Commission to review financial
+position ........................................................................................... 243-I and 280(3)(bb).
+continuance of existing laws .............................................................. 243N.
+definitions of .......................................................................................... 243.
+disqualifications for membership ...................................................... 243F.
+duration of ............................................................................................. 243E.
+elections to the ...................................................................................... 243K.
+gram sabha ............................................................................................ 243A.
+maintenance and auditing of accounts ............................................ 243J.
+part not to apply to certain areas ..................................................... 243M.
+powers, authority and responsibilities ............................................. 243G and Sch. XI.
+powers, to impose taxes by, and funds of ...................................... 243H.
+reservation of seats ............................................................................... 243D.
 [[END OF PAGE 473]]
 
 [[START OF PAGE 474]]
-
 INDEX
-
 447
-
 ARTICLE/SCHEDULE
-
+PARLIAMENT—
+Acts of—lack of requirements as to recommendations and
+previous sanctions not to invalidate ........................................ 255.
+committees of and commissions appointed by, attendance of
+persons and production of documents before ....................... Sch. VII, List I-74.
+composition of—
+the Council of States ................................................................... 80.
+the House of the People ............................................................. 81.
+constitution of ....................................................................................... 79.
+Council of States—See COUNCIL OF STATES.
+dissolution of ......................................................................................... 85(2)(b).
+duration of ............................................................................................. 83.
+expenditure charged on the Consolidated Fund of India, not
+subject to vote of .......................................................................... 113(1).
+other expenditure, subject to vote of ............................................... 113(2).
+House of the People—See HOUSE OF THE PEOPLE.
+Houses of—to meet twice every year .............................................. 85(1).
+joint sitting ............................................................................................. 100 & 108.
+language to be used in—See under LANGUAGE.
+laws made by—
+extent of ......................................................................................... 245(1).
+to prevail over State laws in certain cases ............................. 251 & 254.
+legislative procedure—
+in respect of financial matters ................................................... 112 & 117.
+in respect of Money Bills ........................................................... 109.
+in respect of votes on account, votes of credit and exceptional
+grants .............................................................................................. 116.
+with respect to estimates ............................................................ 113.
+Members of Parliament—
+disqualifications for ..................................................................... 102, Sch. X.
+decision on question as to ......................................................... 103.
+oath or affirmation by ................................................................. 99.
+powers, privileges, etc., of ........................................................... 105, Sch. VII, List I-74.
+qualifications for ........................................................................... 84.
+salaries and allowances, etc., of ................................................ 106, Sch. VII, List I-73.
+vacation of seats by ..................................................................... 101.
+voting in Houses of ..................................................................... 100.
+voting without making oath or affirmation, etc., penalty
+for ............................................................................................ 104.
+officers of—See COUNCIL OF STATES and HOUSE
+OF THE PEOPLE.
+power of—
+to abolish or create Legislative Councils in States ................ 169.
+to act notwithstanding vacancies and quorum ...................... 100.
+to admit new States into the Union ......................................... 2.
+to alter areas, boundaries or names of States ........................ 3.
+to amend First and Fourth Schedules in certain cases ........ 4.
+to amend Fifth Schedule ............................................................ Sch. V, Para 7.
 [[END OF PAGE 474]]
 
 [[START OF PAGE 475]]
-
 448
-
 INDEX
-
 ARTICLE/SCHEDULE
-
-#### PARLIAMENTcontd.
-
+#### PARLIAMENT—contd.
+to amend provisions of Constitution ....................................... 368.
+to appoint authority for carrying out purposes of
+articles 301—304 ................................................................... 307.
+to confer ancillary powers on Supreme Court ...................... 140.
+to confer jurisdiction on the Supreme Court to issue
+certain writs .......................................................................... 139.
+to confer powers of the Union on States in certain cases ... 258(2).
+to constitute High Courts for Union territories ..................... 241.
+to create local Legislatures or Council of Ministers or
+both for certain Union territories ..................................... 239A.
+to determine the salaries and allowances of Ministers ........ 75(6).
+to establish new States ................................................................ 2.
+to extend functions of Public Service Commissions ............. 321.
+to extend its own duration in emergencies ............................ 83(2) Proviso.
+to impose restrictions on freedom of trade, commerce, or
+intercourse within the Union ............................................ 302.
+to impose surcharge on certain duties and taxes for
+purposes of the Union ........................................................ 271.
+to legislate on matters in Concurrent List .............................. 246(2).
+to legislate with respect to matters in State List—
+in national interest ............................................................... 249(1).
+during Emergency ............................................................... 250.
+to legislate with respect to matters in State List for two or
+more States by consent ....................................................... 252.
+to legislate with respect to matters in Union List ................ 246(1).
+to make laws regarding extension of or exclusion from
+the jurisdiction of High Courts ........................................ 230.
+to make laws to amend Scheduled Castes and Scheduled
+Tribes Orders ........................................................................ 341(2) & 342(2).
+to make laws to give effect to international agreements .... 253.
+to make laws to give effect to provisions regarding
+Fundamental Rights ............................................................ 35.
+to make laws with respect to elections to legislatures ........ 327.
+to make laws with respect to trade and commerce within
+a State and production, supply and distribution of
+certain commodities during the first 5 years ................ 369.
+to make provisions regarding qualifications for and powers
+of the members of the Finance Commission ................. 280(2) & (4).
+to prescribe certain matters with respect to
+preventive detention ........................................................... 22(7).
+to prescribe requirements regarding residence for employment
+under a State or local authority ........................................ 16(3).
+to prescribe the manner of election of representatives of
+Union territories to the Council of States ...................... 80(5).
+to provide for adjudication of disputes relating to waters
+of inter-State rivers and river-valleys .............................. 262.
+to provide for creation of all-India services ........................... 312.
 [[END OF PAGE 475]]
 
 [[START OF PAGE 476]]
@@ -16248,8 +17504,54 @@ INDEX
 
 449
 
-#### PARLIAMENTcontd.
-
+#### PARLIAMENT—contd.
+to provide for discharge of President’s functions in
+contingencies ......................................................................... 70.
+to provide for establishment of additional courts for better
+administration of laws made by Parliament ................. 247.
+to provide for establishment of Joint Public Service
+Commission for two or more States ................................ 315.
+to provide for the manner of enforcement of decrees or
+orders of the Supreme Court ........................................... 142(1).
+to provide for the use of English language or Devanagari
+form of numerals, after 15 years ...................................... 343(3).
+to regulate its procedure in financial matters ........................ 119.
+to regulate matters regarding election of President and
+Vice-President ....................................................................... 71(3).
+to regulate the right of citizenship ........................................... 11.
+to vary or revoke conditions of service of officers of
+certain services ..................................................................... 312A.
+powers, privileges, etc., of .......................................................... 105(3), Sch. VII,
+List I-74.
+proceedings of—
+courts not to enquire into validity of ........................................ 122(1).
+protection of publication of ......................................................... 361A.
+prorogation of ................................................................................ 85(2)(a).
+quorum for a meeting of .............................................................. 100(3).
+residuary powers of legislation vest in ........................................ 248, Sch. VII, List I-97.
+restriction on discussion in .......................................................... 121.
+rules of procedure, power of each House to make ................ 118.
+secretariat of Houses of ................................................................ 98.
+summoning of ................................................................................ 85(1).
+PART, definition of ............................................................................... 366(16).
+PASSPORTS ........................................................................................ Sch. VII, List I-19.
+PATENTS, INVENTIONS AND DESIGNS ........................................ Sch. VII, List I-49.
+PENSIONS—
+definition of ................................................................................... 366(17).
+payable by States .......................................................................... Sch. VII, List II-42.
+payable by Union .......................................................................... Sch. VII, List I-71.
+PETROLEUM AND PETROLEUM PRODUCTS .............................. Sch. VII, List I-53.
+PILGRIMAGES—
+to places outside India ................................................................ Sch. VII, List I-20.
+to other places ............................................................................... Sch. VII, List II-7.
+PIRACIES AND CRIMES ON SEAS OR IN AIR, offences against
+law of nations ................................................................................ Sch. VII, List I-21.
+PLANNING, economic and social ...................................................... Sch. VII, List III-20.
+POISONS ............................................................................................ Sch. VII, List III-19.
+POLICE ............................................................................................... Sch. VII, List II-2.
+POLICE FORCE—
+extension of powers and jurisdiction of—to areas outside
+the State and to railway areas ............................................. Sch. VII, List I-80.
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 476]]
@@ -16260,6 +17562,50 @@ ARTICLE/SCHEDULE
 
 INDEX
 
+POPULATION CONTROL AND FAMILY PLANNING ................ Sch. VII, List III-20A.
+PORTS—
+declared by Parliament to be major ........................................ Sch. VII, List I-27.
+other ............................................................................................... Sch. VII, List III-31.
+POST OFFICE SAVINGS BANK ......................................................... Sch. VII, List I-39.
+POSTS AND TELEGRAPHS ................................................................. Sch. VII, List I-31.
+POUNDS AND PREVENTION OF CATTLE TRESPASS ............... Sch. VII, List II-16.
+#### PRESIDENT ..................................................................................... 52.
+address by ........................................................................................ 86-87.
+Annual Financial Statement, causes to be laid before
+Parliament ................................................................................ 112(1).
+appointments of—
+Attorney-General—See ATTORNEY-GENERAL.
+Chairman and members of Union and State Public Service
+Commissions—See PUBLIC SERVICE COMMISSION.
+Chief Justice and other Judges of—
+High Courts—See HIGH COURTS.
+Supreme Court—See SUPREME COURT.
+Comptroller and Auditor-General—See COMPTROLLER
+AND AUDITOR-GENERAL.
+Governors of States—See GOVERNORS.
+Prime Minister and other Ministers—See COUNCIL OF
+MINISTERS.
+Special Officer for linguistic minorities ................................. 350B.
+Special Officer for Scheduled Castes—See SCHEDULED
+CASTES.
+approval of—to rules regarding salaries, allowances, leave
+or pensions of officers and servants of the Supreme
+Court ...................................................................................... 146(2) Proviso.
+assent of—
+to Bills—
+general ................................................................................... 111.
+of Parliament, amending the Constitution ..................... 368.
+of State Legislature .............................................................. 201.
+regarding imposition of taxes on water or electricity
+in certain cases ............................................................... 288(2).
+audit reports, causes to be laid before Parliament ............... 151(1).
+conditions of office of ................................................................. 59.
+consent of—necessary for acceptance of foreign titles,
+presents, etc., by person serving under the State ................. 18(3) & (4).
+contracts of the Union to be executed in the name of ................. 299(1).
+Council of Ministers to aid and advise ........................................... 74(1).
+decision by—on questions as to disqualifications of
+Members of Parliament ............................................................... 103(1).
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 477]]
@@ -16270,8 +17616,51 @@ INDEX
 
 451
 
-#### PRESIDENTcontd .
-
+#### PRESIDENT—contd.
+defence forces, supreme command of, to vest in ........................ 53(2).
+Election Commission, appointment of Chief Election Commissioner
+and other Commissioners, etc.—See ELECTIONS.
+election of ........................................................................................ 54, Sch. VII, List I-72.
+eligibility for re-election ............................................................... 57.
+emoluments, allowances and privileges, etc., of ......................... 59(3), Sch. II, Part A,
+Sch. VII, List I-75.
+executive action by the Union Government to be taken in the
+name of ........................................................................................ 77(1).
+Finance Commission, constitution, etc., by—See FINANCE.
+impeachment of—, procedure for ................................................ 61.
+legislative powers of ...................................................................... 123(1).
+manner of election of ..................................................................... 55.
+matters relating to election of ...................................................... 71.
+messages, etc., of—to the Houses ................................................ 86.
+oath or affirmation by ................................................................... 60.
+Ordinance making power of—See ORDINANCE.
+##### power of—
+to adapt laws .................................................................................. 372 & 372A.
+to apply laws with modifications to aerodromes and
+major ports .............................................................................. 364.
+to appoint acting Chairman of the Council of States ............ 91(1).
+to appoint acting Speaker of the House of the People .......... 95(1).
+to appoint a Commission to report on the administration
+of Scheduled Areas and welfare of Scheduled Tribes ...... 339.
+to appoint a Commission to investigate the condition of
+backward classes .................................................................... 340.
+to authorise the use of Hindi during the 15 years period
+in addition to English and of Devanagari numerals
+for official purposes of Union ............................................. 343(2) Proviso.
+to call for information from the Prime Minister regarding
+administration of Union affairs and proposals
+for legislation .......................................................................... 78(b).
+to constitute a Commission to report on official language .... 344.
+to consult Election Commission on questions regarding
+disqualification of members of Parliament ...................... 103(2).
+to consult Supreme Court on questions of law or fact of
+public importance .................................................................. 143.
+to declare a State not to be a foreign State for a specific
+purpose .................................................................................... 367(3) Proviso.
+to entrust Union functions to States in certain cases ............. 258(1).
+to establish inter-State Council .................................................... 263.
+to grant pardons, etc., and to suspend, remit or commute
+sentences in certain cases ..................................................... 72.
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 478]]
@@ -16282,11 +17671,50 @@ ARTICLE/SCHEDULE
 
 INDEX
 
+#### PRESIDENT—contd.
+##### power of—contd.
+to issue order for adaptation of existing laws ....................... 372(2).
+to issue order for removal of difficulties during transitional
+period ....................................................................................... 392.
+to issue orders in regard to grants from the Union to
+certain States ........................................................................... 275(2).
+to issue Proclamation of Emergency—See EMERGENCY.
+to make advances from Contingency Fund to meet
+unforeseen expenditure ........................................................ 267(1).
+to make order in respect of persons under preventive
+detention in certain cases ..................................................... 373.
+to make provision by order for continuance of taxes on
+water or electricity involving river valley projects
+under existing State Law ....................................................... 288(1).
+to make provisions regarding discharge of Governor’s
+functions in contingencies ..................................................... 160.
+to make regulations for Union territories ................................. 240.
+to make regulations regarding conditions of service, etc.,
+of the Chairman and members of the Union, State
+and Joint Public Service Commissions .............................. 318.
+to make rules for consultation with the Union Public
+Service Commission regarding appointment of
+officials of Supreme Court ................................................... 146(1) Proviso.
+to make rules regarding authentication of orders, etc.,
+made and executed in the name of the President .......... 77(2).
+to make rules regarding conditions of service, etc., of
+personnel of the Audit and Accounts Department ........ 148(5).
+to make rules regarding dual membership of Parliament
+and State Legislature ............................................................ 101(2).
+to make rules regarding procedure at joint sittings of the
+two Houses ............................................................................. 118(3).
+to make rules regarding recruitment and conditions of
+service of secretarial staff of Houses of Parliament ....... 98(2).
+to make rules regarding transactions of and allocation
+among Ministers of business of the Government ........... 77(3).
+to nominate Anglo-Indians to the House of the People ........ 331.
+to nominate twelve members to the Council of States .......... 80(1)(a).
+to prescribe percentage of taxes on income for
+distribution among States .................................................... 270.
+to prescribe the manner of enforcement of orders, etc.,
+of the Supreme Court ........................................................... 142(1).
+to remove difficulties during transitional period .................... 392(1).
 ARTICLE/SCHEDULE
-
-#### PRESIDENTcontd.
-
-##### power ofcontd.
 
 [[END OF PAGE 479]]
 
@@ -16296,8 +17724,46 @@ INDEX
 
 453
 
-#### PRESIDENTcontd.
-
+#### PRESIDENT—contd.
+##### power of—contd.
+to specify Scheduled Castes and Scheduled Tribes in
+the States and Union territories ......................................... 341-342.
+to summon Houses of Parliament in joint sittings ................. 108.
+to summon, prorogue and dissolve Parliament ...................... 85(2).
+previous sanction of—
+necessary for introducing a Bill in State Legislature,
+imposing restrictions on trade, commerce and intercourse
+among States ........................................................................... 304(b) Proviso.
+to be regarded as matter of procedure ...................................... 255.
+protection of—from legal proceedings ...................................... 361.
+qualifications for office of ............................................................ 58.
+recommendation of—demand for a grant to be made on .... 113(3).
+recommendation of—required for introduction of Bills—
+(i) affecting taxation in which States are interested ..... 274(1).
+(ii) regarding financial matters .......................................... 117(1).
+(iii) regarding formation of new States or alteration,
+etc., of boundaries of States ....................................... 3 Proviso.
+recommendation to be regarded as matter of procedure ...... 255.
+removal from office of .................................................................. 56(1) Proviso (b).
+resignation of office by ................................................................. 56(1) Proviso (a).
+supplementary grants, causes to be laid before
+Parliament ............................................................................... 115(1).
+term of office of .............................................................................. 56.
+vacancy in the office of, procedure for filling ......................... 62.
+#### PREVENTIVE DETENTION—
+Advisory Boards—
+constitution of and reports by ..................................................... 22(4)(a).
+procedure to be followed by ....................................................... 22(7)(c).
+for reasons connected with the security of a State ...................... Sch. VII, List III-3.
+for reasons connected with the security of India ........................... Sch. VII, List I-9.
+period of detention—
+not to exceed 3 months ................................................................ 22(4).
+may exceed 3 months in certain circumstances ...................... 22(4)(a) & (b).
+maximum—may be prescribed by Parliament .......................... 22(7)(a) & (b).
+person detained under—
+facts may not be communicated to—if against public
+interest ..................................................................................... 22(6).
+grounds of detention to be communicated to .......................... 22(5).
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 480]]
@@ -16308,6 +17774,44 @@ ARTICLE/SCHEDULE
 
 INDEX
 
+PRICE CONTROL ................................................................................ Sch. VII, List III-34.
+PRIMARY EDUCATION in mother tongue ...................................... 350A.
+PRIME MINISTER—
+appointment of ................................................................................ 75(1).
+duties of—as respects furnishing information to President ....... 78.
+is head of Council of Ministers ..................................................... 74(1).
+salary and allowances of ............................................................... 75(6), Sch. VII,
+List I-75.
+PRINTING PRESSES ............................................................................. Sch. VII, List III-39.
+PRISONERS subjected to preventive detention, removal from one
+State to another .............................................................................. Sch. VII, List III-4.
+PRISONS .............................................................................................. Sch. VII, List II-4.
+PROCLAMATION OF EMERGENCY, definition of ......................... 366(18).
+PROFESSIONS—legal, medical, etc. ................................................... Sch. VII, List III-26.
+PROHIBITION of intoxicating drinks and drugs, State to
+introduce—See DIRECTIVE PRINCIPLES.
+power of High Court to issue writ of ........................................ 226.
+PROPERTY—
+acquisition and requisitioning of ................................................ Sch. VII, List III-42.
+amount for acquisition of any—of an educational institution
+established and administered by a minority ........................ 30(1A).
+no person to be deprived of—save by authority of law ........ 300A.
+succession to—, etc. ...................................................................... 294-295.
+transfer of agricultural land ......................................................... Sch. VII, List II-18.
+transfer of—other than agricultural property ............................ Sch. VII, List III-6.
+PROPORTIONAL REPRESENTATION—
+by single transferable vote:
+election of members of State Legislative Council ................... 171(4).
+election of President ...................................................................... 55(3).
+election of State representatives in the Council of States ...... 80(4).
+election of Vice-President ............................................................. 66(1).
+PUBLIC acts and records, recognition of ........................................... 261, Sch. VII,
+List III-12.
+PUBLIC DEBT—
+of the States—See DEBT.
+of the Union—See DEBT.
+PUBLIC HEALTH AND SANITATION .............................................. Sch. VII, List II-6.
+PUBLIC NOTIFICATION, definition of ............................................. 366(19).
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 481]]
@@ -16318,6 +17822,50 @@ INDEX
 
 455
 
+PUBLIC ORDER ................................................................................... Sch. VII, List II-1.
+#### PUBLIC SERVICE COMMISSION—
+annual report of .............................................................................. 323.
+Chairman and members of—
+appointment of ............................................................................... 316(1) & (1A).
+conditions of service of ................................................................. 318.
+eligibility for holding of offices after ceasing to be
+members .................................................................................. 319(b), (c) & (d).
+eligibility for re-employment ....................................................... 319.
+ineligibility for re-appointment ................................................... 316(3).
+removal from office of .................................................................. 316(2) Proviso (b).
+removal or suspension from office of ........................................ 317.
+resignation by ................................................................................. 316(2) Proviso (a).
+term of office of .............................................................................. 316(2).
+expenses of—charged on the Consolidated Fund .......................... 322.
+functions ........................................................................................... 320.
+power to extend—of ...................................................................... 321.
+joint—for two or more States ...................................................... 315(2).
+of State .............................................................................................. 315(1), Sch. VII,
+List II-41.
+transitional period, provisions as to ............................................. 378.
+Union ................................................................................................ 315(1), Sch. VII,
+List I-70.
+PUDUCHERRY—
+allocation of seat in the Council of States to ............................ Sch. IV.
+creation of local Legislatures or Council of Ministers, or both
+for ............................................................................................. 239A.
+territory of ........................................................................................ Sch. I.
+### Q
+QUARANTINE—
+inter-State ......................................................................................... Sch. VII, List I-81.
+Port .................................................................................................... Sch. VII, List I-28.
+QUO WARRANTO ................................................................................. 32, 226.
+### R
+RAILWAYS, definition of ...................................................................... 366(20), Sch. VII,
+List I-22.
+RAJASTHAN—
+allocation of seats in the Council of States to .......................... Sch. IV.
+State of .............................................................................................. Sch. I.
+RAJPRAMUKH ....................................................................................... 361.
+RECOGNITION of public acts, records and judicial proceedings ... Sch. VII, List III-12.
+REFORMATORIES ................................................................................. Sch. VII, List II-4.
+ARTICLE/SCHEDULE
+
 [[END OF PAGE 482]]
 
 [[START OF PAGE 483]]
@@ -16326,6 +17874,45 @@ INDEX
 
 INDEX
 
+REGISTRATION of deeds and documents ....................................... Sch. VII, List III-6.
+REGULATIONS—
+validation of certain Acts and ...................................................... 31B & Sch. IX.
+power of President to make—for Union territories .................... 240.
+RELIEF of the disabled and unemployable ...................................... Sch. VII, List II-9.
+RELIGIOUS ENDOWMENTS ............................................................... Sch. VII, List III-28.
+REPEALS ................................................................................................. 395.
+REPRESENTATION—See PROPORTIONAL REPRESENTATION.
+RESERVE BANK OF INDIA ................................................................ Sch. VII, List I-38.
+RESTRICTION, reasonable, imposition of ......................................... 19.
+REVENUE, from Union property ........................................................ Sch. VII, List I-32.
+RIVERS AND RIVER VALLEYS, regulation and development of
+inter-State ......................................................................................... Sch. VII, List I-56.
+RULER—
+definition of ..................................................................................... 366(22).
+privy purses, rights and privileges of—abolished ..................... 363A.
+treaties, etc., of—with Government of India, no Court to enquire
+into disputes regarding ........................................................... 363.
+### S
+SALT ........................................................................................................ Sch. VII, List I-58.
+SCHEDULE, definition of ..................................................................... 366(23).
+#### SCHEDULED AND TRIBAL AREAS ......................................... Part X.
+Scheduled Areas and Scheduled Tribes—
+administration of ............................................................................ 244, Sch. V.
+annual report by Governor to the President ............................. Sch. V, Para. 3.
+Commission to report on the administration of Scheduled
+areas and the welfare of Scheduled Tribes ........................... 339.
+definition of ..................................................................................... Sch. V, Para. 6.
+executive power of State extends to .......................................... Sch. V, Para. 2.
+law applicable to ............................................................................ Sch. V, Para. 5.
+Tribes Advisory Council, establishment, etc., of ..................... Sch. V, Para. 4.
+Tribal Areas in Assam, Meghalaya and Mizoram ........................... Sch. VI, Para. 20.
+administration of ............................................................................ 244(2), Sch. VI.
+application of Acts of Parliament and of the State
+Legislature to .......................................................................... Sch. VI, Para. 12.
+autonomous districts and regions in ......................................... Sch. VI, Para. 1.
+Commission to report on the administration of ...................... Sch. VI, Para. 14.
+estimated receipts and expenditure to be shown
+separately in annual financial statements ........................ Sch. VI, Para. 13.
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 483]]
@@ -16336,9 +17923,53 @@ INDEX
 
 457
 
+#### SCHEDULED AND TRIBAL AREAS—contd.
+District Councils:
+constitution of ................................................................................. Sch. VI, Para. 2.
+dissolution of .................................................................................. Sch. VI, Para. 16.
+district and regional funds, management by ........................... Sch. VI, Para. 7.
+power of—
+to constitute village councils or courts ............................. Sch. VI, Para. 4.
+to establish primary schools, etc. ....................................... Sch. VI, Para. 6.
+to impose taxes and collect revenues, etc. ....................... Sch. VI, Para. 8.
+to make laws .......................................................................... Sch. VI, Para. 3.
+to make regulations for control of money-lending
+and trading by non-tribals ............................................. Sch. VI, Para. 10.
+power under C.P.C. and Cr. P.C. may be conferred on ......... Sch. VI, Para. 5.
+publication of laws, etc., made by ............................................. Sch. VI, Para. 11.
+share of royalties ............................................................................ Sch. VI, Para. 9(1).
+Regional Councils:
+constitution of ................................................................................. Sch. VI, Para. 2.
+dissolution of .................................................................................. Sch. VI, Para. 16.
+district and regional funds, management by ........................... Sch. VI, Para. 7.
+power of—
+to constitute village councils or courts ............................. Sch. VI, Para. 4.
+to impose taxes and collect revenues, etc. ....................... Sch. VI, Para. 8.
+to make laws .......................................................................... Sch. VI, Para. 3.
+power under C.P.C. and Cr. P.C. may be conferred on ......... Sch. VI, Para. 5.
+publication of laws, etc., made by ............................................. Sch. VI, Para. 11.
+transitional provisions ................................................................... Sch. VI, Para. 19.
+Governor of Assam, Meghalaya and Mizoram, power of—
+to administer the areas during transitional period ................. Sch. VI, Para. 19.
+to alter, etc., areas inhabited by Scheduled Tribes ......................... Sch. VI, Para. 1(2) & (3).
+to appoint a Commission to report on the administration
+of autonomous areas ............................................................. Sch. VI, Para. 14.
+to approve rules made by Regional and District Councils .... Sch. VI, Para. 4(4).
+to make rules for the management of District and
+Regional Funds ...................................................................... Sch. VI, Para. 7(2).
+to determine share of royalty in case of dispute .................... Sch. VI, Para. 9(2).
+to exclude application of Acts of Parliament and State
+Legislature of Assam to autonomous area in that
+State .......................................................................................... Sch. VI, Para. 12(1)(b).
+to modify or withdraw powers conferred on District and
+Regional Councils under the C.P.C. and Cr. P.C. ........... Sch. VI, Para. 5(2).
+to order dissolution of a District or Regional Council .......... Sch. VI, Para. 16.
+to order exclusion of areas from autonomous districts ......... Sch. VI, Para. 17.
+to specify jurisdiction of High Court in matters affecting
+the autonomous areas ........................................................... Sch. VI, Para. 4(3).
+to suspend acts or resolutions of District or Regional
+Councils ................................................................................... Sch. VI, Para. 15.
 ARTICLE/SCHEDULE
-
-#### SCHEDULED AND TRIBAL AREAScontd .
 
 [[END OF PAGE 484]]
 
@@ -16348,6 +17979,51 @@ ARTICLE/SCHEDULE
 
 INDEX
 
+#### SCHEDULED CASTES AND SCHEDULED TRIBES—
+claims of—to services and posts ................................................ 335.
+Commission to report on the welfare of Scheduled Tribes ....... 339.
+definition of ..................................................................................... 366(24) & (25).
+NATIONAL COMMISSION FOR SCHEDULED CASTES .............. 338.
+no bar to make special provisions for the advancement of ....... 15.
+notification ....................................................................................... 341.
+President to specify ........................................................................ 341.
+promotion of educational and economic interests of ................ 46.
+reservation of seats for—
+in the House of the People .................................................. 330.
+in the State Legislative Assembly ....................................... 332.
+to cease after 70 years ........................................................... 334.
+Special Minister for the welfare of—in certain States ................ 164(1) Proviso.
+NATIONAL COMMISSION FOR SCHEDULED TRIBES ............... 338A.
+no bar to make special provisions for the advancement of ....... 15.
+notification ....................................................................................... 342.
+President to specify ........................................................................ 342.
+promotion of educational and economic interests of ................ 46.
+reservation of seats for—
+in the House of the People .................................................. 330.
+in the State Legislative Assembly ....................................... 332.
+to cease after 70 years ........................................................... 334.
+Special Minister for the welfare of—in certain States ................ 164(1) Proviso.
+#### SERVICES—
+all-India services ............................................................................. Sch. VII, List I-70.
+conditions of service of persons serving the Union or a State ... 309.
+continuance of functions ............................................................... 375.
+creation of—common to the Union and the States .................. 312.
+existing laws to continue to apply to—during transitional
+period ........................................................................................ 313.
+Indian Administrative Service and Indian Police Service to be ... 312(2).
+power of Parliament to vary or revoke conditions of service
+of officers of certain ............................................................... 312A.
+protection against dismissal, etc., of persons employed in civil
+capacities under the Union or a State ................................ 311.
+public—
+of the State .............................................................................. Sch. VII, List II-41.
+of the Union ............................................................................ Sch. VII, List I-70.
+tenure of office of persons serving the Union or a State ........ 310.
+transitional provisions ................................................................... 313.
+SHIPPING AND NAVIGATION—
+maritime ........................................................................................... Sch. VII, List I-25.
+on inland waterways ..................................................................... Sch. VII, List III-32.
+on national waterways .................................................................. Sch. VII, List I-24.
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 485]]
@@ -16358,8 +18034,50 @@ INDEX
 
 459
 
-#### SIKKIM-
-
+#### SIKKIM—
+allocation of seat in the Council of States to ............................ Sch. IV.
+special provision with respect to the State of .......................... 371F.
+State of .............................................................................................. Sch. I.
+SOCIAL SECURITY AND SOCIAL INSURANCE ........................... Sch. VII, List III-23.
+SPEAKER—See HOUSE OF THE PEOPLE.
+SPORTS ................................................................................................. Sch. VII, List II-33.
+STAMP DUTIES—See UNDER FINANCE.
+#### STATE LEGISLATURE—
+Acts of—, lack of requirements as to recommendations and
+previous sanctions not to invalidate .................................... 255.
+Appropriation Bills ......................................................................... 204.
+Bills, assent to—See GOVERNORS and PRESIDENT.
+committees of, attendance of persons and production of
+documents before, power, privileges and immunities of .... Sch. VII, List II-39.
+conduct of Supreme Court and High Court Judges, not to be
+discussed in ............................................................................... 211.
+constitution of ................................................................................. 168.
+dissolution of ................................................................................... 174(2)(b).
+duration of ....................................................................................... 172.
+expenditure charged on the Consolidated Fund of the State,
+not subject to vote of .............................................................. 203(1).
+other expenditure subject to vote of .......................................... 203(2).
+language in—See LANGUAGE.
+laws made by—, extent of ............................................................ 245.
+inoperative if repugnant to Union laws .............................. 251–254.
+legislative procedure ...................................................................... 196–201.
+regarding financial matters .................................................... 202–206.
+regarding Money Bills ............................................................. 198.
+regarding votes on account, votes of credit, etc. ............... 206.
+Members of—
+disqualifications for ........................................................................ 191, Sch. X.
+decision on question as to ............................................................ 192.
+oath or affirmation by ................................................................... 188.
+privileges, etc., of ............................................................................ 194, Sch. VII,
+List II-39.
+qualifications for ............................................................................. 173.
+resignation by .................................................................................. 190(3)(b).
+salaries and allowances of ............................................................ 195, Sch. VII,
+List II-38.
+vacation of seats, etc., by .............................................................. 190.
+voting, etc., by—without making oath or affirmation, etc. ....... 193.
+power of—
+to act notwithstanding vacancies and quorum ........................ 189.
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 486]]
@@ -16370,9 +18088,50 @@ ARTICLE/SCHEDULE
 
 INDEX
 
+#### STATE LEGISLATURE—contd.
+to extend the functions of the State Public Service
+Commission ............................................................................. 321.
+to make laws regarding—
+Concurrent List ....................................................................... 246(2), Sch. VII,
+List III.
+elections to State Legislature ............................................... 328.
+establishment of a Contingency Fund ............................... 267(2).
+procedure in financial matters .............................................. 209.
+State List .................................................................................. 246(3), Sch. VII,
+List II.
+privileges, etc., of ............................................................................ 194(3), Sch. VII,
+List II-39.
+proceedings of—
+courts not to question validity of ............................................... 212.
+protection of publication of ......................................................... 361A.
+prorogation of .................................................................................. 174(2)(a).
+quorum in ........................................................................................ 189(3).
+restriction on discussion in ........................................................... 211.
+rules of procedure .......................................................................... 208.
+secretariat of .................................................................................... 187.
+special provisions with respect to the States of Maharashtra
+and Gujarat ............................................................................... 371(2).
+summoning of ................................................................................. 174.
+Union, relations with—
+administrative ........................................................................... 256—261.
+legislative ................................................................................... 245—255.
+voting in Houses of ....................................................................... 189.
+STATE LIST ............................................................................................ Sch. VII, List II.
+#### STATES ............................................................................................ Art. 1, Sch. I.
+Advocate-General—See ADVOCATE-GENERAL.
+alteration of areas, etc. .................................................................. 3.
+co-ordination between States: President’s power to appoint
+inter-State Council ................................................................... 263.
+effect of failure to comply with, or to give effect to, directions
+given by Union ......................................................................... 365.
+executive action of—to be taken in the name of Governor ....... 166(1).
+executive power of—, extent of ................................................... 162.
+executive power of—to vest in Governor .................................. 154(1).
+failure of constitutional machinery in ........................................ 356.
+formation of new States ................................................................ 3.
+Governor—See GOVERNORS.
+High Court—See HIGH COURTS.
 ARTICLE/SCHEDULE
-
-#### STATE LEGISLATUREcontd .
 
 [[END OF PAGE 487]]
 
@@ -16382,8 +18141,51 @@ INDEX
 
 461
 
-#### STATEScontd .
-
+#### STATES—contd.
+Legislative Assembly—
+composition of ................................................................................ 170.
+dissolution of .................................................................................. 174(2)(b).
+duration of ....................................................................................... 172.
+representation of Anglo-Indians in ............................................. 333.
+representation of Scheduled Castes and Scheduled Tribes
+in ............................................................................................... 332.
+Speaker and Deputy Speaker of—
+casting vote of ................................................................................ 189(1).
+choosing of ...................................................................................... 178.
+not to preside while a resolution for removal is under
+consideration ............................................................................ 181.
+performance of duties of office of, during the absence,
+etc., of ....................................................................................... 180.
+removal from office of ................................................................... 179(c).
+resignation of office by ................................................................. 179(b).
+salaries and allowances of ............................................................ 186, Sch. II, Part C,
+Para. 8 & Sch. VII,
+List II-38.
+vacation of office of ....................................................................... 179(a).
+Legislative Council—
+abolition or creation of ................................................................. 169.
+Chairman and Deputy Chairman of—
+casting vote of ................................................................................ 189(1).
+choosing of ...................................................................................... 182.
+not to preside while a resolution for removal is under
+consideration ............................................................................ 185.
+performance of duties of office of, during his absence, etc. ... 184.
+removal from office of ................................................................... 183(c).
+resignation of office by ................................................................. 183(b).
+salaries and allowances, etc., of .................................................. 186, Sch. II,
+Part C & Sch. VII,
+List II-38.
+vacation of office of ....................................................................... 183(a).
+composition of ................................................................................ 171.
+duration of ....................................................................................... 172(2).
+monopolies—See MONOPOLIES.
+welfare of the people .................................................................... 38.
+STOCK EXCHANGES AND FUTURES MARKETS ....................... Sch. VII, List I-48.
+SUBORDINATE COURTS.
+Control over ..................................................................................... 235.
+SUB-CLAUSE, definition of ................................................................. 366(27).
+SUCCESSION to property, assets, rights, liabilities and obligations ... 294-295.
+SUITS and proceedings by or against the Union or the States ....... 300.
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 488]]
@@ -16394,9 +18196,53 @@ ARTICLE/SCHEDULE
 
 INDEX
 
-ARTICLE/SCHEDULE
-
+SUPPLEMENTARY GRANTS—
+procedure relating to—
+in Parliament ........................................................................... 115.
+in State Legislature ................................................................ 205.
+#### SUPREME COURT—
+ad hoc Judges of—, their appointment, etc. ................................. 127.
+administrative expenses of—to be charged on the
+Consolidated Fund ................................................................... 146(3).
+ancillary powers of—, Parliament may confer on ........................ 140.
+appointment of officers and servants of ...................................... 146.
+authorities to act in aid of ............................................................ 144.
+certificate for appeal to ................................................................. 134A.
+Chief Justice of—
+acting, appointment of .................................................................. 126.
+appointment of—See JUDGES.
+appointment of arbitrator by—regarding extra cost of
+State administration .............................................................. 257(4), 258(3).
+constitution, organisation, jurisdiction and powers of ............... Sch. VII, List I-77.
+court of record ................................................................................ 129.
+decision of—regarding doubts or disputes arising out of the
+election of President or Vice-President of India .................. 71.
+enforcement of decrees and orders of ......................................... 142(1).
+enlargement of jurisdiction of ...................................................... 138.
+establishment and constitution of ................................................ 124.
+expenses of ....................................................................................... 146.
+Federal Court—
+Judges of—to become Judges of ................................................. 374(1).
+powers and jurisdiction of—to be exercisable by ................... 135.
+suits, appeals and proceedings pending in—, to be
+removed to .............................................................................. 374(2).
+grant of special leave by—to appeal ............................................ 136.
+Judges of—
+ad hoc ................................................................................................ 127.
+age of retirement of ....................................................................... 124(2).
+appointment of ............................................................................... 124(2).
+conduct of—not to be discussed in Parliament or State
+Legislature ............................................................................... 121, 211.
+determination of age of ................................................................ 124(2A).
+disqualification of—for pleading or acting in any court,
+etc. ............................................................................................. 124(7).
+oath or affirmations by .................................................................. 124(6).
+privileges, allowances, etc., of ...................................................... 125(2).
+qualifications for appointment of ................................................ 124(3).
+removal from office of ................................................................... 124(2) Proviso (b).
+salaries and allowances of ............................................................ 125(1), Sch. II, Part D,
 Para. 9.
+ARTICLE/SCHEDULE
 
 [[END OF PAGE 489]]
 
@@ -16406,8 +18252,51 @@ INDEX
 
 463
 
-#### SUPREME COURTcontd .
-
+#### SUPREME COURT—contd.
+Jurisdiction of—
+advisory ............................................................................................ 143.
+appellate—
+in cases involving interpretation of the Constitution ....... 132.
+in civil matters .......................................................................... 133.
+in criminal matters ................................................................... 134.
+original ....................................................................................... 131.
+language of—See LANGUAGE.
+law declared by—binding on all courts ..................................... 141.
+power of—
+to issue writs for enforcement of Fundamental Rights ......... 32.
+to punish for contempt ................................................................. 129.
+to review its own judgment ........................................................ 137.
+Privy Councils in Part B States, proceedings pending in,
+to be removed to ..................................................................... 374(4).
+retired Judges of—attendance at sittings of ................................ 128.
+rules of .............................................................................................. 145.
+seat of ................................................................................................ 130.
+special leave by ............................................................................... 136.
+SURVEY OF INDIA ............................................................................... Sch. VII, List I-68.
+### T
+TAMIL NADU—
+allocation of seats in the Council of States to ............................ Sch. IV.
+Legislative Council for .................................................................. 168.
+State of .............................................................................................. Sch. I.
+TAX ON INCOME, definition of ........................................................ 366(29).
+TAX ON SALE OR PURCHASE, definition of ................................ 366(29A).
+TAXATION, definition of ..................................................................... 366(28).
+TAXES—See FINANCE.
+TELEGRAPHS AND TELEPHONES ................................................... Sch. VII, List I-31.
+#### TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS
+(PART XXI)—
+relating to—
+Comptroller and Auditor-General ........................................ 377.
+Judges of—
+High Courts .............................................................................. 376.
+Federal Court ............................................................................ 374.
+Laws—
+adaptation of existing .............................................................. 372(2), 372A.
+continuance of existing ........................................................... 372(1).
+legal proceedings pending in—
+Federal Court .................................................................. 374(2).
+His Majesty in Council ................................................... 374(3).
+Privy Councils of Part B States .................................... 374(4).
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 490]]
@@ -16418,9 +18307,56 @@ ARTICLE/SCHEDULE
 
 INDEX
 
+#### TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS
+(PART XXI)—contd.
+power of Parliament to make laws with respect to certain
+matters in the State List ......................................................... 369.
+power of the President—
+to make order in respect of persons under preventive
+detention .................................................................................. 373.
+to remove difficulties ..................................................................... 392.
+Public Service Commission ........................................................... 378.
+State of Andhra Pradesh ............................................................... 371D.
+State of Arunachal Pradesh .......................................................... 371H.
+State of Assam ................................................................................. 371B.
+State of Goa ...................................................................................... 371-I.
+State of Gujarat ............................................................................... 371(2).
+State of Jammu and Kashmir ........................................................ 370.
+State of Karnataka .......................................................................... 371J.
+State of Maharashtra ...................................................................... 371(2).
+State of Manipur ............................................................................. 371C.
+State of Mizoram ............................................................................ 371G.
+State of Nagaland ........................................................................... 371A.
+State of Sikkim ................................................................................ 371F.
+TERRITORIAL WATERS, things lying in, or continental shelf, vest
+in the Union .................................................................................... 297.
+THEATRES AND DRAMATIC PERFORMANCES .......................... Sch. VII, List II-33.
+TITLES—
+abolition of ....................................................................................... 18.
+citizens of India not to accept—from any foreign State .......... 18(2).
+servants of State not to accept—presents, etc., from foreign
+State except with President’s consent ................................... 18(3) & (4).
+State not to confer—except military or academic distinction ... 18(1).
+TOLLS ..................................................................................................... Sch. VII, List II-59.
+TRADE AND COMMERCE—
+inter-State ......................................................................................... Sch. VII, List I-42.
+relating to products of industries controlled by Union ............. Sch. VII, List III-33.
+restrictions on legislative powers ................................................ 303.
+with foreign countries ................................................................... Sch. VII, List I-41.
+within a State ................................................................................... Sch. VII, List II-26.
+TRADE, COMMERCE AND INTERCOURSE—
+freedom of ........................................................................................ 301—303.
+power to carry on—etc. ................................................................. 298.
+power to impose restrictions on—
+of State Legislature ................................................................ 304.
+of Parliament .......................................................................... 302.
+TRADE MARKS AND MERCHANDISE MARKS ........................... Sch. VII, List I-49.
+TRADE REPRESENTATION ................................................................. Sch. VII, List I-11.
+TRADE UNIONS .................................................................................... Sch. VII, List III-22.
+TRADING CORPORATION—See CORPORATIONS.
+TRANSFER OF PROPERTY other than agricultural land ............... Sch. VII, List III-6.
+TREASURE TROVE ................................................................................ Sch. VII, List II-44.
 ARTICLE/SCHEDULE
-
-#### TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS (PART XXI) -contd.
 
 [[END OF PAGE 491]]
 
@@ -16430,6 +18366,48 @@ INDEX
 
 465
 
+TRIBES, nomadic and migratory ........................................................ Sch. VII, List III-15.
+TRIBUNALS—
+Administrative ................................................................................. 323A.
+for other matters ............................................................................. 323B.
+TRIPURA—
+allocation of seat in the Council of States to ............................ Sch. IV.
+State of .............................................................................................. Sch. I.
+TRUSTS AND TRUSTEES .................................................................... Sch. VII, List III-10.
+official trustees ................................................................................ Sch. VII, List III-11.
+### U
+UNEMPLOYMENT, assistance in case of, by the State ................... 41.
+#### UNION—
+admission into—or establishment of new States in ................... 2.
+deployment of armed forces or other forces of the— in any
+State in aid of the civil power ............................................... Sch. VII, List I-2A.
+directions by—, effect of failure by the States to comply with
+or to give effect to ................................................................... 365.
+duty of—to protect States against external aggression and
+internal disturbances ............................................................... 355.
+exemption of—property from State taxation ............................... 285.
+executive power of—, extent of ................................................... 73.
+executive power of—, vests in the President ............................. 53(1).
+Hindi, official language of .............................................................. 343.
+jurisdiction of—in relation to territories outside India ............. 260.
+name and territory of—See INDIA.
+property of ........................................................................................ Sch. VII, List I-32.
+relations between the States and—
+administrative ........................................................................... 256—261.
+co-ordination ............................................................................. 263.
+legislative ................................................................................... 245—255.
+restrictions on legislative powers of—and of the States with
+regard to trade and commerce .............................................. 303.
+suits and proceedings by or against ........................................... 300.
+UNION LIST ........................................................................................... Sch. VII, List I.
+UNION PUBLIC SERVICE COMMISSION ........................................ 315.
+UNION TERRITORIES—
+administration of ............................................................................ 239.
+definition of ..................................................................................... 366(30).
+High Courts for ............................................................................... 241.
+power of Administrator to promulgate Ordinances for ............. 239B.
+power of President to make regulations for ............................... 240.
+UNITED NATIONS ORGANISATION ............................................... Sch. VII, List I-12.
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 492]]
@@ -16440,6 +18418,50 @@ ARTICLE/SCHEDULE
 
 INDEX
 
+UNIVERSITIES
+Aligarh ............................................................................................... Sch. VII, List I-63.
+Benaras ............................................................................................... Sch. VII, List I-63.
+Delhi ................................................................................................... Sch. VII, List I-63.
+in Andhra Pradesh ........................................................................... Sch. VII, List I-63.
+of national importance .................................................................. Sch. VII, List I-63.
+others ................................................................................................. Sch. VII, List II-32.
+UNTOUCHABILITY, abolition of ........................................................ 17.
+UTTARAKHAND—
+allocation of seats in the Council of States to ............................ Sch. IV.
+State of .............................................................................................. Sch. I.
+UTTAR PRADESH—
+allocation of seats in the Council of States to ............................ Sch. IV.
+Legislative Council for .................................................................. 168.
+State of .............................................................................................. Sch. I.
+### V
+VAGRANCY ........................................................................................... Sch. VII, List III-15.
+VALIDATION of certain Acts and Regulations about acquisition of
+estates ............................................................................................... 31B and Sch. IX.
+VEHICLES, MECHANICALLY PROPELLED ................................... Sch. VII, List III-35.
+VETERINARY training and practice, preservation of stock, etc. .... Sch. VII, List II-15.
+VICE-PRESIDENT OF INDIA .............................................................. 63.
+conditions of office of .................................................................... 66(2) and (4).
+election of ......................................................................................... 66, Sch. VII, List I-72.
+is ex officio Chairman of the Council of States .......................... 64.
+matters relating to election of ...................................................... 71.
+oath or affirmation by ................................................................... 69.
+qualifications for election as ......................................................... 66(3).
+removal from office of ................................................................... 67 Proviso (b).
+resignation of office by .................................................................. 67 Proviso (a).
+salaries, etc., of ............................................................................... Sch. II, Part C.
+term of office of .............................................................................. 67.
+to act, etc., as President in case of vacancy in President’s
+office ........................................................................................... 65.
+vacancy in the office of ................................................................. 68.
+VILLAGE PANCHAYATS, organisation of, by the State ................ 40.
+VISAS ....................................................................................................... Sch. VII, List I-19.
+VOTE—
+Single transferable with proportional representation—
+See PROPORTIONAL REPRESENTATION.
+VOTING ON GRANTS—
+on account and of credit, etc.—
+by House of the People ................................................................ 116.
+by State Legislative Assembly ..................................................... 206.
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 493]]
@@ -16451,7 +18473,28 @@ INDEX
 467
 
 ### W
-
+WAR AND PEACE ................................................................................ Sch. VII,
+List I-1, 7 & 15.
+WATER—
+disputes relating to—, of inter-State rivers and river valleys ... 262.
+water supplies, irrigation, etc. ..................................................... Sch. VII, List II-17.
+WATERWAYS—
+declared by Parliament to be national ........................................ Sch. VII, List I-24.
+inland ................................................................................................ Sch. VII, List II-13.
+WEIGHTS AND MEASURES—
+establishment of standards of ...................................................... Sch. VII, List I-50.
+WEST BENGAL—
+allocation of seats in the Council of States to ............................ Sch. IV.
+State of .............................................................................................. Sch. I.
+WILD ANIMALS AND BIRDS, protection of ................................... Sch. VII, List III-17B.
+WILD LIFE, safeguarding of .............................................................. 48A.
+WILLS, intestacy and succession ...................................................... Sch. VII, List III-5.
+WIRELESS ............................................................................................... Sch. VII, List I-31.
+WORKERS—
+participation of—in management of industry ............................. 43A.
+WORKS, LANDS AND BUILDINGS of the State ............................ Sch. VII, List II-35.
+WORKS, naval, military and air force works ................................... Sch. VII, List I-4.
+WRONGS, actionable ............................................................................ Sch. VII, List III-8.
 ARTICLE/SCHEDULE
 
 [[END OF PAGE 494]]
