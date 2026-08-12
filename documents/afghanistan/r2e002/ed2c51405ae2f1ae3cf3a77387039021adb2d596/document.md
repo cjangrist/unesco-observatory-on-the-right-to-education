@@ -1,4 +1,12 @@
 [[START OF PAGE 1]]
+دافغانستان اسلامي جمهوريت
+د پوهنى وزارت
+
+جمهوری اسلامی افغانستان
+وزارت معارف
+
+ISLAMIC REPUBLIC OF AFGHANISTAN
+MINISTRY OF EDUCATION
 
 # NATIONAL EDUCATION INTERIM PLAN 2011-2013
 
@@ -14,19 +22,97 @@ January 2011
 
 # Table of Contents
 
+Foreword -------------------------------------------------------------------------------------------------------------1
+Executive Summary------------------------------------------------------------------------------------------------2
+PART 1 The Education Sector ------------------------------------------------------------------------------6
+1 Introduction: National Context ----------------------------------------------------------------------------------------- 6
+1.1 Macroeconomic Framework ----------------------------------------------------------------------------------------- 7
+1.2 Service Delivery Model ------------------------------------------------------------------------------------------------ 8
+1.3 Poverty and Demographic Context--------------------------------------------------------------------------------- 8
+1.4 Security Context------------------------------------------------------------------------------------------------------- 10
+1.5 Fiscal Characteristics ------------------------------------------------------------------------------------------------- 11
+1.6 Budget and Expenditure Characteristics ------------------------------------------------------------------------ 11
+1.7 Implications for Policy and Strategic Choices ------------------------------------------------------------------ 12
+2 The Education Sector: Situation Analysis--------------------------------------------------------------------------- 14
+2. 1 General Education ---------------------------------------------------------------------------------------------------- 14
+2.2 Islamic Education ----------------------------------------------------------------------------------------------------- 17
+2.3 Curriculum, Learning Material Development, and Teacher Training and Development ------------ 18
+2.4 Technical and Vocational Training -------------------------------------------------------------------------------- 22
+2.5 Literacy ------------------------------------------------------------------------------------------------------------------ 23
+2.6 Education Management--------------------------------------------------------------------------------------------- 25
+2.7 Financing the Sector-------------------------------------------------------------------------------------------------- 27
+2.8 Sector-wide Issues---------------------------------------------------------------------------------------------------- 34
+3 Education Provision in Afghanistan: Risks, Constraints, and Opportunities ------------------------------- 36
+3.1 Drivers of Fragility-------------------------------------------------------------------------------------------------------- 36
+3.2 Security --------------------------------------------------------------------------------------------------------------------- 37
+3.3 The Economy -------------------------------------------------------------------------------------------------------------- 38
+3.4 Governance ---------------------------------------------------------------------------------------------------------------- 39
+3.5 Society----------------------------------------------------------------------------------------------------------------------- 40
+3.6 The Environment --------------------------------------------------------------------------------------------------------- 41
+3.7 Lessons Learned ---------------------------------------------------------------------------------------------------------- 42
+3.8 Conclusion ----------------------------------------------------------------------------------------------------------------- 42
+4 Interim Plan Policies, Strategies, and Options -------------------------------------------------------------------- 44
+5 Inclusive Education ------------------------------------------------------------------------------------------------------ 45
+6 Gender ---------------------------------------------------------------------------------------------------------------------- 47
+6.1 Background ---------------------------------------------------------------------------------------------------------------- 47
+6.2 Structural Constraints --------------------------------------------------------------------------------------------------- 47
+6.3 Legislative Framework -------------------------------------------------------------------------------------------------- 48
+6.4 Strategic Gender Objectives and Targets--------------------------------------------------------------------------- 48
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+6.5 NESP-2 Gender Strategy------------------------------------------------------------------------------------------------ 48
+7 The Interim Plan – Priority Activities -------------------------------------------------------------------------------- 50
+8 Financing the Interim Program --------------------------------------------------------------------------------------- 53
+8.1 Costing ---------------------------------------------------------------------------------------------------------------------- 54
+8.2 Financing ------------------------------------------------------------------------------------------------------------------- 55
+9 Implementation, Monitoring, and Evaluation--------------------------------------------------------------------- 58
+9.1 Implementation----------------------------------------------------------------------------------------------------------- 58
+9.2 Monitoring ----------------------------------------------------------------------------------------------------------------- 61
+9.3 Evaluation ------------------------------------------------------------------------------------------------------------------ 64
+10 Addressing Implementation Capacity--------------------------------------------------------------------------------65
+10.1 Current Situation ----------------------------------------------------------------------------------------------------------65
+10.2 The Way Forward ---------------------------------------------------------------------------------------------------------66
+Part 2 Interim Plan: Programs and Activities--------------------------------------------------------- 69
+Program 1: General and Islamic Education------------------------------------------------------------------------------- 70
+Sub-program 1.1: General Education – Increasing Access to Basic Education----------------------------------- 70
+Sub-program 1.1: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)-------------- 75
+Sub-program 1.2: Strengthening Islamic Education-------------------------------------------------------------------- 77
+Sub-program 1.2: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)-------------- 80
+Program 2: Curriculum Development, Teacher Education and Science and Technology Education ------- 81
+Sub-program 2.1: Curriculum Development ----------------------------------------------------------------------------- 81
+Sub-program 2.1: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)-------------- 85
+Sub-program 2.2: Teacher Education -------------------------------------------------------------------------------------- 87
+Sub-program 2.2: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)-------------- 91
+Sub-program 2.3: Science and Technology Education----------------------------------------------------------------- 92
+Sub-program 2.3: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)-------------- 93
+Program 3: Technical and Vocational Education and Training -------------------------------------------------- 94
+Program 3: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)------------------- 98
+Program 4: Increasing Literacy Levels---------------------------------------------------------------------------------100
+Program 4: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)------------------103
+Program 5: Education Governance and Administration ---------------------------------------------------------104
+Sub-program 5.1: Education Administration Development ---------------------------------------------------------104
+Sub-program 5.1: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)-------------108
+Sub-program 5.2: Strategic Management Development ------------------------------------------------------------109
+Sub-program 5.2: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)-------------112
+Part 3 Operational Plans --------------------------------------------------------------------------------- 113
+3.1 Annual Planning and Budget Cycle ------------------------------------------------------------------------------114
+3.2 Operational Plan 2011-2013: Budgets and Priorities -------------------------------------------------------115
+3.3 Annual Plan 2011/12------------------------------------------------------------------------------------------------122
+3.4 Provincial Planning Process----------------------------------------------------------------------------------------123
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-Annex 2
-
-Education Opportunities According to Location-------------------------------------------------------127
+Interim Plan Annexes ---------------------------------------------------------------------------------------------------------124
+Annex 1 Education Indicators – The Global Context – Afghanistan ------------------------------------------125
+1.1. The Millennium Development Goals----------------------------------------------------------------------------125
+1.2 EFA Goals --------------------------------------------------------------------------------------------------------------125
+1.3 EFA Indicators---------------------------------------------------------------------------------------------------------126
+Annex 2 Education Opportunities According to Location -------------------------------------------------------127
 
 [[END OF PAGE 4]]
 
@@ -73,6 +159,7 @@ R-Fin | Right-Financing
 TTC | Teacher Training College
 TVET | Technical and Vocational Education and Training
 WB | World Bank
+USAID | United States Agency for International Development
 
 [[END OF PAGE 5]]
 
@@ -90,7 +177,7 @@ However,  policy  is  not  static.  We  are  aware  of  a  number  of  weaknesse
 
 In  the  meanwhile,  my  ministry  has  been  exploring  how  we  can  become  a  member  of  the  Fast  Track Initiative (FTI) Partnership, a global alliance that has the overall aim of assisting countries to achieve the Millennium  Development Education Goals and the Education For All (EFA) targets.  We  have  reached agreement  with  the  FTI  Secretariat  that  we  will  submit  an  Education  Interim  Plan  for  the  period 2011-13, as: (a) a means of joining the FTI 'family', and (b) a means of qualifying for financial assistance to support our EFA strategy. The Interim Plan is based on the low-case resourcing scenario of NESP-2 priority programs. We would hope that following the implementation of the Interim Plan, we would be in a position to submit a full sector plan in 2015, which will embrace the education sector as a whole.
 
-This  Interim  Plan  addresses the critical  issues  raised  by  the  Education  Sector  Analysis  (2010)  and  the initial  appraisal  of the  NESP-2.  Other  key  contributing  documents/studies have been the World Banksupported Expenditure Review and the National Priority Programs document.
+This Interim Plan addresses the critical issues raised by the Education Sector Analysis (2010) and the initial appraisal of the NESP-2. Other key contributing documents/studies have been the World Bank-supported Expenditure Review and the National Priority Programs document.
 
 The  Interim  Plan  will  be  appraised  by  the  Local  Donor  Group  here  in  Afghanistan  and,  following  the recommendations of this group, will be formally submitted to the FTI Secretariat. It is hoped that an eventual endorsement of the Interim Plan will allow us to apply for FTI EFA Funds to help us achieve the objectives of this plan. The Education Interim Plan will form the base for the coordination and alignment of local donor support to education in Afghanistan.
 
@@ -120,7 +207,7 @@ The IP is also a response to MoE willingness to join the FTI Partnership, a glob
 
 Reform  of  the  education  system  and  capacity-building  of  core  and  programmatic  departments  at national and sub-national level to deliver equitable and effective education services are integral parts of NESP/IP. Program 5 of NESP/IP is specially designed to address the current capacity constraints, while other programs also have capacity-building elements.
 
-The MoE is submitting the IP in recognition of the specific circumstances in Afghanistan as the country struggles  with  the  legacy  of  a  30-year  conflict  and  ongoing  instability.  Thus,  the  IP  has  elements  of emergency  education  (home-based  education,  relocation  of  female  staff  to  rural  schools,  temporary buildings, etc.) and of development education (formal teacher education, curriculum development, etc). The IP will address key 'do-able' activities within a three-year period. Its content essentially matches the short-to-medium term priorities of the MoE, as articulated in the Five Programs of NESP-2 (20102014). These are further articulated in the National Priority Programs developed by the Human Resource Development Cluster (July 2010). 1 The IP focuses on the six EFA goals and thus extracts from the NESP-2 those activities that: (a) have a high probability of being implemented in the three-year period, (b) fall within  the  financial  and  human  capacity  of  the  MoE  and  its  development  partners,  and  (c) strongly support materialization of the rights of children and adults to education and training.
+The MoE is submitting the IP in recognition of the specific circumstances in Afghanistan as the country struggles with the legacy of a 30-year conflict and ongoing instability. Thus, the IP has elements of emergency education (home-based education, relocation of female staff to rural schools, temporary buildings, etc.) and of development education (formal teacher education, curriculum development, etc). The IP will address key 'do-able' activities within a three-year period. Its content essentially matches the short-to-medium term priorities of the MoE, as articulated in the Five Programs of NESP-2 (2010-2014). These are further articulated in the National Priority Programs developed by the Human Resource
 
 2
 
@@ -128,7 +215,9 @@ The MoE is submitting the IP in recognition of the specific circumstances in Afg
 
 [[START OF PAGE 8]]
 
-The  MoE  aims  to  harmonize  policy  documents.  The  relationships  between  NESP-2,  the  Interim  Plan, National Priority Programs (NPPs), and the FTI proposal are shown in the following illustration.
+Development Cluster (July 2010).1 The IP focuses on the six EFA goals and thus extracts from the NESP-2 those activities that: (a) have a high probability of being implemented in the three-year period, (b) fall within the financial and human capacity of the MoE and its development partners, and (c) strongly support materialization of the rights of children and adults to education and training.
+
+The MoE aims to harmonize policy documents. The relationships between NESP-2, the Interim Plan, National Priority Programs (NPPs), and the FTI proposal are shown in the following illustration.
 
 2010
 
@@ -174,15 +263,15 @@ The IP includes five programs:
 
 [[START OF PAGE 9]]
 
-- General and Islamic Education (with a focus on increasing access to basic education, particularly for girls and in rural areas)
+1. General and Islamic Education (with a focus on increasing access to basic education, particularly for girls and in rural areas)
 
-- Curriculum Development, Teacher Education, and Science and Technology Education
+2. Curriculum Development, Teacher Education, and Science and Technology Education
 
-- Technical Education
+3. Technical Education
 
-- Literacy
+4. Literacy
 
-- Education Governance and Administration
+5. Education Governance and Administration
 
 The specific objectives of the Interim Plan are to promote the overall goals of NESP-2 through a more narrowly focused set of activities (see Part 2 of the IP):
 
@@ -208,7 +297,7 @@ The estimated budget (operating and development) for the Interim Plan (low-case 
 
 The year 1388 is the base year and the budget below (Table  1)  is  the  low-case  scenario.  The  IP  was developed on the basis of  this  scenario,  with  prioritized  activities  that  reflect  FTI  objectives  and  EFA goals  and  objectives.  The  total  core  budget  available  for  education  in  1389  is  around  US$574 million (US$390 million operating and US$184 million development). It is estimated that around US$250 million will  be  spent  on  education  through  external  budget  means  (donors,  PRTs,  etc).  Therefore  the  total resources  available  for  education  will  be  nearly  US$824 million.  In  addition,  parents  will  contribute around US$75 million (tuition fees, educational materials, and transport) for private school education.
 
-The estimated budget for the IP is more than US$1.1 billion (operating and development budget) per year.  A  low-case  scenario  (development  budget  only)  could  be,  for  example,  pitched  at  about 450 million USD (core and external development budget). The MoE believes that on the basis of the lowcase scenario, it could mobilize US$150-200 million per year through its core development budget and will  therefore  request  a  grant  of  around  US$100   million  from  the  FTI.  The  MoE  anticipates  that  over US$250 million  will  be  mobilized/available  for  education  by  donors  and  partners  through  external development projects.
+The estimated budget for the IP is more than US$1.1 billion (operating and development budget) per year. A low-case scenario (development budget only) could be, for example, pitched at about 450 million USD (core and external development budget). The MoE believes that on the basis of the low-case scenario, it could mobilize US$150-200 million per year through its core development budget and will therefore request a grant of around US$100 million from the FTI. The MoE anticipates that over
 
 > 3 A taskforce (MoE and partners) under the Education Management Working Group of Human Resources Development Board (HRDB) has developed a proposal for Developing Effective Program Management and Administration Capacity at National and Sub-national Level for joint donor funding. The concept of pooled funding for capacity building is under discussion at HRDB.
 
@@ -217,6 +306,8 @@ The estimated budget for the IP is more than US$1.1 billion (operating and devel
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+US$250 million will be mobilized/available for education by donors and partners through external development projects.
 
 It is important to note that this is the development budget. Accompanying operational costs are covered by the regular budget of the MoE. (See chapter on financing the sector).
 
@@ -303,11 +394,13 @@ Challenges to be considered:
 
 § Heavy dependence on external donor support, much of which does not pass through the treasury system, leading to projectization and resource planning uncertainty.
 
-NESP-2, which addresses this unique set of challenges and constraints, is scenario-driven and programbased. It is premised on realistic assumptions, adopts risk mitigation measures, and is based on a set of policy commitments that places children's education first. It is also informed by sector costing that is not needs-based, but rather prioritized based on different resourcing scenarios, reflective of the extreme uncertainty of fiscal resources in general.
+NESP-2, which addresses this unique set of challenges and constraints, is scenario-driven and program-based. It is premised on realistic assumptions, adopts risk mitigation measures, and is based on a set of policy commitments that places children's education first. It is also informed by sector costing that is not needs-based, but rather prioritized based on different resourcing scenarios, reflective of the extreme uncertainty of fiscal resources in general.
 
 ### 1.1. Macroeconomic Framework
 
 Some  of  the  core  factors  affecting  sector  resourcing  include  the  overall  strength  of  the  underlying economy, the ratio between GDP growth and revenue generation within the growth framework, and the trade-offs  made  by  government  in  financing  competing  priorities.  According  to  the  IMF,  real  GDP growth 6 in  the  fiscal  year  ending  1388/2009  is  projected  at  15   percent,  bolstered  by  a  recovery  in agricultural  output  and  higher  government  spending  and  grants.  Current  fiscal  policy  focuses  on containing  non-security  spending  while  accommodating  increases  in  security  spending  financed  with additional grants. As a result of increasing expenditure demands, the operating deficit excluding grants is expected to worsen by 1.6 percent of GDP, even though recent revenue performance improved during the second and third quarters of 1388/2009. Government spending is steadily increasing, but much of this is being financed by grants, as is the case for the education sector. However, revenue mobilization is expected to increase from an average of 7.1 percent of GDP to 8.0 percent, although deficit financing is set to increase. The macroeconomic framework has a significant impact on the education sector, as can be  seen  in  Table 2  below  where  both  operating  and  development  finance  deficits  are  increasingly covered by international cooperation partner grants.
+
+Table 2: Macroeconomic Variables and Education Spending (% GDP)
 
 Factor | 1388/89 | 1389/90 | 1390/91 | 1391/92 | 1392/93 | 1394/95
 --- | --- | --- | --- | --- | --- | ---
@@ -317,16 +410,13 @@ Domestic Revenues | 8.1 | 8.6 | 9.1 | 9.6 | 10.1 | 9.6
 Grants | 11.8 | 10.6 | 10.4 | 10.2 | 10.0 | 9.6
 Total Expenditures | 22.1 | 22.1 | 22.2 | 22.2 | 21.7 | 21.8
 Operating Expenditures | 14.4 | 14.8 | 15.0 | 15.0 | 14.4 | 13.8
-Education Spending (US$)
-Operating (US$) 7
-
-Table 2: Macroeconomic Variables and Education Spending (% GDP)
-
-Development (Core and External) (US$)
+Education Spending (US$) |  |  |  |  |  | 
+Operating (US$)7 |  |  |  |  |  | 
+Development (Core and External) (US$) |  |  |  |  |  | 
 
 Source: IMF and Ministry of Finance, Budget Department.
 
-Macroeconomic stability and education spending are closely correlated given the relationship between GDP growth and revenues. With drought affecting growth every four to five years (the last drought of 2008  is  still  affecting  economic  activity)  and  with  Afghanistan's  substantial  dependence  on  external support, locking  in finances to meet the increasing  demand for education will  require scenario-based planning. Planning should be undertaken with at least indicative medium-term resourcing agreements in place, reflective of a number of assumptions and variables. Such variables include: (a) needs -based cost drivers; (b) performance of administrative units and  program  managers; 8 and  (c) coherence in sequencing of reform and structural adjustment measures.
+Macroeconomic stability and education spending are closely correlated given the relationship between GDP growth and revenues. With drought affecting growth every four to five years (the last drought of 2008 is still affecting economic activity) and with Afghanistan's substantial dependence on external support, locking in finances to meet the increasing demand for education will require scenario-based planning. Planning should be undertaken with at least indicative medium-term resourcing agreements in
 
 > 6 With nominal GDP reaching US$13 billion in 1388/1389.
 
@@ -337,6 +427,8 @@ Macroeconomic stability and education spending are closely correlated given the 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+place, reflective of a number of assumptions and variables. Such variables include: (a) needs-based cost drivers; (b) performance of administrative units and program managers;8 and (c) coherence in sequencing of reform and structural adjustment measures.
 
 ### 1.2. Service Delivery Model
 
@@ -355,6 +447,29 @@ Delivering  on  our  commitment  to  Education  For  All  (EFA)  requires  a  na
 [[START OF PAGE 14]]
 
 Figure 1: Percent of Poor Households by Education Level (NRVA - 2008)
+
+Sex of head
+Male 33
+Female 38
+
+Disability status of head
+Disabled 35
+Not disabled 33
+
+Literacy of head
+Literate 27
+Illiterate 35
+
+Education of head
+No education 35
+Primary school 31
+Middle school 30
+High school 22
+Teacher college 23
+University 9
+Post-graduate 7
+
+0 5 10 15 20 25 30 35 40
 
 Source: MoRRD, 2009.
 
@@ -396,7 +511,7 @@ The  ability  of  the  MoE  to  rapidly  expand  the  delivery  of  education  s
 
 The  national  budget  is  structured  around  core  and  external  budgets,  with  all  core  funding  passing through  the  treasury  system  and  all  external  budgets  being  broadly  ring-fenced  for  reasons  of coordination. Currently the external budget accounts for over half of all education expenditures and as a consequence,  planning,  budget  execution,  and  reporting  systems  remain  highly  fragmented.  While education expenditures have constantly increased in absolute values, they are gradually decreasing as a share  of  GDP  because  the  value  of  external  budget  expenditures  has  remained  relatively  constant. About  60 percent  of  all  education  expenditures  are  external  budget  expenditures,  and  more  than 80 percent  of  the  core  budget  is  allocated  to  operating  expenditures,  specifically  teacher  salaries. However,  as  shown  in  Table 3  below,  per  capita  development  spending  on  education  across  the provinces is far from equitable, largely because spending remains outside the core budget.
 
-Moreover, even though public sector staffing for education (around 40 percent) matches security sector staffing (circa 228,034 in 1388/1389), the education sector currently provides a significantly lower salary scale, undermining motivation and the ability to recruit quality staff; calculated by the total wage and salaries divided by total Tashkeel . Education sector salaries are currently half of security sector salaries.
+Moreover, even though public sector staffing for education (around 40 percent) matches security sector staffing (circa 228,034 in 1388/1389), the education sector currently provides a significantly lower salary
 
 11
 
@@ -404,15 +519,17 @@ Moreover, even though public sector staffing for education (around 40 percent) m
 
 [[START OF PAGE 17]]
 
-Education | Health | Agri/Rural | Urban | Other* | Total
+scale, undermining motivation and the ability to recruit quality staff; calculated by the total wage and salaries divided by total Tashkeel. Education sector salaries are currently half of security sector salaries.
+
+Table 3: Variation of Per Capita Development Expenditures for Education and Selected Ministries (2006/2007)
+
+ | Education | Health | Agri/Rural | Urban | Other* | Total
 --- | --- | --- | --- | --- | --- | ---
 Average | 13.6 | 17.2 | 51.6 | 1.2 | 212.8 | 296.5
 Standard Deviation | 29.3 | 26.8 | 81.0 | 3.5 | 323.8 | 334.2
 Coefficient of Variation | 2.1 | 1.6 | 1.6 | 3.0 | 1.5 | 1.1
-Minimum Maximum | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.2
-133.6 | 90.0 | 411.9 | 17.7 | 1,083.6 | 1,144.0
-
-Table 3: Variation of Per Capita Development Expenditures for Education and Selected Ministries (2006/2007)
+Minimum | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.2
+Maximum | 133.6 | 90.0 | 411.9 | 17.7 | 1,083.6 | 1,144.0
 
 *Including provincial development spending by the Ministries of Interior, Public Works, and Energy and Water.
 
@@ -466,11 +583,21 @@ The number of students in general education has increased from 2.3 million in 13
 
 Figure 3: Total number of students, 1381-1388 (2002-2009)
 
+0 1,000,000 2,000,000 3,000,000 4,000,000 5,000,000 6,000,000 7,000,000
+1381 1382 1383 1384 1385 1386 1387 1388
+No of Female Students
+No of Male Students
+
 Source: MoE, EMIS Directorate, 1388 (2009).
 
 Net  enrollment  rates  (NER)  in  basic  education  for  boys/girls  were  estimated  to  be  68   percent  and 44 percent,  respectively,  while  gross  enrollment  rates  (GER)  in  basic  education  were  estimated  at 82 percent  and  52 percent  for  boys  and  girls,  respectively,  in  1388  (2009).  GER  varies  considerably among  provinces.  Students  in  primary,  lower  secondary,  and  higher  secondary  levels  constitute 75 percent, 19 percent, and 6 percent of general education students, respectively. As the 1388 (2009) school  survey  data  show,  most  students  are  concentrated  in  grades 1  through  4  with  the  number declining  after  grade 5  (see  Figure 4).  As  today's  students  move  through  the  system  and  as  more children enter the system, the trend will continue such that in 1389 the vast majority of students will be enrolled in grades 1  through  7  with  a  marked  decrease  in  enrollment  beginning in  grade 8. Although enrollment in grades 8 through 12 will be significantly lower than grades 1 through 7, it is projected to be nearly four times the number of students enrolled in 1387 (2008).
 
 Figure 4: Enrollment in General Education
+
+0 100,000 200,000 300,000 400,000 500,000 600,000
+Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+Male Students
+Female Students
 
 Source: MoE, EMIS Directorate, 1388 (2009).
 
@@ -482,9 +609,14 @@ Source: MoE, EMIS Directorate, 1388 (2009).
 
 #### Teacher Numbers
 
-The  number  of  teachers  has  nearly  doubled  to  around  156,000  in  1388  (2009)  with  31 percent comprising  female teachers. Figure 5 shows the number of male and  female teachers in  years 13811388 (2002-2009). Despite the increase, the MoE estimates that 32,000 new teachers are needed each year if the ministry wants to achieve its Millennium Development Goals and create equity among the provinces. The current MTFF for education, agreed with the Ministry of Finance, only foresees increases of 13,100 teachers per year, which is therefore the base/low-case scenario presented here.
+The number of teachers has nearly doubled to around 156,000 in 1388 (2009) with 31 percent comprising female teachers. Figure 5 shows the number of male and female teachers in years 1381-1388 (2002-2009). Despite the increase, the MoE estimates that 32,000 new teachers are needed each year if the ministry wants to achieve its Millennium Development Goals and create equity among the provinces. The current MTFF for education, agreed with the Ministry of Finance, only foresees increases of 13,100 teachers per year, which is therefore the base/low-case scenario presented here.
 
-Figure 5: Number of teachers, 1381 -1388 (2002-2009)
+Figure 5: Number of teachers, 1381-1388 (2002-2009)
+
+0 20,000 40,000 60,000 80,000 100,000 120,000 140,000 160,000 180,000
+1381 1382 1383 1384 1385 1386 1387 1388
+No of Female Teacher
+No of Male Teacher
 
 Source: MoE, EMIS Directorate, 1388 (2009).
 
@@ -492,11 +624,11 @@ Source: MoE, EMIS Directorate, 1388 (2009).
 
 In both 1387 (2008) and 1388 (2009), 2,398 new schools were established throughout the country. The total number of general schools has increased from 6,039 in 1381 (2002) to 11,460 in 1388 (2009). Of the  11,460  general  education  schools,  5,124  are  primary,  3,634  are  lower  secondary,  and  2,702  are upper secondary. Around 15 percent are girls' school, 34 percent are boys' schools, and 51 percent are schools for both boys and girls who learn in different shifts. Of the total 412 rural and urban districts, there are only 196 districts with at least one upper secondary girls' school; others do not have any upper secondary girls' schools. Around 83 percent of schools are located in rural areas, against a demographic of  77   percent  of  the  population  living  in  rural  areas  (CSO,  1389/2009).  However,  only  64   percent  of school-goers are from rural areas, with the difference increasing at the higher secondary level where only  40 percent  are  from  rural  areas.  For  girls,  the  rural-urban  disparity  is  even  greater.  The  gender parity  index  (GPI)  for  primary  education  in  the  rural  area  is  0.60,  while  the  urban  GPI  is  0.73. 11 The situation is even worse at the lower and upper secondary levels. 12
 
+Table 4: Number of Schools from 1381 to 1388 (2002 to 2009)
+
 Year | 1381 (2002) | 1382 (2003) | 1383 (2004) | 1384 (2005) | 1385 (2006) | 1386 (2007) | 1387 (2008) | 1388 (2009)
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Number of schools | 6,039 | 7,137 | 8,254 | 8,398 | 8,398 | 9,062 | 10,541 | 11,460
-
-Table 4: Number of Schools from 1381 to 1388 (2002 to 2009)
 
 Source: MoE, EMIS Directorate, 1388 (2009).
 
@@ -510,13 +642,13 @@ Source: MoE, EMIS Directorate, 1388 (2009).
 
 [[START OF PAGE 21]]
 
+Table 5: Gender Parity Index (GPI) in Rural and Urban Areas
+
 Level of Education | Total | Rural | Urban
 --- | --- | --- | ---
 Primary | (0.64) | 0.60 | 0.73
 Lower Secondary | (0.49) | 0.40 | 0.63
 Upper Secondary | (0.39) | 0.23 | 0.52
-
-Table 5: Gender Parity Index (GPI) in Rural and Urban Areas
 
 Source: MoE, EMIS Directorate, 1388 (2009)
 
@@ -526,15 +658,57 @@ Public  awareness  activities  have  been  conducted  through  seminars,  poster
 
 Figure 6: Number of Females Enrolled in Schools from 1381 to 1388 (2009)
 
+Number of Female Students
+0 500,000 1,000,000 1,500,000 2,000,000 2,500,000 3,000,000
+1381 1382 1383 1384 1385 1386 1387 1388
+
 Source: MoE, EMIS Directorate, 1388 (2009).
 
 The gender parity index varies from province to province with the status of girls' education better in the provinces of Hirat and Badakhshan (9 girls to 10 boys) and worst in Zabul and Uruzgan (1 girl to 10 boys). Figure 7 highlights the correlation between insecurity and access.
 
 Figure 7: Student Gender Parity Index by Province, 1388 (2009)
 
+Students gender parity index by province, 1388
+0.00 0.20 0.40 0.60 0.80 1.00
+Uruzgan
+Zabul
+Hilmand
+Paktika
+Paktia
+Kandahar
+Wardak
+Badghis
+Khost
+Kabul Province
+Logar
+Farah
+Ghazni
+Kapisa
+Parwan
+Samangan
+Ghor
+Kunar
+Baghlan
+Panjshir
+Nangarhar
+Kunduz
+Jawzjan
+Sari Pul
+Nimroz
+Laghman
+Balkh
+Bamyan
+Daikundi
+Faryab
+Takhar
+Kabul City
+Nuristan
+Badakhshan
+Hirat
+
 Source: MoE, EMIS Directorate, 1388 (2009).
 
-There is a strong correlation between the number of female teachers and the number of girls attending school.  In  1388  (2009)  only  31 percent  of  teachers  were  women  (see  Figure 8).  The percentage  of female teachers also varies considerably by province. Females constitute only 1 percent, 3 percent, and 4 percent of teachers in the provinces of Paktika, Khost, and Uruzgan, whereas in Kabul and Balkh they represent 73 percent and 51 percent, respectively. Although the number of female teacher numbers has increased in recent years, it has not met NESP objectives set for 1385 (2006)-1389 (2010). 13 In addition to  the  shortage  of  female  teachers,  local  traditions,  discrimination  against  girls,  insecurity  in  some regions, and lack of girls' schools near their homes are among the obstacles to girls' enrollment. 14
+There is a strong correlation between the number of female teachers and the number of girls attending school. In 1388 (2009) only 31 percent of teachers were women (see Figure 8). The percentage of female teachers also varies considerably by province. Females constitute only 1 percent, 3 percent, and 4 percent of teachers in the provinces of Paktika, Khost, and Uruzgan, whereas in Kabul and Balkh they
 
 16
 
@@ -542,24 +716,64 @@ There is a strong correlation between the number of female teachers and the numb
 
 [[START OF PAGE 22]]
 
+represent 73 percent and 51 percent, respectively. Although the number of female teacher numbers has increased in recent years, it has not met NESP objectives set for 1385 (2006)-1389 (2010).13 In addition to the shortage of female teachers, local traditions, discrimination against girls, insecurity in some regions, and lack of girls' schools near their homes are among the obstacles to girls' enrollment.14
+
 Figure 8: percentage of Female Teachers by Province
+
+% of Female Teachers
+0.00% 20.00% 40.00% 60.00% 80.00%
+Paktika
+Khost
+Uruzgan
+Ghor
+Paktia
+Kunar
+Laghman
+Wardak
+Nuristan
+Nangarhar
+Zabul
+Parwan
+Kapisa
+Logar
+Badghis
+Kandahar
+Panjshir
+Bamyan
+Hilmand
+Ghazni
+Baghlan
+Farah
+Takhar
+Samangan
+Faryab
+Kabul
+Kunduz
+Saripul
+Daikundi
+Badakhshan
+Jawzjan
+Herat
+Nimroz
+Balkh
+Kabul city
 
 Source: MoE, EMIS Directorate, 1388 (2009).
 
 ### 2.2. Islamic Education
 
-In  2001 only  a limited number of male students were attending 220 madrasas ,  all  of  which  lacked  a unified,  defined  curriculum.  Today  around  137,000  students  (10 percent  girls)  are  enrolled  in  Islamic schools and a new curriculum is being developed. Overall, girls' enrollment is low; most Islamic schools lack  proper  buildings  and  dormitories.  However,  demand  for  Islamic  education  remains  very  high compared  to  the  services  being  provided.  By  1388  (2009),  71 Dar-ul-Ulums (Institutes  of  Islamic Education for grades 13-14), 374 Islamic studies schools, 87 Dar-ul-Huffaz (school  for  memorizing the Holy  Quran),  and  24  outreach  schools  had  been  established,  thus  increasing  the  number  of  Islamic education institutes to 556. The number of Islamic education students (in Islamic schools and Dar-ulUlums )  has  increased  from  58,000  in  1385  (2006)  to  around  137,000  in  1388  (2009)  with  10 percent females. The number of students in Dar-ul-Ulums increased to 2,539 (2 percent of the total number of Islamic education students) in 1388 (2009) with nearly 6 percent females. 15
+In 2001 only a limited number of male students were attending 220 madrasas, all of which lacked a unified, defined curriculum. Today around 137,000 students (10 percent girls) are enrolled in Islamic schools and a new curriculum is being developed. Overall, girls' enrollment is low; most Islamic schools lack proper buildings and dormitories. However, demand for Islamic education remains very high compared to the services being provided. By 1388 (2009), 71 Dar-ul-Ulums (Institutes of Islamic Education for grades 13-14), 374 Islamic studies schools, 87 Dar-ul-Huffaz (school for memorizing the Holy Quran), and 24 outreach schools had been established, thus increasing the number of Islamic education institutes to 556. The number of Islamic education students (in Islamic schools and Dar-ul-Ulums) has increased from 58,000 in 1385 (2006) to around 137,000 in 1388 (2009) with 10 percent females. The number of students in Dar-ul-Ulums increased to 2,539 (2 percent of the total number of Islamic education students) in 1388 (2009) with nearly 6 percent females.15
+
+Table 6: Number of Islamic Education Institutes, Students, and Teachers
 
 Islamic Teachers | Students | Islamic Education Institutes
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Male | Female | Total | Male | Female | Total | Schools | Dar-ul-Huffaz | Dar-ul-Ulums | Outreach | Total
 4,249 | 128 | 4,377 | 123,146 | 13,789 | 136,935 | 374 | 87 | 71 | 24 | 556
 
-Table 6: Number of Islamic Education Institutes, Students, and Teachers
-
 Source: MoE, EMIS Directorate, 1388 (2009).
 
-From 1385 (2006) to 1388 (2009), more than 2,000 new teachers were recruited, increasing the number of  Islamic  education  teachers  to  4,377,  of  whom  only  128  were  female.  The  number  of  professional Islamic teachers (grade 14 and above) is low. As shown in Figure 9, around 35 percent of the teachers are grade 14 graduates and above, while 65 percent are grade 12 graduates and lower. To retain and attract  more  qualified  teachers,  750  teachers  with  either  a  bachelor's  degree  or  an  education  of grade 14 have been receiving additional academic allowances.
+From 1385 (2006) to 1388 (2009), more than 2,000 new teachers were recruited, increasing the number of Islamic education teachers to 4,377, of whom only 128 were female. The number of professional Islamic teachers (grade 14 and above) is low. As shown in Figure 9, around 35 percent of the teachers are grade 14 graduates and above, while 65 percent are grade 12 graduates and lower. To retain and
 
 > 13 The objective set for 1389 (2010): 'By 1389 (2010) the number of female teachers will be increased by 50%.' National Education Strategic Plan (1385-1389/2006-2010), Ministry of Education, 2006.
 
@@ -573,7 +787,19 @@ From 1385 (2006) to 1388 (2009), more than 2,000 new teachers were recruited, in
 
 [[START OF PAGE 23]]
 
+attract more qualified teachers, 750 teachers with either a bachelor's degree or an education of grade 14 have been receiving additional academic allowances.
+
 Figure 9: Percentage of Islamic Education Teachers by Level of Education
+
+Islamic Education Teachers By Qualification
+Primary 787 18%
+Secondery 297 7%
+12Th Grade 1766 41%
+14Th Grade 1192 27%
+Undergraduate 317 7%
+Master 5 0%
+Doctors 1 0%
+Unknown By Qualification 10 0%
 
 Source: MoE, EMIS Directorate, 1388 (2009).
 
@@ -619,9 +845,57 @@ Of the 156,000 registered general education teachers, only 27 percent have an ed
 
 Figure 10: Percentage of Educationally Qualified Teachers
 
+General Education Teachers By Qualification
+Primary 17520 11%
+Secondery 16589 11%
+12Th Grade 80000 51%
+14Th Grade 30554 20%
+Undergraduate 10988 7%
+Master 41 0%
+Doctors 270 0%
+Unknown By Qualification 498 0%
+
 Source: MoE, EMIS Directorate, 1388 (2009).
 
 Figure 11: Percentage of educationally qualified teachers by province
+
+Percentage of educationally qualified teachers by province 1388
+0% 10% 20% 30% 40% 50% 60% 70% 80%
+Daikondi
+Paktika
+Ghor
+Uruzgan
+Sari Pul
+Zabul
+Kandahar
+Paktia
+Badghis
+Panjshir
+Wardak
+Kunar
+Khost
+Bamyan
+Farah
+Herat
+Logar
+Ghazni
+Nuristan
+Baghlan
+Takhar
+Nangarhar
+Badakhshan
+Hilmand
+Kabul
+Kunduz
+Faryab
+Nimroz
+Parwan
+Laghman
+Samangan
+Jawzjan
+Balkh
+Kapisa
+Kabul City
 
 Source: MoE, EMIS Directorate, 1388 (2009).
 
@@ -629,14 +903,14 @@ Source: MoE, EMIS Directorate, 1388 (2009).
 
 The number of student teachers in TTCs was 42,432 in 1388 (2009), of which 16,117 (38 percent) were female. Of the total number of student teachers, 48 percent are enrolled in the MoE's two pre-service programs  and 52 percent are  enrolled in in-service  programs.  In  1388  (2009),  the  overall  number  of student teachers enrolled in in-service two-year programs reached 22,017 and the number of student teachers  in  pre-service  two  and  five-year  programs  reached  20,415:  19,197  in  two-year  and  1,218  in five-year programs.
 
+Table 7: Number of Student Teachers According to Their Courses, 1388 (2009)
+
 Teacher training program | Male | Female | Total
 --- | --- | --- | ---
 Five-year pre-service | 736 | 482 | 1,218
 Two-year pre-service | 12,851 | 6,346 | 19,197
 In-service | 12,728 | 9,289 | 22,017
 Total enrolled in all teacher training programs | 26,318 | 16,117 | 42,432
-
-Table 7: Number of Student Teachers According to Their Courses, 1388 (2009)
 
 Source: Teacher Education Department, 1388/2009.
 
@@ -658,7 +932,7 @@ In  18  provinces  where  there  is  a  dire  need  for  professional  teachers,
 
 #### Teacher Education Curriculum and Textbook Development
 
-To  improve  teaching  in  TTCs,  a new  curriculum,  syllabi,  textbooks,  teacher  guides,  and  other supplementary  materials  were  developed.  In  addition,  400  teacher  educators  were  trained  on  the curriculum and implementation started in the first and second TTC semesters of 1388 (2009). Eightythree textbooks have been completed for semesters one and two and 30 are being revised, translated, and published for semesters three and four. Special teacher training programs, including programs for preschoolers, children with special educational needs, and computer and physical education, have not yet been developed.
+To improve teaching in TTCs, a new curriculum, syllabi, textbooks, teacher guides, and other supplementary materials were developed. In addition, 400 teacher educators were trained on the curriculum and implementation started in the first and second TTC semesters of 1388 (2009). Eighty-three textbooks have been completed for semesters one and two and 30 are being revised, translated, and published for semesters three and four. Special teacher training programs, including programs for preschoolers, children with special educational needs, and computer and physical education, have not yet been developed.
 
 The  main  problem  in  this  area  is  the  shortage  of  Afghan  national  experts  on  teacher  education  and curriculum  development.  The  Teacher  Education  Department  is  presently  using  international  experts and university lecturers as teacher educators.
 
@@ -698,7 +972,7 @@ As  of  1387  (2008),  the  Agriculture  and  Veterinary  Institute  of  Kabul, 
 
 #### Development and Revision of the Curriculum and Learning Materials
 
-Standard curricula, textbooks, and other learning materials do not exist for many fields. The syllabi for the  subjects  of  electricity,  auto  repair,  machinery,  agriculture,  and  veterinary  sciences  have  been developed and the textbooks for fundamentals of electricity, agriculture, veterinary sciences, machinery and automobile repair, radio and television, management, administration, accounting, and banking are being  developed.  The  main  problem  in  the  development  of  the  curricula  is  the  lack  of  professional curriculum developers. To solve this problem, 18 professional members of the cadre underwent a 20day  training  on  lesson  planning  and  syllabi  development  in  Iran,  and  a  one-month  workshop  on curriculum development was held in 1388 (2009) for 26 teachers and professional members who have the capacity to develop textbooks.
+Standard curricula, textbooks, and other learning materials do not exist for many fields. The syllabi for the subjects of electricity, auto repair, machinery, agriculture, and veterinary sciences have been developed and the textbooks for fundamentals of electricity, agriculture, veterinary sciences, machinery and automobile repair, radio and television, management, administration, accounting, and banking are being developed. The main problem in the development of the curricula is the lack of professional
 
 > 18 Dormitories have been established to accommodate 6,000 students in the capital and the provinces. In 1387 (2008), there was no dormitory for girls, so 65 female students used the dormitories of the University of Kabul. Increasing the capacity of dormitories, particularly for girls, is essential for an equitable expansion of technical and vocational education.
 
@@ -707,6 +981,8 @@ Standard curricula, textbooks, and other learning materials do not exist for man
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+curriculum developers. To solve this problem, 18 professional members of the cadre underwent a 20-day training on lesson planning and syllabi development in Iran, and a one-month workshop on curriculum development was held in 1388 (2009) for 26 teachers and professional members who have the capacity to develop textbooks.
 
 #### Training of Teachers, Administrative Staff, and Supervisors
 
@@ -722,6 +998,8 @@ The TVET legal documents and policies are very old and need to be revised. Some 
 
 In  2001,  only  22,000  male  learners  were  attending  2,000  literacy  courses;  today,  around  550,000 learners  (60 percent  female)  are  attending  22,000  literacy  courses  supported  by  the  MoE  and  its partners. New literacy curricula and learning material have been developed and used and the focus has therefore  shifted  to  rural  areas.  Yet,  9.5 million  adults  are  illiterate  and  literacy  education  capacity remains low. Compared with previous years, access to literacy programs has improved. In 1388 (2009), there were 3,365 permanent teachers (eight in each district) of which 41 percent were women. In line with the new policies, attention is focused more on rural areas. The enrollment of women has increased to 60 percent, according to the target set in the previous NESP (see Table 8). Innovative approaches in teaching and learning introduced through Literacy Initiative for Empowerment (LIFE), Enhancement of Literacy in Afghanistan (ELA), Learning for Community Empowerment Program (LCEP-1 and LCEP-2), and other  MoE  initiatives  such  as  engaging  communities  and  religious  leaders  in  literacy  programs  also played a significant role in increasing enrollment.
 
+Table 8: Number of Learners in 1385/2006 – 1388/2009
+
 Year | Male | Female | Total | % Female
 --- | --- | --- | --- | ---
 1385 (2006) | 105,446 | 147,645 | 253,091 | 58%
@@ -729,11 +1007,9 @@ Year | Male | Female | Total | % Female
 1387 (2008) | 104,134 | 274,386 | 378,520 | 72%
 1388 (2009) | 204,075 | 306,125 | 510,200 | 60%
 
-Table 8: Number of Learners in 1385/2006 - 1388/2009
-
 Source: Database of Literacy Department.
 
-According  to  the  National  Risk  and  Vulnerability  Assessment  (NRVA  2009),  the  literacy  rate  for  the population aged 15 and over has reached 26 percent (39 percent for men and 12 percent for women). It is estimated that 9.5 million Afghans were illiterate in 1387 (2008). In comparison with other countries, the literacy rate in Afghanistan is very low. If current circumstances persist, the literacy rate will not improve.
+According to the National Risk and Vulnerability Assessment (NRVA 2009), the literacy rate for the population aged 15 and over has reached 26 percent (39 percent for men and 12 percent for women). It is estimated that 9.5 million Afghans were illiterate in 1387 (2008). In comparison with other countries,
 
 23
 
@@ -741,7 +1017,9 @@ According  to  the  National  Risk  and  Vulnerability  Assessment  (NRVA  2009)
 
 [[START OF PAGE 29]]
 
-The number of existing literacy courses is very low and cannot meet present need. While most of the illiterate population lives in remote rural areas, the majority of literacy courses have been launched in urban areas. A lack of appropriate learning spaces in rural areas and a lack of local literacy offices in districts are the main problems. Standards are not applied properly in literacy courses. Links between the 11,000 general education schools and literacy training have yet to be developed and general interest in literacy remains low. Literacy programs are also being conducted by other ministries, including the Ministry  of  Defense,  the  Ministry  of  the  Interior,  the  Ministry  of  Public  Health,  the  Ministry  of  Rural Rehabilitation and Development, the Ministry of Agriculture, Irrigation and Livestock, and the Ministry of  Women's  Affairs.  Moreover,  under  the  overall  framework  of  Literary  Initiative  for  Empowerment (LIFE)  Afghanistan,  local  NGOs,  national  and  international  organizations,  and  UN  agencies  are  also implementing  literacy  courses  to  support  the  Ministry  of  Education  in  achieving  the  EFA  goals.  A shortage of professional staff, financial resources, and budget (both development and ordinary) are the main obstacles hindering the expansion and development of literacy programs. The programs received a development budget of only US$1.5 million in 1388 (2009), and its ordinary budget in 1388 (2009) was only 315 million Afs (approximately US$7 million).
+the literacy rate in Afghanistan is very low. If current circumstances persist, the literacy rate will not improve.
+
+The number of existing literacy courses is very low and cannot meet present need. While most of the illiterate population lives in remote rural areas, the majority of literacy courses have been launched in urban areas. A lack of appropriate learning spaces in rural areas and a lack of local literacy offices in districts are the main problems. Standards are not applied properly in literacy courses. Links between the 11,000 general education schools and literacy training have yet to be developed and general interest in literacy remains low. Literacy programs are also being conducted by other ministries, including the Ministry of Defense, the Ministry of the Interior, the Ministry of Public Health, the Ministry of Rural Rehabilitation and Development, the Ministry of Agriculture, Irrigation and Livestock, and the Ministry of Women’s Affairs. Moreover, under the overall framework of Literary Initiative for Empowerment (LIFE) Afghanistan, local NGOs, national and international organizations, and UN agencies are also implementing literacy courses to support the Ministry of Education in achieving the EFA goals. A shortage of professional staff, financial resources, and budget (both development and ordinary) are the main obstacles hindering the expansion and development of literacy programs. The programs received a development budget of only US$1.5 million in 1388 (2009), and its ordinary budget in 1388 (2009) was only 315 million Afs (approximately US$7 million).
 
 #### Curriculum and Learning Materials and Literacy Teacher Education
 
@@ -753,7 +1031,7 @@ There are two supervisors for each city and district, two supervisors in provinc
 
 #### Management and Coordination
 
-Afghanistan now benefits from the universal program LIFE, which is used as a strategic framework to improve literacy programs. Two major programs were also launched in 1387: Learning for Community Empowerment Program 2 (LCEP-2) and Enhancement of Literacy in Afghanistan (ELA). LCEP-2 provides micro-credit,  establishes  microfinance  banks  in  communities,  and  seeks  to  increase  productive  skills while building critical reading, writing, and computational abilities, as well as enhancing critical thinking. LCEP-2 will reach 300,000 learners in more than 3,000 communities in 18 provinces over five years. Of the total beneficiaries, 60 percent will be women. The courses provided by the program will each last for 18 months. ELA is addressing the literacy needs of 600,000 learners in 18 provinces in Afghanistan by providing quality literacy learning consisting of a six-month basic literacy course followed by a threemonth  post  literacy  course  and  a  few  months  of  vocational  skill  development  for  youth  and  adults. Women are the priority throughout the courses. Primers, supplementary learning materials, and writing supplies are provided to the students.
+Afghanistan now benefits from the universal program LIFE, which is used as a strategic framework to improve literacy programs. Two major programs were also launched in 1387: Learning for Community Empowerment Program 2 (LCEP-2) and Enhancement of Literacy in Afghanistan (ELA). LCEP-2 provides micro-credit, establishes microfinance banks in communities, and seeks to increase productive skills while building critical reading, writing, and computational abilities, as well as enhancing critical thinking. LCEP-2 will reach 300,000 learners in more than 3,000 communities in 18 provinces over five years. Of the total beneficiaries, 60 percent will be women. The courses provided by the program will each last for 18 months. ELA is addressing the literacy needs of 600,000 learners in 18 provinces in Afghanistan by providing quality literacy learning consisting of a six-month basic literacy course followed by a three-month post literacy course and a few months of vocational skill development for youth and adults. Women are the priority throughout the courses. Primers, supplementary learning materials, and writing supplies are provided to the students.
 
 24
 
@@ -809,7 +1087,51 @@ Since implementation of the NESP began, 20,948 classrooms have been constructed 
 
 Figure 12: Student-classroom Ratio
 
-ource: MoE, EMIS Directorate, 1388 (2009).
+Students to Classroom Ratio
+350
+300
+250
+200
+150
+100
+50
+0
+Panjshir
+Bamyan
+Logar
+Farah
+Badghis
+Nimroz
+Badakhshan
+Parwan
+Ghazni
+Kandahar
+Paktika
+Jawzjan
+Laghman
+Nuristan
+Takhar
+Samangan
+Kapisa
+Hilmand
+Kunar
+Paktiya
+Wardak
+Kunduz
+Hirat
+Kabul
+Baghlan
+Balkh
+Nangarhar
+Khost
+Faryab
+Uruzgan
+Sari Pul
+Daikundi
+Zabul
+Ghor
+
+Source: MoE, EMIS Directorate, 1388 (2009).
 
 There are several major challenges that hinder school construction efforts in the country. These include challenges related to the budget, such as insufficient budget for school construction; delay of budget approval by the Cabinet and Parliament; the problematic working procedure between the Ministry of Finance and other governmental organizations (with regard to the development budget); and delays by the provincial finance departments in delivering the budget to the provincial education departments. In addition, the time-consuming procurement process results in delays in construction projects, as does the closure of bank accounts every year due to auditing and clearance issues. The lack of coordination between central departments and provincial departments, especially in the determination of places for school construction, and the lack of construction companies in third-level provinces such as Day Kundi, Nuristan, and Zabul also hinder school construction efforts. Finally, insecurity, especially in southern and southeast provinces, is one of the main challenges that hinder school construction projects.
 
@@ -819,9 +1141,7 @@ The goals set out in the NESP were established to keep the education system on t
 
 #### Base/Low, Medium, and High-case Planning Scenarios
 
-NESP-2 was developed around three resource-based scenarios, with each scenario having a different impact on service delivery quality and coverage. A scenario-based approach has been adopted given the fiscal uncertainty within which the education sector finds itself. This is characterized by under-funding from the Afghan government due to domestic revenue constraints, and is compensated for by external donor financing largely through the external budget. External budget financing is channeled outside the government's treasury system and is therefore not fungible to the government in the same way as core (on-budget) financing. The implications of this reality - which is likely to continue for the medium to longer term - require the adoption of a scenario-based approach around which planning can be scaled upwards,  from  a  baseline,  to  meet  expanding  educational  needs  as  and  when  resources  become available. These scenarios have been developed within a newly established NESP-2 MoE Medium Term Fiscal Framework (MTFF) and Medium Term Expenditure Framework (MTEF), which is a core component
-
-S
+NESP-2 was developed around three resource-based scenarios, with each scenario having a different impact on service delivery quality and coverage. A scenario-based approach has been adopted given the fiscal uncertainty within which the education sector finds itself. This is characterized by under-funding from the Afghan government due to domestic revenue constraints, and is compensated for by external donor financing largely through the external budget. External budget financing is channeled outside the government’s treasury system and is therefore not fungible to the government in the same way as core (on-budget) financing. The implications of this reality – which is likely to continue for the medium to longer term – require the adoption of a scenario-based approach around which planning can be scaled upwards, from a baseline, to meet expanding educational needs as and when resources become available. These scenarios have been developed within a newly established NESP-2 MoE Medium Term Fiscal Framework (MTFF) and Medium Term Expenditure Framework (MTEF), which is a core component
 
 27
 
@@ -861,7 +1181,9 @@ budget). Development budget spending is likely to increase to 80 percent to 90 p
 
 - o Private Sector Financing . There are currently around 360 private sector schools in Afghanistan providing  educational  services  to  around  150,000 22 students  at  an  average  annual  cost  of US$500 per student (totaling around US$75 million each year). With GDP per capita increasing and the demand for private education in urban areas in particular likely to increase to over 800 schools  by  2014,  a  total  number  of  more  than  300,000  children  expect  to  be  served  by  the private  sector  at  an  annual  cost  of  up  to  US$180   million  by  2014.  The  impact  of  the  private sector on public spending is already a significant factor, and a proactive government policy along with increased regulatory oversight will be adopted.
 
-Budget (US$) | Expenditure (US$)
+Table 9: Summary of Total NESP Budget and Expenditures for 1388/2009
+
+ | Budget (US$) | Expenditure (US$)
 --- | --- | ---
 Total Core Budget | 491,000,000 | 391,000,000
 Operating | 316,000,000 | 314,000,000
@@ -871,13 +1193,13 @@ Private Sector Financing | 37,000,000 | 37,000,000
 Other Programs (NSP, PRTs etc.) | 250,000,000 | 200,000,000
 Total | US$774,000,000 | US$628,000,000
 
-Table 9: Summary of Total NESP Budget and Expenditures for 1388/2009
-
 Source: MoE, 2010
 
 As Table 9 outlines, current core, external, and private sector financing in 1388 is assumed to be in the region  of  US$774 million,  with  actual  expenditures  in  the  range  of  US$628 million  for  1388.  While expenditure out-turns for the core budget are reported, expenditures for the external budget can only be estimated based on donor reporting. Table 10 provides indicative information on available budget and projected expenditure.
 
-Budget (US$) | Expenditure (US$)
+Table 10: Summary of Total NESP Indicative Budget and Projected Expenditures for 1389/2010
+
+ | Budget (US$) | Expenditure (US$)
 --- | --- | ---
 Total Core Budget | 574,000,000 | 532,000,000
 Operating | 390,000,000 | 385,000,000
@@ -886,8 +1208,6 @@ Total External Budget | 325,000,000 | 275,000,000
 Private Sector Financing | 75,000,000 | 75,000,000
 Other Programs (NSP, PRTs, etc.) | 250,000,000 | 200,000,000
 Total | US$899,000,000 | US$807,000,000
-
-Table 10: Summary of Total NESP Indicative Budget and Projected Expenditures for 1389/2010
 
 > 22 Private schools reported enrollment of more than 75,000 students in 1388 and 150,000 in 1389.
 
@@ -911,7 +1231,7 @@ The three scenarios - using 1388 education sector financing as the base year - c
 
 Table 11 provides the different planning parameters for base/low, medium, and high-case scenarios, as a result of different fiscal conditions. These are based on a logical correlation that increasing resources leads to improved quality, better student-teacher ratios, improved student-class ratios, and increased number  of  students  for  TVET  and  literacy.  These  qualitative  'access'  and  'equity'  parameters  have implications for numbers of teachers, administrative and support staff, and the numbers of schools and schools with science labs, etc. In turn, these parameters have knock-on cost implications.
 
-The  top-down  Medium-Term  Fiscal  Framework  (MTFF)  developed  for  NESP-2  therefore  provides  the overall resource envelope for the strategy, from which the value of inputs will be determined and the impact  on  quality  education  affected.  The  bottom-up  Medium-Term  Expenditure  Framework  (MTEF) then allows the allocation of resources across the five national programs to meet the various results outlined  in  the  results  matrix  in  Annex 1.  Furthermore,  while  Table 11  clearly  outlines  the  various planning parameters for base/low, medium, and high-case scenarios, to be determined on a year-byyear basis and based on an assessment of available resources, the broad characterization of how these different scenarios have been established is summarized below.
+The top-down Medium-Term Fiscal Framework (MTFF) developed for NESP-2 therefore provides the overall resource envelope for the strategy, from which the value of inputs will be determined and the impact on quality education affected. The bottom-up Medium-Term Expenditure Framework (MTEF) then allows the allocation of resources across the five national programs to meet the various results outlined in the results matrix in Annex 1. Furthermore, while Table 11 clearly outlines the various planning parameters for base/low, medium, and high-case scenarios, to be determined on a year-by-year basis and based on an assessment of available resources, the broad characterization of how these different scenarios have been established is summarized below.
 
 - Low Case. The low-case scenario is based on a realistic assessment of likely resource availability and with  incremental  growth  targets  set  for  wage,  non-wage,  and  capital  spending  as  a  result  of increased staffing (annual increases of 13,100 teachers/staff per year) and salary decompression as a
 
@@ -967,7 +1287,7 @@ economic, and even security implications of this reality call for a higher fundi
 
 Table 11: Low and high-case scenarios
 
-1388 | 1389 | 1390 | 1391 | 1392 | 1393
+ | 1388 | 1389 | 1390 | 1391 | 1392 | 1393
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 NESP Program Areas | Base | Low | High | Low | High | Low | High | Low | High | Low | High
 General Education
@@ -980,7 +1300,7 @@ Administrative staff | 6,793 | 7,143 | 7,844 | 7,250 | 8,545 | 7,359 | 10,029 | 
 Support staff | 26,738 | 28,118 | 30,170 | 28,680 | 32,236 | 29,111 | 36,592 | 29,547 | 41,198 | 29,990 | 45,903
 Establishment of new schools | 11,460 | 930 | 940 | 700 | 938 | 600 | 936 | 500 | 930 | 400 | 946
 No. of general schools | 11,460 | 12,390 | 12,400 | 13,090 | 13,338 | 13,690 | 14,274 | 14,190 | 15,204 | 14,590 | 16,150
-Construction of new classrooms | 5,000 | 13,000 | 6,000 | 13,000 | 7,000 | 13,000 | 8,000 | 13,000 | 9,00 | 13,000
+Construction of new classrooms |  | 5,000 | 13,000 | 6,000 | 13,000 | 7,000 | 13,000 | 8,000 | 13,000 | 9,00 | 13,000
 Islamic Education
 Key parameters
 No. of students | 136,935 | 149,239 | 149,239 | 161,543 | 161,543 | 173846 | 173846 | 186,150 | 186,150 | 198,454 | 198,454
@@ -988,15 +1308,15 @@ Total teachers needed | 5,144 | 5,620 | 6,100 | 5,981 | 6,342 | 6,457 | 6,933 | 
 Administrative staff | 493 | 503 | 525 | 513 | 548 | 523 | 617 | 534 | 703 | 544 | 809
 Support staff | 1,333 | 1,360 | 1,395 | 1,387 | 1,427 | 1,415 | 1,544 | 1,443 | 1,691 | 1,465 | 1,871
 No. of Islamic schools | 550 | 627 | 642 | 704 | 733 | 781 | 825 | 858 | 916 | 935 | 1,008
-Construction of new Islamic schools | 48 | 60 | 53 | 70 | 58 | 72 | 61 | 75 | 63 | 73
+Construction of new Islamic schools |  | 48 | 60 | 53 | 70 | 58 | 72 | 61 | 75 | 63 | 73
 Teacher Training and Curriculum
 Key parameters
-New textbooks provided to students (%) | 70% | 70% | 80% | 80% | 87% | 87% | 95% | 95% | 100% | 100%
+New textbooks provided to students (%) |  | 70% | 70% | 80% | 80% | 87% | 87% | 95% | 95% | 100% | 100%
 No. of teacher education students | 34,020 | 49,216 | 49,216 | 64,412 | 64,412 | 79,608 | 79,608 | 94,804 | 94,804 | 110,000 | 110,000
 No. of district teacher training centers (DT3) | 87 | 121 | 142 | 154 | 197 | 188 | 252 | 221 | 307 | 255 | 364
-% of schools equipped with science labs | 16% | 20% | 18% | 25% | 20% | 30% | 23% | 35% | 26% | 40%
-No. of new science labs constructed | 100 | 400 | 100 | 400 | 100 | 400 | 100 | 400 | 100 | 400
-Construction of new DT3s | 46 | 70 | 51 | 70 | 52 | 72 | 51 | 74 | 55 | 78
+% of schools equipped with science labs |  | 16% | 20% | 18% | 25% | 20% | 30% | 23% | 35% | 26% | 40%
+No. of new science labs constructed |  | 100 | 400 | 100 | 400 | 100 | 400 | 100 | 400 | 100 | 400
+Construction of new DT3s |  | 46 | 70 | 51 | 70 | 52 | 72 | 51 | 74 | 55 | 78
 
 32
 
@@ -1014,19 +1334,19 @@ No. of students | 19,611 | 29,637 | 44,232 | 40,978 | 70,674 | 52,318 | 97,116 |
 Total teachers needed | 1,962 | 2,359 | 2,750 | 2,683 | 2,934 | 3,219 | 4,541 | 4,017 | 6,936 | 5,163 | 10,373
 Administrative staff | 442 | 472 | 512 | 477 | 527 | 481 | 531 | 486 | 536 | 491 | 541
 Support staff | 821 | 871 | 896 | 888 | 931 | 906 | 949 | 924 | 967 | 943 | 986
-No. of TVET schools | 24 | 72 | 25 | 72 | 24 | 73 | 24 | 73 | 24 | 74
-Construction of new TVET schools | 24 | 72 | 25 | 72 | 24 | 73 | 24 | 73 | 24 | 74
+No. of TVET schools |  | 24 | 72 | 25 | 72 | 24 | 73 | 24 | 73 | 24 | 74
+Construction of new TVET schools |  | 24 | 72 | 25 | 72 | 24 | 73 | 24 | 73 | 24 | 74
 Literacy
 Key parameters
 National literacy rate | 26% | 28% | 31% | 32% | 36% | 36% | 41% | 40% | 45% | 43% | 48%
-No. of new CLCs constructed | 31 | 62 | 34 | 69 | 36 | 73 | 39 | 78 | 42 | 82
+No. of new CLCs constructed |  | 31 | 62 | 34 | 69 | 36 | 73 | 39 | 78 | 42 | 82
 No. of students | 500,000 | 500,000 | 720,000 | 550,000 | 720,000 | 600,000 | 720,000 | 650,000 | 720,000 | 650,000 | 720,000
 Total teachers needed (ordinary budget) | 3,627 | 4,477 | 4,977 | 4,877 | 5,377 | 5,277 | 5,777 | 5,677 | 6,177 | 6,077 | 6,577
 Administrative staff | 392 | 402 | 482 | 412 | 512 | 422 | 452 | 432 | 462 | 442 | 472
 Support staff | 251 | 261 | 271 | 271 | 281 | 281 | 291 | 291 | 301 | 301 | 311
 Education Management
-% of staff trained in job-related skills | 25% | 50% | 31% | 55% | 38% | 60% | 44% | 70% | 50% | 80%
-% of offices equipped with basic and ICT equipment | 25% | 35% | 33% | 51% | 42% | 67% | 51% | 73% | 60% | 100%
+% of staff trained in job-related skills |  | 25% | 50% | 31% | 55% | 38% | 60% | 44% | 70% | 50% | 80%
+% of offices equipped with basic and ICT equipment |  | 25% | 35% | 33% | 51% | 42% | 67% | 51% | 73% | 60% | 100%
 Total teachers needed | 935 | 935 | 935 | 935 | 935 | 935 | 935 | 935 | 935 | 935 | 935
 Administrative staff | 2,154 | 2,554 | 2,554 | 2,954 | 2,954 | 3,354 | 3,354 | 3,754 | 3,754 | 4,154 | 4,154
 Support staff | 1,311 | 1,411 | 1,411 | 1,511 | 1,511 | 1,611 | 1,611 | 1,711 | 1,711 | 1,811 | 1,811
@@ -1047,7 +1367,7 @@ Source: MoE, 2010.
 
 - Private and Cross Border Schools. Regulations on private schools have been developed and ratified. To date, 337 private schools have been established and 62,600 students are enrolled. A private and cross-border schools unit has been established to facilitate the process. In addition, 661 cross-border schools  in  Iran  and  338  schools  in  Pakistan  have  been  registered  with  the  ministry,  and  198,638 students in those schools are using the ministry's curriculum.
 
-- Distance Education. In addition to public-awareness programs, the Education Radio and TV (ERTV) section of the ministry has educational programs for  teachers, children, and adult learners.  These programs include: 'Domestic Affairs', 'School Time', 'Learn and Teach', and 'Voice of Education'. Education TV broadcasts daily for six hours in Kabul province and city. Education Radio has roundthe-clock educational programming.
+- Distance Education. In addition to public-awareness programs, the Education Radio and TV (ERTV) section of the ministry has educational programs for teachers, children, and adult learners. These programs include: 'Domestic Affairs', 'School Time', 'Learn and Teach', and 'Voice of Education'. Education TV broadcasts daily for six hours in Kabul province and city. Education Radio has round-the-clock educational programming.
 
 - Preschool  Education. Mosques  play  an  important  role  in  preschool  education  by  providing  basic literacy and Islamic education to children. A section has been included in the new Tashkeel for the development  of  learning  materials  for  preschool  education.  Plans  are  also  in  place  for  preschool teacher education.
 
@@ -1067,6 +1387,50 @@ Source: MoE, 2010.
 
 Figure 13: Student-Teacher Ratio
 
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Nuristan
+Badakhshan
+Paktika
+Parwan
+Panjshir
+Baghlan
+Bamyan
+Kandahar
+Uruzgan
+Sari Pul
+Jawzjan
+Wardak
+Kabul
+Takhar
+Balkh
+Kunar
+Farah
+Faryab
+Zabul
+Samangan
+Laghman
+Kapisa
+Paktiya
+Ghor
+Logar
+Nimroz
+Ghazni
+Kunduz
+Daikundi
+Khost
+Hirat
+Badghis
+Nangarhar
+Hilmand
+
 Source: MoE, EMIS Directorate (EMIS), 1388 (2009).
 
 35
@@ -1083,7 +1447,7 @@ It is now generally accepted that the world will not meet its MDG and EFA target
 
 Afghanistan's recent history and 30 years of war have left the country among the poorest in the world. It is ranked third to last in the UNDP's Human Development Index. Life expectancy is 44 years, the infant mortality rate is 154/1,000, and the unemployment rate is 40 percent. The legacy of war and ongoing conflict with the Taliban and other insurgents has left Afghans in dire need, and challenges Afghan and its foreign state-builder allies with a complex and immense mission likely to last decades.
 
-Currently, over half of the provinces of the country are fully secure and the rest are said to be insecure , although this generalization hides the fact that there are gradations of insecurity and security in almost all provinces. This must be seen against a socio-political background: Afghanistan is still at the stage of state formation, with elements of state development, but the reality is that the state is not yet a fully functioning entity in the sense of having  control over all aspects of the economy (much of it  opiumdriven) and social services.
+Currently, over half of the provinces of the country are fully secure and the rest are said to be insecure, although this generalization hides the fact that there are gradations of insecurity and security in almost all provinces. This must be seen against a socio-political background: Afghanistan is still at the stage of state formation, with elements of state development, but the reality is that the state is not yet a fully functioning entity in the sense of having control over all aspects of the economy (much of it opium-driven) and social services.
 
 Despite this past and the on-going conflict, major achievements have been made since 2001:
 
@@ -1111,7 +1475,7 @@ The  Afghanistan  National  Development  Strategy  (ANDS,  2007)  2008-2013,  wh
 
 - Chronic  Poverty .  Social  and  economic  development  is  undermined  by  inadequate  health  and education provision and destroyed infrastructure.
 
-Several  other  country  assessments  add  to  this  picture:  the  UN  Development  Program's  Millennium Development Goals Report for Afghanistan (UNDP, 2005); the UN Office on Drugs and Crime's Winter 2009 Opium  Assessment (UNODC, 2009);  the Security  Update  (2008)  of  the  International  Council  on Security  and  Development  (ICOS)  -  an  international  think  tank;  and  Oxfam's  Afghanistan  Priorities. These assessments group the drivers of fragility slightly  differently. The drivers used in this chapter security, the economy, governance, society, and the environment - are common to most analyses.
+Several other country assessments add to this picture: the UN Development Program's Millennium Development Goals Report for Afghanistan (UNDP, 2005); the UN Office on Drugs and Crime's Winter 2009 Opium Assessment (UNODC, 2009); the Security Update (2008) of the International Council on Security and Development (ICOS) – an international think tank; and Oxfam's Afghanistan Priorities. These assessments group the drivers of fragility slightly differently. The drivers used in this chapter – security, the economy, governance, society, and the environment – are common to most analyses.
 
 ### 3.2. Security
 
@@ -1159,7 +1523,7 @@ Research by the World Bank (2007) and OECD-DAC (2007b) shows that foreign aid in
 
 - Largely due to the lack of coordination and communication, the Afghan government does not know how one-third of all aid since 2001 - some $5 billion - has been spent.
 
-- The  US  military  spends  close  to  US$100   million  a  day  in  Afghanistan,  yet  average  daily  nonmilitary aid expenditure since 2001 is just US$7 million a day.
+- The US military spends close to US$100 million a day in Afghanistan, yet average daily non-military aid expenditure since 2001 is just US$7 million a day.
 
 - Over two-thirds of all aid bypasses the Afghan government.
 
@@ -1211,11 +1575,11 @@ Article 2:
 
 The main objectives of this law are:
 
-- Ensure  equal  rights  of  education  and  training  for  the  citizens  of  the  Islamic  Republic  of Afghanistan through promotion and development  of universal, balanced and equitable educational manner;
+1. Ensure equal rights of education and training for the citizens of the Islamic Republic of Afghanistan through promotion and development of universal, balanced and equitable educational manner;
 
-- Strengthen Islamic spirit, patriotism, national unity, preservation of independence, and defense of territorial integrity, protection of interest, national pride, and loyalty to the republic system of Afghanistan;
+2. Strengthen Islamic spirit, patriotism, national unity, preservation of independence, and defense of territorial integrity, protection of interest, national pride, and loyalty to the republic system of Afghanistan;
 
-- Educate children, youth and adolescents as pious Afghans and useful and sound members of the Society.
+3. Educate children, youth and adolescents as pious Afghans and useful and sound members of the Society.
 
 > 30 The Ministry of Education conducted similar surveys in cooperation with UNICEF and WFP in 2004 and 2005 respectively, but the data were more incomplete than in the 2007 version and were not sufficient to create an EMIS system. The first was established after the 2007 survey.
 
@@ -1273,7 +1637,7 @@ Ensuring security is the most important factor in delivering education, but cann
 
 Community  and  home-based  education  provided  by  NGOs  and  UNICEF,  and  increasingly  by  the government,  is  modest  in  scale  but,  nevertheless,  important.  They  are  long-term  efforts  -  some agencies have been involved since the 1990s - and are locally anchored and owned. They can discreetly circumvent some access and gender constraints to education. Their completion rates are high and the small  classes  are  an  advantage  for  educational  quality.  Given  Afghanistan's  need  for  a  stronger  civil society, democratically run school management committees could help build the social capital that civil society needs to thrive.
 
-The  MoE needs to be  in  charge  of  coordinating  (though  not  necessarily  implementing)  all  education efforts. This would help to create ownership, build capacity, and strengthen the ministry's position vis-àvis  donors.  Oxfam,  while  not  uncritical  of  the  MoE,  supports  this  view  and  recommends  that  all education actors help to build the capacity of the ministry. IIEP-UNESCO's work with the MoE shows that long-term, capacity-building partnerships between institutions (not just individual consultants) can lead to sustainable technical self-reliance.
+The MoE needs to be in charge of coordinating (though not necessarily implementing) all education efforts. This would help to create ownership, build capacity, and strengthen the ministry's position vis-à-vis donors. Oxfam, while not uncritical of the MoE, supports this view and recommends that all education actors help to build the capacity of the ministry. IIEP-UNESCO's work with the MoE shows that long-term, capacity-building partnerships between institutions (not just individual consultants) can lead to sustainable technical self-reliance.
 
 Disaster  prevention  should  be  integrated  into  the  national  education  plan.  In  a  country  plagued  by earthquakes,  droughts,  floods,  blizzards,  and  other  natural  disasters,  incorporating disaster risk reduction (DRR) into the national education strategic plan should be a priority for the MoE. This should follow the Hyogo Framework for Action, an international commitment to DRR resulting from the 2005 World Conference on Disaster Reduction (WCDR). 36
 
@@ -1345,7 +1709,7 @@ The  education  policies  and  strategies  underpinning  this  Interim  Plan  (I
 
 - o Use of participatory methods.
 
-It is recognized that the MoE's ability to implement all the planned activities of the IP is limited and that arrangements will be made to work in partnership with the NGO network and private sector. However, as the MoE has the responsibility for the success of the IP, it will negotiate with the relevant NGOs on the principles stated above. A key concept underpinning the inclusive education policy is that of childfriendly schools - an essential element considering the tradition of physical punishment (often brutal) in schools.
+It is recognized that the MoE's ability to implement all the planned activities of the IP is limited and that arrangements will be made to work in partnership with the NGO network and private sector. However, as the MoE has the responsibility for the success of the IP, it will negotiate with the relevant NGOs on the principles stated above. A key concept underpinning the inclusive education policy is that of child-friendly schools – an essential element considering the tradition of physical punishment (often brutal) in schools.
 
 44
 
@@ -1369,29 +1733,18 @@ To develop schools and support systems that reduce barriers to learning, develop
 
 Exclusion in education is severe. Almost 42 percent of school-age children are not in school and nearly 15 percent  of  those  enrolled  do  not  attend.  The  MoE  has  made  a  compendium  of  vulnerable  and excluded groups:
 
-- Children affected by conflict, war, and emergencies; internally displaced children; refugees; and returnees
-
-- Children affected by drugs
-
-- Children from ethnic, linguistic, social, and religious minorities
-
-- Children from poor economic backgrounds
-
-- Children in conflict with the law/incarcerated children
-
-- Children living far away from school/in villages where there are no schools
-
-- Children suffering from neglect, abandonment, and/or abuse - including orphans
-
-- Children with disabilities
-
-- Children who are over-aged
-
-- Girls
-
-- Nomadic (Kuchi) children
-
-- Street and working children.
+1. Children affected by conflict, war, and emergencies; internally displaced children; refugees; and returnees
+2. Children affected by drugs
+3. Children from ethnic, linguistic, social, and religious minorities
+4. Children from poor economic backgrounds
+5. Children in conflict with the law/incarcerated children
+6. Children living far away from school/in villages where there are no schools
+7. Children suffering from neglect, abandonment, and/or abuse – including orphans
+8. Children with disabilities
+9. Children who are over-aged
+10. Girls
+11. Nomadic (Kuchi) children
+12. Street and working children.
 
 While  measuring  marginalization  is  inherently  difficult, 39 and  even  more  so  in  the  context  of Afghanistan, the MoE has managed to collect considerable data on the extent of the various forms of exclusion. 40
 
@@ -1457,7 +1810,7 @@ Obstacles  to  education for  girls  and  women  include  the  distance  of  sch
 
 Cultural, social, and religious sensitivities relating to gender issue contribute to lack of education and resistance to  reforms. Gender relations often have to be viewed in the context of traditional  Afghan culture, which is rooted in a code of honor, symbolized by the behavior of women. While this manifests in great respect for women and recognition of their rights and status in Islam, it can also lead to deep repression and confinement to home life. Especially in rural areas, girls are primarily taught to become good mothers and housewives, and the education of female children is generally of lesser importance. Most Afghan women fear being marginalized from their primary social unit - the family unit; thus social and family pressure often succeeds in deterring women from seeking higher education. Additionally, in rural  areas,  girls  are  still  considered  of  marriageable  age  at  puberty  (a  practice  that  violates  the prohibition against child marriage as articulated under Article 16.2 of The Convention on the Elimination of Discrimination Against Women (CEDAW)).
 
-Lack  of  education  is  one  factor  restricting  participation  of  women  in  the  economy .  Extremely  low literacy rates among women are of particular concern. Due to the lack of education, particularly postelementary  education,  women  lack  the  skills  and  experience  required  for  many  occupations,  a hindrance further compounded by their restricted mobility. Women often receive significantly less pay than their male  counterparts. Women's contributions to the economy are mainly non-monetized and they rarely have control over their income or what they produce.
+Lack of education is one factor restricting participation of women in the economy. Extremely low literacy rates among women are of particular concern. Due to the lack of education, particularly post-elementary education, women lack the skills and experience required for many occupations, a hindrance further compounded by their restricted mobility. Women often receive significantly less pay than their male counterparts. Women’s contributions to the economy are mainly non-monetized and they rarely have control over their income or what they produce.
 
 The  Constitution  guarantees  gender  equality  and  equal  access  to  education,  but  widespread inequalities persist. Women lack legal awareness and the majority of Afghan women do not effectively enjoy the constitutionally guaranteed equal protection under the law. Girls still comprise less than half of  children  attending  school.  Violence  against  women  is  pervasive,  including  forced  marriage,  child marriage,  trafficking,  immolation,  and  physical  violence,  all  of  which  violate  CEDAW  and  are  factors resulting in the low participation of girls in national education.
 
@@ -1517,7 +1870,7 @@ In  this  section,  we  justify  the  selection  of  the  components  for  the  
 
 The proposed activities in the IP help lay a strong foundation for a robust education system capable of expanding and meeting the education needs of Afghan children, while also addressing  the long-term human resource development needs of Afghanistan. The activities proposed address priorities such as expanding access and reducing regional and gender disparities, enhancing the quality of education, and improving infrastructure.  Given  the  resource  constraints,  the  IP/NESP  low-case  scenario  targets  have been significantly reduced to ensure that the planned targets are fully funded and implemented within the three-year timeframe.
 
-As the partners have been extensively involved in the preparation and appraisal  of the IP, one of its major advantages will be that most donors will align their programs to the IP and/or will provide onbudget funds. 43 This is critical as a successful IP will help persuade those donors who are neither on-plan nor  on-budget  to  work  within  the  system  instead  of  parallel  to  it.  This  is  an  important  step  towards moving to a SWAP situation.
+As the partners have been extensively involved in the preparation and appraisal of the IP, one of its major advantages will be that most donors will align their programs to the IP and/or will provide on-budget funds.43 This is critical as a successful IP will help persuade those donors who are neither on-plan nor on-budget to work within the system instead of parallel to it. This is an important step towards moving to a SWAP situation.
 
 The IP activities generally follow the MoE/NESP-2 structure:
 
@@ -1541,40 +1894,41 @@ Program 5: Education Governance and Administration.
 
 From these, the MoE has selected the following activities, which it believes can be accomplished during the three-year IP period:
 
+Table 12: Key Activities
+
 NESP-2 and Interim Plan Program Structure | Interim Plan Key Result Area | Strategic Objectives | Key Activities
 --- | --- | --- | ---
-1. General and Islamic Education | Increase access to general education | I ncrease enrollment in primary and secondary education with a focus on rural areas and girls | Establish new schools (mainly in rural areas)
-Upgrade primary schools to lower secondary
-Upgrade lower secondary schools to upper secondary schools (at least one for girls in each rural district)
-At least one girls' secondary school in rural districts staffed with average six qualified female teachers (with a spouse)
-Establish community-based schools (CBS) and accelerated learning centers for children who have been excluded from normal schooling
-Providing access for Kuchi children | Establish schools for Kuchi children
-Provide suitable environments for students, in particular girls | Construct classes
-Construct boundary walls
-Construct latrines (six cabinets)
-Construct drinking-water wells
-Improve quality and access for teachers and students and improve monitoring system | Provide distance education program Improve academic | Equip and strengthen distance education directorate and education radio and television
-Conduct 18-hour broadcasting programs with close coordination with other programs
-supervision | Develop and revise a new monitoring system for general education
-Improve management and coordination and community | Review and revise general education structure, policies, procedures, and guidelines
-participation | Establish and train school councils
-Provide quality improvement grant for general and Islamic education schools
-Develop community mobilization capacity (recruit TA)
-Strengthen Islamic education | Increase access and enrollment | Establish new Islamic schools
-Establish new Dar-ul-Huffaz
-Establish new Dar-ul-Ulums for females in 24 provinces
-Provide suitable environment for | Construct classes
-Construct latrines (six cabinets)
-Islamic students | Construct drinking-water wells
-2.Curriculum and Teacher Education | Strengthen quality of education | supervision Improve quality of general and Islamic education | Conduct research on curriculum (including a gender audit)
-Assess curriculum implementation
-Revise curriculum and syllabi for general and Islamic education
-Revise general and Islamic education textbooks and teacher guides and make them more gender sensitive
-Develop language textbooks for third official languages
-Print and distribute textbooks and teacher guides for general schools
-Print and distribute textbooks and teacher guides for Islamic
-
-Table 12: Key Activities
+1. General and Islamic Education | Increase access to general education | Increase enrollment in primary and secondary education with a focus on rural areas and girls | Establish new schools (mainly in rural areas)
+ |  |  | Upgrade primary schools to lower secondary
+ |  |  | Upgrade lower secondary schools to upper secondary schools (at least one for girls in each rural district)
+ |  |  | At least one girls’ secondary school in rural districts staffed with average six qualified female teachers (with a spouse)
+ |  |  | Establish community-based schools (CBS) and accelerated learning centers for children who have been excluded from normal schooling
+ |  | Providing access for Kuchi children | Establish schools for Kuchi children
+ |  | Provide suitable environments for students, in particular girls | Construct classes
+ |  |  | Construct boundary walls
+ |  |  | Construct latrines (six cabinets)
+ |  |  | Construct drinking-water wells
+ | Improve quality and access for teachers and students and improve monitoring system | Provide distance education program | Equip and strengthen distance education directorate and education radio and television
+ |  |  | Conduct 18-hour broadcasting programs with close coordination with other programs
+ |  | Improve academic supervision | Develop and revise a new monitoring system for general education
+ |  | Improve management and coordination and community participation | Review and revise general education structure, policies, procedures, and guidelines
+ |  |  | Establish and train school councils
+ |  |  | Provide quality improvement grant for general and Islamic education schools
+ |  |  | Develop community mobilization capacity (recruit TA)
+ | Strengthen Islamic education | Increase access and enrollment | Establish new Islamic schools
+ |  |  | Establish new Dar-ul-Huffaz
+ |  |  | Establish new Dar-ul-Ulums for females in 24 provinces
+ |  | Provide suitable environment for Islamic students | Construct classes
+ |  |  | Construct latrines (six cabinets)
+ |  |  | Construct drinking-water wells
+ |  | Improve academic supervision | Develop an academic supervision system for Islamic education
+2.Curriculum and Teacher Education | Strengthen quality of education | Improve quality of general and Islamic education | Conduct research on curriculum (including a gender audit)
+ |  |  | Assess curriculum implementation
+ |  |  | Revise curriculum and syllabi for general and Islamic education
+ |  |  | Revise general and Islamic education textbooks and teacher guides and make them more gender sensitive
+ |  |  | Develop language textbooks for third official languages
+ |  |  | Print and distribute textbooks and teacher guides for general schools
+ |  |  | Print and distribute textbooks and teacher guides for Islamic
 
 51
 
@@ -1584,44 +1938,45 @@ Table 12: Key Activities
 
 NESP-2 and Interim Plan Program Structure | Interim Plan Key Result Area | Strategic Objectives | Key Activities
 --- | --- | --- | ---
-schools
-Equip schools with libraries
-Print and distribute learning aid material
-Develop and implement student achievement- assessment system | Develop and revise standards and system for students' learning achievement
-Revise regular examination system
-Conduct national learning assessment test
-Develop capacity | Establish scholarships for staff for MA degree
-Train master trainers and academic supervisors on new curriculum
-Improve teacher qualification Provided suitable | Train pre-service and in-service
-Train teachers in INSET-1
-Train teachers in INSET-2
-Train school administrators
-environment for teacher training | Construct complexes for teacher training colleges (TTCs)
-Construct dormitories and cafeteria for TTCs
-Incentive for students and instructors | Regional incentives for instructors
-Incentives for female students
-Development of curriculum and textbooks for teachers Improve quality and | Develop and revise textbooks for TTC
-Develop training material for INSET 1-4
-management of teacher education | Develop TTC accreditation system
-Develop standard test for TTC students
-Analyze test results and record in database
-Improve quality of education | Construct national science and technology centers
-Equip schools with science laboratories and kits | Purchase laboratories for biology, chemistry, and physics for general schools
-Provide science kits for general schools
-Training of lab technicians and science | Train lab technicians
-Train science teachers
-3. TVET | Improve access to and quality of TVET | teachers Increase access and enrollment Provided suitable environment for TVET | Increase the number of TVET regional institutes
-Increase the number of TVET provincial schools
-Establish new TVET district schools
-Construct complexes for TVET
-Construct TVET schools at the district level
-Renovate TVET complexes
-Construct of dormitories and cafeterias for TVET schools
-Development and revision of curriculum | Develop and revise textbooks for different fields based on the market needs assessment
-Print textbooks for different fields
-Increase qualification of teachers | Train teachers (in country)
-Improve academic supervision | Revise the system for the supervision of TVET schools
-Improve management and coordination | Revise all policies, regulations, and guidelines of TVET with an aim to develop a coherent national TVET system
+ |  |  | schools
+ |  |  | Equip schools with libraries
+ |  |  | Print and distribute learning aid material
+ |  | Develop and implement student achievement-assessment system | Develop and revise standards and system for students’ learning achievement
+ |  |  | Revise regular examination system
+ |  |  | Conduct national learning assessment test
+ |  | Develop capacity | Establish scholarships for staff for MA degree
+ |  |  | Train master trainers and academic supervisors on new curriculum
+ |  | Improve teacher qualification | Train pre-service and in-service
+ |  |  | Train teachers in INSET-1
+ |  |  | Train teachers in INSET-2
+ |  |  | Train school administrators
+ |  | Provided suitable environment for teacher training | Construct complexes for teacher training colleges (TTCs)
+ |  |  | Construct dormitories and cafeteria for TTCs
+ |  | Incentive for students and instructors | Regional incentives for instructors
+ |  |  | Incentives for female students
+ |  | Development of curriculum and textbooks for teachers | Develop and revise textbooks for TTC
+ |  |  | Print and distribute textbooks for TTC
+ |  |  | Develop training material for INSET 1-4
+ |  | Improve quality and management of teacher education | Develop TTC accreditation system
+ |  |  | Develop standard test for TTC students
+ |  |  | Analyze test results and record in database
+ |  | Improve quality of education | Construct national science and technology centers
+ |  | Equip schools with science laboratories and kits | Purchase laboratories for biology, chemistry, and physics for general schools
+ |  |  | Provide science kits for general schools
+ |  | Training of lab technicians and science teachers | Train lab technicians
+ |  |  | Train science teachers
+3. TVET | Improve access to and quality of TVET | Increase access and enrollment | Increase the number of TVET regional institutes
+ |  |  | Increase the number of TVET provincial schools
+ |  |  | Establish new TVET district schools
+ |  | Provided suitable environment for TVET | Construct complexes for TVET
+ |  |  | Construct TVET schools at the district level
+ |  |  | Renovate TVET complexes
+ |  |  | Construct of dormitories and cafeterias for TVET schools
+ |  | Development and revision of curriculum | Develop and revise textbooks for different fields based on the market needs assessment
+ |  |  | Print textbooks for different fields
+ |  | Increase qualification of teachers | Train teachers (in country)
+ |  | Improve academic supervision | Revise the system for the supervision of TVET schools
+ |  | Improve management and coordination | Revise all policies, regulations, and guidelines of TVET with an aim to develop a coherent national TVET system
 4. Literacy | Increase | Increase access and | Establish community learning centers (CLCs)
 
 52
@@ -1632,27 +1987,27 @@ Improve management and coordination | Revise all policies, regulations, and guid
 
 NESP-2 and Interim Plan Program Structure | Interim Plan Key Result Area | Strategic Objectives | Key Activities
 --- | --- | --- | ---
-literacy levels | enrollment particularly for women | Establish outreach literacy courses throughout the country with a focus on women
-Vocational training equipment and material for courses
-Construction of community learning centers (CLCs) | Construction of CLCs
-Materials development | Print and distribute textbooks for literacy and skills and teacher guides (target-group oriented)
-Training of literacy teachers and supervisors | Literacy teacher education
-Training of literacy supervisors
-Improve management and coordination | Establish the High Literacy Commission
-Revise policies, regulations, bylaws, and guidelines of the literacy program and implement institutional reform
-5. Education Manage- ment, Admin- istration, and Governance | Improve education governance and admin- istration | Human resources | Structural reform and implementation of new Tashkeel organized with public administration reform (gender sensitized)
-Capacity-development institute
-Finance | Develop BPET system in the center and provinces
-Implement AFMIS system in center and provinces
-Procurement | Developing database for recording all contracts and procurements
-ICT (information and communication technology) | Equip all education administrations with IT facilities (telephone, internet, etc.) and design internal infrastructure
-Support construction of education infrastructure | Establish and support engineering team to design schools and education foundations
-Supporting monitoring and maintenance teams at the provincial level
-Improve policy and quality of education | Develop and support the MoE academic council to coordinate/support education policy development
-Develop annual national and provincial operational plans with specific targets for girls' education
-EMIS | Develop mechanisms to report on implementation progress at central and provincial levels (gender segregation information)
-Develop and implement an integrated monitoring and evaluation system (gender segregation analysis)
-Grants Management Unit | Develop a database and procedures for projects funded, implemented, and monitored through external development budget
+ | literacy levels | enrollment particularly for women | Establish outreach literacy courses throughout the country with a focus on women
+ |  |  | Vocational training equipment and material for courses
+ |  | Construction of community learning centers (CLCs) | Construction of CLCs
+ |  | Materials development | Print and distribute textbooks for literacy and skills and teacher guides (target-group oriented)
+ |  | Training of literacy teachers and supervisors | Literacy teacher education
+ |  |  | Training of literacy supervisors
+ |  | Improve management and coordination | Establish the High Literacy Commission
+ |  |  | Revise policies, regulations, bylaws, and guidelines of the literacy program and implement institutional reform
+5. Education Management, Administration, and Governance | Improve education governance and administration | Human resources | Structural reform and implementation of new Tashkeel organized with public administration reform (gender sensitized)
+ |  |  | Capacity-development institute
+ |  | Finance | Develop BPET system in the center and provinces
+ |  |  | Implement AFMIS system in center and provinces
+ |  | Procurement | Developing database for recording all contracts and procurements
+ |  | ICT (information and communication technology) | Equip all education administrations with IT facilities (telephone, internet, etc.) and design internal infrastructure
+ |  | Support construction of education infrastructure | Establish and support engineering team to design schools and education foundations
+ |  |  | Supporting monitoring and maintenance teams at the provincial level
+ |  | Improve policy and quality of education | Develop and support the MoE academic council to coordinate/support education policy development
+ |  |  | Develop annual national and provincial operational plans with specific targets for girls’ education
+ |  | EMIS | Develop mechanisms to report on implementation progress at central and provincial levels (gender segregation information)
+ |  |  | Develop and implement an integrated monitoring and evaluation system (gender segregation analysis)
+ |  | Grants Management Unit | Develop a database and procedures for projects funded, implemented, and monitored through external development budget
 
 Source: MoE, 2010
 
@@ -1674,9 +2029,11 @@ The  total  financing  requirement  for  the  period  1390-1392  (2011-2014)  is
 
 The government of Afghanistan is not in a position to cover the cost of education through the ordinary budget  due  to  lack  of  internal  resources.  Donors'  contributions  to  education  are  preconditions  for success in achieving the IP objectives and MDG and EFA goals. The major cost items calculated for the development budget include construction of education institutions/schools, technical assistance in the form  of  TA  staff  and  consultancy  services,  and  other  program  costs  of  a  developmental  type  (for example,  in-service  teacher  education,  community-based  education,  printing  and  distribution  of textbooks,  etc.)  that  cannot  be  covered  through  the  ordinary  budget  at  this  stage.  The  development budget includes both funding that will be disbursed through Ministry of Finance and externally managed projects by donors.
 
-S No | Interim Plan Programs | Development Cost in US$ million
+Table 13: IP Costing 1390-1392 (2011-2013) – Development Budget
+
+Development Cost in US$ million
+S No | Interim Plan Programs | 1390 | 1391 | 1392 | Total | %
 --- | --- | --- | --- | --- | --- | ---
-1390 | 1391 | 1392 | Total | %
 1 | General Education | 225.7 | 261.0 | 286.9 | 773.5 | 54.4%
 1.1 | General Education | 209.9 | 243.5 | 267.6 | 721.1 | 50.7%
 1.2 | Islamic Education | 15.7 | 17.4 | 19.3 | 52.4 | 3.7%
@@ -1687,9 +2044,7 @@ S No | Interim Plan Programs | Development Cost in US$ million
 3 | TVET | 16.1 | 21.8 | 25.3 | 63.2 | 4.4%
 4 | Literacy | 32.4 | 37.6 | 43.3 | 113.3 | 8.0%
 5 | Education Governance and Administration | 25.5 | 31.3 | 30.6 | 87.4 | 6.1%
-Grand Total | 403.7 | 479.0 | 539.8 | 1,422.4 | 100%
-
-Table 13: IP Costing 1390-1392 (2011-2013) - Development Budget
+ | Grand Total | 403.7 | 479.0 | 539.8 | 1,422.4 | 100%
 
 Source: MoE, 2010.
 
@@ -1701,17 +2056,17 @@ Out  of  the  total  development  budget,  54.4 percent  is  directed  at  gener
 
 [[START OF PAGE 60]]
 
+Table 14: IP Costing 1390-1392 (2011-2013) – Operating Budget
+
 Operating Cost in US$ million
---- | --- | --- | --- | --- | --- | ---
 S No | Interim Plan Programs | 1390 | 1391 | 1392 | Total | %
+--- | --- | --- | --- | --- | --- | ---
 1 | General Education | 511.7 | 555.8 | 596.4 | 1,664.0 | 90.8%
 2 | Curriculum and Teacher Education | 14.6 | 15.5 | 16.7 | 46.9 | 2.6%
 3 | TVET | 10.5 | 12.2 | 14.5 | 37.3 | 2.0%
 4 | Literacy | 12.6 | 14.0 | 15.4 | 42.1 | 2.3%
 5 | Education Governance and Administration | 12.2 | 14.1 | 15.7 | 41.9 | 2.3%
-Grand Total | 561.7 | 611.7 | 658.7 | 1,832.1 | 100.0%
-
-Table 14: IP Costing 1390-1392 (2011-2013) - Operating Budget
+ | Grand Total | 561.7 | 611.7 | 658.7 | 1,832.1 | 100.0%
 
 Note: the dollar exchange rate to Afghani at the time of preparation of the budget was US$1=50 AFN.
 
@@ -1771,22 +2126,24 @@ Out of the total operating budget, 91 percent is allocated to the General Educat
 
 ### 8.2. Financing
 
-Tables 15 and 16 shows the estimated financing requirement to implement the Interim Plan, including the  annual  operating  expenses.  It  is  presented  on  a  program  basis,  consistent  with  the  ministry's participation  in  the  program  budget  principles.  The  total  financing  requirement  for  the  period  13901392  (2011-2014)  is  US$3,255 million,  of  which  US$1,423 million  is  required  through  development budget channels and US$1,832 million for annual operating costs.
-
-Summary | 1387 (2008) Actual | 1388 (2009) Actual | 1389 (2010) Projected | 1390 (2011) Estimate | 1391 (2012) Estimate | 1392 (2013) Estimate | Total 1390- 1392 (2011- 2013)
---- | --- | --- | --- | --- | --- | --- | ---
-Teachers | 12,077 | 11,690 | 11,618 | 11,841 | 35,149
-Officers | 812 | 536 | 538 | 540 | 1,614
-Support Staff | 1,581 | 728 | 597 | 604 | 1,929
-Total New Recruitment | 12,500 | 12,500 | 14,470 | 12,954 | 12,753 | 12,985 | 36,692
+Tables 15 and 16 shows the estimated financing requirement to implement the Interim Plan, including the annual operating expenses. It is presented on a program basis, consistent with the ministry’s participation in the program budget principles. The total financing requirement for the period 1390-1392 (2011-2014) is US$3,255 million, of which US$1,423 million is required through development budget channels and US$1,832 million for annual operating costs.
 
 Table 15: Planned Recruitment of New Staff
 
-Source: MoE, 2010.Table 16: Proposed Salary and Non-salary Cost Ratios
+Summary | 1387 (2008) Actual | 1388 (2009) Actual | 1389 (2010) Projected | 1390 (2011) Estimate | 1391 (2012) Estimate | 1392 (2013) Estimate | Total 1390-1392 (2011-2013)
+--- | --- | --- | --- | --- | --- | --- | ---
+Teachers |  |  | 12,077 | 11,690 | 11,618 | 11,841 | 35,149
+Officers |  |  | 812 | 536 | 538 | 540 | 1,614
+Support Staff |  |  | 1,581 | 728 | 597 | 604 | 1,929
+Total New Recruitment | 12,500 | 12,500 | 14,470 | 12,954 | 12,753 | 12,985 | 36,692
+
+Source: MoE, 2010.
+
+Table 16: Proposed Salary and Non-salary Cost Ratios
 
 Summary Costing | 1389 (2010) Projected | 1390 (2011) Estimate | 1391 (2012) Estimate | 1392 (2013) Estimate
 --- | --- | --- | --- | ---
-Operating (Recurrent) Expenditures
+Operating (Recurrent) Expenditures |  |  |  | 
 Wages and Salaries (21) | 89.7% | 88.8% | 88.0% | 87.2%
 Goods and Services (22) | 9.9% | 10.7% | 11.4% | 12.2%
 Purchase of Assets (25) | 0.4% | 0.5% | 0.6% | 0.6%
@@ -1798,14 +2155,14 @@ The MTFF has a provision of US$360  million  each  year  for  the  years  1390-1
 
 Information  on  donor  funding  for  the  upcoming  three  years  is  not  clearly  available  as  decisions  are made  on  an  annual  basis  and  donors  also  change  their  course  of  funding  based  on  their  own government priorities. Based on past experience, the MoE has made the following estimate of donor funding that may be available in support of education.
 
+Table 17: Donor Funding Commitment Through Core Development and External Budget for 2011-2013
+
 All Five Programs | USD millions (US$ '000,000')
+Program/year | 1389 (2010) Estimate | 1390 (2011) Estimate | 1391 (2012) Estimate | 1392 (2013) Estimate | Total 1390-1392 (2011-2013)
 --- | --- | --- | --- | --- | ---
-Program/year | 1389 (2010) Estimate | 1390 (2011) Estimate | 1391 (2012) Estimate | 1392 (2013) Estimate | Total 1390-1392 (2011- 2013)
 Core Development Budget (estimate) | 184 | 180 | 170 | 170 | 520
 External Budget (estimate) | 250 | 250 | 250 | 250 | 750
 Sub-total | 434 | 430 | 420 | 420 | 1,270
-
-Table 17: Donor Funding Commitment Through Core Development and External Budget for 2011-2013
 
 Source: MoE, 2010.
 
@@ -1819,9 +2176,11 @@ The total development budget required is US$1,422.4 million, while the estimated
 
 The IP key activities are prioritized in three categories of 1-high, 2-medium, and 3-low for funding. This will  allow  the  MoE  and  its  partners  to  make  decisions  on  funding  allocation  especially  when  the available resources are less than the total projected budget for the year. In such cases, the MoE and its partners will  make a joint decision to allocate funding for high priority activities  first and then  cover medium and low priority activities. Table 18 shows the cost of activities in each category.
 
-S No | Interim Plan Programs | Development Cost in million US$ For Activities with Priority 1-3
+Table 18: Costing of Activities in Each Priority Category for funding
+
+Development Cost in million US$ For Activities with Priority 1-3
+S No | Interim Plan Programs | Priority 1 | Priority 2 | Priority 3 | Total
 --- | --- | --- | --- | --- | ---
-Priority 1 | Priority 2 | Priority 3 | Total
 1 | General Education | 637.6 | 106.0 | 29.9 | 773.5
 1.1 | General Education | 616.4 | 77.7 | 27.0 | 721.1
 1.2 | Islamic Education | 21.3 | 28.2 | 2.9 | 52.4
@@ -1832,9 +2191,7 @@ Priority 1 | Priority 2 | Priority 3 | Total
 3 | TVET | 47.9 | 11.5 | 3.9 | 63.2
 4 | Literacy | 109.4 | 1.9 | 2.0 | 113.3
 5 | Education Governance and Administration | 77.5 | 9.9 | - | 87.4
-Grand Total | 1,177.1 | 177.4 | 68.0 | 1,422.4
-
-Table 18: Costing of Activities in Each Priority Category for funding
+ | Grand Total | 1,177.1 | 177.4 | 68.0 | 1,422.4
 
 Source: MoE, 2010.
 
@@ -1852,7 +2209,7 @@ It is evident that the MoE can achieve its objectives contained in this strategi
 
 The implementation, monitoring, and evaluation of the Interim Plan (IP) will be exactly the same as for NESP-2, as the activities of the IP are in essence NESP-2 priorities.
 
-However, the MoE will also report separately to the FTI through the FTI supervising entity (SE), which will  be  a  donor  selected  by  the  major  education  stakeholders in Afghanistan. The SE will write semiannual reports on the performance of the IP. These reports can be an integral part of NESP-2 reporting.
+However, the MoE will also report separately to the FTI through the FTI supervising entity (SE), which will be a donor selected by the major education stakeholders in Afghanistan. The SE will write semi-annual reports on the performance of the IP. These reports can be an integral part of NESP-2 reporting.
 
 #### Implementation Structure and Responsibilities
 
@@ -1882,7 +2239,7 @@ The interim plan will be translated into annual national  and provincial operati
 
 The first step in successful implementation of the IP is proper understanding of the plan and resources available for its implementation. The Department of Planning and Evaluation will prepare and print the IP in local languages and organize orientation trainings for priority program and component directors at national and provincial levels. Through a cascade system, all ministry staff will be oriented to the IP. Once annual operational plans are developed, similar trainings will be organized each year to ensure that all departments and staff members have clearly understood the tasks assigned to them.
 
-To strengthen effective implementation of the interim plan and operational plans, more authority will be delegated to provincial and district education offices and, at the same time, the monitoring capacity of the central administration will be strengthened. The more the implementers are involved in decisionmaking, the more responsible they will feel and the more effort they will make to solve problems.
+To strengthen effective implementation of the interim plan and operational plans, more authority will be delegated to provincial and district education offices and, at the same time, the monitoring capacity of the central administration will be strengthened. The more the implementers are involved in decision-making, the more responsible they will feel and the more effort they will make to solve problems.
 
 The  most  important  factor  with  regard  to  plan  implementation  is  strengthening  delivery  capacity  at central, provincial, district, and school levels. The Ministry of Education will recruit and deploy technical assistance to improve the systems, adequately staff provincial and district education offices, and train civil  servants  and  school  managers  in  relevant  disciplines.  Special  attention  will  be  focused  on improvement  of  financial  management,  procurement,  and  logistics  systems  at  the  national  and provincial  levels  by  deploying  qualified  staff  and  computerized  systems  to  increase  effectiveness  and efficiency.
 
@@ -1918,25 +2275,25 @@ Government budget constraints and the unpredictability of external funding will 
 
 [[START OF PAGE 66]]
 
+Table 19: Risks, Levels and Countermeasures for NESP-2
+
 Risks | Risk Factors | Level | Countermeasure
 --- | --- | --- | ---
-Political | Political instability, electoral uncertainty, rivalry. | High/ Medium | Policy and system strengthening.
+Political | Political instability, electoral uncertainty, rivalry. | High/Medium | Policy and system strengthening.
 Insecurity | Insecurity and instability undermines service delivery outreach and quality delivery. | High | Close coordination with security forces (national and international) to coordinate gains in stabilization with service provision. Involve community in school management and protection, develop, and implement security awareness measures, and report incidents.
 Policy | Weak policy compliance particularly in the provinces. | Medium | Mandatory approaches, regulatory, and standards enforcement.
-Fiscal Management | Fiscal constraints undermine service outreach and quality. | Medium | The NESP established MTFF/MTEF and scenario- based resourcing planning and prioritization - FTI gap financing.
+Fiscal Management | Fiscal constraints undermine service outreach and quality. | Medium | The NESP established MTFF/MTEF and scenario-based resourcing planning and prioritization – FTI gap financing.
 Access | Insecurity, lack of human resources, and infrastructure. | Medium | Strong drive in teacher staffing and capital investment in infrastructure. Promote private sector investment.
 Quality | Revenue constraints and decreasing donor commitment limit gains in quality education. | Medium | Strong justification through costed MTEF and results framework to justify expanding core and external budget resources and teacher training.
 Absorption Capacity | Underperformance in core development budget spending. | Medium | Strong focus on procurement, budget formulation, and execution framework.
 Implementation Timing | Timing of the budget, procurement, winter, and other factors limit expeditious execution. | Medium | Results and activities set within MTEF and core execution capacities under continuous development. Start mobilization two months before beginning new fiscal year.
 Decentralization | Decentralized decision making does not reflect actual provincial and district capacities. | Medium | Development of costed shared-services model, functional reform, and restructuring to decision-making units.
-Provincial Equity | Lack of provincial equity in funding and service delivery. | Medium/ Low | Development of formula-based resource allocation based on codified criteria.
-Gender | Significant gender disparity in access and teachers' gender balance. | High | Gender Strategy Mainstreamed across all National Programs, Gender Unit established, and indicators/benchmarks developed and monitored.
-Corruption | Risk of petty corruption, particularly at the sub-national levels and in insecure provinces. | Low/ Medium | Strong drive on civil servant ethics, PFM reforms, EMIS, AFMIS, and progressive automation (including back transfers) and expenditure tracking, counter corruption measures.
+Provincial Equity | Lack of provincial equity in funding and service delivery. | Medium/Low | Development of formula-based resource allocation based on codified criteria.
+Gender | Significant gender disparity in access and teachers’ gender balance. | High | Gender Strategy Mainstreamed across all National Programs, Gender Unit established, and indicators/benchmarks developed and monitored.
+Corruption | Risk of petty corruption, particularly at the sub-national levels and in insecure provinces. | Low/Medium | Strong drive on civil servant ethics, PFM reforms, EMIS, AFMIS, and progressive automation (including back transfers) and expenditure tracking, counter corruption measures.
 Donor Coordination | Risk of projectization, weak prioritization, duplication, and/or non-harmonization/alignment. | Low | Strengthen execution of Paris Declaration Principles, strengthen alignment with MTEF priorities, HRDB to enforce.
-Sustainability | Risks of continued significant external budget flows . | Medium | Adoption of MoE MTFF/MTEF.
+Sustainability | Risks of continued significant external budget flows. | Medium | Adoption of MoE MTFF/MTEF.
 Results Evaluation | Output to purpose level performance weak, M&E capacities need strengthening. | Low | Results and performance-based monitoring systems established within results framework.
-
-Table 19: Risks, Levels and Countermeasures for NESP-2
 
 ### 9.2. Monitoring
 
@@ -2020,7 +2377,7 @@ The final evaluation report prepared at the end of the implementation phase will
 
 #### Research (Case Study)
 
-With  the  cooperation  of  universities  and  national  and  international  research  organizations,  the Department of Planning and Evaluation will more deeply evaluate some components or activities of the plan that are of specific importance  to the ministry. Such evaluations will  consider the effectiveness, efficiency, and sustainability of activities. The results will be used in the revision of policies, objectives, and strategies adopted by the ministry. The analytical results of such evaluations will be made available to the leadership of the ministry
+With the cooperation of universities and national and international research organizations, the Department of Planning and Evaluation will more deeply evaluate some components or activities of the
 
 > 47 Relevant education donors and partners will be invited to the meeting.
 
@@ -2029,6 +2386,8 @@ With  the  cooperation  of  universities  and  national  and  international  res
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
+
+plan that are of specific importance to the ministry. Such evaluations will consider the effectiveness, efficiency, and sustainability of activities. The results will be used in the revision of policies, objectives, and strategies adopted by the ministry. The analytical results of such evaluations will be made available to the leadership of the ministry
 
 65
 
@@ -2077,9 +2436,9 @@ Financial Management. The MoE has been preparing program budgeting at the nation
 Expenditure (US$ million) /Year | 1385 2006 | 1386 2007 | 1387 2008 | 1388 2009 | 1389 2010
 --- | --- | --- | --- | --- | ---
 Operating budget | 156.9 | 174.3 | 262.2 | 313.5 | 251.3
-% increase over the past year expenditure | 11% | 50% | 20%
+% increase over the past year expenditure |  | 11% | 50% | 20% | 
 Development budget | 16.4 | 30.3 | 59.9 | 77.3 | 75.8
-% increase over the past year expenditure | 85% | 97% | 29%
+% increase over the past year expenditure |  | 85% | 97% | 29% | 
 
 Note: The expenditure for the year 1389 (2010) covers 9 months
 
@@ -2097,7 +2456,7 @@ The Ministry of Education will continue to use the services of NGO partners in t
 
 The  MoE  will  further  strengthen  its  internal  capacity  in  order  to  take  on  more  responsibility  for regulating and delivery of education services, as well as monitoring services being delivered on behalf of the MoE by NGOs and the private sector.
 
-The  following  capacity-building  strategy  is  based  on  assessments  of  the  MoE's  internal  and  external environment, which point to at least three focus areas, and will be implemented in order to address implementation  capacity:  (i) build  a  system  of  policies,  procedures,  and  standards;  (ii) increase  the capacity and sustainability of MoE's own human resources; and (iii) provide safe and on-time delivery of education  services.  These  three  areas  can  be  translated  into  three  strategies  for  the  MoE  CapacityBuilding program:
+The following capacity-building strategy is based on assessments of the MoE’s internal and external environment, which point to at least three focus areas, and will be implemented in order to address implementation capacity: (i) build a system of policies, procedures, and standards; (ii) increase the capacity and sustainability of MoE’s own human resources; and (iii) provide safe and on-time delivery of education services. These three areas can be translated into three strategies for the MoE Capacity-Building program:
 
 - The 'System Building' strategy will document and develop policies, procedures, and standards, as well as strengthening core functions of the MoE, to guarantee the sustainability of education services and assessment of education outcomes. HRDB and the technical working groups will also provide  input (see Program 5,  and  Chapter 9  on  implementation,  monitoring,  and evaluation for more details).
 
@@ -2179,6 +2538,9 @@ This national program will provide the foundation of necessary skills and basic 
 
 [[START OF PAGE 76]]
 
+successes of previously and currently implemented development initiatives, further resources will
+facilitate a continued upward trajectory of accomplishments.
+
 #### 1.1.1 Rationale for the Program
 
 In  2001,  fewer  than  1 million  children  were  enrolled  in  general  schools.  Girls  and  many  boys  were deprived of access to education.
@@ -2229,7 +2591,7 @@ Despite the MoE's remarkable achievements over the past eight years in providing
 
 ###### 1. Access to General Education
 
-The MoE recognizes the importance of early childhood development and preschool education and its effect on preparedness of children for school and increasing primary enrollment, particularly for girls. The program undertakes a range of initiatives to promote early childhood development and preschool education, including  preschool policy formulation, awareness-raising  on early childhood development and preschool education, provision of programs through Educational Radio and TV on early childhood development and preschool education, and pilot testing of preschool education in schools and mosques in the provinces. In addition, the program will also coordinate with other departments for curriculum/material  development  and  teacher  education  for  preschool  education.  The  MoE  will establish a joint working group with national and international partners to promote this.
+The MoE recognizes the importance of early childhood development and preschool education and its effect on preparedness of children for school and increasing primary enrollment, particularly for girls. The program undertakes a range of initiatives to promote early childhood development and preschool education, including preschool policy formulation, awareness-raising on early childhood development and preschool education, provision of programs through Educational Radio and TV on early childhood development and preschool education, and pilot testing of preschool education in schools and mosques in the provinces. In addition, the program will also coordinate with other departments for
 
 > 51 Lack of boundary walls and toilet facilities have been consistently cited in social surveys among Afghans as two of the most critical impediments to girls' participation in education.
 
@@ -2239,7 +2601,9 @@ The MoE recognizes the importance of early childhood development and preschool e
 
 [[START OF PAGE 78]]
 
-The  sub-program  will  improve  access  to  education  across  the  country  including  deprived  areas  by: (a) conducting public awareness programs every year to increase enrollment, particularly the enrollment  of  girls;  (b) conducting  a  school  mapping  survey  and  identifying  the  needs  of  different regions  for  new  schools;  (c) establishing  new  primary  schools,  upgrading  primary  schools  to  lower secondary, and upgrading lower secondary  schools to  upper  secondary  schools;  (d) expanding community-based outreach classes, community-based education, and accelerated learning classes with the  cooperation  of  communities  and  NGOs; (e) recruiting  and relocating  qualified female teachers to rural schools; (f) establishing competence centers for children with special needs and schools for Kuchi children; (g) establishing model schools; (h) pilot testing one-year preschool education in ten provinces; (i) encouraging private sector investment  and  facilitating the  registration of private schools in Afghanistan and refugee schools in Iran and Pakistan; and (j) facilitating the enrollment or certification of returning refugees.
+curriculum/material development and teacher education for preschool education. The MoE will establish a joint working group with national and international partners to promote this.
+
+The sub-program will improve access to education across the country including deprived areas by: (a) conducting public awareness programs every year to increase enrollment, particularly the enrollment of girls; (b) conducting a school mapping survey and identifying the needs of different regions for new schools; (c) establishing new primary schools, upgrading primary schools to lower secondary, and upgrading lower secondary schools to upper secondary schools; (d) expanding community-based outreach classes, community-based education, and accelerated learning classes with the cooperation of communities and NGOs; (e) recruiting and relocating qualified female teachers to rural schools; (f) establishing competence centers for children with special needs and schools for Kuchi children; (g) establishing model schools; (h) pilot testing one-year preschool education in ten provinces; (i) encouraging private sector investment and facilitating the registration of private schools in Afghanistan and refugee schools in Iran and Pakistan; and (j) facilitating the enrollment or certification of returning refugees.
 
 ###### 2. Construction of General School Facilities
 
@@ -2261,13 +2625,15 @@ The  program  will:  (a) strengthen  and  equip  the  Distance  Education  Depar
 
 ###### 6. Academic Supervision
 
-The program will (a) develop and implement a new system to supervise the implementation of general education activities; (b) train supervisors on new supervision methods; (c) supervise the academic issues of  primary  and  secondary  schools  through  regular  visits  to  schools  (three  times  per  year);  and (d) provide recommendations for improvement of teaching practices, students' learning achievements, and better engagement of community and parents in education of their children.
+The program will (a) develop and implement a new system to supervise the implementation of general education activities; (b) train supervisors on new supervision methods; (c) supervise the academic issues
 
 73
 
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
+
+of primary and secondary schools through regular visits to schools (three times per year); and (d) provide recommendations for improvement of teaching practices, students' learning achievements, and better engagement of community and parents in education of their children.
 
 ###### 7) Management and Coordination
 
@@ -2301,31 +2667,31 @@ To improve management and coordination, the program will: (a) establish school s
 
 [[START OF PAGE 80]]
 
+Sub-program 1.1: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)
+
 Interim Plan Key Result Area | Strategic Objectives | Key Activities | Performance Indicator | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1-high 3-low
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Improve access to general education | Conduct public awareness programs every year to increase enrollment, particularly enrollment of girls | Number of public awareness programs | 1 | 1 | 1 | 1 | 1
-Pilot test preschool education | Number of provinces | 0 | 5 | 10 | 10 | 1
-Increase enrollment in basic education | Number of students (M/F) | 6,400,000 | 6,960,000 | 7,385,000 | 7,810,000 | 1
-Increase enrollment in upper secondary education | Number of students (M/F) | 571,700 | 754,000 | 936,000 | 1,118,000 | 1
-Establish new schools | Number of new schools | 930 | 700 | 600 | 500 | 1
-Increase enrollment | Upgrade primary schools to lower secondary | Number of schools upgraded | 550 | 600 | 600 | 600
-Upgrade lower secondary schools to upper secondary schools | Number of schools upgraded | 539 | 440 | 440 | 440 | 1
-At least one girls' secondary school in rural districts staffed with average six qualified female teachers (with a spouse) | Number of girls secondary schools | 200 | 1
-Establish CBS and accelerated learning centers for children left behind from normal schooling | Number of centers | 4,800 | 9,600 | 14,400 | 14,400 | 1
-Providing access for children with special needs | Establish competence centers for children with special needs | Number of competence centers | 0 | 1 | 2 | 2 | 2
-Providing access for Kuchi children | Establish schools for Kuchi children | Number of Kuchi schools | 15 | 30 | 30 | 30 | 1
-Improve quality | Establish one model school per province | Number of model schools | 0 | 1 | 5 | 5 | 3
-Provide suitable environment for students | Construction of classes | Number of classrooms | 5,000 | 6,000 | 6,500 | 7,000 | 1
-Construction of science labs | Number of science centers | 100 | 100 | 100 | 100 | 2
-Reconstruction of existing classrooms | Number of classrooms | 1,000 | 1,500 | 1,750 | 1,750 | 3
-Construction of boundary wall | Number of boundary walls | 200 | 200 | 200 | 200 | 1
-Construction of latrines (six cabinets) | Number of latrines | 500 | 500 | 500 | 500 | 1
-Construction of drinking water wells | Number of drinking water wells | 500 | 500 | 500 | 500 | 1
-Provision of tables and chairs for students | Number of tables and chairs | 400,000 | 400,000 | 400,000 | 400,000 | 2
-Construction of house for caretaker teacher | Number of houses | 5 | 10 | 10 | 10 | 3
-Student services | Counseling for students in schools | Number of vocational guidance counselors deployed to schools | 0 | 1,000 | 1,500 | 2,000 | 2
-
-Sub-program 1.1: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)
+Improve access to general education | Increase enrollment | Conduct public awareness programs every year to increase enrollment, particularly enrollment of girls | Number of public awareness programs | 1 | 1 | 1 | 1 | 1
+ |  | Pilot test preschool education | Number of provinces | 0 | 5 | 10 | 10 | 1
+ |  | Increase enrollment in basic education | Number of students (M/F) | 6,400,000 | 6,960,000 | 7,385,000 | 7,810,000 | 1
+ |  | Increase enrollment in upper secondary education | Number of students (M/F) | 571,700 | 754,000 | 936,000 | 1,118,000 | 1
+ |  | Establish new schools | Number of new schools | 930 | 700 | 600 | 500 | 1
+ |  | Upgrade primary schools to lower secondary | Number of schools upgraded | 550 | 600 | 600 | 600 | 
+ |  | Upgrade lower secondary schools to upper secondary schools | Number of schools upgraded | 539 | 440 | 440 | 440 | 1
+ |  | At least one girls' secondary school in rural districts staffed with average six qualified female teachers (with a spouse) | Number of girls secondary schools |  | 200 |  |  | 1
+ |  | Establish CBS and accelerated learning centers for children left behind from normal schooling | Number of centers | 4,800 | 9,600 | 14,400 | 14,400 | 1
+ | Providing access for children with special needs | Establish competence centers for children with special needs | Number of competence centers | 0 | 1 | 2 | 2 | 2
+ | Providing access for Kuchi children | Establish schools for Kuchi children | Number of Kuchi schools | 15 | 30 | 30 | 30 | 1
+ | Improve quality | Establish one model school per province | Number of model schools | 0 | 1 | 5 | 5 | 3
+ | Provide suitable environment for students | Construction of classes | Number of classrooms | 5,000 | 6,000 | 6,500 | 7,000 | 1
+ |  | Construction of science labs | Number of science centers | 100 | 100 | 100 | 100 | 2
+ |  | Reconstruction of existing classrooms | Number of classrooms | 1,000 | 1,500 | 1,750 | 1,750 | 3
+ |  | Construction of boundary wall | Number of boundary walls | 200 | 200 | 200 | 200 | 1
+ |  | Construction of latrines (six cabinets) | Number of latrines | 500 | 500 | 500 | 500 | 1
+ |  | Construction of drinking water wells | Number of drinking water wells | 500 | 500 | 500 | 500 | 1
+ |  | Provision of tables and chairs for students | Number of tables and chairs | 400,000 | 400,000 | 400,000 | 400,000 | 2
+ |  | Construction of house for caretaker teacher | Number of houses | 5 | 10 | 10 | 10 | 3
+ | Student services | Counseling for students in schools | Number of vocational guidance counselors deployed to schools | 0 | 1,000 | 1,500 | 2,000 | 2
 
 75
 
@@ -2333,15 +2699,14 @@ Sub-program 1.1: Objectives, Key Activities, Indicators, Baseline Data, and Targ
 
 [[START OF PAGE 81]]
 
-Improve quality and access for teachers and students | Provide distance education program | Equipping and strengthening distance education directorate and education radio television | Equipped ERTV | 1 | 1
---- | --- | --- | --- | --- | --- | --- | ---
-Conducting 18-hour broadcasting program with close coordination of other programs | Number of 18-hour broadcasting programs | 6 | 9 | 12 | 18 | 1
-Improve monitoring system | Improve academic supervision | Develop and revise new monitoring system for general education | Number of new monitoring systems | 1 | 1 | 1 | 1
-Training for education supervisors | Number of supervisors trained | 2,400 | 2,800 | 3,200 | 2
-Improve management and coordination | Review and revise general education policies, procedures and guidelines | Number of documents revised | 1 | 3 | 3 | 2
-Establishment and training of school councils | Establishment and training of school councils | 11,460 | 12,360 | 13,400 | 14,000 | 1
-Provide quality improvement grant for general and Islamic education schools | Number of schools | 2,500 | 2,000 | 2,000 | 2,000 | 1
-Develop community mobilization capacity (recruit TA) | Number of TA | 87 | 87 | 87 | 1
+Improve quality and access for teachers and students | Provide distance education program | Equipping and strengthening distance education directorate and education radio television | Equipped ERTV |  | 1 |  |  | 1
+ |  | Conducting 18-hour broadcasting program with close coordination of other programs | Number of 18-hour broadcasting programs | 6 | 9 | 12 | 18 | 1
+Improve monitoring system | Improve academic supervision | Develop and revise new monitoring system for general education | Number of new monitoring systems |  | 1 | 1 | 1 | 1
+ |  | Training for education supervisors | Number of supervisors trained |  | 2,400 | 2,800 | 3,200 | 2
+ | Improve management and coordination | Review and revise general education policies, procedures and guidelines | Number of documents revised |  | 1 | 3 | 3 | 2
+ |  | Establishment and training of school councils | Establishment and training of school councils | 11,460 | 12,360 | 13,400 | 14,000 | 1
+ |  | Provide quality improvement grant for general and Islamic education schools | Number of schools | 2,500 | 2,000 | 2,000 | 2,000 | 1
+ |  | Develop community mobilization capacity (recruit TA) | Number of TA |  | 87 | 87 | 87 | 1
 
 76
 
@@ -2351,7 +2716,7 @@ Develop community mobilization capacity (recruit TA) | Number of TA | 87 | 87 | 
 
 ### Sub-program 1.2: Strengthening Islamic Education
 
-The goal is to develop and improve Islamic education in order to develop moral young people with the capabilities  needed  for  teaching;  religious  preaching;  leading  prayers;  working  in  government,  nongovernment, and private organizations; and pursuing their studies in higher education institutes.
+The goal is to develop and improve Islamic education in order to develop moral young people with the capabilities needed for teaching; religious preaching; leading prayers; working in government, non-government, and private organizations; and pursuing their studies in higher education institutes.
 
 #### General Objectives by 2013
 
@@ -2361,7 +2726,7 @@ The goal is to develop and improve Islamic education in order to develop moral y
 
 - Improve quality  and  relevance  of Islamic  education  through  reform  and  introduction  of  skills training in the curricula and developing infrastructure and teaching facilities.
 
-Building upon an ongoing initiative of the Ministry of Education, this sub-program will focus on revising Islamic education to counter religious extremism and expand the employability options of the Islamic education  programs'  graduates.  In  light  of  modern  pedagogy  and  inspired  by  the  success  of  ImamKhatib schools in Turkey, the curriculum will include 40 percent Islamic subjects and 60 percent general subjects, vocational subjects, teacher education subjects, information communication technology (ICT), and  English-language  instruction.  Consideration  will  be  given  to  providing  mechanisms  to  foster employability for graduates of the Islamic studies programs at the Ministry of Higher Education, thereby ensuring that graduates of Islamic education and Islamic studies programs have acquired the necessary skills needed to find employment across a number of sectors in the economy.
+Building upon an ongoing initiative of the Ministry of Education, this sub-program will focus on revising Islamic education to counter religious extremism and expand the employability options of the Islamic education programs' graduates. In light of modern pedagogy and inspired by the success of Imam-Khatib schools in Turkey, the curriculum will include 40 percent Islamic subjects and 60 percent general subjects, vocational subjects, teacher education subjects, information communication technology (ICT), and English-language instruction. Consideration will be given to providing mechanisms to foster employability for graduates of the Islamic studies programs at the Ministry of Higher Education, thereby ensuring that graduates of Islamic education and Islamic studies programs have acquired the necessary skills needed to find employment across a number of sectors in the economy.
 
 #### 1.2.1 Rationale for the Program
 
@@ -2372,9 +2737,8 @@ Islamic Education SWOT Analysis
 Strengths | Weaknesses
 --- | ---
 · Islamic education has strong support from many parts of the population, in particular in rural areas and among poor people. · Islamic education functions, systems, and institutions are well established. · Islamic education produces personnel for Islamic religious functions as well as to government. · Parts of Islamic education are community based. Community ownership of these activities is important and valued. · Islamic education has a long tradition. | · Low enrollment of females. · Many teachers do not have updated competence in pedagogy or in subjects taught. · Local financing is a strength but could also be an weakness in localities with limited resources. · Extreme decentralization on the one hand, and government's intention to improve and contribute on the other, can lead to management problems. · There are issues related to standards and quality control mechanisms. Training not related to the need of the modern labor market.
-Opportunities
-· Dar-ul-Ulums have proved able to attract students abroad to return home for their · Widespread and well-understood systems. · Local community involvement and private | Threats
-Afghan studies. sector contributions are important assets. | · General threats due to current insecurity and war. · Some Islamic education institutions have been used for political purposes. · International and in particular Western governments and donors seem often unwilling to contribute to and support Islamic education. · Conflicts between different groups of Islamic education.
+Opportunities | Threats
+· Dar-ul-Ulums have proved able to attract Afghan students abroad to return home for their studies. · Widespread and well-understood systems. · Local community involvement and private sector contributions are important assets. | · General threats due to current insecurity and war. · Some Islamic education institutions have been used for political purposes. · International and in particular Western governments and donors seem often unwilling to contribute to and support Islamic education. · Conflicts between different groups of Islamic education.
 
 The MoE and partners will implement the following strategies and activities to address the challenges and meet the set objectives defined above.
 
@@ -2412,13 +2776,15 @@ The  MoE  will  encourage  individuals  and  the  private  sector  to  contribut
 
 ###### 2. Provide a Conducive Learning Environment for Islamic School Students
 
-Expansion  and  construction  of  Islamic  schools  is  an  important  priority  of  the  MoE.  This  will  support increased enrollment of girls and students in remote and relatively insecure areas. New schools, water sanitation  facilities,  and  boundary  walls  will  be  constructed  using  standard  MoE  design.  The  Islamic education department will determine priorities for the construction of Islamic schools. The infrastructure department will undertake technical design, assessment of school sites, and construction quality control.
+Expansion and construction of Islamic schools is an important priority of the MoE. This will support increased enrollment of girls and students in remote and relatively insecure areas. New schools, water
 
 78
 
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
+
+sanitation facilities, and boundary walls will be constructed using standard MoE design. The Islamic education department will determine priorities for the construction of Islamic schools. The infrastructure department will undertake technical design, assessment of school sites, and construction quality control.
 
 ###### 3. Student Services
 
@@ -2459,22 +2825,22 @@ Sub-program 1.2: Objectives, Key Activities, Indicators, Baseline Data, and Targ
 Interim Plan Key Result Area | Strategic Objectives | Key Activities | Performance Indicator | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 2- low
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Improve access to Islamic education | Increase enrollment | Conduct public-awareness programs every year to increase enrollment, particularly of girls | Number of public awareness programs | 1 | 1 | 1 | 1 | 2
-Establish new Islamic schools | Number of new Islamic schools | 77 | 77 | 77 | 77 | 1
-Establish new Dar-ul-Huffaz | Number of new Dar- ul-Huffaz | 4 | 10 | 10 | 10 | 1
-Establish new Dar-ul-Ulums for females in 24 provinces | Number of new Dar- ul-Ulums | 8 | 8 | 8 | 8 | 1
-Enroll students in Islamic schools and in grades 13-14 of Dar-ul-Ulums | Number of Islamic students | 149,000 | 161,000 | 173,000 | 186,000 | 1
-Provide suitable environment for Islamic students | Construction of classes | Number of classrooms | 200 | 300 | 350 | 400 | 1
-Reconstruction of existing classrooms | Number of classrooms | 100 | 100 | 100 | 100 | 2
-Construction of boundary walls | Number of boundary walls | 22 | 22 | 22 | 22 | 2
-Construction of latrines (six cabinets) | Number of latrines | 20 | 20 | 20 | 20 | 1
-Construction of drinking water wells | Number of drinking water wells | 20 | 20 | 20 | 20 | 1
-Provision of tables and chairs for students | Number of chairs and tables | 11,400 | 11,400 | 11,400 | 11,400 | 2
-Construction of dormitories | Number of dormitories | 2 | 21 | 21 | 21 | 2
-Construction of mosques | Number of mosques | 2 | 6 | 6 | 6 | 3
-Improve monitoring system | Improve academic supervision | Develop an academic supervision system for Islamic education | Number of new academic supervision systems | 1 | 1
-Train supervisors for Islamic schools and Dar-ul-Ulums who will work in the provinces | Number of supervisors trained | 20 | 70 | 70 | 70 | 2
-Improve management and | Establish councils in Dar-ul-Ulums and Islamic schools | Number of councils established | 50 | 50 | 50 | 2
-coordination | Recruit TA | Number of TA recruited | 5 | 5 | 5 | 2
+ |  | Establish new Islamic schools | Number of new Islamic schools | 77 | 77 | 77 | 77 | 1
+ |  | Establish new Dar-ul-Huffaz | Number of new Dar-ul-Huffaz | 4 | 10 | 10 | 10 | 1
+ |  | Establish new Dar-ul-Ulums for females in 24 provinces | Number of new Dar-ul-Ulums | 8 | 8 | 8 | 8 | 1
+ |  | Enroll students in Islamic schools and in grades 13-14 of Dar-ul-Ulums | Number of Islamic students | 149,000 | 161,000 | 173,000 | 186,000 | 1
+ | Provide suitable environment for Islamic students | Construction of classes | Number of classrooms | 200 | 300 | 350 | 400 | 1
+ |  | Reconstruction of existing classrooms | Number of classrooms | 100 | 100 | 100 | 100 | 2
+ |  | Construction of boundary walls | Number of boundary walls | 22 | 22 | 22 | 22 | 2
+ |  | Construction of latrines (six cabinets) | Number of latrines | 20 | 20 | 20 | 20 | 1
+ |  | Construction of drinking water wells | Number of drinking water wells | 20 | 20 | 20 | 20 | 1
+ |  | Provision of tables and chairs for students | Number of chairs and tables | 11,400 | 11,400 | 11,400 | 11,400 | 2
+ |  | Construction of dormitories | Number of dormitories | 2 | 21 | 21 | 21 | 2
+ |  | Construction of mosques | Number of mosques | 2 | 6 | 6 | 6 | 3
+Improve monitoring system | Improve academic supervision | Develop an academic supervision system for Islamic education | Number of new academic supervision systems |  | 1 |  |  | 1
+ |  | Train supervisors for Islamic schools and Dar-ul-Ulums who will work in the provinces | Number of supervisors trained | 20 | 70 | 70 | 70 | 2
+ | Improve management and coordination | Establish councils in Dar-ul-Ulums and Islamic schools | Number of councils established |  | 50 | 50 | 50 | 2
+ |  | Recruit TA | Number of TA recruited |  | 5 | 5 | 5 | 2
 
 80
 
@@ -2506,7 +2872,7 @@ The national program will develop the national curriculum and quality learning a
 
 In  2001,  many  versions  of  the  curriculum  and  textbooks  were  used  in  schools.  The  curriculum  was politicized,  in  some  cases  promoting  a  culture  of  violence.  Today,  a  new  curriculum  framework  and syllabi for general and Islamic education have been developed, new textbooks for grades 1 through 9 of general education have been printed and are being used in all schools. The new textbooks for grades 10 through 12 of general schools and 7 through 14 of Islamic schools are being developed. A system for assessing  students'  learning  achievement  needs  to  be  developed  to  assess  quality  of  teaching  and learning.  Below  is  an  assessment  of  internal  context  and  external  environment  of  the  curriculum development department.
 
-Curriculum Development SWOT Analysis The MoE and partners will implement the following strategies and activities to address the challenges and meet the set objectives defined above.
+Curriculum Development SWOT Analysis
 
 Strengths | Weaknesses
 --- | ---
@@ -2521,6 +2887,8 @@ Strengths | Weaknesses
 Opportunities | Threats
 --- | ---
 · Increasing interest among Afghan specialists to join the curriculum department. · Young university graduates with further training in curriculum development (using available scholarships by other countries) can fill the gap of qualified staff. · Willingness of partners to continue provision of technical and financial support (DANIDA, UNESCO UNICEF, and the World Bank). · Commitment of the government to provide better incentive for academic staff. | · High expectations from students, parents, teachers, and other stakeholders for delivery of quality teaching learning material. · Insecurity negatively affects textbook production and distribution. · Relevance of the curriculum to labor market needs.
+
+The MoE and partners will implement the following strategies and activities to address the challenges and meet the set objectives defined above.
 
 #### 2.1.2 Interim Plan Strategies
 
@@ -2546,13 +2914,15 @@ Development  of  a  quality  curriculum  is  a  long-term  endeavor.  It  needs 
 
 ###### 1. Develop and Revise Curriculum, Textbooks, and Teacher Guides
 
-The curriculum development department will study the needs of society regularly and conduct research on the curriculum (including gender audit) to: (a) increase the creativity and quality of the Islamic and general education curricula; (b) regularly evaluate curriculum implementation in schools; (c) revise the curriculum  and  syllabi  of  general  education  (primary  and  secondary);  (d) revise  the  curriculum  and syllabi of Islamic education; (e) develop and revise general and Islamic education textbooks; (f) develop language  textbooks for the  third  official  languages;  (g) develop  the  curriculum  and  materials  for  one year preschool education in collaboration with partners; (h) support the development of textbooks in Braille;  (i) support  the  development  of  audio-visual  dictionaries  in  sign  language;  (j) develop  the curriculum and learning materials for students with special needs; (k) develop and revise teacher guides for  all  Islamic  and  general  education  subjects;  (l) develop  an  adapted  Afghan  version  of  'Embracing Diversity - Toolkit for Creating Inclusive, Learning-Friendly Environments' in schools; and (m) develop and revise learning aid materials (charts, maps, models, grade, and subject specific questions sets and answer keys, etc).
+The curriculum development department will study the needs of society regularly and conduct research on the curriculum (including gender audit) to: (a) increase the creativity and quality of the Islamic and general education curricula; (b) regularly evaluate curriculum implementation in schools; (c) revise the curriculum and syllabi of general education (primary and secondary); (d) revise the curriculum and
 
 82
 
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
+
+syllabi of Islamic education; (e) develop and revise general and Islamic education textbooks; (f) develop language textbooks for the third official languages; (g) develop the curriculum and materials for one year preschool education in collaboration with partners; (h) support the development of textbooks in Braille; (i) support the development of audio-visual dictionaries in sign language; (j) develop the curriculum and learning materials for students with special needs; (k) develop and revise teacher guides for all Islamic and general education subjects; (l) develop an adapted Afghan version of “Embracing Diversity – Toolkit for Creating Inclusive, Learning-Friendly Environments” in schools; and (m) develop and revise learning aid materials (charts, maps, models, grade, and subject specific questions sets and answer keys, etc).
 
 ###### 2. Printing and Distribution of Textbooks and Learning Material
 
@@ -2604,30 +2974,28 @@ The  MoE  will:  (a) review  the  rules,  regulations,  and  guidelines  for  th
 
 Sub-program 2.1: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)
 
-Interim Plan Key Result | Strategic Objectives | Key Activities | Performance Indicators | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 3- low
+Interim Plan Key Result Area | Strategic Objectives | Key Activities | Performance Indicators | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 3- low
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Area Strengthen quality of education | Improve quality of general and Islamic education | Conduct research on curriculum (including a gender audit) | Number of research projects carried out | 1 | 1 | 1
-Assess curriculum implementation | Number of curricula assessed | 1 | 1 | 1 | 1 | 1
-Revise curriculum and syllabi for general and Islamic education | Number of curricula revised | 1 | 1 | 1
-Revise general and Islamic education textbooks and teacher guides and make these more gender sensitized | Number of general and Islamic textbooks revised | 150 | 200 | 200 | 200 | 1
-Develop language textbooks for third official languages | Number of language textbooks for third official languages developed | 36 | 1
-Develop learning material in brail | Number of learning materials in brail developed | 1 | 1 | 1 | 3
-Develop audio-visual dictionary in sign language | Number of audio-visual dictionaries in sign language developed | 1 | 1 | 2
-Develop curricula and learning material for students with special needs | Number of curricula for students with special needs developed | 1 | 1 | 3
-Develop toolkits for inclusive education | Number of toolkits for inclusive education developed | 1 | 1 | 2
-Develop and revise learning aid materials | Number of learning aid materials developed | 20 | 20 | 20 | 3
-Print and distribute textbooks and teacher guides for general schools | Number of general education textbooks printed and distributed (millions) | 41 | 36 | 40 | 42 | 1
-Print and distribute textbooks and teacher guides for Islamic schools | Number of Islamic education textbooks distributed (millions) | 0.07 | 0.96 | 1.040 | 1.12 | 1
-Print learning materials for students with special needs | Number of learning materials for students with special needs printed | 1 | 1 | 3
-Equip schools with libraries | Number of schools equipped with libraries | 350 | 600 | 1,000 | 3,000 | 1
-Print and distribute learning-aid materials | Number of learning-aid materials printed and distributed (millions) | 18 | 20 | 21 | 1
-Develop and implement student achievement assessment system | Develop and revise standards and system for students' learning achievement | Standards and systems developed | 1 | 1 | 1
-Revise regular examination system | Regular examination system revised | 1 | 1 | 1
-Pilot test learning assessment system | Pilot test learning assessment systems developed | 1 | 2
-Conduct national learning assessment test | National learning assessment tests carried out | 1 | 1 | 2
-Improve | Develop a compressive capacity development plan | Capacity development plans developed | 1 | 2
-
-capacity building
+Strengthen quality of education | Improve quality of general and Islamic education | Conduct research on curriculum (including a gender audit) | Number of research projects carried out | 1 |  |  | 1 | 1
+ |  | Assess curriculum implementation | Number of curricula assessed | 1 | 1 | 1 | 1 | 1
+ |  | Revise curriculum and syllabi for general and Islamic education | Number of curricula revised | 1 |  |  | 1 | 1
+ |  | Revise general and Islamic education textbooks and teacher guides and make these more gender sensitized | Number of general and Islamic textbooks revised | 150 | 200 | 200 | 200 | 1
+ |  | Develop language textbooks for third official languages | Number of language textbooks for third official languages developed | 36 |  |  |  | 1
+ |  | Develop learning material in brail | Number of learning materials in brail developed | 1 | 1 | 1 |  | 3
+ |  | Develop audio-visual dictionary in sign language | Number of audio-visual dictionaries in sign language developed | 1 | 1 |  |  | 2
+ |  | Develop curricula and learning material for students with special needs | Number of curricula for students with special needs developed |  | 1 | 1 |  | 3
+ |  | Develop toolkits for inclusive education | Number of toolkits for inclusive education developed | 1 | 1 |  |  | 2
+ |  | Develop and revise learning aid materials | Number of learning aid materials developed | 20 | 20 | 20 |  | 3
+ |  | Print and distribute textbooks and teacher guides for general schools | Number of general education textbooks printed and distributed (millions) | 41 | 36 | 40 | 42 | 1
+ |  | Print and distribute textbooks and teacher guides for Islamic schools | Number of Islamic education textbooks distributed (millions) | 0.07 | 0.96 | 1.040 | 1.12 | 1
+ |  | Print learning materials for students with special needs | Number of learning materials for students with special needs printed |  |  | 1 | 1 | 3
+ |  | Equip schools with libraries | Number of schools equipped with libraries | 350 | 600 | 1,000 | 3,000 | 1
+ |  | Print and distribute learning-aid materials | Number of learning-aid materials printed and distributed (millions) |  | 18 | 20 | 21 | 1
+ | Develop and implement student achievement assessment system | Develop and revise standards and system for students' learning achievement | Standards and systems developed |  | 1 |  | 1 | 1
+ |  | Revise regular examination system | Regular examination system revised |  | 1 | 1 |  | 1
+ |  | Pilot test learning assessment system | Pilot test learning assessment systems developed |  |  | 1 |  | 2
+ |  | Conduct national learning assessment test | National learning assessment tests carried out |  |  | 1 | 1 | 2
+ | Improve capacity building | Develop a compressive capacity development plan | Capacity development plans developed |  | 1 |  |  | 2
 
 85
 
@@ -2635,11 +3003,10 @@ capacity building
 
 [[START OF PAGE 91]]
 
-Scholarships for staff for MA degree | Number of staff used from scholarship | 3 | 50 | 50 | 50 | 1
---- | --- | --- | --- | --- | --- | ---
-Short-term training for admin and academic staff | Number of staff trained for short-term training | 200 | 400 | 400 | 400 | 3
-Train master trainers and academic supervisors on new curriculum | Number of master trainers trained | 5,00 | 2,000 | 2,000 | 2,000 | 1
-Review rules, regulations, and guidelines | Review sessions undertaken | 1 | 1 | 1 | 1 | 2
+ |  | Scholarships for staff for MA degree | Number of staff used from scholarship | 3 | 50 | 50 | 50 | 1
+ |  | Short-term training for admin and academic staff | Number of staff trained for short-term training | 200 | 400 | 400 | 400 | 3
+ |  | Train master trainers and academic supervisors on new curriculum | Number of master trainers trained | 5,00 | 2,000 | 2,000 | 2,000 | 1
+ |  | Review rules, regulations, and guidelines | Review sessions undertaken | 1 | 1 | 1 | 1 | 2
 
 86
 
@@ -2693,7 +3060,7 @@ Teacher recruitment will be gradually decentralized and will be based on an iden
 
 The  need  for  subject-matter  teaching  positions  in  upper  secondary  schools  in  each  province  will  be communicated to universities for admissions-planning purposes.
 
-Opportunities  will  be  provided  for  existing  teachers  to  enhance  their  level  of  education  through  inservice programs. In addition, special teacher training programs will be provided for females in remote areas that have a shortage of female teachers.
+Opportunities will be provided for existing teachers to enhance their level of education through in-service programs. In addition, special teacher training programs will be provided for females in remote areas that have a shortage of female teachers.
 
 The  General  Education  Department  will  identify  and  communicate  the  number  of  subject-matter teaching  positions  required  in  each  school  and  district  to  the  Teacher  Education  Department. Enrollment  in  both  pre-service  and in-service  teacher  training  programs  will  then  be  based  on  these needs.
 
@@ -2719,7 +3086,7 @@ This  sub-program  is  designed  to  strategically  address  issues  of  access 
 
 ###### 1. Equal Access to Teacher Education
 
-The  teacher  education  department  will:  (a) increase the  number  of  TTCs  to  42;  (b) establish  one  TTC satellite as a teacher resource center in each of 221 districts; (c) educate 66,000 teachers (30,000 in preservice  and  36,000  in  in-service)  in  TTCs  for  different  subject  matters,  preschool,  and  inclusive education; and (d) register all newly established private TTCs and provide support to them.
+The teacher education department will: (a) increase the number of TTCs to 42; (b) establish one TTC satellite as a teacher resource center in each of 221 districts; (c) educate 66,000 teachers (30,000 in pre-service and 36,000 in in-service) in TTCs for different subject matters, preschool, and inclusive education; and (d) register all newly established private TTCs and provide support to them.
 
 ###### 2. Construction of Teacher Education Facilities
 
@@ -2729,7 +3096,7 @@ The  teacher  education  department  will:  (a) increase the  number  of  TTCs  
 
 [[START OF PAGE 94]]
 
-The MoE will: (a) construct and equip new TTC complexes; (b) construct satellite TTCs in districts (multipurpose  buildings);  and  (c) construct  and  equip  dormitories  for  TTCs  in  order  to  provide  a  conducive learning environment.
+The MoE will: (a) construct and equip new TTC complexes; (b) construct satellite TTCs in districts (multi-purpose buildings); and (c) construct and equip dormitories for TTCs in order to provide a conducive learning environment.
 
 ###### 3. Establishment of Teacher's Professional Development System
 
@@ -2785,30 +3152,30 @@ Sub-program 2.2: Objectives, Key Activities, Indicators, Baseline Data, and Targ
 
 Interim Plan Key Result Area | Strategic Objectives | Key Activities | Performance Indicators | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 3- low
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Strengthen quality of education | Improve teacher qualification | Equip teacher training center (TTC) | Number of TTCs equipped | 4 | 4 | 4 | 2
-Establishment of satellite TTCs at district level | Number of satellite TTCs established | 14 | 33 | 34 | 33 | 3
-Train pre-service and in-service | Number of teachers trained | 42,000 | 19,000 | 22,000 | 25,000 | 1
-Train teachers in INSET-1 | Teachers trained in INSET-1 | 55,000 | 30,000 | 25,000 | 20,000 | 1
-Train teachers in INSET-2 | Teachers trained in INSET-2 | 40,000 | 30,000 | 30,000 | 1
-Train teachers in INSET-3 | Teachers trained in INSET-3 | 20,000 | 35,000 | 35,000 | 2
-Train teachers in INSET-4 | Teachers trained in INSET-4 | 10,000 | 30,000 | 30,000 | 3
-Broadcast audio-visual material and distance education programs | Number of audio-visual materials broadcasted | 900 | 900 | 900 | 3
-Teacher education through distance learning | Number of teachers trained | 20,000 | 20,000 | 20,000 | 3
-Training of school administrators | Number of school administrators trained | 39,000 | 39,000 | 39,000 | 1
-Provide suitable environment for teacher training | Constructing complexes for TTCs | Number of complexes for TTCs constructed | 3 | 4 | 4 | 1
-Constructing district teacher-training support centers | Number of district teacher-training support centers constructed | 20 | 30 | 40 | 2
-Constructing dormitories with cafeterias for TTCs | Number of dormitories with cafeterias for TTCs constructed | 3 | 4 | 4 | 1
-Incentive for students and instructors | Regional incentives for instructors | Number of instructors using regional incentives | 730 | 730 | 730 | 1
-Incentives for female students | Number of female students using regional incentives | 2,700 | 2,700 | 2,700 | 1
-Development of curricula and textbooks for teachers | Development and revision of textbooks for TTCs | Number of textbooks for TTC revised | 270 | 270 | 1
-Printing and distribution of textbooks for TTCs | Number of textbooks printed and distributed (million) | 1 | 1 | 1.1 | 1
-Development of training materials for school administrators | Training materials for school administrators developed | 1 | 1 | 2
-Printing of training material for school administrators | Number of training materials for school administrators printed | 39,000 | 39,000 | 39,000 | 2
-Development of training material for INSET-1-4 | Training materials for INSET-1-4 developed | 4 | 4 | 1
-Development of audio-visual material for distance education (programs) | Audio-visual material for distance education developed | 4 | 4 | 3
-Improve coordination and management | Develop TTC accreditation system | TTC accreditation system developed | 1 | 2
-Develop standard test for TTC students | Standard test for TTC students developed | 1 | 1
-Analyze test results and record in database | Test results recorded in database and analyzed | 1 | 1 | 1 | 1
+Strengthen quality of education | Improve teacher qualification | Equip teacher training center (TTC) | Number of TTCs equipped |  | 4 | 4 | 4 | 2
+ |  | Establishment of satellite TTCs at district level | Number of satellite TTCs established | 14 | 33 | 34 | 33 | 3
+ |  | Train pre-service and in-service | Number of teachers trained | 42,000 | 19,000 | 22,000 | 25,000 | 1
+ |  | Train teachers in INSET-1 | Teachers trained in INSET-1 | 55,000 | 30,000 | 25,000 | 20,000 | 1
+ |  | Train teachers in INSET-2 | Teachers trained in INSET-2 |  | 40,000 | 30,000 | 30,000 | 1
+ |  | Train teachers in INSET-3 | Teachers trained in INSET-3 |  | 20,000 | 35,000 | 35,000 | 2
+ |  | Train teachers in INSET-4 | Teachers trained in INSET-4 |  | 10,000 | 30,000 | 30,000 | 3
+ |  | Broadcast audio-visual material and distance education programs | Number of audio-visual materials broadcasted |  | 900 | 900 | 900 | 3
+ |  | Teacher education through distance learning | Number of teachers trained |  | 20,000 | 20,000 | 20,000 | 3
+ |  | Training of school administrators | Number of school administrators trained |  | 39,000 | 39,000 | 39,000 | 1
+ | Provide suitable environment for teacher training | Constructing complexes for TTCs | Number of complexes for TTCs constructed |  | 3 | 4 | 4 | 1
+ |  | Constructing district teacher-training support centers | Number of district teacher-training support centers constructed |  | 20 | 30 | 40 | 2
+ |  | Constructing dormitories with cafeterias for TTCs | Number of dormitories with cafeterias for TTCs constructed |  | 3 | 4 | 4 | 1
+ | Incentive for students and instructors | Regional incentives for instructors | Number of instructors using regional incentives |  | 730 | 730 | 730 | 1
+ |  | Incentives for female students | Number of female students using regional incentives |  | 2,700 | 2,700 | 2,700 | 1
+ | Development of curricula and textbooks for teachers | Development and revision of textbooks for TTCs | Number of textbooks for TTC revised |  | 270 |  | 270 | 1
+ |  | Printing and distribution of textbooks for TTCs | Number of textbooks printed and distributed (million) |  | 1 | 1 | 1.1 | 1
+ |  | Development of training materials for school administrators | Training materials for school administrators developed |  | 1 |  | 1 | 2
+ |  | Printing of training material for school administrators | Number of training materials for school administrators printed |  | 39,000 | 39,000 | 39,000 | 2
+ |  | Development of training material for INSET-1-4 | Training materials for INSET-1-4 developed |  | 4 |  | 4 | 1
+ |  | Development of audio-visual material for distance education (programs) | Audio-visual material for distance education developed |  | 4 |  | 4 | 3
+ | Improve coordination and management | Develop TTC accreditation system | TTC accreditation system developed |  | 1 |  |  | 2
+ |  | Develop standard test for TTC students | Standard test for TTC students developed |  | 1 |  |  | 1
+ |  | Analyze test results and record in database | Test results recorded in database and analyzed |  | 1 | 1 | 1 | 1
 
 91
 
@@ -2862,15 +3229,15 @@ Sub-program 2.3: Objectives, Key Activities, Indicators, Baseline Data, and Targ
 
 Interim Plan Key Result Area | Strategic Objectives | Key Activities | Performance Indicators | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 3- low
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Strengthen quality of education | Improve quality of education | Constructing national science and technology centers | Number of national science and technology centers constructed | 1 | 1
-Constructing science and technology centers for provinces | Number of science and technology centers for provinces constructed | 5 | 5 | 5 | 2
-Equip schools with science lab and kits | Purchasing laboratories for biology, chemistry, and physics for general schools | Number of laboratories equipped | 240 | 350 | 350 | 350 | 1
-Purchasing laboratories for biology, chemistry, and physics for madrasas | Number of laboratories equipped | 32 | 32 | 32 | 1
-Providing science kits for general schools | Number of science kits for general schools provided | 250 | 500 | 500 | 500 | 1
-Providing science kits for Islamic schools | Number of science kits for Islamic schools provided | 42 | 42 | 42 | 1
-Libraries for TTCs | Number of libraries for TTCs | 15 | 15 | 15 | 1
-Training of lab technicians and science teachers | Training of lab technicians | Number of lab technicians trained | 1,400 | 1,400 | 1,400 | 1
-Training of science teachers | Number of science teachers trained | 1,300 | 5,000 | 5,000 | 5,000 | 1
+Strengthen quality of education | Improve quality of education | Constructing national science and technology centers | Number of national science and technology centers constructed |  | 1 |  |  | 1
+ |  | Constructing science and technology centers for provinces | Number of science and technology centers for provinces constructed |  | 5 | 5 | 5 | 2
+ | Equip schools with science lab and kits | Purchasing laboratories for biology, chemistry, and physics for general schools | Number of laboratories equipped | 240 | 350 | 350 | 350 | 1
+ |  | Purchasing laboratories for biology, chemistry, and physics for madrasas | Number of laboratories equipped |  | 32 | 32 | 32 | 1
+ |  | Providing science kits for general schools | Number of science kits for general schools provided | 250 | 500 | 500 | 500 | 1
+ |  | Providing science kits for Islamic schools | Number of science kits for Islamic schools provided |  | 42 | 42 | 42 | 1
+ |  | Libraries for TTCs | Number of libraries for TTCs |  | 15 | 15 | 15 | 1
+ | Training of lab technicians and science teachers | Training of lab technicians | Number of lab technicians trained |  | 1,400 | 1,400 | 1,400 | 1
+ |  | Training of science teachers | Number of science teachers trained | 1,300 | 5,000 | 5,000 | 5,000 | 1
 
 93
 
@@ -2937,7 +3304,7 @@ Building  on  the  lessons  learned  and  recommendation  of  the  National  Ski
 
 ##### 3.3.1 Proposed Activities
 
-###### Increase Access to TVET
+###### 1. Increase Access to TVET
 
 > 53 EMIS July 2009, p. 100.
 
@@ -3013,29 +3380,29 @@ The  department  will:  (a) revise  all  policies,  regulations,  and  guideline
 
 [[START OF PAGE 103]]
 
-Interim Plan Key Result | Strategic Objectives | Key Activities | Performance Indicators | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 3- low
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Area Expanding quality technical education | Increase access to TVET | Launch public awareness programs to increase enrollment in TVET (particularly for girls) | Public awareness programs launched | 1 | 1 | 1 | 3
-Increase the number of TVET regional institutes | Number of new TVET regional institutes established | 5 | 0 | 1 | 1 | 1
-Increase the number of TVET provincial schools | Number of new TVET provincial schools established | 8 | 2 | 3 | 3 | 1
-Establish new TVET district schools | Number of new TVET district schools established | 24 | 21 | 22 | 22 | 1
-Establish new TVET schools for children with disabilities | Number of new TVET schools for children with disabilities established | 1 | 1 | 1 | 2
-Increase enrollment in TVET schools and institutes | Number of TVET students | 29,600 | 40,900 | 52,700 | 63,700 | 1
-Provide suitable environment for TVET | Construction of complexes for TVET | Number of complexes for TVET constructed | 1 | 4 | 5 | 1
-Construction of TVET schools at the district level | Number of TVET schools at the district level constructed | 4 | 8 | 10 | 1
-Renovation of TVET complexes | Number of TVET complexes renovated | 8 | 10 | 10 | 1
-Construction of dormitories with cafeterias for TVET schools | Number of dormitories with cafeterias for TVET schools constructed | 1 | 1 | 2 | 1
-Development and revision of curriculum | Development and revision of textbooks for different fields based on market-needs assessment | Number of textbooks for different fields developed | 100 | 100 | 100 | 100 | 1
-Printing of textbooks for different fields | Number of textbooks for different fields printed (millions) | 0.4 | 0.4 | 0.5 | 0.6 | 1
-Equipment of technical and vocational centers | Number of technical and vocational centers equipped | 20 | 20 | 30 | 30 | 2
-Increase qualification of teachers | Training of teachers (in country) | Number of teachers trained in country | 150 | 150 | 150 | 1
-Training of teachers (abroad) | Number of teachers trained abroad | 100 | 100 | 100 | 3
-Improve academic supervision | Revision of system for the supervision of TVET schools | Systems for the supervision of TVET schools revised | 1 | 1 | 1
-Improve management and coordination | Revision of all policies, regulations, and guidelines of TVET with an aim to develop a coherent national TVET system | Policies, regulations, and guidelines of TVET revised | 1 | 1 | 1 | 1
-Recruitment of international technical advisors | Number of technical advisors recruited | 10 | 10 | 10 | 2
-Recruitment of national professionals | Number of national professionals recruited | 10 | 10 | 10 | 2
-
 Program 3: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)
+
+Interim Plan Key Result Area | Strategic Objectives | Key Activities | Performance Indicators | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 3- low
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Expanding quality technical education | Increase access to TVET | Launch public awareness programs to increase enrollment in TVET (particularly for girls) | Public awareness programs launched |  | 1 | 1 | 1 | 3
+ |  | Increase the number of TVET regional institutes | Number of new TVET regional institutes established | 5 | 0 | 1 | 1 | 1
+ |  | Increase the number of TVET provincial schools | Number of new TVET provincial schools established | 8 | 2 | 3 | 3 | 1
+ |  | Establish new TVET district schools | Number of new TVET district schools established | 24 | 21 | 22 | 22 | 1
+ |  | Establish new TVET schools for children with disabilities | Number of new TVET schools for children with disabilities established |  | 1 | 1 | 1 | 2
+ |  | Increase enrollment in TVET schools and institutes | Number of TVET students | 29,600 | 40,900 | 52,700 | 63,700 | 1
+ | Provide suitable environment for TVET | Construction of complexes for TVET | Number of complexes for TVET constructed |  | 1 | 4 | 5 | 1
+ |  | Construction of TVET schools at the district level | Number of TVET schools at the district level constructed |  | 4 | 8 | 10 | 1
+ |  | Renovation of TVET complexes | Number of TVET complexes renovated |  | 8 | 10 | 10 | 1
+ |  | Construction of dormitories with cafeterias for TVET schools | Number of dormitories with cafeterias for TVET schools constructed |  | 1 | 1 | 2 | 1
+ | Development and revision of curriculum | Development and revision of textbooks for different fields based on market-needs assessment | Number of textbooks for different fields developed | 100 | 100 | 100 | 100 | 1
+ |  | Printing of textbooks for different fields | Number of textbooks for different fields printed (millions) | 0.4 | 0.4 | 0.5 | 0.6 | 1
+ |  | Equipment of technical and vocational centers | Number of technical and vocational centers equipped | 20 | 20 | 30 | 30 | 2
+ | Increase qualification of teachers | Training of teachers (in country) | Number of teachers trained in country |  | 150 | 150 | 150 | 1
+ |  | Training of teachers (abroad) | Number of teachers trained abroad |  | 100 | 100 | 100 | 3
+ | Improve academic supervision | Revision of system for the supervision of TVET schools | Systems for the supervision of TVET schools revised |  | 1 |  | 1 | 1
+ | Improve management and coordination | Revision of all policies, regulations, and guidelines of TVET with an aim to develop a coherent national TVET system | Policies, regulations, and guidelines of TVET revised |  | 1 | 1 | 1 | 1
+ |  | Recruitment of international technical advisors | Number of technical advisors recruited |  | 10 | 10 | 10 | 2
+ |  | Recruitment of national professionals | Number of national professionals recruited |  | 10 | 10 | 10 | 2
 
 98
 
@@ -3043,8 +3410,7 @@ Program 3: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3
 
 [[START OF PAGE 104]]
 
-Recruitment of technical coordinators | Number of technical coordinators recruited
---- | ---
+ |  | Recruitment of technical coordinators | Number of technical coordinators recruited |  | 10 | 10 | 10 | 3
 
 99
 
@@ -3068,17 +3434,18 @@ This  program  supports  the  education  sector  goals  outlined  in  the  Afgha
 
 #### 4.1 Rationale for the Program
 
-'A large majority (74 percent) of the population aged 15 years and over is illiterate, with female and male illiteracy at 88 percent and 61 percent, respectively ' (NRVA 2008/09). Illiteracy is a fundamental and obvious constraint to pursuing opportunities in education, knowledge-building, and skills development.  This  is  highlighted  by  recent  data  on  educational  attainment  in  Afghanistan,  which reveals: 'Only 17 percent of the population, aged 25 and over, has attended any formal education; the corresponding figure for women is 6 percent.'
+“A large majority (74 percent) of the population aged 15 years and over is illiterate, with female and male illiteracy at 88 percent and 61 percent, respectively” (NRVA 2008/09). Illiteracy is a fundamental and obvious constraint to pursuing opportunities in education, knowledge-building, and skills development. This is highlighted by recent data on educational attainment in Afghanistan, which reveals: “Only 17 percent of the population, aged 25 and over, has attended any formal education; the corresponding figure for women is 6 percent.”
 
 SWOT Analysis of Literacy Levels
 
 Strengths | Weaknesses
 --- | ---
-· High motivation of learners, particularly women · Sustained support from some donors and international organizations · Many international organizations and NGOs capable of providing literacy programs and able to penetrate areas where GIRoA/MoE has limited access · Large numbers of women beneficiaries · Promotes Afghanistan's goals of increasing gender equity as literate women can take a more active role in civil, political, professional, and community affairs · Literate persons promote education for their sons/daughters · Increased long-term potential for labor market development · Literacy combined with skills-development, such as in the NSDP program, seems to be yielding a significantly greater impact than providing literacy only · Integration of literacy and skills development is also being promoted by UNESCO and UN-Habitat through their programming Opportunities | · Weak MoE capacity (to execute and manage, supervise, monitor, and coordinate programs). Lack of a database · Not utilizing existing schools as support hubs for literacy · Imbalance of access: under-served remote communities not benefiting · Inadequately resourced at all levels 57 · MoE-approved literacy curricula not enforced · No clear means of assessing literacy skills · Shortage of literacy tutors; teacher training weak and not standardized · Better advocacy campaigning required · Weak linkages to further opportunities through accreditation and bridging programs. · Multiple curricula and modalities. Lack of post literacy support · Literacy teachers drain small pool of qualified teachers · Lack of facilities for literacy departments at the provincial and district levels. 58 · No budget for construction of community learning centers · Insufficient emphasis on quality of learning
-Threats
+· High motivation of learners, particularly women · Sustained support from some donors and international organizations · Many international organizations and NGOs capable of providing literacy programs and able to penetrate areas where GIRoA/MoE has limited access · Large numbers of women beneficiaries · Promotes Afghanistan’s goals of increasing gender equity as literate women can take a more active role in civil, political, professional, and community affairs · Literate persons promote education for their sons/daughters · Increased long-term potential for labor market development · Literacy combined with skills-development, such as in the NSDP program, seems to be yielding a significantly greater impact than providing literacy only · Integration of literacy and skills development is also being promoted by UNESCO and UN-Habitat through their programming | · Weak MoE capacity (to execute and manage, supervise, monitor, and coordinate programs). Lack of a database · Not utilizing existing schools as support hubs for literacy · Imbalance of access: under-served remote communities not benefiting · Inadequately resourced at all levels 57 · MoE-approved literacy curricula not enforced · No clear means of assessing literacy skills · Shortage of literacy tutors; teacher training weak and not standardized · Better advocacy campaigning required · Weak linkages to further opportunities through accreditation and bridging programs. · Multiple curricula and modalities. Lack of post literacy support · Literacy teachers drain small pool of qualified teachers · Lack of facilities for literacy departments at the provincial and district levels. 58 · No budget for construction of community learning centers · Insufficient emphasis on quality of learning
+Opportunities | Threats
+--- | ---
 · High motivation of learners | · Insecurity and war
 
-> 57 MoE Deputy Ministry of Literacy Annual Report for 1388; cited in 'Challenges' section, p. 4 (Dari version).
+> 57 MoE Deputy Ministry of Literacy Annual Report for 1388; cited in “Challenges” section, p. 4 (Dari version).
 
 > 58 Ibid.
 
@@ -3165,24 +3532,24 @@ The department will: (a) establish the high literacy commission; (b) revise poli
 
 [[START OF PAGE 108]]
 
+Program 4: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)
+
 Interim Plan Key Result Area | Strategic Objectives | Key Activities | Performance Indicators | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 3- low
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Increase literacy levels | Increase enrollment | Conduct public awareness campaigns through the media, mosques, and schools on the benefits of literacy | Public awareness conducted | 1 | 1 | 1 | 1 | 2
-Attract and equitably educate learners | Number of learners educated | 500,000 | 550,000 | 600,000 | 650,000 | 1
-Establish community learning centers | Number of CLCs established | 31 | 34 | 36 | 39 | 1
-Establish outreach literacy courses throughout the country | Number of outreach literacy courses established | 11,000 | 12,000 | 13,000 | 1
-Vocational training equipment and material for courses | Number of courses equipped | 738 | 1,485 | 2,223 | 2,970 | 1
-Construction of community learning centers (CLCs) | Construction of CLCs | Number of CLC constructed | 2 | 35 | 40 | 45 | 1
-Development and revision of literacy learning materials | Development and revision of literacy books and teacher guides (target group-oriented) | Literacy books and teacher guides revised | 28 | 28 | 28 | 28 | 2
-Printing and distribution of textbooks for literacy and skills and teacher guides | Number of books printed (millions) | 1.1 | 1.1 | 1.1 | 1.1 | 1
-Literacy support learning material | Number printed | 275,000 | 275,000 | 275,000 | 275,000 | 3
-Training of literacy teachers and supervisors | Literacy teacher education | Number of teachers trained | 6,000 | 6,000 | 6,000 | 6,000 | 1
-Training of literacy supervisors | Number of literacy supervisors trained | 900 | 900 | 900 | 900 | 1
-Improve management and coordination | Establishment of high literacy commission | High literacy commission established | 1 | 1
-Revise policies, regulations, bylaws, and guidelines of the literacy program and implement institutional reform | Literacy policies and regulations revised | 1 | 1 | 1
-Establish literacy database | Literacy database established | 1 | 1 | 2
-
-Program 4: Objectives, Key Activities, Indicators, Baseline Data, and Targets (3 years)
+ |  | Attract and equitably educate learners | Number of learners educated | 500,000 | 550,000 | 600,000 | 650,000 | 1
+ |  | Establish community learning centers | Number of CLCs established | 31 | 34 | 36 | 39 | 1
+ |  | Establish outreach literacy courses throughout the country | Number of outreach literacy courses established |  | 11,000 | 12,000 | 13,000 | 1
+ |  | Vocational training equipment and material for courses | Number of courses equipped | 738 | 1,485 | 2,223 | 2,970 | 1
+ | Construction of community learning centers (CLCs) | Construction of CLCs | Number of CLC constructed | 2 | 35 | 40 | 45 | 1
+ | Development and revision of literacy learning materials | Development and revision of literacy books and teacher guides (target group-oriented) | Literacy books and teacher guides revised | 28 | 28 | 28 | 28 | 2
+ |  | Printing and distribution of textbooks for literacy and skills and teacher guides | Number of books printed (millions) | 1.1 | 1.1 | 1.1 | 1.1 | 1
+ |  | Literacy support learning material | Number printed | 275,000 | 275,000 | 275,000 | 275,000 | 3
+ | Training of literacy teachers and supervisors | Literacy teacher education | Number of teachers trained | 6,000 | 6,000 | 6,000 | 6,000 | 1
+ |  | Training of literacy supervisors | Number of literacy supervisors trained | 900 | 900 | 900 | 900 | 1
+ | Improve management and coordination | Establishment of high literacy commission | High literacy commission established |  | 1 |  |  | 1
+ |  | Revise policies, regulations, bylaws, and guidelines of the literacy program and implement institutional reform | Literacy policies and regulations revised |  | 1 |  | 1 | 1
+ |  | Establish literacy database | Literacy database established |  | 1 |  | 1 | 2
 
 103
 
@@ -3313,15 +3680,15 @@ Sub-program 5.1: Objectives, Key Activities, Indicators, Baseline Data, and Targ
 Interim Plan Key Result Area | Strategic Objectives | Key Activities | Performance Indicators | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 3- low
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Improve education governance and administration | Human Resources | Structural reform and implemention of a new Tashkeel organized with public administration reform (gender sensitized) | New Tashkeel implemented | 40% | 70% | 90% | 95% | 1
-Capacity development institute | Capacity development institute established | 1 | 1 | 1
-Development and implementation of a comprehensive HR system | Development and implementation of a comprehensive HR system | 30% | 45% | 70% | 95% | 2
-Finance | Development of BPET system in the center and provinces | BPET system developed | 1 | 1 | 1 | 1 | 1
-Implementation of AFMIS system in center and provinces | AFMIS system implemented | 1 | 1 | 1 | 1 | 1
-Procurement | Development of a database and recording of all contracts and procurements | Database developed and used | 1 | 1 | 1 | 1 | 1
-ICT (information and communication technology) | Equipping of all education administrations with IT facilities (telephone, internet, etc.) and designing of internal infrastructure | Number of provinces equipped with IT facilities | 35 | 35 | 35 | 2
-Training of all employees | Training for all relevant staff | 30% | 45% | 70% | 95% | 2
-Support construction of education infrastructure | Supporting of engineering teams in the design of schools and education foundations | Number of technical engineers | 10 | 12 | 12 | 12 | 1
-Supporting of monitoring and maintenance teams at the provincial level | Number of quality control engineers | 160 | 220 | 220 | 220 | 1
+ |  | Capacity development institute | Capacity development institute established |  | 1 | 1 |  | 1
+ |  | Development and implementation of a comprehensive HR system | Development and implementation of a comprehensive HR system | 30% | 45% | 70% | 95% | 2
+ | Finance | Development of BPET system in the center and provinces | BPET system developed | 1 | 1 | 1 | 1 | 1
+ |  | Implementation of AFMIS system in center and provinces | AFMIS system implemented | 1 | 1 | 1 | 1 | 1
+ | Procurement | Development of a database and recording of all contracts and procurements | Database developed and used | 1 | 1 | 1 | 1 | 1
+ | ICT (information and communication technology) | Equipping of all education administrations with IT facilities (telephone, internet, etc.) and designing of internal infrastructure | Number of provinces equipped with IT facilities |  | 35 | 35 | 35 | 2
+ |  | Training of all employees | Training for all relevant staff | 30% | 45% | 70% | 95% | 2
+ | Support construction of education infrastructure | Supporting of engineering teams in the design of schools and education foundations | Number of technical engineers | 10 | 12 | 12 | 12 | 1
+ |  | Supporting of monitoring and maintenance teams at the provincial level | Number of quality control engineers | 160 | 220 | 220 | 220 | 1
 
 108
 
@@ -3397,7 +3764,7 @@ Two annual meetings will be organized with the participation of donors and the M
 
 ###### 3. EMIS, Monitoring, Evaluation, and Reporting
 
-The EMIS department will: (a) develop additional modules for the EMIS for specific needs of programs and departments and will connect them to the central EMIS; (b) provide access to EMIS to central and provincial education departments; (c) deploy EMIS in 30 percent of district education departments and some educational institutes throughout the country; (d) develop mechanisms to report on implementation  progress  at  central  and  provincial  levels  and  produce  a  consolidated  report  for  all programs; (e) develop and implement an integrated monitoring and evaluation system; and (f) conduct a  mid-term  review  of  IP  implementation  and  a  final  evaluation.  EMIS  modules  provide  gendersegregated  data  and  rural-urban  information  to  analyze  disparities  and  support  decision  making  to address inequalities.
+The EMIS department will: (a) develop additional modules for the EMIS for specific needs of programs and departments and will connect them to the central EMIS; (b) provide access to EMIS to central and provincial education departments; (c) deploy EMIS in 30 percent of district education departments and some educational institutes throughout the country; (d) develop mechanisms to report on implementation progress at central and provincial levels and produce a consolidated report for all programs; (e) develop and implement an integrated monitoring and evaluation system; and (f) conduct a mid-term review of IP implementation and a final evaluation. EMIS modules provide gender-segregated data and rural-urban information to analyze disparities and support decision making to address inequalities.
 
 110
 
@@ -3443,15 +3810,15 @@ Sub-program 5.2: Objectives, Key Activities, Indicators, Baseline Data, and Targ
 
 Interim Plan Key Result Area | Strategic Objectives | Key Activities | Performance Indicators | Baseline 2010/11 | Target 11/12 | Target 12/13 | Target 13/14 | Priority 1- high 3- low
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Improve education governance and administration | Improve policy and quality of education | Develop and support MoE academic council to coordinate/support education policy development | Academic council developed and properly staffed | 1 | 1
-Strategic and operational planning | Develop provincial strategic plans for all provinces | Provincial strategic plans developed | 13 | 22 | 2
-Develop annual national and provincial operational plans with specific targets for girls' education | Annual national and provincial operational plans developed | 36 | 36 | 36 | 36 | 1
-Train planning managers of districts, provinces, and the capital in planning, monitoring, evaluation, and reporting | Number of staff trained | 100 | 100 | 100 | 2
-EMIS, monitoring, evaluation, and reporting | Develop additional modules for the EMIS for specific needs of programs and departments and connect them to the central EMIS | Modules for the EMIS developed | 1 | 1 | 1 | 1
-All central and provincial education departments will have access to EMIS | % of offices with access to EMIS | 1 | 30 | 80 | 100 | 1
-Develop mechanisms to report on implementation progress at central and provincial levels (gender-segregated information) | % of provincial offices regularly submitting periodic reports | 50 | 70 | 100 | 100 | 1
-Develop and implement an integrated monitoring and evaluation system (gender-segregated analysis) | Periodic monitoring reports | 4 | 4 | 4 | 1
-Grants management unit | Developing database and procedures for projects funded, implemented, and monitored through external development budget | % of project data/reports recorded in database | 40 | 50 | 70 | 100 | 1
+Improve education governance and administration | Improve policy and quality of education | Develop and support MoE academic council to coordinate/support education policy development | Academic council developed and properly staffed |  | 1 |  |  | 1
+ | Strategic and operational planning | Develop provincial strategic plans for all provinces | Provincial strategic plans developed |  | 13 | 22 |  | 2
+ |  | Develop annual national and provincial operational plans with specific targets for girls’ education | Annual national and provincial operational plans developed | 36 | 36 | 36 | 36 | 1
+ |  | Train planning managers of districts, provinces, and the capital in planning, monitoring, evaluation, and reporting | Number of staff trained |  | 100 | 100 | 100 | 2
+ | EMIS, monitoring, evaluation, and reporting | Develop additional modules for the EMIS for specific needs of programs and departments and connect them to the central EMIS | Modules for the EMIS developed |  | 1 | 1 | 1 | 1
+ |  | All central and provincial education departments will have access to EMIS | % of offices with access to EMIS | 1 | 30 | 80 | 100 | 1
+ |  | Develop mechanisms to report on implementation progress at central and provincial levels (gender-segregated information) | % of provincial offices regularly submitting periodic reports | 50 | 70 | 100 | 100 | 1
+ |  | Develop and implement an integrated monitoring and evaluation system (gender-segregated analysis) | Periodic monitoring reports |  | 4 | 4 | 4 | 1
+ | Grants management unit | Developing database and procedures for projects funded, implemented, and monitored through external development budget | % of project data/reports recorded in database | 40 | 50 | 70 | 100 | 1
 
 112
 
@@ -3485,25 +3852,24 @@ Currently, planning in Afghanistan is very centralized. However, there are plans
 
 Table 20: Overview of Annual Planning and Budget Cycle
 
-Activity | Jawza June | Saratan July | Asad August | Sonbola Sept. | Mizan Oct. | Aqrab Nov. | Qaws Dec. | Jadi Jan. | Dalu Feb. | Huot March | Hamal April | Sawr May
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-FINANCIAL YEAR | START
-FINISH
-F | Holidays
-A | CENTRAL LEVEL PLANNING
-1 | MoF issues CIRCULAR 1
-Policy and program discussions between the MoE and MoF on C1: (a) MoF Format A Operational Budget; (b) MoF Format B 1 Development Format B 2 Ext. Budget
-Core SUGGESTION 1: Hold first round provincial
-SUGGESTION 2: Hold budget meeting with all donors/NGOs: get all activities on plan and poss. on budget
-2 | MoF CIRCULAR 2: Budget Ceilings
-Consultations on CIRCULAR 2 (a) MoE for Development Budget (b) MoF for Operational Budget
-4 | MoF approves MoE budget
-5 | Parliament budget debate
-Parliament approves budget
-6 | Start
-End
-B | Decentralized planning | Prov. level
-Decentralized implementation on a budget | Prov. planning
+ | Activity | Jawza June | Saratan July | Asad August | Sonbola Sept. | Mizan Oct. | Aqrab Nov. | Qaws Dec. | Jadi Jan. | Dalu Feb. | Huot March | Hamal April | Sawr May
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | FINANCIAL YEAR |  |  |  |  |  |  |  |  |  | FINISH | START | 
+ | SCHOOL YEAR |  |  |  |  |  |  | F | Holidays |  | S |  | 
+A | CENTRAL LEVEL PLANNING |  |  |  |  |  |  |  |  |  |  |  | 
+1 | MoF issues CIRCULAR 1 |  |  |  |  |  |  |  |  |  |  |  | 
+ | Policy and program discussions between the MoE and MoF on C1: (a) MoF Format A Operational Budget; (b) MoF Format B¹ Core Development Format B² Ext. Budget |  |  |  |  |  |  |  |  |  |  |  | 
+ | SUGGESTION 1: Hold first round provincial discussions in Mizan/Aqrab |  |  |  |  |  |  |  |  |  |  |  | 
+ | SUGGESTION 2: Hold budget meeting with all donors/NGOs: get all activities on plan and poss. on budget |  |  |  |  |  |  |  |  |  |  |  | 
+2 | MoF CIRCULAR 2: Budget Ceilings |  |  |  |  |  |  |  |  |  |  |  | 
+ | Consultations on CIRCULAR 2 (a) MoE for Development Budget (b) MoF for Operational Budget |  |  |  |  |  |  |  |  |  |  |  | 
+3 | (One-day workshop with MoF) |  |  |  |  |  |  |  |  |  |  |  | 
+4 | MoF approves MoE budget |  |  |  |  |  |  |  |  |  |  |  | 
+5 | Parliament budget debate |  |  |  |  |  |  |  |  |  |  |  | 
+6 | Parliament approves budget |  |  |  |  |  |  |  |  |  |  |  | 
+7 | MoE implements approved budget |  |  |  |  |  |  |  |  |  | End | Start | 
+B | Decentralized planning |  |  |  |  |  |  |  | Prov. level |  |  |  | 
+ | Decentralized implementation on a budget already approved |  |  |  |  |  |  |  |  | Prov. planning |  |  | 
 
 114
 
@@ -3513,61 +3879,61 @@ Decentralized implementation on a budget | Prov. planning
 
 ## Operational Plan 2011-2013: Budgets and Priorities
 
-Unit cost US$ Quantity | Cost in Million
---- | --- | --- | --- | --- | --- | ---
-S No Interim Plan Activities | 1389 (2010) | 1390 | 1391 | 1392 (2013) | Total
-Total | (2011) | (2012)
-Sub Program 1.1: General Education | 209.94 | 243.54 | 721.08
-1 Access to General Education | 38.50 | 55.22 | 267.60 57.98 | 151.70
-1.1 Establishment of schools for children with special needs | 5 | 105,000 | 0.11 | 0.23 | 0.24 | 0.58
-1.2 Establish model schools | 11 | 105,000 | 0.11 | 0.58 | 0.61 | 1.30
-Implementing public awareness program for increasing | 3 | 63,735 | 0.07 | 0.07 | 0.07 | 0.21
-1.3 enrollment of girls in schools 1.4 Establish CBS and accelerated classes | 14,400 | 2,688 | 27.10 | 42.67 | 44.81 | 114.58
-1.5 Relocation of qualified female teachers to rural schools | 1,200 | 8,820 | 11.11 | 11.67 | 12.25 | 35.03
-2 Construction of School Facilities | 152.42 | 170.55 | 188.80 | 511.78
-2.1 Construction of classes | 19,500 | 16,800 | 105.84 | 120.39 | 136.13 | 362.37
-2.2 Construction of Science Labs | 300 | 100,000 | 10.50 | 11.03 | 11.58 | 33.10
-2.3 Reconstruction of existing classrooms | 5,000 | 4,515 | 7.11 | 8.71 | 9.15 | 24.97
-2.4 Construction of boundary wall | 600 | 52,920 | 11.11 | 11.67 | 12.25 | 35.03
-2.5 Construction of latrines (6 cabinets) | 1,500 | 16,800 | 8.82 | 9.26 | 9.72 | 27.80
-1,500 | 6.95
-2.6 Construction of drinking water wells 2.7 Provision of table and chairs for students | 1,200,000 | 4,200 16 | 2.21 6.62 | 2.32 6.95 | 2.43 7.29 | 20.85
-2.8 Construction of house for caretaker teacher | 30 | 21,000 | 0.22 | 0.23 | 0.24 | 0.70
-3 Extra-Curricular Activities and Islamic | 0.99 | 1.16 | 1.34 | 3.49
-Providing sport equipment for general | 11,000 | 105 | 0.99 | 1.16 | 1.34 8.33 | 3.49 18.07
-3.1 education schools. 4 Students' Services | 3.78 3.78 | 5.95 5.95 | 8.33 | 18.07
-4.1 Provide vocational guidance counsellor for schools 5 Distance Learning | 2,000 | 4.81 | 0.65 | 0.68 | 6.14
-5.1 Equipping and strengthening distance education directorate and radio television | 3,600 | - | 4.20
-Conducting 18 hour broadcasting program with close | 1 | 4,000,000 | 4.20 0.29 | - 0.30 | 0.90
-5.2 coordination of other programs 5.3 Recruit technical staff | 3 3 | 273,000 312,480 | 0.33 0.43 | 0.34 0.52 | 0.32 0.36 0.62 | 1.03 1.56
-6 Academic Monitoring Develop and revise new monitoring system for
-6.1 general education | 3 | 21,000 | 0.02 0.40 | 0.02 0.49 | 0.02 0.59 | 0.07 1.49
-6.2 Training to education supervisors | 3,200 | 160 | Quality 9.49 | 28.35
-7 Coordination and Management Establishing | and Training | of School | Councils and 9.00 | Grant) | 9.85
-(Including 7.1 Providing office equipment for staff and | 3 | 47,555 210 | 0.05 | 0.05 | 0.06 | 0.16
-offices 7.2 Establishment and training of school councils | 2,540 | 0.20 | 0.24 | 0.15 | 0.59
-7.3 Provide quality improvement grant for general and Islamic education schools | 6,000 | 3,675 | 7.72 | 8.10 | 8.51 | 24.33 3.27
-7.4 Recruit TA and community mobilizers | 1.04 | 1.09 | 1.14
-Sub Program 1.2: Islamic Education 1 Access to Islamic Education | 261 | 11,369 | 19.27
-Implementing public awareness program for | 63,735 | 15.72 0.07 | 17.43 0.07 | 0.07 | 52.41 0.21
-1.1 enhancement of female students enrollment 2 Construction of School Facilities 2.1 Construction of classes | 3 1,050 300 | 16,800 4,515 | 0.07 15.49 5.29 | 0.07 17.19 6.48 | 0.07 19.02 7.78 | 0.21 51.70 19.55
-2.2 Reconstruction of existing classrooms 2.3 Construction of boundary wall | 66 | 0.47 | 0.50 1.28 | 0.52 1.35 | 1.49
-2.4 Construction of latrines (6 cabinets) | 60 | 52,920 | 1.22 0.35 | 0.37 | 0.39 | 3.85 1.11
-2.5 Construction of drinking water wells | 16,800 4,200 | 0.09 | 0.10 | 0.28
-2.6 Provision of table and chairs for students | 60 | 16
-2.7 Construction of sports grounds | 34,200 | 0.09 0.19 | 0.20 | 0.21 | 0.59
-2.8 Construction of dormitories | - 63 | 5,250 315,000 | - | - 7.29 | - 7.66 | - 21.90
-6.95 0.93 | 0.97
-2.9 Construction of Mosque | 1.02 | 2.92
-3 Students Services 3.1 No need for development budget | 18 | 147,000 | - | - - | - -
-4 Academic Supervision | - | - - | -
-0.10 | 0.10 | 0.11 | 0.31
-Training Monitoring staff of Islamic Education and | 3
-0.10 | 0.10 | 0.11 | 0.31
-4.1 monitoring of program implementation 5 Management and Coordination | 94,500
-5.1 Strengthen management capacity (recruit TA) | 15 | 11,340 | 0.06 0.06 | 0.06 0.06 | 0.07 0.07 | 0.19 0.19
-
 Table 21: IP Activities and Budget Priorities
+
+S No | Interim Plan Activities | Quantity Total | Unit cost US$ 1389 (2010) | Cost 1390 (2011), Million US$ | Cost 1391 (2012), Million US$ | Cost 1392 (2013), Million US$ | Total, Million US$
+--- | --- | --- | --- | --- | --- | --- | ---
+ | Sub Program 1.1: General Education |  |  | 209.94 | 243.54 | 267.60 | 721.08
+1 | Access to General Education |  |  | 38.50 | 55.22 | 57.98 | 151.70
+1.1 | Establishment of schools for children with special needs | 5 | 105,000 | 0.11 | 0.23 | 0.24 | 0.58
+1.2 | Establish model schools | 11 | 105,000 | 0.11 | 0.58 | 0.61 | 1.30
+1.3 | Implementing public awareness program for increasing enrollment of girls in schools | 3 | 63,735 | 0.07 | 0.07 | 0.07 | 0.21
+1.4 | Establish CBS and accelerated classes | 14,400 | 2,688 | 27.10 | 42.67 | 44.81 | 114.58
+1.5 | Relocation of qualified female teachers to rural schools | 1,200 | 8,820 | 11.11 | 11.67 | 12.25 | 35.03
+2 | Construction of School Facilities |  |  | 152.42 | 170.55 | 188.80 | 511.78
+2.1 | Construction of classes | 19,500 | 16,800 | 105.84 | 120.39 | 136.13 | 362.37
+2.2 | Construction of Science Labs | 300 | 100,000 | 10.50 | 11.03 | 11.58 | 33.10
+2.3 | Reconstruction of existing classrooms | 5,000 | 4,515 | 7.11 | 8.71 | 9.15 | 24.97
+2.4 | Construction of boundary wall | 600 | 52,920 | 11.11 | 11.67 | 12.25 | 35.03
+2.5 | Construction of latrines (6 cabinets) | 1,500 | 16,800 | 8.82 | 9.26 | 9.72 | 27.80
+2.6 | Construction of drinking water wells | 1,500 | 4,200 | 2.21 | 2.32 | 2.43 | 6.95
+2.7 | Provision of table and chairs for students | 1,200,000 | 16 | 6.62 | 6.95 | 7.29 | 20.85
+2.8 | Construction of house for caretaker teacher | 30 | 21,000 | 0.22 | 0.23 | 0.24 | 0.70
+3 | Extra-Curricular Activities |  |  | 0.99 | 1.16 | 1.34 | 3.49
+3.1 | Providing sport equipment for general and Islamic education schools. | 11,000 | 105 | 0.99 | 1.16 | 1.34 | 3.49
+4 | Students' Services |  |  | 3.78 | 5.95 | 8.33 | 18.07
+4.1 | Provide vocational guidance counsellor for schools | 2,000 | 3,600 | 3.78 | 5.95 | 8.33 | 18.07
+5 | Distance Learning |  |  | 4.81 | 0.65 | 0.68 | 6.14
+5.1 | Equipping and strengthening distance education directorate and radio television | 1 | 4,000,000 | 4.20 | - | - | 4.20
+5.2 | Conducting 18 hour broadcasting program with close coordination of other programs | 3 | 273,000 | 0.29 | 0.30 | 0.32 | 0.90
+5.3 | Recruit technical staff | 3 | 312,480 | 0.33 | 0.34 | 0.36 | 1.03
+6 | Academic Monitoring |  |  | 0.43 | 0.52 | 0.62 | 1.56
+6.1 | Develop and revise new monitoring system for general education | 3 | 21,000 | 0.02 | 0.02 | 0.02 | 0.07
+6.2 | Training to education supervisors | 3,200 | 160 | 0.40 | 0.49 | 0.59 | 1.49
+7 | Coordination and Management (Including Establishing and Training of School Councils and Quality Grant) |  |  | 9.00 | 9.49 | 9.85 | 28.35
+7.1 | Providing office equipment for staff and offices | 3 | 47,555 | 0.05 | 0.05 | 0.06 | 0.16
+7.2 | Establishment and training of school councils | 2,540 | 210 | 0.20 | 0.24 | 0.15 | 0.59
+7.3 | Provide quality improvement grant for general and Islamic education schools | 6,000 | 3,675 | 7.72 | 8.10 | 8.51 | 24.33
+7.4 | Recruit TA and community mobilizers | 261 | 11,369 | 1.04 | 1.09 | 1.14 | 3.27
+ | Sub Program 1.2: Islamic Education |  |  | 15.72 | 17.43 | 19.27 | 52.41
+1 | Access to Islamic Education |  |  | 0.07 | 0.07 | 0.07 | 0.21
+1.1 | Implementing public awareness program for enhancement of female students enrollment | 3 | 63,735 | 0.07 | 0.07 | 0.07 | 0.21
+2 | Construction of School Facilities |  |  | 15.49 | 17.19 | 19.02 | 51.70
+2.1 | Construction of classes | 1,050 | 16,800 | 5.29 | 6.48 | 7.78 | 19.55
+2.2 | Reconstruction of existing classrooms | 300 | 4,515 | 0.47 | 0.50 | 0.52 | 1.49
+2.3 | Construction of boundary wall | 66 | 52,920 | 1.22 | 1.28 | 1.35 | 3.85
+2.4 | Construction of latrines (6 cabinets) | 60 | 16,800 | 0.35 | 0.37 | 0.39 | 1.11
+2.5 | Construction of drinking water wells | 60 | 4,200 | 0.09 | 0.09 | 0.10 | 0.28
+2.6 | Provision of table and chairs for students | 34,200 | 16 | 0.19 | 0.20 | 0.21 | 0.59
+2.7 | Construction of sports grounds | - | 5,250 | - | - | - | -
+2.8 | Construction of dormitories | 63 | 315,000 | 6.95 | 7.29 | 7.66 | 21.90
+2.9 | Construction of Mosque | 18 | 147,000 | 0.93 | 0.97 | 1.02 | 2.92
+3 | Students Services |  |  | - | - | - | -
+3.1 | No need for development budget | - | - | - | - | - | -
+4 | Academic Supervision |  |  | 0.10 | 0.10 | 0.11 | 0.31
+4.1 | Training Monitoring staff of Islamic Education and monitoring of program implementation | 3 | 94,500 | 0.10 | 0.10 | 0.11 | 0.31
+5 | Management and Coordination |  |  | 0.06 | 0.06 | 0.07 | 0.19
+5.1 | Strengthen management capacity (recruit TA) | 15 | 11,340 | 0.06 | 0.06 | 0.07 | 0.19
 
 115
 
@@ -3575,43 +3941,41 @@ Table 21: IP Activities and Budget Priorities
 
 [[START OF PAGE 121]]
 
-Quantity | Unit cost US$ | Cost in Million US$
+S No | Interim Plan Activities | Quantity Total | Unit cost US$ 1389 (2010) | Cost 1390 (2011), Million US$ | Cost 1391 (2012), Million US$ | Cost 1392 (2013), Million US$ | Total, Million US$
 --- | --- | --- | --- | --- | --- | --- | ---
-S No | Interim Plan Activities | Total | 1389 (2010) | 1390 (2011) | 1391 (2012) | 1392 (2013) | Total
-Sub-Program 2.1: Curriculum and Learning Material Development
-45.53 | 57.27 | 83.69 | 186.49
-1 | Revise Curriculum, Textbooks | Guides | 4.56 | 3.75 | 4.79 | 13.10
-1.1 Conduct research on curriculum | 1 | 840,000 | - | - | 0.97 | 0.97
-1.2 Assess curriculum implementation | 3 | 21,000 | 0.02 | 0.02 | 0.02 | 0.07
-1.3 Revise curriculum and syllabi general and Islamic education | 1 | 1,050,000 | - | - | 1.22 | 1.22
-1.4 Revise general and Islamic education textbooks and teacher guides | 600 | 10,500 | 2.21 | 2.32 | 2.43 | 6.95
-1.6 Develop learning material in brail | 2 | 630,000 | 0.66 | 0.69 | - | 1.36
-1.7 Develop audio visual dictionary in sign language | 1 | 525,000 | 0.55 | - | - | 0.55
-1.8 Develop curriculum and learning material for students with special needs | 2 | 525,000 | 0.55 | 0.58 | - | 1.13
-1.9 Develop toolkit for inclusive education | 1 | 420,000 | 0.44 | - | - | 0.44
-2 Develop and revise learning aid materials | 60 | 6,300 | 0.13 | 0.14 | 0.15 | 0.42
-2 Printing and Distribution of Textbooks and Learning Materials | 38.10 | 47.97 | 71.86 | 157.93
-2.1 Print and distribute textbooks and teacher guides for general schools | 118,000,000 | 1 | 23.81 | 27.78 | 30.63 | 82.23
-2.2 Print and distribute textbooks and teacher guides for Islamic schools | 3,120,000 | 1 | 1.06 | 1.20 | 1.36 | 3.62
-2.3 Print learning material for students with special needs | 2 | 420,000 | - | 0.46 | 0.49 | 0.95
-2.4 Equip schools with libraries | 4,600 | 8,400 | 5.29 | 9.26 | 29.17 | 43.72
-2.5 Print and distribute learning aid material | 59,000,000 | 0 | 7.94 | 9.26 | 10.21 | 27.41
-3 Develop and Implement Students Learning Achievement Assessment System | 1.21 | 3.94 | 5.35 | 10.50
-3.1 Develop and revise standards and system for students learning achievement test | 2 | 1,050,000 | 1.10 | - | 1.22 | 2.32
-3.2 Revise regular examination system | - | 210,000 | - | - | - | -
-3.3 Pilot test learning assessment system | 1 | 105,000 | 0.11 | - | - | 0.11
-3.4 Conduct national learning assessment test | 2 | 3,570,000 | - | 3.94 | 4.13 | 8.07
-4 Capacity Building | 1.51 | 1.59 | 1.67 | 4.77
-4.1 Develop a compressive capacity development plan | - | 10,500 | - | - | - | -
-4.2 Scholarships for staff for MA degree | 150 | 21,000 | 1.10 | 1.16 | 1.22 | 3.48
-4.3 Short term training for admin and academic staff | 1,200 | 84 | 0.04 | 0.04 | 0.04 | 0.11
-4.4 Train master trainers and academic supervisors on new curriculum | 6,000 | 179 | 0.37 | 0.39 | 0.41 | 1.18
-5 Management and Coordination | 0.14 | 0.03 | 0.03 | 0.19
-5.1 Review, rules, regulations and guidelines | 3 | 6,020 | 0.01 | 0.01 | 0.01 | 0.02
-5.2 Establish the national Institute for curriculum | 1 | 105,000 | 0.11 | - | - | 0.11
-5.3 Provide improved working condition for all staff | 3 | 4,200 | 0.00 | 0.00 | 0.00 | 0.01
-5.4 Develop and publish annual operational Plans | 3 | 5,250 | 0.01 | 0.01 | 0.01 | 0.02
-5.5 Conduct a mid-year review of programs and projects | 3 | 8,400 | 0.01 | 0.01 | 0.01 | 0.03
+ | Sub-Program 2.1: Curriculum and Learning Material Development |  |  | 45.53 | 57.27 | 83.69 | 186.49
+1 | Develop and Revise Curriculum, Textbooks and Teacher Guides |  |  | 4.56 | 3.75 | 4.79 | 13.10
+1.1 | Conduct research on curriculum | 1 | 840,000 | - | - | 0.97 | 0.97
+1.2 | Assess curriculum implementation | 3 | 21,000 | 0.02 | 0.02 | 0.02 | 0.07
+1.3 | Revise curriculum and syllabi general and Islamic education | 1 | 1,050,000 | - | - | 1.22 | 1.22
+1.4 | Revise general and Islamic education textbooks and teacher guides | 600 | 10,500 | 2.21 | 2.32 | 2.43 | 6.95
+1.6 | Develop learning material in brail | 2 | 630,000 | 0.66 | 0.69 | - | 1.36
+1.7 | Develop audio visual dictionary in sign language | 1 | 525,000 | 0.55 | - | - | 0.55
+1.8 | Develop curriculum and learning material for students with special needs | 2 | 525,000 | 0.55 | 0.58 | - | 1.13
+1.9 | Develop toolkit for inclusive education | 1 | 420,000 | 0.44 | - | - | 0.44
+2 | Develop and revise learning aid materials | 60 | 6,300 | 0.13 | 0.14 | 0.15 | 0.42
+2 | Printing and Distribution of Textbooks and Learning Materials |  |  | 38.10 | 47.97 | 71.86 | 157.93
+2.1 | Print and distribute textbooks and teacher guides for general schools | 118,000,000 | 1 | 23.81 | 27.78 | 30.63 | 82.23
+2.2 | Print and distribute textbooks and teacher guides for Islamic schools | 3,120,000 | 1 | 1.06 | 1.20 | 1.36 | 3.62
+2.3 | Print learning material for students with special needs | 2 | 420,000 | - | 0.46 | 0.49 | 0.95
+2.4 | Equip schools with libraries | 4,600 | 8,400 | 5.29 | 9.26 | 29.17 | 43.72
+2.5 | Print and distribute learning aid material | 59,000,000 | 0 | 7.94 | 9.26 | 10.21 | 27.41
+3 | Develop and Implement Students Learning Achievement Assessment System |  |  | 1.21 | 3.94 | 5.35 | 10.50
+3.1 | Develop and revise standards and system for students learning achievement test | 2 | 1,050,000 | 1.10 | - | 1.22 | 2.32
+3.2 | Revise regular examination system | - | 210,000 | - | - | - | -
+3.3 | Pilot test learning assessment system | 1 | 105,000 | 0.11 | - | - | 0.11
+3.4 | Conduct national learning assessment test | 2 | 3,570,000 | - | 3.94 | 4.13 | 8.07
+4 | Capacity Building |  |  | 1.51 | 1.59 | 1.67 | 4.77
+4.1 | Develop a compressive capacity development plan | - | 10,500 | - | - | - | -
+4.2 | Scholarships for staff for MA degree | 150 | 21,000 | 1.10 | 1.16 | 1.22 | 3.48
+4.3 | Short term training for admin and academic staff | 1,200 | 84 | 0.04 | 0.04 | 0.04 | 0.11
+4.4 | Train master trainers and academic supervisors on new curriculum | 6,000 | 179 | 0.37 | 0.39 | 0.41 | 1.18
+5 | Management and Coordination |  |  | 0.14 | 0.03 | 0.03 | 0.19
+5.1 | Review, rules, regulations and guidelines | 3 | 6,020 | 0.01 | 0.01 | 0.01 | 0.02
+5.2 | Establish the national Institute for curriculum | 1 | 105,000 | 0.11 | - | - | 0.11
+5.3 | Provide improved working condition for all staff | 3 | 4,200 | 0.00 | 0.00 | 0.00 | 0.01
+5.4 | Develop and publish annual operational Plans | 3 | 5,250 | 0.01 | 0.01 | 0.01 | 0.02
+5.5 | Conduct a mid-year review of programs and projects | 3 | 8,400 | 0.01 | 0.01 | 0.01 | 0.03
 
 116
 
@@ -3619,62 +3983,62 @@ Sub-Program 2.1: Curriculum and Learning Material Development
 
 [[START OF PAGE 122]]
 
-Unit cost US$ | Cost in Million US$
+S No | Interim Plan Activities | Quantity Total | Unit cost US$ 1389 (2010) | Cost 1390 (2011), Million US$ | Cost 1391 (2012), Million US$ | Cost 1392 (2013), Million US$ | Total, Million US$
 --- | --- | --- | --- | --- | --- | --- | ---
-S No | Interim Plan Activities | Total | 1389 (2010) | 1390 (2011) | 1391 (2012) | 1392 (2013) | Total
-Sub-Program 2.2: Teacher Education | 46.61 | 63.34 | 63.03 | 172.98
-1 Access to Teacher Education | 4.53 | 5.46 | 6.46 | 16.45
+ | Sub-Program 2.2: Teacher Education |  |  | 46.61 | 63.34 | 63.03 | 172.98
+1 | Access to Teacher Education |  |  | 4.53 | 5.46 | 6.46 | 16.45
 1.1 | Establish and equip TTC | 12 | 12,600 | 0.05 | 0.06 | 0.06 | 0.17
 1.2 | Establishment of Satellite TTC at district level | 100 | 8,400 | 0.29 | 0.31 | 0.32 | 0.93
 1.3 | Train 50,000 pre-service and 60,000 in-service | 66,000 | 210 | 4.19 | 5.09 | 6.08 | 15.36
 1.4 | Register all newly establish private TTCs by 1393 and provide support to them | - | - | - | - | - | -
-2 Construction of Teacher | Education Facilities | 5.57 | 8.10 | 9.48 | 23.15
+2 | Construction of Teacher Education Facilities |  |  | 5.57 | 8.10 | 9.48 | 23.15
 2.1 | Constructing of complexes for TTCs | 11 | 630,000 | 1.98 | 2.78 | 2.92 | 7.68
 2.2 | Constructing of district teacher training support centres | 90 | 84,000 | 1.76 | 2.78 | 3.89 | 8.43
 2.3 | Constructing of dorm together with dining room for TTC | 11 | 577,500 | 1.82 | 2.55 | 2.67 | 7.04
-3 | Professional Development System for Teachers | 30.49 | 36.29 | 36.98 | 103.75
-3.1 Train teachers in INSET-1 | 75,000 | 194 | 6.11 | 5.35 | 4.49 | 15.95
+3 | Professional Development System for Teachers |  |  | 30.49 | 36.29 | 36.98 | 103.75
+3.1 | Train teachers in INSET-1 | 75,000 | 194 | 6.11 | 5.35 | 4.49 | 15.95
 3.2 | Train teachers in INSET-2 | 100,000 | 194 | 8.15 | 6.42 | 6.74 | 21.31
-3.3 | Train teachers in INSET-3 | 90,000 194 | 4.07 | 7.49 | 7.86 | 19.42
-3.4 | Train teachers in INSET-4 | 70,000 194 | 2.04 | 6.42 | 6.74 | 15.19
-3.5 Broadcast material - distance | education programs 2,700 | 210 | 0.20 | 0.21 | 0.22 | 0.63
-of audio-visual 3.6 Teacher education through distance learning | 60,000 | 160 | 3.36 | 3.53 | 3.70 | 10.59
-3.7 Training of school | 117,000 | 7.22 | 20.66
-4 | administrators | 160 | 6.55 | 6.88
-Incentives for Students and Instructors | 0.25 | 0.47 0.50 | 0.52 | 1.49
-4.1 Regional incentives 4.2 | for instructors Incentives | 1,460 5,400 | 332 | 0.27 | 0.28 0.24 | 0.80 0.69
-5 Curriculum and Textbook Development and Revision, Printing, and Distribution | for female students | 77 | 0.22 | 0.23 2.29 6.50 | 2.77 | 11.56
-5.1 | Development and revision of textbooks for TTC | 10,500 | - | 3.13 | - | 3.13
-5.2 Printing and distribution of textbooks for TTC | 270 3,100,000 | 2 | 2.21 | 2.32 | 2.67 | 7.19
-5.3 Development of training material for school | administrators 1 | 10,500 | - | 0.01 | - | 0.01
-5.4 Printing of training material for school | administrators 117,000 | 2 | 0.09 | 0.09 | 0.09 | 0.27
-5.5 Development of training material for INSET 1-4 | 4 | 6,300 | - | 0.03 | - | 0.03
-5.6 Development of audio-visual material for distance education (programs) | 4 | 210,000 - | 0.93 | - | 0.93
-6 Capacity Building | 600 | 3.02 | 6.24 | 6.55 | 15.81
-6.1 Short-term training for TTC 6.3 Support grade 14 female teacher to upgrade | instructors degree programs education to BA level | 9,000 7,000 210 | 15,750 | 1.89 0.83 0.22 | 1.98 0.69 | 2.08 0.73 | 5.96 7.95 1.64
-6.2 Scholarship for staff for Masters | 450 | 3.47 | 3.65
-6.4 Training of TTC administrators | 600 | 0.02 | 0.06
-83 | 0.02 | 0.02
-6.5 Training of TED staff in office skills | 750 | 252 | 0.07 | 0.07 | 0.07 | 0.21
-7 Coordination and Management 7.1 | - | 210,000 | - - | 0.24 | 0.25 | 0.27 - | 0.76 -
-Develop TTC accreditation system 7.2 Develop standard test for TTC students 7.3 Analysis of test results and record | - 3 | 52,500 21,000 | 0.02 | - - 0.02 | - | 0.02 | - 0.07
-7.4 Furniture and equipment for 7.5 Monitoring visits to | database | 0.22 | 0.23 | 0.24 | 0.70
-in offices | 210,000
-TTCs | 105 | - | - | - | -
-3
-Sub-Program 2.3: Science and Technology | 5,250,000 | 6.06 5.51 | 11.88 | 6.68 0.58 | 7.02 0.61 | 25.58 7.25 5.51
-Education 1 Construction of Science Centers 1 Constructing national science and technology | centers 1 15 | 105,000 | 0.55 | - 0.58 | - 0.61 6.05 | 1.74 17.30
-2 Constructing science and technology centers for provinces 2 Equip Schools with Science Lab and Kits 2.1 Provide Laboratory for, Biology, Chemistry, Physics for | schools 1,050 | 10,500 | 5.49 3.86 | 5.76 | 4.25 | 12.16
-general 2.2 Provide Laboratory for, Biology, Chemistry, Physics for Madrasas | 96 | 10,500 | 0.35 | 4.05 | 0.39 | 1.11
-2.3 Provide 2.4 Provide | 1,500 126 | 110 | 0.06 | 0.37 | 0.06 0.01 | 0.18
-science kits science kits | for general schools for Islamic schools | 0.06 0.01 | 0.02
-2.5 Library for TTC | 110 45 21,000 | 0.00 0.33 | 0.35 | 0.36 | 1.04
-2.6 Science Laboratory for | TTC Teachers | 120 21,000 | 0.88 | 0.93 | 0.97 | 2.78
-3 Training of Lab Technicians and | Science | 0.33 0.06 | 0.34 | 0.36 | 1.03
-3.1 Training of lab technicians | 0.06 | 0.07 | 0.19
-4,200 42 50
-3.2 Training of science | teachers | 0.28 | 0.29 | 0.83
-15,000 | 0.26
+3.3 | Train teachers in INSET-3 | 90,000 | 194 | 4.07 | 7.49 | 7.86 | 19.42
+3.4 | Train teachers in INSET-4 | 70,000 | 194 | 2.04 | 6.42 | 6.74 | 15.19
+3.5 | Broadcast of audio-visual material – distance education programs | 2,700 | 210 | 0.20 | 0.21 | 0.22 | 0.63
+3.6 | Teacher education through distance learning | 60,000 | 160 | 3.36 | 3.53 | 3.70 | 10.59
+3.7 | Training of school administrators | 117,000 | 160 | 6.55 | 6.88 | 7.22 | 20.66
+4 | Incentives for Students and Instructors |  |  | 0.47 | 0.50 | 0.52 | 1.49
+4.1 | Regional incentives for instructors | 1,460 | 332 | 0.25 | 0.27 | 0.28 | 0.80
+4.2 | Incentives for female students | 5,400 | 77 | 0.22 | 0.23 | 0.24 | 0.69
+5 | Curriculum and Textbook Development and Revision, Printing, and Distribution |  |  | 2.29 | 6.50 | 2.77 | 11.56
+5.1 | Development and revision of textbooks for TTC | 270 | 10,500 | - | 3.13 | - | 3.13
+5.2 | Printing and distribution of textbooks for TTC | 3,100,000 | 2 | 2.21 | 2.32 | 2.67 | 7.19
+5.3 | Development of training material for school administrators | 1 | 10,500 | - | 0.01 | - | 0.01
+5.4 | Printing of training material for school administrators | 117,000 | 2 | 0.09 | 0.09 | 0.09 | 0.27
+5.5 | Development of training material for INSET 1-4 | 4 | 6,300 | - | 0.03 | - | 0.03
+5.6 | Development of audio-visual material for distance education (programs) | 4 | 210,000 | - | 0.93 | - | 0.93
+6 | Capacity Building |  |  | 3.02 | 6.24 | 6.55 | 15.81
+6.1 | Short-term training for TTC instructors | 9,000 | 600 | 1.89 | 1.98 | 2.08 | 5.96
+6.2 | Scholarship for staff for Masters degree programs | 450 | 15,750 | 0.83 | 3.47 | 3.65 | 7.95
+6.3 | Support grade 14 female teacher to upgrade education to BA level | 7,000 | 210 | 0.22 | 0.69 | 0.73 | 1.64
+6.4 | Training of TTC administrators | 600 | 83 | 0.02 | 0.02 | 0.02 | 0.06
+6.5 | Training of TED staff in office skills | 750 | 252 | 0.07 | 0.07 | 0.07 | 0.21
+7 | Coordination and Management |  |  | 0.24 | 0.25 | 0.27 | 0.76
+7.1 | Develop TTC accreditation system | - | 210,000 | - | - | - | -
+7.2 | Develop standard test for TTC students | - | 52,500 | - | - | - | -
+7.3 | Analysis of test results and record in database | 3 | 21,000 | 0.02 | 0.02 | 0.02 | 0.07
+7.4 | Furniture and equipment for offices | 3 | 210,000 | 0.22 | 0.23 | 0.24 | 0.70
+7.5 | Monitoring visits to TTCs | 105 |  | - | - | - | -
+ | Sub-Program 2.3: Science and Technology Education |  |  | 11.88 | 6.68 | 7.02 | 25.58
+1 | Construction of Science Centers |  |  | 6.06 | 0.58 | 0.61 | 7.25
+1 | Constructing national science and technology centers | 1 | 5,250,000 | 5.51 | - | - | 5.51
+2 | Constructing science and technology centers for provinces | 15 | 105,000 | 0.55 | 0.58 | 0.61 | 1.74
+2 | Equip Schools with Science Lab and Kits |  |  | 5.49 | 5.76 | 6.05 | 17.30
+2.1 | Provide Laboratory for, Biology, Chemistry, Physics for general schools | 1,050 | 10,500 | 3.86 | 4.05 | 4.25 | 12.16
+2.2 | Provide Laboratory for, Biology, Chemistry, Physics for Madrasas | 96 | 10,500 | 0.35 | 0.37 | 0.39 | 1.11
+2.3 | Provide science kits for general schools | 1,500 | 110 | 0.06 | 0.06 | 0.06 | 0.18
+2.4 | Provide science kits for Islamic schools | 126 | 110 | 0.00 | 0.01 | 0.01 | 0.02
+2.5 | Library for TTC | 45 | 21,000 | 0.33 | 0.35 | 0.36 | 1.04
+2.6 | Science Laboratory for TTC | 120 | 21,000 | 0.88 | 0.93 | 0.97 | 2.78
+3 | Training of Lab Technicians and Science Teachers |  |  | 0.33 | 0.34 | 0.36 | 1.03
+3.1 | Training of lab technicians | 4,200 | 42 | 0.06 | 0.06 | 0.07 | 0.19
+3.2 | Training of science teachers | 15,000 | 50 | 0.26 | 0.28 | 0.29 | 0.83
 
 117
 
@@ -3682,36 +4046,34 @@ science kits science kits | for general schools for Islamic schools | 0.06 0.01 
 
 [[START OF PAGE 123]]
 
-Quantity | Unit cost US$ | Cost in Million US$
---- | --- | --- | --- | --- | --- | ---
-S. No Interim Plan Activities | Total | 1389 (2010) | 1390 (2011) | 1391 (2012) | 1392 (2013) | Total
-Program 3: TVET
-16.09 | 21.82 | 25.34 | 63.25
-Access to TVET
-2 Construction of TVET Schools/Institutes | 3.02 | 7.09 | 9.50 | 19.61
-2.1 Construction of complexes for TVET | 10 | 945,000 | 0.99 | 4.17 | 5.47 | 10.63
-2.2 Construction of 20 classroom buildings for Jamhoriat High school | - | 350,000 | - | - | - | -
-2.3 Construction of TVET schools in district level | 22 | 128,000 | 0.54 | 1.13 | 1.48 | 3.15
-2.4 Renovation of TVET complexes | 28 | 105,000 | 0.88 | 1.16 | 1.22 | 3.26
-2.5 Construction of dorm for TVET schools together with dinning room | 4 | 577,500 | 0.61 | 0.64 | 1.34 | 2.58
-3 Development and Revision of Curriculum | 3.69 | 4.88 | 5.49 | 14.05
-3.1 Development and revision of textbooks for different fields | 300 | 10,500 | 1.10 | 1.16 | 1.22 | 3.48
-3.2 Printing of textbooks for different fields | 1,500,000 | 3 | 1.32 | 1.74 | 2.19 | 5.25
-3.3 Equipment of technical and vocational centers | 80 | 60,000 | 1.26 | 1.98 | 2.08 | 5.33
-4 Teacher Education | 1.61 | 1.69 | 1.78 | 5.08
-4.1 Training of teachers (in country) | 450 | 3,570 | 0.56 | 0.59 | 0.62 | 1.77
-4.2 Training of teachers (outside the country) | 300 | 10,000 | 1.05 | 1.10 | 1.16 | 3.31
-5 Academic Supervision
-6 Management and Coordination (Including | Capacity Building) | 7.77 | 8.16 | 8.57 | 24.50
-6.1 TA salaries (Technical advisors) | 30 | 60,000 | 0.63 | 0.66 | 0.69 | 1.99
-6.2 TA salaries (Managers) | 45 | 24,000 | 0.38 | 0.40 | 0.42 | 1.19
-6.3 TA salaries (other staff) | 225 | 12,000 | 0.95 | 0.99 | 1.04 | 2.98
-6.4 Consultancy for evaluation of TVET | 3 | 240,000 | 0.25 | 0.26 | 0.28 | 0.79
-6.5 Contract with MAXUEL Co. partner of NIMA | 3 | 3,220,000 | 3.38 | 3.55 | 3.73 | 10.66
-6.6 ASDP staff project training | 12 | 10,000 | 0.04 | 0.04 | 0.05 | 0.13
-6.7 Recruitment of international professionals | 12 | 403,200 | 1.69 | 1.78 | 1.87 | 5.34
-6.8 Recruitment of national professionals | 30 | 25,200 | 0.26 | 0.28 | 0.29 | 0.83
-6.9 Recruitment of technical coordinators | 30 | 17,640 | 0.19 | 0.19 | 0.20 | 0.58
+S. No | Interim Plan Activities | Quantity Total | Unit cost US$ 1389 (2010) | Cost 1390 (2011), Million US$ | Cost 1391 (2012), Million US$ | Cost 1392 (2013), Million US$ | Total, Million US$
+--- | --- | --- | --- | --- | --- | --- | ---
+ | Program 3: TVET |  |  | 16.09 | 21.82 | 25.34 | 63.25
+1 | Access to TVET |  |  |  |  |  | 
+2 | Construction of TVET Schools/Institutes |  |  | 3.02 | 7.09 | 9.50 | 19.61
+2.1 | Construction of complexes for TVET | 10 | 945,000 | 0.99 | 4.17 | 5.47 | 10.63
+2.2 | Construction of 20 classroom buildings for Jamhoriat High school | - | 350,000 | - | - | - | -
+2.3 | Construction of TVET schools in district level | 22 | 128,000 | 0.54 | 1.13 | 1.48 | 3.15
+2.4 | Renovation of TVET complexes | 28 | 105,000 | 0.88 | 1.16 | 1.22 | 3.26
+2.5 | Construction of dorm for TVET schools together with dinning room | 4 | 577,500 | 0.61 | 0.64 | 1.34 | 2.58
+3 | Development and Revision of Curriculum |  |  | 3.69 | 4.88 | 5.49 | 14.05
+3.1 | Development and revision of textbooks for different fields | 300 | 10,500 | 1.10 | 1.16 | 1.22 | 3.48
+3.2 | Printing of textbooks for different fields | 1,500,000 | 3 | 1.32 | 1.74 | 2.19 | 5.25
+3.3 | Equipment of technical and vocational centers | 80 | 60,000 | 1.26 | 1.98 | 2.08 | 5.33
+4 | Teacher Education |  |  | 1.61 | 1.69 | 1.78 | 5.08
+4.1 | Training of teachers (in country) | 450 | 3,570 | 0.56 | 0.59 | 0.62 | 1.77
+4.2 | Training of teachers (outside the country) | 300 | 10,000 | 1.05 | 1.10 | 1.16 | 3.31
+5 | Academic Supervision |  |  |  |  |  | 
+6 | Management and Coordination (Including Capacity Building) |  |  | 7.77 | 8.16 | 8.57 | 24.50
+6.1 | TA salaries (Technical advisors) | 30 | 60,000 | 0.63 | 0.66 | 0.69 | 1.99
+6.2 | TA salaries (Managers) | 45 | 24,000 | 0.38 | 0.40 | 0.42 | 1.19
+6.3 | TA salaries (other staff) | 225 | 12,000 | 0.95 | 0.99 | 1.04 | 2.98
+6.4 | Consultancy for evaluation of TVET | 3 | 240,000 | 0.25 | 0.26 | 0.28 | 0.79
+6.5 | Contract with MAXUEL Co. partner of NIMA | 3 | 3,220,000 | 3.38 | 3.55 | 3.73 | 10.66
+6.6 | ASDP staff project training | 12 | 10,000 | 0.04 | 0.04 | 0.05 | 0.13
+6.7 | Recruitment of international professionals | 12 | 403,200 | 1.69 | 1.78 | 1.87 | 5.34
+6.8 | Recruitment of national professionals | 30 | 25,200 | 0.26 | 0.28 | 0.29 | 0.83
+6.9 | Recruitment of technical coordinators | 30 | 17,640 | 0.19 | 0.19 | 0.20 | 0.58
 
 118
 
@@ -3719,9 +4081,8 @@ Access to TVET
 
 [[START OF PAGE 124]]
 
-Quantity | Unit cost US$ | Cost in Million US$
+S No | Interim Plan Activities | Quantity Total | Unit cost US$ 1389 (2010) | Cost 1390 (2011), Million US$ | Cost 1391 (2012), Million US$ | Cost 1392 (2013), Million US$ | Total, Million US$
 --- | --- | --- | --- | --- | --- | --- | ---
-S No | Interim Plan Activities | Total | 1389 (2010) | 1390 (2011) | 1391 (2012) | 1392 (2013) | Total
 Program 4: Literacy | 32.37 | 37.59 | 43.30 | 113.26
 1 Access to literacy | 22.21 | 26.46 | 31.12 | 79.80
 1.1 | Public awareness for literacy | 3 | 300,000 | 0.31 | 0.33 | 0.35 | 0.99
@@ -3747,58 +4108,47 @@ Program 4: Literacy | 32.37 | 37.59 | 43.30 | 113.26
 
 [[START OF PAGE 125]]
 
-No | US$ Cost Quantity | Unit cost | in Million
+S No | Activity/Year | Quantity Total | Unit cost US$ 1389 (2010) | Cost 1390 (2011), Million US$ | Cost 1391 (2012), Million US$ | Cost 1392 (2013), Million US$ | Total, Million US$
 --- | --- | --- | --- | --- | --- | --- | ---
-S Activity/Year | Total | (2010) | 1389 | 1390 (2011) | 1391 (2012) | 1392 (2013) | Total
-Sub-Program 5.1: Education Administration Development
-21.76 | 27.34 | 26.41 | 75.51
-1 Human Resources | 2.77 | 2.91 | 1.90 | 7.58
-1.1 Implementing new Tashkil organized with public administration reform (TA) | 3 | 440,000 | 0.46 | 0.49 | 0.51 | 1.46
-1.2 Capacity-development Institute | 2 | 1,000,000 | 1.05 | 1.10 | - | 2.15
-1.3 Developing and Implementing a comprehensive HR system | 3 | 1,200,000 | 1.26 | 1.32 | 1.39 | 3.97
-2 Finance | 1.79 | 2.10 | 1.97 | 5.86
-2.1 Conducting budget integration workshop by program and province | - | 2,520 | - | - | - | -
-2.2 Timely financial payments in center and provinces (TA support) | 3 | 1,428,000 | 1.50 | 1.57 | 1.65 | 4.73
-2.3 Development of BPET system in the center and provinces | 3 | - | - | - | - | -
-2.4 Implementing AFMIS system in center and provinces | 3 | 273,000 | 0.29 | 0.30 | 0.32 | 0.90
-Incorporating financial grant attraction in coordination with
-2.5 relevant ministries (MoF,MoEc…) | 1 | 205,187 | - | 0.23 | - | 0.23
-3 ICT (Information and Communication Technology) | 8.83 | 13.54 | 13.31 | 35.68
-3.1 Research regarding successful experiences of foreign countries in use of ICT in their administrations | 2 | 131,502 | 0.14 | 0.14 | - | 0.28
-3.2 Identifying IT needs of education administrations | 3 | - | 6.00 | 12.00 | 12.00 | 30.00
-Equipping all education administrations with IT facilities (Internal
-3.3 telephone system, internet,…) and internal infrastructure | 3 | - | 1.60 | 1.00 | 0.90 | 3.50
-3.4 Training all employees of administrations equipped with IT | 3 | - | 0.96 | 0.25 | 0.26 | 1.47
-3.5 Developing a maintenance system for IT equipments (spare parts,..) | 3 | 55,650 | 0.06 | 0.06 | 0.06 | 0.18
-3.6 Revising MoE website data 4 Procurement | 3 | 73,013 | 0.08 | 0.08 | 0.08 | 0.24
-Training central department and secondary unit staff regarding | 2.02 | 2.12 | 2.23 | 6.38
-4.1 procurement 4.2 | - | 105,731 152,712 | - | - | - | -
-0.51
-Developing database for recording all contracts and procurements | 3 | 0.16 | 0.17 | 0.18
-4.3 Recording goods in the database | 3 | 237,216 | 0.82 | 0.79
-0.25 | 0.26 | 0.27
-4.4 Technical Advisors | 3 | 785,547 0 | 0.87 | 0.91 | 2.60
-4.5 Regular maintenance and protection of administrations (Technical Staff) | 3 | 120,480 | 0.13 | 0.13 | 0.14 | 0.40
-Properties | 0
-4.6 Constructing buildings for provincial education admins | 6 | 315,000 | 0.66 | 0.69 | 0.73 | 2.09
-5 Support Construction of Education Infrastructure | 5.73 | 6.02 | 18.06
-Designing and supporting engineering team for designing | 3 | 374,805 | 0.39 | 0.41 | 1.24
-6.32
-5.1 of schools and education foundations | 3 | 5,082,525 | 5.34 | 5.60 | 0.43
-5.2 | 0.64 | 1.84
-Supporting monitoring and maintenance teams in provincial level 6 Safety and Protection | 100,000 | 0.16 | 0.11 | 5.88 | 16.82
-3 | 0.58 | 0.61 | 0.33
-6.1 Equipping central department and Secondary Units of Safety and Protection department | 0.11 | 0.12 | 0.52
-6.2 Developing security system of administrations and academic foundations in coordination with security entities | 0.17 | 0.18
-Providing incentive funding resources for education defendsive | 3 | 155,824 | 0.32 | 0.33 | 0.99
-6.3 councils in center and provinces | 3 | 300,000 | 0.35
-7 Management and Coordination | 0.04 | 0.04 | 0.04 | 0.12
-Consultancy services | 3 | 8,000 | 0.01 | 0.01 | 0.01 | 0.03
-7.2
-7.1 | 0.00
-Workshops for revising operational plans | 3 | 1,200 | 0.00 | 0.00 | 0.00 0.03 | 0.08
-7.3 Workshops for preparing Quarterly Performance Report | 3 | 1,920 | 0.00 | 0.00 | 0.00 | 0.01
-7.4 Technical Advisors (TA) | 3 | 24,000 | 0.03 | 0.03
+ | Sub-Program 5.1: Education Administration Development |  |  | 21.76 | 27.34 | 26.41 | 75.51
+1 | Human Resources |  |  | 2.77 | 2.91 | 1.90 | 7.58
+1.1 | Implementing new Tashkil organized with public administration reform (TA) | 3 | 440,000 | 0.46 | 0.49 | 0.51 | 1.46
+1.2 | Capacity-development Institute | 2 | 1,000,000 | 1.05 | 1.10 | - | 2.15
+1.3 | Developing and Implementing a comprehensive HR system | 3 | 1,200,000 | 1.26 | 1.32 | 1.39 | 3.97
+2 | Finance |  |  | 1.79 | 2.10 | 1.97 | 5.86
+2.1 | Conducting budget integration workshop by program and province | - | 2,520 | - | - | - | -
+2.2 | Timely financial payments in center and provinces (TA support) | 3 | 1,428,000 | 1.50 | 1.57 | 1.65 | 4.73
+2.3 | Development of BPET system in the center and provinces | 3 | - | - | - | - | -
+2.4 | Implementing AFMIS system in center and provinces | 3 | 273,000 | 0.29 | 0.30 | 0.32 | 0.90
+2.5 | Incorporating financial grant attraction in coordination with relevant ministries (MoF,MoEc…) | 1 | 205,187 | - | 0.23 | - | 0.23
+3 | ICT (Information and Communication Technology) |  |  | 8.83 | 13.54 | 13.31 | 35.68
+3.1 | Research regarding successful experiences of foreign countries in use of ICT in their administrations | 2 | 131,502 | 0.14 | 0.14 | - | 0.28
+3.2 | Identifying IT needs of education administrations | 3 | - | 6.00 | 12.00 | 12.00 | 30.00
+3.3 | Equipping all education administrations with IT facilities (Internal telephone system, internet,…) and internal infrastructure | 3 | - | 1.60 | 1.00 | 0.90 | 3.50
+3.4 | Training all employees of administrations equipped with IT | 3 | - | 0.96 | 0.25 | 0.26 | 1.47
+3.5 | Developing a maintenance system for IT equipments (spare parts,..) | 3 | 55,650 | 0.06 | 0.06 | 0.06 | 0.18
+3.6 | Revising MoE website data | 3 | 73,013 | 0.08 | 0.08 | 0.08 | 0.24
+4 | Procurement |  |  | 2.02 | 2.12 | 2.23 | 6.38
+4.1 | Training central department and secondary unit staff regarding procurement | - | 105,731 | - | - | - | -
+4.2 | Developing database for recording all contracts and procurements | 3 | 152,712 | 0.16 | 0.17 | 0.18 | 0.51
+4.3 | Recording goods in the database | 3 | 237,216 | 0.25 | 0.26 | 0.27 | 0.79
+4.4 | Technical Advisors | 3 | 785,547 | 0.82 | 0.87 | 0.91 | 2.60
+ | Services |  | 0 |  |  |  | 
+4.5 | Regular maintenance and protection of administrations (Technical Staff) | 3 | 120,480 | 0.13 | 0.13 | 0.14 | 0.40
+ | Properties |  | 0 |  |  |  | 
+4.6 | Constructing buildings for provincial education admins | 6 | 315,000 | 0.66 | 0.69 | 0.73 | 2.09
+5 | Support Construction of Education Infrastructure |  |  | 5.73 | 6.02 | 6.32 | 18.06
+5.1 | Designing and supporting engineering team for designing of schools and education foundations | 3 | 374,805 | 0.39 | 0.41 | 0.43 | 1.24
+5.2 | Supporting monitoring and maintenance teams in provincial level | 3 | 5,082,525 | 5.34 | 5.60 | 5.88 | 16.82
+6 | Safety and Protection |  |  | 0.58 | 0.61 | 0.64 | 1.84
+6.1 | Equipping central department and Secondary Units of Safety and Protection department | 3 | 100,000 | 0.11 | 0.11 | 0.12 | 0.33
+6.2 | Developing security system of administrations and academic foundations in coordination with security entities | 3 | 155,824 | 0.16 | 0.17 | 0.18 | 0.52
+6.3 | Providing incentive funding resources for education defendsive councils in center and provinces | 3 | 300,000 | 0.32 | 0.33 | 0.35 | 0.99
+7 | Management and Coordination |  |  | 0.04 | 0.04 | 0.04 | 0.12
+7.1 | Consultancy services | 3 | 8,000 | 0.01 | 0.01 | 0.01 | 0.03
+7.2 | Workshops for revising operational plans | 3 | 1,200 | 0.00 | 0.00 | 0.00 | 0.00
+7.3 | Workshops for preparing Quarterly Performance Report | 3 | 1,920 | 0.00 | 0.00 | 0.00 | 0.01
+7.4 | Technical Advisors (TA) | 3 | 24,000 | 0.03 | 0.03 | 0.03 | 0.08
 
 120
 
@@ -3806,19 +4156,20 @@ Workshops for revising operational plans | 3 | 1,200 | 0.00 | 0.00 | 0.00 0.03 |
 
 [[START OF PAGE 126]]
 
-Total Quantity | Unit cost US$ 1389 (2010) | 1390 (2011) Cost | 1391 (2012) in | 1392 (2013) Million | Total US$
---- | --- | --- | --- | --- | --- | ---
-Sub-Program 5.2: Strategic Management Development Activity/Year | 3.77 | 3.96 | 4.16 | 11.89
-1 Policy development | 0.60 | 0.64 | 0.67 | 1.91
-1.1 Developing and supporting MoE academic council | 1 | 60,000 | - | 0.07 | - | 0.07
-1.2 Recruiting TAs | 3 | 576,000 | 0.60 | 0.64 | 0.67 | 1.91
-2 Strategic Planning | 0.28 | 0.30 | 0.31 | 0.89
-2.1 Support developing strategic plans for 34 provinces (deploy TA) S No | 3 | 268,800 | 0.28 | 0.30 | 0.31 | 0.89
-3 EMIS | 1.60 | 1.68 | 1.76 | 5.04
-3.1 Conducting different special informative programs in cene and provinces and connecting them to centers | 3 | 656,040 | 0.69 | 0.72 | 0.76 | 2.17
-3.2 Providing access for all education administrations to EMIS | 3 | 766,489 | 0.80 | 0.85 | 0.89 | 2.54
-Developing reporting mechanism s in program level between | centers 3 | 101,124 | 0.11 | 0.11 | 0.12 | 0.33
-4 Grants Management Unit | 0.25
+S No | Activity/Year | Total Quantity | Unit cost US$ | Cost in Million US$
+ |  |  | 1389 (2010) | 1390 (2011) | 1391 (2012) | 1392 (2013) | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ | Sub-Program 5.2: Strategic Management Development |  |  | 3.77 | 3.96 | 4.16 | 11.89
+1 | Policy development |  |  | 0.60 | 0.64 | 0.67 | 1.91
+1.1 | Developing and supporting MoE academic council | 1 | 60,000 | - | 0.07 | - | 0.07
+1.2 | Recruiting TAs | 3 | 576,000 | 0.60 | 0.64 | 0.67 | 1.91
+2 | Strategic Planning |  |  | 0.28 | 0.30 | 0.31 | 0.89
+2.1 | Support developing strategic plans for 34 provinces (deploy TA) | 3 | 268,800 | 0.28 | 0.30 | 0.31 | 0.89
+3 | EMIS |  |  | 1.60 | 1.68 | 1.76 | 5.04
+3.1 | Conducting different special informative programs in cene and provinces and connecting them to centers | 3 | 656,040 | 0.69 | 0.72 | 0.76 | 2.17
+3.2 | Providing access for all education administrations to EMIS | 3 | 766,489 | 0.80 | 0.85 | 0.89 | 2.54
+3.3 | Developing reporting mechanism s in program level between centers and provinces | 3 | 101,124 | 0.11 | 0.11 | 0.12 | 0.33
+4 | Grants Management Unit |  |  | 0.25 |  |  | 
 
 121
 
@@ -3866,7 +4217,7 @@ Initial  draft  of  the  annual  plan  will  be  developed  and  discussed  inte
 
 [[START OF PAGE 130]]
 
-# Annex 1. Education Indicators- The Global Context - Afghanistan
+# Annex 1. Education Indicators– The Global Context – Afghanistan
 
 ## 1.1.. The Millennium Development Goals
 
@@ -3897,27 +4248,27 @@ T | F | T | F
 ## 1.3. EFA Indicators
 
 Indicator | Objectives and Description | TARGETS
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Base Year 2010 | 2011 | 2012 2013 | EFA Target 2020
-T | F | T | F | T F | T | F
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Base Year 2010 |  | 2011 |  | 2012 |  | 2013 |  | EFA Target 2020 | 
+ |  | T | F | T | F | T | F | T | F |  | 
 1 | Gross enrollment in early childhood development programs, including public, private, and community programs, expressed as a percentage of the official age-group concerned, if any, otherwise the age-group 3 to 5.
 2 | Percentage of new entrants to primary grade 1 who have attended some form of organized early childhood development program.
-3 | Apparent (gross) intake rate : new entrants in primary grade 1 as a percentage of the population of official entry age. | 73.9% | 69% | 78.2% | 75% | 82.4% 81% | 87% | 87% | 107% | 110%
-4 | Net intake rate : new entrants to primary grade 1 who are of the official primary school-entrance age as a percentage of the corresponding population. | 63% | 58% | 67% | 63% 72% | 68% | 77% | 72% | 100% | 100%
-5 | Gross enrollment ratio (primary education) | 80% | 65% | 82% | 69% 85% | 74% | 89% | 80% | 110% | 112%
-6 | Net enrollment ratio (primary education) | 68% | 55% | 71% | 58% 74% | 62% | 76% | 66% | 100% | 100%
+3 | Apparent (gross) intake rate: new entrants in primary grade 1 as a percentage of the population of official entry age. | 73.9% | 69% | 78.2% | 75% | 82.4% | 81% | 87% | 87% | 107% | 110%
+4 | Net intake rate: new entrants to primary grade 1 who are of the official primary school-entrance age as a percentage of the corresponding population. | 63% | 58% | 67% | 63% | 72% | 68% | 77% | 72% | 100% | 100%
+5 | Gross enrollment ratio (primary education) | 80% | 65% | 82% | 69% | 85% | 74% | 89% | 80% | 110% | 112%
+6 | Net enrollment ratio (primary education) | 68% | 55% | 71% | 58% | 74% | 62% | 76% | 66% | 100% | 100%
 7 | Public current expenditure on primary education (a) as a percentage of GNP; and (b) per pupil, as a percentage of GNP per capita.
 8 | Public expenditure on primary education as a percentage of total public expenditure on education.
-9 | Percentage of primary school teachers having the required academic qualifications . | 100% | 100%
-10 | Percentage of primary school teachers who are certified to teach according to national standards. | 80% | 80% | 100% | 100%
-11 | Pupil-teacher ratio. | 43 | 43 | 46 | 47 | 35
-12 | Repetition rates by grade . | 17% | 15.5% | 14% | 12.5% | 2%
-13 | Survival rate to grade 5 (percentage of a pupil cohort actually reaching grade 5) | 83% | 77% | 84% | 79% 86% | 82% | 88% | 84% | 100% | 100%
+9 | Percentage of primary school teachers having the required academic qualifications. |  |  |  |  |  |  |  |  | 100% | 100%
+10 | Percentage of primary school teachers who are certified to teach according to national standards. |  |  |  |  |  |  | 80% | 80% | 100% | 100%
+11 | Pupil-teacher ratio. | 43 |  | 43 |  | 46 |  | 47 |  | 35 | 
+12 | Repetition rates by grade. | 17% |  | 15.5% |  | 14% |  | 12.5% |  | 2% | 
+13 | Survival rate to grade 5 (percentage of a pupil cohort actually reaching grade 5) | 83% | 77% | 84% | 79% | 86% | 82% | 88% | 84% | 100% | 100%
 14 | Coefficient of efficiency (ideal number of pupil years needed for a cohort to complete the primary cycle, expressed as a percentage of the actual number of pupil years).
 15 | Percentage of pupils having reached at least grade 4 of primary schooling who master a set of nationally defined basic learning competencies.
-16 | Literacy rate of 15-24 year olds . | 49% | 37% | 54% | 43% 59% | 49% | 64% | 56% | 100% | 100%
-17 | Adult literacy rate: percentage of the population aged 15+ that is literate . | 28% | 15% | 32% | 19% 36% | 22% | 40% | 26% | 50% | 50%
-18 | Literacy Gender Parity Index: ratio of female to male literacy rates. | 0.37 | 0.43 | 0.50 | 0.56 | 1
+16 | Literacy rate of 15-24 year olds. | 49% | 37% | 54% | 43% | 59% | 49% | 64% | 56% | 100% | 100%
+17 | Adult literacy rate: percentage of the population aged 15+ that is literate. | 28% | 15% | 32% | 19% | 36% | 22% | 40% | 26% | 50% | 50%
+18 | Literacy Gender Parity Index: ratio of female to male literacy rates. | 0.37 |  | 0.43 |  | 0.50 |  | 0.56 |  | 1 | 
 
 126
 
@@ -3930,6 +4281,28 @@ T | F | T | F | T F | T | F
 ## Secure Provinces Compared to Insecure Provinces
 
 These  pie-charts  clearly  show  that  provision  of  education  opportunity  differs  greatly  depending  on whether one lives in a secure or insecure province.
+
+Population
+(UNPD/ANPRO
+estimates 1388)
+Secure | 58%
+Insecure | 42%
+
+Total Registered
+Students grades (1-14)
+1388
+Secure | 66%
+Insecure | 34%
+
+GE School Graduates
+1388
+Secure | 74%
+Insecure | 26%
+
+Students Passed
+Kankor 1388
+Secure | 77%
+Insecure | 23%
 
 127
 
