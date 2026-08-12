@@ -22,6 +22,13 @@ Disclaimer: While every care has been taken in the preparation of this Revised A
 
 [[START OF PAGE 3]]
 
+Number 51 of 1998
+
+EDUCATION ACT 1998
+REVISED
+
+Updated to 3 October 2018
+
 ## Introduction
 
 This Revised Act presents the text of the Act as it has been amended since enactment, and preserves the format in which it was passed.
@@ -52,7 +59,7 @@ Education Acts 1878 to 2018 : this Act is one of a group of Acts included in thi
 
 - Teaching Council (Amendment) Act 2015 (31/2015), s. 32
 
-- Education (Admission to Schools) Act 2018 (14/2018), other than ss. 10, 11, 12(b)(d)
+- Education (Admission to Schools) Act 2018 (14/2018), other than ss. 10, 11, 12(b)-(d)
 
 ## Annotations
 
@@ -63,10 +70,6 @@ An explanation of how to read annotations is available at www.lawreform.ie/annot
 ## Material not updated in this revision
 
 Where other legislation is amended by this Act, those amendments may have been superseded by other amendments in other legislation, or the amended legislation may have been repealed or revoked. This information is not represented in this
-
-Number 51 of 1998
-
-EDUCATION ACT 1998 REVISED Updated to 3 October 2018
 
 i
 
@@ -158,7 +161,7 @@ ii
 
 [[START OF PAGE 5]]
 
-- EducationAct,1998(NationalCouncilforCurriculumandAssessment)(Appointment of Members) Regulations 2001 (S.I. No. 245 of 2001)
+- Education Act, 1998 (National Council for Curriculum and Assessment) (Appointment of Members) Regulations 2001 (S.I. No. 245 of 2001)
 
 - Education Act 1998 (Commencement) (No. 3) Order 2000 (S.I. No. 495 of 2000)
 
@@ -180,54 +183,56 @@ iv
 
 [[START OF PAGE 7]]
 
+Number 51 of 1998
+
+EDUCATION ACT 1998
+REVISED
+
+Updated to 3 October 2018
+
+## ARRANGEMENT OF SECTIONS
+
+## PART I
+
+### PRELIMINARY AND GENERAL
+
 Section
 
-- Short title and commencement. 1.
+- 1. Short title and commencement.
 
-- Interpretation. 2.
+- 2. Interpretation.
 
-- Expenses. 3.
+- 3. Expenses.
 
-- Service of notices. 4.
+- 4. Service of notices.
 
-- Laying of regulations and orders. 5.
+- 5. Laying of regulations and orders.
 
-- Objects of Act. 6.
+- 6. Objects of Act.
 
-- Functions of Minister. 7.
+- 7. Functions of Minister.
 
 ## PART II
 
 ### SCHOOLS
 
-- Patron of school. 8.
+- 8. Patron of school.
 
-- Functions of a school. 9.
+- 9. Functions of a school.
 
-- Recognition of schools. 10.
+- 10. Recognition of schools.
 
-- Withdrawal of recognition. 11.
+- 11. Withdrawal of recognition.
 
-- Annual funding. 12.
+- 12. Annual funding.
 
 ## PART III
 
 ### THE INSPECTORATE
 
-- The Inspectorate. 13.
+- 13. The Inspectorate.
 
 ## PART IV
-
-Number 51 of 1998
-
-EDUCATION ACT 1998 REVISED
-
-Updated to 3 October 2018
-
-## ARRANGEMENT OF SECTIONS
-## PART I
-
-### PRELIMINARY AND GENERAL
 
 1
 
@@ -235,83 +240,79 @@ Updated to 3 October 2018
 
 [[START OF PAGE 8]]
 
-[ No. 51. ]
-
-[1998.]
-
-Education Act 1998
+[ No. 51. ] Education Act 1998 [1998.]
 
 ### BOARDS OF MANAGEMENT
 
-- Establishment and membership of boards of management. 14.
+- 14. Establishment and membership of boards of management.
 
-- Functions of a board. 15.
+- 15. Functions of a board.
 
-- Dissolution by a patron. 16.
+- 16. Dissolution by a patron.
 
-- Dissolution by patron at request of Minister. 17.
+- 17. Dissolution by patron at request of Minister.
 
-- Keeping of accounts and records. 18.
+- 18. Keeping of accounts and records.
 
-- Report on operation of board. 19.
+- 19. Report on operation of board.
 
-- Report and information. 20.
+- 20. Report and information.
 
-- The school plan. 21.
+- 21. The school plan.
 
 ## PART V
 
 ### THE PRINCIPAL AND TEACHERS
 
-- Functions of Principal and teachers. 22.
+- 22. Functions of Principal and teachers.
 
-- The Principal. 23.
+- 23. The Principal.
 
-- Provisions relating to staff. 24.
+- 24. Provisions relating to staff.
 
 ## PART VI
 
 ### MISCELLANEOUS
 
-- School year, week, day. 25.
+- 25. School year, week, day.
 
-- Parents' association. 26.
+- 26. Parents' association.
 
-- Information to students and student council. 27.
+- 27. Information to students and student council.
 
-- Grievance and other procedures. 28.
+- 28. Grievance and other procedures.
 
-- Appeals to Secretary General. 29.
+- 29. Appeals to Secretary General.
 
-- Establishment of appeals panels and appeals committees. 29A.
+- 29A. Establishment of appeals panels and appeals committees.
 
-- Procedures in relation to appeals. 29B.
+- 29B. Procedures in relation to appeals.
 
-- Review by board of decision to refuse admission. 29C.
+- 29C. Review by board of decision to refuse admission.
 
-- Appeals under section 29(1)(a) , (b) and (c)(ii) . 29D.
+- 29D. Appeals under section 29(1)(a), (b) and (c)(ii).
 
-- Appeals under section 29(1)(c)(i) . 29E.
+- 29E. Appeals under section 29(1)(c)(i).
 
-- Miscellaneous provisions in relation to appeals under section 29 . 29F.
+- 29F. Miscellaneous provisions in relation to appeals under section 29.
 
-- Curriculum. 30.
+- 30. Curriculum.
 
-- Teaching through Irish. 31.
+- 31. Teaching through Irish.
 
-- Educational disadvantage. (repealed) 32.
+- 32. Educational disadvantage. (repealed)
 
-- Regulations. 33.
+- 33. Regulations.
 
-- Financial year. 34.
+- 34. Financial year.
 
-- Amendment of Intermediate Education (Ireland) Act, 1878. 35.
+- 35. Amendment of Intermediate Education (Ireland) Act, 1878.
 
-- Amendment of Vocational Education Act, 1930. 36.
+- 36. Amendment of Vocational Education Act, 1930.
 
-- Education support centres. 37.
+- 37. Education support centres.
 
-- Additional provision in respect of children with special educational needs. 37A.
+- 37A. Additional provision in respect of children with special educational needs.
 
 ## PART VII
 
@@ -321,81 +322,81 @@ Education Act 1998
 
 [[START OF PAGE 9]]
 
-[1998.] Education Act 1998 [ No. 51. ]
+[ No. 51. ] Education Act 1998 [1998.]
 
 ### NATIONAL COUNCIL FOR CURRICULUM AND ASSESSMENT
 
-- Establishment day. 38.
+- 38. Establishment day.
 
-- Establishment of National Council for Curriculum and Assessment. 39.
+- 39. Establishment of National Council for Curriculum and Assessment.
 
-- Composition and appointment. 40.
+- 40. Composition and appointment.
 
-- Objects and functions. 41.
+- 41. Objects and functions.
 
-- Consultation with designated bodies. 42.
+- 42. Consultation with designated bodies.
 
-- Chief executive officer. 43.
+- 43. Chief executive officer.
 
-- Staff. 44.
+- 44. Staff.
 
-- Grants. 45.
+- 45. Grants.
 
-- Accounts and information. 46.
+- 46. Accounts and information.
 
-- Committees. 47.
+- 47. Committees.
 
-- Annual Report. 48.
+- 48. Annual Report.
 
-- Interpretation. 49.
+## PART VIII
 
-- Examinations. 50.
+### EXAMINATIONS
 
-- Regulations. 51.
+- 49. Interpretation.
 
-- Offences. 52.
+- 50. Examinations.
 
-- Refusal of access to certain information. 53.
+- 51. Regulations.
+
+- 52. Offences.
+
+- 53. Refusal of access to certain information.
 
 ## PART IX
 
 ### BODIES CORPORATE
 
-- Establishment of bodies to provide services related to education. 54.
+- 54. Establishment of bodies to provide services related to education.
 
-- Membership and staff. 55.
+- 55. Membership and staff.
 
-- Functions. 56.
+- 56. Functions.
 
-- Administration. 57.
+- 57. Administration.
 
-- Grants. 58.
+- 58. Grants.
 
-- Revocation of establishment order. 59.
+- 59. Revocation of establishment order.
 
 ## PART X
 
 ### ADMISSION TO SCHOOLS
 
-- Definitions. 60.
+- 60. Definitions.
 
-- Admission statement. 61.
+- 61. Admission statement.
 
-- Admission policy. 62.
+- 62. Admission policy.
 
-- Annual admission notice. 63.
+- 63. Annual admission notice.
 
-- Prohibition on charging admission and enrolment fees. 64.
+- 64. Prohibition on charging admission and enrolment fees.
 
-- Regulations. 65.
+- 65. Regulations.
 
-- Co-operation between boards. 66.
+- 66. Co-operation between boards.
 
-- Designation of school by Council or Child and Family Agency. 67.
-
-## PART VIII
-
-### EXAMINATIONS
+- 67. Designation of school by Council or Child and Family Agency.
 
 3
 
@@ -403,15 +404,13 @@ Education Act 1998
 
 [[START OF PAGE 10]]
 
-[1998.]
+[ No. 51. ] Education Act 1998 [1998.]
 
-Education Act 1998 [ No. 51. ]
+- 68. Direction to board and appointment of independent person by patron.
 
-- Direction to board and appointment of independent person by patron. 68.
+- 69. Direction to board by Minister.
 
-- Direction to board by Minister. 69.
-
-- Request to patron by Minister. 70.
+- 70. Request to patron by Minister.
 
 ## SCHEDULE 1
 ### THE COUNCIL
@@ -420,16 +419,20 @@ Education Act 1998 [ No. 51. ]
 
 ## ACTS REFERRED TO
 
-Adoption Acts, 1952 to 1998 Children Acts, 1908 to 1989
---- | ---
+Adoption Acts, 1952 to 1998
+Children Acts, 1908 to 1989
 Child Care Act, 1991 | 1991, No. 17
 Civil Service Commissioners Act, 1956 | 1956, No. 45
-Civil Service Regulation Acts, 1956 to 1996 European Parliament Elections Act, 1997 | 1997, No. 2
-Health Act, 1970 Health Acts, 1947 to 1996 | 1970, No. 1
+Civil Service Regulation Acts, 1956 to 1996
+European Parliament Elections Act, 1997 | 1997, No. 2
+Guardianship of Children Acts, 1964 to 1997
+Health Act, 1970 | 1970, No. 1
+Health Acts, 1947 to 1996
 Intermediate Education (Ireland) Act, 1878 | 1878, 41 & 42 Vic., c. 66
-Intermediate Education (Ireland) Acts, 1878 to 1924 Local Government Act, 1941 | 1941, No. 23
-Ministers and Secretaries (Amendment) Act, 1956 Public Service Management Act, 1997 | 1956, No. 21
-1997, No. 27
+Intermediate Education (Ireland) Acts, 1878 to 1924
+Local Government Act, 1941 | 1941, No. 23
+Ministers and Secretaries (Amendment) Act, 1956 | 1956, No. 21
+Public Service Management Act, 1997 | 1997, No. 27
 Trade Union Acts, 1871 to 1990
 Vocational Education Act, 1930 | 1930, No. 29
 
@@ -445,7 +448,7 @@ EDUCATION ACT 1998 REVISED
 
 Updated to 3 October 2018
 
-- AN ACT TO MAKE PROVISION IN THE INTERESTS OF THE COMMON GOOD FOR THE EDUCATION OF EVERY PERSON IN THE STATE, INCLUDING ANY PERSON WITH A DISABILITY OR WHO HAS OTHER SPECIAL EDUCATIONAL NEEDS, AND TO PROVIDE GENERALLY FOR PRIMARY, POST-PRIMARY, ADULT AND CONTINUING EDUCATION AND VOCATIONAL EDUCATION AND TRAINING; TO ENSURE THAT THE EDUCATION SYSTEM IS ACCOUNTABLE TO STUDENTS, THEIR PARENTS AND THE STATE FOR THE EDUCATION PROVIDED,RESPECTSTHEDIVERSITYOFVALUES,BELIEFS,LANGUAGESANDTRADITIONS IN IRISH SOCIETY AND IS CONDUCTED IN A SPIRIT OF PARTNERSHIP BETWEEN SCHOOLS, PATRONS, STUDENTS, PARENTS, TEACHERS AND OTHER SCHOOL STAFF, THE COMMUNITY SERVED BY THE SCHOOL AND THE STATE; TO PROVIDE FOR THE RECOGNITION AND FUNDING OF SCHOOLS AND THEIR MANAGEMENT THROUGH BOARDS OF MANAGEMENT; TO PROVIDE FOR AN INSPECTORATE OF SCHOOLS; TO PROVIDE FOR THE ROLE AND RESPONSIBILITIES OF PRINCIPALS AND TEACHERS; TO ESTABLISH THE NATIONAL COUNCIL FOR CURRICULUM AND ASSESSMENT AND TO MAKE PROVISION FOR IT, AND TO PROVIDE FOR RELATED MATTERS. [23 rd December , 1998]
+AN ACT TO MAKE PROVISION IN THE INTERESTS OF THE COMMON GOOD FOR THE EDUCATION OF EVERY PERSON IN THE STATE, INCLUDING ANY PERSON WITH A DISABILITY OR WHO HAS OTHER SPECIAL EDUCATIONAL NEEDS, AND TO PROVIDE GENERALLY FOR PRIMARY, POST-PRIMARY, ADULT AND CONTINUING EDUCATION AND VOCATIONAL EDUCATION AND TRAINING; TO ENSURE THAT THE EDUCATION SYSTEM IS ACCOUNTABLE TO STUDENTS, THEIR PARENTS AND THE STATE FOR THE EDUCATION PROVIDED, RESPECTS THE DIVERSITY OF VALUES, BELIEFS, LANGUAGES AND TRADITIONS IN IRISH SOCIETY AND IS CONDUCTED IN A SPIRIT OF PARTNERSHIP BETWEEN SCHOOLS, PATRONS, STUDENTS, PARENTS, TEACHERS AND OTHER SCHOOL STAFF, THE COMMUNITY SERVED BY THE SCHOOL AND THE STATE; TO PROVIDE FOR THE RECOGNITION AND FUNDING OF SCHOOLS AND THEIR MANAGEMENT THROUGH BOARDS OF MANAGEMENT; TO PROVIDE FOR AN INSPECTORATE OF SCHOOLS; TO PROVIDE FOR THE ROLE AND RESPONSIBILITIES OF PRINCIPALS AND TEACHERS; TO ESTABLISH THE NATIONAL COUNCIL FOR CURRICULUM AND ASSESSMENT AND TO MAKE PROVISION FOR IT, AND TO PROVIDE FOR RELATED MATTERS. [23rd December, 1998]
 
 BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
 
@@ -459,7 +462,7 @@ BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
 
 (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
 
-- The functions conferred on the Minister for Finance by or under the provisions of -
+3. The functions conferred on the Minister for Finance by or under the provisions of —
 
 (a) the enactments specified in Schedule 1, and
 
@@ -479,37 +482,35 @@ Education Act 1998
 
 [1998.]
 
-#### Short title and commencement.
-
 are transferred to the Minister for Public Expenditure and Reform.
 
 ...
 
-- References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
-
-...
+5. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
 
 ...
 
 #### Schedule 1
 ##### Enactments
 
-Number and Year | Short Title (2) | Provision (3)
+...
+
+###### Part 2 1922 to 2011 Enactments
+
+Number and Year | Short Title | Provision
 --- | --- | ---
-(1)
+(1) | (2) | (3)
 ... | ... | ...
 No. 51 of 1998 | Education Act 1998 | Sections 12(1), 13(12), 23(1), 24(2)(5) and (6), 31(2) and (6), 32(7), 43(3), 44(1) and (2), 45, 46(1) and 58; Schedule 1, paragraph 9
 ... | ... | ...
-
-###### Part 2 1922 to 2011 Enactments
 
 - C2 Functions of Inspectors under Act applied with modifications by Children Act 2001 (24/2001), s. 159A(5), as inserted (1.03.2007) by Criminal Justice Act 2006 (26/2006), s. 147, S.I. No. 65 of 2007.
 
 #### Education of children in children detention school, residential centres, etc.
 
-159A. -...
+159A.—...
 
-- The functions of an Inspector within the meaning of the Education Act 1998 apply, with any necessary modifications, in relation to education facilities provided in respect of any transferred premises.
+(5) The functions of an Inspector within the meaning of the Education Act 1998 apply, with any necessary modifications, in relation to education facilities provided in respect of any transferred premises.
 
 ...
 
@@ -521,9 +522,11 @@ No. 51 of 1998 | Education Act 1998 | Sections 12(1), 13(12), 23(1), 24(2)(5) an
 
 ### PRELIMINARY AND GENERAL
 
-1. -(1) This Act may be cited as the Education Act, 1998.
+#### Short title and commencement.
 
-(2) Subject to subsection (3) , this Act shall come into operation on such day or days as, by order or orders made by the Minister under this section, may be fixed either generally or with reference to any particular purpose, function, provision or class of school, and different days may be so fixed for different purposes, functions or provisions of this Act or different classes of schools.
+1.—(1) This Act may be cited as the Education Act, 1998.
+
+(2) Subject to subsection (3), this Act shall come into operation on such day or days as, by order or orders made by the Minister under this section, may be fixed either generally or with reference to any particular purpose, function, provision or class of school, and different days may be so fixed for different purposes, functions or provisions of this Act or different classes of schools.
 
 6
 
@@ -551,11 +554,11 @@ Education Act 1998
 
 - E2 Power pursuant to section exercised (22.12.2000) by Education Act, 1998 (Commencement) (No. 3) Order 2000 (S.I. No. 495 of 2000).
 
-- The twenty second day of December 2000 is hereby fixed as the day on which sections 1 , 8 , 10 , 11 , 12 , 18 , 29 and 32 of the Education Act, 1998 (No. 51 of 1998), shall come into operation.
+2. The twenty second day of December 2000 is hereby fixed as the day on which sections 1 , 8 , 10 , 11 , 12 , 18 , 29 and 32 of the Education Act, 1998 (No. 51 of 1998), shall come into operation.
 
 - E3 Power pursuant to section exercised (23.12.1999) by Education Act, 1998 (Commencement) (No. 2) Order 1999 (S.I. No. 470 of 1999).
 
-- The 23rd day of December, 1999, is hereby fixed as the day on which sections 7 , 9, 14 , 15 , 16 , 17 , 19 , 20 , 21 , 22 , 23 , 24 , 27 , 28 , 30 , 31 , 33 , 34 , 35 , and Part VII of the Education Act, 1998 (No. 51 of 1998) shall come into operation.
+2. The 23rd day of December, 1999, is hereby fixed as the day on which sections 7 , 9, 14 , 15 , 16 , 17 , 19 , 20 , 21 , 22 , 23 , 24 , 27 , 28 , 30 , 31 , 33 , 34 , 35 , and Part VII of the Education Act, 1998 (No. 51 of 1998) shall come into operation.
 
 - E4 Power pursuant to section exercised (5.02.1999) by Education Act, 1998 (Commencement) Order 1999 (S.I. No. 29 of 1999).
 
@@ -587,7 +590,11 @@ F1 [ 'disability' means, in relation to a person, a restriction in the capacity 
 
 PT. I S. 2
 
-[1998.] Education Act 1998 [ No. 51. ]
+[ No. 51. ]
+
+Education Act 1998
+
+[1998.]
 
 F2 [ 'educational disadvantage' means the impediments to education arising from social or economic disadvantage which prevent students from deriving appropriate benefit from education in schools; ]
 
@@ -687,7 +694,7 @@ but does not include a school or institution established in accordance with the 
 
 ( m ) curriculum support and staff advisory services, and
 
-- F7 [ ( n ) such other services as are specified by this Act or considered appropriate by the Minister, or both, but which shall not include health and personal social services within the meaning of the Health Act 2004; ]
+F7 [ ( n ) such other services as are specified by this Act or considered appropriate by the Minister, or both, but which shall not include health and personal social services within the meaning of the Health Act 2004; ]
 
 'teacher' includes a Principal;
 
@@ -707,7 +714,7 @@ Education Act 1998
 
 [1998.]
 
-( a ) In this Act a reference to a Part, section or a Schedule is a reference to a Part or section of or a Schedule to this Act, unless it is indicated that a reference to some other Act is intended.
+(2) ( a ) In this Act a reference to a Part, section or a Schedule is a reference to a Part or section of or a Schedule to this Act, unless it is indicated that a reference to some other Act is intended.
 
 ( b ) In this Act a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that a reference to some other pro-vision is intended.
 
@@ -745,7 +752,7 @@ F9 [ 'admission policy' has the meaning assigned to it by section 62 (inserted b
 
 - C4 Prospective affecting provision: subs. (1) amended by Education (Miscellaneous Provisions) Act 2007 (9/2007), s. 2, not commenced as of date of revision.
 
--(1) In this Act, except where the context otherwise requires-
+2.—(1) In this Act, except where the context otherwise requires—
 
 F10 [ ' Act of 2000 ' means the Education (Welfare) Act 2000; ]
 
@@ -814,8 +821,6 @@ Education Act 1998
 
 [1998.]
 
-#### Functions of Minister.
-
 ( i ) to contribute to the realisation of national policy and objectives in relation to the extension of bi-lingualism in Irish society and in particular the achievement of a greater use of the Irish language at school and in the community;
 
 ( j ) to contribute to the maintenance of Irish as the primary community language in Gaeltacht areas;
@@ -834,7 +839,9 @@ Education Act 1998
 
 - F12 Inserted (1.01.2014) by Child and Family Agency Act 2013 (40/2013), s. 97 and sch. 2 part 11 item 2, S.I. No. 502 of 2013.
 
--(1) Each of the following shall be a function of the Minister under this Act:
+#### Functions of Minister.
+
+7.—(1) Each of the following shall be a function of the Minister under this Act:
 
 ( a ) to ensure, subject to the provisions of this Act, that there is made available to each person resident in the State, including a person with a disability or who has other special educational needs, support services and a level and quality of education appropriate to meeting the needs and abilities of that person,
 
@@ -903,6 +910,10 @@ by setting standards for those engaged in the provision of education, including 
 and ]
 
 ( b ) shall make all reasonable efforts to consult with patrons, national associations of parents, parents' associations in schools, recognised school management organisations, recognised trade unions and staff associations representing teachers and such other persons who have a special interest in or knowledge of matters relating to education, including persons or groups of persons who have a special interest in, or experience of, the education of students with special educational needs, as the Minister considers appropriate.
+
+F14 [ (5) F15 [ ... ]
+
+(6) F15 [ ... ] ]
 
 13
 
@@ -1204,7 +1215,7 @@ and promote informed debate on those matters;
 
 ( h ) F20 [ ... ]
 
-- F21 [ ... ]
+(4) F21 [ ... ]
 
 (5) Where an Inspector has carried out an evaluation or an assessment under subsection (3)(a)(i) , he or she may make recommendations to the Minister in respect of improvements that he or she considers appropriate.
 
@@ -1226,7 +1237,7 @@ Education Act 1998
 
 [1998.]
 
-(8) An Inspector, including the Chief Inspector, shall carry out his or her functions in accordance with such procedures for, and criteria of, inspections as may be determined by the Minister from time to time, following consultation with patrons, school managementorganisations,recognisedtradeunionsandstaffassociationsrepresenting teachers and such other persons as the Minister considers appropriate, and such directions as may be given by the Minister from time to time.
+(8) An Inspector, including the Chief Inspector, shall carry out his or her functions in accordance with such procedures for, and criteria of, inspections as may be determined by the Minister from time to time, following consultation with patrons, school management organisations, recognised trade unions and staff associations representing teachers and such other persons as the Minister considers appropriate, and such directions as may be given by the Minister from time to time.
 
 (9) A teacher or the board of a school may request the Chief Inspector to review any inspection carried out by an Inspector which affects the teacher or the school and the Chief Inspector shall review the inspection in accordance with such procedures as the Chief Inspector shall determine.
 
@@ -1274,8 +1285,6 @@ Education Act 1998
 
 [1998.]
 
-#### Establishment and membership of boards of management.
-
 ###### Editorial Notes:
 
 - E8 Duty to publish reports made pursuant to subs. (3)(a)(i) prescribed (21.04.2015) by Education Act 1998 (Publication of Inspection Reports on Schools and Centres for Education) Regulations 2015 (S.I. No. 153 of 2015), reg. 2(1), subject to para. (2).
@@ -1285,6 +1294,8 @@ Education Act 1998
 ## PART IV
 
 ### BOARDS OF MANAGEMENT
+
+#### Establishment and membership of boards of management.
 
 14. -(1) It shall be the duty of a patron, for the purposes of ensuring that a recognised school is managed in a spirit of partnership, to appoint where practicable a board of management the composition of which is agreed between patrons of schools, national associations of parents, recognised school management organisations, recognised trade unions and staff associations representing teachers and the Minister.
 
@@ -1408,9 +1419,7 @@ Education Act 1998
 
 #### Dissolution by patron at request of Minister.
 
-#### Keeping of accounts and records.
-
--(1) Where-
+17. -(1) Where-
 
 ( a ) the Minister is satisfied that the functions of a board are not being effectively discharged, or
 
@@ -1423,6 +1432,8 @@ the Minister may, by notice in writing, require the patron to dissolve the board
 (2) Before the Minister serves a notice as provided for in subsection (1) , he or she shall inform the board and the patron of his or her intention to do so and shall consider any representations made to him or her by or on behalf of the board or the patron within one month of informing the board and the patron.
 
 (3) Whenever the patron dissolves a board under this section, subsections (5) and (7) of section 16 shall apply.
+
+#### Keeping of accounts and records.
 
 18. -(1) Except in the case of a school established or maintained by F28 [ an education and training board ] , a board shall keep all proper and usual accounts and records of all monies received by it or expenditure of such monies incurred by it and shall ensure that in each year all such accounts are properly audited or certified in accordance with best accounting practice.
 
@@ -1445,7 +1456,6 @@ the Minister may, by notice in writing, require the patron to dissolve the board
 (4) A Principal or board shall supply the patron and the Minister with such information regarding the performance of the board's functions as the patron or the Minister, as the case may be, may from time to time require.
 
 (5) Where either the Minister or a patron proposes to exercise functions under this section then-
-#### Report and information.
 
 24
 
@@ -1461,19 +1471,17 @@ Education Act 1998
 
 [1998.]
 
-#### The school plan.
-
-#### Functions of Principal and teachers.
-
 ( a ) the Minister shall inform the patron, or
 
 ( b ) the patron shall inform the Minister,
 
 as appropriate, of the proposed course of action.
 
-20. -A board shall establish procedures for informing the parents of students in the school of matters relating to the operation and performance of the school and such procedures may include the publication and circulation to parents, teachers and other staff and a student council where one has been established of a report on the operation and performance of the school in any school year, with particular reference to the achievement of objectives as set out in the school plan provided for under
+#### Report and information.
 
-section 21 .
+20. -A board shall establish procedures for informing the parents of students in the school of matters relating to the operation and performance of the school and such procedures may include the publication and circulation to parents, teachers and other staff and a student council where one has been established of a report on the operation and performance of the school in any school year, with particular reference to the achievement of objectives as set out in the school plan provided for under section 21 .
+
+#### The school plan.
 
 21. -(1) A board shall, as soon as may be after its appointment, make arrangements for the preparation of a plan (in this section referred to as the 'school plan') and shall ensure that the plan is regularly reviewed and updated.
 
@@ -1493,9 +1501,11 @@ section 21 .
 
 ### THE PRINCIPAL AND TEACHERS
 
+#### Functions of Principal and teachers.
+
 22. -(1) The Principal of a recognised school and the teachers in a recognised school, under the direction of the Principal, shall have responsibility, in accordance with this Act, for the instruction provided to students in the school and shall contribute, generally, to the education and personal development of students in that school.
 
-- Without prejudice to subsection (1) , the Principal and teachers shall-
+(2) Without prejudice to subsection (1) , the Principal and teachers shall-
 
 ( a ) encourage and foster learning in students,
 
@@ -1571,9 +1581,13 @@ Education Act 1998
 [1998.]
 
 ###### Modifications (not altering text):
---- | ---
-C8 | Prospective affecting provision: subss. (1)(a) and (2)(b) substituted by Education (Admission to Schools) Act 2018 (14/2018), s. 6, not commenced as of date of revision. F30 [ ( a ) be responsible for the day to day management of the school, including guidance and direction of the teachers and other staff of the school and the implementation of the admission policy of the school, and be accountable to the board of the school for that management, ]
+
+- C8 Prospective affecting provision: subss. (1)(a) and (2)(b) substituted by Education (Admission to Schools) Act 2018 (14/2018), s. 6, not commenced as of date of revision.
+
+F30 [ ( a ) be responsible for the day to day management of the school, including guidance and direction of the teachers and other staff of the school and the implementation of the admission policy of the school, and be accountable to the board of the school for that management, ]
+
 ...
+
 F30 [ ( b ) regulations made under this Act. ]
 
 #### F31 [ Provisions relating to staff.
@@ -1590,7 +1604,7 @@ F30 [ ( b ) regulations made under this Act. ]
 
 (4) The Principal, a teacher or other member of staff of a recognised school appointed prior to, and holding office immediately before, the commencement of this section, continues in office after such commencement as if appointed under this section.
 
-( a ) Notwithstanding subsections (3) and (11) , a teacher or other member of staff of a recognised school who is, or who is to be, remunerated out of monies provided by the Oireachtas may be redeployed to another recognised school in accordance with redeployment procedures determined from time to time by the Minister with the concurrence of the Minister for Public Expenditure and Reform following consultation with bodies representative of patrons, recognised school management organisations and with recognised trade unions and staff associations representing teachers or other staff as appropriate.
+(5) ( a ) Notwithstanding subsections (3) and (11) , a teacher or other member of staff of a recognised school who is, or who is to be, remunerated out of monies provided by the Oireachtas may be redeployed to another recognised school in accordance with redeployment procedures determined from time to time by the Minister with the concurrence of the Minister for Public Expenditure and Reform following consultation with bodies representative of patrons, recognised school management organisations and with recognised trade unions and staff associations representing teachers or other staff as appropriate.
 
 ( b ) A teacher or other member of staff redeployed in accordance with paragraph (a) shall, in accordance with the redeployment procedures determined under that paragraph, become an employee of-
 
@@ -1686,7 +1700,7 @@ F38 [ (11) The board of a recognised school may, in accordance with procedures d
 
 (13) F39 [ ... ]
 
-- In this section-
+(14) In this section-
 
 ( a ) 'Act of 2001' means the Teaching Council Act 2001;
 
@@ -1722,10 +1736,6 @@ Education Act 1998
 
 [1998.]
 
-#### School year, week, day.
-
-#### Parents' association.
-
 - F35 Substituted (25.07.2016) by Teaching Council (Amendment) Act 2015 (31/2015), s. 32(c), S.I. No. 408 of 2016.
 
 - F36 Inserted (25.07.2016) by Teaching Council (Amendment) Act 2015 (31/2015), s. 32(d), S.I. No. 408 of 2016.
@@ -1734,7 +1744,7 @@ Education Act 1998
 
 - F38 Inserted (6.06.2012) by Education (Amendment) Act 2012 (14/2012), s. 6, S.I. No. 190 of 2012.
 
-- F39 Rpealed (1.07.2013) by Education and Training Boards Act 2013 (11/2013), s. 65, S.I. No. 211 of 2013.
+- F39 Repealed (1.07.2013) by Education and Training Boards Act 2013 (11/2013), s. 65, S.I. No. 211 of 2013.
 
 ###### Editorial Notes:
 
@@ -1744,6 +1754,8 @@ Education Act 1998
 
 ### MISCELLANEOUS
 
+#### School year, week, day.
+
 25. -The Minister may, from time to time, following consultation with patrons, national associations of parents, recognised school management organisations and recognised trade unions and staff associations representing teachers, prescribe-
 
 ( a ) the minimum number of days in a school year during which a school shall be open to receive students and provide them with instruction,
@@ -1751,6 +1763,8 @@ Education Act 1998
 ( b ) the minimum number of hours of instruction in a school day or in a school week, and
 
 ( c ) any matters related to the length of the school year, the school week or the school day and the organisation and structure of such year, week or day.
+
+#### Parents' association.
 
 26. -(1) The parents of students of a recognised school may establish, and maintain from among their number, a parents' association for that school and membership of that association shall be open to all parents of students of that school.
 
@@ -1762,7 +1776,7 @@ Education Act 1998
 
 (3) The board shall promote contact between the school, parents of students in that school and the community and shall facilitate and give all reasonable assistance to parents who wish to establish a parents' association and to a parents' association when it is established.
 
-( a ) A parents' association shall, following consultation with its members, make rules governing its meetings and the business and conduct of its affairs.
+(4) ( a ) A parents' association shall, following consultation with its members, make rules governing its meetings and the business and conduct of its affairs.
 
 30
 
@@ -1778,9 +1792,9 @@ Education Act 1998
 
 [1998.]
 
-#### Information to students and student council.
-
 ( b ) Where a parents' association is affiliated to a national association of parents, the rules referred to in paragraph (a) shall be in accordance with guidelines issued by that national association of parents with the concurrence of the Minister.
+
+#### Information to students and student council.
 
 27. -(1) A board shall establish and maintain procedures for the purposes of informing students in a school of the activities of the school.
 
@@ -1942,7 +1956,7 @@ Education Act 1998
 
 ###### F43 [Appeals
 
-(1) Where a board or a person acting on behalf of a board-
+29. (1) Where a board or a person acting on behalf of a board-
 
 ( a ) permanently excludes a student from a school,
 
@@ -1992,7 +2006,7 @@ Education Act 1998
 
 'student' includes a person in relation to whom an application for admission to a school has been made and that person or his or her parents may appeal against a decision to refuse to admit him or her in the same manner as a student or his or her parents may appeal a decision under this section. ]
 
-- C10 Prospective affecting provision: section amended by Education (Miscellaneous Provisions) Act 2007 (9/2007), s. 4, not commenced as of date of revision. Not that s. 4 is prospectively repealed by Education (Admission to Schools) Act 2018 (14/2018), s. 12(d), not commenced as of date of revision.
+- C10 Prospective affecting provision: section amended by Education (Miscellaneous Provisions) Act 2007 (9/2007), s. 4, not commenced as of date of revision. Note that s. 4 is prospectively repealed by Education (Admission to Schools) Act 2018 (14/2018), s. 12(d), not commenced as of date of revision.
 
 29. -(1) Where a board or a person acting on behalf of the board- ...
 
@@ -2138,11 +2152,13 @@ PT. VI S. 29
 
 Education Act 1998
 
+[1998.]
+
 ###### Editorial Notes:
 
 - E12 Duties of Educational Welfare Board in relation to child, in respect of whom certain decisions are upheld under section, prescribed (5.07.2002) by Education (Welfare) Act 2000 (22/2000), s. 27, commenced as per s. 1(3). Section amended by Education (Miscellaneous Provisions) Act 2007 (9/2007), s. 6(b), not commenced as of date of revision. Not that s. 6 is prospectively repealed by Education (Admission to Schools) Act 2018 (14/2018), s. 12(d), not commenced as of date of revision.
 
-#### F50 [ Establish- ment of appeals panels and appeals commit- tees
+#### F50 [ Establishment of appeals panels and appeals committees
 
 29A. ... ]
 
@@ -2158,7 +2174,7 @@ Education Act 1998
 
 F50 [29A. (1) The Minister shall, from time to time, establish one or more panels of suitable persons (in this section referred to as an 'appeals panel') to consider appeals under section 29 .
 
-- A member of an appeals panel-
+(2) A member of an appeals panel-
 
 ( a ) shall be appointed to the panel for such period as the Minister may determine,
 
@@ -2168,11 +2184,11 @@ F50 [29A. (1) The Minister shall, from time to time, establish one or more panel
 
 ( d ) shall be independent and impartial in carrying out his or her functions.
 
-- Where the Minister receives a notice of appeal under section 29 , he or she shall establish a committee of 3 members of an appeals panel to consider the appeal concerned (in this section and sections 29B to 29F referred to as an 'appeals committee').
+(3) Where the Minister receives a notice of appeal under section 29 , he or she shall establish a committee of 3 members of an appeals panel to consider the appeal concerned (in this section and sections 29B to 29F referred to as an 'appeals committee').
 
-- The Minister shall nominate one member of an appeals committee to be the chairperson of the committee for the purposes of the appeal concerned and, in the case of an equal division of votes, the chairperson shall have a second or casting vote.
+(4) The Minister shall nominate one member of an appeals committee to be the chairperson of the committee for the purposes of the appeal concerned and, in the case of an equal division of votes, the chairperson shall have a second or casting vote.
 
-- The Minister may, where he or she considers it necessary to do so-
+(5) The Minister may, where he or she considers it necessary to do so-
 
 ( a ) prior to an oral hearing in respect of an appeal under section 29(1)(a) , (b) or (c)(ii) , or
 
@@ -2180,11 +2196,9 @@ F50 [29A. (1) The Minister shall, from time to time, establish one or more panel
 
 replace a member of an appeals committee (including the chairperson) with another member of an appeals panel.
 
-- The Minister may furnish such support of an administrative nature to an appeals committee as the Minister considers necessary to enable the appeals committee to perform its functions.
+(6) The Minister may furnish such support of an administrative nature to an appeals committee as the Minister considers necessary to enable the appeals committee to perform its functions.
 
-- An appeals committee shall act in accordance with procedures determined under section 29B . ]
-
-[1998.]
+(7) An appeals committee shall act in accordance with procedures determined under section 29B . ]
 
 38
 
@@ -2272,7 +2286,7 @@ Education Act 1998
 
 ( l ) such other consequential or ancillary matters as the Minister considers appropriate.
 
-- An appeals committee, an applicant and a board shall comply with procedures determined by the Minister under this section. ]
+(2) An appeals committee, an applicant and a board shall comply with procedures determined by the Minister under this section. ]
 
 #### F52 [ Review by board of decision to refuse admission
 29C. ... ]
@@ -2295,13 +2309,13 @@ F52 [29C. (1) Subject to subsection (2) and prior to making an appeal under sect
 
 within such period as may be determined by the Minister, request in writing a review by the board of the decision to refuse admission.
 
-- A request under subsection (1) shall-
+(2) A request under subsection (1) shall-
 
 ( a ) be based on the implementation of the school's admission policy and the content of its annual admission notice, and
 
 ( b ) set out the grounds of the request.
 
-- Where, following a request under subsection (1) -
+(3) Where, following a request under subsection (1) -
 
 ( a ) the request for a review has not been made within the period determined by the Minister, or
 
@@ -2329,7 +2343,7 @@ Education Act 1998
 
 (4) Subject to subsection (3) , a board shall, following a request under subsection (1) , within such period as may be determined by the Minister, review the decision to refuse admission having regard to the grounds set out in the request for review.
 
-- Following a review under subsection (4) the board shall issue the applicant with-
+(5) Following a review under subsection (4) the board shall issue the applicant with-
 
 ( a ) a statement confirming that there was no failure or error in making the decision to refuse admission, or
 
@@ -2339,13 +2353,13 @@ Education Act 1998
 
 (ii) whether or not such failure or error had a material effect on the outcome of the application.
 
-- Where a board issues a statement under subsection (5)(b) and the failure or error concerned had a material effect on the outcome of the application for admission, the board shall rectify that failure or error-
+(6) Where a board issues a statement under subsection (5)(b) and the failure or error concerned had a material effect on the outcome of the application for admission, the board shall rectify that failure or error-
 
 ( a ) where the failure or error related to the admission of a student to a school or special class, by admitting the student to the school or special class concerned, or
 
 ( b ) where the failure or error related to a student's ranking on the waiting list, by adjusting the ranking of the student on the waiting list.
 
-- In this section and section 29E 'waiting list' means, in relation to a school, the waiting list compiled in accordance with section 62(7)(i) by the school concerned. ]
+(7) In this section and section 29E 'waiting list' means, in relation to a school, the waiting list compiled in accordance with section 62(7)(i) by the school concerned. ]
 
 #### F53 [ Appeals under section 29(1)(a) , (b) and (c)(ii)
 29D. ... ]
@@ -2362,13 +2376,13 @@ Education Act 1998
 
 F53 [29D. (1) An appeals committee shall, in accordance with procedures determined by the Minister under section 29B , hold an oral hearing for the purposes of an appeal under section 29(1)(a) , (b) or (c)(ii) .
 
-- For the purposes of an appeal under section 29(1)(a) , (b) or (c)(ii) -
+(2) For the purposes of an appeal under section 29(1)(a) , (b) or (c)(ii) -
 
 ( a ) oral hearings shall be conducted with the minimum of formality consistent with giving all parties a fair hearing, and
 
 ( b ) an appeals committee may, where it is of the opinion that reaching agreement on the matters the subject of the appeal is practicable in the circumstances, provide such assistance to the parties to reach agreement as the committee considers appropriate.
 
-- For the purposes of an oral hearing under this section-
+(3) For the purposes of an oral hearing under this section-
 
 ( a ) the Child and Family Agency, or
 
@@ -2450,15 +2464,15 @@ Education Act 1998
 
 
 
-- An appeals committee shall, having considered any observations made under subsection (8) , make its final decision.
+(9) An appeals committee shall, having considered any observations made under subsection (8) , make its final decision.
 
-- Subject to subsection (9) , an appeals committee shall, in its final decision-
+(10) Subject to subsection (9) , an appeals committee shall, in its final decision-
 
 ( a ) allow the appeal, or
 
 ( b ) disallow the appeal.
 
-- An appeals committee, in its final decision, shall-
+(11) An appeals committee, in its final decision, shall-
 
 ( a ) where it allows an appeal under section 29(1)(a) , include a direction to the board to readmit the student and remove the expulsion from the record of the student,
 
@@ -2466,17 +2480,17 @@ Education Act 1998
 
 ( c ) where it allows an appeal under section 29(1)(c)(ii) , include a direction to the board to admit the student.
 
-- An appeals committee shall, by notice in writing, inform the Minister of its final decision and the reasons for its final decision and, where it allows an appeal, shall forward to the Minister a copy of the direction included in its final decision.
+(12) An appeals committee shall, by notice in writing, inform the Minister of its final decision and the reasons for its final decision and, where it allows an appeal, shall forward to the Minister a copy of the direction included in its final decision.
 
-- The Minister shall, as soon as practicable after he or she receives a notice under subsection (12) , forward to the applicant, the board and, where the Child and Family Agency or the National Council for Special Education made submissions at the oral hearing, the Agency or the Council-
+(13) The Minister shall, as soon as practicable after he or she receives a notice under subsection (12) , forward to the applicant, the board and, where the Child and Family Agency or the National Council for Special Education made submissions at the oral hearing, the Agency or the Council-
 
 ( a ) a copy of the final decision of the appeals committee and the reasons for its decision, and
 
 ( b ) where the appeals committee has allowed an appeal, a copy of the direction included in the final decision of the appeals committee.
 
-- A board shall comply with a direction under subsection (11) .
+(14) A board shall comply with a direction under subsection (11) .
 
-- In this section, 'Act of 2000' means the Education (Welfare) Act 2000. ]
+(15) In this section, 'Act of 2000' means the Education (Welfare) Act 2000. ]
 
 #### F54 [ Appeals under section 29(1)(c)(i)
 29E. ... ]
@@ -2493,13 +2507,13 @@ Education Act 1998
 
 - F54 [29E. (1) An appeals committee shall, in accordance with procedures determined by the Minister under section 29B , examine and determine an appeal under section 29(1)(c)(i) without an oral hearing and, when doing so, shall rely on the same evidence and materials as were available to and relied upon when the decision to refuse admission was made.
 
-- Following the determination of an appeal under section 29(1)(c)(i) , an appeals committee shall make a decision to-
+(2) Following the determination of an appeal under section 29(1)(c)(i) , an appeals committee shall make a decision to-
 
 ( a ) allow the appeal, or
 
 ( b ) disallow the appeal.
 
-- Where an appeals committee allows an appeal under section 29(1)(c)(i) its decision shall include a direction to the board to-
+(3) Where an appeals committee allows an appeal under section 29(1)(c)(i) its decision shall include a direction to the board to-
 
 ( a ) admit the student, or
 
@@ -2519,21 +2533,21 @@ Education Act 1998
 
 ( b ) adjust the ranking of the student on the waiting list.
 
-- An appeals committee shall-
+(4) An appeals committee shall-
 
 ( a ) by notice in writing, inform the Minister of a decision under subsection (2) , and the reasons for the decision, and
 
 ( b ) where it allows an appeal, forward to the Minister a copy of the direction issued under subsection (3) .
 
-- The Minister shall, as soon as practicable after he or she receives a notice under subsection (4) forward to the applicant and the board-
+(5) The Minister shall, as soon as practicable after he or she receives a notice under subsection (4) forward to the applicant and the board-
 
 ( a ) a copy of the decision of the appeals committee under subsection (2) and the reasons for its decision, and
 
 ( b ) where the appeals committee has allowed an appeal, a copy of the direction of the appeals committee under subsection (3) .
 
-- A board shall comply with a direction under subsection (3) . ]
+(6) A board shall comply with a direction under subsection (3) . ]
 
-#### F55 [ Miscella- neous provisions in relation to appeals under section 29
+#### F55 [ Miscellaneous provisions in relation to appeals under section 29
 
 29F. ... ]
 
@@ -2652,7 +2666,7 @@ Education Act 1998
 
 ( e ) shall not require any student to attend instruction in any subject which is contrary to the conscience of the parent of the student or in the case of a student who has reached the age of 18 years, the student.
 
-- The Minister may-
+(3) The Minister may-
 
 ( a ) consult with the National Council for Curriculum and Assessment and such other persons or bodies of persons as the Minister considers appropriate on any matter relating to the curriculum for recognised schools, and
 
@@ -2791,6 +2805,8 @@ Education Act 1998
 
 - C18 Prospective affecting provision: para. (g) repealed by Education (Admission to Schools) Act 2018 (14/2018), s. 12(a), not commenced as of date of revision.
 
+( g ) F59 [ ... ]
+
 ###### Editorial Notes:
 
 - E14 Power pursuant to section exercised (21.04.2015) by Education Act 1998 (Publication of Inspection Reports on Schools and Centres for Education) Regulations 2015 (S.I. No. 153 of 2015).
@@ -2837,7 +2853,7 @@ Education Act 1998
 
 (4) A committee established in accordance with subsection (3) shall be a body corporate with perpetual succession and with power to sue and may be sued in its corporate name and no action shall lie against a member of a board in respect of anything done by that member in good faith and in pursuance of their functions as such members.
 
-- The Minister may withdraw recognition from an education support centre.
+(5) The Minister may withdraw recognition from an education support centre.
 
 (6) The Minister may, from time to time, make regulations relating to all or any of the following matters:
 
@@ -2875,7 +2891,7 @@ Education Act 1998
 
 - E17 Power pursuant to subs. (6) exercised (1.09.2017) by Education Support Centres (Appointment and Secondment of Directors) Regulations 2017 (S.I. No. 394 of 2017), in effect as per reg. 1(2).
 
-#### F60 [ Additional provision in respect of chil- dren with special educational needs
+#### F60 [ Additional provision in respect of children with special educational needs
 
 37A. ... ]
 
@@ -2891,9 +2907,9 @@ Education Act 1998
 
 F60 [37A. (1) Where the Council is of the opinion that there is insufficient capacity in an area in relation to the provision of education for children with special educational needs, the Council shall inform the Minister by notice in writing of its opinion and the reasons for its opinion and shall specify the type of provision in respect of which there is insufficient capacity.
 
-- Where, following consultation with the Minister and having regard to any information provided to the Council by the Minister in relation to any planned additional provision of education for children with special educational needs and available land and buildings, the Council remains of the opinion that there is insufficient capacity in an area for the provision of education to children with special educational needs, it shall prepare and submit a report on the matter to the Minister.
+(2) Where, following consultation with the Minister and having regard to any information provided to the Council by the Minister in relation to any planned additional provision of education for children with special educational needs and available land and buildings, the Council remains of the opinion that there is insufficient capacity in an area for the provision of education to children with special educational needs, it shall prepare and submit a report on the matter to the Minister.
 
-- A report under subsection (2) shall specify-
+(3) A report under subsection (2) shall specify-
 
 ( a ) the existing provision of education for children with special educational needs in the area concerned, having regard to the generality of provision of education within the area,
 
@@ -2905,9 +2921,9 @@ F60 [37A. (1) Where the Council is of the opinion that there is insufficient cap
 
 ( e ) such other matters as the Council considers appropriate.
 
-- Prior to preparing a report under subsection (2) , the Council shall consult with the Minister, bodies representative of patrons, national associations of parents, recognised school management organisations and recognised trade unions and staff associations representing teachers.
+(4) Prior to preparing a report under subsection (2) , the Council shall consult with the Minister, bodies representative of patrons, national associations of parents, recognised school management organisations and recognised trade unions and staff associations representing teachers.
 
-( a ) Where, on receipt of a report submitted under subsection (2) , the Minister is of the opinion that a relevant person in respect of a school referred to in the report should
+(5) ( a ) Where, on receipt of a report submitted under subsection (2) , the Minister is of the opinion that a relevant person in respect of a school referred to in the report should
 
 50
 
@@ -2983,7 +2999,7 @@ Education Act 1998
 
 ( c ) any other matter the Minister considers appropriate.
 
-( a ) The board of management shall, not later than 14 days from the service of a notice under subsection (11) , by notice in writing to the Minister-
+(12) ( a ) The board of management shall, not later than 14 days from the service of a notice under subsection (11) , by notice in writing to the Minister-
 
 (i) agree to increasing its provision for children with special educational needs in accordance with the terms of the notice under subsection (11) , or
 
@@ -3017,7 +3033,7 @@ Education Act 1998
 
 (19) The patron and, following a direction by the patron, the board of management shall comply with a Ministerial direction.
 
-( a ) The following documents shall be published in accordance with paragraph (b) :
+(20) ( a ) The following documents shall be published in accordance with paragraph (b) :
 
 (i) any notices issued by the Minister under this section;
 
@@ -3045,7 +3061,7 @@ Education Act 1998
 
 ( b ) The Minister shall publish the documents referred to in paragraph (a) on the website of the Department of Education and Skills not later than 7 days from the date on which he or she issues or receives them, or, in the case of a draft direction referred to in paragraph (a)(iii) or a Ministerial direction, not later than 7 days from the date he or she serves the draft direction or direction concerned.
 
-- The Minister shall-
+(21) The Minister shall-
 
 ( a ) not later than 3 years after section 8 of the Education (Admission to Schools) Act 2018 comes into operation, commence a review of the operation of this section, and
 
@@ -3084,7 +3100,7 @@ Education Act 1998
 
 (2) The Council shall be a body corporate with perpetual succession and an official seal and shall have power to sue and may be sued in its corporate name and, with the consent of the Minister, to acquire, hold and dispose of land or an interest in land and to acquire, hold and dispose of other property.
 
-- Schedule 1 shall apply to the Council.
+(3) Schedule 1 shall apply to the Council.
 
 #### Composition and appointment.
 40. -(1) The composition of the Council shall be determined by order, made by the Minister following consultation with patrons, national associations of parents, recognised school management organisations, recognised trade unions and staff associations representing teachers and with such other persons or bodies of persons as the Minister considers appropriate.
@@ -3146,9 +3162,9 @@ as the Minister considers appropriate.
 
 [[START OF PAGE 61]]
 
-[ PT. VII S. 41
+PT. VII S. 41
 
-No. 51. ]
+[ No. 51. ]
 
 Education Act 1998
 
@@ -3182,7 +3198,7 @@ Education Act 1998
 
 ( l ) to do all such acts and things as may be necessary to further the objects of the Council, including such functions in relation to review and reform of the curriculum in schools and the assessment of the outcomes of the education provided in schools as the Minister shall from time to time direct.
 
-- In carrying out its functions the Council shall-
+(3) In carrying out its functions the Council shall-
 
 ( a ) have regard to the implications of its advice for the resources, including financial resources, available and shall quantify, as far as practicable, the resources necessary to give effect to any of its proposals,
 
@@ -3234,7 +3250,7 @@ Education Act 1998
 
 #### Chief executive officer.
 
-43. -(1) The Minister shall, from time to time, appoint to the Council in a wholetime capacity a chief executive officer who shall carry on, manage and generally control the administration of the Council and shall manage and control the staff of the Council.
+43. -(1) The Minister shall, from time to time, appoint to the Council in a whole-time capacity a chief executive officer who shall carry on, manage and generally control the administration of the Council and shall manage and control the staff of the Council.
 
 (2) The person who, immediately before the day on which the chief executive officer is appointed under subsection (1) , holds the office of chief executive officer of the body of persons known as National Council for Curriculum and Assessment, being an unincorporated and non-statutory body of persons appointed by the Minister shall, if he or she so consents, be appointed as the first chief executive officer of the Council.
 
@@ -3448,7 +3464,7 @@ F63 [53. (1) Notwithstanding any other enactment, the Minister may refuse access
 
 (b) directs the public body to grant access to that information.
 
-- The specified information is any information-
+(4) The specified information is any information-
 
 (a) which would enable the compilation of information (that is not otherwise available to the general public) in relation to the comparative performance of-
 
@@ -3493,11 +3509,16 @@ Education Act 1998
 'public body' has the same meaning as it has in the Freedom of Information Act 2014. ]
 
 ##### Annotations
---- | ---
-F63 | Substituted(5.05.2015)by Education(MiscellaneousProvisions)Act2015 (11/2015),s.7,commenced on enactment.
+
+###### Amendments:
+
+- F63 Substituted (5.05.2015) by Education (Miscellaneous Provisions) Act 2015 (11/2015), s. 7, commenced on enactment.
+
 ###### Editorial Notes:
-E26 | Power pursuant to section exercised (11.08.2015) by Education Act 1998 (Section 53) (Prescribed Public Bodies) Regulations 2015 (S.I. No. 353 of 2015), in effect as per reg. 2.
-E27 | Previous affecting provision: section amended (17.05.2013) by Education (Miscellaneous Provisions) Act 2007 (9/2007), s. 5, S.I. No. 166 of 2013; substituted as per F-note above.
+
+- E26 Power pursuant to section exercised (11.08.2015) by Education Act 1998 (Section 53) (Prescribed Public Bodies) Regulations 2015 (S.I. No. 353 of 2015), in effect as per reg. 2.
+
+- E27 Previous affecting provision: section amended (17.05.2013) by Education (Miscellaneous Provisions) Act 2007 (9/2007), s. 5, S.I. No. 166 of 2013; substituted as per F-note above.
 
 ## PART IX
 
@@ -3586,9 +3607,7 @@ the functions so defined.
 ( d ) the furnishing to the Minister by such body from time to time of information regarding the performance of its functions, and the furnishing of such information to the Minister at any time at his or her request.
 
 #### Grants.
-58. -In each financial year the Minister, with the concurrence of the Minister for Finance, out of monies provided by the Oireachtas, may make to a body appointed under section 54 a grant for the purposes of expenditure by that body in the perfor-
-
-mance of its functions.
+58. -In each financial year the Minister, with the concurrence of the Minister for Finance, out of monies provided by the Oireachtas, may make to a body appointed under section 54 a grant for the purposes of expenditure by that body in the performance of its functions.
 
 62
 
@@ -3605,10 +3624,36 @@ Education Act 1998
 [1998.]
 
 ##### Annotations
---- | --- | ---
+
 ###### Modifications (not altering text):
-C20 | Functions transferred and reference to 'Minister for Finance' construed (29.07.2011) by Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011 (S.I. No. 418 of 2011), arts. 3 and 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9. 3. The functions conferred on the Minister for Finance by or under the provisions of -
-1922 to 2011 Enactments Number and Year | Short Title | Provision
+
+- C20 Functions transferred and reference to 'Minister for Finance' construed (29.07.2011) by Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011 (S.I. No. 418 of 2011), arts. 3 and 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+
+3. The functions conferred on the Minister for Finance by or under the provisions of -
+
+( a ) the enactments specified in Schedule 1, and
+
+( b ) the statutory instruments specified in Schedule 2,
+
+are transferred to the Minister for Public Expenditure and Reform.
+
+...
+
+5. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+
+...
+
+Schedule 1
+
+Enactments
+
+...
+
+Part 2
+
+1922 to 2011 Enactments
+
+Number and Year | Short Title | Provision
 (1) | (2) | (3)
 ... | ... | ...
 No. 51 of 1998 | Education Act 1998 | Sections 12(1), 13(12), 23(1), 24(2)(5) and (6), 31(2) and (6), 32(7), 43(3), 44(1) and (2), 45, 46(1) and 58; Schedule 1, paragraph 9
@@ -3821,7 +3866,7 @@ Education Act 1998
 
 F68 [62. (1) Subject to this Act, regulations under this Act and such terms and conditions as may be attached to recognition of a school by the Minister under section 10 , the board of the school shall following consultation with the patron, parents of students attending the school, the staff of the school, and such other persons as the Minister may determine, prepare a draft admission policy in respect of the school.
 
-( a ) The first draft admission policy under subsection (1) shall be prepared by the board as soon as practicable and in any event not later than 3 months after the commencement of this subsection.
+(2) ( a ) The first draft admission policy under subsection (1) shall be prepared by the board as soon as practicable and in any event not later than 3 months after the commencement of this subsection.
 
 ( b ) Where a board proposes making any amendments to its admission policy the board shall prepare a revised draft admission policy and this section shall, with any necessary modifications, apply to that draft as if it were a draft admission policy under subsection (1) .
 
@@ -3919,9 +3964,9 @@ specified in a list published by the Minister from time to time;
 
 [[START OF PAGE 75]]
 
-[ PT. IX S. 62
+PT. IX S. 62
 
-No. 51. ]
+[ No. 51. ]
 
 Education Act 1998
 
@@ -3997,7 +4042,7 @@ and
 
 a student's academic ability, skills or aptitude may be considered or taken into account insofar only as is necessary in order to ascertain whether or not the student has the category of special educational needs concerned.
 
-( a ) Notwithstanding subsection (7)(e)(iii) , and subject to this subsection, an Irish language school may prioritise the admission of a student where the school is satisfied that the student has attained a level of fluency in the Irish language and that the said fluency would be likely to regress were the student not admitted to an Irish language school.
+(9) ( a ) Notwithstanding subsection (7)(e)(iii) , and subject to this subsection, an Irish language school may prioritise the admission of a student where the school is satisfied that the student has attained a level of fluency in the Irish language and that the said fluency would be likely to regress were the student not admitted to an Irish language school.
 
 ( b ) An applicant may, when making an application for admission to an Irish language school, include a statement confirming that the student in respect of whom the application concerned relates has attained a level of fluency in the Irish language and that the said fluency would be likely to regress were the student not admitted to an Irish language school.
 
@@ -4037,11 +4082,11 @@ Education Act 1998
 
 ( b ) a parent or grandparent of the student concerned having previously attended the school, provided the maximum number of places filled pursuant to that criterion does not exceed 25 per cent of the available places as set out in the school's annual admission notice for the school year concerned.
 
-( a ) Notwithstanding subsection (7)(e)(vii) , a school may apply a selection criterion based on the date on which an application for admission or an expression of interest in applying for admission was received by the school where, prior to the coming into operation of this subsection the school had confirmed, in writing, to the person who made the application or expression of interest that the name of the child in respect of whom the application or expression of interest had been made had been placed on a list maintained by the school for the purpose of allocating school places in the school year concerned.
+(11) ( a ) Notwithstanding subsection (7)(e)(vii) , a school may apply a selection criterion based on the date on which an application for admission or an expression of interest in applying for admission was received by the school where, prior to the coming into operation of this subsection the school had confirmed, in writing, to the person who made the application or expression of interest that the name of the child in respect of whom the application or expression of interest had been made had been placed on a list maintained by the school for the purpose of allocating school places in the school year concerned.
 
 ( b ) Paragraph (a) shall cease to have effect 5 years after it comes into operation.
 
-- In this section-
+(12) In this section-
 
 'code of behaviour' has the same meaning as it has in the Education (Welfare) Act 2000;
 
@@ -4063,9 +4108,9 @@ Education Act 1998
 
 F69 [63. (1) Subject to this Act and any regulations made under this Act, the board of a school shall, each year, prepare a notice (in this Part referred to as an 'annual admission notice') in respect of the admission of students to the school for the school year concerned.
 
-- The board shall, prior to accepting applications for admission to the school for the school year concerned, in the prescribed manner and within the prescribed period, publish the annual admission notice.
+(2) The board shall, prior to accepting applications for admission to the school for the school year concerned, in the prescribed manner and within the prescribed period, publish the annual admission notice.
 
-- An annual admission notice shall-
+(3) An annual admission notice shall-
 
 ( a ) provide details in relation to how to obtain-
 
@@ -4103,7 +4148,7 @@ Education Act 1998
 
 (i) the number of places being made available in the intake group,
 
-(ii) in the case of a boarding school, the number of residential and the number of nonresidential places being made available, and
+(ii) in the case of a boarding school, the number of residential and the number of non-residential places being made available, and
 
 (iii) in the case of a school with a special class, the number of places being made available in the special class concerned,
 
@@ -4171,7 +4216,7 @@ Education Act 1998
 
 F71 [65. (1) The Minister may, having regard to the principles of inclusion and equality of access to and participation in education and the principles of efficiency, effectiveness, clarity and fairness for applicants and schools, and following consultation with bodies representative of patrons, national associations of parents, recognised school management organisations and recognised trade unions and staff associations representing teachers, make regulations for the purpose of the preparation and publication by schools of admission policies and the admission of students to schools.
 
-- Regulations under this section may-
+(2) Regulations under this section may-
 
 ( a ) contain different provisions in relation to different categories of schools or different categories of students, and
 
@@ -4254,7 +4299,7 @@ Education Act 1998
 
 ( b ) the Minister considers, having regard to the effective and efficient use of resources, that it is in the best interests of the students in an area that the boards in respect of which the direction is to apply shall co-operate with each other in relation to the admission processes of the schools concerned.
 
-- A direction under this section-
+(3) A direction under this section-
 
 ( a ) shall be in writing,
 
@@ -4276,7 +4321,7 @@ Education Act 1998
 
 ( c ) may set out procedures in relation to co-operation by the boards in respect of the admission processes of the schools concerned.
 
-- The Minister, where he or she considers it appropriate to do so, following consultation with the patron or patrons and the boards of the schools concerned, may-
+(4) The Minister, where he or she considers it appropriate to do so, following consultation with the patron or patrons and the boards of the schools concerned, may-
 
 ( a ) amend a direction under this section,
 
@@ -4284,9 +4329,9 @@ Education Act 1998
 
 ( c ) cancel a direction under this section.
 
-- A board shall comply with a direction under this section.
+(5) A board shall comply with a direction under this section.
 
-( a ) A board may, in order to facilitate the efficient admission of students, provide a patron or another board with a list of the students in relation to whom-
+(6) ( a ) A board may, in order to facilitate the efficient admission of students, provide a patron or another board with a list of the students in relation to whom-
 
 (i) an application for admission to the school concerned has been received,
 
@@ -4310,7 +4355,7 @@ Education Act 1998
 
 - F72 Inserted (3.10.2018) by Education (Admission to Schools) Act 2018 (14/2018), s. 9, S.I. No. 396 of 2018.
 
-#### F73 [ Designation of school by Council or Child and Family Agen- cy
+#### F73 [ Designation of school by Council or Child and Family Agency
 
 67. ... ]
 
@@ -4346,7 +4391,7 @@ F73 [67. (1) In the case of a child with special educational needs, the Council 
 
 designate the school which the child is to attend and that school shall admit the child upon being directed by the Council to do so.
 
-- In making a designation under subsection (1) , the Council shall have regard to-
+(2) In making a designation under subsection (1) , the Council shall have regard to-
 
 ( a ) the special educational needs of the child concerned,
 
@@ -4368,7 +4413,7 @@ designate the school which the child is to attend and that school shall admit th
 
 designate the school which the child is to attend and that school shall admit the child, upon being directed by the Agency to do so.
 
-- In making a designation under subsection (3) , the Agency shall have regard to-
+(4) In making a designation under subsection (3) , the Agency shall have regard to-
 
 ( a ) the wishes of the child's parents,
 
@@ -4426,7 +4471,7 @@ a committee shall give reasons for its decision.
 
 (11) The Minister shall appoint one or more than one committee (in this section referred to as an 'appeals committee') to hear and determine appeals under this section.
 
-- An appeals committee shall be independent in the performance of its functions.
+(12) An appeals committee shall be independent in the performance of its functions.
 
 (13) An appeals committee shall consist of a chairperson and such number of ordinary members as may be determined by the Minister, and, in the case of an equal division of votes, the chairperson shall have a casting vote.
 
@@ -4460,8 +4505,6 @@ Education Act 1998
 
 [1998.]
 
-#### F74 [ Direction to board and appointment of independent person by patron
-
 ( c ) provide for any other related or ancillary matter.
 
 (20) In this section-
@@ -4475,6 +4518,8 @@ Education Act 1998
 'Council' means the National Council for Special Education;
 
 'school' includes a centre for education. ]
+
+#### F74 [ Direction to board and appointment of independent person by patron
 
 68. ... ]
 
@@ -4490,9 +4535,9 @@ Education Act 1998
 
 F74 [68. (1) Subject to this section, the patron of a school may issue a direction to the board of a school and, where the board has failed to comply with the direction, the patron may appoint an independent person.
 
-- A patron shall, by notice in writing, inform a board where he or she proposes to issue a direction under this section.
+(2) A patron shall, by notice in writing, inform a board where he or she proposes to issue a direction under this section.
 
-- A notice under subsection (2) shall-
+(3) A notice under subsection (2) shall-
 
 ( a ) state that the patron is of the opinion that-
 
@@ -4516,7 +4561,7 @@ F74 [68. (1) Subject to this section, the patron of a school may issue a directi
 
 ( d ) state that the board may make representations to the patron in relation to the proposed direction not later than 14 days after the service of the notice.
 
-- The patron may issue a direction in writing to the board where, having considered any representations made by the board pursuant to a notice under subsection (2) , the patron remains of the opinion that subparagraph (i) , (ii) , (iii) , (iv) or (v) of subsection (3)(a) applies.
+(4) The patron may issue a direction in writing to the board where, having considered any representations made by the board pursuant to a notice under subsection (2) , the patron remains of the opinion that subparagraph (i) , (ii) , (iii) , (iv) or (v) of subsection (3)(a) applies.
 
 78
 
@@ -4532,7 +4577,7 @@ Education Act 1998
 
 [1998.]
 
-- A direction under this section shall-
+(5) A direction under this section shall-
 
 ( a ) state that the patron is of the opinion, having considered any representations made by the board pursuant to a notice under subsection (2), that he or she should issue a direction to the board,
 
@@ -4542,7 +4587,7 @@ Education Act 1998
 
 ( d ) set out the period within which the remedial action shall be taken.
 
-- A board shall comply with a direction under this section.
+(6) A board shall comply with a direction under this section.
 
 (7) Where the patron is of the opinion that the board has failed to comply with a direction under this section, the patron may, by notice in writing, inform the board that he or she proposes to appoint an independent person under subsection (9)(b).
 
@@ -4604,7 +4649,7 @@ F75 [69. (1) Subject to this section, the Minister may issue a direction to a bo
 
 (2) The Minister shall, by notice in writing, inform the patron and the board where he or she proposes to issue a direction under this section.
 
-- A notice under subsection (2) shall-
+(3) A notice under subsection (2) shall-
 
 ( a ) state that the Minister is of the opinion that-
 
@@ -4678,11 +4723,11 @@ are not being so admitted, set out the remedial action which he or she considers
 
 ( e ) set out the period within which the remedial action shall be taken.
 
-- The Minister shall forward a copy of a direction under this section to the patron.
+(11) The Minister shall forward a copy of a direction under this section to the patron.
 
-- A board shall comply with a direction under this section.
+(12) A board shall comply with a direction under this section.
 
-- The patron, board, teachers and other members of the staff of the school shall co-operate (including giving access to all relevant records) with an authorised person in relation to the performance by that person of his or her functions under this Act.
+(13) The patron, board, teachers and other members of the staff of the school shall co-operate (including giving access to all relevant records) with an authorised person in relation to the performance by that person of his or her functions under this Act.
 
 (14) An authorised person shall be paid by the Minister such remuneration (if any) and such allowances for expenses as the Minister, with the approval of the Minister for Public Expenditure and Reform, may determine. ]
 
@@ -4700,7 +4745,7 @@ are not being so admitted, set out the remedial action which he or she considers
 
 F76 [70. (1) Where the Minister is of the opinion that a board has failed to comply with a direction under section 69 , he or she may, by notice in writing, inform the patron and the board.
 
-- A notice under subsection (1) shall-
+(2) A notice under subsection (1) shall-
 
 ( a ) state that the Minister is of the opinion that the board has failed to comply with a direction under section 69 ,
 
@@ -4714,9 +4759,9 @@ F76 [70. (1) Where the Minister is of the opinion that a board has failed to com
 
 [[START OF PAGE 88]]
 
-[ PT. IX S. 70
+PT. IX S. 70
 
-No. 51. ]
+[ No. 51. ]
 
 Education Act 1998
 
@@ -4724,9 +4769,9 @@ Education Act 1998
 
 (3) Where the Minister remains of the opinion, having considered any representations made pursuant to a notice under subsection (1) , that the board has failed to comply with a direction under section 69 , he or she may request the patron of the school concerned to direct the board to comply with the direction under section 69 .
 
-- A patron shall comply with a request of the Minister under subsection (3) .
+(4) A patron shall comply with a request of the Minister under subsection (3) .
 
-- A board shall comply with a direction of the patron under subsection (3) .
+(5) A board shall comply with a direction of the patron under subsection (3) .
 
 (6) Where, following a direction by the patron to the board to comply with a direction under section 69 , the patron is of the opinion that the board has failed to comply with the direction the patron shall, by notice in writing, inform the board.
 
@@ -4816,7 +4861,7 @@ Education Act 1998
 
 (2) A deputy-chairperson of the Council shall, unless that member sooner resigns, hold office until the expiration of that member's period of office as a member of the Council.
 
-(1) Where a member of the Council (including the chairperson)-
+7. (1) Where a member of the Council (including the chairperson)-
 
 ( a ) accepts nomination as a member of Seanad Éireann, or
 
@@ -4858,7 +4903,7 @@ shall disclose to the Council the fact of the interest and the nature thereof an
 
 (3) The quorum for a meeting of the Council shall be one third of the total number of members, rounded up to the next whole number, plus one.
 
-- At a meeting of the Council-
+11. At a meeting of the Council-
 
 ( a ) the chairperson shall, if present, be the chairperson of the meeting,
 
@@ -4876,17 +4921,17 @@ Education Act 1998
 
 [1998.]
 
-Section 50 .
-
 ( b ) if and so long as the chairperson is not present or if the office of chairperson is vacant, the deputy-chairperson who is present or if both deputy-chairpersons are present the deputy-chairperson as chosen by the members of the Council who are present shall, be chairperson of the meeting,
 
-( c ) if and so long as the chairperson is not present or the office of chairperson is vacant, and a deputy-chairperson is not present or the offices of deputychairperson are vacant, the members of the Council who are present shall choose one of their number to be chairperson of the meeting.
+( c ) if and so long as the chairperson is not present or the office of chairperson is vacant, and a deputy-chairperson is not present or the offices of deputy-chairperson are vacant, the members of the Council who are present shall choose one of their number to be chairperson of the meeting.
 
-- Every question at a meeting of the Council shall be determined by a majority of the votes of members present and voting on the question and, in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
+12. Every question at a meeting of the Council shall be determined by a majority of the votes of members present and voting on the question and, in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
 
 13. Subject to paragraph 10 (3) , the Council may act notwithstanding one or more than one vacancy among its members.
 
 14. Subject to this Act, the Council shall regulate, by standing orders or otherwise, its procedure and business.
+
+Section 50 .
 
 ## SCHEDULE 2
 
