@@ -2,28 +2,30 @@
 
 # Guide Book for Teachers
 
-Comprehensive School Health Programme Ministry of Health and Ministry of Education Published by the Comprehensive School Health Programme Ministry of Health and Ministry of Education Copy right © Ministry of Health and Ministry of Education Royal Government of Bhutan
+Comprehensive School Health Programme
+Ministry of Health and Ministry of Education
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-First Edition
+Published by the Comprehensive School Health Programme
+Ministry of Health and Ministry of Education
 
-: 2008
+Copy right © Ministry of Health and Ministry of Education
+Royal Government of Bhutan
 
-Second Edition
-
-: 2009
+First Edition : 2008
+Second Edition : 2009
 
 Coordinated and compiled by:
 
-Ms Sonam Peldon, Ministry of Health Ms Karma Dechen, Ministry of Education
+Ms Sonam Peldon, Ministry of Health
+Ms Karma Dechen, Ministry of Education
 
 Supported by UNFPA
 
 Printing:
-
 KLK anImagine, Thimphu
 
 [[END OF PAGE 2]]
@@ -32,13 +34,52 @@ KLK anImagine, Thimphu
 
 ## CONTENTS
 
+Page No.
+
+Foreword | v
+--- | ---
+Acknowledgement | vi
+Background | 1 – 3
+About the Guide Book | 4 – 6
+
 ### MODULES
+
+Module 1 Introduction to Life Skills | 7 – 16
+--- | ---
+Module 2 Making Home a Healthy Environment | 17 – 22
+Module 3 Personal Hygiene Promotes Health | 23 – 27
+Module 4 Joys & Dilemmas of Growing Up | 28 – 34
+Module 5 Learning To Manage Time | 35 – 39
+Module 6 Stress And Its Impact On Us | 40 – 47
+Module 7 Television Viewing And Our Health | 48 – 54
+Module 8 I Want To Continue Going To School | 55 – 59
+Module 9 I Talk To My Parents Everyday | 60 – 64
+Module 10 Personal Care During Menstruation | 65 – 73
+Module 11 Problem Solving For Better Health | 74 – 78
 
 i
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+Module 12 No more sexual harassment | 79 – 84
+--- | ---
+Module 13 Conflict Resolution And Negotiation For Better Health | 85 – 93
+Module 14 Friendship With HIV Positive Person | 94 – 98
+Module 15 How To Say No | 99 – 103
+Module 16 Eating Wisely | 104 – 110
+Module 17 Learning To Apply Life Skills | 111 – 119
+Module 18 Emotional Growth And Maturity | 120 – 125
+Module 19 Let Us Put A Stop To Substance Abuse | 126 – 135
+Module 20 Preparing Well For My Examinations | 136 – 144
+Module 21 Who Am I (Understanding Ourselves) | 145 – 149
+Module 22 Value Of Friendship | 150 – 154
+Module 23 Clearing Myths And Misconception | 155 – 159
+Module 24 Can I Improve My Memory ? | 160 – 165
+Module 25 Should I Change My Eating Pattern ? | 166 – 172
+Module 26 Understanding The Male Body | 173 – 180
+Module 27 Early Sex And Its Consequences | 181 – 186
 
 ii
 
@@ -93,17 +134,25 @@ iv
 
 [[START OF PAGE 7]]
 
+## FOREWORD
+
 Bhutan has a young population. Adolescents age group of 10-19 years constitute about one fourth of the population of Bhutan. The adolescent girls and boys have specific health needs that are required to be addressed so that they remain healthy. The needs may vary from increased nutritional requirement, information about growing up, counseling, responsible decision making, withstanding peer pressure, skills to remain away from harmful substances, develop their self esteem of specific health services for adolescents. The adolescents also need to be provided with the relevant skills to deal with the changes that globalization brings and acquire the relevant information to make healthy and responsible decisions.
 
 The Royal Government is fully aware of the present issues that adversely impact the health of adolescents in terms of adolescent pregnancy, substance abuse, the emerging threats of rising incidences of Non Communicable Diseases, HIV/AIDS, violence, injuries and is committed to address them in a holistic manner. All these issues not only negatively impact the public health indicators but also the health determinants for future health and thus need to be urgently addressed.
 
-To address the health needs of adolescents in schools, the Comprehensive School Health Program was instituted both in the Ministry of Health and Ministry of Education. The Comprehensive School Health Program will promote and educate adolescents in schools on adolescent health with the institutionalized support of  teachers and School Health Coordinators, who are expected to respond to the physical, emotional and social health needs of the adolescents in schools.
+To address the health needs of adolescents in schools, the Comprehensive School Health Program was instituted both in the Ministry of Health and Ministry of Education. The Comprehensive School Health Program will promote and educate adolescents in schools on adolescent health with the institutionalized support of teachers and School Health Coordinators, who are expected to respond to the physical, emotional and social health needs of the adolescents in schools.
 
-This ' Guidebook for Teachers on Adolescent Health' is designed to provide teachers with appropriate material that they can use in the classroom setting to build the information and skills of students.  It is a simple, clear, user friendly guide which has been developed after interaction and indepth understanding of issues with Senior Program Managers, School Health Coordinators, Doctors, Health Workers, Teachers and students to be used under the Comprehensive School Health Program of the Ministry of Health and the Ministry of Education.  The sessions in the guidebook are designed to be age appropriate and provide a platform for enhancing information and skills of adolescents to protect and promote their health. It is hoped that this guidebook will be of immense use and be extensively used by our teachers.
+This “Guidebook for Teachers on Adolescent Health” is designed to provide teachers with appropriate material that they can use in the classroom setting to build the information and skills of students. It is a simple, clear, user friendly guide which has been developed after interaction and in-depth understanding of issues with Senior Program Managers, School Health Coordinators, Doctors, Health Workers, Teachers and students to be used under the Comprehensive School Health Program of the Ministry of Health and the Ministry of Education. The sessions in the guidebook are designed to be age appropriate and provide a platform for enhancing information and skills of adolescents to protect and promote their health. It is hoped that this guidebook will be of immense use and be extensively used by our teachers.
 
-Though primarily designed for the use of school teachers, the sessions can be adapted and utilized to reach 'out of school' adolescents also.
+Though primarily designed for the use of school teachers, the sessions can be adapted and utilized to reach “out of school” adolescents also.
 
-## FOREWORD
+(Sangay Zam)
+Secretary
+Ministry of Education
+
+(Dr. Gado Tshering)
+Secretary
+Ministry of Health
 
 v
 
@@ -123,7 +172,7 @@ Our sincere thanks and appreciation to WHO for their continued support and techn
 
 - Mr. Sonam Dorji, Chief Programme Officer, PPD, MoH
 
-- Dr. Neena Raina, RA -AHD, WHO/SEARO
+- Dr. Neena Raina, RA –AHD, WHO/SEARO
 
 - Prof. Davison Munodawafa, RA, HPE, WHO/SEARO
 
@@ -144,6 +193,8 @@ vi
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+## BACKGROUND
 
 ### What are lifeskills?
 
@@ -188,8 +239,6 @@ According to the WHO/SEARO Regional Framework Life skills are a group of psychol
 The Skills Based Health Education approach states that LSE helps children and adolescents learn how to deal with the difficulties of daily life, growing-up and to deal with risk situations. A well-designed and implemented LSE curriculum within the school and the community addresses diverse needs and
 
 1
-
-## BACKGROUND
 
 [[END OF PAGE 9]]
 
@@ -381,6 +430,24 @@ Note: All sessions have been designed for one period i.e. for 45 minutes. Almost
 
 Suggested Age Group 8 years and above
 
+### INTRODUCTION TO LIFE SKILLS
+
+#### Objectives
+
+By the end of the session, the students will be able to:
+
+- Name the ten core Life Skills.
+- Name the three broad classifications of Life Skills.
+- Differentiate between skills and Life Skills.
+
+#### Life Skills being used
+
+Critical Thinking, Creative Thinking and Effective Communication.
+
+#### Advance Preparations
+
+Chalk, chalkboard, Prepared “skills- chart,” chart with definition of Life Skills, Chart explaining core life skills and the three categories, handouts, cardboard box, 8-10 chits containing the names of different jobs (Cook, Driver, Teacher, Nurse, Dancer, Babysitter, Student and Carpenter etc.) If charts are not available then write them on the blackboard.
+
 #### Activity 1
 
 Greet the participants. Tell them that from today we are going to start working in an important area that will help us throughout our life. Tell them they are going to learn about important skills that will be of importance in every sphere of life.
@@ -399,29 +466,7 @@ Expected Response: The students would guess what the person is doing. Some may n
 
 ##### Guidelines for the facilitator:
 
-The students are likely to come up with various answers: cooking, driving, teaching nursing, dancing, babysitting etc. Encourage the participants and make a list on the board. You can modify the listonly keep in mind that the four categories (Literacy skills, Livelihood skills, Professional skills, and Functional skills) should be represented in the list.
-
-### INTRODUCTION TO LIFE SKILLS
-
-#### Objectives
-
-By the end of the session, the students will be able to:
-
-- 9 Name the ten core Life Skills.
-
-- 9 Name the three broad classifications of Life Skills.
-
-- 9 Differentiate between skills and Life Skills.
-
-#### Life Skills being used
-
-Critical Thinking, Creative Thinking and Effective Communication.
-
-#### Advance Preparations
-
-C h a l k , chalkboard, P r e p a r e d
-
-'skills- chart,' chart with definition of Life Skills, Chart explaining core life skills and the three categories, handouts, cardboard box, 8-10 chits containing the names of different jobs (Cook, Driver, Teacher, Nurse, Dancer, Babysitter, Student and Carpenter etc.) If charts are not available then write them on the blackboard.
+The students are likely to come up with various answers: cooking, driving, teaching nursing, dancing, babysitting etc. Encourage the participants and make a list on the board. You can modify the list-only keep in mind that the four categories (Literacy skills, Livelihood skills, Professional skills, and Functional skills) should be represented in the list.
 
 7
 
@@ -542,7 +587,7 @@ It  is  best to explain about each skill by using simple language and by giving 
 
 #### Activity 8
 
-T ell the students that we use life skills everyday for tasks such as: Thinking - deciding solving problems, managing differences, minimizing stress etc. Also ordinarily we use life skills in various combinations.
+Tell the students that we use life skills everyday for tasks such as: Thinking – deciding solving problems, managing differences, minimizing stress etc. Also ordinarily we use life skills in various combinations.
 
 10
 
@@ -653,34 +698,23 @@ The above Life Skills are usually paired.
 ###### Core Life Skills and three major areas:
 The Core Life Skills are also divided according to three major areas:
 
-Creative Thinking
-
 Thinking Skills
 
+Creative Thinking
 Critical Thinking
-
 Decision-Making
-
 Problem Solving
 
+Social Skills
+
 Self-Awareness
-
-Social
-
 Effective Communication
-
-Skills
-
 Interpersonal Relationships
-
 Empathy
 
-Emotional
+Emotional Skills
 
 Coping with Emotion
-
-Skills
-
 Coping with Stress
 
 13
@@ -835,6 +869,21 @@ Suggested Age Group 8 years and above
 
 ### MAKING HOME A HEALTHY ENVIRONMENT
 
+#### Objectives
+
+By the end of the session, the students will be able to:
+
+- Realize the importance of maintaining a clean environment at home
+- Increase their efforts to make and keep their environment clean.
+
+#### Life Skills being used
+
+Critical Thinking, Creative Thinking and Decision Making
+
+#### Advance Preparations
+
+Compass, pencil, eraser, paper, red and green colour pencils.
+
 #### Activity 1
 
 Greet the students and introduce the topic. Tell them that today they will be discussing certain concerns that they have and their efforts to deal with those concerns. Tell them that the focus will be on their home.
@@ -855,57 +904,16 @@ Ask them to identify six areas of concern at home e.g.
 
 Ask the students to draw a circle with diameter of 8 inches. Tell them to divide it into six parts as illustrated. The students should write their concerns against each line i.e. A to F (as above).
 
-6
-
-7
-
-8
-
-9
-
-10
-
 HOME
 
-D
-
-E
-
-0
-
-1
-
-2
-
-3
-
-4
-
-5
+0 1 2 3 4 5 6 7 8 9 10
 
 A
-
 B
-
 C
-
+D
+E
 F
-
-#### Objectives
-
-By the end of the session, the students will be able to:
-
-- 9 Realize the importance of maintaining a clean environment at home
-
-- 9 Increase their efforts to make and keep their environment clean.
-
-#### Life Skills being used
-
-Critical Thinking, Creative Thinking and Decision Making
-
-#### Advance Preparations
-
-Compass, pencil, eraser, paper, red and green colour pencils.
 
 17
 
@@ -913,21 +921,21 @@ Compass, pencil, eraser, paper, red and green colour pencils.
 
 [[START OF PAGE 26]]
 
-HOME
-
-D
-
-E
-
 A
-
-B
-
-C
 
 F
 
-Each line is now divided into 10 parts and numbered - 0  at the centre and 10 at the circumference as illustrated.
+HOME
+
+B
+
+E
+
+C
+
+D
+
+Each line is now divided into 10 parts and numbered – 0 at the centre and 10 at the circumference as illustrated.
 
 Ask the students to rate how important each concern is to them - from 1 to 10. Mark that point on the line and join all the points with a red pencil. E.g. Tenzin might grade concern A with a level of 8, concern B with 6 and so on. This is the 'Web of Concern'.
 
@@ -943,35 +951,36 @@ An example of the illustration has been given here. The students have already id
 
 [[START OF PAGE 27]]
 
-POOR MAINTENANCE OF HOME
-
 WEBS OF CONCERN AND EFFORT
 
-TERMITES/HOUSEHOLD PESTS
+HOME
 
-WEB OF CONCERN
+POOR MAINTENANCE OF HOME
 
 UNWASHED CHLOTHES
 
+TERMITES/HOUSEHOLD PESTS
+
 LEAKING TAPES
+
+WEB OF CONCERN
 
 DIRTY KITCHEN
 
+ELECTRICITY PROBLEMS
+
 GARBAGE NOT SEGREGATED
+
+WATER PROBLEMS
 
 DIRTY BATHROOMS
 
 WEB OF EFFORT
 
-WATER PROBLEMS
-
-ELECTRICITY PROBLEMS
-
-HOME
-
 Now, ask students to compare their web with their neighbour's web.
 
-Ask ' Is there a gap between your web of concern and your web of effort? Why?' Ask 'How can we bridge this gap?'
+Ask “Is there a gap between your web of concern and your web of effort? Why?”
+Ask “How can we bridge this gap?”
 
 ##### Guidelines for the Facilitator:
 
@@ -1023,7 +1032,7 @@ Encourage them to Think Critically about how we all complain about our environme
 
 #### FACT SHEET
 
-##### SOCIAL RESPONSIBILITY-KEEPING THE ENVIRONMENT CLEAN
+##### SOCIAL RESPONSIBILITY–KEEPING THE ENVIRONMENT CLEAN
 
 The health of an individual, a community or a country is determined by the integration of two ecological universes i.e., the internal environment of man himself and the external environment which surrounds him. These two internal and external environments comprise the total environment . Advances in nuclear technology, and urbanization have given rise to the problem of environment pollution like air pollution and water pollution. Various diseases are often a result of disturbance in the delicate balance between man and his environment. Therefore, the attainment of a Healthy Environment is  very important for a Healthy Person. It is the duty and responsibility of every individual in the society to keep the environment clean and prevent pollution.
 
@@ -1045,6 +1054,8 @@ The following are some of the strategies that can be adopted by the students to 
 - Carrying out necessary repairs wherever possible to prevent wastage - e.g. leaking taps.
 
 - Recycling as much as possible from used materials.
+
+USE ME
 
 Finding ways to reuse products takes both common sense and creativity. Consider donating books and magazines to public libraries or to nursing homes. Reduce, recycle, and reuse are known as the three Rs of the waste-reduction movement. But a fourth R often is forgotten: Respond. This simply means that one has to take a positive step in refusing to take material that has been packed improperly. Only then will a clear message go to the relevant people.
 
@@ -1073,9 +1084,9 @@ Ensure that the air in the home is not moisture laden . If so, get pipes and dra
 
 [[START OF PAGE 31]]
 
-Suggested Age Group 8 years and above
-
 ## Module 3
+
+Suggested Age Group 8 years and above
 
 ### PERSONAL HYGIENE PROMOTES HEALTH
 
@@ -1109,13 +1120,13 @@ Link it up with the fact that 'bird -flu' could not spread in Bhutan because eve
 
 By the end of the session, the students will be able:
 
-- 9 To understand the importance of personal hygiene, and the connection  between disease  and  lack  of hygiene.
+- ✓ To understand the importance of personal hygiene, and the connection between disease and lack of hygiene.
 
-- 9 To bring about necessary changes in their day-today life for healthy living.
+- ✓ To bring about necessary changes in their day-to-day life for healthy living.
 
 #### Life Skills being used
 
-Critical Thinking, I n t e r p e r s o n a l Communication, Decision Making.
+Critical Thinking, Interpersonal Communication, Decision Making.
 
 #### Advance Preparations
 
@@ -1255,11 +1266,11 @@ Distribute one blue and one yellow card to each student. Ask the students to thi
 
 - If the group is large, students can be asked to respond verbally.
 
-- T he Facilitator should also participate and perhaps share a personal experience of dealing with physical changes while growing up.
+- The Facilitator should also participate and perhaps share a personal experience of dealing with physical changes while growing up.
 
 - The responses will tend to remain focused on external body parts.
 
-- The students are being encouraged to use the skills of Self -Awareness, Effective Communication and Critical Thinking. The students have to think, realize and then tell what they have felt.
+- The students are being encouraged to use the skills of Self-Awareness, Effective Communication and Critical Thinking. The students have to think, realize and then tell what they have felt.
 
 Once all students have responded, ask them to imagine that if a body part they disliked stops functioning, how would they feel? Encourage students to accept all body parts as normal, important and necessary.
 
@@ -1275,7 +1286,7 @@ Ask one group to draw a figure of a girl aged 6 years and a figure of a girl age
 
 By the end of the session, the students will be able to:
 
-- 9 Understand the physical & psychological changes taking place during puberty.
+- ✓ Understand the physical & psychological changes taking place during puberty.
 
 #### Life Skills being used
 
@@ -1403,7 +1414,7 @@ Once a girl starts menstruating at puberty, she is capable of becoming pregnant 
 
 Periods last normally for 1-6 days, and occur every 21-35 days, which is called the menstrual cycle.  However, at puberty, the first few periods are very irregular, and should not be a cause for concern.
 
-S ome girls may get pain or discomfort during menstruation.  A warm bath or massage of abdomen usually relieves the pain.
+Some girls may get pain or discomfort during menstruation. A warm bath or massage of abdomen usually relieves the pain.
 
 Estimated blood loss is 50 - 150 ml blood per cycle. Men do not have a uterus or eggs, and therefore do not menstruate.
 
@@ -1470,7 +1481,7 @@ Puberty is the time when a boy develops into a man and a girl develops into a wo
 
 [[START OF PAGE 42]]
 
-###### P P HYSICAL CHANGES IN GIRLS AT PUBERTY
+###### PHYSICAL CHANGES IN GIRLS AT PUBERTY
 
 - Growth spurt occurs (height and weight)
 
@@ -1516,15 +1527,33 @@ Puberty is the time when a boy develops into a man and a girl develops into a wo
 
 Emotions change very rapidly and adolescents may feel moody and experience extremes of behaviour.
 
+It's official: City girls attain puberty at 10
+
+By Vividha Kaul/Times News Network
+
+MATURING EARLY
+
+- The average age of onset of puberty is coming down
+
+- As opposed to 12-13 years earlier, 10-11 is routine now
+
+- Doctors say girls should exercise more
+
+- Experts call for sex education by class V
+
+- Parents need to counsel children, explain to avoid coping difficulties
+
 34
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
+## Module 5
+
 Suggested Age Group 9 years and above
 
-## Module 5
+### LEARNING TO MANAGE TIME
 
 #### Activity 1
 
@@ -1534,9 +1563,7 @@ Ask each student to take a white foolscap paper. Instruct him to draw a circle m
 
 Now ask each one of them to write down various activities of their typical day in the upper half of the page, e.g., sleeping, washing, bathing, eating, and helping in household work, playing, homework, reading, leisure and other miscellaneous activities.
 
-Sl e e p
-
-Sl e e p
+Sleep
 
 Picture 1
 
@@ -1546,17 +1573,15 @@ Instruct each student to write how much time he/she spends on each activity in a
 
 Ask them to transfer this information on to the circle (divided into 24 equal parts) blocking out time in sections, e.g. sleep - 8 hours would be blocked out using 8 portions of the circle. Suggest them to use different colour for each activity as this makes it easier to see and get a visual feed back later (See Picture 2)
 
-### LEARNING TO MANAGE TIME
-
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Review the time spent by them on various activities over the day.
+- ✓ Review the time spent by them on various activities over the day.
 
-- 9 Learn to prioritise their activities.
+- ✓ Learn to prioritise their activities.
 
-- 9 Understand strategies for time management
+- ✓ Understand strategies for time management
 
 #### Life Skills being used
 
@@ -1636,6 +1661,12 @@ Ask each student to write in her/his notebook 'What are the areas on which you w
 
 Give them a few minutes to do this self exploration activity.
 
+MATHS
+
+PHYSICS
+
+CHEMISTRY
+
 ##### Guidelines for the Facilitator:
 
 Time is totally irreplaceable. It is a unique resource and its supply can never be increased, no matter how much the demand
@@ -1706,9 +1737,9 @@ Most young people are familiar with the concept of time management and structuri
 
 [[START OF PAGE 48]]
 
-Suggested age Group 9 years and above
-
 ## Module 6
+
+Suggested age Group 9 years and above
 
 ### STRESS AND ITS IMPACT ON US
 
@@ -1750,11 +1781,11 @@ Note down their responses on the board.
 
 By the end of the session, the students will be able to:
 
-- 9 Understand how stress is caused and its varying impact
+- ✓ Understand how stress is caused and its varying impact
 
-- 9 Recognize the effects of stress.
+- ✓ Recognize the effects of stress.
 
-- 9 Understand that stress can be positive
+- ✓ Understand that stress can be positive
 
 #### Life Skills being used
 
@@ -1784,11 +1815,11 @@ Ask them to think critically about the events that have caused them stress. Ask 
 
 - three such events on the first colour A card (Stressors)
 
-- What happens physically to their body when they are stressed? on colour B card. ( Physical )
+- What happens physically to their body when they are stressed? on colour B card. (Physical)
 
-- How do they feel mentally when they are stressed? on colour C card. ( Emotiona l)
+- How do they feel mentally when they are stressed? on colour C card. (Emotional)
 
-- What do they do when they are stressed? on colour D card. ( Behavioural )
+- What do they do when they are stressed? on colour D card. (Behavioural)
 
 Ask them to paste the cards on the newspapers on the wall in four rows - all cards of the same colour in each row.
 
@@ -1926,7 +1957,7 @@ Ask the students to write down a situation that produces physical, emotional and
 
 Stress is a feeling that is created when we react to particular event. It is the body's way of rising to a challenge and preparing to meet a tough situation with focus, strength, stamina, and heightened alertness.
 
-The events that provoke stress are called stressors , and they cover a whole range of situations anything from real physical danger to participating in a class debate or taking an exam in your toughest subject! What may stress one person may not affect another.
+The events that provoke stress are called stressors, and they cover a whole range of situations - anything from real physical danger to participating in a class debate or taking an exam in your toughest subject! What may stress one person may not affect another.
 
 The human body responds to stressors by activating the nervous system and specific hormones. All of these lead to certain physical changes that prepare a person to react quickly and effectively to handle the pressure of the moment.
 
@@ -2040,9 +2071,9 @@ It is important that adolescents are trained to cope with their stress. The firs
 
 [[START OF PAGE 56]]
 
-Suggested Age Group 9 years and above
-
 ## Module 7
+
+Suggested Age Group 9 years and above
 
 ### TELEVISION VIEWING AND OUR HEALTH
 
@@ -2080,11 +2111,11 @@ Ask them to put them in a box placed in the centre of their group.
 
 By the end of the session, the students will be able to:
 
-- 9 Tell  the  merits  and demerits of watching TV.
+- ✓ Tell the merits and demerits of watching TV.
 
-- 9 Make informed decisions regarding time  devoted  to  TV viewing.
+- ✓ Make informed decisions regarding time devoted to TV viewing.
 
-- 9 Select programmes appropriate to their age and purpose of viewing.
+- ✓ Select programmes appropriate to their age and purpose of viewing.
 
 #### Life Skills being used
 
@@ -2092,9 +2123,10 @@ Critical Thinking; Decision Making; Self-Awareness and Effective Communication.
 
 #### Advance Preparations
 
-Paper cut into small pieces 4 small boxes, pens or pencils.
+Paper cut into small pieces
+4 small boxes, pens or pencils.
 
-Explain activity 'Just for 30 seconds!'
+Explain activity - “Just for 30 seconds!”
 
 48
 
@@ -2104,7 +2136,7 @@ Explain activity 'Just for 30 seconds!'
 
 ##### Guidelines for the Facilitator:
 
-Tell them that after the group work students chosen at random will have to present the discussion points to the whole class through the activity 'Just for 30 seconds!' in which the student will have to speak 'non-stop' for 30 seconds on the given point .
+Tell them that after the group work students chosen at random will have to present the discussion points to the whole class through the activity “Just for 30 seconds!” – in which the student will have to speak “non-stop” for 30 seconds on the given point.
 
 If you wish you may add or replace some of the statements that you feel are more appropriate.
 
@@ -2336,7 +2368,7 @@ Ask the groups to write the responses on a paper for each of the questions raise
 
 By the end of the session, the students will be able to:
 
-- 9 Recognize that dropping out of school may be an easy thing but  has  long  term negative consequences.
+- ✓ Recognize that dropping out of school may be an easy thing but has long term negative consequences.
 
 #### Life Skills being used
 
@@ -2366,7 +2398,7 @@ Photocopies of sheets with the situation written on it, paper and pencils.
 
 ##### Guidelines for the Facilitator:
 
-Let a good discussion take place amongst the students. Many students will share the problems faced by Tshering - and sometimes by them and their families as reasons for not continuing with school! Listen and be empathetic to their responses while also stating the importance of education in one's life - for achieving social, economic and material gains and for self actualization. Tell them that Life skills can help a student to face difficulties. He first needs to be Self Aware of what his goals, dreams and aspirations in life are. He then has to use Critical Thinking to analyse his situation and use Problem Solving techniques to find a suitable solution Decision Making .
+Let a good discussion take place amongst the students. Many students will share the problems faced by Tshering - and sometimes by them and their families as reasons for not continuing with school! Listen and be empathetic to their responses while also stating the importance of education in one's life - for achieving social, economic and material gains and for self actualization. Tell them that Life skills can help a student to face difficulties. He first needs to be Self Aware of what his goals, dreams and aspirations in life are. He then has to use Critical Thinking to analyse his situation and use Problem Solving techniques to find a suitable solution – Decision Making.
 
 State that it is important to continue education for health reasons too. Studies point out that there is direct correlation between education level and health of the family and even that of the next generation.
 
@@ -2386,7 +2418,7 @@ Coping with difficulties in studies positively, discussion with class teachers, 
 
 It  is  necessary that students recognize the need for basic education to survive in this competitive world. He/She should therefore have adequate Self Awareness and Critical Thinking skills.
 
-Basic education should not restrain one from taking up further learning of specific vocational skills carpentry, electrical work, cattle rearing etc. Methodical training gives a student an advantage over a person who spends years in learning it by experience.
+Basic education should not restrain one from taking up further learning of specific vocational skills – carpentry, electrical work, cattle rearing etc. Methodical training gives a student an advantage over a person who spends years in learning it by experience.
 
 #### Activity 3
 
@@ -2414,17 +2446,17 @@ Basic education should not restrain one from taking up further learning of speci
 
 [[START OF PAGE 66]]
 
+#### Annexure
+
 ##### Situation 1: Tshering's story
 
-Tshering is a 20 years old youth who works as a helper in a workshop. Tshering used  to be an average student in 7 th  standard about seven years ago when his earning brother died in an accident. He decided on his own to give up studies and join his brother's job as a garage helper. His parents were against his decision. But Tshering was very happy with the fact that he was able to earn 45 Ngultrum  per day and help his parents. Now he earns about Nu. 150 per day but is hardly able to meet the basic needs of his life.
+Tshering is a 20 years old youth who works as a helper in a workshop. Tshering used to be an average student in 7 th standard about seven years ago when his earning brother died in an accident. He decided on his own to give up studies and join his brother's job as a garage helper. His parents were against his decision. But Tshering was very happy with the fact that he was able to earn 45 Ngultrum per day and help his parents. Now he earns about Nu. 150 per day but is hardly able to meet the basic needs of his life.
 
 Tshering meets some of his old school friends and learns that they are continuing their education in commerce, Information Technology, engineering, medicine, arts and so on.
 
 He deeply repents his decision of discontinuing school and often spends sleepless nights. He has not learnt any specialized skills which would help him to earn much more. This makes him worry a lot resulting in decreased efficiency at work. Tshering feels totally lost in his life; neither can he restart schooling to acquire higher skills nor can he do something different to earn more money to meet the demands of his family.
 
 Lately, his worries have made him resort to using alcohol which is further worsening his financial situation. He feels sorry about his situation and wonders why he did not continue his studies.
-
-#### Annexure
 
 58
 
@@ -2455,6 +2487,8 @@ Understanding their needs, helping them to cope with problems of studying and pr
 ## Module 9
 
 Suggested Age Group 10 years and above
+
+### I TALK TO MY PARENTS EVERYDAY
 
 #### Activity 1
 
@@ -2490,23 +2524,21 @@ Ask the students to note their responses individually on a sheet of paper.
 
 Tell students that they have 15 minutes to write their responses.
 
-### I TALK TO MY PARENTS EVERYDAY
-
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Check how well they know their parents.
+- ✓ Check how well they know their parents.
 
-- 9 Identify ways of improving their relationship with their parents .
+- ✓ Identify ways of improving their relationship with their parents.
 
 #### Life Skills being used
 
-S e l f - A w a r e n e s s , Interpersonal Relationships, Effective Communication and  Empathy.
+Self-Awareness, Interpersonal Relationships, Effective Communication and Empathy.
 
 #### Advance Preparations
 
-Board, Markers / chalk, A4  size  sheets,  pens, Handouts of skit.
+Board, Markers / chalk, A-4 size sheets, pens, Handouts of skit.
 
 60
 
@@ -2554,7 +2586,7 @@ After the discussion, divide the students into groups of 4 and ask them to give 
 
 ##### Guidelines for the Facilitator:
 
-See that points such as being honest, not having frequent and unnecessary emotional outbursts and active listening are brought out.  Keep encouraging them to come out with more ideas (beyond the ones given in the Fact Sheet!).  Explain that Effective Communication is the key to good InterPersonal Relationships and can prevent many problems from taking place and help solve the ones that have happened.  Tell them that we need to practice to become better at expressing and listening!
+See that points such as being honest, not having frequent and unnecessary emotional outbursts and active listening are brought out. Keep encouraging them to come out with more ideas (beyond the ones given in the Fact Sheet!). Explain that Effective Communication is the key to good Interpersonal Relationships and can prevent many problems from taking place and help solve the ones that have happened. Tell them that we need to practice to become better at expressing and listening!
 
 #### Activity 4
 
@@ -2679,11 +2711,11 @@ Refresh their memories by explaining that Menstruation is a natural body functio
 
 By the end of the session, the students will be able to:
 
-- 9 Describe methods of effective menstrual hygiene.
+- ✓ Describe methods of effective menstrual hygiene.
 
-- 9 Identify the ways to deal with the various discomforts related to menstruation.
+- ✓ Identify the ways to deal with the various discomforts related to menstruation.
 
-- 9 Maintain a personalized record of their menstrual periods.
+- ✓ Maintain a personalized record of their menstrual periods.
 
 #### Life Skills being used
 
@@ -2740,13 +2772,13 @@ FORMAT for the monthly Diary: (An example for Jan and Feb has been filled in)
 
 ##### Dechen Pelden's Diary
 
-Months | Jan | Feb | Mar | Apr | May | Jun | July | Aug | Sep | Oct | Nov | Dec
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Start | 15 th | 14th
-End | 19 th | 20th
-Types of flow | Little on day 1, norm. on day 2-5 | Same as in Jan, Some spotting on day 6
-Any problems | Nil | Severe pain on day 3, clots on day 3, 4
-Medical help | Saw the doctor/ nurse,
+| Months | Jan | Feb | Mar | Apr | May | Jun | July | Aug | Sep | Oct | Nov | Dec |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Start | 15th | 14th |  |  |  |  |  |  |  |  |  |  |
+| End | 19th | 20th |  |  |  |  |  |  |  |  |  |  |
+| Types of flow | Little on day 1, norm. on day 2-5 | Same as in Jan, Some spotting on day 6 |  |  |  |  |  |  |  |  |  |  |
+| Any problems | Nil | Severe pain on day 3, clots on day 3, 4 |  |  |  |  |  |  |  |  |  |  |
+| Medical help |  | Saw the doctor/nurse, |  |  |  |  |  |  |  |  |  |  |
 
 ##### Guidelines for the Facilitator:
 
@@ -2882,6 +2914,12 @@ MENSTRUATION is related to the cycle of life. The uterus prepares itself for gro
 
 Menstruation is the shedding of tissue and blood from the lining of the womb through a woman's vagina. This process takes place about once a month during a woman's reproductive years. Menstruation is also called monthly bleeding, menses, menstrual course, menstrual period, and period
 
+Egg
+Tube
+Womb
+Ovary
+Womb lining
+
 ###### How long does monthly bleeding last?
 
 Usually, from two to seven days, often around five days.
@@ -2902,6 +2940,10 @@ If a couple  are not using family planning, vaginal intercourse can lead to preg
 
 A menstrual cycle starts with the first day of monthly bleeding. The last day of the menstrual cycle is the day before the next monthly bleeding starts. For example, if bleeding started on July 1, that is the first day of the menstrual cycle. If the menstrual cycle that month is 28 days long, the next monthly bleeding would start on July 29. If this woman usually has 28 day cycles, she can expect monthly bleeding to start again on August 26.
 
+July
+Days of monthly bleeding
+28-day cycle
+
 71
 
 [[END OF PAGE 79]]
@@ -2917,6 +2959,36 @@ Most women have menstrual cycles that last between 24 and 35 days. The most comm
 Girls usually start to have periods between the ages of 11 and 16, and on average between 12 and 13. As socioeconomic conditions and nutrition have improved, the age at which a girl's period starts has gradually decreased. In some parts of the world, it is not uncommon for girls to start their periods before age 11.
 
 A 28-Day Menstrual Cycle
+
+- The FERTILE TIME of the cycle is the day the egg is released and the five days before that.
+
+- For full protection from pregnancy, it is best to use contraception THROUGHOUT THE CYCLE.
+
+1 Release of egg
+
+(difficult to predict timing but usually about midway through the cycle—around day 14 of a 28-day cycle)
+
+Egg
+Tube
+Womb
+Ovary
+Womb lining
+
+2 Thickening of the womb lining
+
+The Menstrual Cycle
+
+Most commonly around 28 days long, but can range from 25 to 35 days.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Note: When counting the days in the menstrual cycle, always start with the first day of menstrual bleeding.
+
+3 Menstrual bleeding (period)
+
+(usually ranges from 2 to 7 days, often about 5 days)
+
+Source: Adapted from the World Health Organization 2006 (23)
 
 72
 
@@ -2948,9 +3020,9 @@ If woman is bleeding for longer than eight days or is bleeding twice as much as 
 
 [[START OF PAGE 82]]
 
-Suggested Age Group 10 years and above
-
 ## Module 11
+
+Suggested Age Group 10 years and above
 
 ### PROBLEM SOLVING FOR BETTER HEALTH
 
@@ -2972,7 +3044,7 @@ Tell the students that everybody faces and solves problems daily. Some problems 
 
 By the end of the session, the students will be able to:
 
-- 9 Critically evaluate situations for Problem solving  &  effective Decision making
+- Critically evaluate situations for Problem solving  &  effective Decision making
 
 #### Life Skills being used
 
@@ -3108,17 +3180,17 @@ The teaching of a systematic approach must be linked to developing the interpers
 
 Suggested Age Group 10 years and above
 
+### NO MORE SEXUAL HARASSMENT
+
 #### Activity 1
 
 Greet the class and tell them that today the topic of discussion will be an issue that many of them face -that of sexual harassment.
 
-Ask the students, ' What are the different kinds of sexual harassment?' Ask them to brainstorm on various types of sexual harassment, eve teasing, etc. and how prevalent are they. Note down their responses on the board.
+Ask the students, 'What are the different kinds of sexual harassment?' Ask them to brainstorm on various types of sexual harassment, eve teasing, etc. and how prevalent are they. Note down their responses on the board.
 
 ##### Guidelines for the Facilitator:
 
-Tell the class sexual harassment is defined as unwanted and unwelcome physical contact, verbal demands and put downs based on sex, gender or sexuality of the person being harassed. In many
-
-parts of Asia, sexual harassment is called 'Eve Teasing', but is actually much more than that. State that sexual violence and harassment is a serious public health  problem.  It  can profoundly affect the physical, emotional, mental and social well being of the victims who face it
+Tell the class sexual harassment is defined as unwanted and unwelcome physical contact, verbal demands and put downs based on sex, gender or sexuality of the person being harassed. In many parts of Asia, sexual harassment is called 'Eve Teasing', but is actually much more than that. State that sexual violence and harassment is a serious public health  problem.  It  can profoundly affect the physical, emotional, mental and social well being of the victims who face it
 
 #### Activity 2
 
@@ -3132,15 +3204,13 @@ Divide the class into 3 groups. Give one copy of the quiz to each group. Ask the
 
 - Unsure
 
-### NO MORE SEXUAL HARASSMENT
-
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Identify  the  various manifestations of sexual harassment
+- Identify  the  various manifestations of sexual harassment
 
-- 9 List  various  ways  in which sexual harassment could be reduced.
+- List  various  ways  in which sexual harassment could be reduced.
 
 #### Life Skills being used
 
@@ -3350,9 +3420,9 @@ Youngsters who are subjected to repeated sexual harassment may show disturbances
 
 [[START OF PAGE 93]]
 
-Suggested Age Group 10 years and above
-
 ## Module 13
+
+Suggested Age Group 10 years and above
 
 ### CONFLICT RESOLUTION AND NEGOTIATION FOR BETTER HEALTH
 
@@ -3394,11 +3464,11 @@ Tell the students that in Chinese culture, conflict includes the opportunity for
 
 By the end of the session, the students will be able to:
 
-- 9 Understand the three levels of conflict and how to deal with them.
+- Understand the three levels of conflict and how to deal with them.
 
-- 9 Identify and enlist available options for conflict resolution
+- Identify and enlist available options for conflict resolution
 
-- 9 State  the  steps  for successful and effective negotiation.
+- State  the  steps  for successful and effective negotiation.
 
 #### Life Skills being used
 
@@ -3416,17 +3486,11 @@ Black Board, Chalk, Photocopy of role plays, Photocopies of handouts for each st
 
 There are three levels of Conflict:
 
-Level 1
+Level 1: Can't we just get along?
 
-: Can't we just get along?
+Level 2: I intend to win
 
-Level 2:
-
-I intend to win
-
-Level 3
-
-: I will hurt you
+Level 3: I will hurt you
 
 State that conflict - either acute or chronic - can harm our health in many ways. It can snatch our happiness, joy and peace of mind. It can lead to violence against others and /or self. Chronic conflict situations can lead to hypertension, affect our heart and lead to depression. Some reports have also linked chronic stress to occurrence of cancers. In short, unresolved conflicts adversely affect our health - physical, mental, social and spiritual. They can also reduce or adversely impact our social standing and reputation.
 
@@ -3520,17 +3584,17 @@ Applaud the role play carried out and remark on some of the salient features. Co
 
 [[START OF PAGE 97]]
 
-Also present them as ' food for thought ', the following-
+Also present them as 'food for thought', the following-
 
-- ¾ Why do people have so much trouble negotiating a solution to a conflict?
+- Why do people have so much trouble negotiating a solution to a conflict?
 
-- ¾ How might people's feelings get in the way of a win / win solution? ( Self-Awareness,  Coping with Emotion) .
+- How might people's feelings get in the way of a win / win solution? (Self-Awareness, Coping with Emotion).
 
-- ¾ Could violence be an outcome in any of these situations? Which one? Why?
+- Could violence be an outcome in any of these situations? Which one? Why?
 
-- ¾ What makes it easier to negotiate? What makes it harder?
+- What makes it easier to negotiate? What makes it harder?
 
-- ¾ What are examples of situations in which you would be unwilling to compromise?
+- What are examples of situations in which you would be unwilling to compromise?
 
 ##### Guidelines for the Facilitator:
 
@@ -3664,37 +3728,39 @@ By understanding the basics of conflict resolution, and by implementing the stra
 
 ##### RESOLVING CONFLICTS AND NEGOTIATING SKILLS
 
-- IDENTIFY NEEDS . What is your need or want?
+1. IDENTIFY NEEDS. What is your need or want?
 
 Each person in the conflict should answer this question, without blaming or accusing the other person.
 
-- DEFINE THE PROBLEM : What do you think the problem is here?
+2. DEFINE THE PROBLEM: What do you think the problem is here?
 
-The whole class can help to come up with a response that includes both persons' need but does not blame either. The people in the conflict must agree to the definition.
+The whole class can help to come up with a response that includes both persons’ need but does not blame either. The people in the conflict must agree to the definition.
 
-- BRAINSTORM LOTS OF SOLUTIONS : Who can think of a way that we might solve this problem?
+3. BRAINSTORM LOTS OF SOLUTIONS: Who can think of a way that we might solve this problem?
 
 Any one in the class may offer a response. These should all be written down, without comment, judgment, or evaluation. The aim of this step is to come up with as many solutions as possible.
 
-- EVALUATE THE SOLUTIONS : Would you be happy with this solution? Each party in the conflict goes through the list of alternatives and says which one would/would not be acceptable to him/her.
+4. EVALUATE THE SOLUTIONS: Would you be happy with this solution?
 
-- DECIDE ON THE BEST SOLUTION :  Do you both agree to this solution? Is the problem
+Each party in the conflict goes through the list of alternatives and says which one would/would not be acceptable to him/her.
 
-- solved? Make sure both parties agree, and acknowledge their efforts in working out the solution?
+5. DECIDE ON THE BEST SOLUTION: Do you both agree to this solution? Is the problem solved?
 
-- CHECK TO SEE HOW THE SOLUTION IS WORKING :  Let's talk to each other again soon to make sure the problem is really solved.
+Make sure both parties agree, and acknowledge their efforts in working out the solution?
+
+6. CHECK TO SEE HOW THE SOLUTION IS WORKING: Let’s talk to each other again soon to make sure the problem is really solved.
 
 ##### STEPS IN NEGOTIATION
 
-- Ask the other person to say what he or she thinks and how he or she feels about the issue. Use 'active' listening to make sure you are understanding the other person's point of view.
+1. Ask the other person to say what he or she thinks and how he or she feels about the issue. Use “active” listening to make sure you are understanding the other person’s point of view.
 
-- Using assertive communication and I statements, tell the other person what you think and feel about the issue.
+2. Using assertive communication and I statements, tell the other person what you think and feel about the issue.
 
-- Each person thinks about ways to solve the problem so that both people win . Remember, each person may have to give something up in order for both people to win.
+3. Each person thinks about ways to solve the problem so that both people win. Remember, each person may have to give something up in order for both people to win.
 
-- Both people state ideas for solving the problem.
+4. Both people state ideas for solving the problem.
 
-- Find an idea that is agreeable to both people , select it, and make plans to implement.
+5. Find an idea that is agreeable to both people, select it, and make plans to implement.
 
 93
 
@@ -3754,13 +3820,13 @@ Yes now I remember the school sessions.  People always say that HIV/AIDS infecte
 
 By the end of the session, the students will be able to:
 
-- 9 Express their feelings, fears  and  attitudes towards HIV/AIDS infected people
+- Express their feelings, fears and attitudes towards HIV/AIDS infected people
 
-- 9 Have positive attitude and  friendship for people who are HIV Positive or have AIDS.
+- Have positive attitude and friendship for people who are HIV Positive or have AIDS.
 
 #### Life Skills being used
 
-Empathy and SelfAwareness, Coping with Emotions.
+Empathy and Self-Awareness, Coping with Emotions.
 
 #### Advance Preparations
 
@@ -3920,19 +3986,17 @@ Ask the group to come up with suggestions, how she can refuse?
 
 - Rinzin's friends want him to go with them to bully a younger boy. Ask the group to consider, how Rinzin can say 'No' and also prevent his friends from bullying the boy.
 
-Ask each group to enact their play. Write on the board the methods used by each to say 'No'.
+Ask each group to enact their play. Write on the board the methods used by each to say ‘No’.
 
-Can you think of
-
-Applaud their efforts. Ask the class ' any other methods of saying 'No'?'
+Applaud their efforts. Ask the class “Can you think of any other methods of saying ‘No’?”
 
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Learn ways of saying 'No'.
+- Learn ways of saying ‘No’.
 
-- 9 Develop skills required in saying 'No'
+- Develop skills required in saying ‘No’
 
 #### Life Skills being used
 
@@ -3950,7 +4014,7 @@ Paper chits with role plays, blackboard, chalk, and chart with 10 ways of saying
 
 ##### Guidelines for the Facilitator:
 
-State that such situations - many of which can adversely impact the health of the adolescents can be faced by anyone. Thus it is best to be prepared in advance to deal with such situations. Children and adolescents usually don't say NO for fear of offending 'good friends/boyfriend/ girlfriend' and the thought of losing them. Tell the students that if their friends were so concerned about their feelings they would not be forcing them to do or take part in certain acts. Also, in such a situation, even if we say `No' and lose our friendship then we're actually better off for our so called 'friends' never really cared for us if they force us to do things against our wishes.  In such situations we can then seek out similar people and be friends with them instead. Remind them that their values, morals and good habits will be their life long friends!
+State that such situations – many of which can adversely impact the health of the adolescents – can be faced by anyone. Thus it is best to be prepared in advance to deal with such situations. Children and adolescents usually don’t say NO for fear of offending ‘good friends/boyfriend/girlfriend’ and the thought of losing them. Tell the students that if their friends were so concerned about their feelings they would not be forcing them to do or take part in certain acts. Also, in such a situation, even if we say ‘No’ and lose our friendship then we’re actually better off for our so called “friends” never really cared for us if they force us to do things against our wishes. In such situations we can then seek out similar people and be friends with them instead. Remind them that their values, morals and good habits will be their life long friends!
 
 The students will be using skills of Self-Awareness for Decision Making, (I don't want to do this) Critical and Creative Thinking for Problem Solving (How do I get out of this situation?). They will be Coping with Stress and Emotions (Pressure by friends/boyfriend) and have to use strong Inter Personal Relationship skills with Effective Communication to handle these situations. While doing the role plays, students also develop Empathy as they are putting themselves in the situation given. Today it may be a role play but tomorrow it can actually happen and this will assist them in dealing with such situations.
 
@@ -4032,11 +4096,11 @@ Learning how (and when) to say no is something that takes practice, especially i
 
 - Be polite, but firm in saying no. You only build false hopes with wishy-washy responses. For instance, the phrase 'I'll try to be there' in response to a party invitation is giving yourself an excuse to avoid a commitment.
 
-Young people are often offered alcohol. To resist such pressure, youngsters say they prefer quick 'oneliners' that allow them to dodge a drink without making a big scene. It will probably work best for them to take the lead in thinking up responses to drink offers so that he or she will feel comfortable saying Yes or No. But to get the brainstorming started, here are some simple pressure-busters-from the mildest to the most assertive.
+Young people are often offered alcohol. To resist such pressure, youngsters say they prefer quick “one-liners” that allow them to dodge a drink without making a big scene. It will probably work best for them to take the lead in thinking up responses to drink offers so that he or she will feel comfortable saying Yes or No. But to get the brainstorming started, here are some simple pressure-busters—from the mildest to the most assertive.
 
 - No thanks.
 
-- I don't feel like it-do you have a soft drink?
+- I don’t feel like it—do you have a soft drink?
 
 - Alcohol's NOT my thing.
 
@@ -4070,16 +4134,16 @@ Being an adolescent is not always easy. In fact, teenagers are often faced with 
 
 Method | Persuader | Decider
 --- | --- | ---
-1. Polite refusal 1. Polite refusal | 'Can I get you a drink?'' | ' No thank you'
-2. Give reason 2. Give reason | 'How about a beer?' | 'I don't like beer''I am taking medicine and my Doctor told me not to drink alcohol'
-3. Be firm 3. Be firm (Broken record technique) | 'Here Smoke this cigarette with me' 'Come on!' 'Just try it' | ' No thanks' ' No thanks' 'No thanks'
-4. Walk away 4. Walk away | 'Hey do you want to buy some charas' | Say 'No' and walk away after you say it.
-5. Cold shoulder 5. Cold shoulder | 'Do you want to smoke' | Keep going as if you did not hear the person. (Not the best to use with friends)'
-6. Give an alternative 6. Give an alternative | 'Let's go upstairs to my room' | I'd rather stay here and watch T.V.'
-7. Reverse the pressure 7. Reverse the pressure | 'Come up stairs with me' | 'What did I just tell you? 'Were you listening'
-8. Avoid the situation 8. Avoid the situation | ________ ________ | If you know of people or situations where people will pressurize you to do things you don't want to do, stay away from these situations.
-9. Strength in numbers/ 9. Strength in numbers/ groups groups | _________ _________ | Stay with people who are like minded and who support your decision to not drink, use drugs, etc.'
-10. Own your feeling 10. Own your feeling | _________ _________ | I am not comfortable doing this'' It makes me unhappy'
+1. Polite refusal | “Can I get you a drink?” | “No thank you”
+2. Give reason | “How about a beer?” | “I don’t like beer” “I am taking medicine and my Doctor told me not to drink alcohol”
+3. Be firm (Broken record technique) | “Here Smoke this cigarette with me” “Come on!” “Just try it” | “No thanks” “No thanks” “No thanks”
+4. Walk away | “Hey do you want to buy some charas” | Say “No” and walk away after you say it.
+5. Cold shoulder | “Do you want to smoke” | Keep going as if you did not hear the person. (Not the best to use with friends)
+6. Give an alternative | “Let’s go upstairs to my room” | I’d rather stay here and watch T.V.”
+7. Reverse the pressure | “Come up stairs with me” | “What did I just tell you? “Were you listening”
+8. Avoid the situation | ________ ________ | If you know of people or situations where people will pressurize you to do things you don’t want to do, stay away from these situations.
+9. Strength in numbers/groups | _________ _________ | Stay with people who are like minded and who support your decision to not drink, use drugs, etc.”
+10. Own your feeling | _________ _________ | I am not comfortable doing this” “It makes me unhappy”
 
 103
 
@@ -4089,21 +4153,23 @@ Method | Persuader | Decider
 
 ## Module 16
 
+Suggested Age Group 11 years and above
+
+### EATING WISELY
+
 #### Activity 1
 
 Greet the students. Divide them into groups of five. Let them pretend that they have to organize a small party with their friends. What kind of food would they choose? Ask each group to make a small list of food items, not exceeding 5 or 6. They have to write on a paper why they have chosen the items they included in the list.
 
-### EATING WISELY
-
 ##### Guidelines for the Facilitator:
 
-This activity will create curiosity and an atmosphere to initiate this session on 'food'. This will also help the students exercise Critical Thinking, Creative Thinking and Decision-Making Skills .
+This activity will create curiosity and an atmosphere to initiate this session on ‘food’. This will also help the students exercise Critical Thinking, Creative Thinking and Decision-Making Skills.
 
 Ask them to stick their papers showing food items and reasons for that on the wall /black board. You shall be using them later in the discussion.
 
-Ask themWhy do we eat food everyday?
+Ask them- Why do we eat food everyday?
 
-##### Possible responses :
+##### Possible responses:
 
 - To fill our stomach/ relieve hunger
 
@@ -4115,19 +4181,15 @@ Ask themWhy do we eat food everyday?
 
 ##### Guidelines for the Facilitator:
 
-Tell them that eating is important not only for filling our stomachs, but also for various other functions - growth, energy requirements, normal repair- in fact for sustaining life! (Refer fact sheet for details). Tell them that they are growing very fast; they need to eat the right kind of food in right amounts, and choose wisely from a variety of foods available.
-
-Suggested Age Group
-
-11 years and above
+Tell them that eating is important not only for filling our stomachs, but also for various other functions – growth, energy requirements, normal repair- in fact for sustaining life! (Refer fact sheet for details). Tell them that they are growing very fast; they need to eat the right kind of food in right amounts, and choose wisely from a variety of foods available.
 
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Learn about commonly available  nutritious food.
+- Learn about commonly available nutritious food.
 
-- 9 Appreciate the importance of eating the right kind of food for proper growth
+- Appreciate the importance of eating the right kind of food for proper growth
 
 #### Life Skills being used
 
@@ -4151,17 +4213,17 @@ Now show them the Food Chart showing five food groups i.e. cereals ( grains); pu
 
 Cereals
 
+Fats and Sugar
+
 ##### For Growth & Development
 
 Milk and Dairy products
 
+Meat, Nuts and seeds and Pulses and Legumes
+
 ##### For Protection from Diseases
 
 Fruits and Vegetables
-
-Fats and Sugar
-
-Meat, Nuts and seeds and Pulses and Legumes
 
 105
 
@@ -4169,12 +4231,12 @@ Meat, Nuts and seeds and Pulses and Legumes
 
 [[START OF PAGE 114]]
 
-Group I: | Cereals
---- | ---
-Group II: | Fats and Oils
-Group III: | Meat, Fish, Poultry; Pulses and Legumes; Nuts and seeds
-Group IV: | Milk and Dairy products
-Group V: | Vegetables and Fruits   Perform protective functions
+Group I: | Cereals | Give Energy
+--- | --- | ---
+Group II: | Fats and Oils |
+Group III: | Meat, Fish, Poultry; Pulses and Legumes; Nuts and seeds | For Growth and Development
+Group IV: | Milk and Dairy products |
+Group V: | Vegetables and Fruits | Perform protective functions
 
 ##### Guidelines for the Facilitator:
 
@@ -4244,7 +4306,7 @@ inclusive of all food groups.
 
 ##### EATING WISELY! EATING WELL!
 
-Adolescence is a phase of rapid and continuous physical, mental and sexual growth and development. The quality of food consumed by adolescents during this phase will help them in their adult life too. Since the growth is very fast during adolescence (10-19 years) adolescents gain 1520% of their final height and about 25-50% of their final weight , they need a diet which has a variety of food stuffs from all food groups in the right quantity.
+Adolescence is a phase of rapid and continuous physical, mental and sexual growth and development. The quality of food consumed by adolescents during this phase will help them in their adult life too. Since the growth is very fast during adolescence (10-19 years) adolescents gain 15–20% of their final height and about 25-50% of their final weight, they need a diet which has a variety of food stuffs from all food groups in the right quantity.
 
 Adequate nutrition will help them perform physical functions (like sports) and mental functions (learning well) and will also protect the adolescents from diseases.
 
@@ -4256,9 +4318,9 @@ A healthy diet can be achieved through a blend of five basic food groups i.e. Ce
 
 These groups provide us with different nutrients that carry out the various functions in the body.
 
-Group I Cereals -   provides energy to do work and helps in growth.
+Group I – Cereals – provides energy to do work and helps in growth.
 
-Group IIFats and Oils -   provides energy to do work.
+Group II- Fats and Oils – provides energy to do work.
 
 Group III - Meat, Fish and Poultry; Pulses and Legumes; Nuts and Seeds - provides protein for growth.
 
@@ -4306,6 +4368,13 @@ The main emphasis of the food guide pyramid is on the five major food groups. Fo
 
 The food guide pyramid shows a range of servings for each food group. The shape of the pyramid guides an individual how much food from each group should be eaten. Foods which are at the base are to be eaten in large quantities and as it proceeds towards the apex, the quantity of foodstuffs decreases. It also emphasizes that foods that include a lot of fats, oils, and sweets should be used sparingly. These foods are at the apex of the pyramid.
 
+Fats, Oils & Sweets
+Milk, Yogurt, & Cheese Group
+Meat, Poultry, Fish, Dry Beans, Eggs & Nuts Group
+Vegetable Group
+Fruit Group
+Bread, Cereal Rice & Pasta Group
+
 How much one actually eats depends on ones age and activity level.
 
 ###### Changes in height, weight and body composition during adolescence
@@ -4342,9 +4411,9 @@ The time and tempo of changes in height, weight and body composition can vary gr
 
 - Females with delayed puberty fail to gain bone mass at a normal rate and show lower mineral density as adults. Nutrition is one of the environmental factors that determines onset of puberty.
 
-- The pubertal growth can be monitored by using height-for-age, weight-for-age and body mass index (BMI)-for-age (weight/height 2 )
+- The pubertal growth can be monitored by using height-for-age, weight-for-age and body mass index (BMI)-for-age (weight/height²)
 
- Adolescence can be the second opportunity to catch up growth if environmental conditions especially in terms of nutrient intake are favourable.
+- Adolescence can be the second opportunity to catch up growth if environmental conditions especially in terms of nutrient intake are favourable.
 
 ###### Are nutritional needs of boys and girls the same?
 
@@ -4362,21 +4431,23 @@ In actual practice, boys are provided with more and better food than girls, as f
 
 Suggested Age Group 11 years and above
 
+### LEARNING TO APPLY LIFE SKILLS
+
 #### Activity 1
 
 Ask them if they know about the Life Skills and the life skills program that has been instituted in some schools of Bhutan. Ask them to:
 
-- Q1) Try to name the ten core Life Skills?
+Q1) Try to name the ten core Life Skills?
 
-- Q2) Provide one example of where they used:
+Q2) Provide one example of where they used:
 
-- 1-  Creative Thinking,
+1- Creative Thinking,
 
-- 2- Empathy,
+2- Empathy,
 
-- 3- Effective Communication,
+3- Effective Communication,
 
-- 4- Self -Awareness, etc.
+4- Self –Awareness, etc.
 
 (You can add more skills or ask some more examples for the skills mentioned. The idea is to see that students have a clear understanding of the skills)
 
@@ -4388,29 +4459,25 @@ The students name the various core Life Skills and also provide examples that re
 
 The purpose of this step is to make the students familiar with all the Life Skills and their meanings in the session. So it is best to spend some time carrying out this activity.
 
-Applaud the students' answers and their enthusiasm. If you think it is needed, explain a little more about the skills and
-
-their meanings in easy, everyday language. See to it that they have clarity on the basics. You can write the 10 core life skills on the board.
-
-### LEARNING TO APPLY LIFE SKILLS
+Applaud the students’ answers and their enthusiasm. If you think it is needed, explain a little more about the skills and their meanings in easy, everyday language. See to it that they have clarity on the basics. You can write the 10 core life skills on the board.
 
 #### Objectives
 
 By the end of the session, students will be able to:
 
-- 9 Recognise the various Life skills.
+- Recognise the various Life skills.
 
-- 9 Understand that Life skills  work  best  in combinations.
+- Understand that Life skills work best in combinations.
 
-- 9 Learn the inter-linkages of a particular skill with other skills.
+- Learn the inter-linkages of a particular skill with other skills.
 
 #### Life Skills being used
 
-Critical  Thinking. SelfAwareness,  Empathy, Effective Communication.
+Critical Thinking. Self-Awareness, Empathy, Effective Communication.
 
 #### Advance Preparations
 
-Brown paper/ chart paper pasted on one of the Walls, chalk, Blackboard, two different coloured cards (cut from chart paper - size 10 inches by 4 inches) in enough numbers for all students, (OR 2 different coloured papers for each student), glue sticks or cello tape, prepared chart on 'How Life Skills interact with one another'.
+Brown paper/ chart paper pasted on one of the Walls, chalk, Blackboard, two different coloured cards (cut from chart paper – size 10 inches by 4 inches) in enough numbers for all students, (OR 2 different coloured papers for each student), glue sticks or cello tape, prepared chart on “How Life Skills interact with one another”.
 
 111
 
@@ -4478,7 +4545,7 @@ Thank the students for a very rich discussion. You can also adopt other methods 
 
 ##### Reinforce the following:
 
-- Although this simple activity of self-analysis was mainly dependent on the skill of Selfawareness, many other life skills were required to carry it out satisfactorily. Remind the students about the number of skills that they mentioned.
+- Although this simple activity of self-analysis was mainly dependent on the skill of Self-awareness, many other life skills were required to carry it out satisfactorily. Remind the students about the number of skills that they mentioned.
 
 - Life Skills work best in combinations. Many Life Skills are required to deal satisfactorily with a particular situation/problem.
 
@@ -4584,23 +4651,25 @@ Reiterate how more than one skill is required to deal with real life situations,
 
 #### FACT SHEET
 
+##### APPLYING LIFE SKILLS
+
 ###### I. THINKING SKILLS
 
 - Critical and creative thinking enable us to deal constructively with problems in our lives.
 
-###### (1) Creative  Thinking
+###### (1) Creative Thinking
 
 - Creative thinking helps us respond adaptively and flexibly in our everyday life situation - It is about looking beyond our direct experience, exploring available alternatives and the various consequences of our actions or non action.
 
 - Creative thinking is a novel or different way of doing things. Artists, writers, actors, etc use a lot of this skill.
 
-###### (2) Critical  Thinking
+###### (2) Critical Thinking
 
-- Critical thinking enables us to analyze information and experience objectively and asses the factors that influence the way we think and act. ('What all can happen if I do this')
+- Critical thinking enables us to analyze information and experience objectively and asses the factors that influence the way we think and act. (“What all can happen if I do this”)
 
-- e.g.: What options do I have? What can each option lead to?  Is this really what I
+- Critical thinking is important for any of our crucial life decisions.
 
-- Critical thinking is important for any of our crucial life decisions. want?
+e.g.: What options do I have? What can each option lead to? Is this really what I want?
 
 ###### (3) Decision Making
 
@@ -4612,7 +4681,7 @@ Reiterate how more than one skill is required to deal with real life situations,
 
 - Problem solving skills empower us not only to control our problems, but can turn them into opportunities.
 
-- Problem solving  also leads to decision making and managing  emotions and stress
+- Problem solving also leads to decision making and managing emotions and stress
 
 ###### II. SOCIAL SKILLS
 
@@ -4620,11 +4689,7 @@ Reiterate how more than one skill is required to deal with real life situations,
 
 - Self awareness is the ability to understand our strengths, weaknesses, values, outlook, character, needs, desires, aspirations and feelings.
 
-e.g.:
-
-I like myself even though I am imperfect
-
-##### APPLYING LIFE SKILLS
+e.g.: I like myself even though I am imperfect
 
 116
 
@@ -4815,7 +4880,7 @@ The Immature Person | The Mature Person
  Depends on others |  Makes his/her own decisions
  Avoids responsibility |  Shoulders responsibility and follows through plans for the future
  Drifts from day to day |  Has a plan and a goal
- Wants his/her own way always |  I s willing to cooperate
+ Wants his/her own way always |  Is willing to cooperate
  Worries endlessly |  Thinks through his/her problems
  Gets angry easily |  Controls his/her temper
  Broods over his/her mistakes |  Can laugh at himself/herself
@@ -4856,20 +4921,6 @@ Ask them to compare the following maturity check-up with the checklist they have
 
 [[START OF PAGE 130]]
 
-#### Activity 3
-
-##### Now ask the students:
-
-From their responses in the checklist 'How Mature Are You'?, choose one in the first column which you consider your weakest trait. Plan how you can transform this negative trait into something positive. Ask them to write the steps in their notebooks.
-
-##### Guidelines for the Facilitator:
-
-Let the students know that most people of their age are neither fully mature nor completely immature! This is generally reflective in the ways we behave viz a viz our education, health, interpersonal interactions and so on.  Also some people may rate higher on some aspects of the maturity check up than others.  This is perfectly normal.
-
-Tell them that we should adopt a stage wise approach - first finding out the weak areas and then working on them patiently and diligently.  Utilizing Life Skills like Self-Awareness, Critical Thinking can help us with the first phase and Decision Making, Problem Solving, Coping with Stress, Interpersonal Relationship & Creating Thinking will assist with the second phase.
-
-Tell them that all of us have scope for further improvement and we should strive to improve further. State that being emotionally mature and stable is not only beneficial in social situations but has a tremendous promotive impact on our health too!
-
 ##### MATURITY CHECK-UP
 
  A mature person does not take himself or herself too seriously; his/her job, yes!
@@ -4891,6 +4942,20 @@ Tell them that all of us have scope for further improvement and we should strive
  A mature person is afraid to make mistakes.
 
 - Leonard Wede
+
+#### Activity 3
+
+##### Now ask the students:
+
+From their responses in the checklist 'How Mature Are You'?, choose one in the first column which you consider your weakest trait. Plan how you can transform this negative trait into something positive. Ask them to write the steps in their notebooks.
+
+##### Guidelines for the Facilitator:
+
+Let the students know that most people of their age are neither fully mature nor completely immature! This is generally reflective in the ways we behave viz a viz our education, health, interpersonal interactions and so on.  Also some people may rate higher on some aspects of the maturity check up than others.  This is perfectly normal.
+
+Tell them that we should adopt a stage wise approach - first finding out the weak areas and then working on them patiently and diligently.  Utilizing Life Skills like Self-Awareness, Critical Thinking can help us with the first phase and Decision Making, Problem Solving, Coping with Stress, Interpersonal Relationship & Creating Thinking will assist with the second phase.
+
+Tell them that all of us have scope for further improvement and we should strive to improve further. State that being emotionally mature and stable is not only beneficial in social situations but has a tremendous promotive impact on our health too!
 
 122
 
@@ -5012,7 +5077,7 @@ By the end of the session, the students will be able to:
 
 #### Life Skills being used
 
-Self-awareness. Critical Thinking, Creative Thinking, Effective Communication.
+Self-awareness, Critical Thinking, Creative Thinking, Effective Communication.
 
 #### Advance Preparations
 
@@ -5046,7 +5111,7 @@ Ask the students to display their findings and make them to think critically, an
 
 Encourage the students to think of the future effects of drug/substance abuse including cumulative economic impact and the impact on personal health.  Refer to the fact sheet to provide them information.
 
-Warn the students about ill effects like depression, reduced school performance, worsening parentchild conflicts, run away, bad behaviour etc.  Inform the students that after understanding about drug/substance abuse, its ill effects will be dealt in detail in a later session.
+Warn the students about ill effects like depression, reduced school performance, worsening parent-child conflicts, run away, bad behaviour etc.  Inform the students that after understanding about drug/substance abuse, its ill effects will be dealt in detail in a later session.
 
 #### Activity 4
 
@@ -5324,7 +5389,7 @@ People who are chewing areca nut for the first time and experienced areca nut co
 
 ###### Long-term effects
 
-Excessive long-term use of areca nut and betel quid has been associated with a number of healthrelated issues and problems such as:
+Excessive long-term use of areca nut and betel quid has been associated with a number of health-related issues and problems such as:
 
 ·discolouration of teeth and gums, sometimes turning reddish-brown
 
@@ -5708,7 +5773,7 @@ Your health - physical, mental, social and spiritual is an asset for doing well 
 
 - 9 Leaving for the examination hall well in advance.
 
-- 9 Checking whether one has taken all the necessary things - pens, pencils, geometry box, hallticket - a checklist of all items is essential.
+- 9 Checking whether one has taken all the necessary things - pens, pencils, geometry box, hall-ticket - a checklist of all items is essential.
 
 - 9 Going to the toilet before entering the examination hall.
 
@@ -5794,7 +5859,7 @@ Most students suffer from anxiety about examinations and their performance.  Whi
 
 - ¾ Following some specific relaxation techniques many times a day - meditation, breathing exercises, prayers and autosuggestion.  This method must be comfortable and useful to the student.  So it is necessary that the student starts using it, months before the exams and see whether it is effective for him/her.
 
-- ¾ Solving old examination papers within specified time 3 hours, i.e. doing mock exams on one's own.
+- ¾ Solving old examination papers within specified time - 3 hours, i.e. doing mock exams on one's own.
 
 - ¾ Recognizing whether one is mildly anxious or highly anxious that interferes with concentration and learning.  If one is highly anxious, sharing it with someone whom the student trusts in and taking help is desirable.
 
@@ -5816,10 +5881,10 @@ Suggested Age Group 12 years and above
 
 #### Activity 1
 
-Greet the students and ask the students to write 10 sentences about themselves on the paper provided and divide them in categories their physical self, their social self and their inner self
+Greet the students and ask the students to write 10 sentences about themselves on the paper provided and divide them in categories - their physical self, their social self and their inner self
 
-S. No. | Category
---- | ---
+S. No. | Sentences about yourself | Category
+--- | --- | ---
 
 Instruct the students that any statement which describes them physically should be labelled as their physical self. e.g. 'I am tall'.
 
@@ -5859,7 +5924,7 @@ Papers, Black board and sketch pens
 
 #### Activity 2
 
-Now ask each student to write ten sentences about a great leader/king e.g. His Majesty the 4 th King, or the person they admire, or a role model whom they respect and love and may want to emulate.
+Now ask each student to write ten sentences about a great leader/king e.g. His Majesty the 4th King, or the person they admire, or a role model whom they respect and love and may want to emulate.
 
 Ask a group of students to act out one incidence (Role play) from the life of the great person that they admire most. Applaud the performance and continue the session.
 
@@ -5901,13 +5966,13 @@ We are what we are not because of our physical self but our inner self.
 
 ##### Ask the students to:
 
-- List 3 of their physical traits?
+1. List 3 of their physical traits?
 
-- List 3 aspects of their character which describe their inner self.
+2. List 3 aspects of their character which describe their inner self.
 
-- List 2 characteristics that describe their social self.
+3. List 2 characteristics that describe their social self.
 
-- How do they think this exercise has been useful?
+4. How do they think this exercise has been useful?
 
 #### Learning in the Community:
 
@@ -5963,25 +6028,32 @@ We must, however, be prepared to listen to others, especially significant others
 
 ###### Self-awareness Questions
 
-- What are your strengths? What are your weaknesses?
+1. What are your strengths?
+What are your weaknesses?
 
-- How do your friends describe you? Do you agree with their descriptions? Why or why not?
+2. How do your friends describe you?
+Do you agree with their descriptions? Why or why not?
 
-- List two situations when you are most at ease. What specific elements were present when you felt that way?
+3. List two situations when you are most at ease.
+What specific elements were present when you felt that way?
 
-- What types of activities did you enjoy doing when you were a child? What about now?
+4. What types of activities did you enjoy doing when you were a child?
+What about now?
 
-- What motivates you? Why?
+5. What motivates you? Why?
 
-- What are your dreams for the future? What steps are you taking to achieve your dreams?
+6. What are your dreams for the future?
+What steps are you taking to achieve your dreams?
 
-- What do you fear most in your life? Why?
+7. What do you fear most in your life? Why?
 
-- What stresses you? What is your typical response to stress?
+8. What stresses you?
+What is your typical response to stress?
 
-- What qualities do you like to see in people? Why? Do you have many friends as you just described? Why or why not?
+9. What qualities do you like to see in people? Why?
+Do you have many friends as you just described? Why or why not?
 
-- 10.When you disagree with someone's viewpoint, what would you do?
+10.When you disagree with someone's viewpoint, what would you do?
 
 149
 
@@ -5993,6 +6065,8 @@ We must, however, be prepared to listen to others, especially significant others
 
 Suggested Age Group 12 years and above
 
+### VALUE OF FRIENDSHIP
+
 #### Activity 1
 
 Greet the students and start the following activity by dividing the class into two groups.  Ask them to form two rows facing each other. Maintain a distance of at least 6 ft. in between the two rows.  Instruct them to start greeting each other in their   own way when the facilitator 'claps'.  After the activity tell them to go back to their respective seats
@@ -6003,13 +6077,13 @@ The gesture should reflect friendliness, which could be verbal and non-verbal. e
 
 Now introduce the topic 'Friendship' and explore the concept by asking the following questions.
 
-- What is friendship?
+1. What is friendship?
 
-- Why do we need a friend?
+2. Why do we need a friend?
 
-- Can girls and boys be friends?
+3. Can girls and boys be friends?
 
-- Can boys and girls friendship be useful in understanding each other?
+4. Can boys and girls friendship be useful in understanding each other?
 
 ##### Possible Responses:
 
@@ -6020,8 +6094,6 @@ Now introduce the topic 'Friendship' and explore the concept by asking the follo
 - Yes, girl and boys can be friends.
 
 - Opposite sex friendships are useful in understanding gender relationships
-
-### VALUE OF FRIENDSHIP
 
 #### Objectives
 
@@ -6091,11 +6163,11 @@ Explain to the participants that if they want friends, but are unable to make an
 
 #### Activity 5
 
-- Why do we need friends?
+1. Why do we need friends?
 
-- Can boys and girls be friends?
+2. Can boys and girls be friends?
 
-- What qualities do you look for in a friend?
+3. What qualities do you look for in a friend?
 
 #### Learning in the Community:
 
@@ -6115,13 +6187,13 @@ Friendship is a term used to denote co-operative and supportive relationship bet
 
 ###### Four qualities that are generally true for all good friends:
 
-TrustworthyGood friends stand by you in times of need. They like you for what you are and accept you.
+Trustworthy- Good friends stand by you in times of need. They like you for what you are and accept you.
 
-Reliable - Good friends can be counted upon and are reliable. They will do their best to keep dates and promises.
+Reliable- Good friends can be counted upon and are reliable. They will do their best to keep dates and promises.
 
-EmpatheticGood friends are sensitive to your feelings. They share your happy times and your bad times too. They comfort you when you are upset.
+Empathetic- Good friends are sensitive to your feelings. They share your happy times and your bad times too. They comfort you when you are upset.
 
-CaringGood friends care for each other. They value each other's feelings as much as their own. They accept the other's weaknesses as well as their strengths.
+Caring- Good friends care for each other. They value each other's feelings as much as their own. They accept the other's weaknesses as well as their strengths.
 
 ###### Qualities of Good Friends:
 
@@ -6171,25 +6243,25 @@ What sort of a 'Friend' would you make?
 
 This instrument can help you to find out about yourself on the friendship scale.  Mark 'Yes' or 'No'.
 
-- Do you feel that you are not worth having as a friend?
+1. Do you feel that you are not worth having as a friend?
 
-- Are you very demanding?  Do you have high expectations of others?
+2. Are you very demanding? Do you have high expectations of others?
 
-- Are you ever disloyal?
+3. Are you ever disloyal?
 
-- Are you generally critical of other people?
+4. Are you generally critical of other people?
 
-- Do you generally wait for someone else to make the first friendly move?
+5. Do you generally wait for someone else to make the first friendly move?
 
-- Do   you offer help when people need it even if they don't ask for it?
+6. Do you offer help when people need it even if they don't ask for it?
 
-- Do you volunteer to take part in-group activities, rather than wait to be asked?
+7. Do you volunteer to take part in-group activities, rather than wait to be asked?
 
-- Do you go out of your way to talk to other people who seem shy or short of friends?
+8. Do you go out of your way to talk to other people who seem shy or short of friends?
 
-- In an argument, do you try and see things from the other person's point of view, as well as your own?
+9. In an argument, do you try and see things from the other person's point of view, as well as your own?
 
-- Do you generally listen when people talk to you?
+10. Do you generally listen when people talk to you?
 
 If someone looks miserable, would it occur to you to ask him/her if anything is wrong or to try to cheer him/her up?
 
@@ -6269,13 +6341,13 @@ Applaud the answers. Reiterate that many times we all especially young people, h
 
 ##### Ask the students:
 
-- Loss of semen weakens the body and so should be avoided?
+1. Loss of semen weakens the body and so should be avoided?
 
-- Does bathing cause menstrual cramps?
+2. Does bathing cause menstrual cramps?
 
-- Should a girl engage in physical activity during her periods?
+3. Should a girl engage in physical activity during her periods?
 
-- Pimples occur due to body heat?
+4. Pimples occur due to body heat?
 
 #### Learning in the community:
 
@@ -6336,29 +6408,11 @@ If a boy has swelling in the breasts it is nothing to worry about. | True - Some
 
 [[START OF PAGE 168]]
 
-Suggested Age Group 12 years and above
-
 ## Module 24
 
+Suggested Age Group 12 years and above
+
 ### CAN I IMPROVE MY MEMORY?
-
-#### Objectives
-
-By the end of the session, the students will be able to:
-
-- 9 Learn various methods for improving memory.
-
-- 9 Adopt some of these methods  to improve their memory.
-
-#### Life Skills being used
-
-Critical Thinking, Creative Thinking, Self-Awareness and Decision Making
-
-#### Advance Preparations
-
-Seven trays or cardboard boxes each having 20 assorted common objects used in daily life, e.g. hairclips, pens, coins, fruits, handkerchiefs, spoons, erasers, ribbon, buttons, etc.,
-
-Pens to write with paper to write on and photocopies of  Memory Tips for student.
 
 #### Activity 1
 
@@ -6378,7 +6432,7 @@ Ask the volunteer to remove the articles after two minutes.  Instruct all member
 
 ##### Guidelines for the Facilitator:
 
-The group members should not discuss or talk during the activity they must keep this as an 'individual' activity. Give them 5 minutes. The volunteers then write down the number of items correctly recalled by each member in his/her team, and see who has scored the maximum.
+The group members should not discuss or talk during the activity - they must keep this as an 'individual' activity. Give them 5 minutes. The volunteers then write down the number of items correctly recalled by each member in his/her team, and see who has scored the maximum.
 
 Encourage students to discuss in their respective groups the questions raised below:
 
@@ -6391,6 +6445,24 @@ Encourage students to discuss in their respective groups the questions raised be
 - Does a student require good memory?  What are the situations which require students to have a good memory?
 
 - Are you aware of any methods to improve memory?
+
+#### Objectives
+
+By the end of the session, the students will be able to:
+
+- 9 Learn various methods for improving memory.
+
+- 9 Adopt some of these methods  to improve their memory.
+
+#### Life Skills being used
+
+Critical Thinking, Creative Thinking, Self-Awareness and Decision Making
+
+#### Advance Preparations
+
+Seven trays or cardboard boxes each having 20 assorted common objects used in daily life, e.g. hair-clips, pens, coins, fruits, handkerchiefs, spoons, erasers, ribbon, buttons, etc.,
+
+Pens to write with paper to write on and photocopies of  Memory Tips for student.
 
 160
 
@@ -6446,7 +6518,7 @@ Chronic alcohol consumption, smoking and use of other drugs also retard memory p
 
 You can really link up the issues and encourage the students to look at their eating and playing habits and mental health areas in a new light - no mean gain!
 
-Tell them about the 3R' s which are important: Registration, Retention and Recall .
+Tell them about the 3R's which are important: Registration, Retention and Recall.
 
 #### Activity 2
 
@@ -6470,9 +6542,9 @@ Tell them about the 3R' s which are important: Registration, Retention and Recal
 
 ##### Ask the students:
 
-- What are the three R's that you learnt today?
+1. What are the three R's that you learnt today?
 
-- What should we do to improve our memory?
+2. What should we do to improve our memory?
 
 #### Learning in the Community:
 
@@ -6548,7 +6620,7 @@ It is possible for a student to register and remember even nonsense information 
 
 - Reading the information with interest - a positive framework and keen interest make any type of learning easier as the connections are made better and faster.  For example, the cricket scores and match dates are remembered better by a student who is a cricket fan, than the geography of South America.
 
-- Avoiding aspects, which can interfere  with registration and recall e.g., mental tension.  It is a common experience that we sometimes forget names, addresses and telephone numbers very familiar to us in situations when we are anxious. Our emotional state significantly impedes recall and one will presume that his or her memory is poor.This leads to lack of selfconfidence and poor self-esteem, which further increases the tension and decreases registration and recall.
+- Avoiding aspects, which can interfere  with registration and recall e.g., mental tension.  It is a common experience that we sometimes forget names, addresses and telephone numbers very familiar to us in situations when we are anxious. Our emotional state significantly impedes recall and one will presume that his or her memory is poor.This leads to lack of self-confidence and poor self-esteem, which further increases the tension and decreases registration and recall.
 
 164
 
@@ -6602,7 +6674,7 @@ Ugyen is a fourteen-year-old boy. He is 5'2" tall and weighs 68 kgs. He stays in
 
 ##### Case Study II
 
-Rinzin is a 10 th  standard girl who is worried about her final board exams. Often she has no time in the morning to have breakfast as she is rushing out to school. So she leaves home after having a cup of tea. She barely eats her lunch
+Rinzin is a 10th standard girl who is worried about her final board exams. Often she has no time in the morning to have breakfast as she is rushing out to school. So she leaves home after having a cup of tea. She barely eats her lunch
 
 or dinner and she has difficulty in concentrating on studies after the meal. This makes her unhappy and irritable. She has a lot of tea to keep her awake.
 
@@ -6764,11 +6836,12 @@ An ' Eating Disorder' is a medical condition with a strong psychological basis. 
 
 #### FACT SHEET
 
-###### OBESITY
+##### EATING PATTERNS
 
+###### OBESITY
 Malnutrition can be under nutrition as well as over nutrition.  The problem of obesity (over nutrition) is gradually emerging as a health problem in the relatively affluent sections of our society. Obesity is caused by the currently prevalent lifestyle among children and adolescents, namely, sedentary habits (lack of exercise, excessive TV viewing, computer games etc.) and 'junking' (consumption of fast food rich in empty calories e.g. pizza, momos,  burgers, potato wafers, aerated drinks etc.)
 
-Adolescence is a vulnerable period for obesity. Since it is also a time when the individual is developing selfimage, obesity can be very detrimental to psychological
+Adolescence is a vulnerable period for obesity. Since it is also a time when the individual is developing self-image, obesity can be very detrimental to psychological
 
 development. It has been observed that obesity that persists through age 12 years increases the risk of adult obesity, which has significant implications on health. It can lead to hypertension and heart disease . Worrying about obesity and going on crash diets is hardly the answer!
 
@@ -6793,8 +6866,6 @@ Internally driven:
 - Good for health
 
 170
-
-##### EATING PATTERNS
 
 [[END OF PAGE 178]]
 
@@ -6824,7 +6895,7 @@ Given above are some examples of eating disorders and the results of excessive w
 
 ###### Body mass index (BMI)
 
-Body mass index (BMI) is currently the most widely accepted calculation of excess body fat for human beings, especially for screening purposes and to monitor the effect of treatments. It is also the calculation used in epidemiological or population-wide measurements of obesity.  It is calculated by dividing the subject's weight in kilograms by the square of his/her height in meters (BMI = kg / m 2 ).
+Body mass index (BMI) is currently the most widely accepted calculation of excess body fat for human beings, especially for screening purposes and to monitor the effect of treatments. It is also the calculation used in epidemiological or population-wide measurements of obesity.  It is calculated by dividing the subject's weight in kilograms by the square of his/her height in meters (BMI = kg / m2).
 
 171
 
@@ -6852,6 +6923,8 @@ Body mass index (BMI) is currently the most widely accepted calculation of exces
 
 Suggested Age Group 12 years and above
 
+### UNDERSTANDING THE MALE BODY
+
 #### Activity 1
 
 Greet the class. Introduce the topic by telling the students that they will be discussing an important topic that has many myths related to it.
@@ -6872,17 +6945,15 @@ Ask them: 'Why in their opinion, should one  know  the  details  of  the  male r
 ##### Possible responses:
 So that one can understand its functioning, so that we know the correct answers, to remove myths, all information is important etc.
 
-### UNDERSTANDING THE MALE BODY
-
 #### Objectives
 
 By  the  end  of  the session, the students will be able to:
 
-- 9 List the parts of the male reproductive system
+- List the parts of the male reproductive system
 
-- 9 Explain its functioning
+- Explain its functioning
 
-- 9 Correct some of the myths related to 'Wet Dreams' and 'Masturbation.'
+- Correct some of the myths related to 'Wet Dreams' and 'Masturbation.'
 
 #### Life Skills being used
 
@@ -6932,7 +7003,7 @@ This can make the session very interesting and humorous! Tell them that by utili
 
 #### Activity 3
 
-Now tell them that the male reproductive system keeps functioning throughout the adult life. Tell them that semen is being produced constantly inside the body and sometimes this could be a source of anxiety to young boys. Tell them we will discuss a Case Study 'What is happening to Tenzin' to understand this better. Read out/make a student read the following Case Study
+Now tell them that the male reproductive system keeps functioning throughout the adult life. Tell them that semen is being produced constantly inside the body and sometimes this could be a source of anxiety to young boys. Tell them we will discuss a Case Study 'What is happening to Tenzin' -to understand this better. Read out/make a student read the following Case Study
 
 ##### 'What is Happening to Tenzin?'
 
@@ -6996,7 +7067,7 @@ Tell them that since the cup has a certain capacity and when the cup was full, e
 
 ##### Recap the following at the end of the period:
 
-- Information acquired about sexual organs and their functioning is useful for gaining selfawareness and self-esteem.
+- Information acquired about sexual organs and their functioning is useful for gaining self-awareness and self-esteem.
 
 - Having 'Wet Dreams' is perfectly normal for boys during and after puberty. It indicates that a person is becoming mature. It is not bad or immoral.
 
@@ -7040,6 +7111,26 @@ The Penis is the male sex organ for sexual intercourse.  It is a tubular organ w
 
 The Scrotum:  It is a loose pouch of skin located behind on both sides of penis which contains the testicles. It controls the temperature necessary for sperm production and survival. The skin of the scrotum is very thin and may be of reddish colour/lighter colour in early adolescence and appears darker as the age advances. This is entirely normal.
 
+Our Bodies - What is the Male Reproductive System?
+
+Male-Internal
+Ureter
+Seminal Vesicle
+Urinary Bladder
+Vas Deferens
+Prostrate
+Penis
+Urethra
+Foreskin
+Testes
+Scrotum
+Rectum
+Anus
+
+Male-External
+Testes
+Penis
+
 178
 
 [[END OF PAGE 186]]
@@ -7062,7 +7153,7 @@ Glands: The glands includes the seminal vesicles, prostate gland and bulbo ureth
 
 ##### On Masturbation
 
-Most students have had some experience with masturbation before puberty although many of them maybe unfamiliar with the word 'Masturbation'.  They have heard it called 'touching yourself', 'selfabuse,' or more commonly among the boys, the slang term 'jacking off'. Simply stated - self stimulation of the genital organs is called masturbation.
+Most students have had some experience with masturbation before puberty although many of them maybe unfamiliar with the word 'Masturbation'.  They have heard it called 'touching yourself', 'self-abuse,' or more commonly among the boys, the slang term 'jacking off'. Simply stated - self stimulation of the genital organs is called masturbation.
 
 Authorities tell us that it is an almost universal practice among healthy boys and is also a common behaviour in girls.  People learn it by themselves or else from their youthful friends.  Masturbation may begin at any age and it has been observed in children under three years of age.  It may be started again in the adolescent years and re-occurs in adult life during times of stress or sexual deprivation. At one time, there was a great deal of concern about masturbation.  Many people thought it  caused serious health and sexual problems, and it was regarded as sin.  While some of these attitudes and beliefs have changed today, there is still a lot of misinformation and misunderstanding about masturbation.
 
@@ -7112,6 +7203,8 @@ FACT: There is no connection between masturbation and weakness, impotency and in
 
 Suggested Age Group 12 years and above
 
+### EARLY SEX AND ITS CONSEQUENCES
+
 #### Activity 1
 
 Greet the class and introduce the topic.
@@ -7122,24 +7215,20 @@ Invite reporters of both groups in turn to display their charts and represent th
 
 #### Activity 2
 
-Now, divide the class into 3-4 sub groups and ask each group to choose a reporter. Give each group a chart paper and pens. Ask them to write their responses to the following query: 'What can be the adverse consequences of early sex?
+Now, divide the class into 3-4 sub groups and ask each group to choose a reporter. Give each group a chart paper and pens. Ask them to write their responses to the following query: 'What can be the adverse consequences of early sex?'
 
 Give the subgroups 10 minutes to complete the exercise and then ask each subgroup to present their responses to the larger group.
 
 ##### Possible responses -
-Sexually Transmitted Infections (STIs), unwanted pregnancy,  unwed  parenthood, emotional problems because   of heartbreaks, social problems and
-
-ostracism, interruption in studies, family problems, loss of a job, problems in future marriage.  The consequences of pregnancy, STIs and social consequences are much more severe in young people, i.e., before their body and mind has matured.
-
-### EARLY SEX AND ITS CONSEQUENCES
+Sexually Transmitted Infections (STIs), unwanted pregnancy,  unwed  parenthood, emotional problems because   of heartbreaks, social problems and ostracism, interruption in studies, family problems, loss of a job, problems in future marriage.  The consequences of pregnancy, STIs and social consequences are much more severe in young people, i.e., before their body and mind has matured.
 
 #### Objectives
 
 By the end of the session, the students will be able to
 
-- 9 List the consequences of early sexual intercourse.
+- List the consequences of early sexual intercourse.
 
-- 9 Realize the importance of marrying at a late age.
+- Realize the importance of marrying at a late age.
 
 #### Life Skills being used
 
@@ -7324,11 +7413,13 @@ Sex has physiological, psychological, emotional, moral, social, legal and medica
 
 Suggested Age Group 12 years and above
 
+### OUR REPRODUCTIVE SYSTEM
+
 #### Activity 1
 
 Greet the class & start the session by asking the following questions to the student:
 
-' What are the organs/systems of the human body that you know of?'
+'What are the organs/systems of the human body that you know of?'
 
 ##### Possible Responses -
 Digestive system, Heart, Liver, Testes, Uterus, Circulators system, bones, Brain, Eyes, Stomach, Nervous system, Endocrine system etc
@@ -7348,13 +7439,11 @@ State that this is the basic lesson about the reproductive system. Over the year
 
 Link the topic with the lessons given in the science books. They may or may not have been taught these. Use this opportunity to clear doubts and any questions that students may have.
 
-### OUR REPRODUCTIVE SYSTEM
-
 #### Objectives
 
 By the end of the session, students will be able to:
 
-- 9 Understand the structure and  functioning  of reproductive organs.
+- Understand the structure and  functioning  of reproductive organs.
 
 #### Life Skills being used
 
@@ -7463,6 +7552,22 @@ Reproduction is a normal and natural part of human behaviour and function. Along
 
 Our Bodies - What is the Female Reproductive System?
 
+Female-Internal
+Fallopian Tubes
+Ovaries
+Uterus (Womb)
+Cervix
+Vagina
+
+Female-External
+Vulva
+Labia majora
+Clitoris
+Opening to the urethra
+Labia minora
+Opening to the vagina
+Anus
+
 190
 
 [[END OF PAGE 198]]
@@ -7518,6 +7623,24 @@ Our Bodies - What is the Female Reproductive System?
 - Epididymis: Area where sperms are stored in testes.
 
 Our Bodies - What is the Male Reproductive System?
+
+Male-Internal
+Ureter
+Seminal Vesicle
+Urinary Bladder
+Vas Deferens
+Prostrate
+Penis
+Urethra
+Foreskin
+Testes
+Scrotum
+Rectum
+Anus
+
+Male-External
+Testes
+Penis
 
 ###### Genital Hygiene
 
@@ -7575,9 +7698,9 @@ Greet the class and make them stand in a circle and ask them to pick a question 
 
 By the end of the session, the students will be able to:
 
-- 9 Mingle with one another and share some of their ideas about alcohol use.
+- Mingle with one another and share some of their ideas about alcohol use.
 
-- 9 Understand and have a mental picture of a person who abuses alcohol and substance
+- Understand and have a mental picture of a person who abuses alcohol and substance
 
 #### Life Skills being used
 
@@ -7647,7 +7770,7 @@ There was a couple named Dawa and Deki. They were both blessed with good looks a
 
 Kinga lives in a small town and is a good student. He is loved by all at home and is popular in school. Kinga lost his father when he was a child. His mother has recently started noticing some changes in him - he has stopped playing football, he comes home late at night and sleeps all day and misses school. He is irritable and is constantly asking for money. Sometimes, Kinga (was always a quiet person) breaks into sobs and asks his mother to forgive him. This astounds his mother who has always been close to her only son! His mother suspects that he may be stealing money from her kitty. His school results are suffering and his principal has warned Kinga and his mother. Kinga's mother is at her wits end. She is frightened of her son, and has no close friends or relatives she can confide in.
 
-When her nephew comes to visit, Kinga's mother begs him to find out what is wrong. A few days later, Kinga's cousin has horrifying news! Kinga is taking drugs. Kinga started experimenting with drugs just for fun! Kinga's mother doesn't have the money or the courage to take her son to deaddiction clinic. She is frightened that her landlord will ask her to vacate the flat and Kinga will be sent out from school. Her life has become a living hell.
+When her nephew comes to visit, Kinga's mother begs him to find out what is wrong. A few days later, Kinga's cousin has horrifying news! Kinga is taking drugs. Kinga started experimenting with drugs just for fun! Kinga's mother doesn't have the money or the courage to take her son to de-addiction clinic. She is frightened that her landlord will ask her to vacate the flat and Kinga will be sent out from school. Her life has become a living hell.
 
 - What do you think Kinga's mother should do?
 
@@ -7825,7 +7948,7 @@ Intervene only in the case of a controversy. You can also add  some more interes
 
 By the end of the session, the students will be able to:
 
-- 9 Understand and recognize the myths and misconceptions associated with growing up, sex, sexuality, gender, STI/ HIV.
+- Understand and recognize the myths and misconceptions associated with growing up, sex, sexuality, gender, STI/HIV.
 
 #### Life Skills being used
 
@@ -7843,36 +7966,35 @@ Statements  written  on separate cards.
 
 ##### STATEMENTS
 
-###### Education of Human Sexuality in schools and colleges will lead to excessive sexual experimentation - Misconception
+###### 1. Education of Human Sexuality in schools and colleges will lead to excessive sexual experimentation - Misconception
 
 Adolescents and teenagers are adventurous and like to experiment and experience new things. This may apply to sex also. The aim of human sexuality education is to provide accurate and correct knowledge about human sexuality and the hidden dangers involved in reckless experimentation, and build skills for responsible behaviour.
 
-Sexuality education usually has a strong component on skill building . This will help them to take informed and correct decisions at the appropriate time. Available data on sexuality and HIV education programmes shows that sexuality education programmes do not lead to increase in sexual activity. On the contrary the data shows that the percentage of youth involved in sexual activity markedly decreases after such programmes. In addition, such programmes increase abstinence among adolescents and also delay sexual debut.
+Sexuality education usually has a strong component on skill building. This will help them to take informed and correct decisions at the appropriate time. Available data on sexuality and HIV education programmes shows that sexuality education programmes do not lead to increase in sexual activity. On the contrary the data shows that the percentage of youth involved in sexual activity markedly decreases after such programmes. In addition, such programmes increase abstinence among adolescents and also delay sexual debut.
 
-###### It is normal to have sex fantasies and mood changes during adolescence - Fact
+###### 2. It is normal to have sex fantasies and mood changes during adolescence - Fact
 
 During adolescence the body undergoes several hormonal changes and these may result in mood swings, changes in feelings towards opposite sex/same sex, and at times sexual fantasies/thoughts which make the adolescent feel good. These are all perfectly natural body reactions and very normal processes.
 
-###### You have to have sexual intercourse to catch an Reproductive Tract Infection (RTI) - Misconception
+###### 3. You have to have sexual intercourse to catch an Reproductive Tract Infection (RTI) - Misconception
 
-- No. RTI are different from Sexually Transmitted Infection. Sometimes girls and women can
+No. RTI are different from Sexually Transmitted Infection. Sometimes girls and women can catch infections such as thrush (reproductive tract infections) without having had sex.
 
-catch infections such as thrush (reproductive tract infections) without having had sex.
+###### 4. Young people don't get AIDS - Myth
 
-###### Young people don't get AIDS - Myth
 Young people are at the centre of the HIV Epidemic - As mentioned earlier, a lack of accurate knowledge and limited access to services makes young people very vulnerable to HIV infection. World wide nearly 50% of new HIV infections occur in young people
 
-- 4.
+###### 5. A girl cannot get pregnant if she has sexual intercourse once or occasionally - Myth
 
-###### A girl cannot get pregnant if she has sexual intercourse once or occasionally - Myth
+A single intercourse, including the first one is enough for pregnancy to occur. Whether or not she will become pregnant depends largely on the timing of ovulation and sexual contact.
 
-- A single intercourse, including the first one is enough for pregnancy to occur. Whether or not she will become pregnant depends largely on the timing of ovulation and sexual contact.
+###### 6. A girl can get pregnant even if a boy does not ejaculate inside her - Fact
 
-###### A girl can get pregnant even if a boy does not ejaculate inside her - Fact
 Even if a boy ejaculates near the girl's genitalia, spermatozoa can still find their way inside. Besides, the spermatozoa are present in the fluid that oozes out (without actual ejaculation) from the tip of the penis. This is enough to cause a pregnancy.
 
-###### Larger breasts produce more milk than smaller breasts - Myth
-The amount of breast milk produced is not dependant on the size of the breasts. All breasts contain the same number of milk producing glands. The fat tissue decides the size of  the breast.
+###### 7. Larger breasts produce more milk than smaller breasts - Myth
+
+The amount of breast milk produced is not dependant on the size of the breasts. All breasts contain the same number of milk producing glands. The fat tissue decides the size of the breast.
 
 201
 
@@ -7896,15 +8018,15 @@ The act of sexual intercourse should be one of mutual agreement and not force.
 
 Vasectomy is a procedure in which a portion of the vas deferens is cut and ligated. The vas deferens transports the spermatozoa from the testes to the urethra. So in vasectomy the testes and accessory sexual organs, prostate and seminal vesicles which produce the fluid are normal. So the sexual performance is unaffected. The person even ejaculates but the fluid will be devoid of spermatozoa. Since the testes are functioning normally testosterone secretion and virility remains intact.
 
-###### Tubectomy can lead to chronic backache, pain in abdomen and weakness in women - Myth
+###### 11. Tubectomy can lead to chronic backache, pain in abdomen and weakness in women - Myth
 
 In tubectomy, part of the fallopian tubes are ligated and cut. All the other parts are intact. The woman menstruates normally. Only no ovum reaches the uterus. So if the woman is healthy she will not have any complaints after tubectomy.
 
-###### Once a boy has an erection, he must have sexual intercourse or it could be harmful to his health - Myth
+###### 12. Once a boy has an erection, he must have sexual intercourse or it could be harmful to his health - Myth
 
 An erection with or without sexual stimulation (when standing with friends, at a meeting, in classroom, when walking, sleeping….) are perfectly natural body reactions and it is not essential to have sexual intercourse following an erection. Similar to the egg/ovum of the female, the unused sperm is disintegrated in the body as part of the natural process and there is no build-up of semen in the scrotum.
 
-###### Contraceptives such as I.U.D. and pill protect women from getting HIV and Sexually transmitted infections - Misconception
+###### 13. Contraceptives such as I.U.D. and pill protect women from getting HIV and Sexually transmitted infections - Misconception
 
 Contraceptives such as I.U.D. and pill protect women from getting pregnant by either preventing the fertilized egg from embedding in the uterus or by preventing the release of an ovum. These are not barrier methods and therefore do not block entry of the semen into the vagina. They do not have any anti HIV properties that will destroy the HIV virus or prevent STIs and therefore they do not protect a woman from getting HIV or any other sexually transmitted infections.
 
@@ -7914,45 +8036,44 @@ Contraceptives such as I.U.D. and pill protect women from getting pregnant by ei
 
 [[START OF PAGE 211]]
 
-14.
-
-- 15.
-
-- 16.
-
-- 17.
-
-###### STIs can be cured easily - Myth
+###### 14. STIs can be cured easily - Myth
 
 Some STIs, such as gonorrhoea or syphilis can be cured easily, if the person takes the full course of treatment. However, some STIs such as HIV and hepatitis B have no cure. No STI is self curing.
 
-###### You cannot catch an STI again, after you have been treated for an STI and cured - Myth
+###### 15. You cannot catch an STI again, after you have been treated for an STI and cured - Myth
+
 You can catch an STI again, even after you have been treated for an STI and have been cured, as treatment for STIs is not a vaccine and does not offer lifelong immunity to the infection.
 
-###### Symptoms of STIs sometimes go away without treatment if you wait long enough - Fact
+###### 16. Symptoms of STIs sometimes go away without treatment if you wait long enough - Fact
 
 Yes, but it does not mean that the person is cured. The disease may still be there. The visible symptoms may have decreased, but the infection can cause internal harm if untreated. Untreated STIs may have long-term effects such as causing sterility, miscarriages, etc
 
-###### All STIs can be cured - Myth
+###### 17. All STIs can be cured - Myth
+
 No, HIV, hepatitis B and genital herpes cannot be cured. Thus abstinence - which is 100% safe is the best option.
 
-###### Men are more likely to know if they have an STI than women - Fact
+###### 18. Men are more likely to know if they have an STI than women - Fact
+
 Yes, men are more likely to know if they have an STI than women. Women may remain asymptomatic - and may not display any visible symptoms of infection (for e.g. with chlamydia) so it is important to go for regular checkups.
 
-###### A condom gives protection against STIs - Fact
+###### 19. A condom gives protection against STIs - Fact
+
 Yes, a condom, used correctly and consistently, provides protection against STIs. However, as not all young people know how to use it properly, it is still not 100% safe. Abstinence is the ONLY method that provides 100% protection against STI - and pregnancy.
 
-###### Women taking the pill can get an STI - Fact
+###### 20. Women taking the pill can get an STI - Fact
+
 Yes, women taking the pill can get an STI - the pill is only a contraceptive and prevents pregnancy but it does not offer any protection against sexually transmitted infections.
 
-###### Women can have an STI without knowing it - Fact
+###### 21. Women can have an STI without knowing it - Fact
 
 Yes, women can be asymptomatic (can have an STI without knowing it).
 
-###### Women are responsible for spreading STIs - Misconception
+###### 22. Women are responsible for spreading STIs - Misconception
+
 No, women are not the only ones responsible for spreading STIs - STIs are spread through unsafe sexual intercourse that may be practised by both men and women.
 
-###### You can't get HIV from a person who looks healthy - Myth
+###### 23. You can't get HIV from a person who looks healthy - Myth
+
 People can look healthy for more than 10 years, until the progression to AIDS. During this time he/she may continue to be healthy, but spread the virus to other people through unprotected sexual intercourse. You cannot recognize an HIV+ person by looking at his/ her face.
 
 203
@@ -7961,10 +8082,12 @@ People can look healthy for more than 10 years, until the progression to AIDS. D
 
 [[START OF PAGE 212]]
 
-###### Having sex with a virgin/younger woman is a cure for HIV - Myth
+###### 24. Having sex with a virgin/younger woman is a cure for HIV - Myth
+
 This is myth which puts young girls at very high risk of abuse and infection. There is no cure for HIV that has been proven to work in all cases till now. It is best to 'remain safe' rather than to search for a 'cure' of HIV.
 
-###### Sharing needles and syringes can transmit HIV- Fact
+###### 25. Sharing needles and syringes can transmit HIV- Fact
+
 This is one of the methods - whether for medicines or for sharing Intavenous drugs- that is the cause of spread of HIV in many countries of the world.
 
 ##### Guidelines for the Facilitators:
@@ -8033,11 +8156,13 @@ The incidence of premarital pregnancy, HIV/AIDS is increasing among adolescents.
 
 Suggested Age Group 13 years and above
 
+### DEALING WITH PEER PRESSURE
+
 #### Activity 1
 
 Greet the class and introduce the topic by telling the following joke:
 
-Ask the class whether they know the meaning of the word 'peer '.
+Ask the class whether they know the meaning of the word 'peer'.
 
 ##### Possible responses:
 
@@ -8047,7 +8172,7 @@ Ask the class whether they know the meaning of the word 'peer '.
 
 Tell them that Peer means someone of their own age group. These are people who may share your interests or have similar likes and dislikes. They may or may not be your friends but are a strong influence on your appearance or behaviour
 
-Now ask them whether their peer group is important to them or not ? Is it important for them to belong to their peer group?
+Now ask them whether their peer group is important to them or not? Is it important for them to belong to their peer group?
 
 ##### Possible responses:
 
@@ -8059,15 +8184,13 @@ Now ask them whether their peer group is important to them or not ? Is it import
 
 The age of adolescence is such that the peer group becomes most important - even more than the family! There might not be any response that does not actually agree that the peer group is very important. As the youngsters move away from family they place all their faith and belief in the peer group and in fact look for their identity in their peer group. So the acceptance into the peer group is very important.
 
-### DEALING WITH PEER PRESSURE
-
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Understand the terms 'peer' and 'peer pressure'
+- Understand the terms 'peer' and 'peer pressure'
 
-- 9 Realize the positive and negative influences of peer pressure.
+- Realize the positive and negative influences of peer pressure.
 
 #### Life Skills being used
 
@@ -8117,9 +8240,9 @@ State that utilizing 'peer group' training methods pays dividends because adoles
 
 (To protect ourselves / to stand firm / we want to say no, but do not as we feel we may hurt the other person - we still feel unhappy)
 
-- Is it more difficult to say NO to a close friend, especially of the opposite
+- Is it more difficult to say NO to a close friend, especially of the opposite sex? How would it have been different? How would they have reacted?
 
-- sex? How would it have been different? How would they have reacted? (Much harder or difficult if the person is a best friend)
+(Much harder or difficult if the person is a best friend)
 
 207
 
@@ -8135,7 +8258,7 @@ State that utilizing 'peer group' training methods pays dividends because adoles
 
 (Media pressure, parental pressure, etc.)
 
-- What Life Skills are needed to cope up with these pressures?
+10. What Life Skills are needed to cope up with these pressures?
 
 (Self Awareness, Coping with Emotions, Critical Thinking, Decision Making).
 
@@ -8253,6 +8376,8 @@ The behaviour of an individual is usually due to role modelling, sharing ideas a
 
 Suggested Age Group 13 years and above
 
+### I DON'T WANT TO DRINK ALCOHOL
+
 #### Activity 1
 
 Greet the students. Introduce the topic by asking the class, ' What comes to your mind when you hear the word 'Alcohol'?'
@@ -8273,21 +8398,19 @@ Divide the class into 5 groups. See that there are 6-8 students in each group. A
 
 ##### Topics :
 
-- The impacts of drinking alcohol on the health of an individual (physical, mental,  social  and emotional.)
+- The impacts of drinking alcohol on the health of an individual (physical, mental, social and emotional.)
 
 - The impacts of drinking alcohol on the family, on society, on the community and on the nation
-
-### I DON'T WANT TO DRINK ALCOHOL
 
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Realize the adverse consequences of consuming alcohol.
+- Realize the adverse consequences of consuming alcohol.
 
-- 9 Clarify myths connected with alcohol
+- Clarify myths connected with alcohol
 
-- 9 Practice ways of saying 'No' to alcohol
+- Practice ways of saying 'No' to alcohol
 
 #### Life Skills being used
 
@@ -8347,15 +8470,15 @@ Drinking causes various health problems like:
 
 - Telling lies to get money to drink alcohol.
 
-- Loans and debts, going into poverty.
+a. Loans and debts, going into poverty.
 
-- Selling household things, stealing
+b. Selling household things, stealing
 
-- Begging in public places to collect money for drinking.
+c. Begging in public places to collect money for drinking.
 
-- Street accidents, crime, rising medical costs, violence etc.
+d. Street accidents, crime, rising medical costs, violence etc.
 
-- Abusive language
+e. Abusive language
 
 213
 
@@ -8387,11 +8510,7 @@ Ask Group 4 and 5 to present their findings through short role plays and depict 
 
 - Telling friends that their parents disapprove of alcohol and he/ she has similar views.
 
-·
-
-·
-
-- Pointing out other way of  having fun, e.g. - dancing
+- Pointing out other way of having fun, e.g. - dancing
 
 - Telling friends that alcohol affects health and can cause cancer, liver damage, kidney failure, skin problems, etc.
 
@@ -8403,17 +8522,11 @@ Different situations require different methods depending on whether the other pe
 
 Applaud the actors and discuss the role plays and come out with the following points.
 
-·
-
 - It is necessary for students to develop very clear 'Do's and Don'ts' related to alcohol and to follow them.
 
 - Students need to think and take decisions beforehand to keep away from drinking.
 
-·
-
 - Adolescents need to realize that they can 'have fun' without consuming alcohol
-
-·
 
 - They need to have communication skills to convince friends that it is not necessary for anybody to drink alcohol.
 
@@ -8603,6 +8716,8 @@ FACT: Behavioural research has documented that in a group drinking alcohol even 
 
 Suggested Age Group 13 years and above
 
+### QUESTIONING OUR BELIEFS
+
 #### Activity 1
 
 Greet the class & tell them that we have some beliefs dear to us. Today's session will examine whether those beliefs are rational or not, and how to analyse and then give up those beliefs that are not rational.
@@ -8635,21 +8750,19 @@ Ask the students to comment on some of the following common beliefs: whether the
 
 - Everyone is selfish.
 
-### QUESTIONING OUR BELIEFS
-
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Question the rationality of the beliefs held by them.
+- Question the rationality of the beliefs held by them.
 
-- 9 Analyze  whether  a statement is a rational or an irrational belief.
+- Analyze whether a statement is a rational or an irrational belief.
 
-- 9 State  strategies  for refuting irrational beliefs.
+- State strategies for refuting irrational beliefs.
 
 #### Life Skills being used
 
-Critical  Thinking,  SelfAwareness, Decision Making, Coping with stress, Effective Communication
+Critical Thinking, Self-Awareness, Decision Making, Coping with stress, Effective Communication
 
 #### Advance Preparations
 
@@ -8703,7 +8816,7 @@ Now ask the students to brain storm on: 'What good things could happen if they g
 
 Assess if the adolescents were able to debate, discriminate and define irrational beliefs. If so, proceed to the next step. If some adolescents are still not clear about irrational beliefs, facilitate some more discussion. Tell the students that it is important to be able to analyze our beliefs and give up the irrational ones.
 
-Explain to the students that the following three 'D's'Debate, Discriminate and Define that can be utilized to give up irrational beliefs. In addition, 'Reflecting on the situation' can be valuable. These processes utilize the Life Skills like Critical Thinking , Self-Awareness & Decision Making .
+Explain to the students that the following three “D’s”- Debate, Discriminate and Define that can be utilized to give up irrational beliefs. In addition, ‘Reflecting on the situation’ can be valuable. These processes utilize the Life Skills like Critical Thinking, Self-Awareness & Decision Making.
 
 ##### Guidelines for the Facilitator:
 
@@ -8713,7 +8826,7 @@ Once irrational beliefs have been identified, adolescents should be taught how t
 
 Debating is asking such questions as, 'What evidence is there to support the belief' or 'What makes this belief so or not so'-'In which way does it have truth or falseness'?
 
-Discriminating helps the person to clearly distinguish between wants and needs, desires and demands, rational and irrational ideas, absolute and nonabsolute values and behaviour.
+Discriminating helps the person to clearly distinguish between wants and needs, desires and demands, rational and irrational ideas, absolute and non-absolute values and behaviour.
 
 Defining consists of helping the individual to choose their terms more precisely.
 
@@ -8807,6 +8920,8 @@ Write either 'Do not agree', 'Somewhat agree' or 'Agree totally' for each statem
 
 #### FACT SHEET
 
+##### IRRATIONAL/RATIONAL BELIEFS
+
 ###### Rational thinking
 
 Rational thinking presents a vivid contrast to its illogical opposite:
@@ -8843,17 +8958,17 @@ Rational thinking is realistic thinking. It is concerned with facts - the real w
 
 - An inability to comprehend the social consequences of one's own actions, possibly due to a lack of empathy.
 
-##### IRRATIONAL/RATIONAL BELIEFS
-
 226
 
 [[END OF PAGE 234]]
 
 [[START OF PAGE 235]]
 
+## Module 34
+
 Suggested Age Group 14 years onwards
 
-## Module 34
+### HIV/AIDS IS PREVENTABLE
 
 #### Activity 1
 
@@ -8881,17 +8996,15 @@ State that blood transfusion may be risky but blood DONATION is not risky! Encou
 
 Ask the students for the safer choices to prevent oneself from getting infected with HIV/AIDS from each of the above behaviours. Note down the answers of the students on the blackboard.
 
-Possible Responses: abstinence, being faithful, condom, not using used syringes, not  taking drugs, not taking blood transfusion unless absolutely necessary.
-
-### HIV/AIDS IS PREVENTABLE
+Possible Responses: abstinence, being faithful, condom, not using used syringes, not taking drugs, not taking blood transfusion unless absolutely necessary.
 
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Learn ways to protect themselves against HIV/ AIDS
+- Learn ways to protect themselves against HIV/AIDS
 
-- 9 Make safe choices to protect themselves from getting HIV.
+- Make safe choices to protect themselves from getting HIV.
 
 #### Life Skills being used
 
@@ -9057,6 +9170,8 @@ Some doctors only wipe  the used needle with spirit or any other antiseptic. Thi
 
 Suggested Age Group 14 years and above
 
+### BOYS AND GIRLS CAN BE FRIENDS
+
 #### Activity  1
 
 Greet the class and introduce the topic. Tell them that they will be discussing more about friendship with a special focus on girl-boy friendship. Tell them that a story will be read in three parts and questions asked on it later.
@@ -9065,7 +9180,7 @@ Read the story below aloud or ask a volunteer to read it to the class. Read the 
 
 ##### Pem's story:
 
-Pem is a 14 year old girl studying in 8 th  standard. She stays with her parents and has two younger brothers and one elder sister. Her father runs a small petty shop and mother helps the father in running the shop. Pem does lot of household work. Pem is an intelligent girl. Recently Pem was taken by school authorities to a music competition where she had the opportunity to meet the students- boys and girls from other schools. One of them was Tashi who is studying in class X standard in another nearby school. Tashi helped Pem and encouraged her to do her best in the competition. Now they have started meeting after school hours. They talk about their friends; T.V. programs etc. and share each other's secrets. Pem has not spoken about Tashi to her parents or sister. She received a small card from Tashi on her birthday, which made her very happy.
+Pem is a 14 year old girl studying in 8th standard. She stays with her parents and has two younger brothers and one elder sister. Her father runs a small petty shop and mother helps the father in running the shop. Pem does lot of household work. Pem is an intelligent girl. Recently Pem was taken by school authorities to a music competition where she had the opportunity to meet the students- boys and girls from other schools. One of them was Tashi who is studying in class X standard in another nearby school. Tashi helped Pem and encouraged her to do her best in the competition. Now they have started meeting after school hours. They talk about their friends; T.V. programs etc. and share each other's secrets. Pem has not spoken about Tashi to her parents or sister. She received a small card from Tashi on her birthday, which made her very happy.
 
 Ask the following questions. Let the discussion take place so that diverse opinions can be brought out.
 
@@ -9075,15 +9190,13 @@ Ask the following questions. Let the discussion take place so that diverse opini
 
 Now read the next part of the story. Read it twice and also put up the chart for display.
 
-### BOYS AND GIRLS CAN BE FRIENDS
-
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Get acquainted with the various kinds of healthy boy-girl relationships.
+- Get acquainted with the various kinds of healthy boy-girl relationships.
 
-- 9 Learn to choose positive approaches to solving some of the challenges of boy-girl relationships
+- Learn to choose positive approaches to solving some of the challenges of boy-girl relationships
 
 #### Life Skills being used
 
@@ -9092,8 +9205,6 @@ Coping with emotions, Coping with stress, Critical Thinking, Effective Communica
 #### Advance Preparations
 
 Chart paper with the story written on it, cello tape
-##### Pem's story -  contd.
-Pem hid Tashi's card from her sister and wants to talk to Tashi many times a day. Whenever she sits to study, her thoughts drift to Tashi and she is unable to concentrate. She is also doing less work at home. She is feeling stressed. Tashi also thinks about her but is busy and talks to her once in 2 or 3 days.
 
 233
 
@@ -9101,17 +9212,23 @@ Pem hid Tashi's card from her sister and wants to talk to Tashi many times a day
 
 [[START OF PAGE 242]]
 
+##### Pem's story – contd.
+
+Pem hid Tashi's card from her sister and wants to talk to Tashi many times a day. Whenever she sits to study, her thoughts drift to Tashi and she is unable to concentrate. She is also doing less work at home. She is feeling stressed. Tashi also thinks about her but is busy and talks to her once in 2 or 3 days.
+
 ##### Now ask:
 
-- What do you think now about the relationship between Pem and Tashi? Possible Response: Infatuation from Pem's side, severe crush, starting of a romance.
+1) What do you think now about the relationship between Pem and Tashi?
 
-- 2)
+Possible Response: Infatuation from Pem's side, severe crush, starting of a romance.
 
-'What is happening to Pem's life?' 'What can be the adverse effects for future?' Possible Response: She is unable to concentrate on studies, she spends time thinking about Tashi, she is doing less work at home, she is stressed, her life is suffering, she may not get good marks, then she may not get a vocation of her choice, her relationship with parents and siblings may suffer, she may have a heart break, she may be prompted to do what Tashi asks her, etc
+2) 'What is happening to Pem's life?' 'What can be the adverse effects for future?'
 
-- 3)
+Possible Response: She is unable to concentrate on studies, she spends time thinking about Tashi, she is doing less work at home, she is stressed, her life is suffering, she may not get good marks, then she may not get a vocation of her choice, her relationship with parents and siblings may suffer, she may have a heart break, she may be prompted to do what Tashi asks her, etc
 
-Why are crushes and romance common among teenagers and young people? Possible Responses : Heightened feeling or emotions, get easily influenced, unable to control emotions, wanting to imitate adult behaviour, unable to think clearly, influence of media etc.
+3) Why are crushes and romance common among teenagers and young people?
+
+Possible Responses: Heightened feeling or emotions, get easily influenced, unable to control emotions, wanting to imitate adult behaviour, unable to think clearly, influence of media etc.
 
 ##### Guidelines for the Facilitator:
 
@@ -9147,7 +9264,7 @@ Ask the class 'What is happening to Pem now?' 'Why?'
 
 ##### Possible Responses:
 
-She is under tremendous stress, she is in love and love is blind, she is confused and has divided loyaltiesto her values and to her new friend Tashi, She doesn't have the required skills to think clearly, she doesn't  have the guts to say no, she is in her heart of hearts - wants to meet him after dark,  she is devoid of support system as she has no one to consult. She should use a combination of Life Skills to manage the situation- some may give specific examples.
+She is under tremendous stress, she is in love and love is blind, she is confused and has divided loyalties- to her values and to her new friend Tashi, She doesn't have the required skills to think clearly, she doesn't have the guts to say no, she is in her heart of hearts - wants to meet him after dark, she is devoid of support system as she has no one to consult. She should use a combination of Life Skills to manage the situation- some may give specific examples.
 
 ##### Guidelines for the Facilitator:
 
@@ -9181,7 +9298,7 @@ Understanding the friend, cultural sensitivities, kindness, giving respect, not 
 
 Applaud the students. Tell them that these statements reflect the students' level of comfort with LS like self awareness, critical thinking, creative thinking, interpersonal relationship, effective communication, coping with stress  etc. Tell them that in our societies girls and boys are treated differently and have  different kinds of expected roles. If both the genders have empathy for each other, use self-awareness to draw their own limits, critically think about their expectations from others and about their behaviour (thoughts, language, actions) towards others, listen to the other person with respect (effective communication), do not let major problems develop (problem solving) and take the various stresses well (coping with emotions and stress) by various mechanism including self awareness and humour, they can enjoy healthy relationships.
 
-Point out and warn that we all must take care that girls are not harmed in the parties that are organized by the students or where large number of students meet. State that we all can take precautions both girls and boys - that no untoward instances take place at such parties. Point out that there have been reports from some areas reflecting that some boys -after consuming alcohol misbehaved with the girl students -especially seeing them moving about in the dark.
+Point out and warn that we all must take care that girls are not harmed in the parties that are organized by the students or where large number of students meet. State that we all can take precautions – both girls and boys – that no untoward instances take place at such parties. Point out that there have been reports from some areas reflecting that some boys –after consuming alcohol misbehaved with the girl students –especially seeing them moving about in the dark.
 
 See to it that a small discussion takes place on such and other significant points.
 
@@ -9215,6 +9332,8 @@ Ask the students to write in their notebooks as to 'which LS would help in manag
 
 Suggested Age Group 14 years and above
 
+### DECISION MAKING FOR HEALTH
+
 #### Activity 1
 
 Greet the Class.  Tell them that in today's class they will discuss a method which will assist one's Decision Making ability.
@@ -9225,15 +9344,15 @@ Ask the class 'What do they think are the steps required to assist in arriving a
 
 After listing their responses, tell the students about the various steps in Decision Making
 
-- ¾ Define the problem - what causes the problem and why does it occur.
+- Define the problem - what causes the problem and why does it occur.
 
-- ¾ Consider the alternatives - Find more than one way to solve the problem.
+- Consider the alternatives - Find more than one way to solve the problem.
 
-- ¾ Consider the consequences of each alternative - how each will affect you, your family, friends etc.
+- Consider the consequences of each alternative - how each will affect you, your family, friends etc.
 
-- ¾ Choose the best alternative. (Which)
+- Choose the best alternative. (Which)
 
-- ¾ Implement the decision - put your decision into action.
+- Implement the decision - put your decision into action.
 
 State that though this is a broad outline for making appropriate decisions in any area, this will be especially helpful in making decisions that have a bearing on your health.
 
@@ -9247,25 +9366,23 @@ One set of pairs should role-play situation 'A', another set of pairs should rol
 
 - Situation B: You are not ready to have a physical relationship - but your friend is pushing for closer physical contact to prove your love and commitment to the relationship.
 
-238
-
-### DECISION MAKING FOR HEALTH
-
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Define the P.O.W.E.R. model  for  decision making.
+- Define the P.O.W.E.R. model for decision making.
 
-- 9 Understand how this model can be used for taking decisions that impact their health
+- Understand how this model can be used for taking decisions that impact their health
 
 #### Life Skills being used
 
-Critical  Thinking,  Self Awareness, Effective Communication, Coping with stress, Problem Solving, Decision Making.
+Critical Thinking, Self Awareness, Effective Communication, Coping with stress, Problem Solving, Decision Making.
 
 #### Advance Preparations
 
 P.O.W.E.R. model written on a Flip Chart.
+
+238
 
 [[END OF PAGE 246]]
 
@@ -9387,8 +9504,6 @@ You can add to the list of situations or replace them with new situations! Choos
 
 #### FACT SHEET
 
-242
-
 ##### DECISION-MAKING
 
 Decision making is a process of first diverging to explore possibilities and then converging on solution(s).  The Latin root of the word decision means 'to cut off from all alternatives'. We should realize that-
@@ -9419,6 +9534,8 @@ Decision making is a process of first diverging to explore possibilities and the
 
 - Explain your decision to those involved and affected, and follow up to ensure proper and effective implementation.
 
+242
+
 [[END OF PAGE 250]]
 
 [[START OF PAGE 251]]
@@ -9426,6 +9543,8 @@ Decision making is a process of first diverging to explore possibilities and the
 ## Module 37
 
 Suggested Age Group 14 years and above
+
+### 'HOW CAN I BE ASSERTIVE?'
 
 #### Activity 1
 
@@ -9453,19 +9572,17 @@ Explain this to the students and tell them that now they will be learning the di
 
 Read the statements from the following chart one by one. Ask them to identify from these statements which one is passive, aggressive and assertive behaviour.
 
-### 'HOW CAN I BE ASSERTIVE?'
-
 #### Objectives
 
 By the end of the session, the students will be able to
 
-- 9 Critically think why they need to be assertive and how  can  they    be assertive.
+- Critically think why they need to be assertive and how can they be assertive.
 
-- 9 Communicate to one another about their feelings
+- Communicate to one another about their feelings
 
-- 9 Distinguish between passive, aggressive and assertive behaviour
+- Distinguish between passive, aggressive and assertive behaviour
 
-- 9 List the steps involved in changing one's behaviour to assertiveness.
+- List the steps involved in changing one's behaviour to assertiveness.
 
 #### Life Skills being used
 
@@ -9487,14 +9604,14 @@ Chart showing characteristics of different types of behaviours
 
 PASSIVE | AGGRESSIVE | ASSERTIVE
 --- | --- | ---
-Disrespect to oneself | D isrespect others; | Respect oneself as well as others;
+Disrespect to oneself | Disrespect others; | Respect oneself as well as others;
 Undervalue personal needs, desire, feelings knowledge etc | Overvalue personal needs, feelings, rights etc; | Value appropriately personal needs, desires, feelings, etc;
 Always placing others' interest first at the expense of oneself; | Exercising one's personal needs, rights, etc;Demanding; | Consider one's own as well as others, interests;
 Remaining inactive in situations where personal rights, needs and feelings are ignored | Be harsh, impolite and rude; | Be confident and polite;
 Yielding always to pressure against one's wishes; | Blame others for negative happenings; | Talk as well as listen;
 Suffer silently;Blame oneself for negative things in life; | Only talk and not listen. | Express negative as well as positive feelings;
-Listening only to others; | Be considerate as well as demanding;
-Hesitate in expressing negative feelings | Stand up for one's rights without dominating others
+Listening only to others; |  | Be considerate as well as demanding;
+Hesitate in expressing negative feelings |  | Stand up for one's rights without dominating others
 
 #### Activity 3
 
@@ -9722,7 +9839,7 @@ It is most likely that the participants of the team that was running on one leg 
 
 By the end of the session, the students will be able to
 
-- 9 Link sexual rights with responsibilities
+- Link sexual rights with responsibilities
 
 #### Life Skills being used
 
@@ -9920,6 +10037,8 @@ Adolescents must understand the following issues before they venture into sexual
 
 Suggested Age Group 15 years and above
 
+### I DECIDED TO WAIT
+
 #### Activity 1
 
 Greet the students. Introduce the topic. Read out the following case study to the children. Tell them to listen carefully as you will ask questions later.
@@ -9936,17 +10055,15 @@ independently, and do as I want. This age is meant to have fun and experiment wi
 
 However, yesterday something happened that has left Choden feeling very angry, hurt and scared.  For two days, Choden had felt pain while urinating. When she could not ignore this any longer, she visited the doctor who asked her about her sex life and told her that she seemed to have a Sexually Transmitted Infection (STI). The doctor said that she would require treatment for STI and also need further test to rule out pregnancy. Choden, since she knew that it was from Dorji that she got the STI, felt cheated and said, 'My world has crumbled down. I should have refrained from being intimate with any man before I knew about the various consequences of sex. It would have been best if I had waited for sex till I got married.'
 
-### I DECIDED TO WAIT
-
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 List  various adverse consequences of early sex.
+- List various adverse consequences of early sex.
 
-- 9 Understand why chronological  age alone doesn't define the readiness for sexual initiation.
+- Understand why chronological age alone doesn't define the readiness for sexual initiation.
 
-- 9 Realize that factors other than age should determine the timing of the sexual initiation.
+- Realize that factors other than age should determine the timing of the sexual initiation.
 
 #### Life Skills being used
 
@@ -9990,13 +10107,15 @@ One can not know by appearance if someone has STI or HIV infection.  If someone 
 
 ##### Guidelines for the Facilitator:
 
-Applaud the efforts.  Point out that there could be many reasons why adolescents consent to have sex. But these reasons are not necessarily the appropriate reasons. State that we may 'have the right' to do a certain act, but we must examine whether 'we are right in doing it'! That is where Life skills help us avoid risky behaviour. Tell the students that saying 'yes' due to various kinds of pressures can lead to a variety of problems. Also there are many other ways of expressing love and sexual feelings, some of which are given above.  It is prudent to wait for the right time and the right person. Tell them that this necessitates the effective use of life skills like Self  awareness, Critical thinking, Decision making , Interpersonal relationship, Effective communication (Thinking and Negotiation abilities).
+Applaud the efforts. Point out that there could be many reasons why adolescents consent to have sex. But these reasons are not necessarily the appropriate reasons. State that we may 'have the right' to do a certain act, but we must examine whether 'we are right in doing it'! That is where Life skills help us avoid risky behaviour. Tell the students that saying 'yes' due to various kinds of pressures can lead to a variety of problems. Also there are many other ways of expressing love and sexual feelings, some of which are given above. It is prudent to wait for the right time and the right person. Tell them that this necessitates the effective use of life skills
 
 257
 
 [[END OF PAGE 265]]
 
 [[START OF PAGE 266]]
+
+like Self awareness, Critical thinking, Decision making, Interpersonal relationship, Effective communication (Thinking and Negotiation abilities).
 
 Choden had many options available. She could have chosen to wait for some more time till she had critically thought about her sexual life.  She could have waited till her marriage to Dorji or some other man. She could also have used critical and creative thinking and effective communication to overcome her feelings of coercion and buy some more time (Negotiation ability) from Dorji, that too without losing his friendship.  Point out that girls due to inherent higher risk of pregnancy, emotional and social risks are at a greater disadvantage in an unprotected sexual relationship.
 
@@ -10185,9 +10304,9 @@ TEXT: Tashi and Kuonzang are two friends studying in class X. Tashi gets married
 
 By the end of the session, the students will be able to:
 
-- 9 Describe the ill-effects of early pregnancy on Health.
+- Describe the ill-effects of early pregnancy on Health.
 
-- 9 Explain the special needs  of  a  woman during her pregnancy.
+- Explain the special needs of a woman during her pregnancy.
 
 #### Life Skills being used
 
@@ -10229,7 +10348,7 @@ Ask the groups one by one to present their findings to the whole class
 
 Applaud the good work done. State the following to the students if they have not been brought out in detail.
 
-Early pregnancy has a major & long-term impact on a girl's life.  The consequences of sex and decisions to have a baby should therefore be looked at from the girls' perspective. It compromises her growth and also leads to higher incidence of Low birth Weight babies. Refer to the fact sheet and discuss in detail the adverse effects of adolescent pregnancy. Adolescent pregnancy and breastfeeding puts both the mother and the child at higher risks of ill health; especially, if the mother is stunted or undernourished.
+Early pregnancy has a major & long-term impact on a girl's life.  The consequences of sex and decisions to have a baby should therefore be looked at from the girls' perspective. It compromises her growth and also leads to higher incidence of Low birth Weight babies. Refer to the fact sheet and discuss in detail the adverse effects of adolescent pregnancy. Adolescent pregnancy and breast-feeding puts both the mother and the child at higher risks of ill health; especially, if the mother is stunted or undernourished.
 
 Early pregnancy exposes both mother and the baby to risk owing to the potential competition for dietary energy and nutrients. Additionally, the young mother is physiologically immature. Because adolescent girls (below  18 years) have not reached physical maturity, and their pelvis is not fully developed, pregnancy could lead to problems in labour, which in turn leads to complications such as bleeding, and even death for both the mother and child if the mother does not get proper medical care. Maternal death in girls under 15 is much higher than in women above 20.
 
@@ -10351,7 +10470,7 @@ Young mothers are also likely to have a higher incidence of poor childcare and p
 
 ###### Harmful Effects of Early Pregnancy on Health
 
-- Pregnancy and childbirth carry more risks in adolescents than in adults because adolescent girls are not yet physically and emotionally mature for motherhood. The risks are high throughout the antenatal period, labour, childbirth and the postpartum period. A young girl's hips (pelvis) are not as wide as a mature woman's pelvis.  This makes it difficult or impossible for the girl to have the baby through normal delivery.  She is much likely to need an operation (caesarean). If the girl is not able to have the operation soon enough- for what ever the reasonsshe may have prolonged labour with its risks or even die.
+- Pregnancy and childbirth carry more risks in adolescents than in adults because adolescent girls are not yet physically and emotionally mature for motherhood. The risks are high throughout the antenatal period, labour, childbirth and the postpartum period. A young girl's hips (pelvis) are not as wide as a mature woman's pelvis.  This makes it difficult or impossible for the girl to have the baby through normal delivery.  She is much likely to need an operation (caesarean). If the girl is not able to have the operation soon enough- for what ever the reasons-she may have prolonged labour with its risks or even die.
 
 - Anaemia is very common in pregnant women and is more common in adolescents. Health problems are hard on girls' bodies especially if  pregnant girls have not achieved their own
 
@@ -10477,7 +10596,7 @@ By the end of the session, students will be able to:
 
 #### Life Skills being used
 
-Problem Solving, Critical Thinking, Empathy, Communication Skills, Coping with stress, SelfAwareness
+Problem Solving, Critical Thinking, Empathy, Communication Skills, Coping with stress, Self-Awareness
 
 #### Advance Preparations
 
@@ -10693,7 +10812,7 @@ Ask the class:
 
 [[START OF PAGE 287]]
 
-#### Activity 6 Activity 6
+#### Activity 6
 
 ##### Recap the following at the end of the period:
 
@@ -10873,7 +10992,7 @@ A. The explanation depends on whether the twins are fraternal or identical. Frat
 
 ###### Q. What determines whether the baby is a boy or a girl?
 
-- When a human egg is fertilized with sperm, the sex of the baby is determined immediately. Sperm contain agents called 'chromosomes.' There are two types of chromosome-either an X or
+A. When a human egg is fertilized with sperm, the sex of the baby is determined immediately. Sperm contain agents called 'chromosomes.' There are two types of chromosome-either an X or
 
 283
 
@@ -10913,7 +11032,7 @@ In many cultures, young unmarried women who have babies are disapproved of and m
 
 ###### Q. When is a Woman or Man Fertile?
 
-A . A woman is fertile when she has the ability to become pregnant.
+A. A woman is fertile when she has the ability to become pregnant.
 
 A woman is fertile only certain days of each menstrual cycle - these are the days when she can become pregnant. A woman is fertile for a few days each cycle from her first menstruation until menopause but time of ovulation is unpredictable.
 
@@ -11013,7 +11132,7 @@ to whether a person is male or female. It is primarily a physical trait, determi
 
 Sexuality , on the other hand, is a much broader aspect of who you are. Sexuality is everything about you that relates to, reflects or expresses your maleness or femaleness. Sexuality involves how you think. How you feel about yourself and others, how you behave, how you look. People express their sexuality in nearly everything they do. You do not need a partner to express sexuality.
 
-Sexual activity, including sexua l intercourse , is just one of many ways to expressing sexuality. Reproduction is only one of the  functions of sexuality. Many more like pair bonding, assertion of feminity and masculinity, pleasure and removal of stress are some other functions, so it is entirely normal to have a sexual dimension to the personality.
+Sexual activity, including sexual intercourse, is just one of many ways to expressing sexuality. Reproduction is only one of the functions of sexuality. Many more like pair bonding, assertion of feminity and masculinity, pleasure and removal of stress are some other functions, so it is entirely normal to have a sexual dimension to the personality.
 
 Tell the students that once we understand that having a sexual dimension to our personality is normal, we can build more options in being responsibly sexual and can manage day-to-day pressures and feelings. Let them be informed that development of sexuality begins when you are an infant. The touch of your parents, the warmth of your mother's body, the sights and sounds that you experience all contribute to your awareness of your body as an infant.
 
@@ -11142,7 +11261,7 @@ Adolescents must understand the following issues before they venture into sexual
 
 ###### Q. When is a good age to have sex?
 
-- Having sex for the first time can be an important emotional event. There are many questions that should be considered before actually doing it:
+A. Having sex for the first time can be an important emotional event. There are many questions that should be considered before actually doing it:
 
 - Am I really ready to have sex?
 
@@ -11164,15 +11283,15 @@ Adolescents must understand the following issues before they venture into sexual
 
 ###### Q. What is the difference between being in love and having sex?
 
-- There is no 'right' definition of love for everybody. Being in love with someone involves feelings of romance, attraction, caring, etc. Having sex is an event or the physical act .
+A. There is no 'right' definition of love for everybody. Being in love with someone involves feelings of romance, attraction, caring, etc. Having sex is an event or the physical act.
 
 ###### Q. What if a man or woman wants to have sex and the other person does not?
 
-- Sex should be a pleasurable and consensual act between two persons. A man or woman should never be forced to have sexual intercourse or do anything else with his or her body that he or she does not want to do. A person must offer his or her permission before letting anyone touch him or her. If a situation arises in which someone is inappropriately touching another person without permission, the person should seek help immediately.
+A. Sex should be a pleasurable and consensual act between two persons. A man or woman should never be forced to have sexual intercourse or do anything else with his or her body that he or she does not want to do. A person must offer his or her permission before letting anyone touch him or her. If a situation arises in which someone is inappropriately touching another person without permission, the person should seek help immediately.
 
 ###### Q. What do I do if someone touches me in a way that makes me feel uncomfortable?
 
-- Your body is your own, and no one should touch you in a way that makes you feel uncomfortable. You have a right to ask someone to stop touching you if it makes you feel bad. If this is happening to you, remember it is not your fault, and you should talk to a trusted adult for help and keep talking to as many people as necessary until someone takes action.
+A. Your body is your own, and no one should touch you in a way that makes you feel uncomfortable. You have a right to ask someone to stop touching you if it makes you feel bad. If this is happening to you, remember it is not your fault, and you should talk to a trusted adult for help and keep talking to as many people as necessary until someone takes action.
 
 291
 
@@ -11183,6 +11302,8 @@ Adolescents must understand the following issues before they venture into sexual
 ## Module 43
 
 Suggested Age Group 16 years and above
+
+### BEING GOOD PARENTS
 
 #### Activity 1
 
@@ -11202,8 +11323,6 @@ You can remind the students about their younger siblings/cousins and ask them to
 
 Now ask one student from each group to present their views. Note down the important points and the ones which are common.  Let the students discuss each point.
 
-### BEING GOOD PARENTS
-
 #### Objectives
 
 By the end of the session, the learner will be able to
@@ -11214,7 +11333,7 @@ By the end of the session, the learner will be able to
 
 #### Life Skills being used
 
-Critical  Thinking,  Selfawareness, Effective Communication.
+Critical Thinking, Self-awareness, Effective Communication.
 
 #### Advance Preparations
 
@@ -11316,7 +11435,7 @@ Keep the baby warm . The delivery room should be made comfortably warm during wi
 
 ###### 2. Care of Cord:
 
-A few minutes after the birth of the baby, the umbilical cord stops pulsating and providing oxygen to baby. It should then be tied with a clean thread 2.5 inches away from the baby and cut with a new blade. Do not apply any dressing on the cord but leave it exposed to air. Keep it clean and apply Betadine lotion on it daily till it falls off. Instruct the mother that the area around the cord stump should be kept clean and dry (e.g., diaper folded so that it is below the stump). It will dry and fall off by itself with 7-10 days. Do not apply mud, cowdung, herbs or other substances on it as they will cause severe infection like tetanus and kill the baby. In case there is redness around the cord or a bad smell or discharge from it, she should take the baby to the health-centre. A few minutes after the cord is tied and cut, it should be checked for bleeding , which may occur due to thinning of the cord and loosening of the tie. If bleeding continues, tie another clean thread.
+A few minutes after the birth of the baby, the umbilical cord stops pulsating and providing oxygen to baby. It should then be tied with a clean thread 2.5 inches away from the baby and cut with a new blade. Do not apply any dressing on the cord but leave it exposed to air. Keep it clean and apply Betadine lotion on it daily till it falls off. Instruct the mother that the area around the cord stump should be kept clean and dry (e.g., diaper folded so that it is below the stump). It will dry and fall off by itself with 7-10 days. Do not apply mud, cow-dung, herbs or other substances on it as they will cause severe infection like tetanus and kill the baby. In case there is redness around the cord or a bad smell or discharge from it, she should take the baby to the health-centre. A few minutes after the cord is tied and cut, it should be checked for bleeding, which may occur due to thinning of the cord and loosening of the tie. If bleeding continues, tie another clean thread.
 
 ###### 3. Eye Care:
 
@@ -11400,7 +11519,7 @@ If the cord-stump is infected, the baby may develop sepsis. If the baby does not
 
 - It is convenient to breast-feed the baby as breast milk is immediately available at the right temperature and is free of cost .
 
-- It protect s the mother from becoming pregnant soon.
+- It protects the mother from becoming pregnant soon.
 
 297
 
@@ -11525,11 +11644,22 @@ Do a Plus, Minus and Interesting on the following at home:
 
 #### FACT SHEET
 
+##### PMI (PLUS/MINUS/INTERESTING)
+
+PMI stands for 'Plus/Minus/Interesting'. PMI is a good way of weighing the pros, cons and implications of a decision. When you have selected a course of action, PMI is a good technique to use to check that it is worth taking.
+
+PMI is an important Decision Making tool.
+
+PMI was codified by Edward de Bono in his book 'Serious Creativity'. Its purpose is to create lateral and creative thinking. It is useful for people to see both sides of an argument, or, in other words, consider things from other perspectives.
+
 ###### Process
 
 - Divide participants into groups, nominate a recorder, reporter.
 
 - Provide a pro-forma for participants to work on, or label three columns.
+
+Plus | Minus | Interesting
+--- | --- | ---
 
 - Provide a statement as the starting point, e.g. X primary school should not have a uniform…, all cars should be yellow.
 
@@ -11539,20 +11669,9 @@ Do a Plus, Minus and Interesting on the following at home:
 
 - Encourage each group to choose, their best, most creative ideas for sharing with the larger group.
 
-Plus | Minus | Interesting
---- | --- | ---
-
 Out of the box thinking has led to many new inventions e.g. Velcro. The inventor, George de Mestral, got the idea when he returned from a walk with his dog and found himself and the dog covered with burrs, the plant seed-sacs that cling to animal fur in order to travel to fertile new planting grounds. Mestral was intrigued with the idea and inspected the burrs - and thus Velcro was invented!
 
 Similarly back in 1908 Jacques Brandenberger, a Swiss chemist working for a French textile firm, was trying to make his fortune with a stain proof tablecloth. He got the stain proof part right by coating the cloth with a thin layer of viscose, but the fortune never came. Apparently people liked stains on their tablecloths. Fortunately Jacques had a bit of a 'Eureka' moment and realized the potential of his product to package food- after all it was airtight and waterproof. But it was another ten years
-
-##### PMI (PLUS/MINUS/INTERESTING)
-
-PMI stands for 'Plus/Minus/Interesting'. PMI is a good way of weighing the pros, cons and implications of a decision. When you have selected a course of action, PMI is a good technique to use to check that it is worth taking.
-
-PMI is an important Decision Making tool.
-
-PMI was codified by Edward de Bono in his book 'Serious Creativity'. Its purpose is to create lateral and creative thinking. It is useful for people to see both sides of an argument, or, in other words, consider things from other perspectives.
 
 301
 
@@ -11620,7 +11739,7 @@ Critical Thinking, Decision Making, Self- Awareness, Problem - Solving and commu
 
 #### Advance Preparations
 
-Pencils, pens, sheets of paper, a box/ basket, pictures of  various types of contraceptives devicescondom,   contraceptive pills, diaphragm, intrauterine copper T, loop. vasectomy tubectomy etc, and also the samples of some of    them- condom, loop, copper T, pill pack, blackboard &  chalk, chart paper & sketch pens.
+Pencils, pens, sheets of paper, a box/ basket, pictures of various types of contraceptives devices-condom, contraceptive pills, diaphragm, intrauterine copper T, loop. vasectomy tubectomy etc, and also the samples of some of them- condom, loop, copper T, pill pack, blackboard & chalk, chart paper & sketch pens.
 
 303
 
@@ -11848,7 +11967,7 @@ Common contraceptive items, effective and available even in a small town are as 
 
 ###### A. Safe Rhythm Method
 
-This is also known as a ' Safe Period Method' or 'Calendar Method'. It is based on an understanding of a woman's natural monthly cycle and involves sexual intercourse with her only during the least fertile (safe) periods of the month when the ovum (egg) is not capable of fertilization. This means that sexual contact is avoided around the time of egg release ( Ovulation) from the female ovary. Normally in a woman with a 28-day cycle, egg is released (ovulation) on the 14 th day of the menstrual cycle. So it is advisable for the couple to avoid sex between 12 th  and 16 th  day after the onset of menstruation. Women who have irregular menstrual cycles cannot follow this method. The success rate of this method is also low-around 50-60%, and is now no longer recommended..
+This is also known as a 'Safe Period Method' or 'Calendar Method'. It is based on an understanding of a woman's natural monthly cycle and involves sexual intercourse with her only during the least fertile (safe) periods of the month when the ovum (egg) is not capable of fertilization. This means that sexual contact is avoided around the time of egg release (Ovulation) from the female ovary. Normally in a woman with a 28-day cycle, egg is released (ovulation) on the 14th day of the menstrual cycle. So it is advisable for the couple to avoid sex between 12th and 16th day after the onset of menstruation. Women who have irregular menstrual cycles cannot follow this method. The success rate of this method is also low-around 50-60%, and is now no longer recommended..
 
 ###### 2.    Temporary Methods:-
 
@@ -12188,7 +12307,7 @@ Efforts to prevent sexual violence have largely focused on:
 
 - Educational programmes and campaigns to change attitudes and behaviours
 
-One of the ways in which teacher-counsellors can help is to encourage adolescents to talk about their problems, resolve conflicts before they escalate into violence and promote gender equality by encouraging male students to understand women students' problems and concerns. Teaching adolescents to treat peers like friends and colleagues who help one another rather than merely boygirl partnerships is a good start.
+One of the ways in which teacher-counsellors can help is to encourage adolescents to talk about their problems, resolve conflicts before they escalate into violence and promote gender equality by encouraging male students to understand women students' problems and concerns. Teaching adolescents to treat peers like friends and colleagues who help one another rather than merely boy-girl partnerships is a good start.
 
 Educational programmes in schools and other settings that address gender relations, sexual coercion, and skills for building healthy relationships are likewise very useful both for students and their parents.
 
@@ -12206,27 +12325,37 @@ Adapted from: Lena Karlson and Ravi Karkara; cited by Bhandari et al in Voices o
 
 #### ANNEXURE
 
-Old
-
-Abuse of widows, threat of sexual violence
+Life Cycle of Violence
 
 Pregnancy
 
 Sex selective abortions of girls, battering during pregnancy, coerced pregnancy
 
+Infancy
+
+Female infanticide, emotional and physical abuse, differential access to food and medical care
+
 Childhood
 
-Life Cycle of Violence
+Girls: Child marriage, sexual abuse by family members and strangers, differential access to food and medical care, child prostitution, trafficking for various purposes, sexual exploitation
+
+Boys: sexual abuse, corporal punishment, sexual exploitation
+
+Adolescent
+
+Girls: Sexual exploitation, sexual abuse in work place, rape, sexual harassment, forced sex, dating and courtship violence, forced prostitution, trafficking.
+
+Boys: Child soldiers, street violence, sexual abuse, suicide
 
 Youth and Adult
 
 Women: abuse by intimate partner, marital rape, dowry abuse, and murder, partner homicide, psychological abuse, sexual abuse at work place, sexual harassment, rape.
 
-Men: armed conflict, street violence, sexual exploitation Girls : Child marriage, sexual abuse by family members and strangers, differential access to food and medical care, child prostitution, trafficking for various purposes, sexual exploitation Boys : sexual abuse, corporal punishment, sexual exploitation Adolescent Girls: Sexual exploitation, sexual abuse in work place, rape, sexual harassment, forced  sex,  dating  and courtship violence, forced prostitution, trafficking. Boys: Child soldiers, street violence,  sexual  abuse, suicide
+Men: armed conflict, street violence, sexual exploitation
 
-Infancy
+Old
 
-Female infanticide, emotional and physical abuse, differential access to food and medical care
+Abuse of widows, threat of sexual violence
 
 319
 
@@ -12276,9 +12405,9 @@ Instruct the students to read the case study and answer the questions keeping in
 
 By the end of the session, the students will be able to
 
-- 9 Identify  responsible sexual behaviour that protects one from unwanted adverse consequences.
+- ✓ Identify responsible sexual behaviour that protects one from unwanted adverse consequences.
 
-- 9 Use  the  P.O.W.E.R. model  to  help  them make a Decision.
+- ✓ Use the P.O.W.E.R. model to help them make a Decision.
 
 #### Life Skills being used
 
@@ -12293,8 +12422,6 @@ Case studies, worksheet and pens, copies of Hand outs for each student.
 [[END OF PAGE 328]]
 
 [[START OF PAGE 329]]
-
-·
 
 - Is it important to decide limits in a relationship? Why? (Yes / to protect ourselves from consequences / for our parents / to prevent gossip / to maintain dignity / for the honour of the family) the right to chose one's limits.
 
@@ -12316,7 +12443,7 @@ Emphasize the following points:-
 
 - Being safe - when and how
 
-Observe whether they use life skills like E mpathy, Self-Awareness, Creative Thinking, Critical Thinking, Problem Solving, Decision-Making and Coping with Stress and Emotions. Encourage participants to use these skills in their daily life in order to internalize life skills.
+Observe whether they use life skills like Empathy, Self-Awareness, Creative Thinking, Critical Thinking, Problem Solving, Decision-Making and Coping with Stress and Emotions. Encourage participants to use these skills in their daily life in order to internalize life skills.
 
 #### Activity 2
 
@@ -12332,7 +12459,7 @@ Now tell the students the tips for sexual decision making , and give the Hand ou
 
 - The ABC of prevention of STI/HIV/AIDS must be followed
 
-( A-A bstinence, B-B e faithful, C-C onsistent c ondom use).
+(A-Abstinence, B-Be faithful, C-Consistent condom use).
 
 - Life Skills assist us in making Responsible decisions. Remember the P.O.W.E.R. model.
 
@@ -12378,7 +12505,7 @@ Sonam is 15 years old and is friendly with Rinzin, a good -looking boy in her ow
 
 - E - Why did she chose her option?
 
-- R What should have her decision been in this situation?
+- R - What should have her decision been in this situation?
 
 ##### Case Study- 2: Dechen's Story
 
@@ -12424,7 +12551,7 @@ Kinley Dem is 14 years old and both her parents are working. They often tell the
 
 - W - What kinds of pressures were working on her?
 
-- EWhat factors made her remain silent?
+- E - What factors made her remain silent?
 
 - R - What should have been her decision in this situation?
 
@@ -12512,11 +12639,9 @@ One day, all his friends including Yangki are having a stay over. The boys are e
 
 Adolescents must understand the following issues before they venture into sexual activity:
 
-- Indulging in a sexual act is a major decision . Careful analysis of the associated responsibilities and the capability of entering into commitments are necessary before undertaking such a step.
+- Indulging in a sexual act is a major decision. Careful analysis of the associated responsibilities and the capability of entering into commitments are necessary before undertaking such a step.
 
-·
-
-- Adolescence may not be the right age for sex as girls are not able to bear the burden of pregnancy physically, mentally and emotionally. Boys are not in a position to shoulder the responsibility of fatherhood. If marriage takes place earlier,  pregnancy should be delayed till the girl is biologically and psychologically mature enough (i.e., at least 18 years)
+- Adolescence may not be the right age for sex as girls are not able to bear the burden of pregnancy physically, mentally and emotionally. Boys are not in a position to shoulder the responsibility of fatherhood. If marriage takes place earlier, pregnancy should be delayed till the girl is biologically and psychologically mature enough (i.e., at least 18 years)
 
 - Adolescents, at times, may be impulsive and do not hesitate to take risks. They may take decisions without realizing the consequences. They are easily attracted to each other physically and get infatuated readily (falling in love blindly).
 
@@ -12533,9 +12658,9 @@ Adolescents must understand the following issues before they venture into sexual
 - Unprotected sex, especially with a stranger or paid sex worker is highly dangerous in terms of risks of acquiring sexually transmitted diseases ( STIs ) and HIV infection.
 
 ###### Sexuality and Guilt -
-Some adolescents feel guilty about their sex drive. They regard their own sexual urges as' dirty' and they are often stressed and traumatized by their feelings. However, if the urge is properly controlled, it becomes a powerful force aiding personal and social adjustment.  Sexual health concerns should be dealt with in a non-judgmental fashion. The health provider must be able to correct myths and beliefs about sex drive and sexuality, sexual anatomy, physiology, psycho - social circle of sex and sexual orientation, desire and sexual functioning.
+Some adolescents feel guilty about their sex drive. They regard their own sexual urges as “dirty” and they are often stressed and traumatized by their feelings. However, if the urge is properly controlled, it becomes a powerful force aiding personal and social adjustment. Sexual health concerns should be dealt with in a non-judgmental fashion. The health provider must be able to correct myths and beliefs about sex drive and sexuality, sexual anatomy, physiology, psycho - social circle of sex and sexual orientation, desire and sexual functioning.
 
-The change from child to adult is an especially dangerous time for adolescents in our society. From their earliest years, children watch television shows and movies that insist that 'sex appeal ' is a personal quality that people need to develop to the fullest.
+The change from child to adult is an especially dangerous time for adolescents in our society. From their earliest years, children watch television shows and movies that insist that “sex appeal” is a personal quality that people need to develop to the fullest.
 
 327
 
@@ -12599,6 +12724,8 @@ You have the P.O.W.E.R. to choose what you want to do and achieve in life. It is
 
 Suggested Age Group 16 years and above
 
+### RISK FACTORS RELATED TO HIV
+
 #### Activity 1
 
 Greet the class and introduce the topic of the day. Organize the class into a large circle.
@@ -12615,7 +12742,7 @@ Write only one caption on each of the three sheets.
 
 Distribute behaviour cards among the students.
 
-Ask each students to  read the statement on the card and to decide and stand near the appropriate caption-High risk, Low risk, No riskon which he/she would place the behaviour card.
+Ask each students to read the statement on the card and to decide and stand near the appropriate caption-High risk, Low risk, No risk- on which he/she would place the behaviour card.
 
 Now turn by turn ask each student to describe the reason for his/her response. Check with the rest of the group on whether they agree or disagree. Provide additional information and clarification if required. Use the guide attached to summarize discussion on each statement card.
 
@@ -12629,17 +12756,15 @@ Feel free to add additional qualities on the list - as suggested by the students
 
 Encourage Critical Thinking among the students.
 
-### RISK FACTORS RELATED TO HIV
-
 #### Objectives
 
 By the end of the session, the students will be able to
 
-- 9 State the risk factors related to HIV
+- ✓ State the risk factors related to HIV
 
-- 9 State methods to assess the  risk  of  different behaviour related to HIV
+- ✓ State methods to assess the risk of different behaviour related to HIV
 
-- 9 State  the  causes  of vulnerability of young people to HIV/AIDS.
+- ✓ State the causes of vulnerability of young people to HIV/AIDS.
 
 #### Life Skills being used
 
@@ -12659,7 +12784,7 @@ Behaviour  cards  with statements written on them. (For the statements refer to 
 
 After the exercise is over - ask 'What all have we learnt from this activity?'
 
-Expected Answers we learnt about risk behaviours and the assessment of risk, there are so many ways HIV can be transmitted, we should use single disposable syringes and needles, commercial sex is risky, HIV cannot spread by sharing towels or books, etc
+Expected Answers – we learnt about risk behaviours and the assessment of risk, there are so many ways HIV can be transmitted, we should use single disposable syringes and needles, commercial sex is risky, HIV cannot spread by sharing towels or books, etc
 
 ##### Guidelines for the Facilitator:
 
@@ -12675,7 +12800,7 @@ State that - as HIV does not spread through casual contact- we need not be afrai
 
 Now ask 'Who is more vulnerable to HIV infection - girls or boys?'
 
-Expected answersYoung girls, do not know, both
+Expected answers- Young girls, do not know, both
 
 ##### Guidelines for the Facilitator:
 
@@ -12799,11 +12924,13 @@ Delaying sex till you are mature enough to take your own decisions and can stand
 
 There has been no documented proof of HIV transmission by mosquitoes. Mosquitoes only suck blood and do not inject blood. Unlike the malarial parasite, HIV does not survive inside the mosquito.
 
-- Being close to an HIV infected person who coughs or sneezes : No Risk. HIV does not spread through the saliva of an infected person. Moreover, the virus cannot live outside the human body for very long.
+- Being close to an HIV infected person who coughs or sneezes: No Risk.
 
-Masturbation is one of the safest activities for avoiding HIV infection. It is perfectly normal
+HIV does not spread through the saliva of an infected person. Moreover, the virus cannot live outside the human body for very long.
 
-- Masturbation: No Risk. and causes no side effects.
+- Masturbation: No Risk.
+
+Masturbation is one of the safest activities for avoiding HIV infection. It is perfectly normal and causes no side effects.
 
 334
 
@@ -12829,19 +12956,19 @@ Note: Facilitators may revise earlier modules and emphasize as to how HIV/ AIDS 
 
 Suggested Age Group 16 years and above
 
+### GETTING TESTED FOR HIV
+
 #### Activity 1
 
 Read out the following case study to the students.
 
-Karma is a 16 year-old boy. He went to a party. There was free alcohol at the party. He had never had alcohol before. But on the insistence of friends, he had a few drinks, and later - he    doesn't know how - ended up having unsafe sex. Afterwards, he felt very  ashamed of his
-
-behaviour and was scared that he may have acquired HIV/AIDS.    He wants to get tested for HIV.
+Karma is a 16 year-old boy. He went to a party. There was free alcohol at the party. He had never had alcohol before. But on the insistence of friends, he had a few drinks, and later - he doesn't know how - ended up having unsafe sex. Afterwards, he felt very ashamed of his behaviour and was scared that he may have acquired HIV/AIDS. He wants to get tested for HIV.
 
 ##### Start a discussion by asking the following questions:
 
 - Can such a situation occur in real life?
 
-- Is  Karma  at  risk  of acquiring HIV?   Should Karma go in for a test for HIV?
+- Is Karma at risk of acquiring HIV? Should Karma go in for a test for HIV?
 
 - Where should Karma go for a test for HIV?
 
@@ -12853,19 +12980,17 @@ behaviour and was scared that he may have acquired HIV/AIDS.    He wants to get 
 
 The teacher should summarize the discussion by clarifying the misconceptions and elaborating on the information by using the guideline for discussion given below.
 
-### GETTING TESTED FOR HIV
-
 #### Objectives
 
 By the end of the session, the students will be able to:
 
-- 9 Describe the procedure for HIV/AIDS testing.
+- ✓ Describe the procedure for HIV/AIDS testing.
 
-- 9 Realize the advantages and disadvantages of testing.
+- ✓ Realize the advantages and disadvantages of testing.
 
 #### Life Skills being used
 
-Decision Making, SelfAwareness, Coping with Emotions.
+Decision Making, Self-Awareness, Coping with Emotions.
 
 #### Advance Preparations
 
@@ -13065,7 +13190,7 @@ Sl.No. | Name | Name of the School | Dzongkhag
 13. | Mr Sangay Wangdi | Yadi Middle Secondary School | Mongar
 14. | Mr B. B. Dahal (Sharma) | Sarpang Middle Secondary School | Sarpang
 15. | Mr Kinley Dorji | Pemagatshel Middle Secondary School | Pemagatshel
-16. | Ms Sonam Choden | Chumey Middle Secondary School | Advance Preparations Bumthang
+16. | Ms Sonam Choden | Chumey Middle Secondary School | Bumthang
 17. | Ms Khandu Wangmo | Zhemgang Lower Secondary School | Zhemgang
 18. | Ms Chone Dolma | Katsho Lower Secondary School | Haa
 19. | Mr Rinzin Pelga | Zhemgang Higher Secondary School | Zhemgang
@@ -13114,25 +13239,25 @@ Sl.No. | Name | Name of the School | Dzongkhag
 
 ## REFERENCES
 
-- Adolescent Health and Development, A country Profile Bhutan, Ministry of Health, Royal Government of Bhutan, March 2008
+1. Adolescent Health and Development, A country Profile Bhutan, Ministry of Health, Royal Government of Bhutan, March 2008
 
-- All the English, Science, Social Studies Text Book from class PP to class 12, Ministry of Education.
+2. All the English, Science, Social Studies Text Book from class PP to class 12, Ministry of Education.
 
-- Guide for facilitators on Life Skills Education in Adolescent Mental Wellbeing, Comprehensive School Health Programme, Department of Youth and Sports, Ministry of Education, 2007
+3. Guide for facilitators on Life Skills Education in Adolescent Mental Wellbeing, Comprehensive School Health Programme, Department of Youth and Sports, Ministry of Education, 2007
 
-- Guide for Trainers on Life Skills Education in Adolescent Reproductive Health, Department of Youth and Sports, Ministry of Education, 2005
+4. Guide for Trainers on Life Skills Education in Adolescent Reproductive Health, Department of Youth and Sports, Ministry of Education, 2005
 
-- Handbook for Teachers, Volume 1 and 2, Department of Education, Delhi State AIDS Control Society.
+5. Handbook for Teachers, Volume 1 and 2, Department of Education, Delhi State AIDS Control Society.
 
-- Mother & Child Health Handbook, Food and Nutrition Programme, Department of Public Health, Ministry of Health.
+6. Mother & Child Health Handbook, Food and Nutrition Programme, Department of Public Health, Ministry of Health.
 
-- National Population and Housing Census of Bhutan, 2005
+7. National Population and Housing Census of Bhutan, 2005
 
-- Orientation Programme on Adolescent Health for Health-care Providers - Facilitator Guide, World Health Organisation, 2003
+8. Orientation Programme on Adolescent Health for Health-care Providers – Facilitator Guide, World Health Organisation, 2003
 
-- Orientation Programme on Adolescent Health for Health-care Providers, World Health Organization, 2003
+9. Orientation Programme on Adolescent Health for Health–care Providers, World Health Organization, 2003
 
-- 10.Reproductive Health - Know the facts 'Beyond the birds and the bees,' Ministry of Health and Ministry of Education, 2007
+10.Reproductive Health – Know the facts “Beyond the birds and the bees,” Ministry of Health and Ministry of Education, 2007
 
 344
 
