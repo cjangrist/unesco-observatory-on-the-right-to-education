@@ -1,74 +1,19 @@
 [[START OF PAGE 1]]
 
-Monsieur le Ministre,
-
 7, place de Fontenoy 75352 Paris 07 sp, France Tél. : +33 (0)1 45 68 10 00 Fax : +33 (0)1 45 68 55 55 www.unesco.org
 
-Réf. . Cl-/4467
+Réf. : CL/4467
 
-Objet .
-
-Onziè
-
-me
-
-consult
-
-ation
-
-sur
-
-l'applic
-
-ation
-
-de la
-
-Conven
-
-tion et
-
-de la
-
-Recom
-
-mandat
-
-ion de
-
-1960
-
-concer
-
-nant la
-
-lutte
-
-contre
-
-la
-
-discrim
-
-ination
-
-dans le
-
-domain
-
-e de
-
-l'enseig
-
-nement
+Objet : Onzième consultation sur l'application de la Convention et de la Recommandation de 1960 concernant la lutte contre la discrimination dans le domaine de l'enseignement
 
 Madame la Ministre,
+Monsieur le Ministre,
 
 Le droit à l'éducation pour toutes et tous, partout dans le monde, et sans aucune forme de discrimination, est l'un des enjeux majeurs de notre époque.
 
 Si des progrès significatifs dans l'accès à l'éducation ont été accomplis au cours des dernières décennies, près de 250 millions d'enfants et de jeunes sont toujours privés d'école.
 
-La  Convention  et  la  Recommandation  de  1960  concernant  la  lutte  contre  la discrimination  dans  le  domaine  de  l'enseignement  -  principaux  instruments normatifs pour la protection du droit à l'éducation à l'échelle mondiale - reflètent la mission confiée à l'UNESCO, qui consiste, selon l'Acte Constitutif, à « réaliser graduellement l'idéal d'une chance égale d'éducation pour tous, sans distinction de race, de sexe ni d'aucune condition économique ou sociale ».
+La Convention et la Recommandation de 1960 concernant la lutte contre la discrimination dans le domaine de l'enseignement — principaux instruments normatifs pour la protection du droit à l'éducation à l'échelle mondiale — reflètent la mission confiée à l'UNESCO, qui consiste, selon l'Acte Constitutif, à « réaliser graduellement l'idéal d'une chance égale d'éducation pour tous, sans distinction de race, de sexe ni d'aucune condition économique ou sociale ».
 
 Aux termes de l'article VIII de l'Acte constitutif de l'UNESCO, les États membres sont tenus de présenter, régulièrement, des rapports sur les mesures prises en vue de l'application des conventions et recommandations adoptées par l'Organisation.
 
@@ -82,9 +27,9 @@ Les  modalités  détaillées  de  soumission  des  rapports  seront  communiqu�
 
 Aux ministres chargés des relations avec l'UNESCO
 
-Cl-/4467 - page 2
+CL/4467 - page 2
 
-Le rapport doit être transmis le 30 iuin 2024 au plus tard afin que le Secrétariat puisse établir un rapport analytique global, qu'il soumettra aux organes directeurs de l'UNESCO.
+Le rapport doit être transmis le 30 juin 2024 au plus tard afin que le Secrétariat puisse établir un rapport analytique global, qu'il soumettra aux organes directeurs de l'UNESCO.
 
 Je vous prie d'agréer, Madame la Ministre, Monsieur le Ministre, les assurances de ma très haute considération.
 
@@ -96,7 +41,7 @@ Audrey
 
 Azoulay Directrice générale
 
-P.J. · Principes directeurs pour l'établissement des rapports nationaux
+P.J. • Principes directeurs pour l'établissement des rapports nationaux
 
 cc : Délégations permanentes auprès de l'UNESCO Commissions nationales pour l'UNESCO Bureaux régionaux Bureaux hors Siège
 
@@ -110,7 +55,7 @@ Onzième consultation des États membres sur l'application de la Convention et d
 
 # PRINCIPES DIRECTEURS POUR L'ÉTABLISSEMENT DES RAPPORTS DES ÉTATS MEMBRES SUR L'APPLICATION DE LA CONVENTION ET DE LA RECOMMANDATION CONCERNANT LA LUTTE CONTRE LA DISCRIMINATION DANS LE DOMAINE DE L'ENSEIGNEMENT (1960)
 
-## 1 . Introduction
+## 1. Introduction
 
 La Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement (« la Convention ») et la Recommandation concernant la lutte contre la discrimination dans le domaine de l'enseignement (« la Recommandation »), adoptées par la Conférence générale de l'UNESCO en 1960, répondent au mandat dont l'Organisation a été investie dans son Acte constitutif, à savoir « réaliser graduellement l'idéal d'une chance égale d'éducation pour tous, sans distinction de race, de sexe, ni d'aucune condition économique ou sociale ». La Convention est le premier instrument international juridiquement contraignant garantissant le droit à l'éducation et le seul qui  lui soit exclusivement consacré.
 
@@ -134,27 +79,24 @@ Compte tenu de l'agenda Éducation 2030, le suivi de la Convention et de la Reco
 
 La  Convention  est  en  étroite  concordance  non  seulement  avec  l'ODD  4  mais  aussi  avec  le  Pacte international  relatif  aux  droits  économiques,  sociaux  et  culturels  (1966),  la  Convention  sur l'élimination  de  toutes  les  formes  de  discrimination  à  l'égard  des  femmes  (1979),  la  Convention relative aux droits de l'enfant (1989) et la Convention relative aux droits des personnes handicapées (2006).
 
-Cette  consultation  est  en  outre  l'occasion  de  contribuer  à  l'Initiative  en  cours  de  l'UNESCO  sur l'évolution du droit à l'éducation dans la perspective de l'apprentissage tout au long de la vie l (lancée en décembre 2021). Cette Initiative cherche des solutions pour renforcer le droit à l'éducation, qu'elle replace dans le contexte de l'apprentissage tout au long de la vie, en tenant compte des nouvelles exigences  imposées  à  l'éducation. Elle s'appuie sur le rapport  préparé  par  la  Commission internationale sur Les futurs de l'éducation 2 , qui propose d'élargir explicitement notre conception du droit à l'éducation à tous les âges, à tous les temps et à tous les espaces. L'Initiative est également conforme  à  l'Énoncé  de  vision  du  Secrétaire  général  des  Nations  Unies  sur  la  transformation  de l'éducation 3 ainsi qu'au Rapport du Sommet sur la transformation de l'éducation (2022) 4 , selon lequel la  transformation des systèmes  éducatifs doit tendre à « l'inclusion de tous, indépendamment des circonstances, du contexte et des origines ». L'Initiative sur l'évolution du droit à l'éducation a pour objet d'engager une réflexion collaborative et participative sur le cadre international afin de garantir l'application  effective  du  droit  à  l'éducation  à  l'apprentissage  pour  tous  et  tout  au  long  de  la  vie. L'Initiative  s'appuie  également  sur  les  dialogues  intergouvernementaux  entamés  récemment,  en particulier le Cadre d'action de Marrakech - Exploiter le pouvoir de transformation de l'apprentissage et  de  l'éducation  des  adultes 5 et  la  Déclaration  de  Tachkent  et  engagements  à  l'action  pour  la transformation de l'éducation et la protection de la petite enfance 6 .
+Cette consultation est en outre l'occasion de contribuer à l'Initiative en cours de l'UNESCO sur l'évolution du droit à l'éducation dans la perspective de l'apprentissage tout au long de la vie¹ (lancée en décembre 2021). Cette Initiative cherche des solutions pour renforcer le droit à l'éducation, qu'elle replace dans le contexte de l'apprentissage tout au long de la vie, en tenant compte des nouvelles exigences imposées à l'éducation. Elle s'appuie sur le rapport préparé par la Commission internationale sur Les futurs de l'éducation², qui propose d'élargir explicitement notre conception du droit à l'éducation à tous les âges, à tous les temps et à tous les espaces. L'Initiative est également conforme à l'Énoncé de vision du Secrétaire général des Nations Unies sur la transformation de l'éducation³ ainsi qu'au Rapport du Sommet sur la transformation de l'éducation (2022)⁴, selon lequel la transformation des systèmes éducatifs doit tendre à « l'inclusion de tous, indépendamment des circonstances, du contexte et des origines ». L'Initiative sur l'évolution du droit à l'éducation a pour objet d'engager une réflexion collaborative et participative sur le cadre international afin de garantir l'application effective du droit à l'éducation à l'apprentissage pour tous et tout au long de la vie. L'Initiative s'appuie également sur les dialogues intergouvernementaux entamés récemment, en particulier le Cadre d'action de Marrakech — Exploiter le pouvoir de transformation de l'apprentissage et de l'éducation des adultes⁵ et la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance⁶.
 
-Il convient également de noter que, comme le révèlent les consultations précédentes sur la Convention et la Recommandation, les pays partagent désormais une conception plus large du droit à l'éducation. Fondée sur les conclusions des rapports nationaux précédents, la Il e consultation porte notamment sur des  thèmes  ayant  une  incidence  directe  sur  le  droit  à  l'éducation,  par  exemple,  l'apprentissage numérique, la question du climat, le droit à l'apprentissage tout au long de la vie et le rôle des acteurs non étatiques dans l'éducation.
+Il convient également de noter que, comme le révèlent les consultations précédentes sur la Convention et la Recommandation, les pays partagent désormais une conception plus large du droit à l'éducation. Fondée sur les conclusions des rapports nationaux précédents, la 11e consultation porte notamment sur des thèmes ayant une incidence directe sur le droit à l'éducation, par exemple, l'apprentissage numérique, la question du climat, le droit à l'apprentissage tout au long de la vie et le rôle des acteurs non étatiques dans l'éducation.
 
 ## 3. Obligations en matière de présentation de rapports
 
 La nature juridique des obligations découlant de la Convention diffère à plusieurs égards de celle des obligations qu'impose la Recommandation. La Convention a force obligatoire et les États qui y sont parties sont tenus d'en incorporer les dispositions dans les cadres nationaux. La Recommandation, de nature non contraignante, a une force politique et morale. Son adoption visait à prendre en compte les difficultés que certains États pourraient rencontrer, du fait en particulier de leur structure fédérale, pour ratifier la Convention.
 
-Compte tenu des différences de portée juridique dues à ta nature même de ces deux instruments, la teneur de la Recommandation et celle de la Convention sont identiques. Les États membres doivent donner effet à l'un ou l'autre de ces instruments dans leur législation nationale et dans leurs politiques de l'éducation.
+Compte tenu des différences de portée juridique dues à la nature même de ces deux instruments, la teneur de la Recommandation et celle de la Convention sont identiques. Les États membres doivent donner effet à l'un ou l'autre de ces instruments dans leur législation nationale et dans leurs politiques de l'éducation.
 
 Les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la
 
-Comment les droits s'adaptent à l'évolution de l'éducation I UNESCO.
-
-- 2 Repenser nos futurs ensemble : un nouveau contrat social pour l'éducation - UNESCO Diqital Library.
-
-- 3 https://www.un.orq/sites/un2.un.ocq/files/2022/09/sq vision statement on transforminq
-
-- 4 https://www.un.org/sites/un2.un.orq/fiIes/report on the 2022 transforminq education summit.pdf.
-
-- 5 Cadre d'action de Marrakech I Institut pour l'apprentissage tout au long de la vie Cunesco.org). 6 Tashkent-declaration-ecce-2022.pdf (unesco.org).
+1 Comment les droits s'adaptent à l'évolution de l'éducation | UNESCO.
+2 Repenser nos futurs ensemble : un nouveau contrat social pour l'éducation — UNESCO Digital Library.
+3 https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_education.pdf.
+4 https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf.
+5 Cadre d'action de Marrakech | Institut pour l'apprentissage tout au long de la vie (unesco.org).
+6 Tashkent-declaration-ecce-2022.pdf (unesco.org).
 
 [[END OF PAGE 4]]
 
@@ -164,7 +106,7 @@ forme que déterminera la Conférence générale, des rapports sur les lois, les
 
 ## 4. Participation aux consultations
 
-La durée de la période d'établissement des rapports au titre de la Il e consultation sur l'application de la Convention et la Recommandation a été fixée à quatre ans (2021-2024).
+La durée de la période d'établissement des rapports au titre de la 11e consultation sur l'application de la Convention et la Recommandation a été fixée à quatre ans (2021-2024).
 
 Le rapport intitulé Les futurs de l'éducation propose un nouveau contrat social pour l'éducation, ce qui nécessite de concevoir l'éducation comme un bien commun et un projet de société partagé. À cette fin, il convient de mener des consultations approfondies avec un large éventail de parties prenantes. Le processus d'établissement des rapports doit donc être participatif, d'où la nécessité de veiller à une bonne coopération entre le Ministère de l'éducation et les autres ministères concernés par différents aspects du droit à l'éducation et de consulter les partenaires sociaux, les organisations de la société civile et autres organes pertinents.
 
@@ -174,17 +116,17 @@ Lors de la préparation des rapports, les États membres sont encouragés à fou
 
 Les États membres pourront reproduire les informations pertinentes soumises lors d'autres exercices de présentation de rapports ou s'y référer en indiquant précisément où les consulter. De même, les liens vers des documents utiles ou des textes juridiques ou politiques pertinents seront d'une grande utilité ; certains textes peuvent également être joints en annexe au rapport.
 
-Les  rapports  nationaux  soumis  lors  des  consultations  précédentes  peuvent  être  consultés  sur l'Observatoire  sur  le  droit  à  l'éducation 1 dans  la  rubrique  «  suivi  »  des  profils  de  pays.  Les renseignements fournis dans les rapports revêtent un grand intérêt tant pour l'Observatoire sur le droit à l'éducation que pour Son Atlas 2 outil de suivi en ligne du droit à l'éducation des filles et des femmes. Les  informations  et  les  données  relatives  aux  systèmes  éducatifs  nationaux  sont  également consultables dans la base de données de l'Institut de statistique de l'UNESC0 3 . Les conclusions et les rapports de la consultation sont utilisés à des fins de suivi tout en contribuant à des travaux de plus vaste  envergure  -  la  production  de  connaissances,  les  actions  de  plaidoyer  et  la  coopération technique.
+Les rapports nationaux soumis lors des consultations précédentes peuvent être consultés sur l'Observatoire sur le droit à l'éducation¹ dans la rubrique « suivi » des profils de pays. Les renseignements fournis dans les rapports revêtent un grand intérêt tant pour l'Observatoire sur le droit à l'éducation que pour Son Atlas², outil de suivi en ligne du droit à l'éducation des filles et des femmes. Les informations et les données relatives aux systèmes éducatifs nationaux sont également consultables dans la base de données de l'Institut de statistique de l'UNESCO³. Les conclusions et les rapports de la consultation sont utilisés à des fins de suivi tout en contribuant à des travaux de plus vaste envergure — la production de connaissances, les actions de plaidoyer et la coopération technique.
 
 ## 5. Modalités et organisation
 
-Les Principes directeurs sont divisés en trois chapitres ·
+Les Principes directeurs sont divisés en trois chapitres :
 
-> 1 Observatoire sur le droit à l'éducation (unesco.org).
+1 Observatoire sur le droit à l'éducation (unesco.org).
 
-> 2 Son Atlas (unesco.orq).
+2 Son Atlas (unesco.org).
 
-> 3 UIS Statistjcs (unesco.orq).
+3 UIS Statistics (unesco.org).
 
 - 4 -
 
@@ -198,43 +140,41 @@ Les Principes directeurs sont divisés en trois chapitres ·
 
 - Le troisième chapitre a pour objet de réunir des informations relatives aux méthodes utilisées pour sensibiliser les différentes autorités du pays à ces deux instruments.
 
-Afin  de  simplifier  les  Principes  directeurs  tout  en  apportant  aux  États  membres  les  indications indispensables  qui  les  guideront  dans  la  formulation  de  leurs  réponses  à  l'issue  d'un  processus participatif, les orientations proposées sont de deux types
+Afin de simplifier les Principes directeurs tout en apportant aux États membres les indications indispensables qui les guideront dans la formulation de leurs réponses à l'issue d'un processus participatif, les orientations proposées sont de deux types :
 
 - Des questions  ouvertes  ou  fermées  auxquelles  les  États  membres  sont  invités  à  répondre directement. Veuillez noter qu'il est possible, le cas échéant, de fournir plusieurs réponses.
 
 - Des indications complémentaires visant à aider les États membres à structurer et à détailler les réponses apportées aux questions ouvertes (des conseils seront notamment donnés sur la  manière  de  répondre  efficacement  aux  questions  posées).  Ces  indications  sont  en italiques.
 
-### Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement 4
-
-- Votre pays est-il Partie à la Convention ? Oui
-
-- a CJ Non: votre pays prévoit-il de ratifier cet instrument?
-
 ## INFORMATIONS D'ORDRE GÉNÉRAL :
 
-Nom du pays:
+Nom du pays: Côte d'Ivoire
 
-Côte d'Ivoire
-
-Organisation(s) ou entité(s) chargée(s) de l'établissement du rapport.' Commission Nationale Ivoirienne
+Organisation(s) ou entité(s) chargée(s) de l'établissement du rapport : Commission Nationale Ivoirienne
 
 Pour l'UNESCO
 
-Nom de la personne à contacter
-
-: Professeur SORO N'golo Aboudou
+Nom de la personne à contacter : Professeur SORO N'golo Aboudou
 
 Adresse électronique et numéro de téléphone de la personne à contacter : ngoloas@gmail.com
 
 +225 01 5252 5262
 
-a Oui: veuillez indiquer à quel stade du processus de ratification se trouve votre pays. Veuillez préciser si votre pays a besoin d'assistance :
+### Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement⁴
 
-a L'intérêt est réel mais aucune mesure concrète n'a été prise a Le processus  de  ratification a  été  entamé  a  Le  processus  de ratification est presque terminé
+- Votre pays est-il Partie à la Convention ? Oui
 
-- a Veuillez décrire succinctement, le cas échéant, les mesures qui ont été prises et le calendrier  ainsi  que  les  difficultés  (juridiques,  institutionnelles,  politiques  ou pratiques)  éventuellement  rencontrées  au  cours  du  processus  de  ratification. Veuillez indiquer en quoi l'UNESCO peut vous aider.
+- Non: votre pays prévoit-il de ratifier cet instrument?
 
-> 4 Convention concernant la lutte contre la discrimination dans le domaine de l'enseiqnement UNESCO
+- Oui: veuillez indiquer à quel stade du processus de ratification se trouve votre pays. Veuillez préciser si votre pays a besoin d'assistance :
+
+- L'intérêt est réel mais aucune mesure concrète n'a été prise
+- Le processus de ratification a été entamé
+- Le processus de ratification est presque terminé
+
+- Veuillez décrire succinctement, le cas échéant, les mesures qui ont été prises et le calendrier ainsi que les difficultés (juridiques, institutionnelles, politiques ou pratiques) éventuellement rencontrées au cours du processus de ratification. Veuillez indiquer en quoi l'UNESCO peut vous aider.
+
+4 Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement | UNESCO
 
 [[END OF PAGE 6]]
 
@@ -258,15 +198,13 @@ a Oui a Non
 
 Il est également possible de donner des informations sur les autorités (judiciaires, administratives, etc.) compétentes en ce qui concerne le droit à l'éducation.
 
-LeDroit à l'éducation, reconnu dans la Déclarat ion universelle desDroitsde l'Homme en 1948, a été réaffirmé dans des conventions internat ionales auxquelles la Côte d'Ivoire est partie.
+Le Droit à l'éducation, reconnu dans la Déclaration universelle des Droits de l'Homme en 1948, a été réaffirmé dans des conventions internationales auxquelles la Côte d'Ivoire est partie.
 
-La Loi n° 2016-886 portant Constitution de la République de Côte d'Ivoire se prononce davantage sur la promotion des Droits de l'Homme en général et du Droit à l'éducat ion en particulier. Son article 9 alinéa 1 dispose que « toute personne a droit à l'éducation et à la formation professionnelle ».L'on peut relever que la norme suprême porte un intérêt particulier àl'éducation en ce sens que le Droit à l'éducat ion fait l'objet d'une « double protection » dans le texte fondamental de la République de Côte d'Ivoire.
+La Loi n° 2016-886 portant Constitution de la République de Côte d'Ivoire se prononce davantage sur la promotion des Droits de l'Homme en général et du Droit à l'éducation en particulier. Son article 9 alinéa 1 dispose que « toute personne a droit à l'éducation et à la formation professionnelle ». L'on peut relever que la norme suprême porte un intérêt particulier à l'éducation en ce sens que le Droit à l'éducation fait l'objet d'une « double protection » dans le texte fondamental de la République de Côte d'Ivoire.
 
-L'article 28 de la Convent ion internationale relat ive aux Droits de l'Enfant (CDE), stipule que « les Etats parties reconnaissent le droit de l'enfant à l'éducation, et en particulier, en vue
+L'article 28 de la Convention internationale relative aux Droits de l'Enfant (CDE), stipule que « les Etats parties reconnaissent le droit de l'enfant à l'éducation, et en particulier, en vue d'assurer l'exercice de ce droit progressivement et sur la base de l'égalité des chances ».
 
-d'assurer l'exercice de ce droit progressivement et sur la base de l'égalité des chances ».
-
-Pour matérialiser la prise en compte de ce droit, en tant que droit fondamental de l'Homme et spécialement de l'enfant, les Et ats Parties « rendent l'enseignement primaire obligatoire et gratuit pour tous ».
+Pour matérialiser la prise en compte de ce droit, en tant que droit fondamental de l'Homme et spécialement de l'enfant, les Etats Parties « rendent l'enseignement primaire obligatoire et gratuit pour tous ».
 
 ## Renseignements concernant l'application de la Convention ou de la Recommandation dans le contexte de l'Objectif de développement durable 4 (ODD 4)
 
@@ -298,13 +236,15 @@ La Côte d'Ivoire est résolument dans l'application de cet article.
 
 -Veuillez décrire les mesures adoptées afin d'éliminer et de prévenir toute discrimination dans le domaine de l'enseignement au sens de la Convention/Recommandation 13 et de garantir l'égalité d'accès à tous les niveaux et dans tous les types d'enseignement (plusieurs réponses possibles):
 
-> 1 1 Les mécanismes judiciaires jouent un grand rôle dans l'application du droit à l'éducation en garantissant la responsabilité juridique, contribuant ainsi à la réalisation concrète du droit à l'éducation.
+11 Les mécanismes judiciaires jouent un grand rôle dans l'application du droit à l'éducation en garantissant la responsabilité juridique, contribuant ainsi à la réalisation concrète du droit à l'éducation.
 
-- 12 Qui appelle les États à « éliminer les inégalités entre les sexes dans le domaine de l'éducation et assurer l'égalité d'accès des personnes vulnérables, y compris les personnes handicapées, les autochtones et les enfants en  situation  vulnérable,  à  tous  les  niveaux  d'enseignement  et  de  formation  professionnelle 13 Voir article/paragraphe 1(1 ).
+12 Qui appelle les États à « éliminer les inégalités entre les sexes dans le domaine de l'éducation et assurer l'égalité d'accès des personnes vulnérables, y compris les personnes handicapées, les autochtones et les enfants en situation vulnérable, à tous les niveaux d'enseignement et de formation professionnelle ».
 
-Pour mémoire.' ces mesures répondent notamment à la cible 4.1 et, pour partie, à la cible 4. b i4
+13 Voir article/paragraphe 1(1).
 
-- x      Les  textes  juridiques 15 interdisent  toute  discrimination  et  garantissent  l'égalité  d'accès  à l'enseignement •
+Pour mémoire : ces mesures répondent notamment à la cible 4.1 et, pour partie, à la cible 4.b¹⁴
+
+- x Les textes juridiques¹⁵ interdisent toute discrimination et garantissent l'égalité d'accès à l'enseignement :
 
 - x   Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de la petite enfance)
 
@@ -330,7 +270,7 @@ Avec la politique actuelle du gouvernement, aucune école primaire ne se constru
 
 ##### Dans l'enseignement primaire
 
-La loi n° 2015-635 du 17 septembre 2015 portant modification de la loi n° 95696
+La loi n° 2015-635 du 17 septembre 2015 portant modification de la loi n° 95-696
 
 du 7 septembre 1995 relative à l'enseignement : ce texte dispose en son article 2-1 : « Dans le cadre du service public de l'enseignement, la scolarisation est obligatoire  pour tous les enfants des deux sexes âgés de six à seize ans».
 
@@ -352,7 +292,7 @@ discriminatoire ou raciste à l'endroit de l'élève »
 
 ##### Dans l'enseignement supérieur
 
-Bien avant cette constitution plusieurs textes législatifs et réglementaires ont été pris. Il s'agit d'abord du décret n°92-391 du 1 er juillet 1992 , relatif à l'orientation à l'université.
+Bien avant cette constitution plusieurs textes législatifs et réglementaires ont été pris. Il s'agit d'abord du décret n°92-391 du 1er juillet 1992, relatif à l'orientation à l'université.
 
 [[END OF PAGE 9]]
 
@@ -365,7 +305,7 @@ De même, à travers la loi n°98-594 du 10 novembre 1998 d'orientation en faveu
 ##### Dans l'éducation des adultes et les autres possibilités d'apprentissage
 Pour les apprenants à besoins spécifiques la Côte d'Ivoire s'est doté de la loi portant n° 98-594 du 10 novembre 1998 dite loi d'orientation en faveur des personnes handicapées.
 
-Cette loi dont les décrets d'application restent à prendre, dispose en son chapitre 2, Article 6 : « L es personnes handicapées ont droit à l'éducation, soit dans les écoles ordinaires soit à défaut dans les institutions spécialisées en fonction des besoins particuliers de chacune d'elles. L'éducation spéciale associe les actions pédagogiques, psychologiques, sociales, médicales et paramédicales »
+Cette loi dont les décrets d'application restent à prendre, dispose en son chapitre 2, Article 6 : « Les personnes handicapées ont droit à l'éducation, soit dans les écoles ordinaires soit à défaut dans les institutions spécialisées en fonction des besoins particuliers de chacune d'elles. L'éducation spéciale associe les actions pédagogiques, psychologiques, sociales, médicales et paramédicales »
 
 Face au manque d'infrastructure d'accueil des étudiants (pour des raisons de difficultés économiques de la Côte d'Ivoire), le Gouvernement a concédé le service public de
 
@@ -387,7 +327,7 @@ Concernant les universités publiques, il faut souligner qu'avant la rentrée 20
 
 La Constitution de la République de Côte d'Ivoire, révisée en 2016, garantit l'égalité des citoyens devant la loi, sans distinction de race, d'origine, d'ethnie, de sexe, de religion, de culture, de classe sociale, d'opinion politique ou de condition physique. Elle protège le droit à l'éducation pour tous les citoyens.
 
-##### La  loi  n°  2015635  du  17  septembre  2015  portant  sur  l'éducation nationale
+##### 2. La loi n° 2015-635 du 17 septembre 2015 portant sur l'éducation nationale
 
 Cette loi sur l'éducation nationale précise également le droit à l'éducation pour tous, et interdit toute forme de discrimination basée sur :
 
@@ -395,19 +335,19 @@ Cette loi sur l'éducation nationale précise également le droit à l'éducatio
 
 - La religion
 
-- L' origine sociale
+- L'origine sociale
 
 - La race
 
-- L' ethnie
+- L'ethnie
 
-- L' opinion politique
+- L'opinion politique
 
 - La langue
 
-- L' état de santé ou le handicap
+- L'état de santé ou le handicap
 
-##### Conventions internationales
+##### 3. Conventions internationales
 
 La Côte d'Ivoire est signataire de plusieurs conventions internationales qui interdisent la discrimination, notamment :
 
@@ -417,11 +357,11 @@ La Côte d'Ivoire est signataire de plusieurs conventions internationales qui in
 
 - La Convention contre la discrimination dans le domaine de l'enseignement de l'UNESCO (1960), qui interdit toute forme de discrimination en matière d'éducation, qu'elle soit fondée sur la race, la couleur, le sexe, la langue, la religion, les opinions politiques, l'origine nationale ou sociale, la fortune ou la naissance.
 
-##### Code du travail ivoirien
+##### 4. Code du travail ivoirien
 
 - Le Code du travail ivoirien, dans certains de ses articles, touche indirectement le domaine de l'éducation en interdisant toute discrimination au travail, y compris dans les opportunités de formation et d'apprentissage, sur des bases similaires : race, sexe, religion, opinion politique , etc.
 
-##### Code de protection de l'enfant (loi n° 2019-574 du 26 juin 2019)
+##### 5. Code de protection de l'enfant (loi n° 2019-574 du 26 juin 2019)
 
 Ce code met un accent particulier sur la protection des enfants contre toutes formes de discrimination dans tous les aspects de la vie, y compris l'éducation, et réaffirme les principes de non-discrimination fondés sur :
 
@@ -471,7 +411,7 @@ Le ministère de l'Éducation nationale, de l'Enseignement technique et de la Fo
 
 - Promotion de l' égalité des genres , visant à encourager la scolarisation des filles et à lutter contre les stéréotypes sexistes.
 
-##### Les programmes de lutte contre les inégalités de genre
+##### 2. Les programmes de lutte contre les inégalités de genre
 
 L'une des principales préoccupations du système éducatif ivoirien est la lutte contre les inégalités de genre, notamment en matière de scolarisation des filles. Pour ce faire, plusieurs programmes ont été mis en place :
 
@@ -479,7 +419,7 @@ L'une des principales préoccupations du système éducatif ivoirien est la lutt
 
 - Sensibilisation contre les mariages précoces et les grossesses en milieu scolaire , des obstacles majeurs à l'éducation des filles en Côte d'Ivoire. Ce programme a pour but de maintenir les filles à l'école en luttant contre les mariages précoces et en offrant des solutions de réinsertion scolaire pour les filles enceintes.
 
-##### Les initiatives en faveur des enfants en situation de handicap
+##### 3. Les initiatives en faveur des enfants en situation de handicap
 
 Le gouvernement ivoirien, en collaboration avec des organisations non gouvernementales, a mis en œuvre plusieurs initiatives pour garantir l' accès à l'éducation pour les enfants handicapés :
 
@@ -489,7 +429,7 @@ Le gouvernement ivoirien, en collaboration avec des organisations non gouverneme
 
 - Bourses scolaires et aides spécifiques : Certaines aides financières sont accordées pour faciliter l'accès des enfants handicapés à l'éducation.
 
-##### Programme des cantines scolaires
+##### 4. Programme des cantines scolaires
 
 Le programme des cantines scolaires vise à encourager la scolarisation dans les zones rurales et à faible revenu en offrant des repas aux élèves. Cette initiative contribue à réduire les inégalités en matière d'accès à l'éducation, en particulier pour les enfants issus de familles défavorisées. Il favorise également la fréquentation scolaire, notamment chez les filles.
 
@@ -505,7 +445,7 @@ Pour réduire les inégalités régionales en matière d'accès à l'éducation,
 
 - Formation des enseignants et affectation d'enseignants qualifiés dans les zones reculées pour réduire l'écart éducatif entre les villes et les campagnes.
 
-##### Programme de réinsertion des enfants déscolarisés ou non scolarisés
+##### 6. Programme de réinsertion des enfants déscolarisés ou non scolarisés
 
 Ce programme vise à offrir une éducation ou une formation aux enfants qui ont quitté l'école ou qui ne l'ont jamais fréquentée. Il inclut :
 
@@ -513,17 +453,17 @@ Ce programme vise à offrir une éducation ou une formation aux enfants qui ont 
 
 - Programmes d'alphabétisation pour les enfants et les jeunes non scolarisés.
 
-##### Coopération avec les organisations internationales
+##### 7. Coopération avec les organisations internationales
 
 La Côte d'Ivoire collabore avec plusieurs organisations internationales dans le cadre de la lutte contre la discrimination et pour promouvoir l'égalité dans l'accès à l'éducation :
 
 - UNICEF : L'UNICEF travaille avec le gouvernement pour améliorer l'accès à l'éducation pour tous les enfants, notamment en soutenant les écoles dans les zones rurales et en promouvant l'éducation des filles.
 
-- UNESCO : En tant que signataire des conventions de l'UNESCO, la Côte d'Ivoire s'engage à respecter les standards internationaux en matière de nondiscrimination dans l'éducation.
+- UNESCO : En tant que signataire des conventions de l'UNESCO, la Côte d'Ivoire s'engage à respecter les standards internationaux en matière de non-discrimination dans l'éducation.
 
 - Banque mondiale et Union européenne : Ces organisations financent des programmes d'amélioration du système éducatif pour réduire les disparités sociales et régionales.
 
-##### Le Plan Sectoriel Éducation/Formation 2016-2025
+##### 8. Le Plan Sectoriel Éducation/Formation 2016-2025
 
 Ce plan stratégique à long terme vise à promouvoir l' inclusion sociale dans l'éducation en s'attaquant aux inégalités. Il inclut des actions spécifiques pour les filles, les enfants en situation de handicap, et les enfants issus de milieux pauvres. Il cherche à améliorer l'accès, la qualité, et l'équité dans l'enseignement en Côte d'Ivoire.
 
@@ -537,7 +477,8 @@ persistent, notamment en ce qui concerne la mise en œuvre effective de ces poli
 
 Cela est valable pour tous les ordres d'enseignement.
 
-> 14 Qui appelle les États à « augmenter nettement à l'échelle mondiale le nombre de bourses d'études offertes pour financer le suivi d'études supérieures, y compris la formation professionnelle, les cursus informatiques, techniques et scientifiques et les études d'ingénieur » 15 Constitution, lois, décrets, règlements, circulaires, etc.
+14 Qui appelle les États à « augmenter nettement à l'échelle mondiale le nombre de bourses d'études offertes pour financer le suivi d'études supérieures, y compris la formation professionnelle, les cursus informatiques, techniques et scientifiques et les études d'ingénieur ».
+15 Constitution, lois, décrets, règlements, circulaires, etc.
 
 [[END OF PAGE 16]]
 
@@ -571,7 +512,7 @@ Dans l'éducation des adultes et l'autres possibilités d'apprentissage
 
 [[START OF PAGE 19]]
 
-##### Réforme des curricula scolaires
+##### 1. Réforme des curricula scolaires
 
 Le ministère de l'Éducation nationale a initié une réforme des programmes d'enseignement visant à intégrer les principes de non-discrimination, de tolérance et de respect des différences dans le contenu pédagogique :
 
@@ -579,7 +520,7 @@ Le ministère de l'Éducation nationale a initié une réforme des programmes d'
 
 - Formation sur les droits humains : L'enseignement intègre les principes des droits de l'homme, notamment ceux relatifs à l'égalité, en conformité avec les engagements internationaux de la Côte d'Ivoire (comme la Convention internationale relative aux droits de l'enfant et les recommandations de l'UNESCO).
 
-##### Programme d'éducation inclusive
+##### 2. Programme d'éducation inclusive
 
 - L' éducation inclusive est un axe majeur de la lutte contre la discrimination. Ce programme vise à intégrer tous les enfants, y compris ceux en situation de handicap, dans le système éducatif ordinaire. Les principales initiatives dans ce domaine incluent :
 
@@ -589,7 +530,7 @@ Le ministère de l'Éducation nationale a initié une réforme des programmes d'
 
 - Classes inclusives : Certaines écoles offrent des classes spéciales qui incluent à la fois des enfants ordinaires et des enfants avec des besoins particuliers, favorisant ainsi l'inclusion et l'acceptation des différences.
 
-##### Promotion de l'égalité des genres
+##### 3. Promotion de l'égalité des genres
 
 Des programmes spécifiques visent à éliminer les discriminations liées au genre dans le système éducatif :
 
@@ -597,7 +538,7 @@ Des programmes spécifiques visent à éliminer les discriminations liées au ge
 
 - Campagnes de sensibilisation : Des campagnes sont menées pour déconstruire les stéréotypes sexistes et promouvoir l'égalité des chances pour les filles et les garçons. Ces campagnes visent à sensibiliser les communautés et les familles à l'importance de l'éducation des filles.
 
-##### Éducation à la diversité culturelle
+##### 4. Éducation à la diversité culturelle
 
 [[END OF PAGE 19]]
 
@@ -611,7 +552,7 @@ La Côte d'Ivoire est un pays avec une diversité ethnique et culturelle riche. 
 
 - Journées culturelles dans les écoles : Ces journées permettent aux élèves de mieux connaître et comprendre les différentes cultures présentes dans le pays, favorisant ainsi la tolérance et le respect.
 
-##### Sensibilisation à la lutte contre les discriminations religieuses
+##### 5. Sensibilisation à la lutte contre les discriminations religieuses
 
 La Côte d'Ivoire, en tant que pays multiconfessionnel, a mis en place des programmes qui prônent la tolérance religieuse et la coexistence pacifique :
 
@@ -619,7 +560,7 @@ La Côte d'Ivoire, en tant que pays multiconfessionnel, a mis en place des progr
 
 - Projets interreligieux : Certaines initiatives encouragent les élèves de différentes confessions religieuses à travailler ensemble sur des projets communs, promouvant ainsi la tolérance et l'harmonie interreligieuse.
 
-##### Lutte contre la discrimination socio-économique
+##### 6. Lutte contre la discrimination socio-économique
 
 Pour s'assurer que les enfants issus de familles défavorisées puissent accéder à l'éducation, plusieurs programmes de soutien ont été mis en place :
 
@@ -629,7 +570,7 @@ Pour s'assurer que les enfants issus de familles défavorisées puissent accéde
 
 - Transport scolaire gratuit ou subventionné : Dans certaines régions, des initiatives locales offrent un transport gratuit ou subventionné pour les élèves vivant dans des zones éloignées, garantissant ainsi un accès à l'école.
 
-##### Le Plan Sectoriel Éducation/Formation 2016-2025
+##### 7. Le Plan Sectoriel Éducation/Formation 2016-2025
 
 Dans le cadre du Plan Sectoriel Éducation/Formation (PSEF), le gouvernement ivoirien a mis en place des actions spécifiques pour promouvoir l'équité et lutter contre les discriminations dans le système éducatif. Ce plan inclut :
 
@@ -643,7 +584,7 @@ Dans le cadre du Plan Sectoriel Éducation/Formation (PSEF), le gouvernement ivo
 
 - Inclusion numérique : L'intégration des technologies de l'information et de la communication (TIC) dans les écoles vise à réduire l'écart éducatif entre les zones urbaines et rurales et à offrir des opportunités égales à tous les élèves.
 
-##### Initiatives des ONG et partenaires internationaux
+##### 8. Initiatives des ONG et partenaires internationaux
 
 Plusieurs organisations non gouvernementales et institutions internationales, telles que l' UNICEF , l' UNESCO et la Banque mondiale , collaborent avec le gouvernement ivoirien pour mettre en œuvre des programmes visant à lutter contre la discrimination dans l'enseignement. Ces initiatives incluent :
 
@@ -657,7 +598,7 @@ La lutte contre la discrimination dans les programmes d'enseignement en Côte d'
 
 En plus des politiques et programmes spécifiques mentionnés précédemment, la Côte d'Ivoire a adopté d'autres mesures pour éliminer et prévenir la discrimination dans le domaine de l'enseignement et garantir l'égalité d'accès à tous les degrés et dans tous les types d'enseignement. Ces mesures, qui incluent des réformes législatives, des initiatives de sensibilisation et des partenariats stratégiques, visent à promouvoir l'inclusion et à offrir des opportunités éducatives à tous les citoyens. Voici un aperçu de ces actions complémentaires :
 
-##### Renforcement du cadre législatif et réglementaire
+##### 1. Renforcement du cadre législatif et réglementaire
 
 Le gouvernement ivoirien a mis en place des lois et des réglementations supplémentaires pour consolider la lutte contre les discriminations dans le domaine de l'éducation :
 
@@ -669,7 +610,7 @@ Le gouvernement ivoirien a mis en place des lois et des réglementations supplé
 
 -12-
 
-- rendant l'école obligatoire, l'État veille à ce que tous les enfants, quel que soit leur sexe, origine sociale ou région, puissent accéder à une éducation de base.
+rendant l'école obligatoire, l'État veille à ce que tous les enfants, quel que soit leur sexe, origine sociale ou région, puissent accéder à une éducation de base.
 
 - Sanctions contre les discriminations : Des mesures législatives ont été adoptées pour pénaliser les actes discriminatoires, y compris dans les établissements scolaires. Les autorités éducatives peuvent sanctionner les enseignants ou personnels administratifs qui pratiquent ou tolèrent des discriminations fondées sur le sexe, l'origine, la religion ou le handicap.
 
@@ -683,7 +624,7 @@ Pour prévenir la discrimination dans les salles de classe, le gouvernement et s
 
 - Promotion des valeurs de tolérance et de respect : Les enseignants sont formés à intégrer ces valeurs dans leur approche pédagogique, en veillant à créer un environnement d'apprentissage équitable et bienveillant.
 
-##### Surveillance et suivi de l'égalité d'accès
+##### 3. Surveillance et suivi de l'égalité d'accès
 
 Le gouvernement a mis en place des mécanismes de suivi pour s'assurer que l'égalité d'accès à l'éducation est respectée dans tout le pays :
 
@@ -691,7 +632,7 @@ Le gouvernement a mis en place des mécanismes de suivi pour s'assurer que l'ég
 
 - Inspection des établissements scolaires : Les inspecteurs scolaires veillent au respect des politiques de non-discrimination et d'inclusion dans les écoles. Des sanctions peuvent être appliquées aux établissements qui ne respectent pas ces directives.
 
-##### Promotion de la parité hommes-femmes dans les programmes scolaires
+##### 4. Promotion de la parité hommes-femmes dans les programmes scolaires
 
 La Côte d'Ivoire s'efforce de renforcer l'égalité des genres à tous les niveaux de l'éducation, en prenant plusieurs mesures :
 
@@ -711,7 +652,7 @@ Des programmes spécifiques ont été mis en place pour soutenir les groupes vul
 
 - Programmes d'alphabétisation pour les adultes et les jeunes non scolarisés : En plus de l'éducation formelle, des efforts sont faits pour offrir une éducation de base aux jeunes et adultes analphabètes ou déscolarisés, particulièrement dans les zones rurales. Cela vise à compenser les inégalités d'accès à l'éducation qui pourraient exister en raison de facteurs sociaux ou économiques.
 
-##### Accès équitable à l'enseignement supérieur
+##### 6. Accès équitable à l'enseignement supérieur
 
 Le gouvernement ivoirien a également pris des mesures pour garantir l'égalité d'accès à l'enseignement supérieur et technique :
 
@@ -719,7 +660,7 @@ Le gouvernement ivoirien a également pris des mesures pour garantir l'égalité
 
 - Expansion des infrastructures universitaires : Afin de garantir un accès plus équitable à l'enseignement supérieur, le gouvernement investit dans la construction de nouvelles universités et établissements techniques dans les régions éloignées, réduisant ainsi les disparités géographiques.
 
-##### Partenariats public-privé et initiatives avec les ONG
+##### 7. Partenariats public-privé et initiatives avec les ONG
 
 Des partenariats entre le secteur public, le secteur privé et les ONG ont été mis en place pour renforcer les efforts visant à éliminer la discrimination et à garantir l'égalité dans le domaine de l'éducation :
 
@@ -727,7 +668,7 @@ Des partenariats entre le secteur public, le secteur privé et les ONG ont été
 
 - Soutien des entreprises privées : Certaines entreprises privées investissent dans l'éducation à travers des fondations éducatives , en offrant des bourses ou en soutenant des projets de développement d'infrastructures dans les zones rurales ou défavorisées.
 
-##### Programmes d'intégration numérique
+##### 8. Programmes d'intégration numérique
 
 Le développement de l'éducation numérique en Côte d'Ivoire contribue également à lutter contre la discrimination dans l'accès à l'éducation :
 
@@ -765,7 +706,9 @@ a La législation garantit l'éducation inclusive pour tous  a  Les  mesures  po
 
 [[START OF PAGE 25]]
 
-- D Les enseignants sont formés à l'éducation inclusive 56 et apprennent à valoriser la diversité
+- D Les enseignants sont formés à l'éducation inclusive⁵ et apprennent à valoriser la diversité
+
+- D Des installations sanitaires tenant compte du genre⁶ sont mises à disposition
 
 - a Des initiatives ont été lancées pour lutter contre la discrimination et promouvoir la diversité culturelle et l'acceptation mutuelle
 
@@ -777,19 +720,19 @@ L'égalité des chances et l'inclusion dans le domaine de l'enseignement en Côt
 
 - Éducation primaire gratuite et obligatoire : La Côte d'Ivoire a rendu l'éducation primaire gratuite et obligatoire, conformément à la loi n° 2015-635, dans le but de garantir que tous les enfants, sans distinction, puissent accéder à une éducation de base. Cette mesure contribue à réduire les inégalités liées aux conditions socio-économiques, en particulier pour les enfants des zones rurales et défavorisées.
 
-##### Promotion de l'égalité des genres
+##### 2. Promotion de l'égalité des genres
 
 - Accès à l'éducation des filles : Des programmes spécifiques, tels que le Programme d'appui à l'éducation des filles (PAEF) , sont mis en place pour encourager la scolarisation des filles, particulièrement dans les régions où elles sont traditionnellement sous-représentées. Ces programmes incluent des campagnes de sensibilisation, des bourses scolaires et des initiatives pour lutter contre les mariages précoces et les grossesses précoces.
 
 - Lutte contre les stéréotypes sexistes : L'État ivoirien, avec le soutien de partenaires internationaux, revoit régulièrement les manuels scolaires pour éliminer les stéréotypes sexistes et promouvoir l'égalité des genres. De plus, des actions de sensibilisation sont menées pour encourager les filles à s'engager dans des filières traditionnellement dominées par les hommes, comme les sciences et les technologies.
 
-##### Inclusion des enfants en situation de handicap
+##### 3. Inclusion des enfants en situation de handicap
 
 L'inclusion des enfants en situation de handicap dans le système éducatif est une priorité dans le cadre de l'égalité des chances :
 
 - Écoles inclusives : Des écoles sont progressivement adaptées pour accueillir les enfants handicapés, avec des infrastructures adaptées (rampes d'accès, toilettes spéciales) et des
 
-> 5 Les enseignants sont dûment formés pour enseigner  à  tous les élèves  (et pas  uniquement aux élèves handicapés) afin qu'ils aient les connaissances, les valeurs et les comportements qui leur permettront de réussir. Voir: Enseiqnement inclusif : préparer tous les enseiqnants à enseigner à tous les élèves UNESCO Digital Librarv Enseignement inclusif : préparer tous les enseignants à enseigner à tous les élèves, 2020, p. 14.
+5 Les enseignants sont dûment formés pour enseigner à tous les élèves (et pas uniquement aux élèves handicapés) afin qu'ils aient les connaissances, les valeurs et les comportements qui leur permettront de réussir. Voir: Enseignement inclusif : préparer tous les enseignants à enseigner à tous les élèves | UNESCO Digital Library. Enseignement inclusif : préparer tous les enseignants à enseigner à tous les élèves, 2020, p. 14.
 
 > 6 « Les installations sanitaires tenant compte du genre comprennent des toilettes propres, sûres et séparées, l'accès à l'eau et l'enlèvement des déchets » (UNGEI blog post, Gender-sensitive sanitation, 2018).
 
@@ -799,13 +742,13 @@ L'inclusion des enfants en situation de handicap dans le système éducatif est 
 
 -16-
 
-- classes inclusives où les élèves ayant des besoins spécifiques apprennent aux côtés de leurs pairs.
+classes inclusives où les élèves ayant des besoins spécifiques apprennent aux côtés de leurs pairs.
 
 - Formation des enseignants : Des formations sont données aux enseignants pour mieux intégrer les enfants en situation de handicap, en tenant compte de leurs besoins particuliers, notamment par l'utilisation de matériels didactiques adaptés.
 
 - Soutien financier : Des bourses et aides spécifiques sont accordées aux familles pour faciliter la scolarisation des enfants handicapés.
 
-##### Réduction des inégalités régionales et socio-économiques
+##### 4. Réduction des inégalités régionales et socio-économiques
 
 - Construction d'infrastructures scolaires dans les zones rurales : Pour réduire les disparités géographiques, le gouvernement investit dans la construction et la réhabilitation d'écoles dans les régions les plus reculées et défavorisées. Ces efforts visent à garantir que tous les enfants, où qu'ils se trouvent, aient un accès physique à l'éducation.
 
@@ -813,19 +756,19 @@ L'inclusion des enfants en situation de handicap dans le système éducatif est 
 
 - Transport scolaire gratuit ou subventionné : Des initiatives locales visent à offrir un transport gratuit ou subventionné aux élèves vivant dans des zones rurales éloignées pour leur permettre de fréquenter l'école.
 
-##### Accès équitable à l'enseignement secondaire et supérieur
+##### 5. Accès équitable à l'enseignement secondaire et supérieur
 
 - Systèmes de bourses et aides financières : Le gouvernement ivoirien et ses partenaires accordent des bourses basées sur le mérite et la situation économique pour soutenir les élèves et étudiants issus de familles défavorisées. Ces aides permettent d'alléger les charges financières liées à la poursuite des études secondaires et supérieures.
 
 - Expansion des infrastructures universitaires : Pour assurer une plus grande inclusion régionale, le gouvernement a étendu l'accès à l'enseignement supérieur en construisant de nouvelles universités et instituts techniques dans différentes régions du pays, réduisant ainsi la concentration des établissements dans les grandes villes comme Abidjan.
 
-##### Sensibilisation et éducation à la diversité
+##### 6. Sensibilisation et éducation à la diversité
 
 - Promotion de la diversité culturelle : Le système éducatif ivoirien valorise la diversité culturelle à travers des programmes d'éducation qui sensibilisent les élèves à la richesse ethnique et culturelle du pays. Cela contribue à promouvoir la tolérance et à combattre les discriminations basées sur l'origine ethnique.
 
 - Campagnes de sensibilisation : Des campagnes de sensibilisation sur l'importance de l'égalité des chances et de l'inclusion dans les écoles sont menées à travers des programmes d'éducation civique et des journées culturelles.
 
-##### Initiatives en faveur des enfants déscolarisés ou marginalisés
+##### 7. Initiatives en faveur des enfants déscolarisés ou marginalisés
 
 Pour garantir l'accès à l'éducation à des enfants marginalisés, plusieurs programmes ont été mis en place :
 
@@ -835,17 +778,17 @@ Pour garantir l'accès à l'éducation à des enfants marginalisés, plusieurs p
 
 [[START OF PAGE 27]]
 
-- formation pour les jeunes sont mis en place pour leur permettre de retrouver une voie vers l'éducation ou la formation professionnelle.
+formation pour les jeunes sont mis en place pour leur permettre de retrouver une voie vers l'éducation ou la formation professionnelle.
 
 - Programmes d'alphabétisation : Les adultes et jeunes non scolarisés ou déscolarisés bénéficient de programmes d'alphabétisation dans certaines régions, ce qui permet de lutter contre les inégalités en matière d'accès à l'éducation.
 
-##### Partenariats avec des organisations internationales et des ONG
+##### 8. Partenariats avec des organisations internationales et des ONG
 
 - Collaboration avec l'UNICEF et l'UNESCO : Ces organisations internationales jouent un rôle crucial dans l'élaboration de programmes visant à promouvoir l'égalité d'accès à l'éducation. Elles soutiennent des initiatives gouvernementales et des campagnes de sensibilisation pour améliorer l'accès à l'éducation des enfants les plus vulnérables.
 
 - Appui des ONG : Plusieurs ONG locales et internationales travaillent aux côtés du gouvernement pour promouvoir l'éducation inclusive, notamment pour les filles, les enfants handicapés et les enfants issus de familles défavorisées.
 
-##### Technologie et inclusion numérique
+##### 9. Technologie et inclusion numérique
 
 - Programme d'éducation numérique : L'usage des technologies éducatives est encouragé pour combler les inégalités, notamment dans les zones rurales. Le gouvernement travaille à équiper les écoles avec des outils numériques, offrant ainsi à tous les élèves, y compris ceux des zones défavorisées, des opportunités d'apprentissage équitables grâce aux ressources en ligne.
 
@@ -891,7 +834,7 @@ Le Code du travail ivoirien intègre des dispositions sur la non-discrimination 
 
 Cette loi garantit aux personnes en situation de handicap l'égalité d'accès à l'éducation, à l'emploi et aux services publics. Elle impose également des quotas d'embauche pour les personnes handicapées dans les secteurs public et privé et veille à l'adaptation des infrastructures pour rendre les lieux accessibles à tous.
 
-##### Mesures politiques et programmes en faveur de l'égalité des chances
+##### 2. Mesures politiques et programmes en faveur de l'égalité des chances
 
 [[END OF PAGE 28]]
 
@@ -899,7 +842,7 @@ Cette loi garantit aux personnes en situation de handicap l'égalité d'accès �
 
 Le gouvernement ivoirien a mis en place plusieurs politiques et programmes visant à promouvoir l'égalité des chances, en particulier pour les groupes marginalisés tels que les femmes, les jeunes, les personnes handicapées et les populations rurales.
 
-###### Programme National de Développement (PND)
+###### a. Programme National de Développement (PND)
 
 Le Programme National de Développement 2021-2025 de la Côte d'Ivoire place l'égalité des chances et l'inclusion sociale au cœur de ses priorités. Le PND vise à :
 
@@ -907,7 +850,7 @@ Le Programme National de Développement 2021-2025 de la Côte d'Ivoire place l'�
 
 - Favoriser l'accès aux services publics essentiels (santé, éducation, emploi) pour tous les citoyens, en particulier les populations vulnérables.
 
-###### Programme d'éducation pour tous
+###### b. Programme d'éducation pour tous
 
 Dans le cadre de la promotion de l'égalité d'accès à l'éducation, le gouvernement ivoirien a mis en place le Programme d'Éducation pour Tous (EPT) , soutenu par l'UNESCO et d'autres partenaires internationaux. Ce programme vise à :
 
@@ -915,7 +858,7 @@ Dans le cadre de la promotion de l'égalité d'accès à l'éducation, le gouver
 
 - Réduire les disparités régionales et favoriser la scolarisation des filles et des enfants issus de familles défavorisées.
 
-###### Promotion de l'égalité des genres
+###### c. Promotion de l'égalité des genres
 
 Le Ministère de la Femme, de la Famille et de l'Enfant joue un rôle central dans la mise en œuvre de programmes visant à réduire les inégalités de genre en Côte d'Ivoire. Ces programmes incluent :
 
@@ -925,7 +868,7 @@ Le Ministère de la Femme, de la Famille et de l'Enfant joue un rôle central da
 
 En outre, des quotas de représentation des femmes dans les postes de décision ont été introduits pour assurer une plus grande égalité dans les secteurs publics et privés.
 
-###### Soutien aux personnes handicapées
+###### d. Soutien aux personnes handicapées
 
 Le gouvernement a développé des politiques pour améliorer l'inclusion des personnes handicapées dans la société ivoirienne :
 
@@ -933,7 +876,7 @@ Le gouvernement a développé des politiques pour améliorer l'inclusion des per
 
 - Des quotas d'emploi pour les personnes handicapées sont imposés aux employeurs, en particulier dans les grandes entreprises et les administrations publiques.
 
-- L'État soutient également des programmes de formation professionnelle pour favoriser l'insertion professionnelle des personnes en situation de handicap.
+L'État soutient également des programmes de formation professionnelle pour favoriser l'insertion professionnelle des personnes en situation de handicap.
 
 [[END OF PAGE 29]]
 
@@ -941,7 +884,7 @@ Le gouvernement a développé des politiques pour améliorer l'inclusion des per
 
 -20-
 
-###### Réduction des inégalités régionales
+###### e. Réduction des inégalités régionales
 
 Pour réduire les disparités régionales, le gouvernement met en œuvre des programmes de développement local axés sur les infrastructures éducatives, sanitaires, et les équipements de base dans les zones rurales. Ces actions visent à :
 
@@ -949,9 +892,9 @@ Pour réduire les disparités régionales, le gouvernement met en œuvre des pro
 
 - Encourager l'égalité des opportunités pour les enfants et jeunes issus de zones reculées.
 
-##### Mesures spécifiques pour les jeunes et les femmes
+##### 3. Mesures spécifiques pour les jeunes et les femmes
 
-###### Programme d'Autonomisation des Femmes
+###### a. Programme d'Autonomisation des Femmes
 
 Le gouvernement ivoirien, en partenariat avec des organisations internationales, a lancé des initiatives pour autonomiser les femmes économiquement et politiquement. Cela comprend :
 
@@ -959,7 +902,7 @@ Le gouvernement ivoirien, en partenariat avec des organisations internationales,
 
 - Des programmes de formation pour améliorer les compétences des femmes dans des secteurs stratégiques comme les technologies, l'agriculture et les métiers techniques.
 
-###### Politique nationale de l'emploi des jeunes
+###### b. Politique nationale de l'emploi des jeunes
 
 La Politique Nationale de l'Emploi des Jeunes vise à offrir des opportunités d'emploi aux jeunes à travers :
 
@@ -971,7 +914,7 @@ La Politique Nationale de l'Emploi des Jeunes vise à offrir des opportunités d
 
 La Côte d'Ivoire a adopté un ensemble de mesures juridiques et politiques pour promouvoir l'égalité des chances et lutter contre toutes les formes de discrimination. Bien que des progrès significatifs aient été réalisés, des défis subsistent, notamment en matière de mise en œuvre effective de ces politiques, en particulier dans les régions rurales. Toutefois, les efforts continus du gouvernement et des partenaires internationaux renforcent les perspectives d'une société plus inclusive et égalitaire.
 
-- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de  nondiscrimination et d'égalité des chances dans le domaine de l'enseignement ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
+- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de non-discrimination et d'égalité des chances dans le domaine de l'enseignement ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
 L'application des principes de non-discrimination et d'égalité des chances dans le domaine de l'enseignement en Côte d'Ivoire rencontre plusieurs difficultés. Malgré les avancées législatives et les politiques mises en place, plusieurs obstacles persistent, entravant l'accès équitable à une éducation de qualité pour tous les enfants. Voici un aperçu des principales difficultés rencontrées :
 
@@ -979,31 +922,31 @@ L'application des principes de non-discrimination et d'égalité des chances dan
 
 [[START OF PAGE 31]]
 
-##### Infrastructures scolaires insuffisantes
+##### 1. Infrastructures scolaires insuffisantes
 
 - Manque d'écoles : De nombreuses régions, en particulier rurales, manquent d'établissements scolaires adéquats, ce qui rend difficile l'accès à l'éducation pour les enfants vivant dans ces zones. Les longues distances à parcourir pour atteindre une école peuvent dissuader les parents d'inscrire leurs enfants.
 
 - Infrastructure inadaptée : Les écoles existantes ne sont souvent pas adaptées aux besoins des enfants en situation de handicap. L'absence de rampes d'accès, de toilettes adaptées et d'autres installations nécessaires limite l'accès à l'éducation pour ces enfants.
 
-##### Disparités socio-économiques
+##### 2. Disparités socio-économiques
 
 - Conditions économiques difficiles : Les familles à faible revenu ont souvent du mal à couvrir les frais liés à l'éducation, tels que les fournitures scolaires, les uniformes et les transports. Ces contraintes financières peuvent entraîner l'abandon scolaire, surtout chez les filles et les enfants issus de milieux défavorisés.
 
 - Priorités familiales : Dans certains contextes socio-économiques, l'éducation peut être perçue comme un luxe. Les familles peuvent préférer envoyer leurs enfants travailler pour contribuer aux revenus du ménage plutôt que de les scolariser.
 
-##### Stéréotypes et discriminations
+##### 3. Stéréotypes et discriminations
 
 - Stéréotypes de genre : Les stéréotypes de genre persistent dans la société ivoirienne, ce qui peut décourager les filles de poursuivre leur éducation, en particulier dans des domaines traditionnellement masculins comme les sciences et les technologies.
 
 - Discrimination à l'école : Les enfants issus de minorités ethniques ou en situation de handicap peuvent faire face à des attitudes discriminatoires de la part de certains enseignants ou élèves, créant un environnement d'apprentissage hostile.
 
-##### Formation et sensibilisation des enseignants
+##### 4. Formation et sensibilisation des enseignants
 
 - Insuffisance de formation : Beaucoup d'enseignants manquent de formation sur les enjeux liés à l'inclusion, la diversité et les méthodes pédagogiques adaptées aux élèves ayant des besoins spécifiques. Cette lacune peut mener à des pratiques pédagogiques non inclusives.
 
 - Sensibilisation limitée : Les enseignants peuvent également manquer de sensibilisation sur l'importance de l'égalité des chances et de la non-discrimination, ce qui peut se traduire par des comportements biaisés dans la salle de classe.
 
-##### Accès à des ressources éducatives de qualité
+##### 5. Accès à des ressources éducatives de qualité
 
 - Manque de matériel didactique : Les écoles, en particulier dans les zones rurales, peuvent ne pas avoir accès à des ressources éducatives adéquates, comme des livres, des technologies de l'information et de la communication (TIC) et des outils pédagogiques adaptés. Cela limite la qualité de l'enseignement et l'apprentissage.
 
@@ -1015,13 +958,13 @@ L'application des principes de non-discrimination et d'égalité des chances dan
 
 -22-
 
-##### Politiques publiques et mise en œuvre
+##### 6. Politiques publiques et mise en œuvre
 
 - Manque de suivi et d'évaluation : Les politiques en faveur de l'égalité des chances et de la non-discrimination souffrent souvent d'un manque de mécanismes de suivi et d'évaluation efficaces. Cela complique la mesure des progrès réalisés et l'identification des domaines nécessitant des ajustements.
 
 - Coordination insuffisante : Il peut y avoir un manque de coordination entre les différents acteurs impliqués dans l'éducation, y compris le gouvernement, les ONG et les partenaires internationaux, ce qui peut mener à des efforts fragmentés.
 
-##### Contexte politique et social
+##### 7. Contexte politique et social
 
 - Instabilité politique : L'instabilité politique et les conflits peuvent affecter la continuité de l'éducation et compromettre les initiatives visant à promouvoir l'égalité des chances. Les conflits peuvent entraîner la fermeture d'écoles et le déplacement d'élèves.
 
@@ -1029,7 +972,7 @@ L'application des principes de non-discrimination et d'égalité des chances dan
 
 L'application des principes de non-discrimination et d'égalité des chances dans l'éducation en Côte d'Ivoire est confrontée à un ensemble complexe de défis. Pour surmonter ces obstacles, il est essentiel d'adopter une approche intégrée qui combine des réformes politiques, des investissements dans les infrastructures, une sensibilisation et une formation adéquate des enseignants, ainsi qu'un engagement de la société civile pour changer les mentalités et promouvoir une culture de l'égalité et de l'inclusion.
 
-##### Autres mesures générales pertinentes, compris en matière d'égalité des genres
+##### Autres mesures générales pertinentes, y compris en matière d'égalité des genres
 
 - a La législation garantit l'égalité des genres dans l'éducation
 
@@ -1047,27 +990,28 @@ L'application des principes de non-discrimination et d'égalité des chances dan
 
 - D Des programmes de réintégration des jeunes mères sont prévus
 
-- L'accès à des installations sanitaires sûres, adaptées et tenant compte du genre est assure
+- L'accès à des installations sanitaires sûres, adaptées et tenant compte du genre est assuré
 
 a Les programmes d'études sont exempts de tout stéréotype 7 et de tout préjugé
 
-> 7 « Stereotype is a set idea that people have about what sorneone or something is like, especially an idea that is wrong » (« Un stéréotype est une idée toute faite que les gens se font de quelqu'un ou de quelque chose, en particulier une idée fausse », librement traduit du Cambridge Dictionary).
+> 7 « Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong » (« Un stéréotype est une idée toute faite que les gens se font de quelqu'un ou de quelque chose, en particulier une idée fausse », librement traduit du Cambridge Dictionary).
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-- Formation des enseignants à la lutte contre D La parité des genres en sciences, la stigmatisation 8 technologie, ingénierie et mathématiques (STIM) est garantie Autres:
-
+- Formation des enseignants à la lutte contre la stigmatisation 8
+- D La parité des genres en sciences, technologie, ingénierie et mathématiques (STIM) est garantie
+Autres:
 O La parité des genres dans l'enseignement et la formation techniques et professionnels (EFTP) est garantie
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 
 La Côte d'Ivoire a mis en place plusieurs mesures juridiques et politiques pour promouvoir l'égalité des chances dans l'enseignement. Ces mesures visent à garantir que tous les enfants, indépendamment de leur sexe, de leur origine ethnique, de leur statut socio-économique ou de leur handicap, aient accès à une éducation de qualité. Voici un aperçu des principales mesures adoptées :
 
-##### Cadre législatif
+##### 1. Cadre législatif
 
-###### Constitution de la République de Côte d'Ivoire (2016)
+###### a. Constitution de la République de Côte d'Ivoire (2016)
 
 - Article 4 : Établit que tous les Ivoiriens naissent libres et égaux devant la loi, interdisant toute forme de discrimination.
 
@@ -1077,17 +1021,17 @@ La Côte d'Ivoire a mis en place plusieurs mesures juridiques et politiques pour
 
 - Cette loi a rendu l'éducation primaire gratuite et obligatoire, visant à garantir que tous les enfants aient accès à une éducation de base, sans distinction de sexe ou d'origine.
 
-###### Loi  n°  2014-388  relative  à  la  promotion  et  à  la  protection  des  droits  des  personnes handicapées
+###### c. Loi n° 2014-388 relative à la promotion et à la protection des droits des personnes handicapées
 
 - Garantit l'égalité d'accès à l'éducation pour les personnes en situation de handicap, en imposant des mesures d'accessibilité et des quotas d'embauche dans les secteurs public et privé.
 
-##### Politiques publiques
+##### 2. Politiques publiques
 
-###### Politique Nationale de l'Éducation (PNE)
+###### a. Politique Nationale de l'Éducation (PNE)
 
 - La PNE met l'accent sur l'amélioration de l'accès à l'éducation pour tous les enfants, notamment par des programmes spécifiques pour les filles et les enfants handicapés.
 
-> 8 « Stigmatisation is the act of treating sorneone or something unfairly by publicly disapproving of them » (« La stigmatisation est une action consistant à  traiter injustement une personne ou une chose en les condamnant publiquement », librement traduit du Cambridge Dictionary).
+> 8 « Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them » (« La stigmatisation est une action consistant à traiter injustement une personne ou une chose en les condamnant publiquement », librement traduit du Cambridge Dictionary).
 
 [[END OF PAGE 33]]
 
@@ -1095,35 +1039,35 @@ La Côte d'Ivoire a mis en place plusieurs mesures juridiques et politiques pour
 
 -24-
 
-###### Programme d'Éducation pour Tous (EPT)
+###### b. Programme d'Éducation pour Tous (EPT)
 
 - Soutenu par l'UNESCO et d'autres partenaires, ce programme vise à garantir l'accès universel à l'éducation primaire gratuite et à réduire les disparités régionales et de genre.
 
-###### Stratégie nationale pour l'autonomisation des femmes
+###### c. Stratégie nationale pour l'autonomisation des femmes
 
 - Cette stratégie comprend des initiatives pour améliorer l'accès des filles à l'éducation, en s'attaquant aux obstacles culturels et socio-économiques.
 
-##### Initiatives spécifiques
+##### 3. Initiatives spécifiques
 
-###### Programmes de sensibilisation
+###### a. Programmes de sensibilisation
 
 - Des campagnes de sensibilisation sont menées pour promouvoir l'importance de l'éducation des filles et des enfants en situation de handicap, sensibilisant ainsi les communautés aux bénéfices de l'égalité d'accès à l'éducation.
 
-###### Formation des enseignants
+###### b. Formation des enseignants
 
 - Des programmes de formation sont mis en place pour sensibiliser les enseignants à l'importance de l'inclusion et de l'égalité des chances, et pour leur fournir des outils pédagogiques adaptés.
 
-###### Mécanismes de soutien financier
+###### c. Mécanismes de soutien financier
 
 - Des bourses et des aides financières sont accordées aux élèves issus de familles à faible revenu et aux enfants handicapés, facilitant ainsi leur accès à l'éducation.
 
-##### Partenariats et collaborations
+##### 4. Partenariats et collaborations
 
-###### Collaboration avec des ONG et des organisations internationales
+###### a. Collaboration avec des ONG et des organisations internationales
 
 - Le gouvernement travaille en partenariat avec des ONG et des organisations internationales pour mettre en œuvre des programmes visant à promouvoir l'égalité des chances et à lutter contre la discrimination dans l'éducation.
 
-###### Soutien de l'UNICEF et de l'UNESCO
+###### b. Soutien de l'UNICEF et de l'UNESCO
 
 - Ces organisations fournissent un soutien technique et financier pour les programmes éducatifs, en se concentrant sur l'inclusion des groupes marginalisés.
 
@@ -1137,31 +1081,31 @@ Les mesures juridiques et politiques mises en place par la Côte d'Ivoire pour p
 
 La réalisation de l'égalité des genres dans et par l'éducation en Côte d'Ivoire fait face à plusieurs difficultés. Malgré les efforts déployés par le gouvernement et les organisations non gouvernementales pour promouvoir l'égalité entre les sexes, de nombreux défis persistent. Voici un aperçu des principales difficultés rencontrées :
 
-##### Stéréotypes de genre et normes culturelles
+##### 1. Stéréotypes de genre et normes culturelles
 
 - Rôles traditionnels : Les stéréotypes de genre profondément enracinés dans la culture ivoirienne influencent les perceptions des rôles des hommes et des femmes, ce qui peut décourager les filles de poursuivre leur éducation, en particulier dans des domaines traditionnellement perçus comme masculins, tels que les sciences et les technologies.
 
 - Pression sociale : Les attentes familiales et communautaires peuvent mener à des pressions sur les filles pour qu'elles abandonnent l'école afin d'aider aux tâches ménagères ou de se marier jeunes.
 
-##### Accès inégal à l'éducation
+##### 2. Accès inégal à l'éducation
 
 - Disparités géographiques : Dans certaines régions rurales, l'accès à l'éducation est limité pour les filles en raison de l'absence d'écoles à proximité, ce qui les oblige à parcourir de longues distances pour se rendre à l'école.
 
 - Frais scolaires : Bien que l'éducation primaire soit gratuite, les coûts associés (fournitures scolaires, uniformes, transports) peuvent représenter un obstacle pour les familles à faible revenu, qui peuvent privilégier l'éducation des garçons au détriment des filles.
 
-##### Violence et harcèlement scolaire
+##### 3. Violence et harcèlement scolaire
 
 - Violence basée sur le genre : Les filles peuvent être victimes de violence physique ou sexuelle dans les établissements scolaires, ce qui nuit à leur sécurité et à leur bien-être et les dissuade de poursuivre leur éducation.
 
 - Harcèlement scolaire : Les comportements de harcèlement ou de discrimination fondés sur le sexe peuvent créer un environnement d'apprentissage hostile, poussant les filles à se désengager de l'école.
 
-##### Manque de soutien familial et communautaire
+##### 4. Manque de soutien familial et communautaire
 
 - Éducation des parents : Le manque de sensibilisation des parents sur l'importance de l'éducation des filles peut entraîner une faible valorisation de l'éducation féminine. Certaines familles peuvent considérer que l'éducation des garçons est plus bénéfique pour l'avenir économique de la famille.
 
 - Soutien communautaire insuffisant : L'absence d'initiatives communautaires pour encourager l'éducation des filles et promouvoir l'égalité des sexes peut également limiter les progrès dans ce domaine.
 
-##### Qualité de l'éducation
+##### 5. Qualité de l'éducation
 
 - Infrastructure scolaire inadéquate : De nombreuses écoles manquent des installations nécessaires (toilettes séparées pour les filles, eau potable, etc.), ce qui peut affecter la fréquentation des filles, surtout durant leurs menstruations.
 
@@ -1173,13 +1117,13 @@ La réalisation de l'égalité des genres dans et par l'éducation en Côte d'Iv
 
 - Manque de formation des enseignants : Les enseignants peuvent ne pas être suffisamment formés pour traiter des questions d'égalité des genres et pour créer un environnement d'apprentissage inclusif. Cela peut se traduire par des pratiques pédagogiques qui favorisent les garçons au détriment des filles.
 
-##### Système éducatif rigide
+##### 6. Système éducatif rigide
 
 - Curriculum non inclusif : Les programmes scolaires peuvent ne pas aborder les questions de genre de manière adéquate, négligeant d'inclure des contenus qui promeuvent l'égalité des sexes ou qui défient les stéréotypes de genre.
 
 - Évaluation biaisée : Les méthodes d'évaluation peuvent privilégier les garçons, entraînant des résultats scolaires moins favorables pour les filles et décourageant ainsi leur engagement dans les études.
 
-##### Problèmes de politique publique
+##### 7. Problèmes de politique publique
 
 - Manque de mise en œuvre effective des politiques : Bien que des lois et des politiques existent pour promouvoir l'égalité des genres dans l'éducation, leur mise en œuvre peut être limitée par des facteurs tels que le manque de ressources, de suivi et d'évaluation.
 
@@ -1201,9 +1145,9 @@ Veuillez  noter  que  le  mariage  d'enfants  est  une  pratique  discriminatoir
 
 - Veuillez donner les références des lois et dispositions pertinentes et indiquer quelles sont les dérogations à la limite de l'âge légal du mariage en précisant l'âge minimum absolu :
 
-##### Références des lois et dispositions pertinentes
+##### 1. Références des lois et dispositions pertinentes
 
-###### Constitution de la République de Côte d'Ivoire (2016)
+###### a. Constitution de la République de Côte d'Ivoire (2016)
 
 - La Constitution établit des principes d'égalité et de protection des droits fondamentaux, mais ne précise pas directement l'âge légal du mariage.
 
@@ -1219,15 +1163,15 @@ Veuillez  noter  que  le  mariage  d'enfants  est  une  pratique  discriminatoir
 
 - Bien que cette loi se concentre principalement sur le statut juridique des personnes, elle vise également à promouvoir l'égalité entre les sexes et à protéger les droits des femmes et des enfants, en harmonie avec d'autres lois.
 
-##### Dérogations à la limite de l'âge légal du mariage
+##### 2. Dérogations à la limite de l'âge légal du mariage
 
 Malgré l'âge légal fixé à 18 ans, il existe des dérogations qui peuvent permettre des mariages en dessous de cet âge. Voici les principales dérogations :
 
-###### Autorisation parentale
+###### a. Autorisation parentale
 
 - Article 145 du Code civil : Il prévoit que le mariage peut être célébré à un âge inférieur à 18 ans avec l'autorisation des parents ou du tuteur légal. Cependant, la loi ne précise pas un âge minimum dans ce cadre, ce qui peut varier en fonction des pratiques culturelles et des circonstances individuelles.
 
-###### Cas d'urgence
+###### b. Cas d'urgence
 
 - Dans certaines circonstances, un juge peut autoriser le mariage d'une personne n'ayant pas atteint l'âge légal pour des raisons particulières, notamment en cas de grossesse.
 
@@ -1237,11 +1181,11 @@ Malgré l'âge légal fixé à 18 ans, il existe des dérogations qui peuvent pe
 
 -28-
 
-###### Pratiques culturelles
+###### c. Pratiques culturelles
 
 - Certaines communautés peuvent avoir des pratiques culturelles qui favorisent le mariage précoce. Bien que ces pratiques puissent être en contradiction avec la législation nationale, elles persistent dans certaines régions du pays.
 
-##### Âge minimum absolu
+##### 3. Âge minimum absolu
 
 - Âge minimum absolu : En Côte d'Ivoire, l'âge minimum légal pour se marier est de 18 ans pour les deux sexes. Toutefois, des dérogations peuvent permettre des mariages avant cet âge, comme mentionné ci-dessus.
 
@@ -1249,7 +1193,7 @@ En Côte d'Ivoire, bien que l'âge légal du mariage soit fixé à 18 ans, des d
 
 ##### Minorités nationales:
 
-Pour mémoire : l'article/paragraphe 5(1)(c) a de la Convention/Recommandation prévoit les droits des minorités nationales.
+Pour mémoire : l'article/paragraphe 5(1)(c) de la Convention/Recommandation prévoit les droits des minorités nationales.
 
 [[END OF PAGE 38]]
 
@@ -1258,22 +1202,20 @@ Pour mémoire : l'article/paragraphe 5(1)(c) a de la Convention/Recommandation p
 -29-
 
 D La législation garantit le droit à l'éducation des minorités nationales
-
-a Des mesures politiques ont été adoptées pour défendre le droit à l'éducation des minorités nationales a L'élaboration  des  politiques  prévoit  des  consultations  avec  les  communautés  locales  a  Le  droit  des minorités nationales d'exercer des activités éducatives qui leur soient propres est garanti par la législation
-
-D Des normes éducatives ont été élaborées en faveur des établissements d'enseignement administrés par des minorités nationales a Les minorités nationales bénéficient de mesures d'action positive ou affirmative
-
-a Les minorités nationales bénéficient d'incitations financières et de bourses d'études a Autres 10 . a Les enseignants sont formés à l'éducation interculturelle
-
-- D Les enseignants sont formés à la lutte contre la stigmatisation 11
-
-- D L'éducation multilingue et interculturelle est soutenue
-
-- D L'instruction dans la langue maternelle est garantie pour les minorités nationales
-
-a Adaptation des programmes d'enseignement et des méthodes d'enseignement et d'apprentissage aux besoins des minorités nationales La Côte d'Ivoire reconnaît et protège les droits des minorités nationales à travers plusieurs lois et dispositions. Bien que le pays ait une diversité ethnique riche, certaines lois et politiques visent à promouvoir l'égalité et la non-discrimination. Voici un aperçu des principales lois et dispositions pertinentes pour les minorités nationales en Côte d'Ivoire :
-
-> 10 Voir le rapport de l'UNESCO « Le droit à l'éducation des minorités : Aperçu des mesures prises par les États lors de la IOe Consultation sur la Convention et la Recommandation de 1960 concernant la lutte contre la discrimination dans le domaine de l'enseignement », 2023 11 Supra note 15.
+a Des mesures politiques ont été adoptées pour défendre le droit à l'éducation des minorités nationales
+a L'élaboration des politiques prévoit des consultations avec les communautés locales
+a Le droit des minorités nationales d'exercer des activités éducatives qui leur soient propres est garanti par la législation
+D Des normes éducatives ont été élaborées en faveur des établissements d'enseignement administrés par des minorités nationales
+a Les minorités nationales bénéficient de mesures d'action positive ou affirmative
+a Les minorités nationales bénéficient d'incitations financières et de bourses d'études
+a Autres 10 :
+a Les enseignants sont formés à l'éducation interculturelle
+D Les enseignants sont formés à la lutte contre la stigmatisation 11
+D L'éducation multilingue et interculturelle est soutenue
+D L'instruction dans la langue maternelle est garantie pour les minorités nationales
+a Adaptation des programmes d'enseignement et des méthodes d'enseignement et d'apprentissage aux besoins des minorités nationales
+> 10 Voir le rapport de l'UNESCO « Le droit à l'éducation des minorités : Aperçu des mesures prises par les États lors de la 10e Consultation sur la Convention et la Recommandation de 1960 concernant la lutte contre la discrimination dans le domaine de l'enseignement », 2023
+> 11 Supra note 15.
 
 [[END OF PAGE 39]]
 
@@ -1281,27 +1223,29 @@ a Adaptation des programmes d'enseignement et des méthodes d'enseignement et d'
 
 -30-
 
-##### Constitution de la République de Côte d'Ivoire (2016)
+La Côte d'Ivoire reconnaît et protège les droits des minorités nationales à travers plusieurs lois et dispositions. Bien que le pays ait une diversité ethnique riche, certaines lois et politiques visent à promouvoir l'égalité et la non-discrimination. Voici un aperçu des principales lois et dispositions pertinentes pour les minorités nationales en Côte d'Ivoire :
+
+##### 1. Constitution de la République de Côte d'Ivoire (2016)
 
 - Article 4 : Établit que "la République de Côte d'Ivoire garantit l'égalité devant la loi à tous les citoyens, sans distinction d'origine, de race, de sexe, de religion ou d'opinion". Cet article consacre le principe de non-discrimination et l'égalité des droits pour toutes les personnes, y compris les membres des minorités nationales.
 
-##### Loi n° 2015-635 sur l'éducation nationale
+##### 2. Loi n° 2015-635 sur l'éducation nationale
 
 - Bien qu'elle se concentre principalement sur l'éducation, cette loi inclut des dispositions visant à promouvoir l'accès à l'éducation pour tous les enfants, indépendamment de leur origine ethnique, contribuant ainsi à l'intégration des minorités dans le système éducatif.
 
-##### Loi  n°  2014-388 relative à la promotion et à la protection des droits des personnes handicapées
+##### 3. Loi n° 2014-388 relative à la promotion et à la protection des droits des personnes handicapées
 
 - Cette loi vise à garantir les droits des personnes handicapées, qui peuvent souvent appartenir à des minorités ethniques. Elle vise à promouvoir l'inclusion sociale et l'égalité des chances.
 
-##### Loi n° 2013-438 relative à la lutte contre la discrimination
+##### 4. Loi n° 2013-438 relative à la lutte contre la discrimination
 
 - Cette loi interdit explicitement toute forme de discrimination, y compris celle fondée sur l'origine ethnique. Elle vise à protéger les droits des minorités en assurant leur égalité devant la loi.
 
-##### Politique nationale de développement
+##### 5. Politique nationale de développement
 
 - La politique de développement de la Côte d'Ivoire inclut des mesures visant à réduire les inégalités et à garantir que toutes les communautés, y compris les minorités nationales, bénéficient du développement économique et social.
 
-##### Dispositions spécifiques sur les droits culturels
+##### 6. Dispositions spécifiques sur les droits culturels
 
 [[END OF PAGE 40]]
 
@@ -1311,17 +1255,17 @@ a Adaptation des programmes d'enseignement et des méthodes d'enseignement et d'
 
 - La Côte d'Ivoire est signataire de plusieurs conventions internationales, telles que la Convention relative aux droits de l'enfant et la Convention sur la protection et la promotion de la diversité des expressions culturelles . Ces conventions renforcent la protection des droits des minorités nationales et leur accès à la culture.
 
-##### Représentation politique
+##### 7. Représentation politique
 
 - Bien que la Constitution prévoie des principes d'égalité, la représentation des minorités nationales dans les instances politiques peut encore poser problème. Des initiatives sont en cours pour promouvoir une représentation plus équitable et inclusive des différentes ethnies dans la gouvernance.
 
-##### Initiatives et programmes gouvernementaux
+##### 8. Initiatives et programmes gouvernementaux
 
 - Le gouvernement ivoirien a mis en place plusieurs programmes et initiatives pour promouvoir la cohésion sociale et l'inclusion des minorités nationales dans le développement. Cela inclut des campagnes de sensibilisation sur l'égalité et des projets visant à intégrer les minorités dans le tissu social et économique du pays.
 
 Bien que la Côte d'Ivoire dispose de lois et de politiques visant à protéger les droits des minorités nationales et à promouvoir l'égalité, des défis persistent. L'application effective de ces lois et l'engagement des acteurs politiques et sociaux sont essentiels pour garantir que les droits des minorités soient respectés et protégés dans le pays. Des efforts continus sont nécessaires pour surmonter les obstacles à l'intégration et à la reconnaissance des diverses identités culturelles au sein de la société ivoirienne.
 
--Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises .
+- Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises .
 
 ##### 1. Constitution et Cadre Juridique
 
@@ -1387,11 +1331,11 @@ Malgré ces cadres juridiques et politiques, la mise en œuvre efficace de ces m
 
 - a Des mesures politiques visent à la promotion du droit à l'éducation des peuples autochtones
 
-d'études
+a Les peuples autochtones bénéficient d'incitations financières et de bourses d'études
 
 - a Les enseignants sont formés à l'éducation interculturelle
 
-- a L'élaboration des politiques prévoit des consultations avec les communités locales
+- a L'élaboration des politiques prévoit des consultations avec les communautés locales
 
 D Les programmes d'enseignement sont exempts de tout stéréotype 12 et de tout préjugé
 
@@ -1451,7 +1395,7 @@ Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du
 
 ##### 1. Accès à l'éducation
 
-- Disparités  géographiques :  Certaines  minorités,  souvent  situées  dans  des  zones rurales ou reculées, n'ont pas le même accès aux infrastructures éducatives que dans les  zones  urbaines.  Le  manque  d'écoles  dans  certaines  régions  marginalisées complique l'accès à l'éducation, notamment pour les populations nomades ou seminomades, comme certaines communautés peules.
+- Disparités géographiques : Certaines minorités, souvent situées dans des zones rurales ou reculées, n'ont pas le même accès aux infrastructures éducatives que dans les zones urbaines. Le manque d'écoles dans certaines régions marginalisées complique l'accès à l'éducation, notamment pour les populations nomades ou semi-nomades, comme certaines communautés peules.
 
 - Conditions  socio-économiques :  Les  familles  issues  de  minorités  ethniques  sont parfois confrontées à des conditions de pauvreté plus élevées, ce qui rend difficile la scolarisation  régulière  de  leurs  enfants.  La  nécessité  de  travailler  pour  soutenir  la famille peut aussi empêcher certains enfants d'aller à l'école.
 
@@ -1513,19 +1457,15 @@ Bien que des progrès aient été réalisés pour promouvoir l'inclusion éducat
 
 -37-
 
-O
-
-Le droit des peuples autochtones d'exercer des activités éducatives qui leur soient propres est garanti par la législation
-
-a Des normes éducatives ont été élaborées en faveur des établissements d'enseignement administrés par les  peuples  autochtones  a  Les  peuples  autochtones  bénéficient  de  mesures  d'action  positive  ou affirmative a Autres:
-
-a Les enseignants sont formés à la lutte contre la stigmatisation 13 a L'éducation multilingue et interculturelle est soutenue
-
+O Le droit des peuples autochtones d'exercer des activités éducatives qui leur soient propres est garanti par la législation
+a Des normes éducatives ont été élaborées en faveur des établissements d'enseignement administrés par les peuples autochtones
+a Les peuples autochtones bénéficient de mesures d'action positive ou affirmative
+a Autres:
+a Les enseignants sont formés à la lutte contre la stigmatisation 13
+a L'éducation multilingue et interculturelle est soutenue
 D L'instruction dans la langue maternelle est garantie
-
 - a Adaptation des programmes d'enseignement et des méthodes d'enseignement et d'apprentissage aux besoins des peuples autochtones
-
-D Les programmes d'enseignement sont exempts de tout stéréotype  14 et de tout préjugé
+D Les programmes d'enseignement sont exempts de tout stéréotype 14 et de tout préjugé
 
 > 13 Supra note 15.
 
@@ -1537,18 +1477,13 @@ D Les programmes d'enseignement sont exempts de tout stéréotype  14 et de tout
 
 -38-
 
-a Les mesures administratives qui entravent leur accès à l'éducation ont toutes été éliminées a Des procédures administratives (tests de classement, justificatifs, etc.) ont été mises en place pour surmonter les obstacles administratifs29
-
+a Les mesures administratives qui entravent leur accès à l'éducation ont toutes été éliminées
+a Des procédures administratives (tests de classement, justificatifs, etc.) ont été mises en place pour surmonter les obstacles administratifs 29
 - a Les enseignants ont une formation suffisante pour assurer l'inclusion de ces populations
-
 - a Les enseignants sont formés à la lutte contre la stigmatisation 30
-
 Autres:
-
 - a Des programmes d'apprentissage accéléré sont proposés
-
 - a Il existe des programmes non formels et/ou d'autres possibilités d'apprentissage
-
 - a Les nouveaux élèves bénéficient de cours de langue
 
 [[END OF PAGE 48]]
@@ -1559,7 +1494,7 @@ Autres:
 
 ##### Prise en charge des Populations en déplacement (migrants, réfugiés, demandeurs d'asile, personnes apatrides et personnes déplacées dans leur propre pays) et populations prises au piège en Côte d'Ivoire.
 
--Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises .
+- Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises .
 
 En Côte d'Ivoire, la prise en charge des populations en déplacement, notamment les migrants, réfugiés,  demandeurs  d'asile, apatrides,  personnes  déplacées  à  l'intérieur  de  leur  propre  pays (PDI) et populations prises au piège, repose sur plusieurs mécanismes juridiques, humanitaires et politiques. Voici les principaux éléments de la prise en charge dans ce contexte spécifique :
 
@@ -1599,7 +1534,7 @@ La Côte d'Ivoire est  un  pays  qui a  lutté contre  l'apatridie,  notamment a
 
 La crise politique de 2010-2011 a provoqué le déplacement de centaines de milliers de personnes à l'intérieur de la Côte d'Ivoire. Bien que la situation se soit stabilisée, certaines régions restent vulnérables aux déplacements internes en raison de tensions locales.
 
-- Assistance humanitaire :  Les  PDI  bénéficient de l'aide des agences des Nations Unies, telles que le HCR et l' Organisation Internationale pour les Migrations (OIM) , qui offrent des abris temporaires, des soins médicaux et des programmes de réinsertion.
+- Assistance humanitaire : Les PDI bénéficient de l'aide des agences des Nations Unies, telles que le HCR et l'Organisation Internationale pour les Migrations (OIM), qui offrent des abris temporaires, des soins médicaux et des programmes de réinsertion.
 
 - Réintégration :  Le gouvernement ivoirien, avec le soutien de partenaires internationaux, s'efforce  de  réintégrer  les  PDI  dans  leurs  communautés  d'origine  ou  de  les  réinstaller ailleurs, en fournissant des ressources économiques et sociales.
 
@@ -1749,7 +1684,7 @@ Les  zones  frontalières  ou  celles  affectées  par  les  conflits,  où  les
 
 ##### 8. Absence de mécanismes de suivi et d'accompagnement
 
-Le  suivi  éducatif  des  enfants  déplacés  ou  réfugiés  est  souvent  insuffisant.  Les  mécanismes d'accompagnement et de soutien individualisé pour ces enfants manquent, ce qui entraîne une déscolarisation ou une marginalisation scolaire. Les enfants qui sont en situation de vulnérabilité, comme ceux qui ont des besoins éducatifs spéciaux ou des traumatismes dus à leur expérience de déplacement, ne reçoivent pas l'attention requise pour garantir leur succès scolaire.
+Le suivi éducatif des enfants déplacés ou réfugiés est souvent insuffisant. Les mécanismes d'accompagnement et de soutien individualisé pour ces enfants manquent, ce qui entraîne une déscolarisation ou une marginalisation scolaire. Les enfants qui sont en situation de vulnérabilité,
 
 [[END OF PAGE 54]]
 
@@ -1757,23 +1692,25 @@ Le  suivi  éducatif  des  enfants  déplacés  ou  réfugiés  est  souvent  in
 
 -45-
 
+> a Le multilinguisme et l'éducation interculturelle sont encouragés
+
+comme ceux qui ont des besoins éducatifs spéciaux ou des traumatismes dus à leur expérience de déplacement, ne reçoivent pas l'attention requise pour garantir leur succès scolaire.
+
 ##### 9. Absence de documentation légale pour les apatrides
 
-Les personnes apatrides ou celles qui n'ont pas de papiers d'identité officiels rencontrent  des difficultés  pour  inscrire  leurs  enfants  à  l'école.  Sans  acte  de  naissance  ou  autre  document d'identité, ces enfants se voient refuser l'accès au système éducatif formel, ce qui constitue un obstacle majeur à la réalisation de leur droit à l'éducation.
+Les personnes apatrides ou celles qui n'ont pas de papiers d'identité officiels rencontrent des difficultés pour inscrire leurs enfants à l'école. Sans acte de naissance ou autre document d'identité, ces enfants se voient refuser l'accès au système éducatif formel, ce qui constitue un obstacle majeur à la réalisation de leur droit à l'éducation.
 
 ##### 10. Soutien psychosocial insuffisant
 
 Les enfants qui ont été déplacés, en particulier ceux ayant vécu des conflits ou des traumatismes liés à la guerre ou à la pauvreté, ont souvent besoin d'un soutien psychosocial pour les aider à surmonter leurs expériences. Or, ce type de soutien est souvent absent ou limité dans les écoles en Côte d'Ivoire, ce qui peut affecter la capacité des enfants déplacés à se concentrer, à apprendre et à s'épanouir sur le plan scolaire.
 
-La  réalisation  du  droit  à  l'éducation  des  migrants,  réfugiés,  demandeurs  d'asile,  apatrides  et personnes déplacées à l'intérieur de leur propre pays en Côte d'Ivoire fait face à plusieurs défis, notamment  l'accès  limité  aux  infrastructures,  les  problèmes  financiers,  la  discrimination  et l'instabilité des familles. Le gouvernement ivoirien, avec le soutien des organisations internationales, travaille à améliorer la situation, mais des efforts supplémentaires sont nécessaires pour surmonter ces obstacles et garantir que tous les enfants puissent accéder à une éducation de qualité, quel que soit leur statut ou leur situation géographique.
+La réalisation du droit à l'éducation des migrants, réfugiés, demandeurs d'asile, apatrides et personnes déplacées à l'intérieur de leur propre pays en Côte d'Ivoire fait face à plusieurs défis, notamment l'accès limité aux infrastructures, les problèmes financiers, la discrimination et l'instabilité des familles. Le gouvernement ivoirien, avec le soutien des organisations internationales, travaille à améliorer la situation, mais des efforts supplémentaires sont nécessaires pour surmonter ces obstacles et garantir que tous les enfants puissent accéder à une éducation de qualité, quel que soit leur statut ou leur situation géographique.
 
 ##### Personnes handicapées:
 
-Cl La législation garantit leur droit à l'éducation D Les enseignants des établissements ordinaires suivent une formation spécifique Des  mesures  politiques  ont  été  adoptées  sur  le  handicap  pour promouvoir leur droit à l'éducation
+Cl La législation garantit leur droit à l'éducation D Les enseignants des établissements ordinaires suivent une formation spécifique Des mesures politiques ont été adoptées sur le handicap pour promouvoir leur droit à l'éducation
 
-> 29 L'absence de pièces d'identité (papiers d'identité, certificat de naissance, permis de résidence, etc.) ne devrait pas faire obstacle à l'éducation mais il n'en va pas toujours ainsi. Voir UNESCO publication  Handbook on the right to education, 2018, p. 96. 30 Supra note 15.
-
-> a Le multilinguisme et l'éducation interculturelle sont encouragés
+> 29 L'absence de pièces d'identité (papiers d'identité, certificat de naissance, permis de résidence, etc.) ne devrait pas faire obstacle à l'éducation mais il n'en va pas toujours ainsi. Voir UNESCO publication Handbook on the right to education, 2018, p. 96. 30 Supra note 15.
 
 [[END OF PAGE 55]]
 
@@ -1919,13 +1856,13 @@ En résumé, la réalisation du droit à l'éducation des personnes handicapées
 
 - a Autres:
 
-> 17 Supra note 15.
-
-> 18 Supra note 16.
-
 - a Les enseignants sont formés à la lutte contre la stigmatisation 17
 
 - a Les programmes d'enseignement sont exempts de tout stéréotype 18 et de tout Préjugé
+
+> 17 Supra note 15.
+
+> 18 Supra note 16.
 
 [[END OF PAGE 60]]
 
@@ -2101,13 +2038,13 @@ La réalisation du droit à l'éducation des étudiants issus de familles pauvre
 
 Les difficultés rencontrées dans la réalisation du droit à l'éducation des étudiants issues de familles  pauvres  en  Côte  d'Ivoire  sont  multiples  et  interconnectées.  Pour  surmonter  ces obstacles, il est essentiel d'adopter une approche globale qui intègre des mesures économiques, sociales et éducatives, en renforçant l'engagement du gouvernement et des acteurs de la société civile.
 
-## Progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les types d'enseignement
+## 2. Progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les types d'enseignement
 
 ### 2.1 Éducation et protection de la petite enfance
 
-Pour mémoire.' l'éducation et la protection de la petite  enfance  (EPPE)  ne  sont  pas  explicitement prévues  dans  la  Convention/Recommandation.  Cependant,  la  communauté  internationale  a  pris progressivement conscience au fil des ans de l'importance de I'EPPE. Le Comité des droits de l'enfant a initialement reconnu que « le droit à l'éducation durant la petite enfance commence à la naissance » (Observation générale n o 7). Le Cadre d'action et de coopération adopté à Moscou en 2010 a explicité ce droit 19 , de même que, plus récemment, la Déclaration de Tachkent et engagements à l'action pour la  transformation de l'éducation et la protection de la petite enfance 20 .  Dans le contexte actuel de l'agenda Education 2030, les États se sont engagés, au titre de la cible 42, à « offrir au moins une année d'éducation préprimaire gratuite et obligatoire ».
+Pour mémoire : l'éducation et la protection de la petite enfance (EPPE) ne sont pas explicitement prévues dans la Convention/Recommandation. Cependant, la communauté internationale a pris progressivement conscience au fil des ans de l'importance de l'EPPE. Le Comité des droits de l'enfant a initialement reconnu que « le droit à l'éducation durant la petite enfance commence à la naissance » (Observation générale n° 7). Le Cadre d'action et de coopération adopté à Moscou en 2010 a explicité ce droit19, de même que, plus récemment, la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance20. Dans le contexte actuel de l'agenda Education 2030, les États se sont engagés, au titre de la cible 4.2, à « offrir au moins une année d'éducation préprimaire gratuite et obligatoire ».
 
--Veuillez indiquer les mesures prises pour garantir l'accès à une EPPE de qualité (plusieurs réponses possibles).'
+- Veuillez indiquer les mesures prises pour garantir l'accès à une EPPE de qualité (plusieurs réponses possibles) :
 
 - a Avant l'enseignement préprimaire, les services d'EPPE sont gratuits
 
@@ -2217,7 +2154,7 @@ Bien  que  l'enseignement  préprimaire  en  Côte  d'Ivoire  ne  soit  pas  obl
 
 [[START OF PAGE 70]]
 
-- 16
+-60-
 
 a L'enseignement préprimaire n'est pas obligatoire.
 
@@ -2651,25 +2588,29 @@ En  Côte  d'Ivoire,  l'enseignement  secondaire,  y  compris  l'enseignement  e
 
 Cependant, dans la pratique, plusieurs obstacles limitent  l'accès  équitable  à  l'enseignement secondaire :
 
-- Capacité  d'accueil insuffisante : Le  nombre  de  places  dans les établissements secondaires,  notamment  dans  les  écoles  techniques  et  professionnelles,  est  limité  par rapport à la demande croissante, ce qui entraîne une forte compétition pour l'inscription.
+1. Capacité d'accueil insuffisante : Le nombre de places dans les établissements secondaires, notamment dans les écoles techniques et professionnelles, est limité par rapport à la demande croissante, ce qui entraîne une forte compétition pour l'inscription.
 
-- Coûts associés :  Bien  que  l'enseignement public soit théoriquement gratuit, les parents doivent souvent payer des frais annexes (uniformes, fournitures scolaires, contributions aux infrastructures) qui peuvent constituer un obstacle pour les familles à faible revenu.
+2. Coûts associés : Bien que l'enseignement public soit théoriquement gratuit, les parents doivent souvent payer des frais annexes (uniformes, fournitures scolaires, contributions aux infrastructures) qui peuvent constituer un obstacle pour les familles à faible revenu.
 
-- Inégalités géographiques : Il existe un déséquilibre entre les zones rurales et urbaines. Les infrastructures scolaires sont beaucoup plus développées dans les villes, alors que dans les zones  rurales,  l'accès  aux  établissements  d'enseignement  secondaire,  en  particulier technique, est plus difficile.
+3. Inégalités géographiques : Il existe un déséquilibre entre les zones rurales et urbaines. Les infrastructures scolaires sont beaucoup plus développées dans les villes, alors que dans les zones rurales, l'accès aux établissements d'enseignement secondaire, en particulier technique, est plus difficile.
 
-- Question du genre :  Bien que des progrès aient été réalisés, les filles continuent d'être sous-représentées dans l'enseignement secondaire, en particulier dans les filières techniques et  professionnelles, en  raison  de  pressions  sociales, économiques, et  parfois culturelles.
+4. Question du genre : Bien que des progrès aient été réalisés, les filles continuent d'être sous-représentées dans l'enseignement secondaire, en particulier dans les filières techniques et professionnelles, en raison de pressions sociales, économiques, et parfois culturelles.
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
 
--18 -
+5. Qualité de la formation : L'enseignement technique et professionnel souffre souvent d'un manque de ressources adéquates, d'une infrastructure vieillissante, et d'un personnel enseignant insuffisamment formé, ce qui affecte la qualité de l'apprentissage.
+
+Le gouvernement ivoirien, avec l'appui de partenaires internationaux, s'efforce d'améliorer ces aspects pour rendre l'enseignement secondaire plus inclusif et accessible. Des initiatives sont en place pour renforcer l'EFTP afin de mieux répondre aux besoins du marché du travail et de développer les compétences techniques des jeunes.
+
+- 18 -
 
 -Veuillez indiquer la durée du deuxième cycle de l'enseignement secondaire et l'âge de la scolarisation à ce niveau:
 
-En Côte d'Ivoire, le premier cycle de l'enseignement secondaire, appelé collège , dure quatre ans . Il est composé des classes de 6ᵉ, 5ᵉ, 4ᵉ et 3ᵉ . À la fin de ce cycle, les élèves passent un examen appelé Brevet d'Études du Premier Cycle (BEPC) ,  qui  leur  permet  de  passer  au second cycle s'ils réussissent.
+En Côte d'Ivoire, le premier cycle de l'enseignement secondaire, appelé collège , dure quatre ans . Il est composé des classes de 6ᵉ, 5ᵉ, 4ᵉ et 3ᵉ . À la fin de ce cycle, les élèves passent un examen appelé Brevet d'Études du Premier Cycle (BEPC) , qui leur permet de passer au second cycle s'ils réussissent.
 
-Quant à l'âge de la scolarisation à ce niveau, les élèves entrent normalement en 6ᵉ à l'âge de 11 ou 12 ans ,  après  avoir  terminé  l'enseignement  primaire.  Ils  achèvent  donc  généralement  le premier cycle à l'âge de 15 ou 16 ans .
+Quant à l'âge de la scolarisation à ce niveau, les élèves entrent normalement en 6ᵉ à l'âge de 11 ou 12 ans , après avoir terminé l'enseignement primaire. Ils achèvent donc généralement le premier cycle à l'âge de 15 ou 16 ans .
 
 Cependant, il peut y avoir des variations en fonction des parcours individuels, avec des élèves entrant plus tôt ou plus tard en fonction de leur progression dans les classes précédentes ou d'éventuels redoublements.
 
@@ -2691,11 +2632,7 @@ Cependant, il peut y avoir des variations en fonction des parcours individuels, 
 
 - Le deuxième cycle de l'enseignement secondaire n'est pas gratuit.
 
--Veuillez  donner  la  liste  des  lois  et  politiques  pertinentes.  Le  cas  échéant,  veuillez  fournir  des renseignements sur les coûts directs (tels que les frais d'inscription et de scolarisation) et indirects (frais d'examen, fournitures scolaires, uniformes, transports et contributions obligatoires des parents). Des données quantitatives succinctes pourront être ajoutées si nécessaire.
-
-- Qualité de la formation : L'enseignement technique et professionnel souffre souvent d'un manque  de  ressources  adéquates,  d'une  infrastructure  vieillissante,  et  d'un  personnel enseignant insuffisamment formé, ce qui affecte la qualité de l'apprentissage.
-
-Le gouvernement ivoirien, avec l'appui de partenaires internationaux, s'efforce d'améliorer ces aspects pour rendre l'enseignement secondaire plus inclusif et accessible. Des initiatives sont en place pour renforcer l'EFTP afin de mieux répondre aux besoins du marché du travail et de développer les compétences techniques des jeunes.
+-Veuillez donner la liste des lois et politiques pertinentes. Le cas échéant, veuillez fournir des renseignements sur les coûts directs (tels que les frais d'inscription et de scolarisation) et indirects (frais d'examen, fournitures scolaires, uniformes, transports et contributions obligatoires des parents). Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
 [[END OF PAGE 83]]
 
@@ -2753,7 +2690,7 @@ Bien  que  l'enseignement  soit  en  théorie  gratuit,  plusieurs  coûts  dire
 
 Malgré les efforts du gouvernement pour rendre l'enseignement plus accessible, ces coûts peuvent être prohibitifs pour les familles les plus vulnérables, en particulier dans les zones rurales et pour les filles.
 
--Veuillez indiquer si l'âge minimum d'admission à l'emploi correspond à la fin de ta scolarité obligatoire
+-Veuillez indiquer si l'âge minimum d'admission à l'emploi correspond à la fin de la scolarité obligatoire
 
 :
 
@@ -2833,7 +2770,9 @@ Malgré ces mécanismes, l'application des lois relatives à l'âge minimum d'ad
 
 [[START OF PAGE 88]]
 
--19 -
+En résumé, les dispositions relatives à l'âge minimum d'admission à l'emploi et à la scolarité obligatoire sont en place en Côte d'Ivoire, mais leur application reste limitée par des obstacles économiques, sociaux et institutionnels. Le gouvernement, avec l'aide de partenaires internationaux, continue de renforcer les mécanismes d'application et de sensibilisation, bien que des défis importants demeurent, en particulier dans les zones rurales et dans le secteur informel.
+
+- 19 -
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation de l'enseignement secondaire?
 
@@ -2852,8 +2791,6 @@ a Accès limité
 - a Préparation insuffisante des diplômés du premier degré
 
 - a Nombre insuffisant d'enseignants ayant suivi une formation professionnelle
-
-En résumé, les dispositions relatives  à  l'âge  minimum  d'admission  à  l'emploi  et  à  la scolarité obligatoire sont en place en Côte d'Ivoire, mais leur application reste limitée par des obstacles économiques, sociaux et institutionnels. Le gouvernement, avec l'aide de partenaires internationaux, continue de renforcer les mécanismes d'application et de sensibilisation, bien que des défis importants demeurent, en particulier dans les zones rurales et dans le secteur informel.
 
 [[END OF PAGE 88]]
 
@@ -3049,7 +2986,7 @@ Bien que des efforts significatifs aient été déployés pour rendre l'enseigne
 
 ##### 1. Lois et politiques pertinentes
 
-###### Constitution de la République de Côte d'Ivoire (2016)
+###### a) Constitution de la République de Côte d'Ivoire (2016)
 
 - Article 30 : garantit le droit à l'éducation pour tous les citoyens.
 
@@ -3057,7 +2994,7 @@ Bien que des efforts significatifs aient été déployés pour rendre l'enseigne
 
 - Établit  la scolarité  obligatoire jusqu'à  16  ans,  mais  son  impact  s'étend  à  la promotion de l'éducation secondaire et supérieure.
 
-###### Politique Nationale de l'Éducation et de la Formation (PNEF)
+###### c) Politique Nationale de l'Éducation et de la Formation (PNEF)
 
 - Élaborée pour améliorer l'accès à l'éducation et garantir la qualité de l'enseignement à tous les niveaux, y compris l'enseignement supérieur.
 
@@ -3111,19 +3048,17 @@ La Côte d'Ivoire a mis en place un cadre législatif et  des  politiques  pour 
 
 - D Accès limité
 
-- D Nombre insuffisant de professeurs ayant suivi une formation professionnelle
-
 - a Problèmes d'équité et d'inclusion
-
-Manque de mécanismes permettant une transition en douceur du secondaire au
 
 - a Médiocre qualité des programmes
 
 Résultats d'apprentissage médiocres
 
-supérieur
-
 - a Autres:
+
+- D Nombre insuffisant de professeurs ayant suivi une formation professionnelle
+
+Manque de mécanismes permettant une transition en douceur du secondaire au supérieur
 
 [[END OF PAGE 97]]
 
@@ -3235,7 +3170,7 @@ Ces  données  montrent  que  bien que des efforts soient faits pour  améliorer
 
 ### 2.4 Éducation des adultes et autres possibilités d'apprentissage
 
-Pour mémoire : l'article/paragraphe 4(c) de la Convention/Recommandation prévoit l'éducation des adultes et d'autres possibilités d'apprentissage. Si l'ODD 4 appelle les États à « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités d'apprentissage tout au long de la vie », la cible 4.6 les appelle plus particulièrement à « faire en sorte que tous les jeunes et une proportion considérable d'adultes, hommes et femmes, sachent lire, écrire et compter ». De plus, il est demandé aux États, au titre de la cible 44, « d'accroître et de diversifier l'offre d'apprentissage, par le biais de multiples modalités d'éducation et de formation, afin que tous les jeunes et tous les adultes, en particulier les filles et les femmes, puissent acquérir les savoirs, les compétences et les aptitudes requises pour un travail décent et pour la vie courante ».
+Pour mémoire : l'article/paragraphe 4(c) de la Convention/Recommandation prévoit l'éducation des adultes et d'autres possibilités d'apprentissage. Si l'ODD 4 appelle les États à « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités d'apprentissage tout au long de la vie », la cible 4.6 les appelle plus particulièrement à « faire en sorte que tous les jeunes et une proportion considérable d'adultes, hommes et femmes, sachent lire, écrire et compter ». De plus, il est demandé aux États, au titre de la cible 4.4, « d'accroître et de diversifier l'offre d'apprentissage, par le biais de multiples modalités d'éducation et de formation, afin que tous les jeunes et tous les adultes, en particulier les filles et les femmes, puissent acquérir les savoirs, les compétences et les aptitudes requises pour un travail décent et pour la vie courante ».
 
 [[END OF PAGE 100]]
 
@@ -3247,7 +3182,7 @@ Pour mémoire : l'article/paragraphe 4(c) de la Convention/Recommandation prévo
 
 - a Programmes d'alphabétisation
 
-- 21 -
+- 91 -
 
 - a Formation continue (programmes de formation axés sur les connaissances, les compétences et les aptitudes nécessaires au développement personnel et professionnel)
 
@@ -3359,19 +3294,19 @@ Le système de formation continue et l'éducation des adultes en Côte d'Ivoire 
 
 - a Accès limité
 
+- D Manque de financement
+
 - a Problèmes d'équité et d'inclusion
 
+- a Résultats d'apprentissage médiocres
+
 - O Médiocre qualité des programmes
+
+- D Nombre insuffisant d'éducateurs ayant suivi une formation professionnelle
 
 a Autres:
 
 - Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.
-
-- D Manque de financement
-
-- a Résultats d'apprentissage médiocres
-
-- D Nombre insuffisant d'éducateurs ayant suivi une formation professionnelle
 
 [[END OF PAGE 104]]
 
@@ -3463,7 +3398,9 @@ Pour mémoire: les articles/paragraphes 2, 4(b) et 5(b) de la Convention/Recomma
 
 La santé et l'assainissement
 
-La sécurité : les enfants bénéficient d'un cadre d'apprentissage sûr, exempt de violence ou de harcèlement, y compris notamment de violence liée au genre en milieu scolaire (dans les écoles et à leurs abords). Les infrastructures
+La sécurité : les enfants bénéficient d'un cadre d'apprentissage sûr, exempt de violence ou de harcèlement, y compris notamment de violence liée au genre en milieu scolaire (dans les écoles et à leurs abords).
+
+Les infrastructures
 
 Le programme d'enseignement
 
@@ -3587,7 +3524,7 @@ Un code de conduite a été élaboré pour réglementer le comportement des ense
 
 - Engagement professionnel : Les enseignants sont tenus de s'engager à maintenir des normes  élevées  de  professionnalisme  et  d'éthique  dans  leurs  interactions  avec  les élèves et leurs collègues.
 
-- Sanctions en cas de violation : Des sanctions peuvent être appliquées en cas de nonrespect du code, allant de l'avertissement à la suspension ou au licenciement.
+- Sanctions en cas de violation : Des sanctions peuvent être appliquées en cas de non-respect du code, allant de l'avertissement à la suspension ou au licenciement.
 
 ##### 4. Politique de protection de l'enfance
 
@@ -3623,17 +3560,21 @@ Les politiques, protocoles et codes de conduite en vigueur en Côte d'Ivoire fou
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation d'une éducation de qualité?
 
-D Des cadres d'apprentissage peu stimulants ou D La mauvaise qualité des infrastructures inappropriés scolaires et des supports pédagogiques
+D Des cadres d'apprentissage peu stimulants ou inappropriés
+
+D La mauvaise qualité des infrastructures scolaires et des supports pédagogiques
 
 a Les violences en milieu scolaire
 
-- Le soutien insuffisant des parents à l'éducation
+Le soutien insuffisant des parents à l'éducation
 
 D Le coût de l'éducation
 
 D La distance entre l'école et le domicile
 
-D Les conflits ou les crises a Autres:
+D Les conflits ou les crises
+
+a Autres:
 
 [[END OF PAGE 112]]
 
@@ -3845,9 +3786,9 @@ O Pénurie de personnel enseignant
 
 - o Mauvaise qualité des infrastructures éducatives et du matériel pédagogique
 
-- O Pénurie de personnel enseignant qualifié, formé et motivé élèves/enseignant élevé.
+- O Pénurie de personnel enseignant qualifié, formé et motivé
 
-- o Rapport
+- o Rapport élèves/enseignant élevé.
 
 - D Nombre insuffisant de centres de formation
 
@@ -3969,7 +3910,7 @@ Les données quantitatives montrent que le personnel éducatif en Côte d'Ivoire
 
 ### 3.3 Respect des droits de l'homme et des libertés fondamentales
 
-Pour mémoire.' l'article/paragraphe 5(1)(a) de la Convention/Recommandation prévoit le respect des droits de l'homme et des libertés fondamentales. Cette rubrique correspond à la cible 4.7 23  Veuillez noter que cette section contribue au suivi général de l'article/paragraphe 5(1)(a) de la Convention/Recommandation tandis que la consultation portant sur la Recommandation de 1974 sur l'éducation pour la compréhension, la coopération et la paix internationales et l'éducation relative aux droits de l'homme et aux libertés fondamentales servira tout particulièrement à assurer le suivi de l'indicateur 4.7.1 relatif à l'ODD 4.
+Pour mémoire : l'article/paragraphe 5(1)(a) de la Convention/Recommandation prévoit le respect des droits de l'homme et des libertés fondamentales. Cette rubrique correspond à la cible 4.7 23  Veuillez noter que cette section contribue au suivi général de l'article/paragraphe 5(1)(a) de la Convention/Recommandation tandis que la consultation portant sur la Recommandation de 1974 sur l'éducation pour la compréhension, la coopération et la paix internationales et l'éducation relative aux droits de l'homme et aux libertés fondamentales servira tout particulièrement à assurer le suivi de l'indicateur 4.7.1 relatif à l'ODD 4.
 
 - Veuillez indiquer les efforts engagés au niveau national pour mettre l'éducation au service du plein épanouissement  de  la  personne  humaine  et  du  plein  respect  des  droits  de  l'homme  et  des  libertés fondamentales (plusieurs réponses possibles):
 
@@ -4041,13 +3982,13 @@ Ces  efforts  témoignent  d'une  volonté  politique  forte  de  mettre  l'édu
 
 ### 3.4 Acteurs non étatiques de l'éducation
 
-Pour mémoire.' les articles/paragraphes 2(c) et 5(1)(b) de la Convention/Recommandation prévoient
+Pour mémoire : les articles/paragraphes 2(c) et 5(1)(b) de la Convention/Recommandation prévoient
 
 l'éducation non étatique 42
 
 - Veuillez indiquer les mesures prises pour garantir une éducation non étatique de qualité (plusieurs réponses possibles):
 
-a Les dispositions juridiques interdisant la discrimination pour tes motifs énumérés  par la Convention/Recommandation 43 s'appliquent  expressément  aux  établissements  d'enseignement  non étatiques. Veuillez préciser:
+a Les dispositions juridiques interdisant la discrimination pour les motifs énumérés  par la Convention/Recommandation 43 s'appliquent  expressément  aux  établissements  d'enseignement  non étatiques. Veuillez préciser:
 
 [[END OF PAGE 125]]
 
@@ -4395,9 +4336,13 @@ Le cadre juridique et réglementaire de la Côte d'Ivoire définit un ensemble s
 
 · Quelles sont les difficultés rencontrées dans l'éducation non étatique ?
 
-> a Mauvaise qualité des infrastructures D Problèmes d'équité et d'inclusion éducatives et du matériel pédagogique Capacités insuffisantes du gouvernement en a Nombre insuffisant d'enseignants ayant suivi termes de réglementation et de suivi une formation professionnelle a Rapport élèves/enseignant élevé
+> a Mauvaise qualité des infrastructures et du matériel pédagogique
+> D Problèmes d'équité et d'inclusion éducatives
+> a Nombre insuffisant d'enseignants ayant suivi une formation professionnelle
+> Capacités insuffisantes du gouvernement en termes de réglementation et de suivi
+> a Rapport élèves/enseignant élevé
 
-a Autres:
+ a Autres:
 
 [[END OF PAGE 136]]
 
@@ -4711,7 +4656,7 @@ L'utilisation des technologies numériques dans l'éducation en Côte d'Ivoire e
 
 - 137 -
 
-a Les dispositions de la législation, des politiques, des stratégies ou des plans de base concernant la gestion,  la  confidentialité,  la  sécurité,  le  stockage,  le  transfert,  l'utilisation  et  le  partage  interne  et externe  des  données  relatives  à  l'éducation  ont  pour  objet  de  garantir  le  droit  à  la  vie  privée  des apprenants  et  des  parties  prenantes  de  l'éducation  (consentement  éclairé,  politiques  d'utilisation transparentes, etc.)
+a Les dispositions de la législation, des politiques, des stratégies ou des plans de base concernant la gestion,  la  confidentialité,  la  sécurité,  le  stockage,  le  transfert,  l'utilisation  et  le  partage  interne  et externe  des  données  relatives  à  l'éducation  ont  pour  objet  de  garantir  le  droit  à  la  vie  privée  des apprenants  et  des  parties  prenantes  de  l'éducation  (consentement  éclairé,  politiques  d'utilisation transparentes, etc.) 44
 
 a  Les  cadres  réglementaires  définissent  des  normes  minimales  en  matière  d'éducation  numérique applicables par l'ensemble des acteurs de l'éducation.
 
@@ -4719,7 +4664,7 @@ a  Des  mesures  ont  été  adoptées  pour  éliminer  les  difficultés  d'ac
 
 a Les compétences numériques sont intégrées dans les programmes de formation initiale et en cours d'emploi des enseignants ainsi que dans les programmes de formation en leadership afin de créer une culture de l'innovation numérique et de la croissance ancrée dans les principes d'équité et d'inclusion qui ouvre  la  voie  au  développement  professionnel  continu  du  personnel  en  place  ou  en  cours  de recrutement.
 
-> 44 Voir l'Observation générale n o 25 (2021) du Comité des droits de l'enfant sur les droits de l'enfant en relation avec l'environnement numérique.
+> 44 Voir l'Observation générale no 25 (2021) du Comité des droits de l'enfant sur les droits de l'enfant en relation avec l'environnement numérique.
 
 > 45 Absence de connexion à internet, infrastructures de base ou d'équipements.
 
@@ -4757,7 +4702,7 @@ En  Côte  d'Ivoire,  plusieurs  mesures  ont  été  prises  pour  réduire  la
 
 139
 
-- avec une connexion internet à haut débit . Le projet "Ecole Connectée" permet à de nombreuses  écoles d'avoir accès à des infrastructures de télécommunications, améliorant ainsi la connectivité internet pour l'enseignement numérique.
+avec une connexion internet à haut débit . Le projet "Ecole Connectée" permet à de nombreuses  écoles d'avoir accès à des infrastructures de télécommunications, améliorant ainsi la connectivité internet pour l'enseignement numérique.
 
 - Fourniture de modems et d'accès internet : Pour favoriser l'apprentissage à domicile, des programmes  ont  été  mis  en place pour distribuer des modems  internet subventionnés aux familles  à faible revenu.  Cela  permet  de  garantir  que  les élèves puissent accéder aux ressources numériques même lorsqu'ils ne sont pas à l'école.
 
@@ -4809,27 +4754,29 @@ La Côte d'Ivoire a mis en œuvre une série de mesures pour réduire la fractur
 
 141
 
+données éducatives, ce qui contribue à garantir une éducation numérique inclusive et équitable pour tous les élèves du pays.
+
 - Quelles sont les difficultés rencontrées dans l'éducation numérique (plusieurs réponses possibles)?
 
 - O Manque de contenus d'enseignement et d'apprentissage numérique de qualité et conformes aux programmes à l'appui de parcours d'apprentissage et d'enseignement flexibles
 
-- a Équité et inclusion insuffisantes dans les solutions d'apprentissage numérique
+- a Équité et inclusion insuffisantes dans les solutions d'éducation numérique
 
-- a Des mesures de sécurité et un soutien informatique insuffisants pour répondre problèmes de sécurité des enfants en ligne ou réduire les risques dans le domaine de la cybersécurité
+- a Des mesures de sécurité et un soutien informatique insuffisants pour répondre aux problèmes de sécurité des enfants en ligne ou réduire les risques dans le domaine de la cybersécurité
 
 - a Autres:
+
+- a Les solutions, décousues ou fragmentaires, ne sont pas systématisées ou réglementées au niveau central
 
 - a Accès limité à internet et/ou à l'électricité
 
 - D Accès limité au matériel (appareils, chargeurs, etc.)
 
-- Difficultés en ce qui concerne la réglementation de l'utilisation des solutions d'éducation numérique a Difficultés en ce qui concerne le financement
+- Difficultés en ce qui concerne la réglementation de l'utilisation des solutions d'apprentissage numérique
 
-durable de solutions d'éducation numérique à aux l'échelle nationale
+- a Difficultés en ce qui concerne le financement durable de solutions d'éducation numérique à l'échelle nationale
 
 - D Développement des compétences numériques insuffisant pour que les technologies numériques soient exploitées avec profit dans la pratique enseignante
-
-- a Les solutions, décousues ou fragmentaires, ne sont  pas  systématisées  ou  réglementées  au niveau central
 
 [[END OF PAGE 151]]
 
@@ -4905,7 +4852,7 @@ Veuillez préciser. Des données quantitatives succinctes pourront être ajouté
 
 ## 4 Le renforcement des systèmes de gouvernance
 
-Pour mémoire.' le Cadre d'action Education 2030 énonce « pour garantir la qualité de l'éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs ; des systèmes d'assurance qualité ; des systèmes d'information pour a gestion de l'éducation ; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
+Pour mémoire : le Cadre d'action Éducation 2030 énonce que « pour garantir la qualité de l'éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs ; des systèmes d'assurance qualité ; des systèmes d'information pour la gestion de l'éducation ; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
 
 - Veuillez indiquer les mesures prises en ce qui concerne la gouvernance (plusieurs réponses possibles):
 
@@ -5009,7 +4956,7 @@ D Contraintes budgétaires
 
 - 148 -
 
-- O  Absence  de  participation  des  parties  concernée  et  coopération  et  coordination  insuffisantes  à plusieurs niveaux
+- O Absence de participation des parties concernées et coopération et coordination insuffisantes à plusieurs niveaux
 
 [[END OF PAGE 158]]
 
@@ -5089,11 +5036,13 @@ numériques,  ce  qui  limite  leur  capacité  à  gérer  les  établissements
 
 Les  difficultés  en  matière  de  gouvernance  éducative  en  Côte  d'Ivoire  sont  multiples  et incluent des problèmes liés à l'insuffisance des ressources, à la gestion décentralisée, à la formation des enseignants, et à la supervision des établissements scolaires. Ces défis doivent être relevés pour permettre une amélioration durable de la qualité et de l'équité du système éducatif ivoirien, en veillant à ce que les réformes et initiatives en place soient correctement mises en œuvre et suivies.
 
-> Manque de dialogue avec les syndicats enseignants a Autres:
+Manque de dialogue avec les syndicats enseignants
 
 - a Environnement juridique et politique inexistant, peu porteur, incompatible ou obsolète
 
 D Systèmes de suivi inexistants ou défaillants, manque de données fiables
+
+- a Autres:
 
 -
 
@@ -5171,9 +5120,9 @@ D Systèmes de suivi inexistants ou défaillants, manque de données fiables
 
 Les  défis  en  matière  de  gouvernance  éducative  en  Côte  d'Ivoire  sont  nombreux  et complexes,  allant  du  manque  de  ressources  financières  à  la  nécessité  d'une  meilleure supervision et d'un accès équitable à l'éducation. Ces données quantitatives soulignent l'importance de poursuivre les réformes et d'améliorer les mécanismes de gouvernance pour garantir une éducation de qualité pour tous. Des efforts concertés sont nécessaires pour surmonter ces obstacles et assurer un système éducatif plus efficace et équitable.
 
-# Ill.  Moyens mis en place pour sensibiliser les différentes autorités du pays à ces instruments
+# III. Moyens mis en place pour sensibiliser les différentes autorités du pays à ces instruments
 
-Pour  mémoire.'  les  organes  directeurs  de  l'UNESCO  ont  souligné  la  nécessité  des  actions  de sensibilisation. Etant donné l'importance de l'action normative au niveau national, il importe que le texte de la Convention soit largement diffusé, avec le concours des commissions nationales pour l'UNESCO.
+Pour mémoire : les organes directeurs de l'UNESCO ont souligné la nécessité des actions de sensibilisation. Etant donné l'importance de l'action normative au niveau national, il importe que le texte de la Convention soit largement diffusé, avec le concours des commissions nationales pour l'UNESCO.
 
 -Des activités ont-elles été entreprises pour appeler l'attention des différentes autorités du pays sur la Convention et la Recommandation et sur leurs dispositions relatives au droit à l'éducation, et pour les sensibiliser aux principes de non-discrimination et d'égalité des chances dans le domaine de l'éducation ? (Plusieurs réponses possibles)
 
@@ -5187,7 +5136,9 @@ Pour  mémoire.'  les  organes  directeurs  de  l'UNESCO  ont  souligné  la  n�
 
 - a Diffusion de la Convention/Recommandation et sensibilisation à ses principales dispositions ou aux principes  fondamentaux en  matière  de  droit  à  l'éducation  notamment  à  l'aide  de  supports  et  de ressources appropriés
 
-D Activités entreprises par les commissions nationales ou avec leur concours en vue de plaider pour la non-discrimination et l'égalité des chances dans le domaine de l'éducation et de susciter un débat sur les grandes questions concernant les droits énoncés dans les instruments a Autres:
+D Activités entreprises par les commissions nationales ou avec leur concours en vue de plaider pour la non-discrimination et l'égalité des chances dans le domaine de l'éducation et de susciter un débat sur les grandes questions concernant les droits énoncés dans les instruments
+
+- a Autres:
 
 [[END OF PAGE 164]]
 
