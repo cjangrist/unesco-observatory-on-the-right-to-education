@@ -175,9 +175,9 @@ Indigenous  people's  right  to  self-determination  shall  be  subjected  to  t
 
 A. This Constitution recognizes and protects the indigenous peoples' right to self-determination and, consequently, the right to autonomy, so that they can:
 
-- Decide  their  internal  forms  of  coexistence,  as  well  their  social,  economic,  political  and  cultural organization.
+I. Decide their internal forms of coexistence, as well their social, economic, political and cultural organization.
 
-- Apply their own legal systems to regulate and solve their internal conflicts, subjected to the general principles of this Constitution, respecting the fundamental rights, the human rights and, above all, the dignity and safety of women. The law shall establish the way in which judges and courts will validate the aforementioned regulations.
+II. Apply their own legal systems to regulate and solve their internal conflicts, subjected to the general principles of this Constitution, respecting the fundamental rights, the human rights and, above all, the dignity and safety of women. The law shall establish the way in which judges and courts will validate the aforementioned regulations.
 
 III.  Elect,  in  accordance  with  their  traditional  rules,  procedures  and  customs,  their  authorities  or representatives to exercise their own form of government, guaranteeing women's participation under equitable conditions before men, and respecting the federal pact and the sovereignty of the States and the Federal District.
 
@@ -201,15 +201,15 @@ The constitutions and laws of the States shall recognize and regulate these righ
 
 VIII. Have full access to State jurisdiction. In order to protect this right, in all trials and proceedings that involve natives, individually or collectively, their customs and cultural practices must be taken into account, respecting the provisions established in this Constitution. Indigenous people have, at all times, the right to be assisted by interpreters and counsels, who are familiar to their language and culture.
 
-The constitutions and laws of the States and the Federal District shall establish those elements of selfdetermination  and  autonomy  that  may  best  express  the  conditions  and  aspirations  of  indigenous peoples,  as  well  as  the  rules,  according  to  which  indigenous  communities  will  be  defined  as  public interest entities.
+The constitutions and laws of the States and the Federal District shall establish those elements of self-determination and autonomy that may best express the conditions and aspirations of indigenous peoples, as well as the rules, according to which indigenous communities will be defined as public interest entities.
 
-- In  order  to  promote  equal  opportunities  for  indigenous  people  and  to  eliminate  discriminatory practices,  the  Federation,  the  Federal  District,  the  States  and  the  local  councils  shall  establish  the necessary institutions and policies to guarantee full force of indigenous people's rights and comprehensive  development  of  indigenous  communities.  Such  institutions  and  policies  shall  be designed and operated together with them.
+B. In order to promote equal opportunities for indigenous people and to eliminate discriminatory practices, the Federation, the Federal District, the States and the local councils shall establish the necessary institutions and policies to guarantee full force of indigenous people's rights and comprehensive development of indigenous communities. Such institutions and policies shall be designed and operated together with them.
 
-In  order  to  eliminate  the  needs  and  backwardness  affecting  indigenous  towns  and  communities, authorities are obliged to:
+In order to eliminate the needs and backwardness affecting indigenous towns and communities, authorities are obliged to:
 
-- Stimulate  regional  development  in  indigenous  areas  with  the  purpose  of  strengthening  local economies and improving the quality of life. To achieve this goal, the three levels of government and the indigenous communities must take part in a coordinated manner. Local governments shall equitably determine the budget that is to be directly managed by the indigenous communities for specific goals.
+I. Stimulate regional development in indigenous areas with the purpose of strengthening local economies and improving the quality of life. To achieve this goal, the three levels of government and the indigenous communities must take part in a coordinated manner. Local governments shall equitably determine the budget that is to be directly managed by the indigenous communities for specific goals.
 
-- Guarantee education and increase educational level of indigenous peoples, favoring bilingual and cross-cultural  education,  literacy,  completion  of  the  elementary  and  secondary  education,  technical training,  high  education  and  university  education.  Also,  the  authorities  must  establish  a  scholarship system  for  indigenous  students  at  all  grades,  as  well  as  define  and  carry  out  regional  educational programs, according to indigenous peoples' cultural heritage and opinion, and according to the law. Authorities  must  promote  respect  towards  the  several  cultures  of  the  Nation  and  knowledge  about them.
+II. Guarantee education and increase educational level of indigenous peoples, favoring bilingual and cross-cultural education, literacy, completion of the elementary and secondary education, technical training, high education and university education. Also, the authorities must establish a scholarship system for indigenous students at all grades, as well as define and carry out regional educational programs, according to indigenous peoples' cultural heritage and opinion, and according to the law. Authorities must promote respect towards the several cultures of the Nation and knowledge about them.
 
 7
 
@@ -259,27 +259,27 @@ Education provided by the State shall develop harmoniously all human abilities, 
 
 The  State  will  guarantee  the  quality  in  mandatory  education,  in  a  way  that  education  material  and methods, the school organization, educational infrastructure and the teachers and principals suitability ensure the highest learning achievement of students.
 
-- According  to  the  Article  24,  the  education  provided  by  the  State  shall  be  secular,  therefore,  state education shall be maintained entirely apart from any religious doctrine.
+I. According to the Article 24, the education provided by the State shall be secular, therefore, state education shall be maintained entirely apart from any religious doctrine.
 
-- The  guiding  principles  for  state  education  shall  be  scientific  progress  and  the  fight  against ignorance, servitude, fanaticism and prejudices.
+II. The guiding principles for state education shall be scientific progress and the fight against ignorance, servitude, fanaticism and prejudices.
 
 Furthermore, guiding principles for state education shall:
 
-- be democratic, understanding democracy not only as a legal structure and political regime, but also as a way of life grounded on the continuous economic, social and cultural development;
+a) be democratic, understanding democracy not only as a legal structure and political regime, but also as a way of life grounded on the continuous economic, social and cultural development;
 
-- be  national,  which  means  that,  without  hostilities  or  exclusivism,  state  education  shall  study national problems and the utilization of our resources, shall defend our political independence, shall assure our economic independence and shall preserve and develop our culture; and
+b) be national, which means that, without hostilities or exclusivism, state education shall study national problems and the utilization of our resources, shall defend our political independence, shall assure our economic independence and shall preserve and develop our culture; and
 
 (Amended through a decree published on February 9th, 2012)
 
-- Contributing to a better human coexistence, in order to strengthen the appreciation and respect for cultural diversity, human dignity, the integrity of the family, the conviction of the society general interest, the fraternity and fairness ideals of everyone's rights, avoiding race, religion, group, sex or individual privileges, and
+c) Contributing to a better human coexistence, in order to strengthen the appreciation and respect for cultural diversity, human dignity, the integrity of the family, the conviction of the society general interest, the fraternity and fairness ideals of everyone's rights, avoiding race, religion, group, sex or individual privileges, and
 
 (Added by decree published on February 26, 2013 )
 
-- It  shall  be  of  quality  based  on  the  constant  progress  and  highest  academic  achievement  of  the students;
+d) It shall be of quality based on the constant progress and highest academic achievement of the students;
 
 (Amended by decree published on February 26, 2013)
 
-III. To fully comply with the provisions established in the second paragraph and under section II, the President of the Republic shall establish the syllabus for preschool, elementary and secondary education, as well as for teacher training college that is to be applied throughout the country. The President of the Republic shall take into account the opinion of the states and the Federal District governments, as well as the opinions of all groups of society involved in education, teachers and parent under the terms of the law. Additionally, entering the teaching post and the promotion to positions with management or supervision on basic education and medium education by the State, will take place through competitive contest that guarantee the suitability of the corresponding knowledge and abilities. The regulating law will set the criteria, terms and conditions of the mandatory evaluation for the admission, promotion, acknowledgment and continuance in the professional service with full respect to the constitutional rights of the workers of the education. All admissions and promotions not granted according to law will be annulled. Provisions in this paragraph will not be applicable to the institutions therein section VII of this article;
+III. To fully comply with the provisions established in the second paragraph and under section II, the President of the Republic shall establish the syllabus for preschool, elementary and secondary education, as well as for teacher training college that is to be applied throughout the country. The President of the Republic shall take into account the opinion of the states and the Federal District governments, as well as the opinions of all groups of society involved in education, teachers and parent under the terms of the law. Additionally, entering the teaching post and the promotion to positions with management or supervision on basic education and medium education by the State, will take place through competitive contest that guarantee the suitability of the corresponding knowledge and abilities. The regulating law will set the criteria, terms and conditions of the mandatory evaluation for the
 
 9
 
@@ -289,6 +289,8 @@ III. To fully comply with the provisions established in the second paragraph and
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
+admission, promotion, acknowledgment and continuance in the professional service with full respect to the constitutional rights of the workers of the education. All admissions and promotions not granted according to law will be annulled. Provisions in this paragraph will not be applicable to the institutions therein section VII of this article;
+
 IV. Education provided by the State shall be free;
 
 (Amended through a decree published on February 9th, 2012)
@@ -297,9 +299,9 @@ V.  In  addition  to  providing  the  preschool,  elementary,  middle  and  high
 
 VI. Private entities may provide all kinds of education. In accordance with the law, the State shall have powers to grant and cancel official accreditation to studies done at private institutions. In the case of pre-school,  elementary  and  secondary  education,  as  well  as  teacher  training  college,  private  schools must:
 
-- Provide education in accordance with the same purposes and criteria established in paragraph second and section II, as well as to comply with the syllabus mentioned in section III; and
+a) Provide education in accordance with the same purposes and criteria established in paragraph second and section II, as well as to comply with the syllabus mentioned in section III; and
 
-- Obtain a previous and explicit authorization from the authorities, under the terms provided by the Law.
+b) Obtain a previous and explicit authorization from the authorities, under the terms provided by the Law.
 
 (Amended through a decree published on February 9th, 2012)
 
@@ -321,11 +323,11 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 IX. In order to guarantee the provision of quality education services, the National Education Evaluation System  is  created.  The  National  Institute  for  the  Evaluation  of  Education  will  coordinate  of  said system. The National Institute for the Evaluation of Education will be an autonomous public body, with legal personality and it own budget. The Institute shall evaluate the quality, performance and results of the national educational system in the preschool, elementary, junior high and high school. Thus it shall:
 
-- Design and perform the measures corresponding to components, processes or results of the system;
+a) Design and perform the measures corresponding to components, processes or results of the system;
 
-- Expand  the  guidelines  to  which  the  federal  and  local  educational  authorities  will  be  subject  to perform the corresponding evaluation functions, and
+b) Expand the guidelines to which the federal and local educational authorities will be subject to perform the corresponding evaluation functions, and
 
-- Creating and disseminating information, and based on that, issuing guidelines relevant to contribute to decisions tending to improve the quality of education and equity, as essential factor in the search of social equality.
+c) Creating and disseminating information, and based on that, issuing guidelines relevant to contribute to decisions tending to improve the quality of education and equity, as essential factor in the search of social equality.
 
 The Governing Board will be the directing body of the Institute and will be made up of five members. The Federal Executive will present a list of three for consideration of the House of Senators, which, with  previous  appearance  of  the  proposed  persons,  will  appoint  the  person  who  should  take  the position. The appointment will be by the vote of two thirds of the members of the House of Senators present or during recesses(sic), of the Permanent Commission, within a thirty days period that cannot be extended.  Should the House of Senators not resolved within such period of time, the position will be  filled  by  the  member  of  the  Governing  Board,  who  within  said  list  is  appointed  by  the  Federal Executive.
 
@@ -433,15 +435,15 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 In  order  to  guarantee  the  right  to  information,  the  Federation,  the  states  and  the  Federal  District, according to their powers, shall be ruled by the following principles:
 
-- All information in custody of any federal, state or local authority, entity or organ, is public. It may be reserved only temporarily due to public interest and according to the law. The principle of maximum disclosure shall prevail when interpreting this right.
+I. All information in custody of any federal, state or local authority, entity or organ, is public. It may be reserved only temporarily due to public interest and according to the law. The principle of maximum disclosure shall prevail when interpreting this right.
 
-- Information regarding private life and personal data shall be protected according to law and with the exceptions established therein.
+II. Information regarding private life and personal data shall be protected according to law and with the exceptions established therein.
 
 III. Every person shall have free access to public information and his personal data, as well as to their rectification, without the necessity to argue interest or justification.
 
-IV.  Free  mechanisms  to  access  information  and  review  procedures  shall  be  established.  These procedures shall be formalized before specialized and impartial agencies, which shall have operational, managerial and decision making independence.
+IV. Free mechanisms to access information and review procedures shall be established. These procedures shall be formalized before specialized and impartial agencies, which shall have operational, managerial and decision making independence.
 
-- Government agencies shall keep their documents in updated administrative files, and shall disclose, through  electronic  media,  the  complete  and  updated  information  about  the  indicators  of  their management and the use of public resources.
+V. Government agencies shall keep their documents in updated administrative files, and shall disclose, through electronic media, the complete and updated information about the indicators of their management and the use of public resources.
 
 VI. The law shall establish procedures for governmental agencies to disclose information concerning the use of public resources paid to natural or artificial persons.
 
@@ -801,15 +803,15 @@ Public  security  is  a  responsibility  of  the  Federation,  the  Federal  Dis
 
 Institutions  in  charge  of  public  security  shall  be  of  a  civil  nature,  disciplined  and  professional.  The Public Prosecution Service and the police forces of three government levels shall coordinate each other to guarantee public security. They shall constitute the Public Security National System, which shall be subjected to the following provisions:
 
-- There  should  be  a  regulation  for  selection,  admission,  training,  continuance,  evaluation, appreciation and certification of the members of public security institutions. The Federation, the Federal  District,  the  states  and  the  local  councils  shall  operate  and  develop  public  security actions in the field of their respective powers.
+a) There should be a regulation for selection, admission, training, continuance, evaluation, appreciation and certification of the members of public security institutions. The Federation, the Federal District, the states and the local councils shall operate and develop public security actions in the field of their respective powers.
 
-- There should be a criminal and personnel database. No one can be recruited unless he has been duly certified and registered in the system.
+b) There should be a criminal and personnel database. No one can be recruited unless he has been duly certified and registered in the system.
 
-- There should be public policies intended to the prevention of crimes.
+c) There should be public policies intended to the prevention of crimes.
 
-- The community shall participate in processes like evaluation of the public security institutions and the policies intended to prevent crime.
+d) The community shall participate in processes like evaluation of the public security institutions and the policies intended to prevent crime.
 
-- Funds for public security, provided by the federal government to the states and local councils shall be used only for such goal.
+e) Funds for public security, provided by the federal government to the states and local councils shall be used only for such goal.
 
 (Reformed through a decree published on June 18, 2008)
 
@@ -827,17 +829,17 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 Appropriation of assets shall not be considered as confiscation when such appropriation is ordered by the authority for the payment of taxes, fines or civil liability. Appropriation in the following cases shall not be deemed as confiscation: a) appropriation of property ordered by the judicial authority under the terms provided by Article 109 in case of illicit enrichment; b) appropriation of seized goods that were abandoned by the owner; and c) appropriation of goods, which ownership has been declared extinct by a sentence.  In the event of ownership extinction, there shall be a procedure according to the following regulations:
 
-- Ownership  extinction procedure shall be jurisdictional and autonomous  from  the criminal proceedings.
+I. Ownership extinction procedure shall be jurisdictional and autonomous from the criminal proceedings.
 
-- Ownership  extinction  procedure  shall  be  applied  in  cases  of  organized  crime,  drug  trafficking, kidnapping, car theft  and  human  trafficking.  Ownership  extinction  procedure  is  to  be  applied  to  the following goods:
+II. Ownership extinction procedure shall be applied in cases of organized crime, drug trafficking, kidnapping, car theft and human trafficking. Ownership extinction procedure is to be applied to the following goods:
 
-- Those  goods  that  are  instrument,  object  or  product  of  a  crime,  even  though  criminal responsibility has not been established by a sentence, as long as there is enough evidence to determine that the crime has occurred.
+a) Those goods that are instrument, object or product of a crime, even though criminal responsibility has not been established by a sentence, as long as there is enough evidence to determine that the crime has occurred.
 
-- Those  goods  that  have  been  used  to  hide  or  mix  crime  assets,  provided  that  the  elements established in the previous clause have been met.
+b) Those goods that have been used to hide or mix crime assets, provided that the elements established in the previous clause have been met.
 
-- Those goods that are being used for the perpetration of a crime by a third party, if the owner was aware, but he did not notify to the proper authority or he did not try to stop it.
+c) Those goods that are being used for the perpetration of a crime by a third party, if the owner was aware, but he did not notify to the proper authority or he did not try to stop it.
 
-- Those goods that are the property of third parties, but there are enough elements to conclude that they are the product of patrimonial or organized crime, and the accused of such felonies behaves like the owner.
+d) Those goods that are the property of third parties, but there are enough elements to conclude that they are the product of patrimonial or organized crime, and the accused of such felonies behaves like the owner.
 
 III.  Affected  person  can  use  the  appropriate  legal  instrument  to  demonstrate  the  licit  origin  of  the goods, the good faith and the ignorance about misuse of the goods.
 
@@ -853,9 +855,9 @@ Congress cannot dictate laws that establish or abolish any given religion.
 
 Ordinarily, all religious acts will be practiced in temples, and those that extraordinarily are practiced outside temples must adhere to law.
 
-25
-
 ##### Article 25
+
+25
 
 [[END OF PAGE 23]]
 
@@ -881,7 +883,7 @@ The  law  shall  encourage  and  protect  economic  activities  carried  out  by
 
 ##### Article 26
 
-- The State shall organize a democratic planning system to support national development, which shall offer solidity, dynamism, continuity and equity to the economic growth and to the political, social and cultural independence and democratization of the nation.
+A. The State shall organize a democratic planning system to support national development, which shall offer solidity, dynamism, continuity and equity to the economic growth and to the political, social and cultural independence and democratization of the nation.
 
 National  objectives,  included  in  this  Constitution,  shall  determine  national  planning.  National planning shall be democratic. The democratic planning system shall collect the different aspirations and demands from the whole society to include them into the development programs and plan. All the programs carried out by the federal government must be subjected to the national development plan.
 
@@ -897,7 +899,7 @@ The President of the Republic shall establish the appropriate procedures for peo
 
 The  law  shall  define  the  intervention  of  the  Congress  of  the  Union  in  the  democratic  planning system.
 
-- The State shall have a National System of Statistical and Geographical Information, which shall provide official data. All data contained in this system shall be mandatory for the Federation, the states, the Federal District and the local councils, according to the law.
+B. The State shall have a National System of Statistical and Geographical Information, which shall provide official data. All data contained in this system shall be mandatory for the Federation, the states, the Federal District and the local councils, according to the law.
 
 The National System of Statistical and Geographical Information shall be ruled and coordinated by an organism, which shall have technical and management autonomy, legal personality and its own assets. Such organism will have the necessary powers to regulate data collection, processing and publication of information.
 
@@ -913,7 +915,7 @@ The property of all land and water within national territory is originally owned
 
 Expropriation  is  authorized  only  where  appropriate  in  the  public  interest  and  subject  to  payment  of compensation.
 
-The Nation shall at all time have the right to impose on private property such restrictions as the public interest may demand, as well as to regulate, for social benefit, the use of those natural resources which are susceptible of appropriation, in order to make an equitable distribution of public wealth, to conserve them, to achieve a balanced development of the country and to improve the living conditions of rural and  urban  population.  Consequently,  appropriate  measures  shall  be  issued  to  put  in  order  human settlements  and  to  define  adequate  provisions,  reserves  and  use  of  land,  water  and  forest.  Such measures shall seek construction of infrastructure; planning and regulation of the new settlements and their  maintenance,  improvement  and  growth;  preservation  and  restoration  of  environmental  balance; division  of  large  rural  estates;  collective  exploitation  and  organization  of  the  farming  cooperatives; development  of  the  small  rural  property;  stimulation  of  agriculture,  livestock  farming,  forestry  and other economic activities in rural communities; all this avoiding destruction of natural resources.
+The Nation shall at all time have the right to impose on private property such restrictions as the public interest may demand, as well as to regulate, for social benefit, the use of those natural resources which are susceptible of appropriation, in order to make an equitable distribution of public wealth, to conserve them, to achieve a balanced development of the country and to improve the living conditions of rural and urban population. Consequently, appropriate measures shall be issued to put in order human
 
 27
 
@@ -923,7 +925,9 @@ The Nation shall at all time have the right to impose on private property such r
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-The following elements are the property of the Nation: all natural resources of the continental shelf and the seabed of the islands; all minerals and substances that are in seams, layers, masses or deposits and that have a nature different from the components of the soil, such as minerals from which metals and metalloids  are  extracted;  beds  with  gemstones  or  salt;  salt  mines  formed  by  sea  water;  the  products derived from rock breaking, when their exploitation requires underground works; minerals or organic deposits susceptible to be utilized as fertilizers; solid mineral fuels; petroleum and all solid, liquid or gaseous  hydrocarbons;  and  the  space  located  over  national  territory,  according  to  the  extension  and terms established by International Law.
+settlements and to define adequate provisions, reserves and use of land, water and forest. Such measures shall seek construction of infrastructure; planning and regulation of the new settlements and their maintenance, improvement and growth; preservation and restoration of environmental balance; division of large rural estates; collective exploitation and organization of the farming cooperatives; development of the small rural property; stimulation of agriculture, livestock farming, forestry and other economic activities in rural communities; all this avoiding destruction of natural resources.
+
+The following elements are the property of the Nation: all natural resources of the continental shelf and the seabed of the islands; all minerals and substances that are in seams, layers, masses or deposits and that have a nature different from the components of the soil, such as minerals from which metals and metalloids are extracted; beds with gemstones or salt; salt mines formed by sea water; the products derived from rock breaking, when their exploitation requires underground works; minerals or organic deposits susceptible to be utilized as fertilizers; solid mineral fuels; petroleum and all solid, liquid or gaseous hydrocarbons; and the space located over national territory, according to the extension and terms established by International Law.
 
 The following elements are the property of the Nation, according to the extension and terms established by International Law: waters of the territorial sea; internal sea waters; waters of lagoons and estuaries permanently  or  intermittently  connected  with  the  sea;  waters  of  natural  lakes  which  are  directly connected  with  streams  constantly  flowing;  river  and  affluent  waters,  from  the  site  where  the  first permanent,  intermittent  or  torrential  waters  start  to  flow,  to  the  mouth  in  the  sea,  lakes,  lagoons  or estuaries  owned  by  the  nation;  waters  of  the  continuous  or  intermittent  currents  and  their  direct  or indirect  affluent,  whenever  their  bed  serves  as  border  of  national  territory  or  between  two  states,  or when they flow from one state to another or cross the country's border; waters of lakes, lagoons or estuaries,  which  vessels,  zones  or  shores  are  crossed  by  borderlines  dividing  one  or  more  states  or between the country and a neighboring country, or when the shoreline serves as a border between two states  or  between  the  country  and  a  neighboring  country;  waters  of  springs  flowing  from  beaches, maritime areas, streams, vessels or shores; waters extracted from mines; and the internal beds, shores and banks. Underground waters may be freely extracted by artificial works and may be appropriated by the  owner  of  the  land.  However,  when  the  public  interest  so  require  or  whenever  other  uses  are affected,  the  President  of  the  Republic  may  regulate  extraction  and  use  of  underground  waters  and, even, establish prohibited zones. The same criteria shall apply to other waters belonging to the nation. Any other waters not included in the foregoing list, shall be considered as an integral part of the land through which they flow. Nevertheless, if such waters are located in two or more properties, their use shall be considered as public, complying with provisions issued by the states.
 
@@ -999,25 +1003,25 @@ Restitution  of  lands,  forests  and  waters  to  rural  communities  shall  be
 
 VIII. The following actions are null and void:
 
-- All appropriation of lands, waters and mountains from towns, villages, settlements or communities, made by political chiefs, governors or any other local authority in contravention of the law published on June 25, 1856, and other applicable laws and provisions;
+a) All appropriation of lands, waters and mountains from towns, villages, settlements or communities, made by political chiefs, governors or any other local authority in contravention of the law published on June 25, 1856, and other applicable laws and provisions;
 
-- All  concessions,  arrangements  or  sales  of  lands,  waters  or  mountains,  made  by  the  Secretariat  of Public  Works,  the  Department  of  the  Treasury  or  any  other  federal  authority  from  the  first  day  of December, 1876, to this date, which have illegally invaded farming cooperatives, indigenous land or lands of any other kind belonging to towns, villages, hamlets or communities.
+b) All concessions, arrangements or sales of lands, waters or mountains, made by the Secretariat of Public Works, the Department of the Treasury or any other federal authority from the first day of December, 1876, to this date, which have illegally invaded farming cooperatives, indigenous land or lands of any other kind belonging to towns, villages, hamlets or communities.
 
-- All  demarcation  procedures,  transactions,  transfers  or  auctions  performed  during  the  period mentioned in previous paragraph and made by companies, judges or federal or state authorities, which have illegally invaded farming cooperatives, indigenous land or lands of any other kind belonging to towns, villages, hamlets or communities.
+c) All demarcation procedures, transactions, transfers or auctions performed during the period mentioned in previous paragraph and made by companies, judges or federal or state authorities, which have illegally invaded farming cooperatives, indigenous land or lands of any other kind belonging to towns, villages, hamlets or communities.
 
 The only lands excepted from the nullity herein mentioned are those which have been distributed in accordance with the Law published on June 25, 1856, and have been owned for more than ten years, provided that the area does not exceed fifty hectares.
 
 IX.  Division  or  distribution  made  with  error  or  vice  among  neighbors  of  a  rural  settlement  may  be annulled at the request of the three quarters of the neighbors who possess one quarter of the lands in question; or at the request of one quarter of the neighbors who possess three quarters of the lands in question.
 
-- Repealed
+X. Repealed
 
-- Repealed
+XI. Repealed
 
-- Repealed
+XII. Repealed
 
-- Repealed
+XIII. Repealed
 
-- Repealed
+XIV. Repealed
 
 31
 
@@ -1077,7 +1081,7 @@ Consequently,  the  law  shall  severely  punish,  and  the  authorities  shall 
 
 The laws shall establish bases to set maximum prices for articles, commodities or products considered as  essential  for  the  country's  economy  or  for  popular  consumption.  Such  laws  shall  also  define distribution  of  said  articles,  commodities  and  products,  in  order  to  prevent  that  unnecessary  or excessive  intermediation  cause  shortage  or  price  increases.  The  law  shall  protect  and  organize consumers' interest.
 
-The  areas  of  the  economy  in  direct  control  of  the  government,  such  as  post,  telegraph,  oil  and  its derivatives, basic petrochemical  industries, radioactive minerals, generation of nuclear energy, generation  of  electricity  and  other  defined  by  the  Congress  of  the  Union  are  not  considered  to  be monopolies. The State will protect areas of priority in the economy, such as satellite communications and  railroads,  in  accordance  with  the  Article  25  of  this  Constitution.  This  way,  the  State  protects national security and sovereignty. The State can grant concessions or licenses, but keeping ownership of the communication means.
+The areas of the economy in direct control of the government, such as post, telegraph, oil and its derivatives, basic petrochemical industries, radioactive minerals, generation of nuclear energy, generation of electricity and other defined by the Congress of the Union are not considered to be monopolies. The State will protect areas of priority in the economy, such as satellite communications and railroads, in accordance with the Article 25 of this Constitution. This way, the State protects
 
 33
 
@@ -1087,7 +1091,9 @@ The  areas  of  the  economy  in  direct  control  of  the  government,  such  a
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-The  State  shall  have  the  agencies  and  companies  required  to  efficiently  manage  the  strategic  and priority areas, where it may participate alone or together with the private and social sectors.
+national security and sovereignty. The State can grant concessions or licenses, but keeping ownership of the communication means.
+
+The State shall have the agencies and companies required to efficiently manage the strategic and priority areas, where it may participate alone or together with the private and social sectors.
 
 The Nation will have an autonomous Central Bank with the primary objective of procuring the stability of the national currency,  thus  strengthening  the  guidance  of  the  State  in  respect  to national development. No authority can order the Central Bank to provide financing.
 
@@ -1150,19 +1156,19 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 A. The Mexican nationals by birth are:
 
-- Those born in the Mexican territory, regardless of their parents' nationality;
+I. Those born in the Mexican territory, regardless of their parents' nationality;
 
-- Those born in a foreign country of Mexican parents born in national territory, of Mexican father born in national territory, or of Mexican mother born in national territory;
+II. Those born in a foreign country of Mexican parents born in national territory, of Mexican father born in national territory, or of Mexican mother born in national territory;
 
-- Those born in  a  foreign  country  of  Mexican  parents  by  naturalization,  of  Mexican  father  by naturalization, or of Mexican mother by naturalization; and
+III. Those born in a foreign country of Mexican parents by naturalization, of Mexican father by naturalization, or of Mexican mother by naturalization; and
 
-- Those born on board of Mexican military or merchant vessels or aircrafts.
+IV. Those born on board of Mexican military or merchant vessels or aircrafts.
 
-- The Mexicans by naturalization are:
+B. The Mexicans by naturalization are:
 
-- Those aliens who obtain from the Department of Foreign Affairs a naturalization card.
+I. Those aliens who obtain from the Department of Foreign Affairs a naturalization card.
 
-- Any foreign woman or man who marries a Mexican man or woman and establishes residence inside the Mexican territory, provided that foreigner complies with the other requirements set forth by the law for that purpose.
+II. Any foreign woman or man who marries a Mexican man or woman and establishes residence inside the Mexican territory, provided that foreigner complies with the other requirements set forth by the law for that purpose.
 
 ##### Article 31
 
@@ -1170,11 +1176,11 @@ Obligations of the Mexicans are:
 
 Amended (through decree published on February 9th, 2012)
 
-- To make their children or pupils attend to the public or private schools to receive preschool, elementary, middle and higher education and the military under the terms set by the law.
+I. To make their children or pupils attend to the public or private schools to receive preschool, elementary, middle and higher education and the military under the terms set by the law.
 
-- To join the Nation Guard, according to the pertinent organic law, in order to defend and assure the  Nation's  independence, territory, honor, rights  and interest, as well as domestic peace an order, and
+II. To join the Nation Guard, according to the pertinent organic law, in order to defend and assure the Nation's independence, territory, honor, rights and interest, as well as domestic peace an order, and
 
-- To  pay  taxes  for  federal,  state  and  local  spending,  in  accordance  with  the  proportions established by law.
+III. To pay taxes for federal, state and local spending, in accordance with the proportions established by law.
 
 ##### Article 32
 
@@ -1218,9 +1224,9 @@ Foreigners may not in any way participate in the political affairs of the countr
 
 Mexican citizens shall be those individuals who are considered as Mexicans and fulfill the following conditions:
 
-- To be at least 18 years old, and
+I. To be at least 18 years old, and
 
-- To have an honest way of life.
+II. To have an honest way of life.
 
 ##### Article 35
 
@@ -1258,33 +1264,33 @@ VII. To initiate laws, in the terms and with the requirements appointed by the C
 
 VIII.  To  vote  in  the  referendum  about  national  importance  topics,  which  will  be  subject  to  the following:
 
-- 1o. They will be called by the Congress of the Union and requested by:
+1o. They will be called by the Congress of the Union and requested by:
 
-- The President of the Republic;
+a) The President of the Republic;
 
-- The equivalent to thirty three percent of the members of any of the Chambers of the Congress of the Union; or
+b) The equivalent to thirty three percent of the members of any of the Chambers of the Congress of the Union; or
 
-- The  citizens,  in  an  equivalent  number,  at  least,  to  two  percent  of  those  subscribed  in  the  voters registration list, under the terms set by the law.
+c) The citizens, in an equivalent number, at least, to two percent of those subscribed in the voters registration list, under the terms set by the law.
 
 With the exception of the hypothesis mentioned in item c) above, the petition should be approved by the majority of each Chamber of the Congress of the Union, (sic)
 
-- 2o. When the total participation corresponds, at least, to forty percent of the citizens subscribed in the voters registration list, the result will be binding for the Federal Executive and Legislative powers and for the competent authorities;
+2o. When the total participation corresponds, at least, to forty percent of the citizens subscribed in the voters registration list, the result will be binding for the Federal Executive and Legislative powers and for the competent authorities;
 
-- 3o.  The  restriction  of  the  human  rights  considered  in  this  Constitution,  the  principles  of  article  40 therein;  the  electoral  matter;  State  income  and  expenses;  national  security  and  the  organization, operation  and  discipline  of  the  permanent  Army,  may  not  be  subject  to  popular  consultation;  The Supreme Court of Justice of the Nation will resolve, previous to the call by the Congress of the Union, about the constitutionality on the consultation matter;
+3o. The restriction of the human rights considered in this Constitution, the principles of article 40 therein; the electoral matter; State income and expenses; national security and the organization, operation and discipline of the permanent Army, may not be subject to popular consultation; The Supreme Court of Justice of the Nation will resolve, previous to the call by the Congress of the Union, about the constitutionality on the consultation matter;
 
-- 4o. The Federal Electoral Institute will be directly in charge of verifying the requirement set in item c) of section 1st of this paragraph, as well as the organization, development, account and declaration of results;
+4o. The Federal Electoral Institute will be directly in charge of verifying the requirement set in item c) of section 1st of this paragraph, as well as the organization, development, account and declaration of results;
 
-- 5o. Referendum will be performed on the same federal electoral day;
+5o. Referendum will be performed on the same federal electoral day;
 
-- 6o. Rulings of the Electoral Federal Institute may be challenged under the terms stated in section VI of article 41, as well as section III of article 99 of this Constitution; and
+6o. Rulings of the Electoral Federal Institute may be challenged under the terms stated in section VI of article 41, as well as section III of article 99 of this Constitution; and
 
-- 7o. Laws will set the necessary to make this section effective.
+7o. Laws will set the necessary to make this section effective.
 
 ##### Article 36
 
 Responsibilities of citizens:
 
-- To  register  himself  at  the  respective  tax  office,  declaring  his  property  and  profession  or  work.  To register himself in the National Citizen Register, according to the law.
+I. To register himself at the respective tax office, declaring his property and profession or work. To register himself in the National Citizen Register, according to the law.
 
 38
 
@@ -1296,37 +1302,37 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 The State and the citizens shall organize and operate the National Citizen Register, which shall issue the Mexican citizen identity card.
 
-- To join the National Guard.
+II. To join the National Guard.
 
 (Amended by decree published on August 9, 2012)
 
 III. To vote in the elections and the referendum under the terms set by the law;
 
-- To hold a federal or state elective office, which shall never be unpaid.
+IV. To hold a federal or state elective office, which shall never be unpaid.
 
-- To be councilor, electoral assistant and jury in the local council.
+V. To be councilor, electoral assistant and jury in the local council.
 
 ##### Article 37
 
-- The Mexican nationality by birth shall never be revoked.
+A) The Mexican nationality by birth shall never be revoked.
 
-- The Mexican nationality by naturalization can be revoked in the following cases:
+B) The Mexican nationality by naturalization can be revoked in the following cases:
 
-- If  the  person  voluntarily  acquires  a  foreign  nationality,  pretends  to  be  foreign  citizen  when subscribing a public document, uses a foreign passport or accepts or uses nobility titles which imply submission to a foreign State.
+I. If the person voluntarily acquires a foreign nationality, pretends to be foreign citizen when subscribing a public document, uses a foreign passport or accepts or uses nobility titles which imply submission to a foreign State.
 
-- If the person lives abroad for five years in a row.
+II. If the person lives abroad for five years in a row.
 
-- Mexican citizenship can be revoked in the following cases:
+C) Mexican citizenship can be revoked in the following cases:
 
-- If the person accepts or uses nobility titles issued by foreign governments.
+I. If the person accepts or uses nobility titles issued by foreign governments.
 
-- If the person voluntarily provides official services to a foreign government without approval of the Federal Congress or the Permanent Committee.
+II. If the person voluntarily provides official services to a foreign government without approval of the Federal Congress or the Permanent Committee.
 
-- If the person accepts or uses foreign decorations without approval of the Federal Congress or the Permanent Committee.
+III. If the person accepts or uses foreign decorations without approval of the Federal Congress or the Permanent Committee.
 
-IV. If the person accepts titles or employment from other country's government without approval of the Federal  Congress  or  the  Permanent  Committee,  except  by  literary,  scientific  or  humanitarian  titles, which can be freely accepted.
+IV. If the person accepts titles or employment from other country's government without approval of the Federal Congress or the Permanent Committee, except by literary, scientific or humanitarian titles, which can be freely accepted.
 
-- If  the  person  helps  a  foreigner  or  foreign  government  against  the  Nation  in  any  diplomatic controversy or international court.
+V. If the person helps a foreigner or foreign government against the Nation in any diplomatic controversy or international court.
 
 VI. If the person performs any other act that can be punished by citizenship evocation according to the law.
 
@@ -1344,17 +1350,17 @@ Regarding paragraphs II to IV, the Congress shall define the exceptional cases i
 
 Citizens' rights and prerogatives can be suspended in the following cases:
 
-- Unjustifiably failure to comply with the duties imposed by Article 36. This suspension shall last for one year and shall be imposed along with any other punishment which can be applied for such failure under the law.
+I. Unjustifiably failure to comply with the duties imposed by Article 36. This suspension shall last for one year and shall be imposed along with any other punishment which can be applied for such failure under the law.
 
-- If  the  person  is  on  trial  for  a  crime  which  deserves  physical  punishment.  In  such  a  case  the  trial counts from the date the detention order was issued.
+II. If the person is on trial for a crime which deserves physical punishment. In such a case the trial counts from the date the detention order was issued.
 
-- If the person is serving time in prison.
+III. If the person is serving time in prison.
 
-- Due to vagrancy or customary inebriation.
+IV. Due to vagrancy or customary inebriation.
 
-- If  the  person  is  a  fugitive,  from  the  moment  in  which  the  detention  order  has  been  issued  to  the moment when prosecution has expired.
+V. If the person is a fugitive, from the moment in which the detention order has been issued to the moment when prosecution has expired.
 
-- As a result of a sentence.
+VI. As a result of a sentence.
 
 The law shall define the ways in which citizens' rights will be revoked or suspended, as well as the recovery procedures.
 
@@ -1390,7 +1396,7 @@ People exercises sovereignty through the Powers of the Union and the state power
 
 The legislative and the executive branches of Federal Government shall be renewed by the means of free, authentic and periodical elections. Such elections shall be subjected to the following principles:
 
-- Political  parties  shall  be  considered  as  entities  of  public  interest.  The  legislation  shall  specify  the norms  and  requirements  for  their  legal  registry  and  participation  in  the  electoral  process.  National political parties shall have the right to participate at state and local elections.
+1. Political parties shall be considered as entities of public interest. The legislation shall specify the norms and requirements for their legal registry and participation in the electoral process. National political parties shall have the right to participate at state and local elections.
 
 The political parties' main objectives shall be: a) to promote people's participation in democracy, b) to contribute to national representative positions, c) to allow access by citizens to public power, according to their programs, principles and ideas and through universal, free, secret and direct vote. Only citizens can form and join a political party. Intervention of labor unions, social associations or any other group is prohibited.
 
@@ -1400,11 +1406,11 @@ II.  Federal law shall fairly provide national political parties with all necess
 
 Public funding for political parties shall consist of: a) public financing directed to cover the expenses generated by their ordinary and permanent activities, b) public financing for electoral activities during electoral processes. Public funding will be provided according to the law and the following principles:
 
-- Public  funding  directed  to  cover  ordinary  and  permanent  activities  shall  be  established  annually according to the following method: To multiply the total quantity of citizens registered in the electoral register by sixty five percent of daily minimum wage in the Federal District. The 30% of the amount obtained by such calculus shall be equally distributed among political parties, 70% shall be distributed according to the vote percentage they have obtained at the previous House of Representatives election.
+a) Public funding directed to cover ordinary and permanent activities shall be established annually according to the following method: To multiply the total quantity of citizens registered in the electoral register by sixty five percent of daily minimum wage in the Federal District. The 30% of the amount obtained by such calculus shall be equally distributed among political parties, 70% shall be distributed according to the vote percentage they have obtained at the previous House of Representatives election.
 
-- Public  financing  for  electoral  activities  in  the  year  when  President  of  the  Republic,  senators  and representatives  are  elected  shall  be  equal  to  the  50%  of  public  funding  provided  under  the  previous paragraph.  Public  financing  for  electoral  activities  in  the  year  when  only  representatives  are  elected shall be equal to the 30% of public funding provided under the previous paragraph.
+b) Public financing for electoral activities in the year when President of the Republic, senators and representatives are elected shall be equal to the 50% of public funding provided under the previous paragraph. Public financing for electoral activities in the year when only representatives are elected shall be equal to the 30% of public funding provided under the previous paragraph.
 
-- Public  funding  for  specific  activities,  related  to  education,  training,  socioeconomic  and  political research and publishing activities, shall be equal to the 3% of the total public financing for all parties according to paragraph 'a' per year. The 30% of the amount obtained by such calculus shall be equally distributed among political parties, 70% shall be distributed according to the vote percentage they have obtained at the previous House of Representatives election.
+c) Public funding for specific activities, related to education, training, socioeconomic and political research and publishing activities, shall be equal to the 3% of the total public financing for all parties according to paragraph 'a' per year. The 30% of the amount obtained by such calculus shall be equally distributed among political parties, 70% shall be distributed according to the vote percentage they have obtained at the previous House of Representatives election.
 
 41
 
@@ -1423,19 +1429,19 @@ III. Political parties have the right to use the media permanently.
 ###### Section A .
 The Federal Electoral Institute shall define media time for the State and political parties at radio and television, according to the law and to the following provisions:
 
-- From the run-up to the election campaign until the election date, the Federal Electoral Institute shall get 48 minutes daily, distributed in 2-3 minutes segments per hour in each radio station and channel, according to the schedule defined in paragraph 'd' of this section.
+a) From the run-up to the election campaign until the election date, the Federal Electoral Institute shall get 48 minutes daily, distributed in 2-3 minutes segments per hour in each radio station and channel, according to the schedule defined in paragraph 'd' of this section.
 
-- During  run-up,  political  parties  shall  get,  jointly,  one  minute  per  hour  at  each  radio  station  and channel. Remaining time shall be used according to the law.
+b) During run-up, political parties shall get, jointly, one minute per hour at each radio station and channel. Remaining time shall be used according to the law.
 
-- During  electoral  campaigns,  the  media  shall  allocate  at  least  85%  of  the  time  established  in paragraph 'a' of this section.
+c) During electoral campaigns, the media shall allocate at least 85% of the time established in paragraph 'a' of this section.
 
-- Transmissions about political parties shall be distributed between 18:00 and 24:00 hours.
+d) Transmissions about political parties shall be distributed between 18:00 and 24:00 hours.
 
-- Airtime shall be distributed among political parties in the following way: the 30% of airtime shall be equally distributed among political parties, 70% shall be distributed according to the vote percentage they have obtained at the previous House of Representatives election.
+e) Airtime shall be distributed among political parties in the following way: the 30% of airtime shall be equally distributed among political parties, 70% shall be distributed according to the vote percentage they have obtained at the previous House of Representatives election.
 
-- Political parties that are not present in the Mexican Congress shall get at radio and television only the proportional part they deserve from the 30% mentioned in the previous paragraph.
+f) Political parties that are not present in the Mexican Congress shall get at radio and television only the proportional part they deserve from the 30% mentioned in the previous paragraph.
 
-- The Federal Electoral Institute (FEI) shall get at radio and television up to 12% of the total airtime allocated  for  the  State.  From  this  12%,  the  Federal  Electoral  Institute  shall  allocate  50%  equally  to political  parties.  Remaining  50%  shall  be  used  by  the  FEI  or  by  another  federal  or  state  electoral authority. Every political party shall distribute its airtime in the following way: a 5 minutes monthly program,  and  remaining  airtime  shall  be  divided  into  20  seconds  messages.  Transmissions  shall  be subjected to the schedule established by the FEI according to paragraph 'd' of this section. The FEI can transfer airtime from one or more parties to another in special situations.
+g) The Federal Electoral Institute (FEI) shall get at radio and television up to 12% of the total airtime allocated for the State. From this 12%, the Federal Electoral Institute shall allocate 50% equally to political parties. Remaining 50% shall be used by the FEI or by another federal or state electoral authority. Every political party shall distribute its airtime in the following way: a 5 minutes monthly program, and remaining airtime shall be divided into 20 seconds messages. Transmissions shall be subjected to the schedule established by the FEI according to paragraph 'd' of this section. The FEI can transfer airtime from one or more parties to another in special situations.
 
 Political parties cannot buy airtime on television or radio by themselves or through third persons.
 
@@ -1454,11 +1460,11 @@ The States and the Federal District shall issue laws to enforce observance of th
 ###### Section B .
 During elections, the FEI shall manage to allocate airtime to the states at local radio and television, according to the law and to the following provisions:
 
-- In  the  event  of  state  elections  that  coincide  with  federal  elections,  airtime  for  the  state  shall  be included within the total time allocated in accordance with paragraphs 'a', 'b' and 'c' of section 'A'.
+a) In the event of state elections that coincide with federal elections, airtime for the state shall be included within the total time allocated in accordance with paragraphs 'a', 'b' and 'c' of section 'A'.
 
-- For the rest of electoral processes, allocation shall be done according to the law and to the criteria provided in this Constitution.
+b) For the rest of electoral processes, allocation shall be done according to the law and to the criteria provided in this Constitution.
 
-- Airtime  distribution  among  the  parties,  including  local  parties,  shall  be  carried  out  in  accordance with the criteria established in section 'A' and with the applicable legislation.
+c) Airtime distribution among the parties, including local parties, shall be carried out in accordance with the criteria established in section 'A' and with the applicable legislation.
 
 If the FEI considers that total airtime at radio and television granted by the previous paragraphs is not enough for its purposes of for another electoral authority's purposes, it can issue orders to cover the deficit within the powers vested to it.
 
@@ -1496,7 +1502,7 @@ The General Watchdog shall be elected through the vote of two-thirds of the memb
 
 The Executive Secretary shall be appointed by two-thirds of the General Council after his nomination by the President Councilor.
 
-Federal law shall establish the requisites that every individual must meet in order to be appointed as the President  Councilor,  Electoral  Councilor,  the  General  Watchdog  or  the  Executive  Secretary  of  the Federal  Electoral  Institute.  The  President  Councilor,  the  Electoral  Councilors  and  the  Executive Secretary cannot hold a public office within the two years after termination of their duties in the FEI.
+Federal law shall establish the requisites that every individual must meet in order to be appointed as the President Councilor, Electoral Councilor, the General Watchdog or the Executive Secretary of the
 
 44
 
@@ -1506,7 +1512,9 @@ Federal law shall establish the requisites that every individual must meet in or
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-Congressional councilors shall be appointed by parliamentary groups with party affiliation in any of the two  Chambers  of  Congress,  at  a  ratio  of  one  per  registered  party  or  coalition,  even  though  the respective political party is represented at both Chambers of Congress.
+Federal Electoral Institute. The President Councilor, the Electoral Councilors and the Executive Secretary cannot hold a public office within the two years after termination of their duties in the FEI.
+
+Congressional councilors shall be appointed by parliamentary groups with party affiliation in any of the two Chambers of Congress, at a ratio of one per registered party or coalition, even though the respective political party is represented at both Chambers of Congress.
 
 The FEI attributions are the following, among others established by law: a) to provide civic education and  training;  b)  to  periodically  determine  and  revise  the  electoral  geography;  c)  to  register  national political groups and parties, as well as guard their rights and prerogatives; d) to elaborate and update the Federal Registry of Voters and issue the voting card; e) to design, print and distribute all electoral materials; f) to prepare elections; g) to count the electoral results; h) to declare the validity and grant certificates  in  the  elections  for  senators  and  representatives;  i)  to  count  the  electoral  results  in  the election for the President of the Republic; and j) to regulate the electoral observation and the opinion surveys  and  polls.  The  deliberations  performed  within  all  collegial  directive  boards  shall  be  public under federal law.
 
@@ -1536,17 +1544,17 @@ National territory is composed of:
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- The territory belonging to the states.
+I. The territory belonging to the states.
 
-- The territory of islands, including the reefs and cays in adjacent seas.
+II. The territory of islands, including the reefs and cays in adjacent seas.
 
-- The territory of the islands of Guadalupe and Revillagigedo located in the Pacific Ocean.
+III. The territory of the islands of Guadalupe and Revillagigedo located in the Pacific Ocean.
 
-- The continental shelf and the seabed of the islands, cays and reefs.
+IV. The continental shelf and the seabed of the islands, cays and reefs.
 
-- The  waters  of  the  territorial  seas  in  the  extension  and  under  the  terms  established  by  the International Law and domestic maritime laws.
+V. The waters of the territorial seas in the extension and under the terms established by the International Law and domestic maritime laws.
 
-- The  air  space  located  above  national  territory,  in  the  extension  and  with  the  particularities established by the International Law.
+VI. The air space located above national territory, in the extension and with the particularities established by the International Law.
 
 (Reformed by the decree published on April 13, 2011)
 
@@ -1564,7 +1572,7 @@ The states will keep their current borders and extensions, as long as there is n
 
 First paragraph amended by decree published in October 15, 2012)
 
-##### Article 46.
+##### Article 46.-
 The States can deal with their respective limits by friendly agreements among each other at any time; however, these arrangements will not be effective without the approval of the Chamber of Senators.
 
 (Added by decree published in October 15, 2012)
@@ -1638,15 +1646,15 @@ In order to elect 200 representatives under the principle of proportional repres
 
 The election of 200 representatives under the principle of proportional representation, using a system of regional lists, shall be subjected to the following principles:
 
-- To  register  its  regional  list,  a  political  party  must  prove  that  it  participates  with  candidates  to  the House  of  Representatives  to  be  elected  by  the  principle  of  majority  voting  in  at  least  two  hundred uninominal districts.
+I. To register its regional list, a political party must prove that it participates with candidates to the House of Representatives to be elected by the principle of majority voting in at least two hundred uninominal districts.
 
-- Every political party attaining at least two percent of the total votes casted for the regional lists shall be entitled to have representatives under the principle of proportional representation.
+II. Every political party attaining at least two percent of the total votes casted for the regional lists shall be entitled to have representatives under the principle of proportional representation.
 
 III. The political party complying with the two principles above established, shall have appointed the number of representatives from the list corresponding to each plurinominal district, according to the way the people vote. The order established in the regional lists shall be respected for appointments.
 
-- No political party shall have more than 300 representatives, no matter which principle they have been elected under.
+IV. No political party shall have more than 300 representatives, no matter which principle they have been elected under.
 
-- The political parties shall never have a number of representatives, which percentage of the House exceeds by eight points the percentage they have obtained in vote. This restriction shall not be applied to the political party that, due to its electoral victories at uninominal districts, obtains a percentage of seats greater than the addition of the percentage obtained in national vote plus eight percent.
+V. The political parties shall never have a number of representatives, which percentage of the House exceeds by eight points the percentage they have obtained in vote. This restriction shall not be applied to the political party that, due to its electoral victories at uninominal districts, obtains a percentage of seats greater than the addition of the percentage obtained in national vote plus eight percent.
 
 VI. After that seats have been distributed according to previous paragraphs III, IV and V, the leftover proportional representation seats shall be awarded to the remaining political parties which have a right in  each  one  of  the  plurinominal  district,  in  proportion  to  the  way  the  people  vote.    The  law  shall regulate procedures and formalities to apply this article's principles.
 
@@ -1654,11 +1662,11 @@ VI. After that seats have been distributed according to previous paragraphs III,
 
 Requirements to be a Representative:
 
-- To be a Mexican national by birth in the full exercise of his rights.
+I. To be a Mexican national by birth in the full exercise of his rights.
 
-- To have attained to the age of twenty one years on the election date.
+II. To have attained to the age of twenty one years on the election date.
 
-- To  be  an  inhabitant  of  that  state  in  which  he  shall  be  chosen  for  at  least  six  months  before  the election date.
+III. To be an inhabitant of that state in which he shall be chosen for at least six months before the election date.
 
 48
 
@@ -1732,7 +1740,7 @@ The speaker of each House shall be responsible for enforcing respect to House me
 
 ##### Article 62
 
-No Senator  or  Representative  shall,  during  the  time  for  which  he  was  elected,  be  appointed  to  any federal or state government office which grants emolument without a license granted by the respective House. In such case, representative duties shall be suspended for as long as their new occupation lasts. The same rule shall be applied to the substitute representatives and senators if they have been called to service. Removal from office shall be the punishment imposed on any offender of this article's rules.
+No Senator or Representative shall, during the time for which he was elected, be appointed to any federal or state government office which grants emolument without a license granted by the respective
 
 50
 
@@ -1741,6 +1749,8 @@ No Senator  or  Representative  shall,  during  the  time  for  which  he  was  
 [[START OF PAGE 49]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+House. In such case, representative duties shall be suspended for as long as their new occupation lasts. The same rule shall be applied to the substitute representatives and senators if they have been called to service. Removal from office shall be the punishment imposed on any offender of this article's rules.
 
 ##### Article 63
 
@@ -1822,11 +1832,11 @@ Such a law shall never be vetoed nor require to be enacted by the President of t
 
 The ones who have the right to propose laws or decrees are:
 
-- The President of the Republic
+I. The President of the Republic
 
-- The representatives and senators
+II. The representatives and senators
 
-- The state legislatures.
+III. The state legislatures.
 
 (Reformed by the decree published on August 17, 2011)
 
@@ -1861,19 +1871,19 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 Every single bill shall be discussed successively at both Houses, except by the issues that are within the exclusive jurisdiction of one of the Houses. The House shall observe the methods, periods of time and debating and voting procedures established by the Congress Act and its regulations.
 
-- After being approved by one of the Houses, every bill shall be submitted to the other one in order to be discussed there. If the second House approves it, the bill shall be submitted to the President of the Republic who, after deciding that no further corrections should be made, shall publish it without delay.
+a) After being approved by one of the Houses, every bill shall be submitted to the other one in order to be discussed there. If the second House approves it, the bill shall be submitted to the President of the Republic who, after deciding that no further corrections should be made, shall publish it without delay.
 
 (Reformed by the decree published on August 17, 2011)
 
-- A bill forwarded to the President of the Republic which is not returned by him with his objections to  the  House  where  it  was  originated  within  30  calendar  days  of  the  receipt,  shall  be  deemed approved. After such term, the President of the Republic shall pass and publish the law or decree in the following 10 calendar days. After this second term, the law or decree shall be deemed enacted; then, in the following 10 calendar days, the President of the House, where the bill was originated, shall  order  publication  of  the  law  or  decree  in  the  Official  Gazette  of  the  Federation,  without requiring endorsement. These deadlines shall not be suspended if the Congress closes or adjourns its  sessions.  In  this  case,  the  President  of  the  Republic  shall  return  the  bill  to  the  Permanent Committee.
+b) A bill forwarded to the President of the Republic which is not returned by him with his objections to the House where it was originated within 30 calendar days of the receipt, shall be deemed approved. After such term, the President of the Republic shall pass and publish the law or decree in the following 10 calendar days. After this second term, the law or decree shall be deemed enacted; then, in the following 10 calendar days, the President of the House, where the bill was originated, shall order publication of the law or decree in the Official Gazette of the Federation, without requiring endorsement. These deadlines shall not be suspended if the Congress closes or adjourns its sessions. In this case, the President of the Republic shall return the bill to the Permanent Committee.
 
-- Any bill  rejected  partially  or  totally  by  the  President  of  the  Republic  shall  be  returned  with  the respective corrections to the original House. The bill shall be discussed again in such House and, if confirmed by a two-thirds majority of votes, it shall be submitted again to the reviewer House. If a two-thirds majority of votes supports the bill at the second House, it shall be considered as enacted law or decree and shall be sent to the President of the Republic in order to be published.
+c) Any bill rejected partially or totally by the President of the Republic shall be returned with the respective corrections to the original House. The bill shall be discussed again in such House and, if confirmed by a two-thirds majority of votes, it shall be submitted again to the reviewer House. If a two-thirds majority of votes supports the bill at the second House, it shall be considered as enacted law or decree and shall be sent to the President of the Republic in order to be published.
 
 Voting for enacting laws or decrees shall be nominal.
 
-- If any bill is rejected in whole by the reviewing House, it shall be returned to the House where it was originated with the appropriate objections. The bill shall be again discussed in said House and, if  approved  by  the  absolute  majority  of  its  members  present,  it  shall  return  to  the  House  that rejected it, which shall analyze it again. If the second House approves the bill by the same majority, it shall be submitted to the President of the Republic, who has to comply the purposes of paragraph 'a'. If the second House does not approve the bill, it shall not be reintroduced in the same period of sessions.
+d) If any bill is rejected in whole by the reviewing House, it shall be returned to the House where it was originated with the appropriate objections. The bill shall be again discussed in said House and, if approved by the absolute majority of its members present, it shall return to the House that rejected it, which shall analyze it again. If the second House approves the bill by the same majority, it shall be submitted to the President of the Republic, who has to comply the purposes of paragraph 'a'. If the second House does not approve the bill, it shall not be reintroduced in the same period of sessions.
 
-- Any bill partially rejected, modified or added by the reviewing House, the new discussion in the original  House  shall  be  focused  on  the  rejected,  reformed  or  added  parts,  leaving  the  already approved  articles  unchanged.  If  the  additions  or  reforms  made  by  the  reviewing  House  are approved  by  absolute  majority  in  the  original  House,  the  whole  bill  shall  be  submitted  to  the President of the Republic, who has to observe the provisions established in paragraph 'a'. If the additions  or  reforms  made  by  the  reviewing  House  are  rejected  by  majority  of  the  members attending the original House, the bill shall be returned to the reviewing House which shall study the reasons of the first House. If those additions or reforms are rejected again after a second review, the
+e) Any bill partially rejected, modified or added by the reviewing House, the new discussion in the original House shall be focused on the rejected, reformed or added parts, leaving the already approved articles unchanged. If the additions or reforms made by the reviewing House are approved by absolute majority in the original House, the whole bill shall be submitted to the President of the Republic, who has to observe the provisions established in paragraph 'a'. If the additions or reforms made by the reviewing House are rejected by majority of the members attending the original House, the bill shall be returned to the reviewing House which shall study the reasons of the first House. If those additions or reforms are rejected again after a second review, the
 
 54
 
@@ -1885,15 +1895,15 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 part of the bill approved by both Houses shall be sent to the President of the Republic, who has to observe  the  provisions  established  in  paragraph  'a'.  If  the  absolute  majority  of  the  attending members at the reviewing Hose insists on enacting the additions and reforms, the whole bill shall be  postponed  until  a  the  new  period  of  sessions,  unless  the  absolute  majority  of  attending congressmen  at  both  Houses  agrees  on  enacting  only  the  approved  articles  of  the  bill  and  on submitting additions or reforms to the next period of sessions.
 
-- Regarding interpretation, reforms and repeal of laws or decrees, the same formalities established for enacting them shall be observed.
+f) Regarding interpretation, reforms and repeal of laws or decrees, the same formalities established for enacting them shall be observed.
 
-- Any  bill  rejected  in  the  first  House  shall  not  be  reintroduced  in  other  period  of  sessions corresponding to the same year.
+g) Any bill rejected in the first House shall not be reintroduced in other period of sessions corresponding to the same year.
 
-- Either  of  the  two  Houses  can  propose  a  law  or  decree  first,  except  by  the  bills  about  debenture loans, taxes or conscription, which shall be discussed first at the House of Representatives.
+h) Either of the two Houses can propose a law or decree first, except by the bills about debenture loans, taxes or conscription, which shall be discussed first at the House of Representatives.
 
-- If  the  Consultative Commission of the first House delays to present an opinion about the bill for more than one month, then the bill can be submitted to the other House for discussion.
+i) If the Consultative Commission of the first House delays to present an opinion about the bill for more than one month, then the bill can be submitted to the other House for discussion.
 
-- The President of the Republic cannot make comments on the resolutions of the Congress or any of the  Houses  when  act  as  electoral  body  or  judge,  as  well  as  when  the  House  of  Representatives charges a top-ranking official with official offences.
+j) The President of the Republic cannot make comments on the resolutions of the Congress or any of the Houses when act as electoral body or judge, as well as when the House of Representatives charges a top-ranking official with official offences.
 
 The President of the Republic cannot make comments on the decree of call for extraordinary period of sessions issued by the Permanent Committee.
 
@@ -1905,9 +1915,9 @@ The President of the Republic cannot make comments on the decree of call for ext
 
 The Congress shall have the power to:
 
-- Admit new states into the Union.
+I. Admit new states into the Union.
 
-- Repealed.
+II. Repealed.
 
 III. Create new states inside the limits of the existing ones. For this purpose, the following requirements must be met:
 
@@ -1935,7 +1945,7 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 IV. Repealed.
 
-- Move seat of Federal Government.
+V. Move seat of Federal Government.
 
 VI. Repealed.
 
@@ -1989,7 +1999,7 @@ XX. Enact laws to regulate the Mexican diplomatic and consular bodies.
 
 (First paragraph has been reformed through a decree published on June 18, 2008)
 
-XXI. Define offences against the country and the punishments to be applied. The Congress shall have the power to enact federal laws to fight kidnapping and trafficking in persons, which shall establish, at least,  the  different  kinds  of  kidnapping  and  trafficking  in  person,  the  punishment  to  be  applied,  the powers of the different levels of government and coordination ways between the federal, state and local agencies and the Federal District's agencies. The Congress shall also have the power to legislate on organized crime matter.
+XXI. Define offences against the country and the punishments to be applied. The Congress shall have the power to enact federal laws to fight kidnapping and trafficking in persons, which shall establish, at least, the different kinds of kidnapping and trafficking in person, the punishment to be applied, the powers of the different levels of government and coordination ways between the federal, state and local
 
 57
 
@@ -1998,6 +2008,8 @@ XXI. Define offences against the country and the punishments to be applied. The 
 [[START OF PAGE 56]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+agencies and the Federal District's agencies. The Congress shall also have the power to legislate on organized crime matter.
 
 (Added [N.E. amended] by decree published on June 25, 2012)
 
@@ -2019,7 +2031,7 @@ The  congress  shall  have  power  to  legislate  about:  a)  fossil  vestiges; 
 
 (Amended by public decree published on February 26, 2013) (Reformed by a decree published on April 30, 2009)
 
-XXV.  In  order  to  establish  the  Teaching  Professional  Service  in  terms  of  article  3rd  of  this Constitution;  establishing,  organizing  and  keeping  in  all  the  Republic  rural,  elementary,  junior  high, high and professional schools for scientific research, fine arts and technical teachings, agriculture and mining practice schools, arts and crafts school, museums, libraries, observatory and other institutions related to the general culture of the inhabitants of the nation, in order to legislate on traces and fossil remains and on archeological, artistic and history monuments, with a national interest preservation; as well as to pass laws oriented to distribute conveniently in the Federation, the States and Municipalities the exercise of the educative function and economic contributions corresponding to that public service, seeking to unify and coordinate education in all the Republic, and in order to ensure the fulfillment of all  purposes  of  education  and  a  continuous  improvement  in  the  inclusion  and  diversity  frame. Certificates  issued  by  the  establishments  concerned will  be  effective  in  all  the  Republic.  In  order  to legislate in the matter of copyrights and other intellectual property figures related to the same;
+XXV. In order to establish the Teaching Professional Service in terms of article 3rd of this Constitution; establishing, organizing and keeping in all the Republic rural, elementary, junior high, high and professional schools for scientific research, fine arts and technical teachings, agriculture and mining practice schools, arts and crafts school, museums, libraries, observatory and other institutions related to the general culture of the inhabitants of the nation, in order to legislate on traces and fossil remains and on archeological, artistic and history monuments, with a national interest preservation; as well as to pass laws oriented to distribute conveniently in the Federation, the States and Municipalities
 
 58
 
@@ -2028,6 +2040,8 @@ XXV.  In  order  to  establish  the  Teaching  Professional  Service  in  terms 
 [[START OF PAGE 57]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+the exercise of the educative function and economic contributions corresponding to that public service, seeking to unify and coordinate education in all the Republic, and in order to ensure the fulfillment of all purposes of education and a continuous improvement in the inclusion and diversity frame. Certificates issued by the establishments concerned will be effective in all the Republic. In order to legislate in the matter of copyrights and other intellectual property figures related to the same;
 
 (Amended by decree published on August 9, 2012)
 
@@ -2051,19 +2065,19 @@ XXIX-A. To lay and collect taxes on the following items:
 
 5th The Congress shall have the power to lay and collect special taxes on:
 
-- Electrical energy.
+a) Electrical energy.
 
-- Production and consumption of carved tobacco.
+b) Production and consumption of carved tobacco.
 
-- Gasoline and other products derived from oil.
+c) Gasoline and other products derived from oil.
 
-- Matches
+d) Matches
 
-- Maguey juice and its products.
+e) Maguey juice and its products.
 
-- Forest exploitation.
+f) Forest exploitation.
 
-- Production and consumption of beer.
+g) Production and consumption of beer.
 
 59
 
@@ -2133,9 +2147,9 @@ XXX. Enact all laws required to make effective the foregoing powers and any othe
 
 The Constitution grants the House of Representatives several exclusive powers:
 
-- The power to issue the Solemn Edict in order to inform the whole country that the Electoral Court of the Judicial Power has issued a declaration stating that the President of the Republic has been elected.
+I. The power to issue the Solemn Edict in order to inform the whole country that the Electoral Court of the Judicial Power has issued a declaration stating that the President of the Republic has been elected.
 
-- The power to coordinate and evaluate performance of the Federal Auditing Office, according to the law and without damage to its own technical and managerial autonomy.
+II. The power to coordinate and evaluate performance of the Federal Auditing Office, according to the law and without damage to its own technical and managerial autonomy.
 
 III. Repealed.
 
@@ -2177,7 +2191,7 @@ The House of Representatives shall be notified about the charges against public 
 
 VI. The power to review the public accounts corresponding to the previous year, in order to assess the results  thereof,  to  check  observance  of  the  criteria  stated  in  the  approved  budget,  and  to  verify achievement of the objectives indicated in the several programs.
 
-The House of Representatives shall review the public accounts through the Federal Auditing Office. If this office finds out discrepancies related to revenues or expenditures, or if it finds out inaccuracy or unjustified  revenues  or  expenditures,  the  law  shall  be  applied  to  punish  misconduct.  Regarding achievement of the objectives stated in the several programs, the House  can only issue a recommendation in accordance to the law.
+The House of Representatives shall review the public accounts through the Federal Auditing Office. If this office finds out discrepancies related to revenues or expenditures, or if it finds out inaccuracy or unjustified revenues or expenditures, the law shall be applied to punish misconduct. Regarding
 
 62
 
@@ -2187,7 +2201,9 @@ The House of Representatives shall review the public accounts through the Federa
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-Public account shall be submitted to the House of Representative no later than April 30 of the next year. This term may be extended only in the case mentioned in paragraph IV, last rows, of this Article. Extension  shall  not  exceed  30  days.  In  such  case,  the  Federal  Auditing  Office  shall  have  the  same extension to present the respective report.
+achievement of the objectives stated in the several programs, the House can only issue a recommendation in accordance to the law.
+
+Public account shall be submitted to the House of Representative no later than April 30 of the next year. This term may be extended only in the case mentioned in paragraph IV, last rows, of this Article. Extension shall not exceed 30 days. In such case, the Federal Auditing Office shall have the same extension to present the respective report.
 
 (Amended by decree published on August 9, 2012)
 
@@ -2267,11 +2283,11 @@ XII. Other exclusive powers conferred by this Constitution.
 
 Each of the Houses may, without the intervention of the other one:
 
-- Pronounce resolutions regarding its internal economic affairs.
+I. Pronounce resolutions regarding its internal economic affairs.
 
-- Communicate  with  the  other  House  and  with  the  President  of  the  Republic  through  internal committees.
+II. Communicate with the other House and with the President of the Republic through internal committees.
 
-- Appoint the employees for its own secretary's office and issue regulations for it.
+III. Appoint the employees for its own secretary's office and issue regulations for it.
 
 IV. In the event of a vacancy of a seat awarded according to the principle of majority voting, the House in question shall call to extraordinary elections within the 30 days after the vacancy appears. Elections shall be carried out within the 90 days after the call (see Article 63 of this Constitution). Except in the case the vacancy occurs in the last year of the term.
 
@@ -2285,9 +2301,9 @@ During recesses of the Congress of the Union, there shall be a Permanent Committ
 
 Besides the powers conferred by this Constitution, the Permanent Committee shall have the following powers:
 
-- To consent the use of National Guard in the cases described in the Article 76, paragraph IV.
+I. To consent the use of National Guard in the cases described in the Article 76, paragraph IV.
 
-- To receive the President of the Republic's oath, if applicable.
+II. To receive the President of the Republic's oath, if applicable.
 
 (Reformed by the decree published on August 17, 2011)
 
@@ -2295,7 +2311,7 @@ III.  To  resolve  issues  within  its  jurisdiction.  To  receive  bills,  comm
 
 (Amended by decree published on August 9, 2012)
 
-IV. Agree or by proposal of the Executive, the Congress convocation or from a single Chamber for extraordinary sessions, being necessary, in both cases, the vote of other two thirds of the attendants. The  convocation  will  appoint  the  objective  or  objectives  of  the  extraordinary  meetings.  When  the convocation  is  to  the  General  Congress  to  be  in  the  Electoral  College  and  appoints  the  interim  or alternate president, the approval of the convocation will by majority;
+IV. Agree or by proposal of the Executive, the Congress convocation or from a single Chamber for extraordinary sessions, being necessary, in both cases, the vote of other two thirds of the attendants. The convocation will appoint the objective or objectives of the extraordinary meetings. When the
 
 65
 
@@ -2305,7 +2321,9 @@ IV. Agree or by proposal of the Executive, the Congress convocation or from a si
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-V.  To  ratify  or  reject  the  candidate  nominated  by  the  President  of  the  Republic  to  be  the  Attorney General.
+convocation is to the General Congress to be in the Electoral College and appoints the interim or alternate president, the approval of the convocation will by majority;
+
+V. To ratify or reject the candidate nominated by the President of the Republic to be the Attorney General.
 
 (Amended by decree published on August 9, 2012)
 
@@ -2333,7 +2351,7 @@ The Federal Auditing Office shall be responsible for:
 
 (Reformed through a decree published on May 7, 2008)
 
-- Supervision  of:  a)  revenue  and  expenditures;  b)  management,  safekeeping  and  use  of  funds  and resources  belonging  to  the  Powers  of  the  Union  and  to  the  federal  agencies.  The  Federal  Auditing Office  shall  audit  fulfillment  of  the  objectives  included  in  the  several  federal  programs,  using  the reports submitted according to the law.
+I. Supervision of: a) revenue and expenditures; b) management, safekeeping and use of funds and resources belonging to the Powers of the Union and to the federal agencies. The Federal Auditing Office shall audit fulfillment of the objectives included in the several federal programs, using the reports submitted according to the law.
 
 The Federal Auditing Office shall also supervise: a) the management or use of federal resources made by  the  states,  local  councils,  the  Federal  District  and  their  government  agencies,  except  by  federal contributions; b) the use of federal resources granted to any public or private entity or individual, those transferred to trusts, mandates, funds or any other legal instrument, in accordance with the procedures established by law and without damage to other authorities' jurisdiction and to the users' rights.
 
@@ -2419,33 +2437,33 @@ The President of the United Mexican States is directly elected by the people acc
 
 Qualifications for the Presidency:
 
-- The candidate for the Presidency must be a natural born citizen, with legal capacity to exercise his rights, born of Mexican father or mother and must have live in the country for at least 20 years.
+I. The candidate for the Presidency must be a natural born citizen, with legal capacity to exercise his rights, born of Mexican father or mother and must have live in the country for at least 20 years.
 
-- The candidate for the Presidency must be 35 years of age on the election date.
+II. The candidate for the Presidency must be 35 years of age on the election date.
 
-- The candidate for the Presidency must have live in the country for a full year prior to the day of the election. Absences for up to 30 days do not interrupt residence.
+III. The candidate for the Presidency must have live in the country for a full year prior to the day of the election. Absences for up to 30 days do not interrupt residence.
 
-- The candidate for the Presidency cannot be priest or minister of any religion.
+IV. The candidate for the Presidency cannot be priest or minister of any religion.
 
-- The candidate should not be in active duty in the Army at least six months before the day of the election.
+V. The candidate should not be in active duty in the Army at least six months before the day of the election.
 
-- The candidate should not be State Secretary or Under-Secretary, Attorney General, Governor or Head of the Federal District Government, unless he resigns his position six months before the election date.
+VI. The candidate should not be State Secretary or Under-Secretary, Attorney General, Governor or Head of the Federal District Government, unless he resigns his position six months before the election date.
 
 VII. To be unaffected by the inabilities established under the Article 83.
 
 (Amended by decree published on August 9, 2012)
 
-##### Article 83.
+##### Article 83.-
 The President will begin his tenure on December 1st and will last six years in office. The citizen  who  had  performed  as  President  of  the  Republic,  popularly  elected  or  under  the  interim  or alternate character, or provisionally takes the titularity of the Federal Executive, in no case and under any circumstances may perform again this position.
 
 (Amended first paragraph by decree published on August 9, 2012)
 
-##### Article 84.
+##### Article 84.-
 In case of a complete absence of President of the Republic, while the Congress appoints the  interim  or  alternate  president,  in  a  term  no  longer  than  sixty  days,  the  Minister  of  Interior  will provisionally take the titularity of the Executive Power. In this case, sections II, III and VI of Article 82 of this Constitution will not be applicable.
 
 (Paragraph added by decree published on August 9, 2012)
 
-Whoever provisionally takes the Presidency will not be able to withdraw or appoint State Secretaries, or  the  Attorney  General  of  the  Republic,  without  the  previous  authorization  of  the  Chamber  of Senators. Likewise, he will delivered to the Congress of the Union a work report in a no longer than ten days period, starting at the moment when his commission ends.
+Whoever provisionally takes the Presidency will not be able to withdraw or appoint State Secretaries, or the Attorney General of the Republic, without the previous authorization of the Chamber of
 
 69
 
@@ -2454,6 +2472,8 @@ Whoever provisionally takes the Presidency will not be able to withdraw or appoi
 [[START OF PAGE 68]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+Senators. Likewise, he will delivered to the Congress of the Union a work report in a no longer than ten days period, starting at the moment when his commission ends.
 
 (Paragraph added by decree published on August 9, 2012)
 
@@ -2520,7 +2540,7 @@ The President of the Republic can leave the national territory for up to seven d
 
 The President of the Republic's powers and rights include the following:
 
-- To enact and execute the laws issued by the Congress of the Union in the administrative field.
+I. To enact and execute the laws issued by the Congress of the Union in the administrative field.
 
 (Amended by decree published on August 9, 2012)
 
@@ -2675,15 +2695,15 @@ Ministers  cannot  serve  a  second  term,  unless  they  have  held  the  offic
 
 To be appointed as minister of the Supreme Court of Justice of the Nation, it is required:
 
-- To be a Mexican citizen by birth, with legal capacity to exercise his political and civil rights.
+I. To be a Mexican citizen by birth, with legal capacity to exercise his political and civil rights.
 
-- To be at least 35 years old.
+II. To be at least 35 years old.
 
 III.  To  have a law degree, at least 10 years ago, issued by an institution legally empowered for that purpose.
 
 IV. To have a good reputation and not have been convicted for a crime punishable by imprisonment for more  than  one  year.  However,  should  the  crime  have  been  robbery,  fraud,  forgery,  breach  of confidence or any other which would seriously damage good reputation, he shall be disqualified for office, whatever penalty may have been.
 
-- To have lived in the country the last two years before appointment.
+V. To have lived in the country the last two years before appointment.
 
 VI.  Not  have  been  Secretary,  Attorney  General,  Minister  of  Justice  of  the  Federal  District,  senator, representative,  governor  or  Head  of  the  Federal  District  Government  the  whole  year  before  the appointment.
 
@@ -2691,7 +2711,7 @@ Preferably,  ministers  shall  be  persons  who  have  served  with  efficiency,
 
 ##### Article 96
 
-For  appointment  of  a  minister  of  the  Supreme  Court  of  Justice,  the  President  of  the  Republic  shall submit a list of three candidates to the Senate, who should listen them and then choose one by the twothird vote within a 30 days period of time. This period may not be extended. Should the Senate not decide within such term, then the President of the Republic shall appoint one person from the list he has proposed.
+For appointment of a minister of the Supreme Court of Justice, the President of the Republic shall submit a list of three candidates to the Senate, who should listen them and then choose one by the two-third vote within a 30 days period of time. This period may not be extended. Should the Senate not decide within such term, then the President of the Republic shall appoint one person from the list he has proposed.
 
 75
 
@@ -2767,7 +2787,7 @@ The Superior Electoral Court shall carry out the final count of votes in the ele
 
 III.  Contestations  of  acts  and  resolutions  issued  by  the  federal  electoral  authority,  different  to  those mentioned in the two previous paragraphs.
 
-IV.  Contestations  of  final  acts  and  resolutions  issued  by  the  state  electoral  authorities  related  to organization and assessment of elections; as well as controversies arisen during the election process that could affect such election process or the results thereof. This procedure shall be admissible only when the remedy requested is physically and legally possible within the electoral terms, and provided that it is feasible to be implemented before the date legally established for set up of the electoral bodies or  for  inauguration  of  elected  officials.  V.  Contestations  regarding  acts  and  resolutions  that  infringe political-electoral rights of citizens: right to vote, right to be elected, right to freely join a party, right to peaceful assembly, according to this Constitution and laws.
+IV. Contestations of final acts and resolutions issued by the state electoral authorities related to organization and assessment of elections; as well as controversies arisen during the election process
 
 77
 
@@ -2776,6 +2796,8 @@ IV.  Contestations  of  final  acts  and  resolutions  issued  by  the  state  e
 [[START OF PAGE 76]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+that could affect such election process or the results thereof. This procedure shall be admissible only when the remedy requested is physically and legally possible within the electoral terms, and provided that it is feasible to be implemented before the date legally established for set up of the electoral bodies or for inauguration of elected officials. V. Contestations regarding acts and resolutions that infringe political-electoral rights of citizens: right to vote, right to be elected, right to freely join a party, right to peaceful assembly, according to this Constitution and laws.
 
 Contestations, filed by citizens against the political party they are affiliated, will be valid only if the plaintiff has exhausted all the instances provided by the party for solution of internal conflicts. The law shall establish regulations and terms for this kind of contestations.
 
@@ -2797,7 +2819,7 @@ This Constitution and the laws shall regulate the organization of the Electoral 
 
 The Superior Electoral Court can bring cases from regional electoral courts at their request. Likewise, the Superior Electoral Court can submit cases to the regional electoral courts for resolution. The law shall establish regulations and procedures to exercise such kind of power.
 
-In accordance with the terms provided by the law, the administration, supervision and discipline of the Electoral Court shall pertain to a committee of the Federal Judicial Council, which shall be composed of: a) the president of the Electoral Court, who shall chair; b) a magistrate from the Superior Electoral Court,  elected  by  secret  vote;  and  c)  three  members  of  the  Federal  Judicial  Council.  The  Electoral Court shall submit its proposal about its own budget to the president of the Supreme Court of Justice in order to be included in the budget of the federal judicial branch. The Electoral Court shall issue its own internal regulations and decrees it should require to operate adequately.
+In accordance with the terms provided by the law, the administration, supervision and discipline of the Electoral Court shall pertain to a committee of the Federal Judicial Council, which shall be composed
 
 78
 
@@ -2807,7 +2829,9 @@ In accordance with the terms provided by the law, the administration, supervisio
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-Magistrates composing the High Court and the regional courts of the Electoral Court shall be proposed by  the  Supreme  Court  of  Justice  and  elected  by  the  vote  of  the  two-thirds  of  the  senators  present. Election of the magistrates shall be staggered, observing the rules and procedures established by law.
+of: a) the president of the Electoral Court, who shall chair; b) a magistrate from the Superior Electoral Court, elected by secret vote; and c) three members of the Federal Judicial Council. The Electoral Court shall submit its proposal about its own budget to the president of the Supreme Court of Justice in order to be included in the budget of the federal judicial branch. The Electoral Court shall issue its own internal regulations and decrees it should require to operate adequately.
+
+Magistrates composing the High Court and the regional courts of the Electoral Court shall be proposed by the Supreme Court of Justice and elected by the vote of the two-thirds of the senators present. Election of the magistrates shall be staggered, observing the rules and procedures established by law.
 
 Magistrates composing the High Court of the Electoral Court shall meet the requirements stated by the law, which may not be less than those required to be a minister of the Supreme Court of Justice of the Nation. Magistrates shall hold the office for a term of nine years. This term cannot be extended. The magistrates of the High Court of the Electoral Court shall submit their resignations, leaves and permits to the High Court of the Electoral Court, which shall process and grant them, as applicable according to the Article 98 of this Constitution.
 
@@ -2885,7 +2909,7 @@ B.-  The  Congress  of  the  Union  and  the  state  legislatures  shall  provid
 
 (Reformed by the decree published on June 10, 2011)
 
-These agencies shall issue public recommendations, which shall not be compulsory. They also shall file accusations and complaints with the appropriate authorities. All public servants are obliged to answer the recommendations issued by these agencies. When the authorities or public servants responsible do not accept or enforce these recommendations, they must substantiate such refusal and make it publish. In addition, the Senate, the Permanent Committee or the state congresses, as appropriate, may call, at the request of these agencies, the authorities or public servants responsible to appear and explain the reasons of such refusal.
+These agencies shall issue public recommendations, which shall not be compulsory. They also shall file accusations and complaints with the appropriate authorities. All public servants are obliged to answer the recommendations issued by these agencies. When the authorities or public servants responsible do not accept or enforce these recommendations, they must substantiate such refusal and make it publish. In addition, the Senate, the Permanent Committee or the state congresses, as appropriate, may call, at
 
 81
 
@@ -2894,6 +2918,8 @@ These agencies shall issue public recommendations, which shall not be compulsory
 [[START OF PAGE 80]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+the request of these agencies, the authorities or public servants responsible to appear and explain the reasons of such refusal.
 
 (Reformed by the decree published on June 10, 2011)
 
@@ -2935,9 +2961,9 @@ The federal courts shall resolve all disputes concerning:
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- Laws or acts issued by the authority, or omissions committed by the authority, which infringe the fundamental rights recognized and protected by this Constitution and the international treaties signed by Mexico.
+I. Laws or acts issued by the authority, or omissions committed by the authority, which infringe the fundamental rights recognized and protected by this Constitution and the international treaties signed by Mexico.
 
-- Laws or acts issued by the federal government and which break or restrict the sovereignty of the Mexican states or the Federal District.
+II. Laws or acts issued by the federal government and which break or restrict the sovereignty of the Mexican states or the Federal District.
 
 III. Laws and acts issued by the state authorities or the Federal District Government, which invade the federal authority's jurisdiction.
 
@@ -2945,15 +2971,15 @@ III. Laws and acts issued by the state authorities or the Federal District Gover
 
 The federal courts shall have jurisdiction over:
 
-- Proceedings relating to federal crimes.
+I. Proceedings relating to federal crimes.
 
 II. Any civil or mercantile controversy arisen about the observance and enforcement of federal laws or international  treaties  signed  by  Mexico.  The  plaintiff  can  filet  such  kind  of  controversy  with  an ordinary  court  when  the  controversy  affects  only  private  interests.  Sentences  pronounced  by  a  trial court may be challenged with the appropriate appellate court.
 
 III.  Review  resources  filed  against  final  rulings  pronounced  by  the  contentious-administrative  courts mentioned in the article 73, paragraph XXIX-H and in the Article 122, section IV, subdivision (e), of this Constitution, but only in the cases indicated by the law. Review resources that are to be heard by the specialized circuit courts shall be subject to the formalities established by the statutory law of the articles 103 and 107 of this Constitution. No trial or legal instrument shall be admissible against the rulings pronounced by the specialized circuit courts on such review resources.
 
-- Any controversy relating to maritime law.
+IV. Any controversy relating to maritime law.
 
-- Any controversy where the Federal Government is an interested party.
+V. Any controversy where the Federal Government is an interested party.
 
 VI. Any controversy or action mentioned in the Article 105, which can be resolved exclusively by the Supreme Court of Justice.
 
@@ -2967,9 +2993,9 @@ The Supreme Court of Justice of the Nation shall resolve the cases related to th
 
 (Amended by decree published in October 15, 2012)
 
-- About constitutional disputes, except for those referring to electoral matters, between:
+I. About constitutional disputes, except for those referring to electoral matters, between:
 
-- The Federal Government and one state or the Federal District.
+a) The Federal Government and one state or the Federal District.
 
 83
 
@@ -2979,25 +3005,25 @@ The Supreme Court of Justice of the Nation shall resolve the cases related to th
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- The Federal Government and one local authority.
+b) The Federal Government and one local authority.
 
-- The President of the Republic and the Congress of the Union; the President of the Republic and any of the Houses; or the President of the Republic and the Permanent Committee, acting as federal bodies or as Federal District's bodies.
+c) The President of the Republic and the Congress of the Union; the President of the Republic and any of the Houses; or the President of the Republic and the Permanent Committee, acting as federal bodies or as Federal District's bodies.
 
-- Two states.
+d) Two states.
 
-- A state and the Federal District.
+e) A state and the Federal District.
 
-- The Federal District and a local council.
+f) The Federal District and a local council.
 
-- Two local councils belonging to different states.
+g) Two local councils belonging to different states.
 
-- Two powers belonging to the same state about the constitutionality of their acts or regulations.
+h) Two powers belonging to the same state about the constitutionality of their acts or regulations.
 
-- A state and one of its local councils, about the constitutionality of their acts or regulations.
+i) A state and one of its local councils, about the constitutionality of their acts or regulations.
 
-- A  state  and  a  local  council  belonging  to  another  state,  about  the  constitutionality  of  their  acts  or regulations.
+j) A state and a local council belonging to another state, about the constitutionality of their acts or regulations.
 
-- Two agencies belonging to the Federal District Government, about the constitutionality of their acts or regulations.
+k) Two agencies belonging to the Federal District Government, about the constitutionality of their acts or regulations.
 
 The rulings taken by the Supreme Court of Justice, by a majority of eight vote, invalidating general provisions, shall have general compulsory effect; provided that the respective controversy is generated by the general provisions issued by a state or local council, and which are challenged by the Federal Government; or by the general provisions issued by a local council and which has been challenged by the state; or in the cases indicated in paragraphs 'c', 'h' and 'k'.
 
@@ -3007,9 +3033,9 @@ II. Unconstitutionality lawsuits directed to raise a contradiction between a gen
 
 Unconstitutionality  lawsuits  shall  be  initiated  within  the  30  days  after  publication  of  the  regulation, they shall be initiated by:
 
-- the 33% of the members of the House of Representatives against federal laws or laws enacted by the Congress and applicable to Federal District.
+a) the 33% of the members of the House of Representatives against federal laws or laws enacted by the Congress and applicable to Federal District.
 
-- the  33% of the members of the Senate against federal laws or laws enacted by the Congress and applicable to Federal District, or against international treaties signed by the Mexican State.
+b) the 33% of the members of the Senate against federal laws or laws enacted by the Congress and applicable to Federal District, or against international treaties signed by the Mexican State.
 
 84
 
@@ -3019,13 +3045,13 @@ Unconstitutionality  lawsuits  shall  be  initiated  within  the  30  days  afte
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- the Attorney General, against federal and state laws, or laws applicable to the Federal District, or against international treaties signed by the Mexican State.
+c) the Attorney General, against federal and state laws, or laws applicable to the Federal District, or against international treaties signed by the Mexican State.
 
 d) the 33% of the members of a state legislature, against laws enacted by such state legislature.
 
-- the 33% of the members of the Federal District's Assembly of Representatives, against laws enacted by the Assembly.
+e) the 33% of the members of the Federal District's Assembly of Representatives, against laws enacted by the Assembly.
 
-- the  political  parties  duly  registered  before  the  Federal  Electoral  Institute,  through  their  national leaders  and  against  federal  or  local  electoral  laws;  also,  the  state  parties,  through  their  leaders,  only against laws enacted by the state legislature that granted them registration.
+f) the political parties duly registered before the Federal Electoral Institute, through their national leaders and against federal or local electoral laws; also, the state parties, through their leaders, only against laws enacted by the state legislature that granted them registration.
 
 (Reformed by the decree published on June 10, 2011)
 
@@ -3081,7 +3107,7 @@ In a constitutional adjudication, any deficiency regarding the terms 'violation'
 
 Whenever  the  acts  claimed  in  the  constitutional  adjudication  deprive  or  may  deprive  the  farming cooperatives  or  communities  or  their  members  of  their  lands,  waters,  pasture  and  mountains,  all evidence that could benefit any of the aforesaid entities or individuals must be obtained at the court's own motion, and any proceedings that could be necessary to prove their rights must be ordered. Also, the nature and consequences of the claimed acts shall be defined.
 
-In the constitutional adjudication mentioned in the preceding paragraph, dismissal of the suit because of  procedural  inactivity  or  by  discontinuance  shall  not  be  admissible  to  the  detriment  of  farming cooperatives or indigenous communities, or to the detriment of a native or joint-title farmer. However, this kind of proceedings shall be admissible to their benefit. Waiving or express consent shall not be accepted when the claimed acts affect the community's rights, unless waiving or express consent are agreed by the General Assembly of the farming cooperative.
+In the constitutional adjudication mentioned in the preceding paragraph, dismissal of the suit because of procedural inactivity or by discontinuance shall not be admissible to the detriment of farming cooperatives or indigenous communities, or to the detriment of a native or joint-title farmer. However,
 
 86
 
@@ -3091,7 +3117,9 @@ In the constitutional adjudication mentioned in the preceding paragraph, dismiss
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-III.  The  constitutional  adjudication  against  rulings  pronounced  by  judicial,  administrative  or  labor courts shall be admissible only in the following cases:
+this kind of proceedings shall be admissible to their benefit. Waiving or express consent shall not be accepted when the claimed acts affect the community's rights, unless waiving or express consent are agreed by the General Assembly of the farming cooperative.
+
+III. The constitutional adjudication against rulings pronounced by judicial, administrative or labor courts shall be admissible only in the following cases:
 
 (Reformed by the decree published on June 6, 2011)
 
@@ -3103,13 +3131,13 @@ For the constitutional adjudication admissibility, first the plaintiff must  exh
 
 Violations  to  the  procedural  law  should  be  invoked  when  challenging  the  final  rulings,  binding judgments or resolutions that end the trial, provided that the plaintiff has challenged them through the ordinary instruments. However, this requirement does not apply to the constitutional adjudication filed against acts which affect the rights of minors or disabled persons, or affect the marital status or the family's order and stability, or the criminal acts filed by the defendant.
 
-- Against acts during a trial which enforcement would render them impossible to restitute, provided that all applicable appeals have been exhausted.
+b) Against acts during a trial which enforcement would render them impossible to restitute, provided that all applicable appeals have been exhausted.
 
-- Against acts affecting persons who are not involved in the trial.
+c) Against acts affecting persons who are not involved in the trial.
 
 (Reformed by the decree published on June 6, 2011)
 
-IV. Regarding the administrative matter, the constitutional adjudication is accepted also against rulings pronounced by other authorities, different to the judicial, administrative and labor courts, which caused irreparable offence. It is necessary to exhaust these means of impugnment, provided that the effects of such acts have been suspended by the court or by the plaintiff through the appropriate legal instrument. In  this  case,  the  constitutional  adjudication  shall  have  the  same  scope  than  the  one  indicated  by  the statutory law, and the requirements will be the same as required to grant the final suspension. Also, the term shall not be greater than the one established for provisional suspension, regardless of whether the act may be suspended or not, according to the law.
+IV. Regarding the administrative matter, the constitutional adjudication is accepted also against rulings pronounced by other authorities, different to the judicial, administrative and labor courts, which caused irreparable offence. It is necessary to exhaust these means of impugnment, provided that the effects of such acts have been suspended by the court or by the plaintiff through the appropriate legal instrument. In this case, the constitutional adjudication shall have the same scope than the one indicated by the statutory law, and the requirements will be the same as required to grant the final suspension. Also, the
 
 87
 
@@ -3119,21 +3147,23 @@ IV. Regarding the administrative matter, the constitutional adjudication is acce
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
+term shall not be greater than the one established for provisional suspension, regardless of whether the act may be suspended or not, according to the law.
+
 It is not necessary to exhaust such means of impugnment when the challenged act has no grounds, or when only direct violations to this Constitution are argued.
 
 (Reformed by the decree published on June 6, 2011)
 
 V. The constitutional adjudication against final sentences, binding judgments or rulings that end the trial, shall be filed with the competent specialized circuit court, according to the law, in the following cases:
 
-- Relating to criminal matter, against final rulings pronounced by federal, ordinary or military courts.
+a) Relating to criminal matter, against final rulings pronounced by federal, ordinary or military courts.
 
-- Relating  to  administrative  matter,  when  private  persons  challenge  final  sentences  or  rulings pronounced  by  administrative  or  judicial  courts,  provided  that  such  sentences  or  rulings  are  not repairable through a legal instrument, trial or any other ordinary means.
+b) Relating to administrative matter, when private persons challenge final sentences or rulings pronounced by administrative or judicial courts, provided that such sentences or rulings are not repairable through a legal instrument, trial or any other ordinary means.
 
-- Relating to civil matter, against final sentences pronounced in federal trials, or in federal or local mercantile trials, or in trials for common crimes.
+c) Relating to civil matter, against final sentences pronounced in federal trials, or in federal or local mercantile trials, or in trials for common crimes.
 
 In federal civil cases, sentences may be challenged through the constitutional adjudication by any of the interested parties, even the Federal Government, in defense of its pecuniary interests.
 
-- Relating  to  labor  issues,  when  the  constitutional  adjudication  challenges  binding  judgments pronounced by a federal or local Commission for Conciliation and Arbitration, or by the Federal Court of Conciliation and Arbitration for public employees.
+d) Relating to labor issues, when the constitutional adjudication challenges binding judgments pronounced by a federal or local Commission for Conciliation and Arbitration, or by the Federal Court of Conciliation and Arbitration for public employees.
 
 The  Supreme  Court  of  Justice  may  hear  direct  constitutional  adjudications  that  are  important  or transcendental, by its own motion or by motion justified and submitted by a specialized circuit court or by the Attorney General.
 
@@ -3159,7 +3189,7 @@ VIII.  The  sentences  pronounced  as  a  result  of  a  constitutional  adjudic
 
 a) In the event that the unconstitutionality still remains after the constitutional adjudication filed against general provisions.
 
-- In the cases mentioned in the Article 103, sections II and III, of this Constitution.
+b) In the cases mentioned in the Article 103, sections II and III, of this Constitution.
 
 The  Supreme  Court  of  Justice  may  hear  the  constitutional  adjudications  that  are  important  or transcendental, by its own motion or by motion justified and submitted by a specialized circuit court or by the Attorney General.
 
@@ -3375,7 +3405,7 @@ The state legislatures shall enact laws to empower City Councils to approve judi
 
 The purpose of such laws shall be to define:
 
-- The  general  basis  of  the  local  public  administration  and  the  administrative  procedures,  including legal  remedies  and  the  bodies  that  shall  resolve  the  controversies  that  could  arise  between  the  local
+a) The general basis of the local public administration and the administrative procedures, including legal remedies and the bodies that shall resolve the controversies that could arise between the local
 
 95
 
@@ -3389,35 +3419,35 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 government  and  private  individuals,  observing  the  principles  of  equality  before  the  law,  open  trial, hearing and legality.
 
-- The cases where the consent of the two-thirds of the City Council members is required to pronounce rulings  affecting  the  City  Council's  assets,  or  to  make  and  execute  agreements  or  acts  for  a  period longer than the term of the City Council in question.
+b) The cases where the consent of the two-thirds of the City Council members is required to pronounce rulings affecting the City Council's assets, or to make and execute agreements or acts for a period longer than the term of the City Council in question.
 
-- The norms to be applied to the agreements mentioned in the paragraphs III and IV of this article and in the second paragraph of the Article 116 of this Constitution.
+c) The norms to be applied to the agreements mentioned in the paragraphs III and IV of this article and in the second paragraph of the Article 116 of this Constitution.
 
-- The procedure to be followed by the state government in order to take charge of a local function or service  because  of  the  lack  of  a  service  provision  agreement.  In  this  case,  it  shall  be  necessary  a previous request from the City Council in question, approved by at least the two-thirds of its members.
+d) The procedure to be followed by the state government in order to take charge of a local function or service because of the lack of a service provision agreement. In this case, it shall be necessary a previous request from the City Council in question, approved by at least the two-thirds of its members.
 
-- The provisions to be applied in those municipalities where there are not ordinances.
+e) The provisions to be applied in those municipalities where there are not ordinances.
 
 State legislatures shall establish the procedures to be followed in order to resolve conflicts that may arise  between  the  City  Councils  and  the  state  government,  or  between  two  or  more  City  Councils, caused by the acts mentioned in the previous paragraphs 'c' and 'd'.
 
 III. City Councils shall be in charge of the following functions and public services:
 
-- Drinking water, drainage, sewerage system, treatment and disposal of sewage.
+a) Drinking water, drainage, sewerage system, treatment and disposal of sewage.
 
-- Street lighting.
+b) Street lighting.
 
-- Garbage cleaning, collection, transport, treatment and final disposal.
+c) Garbage cleaning, collection, transport, treatment and final disposal.
 
-- Municipal markets and wholesale markets.
+d) Municipal markets and wholesale markets.
 
-- Cemeteries.
+e) Cemeteries.
 
-- Slaughterhouse.
+f) Slaughterhouse.
 
-- Streets, parks and gardens, as well as their equipment.
+g) Streets, parks and gardens, as well as their equipment.
 
-- Public security, according to the provisions established by the Article 21 of this Constitution, as well as the local police.
+h) Public security, according to the provisions established by the Article 21 of this Constitution, as well as the local police.
 
-- Other affairs determined by the state legislature, depending on the territorial, social and economic conditions of the municipality and on the administrative and financial resources of the City Council.
+i) Other affairs determined by the state legislature, depending on the territorial, social and economic conditions of the municipality and on the administrative and financial resources of the City Council.
 
 The  City  Councils  shall  observe  the  federal  and  state  laws,  provided  that  they  do  not  affect  their functions or public service provision.
 
@@ -3435,13 +3465,13 @@ Indigenous  communities  belonging  to  the  same  municipality  can  also  coor
 
 IV. City Councils shall freely manage their properties and assets, which shall be composed of the yields generated  by  their  properties,  as  well  as  of  the  taxes  and  other  revenues  authorized  by  the  state legislatures. City Council's assets shall include:
 
-- Property  tax  and  taxes  on  breaking  up,  division,  consolidation,  improvement  and  transfer  of property, as well as any others that result from a change in the value of real estate.
+a) Property tax and taxes on breaking up, division, consolidation, improvement and transfer of property, as well as any others that result from a change in the value of real estate.
 
 City Councils can make and execute agreements with the state to authorize the state government to take charge of some functions regarding to management of local taxes.
 
-- Federal  contributions  authorized  annually  by  the  state  legislature,  specifying  conditions,  amounts and terms.
+b) Federal contributions authorized annually by the state legislature, specifying conditions, amounts and terms.
 
-- Revenue generated by provision of public services.
+c) Revenue generated by provision of public services.
 
 Federal laws shall not restrict the power of the state legislatures to fix the taxes and prices of the public services mentioned in the previous paragraphs 'a' and 'c'. Federal laws shall not grant tax exemptions thereof.  State  laws  shall  not  grant  tax  exemptions  or  allowances  to  the  benefit  of  any  person  or institution. Only the properties belonging to the federal, state and local governments shall be exempt from taxes, provided that they are not used by semipublic or private entities for purposes different to those defined as public purpose.
 
@@ -3461,25 +3491,25 @@ The resources constituting the municipal treasury shall be applied directly by t
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- In accordance with the terms provided by the applicable federal and state laws, the City Councils shall have power to:
+V. In accordance with the terms provided by the applicable federal and state laws, the City Councils shall have power to:
 
-- Plan, approve and manage urbanization and urban development.
+a) Plan, approve and manage urbanization and urban development.
 
-- Participate in the creation and administration of its own territorial reserves.
+b) Participate in the creation and administration of its own territorial reserves.
 
-- Participate  in  regional  development  planning.  Federal  and  state  governments  shall  invite  City Councils to participate in regional development planning.
+c) Participate in regional development planning. Federal and state governments shall invite City Councils to participate in regional development planning.
 
-- Authorize, control and supervise land use within their territory and jurisdiction.
+d) Authorize, control and supervise land use within their territory and jurisdiction.
 
-- Intervene in regularization of urban land tenure.
+e) Intervene in regularization of urban land tenure.
 
-- Grant construction permits.
+f) Grant construction permits.
 
-- Participate in creation and administration of nature reserves and in development and application of rules on this topic.
+g) Participate in creation and administration of nature reserves and in development and application of rules on this topic.
 
-- Intervene in development and implementation of public transportation programs, provided that such programs affect the City Council's territory.
+h) Intervene in development and implementation of public transportation programs, provided that such programs affect the City Council's territory.
 
-- Make and execute agreements to manage and protect federal zones.
+i) Make and execute agreements to manage and protect federal zones.
 
 The City Councils shall have power to issue administrative regulations and provisions necessary for the performance of their duties,  where  applicable  and  according  to  the  purposes  established  in  the  third paragraph of the Article 27 of this Constitution.
 
@@ -3511,7 +3541,7 @@ Public power of a state shall be divided into three branches: executive, legisla
 
 Public  powers  of  a  state  shall  be  subjected  to  the  state  constitution,  according  to  the  following provisions:
 
-- Governors shall hold the office during a term of six years.
+I. Governors shall hold the office during a term of six years.
 
 Governors and state representatives shall be elected by direct vote in accordance with that established in the applicable electoral law.
 
@@ -3519,9 +3549,9 @@ The incumbent governors cannot be elected for a second period, even as interim, 
 
 The following public servants may never be elected for the subsequent term:
 
-- The substitute of a governor or the person appointed to finish the term due to the absolute absence of the incumbent governor, even if the position has a different name.
+a) The substitute of a governor or the person appointed to finish the term due to the absolute absence of the incumbent governor, even if the position has a different name.
 
-- The interim governor, the provisional governor or the person appointed to substitute the governor during temporary absences, which take place during the last two years of the governor's term.
+b) The interim governor, the provisional governor or the person appointed to substitute the governor during temporary absences, which take place during the last two years of the governor's term.
 
 (Reformed through a decree published on September 26, 2008)
 
@@ -3585,25 +3615,25 @@ Magistrates and judges shall receive an adequate remuneration, which is non-nego
 
 IV. State constitutions and state electoral laws shall guarantee that:
 
-- Elections  of  governors,  members  of  the  local  legislatures  and  members  of  the  City  Councils  are carried out through the universal, free, secret and direct suffrage, and that the elections take place the first Sunday of July of the respective year. This provision shall not be applicable to the states where elections take place the same year than federal elections, but not the same day.
+a) Elections of governors, members of the local legislatures and members of the City Councils are carried out through the universal, free, secret and direct suffrage, and that the elections take place the first Sunday of July of the respective year. This provision shall not be applicable to the states where elections take place the same year than federal elections, but not the same day.
 
-- The principles of certainty, impartiality, independence, legality and objectivity govern the work of the electoral authorities.
+b) The principles of certainty, impartiality, independence, legality and objectivity govern the work of the electoral authorities.
 
-- The authorities in charge of organizing elections and the authorities that resolve electoral disputes are autonomous in the exercise of their functions and are independent while making decisions.
+c) The authorities in charge of organizing elections and the authorities that resolve electoral disputes are autonomous in the exercise of their functions and are independent while making decisions.
 
-- The  administrative  electoral  authority  has  the  power  to  make  and  execute  an  agreement  with  the Federal Electoral Institute, so that this entity organizes local elections.
+d) The administrative electoral authority has the power to make and execute an agreement with the Federal Electoral Institute, so that this entity organizes local elections.
 
-- Political  parties  are  composed  only  of  citizens,  without  intervention  of  labor-unions  or  other organizations, and that political parties are not affiliated to a corporation. State constitutions and state electoral laws shall also guarantee that the political parties have the right to register candidates, except by that established in the Article 2, section A, paragraphs III and VII, of this Constitution.
+e) Political parties are composed only of citizens, without intervention of labor-unions or other organizations, and that political parties are not affiliated to a corporation. State constitutions and state electoral laws shall also guarantee that the political parties have the right to register candidates, except by that established in the Article 2, section A, paragraphs III and VII, of this Constitution.
 
-- Electoral  authorities  shall  intervene  in  the  internal  affairs  of  the  parties  only  according  to  the provisions established by the electoral laws.
+f) Electoral authorities shall intervene in the internal affairs of the parties only according to the provisions established by the electoral laws.
 
-- Political parties receive public funding, in a fair manner, for their permanent ordinary activities and electoral activities. State constitutions and state electoral laws shall also establish procedures to settle political parties that lose registration and shall decide over their properties and balances.
+g) Political parties receive public funding, in a fair manner, for their permanent ordinary activities and electoral activities. State constitutions and state electoral laws shall also establish procedures to settle political parties that lose registration and shall decide over their properties and balances.
 
-- State constitutions and state electoral laws shall define restrictions to the expenditures made by the political parties during run-up and campaigns, as well as to the contributions made by sympathizers. The total amount of such contributions must not exceed 10% of the expenditure permitted by law for campaigns for governors. State constitutions and state electoral laws shall also establish procedures to control and supervise the origin and use of the political parties' resources, and shall define the penalties applicable to offenders.
+h) State constitutions and state electoral laws shall define restrictions to the expenditures made by the political parties during run-up and campaigns, as well as to the contributions made by sympathizers. The total amount of such contributions must not exceed 10% of the expenditure permitted by law for campaigns for governors. State constitutions and state electoral laws shall also establish procedures to control and supervise the origin and use of the political parties' resources, and shall define the penalties applicable to offenders.
 
-- The political parties have access to airtime in radio and television, according to the rules established in the Article 41, section III, paragraph B, of this Constitution.
+i) The political parties have access to airtime in radio and television, according to the rules established in the Article 41, section III, paragraph B, of this Constitution.
 
-- State  constitutions and state electoral laws shall regulate run-up and electoral campaigns and shall establish the appropriate penalties to offenders. Campaigns for governors shall last no longer than 90
+j) State constitutions and state electoral laws shall regulate run-up and electoral campaigns and shall establish the appropriate penalties to offenders. Campaigns for governors shall last no longer than 90
 
 101
 
@@ -3635,9 +3665,9 @@ State government and City Councils can make and execute agreements to provide pu
 
 In not case shall the states:
 
-- Conclude alliances or coalitions, or make treaties with any other state or foreign government.
+I. Conclude alliances or coalitions, or make treaties with any other state or foreign government.
 
-- Repealed
+II. Repealed
 
 III. Mint money or issue money, stamps or stamped paper.
 
@@ -3669,9 +3699,9 @@ The Congress of the Union and the state legislatures shall enact laws to fight a
 
 Without the Congress of the Union's consent, the states cannot:
 
-- Establish tonnage duties or any other port duties, or levy a tax on importing or exports.
+I. Establish tonnage duties or any other port duties, or levy a tax on importing or exports.
 
-- Have permanent troops or warships.
+II. Have permanent troops or warships.
 
 III. Declare war against foreign nation, except for cases of invasion or imminent danger. In such case, the state shall notify immediately the President of the Republic.
 
@@ -3679,7 +3709,7 @@ III. Declare war against foreign nation, except for cases of invasion or imminen
 
 The Powers of the Union have the duty to protect the states against foreign invasion or violence. In the event of uprising or internal social unrest, the Powers of the Union must protect the state, as long as they are called by the state legislature, or by the governor if legislature is not in session.
 
-Each state and the Federal District are obliged to deliver, without delay, those suspected, processed or convicted persons required by another state, as well as to carry out confiscation and delivery of objects and instruments used in perpetration of the crime and the benefits thereof. These obligations will be complied  through  the  respective  Ministries  of  Justice,  observing  the  conditions  established  in  the collaboration agreements made by the states. For this purpose, the states and the Federal District can make and execute collaboration agreements with the Federal Government, who shall act through the Attorney General's Office.
+Each state and the Federal District are obliged to deliver, without delay, those suspected, processed or convicted persons required by another state, as well as to carry out confiscation and delivery of objects and instruments used in perpetration of the crime and the benefits thereof. These obligations will be complied through the respective Ministries of Justice, observing the conditions established in the
 
 103
 
@@ -3688,6 +3718,8 @@ Each state and the Federal District are obliged to deliver, without delay, those
 [[START OF PAGE 102]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+collaboration agreements made by the states. For this purpose, the states and the Federal District can make and execute collaboration agreements with the Federal Government, who shall act through the Attorney General's Office.
 
 Calls for extradition, made by a foreign State, shall be processed by the President of the Republic, with the intervention of the judicial authority in accord with the provisions stated in this Constitution, in the applicable international treaties and in the statutory laws. In those cases, the writ of the judge, ordering to comply with the call for extradition, shall be enough to cause the person requested to be detained for up to 60 calendar days.
 
@@ -3699,9 +3731,9 @@ Governors are obliged to publish and uphold federal laws.
 
 Each state of the Federation shall give full faith and credit to the public acts, registrations and judicial proceedings made by the other states. The Congress of the Union, through general laws, shall establish the way for proving such acts, registrations and judicial proceedings and their effect, in accord with the following bases:
 
-- The laws of a state only have effect inside its territory, as a consequence, they have no effect outside thereof.
+I. The laws of a state only have effect inside its territory, as a consequence, they have no effect outside thereof.
 
-- Personal property and real estate shall be subject to the local law applicable to the place where they are located.
+II. Personal property and real estate shall be subject to the local law applicable to the place where they are located.
 
 III. Sentences passed by a court of a state about property rights on properties located in another state, may only be enforced in the other state when its own laws so provide it.
 
@@ -3709,7 +3741,7 @@ Sentences  about  personal  rights  may  only  be  enforced  in  other  state  w
 
 IV. Acts pertaining to marital status, carried out according to the laws of a state, shall be valid in the other states.
 
-- University degrees issued by a state government, in accord with its laws, shall be valid in the other states.
+V. University degrees issued by a state government, in accord with its laws, shall be valid in the other states.
 
 ##### Article 122
 
@@ -3735,29 +3767,29 @@ The distribution of areas of jurisdiction among the Powers of the Union and the 
 
 A. It pertains to the Congress of the Union:
 
-- To legislate on what is relative to the Federal District, except for the affairs expressly conferred on the Assembly of Representatives.
+I. To legislate on what is relative to the Federal District, except for the affairs expressly conferred on the Assembly of Representatives.
 
-- To issue the Government Code for the Federal District.
+II. To issue the Government Code for the Federal District.
 
-- To enact laws that regulate the public debt of the Federal District.
+III. To enact laws that regulate the public debt of the Federal District.
 
 IV. To issue the general provisions that guarantee the appropriate, timely and efficient functioning of the Powers of the Union.
 
-- The other powers conferred by this Constitution.
+V. The other powers conferred by this Constitution.
 
-- It pertains to the President of the Republic:
+B. It pertains to the President of the Republic:
 
-- To propose laws to the Congress of the Union related to the Federal District.
+I. To propose laws to the Congress of the Union related to the Federal District.
 
-- To  propose  to  the  Senate  the  person  who  should  substitute  the  Head  of  the  Federal  District Government in the event of his removal.
+II. To propose to the Senate the person who should substitute the Head of the Federal District Government in the event of his removal.
 
 III. To submit annually to the Congress of the Union his proposal of indebtedness in order to fund the expenditure budget of the Federal District, based on the proposal submitted to him by the Head of the Federal District Government, which shall meet the requirements established by law.
 
-IV.  To  uphold  the  administrative  laws  enacted  by  the  Congress  of  the  Union  related  to  the  Federal District.
+IV. To uphold the administrative laws enacted by the Congress of the Union related to the Federal District.
 
-- The other powers conferred by this Constitution, the Government Code and the laws.
+V. The other powers conferred by this Constitution, the Government Code and the laws.
 
-- The Government Code of the Federal District shall be subject to the following bases:
+C. The Government Code of the Federal District shall be subject to the following bases:
 
 105
 
@@ -3770,9 +3802,9 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 ###### FIRST BASE .
 Regarding the Assembly of Representatives:
 
-- The  members  of  the  Assembly  of  Representatives  shall  be  elected  every  three  years  through universal, free, direct and secret vote, in accord with the provisions established by law. The Assembly of  Representatives  shall  take  into  account  that  established  in  the  Articles  41,  60  and  99  of  this Constitution  in  order  to  organize  elections,  issue  the  certificates  of  majority  and  accept  the  legal remedies on electoral matter.
+I. The members of the Assembly of Representatives shall be elected every three years through universal, free, direct and secret vote, in accord with the provisions established by law. The Assembly of Representatives shall take into account that established in the Articles 41, 60 and 99 of this Constitution in order to organize elections, issue the certificates of majority and accept the legal remedies on electoral matter.
 
-- Qualifications to be a representative in the Assembly shall not be less than those required to be a federal deputy. The compatible provisions included in the Articles 51, 59, 61, 62, 64 and 77, paragraph IV, of this Constitution shall be applied to the Assembly of Representatives and its members.
+II. Qualifications to be a representative in the Assembly shall not be less than those required to be a federal deputy. The compatible provisions included in the Articles 51, 59, 61, 62, 64 and 77, paragraph IV, of this Constitution shall be applied to the Assembly of Representatives and its members.
 
 (Amended [N.E. first paragraph] by decree published on August 9, 2012)
 
@@ -3784,17 +3816,17 @@ In  no  case,  a  political  party  may  have  a  number  of  representatives  b
 
 IV. The Assembly of Representatives shall fix the dates for the beginning of two ordinary periods of sessions per year, and shall establish the procedure to make up an internal organ of government that will  act  during  its  recesses,  as  well  as  the  attributions  of  such  internal  organ.  The  internal  organ  of government can call to an extraordinary period of sessions at the request of the majority of its members or of the Head of the Federal District Government.
 
-- The  Assembly  of  Representatives,  observing  the  Government  Code,  shall  have  the  following powers:
+V. The Assembly of Representatives, observing the Government Code, shall have the following powers:
 
-- To issue its own organic law and to send it to the Head of the Federal District Government so that it is published.
+a) To issue its own organic law and to send it to the Head of the Federal District Government so that it is published.
 
 (Reformed through a decree published on August 24, 2009)
 
-- To review, discuss and approve annually the expense budget and the revenue law for the Federal District, approving first the contributions necessary to cover the budget. Such budget shall include the salaries of the public servants, which shall be subject to the provisions established in the Article 127 of this Constitution.
+b) To review, discuss and approve annually the expense budget and the revenue law for the Federal District, approving first the contributions necessary to cover the budget. Such budget shall include the salaries of the public servants, which shall be subject to the provisions established in the Article 127 of this Constitution.
 
 (Paragraph added through a decree published on August 24, 2009)
 
-All  the  legislative,  executive  and  judicial  organs  of  the  Federal  District,  as  well  as  the  autonomous bodies mentioned in the Government Code of the Federal District, shall include the salaries of their employees in their proposals of expenditure budgets. The Government Code of the Federal District and the  applicable  laws  shall  establish  the  procedure  to  approve  the  expenditure  budget  of  the  Federal District.
+All the legislative, executive and judicial organs of the Federal District, as well as the autonomous bodies mentioned in the Government Code of the Federal District, shall include the salaries of their
 
 106
 
@@ -3803,6 +3835,8 @@ All  the  legislative,  executive  and  judicial  organs  of  the  Federal  Dist
 [[START OF PAGE 105]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+employees in their proposals of expenditure budgets. The Government Code of the Federal District and the applicable laws shall establish the procedure to approve the expenditure budget of the Federal District.
 
 (This paragraph was moved from the second to the third place through a decree published on August 24, 2009)
 
@@ -3830,11 +3864,11 @@ Public account corresponding to the previous year shall be submitted to the Asse
 
 The  Head  of  the  Auditing  Office  of  the  Federal  District  shall  be  elected  by  the  two-thirds  of  the members present in the Assembly of Representatives. He shall hold the office for a seven years period and shall have five years experience in matters of control, financial auditing and liabilities.
 
-- To appoint a substitute for the Head of the Federal District Government in case of absolute absence.
+d) To appoint a substitute for the Head of the Federal District Government in case of absolute absence.
 
 (Paragraph reformed through a decree published on May 7, 2008)
 
-e)  To  issue  the  legal  provisions  required  to  organize  public  treasury,  the  budget,  bookkeeping  and public  spending  of  the  Federal  District,  as  well  as  the  provisions  required  to  organize  the  Auditing Office, vesting it with technical and operational autonomy to perform its functions and to decide its internal organization, functioning and decision making. Auditing function shall be exercised according to the principles of posteriority, annuity, legality, impartiality and reliability.
+e) To issue the legal provisions required to organize public treasury, the budget, bookkeeping and public spending of the Federal District, as well as the provisions required to organize the Auditing Office, vesting it with technical and operational autonomy to perform its functions and to decide its
 
 107
 
@@ -3844,35 +3878,37 @@ e)  To  issue  the  legal  provisions  required  to  organize  public  treasury,
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
+internal organization, functioning and decision making. Auditing function shall be exercised according to the principles of posteriority, annuity, legality, impartiality and reliability.
+
 (Reformed through a decree published on November 13, 2007)
 
-- To  issue  the  provisions  required  to  guarantee  free  and  authentic  elections  in  the  Federal  District through  the  universal,  free,  secret  and  direct  suffrage,  according  to  the  bases  established  by  the Government Code, which shall observe the principles and rules provided in the Article 116, section IV, paragraphs 'b' to 'n', of this Constitution. Provisions established in the paragraphs 'j' and 'm' for governors, local representatives and City Councils shall apply, respectively, to the Head of the Federal District Government, members of the Assembly of Representatives and district chiefs.
+f) To issue the provisions required to guarantee free and authentic elections in the Federal District through the universal, free, secret and direct suffrage, according to the bases established by the Government Code, which shall observe the principles and rules provided in the Article 116, section IV, paragraphs 'b' to 'n', of this Constitution. Provisions established in the paragraphs 'j' and 'm' for governors, local representatives and City Councils shall apply, respectively, to the Head of the Federal District Government, members of the Assembly of Representatives and district chiefs.
 
-- To legislate in matters of local administration, its internal organization and internal administrative procedures.
+g) To legislate in matters of local administration, its internal organization and internal administrative procedures.
 
-- To regulate the Human rights Commission and to legislate in civil and criminal matters and in other matters like citizen participation, defender service, notary service and the land and commerce registry.
+h) To regulate the Human rights Commission and to legislate in civil and criminal matters and in other matters like citizen participation, defender service, notary service and the land and commerce registry.
 
-- To establish standards for civil protection, for penalties applicable to the employees of police bodies and the government, for the security services provided by private companies, for prevention and social readjustment, for public health and social work, and for social security.
+i) To establish standards for civil protection, for penalties applicable to the employees of police bodies and the government, for the security services provided by private companies, for prevention and social readjustment, for public health and social work, and for social security.
 
-- To  legislate  in  matters  of  development  planning;  urban  development,  specially  on  land  use; environmental preservation; housing; construction; public roads; traffic and parking; acquisitions and public works; and exploitation and use of the Federal District's resources.
+j) To legislate in matters of development planning; urban development, specially on land use; environmental preservation; housing; construction; public roads; traffic and parking; acquisitions and public works; and exploitation and use of the Federal District's resources.
 
-- To  regulate  provision  and  contracts  of  public  services;  to  legislate  in  matters  of  public  transport, cleaning services, tourism and lodging, markets, slaughterhouse, wholesale markets and cemeteries.
+k) To regulate provision and contracts of public services; to legislate in matters of public transport, cleaning services, tourism and lodging, markets, slaughterhouse, wholesale markets and cemeteries.
 
-- To  issue  regulations  on  economic  stimulations;  employment  protection;  development  of  the agricultural and livestock sector; commercial establishments; animal protection; public shows; cultural, civic  and  sports  promotion;  and  social  education  in  accord  with  the  Article  3,  section  VIII,  of  this Constitution.
+l) To issue regulations on economic stimulations; employment protection; development of the agricultural and livestock sector; commercial establishments; animal protection; public shows; cultural, civic and sports promotion; and social education in accord with the Article 3, section VIII, of this Constitution.
 
-- To enact the organic law of the courts in charge of common affairs under the jurisdiction of the Federal District, which shall specify the accountabilities of their public servants.
+m) To enact the organic law of the courts in charge of common affairs under the jurisdiction of the Federal District, which shall specify the accountabilities of their public servants.
 
-- To enact the organic law of the Court of Administrative Litigation of the Federal District.
+n) To enact the organic law of the Court of Administrative Litigation of the Federal District.
 
-- ñ) To submit bills to the Congress related to the Federal District's affairs.
+ñ) To submit bills to the Congress related to the Federal District's affairs.
 
 (Included by decree published on August 9, 2012)
 
-- To set in law the terms and requirements for the citizens of the Federal District to exercise the right of initiative before the Assembly, and
+o) To set in law the terms and requirements for the citizens of the Federal District to exercise the right of initiative before the Assembly, and
 
 (moved by the decree published on August 9, 2012 )
 
-- Other powers conferred expressly by this Constitution.
+p) Other powers conferred expressly by this Constitution.
 
 108
 
@@ -3885,25 +3921,25 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 ###### SECOND BASE :
 Regarding the Head of the Federal District Government:
 
-- The Head of the Federal District Government shall hold office for a six years term, beginning on the 5 th day of December of the year in which election was carried out, in accordance with that established in the electoral law.
+I. The Head of the Federal District Government shall hold office for a six years term, beginning on the 5th day of December of the year in which election was carried out, in accordance with that established in the electoral law.
 
 In order to be eligible for the office of the Head of the Federal District Government, the individual shall meet the requirements established by the Government Code, including: a) to be a Mexican citizen by birth with legal capacity to exercise his rights; b) to have lived in the Federal District for the three years previous to the date of the election, if he was born in the Federal District; c) to have lived in the Federal District for the five years previous to the date of the election, in a continuous manner, if he was born in another entity; d) to be at least 30 years old on the election day; e) not to have discharged previously the  office  of  the  Head  of  the  Federal  District  Government  with  any  character.  Residence  is  not interrupted by the discharge of federal public duties in another state.
 
 In the event of dismissal of the Head of the Federal District Government, the Senate shall appoint a substitute to finish the mandate. Such substitute must be proposed by the President of the Republic. In the event of a temporary absence of the Head of the Federal District Government, the office shall be entrusted to the public servant indicated in the Government Code. In case of absolute absence, because of  resignation  or  any  other  cause,  the  Assembly  of  Representatives  shall  appoint  a  substitute  that finishes the term. Resignation of the Head of the Federal District Government shall be accepted only due to serious causes. The Government Code shall regulate the leaves for this office.
 
-- The Head of the Federal District Government shall have the following powers and duties:
+II. The Head of the Federal District Government shall have the following powers and duties:
 
-- To comply and execute the administrative laws applicable to the Federal District, which are enacted by the Congress of the Union.
+a) To comply and execute the administrative laws applicable to the Federal District, which are enacted by the Congress of the Union.
 
-- To pass, publish and execute the administrative laws issued by the Assembly of Representatives by means of issuing regulations, decrees and covenants. The Head of the Federal District Government, within  a  ten  days  term,  can  make  comments  about  the  laws  submitted  to  him  by  the  Assembly  of Representatives for enactment. Should the project with comments be confirmed by the two-thirds of the deputies present, it must be enacted by the Head of the Federal District Government.
+b) To pass, publish and execute the administrative laws issued by the Assembly of Representatives by means of issuing regulations, decrees and covenants. The Head of the Federal District Government, within a ten days term, can make comments about the laws submitted to him by the Assembly of Representatives for enactment. Should the project with comments be confirmed by the two-thirds of the deputies present, it must be enacted by the Head of the Federal District Government.
 
-- To submit bills to the Assembly of Representatives.
+c) To submit bills to the Assembly of Representatives.
 
-- To appoint and remove freely the public servants subordinated to the local executive organ, whose appointment or dismissal is not foreseen in a different manner by this Constitution or by the applicable laws.
+d) To appoint and remove freely the public servants subordinated to the local executive organ, whose appointment or dismissal is not foreseen in a different manner by this Constitution or by the applicable laws.
 
-- To manage public security services in accord with the Government Code.
+e) To manage public security services in accord with the Government Code.
 
-- Other powers and duties conferred by this Constitution, the Government Code and the law.
+f) Other powers and duties conferred by this Constitution, the Government Code and the law.
 
 ###### THIRD BASE .
 Regarding the organization of the local public administration in the Federal District:
@@ -3916,9 +3952,9 @@ Regarding the organization of the local public administration in the Federal Dis
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- The  Government Code shall distribute attributions among the central organs and the decentralized bodies.
+I. The Government Code shall distribute attributions among the central organs and the decentralized bodies.
 
-- The Government Code shall establish the political-administrative agencies in every neighborhood of the Federal District.
+II. The Government Code shall establish the political-administrative agencies in every neighborhood of the Federal District.
 
 It  shall  also  specify:  the  criteria  to  carry  out  the  territorial  division  of  the  Federal  District;  the responsibilities of each one of the political-administrative agencies, the way to create them and their functioning; relationships between such political-administrative agencies and the Head of the Federal District Government.
 
@@ -3927,7 +3963,7 @@ Directors of the political-administrative agencies shall be elected through a un
 ###### FOURTH BASE .
 Regarding the Supreme Court of Justice of the Federal District and the other judicial bodies in charge of common affairs:
 
-- Magistrates composing the Supreme Court of the Federal District shall meet the same requirements than  the  ministers  of  the  Supreme  Court  of  Justice  of  the  Nation.  Besides,  they  should  have professional experience at judicial affairs, preferably in the Federal District. The Supreme Court of the Federal District shall have the number of magistrates indicated in the applicable organic law.
+I. Magistrates composing the Supreme Court of the Federal District shall meet the same requirements than the ministers of the Supreme Court of Justice of the Nation. Besides, they should have professional experience at judicial affairs, preferably in the Federal District. The Supreme Court of the Federal District shall have the number of magistrates indicated in the applicable organic law.
 
 In the event of vacancies, the Head of the Federal District Government shall submit his proposal to the Assembly of Representatives for approval. Magistrates shall hold the office for a term of six years. They may be ratified by the Assembly of Representatives, if so, they may be removed from office only in the cases established in the Title Four of this Constitution.
 
@@ -3978,13 +4014,13 @@ Through the commissions, it shall be established:
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- The bases to make and execute agreements inside the commissions. Such agreements shall define the territorial  scope  and  functions  of  each  City  Council  regarding  public  works,  provision  of  public services or actions mentioned in the first paragraph of this part.
+a) The bases to make and execute agreements inside the commissions. Such agreements shall define the territorial scope and functions of each City Council regarding public works, provision of public services or actions mentioned in the first paragraph of this part.
 
-- The  bases  to  define  the  specific  functions  of  the  members  of  the  commissions,  as  well  as  the contributions of material, human and financial resources.
+b) The bases to define the specific functions of the members of the commissions, as well as the contributions of material, human and financial resources.
 
-- Other rules for the mutual and coordinated regulation of development of the suburbs, provision of public services and implementation of other actions approved by the commissions.
+c) Other rules for the mutual and coordinated regulation of development of the suburbs, provision of public services and implementation of other actions approved by the commissions.
 
-- The prohibitions and limitations that this Constitution establishes for the states shall apply to the Federal District authorities.
+H. The prohibitions and limitations that this Constitution establishes for the states shall apply to the Federal District authorities.
 
 ## TITLE SIX
 
@@ -3996,19 +4032,19 @@ Every person has the right to have a decent and socially useful job. Therefore, 
 
 The Congress of the Union, without contravening the following basic principles, shall formulate labor laws which shall apply to:
 
-- Workers, day laborers, domestic servants, artisans and, in a general way, to all labor contracts:
+A. Workers, day laborers, domestic servants, artisans and, in a general way, to all labor contracts:
 
-- The maximum duration of the working day shall be eight hours.
+I. The maximum duration of the working day shall be eight hours.
 
-- The maximum duration of night work shall be seven hours. The following jobs are prohibited for persons under sixteen years: unhealthful or dangerous work, industrial night work and any work after ten o'clock at night.
+II. The maximum duration of night work shall be seven hours. The following jobs are prohibited for persons under sixteen years: unhealthful or dangerous work, industrial night work and any work after ten o'clock at night.
 
-- The use of labor of minors under fourteen years of age is prohibited. Persons above that age and less than sixteen shall have a maximum working day of six hours.
+III. The use of labor of minors under fourteen years of age is prohibited. Persons above that age and less than sixteen shall have a maximum working day of six hours.
 
 IV. For every six days of work a worker must have at least one day of rest.
 
-- During pregnancy, women shall not perform such work that requires excessive physical effort and could  be  dangerous  regarding  pregnancy.  Women  have  the  right  to  enjoy  a  disability  leave  due  to childbirth,  which  shall  cover  six  weeks  previous  to  the  birth  and  six  weeks  thereafter.  During  such disability  leave,  women  shall  receive  their  full  wages  and  retain  their  employment  and  the  rights acquired under their labor contract. During the nursing period, they shall have two special rest periods per day, consisting of half hour each one, to feed their babies.
+V. During pregnancy, women shall not perform such work that requires excessive physical effort and could be dangerous regarding pregnancy. Women have the right to enjoy a disability leave due to childbirth, which shall cover six weeks previous to the birth and six weeks thereafter. During such disability leave, women shall receive their full wages and retain their employment and the rights acquired under their labor contract. During the nursing period, they shall have two special rest periods per day, consisting of half hour each one, to feed their babies.
 
-- The minimum wage shall be established in a general way or according to the occupation. General minimum wage  shall  govern  over  the  different  economic  zones.  Professional  wages  shall  apply  on specific industries, professions, trades or special works.
+VI. The minimum wage shall be established in a general way or according to the occupation. General minimum wage shall govern over the different economic zones. Professional wages shall apply on specific industries, professions, trades or special works.
 
 112
 
@@ -4028,23 +4064,23 @@ VIII. The minimum wage shall be exempt from attachment, compensation, or deducti
 
 IX. Workers are entitled to participate in profit sharing, which shall be regulated in conformity with the following rules:
 
-- A national commission, composed of representatives of workers, employers, and the Government, shall fix the percentage of profits to be distributed among workers.
+a) A national commission, composed of representatives of workers, employers, and the Government, shall fix the percentage of profits to be distributed among workers.
 
-- The national commission shall research and study the general conditions of the national economy. It shall also take into consideration the need to promote the industrial development of the country, the reasonable interest that should be obtained by capital, and the necessary reinvestment of capital.
+b) The national commission shall research and study the general conditions of the national economy. It shall also take into consideration the need to promote the industrial development of the country, the reasonable interest that should be obtained by capital, and the necessary reinvestment of capital.
 
-- The  national  commission  may  revise  the  percentage  fixed  under  paragraph  'a'  of  this  section, whenever new studies and research so justify.
+c) The national commission may revise the percentage fixed under paragraph 'a' of this section, whenever new studies and research so justify.
 
-- The  law  may  exempt  newly  established  enterprises  from  the  obligation  of  sharing  profits  for  a specified and limited number of years, as well as the exploration works and other activities so justified by their nature or peculiar conditions.
+d) The law may exempt newly established enterprises from the obligation of sharing profits for a specified and limited number of years, as well as the exploration works and other activities so justified by their nature or peculiar conditions.
 
-- In order to determine the amount of the profits of each enterprise, the basis to be taken is the taxable income according to the provisions of the Income Tax Law. Workers may submit to the appropriate office of the Department of the Treasury their objections, in accordance with the procedure indicated in the law.
+e) In order to determine the amount of the profits of each enterprise, the basis to be taken is the taxable income according to the provisions of the Income Tax Law. Workers may submit to the appropriate office of the Department of the Treasury their objections, in accordance with the procedure indicated in the law.
 
-- The  workers'  right  to  participate  in  profit  sharing  does  not  imply  the  power  to  intervene  in  the management or administration of the company.
+f) The workers' right to participate in profit sharing does not imply the power to intervene in the management or administration of the company.
 
-- Wage must necessarily be paid in legal tender and cannot be paid in goods, coupons, tokens or any other instrument intended to substitute the money.
+X. Wage must necessarily be paid in legal tender and cannot be paid in goods, coupons, tokens or any other instrument intended to substitute the money.
 
 XI. When, due to extraordinary circumstances, working hours must be extended, the salary to be paid for overtime shall be 100% more than the amount fixed for regular hours. Overtime work may never exceed three hours a day nor three times consecutively. Persons under sixteen years of age may not perform overtime.
 
-XII. All farming, industrial, or mining enterprise or any other kind of business, employers are obliged to provide to workers comfortable and hygienic housing. This obligation shall be discharged through contributions made by the companies to a national housing fund, which shall provide the workers with inexpensive loans, sufficient to acquire a house.
+XII. All farming, industrial, or mining enterprise or any other kind of business, employers are obliged to provide to workers comfortable and hygienic housing. This obligation shall be discharged through
 
 113
 
@@ -4053,6 +4089,8 @@ XII. All farming, industrial, or mining enterprise or any other kind of business
 [[START OF PAGE 112]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+contributions made by the companies to a national housing fund, which shall provide the workers with inexpensive loans, sufficient to acquire a house.
 
 The law shall create a body composed of representatives of the Federal Government, of the workers and of the employers. Such body shall manage the resources of the national housing fund.
 
@@ -4102,13 +4140,13 @@ XXVI. Every work contract made between a Mexican and a foreign employer must be 
 
 XXVII. The following conditions or clauses shall be considered null and void and not binding on the contracting parties, even if expressed in the contract:
 
-- Those that fix an inhuman working day.
+a) Those that fix an inhuman working day.
 
-- Those  that  fix  wages  that  are  not  remunerative,  according  to  the  criteria  of  the  Commission  for Conciliation and Arbitration.
+b) Those that fix wages that are not remunerative, according to the criteria of the Commission for Conciliation and Arbitration.
 
-- Those providing a period longer than one week for the payment of a daily wage.
+c) Those providing a period longer than one week for the payment of a daily wage.
 
-- Those indicating as the place of payment of wages a recreation center, cheap restaurant, coffee shop, tavern, bar, or store, except for the employees of such establishments;
+d) Those indicating as the place of payment of wages a recreation center, cheap restaurant, coffee shop, tavern, bar, or store, except for the employees of such establishments;
 
 115
 
@@ -4118,13 +4156,13 @@ XXVII. The following conditions or clauses shall be considered null and void and
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- Those  indicating  the  direct  or  indirect  obligation  of  acquiring  basic  products  in  specific  stores  or places.
+e) Those indicating the direct or indirect obligation of acquiring basic products in specific stores or places.
 
-- Those that allow the retention of wages as a fine.
+f) Those that allow the retention of wages as a fine.
 
-- Those that constitute a waiver by the worker of indemnification to which he is entitled due to labor accidents, occupational diseases, damages caused by breach of contract or dismissal.
+g) Those that constitute a waiver by the worker of indemnification to which he is entitled due to labor accidents, occupational diseases, damages caused by breach of contract or dismissal.
 
-- Any other provision that imply waiver of any right granted to workers by the laws.
+h) Any other provision that imply waiver of any right granted to workers by the laws.
 
 XXVIII. The laws shall determine what property constitutes the family patrimony. Such property shall be inalienable, not subject to taxes or attachment, and shall be transferrable as inheritance, simplifying the formalities thereof.
 
@@ -4134,27 +4172,27 @@ XXX.  Cooperatives  established  for  the  construction  of  inexpensive  and  h
 
 XXXI. Enforcement of the labor laws belongs to the authorities of the states, within their respective jurisdictions. However, it is the exclusive jurisdiction of the federal authorities in matters relating to:
 
-- Industrial sector and services:
+a) Industrial sector and services:
 
-- Textile industry
+1. Textile industry
 
-- Electricity
+2. Electricity
 
-- Movie industry
+3. Movie industry
 
-- Rubber
+4. Rubber
 
-- Sugar
+5. Sugar
 
-- Mining
+6. Mining
 
-- Metallurgical, iron and steel industries, including the exploitation of basic minerals, their processing and steelworks, production of iron and steel in all their forms and alloys, and their rolled products.
+7. Metallurgical, iron and steel industries, including the exploitation of basic minerals, their processing and steelworks, production of iron and steel in all their forms and alloys, and their rolled products.
 
-- Hydrocarbons
+8. Hydrocarbons
 
-- Petrochemistry
+9. Petrochemistry
 
-- Cement
+10. Cement
 
 116
 
@@ -4164,41 +4202,41 @@ XXXI. Enforcement of the labor laws belongs to the authorities of the states, wi
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- Limekilns,
+11. Limekilns,
 
-- Automobile industry, including car parts.
+12. Automobile industry, including car parts.
 
-- Chemical industry, including pharmaceutical and drug industry.
+13. Chemical industry, including pharmaceutical and drug industry.
 
-- Cellulose and paper
+14. Cellulose and paper
 
-- Oils and vegetable fat
+15. Oils and vegetable fat
 
-- Food production, applicable only to industries producing packed, canned or bottled products.
+16. Food production, applicable only to industries producing packed, canned or bottled products.
 
-- Bottled and canned drinks, and related industries.
+17. Bottled and canned drinks, and related industries.
 
-- Railroad workers
+18. Railroad workers
 
-- Basic lumber industry, including sawmills and manufacture of plywood and agglutinate materials.
+19. Basic lumber industry, including sawmills and manufacture of plywood and agglutinate materials.
 
-- Manufacture of glass bottles and flat glass, either smooth or carved.
+20. Manufacture of glass bottles and flat glass, either smooth or carved.
 
-- Tobacco industry, including manufacture of tobacco products.
+21. Tobacco industry, including manufacture of tobacco products.
 
-- Bank and credit institutions.
+22. Bank and credit institutions.
 
-- Enterprises:
+b) Enterprises:
 
-- Those  enterprises  that  are  administered  directly  or  in  a  decentralized  form  by  the  Federal Government.
+1. Those enterprises that are administered directly or in a decentralized form by the Federal Government.
 
-- Those enterprises that have a contract or license granted by the Federal Government, and connected industries.
+2. Those enterprises that have a contract or license granted by the Federal Government, and connected industries.
 
-- Those  enterprises  working  in  federal  zones,  in  territorial  waters  or  inside  the  exclusive  economic zone of the nation.
+3. Those enterprises working in federal zones, in territorial waters or inside the exclusive economic zone of the nation.
 
 The following topics shall be the exclusive jurisdiction of the federal authorities: a) labor disputes that affect two or more states; b) collective work contracts that have been declared obligatory in more than one state; c) employer's obligations related to educational matters, according to the respective law; d) employer's liabilities regarding training for workers, and safety and hygiene at work. State authorities shall assist federal authorities in matters under local jurisdiction, in accord with the applicable statutory law.
 
-- The Powers of the Union, the Federal District Government and their employees:
+B. The Powers of the Union, the Federal District Government and their employees:
 
 117
 
@@ -4208,7 +4246,7 @@ The following topics shall be the exclusive jurisdiction of the federal authorit
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- The  maximum duration of the working day shall be eight hours. The maximum duration of night work  shall  be  seven  hours.  Those  in  excess  will  be  considered  overtime,  the  salary  to  be  paid  for overtime  shall  be  100%  more  than  the  amount  fixed  for  regular  hours.  Overtime  work  may  never exceed three hours a day nor three times consecutively.
+I. The maximum duration of the working day shall be eight hours. The maximum duration of night work shall be seven hours. Those in excess will be considered overtime, the salary to be paid for overtime shall be 100% more than the amount fixed for regular hours. Overtime work may never exceed three hours a day nor three times consecutively.
 
 II. For every six days of work, the employee must have at least one day of rest, with full payment of wage.
 
@@ -4220,7 +4258,7 @@ IV. Wages shall be fixed in the respective budgets, and their amount may not be 
 
 In no case, the wages of the public servants may be lower than the minimum wage established for the Federal District and the states.
 
-- Equal wages shall be paid for equal work, regardless the gender.
+V. Equal wages shall be paid for equal work, regardless the gender.
 
 VI. Withholdings, discounts, deductions or attachments from wages may be made only in those cases provided by law.
 
@@ -4236,7 +4274,7 @@ X. Public employees shall have the right to join together in order to protect th
 
 XI. Social security shall be organized according to the following minimum bases:
 
-- Social  security  shall  cover  work  accidents,  occupational  diseases  and  other  diseases,  motherhood, retirement, disability, old age, and death.
+a) Social security shall cover work accidents, occupational diseases and other diseases, motherhood, retirement, disability, old age, and death.
 
 118
 
@@ -4246,15 +4284,15 @@ XI. Social security shall be organized according to the following minimum bases:
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- In case of accident or illness, the right to work shall be retained for the time specified by law.
+b) In case of accident or illness, the right to work shall be retained for the time specified by law.
 
-- During pregnancy, women shall not perform such work that requires excessive physical effort and could  be  dangerous  regarding  pregnancy.  Women  have  the  right  to  enjoy  a  disability  leave  due  to childbirth, which shall cover one month previous to the birth and two months thereafter. During such disability  leave,  women  shall  receive  their  full  wages  and  retain  their  employment  and  the  rights acquired under their labor contract. During the nursing period, they shall have two special rests per day, consisting  of  half  hour  each  one,  to  feed  their  babies.  In  addition,  they  shall  enjoy  medical  and obstetrical services, medicines, nursing aid and nursery services.
+c) During pregnancy, women shall not perform such work that requires excessive physical effort and could be dangerous regarding pregnancy. Women have the right to enjoy a disability leave due to childbirth, which shall cover one month previous to the birth and two months thereafter. During such disability leave, women shall receive their full wages and retain their employment and the rights acquired under their labor contract. During the nursing period, they shall have two special rests per day, consisting of half hour each one, to feed their babies. In addition, they shall enjoy medical and obstetrical services, medicines, nursing aid and nursery services.
 
-- Worker's family has the right to medical care and medicines, in those cases and in the proportions specified by law.
+d) Worker's family has the right to medical care and medicines, in those cases and in the proportions specified by law.
 
-- The Social Security System shall create centers for vacations and convalescence, as well as cheap grocery stores for workers and their families.
+e) The Social Security System shall create centers for vacations and convalescence, as well as cheap grocery stores for workers and their families.
 
-- The  Social  Security  System  shall  provide  to  workers  inexpensive  housing  for  rent  or  sale,  in accordance with previously approved programs. Additionally, the State shall create a national housing fund and shall make contributions to it. Such fund shall provide the workers with inexpensive loans, sufficient to acquire a comfortable and hygienic house, or to build, renovate or improve their home or to pay loans used to buy a house.
+f) The Social Security System shall provide to workers inexpensive housing for rent or sale, in accordance with previously approved programs. Additionally, the State shall create a national housing fund and shall make contributions to it. Such fund shall provide the workers with inexpensive loans, sufficient to acquire a comfortable and hygienic house, or to build, renovate or improve their home or to pay loans used to buy a house.
 
 Contributions made to the national housing fund shall be notified to the Social Security Institute. The law  of  such  Institute,  as  well  as  the  other  applicable  laws,  shall  regulate  the  administration  of  the national housing fund and shall establish procedures to grant loans to workers.
 
@@ -4308,9 +4346,9 @@ Employees of the Federal Government, the state governments, the Federal District
 
 This remuneration shall be non-negotiable and shall be fixed annually in the expenditure budgets of each organ in accord with the following bases:
 
-- Remuneration is any payment made in cash or in kind, including expenses, Christmas bonus, bonus, rewards,  incentives,  commissions,  compensations  and  any  other  payment,  except  for  expenses allowance that must be supported by receipts and invoices and for labor costs for traveling in official activities.
+I. Remuneration is any payment made in cash or in kind, including expenses, Christmas bonus, bonus, rewards, incentives, commissions, compensations and any other payment, except for expenses allowance that must be supported by receipts and invoices and for labor costs for traveling in official activities.
 
-- No public servant can have a salary higher than the President of the Republic's salary.
+II. No public servant can have a salary higher than the President of the Republic's salary.
 
 120
 
@@ -4324,7 +4362,7 @@ III. No public servant can have a salary equal or higher than his/her superior's
 
 IV. Only pensions, payments, loans and credits established by law, a decree, a labor contract or labor covenant shall be granted. Such benefits are not part of the remuneration. Social security services are excluded.
 
-- Public  servants'  remunerations  and  detailed  tables  shall  be  public  information,  such  information shall specify every fixed and variable element, including payments in cash and in kind.
+V. Public servants' remunerations and detailed tables shall be public information, such information shall specify every fixed and variable element, including payments in cash and in kind.
 
 VI. The  Congress  of  the  Union,  the  state  legislatures  and  the  Federal  District  Assembly  of Representatives,  within  the  scope  of  their  powers,  shall  enact  the  laws  necessary  to  enforce  the provisions  included  in  this  article  and  all  related  constitutional  provisions.  They  shall  also  establish criminal and administrative penalties to be applicable to public servants that circumvent this article.
 
@@ -4342,13 +4380,13 @@ The historic principle of separation of the State and the churches guides the pr
 
 Only  the  Congress  of  the  Union  can  legislate  on  matters  of  public  worship,  churches  and  religious groups. The respective public statutory law shall develop and detail the following provisions:
 
-- Churches and religious groups shall have legal status after registration. The law shall regulate the religious associations and shall establish the requirements to get registration.
+a) Churches and religious groups shall have legal status after registration. The law shall regulate the religious associations and shall establish the requirements to get registration.
 
-- The government shall not intervene in the internal affairs of the religious associations.
+b) The government shall not intervene in the internal affairs of the religious associations.
 
-- Mexicans  can  become  ministers  of  any  religious  denomination.  For  this  purpose,  Mexicans  and foreigners must meet the requirements established by law.
+c) Mexicans can become ministers of any religious denomination. For this purpose, Mexicans and foreigners must meet the requirements established by law.
 
-- Religious ministers cannot hold public offices, according to the statutory law. As citizens, religious ministers have the right to vote, but they do not have the right to be elected. Those who have ceased being church ministers in anticipation of running and in the form established by law, may be elected.
+d) Religious ministers cannot hold public offices, according to the statutory law. As citizens, religious ministers have the right to vote, but they do not have the right to be elected. Those who have ceased being church ministers in anticipation of running and in the form established by law, may be elected.
 
 121
 
@@ -4382,7 +4420,7 @@ The forts, barracks, warehouses and other buildings used by the Federal Governme
 
 ##### Article 133
 
-This Constitution, the laws derived from the and enacted by the Congress of the Union, and all the treaties made and execute by the President of the Republic, with the approval of the Senate, shall be the supreme law of the country. The judges of each state shall observe the Constitution, the laws derived from it and the treaties, despite any contradictory provision that may appear in the constitutions or laws of the states.
+This Constitution, the laws derived from the and enacted by the Congress of the Union, and all the treaties made and execute by the President of the Republic, with the approval of the Senate, shall be the supreme law of the country. The judges of each state shall observe the Constitution, the laws derived
 
 122
 
@@ -4391,6 +4429,8 @@ This Constitution, the laws derived from the and enacted by the Congress of the 
 [[START OF PAGE 121]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
+
+from it and the treaties, despite any contradictory provision that may appear in the constitutions or laws of the states.
 
 (First paragraph was reformed through a decree published on May 7, 2008)
 
@@ -4456,8 +4496,8 @@ This Constitution shall be published at once and, with the greatest solemnity, a
 
 In the elections that must be called in accordance with the following article, section V of the Article 82 shall  not  apply,  and  to  be  in  active  service  in  the  Army  shall  not  be  an  impediment  to  become  a representative or senator, provided that such service is not command of forces in the electoral district in question. In the same way, Secretaries and under-Ssecretaries can be elected for the next Congress of the  Union,  provided  that  they  definitely  resigns  their  position  on  the  day  that  the  respective  call  is issued.
 
-##### Second Article .
-As soon as this Constitution is published, the President of the Republic shall call for elections  for  the  federal  powers,  endeavoring  to  do  this  in  such  a  way  that  the  Congress  shall  be organized promptly, since it must declare the winner of the elections for the Presidency, after the count of the votes casted, so that the provisions of the preceding article could be complied.
+##### Second Article.
+As soon as this Constitution is published, the President of the Republic shall call for elections for the federal powers, endeavoring to do this in such a way that the Congress shall be
 
 124
 
@@ -4467,7 +4507,9 @@ As soon as this Constitution is published, the President of the Republic shall c
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-##### Third  Article .
+organized promptly, since it must declare the winner of the elections for the Presidency, after the count of the votes casted, so that the provisions of the preceding article could be complied.
+
+##### Third Article.
 The  next  constitutional  term  for  representatives  and  senators  shall  begin  to  run  on September first of last year, and for the President of the Republic from December 1, 1916.
 
 ##### Fourth Article .
@@ -4859,9 +4901,9 @@ Only for this time, the term indicated in the fourth paragraph of the section II
 
 Appeals that raise a contradiction between a general electoral rule and the Constitution, according to the Article 105, section II, and this Reform Act and filed before April 1, 1997, shall be subject to the following special provisions:
 
-- The term mentioned in the Article 105, section II, second paragraph, shall be equal to 15 calendar days.
+a) The term mentioned in the Article 105, section II, second paragraph, shall be equal to 15 calendar days.
 
-- The Supreme Court of Justice shall resolve the case in a term no longer than 15 business days, after filing of the initial document.
+b) The Supreme Court of Justice shall resolve the case in a term no longer than 15 business days, after filing of the initial document.
 
 Amendments done to the Article 116 by this Reform Act shall not be applicable in the states where electoral campaigns have begun or begin before January 1, 1997. This states, shall have one year after conclusion of elections to adapt their electoral laws to this Reform Act.
 
@@ -5142,9 +5184,9 @@ The federal, state and local governments will have the period between publicatio
 
 Approval of the constitutional reform implies modifications to the federal and local secondary legal provisions in accordance with the following criteria:
 
-- Related to compensations, the appropriate procedures must be followed first in order to determine whether the private individual is entitled to such compensation.
+a) Related to compensations, the appropriate procedures must be followed first in order to determine whether the private individual is entitled to such compensation.
 
-- Payment of compensation is subject to the budget available in that year.
+b) Payment of compensation is subject to the budget available in that year.
 
 The federal, state and local governments will have the period between publication of this Reform Act and its enforcement to make the modifications and enact the laws necessary to assure compliance with it.  Such  period  shall  be  longer  than  one  year,  but  less  than  two  years,  according  to  the  date  of publication and date of enforcement.
 
@@ -5421,11 +5463,11 @@ The Congress of the Union must adapt the federal laws within a 30 calendar days 
 ##### Fourth  Article .-
 In  order  to  comply  with  the  Article  41,  Fifth  Base,  third  paragraph,  of  this Constitution, the House of Representatives must create the General Council of the Federal Electoral Institute within a 30 calendar days term after enforcement of this decree and according to the following bases:
 
-- The House of Representatives shall appoint a new President Councilor, who shall hold office until October 30, 2013. This President Councilor may be reelected once only in accordance with the third paragraph of the Article 41 of this Constitution.
+a) The House of Representatives shall appoint a new President Councilor, who shall hold office until October 30, 2013. This President Councilor may be reelected once only in accordance with the third paragraph of the Article 41 of this Constitution.
 
-- The House of Representatives must appoint two new electoral councilors, who shall hold office until October 30, 2016.
+b) The House of Representatives must appoint two new electoral councilors, who shall hold office until October 30, 2016.
 
-- Among  the  current  eight  electoral  councilors,  the  House  of  Representatives  must  select  three councilors, who shall hold office until August 15, 2008, and three councilors, who shall hold office until October 30, 2010.
+c) Among  the  current  eight  electoral  councilors,  the  House  of  Representatives  must  select  three councilors, who shall hold office until August 15, 2008, and three councilors, who shall hold office until October 30, 2010.
 
 149
 
@@ -5472,9 +5514,9 @@ The  dates  established for submission of the public accounts and the revision r
 ##### Fourth Article .-
 Public accounts corresponding to years before 2008, shall be subject to the following provisions:
 
-- Within the 180 calendar days after enforcement of this decree, the House of Representatives must conclude revision of the public accounts corresponding to the years 2002, 2003, 2004 and 2005.
+I. Within the 180 calendar days after enforcement of this decree, the House of Representatives must conclude revision of the public accounts corresponding to the years 2002, 2003, 2004 and 2005.
 
-- Public accounts corresponding to the years 2006 and 2007, shall be reviewed in accordance with the provisions in force before this decree.
+II. Public accounts corresponding to the years 2006 and 2007, shall be reviewed in accordance with the provisions in force before this decree.
 
 III. The House of Representatives must conclude revision of the 2006 public account during 2008.
 
@@ -5631,7 +5673,7 @@ This  decree shall come into force on the day following its publication in the O
 
 Mexico  City,  July  15,  2009.-  Senator  Gustavo  Enrique  Madero  Muñoz,  speaker.-  Congresswoman Esmeralda Cardenas Sanchez, secretary.- Signatures.
 
-#### 72. TRANSITORY ARTICLE of the Reform Act published in the Official Gazette of the Federation on August 24, 2009, which reforms the Article 115, section IV, letter 'c', fourth paragraph; amends the Article 122, First Base, section V, letter 'b', first paragraph; reforms the Article 123, part B, section IV, first paragraph; amends the Article 127; and adds the second and third paragraphs to the Article 75; adds the fourth and fifth paragraphs to the section II of the Article 116, so that the fourth and fifth paragraphs have been moved ahead; adds a second paragraph to the letter 'b' of section V, First Base, of  the  Article  122,  so  that  the  second  to  fifth  paragraphs  have  been  moved  ahead,  all  these  articles belonging to the Political Constitution of the United Mexican States.
+#### 72. TRANSITORY ARTICLE of the Reform Act published in the Official Gazette of the Federation on August 24, 2009, which reforms the Article 115, section IV, letter “c”, fourth paragraph; amends the Article 122, First Base, section V, letter “b”, first paragraph; reforms the Article 123, part B, section IV, first paragraph; amends the Article 127; and adds the second and third paragraphs to the Article 75; adds the fourth and fifth paragraphs to the section II of the Article 116, so that the fourth and fifth paragraphs have been moved ahead; adds a second paragraph to the letter “b” of section V, First Base, of the Article 122, so that the second to fifth paragraphs have been moved ahead, all these articles belonging to the Political Constitution of the United Mexican States.
 
 ##### First Article .-
 This  decree shall come into force on the day following its publication in the Official Gazette of the Federation. Provisions which contravene this decree are hereby repealed.
@@ -5642,7 +5684,7 @@ Remunerations  that  exceed  the  maximum  remuneration  established  in  this  
 ##### Third Article .-
 Starting from the fiscal year following that one where this decree has come into force, remunerations of the ministers of the Supreme Court of Justice, the magistrates of the Electoral Court, the circuit magistrates, the district judges, the councilors of the Federal Judicial Council, the members of the General Council of the Federal Electoral Institute, and the state magistrates and judges shall be subject to the following provisions:
 
-- Salaries  exceeding  the  ceiling  amount  established  in  the  base  II  of  the  Article  127  of  this Constitution shall remain without changes until the end of the term.
+a) Salaries exceeding the ceiling amount established in the base II of the Article 127 of this Constitution shall remain without changes until the end of the term.
 
 155
 
@@ -5652,9 +5694,9 @@ Starting from the fiscal year following that one where this decree has come into
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-- Additional remunerations, such as bonuses, rewards, incentives, commissions, compensations and any  other  remuneration  in  cash  or  in  kind,  may  be  kept  by  the  public  servant  only  when  the  total remuneration does not exceed the ceiling amount established in the base II of the Article 127 of this Constitution.
+b) Additional remunerations, such as bonuses, rewards, incentives, commissions, compensations and any other remuneration in cash or in kind, may be kept by the public servant only when the total remuneration does not exceed the ceiling amount established in the base II of the Article 127 of this Constitution.
 
-- Increases  to  the  salary  or  to  the  additional  remunerations  may  be  done  only  when  the  total remuneration does not exceed the ceiling amount mentioned before.
+c) Increases to the salary or to the additional remunerations may be done only when the total remuneration does not exceed the ceiling amount mentioned before.
 
 ##### Fourth Article .-
 The Congress of the Union, the state legislatures and the Federal District Assembly of Representatives shall have a period of 180 calendar days after enforcement of this decree in order to enact or modify the laws to comply with the provisions established in this decree.
@@ -5664,22 +5706,22 @@ Within  the  180  calendar  days  after  enforcement  of  this  decree,  the  Co
 
 Mexico  City,  July  22,  2009.-  Senator  Gustavo  Enrique  Madero  Muñoz,  speaker.-  Congresswoman Esmeralda Cardenas Sanchez, secretary.- Signatures.
 
-#### 73. TRANSITORY ARTICLE of the Reform Act published in the Official Gazette of the Federation on April 27, 2010, which reforms the Article 122 of this Constitution, part 'C', Fourth Base, section II.
+#### 73. TRANSITORY ARTICLE of the Reform Act published in the Official Gazette of the Federation on April 27, 2010, which reforms the Article 122 of this Constitution, part “C”, Fourth Base, section II.
 
-##### Only Article.
+##### Only Article .-
 This decree shall come into force on the day following its publication in the Official Gazette of the Federation.
 
 Mexico City, March 2, 2010.- Senator Carlos Navarrete Ruiz, speaker.- Congressman Francisco Javier Ramírez  Acuña,  speaker.-  Senator  Ludivina  Menchaca  Castellanos,  secretary.-  Congressman  Jaime Arturo Vazquez Aguilar, secretary.- Signatures.
 
 #### 74. TRANSITORY ARTICLE of the Reform Act published in the Official Gazette of the Federation on July 29, 2010, which adds a third paragraph to the Article 17 of this Constitution and moves the order of the following ones.
 
-##### Only Article.
+##### Only Article .-
 A third paragraph is added to the Article 17 of this Constitution and moves the order of the next ones, as it follows:
 
-##### First Article.
+##### First Article .-
 This amendment will come into force the day following its publication in the Official Gazette of the Federation.
 
-##### Second Article.
+##### Second Article .-
 The Congress of the Union shall modify the corresponding laws within a one-year period from this amendment coming into effect.
 
 Mexico  City,  June  9,  2010.-  Senator Carlos  Navarrete  Ruiz ,  speaker.-  Congressman Óscar  Saúl Castillo Andrade , secretary.- Signatures.
@@ -5701,21 +5743,21 @@ Mexico City,  22th  day  of  February  2011.-  Deputy  Jorge  Carlos  Ramirez  M
 
 #### 76. TRANSITORY ARTICLES of the DECREE published in the Official Gazette of the Federation the 6th day of June 2011, which reforms the article 94 of the Mexican Constitution in the following way: a) amending paragraph currently located in eight place; b) paragraphs currently located in seventh and ninth places were added. In addition, the articles 103 and 104 were reformed. The following parts of  the  article  107  were  reformed:  first  paragraph;  sections  I  and  II;  subdivision  (a)  of  section  III; sections IV, V, VI, and VII; subdivision (a) of section VIII; sections IX, X, XI, XIII, XVI and XVII; and section XIV was repealed.
 
-##### First Article.
+##### First Article .-
 This decree shall come into force 120 days after publication in the Official Gazette of the Federation.
 
-##### Second Article.
+##### Second Article .-
 The Congress shall enact the appropriate legal reforms within 120 days of the date of publication of this decree.
 
-##### Third Article.
+##### Third Article .-
 The constitutional adjudications filed before the date this decree comes into force shall continue to be processed until final ruling and enforcement according to the applicable provisions that were in force on the date such constitutional adjudications were filed, except for the provisions that regulate discontinuation due to inactivity in the proceeding or discontinuance.
 
-##### Fourth  Article.
+##### Fourth Article .-
 For  the  integration  of  case  law  by  repetition,  the  theses  approved  on  the  basis  of provisions that were in force before this decree comes into force should not be taken into account.
 
 Mexico City, 4th day of May 2011.- Senator Manlio Fabio Beltrones Rivera, chairman.- Deputy Juan Carlos López Fernández, Secretary.- Signatures.
 
-#### 77. TRANSITORY ARTICLES of the DECREE pubished in the Official Gazette of the Federation the 10th day of June 2011. This decree modifies the name of the Chapter One of the Title One of the Mexican Constitution; as well as the first and fifth paragraphs of the article1; the second paragraph of the article 3; the first paragraph of the article 11; the article 15; the second paragraph of the article 18; the first paragraph of the article 29; the first paragraph of the article 33; the section X of the article 89; the second paragraph of the article 97; the second and third paragraphs of the part B of the article 102; and the subdivision (g) of the section II of the article 105 of the Mexican Constitution. This decree also adds two new paragraphs (second and third) to the article 1, moving forward the rest of paragraphs; as well as a new paragraph (second) to the article 11; the second, third, fourth and fifth paragraphs to the article 29; the second paragraph to the article 33, moving forward the previous second paragraph; and the fifth, eighth and eleventh paragraphs to the article 102, part B, of the Mexican Constitution.
+#### 77. TRANSITORY ARTICLES of the DECREE pubished in the Official Gazette of the Federation the 10th day of June 2011. This decree modifies the name of the Chapter One of the Title One of the Mexican Constitution; as well as the first and fifth paragraphs of the article1; the second paragraph of the article 3; the first paragraph of the article 11; the article 15; the second paragraph of the article 18; the first paragraph of the article 29; the first paragraph of the article 33; the section X of the article 89; the second paragraph of the article 97; the second and third paragraphs of the part B of the article 102; and the subdivision (g) of the section II of the article 105 of the Mexican Constitution. This decree also adds two new paragraphs (second and third) to the article 1, moving forward the rest of paragraphs; as well as a new paragraph (second) to the article 11; the second, third, fourth and fifth paragraphs to the
 
 157
 
@@ -5725,41 +5767,43 @@ Mexico City, 4th day of May 2011.- Senator Manlio Fabio Beltrones Rivera, chairm
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-##### First  Article.
+article 29; the second paragraph to the article 33, moving forward the previous second paragraph; and the fifth, eighth and eleventh paragraphs to the article 102, part B, of the Mexican Constitution.
+
+##### First Article .-
 This  decree  shall  come  into  force  the  day  following  its  publication  in  the  Official Gazette of the Federation.
 
-##### Second Article.
+##### Second Article .-
 The law mentioned in the third paragraph of the article 1 of the Mexican Constitution, regarding redress, should be enacted within one year of the date this decree comes into force.
 
-##### Third Article.
+##### Third Article .-
 The law mentioned in the article 11 of the Mexican Constitution, regarding asylum, should be enacted within one year of the date this decree comes into force.
 
-##### Fourth  Article.
+##### Fourth Article .-
 The  Congress  of  the  Union  shall  enact  the  statutory  law  of  the  article  29  of  the Mexican Constitution, regarding suspension of constitutional rights, within one year of the date this decree comes into force.
 
-##### Fifth Article.
+##### Fifth Article .-
 The Congress of the Union shall enact the statutory law of the article 33 of the Mexican Constitution,  regarding  expulsion  of  foreigners,  within  one  year  of  the  date  this  decree  comes  into force. Meanwhile, the article 33 will be applied according to the current text.
 
-##### Sixth  Article.
+##### Sixth Article .-
 The  trials  mentioned  in  the  second  paragraph  of  the  article  97  of  the  Mexican Constitution,  filed  before  this  reform  comes  into  force,  shall  be  processed  by  the  Supreme  Court  of Justice of the Nation until the sentence is pronounced.
 
-##### Seventh Article.
+##### Seventh Article .-
 Regarding the part B of the article 102 of the Mexican Constitution, as well as the autonomy  of  local  bodies  which  protect  the  human  rights,  the  local  congresses  shall  carry  out  the necessary modifications within one year of the date this decree comes into force.
 
-##### Eighth  Article.
+##### Eighth Article .-
 The  Congress  of  the  Union  shall  adapt  the  Law  of  the  National  Human  Rights Commission within one year of the date this decree comes into force.
 
-##### Ninth Article.
+##### Ninth Article .-
 Any provision which contravenes this decree is hereby repealed.
 
 Mexico City, 1st day of June 2011.- Senator Manlio Fabio Beltrones Rivera, President.- Deputy Julio Castellanos Ramírez, Secretary.- Signatures.
 
 #### 78. TRANSITORY ARTICLES of the DECREE published in the Official Gazette of the Federation the 14th day of July 2011, which reforms the articles 19, second paragraph; 20, part C, section V; and 73, section XXI, first paragraph, of the Mexican Constitution.
 
-##### First  article.
+##### First article .-
 This  decree  shall  come  into  force  the  day  following  its  publication  in  the  Official Gazette of the Federation.
 
-##### Second  article.
+##### Second article .-
 The  Mexican  Congress  shall  enact  the  Law  to  Prevent  and  Punish  Trafficking  in Persons within 180 days of the date in which this decree comes into force.
 
 Mexico  City,  June  29,  2011.-  Senator  Manlio  Fabio  Beltrones  Rivera,  President.-  Deputy  Arturo Zamora Jiménez, Secretary.- Signatures.
@@ -5781,7 +5825,7 @@ Mexico City, 25 th day of May 2011.- Senator Francisco Arroyo Vieyra, vice-presi
 
 #### 80. PROVISIONAL ARTICLE from the DECREE published in the Official Gazette of the Federation on Wednesday, October 12th, 2011 , whereby paragraphs six and seven of article 4 are amended and section XXIX-P is added to article 73, from the Political Constitution of the United Mexican States.
 
-##### Sole.
+##### Sole.-
 This Decree shall be go into effect the day after its publication in the Official Gazette of the Federation.
 
 Mexico City, August 24 th , 2011.- Sen. Manlio Fabio Beltrones Rivera , President.- Dep. Claudia Ruiz Massieu Salinas , Secretary.- Signatures.
@@ -5813,13 +5857,13 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 #### 83. TRANSITORY ARTICLES from the DECREE published in the Official Gazette of the Federation on Wednesday February 8th, 2012, through which the fifth paragraph is amended and a sixth paragraph is added moving the subsequent order of article 4th of the Political Constitution of the Mexican United States.
 
-##### First.
+##### First.-
 This Decree will come into force the day after publication on the Official Gazette of the Federation.
 
-##### Second.
+##### Second.-
 The Congress of the Union will have a 180 day period to incorporate the provisions related to the right to a healthy environment and the liabilities for the environmental damage and deterioration.
 
-##### Third.
+##### Third.-
 The Congress of the Union will have a 360 days period to issue a General Law of Waters.
 
 Mexico City, January 18th, 2012.- Rep. Guadalupe Acosta Naranjo , Chairman.- Rep. Rigoberto Salgado Vázquez, Secretary.- Sen(sic) Renán Cleominio Zoreda Novelo , Secretary.- Signatures.
@@ -5859,7 +5903,7 @@ The Congress of the Union should perform the reforms to the secondary laws corre
 ##### Third.
 Federal authorities should perform the authority to assert jurisdiction mentioned in this Decree, after the reforms of the secondary law come into force, according to the purposed issued by the Honorable Congress of the Union.
 
-Mexico, City, June 6, 201.- Sen. José González Morfí n, President.- Rep. Gloria Romero León , Secretary.- Signatures.
+Mexico, City, June 6, 201.- Sen. José González Morfín, President.- Rep. Gloria Romero León, Secretary.- Signatures.
 
 #### 86. TRANSITORY ARTICLES of the DECREE published in the Official Gazette of the Federation on Thursday August 9, 2012, by which the following are amended: the first paragraph and section II of article 35; section III of article 36; second paragraph of article 71; section XXVI of article 73; the fourth paragraph of section VI of article 74; section II of article 76; sections IV, VI and VII of articles 78; article 83; the first, second and third paragraphs (which become the fourth and fifth) of article 84; first, second and third paragraphs of article 85; sections II, III and IV of article 89; and section III of the First Base of Subparagraph C of article 122; the following are added: section VI, VII and VIII of article 35; section IV and a third and fourth paragraphs of article 71; a fraction XXIX-Q of article 73; second and third paragraph moving in a subsequent order and the last paragraph of article 84; a second and a third paragraph of article 87; an eighth paragraph to section II of article 116; subparagraph o), moving in a subsequent order to fraction V of the First Base of the Subparagraph C of article 122, of the Constitution of the United Mexican States.
 
@@ -5890,14 +5934,14 @@ This amendment will become effective the day after published in the Official Gaz
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-Mexico,  City,  August  22,  2012.-  Sen.  J osé  González  Morfín ,  Chairman.-  Rep. José  Luis Jaime Correa, Secretary.- Signatures.
+Mexico, City, August 22, 2012.- Sen. José González Morfín, Chairman.- Rep. José Luis Jaime Correa, Secretary.- Signatures.
 
 #### 88.  TRANSITORY  ARTICLE of  the DECREE published on  the  Official  Gazette  of  the Federation  on  Friday, November  30,  2012 ,  which  ammends  Article  40  of  the  Political Constitution of the Mexican United States.
 
-##### Single.
+##### Single.-
 This Decree will come into effect the day after published in the Official Gazette of the Federation.
 
-Mexico, City, November 8, 2012.Sen. Ernesto Javier Cordero Arroyo ,  President.- Rep. Jesús Murillo Karam ,  President.-  Sen. Rosa Adriana Diaz(sic) Lizama ,  Secretary.-  Rep. Angel(sic) Cedillo Hernández , Secretary.- Signatures.
+Mexico, City, November 8, 2012.- Sen. Ernesto Javier Cordero Arroyo, President.- Rep. Jesús Murillo Karam, President.- Sen. Rosa Adriana Diaz(sic) Lizama, Secretary.- Rep. Angel(sic) Cedillo Hernández, Secretary.- Signatures.
 
 #### 89. TRANSITORY ARTICLES of DECEE published in the Official Gazette of the Federation on Tuesday February 26, 2013 , by which the following are amended: articles 3rd., section III, VII and VIII, and 73, section XXV; and a third paragraph is added, subsection d) to the second paragraph of section II and a section IX, to article 3rd., of Political Constitution of the Mexican United States.
 
@@ -5909,9 +5953,9 @@ The  Federal  Executive  will  subject  the  House  of  Representatives  to  a  
 
 In order to ensure the staggered renewal of the members, the first appointments will be on the following periods:
 
-- Two appointments for a five years period;
+I. Two appointments for a five years period;
 
-- Two appointments for a six years period, and
+II. Two appointments for a six years period, and
 
 III. One appointment for a seven years period.
 
@@ -5940,15 +5984,15 @@ Material  and  financial  resources,  as  well  as  workers  ascribed  to  the  
 ##### Fifth.
 For the proper fulfillment of articles 3rd and 73, section XXV, of this Constitution, the Congress of the Union and the corresponding authorities should foresee at least the following:
 
-- Creating an Information and Education Management System. For such effect, during 2013 the National Institute of Statistics and Geography will carry out a census of schools, teachers and students, which will allow the authority to have a single platform of data necessary for the operation of the educational system and that, at the time, allows for a direct communication among principals of schools and education authorities;
+I. Creating an Information and Education Management System. For such effect, during 2013 the National Institute of Statistics and Geography will carry out a census of schools, teachers and students, which will allow the authority to have a single platform of data necessary for the operation of the educational system and that, at the time, allows for a direct communication among principals of schools and education authorities;
 
-- Using the teachers performance evaluation to provide a higher relevance and potential to the national education, updating, training and professional growth system for teachers, within the  frame  of  creating  a  teaching  professional  service.  Evaluation  to  teachers  first  purpose should  be  that  them  as  well  as  the  education  system  have  properly  based  reference  for reflection  and  dialogue  leading  to  a  better  professional  practice.    The  education  system should grant the necessary support for the teachers to be able to prioritize development of their strengths and overcome their weakness, and
+II. Using the teachers performance evaluation to provide a higher relevance and potential to the national education, updating, training and professional growth system for teachers, within the frame of creating a teaching professional service. Evaluation to teachers first purpose should be that them as well as the education system have properly based reference for reflection and dialogue leading to a better professional practice. The education system should grant the necessary support for the teachers to be able to prioritize development of their strengths and overcome their weakness, and
 
 III. Adjustments to the legal frame to:
 
-- strengthen  school  management  autonomy  before  the  corresponding  government  orders with  the  purpose  of  improving  their  infrastructure  and  buying  educational  material,  solving basic  operation  problems  and  favoring  participation  conditions  for  students,  teachers  and parents,  under  the  leadership  of  the  principal,  to  participate  in  the  resolution  of  said challenges faced on each school.
+a) strengthen school management autonomy before the corresponding government orders with the purpose of improving their infrastructure and buying educational material, solving basic operation problems and favoring participation conditions for students, teachers and parents, under the leadership of the principal, to participate in the resolution of said challenges faced on each school.
 
-- Setting a gradual way and according to the budgetary capacity, full time schools with 6 to 8 hours a day, in order to take advantage of the best time available for the academic, sportive and cultural development. In the schools with the need, according to poverty, marginalization and nutritional status, efficient nutritious food supply schemes will be encouraged from local micro companies for students, and
+b) Setting a gradual way and according to the budgetary capacity, full time schools with 6 to 8 hours a day, in order to take advantage of the best time available for the academic, sportive and cultural development. In the schools with the need, according to poverty, marginalization and nutritional status, efficient nutritious food supply schemes will be encouraged from local micro companies for students, and
 
 163
 
@@ -5969,6 +6013,8 @@ Mexico, City., February 7, 2013 .- Rep. Francisco Arroyo Vieyra, Chairman.- Sen.
 
 ## Constitutional reforms
 
+OGF: Official Gazette of the Federation (Diario Oficial de la Federación)
+
 ### Articles 1 to 136
 --- | ---
 Article 1 | 1st Reform OGF 08-14-2001 2nd Reform OGF 12-04-2006
@@ -5978,8 +6024,6 @@ Article 4 | 1st Reform OGF 12-31-1974 2nd Reform OGF 03-18-1980 3rd Reform OGF 0
 Article 5 | 1st Reform OGF 11-17-1942 2nd Reform OGF 12-31-1974 3rd Reform OGF 04-06-1990 4th Reform OGF 01-28-1992
 Article 6 | 1st Reform OGF 12-06-1977 2nd Reform OGF 07-20-2007 3rd Reform OGF 11-13-2007
 Article 7 | No reforms
-
-OGF: Official Gazette of the Federation (Diario Oficial de la Federación)
 
 164
 
@@ -6002,7 +6046,7 @@ Article 16 | 1st Reform OGF 02-03-1983 2nd Reform OGF 09-03-1993 Errata OGF 09-0
 Article 17 | 1st Reform OGF 03-17-1987 2nd Reform OGF 06-18-2008
 Article 18 | 1st Reform OGF 02-23-1965 2nd Reform OGF 02-04-1977 3rd Reform OGF 08-14-2001 4th Reform OGF 12-12-2005 5th Reform OGF 06-18-2008
 Article 19 | 1st Reform OGF 09-03-1993 Errata OGF 09-06-1993 2nd Reform OGF 03-08-1999 3rd Reform OGF 06-18-2008
-Article 20 | 1st Reform OGF 12-02-1948 2nd Reform OGF 01-14-1985 3rd Reform OGF 09-03-1993 Errata OGF 09-06-1993 4th Reform OGF 03-07-1996 5th Reform OGF 09-21-2000 6th Reform OGF 06-18-2008
+Article 20 | Errata OGF 02-06-1917 1st Reform OGF 12-02-1948 2nd Reform OGF 01-14-1985 3rd Reform OGF 09-03-1993 Errata OGF 09-06-1993 4th Reform OGF 03-07-1996 5th Reform OGF 09-21-2000 6th Reform OGF 06-18-2008
 Article 21 | 1st Reform OGF 02-03-1983 2nd Reform OGF 12-31-1994 3rd Reform OGF 07-03-1996 4th Reform OGF 06-20-2005 5th Reform OGF 06-18-2008
 Article 22 | 1st Reform OGF 12-28-1982 2nd Reform OGF 07-03-1996 3rd Reform OGF 03-08-1999 4th Reform OGF 12-09-2005 5th Reform OGF 06-18-2008
 
@@ -6019,7 +6063,7 @@ Article 23 | No reforms
 Article 24 | 1st Reform OGF 01-28-1992
 Article 25 | 1st Reform OGF 02-03-1983 2nd Reform OGF 06-28-1999
 Article 26 | 1st Reform OGF 02-03-1983 2nd Reform OGF 04-07-2006
-Article 27 | 2nd Reform OGF 12-06-1937 3rd Reform OGF 11-09-1940 4th Reform OGF 04-21-1945 5th Reform OGF 02-12-1947 6th Reform OGF 12-02-1948 7th Reform OGF 01-20-1960 8th Reform OGF 12-29-1960 Errata OGF 01-07-1961 9th Reform OGF 10-08-1974 10th Reform OGF 02-06-1975 11th Reform OGF 02-06-1976 12th Reform OGF 02-06-1976 13th Reform OGF 02-03-1983 14th Reform OGF 08-10-1987 15th Reform OGF 01-06-1992 16th Reform OGF 01-28-1992
+Article 27 | 1st Reform OGF 01-10-1934 2nd Reform OGF 12-06-1937 3rd Reform OGF 11-09-1940 4th Reform OGF 04-21-1945 5th Reform OGF 02-12-1947 6th Reform OGF 12-02-1948 7th Reform OGF 01-20-1960 8th Reform OGF 12-29-1960 Errata OGF 01-07-1961 9th Reform OGF 10-08-1974 10th Reform OGF 02-06-1975 11th Reform OGF 02-06-1976 12th Reform OGF 02-06-1976 13th Reform OGF 02-03-1983 14th Reform OGF 08-10-1987 15th Reform OGF 01-06-1992 16th Reform OGF 01-28-1992
 Article 28 | 1st Reform OGF 11-17-1982 2nd Reform OGF 02-03-1983 3rd Reform OGF 06-27-1990 4th Reform OGF 08-20-1993 Errata OGF 08-23-1993 5th Reform OGF 03-02-1995
 Article 29 | 1st Reform OGF 04-21-1981 2nd Reform OGF 08-02-2007
 Article 30 | 1st Reform OGF 01-18-1934 2nd Reform OGF 12-26-1969 3rd Reform OGF 12-31-1974 4th Reform OGF 03-20-1997
@@ -6038,8 +6082,9 @@ Article 36 | 1st Reform OGF 04-06-1990
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-Article 37 | 2nd Reform OGF 08-22-1996 Errata OGF 02-06-1917 1st Reform OGF 01-18-1934 2nd Reform OGF 03-20-1997
+2nd Reform OGF 08-22-1996
 --- | ---
+Article 37 | Errata OGF 02-06-1917 1st Reform OGF 01-18-1934 2nd Reform OGF 03-20-1997
 Article 38 | No reforms
 Article 39 | No reforms
 Article 40 | No reforms
@@ -6126,6 +6171,7 @@ Errata OGF 08-23-1993
 46th Reform OGF 09-29-2003
 47th Reform OGF 04-05-2004
 48th Reform OGF 09-27-2004
+49th Reform OGF 11-28-2005
 50th Reform OGF 12-08-2005
 51st Reform OGF 04-07-2006
 52nd Reform OGF 12-04-2006
@@ -6167,7 +6213,7 @@ Article 78 | 1st Reform OGF 12-29-1980 2nd Reform OGF 08-10-1987 3rd Reform OGF 
 Article 79 | 1st Reform OGF 11-24-1923 2nd Reform OGF 08-20-1928 3rd Reform OGF 04-29-1933 4th Reform OGF 10-21-1966 Clarification OGF 10-22-1966 5th Reform OGF 07-06-1971 6th Reform OGF 10-08-1974 7th Reform OGF 02-08-1985 8th Reform OGF 08-10-1987 9th Reform OGF 10-25-1993 10th Reform OGF 12-31-1994 11th Reform OGF 07-30-1999 12th Reform OGF 05-07-2008
 Article 80 | No reforms
 Article 81 | No reforms
-Artice 82 | 1st Reform OGF 01-22-1927 2nd Reform OGF 01-08-1943 3rd Reform OGF 10-08-1974 4th Reform OGF 08-20-1993 5th Reform OGF 07-01-1994 6th Reform OGF 06-19-2007
+Article 82 | 1st Reform OGF 01-22-1927 2nd Reform OGF 01-08-1943 3rd Reform OGF 10-08-1974 4th Reform OGF 08-20-1993 5th Reform OGF 07-01-1994 6th Reform OGF 06-19-2007
 Article 83 | 1st Reform OGF 01-22-1927 2nd Reform OGF 01-24-1928 3rd Reform OGF 04-29-1933
 Article 84 | 1st Reform OGF 11-24-1923 2nd Reform OGF 04-29-1933
 Article 85 | Errata OGF 02-06-1917 1st Reform OGF 04-29-1933 2nd Reform OGF 11-13-2007
@@ -6185,7 +6231,7 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 2nd Reform OGF 08-29-2008
 --- | ---
-Article 89 | 1st Reform OGF 11-24-1923 2nd Reform OGF 08-20-1928 3rd Reform OGF 02-10-1944 4th Reform OGF 10-21-1966 Clarification OGF 10-22-1966 5th Reform OGF 10-21-1966 Clarification OGF 10-22-1966 6th Reform OGF 10-08-1974 7th Reform OGF 12-28-1982 8th Reform OGF 08-10-1987 9th Reform OGF 05-11-1988 10th Reform OGF 10-25-1993 11th Reform OGF 12-31-1994 12th Reform OGF 04-05-2004
+Article 89 | 1st Reform OGF 11-24-1923 2nd Reform OGF 08-20-1928 3rd Reform OGF 02-10-1944 4th Reform OGF 10-21-1966 Clarification OGF 10-22-1966 5th Reform OGF 10-21-1966 Clarification OGF 10-22-1966 6th Reform OGF 10-08-1974 7th Reform OGF 12-28-1982 8th Reform OGF 08-10-1987 9th Reform OGF 05-11-1988 10th Reform OGF 10-25-1993 11th Reform OGF 12-31-1994 12th Reform OGF 04-05-2004 13th Reform OGF 02-12-2007
 Article 90 | 1st Reform OGF 04-21-1981 2nd Reform OGF 08-02-2007
 Article 91 | No reforms
 Article 92 | 1st Reform OGF 04-21-1981 2nd Reform OGF 08-02-2007
@@ -6223,7 +6269,7 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
 Article 106 | 1st Reform OGF 04-07-1986 2nd Reform OGF 12-31-1994
 --- | ---
-Article 107 | 1st Reform OGF 02-19-1951 Errata OGF 03-14-1951 2nd Reform OGF 11-02-1962 3rd Reform OGF 10-25-1967 4th Reform OGF 03-20-1974 5th Reform OGF 10-08-1974 6th Reform OGF 02-17-1975 7th Reform OGF 08-06-1979 8th Reform OGF 04-07-1986 9th Reform OGF 08-10-1987 10th Reform OGF 09-03-1993 Errata OGF 09-06-1993 11th Reform OGF 10-25-1993 12th Reform OGF 12-31-1994
+Article 107 | 1st Reform OGF 02-19-1951 Errata OGF 03-14-1951 2nd Reform OGF 11-02-1962 3rd Reform OGF 10-25-1967 4th Reform OGF 03-20-1974 5th Reform OGF 10-08-1974 6th Reform OGF 02-17-1975 7th Reform OGF 08-06-1979 8th Reform OGF 04-07-1986 9th Reform OGF 08-10-1987 10th Reform OGF 09-03-1993 Errata OGF 09-06-1993 11th Reform OGF 10-25-1993 12th Reform OGF 12-31-1994 13th Reform OGF 06-11-1999
 Article 108 | 1st Reform OGF 12-28-1982 2nd Reform OGF 12-31-1994 Errata OGF 01-03-1995 3rd Reform OGF 08-22-1996 4th Reform OGF 11-13-2007
 Article 109 | 1st Reform OGF 12-28-1982
 Article 110 | 1st Reform OGF 12-28-1982 2nd Reform OGF 08-10-1987 3rd Reform OGF 12-31-1994 4th Reform OGF 08-22-1996 5th Reform OGF 08-02-2007
@@ -6240,9 +6286,9 @@ Article 114 | 1st Reform OGF 12-28-1982
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 
-Article 115 | 1st Reform OGF 08-20-1928 2nd Reform OGF 04-29-1933 3rd Reform OGF 01-08-1943 4th Reform OGF 02-12-1947 5th Reform OGF 10-17-1953 6th Reform OGF 02-06-1976 7th Reform OGF 12-06-1977 8th Reform OGF 02-03-1983 9th Reform OGF 03-17-1987 10th Reform OGF 12-23-1999 11th Reform OGF 08-14-2001
+Article 115 | 1st Reform OGF 08-20-1928 2nd Reform OGF 04-29-1933 3rd Reform OGF 01-08-1943 4th Reform OGF 02-12-1947 5th Reform OGF 10-17-1953 6th Reform OGF 02-06-1976 7th Reform OGF 12-06-1977 8th Reform OGF 02-03-1983 9th Reform OGF 03-17-1987 10th Reform OGF 12-23-1999 11th Reform OGF 08-14-2001 12th Reform OGF 06-18-2008 13th Reform OGF 08-24-2009
 --- | --- | --- | ---
-Article 116 | 13th Reform OGF 08-24-2009 1st Reform OGF 03-17-1987 2nd Reform OGF 12-31-1994 3rd Reform OGF 08-22-1996 4th Reform OGF 11-13-2007 5th Reform OGF 05-07-2008 6th Reform OGF 09-26-2008 7th Reform OGF 08-24-2009
+Article 116 | 1st Reform OGF 03-17-1987 2nd Reform OGF 12-31-1994 3rd Reform OGF 08-22-1996 4th Reform OGF 11-13-2007 5th Reform OGF 05-07-2008 6th Reform OGF 09-26-2008 7th Reform OGF 08-24-2009
 Article 117 | 1st Reform OGF 10-24-1942 2nd Reform OGF 12-30-1946 3rd Reform OGF 10-21-1966 Clarification OGF 10-22-1966 4th Reform OGF 04-21-1981
 Article 118 | No reforms
 Article 119 | 1st Reform OGF 09-03-1993 Errata OGF 09-06-1993 2nd Reform OGF 10-25-1993
@@ -6346,8 +6392,6 @@ Transitory articles: | 9
 Transitory articles corresponding to reform acts: | 4
 Total: | 501
 
-501
-
 177
 
 [[END OF PAGE 175]]
@@ -6389,7 +6433,28 @@ No. | Reform Act | Date of publication in the Official Gazette of the Federation
 [[START OF PAGE 178]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
-
+reforms the first paragraph of the Article 108; amends and adds the section IV of the Article 116; reforms the Article 122, First Base, section V, letter 'f'; adds the last three paragraphs to the Article 134; and repeals the third paragraph of the Article 97. | Electoral reform |
+177 | Reform Act that amends the section IV of the Article 99. | 09-27-2007
+176 | Reform Act that adds the section XXIX-N to the Article 73. | 08-15-2007
+175 | Reform Act that amends the articles 29, 73, 90, 92, 93, 95, 110 and 111. | 08-02-2007
+174 | Reform Act that reforms the second paragraph of the Article 6. | 07-20-2007
+173 | Reform Act that amends the section X of the Article 73. | 07-20-2007
+172 | Reform Act that reforms the section V of the Article 55. | 06-19-2007
+171 | Reform Act that amends the section VI of the Article 82. | 06-19-2007
+170 | Reform Act that reforms the section I of the Article 76 and the section X of the Article 89. | 02-12-2007
+169 | Reform Act that amends the third paragraph of the Article 1. | 12-04-2006
+168 | Reform Act that reforms the section XXIX-H of the Article 73. | 12-04-2006
+167 | Reform Act that adds the letter 'g' to the section II of the Article 105. | 09-14-2006
+166 | Reform Act that reforms the Article 26 and the section XXIX-D of the Article 73. | 04-07-2006
+165 | Reform Act that amends the fourth paragraph of the Article 18 and adds the fifth and sixth paragraphs to it, so that the last two paragraphs are moved ahead. | 12-12-2005
+164 | Reform Act that reforms the second paragraph of the Article 14 and the first paragraph of the Article 22; and repeals the fourth paragraph of the Article 22. | 12-09-2005
+163 | Reform Act that amends the only paragraph of the Article 46 and adds a second and third paragraphs to it; repeals the section IV of the Article 73; adds sections X and XI to the Article 76, so that the section X is moved to the XII position; reforms the section I of the Article 105. | 12-08-2005
+162 | Reform Act that adds the third paragraph to the section XXI of the Article 73. | 11-28-2005
+161 | Reform Act that makes additions to the Article 21. | 06-20-2005
+160 | Reform Act that adds the section XXIX-L to the Article 73. | 09-27-2004
+159 | Reform Act that reforms the first paragraph of the Article 65. | 08-02-2004
+158 | Reform Act that amends the section IV of the Article 74. | 07-30-2004
+157 | Reform Act that reforms the second transitory article to the articles 30, 32 and 37 published on March 20, 1997. | 07-22-2004
 180
 
 [[END OF PAGE 178]]
@@ -6397,7 +6462,32 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 [[START OF PAGE 179]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
-
+156 | Reform Act that adds the section XXIX-M to the Article 73 and reforms the section VI of the Article 89. | 04-05-2004
+155 | Reform Act that amends the first paragraph of the Article 63 and the section IV of the Article 77. | 10-29-2003
+154 | Reform Act that adds the section XXIX-K to the Article 73. | 09-29-2003
+153 | Reform Act that adds the first paragraph, sections III, V and VI of the Article 3; and adds the section I of the Article 31. | 11-12-2002
+152 | Reform Act that changes the name of the Title Four and adds a second paragraph to the Article 113. | 06-14-2002
+151 | Reform Act that adds the second and third paragraphs to the Article 1; reforms the Article 2; repeals the first paragraph of the Article 4; adds a sixth paragraph to the Article 18; and adds the last paragraph to the section III of the Article 115. | 08-14-2001
+150 | Reform Act that reforms the section XXV of the Article 73. | 09-21-2000
+149 | Reform Act that amends, adds and repeals several dispositions of the Article 20. | 09-21-2000
+148 | Reform Act that makes reforms and additions to the Article 4. Errata | 04-07-2000
+147 | Reform Act that makes reforms and additions to the Article 115. | 12-23-1999
+146 | Reform Act that makes reforms and additions to the Article 102, part 'B'. | 09-13-1999
+145 | Reform Act that makes reforms and additions to the part 'B' of the Article 102. | 07-30-1999
+144 | Reform Act that amends the Article 58. | 07-29-1999
+143 | Reform Act that adds the section XXIX-J to the Article 73. | 06-28-1999
+142 | Reform Act that reforms the section XXIX-H of the Article 73 and adds the section XXIX-I to it. | 06-28-1999
+141 | Reform Act that adds the fifth paragraph to the Article 4 and amends the first paragraph of the Article 25. | 06-28-1999
+140 | Reform Act that reforms the articles 94, 97, 1000 and 107. | 06-11-1999
+139 | Reform Act that amends the articles 16, 19, 22 and 123. | 03-08-1999
+138 | Reform Act that reforms the third transitory article of the reform act published on March 20, 1997, which amended the articles 30, 32 and 37. | 02-26-1999
+137 | Reform Act that reforms the articles 30, 32 and 37. | 03-20-1997
+136 | Reform Act that amends several articles. | 08-22-1996
+135 | Reform Act that reforms the articles 16, 20 section I and last paragraph, 21, 22 and 73 section XXI. | 07-03-1996
+134 | Reform Act that amends the fourth paragraph of the Article 28. | 03-02-1995
+133 | Reform Act that amends the articles 21, 55, 73, 76, 79, 89, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 110, 111, 116, 122 and 123. Errata | 12-31-1994
+132 | Reform Act that reforms the section I of the Article 82. | 07-01-1994
+131 | Reform Act that amends eighth, ninth, seventeenth and eighteenth paragraphs of the Article 41. | 04-19-1994
 181
 
 [[END OF PAGE 179]]
@@ -6473,7 +6563,33 @@ POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
 [[START OF PAGE 182]]
 
 POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES
-
+082 | Reform Act that reforms the section XIV of the Article 107. | 02-17-1975
+081 | Declaration that adds the section XXXI to the Article 123, part 'A'. Errata | Official Gazette of the Federation 03-17-1975 | 02-06-1975
+080 | Declaration that adds the sixth and seventh paragraphs to the Article 27 and adds the section X to the Article 73. | 02-06-1975
+079 | Reform Act that makes reforms and additions to the articles 4, 5, 30 and 123 related to women's equality before the law. | 12-31-1974
+078 | Reform Act that reforms the Article 43 and the other related articles. | 10-08-1974
+077 | Reform Act that makes additions to the Article 107. | 03-20-1974
+076 | Reform Act that makes reforms and additions to the Article 93. | 01-31-1974
+075 | Reform Act that amends the letter 'f' of the section XI and adds the second paragraph to the section XIII of the part 'B' of the Article 123. | 11-10-1972
+074 | Reform Act that amends the section XII of the part 'A' of the Article 123. | 02-14-1972
+073 | Reform Act that makes reforms and additions to the articles 52; 54 sections I, II and III; 55 section II; and 58. | 02-14-1972
+072 | Reform Act that amends the Article 10. | 10-22-1971
+071 | Reform Act that adds the Fourth Base to the section XVI of the Article 73. | 07-06-1971
+070 | Reform Act that reforms the Article 74 and makes additions to the Article 79. | 07-06-1971
+069 | Reform Act that amends the section II of the letter 'a' of the Article 30. | 12-26-1969
+068 | Reform Act that amends the Article 34. | 12-22-1969
+067 | Reform Act that makes reforms and additions to the articles 94, 98, 100, 102, 104 section I, 105 and 107 sections II last paragraph, III, IV, V, VI, VIII, XIII and XVI. | 10-25-1967
+066 | Reform Act that makes additions to the Article 73. | 10-24-1967
+065 | Reform Act that reforms the articles 79, 88, 89 and 135. Clarification | Official Gazette of the Federation 10-22-1966 | 10-21-1966
+064 | Reform Act that amends the articles 73, 89 and 117. Clarification | Official Gazette of the Federation 10-22-1966 | 10-21-1966
+063 | Reform Act that adds the section XXV to the Article 73. | 01-13-1966
+062 | Reform Act that makes reforms and additions to the Article 18. | 02-23-1965
+061 | Reform Act that makes reforms and additions to the articles 54 and 63. | 06-22-1963
+060 | Reform Act that amends the Article 123. | 11-21-1962
+059 | Reform Act that adds the last paragraph to the section II of the Article 107. | 11-02-1962
+058 | Reform Act that reforms the second paragraph of the section IV in the letter 'b' of the Article 123. | 11-27-1961
+057 | Reform Act that adds the sixth paragraph to the Article 27. Errata | Official Gazette of the Federation 01-07-1961 | 29-12-1960
+056 | Reform Act that amends the Article 52. | 12-20-1960
 184
 
 [[END OF PAGE 182]]
